@@ -1,0 +1,1 @@
+This is all stuff that I personally collected and transcribed (from wherever).

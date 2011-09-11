@@ -1,0 +1,2082 @@
+(dp1
+I2561
+(dp2
+S'birthplace'
+p3
+VStepney, England
+p4
+sS'name'
+p5
+VAshley Cole
+p6
+sS'birthdate'
+p7
+cdatetime
+datetime
+p8
+(S'\x07\xbc\x0c\x14\x00\x00\x00\x00\x00\x00'
+tRp9
+sS'height'
+p10
+I176
+ssI2567
+(dp11
+g3
+VLeeds, England
+p12
+sg5
+VAlan Smith
+p13
+sg7
+g8
+(S'\x07\xbc\n\x1c\x00\x00\x00\x00\x00\x00'
+tRp14
+sg10
+I178
+ssI7340
+(dp15
+S'birthplace'
+p16
+VAsnieres, France
+p17
+sS'name'
+p18
+VWilliam Gallas
+p19
+sS'birthdate'
+p20
+g8
+(S'\x07\xb9\x08\x11\x00\x00\x00\x00\x00\x00'
+tRp21
+sS'height'
+p22
+I183
+ssI2575
+(dp23
+g3
+VLondon, England
+p24
+sg5
+VLee Bowyer
+p25
+sg7
+g8
+(S'\x07\xb9\x01\x03\x00\x00\x00\x00\x00\x00'
+tRp26
+sg10
+I175
+ssI2581
+(dp27
+g3
+VMiddlesbrough, England
+p28
+sg5
+VJonathan Woodgate
+p29
+sg7
+g8
+(S'\x07\xbc\x01\x16\x00\x00\x00\x00\x00\x00'
+tRp30
+sg10
+I188
+ssI7705
+(dp31
+S'birthplace'
+p32
+VLimerick, Ireland
+p33
+sS'name'
+p34
+VSteve Finnan
+p35
+sS'birthdate'
+p36
+g8
+(S'\x07\xb8\x04\x14\x00\x00\x00\x00\x00\x00'
+tRp37
+sS'height'
+p38
+I183
+ssI13339
+(dp39
+S'birthplace'
+p40
+VBratislava, Czechoslovakia
+p41
+sS'name'
+p42
+VVladimir Weiss
+p43
+sS'birthdate'
+p44
+g8
+(S'\x07\xc5\x0b\x1e\x00\x00\x00\x00\x00\x00'
+tRp45
+sS'height'
+p46
+I182
+ssI7196
+(dp47
+S'birthplace'
+p48
+VStavanger, Norway
+p49
+sS'name'
+p50
+VErik Nevland
+p51
+sS'birthdate'
+p52
+g8
+(S'\x07\xb9\x0b\n\x00\x00\x00\x00\x00\x00'
+tRp53
+sS'height'
+p54
+I178
+ssI2590
+(dp55
+g3
+VBeverley, England
+p56
+sg5
+VPaul Robinson
+p57
+sg7
+g8
+(S'\x07\xbb\n\x0f\x00\x00\x00\x00\x00\x00'
+tRp58
+sg10
+I193
+ssI7712
+(dp59
+g32
+VLondon, England
+p60
+sg34
+VSean Davis
+p61
+sg36
+g8
+(S'\x07\xbb\t\x14\x00\x00\x00\x00\x00\x00'
+tRp62
+sg38
+I178
+ssI2596
+(dp63
+g3
+VBromsgrove, England
+p64
+sg5
+VJody Craddock
+p65
+sg7
+g8
+(S'\x07\xb7\x07\x19\x00\x00\x00\x00\x00\x00'
+tRp66
+sg10
+I185
+ssI3621
+(dp67
+S'birthplace'
+p68
+VReims, France
+p69
+sS'name'
+p70
+VRobert Pires
+p71
+sS'birthdate'
+p72
+g8
+(S'\x07\xb5\n\x1d\x00\x00\x00\x00\x00\x00'
+tRp73
+sS'height'
+p74
+I187
+ssI7718
+(dp75
+g32
+VSt Andrews, Jamaica
+p76
+sg34
+VRicardo Gardner
+p77
+sg36
+g8
+(S'\x07\xba\t\x19\x00\x00\x00\x00\x00\x00'
+tRp78
+sg38
+I175
+ssI7720
+(dp79
+g32
+VLiverpool, England
+p80
+sg34
+VKevin Nolan
+p81
+sg36
+g8
+(S'\x07\xbe\x06\x18\x00\x00\x00\x00\x00\x00'
+tRp82
+sg38
+I183
+ssI3115
+(dp83
+S'birthplace'
+p84
+VPeckham, England
+p85
+sS'name'
+p86
+VRio Ferdinand
+p87
+sS'birthdate'
+p88
+g8
+(S'\x07\xba\x0b\x07\x00\x00\x00\x00\x00\x00'
+tRp89
+sS'height'
+p90
+I189
+ssI2608
+(dp91
+g3
+VBlackpool, England
+p92
+sg5
+VGavin McCann
+p93
+sg7
+g8
+(S'\x07\xba\x01\n\x00\x00\x00\x00\x00\x00'
+tRp94
+sg10
+I180
+ssI2611
+(dp95
+g3
+VHitchin, England
+p96
+sg5
+VKevin Phillips
+p97
+sg7
+g8
+(S'\x07\xb5\x07\x19\x00\x00\x00\x00\x00\x00'
+tRp98
+sg10
+I170
+ssI3127
+(dp99
+g84
+VSalisbury, England
+p100
+sg86
+VFrank Lampard
+p101
+sg88
+g8
+(S'\x07\xba\x06\x14\x00\x00\x00\x00\x00\x00'
+tRp102
+sg90
+I184
+ssI3128
+(dp103
+g84
+VWelwyn, England
+p104
+sg86
+VDavid James
+p105
+sg88
+g8
+(S'\x07\xb2\x08\x01\x00\x00\x00\x00\x00\x00'
+tRp106
+sg90
+I196
+ssI2618
+(dp107
+g3
+VOdense, Denmark
+p108
+sg5
+VThomas Sorensen
+p109
+sg7
+g8
+(S'\x07\xb8\x06\x0c\x00\x00\x00\x00\x00\x00'
+tRp110
+sg10
+I196
+ssI3132
+(dp111
+g84
+VWallsend, England
+p112
+sg86
+VMichael Carrick
+p113
+sg88
+g8
+(S'\x07\xbd\x07\x1c\x00\x00\x00\x00\x00\x00'
+tRp114
+sg90
+I183
+ssI14402
+(dp115
+S'birthplace'
+p116
+VSokoura Bouake, Ivory Coast
+p117
+sS'name'
+p118
+VHabib Kolo Toure
+p119
+sS'birthdate'
+p120
+g8
+(S'\x07\xbd\x03\x13\x00\x00\x00\x00\x00\x00'
+tRp121
+sS'height'
+p122
+I183
+ssI3144
+(dp123
+g84
+VHastings, England
+p124
+sg86
+VGareth Barry
+p125
+sg88
+g8
+(S'\x07\xbd\x02\x17\x00\x00\x00\x00\x00\x00'
+tRp126
+sg90
+I183
+ssI7243
+(dp127
+g48
+VBeckton, England
+p128
+sg50
+VJermain Defoe
+p129
+sg52
+g8
+(S'\x07\xbe\n\x07\x00\x00\x00\x00\x00\x00'
+tRp130
+sg54
+I169
+ssI4172
+(dp131
+S'birthplace'
+p132
+VHerne, Germany
+p133
+sS'name'
+p134
+VYildiray Bast&uuml;rk
+p135
+sS'birthdate'
+p136
+g8
+(S'\x07\xba\x0c\x18\x00\x00\x00\x00\x00\x00'
+tRp137
+sS'height'
+p138
+I168
+ssI3661
+(dp139
+g68
+VIpswich, England
+p140
+sg70
+VTitus Bramble
+p141
+sg72
+g8
+(S'\x07\xbd\x07\x15\x00\x00\x00\x00\x00\x00'
+tRp142
+sg74
+I185
+ssI3151
+(dp143
+g84
+VSan Fernando, Trinidad &amp; Tobago
+p144
+sg86
+VJlloyd Samuel
+p145
+sg88
+g8
+(S'\x07\xbd\x03\x1d\x00\x00\x00\x00\x00\x00'
+tRp146
+sg90
+I180
+ssI3152
+(dp147
+g84
+VNkawkaw, Ghana
+p148
+sg86
+VGeorge Boateng
+p149
+sg88
+g8
+(S'\x07\xb7\t\x05\x00\x00\x00\x00\x00\x00'
+tRp150
+sg90
+I175
+ssI8800
+(dp151
+S'birthplace'
+p152
+VMouscron, France
+p153
+sS'name'
+p154
+VSteed Malbranque
+p155
+sS'birthdate'
+p156
+g8
+(S'\x07\xbc\x01\x06\x00\x00\x00\x00\x00\x00'
+tRp157
+sS'height'
+p158
+I168
+ssI8801
+(dp159
+g152
+VSolihull, England
+p160
+sg154
+VZatyiah Knight
+p161
+sg156
+g8
+(S'\x07\xbc\x05\x02\x00\x00\x00\x00\x00\x00'
+tRp162
+sg158
+I198
+ssI7935
+(dp163
+g32
+VWatford, England
+p164
+sg34
+VPaul Robinson
+p165
+sg36
+g8
+(S'\x07\xba\x0c\x0e\x00\x00\x00\x00\x00\x00'
+tRp166
+sg38
+I175
+ssI4811
+(dp167
+S'birthplace'
+p168
+VHaverford West, Wales
+p169
+sS'name'
+p170
+VSimon Davies
+p171
+sS'birthdate'
+p172
+g8
+(S'\x07\xbb\n\x17\x00\x00\x00\x00\x00\x00'
+tRp173
+sS'height'
+p174
+I178
+ssI3379
+(dp175
+g68
+VSouth Shields, England
+p176
+sg70
+VSteve Simonsen
+p177
+sg72
+g8
+(S'\x07\xbb\x04\x03\x00\x00\x00\x00\x00\x00'
+tRp178
+sg74
+I188
+ssI3693
+(dp179
+g68
+VReykjavik , Iceland
+p180
+sg70
+VEidur Gudjohnsen
+p181
+sg72
+g8
+(S'\x07\xba\t\x0f\x00\x00\x00\x00\x00\x00'
+tRp182
+sg74
+I185
+ssI4718
+(dp183
+S'birthplace'
+p184
+VCardiff, Wales
+p185
+sS'name'
+p186
+VCraig Bellamy
+p187
+sS'birthdate'
+p188
+g8
+(S'\x07\xbb\x08\x08\x00\x00\x00\x00\x00\x00'
+tRp189
+sS'height'
+p190
+I173
+ssI2493
+(dp191
+S'birthplace'
+p192
+VChambray-les-Tours, France
+p193
+sS'name'
+p194
+VMikael Silvestre
+p195
+sS'birthdate'
+p196
+g8
+(S'\x07\xb9\x08\t\x00\x00\x00\x00\x00\x00'
+tRp197
+sS'height'
+p198
+I183
+ssI7280
+(dp199
+g16
+VParis, France
+p200
+sg18
+VLouis Saha
+p201
+sg20
+g8
+(S'\x07\xba\x08\x08\x00\x00\x00\x00\x00\x00'
+tRp202
+sg22
+I183
+ssI4722
+(dp203
+g184
+VReykjavik, Iceland
+p204
+sg186
+VHermann Hreidarsson
+p205
+sg188
+g8
+(S'\x07\xb6\x07\x0b\x00\x00\x00\x00\x00\x00'
+tRp206
+sg190
+I185
+ssI2679
+(dp207
+g3
+VAsuncion, Paraguay
+p208
+sg5
+VRoque Santa Cruz
+p209
+sg7
+g8
+(S'\x07\xbd\x08\x10\x00\x00\x00\x00\x00\x00'
+tRp210
+sg10
+I187
+ssI3348
+(dp211
+g68
+VLisbon, Portugal
+p212
+sg70
+VLuis Boa Morte
+p213
+sg72
+g8
+(S'\x07\xb9\x08\x04\x00\x00\x00\x00\x00\x00'
+tRp214
+sg74
+I178
+ssI3201
+(dp215
+g84
+VSalford, England
+p216
+sg86
+VDean Kiely
+p217
+sg88
+g8
+(S'\x07\xb2\n\n\x00\x00\x00\x00\x00\x00'
+tRp218
+sg90
+I185
+ssI3202
+(dp219
+g84
+VHarlow, England
+p220
+sg86
+VLuke Young
+p221
+sg88
+g8
+(S'\x07\xbb\x07\x13\x00\x00\x00\x00\x00\x00'
+tRp222
+sg90
+I183
+ssI7300
+(dp223
+g16
+VHampstead, London, England
+p224
+sg18
+VMarlon Harewood
+p225
+sg20
+g8
+(S'\x07\xbb\x08\x19\x00\x00\x00\x00\x00\x00'
+tRp226
+sg22
+I185
+ssI3207
+(dp227
+g84
+VBarking, England
+p228
+sg86
+VPaul Konchesky
+p229
+sg88
+g8
+(S'\x07\xbd\x05\x0f\x00\x00\x00\x00\x00\x00'
+tRp230
+sg90
+I178
+ssI14986
+(dp231
+g116
+VAs Neves, Spain
+p232
+sg118
+VMichel Salgado
+p233
+sg120
+g8
+(S'\x07\xb7\n\x16\x00\x00\x00\x00\x00\x00'
+tRp234
+sg122
+I174
+ssI13451
+(dp235
+g40
+VPerth, Australia
+p236
+sg42
+VRichard Garcia
+p237
+sg44
+g8
+(S'\x07\xbd\t\x04\x00\x00\x00\x00\x00\x00'
+tRp238
+sg46
+I180
+ssI3214
+(dp239
+g84
+VLondon, England
+p240
+sg86
+VScott Parker
+p241
+sg88
+g8
+(S'\x07\xbc\n\r\x00\x00\x00\x00\x00\x00'
+tRp242
+sg90
+I175
+ssI14482
+(dp243
+g116
+VHartlepool, England
+p244
+sg118
+VDavid Murphy
+p245
+sg120
+g8
+(S'\x07\xc0\x03\x01\x00\x00\x00\x00\x00\x00'
+tRp246
+sg122
+I183
+ssI3525
+(dp247
+g68
+VAmsterdam, Holland
+p248
+sg70
+VMario Melchiot
+p249
+sg72
+g8
+(S'\x07\xb8\x0b\x04\x00\x00\x00\x00\x00\x00'
+tRp250
+sg74
+I187
+ssI3235
+(dp251
+g84
+VLondon, England
+p252
+sg86
+VSol Campbell
+p253
+sg88
+g8
+(S'\x07\xb6\t\x12\x00\x00\x00\x00\x00\x00'
+tRp254
+sg90
+I188
+ssI15012
+(dp255
+g116
+VAlingsas, Sweden
+p256
+sg118
+VJohan Elmander
+p257
+sg120
+g8
+(S'\x07\xbd\x05\x1b\x00\x00\x00\x00\x00\x00'
+tRp258
+sg122
+I188
+ssI3238
+(dp259
+g84
+VLifford, Ireland
+p260
+sg86
+VShay Given
+p261
+sg88
+g8
+(S'\x07\xb8\x04\x14\x00\x00\x00\x00\x00\x00'
+tRp262
+sg90
+I183
+ssI3240
+(dp263
+g84
+VEasington, England
+p264
+sg86
+VSteve Harper
+p265
+sg88
+g8
+(S'\x07\xb7\x03\x0e\x00\x00\x00\x00\x00\x00'
+tRp266
+sg90
+I188
+ssI7708
+(dp267
+g32
+VSeattle, United States
+p268
+sg34
+VMarcus Hahnemann
+p269
+sg36
+g8
+(S'\x07\xb4\x06\x0f\x00\x00\x00\x00\x00\x00'
+tRp270
+sg38
+I191
+ssI3244
+(dp271
+g84
+VDublin, Ireland
+p272
+sg86
+VStephen Carr
+p273
+sg88
+g8
+(S'\x07\xb8\x08\x1d\x00\x00\x00\x00\x00\x00'
+tRp274
+sg90
+I175
+ssI7857
+(dp275
+g32
+VHartlepool, England
+p276
+sg34
+VMichael Brown
+p277
+sg36
+g8
+(S'\x07\xb9\x01\x19\x00\x00\x00\x00\x00\x00'
+tRp278
+sg38
+I179
+ssI3251
+(dp279
+g84
+VSydney, Australia
+p280
+sg86
+VMark Schwarzer
+p281
+sg88
+g8
+(S'\x07\xb4\n\x06\x00\x00\x00\x00\x00\x00'
+tRp282
+sg90
+I194
+ssI3257
+(dp283
+g84
+VCookstown, Northern Ireland
+p284
+sg86
+VAaron Hughes
+p285
+sg88
+g8
+(S'\x07\xbb\x0b\x08\x00\x00\x00\x00\x00\x00'
+tRp286
+sg90
+I183
+ssI3262
+(dp287
+g84
+VStirling, Scotland
+p288
+sg86
+VGary Caldwell
+p289
+sg88
+g8
+(S'\x07\xbe\x04\x0c\x00\x00\x00\x00\x00\x00'
+tRp290
+sg90
+I180
+ssI3266
+(dp291
+g84
+VStirling, Scotland
+p292
+sg86
+VStephen Caldwell
+p293
+sg88
+g8
+(S'\x07\xbc\t\x0c\x00\x00\x00\x00\x00\x00'
+tRp294
+sg90
+I180
+ssI3275
+(dp295
+g68
+VIpswich, England
+p296
+sg70
+VKieron Dyer
+p297
+sg72
+g8
+(S'\x07\xba\x0c\x1d\x00\x00\x00\x00\x00\x00'
+tRp298
+sg74
+I173
+ssI4804
+(dp299
+g168
+VBow, England
+p300
+sg170
+VLedley King
+p301
+sg172
+g8
+(S'\x07\xbc\n\x0c\x00\x00\x00\x00\x00\x00'
+tRp302
+sg174
+I188
+ssI3784
+(dp303
+g132
+VCalgary, Canada
+p304
+sg134
+VOwen Hargreaves
+p305
+sg136
+g8
+(S'\x07\xbd\x01\x14\x00\x00\x00\x00\x00\x00'
+tRp306
+sg138
+I180
+ssI4809
+(dp307
+g168
+VTruro, England
+p308
+sg170
+VMatthew Etherington
+p309
+sg172
+g8
+(S'\x07\xbd\x08\x0e\x00\x00\x00\x00\x00\x00'
+tRp310
+sg174
+I178
+ssI11467
+(dp311
+S'birthplace'
+p312
+VCape town, South Africa
+p313
+sS'name'
+p314
+VBenedict Saul McCarthy
+p315
+sS'birthdate'
+p316
+g8
+(S'\x07\xb9\x0b\x0c\x00\x00\x00\x00\x00\x00'
+tRp317
+sS'height'
+p318
+I183
+ssI4813
+(dp319
+g168
+VStafford, England
+p320
+sg170
+VAnthony Gardner
+p321
+sg172
+g8
+(S'\x07\xbc\t\x13\x00\x00\x00\x00\x00\x00'
+tRp322
+sg174
+I196
+ssI2261
+(dp323
+S'birthplace'
+p324
+VCordoba, Argentina
+p325
+sS'name'
+p326
+VFabricio Coloccini
+p327
+sS'birthdate'
+p328
+g8
+(S'\x07\xbe\x01\x16\x00\x00\x00\x00\x00\x00'
+tRp329
+sS'height'
+p330
+I183
+ssI15064
+(dp331
+g116
+VSuresnes, France
+p332
+sg118
+VHabib Beye
+p333
+sg120
+g8
+(S'\x07\xb9\n\x13\x00\x00\x00\x00\x00\x00'
+tRp334
+sg122
+I182
+ssI3804
+(dp335
+g132
+VNueva Loja, Ecuador
+p336
+sg134
+VLuis Antonio Valencia
+p337
+sg136
+g8
+(S'\x07\xc1\x08\x04\x00\x00\x00\x00\x00\x00'
+tRp338
+sg138
+I181
+ssI15071
+(dp339
+g116
+VDakar, Senegal
+p340
+sg118
+VPapa Bouba Diop
+p341
+sg120
+g8
+(S'\x07\xba\x01\x1c\x00\x00\x00\x00\x00\x00'
+tRp342
+sg122
+I191
+ssI15075
+(dp343
+g116
+VKedougou, Senegal
+p344
+sg118
+VSalif Diao
+p345
+sg120
+g8
+(S'\x07\xb9\x02\n\x00\x00\x00\x00\x00\x00'
+tRp346
+sg122
+I183
+ssI5864
+(dp347
+S'birthplace'
+p348
+VPrague, Czechoslovakia
+p349
+sS'name'
+p350
+VTomas Rosicky
+p351
+sS'birthdate'
+p352
+g8
+(S'\x07\xbc\n\x04\x00\x00\x00\x00\x00\x00'
+tRp353
+sS'height'
+p354
+I179
+ssI15081
+(dp355
+g116
+VDakar, Senegal
+p356
+sg118
+VEl Hadji Diouf
+p357
+sg120
+g8
+(S'\x07\xbd\x01\x0f\x00\x00\x00\x00\x00\x00'
+tRp358
+sg122
+I180
+ssI15088
+(dp359
+g116
+VBoipatong, South Africa
+p360
+sg118
+VAaron Mokoena
+p361
+sg120
+g8
+(S'\x07\xbc\x0b\x19\x00\x00\x00\x00\x00\x00'
+tRp362
+sg122
+I188
+ssI7932
+(dp363
+g32
+VHemel Hempstead, England
+p364
+sg34
+VTommy Smith
+p365
+sg36
+g8
+(S'\x07\xbc\x05\x16\x00\x00\x00\x00\x00\x00'
+tRp366
+sg38
+I173
+ssI5887
+(dp367
+g348
+VSofia, Bulgaria
+p368
+sg350
+VDimitar Berbatov
+p369
+sg352
+g8
+(S'\x07\xbd\x01\x1e\x00\x00\x00\x00\x00\x00'
+tRp370
+sg354
+I188
+ssI2603
+(dp371
+g3
+VPreston, England
+p372
+sg5
+VKevin Kilbane
+p373
+sg7
+g8
+(S'\x07\xb9\x02\x01\x00\x00\x00\x00\x00\x00'
+tRp374
+sg10
+I183
+ssI4737
+(dp375
+g184
+VGreenwich, England
+p376
+sg186
+VShaun Wright-Phillips
+p377
+sg188
+g8
+(S'\x07\xbd\n\x19\x00\x00\x00\x00\x00\x00'
+tRp378
+sg190
+I166
+ssI4874
+(dp379
+g168
+VZaria, Nigeria
+p380
+sg170
+VShola Ameobi
+p381
+sg172
+g8
+(S'\x07\xbd\n\x0c\x00\x00\x00\x00\x00\x00'
+tRp382
+sg174
+I188
+ssI3714
+(dp383
+g68
+VDublin, Ireland
+p384
+sg70
+VKeith Fahey
+p385
+sg72
+g8
+(S'\x07\xbf\x01\x0f\x00\x00\x00\x00\x00\x00'
+tRp386
+sg74
+I178
+ssI3343
+(dp387
+g68
+VSheffield, England
+p388
+sg70
+VKevin Davies
+p389
+sg72
+g8
+(S'\x07\xb9\x03\x1a\x00\x00\x00\x00\x00\x00'
+tRp390
+sg74
+I183
+ssI3344
+(dp391
+g68
+VLancaster, England
+p392
+sg70
+VJames Beattie
+p393
+sg72
+g8
+(S'\x07\xba\x02\x1b\x00\x00\x00\x00\x00\x00'
+tRp394
+sg74
+I185
+ssI15124
+(dp395
+g116
+VMacclesfield, England
+p396
+sg118
+VPeter Crouch
+p397
+sg120
+g8
+(S'\x07\xbd\x01\x1e\x00\x00\x00\x00\x00\x00'
+tRp398
+sg122
+I198
+ssI3358
+(dp399
+g68
+VHull, England
+p400
+sg70
+VNick Barmby
+p401
+sg72
+g8
+(S'\x07\xb6\x02\x0b\x00\x00\x00\x00\x00\x00'
+tRp402
+sg74
+I170
+ssI3365
+(dp403
+g68
+VDublin, Ireland
+p404
+sg70
+VRichard Dunne
+p405
+sg72
+g8
+(S'\x07\xbb\t\x15\x00\x00\x00\x00\x00\x00'
+tRp406
+sg74
+I188
+ssI2342
+(dp407
+g324
+VVoorhout, Holland
+p408
+sg326
+VEdwin Van der Sar
+p409
+sg328
+g8
+(S'\x07\xb2\n\x1d\x00\x00\x00\x00\x00\x00'
+tRp410
+sg330
+I197
+ssI4908
+(dp411
+g168
+VVersailles, France
+p412
+sg170
+VNicolas Anelka
+p413
+sg172
+g8
+(S'\x07\xbb\x03\x0e\x00\x00\x00\x00\x00\x00'
+tRp414
+sg174
+I185
+ssI5936
+(dp415
+g348
+VBelfast, Northern Ireland
+p416
+sg350
+VGeorge McCartney
+p417
+sg352
+g8
+(S'\x07\xbd\x04\x1d\x00\x00\x00\x00\x00\x00'
+tRp418
+sg354
+I180
+ssI3123
+(dp419
+g84
+VPaddington, England
+p420
+sg86
+VJoe Cole
+p421
+sg88
+g8
+(S'\x07\xbd\x0b\x08\x00\x00\x00\x00\x00\x00'
+tRp422
+sg90
+I176
+ssI2526
+(dp423
+g192
+VLeicester, England
+p424
+sg194
+VEmile Heskey
+p425
+sg196
+g8
+(S'\x07\xba\x01\x0b\x00\x00\x00\x00\x00\x00'
+tRp426
+sg198
+I188
+ssI8517
+(dp427
+g152
+VOcotlan, Mexico
+p428
+sg154
+VCarlos Arnoldo Salcido
+p429
+sg156
+g8
+(S'\x07\xbc\x04\x02\x00\x00\x00\x00\x00\x00'
+tRp430
+sg158
+I176
+ssI15186
+(dp431
+g116
+VNorth Brunswick, United States
+p432
+sg118
+VTim Howard
+p433
+sg120
+g8
+(S'\x07\xbb\x03\x06\x00\x00\x00\x00\x00\x00'
+tRp434
+sg122
+I191
+ssI4238
+(dp435
+g132
+VGorlitz, Germany
+p436
+sg134
+VMichael Ballack
+p437
+sg136
+g8
+(S'\x07\xb8\t\x1a\x00\x00\x00\x00\x00\x00'
+tRp438
+sg138
+I188
+ssI4666
+(dp439
+g184
+VMinsk, Belarus
+p440
+sg186
+VAlexander Hleb
+p441
+sg188
+g8
+(S'\x07\xbd\x05\x01\x00\x00\x00\x00\x00\x00'
+tRp442
+sg190
+I185
+ssI7006
+(dp443
+g48
+VHildesheim, Germany
+p444
+sg50
+VMaik Taylor
+p445
+sg52
+g8
+(S'\x07\xb3\t\x04\x00\x00\x00\x00\x00\x00'
+tRp446
+sg54
+I193
+ssI15202
+(dp447
+g116
+VCroydon, England
+p448
+sg118
+VCarlton Cole
+p449
+sg120
+g8
+(S'\x07\xbf\x0b\x0c\x00\x00\x00\x00\x00\x00'
+tRp450
+sg122
+I191
+ssI14702
+(dp451
+g116
+VAsnaes, Denmark
+p452
+sg118
+VChristian Bager Poulsen
+p453
+sg120
+g8
+(S'\x07\xbc\x02\x1c\x00\x00\x00\x00\x00\x00'
+tRp454
+sg122
+I182
+ssI2416
+(dp455
+g324
+VObuasi, Ghana
+p456
+sg326
+VJohn Mensah
+p457
+sg328
+g8
+(S'\x07\xbe\x0b\x1d\x00\x00\x00\x00\x00\x00'
+tRp458
+sg330
+I177
+ssI4978
+(dp459
+g168
+VLeicester, England
+p460
+sg170
+VChris Kirkland
+p461
+sg172
+g8
+(S'\x07\xbd\x05\x02\x00\x00\x00\x00\x00\x00'
+tRp462
+sg174
+I191
+ssI14716
+(dp463
+g116
+VKono, Nigeria
+p464
+sg118
+VJoseph Yobo
+p465
+sg120
+g8
+(S'\x07\xbc\t\x06\x00\x00\x00\x00\x00\x00'
+tRp466
+sg122
+I188
+ssI8584
+(dp467
+g152
+VVratsa, Bulgaria
+p468
+sg154
+VMartin Petrov
+p469
+sg156
+g8
+(S'\x07\xbb\x01\x0f\x00\x00\x00\x00\x00\x00'
+tRp470
+sg158
+I180
+ssI9101
+(dp471
+g152
+VBagnolet, France
+p472
+sg154
+VSylvain Distin
+p473
+sg156
+g8
+(S'\x07\xb9\x0c\x10\x00\x00\x00\x00\x00\x00'
+tRp474
+sg158
+I193
+ssI7054
+(dp475
+g48
+VLambeth, England
+p476
+sg50
+VJason Euell
+p477
+sg52
+g8
+(S'\x07\xb9\x02\x06\x00\x00\x00\x00\x00\x00'
+tRp478
+sg54
+I180
+ssI3471
+(dp479
+g68
+VDublin, Ireland
+p480
+sg70
+VRobbie Keane
+p481
+sg72
+g8
+(S'\x07\xbc\x07\x08\x00\x00\x00\x00\x00\x00'
+tRp482
+sg74
+I175
+ssI8084
+(dp483
+S'birthplace'
+p484
+VCascavel, Brazil
+p485
+sS'name'
+p486
+VJuliano Belletti
+p487
+sS'birthdate'
+p488
+g8
+(S'\x07\xb8\x06\x14\x00\x00\x00\x00\x00\x00'
+tRp489
+sS'height'
+p490
+I179
+ssI8094
+(dp491
+g484
+VAcaiaca, Brazil
+p492
+sg486
+VGeovanni
+p493
+sg488
+g8
+(S'\x07\xbc\x01\x0b\x00\x00\x00\x00\x00\x00'
+tRp494
+sg490
+I171
+ssI2468
+(dp495
+g192
+VManchester, England
+p496
+sg194
+VWes Brown
+p497
+sg196
+g8
+(S'\x07\xbb\n\r\x00\x00\x00\x00\x00\x00'
+tRp498
+sg198
+I185
+ssI2469
+(dp499
+g192
+VManchester, England
+p500
+sg194
+VNicky Butt
+p501
+sg196
+g8
+(S'\x07\xb7\x01\x15\x00\x00\x00\x00\x00\x00'
+tRp502
+sg198
+I178
+ssI8698
+(dp503
+g152
+VMaastricht, Holland
+p504
+sg154
+VBoudewijn Zenden
+p505
+sg156
+g8
+(S'\x07\xb8\x08\x0f\x00\x00\x00\x00\x00\x00'
+tRp506
+sg158
+I174
+ssI7082
+(dp507
+g48
+VBallyboden, Ireland
+p508
+sg50
+VDamien Duff
+p509
+sg52
+g8
+(S'\x07\xbb\x02\x03\x00\x00\x00\x00\x00\x00'
+tRp510
+sg54
+I175
+ssI14251
+(dp511
+g116
+VNottingham, England
+p512
+sg118
+VJermaine Jenas
+p513
+sg120
+g8
+(S'\x07\xbf\x02\x12\x00\x00\x00\x00\x00\x00'
+tRp514
+sg122
+I179
+ssI2477
+(dp515
+g192
+VCardiff, Wales
+p516
+sg194
+VRyan Giggs
+p517
+sg196
+g8
+(S'\x07\xb5\x0b\x1d\x00\x00\x00\x00\x00\x00'
+tRp518
+sg198
+I180
+ssI2478
+(dp519
+g192
+VScarborough, England
+p520
+sg194
+VJonathan Greening
+p521
+sg196
+g8
+(S'\x07\xbb\x01\x02\x00\x00\x00\x00\x00\x00'
+tRp522
+sg198
+I180
+ssI2479
+(dp523
+g192
+VKillyleagh, Northern Ireland
+p524
+sg194
+VDavid Healy
+p525
+sg196
+g8
+(S'\x07\xbb\x08\x05\x00\x00\x00\x00\x00\x00'
+tRp526
+sg198
+I173
+ssI2480
+(dp527
+g192
+VManchester, England
+p528
+sg194
+VDanny Higginbotham
+p529
+sg196
+g8
+(S'\x07\xba\x0c\x1d\x00\x00\x00\x00\x00\x00'
+tRp530
+sg198
+I185
+ssI7240
+(dp531
+g48
+VCoventry, England
+p532
+sg50
+VIan Evatt
+p533
+sg52
+g8
+(S'\x07\xbd\x0b\x13\x00\x00\x00\x00\x00\x00'
+tRp534
+sg54
+I191
+ssI2486
+(dp535
+g192
+VBury, England
+p536
+sg194
+VGary Neville
+p537
+sg196
+g8
+(S'\x07\xb7\x02\x12\x00\x00\x00\x00\x00\x00'
+tRp538
+sg198
+I180
+ssI2487
+(dp539
+g192
+VBury, England
+p540
+sg194
+VPhilip Neville
+p541
+sg196
+g8
+(S'\x07\xb9\x01\x15\x00\x00\x00\x00\x00\x00'
+tRp542
+sg198
+I180
+ssI2489
+(dp543
+g192
+VWaterford, Ireland
+p544
+sg194
+VJohn O'Shea
+p545
+sg196
+g8
+(S'\x07\xbd\x04\x1e\x00\x00\x00\x00\x00\x00'
+tRp546
+sg198
+I191
+ssI11706
+(dp547
+g312
+VBlackburn, England
+p548
+sg314
+VBrett Ormerod
+p549
+sg316
+g8
+(S'\x07\xb8\n\x12\x00\x00\x00\x00\x00\x00'
+tRp550
+sg318
+I177
+ssI2491
+(dp551
+g192
+VSalford, England
+p552
+sg194
+VPaul Scholes
+p553
+sg196
+g8
+(S'\x07\xb6\x0b\x10\x00\x00\x00\x00\x00\x00'
+tRp554
+sg198
+I168
+ssI3517
+(dp555
+g68
+VMilan, Italy
+p556
+sg70
+VCarlo Cudicini
+p557
+sg72
+g8
+(S'\x07\xb5\t\x06\x00\x00\x00\x00\x00\x00'
+tRp558
+sg74
+I186
+ssI3013
+(dp559
+g84
+VSao Paulo, Brazil
+p560
+sg86
+VSylvinho
+p561
+sg88
+g8
+(S'\x07\xb6\x04\x0c\x00\x00\x00\x00\x00\x00'
+tRp562
+sg90
+I173
+ssI2503
+(dp563
+g192
+VOhio, United States
+p564
+sg194
+VBrad Friedel
+p565
+sg196
+g8
+(S'\x07\xb3\x05\x12\x00\x00\x00\x00\x00\x00'
+tRp566
+sg198
+I188
+ssI14924
+(dp567
+g116
+VKingston, Jamaica
+p568
+sg118
+VSteven Reid
+p569
+sg120
+g8
+(S'\x07\xbd\x03\n\x00\x00\x00\x00\x00\x00'
+tRp570
+sg122
+I185
+ssI7159
+(dp571
+g48
+VLondon, England
+p572
+sg50
+VMarcus Bent
+p573
+sg52
+g8
+(S'\x07\xba\x05\x13\x00\x00\x00\x00\x00\x00'
+tRp574
+sg54
+I188
+ssI2521
+(dp575
+g192
+VBootle, England
+p576
+sg194
+VJamie Carragher
+p577
+sg196
+g8
+(S'\x07\xba\x01\x1c\x00\x00\x00\x00\x00\x00'
+tRp578
+sg198
+I186
+ssI2522
+(dp579
+g192
+VChester, England
+p580
+sg194
+VDanny Murphy
+p581
+sg196
+g8
+(S'\x07\xb9\x03\x12\x00\x00\x00\x00\x00\x00'
+tRp582
+sg198
+I175
+ssI2524
+(dp583
+g192
+VWhiston, England
+p584
+sg194
+VSteven Gerrard
+p585
+sg196
+g8
+(S'\x07\xbc\x05\x1e\x00\x00\x00\x00\x00\x00'
+tRp586
+sg198
+I185
+ssI7133
+(dp587
+g48
+VLoznica, Yugoslavia
+p588
+sg50
+VVladimir Stojkovic
+p589
+sg52
+g8
+(S'\x07\xbf\x07\x1c\x00\x00\x00\x00\x00\x00'
+tRp590
+sg54
+I196
+ssI6622
+(dp591
+S'birthplace'
+p592
+VLiverpool, England
+p593
+sS'name'
+p594
+VTony Hibbert
+p595
+sS'birthdate'
+p596
+g8
+(S'\x07\xbd\x02\x14\x00\x00\x00\x00\x00\x00'
+tRp597
+sS'height'
+p598
+I175
+ssI2528
+(dp599
+g192
+VChester, England
+p600
+sg194
+VMichael Owen
+p601
+sg196
+g8
+(S'\x07\xbb\x0c\x0e\x00\x00\x00\x00\x00\x00'
+tRp602
+sg198
+I173
+ssI10320
+(dp603
+S'birthplace'
+p604
+VTooting, England
+p605
+sS'name'
+p606
+VDarren Bent
+p607
+sS'birthdate'
+p608
+g8
+(S'\x07\xc0\x02\x06\x00\x00\x00\x00\x00\x00'
+tRp609
+sS'height'
+p610
+I180
+ssI2555
+(dp611
+g3
+VOwerri, Nigeria
+p612
+sg5
+VNwankwo Kanu
+p613
+sg7
+g8
+(S'\x07\xb8\x08\x01\x00\x00\x00\x00\x00\x00'
+tRp614
+sg10
+I198
+ssI3560
+(dp615
+g68
+VMiddlesbrough, England
+p616
+sg70
+VRobbie Blake
+p617
+sg72
+g8
+(S'\x07\xb8\x03\x04\x00\x00\x00\x00\x00\x00'
+tRp618
+sg74
+I175
+ssI2537
+(dp619
+g192
+VDakar, Senegal
+p620
+sg194
+VPatrick Donale Vieira
+p621
+sg196
+g8
+(S'\x07\xb8\x06\x17\x00\x00\x00\x00\x00\x00'
+tRp622
+sg198
+I192
+ssI3566
+(dp623
+g68
+VHarrogate, England
+p624
+sg70
+VAndrew O'Brien
+p625
+sg72
+g8
+(S'\x07\xbb\x06\x1d\x00\x00\x00\x00\x00\x00'
+tRp626
+sg74
+I188
+ssI5111
+(dp627
+g168
+VBirmingham, England
+p628
+sg170
+VLee Carsley
+p629
+sg172
+g8
+(S'\x07\xb6\x02\x1c\x00\x00\x00\x00\x00\x00'
+tRp630
+sg174
+I178
+ssI2553
+(dp631
+g3
+VHartismere, England
+p632
+sg5
+VMatthew Upson
+p633
+sg7
+g8
+(S'\x07\xbb\x04\x12\x00\x00\x00\x00\x00\x00'
+tRp634
+sg10
+I185
+ssI6138
+(dp635
+g348
+VHamburg, Germany
+p636
+sg350
+VIvan Klasnic
+p637
+sg352
+g8
+(S'\x07\xbc\x01\x1d\x00\x00\x00\x00\x00\x00'
+tRp638
+sg354
+I186
+ssI3327
+(dp639
+g68
+VSouthampton, England
+p640
+sg70
+VWayne Bridge
+p641
+sg72
+g8
+(S'\x07\xbc\x08\x05\x00\x00\x00\x00\x00\x00'
+tRp642
+sg74
+I180
+ssI2556
+(dp643
+g3
+VNottingham, England
+p644
+sg5
+VJermaine Lloyd Pennant
+p645
+sg7
+g8
+(S'\x07\xbf\x01\x0f\x00\x00\x00\x00\x00\x00'
+tRp646
+sg10
+I173
+ssI8701
+(dp647
+g152
+VVaasa, Finland
+p648
+sg154
+VJussi Jaaskelainen
+p649
+sg156
+g8
+(S'\x07\xb7\x04\x13\x00\x00\x00\x00\x00\x00'
+tRp650
+sg158
+I191
+ss.
