@@ -65,12 +65,7 @@ class SpainParser(RSSSFParser):
             '[Vlaovic 12, Farinos 90 (2-2); Sanchez 41, Karpin 90 (1-2)]': '[Vlaovic 12, Farinos 90; Sanchez 41, Karpin 90]',
             '[Claudio Lopez 90 (1-2); Tamudo 71, Posse 90 (0-2)]': '[Claudio Lopez 90; Tamudo 71, Posse 90]',
 
-
-
             },
-
-
-
 
         }
 

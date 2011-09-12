@@ -4,6 +4,9 @@ import urllib2
 from BeautifulSoup import BeautifulSoup
 
 
+
+
+
 months = {
     'Jan': 1,
     'Feb': 2,
@@ -24,7 +27,9 @@ months = {
 
 class RSSSFParser(object):
     table_start = None
-    table_end = None
+    table_ends = []
+
+    UNIVERSAL_REPLACE = []
 
     CUT_OFFS = []
     SUB_LINES = {}
@@ -34,6 +39,10 @@ class RSSSFParser(object):
 
 
     def preprocess_line(self, line, year):
+
+        for old, new in self.UNIVERSAL_REPLACE:
+            line = line.replace(old, new)
+
         for e in self.CUT_OFFS:
             if line.startswith(e):
                 return line.split(e, 1)[1]
@@ -53,10 +62,11 @@ class RSSSFParser(object):
         else:
             start = 0
 
-        if self.table_end:
-            end = pre_text[start:].index(self.table_end) + start # Don't forget to adjust for pre_text[start:]!!
-        else:
-            end = len(pre_text)
+        end = len(pre_text)
+        for e in self.table_ends:
+            if e in pre_text[start:]:
+                end = min(end, pre_text[start:].index(e) + start) # Don't forget to adjust for pre_text[start:]!!
+
 
         table = pre_text[start:end]
 
@@ -77,8 +87,8 @@ class RSSSFParser(object):
         return scores
 
 
-
     def get_date(self, line, date, year):
+        # This is the standard get_date; however,
         if re.search("\[\w+\s\d+\]", line):
             sline = line.strip().replace("[", "").replace("]", "")
 
@@ -123,9 +133,10 @@ class RSSSFParser(object):
     def process_line(self, line,  date):
         # Not sure what to do with these weird games
         # (games that don't produce a result)
+
+
         if re.search("\sabd\s", line):
             # Game was abandoned.
-
             home_side, away_side = line.split("abd", 1)
             l = {
                 "home_team": home_side.strip(),
@@ -145,24 +156,37 @@ class RSSSFParser(object):
                 "notes": "awarded"
                }
             return None
+
+        # Dodge penalty shootout results that look like
+        # Giggs (scored)        1-0      O'Hara (saved)        1-0
+        # resembling scores...
+        if "(scored)" in line or "(missed)" in line:
+            return None
+
             
         elif re.search("\d-\d", line):
-            home_side, away_side = line.split("-", 1)
+            # Italy sometimes puts the dates of games at the end of a line.
+            # Need to pull allow customizing of the process line function?
+
+            home_team, score, away_team = re.search("(.*?)(\d-\d)(.*)", line).groups()
+
+            # Strip out comments in the away side info.
+            # Need to add facility that detects pk score.
+            s = re.search("\[\w+\s\d+\]", away_team)
+            if s:
+                away_team = away_team.split("[")[0]
+                import pdb; pdb.set_trace()
+                
+
+
             if line.count("-") > 1:
                 print line
-            
-            # Watch out for team names with spaces.
-            home_team, home_score = home_side.rsplit(" ", 1)
+
             try:
-                away_score, away_team = away_side.split(" ", 1)
-            except:
-                print line
-                raise
-            away_score = int(away_score)
-            try:
-                home_score = int(home_score)
+                home_score, away_score = [int(e) for e in score.split("-")]
             except:
                 import pdb; pdb.set_trace()
+
             return {
                 'home_team': home_team.strip(),
                 'away_team': away_team.strip(),
