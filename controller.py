@@ -1,5 +1,4 @@
 import datetime
-import simplejson
 import StringIO
 from os.path import join, split
 from collections import defaultdict
@@ -15,7 +14,7 @@ from flask.templating import TemplateNotFound
 #from models import Blog, Status, Rental
 #from models import engine
 
-import pymongo
+import mongo
 
 
 app = Flask(__name__)
@@ -28,6 +27,11 @@ app.config.from_pyfile('settings.cfg')
 def index():
     return render_template("index.html")
 
+@app.route("/g/<collection>")
+def game_page(collection):
+    rows = mongo.get_rows(collection)
+    rows = mongo.get_rows('statto.games')[:100]
+    return render_template("game.html", rows=rows)
 
 @app.route("/<url>")
 def flatpage(url):
@@ -45,4 +49,5 @@ def flatpage(url):
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=29111)
+
