@@ -1,11 +1,45 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
 import datetime
 import re
 import urllib2
 from BeautifulSoup import BeautifulSoup
 
 
+# Need to split up pages into separate whatevers.
+# Need to figure out how to parse by year.
+# Probably need ot install simplejson
 
 
+
+BAD_CHARS = {
+    '\xe1': 'á',
+    '\xe0': 'à',
+    '\xe7': 'ç',
+    '\xe8': 'è',
+    '\xe9': 'é',
+    '\xed': 'í',
+    '\xf3': 'ó',
+    '\xfa': 'ú',
+    '\xfc': 'ü',
+    '\xf1': 'ñ',
+    '\xc1': 'Á',
+    '\xc9': 'É',
+    '\xd3': 'Ó',
+    '\x96': '-',
+    '\x92': '’',
+    '\xb4': '´',
+    '\xeb': 'ë',
+    }
+
+BAD_TWO_CHARS = {
+    '\xc3\xb3': 'ó',
+    '\xc3\xa1': 'á',
+    '\xc3\xa8': 'è',
+    '\xc3\xa7': 'ç',
+}
 
 months = {
     'Jan': 1,
@@ -61,6 +95,21 @@ class RSSSFParser(object):
     def __init__(self):
         pass
 
+    def get_html(self, url):
+        html = urllib2.urlopen(url).read()
+        s = ''
+        for char in html:
+            if char in BAD_CHARS:
+                s += BAD_CHARS[char]
+            else:
+                s += char
+
+        for k, v in BAD_TWO_CHARS.items():
+            html = html.replace(k, v)
+
+        return s
+
+
 
     def preprocess_line(self, line, year):
 
@@ -84,7 +133,8 @@ class RSSSFParser(object):
 
 
     def parse_page(self, url, year):
-        html = urllib2.urlopen(url).read()
+        html = self.get_html(url)
+        
         pre_text = html.split("<pre>")[1].split("</pre>")[0]
 
         if self.table_start:
