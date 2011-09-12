@@ -7,13 +7,6 @@ class OpenCupParser(RSSSFParser):
     table_start = None
     table_end = None
 
-    CUT_OFFS = [
-        "Second Round", 
-        "Third Round",
-        "Quarterfinals",
-        "Semifinals",
-        'Final',
-        ]
 
     SUB_LINES = {
         2009: {

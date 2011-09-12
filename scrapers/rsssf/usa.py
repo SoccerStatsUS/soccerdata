@@ -12,26 +12,13 @@ class MLSParser(RSSSFParser):
         'USL - 1ST DIVISION (2nd Division)'
         ]
 
-    CUT_OFFS = [
-        "Second Legs", 
-        "First Legs", 
-        "First Leg", 
-        "Second Leg", 
-        'Qualifying Match',
-
-        "Second Round", 
-        "Third Round",
-        "Quarterfinals",
-        "Semifinals",
-        'Final',
-        'MLS Cup',
+    CUTOFFS = [
         'Eastern Final',
         'Western Final',
-
         'Eastern Conference Final',
         'Western Conference Final',
         'Conference Finals',
-        
+        'MLS Cup',
         ]
 
     SUB_LINES = {

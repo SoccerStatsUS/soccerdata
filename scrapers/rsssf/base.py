@@ -31,7 +31,31 @@ class RSSSFParser(object):
 
     UNIVERSAL_REPLACE = []
 
-    CUT_OFFS = []
+    RE_CUTOFFS = []
+
+    BASE_CUTOFFS = [
+
+        # These need to be ahead of the First Leg.
+        "First Legs", 
+        "Second Legs",
+        "First leg",
+        "First Leg", 
+        "Second leg", 
+        "Second Leg", 
+
+ 
+        "First Round",
+        "Second Round",
+        "Third Round",
+
+        'Preliminary Round',
+        'Qualifying Match',
+
+        "Quarterfinals",
+        "Semifinals",
+        'Final',
+        ]
+    CUTOFFS = []
     SUB_LINES = {}
 
     def __init__(self):
@@ -43,7 +67,13 @@ class RSSSFParser(object):
         for old, new in self.UNIVERSAL_REPLACE:
             line = line.replace(old, new)
 
-        for e in self.CUT_OFFS:
+        for rx in self.RE_CUTOFFS:
+            s = re.search(rx, line)
+            if s:
+                line = s.groups()[0]
+                
+
+        for e in self.BASE_CUTOFFS + self.CUTOFFS:
             if line.startswith(e):
                 return line.split(e, 1)[1]
 

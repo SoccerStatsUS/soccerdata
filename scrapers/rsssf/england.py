@@ -21,19 +21,6 @@ class EnglandParser(RSSSFParser):
         ('\x96', '-'), # Should probably be in base.py
         ]
 
-    CUT_OFFS = [
-        "Round 38",
-        "Quarterfinals",
-        "Semifinals",
-        "First Leg",
-        "First leg",
-        "Second Leg",
-        "First Round",
-        "Second Round",
-        "Round 2",
-        ]
-    
-
     SUB_LINES = {
         2009: {
             'Round 19 [Dec 26]': '[Dec 26]',

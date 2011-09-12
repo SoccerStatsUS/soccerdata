@@ -3,13 +3,21 @@ from base import RSSSFParser
 
 # Notes:
 
+# Functional through 2000. Not well verified.
+# One date problem in 1999.
 # Date formatting changes starting in 1998 (down)
 # Need to parse differently.
+# Not sure if it's worth it. Records stop in 1995/96
 
 
 class SpainParser(RSSSFParser):
     table_start = "Round 1"
     table_end = "Final Table"
+
+    # Should compile these here.
+    RE_CUTOFFS = [
+        "Round\s\d{1,2}\s(.*)",
+        ]
 
     SUB_LINES = {
         2011: {
@@ -28,6 +36,7 @@ class SpainParser(RSSSFParser):
 
         2007: {
             'Round 38 [Jun 17]': '[Jun 17]',
+            '[Mar 20]                                          due to crowd trouble]': '[Mar 20]',
             },
 
         2008: {
