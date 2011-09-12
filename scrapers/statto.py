@@ -1,9 +1,14 @@
 # Looks promising.
 
+# Ran into a problem at 12-31-2007;
+# Statto seems to be doing some liberal banning if
+# it suspects you're scraping its site.
+
 import urllib2
 from BeautifulSoup import BeautifulSoup
 
-url = 'http://www.statto.com/football/stats/results/2011-09-10'
+class UnplayedException(Exception):
+    pass
 
 
 class StattoParser(object):
@@ -65,7 +70,11 @@ def consume_rows(rows, competition):
     def check_score(r):
         if r.get('class') and r['class'] == 'c1 sc':
             text = r.contents[0]
-            home, away = [int(e) for e in text.split("-")]
+            if text == 'v':
+                raise UnplayedException()
+            else:
+                home, away = [int(e) for e in text.split("-")]
+
             return home, away
         return None
 
@@ -75,15 +84,23 @@ def consume_rows(rows, competition):
             return l_class.contents[0]
         return None
 
-
     payload = {}
+    # We assume that a game has been played unless proven wrong.
+    played = True
     for row in rows:
 
         if check_competition(row):
             competition = check_competition(row)
 
-        if check_score(row):
-            payload['home_score'], payload['away_score'] = check_score(row)
+        try:
+            score = check_score(row)
+            if score:
+                payload['home_score'], payload['away_score'] = score
+        except UnplayedException:
+            payload['home_score'] = payload['away_score'] = ''
+            played = False
+            
+            
 
         team = check_team(row)
         if team:
@@ -93,10 +110,14 @@ def consume_rows(rows, competition):
                 payload['away_team'] = team
                 
                 # At this point we should have everything.
-                for e in 'home_team', 'away_team', 'competition', 'home_score', 'away_score':
-                    assert e in payload
-                    payload['competition'] = competition
-                    return (payload, competition)
+                for e in 'home_team', 'away_team', 'home_score', 'away_score':
+                    try:
+                        assert e in payload
+                    except:
+                        import pdb; pdb.set_trace()
+                payload['competition'] = competition
+                payload['played'] = played
+                return (payload, competition)
 
 
 def get_scores(url):
@@ -113,10 +134,14 @@ def get_scores(url):
         except TypeError:
             return l
 
-    
-def main():
-    return get_scores(url)
 
+def process_date(dt):
+    url = 'http://www.statto.com/football/stats/results/%s' % dt.strftime("%Y-%m-%d")
+    return get_scores(url)
+    
+
+
+    
 if __name__ == "__main__":
     main()
 
