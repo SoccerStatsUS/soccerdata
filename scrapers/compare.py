@@ -1,6 +1,28 @@
 # This should maybe be in the root.
 
 
+def duplicate_games(lst):
+    problem_games = set()
+    d = {}
+    for game in lst:
+        dt = game['date']
+        if dt not in d:
+            d[dt] = set()
+
+        if game['home_team'] in d[dt]:
+            problem_games.add(game)
+        if game['away_team'] in d[dt]:
+            problem_games.add(game)
+
+        d[dt].add(game['home_team'])
+        d[dt].add(game['away_team'])
+
+    return problem_games
+        
+            
+            
+
+
 def dates_in_order(lst, key):
     # Check to make sure that all dates are in order.
     # It's pretty unlikely this wouldn't be the case for the
