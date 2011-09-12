@@ -1,4 +1,4 @@
-
+# This should maybe be in the root.
 
 
 def dates_in_order(lst, key):
@@ -28,7 +28,6 @@ def compare_dicts(d, e, keys=None):
                 return False
         return True
             
-
 
 def compare_lists(l, m, keys=None):
     for d, e in zip(l,m):
