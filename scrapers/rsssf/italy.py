@@ -5,8 +5,6 @@ import re
 # Italy seems a little different, but has tremendous records going back quite far.
 
 class ItalyParser(RSSSFParser):
-    table_start = None
-    table_end = None
 
     def get_date(self, line, date, year):
         # Italy looks like this:

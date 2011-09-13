@@ -12,7 +12,7 @@ from base import RSSSFParser
 
 class SpainParser(RSSSFParser):
     table_start = "Round 1"
-    table_end = "Final Table"
+    table_ends = ["Final Table"]
 
     # Should compile these here.
     RE_CUTOFFS = [

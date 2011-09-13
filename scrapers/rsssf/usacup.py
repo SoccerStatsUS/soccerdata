@@ -4,8 +4,6 @@ from base import RSSSFParser
 # 2001 season is not any good.
 
 class OpenCupParser(RSSSFParser):
-    table_start = None
-    table_end = None
 
 
     SUB_LINES = {

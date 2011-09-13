@@ -71,13 +71,18 @@ class RSSSFParser(object):
 
         # These need to be ahead of the First Leg.
         "First Legs", 
-        "Second Legs",
-        "First leg",
         "First Leg", 
-        "Second leg", 
-        "Second Leg", 
+        "First leg",
 
- 
+        "Second Legs",
+        "Second Leg", 
+        "Second leg", 
+
+        "Third Leg Minigame",
+        "Third Legs", 
+        "Third Leg", 
+        "Third leg", 
+
         "First Round",
         "Second Round",
         "Third Round",
@@ -154,11 +159,14 @@ class RSSSFParser(object):
         
         scores = []
         date = None
+        date_year = year
 
         for line in lines:
             line = line.strip()
             pline = self.preprocess_line(line, year)
-            date = self.get_date(pline, date, year)
+            date = self.get_date(pline, date, date_year)
+            if date:
+                date_year = date.year
             result = self.process_line(pline, date)
             if result:
                 scores.append(result)
@@ -169,6 +177,8 @@ class RSSSFParser(object):
 
     def get_date(self, line, date, year):
         # This is the standard get_date; however,
+        # Year should really only be used as a hint for finding the first date.
+        # After that, it's better to use the previous date's year.
         if re.search("\[\w+\s\d+\]", line):
             sline = line.strip().replace("[", "").replace("]", "")
 
@@ -199,6 +209,11 @@ class RSSSFParser(object):
                 month_number = months[month]
             except KeyError:
                 import pdb; pdb.set_trace()
+
+            # Set the year correctly?
+            if date and month_number < date.month:
+                year = date.year + 1
+
             try:
                 return datetime.datetime(year, month_number, int(day))
             except:
@@ -244,19 +259,18 @@ class RSSSFParser(object):
             return None
 
             
-        elif re.search("\d-\d", line):
+        game_re = re.compile("(.*?)(\d-\d)(.*)")
+        if game_re.search(line):
             # Italy sometimes puts the dates of games at the end of a line.
             # Need to pull allow customizing of the process line function?
 
-            home_team, score, away_team = re.search("(.*?)(\d-\d)(.*)", line).groups()
+            home_team, score, away_team = game_re.search(line).groups()
 
             # Strip out comments in the away side info.
             # Need to add facility that detects pk score.
             s = re.search("\[\w+\s\d+\]", away_team)
             if s:
                 away_team = away_team.split("[")[0]
-                import pdb; pdb.set_trace()
-                
 
 
             if line.count("-") > 1:
@@ -274,8 +288,6 @@ class RSSSFParser(object):
                 'away_score': away_score,
                 'date': date,
                 }
-
-
         
         else: 
             return None

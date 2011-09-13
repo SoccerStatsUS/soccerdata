@@ -5,6 +5,8 @@ from BeautifulSoup import BeautifulSoup
 
 from abstract import get_contents
 
+# Scrape the scores of the NASL.
+
 def scrape_scores():
     url = 'http://nasl.com/index.php?id=12'
     soup = BeautifulSoup(urllib2.urlopen(url).read())
@@ -16,7 +18,7 @@ def scrape_scores():
         if len(data) == 10:
             _, date, time, home, _, away, stadium, score, _, _ = data
             month, day = re.search("(?P<date>\d{1,2}/\d{2})", date).groups()[0].split("/")
-            dt = datetime.date(2011, int(month), int(day))
+            dt = datetime.datetime(2011, int(month), int(day))
             try:
                 home_score, away_score = [int(e) for e in score.split("-")]
                 results.append({
