@@ -2,12 +2,10 @@
 
 {% block content %}
 
-Here's where stuff 
-{{ rows.0 }}
 <ul>
 {% for row in rows %}
 <li>
-  {{ row.date }}: {{ row.home_team }} {{ row.home_score }} - {{ row.away_score }} {{ row.home_team }}
+  {{ row.date }}: {{ row.home_team }} {{ row.home_score }} - {{ row.away_score }} {{ row.away_team }}
 </li>
 {% endfor %}
 </ul>
