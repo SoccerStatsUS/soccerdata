@@ -4,7 +4,7 @@
 # Statto seems to be doing some liberal banning if
 # it suspects you're scraping its site.
 
-import urllib2
+
 from BeautifulSoup import BeautifulSoup
 
 class UnplayedException(Exception):
@@ -40,7 +40,8 @@ class StattoParser(object):
 
 
 def raw_table(url):
-    data = urllib2.urlopen(url).read()
+    from soccerdata.mongo import scrape_url
+    data = scrape_url(url)
     start = data.index("<table")
     end = data.index("</table")
     scores_text = data[start:end]

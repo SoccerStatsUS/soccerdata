@@ -8,3 +8,8 @@ def get_contents(l):
         for e in l.contents:
             s += get_contents(e)
     return s.strip()
+
+
+    
+    
+    

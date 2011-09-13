@@ -4,52 +4,41 @@
 
 # Need to check for duplicates!
 
-import datetime
 
+import datetime
 import pymongo
 
-from scrapers import statto
+from soccerdata.scrapers import statto
+
+from utils import insert_row, scrape_url
 
 connection = pymongo.Connection()
-
-db = connection.soccer
-
-def insert_row(collection, row):
-    c = db[collection]
-    c.insert(row)
-
+soccer_db = connection.soccer
 
 def insert_rows(collection, rows):
-    c = db[collection]
     for row in rows:
-        try:
-            c.insert(row)
-        except:
-            import pdb; pdb.set_trace()
-
+        insert_row(collection, row)
+    
 def get_rows(collection):
-    c = db[collection]
-    return [row for row in c.find().sort('date', pymongo.ASCENDING)]
+    return [row for row in collection.find().sort('date', pymongo.ASCENDING)]
 
 
 def delete_rows(collection, rows=None):
-    c = db[collection]
     if rows is None:
-        rows = c.find()
-    c = db[collection]
+        rows = collection.find()
     for row in rows:
-        c.remove(row)
+        collection.remove(row)
 
 
 def scrape_statto(date):
     rows = statto.process_date(date)
-    insert_rows("statto.games", rows)
+    insert_rows(soccer_db.statto_games, rows)
     # Statto is scraping all possible games for a given date,
     # e.g. 2011-3-21.
-    insert_row("statto.games.dates", {"date": date})
+    insert_row(soccer_db.statto_games_dates, {"date": date})
 
 def run_statto():
-    dates = [e['date'] for e in get_rows('statto.games.dates')]
+    dates = [e['date'] for e in get_rows(soccer_bd.statto.games.dates)]
     if dates:
         next_date = min(dates) - datetime.timedelta(days=1)
     else:
@@ -64,10 +53,10 @@ def scrape_spain(years=None):
     if years is None:
         years = range(2000, 2012)
 
-    delete_rows("rsssf-spain-games")
+    delete_rows(soccer_db.rsssf_spain_games)
     for year in years:
         rows = spain.process_year(year)
-        insert_rows("rsssf-spain-games", rows)
+        insert_rows(soccer_db.rsssf_spain_games, rows)
 
 
 def scrape_mls(years=None):
@@ -76,16 +65,28 @@ def scrape_mls(years=None):
     if years is None:
         years = range(1996, 2009)
 
-    delete_rows("rsssf-mls-games")
+    delete_rows(soccer_db.rsssf_mls_games)
     for year in years:
         rows = usa.process_year(year)
-        insert_rows("rsssf-mls-games", rows)
+        insert_rows(soccer_db.rsssf_mls_games, rows)
+
+
+def scrape_australia(years=None):
+    from scrapers.rsssf import australia
+
+    if years is None:
+        years = range(2006, 2012)
+
+    delete_rows(soccer_db.rsssf_australia_games)
+    for year in years:
+        rows = australia.process_year(year)
+        insert_rows(soccer_db.rsssf_australia_games, rows)
 
 
 def scrape_nasl():
     from scrapers import nasl
     scores = nasl.scrape_scores()
-    delete_rows("nasl-scores")
-    insert_rows("nasl-scores", scores)
+    delete_rows(soccer_db.nasl_scores)
+    insert_rows(soccer_db.nasl_scores, scores)
         
 

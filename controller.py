@@ -48,6 +48,15 @@ def mls():
     return render_template("game.html", rows=rows)    
 
 
+@app.route("/g/australia")
+def australia():
+    rows = mongo.get_rows('rsssf-australia-games')
+    return render_template("game.html", rows=rows)    
+
+
+
+
+
 @app.route("/<url>")
 def flatpage(url):
     if url.endswith("/"):

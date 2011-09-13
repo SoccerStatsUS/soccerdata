@@ -4,15 +4,14 @@
 
 import datetime
 import re
-import urllib2
 from BeautifulSoup import BeautifulSoup
+
+from soccerdata.utils import scrape_url
 
 
 # Need to split up pages into separate whatevers.
 # Need to figure out how to parse by year.
 # Probably need ot install simplejson
-
-
 
 BAD_CHARS = {
     '\xe1': 'á',
@@ -98,10 +97,14 @@ class RSSSFParser(object):
     SUB_LINES = {}
 
     def __init__(self):
-        pass
+        self.date = None
+
 
     def get_html(self, url):
-        html = urllib2.urlopen(url).read()
+        """
+        
+        """
+        html = scrape_url(url)
         s = ''
         for char in html:
             if char in BAD_CHARS:
@@ -115,8 +118,12 @@ class RSSSFParser(object):
         return s
 
 
-
     def preprocess_line(self, line, year):
+        """
+        Do some simple work manipulating the lines before
+        we try to parse them.
+        """
+        
 
         for old, new in self.UNIVERSAL_REPLACE:
             line = line.replace(old, new)
@@ -138,6 +145,7 @@ class RSSSFParser(object):
 
 
     def parse_page(self, url, year):
+        
         html = self.get_html(url)
         
         pre_text = html.split("<pre>")[1].split("</pre>")[0]
@@ -174,18 +182,16 @@ class RSSSFParser(object):
 
         return scores
 
-
+    # Use this to set self.date?
     def get_date(self, line, date, year):
         # This is the standard get_date; however,
         # Year should really only be used as a hint for finding the first date.
         # After that, it's better to use the previous date's year.
         if re.search("\[\w+\s\d+\]", line):
+            # Regular expression groups would be better here.
+            # Write some tests!
             sline = line.strip().replace("[", "").replace("]", "")
-
-            try:
-                month, day = sline.split(" ")
-            except:
-                import pdb; pdb.set_trace()
+            month, day = sline.split(" ")
 
             day = int(day)
             # This is not a date.
@@ -211,6 +217,8 @@ class RSSSFParser(object):
                 import pdb; pdb.set_trace()
 
             # Set the year correctly?
+            # I am rather certain that this is not working correctly.
+            # Probably a better idea to set a class variable.
             if date and month_number < date.month:
                 year = date.year + 1
 
@@ -218,39 +226,46 @@ class RSSSFParser(object):
                 return datetime.datetime(year, month_number, int(day))
             except:
                 import pdb; pdb.set_trace()
+
         else:
             return date
 
 
-        
 
 
     def process_line(self, line,  date):
         # Not sure what to do with these weird games
         # (games that don't produce a result)
 
+        # Possibly include a result type indicating what type of field this is.
+        # e.g. game result, goal list, date, round indicator.
+        # Then we can save these data.
+
+
+        # Currently just skipping goal lines
+        # and Round lines.
 
         if re.search("\sabd\s", line):
             # Game was abandoned.
+            # Use the game note if possible!!
             home_side, away_side = line.split("abd", 1)
-            l = {
+            return {
                 "home_team": home_side.strip(),
                 "away_team": away_side.strip(),
                 "completed": False,
                 "notes": "abandoned"
                }
-            return None
 
         if re.search("\sawd\s", line):
             # Game was awarded to one side.
+            # Use the game note if possible!!
             home_side, away_side = line.split("awd", 1)
-            l = {
+            return {
                 "home_team": home_side.strip(),
                 "away_team": away_side.strip(),
                 "completed": False,
                 "notes": "awarded"
                }
-            return None
 
         # Dodge penalty shootout results that look like
         # Giggs (scored)        1-0      O'Hara (saved)        1-0
@@ -262,24 +277,28 @@ class RSSSFParser(object):
         game_re = re.compile("(.*?)(\d-\d)(.*)")
         if game_re.search(line):
             # Italy sometimes puts the dates of games at the end of a line.
-            # Need to pull allow customizing of the process line function?
+            # Need to allow customizing of the process line function
+            # Separate these functions into smaller pieces.
 
             home_team, score, away_team = game_re.search(line).groups()
 
-            # Strip out comments in the away side info.
-            # Need to add facility that detects pk score.
+            # Add comments, etc. as notes.
+            # What else?
             s = re.search("\[\w+\s\d+\]", away_team)
             if s:
-                away_team = away_team.split("[")[0]
+                away_team, notes = away_team.split("[", 1)
+                notes = notes.strip()
+                if notes[-1] == "]":
+                    notes = notes[:-1]
+            else:
+                notes = ''
 
 
             if line.count("-") > 1:
                 print line
 
-            try:
-                home_score, away_score = [int(e) for e in score.split("-")]
-            except:
-                import pdb; pdb.set_trace()
+            home_score, away_score = [int(e) for e in score.split("-")]
+
 
             return {
                 'home_team': home_team.strip(),
@@ -287,6 +306,8 @@ class RSSSFParser(object):
                 'home_score': home_score,
                 'away_score': away_score,
                 'date': date,
+                'completed': True,
+                'notes': notes,
                 }
         
         else: 
