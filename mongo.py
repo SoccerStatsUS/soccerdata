@@ -10,10 +10,12 @@ import pymongo
 
 from soccerdata.scrapers import statto
 
-from utils import insert_row, scrape_url
 
 connection = pymongo.Connection()
 soccer_db = connection.soccer
+
+def insert_row(collection, row):
+    collection.insert(row)
 
 def insert_rows(collection, rows):
     for row in rows:
@@ -59,7 +61,7 @@ def scrape_spain(years=None):
         insert_rows(soccer_db.rsssf_spain_games, rows)
 
 
-def scrape_mls(years=None):
+def scrape_mls_rsssf(years=None):
     from scrapers.rsssf import usa
 
     if years is None:
@@ -69,6 +71,18 @@ def scrape_mls(years=None):
     for year in years:
         rows = usa.process_year(year)
         insert_rows(soccer_db.rsssf_mls_games, rows)
+
+
+def scrape_mls_mlssoccer(years=None):
+    from scrapers import mls
+
+    if years is None:
+        years = range(1996, 2011)
+
+    delete_rows(soccer_db.mlssoccer_mls_games)
+    for year in years:
+        rows = mls.scrape_scores(year)
+        insert_rows(soccer_db.mlssoccer_mls_games, rows)
 
 
 def scrape_australia(years=None):
@@ -81,6 +95,9 @@ def scrape_australia(years=None):
     for year in years:
         rows = australia.process_year(year)
         insert_rows(soccer_db.rsssf_australia_games, rows)
+
+
+
 
 
 def scrape_nasl():

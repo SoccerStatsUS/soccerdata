@@ -1,14 +1,26 @@
+import datetime
 import urllib2
 from BeautifulSoup import BeautifulSoup
+
+from soccerdata.utils import scrape_url
 
 
 create_url = lambda t,y: "http://www.mlssoccer.com/stats/club/%s/overall/%s/reg" % (t, y)
 
 def scrape_scores(year):
-    l = scrape_scores_first_pass(year)
+    if year >= datetime.date.today().year:
+        static = False
+    else:
+        static = True
+
+
+    url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=all' % year
+    text = scrape_url(url, static)
+    soup = BeautifulSoup(text)
+    l = scrape_scores_first_pass(soup)
     return MLSScoresProcessor().process_rows(l)
 
-def scrape_scores_first_pass(year):
+def scrape_scores_first_pass(soup):
 
     def process_row(row):
         # This is a header row.
@@ -54,9 +66,6 @@ def scrape_scores_first_pass(year):
 
 
     # Need to scrape using the scraper object.
-    url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=all' % year
-    text = urllib2.urlopen(url).read()
-    soup = BeautifulSoup(text)
     schedule_div = soup.find("div", 'schedule-page')
     rows = schedule_div.findAll(["h3", "tr"])
     

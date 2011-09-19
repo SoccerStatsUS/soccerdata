@@ -16,6 +16,12 @@ from flask.templating import TemplateNotFound
 
 import mongo
 
+import pymongo
+
+connection = pymongo.Connection()
+soccer_db = connection.soccer
+
+
 
 app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
@@ -42,19 +48,23 @@ def nasl():
     rows = mongo.get_rows('nasl-scores')
     return render_template("game.html", rows=rows)    
 
-@app.route("/g/mls")
+@app.route("/g/mls-rsssf")
 def mls():
     rows = mongo.get_rows('rsssf-mls-games')
     return render_template("game.html", rows=rows)    
 
 
-@app.route("/g/australia")
-def australia():
-    rows = mongo.get_rows('rsssf-australia-games')
+@app.route("/g/mls")
+def mls():
+    rows = mongo.get_rows(soccer_db.mlssoccer_mls_games)
     return render_template("game.html", rows=rows)    
 
 
 
+@app.route("/g/australia")
+def australia():
+    rows = mongo.get_rows(soccer_db.mlssoccer_mls_games)
+    return render_template("game.html", rows=rows)    
 
 
 @app.route("/<url>")
