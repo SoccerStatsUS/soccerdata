@@ -10,16 +10,22 @@ import urllib2
 
 from abstract import AbstractPlayerScraper, get_contents
 
+# Not used.
 GAME_URL = "http://sports.sportsillustrated.cnn.com/mls/boxscore.asp?gamecode=2010082103&show=pstats&ref="
 
 
-# All we want to do is get the score of a game.
 class CNNSIScoreboardScraper(object):
+    """
+    Scrape scores form the cnnsi scoreboard.
+    """
 
     def __init__(self):
         pass
 
     def make_url(self, competition, date):
+        """
+        Generate a cnnsi scoreboard url for a given competition and date.
+        """
         base = "http://sports.sportsillustrated.cnn.com/%s/scoreboard_daily.asp?gameday=%s"
         url_map = {
             "USA": 'mls',
@@ -35,9 +41,14 @@ class CNNSIScoreboardScraper(object):
         return base % (url_map[competition], self.format_date(date))
 
     def format_date(self, date):
+        """
+        Format the date for the scoreboard url.
+        """
         return date.strftime("%Y%m%d")
 
     def get_date_page(self, date, competition):
+        """
+        """
         url = self.make_url(competition, date)
         html = urllib2.urlopen(url).read()
         return BeautifulSoup(html)
@@ -160,15 +171,22 @@ def create_all(date, create=True):
 
 
 class CNNSIEventScraper(object):
+    """
+    Scrape events from a url...
+    """
 
     def __init__(self):
         pass
 
     def get_events(self, url):
+        """
+        Create a list to fetch the events.
+        """
         soup = Soup(urllib2.urlopen(url).read())
         events_div = soup.find("div", "shsEventsContainer")
         events = events_div.findAll("tr",  {'class': ["shsRow1Row", 'shsRow0Row']})
 
+        # Turn this into a helper function.
         l = []
         for event in events:
             r = [get_contents(e) for e in event]
@@ -188,7 +206,11 @@ class CNNSIEventScraper(object):
         return self.parse('http://sports.sportsillustrated.cnn.com/epl/boxscore.asp?gamecode=2011091010021&show=events&ref=')
 
 
+# This is not being used?
 def scrape_player_stats(url='http://sports.sportsillustrated.cnn.com/mls/boxscore.asp?gamecode=2011091006&show=pstats&ref='):
+    """
+    Scrape player stats.
+    """
     soup = BeautifulSoup(urllib2.urlopen(url).read())
     # Missing one team's stats.
     player_stats = soup.find('div', {'id': "shsIFBBoxPlayerStats1"})
@@ -223,73 +245,96 @@ def scrape_player_stats(url='http://sports.sportsillustrated.cnn.com/mls/boxscor
 
 
 def get_events(url):
-    cs = CNNSIEventScraper()
-    return cs.get_events(url)
-
+    return CNNSIEventScraper().get_events(url)
 
 
 class CNNSIPlayerScraper(AbstractPlayerScraper):
+
+    # Should not be a FILE_PREFIX!
+    # Dump players into a mongo database.
+    # Tag with their source url.
+
     FILE_PREFIX = 'cnnsi'
+
     PLAYER_URL = 'http://sports.sportsillustrated.cnn.com/mls/players.asp?player=%s'
 
+    # Actually scrape_player_page?
     def scrape_player(self, soup):
+        """
+        Returns a dict with a player's name, birthdate, birthplace, and height.
+        """
+
+        # If a bio mast doesn't exist, return an empty dict.
         bio_masts = soup.findAll("table", {"class": 'shsSportMastHead'})
         if bio_masts:
             bio_mast = bio_masts[0]
         else:
             return {}
 
-        tds = bio_mast.findAll("td", text=True)
-
+        # Coerce to unicode so it doesn't use a ton of memory.
+        # also clean up the text a bit.
+        # Why removing the colon?
         clean_cell = lambda t: unicode(t.replace("&nbsp;", '').replace(":", '').strip())
-        cleaned_tds = [clean_cell(e) for e in tds]
+
+        # NB text = True is a very useful.
+        bio_items = [clean_cell(e) for e in bio_mast.findAll("td", text=True)]
+
+        # Layer the list of td's into a dict.
         d = dict(zip(cleaned_tds[:-1], cleaned_tds[1:]))
 
-    
+        birthdate = birthplace = height = None
+
         name = unicode(bio_mast.findAll("strong", {"class": 'shsPlayerName'})[0].contents[0])
         if name.endswith("-"):
             name = name[:-1]
             name = clean_cell(name)
 
-        bio = {'name': name}
-
         if d['Birthdate']:
             bd = d['Birthdate']
             birthdate = datetime.datetime.strptime(bd, '%d/%m/%Y')
-            bio['birthdate'] = birthdate
+
 
         if d['Birthplace']:
-            bio['birthplace'] = d['Birthplace']
+            birthplace = d['Birthplace']
 
         if d['Height']:
             h = d['Height']
-            if h.endswith("."): h = h[:-1]
-            if h.endswith("m"): h = h[:-1]
-            bio['height'] = int(100 * Decimal(h))
+            if h.endswith("."): 
+                h = h[:-1]
+            if h.endswith("m"): 
+                h = h[:-1]
+            height = int(100 * Decimal(h))
 
-        return bio
+        return {
+            'name': name,
+            'birthdate': birthdate,
+            'birthplace': birthplace,
+            'height': height,
+            }
 
     def scrape_stats(self, id):
-        # Not running for the time being.
-        return
-        # Getting too many stats - also the other thing...
+        # FIXME: This is BROKEN
+
+        # Getting too many stats 
+        # Should maybe use a list of keys like nbcsports.
+
         soup = self.open_bio(id)
 
+        # should be .find?
         tr = soup.findAll("tr", {"class": "shsTableTtlRow"})
-        import pdb; pdb.set_trace()
         if not tr:
-            return
+            return []
 
+        header = self.strip_list(tr[0].findAll("td", text=True))
 
         stats = []
-
-        header = self.clean_list(tr[0].findAll("td", text=True))
-        tr_parent = tr[0].parent
-
+        # These are the classes that contain stat data?
         for tr_class in ['shsRow0Row', 'shsRow1Row']:
             trs = soup.findAll("tr", {"class": tr_class})
             for tr in trs:
+                # Whoops this operation isn't working at all!
                 numbers = filter_empty(tr.findAll("td", text=True))
+
                 stat = zip(header, numbers)
                 stats.append(stat)
 
@@ -297,11 +342,6 @@ class CNNSIPlayerScraper(AbstractPlayerScraper):
         return stats
                 
             
-
-                                  
-        
-        
-
 
             
 if __name__ == "__main__":

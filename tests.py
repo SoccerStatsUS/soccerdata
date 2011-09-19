@@ -5,9 +5,23 @@ import unittest
 # Might be a good idea to define, e.g. if month >= 7, it's 2010, otherwise, 2011.
 # Need to review 
 
+
+# Split up single-line tests and multi-line tests.
+# Distinguish results from scraping lines, scraping whole text.
+# Possibly...Scrape single lines first, yielding a list of dicts, then
+# interpret those dicts. (reduce)
+
+
+# Do goals need game identifiers?
+# They should probably just be included in the fucking game dict.
+
 YEAR = 2011
+COMPETITION = "TEST COMPETITION"
 
 class TestScraperCache(unittest.TestCase):
+    # The scraper saves whole html files, which can be encoded as pretty much anything.
+    # This is just to make sure that everything is getting saved correctly.
+    # Whatever the encoding.
     
     def test_normal():
         pass
@@ -28,16 +42,23 @@ class TestLines(unittest.TestCase):
     def test_ignore_standings():
         l = [
             '1.Estudiantes (La Plata)                19  14  3  2  32- 8  45  Champions',
-            ' 2.Vélez Sarsfield                       19  13  4  2  33- 9  43',
             ' 1.FC Juventus         38 26  8  4  67-27  86  Stripped of Title July 2006',
             '1.Triestina         3   3  0  0   6- 2   9  Qualified '
             ]
+
+        for e in l:
+            assertEqual(None, SCRAPE(e))
+                        
+                        
 
     def test_ignore_miscellaneous():
         l = [
             'NB: Philadelphia Union were added for 2010',
             'Bologna relegated',
             ]
+        for e in l:
+            assertEqual(None, SCRAPE(e))
+
 
     def test_normal_score():
         # Please note this is a different Arsenal!
@@ -51,6 +72,7 @@ class TestLines(unittest.TestCase):
             'away_score': 2,
             'notes': '',
             }
+        assertEqual(SCRAPE(s), r)
         
     def test_with_comment():
         s = 'Estudiantes             2-0 Quilmes                 [at Quilmes]'
@@ -63,22 +85,24 @@ class TestLines(unittest.TestCase):
             'away_score': 0,
             'notes': 'at Quilmes',
             }
+        assertEqual(SCRAPE(s), r)
 
     def test_score_plus_date():
         # Need to test date progression at New Year's
         s = 'Salernitana 2-1 Palermo                [Sep 28]'
         r = {
             'type': 'result',
-            'date': datetime.datetime(2010, 9, 28),
+            'date': datetime.datetime(YEAR, 9, 28),
             'home_team': 'Salernitana',
             'away_team': 'Palermo',
             'home_score': 2,
             'away_score': 1,
             'notes': '',
             }
+        assertEqual(SCRAPE(s), r)
 
     def test_competition_plus_date():
-        year = 2011
+        # Do an integration test after this to make sure that it works well with two lines.
         s = 'Semifinals [May 11]'
         r = [
             {
@@ -87,13 +111,14 @@ class TestLines(unittest.TestCase):
                 },
             {
                 'type': 'date',
-                'date': datetime.datetime(year, 5, 11),
+                'date': datetime.datetime(YEAR, 5, 11),
                 },
             ]
+        assertEqual(SCRAPE(s), r)
                 
 
     def test_multi_date():
-        year = 2011
+        # Do an integration test after this to make sure that it works well with two lines.
         s = 'Semifinals [May 11 and 18]'
         r = [
             {
@@ -110,6 +135,7 @@ class TestLines(unittest.TestCase):
                 'date': datetime.datetime(year, 5, 18),
                 },
             ]
+        assertEqual(SCRAPE(s), r)
 
     def test_multi_score():
         s = 'Cagliari    1-1 1-3 Inter'
@@ -136,10 +162,11 @@ class TestLines(unittest.TestCase):
 
 
     def test_multi_score_with_date():
+        # This is not a fair test. Need another date at the top.
         # DEAR JESUS
+        
         # Probably ought to do a variety of these.
         # 1st leg, First Leg, 2nd Leg, 2nd leg, etc.
-        year = 2011
         'Cagliari    1-1 1-3 Inter                  [1st leg May 12]'
         r = [
             {
@@ -153,7 +180,7 @@ class TestLines(unittest.TestCase):
                 },
             {
                 'type': 'result',
-                'date': datetime.datetime(year, 5, 12),
+                'date': datetime.datetime(YEAR, 5, 12),
                 'home_team': 'Inter',
                 'away_team': 'Cagliari',
                 'home_score': 3,
@@ -164,6 +191,10 @@ class TestLines(unittest.TestCase):
 
 
     def test_competitions():
+        # Sort of testing competition names.
+        # Sort of testing spaces.
+        # Is there any point in recording rounds?
+        # Maybe better just to return a blank competition.
         l = [
             'Round 15 ',
             ' Conference Semifinals',
@@ -186,18 +217,71 @@ class TestLines(unittest.TestCase):
             ]
 
     def test_parse_final():
-
+        # Don't think I want to try to parse locations...pretty much impossible?
+        # Need a multi-line test here.
         s = 'Final [Nov 21, MBO Field, Toronto]'
         r = [
             {
                 'type': 'competition',
-                'name': 'Round 15'
+                'name': 'Final',
                 },
             {
                 'type': 'date'
                 'date': datetime.datetime(YEAR, 11, 21)
                 },
             ]
+
+    def test_parse_final():
+        # Don't think I want to try to parse locations...pretty much impossible?
+        # Need a multi-line test here.
+        s = 'Final [Nov 21, MBO Field, Toronto]'
+
+        r = [
+            {
+                'type': 'competition',
+                'name': 'Final',
+                },
+            {
+                'type': 'date'
+                'date': datetime.datetime(YEAR, 11, 21)
+                },
+            ]
+
+    def test_final_integration():
+        s = """[Final [Nov 21, MBO Field, Toronto]'
+               Colorado Rapids        2-1 FC Dallas              [aet]
+               [Casey 57, John 107og; Ferreira 35]
+            """
+
+        r = {
+            'type': 'result',
+            'date': datetime.datetime(YEAR, 11, 21)
+            'home_team': 'Colorado Rapids'
+            'away_team': 'FC Dallas'
+            'home_score': 2,
+            'away_score': 1,
+            'notes': '',
+            }
+
+        goals = [
+            {
+                'type': 'goal',
+                'player': 'Casey',
+                'minute': 57,
+                },
+            {
+                'type': 'goal',
+                'player': 'Ferreira',
+                'minute': 35,
+                },
+            {
+                'type': 'goal',
+                'player': 'John',
+                'minute': 107,
+                'type': 'own goal',
+                },
+            ]
+
 
     def test_goals():
 
@@ -236,6 +320,7 @@ class TestLines(unittest.TestCase):
                     'minute': 35,
                     },
                 ]
+        assertEqual(r, SCRAPE(s))
 
 
 
@@ -262,16 +347,24 @@ class TestLines(unittest.TestCase):
                 'type': 'goal',
                 'player': 'Esteban Cambiasso'
                 'minute': 45,
-                }
-
-
- 45+1, Juan Sebastian Veron 51, Alvaro Recoba 54]"""
-   Esteban Cambiasso 45+1, Juan Sebastian Veron 51, Alvaro Recoba 54]"""
-                ]
+                },
+            {
+                'type': 'goal',
+                'player': 'Juan Sebastian Veron 51',
+                'minute': 51,
+                },
+            {
+                'type': 'goal',
+                'player': ', Alvaro Recoba'
+                'minute': 54,
+                },
+            ]
+            assertEqual(r, SCRAPE(s))
 
 
 
 class TestGameDetail():
+    # Oh great what am I thinking?
     
     def test_detail():
         """
