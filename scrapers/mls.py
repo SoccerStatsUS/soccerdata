@@ -1,11 +1,111 @@
 import urllib2
-
 from BeautifulSoup import BeautifulSoup
 
-from soccer.teams.models import Team
-from soccer.stats.models import SeasonStat
 
 create_url = lambda t,y: "http://www.mlssoccer.com/stats/club/%s/overall/%s/reg" % (t, y)
+
+def scrape_scores(year):
+    l = scrape_scores_first_pass(year)
+    return MLSScoresProcessor().process_rows(l)
+
+def scrape_scores_first_pass(year):
+
+    def process_row(row):
+        # This is a header row.
+        if row.findAll("th"):
+            return {}
+
+        # Date row
+        if not row.findAll("td"):
+            date = row.contents[0]
+            return {
+                'type': 'date',
+                'date': date
+                }
+        
+        # Game row
+        else:
+            tds = [e for e in row.findAll("td", text=True) if e.strip()]
+
+            # Game does not conform to standard final game structure, so
+            # skip it.
+            if len(tds) != 6:
+                return {}
+
+            status, home_team, scores, away_team, location, _ = tds
+
+            # Consider altering this so that we have future schedules also?
+
+            # Game is probably unplayed.
+            if status != "Final":
+                return {}
+
+            home_score, away_score = scores.split("-")
+
+            return {
+                'type': 'game',
+                'status': status,
+                'home_team': home_team,
+                'away_team': away_team,
+                'location': location,
+                'home_score': home_score,
+                'away_score': away_score
+                }
+
+
+    # Need to scrape using the scraper object.
+    url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=all' % year
+    text = urllib2.urlopen(url).read()
+    soup = BeautifulSoup(text)
+    schedule_div = soup.find("div", 'schedule-page')
+    rows = schedule_div.findAll(["h3", "tr"])
+    
+    raw_rows = [process_row(row) for row in rows]
+    raw_rows = [e for e in raw_rows if e]
+    return raw_rows
+
+
+class MLSScoresProcessor(object):
+
+    def __init__(self):
+        self.current_date = None
+        self.games = []
+
+    def process_row(self, d):
+        """
+        Returns None.
+        Consumes a dictionary and changes internal state based on it.
+        """
+        
+        
+        if d['type'] == 'date':
+            self.current_date = unicode(d['date'])
+
+        else:
+            nd = {
+                'date': self.current_date,
+                }
+            
+            for k, v in d.items():
+                nd[k] = unicode(v)
+            self.games.append(nd)
+
+    def process_rows(self, dl):
+        for d in dl:
+            self.process_row(d)
+        return self.games
+
+
+
+        
+        
+                
+            
+
+    
+    
+    
+
 
 def to_int(s):
     s = s.replace(",", '')
@@ -78,6 +178,7 @@ def year_stats(year):
         for stat in stats:
             create_stat(stat)
 
+# Not sure this is at all necessary.
 def create_stat(d):
     nd = {}
     for key, value in d.items():
@@ -94,10 +195,7 @@ def create_stat(d):
     for key in ("shutouts", "goals_allowed", "shots_faced", 
                 "saves", "penalties_allowed", "penalties_faced"):
         nd[key] = 0
-    
-
-    stat = SeasonStat(**nd)
-    stat.save()
+    return nd
         
 
 
