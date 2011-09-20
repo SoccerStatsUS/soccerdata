@@ -1,7 +1,6 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-
 import re
 
 from BeautifulSoup import BeautifulSoup
@@ -32,6 +31,22 @@ mapping = {
     2006: "germany2006",
     }
 
+def scrape_all_world_cup_games():
+    l = []
+    for year in sorted(mapping.keys()):
+        scores = scrape_scores_year(year)
+        l.extend(scores)
+    return l
+
+def scrape_all_world_cup_goals():
+    l = []
+    for year in sorted(mapping.keys()):
+        scores = scrape_goalss_year(year)
+        l.extend(scores)
+    return l
+        
+        
+
 
 
 def scrape_world_cup_game_urls(year):
@@ -50,7 +65,7 @@ def scrape_world_cup_game_urls(year):
 def scrape_scores_year(year):
     urls = scrape_world_cup_game_urls(year)
     competition = "World Cup %s" % year
-    scores = [scrape_world_cup_scores(url, competition) for url in urls]
+    scores = [scrape_world_cup_game(url, competition) for url in urls]
     return scores
 
 def scrape_goals_year(year):
@@ -60,7 +75,12 @@ def scrape_goals_year(year):
         goals.extend(scrape_world_cup_goals(url))
     return goals
 
-def scrape_world_cup_scores(url, competition):
+
+
+def scrape_world_cup_game(url, competition):
+    """
+    Returns a 
+    """
     data = scrape_url(url)
     data = data.split("<h2>Advertisement</h2>")[0]
     soup = BeautifulSoup(data)
@@ -95,18 +115,20 @@ def scrape_world_cup_scores(url, competition):
         }
 
 
-def scrape_world_cup_refs(url):
-    # Ugh.
-    data = scrape_url(url)
-    soup = BeautifulSoup(data)
-
 
 # Seems the 2006 world cup report is missing some games for sasa ilic.
 goal_replace = {
     u"(SCG) 20',": "Sasa ILIC (SCG) 20',"
     }
 
+
 def scrape_world_cup_goals(url):
+    """
+    Returns a list of dicts of the form 
+    { "name": name, "team": team, "minute": minute }
+    """
+    # This needs a url or some way to identify the game.
+
     data = scrape_url(url)
     data = data.split("<h2>Advertisement</h2>")[0]
     soup = BeautifulSoup(data)
@@ -118,8 +140,16 @@ def scrape_world_cup_goals(url):
     goal_re = re.compile("^(?P<name>.*?) \((?P<team>[A-Z]+)\) (?P<minute>\d+)'")
     return [goal_re.search(s.strip()).groupdict() for s in goals]
     
-    
+
+# These don't get used.
+
+def scrape_world_cup_refs(url):
+    data = scrape_url(url)
+    soup = BeautifulSoup(data)
+
+
 def scrape_world_cup_lineups(url):
+    # Not working yet.
     data = scrape_url(url)
     data = data.split("<h2>Advertisement</h2>")[0]
     soup = BeautifulSoup(data)

@@ -40,7 +40,10 @@ class StattoParser(object):
 
 
 def raw_table(url):
-    from soccerdata.mongo import scrape_url
+    """
+    Return the score table for a given url.
+    """
+    from soccerdata.utils import scrape_url
     data = scrape_url(url)
     start = data.index("<table")
     end = data.index("</table")
@@ -50,6 +53,10 @@ def raw_table(url):
 
 
 def rows_generator(text):
+    """
+    A simple generator to return rows.
+    """
+    # I guess this is just me being fancy?
     soup = BeautifulSoup(text)
     # We're going to iterate through all the td's in this box.
     for td in soup.findAll("td"):
@@ -57,10 +64,18 @@ def rows_generator(text):
 
 
 def consume_rows(rows, competition):
+    """
+    Consumes x rows until it has a game to return, then does it.
+    Returns the data and an updated competition value.
+    Mutates rows.
+    """
+
+    # Maybe would be better to have a two part system?
     # Rows is a generator and so we consume
     # the part we want.
 
     def check_team(r):
+        # Check to see if this is a team.
         if r.get('class') and r['class'] == 'team':
             # Not sure what will happen when we see an unlinked team.
             # Want to make sure to fix this if it's not a link.
@@ -69,6 +84,7 @@ def consume_rows(rows, competition):
         return None
 
     def check_score(r):
+        # Check to see if this is a score.
         if r.get('class') and r['class'] == 'c1 sc':
             text = r.contents[0]
             if text == 'v':
@@ -80,6 +96,7 @@ def consume_rows(rows, competition):
         return None
 
     def check_competition(r):
+        # Check to see if this is a competition name.
         l_class = row.find("span", "l")
         if l_class:
             return l_class.contents[0]
@@ -122,6 +139,9 @@ def consume_rows(rows, competition):
 
 
 def get_scores(url):
+    """
+    Return a list of scraped scores.
+    """
     table = raw_table(url)
     rows = rows_generator(table)
     l = []
@@ -132,6 +152,7 @@ def get_scores(url):
             competition = c
             l.append(row)
         # This is what is thrown when we run out of rows.
+        # When we're out of rows, just return our results!
         except TypeError:
             return l
 
