@@ -15,7 +15,6 @@ class NBCSportsPlayerScraper(AbstractPlayerScraper):
     """
 
 
-    FILE_PREFIX = 'nbcsports'
     PLAYER_URL = 'http://scores.nbcsports.msnbc.com/epl/players.asp?player=%s'
 
     # Actually scrape_player_page?

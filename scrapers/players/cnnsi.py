@@ -167,11 +167,8 @@ def get_events(url):
 
 class CNNSIPlayerScraper(AbstractPlayerScraper):
 
-    # Should not be a FILE_PREFIX!
     # Dump players into a mongo database.
     # Tag with their source url.
-
-    FILE_PREFIX = 'cnnsi'
 
     PLAYER_URL = 'http://sports.sportsillustrated.cnn.com/mls/players.asp?player=%s'
 

@@ -14,7 +14,6 @@ feet2cm = lambda feet, inches: int(round(2.54 * ((12 * feet) + inches)))
 num = 46612
 
 class SoccerbasePlayerScraper(AbstractPlayerScraper):
-    FILE_PREFIX = 'soccerbase'
     PLAYER_URL = 'http://www.soccerbase.com/players_details.sd?playerid=%s'
 
     def preprocess_bio_html(self, html):

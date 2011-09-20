@@ -65,18 +65,15 @@ class AbstractPlayerScraper(object):
 
     """
     What is a player?
-    """
+
     player = {
         "name": "Cristiano Ronaldo",
         "birthdate": "5 February 1985",
         "birthplace": "Funchal, Madeira, Portugal",
         "height": "1.86 m (6 ft 1 in)",
         }
+    """
 
-
-    # Need to swap out directory for mongo.
-    DATA_DIR = '/home/chris/www/soccer/data/bios/'
-    FILE_PREFIX = None
 
     # Url for a player
     PLAYER_URL = None
@@ -91,35 +88,6 @@ class AbstractPlayerScraper(object):
         pass
 
     
-    # These should use mongo.
-    @property
-    def profiles_path(self):
-        return os.path.join(self.DATA_DIR, '%s.%s' % (self.FILE_PREFIX, 'profiles'))
-
-    @property
-    def stats_path(self):
-        return os.path.join(self.DATA_DIR, '%s.%s' % (self.FILE_PREFIX, 'stats'))
-    
-    @property
-    def max_path(self):
-        return os.path.join(self.DATA_DIR, '%s.%s' % (self.FILE_PREFIX, 'max'))
-
-
-    # Why not just use a python lock object instead of these four items.
-    def lock_path(self, type):
-        return os.path.join(self.DATA_DIR, '%s.%s.%s' % (self.FILE_PREFIX, type, 'lock'))
-
-    def is_locked(self, type):
-        return os.path.exists(self.lock_path(type))
-
-    def create_lock(self, type):
-        f = open(self.lock_path(type), 'w')
-        f.close()
-
-    def unlock(self, type):
-        os.remove(self.lock_path(type))
-
-
     # These should use mongo.
     # Right? Are we going to use mongo on this side? What for exactly?
     def get_max(self):
@@ -140,105 +108,6 @@ class AbstractPlayerScraper(object):
         f  = open(self.max_path, 'w')
         f.write(str(num))
         f.close()
-
-
-    # I don't think these are necessary anymore.
-    def load_profiles(self):
-        if os.path.isfile(self.profiles_path):
-            f = open(self.profiles_path)
-            d = cPickle.load(f)
-            f.close()
-            return d
-        else:
-            return {}
-
-    def save_profiles(self, d):
-        d1 = self.load_profiles()
-        f = open(self.profiles_path, 'w')
-        d1.update(d)
-        cPickle.dump(d1, f)
-        f.close()
-
-    def load_stats(self):
-        if os.path.isfile(self.stats_path):
-            f = open(self.stats_path)
-            d = cPickle.load(f)
-            f.close()
-            return d
-        else:
-            return {}
-
-    def save_stats(self, d):
-        d1 = self.load_profiles()
-        f = open(self.stats_path, 'w')
-        d1.update(d)
-        cPickle.dump(d1, f)
-        f.close()
-    
-
-    # What is the point of search_profiles?
-    # Instead of inserting or something rather safe, it's
-    # just keeping all of profiles in memory and saving them periodically.
-    # There's really no need for any of this stuff.
-    def search_profiles(self, count=300):
-        """
-        """
-
-        if self.is_locked('bio'):
-            return
-
-        # Get created profiles and stats.
-        self.create_lock('bio')
-        profiles = self.load_profiles()
-        stats = self.load_stats()
-        
-        start = self.get_max()
-        end = start + count
-        
-        # Search for x profiles 
-        i = 0
-        print "processing from %s to %s" % (start, end)
-        for num in range(start, end):
-            i += 1
-            time.sleep(1.5)
-            
-            try:
-                # Fetch the page.
-                soup = self.open_bio(num)
-                # Parse the data.
-                scraped = self.scrape_player(soup)
-                # Save the data and try to scrape the stats.
-                # Possibly separate the scraping part.
-                if 'name' in scraped:
-                    profiles[num] = scraped
-                    s = self.scrape_stats(soup)
-                    if s:
-                        stats[num] = s
-                        
-            except HTMLParseError:
-                print "Couldn't parse %s" % num
-                logger.debug("%s couldn't parse %s" % (self.FILE_PREFIX, num))
-            except urllib2.HTTPError:
-                print "Received HTTP Error for %s" % num
-                logger.error("%s received HTTP Error for %s" % (self.FILE_PREFIX, num))
-                self.unlock('bio')
-                return d
-
-            # Save profiles every twenty fifth item.
-            # Why not just save every item?
-            if i % 25 == 0:
-                current = start + i
-                print "Downloading %s" % (current)
-                self.set_max(current)
-                self.save_profiles(profiles)
-                self.save_stats(stats)
-
-        # Save at the end of processing.
-        self.set_max(end)
-        self.save_profiles(profiles)
-        self.save_stats(stats)
-        self.unlock('bio')
-
 
     def scrape_player(self, soup):
         """
@@ -265,7 +134,6 @@ class AbstractPlayerScraper(object):
         """
         Clean up html
         """
-
         return html
 
 

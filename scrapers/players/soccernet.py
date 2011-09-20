@@ -13,11 +13,9 @@ from abstract import AbstractPlayerScraper
 
 class SoccernetPlayerScraper(AbstractPlayerScraper):
 
-    # File prefix should be replaced with mongo db. Or possibly nothing.
     # Scraper should only return dicts. No knowledge of what happens after.
     # Scrapers should also apply minimum logic. Mostly keep text values.
     # Try to parse dates? Probably not.
-    FILE_PREFIX = 'soccernet'
     PLAYER_URL = 'http://soccernet.espn.go.com/player/_/id/%s'
     GAME_URL = 'http://soccernet.espn.go.com/match?id=%s'
     
