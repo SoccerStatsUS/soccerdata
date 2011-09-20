@@ -9,6 +9,21 @@ collection = db.pages
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 
+# merge this.
+def get_contents(l):
+    """
+    Fetch the contents from a soup object.
+    """
+    # Good recursive function.
+    if not hasattr(l, 'contents'):
+        s = l
+    else:
+        s = ""
+        for e in l.contents:
+            s += get_contents(e)
+    return s.strip()
+
+
 def scrape_url(url, static=True):
 
     scrape_db = connection.scraper
@@ -21,12 +36,19 @@ def scrape_url(url, static=True):
 
     if result is None:
         print "downloading"
+        # Work on this logic.
         data = requests.get(url, headers=[('User-Agent', USER_AGENT)]).read()
-        pages_collection.insert({"url": url, "data": data})
+        try:
+            pages_collection.insert({"url": url, "data": data})
+        except bson.errors.InvalidStringData:
+            data = row['data'].decode('cp1252').encode('utf8')
+            pages_collection.insert({"url": url, "data": data})
     else:
         print "pulling from cache."
         data = result['data']
     return data
+
+
 
 # Could do something like find_encoding here.
 # This is clearly the wrong place to be doing this.
@@ -36,7 +58,7 @@ def insert_row_bad(collection, row):
     try:
         bson.BSON.encode(row)
     except bson.errors.InvalidStringData:
-        data = row['data'].decode('cp1252').encode('utf8')
+
         row['data'] = data
     collection.insert(row)
 

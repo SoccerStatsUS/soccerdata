@@ -8,6 +8,8 @@ import os
 import time
 import urllib2
 
+from soccer.utils import get_contents
+
 # This logging could definitely be improved...
 LOG_DIR = "/home/chris/www/soccer/logs"
 LOG_FORMAT = "%(asctime)s\t%(process)d\t%(levelname)s\t%(filename)s\t%(message)s"
@@ -20,20 +22,6 @@ to_file = logging.FileHandler(
 to_file.setFormatter(logging.Formatter(LOG_FORMAT))
 
 logger.addHandler(to_file)
-
-# merge this.
-def get_contents(l):
-    """
-    Fetch the contents from a soup object.
-    """
-    # Good recursive function.
-    if not hasattr(l, 'contents'):
-        s = l
-    else:
-        s = ""
-        for e in l.contents:
-            s += get_contents(e)
-    return s.strip()
 
 
 # Is this doing anything?

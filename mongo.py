@@ -98,8 +98,6 @@ def scrape_australia(years=None):
 
 
 
-
-
 def scrape_nasl():
     from scrapers import nasl
     scores = nasl.scrape_scores()

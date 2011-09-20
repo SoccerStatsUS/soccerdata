@@ -45,11 +45,11 @@ def spain_page():
 
 @app.route("/g/nasl")
 def nasl():
-    rows = mongo.get_rows('nasl-scores')
+    rows = mongo.get_rows(soccer_db.nasl_scores)
     return render_template("game.html", rows=rows)    
 
 @app.route("/g/mls-rsssf")
-def mls():
+def mls_rsssf():
     rows = mongo.get_rows('rsssf-mls-games')
     return render_template("game.html", rows=rows)    
 
