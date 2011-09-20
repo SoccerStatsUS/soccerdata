@@ -8,10 +8,10 @@ import re
 import sys
 import urllib2
 
-from abstract import AbstractPlayerScraper, get_contents
+# Try to kill this guy.
+from soccerdata.scrapers.players.abstract import AbstractPlayerScraper
+from soccerdata.utils import scrape_url, get_contents
 
-# Not used.
-GAME_URL = "http://sports.sportsillustrated.cnn.com/mls/boxscore.asp?gamecode=2010082103&show=pstats&ref="
 
 
 class CNNSIScoreboardScraper(object):
@@ -46,44 +46,54 @@ class CNNSIScoreboardScraper(object):
         """
         return date.strftime("%Y%m%d")
 
-    def get_date_page(self, date, competition):
+    def get_scoreboard_page(self, date, competition):
         """
+        Load the scoreboard page 
         """
         url = self.make_url(competition, date)
-        html = urllib2.urlopen(url).read()
+        html = scrape_url(url)
         return BeautifulSoup(html)
 
 
     def process_date(self, date, competition):
-        soup = self.get_date_page(date, competition)
+        """
+        Get the scores from a date.
+        """
+
+        soup = self.get_scoreboard_page(date, competition)
         matches = [e.parent for e in soup.findAll("tr", "shsMatchDayRow")]
         box_scores = soup.findAll("tr", "shsOfficialBox")
-        results = []
-        for match, box_score in zip(matches, box_scores):
-            # Need to handle bad dates anyway...
-            if date < datetime.date.today():
-                try:
-                    scores = match.find("td", "shsTotD shsSBScoreTD").contents[0]
-                except:
-                    import pdb; pdb.set_trace()
-                home_score, away_score = [int(e) for e in scores.strip().split("-")]
-                home = match.find("td", "shsNamD shsHomeTeam").find("a").contents[0]
-                away = match.find("td", "shsNumD shsAwayTeam").find("a").contents[0]
 
-                url = box_score.previousSibling.find("a")['href']
+        def process_score(match, box_score):
+            try:
+                scores = match.find("td", "shsTotD shsSBScoreTD").contents[0]
+            # Need a reason for this exception.
+            # And obviously cut this out eventually.
+            except:
+                import pdb; pdb.set_trace()
+            home_score, away_score = scores.split("-")
+            home_team = match.find("td", "shsNamD shsHomeTeam").find("a").contents[0]
+            away_team = match.find("td", "shsNumD shsAwayTeam").find("a").contents[0]
 
-                d = {
-                    "home": home,
-                    "away": away,
-                    "home_score": home_score,
-                    "away_score": away_score,
-                    "date": date,
-                    "competition": competition,
-                    'url': url,
-                    }
-                results.append(d)
+            url = box_score.previousSibling.find("a")['href']
 
-        return results
+            return {
+                "home_team": home_team,
+                "away_team": away_team,
+                "home_score": home_score,
+                "away_score": away_score,
+                "date": date,
+                "competition": competition,
+                'url': url,
+                }
+
+            
+        if date >= datetime.date.today():
+            return []
+        else:
+            return [process_score(m, b) for (m, b) in zip(matches, box_scores)]
+
+
 
 
 
@@ -198,11 +208,13 @@ class CNNSIPlayerScraper(AbstractPlayerScraper):
 
         birthdate = birthplace = height = None
 
+        
+        # No need to do all this processing here.
         name = unicode(bio_mast.findAll("strong", {"class": 'shsPlayerName'})[0].contents[0])
         if name.endswith("-"):
             name = name[:-1]
             name = clean_cell(name)
-
+            
         if d['Birthdate']:
             bd = d['Birthdate']
             birthdate = datetime.datetime.strptime(bd, '%d/%m/%Y')

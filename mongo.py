@@ -103,5 +103,9 @@ def scrape_nasl():
     scores = nasl.scrape_scores()
     delete_rows(soccer_db.nasl_scores)
     insert_rows(soccer_db.nasl_scores, scores)
+
+
+def scrape_england_cnnsi():
+    pass
         
 

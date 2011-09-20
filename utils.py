@@ -2,6 +2,7 @@ import bson
 import pymongo
 import random
 import requests
+import urllib2
 
 connection = pymongo.Connection()
 db = connection.scraper
@@ -25,6 +26,9 @@ def get_contents(l):
 
 
 def scrape_url(url, static=True):
+    """
+    Scrape a url, or just use a version saved in mongodb.
+    """
 
     scrape_db = connection.scraper
     pages_collection = scrape_db.pages
@@ -37,12 +41,20 @@ def scrape_url(url, static=True):
     if result is None:
         print "downloading"
         # Work on this logic.
-        data = requests.get(url, headers=[('User-Agent', USER_AGENT)]).read()
-        try:
-            pages_collection.insert({"url": url, "data": data})
-        except bson.errors.InvalidStringData:
-            data = row['data'].decode('cp1252').encode('utf8')
-            pages_collection.insert({"url": url, "data": data})
+        
+        # Requests is not returning correct data.
+        # e.g. http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3051/report.html
+        # gets trash back.
+        #data = requests.get(url, headers=[('User-Agent', USER_AGENT)]).read()
+
+        opener = urllib2.build_opener()
+        opener.addheaders = [('User-agent', USER_AGENT)]
+        data = opener.open(url).read()
+        unicode_data = data.decode('utf-8')
+        pages_collection.insert({"url": url, "data": unicode_data})
+        #except bson.errors.InvalidStringData:
+        #    cp1252_data = data.decode('cp1252').encode('utf8')
+        #    pages_collection.insert({'url': url, 'data': cp1252_data})
     else:
         print "pulling from cache."
         data = result['data']

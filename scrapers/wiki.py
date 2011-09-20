@@ -2,21 +2,44 @@ from BeautifulSoup import BeautifulSoup
 import re
 import urllib2
 
-from abstract import get_contents
+from soccerdata.utils import get_contents, scrape_url
 
-DEFAULT_USER_AGENT = "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.22 Safari/532.5"
+
+def scrape_stadium(name):
+    wiki_name = name.replace(" ", "_")
+    url = "http://en.wikipedia.org/wiki/%s" % wiki_name
+    data = scrape_url(url)
+    soup = BeautifulSoup(data)
+    infobox = soup.find("table", "infobox vcard")
+
+    name = infobox.find("th", "fn org").contents[0]
+    nickname = infobox.find("span", "nickname").contens[0]
+
+    attrs = {}
+    for tr in infobox.findAll("tr"):
+        th = tr.find("th")
+        td = tr.find("td")
+        if th and td:
+            key = get_contents(th).lower()
+            value = get_contents(td)
+            attrs[key] = value
+
+        
+    return {
+        'name': name,
+        'nickname': nicknamem,
+        'location': attrs.get('Location'),
+        'opened': attrs.get('Opened'),
+        'capacity': attrs.get('Capacity'),
+        }
+        
+
 
 def scrape_team(name):
     wiki_name = name.replace(" ", "_")
-
     url = "http://en.wikipedia.org/wiki/%s" % wiki_name
-
-    urlopener = urllib2.build_opener()
-    urlopener.addheaders = [('User-agent', DEFAULT_USER_AGENT)]
-    data = urlopener.open(url).read()
-
+    data = scrape_url(url)
     soup = BeautifulSoup(data)
-
     infobox = soup.find("table", "infobox vcard")
 
     attrs = {}
