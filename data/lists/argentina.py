@@ -1,10 +1,13 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
 # Footballer of the Year of Argentina (in Spanish: Olimpia de Plata al Mejor Futbolista, 
 # that literally translates to "Silver Olimpia to the Best Footballer) is a yearly award 
 # given by the Argentine Sports Journalists' Circle 
 # (Círculo de Periodistas Deportivos de la República Argentina) as one of 
 # the Olimpia Awards, the most important sports award in Argentina.
 
-l = [
+footballer = [
     (1970, ('Héctor Yazalde', )),
     (1971, ('José Omar Pastoriza', )), 
     (1972, ('Ángel Bargas', )),
