@@ -174,3 +174,10 @@ def load_scaryice_mls_scores():
     delete_rows(coll)
     insert_rows(coll, scores)
 
+def load_fbleague_scores():
+    from scrapers import fbleague
+    coll = soccer_db.fbleague_scores
+    scores = fbleague.scrape_all_seasons()
+    delete_rows(coll)
+    insert_rows(coll, scores)
+

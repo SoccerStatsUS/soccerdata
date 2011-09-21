@@ -57,6 +57,7 @@ def load():
 
 def generate():
     # Generate
+    generate_standings()
     generate_stats()
     generate_transfers()
 
@@ -113,8 +114,10 @@ def load_games():
     # USA
     mongo.scrape_mls_mlssoccer()
     mongo.scrape_nasl()
-
     mongo.load_scaryice_mls_scores()
+
+    # Europe
+    mongo.load_fbleague_scores()
 
     # Next up.
     mongo.scrape_england_cnnsi()
@@ -130,9 +133,6 @@ def load_games():
     mongo.scrape_australia_rsssf()
 
 
-def check_games():
-    pass
-
 
 # Goals
 
@@ -143,27 +143,16 @@ def load_goals():
     #mongo.scrape_world_cup_goals()
 
 
-def check_goals():
-    pass
-    
-
-# Lineups 
 
 def load_lineups():
     pass
 
-def check_lineups():
-    pass
 
-# Salaries
 
 def load_salaries():
     print "Loading mls salaries."
     mongo.load_mls_salaries()
 
-
-
-# Drafts
 
 def load_drafts():
     print "Loading mls drafts."
@@ -171,19 +160,39 @@ def load_drafts():
 
 def load_lists():
     print "Loading lists"
+
+
+def load_stats():
+    pass
+
+# Check things.
+
+def check_games():
     pass
 
 
-# Stats
 
-def load_stats():
+def check_lineups():
+    pass
+
+def check_goals():
+    pass
+    
+
+
+def check_stats():
+    pass
+
+
+
+
+def generate_standings():
     pass
 
 def generate_stats():
     pass
 
-
-def check_stats():
+def generate_transfers():
     pass
 
 
