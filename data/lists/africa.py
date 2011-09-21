@@ -1,6 +1,6 @@
 #http://en.wikipedia.org/wiki/African_Footballer_of_the_Year
 
-caf_award  [
+caf_award = [
     (2010, 'Samuel Eto\'o', 'Asamoah Gyan','Didier Drogba'),
     (2009, 'Didier Drogba', 'Samuel Eto\'o','Michael Essien'),
     (2008, 'Emmanuel Adebayor', 'Mohamed Aboutrika','Michael Essien'),
@@ -48,3 +48,42 @@ french_african = [
     (1971, ('Ibrahim Sunday', 29), ('Robert Mensah', 15), ('François Ndoumbé', 13)),
     (1970, ('Salif Keïta', 54), ('Laurent Pokou', 28), ('Abugreisha', 28)),
     ]
+
+young_player = [
+    (2010, 'Kwadwo Asamoah'),
+    (2009, 'Mostafa Afroto'),
+    (2008, 'Salomon Kalou'),
+    (2007, 'Clifford Mulenga'),
+    (2006, 'Taye Taiwo'),
+    (2005, 'John Obi Mikel'),
+    (2004, 'Obafemi Martins'),
+    (2003, 'Obafemi Martins'),
+    (2002, 'Mido'),
+    (2001, 'Pedro Mantorras'),
+    ]
+
+coach = [
+    (2010, 'Milovan Rajevac'),
+    (2009, 'Sellas Teteh'),
+    (2008, 'Hassan Shehata'),
+    (2007, 'Yemi Tella'),
+    (2006, 'Manuel José'),
+    (2005, 'Stephen Keshi'),
+    (2004, 'Okey Emordi'),
+    (2003, 'Kadiri Ikhana'),
+    (2002, 'Bruno Metsu'),
+    (2001, 'Bruno Metsu'),
+    ]
+
+team = [
+    (2010, 'TP Mazembe'),
+    (2009, 'TP Mazembe'),
+    (2008, 'Al-Ahly'),
+    (2007, 'Etoile du Sahel'),
+    (2006, 'Al-Ahly'),
+    (2005, 'Al-Ahly'),
+    (2004, 'Enyimba'),
+    (2003, 'Enyimba'),
+    (2002, 'Zamalek'),
+    (2001, 'Kaizer Chiefs'),
+]

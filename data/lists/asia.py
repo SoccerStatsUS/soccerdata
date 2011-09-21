@@ -25,3 +25,23 @@ asia = [
     (2009, 'Yasuhito Endō', 'Sayed Adnan', 'Kengo Nakamura'),
     (2010, 'Saša Ognenovski', 'Farhad Majidi', 'Bader Al-Mutwa'),
     ]
+
+
+young = [
+    (1995, 'Mohammed Al-Kathiri'),
+    (1996, 'Bamrung Boonprom'),
+    (1997, 'Mehdi Mahdavikia'),
+    (1998, 'Ali Daei'),
+    (1999, 'Waleed Hamzah'),
+    (2000, 'Ryoichi Maeda'),
+    (2001, 'Du Wei'),
+    (2002, 'Lee Chun-Soo'),
+    (2003, 'Yoshito Okubo'),
+    (2004, 'Park Chu-Young'),
+    (2005, 'Choe Myong-Ho'),
+    (2006, 'Ma Xiaoxu'),
+    (2007, 'Kim Kum-Il'),
+    (2008, 'Ahmad Khalil'),
+    (2009, 'Ki Sung-Yueng'),
+    (2010, 'Jong Il-Gwan'),
+]
