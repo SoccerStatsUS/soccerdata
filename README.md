@@ -6,30 +6,89 @@
 1. News as data. Collect all the soccer news feeds. Use them to pull out interesting data.
 2. Twitter stream. Um, get tweets about soccer I suppose. Preferably valuable tweets. Is there a service for this?
 3. Add data consistency checking.
-4. Get 2010 World Cup data.
 
 
 
 # Checking data
 
-What's a good way to check conflicting data?
+What's are ways to check conflicting data?
 
-What kind of data do we have?
+# First, you have to normalize names.
 
-# Player action data
-Event data
-Game Stat data
-Season stat data
-Lineup data
-
-# Game data
-Score data
-
-# Biographical data
-Player data
- - Salary data
-Team data
+1. Make sure that a team does not play more than one game on the same day.
+2. Assert that when a team plays multiple games on the same day, they are identical.
+3. Compare standings and make sure they are identical.
+4. Merge bios together.
 
 
-Should probably standardize on a text data format. 
-I'm currently using pure python, but we've also got a lot of text documents mixed in.
+# Normalization - what do we need to normalize and how?
+
+# Team names.
+
+Just create a list of canonical team names. How should this interact with the teams from soccer?
+
+# Player names.
+
+1. Create guesses based on name similarity with birthdate
+2. Use lineup data to create theories about likely players.
+2. Create name translation machinery (?)
+3. 
+
+
+
+Competition names for everything.
+
+Team names only:
+ - scores
+ - standings
+ 
+Player names only:
+ - goals
+ - fouls, tackles, etc.
+ - biographical data
+
+Both: 
+ - substitutions
+ - game stats
+ - competition stats
+ - lineups
+
+
+## Data breakdown
+
+# Event data
+ - goals
+ - substitutions
+ - fouls
+ - tackles
+ - passes
+ - etc. 
+
+# Summary data
+ - scores
+ - standings
+ - game stats
+ - competition stats (is a game a miniature competition?)
+ - teams (?)
+ - lineup data
+
+# Ancillary data
+ - salaries
+ - awards
+ - biographical data
+
+# Prospective
+ - place data
+ - 
+
+
+# Standardizations
+
+I want to standardize on a text data format.
+
+It seems obviously better to use yaml for everything.
+That way it's neatly structured and already ready to use.
+
+# can probably just dump my python creations as yaml?
+
+# Bio data, e.g., should definitely be in yaml.
