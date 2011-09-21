@@ -25,10 +25,13 @@ def get_contents(l):
     return s.strip()
 
 
-def scrape_url(url, static=True):
+def scrape_url(url, static=True, encoding=None):
     """
     Scrape a url, or just use a version saved in mongodb.
     """
+    # Might want to allow a list of encodings.
+    if encoding is None:
+        encoding = 'utf-8'
 
     scrape_db = connection.scraper
     pages_collection = scrape_db.pages
@@ -39,7 +42,7 @@ def scrape_url(url, static=True):
         result = None
 
     if result is None:
-        print "downloading"
+        print "downloading %s" % url
         # Work on this logic.
         
         # Requests is not returning correct data.
@@ -50,13 +53,10 @@ def scrape_url(url, static=True):
         opener = urllib2.build_opener()
         opener.addheaders = [('User-agent', USER_AGENT)]
         data = opener.open(url).read()
-        unicode_data = data.decode('utf-8')
+        unicode_data = data.decode(encoding)
         pages_collection.insert({"url": url, "data": unicode_data})
-        #except bson.errors.InvalidStringData:
-        #    cp1252_data = data.decode('cp1252').encode('utf8')
-        #    pages_collection.insert({'url': url, 'data': cp1252_data})
     else:
-        print "pulling from cache."
+        print "pulling %s from cache." % url
         data = result['data']
     return data
 

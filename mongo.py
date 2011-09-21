@@ -8,9 +8,6 @@
 import datetime
 import pymongo
 
-from soccerdata.scrapers import statto
-
-
 connection = pymongo.Connection()
 soccer_db = connection.soccer
 
@@ -36,7 +33,10 @@ def delete_rows(collection, rows=None):
 # Statto can only be scraped up to 2008, 1, 1 (or maybe earlier?)
 
 def scrape_statto(date):
+    """
     Scrape a single statto game. 
+    """
+    from soccerdata.scrapers import statto
     rows = statto.process_date(date)
     insert_rows(soccer_db.statto_games, rows)
     # Statto is scraping all possible games for a given date,
@@ -48,8 +48,9 @@ def scrape_all_statto():
     """
     Download all statto schedules.
     """
-    date = datetime.date(2008, 1, 1)
-    while date < datetime.date.today():
+    date = datetime.datetime(2008, 1, 1)
+    # Will run including today.
+    while date < datetime.datetime.now():
         scrape_statto(date)
         date += datetime.timedelta(days=1)
 
@@ -139,7 +140,37 @@ def scrape_world_cup_goals():
     insert_rows(coll, goals)
 
 
+# Bio data.
 
 def load_mls_bios():
-    pass
+    print "loading bios"
+    from text import bios
+    coll = soccer_db.chris_bios
+    bios = bios.load_bios()
+    delete_rows(coll)
+    insert_rows(coll, bios)
+
+
+def load_mls_salaries():
+    print "loading salaries"
+    from text import salaries
+    coll = soccer_db.mls_salaries
+    salaries = salaries.load_salaries()
+    delete_rows(coll)
+    insert_rows(coll, salaries)
+
+
+def load_mls_drafts():
+    from text import drafts
+    coll = soccer_db.mls_drafts
+    drafts = drafts.load_drafts()
+    delete_rows(coll)
+    insert_rows(coll, drafts)
+
+def load_scaryice_mls_scores():
+    from text import lineups
+    coll = soccer_db.scaryice_scores
+    scores = lineups.load_all_scores()
+    delete_rows(coll)
+    insert_rows(coll, scores)
 
