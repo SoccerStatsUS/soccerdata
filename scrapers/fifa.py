@@ -41,7 +41,7 @@ def scrape_all_world_cup_games():
 def scrape_all_world_cup_goals():
     l = []
     for year in sorted(mapping.keys()):
-        scores = scrape_goalss_year(year)
+        scores = scrape_goals_year(year)
         l.extend(scores)
     return l
         
@@ -103,13 +103,13 @@ def scrape_world_cup_game(url, competition):
         raise
 
     return {
-        "home_team": home_team,
-        "away_team": away_team,
-        "score": score,
-        "date": date,
-        "time": time,
-        "location": location,
-        "attendance": attendance,
+        "home_team": unicode(home_team),
+        "away_team": unicode(away_team),
+        "score": unicode(score),
+        "date": unicode(date),
+        "time": unicode(time),
+        "location": unicode(location),
+        "attendance": unicode(attendance),
         "competition": competition,
         "url": url,
         }

@@ -11,45 +11,17 @@ class UnplayedException(Exception):
     pass
 
 
-class StattoParser(object):
-
-    def __init__(self):
-        
-        # Used while processing rows to
-        # keep track of the current competition
-        # whose results are being examined.
-        self.competition = None
-        self.current = {}
-
-
-    def process_row(self, row):
-        # This span indicates a league, like
-        # <td colspan="4"><span class="l">English Premier League</span>
-
-        l_class = row.find("span", "l")
-        if l_class:
-            self.competition = l_class.contents[0]
-
-        payload = {}
-        team = check_team(row)
-        if team:
-            if 'home_team' in payload:
-                self.current['away_team'] = team
-            else:
-                self.current['home_team'] = team
-
 
 def raw_table(url):
     """
     Return the score table for a given url.
     """
     from soccerdata.utils import scrape_url
-    data = scrape_url(url)
+    data = scrape_url(url, encoding='iso_8859_1')
     start = data.index("<table")
     end = data.index("</table")
     scores_text = data[start:end]
     return scores_text
-
 
 
 def rows_generator(text):
