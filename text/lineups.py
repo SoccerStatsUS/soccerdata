@@ -2,46 +2,12 @@
 
 # Need to redo a bunch of DC United Goal entries from around 2003 and 2004.  Format is Adu (34;85), which is not useable...
 
-# Looks like this should probably just be redone.
+# Load data from scrayice's lineup files.
 
 import datetime
 import os
 import re
 import sys
-
-
-
-LINEUPS_DIR = "/home/chris/www/soccer/data/lineups/"
-
-
-
-translation_map = {
-    'Stoichkov': 'Stoitchkov'
-}
-
-team_mapping = {
-    "Chicago": u'Chicago Fire',
-    "Chivas USA": u'Chivas USA',
-    "Colorado": u'Colorado Rapids',
-    "Columbus": u'Columbus Crew',
-    "DC United": u'D.C. United',
-    "Dallas": u'FC Dallas',
-    "FC Dallas": u'FC Dallas',
-    "Houston": u'Houston Dynamo',
-    "Kansas City": u'Kansas City Wizards',
-    "Los Angeles": u'Los Angeles Galaxy',
-    "Miami": u'Miami Fusion',
-    "New England": u'New England Revolution',
-    "New York": u'New York Red Bulls',
-    "MetroStars": u'New York Red Bulls',
-    "Metrostars": u'New York Red Bulls',
-    "Philadelphia": u'Philadelphia Union',
-    "Real Salt Lake": u'Real Salt Lake',
-    "San Jose": u'San Jose Earthquakes',
-    "Seattle": u'Seattle Sounders',
-    "Tampa Bay": u'Tampa Bay Mutiny',
-    "Toronto": u'Toronto FC',
- }
 
 
 file_mapping = {
@@ -63,42 +29,118 @@ file_mapping = {
     "SEA": u'Seattle Sounders',
     "TB": u'Tampa Bay Mutiny',
     "TOR": u'Toronto FC',
- }
+ }    
+
+
+
+LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/"
+
+
+def get_scores(fn):
+    """
+    Get scores from scaryice's lineups table for a given file.
+    """
+
+
+    def process_line(line):
+        if not line.strip():
+            return {}
+
+        items = line.strip().split("\t")
+        match, date, location, opponent, score, result, _, goals, lineups = items
+
+        if location == 'H':
+            home_team = team_name
+            away_team = opponent
+        elif location == 'A':
+            away_team = team_name
+            home_team = opponent
+        elif location == 'N':
+            # Not sure how to handle these.
+            home_team = team_name
+            away_team = opponent
+        else:
+            raise
+
+        
+        return {
+            'match': match,
+            'date': date,
+            'score': score,
+            'home_team': home_team,
+            'away_team': away_team,
+            'location': location,
+            }
+
+    p = os.path.join(LINEUPS_DIR, fn)
+         
+    team_name = file_mapping[fn.replace(".csv", '')]
+    scores = [process_line(line) for line in open(p).readlines()]
+    scores = [e for e in scores if e]
+    return scores
+
+def load_all_scores():
+    l = []
+    for key in file_mapping.keys():
+        fn = "%s.csv" % key
+        l.extend(get_scores(fn))
+    return l
+
+
+def get_goals(fn):
+    def process_line(line):
+        if not line.strip():
+            return {}
+
+        items = line.strip().split("\t")
+        match, date, location, opponent, score, result, _, goals, lineups = items
+
+        def process_goal(e):
+            # looks like this
+            # Kosecki (Razov) 76; Kotschau (unassisted) 87'
+            return {
+                'team': team_name,
+                'date': date,
+                'player': player,
+                'minute': minute,
+                }
+
+
+        return [process(e) for e in goals.split(';')]
+
+    p = os.path.join(LINEUPS_DIR, fn)
+         
+    team_name = file_mapping[fn.replace(".csv", '')]
+
+    l = []
+    for line in open(p).readlines():
+        l.extend(process_line(line))
+    return l
+
+
+def load_all_goals():
+    l = []
+    for key in file_mapping.keys():
+        fn = "%s.csv" % key
+        l.extend(get_goals(fn))
+    return l
+
+
+        
+
+
+
+
+# This stuff is overly complex.
+
 
 
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
 
-
-def process_files():
-    files = os.listdir(LINEUPS_DIR)
-    #for fn in files[3:]:
-    for fn in files:
-        print fn
-        p = os.path.join(LINEUPS_DIR, fn)
-        process_lineup(p)
-
-def process_file(fn):
-    p = os.path.join(LINEUPS_DIR, fn)
-    process_lineup(p)
-
-
-def process_lineup(p):
-    fn = os.path.split(p)[1]
-    f = open(p)
-    for line in f:
-        line = line.strip()
-        if line:
-            lineup = Lineup(line, fn)
-            lineup.process_games()
-            lineup.process_goals()
-    f.close()
-
-
 class Lineup(object):
     def __init__(self, line, file):
         fn = file.split(".")[0]
-        self.team = Team.objects.get(short_name=file_mapping[fn])
 
         self.line = line
 
@@ -112,10 +154,6 @@ class Lineup(object):
         self.player_failures = set()
         self.games_played = []
 
-    def get_players(self):
-        # Fixme
-        return [str(e.player) for e in self.games_played]
-        return [e.player.name for e in self.games_played]
 
 
     def _format_lineup(self, line):
@@ -204,11 +242,7 @@ class Lineup(object):
     def _get_game(self):
         number, date, home_away, opponent, score, result, record, scorers, lineup = self.line.split('\t')
         
-        if opponent not in team_mapping:
-            #print opponent
-            return None
 
-        opponent_team = Team.objects.get(short_name=team_mapping[opponent])
         try:
             team_score, opponent_score = score.split("-")
         except:
@@ -242,24 +276,6 @@ class Lineup(object):
                                        away_score=away_score)
         return game
 
-
-    def get_person(self, name):
-        name = name.strip()
-        try:
-            p = Person.objects.get_person(name)
-            return p
-        except:
-            self.player_failures.add(name)
-
-        
-    def create_game_played(self, player, on=0, off=90):
-        gp = GameAppearance(game=self.game,
-                            team=self.team,
-                            player=player,
-                            on=on,
-                            off=off)
-        gp.save()
-        self.games_played.append(gp)
 
 
     def interpret_sub(self, sub):
@@ -371,8 +387,6 @@ class Lineup(object):
             last = n
             first = ''
             
-        if last in translation_map:
-            last = translation_map[last]
 
         players = self.get_players()
         matches = [e for e in players if last in e]

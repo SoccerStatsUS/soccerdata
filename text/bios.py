@@ -1,7 +1,9 @@
 import datetime
 
+# Scrape bios compiled by me.
+
 # Could probably improve this.
-BIOS_PATH = "/home/chris/www/soccerdata/data/bios.csv"
+BIOS_PATH = "/home/chris/www/soccerdata/data/people/bios.chris.csv"
 
 
 def load_bios():
@@ -25,7 +27,7 @@ def load_bios():
             if int(d['year']) < 100:
                 d['year'] = int(d['year']) + 1900
 
-            d['birthdate'] = datetime.date(int(d['year']), int(d['month']), int(d['day']))
+            d['birthdate'] = datetime.datetime(int(d['year']), int(d['month']), int(d['day']))
         else:
             d['birthdate'] = None
 
