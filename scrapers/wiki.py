@@ -1,10 +1,9 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-from BeautifulSoup import BeautifulSoup
+import datetime
 import json
 import re
-import urllib2
 
 from soccerdata.utils import get_contents, scrape_url
 
@@ -32,6 +31,12 @@ def scrape_new(query):
     revision = revisions[0]
     text = response['query']['pages'][revision]['revisions'][0]['*']
     lines = text.split('\n')
+
+    rm = re.search("#REDIRECT\s+\[\[(?P<link>.*?)\]\]", lines[0])
+    if rm:
+        return scrape_new(rm.groups()[0])
+
+
     return lines
 
 def get_infobox_lines(lines):
@@ -43,32 +48,114 @@ def get_infobox_lines(lines):
             end = i
     return lines[start:end]
 
+def process_key_value(line):
+    if not line.startswith("|"):
+        return None
 
-def process_line(line):
+    line = line[1:]
+
+    k = line.split("=", 1)[0].strip()
+    v = process_value(line.split("=", 1)[1])
+
+    return (k, v)
+
+def process_value(value):
     # seems like there are at least three kinds of lines.
     # 1. raw data.
     # 2. templates
     # 3. links (with alternate names sometimes)
     # 4. hybrid.
-    pass
+
+    value = value.strip()
+
+    # [[Santiago Bernab\xe9u Stadium|Estadio Santiago Bernab\xe9u]]
+    link_m = re.match("\[\[(?P<link>.*?)\|.*?\]\]$", value)
+    if link_m:
+        link_name = link_m.groups()[0]
+        processed = link_name.replace(" ", "_")
+        return {
+            'link': processed,
+            }
 
 
-def process_key_value_line(line):
-    if not line.startswith("|"):
-        return None
+    link_m2 = re.match("\[\[(?P<link>.*?)\]\]$", value)
+    if link_m2:
+        link_name = link_m2.groups()[0]
+        processed = link_name.replace(" ", "_")
+        return {
+            'link': processed,
+            }
 
-    k, v = [e.strip() for e in line.split("=", 1)]
-    return (k, v)
 
+
+
+    date_re = re.search("Start date and years ago\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value)
+    if date_re:
+        year, month, day = [int(e) for e in date_re.groups()]
+        return datetime.datetime(year, month, day)
+
+
+    date_re2 = re.search("{{birth date and age\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value)
+    if date_re2:
+        year, month, day = [int(e) for e in date_re2.groups()]
+        return datetime.datetime(year, month, day)
+
+    # Can't figure this one out.
+    height_re = re.match("{{height|m=(?P<m>\d+)\.\d+}}", value)
+    if height_re:        
+        return value
+        m, cm = [int(e) for e in height_re.groups()]
+        return cm + (100 * m)
+    
+                             
+
+
+
+    # ' Real Madrid Club de F\xfatbol<ref name="Real Madrid Club de F\xfatbol"/>
+    ref_m = re.search("(?P<text>.*?<.*?>)", value)
+    if ref_m:
+        return ref_m.groups()[0].strip()
+
+
+    return value.strip()
+        
+
+
+
+def get_categories(lines):
+    categories = []
+    for line in lines:
+        m = re.match("\[\[Category:\s*(?P<name>.*?)\]\]", line)
+        if m:
+            category = m.groups()[0].strip()
+            categories.append(category)
+    return categories
+
+
+
+        
+        
+        
+
+
+
+
+def scrape_list(url):
+    return []
 
 def scrape_team(url):
+    lines = scrape_new(url)
+    infobox_lines = get_infobox_lines(lines)
+    processed = [process_key_value(line) for line in infobox_lines]
+    d = dict([e for e in processed if e])
+    
     return {
-        'name': clubname,
-        'image': image,
-        'fullname': fullname,
-        'founded': founded,
-        'ground': ground,
-        'website': website,
+        'name': d['clubname'],
+        'image': d['image'],
+        'fullname': d['fullname'],
+        'founded': d['founded'],
+        'ground': d['ground'],
+        'website': d['website'],
         }
 
 def scrape_stadium(url):
@@ -88,16 +175,41 @@ def scrape_stadium(url):
         }
 
 
-def scrape_player(url):
-    return {
-        'fullname': fullname,
+def scrape_person(url):
+    lines = scrape_new(url)
+    infobox_lines = get_infobox_lines(lines)
+    processed = [process_key_value(line) for line in infobox_lines]
+    d = dict([e for e in processed if e])
+
+    if not d:
+        print url
+        return
+
+    if 'pronunciation' in d:
+        return
+
+
+    try:
+        name = d.get('playername') or d.get('name') or d['fullname']
+        birthdate = d.get('dateofbirth') or d['birth_date']
+        birthplace = d.get('cityofbirth') or d.get('birth_place') or d['countryofbirth']
+    except:
+        import pdb; pdb.set_trace()
+
+    try:
+        return {
         'name': name,
-        'image': image,
-        'birthdate': dateofbirth,
+        'full_name': d.get('fullname') or d['name'],
+        'image': d['image'],
+        'birthdate': birthdate,
         'birthplace': birthplace,
-        'height': height,
-        'position': position,
+        'height': d['height'],
+        'position': d['position'],
         }
+
+    except:
+        import pdb; pdb.set_trace()
+        x = 5
 
 
 def scrape_list(url):
@@ -133,25 +245,13 @@ def scrape_competition(url):
 def scrape_category_page(url):
     pass
         
-            
-
-
-def get_categories(lines):
-    categories = []
-    for line in lines:
-        m = re.match("\[\[Category:\s*(?P<name>.*?)\]\]", line)
-        if m:
-            category = m.groups()[0].strip()
-            categories.append(category)
-    return categories
-
 
 def sc():
     return get_categories(scrape_new("Jason_Kreis"))
         
 
     
-    
+# This ain't good.    
 
 
 world_cup_years = [
@@ -177,94 +277,8 @@ world_cup_years = [
     ]
 
 
-# Just some sample urls for testing wikipedia.
-player_urls = [
-    'Arsène_Wenger',
-    'Wayne_Rooney',
-    'Landon_Donovan',
-    ]
 
 
-def scrape_stadium(name):
-    wiki_name = name.replace(" ", "_")
-    url = "http://en.wikipedia.org/wiki/%s" % wiki_name
-    data = scrape_url(url)
-    soup = BeautifulSoup(data)
-    infobox = soup.find("table", "infobox vcard")
-
-    name = infobox.find("th", "fn org").contents[0]
-    nickname = infobox.find("span", "nickname").contens[0]
-
-    attrs = {}
-    for tr in infobox.findAll("tr"):
-        th = tr.find("th")
-        td = tr.find("td")
-        if th and td:
-            key = get_contents(th).lower()
-            value = get_contents(td)
-            attrs[key] = value
-
-        
-    return {
-        'name': name,
-        'nickname': nicknamem,
-        'location': attrs.get('Location'),
-        'opened': attrs.get('Opened'),
-        'capacity': attrs.get('Capacity'),
-        }
-        
-
-
-def scrape_team(name):
-    wiki_name = name.replace(" ", "_")
-    url = "http://en.wikipedia.org/wiki/%s" % wiki_name
-    data = scrape_url(url)
-    soup = BeautifulSoup(data)
-    infobox = soup.find("table", "infobox vcard")
-
-    attrs = {}
-    for tr in infobox.findAll("tr"):
-        th = tr.find("th")
-        td = tr.find("td")
-        if th and td:
-            key = get_contents(th).lower()
-            value = get_contents(td)
-
-            m = re.match(".*? (?P<year>\d{4}).*", value)            
-            if key == "founded":
-                if m:
-                    value = m.groups()[0]
-                else:
-                    value = ''
-
-            try:
-                attrs[key] = value
-            except:
-                import pdb; pdb.set_trace()
-
-
-    return {
-        'name': attrs["full name"],
-        'short_name': '',
-        'city': '',
-        'founded': attrs['founded'],
-        'defunct': "dissolved" in attrs,
-        }
-
-
-def scrape_player(name):
-    wiki_name = name.replace(" ", "_")
-    url = "http://en.wikipedia.org/wiki/%s" % wiki_name
-    data = scrape_url(url)
-    soup = BeautifulSoup(data)
-    infobox = soup.find("table", "infobox vcard")
-
-    if not infobox:
-        return {}
-
-    import pdb; pdb.set_trace()
-
-    return {}
 
 
 def scrape_player_tables(url):
