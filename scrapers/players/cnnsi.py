@@ -9,8 +9,94 @@ import sys
 import urllib2
 
 # Try to kill this guy.
-from soccerdata.scrapers.players.abstract import AbstractPlayerScraper
-from soccerdata.utils import scrape_url, get_contents
+from soccerdata.utils import scrape_url, scrape_soup, get_contents
+
+
+import pymongo
+
+connection = pymongo.Connection()
+
+# Need a better name.
+numbers_db = connection.numbers_db
+
+
+# Search space seems to be sparse so it's probably better to crawl pages looking for links.
+
+
+def never_stop():
+    import time
+    import random
+    print scrape_player_id(93, "mls")
+    while True:
+        process_player()
+        sleep_time = 60
+        print "sleeping for %s seconds" % sleep_time
+        time.sleep(sleep_time)
+
+def process_player():
+    """
+    Logic to slowly scrape a site.
+    """
+    import time
+    import random
+    for e in range(5):
+        numbers = set(range(1, 200))
+        coll = numbers_db.cnnsi_player
+        scraped_numbers = set([e['number'] for e in coll.find()])
+        unscraped = numbers - scraped_numbers
+        next = random.choice(list(unscraped))
+        print 'scraping %s' % next
+        print scrape_player_id(next, 'mls')
+        time.sleep(1)
+    
+    
+def scrape_player_id(player_id, league):
+    return scrape_player('http://sports.sportsillustrated.cnn.com/%s/players.asp?player=%s' % (league, player_id))
+
+def scrape_player(url):
+    soup = scrape_soup(url)
+
+    bio_masts = soup.findAll("table", {"class": 'shsSportMastHead'})
+    if bio_masts:
+        bio_mast = bio_masts[0]
+    else:
+        return {}
+
+    clean_cell = lambda t: unicode(t.replace("&nbsp;", '').replace(":", '').strip())
+    
+    bio_items = [clean_cell(e) for e in bio_mast.findAll("td", text=True)]
+
+    name = get_contents(bio_mast.find("strong", 'shsPlayerName'))
+    if name.endswith("-"):
+        name = name[:-1]
+    name = clean_cell(name)
+
+    if name == '{PLAYERNAME}':
+        return {}
+
+    d = dict(zip(bio_items, bio_items[1:]))
+
+    birthdate = d.get('Birth Date') or d.get('Birthdate') or ''
+    if birthdate:
+        birthdate = datetime.datetime.strptime(birthdate, '%d/%m/%Y')        
+    
+
+    return {
+        'url': url,
+        'name': name,
+        'team': d['Team'],
+        'height': d['Height'],
+        'birthdate': birthdate,
+        'position': d['Position'],
+        'weight': d['Weight'],
+        'birthplace': d['Birthplace'],
+        }
+
+    
+    
+    
+
+
 
 
 
@@ -175,112 +261,13 @@ def get_events(url):
     return CNNSIEventScraper().get_events(url)
 
 
-class CNNSIPlayerScraper(AbstractPlayerScraper):
-
-    # Dump players into a mongo database.
-    # Tag with their source url.
-
-    PLAYER_URL = 'http://sports.sportsillustrated.cnn.com/mls/players.asp?player=%s'
-
-    # Actually scrape_player_page?
-    def scrape_player(self, soup):
-        """
-        Returns a dict with a player's name, birthdate, birthplace, and height.
-        """
-
-        # If a bio mast doesn't exist, return an empty dict.
-        bio_masts = soup.findAll("table", {"class": 'shsSportMastHead'})
-        if bio_masts:
-            bio_mast = bio_masts[0]
-        else:
-            return {}
-
-        # Coerce to unicode so it doesn't use a ton of memory.
-        # also clean up the text a bit.
-        # Why removing the colon?
-        clean_cell = lambda t: unicode(t.replace("&nbsp;", '').replace(":", '').strip())
-
-        # NB text = True is a very useful.
-        bio_items = [clean_cell(e) for e in bio_mast.findAll("td", text=True)]
-
-        # Layer the list of td's into a dict.
-        d = dict(zip(cleaned_tds[:-1], cleaned_tds[1:]))
-
-        birthdate = birthplace = height = None
-
-        
-        # No need to do all this processing here.
-        name = unicode(bio_mast.findAll("strong", {"class": 'shsPlayerName'})[0].contents[0])
-        if name.endswith("-"):
-            name = name[:-1]
-            name = clean_cell(name)
-            
-        if d['Birthdate']:
-            bd = d['Birthdate']
-            birthdate = datetime.datetime.strptime(bd, '%d/%m/%Y')
-
-
-        if d['Birthplace']:
-            birthplace = d['Birthplace']
-
-        if d['Height']:
-            h = d['Height']
-            if h.endswith("."): 
-                h = h[:-1]
-            if h.endswith("m"): 
-                h = h[:-1]
-            height = int(100 * Decimal(h))
-
-        return {
-            'name': name,
-            'birthdate': birthdate,
-            'birthplace': birthplace,
-            'height': height,
-            }
-
-    def scrape_stats(self, id):
-        # FIXME: This is BROKEN
-
-        # Getting too many stats 
-        # Should maybe use a list of keys like nbcsports.
-
-        soup = self.open_bio(id)
-
-        # should be .find?
-        tr = soup.findAll("tr", {"class": "shsTableTtlRow"})
-        if not tr:
-            return []
-
-        header = self.strip_list(tr[0].findAll("td", text=True))
-
-        stats = []
-        # These are the classes that contain stat data?
-        for tr_class in ['shsRow0Row', 'shsRow1Row']:
-            trs = soup.findAll("tr", {"class": tr_class})
-            for tr in trs:
-                # Whoops this operation isn't working at all!
-                numbers = filter_empty(tr.findAll("td", text=True))
-
-                stat = zip(header, numbers)
-                stats.append(stat)
-
-        import pdb; pdb.set_trace()
-        return stats
-                
+    
             
 
             
+
+    
+
+
 if __name__ == "__main__":
-    s = CNNSIPlayerScraper()
-    if len(sys.argv) > 1:
-        s.search_profiles(int(sys.argv[1]))
-    else:
-        s.search_profiles()
-        
-                             
-        
-    
-
-    
-
-
+    never_stop()

@@ -1,4 +1,6 @@
-#!/usr/bin/env python
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
 
 from BeautifulSoup import BeautifulSoup, HTMLParseError
 import cPickle
@@ -8,7 +10,7 @@ import os
 import time
 import urllib2
 
-from soccer.utils import get_contents
+from soccerdata.utils import get_contents
 
 # This logging could definitely be improved...
 LOG_DIR = "/home/chris/www/soccer/logs"
