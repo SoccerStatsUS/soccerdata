@@ -11,6 +11,16 @@ class UnplayedException(Exception):
     pass
 
 
+def scrape_all_games():
+    l = []
+
+    date = datetime.datetime(2008, 1, 1)
+    # Will run including today.
+    while date < datetime.datetime.now():
+        l.extend(scrape_statto(date))
+        date += datetime.timedelta(days=1)
+    return l
+
 
 def raw_table(url):
     """

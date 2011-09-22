@@ -1,28 +1,48 @@
 import datetime
-import urllib2
 from BeautifulSoup import BeautifulSoup
 
-from soccerdata.utils import scrape_url
+from soccerdata.utils import scrape_url, get_contents
 
 
-create_url = lambda t,y: "http://www.mlssoccer.com/stats/club/%s/overall/%s/reg" % (t, y)
 
-def scrape_scores(year):
+def to_int(s):
+    s = s.replace(",", '')
+    if s:
+        return int(s)
+    else:
+        return 0
+
+
+def scrape_all_games():
+    l = []
+    years = range(1996, 2011)
+    for year in years:
+        l.extend(mls.scrape_games(year))
+    return l
+
+def scrape_games(year):
     if year >= datetime.date.today().year:
         static = False
     else:
         static = True
 
-
     url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=all' % year
     text = scrape_url(url, static)
     soup = BeautifulSoup(text)
-    l = scrape_scores_first_pass(soup)
+    l = scrape_games_first_pass(soup)
     return MLSScoresProcessor().process_rows(l)
 
-def scrape_scores_first_pass(soup):
+def scrape_games_first_pass(soup):
+    """
+    Generates date and game objects,
+    in the order that they are listed.
+    """
+    
 
     def process_row(row):
+        """
+        Return either an empty object, a date, or a game.
+        """
         # This is a header row.
         if row.findAll("th"):
             return {}
@@ -65,15 +85,15 @@ def scrape_scores_first_pass(soup):
                 }
 
 
-    # Need to scrape using the scraper object.
     schedule_div = soup.find("div", 'schedule-page')
     rows = schedule_div.findAll(["h3", "tr"])
     
+    # Rows with blanks
     raw_rows = [process_row(row) for row in rows]
-    raw_rows = [e for e in raw_rows if e]
-    return raw_rows
+    return [e for e in raw_rows if e]
 
 
+# Create a helper function for this.
 class MLSScoresProcessor(object):
 
     def __init__(self):
@@ -85,7 +105,6 @@ class MLSScoresProcessor(object):
         Returns None.
         Consumes a dictionary and changes internal state based on it.
         """
-        
         
         if d['type'] == 'date':
             self.current_date = unicode(d['date'])
@@ -105,24 +124,8 @@ class MLSScoresProcessor(object):
         return self.games
 
 
-
-        
-        
-                
-            
-
     
-    
-    
-
-
-def to_int(s):
-    s = s.replace(",", '')
-    if s:
-        return int(s)
-    else:
-        return 0
-
+# Should move this into an alias object.
 # Good enough names.
 team_names = {
     "dal": "FC Dallas",
@@ -179,52 +182,58 @@ def team_stats(team):
         stats = scrape_stats(team, year)
         for stat in stats:
             print stat
-            create_stat(stat)
+            parse_stat(stat)
 
-def year_stats(year):
-    for team in team_names.keys():
-        stats = scrape_stats(team, year)
-        for stat in stats:
-            create_stat(stat)
 
-# Not sure this is at all necessary.
-def create_stat(d):
+
+def parse_stat(d):
+    # Return player stat dict.
+    
     nd = {}
     for key, value in d.items():
+
         if key not in ("POS", "Player", "team", "year"):
             nvalue = to_int(value)
-        elif key == "team":
-            nvalue = Team.objects.get_team(team_names[value])
         else:
             nvalue = value
             
         nkey = stat_mapping.get(key, key)
         nd[nkey] = nvalue
 
+    # Goalkeeper statistics; not sure this is necessary.
     for key in ("shutouts", "goals_allowed", "shots_faced", 
                 "saves", "penalties_allowed", "penalties_faced"):
         nd[key] = 0
+
     return nd
         
 
 
 def scrape_stats(team, year):
-    url = create_url(team, year)
-
-    text = urllib2.urlopen(url).read()
-    text = text.replace("&#039;", "'")
+    """
+    Scrape stats for a team for a given year.
+    """
+    url = "http://www.mlssoccer.com/stats/club/%s/overall/%s/reg" % (team, year)
+    
+    # This may be an encoding problem.
+    text = scrape_url(url).replace("&#039;", "'")
     soup = BeautifulSoup(text)
-    table = soup.findAll("table", {"class": "stats statsleaders sortable-c4-desc players"})
+
+    table = soup.findAll("table", "stats statsleaders sortable-c4-desc players")
     if not table:
         return []
+
+
     field_stats = table[0]
     
-    # At least one page doesn't have goalkeeper stats.  Whoops, mlssoccer.com
+    # At least one page doesn't have goalkeeper stats.  
+    # Whoops, mlssoccer.com
     try:
         gk_stats = table[1]
     except IndexError:
         gk_stats = []
     
+    # ?
     header = field_stats.findAll("thead")[0] # the second entry is team totals
     individual_stats = field_stats.findAll("tbody")[0]
     
@@ -232,31 +241,46 @@ def scrape_stats(team, year):
 
     keys = [e.contents[0] for e in header.findChildren("th")]
 
-    for row in individual_stats:
+    def process_row(row):
         if hasattr(row, 'findChildren'):
+
             # Work around for terrible mlssocer.com data integrity.
-            get_contents = lambda d: d.contents[0] if len(d) else ''
             try:
                 stats = [get_contents(e) for e in row.findChildren("td")]
             except:
+                # Remove this when possible.
                 import pdb; pdb.set_trace()
+
+
             d = dict(zip(keys, stats))
             
+            # This comment does not help.
             # A few players don't have urls for some reason.
             player_name = d['Player']
+
+            # Huh? Seems wrong.
             if hasattr(player_name, 'contents'):
                 d['Player'] = player_name.contents[0]
 
             for key, value in d.items():
                 # Get rid of BeautifulSoup cruft
+                # Didn't I create the keys?
+                # I think I can just do this when the value is created.
                 key = str(key)
                 value = str(value)
                 d[key] = value
-            d['team'] = team
-            d['year'] = year
-            l.append(d)
-    
-    return l
+
+            d.update({
+                    'team': team,
+                    'year': year
+                    })
+            return d
+        else:
+            return {}
+
+
+    stats = [process_row(row) for row in individual_stats]
+    return [e for e in stats if e]
         
     
 

@@ -6,53 +6,78 @@ from soccerdata.utils import scrape_url, get_contents
 from BeautifulSoup import BeautifulSoup
 
 
-    
-
 winter_leagues = [
-    ('primera', 1928),
-    ('premier_league_en', 2001),
-    ('serie_a', 1970),
-    ('bundesliga', 2001),
-    ('ligue_1', 2001),
-    ('eredivisie', 2001),
-    ('portuguese_liga', 2008),
+    ('primera', 1928, 'La Liga'),
+    ('premier_league_en', 2001, 'Premier League'),
+    ('serie_a', 1970, 'Serie A'),
+    ('bundesliga', 2001, 'Bundesliga'),
+    ('ligue_1', 2001, 'Ligue 1'),
+    ('eredivisie', 2001, 'Eredivisie'),
+    ('portuguese_liga', 2008, 'Portuguese Liga'),
     ]
 
 summer_leagues = [
-    ('premier_league_ru', 2009),
+    ('premier_league_ru', 2009, 'Russian Premier League'),
     ]
 
 
-winter_league_url = lambda name, year: 'http://www.fbleague.com/en/league/%s/%s_%s/' % (name, year, year + 1)
-summer_league_url = lambda name, year: 'http://www.fbleague.com/en/league/%s/%s/' % (name, year)
+winter_league_url = lambda name, year: 'http://www.fbleague.com/en/calendar/%s/%s_%s/' % (name, year, year + 1)
+summer_league_url = lambda name, year: 'http://www.fbleague.com/en/calendar/%s/%s/' % (name, year)
+
+
+# Unused.
+def get_name(s):
+    for slug, year, name in winter_leagues:
+        if slug == s:
+            return name
+
+    for slug, year, name in summer_leagues:
+        if slug == s:
+            return name
+
+    raise
+        
 
 
 def scrape_all_seasons():
-    import time
+    """
+    Scrape all fbleague.com seasons.
+    """
     l = []
-    for url in all_season_urls():
-        l.extend(scrape_season(url))
-        time.sleep(15)
+    for url, season, competition in all_season_urls():
+        season = scrape_season(url, competition, season)
+        l.extend(season)
     return l
 
 
 def all_season_urls():
+    """
+    Get all seasons urls for fbleague.
+    """
     urls = []
 
-    for league, year in winter_leagues:
+    for slug, year, competition in winter_leagues:
         while year < datetime.date.today().year:
-            urls.append(winter_league_url(league, year))
+            season = "%s-%s" % (year, year + 1)
+            t = (winter_league_url(slug, year), season, competition)
+            urls.append(t)
             year += 1
 
-    for league, year in summer_leagues:
+    for slug, year, competition in summer_leagues:
         while year < datetime.date.today().year:
-            urls.append(summer_league_url(league, year))
+            season = str(year)
+            t = (summer_league_url(slug, year), season, competition)
+            urls.append(t)
             year += 1        
             
     return urls
 
 
-def scrape_season(url):
+def scrape_season(url, competition, season):
+    """
+    Scrape a single season.
+    """
+
     html = scrape_url(url)
     soup = BeautifulSoup(html)
 
@@ -69,11 +94,13 @@ def scrape_season(url):
             dt = lambda s: datetime.datetime.strptime (s, "%d %b %Y")    
             l.append({
                     'date': dt(date),
-                    'home': home.strip(),
-                    'away': away.strip(),
+                    'home_team': home.strip(),
+                    'away_team': away.strip(),
                     'home_score': int(home_score),
                     'away_score': int(away_score),
-                    
+                    'competition': competition,
+                    'season': season,
+                    'url': url,
                     })
         return l
                 

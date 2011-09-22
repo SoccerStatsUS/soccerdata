@@ -2,10 +2,13 @@
 # Projects.
 
 
-1a. Create a script that will build all data.
-1. News as data. Collect all the soccer news feeds. Use them to pull out interesting data.
-2. Twitter stream. Um, get tweets about soccer I suppose. Preferably valuable tweets. Is there a service for this?
-3. Add data consistency checking.
+1. Create a script that will build all data.
+2. Strengthen wiki scraper and canvass team, player data.
+3. News as data. Collect all the soccer news feeds. Use them to pull out interesting data.
+4. Twitter stream. Um, get tweets about soccer I suppose. Preferably valuable tweets. Is there a service for this?
+5. Add data consistency checking.
+6. Create javascript to scrape statto page when I visit it!! Create javascript to randomly load pages! Create ajax function to tell which page to fetch!
+7. Figure out how to handle new scores and updates to the database.
 
 
 

@@ -1,12 +1,158 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
 from BeautifulSoup import BeautifulSoup
+import json
 import re
 import urllib2
 
 from soccerdata.utils import get_contents, scrape_url
 
+# This, like RSSSF, is sort of on the border between text scrapers and html scrapers
+# Since they don't need anything from the scrapers field, however (since scrape_url is in
+# utils), they should probably be in text.
+# Should probably also change the name of scrape_url
+
 # FIXME
 # Need tests IN PARTICULAR for wiki to verify that it's 
 # scraping different formats correctly.
+
+# This is probably a better url pattern to use!
+# This does not display any navigation, just the article text.
+# http://en.wikipedia.org/w/index.php?action=render&title=Helsinki
+
+
+#OH SHIT NEW WIKI SCRAPING ON THE WAY.
+
+def scrape_new(query):
+    url = 'http://en.wikipedia.org/w/api.php?format=json&action=query&titles=%s&rvprop=content&prop=revisions' % query
+    response = json.loads(scrape_url(url))
+    revisions = response['query']['pages'].keys()
+    assert len(revisions) == 1
+    revision = revisions[0]
+    text = response['query']['pages'][revision]['revisions'][0]['*']
+    lines = text.split('\n')
+    return lines
+
+def get_infobox_lines(lines):
+    start = end = None
+    for i, line in enumerate(lines):
+        if not start and re.match("\s*{{\s*[Ii]nfobox", line) :
+            start = i
+        if not end and re.match("\s*}}", line):
+            end = i
+    return lines[start:end]
+
+
+def process_line(line):
+    # seems like there are at least three kinds of lines.
+    # 1. raw data.
+    # 2. templates
+    # 3. links (with alternate names sometimes)
+    # 4. hybrid.
+    pass
+
+
+def process_key_value_line(line):
+    if not line.startswith("|"):
+        return None
+
+    k, v = [e.strip() for e in line.split("=", 1)]
+    return (k, v)
+
+
+def scrape_team(url):
+    return {
+        'name': clubname,
+        'image': image,
+        'fullname': fullname,
+        'founded': founded,
+        'ground': ground,
+        'website': website,
+        }
+
+def scrape_stadium(url):
+    return {
+        'fullname': stadium_name,
+        'name': name,
+        'image': image,
+        'location': location,
+        'coordinates': coordinates,
+        'opened': opened,
+        'closed': closed,
+        'dimensions': dimensions,
+        'architect': architect,
+        'cost': cost,
+        'tenants': tenants,
+        'capacity': capacity,
+        }
+
+
+def scrape_player(url):
+    return {
+        'fullname': fullname,
+        'name': name,
+        'image': image,
+        'birthdate': dateofbirth,
+        'birthplace': birthplace,
+        'height': height,
+        'position': position,
+        }
+
+
+def scrape_list(url):
+    lines = [e for e in lines if line != '|-']
+    header = '!Rank!!Stadium!!Capacity!!City!!Country!!Home Team(s)'
+    header = header.split('!!')
+    l = []
+    for line in lines:
+        line = line.replace("|=", "")
+        attrs = line.split("||")
+        d = dict(zip(header, attrs))
+        l.append(d)
+    return l
+
+
+def scrape_competition(url):
+    x = {
+        'logo': logo,
+        'founded': founded,
+        'region': region,
+        }
+    return {
+        'title': title,
+        'year': year,
+        'num_teams': num_teams,
+        'champions': champions,
+        'runner-up': runner_up,
+        }
+
+
+
+
+def scrape_category_page(url):
+    pass
+        
+            
+
+
+def get_categories(lines):
+    categories = []
+    for line in lines:
+        m = re.match("\[\[Category:\s*(?P<name>.*?)\]\]", line)
+        if m:
+            category = m.groups()[0].strip()
+            categories.append(category)
+    return categories
+
+
+def sc():
+    return get_categories(scrape_new("Jason_Kreis"))
+        
+
+    
+    
+
 
 world_cup_years = [
     1930,
