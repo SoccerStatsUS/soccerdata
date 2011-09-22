@@ -1,11 +1,15 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
 #http://en.wikipedia.org/wiki/Asian_Footballer_of_the_Year
 
 footballer = [
     (1988, ('Ahmed Radhi', 26)),
     (1989, ('Kim Joo-Sung', 38)),
     (1990, ('Kim Joo-Sung', 36), ('Farshad Pious', 28), ('Adnan Al-Talyani', 16)),
-    (1991, ('Kim Joo-Sung', 31),('Chung Yong-Hwan', 28),('Samad Marfavi', 16))
-    (1992, (,)),
+    (1991, ('Kim Joo-Sung', 31),('Chung Yong-Hwan', 28),('Samad Marfavi', 16)),
+    (1992, []),
     (1993, ('Kazuyoshi Miura', 30), ('Fahad Al-Bishi', 17), ('Mehdi Fonounizadeh', 13)),
     (1994, 'Saeed Owairan'),
     (1995, 'Masami Ihara'),

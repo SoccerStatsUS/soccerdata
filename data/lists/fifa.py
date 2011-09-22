@@ -1,7 +1,11 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
 # World players of the year.
 # This is merged with the FIFA Ballon D'Or.
 
-l = [
+world_player_of_the_year = [
     (1991, ('Lothar Matthäus', 'Jean-Pierre Papin', 'Gary Lineker')),
     (1992, ('Marco van Basten', 'Hristo Stoichkov', 'Thomas Häßler')),
     (1993, ('Roberto Baggio', 'Romário', 'Dennis Bergkamp')),
@@ -9,7 +13,7 @@ l = [
     (1995, ('George Weah', 'Paolo Maldini', 'Jürgen Klinsmann')),
     (1996, ('Ronaldo', 'George Weah', 'Alan Shearer')),
     (1997, ('Ronaldo', 'Roberto Carlos', 'Dennis Bergkamp', 'Zinedine Zidane')),
-    (1998, ('Zinedine Zidane', 'Ronaldo', 'Davor Šuker'),) 
+    (1998, ('Zinedine Zidane', 'Ronaldo', 'Davor Šuker'),) ,
     (1999, ('Rivaldo', 'David Beckham', 'Gabriel Batistuta')),
     (2000, ('Zinedine Zidane', 'Luís Figo', 'Rivaldo')),
     (2001, ('Luís Figo', 'David Beckham', 'Raúl')),
@@ -28,7 +32,7 @@ l = [
 # Pele on FIFA's 100 year anniversary.
 # cf. http://en.wikipedia.org/wiki/FIFA_100
 
-l = [
+fifa_100 = [
     'Gabriel Batistuta',
     'Hernán Crespo',
     'Alfredo di Stéfano',
@@ -81,7 +85,7 @@ l = [
     'Just Fontaine',
     'Thierry Henry',
     'Raymond Kopa',
-    'Jean-Pierre',
+    'Jean-Pierre Papin',
     'Robert Pirès',
     'Michel Platini',
     'Lilian Thuram',
@@ -159,7 +163,7 @@ l = [
 # This is a list of the 11 all-time best World Cup 
 # players, chosen in 1994.
 
-l = [
+all_time_world_cup = [
     'Lev Yashin',
     'Djalma Santos',
     'Franz Beckenbauer',
