@@ -4,11 +4,18 @@ import random
 import requests
 import urllib2
 
+from BeautifulSoup import BeautifulSoup
+
+
+# These are meant to be site-wide utilities
+
 connection = pymongo.Connection()
 db = connection.scraper
 collection = db.pages
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
+
+
 
 # merge this.
 def get_contents(l):
@@ -60,21 +67,8 @@ def scrape_url(url, static=True, encoding=None):
         data = result['data']
     return data
 
-
-
-# Could do something like find_encoding here.
-# This is clearly the wrong place to be doing this.
-# Need to run these tests when creating the data.
-# Stopped using it because it's bad, but want to keep code arond.
-def insert_row_bad(collection, row):
-    try:
-        bson.BSON.encode(row)
-    except bson.errors.InvalidStringData:
-
-        row['data'] = data
-    collection.insert(row)
-
-
+def scrape_soup(url):
+    return BeautifulSoup(scrape_url(url))
 
 
 
