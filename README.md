@@ -51,6 +51,10 @@ Copa Sudamericana
 Asian Champions League
 CAF Champions league
 
+# Defunct, but seems pretty easy to get data for.
+# I think I've already got scores.
+British Home Championship
+
 
 
 # Checking data

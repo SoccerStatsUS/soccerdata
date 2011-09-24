@@ -1,7 +1,6 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-
 from soccerdata.utils import scrape_soup, get_contents
 
 # A very impressive site with records of all european national team games ever.
@@ -15,7 +14,7 @@ def scrape_all_games():
     import time
     for year in range(1872, 2010):
         scrape_year(year)
-        time.sleep(60)
+        time.sleep(15)
 
 
 def scrape_year(year, page=1):
@@ -58,6 +57,8 @@ def scrape_games(url):
             _, date, city, _, _, home_team, hyphen, away_team, _, _, score, competition, _ = fields
         else:
             import pdb; pdb.set_trace()
+
+        # Need to parse date!
 
 
         home_score, away_score = [int(e) for e in score.split(":")]

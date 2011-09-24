@@ -1,5 +1,7 @@
 from soccerdata import mongo
 
+import datetime
+
 def check():
     # Verify
     check_goals()
@@ -29,6 +31,11 @@ def check_games():
             except:
                 print game
                 continue
+            assert(type(game['date']) == datetime.date)
+            assert(type(away_score) == int)
+            assert(type(home_score) == int)
+
+            
 
 
 def check_lineups():

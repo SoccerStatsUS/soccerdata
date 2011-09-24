@@ -58,7 +58,7 @@ def load_games():
     generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
 
     # All-time European national team games.
-    generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)
+    #generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)
 
     # Europe
     # generic_load(soccer_db.cnnsi_games, cnnsi.scrape_all_games)

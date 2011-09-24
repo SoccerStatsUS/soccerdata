@@ -60,6 +60,14 @@ def scrape_url(url, static=True, encoding=None):
         opener = urllib2.build_opener()
         opener.addheaders = [('User-agent', USER_AGENT)]
         data = opener.open(url).read()
+
+
+        # Oh shit! There was some bad unicode data in eu-football.info
+        # Couldn't find an encoding so I'm just killing it.
+        # Looked to be involved with goolge analytics.
+        data = data.replace("\xf1\xee\xe7\xe4\xe0\xed\xee", "")
+
+
         unicode_data = data.decode(encoding)
         pages_collection.insert({"url": url, "data": unicode_data})
     else:
@@ -67,8 +75,10 @@ def scrape_url(url, static=True, encoding=None):
         data = result['data']
     return data
 
-def scrape_soup(url):
-    return BeautifulSoup(scrape_url(url))
+# Bad idea.
+def scrape_soup(*args, **kwargs):
+    html = scrape_url(*args, **kwargs)
+    return BeautifulSoup(html)
 
 
 

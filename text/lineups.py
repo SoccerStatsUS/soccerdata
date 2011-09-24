@@ -49,6 +49,7 @@ def get_scores(fn):
     Get scores from scaryice's lineups table for a given file.
     """
 
+    # OH NO! Fucking make the scores work correctly.
 
     def process_line(line):
         if not line.strip():
@@ -58,6 +59,8 @@ def get_scores(fn):
         match_type, date_string, location, opponent, score, result, _, goals, lineups = items
 
         date = get_date(date_string)
+
+        home_score, away_score = [int(e) for e in score.split('-')]
 
 
             
@@ -80,9 +83,10 @@ def get_scores(fn):
             'competition': get_competition(match_type),
             'date': date,
             'year': date.year,
-            'score': score,
             'home_team': home_team,
             'away_team': away_team,
+            'home_score': home_score,
+            'away_score': away_score,
             'location': location,
             }
 
