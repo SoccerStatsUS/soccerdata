@@ -1,8 +1,17 @@
-from mongo import generic_load, soccer_db
+from soccerdata.mongo import generic_load, soccer_db
+from soccerdata.text import bios, lineups,  salaries, drafts
+from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
+
 
 
 def load():
-    # load
+    # Cities
+    # Countries
+    # Confederations
+    # Leagues
+    # Competitions
+    # Stadiums
+
     load_people()
     load_games()
     load_goals()
@@ -23,14 +32,12 @@ def load_people():
     # wikipedia bios
     # cnnsi bios.
     # soccernet bios
-    from text import bios
+
     generic_load(soccer_db.chris_bios, bios.load_bios)
 
 
 
 def load_games():
-    from text import lineups, mls
-    from scrapers import fbleague, fifa, nasl, rsssf
 
     # These are working.
     # General
@@ -40,7 +47,7 @@ def load_games():
     #generic_load(soccer_db.world_cup_games, fifa.scrape_all_world_cup_games)
 
     # MLS soccer game results to 1996
-    generic_load(soccer_db.mlsoccer_games, mls.scrape_all_games)
+    generic_load(soccer_db.mlssoccer_games, mls.scrape_all_games)
     # MLS scores from 1996 to 2010
     generic_load(soccer_db.scaryice_games, lineups.load_all_scores)
     # NASL scores for 2011
@@ -57,15 +64,13 @@ def load_games():
 # Goals
 
 def load_goals():
-    from scrapers import fifa
-    from text import lineups
 
     # Working:
     #generic_load(soccer_db.world_cup_goals, fifa.scrape_all_world_cup_goals)
 
     #Todo:
     # generic_load(soccer_db.scaryice_goals, fifa.lineups.load_all_goals)
-
+    pass
 
 
 
@@ -76,14 +81,14 @@ def load_lineups():
 
 def load_salaries():
     print "Loading mls salaries."
-    from text import salaries
+
     generic_load(soccer_db.mls_salaries, salaries.load_salaries)
 
 
 
 def load_drafts():
     print "Loading mls drafts."
-    from text import drafts
+
     generic_load(soccer_db.mls_drafts, drafts.load_drafts)
 
 

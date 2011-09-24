@@ -1,3 +1,5 @@
+from soccerdata.mongo import soccer_db
+
 from standings import get_standing
 
 
@@ -14,7 +16,7 @@ def generate_standings():
     standings = generate_fbleague_standings()
 
 def generate_fbleague_standings():
-    coll = mongo.soccer_db.fbleague_scores
+    coll = soccer_db.fbleague_scores
     seasons = set()
     for doc in coll.find():
         # Don't use a dict. unahshable

@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+{# Games #}
+<table>
+<h3>Games</h3>
+<tr>
+<th>
+  Team
+</th>
+{% for year in years %}
+<th>
+  {{ year }}
+</th>
+{% endfor %}
+</tr>
+
+
+{% for league, league_years in game_years %}
+<tr>
+  <td>
+    {{ league }}
+  </td>
+
+{% for year in years %}
+
+{% if year in league_years %}
+<td class="green">x</td>
+{% else %}
+<td class="red"></td>
+{% endif %}
+
+{% endfor %}
+
+</tr>
+{% endfor %}
+
+</table>
+
+
+{# Goals #}
+<table>
+<h3>Goals</h3>
+<tr>
+<th>
+  Team
+</th>
+{% for year in years %}
+<th>
+  {{ year }}
+</th>
+{% endfor %}
+</tr>
+
+{# Games #}
+{% for league, league_years in goal_years %}
+<tr>
+  <td>
+    {{ league }}
+  </td>
+
+{% for year in years %}
+
+{% if year in league_years %}
+<td class="green"></td>
+{% else %}
+<td class="red"></td>
+{% endif %}
+
+{% endfor %}
+
+</tr>
+{% endfor %}
+
+</table>
+  
+
+{% endblock %}

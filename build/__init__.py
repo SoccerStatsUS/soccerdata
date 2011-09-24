@@ -1,5 +1,4 @@
 import build
-import check
-import generate
-import load
-import standings
+
+if __name__ == "__main__":
+    build.build()

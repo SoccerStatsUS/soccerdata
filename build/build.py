@@ -25,35 +25,32 @@ salaries:
  - mls salaries
 """
 
-import mongo
+from soccerdata import mongo
 
 from load import load
 from generate import generate
 from check import check
+from merge import merge
 
 
 def build():
     """
     Rebuild all site data.
     """
-    # Cities
-    # Countries
-    # Confederations
-    # Leagues
-    # Competitions
-    # Stadiums
-
     reset_database()
     load()
     generate()
     check()
+    merge()
 
 
 def reset_database():
     """
-    Clean up the database.
+    Drop the old database.
     """
-    pass
+    print "Dropping database."
+    mongo.connection.drop_database(mongo.soccer_db)
+
 
 
 

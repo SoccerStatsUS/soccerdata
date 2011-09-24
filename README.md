@@ -12,6 +12,47 @@
 
 
 
+# Competition priority.
+
+World Cup
+MLS
+Mexico
+England
+Spain
+Italy
+Germany
+Australia
+Ligue 1
+Champions League
+CONCACAF Champions League
+Copa Libertadores
+US Minor leagues
+Netherlands
+Portugal
+Russia
+
+Turkey
+Argentina
+Brazil
+J-League
+K-League
+C-League
+Europa League
+Denmark
+Sweden
+Norway
+Belgium
+Greece
+FA Cup
+Copa del Rey
+US Open Cup
+UEFA Cup
+Copa Sudamericana
+Asian Champions League
+CAF Champions league
+
+
+
 # Checking data
 
 What's are ways to check conflicting data?
