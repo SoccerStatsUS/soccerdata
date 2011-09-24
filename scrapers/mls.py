@@ -17,7 +17,7 @@ def scrape_all_games():
     l = []
     years = range(1996, 2011)
     for year in years:
-        l.extend(mls.scrape_games(year))
+        l.extend(scrape_games(year))
     return l
 
 def scrape_games(year):

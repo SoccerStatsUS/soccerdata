@@ -31,10 +31,18 @@ file_mapping = {
     "TOR": u'Toronto FC',
  }    
 
+get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
+
 
 
 LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/"
 
+def get_competition(name):
+    try:
+        int(name)
+        return 'MLS'
+    except ValueError:
+        return 'other'
 
 def get_scores(fn):
     """
@@ -47,7 +55,12 @@ def get_scores(fn):
             return {}
 
         items = line.strip().split("\t")
-        match, date, location, opponent, score, result, _, goals, lineups = items
+        match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+
+        date = get_date(date_string)
+
+
+            
 
         if location == 'H':
             home_team = team_name
@@ -64,8 +77,9 @@ def get_scores(fn):
 
         
         return {
-            'match': match,
+            'competition': get_competition(match_type),
             'date': date,
+            'year': date.year,
             'score': score,
             'home_team': home_team,
             'away_team': away_team,
@@ -79,7 +93,7 @@ def get_scores(fn):
     scores = [e for e in scores if e]
     return scores
 
-def load_all_scores():
+def load_all_games():
     l = []
     for key in file_mapping.keys():
         fn = "%s.csv" % key
@@ -87,30 +101,75 @@ def load_all_scores():
     return l
 
 
-def get_goals(fn):
+def get_goals(filename):
+    
+
     def process_line(line):
         if not line.strip():
             return {}
 
         items = line.strip().split("\t")
-        match, date, location, opponent, score, result, _, goals, lineups = items
+        match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+        
+        date = get_date(date_string)
 
         def process_goal(e):
+            e = e.strip()
+
+            if not e:
+                return {}
             # looks like this
             # Kosecki (Razov) 76; Kotschau (unassisted) 87'
+
+            match = re.search("(?P<name>.*?)\s+(\d+\s+)?\(.*?\)\s+(?P<minute>\d+)", e)
+
+            # Handle "Preki (3)" et al.
+            # Currently handling "Preki (47+ pen) here, by lopping off \) from re.
+            # should separate.
+            if not match:
+                match = re.search("(?P<name>.*?)\s+(\d+\s+)?\((?P<minute>\d+)", e)
+
+            # Handle "Okafor 16" et al.
+            if not match:
+                match = re.search("(?P<name>.*?)\s+(\d+\s+)?(?P<minute>\d+)", e)
+
+            non_goals = [
+                'Own Goal',
+                "o.g.",
+                'og',
+                'own goal',
+                '(forfeit)',
+                ]
+
+            for ng in non_goals:
+                if e.startswith(ng):
+                    return {}
+
+            if not match:
+                import pdb; pdb.set_trace()
+
+            try:
+                player = match.groups()[0]
+                minute = int(match.groups()[2])
+            except:
+                import pdb; pdb.set_trace()
+
             return {
+                'competition': get_competition(match_type),
                 'team': team_name,
                 'date': date,
+                'year': date.year,
                 'player': player,
                 'minute': minute,
                 }
 
 
-        return [process(e) for e in goals.split(';')]
+        l = [process_goal(e) for e in goals.split(';')]
+        return [e for e in l if e]
 
-    p = os.path.join(LINEUPS_DIR, fn)
+    p = os.path.join(LINEUPS_DIR, filename)
          
-    team_name = file_mapping[fn.replace(".csv", '')]
+    team_name = file_mapping[filename.replace(".csv", '')]
 
     l = []
     for line in open(p).readlines():
@@ -135,7 +194,6 @@ def load_all_goals():
 
 
 
-get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
 
 class Lineup(object):

@@ -25,27 +25,13 @@ winter_league_url = lambda name, year: 'http://www.fbleague.com/en/calendar/%s/%
 summer_league_url = lambda name, year: 'http://www.fbleague.com/en/calendar/%s/%s/' % (name, year)
 
 
-# Unused.
-def get_name(s):
-    for slug, year, name in winter_leagues:
-        if slug == s:
-            return name
-
-    for slug, year, name in summer_leagues:
-        if slug == s:
-            return name
-
-    raise
-        
-
-
 def scrape_all_seasons():
     """
     Scrape all fbleague.com seasons.
     """
     l = []
-    for url, season, competition in all_season_urls():
-        season = scrape_season(url, competition, season)
+    for url, season, competition, year in all_season_urls():
+        season = scrape_season(url, competition, season, year)
         l.extend(season)
     return l
 
@@ -59,21 +45,21 @@ def all_season_urls():
     for slug, year, competition in winter_leagues:
         while year < datetime.date.today().year:
             season = "%s-%s" % (year, year + 1)
-            t = (winter_league_url(slug, year), season, competition)
+            t = (winter_league_url(slug, year), season, competition, year)
             urls.append(t)
             year += 1
 
     for slug, year, competition in summer_leagues:
         while year < datetime.date.today().year:
             season = str(year)
-            t = (summer_league_url(slug, year), season, competition)
+            t = (summer_league_url(slug, year), season, competition, year)
             urls.append(t)
             year += 1        
             
     return urls
 
 
-def scrape_season(url, competition, season):
+def scrape_season(url, competition, season, year):
     """
     Scrape a single season.
     """
@@ -101,6 +87,7 @@ def scrape_season(url, competition, season):
                     'competition': competition,
                     'season': season,
                     'url': url,
+                    'year': year,
                     })
         return l
                 

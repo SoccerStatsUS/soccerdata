@@ -49,7 +49,7 @@ def load_games():
     # MLS soccer game results to 1996
     generic_load(soccer_db.mlssoccer_games, mls.scrape_all_games)
     # MLS scores from 1996 to 2010
-    generic_load(soccer_db.scaryice_games, lineups.load_all_scores)
+    generic_load(soccer_db.scaryice_games, lineups.load_all_games)
     # NASL scores for 2011
     generic_load(soccer_db.nasl_games, nasl.scrape_scores)
     # Some European scores, primarily Spanish.
@@ -68,9 +68,7 @@ def load_goals():
     # Working:
     #generic_load(soccer_db.world_cup_goals, fifa.scrape_all_world_cup_goals)
 
-    #Todo:
-    # generic_load(soccer_db.scaryice_goals, fifa.lineups.load_all_goals)
-    pass
+    generic_load(soccer_db.scaryice_goals, lineups.load_all_goals)
 
 
 

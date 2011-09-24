@@ -3,6 +3,9 @@ from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
 def merge():
     merge_games()
+    merge_goals()
+
+
 
 
 def merge_games():
@@ -25,3 +28,7 @@ def merge_mls():
 
 def merge_nasl():
     insert_rows(soccer_db.games, soccer_db.nasl_games.find())    
+
+
+def merge_goals():
+    insert_rows(soccer_db.goals, soccer_db.scaryice_goals.find())

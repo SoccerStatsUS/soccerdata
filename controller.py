@@ -94,6 +94,9 @@ def get_goal_years():
 def get_game_years():
     return get_years_generic(soccer_db.games)
 
+def get_stat_years():
+    return get_years_generic(soccer_db.stats)
+
 def get_lineup_years():
     return get_years_generic(soccer_db.lineups)
 

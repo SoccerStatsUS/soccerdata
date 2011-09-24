@@ -30,6 +30,8 @@ def scrape_scores():
                         'away_score': away_score,
                         'date': dt,
                         'competition': 'NASL',
+                        'season': 2011,
+                        'year': 2011,
                         #'url': "", # Nasl doesn't even link these.
                         })
 
