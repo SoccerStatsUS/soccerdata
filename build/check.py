@@ -1,3 +1,5 @@
+from soccerdata import mongo
+
 def check():
     # Verify
     check_goals()
@@ -11,8 +13,22 @@ def check_people():
     pass
 
 def check_games():
-    # Need to standardize teams before doing this.
-    pass
+    game_fields = [
+        'home_team',
+        'away_team',
+        'home_score',
+        'away_score',
+        'date',
+        'year',
+        ]
+
+    for game in mongo.soccer_db.games.find():
+        for field in game_fields:
+            try:
+                assert field in game
+            except:
+                print game
+                continue
 
 
 def check_lineups():
@@ -25,3 +41,6 @@ def check_goals():
 def check_stats():
     pass
 
+
+if __name__ == "__main__":
+    check()
