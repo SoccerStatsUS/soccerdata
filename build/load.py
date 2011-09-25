@@ -1,8 +1,7 @@
 from soccerdata.mongo import generic_load, soccer_db
 from soccerdata.text import bios, lineups,  salaries, drafts
 from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
-
-from soccerdata.scrapers import eufootball
+from soccerdata.scrapers import eufootball, australia
 
 
 
@@ -56,6 +55,9 @@ def load_games():
     generic_load(soccer_db.nasl_games, nasl.scrape_scores)
     # Some European scores, primarily Spanish.
     generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
+
+    # Scrape A-League games.
+    generic_load(soccer_db.aleague_games, australia.scrape_all_games)
 
     # All-time European national team games.
     #generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)
