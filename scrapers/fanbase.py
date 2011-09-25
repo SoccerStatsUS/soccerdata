@@ -10,6 +10,16 @@
 
 # http://www.fanbase.com/Arsenal-FC-1926-27/schedule
 
+
+# Failing
+# http://www.fanbase.com/Charlton-Athletic-2009-10/schedule
+# http://www.fanbase.com/Luton-Town-2009-10/schedule
+# http://www.fanbase.com/Milton-Keynes-Dons-2009-10/schedule
+# downloading http://www.fanbase.com/Plymouth-Argyle-2009-10/schedule
+# ownloading http://www.fanbase.com/Oldham-Athletic-AFC-2009-10/schedule
+# downloading http://www.fanbase.com/Milton-Keynes-Dons-2009-10/schedule
+
+
 from soccerdata.utils import scrape_soup, get_contents
 
 import re

@@ -1,7 +1,9 @@
 import datetime
+import itertools
+
 from BeautifulSoup import BeautifulSoup
 
-from soccerdata.utils import scrape_url, get_contents
+from soccerdata.utils import scrape_soup, get_contents
 
 
 
@@ -11,6 +13,40 @@ def to_int(s):
         return int(s)
     else:
         return 0
+
+
+def get_all_players():
+    players_url = "http://www.mlssoccer.com/players/%s/%s"
+    urls = {}
+    for letter in letters:
+        for n in itertools.count(1):
+            url = players_url % (letter, n)
+            d = get_players_from_page(url)
+            urls.update(d)
+            if d == {}:
+                break
+    return urls.items()
+
+
+def get_players_from_page(url):
+    soup = scrape_soup(url, static=False)
+
+    tds = soup.findAll("td", "mpl-player active")
+    anchors = []
+    for td in tds:
+        anchors.extend(td.findAll("a"))
+    d = {}
+    for e in anchors:
+        # Probably need to do this better.
+        try:
+            key = str(e.contents[0])
+            value = str(e['href']).split("/")[-1]
+            d[key] = value
+        except UnicodeEncodeError:
+            print str(e['href'])
+    return d
+
+
 
 
 def scrape_all_games():
@@ -27,8 +63,7 @@ def scrape_games(year):
         static = True
 
     url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=all' % year
-    text = scrape_url(url, static)
-    soup = BeautifulSoup(text)
+    soup = scrape_soup(url, static)
     l = scrape_games_first_pass(soup)
     return MLSScoresProcessor().process_rows(l)
 
@@ -216,8 +251,7 @@ def scrape_stats(team, year):
     url = "http://www.mlssoccer.com/stats/club/%s/overall/%s/reg" % (team, year)
     
     # This may be an encoding problem.
-    text = scrape_url(url).replace("&#039;", "'")
-    soup = BeautifulSoup(text)
+    soup = scrape_soup(url).replace("&#039;", "'")
 
     table = soup.findAll("table", "stats statsleaders sortable-c4-desc players")
     if not table:

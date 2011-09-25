@@ -12,9 +12,9 @@ year_url = 'http://www.eu-football.info/_year.php?id=2010'
 
 def scrape_all_games():
     import time
-    for year in range(1872, 2010):
+    for year in range(1872, 2011):
         scrape_year(year)
-        time.sleep(15)
+
 
 
 def scrape_year(year, page=1):

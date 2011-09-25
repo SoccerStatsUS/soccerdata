@@ -366,4 +366,145 @@ def scrape_world_cup_players():
 
 
 
+#
+# Old code for scraping mls players.
+# can be used for scraps then discarded.    
+
+# I do like this header.
+# req.add_header('User-Agent', "Chores/1.0 +http://www.socceroutsider.com")
+
+
+letters = "abcdefghijklmnopqrstuvwxyz"
+
+def clean_html(text):
+    return get_contents(text).replace("&#160;", " ")
+
+
+# This seems to just be a wikipedia player scraper, which should be in wiki.py
+class PlayerScraper(object):
+
+    # Possible patterns that the player's birthdate could be in.
+    # Scraping wikipedia can be tough.
+    date_patterns = [
+        "%B %d, %Y",
+        "%B %d %Y",
+        "%d %B, %Y",
+        "%d %B %Y",
+        ]
+
+    # Regular expression to match 1.73m, e.g.
+    metric_re = re.compile("(?P<meters>\d)\.(?P<centimeters>\d+) ?m")
+
+    def __init__(self, name):
+        self.name = name
+        self.info_map = self.map_infobox()
+
+    def player_urls(self):
+        u = "http://en.wikipedia.org/wiki/%s" % self.name.replace(" ", "_")
+        endings = ["", "_(soccer)", "_(footballer)", "_(American_soccer)",]
+        return ["%s%s" % (u, e) for e in endings]
+
+
+    def get_wiki_infobox(self):
+        for url in self.player_urls():
+            try:
+                # Have to find infobox here to avoid disambiguation pages.
+                text = scrape_wiki(url)
+                soup = BeautifulSoup(text)
+                infobox = soup.findAll("table", {"class": "infobox vcard"})
+                if infobox:
+                    return infobox
+            except urllib2.HTTPError:
+                pass
+        return ''
+
+
+    def map_infobox(self):
+        infobox = self.get_wiki_infobox()
+        if not infobox:
+            return {}
+
+        trs = infobox[0].findAll("tr")
+        d = {}
+        for tr in trs:
+            children = tr.findAll(["th", "td"])
+            if len(children) == 2:
+                try:
+                    key = clean_html(children[0].contents[0])
+                    value = clean_html(children[1].contents[0])
+                    d[key] = value
+                except IndexError:
+                    # One of the key, value pair's contents was empty.
+                    # Just ignore it.
+                    pass
+        return d
+
+
+    def find_info(self):
+        return [
+            self.find_full_name(),
+            self.find_birthdate(),
+            self.find_place_of_birth(),
+            self.find_height()
+            ]
+            
+            
+
+    def find_full_name(self):
+        value = self.info_map.get("Full name")
+        if value:
+            return value
+        else:
+            return self.name
+
     
+    def find_birthdate(self):
+        def helper(data):
+            for pattern in self.date_patterns:
+                try:
+                    s = data.strip()
+                    dt = datetime.datetime.strptime(s, pattern)
+                    d = datetime.date(dt.year, dt.month, dt.day)
+                    return d
+                except ValueError:
+                    pass
+            return None
+
+        value = self.info_map.get("Date of birth")
+        if value:
+            return helper(value)
+        else:
+            return None
+
+
+    def find_place_of_birth(self):
+        value = self.info_map.get("Place of birth")
+        if value:
+            return get_contents(value)
+        else:
+            return ""
+
+    def find_height(self):
+        def helper_old(data):
+            d = data.replace("(", "").replace(")", "")
+            # Height is often listed in metric and imperial.
+            forms = d.split(" ") 
+            for f in forms:
+                result = self.metric_re.search(f)
+                if result:
+                    m, cm = result.groups()
+                    return int(m) * 100 + int(cm)
+
+        def helper(data):
+            result = self.metric_re.search(data)
+            if result:
+                m, cm = result.groups()
+                return int(m) * 100 + int(cm)
+
+
+        value = self.info_map.get("Height")
+        if value:
+            return helper(value)
+        else:
+            return 0
+
