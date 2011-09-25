@@ -44,7 +44,7 @@ YEARS = list(reversed(range(1996,2012)))
 
 # The competitions we're trying to cover.
 DOMESTIC_COMPETITIONS = [
-    'NASL',
+    #'NASL',
     'MLS',
     'La Liga',
     'Bundesliga',
