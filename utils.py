@@ -32,7 +32,7 @@ def get_contents(l):
     return s.strip()
 
 
-def scrape_url(url, static=True, encoding=None):
+def scrape_url(url, refresh=False, encoding=None):
     """
     Scrape a url, or just use a version saved in mongodb.
     """
@@ -43,7 +43,7 @@ def scrape_url(url, static=True, encoding=None):
     scrape_db = connection.scraper
     pages_collection = scrape_db.pages
 
-    if static is True:
+    if refresh is False:
         result = collection.find_one({"url": url })
     else:
         result = None
@@ -61,11 +61,21 @@ def scrape_url(url, static=True, encoding=None):
         opener.addheaders = [('User-agent', USER_AGENT)]
         data = opener.open(url).read()
 
+        # Mediotiempo taught us these, but they're possibly used other places.
+        # This seems to show up several places, usually in document.writes.
+        # I think it's addressing an internet explorer bug.
+        data = data.replace("</scr' + 'ipt", "</script")
+        data = data.replace("</scr'+'ipt>", "</script>")
+        data = data.replace("</SCRI' + 'PT>", "</SCRIPT>")
+
 
         # Oh shit! There was some bad unicode data in eu-football.info
         # Couldn't find an encoding so I'm just killing it.
         # Looked to be involved with goolge analytics.
         data = data.replace("\xf1\xee\xe7\xe4\xe0\xed\xee", "")
+
+
+
 
 
         unicode_data = data.decode(encoding)
