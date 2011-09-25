@@ -1,10 +1,43 @@
 # encoding: utf-8
 
-from BeautifulSoup import BeautifulSoup
 from urllib import urlencode
-import urllib2
+
+from BeautifulSoup import BeautifulSoup
+from soccerdata.utils import scrape_url, scrape_soup, get_contents
 
 team_url = "http://www.mediotiempo.com/ajax/ajax_equipo.php"
+
+
+
+def scrape_jornadas(url):
+    url = 'http://www.mediotiempo.com/jornadas.php?id_liga=1&id_torneo=303'
+    soup = scrape_soup(url, encoding='iso_8859_1')
+
+    selects = soup.findAll("select")
+    jornada_select = selects[1]
+    jornadas = [e['value'] for e in jornada_select.findAll("option")]
+
+    return jornadas
+
+
+
+
+"""
+AAAAHHHHHHHHHHHHHHHH
+MEDIOTIEMPO IS USING POSTS FOR GETS!!!
+Presumably to hide that shit from you.
+
+a typical post:
+
+url: mediotiempo.com/ajax/ajax_jornadas.php
+
+post = {
+    'id_liga': 1 # Mexico?
+    'id_torneo': 229,
+    'jornada': 5,
+}
+"""
+
 
 unicode_mapping = [
     ('Á', '&Aacute;'),
@@ -58,6 +91,7 @@ def fetch_data(team, tournament, league=1):
     return r.strip()
     
 def parse_data(html):
+    # Seems to be team data, so lineups and stuff?
     l = []
     soup = BeautifulSoup(html)
     table = soup.findAll("table", {"id": "equipo"})[0]

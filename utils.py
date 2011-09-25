@@ -32,6 +32,51 @@ def get_contents(l):
     return s.strip()
 
 
+def dict_to_str(d):
+    opts = ["%s=%s" % (str(k), str(v)) for (k, v) in d.items()]
+    return "?" + "&".join(opts)
+    
+    
+
+
+#def scrape_post(url, options_dict):
+def scrape_post():
+    # Scrape a post url.
+    # This doesn't really make sense, but this is how
+    # Mediotiempo does it.
+
+    url = 'http://www.mediotiempo.com/ajax/ajax_jornadas.php'
+
+    options_dict = {
+        'id_liga' :1,
+        'id_torneo':303,
+        'jornada':6,
+        }
+
+    options_string = dict_to_str(options_dict)
+
+
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-agent', USER_AGENT)]
+    data = opener.open(url, options_string).read()
+
+    # Oh no more shit.
+    # This is from mediotiempo.com/ajax/ajax_jornadas.php?id_liga=1&id_torneo=229&jornada=5
+    # Tired of struggling with mediotiempo so I'm skipping over it for now.
+    # But definitely need to address these problems.
+    data = data.replace("\xed", "")
+
+    
+    return data
+
+def scrape_post_soup():
+    data = scrape_post()
+    return BeautifulSoup(data)
+
+
+    
+
+
 def scrape_url(url, refresh=False, encoding=None):
     """
     Scrape a url, or just use a version saved in mongodb.
@@ -64,9 +109,12 @@ def scrape_url(url, refresh=False, encoding=None):
         # Mediotiempo taught us these, but they're possibly used other places.
         # This seems to show up several places, usually in document.writes.
         # I think it's addressing an internet explorer bug.
+        data = data.replace("</scr'+'ipt>", "</script>")
         data = data.replace("</scr' + 'ipt", "</script")
         data = data.replace("</scr'+'ipt>", "</script>")
         data = data.replace("</SCRI' + 'PT>", "</SCRIPT>")
+
+
 
 
         # Oh shit! There was some bad unicode data in eu-football.info
@@ -76,14 +124,13 @@ def scrape_url(url, refresh=False, encoding=None):
 
 
 
-
-
+        # Save the data.
         unicode_data = data.decode(encoding)
         pages_collection.insert({"url": url, "data": unicode_data})
     else:
         print "pulling %s from cache." % url
-        data = result['data']
-    return data
+        unicode_data = result['data']
+    return unicode_data
 
 # Bad idea.
 def scrape_soup(*args, **kwargs):
