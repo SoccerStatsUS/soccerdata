@@ -2,79 +2,10 @@
 
 {% block content %}
 
-
-{# Games #}
-<table>
-<h3>Games</h3>
-<tr>
-<th>
-  Team
-</th>
-{% for year in years %}
-<th>
-  {{ year }}
-</th>
-{% endfor %}
-</tr>
-
-
-{% for league, league_years in game_years %}
-<tr>
-  <td>
-    {{ league }}
-  </td>
-
-{% for year in years %}
-
-{% if year in league_years %}
-<td class="green">x</td>
-{% else %}
-<td class="red"></td>
-{% endif %}
-
-{% endfor %}
-
-</tr>
-{% endfor %}
-
-</table>
-
-
-{# Goals #}
-<table>
-<h3>Goals</h3>
-<tr>
-<th>
-  Team
-</th>
-{% for year in years %}
-<th>
-  {{ year }}
-</th>
-{% endfor %}
-</tr>
-
-{# Games #}
-{% for league, league_years in goal_years %}
-<tr>
-  <td>
-    {{ league }}
-  </td>
-
-{% for year in years %}
-
-{% if year in league_years %}
-<td class="green">x</td>
-{% else %}
-<td class="red"></td>
-{% endif %}
-
-{% endfor %}
-
-</tr>
-{% endfor %}
-
-</table>
+{% import "dashboard_table.html" as dt %}
+{{ dt.dashboard_table("Games", game_years, years) }}
+{{ dt.dashboard_table("Goals", goal_years, years) }}
+{{ dt.dashboard_table("Lineups", lineup_years, years) }}
   
 
 {% endblock %}

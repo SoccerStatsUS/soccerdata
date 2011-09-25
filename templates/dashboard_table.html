@@ -1,0 +1,24 @@
+{% macro dashboard_table(header, table_list, years) -%}
+<table>
+  <h3>{{ header }}</h3>
+  <tr>
+    <th>Team</th>
+    {% for year in years %}
+    <th>{{ year }}</th>
+    {% endfor %}
+  </tr>
+
+  {% for league, league_years in table_list %}
+  <tr>
+    <td>{{ league }}</td>
+    {% for year in years %}
+    {% if year in league_years %}
+    <td class="green">x</td>
+    {% else %}
+    <td class="red"></td>
+    {% endif %}
+    {% endfor %}
+  </tr>
+  {% endfor %}
+</table>
+{%- endmacro %}
