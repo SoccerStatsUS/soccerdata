@@ -3,9 +3,11 @@
 {% block content %}
 
 {% import "dashboard_table.html" as dt %}
-{{ dt.dashboard_table("Games", game_years, years) }}
-{{ dt.dashboard_table("Goals", goal_years, years) }}
-{{ dt.dashboard_table("Lineups", lineup_years, years) }}
+{{ dt.dashboard_table("Games", "games", game_years, years) }}
+{{ dt.dashboard_table("Standings", "standings", game_years, years) }}
+{{ dt.dashboard_table("Goals", "goals", goal_years, years) }}
+{{ dt.dashboard_table("Stats", "stats", stat_years, years) }}
+{{ dt.dashboard_table("Lineups", "lineups", lineup_years, years) }}
   
 
 {% endblock %}

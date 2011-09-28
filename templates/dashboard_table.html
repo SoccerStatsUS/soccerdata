@@ -1,4 +1,4 @@
-{% macro dashboard_table(header, table_list, years) -%}
+{% macro dashboard_table(header, url_root, table_list, years) -%}
 <table>
   <h3>{{ header }}</h3>
   <tr>
@@ -13,7 +13,7 @@
     <td>{{ league }}</td>
     {% for year in years %}
     {% if year in league_years %}
-    <td class="green">x</td>
+    <td class="green"><a href="/{{ url_root }}/{{ league }}/{{ year }}">x</a></td>
     {% else %}
     <td class="red"></td>
     {% endif %}

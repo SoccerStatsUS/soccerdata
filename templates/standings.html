@@ -1,0 +1,28 @@
+
+{{ competition }}
+{{ season }}
+
+<table>
+  <tr>
+    <th>Team</th>
+    <th>Wins</th>
+    <th>Ties</th>
+    <th>Losses</th>
+    <th>GF</th>
+    <th>GA</th>
+  </tr>
+
+  {% for standing in standings %}
+  <tr>
+    <td>{{ standing.name }}</td>
+    <td>{{ standing.wins }}</td>
+    <td>{{ standing.ties }}</td>
+    <td>{{ standing.losses }}</td>
+    <td>{{ standing.goals_for }}</td>
+    <td>{{ standing.goals_against }}</td>
+  </tr>
+  {% endfor %}
+
+</table>
+
+
