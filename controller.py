@@ -94,6 +94,10 @@ def get_goal_years():
 def get_game_years():
     return get_years_generic(soccer_db.games)
 
+#def get_standing_years():
+#    return get_years_generic(soccer_db.standings)
+
+
 def get_stat_years():
     return get_years_generic(soccer_db.stats)
 
@@ -110,7 +114,9 @@ def dashboard():
     ctx = {
         'years': YEARS,
         'game_years': get_game_years(),
+        #'standing_years': get_standing_years(),
         'goal_years': get_goal_years(),
+        'stat_years': get_stat_years(),
         'lineup_years': get_lineup_years(),
         }
     
@@ -128,6 +134,13 @@ def goals():
 @app.route("/lineups")
 def lineups():
     pass
+
+@app.route("/standings/<competition>/<season>")
+def standings(competition, season):
+    coll = soccer_db.standings
+    standings = soccer_db.standings.find({"competition": competition, "season": season})
+    return render_template("standings.html", standings=standings, competition=competition, season=season)
+    
 
 
 

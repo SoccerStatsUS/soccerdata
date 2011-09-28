@@ -2,14 +2,16 @@
 # Doing this wrong?
 
 
-def get_standing(games):
-    return Standing(games).standings()
+def get_standings(games, competition, season):
+    return Standing(games, competition, season).standings()
 
 class Standing(object):
 
-    def __init__(self, games):
+    def __init__(self, games, competition, season):
         # Games is probably a cursor object!
         self.games = games
+        self.competition = competition
+        self.season = season
 
         self.wins = self.get_wins(games)
         self.losses = self.get_losses(games)
@@ -67,13 +69,16 @@ class Standing(object):
     def standings(self):
         l = []
         for team in sorted(self.wins.keys()):
-            t = (team, self.wins[team], self.losses[team], self.ties[team], self.goals_for[team], self.goals_against[team])
-            l.append(t)
+            header = ["name", "wins", "losses", "ties", "goals_for", "goals_against", 'competition', 'season']
+            t = (team, self.wins[team], self.losses[team], self.ties[team], self.goals_for[team], self.goals_against[team], self.competition, self.season)
+            d = dict(zip(header, t))
+            l.append(d)
+
         return l
 
     def print_standings(self):
         print "\n\n\n"
-        header = ["name", "wins", "losses", "ties", "goals for", "goals against"]
+        header = ["name", "wins", "losses", "ties", "goals_for", "goals_against", 'competition', 'season']
         print "\t".join(header)
         for e in self.standings():
                 try:

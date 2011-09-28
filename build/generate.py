@@ -1,6 +1,9 @@
-from soccerdata.mongo import soccer_db
+from soccerdata.mongo import soccer_db, insert_rows
 
-from standings import get_standing
+from standings import get_standings
+
+# I think I should just generate standings directly from soccer_db.games.
+# And then check those against downloaded standings.
 
 
 def generate():
@@ -10,31 +13,31 @@ def generate():
     generate_transfers()
 
 
-
 def generate_standings():
-    # Use generic_load here.
-    standings = generate_fbleague_standings()
-
-def generate_fbleague_standings():
-    coll = soccer_db.fbleague_scores
+    # Load seasons so we know which
+    # we have to generate standings for.
     seasons = set()
+    coll = soccer_db.games
     for doc in coll.find():
-        # Don't use a dict. unahshable
         t = (doc['competition'], doc['season'])
         seasons.add(t)
-    
-    standings = []
+
     for t in seasons:
-        d = {'competition': t[0], 'season': t[1]}
-        games = coll.find(d)
-        standings.append(get_standings(games))
-        
-    return standings
+        competition, season = t
+        d = {'competition': competition, 'season': season}
+        games = [e for e in coll.find(d)] # Cursor to list.
+        standings = get_standings(games, competition, season)
+        insert_rows(soccer_db.standings, standings)
 
 
 def generate_stats():
     pass
 
-                
+
 def generate_transfers():
     pass
+    
+
+if __name__ == "__main__":
+    generate_standings()
+

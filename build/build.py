@@ -33,15 +33,34 @@ from check import check
 from merge import merge
 
 
+# Load all possible games into various collections.
+# Try to merge all of those into a single games database.
+# Load standings from wikipedia.
+
+# Generate standings from games.
+# Check generated standings against loaded standings.
+# Load wikipedia standings for competitions that don't have them.
+
+# Load goals
+# Check goals against games.
+
+
 def build():
     """
     Rebuild all site data.
     """
     reset_database()
     load()
-    generate()
+
     check()
+
+    # Need to figure out the order for this.
+
+    # Merge is currently putting games into soccer_db.games
     merge()
+
+    # Generate needs to come after merge.
+    generate()
 
 
 def reset_database():

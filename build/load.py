@@ -54,7 +54,7 @@ def load_games():
     # NASL scores for 2011
     generic_load(soccer_db.nasl_games, nasl.scrape_scores)
     # Some European scores, primarily Spanish.
-    generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
+    #generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
 
     # Scrape A-League games.
     generic_load(soccer_db.aleague_games, australia.scrape_all_games)
