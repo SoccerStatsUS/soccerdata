@@ -67,6 +67,8 @@ def scrape_year_games(year):
             'away_score': away_score,
             'location': location,
             'competition': "A-League",
+            'year': year,
+            'season': '%s-%s' % (year, year + 1),
             }
 
     rows = [preprocess_row(row) for row in table.findAll("tr")]
@@ -112,7 +114,6 @@ class RowProcessor(object):
 
         if row['type'] == 'game':
             row['date'] = self.current_date
-            row['year'] = self.current_date.year
             self.games.append(row)
 
     def process_rows(self, rows):

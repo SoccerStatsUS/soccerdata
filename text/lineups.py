@@ -83,6 +83,7 @@ def get_scores(fn):
             'competition': get_competition(match_type),
             'date': date,
             'year': date.year,
+            'season': unicode(date.year),
             'home_team': home_team,
             'away_team': away_team,
             'home_score': home_score,

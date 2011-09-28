@@ -6,6 +6,8 @@ from BeautifulSoup import BeautifulSoup
 from soccerdata.utils import scrape_soup, get_contents
 
 
+# Need to comment this!
+
 
 def to_int(s):
     s = s.replace(",", '')
@@ -16,19 +18,26 @@ def to_int(s):
 
 
 def get_all_players():
+    """
+    Get urls for all player bios.
+    """
     players_url = "http://www.mlssoccer.com/players/%s/%s"
     urls = {}
     for letter in letters:
+        # Count up until we get no urls.
         for n in itertools.count(1):
             url = players_url % (letter, n)
-            d = get_players_from_page(url)
+            d = get_player_urls_from_page(url)
             urls.update(d)
             if d == {}:
                 break
     return urls.items()
 
 
-def get_players_from_page(url):
+def get_player_urls_from_page(url):
+    """
+    Scrape player urls from a given page.
+    """
     soup = scrape_soup(url, static=False)
 
     tds = soup.findAll("td", "mpl-player active")
@@ -183,7 +192,9 @@ team_names = {
     "tb": "Tampa Bay Mutiny",
     }
     
-    
+ 
+# Scrape mlssoccer stats.
+   
 stat_mapping = {
     '#': 'number',
     'POS': 'position',
