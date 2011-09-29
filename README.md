@@ -1,14 +1,19 @@
 
 # Projects.
 
-
-1. Create a script that will build all data.
-2. Strengthen wiki scraper and canvass team, player data.
+0. Use stats to get names.
+0. Batch processing using AWS.
+0. Deploy entire thing to AWS.
+0. Add my old MLS stats; scrape cnnsi stats.
+1. Strengthen wiki scraper and canvass team, player data.
+2. Generate all standings.
 3. News as data. Collect all the soccer news feeds. Use them to pull out interesting data.
 4. Twitter stream. Um, get tweets about soccer I suppose. Preferably valuable tweets. Is there a service for this?
 5. Add data consistency checking.
 6. Create javascript to scrape statto page when I visit it!! Create javascript to randomly load pages! Create ajax function to tell which page to fetch!
 7. Figure out how to handle new scores and updates to the database.
+8. Learn about unicode and figure out these unicode problems in utils.
+9. Probabilites of winning!
 
 
 

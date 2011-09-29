@@ -69,6 +69,17 @@ INTERNATIONAL_COMPETITIONS = [
     ]
 
 
+def get_competitions(coll):
+    competitions = set()
+    for e in coll.find():
+        competitions.add(e['competition'])
+    return sorted(competitions)
+
+def get_results_list(coll):
+    pass
+
+
+
 def get_years_generic(coll):
     
     years = set(YEARS) # Unnecessary
@@ -88,6 +99,8 @@ def get_years_generic(coll):
     t = sorted([(k, sorted(v)) for (k, v) in result.items()])
     return t
 
+
+
 def get_goal_years():
     return get_years_generic(soccer_db.goals)
 
@@ -104,6 +117,9 @@ def get_stat_years():
 def get_lineup_years():
     return get_years_generic(soccer_db.lineups)
 
+def get_bios():
+    return soccer_db.find().sort([("birthdate", pymongo.ASCENDING), ('minute', pymongo.ASCENDING)])
+
 
 
 
@@ -111,7 +127,13 @@ def get_lineup_years():
 @app.route("/dashboard")
 def dashboard():
 
+    #competition_and_seasons = "MLS" + get_seasons(soccer_db.games.find({"competition": "MLS"}))
+    
+
+
     ctx = {
+        #'competition_and_seasons': competition_and_seasons,
+        #'results_list': results_list,
         'years': YEARS,
         'game_years': get_game_years(),
         #'standing_years': get_standing_years(),
@@ -123,23 +145,25 @@ def dashboard():
     return render_template("dashboard.html", **ctx)
 
 
-@app.route("/games")
-def games():
-    pass
 
-@app.route("/goals")
-def goals():
-    pass
-
-@app.route("/lineups")
-def lineups():
-    pass
 
 @app.route("/standings/<competition>/<season>")
 def standings(competition, season):
-    coll = soccer_db.standings
     standings = soccer_db.standings.find({"competition": competition, "season": season})
     return render_template("standings.html", standings=standings, competition=competition, season=season)
+
+
+@app.route("/games/<competition>/<season>")
+def games(competition, season):
+    import pymongo
+    games = soccer_db.games.find({"competition": competition, "season": season}).sort("date", pymongo.ASCENDING)
+    return render_template("games.html", games=games, competition=competition, season=season)
+
+@app.route("/goals/<competition>")
+def goals(competition):
+    import pymongo
+    goals = soccer_db.goals.find({"competition": competition}).sort([("date", pymongo.ASCENDING), ('minute', pymongo.ASCENDING)])
+    return render_template("goals.html", goals=goals, competition=competition)
     
 
 

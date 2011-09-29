@@ -1,9 +1,12 @@
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
+from soccerdata.teams import get_team
+
 
 def merge():
     merge_games()
     merge_goals()
+    merge_stats()
 
 
 
@@ -19,9 +22,19 @@ def merge_games():
 def merge_fbleague():
     insert_rows(soccer_db.games, soccer_db.fbleague_games.find())
 
+
+def merge_teams(coll, teams):
+    for team in teams:
+        # Is this the right place for this?
+        d = team.copy()
+        d['home_team'] = get_team(d['home_team'])
+        d['away_team'] = get_team(d['away_team'])
+        d.pop("_id")
+        insert_row(coll, d)
+
 def merge_mls():
     # Better to start with scaryice games?
-    insert_rows(soccer_db.games, soccer_db.scaryice_games.find())
+    merge_teams(soccer_db.games, soccer_db.scaryice_games.find())
     #insert_rows(soccer_db.games, soccer_db.mlssoccer_games.find())
 
 def merge_nasl():
@@ -32,6 +45,9 @@ def merge_aleague():
 
 def merge_goals():
     insert_rows(soccer_db.goals, soccer_db.scaryice_goals.find())
+
+def merge_stats():
+    insert_rows(soccer_db.stats, soccer_db.mls_stats.find())
 
 
 if __name__ == "__main__":

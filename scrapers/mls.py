@@ -168,6 +168,90 @@ class MLSScoresProcessor(object):
         return self.games
 
 
+
+team_ids = [
+    1207,
+    2079,
+    436,
+    454,
+    1326,
+    1903,
+    1897,
+    1230,
+    6226,
+    928,
+    399,
+    5513,
+    1581,
+    1899,
+    1131,
+    3500,
+    421,
+    1806,
+    2077,
+    1708
+    ]
+
+years = range(1996, 2011)
+
+season_types = "REG", "PS"
+
+
+def scrape_all_stats():
+    stats = []
+    for season_type in season_types:
+        for team_id in team_ids:
+            for year in years:
+                url = 'http://www.mlssoccer.com/stats/season?season_year=%s&season_type=%s&team=%s' % (year, season_type, team_id)
+                stats.extend(scrape_stats(url, year, season_type))
+    return stats
+
+
+def scrape_stats(url, year, season_type):
+    
+    # This should actually be round.
+    if season_type == "PS":
+        competition = "MLS Postseason"
+    else:
+        competition = "MLS"
+
+
+    soup = scrape_soup(url)
+    stats_table = soup.find("div", "stats-table")
+    if not stats_table:
+        return []
+
+    stats_trs = stats_table.findAll("tr")
+    if len(stats_trs) == 0:
+        return []
+    else:
+        l = []
+        for tr in stats_trs[1:]: #Skip header.
+            fields = [get_contents(e) for e in tr.findAll("td")]
+            name, team, position, games_played, games_started, minutes, goals, assists, shots, shots_on_goal, _,_,_,_,_,_ = fields
+
+            l.append({
+                    'competition': competition,
+                    'year': year,
+                    'season': unicode(year),
+                    'name': name,
+                    'team': team,
+                    'position': position,
+                    'games_played': games_played,
+                    'minutes': minutes,
+                    'goals': goals,
+                    'assists': assists,
+                    'shots': shots,
+                    'shots_on_goal': shots_on_goal,
+                })
+
+    return l
+
+
+
+
+
+
     
 # Should move this into an alias object.
 # Good enough names.
@@ -216,7 +300,7 @@ stat_mapping = {
     "RC": "red_cards",
     }
 
-
+'''
 def all_stats():
     l = []
     for team in team_names:
@@ -256,7 +340,7 @@ def parse_stat(d):
 
 
 def scrape_stats(team, year):
-    """
+    
     Scrape stats for a team for a given year.
     """
     url = "http://www.mlssoccer.com/stats/club/%s/overall/%s/reg" % (team, year)
@@ -330,4 +414,4 @@ def scrape_stats(team, year):
     
 
 
-    
+'''

@@ -49,6 +49,7 @@ def build():
     """
     Rebuild all site data.
     """
+    # Not sure we need ot reset the database.
     reset_database()
     load()
 

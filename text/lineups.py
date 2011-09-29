@@ -9,6 +9,8 @@ import os
 import re
 import sys
 
+from soccerdata.teams import get_team
+
 
 file_mapping = {
     "CHI": u'Chicago Fire',
@@ -60,21 +62,38 @@ def get_scores(fn):
 
         date = get_date(date_string)
 
-        home_score, away_score = [int(e) for e in score.split('-')]
+        scores = [int(e) for e in score.split('-')]
 
+        if result == 'D':
+            team_score = opponent_score = scores[0]
 
+        elif result == 'W':
+            team_score = max(scores)
+            opponent_score = min(scores)
             
-
+        elif result == 'L':
+            team_score = min(scores)
+            opponent_score = max(scores)
+        
+        else:
+            import pdb; pdb.set_trace()
+        
         if location == 'H':
             home_team = team_name
+            home_score = team_score
             away_team = opponent
+            away_score = opponent_score
         elif location == 'A':
             away_team = team_name
+            away_score = team_score
             home_team = opponent
+            home_score = opponent_score
         elif location == 'N':
             # Not sure how to handle these.
             home_team = team_name
+            home_score = opponent_score
             away_team = opponent
+            away_score = team_score
         else:
             raise
 
@@ -84,11 +103,10 @@ def get_scores(fn):
             'date': date,
             'year': date.year,
             'season': unicode(date.year),
-            'home_team': home_team,
-            'away_team': away_team,
+            'home_team': get_team(home_team),
+            'away_team': get_team(away_team),
             'home_score': home_score,
             'away_score': away_score,
-            'location': location,
             }
 
     p = os.path.join(LINEUPS_DIR, fn)
@@ -103,7 +121,12 @@ def load_all_games():
     for key in file_mapping.keys():
         fn = "%s.csv" % key
         l.extend(get_scores(fn))
-    return l
+
+    s = set()
+    for e in l:
+        s.add(tuple(sorted(e.items())))
+
+    return sorted([dict(e) for e in s])
 
 
 def get_goals(filename):

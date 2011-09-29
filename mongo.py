@@ -24,21 +24,14 @@ def get_rows(collection):
     return [row for row in collection.find()]
 
 
-def delete_rows(collection, rows=None):
-    if rows is None:
-        rows = collection.find()
-    for row in rows:
-        collection.remove(row)
-
 def generic_load(coll, func):
     """
     Call with something like
     
     generic_load(soccer_db.fbleague_scores, fbleague.scrape_all_seasons)
     """
-    l = func()
-    delete_rows(coll)
-    insert_rows(coll, l)
+    coll.drop()
+    insert_rows(coll, func())
 
 
 

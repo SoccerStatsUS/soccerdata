@@ -6,6 +6,9 @@ from soccerdata.scrapers import eufootball, australia
 
 
 def load():
+    """
+    Load all data.
+    """
     # Cities
     # Countries
     # Confederations
@@ -13,13 +16,13 @@ def load():
     # Competitions
     # Stadiums
 
-    load_people()
-    load_games()
-    load_goals()
-    load_lineups()
-    load_salaries()
-    load_drafts()
-    load_lists()
+    #load_people()
+    #load_games()
+    #load_goals()
+    #load_lineups()
+    #load_salaries()
+    #load_drafts()
+    #load_lists()
     load_stats()
 
 
@@ -54,7 +57,7 @@ def load_games():
     # NASL scores for 2011
     generic_load(soccer_db.nasl_games, nasl.scrape_scores)
     # Some European scores, primarily Spanish.
-    #generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
+    generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
 
     # Scrape A-League games.
     generic_load(soccer_db.aleague_games, australia.scrape_all_games)
@@ -103,4 +106,5 @@ def load_lists():
     pass
 
 def load_stats():
-    pass
+    generic_load(soccer_db.mls_stats, mls.scrape_all_stats)
+

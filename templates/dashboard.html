@@ -2,6 +2,14 @@
 
 {% block content %}
 
+<table>
+  <h3>{{ header }}</h3>
+  <tr>
+    <th> {{ game_years[0][0] }}</th>
+    <th> {{ game_years[0][1] }}</th>
+  </tr>
+</table>
+
 {% import "dashboard_table.html" as dt %}
 {{ dt.dashboard_table("Games", "games", game_years, years) }}
 {{ dt.dashboard_table("Standings", "standings", game_years, years) }}

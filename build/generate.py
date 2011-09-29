@@ -16,8 +16,11 @@ def generate():
 def generate_standings():
     # Load seasons so we know which
     # we have to generate standings for.
+    soccer_db.standings.drop()
     seasons = set()
     coll = soccer_db.games
+
+
     for doc in coll.find():
         t = (doc['competition'], doc['season'])
         seasons.add(t)

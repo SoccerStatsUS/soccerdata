@@ -47,8 +47,9 @@ class Standing(object):
                 wins[ht] += 1
                 losses[at] += 1
             else:
-                losses[ht] += 1
                 wins[at] += 1
+                losses[ht] += 1
+
         return wins, losses, ties, goals_for, goals_against
 
     def get_wins(self, games):
@@ -67,14 +68,14 @@ class Standing(object):
         return self.get_results(games)[4]
 
     def standings(self):
-        l = []
+        s = set()
         for team in sorted(self.wins.keys()):
             header = ["name", "wins", "losses", "ties", "goals_for", "goals_against", 'competition', 'season']
             t = (team, self.wins[team], self.losses[team], self.ties[team], self.goals_for[team], self.goals_against[team], self.competition, self.season)
             d = dict(zip(header, t))
-            l.append(d)
+            s.add(tuple(sorted(d.items())))
 
-        return l
+        return sorted([dict(e) for e in s], key=lambda d: -d['wins'])
 
     def print_standings(self):
         print "\n\n\n"

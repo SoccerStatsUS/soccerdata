@@ -1,3 +1,5 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
 
 
 teams = {
@@ -11,8 +13,17 @@ teams = {
     'Los Angeles': 'Los Angeles Galaxy',
     'New England': 'New England Revolution',
     'New York': 'New York Red Bulls',
+    'Philadelphia': 'Philadelphia Union',
     'San Jose': 'San Jose Earthquakes',
     'Seattle': 'Seattle Sounders',
     'Toronto': 'Toronto FC',
+    'Metrostars': 'New York Red Bulls',
+    'MetroStars': 'New York Red Bulls',
     }
+
+
+def get_team(name):
+    if name in teams:
+        return get_team(teams[name])
+    return name
     
