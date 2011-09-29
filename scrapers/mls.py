@@ -3,7 +3,10 @@ import itertools
 
 from BeautifulSoup import BeautifulSoup
 
+from soccerdata.teams import get_team
 from soccerdata.utils import scrape_soup, get_contents
+
+
 
 
 # Need to comment this!
@@ -197,6 +200,42 @@ years = range(1996, 2011)
 season_types = "REG", "PS"
 
 
+# Probably makes more sense to cross check against all-time.
+# http://www.mlssoccer.com/stats/alltime?page=118
+
+# This fucker is giving season stats, so we have to scrape individual players apparently.
+# Anybody that appears twice, scrape their individual page.
+
+# Find duplicates
+
+# KC doesn't seem to be working.
+
+def find_duplicates(lst):
+    # Remove duplicate items,
+    # then scrape player names.
+
+    # Use a counter?
+    s = set()
+    duplicates = Counter()
+    new_l = []
+    for e in l:
+        t = (e['name'], e['season'])
+
+    for e in l:
+        if e not in duplicates:
+            new_l.append(e)
+
+    for dupe in duplicates:
+        stats = scrape_player(dupe)
+        stats = [e for e in stats if e['year'] == dupe['year']]
+        new_l.extend(stats)
+
+    return new_l
+
+    
+            
+
+
 def scrape_all_stats():
     stats = []
     for season_type in season_types:
@@ -235,8 +274,9 @@ def scrape_stats(url, year, season_type):
                     'year': year,
                     'season': unicode(year),
                     'name': name,
-                    'team': team,
+                    'team': get_team(team),
                     'position': position,
+                    'games_started': games_started,
                     'games_played': games_played,
                     'minutes': minutes,
                     'goals': goals,

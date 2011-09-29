@@ -159,11 +159,20 @@ def games(competition, season):
     games = soccer_db.games.find({"competition": competition, "season": season}).sort("date", pymongo.ASCENDING)
     return render_template("games.html", games=games, competition=competition, season=season)
 
+@app.route("/stats/<competition>/<season>")
+def stats(competition, season):
+    import pymongo
+    stats = soccer_db.stats.find({"competition": competition, "season": season}).sort("name", pymongo.ASCENDING)
+    return render_template("stats.html", stats=stats, competition=competition, season=season)
+
+
 @app.route("/goals/<competition>")
 def goals(competition):
     import pymongo
     goals = soccer_db.goals.find({"competition": competition}).sort([("date", pymongo.ASCENDING), ('minute', pymongo.ASCENDING)])
     return render_template("goals.html", goals=goals, competition=competition)
+
+
     
 
 

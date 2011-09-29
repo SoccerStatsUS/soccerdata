@@ -18,7 +18,7 @@ def load():
 
     #load_people()
     #load_games()
-    #load_goals()
+    load_goals()
     #load_lineups()
     #load_salaries()
     #load_drafts()

@@ -35,9 +35,10 @@ file_mapping = {
 
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
-
-
-LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/"
+if os.path.exists("/home/chris/www/soccerdata/data/lineups/"):
+    LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/"
+else:
+    LINEUPS_DIR = "/Users/chrisedgemon/www/soccerdata/data/lineups/"
 
 def get_competition(name):
     try:

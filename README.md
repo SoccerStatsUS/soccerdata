@@ -1,10 +1,12 @@
 
 # Projects.
 
+-1. Completely remove year.
 0. Use stats to get names.
 0. Batch processing using AWS.
 0. Deploy entire thing to AWS.
 0. Add my old MLS stats; scrape cnnsi stats.
+1. Reorganize player scrapers.
 1. Strengthen wiki scraper and canvass team, player data.
 2. Generate all standings.
 3. News as data. Collect all the soccer news feeds. Use them to pull out interesting data.

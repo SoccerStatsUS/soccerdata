@@ -7,6 +7,10 @@ import urllib2
 from BeautifulSoup import BeautifulSoup
 
 
+# This should be implemented with redis instead of mongo!
+# Automate installation of mongo and redis?
+# Document!
+
 # These are meant to be site-wide utilities
 
 connection = pymongo.Connection()
@@ -35,7 +39,16 @@ def get_contents(l):
 def dict_to_str(d):
     opts = ["%s=%s" % (str(k), str(v)) for (k, v) in d.items()]
     return "?" + "&".join(opts)
-    
+
+
+def cache(cache_id, value):
+    """
+    Don't scrape this url. Use this value instead.
+    """
+
+    scrape_db = connection.scraper
+    cache_collection = scrape_db.cache
+    cache_collection.insert({"": "" })
     
 
 
@@ -87,6 +100,7 @@ def scrape_url(url, refresh=False, encoding=None):
 
     scrape_db = connection.scraper
     pages_collection = scrape_db.pages
+
 
     if refresh is False:
         result = collection.find_one({"url": url })
