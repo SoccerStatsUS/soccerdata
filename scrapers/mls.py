@@ -9,6 +9,30 @@ from soccerdata.utils import scrape_soup, get_contents
 # Need to comment this!
 
 
+def scrape_all_stats():
+    """
+    Scrape all mls stats.
+    """
+    stats = []
+    for season_type in season_types:
+        for team_id in team_ids:
+            for year in years:
+                season = unicode(year)
+                url = 'http://www.mlssoccer.com/stats/season?season_year=%s&season_type=%s&team=%s' % (year, season_type, team_id)
+                stats.extend(scrape_team_stats(url, season, season_type))
+    return stats
+
+
+def scrape_all_games():
+    l = []
+    years = range(1996, 2011)
+    for year in years:
+        l.extend(scrape_games(year))
+    return l
+
+
+
+
 
 def get_all_players():
     """
@@ -60,12 +84,6 @@ def get_player_urls_from_page(url):
 
 
 
-def scrape_all_games():
-    l = []
-    years = range(1996, 2011)
-    for year in years:
-        l.extend(scrape_games(year))
-    return l
 
 def scrape_games(year):
     if year >= datetime.date.today().year:
@@ -234,19 +252,6 @@ def find_duplicates(lst):
     
             
 
-
-def scrape_all_stats():
-    """
-    Scrape all mls stats.
-    """
-    stats = []
-    for season_type in season_types:
-        for team_id in team_ids:
-            for year in years:
-                season = unicode(year)
-                url = 'http://www.mlssoccer.com/stats/season?season_year=%s&season_type=%s&team=%s' % (year, season_type, team_id)
-                stats.extend(scrape_team_stats(url, season, season_type))
-    return stats
 
 
 def scrape_team_stats(url, season, season_type):

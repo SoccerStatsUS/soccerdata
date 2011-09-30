@@ -162,7 +162,6 @@ def get_goals(filename):
             return []
 
 
-
         items = line.strip().split("\t")
         match_type, date_string, location, opponent, score, result, _, goals, lineups = items
         date = get_date(date_string)
@@ -210,7 +209,7 @@ def get_goals(filename):
                 'competition': get_competition(match_type),
                 'team': team_name,
                 'date': date,
-                'year': date.year,
+                'season': unicode(date.year),
                 'player': player,
                 'minute': minute,
                 }

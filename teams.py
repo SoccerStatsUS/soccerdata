@@ -16,6 +16,7 @@ teams = {
     'Philadelphia': 'Philadelphia Union',
     'San Jose': 'San Jose Earthquakes',
     'Seattle': 'Seattle Sounders',
+    'Tampa Bay': 'Tampa Bay Mutiny',
     'Toronto': 'Toronto FC',
     'Metrostars': 'New York Red Bulls',
     'MetroStars': 'New York Red Bulls',

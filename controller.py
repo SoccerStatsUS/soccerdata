@@ -145,38 +145,63 @@ def stats_dashboard():
     return render_template("stats_dashboard.html", **ctx)
 
 
-@app.route('/dashboard/mls')
-def mls_dashboard():
+@app.route('/d')
+def data():
+    coll = request.args['c']
+    ctx = {
+        'data':  soccer_db[coll].find(),
+        }
+    return render_template("data.html", **ctx)
+
+
+@app.route('/dashboard/<competition>')
+def mls_dashboard(competition):
 
     seasons = [str(e) for e in range(1996, 2011)]
 
     def get_year_list(coll, seasons):
         season_count = defaultdict(int)
-        for item in coll.find({'competition': 'MLS'}):
+        for item in coll.find({'competition': competition}):
             season = item['season']
             season_count[season] += 1
-        return [season_count.get(season, 0) for season in seasons]
+        return [(season, season_count.get(season, 0)) for season in seasons]
             
             
-    game_years = get_year_list(soccer_db.games, seasons)
-    #goal_years = get_year_list(soccer_db.goals, seasons)
-    stat_years = get_year_list(soccer_db.gstats, seasons)
-    lineup_years = get_year_list(soccer_db.lineups, seasons)
+    game_seasons = get_year_list(soccer_db.games, seasons)
+    goal_seasons = get_year_list(soccer_db.goals, seasons)
+    stat_seasons = get_year_list(soccer_db.gstats, seasons)
+    lineup_seasons = get_year_list(soccer_db.lineups, seasons)
+    standing_seasons = get_year_list(soccer_db.standings, seasons)
 
     ctx = {
-        'game_years': game_years,
-        #'goal_years': goal_years,
-        'stat_years': stat_years,
-        'lineup_years': lineup_years,
+        'game_seasons': game_seasons,
+        'goal_seasons': goal_seasons,
+        'stat_seasons': stat_seasons,
+        'lineup_seasons': lineup_seasons,
+        'standing_seasons': standing_seasons,
         'seasons': seasons,
-        'competition': 'MLS',
+        'competition': competition,
         }
 
     
     return render_template("mls_dashboard.html", **ctx)
 
+@app.route('/dashboard/scraper')
+def scraper_dashboard():
+    scrapers = ['mls', 'soccernet', 'cnnsi']
+    tables = ['games', 'goals', 'stats', 'lineups', 'standings']
 
+    def process_scraper(scraper):
+        table_names = ['%s_%s' % (scraper, table) for table in tables]
+        return [soccer_db[table_name].count() for table_name in table_names]
 
+    ctx = {
+        'mls_data': process_scraper('mls'),
+        'soccernet_data': process_scraper('cnnsi'),
+        'cnnsi_data': process_scraper('cnnsi'),
+        }
+
+    return render_template("scraper_dashboard.html", **ctx)
 
 
 @app.route("/dashboard")
@@ -212,16 +237,6 @@ def season_stats(season):
 
 
 
-@app.route("/standings/<competition>/<season>")
-def standings(competition, season):
-    standings = soccer_db.standings.find({"competition": competition, "season": season})
-    return render_template("standings.html", standings=standings, competition=competition, season=season)
-
-
-@app.route("/games/<competition>/<season>")
-def games(competition, season):
-    games = soccer_db.games.find({"competition": competition, "season": season}).sort("date", pymongo.ASCENDING)
-    return render_template("games.html", games=games, competition=competition, season=season)
 
 @app.route("/stats")
 def stats():
@@ -229,12 +244,25 @@ def stats():
     stats = soccer_db.stats.find(d).sort("name", pymongo.ASCENDING)
     return render_template("stats.html", stats=stats, request=d)
 
+@app.route("/standings")
+def standings():
+    d = dict([(k, v) for (k, v) in request.args.items()])
+    standings = soccer_db.standings.find(d).sort([("competition", pymongo.ASCENDING), ("season", pymongo.ASCENDING), ("name", pymongo.ASCENDING)])
+    return render_template("standings.html", standings=standings)
 
-@app.route("/goals/<competition>")
-def goals(competition):
-    import pymongo
-    goals = soccer_db.goals.find({"competition": competition}).sort([("date", pymongo.ASCENDING), ('minute', pymongo.ASCENDING)])
-    return render_template("goals.html", goals=goals, competition=competition)
+
+@app.route("/games")
+def games():
+    d = dict([(k, v) for (k, v) in request.args.items()])
+    games = soccer_db.games.find(d).sort("date", pymongo.ASCENDING)
+    return render_template("games.html", games=games)
+
+
+@app.route("/goals")
+def goals():
+    d = dict([(k, v) for (k, v) in request.args.items()])
+    goals = soccer_db.goals.find(d).sort("date", pymongo.ASCENDING)
+    return render_template("goals.html", goals=goals)
 
 
     

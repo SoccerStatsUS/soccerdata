@@ -37,6 +37,9 @@ def load_people():
     generic_load(soccer_db.chris_bios, bios.load_bios)
 
 
+def load_stats():
+    generic_load(soccer_db.stats, mls.scrape_all_stats)
+
 
 def load_games():
 
@@ -103,8 +106,6 @@ def load_lists():
     # MVP winners etc.
     pass
 
-def load_stats():
-    generic_load(soccer_db.stats, mls.scrape_all_stats)
 
 
 

@@ -14,26 +14,32 @@
 
   <tr>
     <td>Games</td>
-    {% for year in game_years %}
-    <td>{{ year }}</td>
+    {% for season, count in game_seasons %}
+    <td><a href="/games?competition={{ competition }}&season={{ season }}">{{ count }}</a></td>
     {% endfor %}
   </tr>
   <tr>
     <td>Goals</td>
-    {% for year in goal_years %}
-    <td>{{ year }}
+    {% for season, count in goal_seasons %}
+    <td><a href="/goals?competition={{ competition }}&season={{ season }}">{{ count }}</a></td>
     {% endfor %}
   </tr>  
   <tr>
     <td>Stats</td>
-    {% for year in stat_years %}
-    <td>{{ year }}
+    {% for season, count in stat_seasons %}
+    <td><a href="/stats?competition={{ competition }}&season={{ season }}">{{ count }}</a></td>
     {% endfor %}
   </tr>  
   <tr>
     <td>Lineups</td>
-    {% for year in lineup_years %}
-    <td>{{ year }}</td>
+    {% for season, count in lineup_seasons %}
+    <td><a href="/lineups?competition={{ competition }}&season={{ season }}">{{ count }}</a></td>
+    {% endfor %}
+  </tr>
+  <tr>
+    <td>Standings</td>
+    {% for season, count in standing_seasons %}
+    <td><a href="/standings?competition={{ competition }}&season={{ season }}">{{ count }}</a></td>
     {% endfor %}
   </tr>
 

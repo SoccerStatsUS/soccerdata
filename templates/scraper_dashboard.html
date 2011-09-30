@@ -1,0 +1,33 @@
+
+<table>
+  <tr>
+    <th></th>
+    <th>games</th>
+    <th>goals</th>
+    <th>stats</th>
+    <th>lineups</th>
+    <th>standingss</th>
+  </tr>
+
+  <tr>
+    <td>MLS</td>
+    {% for datum in mls_data %}
+    <td>{{ datum }}</td>
+    {% endfor %}
+  </tr>
+
+  <tr>
+    <td>soccernet</td>
+    {% for datum in soccernet_data %}
+    <td>{{ datum }}</td>
+    {% endfor %}
+  </tr>
+
+  <tr>
+    <td>cnnsi</td>
+    {% for datum in cnnsi_data %}
+    <td>{{ datum }}</td>
+    {% endfor %}
+  </tr>
+
+</table>
