@@ -72,14 +72,24 @@ INTERNATIONAL_COMPETITIONS = [
     ]
 
 
+
+
+@app.route('/d')
+def data():
+    coll = request.args['c']
+    ctx = {
+        'data':  soccer_db[coll].find(),
+        }
+    return render_template("data.html", **ctx)
+
+
+
+
 def get_competitions(coll):
     competitions = set()
     for e in coll.find():
         competitions.add(e['competition'])
     return sorted(competitions)
-
-def get_results_list(coll):
-    pass
 
 
 
@@ -144,18 +154,32 @@ def stats_dashboard():
 
     return render_template("stats_dashboard.html", **ctx)
 
+@app.route('/dashboard/scraper')
+def scraper_dashboard():
+    scrapers = ['mls', 'soccernet', 'cnnsi', 'scaryice', 'fbleague', 'fifa', 'mediotiempo', 'wiki']
+    tables = ['games', 'goals', 'stats', 'lineups', 'standings', 'bios']
 
-@app.route('/d')
-def data():
-    coll = request.args['c']
+    def process_scraper(scraper):
+        table_names = ['%s_%s' % (scraper, table) for table in tables]
+        return [soccer_db[table_name].count() for table_name in table_names]
+
     ctx = {
-        'data':  soccer_db[coll].find(),
+        'mls_data': process_scraper('mls'),
+        'soccernet_data': process_scraper('soccernet'),
+        'cnnsi_data': process_scraper('cnnsi'),
+        'scaryice_data': process_scraper('scaryice'),
+        'fbleague_data': process_scraper('fbleague'),
+        'fifa_data': process_scraper('fifa'),
+        'mediotiempo_data': process_scraper('mediotiempo'),
+        'wiki_data': process_scraper('wiki'),
         }
-    return render_template("data.html", **ctx)
+
+    return render_template("scraper_dashboard.html", **ctx)
+
 
 
 @app.route('/dashboard/<competition>')
-def mls_dashboard(competition):
+def competition_dashboard(competition):
 
     seasons = [str(e) for e in range(1996, 2011)]
 
@@ -186,22 +210,6 @@ def mls_dashboard(competition):
     
     return render_template("mls_dashboard.html", **ctx)
 
-@app.route('/dashboard/scraper')
-def scraper_dashboard():
-    scrapers = ['mls', 'soccernet', 'cnnsi']
-    tables = ['games', 'goals', 'stats', 'lineups', 'standings']
-
-    def process_scraper(scraper):
-        table_names = ['%s_%s' % (scraper, table) for table in tables]
-        return [soccer_db[table_name].count() for table_name in table_names]
-
-    ctx = {
-        'mls_data': process_scraper('mls'),
-        'soccernet_data': process_scraper('cnnsi'),
-        'cnnsi_data': process_scraper('cnnsi'),
-        }
-
-    return render_template("scraper_dashboard.html", **ctx)
 
 
 @app.route("/dashboard")

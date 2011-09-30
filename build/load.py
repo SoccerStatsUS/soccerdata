@@ -38,7 +38,7 @@ def load_people():
 
 
 def load_stats():
-    generic_load(soccer_db.stats, mls.scrape_all_stats)
+    generic_load(soccer_db.mls_stats, mls.scrape_all_stats)
 
 
 def load_games():
@@ -51,7 +51,7 @@ def load_games():
     #generic_load(soccer_db.world_cup_games, fifa.scrape_all_world_cup_games)
 
     # MLS soccer game results to 1996
-    generic_load(soccer_db.mlssoccer_games, mls.scrape_all_games)
+    generic_load(soccer_db.mls_games, mls.scrape_all_games)
     # MLS scores from 1996 to 2010
     generic_load(soccer_db.scaryice_games, lineups.load_all_games)
     # NASL scores for 2011
@@ -85,7 +85,7 @@ def load_goals():
 
 def load_lineups():
     # No lineups ready yet.
-    generic_load(soccer_db.lineups, lineups.load_all_lineups)
+    generic_load(soccer_db.scaryice_lineups, lineups.load_all_lineups)
 
 
 

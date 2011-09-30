@@ -49,13 +49,12 @@ def build():
     """
     Rebuild all site data.
     """
-    # Not sure we need ot reset the database.
 
+    mongo.soccer_db.drop()
+
+    # Load all data.
     load()
 
-    check()
-
-    # Need to figure out the order for this.
 
     # Merge is currently putting games into soccer_db.games
     merge()

@@ -1,3 +1,6 @@
+{% extends "base.html" %}
+
+{% block content %}
 
 <table>
   <tr>
@@ -6,7 +9,8 @@
     <th>goals</th>
     <th>stats</th>
     <th>lineups</th>
-    <th>standingss</th>
+    <th>standings</th>
+    <th>bios</th>
   </tr>
 
   <tr>
@@ -30,4 +34,43 @@
     {% endfor %}
   </tr>
 
+  <tr>
+    <td>scaryice</td>
+    {% for datum in scaryice_data %}
+    <td>{{ datum }}</td>
+    {% endfor %}
+  </tr>
+
+  <tr>
+    <td>fbleague</td>
+    {% for datum in fbleague_data %}
+    <td>{{ datum }}</td>
+    {% endfor %}
+  </tr>
+
+  <tr>
+    <td>fifa</td>
+    {% for datum in fifa_data %}
+    <td>{{ datum }}</td>
+    {% endfor %}
+  </tr>
+
+  <tr>
+    <td>mediotiempo</td>
+    {% for datum in mediotiempo_data %}
+    <td>{{ datum }}</td>
+    {% endfor %}
+  </tr>
+
+  <tr>
+    <td>wiki</td>
+    {% for datum in wiki_data %}
+    <td>{{ datum }}</td>
+    {% endfor %}
+  </tr>
+
+
 </table>
+
+
+{% endblock %}

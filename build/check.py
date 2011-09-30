@@ -2,6 +2,8 @@ from soccerdata import mongo
 
 import datetime
 
+# What is this for?
+
 def check():
     # Verify
     check_goals()
@@ -21,7 +23,8 @@ def check_games():
         'home_score',
         'away_score',
         'date',
-        'year',
+        'season',
+        'competition'
         ]
 
     for game in mongo.soccer_db.games.find():
