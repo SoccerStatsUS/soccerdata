@@ -27,11 +27,20 @@ def get_all_players():
     return urls.items()
 
 
+def scrape_player_bio(url):
+    soup = scrape_soup(url)
+    
+
+
 def get_player_urls_from_page(url):
     """
     Scrape player urls from a given page.
     """
-    soup = scrape_soup(url, static=False)
+    # Need to run this fresh sometimes to get new player urls.
+    # Could also potentially avoid this problem by scraping players
+    # from game stats.
+    
+    soup = scrape_soup(url) #, static=False)
 
     tds = soup.findAll("td", "mpl-player active")
     anchors = []
