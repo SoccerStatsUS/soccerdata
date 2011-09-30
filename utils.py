@@ -11,11 +11,14 @@ from BeautifulSoup import BeautifulSoup
 # Automate installation of mongo and redis?
 # Document!
 
-# These are meant to be site-wide utilities
+# Turn this into cacheing infrastructure.
 
 connection = pymongo.Connection()
-db = connection.scraper
-collection = db.pages
+
+# Should be connection.cache
+cache_db = connection.scraper
+
+# Should be db.page_cache
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 
@@ -41,14 +44,21 @@ def dict_to_str(d):
     return "?" + "&".join(opts)
 
 
-def cache(cache_id, value):
+def set_cache(cache_id, value):
     """
     Don't scrape this url. Use this value instead.
     """
+    cache_db.data_cache.insert({
+            "cache_id": cache_id,
+            "value": value
+            })
 
-    scrape_db = connection.scraper
-    cache_collection = scrape_db.cache
-    cache_collection.insert({"": "" })
+
+
+def get_cache(cache_id):
+    return cache_db.data_cache.find({
+            'cache_id': cache_id
+            })
     
 
 
@@ -87,9 +97,6 @@ def scrape_post_soup():
     return BeautifulSoup(data)
 
 
-    
-
-
 def scrape_url(url, refresh=False, encoding=None):
     """
     Scrape a url, or just use a version saved in mongodb.
@@ -98,12 +105,12 @@ def scrape_url(url, refresh=False, encoding=None):
     if encoding is None:
         encoding = 'utf-8'
 
-    scrape_db = connection.scraper
-    pages_collection = scrape_db.pages
+    # Should be cache_db.page_cache
+    pages_collection = cache_db.pages
 
 
     if refresh is False:
-        result = collection.find_one({"url": url })
+        result = pages_collection.find_one({"url": url })
     else:
         result = None
 
@@ -129,14 +136,10 @@ def scrape_url(url, refresh=False, encoding=None):
         data = data.replace("</SCRI' + 'PT>", "</SCRIPT>")
 
 
-
-
         # Oh shit! There was some bad unicode data in eu-football.info
         # Couldn't find an encoding so I'm just killing it.
         # Looked to be involved with goolge analytics.
         data = data.replace("\xf1\xee\xe7\xe4\xe0\xed\xee", "")
-
-
 
         # Save the data.
         unicode_data = data.decode(encoding)
