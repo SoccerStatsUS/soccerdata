@@ -33,6 +33,39 @@ file_mapping = {
     "TOR": u'Toronto FC',
  }    
 
+
+def load_all_games():
+    l = []
+    for key in file_mapping.keys():
+        fn = "%s.csv" % key
+        l.extend(get_scores(fn))
+
+    s = set()
+    for e in l:
+        s.add(tuple(sorted(e.items())))
+
+    return sorted([dict(e) for e in s])
+
+
+def load_all_goals():
+    l = []
+    for key in file_mapping.keys():
+        fn = "%s.csv" % key
+        l.extend(get_goals(fn))
+    return l
+
+
+def load_all_lineups():
+    l = []
+    for key in file_mapping.keys():
+        fn = "%s.csv" % key
+        l.extend(get_lineups(fn))
+    return l
+
+
+
+
+
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
 if os.path.exists("/home/chris/www/soccerdata/data/lineups/"):
@@ -117,25 +150,13 @@ def get_scores(fn):
     scores = [e for e in scores if e]
     return scores
 
-def load_all_games():
-    l = []
-    for key in file_mapping.keys():
-        fn = "%s.csv" % key
-        l.extend(get_scores(fn))
-
-    s = set()
-    for e in l:
-        s.add(tuple(sorted(e.items())))
-
-    return sorted([dict(e) for e in s])
 
 
 def get_goals(filename):
     
 
     def process_line(line):
-        if not line.strip():
-            return {}
+
 
         items = line.strip().split("\t")
         match_type, date_string, location, opponent, score, result, _, goals, lineups = items
@@ -174,8 +195,6 @@ def get_goals(filename):
                 if e.startswith(ng):
                     return {}
 
-            if not match:
-                import pdb; pdb.set_trace()
 
             try:
                 player = match.groups()[0]
@@ -206,15 +225,210 @@ def get_goals(filename):
     return l
 
 
-def load_all_goals():
+
+
+def get_lineups(filename):
+
+    # 3-tuples 
+    # [("Jason Kreis", 0, 90), ("Ariel Graziani", 0, 62), ("Bobby Rhine", 62, 90) ...
+
+    def preprocess_line(lineup_text):
+
+        replacements = [
+            ('Colin Clark (Herculez Gomez 46) Nicolas Hernandez (Roberto Brown 59)',
+             'Colin Clark (Herculez Gomez 46), Nicolas Hernandez (Roberto Brown 59)'),
+            ('Tom McManus (sent off 89 from bench) (Herculez Gomez 65)',
+             'Tom McManus (Herculez Gomez 65)',),
+            ('Ramiro Corrales (sent off 85th minute from bench) (Arturo Alvarez 62)',
+             'Ramiro Corrales (Arturo Alvarez 62)'),
+             
+            ]
+
+        s = lineup_text.strip()
+        for src, dst in replacements:
+            s = s.replace(src, dst)
+        return s
+            
+            
+            
+    
+
+    def process_line(line):
+        pline = preprocess_line(line)
+
+        if not pline:
+            return []
+
+
+        items = pline.strip().split("\t")
+        match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+
+        date = get_date(date_string)
+
+        def preprocess_lineups(lineups):
+            r = [
+                (';', ','), 
+                (':', ','), 
+                ('.', ''),
+                ('(sent off after final whistle)', ''),
+                ('sent off in shootout)', ''),
+                ('sent off during shootout', ''),
+                ('(Note Lubos Kubik sent off 74 from bench)', ''),
+                ('(Capt.)', ''),
+                ('(Capt)', ''),
+                ]
+
+            s = lineups
+            for src, dst in r:
+                s = s.replace(src, dst)
+            return s
+                
+
+
+        plineups = preprocess_lineups(lineups)
+        slots = [e for e in plineups.strip().split(",") if e]
+
+        def process_lineups(l):
+            return LineupProcessor(team_name, date).consume_rows(l)
+
+        #if len(slots) != 11:
+        #    print slots
+
+        return process_lineups(slots)
+        
+
+
+    p = os.path.join(LINEUPS_DIR, filename)
+         
+    team_name = file_mapping[filename.replace(".csv", '')]
+
     l = []
-    for key in file_mapping.keys():
-        fn = "%s.csv" % key
-        l.extend(get_goals(fn))
+    for line in open(p).readlines():
+        l.extend(process_line(line))
     return l
 
 
-        
+
+class LineupProcessor(object):
+    def __init__(self, team, date):
+        self.team = team
+        self.date = date
+
+        self.paren_depth = 0
+        self.lineups = []
+
+        self.previous_row = ""
+
+    def consume_row(self, row):
+        # This is an item that has been split by a comma.
+        open_parens = row.count("(")
+        closed_parens = row.count(")")
+        self.paren_depth = self.paren_depth + open_parens - closed_parens
+
+        if open_parens == 0 and closed_parens == 0:
+            return [{
+                'name': row,
+                'on': 0,
+                'off': 'end',
+                }]
+
+        if open_parens == 1 and closed_parens == 0:
+            self.previous_row = row
+            text = ''
+
+            
+        elif open_parens == 0 and closed_parens == 1:
+            text = self.previous_row + row
+
+
+        else:
+            text = row
+
+        m = re.search("(.*?)\((.*?)(\d+'?)\s*\+?\??\)", text)
+        if m:
+            self.previous_row = ''
+            starter, sub, minute = m.groups()
+            return [{
+                    'name': starter,
+                    'on': 0,
+                    'off': minute,
+                    },
+                    {
+                    'name': sub,
+                    'on': minute,
+                    'off': 'end',
+                    }]
+
+        m = re.search("(.*?)\((\d+)(.*?)\)", text)
+        if m:
+            self.previous_row = ''
+            starter, minute, sub = m.groups()
+            return [{
+                    'name': starter,
+                    'on': 0,
+                    'off': minute,
+                    },
+                    {
+                    'name': sub,
+                    'on': minute,
+                    'off': 'end',
+                    }]
+
+        m = re.search("(.*?)\((.*?)\?\?\?\)", text)
+        if m:
+            self.previous_row = ''
+            starter, sub = m.groups()
+            return [{
+                    'name': starter,
+                    'on': 0,
+                    'off': '?',
+                    },
+                    {
+                    'name': sub,
+                    'on': '?',
+                    'off': 'end',
+                    }]
+
+        m = re.search("(.*?)\((.*?)(\d+'?)\+?\)\s*\((.*?)(\d+)\+?\)", text)
+        if m:
+            starter, sub1, minute1, sub2, minute2 = m.groups()
+            return [{
+                    'name': starter,
+                    'on': 0,
+                    'off': minute1,
+                    },
+                    {
+                    'name': sub1,
+                    'on': minute1,
+                    'off': minute2,
+                    },
+                    {
+                    'name': sub2,
+                    'on': minute2,
+                    'off': 'end',
+                    }]
+
+
+        if text:
+            print text
+
+
+        return []
+
+            
+    def consume_rows(self, rows):
+        l = []
+        for row in rows:
+            lineups = self.consume_row(row)
+            for lineup in lineups:
+                lineup.update({
+                    'team': self.team,
+                    'date': self.date,
+                    })
+            l.extend(lineups)
+        return l
+                        
+                        
 
 
 
@@ -558,7 +772,7 @@ class Lineup(object):
 
 
 if __name__ == "__main__":
-    process_file(sys.argv[1])
+    print load_all_lineups()
             
         
             
