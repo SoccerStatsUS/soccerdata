@@ -31,9 +31,9 @@ def check_games():
             except:
                 print game
                 continue
-            assert(type(game['date']) == datetime.date)
-            assert(type(away_score) == int)
-            assert(type(home_score) == int)
+            #assert(type(game['date']) == datetime.date)
+            #assert(type(away_score) == int)
+            #assert(type(home_score) == int)
 
             
 

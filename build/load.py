@@ -17,16 +17,13 @@ def load():
     # Stadiums
 
     #load_people()
-    #load_games()
+    load_games()
     load_goals()
-    #load_lineups()
+    load_lineups()
     #load_salaries()
     #load_drafts()
     #load_lists()
     load_stats()
-
-
-
 
 def load_people():
     """
@@ -85,7 +82,8 @@ def load_goals():
 
 def load_lineups():
     # No lineups ready yet.
-    pass
+    generic_load(soccer_db.lineups, lineups.load_all_lineups)
+
 
 
 def load_salaries():

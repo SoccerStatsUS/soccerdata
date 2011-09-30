@@ -243,12 +243,13 @@ def scrape_all_stats():
     for season_type in season_types:
         for team_id in team_ids:
             for year in years:
+                season = unicode(year)
                 url = 'http://www.mlssoccer.com/stats/season?season_year=%s&season_type=%s&team=%s' % (year, season_type, team_id)
-                stats.extend(scrape_team_stats(url, year, season_type))
+                stats.extend(scrape_team_stats(url, season, season_type))
     return stats
 
 
-def scrape_team_stats(url, year, season_type):
+def scrape_team_stats(url, season, season_type):
     """
     Scrape team stats for a given year.
     season_type is playoff or regular.
@@ -282,8 +283,7 @@ def scrape_team_stats(url, year, season_type):
 
             stats.append({
                     'competition': competition,
-                    'year': year,
-                    'season': unicode(year),
+                    'season': season,
                     'name': name,
                     'team': get_team(team),
                     'position': position,

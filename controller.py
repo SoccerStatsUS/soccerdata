@@ -9,6 +9,8 @@ from flask.templating import TemplateNotFound
 
 #from flaskext.cache import Cache
 
+from collections import defaultdict
+
 import pymongo
 import mongo
 
@@ -142,6 +144,36 @@ def stats_dashboard():
 
     return render_template("stats_dashboard.html", **ctx)
 
+
+@app.route('/dashboard/mls')
+def mls_dashboard():
+
+    seasons = [str(e) for e in range(1996, 2011)]
+
+    def get_year_list(coll, seasons):
+        season_count = defaultdict(int)
+        for item in coll.find({'competition': 'MLS'}):
+            season = item['season']
+            season_count[season] += 1
+        return [season_count.get(season, 0) for season in seasons]
+            
+            
+    game_years = get_year_list(soccer_db.games, seasons)
+    #goal_years = get_year_list(soccer_db.goals, seasons)
+    stat_years = get_year_list(soccer_db.gstats, seasons)
+    lineup_years = get_year_list(soccer_db.lineups, seasons)
+
+    ctx = {
+        'game_years': game_years,
+        #'goal_years': goal_years,
+        'stat_years': stat_years,
+        'lineup_years': lineup_years,
+        'seasons': seasons,
+        'competition': 'MLS',
+        }
+
+    
+    return render_template("mls_dashboard.html", **ctx)
 
 
 

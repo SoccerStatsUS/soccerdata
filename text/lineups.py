@@ -156,11 +156,15 @@ def get_goals(filename):
     
 
     def process_line(line):
+        pline = line.strip()
+
+        if not pline:
+            return []
+
 
 
         items = line.strip().split("\t")
         match_type, date_string, location, opponent, score, result, _, goals, lineups = items
-        
         date = get_date(date_string)
 
         def process_goal(e):
@@ -216,6 +220,11 @@ def get_goals(filename):
         return [e for e in l if e]
 
     p = os.path.join(LINEUPS_DIR, filename)
+
+    # data = cache_get(p)
+    # if data is None:
+    #   cache_set(p, data)
+    # return data
          
     team_name = file_mapping[filename.replace(".csv", '')]
 
@@ -249,10 +258,6 @@ def get_lineups(filename):
             s = s.replace(src, dst)
         return s
             
-            
-            
-    
-
     def process_line(line):
         pline = preprocess_line(line)
 
@@ -260,10 +265,6 @@ def get_lineups(filename):
             return []
 
 
-        items = pline.strip().split("\t")
-        match_type, date_string, location, opponent, score, result, _, goals, lineups = items
-
-        date = get_date(date_string)
 
         def preprocess_lineups(lineups):
             r = [
@@ -282,17 +283,17 @@ def get_lineups(filename):
             for src, dst in r:
                 s = s.replace(src, dst)
             return s
-                
 
+        def process_lineups(l):
+            lp = LineupProcessor(team_name, date, get_competition(match_type))
+            return lp.consume_rows(l)
+                
+        items = pline.strip().split("\t")
+        match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+        date = get_date(date_string)
 
         plineups = preprocess_lineups(lineups)
         slots = [e for e in plineups.strip().split(",") if e]
-
-        def process_lineups(l):
-            return LineupProcessor(team_name, date).consume_rows(l)
-
-        #if len(slots) != 11:
-        #    print slots
 
         return process_lineups(slots)
         
@@ -310,9 +311,10 @@ def get_lineups(filename):
 
 
 class LineupProcessor(object):
-    def __init__(self, team, date):
+    def __init__(self, team, date, competition):
         self.team = team
         self.date = date
+        self.competition = competition
 
         self.paren_depth = 0
         self.lineups = []
@@ -424,6 +426,8 @@ class LineupProcessor(object):
                 lineup.update({
                     'team': self.team,
                     'date': self.date,
+                    'season': unicode(self.date.year),
+                    'competition': self.competition,
                     })
             l.extend(lineups)
         return l

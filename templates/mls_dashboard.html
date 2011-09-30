@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{{ competition }}
+
+<table>
+  <tr>
+    <th></th>
+    {% for season in seasons %}
+    <th>{{ season }}</th>
+    {% endfor %}
+  </tr>
+
+  <tr>
+    <td>Games</td>
+    {% for year in game_years %}
+    <td>{{ year }}</td>
+    {% endfor %}
+  </tr>
+  <tr>
+    <td>Goals</td>
+    {% for year in goal_years %}
+    <td>{{ year }}
+    {% endfor %}
+  </tr>  
+  <tr>
+    <td>Stats</td>
+    {% for year in stat_years %}
+    <td>{{ year }}
+    {% endfor %}
+  </tr>  
+  <tr>
+    <td>Lineups</td>
+    {% for year in lineup_years %}
+    <td>{{ year }}</td>
+    {% endfor %}
+  </tr>
+
+    
+</table>
+
+
+{% endblock %}
