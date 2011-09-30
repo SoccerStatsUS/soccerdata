@@ -20,13 +20,14 @@ soccer_db = mongo.soccer_db
 
 app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
-#cache = Cache(app)
+
 
 
     
 @app.route("/")
 def index():
     return render_template("index.html")
+
 
 # What do we really want from these pages?
 
@@ -74,6 +75,8 @@ INTERNATIONAL_COMPETITIONS = [
 
 
 
+
+
 @app.route('/d')
 def data():
     coll = request.args['c']
@@ -82,56 +85,6 @@ def data():
         }
     return render_template("data.html", **ctx)
 
-
-
-
-def get_competitions(coll):
-    competitions = set()
-    for e in coll.find():
-        competitions.add(e['competition'])
-    return sorted(competitions)
-
-
-
-def get_years_generic(coll):
-    
-    years = set(YEARS) # Unnecessary
-
-    result = {}
-    for name in DOMESTIC_COMPETITIONS:
-        s = set()
-        r = coll.find({'competition': name})
-        for e in r:
-            year = e['year']
-            if year in years:
-                s.add(year)
-
-        result[name] = list(s)
-        
-    # This part is not necessary.
-    t = sorted([(k, sorted(v)) for (k, v) in result.items()])
-    return t
-
-
-
-def get_goal_years():
-    return get_years_generic(soccer_db.goals)
-
-def get_game_years():
-    return get_years_generic(soccer_db.games)
-
-#def get_standing_years():
-#    return get_years_generic(soccer_db.standings)
-
-
-def get_stat_years():
-    return get_years_generic(soccer_db.stats)
-
-def get_lineup_years():
-    return get_years_generic(soccer_db.lineups)
-
-def get_bios():
-    return soccer_db.find().sort([("birthdate", pymongo.ASCENDING), ('minute', pymongo.ASCENDING)])
 
 @app.route("/dashboard/stats")
 def stats_dashboard():
@@ -153,6 +106,7 @@ def stats_dashboard():
             
 
     return render_template("stats_dashboard.html", **ctx)
+
 
 @app.route('/dashboard/scraper')
 def scraper_dashboard():
@@ -176,7 +130,6 @@ def scraper_dashboard():
         }
 
     return render_template("scraper_dashboard.html", **ctx)
-
 
 
 @app.route('/dashboard/<competition>')
@@ -212,41 +165,6 @@ def competition_dashboard(competition):
     return render_template("mls_dashboard.html", **ctx)
 
 
-
-@app.route("/dashboard")
-def dashboard():
-
-    #competition_and_seasons = "MLS" + get_seasons(soccer_db.games.find({"competition": "MLS"}))
-    
-
-
-    ctx = {
-        #'competition_and_seasons': competition_and_seasons,
-        #'results_list': results_list,
-        'years': YEARS,
-        'game_years': get_game_years(),
-        #'standing_years': get_standing_years(),
-        'goal_years': get_goal_years(),
-        'stat_years': get_stat_years(),
-        'lineup_years': get_lineup_years(),
-        }
-    
-    return render_template("dashboard.html", **ctx)
-
-
-@app.route("/stats/<season>")
-def season_stats(season):
-
-    stats = soccer_db.stats.find({"season": season}).sort("name", pymongo.ASCENDING)
-    ctx = {
-        'stats': stats,
-        'season': season
-        }
-    return render_template("stats.html", **ctx)
-
-
-
-
 @app.route("/stats")
 def stats():
     d = dict([(k, v) for (k, v) in request.args.items()])
@@ -274,27 +192,6 @@ def goals():
     return render_template("goals.html", goals=goals)
 
 
-    
-
-
-
-@app.route("/g/nasl")
-def nasl():
-    rows = mongo.get_rows(soccer_db.nasl_scores)
-    return render_template("game.html", rows=rows)    
-
-@app.route("/g/mls")
-def mls():
-    rows = mongo.get_rows(soccer_db.mlssoccer_mls_games)
-    return render_template("game.html", rows=rows)    
-
-
-@app.route("/g/australia")
-def australia():
-    rows = mongo.get_rows(soccer_db.mlssoccer_mls_games)
-    return render_template("game.html", rows=rows)    
-
-
 @app.route("/<url>")
 def flatpage(url):
     if url.endswith("/"):
@@ -305,6 +202,7 @@ def flatpage(url):
         return render_template(template)
     except TemplateNotFound:
         return render_template("404.html")
+
 
 
 if __name__ == "__main__":
