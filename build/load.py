@@ -34,7 +34,11 @@ def load_people():
     # cnnsi bios.
     # soccernet bios
 
+    print "Loading text bios."
     generic_load(soccer_db.chris_bios, bios.load_bios)
+
+    print "Loading active MLS players"
+    generic_load(soccer_db.mls_bios, mls.scrape_active_players)
 
 
 def load_stats():
@@ -48,7 +52,7 @@ def load_games():
     #generic_load(soccer_db.world_cup_games, statto.scrape_all_games)
 
     # World cups 1930 to 2006
-    #generic_load(soccer_db.world_cup_games, fifa.scrape_all_world_cup_games)
+    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
 
     # MLS soccer game results to 1996
     generic_load(soccer_db.mls_games, mls.scrape_all_games)
@@ -76,9 +80,7 @@ def load_games():
 
 def load_goals():
 
-    # Working:
-    #generic_load(soccer_db.world_cup_goals, fifa.scrape_all_world_cup_goals)
-
+    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
     generic_load(soccer_db.scaryice_goals, lineups.load_all_goals)
 
 

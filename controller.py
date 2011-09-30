@@ -168,6 +168,7 @@ def scraper_dashboard():
         'soccernet_data': process_scraper('soccernet'),
         'cnnsi_data': process_scraper('cnnsi'),
         'scaryice_data': process_scraper('scaryice'),
+        'chris_data': process_scraper('chris'),
         'fbleague_data': process_scraper('fbleague'),
         'fifa_data': process_scraper('fifa'),
         'mediotiempo_data': process_scraper('mediotiempo'),

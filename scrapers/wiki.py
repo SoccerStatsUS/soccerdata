@@ -23,6 +23,44 @@ from soccerdata.utils import get_contents, scrape_url
 
 #OH SHIT NEW WIKI SCRAPING ON THE WAY.
 
+
+# This ain't good.    
+
+
+world_cup_years = [
+    1930,
+    1934,
+    1938,
+    1950,
+    1954,
+    1958,
+    1962,
+    1966,
+    1970,
+    1974,
+    1978,
+    1982,
+    1986,
+    1990,
+    1994,
+    1998,
+    2002,
+    2006,
+    2010,
+    ]
+
+def scrape_world_cup_players():
+    # Need to get player urls!
+    l = []
+    for year in world_cup_years:
+        url = 'http://en.wikipedia.org/wiki/%s_FIFA_World_Cup_squads' % year
+        # This is out of date since it uses html instead of text.
+        players = scrape_player_tables(url)
+        l.extend(players)
+    return l
+
+
+
 def scrape_new(query):
     url = 'http://en.wikipedia.org/w/api.php?format=json&action=query&titles=%s&rvprop=content&prop=revisions' % query
     response = json.loads(scrape_url(url))
@@ -86,9 +124,6 @@ def process_value(value):
             'link': processed,
             }
 
-
-
-
     date_re = re.search("Start date and years ago\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value)
     if date_re:
         year, month, day = [int(e) for e in date_re.groups()]
@@ -108,9 +143,6 @@ def process_value(value):
         return cm + (100 * m)
     
                              
-
-
-
     # ' Real Madrid Club de F\xfatbol<ref name="Real Madrid Club de F\xfatbol"/>
     ref_m = re.search("(?P<text>.*?<.*?>)", value)
     if ref_m:
@@ -119,8 +151,6 @@ def process_value(value):
 
     return value.strip()
         
-
-
 
 def get_categories(lines):
     categories = []
@@ -251,30 +281,7 @@ def sc():
         
 
     
-# This ain't good.    
 
-
-world_cup_years = [
-    1930,
-    1934,
-    1938,
-    1950,
-    1954,
-    1958,
-    1962,
-    1966,
-    1970,
-    1974,
-    1978,
-    1982,
-    1986,
-    1990,
-    1994,
-    1998,
-    2002,
-    2006,
-    2010,
-    ]
 
 
 
@@ -353,14 +360,6 @@ def scrape_player_table(soup):
     return [e for e in players if e]
 
 
-def scrape_world_cup_players():
-    # Need to get player urls!
-    l = []
-    for year in world_cup_years:
-        url = 'http://en.wikipedia.org/wiki/%s_FIFA_World_Cup_squads' % year
-        players = scrape_player_tables(url)
-        l.extend(players)
-    return l
         
 
 

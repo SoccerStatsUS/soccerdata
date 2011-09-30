@@ -50,7 +50,7 @@ def build():
     Rebuild all site data.
     """
 
-    mongo.soccer_db.drop()
+    #mongo.soccer_db.drop()
 
     # Load all data.
     load()
