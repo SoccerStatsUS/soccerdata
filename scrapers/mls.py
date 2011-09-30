@@ -9,6 +9,17 @@ from soccerdata.utils import scrape_soup, get_contents
 # Need to comment this!
 
 
+def scrape_all_bios():
+    bios = {}
+    stats = scrape_all_stats()
+    for stat in stats:
+        url = stat['url']
+        if url and url not in bios:
+            bios[url] = scrape_player_bio(url)
+
+    return bios.value()
+
+
 def scrape_all_stats():
     """
     Scrape all mls stats.
@@ -33,27 +44,57 @@ def scrape_all_games():
 
 
 
+def scrape_active_players():
+    l = []
+    for url, name in scrape_active_player_urls():
+        full_url = "http://mlssoccer.com%s" % url
+        l.append(scrape_player_bio(full_url))
+    return l
+        
 
-def get_all_players():
+def scrape_active_player_urls():
     """
     Get urls for all player bios.
     """
-    players_url = "http://www.mlssoccer.com/players/%s/%s"
+    letters = 'abcdefghijklmnopqrstuvwxyz'
+    players_url = "http://www.mlssoccer.com/players/%s"
     urls = {}
     for letter in letters:
-        # Count up until we get no urls.
-        for n in itertools.count(1):
-            url = players_url % (letter, n)
-            d = get_player_urls_from_page(url)
-            urls.update(d)
-            if d == {}:
-                break
-    return urls.items()
+        url = players_url % letter
+        d = get_player_urls_from_page(url)
+        urls.update(d)
+    return sorted(urls.items())
 
 
 def scrape_player_bio(url):
-    soup = scrape_soup(url)
-    
+    soup = scrape_soup(url, sleep=5)
+
+    name = get_contents(soup.find("div", "header_title").find("h1"))
+
+    fields = [get_contents(e) for e in soup.find("div", "player-info").findAll("li")]
+    d = dict([e.strip().split(":") for e in fields])
+
+    height = weight = birthdate = birthplace = None
+
+    if "Height" in d:
+        height = d['Height']
+        
+    if 'Weight' in d:
+        weight = d['Weight']
+
+    if 'Birth Date' in d:
+        birthdate = d['Birth Date']
+
+    if 'Birthplace' in d:
+        birthplace = d['Birthplace']
+
+    return {
+        'name': name,
+        'height': height,
+        'weight': weight,
+        'birthdate': birthdate,
+        'birthplace': birthplace,
+        }
 
 
 def get_player_urls_from_page(url):
@@ -66,21 +107,16 @@ def get_player_urls_from_page(url):
     
     soup = scrape_soup(url) #, static=False)
 
-    tds = soup.findAll("td", "mpl-player active")
-    anchors = []
-    for td in tds:
-        anchors.extend(td.findAll("a"))
-    d = {}
-    for e in anchors:
-        # Probably need to do this better.
-        try:
-            key = str(e.contents[0])
-            value = str(e['href']).split("/")[-1]
-            d[key] = value
-        except UnicodeEncodeError:
-            print str(e['href'])
-    return d
+    try:
+        link_name_tuples = [(a['href'], get_contents(a)) for a in soup.find("div", "view-content").find("table").find("tbody").findAll("a")]
+    except AttributeError:
+        # Something was probably a NoneType
+        return []
 
+    # Filter out twitter links.
+    link_name_tuples = [e for e in link_name_tuples if e[1]]
+
+    return dict(link_name_tuples)
 
 
 
@@ -286,10 +322,19 @@ def scrape_team_stats(url, season, season_type):
             fields = [get_contents(e) for e in tr.findAll("td")]
             name, team, position, games_played, games_started, minutes, goals, assists, shots, shots_on_goal, _,_,_,_,_,_ = fields
 
+            a = tr.find("a")
+            if a:
+                url = a['href']
+                full_url = "http://mlssoccer.com" + url
+            else:
+                full_url = ''
+
+
             stats.append({
                     'competition': competition,
                     'season': season,
                     'name': name,
+                    'url': full_url,
                     'team': get_team(team),
                     'position': position,
                     'games_started': games_started,
@@ -355,4 +400,11 @@ stat_mapping = {
     'YC': "yellow_cards",
     "RC": "red_cards",
     }
+
+
+
+if __name__ == "__main__":
+    print scrape_player_bio('http://www.mlssoccer.com/players/eddie-ababio')
+    print scrape_active_players()
+    print scrape_all_bios()
 
