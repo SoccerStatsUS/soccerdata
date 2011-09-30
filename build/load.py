@@ -106,5 +106,9 @@ def load_lists():
     pass
 
 def load_stats():
-    generic_load(soccer_db.mls_stats, mls.scrape_all_stats)
+    generic_load(soccer_db.stats, mls.scrape_all_stats)
 
+
+
+if __name__ == "__main__":
+    load()

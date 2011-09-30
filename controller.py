@@ -9,6 +9,7 @@ from flask.templating import TemplateNotFound
 
 #from flaskext.cache import Cache
 
+import pymongo
 import mongo
 
 soccer_db = mongo.soccer_db
@@ -120,6 +121,28 @@ def get_lineup_years():
 def get_bios():
     return soccer_db.find().sort([("birthdate", pymongo.ASCENDING), ('minute', pymongo.ASCENDING)])
 
+@app.route("/dashboard/stats")
+def stats_dashboard():
+    years = range(1996, 2011)
+    mls_games = soccer_db.stats.find({'competition': 'MLS' })
+    teams = sorted(set([e['team'] for e in mls_games]))
+
+    def get_team_years(team):
+
+        team_years = sorted(set([e['year'] for e in soccer_db.stats.find({'competition': 'MLS', 'team': team})]))
+        return [(year in team_years and year) for year in years]
+
+    team_years = [(team, get_team_years(team)) for team in teams]
+
+    ctx = {
+        'team_years': team_years,
+        'years': years,
+        }
+            
+
+    return render_template("stats_dashboard.html", **ctx)
+
+
 
 
 
@@ -145,6 +168,16 @@ def dashboard():
     return render_template("dashboard.html", **ctx)
 
 
+@app.route("/stats/<season>")
+def season_stats(season):
+
+    stats = soccer_db.stats.find({"season": season}).sort("name", pymongo.ASCENDING)
+    ctx = {
+        'stats': stats,
+        'season': season
+        }
+    return render_template("stats.html", **ctx)
+
 
 
 @app.route("/standings/<competition>/<season>")
@@ -155,15 +188,14 @@ def standings(competition, season):
 
 @app.route("/games/<competition>/<season>")
 def games(competition, season):
-    import pymongo
     games = soccer_db.games.find({"competition": competition, "season": season}).sort("date", pymongo.ASCENDING)
     return render_template("games.html", games=games, competition=competition, season=season)
 
-@app.route("/stats/<competition>/<season>")
-def stats(competition, season):
-    import pymongo
-    stats = soccer_db.stats.find({"competition": competition, "season": season}).sort("name", pymongo.ASCENDING)
-    return render_template("stats.html", stats=stats, competition=competition, season=season)
+@app.route("/stats")
+def stats():
+    d = dict([(k, v) for (k, v) in request.args.items()])
+    stats = soccer_db.stats.find(d).sort("name", pymongo.ASCENDING)
+    return render_template("stats.html", stats=stats, request=d)
 
 
 @app.route("/goals/<competition>")

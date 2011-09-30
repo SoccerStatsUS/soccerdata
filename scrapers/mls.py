@@ -6,18 +6,8 @@ from BeautifulSoup import BeautifulSoup
 from soccerdata.teams import get_team
 from soccerdata.utils import scrape_soup, get_contents
 
-
-
-
 # Need to comment this!
 
-
-def to_int(s):
-    s = s.replace(",", '')
-    if s:
-        return int(s)
-    else:
-        return 0
 
 
 def get_all_players():
@@ -237,39 +227,51 @@ def find_duplicates(lst):
 
 
 def scrape_all_stats():
+    """
+    Scrape all mls stats.
+    """
     stats = []
     for season_type in season_types:
         for team_id in team_ids:
             for year in years:
                 url = 'http://www.mlssoccer.com/stats/season?season_year=%s&season_type=%s&team=%s' % (year, season_type, team_id)
-                stats.extend(scrape_stats(url, year, season_type))
+                stats.extend(scrape_team_stats(url, year, season_type))
     return stats
 
 
-def scrape_stats(url, year, season_type):
+def scrape_team_stats(url, year, season_type):
+    """
+    Scrape team stats for a given year.
+    season_type is playoff or regular.
+    """
     
-    # This should actually be round.
     if season_type == "PS":
-        competition = "MLS Postseason"
+        competition = 'MLS Playoffs'
     else:
-        competition = "MLS"
+        competition = 'MLS'
 
 
     soup = scrape_soup(url)
+    
+    # Can't find a stats table.
     stats_table = soup.find("div", "stats-table")
     if not stats_table:
+        print "No stats table: %s" % url
         return []
 
+    # Can't find rows.
     stats_trs = stats_table.findAll("tr")
     if len(stats_trs) == 0:
+        print "No rows: %s" % url
         return []
+
     else:
-        l = []
+        stats = []
         for tr in stats_trs[1:]: #Skip header.
             fields = [get_contents(e) for e in tr.findAll("td")]
             name, team, position, games_played, games_started, minutes, goals, assists, shots, shots_on_goal, _,_,_,_,_,_ = fields
 
-            l.append({
+            stats.append({
                     'competition': competition,
                     'year': year,
                     'season': unicode(year),
@@ -285,7 +287,7 @@ def scrape_stats(url, year, season_type):
                     'shots_on_goal': shots_on_goal,
                 })
 
-    return l
+    return stats
 
 
 
@@ -353,6 +355,14 @@ def team_stats(team):
         for stat in stats:
             print stat
             parse_stat(stat)
+
+
+def to_int(s):
+    s = s.replace(",", '')
+    if s:
+        return int(s)
+    else:
+        return 0
 
 
 
