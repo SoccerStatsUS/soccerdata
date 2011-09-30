@@ -21,6 +21,15 @@ def scrape_jornadas(url):
 
 
 
+def scrape_player(soup):
+
+    import pdb; pdb.set_trace()
+    x = 5
+    
+    
+
+
+
 
 """
 AAAAHHHHHHHHHHHHHHHH
@@ -107,4 +116,9 @@ def parse_data(html):
             l.append(d)
 
     return l
+    
+if __name__ == "__main__":
+    url = 'http://www.mediotiempo.com/jugador/marco-antonio-palacios'
+    soup = scrape_soup(url, encoding='iso_8859_1')
+    scrape_player(soup)
     
