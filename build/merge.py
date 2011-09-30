@@ -11,12 +11,22 @@ def merge():
 
 
 
+
 def merge_games():
     soccer_db.games.drop()
     merge_mls()
     #merge_nasl()
     merge_fbleague()
     merge_aleague()
+
+def merge_goals():
+    soccer_db.goals.drop()
+    insert_rows(soccer_db.goals, soccer_db.scaryice_goals.find())
+
+def merge_stats():
+    soccer_db.stats.drop()
+    insert_rows(soccer_db.stats, soccer_db.mls_stats.find())
+
 
 
 def merge_fbleague():
@@ -43,11 +53,6 @@ def merge_nasl():
 def merge_aleague():
     insert_rows(soccer_db.games, soccer_db.aleague_games.find())    
 
-def merge_goals():
-    insert_rows(soccer_db.goals, soccer_db.scaryice_goals.find())
-
-def merge_stats():
-    insert_rows(soccer_db.stats, soccer_db.mls_stats.find())
 
 
 if __name__ == "__main__":

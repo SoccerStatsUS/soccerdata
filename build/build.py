@@ -50,7 +50,7 @@ def build():
     Rebuild all site data.
     """
     # Not sure we need ot reset the database.
-    reset_database()
+
     load()
 
     check()
@@ -63,13 +63,6 @@ def build():
     # Generate needs to come after merge.
     generate()
 
-
-def reset_database():
-    """
-    Drop the old database.
-    """
-    print "Dropping database."
-    mongo.connection.drop_database(mongo.soccer_db)
 
 
 
