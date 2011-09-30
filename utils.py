@@ -2,6 +2,7 @@ import bson
 import pymongo
 import random
 import requests
+import time
 import urllib2
 
 from BeautifulSoup import BeautifulSoup
@@ -90,7 +91,7 @@ def scrape_post_soup():
     
 
 
-def scrape_url(url, refresh=False, encoding=None):
+def scrape_url(url, refresh=False, encoding=None, sleep=0):
     """
     Scrape a url, or just use a version saved in mongodb.
     """
@@ -108,6 +109,7 @@ def scrape_url(url, refresh=False, encoding=None):
         result = None
 
     if result is None:
+        time.sleep(sleep)
         print "downloading %s" % url
         # Work on this logic.
         
