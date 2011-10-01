@@ -45,7 +45,8 @@ def scrape_scoreboards_from_scoreboard(soup):
         return [full_url]
 
     soup = scrape_soup(full_url, encoding='iso_8859_1', sleep=10)
-    return [full_url] + scrape_scoreboards_from_scoreboard(soup)
+    scrape_scoreboards_from_scoreboard(soup)
+    #return [full_url] + scrape_scoreboards_from_scoreboard(soup)
 
 
 
@@ -144,11 +145,14 @@ if __name__ == "__main__":
     #url = 'http://soccernet.espn.go.com/scores?date=20110915&league=uefa.europa&cc=5901&xhr=1'
     url = 'http://soccernet.espn.go.com/scores?date=20110920&league=conmebol.libertadores&cc=5901&xhr=1'
     url = 'http://soccernet.espn.go.com/scores?date=20111002&league=usa.1&cc=5901&xhr=1'
-    url = 'http://soccernet.espn.go.com/scores?date=20110926&league=eng.1&cc=5901&xhr=1'
-    url = 'http://soccernet.espn.go.com/scores?date=20080313&league=conmebol.libertadores&cc=5901&xhr=1'
+    #url = 'http://soccernet.espn.go.com/scores?date=20110926&league=eng.1&cc=5901&xhr=1'
+    #url = 'http://soccernet.espn.go.com/scores?date=20080313&league=conmebol.libertadores&cc=5901&xhr=1'
+    url = 'http://soccernet.espn.go.com/scores?date=20080313&league=bra.1&cc=5901&xhr=1'
     soup = scrape_soup(url, encoding='iso_8859_1')
 
     score_urls = scrape_scoreboards_from_scoreboard(soup)
+
+    """
     games = []
     for url in score_urls:
         soup = scrape_soup(url, encoding='iso_8859_1')
@@ -161,5 +165,6 @@ if __name__ == "__main__":
         goals.extend(scrape_live_goals(soup))
 
     print goals
+    """
 
     

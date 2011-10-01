@@ -1,10 +1,12 @@
 import datetime
+import hashlib
 import itertools
 
 from BeautifulSoup import BeautifulSoup
 
 from soccerdata.teams import get_team
 from soccerdata.utils import scrape_soup, get_contents
+from soccerdata.utils import get_cache, set_cache
 
 # Need to comment this!
 
@@ -35,10 +37,16 @@ def scrape_all_stats():
 
 
 def scrape_all_games():
+    l = get_cache("mls_all_games")
+    if l:
+        return l
+
     l = []
     years = range(1996, 2011)
     for year in years:
         l.extend(scrape_games(year))
+
+    set_cache("mls_all_games", l)
     return l
 
 
@@ -67,9 +75,18 @@ def scrape_active_player_urls():
 
 
 def scrape_player_bio(url):
+    data = get_cache(url)
+    if data:
+        print "retrieved %s from data cache" % url
+        return data
+
     soup = scrape_soup(url, sleep=5)
 
-    name = get_contents(soup.find("div", "header_title").find("h1"))
+
+    try:
+        name = get_contents(soup.find("div", "header_title").find("h1"))
+    except:
+        import pdb; pdb.set_trace()
 
     fields = [get_contents(e) for e in soup.find("div", "player-info").findAll("li")]
     d = dict([e.strip().split(":") for e in fields])
@@ -88,13 +105,17 @@ def scrape_player_bio(url):
     if 'Birthplace' in d:
         birthplace = d['Birthplace']
 
-    return {
+    data =  {
         'name': name,
         'height': height,
         'weight': weight,
         'birthdate': birthdate,
         'birthplace': birthplace,
         }
+
+    
+    set_cache(url, data)
+    return data
 
 
 def get_player_urls_from_page(url):
@@ -295,6 +316,12 @@ def scrape_team_stats(url, season, season_type):
     Scrape team stats for a given year.
     season_type is playoff or regular.
     """
+
+    key = hashlib.md5(unicode((url, season, season_type))).hexdigest()
+    stats = get_cache(key)
+    if stats is not None:
+        return stats
+        
     
     if season_type == "PS":
         competition = 'MLS Playoffs'
@@ -308,6 +335,7 @@ def scrape_team_stats(url, season, season_type):
     stats_table = soup.find("div", "stats-table")
     if not stats_table:
         print "No stats table: %s" % url
+        set_cache(key, [])
         return []
 
     # Can't find rows.
@@ -346,6 +374,8 @@ def scrape_team_stats(url, season, season_type):
                     'shots_on_goal': shots_on_goal,
                 })
 
+
+    set_cache(key, stats)
     return stats
 
 

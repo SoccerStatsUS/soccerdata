@@ -32,6 +32,9 @@ def generate_standings():
         standings = get_standings(games, competition, season)
         insert_rows(soccer_db.standings, standings)
 
+    import pdb; pdb.set_trace()
+    x = 5
+
 
 def generate_stats():
     pass

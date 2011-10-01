@@ -1,11 +1,12 @@
 
 # Projects.
 
+-2. cacheing decorator?
 -1. Completely remove year.
 0. Use stats to get names.
 0. Batch processing using AWS.
 0. Deploy entire thing to AWS.
-0. Add my old MLS stats; scrape cnnsi stats.
+0. Add my old MLS stats
 1. Reorganize player scrapers.
 1. Strengthen wiki scraper and canvass team, player data.
 2. Generate all standings.

@@ -5,7 +5,9 @@ import re
 
 from BeautifulSoup import BeautifulSoup
 
-from soccerdata.utils import scrape_url, get_contents
+from soccerdata.utils import scrape_url, get_contents, get_cache, set_cache
+
+import hashlib
 
 url = "http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3051/report.html"
 
@@ -81,6 +83,13 @@ def scrape_world_cup_game(url, competition):
     """
     Returns a 
     """
+
+    key = hashlib.md5(unicode((url, competition))).hexdigest()
+    result = get_cache(key)
+    if result:
+        print "Scraped %s" % url
+        return result
+
     data = scrape_url(url)
     data = data.split("<h2>Advertisement</h2>")[0]
     soup = BeautifulSoup(data)
@@ -102,7 +111,7 @@ def scrape_world_cup_game(url, competition):
     else:
         raise
 
-    return {
+    result = {
         "home_team": unicode(home_team),
         "away_team": unicode(away_team),
         "score": unicode(score),
@@ -113,6 +122,8 @@ def scrape_world_cup_game(url, competition):
         "competition": competition,
         "url": url,
         }
+    set_cache(key, result)
+    return result
 
 
 
@@ -129,6 +140,11 @@ def scrape_world_cup_goals(url):
     """
     # This needs a url or some way to identify the game.
 
+    key = hashlib.md5(unicode(("goals", url))).hexdigest()
+    result = get_cache(key)
+    if result:
+        return result
+
     data = scrape_url(url)
     data = data.split("<h2>Advertisement</h2>")[0]
     soup = BeautifulSoup(data)
@@ -138,7 +154,9 @@ def scrape_world_cup_goals(url):
     goals = [goal_replace.get(e, e) for e in goals]
 
     goal_re = re.compile("^(?P<name>.*?) \((?P<team>[A-Z]+)\) (?P<minute>\d+)'")
-    return [goal_re.search(s.strip()).groupdict() for s in goals]
+    result = [goal_re.search(s.strip()).groupdict() for s in goals]
+    set_cache(key, result)
+    return result
     
 
 # These don't get used.

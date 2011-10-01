@@ -16,8 +16,19 @@ class Standing(object):
         self.wins = self.get_wins(games)
         self.losses = self.get_losses(games)
         self.ties = self.get_ties(games)
+        self.points = self.get_points(games)
         self.goals_for = self.get_for(games)
         self.goals_against = self.get_against(games)
+
+    def get_points(self, games):
+        d = {}
+        ties = self.get_ties(games)
+        wins = self.get_wins(games)
+        for key in wins:
+            points = wins[key] + ties[key]
+            d[key] = points
+        return d
+            
 
 
     def get_results(self, games):
@@ -70,12 +81,12 @@ class Standing(object):
     def standings(self):
         s = set()
         for team in sorted(self.wins.keys()):
-            header = ["name", "wins", "losses", "ties", "goals_for", "goals_against", 'competition', 'season']
+            header = ["name", "wins", "losses", "ties", "points", "goals_for", "goals_against", 'competition', 'season']
             t = (team, self.wins[team], self.losses[team], self.ties[team], self.goals_for[team], self.goals_against[team], self.competition, self.season)
             d = dict(zip(header, t))
             s.add(tuple(sorted(d.items())))
 
-        return sorted([dict(e) for e in s], key=lambda d: -d['wins'])
+        return sorted([dict(e) for e in s], key=lambda d: -d['points'])
 
     def print_standings(self):
         print "\n\n\n"

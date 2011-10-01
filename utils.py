@@ -17,7 +17,9 @@ from BeautifulSoup import BeautifulSoup
 connection = pymongo.Connection()
 
 # Should be connection.cache
-cache_db = connection.scraper
+scraper_db = connection.scraper
+
+cache_db = connection.cache
 
 # Should be db.page_cache
 
@@ -57,9 +59,13 @@ def set_cache(cache_id, value):
 
 
 def get_cache(cache_id):
-    return cache_db.data_cache.find({
+    d = cache_db.data_cache.find_one({
             'cache_id': cache_id
             })
+    if d:
+        return d['value']
+    return None
+                                    
     
 
 
@@ -109,7 +115,7 @@ def scrape_url(url, refresh=False, encoding=None, sleep=0):
         encoding = 'utf-8'
 
     # Should be cache_db.page_cache
-    pages_collection = cache_db.pages
+    pages_collection = scraper_db.pages
 
 
     if refresh is False:
