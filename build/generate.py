@@ -8,7 +8,7 @@ from standings import get_standings
 
 def generate():
     # Generate
-    generate_standings(soccer_db.mls_games, soccer_db.mls_standings)
+    #generate_standings(soccer_db.mls_games, soccer_db.mls_standings)
     generate_stats()
     generate_transfers()
 

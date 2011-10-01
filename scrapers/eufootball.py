@@ -24,8 +24,7 @@ def scrape_all_games():
 def scrape_year(year, page=1):
 
     key = hashlib.md5(unicode((year, page))).hexdigest()
-    #games = get_cache(key)
-    games = None
+    games = get_cache(key)
     if games is not None:
         return games
         

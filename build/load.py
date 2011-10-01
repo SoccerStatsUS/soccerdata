@@ -1,5 +1,5 @@
 from soccerdata.mongo import generic_load, soccer_db
-from soccerdata.text import bios, lineups,  salaries, drafts
+from soccerdata.text import bios, lineups,  salaries, drafts, stats
 from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
 from soccerdata.scrapers import eufootball, australia
 
@@ -35,7 +35,7 @@ def load_people():
     # soccernet bios
 
     print "Loading text bios."
-    generic_load(soccer_db.chris_bios, bios.load_bios)
+    generic_load(soccer_db.chris_bios, bios.merged_bios)
 
     print "Loading active MLS players"
     generic_load(soccer_db.mls_bios, mls.scrape_all_players)
@@ -43,6 +43,8 @@ def load_people():
 
 def load_stats():
     generic_load(soccer_db.mls_stats, mls.scrape_all_stats)
+    
+    generic_load(soccer_db.chris_stats, stats.process_all_stats)
 
 
 def load_games():
