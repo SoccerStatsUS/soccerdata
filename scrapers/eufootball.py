@@ -1,7 +1,9 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-from soccerdata.utils import scrape_soup, get_contents
+from soccerdata.utils import scrape_soup, get_contents, get_cache, set_cache, remove_cache
+
+import hashlib
 
 # A very impressive site with records of all european national team games ever.
 # I think.
@@ -12,12 +14,22 @@ year_url = 'http://www.eu-football.info/_year.php?id=2010'
 
 def scrape_all_games():
     import time
+    l = []
     for year in range(1872, 2011):
-        scrape_year(year)
+        l.extend(scrape_year(year))
+    return l
 
 
 
 def scrape_year(year, page=1):
+
+    key = hashlib.md5(unicode((year, page))).hexdigest()
+    #games = get_cache(key)
+    games = None
+    if games is not None:
+        return games
+        
+
     if page == 1:
         url = 'http://www.eu-football.info/_year.php?id=%s' % year
     else:
@@ -26,6 +38,8 @@ def scrape_year(year, page=1):
     games = scrape_games(url)
     if games:
         games.extend(scrape_year(year, page+1))
+
+    set_cache(key, games)
     return games
                     
 
@@ -67,7 +81,7 @@ def scrape_games(url):
 
         return {
             'date': date,
-            'year': '',
+            'season': '',
             'competition': competition,
             'home_team': home_team,
             'away_team': away_team,

@@ -16,7 +16,7 @@ def load():
     # Competitions
     # Stadiums
 
-    #load_people()
+    load_people()
     load_games()
     load_goals()
     load_lineups()
@@ -38,7 +38,7 @@ def load_people():
     generic_load(soccer_db.chris_bios, bios.load_bios)
 
     print "Loading active MLS players"
-    generic_load(soccer_db.mls_bios, mls.scrape_active_players)
+    generic_load(soccer_db.mls_bios, mls.scrape_all_players)
 
 
 def load_stats():
@@ -67,7 +67,7 @@ def load_games():
     generic_load(soccer_db.aleague_games, australia.scrape_all_games)
 
     # All-time European national team games.
-    #generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)
+    generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)
 
     # Europe
     # generic_load(soccer_db.cnnsi_games, cnnsi.scrape_all_games)

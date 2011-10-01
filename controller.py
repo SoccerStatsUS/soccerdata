@@ -127,6 +127,7 @@ def scraper_dashboard():
         'fifa_data': process_scraper('fifa'),
         'mediotiempo_data': process_scraper('mediotiempo'),
         'wiki_data': process_scraper('wiki'),
+        'eufootball_data': process_scraper('eufootball'),
         }
 
     return render_template("scraper_dashboard.html", **ctx)

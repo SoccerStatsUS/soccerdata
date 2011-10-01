@@ -11,7 +11,7 @@ from soccerdata.utils import get_cache, set_cache
 # Need to comment this!
 
 
-def scrape_all_bios():
+def scrape_all_players():
     bios = {}
     stats = scrape_all_stats()
     for stat in stats:
@@ -19,7 +19,7 @@ def scrape_all_bios():
         if url and url not in bios:
             bios[url] = scrape_player_bio(url)
 
-    return bios.value()
+    return bios.values()
 
 
 def scrape_all_stats():
@@ -86,7 +86,10 @@ def scrape_player_bio(url):
     try:
         name = get_contents(soup.find("div", "header_title").find("h1"))
     except:
-        import pdb; pdb.set_trace()
+        print "No result for %s" % url
+        return {}
+
+    
 
     fields = [get_contents(e) for e in soup.find("div", "player-info").findAll("li")]
     d = dict([e.strip().split(":") for e in fields])
@@ -434,7 +437,6 @@ stat_mapping = {
 
 
 if __name__ == "__main__":
-    print scrape_player_bio('http://www.mlssoccer.com/players/eddie-ababio')
-    print scrape_active_players()
-    print scrape_all_bios()
+    #print scrape_active_players()
+    print scrape_all_players()
 

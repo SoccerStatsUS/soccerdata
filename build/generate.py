@@ -8,32 +8,31 @@ from standings import get_standings
 
 def generate():
     # Generate
-    generate_standings()
+    generate_standings(soccer_db.mls_games, soccer_db.mls_standings)
     generate_stats()
     generate_transfers()
 
 
-def generate_standings():
+def generate_standings(src, dst):
     # Load seasons so we know which
     # we have to generate standings for.
     soccer_db.standings.drop()
     seasons = set()
-    coll = soccer_db.games
 
-
-    for doc in coll.find():
+    for doc in src.find():
         t = (doc['competition'], doc['season'])
         seasons.add(t)
 
     for t in seasons:
         competition, season = t
         d = {'competition': competition, 'season': season}
-        games = [e for e in coll.find(d)] # Cursor to list.
+        games = [e for e in src.find(d)] # Cursor to list.
         standings = get_standings(games, competition, season)
-        insert_rows(soccer_db.standings, standings)
+        insert_rows(dst, standings)
 
-    import pdb; pdb.set_trace()
-    x = 5
+
+
+
 
 
 def generate_stats():

@@ -7,6 +7,10 @@ import re
 # Soccernet is probably the best of all. 
 # Triple down on soccernet.
 
+
+# Need to focus on this socreboard:
+# http://soccernet.espn.go.com/scores?date=20110930&league=all&cc=5901&xhr=1
+
 base = 'http://soccernet.espn.go.com'
 
 def get_match_url(url):
@@ -39,8 +43,11 @@ def scrape_games_from_scoreboard(soup):
 
 
 def scrape_scoreboards_from_scoreboard(soup):
+    print scrape_scoreboard(soup)
+
     urls = [a['href'] for a in soup.findAll("ul")[0].findAll("a")]
     full_url = "%s%s&xhr=1" % (base, urls[0])
+
     if len(urls) == 1:
         return [full_url]
 
@@ -142,12 +149,18 @@ if __name__ == "__main__":
     #soup = scrape_soup(url, refresh=True, encoding='iso_8859_1')
     #print scrape_games_from_scoreboard(soup)
 
-    #url = 'http://soccernet.espn.go.com/scores?date=20110915&league=uefa.europa&cc=5901&xhr=1'
-    url = 'http://soccernet.espn.go.com/scores?date=20110920&league=conmebol.libertadores&cc=5901&xhr=1'
-    url = 'http://soccernet.espn.go.com/scores?date=20111002&league=usa.1&cc=5901&xhr=1'
-    #url = 'http://soccernet.espn.go.com/scores?date=20110926&league=eng.1&cc=5901&xhr=1'
-    #url = 'http://soccernet.espn.go.com/scores?date=20080313&league=conmebol.libertadores&cc=5901&xhr=1'
-    url = 'http://soccernet.espn.go.com/scores?date=20080313&league=bra.1&cc=5901&xhr=1'
+    leagues = [
+        'uefa.champions',
+        'uefa.europa',
+        'conmebol.libertadores',
+        'usa.1',
+        'eng.1',
+        'bra.1',
+        ]
+
+    #url = 'http://soccernet.espn.go.com/scores?date=20080313&league=mex.1&cc=5901&xhr=1'
+    url = 'http://soccernet.espn.go.com/scores?date=20110930&league=all&cc=5901&xhr=1'
+    #url = 'http://soccernet.espn.go.com/scores?date=20080313&league=arg.1&cc=5901&xhr=1'
     soup = scrape_soup(url, encoding='iso_8859_1')
 
     score_urls = scrape_scoreboards_from_scoreboard(soup)

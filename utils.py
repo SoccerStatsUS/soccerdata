@@ -51,10 +51,15 @@ def set_cache(cache_id, value):
     """
     Don't scrape this url. Use this value instead.
     """
+    cache_db.data_cache.remove({
+            "cache_id": cache_id,
+            })
+
     cache_db.data_cache.insert({
             "cache_id": cache_id,
             "value": value
             })
+
 
 
 
