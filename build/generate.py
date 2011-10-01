@@ -20,7 +20,10 @@ def generate_standings(src, dst):
     seasons = set()
 
     for doc in src.find():
-        t = (doc['competition'], doc['season'])
+        try:
+            t = (doc['competition'], doc['season'])
+        except:
+            import pdb; pdb.set_trace()
         seasons.add(t)
 
     for t in seasons:

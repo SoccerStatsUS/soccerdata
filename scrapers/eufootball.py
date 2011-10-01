@@ -1,7 +1,7 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-from soccerdata.utils import scrape_soup, get_contents, get_cache, set_cache, remove_cache
+from soccerdata.utils import scrape_soup, get_contents, get_cache, set_cache
 
 import hashlib
 

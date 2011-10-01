@@ -2,6 +2,7 @@
 
 from soccerdata.utils import scrape_soup, get_contents
 
+import datetime
 import re
 
 # Soccernet is probably the best of all. 
@@ -23,7 +24,29 @@ def get_match_url(url):
         raise
 
 
-def scrape_games_from_scoreboard(soup):
+
+def scrape_all_dates():
+    one_day = datetime.timedelta(days=1)
+    today = datetime.date.today()
+    d = today
+    games = []
+    while d > datetime.date(2000, 1, 1):
+        try:
+            d = d - one_day
+            url = 'http://soccernet.espn.go.com/scores?date=%s&league=all&cc=5901&xhr=1' % d.strftime("%Y%m%d")
+            soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+            g = scrape_scoreboard(soup)
+            print g
+            games.extend(g)
+        except KeyboardInterrupt:
+            raise
+        except:
+            print "Failed %s" % url
+    return games
+
+
+
+def scrape_scoreboard(soup):
     
     games = []
     goals = []
@@ -41,12 +64,22 @@ def scrape_games_from_scoreboard(soup):
     return (games, goals, lineups)
 
 
+def scrape_all_scoreboards(url):
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+    new_url = scrape_scoreboard_url_from_scoreboard(soup)
+    urls = [new_url]
+    while new_url:
+        soup = scrape_soup(new_url, encoding='iso_8859_1', sleep=10)
+        new_url = scrape_scoreboard_url_from_scoreboard(soup)
+        urls.append(new_url)
+    return urls
 
-def scrape_scoreboards_from_scoreboard(soup):
-    print scrape_scoreboard(soup)
+
+def scrape_scoreboard_url_from_scoreboard(soup):
 
     urls = [a['href'] for a in soup.findAll("ul")[0].findAll("a")]
     full_url = "%s%s&xhr=1" % (base, urls[0])
+    return full_url
 
     if len(urls) == 1:
         return [full_url]
@@ -161,9 +194,8 @@ if __name__ == "__main__":
     #url = 'http://soccernet.espn.go.com/scores?date=20080313&league=mex.1&cc=5901&xhr=1'
     url = 'http://soccernet.espn.go.com/scores?date=20110930&league=all&cc=5901&xhr=1'
     #url = 'http://soccernet.espn.go.com/scores?date=20080313&league=arg.1&cc=5901&xhr=1'
-    soup = scrape_soup(url, encoding='iso_8859_1')
 
-    score_urls = scrape_scoreboards_from_scoreboard(soup)
+    score_urls = scrape_all_dates()
 
     """
     games = []

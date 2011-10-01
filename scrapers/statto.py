@@ -11,6 +11,15 @@ class UnplayedException(Exception):
     pass
 
 
+
+
+
+def scrape_statto(date):
+    date = datetime.date(2004, 1, 6)
+    url = 'http://www.statto.com/football/stats/results/s' % date.strftime("%Y-%m-%d")
+    table = raw_table(url)
+    rows = rows_generator(table)
+
 def scrape_all_games():
     l = []
 
