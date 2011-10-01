@@ -1,3 +1,4 @@
+name	number	position	feet	inches	pounds	month	day	year	nothing	college	nationality
 Perez, Orlando	4	M	6	2	165	7	12	77		High School	USA
 Broome, Paul	2	D	5	9	150	6	6	76		SMU	USA
 Brown, Chris (2)	5	m/f	5	11	170	3	10	77		Portland	USA
@@ -53,7 +54,7 @@ Glinton, Gavin	6	F	5	10	150	3	1	79		Bradley	Turks and Caicos
 Gomez, Francisco	4	M	5	11	170	1	25	79		High School	USA
 Gray, Kelly	3	D/M	6	2	170	4	7	81		Portland	USA
 Griffiths, Winston	4	M	5	10	160	5	12	78		Rhode Island	Jamaica
-Gutierrez, Diego	4	M	5	7	155	11	3	72		Rockhurst	Colombia
+Gutierrez, Diego	4	M	5	7	155	11	3	72		Rockhurst	USA
 Harris, Wolde	6	F	5	10	190	1	26	74		Clemson	Jamaica
 Hart, Wes	3	d/m	5	7	155	9	14	77		Washington	USA
 Hartman, Kevin	1	GK	6	1	185	5	25	74		UCLA	USA
@@ -241,7 +242,7 @@ Daniv, Sergi	4	M	5	7	149	8	23	75		Wake Forest	Ukraine
 Dempsey, Clint	0		6	1	170	3	9	83		Furman	USA
 Detter, Justin	0		5	11	189	8	7	82		Notre Dame	USA
 Diop, Birahim	2	D	6	3	175	2	27	79		Abroad	Senegal
-Dombrowski, Tighe	0		5	8	155	3	3	82		Wisconsin-Milwaukee	USA
+Dombrowski, Tighe	0		5	8	155	3	4	82		Wisconsin-Milwaukee	USA
 Dorman, Andy	0		5	11	150	5	1	82		Boston University	Wales
 Downing, Nick	2	D	5	9	155	1	25	80		Maryland	USA
 Farrer, Richard	2	D	6	0	175	4	9	71		New Mexico	South Africa
@@ -567,7 +568,7 @@ Goulooze, Richard	2	D	6	0	180	11	16	67		Abroad	Holland
 Gramenz, Don	2	D	5	7	150	3	20	71		Wisconsin-Milwaukee	USA
 Green, Michael	2	D	6	4	190	7	16	78		Virginia	USA
 Greenwood, Ricci	4	M	6	2	190	8	8	73		Seattle Pacific	USA
-Gregor, Andrew	4	M	5	11	150	1	22	75		Portland	USA
+Gregor, Andrew	4	M	5	11	150	11	22	75		Portland	USA
 Gregorio, Adolfo	4	M	5	9	165	10	1	82		UCLA	USA
 Gros, Josh	0		6	0	165	6	25	82		Rutgers	USA
 Guido	4	M	5	8	150	3	9	76		Abroad	Brazil
@@ -613,7 +614,7 @@ Huwiler, Mike	4	M	5	11	160	1	4	72		Virginia	USA
 Ianni, Tayt	2	D	5	6	160	12	6	71		UCLA	USA
 Imler, Erik	2	D	5	9	165	6	1	71		Virginia	USA
 Inneh, Ernest	6	F	5	10	165	9	25	70		Brooklyn College	
-Iribarren, Ricardo	2	D	6	0	175	2	11	67		Abroad	Argentina
+Iribarren, Ricardo	2	D	6	0	175	11	2	67		Abroad	Argentina
 Iroha, Ben	2	D	5	8	154	11	29	69		Abroad	Nigeria
 Isaacs, Peter	6	F	6	0	180	8	18	68			
 Jachym, Rob	6	F	6	0	162	10	28	74		Hartford	USA
@@ -679,7 +680,7 @@ Ledesma, Carlos	4	M	5	11	170	1	18	64			Argentina
 Lee, Thor	2	D	6	0	165	6	5	65		CSU Northridge	USA
 Leitch, Christopher	2	D	5	11	165	4	1	79			USA
 Lembryk, Stan	4	M	5	8	160	8	8	69			
-Lewis, Andrew	2	D	6	1	175	7	10	74		Princeton	USA
+Lewis, Andrew	2	D	6	1	175	9	10	74		Princeton	USA
 Lewis, Eddie	4	M	5	10	155	5	17	74		UCLA	USA
 Limpar, Anders	4	M	5	8	161	9	24	65		Abroad	Sweden
 Lindenmayer, Christof	6	F	5	8	140	4	21	77			
@@ -730,7 +731,7 @@ Miller, Todd	4	M	6	1	180	11	29	73		Westminster	USA
 Mintah, Ishmael	6	F				9	21	79			
 Miranda, Edwin	2	D	6	0	170	1	28	81			
 Mitchell, Jamel	4	M	6	1	195	5	26	75		Sacramento State	USA
-Mohammed, Dahir	2	D	6	2	180	3	17	73		CW Post	USA
+Mohammed, Dahir	2	D	6	2	180	3	17	73		CW Post	Ethiopia
 Molnar, Miklos	6	F	6	1	175	6	10	70		Abroad	Denmark
 Moneme, Obi	4	M	6	0	180	3	2	75			USA
 Montoya, Alberto	4	M	5	6	145	2	19	75			USA
@@ -765,7 +766,7 @@ Norkus, Caleb	0					3	14	79
 Nugent, Michael	6	F	5	9	155	2	10	80		Princeton	USA
 Nunley, Andre	2	D	6	0	170	5	22	74		Colorado College	USA
 Nusum, John Barry	6	F				3	18	81		Furman	Bermuda
-O'brien, Leighton	4	M	5	10	162	11	17	77		San Diego	USA
+O'brien, Leighton	4	M	5	10	162	3	14	76		San Diego	USA
 Occean, Olivier	6	F	6	1	180	10	23	81		Southern Connecticut St.	Canada
 Okafor, Uche	2	D	6	3	190	8	8	67		Abroad	Nigeria
 Okaroh, Francis	2	D	6	0	170	8	25	63		Boston University	Nigeria
@@ -823,8 +824,8 @@ Richardson, Michael	2	D				10	8				USA
 Rideout, Paul	6	F	5	11	168	8	14	64		Abroad	England
 Rincon, Alejandro	4	M	5	7	150	2	3	77			
 Rinker, Travis	2	D	6	1	200	5	4	68		Bridgeport	USA
-Ritchie, Bryn	2	D				11	28	78			
-Rivillo, Angel	4	M	5	7	150	3	27	77		Creighton	Venezuela
+Ritchie, Bryn	2	D				11	28	79			
+Rivillo, Angel	4	M	5	7	150	7	25	78		Creighton	Venezuela
 Rizi, Marco	2	D	6	1	185	9	15	68			Canada
 Rocha, Carlos	6	F	5	10	165	12	4	74		Abroad	Portugal
 Rocha, Maurizio	4	M	5	9	165	8	2	76		Connecticut	Bolivia
@@ -856,7 +857,7 @@ Sawatzky, Darren	6	F	5	10	160	2	22	73		Portland	USA
 Scavo, Peter	6	F	6	1	180	3	18	78			
 Schell, Dominic	4	M	5	7	155	7	27	77		Mobile	USA
 Schneider, Paul	6	F				6	24	76			USA
-Schulte, Mark	2	D	6	2	205	10	9	77		Dayton	USA
+Schulte, Mark	2	D	6	2	205	10	4	77		Dayton	USA
 Sebapole, Brian	6	F	5	8	150	10	9	75			South Africa
 Semioli, Mark	2	D	6	0	175	3	20	68		Stanford	USA
 Sequeira, Alejandro	6	F	5	11	183	4	27	75		Abroad	Costa Rica
@@ -864,7 +865,7 @@ Serna, Thomas	6	F	6	0	165	11	30	79
 Sharpe, Richard	6	F	6	2	180	1	15	67		FIT	England
 Shue, Andrew	6	F	5	9	150	2	20	66		Dartmouth	USA
 Silvera, Damian	4	M	5	8	160	7	27	74		Virginia	USA
-Simmonds, Greg	6	F	6	3	190	12	16	75		Howard	USA
+Simmonds, Greg	6	F	6	3	190	12	16	75		Howard	Jamaica
 Simpson, Mark	1	GK	6	0	175	3	18	66		Eastern Illinois	USA
 Sleeth, William	2	D	5	11	170	10	23	79			USA
 Slivinski, Mike	4	M	5	7	165	10	31	74		Virginia	USA
@@ -909,7 +910,7 @@ Tranchilla, Mike	6	F	5	10	165	6	9	81		Creighton	USA
 Trellez, John Jairo	6	F	5	11	172	6	29	68		Abroad	Colombia
 Trittschuh, Steve	2	D	6	0	170	4	24	65		Southern Illinois	USA
 Trotman, Mickey	6	F	5	9	175	10	21	74		Mobile	Trinidad
-Trout, Ryan	0					1	9	78			USA
+Trout, Ryan	0					11	9	78			USA
 Tsakiris, Shaun	4	M	5	7	155	2	16	79			
 Uderitz, Scott	4	M	5	10	175	5	17	70		UNLV	USA
 Ueltschey, Michael	1	GK	6	2	195	4	14	80		UNC	USA
@@ -928,7 +929,7 @@ Vasquez, Jose	6	F	6	0	174	3	20	69			USA
 Vasquez, Martin	2	D	6	0	178	12	24	63		Cal State Los Angeles	Mexico
 Vazquez, Martin	2	D	6	0	178	12	24	63		Cal State	Mexico
 Vega, Marcelo	4	M	5	9	169	8	12	71		Abroad	Chile
-Velez, Marco	2	D	6	2	195	6	26	80			USA
+Velez, Marco	2	D	6	2	195	6	26	80			Puerto Rico
 Vermillion, Scott	2	D	5	11	175	12	23	76		Virginia	USA
 Viera, Diego	6	F	6	2	180	4	10	72		Abroad	Uruguay
 Villar, Ricardo	4	M				8	11	79			
@@ -940,7 +941,7 @@ Waldir	6	F	5	9	155	5	15	73		Abroad	Peru
 Walls, Nick	6	F	5	11	165	3	31	81			USA
 Waltrip, Brian	6	F	6	1	171	1	12	78			
 Ward, Brandon	4	M	5	9	160	12	11	72		Indiana	USA
-Watson, Mark	2	D	6	0	170	9	7	70		Abroad	Canada
+Watson, Mark	2	D	6	0	170	9	8	70		Abroad	Canada
 Weaver, Tim	2	D	5	11	170	4	30	75		San Francisco	USA
 Webber, Wade	2	D	6	3	195	1	12	67		Portland	USA
 Wegerle, Roy	6	F	5	11	170	3	19	64		South Florida	USA
@@ -960,7 +961,7 @@ Wise, Evans	4	M	6	0	155	1	23	73		Mercer County CC	Trinidad
 Woan, Ian	4	M	5	10	163	12	14	67		Abroad	England
 Wood, A.J.	6	F	6	2	195	8	17	73		Virginia	USA
 Woodring, Peter	4	M	5	10	175	2	5	68		UC Berkeley	USA
-Woods, Alan	2	D	6	0	170	10	12	78		Clemson	USA
+Woods, Alan	2	D	6	0	170	9	12	78		Clemson	USA
 Woods, Chris	1	GK	6	3	190	11	14	59		Abroad	England
 Woodworth, Hayden	4	M	5	9	155	12	12	80			USA
 Woolfolk, Corey	0					2	2	79			
@@ -1051,7 +1052,7 @@ McAthy, Drew		F				9	10	82		UC Santa Barbara	USA
 Vasquez, Eric		M				11	18	82		Central Florida	USA
 Latham, Ryan		F				11	18	82		SMU	USA
 Kovar, Matt		D				2	15	83		Loyola Marymount	USA
-Pitchkolan, Aaron		D				3	3	83		West Virginia	USA
+Pitchkolan, Aaron		D				3	14	83		West Virginia	USA
 Cavanagh, Drew		D				8	27	82		College of Charleston	USA
 Palmer, Noah		GK				4	21	83		Maryland	USA
 Munoz, Mike		M				9	14	80		UC Berkeley	USA
@@ -1075,7 +1076,7 @@ Gargan, Dan		D								Georgetown
 Lee, Chris		F				12	28	82		Marquette	USA
 Larentowicz, Jeff		D				8	5	83		Brown	USA
 Gallegos, Jeremiah		F				9	7	81		Cincinnati	USA
-Caugherty, Ryan		D				9	23	80		Wake Forest	USA
+Caugherty, Ryan		D				9	23	82		Wake Forest	USA
 Kuykendall, Shawn		M				2	21	82		American	USA
 Ramirez, Ramon		M				12	5	69		Abroad	Mexico
 Cuadros, Hector						3	20	83		Abroad	Mexico
@@ -1148,7 +1149,7 @@ Persson, Trevor						7	7	78		Cal Poly Pomona	USA
 McGinnis, Pat						12	3	82		Colorado College	USA
 Kim, Chuck						1	20	84		High School	USA
 Tomasso, T.J.						9	10	83		SMU	USA
-Edozien, Connally						6	26	77		Embry-Riddle	England
+Edozien, Connally						6	26	77		Embry-Riddle	Nigeria
 Keel, Stephen						4	11	83		Wake Forest	USA
 Mina, Roberto						11	7	84		Abroad	Ecuador
 Reiter, Lubos						12	3	74		Abroad	Slovakia
@@ -1180,7 +1181,7 @@ Hill, Zane		D				7	16	82		Virginia	USA
 Kalnasy, Shaun		GK				11	4	81		Loyola Marymount	USA
 Koubouras, Athanasios						5	19	76			
 Lawson, Tony		D				2	25	82		UCLA	USA
-Vegas, Javier						8	17	82		Incarnate Word	USA
+Vegas, Javier						8	17	82		Incarnate Word	Peru
 Lines, Aaran						12	21	76			New Zealand
 Degand, Fred						6	6	79		Bowling Green	USA
 Weber, Andrew						8	9	83		New Mexico	USA
@@ -1213,7 +1214,7 @@ Rodway, Ian						2	15	83		Maryland	USA
 Coggins, Jacob						11	28	78		High School	USA
 Karalexis, Jason						4	25	78		St. Anselm	USA
 Ackerman, Ryan						4	1	81		Bentley	USA
-Henning, David						5	22	84			
+Henning, David						5	22	74			
 White, Demetrius											
 Hare, Jeff						4	1	82		Princeton	USA
 Johnson, David						1	16	84		High School	USA
