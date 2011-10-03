@@ -12,7 +12,7 @@ import re
 
 from collections import defaultdict
 
-from soccerdata.utils import scrape_soup, get_contents, data_cache
+from soccerdata.utils import scrape_soup, get_contents, data_cache, set_cache
 
 # Soccernet is probably the best of all. 
 # Triple down on soccernet.
@@ -21,6 +21,19 @@ from soccerdata.utils import scrape_soup, get_contents, data_cache
 # http://soccernet.espn.go.com/scores?date=20110930&league=all&cc=5901&xhr=1
 
 base = 'http://soccernet.espn.go.com'
+
+
+def code_to_competition(league_code):
+    d = {
+        'usa.1': 'MLS',
+        'mex.1': 'Mexico',
+        'eng.1': 'Premier League',
+        'arg.1': 'Argentina',
+        'uefa.champions': 'Champions Leageu',
+        'uefa.europa': 'Europa League',
+        }
+
+    return d[league_code]
 
 def get_match_stats_url(url):
     """
@@ -44,9 +57,6 @@ def get_match_stats_url(url):
         raise
 
 
-
-
-
 def scrape_all_league_scores(league_code):
     """
     Scrape all league game data from scoreboards
@@ -68,12 +78,31 @@ def scrape_all_league_scores(league_code):
     return games
 
 
+
+def scrape_all_league_games(league_code):
+    competition = code_to_competition(league_code)
+    games = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        games.append(scrape_live_game(url, competition))
+    return games
+
 def scrape_all_league_goals(league_code):
+    competition = code_to_competition(league_code)
     goals = []
     for score in scrape_all_league_scores(league_code):
         url = get_match_stats_url(score['url'])
         goals.extend(scrape_live_goals(url))
     return goals
+
+
+def scrape_all_league_lineups(league_code):
+    competition = code_to_competition(league_code)
+    l = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        l.extend(scrape_live_lineups(url))
+    return l
 
 
 def scrape_scoreboard_urls(url):
@@ -150,7 +179,7 @@ def scrape_league_scoreboard(url):
     return [process_game(game) for game in gameboxes]
 
 @data_cache
-def scrape_live_game(url):
+def scrape_live_game(url, competition):
     """
     Get game data from a game page.
     """
@@ -168,17 +197,16 @@ def scrape_live_game(url):
     data = [get_contents(e) for e in game_data]
 
     if len(data) == 3:
-        competition, datetime_string, location = data
+        subcompetition, datetime_string, location = data
         referee = None
 
     if len(data) == 4:
-        competition, datetime_string, location, referee = data
+        subcompetition, datetime_string, location, referee = data
         referee = referee.replace("Referee:", '').strip()
 
     minute, date_string = datetime_string.split(',', 1)
 
     date = datetime.datetime.strptime(date_string.strip(), "%B %d, %Y")
-
 
     return {
         'home_team': home_team,
@@ -191,7 +219,7 @@ def scrape_live_game(url):
         'referee': referee
         }
 
-@data_cache
+@set_cache
 def scrape_live_goals(url):
     """
     Get goal data from a game page.
@@ -233,6 +261,8 @@ def scrape_live_goals(url):
             return {}
 
 
+        if player == 'player':
+            import pdb; pdb.set_trace()
 
         return {
             'player': player,
@@ -240,6 +270,8 @@ def scrape_live_goals(url):
             'team': team,
             'own_goal': own_goal,
             'penalty': penalty,
+            'date': game_data['date'],
+            'competition': game_data['competition'],
             }
 
     goals = []
@@ -253,8 +285,12 @@ def scrape_live_goals(url):
         
     return goals
 
-
+@data_cache
 def scrape_live_lineups(url):
+    """
+    Scrape a lineup from a game url.
+    """
+    # Not checking for red cards currently.
     soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
 
     game_data = scrape_live_game(url)
@@ -271,7 +307,13 @@ def scrape_live_lineups(url):
         away_lineup, _, away_subs = tables[7:10]
 
     else:
-        raise
+        # Bad game listing.
+        # Seems all 2006 New York lineups are missing.
+        # e.g. http://soccernet.espn.go.com/match?id=207065&cc=5901
+        print game_data
+        #import pdb; pdb.set_trace()
+        return []
+
 
 
     def process_substitutions(subs):
@@ -289,10 +331,18 @@ def scrape_live_lineups(url):
 
                 minute = int(get_contents(tds[0]).replace("'", ''))
 
-                try:
-                    on, off = [get_contents(e) for e in tds[1].findAll("a")]
-                except:
-                    import pdb; pdb.set_trace()
+                l = [get_contents(e) for e in tds[1].findAll("a")]
+                if len(l) == 2:
+                    on, off = l
+                    
+                elif len(l) < 2:
+                    s = get_contents(tds[1])
+                    on, off = [e.strip() for e in s.split('for', 1)]
+
+                else:
+                    import pdb; pdb.set_trace()    
+                    
+
                 d[off]['off'] = d[on]['on'] = minute
 
         return d
@@ -321,7 +371,9 @@ def scrape_live_lineups(url):
                     'player': player,
                     'on': on,
                     'off': off,
-                    'team': team
+                    'team': team,
+                    'date': game_data['date'],
+                    'competition': game_data['competition'],
                     })
 
         return lineup
@@ -375,6 +427,6 @@ if __name__ == "__main__":
         ]
 
 
-    #print scrape_all_league_games('arg.1')
     print scrape_all_league_goals('usa.1')
+    #print scrape_all_league_lineups('usa.1')
     
