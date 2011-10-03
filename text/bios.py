@@ -32,6 +32,11 @@ def process_name(s):
 
 
 def merged_bios():
+    # Merge duplicate bios together.
+    # This should (probably?) be done
+    # By the build script.
+    
+
     # Fields
     # name
 
@@ -47,6 +52,8 @@ def merged_bios():
         birthdate = e['birthdate']
         nationality = e['nationality']
 
+        # Do some sanity checks on bios.
+        # These should be done in merge/check.
         if name in bios:
             bd = bios[name]
             if bd['birthdate']:
