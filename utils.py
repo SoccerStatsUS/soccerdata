@@ -14,7 +14,6 @@ from BeautifulSoup import BeautifulSoup
 # Automate installation of mongo and redis?
 # Document!
 
-# Turn this into cacheing infrastructure.
 
 connection = pymongo.Connection()
 
@@ -26,6 +25,9 @@ cache_db = connection.cache
 # Should be db.page_cache
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
+
+
+class UncachedException(Exception): pass
 
 
 
@@ -48,22 +50,12 @@ def get_contents(l):
 
 
 def dict_to_str(d):
+    """
+    Parse url options, basically.
+    """
     opts = ["%s=%s" % (str(k), str(v)) for (k, v) in d.items()]
     return "?" + "&".join(opts)
 
-
-def set_cache(cache_id, value):
-    """
-    Don't scrape this url. Use this value instead.
-    """
-    cache_db.data_cache.remove({
-            "cache_id": cache_id,
-            })
-
-    cache_db.data_cache.insert({
-            "cache_id": cache_id,
-            "value": value
-            })
 
 
 class AbstractCache(object):
@@ -77,19 +69,6 @@ class AbstractCache(object):
 
     def __call__(self, *args):
         raise NotImplementedError()
-        # Should maybe fail rather than returning None?
-        # Presumably need kwargs in here too?
-        key = hashlib.md5('%s:%s' % (self.func_name, args)).hexdigest()
-        data = get_cache(key)
-
-        if data is not None:
-            print "Returning %s from data cache."
-            return data
-
-        value = self.func(*args)
-        set_cache(key, value)
-        return value
-
 
     def __repr__(self):
         """Return the function's docstring."""
@@ -101,22 +80,37 @@ class AbstractCache(object):
 
 
 class data_cache(AbstractCache):
+    """
+    A cache decorator that uses mongodb as a backend.
+    """
 
     def __call__(self, *args):
         # Should maybe fail rather than returning None?
         # Presumably need kwargs in here too?
-        key = hashlib.md5('%s:%s' % (self.func_name, args)).hexdigest()
-        data = get_cache(key)
+        key = hashlib.md5('%s:%s' % (self.func.func_name, args)).hexdigest()
 
-        if data is not None:
-            print "Returning %s from data cache."
+        try:
+            data = get_data_cache(key)
+            print "Returning %s from data cache." % key
             return data
+        except UncachedException:
+            pass
 
         value = self.func(*args)
-        set_cache(key, value)
+        try:
+            set_data_cache(key, value)
+        except:
+            import pdb; pdb.set_trace()
+            x = 5
+
         return value
+
 
 class set_cache(AbstractCache):
+    """
+    A decorator that will set the cache without trying to access it.
+    """
+    # Use this for overwriting old cache values.
 
     def __call__(self, *args):
         # Should maybe fail rather than returning None?
@@ -127,16 +121,32 @@ class set_cache(AbstractCache):
         return value
 
 
+def set_data_cache(cache_id, value):
+    """
+    Set a value in the cache.
+    """
+    cache_db.data_cache.remove({
+            "cache_id": cache_id,
+            })
+
+    cache_db.data_cache.insert({
+            "cache_id": cache_id,
+            "value": value
+            })
 
 
-def get_cache(cache_id):
+
+def get_data_cache(cache_id):
+    """
+    Get a value from cache.
+    """
     d = cache_db.data_cache.find_one({
             'cache_id': cache_id
             })
     if d:
-        print "uncached %s" % cache_id
         return d['value']
-    return None
+    else:
+        raise UncachedException()
                                     
     
 
@@ -231,7 +241,7 @@ def scrape_url(url, refresh=False, encoding=None, sleep=0):
         unicode_data = result['data']
     return unicode_data
 
-# Bad idea.
+
 def scrape_soup(*args, **kwargs):
     html = scrape_url(*args, **kwargs)
     return BeautifulSoup(html)
@@ -239,6 +249,8 @@ def scrape_soup(*args, **kwargs):
 
 
 class SelfRegulatingScraper(object):
+    # Not used.
+
     def __init__(self, url_list):
         # What if we don't want to use a list?
         self.url_list = url_list

@@ -1,7 +1,7 @@
 from soccerdata.mongo import generic_load, soccer_db
 from soccerdata.text import bios, lineups,  salaries, drafts, stats
 from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
-from soccerdata.scrapers import eufootball, australia
+from soccerdata.scrapers import eufootball, australia, soccernet
 
 
 
@@ -9,106 +9,117 @@ def load():
     """
     Load all data.
     """
-    # Cities
-    # Countries
-    # Confederations
-    # Leagues
-    # Competitions
-    # Stadiums
 
-    load_people()
-    load_games()
-    load_goals()
-    load_lineups()
-    #load_salaries()
-    #load_drafts()
-    #load_lists()
-    load_stats()
+    # Offline data
+    load_chris()
+    load_scaryice()
 
-def load_people():
-    """
-    Loads my MLS and USL bios.
-    """
-    # Add:
-    # wikipedia bios
-    # cnnsi bios.
-    # soccernet bios
+    # Scraped data
+    load_mls()
+    load_nasl()
+    #load_soccernet()
+    #load_mediotiempo()
+    #load_wiki()
+    
+    #load_fifa()
 
-    print "Loading text bios."
+
+
+def load_chris():
+    print "Loading chris text bios.\n"
     generic_load(soccer_db.chris_bios, bios.merged_bios)
 
-    print "Loading active MLS players"
-    generic_load(soccer_db.mls_bios, mls.scrape_all_players)
+    print "Loading chris stats.\n"
+    generic_load(soccer_db.chris_stats, stats.process_all_chris_stats)
 
-
-def load_stats():
-    generic_load(soccer_db.mls_stats, mls.scrape_all_stats)
-    
-    generic_load(soccer_db.chris_stats, stats.process_all_stats)
-
-
-def load_games():
-
-    # These are working.
-    # General
-    #generic_load(soccer_db.world_cup_games, statto.scrape_all_games)
-
-    # World cups 1930 to 2006
-    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
-
-    # MLS soccer game results to 1996
-    generic_load(soccer_db.mls_games, mls.scrape_all_games)
-    # MLS scores from 1996 to 2010
-    generic_load(soccer_db.scaryice_games, lineups.load_all_games)
-    # NASL scores for 2011
-    generic_load(soccer_db.nasl_games, nasl.scrape_scores)
-    # Some European scores, primarily Spanish.
-    generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
-
-    # Scrape A-League games.
-    generic_load(soccer_db.aleague_games, australia.scrape_all_games)
-
-    # All-time European national team games.
-    generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)
-
-    # Europe
-    # generic_load(soccer_db.cnnsi_games, cnnsi.scrape_all_games)
-    # generic_load(soccer_db.rsssf_mls_games, rsssf.mls.scrape_all_games)
-    # generic_load(soccer_db.rsssf_spain_games, rsssf.mls.scrape_spain_games)
-    # generic_load(soccer_db.rsssf_australia_games, rsssf.mls.scrape_australia_games)
-
-
-# Goals
-
-def load_goals():
-
-    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
-    generic_load(soccer_db.scaryice_goals, lineups.load_all_goals)
-
-
-
-def load_lineups():
-    # No lineups ready yet.
-    generic_load(soccer_db.scaryice_lineups, lineups.load_all_lineups)
-
-
-
-def load_salaries():
-    print "Loading mls salaries."
-
+    print "Loading MLS salary data.\n"
     generic_load(soccer_db.mls_salaries, salaries.load_salaries)
 
-
-
-def load_drafts():
-    print "Loading mls drafts."
-
+    print "Loading mls draft data.\n"
     generic_load(soccer_db.mls_drafts, drafts.load_drafts)
 
+    # Need to load other league stats.
 
-def load_lists():
-    # MVP winners etc.
+
+def load_scaryice():
+    # MLS lineup data 1996-2010
+    print "Loading scaryice score data.\n"
+    generic_load(soccer_db.scaryice_games, lineups.load_all_games_scaryice)
+
+    print "Loading scaryice goal data.\n"
+    generic_load(soccer_db.scaryice_goals, lineups.load_all_goals_scaryice)
+
+    print "Loading scaryice lineup data.\n"
+    generic_load(soccer_db.scaryice_lineups, lineups.load_all_lineups_scaryice)
+
+
+def load_mls():
+    print "Loading MLSsoccer.com player bios\n"
+    generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
+
+    print "Loading MLSsoccer.com stats\n"
+    generic_load(soccer_db.mls_stats, mls.scrape_all_stats_mlssoccer)
+
+    print "Loading MLSsoccer.com game data.\n"
+    generic_load(soccer_db.mls_games, mls.scrape_all_games_mlssoccer)
+
+
+
+
+def load_nasl():
+    # 2011 NASL scores.
+    print "Loading 2011 NASL games."
+    generic_load(soccer_db.nasl_games, nasl.scrape_scores)
+
+
+def load_soccernet():
     pass
+
+def load_mediotiempo():
+    pass
+
+def load_wiki():
+    pass
+
+# European and other data.
+
+
+def load_fbleague():
+    # Various European league scores.
+    print "Loading fbleague game scores."
+    generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
+
+
+def load_aleague():
+    # Australian A-league.
+    print "Loading A-league.com game scores."
+    generic_load(soccer_db.aleague_games, australia.scrape_all_games)
+
+
+# International
+
+def load_fifa():
+    # World cup games from 1930 to 2006.
+    print "Loading fifa world cup games."
+    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
+
+    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
+
+
+
+def load_eufootball():
+    # All-time European national team games.
+    print "Loading eufootball.com game scores."
+    generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)    
+
+
+# Not using these.
+def load_statto():
+    # Various historical scores.
+
+    generic_load(soccer_db.world_cup_games, statto.scrape_all_games)    
+
+
 
 
 
