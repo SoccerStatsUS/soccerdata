@@ -5,7 +5,8 @@ from BeautifulSoup import BeautifulSoup
 
 # Probably do the team stuff when we're merging into canonical tables.
 from soccerdata.alias import get_team
-from soccerdata.utils import scrape_soup, get_contents, data_cache
+from soccerdata.utils import scrape_soup, get_contents, pounds_to_kg, inches_to_cm
+from soccerdata.cache import data_cache, set_cache
 
 
 # Need to comment this!
@@ -27,7 +28,9 @@ def scrape_all_bios_mlssoccer():
             visited.add(url)
             bios.append(scrape_player_bio(url))
 
-    return bios
+    # Should I handle this better?
+    # Maybe. not sure it's worth it.
+    return [e for e in bios if e]
 
 
 def scrape_all_stats_mlssoccer():
@@ -114,9 +117,28 @@ def scrape_player_bio(url):
     # Need to actually parse these, especially birthdate.
     if "Height" in d:
         height = d['Height']
+        height = height.replace("&nbsp;", "").replace("\"", "")
+
+        height = [e.strip() for e in height.split("'")]
+
+        assert len(height) == 2
+
+        # height[1] is probably an empty string.
+        if not height[1]:
+            height[1] = 0
+
+        feet, inches = [int(e) for e in height]
+        height = inches_to_cm(inches=inches, feet=feet)
         
+                  
     if 'Weight' in d:
         weight = d['Weight']
+        if "lbs." in weight:
+            weight = int(weight.replace("lbs.", ''))
+            weight = pounds_to_kg(weight)
+            
+
+
 
     if 'Birth Date' in d:
         birthdate = d['Birth Date']
@@ -453,5 +475,5 @@ stat_mapping = {
 
 if __name__ == "__main__":
     #print scrape_active_players()
-    print scrape_all_players()
+    print scrape_all_bios_mlssoccer()
 
