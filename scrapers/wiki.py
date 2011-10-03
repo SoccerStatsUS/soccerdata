@@ -65,12 +65,20 @@ def scrape_new(query):
     """
     """
     query = query.replace(" ", "_").replace("_", "%20")
+
     url = 'http://en.wikipedia.org/w/api.php?format=json&action=query&titles=%s&rvprop=content&prop=revisions' % query
-    response = json.loads(scrape_url(url))
+    data = scrape_url(url, encoding='utf8', sleep=2)
+    response = json.loads(data)
+
     revisions = response['query']['pages'].keys()
     assert len(revisions) == 1
     revision = revisions[0]
-    text = response['query']['pages'][revision]['revisions'][0]['*']
+    try:
+        text = response['query']['pages'][revision]['revisions'][0]['*']
+    except KeyError:
+        # Can't get a proper response for this query.
+        return []
+
     lines = text.split('\n')
 
     rm = re.search("#REDIRECT\s+\[\[(?P<link>.*?)\]\]", lines[0])
@@ -95,7 +103,7 @@ def process_key_value(line):
 
     line = line[1:]
 
-    k = line.split("=", 1)[0].strip()
+    k = line.split("=", 1)[0].strip().lower()
     v = process_value(line.split("=", 1)[1])
 
     return (k, v)
@@ -133,18 +141,17 @@ def process_value(value):
         return datetime.datetime(year, month, day)
 
 
-    date_re2 = re.search("{{birth date and age\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value)
+    date_re2 = re.search("{{birth date and age\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value, re.I)
     if date_re2:
         year, month, day = [int(e) for e in date_re2.groups()]
         return datetime.datetime(year, month, day)
 
-    # Can't figure this one out.
-    height_re = re.match("{{height|m=(?P<m>\d+)\.\d+}}", value)
-    if height_re:        
-        return value
-        m, cm = [int(e) for e in height_re.groups()]
-        return cm + (100 * m)
-    
+    # Just a standard template.
+    template_re = re.match("{{.*?|.*?=", value)
+    if template_re:
+        fields = [e for e in value.split('|') if '=' in e]
+        return dict([e.split("=", 1) for e in fields])
+        
                              
     # ' Real Madrid Club de F\xfatbol<ref name="Real Madrid Club de F\xfatbol"/>
     ref_m = re.search("(?P<text>.*?<.*?>)", value)
@@ -356,36 +363,41 @@ def scrape_stadium(url):
         }
 
 
-def scrape_person(url):
-    lines = scrape_new(url)
+def scrape_bio(query):
+    q1 = query + " (soccer)"
+    lines = scrape_new(q1)
+    if len(lines) == 0:
+        lines = scrape_new(query)
+
     infobox_lines = get_infobox_lines(lines)
     processed = [process_key_value(line) for line in infobox_lines]
     d = dict([e for e in processed if e])
 
     if not d:
-        print url
+        print query
         return
 
+    # Why?
     if 'pronunciation' in d:
         return
 
 
     try:
         name = d.get('playername') or d.get('name') or d['fullname']
-        birthdate = d.get('dateofbirth') or d['birth_date']
-        birthplace = d.get('cityofbirth') or d.get('birth_place') or d['countryofbirth']
+        birthdate = d.get('dateofbirth') or d.get('birth_date')
+        birthplace = d.get('cityofbirth') or d.get('birth_place') or d.get('countryofbirth')
     except:
         import pdb; pdb.set_trace()
 
     try:
         return {
         'name': name,
-        'full_name': d.get('fullname') or d['name'],
-        'image': d['image'],
+        'full_name': d.get('fullname') or d.get('name') or name,
+        'image': d.get('image'),
         'birthdate': birthdate,
         'birthplace': birthplace,
-        'height': d['height'],
-        'position': d['position'],
+        'height': d.get('height'),
+        'position': d.get('position'),
         }
 
     except:
@@ -430,11 +442,6 @@ def scrape_category_page(url):
 def sc():
     return get_categories(scrape_new("Jason_Kreis"))
         
-
-    
-
-
-
 
 
 
@@ -659,8 +666,25 @@ class PlayerScraper(object):
             return 0
 
 if __name__ == "__main__":
-    print scrape_standings3('2006 PDL Season', 'PDL', 2006)
+    #print scrape_standings3('2006 PDL Season', 'PDL', 2006)
     #r = scrape_pdl_standings()
     #r = scrape_mls_standings()
-    r = scrape_england_standings()
-    print sorted(set([e['season'] for e in r]))
+    #r = scrape_england_standings()
+    #print sorted(set([e['season'] for e in r]))
+
+    #print scrape_bio('Dilly Duka')
+    from soccerdata import mongo
+    for bio in mongo.soccer_db.mls_bios.find():
+        if 'name' in bio:
+            #print bio['name']
+            try:
+                print scrape_bio(bio['name'])
+            except UnicodeEncodeError:
+                print "UNICODE FAIL"
+                print bio['name']
+                print
+
+            except ValueError:
+                print "VALUE FAIL"
+                print bio['name']
+                print
