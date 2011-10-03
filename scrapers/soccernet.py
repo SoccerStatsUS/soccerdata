@@ -22,7 +22,7 @@ from soccerdata.utils import scrape_soup, get_contents, data_cache
 
 base = 'http://soccernet.espn.go.com'
 
-def get_match_url(url):
+def get_match_stats_url(url):
     """
     Get the match url of a different link to a game.
     """
@@ -44,10 +44,12 @@ def get_match_url(url):
         raise
 
 
-def scrape_all_league_games(league_code):
+
+
+
+def scrape_all_league_scores(league_code):
     """
-    Scrape all league game data.
-    Scrape the scoreboards, then scrape individual games.
+    Scrape all league game data from scoreboards
     """
     # A league would be, e.g. usa.1
     # The soccernet league code.
@@ -62,29 +64,16 @@ def scrape_all_league_games(league_code):
         except:
             print url
 
-
     games =  [e for e in games if e]
-
-    real_games = []
-    for game in games:
-        url = get_match_url(game['url'])
-        real_games.append(scrape_live_game(url))
-        try:
-            scrape_live_goals(url)
-        except:
-            import pdb; pdb.set_trace()
-
-        try:
-            scrape_live_lineups(url)
-        except:
-            import pdb; pdb.set_trace()
-        
-
-    x = 5
-    return real_games
+    return games
 
 
-
+def scrape_all_league_goals(league_code):
+    goals = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        goals.extend(scrape_live_goals(url))
+    return goals
 
 
 def scrape_scoreboard_urls(url):
@@ -202,7 +191,7 @@ def scrape_live_game(url):
         'referee': referee
         }
 
-
+@data_cache
 def scrape_live_goals(url):
     """
     Get goal data from a game page.
@@ -386,5 +375,6 @@ if __name__ == "__main__":
         ]
 
 
-    print scrape_all_league_games('mex.1')
+    #print scrape_all_league_games('arg.1')
+    print scrape_all_league_goals('usa.1')
     

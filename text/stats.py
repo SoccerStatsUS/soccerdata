@@ -4,6 +4,8 @@ import os
 
 from soccerdata.utils import data_cache
 
+from soccerdata.alias import get_team
+
 DIR = '/home/chris/www/soccerdata/data/stats'
 
 if not os.path.exists(DIR):
@@ -11,12 +13,12 @@ if not os.path.exists(DIR):
 
 #@data_cache
 def process_all_chris_stats():
-    files = os.listdir(DIR)
+
     l = []
-    for fn in files:
-        p = os.path.join(DIR, fn)
-        stats = process_stats(p)
-        l.extend(stats)
+    l.extend(process_stats("mls_stats.csv", "MLS"))
+    l.extend(process_stats("pdl_stats.csv", "PDL"))
+    l.extend(process_stats("psl_stats.csv", "PSL"))
+    l.extend(process_stats("usl_one_stats.csv", "USL-1"))
     return l
     
 
@@ -45,13 +47,20 @@ def process_name(s):
 
 
 
-def process_stats(path):
+def process_stats(fn, competition):
 
     def process_line(line):
         # clean this up.
         fields = line.split('\t')
         d = dict(zip(header, fields))
         d['name'] = process_name(d['name'])
+        d['competition'] = competition
+        d['season'] = d.pop('year')
+
+        try:
+            d['team'] = get_team(d['team'])
+        except:
+            import pdb; pdb.set_trace()
             
         for k in 'games_played', 'games_started', 'minutes', 'goals', 'assists', 'shots', 'shots_on_goal', \
                 'blocks', 'fouls_committed', 'fouls_suffered', 'offsides', 'pk_goals', 'pk_attempts', 'pks_drawn', \
@@ -74,6 +83,7 @@ def process_stats(path):
                 d.pop('points')
         return d
 
+    path = os.path.join(DIR, fn)
     lines = open(path).read().strip().split('\n')
     header = lines[0].split('\t')
     return [process_line(line) for line in lines[1:]]

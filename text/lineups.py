@@ -9,7 +9,7 @@ import os
 import re
 import sys
 
-from soccerdata.teams import get_team
+from soccerdata.alias import get_team
 from soccerdata.utils import data_cache
 
 

@@ -1,6 +1,6 @@
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
-from soccerdata.teams import get_team
+from soccerdata.alias import get_team
 
 
 def merge():

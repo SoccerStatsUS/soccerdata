@@ -4,7 +4,7 @@ import itertools
 from BeautifulSoup import BeautifulSoup
 
 # Probably do the team stuff when we're merging into canonical tables.
-from soccerdata.teams import get_team
+from soccerdata.alias import get_team
 from soccerdata.utils import scrape_soup, get_contents, data_cache
 
 
