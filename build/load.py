@@ -1,7 +1,7 @@
 from soccerdata.mongo import generic_load, soccer_db
 from soccerdata.text import bios, lineups,  salaries, drafts, stats
 from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
-from soccerdata.scrapers import eufootball, australia, soccernet
+
 
 
 
@@ -17,7 +17,8 @@ def load():
     # Scraped data
     load_mls()
     load_nasl()
-    #load_soccernet()
+    load_soccernet()
+
     #load_mediotiempo()
     #load_wiki()
     
@@ -73,7 +74,12 @@ def load_nasl():
 
 
 def load_soccernet():
-    pass
+    from soccerdata.scrapers import soccernet
+    generic_load(soccer_db.soccernet_games, lambda: soccernet.scrape_all_league_games('usa.1'))
+    generic_load(soccer_db.soccernet_goals, lambda: soccernet.scrape_all_league_goals('usa.1'))
+    generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups('usa.1'))
+
+
 
 def load_mediotiempo():
     pass
@@ -91,6 +97,7 @@ def load_fbleague():
 
 
 def load_aleague():
+    from soccerdata.scrapers import australia
     # Australian A-league.
     print "Loading A-league.com game scores."
     generic_load(soccer_db.aleague_games, australia.scrape_all_games)
@@ -108,6 +115,7 @@ def load_fifa():
 
 
 def load_eufootball():
+    from soccerdata.scrapers import eufootball
     # All-time European national team games.
     print "Loading eufootball.com game scores."
     generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)    
