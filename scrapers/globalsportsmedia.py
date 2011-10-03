@@ -49,6 +49,9 @@ from soccerdata.utils import scrape_soup, get_contents
 
 
 def scrape_all_games():
+    """
+    """
+    # Not sure what this is supposed to be doing.
     urls = get_urls()
     games = []
     for url in urls[1:]:
@@ -57,12 +60,10 @@ def scrape_all_games():
 
 
 def get_urls(url, searched=None):
-    import time
-    import random
-    #time.sleep(20)
-    #time.sleep(random.choice(range(0, 11)))
-
-    import pdb; pdb.set_trace()
+    """
+    Get all urls linked from a page via the select dropdowns.
+    """
+    
 
     if url == 'http://concacaf.globalsportsmedia.com0':
         import pdb; pdb.set_trace()
@@ -70,7 +71,7 @@ def get_urls(url, searched=None):
     if searched is None:
         searched = set([url])
 
-    soup = scrape_soup(url)
+    soup = scrape_soup(url, sleep=10)
     options = soup.findAll("option")
     relative_urls = [e['value'] for e in options if e['value'].startswith("/")]
     urls = ['http://concacaf.globalsportsmedia.com%s' % u for u in relative_urls]
@@ -85,6 +86,9 @@ def get_urls(url, searched=None):
 
 
 def scrape_games(url):
+    """
+    Scrape games from a scoreboard.
+    """
 
     soup = scrape_soup(url)
     tables = soup.findAll("table", "matches  ")

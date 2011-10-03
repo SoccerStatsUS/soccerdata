@@ -12,20 +12,32 @@ from soccerdata.utils import get_cache, set_cache
 
 
 def scrape_all_players():
-    bios = {}
-    stats = scrape_all_stats()
-    for stat in stats:
+    """
+    Scrape all players that are linked to by a stats link.
+    Should comprise almost all players who have played in MLS.
+    (Currently coaches are not linked, plus mlssoccer.com is
+    just not consistently good at stats.
+    """
+    
+    bios = []
+    visited = set()
+    for stat in scrape_all_stats():
         url = stat['url']
-        if url and url not in bios:
-            bios[url] = scrape_player_bio(url)
+        if url and url not in visited:
+            visited.add(url)
+            bios.append(scrape_player_bio(url))
 
-    return bios.values()
+    return bios
 
 
 def scrape_all_stats():
     """
     Scrape all mls stats.
     """
+    # This currently looks at all possible teams / years
+    # and scrapes them, so there are a lot of unsuccessful
+    # attempts.
+
     stats = []
     for season_type in season_types:
         for team_id in team_ids:
@@ -75,17 +87,25 @@ def scrape_active_player_urls():
 
 
 def scrape_player_bio(url):
+    """
+    Scrapes player biographical information.
+    """
+    # We need to also get season stat information
+    # because mlssoccer.com merges team stats on
+    # their stat pages for some reason.
+
     data = get_cache(url)
     if data:
-        print "retrieved %s from data cache" % url
         return data
 
     soup = scrape_soup(url, sleep=5)
 
-
     try:
         name = get_contents(soup.find("div", "header_title").find("h1"))
     except:
+        # Some players don't have header_titles?
+        # e.g. Chris Eylander?
+        # Not sure at all why.
         print "No result for %s" % url
         return {}
 
@@ -96,6 +116,7 @@ def scrape_player_bio(url):
 
     height = weight = birthdate = birthplace = None
 
+    # Need to actually parse these, especially birthdate.
     if "Height" in d:
         height = d['Height']
         
@@ -146,6 +167,12 @@ def get_player_urls_from_page(url):
 
 
 def scrape_games(year):
+    """
+    Scrape all game data from a scoreboard.
+    """
+    
+
+    # If the year is this year, re-scrape.
     if year >= datetime.date.today().year:
         static = False
     else:
@@ -155,6 +182,7 @@ def scrape_games(year):
     soup = scrape_soup(url, static)
     l = scrape_games_first_pass(soup)
     return MLSScoresProcessor().process_rows(l)
+
 
 def scrape_games_first_pass(soup):
     """

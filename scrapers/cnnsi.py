@@ -1,10 +1,16 @@
-
-from soccerdata.utils import scrape_soup, get_contents
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
 
 import re
 
 
+from soccerdata.utils import scrape_soup, get_contents
+
+
 def scrape_live_game(soup):
+    """
+    Scrape game data from a game.
+    """
     score_table = soup.findAll("table")[6]
 
     home_team = get_contents(score_table.find("td", 'shsTotD shsIFBMastTMName shsHomeTeam'))
@@ -30,6 +36,9 @@ def scrape_live_game(soup):
         }
 
 def scrape_live_goals(soup):
+    """
+    Scrape goal list from a game.
+    """
     goals_table = soup.findAll("table")[7]
 
     goals = [get_contents(e)for e in goals_table.findAll("tr")]
@@ -48,6 +57,9 @@ def scrape_live_goals(soup):
 
 
 def scrape_live_lineups(soup):
+    """
+    Scrape lineup list from a game.
+    """
     tables = soup.findAll("table")
     home_table = tables[10]
     away_table = tables[12]

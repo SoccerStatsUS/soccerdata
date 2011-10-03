@@ -4,12 +4,12 @@
 # Looks to have old premiership scores.
 
 # A lot of nice stuff.
-# 
+# Not necessarily good structured.
 
 # Starts in 1888.
 
-# http://www.fanbase.com/Arsenal-FC-1926-27/schedule
 
+# http://www.fanbase.com/Arsenal-FC-1926-27/schedule
 
 # Failing
 # http://www.fanbase.com/Charlton-Athletic-2009-10/schedule
@@ -70,6 +70,9 @@ def scrape_teams(url):
 
 # Using only for EPL scores.
 def scrape_team_year(team, year):
+    """
+    Scrape scores from a team-year page
+    """
 
     # Probably the wrong place for this logic.
     if year == 2009:

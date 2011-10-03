@@ -1,12 +1,33 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
 
-#
+import json
+
+from soccerdata.utils import scrape_soup, get_contents, scrape_url
+
+
 # http://a-leaguearchive.tripod.com/2005/results05a.htm
 
-# Looks like we're missing USL-1 from 2006-2009.
+# My stats are USL-1 from 2006-2009, so these scraped data would be perfect.
 
 
 # Woo-hoo! This returns stats json!
-url = 'http://www.uslsoccer.com/teams/33769235/934451-33769304-stat.js'
+# A player bio from somewhere.
+json_url = 'http://www.uslsoccer.com/teams/33769235/934451-33769304-stat.js'
+
+
+
+def scrape_json_url(url):
+    data = scrape_url(url)
+    
+    data = data.replace('players:', '"players":')
+    data = data.replace('gk:', '"gk":')
+
+    import pdb; pdb.set_trace()
+
+    return l
+
+    
 
 
 # USL-1 urls
@@ -44,12 +65,11 @@ url = 'http://www.uslsoccer.com/teams/33769235/934451-33769304-stat.js'
 #http://pdl.uslsoccer.com/stats/2011/2214590.html
 
 
-
-
-from soccerdata.utils import scrape_soup, get_contents
-
-
 def scrape_game_page(url):
+    """
+    A weak attempt at scraping a usl game page.
+    """
+
     soup = scrape_soup(url, encoding='iso_8859_1')
     div = soup.find("div", {"style": 'border: 1px solid #B0B0B0; background-color: #FFFFFF; padding: 8px;'})    
 
@@ -83,6 +103,7 @@ def scrape_game_page(url):
 def scrape_bad(url):
     """
     """
+    # uslsoccer.com suggests other urls if you link a bad url.
     soup = scrape_soup(url)
     
 
@@ -96,4 +117,6 @@ if __name__ == "__main__":
     #url = 'http://www.uslsoccer.com/stats/2011/2214249.html'
     #scrape_bad(url)
 
-    print scrape_game_page('http://www.uslsoccer.com/stats/2005/32094.html')
+    print scrape_json_url(json_url)
+
+    #print scrape_game_page('http://www.uslsoccer.com/stats/2005/32094.html')

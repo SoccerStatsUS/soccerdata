@@ -1,15 +1,16 @@
 import datetime
 import re
-from BeautifulSoup import BeautifulSoup
 
-from soccerdata.utils import scrape_url, get_contents
+from soccerdata.utils import scrape_soup, get_contents
 
 # Scrape the scores of the NASL.
 # They don't seem to have any player stats.
 
 def scrape_scores():
-    url = 'http://nasl.com/index.php?id=12'
-    soup = BeautifulSoup(scrape_url(url))
+    """
+    Scrape all nasl scores for 2011.
+    """
+    soup = scrape_soup('http://nasl.com/index.php?id=12')
     table = soup.find("h1", "blockHeader").nextSibling.nextSibling
     rows = table.findAll("tr")
     results = []

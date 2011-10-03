@@ -30,10 +30,16 @@ season_ids = [
 
 
 def get_season_id(year):
+    """
+    Get the a-league.com id for a given year.
+    """
     return dict(season_ids)[year]
 
 
 def scrape_year_games(year):
+    """
+    Scrape all game data for a given year in the A-league.
+    """
     url = 'http://www.a-league.com.au/default.aspx?s=aleague_fixtures&seasonid=%s&roundid=-2' % get_season_id(year)
     soup = scrape_soup(url)
     table = soup.find("table", "fixturetable")

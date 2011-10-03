@@ -68,6 +68,7 @@ def get_cache(cache_id):
             'cache_id': cache_id
             })
     if d:
+        print "uncached %s" % cache_id
         return d['value']
     return None
                                     

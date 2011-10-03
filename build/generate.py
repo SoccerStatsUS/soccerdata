@@ -7,8 +7,10 @@ from standings import get_standings
 
 
 def generate():
-    # Generate
-    #generate_standings(soccer_db.mls_games, soccer_db.mls_standings)
+    # Generate standings
+    generate_standings(soccer_db.scaryice_games, soccer_db.standings)
+
+
     generate_stats()
     generate_transfers()
 
