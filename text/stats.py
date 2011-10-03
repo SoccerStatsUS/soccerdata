@@ -2,13 +2,15 @@
 
 import os
 
+from soccerdata.utils import data_cache
+
 DIR = '/home/chris/www/soccerdata/data/stats'
 
 if not os.path.exists(DIR):
     DIR = "/Users/chrisedgemon/www/soccerdata/data/stats"
 
-
-def process_all_stats():
+#@data_cache
+def process_all_chris_stats():
     files = os.listdir(DIR)
     l = []
     for fn in files:
@@ -43,12 +45,10 @@ def process_name(s):
 
 
 
-def process_stats(file):
-    lines = open(file).read().strip().split('\n')
-    header = lines[0].split('\t')
+def process_stats(path):
 
-    stats = []
-    for line in lines[1:]:
+    def process_line(line):
+        # clean this up.
         fields = line.split('\t')
         d = dict(zip(header, fields))
         d['name'] = process_name(d['name'])
@@ -72,13 +72,17 @@ def process_stats(file):
                 d.pop('position')
             if 'points' in d:
                 d.pop('points')
-            stats.append(d)
-    return stats
+
+        return d
+
+    lines = open(path).read().strip().split('\n')
+    header = lines[0].split('\t')
+    return [process_line(line) for line in lines[1:]]
 
 def load_chris_stats():
     return process_stats(STATS_PATH)
         
 if __name__ == "__main__":
-    print process_all_stats()
+    process_all_chris_stats()
     
 

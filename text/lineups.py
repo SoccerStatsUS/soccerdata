@@ -10,6 +10,7 @@ import re
 import sys
 
 from soccerdata.teams import get_team
+from soccerdata.utils import data_cache
 
 
 file_mapping = {
@@ -33,8 +34,8 @@ file_mapping = {
     "TOR": u'Toronto FC',
  }    
 
-
-def load_all_games():
+@data_cache
+def load_all_games_scaryice():
     l = []
     for key in file_mapping.keys():
         fn = "%s.csv" % key
@@ -46,16 +47,16 @@ def load_all_games():
 
     return sorted([dict(e) for e in s])
 
-
-def load_all_goals():
+@data_cache
+def load_all_goals_scaryice():
     l = []
     for key in file_mapping.keys():
         fn = "%s.csv" % key
         l.extend(get_goals(fn))
     return l
 
-
-def load_all_lineups():
+@data_cache
+def load_all_lineups_scaryice():
     l = []
     for key in file_mapping.keys():
         fn = "%s.csv" % key
@@ -775,7 +776,7 @@ class Lineup(object):
 
 
 if __name__ == "__main__":
-    print load_all_lineups()
+    print load_all_lineups_scaryice()
             
         
             

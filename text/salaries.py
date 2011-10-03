@@ -1,5 +1,5 @@
 
-SALARIES_PATH = "/home/chris/www/soccerdata/data/people/salaries.csv"
+SALARIES_PATH = "/home/chris/www/soccerdata/data/salaries.csv"
 
 def load_salaries():
     """
