@@ -1,7 +1,7 @@
 import datetime
 import hashlib
 
-from soccerdata.utils import scrape_url, get_contents, get_cache, set_cache
+from soccerdata.utils import scrape_url, get_contents, data_cache
 
 
 from BeautifulSoup import BeautifulSoup
@@ -59,15 +59,11 @@ def all_season_urls():
             
     return urls
 
-
+@data_cache
 def scrape_season(url, competition, season, year):
     """
     Scrape a single season.
     """
-    key = hashlib.md5(unicode((url, competition, season, year))).hexdigest()
-    l = get_cache(key)
-    if l:
-        return l
     
 
     html = scrape_url(url)
@@ -112,6 +108,5 @@ def scrape_season(url, competition, season, year):
             # Presumably there are no more score tables.
             raised = True
 
-    set_cache(key, l)
     return l
 

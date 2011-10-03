@@ -4,9 +4,8 @@
 # A very impressive site with records of all 
 # European national team games ever.
 
-import hashlib
 
-from soccerdata.utils import scrape_soup, get_contents, get_cache, set_cache
+from soccerdata.utils import scrape_soup, get_contents, data_cache
 
 
 def scrape_all_games():
@@ -21,18 +20,12 @@ def scrape_all_games():
     return l
 
 
-
+@data_cache
 def scrape_year(year, page=1):
     """
     Scrape all scoreboards for a given year from eufootball.
     """
     # Probably just convert this to scrape_all_urls function.
-
-    key = hashlib.md5(unicode((year, page))).hexdigest()
-    games = get_cache(key)
-    if games is not None:
-        return games
-        
 
     if page == 1:
         url = 'http://www.eu-football.info/_year.php?id=%s' % year
@@ -43,7 +36,6 @@ def scrape_year(year, page=1):
     if games:
         games.extend(scrape_year(year, page+1))
 
-    set_cache(key, games)
     return games
                     
 

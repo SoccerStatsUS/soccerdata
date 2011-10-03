@@ -1,12 +1,18 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+
+# Errors:
+# http://soccernet.espn.go.com/match?id=289678
+# http://soccernet.espn.go.com/match?id=262155
+# This one is missing match stats...
+
 import datetime
 import re
 
 from collections import defaultdict
 
-from soccerdata.utils import scrape_soup, get_contents, get_cache, set_cache
+from soccerdata.utils import scrape_soup, get_contents
 
 # Soccernet is probably the best of all. 
 # Triple down on soccernet.
@@ -284,19 +290,39 @@ def scrape_live_lineups(url):
     game_data = scrape_live_game(url)
 
     tables = soup.findAll("table")
+    
 
-    home_lineup, _, home_subs = tables[2:5]
-    away_lineup, _, away_subs = tables[7:10]
+    if len(tables) == 11:
+        home_lineup, _, home_subs = tables[1:4]
+        away_lineup, _, away_subs = tables[6:9]
+
+    elif len(tables) == 12:
+        home_lineup, _, home_subs = tables[2:5]
+        away_lineup, _, away_subs = tables[7:10]
+
+    else:
+        raise
+
 
     def process_substitutions(subs):
+        """
+        Returns a dict like {"David Beckham": {"off": 45}, "Ryan Giggs": {"on": 45} }
+        """
 
         d = defaultdict(dict)
 
         for sub in subs.findAll("tr"):
             tds = sub.findAll("td")
             if tds:
+                if get_contents(tds[0]) == u'No Substitutions':
+                    return {}
+
                 minute = int(get_contents(tds[0]).replace("'", ''))
-                on, off = [get_contents(e) for e in tds[1].findAll("a")]
+
+                try:
+                    on, off = [get_contents(e) for e in tds[1].findAll("a")]
+                except:
+                    import pdb; pdb.set_trace()
                 d[off]['off'] = d[on]['on'] = minute
 
         return d

@@ -5,11 +5,10 @@ import re
 
 from BeautifulSoup import BeautifulSoup
 
-from soccerdata.utils import scrape_url, get_contents, get_cache, set_cache
+from soccerdata.utils import scrape_url, get_contents, data_cache
 
-import hashlib
 
-url = "http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3051/report.html"
+#url = "http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3051/report.html"
 
 
 mapping = {
@@ -48,9 +47,6 @@ def scrape_all_world_cup_goals():
     return l
         
         
-
-
-
 def scrape_world_cup_game_urls(year):
     d = mapping[year]
     prefix = 'http://www.fifa.com'
@@ -78,17 +74,11 @@ def scrape_goals_year(year):
     return goals
 
 
-
+@data_cache
 def scrape_world_cup_game(url, competition):
     """
     Returns a 
     """
-
-    key = hashlib.md5(unicode((url, competition))).hexdigest()
-    result = get_cache(key)
-    if result:
-        print "Scraped %s" % url
-        return result
 
     data = scrape_url(url)
     data = data.split("<h2>Advertisement</h2>")[0]
@@ -111,7 +101,7 @@ def scrape_world_cup_game(url, competition):
     else:
         raise
 
-    result = {
+    return {
         "home_team": unicode(home_team),
         "away_team": unicode(away_team),
         "score": unicode(score),
@@ -122,17 +112,13 @@ def scrape_world_cup_game(url, competition):
         "competition": competition,
         "url": url,
         }
-    set_cache(key, result)
-    return result
-
-
 
 # Seems the 2006 world cup report is missing some games for sasa ilic.
 goal_replace = {
     u"(SCG) 20',": "Sasa ILIC (SCG) 20',"
     }
 
-
+@data_cache
 def scrape_world_cup_goals(url):
     """
     Returns a list of dicts of the form 
@@ -140,10 +126,6 @@ def scrape_world_cup_goals(url):
     """
     # This needs a url or some way to identify the game.
 
-    key = hashlib.md5(unicode(("goals", url))).hexdigest()
-    result = get_cache(key)
-    if result:
-        return result
 
     data = scrape_url(url)
     data = data.split("<h2>Advertisement</h2>")[0]
@@ -154,9 +136,7 @@ def scrape_world_cup_goals(url):
     goals = [goal_replace.get(e, e) for e in goals]
 
     goal_re = re.compile("^(?P<name>.*?) \((?P<team>[A-Z]+)\) (?P<minute>\d+)'")
-    result = [goal_re.search(s.strip()).groupdict() for s in goals]
-    set_cache(key, result)
-    return result
+    return [goal_re.search(s.strip()).groupdict() for s in goals]
     
 
 # These don't get used.

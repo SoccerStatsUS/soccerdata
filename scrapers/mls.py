@@ -1,17 +1,16 @@
 import datetime
-import hashlib
 import itertools
 
 from BeautifulSoup import BeautifulSoup
 
 from soccerdata.teams import get_team
-from soccerdata.utils import scrape_soup, get_contents
-from soccerdata.utils import get_cache, set_cache
+from soccerdata.utils import scrape_soup, get_contents, data_cache
+
 
 # Need to comment this!
 
 
-def scrape_all_players():
+def scrape_all_bios_mlssoccer():
     """
     Scrape all players that are linked to by a stats link.
     Should comprise almost all players who have played in MLS.
@@ -21,7 +20,7 @@ def scrape_all_players():
     
     bios = []
     visited = set()
-    for stat in scrape_all_stats():
+    for stat in scrape_all_stats_mlssoccer():
         url = stat['url']
         if url and url not in visited:
             visited.add(url)
@@ -30,7 +29,7 @@ def scrape_all_players():
     return bios
 
 
-def scrape_all_stats():
+def scrape_all_stats_mlssoccer():
     """
     Scrape all mls stats.
     """
@@ -47,24 +46,22 @@ def scrape_all_stats():
                 stats.extend(scrape_team_stats(url, season, season_type))
     return stats
 
-
-def scrape_all_games():
-    l = get_cache("mls_all_games")
-    if l:
-        return l
+@data_cache
+def scrape_all_games_mlssoccer():
 
     l = []
     years = range(1996, 2011)
     for year in years:
         l.extend(scrape_games(year))
 
-    set_cache("mls_all_games", l)
     return l
 
 
 
-
 def scrape_active_players():
+    """
+    Scrape active mls player bios.
+    """
     l = []
     for url, name in scrape_active_player_urls():
         full_url = "http://mlssoccer.com%s" % url
@@ -86,6 +83,7 @@ def scrape_active_player_urls():
     return sorted(urls.items())
 
 
+@data_cache
 def scrape_player_bio(url):
     """
     Scrapes player biographical information.
@@ -93,10 +91,6 @@ def scrape_player_bio(url):
     # We need to also get season stat information
     # because mlssoccer.com merges team stats on
     # their stat pages for some reason.
-
-    data = get_cache(url)
-    if data:
-        return data
 
     soup = scrape_soup(url, sleep=5)
 
@@ -129,7 +123,7 @@ def scrape_player_bio(url):
     if 'Birthplace' in d:
         birthplace = d['Birthplace']
 
-    data =  {
+    return {
         'name': name,
         'height': height,
         'weight': weight,
@@ -137,9 +131,6 @@ def scrape_player_bio(url):
         'birthplace': birthplace,
         }
 
-    
-    set_cache(url, data)
-    return data
 
 
 def get_player_urls_from_page(url):
@@ -341,17 +332,13 @@ def find_duplicates(lst):
             
 
 
-
+@data_cache
 def scrape_team_stats(url, season, season_type):
     """
     Scrape team stats for a given year.
     season_type is playoff or regular.
     """
 
-    key = hashlib.md5(unicode((url, season, season_type))).hexdigest()
-    stats = get_cache(key)
-    if stats is not None:
-        return stats
         
     
     if season_type == "PS":
@@ -366,7 +353,6 @@ def scrape_team_stats(url, season, season_type):
     stats_table = soup.find("div", "stats-table")
     if not stats_table:
         print "No stats table: %s" % url
-        set_cache(key, [])
         return []
 
     # Can't find rows.
@@ -406,7 +392,7 @@ def scrape_team_stats(url, season, season_type):
                 })
 
 
-    set_cache(key, stats)
+
     return stats
 
 
