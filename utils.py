@@ -10,6 +10,19 @@ from soccerdata.cache import data_cache, set_cache
 connection = pymongo.Connection()
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 
+
+def pounds_to_kg(pounds):
+    return pounds * 0.45359237
+
+
+def inches_to_cm(inches=0, feet=0):
+    if feet:
+        inches = inches + (feet * 12)
+
+    return inches * 2.54
+
+
+
 def get_contents(l):
     """
     Fetch the contents from a soup object.
