@@ -8,6 +8,8 @@ import pymongo
 connection = pymongo.Connection()
 cache_db = connection.cache
 
+cache_db.data_cache.create_index('cache_id')
+
 class UncachedException(Exception): pass
 
 
