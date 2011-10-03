@@ -152,7 +152,7 @@ pdl_teams = {
     'Worcester': 'Worcester Kings',
     'Jersey Shore': 'Jersey Shore Boca',
     'Jersey': 'Jersey Falcons',
-    'Chesapeake': 'Chesapeake Dragons'
+    'Chesapeake': 'Chesapeake Dragons',
     ('St. Louis', 'PDL', 2003): 'St. Louis Strikers',
     'Wisconsin': 'Wisconsin Rebels',
     ('Chicago', 'PDL'): 'Chicago Fire Reserves',
