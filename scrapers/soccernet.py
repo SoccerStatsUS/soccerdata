@@ -12,7 +12,7 @@ import re
 
 from collections import defaultdict
 
-from soccerdata.utils import scrape_soup, get_contents
+from soccerdata.utils import scrape_soup, get_contents, data_cache
 
 # Soccernet is probably the best of all. 
 # Triple down on soccernet.
@@ -53,13 +53,12 @@ def scrape_all_league_games(league_code):
     # The soccernet league code.
 
     url = 'http://soccernet.espn.go.com/scores?date=20110930&league=%s&cc=5901&xhr=1' % league_code
-    urls = scrape_all_scoreboards(url)
+    urls = scrape_scoreboard_urls(url)
 
     games = []
     for url in urls:
-        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
         try:
-            games.extend(scrape_scoreboard(soup))
+            games.extend(scrape_league_scoreboard(url))
         except:
             print url
 
@@ -85,64 +84,44 @@ def scrape_all_league_games(league_code):
     return real_games
 
 
-def scrape_all_dates():
-    """
-    Scrape the generic scoreboard for all dates.
-    """
-    one_day = datetime.timedelta(days=1)
-    today = datetime.date.today()
-    d = today
-    games = []
-    while d > datetime.date(2000, 1, 1):
-        try:
-            d = d - one_day
-            url = 'http://soccernet.espn.go.com/scores?date=%s&league=all&cc=5901&xhr=1' % d.strftime("%Y%m%d")
-            soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
-            g = scrape_scoreboard(soup)
-            print g
-            games.extend(g)
-        except KeyboardInterrupt:
-            raise
-        except:
-            print "Failed %s" % url
-    return games
 
 
 
-
-
-def scrape_all_scoreboards(url):
+def scrape_scoreboard_urls(url):
     """
     Returns a list of game urls for a given scoreboard category, e.g. mls.1
     """
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
-    new_url = scrape_scoreboard_url_from_scoreboard(soup)
-    urls = [new_url ]
+
+    @data_cache
+    def get_previous_url(url):
+        """
+        Given a scoreboard, scrape the url for the previous scoreboard.
+        Returns an ajax url (unformatted)
+        """
+        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+        urls = [a['href'] for a in soup.findAll("ul")[0].findAll("a")]
+        full_url = "%s%s&xhr=1" % (base, urls[0])
+        return full_url
+
+
+    new_url = get_previous_url(url)
+    urls = [new_url]
     while new_url:
-        soup = scrape_soup(new_url, encoding='iso_8859_1', sleep=10)
-        new_url = scrape_scoreboard_url_from_scoreboard(soup)
+        new_url = get_previous_url(new_url)
         if new_url in urls:
             return urls
         urls.append(new_url)
     return urls
 
 
-def scrape_scoreboard_url_from_scoreboard(soup):
-    """
-    Given a scoreboard, scrape the url for the previous scoreboard.
-    Returns an ajax url (unformatted)
-    """
-
-    urls = [a['href'] for a in soup.findAll("ul")[0].findAll("a")]
-    full_url = "%s%s&xhr=1" % (base, urls[0])
-    return full_url
 
 
-
-def scrape_scoreboard(soup):
+@data_cache
+def scrape_league_scoreboard(url):
     """
     Get game result data from a scoreboard page.
     """
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
     
     gameboxes = soup.findAll("div", 'gamebox')
     
@@ -363,6 +342,30 @@ def scrape_live_lineups(url):
 
     
     
+def scrape_all_dates():
+    """
+    Scrape the generic scoreboard for all dates.
+    """
+    # Non-functional
+
+    one_day = datetime.timedelta(days=1)
+    today = datetime.date.today()
+    d = today
+    games = []
+    while d > datetime.date(2000, 1, 1):
+        try:
+            d = d - one_day
+            url = 'http://soccernet.espn.go.com/scores?date=%s&league=all&cc=5901&xhr=1' % d.strftime("%Y%m%d")
+            g = scrape_general_scoreboard(url)
+            print g
+            games.extend(g)
+        except KeyboardInterrupt:
+            raise
+        except:
+            print "Failed %s" % url
+    return games
+
+
         
 
 

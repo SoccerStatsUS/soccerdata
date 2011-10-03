@@ -91,7 +91,7 @@ class data_cache(AbstractCache):
 
         try:
             data = get_data_cache(key)
-            print "Returning %s from data cache." % key
+            print "Returning %s%s from data cache." % (self.func.func_name, args)
             return data
         except UncachedException:
             pass
