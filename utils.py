@@ -1,4 +1,6 @@
 import bson
+import functools
+import hashlib
 import pymongo
 import random
 import requests
@@ -27,16 +29,19 @@ USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13
 
 
 
-# merge this.
+
 def get_contents(l):
     """
     Fetch the contents from a soup object.
     """
-    # Good recursive function.
+    # We seem to be losing some spaces with this function.
+    # cf. 
+
     if not hasattr(l, 'contents'):
         s = l
     else:
         s = ""
+
         for e in l.contents:
             s += get_contents(e)
     return s.strip()
@@ -59,6 +64,67 @@ def set_cache(cache_id, value):
             "cache_id": cache_id,
             "value": value
             })
+
+
+class AbstractCache(object):
+    """Decorator that caches a function's return value each time it is called.
+    If called later with the same arguments, the cached value is returned, and
+    not re-evaluated.
+    """
+    def __init__(self, func):
+        self.func = func
+        self.cache = {}
+
+    def __call__(self, *args):
+        raise NotImplementedError()
+        # Should maybe fail rather than returning None?
+        # Presumably need kwargs in here too?
+        key = hashlib.md5('%s:%s' % (self.func_name, args)).hexdigest()
+        data = get_cache(key)
+
+        if data is not None:
+            print "Returning %s from data cache."
+            return data
+
+        value = self.func(*args)
+        set_cache(key, value)
+        return value
+
+
+    def __repr__(self):
+        """Return the function's docstring."""
+        return self.func.__doc__
+    def __get__(self, obj, objtype):
+        """Support instance methods."""
+        return functools.partial(self.__call__, obj)
+
+
+
+class data_cache(AbstractCache):
+
+    def __call__(self, *args):
+        # Should maybe fail rather than returning None?
+        # Presumably need kwargs in here too?
+        key = hashlib.md5('%s:%s' % (self.func_name, args)).hexdigest()
+        data = get_cache(key)
+
+        if data is not None:
+            print "Returning %s from data cache."
+            return data
+
+        value = self.func(*args)
+        set_cache(key, value)
+        return value
+
+class set_cache(AbstractCache):
+
+    def __call__(self, *args):
+        # Should maybe fail rather than returning None?
+        # Presumably need kwargs in here too?
+
+        value = self.func(*args)
+        set_cache(key, value)
+        return value
 
 
 
