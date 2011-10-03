@@ -98,9 +98,9 @@ class set_cache(AbstractCache):
     def __call__(self, *args):
         # Should maybe fail rather than returning None?
         # Presumably need kwargs in here too?
-
+        key = hashlib.md5('%s:%s' % (self.func.func_name, args)).hexdigest()
         value = self.func(*args)
-        set_cache(key, value)
+        set_data_cache(key, value)
         return value
 
                                     
