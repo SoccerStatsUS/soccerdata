@@ -115,7 +115,9 @@ def scrape_scoreboard_urls(url):
 
 
 
-
+# I'm not too confident this works.
+# Maybe a better idea just to use for urls.
+# Definitely need to add competition to the result.
 @data_cache
 def scrape_league_scoreboard(url):
     """
@@ -158,7 +160,7 @@ def scrape_league_scoreboard(url):
 
     return [process_game(game) for game in gameboxes]
 
-
+@data_cache
 def scrape_live_game(url):
     """
     Get game data from a game page.
