@@ -1,16 +1,51 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # Need to redo a bunch of DC United Goal entries from around 2003 and 2004.  Format is Adu (34;85), which is not useable...
 
 # Load data from scrayice's lineup files.
 
+# Lineup errors!
+
+# (u'Kansas City Wizards', datetime.datetime(1998, 4, 8, 0, 0)) parsing double sub wrong.
+# (u'Kansas City Wizards', datetime.datetime(2002, 8, 28, 0, 0))
+# (u'Kansas City Wizards', datetime.datetime(2007, 4, 18, 0, 0))
+# (u'Los Angeles Galaxy', datetime.datetime(1996, 5, 5, 0, 0)) parsing double sub wrong.
+
+# (u'Los Angeles Galaxy', datetime.datetime(2007, 8, 18, 0, 0)) # parsing double sub wrong.
+# (u'Los Angeles Galaxy', datetime.datetime(2010, 7, 4, 0, 0)) [own goal] probably just give up on these?
+# (u'FC Dallas', datetime.datetime(1996, 10, 2, 0, 0)) Gerell Elliot
+# (u'FC Dallas', datetime.datetime(2002, 9, 1, 0, 0)) [formatting]
+# (u'FC Dallas', datetime.datetime(2004, 7, 20, 0, 0)) u'Ronnie O\u2019Brien
+# (u'FC Dallas', datetime.datetime(2007, 10, 3, 0, 0)) # parsing double sub wrong.
+# (u'Chicago Fire', datetime.datetime(2001, 8, 29, 0, 0)) parsing double sub wrong.
+# (u'D.C. United', datetime.datetime(2005, 9, 22, 0, 0)) u'Christian G\xf3mez
+# (u'D.C. United', datetime.datetime(2007, 2, 21, 0, 0)) No sub times.
+# (u'Columbus Crew', datetime.datetime(1996, 8, 10, 0, 0)) parsing double sub wrong.
+# (u'New England Revolution', datetime.datetime(2009, 7, 15, 0, 0)) Janauskas missing!
+# (u'Miami Fusion', datetime.datetime(2000, 7, 25, 0, 0)) parsing triple sub wrong.
+# (u'Houston Dynamo', datetime.datetime(2010, 7, 21, 0, 0)) parsing double sub wrong.
+# (u'New York Red Bulls', datetime.datetime(2000, 8, 6, 0, 0)) parsing double sub wrong.
+# (u'Tampa Bay Mutiny', datetime.datetime(1996, 9, 7, 0, 0)) # subs formatted wrong.
+# (u'Tampa Bay Mutiny', datetime.datetime(1999, 6, 30, 0, 0)) parsing double sub wrong.
+# (u'Colorado Rapids', datetime.datetime(1996, 7, 7, 0, 0)) u'Scott enedetti
+
+
+
+
+
+
+
+
+from collections import defaultdict
 import datetime
 import os
 import re
 import sys
 
 from soccerdata.alias import get_team
-from soccerdata.utils import data_cache
+from soccerdata.cache import data_cache, set_cache
+
 
 
 file_mapping = {
@@ -32,7 +67,26 @@ file_mapping = {
     "SEA": u'Seattle Sounders',
     "TB": u'Tampa Bay Mutiny',
     "TOR": u'Toronto FC',
- }    
+    }    
+
+
+def make_lineup_dict():
+    """
+    Returns a dict with key/value pairs like this:
+    ("FC Dallas", datetime.datetime(2011,8,1)): ["Kevin Hartman", "Jair Benitez"...
+    """
+    from soccerdata import mongo
+
+    d = defaultdict(list)
+
+    for l in mongo.soccer_db.scaryice_lineups.find():
+        key = (l['team'], l['date'])
+        v = d[key]
+        v.append(l['name'])
+
+    return d
+
+
 
 @data_cache
 def load_all_games_scaryice():
@@ -47,15 +101,127 @@ def load_all_games_scaryice():
 
     return sorted([dict(e) for e in s])
 
-@data_cache
+
+def correct_goal_names(goal_list):
+    """
+    Try to map from Kirovski to Jovan Kirovski
+    based on lineups.
+    """
+
+    # Problems:
+    # (u'Colorado Rapids', datetime.datetime(1996, 9, 15, 0, 0))
+    # Actually a bunch more Rapids Sean/Chris Henderson issues.
+
+    
+    # Match goal names to lineup names.
+    # These will both be repaired later.
+    last_mapping = {
+        'Allnutt': 'Allnut',
+        'Saborío': 'Saborio',
+        'O’Brien': 'O\'Brien',
+        'O’Rourke': 'O\'Rourke',
+        'Aguiliera': 'Aguilera',
+        'Sawatsky': 'Sawatzky',
+        'Peguero': 'Peguero Jean Philippe',
+        'Peguero Jean Philippe': 'Peguero Jean Philippe',
+        'DeRosario': 'De Rosario',
+        'Ben-Dayan': 'Ben Dayan',
+        }
+    # Simon Elliott/Elliot
+
+    # Easiest way to handle this.
+    name_mapping = {
+        'Burciaga': 'Jose Burciaga',
+        'Burciaga Jr.': 'Jose Burciaga',
+        'Preki': 'Preki',
+        'Zoltan': 'Zoltan Hercegfalvi',
+        'Wondolowski': 'Chris Wondolowski', # Steve Wondolowski never scored.
+        'J.P. Garcia': 'Juan Pablo Garcia',
+        }
+
+
+    lineup_dict = make_lineup_dict()
+
+    def get_match(key, first, last):
+        if last in last_mapping:
+            last = last_mapping[last]
+
+        players = lineup_dict[key]
+
+        # Need to correct this in lineups, but can't figure out why it's persisting.
+        # Remove when fixed.
+        # Or alternatively could just do it when importing to main lineups?
+        players = [e.strip() for e in players]
+
+        matches = [e for e in players if e.startswith(first) and e.endswith(last)]
+
+
+        if len(matches) == 0:
+            print key
+            print "No matches: %s" % players
+            print "%s %s\n" % (first, last)
+            return ''
+        elif len(matches) > 1:
+            # Gonna handle this later.
+            if set(matches) == set([u'Sean Henderson', u'Chris Henderson']):
+                return 'Henderson'
+
+            print key
+            print "Too many matches: %s" % matches
+            print "%s %s\n" % (first, last)
+            return ''
+        else:
+            return matches[0]
+            
+    l = []
+    for goal in goal_list:
+        key = (goal['team'], goal['date'])
+        
+        try:
+            name = goal['name']
+        except:
+            import pdb; pdb.set_trace()
+
+        if name in name_mapping:
+            real_name = name_mapping[name]
+
+        else:
+            if "," in name:
+                last, first = name.split(",")
+            elif '.' in name and not name.endswith('.'):
+                try:
+                    first, last = name.split('.')
+                except:
+                    import pdb; pdb.set_trace()
+            else:
+                first = ''
+                last = name
+
+            first = first.replace(".", '')
+
+            real_name = get_match(key, first.strip(), last.strip())
+
+        d = goal.copy()
+        if real_name:
+            d['name'] = real_name
+        l.append(d)
+
+    return l
+        
+            
+    
+
+@set_cache
 def load_all_goals_scaryice():
     l = []
     for key in file_mapping.keys():
         fn = "%s.csv" % key
         l.extend(get_goals(fn))
-    return l
 
-@data_cache
+    return correct_goal_names(l)
+
+
+@set_cache
 def load_all_lineups_scaryice():
     l = []
     for key in file_mapping.keys():
@@ -211,7 +377,7 @@ def get_goals(filename):
                 'team': team_name,
                 'date': date,
                 'season': unicode(date.year),
-                'player': player,
+                'name': player.strip(),
                 'minute': minute,
                 }
 
@@ -237,6 +403,7 @@ def get_goals(filename):
 
 
 def get_lineups(filename):
+    print 'getting'
 
     # 3-tuples 
     # [("Jason Kreis", 0, 90), ("Ariel Graziani", 0, 62), ("Bobby Rhine", 62, 90) ...
@@ -250,6 +417,14 @@ def get_lineups(filename):
              'Tom McManus (Herculez Gomez 65)',),
             ('Ramiro Corrales (sent off 85th minute from bench) (Arturo Alvarez 62)',
              'Ramiro Corrales (Arturo Alvarez 62)'),
+
+            # Bad game 2002-8-28
+            ('Francisco Gómez (Chris Brown, m.62)', 'Francisco Gómez (Chris Brown 62)'),
+            ('Igor Simutenkov (Davy Arnaud, m.46)', 'Igor Simutenkov (Davy Arnaud 46)'),
+             #(y Darío Fabbro (Chris Brunt, m.36))
+            ('Ronnie O’Brien (Bobby Rhine 80)', 'Ronnie O\'Brien (Bobby Rhine 80)'),
+            ('Christian Gómez (John Wilson 61)', 'Christian Gomez (John Wilson 61)'), 
+            ('Scott enedetti', 'Scott Benedetti'),
              
             ]
 
@@ -306,7 +481,14 @@ def get_lineups(filename):
     l = []
     for line in open(p).readlines():
         l.extend(process_line(line))
-    return l
+
+    l2 = []
+    for e in l:
+        f = e.copy()
+        f['name'] = f['name'].strip()
+        l2.append(f)
+
+    return l2
 
 
 
@@ -776,7 +958,8 @@ class Lineup(object):
 
 
 if __name__ == "__main__":
-    print load_all_lineups_scaryice()
+    #print load_all_lineups_scaryice()
+    load_all_goals_scaryice()
             
         
             
