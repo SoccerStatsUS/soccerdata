@@ -1,6 +1,18 @@
 
-<ul>
-{% for datum in data %}
-<li>{{ datum }}</li>
-{% endfor %}
-</ul>
+
+<table>
+  <tr>
+    {% for key in keys %}
+    <th>{{ key }}</th>
+    {% endfor %}
+  </tr>
+
+  {% for datum in data %}
+  <tr>
+    {% for key in keys %}
+    <td>{{ datum[key] }}</td>
+    {% endfor %}
+  </tr>
+  {% endfor %}
+
+</table>

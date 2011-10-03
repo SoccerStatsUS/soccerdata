@@ -9,8 +9,6 @@ from flask.templating import TemplateNotFound
 
 #from flaskext.cache import Cache
 
-from collections import defaultdict
-
 import pymongo
 import mongo
 
@@ -79,10 +77,20 @@ INTERNATIONAL_COMPETITIONS = [
 
 @app.route('/d')
 def data():
-    coll = request.args['c']
+    collection_name = request.args['c']
+    collection = soccer_db[collection_name]
+
+    if collection.count():
+        keys = collection.find()[0].keys()
+        keys.remove("_id")
+    else:
+        keys = []
+
     ctx = {
-        'data':  soccer_db[coll].find(),
+        'keys': keys,
+        'data':  collection.find()
         }
+
     return render_template("data.html", **ctx)
 
 
@@ -115,12 +123,13 @@ def scraper_dashboard():
 
     def process_scraper(scraper):
         table_names = ['%s_%s' % (scraper, table) for table in tables]
-        return [soccer_db[table_name].count() for table_name in table_names]
+        return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
 
     ctx = {
         'mls_data': process_scraper('mls'),
         'soccernet_data': process_scraper('soccernet'),
         'cnnsi_data': process_scraper('cnnsi'),
+        'uslsoccer_data': process_scraper('uslsoccer'),
         'scaryice_data': process_scraper('scaryice'),
         'chris_data': process_scraper('chris'),
         'fbleague_data': process_scraper('fbleague'),

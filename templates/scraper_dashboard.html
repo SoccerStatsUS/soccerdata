@@ -1,5 +1,15 @@
 {% extends "base.html" %}
 
+{% macro scraper_table(header, data) %}
+<tr>
+  <td>{{ header }}</td>
+  {% for coll, datum in data %}
+  <td><a href="/d?c={{ coll }}">{{ datum }}</a></td>
+  {% endfor %}
+</tr>
+{%- endmacro %}
+
+
 {% block content %}
 
 <table>
@@ -13,68 +23,19 @@
     <th>bios</th>
   </tr>
 
-  <tr>
-    <td>MLS</td>
-    {% for datum in mls_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
 
-  <tr>
-    <td>soccernet</td>
-    {% for datum in soccernet_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
 
-  <tr>
-    <td>cnnsi</td>
-    {% for datum in cnnsi_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
-
-  <tr>
-    <td>scaryice</td>
-    {% for datum in scaryice_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
-
-  <tr>
-    <td>chris</td>
-    {% for datum in chris_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
-
-  <tr>
-    <td>fbleague</td>
-    {% for datum in fbleague_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
-
-  <tr>
-    <td>fifa</td>
-    {% for datum in fifa_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
-
-  <tr>
-    <td>mediotiempo</td>
-    {% for datum in mediotiempo_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
-
-  <tr>
-    <td>wiki</td>
-    {% for datum in wiki_data %}
-    <td>{{ datum }}</td>
-    {% endfor %}
-  </tr>
+  {{ scraper_table('MLS', mls_data) }}
+  {{ scraper_table('soccernet', soccernet_data) }}
+  {{ scraper_table('uslsoccer', uslsoccer_data) }}
+  {{ scraper_table('scaryice', scaryice_data) }}
+  {{ scraper_table('chris', chris_data) }}
+  {{ scraper_table('mediotiempo', mediotiempo_data) }}
+  {{ scraper_table('fifa', fifa_data) }}
+  {{ scraper_table('wiki', wiki_data) }}
+  {{ scraper_table('cnnsi', cnnsi_data) }}
+  {{ scraper_table('fbleague', fbleague_data) }}
+  {{ scraper_table('eufootball', eufootball_data) }}
 
   <tr>
     <td>eufootball</td>
