@@ -1,12 +1,11 @@
 
 # Projects.
 
--2. cacheing decorator?
+
 -1. Completely remove year.
 0. Use stats to get names.
 0. Batch processing using AWS.
 0. Deploy entire thing to AWS.
-0. Add my old MLS stats
 1. Reorganize player scrapers.
 1. Strengthen wiki scraper and canvass team, player data.
 2. Generate all standings.
@@ -19,13 +18,128 @@
 9. Probabilites of winning!
 
 
+# Data definitions
+
+game 
+ - home_team
+ - away_team
+ - home_score
+ - away_score
+ - date
+ optional
+ - location
+ - referee
+ - competition (recommended)
+ - season (recommended)
+ - ?
+
+
+goal
+ - player
+ - minute
+ - date
+ optional
+ - team (recommended?)
+ - penalty
+ - own_goal
+ - ?
+
+
+stat
+ - player
+ - team
+ - competition
+ - season
+ optional
+ - games_started
+ - games_played
+ - goals
+ - assists
+ - shots
+ - shots_on_goal
+ - fouls_committed
+ - fouls_suffered
+ - yellow_cards
+ - red_cards
+ - more?
+
+
+game stat
+ - player
+ - team
+ - date
+ optional
+ - same as stat
+
+lineup
+ - name
+ - on
+ - off
+ - date
+ - team
+
+
+standing
+ - team
+ - wins
+ - ties
+ - losses
+ - competition
+ optional
+ - goals_for
+ - goals_against
+
+
+bio
+ - name
+ optional
+ - birthdate
+ - birthplace
+ - height
+ - weight
+ - college
+ - nationality?
+
+
+
+## Data breakdown
+
+# Event data
+ - goals
+ - substitutions
+ - fouls
+ - tackles
+ - passes
+ - etc. 
+
+# Summary data
+ - scores
+ - standings
+ - game stats
+ - competition stats (is a game a miniature competition?)
+ - teams (?)
+ - lineup data
+
+# Ancillary data
+ - salaries
+ - awards
+ - biographical data
+
+# Prospective
+ - place data
+
+ 
+
 
 # Competition priority.
 
-World Cup
+
 MLS
 Mexico
+US Minor leagues
+World Cup
 England
+
 Spain
 Italy
 Germany
@@ -33,8 +147,8 @@ Australia
 Ligue 1
 Champions League
 CONCACAF Champions League
+
 Copa Libertadores
-US Minor leagues
 Netherlands
 Portugal
 Russia
@@ -110,32 +224,7 @@ Both:
  - lineups
 
 
-## Data breakdown
 
-# Event data
- - goals
- - substitutions
- - fouls
- - tackles
- - passes
- - etc. 
-
-# Summary data
- - scores
- - standings
- - game stats
- - competition stats (is a game a miniature competition?)
- - teams (?)
- - lineup data
-
-# Ancillary data
- - salaries
- - awards
- - biographical data
-
-# Prospective
- - place data
- - 
 
 
 # Standardizations
