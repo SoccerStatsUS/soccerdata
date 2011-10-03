@@ -12,14 +12,16 @@ USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13
 
 
 def pounds_to_kg(pounds):
-    return pounds * 0.45359237
+    kg = pounds * 0.45359237
+    return int(round(kg, 0))
 
 
 def inches_to_cm(inches=0, feet=0):
     if feet:
         inches = inches + (feet * 12)
 
-    return inches * 2.54
+    cm = inches * 2.54
+    return int(round(cm, 0))
 
 
 
