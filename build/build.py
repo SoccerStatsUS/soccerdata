@@ -25,7 +25,7 @@ salaries:
  - mls salaries
 """
 
-from soccerdata import mongo
+
 
 from load import load
 from generate import generate
@@ -62,6 +62,10 @@ def build():
     # Generate needs to come after merge.
     generate()
 
+
+def reset_database():
+    from soccerdata import mongo
+    mongo.connection.drop_database(mongo.soccer_db)
 
 
 
