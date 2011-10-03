@@ -72,17 +72,16 @@ def process_stats(path):
                 d.pop('position')
             if 'points' in d:
                 d.pop('points')
-
         return d
 
     lines = open(path).read().strip().split('\n')
     header = lines[0].split('\t')
     return [process_line(line) for line in lines[1:]]
 
+
 def load_chris_stats():
     return process_stats(STATS_PATH)
         
 if __name__ == "__main__":
     process_all_chris_stats()
-    
 

@@ -1,6 +1,7 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+
 import json
 
 from soccerdata.utils import scrape_soup, get_contents, scrape_url
@@ -9,6 +10,12 @@ from soccerdata.utils import scrape_soup, get_contents, scrape_url
 # http://a-leaguearchive.tripod.com/2005/results05a.htm
 
 # My stats are USL-1 from 2006-2009, so these scraped data would be perfect.
+
+#
+# http://a-leaguearchive.tripod.com/2005/results05a.htm
+
+# Looks like we're missing USL-1 from 2006-2009.
+
 
 
 # Woo-hoo! This returns stats json!
@@ -45,6 +52,7 @@ def scrape_json_url(url):
 # 2006
 # http://www.uslsoccer.com/schedules/2006/4068269.html
 
+
 # 2005
 # http://www.uslsoccer.com/schedules/2005/2465825.20058.html
 
@@ -65,11 +73,8 @@ def scrape_json_url(url):
 #http://pdl.uslsoccer.com/stats/2011/2214590.html
 
 
-def scrape_game_page(url):
-    """
-    A weak attempt at scraping a usl game page.
-    """
 
+def scrape_game_page(url):
     soup = scrape_soup(url, encoding='iso_8859_1')
     div = soup.find("div", {"style": 'border: 1px solid #B0B0B0; background-color: #FFFFFF; padding: 8px;'})    
 

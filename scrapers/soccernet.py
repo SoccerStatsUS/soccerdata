@@ -384,5 +384,5 @@ if __name__ == "__main__":
         ]
 
 
-    print scrape_all_league_games('usa.1')
+    print scrape_all_league_games('mex.1')
     

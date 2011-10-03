@@ -81,9 +81,6 @@ def merged_bios():
 
     return bios.values()
 
-            
-        
-
 
 
 def load_all_bios():
