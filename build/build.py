@@ -1,4 +1,3 @@
-
 """
 Goal of this package is to completely build all soccer statistics
 for the site.

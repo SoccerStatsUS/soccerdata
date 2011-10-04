@@ -7,6 +7,32 @@ def merge():
     merge_games()
     merge_goals()
     merge_stats()
+    merge_bios()
+
+
+def merge_bios():
+    soccer_db.bios.drop()
+    insert_rows(soccer_db.bios, soccer_db.mls_bios.find())
+
+    # Split off into a separate function.
+    d = dict([(e['name'], e) for e in soccer_db.bios.find()])
+    for row in soccer_db.chris_bios.find():
+        name = row['name']
+        if name in d:
+            merge_bio(row)
+        else:
+            d[name] = row
+            insert_row(soccer_db.bios, row)
+
+
+def merge_bio(row):
+    pass
+    
+    
+    
+    
+    
+
 
 
 

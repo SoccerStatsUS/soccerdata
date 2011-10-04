@@ -17,7 +17,7 @@ def load():
     # Scraped data
     load_mls()
     load_nasl()
-    load_soccernet()
+    #load_soccernet()
 
     #load_mediotiempo()
     #load_wiki()

@@ -2,10 +2,11 @@
 # Presumably we're going to be sending things into databases from mongo.
 # This is how we do it...
 
+# This file should probably be merged into build.
+
 # Need to check for duplicates!
 
 
-import datetime
 import pymongo
 
 
