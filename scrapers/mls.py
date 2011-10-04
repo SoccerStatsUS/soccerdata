@@ -87,7 +87,7 @@ def scrape_active_player_urls():
     return sorted(urls.items())
 
 
-@data_cache
+@set_cache
 def scrape_player_bio(url):
     """
     Scrapes player biographical information.
@@ -141,7 +141,10 @@ def scrape_player_bio(url):
 
 
     if 'Birth Date' in d:
-        birthdate = d['Birth Date']
+        birthdate_string = d['Birth Date']
+        if birthdate_string:
+            birthdate = datetime.datetime.strptime(birthdate_string,  "%a, %m/%d/%Y")
+
 
     if 'Birthplace' in d:
         birthplace = d['Birthplace']
