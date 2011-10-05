@@ -1,3 +1,4 @@
+import leveldb
 import pymongo
 import random
 import time
@@ -8,6 +9,15 @@ from BeautifulSoup import BeautifulSoup
 from soccerdata.cache import data_cache, set_cache
 
 connection = pymongo.Connection()
+scraper_db = connection.scraper
+pages_collection = scraper_db.pages
+
+db = leveldb.LevelDB("/home/chris/leveldb")
+
+
+
+
+
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 
 
@@ -99,17 +109,15 @@ def scrape_url(url, refresh=False, encoding=None, sleep=0):
         encoding = 'utf-8'
 
     # Should be connection.cache
-    scraper_db = connection.scraper
-
-    pages_collection = scraper_db.pages
 
 
     if refresh is False:
-        result = pages_collection.find_one({"url": url })
-    else:
-        result = None
+        try:
+            html = db.Get(url)
+        except KeyError:
+            html = None
 
-    if result is None:
+    if html is None:
         time.sleep(sleep)
         print "downloading %s" % url
         # Work on this logic.
@@ -138,11 +146,12 @@ def scrape_url(url, refresh=False, encoding=None, sleep=0):
         data = data.replace("\xf1\xee\xe7\xe4\xe0\xed\xee", "")
 
         # Save the data.
-        unicode_data = data.decode(encoding)
-        pages_collection.insert({"url": url, "data": unicode_data})
+        unicode_data = data #.decode(encoding)
+        db.Put(url, unicode_data)
+        #pages_collection.insert({"url": url, "data": unicode_data})
     else:
-        print "pulling %s from cache." % url
-        unicode_data = result['data']
+        print "pulling %s from page cache." % url
+        unicode_data = html
     return unicode_data
 
 
