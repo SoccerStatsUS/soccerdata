@@ -1,8 +1,8 @@
 import datetime
 import hashlib
 
-from soccerdata.utils import scrape_url, get_contents, data_cache
-
+from soccerdata.utils import scrape_url, get_contents
+from soccerdata.cache import data_cache
 
 from BeautifulSoup import BeautifulSoup
 

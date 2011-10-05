@@ -87,7 +87,7 @@ def scrape_active_player_urls():
     return sorted(urls.items())
 
 
-@set_cache
+@data_cache
 def scrape_player_bio(url):
     """
     Scrapes player biographical information.
@@ -96,7 +96,7 @@ def scrape_player_bio(url):
     # because mlssoccer.com merges team stats on
     # their stat pages for some reason.
 
-    soup = scrape_soup(url, sleep=5)
+    soup = scrape_soup(url, sleep=2)
 
     try:
         name = get_contents(soup.find("div", "header_title").find("h1"))

@@ -48,11 +48,11 @@ params=%7B%22page%22%3A%20-1%7D
 from soccerdata.utils import scrape_soup, get_contents
 
 
-def scrape_all_games():
+def scrape_all_games(url):
     """
     """
     # Not sure what this is supposed to be doing.
-    urls = get_urls()
+    urls = get_urls(url)
     games = []
     for url in urls[1:]:
         games.extend(scrape_games(url))
@@ -148,4 +148,4 @@ def scrape_games(url):
 
 if __name__ == "__main__":
     # Don't want to scrape this year.
-    scrape_all_games()
+    scrape_all_games('http://concacaf.globalsportsmedia.com/page.php?sport=soccer&language_id=us&page=competition&view=summary&id=917')

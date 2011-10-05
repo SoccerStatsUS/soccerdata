@@ -5,7 +5,8 @@
 # European national team games ever.
 
 
-from soccerdata.utils import scrape_soup, get_contents, data_cache
+from soccerdata.utils import scrape_soup, get_contents
+from soccerdata.cache import data_cache
 
 
 def scrape_all_games():
@@ -31,7 +32,6 @@ def scrape_year(year, page=1):
         url = 'http://www.eu-football.info/_year.php?id=%s' % year
     else:
         url = 'http://www.eu-football.info/_year.php?id=%s&page=%s' % (year, page)
-    print "Scraping %s" % url
     games = scrape_games(url)
     if games:
         games.extend(scrape_year(year, page+1))

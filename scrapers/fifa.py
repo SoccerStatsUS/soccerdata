@@ -5,7 +5,8 @@ import re
 
 from BeautifulSoup import BeautifulSoup
 
-from soccerdata.utils import scrape_url, get_contents, data_cache
+from soccerdata.utils import scrape_url, get_contents
+from soccerdata.cache import data_cache
 
 
 #url = "http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3051/report.html"
@@ -173,6 +174,10 @@ def scrape_world_cup_lineups(url):
     
 
     return []
+
+
+if __name__ == "__main__":
+    scrape_all_world_cup_goals()
 
     
     

@@ -12,7 +12,8 @@ import re
 
 from collections import defaultdict
 
-from soccerdata.utils import scrape_soup, get_contents, data_cache, set_cache
+from soccerdata.utils import scrape_soup, get_contents
+from soccerdata.cache import  data_cache, set_cache
 
 # Soccernet is probably the best of all. 
 # Triple down on soccernet.
@@ -116,7 +117,7 @@ def scrape_scoreboard_urls(url):
         Given a scoreboard, scrape the url for the previous scoreboard.
         Returns an ajax url (unformatted)
         """
-        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+        soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
         urls = [a['href'] for a in soup.findAll("ul")[0].findAll("a")]
         full_url = "%s%s&xhr=1" % (base, urls[0])
         return full_url
@@ -141,7 +142,7 @@ def scrape_league_scoreboard(url):
     """
     Get game result data from a scoreboard page.
     """
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
     
     gameboxes = soup.findAll("div", 'gamebox')
     
@@ -184,7 +185,7 @@ def scrape_live_game(url, competition):
     Get game data from a game page.
     """
 
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
 
     
     home_team, away_team = [get_contents(e) for e in soup.findAll("div", "team-info")]
@@ -219,7 +220,7 @@ def scrape_live_game(url, competition):
         'referee': referee
         }
 
-@set_cache
+@data_cache
 def scrape_live_goals(url):
     """
     Get goal data from a game page.
@@ -227,7 +228,7 @@ def scrape_live_goals(url):
     
     game_data = scrape_live_game(url)
 
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
     container = soup.find("div", 'story-container').find("tbody")
     home_goals = [get_contents(e) for e in container.findAll("td", {"style": "text-align:left;"})]
     away_goals = [get_contents(e) for e in container.findAll("td", {"align": 'right'})]
@@ -291,7 +292,7 @@ def scrape_live_lineups(url):
     Scrape a lineup from a game url.
     """
     # Not checking for red cards currently.
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
 
     game_data = scrape_live_game(url)
 
@@ -428,5 +429,6 @@ if __name__ == "__main__":
 
 
     print scrape_all_league_goals('usa.1')
+    #print scrape_all_league_goals('uefa.champions')
     #print scrape_all_league_lineups('usa.1')
     
