@@ -1,34 +1,74 @@
+import datetime
 import functools
 import hashlib
 import json
 import leveldb
-import pymongo
-
-# The cache should be implemented with redis instead of mongo!
-# Automate installation of mongo and redis?
-
-connection = pymongo.Connection()
-cache_db = connection.cache
-cache_db.data_cache.create_index('cache_id')
 
 data_cache_db = leveldb.LevelDB("/home/chris/leveldb/data")
 
+format_string = '%Y-%m-%dT%H:%M:%S'
 
+
+def cache_format(el):
+
+    def _inner(v):
+        if type(v) == type([]):
+            l2 = []
+            for e in v:
+                l2.append(_inner(e))
+            return l2
+
+        elif type(v) == type({}):
+            d2 = {}
+            for key, value in v.items():
+                d2[key] = _inner(value)
+            return d2
+
+        if isinstance(v, datetime.datetime):
+            return v.strftime(format_string)
+        
+        return v
+
+    return json.dumps(_inner(el))
+
+
+def cache_unformat(el):
+
+    def _inner(v):
+        if type(v) == type([]):
+            l2 = []
+            for e in v:
+                l2.append(_inner(e))
+            return l2
+
+        elif type(v) == type({}):
+            d2 = {}
+            for key, value in v.items():
+                d2[key] = _inner(value)
+            return d2
+
+        if isinstance(v, datetime.datetime):
+            datetime.datetime.strptime(v, format_string)
+
+        return v
+
+
+    return json.loads(_inner(el))
 
 
 def set_data_cache(cache_id, value):
     """
     Set a value in the cache.
     """
-    data_cache_db.Put(cache_id, json.dumps(value))
-
+    data_cache_db.Put(cache_id, cache_format(value))
 
 
 def get_data_cache(cache_id):
     """
     Get a value from cache.
     """
-    return json.loads(data_cache_db.Get(cache_id))
+    return cache_unformat(data_cache_db.Get(cache_id))
+
 
 class AbstractCache(object):
     """Decorator that caches a function's return value each time it is called.
@@ -48,7 +88,6 @@ class AbstractCache(object):
     def __get__(self, obj, objtype):
         """Support instance methods."""
         return functools.partial(self.__call__, obj)
-
 
 
 class data_cache(AbstractCache):
