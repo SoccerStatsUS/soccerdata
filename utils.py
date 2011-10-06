@@ -1,22 +1,11 @@
 import leveldb
-import pymongo
 import random
 import time
 import urllib2
 
 from BeautifulSoup import BeautifulSoup
 
-from soccerdata.cache import data_cache, set_cache
-
-connection = pymongo.Connection()
-scraper_db = connection.scraper
-pages_collection = scraper_db.pages
-
-db = leveldb.LevelDB("/home/chris/leveldb")
-
-
-
-
+db = leveldb.LevelDB("/home/chris/leveldb/page")
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 
@@ -34,12 +23,12 @@ def inches_to_cm(inches=0, feet=0):
     return int(round(cm, 0))
 
 
-
-def get_contents(l):
+def get_contents(l, formatter=lambda s: s):
     """
     Fetch the contents from a soup object.
     """
     # We seem to be losing some spaces with this function.
+    # Would be nice to turn br's into newlines.
     # cf. 
 
     if not hasattr(l, 'contents'):
@@ -49,7 +38,7 @@ def get_contents(l):
 
         for e in l.contents:
             s += get_contents(e)
-    return s.strip()
+    return formatter(s.strip())
 
 
 def dict_to_str(d):
@@ -110,12 +99,12 @@ def scrape_url(url, refresh=False, encoding=None, sleep=0):
 
     # Should be connection.cache
 
-
     if refresh is False:
         try:
             html = db.Get(url)
         except KeyError:
             html = None
+
 
     if html is None:
         time.sleep(sleep)
@@ -139,6 +128,9 @@ def scrape_url(url, refresh=False, encoding=None, sleep=0):
         data = data.replace("</scr'+'ipt>", "</script>")
         data = data.replace("</SCRI' + 'PT>", "</SCRIPT>")
 
+        data_old = data
+
+        data = data.replace("<font size=  </div>", "</div>")
 
         # Oh shit! There was some bad unicode data in eu-football.info
         # Couldn't find an encoding so I'm just killing it.
