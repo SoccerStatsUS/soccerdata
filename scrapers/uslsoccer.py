@@ -17,6 +17,8 @@ from soccerdata.utils import scrape_soup, get_contents, scrape_url
 
 # Looks like we're missing USL-1 from 2006-2009.
 
+# Scraping from here for USSF Division 2 (2010)
+
 
 
 # Woo-hoo! This returns stats json!
@@ -172,6 +174,9 @@ def process_goals(url):
             break
         goals.append(process_goal(line))
 
+    import pdb; pdb.set_trace()
+
+
     return [e for e in goals if e]
 
 
@@ -273,7 +278,9 @@ if __name__ == "__main__":
 
     url2 = 'http://www.uslsoccer.com/schedules/2009/13380660.js?9228'
     #print parse_games(url2)
-    print scrape_lineups_from_scoreboard(url2)
+    #print scrape_lineups_from_scoreboard(url2)
+
+    print process_goals('http://ussf.demosphere.com/stats/2010/2072059.html')
 
     #print scrape_goals_fgame_page('http://www.uslsoccer.com/stats/2005/32094.html')
 

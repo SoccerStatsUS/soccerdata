@@ -18,6 +18,8 @@
 
 
 
+
+
 # Need to figure out how to use the previous button.
 
 #Some consecutive previous urls
@@ -46,16 +48,18 @@ params=%7B%22page%22%3A%20-1%7D
 
 
 from soccerdata.utils import scrape_soup, get_contents
+from soccerdata.cache import data_cache, set_cache
 
 
-def scrape_all_games(url):
+def scrape_all_games(url, competition):
     """
+    Scrape all games for a given competition.
     """
     # Not sure what this is supposed to be doing.
     urls = get_urls(url)
     games = []
     for url in urls[1:]:
-        games.extend(scrape_games(url))
+        games.extend(scrape_games(url, competition))
     return games
 
 
@@ -85,7 +89,7 @@ def get_urls(url, searched=None):
     
 
 
-def scrape_games(url):
+def scrape_games(url, competition):
     """
     Scrape games from a scoreboard.
     """
@@ -129,7 +133,7 @@ def scrape_games(url):
             'away_team': away_team,
             'home_score': home_score,
             'away_score': away_score,
-            'competition': 'CONCACAF Champions League',
+            'competition': competition,
             }
     scores = []
     for table in tables:
@@ -146,6 +150,23 @@ def scrape_games(url):
     return scores
 
 
+
+def scrape_game(url):
+    soup = scrape_soup(url)
+    
+    import pdb; pdb.set_trace()
+    x = 5
+
+    
+
+
+
+
+
 if __name__ == "__main__":
     # Don't want to scrape this year.
-    scrape_all_games('http://concacaf.globalsportsmedia.com/page.php?sport=soccer&language_id=us&page=competition&view=summary&id=917')
+    #scrape_all_games('http://concacaf.globalsportsmedia.com/page.php?sport=soccer&language_id=us&page=competition&view=summary&id=917')
+    #print scrape_all_games('http://concacaf.globalsportsmedia.com/page.php?sport=soccer&language_id=us&page=competition&view=summary&id=522')
+    #print scrape_all_games('http://concacaf.globalsportsmedia.com/page.php?sport=soccer&language_id=us&page=competition&view=summary&id=550', 'US Open Cup')
+
+    print scrape_game('http://concacaf.globalsportsmedia.com/page.php?sport=soccer&language_id=us&page=match&view=summary&id=796429')

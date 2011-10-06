@@ -424,7 +424,18 @@ def scrape_team_stats(url, season, season_type):
 
 
 
+def scrape_reserve_game(url):
+    soup = scrape_soup(url)
 
+    ps = soup.findAll("p")
+    for p in ps:
+        formatter = lambda s: s.replace("<br />", "\n")
+        text = get_contents(p, formatter=formatter)
+        if text.startswith("Scoring Summary"):
+            import pdb; pdb.set_trace()
+
+    import pdb; pdb.set_trace()
+    x = 5
 
     
 # Should move this into an alias object.
@@ -478,5 +489,7 @@ stat_mapping = {
 
 if __name__ == "__main__":
     #print scrape_active_players()
-    print scrape_all_bios_mlssoccer()
+    print scrape_reserve_game('http://www.cdchivasusa.com/news/2011/05/chivas-reserves-defeat-la-galaxy-reserves-3-1')
+    #print scrape_all_bios_mlssoccer()
+    #print scrape_all_games_mlssoccer()
 

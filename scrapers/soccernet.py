@@ -24,17 +24,6 @@ from soccerdata.cache import  data_cache, set_cache
 base = 'http://soccernet.espn.go.com'
 
 
-def code_to_competition(league_code):
-    d = {
-        'usa.1': 'MLS',
-        'mex.1': 'Mexico',
-        'eng.1': 'Premier League',
-        'arg.1': 'Argentina',
-        'uefa.champions': 'Champions Leageu',
-        'uefa.europa': 'Europa League',
-        }
-
-    return d[league_code]
 
 def get_match_stats_url(url):
     """
@@ -93,7 +82,7 @@ def scrape_all_league_goals(league_code):
     goals = []
     for score in scrape_all_league_scores(league_code):
         url = get_match_stats_url(score['url'])
-        goals.extend(scrape_live_goals(url))
+        goals.extend(scrape_live_goals(url, competition))
     return goals
 
 
@@ -102,7 +91,7 @@ def scrape_all_league_lineups(league_code):
     l = []
     for score in scrape_all_league_scores(league_code):
         url = get_match_stats_url(score['url'])
-        l.extend(scrape_live_lineups(url))
+        l.extend(scrape_live_lineups(url, competition))
     return l
 
 
@@ -117,7 +106,7 @@ def scrape_scoreboard_urls(url):
         Given a scoreboard, scrape the url for the previous scoreboard.
         Returns an ajax url (unformatted)
         """
-        soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
+        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
         urls = [a['href'] for a in soup.findAll("ul")[0].findAll("a")]
         full_url = "%s%s&xhr=1" % (base, urls[0])
         return full_url
@@ -142,7 +131,7 @@ def scrape_league_scoreboard(url):
     """
     Get game result data from a scoreboard page.
     """
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
     
     gameboxes = soup.findAll("div", 'gamebox')
     
@@ -185,7 +174,7 @@ def scrape_live_game(url, competition):
     Get game data from a game page.
     """
 
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
 
     
     home_team, away_team = [get_contents(e) for e in soup.findAll("div", "team-info")]
@@ -221,14 +210,14 @@ def scrape_live_game(url, competition):
         }
 
 @data_cache
-def scrape_live_goals(url):
+def scrape_live_goals(url, competition):
     """
     Get goal data from a game page.
     """
     
-    game_data = scrape_live_game(url)
+    game_data = scrape_live_game(url, competition)
 
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
     container = soup.find("div", 'story-container').find("tbody")
     home_goals = [get_contents(e) for e in container.findAll("td", {"style": "text-align:left;"})]
     away_goals = [get_contents(e) for e in container.findAll("td", {"align": 'right'})]
@@ -287,14 +276,14 @@ def scrape_live_goals(url):
     return goals
 
 @data_cache
-def scrape_live_lineups(url):
+def scrape_live_lineups(url, competition):
     """
     Scrape a lineup from a game url.
     """
     # Not checking for red cards currently.
     soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
 
-    game_data = scrape_live_game(url)
+    game_data = scrape_live_game(url, competition)
 
     tables = soup.findAll("table")
     
@@ -412,15 +401,27 @@ def scrape_all_dates():
 
         
 
+def code_to_competition(league_code):
+    d = {
+        'usa.1': 'MLS',
+        'mex.1': 'Mexico',
+        'eng.1': 'Premier League',
+        'arg.1': 'Argentina',
+        'uefa.champions': 'Champions Leageu',
+        'uefa.europa': 'Europa League',
+        'conmebol.libertadores': 'Copa Libertadores'
+        }
+
+    return d[league_code]
 
 
 if __name__ == "__main__":
 
     leagues = [
-        'uefa.champions',
-        'uefa.europa',
         'conmebol.libertadores',
+        'uefa.champions',
         'usa.1',
+        'uefa.europa',
         'eng.1',
         'bra.1',
         'mex.1',
@@ -428,7 +429,15 @@ if __name__ == "__main__":
         ]
 
 
-    print scrape_all_league_goals('usa.1')
-    #print scrape_all_league_goals('uefa.champions')
+    #print scrape_all_league_goals('usa.1')
+
     #print scrape_all_league_lineups('usa.1')
-    
+    #print scrape_all_league_goals('conmebol.libertadores')
+
+    #print scrape_all_league_goals('eng.1')
+    #print scrape_all_league_goals('uefa.champions')
+    print scrape_all_league_goals('uefa.europa')
+    print scrape_all_league_goals('mex.1')
+    print scrape_all_league_goals('arg.1')
+
+    print scrape_all_league_goals('bra.1')

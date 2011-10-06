@@ -5,12 +5,13 @@ import re
 
 
 from soccerdata.utils import scrape_soup, get_contents
+from soccerdata.cache import data_cache
 
-
-def scrape_live_game(soup):
+def scrape_live_game(url):
     """
     Scrape game data from a game.
     """
+    soup = scrape_soup(url, sleep=10)
     score_table = soup.findAll("table")[6]
 
     home_team = get_contents(score_table.find("td", 'shsTotD shsIFBMastTMName shsHomeTeam'))
@@ -20,9 +21,14 @@ def scrape_live_game(soup):
     away_score = int(get_contents(score_table.find('div', 'shsIFBMastAwayScore')))
 
     minute_string = get_contents(score_table.find("td", 'shsTotD')).strip()
+    
+
+    import pdb; pdb.set_trace()
 
     if minute_string == 'End of Half':
         minute = 45
+    elif minute_string == 'Full Time':
+        minute = 90
     else:
         minute = int(re.search("\((\d+)\'\)", minute_string).groups()[0])
 
@@ -73,9 +79,9 @@ def scrape_live_lineups(soup):
 
 if __name__ == "__main__":
     url = 'http://sports.sportsillustrated.cnn.com/mls/boxscore.asp?gamecode=2011092929&season=2011-1'
-    soup = scrape_soup(url, refresh=True)
-    print scrape_live_game(soup)
-    print scrape_live_goals(soup)
-    print scrape_live_lineups(soup)
+
+    print scrape_live_game(url)
+    #print scrape_live_goals(soup)
+    #print scrape_live_lineups(soup)
 
 

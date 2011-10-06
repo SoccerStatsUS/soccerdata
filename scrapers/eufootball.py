@@ -4,9 +4,11 @@
 # A very impressive site with records of all 
 # European national team games ever.
 
+# Need to scrape team games, but they have a stupid access scheme.
+
 
 from soccerdata.utils import scrape_soup, get_contents
-from soccerdata.cache import data_cache
+from soccerdata.cache import data_cache, set_cache
 
 
 def scrape_all_games():
@@ -21,7 +23,7 @@ def scrape_all_games():
     return l
 
 
-@data_cache
+@set_cache
 def scrape_year(year, page=1):
     """
     Scrape all scoreboards for a given year from eufootball.
@@ -75,6 +77,8 @@ def scrape_games(url):
 
 
         home_score, away_score = [int(e) for e in score.split(":")]
+
+        import pdb; pdb.set_trace()
 
 
 
