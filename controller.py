@@ -45,8 +45,8 @@ def dashboard():
         return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
 
     ctx = {
-        'main': [('main', soccer_db[table_name].count()) for table_name in STAT_TABLES],
-        'mls_data': process_scraper('mls'),
+        'main': [(table_name, soccer_db[table_name].count()) for table_name in STAT_TABLES],
+        'mlssoccer_data': process_scraper('mls'),
         'soccernet_data': process_scraper('soccernet'),
         'cnnsi_data': process_scraper('cnnsi'),
         'uslsoccer_data': process_scraper('uslsoccer'),
@@ -60,6 +60,48 @@ def dashboard():
         }
 
     return render_template("dashboard.html", **ctx)    
+
+
+def dashboard_detail(coll_list):
+    """
+    Pass in a list of collections 
+    corresponding to games, goals, stats, lineups, standings, bios.
+    """
+
+
+
+@app.route('/dashboard/<competition>')
+def competition_dashboard(competition):
+
+    seasons = [str(e) for e in range(1996, 2011)]
+
+    def get_year_list(coll, seasons):
+        season_count = defaultdict(int)
+        for item in coll.find({'competition': competition}):
+            season = item['season']
+            season_count[season] += 1
+        return [(season, season_count.get(season, 0)) for season in seasons]
+            
+            
+    game_seasons = get_year_list(soccer_db.games, seasons)
+    goal_seasons = get_year_list(soccer_db.goals, seasons)
+    stat_seasons = get_year_list(soccer_db.gstats, seasons)
+    lineup_seasons = get_year_list(soccer_db.lineups, seasons)
+    standing_seasons = get_year_list(soccer_db.standings, seasons)
+
+    ctx = {
+        'game_seasons': game_seasons,
+        'goal_seasons': goal_seasons,
+        'stat_seasons': stat_seasons,
+        'lineup_seasons': lineup_seasons,
+        'standing_seasons': standing_seasons,
+        'seasons': seasons,
+        'competition': competition,
+        }
+
+    
+    return render_template("mls_dashboard.html", **ctx)
+
 
 
 
@@ -97,37 +139,6 @@ def data():
 
 
 
-@app.route('/dashboard/<competition>')
-def competition_dashboard(competition):
-
-    seasons = [str(e) for e in range(1996, 2011)]
-
-    def get_year_list(coll, seasons):
-        season_count = defaultdict(int)
-        for item in coll.find({'competition': competition}):
-            season = item['season']
-            season_count[season] += 1
-        return [(season, season_count.get(season, 0)) for season in seasons]
-            
-            
-    game_seasons = get_year_list(soccer_db.games, seasons)
-    goal_seasons = get_year_list(soccer_db.goals, seasons)
-    stat_seasons = get_year_list(soccer_db.gstats, seasons)
-    lineup_seasons = get_year_list(soccer_db.lineups, seasons)
-    standing_seasons = get_year_list(soccer_db.standings, seasons)
-
-    ctx = {
-        'game_seasons': game_seasons,
-        'goal_seasons': goal_seasons,
-        'stat_seasons': stat_seasons,
-        'lineup_seasons': lineup_seasons,
-        'standing_seasons': standing_seasons,
-        'seasons': seasons,
-        'competition': competition,
-        }
-
-    
-    return render_template("mls_dashboard.html", **ctx)
 
 
 @app.route("/stats")
