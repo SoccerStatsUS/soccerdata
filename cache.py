@@ -34,6 +34,7 @@ def cache_format(el):
 
 def cache_unformat(el):
 
+
     def _inner(v):
         if type(v) == type([]):
             l2 = []
@@ -47,13 +48,17 @@ def cache_unformat(el):
                 d2[key] = _inner(value)
             return d2
 
-        if isinstance(v, datetime.datetime):
-            datetime.datetime.strptime(v, format_string)
+        elif type(v) in [type(''), type(u'')]:
+            try:
+                return datetime.datetime.strptime(v, format_string)
+            except:
+
+                pass
 
         return v
 
 
-    return json.loads(_inner(el))
+    return _inner(json.loads(el))
 
 
 def set_data_cache(cache_id, value):
