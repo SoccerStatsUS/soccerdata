@@ -64,6 +64,33 @@ file_mapping = {
     "TOR": u'Toronto FC',
     }    
 
+def get_competition(name):
+
+    d = {
+        'CAN': 'Canadian Championship',
+        'C-Int': 'Copa Interamericana',
+        'CC': 'Concacaf Champions Cup',
+        'CL': 'Concacaf Champions League',
+        'CM': 'Copa Merconorte',
+        'CS': 'Copa Sudamericana',
+        'CW': 'Concacaf Cup Winners\' Cup',
+        'GC': 'Giants Cup',
+        'OC-': 'US Open Cup',
+        'P-': 'MLS Playoffs',
+        'SL': 'Super Liga',
+        }
+
+    for k, v in d.items():
+        if name.startswith(k):
+            return v
+
+    if name in ('22/OC-QF', '23/OC-QF'):
+        return 'MLS'
+
+    else:
+        int(name) # make sure this is an integer.
+        return 'MLS'
+    
 
 def make_lineup_dict():
     """
@@ -234,12 +261,6 @@ if os.path.exists("/home/chris/www/soccerdata/data/lineups/"):
 else:
     LINEUPS_DIR = "/Users/chrisedgemon/www/soccerdata/data/lineups/"
 
-def get_competition(name):
-    try:
-        int(name)
-        return 'MLS'
-    except ValueError:
-        return 'other'
 
 def get_scores(fn):
     """
@@ -380,12 +401,6 @@ def get_goals(filename):
         return [e for e in l if e]
 
     p = os.path.join(LINEUPS_DIR, filename)
-
-    # data = cache_get(p)
-    # if data is None:
-    #   cache_set(p, data)
-    # return data
-         
     team_name = get_team(file_mapping[filename.replace(".csv", '')])
 
     l = []
@@ -397,7 +412,7 @@ def get_goals(filename):
 
 
 def get_lineups(filename):
-    print 'getting'
+    print 'Loading %s' % filename
 
     # 3-tuples 
     # [("Jason Kreis", 0, 90), ("Ariel Graziani", 0, 62), ("Bobby Rhine", 62, 90) ...
@@ -427,7 +442,27 @@ def get_lineups(filename):
         s = lineup_text.strip()
         for src, dst in replacements:
             s = s.replace(src, dst)
-        return s
+
+        # Untested code.
+        s2 = s
+        """
+        # Meant to replace (John Wilson 80, Joe Vide 85) 
+        # with easier to parse (John Wilson 80)(Joe Video 85)
+        paren_level = 0
+        s2 = ''
+        for char in s:
+            if char == '(':
+                paren_level += 1
+            if char == ')':
+                paren_level -= 1
+
+            if paren_level > 0:
+                if char == ',':
+                    s2 += ')('
+                else:
+                    s2 += char
+        """
+        return s2
             
     def process_line(line):
         pline = preprocess_line(line)
@@ -950,12 +985,11 @@ class Lineup(object):
                 for e in assisters:
                     self.figure_player(e)
 
-            
 
 
 if __name__ == "__main__":
-    #print load_all_lineups_scaryice()
-    print [e for e in load_all_lineups_scaryice() if e['team'] == 'Kansas City Wizards']
+    print load_all_lineups_scaryice()
+
             
         
             
