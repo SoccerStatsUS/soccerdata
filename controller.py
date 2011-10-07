@@ -36,6 +36,9 @@ def index():
 
 @app.route("/dashboard")
 def dashboard():
+    """
+    A dashboard for showing the status of the project
+    """
 
     def process_scraper(scraper):
         table_names = ['%s_%s' % (scraper, table) for table in STAT_TABLES]
@@ -57,6 +60,8 @@ def dashboard():
         }
 
     return render_template("dashboard.html", **ctx)    
+
+
 
 @app.route('/d')
 def data():
@@ -90,26 +95,6 @@ def data():
 
 
 
-@app.route("/dashboard/stats")
-def stats_dashboard():
-    years = range(1996, 2011)
-    mls_games = soccer_db.stats.find({'competition': 'MLS' })
-    teams = sorted(set([e['team'] for e in mls_games]))
-
-    def get_team_years(team):
-
-        team_years = sorted(set([e['year'] for e in soccer_db.stats.find({'competition': 'MLS', 'team': team})]))
-        return [(year in team_years and year) for year in years]
-
-    team_years = [(team, get_team_years(team)) for team in teams]
-
-    ctx = {
-        'team_years': team_years,
-        'years': years,
-        }
-            
-
-    return render_template("stats_dashboard.html", **ctx)
 
 
 @app.route('/dashboard/<competition>')
