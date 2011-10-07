@@ -27,21 +27,12 @@ def merge_bios():
 
 
 def merge_lineups():
+    soccer_db.lineups.drop()
     insert_rows(soccer_db.lineups, soccer_db.scaryice_lineups.find())
 
 def merge_bio(row):
     pass
     
-    
-    
-    
-    
-
-
-
-
-
-
 def merge_games():
     soccer_db.games.drop()
     merge_mls()
