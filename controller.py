@@ -1,4 +1,4 @@
-import datetime
+1;2cimport datetime
 import StringIO
 from os.path import join, split
 from collections import defaultdict
@@ -18,6 +18,8 @@ soccer_db = mongo.soccer_db
 
 app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
+
+STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios'
 
 
 
@@ -39,7 +41,7 @@ def index():
 # pages
 
 
-
+'''
 
 # The years we're trying to cover.
 YEARS = list(reversed(range(1996,2012)))
@@ -94,6 +96,15 @@ def data():
     return render_template("data.html", **ctx)
 
 
+@app.route("/dashboard")
+def dashboard():
+
+    ctx = {
+        'data': [('main', soccer_db[table_name].count()) for table_name in STAT_TABLES],
+        }
+
+    render_template("dashboard.html", **ctx)    
+
 @app.route("/dashboard/stats")
 def stats_dashboard():
     years = range(1996, 2011)
@@ -119,10 +130,10 @@ def stats_dashboard():
 @app.route('/dashboard/scraper')
 def scraper_dashboard():
     scrapers = ['mls', 'soccernet', 'cnnsi', 'scaryice', 'fbleague', 'fifa', 'mediotiempo', 'wiki']
-    tables = ['games', 'goals', 'stats', 'lineups', 'standings', 'bios']
+
 
     def process_scraper(scraper):
-        table_names = ['%s_%s' % (scraper, table) for table in tables]
+        table_names = ['%s_%s' % (scraper, table) for table in STAT_TABLES]
         return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
 
     ctx = {
@@ -215,6 +226,8 @@ def flatpage(url):
 
 
 
+
+'''
+
 if __name__ == "__main__":
     app.run(port=29111)
-
