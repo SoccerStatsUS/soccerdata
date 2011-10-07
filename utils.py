@@ -11,15 +11,26 @@ USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13
 
 
 def pounds_to_kg(pounds):
-    kg = pounds * 0.45359237
+    if not pounds:
+        return ''
+
+    if pounds == '?':
+        return ''
+
+    kg = int(pounds) * 0.45359237
     return int(round(kg, 0))
 
 
 def inches_to_cm(inches=0, feet=0):
-    if feet:
-        inches = inches + (feet * 12)
+    if not inches and not feet:
+        return ''
 
-    cm = inches * 2.54
+    if inches == '?' or feet == '?':
+        return ''
+
+    feet, inches = int(feet), int(inches)
+    real_inches = inches + (feet * 12)
+    cm = real_inches * 2.54
     return int(round(cm, 0))
 
 
