@@ -1,4 +1,4 @@
-1;2cimport datetime
+import datetime
 import StringIO
 from os.path import join, split
 from collections import defaultdict
@@ -14,8 +14,6 @@ import mongo
 
 soccer_db = mongo.soccer_db
 
-
-
 app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
 
@@ -23,62 +21,48 @@ STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios'
 
 
 
+
+# Issues to work on.
+# - show problem rows
+# - searchable
+# - filters
+# - pages
+
+
     
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return redirect(url_for('dashboard'))
 
+@app.route("/dashboard")
+def dashboard():
 
-# What do we really want from these pages?
+    def process_scraper(scraper):
+        table_names = ['%s_%s' % (scraper, table) for table in STAT_TABLES]
+        return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
 
-# Probably need to dump all rows into a single db.
+    ctx = {
+        'main': [('main', soccer_db[table_name].count()) for table_name in STAT_TABLES],
+        'mls_data': process_scraper('mls'),
+        'soccernet_data': process_scraper('soccernet'),
+        'cnnsi_data': process_scraper('cnnsi'),
+        'uslsoccer_data': process_scraper('uslsoccer'),
+        'scaryice_data': process_scraper('scaryice'),
+        'chris_data': process_scraper('chris'),
+        'fbleague_data': process_scraper('fbleague'),
+        'fifa_data': process_scraper('fifa'),
+        'mediotiempo_data': process_scraper('mediotiempo'),
+        'wiki_data': process_scraper('wiki'),
+        'eufootball_data': process_scraper('eufootball'),
+        }
 
-# !!! Rows with problems!!
-
-# Listing of all rows.
-# Searchable
-# filters
-# pages
-
-
-'''
-
-# The years we're trying to cover.
-YEARS = list(reversed(range(1996,2012)))
-
-# The competitions we're trying to cover.
-DOMESTIC_COMPETITIONS = [
-    #'NASL',
-    'MLS',
-    'La Liga',
-    'Bundesliga',
-    'Russian Premier League',
-    'Portuguese Liga',
-    'Serie A',
-    'Eredivisie',
-    'Ligue 1',
-    'Premier League',
-    'Mexico',
-    'A-League',
-    'Champions League',
-    ]
-
-INTERNATIONAL_COMPETITIONS = [
-    'World Cup',
-    'European Championship',
-    'Copa America',
-    'Gold Cup',
-    'Asian Cup',
-    'African Cup of Nations',
-    ]
-
-
-
-
-
+    return render_template("dashboard.html", **ctx)    
 
 @app.route('/d')
 def data():
+    """
+    Gives back a listing of the elements in the collection.
+    """
     collection_name = request.args['c']
     collection = soccer_db[collection_name]
 
@@ -96,14 +80,15 @@ def data():
     return render_template("data.html", **ctx)
 
 
-@app.route("/dashboard")
-def dashboard():
 
-    ctx = {
-        'data': [('main', soccer_db[table_name].count()) for table_name in STAT_TABLES],
-        }
+'''
 
-    render_template("dashboard.html", **ctx)    
+
+
+
+
+
+
 
 @app.route("/dashboard/stats")
 def stats_dashboard():
@@ -125,32 +110,6 @@ def stats_dashboard():
             
 
     return render_template("stats_dashboard.html", **ctx)
-
-
-@app.route('/dashboard/scraper')
-def scraper_dashboard():
-    scrapers = ['mls', 'soccernet', 'cnnsi', 'scaryice', 'fbleague', 'fifa', 'mediotiempo', 'wiki']
-
-
-    def process_scraper(scraper):
-        table_names = ['%s_%s' % (scraper, table) for table in STAT_TABLES]
-        return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
-
-    ctx = {
-        'mls_data': process_scraper('mls'),
-        'soccernet_data': process_scraper('soccernet'),
-        'cnnsi_data': process_scraper('cnnsi'),
-        'uslsoccer_data': process_scraper('uslsoccer'),
-        'scaryice_data': process_scraper('scaryice'),
-        'chris_data': process_scraper('chris'),
-        'fbleague_data': process_scraper('fbleague'),
-        'fifa_data': process_scraper('fifa'),
-        'mediotiempo_data': process_scraper('mediotiempo'),
-        'wiki_data': process_scraper('wiki'),
-        'eufootball_data': process_scraper('eufootball'),
-        }
-
-    return render_template("scraper_dashboard.html", **ctx)
 
 
 @app.route('/dashboard/<competition>')

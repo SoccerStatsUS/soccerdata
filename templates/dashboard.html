@@ -12,6 +12,30 @@
 {%- endmacro %}
 
 
-{{ scraper_table('main', data) }}
+<table>
+  <tr>
+    <th></th>
+    <th>games</th>
+    <th>goals</th>
+    <th>stats</th>
+    <th>lineups</th>
+    <th>standings</th>
+    <th>bios</th>
+  </tr>
 
+  {{ scraper_table('main', main) }}
+  {{ scraper_table('MLS', mls_data) }}
+  {{ scraper_table('soccernet', soccernet_data) }}
+  {{ scraper_table('uslsoccer', uslsoccer_data) }}
+  {{ scraper_table('scaryice', scaryice_data) }}
+  {{ scraper_table('chris', chris_data) }}
+  {{ scraper_table('mediotiempo', mediotiempo_data) }}
+  {{ scraper_table('fifa', fifa_data) }}
+  {{ scraper_table('wiki', wiki_data) }}
+  {{ scraper_table('cnnsi', cnnsi_data) }}
+  {{ scraper_table('fbleague', fbleague_data) }}
+  {{ scraper_table('eufootball', eufootball_data) }}
+
+
+</table>
 {% endblock %}
