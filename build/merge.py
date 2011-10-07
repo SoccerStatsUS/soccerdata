@@ -6,6 +6,7 @@ from soccerdata.alias import get_team
 def merge():
     merge_games()
     merge_goals()
+    merge_lineups()
     merge_stats()
     merge_bios()
 
@@ -24,6 +25,9 @@ def merge_bios():
             d[name] = row
             insert_row(soccer_db.bios, row)
 
+
+def merge_lineups():
+    insert_rows(soccer_db.lineups, soccer_db.scaryice_lineups.find())
 
 def merge_bio(row):
     pass

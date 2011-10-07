@@ -3,8 +3,6 @@ from soccerdata.text import bios, lineups,  salaries, drafts, stats
 from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
 
 
-
-
 def load():
     """
     Load all data.
@@ -15,8 +13,8 @@ def load():
     load_scaryice()
 
     # Scraped data
-    load_mls()
-    load_nasl()
+    #load_mls()
+    #load_nasl()
     #load_soccernet()
 
     #load_mediotiempo()
