@@ -409,7 +409,10 @@ def code_to_competition(league_code):
         'arg.1': 'Argentina',
         'uefa.champions': 'Champions Leageu',
         'uefa.europa': 'Europa League',
-        'conmebol.libertadores': 'Copa Libertadores'
+        'conmebol.libertadores': 'Copa Libertadores',
+        'ger.1': 'Bundesliga',
+        'ita.1': 'Serie A',
+        'esp.1': 'La Liga',
         }
 
     return d[league_code]
@@ -436,8 +439,12 @@ if __name__ == "__main__":
 
     #print scrape_all_league_goals('eng.1')
     #print scrape_all_league_goals('uefa.champions')
-    print scrape_all_league_goals('uefa.europa')
+    #print scrape_all_league_goals('uefa.europa')
+    #print scrape_all_league_goals('ita.1')
+    #print scrape_all_league_goals('ger.1')
     print scrape_all_league_goals('mex.1')
-    print scrape_all_league_goals('arg.1')
+    print scrape_all_league_goals('esp.1')
 
+
+    print scrape_all_league_goals('arg.1')
     print scrape_all_league_goals('bra.1')

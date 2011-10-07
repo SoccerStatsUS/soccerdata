@@ -33,21 +33,42 @@ def scrape_all_bios_mlssoccer():
     return [e for e in bios if e]
 
 
+def scrape_all_bio_stats_mlssoccer():
+    """
+    Scrape all players that are linked to by a stats link.
+    Should comprise almost all players who have played in MLS.
+    (Currently coaches are not linked, plus mlssoccer.com is
+    just not consistently good at stats.
+    """
+    
+    stats = []
+    visited = set()
+    for stat in scrape_all_stats_mlssoccer():
+        url = stat['url']
+        if url and url not in visited:
+            visited.add(url)
+            stats.append(scrape_player_stats(url))
+
+    # Should I handle this better?
+    # Maybe. not sure it's worth it.
+    return [e for e in stats if e]
+
+
 def scrape_all_stats_mlssoccer():
     """
     Scrape all mls stats.
     """
+
     # This currently looks at all possible teams / years
     # and scrapes them, so there are a lot of unsuccessful
     # attempts.
 
     stats = []
-    for season_type in season_types:
-        for team_id in team_ids:
-            for year in years:
-                season = unicode(year)
-                url = 'http://www.mlssoccer.com/stats/season?season_year=%s&season_type=%s&team=%s' % (year, season_type, team_id)
-                stats.extend(scrape_team_stats(url, season, season_type))
+    for team_id in team_ids:
+        for year in years:
+            season = unicode(year)
+            url = 'http://www.mlssoccer.com/stats/season?season_year=%s&season_type=REG&team=%s' % (year, team_id)
+            stats.extend(scrape_team_stats(url, season))
     return stats
 
 @data_cache
@@ -138,8 +159,6 @@ def scrape_player_bio(url):
             weight = pounds_to_kg(weight)
             
 
-
-
     if 'Birth Date' in d:
         birthdate_string = d['Birth Date']
         if birthdate_string:
@@ -156,6 +175,9 @@ def scrape_player_bio(url):
         'birthdate': birthdate,
         'birthplace': birthplace,
         }
+
+
+
 
 
 
@@ -319,9 +341,6 @@ team_ids = [
 
 years = range(1996, 2011)
 
-season_types = "REG", "PS"
-
-
 # Probably makes more sense to cross check against all-time.
 # http://www.mlssoccer.com/stats/alltime?page=118
 
@@ -354,24 +373,95 @@ def find_duplicates(lst):
 
     return new_l
 
-    
+def scrape_player_stats(url):
+
+    def process_stat(tr):
+        fields = [get_contents(e) for e in tr.findAll("td")]
+        # Probably a header row.
+        if not fields:
+            return {}
+        
+
+        if len(fields) == 13:
+            try:
+                year, team, games_played, games_started, goals, minutes, assists, shots, shots_on_goal, fouls_committed, offsides, yellow_cards, red_cards = fields
+                year = int(year)
+            except:
+                competition, team, games_played, games_started, goals, minutes, assists, shots, shots_on_goal, fouls_committed, offsides, yellow_cards, red_cards = fields
+                year = 0
+                try:
+                    int(games_started)
+                except:
+                    return {}
+
+        else:
+            return {}
             
 
+        return {
+            'competition': 'MLS',
+            'season': 'regular season %s' % year,
+            'name': bio['name'],
+            'team': get_team(team),
+            'games_started': games_started,
+            'games_played': games_played,
+            'minutes': minutes,
+            'goals': goals,
+            'assists': assists,
+            'shots': shots,
+            'shots_on_goal': shots_on_goal,
+            }
 
-@data_cache
-def scrape_team_stats(url, season, season_type):
+    soup = scrape_soup(url)
+
+    bio = scrape_player_bio(url)
+    stats = []
+    stat_tables = soup.findAll("div", 'stats-table')
+    for table in stat_tables:
+        trs = table.findAll('tr')
+        for tr in trs:
+            stats.append(process_stat(tr))
+
+    return [e for e in stats if e]
+
+    return stats
+
+            
+def process_stat(tr, competition, season):
+    fields = [get_contents(e) for e in tr.findAll("td")]
+    name, team, position, games_played, games_started, minutes, goals, assists, shots, shots_on_goal, _,_,_,_,_,_ = fields
+
+    a = tr.find("a")
+    if a:
+        url = a['href']
+        full_url = "http://mlssoccer.com" + url
+    else:
+        full_url = ''
+
+
+    return {
+        'competition': competition,
+        'season': season,
+        'name': name,
+        'url': full_url,
+        'team': get_team(team),
+        'position': position,
+        'games_started': games_started,
+        'games_played': games_played,
+        'minutes': minutes,
+        'goals': goals,
+        'assists': assists,
+        'shots': shots,
+        'shots_on_goal': shots_on_goal,
+        }
+
+
+@set_cache
+def scrape_team_stats(url, season):
     """
     Scrape team stats for a given year.
     season_type is playoff or regular.
     """
-
-        
-    
-    if season_type == "PS":
-        competition = 'MLS Playoffs'
-    else:
-        competition = 'MLS'
-
 
     soup = scrape_soup(url)
     
@@ -387,37 +477,12 @@ def scrape_team_stats(url, season, season_type):
         print "No rows: %s" % url
         return []
 
+
     else:
         stats = []
         for tr in stats_trs[1:]: #Skip header.
-            fields = [get_contents(e) for e in tr.findAll("td")]
-            name, team, position, games_played, games_started, minutes, goals, assists, shots, shots_on_goal, _,_,_,_,_,_ = fields
-
-            a = tr.find("a")
-            if a:
-                url = a['href']
-                full_url = "http://mlssoccer.com" + url
-            else:
-                full_url = ''
-
-
-            stats.append({
-                    'competition': competition,
-                    'season': season,
-                    'name': name,
-                    'url': full_url,
-                    'team': get_team(team),
-                    'position': position,
-                    'games_started': games_started,
-                    'games_played': games_played,
-                    'minutes': minutes,
-                    'goals': goals,
-                    'assists': assists,
-                    'shots': shots,
-                    'shots_on_goal': shots_on_goal,
-                })
-
-
+            competition = 'MLS'
+            stats.append(process_stat(tr, competition, season))
 
     return stats
 
@@ -489,7 +554,8 @@ stat_mapping = {
 
 if __name__ == "__main__":
     #print scrape_active_players()
-    print scrape_reserve_game('http://www.cdchivasusa.com/news/2011/05/chivas-reserves-defeat-la-galaxy-reserves-3-1')
+    #print scrape_reserve_game('http://www.cdchivasusa.com/news/2011/05/chivas-reserves-defeat-la-galaxy-reserves-3-1')
     #print scrape_all_bios_mlssoccer()
     #print scrape_all_games_mlssoccer()
-
+    print scrape_all_bio_stats_mlssoccer()
+    

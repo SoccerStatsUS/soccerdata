@@ -153,9 +153,30 @@ def scrape_games(url, competition):
 
 def scrape_game(url):
     soup = scrape_soup(url)
-    
+
+    home_team, away_team, _ = [get_contents(e) for e in soup.findAll("span", 'link-placeholder unauthorized team')]
+
+    home_score, away_score = [int(e) for e in get_contents(soup.find('h3', 'thick scoretime ')).split('-')]
+
+
     import pdb; pdb.set_trace()
-    x = 5
+
+    competition, date, time = [get_contents(e) for e in soup.find("div", 'details clearfix').findAll('li')]
+
+    competition = competition.replace("Competition:", '').strip()
+    date_string = date.replace("Date:", "").strip()
+    time_string = time.replace("Kick-off:", '').strip()
+
+    d = datetime.datetime.strptime("%B %d, %Y", date_string)
+
+    return {
+        'home_team': home_team,
+        'away_team': away_team,
+        'home_score': home_score,
+        'away_score': away_score,
+        'competition': competition,
+        'date': d,
+        }
 
     
 
