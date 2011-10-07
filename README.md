@@ -1,6 +1,11 @@
 
 # Projects.
 
+# Become like demosphere, and have the data collected for you.
+
+http://www.sports-reference.com/stathead/section/soccer/
+http://www.soccermetricsblog.com/2011/06/pythagorean-table-2011-mls-regular-season-20110612-version.html
+
 
 -1. Completely remove year.
 0. Use stats to get names.
