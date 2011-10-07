@@ -1,6 +1,8 @@
 import datetime
 import os
 
+from soccerdata.utils import pounds_to_kg, inches_to_cm
+
 # Scrape bios compiled by me.
 
 DIR = '/home/chris/www/soccerdata/data/people'
@@ -80,11 +82,7 @@ def merged_bios():
             
 
         else:
-            bios[name] = {
-                'name': name,
-                'birthdate': birthdate,
-                'nationality': nationality,
-                }
+            bios[name] = e
 
     return bios.values()
 
@@ -127,7 +125,15 @@ def load_bios(p):
         else:
             d['birthdate'] = None
 
-        for e in 'year', 'month', 'day':
+        if 'feet' in d:
+            cm = inches_to_cm(feet=d['feet'], inches=d['inches'])
+            d['height'] = cm
+
+        if 'pounds' in d:
+            d['weight'] = pounds_to_kg(d['pounds'])
+            
+
+        for e in 'year', 'month', 'day', 'feet', 'inches', 'pounds', '':
             if e in d:
                 d.pop(e)
 
@@ -140,7 +146,7 @@ def load_bios(p):
 
 
 if __name__ == "__main__":
-    merged_bios()
+    print merged_bios()
     
 
 

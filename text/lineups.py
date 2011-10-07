@@ -32,11 +32,6 @@
 
 
 
-
-
-
-
-
 from collections import defaultdict
 import datetime
 import os
@@ -88,7 +83,7 @@ def make_lineup_dict():
 
 
 
-@data_cache
+@set_cache
 def load_all_games_scaryice():
     l = []
     for key in file_mapping.keys():
@@ -220,7 +215,6 @@ def load_all_goals_scaryice():
 
     return correct_goal_names(l)
 
-
 @set_cache
 def load_all_lineups_scaryice():
     l = []
@@ -312,7 +306,7 @@ def get_scores(fn):
 
     p = os.path.join(LINEUPS_DIR, fn)
          
-    team_name = file_mapping[fn.replace(".csv", '')]
+    team_name = get_team(file_mapping[fn.replace(".csv", '')])
     scores = [process_line(line) for line in open(p).readlines()]
     scores = [e for e in scores if e]
     return scores
@@ -392,7 +386,7 @@ def get_goals(filename):
     #   cache_set(p, data)
     # return data
          
-    team_name = file_mapping[filename.replace(".csv", '')]
+    team_name = get_team(file_mapping[filename.replace(".csv", '')])
 
     l = []
     for line in open(p).readlines():
@@ -425,6 +419,8 @@ def get_lineups(filename):
             ('Ronnie O’Brien (Bobby Rhine 80)', 'Ronnie O\'Brien (Bobby Rhine 80)'),
             ('Christian Gómez (John Wilson 61)', 'Christian Gomez (John Wilson 61)'), 
             ('Scott enedetti', 'Scott Benedetti'),
+            ('Luciano Emilio (sent off 64 on bench) (Jaime Moreno 63)', 
+             'Luciano Emilio (Jaime Moreno 63)'),
              
             ]
 
@@ -476,7 +472,7 @@ def get_lineups(filename):
 
     p = os.path.join(LINEUPS_DIR, filename)
          
-    team_name = file_mapping[filename.replace(".csv", '')]
+    team_name = get_team(file_mapping[filename.replace(".csv", '')])
 
     l = []
     for line in open(p).readlines():
@@ -959,7 +955,7 @@ class Lineup(object):
 
 if __name__ == "__main__":
     #print load_all_lineups_scaryice()
-    load_all_goals_scaryice()
+    print [e for e in load_all_lineups_scaryice() if e['team'] == 'Kansas City Wizards']
             
         
             

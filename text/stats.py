@@ -2,9 +2,8 @@
 
 import os
 
-from soccerdata.utils import data_cache
-
 from soccerdata.alias import get_team
+from soccerdata.cache import data_cache
 
 DIR = '/home/chris/www/soccerdata/data/stats'
 
