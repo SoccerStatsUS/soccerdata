@@ -1,6 +1,6 @@
 import datetime
 
-l = [
+transactions = [
 
     ('Bruce Arena', 'DC United', (1996, 1, 1), (1998, 10, 28)),
     ('Thomas Rongen', 'DC United', (1998, 12, 3), None),
@@ -41,11 +41,11 @@ l = [
     ('Bob Houghton', 'Colorado Rapids', (1996, 1, 1), (1996, 9, 11)),
     ('Roy Wegerle', 'Colorado Rapids', (1996, 9, 12), None),
     ('Glenn Myernick', 'Colorado Rapids', (1996, 11, 19), None),
-    ('Tim Hankinson', 'Colorado Rapids', (12, 21, 2000), None),
+    ('Tim Hankinson', 'Colorado Rapids', (2000, 12, 21), None),
     ('Fernando Clavijo', 'Colorado Rapids', (2004, 12, 22), (2008, 8, 20)),
     ('Gary Smith', 'Colorado Rapids', None, None),
 
-    ('Dave Dir', 'FC Dallas', (1996, 1), (2000, 10, 20)),
+    ('Dave Dir', 'FC Dallas', (1996, 1, 1), (2000, 10, 20)),
     ('Mike Jeffries', 'FC Dallas', (2001, 1, 23), (2003, 9, 15)),
     ('Colin Clarke', 'FC Dallas', None, (2006, 11, 7)),
     ('Steve Morrow', 'FC Dallas', None, (2008, 5, 20)),
@@ -53,7 +53,7 @@ l = [
 
     ('Timo Liekoski', 'Columbus Crew', (1995, 12, 5), (1996, 8, 3)),
     ('Tom Fitzgerald', 'Columbus Crew', None, (2001, 5, 18)),
-    ('Greg Andrulis', 'Columbus Crew', None, (7, 12, 2005)),
+    ('Greg Andrulis', 'Columbus Crew', None, (2005, 7, 12)),
     ('Robert Warzycha', 'Columbus Crew', (2005, 7, 12), None),
     ('Sigi Schmid', 'Columbus Crew', (2010, 10, 20), None),
     ('Robert Warzycha', 'Columbus Crew', (2008, 12, 22), None),
@@ -62,7 +62,7 @@ l = [
     ('Octavio Zambrano', 'Los Angeles Galaxy', (1997, 6, 10), None),
     ('Sigi Schmid', 'Los Angeles Galaxy', (1999, 4, 23), (2004, 8, 17)),
     ('Steve Sampson', 'Los Angeles Galaxy', (2004, 8, 18), (2006, 6, 6)),
-    ('Frank Yallop', 'Los Angeles Galaxy', (2004, 8, 17), None)
+    ('Frank Yallop', 'Los Angeles Galaxy', (2004, 8, 17), None),
     ('Ruud Gullit', 'Los Angeles Galaxy', (2007, 11, 8), (2008, 8, 11)),
     ('Cobi Jones', 'Los Angeles Galaxy', (2008, 8, 11), None),
     ('Bruce Arena', 'Los Angeles Galaxy', (2008, 8, 18), None),
@@ -82,11 +82,11 @@ l = [
     ('Perry Van der Beck', 'Tampa Bay Mutiny', (2001, 7, 6), (2002, 1, 1)),
 
     ('Bob Bradley', 'Chicago Fire', (1998, 1, 1), None), 
-    ('Dave Sarachan', 'Chicago Fire', (2002, 11, 6), (6, 20, 2007)), 
+    ('Dave Sarachan', 'Chicago Fire', (2002, 11, 6), (2007, 6, 20)), 
     ('Juan Carlos Osorio', 'Chicago Fire', (2007, 7, 5), (2007, 12, 10)),
     ('Denis Hamlett', 'Chicago Fire', (2008, 1, 11), (2009, 11, 24)), 
     ('Carlos de los Cobos', 'Chicago Fire', (2010, 1, 11), (2011, 5, 30)),
-    ('Frank Klopas', 'Chicago Fire', (2011, 5, 30), None)
+    ('Frank Klopas', 'Chicago Fire', (2011, 5, 30), None),
 
     ('Carlos Cordoba', 'Miami Fusion', (1998, 1, 1), None),
     ('Ivo Wortmann', 'Miami Fusion', (1998, 7, 26), None),
