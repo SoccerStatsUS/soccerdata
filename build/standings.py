@@ -82,7 +82,7 @@ class Standing(object):
         s = set()
         for team in sorted(self.wins.keys()):
             header = ["name", "wins", "losses", "ties", "points", "goals_for", "goals_against", 'competition', 'season']
-            t = (team, self.wins[team], self.losses[team], self.ties[team], self.goals_for[team], self.goals_against[team], self.competition, self.season)
+            t = (team, self.wins[team], self.losses[team], self.ties[team], self.points[team], self.goals_for[team], self.goals_against[team], self.competition, self.season)
             d = dict(zip(header, t))
             s.add(tuple(sorted(d.items())))
 

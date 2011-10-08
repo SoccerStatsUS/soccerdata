@@ -9,8 +9,6 @@ from standings import get_standings
 def generate():
     # Generate standings
     generate_standings(soccer_db.scaryice_games, soccer_db.standings)
-
-
     generate_stats()
     generate_transfers()
 
@@ -49,5 +47,5 @@ def generate_transfers():
     
 
 if __name__ == "__main__":
-    generate_standings()
+    generate()
 
