@@ -17,7 +17,7 @@ soccer_db = mongo.soccer_db
 app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
 
-STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios'
+STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams'
 
 
 
@@ -46,6 +46,7 @@ def dashboard():
 
     ctx = {
         'main': [(table_name, soccer_db[table_name].count()) for table_name in STAT_TABLES],
+        'yaml_data': process_scraper('yaml'),
         'mlssoccer_data': process_scraper('mls'),
         'soccernet_data': process_scraper('soccernet'),
         'cnnsi_data': process_scraper('cnnsi'),
