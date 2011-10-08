@@ -46,14 +46,29 @@ def make_scaryice_lineup_dict():
 
 def merge_games():
 
-    def _f(d):
+    game_dict = {}
+
+    def update_game(d):
+        d.pop("_id")
         d['home_team'] = get_team(d['home_team'])
         d['away_team'] = get_team(d['away_team'])
-        d.pop("_id")
-        return d
+        key = (d['home_team'], d['away_team'], d['date'])
+        if key in game_dict:
+            orig = game_dict[key]
+            for k, v in d.items():
+                if not orig.get(k) and v:
+                    orig[k] = v
+        else:
+            game_dict[key] = d
+
+
+    for e in soccer_db.scaryice_games.find():
+        update_game(e)
+    for e in soccer_db.soccernet_games.find():
+        update_game(e)
 
     soccer_db.games.drop()
-    insert_rows(soccer_db.games, [_f(d) for d in soccer_db.scaryice_games.find()])
+    insert_rows(soccer_db.games, game_dict.values())
 
 
 
@@ -61,7 +76,6 @@ def merge_bios():
     """
     Merge stats.
     """
-
 
     def update_bio(d):
         name = d['name']
@@ -91,6 +105,7 @@ def merge_stats():
 
 
     def update_stat(d):
+        d['team'] = get_team(d['team'])
         t = (d['name'], d['team'], d['competition'], d['season'])
         if t in stat_dict:
             orig = stat_dict[t]
@@ -99,6 +114,7 @@ def merge_stats():
                     orig[k] = v
         else:
             stat_dict[t] = d
+
 
 
     stat_dict = {}
@@ -112,21 +128,57 @@ def merge_stats():
 
 
 
-def merge_goals():
+
+def get_scaryice_goals():
+    # Note! scaryice_lineups needs to have been generated alredady for this to work.
+    from soccerdata.text import lineups
 
     def _f(d):
         d['team'] = get_team(d['team'])
-        d.pop("_id")
         return d
-
-    from soccerdata.text import lineups
-
-    soccer_db.goals.drop()
 
     lineup_dict = make_scaryice_lineup_dict()
     items = [_f(d) for d in soccer_db.scaryice_goals.find()]
-    goals = lineups.correct_goal_names(items, lineup_dict)
-    insert_rows(soccer_db.goals, goals)
+    return lineups.correct_goal_names(items, lineup_dict)
+
+
+def merge_goals():
+    """
+    Merge stats.
+    """
+
+
+    def update_goal(d):
+        d.pop('_id')
+        if not d:
+            return
+        try:
+            d['team'] = get_team(d['team'])
+        except:
+            import pdb; pdb.set_trace()
+        try:
+            key = (d['player'], d['team'], d['date'], d['minute'])
+        except:
+            import pdb; pdb.set_trace()
+        if key in goal_dict:
+            orig = goal_dict[key]
+            for k, v in d.items():
+                if not orig.get(k) and v:
+                    orig[k] = v
+        else:
+            goal_dict[key] = d
+
+
+
+    goal_dict = {}
+    for e in get_scaryice_goals():
+        update_goal(e)
+    for e in soccer_db.soccernet_goals.find():
+        update_goal(e)
+
+    soccer_db.goals.drop()
+    insert_rows(soccer_db.goals, goal_dict.values())
+
 
 
 def merge_lineups():

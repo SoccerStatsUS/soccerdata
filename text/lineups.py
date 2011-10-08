@@ -216,7 +216,7 @@ def correct_goal_names(goal_list, lineup_dict):
         key = (goal['team'], goal['date'])
         
         try:
-            name = goal['name']
+            name = goal['player']
         except:
             import pdb; pdb.set_trace()
 
@@ -241,7 +241,7 @@ def correct_goal_names(goal_list, lineup_dict):
 
         d = goal.copy()
         if real_name:
-            d['name'] = real_name
+            d['player'] = real_name
         l.append(d)
 
     return l
@@ -383,7 +383,7 @@ def get_goals(filename):
                 'team': team_name,
                 'date': date,
                 'season': unicode(date.year),
-                'name': player.strip(),
+                'player': player.strip(),
                 'minute': minute,
                 }
 

@@ -16,7 +16,7 @@ def load():
     # Scraped data
     load_mls()
     #load_nasl()
-    #load_soccernet()
+    load_soccernet()
 
     #load_mediotiempo()
     #load_wiki()
@@ -83,7 +83,7 @@ def load_soccernet():
     from soccerdata.scrapers import soccernet
     generic_load(soccer_db.soccernet_games, lambda: soccernet.scrape_all_league_games('usa.1'))
     generic_load(soccer_db.soccernet_goals, lambda: soccernet.scrape_all_league_goals('usa.1'))
-    #generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups('usa.1'))
+    generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups('usa.1'))
 
 
 
