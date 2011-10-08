@@ -441,11 +441,10 @@ if __name__ == "__main__":
     #print scrape_all_league_goals('uefa.champions')
     #print scrape_all_league_goals('uefa.europa')
     #print scrape_all_league_goals('ita.1')
-    print scrape_all_league_goals('ger.1')
     print scrape_all_league_goals('esp.1')
     print scrape_all_league_goals('mex.1')
 
-
-
+    # Bad tag breaking things.
+    print scrape_all_league_goals('ger.1')
     print scrape_all_league_goals('arg.1')
     print scrape_all_league_goals('bra.1')
