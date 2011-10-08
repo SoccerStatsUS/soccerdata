@@ -2,20 +2,60 @@ from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
 from soccerdata.alias import get_team
 
+from collections import defaultdict
+
+
 
 def merge():
+    merge_teams()
+    merge_bios()
+    merge_stats()
     merge_games()
     merge_goals()
     merge_lineups()
-    merge_stats()
-    merge_bios()
+
+
+
+
+def merge_teams():
+    soccer_db.teams.drop()
+    insert_rows(soccer_db.teams, soccer_db.yaml_teams.find())
+
+
+
+# Where to have this stuff?
+# Needs to be run.
+# Maybe add lineup_dict as an argument to correct_goal_names
+def make_scaryice_lineup_dict():
+    """
+    Returns a dict with key/value pairs like this:
+    ("FC Dallas", datetime.datetime(2011,8,1)): ["Kevin Hartman", "Jair Benitez"...
+    """
+    from soccerdata import mongo
+
+    d = defaultdict(list)
+
+    for l in mongo.soccer_db.scaryice_lineups.find():
+        key = (l['team'], l['date'])
+        v = d[key]
+        v.append(l['name'])
+
+    return d
 
 
 def merge_bios():
+
+
+    def merge_bio(row):
+        # Inactive!
+        pass
+
+
     soccer_db.bios.drop()
     insert_rows(soccer_db.bios, soccer_db.mls_bios.find())
 
     # Split off into a separate function.
+    # merge bios.
     d = dict([(e['name'], e) for e in soccer_db.bios.find()])
     for row in soccer_db.chris_bios.find():
         name = row['name']
@@ -25,54 +65,65 @@ def merge_bios():
             d[name] = row
             insert_row(soccer_db.bios, row)
 
-
-def merge_lineups():
-    soccer_db.lineups.drop()
-    insert_rows(soccer_db.lineups, soccer_db.scaryice_lineups.find())
-
-def merge_bio(row):
-    pass
-    
-def merge_games():
-    soccer_db.games.drop()
-    merge_mls()
-    #merge_nasl()
-    merge_fbleague()
-    merge_aleague()
-
-def merge_goals():
-    soccer_db.goals.drop()
-    insert_rows(soccer_db.goals, soccer_db.scaryice_goals.find())
-
 def merge_stats():
+
+    def _f(d):
+        d['team'] = get_team(d['team'])
+        d.pop("_id")
+        return d
+
+
     soccer_db.stats.drop()
-    insert_rows(soccer_db.stats, soccer_db.mls_stats.find())
+    insert_rows(soccer_db.stats, [_f(d) for d in soccer_db.chris_stats.find()])
+    #insert_rows(soccer_db.stats, [_f(d) for d in soccer_db.mls_stats.find()])
 
 
 
-def merge_fbleague():
-    insert_rows(soccer_db.games, soccer_db.fbleague_games.find())
 
 
-def merge_teams(coll, teams):
-    for team in teams:
-        # Is this the right place for this?
-        d = team.copy()
+def merge_games():
+
+    def _f(d):
         d['home_team'] = get_team(d['home_team'])
         d['away_team'] = get_team(d['away_team'])
         d.pop("_id")
-        insert_row(coll, d)
+        return d
 
-def merge_mls():
-    # Better to start with scaryice games?
-    merge_teams(soccer_db.games, soccer_db.scaryice_games.find())
-    #insert_rows(soccer_db.games, soccer_db.mlssoccer_games.find())
+    soccer_db.games.drop()
+    insert_rows(soccer_db.games, [_f(d) for d in soccer_db.scaryice_games.find()])
 
-def merge_nasl():
-    insert_rows(soccer_db.games, soccer_db.nasl_games.find())    
 
-def merge_aleague():
-    insert_rows(soccer_db.games, soccer_db.aleague_games.find())    
+def merge_goals():
+
+    def _f(d):
+        d['team'] = get_team(d['team'])
+        d.pop("_id")
+        return d
+
+    from soccerdata.text import lineups
+
+    soccer_db.goals.drop()
+
+    lineup_dict = make_scaryice_lineup_dict()
+    items = [_f(d) for d in soccer_db.scaryice_goals.find()]
+    goals = lineups.correct_goal_names(items, lineup_dict)
+    insert_rows(soccer_db.goals, goals)
+
+
+def merge_lineups():
+
+    def _f(d):
+        d['team'] = get_team(d['team'])
+        d.pop("_id")
+        return d
+
+
+    soccer_db.lineups.drop()
+    insert_rows(soccer_db.lineups, [_f(d) for d in soccer_db.scaryice_lineups.find()])
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 from soccerdata.mongo import generic_load, soccer_db
-from soccerdata.text import bios, lineups,  salaries, drafts, stats
-from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
 
+from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
+from soccerdata.text import lineups
 
 def load():
     """
@@ -9,8 +9,9 @@ def load():
     """
 
     # Offline data
+    load_yaml()
     load_chris()
-    load_scaryice()
+    #load_scaryice()
 
     # Scraped data
     #load_mls()
@@ -24,8 +25,15 @@ def load():
 
 
 
+def load_yaml():
+    from soccerdata.text import syaml
+    print "Loading teams.\n"
+    generic_load(soccer_db.yaml_teams, syaml.load_teams)
+
+
 def load_chris():
     print "Loading chris text bios.\n"
+    from soccerdata.text import bios, salaries, drafts, stats
     generic_load(soccer_db.chris_bios, bios.merged_bios)
 
     print "Loading chris stats.\n"

@@ -49,11 +49,10 @@ def build():
     Rebuild all site data.
     """
 
-    #mongo.soccer_db.drop()
+    #reset_database()
 
     # Load all data.
     load()
-
 
     # Merge is currently putting games into soccer_db.games
     merge()
