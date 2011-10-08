@@ -92,23 +92,6 @@ def get_competition(name):
         return 'MLS'
     
 
-def make_lineup_dict():
-    """
-    Returns a dict with key/value pairs like this:
-    ("FC Dallas", datetime.datetime(2011,8,1)): ["Kevin Hartman", "Jair Benitez"...
-    """
-    from soccerdata import mongo
-
-    d = defaultdict(list)
-
-    for l in mongo.soccer_db.scaryice_lineups.find():
-        key = (l['team'], l['date'])
-        v = d[key]
-        v.append(l['name'])
-
-    return d
-
-
 
 @set_cache
 def load_all_games_scaryice():
@@ -123,11 +106,46 @@ def load_all_games_scaryice():
 
     return sorted([dict(e) for e in s])
 
+    
 
-def correct_goal_names(goal_list):
+@set_cache
+def load_all_goals_scaryice():
+    l = []
+    for key in file_mapping.keys():
+        fn = "%s.csv" % key
+        l.extend(get_goals(fn))
+
+    return l
+
+
+@set_cache
+def load_all_lineups_scaryice():
+    l = []
+    for key in file_mapping.keys():
+        fn = "%s.csv" % key
+        l.extend(get_lineups(fn))
+    return l
+
+
+
+
+
+get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
+
+if os.path.exists("/home/chris/www/soccerdata/data/lineups/"):
+    LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/"
+else:
+    LINEUPS_DIR = "/Users/chrisedgemon/www/soccerdata/data/lineups/"
+
+
+
+
+
+def correct_goal_names(goal_list, lineup_dict):
     """
     Try to map from Kirovski to Jovan Kirovski
     based on lineups.
+    For scaryice goal data.
     """
 
     # Problems:
@@ -161,8 +179,6 @@ def correct_goal_names(goal_list):
         'J.P. Garcia': 'Juan Pablo Garcia',
         }
 
-
-    lineup_dict = make_lineup_dict()
 
     def get_match(key, first, last):
         if last in last_mapping:
@@ -231,35 +247,10 @@ def correct_goal_names(goal_list):
     return l
         
             
-    
-
-@set_cache
-def load_all_goals_scaryice():
-    l = []
-    for key in file_mapping.keys():
-        fn = "%s.csv" % key
-        l.extend(get_goals(fn))
-
-    return correct_goal_names(l)
-
-@set_cache
-def load_all_lineups_scaryice():
-    l = []
-    for key in file_mapping.keys():
-        fn = "%s.csv" % key
-        l.extend(get_lineups(fn))
-    return l
 
 
 
 
-
-get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
-
-if os.path.exists("/home/chris/www/soccerdata/data/lineups/"):
-    LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/"
-else:
-    LINEUPS_DIR = "/Users/chrisedgemon/www/soccerdata/data/lineups/"
 
 
 def get_scores(fn):
