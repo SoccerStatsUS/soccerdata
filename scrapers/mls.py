@@ -1,7 +1,4 @@
 import datetime
-import itertools
-
-from BeautifulSoup import BeautifulSoup
 
 # Probably do the team stuff when we're merging into canonical tables.
 from soccerdata.alias import get_team
@@ -9,9 +6,7 @@ from soccerdata.utils import scrape_soup, get_contents, pounds_to_kg, inches_to_
 from soccerdata.cache import data_cache, set_cache
 
 
-# Need to comment this!
-
-
+@data_cache
 def scrape_all_bios_mlssoccer():
     """
     Scrape all players that are linked to by a stats link.
@@ -33,6 +28,7 @@ def scrape_all_bios_mlssoccer():
     return [e for e in bios if e]
 
 
+@data_cache
 def scrape_all_bio_stats_mlssoccer():
     """
     Scrape all players that are linked to by a stats link.
@@ -54,6 +50,7 @@ def scrape_all_bio_stats_mlssoccer():
     return [e for e in stats if e]
 
 
+@data_cache
 def scrape_all_stats_mlssoccer():
     """
     Scrape all mls stats.
@@ -71,6 +68,7 @@ def scrape_all_stats_mlssoccer():
             stats.extend(scrape_team_stats(url, season))
     return stats
 
+
 @data_cache
 def scrape_all_games_mlssoccer():
 
@@ -80,32 +78,6 @@ def scrape_all_games_mlssoccer():
         l.extend(scrape_games(year))
 
     return l
-
-
-
-def scrape_active_players():
-    """
-    Scrape active mls player bios.
-    """
-    l = []
-    for url, name in scrape_active_player_urls():
-        full_url = "http://mlssoccer.com%s" % url
-        l.append(scrape_player_bio(full_url))
-    return l
-        
-
-def scrape_active_player_urls():
-    """
-    Get urls for all player bios.
-    """
-    letters = 'abcdefghijklmnopqrstuvwxyz'
-    players_url = "http://www.mlssoccer.com/players/%s"
-    urls = {}
-    for letter in letters:
-        url = players_url % letter
-        d = get_player_urls_from_page(url)
-        urls.update(d)
-    return sorted(urls.items())
 
 
 @data_cache
@@ -175,34 +147,6 @@ def scrape_player_bio(url):
         'birthdate': birthdate,
         'birthplace': birthplace,
         }
-
-
-
-
-
-
-def get_player_urls_from_page(url):
-    """
-    Scrape player urls from a given page.
-    """
-    # Need to run this fresh sometimes to get new player urls.
-    # Could also potentially avoid this problem by scraping players
-    # from game stats.
-    
-    soup = scrape_soup(url) #, static=False)
-
-    try:
-        link_name_tuples = [(a['href'], get_contents(a)) for a in soup.find("div", "view-content").find("table").find("tbody").findAll("a")]
-    except AttributeError:
-        # Something was probably a NoneType
-        return []
-
-    # Filter out twitter links.
-    link_name_tuples = [e for e in link_name_tuples if e[1]]
-
-    return dict(link_name_tuples)
-
-
 
 
 def scrape_games(year):
@@ -456,7 +400,7 @@ def process_stat(tr, competition, season):
         }
 
 
-@set_cache
+@data_cache
 def scrape_team_stats(url, season):
     """
     Scrape team stats for a given year.
@@ -503,59 +447,9 @@ def scrape_reserve_game(url):
     x = 5
 
     
-# Should move this into an alias object.
-# Good enough names.
-team_names = {
-    "dal": "FC Dallas",
-    "clb": "Columbus Crew",
-    "col": "Colorado Rapids",
-    "chi": "Chicago Fire",
-    "chv": "Chivas USA",
-    "dc": "D.C. United",
-    "hou": "Houston Dynamo",
-    "kc": "Kansas City Wizards",
-    "la": "Los Angeles Galaxy",
-    "ne": "New England Revolution",
-    "ny": "New York Red Bulls",
-    "phi": "Philadelphia Union",
-    "rsl": "Real Salt Lake",
-    "sea": "Seattle Sounders",
-    "sje": "San Jose Earthquakes",
-    "tor": "Toronto FC",
-    "mia": "Miami Fusion",
-    "tb": "Tampa Bay Mutiny",
-    }
-    
- 
-# Scrape mlssoccer stats.
-   
-stat_mapping = {
-    '#': 'number',
-    'POS': 'position',
-    'Player': 'name',
-    'GP': 'games_played',
-    'GS': 'games_started',
-    'MIN': 'minutes',
-    'G': 'goals',
-    'GWG': 'game_winning_goals',
-    'A': 'assists',
-    'SHT': 'shots',
-    'SOG': 'shots_on_goal',
-    'OFF': 'offsides',
-    'PG': 'penalty_goals',
-    'PA': 'penalty_attempts',
-    'FC': "fouls_committed",
-    "FS": 'fouls_suffered',
-    'YC': "yellow_cards",
-    "RC": "red_cards",
-    }
 
 
 
 if __name__ == "__main__":
-    #print scrape_active_players()
-    #print scrape_reserve_game('http://www.cdchivasusa.com/news/2011/05/chivas-reserves-defeat-la-galaxy-reserves-3-1')
-    #print scrape_all_bios_mlssoccer()
-    #print scrape_all_games_mlssoccer()
     print scrape_all_bio_stats_mlssoccer()
     

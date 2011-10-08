@@ -46,55 +46,7 @@ def get_match_stats_url(url):
         import pdb; pdb.set_trace()
         raise
 
-
-def scrape_all_league_scores(league_code):
-    """
-    Scrape all league game data from scoreboards
-    """
-    # A league would be, e.g. usa.1
-    # The soccernet league code.
-
-    url = 'http://soccernet.espn.go.com/scores?date=20110930&league=%s&cc=5901&xhr=1' % league_code
-    urls = scrape_scoreboard_urls(url)
-
-    games = []
-    for url in urls:
-        try:
-            games.extend(scrape_league_scoreboard(url))
-        except:
-            print url
-
-    games =  [e for e in games if e]
-    return games
-
-
-
-def scrape_all_league_games(league_code):
-    competition = code_to_competition(league_code)
-    games = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
-        games.append(scrape_live_game(url, competition))
-    return games
-
-def scrape_all_league_goals(league_code):
-    competition = code_to_competition(league_code)
-    goals = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
-        goals.extend(scrape_live_goals(url, competition))
-    return goals
-
-
-def scrape_all_league_lineups(league_code):
-    competition = code_to_competition(league_code)
-    l = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
-        l.extend(scrape_live_lineups(url, competition))
-    return l
-
-
+@data_cache
 def scrape_scoreboard_urls(url):
     """
     Returns a list of game urls for a given scoreboard category, e.g. mls.1
@@ -120,6 +72,60 @@ def scrape_scoreboard_urls(url):
             return urls
         urls.append(new_url)
     return urls
+
+
+
+@data_cache
+def scrape_all_league_scores(league_code):
+    """
+    Scrape all league game data from scoreboards
+    """
+    # A league would be, e.g. usa.1
+    # The soccernet league code.
+
+    url = 'http://soccernet.espn.go.com/scores?date=20110930&league=%s&cc=5901&xhr=1' % league_code
+    urls = scrape_scoreboard_urls(url)
+
+    games = []
+    for url in urls:
+        try:
+            games.extend(scrape_league_scoreboard(url))
+        except:
+            print url
+
+    games =  [e for e in games if e]
+    return games
+
+
+@data_cache
+def scrape_all_league_games(league_code):
+    competition = code_to_competition(league_code)
+    games = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        games.append(scrape_live_game(url, competition))
+    return games
+
+
+@data_cache
+def scrape_all_league_goals(league_code):
+    competition = code_to_competition(league_code)
+    goals = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        goals.extend(scrape_live_goals(url, competition))
+    return goals
+
+
+@data_cache
+def scrape_all_league_lineups(league_code):
+    competition = code_to_competition(league_code)
+    l = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        l.extend(scrape_live_lineups(url, competition))
+    return l
+
 
 
 
@@ -432,7 +438,7 @@ if __name__ == "__main__":
         ]
 
 
-    #print scrape_all_league_goals('usa.1')
+    print scrape_all_league_goals('usa.1')
 
     #print scrape_all_league_lineups('usa.1')
     #print scrape_all_league_goals('conmebol.libertadores')
@@ -441,10 +447,10 @@ if __name__ == "__main__":
     #print scrape_all_league_goals('uefa.champions')
     #print scrape_all_league_goals('uefa.europa')
     #print scrape_all_league_goals('ita.1')
-    print scrape_all_league_goals('esp.1')
-    print scrape_all_league_goals('mex.1')
+    #print scrape_all_league_goals('esp.1')
+    #print scrape_all_league_goals('mex.1')
 
     # Bad tag breaking things.
-    print scrape_all_league_goals('ger.1')
-    print scrape_all_league_goals('arg.1')
-    print scrape_all_league_goals('bra.1')
+    #print scrape_all_league_goals('ger.1')
+    #print scrape_all_league_goals('arg.1')
+    #print scrape_all_league_goals('bra.1')

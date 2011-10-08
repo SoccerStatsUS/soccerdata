@@ -11,10 +11,10 @@ def load():
     # Offline data
     load_yaml()
     load_chris()
-    #load_scaryice()
+    load_scaryice()
 
     # Scraped data
-    #load_mls()
+    load_mls()
     #load_nasl()
     #load_soccernet()
 
@@ -65,10 +65,10 @@ def load_mls():
     generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
 
     print "Loading MLSsoccer.com stats\n"
-    generic_load(soccer_db.mls_stats, mls.scrape_all_stats_mlssoccer)
+    #generic_load(soccer_db.mls_stats, mls.scrape_all_stats_mlssoccer)
 
     print "Loading MLSsoccer.com game data.\n"
-    generic_load(soccer_db.mls_games, mls.scrape_all_games_mlssoccer)
+    #generic_load(soccer_db.mls_games, mls.scrape_all_games_mlssoccer)
 
 
 
@@ -83,7 +83,7 @@ def load_soccernet():
     from soccerdata.scrapers import soccernet
     generic_load(soccer_db.soccernet_games, lambda: soccernet.scrape_all_league_games('usa.1'))
     generic_load(soccer_db.soccernet_goals, lambda: soccernet.scrape_all_league_goals('usa.1'))
-    generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups('usa.1'))
+    #generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups('usa.1'))
 
 
 

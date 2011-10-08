@@ -43,43 +43,6 @@ def make_scaryice_lineup_dict():
     return d
 
 
-def merge_bios():
-
-
-    def merge_bio(row):
-        # Inactive!
-        pass
-
-
-    soccer_db.bios.drop()
-    insert_rows(soccer_db.bios, soccer_db.mls_bios.find())
-
-    # Split off into a separate function.
-    # merge bios.
-    d = dict([(e['name'], e) for e in soccer_db.bios.find()])
-    for row in soccer_db.chris_bios.find():
-        name = row['name']
-        if name in d:
-            merge_bio(row)
-        else:
-            d[name] = row
-            insert_row(soccer_db.bios, row)
-
-def merge_stats():
-
-    def _f(d):
-        d['team'] = get_team(d['team'])
-        d.pop("_id")
-        return d
-
-
-    soccer_db.stats.drop()
-    insert_rows(soccer_db.stats, [_f(d) for d in soccer_db.chris_stats.find()])
-    #insert_rows(soccer_db.stats, [_f(d) for d in soccer_db.mls_stats.find()])
-
-
-
-
 
 def merge_games():
 
@@ -91,6 +54,62 @@ def merge_games():
 
     soccer_db.games.drop()
     insert_rows(soccer_db.games, [_f(d) for d in soccer_db.scaryice_games.find()])
+
+
+
+def merge_bios():
+    """
+    Merge stats.
+    """
+
+
+    def update_bio(d):
+        name = d['name']
+        if name in bio_dict:
+            orig = bio_dict[name]
+            for k, v in d.items():
+                if not orig.get(k) and v:
+                    orig[k] = v
+        else:
+            bio_dict[name] = d
+
+    bio_dict = {}
+    for e in soccer_db.mls_bios.find():
+        update_bio(e)
+    for e in soccer_db.chris_bios.find():
+        update_bio(e)
+
+    soccer_db.bios.drop()
+    insert_rows(soccer_db.bios, bio_dict.values())
+
+
+
+def merge_stats():
+    """
+    Merge stats.
+    """
+
+
+    def update_stat(d):
+        t = (d['name'], d['team'], d['competition'], d['season'])
+        if t in stat_dict:
+            orig = stat_dict[t]
+            for k, v in d.items():
+                if not orig.get(k) and v:
+                    orig[k] = v
+        else:
+            stat_dict[t] = d
+
+
+    stat_dict = {}
+    for e in soccer_db.mls_stats.find():
+        update_stat(e)
+    for e in soccer_db.chris_stats.find():
+        update_stat(e)
+
+    soccer_db.stats.drop()
+    insert_rows(soccer_db.stats, stat_dict.values())
+
 
 
 def merge_goals():

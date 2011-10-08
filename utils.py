@@ -109,12 +109,13 @@ def scrape_url(url, refresh=False, encoding=None, sleep=0):
         encoding = 'utf-8'
 
     # Should be connection.cache
-
+    html = None
     if refresh is False:
         try:
             html = db.Get(url)
         except KeyError:
-            html = None
+            pass
+
 
 
     if html is None:
