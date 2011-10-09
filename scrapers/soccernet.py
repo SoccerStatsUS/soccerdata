@@ -24,6 +24,11 @@ from soccerdata.cache import  data_cache, set_cache
 base = 'http://soccernet.espn.go.com'
 
 
+def scrape_bio():
+    url = 'http://soccernet.espn.go.com/player/_/id/115975/andrew-jacobson?cc=5901'
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+
+
 
 def get_match_stats_url(url):
     """
@@ -45,6 +50,9 @@ def get_match_stats_url(url):
     else:
         import pdb; pdb.set_trace()
         raise
+
+
+# Only returning internally used data.
 
 @data_cache
 def scrape_scoreboard_urls(url):
@@ -97,7 +105,11 @@ def scrape_all_league_scores(league_code):
     return games
 
 
-@data_cache
+# Uncache
+# These return actual data
+
+
+@set_cache
 def scrape_all_league_games(league_code):
     competition = code_to_competition(league_code)
     games = []
@@ -107,7 +119,7 @@ def scrape_all_league_games(league_code):
     return games
 
 
-@data_cache
+@set_cache
 def scrape_all_league_goals(league_code):
     competition = code_to_competition(league_code)
     goals = []
@@ -117,7 +129,7 @@ def scrape_all_league_goals(league_code):
     return goals
 
 
-@data_cache
+@set_cache
 def scrape_all_league_lineups(league_code):
     competition = code_to_competition(league_code)
     l = []
@@ -132,7 +144,7 @@ def scrape_all_league_lineups(league_code):
 # I'm not too confident this works.
 # Maybe a better idea just to use for urls.
 # Definitely need to add competition to the result.
-@data_cache
+@set_cache
 def scrape_league_scoreboard(url):
     """
     Get game result data from a scoreboard page.
@@ -174,7 +186,7 @@ def scrape_league_scoreboard(url):
 
     return [process_game(game) for game in gameboxes]
 
-@data_cache
+@set_cache
 def scrape_live_game(url, competition):
     """
     Get game data from a game page.
@@ -193,16 +205,21 @@ def scrape_live_game(url, competition):
     data = [get_contents(e) for e in game_data]
 
     if len(data) == 3:
-        subcompetition, datetime_string, location = data
+        season, datetime_string, location = data
         referee = None
 
     if len(data) == 4:
-        subcompetition, datetime_string, location, referee = data
+        season, datetime_string, location, referee = data
         referee = referee.replace("Referee:", '').strip()
+
 
     minute, date_string = datetime_string.split(',', 1)
 
     date = datetime.datetime.strptime(date_string.strip(), "%B %d, %Y")
+
+    # Season really isn't worth anything from ESPN.
+    season = str(date.year)
+
 
     return {
         'home_team': home_team,
@@ -210,12 +227,13 @@ def scrape_live_game(url, competition):
         'home_score': home_score,
         'away_score': away_score,
         'competition': competition,
+        'season': season,
         'date': date,
         'location': location,
         'referee': referee
         }
 
-@data_cache
+@set_cache
 def scrape_live_goals(url, competition):
     """
     Get goal data from a game page.
@@ -281,7 +299,8 @@ def scrape_live_goals(url, competition):
         
     return goals
 
-@data_cache
+
+@set_cache
 def scrape_live_lineups(url, competition):
     """
     Scrape a lineup from a game url.
@@ -438,19 +457,7 @@ if __name__ == "__main__":
         ]
 
 
-    print scrape_all_league_goals('usa.1')
-
-    #print scrape_all_league_lineups('usa.1')
-    #print scrape_all_league_goals('conmebol.libertadores')
-
-    #print scrape_all_league_goals('eng.1')
-    #print scrape_all_league_goals('uefa.champions')
-    #print scrape_all_league_goals('uefa.europa')
-    #print scrape_all_league_goals('ita.1')
-    #print scrape_all_league_goals('esp.1')
-    #print scrape_all_league_goals('mex.1')
-
-    # Bad tag breaking things.
-    #print scrape_all_league_goals('ger.1')
-    #print scrape_all_league_goals('arg.1')
-    #print scrape_all_league_goals('bra.1')
+    print scrape_all_league_games('mex.1')
+    #print scrape_all_league_games('usa.1')
+    #print scrape_all_league_games('mex.1')
+    #print scrape_bio()

@@ -1,7 +1,6 @@
 import datetime
 import os
 
-from soccerdata.alias import get_team
 from soccerdata.data.transactions.coach import transactions
 
 def process_manager_list():
@@ -22,7 +21,6 @@ def process_manager_list():
             start = datetime.date(*start)
         if end:
             end = datetime.date(*end)
-        team = get_team(team)
 
 
         if start is None:

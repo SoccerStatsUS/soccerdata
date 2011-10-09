@@ -2,7 +2,6 @@
 
 import os
 
-from soccerdata.alias import get_team
 from soccerdata.cache import data_cache
 
 DIR = '/home/chris/www/soccerdata/data/stats'
@@ -54,12 +53,8 @@ def process_stats(fn, competition):
         d = dict(zip(header, fields))
         d['name'] = process_name(d['name'])
         d['competition'] = competition
+        d['team'] = d['team']
         d['season'] = d.pop('year')
-
-        try:
-            d['team'] = get_team(d['team'])
-        except:
-            import pdb; pdb.set_trace()
             
         for k in 'games_played', 'games_started', 'minutes', 'goals', 'assists', 'shots', 'shots_on_goal', \
                 'blocks', 'fouls_committed', 'fouls_suffered', 'offsides', 'pk_goals', 'pk_attempts', 'pks_drawn', \

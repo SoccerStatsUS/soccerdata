@@ -38,7 +38,6 @@ import os
 import re
 import sys
 
-from soccerdata.alias import get_team
 from soccerdata.cache import data_cache, set_cache
 
 
@@ -308,17 +307,16 @@ def get_scores(fn):
         return {
             'competition': get_competition(match_type),
             'date': date,
-            'year': date.year,
             'season': unicode(date.year),
-            'home_team': get_team(home_team),
-            'away_team': get_team(away_team),
+            'home_team': home_team,
+            'away_team': away_team,
             'home_score': home_score,
             'away_score': away_score,
             }
 
     p = os.path.join(LINEUPS_DIR, fn)
          
-    team_name = get_team(file_mapping[fn.replace(".csv", '')])
+    team_name = file_mapping[fn.replace(".csv", '')]
     scores = [process_line(line) for line in open(p).readlines()]
     scores = [e for e in scores if e]
     return scores
@@ -392,7 +390,7 @@ def get_goals(filename):
         return [e for e in l if e]
 
     p = os.path.join(LINEUPS_DIR, filename)
-    team_name = get_team(file_mapping[filename.replace(".csv", '')])
+    team_name = file_mapping[filename.replace(".csv", '')]
 
     l = []
     for line in open(p).readlines():
@@ -498,16 +496,17 @@ def get_lineups(filename):
 
     p = os.path.join(LINEUPS_DIR, filename)
          
-    team_name = get_team(file_mapping[filename.replace(".csv", '')])
+    team_name = file_mapping[filename.replace(".csv", '')]
 
     l = []
     for line in open(p).readlines():
         l.extend(process_line(line))
 
+    # What is this doing?
     l2 = []
     for e in l:
         f = e.copy()
-        f['name'] = f['name'].strip()
+        f['player'] = f['player'].strip()
         l2.append(f)
 
     return l2
@@ -533,7 +532,7 @@ class LineupProcessor(object):
 
         if open_parens == 0 and closed_parens == 0:
             return [{
-                'name': row,
+                'player': row,
                 'on': 0,
                 'off': 'end',
                 }]
@@ -555,12 +554,12 @@ class LineupProcessor(object):
             self.previous_row = ''
             starter, sub, minute = m.groups()
             return [{
-                    'name': starter,
+                    'player': starter,
                     'on': 0,
                     'off': minute,
                     },
                     {
-                    'name': sub,
+                    'player': sub,
                     'on': minute,
                     'off': 'end',
                     }]
@@ -570,12 +569,12 @@ class LineupProcessor(object):
             self.previous_row = ''
             starter, minute, sub = m.groups()
             return [{
-                    'name': starter,
+                    'player': starter,
                     'on': 0,
                     'off': minute,
                     },
                     {
-                    'name': sub,
+                    'player': sub,
                     'on': minute,
                     'off': 'end',
                     }]
@@ -585,12 +584,12 @@ class LineupProcessor(object):
             self.previous_row = ''
             starter, sub = m.groups()
             return [{
-                    'name': starter,
+                    'player': starter,
                     'on': 0,
                     'off': '?',
                     },
                     {
-                    'name': sub,
+                    'player': sub,
                     'on': '?',
                     'off': 'end',
                     }]
@@ -599,17 +598,17 @@ class LineupProcessor(object):
         if m:
             starter, sub1, minute1, sub2, minute2 = m.groups()
             return [{
-                    'name': starter,
+                    'player': starter,
                     'on': 0,
                     'off': minute1,
                     },
                     {
-                    'name': sub1,
+                    'player': sub1,
                     'on': minute1,
                     'off': minute2,
                     },
                     {
-                    'name': sub2,
+                    'player': sub2,
                     'on': minute2,
                     'off': 'end',
                     }]

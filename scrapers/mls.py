@@ -1,7 +1,5 @@
 import datetime
 
-# Probably do the team stuff when we're merging into canonical tables.
-from soccerdata.alias import get_team
 from soccerdata.utils import scrape_soup, get_contents, pounds_to_kg, inches_to_cm
 from soccerdata.cache import data_cache, set_cache
 
@@ -346,7 +344,7 @@ def scrape_player_stats(url):
             'competition': 'MLS',
             'season': 'regular season %s' % year,
             'name': bio['name'],
-            'team': get_team(team),
+            'team': team,
             'games_started': games_started,
             'games_played': games_played,
             'minutes': minutes,
@@ -388,7 +386,7 @@ def process_stat(tr, competition, season):
         'season': season,
         'name': name,
         'url': full_url,
-        'team': get_team(team),
+        'team': team,
         'position': position,
         'games_started': games_started,
         'games_played': games_played,

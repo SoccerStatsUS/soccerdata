@@ -1,6 +1,6 @@
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
-from soccerdata.alias import get_team
+from soccerdata.alias import get_team, get_bio
 
 from collections import defaultdict
 
@@ -78,7 +78,9 @@ def merge_bios():
     """
 
     def update_bio(d):
-        name = d['name']
+        name = get_bio(d['name'])
+        d['name'] = name
+        
         if name in bio_dict:
             orig = bio_dict[name]
             for k, v in d.items():
@@ -106,6 +108,7 @@ def merge_stats():
 
     def update_stat(d):
         d['team'] = get_team(d['team'])
+        d['name'] = get_bio(d['name'])
         t = (d['name'], d['team'], d['competition'], d['season'])
         if t in stat_dict:
             orig = stat_dict[t]
@@ -133,12 +136,9 @@ def get_scaryice_goals():
     # Note! scaryice_lineups needs to have been generated alredady for this to work.
     from soccerdata.text import lineups
 
-    def _f(d):
-        d['team'] = get_team(d['team'])
-        return d
 
     lineup_dict = make_scaryice_lineup_dict()
-    items = [_f(d) for d in soccer_db.scaryice_goals.find()]
+    items = [d for d in soccer_db.scaryice_goals.find()]
     return lineups.correct_goal_names(items, lineup_dict)
 
 
@@ -153,6 +153,9 @@ def merge_goals():
         if not d:
             return
         d['team'] = get_team(d['team'])
+        d['player'] = get_bio(d['player'])
+        # Presumably no player will score twice in the same minute?
+        # When this comes untrue, we have a big problem.
         key = (d['player'], d['team'], d['date'], d['minute'])
         if key in goal_dict:
             orig = goal_dict[key]
@@ -186,6 +189,7 @@ def merge_lineups():
         if not d:
             return
         d['team'] = get_team(d['team'])
+        d['player'] = get_bio(d['player'])
 
         try:
             key = (d['player'], d['date'])
