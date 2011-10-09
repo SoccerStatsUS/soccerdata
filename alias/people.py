@@ -1,42 +1,142 @@
-from collections import defaultdict
-
-from mongo import soccer_db
-
-
-class PersonNamer(object):
-    """
-    Get the canonical name of a person.
-    Currently retrieving based on stats model.
-    Not sure what the best way to do this is.
-    """
-    def __init__(self):
-        self.mapping = self.get_mapping()
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
 
 
-    def get_mapping(self):
-        d = defaultdict(list)
-        for e in soccer_db.stats.find():
-            # Could do a lot of other tuples.
-            t = (e['team'], e['season'])
-            d[t].append(e['name'])
+names = {
+    'RT Moore': 'R.T. Moore',
+    'Brian Mcbride': 'Brian McBride',
+    'Austin Da Luz': 'Austin da Luz',
+    'Ronnie O\'brien': 'Ronnie O\'Brien',
+    'Ronnie O\u2019Brien': 'Ronnie O\'Brien',
+    'Keiran O\'brien': 'Keiran O\'Brien',
+    'Neil Mcnab': 'Neil McNab',
+    'Jason Hern\xe1ndez': 'Jason Hernandez',
+    'J\xe1mison Olave': 'Jamison Olave',
+    'Abraham Fran\xe7ois': 'Abraham Francois',
+    'Giuseppe Depalo': 'Giuseppe DePalo',
+    'James Dedeus': 'James DeDeus',
+    'JP Rodrigues': 'J.P. Rodrigues',
+    'Leo Gonz\xe1lez': 'Leo Gonzalez',
+    'John Debrito': 'John DeBrito',
+    'Nick Desantis': 'Nick De Santis',
+    'Nick DeSantis': 'Nick De Santis',
+    'AJ Wood': 'A.J. Wood',
+    'Orlando P\xe9rez': 'Orlando Perez',
+    'Jair Ben\xedtez': 'Jair Benitez',
+    'Dave Van den Bergh': 'Dave van den Bergh',
+    'Michael Uma\xf1a': 'Michael Umana',
+    'Rodrigo L\xf3pez': 'Rodrigo Lopez',
+    'Daniel (Scott) Ikeda': 'Daniel Ikeda',
+    'Daniel "Scott" Ikeda': 'Daniel Ikeda',
+    'St\xe9phane Auvray': 'Stephane Auvray',
+    'Demetrius White': 'DeMetrius White',
+    'Francisco G\xf3mez': 'Francisco Gomez',
+    'Stephen DeRoux': 'Stephen deRoux',
+    'Stuart Macrury': 'Stuart MacRury',
+    'STUART Macrury': 'Stuart MacRury',
+    'Jeff Dimaria': 'Jeff DiMaria',
+    'Brandon Mcdonald': 'Brandon McDonald',
+    'Peter Van de Ven': 'Peter Van De Ven',
+    'Nelson Gonz\xe1lez': 'Nelson Gonzalez',
+    'Damarcus Beasley': 'DaMarcus Beasley',
+    'Rafael M\xe1rquez': 'Rafael Marquez',
+    'Brett Mcdermott': 'Brett McDermott',
+    'Sean Mcauley': 'Sean McAuley',
+    'Cristian Da Silva': 'Cristian da Silva',
+    'ANDREW Mcdermott': 'Andrew McDermott',
+    'Andrew Mcdermott': 'Andrew McDermott',
+    'Leighton O\'brien': 'Leighton O\'Brien',
+    '\xc1lvaro Fern\xe1ndez': 'Alvaro Fernandez',
+    'Jerome Lee-Yaw': 'Jerome Lee Yaw',
+    'Michael* Ueltschey': 'Michael Ueltschey',
+    'Danny Devall': 'Danny DeVall',
+    'Danilo Da Silva': 'Danilo da Silva',
+    'JT Dorsey': 'J.T. Dorsey',
+    'Andr\xe9s Mendoza': 'Andres Mendoza',
+    'David Demello': 'David DeMello',
+    'Jose Dasilva': 'Jose DaSilva',
+    'Herculez G\xf3mez': 'Herculez Gomez',
+    'Pablo Hern\xe1ndez': 'Pablo Hernandez',
+    'Drew Mcathy': 'Drew McAthy',
+    'Marvin Ch\xe1vez': 'Marvin Chavez',
+    'Quinn O\'sullivan': 'Quinn O\'Sullivan',
+    'Alvaro Sabor\xedo': 'Alvaro Saborio',
+    '\xc1lvaro Sabor\xedo': 'Alvaro Saborio',
+    'David De La Torre': 'David de la Torre',
+    'Paul Decastro': 'Paul DeCastro',
+    'Fernando Ortiz Solis': 'Fernando Ortiz-Solis',
+    'Claudio Su\xe1rez': 'Claudio Suarez',
+    'Emilio Renter\xeda': 'Emilio Renteria',
+    'Diego Guti\xe9rrez': 'Diego Gutierrez',
+    'Danny O\u2019Rourke': 'Danny O\'Rourke',
+    'Joey Disalvo': 'Joey DiSalvo',
+    'Joey Digiamarino': 'Joey DiGiamarino',
+    'John Diraimondo': 'John DiRaimondo',
+    'DJ Countess': 'D.J. Countess',
+    'Alex Pineda-Chacon': 'Alex Pineda Chacon',
+    'Justin S Hughes': 'Justin S. Hughes',
+    'Michael N\'doumbe': 'Michael N\'Doumbe',
+    'Jeff Devettori': 'Jeff DeVettori',
+    'Jason Ditullio': 'Jason DiTullio',
+    'Juli\xe1n De Guzman': 'Julian De Guzman',
+    'Mike DuHaney': 'Mike Duhaney',
+    'Dedi Ben-Dayan': 'Dedi Ben Dayan',
+    'David Diplacido': 'David DiPlacido',
+    'Jos\xe9 Cancela': 'Jose Cancela',
+    '\xa0Jose Cancela': 'Jose Cancela',
+    'Fabi\xe1n Esp\xedndola': 'Fabian Espindola',
+    'Kevin O\'brien': 'Kevin O\'Brien',
+    'Isaias Bardales Jr': 'Isaias Bardales Jr.',
+    'Nino Da Silva': 'Nino da Silva',
+    'Antonio De Avila': 'Antonio de Avila',
+    'Jose Burciaga Jr': 'Jose Burciaga Jr.',
+    'Christian G\xf3mez': 'Christian Gomez',
+    'Paul O\'donnell': 'Paul O\'Donnell',
+    'Gary Depalma': 'Gary DePalma',
+    'S\xe9bastien Le Toux': 'Sebastien Le Toux',
+    'Rachid El Khalifi': 'Rachid el Khalifi',
+    'Jonathan Mccurley': 'Jonathan McCurley',
+    'Brad Mcglaughlin': 'Brad McGlaughlin',
+    'Daniel Hern\xe1ndez': 'Daniel Hernandez',
+    'Milton Rodr\xedguez': 'Milton Rodriguez',
+    'JOHN Mccallion': 'John McCallion',
+    'John Mccallion': 'John McCallion',
+    'Andy Mcmahon': 'Andy McMahon',
+    'Francois (Didier) Menard': 'Francois Didier Menard',
+    'Anthony Mckeon': 'Anthony McKeon',
+    'O\u2019Brian White': 'O\'Brian White',
+    'Andr\xe9 Luiz': 'Andre Luiz',
+    'Kwame Watson Siriboe': 'Kwame Watson-Siriboe',
+    'Ivan Mckinley': 'Ivan McKinley',
+    'Jim St Andre': 'Jim St. Andre',
+    'Hong Myung Bo': 'Hong Myung-Bo',
+    'Juan Diego Gonz\xe1lez': 'Juan Diego Gonzalez',
+    'Ram\xf3n S\xe1nchez': 'Ramon Sanchez',
+    'Patrick Mcsorely': 'Patrick McSorely',
+    'Steve* Shak': 'Steve Shak',
+    'Robert Diguardi': 'Robert DiGuardi',
+    'Fred Degand': 'Fred DeGand',
+    'CJ Brown': 'C.J. Brown',
+    'AJ DeLaGarza': 'A.J. DeLaGarza',
+    'Luis Angel Land\xedn': 'Luis Angel Landin',
+    '\xc1lvaro S\xe1nchez': 'Alvaro Sanchez',
+    'David Ditomasso': 'David DiTomasso',
+    'O\'neil Peart' :'O\'Neil Peart',
+    'MICHAEL Mcfarland': 'Michael McFarland',
+    'Michael Mcfarland': 'Michael McFarland',
+    'Mckinley Tennyson': 'McKinley Tennyson',
+    'Peter Lowry.': 'Peter Lowry',
+    'Jean-Philippe Peguero': 'Jean Philippe Peguero',
+    'Raimo De Vries': 'Raimo de Vries',
+    'Chris Mcdonald': 'Chris McDonald',
+}
 
-        return d
 
-    def get_player_name(self, partial, team, season):
-        names = self.mapping[(team, season)]
-        for name in names:
-            if partial in name:
-                return partial
+def get_bio(name, league=None):
+    if league and (name, league) in names:
+        name = names[(name, league)]
+        return get_bio(name, league)
 
-        # Handle J. Rooney et al.
-        for name in names:
-            first, last = partial.split(' ', 1)
-            first = first.replace('.', '')
-            if last in name and name.startswith(first):
-                return name
-
-        print "Can't find for %s" % partial
-        
-
-            
-
+    if name in names:
+        return get_bio(names[name])
+    return name

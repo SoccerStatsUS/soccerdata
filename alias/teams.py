@@ -4,6 +4,10 @@
 teams = {}
 
 mls_teams = {
+    'NY Red Bulls': 'New York Red Bulls',
+    'Salt Lake': 'Real Salt Lake',
+    'Portland': 'Portland Timbers',
+    
     'Chicago': 'Chicago Fire',
     'Colorado': 'Colorado Rapids',
     'Columbus': 'Columbus Crew',
@@ -165,7 +169,8 @@ teams.update(pdl_teams)
 
 def get_team(name, league=None):
     if league and (name, league) in teams:
-        return get_team((name, league))
+        name = teams[(name, league)]
+        return get_team(name, league)
 
     if name in teams:
         return get_team(teams[name])
