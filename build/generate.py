@@ -12,7 +12,6 @@ def generate():
     # Generate standings
     generate_standings(soccer_db.games, soccer_db.standings)
     generate_stats()
-    generate_transfers()
 
 
 def generate_standings(src, dst):
@@ -36,29 +35,57 @@ def generate_standings(src, dst):
         insert_rows(dst, standings)
 
 
-
-
-
-"""
-def generate_stats():
-    stat_dict = {}
-    for stat in soccer_db.stats.find():
-        key = stat['player'], stat['team'], stat['competition'], stat['season']
-        stat_dict[key] = stat
-
-    new_dict = defaultdict(dict)
-    # Generate goal stats.
-    for goal in soccer_db.goals.find():
-        key = goal['player'], stat['team'], stat['competition'], stat['season']
-        # Only create if we don't already have stats.
-        if key not in stat_dict:
-            new_dict['
-"""                
+def filled_stats():
+    """
+    Game, team, competition, season combinations
+    that have stats already.
+    """
+    # Don't really need a set?
+    # Can just do a list comprehension.
+    stats = set()
+    for e in soccer_db.stats.find():
+        try:
+            t = (e['name'], e['team'], e['competition'], e['season'])
+        except:
+            import pdb; pdb.set_trace()
+    return stats
         
+             
+def generate_stats():
+    stat_tuples = filled_stats()
+    d = {}
 
-
-def generate_transfers():
-    pass
+    # Just generating goal stats.
+    # Should generate lineup stats as well.
+    for e in soccer_db.goals.find():
+        t = (e['player'], e['team'], e['competition'], str(e['date'].year))
+        if t not in stat_tuples:
+            if t not in d:
+                d[t] = 1
+            else:
+                d[t] += 1
+    
+    stats = []
+    for (player, team, competition, season), goals in d.items():
+        stats.append({
+                'player': player,
+                'team': team,
+                'competiton': competition,
+                'season': season,
+                'minutes': None,
+                'games_started': None,
+                'games_played': None,
+                'goals': goals,
+                'assists': None,
+                'shots': None,
+                'shots_on_goal': None,
+                'fouls_committed': None,
+                'fouls_suffered': None,
+                'yellow_cards': None,
+                'red_cards': None,
+                })
+    
+    insert_rows(soccer_db.stats, stats)
     
 
 if __name__ == "__main__":

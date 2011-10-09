@@ -61,7 +61,7 @@ def scrape_world_cup_players():
 
 
 
-def scrape_new(query):
+def scrape_wiki(query):
     """
     """
     query = query.replace(" ", "_").replace("_", "%20")
@@ -83,7 +83,7 @@ def scrape_new(query):
 
     rm = re.search("#REDIRECT\s+\[\[(?P<link>.*?)\]\]", lines[0])
     if rm:
-        return scrape_new(rm.groups()[0])
+        return scrape_wiki(rm.groups()[0])
 
 
     return lines
@@ -216,7 +216,7 @@ def scrape_standings(query, competition, season):
 
 def scrape_standings1(query, competition, season):
     # line = '{{MLS tr |team=[[1996 D.C. United season|D.C. United]] |pos=2 |w=15 |l=16 |t=1 |gf=62 |ga=56 |color=ep |code=DC |match={{{team}}} }}'
-    lines = scrape_new(query)
+    lines = scrape_wiki(query)
     l = []
 
     for line in lines:
@@ -248,7 +248,7 @@ def scrape_standings1(query, competition, season):
 
 def scrape_standings2(query, competition, season):
 
-    lines = scrape_new(query)
+    lines = scrape_wiki(query)
     
     l = []
     for i, line in enumerate(lines):
@@ -286,7 +286,7 @@ def scrape_standings2(query, competition, season):
 
 def scrape_standings3(query, competition, season):
     
-    lines = scrape_new(query)
+    lines = scrape_wiki(query)
     
     header = ['games', 'wins', 'losses', 'ties', 'goals_for', 'goals_against', 'gd', 'points']
     
@@ -328,11 +328,8 @@ def scrape_standings3(query, competition, season):
         
         
 
-def scrape_list(url):
-    return []
-
-def scrape_team(url):
-    lines = scrape_new(url)
+def scrape_team(query):
+    lines = scrape_wiki(query)
     infobox_lines = get_infobox_lines(lines)
     processed = [process_key_value(line) for line in infobox_lines]
     d = dict([e for e in processed if e])
@@ -346,7 +343,7 @@ def scrape_team(url):
         'website': d['website'],
         }
 
-def scrape_stadium(url):
+def scrape_stadium(query):
     return {
         'fullname': stadium_name,
         'name': name,
@@ -365,9 +362,9 @@ def scrape_stadium(url):
 
 def scrape_bio(query):
     q1 = query + " (soccer)"
-    lines = scrape_new(q1)
+    lines = scrape_wiki(q1)
     if len(lines) == 0:
-        lines = scrape_new(query)
+        lines = scrape_wiki(query)
 
     infobox_lines = get_infobox_lines(lines)
     processed = [process_key_value(line) for line in infobox_lines]
@@ -440,7 +437,7 @@ def scrape_category_page(url):
         
 
 def sc():
-    return get_categories(scrape_new("Jason_Kreis"))
+    return get_categories(scrape_wiki("Jason_Kreis"))
         
 
 
@@ -666,6 +663,9 @@ class PlayerScraper(object):
             return 0
 
 if __name__ == "__main__":
+
+    print scrape_team("FC Dallas")
+
     #print scrape_standings3('2006 PDL Season', 'PDL', 2006)
     #r = scrape_pdl_standings()
     #r = scrape_mls_standings()
@@ -673,6 +673,7 @@ if __name__ == "__main__":
     #print sorted(set([e['season'] for e in r]))
 
     #print scrape_bio('Dilly Duka')
+    """
     from soccerdata import mongo
     for bio in mongo.soccer_db.mls_bios.find():
         if 'name' in bio:
@@ -688,3 +689,4 @@ if __name__ == "__main__":
                 print "VALUE FAIL"
                 print bio['name']
                 print
+                """

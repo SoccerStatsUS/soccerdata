@@ -76,14 +76,24 @@ def load_mls():
 def load_nasl():
     # 2011 NASL scores.
     print "Loading 2011 NASL games."
+    from soccerdata.scrapers import soccernet
     generic_load(soccer_db.nasl_games, nasl.scrape_scores)
 
 
-def load_soccernet():
+def load_soccernet_league(code):
     from soccerdata.scrapers import soccernet
-    generic_load(soccer_db.soccernet_games, lambda: soccernet.scrape_all_league_games('usa.1'))
-    generic_load(soccer_db.soccernet_goals, lambda: soccernet.scrape_all_league_goals('usa.1'))
-    generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups('usa.1'))
+    generic_load(soccer_db.soccernet_games, lambda: soccernet.scrape_all_league_games(code), delete=False)
+    generic_load(soccer_db.soccernet_goals, lambda: soccernet.scrape_all_league_goals(code), delete=False)
+    generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups(code), delete=False)
+
+
+def load_soccernet():
+    soccer_db.soccernet_games.drop()
+    soccer_db.soccernet_goals.drop()
+    soccer_db.soccernet_lineups.drop()
+    load_soccernet_league('usa.1')
+    load_soccernet_league('mex.1')
+
 
 
 

@@ -25,13 +25,14 @@ def get_rows(collection):
     return [row for row in collection.find()]
 
 
-def generic_load(coll, func):
+def generic_load(coll, func, delete=True):
     """
     Call with something like
     
     generic_load(soccer_db.fbleague_scores, fbleague.scrape_all_seasons)
     """
-    coll.drop()
+    if delete:
+        coll.drop()
     insert_rows(coll, func())
 
 

@@ -144,7 +144,7 @@ def scrape_all_league_lineups(league_code):
 # I'm not too confident this works.
 # Maybe a better idea just to use for urls.
 # Definitely need to add competition to the result.
-@set_cache
+@data_cache
 def scrape_league_scoreboard(url):
     """
     Get game result data from a scoreboard page.
@@ -186,7 +186,7 @@ def scrape_league_scoreboard(url):
 
     return [process_game(game) for game in gameboxes]
 
-@set_cache
+@data_cache
 def scrape_live_game(url, competition):
     """
     Get game data from a game page.
@@ -233,7 +233,7 @@ def scrape_live_game(url, competition):
         'referee': referee
         }
 
-@set_cache
+@data_cache
 def scrape_live_goals(url, competition):
     """
     Get goal data from a game page.
@@ -300,7 +300,7 @@ def scrape_live_goals(url, competition):
     return goals
 
 
-@set_cache
+@data_cache
 def scrape_live_lineups(url, competition):
     """
     Scrape a lineup from a game url.
