@@ -2,13 +2,15 @@ from soccerdata.mongo import soccer_db, insert_rows
 
 from standings import get_standings
 
+from collections import defaultdict
+
 # I think I should just generate standings directly from soccer_db.games.
 # And then check those against downloaded standings.
 
 
 def generate():
     # Generate standings
-    generate_standings(soccer_db.scaryice_games, soccer_db.standings)
+    generate_standings(soccer_db.games, soccer_db.standings)
     generate_stats()
     generate_transfers()
 
@@ -37,9 +39,22 @@ def generate_standings(src, dst):
 
 
 
-
+"""
 def generate_stats():
-    pass
+    stat_dict = {}
+    for stat in soccer_db.stats.find():
+        key = stat['player'], stat['team'], stat['competition'], stat['season']
+        stat_dict[key] = stat
+
+    new_dict = defaultdict(dict)
+    # Generate goal stats.
+    for goal in soccer_db.goals.find():
+        key = goal['player'], stat['team'], stat['competition'], stat['season']
+        # Only create if we don't already have stats.
+        if key not in stat_dict:
+            new_dict['
+"""                
+        
 
 
 def generate_transfers():

@@ -25,7 +25,7 @@ class Standing(object):
         ties = self.get_ties(games)
         wins = self.get_wins(games)
         for key in wins:
-            points = wins[key] + ties[key]
+            points = 3 * wins[key] + ties[key]
             d[key] = points
         return d
             

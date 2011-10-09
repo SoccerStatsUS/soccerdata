@@ -38,7 +38,7 @@ def make_scaryice_lineup_dict():
     for l in mongo.soccer_db.scaryice_lineups.find():
         key = (l['team'], l['date'])
         v = d[key]
-        v.append(l['name'])
+        v.append(l['player'])
 
     return d
 
@@ -152,14 +152,8 @@ def merge_goals():
         d.pop('_id')
         if not d:
             return
-        try:
-            d['team'] = get_team(d['team'])
-        except:
-            import pdb; pdb.set_trace()
-        try:
-            key = (d['player'], d['team'], d['date'], d['minute'])
-        except:
-            import pdb; pdb.set_trace()
+        d['team'] = get_team(d['team'])
+        key = (d['player'], d['team'], d['date'], d['minute'])
         if key in goal_dict:
             orig = goal_dict[key]
             for k, v in d.items():
@@ -182,18 +176,39 @@ def merge_goals():
 
 
 def merge_lineups():
+    """
+    Merge stats.
+    """
 
-    def _f(d):
+
+    def update_lineup(d):
+        d.pop('_id')
+        if not d:
+            return
         d['team'] = get_team(d['team'])
-        d.pop("_id")
-        return d
 
+        try:
+            key = (d['player'], d['date'])
+        except:
+            import pdb; pdb.set_trace()
+        if key in lineup_dict:
+            orig = lineup_dict[key]
+            for k, v in d.items():
+                if not orig.get(k) and v:
+                    orig[k] = v
+        else:
+            lineup_dict[key] = d
+
+
+
+    lineup_dict = {}
+    for e in soccer_db.scaryice_lineups.find():
+        update_lineup(e)
+    for e in soccer_db.soccernet_lineups.find():
+        update_lineup(e)
 
     soccer_db.lineups.drop()
-    insert_rows(soccer_db.lineups, [_f(d) for d in soccer_db.scaryice_lineups.find()])
-
-
-
+    insert_rows(soccer_db.lineups, lineup_dict.values())
 
 
 
