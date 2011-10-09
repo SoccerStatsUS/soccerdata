@@ -3,24 +3,15 @@
 
 # Become like demosphere, and have the data collected for you.
 
-http://www.sports-reference.com/stathead/section/soccer/
-http://www.soccermetricsblog.com/2011/06/pythagorean-table-2011-mls-regular-season-20110612-version.html
 
 
--1. Completely remove year.
-0. Use stats to get names.
-0. Batch processing using AWS.
-0. Deploy entire thing to AWS.
+0. Consider using AWS.
 1. Reorganize player scrapers.
-1. Strengthen wiki scraper and canvass team, player data.
-2. Generate all standings.
+2. Strengthen wiki scraper and canvass team, player data.
 3. News as data. Collect all the soccer news feeds. Use them to pull out interesting data.
 4. Twitter stream. Um, get tweets about soccer I suppose. Preferably valuable tweets. Is there a service for this?
 5. Add data consistency checking.
-6. Create javascript to scrape statto page when I visit it!! Create javascript to randomly load pages! Create ajax function to tell which page to fetch!
-7. Figure out how to handle new scores and updates to the database.
 8. Learn about unicode and figure out these unicode problems in utils.
-9. Probabilites of winning!
 
 
 # Data definitions
@@ -33,21 +24,24 @@ game
  - date
  optional
  - location
- - referee
  - competition (recommended)
  - season (recommended)
- - ?
+ - referee
+ - attendance
 
+ - notes
 
 goal
  - player
  - minute
- - date
+ - date # not necessary.
+ - team
+ - game
+
  optional
- - team (recommended?)
+
  - penalty
  - own_goal
- - ?
 
 
 stat
@@ -55,7 +49,9 @@ stat
  - team
  - competition
  - season
+
  optional
+ - minutes
  - games_started
  - games_played
  - goals
@@ -80,7 +76,7 @@ lineup
  - name
  - on
  - off
- - date
+ - game
  - team
 
 
@@ -242,3 +238,7 @@ That way it's neatly structured and already ready to use.
 # can probably just dump my python creations as yaml?
 
 # Bio data, e.g., should definitely be in yaml.
+
+http://www.sports-reference.com/stathead/section/soccer/
+http://www.soccermetricsblog.com/2011/06/pythagorean-table-2011-mls-regular-season-20110612-version.html
+
