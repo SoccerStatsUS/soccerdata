@@ -109,60 +109,59 @@ def scrape_url(url, refresh=False, encoding=None, sleep=0):
         encoding = 'utf-8'
 
     # Should be connection.cache
-    html = None
+    data = None
     if refresh is False:
         try:
-            html = db.Get(url)
+            print "pulling %s from page cache" % url
+            data = db.Get(url)
         except KeyError:
             pass
 
-
-
-    if html is None:
+    if data is None:
         time.sleep(sleep)
         print "downloading %s" % url
         # Work on this logic.
+
+
         
         # Requests is not returning correct data.
         # e.g. http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3051/report.html
         # gets trash back.
         #data = requests.get(url, headers=[('User-Agent', USER_AGENT)]).read()
 
+        print "pulling %s from page cache." % url
         opener = urllib2.build_opener()
         opener.addheaders = [('User-agent', USER_AGENT)]
         data = opener.open(url).read()
 
-        # Mediotiempo taught us these, but they're possibly used other places.
-        # This seems to show up several places, usually in document.writes.
-        # I think it's addressing an internet explorer bug.
-        data = data.replace("</scr'+'ipt>", "</script>")
-        data = data.replace("</scr' + 'ipt", "</script")
-        data = data.replace("</scr'+'ipt>", "</script>")
-        data = data.replace("</SCRI' + 'PT>", "</SCRIPT>")
+        db.Put(url, data)
 
-        data_old = data
+    # Mediotiempo taught us these, but they're possibly used other places.
+    # This seems to show up several places, usually in document.writes.
+    # I think it's addressing an internet explorer bug.
+    data = data.replace("</scr'+'ipt>", "</script>")
+    data = data.replace("</scr' + 'ipt", "</script")
+    data = data.replace("</scr'+'ipt>", "</script>")
+    data = data.replace("</SCRI' + 'PT>", "</SCRIPT>")
 
-        data = data.replace("<font size=  </div>", "</div>")
+    # Missing quotation mark. (http://soccernet.espn.go.com/match?id=331193&cc=5901)
+    data = data.replace('href=http', 'href="http')
 
-        # Oh shit! There was some bad unicode data in eu-football.info
-        # Couldn't find an encoding so I'm just killing it.
-        # Looked to be involved with goolge analytics.
-        data = data.replace("\xf1\xee\xe7\xe4\xe0\xed\xee", "")
+    # Bad tag.
+    data = data.replace("<font size=  </div>", "</div>")
 
-        # Save the data.
-        unicode_data = data #.decode(encoding)
-        db.Put(url, unicode_data)
-        #pages_collection.insert({"url": url, "data": unicode_data})
-    else:
-        print "pulling %s from page cache." % url
-        unicode_data = html
-    return unicode_data
+    # Oh shit! There was some bad unicode data in eu-football.info
+    # Couldn't find an encoding so I'm just killing it.
+    # Looked to be involved with goolge analytics.
+    data = data.replace("\xf1\xee\xe7\xe4\xe0\xed\xee", "")
+    
+    return data
+
 
 
 def scrape_soup(*args, **kwargs):
     html = scrape_url(*args, **kwargs)
     return BeautifulSoup(html)
-
 
 
 class SelfRegulatingScraper(object):
