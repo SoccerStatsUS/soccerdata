@@ -3,6 +3,8 @@
 
 
 names = {
+    'Ryseheim Henderson': 'Ryshiem Henderson', #http://en.wikipedia.org/wiki/Ryshiem_Henderson
+    'Welton': 'Welton Melo',
     'Hercules Gomez': 'Herculez Gomez',
     'RT Moore': 'R.T. Moore',
     'Brian Mcbride': 'Brian McBride',

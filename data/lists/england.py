@@ -1,4 +1,8 @@
-footabll_league = [
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+# Football League 100 Legends
+football_league = [
     ('England', 'Billy Bassett', 'West Bromwich Albion', '1886–1899'),
     ('Scotland', 'Archie Hunter', 'Aston Villa', '1888–1891'),
     ('England', 'John Goodall', 'Preston North End, Derby County, New Brighton Tower, Glossop North End', '1888–1904'),
@@ -40,7 +44,7 @@ footabll_league = [
     ('England', 'Alf Ramsey', 'Southampton, Tottenham Hotspur', '1946–1955'),
     ('England', 'Len Shackleton', 'Bradford (Park Avenue), Newcastle United, Sunderland', '1946–1958'),
     ('England', 'Jimmy Dickinson', 'Portsmouth', '1946–1965'),
-    ('England', 'Arthur Rowley', 'West Bromwich Albion, Fulham, Leicester City, Shrewsbury Town', '1946–1965')
+    ('England', 'Arthur Rowley', 'West Bromwich Albion, Fulham, Leicester City, Shrewsbury Town', '1946–1965'),
     ('Scotland', 'Billy Liddell', 'Liverpool', '1946–1961'),
     ('England', 'Billy Wright', 'Wolverhampton Wanderers', '1946–1959'),
     ('England', 'Jackie Milburn', 'Newcastle United', '1946–1957'),
@@ -53,7 +57,7 @@ footabll_league = [
     ('Wales', 'Cliff Jones', 'Swansea Town, Tottenham Hotspur, Fulham', '1952–1970'),
     ('England', 'Johnny Haynes', 'Fulham', '1952–1970'),
     ('England', 'Duncan Edwards', 'Manchester United', '1953–1958'),
-    ('England', 'Jimmy Armfield', 'Blackpool', '1954–1971')
+    ('England', 'Jimmy Armfield', 'Blackpool', '1954–1971'),
     ('England', 'Terry Paine', 'Southampton, Hereford United', '1956–1977'),
     ('England', 'Bobby Charlton', 'Manchester United, Preston North End', '1956–1975'),
     ('England', 'Jimmy Greaves', 'Chelsea, Tottenham Hotspur, West Ham United', '1957–1971'),
@@ -75,7 +79,7 @@ footabll_league = [
     ('England', 'Alan Ball', 'Blackpool, Everton, Arsenal, Southampton, Bristol Rovers', '1962–1984'),
     ('England', 'Colin Bell', 'Bury, Manchester City', '1963–1979'),
     ('Northern Ireland', 'George Best', 'Manchester United, Stockport County, Fulham, Bournemouth', '1963–1983'),
-    ('England', 'Peter Shilton', 'Leicester City, Stoke City, Nottingham Forest, Southampton, Derby County, Plymouth Argyle, Bolton Wanderers, West Ham United, Leyton Orient', '1965–1997')
+    ('England', 'Peter Shilton', 'Leicester City, Stoke City, Nottingham Forest, Southampton, Derby County, Plymouth Argyle, Bolton Wanderers, West Ham United, Leyton Orient', '1965–1997'),
     ('England', 'Ray Clemence', 'Scunthorpe United, Liverpool, Tottenham Hotspur', '1965–1988'),
     ('England', 'Malcolm Macdonald', 'Fulham, Luton Town, Newcastle United, Arsenal', '1968–1977'),
     ('England', 'Kevin Keegan', 'Scunthorpe United, Liverpool, Southampton, Newcastle United', '1968–1984'),

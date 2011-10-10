@@ -31,31 +31,32 @@ french_african = [
     (1993, ('Abedi Pele', 119), ('Anthony Yeboah', 117), ('Rashidi Yekini', 104)),
     (1992, ('Abedi Pele', 198), ('George Weah', 161), ('Anthony Yeboah', 64)),
     (1991, ('Abedi Pele', 152), ('George Weah', 106), ('Francois Oman-Biyik', 52)),
-    """
     (1990, ('Roger Milla', 209), ('Tahar Cherif El-Ouazani', 64), ('Rabah Madjer', 60), ('Francois Oman-Biyik', 60)),
     (1989, ('George Weah', 133), ('Joseph-Antoine Bell', 105), ('Kalusha Bwalya', 49)),
+
     (1988, ('Kalusha Bwalya', 111), ('Roger Milla', 68), ('Youssouf Fofana', 40)),
     (1987, ('Rabah Madjer', 130), ('Youssouf Fofana', 63), ('Francois Oman-Biyik', 52)),
     (1986, ('Badou Zaki', 125), ('Aziz Bouderbala', 88), ('Roger Milla', 80)),
     (1985, ('Mohammed Timoumi', 113), ('Rabah Madjer', 45), ('Djamel Menad', 39), ('Ibrahim Youssef', 39)),
     (1984, ('Théophile Abega', 124), ('Joseph-Antoine Bell', 65), ('Ibrahim Youssef', 65)),
+
     (1983, ('Mahmoud Al-Khatib', 98), ('Opoku Nti', 89), ('Rafiou Moutairou', 19)),
     (1982, ('Thomas N\'kono', 83), ('Salah Assad', 54), ('Lakhdar Belloumi', 36)),
     (1981, ('Lakhdar Belloumi', 78), ('Thomas N\'kono', 54), ('Ali Fergani', 26)),
     (1980, ('Jean Manga-Onguene', 64), ('Segun Odegbami', 41), ('Théophile Abega', 18)),
     (1979, ('Thomas Nkono', 55), ('Adolf Armah', 23), ('Kerfalla Bangoura', 15)),
+
     (1978, ('Abdul Razak', 58), ('Ali Bencheikh', 33), ('Thomas N\'kono', 29)),
     (1977, ('Tarak Dhiab', 45), ('Papa Camara', 33), ('Segun Odegbami', 29)),
-    (1976, ('Roger Milla', 33), ('Papa Camara', 32) ('Ali Bencheikh', 27)),
+    (1976, ('Roger Milla', 33), ('Papa Camara', 32), ('Ali Bencheikh', 27)),
+    (1975, ('Ahmed Faras', 28), ('Roger Milla', 24), ('N\'Jolea', 24)),
 
-
-    (1975, ('Ahmed Faras', 28), ('Roger Milla', 24) ('N\'Jolea', 24)),
-    (1974, ('Paul Moukila', 57), ('Boba Lobilo', 32) ('Hassan Shehata', 28)),
-    (1973, ('Tshimen Bwanga', 49), ('Mwamba Kazadi', 44) ('Laurent Pokou', 41)),
-    (1972, ('Cherif Souleymane', 21), ('Tshimen Bwanga', 16) ('Petit Sory', 14)),
+    (1974, ('Paul Moukila', 57), ('Boba Lobilo', 32), ('Hassan Shehata', 28)),
+    (1973, ('Tshimen Bwanga', 49), ('Mwamba Kazadi', 44), ('Laurent Pokou', 41)),
+    (1972, ('Cherif Souleymane', 21), ('Tshimen Bwanga', 16), ('Petit Sory', 14)),
     (1971, ('Ibrahim Sunday', 29), ('Robert Mensah', 15), ('François Ndoumbé', 13)),
     (1970, ('Salif Keïta', 54), ('Laurent Pokou', 28), ('Abugreisha', 28)),
-"""
+
     ]
 
 young_player = [

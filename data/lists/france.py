@@ -1,6 +1,9 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
 #http://en.wikipedia.org/wiki/Onze_d%27Or
 
-Onze_de_or = [
+onze_de_or = [
     (1976, 'Robert Rensenbrink', 'Kevin Keegan', 'Dominique Rocheteau'),
     (1977, 'Kevin Keegan', 'Michel Platini', 'Allan Simonsen'),
     (1978, 'Mario Kempes', 'Johann Krankl', 'Robert Rensenbrink'),
@@ -13,7 +16,7 @@ Onze_de_or = [
     (1985, 'Michel Platini', 'Preben Elkjær Larsen', 'Diego Maradona'),
     (1986, 'Diego Maradona', 'Manuel Amoros', 'Gary Lineker'),
     (1987, 'Diego Maradona',  'Marco van Basten', 'Jean Tigana'),
-    (1988, 'Marco van Basten', 'Ruud Gullit', 'Diego Maradona')
+    (1988, 'Marco van Basten', 'Ruud Gullit', 'Diego Maradona'),
     (1989, 'Marco van Basten', 'Ruud Gullit', 'Jean-Pierre Papin'),
     (1990, 'Lothar Matthäus',  'Salvatore Schillaci', 'Jean-Pierre Papin'),
     (1991, 'Jean-Pierre Papin', 'Chris Waddle', 'Lothar Matthäus'),

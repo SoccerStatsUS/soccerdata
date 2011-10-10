@@ -1,11 +1,15 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
 # Technically the Ballon d'Or, the European Footballer of the Year is given out by european journalists.
 # Merged with FIFA World Player of the Year in 2010.
 
-l = [
+footballer_of_the_year = [
     (1956, (('Stanley Matthews', 47), ('Alfredo Di Stéfano', 44), ('Raymond Kopa', 33))),
     (1957, (('Alfredo Di Stéfano', 72), ('Billy Wright', 19), ('Duncan Edwards', 16), ('Raymond Kopa', 16))),
     (1958, (('Raymond Kopa', 71), ('Helmut Rahn', 40), ('Just Fontaine', 23))),
-    (1959  (('Alfredo Di Stéfano', 80), ('Raymond Kopa', 42), ('John Charles', 24))),
+    (1959,  (('Alfredo Di Stéfano', 80), ('Raymond Kopa', 42), ('John Charles', 24))),
     (1960, (('Luis Suárez', 54), ('Ferenc Puskás', 37), ('Uwe Seeler', 33))),
     (1961, (('Omar Sívori', 46), ('Luis Suárez', 40), ('Johnny Haynes', 22))),
     (1962, (('Josef Masopust', 65), ('Eusébio', 53), ('Karl-Heinz Schnellinger', 33))),
@@ -51,7 +55,7 @@ l = [
     (2002, (('Ronaldo', 169), ('Roberto Carlos', 145), ('Oliver Kahn', 110))),
     (2003, (('Pavel Nedvěd', 190), ('Thierry Henry', 128), ('Paolo Maldini', 123))),
     (2004, (('Andriy Shevchenko', 175), ('Deco', 139), ('Ronaldinho', 133))),
-    (2005, (('Ronaldinho', 225), ('Frank Lampard', 148), ('Steven Gerrard', 142)))
+    (2005, (('Ronaldinho', 225), ('Frank Lampard', 148), ('Steven Gerrard', 142))),
     (2006, (('Fabio Cannavaro', 173), ('Gianluigi Buffon', 124), ('Thierry Henry', 121))),
     (2007, (('Kaká', 444), ('Cristiano Ronaldo', 277), ('Lionel Messi', 255))),
     (2008, (('Cristiano Ronaldo', 446), ('Lionel Messi', 281), ('Fernando Torres', 179))),

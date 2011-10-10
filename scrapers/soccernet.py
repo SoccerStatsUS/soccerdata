@@ -186,7 +186,7 @@ def scrape_league_scoreboard(url):
 
     return [process_game(game) for game in gameboxes]
 
-@data_cache
+@set_cache
 def scrape_live_game(url, competition):
     """
     Get game data from a game page.
@@ -233,7 +233,7 @@ def scrape_live_game(url, competition):
         'referee': referee
         }
 
-@data_cache
+@set_cache
 def scrape_live_goals(url, competition):
     """
     Get goal data from a game page.
@@ -300,7 +300,7 @@ def scrape_live_goals(url, competition):
     return goals
 
 
-@data_cache
+@set_cache
 def scrape_live_lineups(url, competition):
     """
     Scrape a lineup from a game url.
@@ -457,7 +457,7 @@ if __name__ == "__main__":
         ]
 
 
-    print scrape_all_league_games('mex.1')
+    print scrape_all_league_games('esp.1')
     #print scrape_all_league_games('usa.1')
     #print scrape_all_league_games('mex.1')
     #print scrape_bio()

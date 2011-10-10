@@ -1,3 +1,8 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
+
 el_mundo = [
     (1971, 'Tostão', 'José Omar Pastoriza', 'Luis Artime'),
     (1972, 'Teófilo Cubillas', 'Pelé', 'Jairzinho'),
@@ -21,7 +26,7 @@ el_pais = [
     (1987, 'Carlos Valderrama', 'Obdulio Trasante', 'José Perdomo'),
     (1988, 'Rubén Paz', 'Hugo de León', 'José Pintos Saldanha'),
     (1989, ('Bebeto', 74), ('Mazinho', 42), ('René Higuita', 34)),
-    (1990, ('Raúl Amarilla', 57), ('Rubén da Silva', 32), ('Leonel Álvarez', 25), ('René Higuita' 25)),
+    (1990, ('Raúl Amarilla', 57), ('Rubén da Silva', 32), ('Leonel Álvarez', 25), ('René Higuita', 25)),
     (1991, ('Oscar Ruggeri', 44), ('Ramón Díaz', 28), ('Patricio Toledo', 23)),
     (1992, ('Raí', 55), ('Sergio Goycochea', 24), ('Alberto Acosta', 20), ('Fernando Gamboa', 20)),
     (1993, ('Carlos Valderrama',  46), ('Marco Etcheverry', 30), ('Cafu', 28), ('Freddy Rincón', 28)),

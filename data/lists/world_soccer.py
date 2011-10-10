@@ -1,3 +1,7 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
 # This is a list of players voted World Player of the year by World Soccer magazine.
 
 player_of_the_year = [

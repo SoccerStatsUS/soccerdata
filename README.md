@@ -3,7 +3,7 @@
 
 # Become like demosphere, and have the data collected for you.
 
-
+# Fix name/player on stats.
 
 0. Consider using AWS.
 1. Reorganize player scrapers.

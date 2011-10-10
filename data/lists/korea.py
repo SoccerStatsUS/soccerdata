@@ -1,3 +1,5 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
 
 mvp = [
     (1983, 'Park Seong-Hwa'),
@@ -350,7 +352,7 @@ best_xi = {
     2005: [ 
         ('South Korea', 'Kim Byung-Ji', 'Pohang'), 
         ('South Korea', 'Im Joong-Yong', 'Incheon'),
-        ('South Korea', 'Yoo Kyoung-You',l'Ulsan'),
+        ('South Korea', 'Yoo Kyoung-You', 'Ulsan'),
         ('South Korea', 'Cho Yong-Hyung', 'Bucheon'),
         ('South Korea', 'Kim Young-Chul', 'Seongnam'), 
         ('South Korea', 'Lee Chun-Soo', 'Ulsan'),

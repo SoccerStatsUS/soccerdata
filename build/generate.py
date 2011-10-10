@@ -45,7 +45,13 @@ def filled_stats():
     stats = set()
     for e in soccer_db.stats.find():
         try:
-            t = (e['name'], e['team'], e['competition'], e['season'])
+            # Need to fix this.
+            try:
+                name = e['name']
+            except KeyError:
+                name = e['player']
+
+            t = (name, e['team'], e['competition'], e['season'])
         except:
             import pdb; pdb.set_trace()
     return stats
@@ -67,10 +73,11 @@ def generate_stats():
     
     stats = []
     for (player, team, competition, season), goals in d.items():
+        print player
         stats.append({
-                'player': player,
+                'name': player,
                 'team': team,
-                'competiton': competition,
+                'competition': competition,
                 'season': season,
                 'minutes': None,
                 'games_started': None,

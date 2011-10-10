@@ -1,3 +1,6 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
 #http://en.wikipedia.org/wiki/Oceania_Footballer_of_the_Year
 
 oceania = [

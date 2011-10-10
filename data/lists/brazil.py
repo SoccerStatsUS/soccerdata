@@ -47,8 +47,6 @@ bola_de_ouro = [
 # Em 1973, a Placar passou a premiar o jogador com a melhor média com a Bola de Ouro. Na primeira edição, o prêmio foi dividido entre dois jogadores, fato que nunca mais voltou a acontecer.
 # Em 1975, a Placar passou a premiar com a Bola de Prata também o(s) artilheiro(s) do campeonato.
 
-artilheiro = [
-
 
 bola_de_prata = {
 
@@ -441,8 +439,8 @@ bola_de_prata = {
         'Fernando (INT)', 
         'Zinho (PAL)', 
         'Rodrigo Fabri (Portuguesa)', 
-        'Edmundo (VAS)'', 
-        'Müller (SAN)'',
+        'Edmundo (VAS)', 
+        'Müller (SAN)',
 ],
 
  1998: [
@@ -459,6 +457,7 @@ bola_de_prata = {
         'Edílson (COR)',
         'Fábio Júnior (CRU)',
 ],
+
  1999: [
 
         'Dida (COR)', 
@@ -473,6 +472,7 @@ bola_de_prata = {
         'Marques (ATM)',
         'Guilherme (ATM)',
 ],
+
  2000: [
 
         'Rogério Ceni (SPA)', 
@@ -487,6 +487,7 @@ bola_de_prata = {
         'Romário (VAS)',
         'Ronaldinho Gaúcho (GRE)',
 ],
+
  2001: [
         'Emerson (BAH)', 
         'Arce (PAL)', 
@@ -500,7 +501,6 @@ bola_de_prata = {
         'Marques (ATM)',
         'Alex Mineiro (CAP)',
 ],
-
 
  2002: [
         'Diego (JUV)', 
@@ -516,7 +516,6 @@ bola_de_prata = {
         'Gil (COR)',
 
 ],
-
 
  2003: [
 
@@ -534,7 +533,6 @@ bola_de_prata = {
         
 ],
 
-
  2004: [
         'Rogério Ceni (SPA)', 
         'Paulo Baier (GOI)', 
@@ -548,8 +546,6 @@ bola_de_prata = {
         'Robinho (SAN)',
         'Washington (ATP)',
 ],
-
-
 
  2005: [
         'Fábio Costa (COR)', 
@@ -566,7 +562,6 @@ bola_de_prata = {
 
 ],
 
-
  2006: [
         'Rogério Ceni (SPA)', 
         'Ilsinho (SPA)', 
@@ -580,8 +575,6 @@ bola_de_prata = {
         'Fernandão (INT)',
         'Aloísio (SPA)',
         ],
-
-
 
  2007: [
         'Rogério Ceni (SPA)', 
@@ -597,7 +590,6 @@ bola_de_prata = {
         'Acosta (NAU)',
         ],
 
-
  2008: [
         'Rogério Ceni (SPA)', 
         'Vítor (GOI)', 
@@ -610,8 +602,7 @@ bola_de_prata = {
         'Wagner (CRU)', 
         'Nilmar (INT)',
         'Borges (SPA)',
-
-],
+        ],
 
  2009: [
         'Victor (GRE)', 
@@ -625,7 +616,7 @@ bola_de_prata = {
         'Marcelinho Paraíba (CTB)', 
         'Adriano (FLA)',
         'Diego Tardelli (CAM)',
-],
+        ],
 
 
  2010: [
@@ -640,7 +631,7 @@ bola_de_prata = {
         'Montillo (CRU)', 
         'Jonas (GRE)',
         'Neymar (SAN)',
-]
+        ]
 
 }
 

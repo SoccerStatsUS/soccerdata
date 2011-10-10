@@ -1,3 +1,9 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
+
+
 # The UEFA Club Football Awards are awards given by UEFA to the most outstanding performers of the 
 # European club football season. The awards were presented in August each year at a special gala in 
 # Monaco ahead of the UEFA Super Cup. Since 2005, the awards are presented at the UEFA Champions League draw. 
@@ -6,7 +12,7 @@
 # http://en.wikipedia.org/wiki/UEFA_Club_Football_Awards
 # Skipped manager.
 
-uefa_club_footballer_of_the_year = [
+footballer_of_the_year = [
     ('1997–98', 'Ronaldo'),
     ('1998–99', 'David Beckham'),
     ('1999–00', 'Fernando Redondo'),
@@ -54,7 +60,7 @@ best_defender = [
     ('2009–10', 'Maicon'),
 ]
 
-best_midfields = [
+best_midfielder = [
     ('1997–98', 'Zinedine Zidane'),
     ('1998–99', 'David Beckham'),
     ('1999–00', 'Gaizka Mendieta'),

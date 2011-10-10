@@ -1,3 +1,6 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
 #The Golden Ball award is presented to the best player at each 
 # FIFA World Cup finals, with a shortlist drawn up by the 
 # FIFA technical committee and the winner voted for by representatives of the media. 
@@ -26,7 +29,7 @@ golden_ball = [
     (2010, 'Diego Forlán', 'Wesley Sneijder', 'David Villa'),
     ]
 
-young player = [
+young_player = [
     (1958, 'Pelé'),
     (1962, 'Albert'),
     (1966, 'Franz Beckenbauer'),
