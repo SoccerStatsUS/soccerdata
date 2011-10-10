@@ -100,7 +100,7 @@ def scrape_post_soup():
 
 
 
-def scrape_url(url, refresh=False, encoding=None, sleep=0):
+def scrape_url(url, refresh=False, encoding=None, sleep=5):
     """
     Scrape a url, or just use a version saved in mongodb.
     """
