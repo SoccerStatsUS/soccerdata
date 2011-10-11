@@ -44,20 +44,33 @@ def dashboard():
         table_names = ['%s_%s' % (scraper, table) for table in STAT_TABLES]
         return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
 
+    sources = [
+        'yaml',
+        'mls',
+        'soccernet',
+        'uslsoccer',
+        'scaryice',
+        'chris',
+        'kicker',
+        'fifa',
+        'wiki',
+        #'mediotiempo',
+        #'cnnsi',
+        #'eufootball',
+        ]
+
+    data = [
+        ('main', [(table_name, soccer_db[table_name].count()) for table_name in STAT_TABLES]),
+        ]
+    
+
+    for e in sources:
+        t = (e, process_scraper(e))
+        data.append(t)
+
+             
     ctx = {
-        'main': [(table_name, soccer_db[table_name].count()) for table_name in STAT_TABLES],
-        'yaml_data': process_scraper('yaml'),
-        'mlssoccer_data': process_scraper('mls'),
-        'soccernet_data': process_scraper('soccernet'),
-        'cnnsi_data': process_scraper('cnnsi'),
-        'uslsoccer_data': process_scraper('uslsoccer'),
-        'scaryice_data': process_scraper('scaryice'),
-        'chris_data': process_scraper('chris'),
-        'fbleague_data': process_scraper('fbleague'),
-        'fifa_data': process_scraper('fifa'),
-        'mediotiempo_data': process_scraper('mediotiempo'),
-        'wiki_data': process_scraper('wiki'),
-        'eufootball_data': process_scraper('eufootball'),
+        'data': data,
         }
 
     return render_template("dashboard.html", **ctx)    
