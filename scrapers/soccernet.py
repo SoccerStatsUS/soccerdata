@@ -208,9 +208,18 @@ def scrape_live_game(url, competition):
         season, datetime_string, location = data
         referee = None
 
-    if len(data) == 4:
+    elif len(data) == 4:
         season, datetime_string, location, referee = data
         referee = referee.replace("Referee:", '').strip()
+
+    elif len(data) == 5:
+        # The second item is another referee.
+        season, datetime_string, location, referee, _ = data
+        referee = referee.replace("Referee:", '').strip()
+
+        
+    else:
+        import pdb; pdb.set_trace()
 
 
     minute, date_string = datetime_string.split(',', 1)
@@ -230,7 +239,8 @@ def scrape_live_game(url, competition):
         'season': season,
         'date': date,
         'location': location,
-        'referee': referee
+        'referee': referee,
+        'url': url,
         }
 
 @set_cache
@@ -457,7 +467,7 @@ if __name__ == "__main__":
         ]
 
 
-    print scrape_all_league_games('esp.1')
+    print scrape_all_league_games('uefa.champions')
     #print scrape_all_league_games('usa.1')
     #print scrape_all_league_games('mex.1')
     #print scrape_bio()

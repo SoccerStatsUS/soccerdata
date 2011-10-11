@@ -192,7 +192,7 @@ def scrape_world_cup_goals(url):
     return l
     
 
-@data_cache
+@set_cache
 def scrape_world_cup_lineups(url):
     """
     Scrape lineups for a game.
@@ -206,6 +206,8 @@ def scrape_world_cup_lineups(url):
     game_data = scrape_world_cup_game(url)
 
     def process_lineup(rows, team):
+        process_name = lambda s: s.strip().replace("(C)", '').replace("(GK)", '').title()
+
         l = []
         starters = rows[:11]
         subs = rows[11:]
@@ -223,7 +225,7 @@ def scrape_world_cup_lineups(url):
                 off = 'end'
 
             l.append({
-                    'player': name.strip().title(),
+                    'player': process_name(name),
                     'on': 0,
                     'off': off,
                     'team': team,
@@ -234,7 +236,7 @@ def scrape_world_cup_lineups(url):
 
         for sub in subs:
             sub = get_contents(sub)
-            m = re.search("(.*?)\(+(\d+)'\)", sub)
+            m = re.search("(.*?)\(\+(\d+)'\)", sub)
             if m:
                 name, on = m.groups()
             else:
@@ -243,8 +245,8 @@ def scrape_world_cup_lineups(url):
 
             if m:
                 l.append({
-                        'player': name.strip().title(),
-                        'on': 0,
+                        'player': process_name(name),
+                        'on': on,
                         'off': off,
                         'team': team,
                         'competition': game_data['competition'],
@@ -263,13 +265,13 @@ def scrape_world_cup_lineups(url):
     away = soup.find("div", "lnupTeam away").findAll("span")
     
     home_lineup = process_lineup(home, game_data['home_team'])
-    away_lineup = process_lineup(home, game_data['away_team'])
+    away_lineup = process_lineup(away, game_data['away_team'])
 
     return home_lineup + away_lineup
 
 
 if __name__ == "__main__":
-    scrape_all_world_cup_lineups()
+    scrape_all_world_cup_games()
 
     
     

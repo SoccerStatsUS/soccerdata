@@ -10,15 +10,15 @@ def load():
 
     # Offline data
     load_yaml()
-    load_chris()
+    #load_chris()
     load_scaryice()
 
     # Scraped data
     load_mls()
-    #load_nasl()
+    load_nasl()
     load_soccernet()
-
     load_fifa()
+    load_kicker()
 
     #load_mediotiempo()
     #load_wiki()
@@ -36,7 +36,7 @@ def load_chris():
     print "Loading chris text bios.\n"
     from soccerdata.text import bios, salaries, drafts, stats
     generic_load(soccer_db.chris_bios, bios.merged_bios)
-
+    
     print "Loading chris stats.\n"
     generic_load(soccer_db.chris_stats, stats.process_all_chris_stats)
 
@@ -46,30 +46,33 @@ def load_chris():
     print "Loading mls draft data.\n"
     generic_load(soccer_db.mls_drafts, drafts.load_drafts)
 
-    # Need to load other league stats.
 
 
 def load_scaryice():
     # MLS lineup data 1996-2010
     print "Loading scaryice score data.\n"
     generic_load(soccer_db.scaryice_games, lineups.load_all_games_scaryice)
+    return
 
     print "Loading scaryice goal data.\n"
     generic_load(soccer_db.scaryice_goals, lineups.load_all_goals_scaryice)
-
+    
     print "Loading scaryice lineup data.\n"
     generic_load(soccer_db.scaryice_lineups, lineups.load_all_lineups_scaryice)
 
 
 def load_mls():
+    print "Loading MLSsoccer.com game data.\n"
+    generic_load(soccer_db.mls_games, mls.scrape_all_games_mlssoccer)
+    return
+
     print "Loading MLSsoccer.com player bios\n"
     generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
 
-    print "Loading MLSsoccer.com stats\n"
-    #generic_load(soccer_db.mls_stats, mls.scrape_all_stats_mlssoccer)
 
-    print "Loading MLSsoccer.com game data.\n"
-    #generic_load(soccer_db.mls_games, mls.scrape_all_games_mlssoccer)
+    print "Loading MLSsoccer.com stats\n"
+    generic_load(soccer_db.mls_stats, mls.scrape_all_stats_mlssoccer)
+
 
 
 
@@ -94,14 +97,21 @@ def load_soccernet():
     soccer_db.soccernet_games.drop()
     soccer_db.soccernet_goals.drop()
     soccer_db.soccernet_lineups.drop()
+    return
     load_soccernet_league('usa.1')
     load_soccernet_league('mex.1')
 
 def load_fifa():
     from soccerdata.scrapers import fifa
     generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
+    return
     generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
     generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
+
+
+def load_kicker():
+    from soccerdata.scrapers import kicker
+    generic_load(soccer_db.kicker_games, kicker.scrape_all_kicker_seasons)
 
 
 

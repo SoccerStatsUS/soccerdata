@@ -5,6 +5,38 @@ from soccerdata.cache import data_cache, set_cache
 
 
 @data_cache
+def scrape_all_games_mlssoccer():
+
+    l = []
+    years = range(1996, 2011)
+    for year in years:
+        l.extend(scrape_games(year))
+
+    return l
+
+
+def scrape_games(year):
+    """
+    Scrape all game data from a scoreboard.
+    """
+
+    # If the year is this year, re-scrape.
+    if year >= datetime.date.today().year:
+        static = False
+    else:
+        static = True
+
+    url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=all' % year
+    soup = scrape_soup(url, static)
+    l = scrape_games_first_pass(soup)
+    return MLSScoresProcessor().process_rows(l)
+
+
+
+
+
+
+@data_cache
 def scrape_all_bios_mlssoccer():
     """
     Scrape all players that are linked to by a stats link.
@@ -66,16 +98,6 @@ def scrape_all_stats_mlssoccer():
             stats.extend(scrape_team_stats(url, season))
     return stats
 
-
-@data_cache
-def scrape_all_games_mlssoccer():
-
-    l = []
-    years = range(1996, 2011)
-    for year in years:
-        l.extend(scrape_games(year))
-
-    return l
 
 
 @data_cache
@@ -146,23 +168,6 @@ def scrape_player_bio(url):
         'birthplace': birthplace,
         }
 
-
-def scrape_games(year):
-    """
-    Scrape all game data from a scoreboard.
-    """
-    
-
-    # If the year is this year, re-scrape.
-    if year >= datetime.date.today().year:
-        static = False
-    else:
-        static = True
-
-    url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=all' % year
-    soup = scrape_soup(url, static)
-    l = scrape_games_first_pass(soup)
-    return MLSScoresProcessor().process_rows(l)
 
 
 def scrape_games_first_pass(soup):
