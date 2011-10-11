@@ -98,8 +98,6 @@ def scrape_post_soup():
     return BeautifulSoup(data)
 
 
-
-
 def scrape_url(url, refresh=False, encoding=None, sleep=5):
     """
     Scrape a url, or just use a version saved in mongodb.
@@ -112,37 +110,36 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5):
     data = None
     if refresh is False:
         try:
-            print "pulling %s from page cache" % url
+            
+            #try:
             data = db.Get(url)
+            print "pulling %s from page cache" % url
+            #except leveldb.LevelDBError:
+            #db.Delete(url)
         except KeyError:
             pass
 
     if data is None:
         time.sleep(sleep)
         print "downloading %s" % url
-        # Work on this logic.
 
-
-        
         # Requests is not returning correct data.
         # e.g. http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3051/report.html
         # gets trash back.
         #data = requests.get(url, headers=[('User-Agent', USER_AGENT)]).read()
 
-        print "pulling %s from page cache." % url
         opener = urllib2.build_opener()
         opener.addheaders = [('User-agent', USER_AGENT)]
         data = opener.open(url).read()
 
         db.Put(url, data)
 
-    # Mediotiempo taught us these, but they're possibly used other places.
-    # This seems to show up several places, usually in document.writes.
-    # I think it's addressing an internet explorer bug.
+    # jesus christ.
     data = data.replace("</scr'+'ipt>", "</script>")
     data = data.replace("</scr' + 'ipt", "</script")
     data = data.replace("</scr'+'ipt>", "</script>")
     data = data.replace("</SCRI' + 'PT>", "</SCRIPT>")
+    data = data.replace("</scri'+'pt>", "</script>")
 
     # Missing quotation mark. (http://soccernet.espn.go.com/match?id=331193&cc=5901)
     data = data.replace('href=http', 'href="http')
@@ -154,6 +151,9 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5):
     # Couldn't find an encoding so I'm just killing it.
     # Looked to be involved with goolge analytics.
     data = data.replace("\xf1\xee\xe7\xe4\xe0\xed\xee", "")
+
+    # http://www.mlssoccer.com/schedule?month=all&year=1996&club=all&competition_type=all
+    data = data.replace('<img alt="" src="/sites/league/files/eljimador_300x100.gif" style="border: medium none; width: 300px; height: 100px;" <img', "<img")
     
     return data
 
