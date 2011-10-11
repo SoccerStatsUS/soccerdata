@@ -1,6 +1,6 @@
 from soccerdata.mongo import generic_load, soccer_db
 
-from soccerdata.scrapers import fbleague, fifa, nasl, rsssf, mls
+from soccerdata.scrapers import fbleague, nasl, rsssf, mls
 from soccerdata.text import lineups
 
 def load():
@@ -18,10 +18,11 @@ def load():
     #load_nasl()
     load_soccernet()
 
+    load_fifa()
+
     #load_mediotiempo()
     #load_wiki()
     
-    #load_fifa()
 
 
 
@@ -87,12 +88,21 @@ def load_soccernet_league(code):
     generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups(code), delete=False)
 
 
+
+
 def load_soccernet():
     soccer_db.soccernet_games.drop()
     soccer_db.soccernet_goals.drop()
     soccer_db.soccernet_lineups.drop()
     load_soccernet_league('usa.1')
     load_soccernet_league('mex.1')
+
+def load_fifa():
+    from soccerdata.scrapers import fifa
+    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
+    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
+    generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
+
 
 
 
@@ -120,14 +130,6 @@ def load_aleague():
 
 
 # International
-
-def load_fifa():
-    # World cup games from 1930 to 2006.
-    print "Loading fifa world cup games."
-    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
-
-    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
-
 
 
 def load_eufootball():
