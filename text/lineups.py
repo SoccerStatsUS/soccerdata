@@ -40,6 +40,34 @@ import sys
 
 from soccerdata.cache import data_cache, set_cache
 
+# scaryice specific team mappings.
+team_map = {
+    'Richmond': 'Richmond Kickers',
+    'Montreal': 'Montreal Impact',
+    'CP Baltimore': 'Crystal Palace Baltimore',
+    'Harrisburg': 'Harrisburg City Islanders',
+    'Stanislaus Utd': 'Stanislaus United Cruisers',
+    'Hampton Roads': 'Virginia Beach Mariners',
+    'Mid Michigan': 'Michigan Bucks',
+    'Fresno': 'Fresno Fuego',
+    'Western Mass': 'Western Mass Pioneers',
+    'Wilmington': 'Wilmington Hammerheads',
+    'Long Island': 'Long Island Rough Riders',
+    'Hershey': 'Hershey Wildcats',
+    'Virginia Beach': 'Virginia Beach Mariners',
+
+    'Jacksonville': 'Jacksonville Cyclones',
+    'Central Coast': 'Central Coast Roadrunners',
+    'Cleveland': '?Cleveland',
+    'Tennessee': 'Tennessee',
+    'Atlanta': '?Atlanta',
+    'Carolina': '?Carolina',
+    'Charlotte': '?Charlotte',
+    'New Jersey': '?New Jersey?',
+    'Milwaukee': '?Milwaukee?'
+}
+    
+
 
 
 file_mapping = {
@@ -75,7 +103,7 @@ def get_competition(name):
         'CW': 'Concacaf Cup Winners\' Cup',
         'GC': 'Giants Cup',
         'OC-': 'US Open Cup',
-        'P-': 'MLS Playoffs',
+        'P-': 'Major League Soccer Playoffs',
         'SL': 'Super Liga',
         }
 
@@ -84,11 +112,11 @@ def get_competition(name):
             return v
 
     if name in ('22/OC-QF', '23/OC-QF'):
-        return 'MLS'
+        return 'Major League Soccer'
 
     else:
-        int(name) # make sure this is an integer.
-        return 'MLS'
+        int(name) # make sure this is an integer (representing a round).
+        return 'Major League Soccer'
     
 
 
@@ -265,6 +293,9 @@ def get_scores(fn):
 
         items = line.strip().split("\t")
         match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+
+        opponent = opponent.strip()
+        opponent = team_map.get(opponent, opponent)
 
         date = get_date(date_string)
 
