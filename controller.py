@@ -47,13 +47,16 @@ def dashboard():
     sources = [
         'yaml',
         'mls',
+        'wiki',
+        'nasl',
+        'usl',
+        'chris',
+        'scaryice',
+
         'soccernet',
         'uslsoccer',
-        'scaryice',
-        'chris',
         'kicker',
         'fifa',
-        'wiki',
         #'mediotiempo',
         #'cnnsi',
         #'eufootball',
@@ -128,8 +131,12 @@ def data():
     collection = soccer_db[collection_name]
 
     if collection.count():
-        keys = collection.find()[0].keys()
+        keys = sorted(collection.find()[0].keys())
         keys.remove("_id")
+
+        # No good to see.
+        if 'url' in keys:
+            keys.remove('url')
     else:
         keys = []
 
