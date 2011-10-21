@@ -95,6 +95,8 @@ def scrape_game_scores(url, season):
             'home_score': home_score,
             'away_score': away_score,
             'date': date,
+            'competition': 'Bundesliga',
+            'season': season,
             'url': url
             }
 

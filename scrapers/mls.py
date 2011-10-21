@@ -4,7 +4,7 @@ from soccerdata.utils import scrape_soup, get_contents, pounds_to_kg, inches_to_
 from soccerdata.cache import data_cache, set_cache
 
 
-@data_cache
+
 def scrape_all_games_mlssoccer():
 
     l = []
@@ -14,7 +14,7 @@ def scrape_all_games_mlssoccer():
 
     return l
 
-
+@set_cache
 def scrape_games(year):
     """
     Scrape all game data from a scoreboard.
@@ -22,18 +22,15 @@ def scrape_games(year):
 
     # If the year is this year, re-scrape.
     if year >= datetime.date.today().year:
-        static = False
+        refresh = True
     else:
-        static = True
+        refresh = False
 
     url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=all' % year
-    soup = scrape_soup(url, static)
+    soup = scrape_soup(url, refresh=refresh)
     l = scrape_games_first_pass(soup)
-    return MLSScoresProcessor().process_rows(l)
-
-
-
-
+    games =  MLSScoresProcessor().process_rows(l)
+    return games
 
 
 @data_cache
@@ -210,14 +207,17 @@ def scrape_games_first_pass(soup):
             if status != "Final":
                 return {}
 
-            home_score, away_score = scores.split("-")
+            try:
+                home_score, away_score = [int(e) for e in scores.split("-")]
+            except:
+                print get_contents(row)
+                return {}
 
             return {
                 'type': 'game',
-                'status': status,
-                'home_team': home_team,
-                'away_team': away_team,
-                'location': location,
+                'home_team': unicode(home_team),
+                'away_team': unicode(away_team),
+                'location': unicode(location),
                 'home_score': home_score,
                 'away_score': away_score
                 }
@@ -245,15 +245,18 @@ class MLSScoresProcessor(object):
         """
         
         if d['type'] == 'date':
-            self.current_date = unicode(d['date'])
+            dt = unicode(d['date'])
+            self.current_date = datetime.datetime.strptime(dt, "%A, %B %d, %Y")
 
         else:
             nd = {
                 'date': self.current_date,
+                'competition': 'MLS',
+                'season': unicode(self.current_date.year)
                 }
-            
-            for k, v in d.items():
-                nd[k] = unicode(v)
+
+            nd.update(d)
+            nd.pop('type')
             self.games.append(nd)
 
     def process_rows(self, dl):
@@ -454,5 +457,5 @@ def scrape_reserve_game(url):
 
 
 if __name__ == "__main__":
-    print scrape_all_bio_stats_mlssoccer()
+    print scrape_all_games_mlssoccer()
     
