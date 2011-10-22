@@ -1,4 +1,8 @@
-# Load MLS stats that I kept up to 2004.
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
+# Load stats from excel files.
 
 import os
 
@@ -52,6 +56,13 @@ def process_name(s):
 
 def process_stats(fn, competition=None, format_name=True):
 
+    def preprocess_line(line):
+        line = line.replace('\xa0', '')
+        line = line.replace('\xc2', '')
+        line = line.strip()
+        return line
+
+
     def fixes(d):
         # Incorrect line in naslmisl.csv
         if d.get('name') == 'Santiago Formoso':
@@ -60,9 +71,9 @@ def process_stats(fn, competition=None, format_name=True):
         return d
                          
     def process_line(line):
-        # clean this up.
+        line = preprocess_line(line)
 
-        if not line.strip():
+        if not line:
             return {}
 
         fields = line.split('\t')
@@ -101,13 +112,12 @@ def process_stats(fn, competition=None, format_name=True):
                 'pks_committed':
             if k in d:
                 v = d[k]
-                # Blank character showing up in naslmisl.csv
-                v = v.replace('\xc2\xa0', '')
+                v = v.strip()
 
                 if v in ('', '-'):
                     v = 0
                 elif v == '?':
-                    pass
+                    v = None
                 else:
                     try:
                         d[k] = int(v)

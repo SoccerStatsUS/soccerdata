@@ -12,10 +12,11 @@ if not os.path.exists(DIR):
 
 filename = os.path.join(DIR, 'nasl.txt')
 
-def process():
+def process_stats():
     f = open(filename)
     lst = []
     for line in f:
+
         fields = line.split("  ") # 2 spaces
         fields = [e.strip() for e in fields if e.strip()]
         name, team, goals, assists, shots, yc, rc, minutes = fields
@@ -38,4 +39,4 @@ def process():
 
 
 if __name__ == "__main__":
-    print process()
+    print process_stats()
