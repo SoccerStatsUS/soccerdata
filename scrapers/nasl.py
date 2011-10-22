@@ -30,10 +30,8 @@ def scrape_scores():
                         'home_score': home_score,
                         'away_score': away_score,
                         'date': dt,
-                        'competition': 'NASL',
-                        'season': 2011,
-                        'year': 2011,
-                        #'url': "", # Nasl doesn't even link these.
+                        'competition': "North American Soccer League (2011-)",
+                        'season': '2011',
                         })
 
             # Probably a Buy Tickets link, indicating game hasn't been played yet.

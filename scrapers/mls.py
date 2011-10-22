@@ -14,7 +14,7 @@ def scrape_all_games_mlssoccer():
 
     return l
 
-@set_cache
+@data_cache
 def scrape_games(year):
     """
     Scrape all game data from a scoreboard.
@@ -251,7 +251,7 @@ class MLSScoresProcessor(object):
         else:
             nd = {
                 'date': self.current_date,
-                'competition': 'MLS',
+                'competition': 'Major League Soccer',
                 'season': unicode(self.current_date.year)
                 }
 
@@ -349,7 +349,7 @@ def scrape_player_stats(url):
             
 
         return {
-            'competition': 'MLS',
+            'competition': 'Major League Soccer',
             'season': 'regular season %s' % year,
             'name': bio['name'],
             'team': team,

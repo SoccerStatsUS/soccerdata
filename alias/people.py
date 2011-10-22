@@ -132,6 +132,8 @@ names = {
     'Jean-Philippe Peguero': 'Jean Philippe Peguero',
     'Raimo De Vries': 'Raimo de Vries',
     'Chris Mcdonald': 'Chris McDonald',
+
+    'Jan Van Bevern': 'Jan Van Beveren',
 }
 
 

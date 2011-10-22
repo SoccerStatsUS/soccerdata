@@ -55,6 +55,12 @@ team_map = {
     'Long Island': 'Long Island Rough Riders',
     'Hershey': 'Hershey Wildcats',
     'Virginia Beach': 'Virginia Beach Mariners',
+    'Charleston': 'Charleston Battery',
+    #'Chicago': 'Chicago Fire',
+    'New York': 'New York Red Bulls',
+    'Philadelphia': 'Philadelphia Union',
+    'Ocean City': 'Ocean City Barons',
+    
 
     'Jacksonville': 'Jacksonville Cyclones',
     'Central Coast': 'Central Coast Roadrunners',

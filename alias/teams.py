@@ -50,6 +50,7 @@ mls_teams = {
 teams.update(mls_teams)
 
 usl_teams = {
+    'NOGM': 'New Orleans Riverboat Gamblers',
     'ATLS': 'Atlanta Silverbacks',
     'CALJ': 'California Jaguars',
     'CARD': 'Carolina Dynamo',
@@ -71,7 +72,7 @@ usl_teams = {
     'ROCH': 'Rochester Rhinos',
     'SEAS': 'Seattle Sounders',
     'TORL': 'Toronto Lynx',
-    'VANW': 'Vancouver Whitecaps',
+    'VANW': 'Vancouver Whitecaps FC',
     'WORW': 'Worcester Wildfire',
     'AQGK': 'Albuquerque Geckos',
     'ATLS': 'Atlanta Silverbacks',
@@ -79,7 +80,7 @@ usl_teams = {
     'CINR': 'Cincinnati Riverhawks',
     'SDFL': 'San Diego Flash',
     'STIV': 'Staten Island Vipers',
-    'USPS': 'US Project-40',
+    'USPS': 'US Project 40',
     'VABM': 'Virginia Beach Mariners',
     'BSBD': 'Boston Bulldogs',
     'INDB': 'Indiana Blast',
@@ -164,8 +165,26 @@ pdl_teams = {
     'Des Moines': 'Des Moines Menace',
     'Toledo': 'Toledo Slayers',
     'Fort Wayne': 'Fort Wayne Fever',
+    
     }
 teams.update(pdl_teams)
+
+misc_teams = {
+    "Vancouver 86ers": "Vancouver Whitecaps FC",
+    "Golden Bay Earthquakes": "San Jose Earthquakes",
+    'NY Pancyprian-Freedoms': 'New York Pancyprian-Freedoms',
+    'NY Pancyprian Freedoms': 'New York Pancyprian-Freedoms',
+    'Atlanta Datagraphic Magic': 'Atlanta Magic',
+    'San Jose Clash': 'San Jose Earthquakes',
+    'Dallas Burn': 'FC Dallas',
+    'Seattle Sounders FC': 'Seattle Sounders',
+    'Carolina Railhawks': 'Carolina RailHawks',
+    'Phoenix Hearts': 'Arizona Sahuaros',
+    'Arizona Cotton': 'Arizona Sahuaros',
+    'Arizona Phoenix': 'Arizona Sahuaros',
+    }
+
+teams.update(misc_teams)
 
 def get_team(name, league=None):
     if league and (name, league) in teams:

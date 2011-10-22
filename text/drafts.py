@@ -3,6 +3,7 @@
 DRAFTS_DIR = "/home/chris/www/soccerdata/data/drafts"
 
 import os
+import re
 
 # This should probably be in utils.
 def remove_pairs(text, start, end):
@@ -48,13 +49,20 @@ def process_draft(text, draft_name):
     text = remove_pairs(text, "[", "]")
     lines = [e for e in text.split("\n") if e]
 
+    try:
+        draft_type, year = re.match("([a-z]+)(\d+)", draft_name).groups()
+    except:
+        import pdb; pdb.set_trace()
+
     def process_line(line):
         number, name, team = line.split('\t')
         return {
             'number': int(number),
             'name': name.strip(),
             'team': team.strip(),
-            'draft_name': draft_name,
+            'draft_name': '%s Draft' % draft_type.title(),
+            'year': int(year),
+            'league': 'Major League Soccer',
             }
 
     return [process_line(line) for line in lines]
@@ -165,3 +173,7 @@ def run_draft(year):
 def main():
     p =  "/home/chris/www/soccerdata/data/drafts/2011"
     process_usmnt_draft(p, "2011 USMNT Draft", 2011, parse_line)
+
+
+if __name__ == "__main__":
+    print load_drafts()
