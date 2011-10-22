@@ -4,6 +4,7 @@
 import datetime
 import json
 import re
+import sys
 
 from soccerdata.utils import get_contents, scrape_url
 
@@ -97,6 +98,7 @@ def get_infobox_lines(lines):
             end = i
     return lines[start:end]
 
+
 def process_key_value(line):
     if not line.startswith("|"):
         return None
@@ -108,6 +110,7 @@ def process_key_value(line):
 
     return (k, v)
 
+
 def process_value(value):
     # seems like there are at least three kinds of lines.
     # 1. raw data.
@@ -115,7 +118,13 @@ def process_value(value):
     # 3. links (with alternate names sometimes)
     # 4. hybrid.
 
+
+    m = re.search("(.*?)<!--.*?-->", value)
+    if m:
+        value = m.groups()[0]
+
     value = value.strip()
+
 
     # [[Santiago Bernab\xe9u Stadium|Estadio Santiago Bernab\xe9u]]
     link_m = re.match("\[\[(?P<link>.*?)\|.*?\]\]$", value)
@@ -135,13 +144,18 @@ def process_value(value):
             'link': processed,
             }
 
-    date_re = re.search("Start date and years ago\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value)
+    date_re = re.search("Start date and years ago\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value, re.I)
     if date_re:
         year, month, day = [int(e) for e in date_re.groups()]
         return datetime.datetime(year, month, day)
 
 
     date_re2 = re.search("{{birth date and age\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value, re.I)
+    if date_re2:
+        year, month, day = [int(e) for e in date_re2.groups()]
+        return datetime.datetime(year, month, day)
+
+    date_re2 = re.search("{{Start date and age\|(?P<year>\d+)\|(?P<month>\d+)\|(?P<day>\d+)", value, re.I)
     if date_re2:
         year, month, day = [int(e) for e in date_re2.groups()]
         return datetime.datetime(year, month, day)
@@ -160,6 +174,34 @@ def process_value(value):
 
 
     return value.strip()
+
+
+def scrape_team(query):
+    lines = scrape_wiki(query)
+    infobox_lines = get_infobox_lines(lines)
+    processed = [process_key_value(line) for line in infobox_lines]
+    d = dict([e for e in processed if e])
+
+    founded_string = d['founded']
+    if type(founded_string) == type(''):
+        founded = datetime.datetime.strptime(founded_string, "%B, %d %Y")
+    elif type(founded_string) == datetime.datetime:
+        founded = founded_string
+
+    else:
+        import pdb; pdb.set_trace()
+        
+        
+
+    return {
+        'name': d['clubname'],
+        'image': d['image'],
+        'fullname': d['fullname'],
+        'founded': founded,
+        'ground': d['ground'],
+        'website': d.get('website', ''),
+        }
+
         
 
 def get_categories(lines):
@@ -327,21 +369,6 @@ def scrape_standings3(query, competition, season):
                 
         
         
-
-def scrape_team(query):
-    lines = scrape_wiki(query)
-    infobox_lines = get_infobox_lines(lines)
-    processed = [process_key_value(line) for line in infobox_lines]
-    d = dict([e for e in processed if e])
-    
-    return {
-        'name': d['clubname'],
-        'image': d['image'],
-        'fullname': d['fullname'],
-        'founded': d['founded'],
-        'ground': d['ground'],
-        'website': d['website'],
-        }
 
 def scrape_stadium(query):
     return {
@@ -663,30 +690,9 @@ class PlayerScraper(object):
             return 0
 
 if __name__ == "__main__":
+    print sys.argv[1]
+    if sys.argv[1]:
+        print scrape_team(sys.argv[1])
+    else:
+        print scrape_team("FC Dallas")
 
-    print scrape_team("FC Dallas")
-
-    #print scrape_standings3('2006 PDL Season', 'PDL', 2006)
-    #r = scrape_pdl_standings()
-    #r = scrape_mls_standings()
-    #r = scrape_england_standings()
-    #print sorted(set([e['season'] for e in r]))
-
-    #print scrape_bio('Dilly Duka')
-    """
-    from soccerdata import mongo
-    for bio in mongo.soccer_db.mls_bios.find():
-        if 'name' in bio:
-            #print bio['name']
-            try:
-                print scrape_bio(bio['name'])
-            except UnicodeEncodeError:
-                print "UNICODE FAIL"
-                print bio['name']
-                print
-
-            except ValueError:
-                print "VALUE FAIL"
-                print bio['name']
-                print
-                """

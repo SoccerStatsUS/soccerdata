@@ -34,7 +34,7 @@ class TestMLSScraper(unittest.TestCase):
         second_game = {
             'date':'',
             'location': '',
-            'home_team': 'Sporting KC',
+            'home_team': 'Sporting Kansas City',
             'away_team': 'Portland',
             'home_score': '3',
             'away_score': '1',
