@@ -10,7 +10,7 @@ from collections import defaultdict
 
 def generate():
     # Generate standings
-    generate_standings(soccer_db.games, soccer_db.standings)
+    #generate_standings(soccer_db.games, soccer_db.standings)
     generate_stats()
 
 
