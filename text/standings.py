@@ -27,11 +27,16 @@ def process_standings():
         goals_for = goals_against = None
         shootout_wins = shootout_losses = None
 
-        if len(fields) < 9:
+        if len(fields) < 8:
+            import pdb; pdb.set_trace()
             print fields
             return {}
 
-        if len(fields) == 9:
+        if len(fields) == 8:
+            team, competition, season, division, games, wins, ties, losses = fields
+            points = None
+
+        elif len(fields) == 9:
             team, competition, season, division, games, wins, ties, losses, points = fields
 
         else:
