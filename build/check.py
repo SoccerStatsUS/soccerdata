@@ -6,11 +6,25 @@ import datetime
 
 def check():
     # Verify
+    check_standings()
     check_goals()
     check_people()
     check_games()
     check_lineups()
     check_stats()
+
+
+def check_standings():
+    for s in mongo.soccer_db.standings.find():
+        games = s['games']
+        try:
+            games2 = s['wins'] + s['losses'] + (s['ties'] or 0) + (s['shootout_wins'] or 0) + (s['shootout_losses'] or 0)
+        except:
+            import pdb; pdb.set_trace()
+        if games != games2:
+            print s
+        
+
 
 def check_people():
     # Not sure what kind of consistency checking is necessary here.

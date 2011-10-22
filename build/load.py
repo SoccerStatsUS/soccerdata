@@ -1,44 +1,74 @@
 from soccerdata.mongo import generic_load, soccer_db
 
-from soccerdata.scrapers import fbleague, nasl, rsssf, mls
+from soccerdata.scrapers import fbleague, rsssf, mls
 from soccerdata.text import lineups
 
-def load():
+from soccerdata import scrapers
+from soccerdata import text
+
+def first_load():
     """
     Load all data.
     """
 
-    # Offline data
-    load_yaml()
-    #load_chris()
+    load_standings()
+    load_teams()
+    load_nasl()
+    load_apsl()
+    return
+
+    load_usl()
+    load_mls()
+
+    load_chris()
     load_scaryice()
+    return
 
     # Scraped data
-    load_mls()
-    load_nasl()
     load_soccernet()
     load_fifa()
     load_kicker()
-
     #load_mediotiempo()
+
+
+def second_load():
+    # This is for data that should not be loaded
+    # until after we have merged all data.
+    # e.g. wikipedia team bios based on game results.
+    
+    # These provide no data to any other items.
+
+    #load_yaml() # Could be loaded earlier, but not really thematically
     #load_wiki()
+    pass
+
+
+def load_standings():
+    from soccerdata.text import standings
+    print "Loading chris standings.\n"
+    generic_load(soccer_db.chris_standings, standings.process_standings)
+
     
 
-
-
-def load_yaml():
+def load_teams():
     from soccerdata.text import syaml
     print "Loading teams.\n"
     generic_load(soccer_db.yaml_teams, syaml.load_teams)
 
 
+def load_wiki():
+    pass
+
+
+
 def load_chris():
     print "Loading chris text bios.\n"
-    from soccerdata.text import bios, salaries, drafts, stats
+    from soccerdata.text import bios, salaries, drafts
+
+
+    print "Loading chris bios.\n"
     generic_load(soccer_db.chris_bios, bios.merged_bios)
     
-    print "Loading chris stats.\n"
-    generic_load(soccer_db.chris_stats, stats.process_all_chris_stats)
 
     print "Loading MLS salary data.\n"
     generic_load(soccer_db.mls_salaries, salaries.load_salaries)
@@ -61,9 +91,33 @@ def load_scaryice():
     generic_load(soccer_db.scaryice_lineups, lineups.load_all_lineups_scaryice)
 
 
+def load_nasl():
+    from soccerdata.text import stats
+
+    print "Loading NASL stats.\n"
+    generic_load(soccer_db.nasl_stats, stats.process_nasl_stats)
+
+
+def load_apsl():
+    from soccerdata.text import apsl
+    print "loading apsl stats"
+    generic_load(soccer_db.apsl_stats, apsl.process_apsl_stats)
+
+    print "loading apsl scores"
+    generic_load(soccer_db.apsl_games, apsl.process_apsl_scores)
+
+
+
+
 def load_mls():
+    from soccerdata.text import stats
     print "Loading MLSsoccer.com game data.\n"
     generic_load(soccer_db.mls_games, mls.scrape_all_games_mlssoccer)
+
+    print "Loading chris mls stats.\n"
+    generic_load(soccer_db.mls_stats, stats.process_mls_stats)
+
+
     return
 
     print "Loading MLSsoccer.com player bios\n"
@@ -75,13 +129,26 @@ def load_mls():
 
 
 
+def load_usl():
+    from soccerdata.text import stats
 
+    def load_scores():
+        from soccerdata.scrapers import nasl
+        generic_load(soccer_db.usl_games, nasl.scrape_scores)
 
-def load_nasl():
-    # 2011 NASL scores.
+    def load_stats():
+        from soccerdata.text import nasl
+        generic_load(soccer_db.usl_stats, nasl.process_stats)
+
     print "Loading 2011 NASL games."
-    from soccerdata.scrapers import soccernet
-    generic_load(soccer_db.nasl_games, nasl.scrape_scores)
+    load_scores()
+    print "Loading 2011 NASL stats."
+    load_stats()
+
+    print "Loading usl stats.\n"
+    generic_load(soccer_db.usl_stats, stats.process_usl_stats, delete=False)
+
+
 
 
 def load_soccernet_league(code):
@@ -120,8 +187,6 @@ def load_kicker():
 def load_mediotiempo():
     pass
 
-def load_wiki():
-    pass
 
 # European and other data.
 

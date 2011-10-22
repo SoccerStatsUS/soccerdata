@@ -6,8 +6,8 @@ from collections import defaultdict
 
 
 
-def merge():
-    merge_teams()
+def first_merge():
+    merge_standings()
     merge_bios()
     merge_stats()
     merge_games()
@@ -15,11 +15,19 @@ def merge():
     merge_lineups()
 
 
+def second_merge():
+    merge_teams()
+
+
+def merge_standings():
+    soccer_db.standings.drop()
+    insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
 
 
 def merge_teams():
     soccer_db.teams.drop()
     insert_rows(soccer_db.teams, soccer_db.yaml_teams.find())
+    insert_rows(soccer_db.teams, soccer_db.wiki_teams.find())
 
 
 
@@ -45,6 +53,10 @@ def make_scaryice_lineup_dict():
 
 
 def merge_games():
+    """
+    Merge games to prevent overlaps, then
+    insert into the games db.
+    """
 
     game_dict = {}
 
@@ -61,12 +73,13 @@ def merge_games():
         else:
             game_dict[key] = d
 
-
-    for e in soccer_db.scaryice_games.find():
-        update_game(e)
-    for e in soccer_db.soccernet_games.find():
-        update_game(e)
-
+        
+    for e in 'mls', 'scaryice', 'usl', 'apsl', : 
+        c = '%s_games' % e
+        coll = soccer_db[c]
+        for e in coll.find():
+            update_game(e)
+            
     soccer_db.games.drop()
     insert_rows(soccer_db.games, game_dict.values())
 
@@ -121,9 +134,13 @@ def merge_stats():
 
 
     stat_dict = {}
+    for e in soccer_db.nasl_stats.find():
+        update_stat(e)
+    for e in soccer_db.apsl_stats.find():
+        update_stat(e)
     for e in soccer_db.mls_stats.find():
         update_stat(e)
-    for e in soccer_db.chris_stats.find():
+    for e in soccer_db.usl_stats.find():
         update_stat(e)
 
     soccer_db.stats.drop()

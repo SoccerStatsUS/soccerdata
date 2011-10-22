@@ -45,8 +45,11 @@ class Standing(object):
             except:
                 import pdb; pdb.set_trace()
             
-            goals_for[ht] += h
-            goals_against[ht] += a
+            try:
+                goals_for[ht] += h
+                goals_against[ht] += a
+            except:
+                import pdb; pdb.set_trace()
 
             goals_for[at] += a
             goals_against[at] += h

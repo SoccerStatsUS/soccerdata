@@ -6,35 +6,16 @@ That is to say, import all of them into mongo, and possibly check for consistenc
 
 After that, create canonical lists that can be used for viewing or 
 imported into socceroutsider.com for better relationships, etc.
-
-
-Things that have successfully been built.
-
-people:
- - MLS/USL bios
-
-games:
- - statto
- - fifa world cup
-
-goals:
- - fifa world cup
-
-salaries:
- - mls salaries
 """
 
-
-
-from load import load
+from load import first_load, second_load
 from generate import generate
 from check import check
-from merge import merge
+from merge import first_merge, second_merge
 
 
 # Load all possible games into various collections.
 # Try to merge all of those into a single games database.
-# Load standings from wikipedia.
 
 # Generate standings from games.
 # Check generated standings against loaded standings.
@@ -44,26 +25,30 @@ from merge import merge
 # Check goals against games.
 
 
+
+def reset_database():
+    # Not used.
+    from soccerdata import mongo
+    mongo.connection.drop_database(mongo.soccer_db)
+
+
+
 def build():
     """
     Rebuild all site data.
     """
 
-    #reset_database()
+    first_load()
+    first_merge()
 
-    # Load all data.
-    load()
-
-    # Merge is currently putting games into soccer_db.games
-    merge()
+    # Second pass
+    second_load()
+    second_merge()
 
     # Generate needs to come after merge.
     generate()
 
-
-def reset_database():
-    from soccerdata import mongo
-    mongo.connection.drop_database(mongo.soccer_db)
+    check()
 
 
 
