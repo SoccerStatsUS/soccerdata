@@ -49,6 +49,7 @@ def dashboard():
         'mls',
         'wiki',
         'nasl',
+        'apsl',
         'usl',
         'chris',
         'scaryice',
