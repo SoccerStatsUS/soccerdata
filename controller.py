@@ -17,7 +17,7 @@ soccer_db = mongo.soccer_db
 app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
 
-STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams'
+STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams', 'positions'
 
 
 
@@ -47,10 +47,12 @@ def dashboard():
     sources = [
         'yaml',
         'mls',
+        'mls_reserve',
         'wiki',
         'nasl',
         'apsl',
         'usl',
+        'nasl2',
         'chris',
         'scaryice',
 
