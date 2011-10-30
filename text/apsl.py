@@ -2,10 +2,10 @@ import os
 import datetime
 import re
 
-DIR = '/home/chris/www/soccerdata/data'
+DIR = '/home/chris/www/soccerdata/data/'
 
 if not os.path.exists(DIR):
-    DIR = "/Users/chrisedgemon/www/soccerdata/data"
+    DIR = "/Users/chrisedgemon/www/soccerdata/data/"
 
 wsa_team_map  = {
     'San Diego': 'San Diego Nomads',
@@ -267,7 +267,7 @@ def process_apsl_stats():
     for line in f:
         t.process_stat_line(line)
 
-    p = os.path.join(DIR, "rosters.txt")
+    p = os.path.join(DIR, "stats", "apsl_rosters.txt")
     f = open(p)
     for line in f:
         t.process_roster_line(line)

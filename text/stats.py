@@ -14,8 +14,8 @@ if not os.path.exists(DIR):
     DIR = "/Users/chrisedgemon/www/soccerdata/data/stats"
 
 
-def process_mls_stats():
-    return process_stats("mls_stats.csv", "Major League Soccer")
+def process_mls_coach_stats():
+    return process_stats("mls_coaches.csv", "Major League Soccer")
 
 def process_nasl_stats():
     return process_stats("naslmisl.csv", format_name=False)
@@ -27,10 +27,11 @@ def process_usl_stats():
     l.extend(process_stats("usl1_20062007.csv", "USL First Division"))
     l.extend(process_stats("usl1_20082009.csv", "USL First Division"))
     l.extend(process_stats("psl_stats.csv", "USL Second Division"))
-    l.extend(process_stats("pdl_stats.csv", "USL Premier Developmental League"))
+    #l.extend(process_stats("pdl_stats.csv", "USL Premier Developmental League"))
     return l
     
 def process_name(s):
+
     if ',' not in s:
         return s
 
@@ -90,17 +91,21 @@ def process_stats(fn, competition=None, format_name=True):
 
 
         if format_name:
+            d['name'] = d['name'].replace("*", '')
             d['name'] = process_name(d['name'])
 
         if competition is not None:
             d['competition'] = competition
 
-        d['team'] = d['team']
+
 
         if 'year' in d:
             d['season'] = d.pop('year')
         else:
-            d['season'] = d['season']
+            try:
+                d['season'] = d['season']
+            except:
+                import pdb; pdb.set_trace()
 
 
 
@@ -138,5 +143,5 @@ def process_stats(fn, competition=None, format_name=True):
 
 
 if __name__ == "__main__":
-    print process_nasl_stats()
+    print process_mls_stats()
     
