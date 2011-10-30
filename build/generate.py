@@ -1,4 +1,5 @@
-from soccerdata.mongo import soccer_db, insert_rows
+
+from soccerdata.mongo import soccer_db, insert_rows, generic_load
 
 from standings import get_standings
 
@@ -7,94 +8,124 @@ from collections import defaultdict
 # I think I should just generate standings directly from soccer_db.games.
 # And then check those against downloaded standings.
 
+make_stat_tuple = lambda name, d: (name, d['team'], d['season'], d['competition'])
+
 
 def generate():
     # Generate standings
     #generate_standings(soccer_db.games, soccer_db.standings)
-    generate_stats()
+    #generate_lineup_stats(soccer_db.mls_reserve_lineups.find())
+    stats = generate_stats(soccer_db.mls_reserve_goals.find(), soccer_db.mls_reserve_lineups.find())
+    generic_load(soccer_db.mls_reserve_stats, lambda: stats.values())
+
+    standings = generate_standings(soccer_db.mls_reserve_games.find())
+    generic_load(soccer_db.mls_reserve_standings, lambda: standings.values())
+
+    
 
 
-def generate_standings(src, dst):
-    # Load seasons so we know which
-    # we have to generate standings for.
-    soccer_db.standings.drop()
-    seasons = set()
+def generate_standings(games):
 
-    for doc in src.find():
-        try:
-            t = (doc['competition'], doc['season'])
-        except:
-            import pdb; pdb.set_trace()
-        seasons.add(t)
+    def insert_game(team, game):
+        t = (team, game['competition'], game['season'])
+        if t not in d:
+            d[t] = {
+                'name': team,
+                'competition': t[1],
+                'season': t[2],
+                'wins': 0,
+                'ties': 0,
+                'losses': 0,
+                'shootout_wins': 0,
+                'shootout_losses': 0,
+                'games': 0,
+                'goals_for': 0,
+                'goals_against': 0,
+                }
 
-    for t in seasons:
-        competition, season = t
-        d = {'competition': competition, 'season': season}
-        games = [e for e in src.find(d)] # Cursor to list.
-        standings = get_standings(games, competition, season)
-        insert_rows(dst, standings)
+        d[t]['games'] += 1
+        key = get_key(team, game)
+        d[t][key] += 1
 
+        if team == game['home_team']:
+            gf, ga = game['home_score'], game['away_score']
+        else:
+            gf, ga = game['away_score'], game['home_score']
 
-def filled_stats():
-    """
-    Game, team, competition, season combinations
-    that have stats already.
-    """
-    # Don't really need a set?
-    # Can just do a list comprehension.
-    stats = set()
-    for e in soccer_db.stats.find():
-        try:
-            # Need to fix this.
-            try:
-                name = e['name']
-            except KeyError:
-                name = e['player']
+        d[t]['goals_for'] += gf
+        d[t]['goals_against'] += ga
 
-            t = (name, e['team'], e['competition'], e['season'])
-        except:
-            import pdb; pdb.set_trace()
-    return stats
+    def get_key(team, game):
+        ht, at, h, a = [game[k] for k in ['home_team', 'away_team', 'home_score', 'away_score']]
+        if h == a:
+            return 'ties'
+        if ht == team and h > a:
+            return 'wins'
+        if at == team and a > h:
+            return 'wins'
+        return 'losses'
         
-             
-def generate_stats():
-    stat_tuples = filled_stats()
+        
+
     d = {}
+    for game in games:
+        insert_game(game['away_team'], game)
+        insert_game(game['home_team'], game)
 
-    # Just generating goal stats.
-    # Should generate lineup stats as well.
-    for e in soccer_db.goals.find():
-        t = (e['player'], e['team'], e['competition'], str(e['date'].year))
-        if t not in stat_tuples:
-            if t not in d:
-                d[t] = 1
-            else:
-                d[t] += 1
-    
-    stats = []
-    for (player, team, competition, season), goals in d.items():
-        print player
-        stats.append({
-                'name': player,
+    return d
+        
+
+def generate_stats(goals=[], lineups=[]):
+    # Generate stat dict.
+    # 
+    sd = {}
+
+    def add_item(t, key, amount=1):
+        if t not in sd:
+            name, team, season, competition = t
+            if not name:
+                print t
+                return
+
+            sd[t] = {
+                'name': name,
                 'team': team,
-                'competition': competition,
                 'season': season,
-                'minutes': None,
-                'games_started': None,
-                'games_played': None,
-                'goals': goals,
-                'assists': None,
-                'shots': None,
-                'shots_on_goal': None,
-                'fouls_committed': None,
-                'fouls_suffered': None,
-                'yellow_cards': None,
-                'red_cards': None,
-                })
-    
-    insert_rows(soccer_db.stats, stats)
+                'competition': competition,
+                'goals': 0,
+                'assists': 0,
+                'games_played': 0,
+                'games_started': 0,
+                'minutes': 0,
+                }
+
+        sd[t][key] += amount
+
+
+    for goal in goals:
+        t = make_stat_tuple(goal['goal'], goal)
+        add_item(t, 'goals')
+
+        for assist in goal['assists']:
+            t = make_stat_tuple(assist, goal)
+            add_item(t, 'assists')
+
+    for lineup in lineups:
+        t = make_stat_tuple(lineup['name'], lineup)
+        add_item(t, 'games_played')
+        if 'on' in lineup:
+            if lineup['on'] == 0:
+                add_item(t, 'games_started')
+            if 'off' in lineup:
+                minutes = lineup['off'] - lineup['on']
+                add_item(t, 'minutes', minutes)
+        
+
+    return sd
+
     
 
+             
 if __name__ == "__main__":
     generate()
 

@@ -8,6 +8,7 @@ from collections import defaultdict
 
 def first_merge():
     merge_standings()
+    merge_positions()
     merge_bios()
     merge_stats()
     merge_games()
@@ -15,19 +16,35 @@ def first_merge():
     merge_lineups()
 
 
+
 def second_merge():
     merge_teams()
+
+def merge_goals():
+    soccer_db.goals.drop()
+    insert_rows(soccer_db.goals, soccer_db.mls_reserve_goals.find())
 
 
 def merge_standings():
     soccer_db.standings.drop()
     insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
+    insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
+
+def merge_positions():
+    soccer_db.positions.drop()
+    insert_rows(soccer_db.positions, soccer_db.chris_positions.find())
 
 
 def merge_teams():
     soccer_db.teams.drop()
     insert_rows(soccer_db.teams, soccer_db.yaml_teams.find())
     insert_rows(soccer_db.teams, soccer_db.wiki_teams.find())
+
+
+
+def merge_lineups():
+    soccer_db.lineups.drop()
+    insert_rows(soccer_db.lineups, soccer_db.mls_reserve_lineups.find())
 
 
 
@@ -120,6 +137,8 @@ def merge_stats():
 
 
     def update_stat(d):
+        if 'team' not in d:
+            import pdb; pdb.set_trace()
         d['team'] = get_team(d['team'])
         d['name'] = get_bio(d['name'])
         t = (d['name'], d['team'], d['competition'], d['season'])
@@ -140,6 +159,8 @@ def merge_stats():
         update_stat(e)
     for e in soccer_db.mls_stats.find():
         update_stat(e)
+    for e in soccer_db.mls_reserve_stats.find():
+        update_stat(e)
     for e in soccer_db.usl_stats.find():
         update_stat(e)
 
@@ -157,80 +178,6 @@ def get_scaryice_goals():
     lineup_dict = make_scaryice_lineup_dict()
     items = [d for d in soccer_db.scaryice_goals.find()]
     return lineups.correct_goal_names(items, lineup_dict)
-
-
-def merge_goals():
-    """
-    Merge stats.
-    """
-
-
-    def update_goal(d):
-        d.pop('_id')
-        if not d:
-            return
-        d['team'] = get_team(d['team'])
-        d['player'] = get_bio(d['player'])
-        # Presumably no player will score twice in the same minute?
-        # When this comes untrue, we have a big problem.
-        key = (d['player'], d['team'], d['date'], d['minute'])
-        if key in goal_dict:
-            orig = goal_dict[key]
-            for k, v in d.items():
-                if not orig.get(k) and v:
-                    orig[k] = v
-        else:
-            goal_dict[key] = d
-
-
-
-    goal_dict = {}
-    for e in get_scaryice_goals():
-        update_goal(e)
-    for e in soccer_db.soccernet_goals.find():
-        update_goal(e)
-
-    soccer_db.goals.drop()
-    insert_rows(soccer_db.goals, goal_dict.values())
-
-
-
-def merge_lineups():
-    """
-    Merge stats.
-    """
-
-
-    def update_lineup(d):
-        d.pop('_id')
-        if not d:
-            return
-        d['team'] = get_team(d['team'])
-        d['player'] = get_bio(d['player'])
-
-        try:
-            key = (d['player'], d['date'])
-        except:
-            import pdb; pdb.set_trace()
-        if key in lineup_dict:
-            orig = lineup_dict[key]
-            for k, v in d.items():
-                if not orig.get(k) and v:
-                    orig[k] = v
-        else:
-            lineup_dict[key] = d
-
-
-
-    lineup_dict = {}
-    for e in soccer_db.scaryice_lineups.find():
-        update_lineup(e)
-    for e in soccer_db.soccernet_lineups.find():
-        update_lineup(e)
-
-    soccer_db.lineups.drop()
-    insert_rows(soccer_db.lineups, lineup_dict.values())
-
 
 
 

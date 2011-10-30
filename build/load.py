@@ -13,14 +13,14 @@ def first_load():
 
     load_standings()
     load_teams()
-    load_nasl()
+    load_mls_reserve()
+    load_nasl2()
     load_apsl()
-    return
-
-    load_usl()
     load_mls()
-
-    load_chris()
+    load_nasl()
+    #load_asl()
+    #load_usl()
+    return
     load_scaryice()
     return
 
@@ -48,33 +48,11 @@ def load_standings():
     print "Loading chris standings.\n"
     generic_load(soccer_db.chris_standings, standings.process_standings)
 
-    
 
 def load_teams():
     from soccerdata.text import syaml
     print "Loading teams.\n"
     generic_load(soccer_db.yaml_teams, syaml.load_teams)
-
-
-def load_wiki():
-    pass
-
-
-
-def load_chris():
-    print "Loading chris text bios.\n"
-    from soccerdata.text import bios, salaries, drafts
-
-
-    print "Loading chris bios.\n"
-    generic_load(soccer_db.chris_bios, bios.merged_bios)
-    
-
-    print "Loading MLS salary data.\n"
-    generic_load(soccer_db.mls_salaries, salaries.load_salaries)
-
-    print "Loading mls draft data.\n"
-    generic_load(soccer_db.mls_drafts, drafts.load_drafts)
 
 
 
@@ -92,6 +70,9 @@ def load_scaryice():
 
 
 def load_nasl():
+    """
+    Load stats from the old nasl and misl.
+    """
     from soccerdata.text import stats
 
     print "Loading NASL stats.\n"
@@ -99,6 +80,9 @@ def load_nasl():
 
 
 def load_apsl():
+    """
+    Load stats and games from the APSL and WSA.
+    """
     from soccerdata.text import apsl
     print "loading apsl stats"
     generic_load(soccer_db.apsl_stats, apsl.process_apsl_stats)
@@ -110,45 +94,71 @@ def load_apsl():
 
 
 def load_mls():
+    """
+    Load mls data
+    Includes stats from mlssoccer.com, 
+    hand-compiled coach playing stats,
+    and player bios.
+    """
     from soccerdata.text import stats
+    from soccerdata.scrapers import mls
+
+    # Why are we loading both?
+    #print "Loading MLSsoccer.com stats\n"
+
+    print "Loading mls bio_stats.\n"
+    generic_load(soccer_db.mls_stats, mls.scrape_all_bio_stats_mlssoccer)
+
+    print "Loading coach playing stats.\n"
+    # Load coach stats that are missing from mlossoccer.com
+    generic_load(soccer_db.mls_stats, stats.process_mls_coach_stats, delete=False)
+
+    print "Loading MLSsoccer.com player bios.\n"
+    generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
+    return
+
     print "Loading MLSsoccer.com game data.\n"
     generic_load(soccer_db.mls_games, mls.scrape_all_games_mlssoccer)
 
-    print "Loading chris mls stats.\n"
-    generic_load(soccer_db.mls_stats, stats.process_mls_stats)
 
 
-    return
+def load_mls_reserve():
+    """
+    Load data from the MLS Reserve League (2011 - )
+    """
+    from soccerdata.text import reserve
 
-    print "Loading MLSsoccer.com player bios\n"
-    generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
-
-
-    print "Loading MLSsoccer.com stats\n"
-    generic_load(soccer_db.mls_stats, mls.scrape_all_stats_mlssoccer)
+    generic_load(soccer_db.mls_reserve_games, reserve.process_scores)
+    generic_load(soccer_db.mls_reserve_lineups, reserve.process_lineups)
+    generic_load(soccer_db.mls_reserve_goals, reserve.process_goals)
 
 
 
-def load_usl():
-    from soccerdata.text import stats
+def load_nasl2():
 
     def load_scores():
         from soccerdata.scrapers import nasl
-        generic_load(soccer_db.usl_games, nasl.scrape_scores)
+        generic_load(soccer_db.nasl2_games, nasl.scrape_scores)
 
     def load_stats():
         from soccerdata.text import nasl
-        generic_load(soccer_db.usl_stats, nasl.process_stats)
+        generic_load(soccer_db.nasl2_stats, nasl.process_stats)
 
     print "Loading 2011 NASL games."
     load_scores()
     print "Loading 2011 NASL stats."
     load_stats()
 
+
+def load_usl():
+
+    """
+    Load usl stats and nasl stats.
+    """
+    from soccerdata.text import stats    
+
     print "Loading usl stats.\n"
-    generic_load(soccer_db.usl_stats, stats.process_usl_stats, delete=False)
-
-
+    generic_load(soccer_db.usl_stats, stats.process_usl_stats)
 
 
 def load_soccernet_league(code):
@@ -156,8 +166,6 @@ def load_soccernet_league(code):
     generic_load(soccer_db.soccernet_games, lambda: soccernet.scrape_all_league_games(code), delete=False)
     generic_load(soccer_db.soccernet_goals, lambda: soccernet.scrape_all_league_goals(code), delete=False)
     generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups(code), delete=False)
-
-
 
 
 def load_soccernet():
