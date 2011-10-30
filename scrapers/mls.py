@@ -3,12 +3,40 @@ import datetime
 from soccerdata.utils import scrape_soup, get_contents, pounds_to_kg, inches_to_cm
 from soccerdata.cache import data_cache, set_cache
 
+# Team ids to look through.
+team_ids = [
+    1207,
+    2079,
+    436,
+    454,
+    1326,
+    1903,
+    1897,
+    1230,
+    6226,
+    928,
+    399,
+    5513,
+    1581,
+    1899,
+    1131,
+    3500,
+    421,
+    1806,
+    2077,
+    1708
+    ]
+
+# Stat years to scrape.
+years = range(1996, 2012)
+
+
 
 
 def scrape_all_games_mlssoccer():
 
     l = []
-    years = range(1996, 2011)
+    years = range(1996, 2012)
     for year in years:
         l.extend(scrape_games(year))
 
@@ -57,12 +85,7 @@ def scrape_all_bios_mlssoccer():
 
 @data_cache
 def scrape_all_bio_stats_mlssoccer():
-    """
-    Scrape all players that are linked to by a stats link.
-    Should comprise almost all players who have played in MLS.
-    (Currently coaches are not linked, plus mlssoccer.com is
-    just not consistently good at stats.
-    """
+
     
     stats = []
     visited = set()
@@ -70,7 +93,7 @@ def scrape_all_bio_stats_mlssoccer():
         url = stat['url']
         if url and url not in visited:
             visited.add(url)
-            stats.append(scrape_player_stats(url))
+            stats.append(scrape_stats_from_bio(url))
 
     # Should I handle this better?
     # Maybe. not sure it's worth it.
@@ -165,8 +188,84 @@ def scrape_player_bio(url):
         'birthplace': birthplace,
         }
 
+@data_cache
+def scrape_stats_from_bio(url):
+    print 'working'
+    bio = scrape_player_bio(url)
+
+    soup = scrape_soup(url, sleep=2)
+
+    tables = soup.findAll("table", 'views-table')
+
+    career, season_stats = tables[0], tables[1:]
+
+    l = []
+
+    fields_set = set()
+
+    if not season_stats:
+        return {}
+
+    try:
+        keys = [get_contents(e).lower() for e in season_stats[0].findAll("th")] + ['season']
+    except:
+        import pdb; pdb.set_trace()
+
+    for t in season_stats:
+        season = get_contents(t.previousSibling.previousSibling).replace("Season Statistics", "").strip()
+
+        trs = t.findAll("tr")
+
+        for tr in trs:
+            fields = [get_contents(e) for e in tr.findAll("td")]
+            if len(fields) == 13:
+                if fields[0] in ('MLS Regular Season', 'MLS Playoffs'):
+                    t = tuple(fields + [season])
+                    fields_set.add(t)
+
+    for fields in sorted(fields_set):
+
+        d = dict(zip(keys, fields))
+
+        field_mapping = {
+                'gp': 'games_played',
+                'gs': 'games_started',
+                'g': 'goals',
+                'min': 'minutes',
+                'a': 'assists',
+                'sht': 'shots',
+                'sog': 'shots_on_goal',
+                'fc': 'fouls committed',
+                'off': 'offsides',
+                'y': 'yellow_cards',
+                'r': 'red_cards',
+                'club': 'team',
+                }
+
+        competition_dict = {
+            'MLS Regular Season': 'Major League Soccer',
+            'MLS Playoffs': 'MLS Cup Playoffs',
+            }
+
+        nd = {}
+        for k, v in d.items():
+            key = field_mapping.get(k, k)
+            nd[key] = v
+
+        nd['competition'] = competition_dict[nd['competition']]
+
+        if 'name' in bio:
+            nd['name'] = bio['name']
+            l.append(nd)
+        else:
+            pass
 
 
+
+
+    return l
+            
+        
 def scrape_games_first_pass(soup):
     """
     Generates date and game objects,
@@ -210,7 +309,6 @@ def scrape_games_first_pass(soup):
             try:
                 home_score, away_score = [int(e) for e in scores.split("-")]
             except:
-                print get_contents(row)
                 return {}
 
             return {
@@ -266,31 +364,6 @@ class MLSScoresProcessor(object):
 
 
 
-team_ids = [
-    1207,
-    2079,
-    436,
-    454,
-    1326,
-    1903,
-    1897,
-    1230,
-    6226,
-    928,
-    399,
-    5513,
-    1581,
-    1899,
-    1131,
-    3500,
-    421,
-    1806,
-    2077,
-    1708
-    ]
-
-years = range(1996, 2011)
-
 # Probably makes more sense to cross check against all-time.
 # http://www.mlssoccer.com/stats/alltime?page=118
 
@@ -323,6 +396,8 @@ def find_duplicates(lst):
 
     return new_l
 
+
+@data_cache
 def scrape_player_stats(url):
 
     def process_stat(tr):
@@ -437,25 +512,10 @@ def scrape_team_stats(url, season):
     return stats
 
 
-
-
-def scrape_reserve_game(url):
-    soup = scrape_soup(url)
-
-    ps = soup.findAll("p")
-    for p in ps:
-        formatter = lambda s: s.replace("<br />", "\n")
-        text = get_contents(p, formatter=formatter)
-        if text.startswith("Scoring Summary"):
-            import pdb; pdb.set_trace()
-
-    import pdb; pdb.set_trace()
-    x = 5
-
-    
-
-
-
 if __name__ == "__main__":
-    print scrape_all_games_mlssoccer()
+    #print scrape_stats_from_bio('http://www.mlssoccer.com/players/joseph-nane')
+    #print scrape_stats_from_bio('http://www.mlssoccer.com/players/freddy-adu')
+    print scrape_all_bio_stats_mlssoccer()
+    #print "\n".join([str(e) for e in main()])
+
     
