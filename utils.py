@@ -64,21 +64,12 @@ def dict_to_str(d):
 
 
 #def scrape_post(url, options_dict):
-def scrape_post():
+def scrape_post(url, options):
     # Scrape a post url.
     # This doesn't really make sense, but this is how
     # Mediotiempo does it.
 
-    url = 'http://www.mediotiempo.com/ajax/ajax_jornadas.php'
-
-    options_dict = {
-        'id_liga' :1,
-        'id_torneo':303,
-        'jornada':6,
-        }
-
-    options_string = dict_to_str(options_dict)
-
+    options_string = dict_to_str(options)
 
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', USER_AGENT)]
