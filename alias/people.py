@@ -3,6 +3,31 @@
 
 
 names = {
+    'Camilo': 'Camilo Sanvezzo',
+    'Mikael Yourassawski': 'Mikael Yourassawsky',
+    'Steven Vukovic': 'Stefan Vukovic',
+    'Santiago Primm': 'Santiago Prim',
+    'JeVaughn Watson': 'Je-Vaughn Watson',
+    'Marco Paulos': 'Marcos Paullo',
+    'Marcos Paulos': 'Marcos Paullo',
+    'Marco Paullo Peioto': 'Marco Paullo',
+    'Paulo Jr.': 'Paulo Araujo Jr.',
+    'Paulo Junior': 'Paulo Araujo Jr.',
+    'Paulo Araujo Jr': 'Paulo Araujo Jr.',
+    'Andi Iro': 'Andy Iro',
+    'Javan Toure': 'Javan Torre',
+    'Colin Martin': 'Collin Martin',
+    'Desan Rusmir': 'Dejan Rusmir',
+    'Ricky Balchan': 'Rich Balchan',
+    'Andy Gruenenbaum': 'Andy Gruenebaum',
+    'Quincy Amirikwa': 'Quincy Amarikwa',
+    'Macoumba Kandi': 'Macoumba Kandji',
+
+    'Victor Estupiñan': 'Víctor Estupiñán',
+    'Victor Estupinan': 'Víctor Estupiñán',
+    'Victor Estupiñán': 'Víctor Estupiñán',
+    
+    
     'Ryseheim Henderson': 'Ryshiem Henderson', #http://en.wikipedia.org/wiki/Ryshiem_Henderson
     'Welton': 'Welton Melo',
     'Hercules Gomez': 'Herculez Gomez',
@@ -132,8 +157,12 @@ names = {
     'Jean-Philippe Peguero': 'Jean Philippe Peguero',
     'Raimo De Vries': 'Raimo de Vries',
     'Chris Mcdonald': 'Chris McDonald',
-
     'Jan Van Bevern': 'Jan Van Beveren',
+    'Thomas W. Cahill': 'Thomas Cahill',
+    'Bora Milutinovic': 'Bora Milutinović',
+    'Kim Roentved': 'Kim Røntved',
+
+
 }
 
 

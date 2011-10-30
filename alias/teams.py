@@ -5,9 +5,13 @@ teams = {}
 
 mls_teams = {
     'NY Red Bulls': 'New York Red Bulls',
+    'Vancouver Whitecaps': 'Vancouver Whitecaps FC',
+    'SJ Earthquakes': 'San Jose Earthquakes',
+    'Sounders FC': 'Seattle Sounders',
+    'Sporting KC': 'Sporting Kansas City',
+    'NE Revolution': 'New England Revolution',
     'Salt Lake': 'Real Salt Lake',
     'Portland': 'Portland Timbers',
-    
     'Chicago': 'Chicago Fire',
     'Colorado': 'Colorado Rapids',
     'Columbus': 'Columbus Crew',
@@ -24,6 +28,7 @@ mls_teams = {
     'Seattle': 'Seattle Sounders',
     'Tampa Bay': 'Tampa Bay Mutiny',
     'Toronto': 'Toronto FC',
+    'Toronto F.C.': 'Toronto FC',
     'Metrostars': 'New York Red Bulls',
     'MetroStars': 'New York Red Bulls',
     'LA': 'Los Angeles Galaxy',
@@ -46,6 +51,12 @@ mls_teams = {
     'TB': 'Tampa Bay Mutiny',
     'MIA': 'Miami Fusion',
     'MET': 'New York Red Bulls',
+
+    'LA Galaxy': 'Los Angeles Galaxy',
+    'Connecticut Bi-Centennials': 'Connecticut Bicentennials',
+    'Hartford Bi-Centennials': 'Connecticut Bicentennials',
+    'Atlanta Apollos': 'Atlanta Chiefs',
+    
     }
 teams.update(mls_teams)
 
