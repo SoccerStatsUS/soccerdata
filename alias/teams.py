@@ -4,6 +4,10 @@
 teams = {}
 
 mls_teams = {
+    'Brooklyn Dodgers S.C.': 'Brooklyn Italians',
+    'San Francisco C.D. Mexico' : 'El Farolito Soccer Club',
+    
+
     'NY Red Bulls': 'New York Red Bulls',
     'Vancouver Whitecaps': 'Vancouver Whitecaps FC',
     'SJ Earthquakes': 'San Jose Earthquakes',

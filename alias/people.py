@@ -3,6 +3,13 @@
 
 
 names = {
+    'Talifour Diane': 'Taifour Diané',
+    'Jason Devos': 'Jason de Vos',
+    'Robbie Aristidemo': 'Robbie Aristodemo',
+    'Gabe Gervais': 'Gabriel Gervais',
+    
+
+
     'Camilo': 'Camilo Sanvezzo',
     'Mikael Yourassawski': 'Mikael Yourassawsky',
     'Steven Vukovic': 'Stefan Vukovic',
