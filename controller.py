@@ -17,9 +17,7 @@ soccer_db = mongo.soccer_db
 app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
 
-STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams', 'positions'
-
-
+STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams', 'positions', 'drafts', 'awards'
 
 
 # Issues to work on.
@@ -45,17 +43,17 @@ def dashboard():
         return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
 
     sources = [
-        'yaml',
         'mls',
         'mls_reserve',
-        'wiki',
         'nasl',
         'apsl',
         'usl',
         'nasl2',
+        'ncaa',
+        'yaml',
         'chris',
+        'wiki',
         'scaryice',
-
         'soccernet',
         'uslsoccer',
         'kicker',

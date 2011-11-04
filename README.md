@@ -1,6 +1,10 @@
 
 # Projects.
 
+mlssoccer missing players:
+1. Toni Stahl
+2. Jimmy Nielsen (presumably more GK's)
+
 # Become like demosphere, and have the data collected for you.
 
 # Fix name/player on stats.
