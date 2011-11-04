@@ -15,8 +15,12 @@ def generate():
     # Generate standings
     #generate_standings(soccer_db.games, soccer_db.standings)
     #generate_lineup_stats(soccer_db.mls_reserve_lineups.find())
-    stats = generate_stats(soccer_db.mls_reserve_goals.find(), soccer_db.mls_reserve_lineups.find())
-    generic_load(soccer_db.mls_reserve_stats, lambda: stats.values())
+    mls_reserve_stats = generate_stats(soccer_db.mls_reserve_goals.find(), soccer_db.mls_reserve_lineups.find())
+    generic_load(soccer_db.mls_reserve_stats, lambda: mls_reserve_stats.values())
+
+    world_cup_stats = generate_stats(soccer_db.fifa_goals.find(), soccer_db.fifa_lineups.find())
+    generic_load(soccer_db.fifa_stats, lambda: world_cup_stats.values())
+
 
     standings = generate_standings(soccer_db.mls_reserve_games.find())
     generic_load(soccer_db.mls_reserve_standings, lambda: standings.values())
@@ -117,7 +121,10 @@ def generate_stats(goals=[], lineups=[]):
             if lineup['on'] == 0:
                 add_item(t, 'games_started')
             if 'off' in lineup:
-                minutes = lineup['off'] - lineup['on']
+                try:
+                    minutes = lineup['off'] - lineup['on']
+                except:
+                    import pdb; pdb.set_trace()
                 add_item(t, 'minutes', minutes)
         
 

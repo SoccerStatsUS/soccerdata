@@ -5,6 +5,9 @@ DRAFTS_DIR = "/home/chris/www/soccerdata/data/drafts"
 import os
 import re
 
+from soccerdata.alias.teams import get_team
+from soccerdata.alias.people import get_name
+
 # This should probably be in utils.
 def remove_pairs(text, start, end):
     """
@@ -56,13 +59,24 @@ def process_draft(text, draft_name):
 
     def process_line(line):
         number, name, team = line.split('\t')
+
+        # Whoops!
+        if draft_type == 'superdraft' and year == '2010':
+            name, team = team, name
+
+        if 'superdraft' in draft_type:
+            draft_name = 'SuperDraft'
+        else:
+            draft_name = '%s Draft' % draft_type.title()
+        draft_name = "%s %s" % (year, draft_name)
+
         return {
-            'number': int(number),
-            'name': name.strip(),
-            'team': team.strip(),
-            'draft_name': '%s Draft' % draft_type.title(),
-            'year': int(year),
-            'league': 'Major League Soccer',
+            'position': int(number),
+            'text': get_name(name.strip()),
+            'team': get_team(team.strip()),
+            'draft': draft_name,
+            'competition': 'Major League Soccer',
+            #'source': 'Wikipedia',
             }
 
     return [process_line(line) for line in lines]

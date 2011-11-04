@@ -1,6 +1,6 @@
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
-from soccerdata.alias import get_team, get_bio
+from soccerdata.alias import get_team, get_name
 
 from collections import defaultdict
 
@@ -8,6 +8,8 @@ from collections import defaultdict
 
 def first_merge():
     merge_standings()
+    merge_drafts()
+    merge_awards()
     merge_positions()
     merge_bios()
     merge_stats()
@@ -20,20 +22,6 @@ def first_merge():
 def second_merge():
     merge_teams()
 
-def merge_goals():
-    soccer_db.goals.drop()
-    insert_rows(soccer_db.goals, soccer_db.mls_reserve_goals.find())
-
-
-def merge_standings():
-    soccer_db.standings.drop()
-    insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
-    insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
-
-def merge_positions():
-    soccer_db.positions.drop()
-    insert_rows(soccer_db.positions, soccer_db.chris_positions.find())
-
 
 def merge_teams():
     soccer_db.teams.drop()
@@ -42,11 +30,41 @@ def merge_teams():
 
 
 
+def merge_standings():
+    soccer_db.standings.drop()
+    insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
+    insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
+
+
+def merge_drafts():
+    soccer_db.drafts.drop()
+    insert_rows(soccer_db.drafts, soccer_db.chris_drafts.find())
+
+
+def merge_awards():
+    soccer_db.awards.drop()
+    insert_rows(soccer_db.awards, soccer_db.nasl_awards.find())
+    insert_rows(soccer_db.awards, soccer_db.mls_awards.find())
+    insert_rows(soccer_db.awards, soccer_db.ncaa_awards.find())
+    
+
+def merge_positions():
+    soccer_db.positions.drop()
+    insert_rows(soccer_db.positions, soccer_db.chris_positions.find())
+
+
+
+
 def merge_lineups():
     soccer_db.lineups.drop()
     insert_rows(soccer_db.lineups, soccer_db.mls_reserve_lineups.find())
 
 
+
+
+def merge_goals():
+    soccer_db.goals.drop()
+    insert_rows(soccer_db.goals, soccer_db.mls_reserve_goals.find())
 
 # Where to have this stuff?
 # Needs to be run.
@@ -91,7 +109,7 @@ def merge_games():
             game_dict[key] = d
 
         
-    for e in 'mls', 'scaryice', 'usl', 'apsl', : 
+    for e in 'mls', 'scaryice', 'usl', 'apsl', 'fifa': 
         c = '%s_games' % e
         coll = soccer_db[c]
         for e in coll.find():
@@ -102,13 +120,14 @@ def merge_games():
 
 
 
+
 def merge_bios():
     """
     Merge stats.
     """
 
     def update_bio(d):
-        name = get_bio(d['name'])
+        name = get_name(d['name'])
         d['name'] = name
         
         if name in bio_dict:
@@ -140,7 +159,7 @@ def merge_stats():
         if 'team' not in d:
             import pdb; pdb.set_trace()
         d['team'] = get_team(d['team'])
-        d['name'] = get_bio(d['name'])
+        d['name'] = get_name(d['name'])
         t = (d['name'], d['team'], d['competition'], d['season'])
         if t in stat_dict:
             orig = stat_dict[t]
@@ -163,6 +182,9 @@ def merge_stats():
         update_stat(e)
     for e in soccer_db.usl_stats.find():
         update_stat(e)
+    for e in soccer_db.fifa_stats.find():
+        update_stat(e)
+
 
     soccer_db.stats.drop()
     insert_rows(soccer_db.stats, stat_dict.values())

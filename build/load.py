@@ -13,11 +13,15 @@ def first_load():
 
     load_standings()
     load_teams()
+    load_drafts()
+
     load_mls_reserve()
     load_nasl2()
     load_apsl()
     load_mls()
     load_nasl()
+    load_ncaa()
+    load_world_cup()
     #load_asl()
     #load_usl()
     return
@@ -26,7 +30,7 @@ def first_load():
 
     # Scraped data
     load_soccernet()
-    load_fifa()
+
     load_kicker()
     #load_mediotiempo()
 
@@ -55,6 +59,14 @@ def load_teams():
     generic_load(soccer_db.yaml_teams, syaml.load_teams)
 
 
+def load_drafts():
+    from soccerdata.text import drafts
+    print "Loading drafts.\n"
+    generic_load(soccer_db.chris_drafts, drafts.load_drafts)
+
+
+
+
 
 def load_scaryice():
     # MLS lineup data 1996-2010
@@ -74,9 +86,22 @@ def load_nasl():
     Load stats from the old nasl and misl.
     """
     from soccerdata.text import stats
+    from soccerdata.text import awards
 
     print "Loading NASL stats.\n"
     generic_load(soccer_db.nasl_stats, stats.process_nasl_stats)
+
+    print "Loading NASL awards.\n"
+    generic_load(soccer_db.nasl_awards, awards.process_nasl_awards)
+
+
+def load_ncaa():
+    from soccerdata.text import awards
+
+    print "Loading NCAA awards.\n"
+    generic_load(soccer_db.ncaa_awards, awards.process_ncaa_awards)
+
+
 
 
 def load_apsl():
@@ -100,11 +125,12 @@ def load_mls():
     hand-compiled coach playing stats,
     and player bios.
     """
+    from soccerdata.text import awards
     from soccerdata.text import stats
     from soccerdata.scrapers import mls
 
-    # Why are we loading both?
-    #print "Loading MLSsoccer.com stats\n"
+    print "Loading MLS awards.\n"
+    generic_load(soccer_db.mls_awards, awards.process_mls_awards)
 
     print "Loading mls bio_stats.\n"
     generic_load(soccer_db.mls_stats, mls.scrape_all_bio_stats_mlssoccer)
@@ -176,10 +202,9 @@ def load_soccernet():
     load_soccernet_league('usa.1')
     load_soccernet_league('mex.1')
 
-def load_fifa():
+def load_world_cup():
     from soccerdata.scrapers import fifa
     generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
-    return
     generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
     generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
 

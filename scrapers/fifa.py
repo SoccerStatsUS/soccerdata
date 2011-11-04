@@ -6,8 +6,11 @@ import re
 
 from BeautifulSoup import BeautifulSoup
 
+from soccerdata.alias import get_team, get_name
 from soccerdata.utils import scrape_url, get_contents
 from soccerdata.cache import data_cache, set_cache
+
+
 
 # Map years to fifa id's.
 mapping = {
@@ -114,8 +117,7 @@ def scrape_world_cup_game(url):
     contents = soup.find("div", {"id": "mainContent" })
     
     teams = get_contents(contents.find("div", "bold large teams"))
-    home_team, away_team = teams.split("-")
-    
+    home_team, away_team = [get_team(e.strip(), 'FIFA World Cup') for e in teams.split("-")]
     score_string = get_contents(contents.find("div", "bold large result"))
 
     if 'a.e.t.' in score_string:
@@ -134,6 +136,13 @@ def scrape_world_cup_game(url):
     else:
         raise
 
+    city, stadium = [e.strip() for e in location.rsplit("/", 1)]
+
+    if stadium.endswith(city):
+        nlocation = stadium
+    else:
+        nlocation = "%s, %s" % (stadium, city)
+
     date = datetime.datetime.strptime(date_string.strip(), "%d %B %Y")
 
     return {
@@ -141,10 +150,10 @@ def scrape_world_cup_game(url):
         "away_team": unicode(away_team),
         'home_score': home_score,
         'away_score': away_score,
-        'competition': "World Cup",
-        'season': date.year,
+        'competition': "FIFA World Cup",
+        'season': unicode(date.year),
         "date": date,
-        "location": unicode(location),
+        "location": unicode(nlocation),
         "attendance": unicode(attendance),
         "url": url,
         }
@@ -180,19 +189,22 @@ def scrape_world_cup_goals(url):
 
     for s in goals:
         name, team, minute = goal_re.search(s.strip()).groups()
+        team = team.strip()
         l.append({
                 'season': game_data['season'],
                 'competition': game_data['competition'],
-                'player': name.strip().title(),
-                'team': team,
+                'goal': get_name(name.strip().title()),
+                'team': get_team(team, 'FIFA World Cup'),
                 'date': game_data['date'],
-                'minute': minute
+                'minute': int(minute),
+                'assists': [],
+                'source': url
                 })
 
     return l
     
 
-@set_cache
+@data_cache
 def scrape_world_cup_lineups(url):
     """
     Scrape lineups for a game.
@@ -223,35 +235,40 @@ def scrape_world_cup_lineups(url):
             else:
                 name = starter
                 off = 'end'
+                off = 90
 
             l.append({
-                    'player': process_name(name),
+                    'name': get_name(process_name(name)),
                     'on': 0,
-                    'off': off,
-                    'team': team,
+                    'off': int(off),
+                    'team': get_team(team, 'FIFA World Cup'),
                     'competition': game_data['competition'],
                     'season': game_data['season'],
                     'date': game_data['date'],
+                    'source': url
                     })
 
         for sub in subs:
+
             sub = get_contents(sub)
             m = re.search("(.*?)\(\+(\d+)'\)", sub)
             if m:
                 name, on = m.groups()
+                off = 90
             else:
                 name = sub
-                off = 'end' # fix this.
+                on = off = 0
 
             if m:
                 l.append({
-                        'player': process_name(name),
-                        'on': on,
+                        'name': process_name(name),
+                        'on': int(on),
                         'off': off,
-                        'team': team,
+                        'team': get_team(team, 'FIFA World Cup'),
                         'competition': game_data['competition'],
                         'season': game_data['season'],
                         'date': game_data['date'],
+                        'source': url
                         })
 
         return l
