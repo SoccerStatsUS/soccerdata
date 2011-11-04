@@ -1,7 +1,7 @@
 import datetime
 import re
 
-from soccerdata.alias.teams import get_team
+from soccerdata.alias import get_team, get_name
 
 POSITIONS_PATH = '/home/chris/www/soccerdata/data/transactions/td'
 
@@ -43,7 +43,7 @@ class PositionParser(object):
 
         return {
             'person': self.person,
-            'name': self.name,
+            'name': get_name(self.name),
             'team': self.team,
             'start': start,
             'end': end

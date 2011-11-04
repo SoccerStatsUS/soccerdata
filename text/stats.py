@@ -6,7 +6,6 @@
 
 import os
 
-from soccerdata.cache import data_cache
 
 DIR = '/home/chris/www/soccerdata/data/stats'
 
@@ -18,9 +17,8 @@ def process_mls_coach_stats():
     return process_stats("mls_coaches.csv", "Major League Soccer")
 
 def process_nasl_stats():
-    return process_stats("naslmisl.csv", format_name=False)
+    return process_stats("nasl.csv", format_name=False)
 
-#@data_cache
 def process_usl_stats():
     l = []
     l.extend(process_stats("usl1_19972005.csv", "USL First Division"))
@@ -51,6 +49,9 @@ def process_name(s):
     except:
         import pdb; pdb.set_trace()
     name = first + ' ' + last
+    if '*' in name:
+        import pdb; pdb.set_trace()
+    name = name.replace("*", "")
     return name.strip()
 
 
@@ -60,6 +61,9 @@ def process_stats(fn, competition=None, format_name=True):
     def preprocess_line(line):
         line = line.replace('\xa0', '')
         line = line.replace('\xc2', '')
+        
+        # Remove *'s from nasl stats.
+        line = line.replace("*", "")
         line = line.strip()
         return line
 
@@ -91,7 +95,6 @@ def process_stats(fn, competition=None, format_name=True):
 
 
         if format_name:
-            d['name'] = d['name'].replace("*", '')
             d['name'] = process_name(d['name'])
 
         if competition is not None:

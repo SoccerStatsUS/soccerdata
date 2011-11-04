@@ -13,7 +13,7 @@ if not os.path.exists(DIR):
 
 
 def process_standings():
-    p = os.path.join(DIR, "standings.csv")
+    p = os.path.join(DIR, "standings", "standings.csv")
     f = open(p)
     lines = f.read().split('\n')
 

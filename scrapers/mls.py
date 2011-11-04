@@ -244,7 +244,7 @@ def scrape_stats_from_bio(url):
 
         competition_dict = {
             'MLS Regular Season': 'Major League Soccer',
-            'MLS Playoffs': 'MLS Cup Playoffs',
+            'MLS Playoffs': 'Major League Soccer Playoffs',
             }
 
         nd = {}
