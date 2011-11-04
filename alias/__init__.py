@@ -1,2 +1,2 @@
 from teams import get_team
-from people import get_bio
+from people import get_name

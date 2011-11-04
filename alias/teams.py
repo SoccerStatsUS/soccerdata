@@ -6,16 +6,33 @@ teams = {}
 mls_teams = {
     'Brooklyn Dodgers S.C.': 'Brooklyn Italians',
     'San Francisco C.D. Mexico' : 'El Farolito Soccer Club',
-    
+    'Philadelphia Uhrik Truckers': 'Uhrik Truckers',
 
+
+    'Connecticut Bi-Centennials': 'Connecticut Bicentennials',
+    'Hartford Bi-Centennials': 'Connecticut Bicentennials',
+    'Atlanta Apollos': 'Atlanta Chiefs',
+
+
+    'C.D. Chivas USA': 'Chivas USA',
+    'Kansas City Wiz': 'Kansas City Wizards',
+    'Kansas City Wizards': 'Sporting Kansas City',
+    'LA Galaxy': 'Los Angeles Galaxy',
+    'NE Revolution': 'New England Revolution',
+    'Metrostars': 'New York Red Bulls',
+    'MetroStars': 'New York Red Bulls',
+    'New York/New Jersey MetroStars': 'New York Red Bulls',
     'NY Red Bulls': 'New York Red Bulls',
-    'Vancouver Whitecaps': 'Vancouver Whitecaps FC',
     'SJ Earthquakes': 'San Jose Earthquakes',
     'Sounders FC': 'Seattle Sounders',
     'Sporting KC': 'Sporting Kansas City',
-    'NE Revolution': 'New England Revolution',
-    'Salt Lake': 'Real Salt Lake',
-    'Portland': 'Portland Timbers',
+    'Toronto F.C.': 'Toronto FC',
+    'Vancouver Whitecaps': 'Vancouver Whitecaps FC',
+
+    'Red Bull New York': 'New York Red Bulls',
+    'F.C. Dallas': 'FC Dallas',
+    'Houston 1836': 'Houston Dynamo',
+
     'Chicago': 'Chicago Fire',
     'Colorado': 'Colorado Rapids',
     'Columbus': 'Columbus Crew',
@@ -23,21 +40,20 @@ mls_teams = {
     'Dallas': 'FC Dallas',
     'Houston': 'Houston Dynamo',
     'Kansas City': 'Kansas City Wizards',
-    'Los Angeles': 'Los Angeles Galaxy',
+    'Tampa Bay': 'Tampa Bay Mutiny',
+    'Toronto': 'Toronto FC',
     'Miami': 'Miami Fusion',
     'New England': 'New England Revolution',
     'New York': 'New York Red Bulls',
     'Philadelphia': 'Philadelphia Union',
     'San Jose': 'San Jose Earthquakes',
     'Seattle': 'Seattle Sounders',
-    'Tampa Bay': 'Tampa Bay Mutiny',
-    'Toronto': 'Toronto FC',
-    'Toronto F.C.': 'Toronto FC',
-    'Metrostars': 'New York Red Bulls',
-    'MetroStars': 'New York Red Bulls',
+    'Portland': 'Portland Timbers',
+    'Los Angeles': 'Los Angeles Galaxy',
+    'Salt Lake': 'Real Salt Lake',    
+
     'LA': 'Los Angeles Galaxy',
     'KC': 'Sporting Kansas City',
-    'Kansas City Wizards': 'Sporting Kansas City',
     'SJ': 'San Jose Earthquakes',
     'CLB': 'Columbus Crew',
     'NY': 'New York Red Bulls',
@@ -55,12 +71,6 @@ mls_teams = {
     'TB': 'Tampa Bay Mutiny',
     'MIA': 'Miami Fusion',
     'MET': 'New York Red Bulls',
-
-    'LA Galaxy': 'Los Angeles Galaxy',
-    'Connecticut Bi-Centennials': 'Connecticut Bicentennials',
-    'Hartford Bi-Centennials': 'Connecticut Bicentennials',
-    'Atlanta Apollos': 'Atlanta Chiefs',
-    
     }
 teams.update(mls_teams)
 
@@ -201,12 +211,100 @@ misc_teams = {
 
 teams.update(misc_teams)
 
-def get_team(name, league=None):
-    if league and (name, league) in teams:
-        name = teams[(name, league)]
-        return get_team(name, league)
+world_cup_teams = {
+    'ALG': 'Algeria',
+    'ANG': 'Angola',
+    'ARG': 'Argentina',
+    'AUS': 'Australia',
+    'AUT': 'Austria',
+    'BEL': 'Belgium',
+    'BOL': 'Bolivia',
+    'BRA': 'Brazil',
+    'BUL': 'Bulgaria',
+    'China PR': 'China',
+    'CHI': 'Chile',
+    'CIV': 'Ivory Coast',
+    'CMR': 'Cameroon',
+    'COL': 'Colombia',
+    'CRC': 'Costa Rica',
+    'CRO': 'Croatia',
+    'CUB': 'Cuba',
+    'CZE': 'Czech Republic',
+    'DEN': 'Denmark',
+    'ECU': 'Ecuador',
+    'ENG': 'England',
+    'EGY': 'Egypt',
+    'ESP': 'Spain',
+    'FRA': 'France',
+    'FRG': 'West Germany',
+    'German DR': 'East Germany',
+    'Germany FR': 'West Germany',
+    'GDR': 'East Germany',
+    'GER': 'Germany',
+    'GHA': 'Ghana',
+    'HAI': 'Haiti',
+    'HON': 'Honduras',
+    'HUN': 'Hungary',
+    'Ivory Coast': 'Côte d\'Ivoire',
+    'IRL': 'Ireland',
+    'IRN': 'Iran',
+    'IRQ': 'Iraq',
+    'ISR': 'Israel',
+    'ITA': 'Italy',
+    'JAM': 'Jamaica',
+    'JPN': 'Japan',
+    'Korea Republic': 'South Korea',
+    'KOR': 'South Korea',
+    'KSA': 'Saudi Arabia',
+    'KUW': 'Kuwait',
+    'MAR': 'Morocco',
+    'MEX': 'Mexico',
+    'NED': 'Netherlands',
+    'NIR': 'Northern Ireland',
+    'NGA': 'Nigeria',
+    'NOR': 'Norway',
+    'PAR': 'Paraguay',
+    'PER': 'Peru',
+    'POL': 'Poland',
+    'POR': 'Portugal',
+    'PRK': 'North Korea',
+    'ROU': 'Romania',
+    'Republic of Ireland': 'Ireland',
+    'RSA': 'South Africa',
+    'RUS': 'Russia',
+    'SCG': 'Serbia and Montenegro',
+    'SCO': 'Scotland',
+    'SEN': 'Senegal',
+    'SLV': 'Slovenia',
+    'SUI': 'Switzerland',
+    'SVN': 'Slovenia',
+    'SWE': 'Sweden',
+    'TCH': 'Czechoslovakia',
+    'TOG': 'Togo',
+    'TRI': 'Trinidad & Tobago',
+    'TUN': 'Tunisia',
+    'TUR': 'Turkey',
+    'UAE': 'United Arab Emirates',
+    'UKR': 'Ukraine',
+    'URS': 'Soviet Union',
+    'URU': 'Uruguay',
+    'USA': 'United States',
+    'WAL': 'Wales',
+    'YUG': 'Yugoslavia',
+    }
+
+for k, v in world_cup_teams.items():
+    t = (k, "FIFA World Cup")
+    teams[t] = v
+
+
+def get_team(name, competition=None):
+    if competition is not None and (name, competition) in teams:
+        name = teams[(name, competition)]
+        return get_team(name, competition)
 
     if name in teams:
         return get_team(teams[name])
+
     return name
     

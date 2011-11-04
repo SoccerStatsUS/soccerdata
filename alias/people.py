@@ -3,10 +3,56 @@
 
 
 names = {
+
+    # World Cup
+    'Pelé (Edson Arantes Do Nascimento)': 'Pelé',
+    'Pele': 'Pelé',
+    
+
+
+    # Nasl?
+    'Momcilo Gavric': 'Momcilo Gavrić',
+    'Jan Van Der Veen': 'Jan Van der Veen',
+    'Antonio De La Torre': 'Antonio de la Torre',
+    'Peter Baralic': 'Peter Baralić',
+
+
+
+    # US Minor leagues
     'Talifour Diane': 'Taifour Diané',
     'Jason Devos': 'Jason de Vos',
     'Robbie Aristidemo': 'Robbie Aristodemo',
     'Gabe Gervais': 'Gabriel Gervais',
+
+    'Paulinho': 'Paulinho McLaren',
+    'Danny ORourke': "Danny O'Rourke",
+    'CJ Brown': 'C.J. Brown',
+    'Ross Labauex': 'Ross LaBeaux',
+    'Perry Van Der Beck': 'Perry Van der Beck',
+    'Gerson Mayen': 'Gerson Mayén',
+    'Nelson Gonzalez': 'Nelson González',
+    'Jose Manuel Abundis': 'José Manuel Abundis',
+    'Daouda Kante': 'Daouda Kanté',
+    'AJ Jeffries': 'A.J. Jeffries',
+    'Fernando Ortiz-Solis': 'Fernando Ortiz Solis',
+    'Alex Pineda Chacon': 'Alex Pineda Chacón',
+    'Julio Cesar': 'Júlio César',
+    'Abé Matamoros': 'Ábe Matamoros',
+    'Abe Matamoros': 'Ábe Matamoros',
+    'Miguel Lopez': 'Miguel López',
+    'Ramon Nunez': 'Ramon Nuñez',
+    'Miguel Montano': 'Miguel Montaño',
+    'Martin Machon': 'Martín Machón',
+    'Sebastien Le Toux': 'Sébastien Le Toux',
+    'Jeferson': 'Jéferson',
+    'Baggio Husidic': 'Baggio Husidić',
+    'Milos Kocic': 'Miloš Kočić',
+    'Nico Muniz': 'Nico Muñiz',
+    'Cole Denormandie': 'Cole DeNormandie',
+    'Tino Nunez': 'Tino Nuñez',
+    'Juan Pablo Angel': 'Juan Pablo Ángel',
+    
+
     
 
 
@@ -34,6 +80,7 @@ names = {
     'Victor Estupinan': 'Víctor Estupiñán',
     'Victor Estupiñán': 'Víctor Estupiñán',
     
+    'Olukorede Aiyegbusi': 'Korede Aiyegbusi',
     
     'Ryseheim Henderson': 'Ryshiem Henderson', #http://en.wikipedia.org/wiki/Ryshiem_Henderson
     'Welton': 'Welton Melo',
@@ -99,7 +146,6 @@ names = {
     u'\xc1lvaro Sabor\xedo': 'Alvaro Saborio',
     'David De La Torre': 'David de la Torre',
     'Paul Decastro': 'Paul DeCastro',
-    'Fernando Ortiz Solis': 'Fernando Ortiz-Solis',
     u'Claudio Su\xe1rez': 'Claudio Suarez',
     u'Emilio Renter\xeda': 'Emilio Renteria',
     u'Diego Guti\xe9rrez': 'Diego Gutierrez',
@@ -173,12 +219,12 @@ names = {
 }
 
 
-def get_bio(name, league=None):
+def get_name(name, league=None):
     name = name.strip()
     if league and (name, league) in names:
         name = names[(name, league)]
-        return get_bio(name, league)
+        return get_name(name, league)
 
     if name in names:
-        return get_bio(names[name])
+        return get_name(names[name])
     return name
