@@ -4,13 +4,14 @@
 
 d = {
     'competition': 'Major League Soccer',
+    'team_data': ['MLS Cup', 'Supporters\' Shield'],
 
     'Supporters\' Shield': [
         (1996, 'Tampa Bay Mutiny'),
         (1997, 'D.C. United'),
         (1998, 'Los Angeles Galaxy'),
         (1999, 'D.C. United'),
-        (2000, 'Kansas City Wizards')
+        (2000, 'Kansas City Wizards'),
         (2001, 'Miami Fusion'),
         (2002, 'Los Angeles Galaxy'),
         (2003, 'Chicago Fire'),
@@ -22,7 +23,7 @@ d = {
         (2009, 'Columbus Crew'),
         (2010, 'Los Angeles Galaxy'),
         (2010, 'Los Angeles Galaxy'),
-        ]
+        ],
 
     'MLS Cup': [
         (1996, 'D.C. United'),
@@ -41,8 +42,6 @@ d = {
         (2009, 'Real Salt Lake'),
         (2010, 'Colorado Rapids'),
         ],
-        
-        
 
     'MVP': [
         (2010, 'David Ferreira'),
@@ -169,9 +168,6 @@ d = {
         (2009, 'Logan Pause'),
         (2010, 'Michael Lahoud'),
         ],
-
-
-
 
     'Best XI': [
 

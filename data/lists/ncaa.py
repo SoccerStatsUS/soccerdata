@@ -2,6 +2,7 @@
 
 d = {
     'competition': 'NCAA Division I',
+    'team_data': ['Champion'],
 
     'Hermann Trophy': [
         (2010, 'Darlington Nagbe'),

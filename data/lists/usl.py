@@ -1,6 +1,6 @@
 
 
-d = {
+usl_pro = {
     'competition': 'USL Pro',
 
     'MVP': [
@@ -59,7 +59,7 @@ d = {
 }    
 
 
-d = {
+usl2 = {
     'competition': 'USL Second Division',
     'MVP': [
         (2010, 'Lamar Neagle'),
@@ -105,6 +105,34 @@ d = {
                 'Jorge Herrera',
                 'Boyzzz Khumalo',
                 'Dustin Swineheart'
+                ]),
+
+        (2007, [
+                'Josh Wicks',
+                'Gabriel Gervais',
+                'David Hayes',
+                'Cameron Knowles',
+                'Stephen Armstrong',
+                'Andrew Gregor',
+                'Martin Nash',
+                'Zinho',
+                'Dan Antoniuk',
+                'Hamed Diallo',
+                'Sebastien Le Toux'
+                ]),
+
+        (2006, [
+                'Greg Sutton',
+                'Gabriel Gervais',
+                'Geordie Lyall',
+                'Mauricio Segovia',
+                'Andrew Gregor',
+                'Ben Hollingsworth',
+                'Luke Kreamalmeyer',
+                'Zinho',
+                'Joey Gjertsen',
+                'Romario',
+                'Cam Weaver',
                 ]),
 
         ],
