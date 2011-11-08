@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Need to reformat the text dramatically so I canclean up this code.
+
 # Need to redo a bunch of DC United Goal entries from around 2003 and 2004.  Format is Adu (34;85), which is not useable...
 
-# Load data from scrayice's lineup files.
+# Load data from scaryice's lineup files.
 
 # Lineup errors!
 
@@ -38,7 +40,14 @@ import os
 import re
 import sys
 
+from soccerdata.alias import get_name
 from soccerdata.cache import data_cache, set_cache
+
+
+get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
+
+LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/scaryice"
+
 
 # scaryice specific team mappings.
 team_map = {
@@ -64,17 +73,16 @@ team_map = {
 
     'Jacksonville': 'Jacksonville Cyclones',
     'Central Coast': 'Central Coast Roadrunners',
-    'Cleveland': '?Cleveland',
+    'Cleveland': 'Cleveland City Stars',
     'Tennessee': 'Tennessee',
-    'Atlanta': '?Atlanta',
-    'Carolina': '?Carolina',
-    'Charlotte': '?Charlotte',
-    'New Jersey': '?New Jersey?',
-    'Milwaukee': '?Milwaukee?'
+    'Atlanta': 'Atlanta Silverbacks',
+    'Carolina': 'Carolina Dynamo',
+    'Charlotte': 'Charlotte Eagles',
+    'New Jersey': 'New Jersey Stallions',
+    'Milwaukee': 'Milwaukee Rampage',
+    (2003, 'Milwaukee'): 'Milwaukee Wave United',
 }
     
-
-
 
 file_mapping = {
     "CHI": u'Chicago Fire',
@@ -148,7 +156,20 @@ def load_all_goals_scaryice():
         fn = "%s.csv" % key
         l.extend(get_goals(fn))
 
-    return l
+    lineups = make_lineup_dict()
+    return correct_goal_names(l, lineups)
+    
+
+def make_lineup_dict():
+    lineups = load_all_lineups_scaryice()
+    d = {}
+    for e in lineups:
+        key = (e['team'], e['date'])
+        if key in d:
+            d[key].append(e['name'])
+        else:
+            d[key] = [e['name']]
+    return d
 
 
 @set_cache
@@ -161,19 +182,8 @@ def load_all_lineups_scaryice():
 
 
 
-
-
-get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
-
-if os.path.exists("/home/chris/www/soccerdata/data/lineups/"):
-    LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/"
-else:
-    LINEUPS_DIR = "/Users/chrisedgemon/www/soccerdata/data/lineups/"
-
-
-
-
-
+# This needs to have a list of all lineups to work properly.
+# Key should be of the form (goal['team'], goal['date'])
 def correct_goal_names(goal_list, lineup_dict):
     """
     Try to map from Kirovski to Jovan Kirovski
@@ -214,6 +224,9 @@ def correct_goal_names(goal_list, lineup_dict):
 
 
     def get_match(key, first, last):
+        """
+        Uses a game key to try to retrieve a name from the lineup dict.
+        """
         if last in last_mapping:
             last = last_mapping[last]
 
@@ -225,7 +238,6 @@ def correct_goal_names(goal_list, lineup_dict):
         players = [e.strip() for e in players]
 
         matches = [e for e in players if e.startswith(first) and e.endswith(last)]
-
 
         if len(matches) == 0:
             print key
@@ -249,7 +261,7 @@ def correct_goal_names(goal_list, lineup_dict):
         key = (goal['team'], goal['date'])
         
         try:
-            name = goal['player']
+            name = goal['goal']
         except:
             import pdb; pdb.set_trace()
 
@@ -274,16 +286,11 @@ def correct_goal_names(goal_list, lineup_dict):
 
         d = goal.copy()
         if real_name:
-            d['player'] = real_name
+            d['goal'] = real_name
         l.append(d)
 
     return l
         
-            
-
-
-
-
 
 
 def get_scores(fn):
@@ -300,10 +307,17 @@ def get_scores(fn):
         items = line.strip().split("\t")
         match_type, date_string, location, opponent, score, result, _, goals, lineups = items
 
-        opponent = opponent.strip()
-        opponent = team_map.get(opponent, opponent)
-
         date = get_date(date_string)
+
+        opponent = opponent.strip()
+        t = (date.year, opponent)
+        if t in team_map:
+            print t
+            opponent = team_map.get(t)
+        else:
+            opponent = team_map.get(opponent, opponent)
+
+
 
         scores = [int(e) for e in score.split('-')]
 
@@ -361,6 +375,9 @@ def get_scores(fn):
 
 
 def get_goals(filename):
+    """
+    Return goal data from a given file.
+    """
     
 
     def process_line(line):
@@ -369,8 +386,7 @@ def get_goals(filename):
         if not pline:
             return []
 
-
-        items = line.strip().split("\t")
+        items = pline.split("\t")
         match_type, date_string, location, opponent, score, result, _, goals, lineups = items
         date = get_date(date_string)
 
@@ -379,9 +395,10 @@ def get_goals(filename):
 
             if not e:
                 return {}
-            # looks like this
-            # Kosecki (Razov) 76; Kotschau (unassisted) 87'
 
+            # Handle different goal formats.
+
+            # e.g. Kosecki (Razov) 76; Kotschau (unassisted) 87'
             match = re.search("(?P<name>.*?)\s+(\d+\s+)?\(.*?\)\s+(?P<minute>\d+)", e)
 
             # Handle "Preki (3)" et al.
@@ -394,6 +411,8 @@ def get_goals(filename):
             if not match:
                 match = re.search("(?P<name>.*?)\s+(\d+\s+)?(?P<minute>\d+)", e)
 
+
+            # Need to process these as goals, actually.
             non_goals = [
                 'Own Goal',
                 "o.g.",
@@ -406,19 +425,15 @@ def get_goals(filename):
                 if e.startswith(ng):
                     return {}
 
-
-            try:
-                player = match.groups()[0]
-                minute = int(match.groups()[2])
-            except:
-                import pdb; pdb.set_trace()
+            player = match.groups()[0]
+            minute = int(match.groups()[2])
 
             return {
                 'competition': get_competition(match_type),
                 'team': team_name,
                 'date': date,
                 'season': unicode(date.year),
-                'player': player.strip(),
+                'goal': player.strip(),
                 'minute': minute,
                 }
 
@@ -440,11 +455,12 @@ def get_goals(filename):
 def get_lineups(filename):
     print 'Loading %s' % filename
 
-    # 3-tuples 
-    # [("Jason Kreis", 0, 90), ("Ariel Graziani", 0, 62), ("Bobby Rhine", 62, 90) ...
 
     def preprocess_line(lineup_text):
+        """
+        """
 
+        # I should change these in the data.
         replacements = [
             ('Colin Clark (Herculez Gomez 46) Nicolas Hernandez (Roberto Brown 59)',
              'Colin Clark (Herculez Gomez 46), Nicolas Hernandez (Roberto Brown 59)'),
@@ -456,24 +472,22 @@ def get_lineups(filename):
             # Bad game 2002-8-28
             ('Francisco Gómez (Chris Brown, m.62)', 'Francisco Gómez (Chris Brown 62)'),
             ('Igor Simutenkov (Davy Arnaud, m.46)', 'Igor Simutenkov (Davy Arnaud 46)'),
-             #(y Darío Fabbro (Chris Brunt, m.36))
             ('Ronnie O’Brien (Bobby Rhine 80)', 'Ronnie O\'Brien (Bobby Rhine 80)'),
             ('Christian Gómez (John Wilson 61)', 'Christian Gomez (John Wilson 61)'), 
             ('Scott enedetti', 'Scott Benedetti'),
             ('Luciano Emilio (sent off 64 on bench) (Jaime Moreno 63)', 
              'Luciano Emilio (Jaime Moreno 63)'),
-             
+            ('Giuseppe Galderisi (subs: Nelson Vargas, Evans Wise)', 'Giuseppe Galderisi'),
+            ('Jason Kreis (Note: Lubos Kubik sent off 74 from bench)', 'Jason Kreis'),
             ]
 
         s = lineup_text.strip()
         for src, dst in replacements:
             s = s.replace(src, dst)
 
-        # Untested code.
-        s2 = s
-        """
-        # Meant to replace (John Wilson 80, Joe Vide 85) 
-        # with easier to parse (John Wilson 80)(Joe Video 85)
+            
+        # Replace (John Wilson 80, Joe Vide 85) 
+        # with easier to parse (John Wilson 80)(Joe Vide 85)
         paren_level = 0
         s2 = ''
         for char in s:
@@ -482,21 +496,19 @@ def get_lineups(filename):
             if char == ')':
                 paren_level -= 1
 
-            if paren_level > 0:
-                if char == ',':
-                    s2 += ')('
-                else:
-                    s2 += char
-        """
+            if paren_level > 0 and char == ',':
+                s2 += ')('
+            else:
+                s2 += char
+
+
         return s2
+
             
     def process_line(line):
         pline = preprocess_line(line)
-
         if not pline:
             return []
-
-
 
         def preprocess_lineups(lineups):
             r = [
@@ -517,61 +529,59 @@ def get_lineups(filename):
             return s
 
         def process_lineups(l):
-            lp = LineupProcessor(team_name, date, get_competition(match_type))
-            return lp.consume_rows(l)
+            return LineupProcessor(team_name, date, get_competition(match_type)).consume_rows(l)
                 
         items = pline.strip().split("\t")
-        match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+        try:
+            match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+        except:
+            import pdb; pdb.set_trace()
         date = get_date(date_string)
 
         plineups = preprocess_lineups(lineups)
-        slots = [e for e in plineups.strip().split(",") if e]
+        # Produce starter/sub groups
+        groups = [e for e in plineups.strip().split(",") if e]
 
-        return process_lineups(slots)
+        return process_lineups(groups)
         
 
-
     p = os.path.join(LINEUPS_DIR, filename)
-         
     team_name = file_mapping[filename.replace(".csv", '')]
 
     l = []
     for line in open(p).readlines():
         l.extend(process_line(line))
 
-    # What is this doing?
-    l2 = []
-    for e in l:
-        f = e.copy()
-        f['player'] = f['player'].strip()
-        l2.append(f)
-
-    return l2
+    return l
 
 
 
 class LineupProcessor(object):
+    """
+    Fancy class to process lineups.
+    """
+
+
     def __init__(self, team, date, competition):
         self.team = team
         self.date = date
         self.competition = competition
 
-        self.paren_depth = 0
         self.lineups = []
 
         self.previous_row = ""
 
     def consume_row(self, row):
         # This is an item that has been split by a comma.
+        # Fix the data!
         open_parens = row.count("(")
         closed_parens = row.count(")")
-        self.paren_depth = self.paren_depth + open_parens - closed_parens
 
         if open_parens == 0 and closed_parens == 0:
             return [{
-                'player': row,
+                'name': row.strip(),
                 'on': 0,
-                'off': 'end',
+                'off': 90,
                 }]
 
         if open_parens == 1 and closed_parens == 0:
@@ -589,65 +599,65 @@ class LineupProcessor(object):
         m = re.search("(.*?)\((.*?)(\d+'?)\s*\+?\??\)", text)
         if m:
             self.previous_row = ''
-            starter, sub, minute = m.groups()
+            starter, sub, minute = [e.strip() for e in m.groups()]
             return [{
-                    'player': starter,
+                    'name': starter,
                     'on': 0,
                     'off': minute,
                     },
                     {
-                    'player': sub,
+                    'name': sub,
                     'on': minute,
-                    'off': 'end',
+                    'off': 90,
                     }]
 
         m = re.search("(.*?)\((\d+)(.*?)\)", text)
         if m:
             self.previous_row = ''
-            starter, minute, sub = m.groups()
+            starter, minute, sub = [e.strip() for e in m.groups()]
             return [{
-                    'player': starter,
+                    'name': starter,
                     'on': 0,
                     'off': minute,
                     },
                     {
-                    'player': sub,
+                    'name': sub,
                     'on': minute,
-                    'off': 'end',
+                    'off': 90,
                     }]
 
         m = re.search("(.*?)\((.*?)\?\?\?\)", text)
         if m:
             self.previous_row = ''
-            starter, sub = m.groups()
+            starter, sub = [e.strip() for e in m.groups()]
             return [{
-                    'player': starter,
+                    'name': starter,
                     'on': 0,
                     'off': '?',
                     },
                     {
-                    'player': sub,
+                    'name': sub,
                     'on': '?',
-                    'off': 'end',
+                    'off': 90,
                     }]
 
         m = re.search("(.*?)\((.*?)(\d+'?)\+?\)\s*\((.*?)(\d+)\+?\)", text)
         if m:
-            starter, sub1, minute1, sub2, minute2 = m.groups()
+            starter, sub1, minute1, sub2, minute2 = [e.strip() for e in m.groups()]
             return [{
-                    'player': starter,
+                    'name': starter,
                     'on': 0,
                     'off': minute1,
                     },
                     {
-                    'player': sub1,
+                    'name': sub1,
                     'on': minute1,
                     'off': minute2,
                     },
                     {
-                    'player': sub2,
+                    'name': sub2,
                     'on': minute2,
-                    'off': 'end',
+                    'off': 90,
                     }]
 
 
@@ -663,6 +673,7 @@ class LineupProcessor(object):
         for row in rows:
             lineups = self.consume_row(row)
             for lineup in lineups:
+                lineup['name'] = get_name(lineup['name'].strip().replace(")(", ""))
                 lineup.update({
                     'team': self.team,
                     'date': self.date,
@@ -672,17 +683,8 @@ class LineupProcessor(object):
             l.extend(lineups)
         return l
                         
-                        
-
-
-
 
 # This stuff is overly complex.
-
-
-
-
-
 class Lineup(object):
     def __init__(self, line, file):
         fn = file.split(".")[0]
@@ -781,9 +783,6 @@ class Lineup(object):
         return s2
         
                 
-                
-
-
     def _get_game(self):
         number, date, home_away, opponent, score, result, record, scorers, lineup = self.line.split('\t')
         
