@@ -116,6 +116,8 @@ def scrape_all_stats_mlssoccer():
             season = unicode(year)
             url = 'http://www.mlssoccer.com/stats/season?season_year=%s&season_type=REG&team=%s' % (year, team_id)
             stats.extend(scrape_team_stats(url, season))
+            url2 = 'http://www.mlssoccer.com/stats/season?page=1&season_year=%s&season_type=REG&team=%s' % (year, team_id)
+            stats.extend(scrape_team_stats(url2, season))            
     return stats
 
 
@@ -454,7 +456,13 @@ def scrape_player_stats(url):
             
 def process_stat(tr, competition, season):
     fields = [get_contents(e) for e in tr.findAll("td")]
-    name, team, position, games_played, games_started, minutes, goals, assists, shots, shots_on_goal, _,_,_,_,_,_ = fields
+
+    if len(fields) == 16:
+        name, team, position, games_played, games_started, minutes, goals, assists, shots, shots_on_goal, _,_,_,_,_,_ = fields
+    elif len(fields) == 15:
+        name, team, position, games_played, games_started, minutes, goals, assists, shots, shots_on_goal, _,_,_,_,_ = fields                 
+    else:
+        import pdb; pdb.set_trace()
 
     a = tr.find("a")
     if a:
@@ -515,7 +523,7 @@ def scrape_team_stats(url, season):
 if __name__ == "__main__":
     #print scrape_stats_from_bio('http://www.mlssoccer.com/players/joseph-nane')
     #print scrape_stats_from_bio('http://www.mlssoccer.com/players/freddy-adu')
-    print scrape_all_bio_stats_mlssoccer()
+    print scrape_all_stats_mlssoccer()
     #print "\n".join([str(e) for e in main()])
 
     

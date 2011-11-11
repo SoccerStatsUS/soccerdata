@@ -181,7 +181,7 @@ def scrape_league_scoreboard(url):
             'away_team': away_team,
             'home_score': home_score,
             'away_score': away_score,
-            'url': url,
+            'url': url
             }
 
     return [process_game(game) for game in gameboxes]
@@ -445,6 +445,7 @@ def code_to_competition(league_code):
         'uefa.champions': 'Champions Leageu',
         'uefa.europa': 'Europa League',
         'conmebol.libertadores': 'Copa Libertadores',
+        'concacaf.champions': 'CONCACAF Champions League',
         'ger.1': 'Bundesliga',
         'ita.1': 'Serie A',
         'esp.1': 'La Liga',
@@ -466,8 +467,8 @@ if __name__ == "__main__":
         'arg.1',
         ]
 
-
-    print scrape_all_league_games('uefa.champions')
+    print scrape_all_league_games('concacaf.champions')
+    #print scrape_all_league_games('uefa.champions')
     #print scrape_all_league_games('usa.1')
     #print scrape_all_league_games('mex.1')
     #print scrape_bio()

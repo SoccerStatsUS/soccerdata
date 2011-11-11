@@ -35,7 +35,7 @@ mapping = {
     }
 
         
-
+@data_cache
 def scrape_all_world_cup_games():
     """
     Scrape game data for all world cups.
@@ -51,6 +51,8 @@ def scrape_all_world_cup_games():
         l.extend(scrape_scores_year(year))
     return l
 
+
+@data_cache
 def scrape_all_world_cup_goals():
     """
     Scrape goal data for all world cups.
@@ -68,6 +70,7 @@ def scrape_all_world_cup_goals():
     return l
 
 
+@data_cache
 def scrape_all_world_cup_lineups():
     """
     Scrape goal data for all world cups.
@@ -84,6 +87,8 @@ def scrape_all_world_cup_lineups():
         l.extend(scrape_lineups_year(year))
     return l
 
+
+@data_cache
 def scrape_world_cup_game_urls(year):
     """
     Get the game urls for a given year.
