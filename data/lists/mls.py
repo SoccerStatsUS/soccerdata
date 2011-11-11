@@ -6,6 +6,7 @@ d = {
     'competition': 'Major League Soccer',
     'team_data': ['MLS Cup', 'Supporters\' Shield'],
 
+
     'Supporters\' Shield': [
         (1996, 'Tampa Bay Mutiny'),
         (1997, 'D.C. United'),
@@ -22,7 +23,7 @@ d = {
         (2008, 'Columbus Crew'),
         (2009, 'Columbus Crew'),
         (2010, 'Los Angeles Galaxy'),
-        (2010, 'Los Angeles Galaxy'),
+        (2011, 'Los Angeles Galaxy'),
         ],
 
     'MLS Cup': [
@@ -95,6 +96,7 @@ d = {
         (2008, 'Chad Marshall'),
         (2009, 'Chad Marshall'),
         (2010, 'Jámison Olave'),
+        (2011, 'Omar Gonzalez'),
         ],
 
     'Rookie of the Year': [
@@ -113,6 +115,7 @@ d = {
         (2008, 'Sean Franklin'),
         (2009, 'Omar Gonzalez'),
         (2010, 'Andy Najar'),
+        (2011, 'C.J. Sapong'),
         ],
 
     'Newcomer of the Year': [
@@ -151,6 +154,7 @@ d = {
         (2008, 'Michael Parkhurst'),
         (2009, 'Steve Ralston'),
         (2010, 'Sebastien Le Toux'),
+        (2011, 'Sebastien Le Toux'),
         ],
 
     'Humanitarian of the Year': [
@@ -379,6 +383,20 @@ d = {
                 'David Ferreira',  
                 'Edson Buddle', 
                 'Chris Wondolowski', 
+                ]),
+
+        (2011, [
+                'Kasey Keller',
+                'Todd Dunivant',
+                'Omar Gonzalez',
+                'Jamison Olave',
+                'David Beckham',
+                'Brad Davis',
+                'Dwayne De Rosario',
+                'Landon Donovan',
+                'Brek Shea',
+                'Thierry Henry',
+                'Chris Wondolowski',
                 ]),
         ]
 }

@@ -3,7 +3,8 @@
 
 
 d = {
-    'competition': 'Hunt U.S. Open Cup',
+    'competition': 'American Cup',
+    'team_data': ['Champion'],
 
     'Champion': [
         (1885, 'Clark O.N.T.'),

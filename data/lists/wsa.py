@@ -1,6 +1,11 @@
 
 
 d = {
+
+    'competition': 'Western Soccer Alliance',
+    'team_data': ['Champion'],
+
+
     'MVP': [
         (1986, 'Paul Caligiuri'),
         (1987, 'Brent Goulet'),

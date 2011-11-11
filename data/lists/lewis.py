@@ -1,7 +1,8 @@
 
 
 d = {
-    'competiton': 'Lewis Cup',
+    'competition': 'Lewis Cup',
+    'team_data': 'Champion',
     
     'Champion': [
         (1925, 'Boston Wonder Workers'),

@@ -1,7 +1,6 @@
-
-
 usl_pro = {
     'competition': 'USL Pro',
+    'team_data': [],
 
     'MVP': [
         (2011, 'Yordany Alvarez'),
@@ -55,43 +54,103 @@ usl_pro = {
                 'Jason Yeisley'
                 ]),
         ],
-                
-}    
 
 
-usl2 = {
-    'competition': 'USL Second Division',
+}
+
+
+usl_1 = {
+    'competition': 'USL First Division',
+    'team_data': [],
+
     'MVP': [
-        (2010, 'Lamar Neagle'),
-        (2009, 'Jamie Watson'),
-        (2008, 'Dustin Swineheart'),
-        ],
+        (1997, 'Doug Miller'),
+        (1998, 'Mark Baena'),
+        (1999, 'John Swallen'),
+        (2000, 'Digital Takawira'),
+        (2001, 'Paul Conway'),        
+        (2002, 'Leighton O\'Brien'),
+        (2003, 'Thiago Martins'),
+        (2004, 'Greg Sutton'),
+        (2005, 'Jason Jordan'),
+        (2006, 'Greg Sutton'),
+        (2007, 'Sebastien Le Toux'),
+        (2008, 'Jonathan Steele'),
+        (2009, 'Cristian Arrieta'),
+        (2010, 'Ryan Pore'),
+         ],
 
     'Rookie of the Year': [
-        (2010, 'Jeremy Deighton'),
-        (2009, 'Ty Shipaline'),
-        (2008, 'Stanley Nyazamba'),
+        (1997, 'Stern John'),
+        (1998, 'Mike Burke'),
+        (1999, 'Greg Simmonds'),
+        (2000, 'Greg Howes'),
+        (2001, 'Robbie Aristidemo'),
+        (2002, 'Niki Budalic'),
+        (2003, 'David Testo'),
+        (2004, 'Alan Gordon'),
+        (2005, 'Dan Kennedy'),
+        (2006, 'Cam Weaver'),
+        (2007, 'Jay Needham'),
+        (2008, 'Osvaldo Alonso'),
+        (2009, 'Marcus Haber'),
+        (2010, 'Maxwell Griffin'),
         ],
 
     'Coach of the Year': [
-        (2010, 'Mike Anhaeuser'),
-        (2009, 'David Irving'),
-        (2008, 'Mark Steffans'),
+        (1997, 'Bob Lilleo'),
+        (1998, 'Pat Ercoli'),
+        (1999, 'Paul Riley'),
+        (2000, 'Neil Megson'),
+        (2001, 'Dale Mitchell'),
+        (2002, 'Brian Schmetzer'),
+        (2003, 'Bob Lilley'),
+        (2004, 'Bobby Howe'),
+        (2005, 'Nick DeSantis'),
+        (2006, 'Mike Anheuser'),
+        (2007, 'Gavin Wilkinson'),
+        (2008, 'Colin Clarke'),
+        (2009, 'Gavin Wilkinson'),
         ],
 
     'Defender of the Year': [
-        (2010, 'Shintaro Harada'),
-        (2009, 'Yomby William'),
-        (2008, 'Mark Schulte'),
+        (1998, 'Scott Schweitzer'),
+        (1999, 'Scott Schweitzer'),
+        (2000, 'Scott Cannon'),
+        (2001, 'Rick Titus'),
+        (2002, 'Mark Watson'),
+        (2003, 'Gabe Gervais'),
+        (2004, 'Gabe Gervais'),
+        (2005, 'Taylor Graham'),
+        (2006, 'Gabriel Gervais'),
+        (2007, 'David Hayes'),
+        (2008, 'Cristian Arrieta'),
+        (2009, 'Cristian Arrieta'),
+        (2010, 'Greg Janicki'),
         ],
 
     'Goalkeeper of the Year': [
-        (2010, 'Hunter Gilstrap'),
-        (2009, 'Ronnie Pascale'),
-        (2008, 'Terry Boss'),
+        (1997, 'Dusty Hudock'),
+        (1998, 'Pat Onstad'),
+        (1999, 'John Swallen'),
+        (2000, 'Scott Vallow'),
+        (2001, 'Jon Busch'),
+        (2002, 'Dusty Hudock'),
+        (2003, 'Greg Sutton'),
+        (2004, 'Greg Sutton'),
+        (2005, 'Greg Sutton'),
+        (2006, 'Greg Sutton'),
+        (2007, 'Josh Wicks'),
+        (2008, 'Bill Gaudette'),
+        (2009, 'Steve Cronin'),
+        (2010, 'Jay Nolly'),
         ],
 
-    
+    'Executive of the Year': [
+        (2005, 'Paul Sterbenz'),
+        (2006, 'Matthew Ford'),
+        ],
+
     'All-League': [
         (2008, [
                 'Terry Boss',
@@ -136,5 +195,230 @@ usl2 = {
                 ]),
 
         ],
+        
+        
 }
                 
+
+usl_2 = {
+    'competition': 'USL Second Division',
+    'team_data': [],
+
+    'MVP': [
+        (1997, 'Orett Prendergast'),
+        (1998, 'Luis Orellana'),
+        (1999, 'Luis Orellana'),
+        (2000, 'Julio Cesar Dos Santos'),
+        (2001, 'Fadi Afash'),
+        (2002, 'Julio Cesar Dos Santos'),
+        (2003, 'Rob Jachym'),
+        (2004, 'Jacob Coggins'),
+        (2005, 'Jacob Coggins'),
+        (2006, 'Robert Ssejemba'),
+        (2007, 'Mike Burke'),
+        (2008, 'Dustin Swinehart'),
+        (2009, 'Jamie Watson'),
+        (2010, 'Lamar Neagle'),
+        ],
+
+
+    'Rookie of the Year': [
+        (1997, 'Gabe Eastman'),
+        (1998, 'Michael Butler'),
+        (1999, 'Brandon Hearron'),
+        (2000, 'Fadi Afash'),
+        (2001, 'Manuel Brazil'),
+        (2002, 'Carlos Sousa'),
+        (2003, 'Anthony Bussard'),
+        (2004, 'Said Ali'),
+        (2005, 'Chad Severs'),
+        (2006, 'Nowaf Jaman'),
+        (2007, 'Stephen Astwood'),
+        (2008, 'Stanley Nyazamba'),
+        (2009, 'Ty Shipalane'),
+        (2010, 'Jeremy Deighton'),        
+        ],
+
+
+
+
+
+    'Defender of the Year': [
+        (1997, 'Omid Namizi'),
+        (1998, 'Lovelace Ackah'),
+        (1999, 'Toye Oshoniyi'),
+        (2000, 'Adolfo Ovalle'),
+        (2001, 'Luciano Faccilongo'),
+        (2002, 'Steve Danbusky'),
+        (2003, 'David Palmer'),
+        (2004, 'Tim Karalexis'),
+        (2005, 'Josh Rife'),
+        (2006, 'Gary Sullivan'),
+        (2007, 'Mark Schulte'),
+        (2008, 'Mark Schulte'),
+        (2009, 'Yomby William'),
+        (2010, 'Shintaro Harada'),
+        ],
+
+
+    'Goalkeeper of the Year': [
+        (2008, 'Terry Boss'),
+        (2009, 'Ronnie Pascale'),
+        (2010, 'Hunter Gilstrap'),
+        ],
+
+    'Coach of the Year': [
+        (1997, 'Tom Simpson'),
+        (1998, 'Mate Kozul'),
+        (1999, 'Paul Mylan'),
+        (2000, 'Robert McCourt'),
+        (2001, 'Steve Nicol'),
+        (2002, 'Chris Agnello'),
+        (2003, 'Joe Brown'),
+        (2004, 'Mark Steffens'),
+        (2005, 'Bill Becher'),
+        (2006, 'Jon Pickup'),
+        (2007, 'Martin Rennie'),
+        (2008, 'Mark Steffans'),
+        (2009, 'David Irving'),
+        (2010, 'Mike Anhaeuser'),
+        ],
+
+    'Organization of the Year': [
+        (2005, 'Harrisburg City Islanders'),
+        (2006, 'Richmond Kickers'),
+         ],
+
+    'Best XI': [
+        (1999, [
+                'Christopher Lewis',
+                'Toye Oshoniyi',
+                'Ian Hennessey',
+                'Paul Kelly',
+                'Joel Ogbunamiri',
+                'Ryan Leib',
+                'Harold Calvo',
+                'Eric Puls',
+                'Luis Orellana',
+                'Rob Jachym',
+                'Ryan Walker',
+                ]),
+
+        (2007, [
+                'Ronnie Pascale',
+                'Nelson Akwari',
+                'Mark Schulte',
+                'Jay Willis',
+                'Mike Burke',
+                'Matthew Mbuta',
+                'Adam Moffat',
+                'Matt Watson',
+                'Stephen Astwood',
+                'Gary Brooks',
+                'Jacob Coggins',
+                ]),
+       
+
+        (2008, [
+                'Terry Boss',
+                'Brady Bryant',
+                'Steve Shak',
+                'Sascha Gorres',
+                'Mark Schulte',
+                'Floyd Franks',
+                'Shintaro Harada',
+                'Jorge Herrera',
+                'Boyzz Khumalo',
+                'Dustin Swinehart',
+                ]),
+
+        (2009, [
+                'Ronnie Pascale',
+                'Dustin Bixler',
+                'John Borrajo',
+                'Shintaro Harada',
+                'Yomby William',
+                'Tiyi Shipalane',
+                'Kenny Bundy',
+                'Mike Burke',
+                'Jorge Herrera',
+                'Matthew Delicate',
+                'Jamie Watson',
+                ]),
+        
+        ],
+
+}
+
+usl_pdl = {
+    'competition': 'USL Premier Developmental League',
+    'MVP': [
+        (1997, 'Lester Felicia'),
+        (1998, 'Rodrigo Costa'),
+        (1999, 'Fabio Eidenwein'),
+        (2000, 'Fernando Salazar'),
+        (2002, 'Tomas Boltnar'),
+        (2003, 'Tomas Boltnar'),
+        (2004, 'Ruben Mingo'),
+        (2005, 'Daniel Frias'),
+        (2006, 'Frederico Moojen'),
+        (2007, 'Pablo Campos'),
+        (2008, 'Junior Garcia'),
+        (2009, 'Aaron Wheeler'),
+        (2010, 'Brent Richards'),
+        (2011, 'Milton Blanco'),
+        
+        ],
+    'Rookie of the Year': [
+        (1997, 'Rodrigo Costa'),
+        (1998, 'Brian Ching'),
+        (1999, 'David Morris'),
+        (2002, 'Tomas Boltnar'),
+        (2003, 'Eric Vasquez'),
+        (2004, 'Justin Moose'),
+        (2010, 'Brent Richards'),
+        (2011, 'Jake Keegan'),
+        ],
+
+    'Coach of the Year': [
+        (1997, 'Steve Burns'),
+        (1998, 'Peter Fuller'),
+        (1999, 'Tony Vandermeer'),
+        (2002, 'Laurie Calloway'),
+        (2003, 'Kenny Farrell'),
+        (2004, 'Dan Christian'),
+        (2005, 'Methembe Ndlovu'),
+        (2006, 'Joe Brown'),
+        (2007, 'John Hall'),
+        (2008, 'Wolfgang Sunholz'),
+        (2009, 'Casey Mann'),
+        (2010, 'Jim Rilatt'),
+        (2011, 'Gary Parsons'),
+        ],
+
+    'U-19 Player of the Year': [
+        (2004, 'Brett Hite'),
+        (2005, 'Brett Hite'),
+        (2006, 'P.J. Wilson'),
+        (2007, 'Evan Newton'),
+        (2008, 'Felix Garcia'),
+        (2009, 'Christian Ibeagha'),
+        ],
+
+    'Defender of the Year': [
+        (1997, 'Craig Demmin'),
+        (1998, 'Dave Adams'),
+        (1999, 'Mark Schulte'),
+        (2002, 'Denny Clanton'),
+        (2003, 'Jose Luis Delgadillo'),
+        (2004, 'John Thompson'),
+        (2005, 'Kevin Taylor'),
+        (2006, 'Osei Telesford'),
+        (2007, 'David Horst'),
+        (2008, 'Darrius Barnes'),
+        (2009, 'Christian Ibeagha'),
+        (2010, 'Joe Tait'),
+        (2011, 'Stewart Givens'),
+        ],
+
+}

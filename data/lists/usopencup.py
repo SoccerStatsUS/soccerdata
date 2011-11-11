@@ -3,7 +3,8 @@
 
 
 d = {
-    'competition': 'Hunt U.S. Open Cup',
+    'competition': 'Lamar Hunt U.S. Open Cup',
+    'team_data': ['Champion'],
 
     'Champion': [
         (2011, 'Seattle Sounders'),
@@ -67,9 +68,9 @@ d = {
         (1953, 'Chicago Falcons'),
         (1952, 'Harmarville Hurricanes'),
         (1951, 'German Hungarian'),
-        (1950, 'St. Louis Simpkins-Ford')
+        (1950, 'St. Louis Simpkins-Ford'),
         (1949, 'Morgan Strasser'),
-        (1948, 'St. Louis Simpkins-Ford')        
+        (1948, 'St. Louis Simpkins-Ford') ,       
         (1947, 'Ponta Delgada'),
         (1946, 'Chicago Viking'),
         (1945, 'Brooklhattan'),
