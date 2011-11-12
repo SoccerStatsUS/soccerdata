@@ -10,7 +10,13 @@ def process_awards(d):
     """
     l = []
     competition = d.pop('competition')
-    team_data = d.pop('team_data')
+
+    if 'team_data' in d:
+        team_data = d.pop('team_data')
+    else:
+        team_data = []
+        print d
+
     for award, v in d.items():
         if award in team_data:
             model = 'Team'
@@ -28,6 +34,7 @@ def process_awards(d):
                 
             if type(item) == list:
                 for e in item:
+                    e = e.strip()
                     if model == 'Bio':
                         e = get_name(e)
                     else:
@@ -53,11 +60,51 @@ def process_mls_awards():
     from soccerdata.data.lists.mls import d
     return process_awards(d)
 
+def process_wsa_awards():
+    from soccerdata.data.lists.wsa import d
+    return process_awards(d)
+
+def process_american_cup_awards():
+    from soccerdata.data.lists.americancup import d
+    return process_awards(d)
+
+def process_us_open_cup_awards():
+    from soccerdata.data.lists.usopencup import d
+    return process_awards(d)
+
+
+def process_lewis_cup_awards():
+    from soccerdata.data.lists.lewis import d
+    return process_awards(d)
+
+def process_asl2_awards():
+    from soccerdata.data.lists.asl import d
+    return process_awards(d)
+
+
 def process_ncaa_awards():
     from soccerdata.data.lists.ncaa import d
+    return process_awards(d)
+
+
+def process_usl_awards():
+    from soccerdata.data.lists import usl, usisl
+    l = []
+    l.extend(process_awards(usisl.usisl))
+    l.extend(process_awards(usisl.usisl_pro))
+    l.extend(process_awards(usisl.usisl_premier))
+    l.extend(process_awards(usisl.usisl_select))
+
+    l.extend(process_awards(usl.usl_pro))
+    l.extend(process_awards(usl.usl_pdl))
+    l.extend(process_awards(usl.usl_2))
+    return l
+
+def process_world_cup_awards():
+    from soccerdata.data.lists.world_cup import d
     return process_awards(d)
     
 
 
 if __name__ == "__main__":
-    print process_nasl()
+    print process_world_cup_awards()

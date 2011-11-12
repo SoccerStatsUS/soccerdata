@@ -3,7 +3,7 @@ import datetime
 import os
 import re
 
-from soccerdata.alias.teams import get_team
+from soccerdata.alias import get_team, get_name
 from soccerdata.cache import data_cache
 
 SCORES_PATH = '/home/chris/www/soccerdata/data/scores/reserve.txt'
@@ -22,6 +22,8 @@ def process_scores():
         row = preprocess(row)
 
         fields = row.split('\t')
+        if len(fields) < 3:
+            print fields
         if fields[2] in ('PPD', 'PPD.', ''):
             continue
 
@@ -45,7 +47,7 @@ def process_scores():
                 'season': '2011',
                 'date': date,
                 'location': location,
-                'source': url,
+                #'source': url,
                 'home_team': "%s Reserves" % home_team,
                 'away_team': "%s Reserves" % away_team,
                 'home_score': home_score,
@@ -87,9 +89,9 @@ def process_goals():
                 'date': date,
                 'minute': minute,
                 'team': "%s Reserves" % team,
-                'goal': other[0].strip(),
+                'goal': get_name(other[0].strip()),
                 'type': goal_type,
-                'assists': [e.strip() for e in assists],
+                'assists': [get_name(e.strip()) for e in assists],
                 })
                 
                     
@@ -108,7 +110,7 @@ def process_lineup_string(s, date, team):
                 import pdb; pdb.set_trace()
             
             lineups.append({
-                    'name': e.strip(),
+                    'name': get_name(e.strip()),
                     'on': 0,
                     'date': date,
                     'team': team,
@@ -119,7 +121,7 @@ def process_lineup_string(s, date, team):
                 import pdb; pdb.set_trace()
             on = int(m.groups()[1])
             lineups.append({
-                    'name': name,
+                    'name': get_name(name),
                     'on': on,
                     'date': date,
                     'team': team
@@ -174,8 +176,8 @@ def process_lineups():
 
 
 if __name__ == "__main__":
-    #print process_scores()
+    print process_scores()
     #print process_goals()
-    print process_lineups()
+    #print process_lineups()
 
 

@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+
+# Clean up the drafts so that we can basically remove this. This is really unnecessary.
+
 DRAFTS_DIR = "/home/chris/www/soccerdata/data/drafts"
 
 import os
