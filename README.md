@@ -4,6 +4,9 @@
 mlssoccer missing players:
 1. Toni Stahl
 2. Jimmy Nielsen (presumably more GK's)
+3. Mamadou Diallo
+4. Jonathan Bornstein
+5. Wade Barrett
 
 # Become like demosphere, and have the data collected for you.
 
