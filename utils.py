@@ -131,6 +131,10 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5):
     data = data.replace("</scr'+'ipt>", "</script>")
     data = data.replace("</SCRI' + 'PT>", "</SCRIPT>")
     data = data.replace("</scri'+'pt>", "</script>")
+    data = data.replace('"RowHeader""', '"RowHeader"')
+    data = data.replace("<meta content=  </div>", "<meta></div>")
+    data = data.replace("<meta charset=  </div>", "<meta></div>")
+    data = data.replace("<p style=  </div>", "<p></div>")
 
     # Missing quotation mark. (http://soccernet.espn.go.com/match?id=331193&cc=5901)
     data = data.replace('href=http', 'href="http')
