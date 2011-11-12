@@ -4,9 +4,16 @@
 teams = {}
 
 mls_teams = {
+
+    'LA Blues': 'Los Angeles Blues',
+    'Antigua Barricudas FC': 'Antigua Barracuda',
+    'Dayton Dutch Lions FC': 'Dayton Dutch Lions',
+
     'Brooklyn Dodgers S.C.': 'Brooklyn Italians',
     'San Francisco C.D. Mexico' : 'El Farolito Soccer Club',
     'Philadelphia Uhrik Truckers': 'Uhrik Truckers',
+
+
 
 
     'Connecticut Bi-Centennials': 'Connecticut Bicentennials',
@@ -263,6 +270,7 @@ world_cup_teams = {
     'NIR': 'Northern Ireland',
     'NGA': 'Nigeria',
     'NOR': 'Norway',
+    'NZL': 'New Zealand',
     'PAR': 'Paraguay',
     'PER': 'Peru',
     'POL': 'Poland',
