@@ -21,9 +21,15 @@ def generate():
     world_cup_stats = generate_stats(soccer_db.fifa_goals.find(), soccer_db.fifa_lineups.find())
     generic_load(soccer_db.fifa_stats, lambda: world_cup_stats.values())
 
-
     standings = generate_standings(soccer_db.mls_reserve_games.find())
     generic_load(soccer_db.mls_reserve_standings, lambda: standings.values())
+
+    standings = generate_standings(soccer_db.usa_games.find())
+    generic_load(soccer_db.usa_standings, lambda: standings.values())
+
+    usa_stats = generate_stats(soccer_db.usa_goals.find(), soccer_db.usa_lineups.find())
+    generic_load(soccer_db.usa_stats, lambda: usa_stats.values())
+
 
     
 
@@ -116,16 +122,19 @@ def generate_stats(goals=[], lineups=[]):
 
     for lineup in lineups:
         t = make_stat_tuple(lineup['name'], lineup)
-        add_item(t, 'games_played')
-        if 'on' in lineup:
+
+        # Empty lineup 
+        if lineup['on'] == 0 and lineup['off'] == 0:
+            pass
+        else:
             if lineup['on'] == 0:
                 add_item(t, 'games_started')
-            if 'off' in lineup:
-                try:
-                    minutes = lineup['off'] - lineup['on']
-                except:
-                    import pdb; pdb.set_trace()
+            add_item(t, 'games_played')
+            try:
+                minutes = lineup['off'] - lineup['on']
                 add_item(t, 'minutes', minutes)
+            except TypeError:
+                print lineup
         
 
     return sd

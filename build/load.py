@@ -11,27 +11,27 @@ def first_load():
     Load all data.
     """
 
+    # Base data.
     load_standings()
     load_teams()
     load_drafts()
 
-    load_mls_reserve()
-    load_nasl2()
+    # Scores, stats.
+    load_asl()
+    load_nasl()
     load_apsl()
     load_mls()
-    load_nasl()
-    load_ncaa()
+    load_partial()
+    load_mls_reserve()
+    load_usl()
+    load_nasl2()
+    load_usa()
     load_world_cup()
-    #load_asl()
-    #load_usl()
-    return
-    load_scaryice()
-    return
+    load_ncaa()
 
     # Scraped data
-    load_soccernet()
-
-    load_kicker()
+    #load_soccernet()
+    #load_kicker()
     #load_mediotiempo()
 
 
@@ -56,7 +56,7 @@ def load_standings():
 def load_teams():
     from soccerdata.text import syaml
     print "Loading teams.\n"
-    generic_load(soccer_db.yaml_teams, syaml.load_teams)
+    generic_load(soccer_db.chris_teams, syaml.load_teams)
 
 
 def load_drafts():
@@ -65,20 +65,24 @@ def load_drafts():
     generic_load(soccer_db.chris_drafts, drafts.load_drafts)
 
 
+def load_partial():
+    from soccerdata.text import partial
+    print "Loading partial stats.\n"
+    generic_load(soccer_db.partial_stats, partial.process_partial_stats)
 
-
-
-def load_scaryice():
-    # MLS lineup data 1996-2010
-    print "Loading scaryice score data.\n"
-    generic_load(soccer_db.scaryice_games, lineups.load_all_games_scaryice)
-    return
-
-    print "Loading scaryice goal data.\n"
-    generic_load(soccer_db.scaryice_goals, lineups.load_all_goals_scaryice)
     
-    print "Loading scaryice lineup data.\n"
-    generic_load(soccer_db.scaryice_lineups, lineups.load_all_lineups_scaryice)
+def load_asl():
+    from soccerdata.text import awards
+    from soccerdata.text import asl
+
+    print "Loading ASL awards.\n"
+    generic_load(soccer_db.asl_awards, awards.process_american_cup_awards)
+    generic_load(soccer_db.asl_awards, awards.process_us_open_cup_awards, delete=False)
+    generic_load(soccer_db.asl_awards, awards.process_asl2_awards, delete=False)
+    generic_load(soccer_db.asl_awards, awards.process_lewis_cup_awards, delete=False)
+
+    print "Loading ASL games.\n"
+    generic_load(soccer_db.asl_games, asl.process_games)
 
 
 def load_nasl():
@@ -87,6 +91,7 @@ def load_nasl():
     """
     from soccerdata.text import stats
     from soccerdata.text import awards
+    from soccerdata.text import nasl
 
     print "Loading NASL stats.\n"
     generic_load(soccer_db.nasl_stats, stats.process_nasl_stats)
@@ -94,23 +99,23 @@ def load_nasl():
     print "Loading NASL awards.\n"
     generic_load(soccer_db.nasl_awards, awards.process_nasl_awards)
 
-
-def load_ncaa():
-    from soccerdata.text import awards
-
-    print "Loading NCAA awards.\n"
-    generic_load(soccer_db.ncaa_awards, awards.process_ncaa_awards)
+    print "Loading NASL games.\n"
+    generic_load(soccer_db.nasl_games, nasl.process_games)
 
 
+    
 
 
 def load_apsl():
     """
     Load stats and games from the APSL and WSA.
     """
-    from soccerdata.text import apsl
+    from soccerdata.text import apsl, awards
     print "loading apsl stats"
     generic_load(soccer_db.apsl_stats, apsl.process_apsl_stats)
+
+    generic_load(soccer_db.apsl_awards, awards.process_wsa_awards)
+    
 
     print "loading apsl scores"
     generic_load(soccer_db.apsl_games, apsl.process_apsl_scores)
@@ -132,7 +137,7 @@ def load_mls():
     print "Loading MLS awards.\n"
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
 
-    print "Loading mls bio_stats.\n"
+    print "Loading mls bio stats.\n"
     generic_load(soccer_db.mls_stats, mls.scrape_all_bio_stats_mlssoccer)
 
     print "Loading coach playing stats.\n"
@@ -141,6 +146,17 @@ def load_mls():
 
     print "Loading MLSsoccer.com player bios.\n"
     generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
+
+    # MLS lineup data 1996-2010
+    print "Loading scaryice score data.\n"
+    generic_load(soccer_db.mls_games, lineups.load_all_games_scaryice)
+
+    print "Loading scaryice goal data.\n"
+    generic_load(soccer_db.mls_goals, lineups.load_all_goals_scaryice)
+    
+    print "Loading scaryice lineup data.\n"
+    generic_load(soccer_db.mls_lineups, lineups.load_all_lineups_scaryice)
+
     return
 
     print "Loading MLSsoccer.com game data.\n"
@@ -181,10 +197,13 @@ def load_usl():
     """
     Load usl stats and nasl stats.
     """
-    from soccerdata.text import stats    
+    from soccerdata.text import stats, awards  
 
     print "Loading usl stats.\n"
     generic_load(soccer_db.usl_stats, stats.process_usl_stats)
+
+    print "Loading usl awards.\n"
+    generic_load(soccer_db.usl_awards, awards.process_usl_awards)
 
 
 def load_soccernet_league(code):
@@ -201,6 +220,28 @@ def load_soccernet():
     return
     load_soccernet_league('usa.1')
     load_soccernet_league('mex.1')
+
+
+
+def load_ncaa():
+    from soccerdata.text import awards
+
+    print "Loading NCAA awards.\n"
+    generic_load(soccer_db.ncaa_awards, awards.process_ncaa_awards)
+
+
+def load_usa():
+    from soccerdata.text import usa
+ 
+    print "loading usa games"
+    generic_load(soccer_db.usa_games, usa.process_usa_games)
+
+    print "loading usa goals"
+    generic_load(soccer_db.usa_goals, usa.process_usa_goals)
+
+    print "loading usa lineups"
+    generic_load(soccer_db.usa_lineups, usa.process_usa_lineups)
+
 
 def load_world_cup():
     from soccerdata.scrapers import fifa

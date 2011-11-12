@@ -25,7 +25,7 @@ def second_merge():
 
 def merge_teams():
     soccer_db.teams.drop()
-    insert_rows(soccer_db.teams, soccer_db.yaml_teams.find())
+    insert_rows(soccer_db.teams, soccer_db.chris_teams.find())
     insert_rows(soccer_db.teams, soccer_db.wiki_teams.find())
 
 
@@ -34,6 +34,7 @@ def merge_standings():
     soccer_db.standings.drop()
     insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
     insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
+    insert_rows(soccer_db.standings, soccer_db.usa_standings.find())
 
 
 def merge_drafts():
@@ -43,9 +44,14 @@ def merge_drafts():
 
 def merge_awards():
     soccer_db.awards.drop()
+    insert_rows(soccer_db.awards, soccer_db.asl_awards.find())
     insert_rows(soccer_db.awards, soccer_db.nasl_awards.find())
+    insert_rows(soccer_db.awards, soccer_db.apsl_awards.find())
     insert_rows(soccer_db.awards, soccer_db.mls_awards.find())
     insert_rows(soccer_db.awards, soccer_db.ncaa_awards.find())
+    insert_rows(soccer_db.awards, soccer_db.usl_awards.find())
+    insert_rows(soccer_db.awards, soccer_db.asl_awards.find())
+
     
 
 def merge_positions():
@@ -58,6 +64,9 @@ def merge_positions():
 def merge_lineups():
     soccer_db.lineups.drop()
     insert_rows(soccer_db.lineups, soccer_db.mls_reserve_lineups.find())
+    insert_rows(soccer_db.lineups, soccer_db.mls_lineups.find())
+    insert_rows(soccer_db.lineups, soccer_db.fifa_lineups.find())
+    insert_rows(soccer_db.lineups, soccer_db.usa_lineups.find())
 
 
 
@@ -65,7 +74,10 @@ def merge_lineups():
 def merge_goals():
     soccer_db.goals.drop()
     insert_rows(soccer_db.goals, soccer_db.mls_reserve_goals.find())
-
+    insert_rows(soccer_db.goals, soccer_db.mls_goals.find())
+    insert_rows(soccer_db.goals, soccer_db.fifa_goals.find())
+    insert_rows(soccer_db.goals, soccer_db.usa_goals.find())
+    
 # Where to have this stuff?
 # Needs to be run.
 # Maybe add lineup_dict as an argument to correct_goal_names
@@ -78,7 +90,7 @@ def make_scaryice_lineup_dict():
 
     d = defaultdict(list)
 
-    for l in mongo.soccer_db.scaryice_lineups.find():
+    for l in mongo.soccer_db.mls_lineups.find():
         key = (l['team'], l['date'])
         v = d[key]
         v.append(l['player'])
@@ -109,7 +121,7 @@ def merge_games():
             game_dict[key] = d
 
         
-    for e in 'mls', 'scaryice', 'usl', 'apsl', 'fifa': 
+    for e in 'asl', 'nasl', 'mls', 'apsl', 'mls_reserve', 'usl', 'nasl2', 'fifa', 'usa':
         c = '%s_games' % e
         coll = soccer_db[c]
         for e in coll.find():
@@ -172,19 +184,11 @@ def merge_stats():
 
 
     stat_dict = {}
-    for e in soccer_db.nasl_stats.find():
-        update_stat(e)
-    for e in soccer_db.apsl_stats.find():
-        update_stat(e)
-    for e in soccer_db.mls_stats.find():
-        update_stat(e)
-    for e in soccer_db.mls_reserve_stats.find():
-        update_stat(e)
-    for e in soccer_db.usl_stats.find():
-        update_stat(e)
-    for e in soccer_db.fifa_stats.find():
-        update_stat(e)
-
+    
+    for coll in 'mls', 'mls_reserve', 'nasl', 'apsl', 'usl', 'nasl2', 'partial', 'fifa', 'usa':
+        k = '%s_stats' % coll
+        for e in soccer_db[k].find():
+            update_stat(e)
 
     soccer_db.stats.drop()
     insert_rows(soccer_db.stats, stat_dict.values())
@@ -198,7 +202,7 @@ def get_scaryice_goals():
 
 
     lineup_dict = make_scaryice_lineup_dict()
-    items = [d for d in soccer_db.scaryice_goals.find()]
+    items = [d for d in soccer_db.mls_goals.find()]
     return lineups.correct_goal_names(items, lineup_dict)
 
 
