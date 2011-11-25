@@ -430,6 +430,7 @@ def scrape_player_stats(url):
             'season': 'regular season %s' % year,
             'name': bio['name'],
             'team': team,
+            'position': '',
             'games_started': games_started,
             'games_played': games_played,
             'minutes': minutes,

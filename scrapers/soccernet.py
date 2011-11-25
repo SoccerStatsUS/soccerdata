@@ -12,10 +12,11 @@ import re
 
 from collections import defaultdict
 
+from soccerdata.alias import get_team, get_name
 from soccerdata.utils import scrape_soup, get_contents
 from soccerdata.cache import  data_cache, set_cache
 
-# Soccernet is probably the best of all. 
+# Soccernet is probably the best of all.
 # Triple down on soccernet.
 
 # Need to focus on this socreboard:
@@ -54,7 +55,7 @@ def get_match_stats_url(url):
 
 # Only returning internally used data.
 
-@data_cache
+@set_cache
 def scrape_scoreboard_urls(url):
     """
     Returns a list of game urls for a given scoreboard category, e.g. mls.1
@@ -83,7 +84,7 @@ def scrape_scoreboard_urls(url):
 
 
 
-@data_cache
+@set_cache
 def scrape_all_league_scores(league_code):
     """
     Scrape all league game data from scoreboards
@@ -144,7 +145,7 @@ def scrape_all_league_lineups(league_code):
 # I'm not too confident this works.
 # Maybe a better idea just to use for urls.
 # Definitely need to add competition to the result.
-@data_cache
+@set_cache
 def scrape_league_scoreboard(url):
     """
     Get game result data from a scoreboard page.
@@ -177,8 +178,8 @@ def scrape_league_scoreboard(url):
             return {}
 
         return {
-            'home_team': home_team,
-            'away_team': away_team,
+            'home_team': get_team(home_team),
+            'away_team': get_team(away_team),
             'home_score': home_score,
             'away_score': away_score,
             'url': url
@@ -231,8 +232,8 @@ def scrape_live_game(url, competition):
 
 
     return {
-        'home_team': home_team,
-        'away_team': away_team,
+        'home_team': get_team(home_team),
+        'away_team': get_team(away_team),
         'home_score': home_score,
         'away_score': away_score,
         'competition': competition,
@@ -242,6 +243,7 @@ def scrape_live_game(url, competition):
         'referee': referee,
         'url': url,
         }
+
 
 @set_cache
 def scrape_live_goals(url, competition):
@@ -260,7 +262,7 @@ def scrape_live_goals(url, competition):
 
         # Need to check this for own goals?
 
-        own_goal = penalty = False
+        goal_type = 'normal'
 
         s = s.replace("&nbsp;", '').strip()
         if not s:
@@ -273,12 +275,12 @@ def scrape_live_goals(url, competition):
         m = re.match("(.*?)\(og (\d+)'\)", s)
         if m:
             player, minute = m.groups()
-            own_goal = True
+            goal_type = 'own goal'
 
         m = re.match("(.*?)\(pen (\d+)'\)", s)
         if m:
             player, minute = m.groups()
-            own_goal = True
+            goal_type = 'own goal'
 
         m = re.match("(.*?)\(pen miss (\d+)'\)", s)
         if m:
@@ -288,24 +290,29 @@ def scrape_live_goals(url, competition):
         if player == 'player':
             import pdb; pdb.set_trace()
 
+            
+
         return {
-            'player': player,
+            'goal': player,
             'minute': minute,
-            'team': team,
-            'own_goal': own_goal,
-            'penalty': penalty,
+            'team': get_team(team),
+            'type': goal_type,
+            'season': unicode(game_data['date'].year),
             'date': game_data['date'],
             'competition': game_data['competition'],
+            'assists': [],
             }
 
     goals = []
     for goal in home_goals:
         gd = process_goal(goal, game_data['home_team'])
-        goals.append(gd)
+        if gd:
+            goals.append(gd)
 
     for goal in away_goals:
         gd = process_goal(goal, game_data['away_team'])
-        goals.append(gd)
+        if gd:
+            goals.append(gd)
         
     return goals
 
@@ -393,11 +400,12 @@ def scrape_live_lineups(url, competition):
                 off = 90
 
             lineup.append({
-                    'player': player,
+                    'name': player,
                     'on': on,
                     'off': off,
-                    'team': team,
+                    'team': get_team(team),
                     'date': game_data['date'],
+                    'season': unicode(game_data['date'].year),
                     'competition': game_data['competition'],
                     })
 
@@ -467,7 +475,8 @@ if __name__ == "__main__":
         'arg.1',
         ]
 
-    print scrape_all_league_games('concacaf.champions')
+    #print scrape_all_league_games('concacaf.champions')
+    print scrape_all_league_games('usa.1')
     #print scrape_all_league_games('uefa.champions')
     #print scrape_all_league_games('usa.1')
     #print scrape_all_league_games('mex.1')
