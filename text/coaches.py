@@ -3,7 +3,7 @@ import re
 
 from soccerdata.alias import get_team, get_name
 
-POSITIONS_PATH = '/home/chris/www/soccerdata/data/transactions/td'
+POSITIONS_PATH = '/home/chris/www/soccerdata/data/transactions/positions'
 
 class PositionParser(object):
     def __init__(self):
@@ -21,7 +21,12 @@ class PositionParser(object):
             month, day, year = [int(e) for e in m.groups()]
         else:
             month, day, year = 1, 1, int(s)
-        return datetime.datetime(year, month, day)
+        
+        try:
+            return datetime.datetime(year, month, day)
+        except:
+            import pdb; pdb.set_trace()
+            x = 5
 
 
     def process_line(self, line):
@@ -32,7 +37,11 @@ class PositionParser(object):
         if len(fields) > 3:
             start = self.process_date_string(fields[3])
         if len(fields) > 4:
+            # Make the end at the end of the year.
             end = self.process_date_string(fields[4])
+            # Set end at the end of the year.
+            if end:
+                end = datetime.datetime(end.year + 1, end.month, end.day) - datetime.timedelta(days=1)
 
         if person:
             self.person = person

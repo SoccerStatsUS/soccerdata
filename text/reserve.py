@@ -4,7 +4,6 @@ import os
 import re
 
 from soccerdata.alias import get_team, get_name
-from soccerdata.cache import data_cache
 
 SCORES_PATH = '/home/chris/www/soccerdata/data/scores/reserve.txt'
 GOALS_PATH = '/home/chris/www/soccerdata/data/goals/reserve.txt'
@@ -14,9 +13,14 @@ LINEUPS_PATH = '/home/chris/www/soccerdata/data/lineups/reserve.txt'
 def preprocess(s):
     return s.strip().replace('\xc2', '').replace('\xa0', '')
 
-def process_scores():
-    f = open(SCORES_PATH)
 
+def process_scores():
+    """
+    Get reserve game scores.
+    """
+
+
+    f = open(SCORES_PATH)
     l = []
     for row in f:
         row = preprocess(row)
@@ -47,15 +51,20 @@ def process_scores():
                 'season': '2011',
                 'date': date,
                 'location': location,
-                #'source': url,
                 'home_team': "%s Reserves" % home_team,
                 'away_team': "%s Reserves" % away_team,
                 'home_score': home_score,
                 'away_score': away_score,
+                #'source': url,
+                'source': 'http://www.mlssoccer.com/2011-reserve-league',
                 })
     return l
 
+
 def process_goals():
+    """
+    Get reserve goals.
+    """
     f = open(GOALS_PATH)
     l = []
     date = None
@@ -92,13 +101,51 @@ def process_goals():
                 'goal': get_name(other[0].strip()),
                 'type': goal_type,
                 'assists': [get_name(e.strip()) for e in assists],
+                'source': 'http://www.mlssoccer.com/2011-reserve-league',
                 })
                 
                     
     return l
 
 
+def process_lineups():
+    """
+    Get all linup data for MLS reserve league.
+    """
+    f = open(LINEUPS_PATH)
+    lineups = []
+    date = None
+
+        
+    for row in f:
+        row = row.strip()
+        if not row:
+            continue
+            
+        m = re.match("(\d+)/(\d+)/(\d+)", row)
+        if m:
+            month, day, year = [int(e) for e in m.groups()]
+            date = datetime.datetime(year, month, day)
+        else:    
+            fields = row.split(';')
+            team = fields[0]
+            players = fields[1:]
+            for s in players:
+                l = process_lineup_string(s, date, team)
+                lineups.extend(l)
+
+    for e in lineups:
+        e['source'] = 'http://www.mlssoccer.com/2011-reserve-league'
+
+    return lineups
+
+
+
+
 def process_lineup_string(s, date, team):
+    """
+    Process a lineup item (potentially multiple lineup objects)
+    """
     l = [e.strip() for e in s.replace(")", '').split("(")]
     team = "%s Reserves" % get_team(team)
     start = 0
@@ -142,32 +189,6 @@ def process_lineup_string(s, date, team):
         
         
         
-
-
-def process_lineups():
-    f = open(LINEUPS_PATH)
-    lineups = []
-    date = None
-
-        
-    for row in f:
-        row = row.strip()
-        if not row:
-            continue
-            
-        m = re.match("(\d+)/(\d+)/(\d+)", row)
-        if m:
-            month, day, year = [int(e) for e in m.groups()]
-            date = datetime.datetime(year, month, day)
-        else:    
-            fields = row.split(';')
-            team = fields[0]
-            players = fields[1:]
-            for s in players:
-                l = process_lineup_string(s, date, team)
-                lineups.extend(l)
-
-    return lineups
 
             
 

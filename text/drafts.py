@@ -61,7 +61,17 @@ def process_draft(text, draft_name):
         import pdb; pdb.set_trace()
 
     def process_line(line):
-        number, name, team = line.split('\t')
+
+        # Skip these for now.
+        if draft_type == 'expansion' and year in ('2010', '2011'):
+            return {}
+
+
+        try:
+            number, name, team = line.split('\t')
+        except:
+            import pdb; pdb.set_trace()
+
 
         # Whoops!
         if draft_type == 'superdraft' and year == '2010':
@@ -72,6 +82,8 @@ def process_draft(text, draft_name):
         else:
             draft_name = '%s Draft' % draft_type.title()
         draft_name = "%s %s" % (year, draft_name)
+
+
 
         return {
             'position': int(number),

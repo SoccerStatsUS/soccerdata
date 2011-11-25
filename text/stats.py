@@ -138,6 +138,8 @@ def process_stats(fn, competition=None, format_name=True):
                 d.pop('position')
             if 'points' in d:
                 d.pop('points')
+
+        d['position'] = ''
         return d
 
     path = os.path.join(DIR, fn)

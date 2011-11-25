@@ -31,14 +31,20 @@ def process_partial_stats():
         else:
             games = None
 
+        if goals.strip():
+            goals = int(goals)
+        else:
+            goals = None
+
         l.append({
                 'name': get_name(name),
                 'team': get_team(team),
                 'competition': competition,
                 'season': season,
                 'games': games,
-                'goals': int(goals),
+                'goals': goals,
                 'assists': assists,
+                'position': '',
                 })
 
     return l

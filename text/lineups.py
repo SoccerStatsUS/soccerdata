@@ -40,7 +40,7 @@ import os
 import re
 import sys
 
-from soccerdata.alias import get_name
+from soccerdata.alias import get_name, get_team
 from soccerdata.cache import data_cache, set_cache
 
 
@@ -110,13 +110,13 @@ def get_competition(name):
     d = {
         'CAN': 'Canadian Championship',
         'C-Int': 'Copa Interamericana',
-        'CC': 'Concacaf Champions Cup',
-        'CL': 'Concacaf Champions League',
+        'CC': 'CONCACAF Champions Cup',
+        'CL': 'CONCACAF Champions League',
         'CM': 'Copa Merconorte',
         'CS': 'Copa Sudamericana',
-        'CW': 'Concacaf Cup Winners\' Cup',
+        'CW': 'CONCACAF Cup Winners\' Cup',
         'GC': 'Giants Cup',
-        'OC-': 'US Open Cup',
+        'OC-': 'Lamar Hunt U.S. Open Cup',
         'P-': 'MLS Cup Playoffs',
         'SL': 'Super Liga',
         }
@@ -131,7 +131,23 @@ def get_competition(name):
     else:
         int(name) # make sure this is an integer (representing a round).
         return 'Major League Soccer'
+
     
+def make_lineup_dict():
+    """
+    Create a dict ampping team and date to lineups.
+    """
+    # For getting correct goal names.
+    lineups = load_all_lineups_scaryice()
+    d = {}
+    for e in lineups:
+        key = (e['team'], e['date'])
+        if key in d:
+            d[key].append(e['name'])
+        else:
+            d[key] = [e['name']]
+    return d
+
 
 
 @set_cache
@@ -159,17 +175,6 @@ def load_all_goals_scaryice():
     lineups = make_lineup_dict()
     return correct_goal_names(l, lineups)
     
-
-def make_lineup_dict():
-    lineups = load_all_lineups_scaryice()
-    d = {}
-    for e in lineups:
-        key = (e['team'], e['date'])
-        if key in d:
-            d[key].append(e['name'])
-        else:
-            d[key] = [e['name']]
-    return d
 
 
 @set_cache
@@ -209,6 +214,9 @@ def correct_goal_names(goal_list, lineup_dict):
         'Peguero Jean Philippe': 'Peguero Jean Philippe',
         'DeRosario': 'De Rosario',
         'Ben-Dayan': 'Ben Dayan',
+        'Nunez': 'Núñez', # good for Ramon Nunez, not necessarily other nunezes.
+        'Sanchez': 'Sánchez',
+
         }
     # Simon Elliott/Elliot
 
@@ -220,6 +228,14 @@ def correct_goal_names(goal_list, lineup_dict):
         'Zoltan': 'Zoltan Hercegfalvi',
         'Wondolowski': 'Chris Wondolowski', # Steve Wondolowski never scored.
         'J.P. Garcia': 'Juan Pablo Garcia',
+        'Saborio': 'Alvaro Saborio',
+        'Pineda Chacon': 'Alex Pineda Chacon',
+        'Angel': 'Juan Pablo Angel',
+        'Diaz Arce': 'Raul Diaz Arce',
+        'Welton': 'Welton Melo',
+        'Husidic': 'Baggio Husidic',
+        'Saborío': 'Alvaro Saborio',
+        'Machon': 'Martin Machon',
         }
 
 
@@ -359,8 +375,8 @@ def get_scores(fn):
             'competition': get_competition(match_type),
             'date': date,
             'season': unicode(date.year),
-            'home_team': home_team,
-            'away_team': away_team,
+            'home_team': get_team(home_team),
+            'away_team': get_team(away_team),
             'home_score': home_score,
             'away_score': away_score,
             }
@@ -430,7 +446,7 @@ def get_goals(filename):
 
             return {
                 'competition': get_competition(match_type),
-                'team': team_name,
+                'team': get_team(team_name),
                 'date': date,
                 'season': unicode(date.year),
                 'goal': player.strip(),
@@ -546,7 +562,7 @@ def get_lineups(filename):
         
 
     p = os.path.join(LINEUPS_DIR, filename)
-    team_name = file_mapping[filename.replace(".csv", '')]
+    team_name = get_team(file_mapping[filename.replace(".csv", '')])
 
     l = []
     for line in open(p).readlines():
@@ -675,7 +691,7 @@ class LineupProcessor(object):
             for lineup in lineups:
                 lineup['name'] = get_name(lineup['name'].strip().replace(")(", ""))
                 lineup.update({
-                    'team': self.team,
+                    'team': get_team(self.team),
                     'date': self.date,
                     'season': unicode(self.date.year),
                     'competition': self.competition,

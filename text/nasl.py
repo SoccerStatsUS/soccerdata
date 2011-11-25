@@ -63,6 +63,7 @@ def process_stats():
                 'season': '2011',
                 'name': name,
                 'team': team,
+                'position': '',
                 'goals': int(goals),
                 'assists': int(assists),
                 'shots': int(shots),

@@ -64,6 +64,16 @@ def process_wsa_awards():
     from soccerdata.data.lists.wsa import d
     return process_awards(d)
 
+def process_usl0_awards():
+    from soccerdata.data.lists.usl0 import d
+    return process_awards(d)
+
+
+def process_apsl_awards():
+    from soccerdata.data.lists.apsl import d
+    return process_awards(d)
+
+
 def process_american_cup_awards():
     from soccerdata.data.lists.americancup import d
     return process_awards(d)
