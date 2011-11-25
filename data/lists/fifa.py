@@ -5,6 +5,16 @@
 # World players of the year.
 # This is merged with the FIFA Ballon D'Or.
 
+fifa = {
+    'competition': 'FIFA',
+    
+    'Puskas Award': [
+        (2009, 'Cristiano Ronaldo', '?'),
+        (2010, 'Hamit Altintop',  '?'),
+        ],
+}
+         
+
 world_player_of_the_year = [
     (1991, ('Lothar Matthäus', 'Jean-Pierre Papin', 'Gary Lineker')),
     (1992, ('Marco van Basten', 'Hristo Stoichkov', 'Thomas Häßler')),

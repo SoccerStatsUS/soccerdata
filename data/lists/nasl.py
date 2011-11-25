@@ -316,7 +316,30 @@ d = {
                 'Casey Frankiewicz',
                 'Ilija Mitic',
                 ]),
-
-        ]
+        ],
+        
     }
    
+"""
+    'College Draft': [
+        (1972, [
+                (1, 'Montreal', 'Shep Messing'),
+                (2, 'Montreal', 'Phil Kydes'),
+                (3, 'Montreal', 'Barry Barto'),
+                (4, 'Montreal', 'Manny Hernandez'),
+                (1, 'St. Louis', 'John Carenza'),
+                (2, 'St. Louis', 'William Smyth'),
+                (3, 'St. Louis', 'Jim Drande'),
+                (4, 'St. Louis', 'Edmundo Camacho'),
+                (5, 'St. Louis', 'Steve Partenheimer'),
+                (6, 'St. Louis', 'Tom Beaver'),
+                (7, 'St. Louis', 'Mirko Gragas'),
+                (8, 'St. Louis', 'John Deinowski'),
+                (9, 'St. Louis', 'Gerald Mitchell'),
+                (10, 'St. Louis', 'Ed Palacio'),
+                (1, 'Toronto', 'Cal Kern'),
+                (2, 'Toronto', 'Jean Tassy'),
+                ]),
+
+        ],
+"""

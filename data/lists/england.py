@@ -1,6 +1,17 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+d = {
+    'England',
+    
+    'Goal of the Season': [
+        ('2001-2002', 'Dennis Bergkamp', (3, 2, 2002), 'http://www.youtube.com/watch?v=paVv3J58grs&feature=related'),
+        ('1997-1998', 'Dennis Bergkamp', (8, 27, 1997), ''),
+        ('2007-2008', 'Emmanuel Adebayor', (9, 15, 2007), 'http://www.youtube.com/watch?v=06GBPZlmvjM'),
+        ('2002-2003', 'Thierry Henry', (11, 16, 2002), 'http://www.youtube.com/watch?v=QUXKtf1rdaY'),
+        ('1998-1999', 'Ryan Giggs', (4, 14, 1999), 'http://www.youtube.com/watch?v=-9PyoJS7yaA'),
+
+
 # Football League 100 Legends
 football_league = [
     ('England', 'Billy Bassett', 'West Bromwich Albion', '1886–1899'),

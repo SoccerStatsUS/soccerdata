@@ -1,7 +1,7 @@
 
 
 d = {
-    'competition': 'American Soccer League',
+    'competition': 'American Soccer League (1934-1983)',
     'team_data': ['Champion'],
 
     'Champion': [
@@ -59,6 +59,10 @@ d = {
         
 
     'MVP': [
+        (1945, 'Steve Rozbora'),
+        (1946, 'Ray McFaul'),
+        (1947, 'Joe Mervine'),
+        (1948, 'John O\'Connell'),
         (1949, 'John O\'Connell'),
         (1950, 'Joe Maca'),
         (1951, 'John Donald'),
@@ -93,6 +97,16 @@ d = {
         (1981, 'Bill Bolevic'),
         (1982, 'Brian Tinnion'),
         (1983, 'Peter Simioni'),
+        ],
+
+    'Rookie of the Year': [
+        (1973, 'Doug McMillan'),
+        (1975, 'Roberto Taylor'),
+        (1976, 'John Roeslein'),
+        (1976, 'Steve Ralbovsky'),
+        (1977, 'Mal Roche'),
+        (1978, 'Emilio John'),
+        (1979, 'John McDermott'),
         ],
 
 }

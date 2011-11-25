@@ -1,6 +1,8 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+import datetime
+
 
 d = {
     'competition': 'Major League Soccer',
@@ -172,6 +174,8 @@ d = {
         (2009, 'Logan Pause'),
         (2010, 'Michael Lahoud'),
         ],
+
+
 
     'Best XI': [
 
@@ -399,4 +403,24 @@ d = {
                 'Chris Wondolowski',
                 ]),
         ]
+}
+
+{
+    'Goal of the Year': [
+        (1996, 'Eric Wynalda', (4, 6, 1996)),
+        (1997, 'Marco Etcheverry', (8, 27, 1997)),
+        (1998, 'Brian McBride', (7, 9, 1998)),
+        (1999, 'Marco Etcheverry', (5, 22, 1999)),
+        (2000, 'Marcelo Balboa', (4, 22, 2000)),
+        (2001, 'Clint Mathis', (4, 28, 2001), 'http://www.youtube.com/watch?v=lVsqiV2uKd0'),
+        (2002, 'Carlos Ruiz', (6, 27, 2002)),
+        (2003, 'Damani Ralph', (8, 13, 2002)),
+        (2004, 'Dwayne De Rosario', (8, 2, 2004), 'http://www.youtube.com/watch?v=ZI0f6angcM0'),
+        (2005, 'Dwayne De Rosario', (10, 15, 2005), 'http://www.youtube.com/watch?v=ML7Kh_Na3Tg'),
+        (2006, 'Brian Ching', (9, 30, 2006), 'http://www.youtube.com/watch?v=JNZ75mGmiPY'),
+        (2007, 'Cuauhtemoc Blanco', (8, 18, 2007), 'http://www.youtube.com/watch?v=NcfBSZbX22E'),
+        (2008, 'Will Johnson', (10, 18, 2008), 'http://youtu.be/FxMWsEQprWI?t=28s'),
+        (2009, 'Landon Donovan', (8, 8, 2009), 'http://www.youtube.com/watch?v=qnuPei0xyNs'),
+        (2010, 'Marco Pappa', (4, 10, 2010), 'http://youtu.be/Ym_ZWti0bBo?t=2m36s'),
+        ],
 }
