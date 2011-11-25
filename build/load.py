@@ -15,22 +15,25 @@ def first_load():
     load_standings()
     load_teams()
     load_drafts()
+    load_positions()
 
     # Scores, stats.
-    load_asl()
-    load_nasl()
-    load_apsl()
+    #load_asl()
+    #load_nasl()
+    #load_apsl()
     load_mls()
-    load_partial()
     load_mls_reserve()
+    return
+    load_partial()
+
     load_usl()
     load_nasl2()
     load_usa()
-    load_world_cup()
+    #load_world_cup()
     load_ncaa()
-
+    #load_concacaf()
     # Scraped data
-    #load_soccernet()
+
     #load_kicker()
     #load_mediotiempo()
 
@@ -63,6 +66,12 @@ def load_drafts():
     from soccerdata.text import drafts
     print "Loading drafts.\n"
     generic_load(soccer_db.chris_drafts, drafts.load_drafts)
+
+
+def load_positions():
+    from soccerdata.text import coaches
+    print "Loading positions.\n"
+    generic_load(soccer_db.chris_positions, coaches.process_positions)
 
 
 def load_partial():
@@ -115,6 +124,8 @@ def load_apsl():
     generic_load(soccer_db.apsl_stats, apsl.process_apsl_stats)
 
     generic_load(soccer_db.apsl_awards, awards.process_wsa_awards)
+    generic_load(soccer_db.apsl_awards, awards.process_apsl_awards, delete=False)
+    generic_load(soccer_db.apsl_awards, awards.process_usl0_awards, delete=False)
     
 
     print "loading apsl scores"
@@ -206,17 +217,15 @@ def load_usl():
     generic_load(soccer_db.usl_awards, awards.process_usl_awards)
 
 
-def load_soccernet_league(code):
+def load_soccernet_league(code, name):
     from soccerdata.scrapers import soccernet
-    generic_load(soccer_db.soccernet_games, lambda: soccernet.scrape_all_league_games(code), delete=False)
-    generic_load(soccer_db.soccernet_goals, lambda: soccernet.scrape_all_league_goals(code), delete=False)
-    generic_load(soccer_db.soccernet_lineups, lambda: soccernet.scrape_all_league_lineups(code), delete=False)
+    generic_load(soccer_db['%s_goals' % name], lambda: soccernet.scrape_all_league_goals(code))
+    generic_load(soccer_db['%s_games' % name], lambda: soccernet.scrape_all_league_games(code))
+    generic_load(soccer_db['%s_lineups' % name], lambda: soccernet.scrape_all_league_lineups(code))
 
 
-def load_soccernet():
-    soccer_db.soccernet_games.drop()
-    soccer_db.soccernet_goals.drop()
-    soccer_db.soccernet_lineups.drop()
+def load_concacaf():
+    load_soccernet_league('concacaf.champions', 'concacaf')
     return
     load_soccernet_league('usa.1')
     load_soccernet_league('mex.1')

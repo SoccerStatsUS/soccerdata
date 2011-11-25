@@ -4,6 +4,18 @@ from soccerdata.alias import get_team, get_name
 
 from collections import defaultdict
 
+COLLECTIONS = [
+    'apsl',
+    'asl',
+    'concacaf', 
+    'mls', 
+    'mls_reserve', 
+    'nasl',  
+    'nasl2', 
+    'partial', 
+    'usa',
+    'usl', 
+    ]
 
 
 def first_merge():
@@ -35,6 +47,7 @@ def merge_standings():
     insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
     insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
     insert_rows(soccer_db.standings, soccer_db.usa_standings.find())
+    insert_rows(soccer_db.standings, soccer_db.concacaf_standings.find())
 
 
 def merge_drafts():
@@ -121,7 +134,7 @@ def merge_games():
             game_dict[key] = d
 
         
-    for e in 'asl', 'nasl', 'mls', 'apsl', 'mls_reserve', 'usl', 'nasl2', 'fifa', 'usa':
+    for e in COLLECTIONS:
         c = '%s_games' % e
         coll = soccer_db[c]
         for e in coll.find():
@@ -184,8 +197,9 @@ def merge_stats():
 
 
     stat_dict = {}
-    
-    for coll in 'mls', 'mls_reserve', 'nasl', 'apsl', 'usl', 'nasl2', 'partial', 'fifa', 'usa':
+
+
+    for coll in COLLECTIONS:
         k = '%s_stats' % coll
         for e in soccer_db[k].find():
             update_stat(e)

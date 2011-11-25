@@ -15,20 +15,35 @@ def generate():
     # Generate standings
     #generate_standings(soccer_db.games, soccer_db.standings)
     #generate_lineup_stats(soccer_db.mls_reserve_lineups.find())
+    generate_all_stats()
+    generate_all_standings()
+
+
+
+def generate_all_stats():
     mls_reserve_stats = generate_stats(soccer_db.mls_reserve_goals.find(), soccer_db.mls_reserve_lineups.find())
     generic_load(soccer_db.mls_reserve_stats, lambda: mls_reserve_stats.values())
 
     world_cup_stats = generate_stats(soccer_db.fifa_goals.find(), soccer_db.fifa_lineups.find())
     generic_load(soccer_db.fifa_stats, lambda: world_cup_stats.values())
 
+    usa_stats = generate_stats(soccer_db.usa_goals.find(), soccer_db.usa_lineups.find())
+    generic_load(soccer_db.usa_stats, lambda: usa_stats.values())
+
+    concacaf_stats = generate_stats(soccer_db.concacaf_goals.find(), soccer_db.concacaf_lineups.find())
+    generic_load(soccer_db.concacaf_stats, lambda: concacaf_stats.values())    
+
+def generate_all_standings():
     standings = generate_standings(soccer_db.mls_reserve_games.find())
     generic_load(soccer_db.mls_reserve_standings, lambda: standings.values())
 
     standings = generate_standings(soccer_db.usa_games.find())
     generic_load(soccer_db.usa_standings, lambda: standings.values())
 
-    usa_stats = generate_stats(soccer_db.usa_goals.find(), soccer_db.usa_lineups.find())
-    generic_load(soccer_db.usa_stats, lambda: usa_stats.values())
+
+    concacaf_standings = generate_standings(soccer_db.concacaf_games.find())
+    generic_load(soccer_db.concacaf_standings, lambda: concacaf_standings.values())
+
 
 
     
