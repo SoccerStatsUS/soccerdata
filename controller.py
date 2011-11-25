@@ -50,7 +50,7 @@ def dashboard():
         'mls_reserve',
         'usl',
         'nasl2',
-        'fifa',
+        #'fifa',
         'usa',
         'partial',
         'concacaf',
@@ -58,7 +58,7 @@ def dashboard():
         'chris',
         #'uslsoccer',
         #'wiki',
-        #'soccernet',
+
 
         #'kicker',
         #'mediotiempo',
