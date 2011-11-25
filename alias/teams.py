@@ -4,6 +4,23 @@
 teams = {}
 
 mls_teams = {
+    'Abbot W.': 'Abbot Worsted',
+    'Scullin St.': 'St. Louis Scullin Steel',
+    'Yonkers Th.': 'Yonkers Thistle',
+    'Holley C.': 'Holley Carburetor F.C.',
+    'Bricklayers': 'Bricklayers and Masons F.C.',
+    'Whittall': 'Whittall Carpet Mills F.C.',
+    'Centennial': 'Centennial F.C.',
+    'Cleveland B.': 'Cleveland Bruell Insurance',
+    'Lucy Recs': 'Lusitania Recreation',
+    'Hispano': 'Brooklyn Hispano',
+
+    # Not sure of these.
+    'Hungaria': 'New York Hungaria', 
+    'NY Greek-Americans Hellenic SC': 'Greek American AA',
+    
+
+    'Central Jersey Rpitide': 'Central Jersey Riptide',
 
     'LA Blues': 'Los Angeles Blues',
     'Antigua Barricudas FC': 'Antigua Barracuda',
