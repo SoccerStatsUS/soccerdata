@@ -497,6 +497,7 @@ names = {
     'Raivis Hščanovičs': 'Raivis Hscanovics',
     'Cedric Joqueviel': 'Cédric Joqueviel',
     'Hicham Aaboubou': 'Hicham Aâboubou',
+    'Jon Leathers': 'Jonathan Leathers',
 
 
     'Jan Van Bevern': 'Jan van Beveren',
