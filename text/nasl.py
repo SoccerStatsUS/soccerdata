@@ -9,6 +9,12 @@ DIR = '/home/chris/www/soccerdata/data/stats'
 stats_filename = os.path.join(DIR, 'nasl.txt')
 games_filename = '/home/chris/www/soccerdata/data/scores/nasl.csv'
 
+
+team_map = {
+    'Golden Bay': 'San Jose',
+    'Hartford': 'Connecticut',
+}
+
 competition_map = {
     'NASL': 'North American Soccer League',
     'NASL Playoffs': 'North American Soccer League Playoffs',
@@ -31,7 +37,14 @@ def get_standings_dict():
 
 sd = get_standings_dict()
 
+
+
 def get_full_name(name, competition, season):
+    """
+    Figure out the full team name based on the season and competition.
+    """
+    name = team_map.get(name, name)
+
     competition = competition.replace("Playoffs", '').strip()
     names = sd[(competition, season)]
     for e in names:

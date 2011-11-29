@@ -94,7 +94,8 @@ def process_draft(text, draft_name):
             #'source': 'Wikipedia',
             }
 
-    return [process_line(line) for line in lines]
+    l = [process_line(line) for line in lines]
+    return [e for e in l if e]
 
 
 

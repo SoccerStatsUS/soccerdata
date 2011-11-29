@@ -2,6 +2,7 @@
 import datetime
 import os
 
+from soccerdata.alias import get_team, get_name
 from soccerdata.cache import data_cache
 from soccerdata.mongo import soccer_db
 
@@ -9,6 +10,12 @@ DIR = '/home/chris/www/soccerdata/data/stats'
 games_filename = '/home/chris/www/soccerdata/data/scores/asl.csv'
 
 
+team_map = {
+    'J&P Coats': 'J & P Coats',
+    'NY Giants': 'New York Giants',
+    'Fleischer': 'Fleisher Yarn',
+    'Fleischer Yarn': 'Fleisher Yarn',
+}
 
 competition_map = {
     'ASL': 'American Soccer League (1921-1933)',
@@ -32,11 +39,21 @@ sd = get_standings_dict()
 
 
 def get_full_name(name, competition, season):
+    """
+    Get the relevant team name based on the competition and season a team played in.
+    """
+
+    # Check aliases first.
+
+    name = team_map.get(name, name)
+
     competition = competition.replace("Playoffs", '').strip()
+
     try:
         names = sd[(competition, season)]
     except:
         return name
+
     for e in names:
         if e.startswith(name):
             return e
