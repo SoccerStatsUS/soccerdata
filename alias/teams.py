@@ -14,6 +14,10 @@ mls_teams = {
     'Cleveland B.': 'Cleveland Bruell Insurance',
     'Lucy Recs': 'Lusitania Recreation',
     'Hispano': 'Brooklyn Hispano',
+    'J&P Coats': 'J & P Coats',
+    'NY Giants': 'New York Giants',
+    'Fleischer': 'Fleisher Yarn',
+    'Fleischer Yarn': 'Fleisher Yarn',
 
     # Not sure of these.
     'Hungaria': 'New York Hungaria', 
@@ -57,6 +61,7 @@ mls_teams = {
     'F.C. Dallas': 'FC Dallas',
     'Houston 1836': 'Houston Dynamo',
 
+    # Um, these should not be here.
     'Chicago': 'Chicago Fire',
     'Colorado': 'Colorado Rapids',
     'Columbus': 'Columbus Crew',

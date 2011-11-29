@@ -488,6 +488,7 @@ names = {
     'Can Weaver': 'Cam Weaver',
     'Andrew Webber': 'Andrew Weber',
     'Stephen Wondolowski': 'Steve Wondolowski',
+
     'Steve Yallop': 'Frank Yallop',
     
 
@@ -499,6 +500,7 @@ names = {
     'Hicham Aaboubou': 'Hicham Aâboubou',
 
 
+    # Whatever?
     'Jan Van Bevern': 'Jan van Beveren',
     'Jan Van Beveren': 'Jan van Beveren',
     'Thomas W. Cahill': 'Thomas Cahill',
