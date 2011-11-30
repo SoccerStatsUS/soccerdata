@@ -1,3 +1,5 @@
 *~
 *.pyc
 logs/*
+run/gunicorn.log
+run/gunicorn.pid
