@@ -22,12 +22,6 @@ from soccerdata.utils import get_contents, scrape_url
 # http://en.wikipedia.org/w/index.php?action=render&title=Helsinki
 
 
-#OH SHIT NEW WIKI SCRAPING ON THE WAY.
-
-
-# This ain't good.    
-
-
 world_cup_years = [
     1930,
     1934,
@@ -51,6 +45,8 @@ world_cup_years = [
     ]
 
 def scrape_world_cup_players():
+    """
+    """
     # Need to get player urls!
     l = []
     for year in world_cup_years:
@@ -64,14 +60,17 @@ def scrape_world_cup_players():
 
 def scrape_wiki(query):
     """
+    
     """
-    query = query.replace(" ", "_").replace("_", "%20")
-
+    # wiki url for a query.
     url = 'http://en.wikipedia.org/w/api.php?format=json&action=query&titles=%s&rvprop=content&prop=revisions' % query
+
+    query = query.replace(" ", "_").replace("_", "%20")
     data = scrape_url(url, encoding='utf8', sleep=2)
     response = json.loads(data)
 
     revisions = response['query']['pages'].keys()
+    # What if it isn't?
     assert len(revisions) == 1
     revision = revisions[0]
     try:
@@ -100,6 +99,8 @@ def get_infobox_lines(lines):
 
 
 def process_key_value(line):
+    # Process a key/value entry from an infobox. 
+    # These can be sort of complicated.
     if not line.startswith("|"):
         return None
 
@@ -118,7 +119,7 @@ def process_value(value):
     # 3. links (with alternate names sometimes)
     # 4. hybrid.
 
-
+    # ?
     m = re.search("(.*?)<!--.*?-->", value)
     if m:
         value = m.groups()[0]
@@ -177,6 +178,11 @@ def process_value(value):
 
 
 def scrape_team(query):
+    """
+    """
+
+    # Convert infobox into a dict.
+    # Standard?
     lines = scrape_wiki(query)
     infobox_lines = get_infobox_lines(lines)
     processed = [process_key_value(line) for line in infobox_lines]
@@ -193,6 +199,7 @@ def scrape_team(query):
         
         
 
+    # What about teams that don't have this stuff?
     return {
         'name': d['clubname'],
         'image': d['image'],
@@ -205,6 +212,7 @@ def scrape_team(query):
         
 
 def get_categories(lines):
+    # Given a query, retrieve its categories.
     categories = []
     for line in lines:
         m = re.match("\[\[Category:\s*(?P<name>.*?)\]\]", line)
@@ -214,163 +222,16 @@ def get_categories(lines):
     return categories
 
 
-def scrape_mls_standings():
-    l = []
-    for season in range(1996, 2011):
-        season = unicode(season)
-        query = '%s Major League Soccer_season' % season
-        l.extend(scrape_standings(query, 'MLS', season))
-    return l
 
-def scrape_pdl_standings():
-    l = []
-    for season in range(1996, 2011):
-        season = unicode(season)
-        query = '%s PDL season' % season
-        l.extend(scrape_standings(query, 'MLS', season))
-    return l
-
-
-def scrape_england_standings():
-    l = []
-    for season in range(1996, 2011):
-        season_name = "%s-%s" % (season, season+1)
-        query = '%s Premier League'  % season_name
-        l.extend(scrape_standings(query, 'EPL', season_name))
-    return l
-
-
-def scrape_standings(query, competition, season):
-    """
-    Tries to scrape standings in different ways.
-    """
-
-    for func in (scrape_standings1, scrape_standings2, scrape_standings3):
-        try:
-            l = func(query, competition, season)
-        except:
-            l = []
-        if l:
-            return l
-
-    return []
-
-
-def scrape_standings1(query, competition, season):
-    # line = '{{MLS tr |team=[[1996 D.C. United season|D.C. United]] |pos=2 |w=15 |l=16 |t=1 |gf=62 |ga=56 |color=ep |code=DC |match={{{team}}} }}'
-    lines = scrape_wiki(query)
-    l = []
-
-    for line in lines:
-        if re.search("\|team=\[\[", line):
-            fields = line.split("|")
-            fields = [e for e in fields if '=' in e]
-
-            d = {}
-            for field in fields:
-                k, v = [e.strip() for e in field.split("=")]
-                d[k] = v
-                    
-            nd = {
-                'competition': competition,
-                'season': season,
-                'wins': d['w'],
-                'losses': d['l'],
-                'ties': d['t'],
-                'goals_for': d['gf'],
-                'goals_against': d['ga'],
-                }
-                
-            l.append(nd)
-    return l
-        
-        
-    
-
-
-def scrape_standings2(query, competition, season):
-
-    lines = scrape_wiki(query)
-    
-    l = []
-    for i, line in enumerate(lines):
-        if re.search("\|\d+\|\|\d+\|\|\d+", line):
-            fields = line.split("|")
-            fields = [e.strip() for e in fields if e.strip()]
-            if len(fields) == 8:
-                _, wins, losses, ties, goals_for, goals_against, _, points = fields
-
-            elif len(fields) == 9:
-                # Shootout wins/losses
-                _, wins, _, _, losses, goals_for, goals_against, _, points = fields
-                ties = 0
-
-            previous = lines[i-1]
-            try:
-                team = re.search("\[\[(.*?)\]\]", previous).groups()[0]
-            except:
-                team = None
-            
-            if team:
-                l.append({
-                        'team': team,
-                        'wins': wins,
-                        'losses': losses,
-                        'ties': ties,
-                        'goals_for': goals_for,
-                        'goals_against': goals_against,
-                        'points': points,
-                        'competition': competition,
-                        'season': season,
-                        })
-    return l
-
-
-def scrape_standings3(query, competition, season):
-    
-    lines = scrape_wiki(query)
-    
-    header = ['games', 'wins', 'losses', 'ties', 'goals_for', 'goals_against', 'gd', 'points']
-    
-    in_standing = False
-    team = new_team = None
-
-    standings = []
-
-    l = []
-    for line in lines:
-
-        if in_standing:
-            m = re.match("\|\[\[(.*?)\]\]", line)
-            if m:
-                print line
-                new_team = m.groups()[0]
-                d = dict(zip(header, l))
-                d.update({
-                        'team': team,
-                        'competition': competition,
-                        'season': season,
-                        })
-
-                standings.append(d)
-                l = []
-                team = new_team
-            else:
-                data = line.replace("|", '')
-                l.append(data)
-
-        if re.search("=+\s*Standings\s*=+", line):
-            in_standing = True
-
-
-    return standings
-                
-                
-                
-        
-        
 
 def scrape_stadium(query):
+
+    lines = scrape_wiki(query)
+    infobox_lines = get_infobox_lines(lines)
+    processed = [process_key_value(line) for line in infobox_lines]
+    d = dict([e for e in processed if e])
+
+
     return {
         'fullname': stadium_name,
         'name': name,
@@ -688,6 +549,167 @@ class PlayerScraper(object):
             return helper(value)
         else:
             return 0
+
+
+
+# I don't think these are a good idea. Standings are too variable.
+def scrape_mls_standings():
+    l = []
+    for season in range(1996, 2011):
+        season = unicode(season)
+        query = '%s Major League Soccer_season' % season
+        l.extend(scrape_standings(query, 'MLS', season))
+    return l
+
+def scrape_pdl_standings():
+    l = []
+    for season in range(1996, 2011):
+        season = unicode(season)
+        query = '%s PDL season' % season
+        l.extend(scrape_standings(query, 'MLS', season))
+    return l
+
+
+def scrape_england_standings():
+    l = []
+    for season in range(1996, 2011):
+        season_name = "%s-%s" % (season, season+1)
+        query = '%s Premier League'  % season_name
+        l.extend(scrape_standings(query, 'EPL', season_name))
+    return l
+
+
+def scrape_standings(query, competition, season):
+    """
+    Tries to scrape standings in different ways.
+    """
+
+    for func in (scrape_standings1, scrape_standings2, scrape_standings3):
+        try:
+            l = func(query, competition, season)
+        except:
+            l = []
+        if l:
+            return l
+
+    return []
+
+
+def scrape_standings1(query, competition, season):
+    # line = '{{MLS tr |team=[[1996 D.C. United season|D.C. United]] |pos=2 |w=15 |l=16 |t=1 |gf=62 |ga=56 |color=ep |code=DC |match={{{team}}} }}'
+    lines = scrape_wiki(query)
+    l = []
+
+    for line in lines:
+        if re.search("\|team=\[\[", line):
+            fields = line.split("|")
+            fields = [e for e in fields if '=' in e]
+
+            d = {}
+            for field in fields:
+                k, v = [e.strip() for e in field.split("=")]
+                d[k] = v
+                    
+            nd = {
+                'competition': competition,
+                'season': season,
+                'wins': d['w'],
+                'losses': d['l'],
+                'ties': d['t'],
+                'goals_for': d['gf'],
+                'goals_against': d['ga'],
+                }
+                
+            l.append(nd)
+    return l
+        
+        
+    
+
+
+def scrape_standings2(query, competition, season):
+
+    lines = scrape_wiki(query)
+    
+    l = []
+    for i, line in enumerate(lines):
+        if re.search("\|\d+\|\|\d+\|\|\d+", line):
+            fields = line.split("|")
+            fields = [e.strip() for e in fields if e.strip()]
+            if len(fields) == 8:
+                _, wins, losses, ties, goals_for, goals_against, _, points = fields
+
+            elif len(fields) == 9:
+                # Shootout wins/losses
+                _, wins, _, _, losses, goals_for, goals_against, _, points = fields
+                ties = 0
+
+            previous = lines[i-1]
+            try:
+                team = re.search("\[\[(.*?)\]\]", previous).groups()[0]
+            except:
+                team = None
+            
+            if team:
+                l.append({
+                        'team': team,
+                        'wins': wins,
+                        'losses': losses,
+                        'ties': ties,
+                        'goals_for': goals_for,
+                        'goals_against': goals_against,
+                        'points': points,
+                        'competition': competition,
+                        'season': season,
+                        })
+    return l
+
+
+def scrape_standings3(query, competition, season):
+    
+    lines = scrape_wiki(query)
+    
+    header = ['games', 'wins', 'losses', 'ties', 'goals_for', 'goals_against', 'gd', 'points']
+    
+    in_standing = False
+    team = new_team = None
+
+    standings = []
+
+    l = []
+    for line in lines:
+
+        if in_standing:
+            m = re.match("\|\[\[(.*?)\]\]", line)
+            if m:
+                print line
+                new_team = m.groups()[0]
+                d = dict(zip(header, l))
+                d.update({
+                        'team': team,
+                        'competition': competition,
+                        'season': season,
+                        })
+
+                standings.append(d)
+                l = []
+                team = new_team
+            else:
+                data = line.replace("|", '')
+                l.append(data)
+
+        if re.search("=+\s*Standings\s*=+", line):
+            in_standing = True
+
+
+    return standings
+                
+                
+                
+        
+        
+
+
 
 if __name__ == "__main__":
     print sys.argv[1]
