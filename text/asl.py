@@ -1,6 +1,6 @@
-
 import datetime
 import os
+import re
 
 from soccerdata.alias import get_team, get_name
 from soccerdata.cache import data_cache
@@ -97,11 +97,17 @@ class GameProcessor(object):
             print fields
             return {}
 
-        sx = season.replace("Fall", '').replace('Spring', '').replace('Playoffs', '').replace('Playoff', '').strip()
+        sx = season
+        for e in 'Fall', 'Spring', 'Playoffs', 'First Half', 'Second Half':
+            sx = sx.replace(e, '')
+
         if '-' in season:
-            start_year, end_year = [int(e) for e in sx.split('-')]
+            try:
+                start_year, end_year = [int(e) for e in sx.split('-')]
+            except:
+                import pdb; pdb.set_trace()
         else:
-            start_year = end_year = int(sx)
+            start_year = end_year = int(re.match('^(\d+).*$', sx).groups()[0])
 
         # Skipping minigame for now.
         if day in ('M', 'SO', 'OT', 'SO-M'):
