@@ -18,22 +18,25 @@ def first_load():
     load_positions()
 
     # Scores, stats.
-    #load_asl()
-    #load_nasl()
-    #load_apsl()
+    load_asl()
+    load_nasl()
+    load_apsl()
     load_mls()
     load_mls_reserve()
-    return
     load_partial()
-
     load_usl()
     load_nasl2()
-    load_usa()
-    #load_world_cup()
-    load_ncaa()
-    #load_concacaf()
-    # Scraped data
 
+    load_open_cup()
+    load_ncaa()
+    load_usa()
+
+    return
+
+    #load_concacaf()
+
+    #load_world_cup()
+    # Scraped data
     #load_kicker()
     #load_mediotiempo()
 
@@ -66,6 +69,7 @@ def load_drafts():
     from soccerdata.text import drafts
     print "Loading drafts.\n"
     generic_load(soccer_db.chris_drafts, drafts.load_drafts)
+
 
 
 def load_positions():
@@ -186,6 +190,12 @@ def load_mls_reserve():
     generic_load(soccer_db.mls_reserve_goals, reserve.process_goals)
 
 
+def load_open_cup():
+    from soccerdata.text.scores import cup
+    generic_load(soccer_db.open_cup_games, cup.process_open_cup_games)
+    generic_load(soccer_db.open_cup_games, cup.process_american_cup_games, delete=False)
+
+
 
 def load_nasl2():
 
@@ -241,6 +251,7 @@ def load_ncaa():
 
 def load_usa():
     from soccerdata.text import usa
+    from soccerdata.text import drafts
  
     print "loading usa games"
     generic_load(soccer_db.usa_games, usa.process_usa_games)
@@ -250,6 +261,8 @@ def load_usa():
 
     print "loading usa lineups"
     generic_load(soccer_db.usa_lineups, usa.process_usa_lineups)
+
+    generic_load(soccer_db.usa_drafts, drafts.process_usa_drafts)
 
 
 def load_world_cup():

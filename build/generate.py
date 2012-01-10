@@ -34,18 +34,30 @@ def generate_all_stats():
     generic_load(soccer_db.concacaf_stats, lambda: concacaf_stats.values())    
 
 def generate_all_standings():
+
+    # Generate MLS Reserve League standings
     standings = generate_standings(soccer_db.mls_reserve_games.find())
     generic_load(soccer_db.mls_reserve_standings, lambda: standings.values())
 
+    # Generate international standings
     standings = generate_standings(soccer_db.usa_games.find())
     generic_load(soccer_db.usa_standings, lambda: standings.values())
 
-
+    # Generate CONCACAF international standings
     concacaf_standings = generate_standings(soccer_db.concacaf_games.find())
     generic_load(soccer_db.concacaf_standings, lambda: concacaf_standings.values())
 
+    # Generate Open Cup Standings
+    standings = generate_standings(soccer_db.games.find({'competition': 'Lamar Hunt U.S. Open Cup'}))
+    generic_load(soccer_db.open_cup_standings, lambda: standings.values())
 
+    # Generate American Cup Standings
+    standings = generate_standings(soccer_db.games.find({'competition': 'American Cup'}))
+    generic_load(soccer_db.open_cup_standings, lambda: standings.values(), delete=False)
 
+    # Generate Lewis Cup Standings
+    standings = generate_standings(soccer_db.games.find({'competition': 'Lewis Cup'}))
+    generic_load(soccer_db.open_cup_standings, lambda: standings.values(), delete=False)
     
 
 
@@ -77,6 +89,7 @@ def generate_standings(games):
         else:
             gf, ga = game['away_score'], game['home_score']
 
+        
         d[t]['goals_for'] += gf
         d[t]['goals_against'] += ga
 

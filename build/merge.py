@@ -5,6 +5,7 @@ from soccerdata.alias import get_team, get_name
 from collections import defaultdict
 
 COLLECTIONS = [
+    'open_cup',
     'apsl',
     'asl',
     'concacaf', 
@@ -15,6 +16,7 @@ COLLECTIONS = [
     'partial', 
     'usa',
     'usl', 
+    'ncaa',
     ]
 
 
@@ -46,13 +48,13 @@ def merge_standings():
     soccer_db.standings.drop()
     insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
     insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
-    insert_rows(soccer_db.standings, soccer_db.usa_standings.find())
-    insert_rows(soccer_db.standings, soccer_db.concacaf_standings.find())
+    insert_rows(soccer_db.standings, soccer_db.open_cup_standings.find())
 
 
 def merge_drafts():
     soccer_db.drafts.drop()
     insert_rows(soccer_db.drafts, soccer_db.chris_drafts.find())
+    insert_rows(soccer_db.drafts, soccer_db.usa_drafts.find())
 
 
 def merge_awards():

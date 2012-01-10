@@ -45,6 +45,7 @@ def build():
     second_load()
     second_merge()
 
+
     # Generate needs to come after merge.
     generate()
 
