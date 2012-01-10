@@ -4,14 +4,25 @@ import hashlib
 import json
 import leveldb
 
+# Should pull this from settings.
+# Need a better place for this.
 data_cache_db = leveldb.LevelDB("/home/chris/leveldb/data")
 
+
+# This is how dates are formatted/unformatted, since leveldb can't store datetimes.
 format_string = '%Y-%m-%dT%H:%M:%S'
 
 
 def cache_format(el):
+    """
+    Format an item for insertion into leveldb.
+    """
 
     def _inner(v):
+        """
+        Convert all datetimes inside an object into strings.
+        """
+        # What about tuples?
         if type(v) == type([]):
             l2 = []
             for e in v:
@@ -33,9 +44,14 @@ def cache_format(el):
 
 
 def cache_unformat(el):
-
+    """
+    Unformat an item upon removal from leveldb.
+    """
 
     def _inner(v):
+        """
+        Turn datetime strings back into datetimes.
+        """
         if type(v) == type([]):
             l2 = []
             for e in v:
@@ -57,7 +73,6 @@ def cache_unformat(el):
 
         return v
 
-
     return _inner(json.loads(el))
 
 
@@ -76,7 +91,8 @@ def get_data_cache(cache_id):
 
 
 class AbstractCache(object):
-    """Decorator that caches a function's return value each time it is called.
+    """
+    Decorator that caches a function's return value each time it is called.
     If called later with the same arguments, the cached value is returned, and
     not re-evaluated.
     """
@@ -90,6 +106,7 @@ class AbstractCache(object):
     def __repr__(self):
         """Return the function's docstring."""
         return self.func.__doc__
+
     def __get__(self, obj, objtype):
         """Support instance methods."""
         return functools.partial(self.__call__, obj)
@@ -101,24 +118,20 @@ class data_cache(AbstractCache):
     """
 
     def __call__(self, *args):
-        # Should maybe fail rather than returning None?
-        # Presumably need kwargs in here too?
+
         key = hashlib.md5('%s:%s' % (self.func.func_name, args)).hexdigest()
 
+        # Try to retrieve from the cache.
         try:
             data = get_data_cache(key)
             print "Returning %s%s from data cache." % (self.func.func_name, args)
             return data
         except KeyError:
+            # Data wasn't in the cache, so go get it.
             pass
 
         value = self.func(*args)
-        try:
-            set_data_cache(key, value)
-        except:
-            import pdb; pdb.set_trace()
-            x = 5
-
+        set_data_cache(key, value)
         return value
 
 
@@ -126,7 +139,6 @@ class set_cache(AbstractCache):
     """
     A decorator that will set the cache without trying to access it.
     """
-    # Use this for overwriting old cache values.
 
     def __call__(self, *args):
         # Should maybe fail rather than returning None?
