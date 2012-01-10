@@ -3,17 +3,24 @@ import os
 
 from soccerdata.utils import pounds_to_kg, inches_to_cm
 
+
 # Scrape bios compiled by me.
+# These should be turned into YAML and this code discarded.
 
 DIR = '/home/chris/www/soccerdata/data/people'
 
-if not os.path.exists(DIR):
-    DIR = "/Users/chrisedgemon/www/soccerdata/data/people"
+
 
 def process_name(s):
+    """
+    All names should be in normal form. 
+    None of this last name first nonsense.
+    """
+
     if ',' not in s:
         return s
 
+    # Multiple comma names.
     mapping = {
         'Da Silva-Sarafim, Jr, Edivaldo': 'Da Silva-Sarafim Jr, Edivaldo',
         'Novas, Lomonaca, Ignacio': 'Novas, Ignacio',
@@ -23,72 +30,18 @@ def process_name(s):
         }
 
     if s in mapping:
-            s = mapping[s]
+        s = mapping[s]
 
-    try:
-        last, first = name = s.split(',') # Assume no 2-comma names.    
-    except:
-        import pdb; pdb.set_trace()
+    last, first = name = s.split(',') # Assume no 2-comma names.    
     name = first + ' ' + last    
     return name.strip()
 
 
-def merged_bios():
-    # Merge duplicate bios together.
-    # This should (probably?) be done
-    # By the build script.
-    
-
-    # Fields
-    # name
-
-    # birthdate
-    # nationality
-
-    # height/weight - later
-    # position - later
-
-    bios = {}
-    for e in load_all_bios():
-        name = e['name']
-        birthdate = e['birthdate']
-        nationality = e['nationality']
-
-        # Do some sanity checks on bios.
-        # These should be done in merge/check.
-        if name in bios:
-            bd = bios[name]
-            if bd['birthdate']:
-                if birthdate:
-                    try:
-                        assert bd['birthdate'] == birthdate
-                    except:
-                        #import pdb; pdb.set_trace()
-                        print name
-                        continue
-            else:
-                bd['birthdate'] = birthdate
-
-            if bd['nationality']:
-                if nationality:
-                    try:
-                        assert bd['nationality'] == nationality
-                    except:
-                        #import pdb; pdb.set_trace()
-                        print name
-                        continue
-            else:
-                bd['nationality'] = nationality
-            
-
-        else:
-            bios[name] = e
-
-    return bios.values()
-
-
-
 def load_all_bios():
+    """
+    Load all bio files.
+    This is just MLS/USL bios compiled by me a long time ago.
+    """
     files = os.listdir(DIR)
     l = []
     for f in files:
@@ -99,8 +52,9 @@ def load_all_bios():
 
 def load_bios(p):
     """
-    Load my MLS bios data.
+    Load bio data.
     """
+
 
     def process_line(line):
 
@@ -145,8 +99,17 @@ def load_bios(p):
     return [e for e in bios if e]
 
 
+def bios_yaml(p):
+    # Convert bios to yaml.
+    import yaml
+    s = yaml.dump(load_all_bios())
+    f = open(p, 'w')
+    f.write(s)
+    f.close()
+
+
 if __name__ == "__main__":
-    print merged_bios()
+    print bios_yaml()
     
 
 
