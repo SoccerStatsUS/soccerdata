@@ -6,7 +6,7 @@ Season: 1914
 11/2/1913; Alley Boys FC; 8-5; CS Jersey Blues FC
 11/2/1913; Babcock & Wilson; 2-6; Cowboy FC
 11/1/1913; Bethlehem Steel; 7-0; Disston FC
-11/1/1913; Tacony FC; ; Kensington FC
+11/1/1913; Tacony FC; w/o ; Kensington FC
 11/2/1913; Niagara Falls Rangers; 6-1; Buffalo Corinthians
 11/1/1913; New Bedford FC; 3-1; Farr Alpaca
 11/30/1913; Hudson United; 0-0; St. George FC
@@ -24,7 +24,7 @@ Season: 1914
 12/6/1913; Peabody FC; 1-1; Wissinomig FC
 12/6/1913; West Philadelphia FC; 4-1; Kensington FC
 12/13/1913; Peabody FC; 3-0; Wissinomig FC
-11/30/1913; Niagara Falls Rangers; ; McNaughton Rangers
+11/30/1913; Niagara Falls Rangers; w/o ; McNaughton Rangers
 12/6/1913; New Bedford FC; 3-0; Presbyterian FC
 12/14/1913; Roses FC; 2-2; Packard FC
 12/21/1913; Roses FC; 2-1; Packard FC
@@ -34,7 +34,7 @@ Season: 1914
 1/24/1914; New Bedford FC; 2-0; West Philadelphia FC
 1/25/1914; Brooklyn Field Club; 1-0; Bethlehem Steel
 1/25/1914; Columbus Oval FC; 2-1; Alley Boys FC
-1/31/1914; Peabody FC; ; St. George FC
+1/31/1914; Peabody FC; w/o; St. George FC
 2/1/1914; Yonkers FC; 3-1; New York Celtic FC
 2/1/1914; Niagara Falls Rangers; 2-0; Roses FC
 3/8/1914; Pullman FC; 4-2; Hyde Park Blues FC
@@ -63,7 +63,7 @@ New York City & New Jersey District
 11/22/14; Babcock & Wilcox;  2 - 1; Rangers FC
 11/22/14; Bronx United;  3 - 0; Newark FC
 11/22/14; German FC; 5 - 0; Columbia Oval
-11/22/14; Brooklyn FC; 2 - 0;  Clam MacDonald
+11/22/14; Brooklyn FC; 2 - 0; Clam MacDonald
 
 New England District
 11/15/14; Rangers FC (Niagara Falls); 4 - 0; Rochester City
@@ -85,7 +85,7 @@ Connecticut District
 11/14/14; Academy FC; 2 : 0; Bridgeport City
 
 Massachusetts District
-11/7/14; General Electric FC; 2 : 1;Lawrence FC
+11/7/14; General Electric FC; 2 : 1; Lawrence FC
 11/14/14; Fore River FC; 2 : 1; Farr Alpaca
 11/14/14; Fall River Rovers; 3 : 1; Taunton City
 11/14/14; YMCA Total Abstinence Society FC; 2 : 1; New Bedford FC
@@ -278,7 +278,7 @@ New York, New Jersey & NW New York
 
 Massachusetts
 12/11/15; New Bedford FC; 1 : 0; New Bedford Celtic
-12/11/15; Lynn Hibernian; 1 : 1 Boston American FC
+12/11/15; Lynn Hibernian; 1 : 1; Boston American FC
 12/25/15; Lynn Hibernian; 3 : 0; Boston American FC
 12/25/15; General Electric FC; 2 : 1; Fore River FC
 12/25/15; Fall River Rovers; 1 : 0; Pan American FC
@@ -316,7 +316,7 @@ Third Round
 1/16/16; Continental FC; 1 - 0; Brooklyn Celtic
 1/16/16; West Hudson FC;  2 - 1; Babcock & Wilcox
 1/15/16; Braddock FC;  1 - 3;  Thistles FC
-1/22/16; Fall River Rovers; 4 - 0 Lynn Hibernians
+1/22/16; Fall River Rovers; 4 - 0; Lynn Hibernians
 1/29/16; General Electric FC;  2 - 7;  New Bedford FC
 1/16/16; Crompton FC;  0 - 2;  Bridgeport City
 3/13/16; Pullman FC; 2 - 0; Hyde Park Blues
@@ -665,7 +665,7 @@ Third Round
 12/22/18; Bricklayers & Masons; 2 : 0; Scottish Americans
 12/22/18; Roses FC; 4 : 3 (aet); Detroit FC
 12/22/18; Goodyear FC; 6 : 1; Magyar American FC
-12/22/18; Paterson FC; 2 : 1*; Robins Dry Dock
+12/22/18; Paterson FC; 2 : 1; Robins Dry Dock
 *Match abandoned at 74th minute due to darkness
 12/22/18; Paterson FC; 3 : 1;  Robins Dry Dock
 12/29/18; Scottish American FC; 0 : 2; New York FC
@@ -715,7 +715,7 @@ Northern Massachusetts
 11/2/19; Abbot Worsted; 3 : 2; Lynn Hibernains
 ; United Shoe; 6 : 1; Andover United
 ; General Electric; 0 : 2; Fore River FC
-11/1/19; Lynn Thistles; *; Lawrence League
+11/1/19; Lynn Thistles; ?; Lawrence League
 ; Boston City;  0 : 2; Squantum
 
 Connecticut
@@ -785,19 +785,19 @@ Ohio
 
 Michigan
 ; Packard FC; 3 : 1; Bricklayers FC
-Pontiac City FC; 7 : 0; Vikings FC
-Rising Star FC; 0 : 0; Detroit SFC
-Caledonia FC; 4 : 0; Roses FC
+; Pontiac City FC; 7 : 0; Vikings FC
+; Rising Star FC; 0 : 0; Detroit SFC
+; Caledonia FC; 4 : 0; Roses FC
 
 Illinois
-Palmer Park; 5 : 1; Thistles AFC
-Lake Forest FC; 1 : 4; Lincoln Park FC
+; Palmer Park; 5 : 1; Thistles AFC
+; Lake Forest FC; 1 : 4; Lincoln Park FC
 11/23/19; Olympia FC; 5 : 1; Thistle FC
 11/23/19; Bricklayers FC; 1 : 0; Swedish American FC
 
 Missouri
-Ben Miller FC; 6 : 1; Innisfalls FC
-Scullin Steel; 3 : 1; St. Louis Screw
+; Ben Miller FC; 6 : 1; Innisfalls FC
+; Scullin Steel; 3 : 1; St. Louis Screw
 
 Third Round
 
@@ -864,7 +864,7 @@ Northern Massachusetts
 *replay orderd due to rules violations by General Electric FC
 10/30/20; Fore River FC; 5 : 0; General Electric FC
 10/16/20; Arlington Mills; 1 : 2; Boston City
-10/16/20; Abbot Worsted 9 : 0  Chicopee Rovers
+10/16/20; Abbot Worsted; 9 : 0;  Chicopee Rovers
 10/16/20; Hendee Indians; 4 : 1; Smith & Dove FC
 10/16/20; Farr Alpaca; 4 : 2; United Shoe
 
@@ -1016,7 +1016,7 @@ Quarterfinals
 1/15/21; Tebo Yacht Basin; 3 : 1;  Fairlawn Rovers
 1/23/21; Bricklayers FC; 1 : 1;  Scullin Steel
 3/5/21; Robins Dry Dock; 3 : 0; Fore River FC
-1/30/21; Scullin Steel;  2 : 1 Bricklayers FC
+1/30/21; Scullin Steel; 2 : 1; Bricklayers FC
 *replay ordered after Bricklayers protest was upheld
 3/6/21; Scullin Steel; 2 : 0; Bricklayers FC
 
@@ -1087,10 +1087,10 @@ Southern New York
 
 Northwestern New York
 10/16/21; Rochester City Moose; 3 : 1; Camera Works
-10/16/21; Rochester Celtic 2 : 1; General Electric
+10/16/21; Rochester Celtic; 2 : 1; General Electric
 
 Northern Massachusetts
-101/5/21; Arlington Mills; 0 : 3; American Woolen Co.
+10/15/21; Arlington Mills; 0 : 3; American Woolen Co.
 10/15/21; Massachusetts Cotton Mills; 0 : 1; Abbot Worsted
 10/15/21; Charlestown; w/o; General Electric
 10/15/21; Grey & Davis; 2 : 0; Fore River FC
@@ -1183,7 +1183,7 @@ Missouri
 11/13/21; Springfield; 0 : 1; Paulian
 11/13/21; Gillespie; 1 : 1; St. Leo’s
 11/24/21; St. Leo’s; 3 : 4; Gillespie
-11/20/21; DeAndreis 1 : 2 Ben Miller FC
+11/20/21; DeAndreis; 1 : 2; Ben Miller FC
 11/20/21; St. Louis Screw; 1 : 2; Scullin Steel
 
 Michigan
@@ -1215,7 +1215,7 @@ Eastern Bracket
 
 Western Bracket
 11/31/21; Simmons FC; 4 : 2; Bricklayers FC
-12/4/21; Pullman FC  2 : 0; Rangers FC
+12/4/21; Pullman FC; 2 : 0; Rangers FC
 12/4/21; Scullin Steel; 2 : 0; Johnston City
 12/4/21; Arden; 3 : 0; Dunlevy
 12/4/21; Industrial FC; 1 : 1; Roses FC
@@ -1292,7 +1292,7 @@ Eastern Pennsylvania
 10/14/22; Fleisher Yarn; 3 : 2; Berney Ernstka AAFC
 
 Northern Massachusetts & New Hampshire
-10/12/22; Maple Leaf FC; 4 : 1 Charlestown
+10/12/22; Maple Leaf FC; 4 : 1; Charlestown
 10/12/22; Falco AFC; 7 : 1; Boston Blues
 10/14/22; Clan Sutherland; 0 : 2; General Electric
 10/14/22; Methuen FC; 0 : 5; Abbot Worsted
@@ -1421,8 +1421,8 @@ Illinois
 
 Missouri & Southern Illinois
 11/12/22; Ben Miller FC (Muny); 1 : 0; St. Leo FC
-11/12/22; Paul Mueller FC  0 : 2; Prendergast FC
-11/12/22; Vesper Buick  8 : 0; Wilsonville United
+11/12/22; Paul Mueller FC;  0 : 2; Prendergast FC
+11/12/22; Vesper Buick;  8 : 0; Wilsonville United
 11/12/22; Scullin Steel; 4 : 3; West Frankfort FC
 
 Michigan & Western Pennsylvania
@@ -1581,7 +1581,7 @@ Eastern Bracket
 2/28/25; Shawnsheen Indians; 4 : 1; Whittal Carpet Mill
 3/8/25; Bayonne FC; 1 : 0; Lexington FC
 ; Abbot Worsted; w/o; Waypoyset FC
-3/1/25; Sayles Finishing Plant; 3 : 0*;  Ansonia FC
+3/1/25; Sayles Finishing Plant; 3 : 0;  Ansonia FC
 *Match stopped in 51st minutre due to heavy rain
 3/14/25; Sayles Finishing Plant; 9 : 2; Ansonia FC
 
@@ -1620,9 +1620,9 @@ Eastern Bracket
 1/17/26; Brooklyn Wanderers; 2 : 2 (aet); Indiana Flooring
 1/24/26; Indiana Flooring; 2 : 3; Brooklyn Wanderers
 1/17/26; Fall River Marksmen; 3 : 2; Providence Clamdiggers
-1/17/26; New York Giants; 9 : 1; Yonkers Thistle*
-1/17/26; Trenton FC; 3 : 3 (aet)  Philadelphia Field Club
-1/24/26; Trenton FC; 1 : 4; Philadelphia Field Club*
+1/17/26; New York Giants; 9 : 1; Yonkers Thistle
+1/17/26; Trenton FC; 3 : 3 (aet);  Philadelphia Field Club
+1/24/26; Trenton FC; 1 : 4; Philadelphia Field Club
 
 Western Bracket
 1/10/26; Wellston FC (St. L); 1 : 2; Pants Store FC (St. L)
@@ -1676,25 +1676,25 @@ First Round
 Eastern Bracket
 3/17/27; Brooklyn Wanderers; 1 : 2; Newark Skeeters
 3/26/27; Bethlehem Steel; 3 : 1; Philadelphia Field Club
-3/26/27; Fore River FC*; 3 : 2 (aet); Boston Wonder Workers
+3/26/27; Fore River FC; 3 : 2 (aet); Boston Wonder Workers
 *advanced from qualifying rounds. All other clubs exempt from qualifying
 3/27/27; Fall River Marksmen; 3 : 2; New Bedford Whalers
 3/27/27; Indiana Flooring; 3 : 1; New York Giants
 3/27/27; Providence Clamdiggers; 3 : 3 (aet); J & P Coats
 4/2/27; J & P Coats; 2 : 3; Providence Clamdiggers
-3/27/27; Trenton Field Club*; 2 : 1; Viking A.C. (NYC)*
+3/27/27; Trenton Field Club; 2 : 1; Viking A.C. (NYC)
 *advanced from qualifying rounds. All other clubs exempt from qualifying
-3/27/27; Hungarian FC (Buff.)*; 0 : 5; Whittall Carpet Mill*
+3/27/27; Hungarian FC (Buff.); 0 : 5; Whittall Carpet Mill
 *Though eliminated in qualifying rounds, Whittall Carpet Mill were allowed to re-enter, due to the withdrawal of Springfield Babes from the ASL
 
 Western Bracket
 2/20/27; Ben Miller FC (St. L); 5 : 4; Pants Store FC (St. L)
 2/20/27; Sparta A & BA (Chi.); 3 : 0; Thistle FC (Chi.)
-2/20/27; Pullman FC (Chi.); 0 : 4; Buda A.A. (Harvey , Ill.)*
-2/27/27; Wellston FC (St. L);  9 : 1; Johnston City AFC (Ill.)*
+2/20/27; Pullman FC (Chi.); 0 : 4; Buda A.A. (Harvey , Ill.)
+2/27/27; Wellston FC (St. L);  9 : 1; Johnston City AFC (Ill.)
 2/27/27; Bricklayers FC (Chi.); 2 : 0; White Banner Malt (St. L)
-2/27/27; Holley Carburetor (Det.)*; 2 : 1; Canadian Club (Chi.)
-2/27/27; American Hungarian FC (Cle.); 3 : 2; Magyar American FC (Cle.)*
+2/27/27; Holley Carburetor (Det.); 2 : 1; Canadian Club (Chi.)
+2/27/27; American Hungarian FC (Cle.); 3 : 2; Magyar American FC (Cle.)
 2/27/27; MacKenzie FC (Akron); 4 : 0; Lorain Eagles (Oh.)
 
 Second Round
@@ -1728,24 +1728,23 @@ Final
 Season: 1928
 
 First Round
-*advanced from qualifying rounds. All other clubs exempt from qualifying
 Eastern Bracket
 1/14/28; Boston Wonder Workers; 3 : 0; Whittall Carpet Mills
 1/14/28; New Bedford Whalers; 2 : 1; J & P Coats
-1/15/28; New York Nationals; 6 : 1; I.R.T. Celtics (NYC)*
-1/15/28; Bethlehem Steel; 3 : 1; Centennial FC (Phi.)*
+1/15/28; New York Nationals; 6 : 1; I.R.T. Celtics (NYC)
+1/15/28; Bethlehem Steel; 3 : 1; Centennial FC (Phi.)
 1/15/28; Brooklyn Wanderers; 4 : 0; Trenton FC
-1/15/28; Fall River Marksmen; 5 : 1; MacKenzie FC (Niagara Falls)*
+1/15/28; Fall River Marksmen; 5 : 1; MacKenzie FC (Niagara Falls)
 1/15/28; New York Giants; 3 : 2; Newark Skeeters
 1/15/28; Providence Clamdiggers; 5 : 0; Danersk FC (CT)
 
 Western Bracket
-1/15/28; Magyar American FC (Cle.)*; 2 : 1; Wellston FC (St. L)
-1/15/28; Gar Wood FC (Det.)*; 2 : 5; Bricklayers FC (Chi.)
-1/15/28; Morgan Haulers (St. L); 3 : 6; Buda A.A. (Harvey, Ill.)*
+1/15/28; Magyar American FC (Cle.); 2 : 1; Wellston FC (St. L)
+1/15/28; Gar Wood FC (Det.); 2 : 5; Bricklayers FC (Chi.)
+1/15/28; Morgan Haulers (St. L); 3 : 6; Buda A.A. (Harvey, Ill.)
 1/15/28; Canadian Club (Chi.); 4 : 1; Tablers FC (St. L)
 1/22/28; Ben Miller SC (St. L); 2 : 0; Swedish American FC (Det.)
-1/22/28; Walkerville (Ont.)*; 0 : 5; Holley Carburetor (Det.)
+1/22/28; Walkerville (Ont.); 0 : 5; Holley Carburetor (Det.)
 1/23/28; Vienna FC (Chi.); 1 : 0; Thistle FC (Chi.)
 1/22/28; Sparta A & BA (Chi.); 2 : 0; Olympia FC (Chi.)
 
@@ -1903,7 +1902,7 @@ Eastern Bracket
 1/11/31; Fore River FC; 3 : 2; Rochester Celtic
 1/11/31; Newark Americans; 3 : 0; Newark Portuguese
 1/11/31; Galicia SC (NYC); 2 : 1; Tappen Post (NYC)
-1/11/31 Bethlehem Steel (Bal.); 7 : 1; Trenton Highlanders
+1/11/31; Bethlehem Steel (Bal.); 7 : 1; Trenton Highlanders
 
 Western Bracket
 1/11/31; Ben Miller SC (St. L); 5 : 3; Tablers SC (St. L)
@@ -2040,7 +2039,7 @@ Western Bracket
 2/12/33; Stix, Baer & Fuller; 10 : 1; Yugoslav Americnan SC
 
 Quarterfinals
-2/25/33; Anderson SC; 2 : 1*; Stix, Baer & Fuller
+2/25/33; Anderson SC; 2 : 1; Stix, Baer & Fuller
 *Replay ordered after Stix protest was upheld
 3/12/33; Stix, Baer & Fuller; 4 : 1; Anderson S.C.
 2/26/33; Sparta A & BA; 1 : 0; Rosenblum Slavia
@@ -2216,12 +2215,12 @@ Quarter Finals
 3/15/1936; German-Americans; 3-2; Baltimore Canton; Baltimore
 
 Semi Finals
-3/29/1936; St. Mary's Celtic 2-1; Brookhattan; New York
+3/29/1936; St. Mary's Celtic; 2-1; Brookhattan; New York
 4/5/1936; Scots Americans; 0-1; German-Americans; Newark
 
 Final
 4/12/1936;St. Mary's Celtic; 0-2; German-Americans
-4/19/1396; St. Mary's Celtic; 1-0; German-Americans
+4/19/1936; St. Mary's Celtic; 1-0; German-Americans
 
 Western Division
 
@@ -2595,7 +2594,7 @@ Semifinals
 
 Final
 5/4/41; Pawtucket Rngers; 4 : 2; Chrysler FC; Pawtucket Rhode Island
-5/11/41; Chrysler FC; 3 : 4; (aet); Pawtucket Rangers; Detroit, Michigan
+5/11/41; Chrysler FC; 3 : 4 (aet); Pawtucket Rangers; Detroit, Michigan
 *Aggregate drawn 5-5, Pawtucket Rangers win National Challenge Cup on 8-5 aggregate after extra time
 
 
@@ -2652,7 +2651,7 @@ Semifinals
 5/3/42; Philadelphia Americans; 2 : 0; Pawtucket Rangers
 5/10/42; Pawtucket Rangers; 5 : 0(aet); Philadelphia Americans
 *Aggregate drawn 2-2, Pawtucket Rangers advance on 5-2 aggregate after extra time
-4/26/42; Gallatin Sport Club; 2 : 0; nSparta
+4/26/42; Gallatin Sport Club; 2 : 0; Sparta
 5/3/42; Sparta; 3 : 2; Gallatin Sport Club
 *Gallatin Sport Club advance on 4-3 aggregate
 
@@ -2849,7 +2848,7 @@ Western Bracket
 
 Quarterfinals
 4/28/46; Viking A.A.; 1 : 0;   Carondolet
-5/26/46; Brooklyn Wanderers; 1 : 2*;  Ponta Delgada
+5/26/46; Brooklyn Wanderers; 1 : 2;  Ponta Delgada
 *Match protested by Brooklyn over a shortage of eight minutes playing time in the first half. Match replayed after second leg.
 6/3/46; Ponta Delgada; 1 : 1; Brooklyn Wanderers
 6/17/46; Brooklyn Wanderers; 1 : 3; Ponta Delgada
@@ -3068,7 +3067,7 @@ QUARTERFINALS
 NATIONAL SEMIFINALS
 3/22/1953; New York Americans (East NY); 0:1; Harmarville Hurricanes (West PA)
 3/29/1953; Harmarville Hurricanes (West PA); 2:1;  New York Americans (East NY)
-4/5/1953; Falcons SC (IL); 0:0*; Kutis SC (MO)
+4/5/1953; Falcons SC (IL); 0:0; Kutis SC (MO)
 4/12/1953; Kutis SC (MO); 1:2; Falcons SC (IL)
 * Kutis SC won the original 1st leg match 3-0 on March 22, but replay was ordered
 
@@ -3261,7 +3260,7 @@ NATIONAL QUARTERFINALS
 ; Kutis SC (MO); 9:3; Bavarian SC (WI)
 3/11/1962; San Francisco Scots (North CA); 3:1; Magyar SC (South CA)
 3/25/1962; Magyar SC (South CA); 2:1; San Francisco Scots (North CA)
-4/15/1962; Hungaria SC (East NY); 2:0*; Newark Portuguese (NJ)
+4/15/1962; Hungaria SC (East NY); 2:0; Newark Portuguese (NJ)
 * Newark won the original match 1-0 on March 25 but a replay was ordered
        
 NATIONAL SEMIFINALS
@@ -3386,21 +3385,21 @@ FINAL
 
 
 Season: 1969
-; Greek American SC (New York, NY); 1:0;  Montebello Armenians; Los Angeles, CA
+; Greek American SC; 1:0;  Montebello Armenians; Los Angeles, CA
 
 
 Season: 1970
 FINAL            
-; Elizabeth SC (Elizabeth, NJ); 2:1;  Los Angeles Croatia; Los Angeles, CA
+; Elizabeth SC; 2:1;  Los Angeles Croatia; Los Angeles, CA
 
 
 Season: 1970
-; Hota SC (New York, NY);  6:4 (AET); San Pedro Yugoslavs; Long Beach, CA
+; Hota SC;  6:4 (AET); San Pedro Yugoslavs; Long Beach, CA
 
 
 Season: 1972
 FINAL            
-; Elizabeth SC (Elizabeth, NJ); 1:0; San Pedro Yugoslavs; Long Beach, CA
+; Elizabeth SC; 1:0; San Pedro Yugoslavs; Long Beach, CA
 
 
 Season: 1973
@@ -3422,9 +3421,8 @@ ROUND OF 16
 3/11/1973; Ukrainian Nationals; 4:2; Tower Ford Casa Bianca
 
 QUARTERFINALS     
-1973; San Jose Portuguese; 1:0; Maccabee AC
-4/8/1973; Maccabee AC; 2:0; San Jose Portuguese; Rancho Cienega Stadium; Los Angeles, CA
-* 2:30PM
+* 1973; San Jose Portuguese; 1:0; Maccabee AC
+4/8/1973, 1430; Maccabee AC; 2:0; San Jose Portuguese; Rancho Cienega Stadium; Los Angeles, CA
 *Maccabee goals- Miguel Cuevas, Benny Bienstock
 5/20/1973; Croatian; 2:0; Denver Kickers
 5/6/1973; Greek American; 2:0 Boston Astros
@@ -3436,24 +3434,20 @@ SEMIFINALS
 5/27/1973; Greek American; 1:3; Inter-Italian; New York
 
 FINAL 
-6/10/1973; Maccabee AC; (Los Angeles, CA); 5:3 (AET);   Inter-Italian (Cleveland, OH); Rancho Cienega Stadium; Los Angeles, CA
-* 2:00PM                   
+6/10/1973, 1400; Maccabee AC (Los Angeles, CA); 5:3 (AET);   Inter-Italian; Rancho Cienega Stadium; Los Angeles, CA
 
 Season: 1974
 
 ROUND OF 16
-3/17/1974; Greek American; 2:0; Doxa; New York       
-*2:00PM          
+3/17/1974, 1400; Greek American; 2:0; Doxa; New York       
 3/31/1974; New Britain; 3:0; Boston;  New Britain, CT               
 2/24/1974; Casa Bianca; 1:0; Co-Aurora
 3/17/1974; Philadelphia Inter; 2:1; Newark Ukrainian
 4/21/1974; Pepsi-Cola; w/o; Tulsa Internationals
 4/21/1974; Croatian; 3:0; Milwaukee Bavarian; Chicago, IL
-1/27/1974; San Pedro Yugoslavs; 1:2; Gauchos; Daniels Field; San Pedro, CA
-*2:00PM       
+1/27/1974, 1400; San Pedro Yugoslavs; 1:2; Gauchos; Daniels Field; San Pedro, CA
 *G- 47′ Miguel Brigida, 64′ Miguel Angel Cuevas  SP- 86′ Franklyn Fisher 
-3/17/1974; SFAC; 5:0; Tacoma Heidelberg; Balboa Stadium; San Francisco, CA
-*12:30PM       
+3/17/1974, 1230; SFAC; 5:0; Tacoma Heidelberg; Balboa Stadium; San Francisco, CA
 *1′ Perry Fedje, Theo Van der Heyden, Alex Robostoff(2), Sal Corona      
 
 QUARTERFINALS            
@@ -3463,8 +3457,7 @@ QUARTERFINALS
 *17′ Leif Aaroe
 3/31/1974; Gauchos; 3:1 SFAC; Daniels Field; San Pedro, CA
 * Tom Dawkins
-4/7/1974; SFAC; 1:1; Gauchos; Balboa Stadium; San Francisco, CA
-*12:45PM
+4/7/1974, 1245; SFAC; 1:1; Gauchos; Balboa Stadium; San Francisco, CA
 *44′ Theo van der Heyden        18′
 
 SEMIFINALS       
@@ -3479,14 +3472,12 @@ FINAL
 Season: 1975
 
 ROUND OF 16
-1/26/1975; Greek American; 3:1; SFAC;  Balboa Stadium; San Francisco, CA
-* 2:00PM          
+1/26/1975, 1400; Greek American; 3:1; SFAC;  Balboa Stadium; San Francisco, CA
 * G- Tony Panayides, 60′ Sam Sabonkaya, 76′ Tony Panayides S- 54′ Mal Roche
 3/2/1975; Maccabee AC; 7:1; Club Hellas; Daniels Field; San Pedro, CA; 1600         
 * M- Chon Miranda(2), Benny Binstock(2)
 4/13/1975; Milwaukee Blue Ribbon; 0:5; Chicago Lions;  Milwaukee, WI
-3/16/1975; Pepsi-Cola; 0:1; Kutis; O’Fallon Tech Field; St. Louis, MO; 1100
-* 2:30PM 
+3/16/1975, 1430; Pepsi-Cola; 0:1; Kutis; O’Fallon Tech Field; St. Louis, MO; 1100
 * K- 47′ Dan Bokern(Chris Carenza)  Refs Henrich Schmidt, Vince Forst
 4/6/1975; Inter-Giuliana; 4:1; Doxa
 3/22/1975; Fall River International; ?; Boston Astros; Fall River, MA
@@ -3494,11 +3485,9 @@ ROUND OF 16
 4/13/1975; Philadelphia Inter; 2:0;  Hoboken
 
 QUARTERFINALS                   
-3/9/1975; Greek American; 2:0; Maccabee AC; Balboa Stadium; San Francisco, CA; 1557
-* 2:00PM                          
+3/9/1975, 1400; Greek American; 2:0; Maccabee AC; Balboa Stadium; San Francisco, CA; 1557
 * 27′ Joe Giovacchini(Ted Koliczew), 80′ Alex Roboostoff
-3/16/1975; Maccabee AC; 3:0; Greek American; Jackie Robinson Field; Los Angeles, CA
-*2:30PM                  
+3/16/1975, 1430; Maccabee AC; 3:0; Greek American; Jackie Robinson Field; Los Angeles, CA
 *6′ Benny Binshtok, 34′ Chon Miranda, 72′ Ezra Ozeri(Icra Oceri)
 4/20/1975; Chicago Lions; w/o; St. Louis Kutis
 * Lions withdrew             
@@ -3507,14 +3496,13 @@ QUARTERFINALS
 *Rebels advance 5-4 on PKs          
 
 SEMIFINALS         
-5/4/1975; Maccabee AC; 1:0; St. Louis Kutis; Jackie Robinson Field; Los Angeles, CA
-*3:30PM             
+5/4/1975, 1550; Maccabee AC; 1:0; St. Louis Kutis; Jackie Robinson Field; Los Angeles, CA
 * 81′ Benny Binshtock              Referee John Davies
 5/25/1975; Inter-Giuliana; 5:3; Croatian Rebels; New York         
 
 FINAL 
-6/15/1975; Maccabee AC (Los Angeles, CA); 1:0; Inter-Giuliana (New York, NY); El Camino College; Torrance, CA          
-*3:30PM          54′ Abraham Cohen         
+6/15/1975, 1550; Maccabee AC (Los Angeles, CA); 1:0; Inter-Giuliana (New York, NY); El Camino College; Torrance, CA          
+* 54′ Abraham Cohen         
 
 
 Season: 1976
@@ -4299,7 +4287,7 @@ First Round
 6/8/2004; Azzurri (USASA); 2:3 (ASDET); Cocoa Expos (PDL) 
 
 Second Round
-6/15/2004; San Diego Gauchos (PSL); 0:0; (4:5 PKs) Boulder Rapids Reserve (PDL) 
+6/15/2004; San Diego Gauchos (PSL); 0:0 (4:5 PKs); Boulder Rapids Reserve (PDL) 
 6/15/2004; Sacramento Knights (USASA); 0:3; Utah Blitzz (PSL)   
 6/15/2004; DFW Tornadoes (PDL); 0:2; Virginia Beach Mariners (A-League) 
 6/15/2004; Chicago Fire Reserves (PDL); 5:1;   New Hampshire Phantoms (PSL) 
@@ -4334,7 +4322,8 @@ Quarterfinals
 8/4/2004; Chicago Fire (MLS); 1:0; Richmond Kickers (A-League) 
 8/4/2004; Charleston Battery (A-League); 1:0; Rochester Raging Rhinos (A-Lg) 
 
-Semifinals                                                                                                                                                                                                 8/24/2004; San Jose Earthquakes (MLS); 0:1; Kansas City Wizards (MLS) 
+Semifinals
+8/24/2004; San Jose Earthquakes (MLS); 0:1; Kansas City Wizards (MLS) 
 8/25/2004; Charleston Battery (A-League); 0:1 (ASDET); Chicago Fire (MLS) 
 
 Final
@@ -4563,7 +4552,7 @@ Quarterfinals
 
 Semifinals
 8/12/2008; New England Revolution (MLS); 1:3; DC United (MLS) 
-8/12/2008; Seattle Sounders (USL-1); 1:1; (3:4 PKs) Charleston Battery (USL-1) 
+8/12/2008; Seattle Sounders (USL-1); 1:1 (3:4 PKs); Charleston Battery (USL-1) 
 
 Final
 9/3/2008; Charleston Battery (USL-1); 1:2; DC United (MLS); RFK Stadium; Washington DC
@@ -4602,7 +4591,7 @@ Second Round
 Third Round
 6/30/2009; Columbus Crew (MLS); 1:1 (3:5 PKs); Rochester Rhinos (USL-1) 
 6/30/2009; Chicago Fire (MLS); 0:1; Wilmington Hammerheads (USL-2) 
-6/30/2009; Harrisburg City Islanders (USL-2); 2:1; (AET) New England Revolution (MLS) 
+6/30/2009; Harrisburg City Islanders (USL-2); 2:1 (AET); New England Revolution (MLS) 
 6/30/2009; Ocean City Barons (PDL); 0:2; DC United (MLS)   
 6/30/2009; Chivas USA (MLS); 1:3; Charleston Battery (USL-1) 
 6/30/2009; Kansas City Wizards (MLS); 3:3 (4:2 PKs); Minnesota Thunder (USL-1) 

@@ -1,5 +1,5 @@
 d = {
-    'United States',
+    'competition': 'United States',
     
     'team_data': []
 

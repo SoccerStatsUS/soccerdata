@@ -73,7 +73,7 @@ d = {
         (1948, 'St. Louis Simpkins-Ford') ,       
         (1947, 'Ponta Delgada'),
         (1946, 'Chicago Viking'),
-        (1945, 'Brooklhattan'),
+        (1945, 'Brookhattan'),
         (1944, 'Brooklyn Hispano'),
         (1943, 'Brooklyn Hispano'),
         (1942, 'Gallatin F.C.'),
