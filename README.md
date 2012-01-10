@@ -1,5 +1,15 @@
 
-# Projects.
+
+# Error detection
+
+# This is an attempt to minimize errors; there will inevitably still be stuff that this doesn't check.
+
+1. Teams playing multiple games on the same day.
+2. Lineups without stat.
+3. Lineup with fewer than 11 starters.
+4. Goals don't equal score.
+5. Similar names, same birthdate?
+6. Make schemas that data has to match.
 
 mlssoccer missing players:
 1. Toni Stahl
@@ -8,45 +18,39 @@ mlssoccer missing players:
 4. Jonathan Bornstein
 5. Wade Barrett
 
-# Become like demosphere, and have the data collected for you.
 
-# Fix name/player on stats.
-
-0. Consider using AWS.
-1. Reorganize player scrapers.
+0. Use AWS to build database.
+1. Convert data files to yaml (once sure it's being parsed correctly?)
 2. Strengthen wiki scraper and canvass team, player data.
 3. News as data. Collect all the soccer news feeds. Use them to pull out interesting data.
-4. Twitter stream. Um, get tweets about soccer I suppose. Preferably valuable tweets. Is there a service for this?
 5. Add data consistency checking.
-8. Learn about unicode and figure out these unicode problems in utils.
-
+6. Learn about unicode and figure out these unicode problems in utils.
 
 # Data definitions
 
 game 
- - home_team
- - away_team
- - home_score
- - away_score
+ - teams
+ - score
  - date
+ - competition
+ - season
+ - referee
+
  optional
  - location
- - competition (recommended)
- - season (recommended)
- - referee
  - attendance
-
  - notes
 
 goal
  - player
  - minute
- - date # not necessary.
+
+# Need to choose, either date & team or game; (probably game)
+ - date
  - team
  - game
-
+ 
  optional
-
  - penalty
  - own_goal
 
@@ -69,13 +73,12 @@ stat
  - fouls_suffered
  - yellow_cards
  - red_cards
- - more?
-
+ - wins, losses, ties, gf, ga, +/, etc.
 
 game stat
  - player
  - team
- - date
+ - game
  optional
  - same as stat
 
@@ -109,7 +112,6 @@ bio
  - nationality?
 
 
-
 ## Data breakdown
 
 # Event data
@@ -136,116 +138,18 @@ bio
 # Prospective
  - place data
 
- 
-
-
-# Competition priority.
-
-
-MLS
-Mexico
-US Minor leagues
-World Cup
-England
-
-Spain
-Italy
-Germany
-Australia
-Ligue 1
-Champions League
-CONCACAF Champions League
-
-Copa Libertadores
-Netherlands
-Portugal
-Russia
-
-Turkey
-Argentina
-Brazil
-J-League
-K-League
-C-League
-Europa League
-Denmark
-Sweden
-Norway
-Belgium
-Greece
-FA Cup
-Copa del Rey
-US Open Cup
-UEFA Cup
-Copa Sudamericana
-Asian Champions League
-CAF Champions league
-
-# Defunct, but seems pretty easy to get data for.
-# I think I've already got scores.
-British Home Championship
-
-
-
-# Checking data
-
-What's are ways to check conflicting data?
-
-# First, you have to normalize names.
-
-1. Make sure that a team does not play more than one game on the same day.
-2. Assert that when a team plays multiple games on the same day, they are identical.
-3. Compare standings and make sure they are identical.
-4. Merge bios together.
-
 
 # Normalization - what do we need to normalize and how?
 
 # Team names.
 
-Just create a list of canonical team names. How should this interact with the teams from soccer?
+Just create a list of canonical team names.
 
 # Player names.
-
 1. Create guesses based on name similarity with birthdate
 2. Use lineup data to create theories about likely players.
-2. Create name translation machinery (?)
-3. 
 
-
-
-Competition names for everything.
-
-Team names only:
- - scores
- - standings
- 
-Player names only:
- - goals
- - fouls, tackles, etc.
- - biographical data
-
-Both: 
- - substitutions
- - game stats
- - competition stats
- - lineups
-
-
-
-
-
-# Standardizations
-
-I want to standardize on a text data format.
-
-It seems obviously better to use yaml for everything.
-That way it's neatly structured and already ready to use.
-
-# can probably just dump my python creations as yaml?
-
-# Bio data, e.g., should definitely be in yaml.
-
+# What are these?
 http://www.sports-reference.com/stathead/section/soccer/
 http://www.soccermetricsblog.com/2011/06/pythagorean-table-2011-mls-regular-season-20110612-version.html
 
