@@ -36,7 +36,11 @@ class PositionParser(object):
     def process_line(self, line):
         # Does date handling and fills in empty fields if necessary.
         fields = line.split(",")
-        person, position, team = [e.strip() for e in fields[:3]]
+
+        try:
+            person, position, team = [e.strip() for e in fields[:3]]
+        except:
+            import pdb; pdb.set_trace()
 
         start = end = None
         if len(fields) > 3:

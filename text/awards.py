@@ -11,6 +11,7 @@ def process_awards(d):
     l = []
     competition = d.pop('competition')
 
+    # Which awards are given to teams rather than people
     if 'team_data' in d:
         team_data = d.pop('team_data')
     else:
@@ -33,18 +34,23 @@ def process_awards(d):
                 }
                 
             if type(item) == list:
-                for e in item:
-                    e = e.strip()
+                for recipient in item:
+                    recipient = recipient.strip()
                     if model == 'Bio':
-                        e = get_name(e)
+                        recipient = get_name(recipient)
                     else:
-                        e = get_team(e)
+                        recipient = get_team(recipient)
 
-                    d = {'recipient': e}
+                    d = {'recipient': recipient}
                     d.update(template)
                     l.append(d)
             else:
-                d = {'recipient': item}
+                if model == 'Bio':
+                    recipient = get_name(item)
+                else:
+                    recipient = get_team(item)
+
+                d = {'recipient': recipient}
                 d.update(template)
                 l.append(d)
     return l
@@ -113,6 +119,8 @@ def process_usl_awards():
 def process_world_cup_awards():
     from soccerdata.data.lists.world_cup import d
     return process_awards(d)
+
+
     
 
 

@@ -2,14 +2,67 @@
 
 
 # Clean up the drafts so that we can basically remove this. This is really unnecessary.
+# Export to yaml and destroy.
+
 
 DRAFTS_DIR = "/home/chris/www/soccerdata/data/drafts"
 
+import datetime
 import os
 import re
 
 from soccerdata.alias.teams import get_team
 from soccerdata.alias.people import get_name
+
+
+draft_dates = [
+    ('1996 Inaugural Draft', (1996, 2, 6), (1996, 2,7)),
+
+    ('2002 Allocation Draft', (2002, 1, 11)),
+    ('2002 Dispersal Draft', (2002, 1, 11)),
+
+    ('1996 College Draft', (1996, 3, 4)),
+    ('1997 College Draft', (1997, 2, 1), (1997, 2, 2)),
+    ('1998 College Draft', (1998, 1, 31), (1998, 2, 1)),
+    ('1999 College Draft', (1999, 2, 6), (1999, 2, 7)),
+
+
+    ('1996 Supplemental Draft', (1996, 3, 4)),
+    ('1997 Supplemental Draft', (1997, 2, 2)),
+    ('1998 Supplemental Draft', (1998, 2, 1)),
+    ('1999 Supplemental Draft', (1999, 2, 7)),
+    ('2005 Supplemental Draft', (2005, 2, 4)),
+    ('2006 Supplemental Draft', (2006, 1, 26)),
+    ('2007 Supplemental Draft', (2007, 1, 18)),
+    ('2008 Supplemental Draft', (2008, 1, 24)),
+    ('2011 Supplemental Draft', (2011, 1, 18)),
+
+    ('2000 SuperDraft', (2000, 2, 6)),
+    ('2001 SuperDraft', (2001, 2, 5)),
+    ('2002 SuperDraft', (2002, 2, 10)),
+    ('2003 SuperDraft', (2003, 1, 17)),
+    ('2004 SuperDraft', (2004, 1, 16)),
+    ('2005 SuperDraft', (2005, 1, 14)),
+    ('2006 SuperDraft', (2006, 1, 20)),
+    ('2007 SuperDraft', (2007, 1, 12)),
+    ('2008 SuperDraft', (2008, 1, 18)),
+    ('2009 SuperDraft', (2009, 1, 15)),
+    ('2010 SuperDraft', (2010, 1, 14)),
+    ('2011 SuperDraft', (2011, 1, 13)),
+
+    ('1997 Expansion Draft', (1997, 11, 6)),
+    ('2004 Expansion Draft', (2004, 11, 19)),
+    ('2006 Expansion Draft', (2006, 11, 17)),
+    ('2007 Expansion Draft', (2007, 11, 21)),
+    ('2008 Expansion Draft', (2008, 11, 26)),
+    ('2009 Expansion Draft', (2009, 11, 25)),
+    ('2010 Expansion Draft', (2010, 11, 24)),
+    ('2011 Expansion Draft', (2011, 11, 23)),
+    
+    ]
+
+
+    
 
 # This should probably be in utils.
 def remove_pairs(text, start, end):
@@ -87,6 +140,7 @@ def process_draft(text, draft_name):
 
         return {
             'position': int(number),
+            # This doesn't seem to be working.
             'text': get_name(name.strip()),
             'team': get_team(team.strip()),
             'draft': draft_name,
@@ -150,7 +204,9 @@ def parse_line(l):
 
 
 
-def process_usmnt_draft(fn, draft_name, year, parser=parse_line):
+def process_usmnt_draft(fn, draft_name, parser=parse_line):
+    """
+    """
 
     def process_line(line):
         try:
@@ -166,10 +222,10 @@ def process_usmnt_draft(fn, draft_name, year, parser=parse_line):
             return {}
 
         return {
-            'number': number,
+            'position': number,
             'team': team,
-            'player': player,
-            'draft_name': draft_name,
+            'text': player,
+            'draft': draft_name,
             }
 
 
@@ -191,19 +247,15 @@ draft_parsers = {
     }
     
 
+def process_usa_drafts():
+    l = []
+    for e in range(2004, 2012):
+        p =  "/home/chris/www/soccerdata/data/drafts/%s" % e
+        results = process_usmnt_draft(p, "%s USMNT DRAFT" % e, draft_parsers[e])
+        l.extend(results)
+    return results
 
-
-
-def run_draft(year):
-    p =  "/home/chris/www/soccerdata/data/drafts/%s" % year
-    parser = draft_parsers[year]
-    process_usmnt_draft(p, "%s USMNT Draft" % year, year, parser)
     
-    
-def main():
-    p =  "/home/chris/www/soccerdata/data/drafts/2011"
-    process_usmnt_draft(p, "2011 USMNT Draft", 2011, parse_line)
-
 
 if __name__ == "__main__":
-    print load_drafts()
+    print load_usa_drafts()

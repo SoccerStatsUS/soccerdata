@@ -7,6 +7,8 @@ DIR = '/home/chris/www/soccerdata/data/'
 if not os.path.exists(DIR):
     DIR = "/Users/chrisedgemon/www/soccerdata/data/"
 
+
+
 wsa_team_map  = {
     'San Diego': 'San Diego Nomads',
     'Los Angeles': 'Los Angeles Heat',
@@ -86,6 +88,7 @@ class TextProcessor(object):
 
     def preprocess_line(self, line):
         line = line.strip()
+        # Not sure what was wrong with these lines.
         d = {
             'Ronnie  Morriss        F': 'Ronnie Morriss        F',
             'John  Lee              F': 'John Lee   F',
@@ -103,7 +106,6 @@ class TextProcessor(object):
             self.competition = line.split("Competition:")[1].strip()
             return True
             
-
         elif line.startswith("Season:"):
             self.season = line.split("Season:")[1].strip()
             return True

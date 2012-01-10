@@ -34,6 +34,9 @@
 
 
 
+
+
+
 from collections import defaultdict
 import datetime
 import os
@@ -44,6 +47,7 @@ from soccerdata.alias import get_name, get_team
 from soccerdata.cache import data_cache, set_cache
 
 
+
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
 LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/scaryice"
@@ -51,6 +55,27 @@ LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/scaryice"
 
 # scaryice specific team mappings.
 team_map = {
+    # these should not be here.
+    'Chicago': 'Chicago Fire',
+    'Colorado': 'Colorado Rapids',
+    'Columbus': 'Columbus Crew',
+
+    'Dallas': 'FC Dallas',
+    'Houston': 'Houston Dynamo',
+    'Kansas City': 'Kansas City Wizards',
+    'Tampa Bay': 'Tampa Bay Mutiny',
+    'Toronto': 'Toronto FC',
+    'Miami': 'Miami Fusion',
+    'New England': 'New England Revolution',
+    'New York': 'New York Red Bulls',
+    'Philadelphia': 'Philadelphia Union',
+    'San Jose': 'San Jose Earthquakes',
+    'Seattle': 'Seattle Sounders',
+    'Portland': 'Portland Timbers',
+    'Los Angeles': 'Los Angeles Galaxy',
+    'Salt Lake': 'Real Salt Lake',    
+
+
     'Richmond': 'Richmond Kickers',
     'Montreal': 'Montreal Impact',
     'CP Baltimore': 'Crystal Palace Baltimore',
@@ -65,9 +90,6 @@ team_map = {
     'Hershey': 'Hershey Wildcats',
     'Virginia Beach': 'Virginia Beach Mariners',
     'Charleston': 'Charleston Battery',
-    #'Chicago': 'Chicago Fire',
-    'New York': 'New York Red Bulls',
-    'Philadelphia': 'Philadelphia Union',
     'Ocean City': 'Ocean City Barons',
     
 
@@ -302,7 +324,7 @@ def correct_goal_names(goal_list, lineup_dict):
 
         d = goal.copy()
         if real_name:
-            d['goal'] = real_name
+            d['goal'] = get_name(real_name)
         l.append(d)
 
     return l
@@ -375,8 +397,8 @@ def get_scores(fn):
             'competition': get_competition(match_type),
             'date': date,
             'season': unicode(date.year),
-            'home_team': get_team(home_team),
-            'away_team': get_team(away_team),
+            'home_team': get_team(team_map.get(home_team, home_team)),
+            'away_team': get_team(team_map.get(away_team, away_team)),
             'home_score': home_score,
             'away_score': away_score,
             }
@@ -446,7 +468,7 @@ def get_goals(filename):
 
             return {
                 'competition': get_competition(match_type),
-                'team': get_team(team_name),
+                'team': get_team(team_map.get(team_name, team_name)),
                 'date': date,
                 'season': unicode(date.year),
                 'goal': player.strip(),
@@ -517,7 +539,6 @@ def get_lineups(filename):
             else:
                 s2 += char
 
-
         return s2
 
             
@@ -562,7 +583,8 @@ def get_lineups(filename):
         
 
     p = os.path.join(LINEUPS_DIR, filename)
-    team_name = get_team(file_mapping[filename.replace(".csv", '')])
+    t = file_mapping[filename.replace(".csv", '')]
+    team_name = get_team(team_map.get(t, t))
 
     l = []
     for line in open(p).readlines():
@@ -691,7 +713,7 @@ class LineupProcessor(object):
             for lineup in lineups:
                 lineup['name'] = get_name(lineup['name'].strip().replace(")(", ""))
                 lineup.update({
-                    'team': get_team(self.team),
+                    'team': get_team(team_map.get(self.team, self.team)),
                     'date': self.date,
                     'season': unicode(self.date.year),
                     'competition': self.competition,

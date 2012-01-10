@@ -1,7 +1,8 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-# File for loading all lists.
+
+# I don't believe this is being used anymore.
 
 from soccerdata.data.lists import africa, argentina, asia, australia, england, europe, fifa, france, japan, korea, mls
 

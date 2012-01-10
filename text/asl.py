@@ -1,3 +1,6 @@
+# Process Golden Age ASL scores.
+# Stats not working yet.
+
 import datetime
 import os
 import re

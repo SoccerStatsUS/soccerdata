@@ -1,3 +1,4 @@
+# Process Reserve league games, lineup, and goal data; pulled from MLSoccer.com
 
 import datetime
 import os
@@ -9,6 +10,27 @@ SCORES_PATH = '/home/chris/www/soccerdata/data/scores/reserve.txt'
 GOALS_PATH = '/home/chris/www/soccerdata/data/goals/reserve.txt'
 MISCONDUCT_PATH = '/home/chris/www/soccerdata/data/misconduct/reserve.txt'
 LINEUPS_PATH = '/home/chris/www/soccerdata/data/lineups/reserve.txt'
+
+city_map = {
+    'Chicago': 'Chicago Fire',
+    'Colorado': 'Colorado Rapids',
+    'Columbus': 'Columbus Crew',
+    'Dallas': 'FC Dallas',
+    'Houston': 'Houston Dynamo',
+    'Kansas City': 'Kansas City Wizards',
+    'Tampa Bay': 'Tampa Bay Mutiny',
+    'Toronto': 'Toronto FC',
+    'Miami': 'Miami Fusion',
+    'New England': 'New England Revolution',
+    'New York': 'New York Red Bulls',
+    'Philadelphia': 'Philadelphia Union',
+    'San Jose': 'San Jose Earthquakes',
+    'Seattle': 'Seattle Sounders',
+    'Portland': 'Portland Timbers',
+    'Los Angeles': 'Los Angeles Galaxy',
+    'Salt Lake': 'Real Salt Lake',    
+    'San Joe Earthquakes': 'San Jose Earthquakes',
+}
 
 def preprocess(s):
     return s.strip().replace('\xc2', '').replace('\xa0', '')
@@ -39,8 +61,8 @@ def process_scores():
 
         source = url or ''
 
-        home_team = get_team(home_team)
-        away_team = get_team(away_team)
+        home_team = get_team(home_team, pre_dict=city_map)
+        away_team = get_team(away_team, pre_dict=city_map)
 
 
         home_score, away_score = [int(e) for e in score.split('-')]
@@ -81,7 +103,7 @@ def process_goals():
                 minute = int(minute)
             except:
                 print row; continue
-            team = get_team(fields[0])
+            team = get_team(fields[0], pre_dict=city_map)
             other = fields[1:-1]
             goal_type = 'normal'
             if len(other) == 1:
@@ -147,7 +169,7 @@ def process_lineup_string(s, date, team):
     Process a lineup item (potentially multiple lineup objects)
     """
     l = [e.strip() for e in s.replace(")", '').split("(")]
-    team = "%s Reserves" % get_team(team)
+    team = "%s Reserves" % get_team(team, pre_dict=city_map)
     start = 0
     lineups = []
     for e in l:

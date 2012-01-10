@@ -26,6 +26,10 @@ competition_map = {
 
 
 def get_standings_dict():
+    # Oh shit relying on standings when it shouldn't...
+    # We've got a weird kind of reference here.
+
+
     d = {}
     for e in soccer_db.standings.find():
         key = (e['competition'], e['season'])
@@ -46,7 +50,10 @@ def get_full_name(name, competition, season):
     name = team_map.get(name, name)
 
     competition = competition.replace("Playoffs", '').strip()
-    names = sd[(competition, season)]
+
+    key = (competition, season)
+    names = sd.get(key, [])
+
     for e in names:
         if e.startswith(name):
             return e
