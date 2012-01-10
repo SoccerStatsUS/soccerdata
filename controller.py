@@ -43,6 +43,7 @@ def dashboard():
         return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
 
     sources = [
+        'open_cup',
         'asl',
         'nasl',
         'apsl',
