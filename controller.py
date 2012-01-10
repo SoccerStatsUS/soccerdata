@@ -1,14 +1,12 @@
-import datetime
-import StringIO
-from os.path import join, split
 from collections import defaultdict
+import datetime
+from os.path import join, split
+import StringIO
 
 from flask import Flask, render_template, redirect, url_for, request, jsonify, Response, flash, send_file
-
 from flask.templating import TemplateNotFound
 
-#from flaskext.cache import Cache
-
+# Need to clean these up a bit.
 import pymongo
 import mongo
 
@@ -17,8 +15,9 @@ soccer_db = mongo.soccer_db
 app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
 
-STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams', 'positions', 'drafts', 'awards'
 
+# What items are shown on the dashboard?
+STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams', 'positions', 'drafts', 'awards'
 
 # Issues to work on.
 # - show problem rows
@@ -32,10 +31,11 @@ STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams'
 def index():
     return redirect(url_for('dashboard'))
 
+
 @app.route("/dashboard")
 def dashboard():
     """
-    A dashboard for showing the status of the project
+    A dashboard for showing the status of all available data.
     """
 
     def process_scraper(scraper):
@@ -51,32 +51,31 @@ def dashboard():
         'mls_reserve',
         'usl',
         'nasl2',
-        #'fifa',
         'usa',
         'partial',
         'concacaf',
         'ncaa',
         'chris',
-        #'uslsoccer',
-        #'wiki',
-
-
-        #'kicker',
-        #'mediotiempo',
-        #'cnnsi',
-        #'eufootball',
-        ]
-
-    data = [
-        ('main', [(table_name, soccer_db[table_name].count()) for table_name in STAT_TABLES]),
         ]
     
+    [ # Skipping these.
+        'fifa',
+        'uslsoccer',
+        'wiki',
+        'kicker',
+        'mediotiempo',
+        'cnnsi',
+        'eufootball',
+        ]
 
+
+
+    # Main is named a little differently. Should probably change this.
+    data = [('main', [(table_name, soccer_db[table_name].count()) for table_name in STAT_TABLES]),]
     for e in sources:
         t = (e, process_scraper(e))
         data.append(t)
 
-             
     ctx = {
         'data': data,
         }
@@ -84,16 +83,39 @@ def dashboard():
     return render_template("dashboard.html", **ctx)    
 
 
-def dashboard_detail(coll_list):
+
+@app.route('/d')
+def data():
     """
-    Pass in a list of collections 
-    corresponding to games, goals, stats, lineups, standings, bios.
+    Gives back a listing of the elements in the collection.
+    Uses the first item to determine which fields to show.
     """
+    collection_name = request.args['c']
+    collection = soccer_db[collection_name]
+
+    if collection.count():
+        keys = sorted(collection.find()[0].keys())
+        keys.remove("_id")
+
+        # No good to see.
+        if 'url' in keys:
+            keys.remove('url')
+    else:
+        keys = []
+
+    ctx = {
+        'keys': keys,
+        'data':  collection.find()
+        }
+
+    return render_template("data.html", **ctx)
+
 
 
 
 @app.route('/dashboard/<competition>')
 def competition_dashboard(competition):
+    # Is this still used?
 
     seasons = [str(e) for e in range(1996, 2011)]
 
@@ -125,90 +147,6 @@ def competition_dashboard(competition):
     return render_template("mls_dashboard.html", **ctx)
 
 
-
-
-@app.route('/d')
-def data():
-    """
-    Gives back a listing of the elements in the collection.
-    """
-    collection_name = request.args['c']
-    collection = soccer_db[collection_name]
-
-    if collection.count():
-        keys = sorted(collection.find()[0].keys())
-        keys.remove("_id")
-
-        # No good to see.
-        if 'url' in keys:
-            keys.remove('url')
-    else:
-        keys = []
-
-    ctx = {
-        'keys': keys,
-        'data':  collection.find()
-        }
-
-    return render_template("data.html", **ctx)
-
-
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
-@app.route("/stats")
-def stats():
-    d = dict([(k, v) for (k, v) in request.args.items()])
-    stats = soccer_db.stats.find(d).sort("name", pymongo.ASCENDING)
-    return render_template("stats.html", stats=stats, request=d)
-
-@app.route("/standings")
-def standings():
-    d = dict([(k, v) for (k, v) in request.args.items()])
-    standings = soccer_db.standings.find(d).sort([("competition", pymongo.ASCENDING), ("season", pymongo.ASCENDING), ("name", pymongo.ASCENDING)])
-    return render_template("standings.html", standings=standings)
-
-
-@app.route("/games")
-def games():
-    d = dict([(k, v) for (k, v) in request.args.items()])
-    games = soccer_db.games.find(d).sort("date", pymongo.ASCENDING)
-    return render_template("games.html", games=games)
-
-
-@app.route("/goals")
-def goals():
-    d = dict([(k, v) for (k, v) in request.args.items()])
-    goals = soccer_db.goals.find(d).sort("date", pymongo.ASCENDING)
-    return render_template("goals.html", goals=goals)
-
-
-@app.route("/<url>")
-def flatpage(url):
-    if url.endswith("/"):
-        url = url[:-1]
-    
-    template = url + ".html"                 
-    try:
-        return render_template(template)
-    except TemplateNotFound:
-        return render_template("404.html")
-
-
-
-
-'''
 
 if __name__ == "__main__":
     app.run(port=29111)
