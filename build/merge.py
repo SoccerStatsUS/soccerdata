@@ -150,7 +150,7 @@ def merge_games():
 
 def merge_bios():
     """
-    Merge stats.
+    Merge bios
     """
 
     def update_bio(d):
@@ -173,7 +173,6 @@ def merge_bios():
 
     soccer_db.bios.drop()
     insert_rows(soccer_db.bios, bio_dict.values())
-
 
 
 def merge_stats():

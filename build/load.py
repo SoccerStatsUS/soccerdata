@@ -73,9 +73,9 @@ def load_drafts():
 
 
 def load_positions():
-    from soccerdata.text import coaches
+    from soccerdata.text.positions import process_positions
     print "Loading positions.\n"
-    generic_load(soccer_db.chris_positions, coaches.process_positions)
+    generic_load(soccer_db.chris_positions, process_positions)
 
 
 def load_partial():
