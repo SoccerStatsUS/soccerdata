@@ -8,7 +8,6 @@ if not os.path.exists(DIR):
     DIR = "/Users/chrisedgemon/www/soccerdata/data/"
 
 
-
 wsa_team_map  = {
     'San Diego': 'San Diego Nomads',
     'Los Angeles': 'Los Angeles Heat',
@@ -52,7 +51,8 @@ apsl_team_map =  {
     'Montreal': 'Montreal Impact',
     }
 
-team_map = {
+# Map different league names to the appropriate team dict.
+league_team_map = {
     'Western Soccer Alliance': wsa_team_map,
     'Western Soccer Alliance Playoffs': wsa_team_map,
     'American Professional Soccer League': apsl_team_map,
@@ -67,6 +67,9 @@ team_map = {
     
     
 class TextProcessor(object):
+    """
+    
+    """
 
     position_map = {
         'D': 'Defender',
@@ -87,6 +90,9 @@ class TextProcessor(object):
 
 
     def preprocess_line(self, line):
+        """
+        Replace problem lines with ones that are easier to process.
+        """
         line = line.strip()
         # Not sure what was wrong with these lines.
         d = {
@@ -95,13 +101,15 @@ class TextProcessor(object):
             'John  Clare            D': 'John Clare  D',
             'Dino Lopez  -1         D    6/6     555  1  0/0': 'Dino Lopez -1         D    6/6     555  1  0/0',
             'John  Maessner         F   11/8    828   0': 'John Maessner         F   11/8    828   0', 
-
             }
 
         return d.get(line, line)
 
 
     def set_state_flags(self, line):
+        """
+        When you encounter a line like Season: 1987, set the season to 1987, e.g.
+        """
         if line.startswith("Competition:"):
             self.competition = line.split("Competition:")[1].strip()
             return True
@@ -117,12 +125,11 @@ class TextProcessor(object):
         return False
 
 
-
-
     def process_roster_line(self, line):
+        """
+        Process a line that represents a player on the roster (no stats)
+        """
         line = self.preprocess_line(line)
-
-
 
         if self.set_state_flags(line):
             return {}
@@ -131,14 +138,18 @@ class TextProcessor(object):
             return {}
 
         else:
-            fields = line.split("  ", 1)
-            if len(fields) == 2:
-                name, position = [e.strip() for e in fields]
-            elif len(fields) == 1:
+            fields = line.split("  ", 1) # 2 spaces
+
+            if len(fields) == 1:
                 name = line.strip()
                 position = ''
+
+            elif len(fields) == 2:
+                name, position = [e.strip() for e in fields]
+
+            # lines with over 2 fields do not exist in this collection.
             else:
-                import pdb; pdb.set_trace()
+                raise 
 
             self.stats.append({
                 'competition': self.competition,
@@ -149,9 +160,10 @@ class TextProcessor(object):
                 })
 
 
-
-
     def process_stat_line(self, line):
+        """
+        Process a line that represents a statistic
+        """
         line = self.preprocess_line(line)
 
         if self.set_state_flags(line):
@@ -161,28 +173,33 @@ class TextProcessor(object):
             return {}
 
         else:
-            fields = [e.strip() for e in line.split("  ") if e and e.strip()]
-            
-            position = ''
-            yellow_cards = red_cards = None
+            fields = [e.strip() for e in line.split("  ") if e and e.strip()] # Check e and e.strip in case e is None?
+
+            position = None
+            yellow_cards = red_cards = None # Set these in case they are not listed.
+
+            # Terribly inconsistent formatting.
             if len(fields) == 4:
                 name, gsgp, minutes, goals = fields
+
             elif len(fields) == 5:
                 if "/" in fields[1]:
                     name, gsgp, minutes, goals, ycrc = fields
                 else:
                     name, position, gsgp, minutes, goals = fields
+
             elif len(fields) == 6:
                 name, position, gsgp, minutes, goals, ycrc = fields
-                try:
-                    yellow_cards, red_cards = [int(e) for e in ycrc.split("/")]
-                except:
-                    import pdb; pdb.set_trace()
+                yellow_cards, red_cards = [int(e) for e in ycrc.split("/")]
+
             else:
-                import pdb; pdb.set_trace()
                 raise
 
             name = name.replace('-1', '').replace('-*', '').strip()
+
+            if position:
+                position = position.strip()
+            position = self.position_map[position]
 
             games_started, games_played = [int(e) for e in gsgp.split("/")]
             
@@ -191,7 +208,7 @@ class TextProcessor(object):
                 'season': self.season,
                 'team': self.team,
                 'name': name,
-                'position': self.position_map[position.strip()],
+                'position': position,
                 'minutes': int(minutes),
                 'goals': int(goals),
                 'games_started': games_started,
@@ -202,6 +219,9 @@ class TextProcessor(object):
 
 
     def process_score_line(self, line):
+        """
+        Process a line that represents a game result.
+        """
         line = self.preprocess_line(line)
 
         if self.set_state_flags(line):
@@ -212,6 +232,8 @@ class TextProcessor(object):
 
         else:
             r = re.match("(\d+/\d+/\d+)(.*?)\s+([HA])\s+(\d+\-\d+)(.*)", line)
+
+            # There remain a few lines with incomplete game data.
             if not r:
                 print line
                 return {}
@@ -224,26 +246,28 @@ class TextProcessor(object):
             d = datetime.datetime(int(year), int(month), int(day))
 
             opponent = opponent.strip()
-            td = team_map[self.competition]
+
+            # Get the opponent's normalized name.
+            team_name_map = league_team_map[self.competition]
             key = (self.season, opponent) 
-            if key in td:
-                opponent = td[key]
+            if key in team_name_map:
+                opponent = team_name_map[key]
             else:
-                opponent = td.get(opponent, opponent)
+                opponent = team_name_map.get(opponent, opponent)
 
-
-                
 
             if homeaway == 'H':
                 home_team = self.team
                 away_team = opponent
                 home_score = team_score
                 away_score = opponent_score
+
             elif homeaway == 'A':
                 home_team = opponent
                 away_team = self.team
                 home_score = opponent_score
                 away_score = team_score
+
             else:
                 raise
 
@@ -256,19 +280,19 @@ class TextProcessor(object):
                 'away_score': away_score,
                 'date': d
                 })
-                
-
-            
 
 
 
 def process_apsl_stats():
+
+    # Real, although incomplete stats.
     p = os.path.join(DIR, "stats", "apsl.txt")
     f = open(p)
     t = TextProcessor()
     for line in f:
         t.process_stat_line(line)
 
+    # Just rosters.
     p = os.path.join(DIR, "stats", "apsl_rosters.txt")
     f = open(p)
     for line in f:
@@ -287,10 +311,9 @@ def process_apsl_scores():
     return t.games
 
 
-        
-
-        
+                
 if __name__ == "__main__":
-    print process_apsl_stats()
+    process_apsl_stats()
+    process_apsl_scores()
             
         
