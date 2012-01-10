@@ -1,5 +1,8 @@
 
 
+0. Fix giant ASL team name bug issue - easy but producing a lot of errors.
+1. Convert bios to yaml.
+
 # Error detection
 
 # This is an attempt to minimize errors; there will inevitably still be stuff that this doesn't check.

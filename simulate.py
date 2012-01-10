@@ -1,4 +1,6 @@
 
+# Since most of these articles are saved now, I should remove them and actually write code here.
+
 # Markov chains?
 
 # http://www.nytimes.com/2009/04/07/science/07diam.html
@@ -15,7 +17,5 @@
 
 """
 Baseball uses markov chains to simulate transitions between inning states.
-
-The only similar thing that I can do is simulate each minute...
-
+The only similar thing that I can do is simulate each minute.
 """

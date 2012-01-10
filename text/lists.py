@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 
 
-# I don't believe this is being used anymore.
+# This is not being used currently.
+# Will need to merge into awards if we want to bring back international award data.
+# Ultimately, probably a good idea to dump this stuff into yaml.
 
 from soccerdata.data.lists import africa, argentina, asia, australia, england, europe, fifa, france, japan, korea, mls
 
