@@ -3,7 +3,43 @@
 
 teams = {}
 
+# Going to organize this alphabetically?
 mls_teams = {
+
+    'FC Portland': 'Portland Timbers',
+    'Portland F.C.': 'Portland Timbers',
+
+    'Hellrung Grimm': 'Hellrung & Grimm',
+    'Baltimore SC': 'Baltimore S.C.',
+
+    'Hollywood Inn': 'Yonkers Hollywood Inn',
+    'Jersey AC': 'Jersey A.C.',
+    'Newark FC': 'Newark F.C.',
+    'Brooklyn FC': 'Brooklyn F.C.',
+    'East Newark Clark AA': 'East Newark Clark A.A.',
+    'New Bedford FC': 'New Bedford F.C.',
+    'YMCTAS': 'YMCA Total Abstinence Society FC',
+    
+
+    'Tacony Disston A.A.': 'Disston A.A.',
+    'Philadelphia Disston': 'Disston A.A.',
+    'Tacony FC': 'Disston A.A.',
+
+
+    'New York Brookhattan': 'Brookhattan',
+
+    'San Joe Earthquakes': 'San Jose Earthquakes',
+    'Clark ONT': 'Clark O.N.T.',
+    'Alma': 'Newark Almas',
+    'Paterson FC': 'Paterson F.C.',
+
+    'Fall River Olympic': 'Fall River Olympics',
+
+    'Brooklyn Robins Dry Dock': 'Robins Dry Dock',
+    'West Hudson AA': 'West Hudson A.A.',
+    'Disston AA': 'Disston A.A.',
+
+    'DC United': 'D.C. United',
     'Abbot W.': 'Abbot Worsted',
     'Scullin St.': 'St. Louis Scullin Steel',
     'Yonkers Th.': 'Yonkers Thistle',
@@ -18,6 +54,166 @@ mls_teams = {
     'NY Giants': 'New York Giants',
     'Fleischer': 'Fleisher Yarn',
     'Fleischer Yarn': 'Fleisher Yarn',
+
+    'Ben Miller FC': 'Ben Millers',
+    'Ben Miller SC': 'Ben Millers',
+    'Ben Miller A.C.': 'Ben Millers',
+    
+    'Bethlehewm Steel': 'Bethlehem Steel',
+
+    'Bricklayers & Masons': 'Bricklayers FC',
+    'Bricklayers & Masons FC': 'Bricklayers FC',
+    'Bricklayers': 'Bricklayers FC',
+    'Bricklayers (Chicago)': 'Bricklayers FC',
+    'Bricklayers SC': 'Bricklayers FC',
+    
+    'MacKenzie SC (Niagra Falls)': 'MacKenzie FC (Niagara Falls)',
+
+    'Mahoning Valley FC': 'Mahoning Valley',
+
+    # Cuddy is not Curry.
+    'Cuddy': 'Cuddy AC',
+
+    'Curry': 'Curry FC',
+    'Curry FC': 'Curry Silver Tops',
+    'Curry Vets': 'Curry FC',
+    'Curry SC': 'Curry FC',
+    'Curry S.C.': 'Curry FC',
+    'Castle Shannon FC': 'Castle Shannon',
+
+    'Bruell Hungarian': 'Bruell Hungarians',
+    'Bruell Hungarians': 'Bruell Insurance',
+
+    'Sparta (Chicago)': 'Chicago Sparta',
+    'Sparta': 'Chicago Sparta',
+    'Sparta FC': 'Chicago Sparta',
+
+    'Mid-Michigan Bucks': 'Michigan Bucks',
+
+    'Los Angeles Kickers-Victoria (South California)': 'Los Angeles Kickers',
+    
+    
+
+    'St. Louis Scullin Steel': 'Scullin Steel',
+    'Stix, Baer & Fuller': 'Stix, Baer and Fuller F.C.',
+    'Stix, Baer and Fuller': 'Stix, Baer and Fuller F.C.',
+    'St. Louis Central Breweries F.C.': 'Central Breweries',
+    'St. Louis Simpkins-Ford': 'Simpkins Ford',
+    'Coca Cola': 'Coca Colas',
+    'Tablers': 'Tablers FC',
+
+    'Innisfall FC': 'Innisfails FC',
+    'Innisfalls FC': 'Innisfails FC',
+    'Innisfails': 'Innisfails FC',
+    'Scullin Steel': 'Scullin Steels',
+    'Vesper Buick': 'Vesper Buicks',
+    'Wellston\'s': 'Wellston FC',
+    'Hellrungs SC': 'Hellrungs',
+    'Hellrungs FC': 'Hellrungs',
+    
+    'Brooklyn St. Mary\'s Celtic': 'St. Mary\'s Celtic',
+
+    'Pawtucket Rngers': 'Pawtucket Rangers',
+
+    'Raftery’s': 'Raftery Painters',
+    'Chicago Viking': 'Viking A.A.',
+    'Viking AA': 'Viking A.A.',
+
+
+
+    'Richhmond Kickers': 'Richmond Kickers',
+    'San Fern. Valley Golden Eagles': 'San Fernando Valley Golden Eagles',
+    'CD Mexico (North California)': 'El Farolito Soccer Club',
+    'AAC Eagles': 'A.A.C. Eagles',
+    'Greek American AC': 'Greek American A.C.',
+    'Syracus Suns': 'Syracuse Suns',
+    
+
+
+    'Harmarville': 'Harmarville Hurricanes',
+
+    'Kutis SC': 'St. Louis Kutis',
+    'Kutis': 'St. Louis Kutis',
+    
+
+    'Ukrainian Nationals': 'Philadelphia Ukrainians',
+    'Hungaria SC (East NY)': 'New York Hungaria',
+
+    'Greek American SC (East NY)': 'Greek American AA',
+
+    'Maccabee AC': 'Maccabi Los Angeles',
+
+    'Club Espana (DC/VA)': 'Club Espana',
+
+    'Busch SC': 'Busch SC (MO)',
+
+    'HRC Kickers': 'St. Petersburg Kickers',
+    'McCormick Kickers': 'St. Petersburg Kickers',
+
+    'NY Greek American Atlas': 'Greek-American A.C.',
+
+    'Marres': 'Marre\'s',
+    'Marre': 'Marre\'s',
+    'MacDuffs': 'MacDuff FC',
+    'MacDuffs FC': 'MacDuff FC',
+
+    'Morgan FC': 'Morgan Strasser',
+    'Morgan SC': 'Morgan Strasser',
+    'Morgan Haulers': 'Morgan Strasser',
+    'Morgan Sport Club': 'Morgan Strasser',
+    'Morgan': 'Morgan Strasser',
+    'Morgan USCO': 'Morgan Strasser',
+    
+    'Gallatin Sport Club': 'Gallatin F.C.',
+    'Gallatin': 'Gallatin F.C.',
+    'Gallatin-Dunlevy': 'Gallatin F.C.',
+    'Gallatin FC': 'Gallatin F.C.',
+    'Gallatin Sport Clun': 'Gallatin F.C.',
+    
+    'Yugoslav Americnan SC': 'Yugoslav American SC',
+    
+    'Whitall Carpet Mill': 'Whittal F.C.',
+    'Whittall Carpet Mill': 'Whittal F.C.',
+    'Whittall Carpet Mills': 'Whittal F.C.',
+    'Whittal Carpet Mill': 'Whittal F.C.',
+    
+    'White Auto FC': 'White Motor FC',
+    'White Motors': 'White Motor FC',
+    'White Auto': 'White Motor FC',
+    'White Automobile': 'White Motor FC',
+    'White Motor': 'White Motor FC',
+    'White Motors FC': 'White Motor FC',
+    
+    'West End Polish FC': 'West End Polish Club',
+    
+    'True Blues FC': 'Paterson True Blues',
+    
+    'Abbott Worsted': 'Abbot Worsted',
+    
+    'Anderson SC': 'Anderson S.C.',
+    
+    'Babcock & Wilcaox': 'Babcock & Wilcox',
+    'Babcock & Wilson': 'Babcock & Wilcox',
+    'Babcock and Wilcox': 'Babcock & Wilcox',
+    'Bayonne Babcock & Wilcox': 'Babcock & Wilcox',
+    
+    'Baltimore Pompei': 'Baltimore Pompei SC',
+    'Beadling': 'Beadling SC',
+    'Beadling FC': 'Beadling SC',
+    'Beadlign FC': 'Beadling SC',
+    
+
+
+    
+
+    'Spatra Fallstaff': 'Sparta Fallstaff',
+
+
+
+    # Uh...might not be a good name to use Uhrik Truckers.
+    'Philadelphia German-American': 'Uhrik Truckers',
+    'Philadelphia German American': 'Uhrik Truckers',
+    'Philadelphia Americans': 'Uhrik Truckers',
 
     # Not sure of these.
     'Hungaria': 'New York Hungaria', 
@@ -60,26 +256,6 @@ mls_teams = {
     'Red Bull New York': 'New York Red Bulls',
     'F.C. Dallas': 'FC Dallas',
     'Houston 1836': 'Houston Dynamo',
-
-    # Um, these should not be here.
-    'Chicago': 'Chicago Fire',
-    'Colorado': 'Colorado Rapids',
-    'Columbus': 'Columbus Crew',
-    'DC United': 'D.C. United',
-    'Dallas': 'FC Dallas',
-    'Houston': 'Houston Dynamo',
-    'Kansas City': 'Kansas City Wizards',
-    'Tampa Bay': 'Tampa Bay Mutiny',
-    'Toronto': 'Toronto FC',
-    'Miami': 'Miami Fusion',
-    'New England': 'New England Revolution',
-    'New York': 'New York Red Bulls',
-    'Philadelphia': 'Philadelphia Union',
-    'San Jose': 'San Jose Earthquakes',
-    'Seattle': 'Seattle Sounders',
-    'Portland': 'Portland Timbers',
-    'Los Angeles': 'Los Angeles Galaxy',
-    'Salt Lake': 'Real Salt Lake',    
 
     'LA': 'Los Angeles Galaxy',
     'KC': 'Sporting Kansas City',
@@ -328,13 +504,16 @@ for k, v in world_cup_teams.items():
     teams[t] = v
 
 
-def get_team(name, competition=None):
+def get_team(name, competition=None, pre_dict={}):
+    name = pre_dict.get(name, name)
+        
     if competition is not None and (name, competition) in teams:
         name = teams[(name, competition)]
         return get_team(name, competition)
 
     if name in teams:
         return get_team(teams[name])
+
 
     return name
     
