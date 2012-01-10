@@ -2,17 +2,14 @@
 # Stats not working yet.
 
 import datetime
-import os
 import re
 
 from soccerdata.alias import get_team, get_name
-from soccerdata.cache import data_cache
-from soccerdata.mongo import soccer_db
 
-DIR = '/home/chris/www/soccerdata/data/stats'
 games_filename = '/home/chris/www/soccerdata/data/scores/asl.csv'
 
 
+# These should be merged into get_team?
 team_map = {
     'J&P Coats': 'J & P Coats',
     'NY Giants': 'New York Giants',
@@ -27,8 +24,15 @@ competition_map = {
     'AFA Cup': 'American Cup',
     }
 
-from soccerdata.mongo import soccer_db
+
 def get_standings_dict():
+    """
+    Get a dict of all standings.
+    """
+    # This is used for mapping team names, but is probably not a good idea.
+
+    from soccerdata.mongo import soccer_db
+
     d = {}
     for e in soccer_db.standings.find():
         key = (e['competition'], e['season'])
@@ -44,14 +48,13 @@ sd = get_standings_dict()
 def get_full_name(name, competition, season):
     """
     Get the relevant team name based on the competition and season a team played in.
+    Basically, convert New York to New York Giants, or whatever is appropriate.
     """
-
     # Check aliases first.
-
+    # This is really not a good system at all.
     name = team_map.get(name, name)
 
     competition = competition.replace("Playoffs", '').strip()
-
     try:
         names = sd[(competition, season)]
     except:
@@ -64,7 +67,6 @@ def get_full_name(name, competition, season):
     print "failed on %s" % name
     return name
     
-
 
 def process_games():
     f = open(games_filename)
@@ -79,6 +81,11 @@ def process_games():
 
 
 class GameProcessor(object):
+    """
+    Process the games text.
+    Returns a list of dicts representing game results.
+    """
+
     def __init__(self):
         self.year = None
         self.month = None
@@ -88,7 +95,10 @@ class GameProcessor(object):
     def consume_row(self, row):
         fields = row.strip().split('\t')
 
+        # What is field # 10?
         if len(fields) == 10:
+            print "TENS!!!"
+            print row
             fields = fields[:9]
 
         if len(fields) == 9:
@@ -97,10 +107,14 @@ class GameProcessor(object):
             team, season, competition, month, day, opponent, location, score = fields
             goals = []
         else:
+            # Is this happening?
             print fields
+            import pdb; pdb.set_trace()
             return {}
 
-        sx = season
+        
+        # Figure out what year a game was played in. (dates are only partially entered for convenience)
+        sx = season # Clean up the season a bit; 
         for e in 'Fall', 'Spring', 'Playoffs', 'First Half', 'Second Half':
             sx = sx.replace(e, '')
 
@@ -112,7 +126,7 @@ class GameProcessor(object):
         else:
             start_year = end_year = int(re.match('^(\d+).*$', sx).groups()[0])
 
-        # Skipping minigame for now.
+        # Skipping minigames for now.
         if day in ('M', 'SO', 'OT', 'SO-M'):
             return {}
 
@@ -121,7 +135,7 @@ class GameProcessor(object):
             return {}
 
         
-        # Process day before month.
+        # Process day before month. (huh? why?)
         if day.strip():
             self.day = int(day)
 
@@ -133,18 +147,12 @@ class GameProcessor(object):
             else:
                 self.year = end_year
 
-        try:
-            d = datetime.datetime(self.year, self.month, self.day)
-        except:
-            import pdb; pdb.set_trace()
+        d = datetime.datetime(self.year, self.month, self.day)
 
         if score in ('forfeit loss', 'forfeit win', 'awarded', ''):
             return {}
 
-        try:
-            team_score,  opponent_score = [int(e) for e in score.split(',')]
-        except:
-            import pdb; pdb.set_trace()
+        team_score,  opponent_score = [int(e) for e in score.split(',')]
 
         competition = competition_map.get(competition, competition)
 
@@ -171,9 +179,6 @@ class GameProcessor(object):
             'home_score': home_score,
             'away_score': away_score,
             }
-            
-            
-
 
 
 if __name__ == "__main__":
