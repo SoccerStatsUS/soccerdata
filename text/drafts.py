@@ -87,6 +87,7 @@ def remove_pairs(text, start, end):
 def load_drafts():
     # Load all drafts. Not including usmnt drafts, which are formatted differently
     # And are sort of annoying.
+    # Change this name.
     draft_filenames = [e for e in os.listdir(DRAFTS_DIR) if e.endswith(".csv")]
     l = []
     for fn in draft_filenames:
@@ -222,15 +223,19 @@ def process_usmnt_draft(fn, draft_name, parser=parse_line):
             return {}
 
         return {
-            'position': number,
+            #'position': number,
             'team': team,
             'text': player,
             'draft': draft_name,
+            'competition': 'Friendly',
             }
 
 
     f = open(fn)
-    return [process_line(line) for line in f.readlines()]
+    l = [process_line(line) for line in f.readlines()]
+    for i, d in enumerate(l, start=1):
+        d['position'] = i
+    return l
 
             
 
@@ -251,11 +256,13 @@ def process_usa_drafts():
     l = []
     for e in range(2004, 2012):
         p =  "/home/chris/www/soccerdata/data/drafts/%s" % e
-        results = process_usmnt_draft(p, "%s USMNT DRAFT" % e, draft_parsers[e])
+        results = process_usmnt_draft(p, "%s USMNT Draft" % e, draft_parsers[e])
         l.extend(results)
-    return results
+
+    return [e for e in l if e]
+
 
     
 
 if __name__ == "__main__":
-    print load_usa_drafts()
+    print process_usa_drafts()

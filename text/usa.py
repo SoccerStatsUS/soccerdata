@@ -382,12 +382,14 @@ def process_game_chunk(s):
                 player = e.strip()
                 minute = None
 
+            # Try to match a goal scorer to a team.
             team = None
             for d in lineups:
                 if player == d['name']:
                     team = d['team']
 
             if team is None:
+                print "No team."
                 print player
                 print goal_type
                 print [e['name'] for e in lineups]

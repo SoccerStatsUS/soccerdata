@@ -13,6 +13,7 @@ games_filename = '/home/chris/www/soccerdata/data/scores/asl.csv'
 team_map = {
     'J&P Coats': 'J & P Coats',
     'NY Giants': 'New York Giants',
+    'New York National Giants': 'New York Giants',
     'Fleischer': 'Fleisher Yarn',
     'Fleischer Yarn': 'Fleisher Yarn',
 }
@@ -64,7 +65,7 @@ def get_full_name(name, competition, season):
         if e.startswith(name):
             return e
         
-    print "failed on %s" % name
+    print "name match failed on %s" % name
     return name
     
 
@@ -109,7 +110,6 @@ class GameProcessor(object):
         else:
             # Is this happening?
             print fields
-            import pdb; pdb.set_trace()
             return {}
 
         
