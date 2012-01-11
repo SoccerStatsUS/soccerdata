@@ -206,6 +206,7 @@ names = {
     'Juergen Klinsmann': 'Jurgen Klinsmann',
     'John Kerr, Jr.': 'John Kerr Jr.',
     'Joe Addo': 'Joseph Addo',
+    'Josmer Altidore': 'Jozy Altidore',
     'Joseph (Joey) Gjertsen': 'Joey Gjertsen',
     'Joseph Gjertsen': 'Joey Gjertsen',
     'James Alberts': 'Jay Alberts',

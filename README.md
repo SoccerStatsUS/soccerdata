@@ -2,6 +2,7 @@
 
 0. Fix giant ASL team name bug issue - easy but producing a lot of errors.
 1. Convert bios to yaml.
+2. Consider moving aliases into data.
 
 # Error detection
 
