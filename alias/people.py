@@ -3,6 +3,27 @@
 
 
 names = {
+    # Staging
+    'AJ Soares': 'A.J. Soares',
+    'AJ DeLaGarza': 'A.J. DeLaGarza',
+    'Ashley Mcinnes': 'Ashley McInnes',
+    'Brandon Mcdonald': 'Brandon McDonald',
+    'CJ Sapong': 'C.J. Sapong',
+    'CJ Brown': 'C.J. Brown',
+    'Ciaran O\Brien': 'Ciaran O\'Brien',
+    'DJ Countess': 'D.J. Countess',
+    'Hamisi Amani-dove': 'Hamisi Amani-Dove',
+    'Jay Demerit': 'Jay DeMerit',
+    'John Van Buskirk': 'John van Buskirk',
+    'Joe Max Moore': 'Joe-Max Moore',
+    'Keith Defini': 'Keith DeFini',
+    'Leighton O\'brien': 'Leighton O\'Brien',
+    'Riley O\'neill': 'Riley O\'Neill',
+    'RJ Allen': 'R.J. Allen',
+    'Todd Denault': 'Todd DeNault',
+
+
+
     'Alex Morfaw': 'Alexandre Morfaw',
     'Albert Munoz': 'Alberto Munoz',
     'Andrew Webber': 'Andrew Weber',
@@ -148,6 +169,7 @@ names = {
     'Danny Califf': 'Dan Califf',
     'Daniel Cruz': 'Danny Cruz',
 
+    'Eddie Johnson': 'Edward Johnson',
     'Emilo Renteria': 'Emilio Renteria',
     u'Emilio Renter\xeda': 'Emilio Renteria',
     'Eric (Ricky) Lewis': 'Ricky Lewis',
@@ -269,6 +291,7 @@ names = {
     'Jean-Philippe Peguero': 'Jean Philippe Peguero',
     'Jeay Heaps': 'Jay Heaps',
     u'Jair Ben\xedtez': 'Jair Benitez',
+    'Jose Torres': 'José Francisco Torres',
 
     'Keiran O\'brien': 'Keiran O\'Brien',
     'Kwame Watson Siriboe': 'Kwame Watson-Siriboe',

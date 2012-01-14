@@ -6,6 +6,35 @@ teams = {}
 # Going to organize this alphabetically?
 mls_teams = {
 
+    'Bridgeport City AF.C': 'Bridgeport City AFC': 
+    'apollon': 'Apollon',
+    'American AA': 'American A.A.',
+    'varzim': 'Varzim',
+    'New york Field Club',
+    'Heidelberg SC': 'Heidelberg S.C.',
+    'German Hungarian SC (NYC)': 'German Hungarian S.C. (NYC)',
+    'Eintracht SC': 'Eintracht S.C.',
+    'Buda AA': 'Buda A.A.',
+    'Scots-Americans': 'Scots Americans',
+    'Puritan YML': 'Puritan Y.M.L',
+    'Norwegian American SC': 'Norwegian American S.C.',
+    'Madison SC': 'Madison S.C.',
+    'Lynn Gas & electric': 'Lynn Gas & Electric',
+    'lanerossi': 'Lanerossi',
+    'Irish-Americans': 'Irish Americans',
+    'hertha': 'Hertha BSC',
+    'Hertha': 'Hertha BSC',
+    'Centennial FC': 'Centennial F.C.',
+    'hapoel': 'Hapoel',
+    'Brooklyn-Italians': 'Brooklyn Italians',
+    
+    
+    'Disston FC': 'Disston A.A.',
+    'Prospect H.': 'Prospect Hill FC',
+    'Prospect Hill': 'Prospect Hill FC',
+    'Prospect Hill FC (MA)': 'Prospect Hill FC',
+
+
     'FC Portland': 'Portland Timbers',
     'Portland F.C.': 'Portland Timbers',
 
