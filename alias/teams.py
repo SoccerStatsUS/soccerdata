@@ -6,11 +6,13 @@ teams = {}
 # Going to organize this alphabetically?
 mls_teams = {
 
-    'Bridgeport City AF.C': 'Bridgeport City AFC': 
+
+
+    'Bridgeport City AF.C': 'Bridgeport City AFC',
     'apollon': 'Apollon',
     'American AA': 'American A.A.',
     'varzim': 'Varzim',
-    'New york Field Club',
+    'New york Field Club': 'New York Field Club',
     'Heidelberg SC': 'Heidelberg S.C.',
     'German Hungarian SC (NYC)': 'German Hungarian S.C. (NYC)',
     'Eintracht SC': 'Eintracht S.C.',
