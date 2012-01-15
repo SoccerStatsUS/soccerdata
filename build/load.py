@@ -22,6 +22,7 @@ def first_load():
     load_nasl()
     load_apsl()
     load_mls()
+    load_mls2()
     load_mls_reserve()
     load_partial()
     load_usl()
@@ -30,10 +31,10 @@ def first_load():
     load_open_cup()
     load_ncaa()
     load_usa()
-
+    load_concacaf()
     return
 
-    #load_concacaf()
+    
 
     #load_world_cup()
     # Scraped data
@@ -236,8 +237,11 @@ def load_soccernet_league(code, name):
 
 def load_concacaf():
     load_soccernet_league('concacaf.champions', 'concacaf')
+
+
+def load_mls2():
+    load_soccernet_league('usa.1', 'mls2')
     return
-    load_soccernet_league('usa.1')
     load_soccernet_league('mex.1')
 
 
@@ -250,17 +254,17 @@ def load_ncaa():
 
 
 def load_usa():
-    from soccerdata.text import usa
+    from soccerdata.text import usa2
     from soccerdata.text import drafts
  
     print "loading usa games"
-    generic_load(soccer_db.usa_games, usa.process_usa_games)
+    generic_load(soccer_db.usa_games, usa2.process_usa_games)
 
     print "loading usa goals"
-    generic_load(soccer_db.usa_goals, usa.process_usa_goals)
+    generic_load(soccer_db.usa_goals, usa2.process_usa_goals)
 
     print "loading usa lineups"
-    generic_load(soccer_db.usa_lineups, usa.process_usa_lineups)
+    generic_load(soccer_db.usa_lineups, usa2.process_usa_lineups)
 
     generic_load(soccer_db.usa_drafts, drafts.process_usa_drafts)
 
