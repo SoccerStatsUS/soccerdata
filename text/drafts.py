@@ -234,7 +234,8 @@ def process_usmnt_draft(fn, draft_name, parser=parse_line):
     f = open(fn)
     l = [process_line(line) for line in f.readlines()]
     for i, d in enumerate(l, start=1):
-        d['position'] = i
+        if d:
+            d['position'] = i
     return l
 
             
