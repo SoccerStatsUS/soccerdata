@@ -10,6 +10,8 @@ from flask.templating import TemplateNotFound
 import pymongo
 import mongo
 
+from settings import SOURCES
+
 soccer_db = mongo.soccer_db
 
 app = Flask(__name__)
@@ -42,37 +44,11 @@ def dashboard():
         table_names = ['%s_%s' % (scraper, table) for table in STAT_TABLES]
         return [(table_name, soccer_db[table_name].count()) for table_name in table_names]
 
-    sources = [
-        'open_cup',
-        'asl',
-        'nasl',
-        'apsl',
-        'mls',
-        'mls_reserve',
-        'usl',
-        'nasl2',
-        'usa',
-        'partial',
-        'concacaf',
-        'ncaa',
-        'chris',
-        ]
-    
-    [ # Skipping these.
-        'fifa',
-        'uslsoccer',
-        'wiki',
-        'kicker',
-        'mediotiempo',
-        'cnnsi',
-        'eufootball',
-        ]
-
 
 
     # Main is named a little differently. Should probably change this.
     data = [('main', [(table_name, soccer_db[table_name].count()) for table_name in STAT_TABLES]),]
-    for e in sources:
+    for e in SOURCES:
         t = (e, process_scraper(e))
         data.append(t)
 
