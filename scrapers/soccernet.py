@@ -24,16 +24,26 @@ from soccerdata.cache import  set_cache, data_cache
 
 aliases = {
     # CONCACAF Champions League...
-    'Olimpia (H)': 'Olimpia',
     'Motagua': 'CD Motagua',
-    'Impact de Montreal': 'Montreal Impact',
-    'Puerto Rico': 'Puerto Rico Islanders',
-    'Los Angeles': 'Los Angeles Galaxy',
+    'Olimpia (H)': 'Olimpia',
     'San Fco': 'San Francisco',
-    'Seattle': 'Seattle Sounders',
-    'New England': 'New England Revolution',
+
+    'Chicago': 'Chicago Fire',
+    'Colorado': 'Colorado Rapids',
+    'Columbus': 'Columbus Crew',
     'Houston': 'Houston Dynamo',
+    'Impact de Montreal': 'Montreal Impact',
+    'Kansas City': 'Sporting Kansas City',
+    'Los Angeles': 'Los Angeles Galaxy',
+    'New England': 'New England Revolution',
+    'Philadelphia': 'Philadelphia Union',
+    'Puerto Rico': 'Puerto Rico Islanders',
+    'Salt Lake': 'Real Salt Lake',
+    'San Jose': 'San Jose Earthquakes',
+
+    'Seattle': 'Seattle Sounders',
     'Toronto': 'Toronto FC',
+    'Vancouver': 'Vancouver Whitecaps',
     }
 
 base = 'http://soccernet.espn.go.com'
