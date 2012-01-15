@@ -14,7 +14,7 @@ from collections import defaultdict
 
 from soccerdata.alias import get_team, get_name
 from soccerdata.utils import scrape_soup, get_contents
-from soccerdata.cache import  data_cache, set_cache
+from soccerdata.cache import  set_cache, data_cache
 
 # Soccernet is probably the best of all.
 # Triple down on soccernet.
@@ -22,12 +22,42 @@ from soccerdata.cache import  data_cache, set_cache
 # Need to focus on this socreboard:
 # http://soccernet.espn.go.com/scores?date=20110930&league=all&cc=5901&xhr=1
 
+aliases = {
+    # CONCACAF Champions League...
+    'Olimpia (H)': 'Olimpia',
+    'Motagua': 'CD Motagua',
+    'Impact de Montreal': 'Montreal Impact',
+    'Puerto Rico': 'Puerto Rico Islanders',
+    'Los Angeles': 'Los Angeles Galaxy',
+    'San Fco': 'San Francisco',
+    'Seattle': 'Seattle Sounders',
+    'New England': 'New England Revolution',
+    'Houston': 'Houston Dynamo',
+    'Toronto': 'Toronto FC',
+    }
+
 base = 'http://soccernet.espn.go.com'
 
 
-def scrape_bio():
-    url = 'http://soccernet.espn.go.com/player/_/id/115975/andrew-jacobson?cc=5901'
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+def code_to_competition(league_code):
+    d = {
+        'usa.1': 'Major League Soccer',
+        'concacaf.champions': 'CONCACAF Champions League',
+        }
+    {
+        'mex.1': 'Mexico',
+        'eng.1': 'Premier League',
+        'arg.1': 'Argentina',
+        'uefa.champions': 'Champions Leageu',
+        'uefa.europa': 'Europa League',
+        'conmebol.libertadores': 'Copa Libertadores',
+        'ger.1': 'Bundesliga',
+        'ita.1': 'Serie A',
+        'esp.1': 'La Liga',
+        }
+
+    return d[league_code]
+
 
 
 
@@ -61,7 +91,7 @@ def scrape_scoreboard_urls(url):
     Returns a list of game urls for a given scoreboard category, e.g. mls.1
     """
 
-    @data_cache
+    @set_cache
     def get_previous_url(url):
         """
         Given a scoreboard, scrape the url for the previous scoreboard.
@@ -84,67 +114,8 @@ def scrape_scoreboard_urls(url):
 
 
 
-@set_cache
-def scrape_all_league_scores(league_code):
-    """
-    Scrape all league game data from scoreboards
-    """
-    # A league would be, e.g. usa.1
-    # The soccernet league code.
-
-    url = 'http://soccernet.espn.go.com/scores?date=20110930&league=%s&cc=5901&xhr=1' % league_code
-    urls = scrape_scoreboard_urls(url)
-
-    games = []
-    for url in urls:
-        try:
-            games.extend(scrape_league_scoreboard(url))
-        except:
-            print url
-
-    games =  [e for e in games if e]
-    return games
-
-
-# Uncache
-# These return actual data
-
-
-@set_cache
-def scrape_all_league_games(league_code):
-    competition = code_to_competition(league_code)
-    games = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
-        games.append(scrape_live_game(url, competition))
-    return games
-
-
-@set_cache
-def scrape_all_league_goals(league_code):
-    competition = code_to_competition(league_code)
-    goals = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
-        goals.extend(scrape_live_goals(url, competition))
-    return goals
-
-
-@set_cache
-def scrape_all_league_lineups(league_code):
-    competition = code_to_competition(league_code)
-    l = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
-        l.extend(scrape_live_lineups(url, competition))
-    return l
-
-
-
-
-# I'm not too confident this works.
-# Maybe a better idea just to use for urls.
-# Definitely need to add competition to the result.
+# Just use these to get urls.
+# Don't use for actual game results.
 @set_cache
 def scrape_league_scoreboard(url):
     """
@@ -178,14 +149,72 @@ def scrape_league_scoreboard(url):
             return {}
 
         return {
-            'home_team': get_team(home_team),
-            'away_team': get_team(away_team),
-            'home_score': home_score,
-            'away_score': away_score,
             'url': url
             }
 
     return [process_game(game) for game in gameboxes]
+
+
+
+
+@set_cache
+def scrape_all_league_scores(league_code):
+    """
+    Scrape all league game data from scoreboards
+    """
+    # I recommend not doing this. Probably not going to get correct game info from a scoreboard.
+
+    # A league would be, e.g. usa.1
+    # The soccernet league code.
+
+    url = 'http://soccernet.espn.go.com/scores?date=20110930&league=%s&cc=5901&xhr=1' % league_code
+    urls = scrape_scoreboard_urls(url)
+
+    games = []
+    for url in urls:
+        try:
+            games.extend(scrape_league_scoreboard(url))
+        except:
+            print url
+
+    return [e for e in games if e]
+
+
+
+@set_cache
+def scrape_all_league_games(league_code):
+    competition = code_to_competition(league_code)
+    games = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        games.append(scrape_live_game(url, competition))
+    return games
+
+
+@set_cache
+def scrape_all_league_goals(league_code):
+    competition = code_to_competition(league_code)
+    goals = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        goals.extend(scrape_live_goals(url, competition))
+    return goals
+
+
+@set_cache
+def scrape_all_league_lineups(league_code):
+    """
+    Scrape all lineups ever for a given competition.
+    """
+    competition = code_to_competition(league_code)
+    l = []
+    for score in scrape_all_league_scores(league_code):
+        url = get_match_stats_url(score['url'])
+        l.extend(scrape_live_lineups(url, competition))
+    return l
+
+
+
 
 @set_cache
 def scrape_live_game(url, competition):
@@ -194,14 +223,12 @@ def scrape_live_game(url, competition):
     """
 
     soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
-
     
     home_team, away_team = [get_contents(e) for e in soup.findAll("div", "team-info")]
     game_data = soup.find("div", "game-time-location")
 
     score = get_contents(soup.find("p", "matchup-score"))
     home_score, away_score = [int(e) for e in score.replace("&nbsp;", " ").split("-")]
-
 
     data = [get_contents(e) for e in game_data]
 
@@ -214,7 +241,7 @@ def scrape_live_game(url, competition):
         referee = referee.replace("Referee:", '').strip()
 
     elif len(data) == 5:
-        # The second item is another referee.
+        # The second item is another referee (linesman?)
         season, datetime_string, location, referee, _ = data
         referee = referee.replace("Referee:", '').strip()
 
@@ -224,20 +251,15 @@ def scrape_live_game(url, competition):
 
 
     minute, date_string = datetime_string.split(',', 1)
-
     date = datetime.datetime.strptime(date_string.strip(), "%B %d, %Y")
 
-    # Season really isn't worth anything from ESPN.
-    season = str(date.year)
-
-
     return {
-        'home_team': get_team(home_team),
-        'away_team': get_team(away_team),
+        'home_team': get_team(home_team, pre_dict=aliases),
+        'away_team': get_team(away_team, pre_dict=aliases),
         'home_score': home_score,
         'away_score': away_score,
         'competition': competition,
-        'season': season,
+        'season': str(date.year),
         'date': date,
         'location': location,
         'referee': referee,
@@ -291,11 +313,10 @@ def scrape_live_goals(url, competition):
             import pdb; pdb.set_trace()
 
             
-
         return {
             'goal': player,
             'minute': minute,
-            'team': get_team(team),
+            'team': get_team(team, pre_dict=aliases),
             'type': goal_type,
             'season': unicode(game_data['date'].year),
             'date': game_data['date'],
@@ -342,8 +363,7 @@ def scrape_live_lineups(url, competition):
         # Bad game listing.
         # Seems all 2006 New York lineups are missing.
         # e.g. http://soccernet.espn.go.com/match?id=207065&cc=5901
-        print game_data
-        #import pdb; pdb.set_trace()
+        print "Bad soccernet listing: %s" % url
         return []
 
 
@@ -379,8 +399,6 @@ def scrape_live_lineups(url, competition):
 
         return d
             
-            
-
 
     def process_lineup(lineup, subs, team):
         players = [get_contents(e) for e in lineup.findAll("a")]
@@ -403,7 +421,7 @@ def scrape_live_lineups(url, competition):
                     'name': player,
                     'on': on,
                     'off': off,
-                    'team': get_team(team),
+                    'team': get_team(team, pre_dict=aliases),
                     'date': game_data['date'],
                     'season': unicode(game_data['date'].year),
                     'competition': game_data['competition'],
@@ -411,10 +429,10 @@ def scrape_live_lineups(url, competition):
 
         return lineup
 
-    l1 = process_lineup(home_lineup, home_subs, game_data['home_team'])
-    l2 = process_lineup(away_lineup, away_subs, game_data['away_team'])
+    la = process_lineup(home_lineup, home_subs, game_data['home_team'])
+    lb = process_lineup(away_lineup, away_subs, game_data['away_team'])
 
-    return l1 + l2
+    return la + lb
 
     
     
@@ -422,7 +440,8 @@ def scrape_all_dates():
     """
     Scrape the generic scoreboard for all dates.
     """
-    # Non-functional
+    # Not fully implemented; 
+    # May be a simpler way of scraping all soccernet scores.
 
     one_day = datetime.timedelta(days=1)
     today = datetime.date.today()
@@ -444,22 +463,6 @@ def scrape_all_dates():
 
         
 
-def code_to_competition(league_code):
-    d = {
-        'usa.1': 'MLS',
-        'mex.1': 'Mexico',
-        'eng.1': 'Premier League',
-        'arg.1': 'Argentina',
-        'uefa.champions': 'Champions Leageu',
-        'uefa.europa': 'Europa League',
-        'conmebol.libertadores': 'Copa Libertadores',
-        'concacaf.champions': 'CONCACAF Champions League',
-        'ger.1': 'Bundesliga',
-        'ita.1': 'Serie A',
-        'esp.1': 'La Liga',
-        }
-
-    return d[league_code]
 
 
 if __name__ == "__main__":

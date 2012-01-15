@@ -41,7 +41,7 @@ def scrape_all_games_mlssoccer():
         l.extend(scrape_games(year))
     return l
 
-@set_cache
+@data_cache
 def scrape_games(year):
     """
     Scrape all game data from a scoreboard.
@@ -124,7 +124,7 @@ def scrape_games_first_pass(soup):
 
 
 
-@set_cache
+@data_cache
 def scrape_all_bios_mlssoccer():
     """
     Scrape all players that are linked to by a stats link.
@@ -146,7 +146,7 @@ def scrape_all_bios_mlssoccer():
     return bios
 
 
-@set_cache
+@data_cache
 def scrape_all_bio_stats_mlssoccer():
     """
     Scrape all extant mls bio stats.
@@ -168,7 +168,7 @@ def scrape_all_bio_stats_mlssoccer():
     return stats
 
 
-@set_cache
+@data_cache
 def scrape_all_stats_mlssoccer():
     """
     Scrape all mls stats.
@@ -200,14 +200,14 @@ def scrape_all_stats_mlssoccer():
 
 
 
-@set_cache
+@data_cache
 def scrape_team_stats(url, season):
     """
     Scrape team stats for a given year.
     season_type is playoff or regular.
     """
 
-    soup = scrape_soup(url, refresh=True)
+    soup = scrape_soup(url)
     
     # Can't find a stats table.
     stats_table = soup.find("div", "stats-table")
@@ -267,7 +267,7 @@ def process_stat(tr, competition, season):
         }
 
 
-@set_cache
+@data_cache
 def scrape_player_bio(url):
     """
     Scrapes player biographical information.
@@ -333,13 +333,13 @@ def scrape_player_bio(url):
         }
 
 
-@set_cache
+@data_cache
 def scrape_stats_from_bio(url):
     """
     Scrape a player's stats from the player's bio page.
     """
 
-    soup = scrape_soup(url, sleep=2, refresh=True)
+    soup = scrape_soup(url, sleep=2)
     tables = soup.findAll("table", 'views-table')
     career_stats, season_stats = tables[0], tables[1:] # career_stats not used.
 
