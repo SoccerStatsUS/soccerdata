@@ -252,7 +252,7 @@ d = {
                 'John Sewell',
                 'Peter Short',
                 'Willie Evans',
-                'John Kerr',
+                'John Kerr Sr.',
                 'Graeme Souness',
                 'Pat McBride',
                 'Randy Horton',
