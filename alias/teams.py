@@ -6,8 +6,9 @@ teams = {}
 # Going to organize this alphabetically?
 mls_teams = {
 
+    'Hakoah All Stars': 'Hakoah All-Stars',
 
-
+    'Dallas Inter': 'Dallas Mean Green',
     'Bridgeport City AF.C': 'Bridgeport City AFC',
     'apollon': 'Apollon',
     'American AA': 'American A.A.',
