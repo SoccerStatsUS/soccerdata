@@ -14,7 +14,10 @@ from collections import defaultdict
 
 from soccerdata.alias import get_team, get_name
 from soccerdata.utils import scrape_soup, get_contents
-from soccerdata.cache import  set_cache, data_cache
+from soccerdata.cache import set_cache, data_cache
+
+# Need to set up a way of doing this better.
+
 
 # Soccernet is probably the best of all.
 # Triple down on soccernet.
@@ -263,6 +266,7 @@ def scrape_live_game(url, competition):
     minute, date_string = datetime_string.split(',', 1)
     date = datetime.datetime.strptime(date_string.strip(), "%B %d, %Y")
 
+    
     return {
         'home_team': get_team(home_team, pre_dict=aliases),
         'away_team': get_team(away_team, pre_dict=aliases),
@@ -469,9 +473,6 @@ def scrape_all_dates():
         except:
             print "Failed %s" % url
     return games
-
-
-        
 
 
 

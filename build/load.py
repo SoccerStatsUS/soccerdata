@@ -32,6 +32,8 @@ def first_load():
     load_ncaa()
     load_usa()
     load_concacaf()
+
+    load_leach()
     return
 
     
@@ -135,6 +137,13 @@ def load_apsl():
 
     print "loading apsl scores"
     generic_load(soccer_db.apsl_games, apsl.process_apsl_scores)
+
+
+
+def load_leach():
+    from soccerdata.text import leach
+
+    generic_load(soccer_db.leach_goals, leach.process_goals)
 
 
 

@@ -114,15 +114,21 @@ def generate_standings(games):
         
 
 def generate_stats(goals=[], lineups=[]):
-    # Generate stat dict.
-    # 
+    """
+    Generate a stat dict from goals, lineups
+    """
+    # Need to add cards, game events, etc.?
+
     sd = {}
 
     def add_item(t, key, amount=1):
+        """
+        Add goal, lineup, etc to the stat dict.
+        """
         if t not in sd:
             name, team, season, competition = t
             if not name:
-                print t
+                "Name not in tuple %s" % unicode(t)
                 return
 
             sd[t] = {
@@ -162,7 +168,10 @@ def generate_stats(goals=[], lineups=[]):
                 minutes = lineup['off'] - lineup['on']
                 add_item(t, 'minutes', minutes)
             except TypeError:
-                print lineup
+                # Seems to be dealing with a on/off type mismatch.
+                # If either 'on' or 'off' is None, there's a problem.
+                #print "On/off stats problem with %s" % lineup
+                pass
         
 
     return sd

@@ -80,6 +80,7 @@ def merge_goals():
     insert_rows(soccer_db.goals, soccer_db.mls_goals.find())
     insert_rows(soccer_db.goals, soccer_db.fifa_goals.find())
     insert_rows(soccer_db.goals, soccer_db.usa_goals.find())
+    insert_rows(soccer_db.goals, soccer_db.leach_goals.find())
     
 # Where to have this stuff?
 # Needs to be run.
