@@ -278,6 +278,26 @@ def correct_goal_names(goal_list, lineup_dict):
         matches = [e for e in players if e.startswith(first) and e.endswith(last)]
 
         if len(matches) == 0:
+
+            # Interfering with other dicts below.
+            no_matches = {
+                'Gomez': 'Gómez',
+                'Gutierrez': 'Gutiérrez',
+                'Gonzalez': 'González',
+                'Suarez': 'Suárez',
+                'Landin': 'Landín',
+                'Perez': 'Pérez',
+                'Alvarez': 'Álvarez',
+                'Chavez': 'Chávez',
+                'Ruiz': 'Ruíz',
+                'W Sánchez': 'Sanchez',
+                'Elliot': 'Elliott',
+                }
+
+            if last in no_matches:
+                return get_match(key, first, no_matches[last])
+
+
             print key
             print "No matches: %s" % players
             print "%s %s\n" % (first, last)

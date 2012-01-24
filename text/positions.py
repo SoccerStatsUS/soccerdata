@@ -40,6 +40,8 @@ class PositionParser(object):
 
         d = datetime.datetime(year, month, day)
 
+        return d
+
 
     def process_line(self, line):
         # Does date handling and fills in empty fields if necessary.

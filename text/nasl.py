@@ -10,9 +10,29 @@ stats_filename = os.path.join(DIR, 'nasl.txt')
 games_filename = '/home/chris/www/soccerdata/data/scores/nasl.csv'
 
 
+final_map = {
+    'Varzim': 'Varzim S.C.',
+    'varzim': 'Varzim S.C.',
+    'Hertha': 'Hertha BSC',
+    'hertha': 'Hertha BSC',
+    'Bangu': 'Bangu AC',
+    'bangu': 'Bangu AC',
+    'apollon': 'Apollon Limassol',
+    'Apollon': 'Apollon Limassol',
+    'lanerossi': 'Vicenza Calcio',
+    'Lanerossi': 'Vicenza Calcio',
+    'Monterrey': 'CF Monterrey',
+    'Vera Cruz': 'Veracruz',
+    'Coventry': 'Coventry City FC',
+    'hapoel': 'Hapoel Tel Aviv F.C.',
+    'Hapoel': 'Hapoel Tel Aviv F.C.',
+    'Hearts': 'Heart of Midlothian F.C.',
+}
+
 team_map = {
     'Golden Bay': 'San Jose',
     'Hartford': 'Connecticut',
+
 }
 
 competition_map = {
@@ -47,6 +67,9 @@ def get_full_name(name, competition, season):
     """
     Figure out the full team name based on the season and competition.
     """
+    if name in final_map:
+        return final_map[name]
+
     name = team_map.get(name, name)
 
     competition = competition.replace("Playoffs", '').strip()
@@ -58,7 +81,7 @@ def get_full_name(name, competition, season):
         if e.startswith(name):
             return e
         
-    print "failed on %s" % name
+    print "(NASL) failed to get name for %s" % name
     return name
     
 

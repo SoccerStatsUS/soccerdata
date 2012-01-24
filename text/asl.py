@@ -16,6 +16,42 @@ team_map = {
     'New York National Giants': 'New York Giants',
     'Fleischer': 'Fleisher Yarn',
     'Fleischer Yarn': 'Fleisher Yarn',
+
+    'Philadelphia 1928-1929': 'Philadelphia Field Club',
+    'NY Nationals': 'New York Nationals',
+    'Abbot W.': 'Abbot Worsted',
+    'Holley C.': 'Holley Carburetor',
+    'Yonkers Th.': 'Yonkers Thistle',
+    'Scullin St.': 'Scullin Steels',
+    'Hispano': 'Brooklyn Hispano',
+    'Bricklayers': 'Bricklayers FC',
+    'NY Yankees': 'New York Yankees',
+    'NY Americans': 'New York Americans',
+    'Prospect H.': 'Prospect Hill FC',
+    'Bethlehem': 'Bethlehem Steel',
+
+    # These are just so the build script doesn't report an error.
+    # Move these to a different object.
+    'Brooklyn FC': 'Brooklyn FC',
+    'Ben Millers': 'Ben Millers',
+    'Pawtucket Rangers': 'Pawtucket Rangers',
+    'Fall River Marksmen': 'Fall River Marksmen',
+    'Providence Gold Bugs': 'Providence Gold Bugs',
+    'Bridgeport Hungaria': 'Bridgeport Hungaria',
+    'New York SC': 'New York SC',
+    'New York Giants': 'New York Giants',
+    'Newark 1929-1930': 'Newark 1929-1930',
+    'Boston 1929-1930': 'Boston 1929-1930',
+    'Boston Wonder Workers': 'Boston Wonder Workers',
+    'Boston Bears': 'Boston Bears',
+    'Brooklyn Wanderers': 'Brooklyn Wanderers',
+    'Brooklyn Hakoah': 'Brooklyn Hakoah',
+    'New York Nationals': 'New York Nationals',
+    'New Bedford Whalers': 'New Bedford Whalers',
+    'Bridgeport Bears': 'Bridgeport Bears',
+    'Philadelphia 1929 Fall': 'Philadelphia 1929 Fall',
+    'Bridgeport Bears': 'Bridgeport Bears',
+    
 }
 
 competition_map = {
@@ -43,29 +79,48 @@ def get_standings_dict():
             d[key].append(e['name'])
     return d
 
-sd = get_standings_dict()
 
+STANDINGS_DICT = get_standings_dict()
 
 def get_full_name(name, competition, season):
     """
     Get the relevant team name based on the competition and season a team played in.
-    Basically, convert New York to New York Giants, or whatever is appropriate.
+    e.g., convert New York to New York Giants
     """
-    # Check aliases first.
-    # This is really not a good system at all.
-    name = team_map.get(name, name)
+    
+    name = name.strip()
 
-    competition = competition.replace("Playoffs", '').strip()
+    # Check direct mapping first.
+    if name in team_map:
+        return team_map.get(name, name)
+
+    # Get teams that played in a given season.
+    ncompetition = competition.replace("Playoffs", '').strip()
+    nseason = season.replace("Playoffs", '').strip()
+
+
+
     try:
-        names = sd[(competition, season)]
+        names = STANDINGS_DICT[(ncompetition, nseason)]
     except:
-        return name
-
+        names = []
+    
     for e in names:
         if e.startswith(name):
             return e
-        
-    print "name match failed on %s" % name
+
+    if nseason == '1927-1928':
+        return get_full_name(name, competition, '1927-1928 First Half')
+
+
+    # Need to figure out how to handle these? Bummer.
+    # Seems like I'm using the wrong season.
+    if nseason == '1929 First Half':
+        return get_full_name(name, competition, '1928-1929 First Half')
+
+
+    #import pdb; pdb.set_trace()
+    print "name match failed on %s, competition: %s (%s) " % (name, competition, season)
     return name
     
 
@@ -98,7 +153,7 @@ class GameProcessor(object):
 
         # What is field # 10?
         if len(fields) == 10:
-            print "TENS!!!"
+            print "Ten fields for some reason?"
             print row
             fields = fields[:9]
 

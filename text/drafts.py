@@ -225,7 +225,7 @@ def process_usmnt_draft(fn, draft_name, parser=parse_line):
         return {
             #'position': number,
             'team': team,
-            'text': player,
+            'text': get_name(player),
             'draft': draft_name,
             'competition': 'Friendly',
             }
