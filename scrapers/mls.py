@@ -367,7 +367,7 @@ def scrape_stats_from_bio(url):
 
     competition_map = {
         'MLS Regular Season': 'Major League Soccer',
-        'MLS Playoffs': 'Major League Soccer Playoffs',
+        'MLS Playoffs': 'MLS Cup Playoffs',
         }
 
     stats = []
