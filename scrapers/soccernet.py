@@ -16,6 +16,9 @@ from soccerdata.alias import get_team, get_name
 from soccerdata.utils import scrape_soup, get_contents
 from soccerdata.cache import set_cache, data_cache
 
+easy_cache = data_cache
+
+
 # Need to set up a way of doing this better.
 
 
@@ -98,13 +101,13 @@ def get_match_stats_url(url):
 
 # Only returning internally used data.
 
-@set_cache
+@easy_cache
 def scrape_scoreboard_urls(url):
     """
     Returns a list of game urls for a given scoreboard category, e.g. mls.1
     """
 
-    @set_cache
+    @easy_cache
     def get_previous_url(url):
         """
         Given a scoreboard, scrape the url for the previous scoreboard.
@@ -129,7 +132,7 @@ def scrape_scoreboard_urls(url):
 
 # Just use these to get urls.
 # Don't use for actual game results.
-@set_cache
+@easy_cache
 def scrape_league_scoreboard(url):
     """
     Get game result data from a scoreboard page.
@@ -170,7 +173,7 @@ def scrape_league_scoreboard(url):
 
 
 
-@set_cache
+@easy_cache
 def scrape_all_league_scores(league_code):
     """
     Scrape all league game data from scoreboards
@@ -194,7 +197,7 @@ def scrape_all_league_scores(league_code):
 
 
 
-@set_cache
+@easy_cache
 def scrape_all_league_games(league_code):
     competition = code_to_competition(league_code)
     games = []
@@ -204,7 +207,7 @@ def scrape_all_league_games(league_code):
     return games
 
 
-@set_cache
+@easy_cache
 def scrape_all_league_goals(league_code):
     competition = code_to_competition(league_code)
     goals = []
@@ -214,7 +217,7 @@ def scrape_all_league_goals(league_code):
     return goals
 
 
-@set_cache
+@easy_cache
 def scrape_all_league_lineups(league_code):
     """
     Scrape all lineups ever for a given competition.
@@ -229,7 +232,7 @@ def scrape_all_league_lineups(league_code):
 
 
 
-@set_cache
+@easy_cache
 def scrape_live_game(url, competition):
     """
     Get game data from a game page.
@@ -281,7 +284,7 @@ def scrape_live_game(url, competition):
         }
 
 
-@set_cache
+@easy_cache
 def scrape_live_goals(url, competition):
     """
     Get goal data from a game page.
@@ -352,7 +355,7 @@ def scrape_live_goals(url, competition):
     return goals
 
 
-@set_cache
+@easy_cache
 def scrape_live_lineups(url, competition):
     """
     Scrape a lineup from a game url.
