@@ -7,6 +7,74 @@ import re
 from soccerdata.alias import get_team, get_name
 
 games_filename = '/home/chris/www/soccerdata/data/scores/asl.csv'
+stats_filename = '/home/chris/www/soccerdata/data/stats/aslstats.csv'
+bios_filename = '/home/chris/www/soccerdata/data/people/asl_bios.csv'
+
+
+def get_full_name_stats(team, season):
+
+    TEAM_HISTORY_TUPLES = [
+        #Uniques
+        ('B. Hakoah', [], 'Brooklyn Hakoah'),
+        ('B/Newark', [], '?'),
+        ('Bethlehem', [], 'Bethlehem Steel'),
+        ('Brooklyn', [], 'Brooklyn Wanderers'),
+        ('Fleischer', [], 'Fleisher Yarn'), # I misspelled Fleisher in Excel.
+        ('Hakoah', [], 'Hakoah All-Stars'),
+        ('Harrison', [], 'Harrison Soccer Club'),
+        ('Hartford', [], 'Hartford Americans'),
+        ('Holyoke', [], 'Holyoke Falcons'),
+        ('Indiana', [], 'Indiana Flooring'),
+        ('J&P Coats', [], 'J & P Coats'),
+        ('NY Americans', [], 'New York Americans'),
+        ('NY Giants', [], 'New York Giants'),
+        ('NY Nationals', [], 'New York Nationals'),
+        ('NY Yankees', [], 'New York Yankees'),
+        ('New Bedford', [], 'New Bedford Whalers'),
+        ('New York', [], 'New York Field Club'), # Different teams?
+        ('New York FC', [], 'New York Field Club'), # Different teams?
+        ('New York SC', [], 'New York Soccer Club'),
+        ('Paterson', [], 'Paterson Silk Sox'),
+        ('Pawtucket', [], 'Pawtucket Rangers'),
+        ('Shawsheen', [], 'Shawsheen Indians'),
+        ('Springfield', [], 'Springfield Babes'),
+        ('Todd', [], 'Todd Shipyards F.C.'),
+
+        #Complicateds
+        # 'Bridgeport', # Bridgeport is missing or something.
+        ('Boston', ['1924-1925', '1925-1926', '1926-1927', '1927-1928', '1928-1929'], 'Boston Wonder Workers'),
+        ('Boston', ['1929 Fall', '1929-1930', '1931 Fall', '1931 Spring'], 'Boston Bears'),
+        ('Fall River', ['1921-1922'], 'Fall River United'),
+        ('Fall River', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1928-1929', '1929 Fall', '1929-1930', '1930 Fall'], 'Fall River Marksmen'),
+        ('Fall River', ['1931 Fall', '1931 Spring', '1932 Fall'], 'Fall River Football Club'),
+        ('Jersey City', ['1921-1922'], 'Jersey City Celtics'),
+        ('Jersey City', ['1925-1926'], 'Jersey City ?'), # Can't find.
+        ('Jersey City', ['1928-1929'], 'Jersey City'),
+        ('Newark', ['1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1927-1928', '1928-1929', '1929 Fall', '1929-1930'], 'Newark Skeeters'),
+        ('Newark', ['1930 Fall', '1931 Fall', '1931 Spring'], 'Newark Americans'),
+        ('Philadelphia', ['1921-1922', '1922-1923', '1923-1924', '1924-1925', '1925-1926', '1926-1927', '1928-1929', '1929 Fall'], 'Philadelphia Field Club'),
+        ('Philadelphia', ['1927-1928'], 'Philadelphia Celtic'),
+        ('Providence', ['1924-1925', '1925-1926', '1926-1927', '1927-1928'], 'Providence Clamdiggers'),
+        ('Providence', ['1928-1929', '1929 Fall', '1929-1930', '1930 Fall'], 'Providence Gold Bugs')
+        ]
+
+    
+    team_matches = [e for e in TEAM_HISTORY_TUPLES if e[0] == team]
+
+    if len(team_matches) == 0:
+        print "Fail: %s" % team
+        return team
+    elif len(team_matches) == 1:
+        assert team_matches[0][1] == []
+        return team_matches[0][2]
+    else:
+        for t, seasons, full_name in team_matches:
+            if season in seasons:
+                return full_name
+
+    import pdb; pdb.set_trace()
+    x = 5
+    
 
 
 # These should be merged into get_team?
@@ -60,6 +128,135 @@ competition_map = {
     'ASA Cup': 'American Cup',
     'AFA Cup': 'American Cup',
     }
+
+LEWIS_CUP_YEARS = set([
+    '1924-1925',
+    '1925-1926',
+    '1926-1927',
+    '1927-1928',
+    '1928-1929',
+    '1929-1930',
+    ])
+
+
+
+def process_bios():
+    f = open(bios_filename)
+
+    l = []
+    for line in f:
+        fields = line.split("\t") # 9 fields
+        name, birthplace, bmonth, bday, byear, deathplace, dmonth, dday, dyear = fields
+
+        if bmonth:
+            try:
+                birthdate = datetime.date(int(byear), int(bmonth), int(bday))
+            except:
+                print name, byear, bmonth, bday 
+                birthdate = None
+        else:
+            birthdate = None
+            
+        if dmonth:
+            try:
+                deathdate = datetime.date(int(dyear), int(dmonth), int(dday))
+            except:
+                print name, dyear, dmonth, dday 
+                deathdate = None
+
+        else:
+            deathdate = None
+
+        l.append({
+                'name': name,
+                'birthdate': birthdate,
+                'birthplace': birthplace,
+                'deathdate': deathdate,
+                'deathplace': deathplace,
+                })
+
+    return l
+            
+        
+        
+
+
+def process_stats():
+    f = open(stats_filename)
+    l = []
+    for line in f:
+        lx = load_stat(line)
+        l.append(lx)
+    return l
+
+
+
+def load_stat(line):
+    fields = line.split("\t")
+    name, team, season = fields[:3]
+
+    def convert(n):
+        if n.strip():
+            try:
+                return int(n)
+            except:
+                import pdb; pdb.set_trace()
+                x = 5
+        return 0
+
+    stats = [convert(e) for e in fields[3:]]
+
+    season_games, cup_games, other_cup_games, season_goals, cup_goals, other_cup_goals = stats
+
+    if "-" in season:
+        start, end = season.split("-")
+        season = "19%s-19%s" % (start, end)
+
+    team_name = get_full_name_stats(team, season)
+
+    # Get canonical name.
+    name = get_name(name)
+    
+    l = []
+    l.append({
+            'name': name,
+            'team': team_name,
+            'season': season,
+            'competition': 'American Soccer League (1921-1933)',
+            'games_played': season_games,
+            'goals': season_goals,
+            })
+
+    if cup_games or cup_goals:
+        l.append({
+                'name': name,
+                'team': team_name,
+                'season': season,
+                'competition': 'US Open Cup',
+                'games_played': cup_games,
+                'goals': cup_goals,
+                })
+
+    if other_cup_games or other_cup_goals:
+        if season in LEWIS_CUP_YEARS:
+            other_cup = "Lewis Cup"
+            oc_season = season.split("-")[1]
+        else:
+            other_cup = "American Cup"
+            oc_season = season
+            print season, name, team
+
+        l.append({
+                'name': name,
+                'team': team_name,
+                'season': oc_season,
+                'competition': other_cup,
+                'games_played': other_cup_games,
+                'goals': other_cup_goals,
+                })
+        
+    return l
+
 
 
 def get_standings_dict():
@@ -122,6 +319,9 @@ def get_full_name(name, competition, season):
     #import pdb; pdb.set_trace()
     print "name match failed on %s, competition: %s (%s) " % (name, competition, season)
     return name
+
+
+
     
 
 def process_games():
@@ -229,14 +429,16 @@ class GameProcessor(object):
             'competition': competition,
             'season': season,
             'date': d,
+            'team1': home_team,
+            'team2': away_team,
+            'team1_score': home_score,
+            'team2_score': away_score,
             'home_team': home_team,
-            'away_team': away_team,
-            'home_score': home_score,
-            'away_score': away_score,
             }
 
 
 if __name__ == "__main__":
-    print process_games()
+    print process_stats()
+    #print process_bios()
 
 

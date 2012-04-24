@@ -192,7 +192,6 @@ class GeneralProcessor(object):
             'competition': self.competition,
             'date': d,
             'season': self.season,
-
             'team1': team1.strip(),
             'team2': team2.strip(),
             'team1_score': int(team1_score),

@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Scaryice lineups only.
+
+
 # Need to reformat the text dramatically so I canclean up this code.
 
 # Need to redo a bunch of DC United Goal entries from around 2003 and 2004.  Format is Adu (34;85), which is not useable...
@@ -412,15 +415,19 @@ def get_scores(fn):
         else:
             raise
 
+        home_team = get_team(team_map.get(home_team, home_team))
+        away_team = get_team(team_map.get(away_team, away_team))
         
         return {
             'competition': get_competition(match_type),
             'date': date,
             'season': unicode(date.year),
-            'home_team': get_team(team_map.get(home_team, home_team)),
-            'away_team': get_team(team_map.get(away_team, away_team)),
-            'home_score': home_score,
-            'away_score': away_score,
+
+            'team1': home_team,
+            'team2': away_team,
+            'team1_score': home_score,
+            'team2_score': away_score,
+            'home_team': home_team,
             }
 
     p = os.path.join(LINEUPS_DIR, fn)

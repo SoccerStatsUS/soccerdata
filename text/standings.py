@@ -15,6 +15,8 @@ if not os.path.exists(DIR):
 
 
 def process_standings():
+    # Load standings from standings file.
+
     p = os.path.join(DIR, "standings", "standings.csv")
     f = open(p)
     lines = f.read().split('\n')

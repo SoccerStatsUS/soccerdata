@@ -683,7 +683,7 @@ class GameProcessor(object):
 
     def get_competition(self):
         d = {
-            'us_open_cup.txt': 'Lamar Hunt U.S. Open Cup',
+            'us_open_cup.txt': 'U.S. Open Cup',
             'american_cup.txt': 'American Cup'
             }
 
