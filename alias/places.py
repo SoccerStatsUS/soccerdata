@@ -48,5 +48,4 @@ states = {
     'WI': 'Wisconsin',
     'WV': 'West Virginia',
     'WY': 'Wyoming',
-  
-}
+    }

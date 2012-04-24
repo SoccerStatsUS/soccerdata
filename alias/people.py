@@ -4,7 +4,30 @@
 
 names = {
     # Staging
+    'Billy Herd': 'Willie Herd',
+    'David Brown': 'Davey Brown',
+    'Tom Florie': 'Tommy Florie',
+    'Cyril Irving Davis': 'Irving Davis',
+    'Henry Meyerdirks': 'Henry Meyerdierks',
+    'Tom MacFarlane': 'Tommy McFarlane',
+    'Rabbit Heminsley': 'Rabbit Hemingsley',
+    'John Hemingsley': 'Rabbit Hemingsley',
+    'Philip Slone': 'Phil Slone',
+    'Alexander Rae': 'Alex Rae',
+    'Frantisek Sedlacek': 'Ferenc Szedlacsek',
+    'Hans Tandler': 'Johann Tandler',
+    'Harry Oellerman': 'Dutch Oellerman',
+
     'John Kerr': 'John Kerr Jr.',
+    'Bill Crook': 'Billy Crook',
+    'Emmanuel (Manny) Oudin': 'Manny Oudin',
+    'Manny Oidin': 'Manny Oudin',
+    'Emmanual Oudin': 'Manny Oudin',
+    'Paul Moylan': 'Archie Moylan',
+    'Paul (Archie) Moylan': 'Archie Moylan',
+    'Dionysus Sebwe': 'Dionysius Sebwe',
+    'Josh McKay': 'Joshua McKay',
+
 
     'Jose Diaz': 'José Díaz',
     'Ryan  Cordeiro': 'Ryan Cordeiro',
@@ -574,7 +597,6 @@ names = {
     'Peter Sabanadzovic': 'Refik Sabanadzovic',
     'Peter Marino': 'Pete Marino',
 
-    'Quinones': 'Enrique Quinones', # ASL 1933-1984
     'Quincy Amirikwa': 'Quincy Amarikwa',
     'Quinn O\'sullivan': 'Quinn O\'Sullivan',
     'Ricardo (Kiki) Lara': 'Ricardo Lara',

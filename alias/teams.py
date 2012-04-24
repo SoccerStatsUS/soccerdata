@@ -6,6 +6,16 @@ teams = {}
 # Going to organize this alphabetically?
 mls_teams = {
 
+    'Montclair': 'Fontana Falcons',
+    'NY/NJ Stallions': 'New Jersey Stallions',
+
+    'Central Valley Hydra': 'CCV Hydra',
+    'Dallas/Ft. Worth Toros': 'Dallas-Fort Worth Toros',
+    
+    'Robbins Dry Dock': 'Robins Dry Dock',
+    'Harrison Erie S.C.': 'Erie AA',
+    'Brooklyn Morse Dry Dock': 'Morse Dry Dock',
+
     'Hakoah All Stars': 'Hakoah All-Stars',
 
     'Dallas Inter': 'Dallas Mean Green',
@@ -154,7 +164,12 @@ mls_teams = {
 
 
     'Richhmond Kickers': 'Richmond Kickers',
+
+
     'San Fern. Valley Golden Eagles': 'San Fernando Valley Golden Eagles',
+    'Valley Golden Eagles': 'San Fernando Valley Golden Eagles',
+    'SFV Golden Eagles': 'San Fernando Valley Golden Eagles',
+
     'CD Mexico (North California)': 'El Farolito Soccer Club',
     'AAC Eagles': 'A.A.C. Eagles',
     'Greek American AC': 'Greek American A.C.',
