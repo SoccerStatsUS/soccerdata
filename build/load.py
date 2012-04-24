@@ -13,27 +13,62 @@ def first_load():
 
     # Base data.
     load_standings()
+
+    load_leach()
+    return
+
+    # MLS data.
+    load_mls_data()
+    load_mls2()
+
+    load_mls_lineups()
+
+    # ASL I data.
+    load_asl()
+
+    # USMNT data
+    load_usa()
+    
+    # ASL II, APSL, WSA, CSL stats.
+    load_partial()
+    return
+
+    load_analysis()
+
+
+
+
+    load_ncaa()
+
+    load_positions()
+    return
+
+
+
+
+
     load_teams()
     load_drafts()
-    load_positions()
+
 
     # Scores, stats.
-    load_asl()
+
     load_nasl()
     load_apsl()
-    load_mls()
-    load_mls2()
+
+
+
     load_mls_reserve()
-    load_partial()
+
     load_usl()
     load_nasl2()
 
     load_open_cup()
-    load_ncaa()
-    load_usa()
+
+
     load_concacaf()
 
-    load_leach()
+
     return
 
     
@@ -86,6 +121,13 @@ def load_partial():
     print "Loading partial stats.\n"
     generic_load(soccer_db.partial_stats, partial.process_partial_stats)
 
+
+def load_analysis():
+    from soccerdata.text import ratings
+    print "Loading ratings.\n"
+    generic_load(soccer_db.analysis_ratings, ratings.get_ratings)
+    
+
     
 def load_asl():
     from soccerdata.text import awards
@@ -99,6 +141,9 @@ def load_asl():
 
     print "Loading ASL games.\n"
     generic_load(soccer_db.asl_games, asl.process_games)
+
+    print "Loading ASL stats.\n"
+    generic_load(soccer_db.asl_stats, asl.process_stats)
 
 
 def load_nasl():
@@ -142,13 +187,12 @@ def load_apsl():
 
 def load_leach():
     from soccerdata.text import leach
-
     generic_load(soccer_db.leach_goals, leach.process_goals)
+    generic_load(soccer_db.leach_games, leach.process_games)
+    generic_load(soccer_db.leach_lineups, leach.process_lineups)
 
 
-
-
-def load_mls():
+def load_mls_data():
     """
     Load mls data
     Includes stats from mlssoccer.com, 
@@ -172,6 +216,14 @@ def load_mls():
     print "Loading MLSsoccer.com player bios.\n"
     generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
 
+
+def load_mls2():
+    load_soccernet_league('usa.1', 'mls2')
+
+
+def load_mls_lineups():
+    # Load scaryice lineup data.
+
     # MLS lineup data 1996-2010
     print "Loading scaryice score data.\n"
     generic_load(soccer_db.mls_games, lineups.load_all_games_scaryice)
@@ -181,11 +233,6 @@ def load_mls():
     
     print "Loading scaryice lineup data.\n"
     generic_load(soccer_db.mls_lineups, lineups.load_all_lineups_scaryice)
-
-    return
-
-    print "Loading MLSsoccer.com game data.\n"
-    generic_load(soccer_db.mls_games, mls.scrape_all_games_mlssoccer)
 
 
 
@@ -246,13 +293,6 @@ def load_soccernet_league(code, name):
 
 def load_concacaf():
     load_soccernet_league('concacaf.champions', 'concacaf')
-
-
-def load_mls2():
-    load_soccernet_league('usa.1', 'mls2')
-    return
-    load_soccernet_league('mex.1')
-
 
 
 def load_ncaa():
@@ -335,4 +375,4 @@ def load_statto():
 
 
 if __name__ == "__main__":
-    load()
+    first_load()

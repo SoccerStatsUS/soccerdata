@@ -64,12 +64,6 @@ def merge_positions():
 
 
 
-def merge_lineups():
-    soccer_db.lineups.drop()
-    insert_rows(soccer_db.lineups, soccer_db.mls_reserve_lineups.find())
-    insert_rows(soccer_db.lineups, soccer_db.mls_lineups.find())
-    insert_rows(soccer_db.lineups, soccer_db.fifa_lineups.find())
-    insert_rows(soccer_db.lineups, soccer_db.usa_lineups.find())
 
 
 
@@ -78,6 +72,7 @@ def merge_goals():
     soccer_db.goals.drop()
     insert_rows(soccer_db.goals, soccer_db.mls_reserve_goals.find())
     insert_rows(soccer_db.goals, soccer_db.mls_goals.find())
+    insert_rows(soccer_db.goals, soccer_db.mls2_goals.find())
     insert_rows(soccer_db.goals, soccer_db.fifa_goals.find())
     insert_rows(soccer_db.goals, soccer_db.usa_goals.find())
     insert_rows(soccer_db.goals, soccer_db.leach_goals.find())
@@ -113,14 +108,23 @@ def merge_games():
 
     def update_game(d):
         d.pop("_id")
+        
+        # normalize things.
+        d['team1'] = get_team(d['team1'])
+        d['team2'] = get_team(d['team2'])
         d['home_team'] = get_team(d['home_team'])
-        d['away_team'] = get_team(d['away_team'])
-        key = (d['home_team'], d['away_team'], d['date'])
+
+        teams = tuple(sorted([d['team1'], d['team2']]))
+
+        key = (teams, d['date'])
+
+        # If there is already a game, update empty fields.
         if key in game_dict:
             orig = game_dict[key]
             for k, v in d.items():
                 if not orig.get(k) and v:
                     orig[k] = v
+        # Otherwise, add the game.
         else:
             game_dict[key] = d
 
@@ -134,6 +138,18 @@ def merge_games():
     soccer_db.games.drop()
     insert_rows(soccer_db.games, game_dict.values())
 
+
+def merge_appearances():
+    pass
+
+def merge_lineups():
+    soccer_db.lineups.drop()
+    insert_rows(soccer_db.lineups, soccer_db.mls_reserve_lineups.find())
+    insert_rows(soccer_db.lineups, soccer_db.mls_lineups.find())
+    insert_rows(soccer_db.lineups, soccer_db.mls2_lineups.find())
+    insert_rows(soccer_db.lineups, soccer_db.fifa_lineups.find())
+    insert_rows(soccer_db.lineups, soccer_db.usa_lineups.find())
+    insert_rows(soccer_db.lineups, soccer_db.leach_lineups.find())
 
 
 
@@ -202,6 +218,7 @@ def merge_stats():
 
 def get_scaryice_goals():
     # Note! scaryice_lineups needs to have been generated alredady for this to work.
+    # This is not the right way to do anything.
     from soccerdata.text import lineups
 
 

@@ -40,13 +40,13 @@ def check_games():
     """
 
     game_fields = [
-        'home_team',
-        'away_team',
-        'home_score',
-        'away_score',
+        'team1',
+        'team2',
+        'team1_score',
+        'team2_score',
         'date',
         'season',
-        'competition'
+        'competition',
         ]
 
     for game in mongo.soccer_db.games.find():
@@ -54,7 +54,10 @@ def check_games():
             try:
                 assert field in game
             except:
-                print "% missing fields from game %s" % game
+                try:
+                    print "% missing fields from game %s" % game
+                except:
+                    import pdb; pdb.set_trace()
                 continue
             #assert(type(game['date']) == datetime.date)
             #assert(type(away_score) == int)

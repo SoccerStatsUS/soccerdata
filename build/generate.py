@@ -48,7 +48,7 @@ def generate_all_standings():
     generic_load(soccer_db.concacaf_standings, lambda: concacaf_standings.values())
 
     # Generate Open Cup Standings
-    standings = generate_standings(soccer_db.games.find({'competition': 'Lamar Hunt U.S. Open Cup'}))
+    standings = generate_standings(soccer_db.games.find({'competition': 'U.S. Open Cup'}))
     generic_load(soccer_db.open_cup_standings, lambda: standings.values())
 
     # Generate American Cup Standings
@@ -62,6 +62,8 @@ def generate_all_standings():
 
 
 def generate_standings(games):
+    # Need to remove idea of home team.
+
 
     def insert_game(team, game):
         t = (team, game['competition'], game['season'])
@@ -84,17 +86,17 @@ def generate_standings(games):
         key = get_key(team, game)
         d[t][key] += 1
 
-        if team == game['home_team']:
-            gf, ga = game['home_score'], game['away_score']
+        if team == game['team1']:
+            gf, ga = game['team1_score'], game['team2_score']
         else:
-            gf, ga = game['away_score'], game['home_score']
+            gf, ga = game['team2_score'], game['team1_score']
 
         
         d[t]['goals_for'] += gf
         d[t]['goals_against'] += ga
 
     def get_key(team, game):
-        ht, at, h, a = [game[k] for k in ['home_team', 'away_team', 'home_score', 'away_score']]
+        ht, at, h, a = [game[k] for k in ['team1', 'team2', 'team1_score', 'team2_score']]
         if h == a:
             return 'ties'
         if ht == team and h > a:
@@ -107,8 +109,8 @@ def generate_standings(games):
 
     d = {}
     for game in games:
-        insert_game(game['away_team'], game)
-        insert_game(game['home_team'], game)
+        insert_game(game['team1'], game)
+        insert_game(game['team2'], game)
 
     return d
         
@@ -117,7 +119,10 @@ def generate_stats(goals=[], lineups=[]):
     """
     Generate a stat dict from goals, lineups
     """
-    # Need to add cards, game events, etc.?
+    # Need to add:
+    # cards, 
+    # game events
+    
 
     sd = {}
 
