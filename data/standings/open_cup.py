@@ -23,7 +23,7 @@ def process_line(line):
     away_team = d['team2'].split('(')[0].strip()
     
     return {
-        'competition': 'Lamar Hunt U.S. Open Cup',
+        'competition': 'U.S. Open Cup',
         'home_team': home_team,
         'away_team': away_team,
         'home_score': home_score,

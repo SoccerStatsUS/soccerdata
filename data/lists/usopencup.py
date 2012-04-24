@@ -3,7 +3,7 @@
 
 
 d = {
-    'competition': 'Lamar Hunt U.S. Open Cup',
+    'competition': 'U.S. Open Cup',
     'team_data': ['Champion'],
 
     'Champion': [
