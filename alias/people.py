@@ -4,6 +4,9 @@
 
 names = {
     # Staging
+
+    'Carsten Sirsbaeck': 'Carsten Sirsbaek',
+
     'Billy Herd': 'Willie Herd',
     'David Brown': 'Davey Brown',
     'Tom Florie': 'Tommy Florie',
