@@ -69,8 +69,8 @@ def process_lineups_file(fn, season):
 
             l.append({
                     'name': n,
-                    'on': on,
-                    'off': off,
+                    'on': int(on),
+                    'off': int(off),
                     'team': t,
                     'date': d,
                     'season': season,
@@ -145,7 +145,7 @@ def process_goals_file(fn, season):
             fields = line.split('\t')
 
             # 11 fields always
-            player, team, _, _, date_string, minute, _, league, assist1, assist2, _ = fields
+            player, team, _, _, date_string, minute, _, comp, assist1, assist2, _ = fields
 
             month, day, year = [int(e) for e in date_string.split("/")]
 
@@ -158,13 +158,26 @@ def process_goals_file(fn, season):
             else:
                 assists = []
 
+            team = get_team(team)
+
+            if comp == 'LGE':
+                competitions = TEAM_COMPETITION_DICT[(team, season)]
+                if len(competitions) > 1:
+                    import pdb; pdb.set_trace()
+                else:
+                    competition = competitions[0]
+
+
+
             l.append({
                     'goal': format_name(player),
                     'minute': int(minute),
-                    'team': get_team(team),
+                    'team': team,
                     'type': 'normal',
                     'date': d,
                     'assists': assists,
+                    'season': season,
+                    'competition': competition,
                     })
     return l
                     

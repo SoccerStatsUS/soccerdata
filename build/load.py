@@ -14,7 +14,10 @@ def first_load():
     # Base data.
     load_standings()
 
+    load_partial()
     load_leach()
+
+    load_asl()
     return
 
     # MLS data.
@@ -24,13 +27,13 @@ def first_load():
     load_mls_lineups()
 
     # ASL I data.
-    load_asl()
+
 
     # USMNT data
     load_usa()
     
     # ASL II, APSL, WSA, CSL stats.
-    load_partial()
+
     return
 
     load_analysis()

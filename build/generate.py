@@ -33,6 +33,10 @@ def generate_all_stats():
     concacaf_stats = generate_stats(soccer_db.concacaf_goals.find(), soccer_db.concacaf_lineups.find())
     generic_load(soccer_db.concacaf_stats, lambda: concacaf_stats.values())    
 
+    leach_stats = generate_stats(soccer_db.leach_goals.find(), soccer_db.leach_lineups.find())
+    generic_load(soccer_db.leach_stats, lambda: leach_stats.values())    
+
+
 def generate_all_standings():
 
     # Generate MLS Reserve League standings

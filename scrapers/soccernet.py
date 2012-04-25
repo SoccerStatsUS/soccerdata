@@ -269,12 +269,15 @@ def scrape_live_game(url, competition):
     minute, date_string = datetime_string.split(',', 1)
     date = datetime.datetime.strptime(date_string.strip(), "%B %d, %Y")
 
-    
+    home_team = get_team(home_team, pre_dict=aliases)
+    away_team = get_team(away_team, pre_dict=aliases)
+
     return {
-        'home_team': get_team(home_team, pre_dict=aliases),
-        'away_team': get_team(away_team, pre_dict=aliases),
-        'home_score': home_score,
-        'away_score': away_score,
+        'team1': home_team,
+        'team2': away_team,
+        'team1_score': home_score,
+        'team2_score': away_score,
+        'home_team': home_team,
         'competition': competition,
         'season': str(date.year),
         'date': date,
@@ -331,7 +334,7 @@ def scrape_live_goals(url, competition):
 
             
         return {
-            'goal': player,
+            'goal': get_name(player),
             'minute': minute,
             'team': get_team(team, pre_dict=aliases),
             'type': goal_type,
@@ -341,14 +344,15 @@ def scrape_live_goals(url, competition):
             'assists': [],
             }
 
+    # Not the best way to handle this now that we've switched away from home/away designations.
     goals = []
     for goal in home_goals:
-        gd = process_goal(goal, game_data['home_team'])
+        gd = process_goal(goal, game_data['team1'])
         if gd:
             goals.append(gd)
 
     for goal in away_goals:
-        gd = process_goal(goal, game_data['away_team'])
+        gd = process_goal(goal, game_data['team2'])
         if gd:
             goals.append(gd)
         
@@ -421,7 +425,6 @@ def scrape_live_lineups(url, competition):
         players = [get_contents(e) for e in lineup.findAll("a")]
         sub_dict = process_substitutions(subs)
 
-
         lineup = []
 
         for player in players:
@@ -435,7 +438,7 @@ def scrape_live_lineups(url, competition):
                 off = 90
 
             lineup.append({
-                    'name': player,
+                    'name': get_name(player),
                     'on': on,
                     'off': off,
                     'team': get_team(team, pre_dict=aliases),
@@ -446,8 +449,8 @@ def scrape_live_lineups(url, competition):
 
         return lineup
 
-    la = process_lineup(home_lineup, home_subs, game_data['home_team'])
-    lb = process_lineup(away_lineup, away_subs, game_data['away_team'])
+    la = process_lineup(home_lineup, home_subs, game_data['team1'])
+    lb = process_lineup(away_lineup, away_subs, game_data['team2'])
 
     return la + lb
 
