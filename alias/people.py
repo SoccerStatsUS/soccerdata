@@ -5,6 +5,11 @@
 names = {
     # Staging
 
+    'Benedict Iroha': 'Ben Iroha',
+    'Uchenna Okafor': 'Uche Okafor',
+    'Bennie McCarthy': 'Benni McCarthy',
+    'Benedict McCarthy': 'Benni McCarthy',
+
     'Carsten Sirsbaeck': 'Carsten Sirsbaek',
 
     'Billy Herd': 'Willie Herd',
