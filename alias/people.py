@@ -4,6 +4,7 @@
 
 names = {
     # Staging
+    'Esse Baharmast': 'Esfandiar Baharmast',
 
     'Benedict Iroha': 'Ben Iroha',
     'Uchenna Okafor': 'Uche Okafor',
