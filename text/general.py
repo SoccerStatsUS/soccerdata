@@ -153,7 +153,7 @@ class GeneralProcessor(object):
             remaining = fields[4:]
         
         elif self.score_type == 'byteam':
-            score_re = re.compile('(.*?)(\d+)')
+            score_re = re.compile('(.*?)(\d+)\'?')
             try:
                 team1, team1_score = score_re.match(fields[1]).groups()
             except:

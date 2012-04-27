@@ -124,7 +124,6 @@ team_map = {
 
 competition_map = {
     'ASL': 'American Soccer League (1921-1933)',
-    'US Open Cup': 'Lamar Hunt U.S. Open Cup',
     'ASA Cup': 'American Cup',
     'AFA Cup': 'American Cup',
     }
@@ -232,7 +231,7 @@ def load_stat(line):
                 'name': name,
                 'team': team_name,
                 'season': season,
-                'competition': 'US Open Cup',
+                'competition': 'U.S. Open Cup',
                 'games_played': cup_games,
                 'goals': cup_goals,
                 })

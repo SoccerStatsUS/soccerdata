@@ -141,7 +141,7 @@ def get_competition(name):
         'CS': 'Copa Sudamericana',
         'CW': 'CONCACAF Cup Winners\' Cup',
         'GC': 'Giants Cup',
-        'OC-': 'Lamar Hunt U.S. Open Cup',
+        'OC-': 'U.S. Open Cup',
         'P-': 'MLS Cup Playoffs',
         'SL': 'Super Liga',
         }
