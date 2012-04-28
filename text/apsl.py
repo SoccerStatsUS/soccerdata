@@ -274,10 +274,11 @@ class TextProcessor(object):
             self.games.append({
                 'competition': self.competition,
                 'season': self.season,
+                'team1': home_team,
+                'team2': away_team,
+                'team1_score': home_score,
+                'team2_score': away_score,
                 'home_team': home_team,
-                'away_team': away_team,
-                'home_score': home_score,
-                'away_score': away_score,
                 'date': d
                 })
 

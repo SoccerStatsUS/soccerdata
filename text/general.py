@@ -36,13 +36,23 @@ class GeneralProcessor(object):
 
 
     def process_line(self, line):
+        line = line.strip()
 
 
-        if not line.strip():
+        if not line:
             return
 
         # Comment
         if line.startswith("*"):
+            return
+
+        # Set the previous game as a minigame.
+        if line.startswith("Minigame"):
+            self.games[-1]['minigame'] = True
+            return
+
+
+        if line.startswith("Minutes"):
             return
 
         if line.startswith("Competition:"):
@@ -147,6 +157,11 @@ class GeneralProcessor(object):
             try:
                 team1, score, team2 = fields[1:4]
 
+                score = score.lower()
+
+                if '(aet)' in score:
+                    score = score.replace('(aet)', '')
+
                 if score == 'w/o':
                     winner = team1
                     team1_score = team2_score = None
@@ -212,6 +227,7 @@ class GeneralProcessor(object):
             'location': location,
             'referee': referee,
             'attendance': attendance,
+            'minigame': False,
             }
 
         self.current_game = g
