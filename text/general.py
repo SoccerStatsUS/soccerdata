@@ -46,6 +46,18 @@ class GeneralProcessor(object):
         if line.startswith("*"):
             return
 
+        # Game without a date.
+        # Skipping for the time being.
+        if line.startswith(";"):
+            return
+
+        # Either an unknown score or a problem with the date. (Hopefully).
+        # Skip it.
+        
+        if '?' in line:
+            return
+
+
         # Set the previous game as a minigame.
         if line.startswith("Minigame"):
             self.games[-1]['minigame'] = True
@@ -83,7 +95,18 @@ class GeneralProcessor(object):
         if line.startswith("Red Card:"):
             return self.process_misconduct(line)
 
-        if ":" in line:
+        fields = line.split(";")
+
+
+        # Checking for Brooklyn FC: GK, DF
+        # Trying to handle 1/25/1990; Brooklyn FC; 2 : 1; Queens Boys
+        skip_team = False
+        if ';' in line and ':' in line:
+            if line.index(';') < line.index(':'):
+                skip_team = True
+                
+
+        if ":" in line and not skip_team:
             possible_team = line.split(":")[0]
             try:
                 if possible_team in (self.current_game['team1'], self.current_game['team2']):
@@ -91,7 +114,7 @@ class GeneralProcessor(object):
             except:
                 import pdb; pdb.set_trace()
 
-        fields = line.split(";")
+
         if fields:
             time_string = fields[0].strip()
             mdt = self.DATE_RE.match(time_string)
@@ -157,12 +180,18 @@ class GeneralProcessor(object):
             try:
                 team1, score, team2 = fields[1:4]
 
-                score = score.lower()
+                score = score.lower().strip()
 
                 if '(aet)' in score:
                     score = score.replace('(aet)', '')
 
+
+                # Eventually will indicate a blank score.
+                # We're not prepared to handle this, so leave the function.
                 if score == 'w/o':
+                    print "Cannot process."
+                    return
+
                     winner = team1
                     team1_score = team2_score = None
                 else:
@@ -184,6 +213,9 @@ class GeneralProcessor(object):
                 team2, team2_score = score_re.match(fields[2]).groups()
             except:
                 import pdb; pdb.set_trace()
+
+
+            team1_score, team2_score = int(team1_score), int(team2_score)
 
             remaining = fields[3:]
 
@@ -220,8 +252,8 @@ class GeneralProcessor(object):
 
             'team1': team1.strip(),
             'team2': team2.strip(),
-            'team1_score': int(team1_score),
-            'team2_score': int(team2_score),
+            'team1_score': team1_score,
+            'team2_score': team2_score,
             #'winner': None,
             'home_team': None,
             'location': location,
@@ -324,7 +356,10 @@ class GeneralProcessor(object):
         goals = []
 
         for e in split_outside_parens(team1_goals):
-            goals.append(process_item(e, self.current_game['team1']))
+            try:
+                goals.append(process_item(e, self.current_game['team1']))
+            except:
+                import pdb; pdb.set_trace()
  
         for e in split_outside_parens(team2_goals):
             goals.append(process_item(e, self.current_game['team2']))

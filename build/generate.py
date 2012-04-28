@@ -31,6 +31,7 @@ def generate_all_stats():
     standard_generate('chris')
     standard_generate('american_cup')
     standard_generate('lewis_cup')
+    standard_generate('open_cup')
 
     standard_generate('usa')
     standard_generate('world_cup')
@@ -48,6 +49,7 @@ def generate_all_standings():
         generic_load(soccer_db['%s_standings' % source], lambda: stg.values())
 
     sg('lewis_cup')
+    sg('open_cup')
     sg('mls_reserve')
     sg('american_cup')
 

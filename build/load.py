@@ -37,6 +37,17 @@ def first_load():
     load_general('american_cup', 'cups/american_cup')
     load_general('lewis_cup', 'cups/lewis')
 
+
+    load_general('open_cup', 'cups/us_open/1910')
+    load_general('open_cup', 'cups/us_open/1920')
+    load_general('open_cup', 'cups/us_open/1930')
+    load_general('open_cup', 'cups/us_open/1940')
+    load_general('open_cup', 'cups/us_open/1950')
+    load_general('open_cup', 'cups/us_open/1960')
+    load_general('open_cup', 'cups/us_open/1970')
+    load_general('open_cup', 'cups/us_open/1980')
+    load_general('open_cup', 'cups/us_open/1990')
+
     load_asl()
     load_partial()
 
@@ -309,8 +320,9 @@ def load_mls_reserve():
 
 def load_open_cup():
     from soccerdata.text.scores import cup
-    generic_load(soccer_db.open_cup_games, cup.process_open_cup_games)
-    generic_load(soccer_db.open_cup_games, cup.process_american_cup_games, delete=False)
+    #generic_load(soccer_db.open_cup_games, cup.process_open_cup_games)
+    #generic_load(soccer_db.open_cup_games, cup.process_american_cup_games, delete=False)
+    
 
 
 

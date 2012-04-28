@@ -207,6 +207,7 @@ def load_stat(line):
 
     season_games, cup_games, other_cup_games, season_goals, cup_goals, other_cup_goals = stats
 
+
     if "-" in season:
         start, end = season.split("-")
         season = "19%s-19%s" % (start, end)
@@ -226,7 +227,20 @@ def load_stat(line):
             'goals': season_goals,
             })
 
+
     if cup_games or cup_goals:
+
+        if season in ('1930 Fall', '1931 Spring'):
+            sx = '1931'
+        elif season in ('1931 Fall', '1932 Spring', '1932'):
+            sx = '1932'
+
+        else:
+            try:
+                sx = season.split("-")[1]
+            except:
+                import pdb; pdb.set_trace()
+
         l.append({
                 'name': name,
                 'team': team_name,
