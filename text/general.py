@@ -23,6 +23,7 @@ class GeneralProcessor(object):
     def __init__(self):
         self.competition = None
         self.season = None
+        self.source = None
 
         self.current_game = None
         self.score_type = "standard"
@@ -46,6 +47,11 @@ class GeneralProcessor(object):
 
         if line.startswith("Competition:"):
             self.competition = line.split("Competition:")[1].strip()
+            return
+
+        # Need to implement fully.
+        if line.startswith("Source:"): 
+            self.source = line.split("Source:")[1].strip()
             return
 
 
@@ -180,7 +186,7 @@ class GeneralProcessor(object):
             attendance = None
 
 
-        location = referee = None
+        location = referee = ''
 
         if len(remaining) == 1:
             location = remaining[0].strip()

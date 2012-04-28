@@ -6,6 +6,8 @@ from soccerdata.settings import SOURCES
 
 from collections import defaultdict
 
+import random
+
 
 # Merge should be used for avoiding duplicate elements.
 
@@ -19,7 +21,7 @@ def first_merge():
     merge_stats()
     merge_games()
 
-    standard_merge('goals')
+    merge_goals()
     standard_merge('lineups')
 
 
@@ -100,6 +102,46 @@ def make_scaryice_lineup_dict():
         v.append(l['player'])
 
     return d
+
+
+def merge_goals():
+
+    dd = {}
+
+    def update_goal(d):
+        d.pop("_id")
+        
+        # normalize things.
+        d['team'] = get_team(d['team'])
+
+        # Technically, the same player could score two goals in the
+        # same minute. If this ever comes up, I'll have to reconsider
+        # this issue.
+        if d['minute']:
+            key = (d['date'], d['goal'], d['minute'])
+        else: 
+            # For the case where a player has scored multiple goals, but we don't have a minute for any of them.
+            key = (d['date'], d['goal'], random.random())
+
+        if key in dd: 
+            orig = dd[key]
+            for k, v in d.items():
+                if not orig.get(k) and v:
+                    orig[k] = v
+
+        # Otherwise, add the game.
+        else:
+            dd[key] = d
+
+        
+    for e in SOURCES:
+        c = '%s_goals' % e
+        coll = soccer_db[c]
+        for e in coll.find():
+            update_goal(e)
+            
+    soccer_db.goals.drop()
+    insert_rows(soccer_db.goals, dd.values())
 
 
 

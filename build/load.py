@@ -34,6 +34,7 @@ def first_load():
     load_general('small_tournaments/carolina.txt')
     load_general('small_tournaments/dynamo.txt')
     load_general('small_tournaments/superliga.txt')
+    load_general('cups/us_cup')
 
     return 
 
