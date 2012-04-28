@@ -113,8 +113,8 @@ def merge_goals():
         
         # normalize things.
         d['team'] = get_team(d['team'])
-        d['goal'] = get_name(d['goal'])
-        d['assists'] = [get_name(e) for e in d['assists']]
+        d['goal'] = get_name(d['goal'].strip())
+        d['assists'] = [get_name(e.strip()) for e in d['assists']]
 
         # Technically, the same player could score two goals in the
         # same minute. If this ever comes up, I'll have to reconsider
@@ -154,6 +154,7 @@ def merge_lineups():
         
         # normalize things.
         d['name'] = get_name(d['name'])
+        d['team'] = get_team(d['team'])
 
         # Technically, the same player could score two goals in the
         # same minute. If this ever comes up, I'll have to reconsider
@@ -233,7 +234,7 @@ def merge_bios():
     """
 
     def update_bio(d):
-        name = get_name(d['name'])
+        name = get_name(d['name'].strip())
         d['name'] = name
         
         if name in bio_dict:
@@ -263,8 +264,8 @@ def merge_stats():
     def update_stat(d):
         if 'team' not in d:
             import pdb; pdb.set_trace()
-        d['team'] = get_team(d['team'])
-        d['name'] = get_name(d['name'])
+        d['team'] = get_team(d['team'].strip())
+        d['name'] = get_name(d['name'].strip())
         t = (d['name'], d['team'], d['competition'], d['season'])
         if t in stat_dict:
             orig = stat_dict[t]

@@ -27,7 +27,6 @@ def first_load():
     clear_all()
     load_standings()
 
-
     load_general('chris', 'small_tournaments/giantscup.txt')
     load_general('chris', 'small_tournaments/bicentennial')
     load_general('chris', 'small_tournaments/canadian.txt')
@@ -35,7 +34,11 @@ def first_load():
     load_general('chris', 'small_tournaments/dynamo.txt')
     load_general('chris', 'small_tournaments/superliga.txt')
     load_general('chris', 'cups/us_cup')
-    load_general('chris', 'cups/american_cup')
+    load_general('american_cup', 'cups/american_cup')
+    load_general('lewis_cup', 'cups/lewis')
+
+    load_asl()
+    load_partial()
 
     load_apsl()
 
@@ -43,10 +46,10 @@ def first_load():
 
 
 
-    load_partial()
+
     load_leach()
 
-    load_asl()
+
 
 
 
@@ -193,7 +196,7 @@ def load_asl():
     generic_load(soccer_db.asl_awards, awards.process_lewis_cup_awards, delete=False)
 
     print "Loading ASL games.\n"
-    generic_load(soccer_db.asl_games, asl.process_games)
+    #generic_load(soccer_db.asl_games, asl.process_games)
 
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
@@ -234,6 +237,8 @@ def load_apsl():
 
     load_general('apsl', 'playoffs/apsl_playoffs')
     load_general('apsl', 'playoffs/wsa_playoffs')
+
+    load_general('apsl', 'cups/apsl_professional_cup')
     
     print "loading apsl scores"
     #generic_load(soccer_db.apsl_games, apsl.process_apsl_scores)

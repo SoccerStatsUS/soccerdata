@@ -237,9 +237,8 @@ class GeneralProcessor(object):
 
         def process_appearance(s, team):
 
-
-
             if '(' not in s:
+                
                 return [{
                     'name': s.strip(),
                     'on': 0,

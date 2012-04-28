@@ -32,16 +32,33 @@ def reset_database():
     mongo.connection.drop_database(mongo.soccer_db)
 
 
+def normalize():
+    pass
+
+
 
 def build():
     """
     Rebuild all site data.
     """
 
+    # Do you want to generate before so that you can use / merge those items normally?
+
+    # Or do you want to generate afterwards so that you can filter things easier?
+
+    # There should only be one load.
     first_load()
 
+    # This is where player, team, competition, and place names are normalized.
+    # Best to do this as early as possible.
+    normalize()
+
+    # This is where things like standings and stats (not much else) can be generated.
+    # Should be relatively simple.
     generate()
 
+
+    # Merge everything together.
     first_merge()
 
     # Second pass

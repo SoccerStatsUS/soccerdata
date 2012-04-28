@@ -7,8 +7,9 @@ names = {
 
     'Raul Lara': 'Raúl Lara',
     'Juan Manuel Pena': 'Juan Manuel Peña',
-
-
+    'Eddie Skiba': 'Ed Skiba',
+    'Joey Boyle': 'Joe Boyle',
+    'Jackie Hynes': 'Jack Hynes',
 
     'Jesus Mendoza': 'Jesús Mendoza',
     'Diego Martinez': 'Diego Martínez',

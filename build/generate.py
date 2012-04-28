@@ -29,26 +29,28 @@ def generate_all_stats():
 
     standard_generate('mls_reserve')
     standard_generate('chris')
+    standard_generate('american_cup')
+    standard_generate('lewis_cup')
 
-    world_cup_stats = generate_stats(soccer_db.fifa_goals.find(), soccer_db.fifa_lineups.find())
-    generic_load(soccer_db.fifa_stats, lambda: world_cup_stats.values())
+    standard_generate('usa')
+    standard_generate('world_cup')
+    standard_generate('leach')
+    standard_generate('concacaf')
+    standard_generate('apsl_professional_cup')
 
-    usa_stats = generate_stats(soccer_db.usa_goals.find(), soccer_db.usa_lineups.find())
-    generic_load(soccer_db.usa_stats, lambda: usa_stats.values())
-
-    concacaf_stats = generate_stats(soccer_db.concacaf_goals.find(), soccer_db.concacaf_lineups.find())
-    generic_load(soccer_db.concacaf_stats, lambda: concacaf_stats.values())    
-
-    leach_stats = generate_stats(soccer_db.leach_goals.find(), soccer_db.leach_lineups.find())
-    generic_load(soccer_db.leach_stats, lambda: leach_stats.values())    
 
 
 
 def generate_all_standings():
 
-    # Generate MLS Reserve League standings
-    standings = generate_standings(soccer_db.mls_reserve_games.find())
-    generic_load(soccer_db.mls_reserve_standings, lambda: standings.values())
+    def sg(source):
+        stg = generate_standings(soccer_db['%s_games' % source].find())
+        generic_load(soccer_db['%s_standings' % source], lambda: stg.values())
+
+    sg('lewis_cup')
+    sg('mls_reserve')
+    sg('american_cup')
+
 
 
 

@@ -1,20 +1,29 @@
 
 SOURCES = [
-        'apsl',
         'asl',
         'nasl',
-        'nasl2',
-        'open_cup',
         'mls',
-        'mls2',
+        'open_cup',
+        'american_cup',
+        'lewis_cup',
+
+        'apsl',
+        'nasl2',
         'mls_reserve',
+
+        'leach',
         'usl',
-        'partial',
-        'ncaa',
+
         'chris',
+
+        'mls2',
+        'partial',
+
+        'ncaa',
+        'world_cup',
         'usa',
         'concacaf',
-        'leach',
+
         ]
 
 
