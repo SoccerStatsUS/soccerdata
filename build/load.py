@@ -29,6 +29,8 @@ def first_load():
     load_standings()
 
 
+
+
     load_positions()
 
 
@@ -44,9 +46,11 @@ def first_load():
     load_general('chris', 'cups/us_cup')
     load_general('american_cup', 'cups/american_cup')
     load_general('lewis_cup', 'cups/lewis')
+
     load_general('mls_reserve', 'leagues/mls_reserve')
 
-
+    # What are USL games coming from?
+    load_leach()
 
     load_open_cup()
 
@@ -67,7 +71,7 @@ def first_load():
     load_mls_data()
 
     return
-    load_leach()
+
 
     return
     load_mls_reserve()
@@ -117,7 +121,7 @@ def load_standings():
     soccer_db.standings.drop()
     f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
 
-    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'usl/12', 'cosmo':
+    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier':
         f(e)
 
     
@@ -177,7 +181,7 @@ def load_asl():
     generic_load(soccer_db.asl_awards, awards.process_lewis_cup_awards, delete=False)
 
     print "Loading ASL games.\n"
-    generic_load(soccer_db.asl_games, asl.process_games)
+    #generic_load(soccer_db.asl_games, asl.process_games)
 
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)

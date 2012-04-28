@@ -28,7 +28,7 @@ def make_team_to_competition_dict():
     from soccerdata.mongo import soccer_db
 
     d = {}
-    for e in soccer_db.standings.find():
+    for e in soccer_db.chris_standings.find():
         key = (e['name'], e['season'])
         if key not in d:
             d[key] = [e['competition']]
@@ -78,7 +78,7 @@ def process_lineups_file(fn, season):
                     })
 
 
-    return l
+    return [e for e in l if e['competition'] != 'Major League Soccer']
         
 
 def process_games_file(fn, season):
@@ -125,7 +125,7 @@ def process_games_file(fn, season):
                     'referee': format_name(referee),
                     })
 
-    return l
+    return [e for e in l if e['competition'] != 'Major League Soccer']
 
 
 def process_goals_file(fn, season):
@@ -179,7 +179,9 @@ def process_goals_file(fn, season):
                     'season': season,
                     'competition': competition,
                     })
-    return l
+
+    return [e for e in l if e['competition'] != 'Major League Soccer']
+
                     
 
 
