@@ -73,6 +73,8 @@ mls_teams = {
 
     'New York Brookhattan': 'Brookhattan',
 
+    'Packard FC': 'Detroit Packard FC',
+
     'San Joe Earthquakes': 'San Jose Earthquakes',
     'Clark ONT': 'Clark O.N.T.',
     'Alma': 'Newark Almas',

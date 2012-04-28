@@ -25,7 +25,15 @@ def first_load():
     # Base data.
 
     clear_all()
+
     load_standings()
+
+
+    load_positions()
+
+
+
+
 
     load_general('chris', 'small_tournaments/giantscup.txt')
     load_general('chris', 'small_tournaments/bicentennial')
@@ -38,89 +46,35 @@ def first_load():
     load_general('lewis_cup', 'cups/lewis')
 
 
-    load_general('open_cup', 'cups/us_open/1910')
-    load_general('open_cup', 'cups/us_open/1920')
-    load_general('open_cup', 'cups/us_open/1930')
-    load_general('open_cup', 'cups/us_open/1940')
-    load_general('open_cup', 'cups/us_open/1950')
-    load_general('open_cup', 'cups/us_open/1960')
-    load_general('open_cup', 'cups/us_open/1970')
-    load_general('open_cup', 'cups/us_open/1980')
-    load_general('open_cup', 'cups/us_open/1990')
+    load_open_cup()
+
+
+    load_usl()
+    load_mls_lineups()
+    load_nasl()
+
+    load_ncaa()
 
     load_asl()
     load_partial()
 
     load_apsl()
 
-    return 
-
-
-
-
-    load_leach()
-
-
-
-
-
-    return
-
-    # MLS data.
-    load_mls_data()
-    load_mls2()
-
-    load_mls_lineups()
-
-    # ASL I data.
-
-
-    # USMNT data
-    load_usa()
-    
-    # ASL II, APSL, WSA, CSL stats.
-
-    return
-
-    load_analysis()
-
-
-
-
-    load_ncaa()
-
-    load_positions()
-    return
-
-
-
-
-
-    load_teams()
     load_drafts()
 
-
-    # Scores, stats.
-
-    load_nasl()
-
-
-
-
-    load_mls_reserve()
-
-    load_usl()
-    load_nasl2()
-
-    load_open_cup()
-
-
-    load_concacaf()
-
+    load_mls_data()
 
     return
+    load_leach()
 
-    
+    return
+    load_mls_reserve()
+    load_mls2()
+    load_usa()
+    load_nasl2()
+    load_analysis()
+    load_teams()
+    load_concacaf()
 
     #load_world_cup()
     # Scraped data
@@ -140,6 +94,20 @@ def second_load():
     pass
 
 
+
+def load_open_cup():
+    load_general('open_cup', 'cups/us_open/1910')
+    load_general('open_cup', 'cups/us_open/1920')
+    load_general('open_cup', 'cups/us_open/1930')
+    load_general('open_cup', 'cups/us_open/1940')
+    load_general('open_cup', 'cups/us_open/1950')
+    load_general('open_cup', 'cups/us_open/1960')
+    load_general('open_cup', 'cups/us_open/1970')
+    load_general('open_cup', 'cups/us_open/1980')
+    load_general('open_cup', 'cups/us_open/1990')
+
+
+
 def load_standings():
     from soccerdata.text import standings
     print "Loading chris standings.\n"
@@ -147,7 +115,7 @@ def load_standings():
     soccer_db.standings.drop()
     f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
 
-    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'usl/12':
+    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'usl/12', 'cosmo':
         f(e)
 
     
@@ -207,7 +175,7 @@ def load_asl():
     generic_load(soccer_db.asl_awards, awards.process_lewis_cup_awards, delete=False)
 
     print "Loading ASL games.\n"
-    #generic_load(soccer_db.asl_games, asl.process_games)
+    generic_load(soccer_db.asl_games, asl.process_games)
 
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
@@ -318,15 +286,9 @@ def load_mls_reserve():
     generic_load(soccer_db.mls_reserve_goals, reserve.process_goals)
 
 
-def load_open_cup():
-    from soccerdata.text.scores import cup
-    #generic_load(soccer_db.open_cup_games, cup.process_open_cup_games)
-    #generic_load(soccer_db.open_cup_games, cup.process_american_cup_games, delete=False)
-    
-
-
 
 def load_nasl2():
+    # Need to remove this scraper. Completely unnecessary for NASL.
 
     def load_scores():
         from soccerdata.scrapers import nasl

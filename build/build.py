@@ -37,6 +37,7 @@ def normalize():
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
+    # Team names in games.
     for s in SOURCES:
         coll = soccer_db["%s_games" %s]
         l = []
@@ -51,7 +52,83 @@ def normalize():
         coll.drop()
         print len(l)
         insert_rows(coll, l)
-        
+
+
+    for s in SOURCES:
+        coll = soccer_db["%s_goals" %s]
+        l = []
+        for e in coll.find():
+            e['team'] = get_team(e['team'])
+            try:
+                e['goal'] = get_name(e['goal'])
+            except:
+                import pdb; pdb.set_trace()
+            e['assists'] = [get_name(n) for n in e['assists']]
+
+            l.append(e)
+
+        coll.drop()
+        print len(l)
+        insert_rows(coll, l)
+
+
+    for s in SOURCES:
+        coll = soccer_db["%s_stats" %s]
+        l = []
+        for e in coll.find():
+            e['team'] = get_team(e['team'])
+            e['name'] = get_name(e['name'])
+
+            l.append(e)
+
+        coll.drop()
+        print len(l)
+        insert_rows(coll, l)
+
+
+
+    for s in SOURCES:
+        coll = soccer_db["%s_lineups" %s]
+        l = []
+        for e in coll.find():
+            e['team'] = get_team(e['team'])
+            e['name'] = get_name(e['name'])
+
+            l.append(e)
+
+        coll.drop()
+        print len(l)
+        insert_rows(coll, l)
+
+
+
+    for s in SOURCES:
+        coll = soccer_db["%s_standings" %s]
+        l = []
+        for e in coll.find():
+            # NB - weird naming.
+            e['name'] = get_team(e['name'])
+
+            l.append(e)
+
+        coll.drop()
+        print len(l)
+        insert_rows(coll, l)
+
+
+
+    for s in SOURCES:
+        coll = soccer_db["%s_drafts" %s]
+        l = []
+        for e in coll.find():
+            # NB - weird naming.
+            e['team'] = get_team(e['team'])
+            e['text'] = get_name(e['text'])
+
+            l.append(e)
+
+        coll.drop()
+        print len(l)
 
 
 
@@ -83,7 +160,7 @@ def build():
     # Second pass
     second_merge()
 
-
+    from soccerdata import mongo
 
 
     check()
