@@ -18,6 +18,8 @@ SOURCES = [
         ]
 
 
+
+
 # Skipping these.
 l =    [ 
         'fifa',
@@ -28,3 +30,6 @@ l =    [
         'cnnsi',
         'eufootball',
         ]
+
+# What items are shown on the dashboard?
+STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams', 'positions', 'drafts', 'awards'

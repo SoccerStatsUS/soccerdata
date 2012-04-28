@@ -6,13 +6,38 @@ from soccerdata.text import lineups
 from soccerdata import scrapers
 from soccerdata import text
 
+
+def clear_all():
+    from soccerdata.settings import STAT_TABLES, SOURCES
+    for e in STAT_TABLES:
+        soccer_db['%s' % e].drop()
+
+    for s in SOURCES:
+        for e in STAT_TABLES: 
+            soccer_db['%s_%s' % (s, e)].drop()
+    
+
 def first_load():
     """
     Load all data.
     """
 
     # Base data.
+
+    clear_all()
     load_standings()
+
+
+    load_general('small_tournaments/giantscup.txt')
+    load_general('small_tournaments/bicentennial')
+    load_general('small_tournaments/canadian.txt')
+    load_general('small_tournaments/carolina.txt')
+    load_general('small_tournaments/dynamo.txt')
+    load_general('small_tournaments/superliga.txt')
+
+    return 
+
+
 
     load_partial()
     load_leach()
@@ -97,7 +122,25 @@ def second_load():
 def load_standings():
     from soccerdata.text import standings
     print "Loading chris standings.\n"
-    generic_load(soccer_db.chris_standings, standings.process_standings)
+
+    soccer_db.standings.drop()
+    f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
+
+    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'usl/12':
+        f(e)
+
+    
+
+
+
+def load_general(fn):
+    from soccerdata.text import general
+    games, goals, misconduct, lineups = general.process_general_file(fn)
+    generic_load(soccer_db.chris_games, lambda: games, delete=False)
+    generic_load(soccer_db.chris_lineups, lambda: lineups, delete=False)
+    generic_load(soccer_db.chris_goals, lambda: goals, delete=False)
+
+    
 
 
 def load_teams():

@@ -8,6 +8,7 @@ from collections import defaultdict
 # I think I should just generate standings directly from soccer_db.games.
 # And then check those against downloaded standings.
 
+
 make_stat_tuple = lambda name, d: (name, d['team'], d['season'], d['competition'])
 
 
@@ -21,8 +22,13 @@ def generate():
 
 
 def generate_all_stats():
-    mls_reserve_stats = generate_stats(soccer_db.mls_reserve_goals.find(), soccer_db.mls_reserve_lineups.find())
-    generic_load(soccer_db.mls_reserve_stats, lambda: mls_reserve_stats.values())
+    
+    def standard_generate(source):
+        x = generate_stats(soccer_db['%s_goals' % source].find(), soccer_db['%s_lineups' % source].find())
+        generic_load(soccer_db['%s_stats' % source], lambda: x.values())
+
+    standard_generate('mls_reserve')
+    standard_generate('chris')
 
     world_cup_stats = generate_stats(soccer_db.fifa_goals.find(), soccer_db.fifa_lineups.find())
     generic_load(soccer_db.fifa_stats, lambda: world_cup_stats.values())
@@ -37,32 +43,13 @@ def generate_all_stats():
     generic_load(soccer_db.leach_stats, lambda: leach_stats.values())    
 
 
+
 def generate_all_standings():
 
     # Generate MLS Reserve League standings
     standings = generate_standings(soccer_db.mls_reserve_games.find())
     generic_load(soccer_db.mls_reserve_standings, lambda: standings.values())
 
-    # Generate international standings
-    standings = generate_standings(soccer_db.usa_games.find())
-    generic_load(soccer_db.usa_standings, lambda: standings.values())
-
-    # Generate CONCACAF international standings
-    concacaf_standings = generate_standings(soccer_db.concacaf_games.find())
-    generic_load(soccer_db.concacaf_standings, lambda: concacaf_standings.values())
-
-    # Generate Open Cup Standings
-    standings = generate_standings(soccer_db.games.find({'competition': 'U.S. Open Cup'}))
-    generic_load(soccer_db.open_cup_standings, lambda: standings.values())
-
-    # Generate American Cup Standings
-    standings = generate_standings(soccer_db.games.find({'competition': 'American Cup'}))
-    generic_load(soccer_db.open_cup_standings, lambda: standings.values(), delete=False)
-
-    # Generate Lewis Cup Standings
-    standings = generate_standings(soccer_db.games.find({'competition': 'Lewis Cup'}))
-    generic_load(soccer_db.open_cup_standings, lambda: standings.values(), delete=False)
-    
 
 
 def generate_standings(games):

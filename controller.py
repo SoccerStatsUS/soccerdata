@@ -10,7 +10,7 @@ from flask.templating import TemplateNotFound
 import pymongo
 import mongo
 
-from settings import SOURCES
+from settings import SOURCES, STAT_TABLES
 
 soccer_db = mongo.soccer_db
 
@@ -18,8 +18,6 @@ app = Flask(__name__)
 app.config.from_pyfile('settings.cfg')
 
 
-# What items are shown on the dashboard?
-STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams', 'positions', 'drafts', 'awards'
 
 # Issues to work on.
 # - show problem rows

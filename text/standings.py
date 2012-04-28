@@ -13,11 +13,15 @@ if not os.path.exists(DIR):
     DIR = "/Users/chrisedgemon/www/soccerdata/data/"
 
 
+def process_standings_file(filename):
+    
+    return lambda: process_standings(filename)
 
-def process_standings():
+
+def process_standings(filename):
     # Load standings from standings file.
 
-    p = os.path.join(DIR, "standings", "standings.csv")
+    p = os.path.join(DIR, "standings", filename)
     f = open(p)
     lines = f.read().split('\n')
 
@@ -78,10 +82,7 @@ def process_standings():
             'shootout_losses': int_or_none(shootout_losses),
             }
         
-        
-
-
-    l = [process_line(line) for line in lines[1:]]
+    l = [process_line(line) for line in lines]
     return [e for e in l if e]
 
 if __name__ == "__main__":

@@ -7,6 +7,9 @@ from soccerdata.settings import SOURCES
 from collections import defaultdict
 
 
+# Merge should be used for avoiding duplicate elements.
+
+
 def first_merge():
     merge_standings()
     merge_drafts()
@@ -15,13 +18,23 @@ def first_merge():
     merge_bios()
     merge_stats()
     merge_games()
-    merge_goals()
-    merge_lineups()
+
+    standard_merge('goals')
+    standard_merge('lineups')
 
 
 
 def second_merge():
     merge_teams()
+
+
+
+def standard_merge(coll):
+    from settings import SOURCES
+
+    soccer_db[coll].drop()
+    for e in SOURCES:
+        insert_rows(soccer_db[coll], soccer_db['%s_%s' % (e, coll)].find())
 
 
 def merge_teams():
@@ -68,14 +81,6 @@ def merge_positions():
 
 
 
-def merge_goals():
-    soccer_db.goals.drop()
-    insert_rows(soccer_db.goals, soccer_db.mls_reserve_goals.find())
-    insert_rows(soccer_db.goals, soccer_db.mls_goals.find())
-    insert_rows(soccer_db.goals, soccer_db.mls2_goals.find())
-    insert_rows(soccer_db.goals, soccer_db.fifa_goals.find())
-    insert_rows(soccer_db.goals, soccer_db.usa_goals.find())
-    insert_rows(soccer_db.goals, soccer_db.leach_goals.find())
     
 # Where to have this stuff?
 # Needs to be run.
@@ -139,17 +144,6 @@ def merge_games():
     insert_rows(soccer_db.games, game_dict.values())
 
 
-def merge_appearances():
-    pass
-
-def merge_lineups():
-    soccer_db.lineups.drop()
-    insert_rows(soccer_db.lineups, soccer_db.mls_reserve_lineups.find())
-    insert_rows(soccer_db.lineups, soccer_db.mls_lineups.find())
-    insert_rows(soccer_db.lineups, soccer_db.mls2_lineups.find())
-    insert_rows(soccer_db.lineups, soccer_db.fifa_lineups.find())
-    insert_rows(soccer_db.lineups, soccer_db.usa_lineups.find())
-    insert_rows(soccer_db.lineups, soccer_db.leach_lineups.find())
 
 
 
@@ -207,6 +201,7 @@ def merge_stats():
 
     for coll in SOURCES:
         k = '%s_stats' % coll
+        print coll, soccer_db[k].count()
         for e in soccer_db[k].find():
             update_stat(e)
 

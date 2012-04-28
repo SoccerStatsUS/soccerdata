@@ -125,7 +125,7 @@ class GeneralProcessor(object):
                 else:
                     import pdb; pdb.set_trace()
 
-            d = datetime.date(year, int(month), int(day))
+            d = datetime.datetime(year, int(month), int(day))
         except:
             import pdb; pdb.set_trace()
 
@@ -188,17 +188,21 @@ class GeneralProcessor(object):
         elif len(remaining) == 2:
             location, referee = [e.strip() for e in remaining]
 
+
+        if self.competition is None or self.season is None:
+            import pdb; pdb.set_trace()
+
         g = {
             'competition': self.competition,
-            'date': d,
             'season': self.season,
+            'date': d,
+
             'team1': team1.strip(),
             'team2': team2.strip(),
             'team1_score': int(team1_score),
             'team2_score': int(team2_score),
-            'winner' None
+            #'winner': None,
             'home_team': None,
-
             'location': location,
             'referee': referee,
             'attendance': attendance,
@@ -209,16 +213,19 @@ class GeneralProcessor(object):
 
     def process_lineup(self, line):
 
-
         def process_appearance(s, team):
+
+
+
             if '(' not in s:
                 return [{
-                    'player': s.strip(),
+                    'name': s.strip(),
                     'on': 0,
                     'off': 90,
                     'team': team,
                     'competition': self.competition,
-                    'date': self.current_game['date']
+                    'date': self.current_game['date'],
+                    'season': self.season,
                     }]
 
             else:
@@ -231,8 +238,19 @@ class GeneralProcessor(object):
                 return []
 
 
+
+        # Remove trailing marks.
+        line = line.strip()
+        if line[-1] in ('.', ','):
+            line = line[:-1]
+
+
         team, players = line.split(":", 1)
         lineups = []
+
+
+
+
         for e in split_outside_parens(players):
             lineups.extend(process_appearance(e, team))
 
@@ -243,6 +261,9 @@ class GeneralProcessor(object):
     def process_goals(self, team1_goals, team2_goals):
 
         def process_item(s, team):
+            s = s.strip()
+            if not s:
+                return {}
 
             m = re.match('(.*?)(\d+)', s)
             if m:
@@ -264,6 +285,9 @@ class GeneralProcessor(object):
                 goal = remainder.strip()
                 assists = []
 
+            if goal.strip() == '':
+                import pdb; pdb.set_trace()
+
 
             return {
                 'team': team,
@@ -272,6 +296,7 @@ class GeneralProcessor(object):
                 'goal': goal,
                 'minute': minute,
                 'assists': assists,
+                'season': self.season,
                 }
 
 
@@ -283,7 +308,7 @@ class GeneralProcessor(object):
         for e in split_outside_parens(team2_goals):
             goals.append(process_item(e, self.current_game['team2']))
 
-        self.goals.extend(goals)
+        self.goals.extend([e for e in goals if e])
 
             
 
