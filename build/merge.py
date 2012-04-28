@@ -22,7 +22,7 @@ def first_merge():
     merge_games()
 
     merge_goals()
-    standard_merge('lineups')
+    merge_lineups()
 
 
 
@@ -113,6 +113,8 @@ def merge_goals():
         
         # normalize things.
         d['team'] = get_team(d['team'])
+        d['goal'] = get_name(d['goal'])
+        d['assists'] = [get_name(e) for e in d['assists']]
 
         # Technically, the same player could score two goals in the
         # same minute. If this ever comes up, I'll have to reconsider
@@ -142,6 +144,42 @@ def merge_goals():
             
     soccer_db.goals.drop()
     insert_rows(soccer_db.goals, dd.values())
+
+def merge_lineups():
+
+    dd = {}
+
+    def update_lineup(d):
+        d.pop("_id")
+        
+        # normalize things.
+        d['name'] = get_name(d['name'])
+
+        # Technically, the same player could score two goals in the
+        # same minute. If this ever comes up, I'll have to reconsider
+        # this issue.
+
+        key = (d['name'], d['date'], d['team'])
+
+        if key in dd: 
+            orig = dd[key]
+            for k, v in d.items():
+                if not orig.get(k) and v:
+                    orig[k] = v
+
+        # Otherwise, add the game.
+        else:
+            dd[key] = d
+
+        
+    for e in SOURCES:
+        c = '%s_lineups' % e
+        coll = soccer_db[c]
+        for e in coll.find():
+            update_lineup(e)
+            
+    soccer_db.lineups.drop()
+    insert_rows(soccer_db.lineups, dd.values())
 
 
 

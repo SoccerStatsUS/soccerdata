@@ -4,6 +4,35 @@
 
 names = {
     # Staging
+
+    'Raul Lara': 'Raúl Lara',
+    'Juan Manuel Pena': 'Juan Manuel Peña',
+
+
+
+    'Jesus Mendoza': 'Jesús Mendoza',
+    'Diego Martinez': 'Diego Martínez',
+    'Jesus Padilla': 'Jesús Padilla',
+    'Luis Garcia': 'Luis García',
+    'Vitor Baia': 'Vítor Baía',
+
+    'Arturo Alvarez': 'Arturo Álvarez',
+    'Oscar Sanchez': 'Óscar Sánchez',
+    'Benjamin Galindo': 'Benjamín Galindo',
+    'Victor Cordero': 'Víctor Cordero',
+    'Ignacio Ambriz': 'Ignacio Ambríz',
+    
+    'Claudio Lopez': 'Claudio López',
+
+    'Adolfo Rios': 'Adolfo Ríos',
+    'Andreas Moller': 'Andreas Möller',
+
+    'Joao Vieira Pinto': 'João Vieira Pinto',
+
+    
+
+    'Taifour Diane': 'Taifour Diané',
+
     'Esse Baharmast': 'Esfandiar Baharmast',
 
     'Benedict Iroha': 'Ben Iroha',
@@ -211,7 +240,7 @@ names = {
     'Francisco Gomez': 'Francisco Gómez',
     'Martin Nunez': 'Martin Nuñez',
     'Fabian Castillo': 'Fabián Castillo',
-    'Luis Angel Landin': 'Luis Angel Landín',
+
     'Hugo Perez': 'Hugo Pérez',
     'Diego Gutierrez': 'Diego Gutiérrez',
     'Herculez Gomez': 'Herculez Gómez',
@@ -349,6 +378,7 @@ names = {
     'David Xausa': 'Davide Xausa',
     'Dragan Popovic': 'Dragan Popović',
     'Dwayne DeRosario': 'Dwayne De Rosario',
+    'Dwayne de Rosario': 'Dwayne De Rosario',
     'Daniel (Dan) Kennedy': 'Dan Kennedy',
     'Daniel Kennedy': 'Dan Kennedy',
     'Duncan (Melvin) Tarley': 'Melvin Tarley',
@@ -496,8 +526,10 @@ names = {
     'Kim Roentved': 'Kim Røntved',
 
     'Laurence Olum': 'Lawrence Olum',
-    'Luis Landin': 'Luis Angel Landin',
-    'Luis Angel Land\xedn': 'Luis Angel Landin',
+    'Luis Landin': 'Luis Ángel Landín',
+    'Luis Angel Landin': 'Luis Ángel Landín',
+    'Luis Angel Land\xedn': 'Luis Ángel Landín',
+    'Luis Angel Landín': 'Luis Ángel Landín',
     'Leighton O\'brien': 'Leighton O\'Brien',
     u'Leo Gonz\xe1lez': 'Leo Gonzalez',
     'Lee Young Jin': 'Lee Young-jin',

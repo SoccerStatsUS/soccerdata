@@ -28,13 +28,16 @@ def first_load():
     load_standings()
 
 
-    load_general('small_tournaments/giantscup.txt')
-    load_general('small_tournaments/bicentennial')
-    load_general('small_tournaments/canadian.txt')
-    load_general('small_tournaments/carolina.txt')
-    load_general('small_tournaments/dynamo.txt')
-    load_general('small_tournaments/superliga.txt')
-    load_general('cups/us_cup')
+    load_general('chris', 'small_tournaments/giantscup.txt')
+    load_general('chris', 'small_tournaments/bicentennial')
+    load_general('chris', 'small_tournaments/canadian.txt')
+    load_general('chris', 'small_tournaments/carolina.txt')
+    load_general('chris', 'small_tournaments/dynamo.txt')
+    load_general('chris', 'small_tournaments/superliga.txt')
+    load_general('chris', 'cups/us_cup')
+    load_general('chris', 'cups/american_cup')
+
+    load_apsl()
 
     return 
 
@@ -44,6 +47,9 @@ def first_load():
     load_leach()
 
     load_asl()
+
+
+
     return
 
     # MLS data.
@@ -83,7 +89,7 @@ def first_load():
     # Scores, stats.
 
     load_nasl()
-    load_apsl()
+
 
 
 
@@ -134,12 +140,12 @@ def load_standings():
 
 
 
-def load_general(fn):
+def load_general(coll, fn):
     from soccerdata.text import general
     games, goals, misconduct, lineups = general.process_general_file(fn)
-    generic_load(soccer_db.chris_games, lambda: games, delete=False)
-    generic_load(soccer_db.chris_lineups, lambda: lineups, delete=False)
-    generic_load(soccer_db.chris_goals, lambda: goals, delete=False)
+    generic_load(soccer_db['%s_games' % coll], lambda: games, delete=False)
+    generic_load(soccer_db['%s_lineups' % coll], lambda: lineups, delete=False)
+    generic_load(soccer_db['%s_goals' % coll], lambda: goals, delete=False)
 
     
 
@@ -225,10 +231,12 @@ def load_apsl():
     generic_load(soccer_db.apsl_awards, awards.process_wsa_awards)
     generic_load(soccer_db.apsl_awards, awards.process_apsl_awards, delete=False)
     generic_load(soccer_db.apsl_awards, awards.process_usl0_awards, delete=False)
-    
 
+    load_general('apsl', 'playoffs/apsl_playoffs')
+    load_general('apsl', 'playoffs/wsa_playoffs')
+    
     print "loading apsl scores"
-    generic_load(soccer_db.apsl_games, apsl.process_apsl_scores)
+    #generic_load(soccer_db.apsl_games, apsl.process_apsl_scores)
 
 
 

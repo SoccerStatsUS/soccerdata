@@ -58,6 +58,7 @@ def check_games():
                     print "% missing fields from game %s" % game
                 except:
                     import pdb; pdb.set_trace()
+                    x = 5
                 continue
             #assert(type(game['date']) == datetime.date)
             #assert(type(away_score) == int)
