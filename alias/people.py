@@ -6,6 +6,12 @@ names = {
     # Staging
     'Scott Nilsen': 'Werner Nilsen',
 
+    'Pavel Pardo': 'Pável Pardo',
+    'Tomas Boy': 'Tomás Boy',
+    'Lothar Matthaus': 'Lothar Matthäus',
+    'Ramon Ramirez': 'Ramón Ramírez',
+    'Juan Pablo Garcia': 'Juan Pablo García',
+
     'Raul Lara': 'Raúl Lara',
     'Juan Manuel Pena': 'Juan Manuel Peña',
     'Eddie Skiba': 'Ed Skiba',

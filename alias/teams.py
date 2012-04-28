@@ -9,6 +9,33 @@ mls_teams = {
     'Montclair': 'Fontana Falcons',
     'NY/NJ Stallions': 'New Jersey Stallions',
 
+    'Clark A.A': 'Clark A.A.',
+    'IRT Rangers': 'I.R.T. Rangers',
+    'Kearny Scottish Americans': 'Kearny Scottish-Americans',
+    'St. Mary’s Celtic': 'St. Mary\'s Celtic',
+    'Clan Macdonald': 'Clan MacDonald',
+    'Puritan Y.M.L': 'Puritan Y.M.L.',
+    'Hakoah FC': 'Hakoah F.C.',
+
+    'German American SC': 'German American S.C.',
+    'German-American AC': 'German American AC',
+
+    'German-Hungarian SC': 'German Hungarian SC',
+    'German-Hungarians': 'German Hungarians',
+
+    'St. Michaels': 'St. Michael\'s',
+    'St. Michael’s': 'St. Michael\'s',
+
+    'Brookhattan-Galicia': 'Brookhattan Galicia',
+    'IRT Strollers': 'I.R.T. Strollers',
+    'Pawtucket FC': 'Pawtucket F.C.',
+    'SC Eintracht':'S.C. Eintracht',
+    'Edmonton FC': 'Edmonton F.C.',
+    'Harrison SC': 'Harrison S.C.',
+    'San Francisco AC': 'San Francisco A.C.',
+    
+  
+
     'Central Valley Hydra': 'CCV Hydra',
     'Dallas/Ft. Worth Toros': 'Dallas-Fort Worth Toros',
     
