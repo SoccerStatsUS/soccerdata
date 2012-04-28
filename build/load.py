@@ -27,66 +27,54 @@ def first_load():
     clear_all()
 
     load_standings()
-
-
-
-
     load_positions()
+    load_drafts()
 
+    load_general()
 
-
-
-
-    load_general('chris', 'small_tournaments/giantscup.txt')
-    load_general('chris', 'small_tournaments/bicentennial')
-    load_general('chris', 'small_tournaments/canadian.txt')
-    load_general('chris', 'small_tournaments/carolina.txt')
-    load_general('chris', 'small_tournaments/dynamo.txt')
-    load_general('chris', 'small_tournaments/superliga.txt')
-    load_general('chris', 'cups/us_cup')
-    load_general('american_cup', 'cups/american_cup')
-    load_general('lewis_cup', 'cups/lewis')
-
-    load_general('mls_reserve', 'leagues/mls_reserve')
 
     # What are USL games coming from?
-    load_leach()
+    load_cups()
 
-    load_open_cup()
+    load_asl()
+    load_nasl()
 
+
+
+    load_mls_data()
+    load_mls_lineups()
+    load_mls_reserve()
 
     load_usl()
-    load_mls_lineups()
-    load_nasl()
+    load_leach()
+    load_apsl()
+    load_partial()
 
     load_ncaa()
 
-    load_asl()
-    load_partial()
-
-    load_apsl()
-
-    load_drafts()
-
-    load_mls_data()
-
     return
 
-
-    return
-    load_mls_reserve()
-    load_mls2()
-    load_usa()
+    # Fix this first.
     load_nasl2()
-    load_analysis()
+
+    # reconsider this. Or at least clean up.
     load_teams()
+
+    # soccernet / recent stats.
+    load_mls2()
+
+    # USMNT
+    load_usa()
+
+    # All World Cups.
+    load_world_cup()
+
+    # Ideally, Gold Cup, CONCACAF Champions League, Concacaf Cup
+    # World Cup Qualifiers
     load_concacaf()
 
-    #load_world_cup()
-    # Scraped data
-    #load_kicker()
-    #load_mediotiempo()
 
+    load_analysis()
 
 def second_load():
     # This is for data that should not be loaded
@@ -101,7 +89,25 @@ def second_load():
 
 
 
-def load_open_cup():
+def load_general():
+    load_general('chris', 'small_tournaments/giantscup.txt')
+    load_general('chris', 'small_tournaments/bicentennial')
+    load_general('chris', 'small_tournaments/canadian.txt')
+    load_general('chris', 'small_tournaments/carolina.txt')
+    load_general('chris', 'small_tournaments/dynamo.txt')
+    load_general('chris', 'small_tournaments/superliga.txt')
+    load_general('chris', 'cups/us_cup')
+
+
+def load_mls_reserve()
+    load_general('mls_reserve', 'leagues/mls_reserve')
+
+
+
+
+def load_cups()
+    load_general('american_cup', 'cups/american_cup')
+    load_general('lewis_cup', 'cups/lewis')
     load_general('open_cup', 'cups/us_open/1910')
     load_general('open_cup', 'cups/us_open/1920')
     load_general('open_cup', 'cups/us_open/1930')
