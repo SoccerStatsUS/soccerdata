@@ -435,6 +435,8 @@ def get_scores(fn):
     team_name = file_mapping[fn.replace(".csv", '')]
     scores = [process_line(line) for line in open(p).readlines()]
     scores = [e for e in scores if e]
+
+    scores = [e for e in scores if e['competition'] == 'Major League Soccer']
     return scores
 
 
@@ -500,6 +502,7 @@ def get_goals(filename):
                 'season': unicode(date.year),
                 'goal': player.strip(),
                 'minute': minute,
+                'assists': []
                 }
 
 
@@ -512,6 +515,8 @@ def get_goals(filename):
     l = []
     for line in open(p).readlines():
         l.extend(process_line(line))
+
+    l= [e for e in l if e['competition'] == 'Major League Soccer']
     return l
 
 
@@ -617,6 +622,7 @@ def get_lineups(filename):
     for line in open(p).readlines():
         l.extend(process_line(line))
 
+    l = [e for e in l if e['competition'] == 'Major League Soccer']
     return l
 
 

@@ -193,14 +193,20 @@ class GameProcessor(object):
             away_team = team
             away_score = team_score
 
+        if not attendance.strip():
+            attendance = None
+        else:
+            attendance = int(attendance)
+
         return {
             'competition': competition,
             'season': season,
             'date': d,
+            'team1': 'home_team',
+            'team2': 'away_team',
+            'team1_score': home_score,
+            'team2_score': away_score,
             'home_team': home_team,
-            'away_team': away_team,
-            'home_score': home_score,
-            'away_score': away_score,
             'attendance': attendance,
             }
             
