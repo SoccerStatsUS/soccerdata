@@ -44,6 +44,8 @@ def first_load():
     load_general('chris', 'cups/us_cup')
     load_general('american_cup', 'cups/american_cup')
     load_general('lewis_cup', 'cups/lewis')
+    load_general('mls_reserve', 'leagues/mls_reserve')
+
 
 
     load_open_cup()
