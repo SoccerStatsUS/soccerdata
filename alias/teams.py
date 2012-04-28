@@ -24,7 +24,10 @@ mls_teams = {
     'American AA': 'American A.A.',
     'varzim': 'Varzim',
     'New york Field Club': 'New York Field Club',
+
     'Heidelberg SC': 'Heidelberg S.C.',
+    'Heidelberg Losegos': 'Heidelberg S.C.',
+
     'German Hungarian SC (NYC)': 'German Hungarian S.C. (NYC)',
     'Eintracht SC': 'Eintracht S.C.',
     'Buda AA': 'Buda A.A.',
@@ -86,7 +89,7 @@ mls_teams = {
     'Scullin St.': 'St. Louis Scullin Steel',
     'Yonkers Th.': 'Yonkers Thistle',
     'Holley C.': 'Holley Carburetor F.C.',
-    'Bricklayers': 'Bricklayers and Masons F.C.',
+
     'Whittall': 'Whittall Carpet Mills F.C.',
     'Centennial': 'Centennial F.C.',
     'Cleveland B.': 'Cleveland Bruell Insurance',
@@ -103,11 +106,16 @@ mls_teams = {
     
     'Bethlehewm Steel': 'Bethlehem Steel',
 
-    'Bricklayers & Masons': 'Bricklayers FC',
-    'Bricklayers & Masons FC': 'Bricklayers FC',
-    'Bricklayers': 'Bricklayers FC',
-    'Bricklayers (Chicago)': 'Bricklayers FC',
-    'Bricklayers SC': 'Bricklayers FC',
+    'Chicago Bricklayers & Masons': 'Chicago Bricklayers',
+    'Bricklayers': 'Chicago Bricklayers',
+    'Chicago Bricklayers FC': 'Chicago Bricklayers',
+    'Chicago Bricklayers SC': 'Chicago Bricklayers',
+    'Bricklayers & Masons': 'Chicago Bricklayers',
+    'Bricklayers & Masons FC': 'Chicago Bricklayers',
+    'Bricklayers': 'Chicago Bricklayers',
+    'Bricklayers (Chicago)': 'Chicago Bricklayers',
+    'Bricklayers SC': 'Chicago Bricklayers',
+    'Bricklayers FC': 'Chicago Bricklayers',
     
     'MacKenzie SC (Niagra Falls)': 'MacKenzie FC (Niagara Falls)',
 
@@ -129,6 +137,14 @@ mls_teams = {
     'Sparta (Chicago)': 'Chicago Sparta',
     'Sparta': 'Chicago Sparta',
     'Sparta FC': 'Chicago Sparta',
+    'Sparta ABA': 'Chicago Sparta',
+    'Sparta Leader': 'Chicago Sparta',
+    'Sparta Garden City': 'Chicago Sparta',
+    'Sparta Union': 'Chicago Sparta',
+    'Chicago Sparta Falstaff': 'Chicago Sparta',
+    'Sparta Ogden Dairy': 'Chicago Sparta',
+    
+
 
     'Mid-Michigan Bucks': 'Michigan Bucks',
 
@@ -141,7 +157,11 @@ mls_teams = {
     'Stix, Baer and Fuller': 'Stix, Baer and Fuller F.C.',
     'St. Louis Central Breweries F.C.': 'Central Breweries',
     'St. Louis Simpkins-Ford': 'Simpkins Ford',
-    'Coca Cola': 'Coca Colas',
+
+    # Pretty sure this is correct.
+    'Coca Cola (St. L)': 'Kavanaugh',
+    'Coca Cola': 'Kavanaugh',
+
     'Tablers': 'Tablers FC',
 
     'Innisfall FC': 'Innisfails FC',
@@ -158,10 +178,10 @@ mls_teams = {
     'Pawtucket Rngers': 'Pawtucket Rangers',
 
     'Raftery’s': 'Raftery Painters',
-    'Chicago Viking': 'Viking A.A.',
-    'Viking AA': 'Viking A.A.',
 
-
+    'Chicago Viking': 'Chicago Viking A.A.',
+    'Viking AA': 'Chicago Viking A.A.',
+    'Viking A.A.': 'Chicago Viking A.A.',
 
     'Richhmond Kickers': 'Richmond Kickers',
 
@@ -209,13 +229,17 @@ mls_teams = {
     'Morgan Haulers': 'Morgan Strasser',
     'Morgan Sport Club': 'Morgan Strasser',
     'Morgan': 'Morgan Strasser',
-    'Morgan USCO': 'Morgan Strasser',
     
-    'Gallatin Sport Club': 'Gallatin F.C.',
-    'Gallatin': 'Gallatin F.C.',
-    'Gallatin-Dunlevy': 'Gallatin F.C.',
-    'Gallatin FC': 'Gallatin F.C.',
-    'Gallatin Sport Clun': 'Gallatin F.C.',
+    'Gallatin F.C.': 'Pittsburgh Gallatin SC',
+    'Gallatin Sport Club': 'Pittsburgh Gallatin SC',
+    'Gallatin': 'Pittsburgh Gallatin SC',
+    'Gallatin-Dunlevy': 'Pittsburgh Gallatin SC',
+    'Gallatin FC': 'Pittsburgh Gallatin SC',
+    'Gallatin SC': 'Pittsburgh Gallatin SC',
+    'Gallatin Sport Clun': 'Pittsburgh Gallatin SC',
+    
+    'Falk Field Club (Mil.)': 'Falk Field Club',
+    
     
     'Yugoslav Americnan SC': 'Yugoslav American SC',
     
@@ -253,7 +277,7 @@ mls_teams = {
 
     
 
-    'Spatra Fallstaff': 'Sparta Fallstaff',
+
 
 
 
@@ -268,6 +292,11 @@ mls_teams = {
     
 
     'Central Jersey Rpitide': 'Central Jersey Riptide',
+
+    'Slavia Bartunek': 'Bartunek Slavia',
+    'Rosenblum Slavia': 'Bartunek Slavia',
+    'Cleveland Slavia': 'Bartunek Slavia',
+    
 
     'LA Blues': 'Los Angeles Blues',
     'Antigua Barricudas FC': 'Antigua Barracuda',

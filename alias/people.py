@@ -4,6 +4,7 @@
 
 names = {
     # Staging
+    'Scott Nilsen': 'Werner Nilsen',
 
     'Raul Lara': 'Raúl Lara',
     'Juan Manuel Pena': 'Juan Manuel Peña',
