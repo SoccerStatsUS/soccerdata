@@ -713,8 +713,6 @@ Bethlehem Steel	1924-1925	ASL		26	NY Giants	a	1,1
 Bethlehem Steel	1924-1925	ASL	5	2	Boston	h	0,0		
 Bethlehem Steel	1924-1925	ASL		10	Providence	a	0,1		
 Bethlehem Steel	1924-1925	ASL		16	Philadelphia	h	6,0		
-Bethlehem Steel	1925	Lewis Cup	1	24	Indiana	h	3,1		
-Bethlehem Steel	1925	Lewis Cup	2	14	New Bedford	a	0,1		
 Boston Wonder Workers	1924-1925	ASL	9	13	Providence	h	2,1		
 Boston Wonder Workers	1924-1925	ASL		20	Bethlehem	h	2,2		
 Boston Wonder Workers	1924-1925	ASL		27	J&P Coats	a	1,1		
@@ -756,9 +754,6 @@ Boston Wonder Workers	1924-1925	ASL		9	Fleischer	h	2,1
 Boston Wonder Workers	1924-1925	ASL		10	NY Giants	a	2,4		
 Boston Wonder Workers	1924-1925	ASL		16	New Bedford	h	1,0		
 Boston Wonder Workers	1924-1925	ASL		23	NY Giants	h	0,3		
-Boston Wonder Workers	1925	Lewis Cup	2	15	NY Giants	a	2,0		
-Boston Wonder Workers	1925	Lewis Cup	3	15	Fleischer		1,0		
-Boston Wonder Workers	1925	Lewis Cup		29	Fall River Marksmen	a	2,1		
 Boston Wonder Workers	1925	US Professional Cup	4	5	Ben Millers	a	0,1		
 Boston Wonder Workers	1925	US Professional Cup		11	Ben Millers	h	3,1		
 Boston Wonder Workers	1925	US Professional Cup		26	Ben Millers	a	3,2		
@@ -806,7 +801,6 @@ Brooklyn Wanderers	1924-1925	ASL		19	Indiana	a	0,1
 Brooklyn Wanderers	1924-1925	ASL		26	Newark	h	3,0		
 Brooklyn Wanderers	1924-1925	ASL	5	3	Boston	h	0,1		
 Brooklyn Wanderers	1924-1925	ASL		24	Fleischer	h	3,0		
-Brooklyn Wanderers	1924-1925	ASL	1	25	New Bedford	h	1,2		
 Fall River Marksmen	1924-1925	ASL	9	13	J&P Coats	a	2,2		
 Fall River Marksmen	1924-1925	ASL		14	J&P Coats	h	4,0		
 Fall River Marksmen	1924-1925	ASL		21	Brooklyn	h	4,0		
@@ -851,10 +845,6 @@ Fall River Marksmen	1924-1925	ASL	5	2	Fleischer	a	0,0
 Fall River Marksmen	1924-1925	ASL		3	Indiana	a	2,1		
 Fall River Marksmen	1924-1925	ASL		10	Fleischer	h	9,0		
 Fall River Marksmen	1924-1925	ASL		17	Newark	a	1,1		
-Fall River Marksmen	1925	Lewis Cup	1	25	Providence	h	3,2		
-Fall River Marksmen	1925	Lewis Cup	2	15	J&P Coats	h	3,0		
-Fall River Marksmen	1925	Lewis Cup	3	15	New Bedford	h	3,0		
-Fall River Marksmen	1925	Lewis Cup	3	29	Boston	h	1,2		
 Fleischer Yarn	1924-1925	ASL	9	13	Brooklyn	h	3,0		
 Fleischer Yarn	1924-1925	ASL		14	Indiana	a	2,5		
 Fleischer Yarn	1924-1925	ASL		20	Philadelphia		2,1		
@@ -893,8 +883,6 @@ Fleischer Yarn	1924-1925	ASL	5	2	Fall River Marksmen	h	0,0
 Fleischer Yarn	1924-1925	ASL		9	Boston	a	1,2		
 Fleischer Yarn	1924-1925	ASL		10	Fall River Marksmen	a	0,9		
 Fleischer Yarn	1924-1925	ASL		24	Brooklyn	a	0,3		
-Fleischer Yarn	1925	Lewis Cup			Philadelphia		2,0		
-Fleischer Yarn	1925	Lewis Cup			Boston		0,1		
 Indiana Flooring	1924-1925	ASL	9	14	Fleischer	h	5,2		
 Indiana Flooring	1924-1925	ASL		21	NY Giants		4,3		
 Indiana Flooring	1924-1925	ASL		28	Newark	h	3,0		
@@ -938,7 +926,7 @@ Indiana Flooring	1924-1925	ASL		17	Providence	h	0,2
 Indiana Flooring	1924-1925	ASL		24	J&P Coats	h			
 Indiana Flooring	1924-1925	ASL		30	Newark	a			
 Indiana Flooring	1924-1925	ASL		31	Providence	h			
-Indiana Flooring	1925	Lewis Cup	1	24	Bethlehem	a	1,3		
+
 J&P Coats	1924-1925	ASL	9	13	Fall River Marksmen	h	2,2		
 J&P Coats	1924-1925	ASL		14	Fall River Marksmen	a	0,4		
 J&P Coats	1924-1925	ASL		20	Brooklyn	h	2,2		
@@ -981,8 +969,6 @@ J&P Coats	1924-1925	ASL		18	Newark	h	4,1
 J&P Coats	1924-1925	ASL		25	Philadelphia	h	6,1		
 J&P Coats	1924-1925	ASL	5	17	NY Giants	a	2,3		
 J&P Coats	1924-1925	ASL		24	Indiana	a	0,1		
-J&P Coats	1925	Lewis Cup	2	7	Newark	h	5,0		
-J&P Coats	1925	Lewis Cup		15	Fall River Marksmen	a	0,3		
 Newark Skeeters	1924-1925	ASL	9	28	Indiana	a	0,3		
 Newark Skeeters	1924-1925	ASL	10	4	J&P Coats	a	2,8		
 Newark Skeeters	1924-1925	ASL		5	Fall River Marksmen	a	0,5		
@@ -1022,7 +1008,8 @@ Newark Skeeters	1924-1925	ASL		10	Philadelphia	a	0,0
 Newark Skeeters	1924-1925	ASL		17	Fall River Marksmen	h	1,1		
 Newark Skeeters	1924-1925	ASL		30	Indiana	h	1,0		
 Newark Skeeters	1924-1925	ASL		31	NY Giants	a	2,1		
-Newark Skeeters	1925	Lewis Cup	2	7	J&P Coats	a	0,5		
+
+
 New Bedford Whalers	1924-1925	ASL	9	14	Providence	a	0,2		
 New Bedford Whalers	1924-1925	ASL		27	Providence	h	2,1		
 New Bedford Whalers	1924-1925	ASL	10	4	Indiana	h	2,2		
@@ -1064,9 +1051,6 @@ New Bedford Whalers	1924-1925	ASL		10	Indiana	a	3,1
 New Bedford Whalers	1924-1925	ASL		16	Boston	a	0,1		
 New Bedford Whalers	1924-1925	ASL		23	Philadelphia	h	7,0		
 New Bedford Whalers	1924-1925	ASL		31	NY Giants	h	2,2		
-New Bedford Whalers	1925	Lewis Cup	1	25	Brooklyn	a	2,1		
-New Bedford Whalers	1925	Lewis Cup	2	14	Bethlehem	h	1,0		
-New Bedford Whalers	1925	Lewis Cup	3	15	Fall River Marksmen	a	0,3		
 New York National Giants	1924-1925	ASL	9	14	Brooklyn	a	1,2		
 New York National Giants	1924-1925	ASL		21	Indiana		3,4		
 New York National Giants	1924-1925	ASL	10	5	Philadelphia	h	6,2		
@@ -1110,7 +1094,7 @@ New York National Giants	1924-1925	ASL		17	J&P Coats	h	3,2
 New York National Giants	1924-1925	ASL		23	Boston	a	3,0		
 New York National Giants	1924-1925	ASL		30	Newark	h	1,2		
 New York National Giants	1924-1925	ASL		31	New Bedford	a	2,2		
-New York National Giants	1925	Lewis Cup	2	15	Boston	h	0,2		
+
 Philadelphia Field Club	1924-1925	ASL	9	13	Bethlehem	a	1,7		
 Philadelphia Field Club	1924-1925	ASL		20	Fleischer		1,2		
 Philadelphia Field Club	1924-1925	ASL		28	Brooklyn	a	1,1		
@@ -1152,7 +1136,7 @@ Philadelphia Field Club	1924-1925	ASL	5	9	NY Giants	h	1,4
 Philadelphia Field Club	1924-1925	ASL		10	Newark	a	0,4		
 Philadelphia Field Club	1924-1925	ASL		16	Bethlehem	a	0,6		
 Philadelphia Field Club	1924-1925	ASL		23	New Bedford	a	0,7		
-Philadelphia Field Club	1925	Lewis Cup	2	14	Fleischer		0,2		
+
 Providence Clamdiggers	1924-1925	ASL	9	13	Boston	a	1,2		
 Providence Clamdiggers	1924-1925	ASL		14	New Bedford	h	2,0		
 Providence Clamdiggers	1924-1925	ASL		21	Bethlehem	h	4,1		
@@ -1195,7 +1179,6 @@ Providence Clamdiggers	1924-1925	ASL	5	3	Newark	h	0,0
 Providence Clamdiggers	1924-1925	ASL		10	Bethlehem	h	1,0		
 Providence Clamdiggers	1924-1925	ASL		17	Indiana	a	2,0		
 Providence Clamdiggers	1924-1925	ASL		31	Indiana	a	1,4		
-Providence Clamdiggers	1925	Lewis Cup	1	25	Fall River Marksmen	a	2,3		
 Bethlehem Steel	1925-1926	ASL	9	12	Indiana	h	0,0		
 Bethlehem Steel	1925-1926	ASL		13	Newark	a	6,0		
 Bethlehem Steel	1925-1926	ASL		19	Boston	h	5,2		
@@ -1239,9 +1222,6 @@ Bethlehem Steel	1926	US Open Cup	2	13	Philadelphia	h	2,1
 Bethlehem Steel	1926	US Open Cup	3	14	NY Giants		2,1		
 Bethlehem Steel	1926	US Open Cup		21	J&P Coats		3,1		
 Bethlehem Steel	1926	US Open Cup	4	11	Ben Millers		7,2		
-Bethlehem Steel	1926	Lewis Cup	4	25	Newark	a	4,0		
-Bethlehem Steel	1926	Lewis Cup	5	15	NY Giants	h	2,0		
-Bethlehem Steel	1926	Lewis Cup		16	NY Giants	a	3,9		
 Boston Wonder Workers	1925-1926	ASL	9	12	Brooklyn	h	1,2		
 Boston Wonder Workers	1925-1926	ASL		19	Bethlehem	a	2,5		
 Boston Wonder Workers	1925-1926	ASL		20	Newark	a	4,1		
@@ -1288,9 +1268,6 @@ Boston Wonder Workers	1926	US Open Cup	1	16	Fore River	h	2,1
 Boston Wonder Workers	1926	US Open Cup	2	14	Fall River Marksmen	h	1,1		
 Boston Wonder Workers	1926	US Open Cup		21	Fall River Marksmen	a	3,2		
 Boston Wonder Workers	1926	US Open Cup		28	J&P Coats		3,5		
-Boston Wonder Workers	1926	Lewis Cup	4	18	Fall River Marksmen	a	2,2		
-Boston Wonder Workers	1926	Lewis Cup		24	Fall River Marksmen	h	3,0		
-Boston Wonder Workers	1926	Lewis Cup	5	9	Providence	a	1,3		
 Brooklyn Wanderers	1925-1926	ASL	9	12	Boston	a	2,1		
 Brooklyn Wanderers	1925-1926	ASL		13	Fall River Marksmen	a	1,4		
 Brooklyn Wanderers	1925-1926	ASL		20	Shawsheen	h	1,3		
@@ -1333,7 +1310,7 @@ Brooklyn Wanderers	1926	US Open Cup	1	17	Indiana	h	2,2
 Brooklyn Wanderers	1926	US Open Cup		24	Indiana	a	3,2		
 Brooklyn Wanderers	1926	US Open Cup	2	21	NY Giants	h	2,2		
 Brooklyn Wanderers	1926	US Open Cup		28	NY Giants	h	1,5		
-Brooklyn Wanderers	1926	Lewis Cup	4	18	Indiana	h	2,4		
+
 Fall River Marksmen	1925-1926	ASL	9	12	J&P Coats	a	5,2		
 Fall River Marksmen	1925-1926	ASL		13	Brooklyn	h	4,1		
 Fall River Marksmen	1925-1926	ASL		19	Shawsheen	a	3,4		
@@ -1381,8 +1358,6 @@ Fall River Marksmen	1925-1926	ASL		31	NY Giants	a	1,1
 Fall River Marksmen	1926	US Open Cup	1	17	Providence	h	3,2		
 Fall River Marksmen	1926	US Open Cup	2	14	Boston	h	1,1		
 Fall River Marksmen	1926	US Open Cup	2	21	Boston	a	2,3		
-Fall River Marksmen	1926	Lewis Cup	4	18	Boston	h	2,2		
-Fall River Marksmen	1926	Lewis Cup	4	24	Boston	a	0,3		
 Indiana Flooring	1925-1926	ASL	9	12	Bethlehem	a	0,0		
 Indiana Flooring	1925-1926	ASL		13	NY Giants	h	1,1		
 Indiana Flooring	1925-1926	ASL		20	Philadelphia	h	5,0		
@@ -1424,8 +1399,6 @@ Indiana Flooring	1925-1926	ASL		30	Boston	h	2,2
 Indiana Flooring	1925-1926	ASL		31	Bethlehem	h	2,5		
 Indiana Flooring	1926	US Open Cup	1	17	Brooklyn	a	2,2		
 Indiana Flooring	1926	US Open Cup		24	Brooklyn	h	2,3		
-Indiana Flooring	1926	Lewis Cup	4	18	Brooklyn	a	4,2		
-Indiana Flooring	1926	Lewis Cup		24	NY Giants		1,3		
 J&P Coats	1925-1926	ASL	9	12	Fall River Marksmen	h	2,5		
 J&P Coats	1925-1926	ASL		19	Providence	h	1,0		
 J&P Coats	1925-1926	ASL		26	Philadelphia	h	5,1		
@@ -1467,7 +1440,7 @@ J&P Coats	1926	US Open Cup	1	16	Abbot W.	h	4,1
 J&P Coats	1926	US Open Cup	2	20	New Bedford	a	1,0		
 J&P Coats	1926	US Open Cup	2	28	Boston		5,3		
 J&P Coats	1926	US Open Cup	3	21	Bethlehem		1,3		
-J&P Coats	1926	Lewis Cup	4	24	New Bedford	a	1,4		
+
 Newark Skeeters	1925-1926	ASL	9	13	Bethlehem	h	0,6		
 Newark Skeeters	1925-1926	ASL		20	Boston	h	1,4		
 Newark Skeeters	1925-1926	ASL		27	Brooklyn	a	1,1		
@@ -1504,7 +1477,7 @@ Newark Skeeters	1925-1926	ASL		9	Brooklyn	a	0,3
 Newark Skeeters	1925-1926	ASL		15	Indiana	a	1,1		
 Newark Skeeters	1925-1926	ASL		16	Fall River Marksmen	a	0,4		
 Newark Skeeters	1926	US Open Cup	1	17	Bethlehem	h	1,5		
-Newark Skeeters	1926	Lewis Cup	4	25	Bethlehem	h	0,4		
+
 New Bedford Whalers	1925-1926	ASL	9	12	Philadelphia	h	4,0		
 New Bedford Whalers	1925-1926	ASL		20	Fall River Marksmen	a	1,2		
 New Bedford Whalers	1925-1926	ASL		26	Indiana	h	5,1		
@@ -1550,11 +1523,6 @@ New Bedford Whalers	1925-1926	ASL		8	Bethlehem	h	4,1
 New Bedford Whalers	1925-1926	ASL		31	Boston	h	4,0		
 New Bedford Whalers	1926	US Open Cup	1	16	Shawsheen	h	5,0		
 New Bedford Whalers	1926	US Open Cup	2	20	J&P Coats	h	0,1		
-New Bedford Whalers	1926	Lewis Cup	4	24	J&P Coats	h	4,1		
-New Bedford Whalers	1926	Lewis Cup	5	15	Providence	h	6,0		
-New Bedford Whalers	1926	Lewis Cup		16	Providence	a	2,4		
-New Bedford Whalers	1926	Lewis Cup		22	NY Giants	h	5,1		
-New Bedford Whalers	1926	Lewis Cup		23	NY Giants	a	0,3		
 New York Giants	1925-1926	ASL	9	13	Indiana	a	1,1		
 New York Giants	1925-1926	ASL		26	Bethlehem	a	3,2		
 New York Giants	1925-1926	ASL	10	4	Indiana		0,3		
@@ -1594,11 +1562,6 @@ New York Giants	1926	US Open Cup	1	17	Yonkers Th.	h	9,1
 New York Giants	1926	US Open Cup	2	21	Brooklyn	a	2,2		
 New York Giants	1926	US Open Cup		28	Brooklyn	a	5,1		
 New York Giants	1926	US Open Cup	3	14	Bethlehem		1,2		
-New York Giants	1926	Lewis Cup	4	24	Indiana		3,1		
-New York Giants	1926	Lewis Cup	5	15	Bethlehem	a	0,2		
-New York Giants	1926	Lewis Cup		16	Bethlehem	h	9,3		
-New York Giants	1926	Lewis Cup		22	New Bedford	a	1,5		
-New York Giants	1926	Lewis Cup		23	New Bedford	h	3,0		
 Philadelphia Field Club	1925-1926	ASL	9	12	New Bedford	a	0,4		
 Philadelphia Field Club	1925-1926	ASL		13	Providence	a	0,3		
 Philadelphia Field Club	1925-1926	ASL		20	Indiana	a	0,5		
@@ -1678,9 +1641,6 @@ Providence Clamdiggers	1925-1926	ASL		11	NY Giants	h	3,2
 Providence Clamdiggers	1925-1926	ASL		18	J&P Coats	h	5,0		
 Providence Clamdiggers	1925-1926	ASL		25	Fall River Marksmen	a	0,0		
 Providence Clamdiggers	1926	US Open Cup	1	17	Fall River Marksmen	a	2,3		
-Providence Clamdiggers	1926	Lewis Cup	5	9	Boston	h	3,1		
-Providence Clamdiggers	1926	Lewis Cup		15	New Bedford	a	0,6		
-Providence Clamdiggers	1926	Lewis Cup		16	New Bedford	h	4,2		
 Shawsheen Indians	1925-1926	ASL	9	12	Providence	h	1,2		
 Shawsheen Indians	1925-1926	ASL		19	Fall River Marksmen	h	4,3		
 Shawsheen Indians	1925-1926	ASL		20	Brooklyn	a	3,1		
