@@ -33,7 +33,25 @@ def reset_database():
 
 
 def normalize():
-    pass
+    from soccerdata.alias import get_team, get_name
+    from settings import SOURCES
+    from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
+
+    for s in SOURCES:
+        coll = soccer_db["%s_games" %s]
+        l = []
+        for e in coll.find():
+            e['team1'] = get_team(e['team1'])
+            e['team2'] = get_team(e['team2'])
+            if e['home_team']:
+                e['home_team'] = get_team(e['home_team'])
+
+            l.append(e)
+
+        coll.drop()
+        print len(l)
+        insert_rows(coll, l)
+        
 
 
 
@@ -51,6 +69,7 @@ def build():
 
     # This is where player, team, competition, and place names are normalized.
     # Best to do this as early as possible.
+    print "NORMALIZING"
     normalize()
 
     # This is where things like standings and stats (not much else) can be generated.
