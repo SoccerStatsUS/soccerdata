@@ -3,8 +3,43 @@
 
 
 names = {
+
+    'Loyd Barker': 'Lloyd Barker',
+    'Greg (Chevy) Chevalier': 'Greg Chevalier',
+    'Andy Parrish': 'Andrew Parrish',
+    'Jim Manganello': 'James Manganello',
+    'Charles Brown': 'C.J. Brown',
+    'Jose Vasquez': 'Joseph Vasquez-Martinez',
+    'Brian Taylor': 'Bryan Taylor',
+    'Jacob Joy': 'Jake Joy',
+    'Kyle Marten Altman': 'Kyle Altman',
+    'Michael Feniger': 'Mike Feniger',
+    'Julian Dorsey': 'JT Dorsey',
+    'Tom Wurdack': 'Thomas Wurdack',
+    
+    
+
+
+    'pk': 'penalty kick',
+    'PK': 'penalty kick', 
+
+    'Own goal': 'Own Goal',
+
+
     # Staging
     'Scott Nilsen': 'Werner Nilsen',
+
+
+    # Make sure these work.
+    'Maclean': 'MacLean',
+    'O’Boyle': 'O\'Boyle',
+    'O’Hara': 'O\'Hara',
+    'Brian O’Haver': 'Brian O\'Haver',
+    'John O’Connell': 'John O\'Connell',
+    'Jack O’Reilly': 'Jack O\'Reilly',
+    'Victor Estupiñan': 'Víctor Estupiñán',
+    'Victor Estupiñán': 'Víctor Estupiñán',
+
 
     'Pavel Pardo': 'Pável Pardo',
     'Tomas Boy': 'Tomás Boy',

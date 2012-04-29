@@ -6,6 +6,30 @@ teams = {}
 # Going to organize this alphabetically?
 mls_teams = {
 
+    'New York National Giants': 'New York Giants',
+    'New York Nationals': 'New York Giants',
+
+    'Todd Shipyards F.C.': 'Todd Shipyards',
+    'Bridgeport': 'Bridgeport Bears',
+    'Brooklyn Hakoah': 'Hakoah All-Stars',
+
+    # Accurate?
+    'Philadelphia 1928-1929': 'Philadelphia Field Club',
+
+    # Need to make sure America is not a regional US team.
+    'America': 'América',
+
+    # Colliding with Jersey City slug.
+    'Jersey City ?': 'Jersey City (?x)',
+
+    'Club Espana': 'Club España',
+    'St. Mary’s Celtic':'St. Mary\'s Celtic',
+    'St. Michael’s': 'St. Michael\'s',
+
+    'Federal Ship': 'Federal Shipyards',
+    'Federal Ship FC': 'Federal Shipyards',
+    'Federal Shipbuilding': 'Federal Shipyards',
+
     'Philadelphia German-Americans': 'Philadelphia German Americans',
     'Everett BigFoot': 'Seattle BigFoot',
     'Everett Bigfoot': 'Seattle BigFoot',
@@ -13,8 +37,12 @@ mls_teams = {
     'Newark SC': 'Newark S.C.',
     'Becks German American SC (Buf.)': 'Becks German American S.C. (Buf.)',
     
-    
+    'New York Hungaria': 'NY Hungaria',
 
+    'Gjoa SC': 'SC Gjoa',
+    'Gjoa FC': 'SC Gjoa',
+
+    'Hellrung & Grimm': 'Hellrung FC',
 
 
     'Montclair': 'Fontana Falcons',
@@ -316,7 +344,7 @@ mls_teams = {
 
 
     
-
+    'Passon FC': 'Philadelphia Passon',
 
 
 
@@ -336,6 +364,7 @@ mls_teams = {
     'Slavia Bartunek': 'Bartunek Slavia',
     'Rosenblum Slavia': 'Bartunek Slavia',
     'Cleveland Slavia': 'Bartunek Slavia',
+    'Bartunek Clothes (Cle.)': 'Bartunek Slavia',
     
 
     'LA Blues': 'Los Angeles Blues',
