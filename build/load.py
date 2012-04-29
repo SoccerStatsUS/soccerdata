@@ -35,20 +35,21 @@ def first_load():
 
     load_generals()
 
-
     # What are USL games coming from?
     load_cups()
 
     load_asl()
-    load_nasl()
     load_mls_data()
     load_mls_lineups()
     load_mls_reserve()
+    load_nasl()
 
     load_usl()
     load_leach()
     load_apsl()
     load_partial()
+
+
 
     load_ncaa()
 
@@ -187,7 +188,7 @@ def load_asl():
     generic_load(soccer_db.asl_awards, awards.process_lewis_cup_awards, delete=False)
 
     print "Loading ASL games.\n"
-    #generic_load(soccer_db.asl_games, asl.process_games)
+    generic_load(soccer_db.asl_games, asl.process_games)
 
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
@@ -209,7 +210,7 @@ def load_nasl():
 
     print "Loading NASL games.\n"
     # Need to work some integrity issues on games.
-    #generic_load(soccer_db.nasl_games, nasl.process_games)
+    generic_load(soccer_db.nasl_games, nasl.process_games)
 
 
     
