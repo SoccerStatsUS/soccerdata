@@ -51,7 +51,7 @@ def get_standings_dict():
 
 
     d = {}
-    for e in soccer_db.standings.find():
+    for e in soccer_db.chris_standings.find():
         key = (e['competition'], e['season'])
         if key not in d:
             d[key] = [e['name']]

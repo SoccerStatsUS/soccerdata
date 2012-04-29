@@ -138,6 +138,9 @@ LEWIS_CUP_YEARS = set([
     ])
 
 
+        
+
+
 
 def process_bios():
     f = open(bios_filename)
@@ -244,7 +247,7 @@ def load_stat(line):
         l.append({
                 'name': name,
                 'team': team_name,
-                'season': season,
+                'season': sx,
                 'competition': 'U.S. Open Cup',
                 'games_played': cup_games,
                 'goals': cup_goals,

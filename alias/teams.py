@@ -6,6 +6,17 @@ teams = {}
 # Going to organize this alphabetically?
 mls_teams = {
 
+    'Philadelphia German-Americans': 'Philadelphia German Americans',
+    'Everett BigFoot': 'Seattle BigFoot',
+    'Everett Bigfoot': 'Seattle BigFoot',
+    'Elizabeth SC': 'Elizabeth S.C.',
+    'Newark SC': 'Newark S.C.',
+    'Becks German American SC (Buf.)': 'Becks German American S.C. (Buf.)',
+    
+    
+
+
+
     'Montclair': 'Fontana Falcons',
     'NY/NJ Stallions': 'New Jersey Stallions',
 

@@ -27,10 +27,13 @@ def first_load():
     clear_all()
 
     load_standings()
+
+
     load_positions()
     load_drafts()
 
-    load_general()
+
+    load_generals()
 
 
     # What are USL games coming from?
@@ -38,9 +41,6 @@ def first_load():
 
     load_asl()
     load_nasl()
-
-
-
     load_mls_data()
     load_mls_lineups()
     load_mls_reserve()
@@ -89,7 +89,7 @@ def second_load():
 
 
 
-def load_general():
+def load_generals():
     load_general('chris', 'small_tournaments/giantscup.txt')
     load_general('chris', 'small_tournaments/bicentennial')
     load_general('chris', 'small_tournaments/canadian.txt')
@@ -99,13 +99,13 @@ def load_general():
     load_general('chris', 'cups/us_cup')
 
 
-def load_mls_reserve()
+def load_mls_reserve():
     load_general('mls_reserve', 'leagues/mls_reserve')
 
 
 
 
-def load_cups()
+def load_cups():
     load_general('american_cup', 'cups/american_cup')
     load_general('lewis_cup', 'cups/lewis')
     load_general('open_cup', 'cups/us_open/1910')
@@ -127,7 +127,7 @@ def load_standings():
     soccer_db.standings.drop()
     f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
 
-    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier':
+    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier', 'nasl0':
         f(e)
 
     
@@ -208,7 +208,8 @@ def load_nasl():
     generic_load(soccer_db.nasl_awards, awards.process_nasl_awards)
 
     print "Loading NASL games.\n"
-    generic_load(soccer_db.nasl_games, nasl.process_games)
+    # Need to work some integrity issues on games.
+    #generic_load(soccer_db.nasl_games, nasl.process_games)
 
 
     
@@ -287,7 +288,8 @@ def load_mls_lineups():
 
 
 
-def load_mls_reserve():
+def load_mls_reserve_old():
+    # Probably delete this.
     """
     Load data from the MLS Reserve League (2011 - )
     """
