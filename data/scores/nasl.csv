@@ -72,7 +72,7 @@ USA	1967	Houston		4	Washington	h	0,1			12380
 USA	1967	Houston		8	New York	a	2,2			7102
 USA	1967	Los Angeles	5	27	Houston	a	1,1			34965
 USA	1967	Los Angeles		4	New York	h	2,1			7064
-USA	1967	Los Angeles		7	Chicago	a	0,0			4649
+USA	1967	Los Angeles		7	Cleveland	a	0,0			4649
 USA	1967	Los Angeles		11	Toronto	a	2,1			3663
 USA	1967	Los Angeles		14	Vancouver	h	5,1			5231
 USA	1967	Los Angeles		18	Detroit	h	4,1			5381
@@ -214,7 +214,7 @@ NPSL	1967	Chicago	4	16	St. Louis	h	2,1			4720
 NPSL	1967	Chicago		18	Toronto	h	1,0			811
 NPSL	1967	Chicago		22	New York	a	1,2			7766
 NPSL	1967	Chicago		28	Baltimore	h	0,2			3753
-NPSL	1967	Chicago		21	Philadelphia	h	0,0			879
+NPSL	1967	Chicago	5	2	Philadelphia	h	0,0			879
 NPSL	1967	Chicago		7	St. Louis	a	1,2			11529
 NPSL	1967	Chicago		13	Baltimore	a	2,2			3521
 NPSL	1967	Chicago		16	Los Angeles	h	1,1			2267
@@ -222,14 +222,14 @@ NPSL	1967	Chicago		20	Pittsburgh	a	1,3			2103
 NPSL	1967	Chicago		24	Oakland	a	1,1			2538
 NPSL	1967	Chicago		28	Los Angeles	a	1,1			2577
 NPSL	1967	Chicago		30	New York	h	0,0			3741
-NPSL	1967	Chicago		4	Atlanta	a	4,4			3608
+NPSL	1967	Chicago	6	4	Atlanta	a	4,4			3608
 NPSL	1967	Chicago		6	Toronto	a	1,4			2264
 NPSL	1967	Chicago		9	Oakland	h	1,2			1355
 NPSL	1967	Chicago		13	Los Angeles	h	0,3			870
 NPSL	1967	Chicago		18	Philadelphia	h	3,1			2125
 NPSL	1967	Chicago		25	Philadelphia	a	2,0			2986
 NPSL	1967	Chicago		30	Oakland	h	1,1			1349
-NPSL	1967	Chicago		3	Pittsburgh	h	2,2			1615
+NPSL	1967	Chicago	7	3	Pittsburgh	h	2,2			1615
 NPSL	1967	Chicago		9	New York	a	3,2			2932
 NPSL	1967	Chicago		14	Atlanta	h	2,1			3546
 NPSL	1967	Chicago		23	Baltimore	a	1,2			4347
@@ -279,7 +279,7 @@ NPSL	1967	New York		18	Oakland	a	0,1			2552
 NPSL	1967	New York		22	Chicago	h	2,1			7766
 NPSL	1967	New York		30	Philadelphia	a	0,2			5105
 NPSL	1967	New York		10	Los Angeles	h	0,2			4830
-NPSL	1967	New York		10	Atlanta	a	0,2		wrong	5704
+NPSL	1967	New York		13	Atlanta	a	0,2		wrong	5704
 NPSL	1967	New York		18	Pittsburgh	a	3,5			1162
 NPSL	1967	New York		21	Atlanta	h	2,2			3938
 NPSL	1967	New York		24	Baltimore	h	0,0			2351
@@ -913,7 +913,7 @@ NASL	1968	San Diego		26	Houston	h	1,1			2614
 NASL	1968	San Diego		29	Dallas	h	3,1			2521
 NASL	1968	San Diego		9	Oakland	a	3,1			3189
 NASL	1968	San Diego		14	Los Angeles	a	1,2			1231
-NASL	1968	San Diego		21	Los Angeles	h	1,0			13447
+NASL	1968	San Diego		21	St. Louis	h	1,0			13447
 NASL	1968	San Diego		27	Vancouver	a	2,1			8824
 NASL	1968	San Diego		4	Kansas City	a	1,2			11453
 NASL	1968	San Diego		7	Houston	h	1,2			2306
@@ -1204,17 +1204,17 @@ NASL Playoffs	1970	Rochester		13	Washington	a	1,3			5543
 NASL	1970	St. Louis	4	5	Dallas	h	0,4			6108
 NASL	1970	St. Louis		11	Atlanta	a	4,3			8105
 NASL	1970	St. Louis		26	Rochester	h	0,1			3006
-NASL	1970	St. Louis		3	Coventry	h	2,1			2700
+NASL	1970	St. Louis	5	3	Coventry	h	2,1			2700
 NASL	1970	St. Louis		10	Washington	a	0,4			3165
 NASL	1970	St. Louis		16	Dallas	a	0,2			
 NASL	1970	St. Louis		20	hertha	h	2,4			3783
 NASL	1970	St. Louis		24	Atlanta	h	1,0			2500
 NASL	1970	St. Louis		31	Kansas City	a	0,2			1249
-NASL	1970	St. Louis		7	Washington	h	0,2			3000
+NASL	1970	St. Louis	6	7	Washington	h	0,2			3000
 NASL	1970	St. Louis		14	Rochester	h	1,5			2000
 NASL	1970	St. Louis		19	Kansas City	h	1,1			2114
 NASL	1970	St. Louis		28	Rochester	a	1,2			2381
-NASL	1970	St. Louis		30	hapoel	h	1,2			3500
+NASL	1970	St. Louis		29	hapoel	h	1,2			3500
 NASL	1970	St. Louis		5	Washington	a	1,7			3433
 NASL	1970	St. Louis		12	Atlanta	h	2,2			2500
 NASL	1970	St. Louis		18	Kansas City	a	4,7			2219
@@ -1294,14 +1294,14 @@ NASL	1971	Dallas		12	Toronto	a	3,0			6960
 NASL	1971	Dallas		20	New York	a	1,3			9000
 NASL	1971	Dallas		26	Atlanta	h	4,1			4057
 NASL	1971	Dallas		2	St. Louis	a	2,2			3341
-NASL	1971	Dallas		8	apollon	h	5,0			3166
+NASL	1971	Dallas		7	apollon	h	5,0			3166
 NASL	1971	Dallas		10	Washington	h	1,2			3211
 NASL	1971	Dallas		18	Washington	a	1,1			2500
 NASL	1971	Dallas		23	Atlanta	a	3,0			4326
-NASL	1971	Dallas		24	Monterrey	h	2,1			3127
+NASL	1971	Dallas		24	Montreal	h	2,1			3127
 NASL	1971	Dallas		31	Rochester	a	0,1			8992
 NASL	1971	Dallas		7	St. Louis	h	1,1			2343
-NASL	1971	Dallas		10	bangu	h	2,0			3189
+NASL	1971	Dallas		11	bangu	h	2,0			3189
 NASL	1971	Dallas		15	Washington	h	2,0			3200
 NASL	1971	Dallas		21	St. Louis	a	1,3			2978
 NASL Playoffs	1971	Dallas		1	Rochester	a	1,2			8309
@@ -1353,10 +1353,10 @@ NASL	1971	New York		13	apollon	h	1,1			4763
 NASL	1971	New York		25	Toronto	h	2,2			2132
 NASL	1971	New York		2	Rochester	h	3,2			19437
 NASL	1971	New York		7	Toronto	a	1,2			4896
-NASL	1971	New York		14	Monterrey	a	4,5			2387
+NASL	1971	New York		14	Montreal	a	4,5			2387
 NASL	1971	New York		20	bangu	h	1,6			2714
 NASL	1971	New York		22	Toronto	h	2,0			
-NASL	1971	New York		25	Monterrey	h	3,3			1914
+NASL	1971	New York		25	Montreal	h	3,3			1914
 NASL	1971	New York		29	Atlanta	h	2,1			2714
 NASL Playoffs	1971	New York		2	Atlanta	a	0,1			3800
 NASL Playoffs	1971	New York		5	Atlanta	h	0,2			
@@ -1373,17 +1373,17 @@ NASL	1971	Rochester		17	lanerossi	h	3,2			9559
 NASL	1971	Rochester		19	Montreal	a	2,0			3500
 NASL	1971	Rochester		27	St. Louis	h	3,1			3651
 NASL	1971	Rochester		30	Toronto	a	3,2			2870
-NASL	1971	Rochester		3	Monterrey	h	2,1			4321
+NASL	1971	Rochester		3	Montreal	h	2,1			4321
 NASL	1971	Rochester		10	New York	h	3,2			8523
 NASL	1971	Rochester		15	apollon	h	4,0			5310
 NASL	1971	Rochester		17	Toronto	h	1,1			7408
 NASL	1971	Rochester		25	St. Louis	a	0,4			4211
 NASL	1971	Rochester		31	Dallas	h	1,0			8992
 NASL	1971	Rochester		2	New York	a	2,3			19437
-NASL	1971	Rochester		8	Monterrey	a	4,0			3100
+NASL	1971	Rochester		8	Montreal	a	4,0			3100
 NASL	1971	Rochester		14	Toronto	h	3,0			7211
 NASL	1971	Rochester		18	bangu	h	1,1			7312
-NASL	1971	Rochester		28	Monterrey	h	4,0			5638
+NASL	1971	Rochester		28	Montreal	h	4,0			5638
 NASL	1971	Rochester		1	Dallas	h	2,1			8309
 NASL	1971	Rochester		4	Dallas	a	1,3			
 NASL	1971	Rochester		8	Dallas	h	1,2			7635
@@ -1432,7 +1432,7 @@ NASL	1971	Toronto		31	Montreal	a	1,4			1713
 NASL	1971	Toronto		4	bangu	h	2,1			5760
 NASL	1971	Toronto		7	New York	h	2,1			4896
 NASL	1971	Toronto		14	Rochester	a	0,3			7211
-NASL	1971	Toronto		18	Monterrey	h	3,3			5250
+NASL	1971	Toronto		18	Montreal	h	3,3			5250
 NASL	1971	Toronto		22	New York	a	0,2			
 NASL	1971	Toronto		25	St. Louis	h	2,1			5117
 NASL	1971	Washington	4	18	Rochester	h	1,1			4251
@@ -1523,9 +1523,9 @@ NASL	1972	New York		27	Atlanta	h	4,2			4445
 NASL	1972	New York		3	Dallas	a	0,1			2157
 NASL	1972	New York		18	Toronto	h	2,1			1200
 NASL	1972	New York		25	Atlanta	a	0,2			
-NASL	1972	New York		1	Monterrey	h	2,0			4571
+NASL	1972	New York		1	Montreal	h	2,0			4571
 NASL	1972	New York		8	Miami	a	2,0			1438
-NASL	1972	New York		16	Monterrey	a	2,2			2996
+NASL	1972	New York		16	Montreal	a	2,2			2996
 NASL	1972	New York		22	Dallas	h	1,0			6518
 NASL	1972	New York		29	St. Louis	a	0,1			4385
 NASL	1972	New York		6	Toronto	a	1,1			1255
@@ -1591,7 +1591,7 @@ NASL	1973	Atlanta		6	Dallas	h	1,2			3196
 NASL	1973	Atlanta		11	Vera Cruz	h	2,0			2691
 NASL	1973	Atlanta		14	Miami	a	1,4			6102
 NASL	1973	Atlanta		20	St. Louis	h	1,1			2349
-NASL	1973	Atlanta		22	Monterrey	a	1,1			1519
+NASL	1973	Atlanta		22	Montreal	a	1,1			1519
 NASL	1973	Atlanta		27	New York	h	1,3			2671
 NASL	1973	Atlanta		29	St. Louis	a	1,4			9416
 NASL	1973	Atlanta		3	Philadelphia	h	1,2			2147
@@ -1604,15 +1604,15 @@ NASL	1973	Dallas		26	Miami	a	3,3			4081
 NASL	1973	Dallas		3	Atlanta	h	4,2			5764
 NASL	1973	Dallas		9	St. Louis	h	3,2			9123
 NASL	1973	Dallas		17	Toronto	a	1,0			3179
-NASL	1973	Dallas		19	Monterrey	a	0,2			1708
+NASL	1973	Dallas		19	Montreal	a	0,2			1708
 NASL	1973	Dallas		24	Miami	h	1,1			5271
 NASL	1973	Dallas		30	St. Louis	h	2,0			7692
 NASL	1973	Dallas		6	Atlanta	a	2,1			3196
-NASL	1973	Dallas		11	Vera Cruz	h	3,1			4225
+NASL	1973	Dallas		15	Vera Cruz	h	3,1			4225
 NASL	1973	Dallas		14	St. Louis	a	1,0			6237
 NASL	1973	Dallas		17	Rochester	a	0,2			6507
 NASL	1973	Dallas		21	Rochester	h	3,1			4801
-NASL	1973	Dallas		28	Monterrey	h	5,2			5178
+NASL	1973	Dallas		28	Montreal	h	5,2			5178
 NASL	1973	Dallas		4	New York	h	2,1			5359
 NASL	1973	Dallas		11	New York	a	3,4			7250
 NASL Playoffs	1973	Dallas		15	New York	h	1,0			9009
@@ -1879,7 +1879,7 @@ NASL	1974	Miami		17	Toronto	a	3,0			2872
 NASL	1974	Miami		19	Seattle	h	2,1			9021
 NASL	1974	Miami		24	Boston	a	0,3			9736
 NASL	1974	Miami		26	Philadelphia	a	2,1			14220
-NASL	1974	Miami		31	Dallas	h	1,0	*		7070
+NASL	1974	Miami		2	Dallas	h	1,0	*		7070
 NASL	1974	Miami		9	Philadelphia	h	2,0			7047
 NASL Playoffs	1974	Miami		17	Dallas	h	3,1			5045
 NASL Playoffs	1974	Miami		25	Los Angeles	h	3,4	*		15507
@@ -2110,13 +2110,13 @@ NASL	1975	Boston		6	New York	a	0,1			6541
 NASL	1975	Boston		9	Hartford	h	3,0			5139
 NASL Playoffs	1975	Boston		13	Miami	h	1,2			2187
 NASL	1975	Chicago	4	18	Vancouver	a	0,1			10007
-NASL	1975	Chicago		2	Denver	h	0,2			4536
+NASL	1975	Chicago	5	2	Denver	h	0,2			4536
 NASL	1975	Chicago		9	Dallas	h	3,2			4264
 NASL	1975	Chicago		16	Los Angeles	h	1,0			4117
 NASL	1975	Chicago		21	San Antonio	a	2,1			3711
-NASL	1975	Chicago		2	San Jose	h	2,3			4081
+NASL	1975	Chicago		23	San Jose	h	2,3			4081
 NASL	1975	Chicago		30	Portland	a	0,2			9526
-NASL	1975	Chicago		1	Seattle	a	1,2			16366
+NASL	1975	Chicago	6	1	Seattle	a	1,2			16366
 NASL	1975	Chicago		6	Denver	h	1,0			4094
 NASL	1975	Chicago		7	St. Louis	a	0,1	+		6832
 NASL	1975	Chicago		20	Philadelphia	h	6,2			3984
@@ -2283,7 +2283,7 @@ NASL	1975	Philadelphia		8	Miami	h	2,1			5072
 NASL	1975	Philadelphia		11	San Antonio	h	2,3			4012
 NASL	1975	Philadelphia		18	Miami	a	2,1	+		3790
 NASL	1975	Philadelphia		19	Tampa Bay	a	1,2			10103
-NASL	1975	Philadelphia		24	Dallas	h	1,2	*		3503
+NASL	1975	Philadelphia		25	Dallas	h	1,2	*		3503
 NASL	1975	Philadelphia		29	Tampa Bay	h	0,1	*		4517
 NASL	1975	Philadelphia		1	Baltimore	h	4,2			3530
 NASL	1975	Philadelphia		8	Rochester	a	5,2			2683
@@ -2405,7 +2405,7 @@ NASL	1975	San Jose		7	Vancouver	a	0,4			5461
 NASL	1975	San Jose		9	Seattle	a	2,1			17925
 NASL	1975	Seattle	4	26	Vancouver	a	1,2			7753
 NASL	1975	Seattle		2	Portland	a	1,0			8131
-NASL	1975	Seattle		3	Toronto	h	2,1			14252
+NASL	1975	Seattle		4	Toronto	h	2,1			14252
 NASL	1975	Seattle		11	Los Angeles	h	3,1			15879
 NASL	1975	Seattle		16	Dallas	a	1,0			4107
 NASL	1975	Seattle		18	St. Louis	a	2,3	*		5127
@@ -2509,7 +2509,7 @@ NASL	1975	Washington		17	Philadelphia	a	2,3	*		7510
 NASL	1975	Washington		20	Miami	a	0,8			4481
 NASL	1975	Washington		29	New York	h	2,9			35620
 NASL	1975	Washington		2	Philadelphia	h	4,1			2140
-NASL	1975	Washington		9	hapoel	h	1,0			2045
+NASL	1975	Washington		8	hapoel	h	1,0			2045
 NASL	1975	Washington		13	Denver	a	2,1	*		3426
 NASL	1975	Washington		18	Rochester	a	2,1			3366
 NASL	1975	Washington		25	Miami	a	1,2			4063
@@ -2565,7 +2565,7 @@ NASL	1976	Chicago		25	Boston	a	3,0			531
 NASL	1976	Chicago		28	Washington	h	4,3	*		3725
 NASL	1976	Chicago		1	St. Louis	h	3,1			4357
 NASL	1976	Chicago		4	Toronto	a	0,2			3854
-NASL	1976	Chicago		11	San Antonio	h	2,1	*		6837
+NASL	1976	Chicago		11	San Jose	h	2,1	*		6837
 NASL Playoffs	1976	Chicago		20	Toronto	h	2,3	*		8150
 NASL	1976	Dallas	4	17	Washington	h	1,0			13959
 NASL	1976	Dallas		24	San Antonio	h	1,0			11892
@@ -4636,7 +4636,7 @@ NASL	1979	Minnesota		11	Chicago	h	5,4	*		23073
 NASL	1979	Minnesota		14	Toronto	h	2,1			30825
 NASL	1979	Minnesota		18	Philadelphia	a	0,1			5320
 NASL	1979	Minnesota		20	Rochester	a	0,1			7775
-NASL	1979	Minnesota		25	New England	a	1,4			57223
+NASL	1979	Minnesota		25	New York	a	1,4			57223
 NASL	1979	Minnesota		28	Houston	h	2,1	+		31065
 NASL	1979	Minnesota		1	Vancouver	a	0,1			24656
 NASL	1979	Minnesota		8	Detroit	h	5,3			25805
@@ -5145,7 +5145,7 @@ NASL	1980	California		24	Edmonton	a	0,1			10053
 NASL Playoffs	1980	California		28	Fort Lauderdale	h	1,2			2929
 NASL Playoffs	1980	California		31	Fort Lauderdale	a	2,0			15282
 NASL Playoffs	1980	California		SO-M	Fort Lauderdale	a	0,1	*		
-NASL	1980	Chicago	4	5	Tampa Bay	a	2,1			31600
+NASL	1980	Chicago	4	12	Tampa Bay	a	2,1			31600
 NASL	1980	Chicago		19	Atlanta	h	1,0			16217
 NASL	1980	Chicago		23	Minnesota	h	2,0			5368
 NASL	1980	Chicago		30	Philadelphia	a	0,1			2278
@@ -5217,17 +5217,17 @@ NASL Playoffs	1980	Dallas		31	Minnesota	h	2,0			8674
 NASL Playoffs	1980	Dallas		3	New York	h	2,3			7459
 NASL Playoffs	1980	Dallas		7	New York	a	3,0			45153
 NASL Playoffs	1980	Dallas		M	New York	a	0,3			
-NASL Playoffs	1980	Detroit	5	29	Seattle	a	0,1	+		23572
+NASL Playoffs	1980	Detroit	3	29	Seattle	a	0,1	+		23572
 NASL Playoffs	1980	Detroit		5	Memphis	h	4,2			9892
 NASL Playoffs	1980	Detroit		12	New England	h	1,0			10033
 NASL Playoffs	1980	Detroit		19	Tulsa	h	0,1	*		9107
 NASL Playoffs	1980	Detroit		26	Portland	a	1,2			14595
-NASL Playoffs	1980	Detroit		4	Edmonton	a	2,3	*		12485
+NASL Playoffs	1980	Detroit	5	4	Edmonton	a	2,3	*		12485
 NASL Playoffs	1980	Detroit		10	Atlanta	h	3,0			14129
 NASL Playoffs	1980	Detroit		17	Chicago	a	2,3			6761
 NASL Playoffs	1980	Detroit		25	Minnesota	a	2,4			11557
 NASL Playoffs	1980	Detroit		31	Vancouver	h	0,1			17382
-NASL Playoffs	1980	Detroit		5	Toronto	a	2,1			7683
+NASL Playoffs	1980	Detroit	6	5	Toronto	a	2,1			7683
 NASL Playoffs	1980	Detroit		8	Tulsa	a	1,0			21212
 NASL Playoffs	1980	Detroit		11	San Jose	h	0,1	*		7186
 NASL Playoffs	1980	Detroit		14	Atlanta	a	1,3			9035
@@ -5773,7 +5773,7 @@ NASL	1980	Tampa Bay		4	California	h	1,3			53389
 NASL	1980	Tampa Bay		6	Chicago	a	2,1			26468
 NASL	1980	Tampa Bay		9	San Jose	h	4,1			15809
 NASL	1980	Tampa Bay		12	Los Angeles	h	1,2			23601
-NASL	1980	Tampa Bay		16	San Diego	a	3,0			16397
+NASL	1980	Tampa Bay		16	San Jose	a	3,0			16397
 NASL	1980	Tampa Bay		19	San Diego	a	0,3			15559
 NASL	1980	Tampa Bay		23	Washington	a	1,2			18375
 NASL	1980	Tampa Bay		2	Fort Lauderdale	h	1,0			40368
@@ -5876,7 +5876,7 @@ NASL	1980	Vancouver		2	Atlanta	h	5,0			22155
 NASL	1980	Vancouver		6	Rochester	h	1,3			26578
 NASL	1980	Vancouver		9	Atlanta	a	4,0			2878
 NASL	1980	Vancouver		16	Los Angeles	h	2,1	*		30809
-NASL	1980	Vancouver		19	San Diego	h	4,1			28161
+NASL	1980	Vancouver		19	San Jose	h	4,1			28161
 NASL	1980	Vancouver		26	Portland	a	1,5			8877
 NASL	1980	Vancouver		30	Dallas	h	3,1			24948
 NASL	1980	Vancouver		2	Seattle	a	0,1			33363
