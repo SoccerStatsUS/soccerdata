@@ -78,6 +78,8 @@ d = {
         (1943, 'Brooklyn Hispano'),
         (1942, 'Gallatin F.C.'),
         (1941, 'Pawtucket F.C.'),
+        (1940, 'Baltimore S.C.',),
+        (1940, 'Chicago Sparta'),
         (1939, 'Brooklyn St. Mary\'s Celtic'),
         (1938, 'Chicago Sparta'),
         (1937, 'New York Americans'),
