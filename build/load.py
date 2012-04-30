@@ -25,8 +25,14 @@ def first_load():
     # Base data.
 
     clear_all()
+    
+    # Experiments
+    #load_midwest()
+    #load_early
 
     load_standings()
+
+
 
 
     load_positions()
@@ -104,6 +110,25 @@ def load_mls_reserve():
     load_general('mls_reserve', 'leagues/mls_reserve')
 
 
+def load_early():
+    load_general('american_cup', 'cups/american_cup')
+    load_general('american_cup', 'leagues/nafbl.txt')
+    load_general('american_cup', 'leagues/alpf.txt')
+    load_general('american_cup', 'international/usmnt/usa_very_early')
+
+
+def load_midwest():
+    for e in range(1, 8):
+        load_general('open_cup', 'cups/us_open/19%s0' % e)
+
+    load_general('open_cup', 'leagues/isl')
+    load_general('open_cup', 'teams/benmillers.txt')
+    load_general('open_cup', 'teams/bricklayers.txt')
+    load_general('open_cup', 'teams/harmarville.txt')
+    load_general('open_cup', 'teams/benmillers.txt')
+    load_general('open_cup', 'teams/morgan')
+    load_general('open_cup', 'teams/scullin.txt')
+    load_general('open_cup', 'teams/stix.txt')
 
 
 def load_cups():
@@ -128,7 +153,7 @@ def load_standings():
     soccer_db.standings.drop()
     f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
 
-    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier', 'nasl0':
+    for e in 'mls', 'nasl', 'asl', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier', 'nasl0', 'lssa':
         f(e)
 
     

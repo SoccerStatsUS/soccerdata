@@ -27,6 +27,8 @@ def generate_all_stats():
         x = generate_stats(soccer_db['%s_goals' % source].find(), soccer_db['%s_lineups' % source].find())
         generic_load(soccer_db['%s_stats' % source], lambda: x.values())
 
+    # This presents the problem of generating stats for games that have not been merged yet.
+    # It seems like a much better idea to filter by competition and generate stats after merge.
     standard_generate('mls_reserve')
     standard_generate('chris')
     standard_generate('american_cup')
