@@ -4,6 +4,105 @@
 
 names = {
 
+    'Joseph (Joey) Johnson': 'Joey Johnson',
+    'Leon (Kacy) Jones': 'Leon Jones',
+    
+
+    'Richard (Rich) Bradley': 'Richard Bradley',
+    'William (Brad) Moore': 'Brad Moore',
+    'William Moore': 'Brad Moore',
+
+    'Laurence (Lloyd) Holder': 'Laurence Holder',
+    'William (Will) Hench': 'William Hench',
+    'Lester (Les) Lunsford': 'Les Lunsford'
+    'Lester Lunsford': 'Les Lunsford',
+    'Lyndon (Nigel) Burgess': 'Lyndon Burgess',
+    'Guillermo (Memo) Medina': 'Guillermo Medina',
+    'Ricardo (Ricky) Blanchard': 'Ricardo Blanchard',
+    'Ricky Blanchard': 'Ricardo Blanchard',
+    'Charles (Chuck) Panos': 'Charles Panos',
+    'Kryszyof (Chris) Legowski': 'Chris Legowski',
+    'Kyle (Lighty) Lightbourne': 'Kyle Lightbourne',
+    'Rolando Aguilera': 'Roland Aguilera',
+    'Edward (Eddie) Child': 'Edward Child',
+    'Teodor (Marcel) Matis': 'Marcel Matis',
+    'James (Troy) Garner': 'Troy Garner',
+    'James Garner': 'Troy Garner',
+    'William (B.J.) McNicol': 'William McNicol',
+    'B.J. McNicol': 'William McNicol',
+    'BJ McNicol': 'William McNicol',
+    'Stephen (Kelly) Findley': 'Kelly Findley',
+    'Jose (Alex) Matturro': 'Alex Matturro',
+    'Malcolm (Sean) Endicott': 'Sean Endicott',
+    'Robert (Justin) Kerns': 'Robert Kerns',
+    'Michael (Gabe) Jones': 'Gabe Jones',
+    'Iyoma (Jo Jo) Flemister': 'Iyoma Flemister',
+    'Thomas (Michael) Coll': 'Michael Coll',
+    
+    'J Cooks': 'Judah Cooks', # Highly likely, NVA Royals game in 2000, while Judah was with DC
+    'Joseph (Joe) Nick': 'Joe Nick',
+    
+
+    
+    
+    
+    
+    'Richard (Cody) Bragg': 'Richard Bragg',
+    'Benjamin (Ben) Meek': 'Benjamin Meek',
+
+    'John (Jack) Cummings': 'Jack Cummings',
+
+    'Terrance (Terry) McNelis': 'Terrance McNelis',
+    'Terry McNelis': 'Terrance McNelis',
+    'Stephen (Ste) Astwood': 'Stephen Atwood',
+
+    'Collin (CJ) Robinson': 'C.J. Robinson',
+    
+    'Bret (Eric) Jones': 'Bret Jones',
+    'Miguel (Kiko) Medina': 'Miguel Medina',
+    'Devaun (Sammy) DeGraff': 'Devaun DeGraff',
+    'Daniel (Dan) Hartung': 'Daniel) Hartung',
+
+    'Joseph (Joe) McNab': 'Joseph McNab',
+    'Juvenal (Junior) Zarate': 'Juvenal Zarate',
+    'Jean (Robens) Jerome': 'Jean-Robens Jermoe',
+    'Jean Jerome': 'Jean-Robens Jermoe',
+
+    'Vincente (Vinny) Bastidas': 'Vincente Bastidas',
+    'Vincent Bastidas': 'Vincente Bastidas',
+
+    'Michael (Mick) McDermott': 'Michael McDermott',
+    'Theodore (Ted) Haley': 'Ted Haley',
+    'Adetoye (Toye) Oshoniyi': 'Adetoye Oshoniyi',
+    'Toye Oshoniyi': 'Adetoye Oshoniyi',
+
+    'Joseph (JoJo) Stuart': 'Jojo Stuart',
+    
+    'Michael (Mike) Franks': 'Michael Franks',
+    'Mike Franks': 'Michael Franks',
+    'Robert (Rob) Fucci': 'Robert Fucci',
+    'Kristofer (Kris) Larsen': 'Kristofer Larsen',
+    'Christopher (Klotzy) Klotz': 'Christopher Klotz',
+
+    
+    
+
+
+    'Robert Alexander': 'Trey Alexander',
+    'Robert (Trey) Alexander': 'Trey Alexander',
+
+    'Roberto Brown': 'Roberto Ronaldo Brown Perea',
+    'Joel (JJ) Bailey': 'Joel Bailey',
+    'Gason (Bubbla) Gregory': 'Gason Gregory',
+
+    'James Hood': 'Jimmy Hood',
+
+    'Benjamin (Ben) Hill': 'Benjamin Hill',
+    'Benjamin (Ben) Meek': 'Benjamin Meek',
+    'Emanuel (Manny) Brito': 'Emanuel Brito',
+    'Angel (Christopher) Rivillo': 'Angel Rivillo',
+
+
 
     'Carl Calentine': 'Carl Valentine',
     'Carlos Mendez': 'Carlos Mendes',
@@ -16,6 +115,7 @@ names = {
     'Jose Vasquez': 'Joseph Vasquez-Martinez',
     'Brian Taylor': 'Bryan Taylor',
     'Jacob Joy': 'Jake Joy',
+    'Jacob (Jake) Joy': 'Jake Joy',
     'Kyle Marten Altman': 'Kyle Altman',
     'Michael Feniger': 'Mike Feniger',
     'Julian Dorsey': 'JT Dorsey',
@@ -25,6 +125,7 @@ names = {
     'Thomas (Tommy) Tanner': 'Thomas Tanner',
     'Williams Sedgewick': 'Bill Sedgewick',
     'William (Bill) Sedgewick': 'Bill Sedgewick',
+    'Williams (Bill) Sedgewick': 'Bill Sedgewick',
     'Andrew (Yogi) McKay': 'Andrew McKay',
     'Yogi McKay': 'Andrew McKay',
 
@@ -114,9 +215,12 @@ names = {
     'Baboy Goye': 'Babou Gaye',
     'Emeke Moneme': 'Emeka Moneme',
     'Gerhard (Kirk) Freidrich': 'Gerhard Friedrich',
-    'Gerhard (Kirk) Friedrich': 'Gerhard Friedrich',
+    'Kirk Friedrich': 'Gerhard Friedrich',
     'Geroge (Mike) Brown': 'George (Mike) Brown',
     'Victor Pasacci': 'Victor Passucci',
+
+    'David (Hunter) Paschall': 'David Paschall',
+    'Francis (Fran) Morgan': 'Francis Morgan',
     
     
 
@@ -902,7 +1006,6 @@ names = {
 
 
 def get_name(name, league=None):
-    print name
     name = name.strip()
     if league and (name, league) in names:
         name = names[(name, league)]
