@@ -4,6 +4,10 @@
 
 names = {
 
+
+    'Carl Calentine': 'Carl Valentine',
+    'Carlos Mendez': 'Carlos Mendes',
+
     'Loyd Barker': 'Lloyd Barker',
     'Greg (Chevy) Chevalier': 'Greg Chevalier',
     'Andy Parrish': 'Andrew Parrish',
@@ -16,6 +20,107 @@ names = {
     'Michael Feniger': 'Mike Feniger',
     'Julian Dorsey': 'JT Dorsey',
     'Tom Wurdack': 'Thomas Wurdack',
+    'Staale Soebye': 'Ståle Søbye',
+    'Matthew Nwabueze Okoh': 'Matt Okoh',
+    'Thomas (Tommy) Tanner': 'Thomas Tanner',
+    'Williams Sedgewick': 'Bill Sedgewick',
+    'William (Bill) Sedgewick': 'Bill Sedgewick',
+    'Andrew (Yogi) McKay': 'Andrew McKay',
+    'Yogi McKay': 'Andrew McKay',
+
+    'Edivaldo Da Silva-Sarafim Jr': 'Edivaldo Sarafim-DaSilva',
+    'Edivaldo (Juninho) Sarafim-DaSilva': 'Edivaldo Sarafim-DaSilva',
+    'Edivaldo (Juninho) Sarafim-DaSilva': 'Edivaldo Sarafim-DaSilva',
+    'Edivaldo Da Silva-Sarafim Jr': 'Edivaldo Sarafim-DaSilva',
+
+    
+    'Gabriel Valencia-Jiminez': 'Gabriel Valencia-Jimenez',
+    'Aaran (Kiwi) Lines': 'Aaran Lines',
+    'Abiodun (Mike) Adeyemi': 'Abiodun Adeyemi',
+    'Alejandro (Jano) Gonzalez': 'Alejandro Gonzalez Pareja',
+    'Alejandro Gonzalez-Pareja': 'Alejandro Gonzalez Pareja',
+    'Alexander Delgado-Marques': 'Alexander Marques-Delgado',
+    'Angel Rivillo-Ruiz': 'Angel Rivillo',
+    'Carlos Garcia': 'Carlos Garcia-Dominguez',
+    'Chris Da Silva': 'Chris DaSilva',
+    'Chris Hooser': 'Chris Houser',
+    'Chris Rozelli': 'Chris Roselli',
+    'Christopher Bagley': 'Chris Bagley',
+    'Christopher Brown': 'Chris Brown',
+    'Christopher Brunt': 'Chris Brunt',
+    'Christopher Corcoran': 'Chris Corcoran',
+    'Christopher Doyle': 'Chris Doyle',
+    'Christopher Kooy': 'Chris Kooy',
+    'Christopher Lemons': 'Chris Lemons',
+    'Christopher Martinez': 'Chris Martinez',
+    'Christopher Pozniak': 'Chris Pozniak',
+    'Christopher Seitz': 'Chris Seitz',
+    'Christopher Wanamaker': 'Chris Wanamaker',
+    'Christopher Williams': 'Chris Williams',
+    'Crizam (Zinho) Oliveira': 'Crizam César de Oliveira Filho',
+    'Crizam (Zinho) Oliveira-Filho': 'Crizam César de Oliveira Filho',
+    'Damon Kensing': 'Damon Rensing',
+    'Daniel Benton': 'Dan Benton',
+    'Daniel Earls': 'Danny Earls',
+    'Daniel Keith Earls': 'Danny Earls',
+    'Daniel Sindui': 'Daniel Singhui',
+    'Danley Hjohnson': 'Danley Johnson',
+    'Didar Sandttu': 'Didar Sandhu',
+    'Dominic Mobilio': 'Domenic Mobilio',
+    'Dustin Hudock': 'Dusty Hudock',
+
+    'Frankie Sanfilippo': 'Frank Sanfillippo',
+    'Frankie Sanfillippo': 'Frank Sanfillippo',
+    'Gregory Simmonds': 'Greg Simmonds',
+    'Gregory Sutton': 'Greg Sutton',
+    'Guy Vallcourt': 'Guy Valcourt',
+    'Isaac (Saito) Nieves': 'Isaac Nieves-Rivera',
+    'Jim Welsh': 'Jim Welch',
+    'Joel (JJ) Bailey': 'Joel Bailey',
+    'Joe Seigliano': 'Joe Scigliano',
+    'Joesph McNab': 'Joseph McNab',
+    'John (Alvin) Hudson': 'John Hudson',
+    'John Cariel': 'John Cairel',
+    'John Jones Ii': 'John Jones II',
+    'Zacharias Scott': 'Zach Scott',
+    'Zachary (Zach) Kirby': 'Zachary Kirby',
+    'Zach Kirby': "Zachary Kirby",
+    'Jonathan (Jonny) Steele': 'Jonathan Steele',
+    'Jose Roberto Gomes Santana': 'Jose Roberto Santana',
+    'Marvin Quisano': 'Marvin Quijano',
+    'Matt Botgard': 'Matt Borgard',
+    'Matthew (Deli) Delicâte': 'Matthew Delicâte',
+    'Matthew Delicate': 'Matthew Delicâte',
+    'Mobi Obaraku': 'Mobi Oparaku',
+    'Rey (Boom Boom) Martinez': 'Rey Angel Martinez',
+    'Rey Martinez': 'Rey Angel Martinez',
+    'Richard Gilstrap': 'Hunter Gilstrap',
+    'Richard Hunter Gilstrap': 'Hunter Gilstrap',
+    'Robert (Shea) Salinas': 'Shea Salinas',
+    'Srdjan (Serge) Djekanovic': 'Srdjan Djekanović',
+    'Tenywa (T-Bone) Bonseu': 'Tenywa Bonseu',
+    'Thomas (John) Queeley': 'Thomas Queeley',
+    'Thomas Poltl': 'Tom Poltl',
+    'Umbertino (Tino) Cucca': 'Umbertino Cucca',
+    'Umbertino Cucck': 'Umbertino Cucca',
+    'Wendell Nuldron': 'Wendell Muldrow',
+
+    'Abbey Hoibi': 'Abbey Noibi',
+
+    'Adetoye (Toye) Oshoniyi': 'Adetoye Oshoniyi',
+    'Adloye Oshoniyi': 'Adetoye Oshoniyi',
+    'Adloye (Toye) Oshoniyi': 'Adetoye Oshoniyi',
+    'Adrian (Piticu) Bumbut': 'Adrian Bumbut',
+    'Baboy Goye': 'Babou Gaye',
+    'Emeke Moneme': 'Emeka Moneme',
+    'Gerhard (Kirk) Freidrich': 'Gerhard Friedrich',
+    'Gerhard (Kirk) Friedrich': 'Gerhard Friedrich',
+    'Geroge (Mike) Brown': 'George (Mike) Brown',
+    'Victor Pasacci': 'Victor Passucci',
+    
+    
+
+    
     
     
 
@@ -797,6 +902,7 @@ names = {
 
 
 def get_name(name, league=None):
+    print name
     name = name.strip()
     if league and (name, league) in names:
         name = names[(name, league)]
