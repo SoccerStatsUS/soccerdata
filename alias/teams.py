@@ -6,53 +6,57 @@ teams = {}
 # Going to organize this alphabetically?
 mls_teams = {
 
-    'New York National Giants': 'New York Giants',
-    'New York Nationals': 'New York Giants',
 
     'Todd Shipyards F.C.': 'Todd Shipyards',
-    'Bridgeport': 'Bridgeport Bears',
-    'Brooklyn Hakoah': 'Hakoah All-Stars',
 
     # Accurate?
     'Philadelphia 1928-1929': 'Philadelphia Field Club',
 
     # Need to make sure America is not a regional US team.
     'America': 'América',
+    'Bridgeport': 'Bridgeport Bears',
+    'Brooklyn Hakoah': 'Hakoah All-Stars',
+
 
     # Colliding with Jersey City slug.
     'Jersey City ?': 'Jersey City (?x)',
 
     'Club Espana': 'Club España',
-    'St. Mary’s Celtic':'St. Mary\'s Celtic',
+
+    'St. Mary’s Celtic': 'St. Mary\'s Celtic',
     'St. Michael’s': 'St. Michael\'s',
+
+    'Everett BigFoot': 'Seattle BigFoot',
+    'Everett Bigfoot': 'Seattle BigFoot',
+    'Elizabeth SC': 'Elizabeth S.C.',
 
     'Federal Ship': 'Federal Shipyards',
     'Federal Ship FC': 'Federal Shipyards',
     'Federal Shipbuilding': 'Federal Shipyards',
 
-    'Philadelphia German-Americans': 'Philadelphia German Americans',
-    'Everett BigFoot': 'Seattle BigFoot',
-    'Everett Bigfoot': 'Seattle BigFoot',
-    'Elizabeth SC': 'Elizabeth S.C.',
-    'Newark SC': 'Newark S.C.',
+
     'Becks German American SC (Buf.)': 'Becks German American S.C. (Buf.)',
-    
-    'New York Hungaria': 'NY Hungaria',
-
-    'Gjoa SC': 'SC Gjoa',
-    'Gjoa FC': 'SC Gjoa',
-
-    'Hellrung & Grimm': 'Hellrung FC',
-
 
     'Montclair': 'Fontana Falcons',
     'NY/NJ Stallions': 'New Jersey Stallions',
+    'Newark SC': 'Newark S.C.',
+    'New York Hungaria': 'NY Hungaria',
+    'New York National Giants': 'New York Giants',
+    'New York Nationals': 'New York Giants',
 
+
+    'Gjoa SC': 'SC Gjoa',
+    'Gjoa FC': 'SC Gjoa',
+    'Hellrung & Grimm': 'Hellrung FC',
+
+
+    'Clan Macdonald': 'Clan MacDonald',
     'Clark A.A': 'Clark A.A.',
+
     'IRT Rangers': 'I.R.T. Rangers',
     'Kearny Scottish Americans': 'Kearny Scottish-Americans',
-    'St. Mary’s Celtic': 'St. Mary\'s Celtic',
-    'Clan Macdonald': 'Clan MacDonald',
+
+
     'Puritan Y.M.L': 'Puritan Y.M.L.',
     'Hakoah FC': 'Hakoah F.C.',
 
@@ -322,20 +326,17 @@ mls_teams = {
     'White Automobile': 'White Motor FC',
     'White Motor': 'White Motor FC',
     'White Motors FC': 'White Motor FC',
-    
     'West End Polish FC': 'West End Polish Club',
     
     'True Blues FC': 'Paterson True Blues',
     
     'Abbott Worsted': 'Abbot Worsted',
-    
     'Anderson SC': 'Anderson S.C.',
     
     'Babcock & Wilcaox': 'Babcock & Wilcox',
     'Babcock & Wilson': 'Babcock & Wilcox',
     'Babcock and Wilcox': 'Babcock & Wilcox',
     'Bayonne Babcock & Wilcox': 'Babcock & Wilcox',
-    
     'Baltimore Pompei': 'Baltimore Pompei SC',
     'Beadling': 'Beadling SC',
     'Beadling FC': 'Beadling SC',
@@ -346,13 +347,12 @@ mls_teams = {
     
     'Passon FC': 'Philadelphia Passon',
 
-
-
-
     # Uh...might not be a good name to use Uhrik Truckers.
-    'Philadelphia German-American': 'Uhrik Truckers',
-    'Philadelphia German American': 'Uhrik Truckers',
-    'Philadelphia Americans': 'Uhrik Truckers',
+    'Philadelphia German-Americans': 'Philadelphia German Americans',
+    'Philadelphia German-American': 'Philadelphia German Americans',
+    'Philadelphia German American': 'Philadelphia German Americans',
+    'Philadelphia Americans': 'Philadelphia German Americans',
+    'Uhrik Truckers': 'Philadelphia German Americans',
 
     # Not sure of these.
     'Hungaria': 'New York Hungaria', 

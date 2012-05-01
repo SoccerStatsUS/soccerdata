@@ -6,7 +6,12 @@ names = {
 
     'Joseph (Joey) Johnson': 'Joey Johnson',
     'Leon (Kacy) Jones': 'Leon Jones',
-    
+
+
+    'Walter Czyzowych': 'Walter Chyzowych',
+    'Walt Czychowych': 'Walter Chyzowych',
+    'Walt Chyzowych': 'Walter Chyzowych',
+
 
     'Richard (Rich) Bradley': 'Richard Bradley',
     'William (Brad) Moore': 'Brad Moore',
@@ -14,7 +19,7 @@ names = {
 
     'Laurence (Lloyd) Holder': 'Laurence Holder',
     'William (Will) Hench': 'William Hench',
-    'Lester (Les) Lunsford': 'Les Lunsford'
+    'Lester (Les) Lunsford': 'Les Lunsford',
     'Lester Lunsford': 'Les Lunsford',
     'Lyndon (Nigel) Burgess': 'Lyndon Burgess',
     'Guillermo (Memo) Medina': 'Guillermo Medina',

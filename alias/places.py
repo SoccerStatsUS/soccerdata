@@ -1,6 +1,4 @@
 
-
-
 states = {
     'AL': 'Alabama',
     'AK': 'Alaska',
@@ -49,3 +47,40 @@ states = {
     'WV': 'West Virginia',
     'WY': 'Wyoming',
     }
+
+
+
+def get_location(s):
+    if not s:
+        return {}
+
+    pieces = [e.strip() for e in s.split(",")]
+
+    # Should only be of the forms Austin, TX, Austin, Texas, or Austin, Texas, United States
+    if len(pieces) < 2 or len(pieces) > 3:
+        import pdb; pdb.set_trace()
+    elif len(pieces) == 2:
+        city = pieces[0]
+
+        if pieces[1] in STATES.keys():
+            state = STATES[pieces[1]]
+            country = 'United States'
+        elif pieces[1] in STATES.values():
+            state = pieces[1]
+            country = 'United States'
+        else:
+            state = None
+            country = pieces[1]
+
+    elif len(pieces) == 3:
+        city, state, country = pieces
+
+    return {
+        'city': city,
+        'state': state,
+        'country': country,
+        }
+
+    
+
+
