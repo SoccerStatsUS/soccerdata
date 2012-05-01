@@ -33,15 +33,18 @@ def reset_database():
 
 
 def normalize():
-    from soccerdata.alias import get_team, get_name
+    from soccerdata.alias import get_team, get_name, get_competition
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
+
+        
 
     # Team names in games.
     for s in SOURCES:
         coll = soccer_db["%s_games" %s]
         l = []
         for e in coll.find():
+            e['competition'] = get_competition(e['competition'])
             e['team1'] = get_team(e['team1'])
             e['team2'] = get_team(e['team2'])
             if e['home_team']:
@@ -58,6 +61,7 @@ def normalize():
         coll = soccer_db["%s_goals" %s]
         l = []
         for e in coll.find():
+            e['competition'] = get_competition(e['competition'])
             e['team'] = get_team(e['team'])
             try:
                 e['goal'] = get_name(e['goal'])
@@ -74,10 +78,31 @@ def normalize():
 
     for s in SOURCES:
         coll = soccer_db["%s_stats" %s]
+
         l = []
         for e in coll.find():
+            e['competition'] = get_competition(e['competition'])
             e['team'] = get_team(e['team'])
             e['name'] = get_name(e['name'])
+
+
+            for k in (
+                'games_started', 
+                'games_played', 
+                'minutes', 
+                'shots', 
+                'shots_on_goal',
+                'fouls_committed', 
+                'fouls_suffered', 
+                'yellow_cards', 
+                'red_cards'):
+                if e.get(k) == '':
+                    e[k] = None
+
+            for k in 'goals', 'assists':
+                if e.get(k) == '':
+                    e[k] = 0
+
 
             l.append(e)
 
@@ -91,6 +116,7 @@ def normalize():
         coll = soccer_db["%s_lineups" %s]
         l = []
         for e in coll.find():
+            e['competition'] = get_competition(e['competition'])
             e['team'] = get_team(e['team'])
             e['name'] = get_name(e['name'])
 
@@ -106,14 +132,30 @@ def normalize():
         coll = soccer_db["%s_standings" %s]
         l = []
         for e in coll.find():
+            e['competition'] = get_competition(e['competition'])
             # NB - weird naming.
-            e['name'] = get_team(e['name'])
+            e['team'] = get_team(e['team'])
 
             l.append(e)
 
         coll.drop()
         print len(l)
         insert_rows(coll, l)
+
+
+
+    for s in SOURCES:
+        coll = soccer_db["%s_awards" %s]
+        l = []
+        for e in coll.find():
+            e['competition'] = get_competition(e['competition'])
+            # Skipping recipient until a little later.
+            l.append(e)
+
+        coll.drop()
+        print len(l)
+        insert_rows(coll, l)
+
 
 
 

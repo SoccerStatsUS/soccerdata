@@ -67,7 +67,7 @@ def process_standings(filename):
             return None
 
         return {
-            'name': get_team(team.strip()),
+            'team': get_team(team.strip()),
             'competition': competition,
             'division': division,
             'season': season,
