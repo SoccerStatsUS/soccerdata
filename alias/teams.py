@@ -3,23 +3,84 @@
 
 teams = {}
 
-# Going to organize this alphabetically?
-mls_teams = {
 
+asl1 = {
 
     'Todd Shipyards F.C.': 'Todd Shipyards',
 
     # Accurate?
     'Philadelphia 1928-1929': 'Philadelphia Field Club',
 
-    # Need to make sure America is not a regional US team.
-    'America': 'América',
     'Bridgeport': 'Bridgeport Bears',
     'Brooklyn Hakoah': 'Hakoah All-Stars',
 
-
     # Colliding with Jersey City slug.
     'Jersey City ?': 'Jersey City (?x)',
+
+
+}
+teams.update(asl1)
+
+
+asl2 = {
+    'Baltimore Canton': 'Baltimore Americans',
+    'Baltimore German': 'Baltimore Americans',
+    'Baltimore S.C.': 'Baltimore Americans',
+    'Baltimore Rockets': 'Baltimore Pompei',
+    'Baltimore St. Gerards': 'Baltimore Flyers',
+    'Baltimore Stars': 'Baltimore Bays',
+    'Allentown': 'Bethlehem Hungarian',
+
+    # This may not be right. Brooklyn Italians itself seems to have 
+    # Gone to lower leagues, played as Palermo and Brokolyn Dodgers.
+    'Boca Juniors': 'Brooklyn Italians',
+    'Inter-Brooklyn Italians': 'Brooklyn Italians',
+    'New York Inter': 'Brooklyn Italians',
+    'Inter SC': 'Brooklyn Italians',
+    'Boston Metros': 'Boston Tigers',
+    'Brooklyn Giants': 'Brooklyn Hispano',
+    'St. Mary\'s Celtic': 'Brooklyn Celtic',
+    'Connecticut Wildcats': 'Connecticut Yankees',
+    'Northeast United': 'Connecticut Yankees',
+    'Galicia SC': 'Brookhattan',
+    'Brookhattan Galicia': 'Brookhattan',
+    'Galicia-Honduras': 'Brookhattan',
+    'Cleveland Stars': 'Cleveland Cobras',
+    'Georgia Generals': 'Cleveland Cobras',
+    'Hartford SC': 'Hartford Kings',
+    'Hartford FC': 'Hartford Kings',
+    'Gary Tigers': 'Indiana Tigers',
+    'Indianapolis Daredevils': 'Rhode Island Oceaneers',
+    'New England Oceaneers': 'Rhode Island Oceaneers',
+    'Kearny Irish': 'Kearny Celtic',
+    'Ludlow S.C.': 'Ludlow Lusitano',
+    'Miami Americans': 'New Jersey Americans',
+    'Newark Falcons': 'Elizabeth Falcons',
+    'Falcons SC': 'Elizabeth Falcons'
+    'Falcons-Warsaw': 'Elizabeth Falcons',
+    'New Brunswick Hungarian Americans': 'New Brunswick Hungarians',
+    'New Jersey Shaefer Brewers': 'New Jersey Brewers',
+    'New York Greeks': 'New York Apollo',
+    'New York United': 'New York Apollo',
+    'Paterson Caledonian': 'Paterson F.C.',
+    'Newark Germans': 'Paterson F.C.',
+    'Philadelphia Passon': 'Philadelphia Nationals',
+    'Sacramento Spirits': 'Sacramento Gold',
+    'Syracuse Scorpions': 'Syracuse Suns',
+    'Virginia Capitol Cavaliers': 'Washington Cavaliers',
+    'Fall River Astros': 'Boston Astros',
+    
+}
+
+# Going to organize this alphabetically?
+mls_teams = {
+
+
+
+    # Need to make sure America is not a regional US team.
+    'America': 'América',
+
+
 
     'Club Espana': 'Club España',
 
@@ -561,6 +622,8 @@ misc_teams = {
 
 teams.update(misc_teams)
 
+# Should remove these.
+
 world_cup_teams = {
     'ALG': 'Algeria',
     'ANG': 'Angola',
@@ -644,10 +707,11 @@ world_cup_teams = {
     'YUG': 'Yugoslavia',
     }
 
+"""
 for k, v in world_cup_teams.items():
     t = (k, "FIFA World Cup")
     teams[t] = v
-
+"""
 
 def get_team(name, competition=None, pre_dict={}):
     name = pre_dict.get(name, name)
