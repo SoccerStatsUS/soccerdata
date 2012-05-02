@@ -69,6 +69,7 @@ def merge_awards():
     insert_rows(soccer_db.awards, soccer_db.ncaa_awards.find())
     insert_rows(soccer_db.awards, soccer_db.usl_awards.find())
     insert_rows(soccer_db.awards, soccer_db.asl_awards.find())
+    insert_rows(soccer_db.awards, soccer_db.usa_awards.find())
 
     
 

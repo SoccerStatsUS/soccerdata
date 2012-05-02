@@ -32,7 +32,7 @@ def first_load():
 
     load_standings()
 
-
+    load_hall_of_fame()
 
 
     load_positions()
@@ -40,13 +40,11 @@ def first_load():
 
     load_generals()
 
-    load_cups()
-    return
-
-    load_asl()
     load_mls_data()
     load_mls_lineups()
     load_mls_reserve()
+
+    load_asl()
     load_nasl()
 
     load_usl()
@@ -54,9 +52,11 @@ def first_load():
     load_apsl()
     load_partial()
 
-
+    load_cups()
 
     load_ncaa()
+
+
 
     return
 
@@ -103,6 +103,9 @@ def load_generals():
     load_general('chris', 'small_tournaments/dynamo.txt')
     load_general('chris', 'small_tournaments/superliga.txt')
     load_general('chris', 'cups/us_cup')
+
+
+
 
 
 def load_mls_reserve():
@@ -156,6 +159,9 @@ def load_standings():
         f(e)
 
     
+def load_hall_of_fame():
+    from soccerdata.text import halloffame
+    generic_load(soccer_db.usa_awards, halloffame.load_hall_of_fame)
 
 
 
