@@ -1,4 +1,13 @@
 
+stadiums = {
+    'Big Arch Stadium': 'Busch Memorial Stadium',
+    'Rutgers Stadium': 'High Point Solutions Stadium',
+    'Civic Stadium': 'Jeld-Wen Field', # There's another Civic Stadium in Eugene, OR.
+    'Bank One Ballpark': 'Chase Field',
+    'Skelly Field': 'Skelly Field at H. A. Chapman Stadium',
+    'Chapman Stadium': 'Skelly Field at H. A. Chapman Stadium',
+}
+
 states = {
     'AL': 'Alabama',
     'AK': 'Alaska',
