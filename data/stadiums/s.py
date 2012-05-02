@@ -17,7 +17,7 @@ defaults = {
 }
 
 
-mls = [
+mls = [ {
         'stadium': 'Home Depot Center',
         'address': '18400 Avalon Boulevard',
         'location': 'Carson, CA'
@@ -28,8 +28,8 @@ mls = [
         'width': 68.6,
         },
 
-    'Cotton Bowl': {
-        'stadium': 
+        {
+        'stadium': 'Cotton Bowl'l,
         'address': '1300 Robert B. Cullum Boulevard',
         'location': 'Dallas, TX',
         'capacity': 92100,
@@ -38,8 +38,8 @@ mls = [
         },
 
 
-    'Lockhart Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Lockhart Stadium',
         'address': '5201 NW 12th Ave',
         'location': 'Fort Lauderdale, FL',
         'capacity': 20450
@@ -49,8 +49,8 @@ mls = [
 
 
 
-    'Blackbaud Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Blackbaud Stadium',
         'address': '1990 Daniel Island Drive',
         'location': 'Charleston, South Carolina ',
         'capacity': 5100,
@@ -59,8 +59,8 @@ mls = [
         },
 
 
-    'City Stadium': {
-        'stadium': 
+        {
+        'stadium': 'City Stadium',
         'address': '3201 Maplewood Avenue',
         'location': 'Richmond, VA',
         'capacity': 22000,
@@ -69,8 +69,8 @@ mls = [
         },
 
 
-    'Atlanta Silverbacks Park': {
-        'stadium': 
+        {
+        'stadium': 'Atlanta Silverbacks Park',
         'address': '3200 Atlanta Silverbacks Way',
         'location': 'Atlanta, GA',
         'capacity': 5000,
@@ -79,8 +79,8 @@ mls = [
         },
 
 
-    'Columbus Crew Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Columbus Crew Stadium',
         'address': '1 Black and Gold Boulevard',
         'location': 'Columbus, OH',
         'capacity': 20145,
@@ -97,20 +97,20 @@ mls = [
 
 
 
-    'Arrowhead Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Arrowhead Stadium',
         'address': '1 Arrowhead Drive',
         'location': 'Kansas City, MO',
         'capacity': 76416,
-        'opened': 8/12/1972,
+        'opened': datetime.date(1972, 8, 12),
         'cost': 43000000,
         'architect': 'Kivett and Myers',
         },
 
 
 
-    'Cardinal Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Cardinal Stadium',
         'address': '455 South Brainard Street',
         'location': 'Naperville, IL',
         'capacity': 5500,
@@ -118,18 +118,18 @@ mls = [
         },
 
 
-    'CommunityAmerica Ballpark': {
-        'stadium': 
+        {
+        'stadium': 'CommunityAmerica Ballpark',
         'address': '1800 Village West Pkwy',
         'location': 'Kansas City, KS',
         'capacity': 10385,
-        'opened': 6/6/2003,
+        'opened': datetime.date(2003, 6, 6),
         'cost': 12000000,
         'architect': 'Heinlein Schrock Stearns',
         },
 
-    'Dragon Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Dragon Stadium',
         'address': '1085 S Kimball Ave',
         'location': 'Southlake, TX',
         'capacity': 11000,
@@ -137,19 +137,19 @@ mls = [
         'cost': 15000000,
         },
     
-    'FC Dallas Stadium': {
-        'stadium': 
+    {
+        'stadium': 'FC Dallas Stadium',
         'address': '9200 World Cup Way, Ste 202',
         'location': 'Frisco, TX',
         'capacity': 20500,
         'cost': 80000000,
-        'opened': 8/6/2005,
+        'opened': datetime.date(2005, 8, 6),
         'length': 107,
         'width': 68,
         },
 
-    'Rose Bowl': {
-        'stadium': 
+        {
+        'stadium': 'Rose Bowl',
         'address': '1001 Rose Bowl Drive',
         'location': 'Pasadena, CA',
         'capacity': 91136,
@@ -160,47 +160,45 @@ mls = [
         'width': 68,
         },
 
-    'Soldier Field': {
-
-        'stadium': 
+    
+        {
+        'stadium': 'Soldier Field',
         'address': '1410 S Museum Campus Drive',
         'location': 'Chicago, IL',
         'capacity': 61500,
         'cost': 13000000,
-        'opened': 10/9/1924,
+        'opened': datetime.date(1924, 10, 9),
         'architect': 'Holabird & Roche',
         },
 
-    'Giants Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Giants Stadium',
         'address': '50 Route 120',
         'location': 'East Rutherford, NJ',
         'capacity': 80242,
         'cost': 78000000,
-        'opened': 10/10/1976,
-        'closed': 1/3/2010,
+        'opened': datetime.dat(1976, 10, 10),
+        'closed': datetime.date(2010, 1, 3),
         'architect': 'Kivett and Myers',
         },        
 
-    'Ohio Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Ohio Stadium',
         'address': '411 Woody Hayes Drive',
         'location': 'Columbus, OH',
         'capacity': 102329,
         'cost': 1340000,
-        'opened': 10/7/1922,
+        'opened': datetime.date(1922, 10, 7),
         'architect': 'Howard Dwight Smith',
         },        
 
-
-
-    'Toyota Park': {
-        'stadium': 
+        {
+        'stadium':'Toyota Park',
         'address': '7000 South Harlem Avenue',
         'location': 'Chicago, IL',
         'capacity': 20000,
         'cost': 98000000,
-        'opened': 6/11/2006,
+        'opened': datetime.date(2006, 6, 11),
         'architect': 'Rossetti Architects',    
         'length': 120,
         'width': 75,
@@ -208,30 +206,26 @@ mls = [
         },        
 
 
-    'Jeld-Wen Field': {
-        'stadium': 
+        {
+        'stadium': 'Jeld-Wen Field',
         'address': '1844 SW Morrison',
         'location': 'Portland, OR',
         'capacity': 20438,
         'cost': 502000,
-        'opened': 10/9/1926,
+        'opened': datetime.date(1926, 10, 9),
         'architect': 'A. E. Doyle',
         'length': 110,
         'width': 70,
         'measure': 'yards',
         },        
 
-    
-
-
-
-    'Rio Tinto Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Rio Tinto Stadium',
         'address': '9256 South State Street',
         'location': 'Sandy, UT',
-        'capacity': 20213
+        'capacity': 20213,
         'cost': 115000000,
-        'opened': 10/9/2006
+        'opened': datetime.dat(2006, 10, 9),
         'architect': 'Rossetti Architects',
         'length': 120,
         'width': 75,
@@ -239,8 +233,8 @@ mls = [
         },        
 
 
-    'Spartan Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Spartan Stadium',
         'address': '1257 S 10th St',
         'location': 'San José, CA',
         'capacity': 30456, 
@@ -248,18 +242,18 @@ mls = [
         'opened': 1933,
         },        
 
-    'Foxboro Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Foxboro Stadium',
         'address': 'Washington St. (Route 1)',
         'location': 'Foxborough, MA',
         'capacity': 60292,
         'cost': 7100000,
-        'opened': 8/15/1971,
-        'closed': 1/19/2002,
+        'opened': datetime.date(1971, 8, 15),
+        'closed': datetime.date(2002, 1, 19),
         },        
 
-    'Citrus Bowl': {
-        'stadium': 
+        {
+        'stadium': 'Citrus Bowl',
         'address': '1610 W. Church Street',
         'location': 'Orlando, FL',
         'capacity': 70000,
@@ -267,58 +261,52 @@ mls = [
         'opened': 1936,
         },        
 
-    
-
-    'Silverdome': {
-        'stadium': 
+        {
+        'stadium': 'Silverdome',
         'address': '1200 Featherstone Road',
         'location': 'Pontiac, MI',
         'capacity': 70000,
         'cost': 55700000,
-        'opened': 8/23/1975,
+        'opened': datetime.date(1975, 8, 23),
         'architect': 'O\'Dell/Hewlett & Luckenbach',
         },        
 
     
-
-    'Robert F. Kennedy Memorial Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Robert F. Kennedy Memorial Stadium',
         'short_name': 'RFK Stadium',
         'address': '2400 East Capitol St. SE',
         'location': 'Washington, D.C.',
         'capacity': 46000,
-        'cost': 24000000,1
-        'opened': 10/1/1961,
+        'cost': 24000000,
+        'opened': datetime.date(1961, 10, 1),
         },        
 
-    
-
-    'Stanford Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Stanford Stadium',
         'address': '625 Nelson Rd',
         'location': 'Stanford, CA',
         'capacity': 50000,
         'cost': 200000,
-        'opened': 10/1/1921,
-        'renovations': [(9/16/2006, 90000000), ],
-            
+        'opened': datetime.date(1921, 10, 1),
+        'renovations': [(datetime.date(2006, 9, 16), 90000000), ],
         },        
 
     
 
-    'FedEx Field': {
-        'stadium': 
+        {
+        'stadium': 'FedEx Field',
         'address': '1600 FedEx Way',
         'location': 'Landover, MD',
         'capacity': 91000,
         'cost': 250500000
-        'opened': 9/14/1997,
+        'opened': datetime.date(1997, 9, 14),
         },        
 
     
 
-    'WakeMed Soccer Park': {
-        'stadium': 
+        {
+        'stadium': 'WakeMed Soccer Park', 
         'address': '201 Soccer Park Drive',
         'location': 'Cary, NC',
         'capacity': 10000,
@@ -326,17 +314,17 @@ mls = [
         'opened': 2002,
         },        
 
-    'Polo Grounds': {
-        'stadium': 
+        {
+        'stadium': 'Polo Grounds', 
         'address': 'West 155th Street and Eighth Avenue',
         'location': 'Manhattan, NY',
         'capacity': 55000,
-        'opened': 8/19/1890,
+        'opened': datetime.date(1890, 8, 19),
         'closed': 1963,
         },        
 
-    'Veterans Memorial Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Veterans Memorial Stadium',
         'address': '5000 East Lew Davis Street',
         'location': 'Long Beach, CA',
         'capacity': 11600,
@@ -344,8 +332,8 @@ mls = [
         },        
 
 
-    'Varsity Stadium': {
-        'stadium': 
+        {
+        'stadium': 'Varsity Stadium',
         'address': '299 Bloor Street West',
         'location': 'Toronto',
         'opened': 1898,
@@ -353,18 +341,18 @@ mls = [
         },        
 
 
-    'Wrigley Field': {
-        'stadium': 
+        {
+        'stadium': 'Wrigley Field',
         'location': 'Los Angeles, CA',
         'opened': 1925,
         'closed': 1965,
         },        
 
-    'Memorial Coliseum': {
-        'stadium': 
+        {
+        'stadium': 'Memorial Coliseum',
         'address': '3911 South Figueroa Street',
         'location': 'Los Angeles, CA',
-        'opened': 5/1/1923, 
+        'opened': datetime.date(1923, 5, 1),
         'cost': 954872.98
         'capacity': 11600,
         },        
@@ -374,7 +362,7 @@ mls = [
         'address': 'Calzada de Tlalpan 3665'
         'location': 'Mexico City, Mexico',
         'capacity': 104000,
-        'opened': 5/29/1966,
+        'opened': datetime.date(1966, 5, 29),
         'cost': 260000000
         'denomination': 'pesos',
         },        
@@ -383,7 +371,7 @@ mls = [
         'stadium': 'Candlestick Park',
         'address': '490 Jamestown Avenue',
         'location': 'San Francisco, CA',
-        'opened': 4/12/1960,
+        'opened': datetime.date(1960, 4, 12),
         'cost': 15000000,
         'architect': 'John Bolles',
         'capacity': 69732,
@@ -434,8 +422,8 @@ mls = [
         'stadium': 'Busch Memorial Stadium',
         'address': '250 Stadium Plaza',
         'location': 'St. Louis, MO',
-        'opened': 5/12/1966,
-        'closed': 10/19/2005,
+        'opened': datetime.date(1966, 5, 12),
+        'closed': datetime.date(2005, 10, 19),
         'cost': 55000000,
         'architect': 'Sverdrup & Parcel',
         'capacity': 60292,
@@ -444,8 +432,8 @@ mls = [
         'stadium': 'Tampa Stadium',
         'address': '4201 North Dale Mabry Highway',
         'location': 'Tampa, FL',
-        'opened': 11/4/1967,
-        'closed': 9/13/1998,
+        'opened': datetime.date(1967, 11, 4),
+        'closed': datetime.date(1998, 9, 13),
         'cost': 4400000,
         'architect': 'Watson & Company Architects',
         'capacity': 74301,
@@ -455,7 +443,7 @@ mls = [
         'stadium': 'Sports Authority Field at Mile High',
         'address': '1701 Mile High Stadium Circle',
         'location': 'Denver, CO',
-        'opened': 9/10/2001,
+        'opened': datetime.date(2001, 9, 10),
         'cost': 400700000,
         'architect': 'HNTB',
         'capacity': 76125,
@@ -465,8 +453,8 @@ mls = [
         'stadium': 'Mile High Stadium',
         'address': '2755 West 17th Avenue',
         'location': 'Denver, CO',
-        'opened': 8/14/1948,
-        'closed': 12/23/2000,
+        'opened': datetime.date(1948, 8, 14),
+        'closed': datetime.date(2000, 12, 23),
         'cost': 500000,
         'architect': 'Stanley E. Morse',
         'capacity': 76273,
@@ -476,7 +464,7 @@ mls = [
         'stadium': 'Oakland-Alameda County Coliseum'
         'address': '7000 Coliseum Way',
         'location': 'Oakland, CA',
-        'opened': 9/18/1966,
+        'opened': datetime.date(1966, 9, 18),
         'cost': 25500000,
         'architect': 'Skidmore, Owings and Merrill',
         'capacity': 63026,
@@ -486,8 +474,8 @@ mls = [
         'stadium': 'Raymond James Stadium',
         'address': '4201 N. Dale Mabry Highway',
         'location': 'Tampa, FL',
-        'opened': 9/20/1998
-        'cost': 168500000
+        'opened': datetime.date(1998, 9, 20),
+        'cost': 168500000,
         'architect': 'HOK Sport',
         'capacity': 65857,
         },
@@ -496,7 +484,7 @@ mls = [
         'stadium': 'Rice-Eccles Stadium',
         'address': '451 South 1400 East',
         'location': 'Salt Lake City, Utah',
-        'opened': 9/12/1998,
+        'opened': datetime.date(1998, 9, 12),
         'cost': 50000000,
         'architect': 'FFKR Architects',
         'capacity': 45017
@@ -506,7 +494,7 @@ mls = [
         'stadium': 'Robertson Stadium',
         'address': '3874 Holman Street',
         'location': 'Houston, TX',
-        'opened': 8/14/1948,
+        'opened': datetime.date(1948, 8, 14),
         'cost': 650000,
         'architect': 'Harry D. Payne',
         'capacity': 32000,
@@ -525,7 +513,7 @@ mls = [
         'stadium': 'BC Place',
         'address': '777 Pacific Boulevard',
         'location': 'Vancouver',
-        'opened': 6/19/1983,
+        'opened': datetime.date(1983, 6, 19),
         'cost': 126100000
         'denomination': 'Canadian dollars',
         'architect': 'Studio Phillips Barratt, Ltd',
@@ -536,7 +524,7 @@ mls = [
         'stadium': 'Sanford Stadium',
         'address': 'Sanford Dr and Field St',
         'location': 'Athens, GA',
-        'opened': 10/12/1929,
+        'opened': datetime.date(1929, 10, 12),
         'cost': 360000,
         'architect': 'TC Atwood',
         'capacity': 92746,
@@ -546,7 +534,7 @@ mls = [
         'stadium': 'Legion Field',
         'address': '400 Graymont Avenue West',
         'location': 'Birmingham, AL',
-        'opened': 11/19/1927,
+        'opened': datetime.date(1927, 11, 19),
         'cost': 439000,
         'architect': 'D.O. Whildin',
         'capacity': 71594,
@@ -556,7 +544,7 @@ mls = [
         'stadium': 'Cowboys Stadium',
         'address': '1 Legends Way',
         'location': 'Arlington, TX',
-        'opened': 5/27/2009,
+        'opened': datetime.date(2009, 5, 27),
         'cost': 1300000000,
         'architect': 'HKS, Inc.',
         'capacity': 80000,
@@ -566,7 +554,7 @@ mls = [
         'stadium': 'MetLife Stadium',
         'address': 'One MetLife Stadium Drive',
         'location': 'East Rutherford, NJ',
-        'opened': 4/10/2010
+        'opened': datetime.date(2010, 4, 10),
         'cost': 1600000000,
         'architect': '360 Architecture',
         'capacity': 82566,
@@ -576,7 +564,7 @@ mls = [
         'stadium': 'M&T Bank Stadium',
         'address': '1101 Russell Street',
         'location': 'Baltimore, MD',
-        'opened': 9/6/1998,
+        'opened': datetime.date(1998, 9, 6),
         'cost': 220000000,
         'architect': 'HOK Sport',
         'capacity': 71008,
@@ -586,7 +574,7 @@ mls = [
         'stadium': 'Reliant Stadium',
         'address': 'One Reliant Park',
         'location': 'Houston, TX',
-        'opened': 8/24/2002,
+        'opened': datetime.date(2002, 8, 24),
         'cost': 352000000,
         'architect': 'HOK Sport',
         'capacity': 71054,
@@ -596,7 +584,7 @@ mls = [
         'stadium': 'Sun Life Stadium',
         'address': '2267 NW 199th Street',
         'location': 'Miami Gardens, FL',
-        'opened': 12/1/1985,
+        'opened': datetime.date(1985, 12, 1),
         'cost': 115000000,
         'architect': 'HOK Sport',
         'capacity': 74918,
@@ -606,7 +594,7 @@ mls = [
         'stadium': 'Qualcomm Stadium',
         'address': '9449 Friars Road',
         'location': 'San Diego, CA',
-        'opened': 8/20/1967,
+        'opened': datetime.date(1967, 8, 20),
         'cost': 27000000,
         'architect': 'Frank L. Hope and Associates',
         'capacity': 70561,
@@ -616,7 +604,7 @@ mls = [
         'stadium': 'Lincoln Financial Field',
         'address': '1020 Pattison Avenue',
         'location': 'Philadelphia, PA',
-        'opened': 8/3/2003, 
+        'opened': datetime.date(2003, 8, 3),
         'cost': 512000000,
         'architect': 'NBBJ',
         'capacity': 68532,
@@ -649,7 +637,7 @@ mls = [
         'stadium': 'Buck Shaw Stadium',
         'address': '500 El Camino Real',
         'location': 'Santa Clara, CA',
-        'opened': 9/22/1962,
+        'opened': datetime.date(1962, 9, 22),
         'capacity': 10525,
         },
 
@@ -658,7 +646,7 @@ mls = [
         'stadium': 'CenturyLink Field',
         'address': '800 Occidental Ave S',
         'location': 'Seattle, WA',
-        'opened': 7/28/2008
+        'opened': datetime.date(2008, 7, 28),
         'cost': 430000000,
         'architect': 'Ellerbe Becket',
         'capacity': 67000
@@ -668,7 +656,7 @@ mls = [
         'stadium': 'Dick\'s Sporting Goods Park',
         'address': '6000 Victory Way',
         'location': 'Commerce City, CO',
-        'opened': 9/28/2005,
+        'opened': datetime.date(2005, 9, 28),
         'cost': 131000000,
         'architect': 'HOK Sport',
         'capacity': 18086,
@@ -678,7 +666,7 @@ mls = [
         'stadium': 'Livestrong Sporting Park',
         'address': 'One Sporting Way',
         'location': 'Kansas City, KS',
-        'opened': 6/9/2011,
+        'opened': datetime.date(2011, 6, 9),
         'cost': 200000000,
         'architect': 'NBBJ',
         'capacity': 18467,
@@ -688,7 +676,7 @@ mls = [
         'stadium': 'PPL Park',
         'address': '1 Stadium Drive',
         'location': 'Chester, PA',
-        'opened': 6/27/2010,
+        'opened': datetime.date(2010, 6, 27),
         'cost': 120000000,
         'architect': 'Rossetti Architects',
         'capacity': 18500,
@@ -1045,8 +1033,9 @@ mls = [
 
 
     {
-        'stadium': 'Coates Field',
-        'location': 'Pawtucket, RI',
+        'stadium': 'Tara Stadium',
+        'address': '1055 Battle Creek Rd',
+        'location': 'Jonesboro, GA',
         },
 
 
@@ -1300,13 +1289,231 @@ mls = [
         },
 
 
+    {
+        'stadium': 'Coates Field',
+        'location': 'Pawtucket, RI',
+        },
 
 
+    {
+        'stadium': 'Memorial Stadium Baltimore',
+        'address': '900 East 33rd Street',
+        'location': 'Balitmore, MD',
+        'opened': datetime.date(1922, 12, 2),
+        'closed': datetime.date(1997, 12, 14),
+        'cost': 6500000,
+        'capacity': 53371,
+        'architect': 'L.P. Kooken Company',
+        },  
+  {
+        'stadium': 'McMahon Stadium',
+        'address': '1817 Crowchild Trail NW',
+        'location': 'Calgary, Alberta',
+        'opened': 1960,
+        'cost': 1050000,
+        'denomination': 'Canadian dollars',
+        'capacity': 35650,
+        'architect': 'Rule Wynn and Rule',
+        },  
+  {
+        'stadium': 'Memorial Stadium Baltimore',
+        'address': '900 East 33rd Street',
+        'location': 'Balitmore, MD',
+        'opened': datetime.date(1922, 12, 2),
+        'closed': datetime.date(1997, 12, 14),
+        'cost': 6500000,
+        'capacity': 53371,
+        'architect': 'L.P. Kooken Company',
+        }, 
+   {
+        'stadium': 'Memorial Stadium Baltimore',
+        'address': '900 East 33rd Street',
+        'location': 'Balitmore, MD',
+        'opened': datetime.date(1922, 12, 2),
+        'closed': datetime.date(1997, 12, 14),
+        'cost': 6500000,
+        'capacity': 53371,
+        'architect': 'L.P. Kooken Company',
+        },
 
-    
 
-
+    {
+        'stadium': 'Cleveland Stadium',
+        'address': '1085 West 3rd Street',
+        'location': 'Cleveland, OH',
+        'opened': datetime.date(1931, 7, 1),
+        'closed': datetime.date(1995, 12, 17),
+        'cost': 3000000,
+        'architect': 'Walker & Weeks',
+        'capacity': 81000,
+        },
+    {
+        'address': '10000 Hillcrest',
+        'stadium': 'Franklin Stadium',
+        'location': 'Dallas, TX',
+        'opened': 1954,
+        'capacity': 8500,
+        },
+    {
+        'stadium': 'Ownby Stadium',
+        'address': '5800 Ownby Dr',
+        'location': 'Dallas, TX',
+        'opened': 1926,
+        'closed': 1988,
+        'capacity': 23783,
         
+        },
+    {
+        'stadium': 'Tigers Stadium',
+        'address': '2121 Trumbull Street',
+        'location': 'Detroit, MI',
+        'opened': datetime.date(1912, 4, 20),
+        'closed': datetime.date(1999, 9, 27),
+        'capacity': 52416,
+        'architect': 'Osborn Engineering',
+        'cost': 300000,
+        },
+    {
+        'stadium': 'Gator Bowl',
+        'address': '1 Gator Bowl Boulevard',
+        'location': 'Jacksonville, FL',
+        'opened': 1928,
+        'closed': 1994,
+        'capacity': 80126,
+        },
+    {
+        'stadium': 'Kansas City Municipal Stadium',
+        'address'; '22nd St. and Brooklyn Ave',
+        'location': 'Kansas City, MO',
+        'opened': datetime.date(1923, 7, 3),
+        'closed': 1976,
+        'cost': 400000,
+        'architect': 'Osborn Engineering',
+        'capacity': 35561,
+        },
+    {
+        'stadium': 'Metrodome',
+        'address'; '900 South 5th Street',2
+        'location': 'Minneapolis, MN',
+        'opened': datetime.date(1982, 4, 3),
+        'cost': 68000000,
+        'architect': 'Skidmore, Owings & Merrill',
+        'capacity': 64111,
+        },
+    {
+        'stadium': 'Miami Orange Bowl',
+        'address'; '1501 NW 3rd Street',
+        'location': 'Miami, FL',
+        'opened': datetime.date(1937, 12, 10),
+        'closed': datetime.date(2008, 1, 26),
+        'cost': 340000,
+        'capacity': 72319,
+        },
+    {
+        'stadium': 'Tamiami Park',
+        'address'; '11201 Southwest 24th Street',
+        'location': 'Miami, FL',
+        },
+    {
+        'stadium': 'Autostade',
+        'address'; '475 av. Des Pins Ouest',
+        'location': 'Montreal',
+        'capacity': 33172,
+        },
+    {
+        'stadium': 'Olympic Stadium',
+        'address'; '4545 Pierre de Coubertin Avenue',
+        'location': 'Montreal, Quebec',
+        'opened': datetime.date(1973, 4, 28)
+        'cost': 770000000,
+        'denomination': 'Canadian Dollars',
+        'architect': 'Roger Taillibert',
+        'capacity': 66308,
+        },
+    {
+        'stadium': 'Holleder Memorial Stadium',
+        'location': 'Rochester, NY',
+        'capacity': 20000,
+        },
+    {
+        'stadium': 'Valley View Casino Center',
+        'address'; '3500 Sports Arena Boulevard',
+        'location': 'San Diego, CA',
+        'opened': datetime.date(1965, 11, 18),
+        'cost': 6400000,
+        'architect': 'Mark L. Faddis',
+        'capacity': 12000,
+        },
+    {
+        'stadium': 'Aztec Bowl',
+        'address'; '5300 Campanile Dr',
+        'location': 'San Diego, CA',
+        'opened': datetime.date(1936, 10, 3),
+        },
+
+
+    {
+        'stadium': 'Sam Boyd Stadium',
+        'address'; '7000 East Russell Road',
+        'location': 'Las Vegas, NV',
+        'opened': datetime.date(1971, 10, 23),
+        'cost': 3500000,
+        'capacity': 36800,
+        },
+
+
+    {
+        'stadium': 'Liberty Bowl Memorial Stadium',
+        'address'; '335 South Hollywood Street',
+        'location': 'Memphis, TN',
+        'opened': datetime.date(1965, 9, 16)
+        'cost': 3700000,
+        'architect': 'Yeates, Gaskill & Rhodes',
+        'capacity': 61008,
+        },
+
+
+    {
+        'stadium': 'Alamo Stadium',
+        'address'; '110 Tuleta Dr',
+        'location': 'San Antonio, TX',
+        'opened': 1940,
+        'cost': 500000,
+        'architect': 'Phelps & Dewees & Simmons',
+        'capacity': 23000,
+        },
+
+
+    {
+        'stadium': 'Aloha Stadium',
+        'address'; '99-500 Salt Lake Blvd',
+        'location': 'Honolulu, HI',
+        'opened': datetime.date(1975, 9, 12),
+        'cost': 3700000,
+        'architect': 'The Luckman Partnership',
+        'capacity': 50000,
+        },
+
+
+    {
+        'stadium': 'Kansas City Municipal Stadium',
+        'address'; '22nd St. and Brooklyn Ave',
+        'location': 'Kansas City, MO',
+        'opened': datetime.date(1923, 7, 3),
+        'closed': 1976,
+        'cost': 400000,
+        'architect': 'Osborn Engineering',
+        'capacity': 35561,
+        },
+
+
+
+
+
+
+    
+
+]        
 
     
 
@@ -1314,8 +1521,3 @@ mls = [
     
 
 
-
-
-
-
-; 
