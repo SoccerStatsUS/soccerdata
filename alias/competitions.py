@@ -11,5 +11,8 @@ competitions = {
 
 
 def get_competition(s):
+    if s is None:
+        return None
+    
     s = s.strip()
     return competitions.get(s, s)
