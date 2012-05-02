@@ -66,7 +66,7 @@ def generate_standings(games):
         t = (team, game['competition'], game['season'])
         if t not in d:
             d[t] = {
-                'name': team,
+                'team': team,
                 'competition': t[1],
                 'season': t[2],
                 'wins': 0,
