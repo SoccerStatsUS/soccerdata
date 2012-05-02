@@ -29,7 +29,7 @@ def make_team_to_competition_dict():
 
     d = {}
     for e in soccer_db.chris_standings.find():
-        key = (e['name'], e['season'])
+        key = (e['team'], e['season'])
         if key not in d:
             d[key] = [e['competition']]
     return d

@@ -291,9 +291,9 @@ def get_standings_dict():
     for e in soccer_db.standings.find():
         key = (e['competition'], e['season'])
         if key not in d:
-            d[key] = [e['name']]
+            d[key] = [e['team']]
         else:
-            d[key].append(e['name'])
+            d[key].append(e['team'])
     return d
 
 
