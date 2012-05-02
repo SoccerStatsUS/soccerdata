@@ -71,6 +71,10 @@ class GeneralProcessor(object):
             self.competition = line.split("Competition:")[1].strip()
             return
 
+
+        if line.startswith("Round"):
+            return
+
         # Need to implement fully.
         if line.startswith("Source:"): 
             self.source = line.split("Source:")[1].strip()
