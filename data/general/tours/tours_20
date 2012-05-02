@@ -68,7 +68,10 @@ Competition: Domestic Tour
 9/12/1926;  Sparta 6; New York Giants 0; New York City
 9/19/1926;  Sparta 2; Fall River F.C. 3; Fall River
 9/26/1926;  Sparta 6; Ohio Stars 2; Cleveland
-10/4/1926;  Sparta 1; Chicago Stars 0; Chicago, IL
+
+10/3/1926;  Sparta 1; Chicago Stars 0; Soldier Field, Chicago, IL; 30000
+* Fixed date (off by a day), added times.
+
 10/10/1926; Sparta 4; Ulster United 4; Toronto
 10/17/1926; Sparta 5; St. Louis Stars 3; St. Louis
 10/23/1926; Sparta 9; Sparta F.C. 0; Chicago
