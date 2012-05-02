@@ -3,7 +3,7 @@ Score type: colon-delimited
 
 Season: 1920
 
-* First Round
+Round: First Round
 
 * Southern New York
 11/2/1919; Robins Dry Dock; 3 : 2; Morse Dry Bock
@@ -55,7 +55,7 @@ Season: 1920
 11/3/1919; Magyar FC (Illinois); 0 : 6; Palmer Park
 11/3/1919; Chicago Bricklayers; 3 : 1; Rangers AC
 
-* Second Round
+Round: Second Round
 
 * Southern New York & New Jersey
 11/27/1919; New York FC; 1 : 0; Paterson FC
@@ -111,7 +111,7 @@ Season: 1920
 ; Ben Miller FC; 6 : 1; Innisfalls FC
 ; Scullin Steel; 3 : 1; St. Louis Screw
 
-* Third Round
+Round: Third Round
 
 * Eastern Bracket
 12/24/1919; Robins Dry Dock; 3 : 1; Tebo Yacht Bason
@@ -138,7 +138,7 @@ Season: 1920
 3/29/1920; Pontiac City; 0 : 8; Caledonia FC
 ; Bricklayers FC (Chi.);  w/o; Lincoln Park FC
 
-* Fourth Round
+Round: Fourth Round
 
 * Eastern Bracket
 3/20/1920; Bethlehem Steel; 10 : 0; Wanderers FC
@@ -152,13 +152,13 @@ Season: 1920
 3/28/1920; Bricklayers & Masons; 1 : 2; Olympia FC
 ; Packard FC; 3 : 2; Caledonia FC
 
-* Quarterfinals
+Round: Quarterfinals
 4/4/1920; Robins Dry Dock; 1 : 0; Bethlehem Steel
 4/5/1920; Ben Miller FC; 2 : 1; Olympia FC
 4/5/1920; Fore River Rovers; 3 : 0; New York FC
 4/23/1920; Packard FC; 5 : 1; Rochester City Moose
 
-* Semifinals
+Round: Semifinals
 4/10/1920; Fore River Rovers; 2 : 0; Robins Dry Dock
 
 4/25/1920; Ben Miller FC; 4 : 2; Packard FC; Federal League Park, St. Louis, MO; 5000
@@ -166,7 +166,7 @@ Rube Potee, Rube Potee, Larry Riley, Larry Riley; Johnston, John Hunter
 Ben Miller FC: McGarry, Lancaster, Shea, Johnny Redden, Bill Quinn, Johnston, Al McHenry, Larry Riley, Jimmy Dunn, Rube Potee, Rooney
 Packard FC: Roberts, Rennie, Barrie, Ramsay, Goodwillie, Mair, Christie, Hall, John Hunter, Allen, Bob Mercer
 
-* Final 
+Round: Final 
 5/8/1920; Ben Miller FC; 2 : 1; Fore River Rovers; Handlan’s Park, St. Louis, Missouri; 12000
 Hap Marre 22, Jimmy Dunn 62; Jack Kershaw
 Ben Miller FC: McGarry, Lancaster, Johnston, Johnny Redden, Bill Quinn, O'Hanlon, Al McHenry, Larry Riley, Jimmy Dunn, Hap Marre, Rube Potee
@@ -175,7 +175,7 @@ Fore River Rovers: James Lambie, William Parkinson, Thomas Littlejohn, William D
 
 Season: 1921
 
-* First Round
+Round: First Round
 
 * Eastern Bracket
 
@@ -225,7 +225,7 @@ Season: 1921
 * Western Pennsylvania
 10/17/1920; Dunlevy S.C.; 2 : 0; H.R. Gieb Trainworks
 
-* Second Round
+Round: Second Round
 
 * Eastern Bracket
 
@@ -294,7 +294,7 @@ Season: 1921
 11/25/1920; St. Louis Screw; 3 : 3; Scullin Screw
 *St. Louis Screw disqualified for ineligible players, Scullin Screw awarded match
 
-* Third Round
+Round: Third Round
 
 * Eastern Bracket
 11/25/1920; Tebo Yacht Basin; 8 : 2; Ansonia FC
@@ -316,7 +316,7 @@ Season: 1921
 11/28/1920; Roses FC; 3 : 0;  Ulster FC
 12/12/1920; Innisfall FC; 1 : 3; Scullin Steel
 
-* Fourth Round
+Round: Fourth Round
 
 * Eastern Bracket
 12/18/1920; Fore River FC; 3 : 1; Fall River Rovers
@@ -332,7 +332,7 @@ Season: 1921
 12/25/1920; Scullin Steel; 3 : 0; Madison SC
 12/26/1920; Goodrich FC; w/o; Kodak Park FC
 
-* Quarterfinals
+Round: Quarterfinals
 12/23/1920; Caledonia FC; 2 : 1;   Goodrich FC
 1/15/1921; Tebo Yacht Basin; 3 : 1;  Fairlawn Rovers
 1/23/1921; Chicago Bricklayers; 1 : 1;  Scullin Steel
@@ -341,11 +341,11 @@ Season: 1921
 *replay ordered after Bricklayers protest was upheld
 3/6/1921; Scullin Steel; 2 : 0; Chicago Bricklayers
 
-* Semifinals
+Round: Semifinals
 3/12/1921; Scullin Steel; 2 : 1; Caledonia FC
 3/27/1921; Robins Dry Dock; 3 : 0; Tebo Yacht Basin
 
-* Final 
+Round: Final 
 4/19/1921; Robins Dry Dock; 4 : 2; Scullin Steel; Fall River Athletic Field, Fall River, Massachusetts; 8000
 Jack McGuire, Robert Hosie, Peter Sweeney, George McKelvey; Charlie Bechtold, Charlie Bechtold
 Robins Dry Dock: Pete Renzulli, Tore Sundberg, Brownlie, Fred Beardsworth, Neil Clarke, Joseph Irvine, George McKelvey, Jack McGuire, Harry Ratican, Robert Hosie, Peter Sweeney
@@ -357,7 +357,7 @@ Scullin Steel: Joe Hennessy, Al Oberle, A.J. Brady, O'Hanlon, Len Zeuschel, Burk
 
 Season: 1922
 
-* Preliminary Round
+Round: Preliminary Round
 
 * Conencticut
 10/9/1921; Danersk FC; 2 : 2; Stamford FC
@@ -377,7 +377,7 @@ Season: 1922
 * Northwestern New York
 10/9/1921; Camera Works FC; 2 : 1; Kodak Park FC
 
-* First Round
+Round: First Round
 
 * Eastern Bracket
 
@@ -463,7 +463,7 @@ Season: 1922
 10/16/1921; Curry FC; 1 : 3; Dunlevy
 
 
-* Second Round
+Round: Second Round
 
 * Southern New York
 11/5/1921; New York Field Club; 5 : 1; Fairhill
@@ -528,7 +528,7 @@ Season: 1922
 * 12/4/1921; White Motors; Cuddy
 * Match awarded to White Motors
 
-* Third Round
+Round: Third Round
 
 * Eastern Bracket
 11/26/1921; Fall River FC; 1 : 2; J & P Coats
@@ -555,7 +555,7 @@ Season: 1922
 12/11/1921; Gillespie; 1 : 1; Caledonia FC
 12/18/1921; Caledonia FC; 6 : 0; Gillespie
 
-* Fourth Round
+Round: Fourth Round
 
 * Eastern Bracket
 12/24/1921; J & P Coats; 3 : 4; Hoyloke Falco
@@ -570,18 +570,17 @@ Season: 1922
 12/25/1921; Pullman FC; 3 : 2 (aet); Simco FC
 12/18/1921; Scullin Steel; 3 : 0; Ben Miller FC
 
-
-* Quarterfinals
+Round: Quarterfinals
 1/1/1922; Scullin Steel; 3 : 0; Pullman FC
 1/15/1922; Caledonia FC; 3 : 2; Arden FC
 2/5/1922; Abbot Worsted; 3 : 1; Holyoke Falco
 2/12/1922; Harrison SC; 0 : 1; Todd Shipyard
 
-* Semifinals
+Round: Semifinals
 1/22/1922; Scullin Steel; 4 : 0; Caledonia FC
 2/25/1922; Todd Shipyards; 2 : 1; Abbot Worsted
 
-* Final 
+Round: Final 
 3/19/1922; Scullin Steel; 3 : 2; Todd Shipyards; High School Field, St. Louis, Missouri; 8000
 Cliff Brady, Allie Schwarz, Allie Schwarz; Jack McGuire, Jack McGuire
 Scullin Steel: Harry Oellerman, Tate Brady, George Bentley, Jimmy Nolan, Len Zeuschel, Joe Hennessey, Emmet Mulvey, Dike Brannigan, Allie Schwarz, Cliff Brady, Charles Bechtold
@@ -590,7 +589,7 @@ Todd Shipyards: Pete Renzulli, W. Whitehead, Adam Smith, Joseph Irvine, James Ca
 
 Season: 1923
 
-* Preliminary Round
+Round: Preliminary Round
 
 * Eastern Pennsylvania
 10/8/1922; Ascension FC; 1 : 0; Hibernians FC
@@ -604,7 +603,7 @@ Season: 1923
 * Northwestern New York
 10/8/1922; Kodak Park FC;  w/o; General Electric (Erie)
 
-* First Round
+Round: First Round
 
 * Eastern Bracket
 
@@ -713,7 +712,7 @@ Season: 1923
 10/29/1922; White Motor FC; 1 : 0; Feador Athletic
 
 
-* Second Round
+Round: Second Round
 
 * Eastern Bracket
 
@@ -775,7 +774,7 @@ Season: 1923
 11/5/1922; Kodak Park FC; 1 : 0; Rochester City Moose
 
 
-* Third Round
+Round: Third Round
 
 * Eastern Bracket
 11/25/1922; Bethlehem Steel; 3 : 0; Fairhill FC
@@ -816,18 +815,18 @@ Minutes: 75
 12/25/1922; Jeanette FC; 3 : 1;  Walkerville FC
 1/14/1923; Scullin Steel; 3 : 1; St. Leo’s
 
-* Quarterfinals
+Round: Quarterfinals
 1/28/1923; Scullin Steel; 3 : 1 (aet); Chicago Bricklayers
 2/12/1923;  Arden FC; 1 : 0; Jeanette FC
 3/3/1923; J & P Coats;1 : 0; Abbot Worsted
 3/11/1923; Paterson Silk Sox; 0 : 0; New York Field Club
 3/18/1923; Paterson Silk Sox; 4 : 1; New York Field Club
 
-* Semifinals
+Round: Semifinals
 2/25/1923; Scullin Steel; 2 : 1; Arden FC
 3/25/1923; Paterson Silk Sox; 3 : 2; J & P Coats
 
-* Final 
+Round: Final 
 4/1/1923; Paterson Silk Sox; 2 : 2 (aet); Scullin Steel; Harrison Field, Harrison, New Jersey; 15000
 * Championship awarded to Paterson when Scullin were unable to field a team for the replay, due to injuries and players under baseball contracts beginning the baseball season
 * Oellerman, Brannigan, Mulvey and Rooney departed for baseball camp
@@ -840,7 +839,7 @@ Scullin Steel: Harry Oellerman, Al Oberle, Brady, Joe Hennessey, Len Zeuschel, D
 
 Season: 1924
 
-* Third Round
+Round: Third Round
 
 * Eastern Bracket
 12/1/1923; Bethlehem Steel; 5 : 0; Philadelphia Field Club
@@ -878,22 +877,21 @@ Season: 1924
 1/14/1924; Thistle FC; 1 : 2; Chicago Bricklayers & Masons
 ; Toledo FC; L : W; Celtic FC
 
-* Quarterfinals
+Round: Quarterfinals
 1/19/1924; Fall River Marksmen; 2 : 1; Abbot Worsted
 1/26/1924; Bethlehem Steel; 1 : 1 (aet); Newark Skeeters
 2/1/1924; Bethlehem Steel; 6 : 0; Newark Skeeters
 2/10/1924; Vesper Buick; 7 : 1; Goodyear FC
 3/2/1924; Chicago Bricklayers & Masons; 1 : 0; Celtic FC
 
-* Semifinals
+Round: Semifinals
 3/9/1924; Fall River Marksmen; 2 : 0; Bethlehem Steel
 3/16/1924; Vesper Buick; 5 : 0; Chicago Bricklayers & Masons; St. Louis
 Wimer, Becker, Harris, Harris, Harris; 
 Vesper Buick: Charles LaBarge, Fitzgerald, Scott, Oster, Burke, Gockel, McCarthy, Becker, Corrigan, Harris, Wimer
 Chicago Bricklayers & Masons: Watson, A. Cant, G. Cant, Jackson, Quinn, McKenzie, R. Walker, Clem Cuthbert, Ambler, Davie Coutts, A. Walker
 
-
-* Final 
+Round: Final 
 3/30/1924; Fall River Marksmen; 4 : 2; Vesper Buick; High School Field, St. Louis, Missouri; 14000
 Harris, McCarthy; Morley, Morley, Reid, Brittan
 Vesper Buick: Charles LaBarge, Scott, Fitzgerald, Gockel, Burke, Oster, Wimer, Harris, Corrigan, Becker, McCarthy
@@ -904,7 +902,7 @@ Fall River Marksmen: Findlay Kerr, Tate, Kemp, McPherson, Raeside, McGowan, Camp
 
 Season: 1925
 
-*First Round
+Round: First Round
 
 *Eastern Bracket
 2/14/1925; Abbot Worsted; 2 : 0; Fore River FC
@@ -926,7 +924,7 @@ Season: 1925
 2/8/1925; Olympia FC (Chi.); 2 : 0; Chicago Bricklayers & Masons
 2/8/1925; Toledo SC; 2 : 1; Gar Wood FC
 
-*Second Round
+Round: Second Round
 
 *Eastern Bracket
 
@@ -943,7 +941,7 @@ Season: 1925
 2/15/1925; Thistles FC; 2 : 0; Goodyear FC
 2/15/1925; Vestaburg FC; 2 : 1; Toledo SC
 
-* Quarterfinals
+Round: Quarterfinals
 3/1/1925; Chicago Canadian Club; 1 : 1; Harvey FC
 3/8/1925; Chicago Canadian Club; 1 : 1; Harvey FC
 3/15/1925; Chicago Canadian Club; 1 : 0;  Harvey FC
@@ -951,12 +949,12 @@ Season: 1925
 3/21/1925; Shawsheen Indians; 2 : 0;  Bayonne FC
 3/21/1925; Abbot Worsted; 3 : 2; Sayles Finishing Plant
 
-* Semifinals
+Round: Semifinals
 3/22/1925; Chicago Canadian Club; 2 : 1; Thistles FC
 4/4/1925; Shawsheen Indians; 2 : 1; Abbot Worsted
 
 
-* Final 
+Round: Final 
 4/19/1925; Shawsheen Indians; 3 : 0; Chicago Canadian Club; Mark’s Stadium, Tiverton, Rhode Island; 2500
 Carrie, Carrie, Purden;
 Shawsheen Indians: Thomas Murdoch, Bill Ross, David Mills, Andrew Nixon, William Thomson, Fred Watkins, Robert Blyth, Peter Purden, Alex Carrie, Edmund Smith, Alexander Edwards
@@ -966,7 +964,7 @@ Chicago Canadian Club: Vic Neate, Bob Hannah, Houghton, Red Anderson, Corbett, R
 
 Season: 1926
 
-* First Round
+Round: First Round
 
 * Eastern Bracket
 1/16/1926; Boston Wonder Workers; 2 : 1; Fore River FC
@@ -992,7 +990,7 @@ Season: 1926
 1/24/1926; Ben Miller FC; 3 : 1; Magyar American FC
 
 
-* Second Round
+Round: Second Round
 
 * Eastern Bracket
 2/13/1926; Philadelphia Field Club; 1 : 2; Bethlehem Steel
@@ -1010,21 +1008,21 @@ Season: 1926
 2/14/1927; Chicago Canadian Club; 1 : 1 (aet); Olympia FC
 2/21/1926; Chicago Canadian Club; 6 : 3; Olympia FC
 
-* Quarterfinals
+Round: Quarterfinals
 2/28/1926; Boston Wonder Workers; 3 : 5; J & P Coats
 3/7/1926; Ben Miller FC; 2 : 0; Vesper Buick; St. Louis, MO
 3/14/1926; New York Giants; 1 : 2;  Bethlehem Steel
 3/14/1926; Chicago Canadian Club; 1 : 1 (aet); Pullman FC
 3/21/1926; Chicago Canadian Club; 3 : 0; Pullman FC
 
-* Semifinals
+Round: Semifinals
 3/21/1926; J & P Coats; 1 : 3; Bethlehem Steel
 3/28/1926; Ben Miller FC; 2 : 0; Chicago Canadian Club; St. Louis, MO; 6600
 Bollam, Jimmy Dunn; 
 Ben Miller FC: David Barnett, Thomas Erbe, Timothy Daley, Cook, Peterson, Raphael Tracey, E. Dunn, George Bollam, J. Dunn, Benjamin Nash, James Mulroy
 Chicago Canadian Club: Neate, King, Anderson, Bain, Adams, Reid, MacLean, Blair, Carroll, Erskine, Edwards
 
-* Final 
+Round: Final 
 4/11/1926; Bethlehem Steel; 7 : 2; Ben Miller FC; Ebbets Field, Brooklyn, New York; 18000
 Archie Stark, Archie Stark, Archie Stark, Johnny Rollo, Johnny Jaap, Robert McDonald, Malcolm Goldie; Benjamin Nash, Benjamin Nash
 Bethlehem Steel: Dave Carson, Joe Berryman, Billy Allen, Robert McDonald, Bill Carnihan, Bob McGregor, Johnny Jaap, Granger, Archie Stark, Johnny Rollo, Malcolm Goldie
@@ -1033,7 +1031,7 @@ Ben Miller FC: David Barnett, Thomas Erbe, Timothy Daley, Eddie Croak, A. Peters
 
 Season: 1927
 
-* First Round
+Round: First Round
 
 * Eastern Bracket
 3/17/1927; Brooklyn Wanderers; 1 : 2; Newark Skeeters
@@ -1065,7 +1063,7 @@ Philadelphia Field Club: Harry Pearce, Johnny Reid, Billy Connors, Duffy, John F
 2/27/1927; Cleveland American Hungarian FC; 3 : 2; Magyar American FC
 2/27/1927; MacKenzie FC (Akron); 4 : 0; Lorain Eagles
 
-* Second Round
+Round: Second Round
 
 * Eastern Bracket
 4/3/1927; Fall River Marksmen; 5 : 0; Fore River FC
@@ -1079,18 +1077,18 @@ Philadelphia Field Club: Harry Pearce, Johnny Reid, Billy Connors, Duffy, John F
 3/20/1927; Sparta ABA; 2 : 1; Chicago Bricklayers
 3/13/1927; Ben Miller FC; 4 : 2; Wellston FC
 
-* Quarterfinals
+Round: Quarterfinals
 4/3/1927; Holley Carburetor; 4 : 2; Cleveland American Hungarian FC
 4/3/1927; Ben Miller FC; 2 : 2(aet); Sparta ABA
 4/10/1927; Sparta ABA; 1 : 0; Ben Miller FC
 4/10/1927; Bethlehem Steel; 1 : 0; Newark Skeeters
 4/17/1927; Fall River Marksmen; 3 : 2 (aet); Providence Clamdiggers
 
-* Semifinals
+Round: Semifinals
 4/18/1927; Sparta ABA; 1 : 2; Holley Carburetor
 4/24/1927; Fall River Marksmen; 2 : 1; Bethlehem Steel
 
-* Final
+Round: Final
 5/1/1927; Fall River Marksmen; 7 : 0; Holley Carburetor; University of Detroit Stadium, Detroit, Michigan; 10000
 White, White, McEachran, McEachran, Campbell, Brittan, Kelly; 
 Holley Carburetor: Dick, Hayston, Boath, Gallagher, Dalrymple, Stewart, Forrester, Connolly, Gerrit Visser, Rutherford, Love
@@ -1101,7 +1099,7 @@ Fall River Marksmen: Blair, Charlie McGill, Gibson, Bill McPherson, Bob Wilson, 
 
 Season: 1928
 
-* First Round
+Round: First Round
 * Eastern Bracket
 1/14/1928; Boston Wonder Workers; 3 : 0; Whittall Carpet Mills
 1/14/1928; New Bedford Whalers; 2 : 1; J & P Coats
@@ -1129,7 +1127,7 @@ Danersk FC (CT): Davidson, Whyte, Jones, Smith, Stewart, McGurk, Lees, Johnstone
 1/23/1928; Vienna FC (Chi.); 1 : 0; Thistle FC (Chi.)
 1/22/1928; Sparta ABA; 2 : 0; Olympia FC (Chi.)
 
-* Second Round
+Round: Second Round
 
 * Eastern Bracket
 1/28/1928; J & P Coats; 1 : 0; Providence Clamdiggers; Lonsdale Avenue Grounds, Pawtucket, RI; Robert Carroll, Catto, Johnson
@@ -1155,7 +1153,7 @@ Magyar American FC: Ramsay, Burton, McElligott, S. Scott, W. Scott, R. Dickie, C
 
 2/5/1928; Holley Carburetor; 3 : 4 (aet); Sparta ABA
 
-* Quarterfinals
+Round: Quarterfinals
 2/26/1928; Brooklyn Wanderers; 0 : 1; New York Nationals
 2/26/1928; J & P Coats; 2 : 1; Fall River Marksmen
 2/26/1928; Ben Miller FC; 4 : 3 (aet); Cleveland American Hungarians; St. Louis, MO 
@@ -1166,7 +1164,7 @@ Cleveland American Hungarians: Ramsay, Burton, McElligott, S. Scott, W. Scott, D
 
 2/26/1928; Chicago Bricklayers; 1 : 0; Sparta ABA
 
-* Semifinals
+Round: Semifinals
 3/18/1928; New York Nationals; 5 : 3; J & P Coats
 
 3/18/1928; Ben Miller FC; 0 : 2 ; Chicago Bricklayers; Sportsman's Park, St. Louis, MO; 9000
@@ -1175,7 +1173,7 @@ Ben Miller FC: David Bartnett, Thomas Erbe, Vaughn, Eddie Croak, George Schweppe
 Chicago Bricklayers: McEwan, Woods, Scott, T. Hill, Quinn, Thompason, Davie Coutts, McLean, Phillips, Clem Cuthbert, Walker
 
 
-* Final
+Round: Final
 
 4/9/1928; New York Nationals; 1 : 1(aet); Chicago Bricklayers; Polo Grounds, New York, New York; 16000
 Wortmann 30; Cuthbert 8
@@ -1190,7 +1188,7 @@ New York Nationals: Pete Renzulli, Warden, Donald, Chatton, Slaven, Martyn, Walk
 
 Season: 1929
 
-* First Round     
+Round: First Round     
 
 * Eastern Bracket
 2/3/1929; Waterbury (CT); 1 : 6; Walsh Chevrolet (Fall River)    
@@ -1213,7 +1211,7 @@ Season: 1929
 12/23/1928; Thistles FC (Chi.); 1 : 1 (aet); Olympia (Chi.) 
 ; Thistles FC; W : L; Olympia        
 
-* Second Round         
+Round: Second Round         
 
 * Eastern Bracket
 2/16/1929; Bethlehem Steel; 5 : 0;   Walsh Chevrolet 
@@ -1227,18 +1225,18 @@ Season: 1929
 2/24/1929; New York Giants; 8 : 0; Trenton FC      
 2/24/1929; Sparta ABA; 7 : 0; All Scots FC    
 
-* Quarterfinals                      
+Round: Quarterfinals                      
 3/3/1929; New York Giants; 2 : 2; Bethlehem Steel 
 3/9/1929; Bethlehem Steel; 2 : 6; New York Giants       
 3/3/1929; Sparta ABA; 3 : 1 (aet); Chicago Bricklayers
 3/17/1929; Hakoah All Stars; 3 : 2; Newark Portuguese 
 3/10/1929; Madison Kennels; 5 : 1; Holley Carburetor  
 
-* Semifinals                                                
+Round: Semifinals                                                
 3/17/1929; Madison Kennels; 7 : 4; Sparta ABA   
 3/24/1929; Hakoah All Stars; 1 : 0; New York Giants 
 
-* Final                                                                   
+Round: Final                                                                   
 3/31/1929; Madison Kennels; 0 : 2; Hakoah All Stars; Sportsman’s Park, St.Louis, Missouri; 18000
 ; Eisenhoffer 80, Wortmann 82
 Madison Kennels: Charles LaBarge, Gockel, Handley, Fink, Burke, Oster, Grenon, Worden, Flavin, Moore, Hanson

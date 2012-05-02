@@ -3,27 +3,27 @@ Score type: colon-delimited
 
 Season: 1950
 
-* QUARTERFINALS
+Round: Quarterfinals
 2/26/1950; Brookhattan; 2:4; Ponta Delgada
 ; Philadelphia National; W:L; ??
 3/5/1950;Simpkins Ford; 5:0; AAC Eagles
 3/5/1950; Morgan Strasser; 2:0; Castle Shannon
 
-* SEMIFINALS
+Round: Semifinals
 ; Ponta Delgada; 2:1; Philadelphia Nationals
 3/12/1950; Philadelphia Nationals; 1:1; Ponta Delgada
 3/26/1950; Simpkins Ford; 4:1; Morgan Strasser
 4/9/1950; Morgan Strasser; 0:2; Simpkins Ford
 
-* FINAL 
-4/22/1950; Ponta Delgada; 0:2; Simpkins Ford; St. Louis, MO   ; 2501
+Round: Final
+4/22/1950; Ponta Delgada; 0:2; Simpkins Ford; St. Louis, MO; 2501
 ; Gino Pariani, Bill Bertani
 Simpkins Ford: Frank Borghi, Galimberti, Annis, Lange, Colombo, Desmuke, Randazzo, Gino Pariani, Bill Bertani, Barrale, Wallace 
 * Subs: McHugh, Stein, Dubois
 Ponta Delgada: Kitchen, Rego, Andrews, Jesse Braga, Joe Ferreira, DeNardo, Frank Moniz, Travis, Ed Souza, John Souza, Millington 
 * Subs: Medeiros, Francini, Gianotti
 
-5/7/1950; Simpkins Ford; 1:1; Ponta Delgada; Tiverton, RI; 3310
+5/7/1950; Simpkins Ford; 1:1; Ponta Delgada; Mark's Stadium, Tiverton, RI; 3310
 Buddy Marshak 85; Eddie Souza 20 (PK)
 Ponta Delgada: Kitchen, Rego, Andress, Jesse Braga, Joe Ferreira (Medeiros), DeNardo, Tavis (Giannotti), Ed Souza, Frank Moniz, John Souza, Millington
 Simpkins Ford: Frank Borghi, Galimberti, Annis, Lange (Mungavero, McHugh), Colombo, Desmuke, Randazzo, Pariani, Stein (Marshall), Barrale, Wallace
@@ -32,19 +32,19 @@ Simpkins Ford: Frank Borghi, Galimberti, Annis, Lange (Mungavero, McHugh), Colom
 
 Season: 1951
 
-* QUARTERFINALS
+Round: Quarterfinals
 3/11/1951; Kearny Irish; 0:1; Philadelphia Nationals
 3/18/1951; German Hungarian SC; 2:1; Ludlow Lusitano
 4/1/1951;  Chicago Sparta; 3:2 (AET); Simpkins Ford
 3/18/1951; Heidelberg SC; 3:1; Beadling
 
-* SEMIFINALS
+Round: Semifinals
 3/25/1951; German Hungarian SC; 4:1; Philadelphia Nationals
 5/14/1951; Philadelphia Nationals; 3:0 (AET); German Hungarian SC
 4/8/1951; Chicago Sparta; 2:1; Heidelberg SC
 4/15/1951; Heidelberg SC; 5:1; Chicago Sparta
 
-* FINAL 
+Round: Final
 6/10/1951; German Hungarian SC; 2:4; Heidelberg SC; Bridgeville Park, Bridgeville, PA
 Andy Hritz, John Souza; Mike Zimbicki, Mike Zimbicki, Merle Utchel (PK), Mike Bobish
 Heidelberg SC: Aleski, Dupilka, Monaco, Pozzi, D. Utchel, Fesh, Merle Utchel, Mike Zimbicki, Mike Bobish, Bernard Sypien, Norwich
@@ -61,13 +61,13 @@ Heidelberg SC: Aleski, Dupilka, Monaco, Pozzi, D. Utchel, Fesh, Merle Utchel, Mi
 
 Season: 1952
 
-* QUARTERFINALS
+Round: Quarterfinals
 3/16/1952; New York Americans; 1:2; Philadelphia Nationals
 3/30/1952; German Hungarian SC; 4:1; Ludlow Lusitano
 4/20/1952; Simpkins Ford; 9:0; Chicago Eagles
 ; Harmarville Hurricanes; W:L; ??
                              
-* NATIONAL SEMIFINALS
+Round: Semifinals
 4/13/1952; German Hungarian SC; 1:2; Philadelphia Nationals
 4/19/1952; Philadelphia Nationals; 2:2; German Hungarian SC
 5/11/1952; Harmarville Hurricanes; 0:0; Simpkins Ford
@@ -76,8 +76,7 @@ Marv Marshak 16; Nick Di Orio 18, Bob Craddock 90
 Simpkins Ford: Borghi, Annis, Gilimberti, Lange (E. McHugh), Colombo, Desmuke, Marshak, J. Triana (M. McHugh), Wallace, Pariani, P. Traini
 Harmarville Hurricanes: Donald Malinowski, Smith, Sonny Yakopec, Prucnal (Macarovich), Billy Baxter, D. Utchel (T. Craddock), Di Orio, Grivnow (R Craddock), Ray Bernabei (Halasowski), Merle Utchel
 
-                                         
-* FINAL 
+Round: Final
 6/1/1952; Harmarville Hurricanes; 3:4; Philadelphia Nationals; Philadelphia, PA 
 Steve Grivnow, Steve Grivnow, Sonny Yakopec; Owens Owens, Cier, Cier
 Harmarville Hurricanes: Donald Malinowski, Sonny Yakopec, Smith, Don Utchel, Merle Utchel, Prucnal, Harry Pitchok, Halasowski, Bob Craddock, Nick DiOrio, Steve Grivnow 
@@ -104,7 +103,7 @@ Sonny Yakopec, Sonny Yakopec; Henry Mannering
 3/8/1953; Harmarville Hurricanes; 5:1; German Hungarians; Pittsburgh, PA
 
 
-* QUARTERFINALS
+Round: Quarterfinals QUARTERFINALS
 3/1/1953; New York Americans; 4:1; Swiss SC (East NY)
 3/1/1953; Turners SC (North OH); 2:6; Falcons SC (IL)
 3/15/1953; Harmarville Hurricanes; 3:1; Philadelphia Nationals; Pittsburgh, PA
@@ -112,7 +111,7 @@ Nick DiOrio, Steven Grivenow, Sonny Yakopec; Jack Sullivan
 
 * ;  Kutis SC; W:L;   ??
                        
-* NATIONAL SEMIFINALS
+Round: Semifinals
 3/22/1953; New York Americans; 0:1; Harmarville Hurricanes; Sterling Oval, Bronx; 3000
 ; Steve Grivnow
 
@@ -123,7 +122,7 @@ Sonny Yakopec, Lefty Pletersek; Jack O'Connell
 4/12/1953; Kutis SC; 1:2; Falcons SC (IL)
 * Kutis SC won the original 1st leg match 3-0 on March 22, but replay was ordered
 
-* FINAL 
+Round: Final
 4/19/1953; Harmarville Hurricanes; 0:2; Falcons SC (IL); Sparta Stadium; Chicago, IL; 2245
 ; Henry Grabowski 78 (PK), Henry Grabowski 80
 Falcons SC (IL):  Mottes, Simpson, Chwalinski, Roels, Krupa, Jonca, Cholawicki, Wolanin, Iwanicki, Ziggy Mroz, Grabowski
@@ -144,7 +143,7 @@ Red Card: Bob Kadyk
 
 Season: 1954
 
-* THIRD ROUND
+Round: Third Round
 12/6/1953; Hakoah AC (North CA); 5:4; El Salvador (North CA)
 12/13/1953; Lions SC (IL); 11:0; Serbian SC (WI)
 12/20/1953; Castle Shannon; 3:1; Beadling SC (West PA)
@@ -154,7 +153,7 @@ Season: 1954
 2/27/1954; Polish Falcons (NJ); 3:6; Uhrik Truckers
 2/27/1954; New York Americans; 2:1 (AET); Brooklyn Hispano
                                  
-* QUARTERFINALS
+Round: Quarterfinals
 1/10/1954; Scots SC (South CA); 1:0; Hakoah AC (North CA)
 1/17/1954; Hakoah AC (North CA); 2:2; Scots SC (South CA)
 1/31/1954; Kutis SC; 5:0; Lions SC (IL)
@@ -162,12 +161,12 @@ Season: 1954
 2/28/1954; Castle Shannon; 4:0; Bavarian SC (MI)
 3/7/1954; New York Americans; 3:0; Uhrik Truckers
                          
-* SEMIFINALS
+Round: Semifinals
 3/21/1954; Castle Shannon; 3:1; New York Americans
 3/28/1954; New York Americans; 3:0; Castle Shannon
 3/28/1954; Scots SC (South CA); 0:1; Kutis SC
                                  
-* FINAL 
+Round: Final
 4/18/1954; New York Americans; 1:1; Kutis SC; St. Louis, MO; 4500
 Harry Quigley; J. Maiseman 1
 Kutis SC: Bob Burkhard, Herman Wecke, Tom Julius, Russ Murphy, Harry Keough, Bob Kehoe, Oscar Corona, Rich Meisemann, Bob Rooney, Rubn Mendoza, Tom Schultz 
@@ -185,7 +184,7 @@ Kutis SC: Bob Burkard, Herman Wecke, Tom Julius, Russ Murphy, Harry Keough, Olli
 
 Season: 1955
 
-* THIRD ROUND
+Round: Third Round
 12/19/1954; Mexico AC (North CA); 4:1; Viking AC (North CA)
 12/19/1954; AAC Eagles; 0:1; Milwaukee Sport Club (WI)
 1/2/1955; Simpkins Ford; 2:1; Kutis SC
@@ -195,7 +194,7 @@ Season: 1955
 2/27/1955; Eintracht SC (East NY); 6:3; Polish Falcons (NJ)
 2/27/1955; Beadling SC (West PA); 2:1; Harmarville Hurricanes
                                          
-* QUARTERFINALS
+Round: Quarterfinals* QUARTERFINALS
 1/9/1955; Simpkins Ford; 6:1; Milwaukee Sport Club (WI)
 3/6/1955; Simpkins Ford; 5:2; Milwaukee Sport Club (WI) 
 2/20/1955; Mexico AC (North CA); 0:1; Danish American SC (South CA) 
@@ -203,13 +202,13 @@ Season: 1955
 3/12/1955; Uhrik Truckers; 2:0; Beadling SC (West PA) 
 3/15/1955; Eintracht SC (East NY); 2:1; Swiss SC (East NY) 
                                          
-* SEMIFINALS
+Round: Semifinals
 3/29/1955; Eintracht SC (East NY); 4:2; Uhrik Truckers
 4/3/1955; Uhrik Truckers; 1:0; Eintracht SC (East NY)  
 4/3/1955; Simpkins Ford; 2:5 (AET); Danish American SC (South CA)
                                          
-* FINAL 
-4/24/1955; Eintracht SC (East NY); 2:0; Danish American SC (South CA); Rancho La Cienga Stadium; Los Angeles, CA               
+Round: Final
+4/24/1955; Eintracht SC (East NY); 2:0; Danish American SC (South CA); Rancho La Cienega Stadium; Los Angeles, CA               
 John Pinezich, John Pinezich;
 Danish American SC (South CA): Engedahl, Clausen, Lillie, J. Agnew, Gray, Fewings, Delaney, Kay, Martensen, B. Agnew, Ganger
 * Substitutes: Johnson, Sorensen
@@ -222,7 +221,8 @@ Season: 1956
 
 
 
-*NATIONAL QUARTERFINALS
+Round: Quarterfinals
+
 1/22/1956; Simpkins Ford; 4:3; Schwaben SC (IL)
 2/19/1956; Schwaben SC (IL); 2:0; Simpkins Ford
 2/12/1956; Danish American SC (South CA); 8:0; Mexico AC (North CA)
@@ -232,7 +232,7 @@ Season: 1956
 3/11/1956; Harmarville Hurricanes; 4:1; Uhrik Truckers
 Bob Craddock, John Resavage, Tom Craddock, Tom Craddock; William Eckhardt
                                  
-*NATIONAL SEMIFINALS
+Round: Semifinals
 3/25/1956; Danish American SC (South CA); 1:2; Schwaben SC (IL); Los Angeles
 3/25/1956; Harmarville Hurricanes; 1:0; New York Hakoah; Pittsburgh
 4/8/1956; New York Hakoah; 1:1; Harmarville Hurricanes
@@ -246,7 +246,7 @@ Brooklyn Hakoah: John Ingram, O. Decker, Huisman, Sonnenblick, Ralph Decker, Mah
 * 4/29/1956; Chicago Swaben 1; Harmarville Hurricanes 0; Chicago, IL
 * 5/6/1956; Harmarville Hurricanes 3; Chicago Swaben 1; Pittsburgh, PA
                                          
-* FINAL 
+Round: Final
 7/21/1956; Harmarville Hurricanes; 0:1; Schwaben SC (IL); Chicago, IL 
 ; Joe Kohlberger 38
 
@@ -259,8 +259,8 @@ Schwaben SC (IL): Benesch, Bogner, M. Bachmeier, Ruschienski, Buechers, Wichert,
 
 Season: 1957
 
-* NATIONAL QUARTERFINALS
-2/20/1957;  Harmarville Hurricanes; 2:1;  Morgan Strasser
+Round: Quarterfinal
+2/20/1957;  Harmarville Hurricanes; 2:1; Morgan Strasser
 * correct date?
 
 3/3/1957; New York Hakoah; 7:2; Polish Falcons (NJ)
@@ -269,12 +269,12 @@ Season: 1957
 3/3/1957; San Francisco Hakoah (North CA);  1:2; Danish American SC (South CA)
 3/10/1957; Danish American SC (South CA); 2:4 (AET); San Francisco Hakoah (North CA)
                      
-* NATIONAL SEMIFINALS
+Round: Semifinals
 3/17/1957; New York Hakoah; 1:0; Harmarville Hurricanes
 3/24/1957; Harmarville Hurricanes; 0:0; New York Hakoah
 3/24/1957; Kutis SC; 5:2; San Francisco Hakoah (North CA)
                  
-* FINAL 
+Round: Final
 3/31/1957; New York Hakoah; 0:3; Kutis SC; St. Louis, MO; 5000
 ; William Looby, Harry Keough (PK), Jan Huisman (og)
 Kutis SC: Burkhard, Wecke, Whitehead, R. Murphy, Keough, Pelizzaro, Vasquez,Meisemann, Rooney, Mendoza, Cook
@@ -296,7 +296,7 @@ Season: 1958
 * LA Kickers seems to have played St. Stefans Club and Danes SC before this, according to team history. 
 * http://germanleague.us/events/120000.LASCHistory-Formatted.pdf
 
-* NATIONAL QUARTERFINALS
+Round: Quarterfinals
 2/23/1958; Los Angeles Kickers; 5:0; Teutonis SC (North CA)
 3/2/1958;  Teutonis SC (North CA); 2:8;  Los Angeles Kickers
 3/16/1958; Lions SC (IL); 3:3; Kutis SC
@@ -305,12 +305,12 @@ Season: 1958
 4/20/1958; Baltimore Pompei SC; 4:2; Eintracht SC
 4/27/1958; Eintracht SC; 6:5; Baltimore Pompei SC
                         
-* NATIONAL SEMIFINALS
+Round: Semifinals
 4/20/1958; Los Angeles Kickers; 3:0; Lions SC (IL)
 5/4/1958; Beadling SC; 2:1; Baltimore Pompei SC
 5/18/1958; Baltimore Pompei SC; 3:1; Beadling SC
                       
-* FINAL 
+Round: Final
 7/21/1958; Los Angeles Kickers; 2:1 (AET);  Baltimore Pompei SC; Baltimore, MD; 6500
 Willie Carson 30, Willie Carson; Ed DeFonse 70
 
@@ -321,7 +321,7 @@ Willie Carson 30, Willie Carson; Ed DeFonse 70
 
 Season: 1959
 
-* NATIONAL QUARTERFINALS
+Round: Quarterfinals
 3/8/1959; Fall River SC; 3:1; New York Hakoah
 3/22/1959; New York Hakoah; 1:1; Fall River SC
 4/5/1959; Ukrainian Nationals; 2:1; St. Andrews (MI)
@@ -331,12 +331,12 @@ Season: 1959
 2/8/1959; San Francisco AC; 2:0; McIlvaine Canvasbacks
 3/1/1959; McIlvaine Canvasbacks; 7:2; San Francisco AC
                                          
-* NATIONAL SEMIFINALS
+Round: Semifinals
 4/26/1959; Fall River SC; 3:1; Ukrainian Nationals
 5/3/1959; Ukrainian Nationals; 1:1; Fall River SC
 5/3/1959; Kutis SC; 2:3 (AET); McIlvaine Canvasbacks
                                  
-* FINAL 
+Round: Final
 6/8/1959; Fall River SC; 3:4; McIlvaine Canvasbacks; Rancho La Cienega Stadium; Los Angeles, CA; George Wood; 3800
 William Silva, Jack Sharples, Allison; Fred Cameron, Fred Cameron, Alex O’Neill, Al Herman 89
 * Fall River goals all second half, tying goal at 88′
