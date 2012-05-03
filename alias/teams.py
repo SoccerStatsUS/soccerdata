@@ -31,17 +31,24 @@ asl2 = {
     'Baltimore Stars': 'Baltimore Bays',
     'Allentown': 'Bethlehem Hungarian',
 
+    'Connecticut Bi-Centennials': 'Connecticut Bicentennials',
+    'Hartford Bi-Centennials': 'Connecticut Bicentennials',
+    'Atlanta Apollos': 'Atlanta Chiefs',
+
+    'Boston Metros': 'Boston Tigers',
+    'Brooklyn Giants': 'Brooklyn Hispano',
+    'Connecticut Wildcats': 'Connecticut Yankees',
+    'Northeast United': 'Connecticut Yankees',
+
+
     # This may not be right. Brooklyn Italians itself seems to have 
     # Gone to lower leagues, played as Palermo and Brokolyn Dodgers.
     'Boca Juniors': 'Brooklyn Italians',
     'Inter-Brooklyn Italians': 'Brooklyn Italians',
     'New York Inter': 'Brooklyn Italians',
     'Inter SC': 'Brooklyn Italians',
-    'Boston Metros': 'Boston Tigers',
-    'Brooklyn Giants': 'Brooklyn Hispano',
     'St. Mary\'s Celtic': 'Brooklyn Celtic',
-    'Connecticut Wildcats': 'Connecticut Yankees',
-    'Northeast United': 'Connecticut Yankees',
+
     'Galicia SC': 'Brookhattan',
     'Brookhattan Galicia': 'Brookhattan',
     'Galicia-Honduras': 'Brookhattan',
@@ -56,7 +63,7 @@ asl2 = {
     'Ludlow S.C.': 'Ludlow Lusitano',
     'Miami Americans': 'New Jersey Americans',
     'Newark Falcons': 'Elizabeth Falcons',
-    'Falcons SC': 'Elizabeth Falcons'
+    'Falcons SC': 'Elizabeth Falcons',
     'Falcons-Warsaw': 'Elizabeth Falcons',
     'New Brunswick Hungarian Americans': 'New Brunswick Hungarians',
     'New Jersey Shaefer Brewers': 'New Jersey Brewers',
@@ -71,11 +78,11 @@ asl2 = {
     'Fall River Astros': 'Boston Astros',
     
 }
+teams.update(asl2)
 
 # Going to organize this alphabetically?
-mls_teams = {
 
-
+misc = {
 
     # Need to make sure America is not a regional US team.
     'America': 'América',
@@ -439,10 +446,12 @@ mls_teams = {
 
 
 
-    'Connecticut Bi-Centennials': 'Connecticut Bicentennials',
-    'Hartford Bi-Centennials': 'Connecticut Bicentennials',
-    'Atlanta Apollos': 'Atlanta Chiefs',
+}
 
+teams.update(misc)
+
+
+mls_teams = {
 
     'C.D. Chivas USA': 'Chivas USA',
     'Kansas City Wiz': 'Kansas City Wizards',
