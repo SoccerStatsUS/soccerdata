@@ -34,15 +34,16 @@ def first_load():
 
     load_hall_of_fame()
 
+    load_mls()
+    
+    return
+
 
     load_positions()
     load_drafts()
 
     load_generals()
 
-    load_mls_data()
-    load_mls_lineups()
-    load_mls_reserve()
 
     load_asl()
     load_nasl()
@@ -105,6 +106,12 @@ def load_generals():
     load_general('chris', 'cups/us_cup')
 
 
+def load_mls():
+    load_mls_data()
+    load_mls_lineups()
+    load_mls_reserve()
+
+
 
 
 
@@ -121,7 +128,7 @@ def load_early():
 
 def load_midwest():
     for e in range(1, 8):
-        load_general('open_cup', 'cups/us_open/19%s0' % e)
+        load_general('open_cup', 'cups/open/19%s0' % e)
 
     load_general('open_cup', 'leagues/isl')
     load_general('open_cup', 'teams/benmillers.txt')
@@ -136,15 +143,9 @@ def load_midwest():
 def load_cups():
     load_general('american_cup', 'cups/american_cup')
     load_general('lewis_cup', 'cups/lewis')
-    load_general('open_cup', 'cups/us_open/1910')
-    load_general('open_cup', 'cups/us_open/1920')
-    load_general('open_cup', 'cups/us_open/1930')
-    load_general('open_cup', 'cups/us_open/1940')
-    load_general('open_cup', 'cups/us_open/1950')
-    load_general('open_cup', 'cups/us_open/1960')
-    load_general('open_cup', 'cups/us_open/1970')
-    load_general('open_cup', 'cups/us_open/1980')
-    load_general('open_cup', 'cups/us_open/1990')
+
+    for e in range(1, 10):
+        load_general('open_cup', 'cups/open/19%s0' % e)
 
 
 
