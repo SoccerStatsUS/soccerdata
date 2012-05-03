@@ -11,11 +11,14 @@ SOURCES = [
         'mls2',
         'mls_reserve',
 
-        'nasl2',
-        'usl',
+
         'apsl',
-        'leach',
-        'partial',
+        'usl',
+        'usl_leach',
+        'nasl2',
+
+
+        'asl2_partial',
 
         'chris',
 

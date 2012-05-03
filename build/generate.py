@@ -37,7 +37,7 @@ def generate_all_stats():
 
     standard_generate('usa')
     standard_generate('world_cup')
-    standard_generate('leach')
+    standard_generate('usl_leach')
     standard_generate('concacaf')
     standard_generate('apsl_professional_cup')
 

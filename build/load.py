@@ -36,9 +36,6 @@ def first_load():
 
     load_mls()
     
-    return
-
-
     load_positions()
     load_drafts()
 
@@ -198,7 +195,7 @@ def load_positions():
 def load_partial():
     from soccerdata.text import partial
     print "Loading partial stats.\n"
-    generic_load(soccer_db.partial_stats, partial.process_partial_stats)
+    generic_load(soccer_db.asl2_partial_stats, partial.process_partial_stats)
 
 
 def load_analysis():
@@ -271,9 +268,9 @@ def load_apsl():
 
 def load_leach():
     from soccerdata.text import leach
-    generic_load(soccer_db.leach_goals, leach.process_goals)
-    generic_load(soccer_db.leach_games, leach.process_games)
-    generic_load(soccer_db.leach_lineups, leach.process_lineups)
+    generic_load(soccer_db.usl_leach_goals, leach.process_goals)
+    generic_load(soccer_db.usl_leach_games, leach.process_games)
+    generic_load(soccer_db.usl_leach_lineups, leach.process_lineups)
 
 
 def load_mls_data():
