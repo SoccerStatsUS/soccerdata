@@ -6,6 +6,8 @@ competitions = {
     'A-League': 'USL First Division',
     'Western Soccer Alliance': 'Western Soccer League',
     'USL Pro': 'USL Second Division',
+    'Domestic Tour': 'Friendly',
+    'International Tour': 'Friendly',
 }
 
 

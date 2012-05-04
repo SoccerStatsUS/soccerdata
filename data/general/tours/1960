@@ -3,12 +3,12 @@ Season: 1960
 
 * 1860 Munchen (West Germany), May 1 1960 - May 18, 1960 Results: 5 wins, 1 draw, 0 losses
 * Roster: Hans Auerhammer, Gerhard Bechtold, Manfred Fallisch, Ekkehard Feigenspan, Alfred Heiss, Horst-Dieter Hoffman, George Koebler, Rudolf Koebl, Peter Lihl, Sebastian Metzger, Martin Pfanselt, Wolfgang Simon, Alfons Stemmer, Manfred Wagner, Ludwig Zausinger, Adalbert Wetzel. Manager: Paul Schwertner, Coach: Hans Hipp.
-5/1/1960;  Muenchen; 3-2; German-American League stars; New York City
-5/4/1960;  Muenchen; 1-1; Westminster Royals of B.C.; San Francisco
-5/6/1960;  Muenchen; 8-1; All-Stars; Los Angeles
-5/8/1960;  Muenchen; 4-1; All-Stars; Chicago
-* FIXME 5/15/1900; Muenchen 3; American League Stars 2; New York City
-5/18/1960; Muenchen; 4-2; Manchester United; New York City
+5/1/1960;  TSV 1860 München; 3-2; German-American League Stars; New York City
+5/4/1960;  TSV 1860 München; 1-1; Westminster Royals of B.C.; San Francisco
+5/6/1960;  TSV 1860 München; 8-1; All-Stars; Los Angeles
+5/8/1960;  TSV 1860 München; 4-1; All-Stars; Chicago
+* FIXME 5/15/1900; TSV 1860 München 3; American League Stars 2; New York City
+5/18/1960; TSV 1860 München; 4-2; Manchester United; New York City
 
 
 * Manchester United (England), May 14, 1960 - June 12, 1960 Results: 7 wins, 1 draw, 2 losses
@@ -21,7 +21,7 @@ Season: 1960
 5/28/1960;  Manchester United; 3-2; Hearts; Vancouver
 6/1/1960;   Manchester United; 0-3; Hearts; Los Angeles
 6/5/1960;   Manchester United; 4-2; San Francisco All-Stars; San Francisco
-6/8/1960;   Manchester United; 7-0; Fall River; Fall River, MA
+6/8/1960;   Manchester United; 7-0; Fall River SC; Fall River, MA
 * 6/12/1960;  Manchester United 10; Ukrainian Nationals; Philcadelphia
 
 
@@ -58,8 +58,8 @@ Season: 1960
 
 6/3/1960; Birmingham City; 1-1; Third Lanark; Vancouver
 
-* ; Birmingham City 5; All-Stars 1; Victoria, BC
-* ; Birmingham City 5; B.C. All-Stars 2; Vancouver
+* ; Birmingham City 5; Victoria All-Stars; Victoria, BC
+* ; Birmingham City 5; British Columbia All-Stars 2; Vancouver
 * ; Birmingham City 2; Reims of France 1; Toronto
 
 
@@ -81,18 +81,18 @@ Competition: International Tour
 
 * New York Hota to West Germany, Results: 4 wins, 1 draw, 1 loss
 * Roster: Julius Bascherow, Werner Bender, Manfred Brandt, Victor Emodi, Ephraim Hadjoglou, Perters S. Haefers, Horst Kneissl, Adrjian Kovac, William Lindorfer, Eduard Lotze, Robert Newbauer, Karl-Heinz Posky, Walter Schmid, Herbert Schmidt, Hans Zucker.
-7/29/1960;  Hota; 3-1; SC Muester; Muenster, West Germany
-8/3/1960;   Hota; 2-9; Karlsruhe; Karlsruhe, West Germany
-8/5/1960;   Hota; 2-2; SV Plettenberg; Plettengerg, West Germany
-8/9/1960;   Hota; 6-5; "Kilia" Kiel; Kiel, West Germany
-8/12/1960;  Hota; 2-0; Schleswig SV; Schleswig, West Germany
-8/13/1960;  Hota; 2-2; SV Itsehoe; Itsehoe, West Germany
+7/29/1960;  NY Hota SC; 3-1; SV Muenster; Muenster, West Germany
+8/3/1960;   NY Hota SC; 2-9; Karlsruhe; Karlsruhe, West Germany
+8/5/1960;   NY Hota SC; 2-2; SV Plettenberg; Plettengerg, West Germany
+8/9/1960;   NY Hota SC; 6-5; "Kilia" Kiel; Kiel, West Germany
+8/12/1960;  NY Hota SC; 2-0; Schleswig SV; Schleswig, West Germany
+8/13/1960;  NY Hota SC; 2-2; SV Itsehoe; Itsehoe, West Germany
 
 
 * German-American League Junior All-Stars to West Germany. July 30, 1960 - August 13, 1960. Results: 4 wins, 1 draw, 3 losses.
 * Roster: Dieter Albrecht, Sandor Baranayi, Hans Schilling, Kurt Seigles (Brooklyn), Kenneth Finn (German-Hungarian), Carl Fister, Geza Henni, Nick Henni, Joseph Hate, Tibor Resznecki (NY Hungarian), Horst Kniessel, Robert Neuhauser (Hota), Joe Krische, Helmuth Loske, Walter Loske (Gottschee), Norbert Vollmer (New York). Manager:Johann Herberger
 7/30/1960;  German-American League; 1-7; West Berlin Stars; Berlin
-8/3/1960;   German-American League; 6-5; Eintracht; Frankfurt
+8/3/1960;   German-American League; 6-5; Eintracht Frankfurt; Frankfurt
 8/6/1960;   German-American League; 5-2; Kaiserslautern; Kaiserslautern
 8/10/1960;  German-American League; 0-3; Nuernberg; Nuernberg
 8/13/1960;  German-American League; 2-3; 1860 Munich; Munich
@@ -129,7 +129,7 @@ Competition: International Tour
 
 
 Competition: Domestic Tour
-
+Season: 1961
 
 *Baden Amateur All-Stars, Germany: June 17, 1961 - July 2, 1962. Results: 5 wins, 0 draws, 1 loss.
 * Roster: Wolfgang Alker, Manfred Habitzrenther, Kurt Hildenbrandt, Karl-Heinz Hoffman, Wolfgang Hofig, Bruno Horn, Hirst Knuzmann, Adolf Lutt, Sebastian Marth, Manfred Orians, Hartmut Schafer, Lothar Schmidt, Karl Schottle, Waldemar Stober, Richard Straub, Rolf Teichman. Trainer: Burkhard Pape.
@@ -155,7 +155,7 @@ Competition: Domestic Tour
 * Roster: William Cunningham, Matthew Gray, Jim Goodfellow, Alex Hartley, Dave Hilley, William Lewis, Jim McAnally, George McCallum, Bob McCool, John McCormack, Findlay McGillvary, Ian McKinley, Allan McLeod, Dan McPartland, John Robertson, Jim Reilly. Manager: George Young.
 5/17/1961;  Third Lanark; 4-1; Birmingham City; Polo Grounds, NYC
 5/21/1961;  Third Lanark; 2-1; Ukrainian Nationals; Philadelphia
-5/24/1961;  Third Lanark; 3-0; Fall River; Fall River, MA
+5/24/1961;  Third Lanark; 3-0; Fall River SC; Fall River, MA
 5/27/1961;  Third Lanark; 2-3; Birmingham City; Toronto
 5/30/1961;  Third Lanark; 3-0; CYC All-Stars; St. Louis, MO
 6/3/1961;   Third Lanark; 1-1; Birmingham City; Vancouver, BC
@@ -170,49 +170,49 @@ Competition: International Tour
 * FIXME ages
 * German-American League Junior All-Stars to West Germany. August 4, 1961 - August 30, 1961. Results: 4 wins, 1 draw, 3 losses.
 * Roster: Gunther Haug, Erich Roth, Siggi Stritzl, Herman Windischman (Gotschee). Frank Heeg, (Brooklyn SC), Rory Finn, Bob Leuffen, Ewald PPollisch, John Vocila (Erintracht), Dennis Dempsey, Richard Winklhardt (German-Hungarian), Ernest Schuster (Kolping), Crew Holt, Phil Solomita (Kollsman), Bob feger (Minerva). Manager: Bob Feger Sr.
-8/4/1960;   Jr. Stars; 1-2; Pirmassens; Pirmassens
-8/11/1960;  Jr. Stars; 4-0; Union Bockingen; Hellbronn
-8/13/1960;  Jr. Stars; 4-0; TSV Winnenden; Winnenden
-8/17/1960;  Jr. Stars; 1-3; Stuttgart Kickers; Stuttgart
-8/20/1960;  Jr. Stars; 5-1; VFR; Limborg
-8/27/1960;  Jr. Stars; 3-4; Eintracht Frankfurt; Frankfurt
-8/30/1960;  Jr. Stars; 5-0; Niederzeuzheim; Niederzeuzheim
+8/4/1960;   German-American League Junior All-Stars; 1-2; FK Pirmasens; Pirmasens
+8/11/1960;  German-American League Junior All-Stars; 4-0; Union Bockingen; Hellbronn
+8/13/1960;  German-American League Junior All-Stars; 4-0; TSV Winnenden; Winnenden
+8/17/1960;  German-American League Junior All-Stars; 1-3; Stuttgart Kickers; Stuttgart
+8/20/1960;  German-American League Junior All-Stars; 5-1; VFR; Limborg
+8/27/1960;  German-American League Junior All-Stars; 3-4; Eintracht Frankfurt; Frankfurt
+8/30/1960;  German-American League Junior All-Stars; 5-0; Niederzeuzheim; Niederzeuzheim
 
 
 * Schwaben of Chicago to Germany: June 6, 1961 - June 23, 1961. Results: 0 wins, 3 draws, 4 losses.
 * Roster: Jim Benedek, Leo DeFort, Raimond Eichhof, Rudi Getzinger, Armin Hohmann, Walter Leonartowicz, Helmut Michel, Walter Ronge, Herbert Rothe, Norberth Rothe, Addle Rotter, Manfred Schmidt, Karl Speiser, Herbert Teichert, Wolfgang Wostle, Jack Ruschelnski. Manager: Frank Kutsch.
-6/6/1961;   Schwaben; 1-1; Pro-Bonn 2nd Division; Bonn
-* 6/7/1961;   Schwabenn; 1; City All-Stars; Remscheid
-6/10/1961;  Schwaben; 1-5; Amateur Champions, 1st Division; Paterborn
-6/13/1961;  Schwaben; 1-9; Bayern Hof. 1st Division; Bayern Hof.
-6/16/1961;  Schwaben; 0-2; League All-Stars; Landshut
-6/18/1961;  Schwaben; 2-2; Straubling 2nd Division; Staubing
-6/22/1961;  Schwaben; 2-3; 1st Division Amateurs; Nurmberg
+6/6/1961;   Chicago Schwaben; 1-1; Pro-Bonn 2nd Division; Bonn
+* 6/7/1961; Chicago Schwaben; 1; City All-Stars; Remscheid
+6/10/1961;  Chicago Schwaben; 1-5; Amateur Champions, 1st Division; Paterborn
+6/13/1961;  Chicago Schwaben; 1-9; Bayern Hof 1st Division; Bayern Hof
+6/16/1961;  Chicago Schwaben; 0-2; League All-Stars; Landshut
+6/18/1961;  Chicago Schwaben; 2-2; Straubling 2nd Division; Staubing
+6/22/1961;  Chicago Schwaben; 2-3; 1st Division Amateurs; Nurmberg
 
 
 * Holland SC (New York) to Holland: No details available
 
-
+Season: 1962
 Competition: Domestic Tour
 
 
 * North German All-Stars : May 6, 1962 - May 22, 1962. Results: 5 wins, 1 draw, 0 losses.
 * Roster: Hans Altenkirch, Joachim Baese, Werner Gestle, Manfred Greif, Hans Jacker, Heiner Klose, Gerd Kull, Guenther Mess, Juergen Moll, Peter Osterhoff, Ingo Proges, Walter Schmidt, Rolf Siesler, Klaus Traeger, Klaus Winkelman, Uwe Witt. Coach: Martin Wikle.
-5/6/1962;   North Germany; 1-1; German-American League Stars; New York City
-5/10/1962;  North Germany; 3-1; St. Louis Stars; St. Louis
-5/13/1962;  North Germany; 3-1; Chicago All-Stars; Chicago
-5/16/1962;  North Germany; 6-1; New Jersey G.A.L. Stars; New Jersey
-5/20/1962;  North Germany; 5-0; Ukrainian Nationals; Philadelphia
-5/22/1962;  North Germany; 3-1; German-American League Stars; New York City
+5/6/1962;   North German All-Stars; 1-1; German-American League Stars; New York City
+5/10/1962;  North German All-Stars; 3-1; St. Louis All-Stars; St. Louis
+5/13/1962;  North German All-Stars; 3-1; Chicago All-Stars; Chicago
+5/16/1962;  North German All-Stars; 6-1; New Jersey G.A.L. Stars; New Jersey
+5/20/1962;  North German All-Stars; 5-0; Ukrainian Nationals; Philadelphia
+5/22/1962;  North German All-Stars; 3-1; German-American League Stars; New York City
 
 
 * Sheffield United, England: May 12 1962 - June 9, 1962. Results: 9 wins, 1 draw, 0 losses.
 * Roster: Len Allchurch, Michael Ash, Len Badgar, Cecil Coldwell, John Dohety, Barry Hartle, Willie Hodgson, Keith Kettleborough, Reg Matthewson, Derek Pace, Brian Richardson, Joe Shaw, Ron Simpson, Gerry Summers, Des Thompson, Bob Widdowson, Richard Wragg. Manager: John Harris. Trainer and Coach: John Short.
-5/12/1962;  Sheffield United; 4-1; Ukrainian Nationals 1; Philadelphia
+5/12/1962;  Sheffield United; 4-1; Ukrainian Nationals; Philadelphia
 5/13/1962;  Sheffield United; 3-2; ASL & GAL stars; New York City
 5/18/1962;  Sheffield United; 3-0; Toronto Stars; Toronto
 5/23/1962;  Sheffield United; 4-1; C.Y.O Stars; St. Louis
-5/27/1962;  Sheffield United; 2-0; Saarbrucken of Germany; Chicago
+5/27/1962;  Sheffield United; 2-0; Saarbrucken; Chicago
 5/30/1962;  Sheffield United; 7-1; Edmonton Stars; Edmonton
 6/2/1962;   Sheffield United; 4-1; Eintracht Frankfurt; Vancouver
 6/4/1962;   Sheffield United; 1-0; Victoria Stars; Victoria, BC
@@ -221,20 +221,20 @@ Competition: Domestic Tour
 
 
 * A.S.V. Nuernberg, West Germany: Results: 4 wins, 1 draw, 3 losses.
-* ; Nuernberg 3; Detroit Kickers 3; Detroit
-* ; Nuernberg 1; Milwaukee Brewers 2; Milwaukee
-* ; Nuernberg 1; Chicago Schwaben 2; Chicago
-* ; Nuernberg 2; Kutis 3; St. Louis
-* ; Nuernberg 3; Ft. Wayne 1; Ft. Wayne, IN
-* ; Nuernberg 4; Dayton 1; Dayton
-* ; Nuernberg 4; Youngstown Magyars 2; Youngstown, OH
-* ; Nuernberg 5; Philadelphia United League 2; Philadelphia
+* ; Nuernberg 3; Detroit Kickers; Detroit
+* ; Nuernberg 1; Milwaukee Brewers; Milwaukee
+* ; Nuernberg 1; Chicago Schwaben; Chicago
+* ; Nuernberg 2; Kutis; St. Louis
+* ; Nuernberg 3; Ft. Wayne; Ft. Wayne, IN
+* ; Nuernberg 4; Dayton; Dayton
+* ; Nuernberg 4; Youngstown Magyars; Youngstown, OH
+* ; Nuernberg 5; Philadelphia United League; Philadelphia
 
 
 * 1st Saarbruecken, West Germany: May 25, 1962 - June 10, 1962. Results: 5 wins, 0 draws, 1 loss.
 5/25/1962;  Saarbruecken; 5-1; Dundee; Detroit
 5/27/1962;  Saarbruecken; 0-2; Sheffield United; Chicago
-5/30/1962;  Saarbruecken; 6-2; Bavarians; Milwaukee
+5/30/1962;  Saarbruecken; 6-2; Milwaukee Bavarians; Milwaukee
 6/3/1962;   Saarbruecken; 7-1; All-Stars; Cleveland
 6/8/1962;   Saarbruecken; 8-2; C.Y.C.; St. Louis
 6/10/1962;  Saarbruecken; 2-1; Ukes & United League; Philadelphia
@@ -273,11 +273,11 @@ Competition: International Tour
 
 
 * Bavarian of Milwaukee to West Germany: August 4 1962 - August 18, 1962. results: 1 win, 0 draws, 4 losses.
-8/4/1962;   Bavarian; 0-6; Bottrop
-8/8/1962;   Bavarian; 0-3; Osnabrueck
-8/11/1962;  Bavarian; 3-1; Mannheim
-8/15/1962;  Bavarian; 1-2; Plattling
-8/18/1962;  Bavarian; 3-6; Nuermburg
+8/4/1962;   Milwaukee Bavarians; 0-6; Bottrop
+8/8/1962;   Milwaukee Bavarians; 0-3; VfL Osnabrück
+8/11/1962;  Milwaukee Bavarians; 3-1; Mannheim
+8/15/1962;  Milwaukee Bavarians; 1-2; SpVgg Plattling
+8/18/1962;  Milwaukee Bavarians; 3-6; Nuernberg
 
 
 * Carpathia Kickers of Detroit to West Germany: June 19 1962 - June 30 1962. Results: 2 wins, 0 draws, 3 losses.
@@ -289,12 +289,12 @@ Competition: International Tour
 
 
 * Hoboken F.C. to West Germany: June 16 1962 - June 30 1962. Results: 3 wins, 1 draw, 2 losses.
-6/16/1962;  Hoboken; 0-7; Daxlander SV; Karlsruhe
-6/19/1962;  Hoboken; 1-3; Kircheim/Teck S.C.; Kircheim
-6/23/1962;  Hoboken; 3-3; Rot-Weiss Alzey; Alzey, Rhine
-6/24/1962;  Hoboken; 4-1; Alzey All-Stars; Alzey, Rhine
-6/27/1962;  Hoboken; 4-2; Wuerzberg All-Stars; Wuerzburg
-6/30/1962;  Hoboken; 3-2; Grossheuback All-Stars; Grossheubach
+6/16/1962;  Hoboken F.C.; 0-7; Daxlander SV; Karlsruhe
+6/19/1962;  Hoboken F.C.; 1-3; Kircheim/Teck S.C.; Kircheim
+6/23/1962;  Hoboken F.C.; 3-3; Rot-Weiss Alzey; Alzey, Rhine
+6/24/1962;  Hoboken F.C.; 4-1; Alzey All-Stars; Alzey, Rhine
+6/27/1962;  Hoboken F.C.; 4-2; Wuerzberg All-Stars; Wuerzburg
+6/30/1962;  Hoboken F.C.; 3-2; Grossheuback All-Stars; Grossheu F.C.bach
 
 
 * New York SC to West Germany: July 28 1962 - August 8 1962). Results: 2 wins, 1 draw, 2 losses.
@@ -307,7 +307,7 @@ Competition: International Tour
 
 * New Bedford Portuguese to Azores: June 1 1962 - June 14 1962. Results: 3 wins, 1 draw, 1 loss.
 * Roster: Includes Antonio Morais, John Raposo, Robert Cardoza, Edward Goulart, Antonio Marmelo, Manual Gasper, Antone Correia.
-6/1/1962;   Portuguese SC; 1-2; Maritimo SC; Sao Miguel Sta.
+6/1/1962;   Portuguese SC; 1-2; Maritimo; Sao Miguel Sta.
 6/4/1962;   Portuguese SC; 2-1; Fayal SC; Algoa Sta.
 6/8/1962;   Portuguese SC; 4-2; Augusties AV; Algoa Sta.
 6/13/1962;  Portuguese SC; 3-3; SC Andrense; Angro do Heroismo Ter.
@@ -316,20 +316,22 @@ Competition: International Tour
 
 Competition: Domestic Tour
 
+Season: 1963
+
 
 * FC Schalke 04 West Germany: May 19 1963 - May 28 1963. Results: 2 wins, 0 draws, 2 losses.
 * Roster: Karl-Heinz Beckmann, Hans Guergen Becher, Manfred Berz, Waldemar Gerhardt, Egon Horst, Werner Ipta, Guenter Karnhorf, Berni Nlodt, Willi Koslowski, Manfred Kreuz, Reinhard Libuda, Hans Nowak, Friedel Rausch, Klau Schonz, Willy Schulz. Coach: George Gawliczek.
-5/19/1963;  Schalke; 3-1; German-American League Stars; New York City
-*5/22/1963;  Schalke; 2-0; Wolverhampton Wanderers; Rochester
-5/26/1963;  Schalke; 3-4; Rochester Select; New York City
-5/28/1963;  Schalke; 1-2; New York Hungaria; New York City
+5/19/1963;  Schalke 04; 3-1; German-American League Stars; New York City
+*5/22/1963;  Schalke 04; 2-0; Wolverhampton Wanderers; Rochester
+5/26/1963;  Schalke 04; 3-4; Rochester Select; New York City
+5/28/1963;  Schalke 04; 1-2; New York Hungaria; New York City
 
 
 * Wolverhampton Wanderers, England: May 23 1963 - June 22 1963. Results: 9 wins, 1 draw, 0 losses.
 * Roster: Peter Bradford, Chris Crowe, Fred Davies, Ted Farmer, Malcolm Findlaysen, J. Galley, Fred Goodwin, Gerry Harris, John Harris, John Kirkham, K. Knighton, F. Knowles, Jimmy Murray, George Showell, Barry Stobart, Terry Wharton, David Woodfield. Manager: Stan Cullis, Coach: H. Shorthouse.
-5/23/1963;  Wolverhampton; 5-1; Cantalia 1; Montreal
+5/23/1963;  Wolverhampton; 5-1; Cantalia; Montreal
 
-5/24/1963;  Wolverhampton; 4-2; Schalke 04 2; New York City
+5/24/1963;  Wolverhampton; 4-2; Schalke 04; New York City
 * Compare to above. Check date and score.
 
 5/30/1963;  Wolverhampton; 3-2; Ukrainian Nationals; Philadelphia
@@ -343,24 +345,24 @@ Competition: Domestic Tour
 
 
 * Platting SC, West Germany: June 16 1963 - July 2 1963. Results: 2 wins, 1 draw, 3 losses.
-6/16/1963;  Plattling; 2-1; Karlsruhe FV; Philadelphia
-6/19/1963;  Plattling; 4-4; SC Elizabeth; Union City, NJ
-6/23/1963;  Plattling; 1-2; Buffalo; Buffalo
-6/26/1963;  Plattling; 3-1; Carpathia Kickers; Detroit
-6/30/1963;  Plattling; 1-2; Milwaukee Bavarian; Milwaukee
-7/2/1963;   Plattling; 1-2; SC Hota; New York City
+6/16/1963;  SpVgg Plattling; 2-1; Karlsruhe FV; Philadelphia
+6/19/1963;  SpVgg Plattling; 4-4; SC Elizabeth; Union City, NJ
+6/23/1963;  SpVgg Plattling; 1-2; Buffalo; Buffalo
+6/26/1963;  SpVgg Plattling; 3-1; Carpathia Kickers; Detroit
+6/30/1963;  SpVgg Plattling; 1-2; Milwaukee Bavarians; Milwaukee
+7/2/1963;   SpVgg Plattling; 1-2; Hota SC; New York City
 
 
 * AGF, Denmark: March 10 1963 - April 2 1963. Results: 8 wins, 0 draws, 0 losses.
 * Roster: John Amidsen, Jorn Bjerregaard, Kaj Christensen, Henning Enokson, Bjarke Gundley, John jensen, John Lee Jensen, Kjeld Jensen, Peter jaer, Bent Wolmer, Hans Chr. Nielsen, Arne Serensen, Evald Sorensen, Ove Sorensen. Manager: Aage Rou Jensen. Coach: Gena Toldi.
-3/19/1963;  AGF; 1-0; Greater Los Angeles Stars; Los Angeles
+3/19/1963;  AGF Aarhus; 1-0; Greater Los Angeles Stars; Los Angeles
 * 3/12/1963;  AGF 3; Tijuana All-Stars; Tijuana
-3/17/1963;  AGF; 4-0; San Francisco United; San Francisco
-3/19/1963;  AGF; 2-1; Greater Los Angeles All-Stars; Los Angeles
-3/23/1963;  AGF; 5-1; U. S. Pan-American Squad; St. Louis
-3/24/1963;  AGF; 3-2; U. S. Pan-American Squad; Chicago
-3/31/1963;  AGF; 11-1; U.S. Pan-American Squad; Detroit
-4/2/1963;   AGF; 3-1; New York Hungaria; New York City
+3/17/1963;  AGF Aarhus; 4-0; San Francisco United; San Francisco
+3/19/1963;  AGF Aarhus; 2-1; Greater Los Angeles All-Stars; Los Angeles
+3/23/1963;  AGF Aarhus; 5-1; U.S. Pan-American Squad; St. Louis
+3/24/1963;  AGF Aarhus; 3-2; U.S. Pan-American Squad; Chicago
+3/31/1963;  AGF Aarhus; 11-1; U.S. Pan-American Squad; Detroit
+4/2/1963;   AGF Aarhus; 3-1; New York Hungaria; New York City
 
 
 * Dukla Prague, Czechoslovakia: No details available
@@ -399,7 +401,7 @@ Competition: International Tour
 * New York Hakoah Americans to Bermuda: December 26 1962 - January 1, 1963. results: 3 wins, 1 draw, 1 loss.
 * Roster: Chyzowych, Clauss, Daar, Decker, Djordjevic, Falk, Gallagher, Hanzel, Horseling, Junke, Juerger, Miller, Sieb, Waugh, Wiggins, Wolanow. Coach: Kurt Lamm. Manager: Milt Miller.
 12/26/1962;  Hakoah-Americans; 4-1; Westend Rovers; Somerset
-12/28/1962;  Hakoah-Americans; 1-1; Pembroke; Hamilton
+12/28/1962;  Hakoah-Americans; 1-1; Pembroke-Hamilton Club; Hamilton
 12/29/1962;  Hakoah-Americans; 1-2; Bermuda FA; Hamilton
 12/30/1962;  Hakoah-Americans; 6-1; Bermuda FA; Somerset
 1/1/1963;    Hakoah-Americans; 4-2; Bermuda FA; Somerset
@@ -418,6 +420,8 @@ Competition: International Tour
 * New York Hungaria to Mexico: No details available
 
 
+Season: 1964
+
 Competition: Domestic Tour
 
 
@@ -430,10 +434,10 @@ Competition: Domestic Tour
 
 * SV Hamburg, Germany: May 17, 1964 - May 27, 1964. Results: 3 wins, 0 draws, 1 loss.
 * Roster: Harry bachre, Fritz Boyens, Horst Dehn, Gert Doefl, Willi Glesemann, Hans Kremer, Ernest Kreus, Lothar Kropelin, Gerd Krug, Jergen Kurbjuhn, Erwin Piechowiak, Horst Schnoor, Dieter Seeler, Uwe Seeler, Hubert Stapelfeldt, Peter Wulf. Coach: Kurt Fischer.
-5/17/1964;  Hamburg; 1-2; German-American League stars; New York
-5/20/1964;  Hamburg; 4-1; BW Gottschee; New York
-5/24/1964;  Hamburg; 2-0; Liverpool; New York
-5/27/1964;  Hamburg; 7-1; Boston SC; Boston
+5/17/1964;  Hamburger SV; 1-2; German-American League Stars; New York
+5/20/1964;  Hamburger SV; 4-1; BW Gottschee; New York
+5/24/1964;  Hamburger SV; 2-0; Liverpool; New York
+5/27/1964;  Hamburger SV; 7-1; Boston SC; Boston
 
 
 * Liverpool FC, England: May 8, 1964 - June 10, 1964. Results: 6 wins, 3 draws, 1 loss.
@@ -442,17 +446,17 @@ Competition: Domestic Tour
 5/10/1964;  Liverpool; 7-1; New York Select; New York
 5/13/1964;  Liverpool; 1-1; CYC Stars; St. Louis
 5/17/1964;  Liverpool; 3-0; Monterrey (Mexico); Chicago
-5/24/1964;  Liverpool; 0-2; Hamburg (Germany); New York
-5/27/1964;  Liverpool; 4-1; Melderich (Germany); Detroit
-5/29/1964;  Liverpool; 0-0; Meiderich (Germany); Chicago
+5/24/1964;  Liverpool; 0-2; Hamburger SV; New York
+5/27/1964;  Liverpool; 4-1; Meiderich; Detroit
+5/29/1964;  Liverpool; 0-0; Meiderich; Chicago
 6/3/1964;   Liverpool; 14-0; San Francisco Select; San Francisco
-6/6/1964;   Liverpool; 1-1; Meiderich (Germany); Vancouver
+6/6/1964;   Liverpool; 1-1; Meiderich; Vancouver
 6/10/1964;  Liverpool; 2-0; Vancouver Select; Vancouver
 
 
 * Meiderich, Germany: May 22, 1964 - May 31, 1964. Results: 2 wins, 1 draw, 2 losses.
 5/22/1964;  Meiderich; 1-2; Monterrey (Mexico); Chicago
-5/24/1964;  Meiderich; 5-3; St. Louis Stars; St. Louis
+5/24/1964;  Meiderich; 5-3; St. Louis All-Stars; St. Louis
 5/27/1964;  Meiderich; 1-4; Liverpool; Detroit
 5/29/1964;  Meiderich; 0-0; Liverpool; Chicago
 5/31/1964;  Meiderich; 4-1; Milwaukee Bavarians; Milwaukee
@@ -509,22 +513,22 @@ Competition: International Tour
 
 
 * Hoboken, NJ to Germany: June 21, 1964 - June 30, 1964. Results: 0 wins, 3 draws, 2 losses.
-6/21/1964;  Hoboken; 1-5; Schwaikheim; Schwaikheim
-6/24/1964;  Hoboken; 2-2; Muenchberg; Muenchberg
-6/27/1964;  Hoboken; 4-6; Forchheim; Forchheim
-6/27/1964;  Hoboken; 4-4; Grossheubach; Grossheubach
-6/30/1964;  Hoboken; 1-4; Hamburger SV; Hamburg
+6/21/1964;  Hoboken F.C.; 1-5; Schwaikheim; Schwaikheim
+6/24/1964;  Hoboken F.C.; 2-2; Muenchberg; Muenchberg
+6/27/1964;  Hoboken F.C.; 4-6; Forchheim; Forchheim
+6/27/1964;  Hoboken F.C.; 4-4; Grossheubach; Grossheubach
+6/30/1964;  Hoboken F.C.; 1-4; Hamburger SV; Hamburg
 
 
 * New York Hungaria to Germany: August 1, 1964 - August 7, 1964. Results: 1 win, 0 draws, 2 losses.
-8/1/1964;   Hungaria; 1-7; Eintracht Frankfurt; Frankfurt
-8/5/1964;   Hungaria; 5-3; VfL Marburg; Marburg
-8/7/1964;   Hungaria; 1-4; Hamburger SV; Hamburg
+8/1/1964;   NY Hungaria; 1-7; Eintracht Frankfurt; Frankfurt
+8/5/1964;   NY Hungaria; 5-3; VfL Marburg; Marburg
+8/7/1964;   NY Hungaria; 1-4; Hamburger SV; Hamburg
 
 
 * Ukrainian Nationals to Bermuda: December 26, 1963 - January 1, 1964. Results: 4 wins, 0 draws, 0 losses.
 12/26/1963;  Ukrainian Nationals; 8-2; Bermuda Under-23
-12/27/1963;  Ukrainian Nationals; 3-1; Pembroke-Hamilton
+12/27/1963;  Ukrainian Nationals; 3-1; Pembroke-Hamilton Club
 12/29/1963;  Ukrainian Nationals; 3-2; Bermuda Over-23
 1/1/1964;    Ukrainian Nationals; 2-1; Bermuda All-Stars
 
@@ -532,6 +536,8 @@ Competition: International Tour
 * U. S. Junior Stars to Guatemala: No details available
 * U. S. Olympic Team to Mexico: No details available
 
+
+Season: 1965
 
 Competition: Domestic Tour
 
@@ -546,7 +552,8 @@ Competition: Domestic Tour
 
 
 * Hannover '96, Germany: May 21 1965 0- June 13 1965. Results: 6 wins, 0 draws, 3 losses.
-5/21/1965;  Hannover 96; 3-2; New Yorkers; New York City
+5/21/1965;  Hannover 96; 3-2; New York XI; New York City
+* Listed as New Yorkers? Who is this/
 5/23/1965;  Hannover 96; 3-1; Nottingham Forest; New York City
 5/26/1965;  Hannover 96; 5-3; Chicago All-Stars; Chicago
 5/30/1965;  Hannover 96; 0-2; Nottingham Forest; Chicago
@@ -573,12 +580,12 @@ Competition: Domestic Tour
 5/14/1965;  Nottingham Forest; 8-2; Hartford CT; Hartford
 5/16/1965;  Nottingham Forest; 3-2; Ukrainian Nationals; Philadelphia
 5/19/1965;  Nottingham Forest; 4-2; Boston Metros; Boston
-5/23/1965;  Nottingham Forest; 1-3; Hannover '96; New York City
-5/26/1965;  Nottingham Forest; 6-1; CYC Stars 1; St. Louis
-5/30/1965;  Nottingham Forest; 2-0; Hannover '96; Chicago
-6/2/1965;   Nottingham Forest; 6-2; Hannover '96; San Francisco
-6/6/1965;   Nottingham Forest; 2-1; Hannover '96; Vancouver
-6/9/1965;   Nottingham Forest; 2-0; B. C. Stars; Vancouver
+5/23/1965;  Nottingham Forest; 1-3; Hannover 96; New York City
+5/26/1965;  Nottingham Forest; 6-1; CYC Stars; St. Louis
+5/30/1965;  Nottingham Forest; 2-0; Hannover 96; Chicago
+6/2/1965;   Nottingham Forest; 6-2; Hannover 96; San Francisco
+6/6/1965;   Nottingham Forest; 2-1; Hannover 96; Vancouver
+6/9/1965;   Nottingham Forest; 2-0; British Columbia Stars; Vancouver
 * 6/12/1965;  v 1, Hibernians 1 (at Vancouver)
 6/14/1965;  Nottingham Forest; 1-0; Toronto Stars; Toronto
 
@@ -598,10 +605,12 @@ Competition: Domestic Tour
 * Eintracht Frankfurt, Germany: No details available.
 
 
+Season: 1966
+
 * Bayern Munich, Germany: June 10, 1966 - June 30, 1966. Results: 3 wins, 5 draws, 1 loss.
 6/10/1966;  Bayern Munich; 2-2; Glasgow Celtic; San Francisco; 12000
 6/12/1966;  Bayern Munich; 3-3; Orange County; Los Angeles
-6/15/1966;  Bayern Munich; 3-0; Atlas (Mexico); Los Angeles
+6/15/1966;  Bayern Munich; 3-0; Club Atlas; Los Angeles
 6/17/1966;  Bayern Munich; 0-3; Tottenham Hotspurs; Detroit
 6/19/1966;  Bayern Munich; 1-1; Tottenham Hotspurs; Chicago
 * 6/22/1966;  Bayern Munich 9; Pabst Blue Ribbon; Milwaukee
@@ -621,19 +630,19 @@ Competition: Domestic Tour
 6/1/1966;   Glasgow Celtic; 2-1; Tottenham Hotspurs; San Francisco; 11000
 6/4/1966;   Glasgow Celtic; 1-1; Tottenham Hotspurs; Vancouver
 6/10/1966;  Glasgow Celtic; 2-2; Bayern Munich; San Francisco
-6/12/1966;  Glasgow Celtic; 1-0; Atlas (Mexico); Los Angeles
+6/12/1966;  Glasgow Celtic; 1-0; Club Atlas; Los Angeles
 
 
 * Tottenham Hotspurs, England: May 19, 1966 - June 19, 1966. Results: 6 wins, 2 draws, 3 losses.
 5/19/1966;  Tottenham Hotspurs; 3-2; Bermuda All-Stars; Bermuda
 5/11/1966;  Tottenham Hotspurs; 0-1; Glasgow Celtic; Toronto
 5/25/1966;  Tottenham Hotspurs; 3-0; Hartford Stars; Hartford
-5/29/1966;  Tottenham Hotspurs; 0-1; Bologna (Italy); Jersey City, NJ
+5/29/1966;  Tottenham Hotspurs; 0-1; Bologna; Jersey City, NJ
 6/1/1966;   Tottenham Hotspurs; 1-2; Glasgow Celtic; San Francisco
 6/4/1966;   Tottenham Hotspurs; 1-1; Glasgow Celtic; Vancouver
 6/8/1966;   Tottenham Hotspurs; 3-0; Vancouver Stars; Vancouver
-6/12/1966;  Tottenham Hotspurs; 1-0; Mexico W.C. Team; Mexico City
-6/15/1966;  Tottenham Hotspurs; 1-0; America; Mexico City
+6/12/1966;  Tottenham Hotspurs; 1-0; Mexico World Cup Team; Mexico City
+6/15/1966;  Tottenham Hotspurs; 1-0; Club America; Mexico City
 6/17/1966;  Tottenham Hotspurs; 3-0; Bayern Munich; Detroit
 6/19/1966;  Tottenham Hotspurs; 1-0; Bayern Munich; Chicago
 
@@ -744,9 +753,10 @@ Competition: Domestic Tour
 *Players: Odd Ivar Lindberg (Norway), John Stewart (England), Bobby Roach (England), Eddie Hall (England), Anders Fagri (Norway), Dave Moorcroft (England), Brian Harvey (England), Fons Stoffels (Netherlands), Chris Bachofner (Netherlands), Chris Tönning (Sweden), Mike Renshaw (England), Per Larsen (Norway), Jay Moore (USA), Jan Bock (Sweden), Bill Crosbie (England), Hans Petter Enger (Norway), Graham Stirland (England); left 10/21/1967, Tom Weinholdt (Norway); left 10/27/1967
 
 
-
-Competition: Friendly
 Season: 1967
+
+Competition: International Tour
+
 
 8/22/1967; Dallas Tornado; 0-4; Cordoba CF; Cordoba, Spain
 
@@ -848,20 +858,20 @@ Season: 1967
 
 3/8/1968; Dallas Tornado; 3-3; Saprissa; San Jose, Costa Rica
 
-3/12/1968; Dallas Tornado; 1-2; Olympia; Tegucigalpa, Honduras
+3/12/1968; Dallas Tornado; 1-2; CD Olimpia; Tegucigalpa, Honduras
         
 
 
-
+Season: 1968
 
 * Dumfermline FC, Scotland:  May 15, 1968 - June 12, 1968.  Results:  3 wins, 6 draws, 1 loss.
-* 5/12/1968;  Dunfermline; 0-0, Fall River Astros (match abandoned at half-time; 2,100)
+* 5/12/1968;  Dumfermline; 0-0, Fall River Astros (match abandoned at half-time; 2,100)
 5/15/1968;  Dumfermline; 1-1; Manchester City; Toronto
-5/19/1968;  Dunfermline; 1-1; Manchester City; Willow Brook Park, New Britain, Conn; 4000
+5/19/1968;  Dumfermline; 1-1; Manchester City; Willow Brook Park, New Britain, Conn; 4000
 5/22/1968;  Dumfermline; 0-2; Greek-Americans; New York City
 5/30/1968;  Dumfermline; 1-1; Kansas City Spurs; Memorial Stadium, Kansas City; 10507
 6/1/1968;   Dumfermline; 0-0; Manchester City; Vancouver; 6,500
-6/5/1968;   Dumferlmine; 0-0; Vancouver Canadians; Vancouver
+6/5/1968;   Dumfermline; 0-0; Vancouver Canadians; Vancouver
 6/9/1968;   Dumfermline; 3-1; St. Louis Stars; Oakland; 25327
 * Doubleheader
 6/11/1968;  Dumfermline; 8-1; Rochester Lancers; Rochester
@@ -882,26 +892,26 @@ Season: 1967
 
 
 * Santos Tour of the United States:  June 21, 1968 - September 1, 1968.  Results:  10 wins, 1 draws, 2 losses.
-6/21/1968;  Santos; 4-2; Napoli; Yankee Stadium; New York; 43002
-6/26/1968;  Santos; 6-2; Napoli; Downing Stadium; New York; 7237
-6/28/1968;  Santos; 5-2; Napoli; Varsity Stadium, Toronto;  15514
+6/21/1968;  Santos (Brazil); 4-2; Napoli; Yankee Stadium; New York; 43002
+6/26/1968;  Santos (Brazil); 6-2; Napoli; Downing Stadium; New York; 7237
+6/28/1968;  Santos (Brazil); 5-2; Napoli; Varsity Stadium, Toronto;  15514
 * together with Toronto Falcons v Baltimore Bays; 15,514)
-6/30/1968;  Santos; 3-2; St Louis Stars; Busch Stadium, St Louis; 20116
-7/4/1968;   Santos; 4-1; Kansas City Spurs; Municipal Stadium, Kansas City; 19296
-7/6/1968;   Santos; 4-3; Necaxa; Memorial Coliseum, Los Angeles; 12418
-7/8/1968;   Santos; 7-1; Boston Beacons; Fenway Park, Boston; 18431
-7/10/1968;  Santos; 1-2; Cleveland Stokers; Municipal Stadium, Cleveland; 16205
-7/12/1968;  Santos; 3-5; New York Generals; Yankee Stadium, New York; 15645
-7/14/1968;  Santos; 3-1; Washington Whips; DC Stadium, Washington; 20189
-8/28/1968;  Santos; 6-2; Atlanta Chiefs; Atlanta Stadium; 26713
-8/30/1968;  Santos; 3-1; Oakland Clippers; Oakland Coliseum; 29612
-9/1/1968;   Santos; 3-3; Benfica; Yankee Stadium, New York; 36904
+6/30/1968;  Santos (Brazil); 3-2; St. Louis Stars; Busch Stadium, St. Louis; 20116
+7/4/1968;   Santos (Brazil); 4-1; Kansas City Spurs; Municipal Stadium, Kansas City; 19296
+7/6/1968;   Santos (Brazil); 4-3; Necaxa; Memorial Coliseum, Los Angeles; 12418
+7/8/1968;   Santos (Brazil); 7-1; Boston Beacons; Fenway Park, Boston; 18431
+7/10/1968;  Santos (Brazil); 1-2; Cleveland Stokers; Municipal Stadium, Cleveland; 16205
+7/12/1968;  Santos (Brazil); 3-5; New York Generals; Yankee Stadium, New York; 15645
+7/14/1968;  Santos (Brazil); 3-1; Washington Whips; DC Stadium, Washington; 20189
+8/28/1968;  Santos (Brazil); 6-2; Atlanta Chiefs; Atlanta Stadium; 26713
+8/30/1968;  Santos (Brazil); 3-1; Oakland Clippers; Oakland Coliseum; 29612
+9/1/1968;   Santos (Brazil); 3-3; Benfica; Yankee Stadium, New York; 36904
 * (together with New York Generals v Detroit Cougars; 36,904)
 
 
 * Dortmund, Germany: May 30, 1968 through June 19, 1968.  Results:  5 wins, 0 draws, 1 loss.
 5/30/1968;  Borussia Dortmund; 2-1; Manchester City; Chicago; 8779
-6/5/1968;   Borussia Dortmund; 10-1; St Louis All-Stars; St Louis
+6/5/1968;   Borussia Dortmund; 10-1; St. Louis Stars; St. Louis
 6/10/1968;  Borussia Dortmund; 0-2; Universidad; Los Angeles; 10874
 6/13/1968;  Borussia Dortmund; 3-1; Kansas City Stars; Kansas City
 6/18/1968;  Borussia Dortmund; 11-0; Edmonton Victoria Canadians; Edmondon; 3500
@@ -916,16 +926,20 @@ Competition: International Tour
 7/5/1968;  Portuguese SC; 3-2; Club de Horta; Fayal
 7/7/1968;  Portuguese SC; 3-2; Sports Club; Fayal
 7/9/1968;  Portuguese SC; 3-3; Clube Atletico; Fayal
-7/14/1968; Portuguese SC; 3-3; Maritino; St. Michaels
+7/14/1968; Portuguese SC; 3-3; Maritimo; St. Michaels
 
+
+Season: 1969
 
 Competition: Domestic Tour
+
+
 
 * Foreign Exhibitions promoted by New York Inter, ASL: 
 2/18/1969;  Racing (Argentina); 2-0; Mexico City; Los Angeles
 2/25/1969;  Racing (Argentina); 4-0; Vancouver Canadians; Vancouver
-6/21/1969;  Napoli; 2-4; Santos; Yankee Stadium, NYC
-9/1/1969;   Benfica; 3-3; Santos; Yankee Stadium, NYC
+6/21/1969;  Napoli; 2-4; Santos (Brazil); Yankee Stadium, NYC
+9/1/1969;   Benfica; 3-3; Santos (Brazil); Yankee Stadium, NYC
 9/15/1969;  Israeli; 3-3; US National Team; Yankee Stadium, NYC
 10/27/1969; Israeli; 1-3; New York Generals/Inter Selection; Randall's Island, NYC
 
@@ -933,16 +947,16 @@ Competition: Domestic Tour
 * California Clippers: January 26, 1969 through June 1, 1969. Results: 7 wins, 2 draws, 6 losses.
 
 1/26/1969; California Clippers; 2-0; Deportivo Atlas; Kezar Stadium; 5142
-2/2/1969; California Clippers; 7-1; Latin-American All-Stars 1; Balboa Park Stadium, San Francisco; 3000
-2/23/1969; California Clippers; 2-3; Dynamo Kiev 3; Kezar Stadium; 11815
-3/2/1969; California Clippers; 1-1; Dynamo Kiev 1; Memorial Coliseum, Los Angeles; 10287
-3/9/1969; California Clippers; 1-0; Dynamo Kiev 0; Kezar Stadium; 11223
-3/23/1969; California Clippers; 5-1; San Francisco All-Stars 1; Balboa Park Stadium, San Francisco
-4/13/1969; California Clippers; 4-0; United States 0; Balboa Park Stadium, San Francisco; 2000
-4/27/1969; California Clippers; 8-1; Southern California All-Stars 1; Rancho Cienega Stadium; 1500
-5/2/1969; California Clippers; 1-3; Club America 3; Memorial Coliseum, San Francisco; 3666
-5/4/1969; California Clippers; 1-3; Club America 3; Spartan Stadium; 5112
-5/18/1969; California Clippers; 0-2; VFC Setubal 2; McLane High School, Fresno; 3216
+2/2/1969; California Clippers; 7-1; Latin-American All-Stars; Balboa Park Stadium, San Francisco; 3000
+2/23/1969; California Clippers; 2-3; Dynamo Kiev; Kezar Stadium; 11815
+3/2/1969; California Clippers; 1-1; Dynamo Kiev; Memorial Coliseum, Los Angeles; 10287
+3/9/1969; California Clippers; 1-0; Dynamo Kiev; Kezar Stadium; 11223
+3/23/1969; California Clippers; 5-1; San Francisco All-Stars; Balboa Park Stadium, San Francisco
+4/13/1969; California Clippers; 4-0; United States; Balboa Park Stadium, San Francisco; 2000
+4/27/1969; California Clippers; 8-1; Southern California All-Stars; Rancho Cienega Stadium; 1500
+5/2/1969; California Clippers; 1-3; Club America; Memorial Coliseum, San Francisco; 3666
+5/4/1969; California Clippers; 1-3; Club America; Spartan Stadium; 5112
+5/18/1969; California Clippers; 0-2; VFC Setubal; McLane High School, Fresno; 3216
 5/23/1969; California Clippers; 2-2; West Bromwich Albion; Memorial Coliseum; 5143
 5/25/1969; California Clippers; 1-3; Dukla Prague; Stanford Stadium; 11513
 * doubleheader 

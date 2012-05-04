@@ -7,82 +7,10 @@ teams = {}
 
 world = {
 
-    'Roma': 'A.S. Roma',
-    
-    'Besiktas': 'Beşiktaş J.K.',
-    'Bologna': 'Bologna F.C. 1909',
-    'Fenerbahce': 'Fenerbahçe S.K.',
-    'Ferencvaros': 'Ferencvárosi TC',
-    'Aston Villa': 'Aston Villa F.C.',
-    'Bodo/Glimt': 'FK Bodø/Glimt',
-    'Napoli': 'S.S.C. Napoli',
-    'Newcastle': 'Newcastle United F.C.',
-    'Newcastle United': 'Newcastle United F.C.',
-    'Nottingham Forest': 'Nottingham Forest F.C.',
-    'Norwich City': 'Norwich City F.C.',
-    'Orebro': 'Örebro SK',
-    'Paris St.-Germain': 'Paris Saint-Germain F.C.',
-    'Antwerp': 'Royal Antwerp F.C.',
-    'Preston North End': 'Preston North End F.C.',
-    'Hearts': 'Hearts of Midlothian F.C.',
-    'Hearts of Midlothian': 'Hearts of Midlothian F.C.',
-    'Independiente': 'CA Independiente',
-    'Manchester City': 'Manchester City F.C.',
-    'Mariitimo': 'C.S. Maritimo',
-    'Millionarios': 'Millionarios FC',
-    'Penarol': 'C.A. Peñarol',
-    'Plymouth Argyle': 'Plymouth Argyle F.C.',
-    
-    
-    
-    'Sporting Lisbon': 'Sporting Clube de Portugal',
-    'Benfica': 'S.L. Benfica',
-
-    'TSC Muenchen 1860': 'TSV 1860 München',
-    'Tigres UANL': 'Tigres de la UANL',
-    'UANL Tigres': 'Tigres de la UANL',
-    'Tecos': 'Estudiantes Tecos',
-    'UAG': 'Estudiantes Tecos',
-    'UAG Tecos': 'Estudiantes Tecos',
-    'Racing (Argentina)': 'Racing Club de Avellaneda',
-    'Racing Club (Argentina)': 'Racing Club de Avellaneda',
-    'Reggina': 'Reggina Calcio',
-    'CD Guadalajara': 'C.D. Guadalajara Chivas',
-    'Celtic F.C.': 'Glasgow Celtic F.C.',
-    
-
-    'Birmingham City': 'Birmingham City F.C.',
-
-    'Huddersfield Town': 'Huddersfield Town F.C.',
-
-    'Deportivo Atlas': 'Club Atlas',
-    'Atlas': 'Club Atlas',
-    'Everton': 'Everton F.C.',
-    'Sunderland': 'Sunderland A.F.C.',
-    'Sampdoria': 'U.C. Sampdoria',
-    'Saarbrucken': '1. FC Saarbrücken',
-    'Saarbruecken': '1. FC Saarbrücken',
-    
-
-    'Comunicaciones': 'C.S.D. Comunicaciones',
-    'Alajuelense': 'L.D. Alajuelense',
-
-    'Leeds United': 'Leeds United A.F.C.',
-    'Liverpool': 'Liverpool F.C.',
-    'Liverpool FC': 'Liverpool F.C.',
-    'Nuernberg': '1. FC Nuremberg',
-
-    'Rangers': 'Rangers F.C.',
-    'Rangers FC': 'Rangers F.C.',
-    'Rangers F.C.': 'Glasgow Rangers F.C.',
-    
-    'MacKenzie FC (Akron)': 'Clan Mackenzie FC (Akron)',
-    'Clan MacKenzie': 'Clan Mackenzie FC (Akron)',
-    
-
-    'Aberdeen': 'Aberdeen F.C.',
     'Inter Milan': 'F.C. Internazionale Milano',
     'Internazionale': 'F.C. Internazionale Milano',
+
+    
 
     'Jonkopping': 'Jönköpings Södra IF',
     'Uberlandia (Brazil)': 'Uberlândia Esporte Clube',
@@ -94,14 +22,14 @@ world = {
     'America-Cali': 'América de Cali',
     'Barcelona': 'FC Barcelona',
     'Fiorentina': 'AFC Fiorentina',
-    'Malmo': 'Malmö FF',
+    'Malmo': 'Malmö',
     'A.C. Milan': 'AC Milan',
     'A. C. Milan': 'AC Milan',
     'Tottenham Hotspurs': 'Tottenham Hotspur',
     'Guadalajara': 'CD Guadalajara',
     'Chivas Guadalajara': 'CD Guadalajara',
     'Chivas': 'CD Guadalajara',
-    'Chelsea': 'Chelsea FC',
+    'Chelesa': 'Chelsea FC',
     'Chelsea F.C.': 'Chelsea FC',
     'Santos (Brazil)': 'Santos FC',
     'Santos': 'Santos FC',
@@ -114,16 +42,11 @@ world = {
     'Ajax': 'AFC Ajax',
     'Ajax Amsterdam': 'AFC Ajax',
     'Slavia Prague': 'SK Slavia Prague',
-    
 
     'A.I.K.': 'AIK Fotboll',
     'G.A.I.S.': 'GAIS',    
     'Saprissa': 'Deportivo Saprissa S.A.D.',
 
-    'Roanoke River Dawgs': 'Roanoke RiverDawgs',
-    'Roanoke Riverdawgs': 'Roanoke RiverDawgs',
-    
-    
 
 }
 teams.update(world)
@@ -133,39 +56,12 @@ international = {
     'South Korea National Team': 'South Korea',
     'Australian National Team': 'Australia',
     'Chinese National Team': 'China',
-    'Haiti National Team': 'Haiti',
-    'Honduran National Team': 'Honduras',
-    'Japan National Team': 'Japan',
-    'Japanese National Team': 'Japan',
-    'Paraguayan National Team': 'Paraguay',
-    'Singapore National Team': 'Singapore',
-    'El Salvador National Team': 'El Salvador',
-    'China National Team': 'China',
-    'Chinese National Team': 'China',
-    'Guatemalan National Team': 'Guatemala',
-    'Bermuda National Team': 'Bermuda',
-    'Colombian National Team': 'Colombian',
-    'Indonesia National Team': 'Indonesia',
-    'Iran National Team': 'Iran',
-    'Malaysia National Team': 'Malaysia',
-    'Puerto Rico National Team': 'Puerto Rico',
-    'Singapore National Team': 'Singapore',
-    'U. S. National Team': 'United States',
-    
-    
-
-    
     }
-teams.update(international)
 
 
 
 all_star = {
-    'British Columbia Mainland Stars': 'British Columbia Mainland All-Stars',
-    'British Columbia Stars': 'British Columbia All-Stars',
 
-    'Calgary XI': 'Calgary All_Stars',
-    
 
     'All Baltimore': 'Baltimore All-Stars',
     'All Chicago': 'Chicago All-Stars',
@@ -185,88 +81,27 @@ all_star = {
     'American Soccer League Stars': 'American Soccer League All-Stars',
     'American League Stars': 'American Soccer League All-Stars',
     'American League XI': 'American Soccer League All-Stars',
-    'American League': 'American Soccer League All-Stars',
-    'American League All-Stars': 'American Soccer League All-Stars',
+    
 
-
+    'American League': 'American League All-Stars',
     'C.Y.O. Stars': 'CYO Stars',
     'German American League Stars': 'German-American League All-Stars',
     'German-American League Stars': 'German-American League All-Stars',
     'German-American All-Stars': 'German American All-Stars',
 
 
-
     'Alberta Stars': 'Alberta All-Stars',
-    'Chicago Stars': 'Chicago All-Stars',
     'Cleveland Stars': 'Cleveland All-Stars',
-    'Connecticut Stars': 'Connecticut All-Stars',
-    'CYC Stars': 'CYC All-Stars',
-    'CYO Stars': 'CYO All-Stars',
-    'Detroit Stars': 'Detroit All-Stars',
-    'Eastern USA All-Stars': 'Eastern United States All-Stars',
-    'Eastern United States Stars': 'Eastern United States All-Stars',
-    'Edmonton Stars': 'Edmonton All-Stars',
-    'Fall River XI': 'Fall River All-Stars',
-    'Fort William XI': 'Fort William All-Stars',
-    'Fall River Stars': 'Fall River All-Stars',
-    'Greater Los Angeles Stars': 'Greater Los Angeles All-Stars',
-    'Hamilton Stars': 'Hamilton All-Stars',
-    'Hartford Stars': 'Hartford All-Stars',
-    'Indonesia XI': 'Indonesia All-Stars',
-    'Irish Stars': 'Irish All-Stars',
-    'Kearny Stars': 'Kearny All-Stars',
-    'Los Angeles Stars': 'Los Angeles All-Stars',
     'Detroit All Stars': 'Detroit All-Stars',
     'Mainland Stars': 'Mainland All-Stars',
-    'Manitoba Stars': 'Manitoba All-Stars',
-    'Milwaukee Stars': 'Milwaukee All-Stars',
-    'Montreal Stars': 'Montreal All-Stars',
-    'National League Stars': 'National League All-Stars',
-    'National Soccer League Stars': 'National League All-Stars',
-    'National League Select': 'National League All-Stars',
-    'New England Stars': 'New England All-Stars',
-    'New Jersey Stars': 'New Jersey All-Stars',
-    'New Jersey State Stars': 'New Jersey All-Stars',
-    'Ohio Stars': 'Ohio All-Stars',
-    'Ohio State Stars': 'Ohio All-Stars',
-    'Ontario Stars': 'Ontario All-Stars',
-    'Ottawa Stars': 'Ottawa All-Stars',
     'New York Stars': 'New York All-Stars',
     'Philadelphia Stars': 'Philadelphia All-Stars',
-    'Rochester Select': 'Rochester All-Stars',
-    'Saskatchewan Stars': 'Saskatchewan All-Stars',
     'U. S. Stars': 'U.S. Stars',
 }
 teams.update(all_star)
 
 
 oteams = {
-
-    'Goodyear FC': 'Akron Goodyear FC',
-    'Goodyear FC (Akron)': 'Akron Goodyear FC',
-    
-    
-    'Chicago Viking AC': 'Chicago Viking A.A.',
-
-    'Tower Ford': 'Tower Ford Casa Bianca',
-
-    'Gjoa': 'SC Gjoa',
-    'Bartunek Slavias': 'Bartunek Slavia',
-
-
-    'Eintracht S.C.': 'S.C. Eintracht',
-
-    'Chicago Eagles': 'A.A.C. Eagles',
-
-    'New York Hungarian': 'NY Hungaria',
-    'New York Hungarians': 'NY Hungaria',
-
-
-    'Milwaukee Bavarian Blue Ribbon': 'Milwaukee Bavarians',
-
-    'Kodak Park': 'Kodak Park FC',
-
-    'Hoboken F.C.': 'Hoboken FC',
 
     'Olympic SC (IL)': 'Olympia FC (Chicago)',
     'Olympia SC (Chicago)': 'Olympia FC (Chicago)',
@@ -286,21 +121,14 @@ oteams = {
     'General Electric': 'General Electric FC',
     'Girondins de Bordeaux': 'FC Girondins de Bordeaux',
     
-    'Baltimore Pompeii': 'Baltimore Pompei SC',
-    'Guiliana SC (East NY)': 'Giuliana SC',
+
 
     'Chicago Sparta Falstaff': 'Chicago Sparta',
 
     'Fall River F.C.': 'Fall River FC',
-    'Fall River Football Club': 'Fall River FC',
+    'Fall River Football Club': 'Fall River FC
 
     'Fall River S.C.': 'Fall River SC',
-
-    'Rochester Celtics': 'Rochester Celtic',
-
-    'Kelly Celtic': 'Rochester Kelly Celtic',
-    'Rochester Celtic': 'Rochester Kelly Celtic',
-    'Kelly Celtic (Rochester': 'Rochester Kelly Celtic',
 
 
     'Slavia F.C.': 'Slavia FC',
@@ -311,7 +139,6 @@ oteams = {
     'D.S.C. Brooklyn': 'DSC Brooklyn',
     'Centro-Hispano': 'Centro Hispano',
 
-    'Newark Ukrainian': 'Newark Ukrainian Sitch',
 
     'Milwaukee Bavarian': 'Milwaukee Bavarians',
     'Bavarian SC (WI)': 'Milwaukee Bavarians',
@@ -425,12 +252,9 @@ misc = {
     'Everett Bigfoot': 'Seattle BigFoot',
     'Elizabeth SC': 'Elizabeth S.C.',
 
-    'Federal Ship': 'Federal Ship FC',
-    'Federal Shipyard': 'Federal Ship FC',
-    'Federal Shipbuilding': 'Federal Ship FC',
-    'Federal Shipyards': 'Federal Ship FC',
-
-    'Kearny Erie': 'Erie AA',
+    'Federal Ship': 'Federal Shipyards',
+    'Federal Ship FC': 'Federal Shipyards',
+    'Federal Shipbuilding': 'Federal Shipyards',
 
 
     'Becks German American SC (Buf.)': 'Becks German American S.C. (Buf.)',
@@ -620,7 +444,7 @@ misc = {
 
     'Los Angeles Kickers-Victoria (South California)': 'Los Angeles Kickers',
     
-    'D. C. United': 'D.C. United',
+    
 
     'St. Louis Scullin Steel': 'Scullin Steel',
     'Stix, Baer & Fuller': 'Stix, Baer and Fuller F.C.',

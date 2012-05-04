@@ -29,7 +29,7 @@ d = {
         (1955, 'Philadelphia Uhrik Truckers'),
         (1957, 'Elizabeth Falcons'),
         (1958, 'Philadelphia Uhrik Truckers'),
-        (1959, 'Philadelphia Ukranian Nationals'),
+        (1959, 'Philadelphia Ukrainian Nationals'),
         (1963, 'Newark Ukrainian Sitch'),
         ]
     }

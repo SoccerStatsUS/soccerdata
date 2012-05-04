@@ -1,9 +1,28 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+d = {}
+
+basic = {
+    'pk': 'penalty kick',
+    'PK': 'penalty kick', 
+
+    'Own goal': 'Own Goal',
+    'own goal': 'Own Goal',
+}
+d.update(basic)
+
 
 names = {
+    'John O’Connell': 'John O\'Connell',
+    'Jack O’Reilly': 'Jack O\'Reilly',
+    'O’Donnell': 'O\'Donnell',
+    'O’Brien': 'O\'Brien',
+    'O’Hara': 'O\'Hara',
+    'Mckay': 'McKay',
+    'Mcmenemy': 'McMenemy',
 
+    'Alexander Neufeld': 'Sandor Nemes',
     'Joseph (Joey) Johnson': 'Joey Johnson',
     'Leon (Kacy) Jones': 'Leon Jones',
 
@@ -234,10 +253,6 @@ names = {
     
 
 
-    'pk': 'penalty kick',
-    'PK': 'penalty kick', 
-
-    'Own goal': 'Own Goal',
 
 
     # Staging
@@ -930,6 +945,7 @@ names = {
     u'Ronnie O\u2019Brien': 'Ronnie O\'Brien',
     'Ricky Balchan': 'Rich Balchan',
     'Ryseheim Henderson': 'Ryshiem Henderson', #http://en.wikipedia.org/wiki/Ryshiem_Henderson
+
 
     'Steven Vukovic': 'Stefan Vukovic',
     'Santiago Primm': 'Santiago Prim',
