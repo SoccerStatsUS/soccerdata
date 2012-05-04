@@ -1,32 +1,31 @@
 
 SOURCES = [
+    'tours',
 
-        'open_cup',
-        'american_cup',
-        'lewis_cup',
+    'open_cup',
+    'american_cup',
+    'lewis_cup',
 
-        'asl',
-        'nasl',
-        'mls',
-        'mls2',
-        'mls_reserve',
+    'asl',
+    'nasl',
+    'mls',
+    'mls2',
+    'mls_reserve',
 
+    'apsl',
+    'usl',
+    'usl_leach',
+    'nasl2',
 
-        'apsl',
-        'usl',
-        'usl_leach',
-        'nasl2',
+    'asl2_partial',
 
+    'chris',
 
-        'asl2_partial',
+    'ncaa',
 
-        'chris',
-
-        'ncaa',
-
-        'world_cup',
-        'usa',
-        'concacaf',
+    'world_cup',
+    'usa',
+    'concacaf',
         ]
 
 
@@ -44,4 +43,7 @@ l =    [
         ]
 
 # What items are shown on the dashboard?
-STAT_TABLES = 'games', 'goals', 'stats', 'lineups', 'standings', 'bios', 'teams', 'positions', 'drafts', 'awards'
+STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'bios', 'positions', 'drafts', 'awards'
+
+
+SINGLE_TABLES = 'team', 'stadium', 
