@@ -16,23 +16,48 @@ from soccerdata.alias import get_team, get_name
 from soccerdata.utils import scrape_soup, get_contents
 from soccerdata.cache import set_cache, data_cache
 
-easy_cache = data_cache
+url_cache = data_cache
+game_cache = data_cache
+detail_cache = data_cache
+
+"""
+How should a typical load go?
+
+Cacheing sould happen on each level.
+
+But there are essentially three levels.
+
+Need to separate conceptually and cache different levels.
+
+1. Load game urls.
+2. Load game data.
+3. Load extended data.
+
+1. Get scoreboard urls for each date. - 
+2. Get game urls for each scoreboard.
+3. Fetch game data from urls.
+4. Use game data to fetch lineup, goal, and foul data.
+
+"""
 
 
 # Need to set up a way of doing this better.
 
 
-# Soccernet is probably the best of all.
-# Triple down on soccernet.
+# 1. Scrape_all_league_scores
+# scrape_scoreboard_urls
+# for url in urls: scrape_league_scoreboard(url)
 
-# Need to focus on this socreboard:
-# http://soccernet.espn.go.com/scores?date=20110930&league=all&cc=5901&xhr=1
+#  scrape_all_league_games
+# scrape_all_league_scores
+# for each url, scrape_live_game(url)
+
 
 aliases = {
     # CONCACAF Champions League...
     'Motagua': 'CD Motagua',
-    'Olimpia (H)': 'Olimpia',
-    'San Fco': 'San Francisco',
+    'Olimpia (H)': 'CD Olimpia',
+    'San Fco': 'San Francisco F.C.',
 
     'Chicago': 'Chicago Fire',
     'Colorado': 'Colorado Rapids',
@@ -77,7 +102,7 @@ def code_to_competition(league_code):
 
 
 
-def get_match_stats_url(url):
+def make_match_stats_url(url):
     """
     Get the match url of a different link to a game.
     """
@@ -99,15 +124,37 @@ def get_match_stats_url(url):
         raise
 
 
-# Only returning internally used data.
 
-@easy_cache
-def scrape_scoreboard_urls(url):
+# Don't switch this away from data_cache unless you're certain.
+# It's unlikely for there to be a good reason.
+def get_scoreboard_urls(league_code, start, end=None):
     """
     Returns a list of game urls for a given scoreboard category, e.g. mls.1
     """
 
-    @easy_cache
+    date_code = start.strftime("%Y%m%d") # 20090515, e.g.
+    base_url = 'http://soccernet.espn.go.com/scores?date=%s&league=%s&cc=5901&xhr=1' 
+    search_url = base_url % (date_code, league_code)
+
+    def keep_searching(url):
+        if end is None:
+            return True
+
+        u = url.split("date=")[1]
+        u = u.split("&league")[0]
+        year, month, day = u[:4], u[4:6],  u[6:]
+        try:
+            d = datetime.date(int(year), int(month), int(day))
+        except:
+            print "scoreboard date fail on %s" % url
+            return False
+
+        return d >= end
+
+
+
+    #@data_cache
+    @set_cache
     def get_previous_url(url):
         """
         Given a scoreboard, scrape the url for the previous scoreboard.
@@ -119,29 +166,37 @@ def scrape_scoreboard_urls(url):
         return full_url
 
 
-    new_url = get_previous_url(url)
+    new_url = get_previous_url(search_url)
     urls = [new_url]
     while new_url:
         new_url = get_previous_url(new_url)
+
+        # Check that the date is over.
+        if not keep_searching(new_url):
+            return urls
+
+        # Will loop back if necessary.
         if new_url in urls:
             return urls
+
         urls.append(new_url)
+
     return urls
 
 
 
 # Just use these to get urls.
 # Don't use for actual game results.
-@easy_cache
-def scrape_league_scoreboard(url):
+@url_cache
+def scrape_scoreboard(url):
     """
-    Get game result data from a scoreboard page.
+    Get 
     """
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+
     
-    gameboxes = soup.findAll("div", 'gamebox')
-    
-    def process_game(game):
+    def get_valid_url(game):
+        # Tries to fetch all urls from a scoreboard.
+
         data = [get_contents(e) for e in game.findAll("a")] 
         home_team, score, away_team = data[:3]
 
@@ -151,88 +206,86 @@ def scrape_league_scoreboard(url):
 
         score = score.replace("&nbsp;", ' ')
 
+        # Should probably do these in the game scraper.
+
+        # Make sure that the game is valid.
+
         # Game postponed
         if score == "P - P":
             return {}
 
+        # Unplayed
         if score == 'v':
             return {}
 
+        # Make sure the score is parseable.
         try:
             home_score, away_score = [int(e) for e in  score.replace("&nbsp;", '').split("-")]
         except:
             print data
             return {}
 
-        return {
-            'url': url
-            }
+        return url
 
-    return [process_game(game) for game in gameboxes]
-
-
+    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+    gameboxes = soup.findAll("div", 'gamebox')
+    return [get_valid_url(game) for game in gameboxes]
 
 
-@easy_cache
-def scrape_all_league_scores(league_code):
+
+
+@url_cache
+def get_urls_for_league(league_code):
     """
     Scrape all league game data from scoreboards
     """
-    # I recommend not doing this. Probably not going to get correct game info from a scoreboard.
 
-    # A league would be, e.g. usa.1
-    # The soccernet league code.
+    yesterday = datetime.date.today() - datetime.timedelta(days=1)
+    scoreboard_urls = get_scoreboard_urls(league_code, yesterday, datetime.date(2008, 1, 1))
 
-    url = 'http://soccernet.espn.go.com/scores?date=20110930&league=%s&cc=5901&xhr=1' % league_code
-    urls = scrape_scoreboard_urls(url)
-
-    games = []
-    for url in urls:
+    urls = []
+    for url in scoreboard_urls:
         try:
-            games.extend(scrape_league_scoreboard(url))
+            urls.extend(scrape_scoreboard(url))
         except:
             print url
 
-    return [e for e in games if e]
+    return [e for e in urls if e]
 
 
-
-@easy_cache
 def scrape_all_league_games(league_code):
     competition = code_to_competition(league_code)
     games = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
+    for u in get_urls_for_league(league_code):
+        url = make_match_stats_url(u)
         games.append(scrape_live_game(url, competition))
     return games
 
 
-@easy_cache
 def scrape_all_league_goals(league_code):
     competition = code_to_competition(league_code)
     goals = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
+    for u in get_urls_for_league(league_code):
+        url = make_match_stats_url(u)
         goals.extend(scrape_live_goals(url, competition))
     return goals
 
 
-@easy_cache
 def scrape_all_league_lineups(league_code):
     """
     Scrape all lineups ever for a given competition.
     """
     competition = code_to_competition(league_code)
     l = []
-    for score in scrape_all_league_scores(league_code):
-        url = get_match_stats_url(score['url'])
+    for u in get_urls_for_league(league_code):
+        url = make_match_stats_url(u)
         l.extend(scrape_live_lineups(url, competition))
     return l
 
 
 
 
-@easy_cache
+@game_cache
 def scrape_live_game(url, competition):
     """
     Get game data from a game page.
@@ -269,8 +322,8 @@ def scrape_live_game(url, competition):
     minute, date_string = datetime_string.split(',', 1)
     date = datetime.datetime.strptime(date_string.strip(), "%B %d, %Y")
 
-    home_team = get_team(home_team, pre_dict=aliases)
-    away_team = get_team(away_team, pre_dict=aliases)
+    home_team = aliases.get(home_team, home_team)
+    away_team = aliases.get(away_team, away_team)
 
     return {
         'team1': home_team,
@@ -283,11 +336,11 @@ def scrape_live_game(url, competition):
         'date': date,
         'location': location,
         'referee': referee,
-        'url': url,
+        'source': url,
         }
 
 
-@easy_cache
+@detail_cache
 def scrape_live_goals(url, competition):
     """
     Get goal data from a game page.
@@ -336,12 +389,13 @@ def scrape_live_goals(url, competition):
         return {
             'goal': get_name(player),
             'minute': minute,
-            'team': get_team(team, pre_dict=aliases),
+            'team': aliases.get(team, team),
             'type': goal_type,
             'season': unicode(game_data['date'].year),
             'date': game_data['date'],
             'competition': game_data['competition'],
             'assists': [],
+            'source': url,
             }
 
     # Not the best way to handle this now that we've switched away from home/away designations.
@@ -359,7 +413,7 @@ def scrape_live_goals(url, competition):
     return goals
 
 
-@easy_cache
+@detail_cache
 def scrape_live_lineups(url, competition):
     """
     Scrape a lineup from a game url.
@@ -441,10 +495,11 @@ def scrape_live_lineups(url, competition):
                     'name': get_name(player),
                     'on': on,
                     'off': off,
-                    'team': get_team(team, pre_dict=aliases),
+                    'team': aliases.get(team, team),
                     'date': game_data['date'],
                     'season': unicode(game_data['date'].year),
                     'competition': game_data['competition'],
+                    'source': url,
                     })
 
         return lineup
@@ -495,8 +550,10 @@ if __name__ == "__main__":
         'arg.1',
         ]
 
-    #print scrape_all_league_games('concacaf.champions')
+    print scrape_all_league_games('concacaf.champions')
     print scrape_all_league_games('usa.1')
+    #print scrape_all_league_goals('usa.1')
+    #print scrape_all_league_lineups('usa.1')
     #print scrape_all_league_games('uefa.champions')
     #print scrape_all_league_games('usa.1')
     #print scrape_all_league_games('mex.1')
