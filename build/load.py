@@ -172,7 +172,7 @@ def load_standings():
     soccer_db.standings.drop()
     f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
 
-    for e in 'mls', 'nasl', 'asl', 'asl2', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier', 'nasl0', 'lssa', 'npsl':
+    for e in 'mls', 'nasl', 'asl', 'asl2', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier', 'nasl0', 'lssa', 'npsl', 'usisl', 'slsl':
         f(e)
 
     

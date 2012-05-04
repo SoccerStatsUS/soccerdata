@@ -49,6 +49,7 @@ def merge_teams():
 def merge_standings():
     soccer_db.standings.drop()
     insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
+    insert_rows(soccer_db.standings, soccer_db.tours_standings.find())
     insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
     insert_rows(soccer_db.standings, soccer_db.open_cup_standings.find())
     insert_rows(soccer_db.standings, soccer_db.concacaf_standings.find())
@@ -283,7 +284,6 @@ def merge_stats():
 
     for coll in SOURCES:
         k = '%s_stats' % coll
-        print coll, soccer_db[k].count()
         for e in soccer_db[k].find():
             update_stat(e)
 

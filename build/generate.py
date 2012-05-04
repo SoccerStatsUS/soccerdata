@@ -41,6 +41,8 @@ def generate_all_stats():
     standard_generate('concacaf')
     standard_generate('apsl_professional_cup')
 
+    standard_generate('tours')
+
 
 
 
@@ -54,6 +56,7 @@ def generate_all_standings():
     sg('open_cup')
     sg('mls_reserve')
     sg('american_cup')
+    sg('tours')
 
 
 
