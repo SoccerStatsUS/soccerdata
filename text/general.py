@@ -290,8 +290,6 @@ class GeneralProcessor(object):
                 subs = subs.replace(")", "")
                 sub_items = subs.split(",")
 
-                #import pdb; pdb.set_trace()
-
                 return []
 
 

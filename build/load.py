@@ -30,9 +30,18 @@ def first_load():
     #load_midwest()
     #load_early
 
+
     load_standings()
 
+    load_cups()
+    load_tours()
+
+    return
+
+
     load_hall_of_fame()
+
+    load_leach()    
 
     load_mls()
     
@@ -42,15 +51,17 @@ def first_load():
     load_generals()
 
 
+
+
     load_asl()
     load_nasl()
 
     load_usl()
-    load_leach()
+
     load_apsl()
     load_partial()
 
-    load_cups()
+
 
     load_ncaa()
 
@@ -146,6 +157,14 @@ def load_cups():
 
 
 
+def load_tours():
+
+    for e in range(190, 201):
+        load_general('tours', 'tours/%s0' % e)
+
+
+
+
 def load_standings():
     from soccerdata.text import standings
     print "Loading chris standings.\n"
@@ -153,7 +172,7 @@ def load_standings():
     soccer_db.standings.drop()
     f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
 
-    for e in 'mls', 'nasl', 'asl', 'asl2', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier', 'nasl0', 'lssa':
+    for e in 'mls', 'nasl', 'asl', 'asl2', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier', 'nasl0', 'lssa', 'npsl':
         f(e)
 
     
