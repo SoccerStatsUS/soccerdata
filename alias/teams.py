@@ -7,7 +7,22 @@ teams = {}
 
 world = {
 
+    'Atlante': 'Atlante F.C.',
+    'Nacional': 'Club Nacional de Football',
+    'Wolverhampton': 'Wolverhampton Wanderers F.C.',
+    'Schalke 04': 'FC Schalke 04',
+
+    'Asturias': 'Club de Fútbol Asturias',
+
+    'Belgrano': 'Club Atlético Belgrano',
+
+
+
+
     'Roma': 'A.S. Roma',
+    'KS Ruch': 'K.S. Ruch',
+    'V.F.B. Stuttgart': 'VfB Stuttgart',
+    
     
     'Besiktas': 'Beşiktaş J.K.',
     'Bologna': 'Bologna F.C. 1909',
@@ -49,11 +64,16 @@ world = {
     'Reggina': 'Reggina Calcio',
     'CD Guadalajara': 'C.D. Guadalajara Chivas',
     'Celtic F.C.': 'Glasgow Celtic F.C.',
+    'Celtic FC': 'Glasgow Celtic F.C.',
     
 
     'Birmingham City': 'Birmingham City F.C.',
 
     'Huddersfield Town': 'Huddersfield Town F.C.',
+    'Rapid Wien': 'Rapid Vienna',
+    'Young Boys\' Club': 'BSC Young Boys',
+    'Wisla Krakov': 'Wisła Kraków',
+    'Bari': 'A.S. Bari',
 
     'Deportivo Atlas': 'Club Atlas',
     'Atlas': 'Club Atlas',
@@ -176,7 +196,7 @@ all_star = {
     'All Kents': 'Kent All-Stars',
     'All New York': 'New York All-Stars',
     'All-New York': 'New York All-Stars',
-    'All-Philadelphia': 'PHiladelphia All-Stars',
+    'All-Philadelphia': 'Philadelphia All-Stars',
     'All Philadelphia': 'Philadelphia All-Stars',
     'All-Stockholm': 'Stockholm All-Stars',
     'All Stockholm': 'Stockholm All-Stars',
@@ -187,6 +207,8 @@ all_star = {
     'American League XI': 'American Soccer League All-Stars',
     'American League': 'American Soccer League All-Stars',
     'American League All-Stars': 'American Soccer League All-Stars',
+    'US Stars': 'U.S. Stars',
+    'East L.A. Cobars': 'East L.A. Cobras',
 
 
     'C.Y.O. Stars': 'CYO Stars',
@@ -242,6 +264,20 @@ teams.update(all_star)
 
 oteams = {
 
+    'Avella Polar Stars (W. Pa.)': 'Avella (W. Pa.)',
+
+    'West Hudson FC': 'West Hudson A.A.',
+    'West Hudson AC': 'West Hudson A.A.',
+    
+
+    'Montclair Standard Falcons': 'Montclair Falcons',
+    'Fontana Falcons': 'Montclair Falcons',
+
+    'Gray & Davis': 'Grey & Davis', # Not sure about this one.
+    'Anderson S.C.': 'Andersons',
+    
+    
+
     'Goodyear FC': 'Akron Goodyear FC',
     'Goodyear FC (Akron)': 'Akron Goodyear FC',
     
@@ -275,6 +311,8 @@ oteams = {
     'Holyoke Falco': 'Holyoke Falcons',
     'Hota SC': 'NY Hota SC',
     'NY Hota-Bavarian SC': 'NY Hota SC',
+
+
     
     'Becks German American SC (Buffalo)': 'Buffalo Becks',
 
