@@ -46,7 +46,7 @@ import os
 import re
 import sys
 
-from soccerdata.alias import get_name, get_team
+from soccerdata.alias import get_name
 from soccerdata.cache import data_cache, set_cache
 
 
@@ -186,7 +186,10 @@ def load_all_games_scaryice():
     for e in l:
         s.add(tuple(sorted(e.items())))
 
-    return sorted([dict(e) for e in s])
+    
+    l = sorted([dict(e) for e in s])
+    return [e for e in l if int(e['season']) < 2008]
+
 
     
 
@@ -198,7 +201,9 @@ def load_all_goals_scaryice():
         l.extend(get_goals(fn))
 
     lineups = make_lineup_dict()
-    return correct_goal_names(l, lineups)
+    goals = correct_goal_names(l, lineups)
+    return [e for e in goals if int(e['season']) < 2008]
+    
     
 
 
@@ -208,6 +213,8 @@ def load_all_lineups_scaryice():
     for key in file_mapping.keys():
         fn = "%s.csv" % key
         l.extend(get_lineups(fn))
+
+    return [e for e in l if int(e['season']) < 2008]
     return l
 
 
@@ -347,7 +354,7 @@ def correct_goal_names(goal_list, lineup_dict):
 
         d = goal.copy()
         if real_name:
-            d['goal'] = get_name(real_name)
+            d['goal'] = real_name
         l.append(d)
 
     return l
@@ -415,8 +422,8 @@ def get_scores(fn):
         else:
             raise
 
-        home_team = get_team(team_map.get(home_team, home_team))
-        away_team = get_team(team_map.get(away_team, away_team))
+        home_team = team_map.get(home_team, home_team)
+        away_team = team_map.get(away_team, away_team)
         
         return {
             'competition': get_competition(match_type),
@@ -495,9 +502,13 @@ def get_goals(filename):
             player = match.groups()[0]
             minute = int(match.groups()[2])
 
+            # Avoid loading goals from after 2008. This creates problems with lineup_dict
+            if date.year >= 2008:
+                return {}
+
             return {
                 'competition': get_competition(match_type),
-                'team': get_team(team_map.get(team_name, team_name)),
+                'team': team_map.get(team_name, team_name),
                 'date': date,
                 'season': unicode(date.year),
                 'goal': player.strip(),
@@ -616,7 +627,7 @@ def get_lineups(filename):
 
     p = os.path.join(LINEUPS_DIR, filename)
     t = file_mapping[filename.replace(".csv", '')]
-    team_name = get_team(team_map.get(t, t))
+    team_name = team_map.get(t, t)
 
     l = []
     for line in open(p).readlines():
@@ -744,9 +755,9 @@ class LineupProcessor(object):
         for row in rows:
             lineups = self.consume_row(row)
             for lineup in lineups:
-                lineup['name'] = get_name(lineup['name'].strip().replace(")(", ""))
+                lineup['name'] = lineup['name'].strip().replace(")(", "")
                 lineup.update({
-                    'team': get_team(team_map.get(self.team, self.team)),
+                    'team': team_map.get(self.team, self.team),
                     'date': self.date,
                     'season': unicode(self.date.year),
                     'competition': self.competition,
