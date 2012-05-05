@@ -9,7 +9,7 @@ SOURCES = [
     'asl',
     'nasl',
     'mls',
-    'mls2',
+    'mls_soccernet',
     'mls_reserve',
 
     'apsl',

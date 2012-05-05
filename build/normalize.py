@@ -131,4 +131,5 @@ def normalize():
             l.append(e)
 
         coll.drop()
+        insert_rows(coll, l)
 

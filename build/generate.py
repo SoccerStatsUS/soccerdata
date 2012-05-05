@@ -43,6 +43,10 @@ def generate_all_stats():
 
     standard_generate('tours')
 
+    x = generate_stats(soccer_db['mls_soccernet_goals'].find(), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
+    generic_load(soccer_db['mls_soccernet_stats'], lambda: x.values())
+
+
 
 
 

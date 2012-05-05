@@ -29,15 +29,16 @@ def first_load():
     # Experiments
     #load_midwest()
     #load_early
+    load_drafts()
+
 
 
     load_standings()
 
+
+
     load_cups()
     load_tours()
-
-    return
-
 
     load_hall_of_fame()
 
@@ -46,12 +47,9 @@ def first_load():
     load_mls()
     
     load_positions()
-    load_drafts()
+
 
     load_generals()
-
-
-
 
     load_asl()
     load_nasl()
@@ -61,9 +59,11 @@ def first_load():
     load_apsl()
     load_partial()
 
-
+    load_concacaf()
 
     load_ncaa()
+
+    load_mls_soccernet()
 
 
 
@@ -76,7 +76,7 @@ def first_load():
     load_teams()
 
     # soccernet / recent stats.
-    load_mls2()
+
 
     # USMNT
     load_usa()
@@ -86,7 +86,7 @@ def first_load():
 
     # Ideally, Gold Cup, CONCACAF Champions League, Concacaf Cup
     # World Cup Qualifiers
-    load_concacaf()
+
 
 
     load_analysis()
@@ -172,7 +172,43 @@ def load_standings():
     soccer_db.standings.drop()
     f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
 
-    for e in 'mls', 'nasl', 'asl', 'asl2', 'wsa', 'apsl', 'cosmo', 'usl/12', 'usl/select', 'usl/pro', 'usl/premier', 'nasl0', 'lssa', 'npsl', 'usisl', 'slsl':
+    for e in [
+        'early',
+        
+        'mls', 
+        'nasl', 
+        'asl', 
+        
+        'asl2', 
+        'wsa', 
+        'apsl', 
+        'isl',
+
+        'midwest',
+
+        'usl0',
+        'usl/12', 
+        'usl/select', 
+        'usl/pro', 
+        'usl/premier', 
+        'usisl', 
+        'nasl0', 
+        'npsl',
+        'ussf2',
+        'uslpro',
+
+        'lssa', 
+        'cosmo', 
+        'slsl',
+        'csl',
+        'cpsl',
+
+
+        'concacaf/jamaica',
+        'concacaf/trinidad',
+        'concacaf/honduras',
+
+        ]:
         f(e)
 
     
@@ -317,8 +353,8 @@ def load_mls_data():
     generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
 
 
-def load_mls2():
-    load_soccernet_league('usa.1', 'mls2')
+def load_mls_soccernet():
+    load_soccernet_league('usa.1', 'mls_soccernet')
 
 
 def load_mls_lineups():
