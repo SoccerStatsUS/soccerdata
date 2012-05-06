@@ -2,6 +2,39 @@
 
 {% block content %}
 
+<table>
+
+  <tr>
+      <th>coll</th>
+      <th>#</th>
+  </tr>
+
+  <tr>
+    <td>stadiums</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>bios</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>teams</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>positions</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>drafts</td>
+    <td></td>
+  </tr>
+
+</table>
+
 {% macro scraper_table(header, data) %}
 <tr>
   <td>{{ header }}</td>
@@ -10,7 +43,6 @@
   {% endfor %}
 </tr>
 {%- endmacro %}
-
 
 <table>
   <tr>
@@ -32,4 +64,6 @@
 {% endfor %}
 
 </table>
+
+
 {% endblock %}
