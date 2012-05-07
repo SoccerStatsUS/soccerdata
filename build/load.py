@@ -22,55 +22,36 @@ def first_load():
     Load all data.
     """
 
-    # Base data.
+    standard_load()
 
-    clear_all()
-    
-    # Experiments
-    #load_midwest()
-    #load_early
-    load_drafts()
+    load_hall_of_fame()
 
-
-
-    load_standings()
-
+    load_nasl2()
+    load_small_tournaments()
+    load_nafbl()
 
 
     load_cups()
     load_tours()
 
-    load_hall_of_fame()
-
-    load_leach()    
-
-    load_mls()
-    
-    load_positions()
-
-
-    load_generals()
 
     load_asl()
     load_nasl()
-
-    load_usl()
-
-    load_apsl()
-    load_partial()
+    load_mls()
 
     load_concacaf()
 
+    load_asl2()
+    load_apsl()
+    load_usl()
+    load_leach()    
+
     load_ncaa()
-
-    load_mls_soccernet()
-
-
 
     return
 
     # Fix this first.
-    load_nasl2()
+
 
     # reconsider this. Or at least clean up.
     load_teams()
@@ -103,8 +84,25 @@ def second_load():
     pass
 
 
+def standard_load():
 
-def load_generals():
+    clear_all()
+    
+    load_stadiums()
+    load_standings()
+    load_positions()
+    load_drafts()
+
+
+
+
+
+def load_stadiums():
+    from data.stadiums import s
+    generic_load(soccer_db.stadiums, s.load_stadiums)
+
+
+def load_small_tournaments():
     load_general('chris', 'small_tournaments/giantscup.txt')
     load_general('chris', 'small_tournaments/bicentennial')
     load_general('chris', 'small_tournaments/canadian.txt')
@@ -117,14 +115,25 @@ def load_generals():
 def load_mls():
     load_mls_data()
     load_mls_lineups()
-    load_mls_reserve()
-
-
-
-
-
-def load_mls_reserve():
     load_general('mls_reserve', 'leagues/mls_reserve')
+    load_soccernet_league('mls_soccernet', 'usa.1')
+
+def load_nafbl():
+    load_general('nafbl', 'leagues/nafbl1')
+    load_general('nafbl', 'leagues/nafbl2')
+    
+
+
+
+
+
+def load_modern():
+    load_mls()
+    load_apsl()
+    load_usl()
+    load_leach()    
+    load_nasl2()
+    load_concacaf()
 
 
 def load_early():
@@ -247,10 +256,10 @@ def load_positions():
     generic_load(soccer_db.chris_positions, process_positions)
 
 
-def load_partial():
+def load_asl2():
     from soccerdata.text import partial
     print "Loading partial stats.\n"
-    generic_load(soccer_db.asl2_partial_stats, partial.process_partial_stats)
+    generic_load(soccer_db.asl2, partial.process_partial_stats)
 
 
 def load_analysis():
@@ -353,8 +362,6 @@ def load_mls_data():
     generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
 
 
-def load_mls_soccernet():
-    load_soccernet_league('usa.1', 'mls_soccernet')
 
 
 def load_mls_lineups():
@@ -372,34 +379,16 @@ def load_mls_lineups():
 
 
 
-def load_mls_reserve_old():
-    # Probably delete this.
-    """
-    Load data from the MLS Reserve League (2011 - )
-    """
-    from soccerdata.text import reserve
-
-    generic_load(soccer_db.mls_reserve_games, reserve.process_scores)
-    generic_load(soccer_db.mls_reserve_lineups, reserve.process_lineups)
-    generic_load(soccer_db.mls_reserve_goals, reserve.process_goals)
-
-
-
 def load_nasl2():
-    # Need to remove this scraper. Completely unnecessary for NASL.
 
-    def load_scores():
-        from soccerdata.scrapers import nasl
-        generic_load(soccer_db.nasl2_games, nasl.scrape_scores)
-
-    def load_stats():
-        from soccerdata.text import nasl
-        generic_load(soccer_db.nasl2_stats, nasl.process_stats)
+    print "Loading 2011 NASL stats."
+    from soccerdata.text import nasl
+    generic_load(soccer_db.nasl2_stats, nasl.process_stats)
 
     print "Loading 2011 NASL games."
-    load_scores()
-    print "Loading 2011 NASL stats."
-    load_stats()
+    load_general('nasl2', 'leagues/nasl2011')
+
+
 
 
 def load_usl():
@@ -416,7 +405,7 @@ def load_usl():
     generic_load(soccer_db.usl_awards, awards.process_usl_awards)
 
 
-def load_soccernet_league(code, name):
+def load_soccernet_league(name, code):
     from soccerdata.scrapers import soccernet
     generic_load(soccer_db['%s_goals' % name], lambda: soccernet.scrape_all_league_goals(code))
     generic_load(soccer_db['%s_games' % name], lambda: soccernet.scrape_all_league_games(code))
@@ -424,7 +413,7 @@ def load_soccernet_league(code, name):
 
 
 def load_concacaf():
-    load_soccernet_league('concacaf.champions', 'concacaf')
+    load_soccernet_league('concacaf', 'concacaf.champions')
 
 
 def load_ncaa():
@@ -435,18 +424,7 @@ def load_ncaa():
 
 
 def load_usa():
-    from soccerdata.text import usa2
     from soccerdata.text import drafts
- 
-    print "loading usa games"
-    generic_load(soccer_db.usa_games, usa2.process_usa_games)
-
-    print "loading usa goals"
-    generic_load(soccer_db.usa_goals, usa2.process_usa_goals)
-
-    print "loading usa lineups"
-    generic_load(soccer_db.usa_lineups, usa2.process_usa_lineups)
-
     generic_load(soccer_db.usa_drafts, drafts.process_usa_drafts)
 
 
@@ -460,16 +438,6 @@ def load_world_cup():
 def load_kicker():
     from soccerdata.scrapers import kicker
     generic_load(soccer_db.kicker_games, kicker.scrape_all_kicker_seasons)
-
-
-
-
-
-def load_mediotiempo():
-    pass
-
-
-# European and other data.
 
 
 def load_fbleague():
@@ -498,11 +466,7 @@ def load_eufootball():
 # Not using these.
 def load_statto():
     # Various historical scores.
-
     generic_load(soccer_db.world_cup_games, statto.scrape_all_games)    
-
-
-
 
 
 

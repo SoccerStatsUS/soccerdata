@@ -1,8 +1,66 @@
 
+def make_stadium_getter():
+    from soccerdata.alias import get_place, get_stadium
+    from soccerdata.mongo import soccer_db
+    
+    stadiums = soccer_db.stadiums.find()
+
+    stadium_names = set()
+    stadium_map = {}
+    
+    for stadium in stadiums:
+        name = stadium['name']
+        stadium_names.add(name)
+        stadium_map[name] = stadium
+    
+    def getter(s):
+        if ',' in s:
+            potential_stadium, location_string = s.split(',', 1)
+        else:
+            potential_stadium, location_string = s, ''
+
+        potential_stadium = get_stadium(potential_stadium)
+        if potential_stadium in stadium_names:
+            sx = stadium_map[potential_stadium]
+            name, place = sx['name'], sx['location']
+        
+        else:
+            name, place = None, get_place(s)
+
+        return name, place
+        
+    return getter
+            
+    
+    
+
+
 def normalize():
     from soccerdata.alias import get_team, get_name, get_competition
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
+
+    stadium_getter = make_stadium_getter()
+
+    coll = soccer_db["stadiums"]
+    l = []
+    for e in coll.find():
+  
+        if type(e['opened']) == int:
+            print "fixing opened"
+            e['year_opened'] = e.pop('opened')
+            e['opened'] = None
+
+        if type(e['closed']) == int:
+            print "fixing closed"
+            e['year_closed'] = e.pop('closed')
+            e['closed'] = None
+
+        l.append(e)
+
+    coll.drop()
+    insert_rows(coll, l)
+
 
         
 
@@ -14,8 +72,22 @@ def normalize():
             e['competition'] = get_competition(e['competition'])
             e['team1'] = get_team(e['team1'])
             e['team2'] = get_team(e['team2'])
+            
+            if e.get('referee'):
+                e['referee'] = get_name(e['referee'])
+            else:
+                e['referee'] = None
+            
             if e['home_team']:
                 e['home_team'] = get_team(e['home_team'])
+
+            
+            if 'location' in e:
+                e['stadium'], e['location'] = stadium_getter(e['location'])
+            
+
+
+            
 
             l.append(e)
 
@@ -27,6 +99,9 @@ def normalize():
         coll = soccer_db["%s_goals" %s]
         l = []
         for e in coll.find():
+
+
+            
             e['competition'] = get_competition(e['competition'])
             e['team'] = get_team(e['team'])
             try:
@@ -103,6 +178,11 @@ def normalize():
 
         coll.drop()
         insert_rows(coll, l)
+
+
+
+            
+
 
 
 

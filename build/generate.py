@@ -29,6 +29,8 @@ def generate_all_stats():
 
     # This presents the problem of generating stats for games that have not been merged yet.
     # It seems like a much better idea to filter by competition and generate stats after merge.
+
+    standard_generate('nafbl')
     standard_generate('mls_reserve')
     standard_generate('chris')
     standard_generate('american_cup')
@@ -43,7 +45,7 @@ def generate_all_stats():
 
     standard_generate('tours')
 
-    x = generate_stats(soccer_db['mls_soccernet_goals'].find(), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
+    x = generate_stats(soccer_db['mls_soccernet_goals'].find({'season': '2012'}), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
     generic_load(soccer_db['mls_soccernet_stats'], lambda: x.values())
 
 
@@ -62,6 +64,8 @@ def generate_all_standings():
     sg('american_cup')
     sg('tours')
 
+    stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
+    generic_load(soccer_db.mls_soccernet_standings, lambda: stg.values())
 
 
 
