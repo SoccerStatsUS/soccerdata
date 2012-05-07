@@ -10,7 +10,7 @@ from flask.templating import TemplateNotFound
 import pymongo
 import mongo
 
-from settings import SOURCES, STAT_TABLES
+from settings import SOURCES, STAT_TABLES, SINGLE_SOURCES
 
 soccer_db = mongo.soccer_db
 
@@ -50,8 +50,11 @@ def dashboard():
         t = (e, process_scraper(e))
         data.append(t)
 
+    small_data = [(coll_name, soccer_db[coll_name].count()) for coll_name in SINGLE_SOURCES]
+
     ctx = {
         'data': data,
+        'small_data': small_data,
         }
 
     return render_template("dashboard.html", **ctx)    

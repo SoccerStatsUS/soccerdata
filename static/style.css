@@ -2,6 +2,10 @@
    Author: Chris Edgemon!
    ========================================================================== */
 
+body {
+    margin-top: 20px;
+}
+
 table {
     font-size: 1.8em;
 }
@@ -17,6 +21,10 @@ td {
 }
 
 
+table#single-sources {
+    float: right;
+    margin-right: 100px;
+}
 
 
 

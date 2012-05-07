@@ -2,36 +2,20 @@
 
 {% block content %}
 
-<table>
+<table id="single-sources">
 
   <tr>
       <th>coll</th>
       <th>#</th>
   </tr>
 
+  {% for coll, datum in small_data %}
   <tr>
-    <td>stadiums</td>
-    <td></td>
+    <td>{{ coll }}</td>
+    <td><a href="/d?c={{ coll }}">{{ datum }}</a></td>
   </tr>
+  {% endfor %}
 
-  <tr>
-    <td>bios</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>teams</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>positions</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>drafts</td>
-    <td></td>
-  </tr>
 
 </table>
 
@@ -53,9 +37,6 @@
     <th>lineups</th>
     <th>stats</th>
     <th>standings</th>
-    <th>bios</th>
-    <th>positions</th>
-    <th>drafts</th>
     <th>awards</th>
   </tr>
   
