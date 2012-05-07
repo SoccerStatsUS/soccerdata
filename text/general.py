@@ -23,7 +23,7 @@ class GeneralProcessor(object):
     def __init__(self):
         self.competition = None
         self.season = None
-        self.source = None
+        self.sources = []
 
         self.current_game = None
         self.score_type = "standard"
@@ -36,48 +36,53 @@ class GeneralProcessor(object):
 
 
     def process_line(self, line):
+        """
+        Do a lot of processing.
+        """
+        
         line = line.strip()
 
 
         if not line:
             return
 
-        # Comment
+        # Represents a comment.
         if line.startswith("*"):
             return
 
         # Game without a date.
-        # Skipping for the time being.
+        # Need to implement this.
         if line.startswith(";"):
             return
 
         # Either an unknown score or a problem with the date. (Hopefully).
         # Skip it.
-        
         if '?' in line:
             return
-
 
         # Set the previous game as a minigame.
         if line.startswith("Minigame"):
             self.games[-1]['minigame'] = True
             return
 
-
-        if line.startswith("Minutes"):
+        # Change the number of minutes.
+        if line.startswith("Minutes:"):
             return
 
+        # Set the competition.
         if line.startswith("Competition:"):
             self.competition = line.split("Competition:")[1].strip()
             return
 
 
+        # Set the round.
         if line.startswith("Round"):
             return
 
-        # Need to implement fully.
-        if line.startswith("Source:"): 
-            self.source = line.split("Source:")[1].strip()
+        # Add a source.
+        if line.startswith("Source:"):
+            source = line.split("Source:")[1].strip()
+            self.games[-1]['sources'].append(source)
             return
 
 
@@ -99,11 +104,15 @@ class GeneralProcessor(object):
         if line.startswith("Red Card:"):
             return self.process_misconduct(line)
 
+
+        # Get the game now.
         fields = line.split(";")
 
 
         # Checking for Brooklyn FC: GK, DF
         # Trying to handle 1/25/1990; Brooklyn FC; 2 : 1; Queens Boys
+        # and not have it mistaken for a team line because of the colon?
+        # Seems unnecessary.
         skip_team = False
         if ';' in line and ':' in line:
             if line.index(';') < line.index(':'):
@@ -119,7 +128,9 @@ class GeneralProcessor(object):
                 import pdb; pdb.set_trace()
 
 
+        # Why is this check necessary?
         if fields:
+            # Need to implement datetime check here.
             time_string = fields[0].strip()
             mdt = self.DATE_RE.match(time_string)
             if mdt:
@@ -129,7 +140,8 @@ class GeneralProcessor(object):
             md = self.DATE_RE.match(time_string)
             if md:
                 return self.process_game_fields(fields)
-                
+
+        # Goals is the final fallback.
         try:
             team1_goals, team2_goals = line.split(";")
         except:
@@ -148,8 +160,10 @@ class GeneralProcessor(object):
         # 2. Team1, score
         # 3. Team2, score
 
+        # Get the date and time.
         time_string = fields[0].strip()
 
+        # Try datetime first, if it doesn't work, try time.
         m = self.DATE_TIME_RE.match(time_string)
         if m:
             month, day, year, start = m.groups()
@@ -160,14 +174,11 @@ class GeneralProcessor(object):
                 import pdb; pdb.set_trace()
             start = None
 
+        # 
         try:
             year = int(year)
             if year < 1800:
-                if self.century:
-                    year = year + self.century
-                else:
-                    import pdb; pdb.set_trace()
-
+                year += self.century
             d = datetime.datetime(year, int(month), int(day))
         except:
             import pdb; pdb.set_trace()
@@ -205,7 +216,9 @@ class GeneralProcessor(object):
                 import pdb; pdb.set_trace()
 
             remaining = fields[4:]
-        
+
+
+        # This is where the error must be.
         elif self.score_type == 'byteam':
             score_re = re.compile('(.*?)(\d+)\'?')
             try:
@@ -249,6 +262,7 @@ class GeneralProcessor(object):
         if self.competition is None or self.season is None:
             import pdb; pdb.set_trace()
 
+
         g = {
             'competition': self.competition,
             'season': self.season,
@@ -264,6 +278,7 @@ class GeneralProcessor(object):
             'referee': referee,
             'attendance': attendance,
             'minigame': False,
+            'sources': self.sources[:],
             }
 
         self.current_game = g
@@ -314,6 +329,9 @@ class GeneralProcessor(object):
 
 
     def process_goals(self, team1_goals, team2_goals):
+        """
+        Process goals for both teams.
+        """
 
         def process_item(s, team):
             s = s.strip()
@@ -356,6 +374,9 @@ class GeneralProcessor(object):
 
 
         goals = []
+
+        #if self.current_game['date'] == datetime.date(1929, 3, 31):
+        #    import pdb; pdb.set_trace()
 
         for e in split_outside_parens(team1_goals):
             try:
