@@ -66,8 +66,10 @@ aliases = {
     'Impact de Montreal': 'Montreal Impact',
     'Kansas City': 'Sporting Kansas City',
     'Los Angeles': 'Los Angeles Galaxy',
+    'Montreal': 'Montreal Impact',
     'New England': 'New England Revolution',
     'Philadelphia': 'Philadelphia Union',
+    'Portland': 'Portland Timbers',
     'Puerto Rico': 'Puerto Rico Islanders',
     'Salt Lake': 'Real Salt Lake',
     'San Jose': 'San Jose Earthquakes',
@@ -241,6 +243,7 @@ def get_urls_for_league(league_code):
     """
 
     yesterday = datetime.date.today() - datetime.timedelta(days=1)
+    yesterday = datetime.date.today()
     scoreboard_urls = get_scoreboard_urls(league_code, yesterday, datetime.date(2008, 1, 1))
 
     urls = []
