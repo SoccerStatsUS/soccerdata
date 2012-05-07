@@ -1,11 +1,12 @@
+def get_place(s):
+    return s.strip()
 
-stadiums = {
-    'Big Arch Stadium': 'Busch Memorial Stadium',
-    'Rutgers Stadium': 'High Point Solutions Stadium',
-    'Civic Stadium': 'Jeld-Wen Field', # There's another Civic Stadium in Eugene, OR.
-    'Bank One Ballpark': 'Chase Field',
-    'Skelly Field': 'Skelly Field at H. A. Chapman Stadium',
-    'Chapman Stadium': 'Skelly Field at H. A. Chapman Stadium',
+places = {
+    'Olympic Park, Paterson': 'Olympic Field, Paterson',
+    'Island Stadium, Toronto': 'Hanlan\'s Point Stadium',
+    'Montreal, QUE': 'Montreal',
+    'Montreal, Que': 'Montreal',
+
 }
 
 states = {
@@ -42,7 +43,7 @@ states = {
     'ON': 'Ontario',
     'OR': 'Oregon',
     'OK': 'Oklahoma',
-    'PA'; 'Pennsylvania',
+    'PA': 'Pennsylvania',
     'QC': 'Quebec',
     'OH': 'Ohio',
     'RI': 'Rhode Island',
@@ -56,40 +57,3 @@ states = {
     'WV': 'West Virginia',
     'WY': 'Wyoming',
     }
-
-
-
-def get_location(s):
-    if not s:
-        return {}
-
-    pieces = [e.strip() for e in s.split(",")]
-
-    # Should only be of the forms Austin, TX, Austin, Texas, or Austin, Texas, United States
-    if len(pieces) < 2 or len(pieces) > 3:
-        import pdb; pdb.set_trace()
-    elif len(pieces) == 2:
-        city = pieces[0]
-
-        if pieces[1] in STATES.keys():
-            state = STATES[pieces[1]]
-            country = 'United States'
-        elif pieces[1] in STATES.values():
-            state = pieces[1]
-            country = 'United States'
-        else:
-            state = None
-            country = pieces[1]
-
-    elif len(pieces) == 3:
-        city, state, country = pieces
-
-    return {
-        'city': city,
-        'state': state,
-        'country': country,
-        }
-
-    
-
-

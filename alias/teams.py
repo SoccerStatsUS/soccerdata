@@ -6,9 +6,19 @@ teams = {}
 
 
 world = {
-
+    
+    'Atlante FC': 'Atlante F.C.',
     'Atlante': 'Atlante F.C.',
     'Nacional': 'Club Nacional de Football',
+    'Marathon': 'Marathón',
+    'Splitdorf FC': 'Splitdorf F.C',
+    'Real Espana': 'Real España',
+
+    'Clan Mackenzie FC (Akron)': 'Clan MacKenzie FC (Akron)',
+    'Americus AA': 'Americus A.A.',
+    'St George FC': 'St. George F.C',
+
+    
     'Wolverhampton': 'Wolverhampton Wanderers F.C.',
     'Schalke 04': 'FC Schalke 04',
 
@@ -264,6 +274,11 @@ teams.update(all_star)
 
 oteams = {
 
+    'Fairhill FC (Philadelphia)': 'Philadelphia Fairhill FC',
+    'Fairhill FC': 'Philadelphia Fairhill FC',
+    
+    'Paterson F.C.': 'Paterson Silk Sox',
+
     'Avella Polar Stars (W. Pa.)': 'Avella (W. Pa.)',
 
     'West Hudson FC': 'West Hudson A.A.',
@@ -470,6 +485,13 @@ misc = {
 
     'Kearny Erie': 'Erie AA',
 
+    'Scottish Americans': 'Kearny Scots',
+    'Scottish-Americans': 'Kearny Scots',
+    'Kearny Scottish Americans': 'Kearny Scottish-Americans',
+    'Scottish American FC': 'Kearny Scots',
+
+
+
 
     'Becks German American SC (Buf.)': 'Becks German American S.C. (Buf.)',
 
@@ -490,7 +512,8 @@ misc = {
     'Clark A.A': 'Clark A.A.',
 
     'IRT Rangers': 'I.R.T. Rangers',
-    'Kearny Scottish Americans': 'Kearny Scottish-Americans',
+
+    
 
 
     'Puritan Y.M.L': 'Puritan Y.M.L.',
@@ -510,7 +533,15 @@ misc = {
     'Pawtucket FC': 'Pawtucket F.C.',
     'SC Eintracht':'S.C. Eintracht',
     'Edmonton FC': 'Edmonton F.C.',
+
+
     'Harrison SC': 'Harrison S.C.',
+    'Harrison Soccer Club': 'Harrison S.C.',
+    'Harrison Field Club': 'Harrison S.C.',
+    'Harrison S.C.': 'Erie A.A.',
+    'Erie AA': 'Erie A.A.',
+    
+    
     'San Francisco AC': 'San Francisco A.C.',
     
   

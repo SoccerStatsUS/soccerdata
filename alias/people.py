@@ -14,6 +14,14 @@ d.update(basic)
 
 
 names = {
+
+    'John Heminsley': 'Rabbit Hemingsley',
+    'John Hemingsley': 'Rabbit Hemingsley',
+    'Rabbit Heminsley': 'Rabbit Hemingsley',
+
+    'Erno Schwarz': 'Ernő Schwarz',
+    'Erno Schwarcz': 'Ernő Schwarz',
+    
     'John O’Connell': 'John O\'Connell',
     'Jack O’Reilly': 'Jack O\'Reilly',
     'O’Donnell': 'O\'Donnell',
@@ -65,6 +73,8 @@ names = {
     
     'J Cooks': 'Judah Cooks', # Highly likely, NVA Royals game in 2000, while Judah was with DC
     'Joseph (Joe) Nick': 'Joe Nick',
+
+    'Hugo Galeano': 'Hugo Galeano-Vasquez',
     
 
     
