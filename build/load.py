@@ -1,3 +1,5 @@
+
+
 from soccerdata.mongo import generic_load, soccer_db
 
 from soccerdata.scrapers import fbleague, rsssf, mls
@@ -15,17 +17,23 @@ def clear_all():
     for s in SOURCES:
         for e in STAT_TABLES: 
             soccer_db['%s_%s' % (s, e)].drop()
-    
+
+            
+def load_name_maps():
+    from text import namemap
+    generic_load(soccer_db.name_maps, namemap.load)
 
 def first_load():
     """
     Load all data.
     """
 
+    load_name_maps()
+
     standard_load()
 
     load_hall_of_fame()
-
+    
     load_nasl2()
     load_small_tournaments()
     load_nafbl()

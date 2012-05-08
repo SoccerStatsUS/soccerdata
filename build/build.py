@@ -13,6 +13,7 @@ from generate import generate
 from check import check
 from merge import first_merge, second_merge
 from normalize import normalize
+from denormalize import denormalize
 
 
 # Load all possible games into various collections.
@@ -52,6 +53,7 @@ def build():
     print "Normalizing"
     normalize()
 
+
     # This is where things like standings and stats (not much else) can be generated.
     # Should be relatively simple.
 
@@ -67,6 +69,10 @@ def build():
     print "Merging Again"
     # Second pass
     second_merge()
+
+    print "Denormalizing"
+    denormalize()
+    
 
     print "Checking"
     check()

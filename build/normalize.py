@@ -1,4 +1,6 @@
 
+
+
 def make_stadium_getter():
     from soccerdata.alias import get_place, get_stadium
     from soccerdata.mongo import soccer_db
@@ -9,6 +11,7 @@ def make_stadium_getter():
     stadium_map = {}
     
     for stadium in stadiums:
+        
         name = stadium['name']
         stadium_names.add(name)
         stadium_map[name] = stadium
@@ -47,12 +50,10 @@ def normalize():
     for e in coll.find():
   
         if type(e['opened']) == int:
-            print "fixing opened"
             e['year_opened'] = e.pop('opened')
             e['opened'] = None
 
         if type(e['closed']) == int:
-            print "fixing closed"
             e['year_closed'] = e.pop('closed')
             e['closed'] = None
 
