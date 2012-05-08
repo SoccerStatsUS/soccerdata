@@ -170,7 +170,7 @@ stadiums = [
 
 
         {
-        'name': 'Wrigley Field',
+        'name': 'Wrigley Field (Los Angeles)',
         'location': 'Los Angeles, CA',
         'opened': 1925,
         'closed': 1965,
@@ -615,7 +615,7 @@ stadiums = [
         },
 
     {
-        'name': 'Cardinal Stadium',
+        'name': 'Cardinal Stadium (Louisville)',
         'address': '937 Phillips Lane',
         'location': 'Louisville, KY',
         'opened': 1957,
@@ -850,12 +850,7 @@ stadiums = [
         'name': 'High School Field',
         'location': 'St. Louis, MO',
         },
-    {
-        'name': 'Mark\'s Stadium',
-        'location': 'Tiverton, RI',
-        'opened': 1922,
-        'capacity': 15000,
-        },
+
     {
         'name': 'University of Detroit Stadium',
         'location': 'Detroit, MI',
@@ -942,7 +937,7 @@ stadiums = [
         'location': 'Baltimore, MD',
         },
     {
-        'name': 'Legion Field',
+        'name': 'Legion Field (Donora)',
         'location': 'Donora, PA',
         },
     {
@@ -953,11 +948,7 @@ stadiums = [
         'name': 'Holmes Stadium',
         'location': 'Philadelphia, PA',
         },
-    {
-        'name': 'Metropolitan Oval',
-        'location': 'Queens, NY',
-        'opened': 1925,
-        },
+
     {
         'name': 'Sterling Oval',
         'location': 'Bronx, NY',
@@ -974,10 +965,7 @@ stadiums = [
         'name': 'Edison Field',
         'location': 'Philadelphia, PA',
         },
-    {
-        'name': 'Freeport Road Field',
-        'location': 'Pittsburgh, PA',
-        },
+
     {
         'name': 'Eintracht Oval',
         'location': 'Queens, NY',
@@ -998,10 +986,7 @@ stadiums = [
         'name': 'Daniels Field',
         'location': 'San Pedro, CA',
         },
-    {
-        'name': 'PAL Stadium',
-        'location': 'San Jose, CA',
-        },
+
     {
         'name': 'Jackie Robinson Field',
         'location': 'Los Angeles, CA',
@@ -1022,20 +1007,7 @@ stadiums = [
         'name': 'Indianapolis Soccer Stadium',
         'location': 'Indianapolis, IN',
         },
-    {
-        'name': 'PAL Stadium',
-        'location': 'San Jose, CA',
-        },
 
-    {
-        'name': 'Cleveland Browns Stadium',
-        'address': '100 Alfred Lerner Way',
-        'location': 'Cleveland, Ohio ',
-        'opened': datetime.datetime(1999, 9, 12),
-        'cost': 349000000,
-        'architect': 'HOK Sport',
-        'capacity': 73200,
-        },
 
 
     {
@@ -1064,26 +1036,6 @@ stadiums = [
         'capacity': 35650,
         'architect': 'Rule Wynn and Rule',
         },  
-  {
-        'name': 'Memorial Stadium Baltimore',
-        'address': '900 East 33rd Street',
-        'location': 'Balitmore, MD',
-        'opened': datetime.datetime(1922, 12, 2),
-        'closed': datetime.datetime(1997, 12, 14),
-        'cost': 6500000,
-        'capacity': 53371,
-        'architect': 'L.P. Kooken Company',
-        }, 
-   {
-        'name': 'Memorial Stadium Baltimore',
-        'address': '900 East 33rd Street',
-        'location': 'Balitmore, MD',
-        'opened': datetime.datetime(1922, 12, 2),
-        'closed': datetime.datetime(1997, 12, 14),
-        'cost': 6500000,
-        'capacity': 53371,
-        'architect': 'L.P. Kooken Company',
-        },
 
 
     {

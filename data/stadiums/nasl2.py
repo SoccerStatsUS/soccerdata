@@ -32,17 +32,6 @@ nasl2_stadiums = [
         'measure': 'yards',
 
         },
-                       {
-        'name': 'Steel Field',
-        'location': 'Bethlehem, PA',
-        'opened': 1916,
-        'capacity': 1000,
-        },
-    {
-        'name': 'Steel Field',
-        'location': 'Bethlehem, PA',
-        'opened': 1916,
-        'capacity': 1000,
-        },
+
             
 ]

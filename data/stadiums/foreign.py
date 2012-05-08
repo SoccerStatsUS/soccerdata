@@ -54,14 +54,7 @@ foreign_stadiums = [
         'name': 'Estadio Juan Francisco Barraza',
         'location': 'San Miguel, El Salvador',
         },
-        {
-        'name': 'Estadio Ricardo Saprissa Aymá',
-        'location': 'San Jose, Costa Rica',
-        },
-        {
-        'name': 'Estadio Tiburcio Carías Andino',
-        'location': 'Tegucigalpa, Honduras',
-        },
+
         {
         'name': 'Tony Spaulding Sports Complex',
         'location': 'Kingston, Jamaica',

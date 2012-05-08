@@ -234,10 +234,6 @@ old = [
         'location': 'Newark, NJ',
         },
 
-        {
-        'name': 'Brooklyn Soccer Field',
-        'location': 'Brooklyn, NY',
-        },
 
         {
         'name': 'Eagle Street Grounds',
@@ -274,10 +270,7 @@ old = [
         'location': 'Newark, NJ',
         },
 
-        {
-        'name': 'County Street Grounds',
-        'location': 'Fall River, MA',
-        },
+
 
 
         {
