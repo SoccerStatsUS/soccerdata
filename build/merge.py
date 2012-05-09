@@ -253,6 +253,9 @@ def merge_bios():
     for e in soccer_db.chris_bios.find():
         update_bio(e)
 
+    for e in soccer_db.asl_bios.find():
+        update_bio(e)
+
     soccer_db.bios.drop()
     insert_rows(soccer_db.bios, bio_dict.values())
 

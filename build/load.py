@@ -33,11 +33,10 @@ def first_load():
     standard_load()
 
     load_hall_of_fame()
-    
+
     load_nasl2()
     load_small_tournaments()
     load_nafbl()
-
 
     load_cups()
     load_tours()
@@ -45,7 +44,8 @@ def first_load():
 
     load_asl()
     load_nasl()
-    load_mls()
+    load_mls()    
+
 
     load_concacaf()
 
@@ -292,6 +292,10 @@ def load_asl():
 
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
+
+    print "Loading ASL player bios.\n"
+    generic_load(soccer_db.asl_bios, asl.process_bios)
+    
 
 
 def load_nasl():

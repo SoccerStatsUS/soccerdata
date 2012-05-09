@@ -1,0 +1,72 @@
+import datetime
+import os
+
+
+p = '/home/chris/www/soccerdata/data/stadiums/team_mapping'
+
+
+# Eliminate this duplicate? Move to utils?
+def correct_date(s, start=True):
+
+    if '/' in s:
+        month, day, year = [int(e) for e in s.split('/')]
+        d = datetime.datetime(year, month, day)
+    else:
+        try:
+            year = int(s)
+        except:
+            import pdb; pdb.set_trace()
+        if start:
+            d = datetime.datetime(year, 1, 1)
+        else:
+            d = datetime.datetime(year, 12, 31)
+
+    return d
+
+    
+
+    
+
+def load():
+    files = os.listdir(p)
+
+    l = []
+    
+    for e in files:
+        px = os.path.join(p, e)
+        l.extend(process_stadium_map_file(px))
+    return l
+            
+def process_stadium_map_file(p):
+    f = open(p)
+    
+    nm = []
+    
+    for line in f:
+        if line.strip() and not line.startswith("*"):
+            fields = [e.strip() for e in line.split(',')]
+            fields = [e for e in fields if e]
+            if len(fields) == 3:
+                team, stadium, start = fields
+                end = start
+            elif len(fields) == 4:
+                team, stadium, start, end = fields
+            else:
+                print fields
+                continue
+
+
+            start = correct_date(start, start=True)
+            end = correct_date(end, start=False)
+
+            nm.append({
+                    'team': team.strip(),
+                    'stadium': stadium.strip(),
+                    'start': start,
+                    'end': end,
+                    })
+    return nm
+
+
+if __name__ == "__main__":
+    print load()

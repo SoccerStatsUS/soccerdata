@@ -153,7 +153,7 @@ def process_bios():
 
         if bmonth:
             try:
-                birthdate = datetime.date(int(byear), int(bmonth), int(bday))
+                birthdate = datetime.datetime(int(byear), int(bmonth), int(bday))
             except:
                 print name, byear, bmonth, bday 
                 birthdate = None
@@ -162,7 +162,7 @@ def process_bios():
             
         if dmonth:
             try:
-                deathdate = datetime.date(int(dyear), int(dmonth), int(dday))
+                deathdate = datetime.datetime(int(dyear), int(dmonth), int(dday))
             except:
                 print name, dyear, dmonth, dday 
                 deathdate = None
@@ -459,6 +459,11 @@ class GameProcessor(object):
             'team2_score': away_score,
             'home_team': home_team,
             }
+    
+
+def get_bios():
+    '/data/people/asl'
+    return []
 
 
 if __name__ == "__main__":

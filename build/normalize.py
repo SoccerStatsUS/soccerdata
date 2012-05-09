@@ -1,6 +1,4 @@
 
-
-
 def make_stadium_getter():
     from soccerdata.alias import get_place, get_stadium
     from soccerdata.mongo import soccer_db
@@ -48,6 +46,7 @@ def normalize():
     coll = soccer_db["stadiums"]
     l = []
     for e in coll.find():
+        e['year_opened'] = e['year_closed'] = None
   
         if type(e['opened']) == int:
             e['year_opened'] = e.pop('opened')
@@ -160,6 +159,13 @@ def normalize():
             e['team'] = get_team(e['team'])
             e['name'] = get_name(e['name'])
 
+            if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
+                e['on'] = e['on'][:-1]
+
+            if type(e['off']) in (str, unicode) and e['off'].endswith('\''):
+                e['off'] = e['off'][:-1]
+
+                
             l.append(e)
 
         coll.drop()

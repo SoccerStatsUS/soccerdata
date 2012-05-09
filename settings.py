@@ -37,6 +37,6 @@ l =    [
         ]
 
 # What items are shown on the dashboard?
-STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'awards'
+STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'awards', 'bios'
 
 SINGLE_SOURCES = 'teams', 'stadiums', 'bios', 'awards', 'positions', 'bios', 'positions', 'name_maps', 'stadium_maps',
