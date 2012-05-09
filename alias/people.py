@@ -14,6 +14,7 @@ d.update(basic)
 
 
 names = {
+    'Whitey Fleming': 'Tommy Fleming',
 
     'John Heminsley': 'Rabbit Hemingsley',
     'John Hemingsley': 'Rabbit Hemingsley',

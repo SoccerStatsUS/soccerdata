@@ -487,7 +487,9 @@ misc = {
 
     'Scottish Americans': 'Kearny Scots',
     'Scottish-Americans': 'Kearny Scots',
-    'Kearny Scottish Americans': 'Kearny Scottish-Americans',
+    'Kearny Scottish-Americans': 'Kearny Scots',
+    'Kearny Scottish Americans': 'Kearny Scots',
+    'Scottish American FC (NJ)': 'Kearny Scots',
     'Scottish American FC': 'Kearny Scots',
 
 
