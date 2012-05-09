@@ -1,7 +1,6 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-
 # Errors:
 # http://soccernet.espn.go.com/match?id=289678
 # http://soccernet.espn.go.com/match?id=262155
@@ -21,6 +20,11 @@ game_cache = data_cache
 detail_cache = data_cache
 
 """
+Need to figure out a way to refresh failed results.
+e.g. ran into a FC dallas game that couldn't be scraped.
+Will silently fail for now, but eventually need to do something else.
+
+
 How should a typical load go?
 
 Cacheing sould happen on each level.
@@ -28,6 +32,10 @@ Cacheing sould happen on each level.
 But there are essentially three levels.
 
 Need to separate conceptually and cache different levels.
+
+Need to make sure that new date urls are being loaded, but aren't taking too long.
+Use a single objects that gets and parses urls in one go (for a given date/code),
+and remembers those permanently. Don't cache the backwards searching thing.
 
 1. Load game urls.
 2. Load game data.
@@ -241,6 +249,8 @@ def get_urls_for_league(league_code):
     """
     Scrape all league game data from scoreboards
     """
+    # Best not to cache this or else you don't get daily updates.
+    # Seems unlikely to save much time.
 
     yesterday = datetime.date.today() - datetime.timedelta(days=1)
     yesterday = datetime.date.today()
@@ -262,7 +272,8 @@ def scrape_all_league_games(league_code):
     for u in get_urls_for_league(league_code):
         url = make_match_stats_url(u)
         games.append(scrape_live_game(url, competition))
-    return games
+    
+    return [e for e in games if e]
 
 
 def scrape_all_league_goals(league_code):
@@ -271,7 +282,7 @@ def scrape_all_league_goals(league_code):
     for u in get_urls_for_league(league_code):
         url = make_match_stats_url(u)
         goals.extend(scrape_live_goals(url, competition))
-    return goals
+    return [e for e in goals if e]
 
 
 def scrape_all_league_lineups(league_code):
@@ -283,7 +294,7 @@ def scrape_all_league_lineups(league_code):
     for u in get_urls_for_league(league_code):
         url = make_match_stats_url(u)
         l.extend(scrape_live_lineups(url, competition))
-    return l
+    return [e for e in l if e]
 
 
 
@@ -294,7 +305,13 @@ def scrape_live_game(url, competition):
     Get game data from a game page.
     """
 
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+    # What to do if we can't scrape a game? 
+    # Check out http://soccernet.espn.go.com/match?id=336160
+    try:
+        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
+    except:
+        print "Failed for game at %s" % url
+        return {}
     
     home_team, away_team = [get_contents(e) for e in soup.findAll("div", "team-info")]
     game_data = soup.find("div", "game-time-location")
@@ -350,6 +367,8 @@ def scrape_live_goals(url, competition):
     """
     
     game_data = scrape_live_game(url, competition)
+    if not game_data:
+        return []
 
     soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
     container = soup.find("div", 'story-container').find("tbody")
@@ -425,6 +444,9 @@ def scrape_live_lineups(url, competition):
     soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
 
     game_data = scrape_live_game(url, competition)
+    if not game_data:
+        return []
+
 
     tables = soup.findAll("table")
     

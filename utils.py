@@ -149,6 +149,8 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5):
 
     # http://www.mlssoccer.com/schedule?month=all&year=1996&club=all&competition_type=all
     data = data.replace('<img alt="" src="/sites/league/files/eljimador_300x100.gif" style="border: medium none; width: 300px; height: 100px;" <img', "<img")
+
+    data = data.replace("""onclick="this.href=this.href+'?ref=espn_deportes&refkw=deportes+tickets'""", '')
     
     return data
 
