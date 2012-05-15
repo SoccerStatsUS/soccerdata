@@ -258,6 +258,11 @@ class GeneralProcessor(object):
         elif len(remaining) == 2:
             location, referee = [e.strip() for e in remaining]
 
+        linesmen = []
+        if referee and ',' in referee:
+            people = referee.split(',')
+            referee = people[0].strip()
+            linesmen = [e.strip() for e in people[1:]]
 
         if self.competition is None or self.season is None:
             import pdb; pdb.set_trace()
@@ -276,6 +281,7 @@ class GeneralProcessor(object):
             'home_team': None,
             'location': location,
             'referee': referee,
+            'linesmen': linesmen,
             'attendance': attendance,
             'minigame': False,
             'sources': self.sources[:],
@@ -284,9 +290,12 @@ class GeneralProcessor(object):
         self.current_game = g
         self.games.append(g)
 
+
     def process_lineup(self, line):
 
         def process_appearance(s, team):
+            # Currently just skipping the item if there were subs.
+            # Off should be "end", then normalized later.
 
             if '(' not in s:
                 
@@ -304,6 +313,8 @@ class GeneralProcessor(object):
                 starter, subs = s.split("(")
                 subs = subs.replace(")", "")
                 sub_items = subs.split(",")
+                # Write a regular expression to match minutes.
+                # If there's no minutes, then off is None.
 
                 return []
 
@@ -317,9 +328,6 @@ class GeneralProcessor(object):
 
         team, players = line.split(":", 1)
         lineups = []
-
-
-
 
         for e in split_outside_parens(players):
             lineups.extend(process_appearance(e, team))
