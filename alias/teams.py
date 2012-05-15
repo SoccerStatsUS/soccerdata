@@ -194,7 +194,7 @@ all_star = {
     'British Columbia Mainland Stars': 'British Columbia Mainland All-Stars',
     'British Columbia Stars': 'British Columbia All-Stars',
 
-    'Calgary XI': 'Calgary All_Stars',
+    'Calgary XI': 'Calgary All-Stars',
     
 
     'All Baltimore': 'Baltimore All-Stars',
@@ -525,7 +525,8 @@ misc = {
     'German-American AC': 'German American AC',
 
     'German-Hungarian SC': 'German Hungarian SC',
-    'German-Hungarians': 'German Hungarians',
+    'German-Hungarians': 'German Hungarian SC',
+    'German Hungarians': 'German Hungarian SC',
 
     'St. Michaels': 'St. Michael\'s',
     'St. Michael’s': 'St. Michael\'s',
