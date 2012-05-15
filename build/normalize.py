@@ -84,10 +84,18 @@ def normalize():
             
             if 'location' in e:
                 e['stadium'], e['location'] = stadium_getter(e['location'])
-            
 
-
-            
+            # Need to add linesmen.
+            if 'linesmen' in e:
+                linesmen = e.pop('linesmen')
+                if len(linesmen) == 1:
+                    e['linesman1'] == linesmen[0]
+                elif len(linesemen) == 2:
+                    e['linesman1'] == linesmen[0]
+                    e['linesman2'] == linesmen[1]
+                else:
+                    import pdb; pdb.set_trace()
+                    x = 5
 
             l.append(e)
 
