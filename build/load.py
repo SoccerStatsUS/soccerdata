@@ -1,5 +1,3 @@
-
-
 from soccerdata.mongo import generic_load, soccer_db
 
 from soccerdata.scrapers import fbleague, rsssf, mls
@@ -23,20 +21,36 @@ def load_name_maps():
     from text import namemap
     generic_load(soccer_db.name_maps, namemap.load)
 
+
+def load_stadium_maps():
+    from text import stadiummap
+    generic_load(soccer_db.stadium_maps, stadiummap.load)
+
+
+def load_news():
+    from text import news
+    generic_load(soccer_db.news, news.load)
+
 def first_load():
     """
     Load all data.
     """
 
+    load_news()
+
+
     load_name_maps()
+    load_stadium_maps()
 
     standard_load()
 
     load_hall_of_fame()
 
     load_nasl2()
+
     load_small_tournaments()
     load_nafbl()
+
 
     load_cups()
     load_tours()
