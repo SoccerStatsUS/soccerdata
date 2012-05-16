@@ -166,8 +166,8 @@ def load_early():
 
 
 def load_midwest():
-    for e in range(1, 8):
-        load_general('open_cup', 'cups/open/19%s0' % e)
+    for e in range(191, 202):
+        load_general('open_cup', 'cups/open/%s0' % e)
 
     load_general('open_cup', 'leagues/isl')
     load_general('open_cup', 'teams/benmillers.txt')
@@ -183,9 +183,8 @@ def load_cups():
     load_general('american_cup', 'cups/american_cup')
     load_general('lewis_cup', 'cups/lewis')
 
-    for e in range(1, 10):
-        load_general('open_cup', 'cups/open/19%s0' % e)
-
+    for e in range(191, 202):
+        load_general('open_cup', 'cups/open/%s0' % e)
 
 
 def load_tours():
