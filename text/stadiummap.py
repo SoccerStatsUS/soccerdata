@@ -1,7 +1,6 @@
 import datetime
 import os
 
-
 p = '/home/chris/www/soccerdata/data/stadiums/team_mapping'
 
 
@@ -48,7 +47,9 @@ def process_stadium_map_file(p):
             fields = [e for e in fields if e]
             if len(fields) == 3:
                 team, stadium, start = fields
-                end = start
+
+                # Process date at the correct time so we don't have to do this?
+                end = unicode(datetime.date.today().year)
             elif len(fields) == 4:
                 team, stadium, start, end = fields
             else:
