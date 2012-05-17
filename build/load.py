@@ -36,6 +36,8 @@ def first_load():
     Load all data.
     """
 
+
+
     load_news()
 
 
@@ -46,13 +48,15 @@ def first_load():
 
     load_hall_of_fame()
 
+    load_cups()
+
     load_nasl2()
 
     load_small_tournaments()
     load_nafbl()
 
 
-    load_cups()
+
     load_tours()
 
 
@@ -395,6 +399,9 @@ def load_mls_lineups():
     # MLS lineup data 1996-2010
     print "Loading scaryice score data.\n"
     generic_load(soccer_db.mls_games, lineups.load_all_games_scaryice)
+
+    print "Loading MLS playoff data.\n"
+    load_general('mls', 'mls/complete/mls_playoffs')
 
     print "Loading scaryice goal data.\n"
     generic_load(soccer_db.mls_goals, lineups.load_all_goals_scaryice)

@@ -424,27 +424,35 @@ def get_scores(fn):
 
         home_team = team_map.get(home_team, home_team)
         away_team = team_map.get(away_team, away_team)
-        
-        return {
-            'competition': get_competition(match_type),
-            'date': date,
-            'season': unicode(date.year),
 
-            'team1': home_team,
-            'team2': away_team,
-            'team1_score': home_score,
-            'team2_score': away_score,
-            'home_team': home_team,
-            }
+
+        competition = get_competition(match_type),
+
+        # Only use scaryice MLS regular season scores.
+        # Everything else is too complicated / not good enough.
+
+        if competition == 'Major League Soccer':
+            return {
+                'competition': competition,
+                'date': date,
+                'season': unicode(date.year),
+
+                'team1': home_team,
+                'team2': away_team,
+                'team1_score': home_score,
+                'team2_score': away_score,
+                'home_team': home_team,
+                }
+        else:
+            return {}
 
     p = os.path.join(LINEUPS_DIR, fn)
          
     team_name = file_mapping[fn.replace(".csv", '')]
     scores = [process_line(line) for line in open(p).readlines()]
-    scores = [e for e in scores if e]
+    return [e for e in scores if e]
 
-    scores = [e for e in scores if e['competition'] == 'Major League Soccer']
-    return scores
+
 
 
 

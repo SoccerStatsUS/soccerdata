@@ -79,6 +79,10 @@ class GeneralProcessor(object):
         if line.startswith("Round"):
             return
 
+        if line.startswith("Group"):
+            return
+
+
         # Add a source.
         if line.startswith("Source:"):
             source = line.split("Source:")[1].strip()
@@ -199,6 +203,9 @@ class GeneralProcessor(object):
 
                 if '(aet)' in score:
                     score = score.replace('(aet)', '')
+
+                if '(asdet)' in score:
+                    score = score.replace('(asdet)', '')
 
 
                 # Eventually will indicate a blank score.
