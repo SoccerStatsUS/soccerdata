@@ -882,6 +882,7 @@ stadiums = [
         },
     {
         'name': 'Sparta Field',
+        'address': '21st St. and Kostner Ave',
         'location': 'Chicago, IL',
         },
     {
@@ -896,12 +897,7 @@ stadiums = [
         'capacity': 10000,
         'source': 'http://www.projectballpark.org/history/nnl1/alt/pyotts.html',
         },
-    {
-        'name': 'Starlight Pakr',
-        'location': 'Bronx, NY',
-        'opened': 1918,
-        'closed': 1932,
-        },
+
     {
         'name': 'Commercial Field',
         'address': 'Albany Avenue',
