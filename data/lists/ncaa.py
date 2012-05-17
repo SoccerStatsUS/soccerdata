@@ -3604,7 +3604,7 @@ d = {
         (2010, [
 
                 'Ben Berube',
-                'Aaron O’Neal',
+                'Aaron O\'Neal',
                 'Levi Houapeu',
                 'Michael Bustamante',
                 'Stephen Knox',
@@ -3613,7 +3613,7 @@ d = {
                 'Kyle Manscuk',
                 'Colin Henry',
                 'Greg Tinari',
-                'Colin O’Donnell',
+                'Colin O\'Donnell',
                 ]),
 
         ],
