@@ -274,6 +274,7 @@ teams.update(all_star)
 
 oteams = {
 
+
     'Chicago Fire S.C.': 'Chicago Fire',
 
     'Fairhill FC (Philadelphia)': 'Philadelphia Fairhill FC',
@@ -736,7 +737,7 @@ misc = {
 
     'CD Mexico (North California)': 'El Farolito Soccer Club',
     'AAC Eagles': 'A.A.C. Eagles',
-    'Greek American AC': 'Greek American A.C.',
+
     'Syracus Suns': 'Syracuse Suns',
     
 
@@ -750,7 +751,7 @@ misc = {
     'Ukrainian Nationals': 'Philadelphia Ukrainians',
     'Hungaria SC (East NY)': 'New York Hungaria',
 
-    'Greek American SC (East NY)': 'Greek American AA',
+
 
     'Maccabee AC': 'Maccabi Los Angeles',
 
@@ -761,10 +762,18 @@ misc = {
     'HRC Kickers': 'St. Petersburg Kickers',
     'McCormick Kickers': 'St. Petersburg Kickers',
 
-    'NY Greek American Atlas': 'Greek-American A.C.',
+    'Greek American SC (East NY)': 'NY Greek American Atlas',
+    'NY Greek American Atlas': 'NY Greek American Atlas',
+    'Greek American Atlas': 'NY Greek American Atlas',
+    'NY Greek-American Atlas': 'NY Greek American Atlas',
+    'NY Greek-Americans Hellenic SC': 'NY Greek American Atlas',
+    'Greek American AA': 'NY Greek American Atlas',
+    'Greek-American A.C.': 'NY Greek American Atlas',
+    'Greek American AC': 'NY Greek American Atlas',
 
     'Marres': 'Marre\'s',
     'Marre': 'Marre\'s',
+
     'MacDuffs': 'MacDuff FC',
     'MacDuffs FC': 'MacDuff FC',
 
@@ -828,7 +837,7 @@ misc = {
 
     # Not sure of these.
     'Hungaria': 'New York Hungaria', 
-    'NY Greek-Americans Hellenic SC': 'Greek American AA',
+
     
 
     'Central Jersey Rpitide': 'Central Jersey Riptide',

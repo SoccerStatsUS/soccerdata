@@ -20,6 +20,9 @@ places = {
     'PGE Park': 'Jeld-Wen Field',
     'Husky Soccer Field': 'Husky Soccer Stadium',
     'Dudley Stadium, El Paso, TX': 'Dudley Field',
+    'Douglas Stadium, San Diego, CA': 'Merrill Douglas Stadium',
+    'Santa Ana Bowl, Santa Ana, CA': 'Santa Ana Stadium',
+    
 
     'National Sports Center': 'National Sports Center Stadium',
     'National Sports Center, Blaine, MN': 'National Sports Center Stadium',
