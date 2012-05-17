@@ -209,6 +209,12 @@ def normalize():
         l = []
         for e in coll.find():
             e['competition'] = get_competition(e['competition'])
+
+            if e['model'] == 'Team':
+                e['recipient'] = get_team(e['recipient'])
+            else:
+                e['recipient'] = get_name(e['recipient'])
+
             # Skipping recipient until a little later.
             l.append(e)
 
