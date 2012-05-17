@@ -139,12 +139,10 @@ oc_stadiums = [
         'capacity': 4000,
         },
     {
-        'name': 'Sahlen\'s Stadium',
-        'location': 'Rochester, NY',
-        'opened': datetime.datetime(2006, 6, 3),
-        'capacity': 13768,
-        'cost': 35000000,
-        'architect': 'HOK Sport',
+        'name': 'Belson Stadium',
+        'location': 'Jamaica, Queens, NY',
+        'opened': datetime.datetime(2002, 9, 21),
+        'capacity': 2600,
         },
     {
         'name': 'Sahlen\'s Stadium',
@@ -155,27 +153,93 @@ oc_stadiums = [
         'architect': 'HOK Sport',
         },
     {
-        'name': 'Sahlen\'s Stadium',
-        'location': 'Rochester, NY',
-        'opened': datetime.datetime(2006, 6, 3),
-        'capacity': 13768,
-        'cost': 35000000,
-        'architect': 'HOK Sport',
+        'name': 'Breese Stevens Field',
+        'location': 'Madison, WI',
+        'opened': datetime.datetime(1926, 5, 5),
         },
     {
-        'name': 'Sahlen\'s Stadium',
-        'location': 'Rochester, NY',
-        'opened': datetime.datetime(2006, 6, 3),
-        'capacity': 13768,
-        'cost': 35000000,
-        'architect': 'HOK Sport',
+        'name': 'Macpherson Stadium',
+        'location': 'Browns Summit, NC',
+        'opened': datetime.datetime(2002, 5, 4),
+        'capacity': 7000,
         },
-
-
-
-
-
-
+    {
+        'name': 'Patriot Stadium',
+        'location': 'El Paso, TX',
+        'opened': 2005,
+        'capacity': 3000,
+        'cost': 7200000,
+        },
+    {
+        'name': 'Valley Stadium',
+        'location': 'West Des Moines, IA',
+        },
+    {
+        'name': 'House Park',
+        'location': 'Austin, TX',
+        'opened': 1939,
+        'capacity': 6500,
+        },
+    {
+        'name': 'Nelson Field',
+        'location': 'Austin, TX',
+        },
+    {
+        'name': 'Carey Stadium',
+        'location': 'Ocean City, NJ',
+        },
+    {
+        'name': 'Tropical Park Stadium',
+        'address': '7900 SW 40th Street',
+        'location': 'Miami, FL',
+        'capacity': 10000,
+        },
+    {
+        'name': 'Sports Backers Stadium',
+        'location': 'Richmond, VA',
+        'opened': 1999,
+        'capacity': 3250,
+        },
+    {
+        'name': 'Ultimate Soccer Arena',
+        'location': 'Pontiac, MI',
+        },
+    {
+        'name': 'Cougar Stadium',
+        'location': 'Azusa, CA',
+        },
+    {
+        'name': 'DeKalb Memorial Stadium',
+        'location': 'Clarkston, GA',
+        },
+    {
+        'name': 'Yurcak Field',
+        'location': 'Piscataway, NJ',
+        'opened': 1994,
+        'capacity': 5000
+        'cost': 28000000,
+        },
+    {
+        'name': 'Husky Soccer Stadium',
+        'location': 'Seattle, WA',
+        },
+    {
+        'name': 'Uihlein Soccer Park',
+        'address': '7101 W Good Hope Rd',
+        'location': 'Milwaukee, WI',
+        'opened': 1994,
+        'capacity': 7000,
+        },
+    {
+        'name': 'Dudley Field',
+        'location': 'El Paso, TX',
+        'opened': 1924,
+        'closed': datetime.datetime(2005, 11, 5),
+        },
+    {
+        'name': 'Singer Park',
+        'location': 'Manchester, NH',
+        },
 
 
 

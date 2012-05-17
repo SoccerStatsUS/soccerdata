@@ -18,6 +18,8 @@ places = {
     'Legion Stadium, Wilmington, NC': 'Buck Hardee Field at Legion Stadium',
     'Silverbacks Park, Chamblee, GA': 'Atlanta Silverbacks Park',
     'PGE Park': 'Jeld-Wen Field',
+    'Husky Soccer Field': 'Husky Soccer Stadium',
+    'Dudley Stadium, El Paso, TX': 'Dudley Field',
 
     'National Sports Center': 'National Sports Center Stadium',
     'National Sports Center, Blaine, MN': 'National Sports Center Stadium',
