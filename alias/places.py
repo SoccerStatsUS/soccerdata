@@ -4,6 +4,23 @@ def get_place(s):
 places = {
     'Olympic Park, Paterson': 'Olympic Field, Paterson',
     'Island Stadium, Toronto': 'Hanlan\'s Point Stadium',
+    'Soccorro Stadium, El Paso, TX': 'Socorro Stadium, El Paso, TX',
+    'Soccorro Stadium': 'Socorro Stadium',
+    'SAS Stadium, Cary, NC': 'WakeMed Soccer Park',
+    'SAS Soccer Park, Cary, NC': 'WakeMed Soccer Park',
+    'SAS Stadium': 'WakeMed Soccer Park',
+    'Seahawk Stadium, Seattle, WA': 'CenturyLink Field',
+    'PAETEC Park': 'Sahlen\'s Stadium',
+    'PAETEC Park, Rochester, NY': 'Sahlen\'s Stadium',
+    'Marina Auto Stadium': 'Sahlen\'s Stadium',
+    'Marina Auto Stadium, Rochester, NY': 'Sahlen\'s Stadium',
+    'Home Depot Center Track': 'Home Depot Center Track & Field Stadium',
+    'Legion Stadium, Wilmington, NC': 'Buck Hardee Field at Legion Stadium',
+    'Silverbacks Park, Chamblee, GA': 'Atlanta Silverbacks Park',
+    'PGE Park': 'Jeld-Wen Field',
+
+    'National Sports Center': 'National Sports Center Stadium',
+    'National Sports Center, Blaine, MN': 'National Sports Center Stadium',
     'Montreal, QUE': 'Montreal',
     'Montreal, Que': 'Montreal',
 
