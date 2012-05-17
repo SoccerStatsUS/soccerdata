@@ -462,8 +462,7 @@ stadiums = [
         },
 
     {
-        'name': 'Invesco Field', 
-        'address': 'Georgia Dome',
+        'name': 'Georgia Dome',
         'location': 'Atlanta, GA',
         'opened': datetime.datetime(1992, 9, 6),
         'cost': 214000000,

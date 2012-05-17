@@ -28,6 +28,8 @@ sd.update(soccernet_errors)
     
 
 stadiums = {
+    'Invesco Field': 'Sports Authority Field at Mile High',
+    'INVESCO Field': 'Sports Authority Field at Mile High',
     'Nuevo Estadio Corona': 'Estadio TSM Corona',
     'Al Lang Stadium': 'Progress Energy Park',
     'Al Lang Field': 'Progress Energy Park',
