@@ -774,7 +774,6 @@ misc = {
     'McCormick Kickers': 'St. Petersburg Kickers',
 
     'Greek American SC (East NY)': 'NY Greek American Atlas',
-    'NY Greek American Atlas': 'NY Greek American Atlas',
     'Greek American Atlas': 'NY Greek American Atlas',
     'NY Greek-American Atlas': 'NY Greek American Atlas',
     'NY Greek-Americans Hellenic SC': 'NY Greek American Atlas',

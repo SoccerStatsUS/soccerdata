@@ -45,7 +45,9 @@ old = [
         {
         'name': 'Starlight Park',
         'location': 'Bronx, NY',
-        'capacity': 1000,
+        #'capacity': 1000,
+        'opened': 1918,
+        'closed': 1932,
         },
 
         {

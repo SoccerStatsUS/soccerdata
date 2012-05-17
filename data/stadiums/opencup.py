@@ -81,13 +81,6 @@ oc_stadiums = [
         'capacity': 3000,
         },
 
-    {
-        'name': 'WakeMed Soccer Park',
-        'location': 'Cary, NC',
-        'opened': 2002,
-        'capacity': 10000,
-        'cost': 14500000,
-        },
 
     {
         'name': 'James Griffin Stadium',
@@ -216,7 +209,7 @@ oc_stadiums = [
         'name': 'Yurcak Field',
         'location': 'Piscataway, NJ',
         'opened': 1994,
-        'capacity': 5000
+        'capacity': 5000,
         'cost': 28000000,
         },
     {
@@ -288,25 +281,6 @@ oc_stadiums = [
         'name': 'SISD Student Activities Center',
         'location': 'El Paso, TX',
         },
-    {
-        'name': 'Baker Field',
-        'location': 'New York, NY',
-        },
-    {
-        'name': 'Baker Field',
-        'location': 'New York, NY',
-        },
-    {
-        'name': 'Baker Field',
-        'location': 'New York, NY',
-        },
-    {
-        'name': 'Baker Field',
-        'location': 'New York, NY',
-        },
-
-
-
 
 
 
