@@ -274,6 +274,8 @@ teams.update(all_star)
 
 oteams = {
 
+    'Chicago Fire S.C.': 'Chicago Fire',
+
     'Fairhill FC (Philadelphia)': 'Philadelphia Fairhill FC',
     'Fairhill FC': 'Philadelphia Fairhill FC',
     

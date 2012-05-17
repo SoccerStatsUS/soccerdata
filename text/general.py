@@ -211,7 +211,7 @@ class GeneralProcessor(object):
                 # Eventually will indicate a blank score.
                 # We're not prepared to handle this, so leave the function.
                 if score == 'w/o':
-                    print "Cannot process."
+                    print "skipping: w/o"
                     return
 
                     winner = team1

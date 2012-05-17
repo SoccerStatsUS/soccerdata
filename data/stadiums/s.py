@@ -10,6 +10,7 @@ def load_stadiums():
     from nasl2 import nasl2_stadiums
     from foreign import foreign_stadiums
     from apsl import apsl_stadiums
+    from opencup import oc_stadiums
 
     l = []
     l.extend(old)
