@@ -241,6 +241,70 @@ oc_stadiums = [
         'location': 'Manchester, NH',
         },
 
+    {
+        'name': 'Interbay Stadium',
+        'location': 'Seattle, WA',
+        'capacity': 1000,
+        },
+
+    {
+        'name': 'Sirrine Stadium',
+        'location': 'Greenville, SC',
+        'capacity': 15000,
+        },
+
+    {
+        'name': 'Bethel Park Stadium',
+        'location': 'Bethel Park, PA',
+        },
+
+    {
+        'name': 'Flamingo Park',
+        'location': 'Miami Beach, FL',
+        },
+
+    {
+        'name': 'Doug Hitchen Stadium',
+        'location': 'Arroyo Grande, CA',
+        },
+
+    {
+        'name': 'Santa Ana Stadium',
+        'location': 'Santa Ana, CA',
+        },
+
+    {
+        'name': 'Baker Field',
+        'location': 'New York, NY',
+        },
+    {
+        'name': 'Klockner Stadium',
+        'location': 'Charlottesville, VA',
+        'opened': 1992,
+        'capacity': 8000,
+        'cost': 1200000,
+        },
+    {
+        'name': 'SISD Student Activities Center',
+        'location': 'El Paso, TX',
+        },
+    {
+        'name': 'Baker Field',
+        'location': 'New York, NY',
+        },
+    {
+        'name': 'Baker Field',
+        'location': 'New York, NY',
+        },
+    {
+        'name': 'Baker Field',
+        'location': 'New York, NY',
+        },
+    {
+        'name': 'Baker Field',
+        'location': 'New York, NY',
+        },
+
 
 
 
