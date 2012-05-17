@@ -300,7 +300,7 @@ oteams = {
     'Goodyear FC (Akron)': 'Akron Goodyear FC',
     
     
-    'Chicago Viking AC': 'Chicago Viking A.A.',
+
 
     'Tower Ford': 'Tower Ford Casa Bianca',
 
@@ -345,7 +345,7 @@ oteams = {
     'Baltimore Pompeii': 'Baltimore Pompei SC',
     'Guiliana SC (East NY)': 'Giuliana SC',
 
-    'Chicago Sparta Falstaff': 'Chicago Sparta',
+
 
     'Fall River F.C.': 'Fall River FC',
     'Fall River Football Club': 'Fall River FC',
@@ -375,8 +375,10 @@ oteams = {
     'Simpkins S.C.': 'Simpkins Ford',
     'Schwaben (Chicago)': 'Chicago Schwaben',
 
+    'Chicago Viking AC': 'Chicago Viking A.A.',
     'Viking AC': 'Chicago Viking AC',
     'Chicago Vikings': 'Chicago Viking AC',
+
     'Hatikvoh': 'Hatikvoh FC',
     'German Hungarian S.C. (NYC)': 'German Hungarian SC',
     'Hungaria SC': 'NY Hungaria',
@@ -631,7 +633,7 @@ misc = {
 
     'DC United': 'D.C. United',
     'Abbot W.': 'Abbot Worsted',
-    'Scullin St.': 'St. Louis Scullin Steel',
+
     'Yonkers Th.': 'Yonkers Thistle',
     'Holley C.': 'Holley Carburetor F.C.',
 
@@ -679,17 +681,17 @@ misc = {
     'Bruell Hungarian': 'Bruell Hungarians',
     'Bruell Hungarians': 'Bruell Insurance',
 
-    'Sparta (Chicago)': 'Chicago Sparta',
-    'Sparta': 'Chicago Sparta',
-    'Sparta FC': 'Chicago Sparta',
-    'Sparta ABA': 'Chicago Sparta',
-    'Sparta Leader': 'Chicago Sparta',
-    'Sparta Garden City': 'Chicago Sparta',
-    'Sparta Union': 'Chicago Sparta',
-    'Chicago Sparta Falstaff': 'Chicago Sparta',
-    'Sparta Ogden Dairy': 'Chicago Sparta',
-    
-
+    'Chicago Sparta Falstaff': 'Chicago Sparta ABA',
+    'Sparta (Chicago)': 'Chicago Sparta ABA',
+    'Sparta': 'Chicago Sparta ABA',
+    'Sparta FC': 'Chicago Sparta ABA',
+    'Sparta F.C.': 'Chicago Sparta ABA',
+    'Sparta ABA': 'Chicago Sparta ABA',
+    'Sparta Leader': 'Chicago Sparta ABA',
+    'Sparta Garden City': 'Chicago Sparta ABA',
+    'Sparta Union': 'Chicago Sparta ABA',
+    'Chicago Sparta Falstaff': 'Chicago Sparta ABA',
+    'Sparta Ogden Dairy': 'Chicago Sparta ABA',
 
     'Mid-Michigan Bucks': 'Michigan Bucks',
 
@@ -697,10 +699,12 @@ misc = {
     
     'D. C. United': 'D.C. United',
 
-    'St. Louis Scullin Steel': 'Scullin Steel',
+
     'Stix, Baer & Fuller': 'Stix, Baer and Fuller F.C.',
     'Stix, Baer and Fuller': 'Stix, Baer and Fuller F.C.',
+
     'St. Louis Central Breweries F.C.': 'Central Breweries',
+
     'St. Louis Simpkins-Ford': 'Simpkins Ford',
 
     # Pretty sure this is correct.
@@ -712,7 +716,10 @@ misc = {
     'Innisfall FC': 'Innisfails FC',
     'Innisfalls FC': 'Innisfails FC',
     'Innisfails': 'Innisfails FC',
-    'Scullin Steel': 'Scullin Steels',
+
+    'St. Louis Scullin Steel': 'Scullin Steel',
+    'Scullin St.': 'Scullin Steel',
+
     'Vesper Buick': 'Vesper Buicks',
     'Wellston\'s': 'Wellston FC',
     'Hellrungs SC': 'Hellrungs',
@@ -727,6 +734,10 @@ misc = {
     'Chicago Viking': 'Chicago Viking A.A.',
     'Viking AA': 'Chicago Viking A.A.',
     'Viking A.A.': 'Chicago Viking A.A.',
+
+    'Slovak AA': 'Chicago Slovak SC',
+    'Slovak SC': 'Chicago Slovak SC',
+    
 
     'Richhmond Kickers': 'Richmond Kickers',
 
