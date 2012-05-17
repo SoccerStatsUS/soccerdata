@@ -216,7 +216,7 @@ oc_stadiums = [
         'name': 'Yurcak Field',
         'location': 'Piscataway, NJ',
         'opened': 1994,
-        'capacity': 5000
+        'capacity': 5000,
         'cost': 28000000,
         },
     {

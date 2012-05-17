@@ -18,6 +18,7 @@ def load_stadiums():
     l.extend(nasl2_stadiums)
     l.extend(foreign_stadiums)
     l.extend(apsl_stadiums)
+    l.extend(oc_stadiums)
     l.extend(stadiums)
 
     final = []
