@@ -27,11 +27,11 @@ def load_stadiums():
         d = defaults.copy()
         d.update(e)
 
-        if d['opened']:
-            d['year_opened'] = d['opened'].year
+        #if d['opened']:
+        #    d['year_opened'] = d['opened'].year
 
-        if d['closed']:
-            d['year_closed'] = d['closed'].year
+        #if d['closed']:
+        #    d['year_closed'] = d['closed'].year
 
         final.append(d)
 

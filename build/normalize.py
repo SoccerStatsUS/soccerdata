@@ -1,3 +1,5 @@
+import datetime
+
 
 def make_stadium_getter():
     from soccerdata.alias import get_place, get_stadium
@@ -52,9 +54,16 @@ def normalize():
             e['year_opened'] = e.pop('opened')
             e['opened'] = None
 
+        elif type(e['opened']) == datetime.datetime:
+            e['year_opened'] = e['opened'].year
+
         if type(e['closed']) == int:
             e['year_closed'] = e.pop('closed')
             e['closed'] = None
+
+        elif type(e['closed']) == datetime.datetime:
+            e['year_closed'] = e['closed'].year
+
 
         l.append(e)
 

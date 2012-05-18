@@ -50,6 +50,7 @@ def first_load():
 
     load_cups()
 
+
     load_nasl2()
 
     load_small_tournaments()
@@ -248,6 +249,7 @@ def load_standings():
     
 def load_hall_of_fame():
     from soccerdata.text import halloffame
+
     generic_load(soccer_db.usa_awards, halloffame.load_hall_of_fame)
 
 
