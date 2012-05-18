@@ -1,5 +1,14 @@
 def get_place(s):
-    return s.strip()
+    """
+    Recursive. 
+    """
+
+    s = s.strip()
+    if s in places:
+        return get_place(place[s])
+    else:
+        return s
+
 
 places = {
     'Olympic Park, Paterson': 'Olympic Field, Paterson',

@@ -1038,6 +1038,7 @@ names = {
 
 
 def get_name(name, league=None):
+    # Remove league option from get_name.
     name = name.strip()
     if league and (name, league) in names:
         name = names[(name, league)]

@@ -1140,13 +1140,10 @@ world_cup_teams = {
     'YUG': 'Yugoslavia',
     }
 
-"""
-for k, v in world_cup_teams.items():
-    t = (k, "FIFA World Cup")
-    teams[t] = v
-"""
 
 def get_team(name, competition=None, pre_dict={}):
+    # Remove pre_dict, competition from get_team
+
     name = pre_dict.get(name, name)
         
     if competition is not None and (name, competition) in teams:

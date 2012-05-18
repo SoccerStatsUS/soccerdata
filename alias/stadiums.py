@@ -1,6 +1,9 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+# This should only be used for
+# 1. Stadiums with multiple names
+# 2. Stadiums whose names are incorrect (externally)
 
 def get_stadium(s):
     s = s.strip()

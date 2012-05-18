@@ -1,5 +1,15 @@
 
 def make_stadium_getter():
+    """
+    Split off a stadium from a place name, if possible.
+    Apply stadium location information if a stadium is found.
+
+    Examples:
+    'Pizza Hut Park, Dallas, TX' -> ('Pizza Hut Park', 'Dallas, TX')
+    'Pizza Hut Park, Dallas, Texas' -> ('Pizza Hut Park', 'Dallas, TX')
+    'Richardson, Texas' -> (None, 'Richardson, Texas')
+    """
+
     from soccerdata.alias import get_place, get_stadium
     from soccerdata.mongo import soccer_db
     
@@ -37,15 +47,24 @@ def make_stadium_getter():
 
 
 def normalize():
+    """
+    Normalize different data types for collections.
+    The goal here is to ensure that team, player, competition, and place names are consistent.
+    That is, DaMarcus Beasley, Damarcus Beasley, and DeMarcus Beasley should all point to the same person.
+    To do this, we aggressively standardize all names.
+    Sometimes, this will result in different items being merged into one (e.g. Eddie Johnson and Edward Johnson)
+    These will then be split up with denormalize.py.
+    """
+
     from soccerdata.alias import get_team, get_name, get_competition
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
     stadium_getter = make_stadium_getter()
 
-    coll = soccer_db["stadiums"]
     l = []
-    for e in coll.find():
+    for e in soccer_db["stadiums"].find():
+
         e['year_opened'] = e['year_closed'] = None
   
         if type(e['opened']) == int:
@@ -72,20 +91,21 @@ def normalize():
             e['competition'] = get_competition(e['competition'])
             e['team1'] = get_team(e['team1'])
             e['team2'] = get_team(e['team2'])
-            
+
+            if 'location' in e:
+                # First normalize place names.
+                e['location'] = get_place(e['location'])
+                # Get stadium data if possible.
+                e['stadium'], e['location'] = stadium_getter(e['location'])
+
+            if e['home_team']:
+                e['home_team'] = get_team(e['home_team'])
+
             if e.get('referee'):
                 e['referee'] = get_name(e['referee'])
             else:
                 e['referee'] = None
             
-            if e['home_team']:
-                e['home_team'] = get_team(e['home_team'])
-
-            
-            if 'location' in e:
-                e['stadium'], e['location'] = stadium_getter(e['location'])
-
-            # Need to add linesmen.
             if 'linesmen' in e:
                 linesmen = e.pop('linesmen')
 
@@ -105,7 +125,7 @@ def normalize():
         coll.drop()
         insert_rows(coll, l)
 
-
+    # Normalize goals.
     for s in SOURCES:
         coll = soccer_db["%s_goals" %s]
         l = []
@@ -126,7 +146,7 @@ def normalize():
         coll.drop()
         insert_rows(coll, l)
 
-
+    # Normalize stats
     for s in SOURCES:
         coll = soccer_db["%s_stats" %s]
 
@@ -160,8 +180,7 @@ def normalize():
         coll.drop()
         insert_rows(coll, l)
 
-
-
+    # Normalize lineups
     for s in SOURCES:
         coll = soccer_db["%s_lineups" %s]
         l = []
@@ -182,8 +201,7 @@ def normalize():
         coll.drop()
         insert_rows(coll, l)
 
-
-
+    # Normalize standings
     for s in SOURCES:
         coll = soccer_db["%s_standings" %s]
         l = []
@@ -197,13 +215,7 @@ def normalize():
         coll.drop()
         insert_rows(coll, l)
 
-
-
-            
-
-
-
-
+    # Normalize awards
     for s in SOURCES:
         coll = soccer_db["%s_awards" %s]
         l = []
@@ -221,9 +233,7 @@ def normalize():
         coll.drop()
         insert_rows(coll, l)
 
-
-
-
+    # Normalize drafts
     for s in SOURCES:
         coll = soccer_db["%s_drafts" %s]
         l = []
