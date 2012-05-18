@@ -54,6 +54,10 @@ def process_mls_awards():
     from soccerdata.data.lists.mls import d
     return process_awards(d)
 
+def process_mls_cup_awards():
+    from soccerdata.data.lists.mls import d2
+    return process_awards(d2)
+
 def process_wsa_awards():
     from soccerdata.data.lists.wsa import d
     return process_awards(d)

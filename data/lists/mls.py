@@ -6,7 +6,8 @@ import datetime
 
 d = {
     'competition': 'Major League Soccer',
-    'team_data': ['MLS Cup', 'Supporters\' Shield'],
+    'team_data': ['Supporters\' Shield',],
+    'champion': 'Supporters\' Shield',
 
 
     'Supporters\' Shield': [
@@ -28,23 +29,6 @@ d = {
         (2011, 'Los Angeles Galaxy'),
         ],
 
-    'MLS Cup': [
-        (1996, 'D.C. United'),
-        (1997, 'D.C. United'),
-        (1998, 'Chicago Fire'),
-        (1999, 'D.C. United'),
-        (2000, 'Kansas City Wizards'),
-        (2001, 'San Jose Earthquakes'),
-        (2002, 'Los Angeles Galaxy'),
-        (2003, 'San Jose Earthquakes'),
-        (2004, 'D.C. United'),
-        (2005, 'Los Angeles Galaxy'),
-        (2006, 'Houston Dynamo'),
-        (2007, 'Houston Dynamo'),
-        (2008, 'Columbus Crew'),
-        (2009, 'Real Salt Lake'),
-        (2010, 'Colorado Rapids'),
-        ],
 
     'MVP': [
         (2010, 'David Ferreira'),
@@ -423,4 +407,30 @@ d = {
         (2009, 'Landon Donovan', (8, 8, 2009), 'http://www.youtube.com/watch?v=qnuPei0xyNs'),
         (2010, 'Marco Pappa', (4, 10, 2010), 'http://youtu.be/Ym_ZWti0bBo?t=2m36s'),
         ],
+}
+
+d2 = {
+    'competition': 'MLS Cup Playoffs',
+    'team_data': ['MLS Cup',],
+    'champion': 'MLS Cup',
+
+
+    'MLS Cup': [
+        (1996, 'D.C. United'),
+        (1997, 'D.C. United'),
+        (1998, 'Chicago Fire'),
+        (1999, 'D.C. United'),
+        (2000, 'Kansas City Wizards'),
+        (2001, 'San Jose Earthquakes'),
+        (2002, 'Los Angeles Galaxy'),
+        (2003, 'San Jose Earthquakes'),
+        (2004, 'D.C. United'),
+        (2005, 'Los Angeles Galaxy'),
+        (2006, 'Houston Dynamo'),
+        (2007, 'Houston Dynamo'),
+        (2008, 'Columbus Crew'),
+        (2009, 'Real Salt Lake'),
+        (2010, 'Colorado Rapids'),
+        ],
+
 }

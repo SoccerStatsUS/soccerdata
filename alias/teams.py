@@ -5,6 +5,7 @@ teams = {}
 
 
 alternate_names = {
+    'Toronto Ulster United': 'Toronto Ulster',
     'Toronto Supra Portuguese': 'Toronto Supra',
     "Vancouver 86ers": "Vancouver Whitecaps FC",
     "Golden Bay Earthquakes": "San Jose Earthquakes",
@@ -291,6 +292,9 @@ teams.update(all_star)
 
 
 oteams = {
+
+    'Tower Ford Casa Bianca': 'Casa Bianca',
+
     'Ukrainian SC (East NY)': 'NY Ukrainian SC',
 
     'White Banner': 'White Banner Malt',
