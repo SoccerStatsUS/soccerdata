@@ -1,8 +1,18 @@
 def get_place(s):
-    return s.strip()
+    """
+    Recursive. 
+    """
+
+    s = s.strip()
+    if s in places:
+        return get_place(place[s])
+    else:
+        return s
+
 
 places = {
     'Olympic Park, Paterson': 'Olympic Field, Paterson',
+    'Olympic Park, Paterson, NJ': 'Olympic Field, Paterson',
     'Island Stadium, Toronto': 'Hanlan\'s Point Stadium',
     'Soccorro Stadium, El Paso, TX': 'Socorro Stadium, El Paso, TX',
     'Soccorro Stadium': 'Socorro Stadium',
@@ -22,6 +32,11 @@ places = {
     'Dudley Stadium, El Paso, TX': 'Dudley Field',
     'Douglas Stadium, San Diego, CA': 'Merrill Douglas Stadium',
     'Santa Ana Bowl, Santa Ana, CA': 'Santa Ana Stadium',
+
+    'Memorial Stadium, Seattle, WA': 'Memorial Stadium (Seattle), Seattle, WA',
+
+    'Clark\'s Field, East Newark, NJ': 'Clark Field, Newark, NJ',
+    'Clark\'s Field, Newark, NJ': 'Clark Field, Newark, NJ',
     
 
     'National Sports Center': 'National Sports Center Stadium',

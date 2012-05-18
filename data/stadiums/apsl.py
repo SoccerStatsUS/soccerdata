@@ -38,7 +38,7 @@ apsl_stadiums = [
         },
 
                 {
-        'name': 'Complexe sportif Claude-Robillard',
+        'name': 'Complexe Sportif Claude-Robillard',
         'location': 'Montreal',
         'opened': 1976,
         'capacity': 9500,

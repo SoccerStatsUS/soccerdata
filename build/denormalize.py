@@ -73,6 +73,21 @@ def make_name_ungetter():
 
 
 def denormalize():
+    """
+    Reverse the normalization process.
+    This consists of a couple of different processes.
+    First, we want to have correct, time-sensitive names for teams, competitions, and stadiums.
+    So Sporting Kansas City should be Kansas City Wiz for 1996, Kansas City Wizards for 1997-2009, and 
+    Sporting Kansas City for 2010-
+    Furthermore, we will need to split some players and teams who share the same name.
+    e.g. Eddie Johnson should be split into Eddie Johnson (1984) and Eddie Johnson (1988) (correct birthdates?)
+    This is done by explicitly coding enough identity information to distinguish players.
+    (Eddie Johnson (1984) played for FC Dallas, Sporting Kansas City, and Seattle Sounders)
+
+    Additionally, this is where we apply stadium information to games. If we know the home team but not the location,
+    we set the location to the team's stadium for that date if possible.
+    """
+
     from soccerdata.mongo import soccer_db, insert_rows
     
     print "Denormalizing"

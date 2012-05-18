@@ -4,7 +4,11 @@ competitions = {
     'USISL Professional League': 'USL Second Division',
     'USL Pro': 'USL Second Division',
     'A-League': 'USL First Division',
+
     'Western Soccer Alliance': 'Western Soccer League',
+    'Western Soccer Alliance Playoffs': 'Western Soccer League Playoffs',
+
+
     'USL Pro': 'USL Second Division',
     'Domestic Tour': 'Friendly',
     'International Tour': 'Friendly',

@@ -1,4 +1,3 @@
-from soccerdata.alias import get_team, get_name
 
 
 DIR = '/home/chris/www/soccerdata/lists'
@@ -10,6 +9,9 @@ def process_awards(d):
     """
     l = []
     competition = d.pop('competition')
+    
+    champion_name = d.get('champion')
+    
 
     # Which awards are given to teams rather than people
     if 'team_data' in d:
@@ -23,6 +25,11 @@ def process_awards(d):
             model = 'Team'
         else:
             model = 'Bio'
+
+        if award == champion_name or award == 'Champion':
+            award_type = 'champion'
+        else:
+            award_type = ''
             
         for season, item in v:
             season = unicode(season)
@@ -31,26 +38,16 @@ def process_awards(d):
                 'season': season,
                 'award': award,
                 'model': model,
+                'type': award_type,
                 }
                 
             if type(item) == list:
                 for recipient in item:
-                    recipient = recipient.strip()
-                    if model == 'Bio':
-                        recipient = get_name(recipient)
-                    else:
-                        recipient = get_team(recipient)
-
-                    d = {'recipient': recipient}
+                    d = {'recipient': recipient }
                     d.update(template)
                     l.append(d)
             else:
-                if model == 'Bio':
-                    recipient = get_name(item)
-                else:
-                    recipient = get_team(item)
-
-                d = {'recipient': recipient}
+                d = {'recipient': item }
                 d.update(template)
                 l.append(d)
     return l
@@ -65,6 +62,10 @@ def process_nasl_awards():
 def process_mls_awards():
     from soccerdata.data.lists.mls import d
     return process_awards(d)
+
+def process_mls_cup_awards():
+    from soccerdata.data.lists.mls import d2
+    return process_awards(d2)
 
 def process_wsa_awards():
     from soccerdata.data.lists.wsa import d

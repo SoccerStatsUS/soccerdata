@@ -11,7 +11,6 @@ import re
 
 from collections import defaultdict
 
-from soccerdata.alias import get_team, get_name
 from soccerdata.utils import scrape_soup, get_contents
 from soccerdata.cache import set_cache, data_cache
 
@@ -409,7 +408,7 @@ def scrape_live_goals(url, competition):
 
             
         return {
-            'goal': get_name(player),
+            'goal': player,
             'minute': minute,
             'team': aliases.get(team, team),
             'type': goal_type,
@@ -517,7 +516,7 @@ def scrape_live_lineups(url, competition):
                 off = 90
 
             lineup.append({
-                    'name': get_name(player),
+                    'name': player,
                     'on': on,
                     'off': off,
                     'team': aliases.get(team, team),

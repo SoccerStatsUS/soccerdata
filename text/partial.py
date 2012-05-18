@@ -4,8 +4,6 @@ import re
 
 stats_path = '/home/chris/www/soccerdata/data/stats/partial_stats.csv'
 
-from soccerdata.alias import get_name, get_team
-
 
 def process_partial_stats():
     l = []
@@ -37,8 +35,8 @@ def process_partial_stats():
             goals = None
 
         l.append({
-                'name': get_name(name),
-                'team': get_team(team),
+                'name': name,
+                'team': team,
                 'competition': competition,
                 'season': season,
                 'games': games,

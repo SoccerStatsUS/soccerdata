@@ -4,6 +4,24 @@
 teams = {}
 
 
+alternate_names = {
+    'Toronto Ulster United': 'Toronto Ulster',
+    'Toronto Supra Portuguese': 'Toronto Supra',
+    "Vancouver 86ers": "Vancouver Whitecaps FC",
+    "Golden Bay Earthquakes": "San Jose Earthquakes",
+    'NY Pancyprian-Freedoms': 'New York Pancyprian-Freedoms',
+    'NY Pancyprian Freedoms': 'New York Pancyprian-Freedoms',
+    'Atlanta Datagraphic Magic': 'Atlanta Magic',
+    'Atlanta Datagraphic': 'Atlanta Magic',
+    'San Jose Clash': 'San Jose Earthquakes',
+    'Dallas Burn': 'FC Dallas',
+    'Seattle Sounders FC': 'Seattle Sounders',
+    'Carolina Railhawks': 'Carolina RailHawks',
+    'Phoenix Hearts': 'Arizona Sahuaros',
+    'Arizona Cotton': 'Arizona Sahuaros',
+    'Arizona Phoenix': 'Arizona Sahuaros',
+}
+teams.update(alternate_names)
 
 world = {
     
@@ -267,13 +285,25 @@ all_star = {
     'Philadelphia Stars': 'Philadelphia All-Stars',
     'Rochester Select': 'Rochester All-Stars',
     'Saskatchewan Stars': 'Saskatchewan All-Stars',
-    'U. S. Stars': 'U.S. Stars',
+    'U. S. Stars': 'U.S. All-Stars',
+    'U.S. Stars': 'U.S. All-Stars',
 }
 teams.update(all_star)
 
 
 oteams = {
 
+    'Tower Ford Casa Bianca': 'Casa Bianca',
+
+    'Ukrainian SC (East NY)': 'NY Ukrainian SC',
+
+    'White Banner': 'White Banner Malt',
+    'White Banner Malt (St. Louis)': 'White Banner Malt',
+
+    # Check these names.
+    'Wichita Blue': 'Wichita Blue Angels',
+
+    'Wellston FC (St. Louis)': 'Wellston FC',
 
     'Chicago Fire S.C.': 'Chicago Fire',
 
@@ -290,6 +320,10 @@ oteams = {
 
     'Montclair Standard Falcons': 'Montclair Falcons',
     'Fontana Falcons': 'Montclair Falcons',
+
+    'Buda A.A. (Harvey, Illinois)': 'Harvey Buda A.A.',
+
+    
 
     'Gray & Davis': 'Grey & Davis', # Not sure about this one.
     'Anderson S.C.': 'Andersons',
@@ -863,6 +897,8 @@ misc = {
     'Dayton Dutch Lions FC': 'Dayton Dutch Lions',
 
     'Brooklyn Dodgers S.C.': 'Brooklyn Italians',
+    'Brooklyn Dodgers SC': 'Brooklyn Italians',
+
     'San Francisco C.D. Mexico' : 'El Farolito Soccer Club',
     'Philadelphia Uhrik Truckers': 'Uhrik Truckers',
 
@@ -1037,23 +1073,6 @@ pdl_teams = {
     }
 teams.update(pdl_teams)
 
-misc_teams = {
-    "Vancouver 86ers": "Vancouver Whitecaps FC",
-    "Golden Bay Earthquakes": "San Jose Earthquakes",
-    'NY Pancyprian-Freedoms': 'New York Pancyprian-Freedoms',
-    'NY Pancyprian Freedoms': 'New York Pancyprian-Freedoms',
-    'Atlanta Datagraphic Magic': 'Atlanta Magic',
-    'Atlanta Datagraphic': 'Atlanta Magic',
-    'San Jose Clash': 'San Jose Earthquakes',
-    'Dallas Burn': 'FC Dallas',
-    'Seattle Sounders FC': 'Seattle Sounders',
-    'Carolina Railhawks': 'Carolina RailHawks',
-    'Phoenix Hearts': 'Arizona Sahuaros',
-    'Arizona Cotton': 'Arizona Sahuaros',
-    'Arizona Phoenix': 'Arizona Sahuaros',
-    }
-
-teams.update(misc_teams)
 
 # Should remove these.
 
@@ -1140,13 +1159,10 @@ world_cup_teams = {
     'YUG': 'Yugoslavia',
     }
 
-"""
-for k, v in world_cup_teams.items():
-    t = (k, "FIFA World Cup")
-    teams[t] = v
-"""
 
 def get_team(name, competition=None, pre_dict={}):
+    # Remove pre_dict, competition from get_team
+
     name = pre_dict.get(name, name)
         
     if competition is not None and (name, competition) in teams:

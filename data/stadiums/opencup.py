@@ -278,9 +278,128 @@ oc_stadiums = [
         'cost': 1200000,
         },
     {
-        'name': 'SISD Student Activities Center',
-        'location': 'El Paso, TX',
+        'name': 'Academica Fields',
+        'location': 'Turlock, CA',
         },
+
+    {
+        'name': 'CSM Soccer Stadium',
+        'location': 'Golden, CO',
+        },
+    {
+        'name': 'Bavarian Soccer Park',
+        'location': 'Milwaukee, WI',
+        },
+    {
+        'name': 'Seminole Soccer Complex',
+        'location': 'Sanford, FL',
+        },
+    {
+        'name': 'Texas A&M International University Soccer Complex',
+        'location': 'Laredo, TX',
+        },
+    {
+        'name': 'RYSA Soccerplex',
+        'location': 'Conyers, GA',
+        },
+    {
+        'name': 'Toyota Park Practice Field',
+        'location': 'Chicago, IL',
+        },
+    {
+        'name': 'Bremerton Memorial Stadium',
+        'location': 'Bremerton, WA',
+        },
+    {
+        'name': 'Bremerton Memorial Stadium',
+        'location': 'Bremerton, WA',
+        },
+    {
+        'name': 'Chartiers Valley Stadium',
+        'location': 'Bridgeville, PA',
+        },
+    {
+        'name': 'George Mason Stadium',
+        'location': 'Fairfax, VA',
+        },
+    {
+        'name': 'Fullerton State Sports Complex',
+        'location': 'Fullerton, CA',
+        },
+    {
+        'name': 'University of Richmond Stadium',
+        'location': 'Richmond, VA',
+        },
+    {
+        'name': 'Richland Stadium',
+        'location': 'Dallas, TX',
+        },
+    {
+        'name': 'Cy Donnelly Stadium',
+        'location': 'South Huntington, NY',
+        },
+    {
+        'name': 'Central Broward Regional Park',
+        'location': 'Lauderhill, FL',
+        },
+    {
+        'name': 'Douglas Stadium',
+        'location': 'San Diego, CA',
+        },
+    {
+        'name': 'High Point Athletic Complex',
+        'location': 'High Point, NC',
+        },
+    {
+        'name': 'Peoria Sports Complex',
+        'location': 'Peoria, AZ',
+        },
+    {
+        'name': 'Alan Carson Field',
+        'location': 'South Yarmouth, MA',
+        },
+    {
+        'name': 'Mile High Greyhound Park',
+        'location': 'Denver, CO',
+        },
+    {
+        'name': 'Memorial Stadium (Seattle)',
+        'location': 'Seattle, WA',
+        },
+    {
+        'name': 'Adams Stadium',
+        'location': 'Atlanta, GA',
+        },
+    {
+        'name': 'Englewood Stadium',
+        'location': 'Englewood, CO',
+        },
+    {
+        'name': 'Royal Palm Polo Club',
+        'location': 'Boca Raton, FL',
+        },
+    {
+        'name': 'University of Redlands',
+        'location': 'Redlands, CA',
+        },
+    {
+        'name': 'Adams Stadium',
+        'location': 'Atlanta, GA',
+        },
+    {
+        'name': 'Adams Stadium',
+        'location': 'Atlanta, GA',
+        },
+    {
+        'name': 'Adams Stadium',
+        'location': 'Atlanta, GA',
+        },
+    {
+        'name': 'Adams Stadium',
+        'location': 'Atlanta, GA',
+        },
+
+    
 
 
 

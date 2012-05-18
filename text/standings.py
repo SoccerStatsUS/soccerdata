@@ -5,8 +5,6 @@ import os
 
 from soccerdata.cache import data_cache
 
-from soccerdata.alias import get_team
-
 DIR = '/home/chris/www/soccerdata/data/'
 
 if not os.path.exists(DIR):
@@ -67,7 +65,7 @@ def process_standings(filename):
             return None
 
         return {
-            'team': get_team(team.strip()),
+            'team': team,
             'competition': competition,
             'division': division,
             'season': season,
