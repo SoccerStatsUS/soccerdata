@@ -1,4 +1,3 @@
-from soccerdata.alias import get_team, get_name
 
 
 DIR = '/home/chris/www/soccerdata/lists'
@@ -35,22 +34,11 @@ def process_awards(d):
                 
             if type(item) == list:
                 for recipient in item:
-                    recipient = recipient.strip()
-                    if model == 'Bio':
-                        recipient = get_name(recipient)
-                    else:
-                        recipient = get_team(recipient)
-
-                    d = {'recipient': recipient}
+                    d = {'recipient': recipient }
                     d.update(template)
                     l.append(d)
             else:
-                if model == 'Bio':
-                    recipient = get_name(item)
-                else:
-                    recipient = get_team(item)
-
-                d = {'recipient': recipient}
+                d = {'recipient': item }
                 d.update(template)
                 l.append(d)
     return l

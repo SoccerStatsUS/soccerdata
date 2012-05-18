@@ -5,8 +5,7 @@
 import datetime
 import os
 
-from soccerdata.alias import get_team, get_name
-#from soccerdata.cache import data_cache
+from soccerdata.alias import get_team
 
 
 DIR = '/home/chris/www/soccerdata/data/leach'
@@ -20,7 +19,7 @@ def format_name(s):
         ns = fields[0]
     elif len(fields) == 2:
         ns = "%s %s" % (fields[1], fields[0])
-    return get_name(ns)
+    return ns
 
 
 def make_team_to_competition_dict():
@@ -64,7 +63,7 @@ def process_lineups_file(fn, season):
                 else:
                     competition = competitions[0]
 
-            n = get_name(format_name(name))
+            n = format_name(name)
 
 
             l.append({

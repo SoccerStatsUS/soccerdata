@@ -1,10 +1,7 @@
 # Process Golden Age ASL scores.
-# Stats not working yet.
 
 import datetime
 import re
-
-from soccerdata.alias import get_team, get_name
 
 games_filename = '/home/chris/www/soccerdata/data/scores/asl.csv'
 stats_filename = '/home/chris/www/soccerdata/data/stats/aslstats.csv'
@@ -218,9 +215,6 @@ def load_stat(line):
 
     team_name = get_full_name_stats(team, season)
 
-    # Get canonical name.
-    name = get_name(name)
-    
     l = []
     l.append({
             'name': name,

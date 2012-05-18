@@ -46,7 +46,6 @@ import os
 import re
 import sys
 
-from soccerdata.alias import get_name
 from soccerdata.cache import data_cache, set_cache
 
 

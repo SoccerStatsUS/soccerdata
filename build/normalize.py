@@ -207,7 +207,6 @@ def normalize():
         l = []
         for e in coll.find():
             e['competition'] = get_competition(e['competition'])
-            # NB - weird naming.
             e['team'] = get_team(e['team'])
 
             l.append(e)

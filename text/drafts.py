@@ -11,9 +11,6 @@ import datetime
 import os
 import re
 
-from soccerdata.alias.teams import get_team
-from soccerdata.alias.people import get_name
-
 
 draft_dates = [
     ('1996 Inaugural Draft', (1996, 2, 6), (1996, 2,7)),
@@ -142,8 +139,8 @@ def process_draft(text, draft_name):
         return {
             'position': int(number),
             # This doesn't seem to be working.
-            'text': get_name(name.strip()),
-            'team': get_team(team.strip()),
+            'text': name,
+            'team': team,
             'draft': draft_name,
             'competition': 'Major League Soccer',
             #'source': 'Wikipedia',
@@ -225,7 +222,7 @@ def process_usmnt_draft(fn, draft_name, parser=parse_line):
         return {
             #'position': number,
             'team': team,
-            'text': get_name(player),
+            'text': player,
             'draft': draft_name,
             'competition': 'Friendly',
             }
