@@ -9,6 +9,9 @@ def process_awards(d):
     """
     l = []
     competition = d.pop('competition')
+    
+    champion_name = d.get('champion')
+    
 
     # Which awards are given to teams rather than people
     if 'team_data' in d:
@@ -22,6 +25,11 @@ def process_awards(d):
             model = 'Team'
         else:
             model = 'Bio'
+
+        if award == champion_name or award == 'Champion':
+            award_type = 'champion'
+        else:
+            award_type = ''
             
         for season, item in v:
             season = unicode(season)
@@ -30,6 +38,7 @@ def process_awards(d):
                 'season': season,
                 'award': award,
                 'model': model,
+                'type': award_type,
                 }
                 
             if type(item) == list:

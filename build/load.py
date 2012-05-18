@@ -379,6 +379,7 @@ def load_mls_data():
 
     print "Loading MLS awards.\n"
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
+    generic_load(soccer_db.mls_awards, awards.process_mls_cup_awards)
 
     print "Loading mls bio stats.\n"
     generic_load(soccer_db.mls_stats, mls.scrape_all_bio_stats_mlssoccer)
