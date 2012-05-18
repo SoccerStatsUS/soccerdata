@@ -26,6 +26,7 @@ soccernet_errors = {
     'Estadio Corona': 'Estadio TSM Corona',
     'Hasely Crawford': 'Hasely Crawford Stadium',
     'Andrés Quintana Roo': 'Estadio Quintana Roo',
+    'Complexe sportif Claude-Robillard': 'Complexe Sportif Claude-Robillard',
 }
 sd.update(soccernet_errors)
     
