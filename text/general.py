@@ -7,9 +7,23 @@
 # Ruben Luna 3, Ruben Luna 10, Hugo Sanchez 92; Chicharito 19
 # FC Dallas: Matt Jordan, Chris Gbandi, Clarence Goodson, George John, Zach Loyd, Brek Shea, Oscar Pareja, Leonel Alvarez, Ronnie O'Brien, Jason Kreis, Carlos Ruiz
 
+
+
+
 import datetime
 import os
 import re
+
+
+
+
+def process_name(s):
+    s = s.strip()
+    m = re.match("(\d+-)?(.*)", s)
+    if m:
+        return m.groups()[1].strip()
+    else:
+        return s
 
 class GeneralProcessor(object):
     """
@@ -77,6 +91,9 @@ class GeneralProcessor(object):
 
         # Set the round.
         if line.startswith("Round"):
+            return
+
+        if line.startswith("Substitutes Not Used:"):
             return
 
         if line.startswith("Group"):
@@ -305,9 +322,11 @@ class GeneralProcessor(object):
             # Off should be "end", then normalized later.
 
             if '(' not in s:
+
+                name = process_name(s)
                 
                 return [{
-                    'name': s.strip(),
+                    'name': name,
                     'on': 0,
                     'off': 90,
                     'team': team,

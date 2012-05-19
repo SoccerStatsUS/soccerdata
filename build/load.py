@@ -48,6 +48,10 @@ def first_load():
 
     load_hall_of_fame()
 
+    load_usa()
+
+    return
+
     load_cups()
 
 
@@ -87,7 +91,7 @@ def first_load():
 
 
     # USMNT
-    load_usa()
+
 
     # All World Cups.
     load_world_cup()
@@ -128,6 +132,13 @@ def load_stadiums():
     from data.stadiums import s
     generic_load(soccer_db.stadiums, s.load_stadiums)
 
+
+def load_usa():
+    load_general('usa', 'international/usmnt/usa_very_early')
+    load_general('usa', 'international/usmnt/gold_cup')
+    load_general('usa', 'international/usmnt/world_cup')
+    for e in [0, 1, 8, 9]:
+        load_general('usa', 'international/usmnt/usa%s0' % e)
 
 def load_small_tournaments():
     load_general('chris', 'small_tournaments/giantscup.txt')
@@ -456,11 +467,6 @@ def load_ncaa():
 
     print "Loading NCAA awards.\n"
     generic_load(soccer_db.ncaa_awards, awards.process_ncaa_awards)
-
-
-def load_usa():
-    from soccerdata.text import drafts
-    generic_load(soccer_db.usa_drafts, drafts.process_usa_drafts)
 
 
 def load_world_cup():
