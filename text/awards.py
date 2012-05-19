@@ -1,5 +1,6 @@
 
 
+
 DIR = '/home/chris/www/soccerdata/lists'
 
 
@@ -9,8 +10,11 @@ def process_awards(d):
     """
     l = []
     competition = d.pop('competition')
-    
-    champion_name = d.get('champion')
+
+    if 'champion' in d:
+        champion_name = d.pop('champion')
+    else:
+        champion_name = None
     
 
     # Which awards are given to teams rather than people
@@ -30,8 +34,11 @@ def process_awards(d):
             award_type = 'champion'
         else:
             award_type = ''
-            
-        for season, item in v:
+
+        for e in v:
+            if len(e) != 2:
+                import pdb; pdb.set_trace()
+            season, item = e
             season = unicode(season)
             template = {
                 'competition': competition,

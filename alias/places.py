@@ -5,7 +5,7 @@ def get_place(s):
 
     s = s.strip()
     if s in places:
-        return get_place(place[s])
+        return get_place(places[s])
     else:
         return s
 

@@ -50,8 +50,6 @@ def first_load():
 
     load_usa()
 
-    return
-
     load_cups()
 
 
@@ -75,7 +73,7 @@ def first_load():
     load_asl2()
     load_apsl()
     load_usl()
-    load_leach()    
+    #load_leach()    
 
     load_ncaa()
 
@@ -134,10 +132,10 @@ def load_stadiums():
 
 
 def load_usa():
-    load_general('usa', 'international/usmnt/usa_very_early')
+    load_general('usa', 'international/usmnt/usa_early')
     load_general('usa', 'international/usmnt/gold_cup')
     load_general('usa', 'international/usmnt/world_cup')
-    for e in [0, 1, 8, 9]:
+    for e in [0, 1,]: #8, 9]:
         load_general('usa', 'international/usmnt/usa%s0' % e)
 
 def load_small_tournaments():

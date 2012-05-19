@@ -58,14 +58,15 @@ def normalize():
     These will then be split up with denormalize.py.
     """
 
-    from soccerdata.alias import get_team, get_name, get_competition
+    from soccerdata.alias import get_team, get_name, get_competition, get_place
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
     stadium_getter = make_stadium_getter()
 
+    coll = soccer_db["stadiums"]
     l = []
-    for e in soccer_db["stadiums"].find():
+    for e in coll.find():
 
         e['year_opened'] = e['year_closed'] = None
   
@@ -125,6 +126,12 @@ def normalize():
                 elif len(linesmen) == 2:
                     e['linesman1'] = linesmen[0]
                     e['linesman2'] = linesmen[1]
+
+                # This happens in one game...ok?
+                elif len(linesmen) == 3:
+                    e['linesman1'] = linesmen[0]
+                    e['linesman2'] = linesmen[1]
+                    e['linesman3'] = linesmen[2]
                 else:
                     import pdb; pdb.set_trace()
                     x = 5
