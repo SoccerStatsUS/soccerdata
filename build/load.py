@@ -133,6 +133,7 @@ def load_stadiums():
 
 def load_usa():
     load_general('usa', 'international/usmnt/usa_early')
+    load_general('usa', 'international/usmnt/usa_old')
     load_general('usa', 'international/usmnt/gold_cup')
     load_general('usa', 'international/usmnt/world_cup')
     for e in [0, 1,]: #8, 9]:
