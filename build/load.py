@@ -49,6 +49,7 @@ def first_load():
     load_hall_of_fame()
 
     load_usa()
+    return
 
     load_cups()
 
@@ -135,7 +136,7 @@ def load_usa():
     load_general('usa', 'international/usmnt/usa_early')
     load_general('usa', 'international/usmnt/gold_cup')
     load_general('usa', 'international/usmnt/world_cup')
-    for e in [0, 1,]: #8, 9]:
+    for e in [0, 1, 8, 9]:
         load_general('usa', 'international/usmnt/usa%s0' % e)
 
 def load_small_tournaments():
