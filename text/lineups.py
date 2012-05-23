@@ -425,10 +425,13 @@ def get_scores(fn):
         away_team = team_map.get(away_team, away_team)
 
 
-        competition = get_competition(match_type),
+        competition = get_competition(match_type)
 
         # Only use scaryice MLS regular season scores.
         # Everything else is too complicated / not good enough.
+
+        print competition
+
 
         if competition == 'Major League Soccer':
             return {
@@ -449,6 +452,7 @@ def get_scores(fn):
          
     team_name = file_mapping[fn.replace(".csv", '')]
     scores = [process_line(line) for line in open(p).readlines()]
+
     return [e for e in scores if e]
 
 
