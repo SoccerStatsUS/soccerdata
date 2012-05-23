@@ -1,0 +1,319 @@
+NPSL	1967	Atlanta	4	16	Baltimore	a	0,1			8434
+NPSL	1967	Atlanta		22	Los Angeles	h	1,1			11293
+NPSL	1967	Atlanta		30	Los Angeles	a	3,0			5094
+NPSL	1967	Atlanta		3	Oakland	a	1,2			2503
+NPSL	1967	Atlanta		10	Toronto	h	3,2			6579
+NPSL	1967	Atlanta		13	New York	h	2,0			5704
+NPSL	1967	Atlanta		21	New York	a	2,2			3938
+NPSL	1967	Atlanta		23	Toronto	a	4,1			2876
+NPSL	1967	Atlanta		27	Pittsburgh	h	2,1			13132
+NPSL	1967	Atlanta		31	Philadelphia	a	2,3			414
+NPSL	1967	Atlanta		4	Chicago	h	4,4			3608
+NPSL	1967	Atlanta		6	Baltimore	a	1,2			3417
+NPSL	1967	Atlanta		14	Philadelphia	h	3,0			11375
+NPSL	1967	Atlanta		16	Pittsburgh	a	0,1			2488
+NPSL	1967	Atlanta		20	St. Louis	a	2,1			6434
+NPSL	1967	Atlanta		25	Oakland	a	0,2			3816
+NPSL	1967	Atlanta		28	Los Angeles	a	1,2			2131
+NPSL	1967	Atlanta		2	Los Angeles	h	1,1			5742
+NPSL	1967	Atlanta		4	Toronto	a	1,2			2723
+NPSL	1967	Atlanta		6	Oakland	h	0,3			5120
+NPSL	1967	Atlanta		12	Philadelphia	h	2,0			5863
+NPSL	1967	Atlanta		14	Chicago	a	1,2			3546
+NPSL	1967	Atlanta		19	Toronto	h	4,1			6965
+NPSL	1967	Atlanta		22	New York	a	2,2			3334
+NPSL	1967	Atlanta		30	Philadelphia	a	1,1			4236
+NPSL	1967	Atlanta		2	New York	h	1,1			5942
+NPSL	1967	Atlanta		5	Baltimore	h	2,2			7230
+NPSL	1967	Atlanta		9	St. Louis	h	2,3			5583
+NPSL	1967	Atlanta		11	Pittsburgh	a	2,3			1461
+NPSL	1967	Atlanta		20	Baltimore	h	0,0			4361
+NPSL	1967	Atlanta		26	Oakland	h	1,0			5919
+NPSL	1967	Baltimore	4	16	Atlanta	h	1,0			8434
+NPSL	1967	Baltimore		19	St. Louis	h	1,3			4409
+NPSL	1967	Baltimore		23	Philadelphia	a	0,0			4815
+NPSL	1967	Baltimore		28	Chicago	a	2,0			3753
+NPSL	1967	Baltimore		3	Pittsburgh	h	3,5			5325
+NPSL	1967	Baltimore		13	Chicago	h	2,2			3521
+NPSL	1967	Baltimore		19	Philadelphia	h	3,2			3740
+NPSL	1967	Baltimore		24	New York	a	0,0			2351
+NPSL	1967	Baltimore		28	St. Louis	a	2,0			5908
+NPSL	1967	Baltimore		31	Toronto	h	0,2			4024
+NPSL	1967	Baltimore		4	Philadelphia	a	0,0			5127
+NPSL	1967	Baltimore		6	Atlanta	h	2,1			3741
+NPSL	1967	Baltimore		10	Toronto	h	3,2			4736
+NPSL	1967	Baltimore		14	Pittsburgh	h	4,1			6643
+NPSL	1967	Baltimore		18	Oakland	a	1,3			3480
+NPSL	1967	Baltimore		21	Los Angeles	a	1,0			3463
+NPSL	1967	Baltimore		27	Pittsburgh	a	2,2			3286
+NPSL	1967	Baltimore		30	Toronto	a	1,2			3016
+NPSL	1967	Baltimore		3	Oakland	h	1,0			8792
+NPSL	1967	Baltimore		9	St. Louis	a	2,2			5135
+NPSL	1967	Baltimore		11	Toronto	a	4,2			4723
+NPSL	1967	Baltimore		16	New York	h	1,2			6422
+NPSL	1967	Baltimore		23	Chicago	h	2,1			4347
+NPSL	1967	Baltimore		26	Los Angeles	h	3,2			6422
+NPSL	1967	Baltimore		28	Chicago	a	1,3			7243
+NPSL	1967	Baltimore		30	New York	h	3,3			5925
+NPSL	1967	Baltimore		5	Atlanta	a	2,2			7230
+NPSL	1967	Baltimore		9	New York	a	1,0			5807
+NPSL	1967	Baltimore		13	St. Louis	h	3,1			5604
+NPSL	1967	Baltimore		16	Philadelphia	h	0,1			11329
+NPSL	1967	Baltimore		20	Atlanta	a	0,0			4361
+NPSL	1967	Baltimore		27	Pittsburgh	a	2,3			892
+NPSL Playoffs	1967	Baltimore		3	Oakland	h	1,0			16329
+NPSL Playoffs	1967	Baltimore		9	Oakland	a	1,4			9037
+NPSL	1967	Chicago	4	16	St. Louis	h	2,1			4720
+NPSL	1967	Chicago		18	Toronto	h	1,0			811
+NPSL	1967	Chicago		22	New York	a	1,2			7766
+NPSL	1967	Chicago		28	Baltimore	h	0,2			3753
+NPSL	1967	Chicago	5	2	Philadelphia	h	0,0			879
+NPSL	1967	Chicago		7	St. Louis	a	1,2			11529
+NPSL	1967	Chicago		13	Baltimore	a	2,2			3521
+NPSL	1967	Chicago		16	Los Angeles	h	1,1			2267
+NPSL	1967	Chicago		20	Pittsburgh	a	1,3			2103
+NPSL	1967	Chicago		24	Oakland	a	1,1			2538
+NPSL	1967	Chicago		28	Los Angeles	a	1,1			2577
+NPSL	1967	Chicago		30	New York	h	0,0			3741
+NPSL	1967	Chicago	6	4	Atlanta	a	4,4			3608
+NPSL	1967	Chicago		6	Toronto	a	1,4			2264
+NPSL	1967	Chicago		9	Oakland	h	1,2			1355
+NPSL	1967	Chicago		13	Los Angeles	h	0,3			870
+NPSL	1967	Chicago		18	Philadelphia	h	3,1			2125
+NPSL	1967	Chicago		25	Philadelphia	a	2,0			2986
+NPSL	1967	Chicago		30	Oakland	h	1,1			1349
+NPSL	1967	Chicago	7	3	Pittsburgh	h	2,2			1615
+NPSL	1967	Chicago		9	New York	a	3,2			2932
+NPSL	1967	Chicago		14	Atlanta	h	2,1			3546
+NPSL	1967	Chicago		23	Baltimore	a	1,2			4347
+NPSL	1967	Chicago		28	Baltimore	h	3,1			7243
+NPSL	1967	Chicago		11	Toronto	a	3,3			3982
+NPSL	1967	Chicago		6	St. Louis	h	2,1			3354
+NPSL	1967	Chicago		9	Philadelphia	a	3,2			4845
+NPSL	1967	Chicago		11	Los Angeles	a	2,1			1817
+NPSL	1967	Chicago		16	Oakland	a	1,3			5715
+NPSL	1967	Chicago		18	Toronto	h	1,2			1518
+NPSL	1967	Chicago		22	New York	h	3,3			2754
+NPSL	1967	Chicago		25	St. Louis	a	1,2			1353
+NPSL	1967	Los Angeles	4	16	New York	h	3,2			9048
+NPSL	1967	Los Angeles		19	Pittsburgh	h	2,2			1610
+NPSL	1967	Los Angeles		22	Atlanta	a	1,1			11293
+NPSL	1967	Los Angeles		26	St. Louis	a	1,1			3007
+NPSL	1967	Los Angeles		30	Atlanta	h	0,3			5094
+NPSL	1967	Los Angeles		3	Toronto	h	1,3			2570
+NPSL	1967	Los Angeles		10	New York	a	2,0			4830
+NPSL	1967	Los Angeles		13	Oakland	a	0,4			5511
+NPSL	1967	Los Angeles		16	Chicago	a	1,1			2267
+NPSL	1967	Los Angeles		21	Oakland	h	2,0			3555
+NPSL	1967	Los Angeles		24	Philadelphia	a	0,1			4020
+NPSL	1967	Los Angeles		28	Chicago	h	1,1			2577
+NPSL	1967	Los Angeles		31	St. Louis	h	1,1			1883
+NPSL	1967	Los Angeles		3	Pittsburgh	a	0,0			4115
+NPSL	1967	Los Angeles		11	Pittsburgh	h	3,0			2719
+NPSL	1967	Los Angeles		13	Chicago	a	3,0			870
+NPSL	1967	Los Angeles		18	St. Louis	a	1,0			5604
+NPSL	1967	Los Angeles		21	Baltimore	h	0,1			3463
+NPSL	1967	Los Angeles		28	Atlanta	h	2,1			2131
+NPSL	1967	Los Angeles		2	Atlanta	a	1,1			5642
+NPSL	1967	Los Angeles		4	New York	a	1,2			3492
+NPSL	1967	Los Angeles		9	Oakland	a	0,2			5108
+NPSL	1967	Los Angeles		15	Oakland	h	0,0			11158
+NPSL	1967	Los Angeles		22	St. Louis	h	3,4			2652
+NPSL	1967	Los Angeles		26	Baltimore	a	2,3			6422
+NPSL	1967	Los Angeles		28	Toronto	a	1,6			4271
+NPSL	1967	Los Angeles		2	Pittsburgh	a	1,4			1610
+NPSL	1967	Los Angeles		4	Philadelphia	h	1,3			2197
+NPSL	1967	Los Angeles		9	Toronto	h	1,1			2700
+NPSL	1967	Los Angeles		11	Chicago	h	1,2			1817
+NPSL	1967	Los Angeles		16	New York	h	4,6			2339
+NPSL	1967	Los Angeles		15	Toronto	a	2,5		wrong	3426
+NPSL	1967	New York	4	16	Los Angeles	a	2,3			9048
+NPSL	1967	New York		18	Oakland	a	0,1			2552
+NPSL	1967	New York		22	Chicago	h	2,1			7766
+NPSL	1967	New York		30	Philadelphia	a	0,2			5105
+NPSL	1967	New York		10	Los Angeles	h	0,2			4830
+NPSL	1967	New York		13	Atlanta	a	0,2		wrong	5704
+NPSL	1967	New York		18	Pittsburgh	a	3,5			1162
+NPSL	1967	New York		21	Atlanta	h	2,2			3938
+NPSL	1967	New York		24	Baltimore	h	0,0			2351
+NPSL	1967	New York		27	Oakland	h	3,0			3027
+NPSL	1967	New York		30	Chicago	a	0,0			3741
+NPSL	1967	New York		2	Toronto	a	1,2			1861
+NPSL	1967	New York		14	St. Louis	h	1,2			3809
+NPSL	1967	New York		17	Toronto	h	5,3			2047
+NPSL	1967	New York		28	Philadelphia	a	4,1			3456
+NPSL	1967	New York		1	Philadelphia	h	1,1			4324
+NPSL	1967	New York		4	Los Angeles	h	2,1			3492
+NPSL	1967	New York		9	Chicago	h	2,3			2932
+NPSL	1967	New York		12	Pittsburgh	a	4,1			3191
+NPSL	1967	New York		16	Baltimore	a	2,1			6422
+NPSL	1967	New York		19	Pittsburgh	h	2,1			5611
+NPSL	1967	New York		22	Atlanta	h	2,2			3334
+NPSL	1967	New York		28	St. Louis	a	2,3			4521
+NPSL	1967	New York		30	Baltimore	a	3,3			5925
+NPSL	1967	New York		2	Atlanta	a	1,1			5942
+NPSL	1967	New York		6	Pittsburgh	h	3,1			5008
+NPSL	1967	New York		9	Baltimore	h	0,1			5807
+NPSL	1967	New York		12	Oakland	h	1,0			6652
+NPSL	1967	New York		16	Los Angeles	a	6,4			2339
+NPSL	1967	New York		20	Oakland	a	2,4			5090
+NPSL	1967	New York		22	Chicago	a	3,3			2754
+NPSL	1967	New York		26	Philadelphia	h	1,2			2821
+NPSL	1967	Oakland	4	16	Pittsburgh	h	3,3			9771
+NPSL	1967	Oakland		18	New York	h	1,0			2552
+NPSL	1967	Oakland		23	St. Louis	a	1,2			20985
+NPSL	1967	Oakland		30	Toronto	h	2,1			7727
+NPSL	1967	Oakland		3	Atlanta	h	2,1			2503
+NPSL	1967	Oakland		13	Los Angeles	h	4,0			5511
+NPSL	1967	Oakland		21	Los Angeles	a	0,2			3555
+NPSL	1967	Oakland		24	Chicago	h	1,1			2538
+NPSL	1967	Oakland		27	New York	a	0,3			3027
+NPSL	1967	Oakland		31	Pittsburgh	a	3,2			1629
+NPSL	1967	Oakland		4	St. Louis	h	2,1			3753
+NPSL	1967	Oakland		7	Pittsburgh	h	3,1			2526
+NPSL	1967	Oakland		9	Chicago	a	2,1			1355
+NPSL	1967	Oakland		13	Toronto	a	3,0			4116
+NPSL	1967	Oakland		18	Baltimore	h	3,1			4480
+NPSL	1967	Oakland		25	Atlanta	h	2,0			3818
+NPSL	1967	Oakland		30	Chicago	a	1,1			1349
+NPSL	1967	Oakland		3	Baltimore	a	0,1			8792
+NPSL	1967	Oakland		6	Atlanta	a	3,0			5120
+NPSL	1967	Oakland		9	Los Angeles	h	2,0			5108
+NPSL	1967	Oakland		15	Los Angeles	a	0,0			11158
+NPSL	1967	Oakland		18	St. Louis	a	1,3			6107
+NPSL	1967	Oakland		21	Toronto	a	2,1			4982
+NPSL	1967	Oakland		26	St. Louis	h	9,0			4965
+NPSL	1967	Oakland		2	Philadelphia	h	2,2			3707
+NPSL	1967	Oakland		6	Toronto	h	2,0			9516
+NPSL	1967	Oakland		8	Pittsburgh	a	2,0			6273
+NPSL	1967	Oakland		12	New York	a	0,1			6652
+NPSL	1967	Oakland		16	Chicago	h	3,1			5715
+NPSL	1967	Oakland		20	New York	h	4,2			5090
+NPSL	1967	Oakland		23	Philadelphia	a	1,2			8009
+NPSL	1967	Oakland		26	Atlanta	a	0,1			5919
+NPSL Playoffs	1967	Oakland		3	Baltimore	a	0,1			16329
+NPSL Playoffs	1967	Oakland		9	Baltimore	h	4,1			9037
+NPSL	1967	Philadelphia	4	16	Toronto	h	2,0			14163
+NPSL	1967	Philadelphia		23	Baltimore	h	0,0			4815
+NPSL	1967	Philadelphia		30	New York	h	2,0			5105
+NPSL	1967	Philadelphia		2	Chicago	a	0,0			897
+NPSL	1967	Philadelphia		9	St. Louis	a	1,2			6491
+NPSL	1967	Philadelphia		19	Baltimore	a	2,3			3740
+NPSL	1967	Philadelphia		24	Los Angeles	h	1,0			4020
+NPSL	1967	Philadelphia		28	Toronto	a	7,2			2664
+NPSL	1967	Philadelphia		31	Atlanta	h	3,2			4414
+NPSL	1967	Philadelphia		4	Baltimore	h	0,0			5127
+NPSL	1967	Philadelphia		11	St. Louis	h	0,0			4837
+NPSL	1967	Philadelphia		14	Atlanta	a	0,3			11375
+NPSL	1967	Philadelphia		18	Chicago	a	1,3			2125
+NPSL	1967	Philadelphia		23	Pittsburgh	a	4,5			3151
+NPSL	1967	Philadelphia		25	Chicago	h	0,2			2986
+NPSL	1967	Philadelphia		28	New York	h	1,4			3456
+NPSL	1967	Philadelphia		1	New York	a	1,1			4324
+NPSL	1967	Philadelphia		5	St. Louis	h	3,2			3462
+NPSL	1967	Philadelphia		8	Pittsburgh	h	0,0			6032
+NPSL	1967	Philadelphia		12	Atlanta	a	0,2			5863
+NPSL	1967	Philadelphia		15	Toronto	h	0,0			4214
+NPSL	1967	Philadelphia		22	Pittsburgh	h	4,1			4476
+NPSL	1967	Philadelphia		24	Pittsburgh	a	4,1			1498
+NPSL	1967	Philadelphia		30	Atlanta	h	1,1			4236
+NPSL	1967	Philadelphia		2	Oakland	a	2,2			3707
+NPSL	1967	Philadelphia		4	Los Angeles	a	3,1			2197
+NPSL	1967	Philadelphia		9	Chicago	h	2,3			4825
+NPSL	1967	Philadelphia		11	Toronto	a	3,1			3104
+NPSL	1967	Philadelphia		16	Baltimore	a	1,0			11329
+NPSL	1967	Philadelphia		19	St. Louis	a	1,0			5839
+NPSL	1967	Philadelphia		23	Oakland	h	2,1			8009
+NPSL	1967	Philadelphia		26	New York	a	2,1			2821
+NPSL	1967	Pittsburgh	4	16	Oakland	a	3,3			9771
+NPSL	1967	Pittsburgh		19	Los Angeles	a	2,2			1610
+NPSL	1967	Pittsburgh		22	Toronto	h	4,3			6359
+NPSL	1967	Pittsburgh		28	St. Louis	h	1,4			5298
+NPSL	1967	Pittsburgh		3	Baltimore	a	5,3			5325
+NPSL	1967	Pittsburgh		14	Toronto	a	2,1			7460
+NPSL	1967	Pittsburgh		18	New York	h	5,3			1162
+NPSL	1967	Pittsburgh		20	Chicago	h	3,1			2603
+NPSL	1967	Pittsburgh		23	St. Louis	a	1,3			7091
+NPSL	1967	Pittsburgh		27	Atlanta	a	1,2			13132
+NPSL	1967	Pittsburgh		31	Oakland	h	2,3			1629
+NPSL	1967	Pittsburgh		3	Los Angeles	h	0,0			4115
+NPSL	1967	Pittsburgh		7	Oakland	a	1,3			2526
+NPSL	1967	Pittsburgh		11	Los Angeles	a	0,3			2719
+NPSL	1967	Pittsburgh		14	Baltimore	a	1,4			6643
+NPSL	1967	Pittsburgh		16	Atlanta	h	1,0			2488
+NPSL	1967	Pittsburgh		23	Philadelphia	h	5,4			3151
+NPSL	1967	Pittsburgh		27	Baltimore	h	2,2			3286
+NPSL	1967	Pittsburgh		30	St. Louis	a	3,3			5717
+NPSL	1967	Pittsburgh		3	Chicago	a	2,2			1615
+NPSL	1967	Pittsburgh		8	Philadelphia	a	0,0			6032
+NPSL	1967	Pittsburgh		12	New York	h	1,4			3191
+NPSL	1967	Pittsburgh		16	St. Louis	h	0,1			4943
+NPSL	1967	Pittsburgh		19	New York	a	1,2			5611
+NPSL	1967	Pittsburgh		22	Philadelphia	a	1,4			4476
+NPSL	1967	Pittsburgh		24	Philadelphia	h	1,4			1498
+NPSL	1967	Pittsburgh		2	Los Angeles	h	4,1			1610
+NPSL	1967	Pittsburgh		6	New York	a	1,3			5008
+NPSL	1967	Pittsburgh		8	Oakland	h	0,2			6273
+NPSL	1967	Pittsburgh		11	Atlanta	h	3,2			1461
+NPSL	1967	Pittsburgh		27	Baltimore	h	3,2			892
+NPSL	1967	St. Louis	4	16	Chicago	a	1,2			4720
+NPSL	1967	St. Louis		19	Baltimore	a	3,1			4409
+NPSL	1967	St. Louis		23	Oakland	h	2,1			20985
+NPSL	1967	St. Louis		26	Los Angeles	h	1,1			3007
+NPSL	1967	St. Louis		28	Pittsburgh	a	4,1			5298
+NPSL	1967	St. Louis		7	Chicago	h	2,1			11529
+NPSL	1967	St. Louis		9	Philadelphia	h	2,1			6491
+NPSL	1967	St. Louis		21	Toronto	h	0,0			7721
+NPSL	1967	St. Louis		23	Pittsburgh	h	3,1			7091
+NPSL	1967	St. Louis		28	Baltimore	h	0,2			5908
+NPSL	1967	St. Louis		31	Los Angeles	a	1,1			1629
+NPSL	1967	St. Louis		4	Oakland	a	1,2			3753
+NPSL	1967	St. Louis		11	Philadelphia	a	0,0			4837
+NPSL	1967	St. Louis		14	New York	a	2,1			3809
+NPSL	1967	St. Louis		18	Los Angeles	h	0,1			5604
+NPSL	1967	St. Louis		20	Atlanta	h	1,2			6435
+NPSL	1967	St. Louis		23	Toronto	a	1,3			5934
+NPSL	1967	St. Louis		30	Pittsburgh	h	3,3			5717
+NPSL	1967	St. Louis		5	Philadelphia	a	2,3			3462
+NPSL	1967	St. Louis		9	Baltimore	h	2,2			5135
+NPSL	1967	St. Louis		16	Pittsburgh	a	1,0			4943
+NPSL	1967	St. Louis		18	Oakland	h	3,1			6107
+NPSL	1967	St. Louis		22	Los Angeles	a	4,3			2652
+NPSL	1967	St. Louis		26	Oakland	a	0,9			4965
+NPSL	1967	St. Louis		28	New York	h	3,2			4521
+NPSL	1967	St. Louis		6	Chicago	a	1,2			3354
+NPSL	1967	St. Louis		9	Atlanta	a	3,2			5583
+NPSL	1967	St. Louis		13	Baltimore	a	1,3			5604
+NPSL	1967	St. Louis		15	Toronto	a	1,0			3273
+NPSL	1967	St. Louis		19	Philadelphia	h	0,1			5839
+NPSL	1967	St. Louis		22	Toronto	h	4,4			6188
+NPSL	1967	St. Louis		25	Chicago	h	2,1			13531
+NPSL	1967	Toronto	4	16	Philadelphia	a	0,2			14163
+NPSL	1967	Toronto		18	Chicago	a	0,1			811
+NPSL	1967	Toronto		22	Pittsburgh	a	3,4			6359
+NPSL	1967	Toronto		30	Oakland	a	1,2			7727
+NPSL	1967	Toronto		3	Los Angeles	a	3,1			2570
+NPSL	1967	Toronto		10	Atlanta	a	2,3			3560
+NPSL	1967	Toronto		14	Pittsburgh	h	1,2			7460
+NPSL	1967	Toronto		21	St. Louis	a	0,0			7721
+NPSL	1967	Toronto		23	Atlanta	h	1,4			2876
+NPSL	1967	Toronto		28	Philadelphia	h	2,7			2664
+NPSL	1967	Toronto		31	Baltimore	a	2,0			4204
+NPSL	1967	Toronto		2	New York	h	2,1			1861
+NPSL	1967	Toronto		6	Chicago	h	4,1			2264
+NPSL	1967	Toronto		10	Baltimore	a	2,3			4736
+NPSL	1967	Toronto		13	Oakland	h	0,3			4116
+NPSL	1967	Toronto		17	New York	a	3,5			2047
+NPSL	1967	Toronto		23	St. Louis	h	3,1			5934
+NPSL	1967	Toronto		30	Baltimore	h	2,1			3016
+NPSL	1967	Toronto		4	Atlanta	h	2,1			2723
+NPSL	1967	Toronto		11	Baltimore	h	2,4			4723
+NPSL	1967	Toronto		15	Philadelphia	a	0,0			4214
+NPSL	1967	Toronto		19	Atlanta	a	1,4			6965
+NPSL	1967	Toronto		21	Oakland	h	1,2			4982
+NPSL	1967	Toronto		28	Los Angeles	h	6,1			4271
+NPSL	1967	Toronto		1	Chicago	h	3,3			3982
+NPSL	1967	Toronto		6	Oakland	a	0,2			9516
+NPSL	1967	Toronto		9	Los Angeles	a	1,1			2700
+NPSL	1967	Toronto		11	Philadelphia	h	1,3			3104
+NPSL	1967	Toronto		15	St. Louis	h	0,1			3273
