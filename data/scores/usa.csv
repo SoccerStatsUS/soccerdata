@@ -1,0 +1,147 @@
+USA	1967	Boston	5	28	Detroit	h	1,1		Leech	7343
+USA	1967	Boston		31	New York	h	0,0			3850
+USA	1967	Boston		4	Cleveland	h	0,1			5250
+USA	1967	Boston		7	Detroit	a	0,1			648
+USA	1967	Boston		11	Vancouver	a	0,1			7616
+USA	1967	Boston		14	Chicago	a	0,5			3016
+USA	1967	Boston		18	San Francisco	h	3,4		O'Neill 2, Tuohy	853
+USA	1967	Boston		21	Dallas	h	1,4		Tuohy	1929
+USA	1967	Boston		25	Los Angeles	a	1,1		Mulligan	6936
+USA	1967	Boston		2	Houston	h	3,1		Gilbert, Dixon, Tuohy	5800
+USA	1967	Boston		5	Toronto	a	1,6		Leech	3152
+USA	1967	Boston		8	Washington	a	2,1		Dixon, O'Neil	9760
+USA	1967	Chicago	5	28	Dallas	h	0,1			9872
+USA	1967	Chicago		31	Cleveland	a	1,1			9793
+USA	1967	Chicago		4	Washington	a	1,1			6125
+USA	1967	Chicago		11	New York	h	3,2			3214
+USA	1967	Chicago		14	Boston	h	5,0			3016
+USA	1967	Chicago		16	New York	a	0,0			10089
+USA	1967	Chicago		18	Toronto	a	1,2			15178
+USA	1967	Chicago		25	Houston	h	4,2			3522
+USA	1967	Chicago		28	Detroit	h	1,1			2013
+USA	1967	Chicago		1	Vancouver	h	2,2			3602
+USA	1967	Chicago		5	Los Angeles	a	2,2			10456
+USA	1967	Chicago		9	San Francisco	a	0,0			3992
+USA	1967	Cleveland	5	26	Washington	a	2,1			9403
+USA	1967	Cleveland		31	Chicago	h	1,1			9793
+USA	1967	Cleveland		4	Boston	a	1,0			5250
+USA	1967	Cleveland		7	Los Angeles	h	0,0			4649
+USA	1967	Cleveland		11	San Francisco	h	4,1			4516
+USA	1967	Cleveland		14	Washington	h	2,2			6162
+USA	1967	Cleveland		17	Dallas	a	4,1			10132
+USA	1967	Cleveland		25	New York	h	1,2			5765
+USA	1967	Cleveland		27	Houston	a	1,2			18937
+USA	1967	Cleveland		1	Toronto	h	2,0			8514
+USA	1967	Cleveland		5	Detroit	a	0,0			4729
+USA	1967	Cleveland		8	Vancouver	a	1,3			6012
+USA	1967	Dallas	5	28	Chicago	a	1,0			9872
+USA	1967	Dallas		3	Houston	h	0,0			16431
+USA	1967	Dallas		7	Vancouver	a	1,4			10053
+USA	1967	Dallas		10	Houston	a	0,2			20375
+USA	1967	Dallas		14	Toronto	h	2,2			9096
+USA	1967	Dallas		17	Cleveland	h	1,4			10132
+USA	1967	Dallas		21	Boston	a	4,1			1929
+USA	1967	Dallas		25	Detroit	a	0,1			4911
+USA	1967	Dallas		27	New York	a	1,4			4213
+USA	1967	Dallas		1	Washington	h	0,2			6839
+USA	1967	Dallas		5	San Francisco	h	2,1			4916
+USA	1967	Dallas		8	Los Angeles	h	2,2			7946
+USA	1967	Detroit	5	28	Boston	a	1,1			7343
+USA	1967	Detroit		4	Vancouver	h	1,1			11629
+USA	1967	Detroit		7	Boston	h	1,0			648
+USA	1967	Detroit		11	Washington	h	2,2			5134
+USA	1967	Detroit		14	Houston	h	0,2			7196
+USA	1967	Detroit		18	Los Angeles	a	1,4			5381
+USA	1967	Detroit		21	San Francisco	a	1,6			4729
+USA	1967	Detroit		25	Dallas	h	1,0			4911
+USA	1967	Detroit		28	Chicago	a	1,1			2013
+USA	1967	Detroit		2	New York	a	1,0			3517
+USA	1967	Detroit		5	Cleveland	h	0,0			4729
+USA	1967	Detroit		9	Toronto	a	1,1			3160
+USA	1967	Houston	5	27	Los Angeles	h	1,1			34965
+USA	1967	Houston		3	Dallas	a	0,0			16431
+USA	1967	Houston		7	San Francisco		2,4			16765
+USA	1967	Houston		10	Dallas	h	2,0			20375
+USA	1967	Houston		14	Detroit	a	2,0			7196
+USA	1967	Houston		18	Vancouver	a	4,1			6785
+USA	1967	Houston		25	Chicago	a	2,4			3522
+USA	1967	Houston		27	Cleveland	h	2,1			18937
+USA	1967	Houston		29	Toronto	h	1,1			15371
+USA	1967	Houston		2	Boston	a	1,3			5800
+USA	1967	Houston		4	Washington	h	0,1			12380
+USA	1967	Houston		8	New York	a	2,2			7102
+USA	1967	Los Angeles	5	27	Houston	a	1,1			34965
+USA	1967	Los Angeles		4	New York	h	2,1			7064
+USA	1967	Los Angeles		7	Cleveland	a	0,0			4649
+USA	1967	Los Angeles		11	Toronto	a	2,1			3663
+USA	1967	Los Angeles		14	Vancouver	h	5,1			5231
+USA	1967	Los Angeles		18	Detroit	h	4,1			5381
+USA	1967	Los Angeles		20	Washington	a	1,1			7847
+USA	1967	Los Angeles		25	Boston	h	1,1			6936
+USA	1967	Los Angeles		28	San Francisco	a	0,1			7123
+USA	1967	Los Angeles		30	San Francisco	h	2,0			11572
+USA	1967	Los Angeles		5	Chicago	h	2,2			10456
+USA	1967	Los Angeles		8	Dallas	a	2,2			7946
+USA	1967	Los Angeles		10	Washington	a	0,3			7641
+USA	1967	New York	5	28	Toronto	h	1,1			21871
+USA	1967	New York		31	Boston	a	0,0			3850
+USA	1967	New York		4	Los Angeles	a	1,2			7064
+USA	1967	New York		7	Washington	a	0,2			5112
+USA	1967	New York		11	Chicago	a	2,3			3214
+USA	1967	New York		13	San Francisco	h	2,2			5804
+USA	1967	New York		16	Chicago	h	0,0			10089
+USA	1967	New York		25	Cleveland	a	2,1			5765
+USA	1967	New York		27	Dallas	h	4,1			4213
+USA	1967	New York		2	Detroit	h	0,1			3517
+USA	1967	New York		5	Vancouver	a	1,1			6533
+USA	1967	New York		8	Houston	h	2,2			7102
+USA	1967	San Francisco	5	28	Vancouver	h	6,1			8177
+USA	1967	San Francisco		4	Toronto	h	0,2			3853
+USA	1967	San Francisco		7	Houston	a	4,2			16785
+USA	1967	San Francisco		11	Cleveland	a	1,4			4516
+USA	1967	San Francisco		13	New York	a	2,2			5804
+USA	1967	San Francisco		18	Boston	a	4,3			853
+USA	1967	San Francisco		21	Detroit	h	6,1			4729
+USA	1967	San Francisco		25	Washington	h	0,0			4657
+USA	1967	San Francisco		28	Los Angeles	h	1,0			7123
+USA	1967	San Francisco		30	Los Angeles	a	0,2			11572
+USA	1967	San Francisco		5	Dallas	a	1,2			4916
+USA	1967	San Francisco		9	Chicago	h	0,0			3992
+USA	1967	Toronto	5	28	New York	a	1,1			21871
+USA	1967	Toronto		31	Washington	h	1,2			12000
+USA	1967	Toronto		4	San Francisco	a	2,0			3853
+USA	1967	Toronto		11	Los Angeles	h	1,2			3663
+USA	1967	Toronto		14	Dallas	a	2,2			9096
+USA	1967	Toronto		18	Chicago	h	2,1			15178
+USA	1967	Toronto		21	Vancouver	a	4,2			5114
+USA	1967	Toronto		25	Vancouver	h	2,2			4385
+USA	1967	Toronto		29	Houston	a	1,1			15371
+USA	1967	Toronto		1	Cleveland	a	0,2			8514
+USA	1967	Toronto		5	Boston	h	6,1			3152
+USA	1967	Toronto		9	Detroit	h	1,1			3160
+USA	1967	Vancouver	5	28	San Francisco	a	1,6			8177
+USA	1967	Vancouver		4	Detroit	a	1,1			11629
+USA	1967	Vancouver		7	Dallas	h	4,1			10053
+USA	1967	Vancouver		11	Boston	h	1,0			7616
+USA	1967	Vancouver		14	Los Angeles	a	1,5			5251
+USA	1967	Vancouver		18	Houston	h	1,4			6785
+USA	1967	Vancouver		21	Toronto	h	2,4			5114
+USA	1967	Vancouver		25	Toronto	a	2,2			4385
+USA	1967	Vancouver		28	Washington	a	1,1			8709
+USA	1967	Vancouver		1	Chicago	a	2,2			3602
+USA	1967	Vancouver		5	New York	h	1,1			6533
+USA	1967	Vancouver		8	Cleveland	h	3,1			6012
+USA	1967	Washington	5	26	Cleveland	h	1,2			9403
+USA	1967	Washington		31	Toronto	a	2,1			12000
+USA	1967	Washington		4	Chicago	h	1,1			6125
+USA	1967	Washington		7	New York	h	3,0			51112
+USA	1967	Washington		11	Detroit	a	2,2			5134
+USA	1967	Washington		14	Cleveland	a	2,2			6162
+USA	1967	Washington		20	Los Angeles	h	1,1			7847
+USA	1967	Washington		25	San Francisco	a	0,0			4657
+USA	1967	Washington		28	Vancouver	h	1,1			8709
+USA	1967	Washington		1	Dallas	a	2,0			6839
+USA	1967	Washington		4	Houston	a	1,0			12380
+USA	1967	Washington		8	Boston	h	1,2			9760
+USA	1967	Washington		10	Los Angeles	h	3,0			7641
+USA	1967	Washington		14	Los Angeles	a	5,6			17824

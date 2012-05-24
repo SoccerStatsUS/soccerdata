@@ -7,7 +7,7 @@ teams = {}
 alternate_names = {
     'Toronto Ulster United': 'Toronto Ulster',
     'Toronto Supra Portuguese': 'Toronto Supra',
-    "Vancouver 86ers": "Vancouver Whitecaps FC",
+    "Vancouver 86ers": "Vancouver Whitecaps",
     "Golden Bay Earthquakes": "San Jose Earthquakes",
     'NY Pancyprian-Freedoms': 'New York Pancyprian-Freedoms',
     'NY Pancyprian Freedoms': 'New York Pancyprian-Freedoms',
@@ -925,7 +925,7 @@ mls_teams = {
     'Sounders FC': 'Seattle Sounders',
     'Sporting KC': 'Sporting Kansas City',
     'Toronto F.C.': 'Toronto FC',
-    'Vancouver Whitecaps': 'Vancouver Whitecaps FC',
+    'Vancouver Whitecaps FC': 'Vancouver Whitecaps',
 
     'Red Bull New York': 'New York Red Bulls',
     'F.C. Dallas': 'FC Dallas',
@@ -976,7 +976,7 @@ usl_teams = {
     'ROCH': 'Rochester Rhinos',
     'SEAS': 'Seattle Sounders',
     'TORL': 'Toronto Lynx',
-    'VANW': 'Vancouver Whitecaps FC',
+    'VANW': 'Vancouver Whitecaps',
     'WORW': 'Worcester Wildfire',
     'AQGK': 'Albuquerque Geckos',
     'ATLS': 'Atlanta Silverbacks',

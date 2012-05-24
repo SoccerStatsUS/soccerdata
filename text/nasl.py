@@ -1,3 +1,6 @@
+# Process game data for the original NASL.
+# Need to simplify, export, and remove this.
+
 
 import datetime
 import os
@@ -10,7 +13,7 @@ stats_filename = os.path.join(DIR, 'nasl.txt')
 games_filename = '/home/chris/www/soccerdata/data/scores/nasl.csv'
 
 
-final_map = {
+foreign_map = {
     'Varzim': 'Varzim S.C.',
     'varzim': 'Varzim S.C.',
     'Hertha': 'Hertha BSC',
@@ -27,12 +30,14 @@ final_map = {
     'hapoel': 'Hapoel Tel Aviv F.C.',
     'Hapoel': 'Hapoel Tel Aviv F.C.',
     'Hearts': 'Heart of Midlothian F.C.',
+
 }
 
-team_map = {
-    'Golden Bay': 'San Jose',
-    'Hartford': 'Connecticut',
 
+# Just fill this out by referencing Wikipedia.
+team_map = {
+    'Golden Bay': 'Golden Bay Earthquakes',
+    'Hartford': 'Hartford Bicentennials',
 }
 
 competition_map = {
@@ -45,50 +50,29 @@ competition_map = {
 
 
 
-def get_standings_dict():
-    # Oh shit relying on standings when it shouldn't...
-    # We've got a weird kind of reference here.
 
 
-    d = {}
-    for e in soccer_db.chris_standings.find():
-        key = (e['competition'], e['season'])
-        if key not in d:
-            d[key] = [e['team']]
-        else:
-            d[key].append(e['team'])
-    return d
-
-sd = get_standings_dict()
-
-
-
-def get_full_name(name, competition, season):
+def get_full_name(name, season):
     """
-    Figure out the full team name based on the season and competition.
+    Figure out the full team name based on the season.
     """
-    if name in final_map:
-        return final_map[name]
+    if name in foreign_map:
+        return foreign_map[name]
 
-    name = team_map.get(name, name)
+    # For teams with unambiguous names (e.g. Dallas, San Jose, Golden Bay.
+    if name in simple_map:
+        return simple_map[name]
 
-    competition = competition.replace("Playoffs", '').strip()
-
-    key = (competition, season)
-    names = sd.get(key, [])
-
-    for e in names:
-        if e.startswith(name):
-            return e
+    key = (season, map)
+    if key in season_map:
+        return season_map[key]
         
     print "(NASL) failed to get name for %s" % name
     return name
     
 
-    
-
-
-
+# This is for the New NASL!!!
+# This should be split off into a separate file!!!
 def process_stats():
     """
     Process stats for the new NASL.
@@ -169,18 +153,14 @@ class GameProcessor(object):
             self.month = int(month)
 
         self.year = int(season)
-
-        try:
-            d = datetime.datetime(self.year, self.month, self.day)
-        except:
-            import pdb; pdb.set_trace()
+        d = datetime.datetime(self.year, self.month, self.day)
 
         team_score,  opponent_score = [int(e) for e in score.split(',')]
 
         competition = competition_map[competition]
 
-        team = get_full_name(team, competition, season)
-        opponent = get_full_name(opponent, competition, season)
+        team = get_full_name(team, season)
+        opponent = get_full_name(opponent, season)
             
         if location == 'h':
             home_team = team
@@ -209,8 +189,6 @@ class GameProcessor(object):
             'home_team': home_team,
             'attendance': attendance,
             }
-            
-            
 
 
 
