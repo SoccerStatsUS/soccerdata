@@ -33,11 +33,102 @@ foreign_map = {
 
 }
 
+simple_map = {
+    'Baltimore': 'Baltimore Bays',
+    'Calgary': 'Calgary Boomers',
+    #'Chicago': 'Chicago Mustangs',
+    'California': 'California Surf',
+    'Cleveland': 'Cleveland Stokers',
+    'Dallas': 'Dallas Tornado',
+    #'Detroit': 'Detroit Cougars',
+    #'Detroit': 'Detroit Express',
+    'Edmonton': 'Edmonton Drillers',
+    'Golden Bay': 'Golden Bay Earthquakes',
+    'Kansas City': 'Kansas City Spurs',
+    'Tampa Bay': 'Tampa Bay Rowdies',
+    'Seattle': 'Seattle Sounders',
+    'Portland': 'Portland Timbers',
+    'Rochester': 'Rochester Lancers',
+    'Jacksonville': 'Jacksonville Tea Men',
+    'Tulsa': 'Tulsa Roughnecks',
+    'Fort Lauderdale': 'Fort Laudeerdale Strikers',
+
+    'Hartford': 'Hartford Bicentennials',
+    'Connecticut': 'Connecticut Bicentennials',
+    'Colorado': 'Colorado Caribous',
+    'San Jose': 'San Jose Earthquakes',
+    'Team America': 'Team America',
+    'St. Louis': 'St. Louis Stars',
+    'Las Vegas': 'Las Vegas Quicksilver',
+    'New England': 'New England Tea Men',
+    'San Antonio': 'San Antonio Thunder',
+    'Denver': 'Denver Dynamos',
+    'Team Hawaii': 'Team Hawaii',
+    
+    
+}
+
+
+# Map of ambiguous names, these apply to multiple teams, but
+# should be preempted by the season_map.
+ambig_map = {
+
+    'Boston': 'Boston Minutemen',
+    'Detroit': 'Detroit Express',
+    'Houston': 'Houston Hurricane',
+    'Los Angeles': 'Los Angeles Aztecs',
+    'New York': 'New York Cosmos',
+    'Toronto': 'Toronto Blizzard',
+    'Vancouver': 'Vancouver Whitecaps',
+    'Washington': 'Washington Diplomats',
+    'San Diego': 'San Diego Sockers',
+    'Chicago': 'Chicago Sting',
+    'Montreal': 'Montreal Manic',
+    'Memphis': 'Memphis Rogues',
+    'Minnesota': 'Minnesota Kicks',
+    'Miami': 'Miami Toros',
+    'Philadelphia': 'Philadelphia Atoms',
+    'Atlanta': 'Atlanta Chiefs',
+    }
+
+
+simple_map.update(ambig_map)
+
+
+
+season_map = {
+    (1968, 'Boston'): 'Boston Beacons',
+    (1968, 'Detroit'): 'Detroit Cougars',
+    (1968, 'Houston'): 'Houston Stars',
+    (1968, 'Los Angeles'): 'Los Angeles Wolves',
+    (1968, 'New York'): 'New York Generals',
+    (1968, 'Oakland'): 'Oakland Clippers',
+    (1968, 'San Diego'): 'San Diego Toros',
+    (1976, 'San Diego'): 'San Diego Jaws',
+    (1968, 'Toronto'): 'Toronto Falcons',
+    (1968, 'Vancouver'): 'Vancouver Royals',
+    (1968, 'Washington'): 'Washington Whips',
+    (1978, 'Oakland'): 'Oakland Stompers',
+    (1981, 'Washington'): 'Washington Diplomats',
+    (1971, 'Montreal'): 'Montreal Olympique',
+    (1972, 'Montreal'): 'Montreal Olympique',
+    (1973, 'Montreal'): 'Montreal Olympique',
+    (1978, 'Philadelphia'): 'Philadelphia Fury',
+    (1979, 'Philadelphia'): 'Philadelphia Fury',
+    (1980, 'Philadelphia'): 'Philadelphia Fury',
+    (1984, 'Minnesota'): 'Minnesota Strikers',
+    (1972, 'Miami'): 'Miami Gatos',
+    (1968, 'Atlanta'): 'Atlanta Chiefs',
+    (1969, 'Atlanta'): 'Atlanta Chiefs',
+    (1970, 'Atlanta'): 'Atlanta Chiefs',
+    (1971, 'Atlanta'): 'Atlanta Chiefs',
+    (1972, 'Atlanta'): 'Atlanta Chiefs',
+     
+    }
+
 
 # Just fill this out by referencing Wikipedia.
 team_map = {
-    'Golden Bay': 'Golden Bay Earthquakes',
-    'Hartford': 'Hartford Bicentennials',
 }
 
 competition_map = {
@@ -60,12 +151,13 @@ def get_full_name(name, season):
         return foreign_map[name]
 
     # For teams with unambiguous names (e.g. Dallas, San Jose, Golden Bay.
+    key = (int(season), name)
+    if key in season_map:
+        return season_map[key]
+
     if name in simple_map:
         return simple_map[name]
 
-    key = (season, map)
-    if key in season_map:
-        return season_map[key]
         
     print "(NASL) failed to get name for %s" % name
     return name
@@ -153,7 +245,11 @@ class GameProcessor(object):
             self.month = int(month)
 
         self.year = int(season)
-        d = datetime.datetime(self.year, self.month, self.day)
+
+        try:
+            d = datetime.datetime(self.year, self.month, self.day)
+        except:
+            import pdb; pdb.set_trace()
 
         team_score,  opponent_score = [int(e) for e in score.split(',')]
 
