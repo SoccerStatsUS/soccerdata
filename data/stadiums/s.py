@@ -1258,7 +1258,7 @@ stadiums = [
             'cost': 5100000,
             },
 
-                {
+        {
             'name': 'Kezar Stadium',
             'address': '755 Stanyan Street',
             'location': 'San Francisco, CA',
@@ -1267,6 +1267,13 @@ stadiums = [
             'cost': 300000,
             'architect': 'Willis Polk',
             },
+
+
+        {
+            'name': 'Roosevelt Stadium',
+            'location': 'Jersey City, NJ',
+            },
+
 
 
 ]
