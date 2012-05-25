@@ -20,6 +20,7 @@ SOURCES = [
     'world_cup',
     'usa',
     'concacaf',
+    'isl',
         ]
 
 
