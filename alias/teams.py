@@ -24,6 +24,22 @@ alternate_names = {
 teams.update(alternate_names)
 
 world = {
+
+    'Norrkoeping': 'IFK Norrköping',
+    'Glenavon': 'Glenavon F.C.',
+    'Nice': 'OGC Nice',
+    'Kilmarnock': 'Kilmarnock F.C.',
+    'Karlsruhe': 'Karlsruher SC',
+    'Monaco': 'AS Monaco FC',
+    'Espanyol': 'RCD Espanyol',
+    'Mantova': 'Mantova F.C.',
+    'Reutlingen': 'SSV Reutlingen 05',
+    
+    
+
+    'Burnley': 'Burnley F.C.',
+    'Burnley FC': 'Burnley F.C.',
+
     
     'Atlante FC': 'Atlante F.C.',
     'Atlante': 'Atlante F.C.',
@@ -1009,11 +1025,7 @@ usl_teams = {
 teams.update(usl_teams)
 
 
-# Need to watch out for duplicates names here.
-# Need to scrape standings and use that first.
-# Dummy.
-
-
+# Need to pull this out of here and put it into pdl stat processing.
 pdl_teams = {
     'Cape Cod': 'Cape Cod Crusaders',
     'Cocoa': 'Cocoa Expos',
@@ -1069,9 +1081,8 @@ pdl_teams = {
     'Des Moines': 'Des Moines Menace',
     'Toledo': 'Toledo Slayers',
     'Fort Wayne': 'Fort Wayne Fever',
-    
     }
-teams.update(pdl_teams)
+
 
 
 # Should remove these.
