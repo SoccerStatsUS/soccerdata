@@ -557,8 +557,6 @@ misc = {
     'Newark SC': 'Newark S.C.',
     'New York Hungaria': 'NY Hungaria',
     'New York National Giants': 'New York Giants',
-    'New York Nationals': 'New York Giants',
-
 
     'Gjoa SC': 'SC Gjoa',
     'Gjoa FC': 'SC Gjoa',

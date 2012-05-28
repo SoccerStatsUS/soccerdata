@@ -430,9 +430,6 @@ def get_scores(fn):
         # Only use scaryice MLS regular season scores.
         # Everything else is too complicated / not good enough.
 
-        print competition
-
-
         if competition == 'Major League Soccer':
             return {
                 'competition': competition,

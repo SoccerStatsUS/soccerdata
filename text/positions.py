@@ -36,7 +36,7 @@ class PositionParser(object):
                 month, day, year = 1, 1, int(s) 
 
             else:
-                month, day, year = 12, 31, int(s) - 1
+                month, day, year = 12, 31, int(s)
 
         d = datetime.datetime(year, month, day)
 
