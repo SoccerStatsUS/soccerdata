@@ -43,6 +43,8 @@ def generate_all_stats():
     standard_generate('concacaf')
     standard_generate('apsl_professional_cup')
 
+    standard_generate('isl')
+
     standard_generate('tours')
 
     x = generate_stats(soccer_db['mls_soccernet_goals'].find({'season': '2012'}), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
