@@ -38,6 +38,10 @@ def first_load():
 
 
 
+    load_places()
+
+    return
+
     #load_news()
 
 
@@ -151,6 +155,13 @@ def standard_load():
     load_drafts()
 
 
+
+
+def load_places():
+    from text import places
+    generic_load(soccer_db.countries, places.load_countries)
+    generic_load(soccer_db.states, places.load_states)
+    generic_load(soccer_db.state_populations, places.load_state_populations)
 
 
 
