@@ -4,7 +4,7 @@
 
 import datetime
 
-stadiums = [
+l = [
     {
         'name': 'Stadio Luigi Ferraris',
         'location': 'Genoa, Italy',
@@ -13,4 +13,5 @@ stadiums = [
         'cost': 26000000,
         'architect': 'HOK Sport',
         },
-    {
+
+]

@@ -1,7 +1,7 @@
 import datetime
 import os
 
-p = '/home/chris/www/soccerdata/data/stadiums/team_mapping'
+p = '/home/chris/www/soccerdata/data/mappings/team_stadium'
 
 
 # Eliminate this duplicate? Move to utils?

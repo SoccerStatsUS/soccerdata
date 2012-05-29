@@ -7,6 +7,16 @@ import datetime
 l = [
 
 
+  {
+        'name': 'Percival Molson Memorial Stadium',
+        'location': 'Montreal, Quebec',
+        'opened': datetime.datetime(1919, 10, 25),
+        'cost': 31700000,
+        'denomination': 'Canadian dollars',
+        'capacity': 25012,
+        'architect': 'Percy Erskine Nobbs',
+        },  
+
 
 
   {

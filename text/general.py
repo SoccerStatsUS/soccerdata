@@ -435,8 +435,8 @@ def process_file(p):
     return (gp.games, gp.goals, gp.misconduct, gp.appearances)
         
 
-def process_general_file(fn):
-    p = os.path.join("/home/chris/www/soccerdata/data/general", fn)
+def process_games_file(fn):
+    p = os.path.join("/home/chris/www/soccerdata/data/games", fn)
     return process_file(p)
 
 

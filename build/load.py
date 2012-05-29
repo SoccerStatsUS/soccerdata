@@ -1,20 +1,25 @@
 from soccerdata.mongo import generic_load, soccer_db
 
 from soccerdata.scrapers import fbleague, rsssf, mls
+from soccerdata.text import asl
 from soccerdata.text import lineups
+from soccerdata.text import standings
 
 from soccerdata import scrapers
 from soccerdata import text
 
 
 def clear_all():
-    from soccerdata.settings import STAT_TABLES, SOURCES
+    from soccerdata.settings import STAT_TABLES, SOURCES, SINGLE_SOURCES
     for e in STAT_TABLES:
         soccer_db['%s' % e].drop()
 
     for s in SOURCES:
         for e in STAT_TABLES: 
             soccer_db['%s_%s' % (s, e)].drop()
+
+    for e in SINGLE_SOURCES:
+        soccer_db[e].drop()
 
             
 def load_name_maps():
@@ -35,24 +40,31 @@ def first_load():
     """
     Load all data.
     """
+    clear_all()
 
-
-
+    load_bios()
     load_places()
+    load_competitions()
+    load_teams()
 
-    return
-
+    #load_positions()
+    #load_drafts()
     #load_news()
 
 
     load_name_maps()
-    #load_stadium_maps()
+    load_stadium_maps()
 
-    standard_load()
 
-    load_hall_of_fame()
 
     load_isl()
+
+    load_hall_of_fame()
+    return
+
+
+
+
 
     return
 
@@ -114,8 +126,6 @@ def first_load():
     # Fix this first.
 
 
-    # reconsider this. Or at least clean up.
-    load_teams()
 
     # soccernet / recent stats.
 
@@ -133,6 +143,18 @@ def first_load():
 
     load_analysis()
 
+
+def load_bios():
+    print "Loading ASL Bios"
+    print soccer_db.bios.count()
+    generic_load(soccer_db.bios, asl.process_bios)
+
+    print "Loading MLSsoccer.com player bios.\n"
+    generic_load(soccer_db.bios, mls.scrape_all_bios_mlssoccer)
+    print soccer_db.bios.count()
+
+
+
 def second_load():
     # This is for data that should not be loaded
     # until after we have merged all data.
@@ -145,15 +167,15 @@ def second_load():
     pass
 
 
-def standard_load():
 
-    clear_all()
-    
-    load_stadiums()
-    load_standings()
-    load_positions()
-    load_drafts()
 
+def load_games_standard(coll, fn):
+    from soccerdata.text import general
+    games, goals, fouls, lineups = general.process_games_file(fn)
+    generic_load(soccer_db['%s_games' % coll], lambda: games, delete=False)
+    generic_load(soccer_db['%s_lineups' % coll], lambda: lineups, delete=False)
+    generic_load(soccer_db['%s_fouls' % coll], lambda: fouls, delete=False)
+    generic_load(soccer_db['%s_goals' % coll], lambda: goals, delete=False)
 
 
 
@@ -162,15 +184,18 @@ def load_places():
     generic_load(soccer_db.countries, places.load_countries)
     generic_load(soccer_db.states, places.load_states)
     generic_load(soccer_db.state_populations, places.load_state_populations)
+    generic_load(soccer_db.stadiums, places.load_stadiums)
 
 
 
-def load_stadiums():
-    from data.stadiums import s
-    generic_load(soccer_db.stadiums, s.load_stadiums)
+
 
 def load_isl():
-    load_general('isl', 'leagues/isl2')
+    # Load both isl leagues - 1926 and 1960-1965
+    load_games_standard('isl', 'domestic/country/usa/leagues/isl')
+    load_games_standard('isl', 'domestic/country/usa/leagues/isl2')
+    generic_load(soccer_db.isl_standings, lambda: standings.process_standings('domestic/country/usa/isl'))
+
 
 def load_usa():
     load_general('usa', 'international/usmnt/usa_early')
@@ -253,12 +278,15 @@ def load_friendlies():
 
 
 
-def load_standings():
-    from soccerdata.text import standings
+
+
+def load_standings_file(coll, fn):
+
     print "Loading chris standings.\n"
 
-    soccer_db.standings.drop()
+    return
     f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
+
 
     for e in [
         'early',
@@ -307,20 +335,19 @@ def load_hall_of_fame():
 
 
 
-def load_general(coll, fn):
-    from soccerdata.text import general
-    games, goals, misconduct, lineups = general.process_general_file(fn)
-    generic_load(soccer_db['%s_games' % coll], lambda: games, delete=False)
-    generic_load(soccer_db['%s_lineups' % coll], lambda: lineups, delete=False)
-    generic_load(soccer_db['%s_goals' % coll], lambda: goals, delete=False)
 
     
 
+def load_competitions():
+    from soccerdata.text import competitions
+    print "Loading competitions.\n"
+    generic_load(soccer_db.competitions, competitions.load)
+
 
 def load_teams():
-    from soccerdata.text import syaml
+    from soccerdata.text import teams
     print "Loading teams.\n"
-    generic_load(soccer_db.chris_teams, syaml.load_teams)
+    generic_load(soccer_db.teams, teams.load)
 
 
 def load_drafts():
@@ -351,7 +378,7 @@ def load_analysis():
     
 def load_asl():
     from soccerdata.text import awards
-    from soccerdata.text import asl
+
 
     print "Loading ASL awards.\n"
     generic_load(soccer_db.asl_awards, awards.process_american_cup_awards)
@@ -365,8 +392,6 @@ def load_asl():
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
 
-    print "Loading ASL player bios.\n"
-    generic_load(soccer_db.asl_bios, asl.process_bios)
     
 
 
@@ -443,8 +468,6 @@ def load_mls_data():
     # Load coach stats that are missing from mlossoccer.com
     generic_load(soccer_db.mls_stats, stats.process_mls_coach_stats, delete=False)
 
-    print "Loading MLSsoccer.com player bios.\n"
-    generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
 
 
 

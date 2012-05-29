@@ -38,13 +38,15 @@ l =    [
         ]
 
 # What items are shown on the dashboard?
-STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'awards', 'bios'
+STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'awards'
 
 SINGLE_SOURCES = [
     'countries',
     'states',
     'state_populations',
     'stadiums', 
+
+    'competitions',
     'teams', 
     'bios', 
     'awards', 
