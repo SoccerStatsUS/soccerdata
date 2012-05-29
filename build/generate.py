@@ -16,8 +16,38 @@ def generate():
     # Generate standings
     #generate_standings(soccer_db.games, soccer_db.standings)
     #generate_lineup_stats(soccer_db.mls_reserve_lineups.find())
+
+    generate_cities()
     generate_all_stats()
     generate_all_standings()
+    
+
+def make_state_code_dict():
+
+    d = {}
+    for e in soccer_db.states.find():
+        if e['abbreviation']:
+            d[e['abbreviation']] = e['name']
+
+    return d
+
+
+def generate_cities():
+
+    cities = set()
+
+    for e in soccer_db.bios.find():
+        cities.add(e.get('birthplace'))
+        cities.add(e.get('deathplace'))
+
+
+    for e in soccer_db.games.find():
+        cities.add(e['location'])
+
+    cities.remove(None)
+    city_dicts = [{'name': city} for city in sorted(cities)]
+
+    generic_load(soccer_db.cities, lambda: city_dicts)
 
 
 

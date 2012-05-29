@@ -54,6 +54,9 @@ def first_load():
 
 
     load_isl()
+
+    return
+
     #load_concacaf()
     load_friendlies()
     load_asl()
@@ -117,6 +120,61 @@ def first_load():
 
 
     load_analysis()
+
+
+def generate_cities():
+    print "Generating cities."
+
+    state_code_dict = make_state_code_dict()
+
+    state_name_set = set([e['name'] for e in soccer_db.states.find()])
+    country_name_set = set([e['name'] for e in soccer_db.countries.find()])
+
+    def make_city(s):
+
+        country = state = None
+
+        if ',' in s:
+            pieces = s.split(',')
+            end = pieces[-1].strip()
+            
+
+            if end in state_code_dict:
+                state = state_code_dict[end]
+
+            elif end in state_name_set:
+                state = end
+
+            elif end in country_name_set:
+                country = end
+
+        if country or state:
+            name = ','.join(pieces[:-1])
+        else:
+            name = s
+
+        return {
+            'name': name,
+            'country': country,
+            'state': state,
+            }
+            
+
+    
+    cities = set()
+
+    for e in soccer_db.bios.find():
+        cities.add(e.get('birthplace'))
+        cities.add(e.get('deathplace'))
+
+
+    for e in soccer_db.games.find():
+        cities.add(e['location'])
+
+    cities.remove(None)
+    city_dicts = [make_city(e) for e in sorted(cities)]
+
+
 
 
             

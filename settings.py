@@ -44,6 +44,7 @@ SINGLE_SOURCES = [
     'countries',
     'states',
     'state_populations',
+    'cities',
     'stadiums', 
 
     'competitions',
