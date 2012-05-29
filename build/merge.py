@@ -17,7 +17,6 @@ def first_merge():
     merge_drafts()
     merge_awards()
     merge_positions()
-    merge_bios()
     merge_stats()
     merge_games()
 
@@ -236,6 +235,9 @@ def merge_bios():
     """
     Merge bios
     """
+    # Am not using this for now. Eventually it might be useful in bio separation?
+    # All bios currently generated together.
+
 
     def update_bio(d):
         name = get_name(d['name'].strip())

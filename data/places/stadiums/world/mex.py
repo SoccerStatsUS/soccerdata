@@ -4,7 +4,7 @@
 import datetime
 
 
-foreign_stadiums = [
+l = [
 
     {
         'name': 'Estadio Azteca',

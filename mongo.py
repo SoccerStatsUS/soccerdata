@@ -25,7 +25,7 @@ def get_rows(collection):
     return [row for row in collection.find()]
 
 
-def generic_load(coll, func, delete=True):
+def generic_load(coll, func, delete=False):
     """
     Call with something like
     
