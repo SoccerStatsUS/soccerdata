@@ -1172,6 +1172,11 @@ world_cup_teams = {
 def get_team(name, competition=None, pre_dict={}):
     # Remove pre_dict, competition from get_team
 
+    if name is None:
+        import pdb; pdb.set_trace()
+
+    name = name.strip()
+
     name = pre_dict.get(name, name)
         
     if competition is not None and (name, competition) in teams:

@@ -38,18 +38,49 @@ def first_load():
 
 
 
-    load_news()
+    load_places()
+
+    return
+
+    #load_news()
 
 
     load_name_maps()
-    load_stadium_maps()
+    #load_stadium_maps()
 
     standard_load()
 
     load_hall_of_fame()
 
-    load_usa()
+    load_isl()
+
     return
+
+
+    load_concacaf()
+
+
+
+
+    load_asl()
+
+
+    
+
+    load_friendlies()
+
+
+
+
+
+    load_nasl()
+
+
+    load_mls()    
+
+
+    load_usa()
+
 
     load_cups()
 
@@ -61,15 +92,15 @@ def first_load():
 
 
 
-    load_tours()
 
 
-    load_asl()
-    load_nasl()
-    load_mls()    
 
 
-    load_concacaf()
+
+
+
+
+
 
     load_asl2()
     load_apsl()
@@ -126,11 +157,20 @@ def standard_load():
 
 
 
+def load_places():
+    from text import places
+    generic_load(soccer_db.countries, places.load_countries)
+    generic_load(soccer_db.states, places.load_states)
+    generic_load(soccer_db.state_populations, places.load_state_populations)
+
+
 
 def load_stadiums():
     from data.stadiums import s
     generic_load(soccer_db.stadiums, s.load_stadiums)
 
+def load_isl():
+    load_general('isl', 'leagues/isl2')
 
 def load_usa():
     load_general('usa', 'international/usmnt/usa_early')
@@ -203,10 +243,12 @@ def load_cups():
         load_general('open_cup', 'cups/open/%s0' % e)
 
 
-def load_tours():
+def load_friendlies():
+    for e in [70, 75, 78, 80, 82]:
+        load_general('tours', 'friendly/19%s' % e)
 
     for e in range(190, 201):
-        load_general('tours', 'tours/%s0' % e)
+        load_general('tours', 'friendly/tours/%s0' % e)
 
 
 
@@ -459,6 +501,9 @@ def load_soccernet_league(name, code):
 
 
 def load_concacaf():
+    for e in '678':
+        load_general('concacaf', 'tournaments/concacaf/champions_cup/19%s0' % e)
+        
     load_soccernet_league('concacaf', 'concacaf.champions')
 
 
