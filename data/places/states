@@ -1,52 +1,75 @@
-California	36961664
-Texas	24782302
-New York	19541453
-Florida	18537969
-Illinois	12910409
-Pennsylvania	12604767
-Ohio	11542645
-Michigan	9969727
-Georgia	9829211
-North Carolina	9380884
-New Jersey	8707739
-Virginia	7882590
-Washington	6664195
-Arizona	6595778
-Massachusetts	6593587
-Indiana	6423113
-Tennessee	6296254
-Missouri	5987580
-Maryland	5699478
-Wisconsin	5654774
-Minnesota	5266214
-Colorado	5024748
-Alabama	4708708
-South Carolina	4561242
-Louisiana	4492076
-Kentucky	4314113
-Puerto Rico	3967288
-Oregon	3825657
-Oklahoma	3687050
-Connecticut	3518288
-Iowa	3007856
-Mississippi	2951996
-Arkansas	2889450
-Kansas	2818747
-Utah	2784572
-Nevada	2643085
-New Mexico	2009671
-West Virginia	1819777
-Nebraska	1796619
-Idaho	1545801
-New Hampshire	1324575
-Maine	1318301
-Hawaii	1295178
-Rhode Island	1053209
-Montana	974989
-Delaware	885122
-South Dakota	812383
-Alaska	698473
-North Dakota	646844
-Vermont	621760
-District of Columbia	599657
-Wyoming	544270
+Delaware, DE, 12/7/1787
+Pennsylvania, PA, 12/12/1787
+New Jersey, NJ, 12/18/1787
+Georgia, GA, 1/2/1788
+Connecticut, CT, 1/9/1788
+Massachusetts, MA, 1/6/1788
+Maryland, MD, 4/28/1788
+South Carolina, SC, 5/23/1788
+New Hampshire, NH, 6/21/1788
+Virginia, VA, 6/25/1788
+New York, NY, 7/26/1788
+North Carolina, NC, 11/21/1789
+Rhode Island, RI, 5/29/1790
+Vermont, VT, 3/4/1791
+Kentucky, KY, 6/1/1792
+Tennessee, TN,  6/1/1796
+Ohio, OH, 3/1/1803
+Louisiana, LA, 4/30/1812
+Indiana, IN, 12/11/1816
+Mississippi, MS, 12/10/1817
+Illinois, IL, 12/3/1818
+Alabama, AL, 12/14/1819
+Maine, ME, 3/19/1820
+Missouri, MO, 8/10/1821
+Arkansas, AK, 6/15/1836
+Michigan, MI, 1/26/1837
+Florida, FL, 3/3/1845
+Texas, TX, 12/29/1845
+Iowa, IA, 12/28/1846
+Wisconsin, WI, 5/29/1848
+California, CA, 9/9/1850
+Minnesota, MN, 5/11/1858
+Oregon, OR, 2/14/1859
+Kansas, KS, 1/29/1861
+West Virginia, WV, 6/20/1863
+Nevada, NV, 10/31/1864
+Nebraska, NB, 3/1/1867
+Colorado, CO, 8/1/19876
+North Dakota, ND, 11/2/1889
+South Dakota, SD, 11/2/1889
+Montana, MT, 11/8/1889
+Washington, WA, 11/11/1889
+Idaho, ID, 7/3/1890
+Wyoming, WY, 7/10/1890
+Utah, UT, 1/4/1896
+Oklahoma, OK, 11/16/1907
+New Mexico, NM, 1/6/1912
+Arizona, AZ, 2/14/1912
+Alaska, AK, 1/3/1959
+Hawaii, HI, 8/21/1959
+
+American Samoa, AS
+Guam, GU
+North Mariana Islands, MP
+Puerto Rico, PR
+Virgin Islands, VI
+U.S. Minor Outlying Islands, UM
+Federated States of Micronesia, FM
+Marshall Islands, MH
+Palau, PW
+
+
+Ontario, ON, 7/1/1867
+Quebec, QC, 7/1/1867
+Nova Scotia, NS, 7/1/1867
+New Brunswick, NB, 7/1/1867
+Manitoba, MB, 7/15/1870
+British Columbia, BC, 7/20/1871
+Prince Edward Island, PE, 7/1/1873
+Saskatchewan, SK, 9/1/1905
+Alberta, 9/1/1905
+Newfoundland and Labrador, NL, 3/31/1949
+Northwest Territories, NT, 7/15/1870
+Yukon, YT, 6/13/1898
+Nunavut, NU, 4/1/1999

@@ -37,6 +37,11 @@ def load():
     return l
             
 def process_stadium_map_file(p):
+    """
+    Process a stadium map file.
+    """
+
+
     f = open(p)
     
     nm = []
@@ -53,7 +58,7 @@ def process_stadium_map_file(p):
             elif len(fields) == 4:
                 team, stadium, start, end = fields
             else:
-                print fields
+                print "Incorrect fields for stadium map: %s" % fields
                 continue
 
 
