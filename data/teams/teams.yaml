@@ -1,0 +1,1958 @@
+- {city: Nuremberg, defunct: false, founded: 1900, name: 1. FC Nuremberg, notes: '',
+  real: true, short_name: 1. FC Nuremberg, slug: fc-nuremberg}
+- {city: Berlin, defunct: false, founded: 1906, name: 1. FC Union Berlin, notes: '',
+  real: true, short_name: 1. FC Union Berlin, slug: 1-fc-union-berlin}
+- {city: Mainz, defunct: false, founded: 1905, name: "1. Fu\xDFball- und Sportverein\
+    \ Mainz 05 e. V", notes: '', real: true, short_name: 1. FSV Mainz 05, slug: mainz-05}
+- {city: Munich, defunct: false, founded: 1860, name: "Turn- und Sportverein M\xFC\
+    nchen von 1860", notes: '', real: true, short_name: 1860 Munich, slug: 1860-munich}
+- {city: Hoffenheim, defunct: false, founded: 1899, name: TSG 1899 Hoffenheim, notes: '',
+  real: true, short_name: 1899 Hoffenheim, slug: 1899-hoffenheim}
+- {city: Milan, defunct: false, founded: 1899, name: Associazione Calcio Milan, notes: '',
+  real: true, short_name: A.C. Milan, slug: ac-milan}
+- {city: Bellinzona, defunct: false, founded: 1904, name: AC Bellinzona, notes: '',
+  real: true, short_name: AC Bellinzona, slug: ac-bellinzona}
+- {city: Horsens, defunct: false, founded: 1994, name: AC Horsens, notes: '', real: true,
+  short_name: AC Horsens, slug: ac-horsens}
+- {city: 'St. Louis, Missouri', defunct: true, founded: 2010, name: Athletic Club
+    of St. Louis, notes: '', real: true, short_name: AC St. Louis, slug: ac-st-louis}
+- {city: The Hague, defunct: false, founded: 1905, name: Alles Door Oefening Den Haag,
+  notes: '', real: true, short_name: ADO Den Haag, slug: ado-den-haag}
+- {city: Athens, defunct: false, founded: 1924, name: AEK Athens F.C., notes: '',
+  real: true, short_name: AEK Athens, slug: aek-athens}
+- {city: Larnaca, defunct: false, founded: 1994, name: AEK Larnaca FC, notes: '',
+  real: true, short_name: AEK Larnaca FC, slug: aek-larnaca-fc}
+- {city: Limassol, defunct: false, founded: 1930, name: Athlitiki Enosi Lemesou, notes: '',
+  real: true, short_name: AELemesou, slug: aelemesou}
+- {city: Aarhus, defunct: false, founded: 1880, name: 'Aarhus Gymnastikforening ',
+  notes: '', real: true, short_name: AGF, slug: agf}
+- {city: Solna, defunct: false, founded: 1891, name: "Allm\xE4nna Idrottsklubben",
+  notes: '', real: true, short_name: AIK, slug: aik}
+- {city: '', defunct: true, founded: null, name: ATLGunner, notes: '', real: false,
+  short_name: ATLGunner, slug: ''}
+- {city: Alkmaar, defunct: false, founded: 1967, name: Alkmaar Zaanstreek, notes: '',
+  real: true, short_name: AZ, slug: az}
+- {city: Aalborg, defunct: false, founded: 1885, name: AaB Fodbold, notes: '', real: true,
+  short_name: AaB, slug: aab}
+- {city: Aberdeen, defunct: false, founded: 1903, name: Aberdeen Football Club, notes: '',
+  real: true, short_name: Aberdeen, slug: aberdeen}
+- {city: Combra, defunct: false, founded: 1876, name: "Associa\xE7\xE3o Acad\xE9mica\
+    \ de Coimbra \u2013 Organismo Aut\xF3nomo de Futebol", notes: '', real: true,
+  short_name: "Acad\xE9mica", slug: academica}
+- {city: Adelaide, defunct: false, founded: 2003, name: Adelaide United Football Club,
+  notes: '', real: true, short_name: Adelaide United, slug: adelaide-united}
+- {city: "M\xF6dling", defunct: false, founded: 1905, name: "FC Admira Wacker M\xF6\
+    dling ", notes: '', real: true, short_name: Admira, slug: admira}
+- {city: '', defunct: false, founded: 1922, name: Afghanistan national team, notes: '',
+  real: true, short_name: Afghanistan, slug: afghanistan}
+- {city: Airdrie, defunct: false, founded: 2002, name: Airdrie United Football Club,
+  notes: '', real: true, short_name: Airdrie United, slug: airdrie-united}
+- {city: Ajaccio, defunct: false, founded: 1910, name: Athletic Club Ajaccio, notes: '',
+  real: true, short_name: Ajaccio, slug: ajaccio}
+- {city: Amsterdam, defunct: false, founded: 1900, name: Amsterdamsche Football Club
+    Ajax, notes: '', real: true, short_name: Ajax, slug: ajax}
+- {city: '', defunct: false, founded: null, name: Albania national team, notes: '',
+  real: true, short_name: Albania, slug: albania}
+- {city: Coatbridge, defunct: false, founded: 1882, name: Albion Rovers Football Club,
+  notes: '', real: true, short_name: Albion Rovers, slug: albion-rovers}
+- {city: Niigata, defunct: false, founded: 1955, name: Albirex Niigata, notes: '',
+  real: true, short_name: Albirex Niigata, slug: albirex-niigata}
+- {city: Aachen, defunct: false, founded: 1900, name: Alemannia Aachen, notes: '',
+  real: true, short_name: Alemannia Aachen, slug: alemannia-aachen}
+- {city: '', defunct: false, founded: null, name: Algeria national team, notes: '',
+  real: true, short_name: Algeria, slug: algeria}
+- {city: Larnaca, defunct: false, founded: 1948, name: Alki Larnaca, notes: '', real: true,
+  short_name: Alki Larnaca, slug: alki-larnaca}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1913, name: "Club Atl\xE9\
+    tico All Boys", notes: '', real: true, short_name: All Boys, slug: all-boys}
+- {city: '', defunct: false, founded: null, name: American Samoa national team, notes: '',
+  real: true, short_name: American Samoa, slug: american-samoa}
+- {city: Perm, defunct: false, founded: 1993, name: FC Amkar Perm, notes: '', real: true,
+  short_name: Amkar Perm, slug: amkar-perm}
+- {city: Belo Horizonte, defunct: false, founded: 1912, name: "Am\xE9rica Futebol\
+    \ Clube", notes: '', real: true, short_name: "Am\xE9rica Mineiro", slug: america-mineiro}
+- {city: Cali, defunct: false, founded: 1918, name: "Corporaci\xF3n Deportiva Am\xE9\
+    rica", notes: '', real: true, short_name: "Am\xE9rica de Cali", slug: america-de-cali}
+- {city: Deryneia, defunct: false, founded: 1920, name: Anagennisi Deryneia, notes: '',
+  real: true, short_name: Anagennisi Deryneia, slug: anagennisi-deryneia}
+- {city: Anderlecht, defunct: false, founded: 1908, name: Royal Sporting Club Anderlecht,
+  notes: '', real: true, short_name: Anderlecht, slug: anderlecht}
+- {city: '', defunct: false, founded: null, name: Andorra national team, notes: '',
+  real: true, short_name: Andorra, slug: andorra}
+- {city: '', defunct: false, founded: null, name: Angola national team, notes: '',
+  real: true, short_name: Angola, slug: angola}
+- {city: '', defunct: false, founded: null, name: Anguilla national team, notes: '',
+  real: true, short_name: Anguilla, slug: anguilla}
+- {city: Ankara, defunct: false, founded: 1910, name: "MKE Ankarag\xFCc\xFC", notes: '',
+  real: true, short_name: "Ankarag\xFCc\xFC", slug: ankaragucu}
+- {city: Famagusta, defunct: false, founded: 1911, name: Anorthosis Famagusta FC,
+  notes: '', real: true, short_name: Anorthosis Famagusta FC, slug: anorthosis-famagusta-fc}
+- {city: antalya, defunct: false, founded: 1966, name: Antalyaspor, notes: '', real: true,
+  short_name: Antalyaspor, slug: antalyaspor}
+- {city: 'St. George, Antigua', defunct: false, founded: 2010, name: Antigua Barracuda
+    FC, notes: '', real: true, short_name: Antigua Barracuda, slug: antigua-barracuda}
+- {city: '', defunct: false, founded: null, name: Antigua and Barbuda national team,
+  notes: '', real: true, short_name: Antigua and Barbuda, slug: antigua-and-barbuda}
+- {city: Makhachkala, defunct: false, founded: 1991, name: FC Anzhi Makhachkala, notes: '',
+  real: true, short_name: Anzhi Makhachkala, slug: anzhi-makhachkala}
+- {city: Nicosia, defunct: false, founded: 1926, name: Athletikos Podosferikos Omilos
+    Ellinon Lefkosias, notes: '', real: true, short_name: Apoel Nicosia, slug: apoel-nicosia}
+- {city: Limassol, defunct: false, founded: 1954, name: Apollon Limassol, notes: '',
+  real: true, short_name: Apollon Limassol, slug: apollon-limassol}
+- {city: '', defunct: true, founded: null, name: Apoo/Dead Fingers, notes: '', real: false,
+  short_name: Apoo/Dead Fingers, slug: ''}
+- {city: '', defunct: true, founded: null, name: Apoo/Deadfingers, notes: '', real: false,
+  short_name: Apoo/Deadfingers, slug: ''}
+- {city: '', defunct: true, founded: null, name: Apooo & Sean, notes: '', real: false,
+  short_name: Apooo & Sean, slug: ''}
+- {city: '', defunct: true, founded: null, name: Appoo/Dead Fingers, notes: '', real: false,
+  short_name: Appoo/Dead Fingers, slug: ''}
+- {city: '', defunct: true, founded: null, name: AppooOnU, notes: '', real: false,
+  short_name: AppooOnU, slug: ''}
+- {city: Arbroath, defunct: false, founded: 1878, name: Arbroath Football Club, notes: '',
+  real: true, short_name: Arbroath, slug: arbroath}
+- {city: '', defunct: false, founded: 1901, name: Argentina national team, notes: '',
+  real: true, short_name: Argentina, slug: argentina}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1904, name: "Asociaci\xF3\
+    n Atl\xE9tica Argentinos Juniors", notes: '', real: true, short_name: Argentinos,
+  slug: argentinos}
+- {city: Thessaloniki, defunct: false, founded: 1914, name: Aris Football Club, notes: '',
+  real: true, short_name: Aris F.C., slug: aris-fc}
+- {city: Limassol, defunct: false, founded: 1930, name: Aris Limassol, notes: '',
+  real: true, short_name: Aris Limassol, slug: aris-limassol}
+- {city: '', defunct: false, founded: null, name: Armenia national team, notes: '',
+  real: true, short_name: Armenia, slug: armenia}
+- {city: Bielefeld, defunct: false, founded: 1905, name: DSC Arminia Bielefeld, notes: '',
+  real: true, short_name: Arminia Bielefeld, slug: arminia-bielefeld}
+- {city: 'London, England', defunct: false, founded: 1886, name: Arsenal F.C., notes: '',
+  real: true, short_name: Arsenal, slug: arsenal}
+- {city: 'Avellaneda, Argentina', defunct: false, founded: 1957, name: "Arsenal F\xFA\
+    tbol Club", notes: '', real: true, short_name: "Arsenal de Sarand\xED ", slug: arsenal-de-sarandi}
+- {city: '', defunct: false, founded: null, name: Aruba national team, notes: '',
+  real: true, short_name: Aruba, slug: aruba}
+- {city: Tripoli, defunct: false, founded: 1931, name: PAE Asteras Tripolis, notes: '',
+  real: true, short_name: Asteras Tripolis, slug: asteras-tripolis}
+- {city: 'Birmingham, England', defunct: false, founded: 1874, name: Aston Villa Football
+    Club, notes: '', real: true, short_name: Aston Villa, slug: aston-villa}
+- {city: "Ploie\u0219ti", defunct: false, founded: 1934, name: "Fotbal Club Astra\
+    \ Ploie\u015Fti", notes: '', real: true, short_name: "Astra Ploie\u015Fti", slug: astra-poliesti}
+- {city: Bergamo, defunct: false, founded: 1907, name: Atalanta Bergamasca Calcio,
+  notes: '', real: true, short_name: Atalanta, slug: atalanta}
+- {city: Bilbao, defunct: false, founded: 1898, name: Athletic Bilbao, notes: '',
+  real: true, short_name: Athletic Bilbao, slug: athletic-bilbao}
+- {city: Atlanta, defunct: false, founded: 1995, name: Atlanta Silverbacks, notes: '',
+  real: true, short_name: Atlanta Silverbacks, slug: atlanta-silverbacks}
+- {city: "Canc\xFAn, Mexico", defunct: false, founded: 1916, name: "Atlante F\xFA\
+    tbol Club", notes: '', real: true, short_name: Atlante, slug: atlante}
+- {city: Guadalajara, defunct: false, founded: 1916, name: Club Social y Deportivo
+    Atlas, notes: '', real: true, short_name: Atlas, slug: atlas}
+- {city: "Goi\xE2nia", defunct: false, founded: 1937, name: "Atl\xE9tico Clube Goianiense",
+  notes: '', real: true, short_name: "Atl\xE9tico Goianiense", slug: atletico-goianiense}
+- {city: Neiva, defunct: false, founded: 1990, name: "Atl\xE9tico Huila", notes: '',
+  real: true, short_name: "Atl\xE9tico Huila", slug: atletico-huila}
+- {city: Madrid, defunct: false, founded: 1903, name: "Club Atl\xE9tico de Madrid,\
+    \ S.A.D.", notes: '', real: true, short_name: "Atl\xE9tico Madrid", slug: atletico-madrid}
+- {city: Belo Horizonte, defunct: false, founded: 1908, name: "Clube Atl\xE9tico Mineiro",
+  notes: '', real: true, short_name: "Atl\xE9tico Mineiro", slug: atletico-mineiro}
+- {city: "Medell\xEDn", defunct: false, founded: 1947, name: "Corporaci\xF3n Deportiva\
+    \ Atl\xE9tico Nacional", notes: '', real: true, short_name: "Atl\xE9tico Nacional",
+  slug: atletico-nacional}
+- {city: Curitiba, defunct: false, founded: 1924, name: "Clube Atl\xE9tico Paranaense",
+  notes: '', real: true, short_name: "Atl\xE9tico Paranaense", slug: atletico-paranense}
+- {city: Athens, defunct: false, founded: 1923, name: Atromitos F.C., notes: '', real: true,
+  short_name: Atromitos, slug: atromitos}
+- {city: '', defunct: false, founded: 1922, name: Australia national team, notes: '',
+  real: true, short_name: Australia, slug: australia}
+- {city: '', defunct: false, founded: null, name: Austria national team, notes: '',
+  real: true, short_name: Austria, slug: austria}
+- {city: Vienna, defunct: false, founded: 1911, name: "Fu\xDFballklub Austria Wien",
+  notes: '', real: true, short_name: Austria Wien, slug: austria-wien}
+- {city: Auxerre, defunct: false, founded: 1905, name: Association de la Jeunesse
+    Auxerroise, notes: '', real: true, short_name: Auxerre, slug: auxerre}
+- {city: "Florian\xF3polis", defunct: false, founded: 1923, name: "Ava\xED Futebol\
+    \ Clube", notes: '', real: true, short_name: "Ava\xED", slug: avai}
+- {city: Hakata, defunct: false, founded: 1982, name: Avispa Fukuoka, notes: '', real: true,
+  short_name: Avispa Fukuoka, slug: avispa-fukuoka}
+- {city: Ayr, defunct: false, founded: 1910, name: Ayr United Football Club, notes: '',
+  real: true, short_name: Ayr United, slug: ayr-united}
+- {city: '', defunct: false, founded: null, name: Azerbaijan national team, notes: '',
+  real: true, short_name: Azerbaijan, slug: azerbaijan}
+- {city: '', defunct: true, founded: null, name: BARCAsox, notes: '', real: false,
+  short_name: BARCAsox, slug: ''}
+- {city: Gothenburg, defunct: false, founded: 1940, name: "BK H\xE4cken", notes: '',
+  real: true, short_name: "BK H\xE4cken", slug: bk-hacken}
+- {city: '', defunct: true, founded: null, name: BabyTiger2001, notes: '', real: false,
+  short_name: BabyTiger2001, slug: ''}
+- {city: '', defunct: false, founded: null, name: Bahamas national team, notes: '',
+  real: true, short_name: Bahamas, slug: bahamas}
+- {city: 'Salvador, Bahia', defunct: false, founded: 1931, name: Esporte Clube Bahia,
+  notes: '', real: true, short_name: Bahia, slug: bahia}
+- {city: '', defunct: false, founded: null, name: Bahrain national team, notes: '',
+  real: true, short_name: Bahrain, slug: bahrain}
+- {city: '', defunct: true, founded: null, name: Balerion, notes: '', real: false,
+  short_name: Balerion, slug: ''}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1896, name: "Club Atl\xE9\
+    tico Banfield", notes: '', real: true, short_name: Banfield, slug: banfield}
+- {city: '', defunct: false, founded: null, name: Bangladesh national team, notes: '',
+  real: true, short_name: Bangladesh, slug: bangladesh}
+- {city: '', defunct: false, founded: null, name: Barbados national team, notes: '',
+  real: true, short_name: Barbados, slug: barbados}
+- {city: Barnsley, defunct: false, founded: 1887, name: Barnsley Football Club, notes: '',
+  real: true, short_name: Barnsley, slug: barnsley}
+- {city: Leverkusen, defunct: false, founded: 1904, name: Bayer 04 Leverkusen, notes: '',
+  real: true, short_name: Bayer Leverkusen, slug: bayer-leverkusen}
+- {city: Munich, defunct: false, founded: 1900, name: FC Bayern Munich, notes: '',
+  real: true, short_name: Bayern Munich, slug: bayern-munich}
+- {city: Antwerp, defunct: false, founded: 1942, name: Koninklijke Beerschot Antwerpen
+    Club, notes: '', real: true, short_name: Beerschot, slug: beerschot}
+- {city: Beijing, defunct: false, founded: 1992, name: Beijing Guoan Football Club,
+  notes: '', real: true, short_name: Beijing Guoan, slug: beijing-guoan}
+- {city: Aveiro, defunct: false, founded: 1922, name: Sport Clube Beira-Mar, notes: '',
+  real: true, short_name: Beira-Mar, slug: beira-mar}
+- {city: '', defunct: false, founded: null, name: Belarus national team, notes: '',
+  real: true, short_name: Belarus, slug: belarus}
+- {city: '', defunct: false, founded: 1904, name: Belgium national team, notes: '',
+  real: true, short_name: Belgium, slug: belgium}
+- {city: '', defunct: false, founded: null, name: Belize national team, notes: '',
+  real: true, short_name: Belize, slug: belize}
+- {city: Lisbon, defunct: false, founded: 1904, name: Sport Lisboa e Benfica, notes: '',
+  real: true, short_name: Benfica, slug: benfica}
+- {city: '', defunct: false, founded: null, name: Benin national team, notes: '',
+  real: true, short_name: Benin, slug: benin}
+- {city: '', defunct: false, founded: null, name: Bermuda national team, notes: '',
+  real: true, short_name: Bermuda, slug: bermuda}
+- {city: Istanbul, defunct: false, founded: 1903, name: "Be\u015Fikta\u015F Jimnastik\
+    \ Kul\xFCb\xFC", notes: '', real: true, short_name: "Be\u015Fikta\u015F", slug: besiktas}
+- {city: '', defunct: false, founded: null, name: Bhutan national team, notes: '',
+  real: true, short_name: Bhutan, slug: bhutan}
+- {city: 'Birmingham, England', defunct: false, founded: 1875, name: Birmingham City
+    Football Club, notes: '', real: true, short_name: Birmingham City, slug: birmingham-city}
+- {city: 'Blackburn, England', defunct: false, founded: 1875, name: Blackburn Rovers
+    Football Club, notes: '', real: true, short_name: Blackburn, slug: blackburn}
+- {city: 'Blackpool, England', defunct: false, founded: 1887, name: Blackpool Football
+    Club, notes: '', real: true, short_name: Blackpool, slug: blackpool}
+- {city: '', defunct: true, founded: null, name: Bob Morocco, notes: '', real: false,
+  short_name: Bob Morocco, slug: ''}
+- {city: '', defunct: true, founded: null, name: Bob Morocco/BedStypundit, notes: '',
+  real: false, short_name: Bob Morocco/BedStypundit, slug: ''}
+- {city: '', defunct: true, founded: null, name: Bob Morroco, notes: '', real: false,
+  short_name: Bob Morroco, slug: ''}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1905, name: "Club Atl\xE9\
+    tico Boca Juniors", notes: '', real: true, short_name: Boca Juniors, slug: boca-juniors}
+- {city: '', defunct: false, founded: 1926, name: Bolivia national team, notes: '',
+  real: true, short_name: Bolivia, slug: bolivia}
+- {city: Bologna, defunct: false, founded: 1993, name: Bologna Football Club 1909,
+  notes: '', real: true, short_name: Bologna FC, slug: bologna-fc}
+- {city: 'Bolton, England', defunct: false, founded: 1874, name: Bolton Wanderers
+    Football Club, notes: '', real: true, short_name: Bolton Wanderers, slug: bolton}
+- {city: Bordeaux, defunct: false, founded: 1881, name: Football Club des Girondins
+    de Bordeaux, notes: '', real: true, short_name: Bordeaux, slug: bordeaux}
+- {city: Dortmund, defunct: false, founded: 1909, name: Ballspielverein Borussia (BVB)
+    Dortmund, notes: '', real: true, short_name: Borussia Dortmund, slug: borussia-dortmund}
+- {city: "M\xF6nchengladbach", defunct: false, founded: 1900, name: "Borussia M\xF6\
+    nchengladbach", notes: '', real: true, short_name: "Borussia M\xF6nchengladbach",
+  slug: borussia-monchengladbach}
+- {city: '', defunct: false, founded: null, name: Bosnia and Herzegovina national
+    team, notes: '', real: true, short_name: Bosnia and Herzegovina, slug: bosnia-and-herzegovina}
+- {city: 'Botafogo Bairro, Zona Sul, Rio de Janeiro', defunct: false, founded: 1894,
+  name: Botafogo de Futebol e Regatas, notes: '', real: true, short_name: Botafogo,
+  slug: botafogo}
+- {city: '', defunct: false, founded: null, name: Botswana national team, notes: '',
+  real: true, short_name: Botswana, slug: botswana}
+- {city: 'Boscombe, Bournemouth', defunct: false, founded: 1890, name: A.F.C. Bournemouth,
+  notes: '', real: true, short_name: Bournemouth, slug: bournemouth}
+- {city: Tunja, defunct: false, founded: 1995, name: "Boyac\xE1 Chic\xF3 F\xFAtbol\
+    \ Club", notes: '', real: true, short_name: "Boyac\xE1 Chic\xF3", slug: boyaca-chico}
+- {city: '', defunct: true, founded: null, name: Br1an224/man_in_the_middle, notes: '',
+  real: false, short_name: Br1an224/man_in_the_middle, slug: ''}
+- {city: Bergen, defunct: false, founded: 1908, name: Sportsklubben Brann, notes: '',
+  real: true, short_name: Brann, slug: brann}
+- {city: '', defunct: false, founded: 1914, name: Brazil national team, notes: '',
+  real: true, short_name: Brazil, slug: brazil}
+- {city: "Bra\u015Fov", defunct: false, founded: 1936, name: "Fotbal Club Bra\u015F\
+    ov", notes: '', real: true, short_name: "Bra\u015Fov", slug: brasov}
+- {city: Brechin, defunct: false, founded: 1906, name: Brechin City Football Club,
+  notes: '', real: true, short_name: Brechin City, slug: brechin-city}
+- {city: Brentford, defunct: false, founded: 1889, name: Brentford Football Club,
+  notes: '', real: true, short_name: Brentford, slug: brentford}
+- {city: Brest, defunct: false, founded: 1903, name: Stade Brestois 29, notes: '',
+  real: true, short_name: Brest, slug: brest}
+- {city: 'Brighton and Hove ', defunct: false, founded: 1901, name: 'Brighton & Hove
+    Albion F.C. ', notes: '', real: true, short_name: Brighton & Hove Albion, slug: brighton-hove-albion}
+- {city: Brisbane, defunct: false, founded: 1957, name: Brisbane Roar Football Club,
+  notes: '', real: true, short_name: Brisbane Roar, slug: bristbane-roar}
+- {city: Bristol, defunct: false, founded: 1897, name: Bristol City Football Club,
+  notes: '', real: true, short_name: Bristol City, slug: bristol-city}
+- {city: '', defunct: false, founded: null, name: British Virgin Islands national
+    team, notes: '', real: true, short_name: British Virgin Islands, slug: british-virgin-islands}
+- {city: '', defunct: false, founded: null, name: Brunei national team, notes: '',
+  real: true, short_name: Brunei, slug: brunei}
+- {city: "Br\xF8ndby", defunct: false, founded: 1964, name: "Br\xF8ndby IF", notes: '',
+  real: true, short_name: "Br\xF8ndby IF", slug: brondby-if}
+- {city: '', defunct: true, founded: null, name: BuffaloSoldier, notes: '', real: false,
+  short_name: BuffaloSoldier, slug: ''}
+- {city: '', defunct: true, founded: null, name: BuffloSoldier, notes: '', real: false,
+  short_name: BuffloSoldier, slug: ''}
+- {city: '', defunct: false, founded: null, name: Bulgaria national team, notes: '',
+  real: true, short_name: Bulgaria, slug: bulgaria}
+- {city: '', defunct: false, founded: null, name: Burkina Faso national team, notes: '',
+  real: true, short_name: Burkina Faso, slug: burkina-faso}
+- {city: 'Burnley, England', defunct: false, founded: 1882, name: Burnley Football
+    Club, notes: '', real: true, short_name: Burnley, slug: burnley}
+- {city: Bursa, defunct: false, founded: 1963, name: Bursaspor, notes: '', real: true,
+  short_name: Bursaspor, slug: bursaspor}
+- {city: '', defunct: false, founded: null, name: Burundi national team, notes: '',
+  real: true, short_name: Burundi, slug: burundi}
+- {city: Bury, defunct: false, founded: 1885, name: Bury Football Club is, notes: '',
+  real: true, short_name: Bury, slug: bury}
+- {city: Busan, defunct: false, founded: 1983, name: Busan I'Park FC, notes: '', real: true,
+  short_name: Busan I'Park FC, slug: busan-Ipark-fc}
+- {city: 'Santa Ana, El Salvador', defunct: false, founded: 1947, name: Club Deportivo
+    Futbolistas Asociados Santanecos, notes: '', real: true, short_name: C.D. FAS,
+  slug: fas}
+- {city: 'San Pedro Sula, Honduras', defunct: false, founded: 1925, name: "Club Deportivo\
+    \ Marath\xF3n", notes: '', real: true, short_name: "C.D. Marath\xF3n", slug: marathon}
+- {city: 'Tegucigalpa, Honduras', defunct: false, founded: 1912, name: Club Deportivo
+    Olimpia, notes: '', real: true, short_name: C.D. Olimpia, slug: olimpia}
+- {city: 'Guatemala City, Guatemala', defunct: false, founded: 1949, name: Club Social
+    y Deportivo Comunicaciones, notes: '', real: true, short_name: C.S.D. Comunicaciones,
+  slug: comunicaciones}
+- {city: Pamplona, defunct: false, founded: 1920, name: "Club Atl\xE9tico Osasuna",
+  notes: '', real: true, short_name: CA Osasuna, slug: ca-osasunsa}
+- {city: 'Monterrey, Mexico', defunct: false, founded: 1945, name: Club de Futbol
+    Monterrey, notes: '', real: true, short_name: CF Monterrey, slug: cf-monterrey}
+- {city: Cluj-Napoca, defunct: false, founded: 1907, name: 'CFR Cluj ', notes: '',
+  real: true, short_name: 'CFR Cluj ', slug: cfr-cluj}
+- {city: Chiajna, defunct: false, founded: 1957, name: CS Concordia Chiajna, notes: '',
+  real: true, short_name: CS Concordia Chiajna, slug: cs-concordia-chiajna}
+- {city: Mioveni, defunct: false, founded: 2000, name: CS Mioveni, notes: '', real: true,
+  short_name: CS Mioveni, slug: cs-mioveni}
+- {city: Moscow, defunct: false, founded: 1911, name: PFC CSKA Moscow, notes: '',
+  real: true, short_name: CSKA Moscow, slug: cska-moscow}
+- {city: Sibiu, defunct: false, founded: 2007, name: "CSU Voin\u0163a Sibiu", notes: '',
+  real: true, short_name: "CSU Voin\u0163a Sibiu", slug: csu-vointa-sibiu}
+- {city: Caen, defunct: false, founded: 1913, name: Stade Malherbe Caen, notes: '',
+  real: true, short_name: Caen, slug: caen}
+- {city: Cagliari, defunct: false, founded: 1920, name: Cagliari Calcio, notes: '',
+  real: true, short_name: Cagliari, slug: cagliari}
+- {city: '', defunct: true, founded: null, name: CaliManU, notes: '', real: false,
+  short_name: CaliManU, slug: ''}
+- {city: '', defunct: false, founded: null, name: Cambodia national team, notes: '',
+  real: true, short_name: Cambodia, slug: cambodia}
+- {city: '', defunct: false, founded: null, name: Cameroon national team, notes: '',
+  real: true, short_name: Cameroon, slug: cameroon}
+- {city: '', defunct: false, founded: 1885, name: Canada national team, notes: '',
+  real: true, short_name: Canada, slug: canada}
+- {city: '', defunct: false, founded: null, name: Cape Verde national team, notes: '',
+  real: true, short_name: Cape Verde, slug: cape-verde}
+- {city: Cardiff, defunct: false, founded: 1899, name: Cardiff City Football Club,
+  notes: '', real: true, short_name: Cardiff City, slug: cardiff-city}
+- {city: Carlisle, defunct: false, founded: 1904, name: Carlisle United Football Club,
+  notes: '', real: true, short_name: Carlisle United, slug: carlisle-united}
+- {city: 'Cary, North Carolina', defunct: false, founded: 2006, name: Carolina RailHawks
+    FC, notes: '', real: true, short_name: Carolina RailHawks, slug: carolina-railhawks}
+- {city: '', defunct: false, founded: 1912, name: 'Catalonia national team ', notes: '',
+  real: true, short_name: Catalonia, slug: catalonia-national-team}
+- {city: Catania, defunct: false, founded: 1908, name: Calcio Catania, notes: '',
+  real: true, short_name: Catania, slug: catania}
+- {city: '', defunct: false, founded: null, name: Cayman Islands national team, notes: '',
+  real: true, short_name: Cayman Islands, slug: cayman-islands}
+- {city: "Piatra Neam\u0163", defunct: false, founded: 1919, name: "Fotbal Club Ceahl\u0103\
+    ul Piatra Neam\u0163", notes: '', real: true, short_name: "Ceahl\u0103ul Piatra\
+    \ Neam\u0163", slug: ceahllul-piatra-neamt}
+- {city: Fortaleza, defunct: false, founded: 1914, name: "Cear\xE1 Sporting Club",
+  notes: '', real: true, short_name: "Cear\xE1", slug: ceara}
+- {city: Celje, defunct: false, founded: 1919, name: NK CM Celje, notes: '', real: true,
+  short_name: Celje, slug: celje}
+- {city: Glasgow, defunct: false, founded: 1888, name: Celtic Football Club, notes: '',
+  real: true, short_name: Celtic, slug: celtic}
+- {city: '', defunct: false, founded: null, name: Central African Republic national
+    team, notes: '', real: true, short_name: Central African Republic, slug: central-african-republic}
+- {city: New South Wales, defunct: false, founded: 2004, name: Central Coast Mariners
+    FC, notes: '', real: true, short_name: Central Coast Mariners, slug: central-coast-mariners}
+- {city: Bruges, defunct: false, founded: 1899, name: Cercle Brugge Koninklijke Sportvereniging,
+  notes: '', real: true, short_name: Cercle Brugge, slug: cercle-brugge}
+- {city: Osaka, defunct: false, founded: 1957, name: Cerezo Osaka, notes: '', real: true,
+  short_name: Cerezo Osaka, slug: cerezo-osaka}
+- {city: Cesena, defunct: false, founded: 1940, name: Associazione Calcio Cesena,
+  notes: '', real: true, short_name: Cesena, slug: cesena}
+- {city: '', defunct: false, founded: null, name: Chad national team, notes: '', real: true,
+  short_name: Chad, slug: chad}
+- {city: Changchun, defunct: false, founded: 1996, name: Changchun Yatai, notes: '',
+  real: true, short_name: Changchun Yatai, slug: changchun-yatai}
+- {city: 'Charleston, South Carolina', defunct: false, founded: 1993, name: Charleston
+    Battery, notes: '', real: true, short_name: Charleston Battery, slug: charleston-battery}
+- {city: 'Charlotte, North Carolina', defunct: false, founded: 1991, name: Charlotte
+    Eagles, notes: '', real: true, short_name: Charlotte Eagles, slug: charlotte-eagles}
+- {city: Charlton, defunct: false, founded: 1905, name: Charlton Athletic Football
+    Club, notes: '', real: true, short_name: Charlton Athletic, slug: charlton-athletic}
+- {city: 'London, England', defunct: false, founded: 1905, name: Chelsea F.C., notes: '',
+  real: true, short_name: Chelsea, slug: chelsea}
+- {city: Chengdu, defunct: false, founded: 1996, name: Chengdu Blades Football Club,
+  notes: '', real: true, short_name: Chengdu Blades, slug: chengdu-blades}
+- {city: Chesterfield, defunct: false, founded: 1867, name: Chesterfield Football
+    Club, notes: '', real: true, short_name: Chesterfield, slug: chesterfield}
+- {city: Chicago, defunct: false, founded: 1998, name: Chicago Fire S.C., notes: '',
+  real: true, short_name: Chicago Fire, slug: chicago-fire}
+- {city: Verona, defunct: false, founded: 1929, name: Associazione Calcio Chievo Verona,
+  notes: '', real: true, short_name: Chievo, slug: chievo}
+- {city: '', defunct: false, founded: null, name: Chile national team, notes: '',
+  real: true, short_name: Chile, slug: chile}
+- {city: '', defunct: false, founded: null, name: China national team, notes: '',
+  real: true, short_name: China, slug: china}
+- {city: 'Guadalajara, Mexico', defunct: false, founded: 1906, name: Club Deportivo
+    Guadalajara, notes: '', real: true, short_name: Chivas, slug: chivas}
+- {city: Los Angeles, defunct: false, founded: 2004, name: Club Deportivo Chivas USA,
+  notes: '', real: true, short_name: Chivas USA, slug: chivas-usa}
+- {city: '', defunct: true, founded: null, name: ChrisE, notes: '', real: false, short_name: ChrisE,
+  slug: ''}
+- {city: Gwangyang, defunct: false, founded: 1995, name: Chunnam Dragons, notes: '',
+  real: true, short_name: Chunnam Dragons, slug: chunnam-dragons}
+- {city: 'Mexico City, Mexico', defunct: false, founded: 1916, name: "Club Am\xE9\
+    rica", notes: '', real: true, short_name: "Club Am\xE9rica", slug: america}
+- {city: Bruges, defunct: false, founded: 1891, name: Club Brugge Koninklijke Voetbalvereniging,
+  notes: '', real: true, short_name: Club Brugge, slug: club-brugge}
+- {city: Colchester, defunct: false, founded: 1937, name: Colchester United Football
+    Club, notes: '', real: true, short_name: Colchester United, slug: colchester-united}
+- {city: '', defunct: false, founded: 1938, name: Colombia national team, notes: '',
+  real: true, short_name: Colombia, slug: colombia}
+- {city: Denver, defunct: false, founded: 1996, name: Colorado Rapids, notes: '',
+  real: true, short_name: Colorado Rapids, slug: colorado-rapids}
+- {city: Columbus, defunct: false, founded: 1994, name: Columbus Crew, notes: '',
+  real: true, short_name: Columbus Crew, slug: columbus-crew}
+- {city: 'Santa Fe, Argentina', defunct: false, founded: 1905, name: "Club Atl\xE9\
+    tico Col\xF3n", notes: '', real: true, short_name: "Col\xF3n", slug: colon}
+- {city: '', defunct: false, founded: null, name: Comoros national team, notes: '',
+  real: true, short_name: Comoros, slug: comoros}
+- {city: '', defunct: false, founded: null, name: Cook Islands national team, notes: '',
+  real: true, short_name: Cook Islands, slug: cook-islands}
+- {city: "S\xE3o Paulo", defunct: false, founded: 1910, name: Sport Club Corinthians
+    Paulista, notes: '', real: true, short_name: Corinthians, slug: corinthians}
+- {city: Curitiba, defunct: false, founded: 1909, name: Coritiba Foot Ball Club, notes: '',
+  real: true, short_name: Coritiba, slug: coritiba}
+- {city: '', defunct: false, founded: null, name: Costa Rica national team, notes: '',
+  real: true, short_name: Costa Rica, slug: costa-rica}
+- {city: Coventry, defunct: false, founded: 1883, name: Coventry City Football Club,
+  notes: '', real: true, short_name: Coventry City, slug: coventry-city}
+- {city: Cowdenbeath, defunct: false, founded: 1881, name: Cowdenbeath Football Club,
+  notes: '', real: true, short_name: Cowdenbeath, slug: cowdenbeath}
+- {city: '', defunct: false, founded: null, name: Croatia national team, notes: '',
+  real: true, short_name: Croatia, slug: croatia}
+- {city: 'Mexico City, Mexico', defunct: false, founded: 1927, name: 'Club Deportivo,
+    Social, y Cultural Cruz Azul', notes: '', real: true, short_name: Cruz Azul, slug: cruz-azul}
+- {city: Belo Horizonte, defunct: false, founded: 1921, name: Cruzeiro Esporte Clube,
+  notes: '', real: true, short_name: Cruzeiro, slug: cruzeiro}
+- {city: London, defunct: false, founded: 1905, name: Crystal Palace Football Club,
+  notes: '', real: true, short_name: Crystal Palace, slug: crystal-palace}
+- {city: '', defunct: false, founded: null, name: Cuba national team, notes: '', real: true,
+  short_name: Cuba, slug: cuba}
+- {city: '', defunct: false, founded: null, name: Cyprus national team, notes: '',
+  real: true, short_name: Cyprus, slug: cyprus}
+- {city: '', defunct: false, founded: null, name: Czech Republic national team, notes: '',
+  real: true, short_name: Czech Republic, slug: czech-republic}
+- {city: '', defunct: false, founded: null, name: "C\xF4te d'Ivoire national team",
+  notes: '', real: true, short_name: "C\xF4te d'Ivoire", slug: cote-divoire}
+- {city: "C\xFAcuta", defunct: false, founded: 1924, name: "Corporaci\xF3n Nuevo C\xFA\
+    cuta Deportivo", notes: '', real: true, short_name: "C\xFAcuta Deportivo", slug: cucuta-deportivo}
+- {city: Washington D.C., defunct: false, founded: 1995, name: D.C. United, notes: '',
+  real: true, short_name: D.C. United, slug: dc-united}
+- {city: Daegu, defunct: false, founded: 2002, name: Daegu Football Club, notes: '',
+  real: true, short_name: Daegu FC, slug: daegu-fc}
+- {city: Daejeon, defunct: false, founded: 1997, name: Daejeon Citizen Football Club,
+  notes: '', real: true, short_name: Daejeon Citizen, slug: daejeon-citizen}
+- {city: Dalian, defunct: false, founded: 1983, name: Dalian Shide, notes: '', real: true,
+  short_name: Dalian Shide, slug: dalian-shide}
+- {city: 'Bellbrook, Ohio', defunct: false, founded: 2009, name: Dayton Dutch Lions,
+  notes: '', real: true, short_name: Dayton Dutch Lions, slug: dayton-dutch-lions}
+- {city: Doetinchem, defunct: false, founded: 1954, name: De Graafschap, notes: '',
+  real: true, short_name: De Graafschap, slug: de-graafschap}
+- {city: '', defunct: false, founded: null, name: Dem. Rep. of Congo national team,
+  notes: '', real: true, short_name: Dem. Rep. of Congo, slug: dem-rep-of-congo}
+- {city: '', defunct: false, founded: null, name: Denmark national team, notes: '',
+  real: true, short_name: Denmark, slug: denmark}
+- {city: Armenia, defunct: false, founded: 1951, name: "Deportes Quind\xEDo", notes: '',
+  real: true, short_name: "Deportes Quind\xEDo", slug: deportes-quindio}
+- {city: "Ibagu\xE9", defunct: false, founded: 1954, name: Deportes Tolima, notes: '',
+  real: true, short_name: Deportes Tolima, slug: deportes-tolima}
+- {city: Cali, defunct: false, founded: 1908, name: "Asociaci\xF3n Deportivo Cali",
+  notes: '', real: true, short_name: Deportivo Cali, slug: deportivo-cali}
+- {city: Pereira, defunct: false, founded: 1944, name: Deportivo Pereira, notes: '',
+  real: true, short_name: Deportivo Pereira, slug: deportivo-pereira}
+- {city: Derby, defunct: false, founded: 1884, name: Derby County Football Club, notes: '',
+  real: true, short_name: Derby County, slug: derby-county}
+- {city: Dijon, defunct: false, founded: 1998, name: "Dijon Football C\xF4te d'Or",
+  notes: '', real: true, short_name: Dijon, slug: dijon}
+- {city: Minsk, defunct: false, founded: 1927, name: Football Club Dinamo Minsk, notes: '',
+  real: true, short_name: Dinamo Minsk, slug: dinamo-minsk}
+- {city: '', defunct: false, founded: null, name: Djibouti national team, notes: '',
+  real: true, short_name: Djibouti, slug: djibouti}
+- {city: Stockholm, defunct: false, founded: 1891, name: "Djurg\xE5rdens IF Fotboll",
+  notes: '', real: true, short_name: "Djurg\xE5rden", slug: djurgarden}
+- {city: '', defunct: false, founded: null, name: Dominica national team, notes: '',
+  real: true, short_name: Dominica, slug: dominica}
+- {city: '', defunct: false, founded: null, name: Dominican Republic national team,
+  notes: '', real: true, short_name: Dominican Republic, slug: dominican-republic}
+- {city: Doncaster, defunct: false, founded: 1879, name: Doncaster Rovers Football
+    Club, notes: '', real: true, short_name: Doncaster Rovers, slug: doncaster-rovers}
+- {city: Dumbarton, defunct: false, founded: 1872, name: Dumbarton Football Club,
+  notes: '', real: true, short_name: Dumbarton, slug: dumbarton}
+- {city: Dundee, defunct: false, founded: 1893, name: Dundee Football Club, notes: '',
+  real: true, short_name: Dundee, slug: dundee}
+- {city: Dundee, defunct: false, founded: 1909, name: Dundee United Football Club,
+  notes: '', real: true, short_name: Dundee United, slug: dundee-united}
+- {city: Dunfermline, defunct: false, founded: 1885, name: Dunfermline Athletic Football
+    Club, notes: '', real: true, short_name: Dunfermline Athletic, slug: dunfermline-athletic}
+- {city: Moscow, defunct: false, founded: 1923, name: Dynamo Moscow, notes: '', real: true,
+  short_name: Dynamo Moscow, slug: dynamo-moscow}
+- {city: Methil, defunct: false, founded: 1903, name: East Fife Football Club, notes: '',
+  real: true, short_name: East Fife, slug: east-fife}
+- {city: '', defunct: false, founded: null, name: East Timor national team, notes: '',
+  real: true, short_name: East Timor, slug: east-timor}
+- {city: '', defunct: false, founded: null, name: Ecuador national team, notes: '',
+  real: true, short_name: Ecuador, slug: ecuador}
+- {city: '', defunct: false, founded: 1920, name: Egypt national team, notes: '',
+  real: true, short_name: Egypt, slug: egypt}
+- {city: '', defunct: false, founded: null, name: El Salvador national team, notes: '',
+  real: true, short_name: El Salvador, slug: el-salvador}
+- {city: '', defunct: true, founded: null, name: Elninho & GIFFENBONE, notes: '',
+  real: false, short_name: Elninho & GIFFENBONE, slug: ''}
+- {city: '', defunct: true, founded: null, name: Elninho/Giffenbone, notes: '', real: false,
+  short_name: Elninho/Giffenbone, slug: ''}
+- {city: Cottbus, defunct: false, founded: 1966, name: FC Energie Cottbus, notes: '',
+  real: true, short_name: Energie Cottbus, slug: energie-cottbus}
+- {city: '', defunct: false, founded: 1872, name: England national team, notes: '',
+  real: true, short_name: England, slug: england}
+- {city: Paralimni, defunct: false, founded: 1936, name: Enosis Neon Paralimni FC,
+  notes: '', real: true, short_name: Enosis Neon Paralimni FC, slug: enosis-neon-paralimni-fc}
+- {city: "Medell\xEDn", defunct: false, founded: 1989, name: "Envigado F\xFAtbol Club",
+  notes: '', real: true, short_name: Envigado, slug: envigado}
+- {city: '', defunct: false, founded: null, name: Equatorial Guinea national team,
+  notes: '', real: true, short_name: Equatorial Guinea, slug: equatorial-guinea}
+- {city: Heraklion, defunct: false, founded: 1929, name: Ergotelis F.C., notes: '',
+  real: true, short_name: Ergotelis, slug: ergotelis}
+- {city: '', defunct: false, founded: null, name: Eritrea national team, notes: '',
+  real: true, short_name: Eritrea, slug: eritrea}
+- {city: Aradippou, defunct: false, founded: 1958, name: Ermis Aradippou, notes: '',
+  real: true, short_name: Ermis Aradippou, slug: ermis-aradippou}
+- {city: Aue, defunct: false, founded: 1946, name: FC Erzgebirge Aue, notes: '', real: true,
+  short_name: Erzgebirge Aue, slug: erzgebirge-aue}
+- {city: "Eski\u015Fehir", defunct: false, founded: 1965, name: "Eski\u015Fehirspor",
+  notes: '', real: true, short_name: "Eski\u015Fehirspor", slug: eskisehirspor}
+- {city: '', defunct: false, founded: null, name: Estonia national team, notes: '',
+  real: true, short_name: Estonia, slug: estonia}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1905, name: Club Estudiantes
+    de La Plata, notes: '', real: true, short_name: Estudiantes, slug: estudiantes}
+- {city: '', defunct: false, founded: null, name: Ethiopia national team, notes: '',
+  real: true, short_name: Ethiopia, slug: ethiopia}
+- {city: Achna, defunct: false, founded: 1968, name: Ethnikos Achna FC, notes: '',
+  real: true, short_name: Ethnikos Achna FC, slug: ethnikos-achna-fc}
+- {city: 'Liverpool, England', defunct: false, founded: 1878, name: Everton Football
+    Club, notes: '', real: true, short_name: Everton, slug: everton}
+- {city: Evian, defunct: false, founded: 2003, name: Evian Thonon Gaillard Football
+    Club, notes: '', real: true, short_name: Evian, slug: evian}
+- {city: Rotterdam, defunct: false, founded: 1902, name: SBV Excelsior, notes: '',
+  real: true, short_name: Excelsior, slug: excelsior}
+- {city: Exeter, defunct: false, founded: 1904, name: Exeter City Football Club, notes: '',
+  real: true, short_name: Exeter City, slug: exeter-city}
+- {city: Copenhagen, defunct: false, founded: 1992, name: "F.C. K\xF8benhavn", notes: '',
+  real: true, short_name: "F.C. K\xF8benhavn", slug: fc-kobenhavn}
+- {city: 'Queens, New York', defunct: false, founded: 2009, name: F.C. New York, notes: '',
+  real: true, short_name: F.C. New York, slug: fc-new-yrok}
+- {city: Kiev, defunct: false, founded: 2001, name: FC Arsenal Kyiv, notes: '', real: true,
+  short_name: FC Arsenal Kyiv, slug: fc-arsenal-kyiv}
+- {city: Augsburg, defunct: false, founded: 1907, name: FC Augsburg, notes: '', real: true,
+  short_name: FC Augsburg, slug: fc-augsburg}
+- {city: Borisov, defunct: false, founded: 1973, name: FC BATE Borisov, notes: '',
+  real: true, short_name: FC BATE Borisov, slug: fc-bate-borisov}
+- {city: Barcelona, defunct: false, founded: 1899, name: Futbol Club Barcelona, notes: '',
+  real: true, short_name: FC Barcelona, slug: fc-barcelona}
+- {city: Basel, defunct: false, founded: 1893, name: Fussball Club Basel 1893, notes: '',
+  real: true, short_name: FC Basel, slug: fc-basel}
+- {city: Bobruisk, defunct: false, founded: 1977, name: FC Belshina Bobruisk, notes: '',
+  real: true, short_name: FC Belshina Bobruisk, slug: fc-belshina-bobruisk}
+- {city: Odessa, defunct: false, founded: 1936, name: FC Chornomorets Odesa, notes: '',
+  real: true, short_name: FC Chornomorets Odesa, slug: fc-chornomorets-odesa}
+- {city: Dallas, defunct: false, founded: 1996, name: Football Club Dallas, notes: '',
+  real: true, short_name: FC Dallas, slug: fc-dallas}
+- {city: Brest, defunct: false, founded: 1960, name: FC Dinamo Brest, notes: '', real: true,
+  short_name: FC Dinamo Brest, slug: fc-dinamo-brest}
+- {city: Bucharest, defunct: false, founded: 1948, name: "FC Dinamo Bucure\u015Fti",
+  notes: '', real: true, short_name: "FC Dinamo Bucure\u015Fti", slug: fc-dinamo-bucuresti}
+- {city: Mogilev, defunct: false, founded: 1960, name: FC Dnepr Mogilev, notes: '',
+  real: true, short_name: FC Dnepr Mogilev, slug: fc-dnepr-mogilev}
+- {city: 'Dnipropetrovsk ', defunct: false, founded: 1918, name: FC Dnipro Dnipropetrovsk,
+  notes: '', real: true, short_name: FC Dnipro Dnipropetrovsk, slug: fc-dnipro-dnipropetrovsk}
+- {city: Kiev, defunct: false, founded: 1927, name: FC Dynamo Kyiv, notes: '', real: true,
+  short_name: FC Dynamo Kyiv, slug: fc-dynamo-kyiv}
+- {city: 'Edmonton, Alberta', defunct: false, founded: 2010, name: FC Edmonton, notes: '',
+  real: true, short_name: FC Edmonton, slug: fc-edmonton}
+- {city: Gomel, defunct: false, founded: 1959, name: FC Gomel, notes: '', real: true,
+  short_name: FC Gomel, slug: fc-gomel}
+- {city: Groningen, defunct: false, founded: 1971, name: FC Groningen, notes: '',
+  real: true, short_name: FC Groningen, slug: fc-groningen}
+- {city: 'Mariupol ', defunct: false, founded: 1960, name: FC Illichivets Mariupol,
+  notes: '', real: true, short_name: FC Illichivets Mariupol, slug: fc-illichivets-mariupol}
+- {city: Ingolstadt, defunct: false, founded: 2004, name: FC Ingolstadt 04, notes: '',
+  real: true, short_name: FC Ingolstadt 04, slug: fc-ingolstadt-04}
+- {city: 'Lviv ', defunct: false, founded: 1963, name: FC Karpaty Lviv, notes: '',
+  real: true, short_name: FC Karpaty Lviv, slug: fc-karpaty-lviv}
+- {city: Koper, defunct: false, founded: 1955, name: FC Koper, notes: '', real: true,
+  short_name: FC Koper, slug: fc-koper}
+- {city: Kryvyi Rih, defunct: false, founded: 1959, name: FC Kryvbas Kryvyi Rih, notes: '',
+  real: true, short_name: FC Kryvbas Kryvyi Rih, slug: fc-kryvbas-kryvyi-rih}
+- {city: "K\xF6ln", defunct: false, founded: 1948, name: "1. FC K\xF6ln", notes: '',
+  real: true, short_name: "FC K\xF6ln", slug: fc-koln}
+- {city: Luzern, defunct: false, founded: 1901, name: FC Luzern, notes: '', real: true,
+  short_name: FC Luzern, slug: fc-luzern}
+- {city: Kharkiv, defunct: false, founded: 1925, name: FC Metalist Kharkiv, notes: '',
+  real: true, short_name: FC Metalist Kharkiv, slug: fc-metalist-kharkiv}
+- {city: Donetsk, defunct: false, founded: 1996, name: FC Metalurh Donetsk, notes: '',
+  real: true, short_name: FC Metalurh Donetsk, slug: fc-metalurh-donetsk}
+- {city: Herning, defunct: false, founded: 1999, name: FC Midtjylland, notes: '',
+  real: true, short_name: FC Midtjylland, slug: fc-midtjylland}
+- {city: Minsk, defunct: false, founded: 2006, name: FC Minsk, notes: '', real: true,
+  short_name: FC Minsk, slug: fc-minsk}
+- {city: Novopolotsk, defunct: false, founded: 1963, name: FC Naftan Novopolotsk,
+  notes: '', real: true, short_name: FC Naftan Novopolotsk, slug: fc-naftan-novopolotsk}
+- {city: Grodno, defunct: false, founded: 1964, name: FC Neman Grodno, notes: '',
+  real: true, short_name: FC Neman Grodno, slug: fc-neman-grodno}
+- {city: Kiev, defunct: false, founded: 1992, name: FC Obolon Kyiv, notes: '', real: true,
+  short_name: FC Obolon Kyiv, slug: fc-obolon-kyiv}
+- {city: '', defunct: true, founded: null, name: FC SEAPOO 2026, notes: '', real: false,
+  short_name: FC SEAPOO 2026, slug: ''}
+- {city: Seoul, defunct: false, founded: 1983, name: FC Seoul, notes: '', real: true,
+  short_name: FC Seoul, slug: fc-seoul}
+- {city: Salihorsk, defunct: false, founded: 1961, name: FC Shakhtsyor Salihorsk,
+  notes: '', real: true, short_name: FC Shakhtsyor Salihorsk, slug: fc-shakhtsyor-salihorsk}
+- {city: Sion, defunct: false, founded: 1909, name: FC Sion, notes: '', real: true,
+  short_name: FC Sion, slug: fc-sion}
+- {city: 'Tampa Bay, Florida', defunct: false, founded: 2008, name: FC Tampa Bay,
+  notes: '', real: true, short_name: FC Tampa Bay, slug: fc-tampa-bay}
+- {city: Thun, defunct: false, founded: 1898, name: FC Thun 1898, notes: '', real: true,
+  short_name: FC Thun, slug: fc-thun}
+- {city: Zhodino, defunct: false, founded: 1961, name: FC Torpedo-BelAZ Zhodino, notes: '',
+  real: true, short_name: FC Torpedo-BelAZ Zhodino, slug: fc-torpedo-belaz-zhodino}
+- {city: Utrecht, defunct: false, founded: 1970, name: FC Utrecht, notes: '', real: true,
+  short_name: FC Utrecht, slug: fc-utrecht}
+- {city: Vaslui, defunct: false, founded: 2002, name: FC Vaslui, notes: '', real: true,
+  short_name: FC Vaslui, slug: fc-vaslui}
+- {city: Vitebsk, defunct: false, founded: 1960, name: FC Vitebsk, notes: '', real: true,
+  short_name: FC Vitebsk, slug: fc-vitebsk}
+- {city: Lutsk, defunct: false, founded: 1960, name: FC Volyn Lutsk, notes: '', real: true,
+  short_name: FC Volyn Lutsk, slug: fc-volyn-lutsk}
+- {city: Poltava, defunct: false, founded: 1955, name: FC Vorskla Poltava, notes: '',
+  real: true, short_name: FC Vorskla Poltava, slug: fc-vorskla-poltava}
+- {city: Luhansk, defunct: false, founded: 1923, name: FC Zorya Luhansk, notes: '',
+  real: true, short_name: FC Zorya Luhansk, slug: fc-zorya-luhansk}
+- {city: "Z\xFCrich", defunct: false, founded: 1896, name: "Fussballclub Z\xFCrich",
+  notes: '', real: true, short_name: "FC Z\xFCrich", slug: fc-zurich}
+- {city: "T\xE2rgu Mure\u015F", defunct: false, founded: 2004, name: "FCM T\xE2rgu\
+    \ Mure\u015F", notes: '', real: true, short_name: "FCM T\xE2rgu Mure\u015F", slug: fcm-targu-mures}
+- {city: "Nordsj\xE6lland", defunct: false, founded: 1991, name: "Football Club Nordsj\xE6\
+    lland", notes: '', real: true, short_name: FCN, slug: fcn}
+- {city: Frankfurt, defunct: false, founded: 1899, name: FSV Frankfurt, notes: '',
+  real: true, short_name: FSV Frankfurt, slug: fsv-frankfurt}
+- {city: Falkirk, defunct: false, founded: 1876, name: Falkirk Football Club, notes: '',
+  real: true, short_name: Falkirk, slug: falkirk}
+- {city: '', defunct: false, founded: null, name: Falkland Islands national team,
+  notes: '', real: true, short_name: Falkland Islands, slug: falkland-islands}
+- {city: '', defunct: false, founded: null, name: Faroe Islands national team, notes: '',
+  real: true, short_name: Faroe Islands, slug: faroe-islands}
+- {city: '', defunct: true, founded: null, name: Father Ted, notes: '', real: false,
+  short_name: Father Ted, slug: ''}
+- {city: '', defunct: true, founded: null, name: Father Ted & FIFAray007, notes: '',
+  real: false, short_name: Father Ted & FIFAray007, slug: ''}
+- {city: '', defunct: false, founded: null, name: Federated States of Micronesia national
+    team, notes: '', real: true, short_name: Federated States of Micronesia, slug: federated-states-of-micronesia}
+- {city: Santa Maria da Feira, defunct: false, founded: 1918, name: Clube Desportivo
+    Feirense, notes: '', real: true, short_name: Feirense, slug: feirense}
+- {city: Istanbul, defunct: false, founded: 1907, name: "Fenerbah\xE7e Spor Kul\xFC\
+    b\xFC", notes: '', real: true, short_name: "Fenerbah\xE7e", slug: fenerbahce}
+- {city: Rotterdam, defunct: false, founded: 1908, name: Feyenoord, notes: '', real: true,
+  short_name: Feyenoord, slug: feyenoord}
+- {city: "Florian\xF3polis", defunct: false, founded: 1921, name: Figueirense Futebol
+    Clube, notes: '', real: true, short_name: Figueirense, slug: figueirense}
+- {city: '', defunct: false, founded: null, name: Fiji national team, notes: '', real: true,
+  short_name: Fiji, slug: fiji}
+- {city: '', defunct: false, founded: null, name: Finland national team, notes: '',
+  real: true, short_name: Finland, slug: finland}
+- {city: Florence, defunct: false, founded: 1926, name: ACF Fiorentina, notes: '',
+  real: true, short_name: Fiorentina, slug: fiorentina}
+- {city: 'Flamengo bairro, Zona Sul, Rio de Janeiro', defunct: false, founded: 1895,
+  name: Clube de Regatas do Flamengo, notes: '', real: true, short_name: Flamengo,
+  slug: flamengo}
+- {city: Rio de Janeiro, defunct: false, founded: 1902, name: Fluminense Football
+    Club, notes: '', real: true, short_name: Fluminense, slug: fluminense}
+- {city: Forfar, defunct: false, founded: 1885, name: Forfar Athletic Football Club,
+  notes: '', real: true, short_name: Forfar Athletic, slug: forfar-athletic}
+- {city: Fort Lauderdale, defunct: false, founded: 2006, name: Fort Lauderdale Strikers
+    (2011), notes: '', real: true, short_name: Fort Lauderdale Strikers, slug: fort-lauderdale-strikers-2011}
+- {city: "D\xFCsseldorf", defunct: false, founded: 1895, name: "Fortuna D\xFCsseldorf ",
+  notes: '', real: true, short_name: "Fortuna D\xFCsseldorf ", slug: fortuna-dusseldorf}
+- {city: '', defunct: false, founded: 1904, name: France national team, notes: '',
+  real: true, short_name: France, slug: france}
+- {city: 'London, England', defunct: false, founded: 1879, name: Fulham Football Club,
+  notes: '', real: true, short_name: Fulham, slug: fulham}
+- {city: Gothenburg, defunct: false, founded: 1894, name: "G\xF6teborgs Atlet- och\
+    \ Idrottss\xE4llskap", notes: '', real: true, short_name: GAIS, slug: gais}
+- {city: '', defunct: false, founded: null, name: Gabon national team, notes: '',
+  real: true, short_name: Gabon, slug: gabon}
+- {city: Istanbul, defunct: false, founded: 1905, name: "Galatasaray Spor Kul\xFC\
+    b\xFC", notes: '', real: true, short_name: Galatasaray, slug: galatasaray}
+- {city: Osaka, defunct: false, founded: 1980, name: Gamba Osaka, notes: '', real: true,
+  short_name: Gamba Osaka, slug: gamba-osaka}
+- {city: '', defunct: false, founded: null, name: Gambia national team, notes: '',
+  real: true, short_name: Gambia, slug: gambia}
+- {city: Gangneung, defunct: false, founded: 2008, name: Gangwon Football Club, notes: '',
+  real: true, short_name: Gangwon FC, slug: gangwon-fc}
+- {city: "Media\u0219", defunct: false, founded: 1945, name: "Club Sportiv Gaz Metan\
+    \ Media\u0219", notes: '', real: true, short_name: "Gaz Metan Media\u0219", slug: gaz-metan-medias}
+- {city: Gaziantep, defunct: false, founded: 1969, name: Gaziantepspor, notes: '',
+  real: true, short_name: Gaziantepspor, slug: gaziantepspor}
+- {city: "G\xE4vle", defunct: false, founded: 1882, name: Gefle IF, notes: '', real: true,
+  short_name: Gefle IF, slug: gefle-if}
+- {city: '', defunct: true, founded: null, name: Geneva & Stillkickin, notes: '',
+  real: false, short_name: Geneva & Stillkickin, slug: ''}
+- {city: Genk, defunct: false, founded: 1988, name: Koninklijke Racing Club Genk,
+  notes: '', real: true, short_name: Genk, slug: genk}
+- {city: Genoa, defunct: false, founded: 1897, name: Genoa Cricket and Football Club,
+  notes: '', real: true, short_name: Genoa, slug: genoa}
+- {city: Ghent, defunct: false, founded: 1864, name: Koninklijke Atletiek Associatie
+    Gent, notes: '', real: true, short_name: Gent, slug: gent}
+- {city: Ankara, defunct: false, founded: 1923, name: "Gen\xE7lerbirli\u011Fi Spor\
+    \ Kul\xFCb\xFC", notes: '', real: true, short_name: "Gen\xE7lerbirli\u011Fi",
+  slug: genclerbirligi}
+- {city: '', defunct: false, founded: null, name: Georgia national team, notes: '',
+  real: true, short_name: Georgia, slug: georgia}
+- {city: '', defunct: false, founded: 1908, name: Germany national team, notes: '',
+  real: true, short_name: Germany, slug: germany}
+- {city: '', defunct: true, founded: null, name: Gersman, notes: '', real: false,
+  short_name: Gersman, slug: ''}
+- {city: Getafe, defunct: false, founded: 1983, name: "Getafe Club de F\xFAtbol",
+  notes: '', real: true, short_name: Getafe CF, slug: getafe-cf}
+- {city: '', defunct: false, founded: null, name: Ghana national team, notes: '',
+  real: true, short_name: Ghana, slug: ghana}
+- {city: '', defunct: false, founded: null, name: Gibraltar national team, notes: '',
+  real: true, short_name: Gibraltar, slug: gibraltar}
+- {city: Barcelos, defunct: false, founded: 1924, name: Gil Vicente F.C., notes: '',
+  real: true, short_name: Gil Vicente, slug: gil-vicente}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1887, name: Club de Gimnasia
+    y Esgrima La Plata, notes: '', real: true, short_name: Gimnasia (La Plata), slug: gimnasia-la-plata}
+- {city: '', defunct: true, founded: null, name: GoMichigan24, notes: '', real: false,
+  short_name: GoMichigan24, slug: ''}
+- {city: 'Godoy Cruz, Argentina', defunct: false, founded: 1921, name: Godoy Cruz
+    Antonio Tomba, notes: '', real: true, short_name: Godoy Cruz, slug: godoy-cruz}
+- {city: Goald Coast, defunct: false, founded: 2008, name: Gold Coast United Football
+    Club, notes: '', real: true, short_name: Gold Coast United, slug: gold-coast-united}
+- {city: Granada, defunct: false, founded: 1931, name: "Granada Club de F\xFAtbol",
+  notes: '', real: true, short_name: Granada CF, slug: granada-cf}
+- {city: "Z\xFCrich", defunct: false, founded: 1886, name: "Grasshopper Club Z\xFC\
+    rich", notes: '', real: true, short_name: Grasshopper, slug: grasshopper}
+- {city: '', defunct: false, founded: 1929, name: Greece national team, notes: '',
+  real: true, short_name: Greece, slug: greece}
+- {city: '', defunct: false, founded: null, name: Greenland national team, notes: '',
+  real: true, short_name: Greenland, slug: greenland}
+- {city: Greenock, defunct: false, founded: 1874, name: Greenock Morton Football Club,
+  notes: '', real: true, short_name: Greenock Morton, slug: greenock-morton}
+- {city: '', defunct: false, founded: null, name: Grenada national team, notes: '',
+  real: true, short_name: Grenada, slug: grenada}
+- {city: Porto Alegre, defunct: false, founded: 1903, name: "Gr\xEAmio Foot-Ball Porto\
+    \ Alegrense", notes: '', real: true, short_name: "Gr\xEAmio", slug: gremio}
+- {city: '', defunct: false, founded: null, name: Guadeloupe national team, notes: '',
+  real: true, short_name: Guadeloupe, slug: guadeloupe}
+- {city: '', defunct: false, founded: null, name: Guam national team, notes: '', real: true,
+  short_name: Guam, slug: guam}
+- {city: Guangzhou, defunct: false, founded: 1954, name: Guangzhou Evergrande Football
+    Club, notes: '', real: true, short_name: Guangzhou Evergrande, slug: guangzhou-evergrande}
+- {city: '', defunct: false, founded: null, name: Guatemala national team, notes: '',
+  real: true, short_name: Guatemala, slug: guatemala}
+- {city: '', defunct: false, founded: null, name: Guernsey national team, notes: '',
+  real: true, short_name: Guernsey, slug: guernsey}
+- {city: '', defunct: false, founded: null, name: Guinea national team, notes: '',
+  real: true, short_name: Guinea, slug: guinea}
+- {city: '', defunct: false, founded: null, name: Guinea-Bissau national team, notes: '',
+  real: true, short_name: Guinea-Bissau, slug: guinea-bissau}
+- {city: '', defunct: true, founded: null, name: GunnerBT, notes: '', real: false,
+  short_name: GunnerBT, slug: ''}
+- {city: '', defunct: true, founded: null, name: Gunners BT/Short Corner, notes: '',
+  real: false, short_name: Gunners BT/Short Corner, slug: ''}
+- {city: '', defunct: true, founded: null, name: GunnersBT, notes: '', real: false,
+  short_name: GunnersBT, slug: ''}
+- {city: '', defunct: true, founded: null, name: GunnersBT/Short Corner, notes: '',
+  real: false, short_name: GunnersBT/Short Corner, slug: ''}
+- {city: '', defunct: false, founded: null, name: Guyana national team, notes: '',
+  real: true, short_name: Guyana, slug: guyana}
+- {city: Gwangju, defunct: false, founded: 2010, name: Gwangju Football Club, notes: '',
+  real: true, short_name: Gwangju FC, slug: gwangju-fc}
+- {city: Changwon, defunct: false, founded: 2006, name: Gyeongnam Football Club, notes: '',
+  real: true, short_name: Gyeongnam FC, slug: gyeongnam-fc}
+- {city: "Herf\xF8lge", defunct: false, founded: 2009, name: "HB K\xF8ge", notes: '',
+  real: true, short_name: "HB K\xF8ge", slug: hb-koge}
+- {city: '', defunct: false, founded: null, name: Haiti national team, notes: '',
+  real: true, short_name: Haiti, slug: haiti}
+- {city: Halmstad, defunct: false, founded: 1914, name: Halmstads Bollklubb, notes: '',
+  real: true, short_name: Halmstad, slug: halmstad}
+- {city: Hamburg, defunct: false, founded: 1887, name: Hamburger Sport-Verein, notes: '',
+  real: true, short_name: Hamburger SV, slug: hamburger-sv}
+- {city: Hamilton, defunct: false, founded: 1874, name: Hamilton Academical Football
+    Club, notes: '', real: true, short_name: Hamilton Academical, slug: hamilton-academical}
+- {city: Hangzhou, defunct: false, founded: 1998, name: Hangzhou Nabel Greentown F.C.,
+  notes: '', real: true, short_name: Hangzhou Greentown, slug: hangzhou-greentown}
+- {city: Hannover, defunct: false, founded: 1896, name: Hannoverscher Sportverein
+    von 1896, notes: '', real: true, short_name: Hannover 96, slug: hannover-96}
+- {city: '', defunct: true, founded: null, name: Hararea, notes: '', real: false,
+  short_name: Hararea, slug: ''}
+- {city: '', defunct: true, founded: null, name: Harper916, notes: '', real: false,
+  short_name: Harper916, slug: ''}
+- {city: '', defunct: true, founded: null, name: Harper916 & Joedub83, notes: '',
+  real: false, short_name: Harper916 & Joedub83, slug: ''}
+- {city: 'Harrisburg, Pennsylvania', defunct: false, founded: 2004, name: Harrisburg
+    City Islanders, notes: '', real: true, short_name: Harrisburg City Islanders,
+  slug: harrisburg-city-islanders}
+- {city: Hartlepool, defunct: false, founded: 1908, name: Hartlepool United Football
+    Club, notes: '', real: true, short_name: Hartlepool United, slug: hartlepool-united}
+- {city: '', defunct: true, founded: null, name: HeadHunter, notes: '', real: false,
+  short_name: HeadHunter, slug: ''}
+- {city: Edinburgh, defunct: false, founded: 1874, name: Heart of Midlothian Football
+    Club, notes: '', real: true, short_name: Heart of Midlothian, slug: heart-of-midlothian}
+- {city: Heerenveen, defunct: false, founded: 1920, name: Sportclub Heerenveen, notes: '',
+  real: true, short_name: Heerenveen, slug: heerenveen}
+- {city: Helsingborg, defunct: false, founded: 1907, name: Helsingborgs IF, notes: '',
+  real: true, short_name: 'Helsingborgs IF ', slug: helsingborgs-if}
+- {city: Zhengzhou, defunct: false, founded: 1994, name: Henan Construction, notes: '',
+  real: true, short_name: Henan Construction, slug: henan-construction}
+- {city: Almelo, defunct: false, founded: 1903, name: Heracles Almelo, notes: '',
+  real: true, short_name: Heracles, slug: heracles}
+- {city: Berlin, defunct: false, founded: 1892, name: Hertha Berliner Sport-Club von
+    1892, notes: '', real: true, short_name: Hertha BSC, slug: hertha-bsc}
+- {city: Leith, defunct: false, founded: 1875, name: Hibernian Football Club, notes: '',
+  real: true, short_name: Hibernian, slug: hibernian}
+- {city: '', defunct: false, founded: null, name: Honduras national team, notes: '',
+  real: true, short_name: Honduras, slug: honduras}
+- {city: '', defunct: false, founded: null, name: Hong Kong national team, notes: '',
+  real: true, short_name: Hong Kong, slug: hong-kong}
+- {city: Houston, defunct: false, founded: 2005, name: Houston Dynamo, notes: '',
+  real: true, short_name: Houston Dynamo, slug: houston-dynamo}
+- {city: Huddersfield, defunct: false, founded: 1908, name: Huddersfield Town Football
+    Club, notes: '', real: true, short_name: Huddersfield Town, slug: huddersfield-town}
+- {city: 'Kingston upon Hull, England', defunct: false, founded: 1904, name: Hull
+    City Association Football Club, notes: '', real: true, short_name: Hull City,
+  slug: hull-city}
+- {city: '', defunct: false, founded: null, name: Hungary national team, notes: '',
+  real: true, short_name: Hungary, slug: hungary}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1908, name: "Club Atl\xE9\
+    tico Hurac\xE1n", notes: '', real: true, short_name: "Hurac\xE1n", slug: huracan}
+- {city: '', defunct: true, founded: null, name: IASocFan, notes: '', real: false,
+  short_name: IASocFan, slug: ''}
+- {city: '', defunct: true, founded: null, name: IASocFan/soccrbom2, notes: '', real: false,
+  short_name: IASocFan/soccrbom2, slug: ''}
+- {city: '', defunct: true, founded: null, name: IASocFan/soccrbom2 (Midwest Sting),
+  notes: '', real: false, short_name: IASocFan/soccrbom2 (Midwest Sting), slug: ''}
+- {city: "Bor\xE5s", defunct: false, founded: 1904, name: IF Elfsborg, notes: '',
+  real: true, short_name: IF Elfsborg, slug: if-elfsborg}
+- {city: Gothenburg, defunct: false, founded: 1904, name: "IFK G\xF6teborg", notes: '',
+  real: true, short_name: "IFK G\xF6teborg", slug: ifk-goteborg}
+- {city: "Norrk\xF6ping", defunct: false, founded: 1897, name: "IFK Norrk\xF6ping",
+  notes: '', real: true, short_name: "IFK Norrk\xF6ping", slug: ifk-norrkoping}
+- {city: '', defunct: false, founded: null, name: Iceland national team, notes: '',
+  real: true, short_name: Iceland, slug: iceland}
+- {city: Incheon, defunct: false, founded: 2003, name: Incheon United Football Club,
+  notes: '', real: true, short_name: Incheon United, slug: incheon-united}
+- {city: 'Avellaneda, Argentina', defunct: false, founded: 1905, name: "Club Atl\xE9\
+    tico Independiente", notes: '', real: true, short_name: Independiente, slug: independiente}
+- {city: "Medell\xEDn", defunct: false, founded: 1913, name: "Corporaci\xF3n Deportiva\
+    \ Independiente Medell\xEDn", notes: '', real: true, short_name: "Independiente\
+    \ Medell\xEDn", slug: independiente-medellin}
+- {city: '', defunct: false, founded: null, name: India national team, notes: '',
+  real: true, short_name: India, slug: india}
+- {city: '', defunct: false, founded: null, name: Indonesia national team, notes: '',
+  real: true, short_name: Indonesia, slug: indonesia}
+- {city: Porto Alegre, defunct: false, founded: 1909, name: Sport Club Internacional,
+  notes: '', real: true, short_name: Internacional, slug: internacional}
+- {city: Milan, defunct: false, founded: 1908, name: Football Club Internazionale
+    Milano, notes: '', real: true, short_name: Internazionale, slug: internazionale}
+- {city: Inverness, defunct: false, founded: 1994, name: Inverness Caledonian Thistle
+    Football Club, notes: '', real: true, short_name: Inverness Caledonian Thistle,
+  slug: caledonian-thistle}
+- {city: Ipswich, defunct: false, founded: 1878, name: Ipswich Town Football Club,
+  notes: '', real: true, short_name: Ipswich Town, slug: ipswich-town}
+- {city: Thessaloniki, defunct: false, founded: 1908, name: Iraklis Thessaloniki F.C.,
+  notes: '', real: true, short_name: Iraklis, slug: iraklis}
+- {city: '', defunct: false, founded: null, name: Iran national team, notes: '', real: true,
+  short_name: Iran, slug: iran}
+- {city: '', defunct: false, founded: null, name: Iraq national team, notes: '', real: true,
+  short_name: Iraq, slug: iraq}
+- {city: '', defunct: false, founded: null, name: Ireland national team, notes: '',
+  real: true, short_name: Ireland, slug: ireland}
+- {city: "Metap\xE1n, El Salvador", defunct: false, founded: 2000, name: "Asociaci\xF3\
+    n Deportiva Isidro Metap\xE1n", notes: '', real: true, short_name: "Isidro Metap\xE1\
+    n", slug: isidro-metapan}
+- {city: '', defunct: false, founded: null, name: Isle of Man national team, notes: '',
+  real: true, short_name: Isle of Man, slug: isle-of-man}
+- {city: '', defunct: false, founded: null, name: Israel national team, notes: '',
+  real: true, short_name: Israel, slug: israel}
+- {city: "Itag\xFC\xED", defunct: false, founded: 2008, name: "C.D. Itag\xFC\xED Ditaires",
+  notes: '', real: true, short_name: "Itag\xFC\xED Ditaires ", slug: itagui-ditaires}
+- {city: '', defunct: false, founded: 1910, name: Italy national team, notes: '',
+  real: true, short_name: Italy, slug: italy}
+- {city: "Tuxtla Guti\xE9rrez, Mexico", defunct: false, founded: 2002, name: Jaguares
+    de Chiapas FC, notes: '', real: true, short_name: Jaguares, slug: jaguares}
+- {city: '', defunct: false, founded: null, name: Jamaica national team, notes: '',
+  real: true, short_name: Jamaica, slug: jamaica}
+- {city: '', defunct: false, founded: null, name: Japan national team, notes: '',
+  real: true, short_name: Japan, slug: japan}
+- {city: Seogwipo, defunct: false, founded: 1982, name: Jeju United Football Club,
+  notes: '', real: true, short_name: Jeju United, slug: jeju-united}
+- {city: Jeonju, defunct: false, founded: 1994, name: Jeonbuk Hyundai Motors, notes: '',
+  real: true, short_name: Jeonbuk Hyundai Motors, slug: jeonbuk-hyundai-motors}
+- {city: '', defunct: false, founded: null, name: Jersey national team, notes: '',
+  real: true, short_name: Jersey, slug: jersey}
+- {city: Nanjing, defunct: false, founded: 1994, name: Jiangsu Sainty Football Club,
+  notes: '', real: true, short_name: Jiangsu Sainty, slug: jiangsu-sainty}
+- {city: 'Tunapuna, Trinidad and Tobago', defunct: false, founded: 1996, name: Joe
+    Public Football Club, notes: '', real: true, short_name: Joe Public, slug: joe-public}
+- {city: '', defunct: true, founded: null, name: JoeSoccer Fan, notes: '', real: false,
+  short_name: JoeSoccer Fan, slug: ''}
+- {city: '', defunct: false, founded: null, name: Jordan national team, notes: '',
+  real: true, short_name: Jordan, slug: jordan}
+- {city: Barranquilla, defunct: false, founded: 1924, name: "Corporaci\xF3n Popular\
+    \ Deportiva Junior", notes: '', real: true, short_name: Junior, slug: junior}
+- {city: Turin, defunct: false, founded: 1897, name: Juventus Football Club, notes: '',
+  real: true, short_name: Juventus, slug: juventus}
+- {city: Iwata, defunct: false, founded: 1970, name: "J\xFAbilo Iwata", notes: '',
+  real: true, short_name: "J\xFAbilo Iwata", slug: jubilo-iwata}
+- {city: '', defunct: true, founded: null, name: KUHN/IA, notes: '', real: false,
+  short_name: KUHN/IA, slug: ''}
+- {city: Kaiserslautern, defunct: false, founded: 1900, name: 1. FC Kaiserslautern,
+  notes: '', real: true, short_name: Kaiserslautern, slug: kaiserslautern}
+- {city: Kalmar, defunct: false, founded: 1910, name: Kalmar FF, notes: '', real: true,
+  short_name: Kalmar FF, slug: kalmar-ff}
+- {city: Kapfenberg, defunct: false, founded: 1919, name: Kapfenberger SV, notes: '',
+  real: true, short_name: Kapfenberger SV, slug: kapfenberger-sv}
+- {city: "Karab\xFCk", defunct: false, founded: 1969, name: "Kardemir Demir \xC7elik\
+    \ Karab\xFCkspor", notes: '', real: true, short_name: "Karab\xFCkspor", slug: karabukspor}
+- {city: Karlsruhe, defunct: false, founded: 1894, name: Karlsruher SC, notes: '',
+  real: true, short_name: Karlsruher SC, slug: karlsruher-sc}
+- {city: Kashima, defunct: false, founded: 1947, name: Kashima Antlers, notes: '',
+  real: true, short_name: Kashima Antlers, slug: kashima-antlers}
+- {city: Kashiwa, defunct: false, founded: 1940, name: Kashiwa Reysol, notes: '',
+  real: true, short_name: Kashiwa Reysol, slug: kashiwa-reysol}
+- {city: Kavala, defunct: false, founded: 1965, name: Kavala F.C., notes: '', real: true,
+  short_name: Kavala, slug: kavala}
+- {city: Kawasaki, defunct: false, founded: 1955, name: Kawasaki Frontale, notes: '',
+  real: true, short_name: Kawasaki Frontale, slug: kawasaki-frontale}
+- {city: Kayseri, defunct: false, founded: 1966, name: Kayserispor, notes: '', real: true,
+  short_name: Kayserispor, slug: kayserispor}
+- {city: '', defunct: false, founded: null, name: Kazakhstan national team, notes: '',
+  real: true, short_name: Kazakhstan, slug: kazakhstan}
+- {city: '', defunct: false, founded: null, name: Kenya national team, notes: '',
+  real: true, short_name: Kenya, slug: kenya}
+- {city: Kerkyra, defunct: false, founded: 1968, name: Kerkyra F.C., notes: '', real: true,
+  short_name: Kerkyra, slug: kerkyra}
+- {city: '', defunct: true, founded: null, name: Kevin8833, notes: '', real: false,
+  short_name: Kevin8833, slug: ''}
+- {city: Kilmarnock, defunct: false, founded: 1869, name: Kilmarnock Football Club,
+  notes: '', real: true, short_name: Kilmarnock, slug: kilmarnock}
+- {city: '', defunct: false, founded: null, name: Kiribati national team, notes: '',
+  real: true, short_name: Kiribati, slug: kiribati}
+- {city: Kortrijk, defunct: false, founded: 1901, name: Koninklijke Voetbalclub Kortrijk,
+  notes: '', real: true, short_name: Kortrijk, slug: kortrijk}
+- {city: Krasnodar, defunct: false, founded: 2007, name: FC Krasnodar, notes: '',
+  real: true, short_name: Krasnodar, slug: krasnodar}
+- {city: Samara, defunct: false, founded: 1942, name: FC Krylia Sovetov Samara, notes: '',
+  real: true, short_name: Krylia Sovetov Samara, slug: krylia-sovetov-samara}
+- {city: Krasnodar, defunct: false, founded: 1928, name: FC Kuban Krasnodar, notes: '',
+  real: true, short_name: Kuban Krasnodar, slug: kuban-krasnodar}
+- {city: '', defunct: true, founded: null, name: Kuhn & IASocFan, notes: '', real: false,
+  short_name: Kuhn & IASocFan, slug: ''}
+- {city: '', defunct: false, founded: null, name: Kuwait national team, notes: '',
+  real: true, short_name: Kuwait, slug: kuwait}
+- {city: '', defunct: false, founded: null, name: Kyrgyzstan national team, notes: '',
+  real: true, short_name: Kyrgyzstan, slug: kyrgyzstan}
+- {city: "Bogot\xE1", defunct: false, founded: 1990, name: Club Deportivo La Equidad
+    Seguros, notes: '', real: true, short_name: La Equidad, slug: la-equidad}
+- {city: '', defunct: true, founded: null, name: Landon Donovan, notes: '', real: false,
+  short_name: Landon Donovan, slug: ''}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1915, name: "Club Atl\xE9\
+    tico Lan\xFAs", notes: '', real: true, short_name: "Lan\xFAs ", slug: lanus}
+- {city: '', defunct: false, founded: null, name: Laos national team, notes: '', real: true,
+  short_name: Laos, slug: laos}
+- {city: Larissa, defunct: false, founded: 1964, name: Athletic Union of Larissa 1964,
+  notes: '', real: true, short_name: Larissa, slug: larissa}
+- {city: '', defunct: false, founded: null, name: Latvia national team, notes: '',
+  real: true, short_name: Latvia, slug: latvia}
+- {city: Rome, defunct: false, founded: 1900, name: "Societ\xE0 Sportiva Lazio", notes: '',
+  real: true, short_name: Lazio, slug: lazio}
+- {city: '', defunct: false, founded: null, name: Lebanon national team, notes: '',
+  real: true, short_name: Lebanon, slug: lebanon}
+- {city: Lecce, defunct: false, founded: 1908, name: Unione Sportiva Lecce, notes: '',
+  real: true, short_name: Lecce, slug: lecce}
+- {city: Leeds, defunct: false, founded: 1919, name: Leeds United Association Football
+    Club, notes: '', real: true, short_name: Leeds, slug: leeds}
+- {city: Leicester, defunct: false, founded: 1884, name: Leicester City Football Club,
+  notes: '', real: true, short_name: Leicester City, slug: leicester-city}
+- {city: '', defunct: false, founded: null, name: Lesotho national team, notes: '',
+  real: true, short_name: Lesotho, slug: lesotho}
+- {city: Valencia, defunct: false, founded: 1939, name: "Levante Uni\xF3n Deportiva,\
+    \ S.A.D.", notes: '', real: true, short_name: Levante UD, slug: levante-ud}
+- {city: Shenyang, defunct: false, founded: 1953, name: Liaoning Whowin Football Club,
+  notes: '', real: true, short_name: Liaoning Whowin, slug: liaoning-whowin}
+- {city: '', defunct: false, founded: null, name: Liberia national team, notes: '',
+  real: true, short_name: Liberia, slug: liberia}
+- {city: '', defunct: false, founded: null, name: Libya national team, notes: '',
+  real: true, short_name: Libya, slug: libya}
+- {city: '', defunct: false, founded: null, name: Liechtenstein national team, notes: '',
+  real: true, short_name: Liechtenstein, slug: liechtenstein}
+- {city: Lier, defunct: false, founded: 1906, name: Koninklijke Lierse Sportkring,
+  notes: '', real: true, short_name: Lierse, slug: lierse}
+- {city: Lille, defunct: false, founded: 1944, name: "LOSC Lille M\xE9tropole", notes: '',
+  real: true, short_name: Lille, slug: lille}
+- {city: "Lillestr\xF8m", defunct: false, founded: 1917, name: "Lillestr\xF8m Sportsklubb",
+  notes: '', real: true, short_name: "Lillestr\xF8m", slug: lillestrom}
+- {city: '', defunct: false, founded: null, name: Lithuania national team, notes: '',
+  real: true, short_name: Lithuania, slug: lithuania}
+- {city: 'Liverpool, England', defunct: false, founded: 1892, name: Liverpool Football
+    Club, notes: '', real: true, short_name: Liverpool, slug: liverpool}
+- {city: Livingston, defunct: false, founded: 1943, name: Livingston Football Club,
+  notes: '', real: true, short_name: Livingston, slug: livingston}
+- {city: '', defunct: true, founded: null, name: Lobolife/Hollaatyaboy, notes: '',
+  real: false, short_name: Lobolife/Hollaatyaboy, slug: ''}
+- {city: '', defunct: true, founded: null, name: Lobolife/Hollaatyaboy/KuhnScoot,
+  notes: '', real: false, short_name: Lobolife/Hollaatyaboy/KuhnScoot, slug: ''}
+- {city: '', defunct: true, founded: null, name: Lobolife/Kuhnscoot, notes: '', real: false,
+  short_name: Lobolife/Kuhnscoot, slug: ''}
+- {city: Lokeren, defunct: false, founded: 1923, name: Koninklijke Sporting Club Lokeren
+    Oost-Vlaanderen, notes: '', real: true, short_name: Lokeren, slug: lokeren}
+- {city: Moscow, defunct: false, founded: 1923, name: Lokomotiv Moscow, notes: '',
+  real: true, short_name: Lokomotiv Moscow, slug: lokomotiv-moscow}
+- {city: Lorient, defunct: false, founded: 1926, name: Football Club Lorient-Bretagne
+    Sud, notes: '', real: true, short_name: Lorient, slug: lorient}
+- {city: Los Angeles, defunct: false, founded: 2010, name: Los Angeles Blues, notes: '',
+  real: true, short_name: Los Angeles Blues, slug: los-angeles-blues}
+- {city: Los Angeles, defunct: false, founded: 1996, name: Los Angeles Galaxy, notes: '',
+  real: true, short_name: Los Angeles Galaxy, slug: los-angeles-galaxy}
+- {city: '', defunct: true, founded: null, name: Lurking, notes: '', real: false,
+  short_name: Lurking, slug: ''}
+- {city: '', defunct: false, founded: null, name: Luxembourg national team, notes: '',
+  real: true, short_name: Luxembourg, slug: luxembourg}
+- {city: Lyngby, defunct: false, founded: 1921, name: Lyngby Boldklub, notes: '',
+  real: true, short_name: Lyngby Boldklub, slug: lyngby-boldklub}
+- {city: Lyon, defunct: false, founded: 1889, name: Olympique Lyonnais, notes: '',
+  real: true, short_name: Lyon, slug: lyon}
+- {city: None, defunct: true, founded: 1996, name: MLS All-Stars, notes: '', real: true,
+  short_name: MLS All-Stars, slug: mls-all-stars}
+- {city: '', defunct: true, founded: null, name: MLSNHTOWN, notes: '', real: false,
+  short_name: MLSNHTOWN, slug: ''}
+- {city: '', defunct: true, founded: null, name: MLSNHTOWN & Kevin8833, notes: '',
+  real: false, short_name: MLSNHTOWN & Kevin8833, slug: ''}
+- {city: '', defunct: true, founded: null, name: MLSNHTOWN and Kevin8833, notes: '',
+  real: false, short_name: MLSNHTOWN and Kevin8833, slug: ''}
+- {city: '', defunct: true, founded: null, name: MLSNHTOWN/Elninho, notes: '', real: false,
+  short_name: MLSNHTOWN/Elninho, slug: ''}
+- {city: '', defunct: true, founded: null, name: MLSNHTOWN/WKU, notes: '', real: false,
+  short_name: MLSNHTOWN/WKU, slug: ''}
+- {city: Duisburg, defunct: false, founded: 1902, name: MSV Duisburg, notes: '', real: true,
+  short_name: MSV Duisburg, slug: msv-duisburg}
+- {city: '', defunct: false, founded: null, name: Macau national team, notes: '',
+  real: true, short_name: Macau, slug: macau}
+- {city: '', defunct: false, founded: null, name: Madagascar national team, notes: '',
+  real: true, short_name: Madagascar, slug: madagascar}
+- {city: '', defunct: false, founded: null, name: Malawi national team, notes: '',
+  real: true, short_name: Malawi, slug: malawi}
+- {city: '', defunct: false, founded: null, name: Malaysia national team, notes: '',
+  real: true, short_name: Malaysia, slug: malaysia}
+- {city: '', defunct: false, founded: null, name: Maldives national team, notes: '',
+  real: true, short_name: Maldives, slug: maldives}
+- {city: '', defunct: false, founded: null, name: Mali national team, notes: '', real: true,
+  short_name: Mali, slug: mali}
+- {city: "Malm\xF6", defunct: false, founded: 1910, name: "Malm\xF6 Fotbollf\xF6rening",
+  notes: '', real: true, short_name: "Malm\xF6 FF", slug: malmo-ff}
+- {city: '', defunct: false, founded: null, name: Malta national team, notes: '',
+  real: true, short_name: Malta, slug: malta}
+- {city: 'Manchester, England', defunct: false, founded: 1880, name: Manchester City
+    Football Club, notes: '', real: true, short_name: Manchester City, slug: manchester-city}
+- {city: 'Manchester, England', defunct: false, founded: 1878, name: Manchester United
+    F.C., notes: '', real: true, short_name: Manchester United, slug: manchester-united}
+- {city: Manisa, defunct: false, founded: 1965, name: Manisaspor, notes: '', real: true,
+  short_name: Manisaspor, slug: manisaspor}
+- {city: Maribor, defunct: false, founded: 1960, name: Nogometni Klub Maribor, notes: '',
+  real: true, short_name: Maribor, slug: maribor}
+- {city: Marseille, defunct: false, founded: 1899, name: Olympique de Marseille, notes: '',
+  real: true, short_name: Marseille, slug: marseille}
+- {city: '', defunct: false, founded: null, name: Marshall Islands national team,
+  notes: '', real: true, short_name: Marshall Islands, slug: marshall-islands}
+- {city: Funchal, defunct: false, founded: 1910, name: "Club Sport Mar\xEDtimo", notes: '',
+  real: true, short_name: "Mar\xEDtimo", slug: maritimo}
+- {city: '', defunct: false, founded: null, name: Mauritania national team, notes: '',
+  real: true, short_name: Mauritania, slug: mauritania}
+- {city: '', defunct: false, founded: null, name: Mauritius national team, notes: '',
+  real: true, short_name: Mauritius, slug: mauritius}
+- {city: '', defunct: true, founded: null, name: Maximum Optimal, notes: '', real: false,
+  short_name: Maximum Optimal, slug: ''}
+- {city: '', defunct: true, founded: null, name: Maximum Optimal/burud111, notes: '',
+  real: false, short_name: Maximum Optimal/burud111, slug: ''}
+- {city: '', defunct: true, founded: null, name: MaximumOptimal/Beazley17, notes: '',
+  real: false, short_name: MaximumOptimal/Beazley17, slug: ''}
+- {city: '', defunct: true, founded: null, name: McNaulty & soccrbom, notes: '', real: false,
+  short_name: McNaulty & soccrbom, slug: ''}
+- {city: '', defunct: true, founded: null, name: McNaulty & soccrbom2, notes: '',
+  real: false, short_name: McNaulty & soccrbom2, slug: ''}
+- {city: Mechelen, defunct: false, founded: 1904, name: Yellow Red Koninklijke Voetbalclub
+    Mechelen, notes: '', real: true, short_name: Mechelen, slug: mechelen}
+- {city: Melbourne, defunct: false, founded: 2008, name: Melbourne Heart FC, notes: '',
+  real: true, short_name: Melbourne Heart, slug: melbourne-heart}
+- {city: Melbourne, defunct: false, founded: 2004, name: Melbourne Victory Football
+    Club, notes: '', real: true, short_name: Melbourne Victory, slug: melbourne-victory}
+- {city: Mersin, defunct: false, founded: 1925, name: "Mersin \u0130dmanyurdu", notes: '',
+  real: true, short_name: "Mersin \u0130Y", slug: mersin-iy}
+- {city: '', defunct: false, founded: 1923, name: Mexico national team, notes: '',
+  real: true, short_name: Mexico, slug: mexico}
+- {city: Miami, defunct: true, founded: 1997, name: Miami Fusion F.C., notes: '',
+  real: true, short_name: Miami Fusion, slug: miami-fusion}
+- {city: Middlesbrough, defunct: false, founded: 1876, name: Middlesbrough Football
+    Club, notes: '', real: true, short_name: Middlesbrough, slug: middlesbrough}
+- {city: "Bogot\xE1", defunct: false, founded: 1946, name: Club Deportivo Los Millonarios,
+  notes: '', real: true, short_name: Millionarios, slug: millionarios}
+- {city: London, defunct: false, founded: 1885, name: Millwall Football Club, notes: '',
+  real: true, short_name: Millwall, slug: millwall}
+- {city: Milton Keynes, defunct: false, founded: 2004, name: Milton Keynes Dons Football
+    Club, notes: '', real: true, short_name: Milton Keynes Dons, slug: milton-keynes-dons}
+- {city: "Mj\xE4llby", defunct: false, founded: 1939, name: "Mj\xE4llby AIF", notes: '',
+  real: true, short_name: "Mj\xE4llby AIF", slug: mjallby-aif}
+- {city: Molde, defunct: false, founded: 1911, name: Molde Fotballklubb, notes: '',
+  real: true, short_name: Molde, slug: molde}
+- {city: '', defunct: false, founded: null, name: Moldova national team, notes: '',
+  real: true, short_name: Moldova, slug: moldova}
+- {city: '', defunct: false, founded: null, name: Monaco national team, notes: '',
+  real: true, short_name: Monaco, slug: monaco}
+- {city: '', defunct: false, founded: null, name: Mongolia national team, notes: '',
+  real: true, short_name: Mongolia, slug: mongolia}
+- {city: Mons, defunct: false, founded: 1909, name: R.A.E.C. Mons, notes: '', real: true,
+  short_name: Mons, slug: mons}
+- {city: "Tend\u014D, Yamagata", defunct: false, founded: 1984, name: Montedio Yamagata,
+  notes: '', real: true, short_name: Montedio Yamagata, slug: montedio-yamagata}
+- {city: '', defunct: false, founded: null, name: Montenegro national team, notes: '',
+  real: true, short_name: Montenegro, slug: montenegro}
+- {city: Montpellier, defunct: false, founded: 1974, name: "Montpellier H\xE9rault\
+    \ Sport Club", notes: '', real: true, short_name: Montpellier, slug: montpellier}
+- {city: Montreal, defunct: false, founded: 1992, name: Montreal Impact, notes: '',
+  real: true, short_name: Montreal Impact, slug: montreal-impact}
+- {city: '', defunct: false, founded: null, name: Montserrat national team, notes: '',
+  real: true, short_name: Montserrat, slug: montserrat}
+- {city: 'Morelia, Mexico', defunct: false, founded: 1924, name: "Club Atl\xE9tico\
+    \ Monarcas Morelia", notes: '', real: true, short_name: Morelia, slug: morelia}
+- {city: '', defunct: false, founded: null, name: Morocco national team, notes: '',
+  real: true, short_name: Morocco, slug: morocco}
+- {city: Tegucigalpa, defunct: false, founded: 1928, name: Club Deportivo Motagua,
+  notes: '', real: true, short_name: Motagua, slug: motagua}
+- {city: Motherwell, defunct: false, founded: 1886, name: Motherwell Football & Athletic
+    Club, notes: '', real: true, short_name: Motherwell, slug: motherwell}
+- {city: '', defunct: false, founded: null, name: Mozambique national team, notes: '',
+  real: true, short_name: Mozambique, slug: mozambique}
+- {city: 'Guatemala City, Guatemala', defunct: false, founded: 1936, name: Club Social
+    y Deportivo Municipal, notes: '', real: true, short_name: Municipal, slug: municipal}
+- {city: 'Murska Sobota ', defunct: false, founded: 2005, name: "Nogometno Dru\u0161\
+    tvo Mura 05", notes: '', real: true, short_name: Mura 05, slug: mura-05}
+- {city: '', defunct: false, founded: null, name: Myanmar (Burma) national team, notes: '',
+  real: true, short_name: Myanmar (Burma), slug: myanmar-burma}
+- {city: "M\xE1laga", defunct: false, founded: 1948, name: "M\xE1laga Club de F\xFA\
+    tbol", notes: '', real: true, short_name: "M\xE1laga CF", slug: malaga-cf}
+- {city: Breda, defunct: false, founded: 1912, name: NAC Breda, notes: '', real: true,
+  short_name: NAC Breda, slug: nac-breda}
+- {city: Nova Gorica, defunct: false, founded: 1947, name: ND Gorica, notes: '', real: true,
+  short_name: ND Gorica, slug: nd-gorica}
+- {city: Nijmegen, defunct: false, founded: 1900, name: Nijmegen Eendracht Combinatie,
+  notes: '', real: true, short_name: NEC, slug: nec}
+- {city: "NK Dom\u017Eale", defunct: false, founded: 1921, name: "NK Dom\u017Eale",
+  notes: '', real: true, short_name: "NK Dom\u017Eale", slug: nk-domzale}
+- {city: 'Blaine, Minnesota', defunct: false, founded: 2010, name: NSC Minnesota Stars,
+  notes: '', real: true, short_name: NSC Minnesota Stars, slug: nsc-minnesota-stars}
+- {city: Funchal, defunct: false, founded: 1910, name: Clube Desportivo Nacional,
+  notes: '', real: true, short_name: Nacional, slug: nacional}
+- {city: Lendava, defunct: false, founded: 1903, name: NK Nafta Lendava, notes: '',
+  real: true, short_name: Nafta, slug: nafta}
+- {city: Nagoya, defunct: false, founded: 1939, name: Nagoya Grampus, notes: '', real: true,
+  short_name: Nagoya Grampus, slug: nagoya-grampus}
+- {city: '', defunct: false, founded: null, name: Namibia national team, notes: '',
+  real: true, short_name: Namibia, slug: namibia}
+- {city: Nanchang, defunct: false, founded: 2004, name: Nanchang Hengyuan Football
+    Club, notes: '', real: true, short_name: Nanchang Hengyuan, slug: nanchang-hengyuan}
+- {city: Nancy, defunct: false, founded: 1967, name: Association Sportive Nancy-Lorraine,
+  notes: '', real: true, short_name: Nancy, slug: nancy}
+- {city: Naples, defunct: false, founded: 1926, name: "Societ\xE0 Sportiva Calcio\
+    \ Napoli", notes: '', real: true, short_name: Napoli, slug: napoli}
+- {city: '', defunct: false, founded: null, name: Nauru national team, notes: '',
+  real: true, short_name: Nauru, slug: nauru}
+- {city: Famagusta, defunct: false, founded: 1948, name: Nea Salamis Famagusta, notes: '',
+  real: true, short_name: Nea Salamis Famagusta, slug: nea-salamis-famagusta}
+- {city: 'Mexico City, Mexico', defunct: false, founded: 1923, name: Club Necaxa,
+  notes: '', real: true, short_name: Necaxa, slug: necaxa}
+- {city: '', defunct: false, founded: null, name: Nepal national team, notes: '',
+  real: true, short_name: Nepal, slug: nepal}
+- {city: '', defunct: false, founded: 1905, name: Netherlands national team, notes: '',
+  real: true, short_name: Netherlands, slug: netherlands}
+- {city: '', defunct: false, founded: null, name: Netherlands Antilles national team,
+  notes: '', real: true, short_name: Netherlands Antilles, slug: netherlands-antilles}
+- {city: "Neuch\xE2tel", defunct: false, founded: 1970, name: "Neuch\xE2tel Xamax\
+    \ Football Club", notes: '', real: true, short_name: "Neuch\xE2tel Xamax", slug: neuchatel-xamax}
+- {city: Boston, defunct: false, founded: 1995, name: New England Revolution, notes: '',
+  real: true, short_name: New England Revolution, slug: new-england-revolution}
+- {city: New York, defunct: false, founded: 1995, name: New York Red Bulls, notes: '',
+  real: true, short_name: New York Red Bulls, slug: new-york-red-bulls}
+- {city: '', defunct: false, founded: null, name: New Zealand national team, notes: '',
+  real: true, short_name: New Zealand, slug: new-zealand}
+- {city: 'Newcastle, England', defunct: false, founded: 1892, name: Newcastle United
+    Football Club, notes: '', real: true, short_name: Newcastle United, slug: newcastle-united}
+- {city: Newcastle, defunct: false, founded: 2000, name: Newcastle United Jets Football
+    Club, notes: '', real: true, short_name: Newcastle United Jets, slug: newcastle-united-jets}
+- {city: 'Rosario, Argentina', defunct: false, founded: 1903, name: "Club Atl\xE9\
+    tico Newell's Old Boys", notes: '', real: true, short_name: Newell's Old Boys,
+  slug: newells-old-boys}
+- {city: '', defunct: false, founded: null, name: Nicaragua national team, notes: '',
+  real: true, short_name: Nicaragua, slug: nicaragua}
+- {city: Nice, defunct: false, founded: 1904, name: "Olympique Gymnaste Club Nice\
+    \ C\xF4te d'Azur", notes: '', real: true, short_name: Nice, slug: nice}
+- {city: '', defunct: false, founded: null, name: Niger national team, notes: '',
+  real: true, short_name: Niger, slug: niger}
+- {city: '', defunct: false, founded: null, name: Nigeria national team, notes: '',
+  real: true, short_name: Nigeria, slug: nigeria}
+- {city: '', defunct: false, founded: null, name: Niue national team, notes: '', real: true,
+  short_name: Niue, slug: niue}
+- {city: '', defunct: false, founded: null, name: No Country national team, notes: '',
+  real: true, short_name: No Country, slug: no-country}
+- {city: No City, defunct: false, founded: 1, name: No Team, notes: '', real: true,
+  short_name: No Team, slug: no-team}
+- {city: '', defunct: false, founded: null, name: North Korea national team, notes: '',
+  real: true, short_name: North Korea, slug: north-korea}
+- {city: '', defunct: false, founded: null, name: Northern Ireland national team,
+  notes: '', real: true, short_name: Northern Ireland, slug: northern-ireland}
+- {city: '', defunct: false, founded: null, name: Northern Mariana Islands national
+    team, notes: '', real: true, short_name: Northern Mariana Islands, slug: northern-mariana-islands}
+- {city: '', defunct: false, founded: null, name: Norway national team, notes: '',
+  real: true, short_name: Norway, slug: norway}
+- {city: Norwich, defunct: false, founded: 1902, name: Norwich City Football Club,
+  notes: '', real: true, short_name: Norwich City, slug: norwich-city}
+- {city: West Bridgford, defunct: false, founded: 1865, name: Nottingham Forest Football
+    Club, notes: '', real: true, short_name: Nottingham Forest, slug: nottingham-forest}
+- {city: Nottingham, defunct: false, founded: 1862, name: Notts County Football Club,
+  notes: '', real: true, short_name: Notts County, slug: notts-county}
+- {city: Novara, defunct: false, founded: 1908, name: Novara Calcio, notes: '', real: true,
+  short_name: Novara, slug: novara}
+- {city: '', defunct: true, founded: null, name: Nutmeg, notes: '', real: false, short_name: Nutmeg,
+  slug: ''}
+- {city: Odense, defunct: false, founded: 1887, name: Odense Boldklub, notes: '',
+  real: true, short_name: OB, slug: ob}
+- {city: Leuven, defunct: false, founded: 2002, name: Oud-Heverlee Leuven, notes: '',
+  real: true, short_name: OH Leuven, slug: oh-leuven}
+- {city: Oldham, defunct: false, founded: 1895, name: Oldham Athletic Association
+    Football Club, notes: '', real: true, short_name: Oldham Athletic, slug: oldham-athletic}
+- {city: "Olh\xE3o", defunct: false, founded: 1912, name: Sporting Clube Olhanense,
+  notes: '', real: true, short_name: Olhanense, slug: olhanense}
+- {city: Ljubljana, defunct: false, founded: 2005, name: Nogometni Klub Olimpija Ljubljana,
+  notes: '', real: true, short_name: Olimpija, slug: olimpija}
+- {city: "Bah\xEDa Blanca, Argentina", defunct: false, founded: 1910, name: Club Olimpo,
+  notes: '', real: true, short_name: Olimpo, slug: olimpo}
+- {city: Piraeus, defunct: false, founded: 1925, name: Olympiacos F.C., notes: '',
+  real: true, short_name: Olympiacos, slug: olympiacos}
+- {city: Nicosia, defunct: false, founded: 1931, name: Olympiakos Nicosia, notes: '',
+  real: true, short_name: Olympiakos Nicosia, slug: olympiakos-nicosia}
+- {city: Volos, defunct: false, founded: 1937, name: Olympiakos Volou Football Club,
+  notes: '', real: true, short_name: Olympiakos Volou, slug: olympiakos-volou}
+- {city: '', defunct: false, founded: null, name: Oman national team, notes: '', real: true,
+  short_name: Oman, slug: oman}
+- {city: Saitama, defunct: false, founded: 1964, name: Omiya Ardija, notes: '', real: true,
+  short_name: Omiya Ardija, slug: omiya-ardija}
+- {city: Nicosia, defunct: false, founded: 1948, name: Athletic Club Omonoia Nicosia,
+  notes: '', real: true, short_name: Omonoia Nicosia, slug: omonoia-nicosia}
+- {city: Manizales, defunct: false, founded: 1959, name: "Corporaci\xF3n Deportiva\
+    \ Once Caldas", notes: '', real: true, short_name: Once Caldas, slug: once-caldas}
+- {city: Ordu, defunct: false, founded: 1967, name: Orduspor, notes: '', real: true,
+  short_name: Orduspor, slug: orduspor}
+- {city: Orlando, defunct: false, founded: 2010, name: Orlando City Soccer Club, notes: '',
+  real: true, short_name: Orlando City, slug: orlando-city}
+- {city: "Gala\u021Bi", defunct: false, founded: 1964, name: "Fotbal Club O\u021B\
+    elul Gala\u021Bi", notes: '', real: true, short_name: "O\u021Belul Gala\u021Bi",
+  slug: otelul-galati}
+- {city: Thessaloniki, defunct: false, founded: 1926, name: "Panthessalon\xEDkios\
+    \ Athlitik\xF3s \xD3milos Konstantinoupolit\xF3n", notes: '', real: true, short_name: PAOK,
+  slug: paok}
+- {city: Oleksandria, defunct: false, founded: 1991, name: PFC Oleksandria, notes: '',
+  real: true, short_name: PFC Oleksandria, slug: pfc-oleksandria}
+- {city: Eindhoven, defunct: false, founded: 1913, name: Philips Sport Vereniging,
+  notes: '', real: true, short_name: PSV, slug: psv}
+- {city: 'Pachuca, Mexico', defunct: false, founded: 1901, name: "Club de F\xFAtbol\
+    \ Pachuca", notes: '', real: true, short_name: Pachuca, slug: pachuca}
+- {city: '', defunct: false, founded: null, name: Pakistan national team, notes: '',
+  real: true, short_name: Pakistan, slug: pakistan}
+- {city: '', defunct: false, founded: null, name: Palau national team, notes: '',
+  real: true, short_name: Palau, slug: palau}
+- {city: Palermo, defunct: false, founded: 1900, name: "Unione Sportiva Citt\xE0 di\
+    \ Palermo", notes: '', real: true, short_name: Palermo, slug: palermo}
+- {city: '', defunct: false, founded: null, name: Palestine national team, notes: '',
+  real: true, short_name: Palestine, slug: palestine}
+- {city: "S\xE3o Paulo", defunct: false, founded: 1914, name: Sociedade Esportiva
+    Palmeiras, notes: '', real: true, short_name: Palmeiras, slug: palmeiras}
+- {city: '', defunct: false, founded: null, name: Panama national team, notes: '',
+  real: true, short_name: Panama, slug: panama}
+- {city: Athens, defunct: false, founded: 1908, name: Panathinaikos Football Club,
+  notes: '', real: true, short_name: Panathinaikos, slug: panathinaikos}
+- {city: "T\xE2rgu Jiu", defunct: false, founded: 1963, name: "Clubul Sportiv Pandurii\
+    \ Lignitul T\xE2rgu Jiu", notes: '', real: true, short_name: "Pandurii T\xE2rgu\
+    \ Jiu", slug: pandurii-targu-jiu}
+- {city: Nea Smyrni, defunct: false, founded: 1890, name: Panionios Gymnastikos Syllogos
+    Smyrnis, notes: '', real: true, short_name: Panionios G.S.S., slug: panionios-gss}
+- {city: Serres, defunct: false, founded: 1964, name: Panserraikos F.C., notes: '',
+  real: true, short_name: Panserraikos, slug: panserraikos}
+- {city: '', defunct: false, founded: null, name: Papua New Guinea national team,
+  notes: '', real: true, short_name: Papua New Guinea, slug: papua-new-guinea}
+- {city: '', defunct: false, founded: null, name: Paraguay national team, notes: '',
+  real: true, short_name: Paraguay, slug: paraguay}
+- {city: Paris, defunct: false, founded: 1970, name: Paris Saint-Germain Football
+    Club, notes: '', real: true, short_name: Paris Saint-Germain, slug: paris-saint-germain}
+- {city: Parma, defunct: false, founded: 1913, name: Parma Football Club, notes: '',
+  real: true, short_name: Parma, slug: parma}
+- {city: Glasgow, defunct: false, founded: 1876, name: Partick Thistle Football Club,
+  notes: 'Actually based in Maryhill region of Glasgow, not Partick Thistle.', real: true,
+  short_name: Partick Thistle, slug: partick-thistle}
+- {city: "Pa\xE7os de Ferreira", defunct: false, founded: 1950, name: "Futebol Clube\
+    \ Pa\xE7os de Ferreira", notes: '', real: true, short_name: "Pa\xE7os de Ferreira",
+  slug: pacos-de-ferreira}
+- {city: Perth, defunct: false, founded: 1996, name: Perth Glory Football Club, notes: '',
+  real: true, short_name: Perth Glory, slug: perth-glory}
+- {city: '', defunct: false, founded: null, name: Peru national team, notes: '', real: true,
+  short_name: Peru, slug: peru}
+- {city: Peterborough, defunct: false, founded: 1934, name: Peterborough United Football
+    Club, notes: '', real: true, short_name: Peterborough United, slug: peterborough-united}
+- {city: "Ploie\u0219ti", defunct: false, founded: 1952, name: "Fotbal Club Petrolul\
+    \ Ploie\u0219ti", notes: '', real: true, short_name: "Petrolul Ploie\u0219ti",
+  slug: petrolul-ploiesti}
+- {city: Philadelphia, defunct: false, founded: 2008, name: Philadelphia Union, notes: '',
+  real: true, short_name: Philadelphia Union, slug: philadelphia-union}
+- {city: '', defunct: false, founded: null, name: Philippines national team, notes: '',
+  real: true, short_name: Philippines, slug: philippines}
+- {city: '', defunct: false, founded: null, name: Pitcairn Islands national team,
+  notes: '', real: true, short_name: Pitcairn Islands, slug: pitcairn-islands}
+- {city: 'Pittsburgh, Pennsylvania', defunct: false, founded: 1999, name: Pittsburgh
+    Riverhounds, notes: '', real: true, short_name: Pittsburgh Riverhounds, slug: pittsburgh-riverhounds}
+- {city: Pohang, defunct: false, founded: 1973, name: Pohang Steelers, notes: '',
+  real: true, short_name: Pohang Steelers, slug: pohang-steelers}
+- {city: '', defunct: false, founded: null, name: Poland national team, notes: '',
+  real: true, short_name: Poland, slug: poland}
+- {city: 'Portland, Oregon', defunct: false, founded: 2009, name: Portland Timbers,
+  notes: '', real: true, short_name: Portland Timbers, slug: portland-timbers}
+- {city: Porto, defunct: false, founded: 1893, name: Futebol Clube do Porto, notes: '',
+  real: true, short_name: Porto, slug: porto}
+- {city: 'Portsmouth, England', defunct: false, founded: 1898, name: Portsmouth Football
+    Club, notes: '', real: true, short_name: Portsmouth, slug: portsmouth}
+- {city: '', defunct: false, founded: 1921, name: Portugal national team, notes: '',
+  real: true, short_name: Portugal, slug: portugal}
+- {city: Preston, defunct: false, founded: 1881, name: Preston North End Football
+    Club, notes: '', real: true, short_name: Preston North End, slug: preston-north-end}
+- {city: 'Puebla, Mexico', defunct: false, founded: 1904, name: Puebla Futbol Club,
+  notes: '', real: true, short_name: Puebla, slug: puebla}
+- {city: '', defunct: false, founded: null, name: Puerto Rico national team, notes: '',
+  real: true, short_name: Puerto Rico, slug: puerto-rico}
+- {city: "Bayam\xF3n, Puerto Rico", defunct: false, founded: 2003, name: Puerto Rico
+    Islanders, notes: '', real: true, short_name: Puerto Rico Islanders, slug: puerto-rico-islanders}
+- {city: 'Aguada, Puerto Rico', defunct: false, founded: 2007, name: Puerto Rico United,
+  notes: '', real: true, short_name: Puerto Rico United, slug: puerto-rico-united}
+- {city: London, defunct: false, founded: 1882, name: Queens Park Rangers Football
+    Club, notes: '', real: true, short_name: QPR, slug: qpr}
+- {city: '', defunct: false, founded: null, name: Qatar national team, notes: '',
+  real: true, short_name: Qatar, slug: qatar}
+- {city: Qingdao, defunct: false, founded: 1990, name: Qingdao Jonoon Football Club,
+  notes: '', real: true, short_name: Qingdao Jonoon, slug: qingdao-jonoon}
+- {city: Dumfries, defunct: false, founded: 1919, name: Queen of the South Football
+    Club, notes: '', real: true, short_name: Queen of the South, slug: queen-of-the-south}
+- {city: "Quer\xE9taro, Mexico", defunct: false, founded: 1950, name: "Quer\xE9taro\
+    \ F\xFAtbol Club", notes: '', real: true, short_name: "Quer\xE9taro", slug: queretaro}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1887, name: "Quilmes\
+    \ Atl\xE9tico Club", notes: '', real: true, short_name: Quilmes, slug: quilmes}
+- {city: Barcelona, defunct: false, founded: 1900, name: Reial Club Deportiu Espanyol
+    de Barcelona, notes: '', real: true, short_name: RCD Espanyol, slug: rcd-espanyol}
+- {city: Mallorca, defunct: false, founded: 1916, name: Real Club Deportivo Mallorca,
+  notes: '', real: true, short_name: RCD Mallorca, slug: rcd-mallorca}
+- {city: '', defunct: true, founded: null, name: REVS FAN 1/revolutionfan, notes: '',
+  real: false, short_name: REVS FAN 1/revolutionfan, slug: ''}
+- {city: '', defunct: true, founded: null, name: REVS FAN1/revolutionfan, notes: '',
+  real: false, short_name: REVS FAN1/revolutionfan, slug: ''}
+- {city: '', defunct: true, founded: null, name: REVS FAN1/revolutionfan (SupahRevs),
+  notes: '', real: false, short_name: REVS FAN1/revolutionfan (SupahRevs), slug: ''}
+- {city: Waalwijk, defunct: false, founded: 1940, name: RKC Waalwijk, notes: '', real: true,
+  short_name: RKC Waalwijk, slug: rkc-waalwijk}
+- {city: 'Avellaneda, Argentina', defunct: false, founded: 1903, name: Racing Club
+    de Avellaneda, notes: '', real: true, short_name: Racing, slug: racing}
+- {city: Santander, defunct: false, founded: 1913, name: 'Real Racing Club de Santander,
+    S.A.D.', notes: '', real: true, short_name: Racing Santander, slug: racing-santander}
+- {city: Kirkcaldy, defunct: false, founded: 1883, name: Raith Rovers Football Club,
+  notes: '', real: true, short_name: Raith Rovers, slug: raith-rovers}
+- {city: Glasgow, defunct: false, founded: 1872, name: Rangers Football Club, notes: '',
+  real: true, short_name: Rangers, slug: rangers}
+- {city: Bucharest, defunct: false, founded: 1923, name: "Fotbal Club Rapid Bucure\u015F\
+    ti", notes: '', real: true, short_name: "Rapid Bucure\u015Fti", slug: rapid-bucuresti}
+- {city: Vienna, defunct: false, founded: 1899, name: Sportklub Rapid Wien, notes: '',
+  real: true, short_name: Rapid Wien, slug: rapid-wien}
+- {city: Madrid, defunct: false, founded: 1924, name: 'Rayo Vallecano de Madrid, S.A.D.',
+  notes: '', real: true, short_name: Rayo Vallecano, slug: rayo-vallecano}
+- {city: Reading, defunct: false, founded: 1871, name: Reading Football Club, notes: '',
+  real: true, short_name: Reading, slug: reading}
+- {city: Seville, defunct: false, founded: 1907, name: "Real Betis Balompi\xE9 S.A.D.",
+  notes: '', real: true, short_name: Real Betis, slug: real-betis}
+- {city: Cartagena, defunct: false, founded: 1971, name: Real Cartagena, notes: '',
+  real: true, short_name: Real Cartagena, slug: real-cartagena}
+- {city: 'San Pedro Sula, Honduras', defunct: false, founded: 1929, name: "Real Club\
+    \ Deportivo Espa\xF1a", notes: '', real: true, short_name: "Real Espa\xF1a", slug: real-espana}
+- {city: Madrid, defunct: false, founded: 1902, name: "Real Madrid Club de F\xFAtbol",
+  notes: '', real: true, short_name: Real Madrid, slug: real-madrid}
+- {city: Salt Lake City, defunct: false, founded: 2004, name: Real Salt Lake, notes: '',
+  real: true, short_name: Real Salt Lake, slug: real-salt-lake}
+- {city: "San Sebasti\xE1n", defunct: false, founded: 1909, name: "Real Sociedad de\
+    \ F\xFAtbol, S.A.D.", notes: '', real: true, short_name: Real Sociedad, slug: real-sociedad}
+- {city: Zaragoza, defunct: false, founded: 1932, name: 'Real Zaragoza, S.A.D.', notes: '',
+  real: true, short_name: Real Zaragoza, slug: real-zaragoza}
+- {city: Salzburg, defunct: false, founded: 1933, name: FC Red Bull Salzburg, notes: '',
+  real: true, short_name: Red Bull Salzburg, slug: red-bull-salzburg}
+- {city: Rennes, defunct: false, founded: 1901, name: Stade Rennais Football Club,
+  notes: '', real: true, short_name: Rennes, slug: rennes}
+- {city: '', defunct: false, founded: null, name: Republic of China (Taiwan) national
+    team, notes: '', real: true, short_name: Republic of China (Taiwan), slug: republic-of-china-taiwan}
+- {city: '', defunct: false, founded: null, name: Republic of Macedonia national team,
+  notes: '', real: true, short_name: Republic of Macedonia, slug: republic-of-macedonia}
+- {city: '', defunct: false, founded: null, name: Republic of the Congo national team,
+  notes: '', real: true, short_name: Republic of the Congo, slug: republic-of-the-congo}
+- {city: '', defunct: true, founded: null, name: RevPOWA, notes: '', real: false,
+  short_name: RevPOWA, slug: ''}
+- {city: '', defunct: true, founded: null, name: RevsFan/revolutionfan, notes: '',
+  real: false, short_name: RevsFan/revolutionfan, slug: ''}
+- {city: 'Richmond, Virginia', defunct: false, founded: 1993, name: Richmond Kickers,
+  notes: '', real: true, short_name: Richmond Kickers, slug: richmond-kickers}
+- {city: Vila do Conde, defunct: false, founded: 1939, name: Rio Ave Futebol Clube,
+  notes: '', real: true, short_name: Rio Ave, slug: rio-ave}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1901, name: "Club Atl\xE9\
+    tico River Plate", notes: '', real: true, short_name: River Plate, slug: river-plate}
+- {city: 'Old San Juan, Puerto Rico', defunct: false, founded: 2007, name: River Plate
+    Puerto Rico, notes: '', real: true, short_name: River Plate Puerto Rico, slug: river-plate-puerto-rico}
+- {city: Rochdale, defunct: false, founded: 1907, name: Rochdale Association Football
+    Club, notes: '', real: true, short_name: Rochdale, slug: rochdale}
+- {city: Rochester, defunct: false, founded: 1996, name: Rochester Rhinos, notes: '',
+  real: true, short_name: Rochester Rhinos, slug: rochester-rhinos}
+- {city: Kerkrade, defunct: false, founded: 1962, name: Vereniging Roda Juliana Combinatie
+    Kerkrade, notes: '', real: true, short_name: Roda JC, slug: roda-jc}
+- {city: Rome, defunct: false, founded: 1927, name: Associazione Sportiva Roma, notes: '',
+  real: true, short_name: Roma, slug: roma}
+- {city: '', defunct: false, founded: null, name: Romania national team, notes: '',
+  real: true, short_name: Romania, slug: romania}
+- {city: Trondheim, defunct: false, founded: 1917, name: Rosenborg Ballklub, notes: '',
+  real: true, short_name: Rosenborg, slug: rosenborg}
+- {city: Dingwall, defunct: false, founded: 1929, name: Ross County Football Club,
+  notes: '', real: true, short_name: Ross County, slug: ross-county}
+- {city: Rostov-on-Don, defunct: false, founded: 1930, name: FC Rostov, notes: '',
+  real: true, short_name: Rostov, slug: rostov}
+- {city: Oberhausen, defunct: false, founded: 1904, name: "Rot-Wei\xDF Oberhausen",
+  notes: '', real: true, short_name: "Rot-Wei\xDF Oberhausen", slug: rot-weiss-oberhausen}
+- {city: Kazan, defunct: false, founded: 1958, name: FC Rubin Kazan, notes: '', real: true,
+  short_name: Rubin Kazan, slug: rubin-kazan}
+- {city: Velenje, defunct: false, founded: 1948, name: NK Rudar Velenje, notes: '',
+  real: true, short_name: Rudar, slug: rudar}
+- {city: '', defunct: false, founded: null, name: Russia national team, notes: '',
+  real: true, short_name: Russia, slug: russia}
+- {city: '', defunct: false, founded: null, name: Rwanda national team, notes: '',
+  real: true, short_name: Rwanda, slug: rwanda}
+- {city: Braga, defunct: false, founded: 1921, name: Sporting Clube de Braga, notes: '',
+  real: true, short_name: S.C. Braga, slug: sc-braga}
+- {city: Freiburg, defunct: false, founded: 1904, name: Sport-Club Freiburg, notes: '',
+  real: true, short_name: SC Freiburg, slug: sc-freiburg}
+- {city: Paderborn, defunct: false, founded: 1907, name: SC Paderborn 07, notes: '',
+  real: true, short_name: SC Paderborn, slug: sc-paderborn}
+- {city: Simferopol, defunct: false, founded: 1958, name: SC Tavriya Simferopol, notes: '',
+  real: true, short_name: SC Tavriya Simferopol, slug: sc-tavriya-simferopol}
+- {city: Mattersburg, defunct: false, founded: 1922, name: SV Mattersburg, notes: '',
+  real: true, short_name: SV Mattersburg, slug: sv-mattersburg}
+- {city: Ried im Innkreis, defunct: false, founded: 1912, name: SV Ried, notes: '',
+  real: true, short_name: SV Ried, slug: sv-ried}
+- {city: '', defunct: true, founded: null, name: Sachsen, notes: '', real: false,
+  short_name: Sachsen, slug: ''}
+- {city: '', defunct: false, founded: null, name: Saint Helena national team, notes: '',
+  real: true, short_name: Saint Helena, slug: saint-helena}
+- {city: '', defunct: false, founded: null, name: Saint Kitts and Nevis national team,
+  notes: '', real: true, short_name: Saint Kitts and Nevis, slug: saint-kitts-and-nevis}
+- {city: '', defunct: false, founded: null, name: Saint Lucia national team, notes: '',
+  real: true, short_name: Saint Lucia, slug: saint-lucia}
+- {city: '', defunct: false, founded: null, name: Saint Vincent and the Grenadines
+    national team, notes: '', real: true, short_name: Saint Vincent and the Grenadines,
+  slug: saint-vincent-and-the-grenadines}
+- {city: "Saint-\xC9tienne", defunct: false, founded: 1919, name: "Association Sportive\
+    \ de Saint-\xC9tienne Loire", notes: '', real: true, short_name: "Saint-\xC9tienne",
+  slug: saint-etienne}
+- {city: '', defunct: false, founded: null, name: Samoa national team, notes: '',
+  real: true, short_name: Samoa, slug: samoa}
+- {city: Samsun, defunct: false, founded: 1965, name: Samsunspor, notes: '', real: true,
+  short_name: Samsunspor, slug: samsunspor}
+- {city: San Jose, defunct: false, founded: 1995, name: San Jose Earthquakes, notes: '',
+  real: true, short_name: San Jose Earthquakes, slug: san-jose-earthquakes}
+- {city: 'Port of Spain, Trinidad and Tobago', defunct: false, founded: 1974, name: San
+    Juan Jabloteh, notes: '', real: true, short_name: 'San Juan Jabloteh ', slug: san-juan-jabloteh}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1908, name: San Lorenzo
+    de Almagro, notes: '', real: true, short_name: San Lorenzo, slug: san-lorenzo}
+- {city: "San Luis Potos\xED, Mexico", defunct: false, founded: 1957, name: "San Luis\
+    \ F\xFAtbol Club", notes: '', real: true, short_name: San Luis, slug: san-luis}
+- {city: '', defunct: false, founded: null, name: San Marino national team, notes: '',
+  real: true, short_name: San Marino, slug: san-marino}
+- {city: Hiroshima, defunct: false, founded: 1938, name: Sanfrecce Hiroshima, notes: '',
+  real: true, short_name: Sanfrecce Hiroshima, slug: sanfrecce-hiroshima}
+- {city: Sangju, defunct: false, founded: 1984, name: Sangju Sangmu Phoenix Football
+    Club, notes: Founded 2011 as Sangju Sangmu Phoenix, real: true, short_name: Sangju
+    Sangmu Phoenix, slug: sangju-sangmu-phoenix}
+- {city: "Bogot\xE1", defunct: false, founded: 1941, name: "Santa Fe Corporaci\xF3\
+    n Deportiva", notes: '', real: true, short_name: Santa Fe, slug: santa-fe}
+- {city: "Santos, S\xE3o Paulo", defunct: false, founded: 1912, name: Santos Futebol
+    Clube, notes: '', real: true, short_name: Santos, slug: santos}
+- {city: "Torre\xF3n, Coahuila", defunct: false, founded: 1983, name: Club Santos
+    Laguna, notes: '', real: true, short_name: Santos Laguna, slug: santos-laguna}
+- {city: "San Jos\xE9, Costa Rica", defunct: false, founded: 1935, name: Deportivo
+    Saprissa S.A.D., notes: '', real: true, short_name: Saprissa, slug: saprissa}
+- {city: '', defunct: false, founded: null, name: Saudi Arabia national team, notes: '',
+  real: true, short_name: Saudi Arabia, slug: saudi-arabia}
+- {city: '', defunct: true, founded: null, name: ScaryIce, notes: '', real: false,
+  short_name: ScaryIce, slug: ''}
+- {city: '', defunct: true, founded: null, name: Scaryice, notes: '', real: false,
+  short_name: Scaryice, slug: ''}
+- {city: GelsenKirchen, defunct: false, founded: 1904, name: "Fu\xDFball-Club Gelsenkirchen-Schalke\
+    \ 04", notes: '', real: true, short_name: Schalke 04, slug: schalke-04}
+- {city: '', defunct: false, founded: 1872, name: Scotland national team, notes: '',
+  real: true, short_name: Scotland, slug: scotland}
+- {city: Scunthorpe, defunct: false, founded: 1899, name: Scunthorpe United Football
+    Club, notes: '', real: true, short_name: Scunthorpe United, slug: scunthorpe-united}
+- {city: '', defunct: true, founded: null, name: Sean.../Geneva, notes: '', real: false,
+  short_name: Sean.../Geneva, slug: ''}
+- {city: '', defunct: true, founded: null, name: Sean.../Twenty26Six, notes: '', real: false,
+  short_name: Sean.../Twenty26Six, slug: ''}
+- {city: '', defunct: true, founded: null, name: Sean/Geneva, notes: '', real: false,
+  short_name: Sean/Geneva, slug: ''}
+- {city: '', defunct: true, founded: null, name: Sean_Irish_LAGalaxy/Geneva, notes: '',
+  real: false, short_name: Sean_Irish_LAGalaxy/Geneva, slug: ''}
+- {city: '', defunct: true, founded: null, name: Sean_Irish_LAGalaxy/Geneva (L.A.
+    DOUBLE TROUBLE), notes: '', real: false, short_name: Sean_Irish_LAGalaxy/Geneva
+    (L.A. DOUBLE TROUBLE), slug: ''}
+- {city: Seattle, defunct: false, founded: 2007, name: Seattle Sounders FC, notes: '',
+  real: true, short_name: Seattle Sounders, slug: seattle-sounders}
+- {city: '', defunct: false, founded: null, name: Senegal national team, notes: '',
+  real: true, short_name: Senegal, slug: senegal}
+- {city: Seongnam, defunct: false, founded: 1989, name: Seongnam Ilhwa Chunma Football
+    Club, notes: '', real: true, short_name: Seongnam Ilhwa Chunma, slug: seongnam-ilhwa-chunma}
+- {city: '', defunct: false, founded: null, name: Serbia national team, notes: '',
+  real: true, short_name: Serbia, slug: serbia}
+- {city: Sevilla, defunct: false, founded: 1905, name: "Sevilla F\xFAtbol Club S.A.D.",
+  notes: '', real: true, short_name: Sevilla FC, slug: sevilla-fc}
+- {city: 'Juncos, Puerto Rico', defunct: false, founded: 2006, name: Sevilla Puerto
+    Rico, notes: '', real: true, short_name: Sevilla Puerto Rico, slug: sevilla-puerto-rico}
+- {city: '', defunct: false, founded: null, name: Seychelles national team, notes: '',
+  real: true, short_name: Seychelles, slug: seychelles}
+- {city: Xi'an, defunct: false, founded: 1995, name: Shaanxi Renhe Commercial Chanba
+    FC, notes: '', real: true, short_name: Shaanxi Renhe, slug: shaanxi-renhe}
+- {city: Donetsk, defunct: false, founded: 1936, name: 'FC Shakhtar Donetsk ', notes: '',
+  real: true, short_name: 'Shakhtar Donetsk ', slug: shakhtar-donetsk}
+- {city: Jinan, defunct: false, founded: 1988, name: Shandong Luneng Taishan F.C.,
+  notes: '', real: true, short_name: Shandong Luneng, slug: shandong-luneng}
+- {city: Shanghai, defunct: false, founded: 1993, name: Shanghai Shenhua Football
+    Club, notes: '', real: true, short_name: Shanghai Shenhua, slug: shanghai-shenhua}
+- {city: Sheffield, defunct: false, founded: 1889, name: Sheffield United Football
+    Club, notes: '', real: true, short_name: Sheffield United, slug: sheffield-united}
+- {city: Sheffield, defunct: false, founded: 1867, name: Sheffield Wednesday Football
+    Club, notes: '', real: true, short_name: Sheffield Wednesday, slug: sheffield-wednesday}
+- {city: Shenzhen, defunct: false, founded: 1994, name: Shenzhen Ruby Football Club,
+  notes: '', real: true, short_name: Shenzhen Ruby, slug: shenzhen-ruby}
+- {city: Shimizu, defunct: false, founded: 1991, name: Shimizu S-Pulse, notes: '',
+  real: true, short_name: Shimizu S-Pulse, slug: shimizu-s-pulse}
+- {city: '', defunct: true, founded: null, name: Short Corner, notes: '', real: false,
+  short_name: Short Corner, slug: ''}
+- {city: '', defunct: true, founded: null, name: ShortCorner, notes: '', real: false,
+  short_name: ShortCorner, slug: ''}
+- {city: Siena, defunct: false, founded: 1904, name: Associazione Calcio Siena, notes: '',
+  real: true, short_name: Siena, slug: siena}
+- {city: '', defunct: false, founded: null, name: Sierra Leone national team, notes: '',
+  real: true, short_name: Sierra Leone, slug: sierra-leone}
+- {city: Silkeborg, defunct: false, founded: 1917, name: Silkeborg IF, notes: '',
+  real: true, short_name: Silkeborg IF, slug: silkeborg-if}
+- {city: '', defunct: false, founded: null, name: Singapore national team, notes: '',
+  real: true, short_name: Singapore, slug: singapore}
+- {city: Sint-Truiden, defunct: false, founded: 1924, name: Koninklijke Sint-Truidense
+    Voetbalvereniging, notes: '', real: true, short_name: Sint-Truiden, slug: sint-truiden}
+- {city: Sivas, defunct: false, founded: 1967, name: Sivasspor, notes: '', real: true,
+  short_name: Sivasspor, slug: sivasspor}
+- {city: Xanthi, defunct: false, founded: 1967, name: Skoda Xanthi F.C., notes: '',
+  real: true, short_name: Skoda Xanthi, slug: skoda-xanthi}
+- {city: '', defunct: false, founded: null, name: Slovakia national team, notes: '',
+  real: true, short_name: Slovakia, slug: slovakia}
+- {city: '', defunct: false, founded: null, name: Slovenia national team, notes: '',
+  real: true, short_name: Slovenia, slug: slovenia}
+- {city: '', defunct: true, founded: null, name: Soccerbom/IASocFan, notes: '', real: false,
+  short_name: Soccerbom/IASocFan, slug: ''}
+- {city: '', defunct: true, founded: null, name: Soccrbom2/IASocFan, notes: '', real: false,
+  short_name: Soccrbom2/IASocFan, slug: ''}
+- {city: "Montb\xE9liard", defunct: false, founded: 1928, name: "Football Club Sochaux-Montb\xE9\
+    liard", notes: '', real: true, short_name: Sochaux, slug: sochaux}
+- {city: '', defunct: false, founded: null, name: Solomon Islands national team, notes: '',
+  real: true, short_name: Solomon Islands, slug: solomon-islands}
+- {city: '', defunct: false, founded: null, name: Somalia national team, notes: '',
+  real: true, short_name: Somalia, slug: somalia}
+- {city: '', defunct: false, founded: null, name: South Africa national team, notes: '',
+  real: true, short_name: South Africa, slug: south-africa}
+- {city: '', defunct: false, founded: null, name: South Korea national team, notes: '',
+  real: true, short_name: South Korea, slug: south-korea}
+- {city: Southampton, defunct: false, founded: 1885, name: Southampton Football Club,
+  notes: '', real: true, short_name: Southampton, slug: southampton}
+- {city: "F\xFCrth", defunct: false, founded: 1903, name: "SpVgg Greuther F\xFCrth",
+  notes: '', real: true, short_name: "SpVgg Greuther F\xFCrth", slug: spvgg-greuther-furth}
+- {city: '', defunct: false, founded: 1920, name: Spain national team, notes: '',
+  real: true, short_name: Spain, slug: spain}
+- {city: Moscow, defunct: false, founded: 1922, name: FC Spartak Moscow, notes: '',
+  real: true, short_name: Spartak Moscow, slug: spartak-moscow}
+- {city: Nalchik, defunct: false, founded: 1935, name: PFC Spartak Nalchik, notes: '',
+  real: true, short_name: Spartak-Nalchik, slug: spartak-nalchik}
+- {city: Lisbon, defunct: false, founded: 1906, name: Sporting Clube de Portugal,
+  notes: '', real: true, short_name: Sporting CP, slug: sporting-cp}
+- {city: Kansas City, defunct: false, founded: 1995, name: Sporting Kansas City, notes: '',
+  real: true, short_name: Sporting Kansas City, slug: kansas-city}
+- {city: "Gij\xF3n", defunct: false, founded: 1905, name: "Real Sporting de Gij\xF3\
+    n, S.A.D.", notes: '', real: true, short_name: "Sporting de Gij\xF3n", slug: sporting-de-gijon}
+- {city: Bucharest, defunct: false, founded: 1916, name: "FC Sportul Studen\u0163\
+    esc Bucure\u015Fti ", notes: '', real: true, short_name: "Sportul Studen\u0163\
+    esc", slug: sportul-studentesc}
+- {city: '', defunct: false, founded: null, name: Sri Lanka national team, notes: '',
+  real: true, short_name: Sri Lanka, slug: sri-lanka}
+- {city: Paisley, defunct: false, founded: 1877, name: St Mirren Football Club, notes: '',
+  real: true, short_name: St Mirren, slug: st-mirren}
+- {city: St. Gallen, defunct: false, founded: 1879, name: Football Club St. Gallen
+    1879, notes: '', real: true, short_name: St. Gallen, slug: st-gallen}
+- {city: Perth, defunct: false, founded: 1884, name: St. Johnstone F.C., notes: '',
+  real: true, short_name: St. Johnstone, slug: st-johnstone}
+- {city: "B\xE6rum", defunct: false, founded: 1912, name: "Stab\xE6k Fotball", notes: '',
+  real: true, short_name: "Stab\xE6k", slug: stabaek}
+- {city: "Li\xE8ge", defunct: false, founded: 1898, name: "Royal Standard de Li\xE8\
+    ge", notes: '', real: true, short_name: "Standard Li\xE8ge", slug: standard-liege}
+- {city: '', defunct: true, founded: null, name: StarsAndStripesFan/aceterp, notes: '',
+  real: false, short_name: StarsAndStripesFan/aceterp, slug: ''}
+- {city: Bucharest, defunct: false, founded: 1947, name: "Fotbal Club Steaua Bucure\u0219\
+    ti", notes: '', real: true, short_name: "Steaua Bucure\u0219ti", slug: steaua-bucuresti}
+- {city: Stenhousemuir, defunct: false, founded: 1884, name: Stenhousemuir Football
+    Club, notes: '', real: true, short_name: Stenhousemuir, slug: stenhousemuir}
+- {city: Stevenage, defunct: false, founded: 1976, name: Stevenage Football Club,
+  notes: '', real: true, short_name: Stevenage, slug: stevenage}
+- {city: Albion, defunct: false, founded: 1945, name: Stirling Albion Football Club,
+  notes: '', real: true, short_name: Stirling Albion, slug: stirling-albion}
+- {city: '', defunct: true, founded: null, name: Stogey23, notes: '', real: false,
+  short_name: Stogey23, slug: ''}
+- {city: 'Stoke-on-Trent, England', defunct: false, founded: 1863, name: Stoke City
+    Football Club, notes: '', real: true, short_name: Stoke City, slug: stoke-city}
+- {city: Drammen, defunct: false, founded: 1907, name: "Str\xF8msgodset Idrettsforening",
+  notes: '', real: true, short_name: "Str\xF8msgodset", slug: stromsgodset}
+- {city: Graz, defunct: false, founded: 1909, name: SK Sturm Graz, notes: '', real: true,
+  short_name: Sturm Graz, slug: sturm-graz}
+- {city: '', defunct: false, founded: null, name: Sudan national team, notes: '',
+  real: true, short_name: Sudan, slug: sudan}
+- {city: Sunderland, defunct: false, founded: 1879, name: Sunderland Association Football
+    Club, notes: '', real: true, short_name: Sunderland, slug: sunderland}
+- {city: '', defunct: false, founded: null, name: Suriname national team, notes: '',
+  real: true, short_name: Suriname, slug: suriname}
+- {city: Suwon, defunct: false, founded: 1995, name: Suwon Samsung Bluewings, notes: '',
+  real: true, short_name: Suwon Samsung Bluewings, slug: suwon-samsung-bluewings}
+- {city: Swansea, defunct: false, founded: 1912, name: Swansea City Association Football
+    Club, notes: '', real: true, short_name: Swansea City, slug: swansea-city}
+- {city: '', defunct: false, founded: null, name: Swaziland national team, notes: '',
+  real: true, short_name: Swaziland, slug: swaziland}
+- {city: '', defunct: false, founded: null, name: Sweden national team, notes: '',
+  real: true, short_name: Sweden, slug: sweden}
+- {city: '', defunct: false, founded: null, name: Switzerland national team, notes: '',
+  real: true, short_name: Switzerland, slug: switzerland}
+- {city: Sydney, defunct: false, founded: 2004, name: Sydney FC, notes: '', real: true,
+  short_name: Sydney FC, slug: sydney-fc}
+- {city: '', defunct: false, founded: null, name: Syria national team, notes: '',
+  real: true, short_name: Syria, slug: syria}
+- {city: "S\xF6dert\xE4lje", defunct: false, founded: 1977, name: Syrianska FC, notes: '',
+  real: true, short_name: Syrianska FC, slug: syrianska-fc}
+- {city: "S\xE3o Paulo", defunct: false, founded: 1930, name: "S\xE3o Paulo Futebol\
+    \ Clube", notes: '', real: true, short_name: "S\xE3o Paulo", slug: sao-paulo}
+- {city: '', defunct: false, founded: null, name: "S\xE3o Tom\xE9 and Pr\xEDncipe\
+    \ national team", notes: '', real: true, short_name: "S\xE3o Tom\xE9 and Pr\xED\
+    ncipe", slug: sao-tome-and-principe}
+- {city: Haderslev, defunct: false, founded: 1906, name: "S\xF8nderjyskE", notes: '',
+  real: true, short_name: "S\xF8nderjyskE", slug: sonderjyske}
+- {city: '', defunct: false, founded: null, name: Tajikistan national team, notes: '',
+  real: true, short_name: Tajikistan, slug: tajikistan}
+- {city: Tampa Bay, defunct: true, founded: 1995, name: Tampa Bay Mutiny, notes: '',
+  real: true, short_name: Tampa Bay Mutiny, slug: tampa-bay-mutiny}
+- {city: '', defunct: false, founded: null, name: Tanzania national team, notes: '',
+  real: true, short_name: Tanzania, slug: tanzania}
+- {city: 'Guadalajara, Mexico', defunct: false, founded: 1935, name: Club de Futbol
+    Estudiantes, notes: '', real: true, short_name: Tecos, slug: tecos}
+- {city: Grozny, defunct: false, founded: 1958, name: FC Terek Grozny, notes: '',
+  real: true, short_name: Terek Grozny, slug: terek-grozny}
+- {city: '', defunct: false, founded: null, name: Thailand national team, notes: '',
+  real: true, short_name: Thailand, slug: thailand}
+- {city: Tianjin, defunct: false, founded: 1998, name: Tianjin Teda FC, notes: '',
+  real: true, short_name: Tianjin Teda FC, slug: tianjin-teda-fc}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1902, name: "Club Atl\xE9\
+    tico Tigre", notes: '', real: true, short_name: Tigre, slug: tigre}
+- {city: Tijuana, defunct: false, founded: 2007, name: "Club de F\xFAtbol Tijuana\
+    \ Xoloitzcuintles de Caliente", notes: '', real: true, short_name: Tijuana, slug: tijuana}
+- {city: '', defunct: false, founded: null, name: Togo national team, notes: '', real: true,
+  short_name: Togo, slug: togo}
+- {city: '', defunct: false, founded: null, name: Tokelau national team, notes: '',
+  real: true, short_name: Tokelau, slug: tokelau}
+- {city: 'Toluca, Mexico', defunct: false, founded: 1917, name: "Deportivo Toluca\
+    \ F\xFAtbol Club", notes: '', real: true, short_name: Toluca, slug: toluca}
+- {city: Tomsk, defunct: false, founded: 1957, name: FC Tom Tomsk, notes: '', real: true,
+  short_name: Tom Tomsk, slug: tom-tomsk}
+- {city: '', defunct: false, founded: null, name: Tonga national team, notes: '',
+  real: true, short_name: Tonga, slug: tonga}
+- {city: '', defunct: true, founded: null, name: Toolhead, notes: '', real: false,
+  short_name: Toolhead, slug: ''}
+- {city: Toronto, defunct: false, founded: 2006, name: Toronto FC, notes: '', real: true,
+  short_name: Toronto FC, slug: toronto-fc}
+- {city: 'London, England', defunct: false, founded: 1882, name: Tottenham Hotspur
+    F.C., notes: '', real: true, short_name: Tottenham Hotspur, slug: tottenham-hotspur}
+- {city: Toulouse, defunct: false, founded: 1970, name: Toulouse Football Club, notes: '',
+  real: true, short_name: Toulouse, slug: toulouse}
+- {city: Trabzon, defunct: false, founded: 1967, name: Trabzonspor, notes: '', real: true,
+  short_name: Trabzonspor, slug: trabzonspor}
+- {city: Birkenhead, defunct: false, founded: 1884, name: Tranmere Rovers Football
+    Club, notes: '', real: true, short_name: Tranmere Rovers, slug: tranmere-rovers}
+- {city: Trelleborg, defunct: false, founded: 1926, name: Trelleborgs FF, notes: '',
+  real: true, short_name: Trelleborgs FF, slug: trelleborgs-ff}
+- {city: Kranj, defunct: false, founded: 1920, name: ND Triglav Kranj, notes: '',
+  real: true, short_name: Triglav, slug: triglav}
+- {city: '', defunct: false, founded: null, name: Trinidad and Tobago national team,
+  notes: '', real: true, short_name: Trinidad and Tobago, slug: trinidad-and-tobago}
+- {city: "Troms\xF8", defunct: false, founded: 1920, name: "Troms\xF8 Idrettslag",
+  notes: '', real: true, short_name: "Troms\xF8", slug: tromso}
+- {city: '', defunct: false, founded: null, name: Tunisia national team, notes: '',
+  real: true, short_name: Tunisia, slug: tunisia}
+- {city: '', defunct: false, founded: 1923, name: Turkey national team, notes: '',
+  real: true, short_name: Turkey, slug: turkey}
+- {city: '', defunct: false, founded: null, name: Turkmenistan national team, notes: '',
+  real: true, short_name: Turkmenistan, slug: turkmenistan}
+- {city: '', defunct: false, founded: null, name: Turks and Caicos Islands national
+    team, notes: '', real: true, short_name: Turks and Caicos Islands, slug: turks-and-caicos-islands}
+- {city: '', defunct: false, founded: null, name: Tuvalu national team, notes: '',
+  real: true, short_name: Tuvalu, slug: tuvalu}
+- {city: Enschede, defunct: false, founded: 1965, name: FC Twente, notes: '', real: true,
+  short_name: Twente, slug: twente}
+- {city: '', defunct: false, founded: null, name: U.S. Virgin Islands national team,
+  notes: '', real: true, short_name: U.S. Virgin Islands, slug: us-virgin-islands}
+- {city: "San Nicol\xE1s, Mexico", defunct: false, founded: 1960, name: "Tigres de\
+    \ la Universidad Aut\xF3noma de Nuevo Le\xF3n", notes: '', real: true, short_name: UANL
+    Tigres, slug: uanl}
+- {city: 'Mexico City, Mexico', defunct: false, founded: 1954, name: Club Universidad
+    Nacional A.C., notes: '', real: true, short_name: UNAM Pumas, slug: unam}
+- {city: Udine, defunct: false, founded: 1896, name: Udinese Calcio, notes: '', real: true,
+  short_name: Udinese, slug: udinese}
+- {city: '', defunct: false, founded: null, name: Uganda national team, notes: '',
+  real: true, short_name: Uganda, slug: uganda}
+- {city: '', defunct: false, founded: null, name: Ukraine national team, notes: '',
+  real: true, short_name: Ukraine, slug: ukraine}
+- {city: Incheon, defunct: false, founded: 1983, name: Ulsan Hyundai Football Club,
+  notes: '', real: true, short_name: Ulsan Hyundai, slug: ulsan-hyundai}
+- {city: '', defunct: false, founded: null, name: United Arab Emirates national team,
+  notes: '', real: true, short_name: United Arab Emirates, slug: united-arab-emirates}
+- {city: '', defunct: false, founded: null, name: United Kingdom national team, notes: '',
+  real: true, short_name: United Kingdom, slug: united-kingdom}
+- {city: '', defunct: false, founded: 1885, name: United States national team, notes: '',
+  real: true, short_name: United States, slug: united-states}
+- {city: Cluj, defunct: false, founded: 1919, name: Fotbal Club Universitatea Cluj,
+  notes: '', real: true, short_name: Universitatea Cluj, slug: universitatea-cluj}
+- {city: Marinha Grande, defunct: false, founded: 1966, name: "Uni\xE3o Desportiva\
+    \ de Leiria", notes: '', real: true, short_name: "Uni\xE3o de Leiria", slug: uniao-de-leiria}
+- {city: Saitama, defunct: false, founded: 1950, name: Urawa Red Diamonds, notes: '',
+  real: true, short_name: Urawa Red Diamonds, slug: urawa-red-diamonds}
+- {city: '', defunct: false, founded: 1901, name: Uruguay national team, notes: '',
+  real: true, short_name: Uruguay, slug: uruguay}
+- {city: '', defunct: false, founded: null, name: Uzbekistan national team, notes: '',
+  real: true, short_name: Uzbekistan, slug: uzbekistan}
+- {city: Venlo, defunct: false, founded: 1903, name: VVV-Venlo, notes: '', real: true,
+  short_name: VVV-Venlo, slug: vvv-venlo}
+- {city: Valencia, defunct: false, founded: 1919, name: "Valencia Club de F\xFAtbol",
+  notes: '', real: true, short_name: Valencia CF, slug: valencia-cf}
+- {city: Valenciennes, defunct: false, founded: 1913, name: Valenciennes Football
+    Club, notes: '', real: true, short_name: Valenciennes, slug: valenciennes}
+- {city: 'Vancouver, British Columbia', defunct: false, founded: 2009, name: Vancouver
+    Whitecaps FC, notes: '', real: true, short_name: Vancouver Whitecaps FC, slug: vancouver-whitecaps}
+- {city: '', defunct: false, founded: null, name: Vanuatu national team, notes: '',
+  real: true, short_name: Vanuatu, slug: vanuatu}
+- {city: Rio de Janeiro, defunct: false, founded: 1898, name: Club de Regatas Vasco
+    da Gama, notes: '', real: true, short_name: Vasco da Gama, slug: vasco-da-gama}
+- {city: '', defunct: false, founded: null, name: Vatican City national team, notes: '',
+  real: true, short_name: Vatican City, slug: vatican-city}
+- {city: 'Izumi-ku, Sendai', defunct: false, founded: 1988, name: Vegalta Sendai,
+  notes: '', real: true, short_name: Vegalta Sendai, slug: vegalta-sendal}
+- {city: '', defunct: false, founded: null, name: Venezuela national team, notes: '',
+  real: true, short_name: Venezuela, slug: venezuela}
+- {city: Kofu, defunct: false, founded: 1965, name: Ventforet Kofu, notes: '', real: true,
+  short_name: Ventforet Kofu, slug: ventforet-kofu}
+- {city: Stuttgart, defunct: false, founded: 1893, name: "Verein f\xFCr Bewegungsspiele\
+    \ Stuttgart 1893 e. V.", notes: '', real: true, short_name: VfB Stuttgart, slug: vfb-stuttgart}
+- {city: Bochum, defunct: false, founded: 1848, name: "Verein f\xFCr Leibes\xFCbungen\
+    \ Bochum 1848 Fu\xDFballgemeinschaft", notes: '', real: true, short_name: VfL
+    Bochum, slug: vfl-bochum}
+- {city: "Osnabr\xFCck", defunct: false, founded: 1899, name: "VfL Osnabr\xFCck",
+  notes: '', real: true, short_name: "VfL Osnabr\xFCck", slug: vfl-osnabruck}
+- {city: Wolfsburg, defunct: false, founded: 1945, name: VfL Wolfsburg, notes: '',
+  real: true, short_name: VfL Wolfsburg, slug: vfl-wolfsburg}
+- {city: '', defunct: false, founded: null, name: Vietnam national team, notes: '',
+  real: true, short_name: Vietnam, slug: vietnam}
+- {city: Vila-real, defunct: false, founded: 1923, name: "Villarreal Club de F\xFA\
+    tbol, S.A.D.", notes: '', real: true, short_name: Villareal CF, slug: villareal-cf}
+- {city: Kobe, defunct: false, founded: 1966, name: Vissel Kobe, notes: '', real: true,
+  short_name: Vissel Kobe, slug: vissel-kobe}
+- {city: Arnhem, defunct: false, founded: 1892, name: Stichting Betaald Voetbal Vitesse,
+  notes: '', real: true, short_name: Vitesse, slug: vitesse}
+- {city: "Guimar\xE3es", defunct: false, founded: 1922, name: "Vit\xF3ria Sport Clube",
+  notes: '', real: true, short_name: "Vit\xF3ria de Guimar\xE3es", slug: vitoria-de-guimaraes}
+- {city: "Set\xFAbal", defunct: false, founded: 1910, name: "Vit\xF3ria Futebol Clube",
+  notes: '', real: true, short_name: "Vit\xF3ria de Set\xFAbal", slug: vitoria-de-setubal}
+- {city: Nizhny Novgorod, defunct: false, founded: 1963, name: FC Volga Nizhny Novgorod,
+  notes: '', real: true, short_name: Volga Nizhny Novgorod, slug: volga-nizhny-novgorod}
+- {city: 'Buenos Aires, Argentina', defunct: false, founded: 1910, name: "Club Atl\xE9\
+    tico V\xE9lez S\xE1rsfield", notes: '', real: true, short_name: "V\xE9lez S\xE1\
+    rsfield ", slug: velez-sarsfield}
+- {city: 'Marabella, Trinidad and Tobago', defunct: false, founded: 1986, name: W
+    Connection, notes: '', real: true, short_name: W Connection, slug: w-connection}
+- {city: '', defunct: true, founded: null, name: WKU Philthy, notes: '', real: false,
+  short_name: WKU Philthy, slug: ''}
+- {city: '', defunct: true, founded: null, name: WKU/Donofan_10, notes: '', real: false,
+  short_name: WKU/Donofan_10, slug: ''}
+- {city: Innsbruck, defunct: false, founded: 2002, name: FC Wacker Innsbruck, notes: '',
+  real: true, short_name: Wacker Innsbruck, slug: wacker-innsbruck}
+- {city: '1876', defunct: false, founded: null, name: Wales national team, notes: '',
+  real: true, short_name: Wales, slug: wales}
+- {city: Walsall, defunct: false, founded: 1888, name: Walsall Football Club, notes: '',
+  real: true, short_name: Walsall, slug: walsall}
+- {city: Watford, defunct: false, founded: 1881, name: Watford Football Club, notes: '',
+  real: true, short_name: Watford, slug: watford}
+- {city: Wellington, defunct: false, founded: 2007, name: Wellington Phoenix Football
+    Club, notes: '', real: true, short_name: Wellington Phoenix, slug: wellington-phoenix}
+- {city: Bremen, defunct: false, founded: 1899, name: SV Werder Bremen, notes: '',
+  real: true, short_name: Werder Bremen, slug: werder-bremen}
+- {city: 'West Bromwich, England', defunct: false, founded: 1878, name: West Bromwich
+    Albion Football Club, notes: '', real: true, short_name: West Bromwich Albion,
+  slug: west-bromwich-albion}
+- {city: 'London, England', defunct: false, founded: 1895, name: West Ham United Football
+    Club, notes: '', real: true, short_name: West Ham, slug: west-ham}
+- {city: Westerlo, defunct: false, founded: 1942, name: Koninklijke Voetbal Club Westerlo,
+  notes: '', real: true, short_name: Westerlo, slug: westerlo}
+- {city: '', defunct: false, founded: null, name: Western Sahara national team, notes: '',
+  real: true, short_name: Western Sahara, slug: western-sahara}
+- {city: Wiener Neustadt, defunct: false, founded: 2008, name: SC Magna Wiener Neustadt,
+  notes: '', real: true, short_name: Wiener Neustadt, slug: wiener-neustadt}
+- {city: 'Wigan, England', defunct: false, founded: 1932, name: Wigan Athletic Football
+    Club, notes: '', real: true, short_name: Wigan, slug: wigan}
+- {city: Wilmington, defunct: false, founded: 1996, name: Wilmington Hammerheads,
+  notes: '', real: true, short_name: Wilmington Hammerheads, slug: wilmington-hammerheads}
+- {city: Wolverhampton, defunct: false, founded: 1877, name: Wolverhampton Wanderers
+    Football Club, notes: '', real: true, short_name: Wolves, slug: wolves}
+- {city: High Wycombe, defunct: false, founded: 1887, name: Wycombe Wanderers Football
+    Club, notes: '', real: true, short_name: Wycombe Wanderers, slug: wycombe-wanderers}
+- {city: '', defunct: false, founded: null, name: Yemen national team, notes: '',
+  real: true, short_name: Yemen, slug: yemen}
+- {city: Yeovil, defunct: false, founded: 1895, name: Yeovil Town Football Club, notes: '',
+  real: true, short_name: Yeovil Town, slug: yeovil-town}
+- {city: Yokohama, defunct: false, founded: 1972, name: Yokohama F. Marinos, notes: '',
+  real: true, short_name: Yokohama F. Marinos, slug: yokohama-f-marinos}
+- {city: Bern, defunct: false, founded: 1898, name: Berner Sport Club Young Boys 1898,
+  notes: '', real: true, short_name: Young Boys, slug: young-boys}
+- {city: '', defunct: false, founded: null, name: Zambia national team, notes: '',
+  real: true, short_name: Zambia, slug: zambia}
+- {city: St. Petersburg, defunct: false, founded: 1925, name: Football Club Zenit,
+  notes: '', real: true, short_name: Zenit St. Petersburg, slug: zenit-st-petersburg}
+- {city: '', defunct: false, founded: null, name: Zimbabwe national team, notes: '',
+  real: true, short_name: Zimbabwe, slug: zimbabwe}
+- {city: Waregem, defunct: false, founded: 2001, name: Sportvereniging Zulte Waregem,
+  notes: '', real: true, short_name: Zulte Waregem, slug: zulte-wergem}
+- {city: '', defunct: true, founded: null, name: aceterp/Tavo2311, notes: '', real: false,
+  short_name: aceterp/Tavo2311, slug: ''}
+- {city: '', defunct: true, founded: null, name: apoo0onu, notes: '', real: false,
+  short_name: apoo0onu, slug: ''}
+- {city: '', defunct: true, founded: null, name: appooOnU, notes: '', real: false,
+  short_name: appooOnU, slug: ''}
+- {city: '', defunct: true, founded: null, name: arkadygelman, notes: '', real: false,
+  short_name: arkadygelman, slug: ''}
+- {city: '', defunct: true, founded: null, name: babytiger 2001, notes: '', real: false,
+  short_name: babytiger 2001, slug: ''}
+- {city: '', defunct: true, founded: null, name: babytiger2001, notes: '', real: false,
+  short_name: babytiger2001, slug: ''}
+- {city: '', defunct: true, founded: null, name: babytiger2001 & mrsbabytiger2001,
+  notes: '', real: false, short_name: babytiger2001 & mrsbabytiger2001, slug: ''}
+- {city: '', defunct: true, founded: null, name: babytiger2001 & mrsbabytiger2001
+    (Team ZTU), notes: '', real: false, short_name: babytiger2001 & mrsbabytiger2001
+    (Team ZTU), slug: ''}
+- {city: '', defunct: true, founded: null, name: babytiger2001/mrsbabytiger2001, notes: '',
+  real: false, short_name: babytiger2001/mrsbabytiger2001, slug: ''}
+- {city: '', defunct: true, founded: null, name: bluedaddy19, notes: '', real: false,
+  short_name: bluedaddy19, slug: ''}
+- {city: '', defunct: true, founded: null, name: davenport & beazley17, notes: '',
+  real: false, short_name: davenport & beazley17, slug: ''}
+- {city: '', defunct: true, founded: null, name: davenport and beazley17, notes: '',
+  real: false, short_name: davenport and beazley17, slug: ''}
+- {city: '', defunct: true, founded: null, name: elninho/MLSNHTOWN, notes: '', real: false,
+  short_name: elninho/MLSNHTOWN, slug: ''}
+- {city: '', defunct: true, founded: null, name: giffenbone, notes: '', real: false,
+  short_name: giffenbone, slug: ''}
+- {city: '', defunct: true, founded: null, name: goatnutsgoal/joesoccerfan, notes: '',
+  real: false, short_name: goatnutsgoal/joesoccerfan, slug: ''}
+- {city: '', defunct: true, founded: null, name: gomichigan24, notes: '', real: false,
+  short_name: gomichigan24, slug: ''}
+- {city: '', defunct: true, founded: null, name: harper916, notes: '', real: false,
+  short_name: harper916, slug: ''}
+- {city: '', defunct: true, founded: null, name: hartbeat, notes: '', real: false,
+  short_name: hartbeat, slug: ''}
+- {city: '', defunct: true, founded: null, name: harttbeat, notes: '', real: false,
+  short_name: harttbeat, slug: ''}
+- {city: '', defunct: true, founded: null, name: headhunter, notes: '', real: false,
+  short_name: headhunter, slug: ''}
+- {city: '', defunct: true, founded: null, name: joesoccerfan, notes: '', real: false,
+  short_name: joesoccerfan, slug: ''}
+- {city: '', defunct: true, founded: null, name: joshc & KennyWoo, notes: '', real: false,
+  short_name: joshc & KennyWoo, slug: ''}
+- {city: '', defunct: true, founded: null, name: joshc and KennyWoo, notes: '', real: false,
+  short_name: joshc and KennyWoo, slug: ''}
+- {city: '', defunct: true, founded: null, name: kuhnscoot/IASocFan, notes: '', real: false,
+  short_name: kuhnscoot/IASocFan, slug: ''}
+- {city: '', defunct: true, founded: null, name: lurking, notes: '', real: false,
+  short_name: lurking, slug: ''}
+- {city: '', defunct: true, founded: null, name: manutd02, notes: '', real: false,
+  short_name: manutd02, slug: ''}
+- {city: '', defunct: true, founded: null, name: numerista/ChrisE, notes: '', real: false,
+  short_name: numerista/ChrisE, slug: ''}
+- {city: '', defunct: true, founded: null, name: red&black1, notes: '', real: false,
+  short_name: red&black1, slug: ''}
+- {city: '', defunct: true, founded: null, name: red&black1/ChrisE, notes: '', real: false,
+  short_name: red&black1/ChrisE, slug: ''}
+- {city: '', defunct: true, founded: null, name: ryebreadraz, notes: '', real: false,
+  short_name: ryebreadraz, slug: ''}
+- {city: '', defunct: true, founded: null, name: scaryice, notes: '', real: false,
+  short_name: scaryice, slug: ''}
+- {city: '', defunct: true, founded: null, name: scaryice/Nutmeg, notes: '', real: false,
+  short_name: scaryice/Nutmeg, slug: ''}
+- {city: '', defunct: true, founded: null, name: short corner/speed ball, notes: '',
+  real: false, short_name: short corner/speed ball, slug: ''}
+- {city: '', defunct: true, founded: null, name: short corner/speedball, notes: '',
+  real: false, short_name: short corner/speedball, slug: ''}
+- {city: '', defunct: true, founded: null, name: soccerholligan32, notes: '', real: false,
+  short_name: soccerholligan32, slug: ''}
+- {city: '', defunct: true, founded: null, name: soccerholligan32/Jasonisimo, notes: '',
+  real: false, short_name: soccerholligan32/Jasonisimo, slug: ''}
+- {city: '', defunct: true, founded: null, name: soccerholligan32/short corner/speedball,
+  notes: '', real: false, short_name: soccerholligan32/short corner/speedball, slug: ''}
+- {city: '', defunct: true, founded: null, name: suppity/dfb547490, notes: '', real: false,
+  short_name: suppity/dfb547490, slug: ''}
+- {city: '', defunct: true, founded: null, name: swedcrip, notes: '', real: false,
+  short_name: swedcrip, slug: ''}
+- {city: '', defunct: true, founded: null, name: thacharger, notes: '', real: false,
+  short_name: thacharger, slug: ''}
+- {city: "Col\xF3n, Panama", defunct: false, founded: 1994, name: "Club Deportivo\
+    \ \xC1rabe Unido", notes: '', real: true, short_name: "\xC1rabe Unido", slug: arabe-unido}
+- {city: "\xD6rebro", defunct: false, founded: 1908, name: "\xD6rebro SK", notes: '',
+  real: true, short_name: "\xD6rebro SK", slug: obebro-sk}
+- {city: Istanbul, defunct: false, founded: 1990, name: "\u0130stanbul B\xFCy\xFC\
+    k\u015Fehir Belediyespor", notes: '', real: true, short_name: "\u0130stanbul B.B.",
+  slug: istanbul-bb}
