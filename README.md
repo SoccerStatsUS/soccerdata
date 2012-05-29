@@ -1,5 +1,8 @@
 
 
+* Fix Brooklyn Hakoah name mapping (other ASL name mappings.)
+* Draw graph of seasons.
+
 0. Fix giant ASL team name bug issue - easy but producing a lot of errors.
 1. Convert bios to yaml.
 2. Consider moving aliases into data.
