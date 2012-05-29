@@ -659,7 +659,7 @@ Philadelphia Field Club	1923-1924	ASL		27	Newark	a	2,1	Nicholson, Gibson
 Philadelphia Field Club	1923-1924	ASL	2	9	NY Giants	a	2,3	Cox 2	
 Philadelphia Field Club	1923-1924	ASL		16	Bethlehem	h	1,2	Bishop	
 Philadelphia Field Club	1923-1924	ASL	3	1	New York	h	1,1	Curran	
-Philadelphia Field Club	1923-1924	ASL		2	Brooklyn	h	3,4	Andrews, Curran 2	
+Philadelphia Field Club	1923-1924	ASL		8	Brooklyn	h	3,4	Andrews, Curran 2	
 Philadelphia Field Club	1923-1924	ASL		15	Fall River Marksmen	h	0,3		
 Philadelphia Field Club	1923-1924	ASL		22	J&P Coats	a	2,3	Andrews, Shearer	
 Philadelphia Field Club	1923-1924	ASL		23	Fall River Marksmen	a	0,4		
@@ -1954,7 +1954,7 @@ Newark Skeeters	1926-1927	ASL		14	Springfield	h	3,0
 Newark Skeeters	1926-1927	ASL		20	Springfield	a	1,2		
 Newark Skeeters	1926-1927	ASL		21	Philadelphia	h	2,1		
 Newark Skeeters	1926-1927	ASL		25	Indiana	h	3,2		
-Newark Skeeters	1926-1927	ASL		27	Fall River Marksmen	h	1,3		
+Newark Skeeters	1926-1927	ASL		28	Fall River Marksmen	h	1,3		
 Newark Skeeters	1926-1927	ASL	12	12	Brooklyn	a	3,2		
 Newark Skeeters	1926-1927	ASL		19	NY Giants	h	4,3		
 Newark Skeeters	1926-1927	ASL		25	Indiana	h	0,0		
@@ -2930,7 +2930,7 @@ Fall River Marksmen	1928-1929 Second Half	ASL	1	19	Boston	a	2,0
 Fall River Marksmen	1928-1929 Second Half	ASL		20	Providence	a	3,0		
 Fall River Marksmen	1928-1929 Second Half	ASL		26	J&P Coats	a	0,1		
 Fall River Marksmen	1928-1929 Second Half	ASL		27	Boston	h	0,1		
-Fall River Marksmen	1928-1929 Second Half	ASL	2	2	Brooklyn	h	2,2		
+Fall River Marksmen	1928-1929 Second Half	ASL	2	3	Brooklyn	h	2,2		
 Fall River Marksmen	1928-1929 Second Half	ASL		10	New Bedford	a	4,1		
 Fall River Marksmen	1928-1929 Second Half	ASL		12	NY Nationals	a	0,0		
 Fall River Marksmen	1928-1929 Second Half	ASL		17	J&P Coats	h	0,0		
@@ -3004,13 +3004,13 @@ J&P Coats	1928-1929 Second Half	ASL		9	NY Nationals	h	6,2
 J&P Coats	1928-1929 Second Half	ASL		16	Philadelphia	a	2,3		
 J&P Coats	1928-1929 Second Half	ASL		17	NY Nationals	a	1,3		
 J&P Coats	1928-1929 Second Half	ASL		23	Brooklyn	h	4,0		
-J&P Coats	1928-1929 Second Half	ASL		30	Fall River Marksmen	h	1,2		
-J&P Coats	1928-1929 Second Half	ASL		31	Providence	a	0,1		
-J&P Coats	1928-1929 Second Half	ASL	4	6	NY Nationals	a	3,2		
-J&P Coats	1928-1929 Second Half	ASL		13	Providence	h	3,1		
-J&P Coats	1928-1929 Second Half	ASL		14	Fall River Marksmen	a	1,0		
-J&P Coats	1928-1929 Second Half	ASL		19	Boston	a	1,4		
-J&P Coats	1928-1929 Second Half	ASL		20	Boston	h	3,1		
+Pawtucket Rangers	1928-1929 Second Half	ASL		30	Fall River Marksmen	h	1,2		
+Pawtucket Rangers	1928-1929 Second Half	ASL		31	Providence	a	0,1		
+Pawtucket Rangers	1928-1929 Second Half	ASL	4	6	NY Nationals	a	3,2		
+Pawtucket Rangers	1928-1929 Second Half	ASL		13	Providence	h	3,1		
+Pawtucket Rangers	1928-1929 Second Half	ASL		14	Fall River Marksmen	a	1,0		
+Pawtucket Rangers	1928-1929 Second Half	ASL		19	Boston	a	1,4		
+Pawtucket Rangers	1928-1929 Second Half	ASL		20	Boston	h	3,1		
 
 New Bedford Whalers	1928-1929 First Half	ASL	9	1	J&P Coats	a	1,1		
 New Bedford Whalers	1928-1929 First Half	ASL		8	NY Nationals	h	1,2		
@@ -3053,7 +3053,7 @@ New Bedford Whalers	1928-1929 Second Half	ASL		23	J&P Coats	a	2,3
 New Bedford Whalers	1928-1929 Second Half	ASL		24	Fall River Marksmen	a	0,2		
 New Bedford Whalers	1928-1929 Second Half	ASL	3	3	Brooklyn	a	3,2		
 New Bedford Whalers	1928-1929 Second Half	ASL		9	Brooklyn	h	1,1		
-New Bedford Whalers	1928-1929 Second Half	ASL		10	Philadelphia	a	2,3		
+New Bedford Whalers	1928-1929 Second Half	ASL		10	Providence	a	2,3		
 New Bedford Whalers	1928-1929 Second Half	ASL		17	Boston	h	4,0		
 
 New York Giants	1928-1929 First Half	ASL	9	2	NY Nationals	a	1,5		
@@ -3250,7 +3250,7 @@ Brooklyn Hakoah	1929 First Half	ASL		25	New Bedford	h	4,1
 Brooklyn Hakoah	1929 First Half	ASL		28	NY Nationals	a	4,5		
 Brooklyn Hakoah	1929 First Half	ASL	9	2	Fall River Marksmen	h	3,6		
 Brooklyn Hakoah	1929 First Half	ASL		5	Fall River Marksmen	a	2,5		
-Brooklyn Hakoah	1929 First Half	ASL		14	Philadelphia	a	1,2		
+Brooklyn Hakoah	1929 First Half	ASL		14	Philadelphia 1929 Fall	a	1,2		
 Brooklyn Hakoah	1929 First Half	ASL		15	NY Nationals	h	1,5		
 Brooklyn Hakoah	1929 First Half	ASL		21	New Bedford	a	1,2		
 Brooklyn Hakoah	1929 First Half	ASL		22	Providence	a	3,4		
@@ -3268,8 +3268,8 @@ Brooklyn Wanderers	1929 First Half	ASL		31	NY Nationals	a	4,3
 Brooklyn Wanderers	1929 First Half	ASL	9	1	Boston	h	0,2		
 Brooklyn Wanderers	1929 First Half	ASL		7	Boston	a	0,4		
 Brooklyn Wanderers	1929 First Half	ASL		8	New Bedford	h	2,4		
-Brooklyn Wanderers	1929 First Half	ASL		15	Philadelphia	h	0,0		
-Brooklyn Wanderers	1929 First Half	ASL		21	Philadelphia	a	4,3		
+Brooklyn Wanderers	1929 First Half	ASL		15	Philadelphia 1929 Fall	h	0,0		
+Brooklyn Wanderers	1929 First Half	ASL		21	Philadelphia 1929 Fall	a	4,3		
 Brooklyn Wanderers	1929 First Half	ASL		22	Pawtucket	h	0,2		
 Brooklyn Wanderers	1929 First Half	ASL		28	New Bedford	a	4,2		
 Brooklyn Wanderers	1929 First Half	ASL		29	NY Nationals	h	1,3		
@@ -3332,8 +3332,8 @@ New York Nationals	1929 First Half	ASL	9	2	Bridgeport	a	3,1
 New York Nationals	1929 First Half	ASL		8	Boston	h	2,4		
 New York Nationals	1929 First Half	ASL		11	Bridgeport	h	5,1		
 New York Nationals	1929 First Half	ASL		15	Hakoah	a	5,1		
-New York Nationals	1929 First Half	ASL		22	Philadelphia	h	2,2		
-New York Nationals	1929 First Half	ASL		28	Philadelphia	a	4,1		
+New York Nationals	1929 First Half	ASL		22	Philadelphia 1929 Fall	h	2,2		
+New York Nationals	1929 First Half	ASL		28	Philadelphia 1929 Fall	a	4,1		
 New York Nationals	1929 First Half	ASL		29	Brooklyn	a	3,1		
 New York Nationals	1929 First Half	ASL	10	3	Hakoah	h	5,2		
 New York Nationals	1929 First Half	ASL		5	New Bedford	a	1,2		
@@ -3381,15 +3381,16 @@ Providence Gold Bugs	1929 First Half	ASL		15	Boston	h	0,0
 Providence Gold Bugs	1929 First Half	ASL		21	Pawtucket	a	0,1		
 Providence Gold Bugs	1929 First Half	ASL		22	Hakoah	h	4,3		
 Providence Gold Bugs	1929 First Half	ASL		27	Pawtucket	h	4,0		
-Providence Gold Bugs	1929 First Half	ASL		29	Philadelphia	h	6,0		
+Providence Gold Bugs	1929 First Half	ASL		29	Philadelphia 1929 Fall	h	6,0		
 Providence Gold Bugs	1929 First Half	ASL	10	3	New Bedford	h	1,0		
-Providence Gold Bugs	1929 First Half	ASL		5	Philadelphia	a	1,4		
+Providence Gold Bugs	1929 First Half	ASL		5	Philadelphia 1929 Fall	a	1,4		
 Providence Gold Bugs	1929 First Half	ASL		6	Brooklyn	a	2,0		
 Providence Gold Bugs	1929 First Half	ASL		9	Fall River Marksmen	a	0,4		
 Providence Gold Bugs	1929 First Half	ASL		13	Fall River Marksmen	h	3,0		
 Providence Gold Bugs	1929 First Half	ASL		17	Boston	h	1,1		
 Providence Gold Bugs	1929 First Half	ASL		19	New Bedford	a	3,1		
 Providence Gold Bugs	1929 First Half	ASL		20	Hakoah	a	1,3		
+
 Bethlehem Steel	1929-1930	ASL	11	9	NY Nationals	h	2,3		
 Bethlehem Steel	1929-1930	ASL		16	Providence	h	2,1		
 Bethlehem Steel	1929-1930	ASL		23	Fall River Marksmen	h	1,2		
@@ -3404,7 +3405,7 @@ Bethlehem Steel	1929-1930	ASL		25	NY Giants	a	2,4
 Bethlehem Steel	1929-1930	ASL		28	NY Giants	h	9,2		
 Bethlehem Steel	1929-1930	ASL		29	Hakoah	a	4,0		
 Bethlehem Steel	1929-1930	ASL	1	1	Hakoah	h	1,2		
-Bethlehem Steel	1929-1930	ASL		4	Hungaria	h	1,0		
+Bethlehem Steel	1929-1930	ASL		4	Bridgeport Hungaria	h	1,0		
 Bethlehem Steel	1929-1930	ASL		11	Fall River Marksmen	h	1,1		
 Bethlehem Steel	1929-1930	ASL		12	NY Nationals	a	3,4		
 Bethlehem Steel	1929-1930	ASL		19	Providence	h	5,1		
@@ -3450,7 +3451,7 @@ Brooklyn Wanderers	1929-1930	ASL		15	Providence	a	1,3
 Brooklyn Wanderers	1929-1930	ASL		21	Bethlehem	a	1,3		
 Brooklyn Wanderers	1929-1930	ASL		22	Providence	h	4,1		
 Brooklyn Wanderers	1929-1930	ASL		25	Hakoah	h	2,2		
-Brooklyn Wanderers	1929-1930	ASL		28	Hungaria	h	5,2		
+Brooklyn Wanderers	1929-1930	ASL		28	Bridgeport Hungaria	h	5,2		
 Brooklyn Wanderers	1929-1930	ASL		29	Fall River Marksmen	a	2,5		
 Brooklyn Wanderers	1929-1930	ASL	1	1	NY Giants	h	0,2		
 Brooklyn Wanderers	1929-1930	ASL		5	New Bedford	h	0,2		
@@ -3465,7 +3466,7 @@ Brooklyn Wanderers	1929-1930	ASL		23	Providence	h	3,1
 Brooklyn Wanderers	1929-1930	ASL		29	NY Nationals	a	2,5		
 Brooklyn Wanderers	1929-1930	ASL	4	5	Bethlehem	a	3,2		
 Brooklyn Wanderers	1929-1930	ASL		6	Hakoah		0,1		
-Brooklyn Wanderers	1929-1930	ASL		12	Hungaria	h	4,1		
+Brooklyn Wanderers	1929-1930	ASL		12	Newark 1929-1930	h	4,1		
 Brooklyn Wanderers	1929-1930	ASL		20	Bethlehem	h	2,5		
 Brooklyn Wanderers	1929-1930	ASL		27	Fall River Marksmen	a	0,1		
 Brooklyn Wanderers	1929-1930	ASL	5	4	NY Giants	h	2,1		
@@ -3492,7 +3493,7 @@ Fall River Marksmen	1929-1930	ASL		12	Hakoah	a	0,0
 Fall River Marksmen	1929-1930	ASL		19	New Bedford	h	2,0		
 Fall River Marksmen	1929-1930	ASL		26	Providence	a	0,1		
 Fall River Marksmen	1929-1930	ASL	2	9	Hakoah	h	2,1		
-Fall River Marksmen	1929-1930	ASL		23	Hungaria	h	6,1		
+Fall River Marksmen	1929-1930	ASL		23	Bridgeport Hungaria	h	6,1		
 Fall River Marksmen	1929-1930	ASL	3	8	NY Nationals	a	6,3		
 Fall River Marksmen	1929-1930	ASL		9	Brooklyn	a	1,1		
 Fall River Marksmen	1929-1930	ASL	4	13	New Bedford	h	2,1		
@@ -3509,7 +3510,7 @@ Fall River Marksmen	1930	US Open Cup		30	Cleveland B.		7,2
 Fall River Marksmen	1930	US Open Cup	4	6	Cleveland B.	a	2,1		
 
 Hakoah All-Stars	1929-1930	ASL	11	17	Brooklyn	a	0,3		
-Hakoah All-Stars	1929-1930	ASL		23	Boston	a	0,1		
+Hakoah All-Stars	1929-1930	ASL		23	Boston 1929-1930	a	0,1		
 Hakoah All-Stars	1929-1930	ASL		24	Providence	a	0,4		
 Hakoah All-Stars	1929-1930	ASL		28	Brooklyn	a	1,0		
 Hakoah All-Stars	1929-1930	ASL	12	1	New Bedford	h	1,1		
@@ -3521,8 +3522,8 @@ Hakoah All-Stars	1929-1930	ASL		22	New Bedford	a	2,1
 Hakoah All-Stars	1929-1930	ASL		25	Brooklyn	a	2,2		
 Hakoah All-Stars	1929-1930	ASL		29	Bethlehem	h	0,4		
 Hakoah All-Stars	1929-1930	ASL	1	1	Bethlehem	a	2,1		
-Hakoah All-Stars	1929-1930	ASL		5	Hungaria	a	1,0		
-Hakoah All-Stars	1929-1930	ASL		11	Hungaria	h	4,0		
+Hakoah All-Stars	1929-1930	ASL		5	Bridgeport Hungaria	a	1,0		
+Hakoah All-Stars	1929-1930	ASL		11	Bridgeport Hungaria	h	4,0		
 Hakoah All-Stars	1929-1930	ASL		12	Fall River Marksmen	h	0,0		
 Hakoah All-Stars	1929-1930	ASL		19	NY Nationals	a	3,0		
 Hakoah All-Stars	1929-1930	ASL		25	NY Giants	h	4,2		
@@ -3530,12 +3531,12 @@ Hakoah All-Stars	1929-1930	ASL		26	NY Nationals	h	2,1
 Hakoah All-Stars	1929-1930	ASL	2	9	Fall River Marksmen	a	1,2		
 Hakoah All-Stars	1929-1930	ASL		22	NY Nationals	a	2,5		
 Hakoah All-Stars	1929-1930	ASL		23	Providence	h	3,4		
-Hakoah All-Stars	1929-1930	ASL	3	1	Hungaria	h	0,0		
+Hakoah All-Stars	1929-1930	ASL	3	1	Bridgeport Hungaria	h	0,0		
 Hakoah All-Stars	1929-1930	ASL		8	Pawtucket	a	0,0		
 Hakoah All-Stars	1929-1930	ASL		9	New Bedford	a	4,4		
 Hakoah All-Stars	1929-1930	ASL		22	Pawtucket	h	4,1		
 Hakoah All-Stars	1929-1930	ASL		29	Bethlehem	a	2,2		
-Hakoah All-Stars	1929-1930	ASL	4	5	Hungaria	h	6,2		
+Hakoah All-Stars	1929-1930	ASL	4	5	Bridgeport Hungaria	h	6,2		
 Hakoah All-Stars	1929-1930	ASL		6	Brooklyn		1,0		
 Hakoah All-Stars	1929-1930	ASL		13	Pawtucket	h	4,0		
 Hakoah All-Stars	1929-1930	ASL		19	Fall River Marksmen	a	4,5		
@@ -3548,9 +3549,9 @@ Newark 1929-1930	1929-1930	ASL	4	5	Hakoah	a	2,6
 Newark 1929-1930	1929-1930	ASL		12	Brooklyn	a	1,4		
 Newark 1929-1930	1929-1930	ASL		19	New Bedford	h	3,3		
 Newark 1929-1930	1929-1930	ASL		27	NY Nationals	a	2,4		
-New Bedford Whalers	1929-1930	ASL	11	9	Boston	a	2,1		
+New Bedford Whalers	1929-1930	ASL	11	9	Boston 1929-1930	a	2,1		
 New Bedford Whalers	1929-1930	ASL		11	Fall River Marksmen	h	1,1		
-New Bedford Whalers	1929-1930	ASL		16	Boston	h	4,1		
+New Bedford Whalers	1929-1930	ASL		16	Boston 1929-1930	h	4,1		
 New Bedford Whalers	1929-1930	ASL		24	NY Nationals	h	3,0		
 New Bedford Whalers	1929-1930	ASL		28	Bethlehem	h	1,0		
 New Bedford Whalers	1929-1930	ASL		30	Bethlehem	a	1,2		
@@ -3570,7 +3571,7 @@ New Bedford Whalers	1929-1930	ASL		25	Pawtucket	a	0,1
 New Bedford Whalers	1929-1930	ASL	2	8	Pawtucket	h	1,1		
 New Bedford Whalers	1929-1930	ASL		9	Providence	a	4,3		
 New Bedford Whalers	1929-1930	ASL	3	1	NY Nationals	a	0,3		
-New Bedford Whalers	1929-1930	ASL		2	Hungaria	a	5,1		
+New Bedford Whalers	1929-1930	ASL		2	Bridgeport Hungaria	a	5,1		
 New Bedford Whalers	1929-1930	ASL		9	Hakoah	h	4,4		
 New Bedford Whalers	1929-1930	ASL		16	Brooklyn	h	1,1		
 New Bedford Whalers	1929-1930	ASL		29	NY Giants	h	0,0		
@@ -3578,10 +3579,10 @@ New Bedford Whalers	1929-1930	ASL	4	5	Providence	h	0,4
 New Bedford Whalers	1929-1930	ASL		6	NY Nationals	a	2,2		
 New Bedford Whalers	1929-1930	ASL		12	NY Nationals	h	2,0		
 New Bedford Whalers	1929-1930	ASL		13	Fall River Marksmen	a	1,2		
-New Bedford Whalers	1929-1930	ASL		19	Hungaria	a	3,3		
+New Bedford Whalers	1929-1930	ASL		19	Newark 1929-1930	a	3,3		
 New Bedford Whalers	1929-1930	ASL		20	NY Giants	a	0,2		
 New Bedford Whalers	1929-1930	ASL		26	Bethlehem	h	2,0		
-New Bedford Whalers	1930	US Open Cup	1	26	Hungaria	h	4,0		
+New Bedford Whalers	1930	US Open Cup	1	26	Bridgeport Hungaria	h	4,0		
 New Bedford Whalers	1930	US Open Cup	2	22	Fall River Marksmen	a	2,5		
 
 New York Giants	1929-1930	ASL	11	16	Pawtucket	a	2,1		
@@ -3602,7 +3603,7 @@ New York Giants	1929-1930	ASL		11	Pawtucket	a	1,4
 New York Giants	1929-1930	ASL		12	New Bedford	a	1,4		
 New York Giants	1929-1930	ASL		25	Hakoah	a	2,4		
 New York Giants	1929-1930	ASL		26	Brooklyn	h	6,4		
-New York Giants	1929-1930	ASL	2	9	Hungaria	h	5,3		
+New York Giants	1929-1930	ASL	2	9	Bridgeport Hungaria	h	5,3		
 New York Giants	1929-1930	ASL	3	2	NY Nationals	h	6,1		
 New York Giants	1929-1930	ASL		8	Bethlehem	a	4,5		
 New York Giants	1929-1930	ASL		15	NY Nationals	a	0,3		
@@ -3633,8 +3634,8 @@ New York Nationals	1929-1930	ASL		12	Bethlehem	h	4,3
 New York Nationals	1929-1930	ASL		19	Hakoah	h	0,3		
 New York Nationals	1929-1930	ASL		25	Bethlehem	a	2,1		
 New York Nationals	1929-1930	ASL		26	Hakoah	a	1,2		
-New York Nationals	1929-1930	ASL	2	1	Hungaria	h	9,4		
-New York Nationals	1929-1930	ASL		2	Hungaria	a	2,2		
+New York Nationals	1929-1930	ASL	2	1	Bridgeport Hungaria	h	9,4		
+New York Nationals	1929-1930	ASL		2	Bridgeport Hungaria	a	2,2		
 New York Nationals	1929-1930	ASL		9	Brooklyn	a	2,2		
 New York Nationals	1929-1930	ASL		22	Hakoah	h	5,2		
 New York Nationals	1929-1930	ASL	3	1	New Bedford	h	3,0		
@@ -3649,7 +3650,7 @@ New York Nationals	1929-1930	ASL	4	6	New Bedford	h	2,2
 New York Nationals	1929-1930	ASL		12	New Bedford	a	0,2		
 New York Nationals	1929-1930	ASL		19	Pawtucket	a	1,2		
 New York Nationals	1929-1930	ASL		20	Fall River Marksmen	a	4,6		
-New York Nationals	1929-1930	ASL		27	Hungaria	h	4,2		
+New York Nationals	1929-1930	ASL		27	Newark 1929-1930	h	4,2		
 New York Nationals	1930	US Open Cup	2	15	Pawtucket	a	2,3		
 
 Pawtucket Rangers	1929-1930	ASL	11	9	Brooklyn	a	1,1		
@@ -3685,7 +3686,7 @@ Pawtucket Rangers	1929-1930	ASL		15	NY Nationals	h	3,2
 Pawtucket Rangers	1930	US Open Cup	3	2	Fall River Marksmen	a	2,5		
 Pawtucket Rangers	1930	US Open Cup	4	27	Providence	a	1,2		
 
-Providence Gold Bugs	1929-1930	ASL	11	10	Boston		3,2		
+Providence Gold Bugs	1929-1930	ASL	11	10	Boston 1929-1930		3,2		
 Providence Gold Bugs	1929-1930	ASL		16	Bethlehem	a	1,2		
 Providence Gold Bugs	1929-1930	ASL		17	NY Nationals	a	3,2		
 Providence Gold Bugs	1929-1930	ASL		24	Hakoah	h	4,0		
@@ -4051,7 +4052,7 @@ Hakoah All-Stars	1931 First Half	ASL	4	4	Pawtucket	a	1,6
 Hakoah All-Stars	1931 First Half	ASL		5	New Bedford	h	3,2		
 Hakoah All-Stars	1931 First Half	ASL		12	Brooklyn	h	2,1		
 Hakoah All-Stars	1931 First Half	ASL		18	New Bedford	a	0,1		
-Hakoah All-Stars	1931 First Half	ASL		19	Brooklyn	a	0,3		
+Hakoah All-Stars	1931 First Half	ASL		19	Newark	a	0,3		
 Hakoah All-Stars	1931 First Half	ASL		25	NY Giants	h	0,1		
 Hakoah All-Stars	1931 First Half	ASL	5	3	NY Yankees	a	1,3		
 Hakoah All-Stars	1931 First Half	ASL		10	Pawtucket	h	1,1		
