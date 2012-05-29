@@ -200,7 +200,9 @@ def merge_games():
         # normalize things.
         d['team1'] = get_team(d['team1'])
         d['team2'] = get_team(d['team2'])
-        d['home_team'] = get_team(d['home_team'])
+
+        if d['home_team']:
+            d['home_team'] = get_team(d['home_team'])
 
         teams = tuple(sorted([d['team1'], d['team2']]))
 
