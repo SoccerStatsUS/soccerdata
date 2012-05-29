@@ -5,7 +5,7 @@
 # Export to yaml and destroy.
 
 
-DRAFTS_DIR = "/home/chris/www/soccerdata/data/drafts"
+DRAFTS_DIR = "/home/chris/www/soccerdata/data/lists/drafts"
 
 import datetime
 import os

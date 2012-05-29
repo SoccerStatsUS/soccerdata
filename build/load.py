@@ -21,20 +21,16 @@ def clear_all():
     for e in SINGLE_SOURCES:
         soccer_db[e].drop()
 
-            
-def load_name_maps():
-    from text import namemap
-    generic_load(soccer_db.name_maps, namemap.load)
+
+def load_games_standard(coll, fn):
+    from soccerdata.text import general
+    games, goals, fouls, lineups = general.process_games_file(fn)
+    generic_load(soccer_db['%s_games' % coll], lambda: games, delete=False)
+    generic_load(soccer_db['%s_lineups' % coll], lambda: lineups, delete=False)
+    generic_load(soccer_db['%s_fouls' % coll], lambda: fouls, delete=False)
+    generic_load(soccer_db['%s_goals' % coll], lambda: goals, delete=False)
 
 
-def load_stadium_maps():
-    from text import stadiummap
-    generic_load(soccer_db.stadium_maps, stadiummap.load)
-
-
-def load_news():
-    from text import news
-    generic_load(soccer_db.news, news.load)
 
 def first_load():
     """
@@ -47,46 +43,25 @@ def first_load():
     load_competitions()
     load_teams()
 
-    #load_positions()
-    #load_drafts()
+    load_positions()
+    load_drafts()
     #load_news()
 
 
     load_name_maps()
     load_stadium_maps()
-
+    load_hall_of_fame()
 
 
     load_isl()
-
-    load_hall_of_fame()
-    return
-
-
-
-
-
-    return
-
-
-    load_concacaf()
-
-
-
-
-    load_asl()
-
-
-    
-
+    #load_concacaf()
     load_friendlies()
-
-
-
+    load_asl()
 
 
     load_nasl()
 
+    return
 
     load_mls()    
 
@@ -144,6 +119,23 @@ def first_load():
     load_analysis()
 
 
+            
+def load_name_maps():
+    from text import namemap
+    generic_load(soccer_db.name_maps, namemap.load)
+
+
+def load_stadium_maps():
+    from text import stadiummap
+    generic_load(soccer_db.stadium_maps, stadiummap.load)
+
+
+def load_news():
+    from text import news
+    generic_load(soccer_db.news, news.load)
+
+
+
 def load_bios():
     print "Loading ASL Bios"
     print soccer_db.bios.count()
@@ -168,14 +160,6 @@ def second_load():
 
 
 
-
-def load_games_standard(coll, fn):
-    from soccerdata.text import general
-    games, goals, fouls, lineups = general.process_games_file(fn)
-    generic_load(soccer_db['%s_games' % coll], lambda: games, delete=False)
-    generic_load(soccer_db['%s_lineups' % coll], lambda: lineups, delete=False)
-    generic_load(soccer_db['%s_fouls' % coll], lambda: fouls, delete=False)
-    generic_load(soccer_db['%s_goals' % coll], lambda: goals, delete=False)
 
 
 
@@ -269,11 +253,12 @@ def load_cups():
 
 
 def load_friendlies():
+
     for e in [70, 75, 78, 80, 82]:
-        load_general('tours', 'friendly/19%s' % e)
+        load_games_standard('tours', 'domestic/country/usa/friendly/19%s' % e)
 
     for e in range(190, 201):
-        load_general('tours', 'friendly/tours/%s0' % e)
+        load_games_standard('tours', 'domestic/country/usa/friendly/tours/%s0' % e)
 
 
 
@@ -525,7 +510,7 @@ def load_soccernet_league(name, code):
 
 def load_concacaf():
     for e in '678':
-        load_general('concacaf', 'tournaments/concacaf/champions_cup/19%s0' % e)
+        load_games_standard('concacaf', 'domestic/confederation/concacaf/champions_cup/19%s0' % e)
         
     load_soccernet_league('concacaf', 'concacaf.champions')
 

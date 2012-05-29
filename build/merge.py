@@ -1,6 +1,6 @@
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
-from soccerdata.alias import get_team, get_name
+from soccerdata.data.alias import get_team, get_name
 
 from soccerdata.settings import SOURCES
 

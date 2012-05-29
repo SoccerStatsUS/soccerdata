@@ -5,7 +5,7 @@
 import datetime
 import os
 
-from soccerdata.alias import get_team
+from soccerdata.data.alias import get_team
 
 
 DIR = '/home/chris/www/soccerdata/data/leach'

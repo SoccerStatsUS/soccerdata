@@ -12,7 +12,7 @@ def make_stadium_getter():
     'Richardson, Texas' -> (None, 'Richardson, Texas')
     """
 
-    from soccerdata.alias import get_place, get_stadium
+    from soccerdata.data.alias import get_place, get_stadium
     from soccerdata.mongo import soccer_db
     
     stadiums = soccer_db.stadiums.find()
@@ -58,7 +58,7 @@ def normalize():
     These will then be split up with denormalize.py.
     """
 
-    from soccerdata.alias import get_team, get_name, get_competition, get_place
+    from soccerdata.data.alias import get_team, get_name, get_competition, get_place
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 

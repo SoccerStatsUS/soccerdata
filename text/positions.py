@@ -1,7 +1,7 @@
 import datetime
 import re
 
-from soccerdata.alias import get_team, get_name
+from soccerdata.data.alias import get_team, get_name
 
 # Need to add in new positions.
 POSITIONS_PATH = '/home/chris/www/soccerdata/data/transactions/positions'

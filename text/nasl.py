@@ -10,7 +10,7 @@ from soccerdata.mongo import soccer_db
 
 DIR = '/home/chris/www/soccerdata/data/stats'
 stats_filename = os.path.join(DIR, 'nasl.txt')
-games_filename = '/home/chris/www/soccerdata/data/scores/nasl.csv'
+games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/nasl.csv'
 
 
 foreign_map = {

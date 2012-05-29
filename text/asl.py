@@ -3,7 +3,7 @@
 import datetime
 import re
 
-games_filename = '/home/chris/www/soccerdata/data/scores/asl.csv'
+games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/asl.csv'
 stats_filename = '/home/chris/www/soccerdata/data/stats/aslstats.csv'
 bios_filename = '/home/chris/www/soccerdata/data/people/asl_bios.csv'
 
