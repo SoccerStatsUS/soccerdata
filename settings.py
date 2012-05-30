@@ -6,6 +6,7 @@ SOURCES = [
     'lewis_cup',
     'nafbl',
     'asl',
+    'small',
     'nasl',
     'mls',
     'mls_soccernet',
@@ -38,7 +39,7 @@ l =    [
         ]
 
 # What items are shown on the dashboard?
-STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'awards'
+STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'awards',
 
 SINGLE_SOURCES = [
     'countries',
@@ -47,10 +48,12 @@ SINGLE_SOURCES = [
     'cities',
     'stadiums', 
 
+
     'competitions',
     'teams', 
     'bios', 
     'awards', 
+    'drafts',
     'positions', 
     'name_maps', 
     'stadium_maps', 

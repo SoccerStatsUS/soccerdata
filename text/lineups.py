@@ -52,7 +52,7 @@ from soccerdata.cache import data_cache, set_cache
 
 get_date = lambda s: datetime.datetime.strptime (s, "%Y-%m-%d")
 
-LINEUPS_DIR = "/home/chris/www/soccerdata/data/lineups/scaryice"
+LINEUPS_DIR = "/home/chris/www/soccerdata/data/games/domestic/country/usa/scaryice"
 
 
 # scaryice specific team mappings.

@@ -14,9 +14,7 @@ import random
 
 def first_merge():
     merge_standings()
-    merge_drafts()
     merge_awards()
-    merge_positions()
     merge_stats()
     merge_games()
 
@@ -54,10 +52,6 @@ def merge_standings():
     insert_rows(soccer_db.standings, soccer_db.concacaf_standings.find())
 
 
-def merge_drafts():
-    soccer_db.drafts.drop()
-    insert_rows(soccer_db.drafts, soccer_db.chris_drafts.find())
-    insert_rows(soccer_db.drafts, soccer_db.usa_drafts.find())
 
 
 def merge_awards():
@@ -72,12 +66,6 @@ def merge_awards():
     insert_rows(soccer_db.awards, soccer_db.usa_awards.find())
 
     
-
-def merge_positions():
-    soccer_db.positions.drop()
-    insert_rows(soccer_db.positions, soccer_db.chris_positions.find())
-
-
 
 
 
