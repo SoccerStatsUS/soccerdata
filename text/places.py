@@ -34,12 +34,12 @@ def load_states():
 
             fields = line.split(',')
 
-            if len(fields) == 2:
-                name, abbreviation = fields
+            if len(fields) == 3:
+                name, abbreviation, country = fields
                 d = None
 
-            elif len(fields)== 3:
-                name, abbreviation, joined = fields
+            elif len(fields)== 4:
+                name, abbreviation, country, joined = fields
                 month, day, year = [int(e) for e in joined.split('/')]
 
                 d = datetime.datetime(year, month, day)
@@ -49,6 +49,7 @@ def load_states():
             
             l.append({
                     'name': name.strip(),
+                    'country': country.strip(),
                     'abbreviation': abbreviation.strip(),
                     'joined': d,
                     })

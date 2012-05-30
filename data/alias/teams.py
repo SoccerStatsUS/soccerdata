@@ -24,6 +24,8 @@ alternate_names = {
 teams.update(alternate_names)
 
 world = {
+    'América': 'Club América',
+    'Club America': 'Club América',
 
     'Norrkoeping': 'IFK Norrköping',
     'Glenavon': 'Glenavon F.C.',
@@ -182,10 +184,23 @@ world = {
 
     'A.I.K.': 'AIK Fotboll',
     'G.A.I.S.': 'GAIS',    
-    'Saprissa': 'Deportivo Saprissa S.A.D.',
+    'Saprissa': 'Deportivo Saprissa',
+    'Deportivo Saprissa S.A.D.': 'Deportivo Saprissa',
+    'Etoile de Morne-a-l\'Eau': 'Etoile de Morne-à-l\'Eau',
+    'L.D. Alajuelense': 'LD Alajuelense',
+    'RC Riviere-Pilote': 'RC Rivière-Pilote',
+    'Transvaal': 'SV Transvaal',
+    'UNAM': 'Unam Pumas',
+    'Undeba': 'UNDEBA',
+    'Union Dep. Banda\'bou': 'UNDEBA',
 
     'Roanoke River Dawgs': 'Roanoke RiverDawgs',
     'Roanoke Riverdawgs': 'Roanoke RiverDawgs',
+    'Univ. de Guadalajara': 'Universidad de Guadalajara',
+    'Univ Guadalajara': 'Universidad de Guadalajara',
+    'Leslie Verdes': 'Club Verdes',
+    'Voorwaarts': 'SV Voorwaarts',
+    'Aguila': 'C.D. Águila',
     
     
 

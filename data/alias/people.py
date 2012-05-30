@@ -14,7 +14,18 @@ d.update(basic)
 
 
 names = {
+    'Chico Chacurian': 'Efrain Chacurian',
+    
+    'Joseph Maca': 'Joe Maca',
+    'Jojo Stuart': 'JoJo Stuart',
+    'Mike McFarland': 'Michael McFarladn',
+    'John Jock Ferguson': 'Jock Ferguson',
+
+    'William Adelino Billy Gonsalves': 'Billy Gonsalves',
+    'David Turner': 'Dave Turner',
     'Whitey Fleming': 'Tommy Fleming',
+    'James Jim Gallagher': 'Jim Gallagher',
+    'G.R. Cannon': 'Garland Cannon',
 
     'John Heminsley': 'Rabbit Hemingsley',
     'John Hemingsley': 'Rabbit Hemingsley',

@@ -166,8 +166,8 @@ def generate_cities():
 
 
     for e in soccer_db.games.find():
-        cities.add(e['location'])
-        print e['location']
+        if 'location' in e:
+            cities.add(e['location'])
 
 
     for e in soccer_db.stadiums.find():
@@ -175,6 +175,7 @@ def generate_cities():
 
     if None in cities:
         cities.remove(None)
+
     city_dicts = [{'name': city} for city in sorted(cities)]
 
     generic_load(soccer_db.cities, lambda: city_dicts)

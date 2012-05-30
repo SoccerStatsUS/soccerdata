@@ -20,6 +20,7 @@ def generate():
 
     generate_all_stats()
     generate_all_standings()
+    #generate_all_rosters()
     
 
 def make_state_code_dict():
@@ -139,6 +140,12 @@ def generate_standings(games):
         insert_game(game['team2'], game)
 
     return d
+
+
+
+def generate_all_rosters(lineups=[]):
+    pass
+    
         
 
 def generate_stats(goals=[], lineups=[]):

@@ -55,7 +55,6 @@ def first_load():
     
     load_isl()
     load_apsl()
-
     load_asl2()
 
     load_usl()
@@ -231,6 +230,9 @@ def load_usa():
     #load_general('usa', 'international/usmnt/world_cup')
     for e in [1880, 1910, 1980, 2000, 2010]:
         load_games_standard('usa', 'international/country/usa/%s' % e)
+
+    load_games_standard('usa', 'international/country/usa/gold')
+    load_games_standard('usa', 'international/country/usa/world_cup')
 
 
 
@@ -421,8 +423,8 @@ def load_positions():
 def load_asl2():
     from soccerdata.text import partial
     print "Loading partial stats.\n"
-    generic_load(soccer_db.asl2, partial.process_partial_stats)
-    load_standings('asl', 'domestic/country/usa/asl')
+    generic_load(soccer_db.asl2_stats, partial.process_partial_stats)
+    load_standings('asl2', 'domestic/country/usa/asl2')
 
 
 def load_analysis():
@@ -435,7 +437,7 @@ def load_analysis():
 def load_asl():
     from soccerdata.text import awards
 
-    load_standings('asl2', 'domestic/country/usa/asl2')
+    load_standings('asl', 'domestic/country/usa/asl')
 
     print "Loading ASL awards.\n"
     generic_load(soccer_db.asl_awards, awards.process_american_cup_awards)

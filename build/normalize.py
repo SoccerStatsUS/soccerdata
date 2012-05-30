@@ -249,16 +249,28 @@ def normalize():
         insert_rows(coll, l)
 
     # Normalize drafts
-    for s in SOURCES:
-        coll = soccer_db["%s_drafts" %s]
-        l = []
-        for e in coll.find():
+    coll = soccer_db["drafts"]
+    l = []
+    for e in coll.find():
             # NB - weird naming.
-            e['team'] = get_team(e['team'])
-            e['text'] = get_name(e['text'])
+        e['team'] = get_team(e['team'])
+        e['text'] = get_name(e['text'])
 
-            l.append(e)
+        l.append(e)
 
-        coll.drop()
-        insert_rows(coll, l)
+    coll.drop()
+    insert_rows(coll, l)
+
+
+    # Normalize bios
+    coll = soccer_db["bios"]
+    l = []
+    for e in coll.find():
+            # NB - weird naming.
+        e['name'] = get_name(e['name'])
+
+        l.append(e)
+
+    coll.drop()
+    insert_rows(coll, l)
 
