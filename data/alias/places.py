@@ -11,6 +11,8 @@ def get_place(s):
 
 
 places = {
+
+    'Molson Stadium, Montreal': 'Percival Molson Memorial Stadium',
     'Olympic Park, Paterson': 'Olympic Field, Paterson',
     'Olympic Park, Paterson, NJ': 'Olympic Field, Paterson',
     'Island Stadium, Toronto': 'Hanlan\'s Point Stadium',
