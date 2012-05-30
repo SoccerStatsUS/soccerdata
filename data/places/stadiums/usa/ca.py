@@ -7,6 +7,11 @@ import datetime
 l = [
 
     {
+        'name': 'Southwestern College',
+        'location': 'Chula Vista, CA',
+        },
+
+    {
         'name': 'Stanford Stadium',
         'address': '625 Nelson Rd',
         'location': 'Stanford, CA',

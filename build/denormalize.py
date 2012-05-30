@@ -1,4 +1,5 @@
 from collections import defaultdict
+from soccerdata.mongo import soccer_db, insert_rows, generic_load
 
 
 def make_stadium_getter():
@@ -88,12 +89,14 @@ def denormalize():
     we set the location to the team's stadium for that date if possible.
     """
 
-    from soccerdata.mongo import soccer_db, insert_rows
+
     
     print "Denormalizing"
     name_ungetter = make_name_ungetter()
     stadium_getter = make_stadium_getter()
 
+    print "Generating cities."
+    generate_cities()
 
     print "Denormalizing games"    
     l = []
@@ -150,3 +153,29 @@ def denormalize():
 
 
             
+
+def generate_cities():
+
+    cities = set()
+
+
+    for e in soccer_db.bios.find():
+        cities.add(e.get('birthplace'))
+        cities.add(e.get('deathplace'))
+
+
+
+    for e in soccer_db.games.find():
+        cities.add(e['location'])
+        print e['location']
+
+
+    for e in soccer_db.stadiums.find():
+        cities.add(e['location'])
+
+    if None in cities:
+        cities.remove(None)
+    city_dicts = [{'name': city} for city in sorted(cities)]
+
+    generic_load(soccer_db.cities, lambda: city_dicts)
+

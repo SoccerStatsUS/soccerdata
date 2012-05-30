@@ -17,7 +17,7 @@ def generate():
     #generate_standings(soccer_db.games, soccer_db.standings)
     #generate_lineup_stats(soccer_db.mls_reserve_lineups.find())
 
-    generate_cities()
+
     generate_all_stats()
     generate_all_standings()
     
@@ -30,24 +30,6 @@ def make_state_code_dict():
             d[e['abbreviation']] = e['name']
 
     return d
-
-
-def generate_cities():
-
-    cities = set()
-
-    for e in soccer_db.bios.find():
-        cities.add(e.get('birthplace'))
-        cities.add(e.get('deathplace'))
-
-
-    for e in soccer_db.games.find():
-        cities.add(e['location'])
-
-    cities.remove(None)
-    city_dicts = [{'name': city} for city in sorted(cities)]
-
-    generic_load(soccer_db.cities, lambda: city_dicts)
 
 
 
@@ -71,7 +53,8 @@ def generate_all_stats():
     standard_generate('world_cup')
     standard_generate('usl_leach')
     standard_generate('concacaf')
-    standard_generate('apsl_professional_cup')
+
+    standard_generate('small')
 
     standard_generate('isl')
 
@@ -95,6 +78,9 @@ def generate_all_standings():
     sg('mls_reserve')
     sg('american_cup')
     sg('tours')
+    sg('small')
+    sg('usa')
+    sg('concacaf')
 
     stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
     generic_load(soccer_db.mls_soccernet_standings, lambda: stg.values())

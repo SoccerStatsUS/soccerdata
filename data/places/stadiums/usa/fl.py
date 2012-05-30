@@ -4,7 +4,11 @@
 import datetime
 
 l = [
-    
+
+    {
+        'name': 'University of South Florida',
+        'location': 'Tampa Bay, Florida',
+        },    
     
     {
         'name': 'Lockhart Stadium',

@@ -54,14 +54,14 @@ def first_load():
 
     
     load_isl()
-    return
+    load_apsl()
 
     load_asl2()
-    load_apsl()
+
     load_usl()
     #load_leach()    
 
-    load_ncaa()
+    #load_ncaa()
 
 
     load_mls()    
@@ -71,7 +71,7 @@ def first_load():
 
     load_cups()
 
-    #load_concacaf()
+    load_concacaf()
     load_friendlies()
     load_asl()
 
@@ -79,11 +79,13 @@ def first_load():
     load_nasl()
 
 
-
+    load_ussf2()
     load_nasl2()
 
 
     load_nafbl()
+
+    load_city()
 
     return
 
@@ -219,7 +221,8 @@ def load_isl():
     # Load both isl leagues - 1926 and 1960-1965
     load_games_standard('isl', 'domestic/country/usa/leagues/isl')
     load_games_standard('isl', 'domestic/country/usa/leagues/isl2')
-    generic_load(soccer_db.isl_standings, lambda: standings.process_standings('domestic/country/usa/isl'))
+    load_standings('isl', 'domestic/country/usa/isl')
+
 
 
 def load_usa():
@@ -228,6 +231,7 @@ def load_usa():
     #load_general('usa', 'international/usmnt/world_cup')
     for e in [1880, 1910, 1980, 2000, 2010]:
         load_games_standard('usa', 'international/country/usa/%s' % e)
+
 
 
 def load_cups():
@@ -265,8 +269,19 @@ def load_mls():
     load_soccernet_league('mls_soccernet', 'usa.1')
 
 def load_nafbl():
-    load_games_standard('isl', 'domestic/country/usa/leagues/nafbl1')
-    load_games_standard('isl', 'domestic/country/usa/leagues/nafbl2')
+
+    # Also loading ALoPF and SNESL
+
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/nafbl1')
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/nafbl2')
+
+    load_standings('nafbl', 'domestic/country/usa/early')
+
+
+def load_city():
+
+    load_standings('city', 'domestic/city/slsl')
+    load_standings('city', 'domestic/city/cosmo')
 
 
 
@@ -317,7 +332,10 @@ def load_friendlies():
 
 
 
-def load_standings_file(coll, fn):
+
+
+
+def load_standings_old():
 
     print "Loading chris standings.\n"
 
@@ -404,6 +422,7 @@ def load_asl2():
     from soccerdata.text import partial
     print "Loading partial stats.\n"
     generic_load(soccer_db.asl2, partial.process_partial_stats)
+    load_standings('asl', 'domestic/country/usa/asl')
 
 
 def load_analysis():
@@ -416,6 +435,7 @@ def load_analysis():
 def load_asl():
     from soccerdata.text import awards
 
+    load_standings('asl2', 'domestic/country/usa/asl2')
 
     print "Loading ASL awards.\n"
     generic_load(soccer_db.asl_awards, awards.process_american_cup_awards)
@@ -450,6 +470,8 @@ def load_nasl():
     # Need to work some integrity issues on games.
     generic_load(soccer_db.nasl_games, nasl.process_games)
 
+    load_standings('nasl', 'domestic/country/usa/nasl')
+
 
     
 
@@ -466,13 +488,21 @@ def load_apsl():
     generic_load(soccer_db.apsl_awards, awards.process_apsl_awards, delete=False)
     generic_load(soccer_db.apsl_awards, awards.process_usl0_awards, delete=False)
 
-    load_games_standard('mls', 'domestic/country/usa/playoffs/apsl')
-    load_games_standard('mls', 'domestic/country/usa/playoffs/wsa')
+    load_games_standard('apsl', 'domestic/country/usa/playoffs/apsl')
+    load_games_standard('apsl', 'domestic/country/usa/playoffs/wsa')
     load_games_standard('apsl', 'domestic/country/usa/cups/apsl_professional')
+
+    load_standings('apsl', 'domestic/country/usa/apsl')
+    load_standings('apsl', 'domestic/country/usa/wsa')
+    load_standings('apsl', 'domestic/country/usa/lssa')
     
     print "loading apsl scores"
     #generic_load(soccer_db.apsl_games, apsl.process_apsl_scores)
 
+
+def load_standings(coll, fn):
+
+    generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_standings(fn))
 
 
 def load_leach():
@@ -492,6 +522,8 @@ def load_mls_data():
     from soccerdata.text import awards
     from soccerdata.text import stats
     from soccerdata.scrapers import mls
+
+    load_standings('mls', 'domestic/country/usa/mls')
 
     print "Loading MLS awards.\n"
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
@@ -525,6 +557,8 @@ def load_mls_lineups():
     generic_load(soccer_db.mls_lineups, lineups.load_all_lineups_scaryice)
 
 
+def load_ussf2():
+    load_standings('ussf2', 'domestic/country/usa/ussf2')
 
 def load_nasl2():
 
@@ -534,6 +568,8 @@ def load_nasl2():
 
     print "Loading 2011 NASL games."
     load_games_standard('nasl', 'domestic/country/usa/leagues/nasl2011')
+
+    load_standings('nasl2', 'domestic/country/usa/nasl2')
 
 
 
@@ -551,12 +587,23 @@ def load_usl():
     print "Loading usl awards.\n"
     generic_load(soccer_db.usl_awards, awards.process_usl_awards)
 
+    load_standings('usl', 'domestic/country/usa/usl/pro')
+    load_standings('usl', 'domestic/country/usa/usl/12')
+    load_standings('usl', 'domestic/country/usa/usl/pdl')
+    load_standings('usl', 'domestic/country/usa/usl/premier')
+    load_standings('usl', 'domestic/country/usa/usl/usl_pro')
+    load_standings('usl', 'domestic/country/usa/usl/usl0')
+    load_standings('usl', 'domestic/country/usa/usl/usisl')
+    load_standings('usl', 'domestic/country/usa/usl/select')
+
 
 def load_soccernet_league(name, code):
     from soccerdata.scrapers import soccernet
     generic_load(soccer_db['%s_goals' % name], lambda: soccernet.scrape_all_league_goals(code))
     generic_load(soccer_db['%s_games' % name], lambda: soccernet.scrape_all_league_games(code))
     generic_load(soccer_db['%s_lineups' % name], lambda: soccernet.scrape_all_league_lineups(code))
+
+    load_standings('nasl2', 'domestic/country/usa/nasl2')
 
 
 def load_concacaf():

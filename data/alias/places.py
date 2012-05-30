@@ -9,9 +9,20 @@ def get_place(s):
     else:
         return s
 
+cities = {
+    'Miami': 'Miami, FL',
+    'Denver': 'Denver, CO',
+    'Boston': 'Boston, MA',
+    'Montreal': 'Montreal, Quebec',
+    'Montreal, Canada': 'Montreal, Quebec',
+    'San Francisco': 'San Francisco, CA',
+    'Tampa Bay': 'Tampa Bay, FL',
+    'Tampa, FL': 'Tampa Bay, FL',
+    'Fort Lauderdale': 'Fort Lauderdale, FL',
+}
 
 places = {
-
+    'Southwestern College, San Diego, California': 'Southwestern College, Chula Vista, California',
     'Molson Stadium, Montreal': 'Percival Molson Memorial Stadium',
     'Olympic Park, Paterson': 'Olympic Field, Paterson',
     'Olympic Park, Paterson, NJ': 'Olympic Field, Paterson',
@@ -47,6 +58,8 @@ places = {
     'Montreal, Que': 'Montreal',
 
 }
+
+places.update(cities)
 
 states = {
     'AL': 'Alabama',

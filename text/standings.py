@@ -11,10 +11,6 @@ if not os.path.exists(DIR):
     DIR = "/Users/chrisedgemon/www/soccerdata/data/"
 
 
-def process_standings_file(filename):
-    
-    return lambda: process_standings(filename)
-
 
 def process_standings(filename):
     # Load standings from standings file.
