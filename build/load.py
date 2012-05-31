@@ -47,6 +47,7 @@ def first_load():
     load_drafts()
     #load_news()
 
+    load_cups()
     return
 
     load_name_maps()
@@ -71,7 +72,7 @@ def first_load():
     load_usa()
 
 
-    load_cups()
+
 
 
     load_friendlies()

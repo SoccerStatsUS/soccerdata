@@ -138,7 +138,6 @@ class GeneralProcessor(object):
         if ';' in line and ':' in line:
             if line.index(';') < line.index(':'):
                 skip_team = True
-                
 
         if ":" in line and not skip_team:
             possible_team = line.split(":")[0]
@@ -147,6 +146,8 @@ class GeneralProcessor(object):
                     return self.process_lineup(line)
             except:
                 import pdb; pdb.set_trace()
+                
+
 
 
         # Why is this check necessary?
@@ -321,6 +322,9 @@ class GeneralProcessor(object):
             # Currently just skipping the item if there were subs.
             # Off should be "end", then normalized later.
 
+            # Will implement captains later.
+            s = s.replace('(c)', '')
+
             if '(' not in s:
 
                 name = process_name(s)
@@ -383,11 +387,11 @@ class GeneralProcessor(object):
         if line[-1] in ('.', ','):
             line = line[:-1]
 
-
         team, players = line.split(":", 1)
         lineups = []
 
-        for e in split_outside_parens(players):
+        # Need to separate separate fields to get spearate sections.
+        for e in split_outside_parens(players, ',;'):
             lineups.extend(process_appearance(e, team))
 
         self.appearances.extend(lineups)
@@ -472,7 +476,8 @@ def process_games_file(fn):
     return process_file(p)
 
 
-def split_outside_parens(s, delimiter=','):
+def split_outside_parens(s, delimiters=','):
+    # Supports multiple delimiters.
     in_paren = False
     l = []
     ns = ''
@@ -483,7 +488,7 @@ def split_outside_parens(s, delimiter=','):
         if char == ')':
             in_paren = False
 
-        if char == delimiter and not in_paren:
+        if char in delimiters and not in_paren:
             l.append(ns)
             ns = ''
         else:

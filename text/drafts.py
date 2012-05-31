@@ -66,6 +66,7 @@ class DraftProcessor():
     
     def __init__(self):
         self.name = None
+        self.competition = None
         self.season = None
         self.round = None
         self.pick_number = 1
@@ -82,7 +83,9 @@ class DraftProcessor():
     def process_line(self, line):
         if line.startswith("Draft:"):
             self.name = line.replace("Draft:", '').strip()
-            
+
+        elif line.startswith("Competition"):
+            self.competition= line.replace("Competition:", '').strip()
 
         elif line.startswith("Season"):
             self.season = line.replace("Season:", '').strip()
@@ -90,6 +93,7 @@ class DraftProcessor():
             self.drafts.append({
                     'name': self.name,
                     'season': self.season,
+                    'competition': self.competition,
                     })
 
         elif line.startswith("Round:"):
