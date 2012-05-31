@@ -47,6 +47,7 @@ def first_load():
     load_drafts()
     #load_news()
 
+    return
 
     load_name_maps()
     load_stadium_maps()
@@ -54,7 +55,9 @@ def first_load():
 
     
     load_isl()
+
     load_apsl()
+
     load_asl2()
 
     load_usl()
@@ -63,16 +66,16 @@ def first_load():
     #load_ncaa()
 
 
-    load_mls()    
-
     load_small_tournaments()
+
     load_usa()
+
 
     load_cups()
 
-    load_concacaf()
+
     load_friendlies()
-    load_asl()
+
 
 
     load_nasl()
@@ -85,6 +88,10 @@ def first_load():
     load_nafbl()
 
     load_city()
+
+    load_concacaf()
+    load_asl()
+    load_mls()    
 
     return
 
@@ -411,6 +418,7 @@ def load_drafts():
     from soccerdata.text import drafts
     print "Loading drafts.\n"
     generic_load(soccer_db.drafts, drafts.load_drafts)
+    generic_load(soccer_db.picks, drafts.load_picks)
 
 
 

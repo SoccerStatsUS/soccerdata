@@ -339,8 +339,40 @@ class GeneralProcessor(object):
                 starter, subs = s.split("(")
                 subs = subs.replace(")", "")
                 sub_items = subs.split(",")
-                # Write a regular expression to match minutes.
-                # If there's no minutes, then off is None.
+
+                starter = process_name(starter)                
+                if len(sub_items) == 1:
+                    m = re.match("(.*)( \d+)", sub_items[0])
+                    if m:
+                        sub, minute = m.groups()
+                        minute = int(minute)
+                        sub = process_name(sub)
+                    else:
+                        print "No minute sub for %s" % s
+                        minute = None
+                        sub = process_name(sub_items[0])
+                        return [{
+                                'name': starter,
+                                'on': 0,
+                                'off': minute,
+                                'team': team,
+                                'competition': self.competition,
+                                'date': self.current_game['date'],
+                                'season': self.season,
+                                },
+                                {
+                                'name': sub,
+                                'on': minute,
+                                'off': 90,
+                                'team': team,
+                                'competition': self.competition,
+                                'date': self.current_game['date'],
+                                'season': self.season,
+                                }]
+
+                else:
+                    print "Skipping multiple sub_items %s" % len(sub_items)
+
 
                 return []
 

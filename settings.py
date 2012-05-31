@@ -55,6 +55,7 @@ SINGLE_SOURCES = [
     'bios', 
     'awards', 
     'drafts',
+    'picks',
     'positions', 
     'name_maps', 
     'stadium_maps', 

@@ -249,7 +249,7 @@ def normalize():
         insert_rows(coll, l)
 
     # Normalize drafts
-    coll = soccer_db["drafts"]
+    coll = soccer_db["picks"]
     l = []
     for e in coll.find():
             # NB - weird naming.
