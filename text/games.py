@@ -376,6 +376,7 @@ class GeneralProcessor(object):
 
                 else:
                     print "Skipping multiple sub_items %s" % len(sub_items)
+                    print sub_items
 
 
                 return []

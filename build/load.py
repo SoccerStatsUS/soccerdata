@@ -47,9 +47,11 @@ def first_load():
     load_drafts()
     #load_news()
 
-    load_cups()
+
+    load_usa()
     return
 
+    load_cups()
     load_name_maps()
     load_stadium_maps()
     load_hall_of_fame()
@@ -69,7 +71,7 @@ def first_load():
 
     load_small_tournaments()
 
-    load_usa()
+
 
 
 
