@@ -23,7 +23,17 @@ alternate_names = {
 }
 teams.update(alternate_names)
 
+
+colleges = {
+    'SFU': 'Simon Fraser University',
+    'Chico State': 'Chico State University',
+    'Duke': 'Duke University',
+}
+teams.update(colleges)
+
 world = {
+
+    'Feijenoord': 'Feyenoord',
     'América': 'Club América',
     'Club America': 'Club América',
 

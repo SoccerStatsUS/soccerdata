@@ -14,6 +14,11 @@ d.update(basic)
 
 
 names = {
+    'David Sarachan': 'Dave Sarachan',
+    'Hernan Borja': 'Chico Borja',
+    'Hernan (Chico) Borja': 'Chico Borja',
+    'Ian Fraser': 'Iain Fraser',
+    'David Dir': 'Dave Dir',
     'Chico Chacurian': 'Efrain Chacurian',
     
     'Joseph Maca': 'Joe Maca',
