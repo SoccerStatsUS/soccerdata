@@ -69,11 +69,6 @@ class GeneralProcessor(object):
         if line.startswith(";"):
             return
 
-        # Either an unknown score or a problem with the date. (Hopefully).
-        # Skip it.
-        if '?' in line:
-            return
-
         # Set the previous game as a minigame.
         if line.startswith("Minigame"):
             self.games[-1]['minigame'] = True
@@ -228,10 +223,9 @@ class GeneralProcessor(object):
 
                 # Eventually will indicate a blank score.
                 # We're not prepared to handle this, so leave the function.
-                if score == 'w/o':
-                    print "skipping: w/o"
+                if score in ('w/o', 'n/p', '?'):
+                    print "skipping: %s" % score
                     return
-
                     winner = team1
                     team1_score = team2_score = None
                 else:
