@@ -14,6 +14,43 @@ d.update(basic)
 
 
 names = {
+    'Silvano Lenarduzzi': 'Sam Lenarduzzi',
+    'Samuel Lenarduzzi': 'Sam Lenarduzzi',
+    'Robert Lenarduzzi': 'Bob Lenarduzzi',
+    'Jeremiah Jerry Best': 'Jerry Best',
+
+    'Michael Dunne': 'Mike Dunne',
+    'William Fryer': 'Bill Fryer',
+    'Thomas Duggan': 'Tommy Duggan',
+    'Andrew John Andy Straden': 'Andy Straden',
+    'Arnold Oliver': 'Arnie Oliver',
+    'Ted Glover': 'Teddy Glover',
+    'Charles Edward Ted Glover': 'Teddy Glover',
+    'Hun Ryan': 'Francis Ryan',
+    'Jukey Nanoski': 'Juke Nanoski',
+
+    'Werner Nilsen': 'Scotty Nilsen',
+    'Werner Scotty Nilsen': 'Scotty Nilsen',
+    'F. Murphy Nilsen': 'Murphy Nilsen',
+    'Tommy Whitey Fleming': 'Tommy Fleming',
+    'William Looby': 'Bill Looby',
+    'Alexandre Ely': 'Alex Ely',
+
+    'Rudi Kuntner': 'Rudy Kuntner',
+    'Rudolf Kuntner': 'Rudy Kuntner',
+    
+    'Charles Colombo': 'Charlie Colombo',
+    'Nick Di Orio': 'Nick DiOrio',
+
+    'John Jaap': 'Johnny Jaap',
+    'John Jock Brown': 'Jock Brown',
+    'Peter Millar': 'Pete Millar',
+    'Davie Brown': 'Davey Brown',
+    'Robert Millar': 'Bob Millar',
+    'Tom Florie': 'Tommy Florie',
+    #'Sandy Dick': 'Alexander Dick',
+    'Alec Sandy Dick': 'Sandy Dick',
+    'Zeljko Bilecky': 'Zeljko Bilecki',
     'David Sarachan': 'Dave Sarachan',
     'Hernan Borja': 'Chico Borja',
     'Hernan (Chico) Borja': 'Chico Borja',
@@ -94,6 +131,7 @@ names = {
     'Hugo Galeano': 'Hugo Galeano-Vasquez',
     
 
+    'Mamadou Danso': 'Futty Danso',
     
     
     

@@ -43,7 +43,7 @@ Source: http://bethlehemsteelsoccer.org/gl041926.html
 
 
 4/24/1926; New York Giants; 3-1; Indiana Flooring; New York Oval; T. Cunningham; 3000 
-Brown 1, Brown (Hosie, Stradan) 47, Duggan 57; Herbert Carlson (James Cameron, Bob Millar) 10
+Brown 1, Brown (Robert Hosie, AndyStraden) 47, Tommy Duggan 57; Herbert Carlson (James Cameron, Bob Millar) 10
 New York Giants: Jimmy Douglas, Charlie Kelly, George Moorhouse, Andrew Burnett, Jimmy Parkes, Peter McKinney, Willie Crilley, Tommy Duggan, Brown, Robert Hosie, Andy Straden
 Indiana Flooring: Pete Renzulli, Andrew Rankin, Dave Ferguson, James Cameron, James Lonie Terris, Bill McIntosh, Jim Gallagher, Caleb Schylander, Bob Millar, Herbert Carlson, Bart McGhee
 
@@ -60,13 +60,13 @@ Newark Skeeters: Brown, Marshall, O'Connor, McLeod, Dunlap, Nicol, Adair, Kirby,
 5/15/1926; Bethlehem Steel; 2-0; New York Giants; Steel Field; Mose Bloom, Cunningham, Murphy
 Granger, Archie Stark; 
 Bethlehem Steel: Carson, Berryman, Allan, McDonald, Bill Carnihan, McGregor, Johnny Jaap, Granger, Archie Stark, Johnny Rollo, Goldie
-New York Giants: Geudert, Burnett, Moorhouse, Parks, Foy, McKinney, Cook, Duggan, Brown, Barr, Stradan
+New York Giants: Geudert, Burnett, Moorhouse, Parks, Foy, McKinney, Cook, Tommy Duggan, Brown, Barr, Andy Straden
 Source: http://bethlehemsteelsoccer.org/gl051726.html
 
 5/16/1926; Bethlehem Steel; 3-9; New York Giants; New York Yoval
-Archie Stark, Johnny Rollo, MacGregor; Brown, Brown, Brown, Duggan, Duggan, Burnett, Morhouse, Crilley, Stradan
+Archie Stark, Johnny Rollo, MacGregor; Brown, Brown, Brown, Tommy Duggan, Tommy Duggan, Burnett, Molrhouse, Crilley, Andy Straden
 Bethlehem Steel: Carson, McDonald, Allan, Burnett, Bill Carnihan, McGregor, Johnny Jaap, Granger, Archie Stark, Johnny Rollo, Robertson
-New York Giants: Geudert, Kelly, Moorhouse, Harris, Parks, Hosle, Cook, Duggan, Brown, Stradan, Crilley
+New York Giants: Geudert, Kelly, Moorhouse, Harris, Parks, Hosle, Cook, Tommy Duggan, Brown, Andy Straden, Crilley
 Source: http://bethlehemsteelsoccer.org/gl051726.html
 
 5/15/1926; Providence Clamdiggers; 0-6; New Bedford Whalers; New Bedford
@@ -195,12 +195,12 @@ Season: 1930
 L. Grenfeld, L. Grenfeld, Erno Schwarz; Nickolsburger, Nickolsburger
 * Check on these scores. Something fishy.
 Hakoah All Stars: Lajos Fischer, Theodor Wegner, Laszlo Sternberg, Reszo Nickolsburger, Leo Drucker, Paul Mahrer, L. Grenfeld, Moritz Haeusler, Erno Schwartz, Siegfried Wortmann, Max Gruenwald
-New York Giants: Jock Brown, George Moorhouse, Ted Glover, Stone, Jocus, Bill Daley, James Browne, Red Ballantyne, D. Brown, O'Brien, P. Grenfeld
+New York Giants: Jock Brown, George Moorhouse, Ted Glover, Stone, Jocus, Bill Daley, James Browne, Red Ballantyne, Davey Brown, O'Brien, P. Grenfeld
 
 5/11/1930; Hakoah All Stars; 2-0; New York Giants; Starlight Park, Bronx; 4500 
 Erno Schwarz, Erno Schwarz;
 Hakoah All Stars: Lajos Fischer, Ludwig Grosz, Laszlo Sternberg, Reszo Nickolsburger, Leo Drucker, Paul Mahrer, Erno Schwarz, Moritz Haeusler, Max Gruenwald, Siegfried Wortmann, L. Grenfeld
-New York Giants: Jock Brown, Glover, Moorhouse, Stone, Forrester, Daly, James Brown, Ballantyne, Dave Brown, O'Brien, E. Grenfeld
+New York Giants: Jock Brown, Glover, Moorhouse, Stone, Forrester, Daly, James Brown, Ballantyne, Davey Brown, O'Brien, E. Grenfeld
 
 5/11/1930; Brooklyn Wanderers; 1-6; New York Nationals; Hawthorne Field, Brooklyn; 2000 
 Schneider; Lafferty, Johnny Nelson, Johnny Nelson, Johnny Nelson, Carlson, Martyn
@@ -223,8 +223,8 @@ Scots-Americans: Yingling, Wolstencroft, Zibrowski, S. Aitken, R. Aitken, Peters
 New York Americans: Stan Chesney, Laszlo Sternberg, Smith, Currie, Fleming, Brady, O'Neill, Desterman, Brown, Herman, Eisner
 
 4/28/1940; Irish-Americans; 2-4; Philadelphia Germans; Scots Field, Kearny, N.J.; 2000 
-Sheppell, Burroughs; Duke Nanoski, Bob Gormley, Duke Nanoski, Bob Gormley
-Philadelphia Germans: Volz, Stoll, Harker, Miller, Nicol, Ferko, Patykula, George Nemchik, Duke Nanoski, Swieconek, Bob Gormley
+Sheppell, Burroughs; Juke Nanoski, Bob Gormley, Juke Nanoski, Bob Gormley
+Philadelphia Germans: Volz, Stoll, Harker, Miller, Nicol, Ferko, Patykula, George Nemchik, Juke Nanoski, Swieconek, Bob Gormley
 Irish-Americans: Barsaukas, Ford, Hudi, Robinson, Bowkowski, Harris, King, Cooper, Wittek, Burroughs, Sheppell
 
 
@@ -238,8 +238,8 @@ German-Americans; Voltz, Stoll, Harker, Ferko, Meith, Mervine, Reid, Gormley, Ge
 
 5/11/1941; Brookhattan; 0-4; Philadelphia German Americans; Starlight Park, Bronx; 3500 
 ; Bob Gormley, Jimmy Reid, Bob Gormley (Ed Milinewicz) 91, George Nemchik (Bob Gormley) 
-Philadelphia German Americans: Volz, Stoll, Harker, Ferko, Mieth, Gallagher, Bob Gormley, Jimmy Reid, George Nemchik, Swieconik, Milinowicz
-Brookhattan: John Bryndza, Greinert, George Barr, Mellon, Briscoe, J. Skiba, Ed Skiba, Rudy Kuntner, George Stamatis, Jeanette, Joe Boyle
+Philadelphia German Americans: Volz, Stoll, Harker, Ferko, Werner Mieth, Gallagher, Bob Gormley, Jimmy Reid, George Nemchik, Swieconik, Milinowicz
+Brookhattan: John Bryndza, Greinert, George Barr, Mellon, Briscoe, Joe Skiba, Ed Skiba, Rudy Kuntner, George Stamatis, Jennette, Joe Boyle
 
 
 Season: 1942
@@ -257,7 +257,7 @@ New York Americans: Stan Chesney, Brady, Laszlo Sternberg, Currie, Greenbaum, De
 4/5/1942; St. Mary's Celtic; 0-3; Irish Americans; Celtic Park, Brooklyn 
 ; Sheppell, Ballantyne, George Nemchik
 Irish Americans: Davis, Davidowski, Harris, Martinelli, Reid, McManus, Clark, Ballantyne, George Nemchik, Owen, Sheppell
-St. Mary's Celtic: Hunter, Brandolini, Martelli, Pereira, Black, Weir, Johnston, Martinelli, Duke Nanoski, Laferty, Lloyd
+St. Mary's Celtic: Hunter, Brandolini, Martelli, Pereira, Black, Weir, Johnston, Martinelli, Juke Nanoski, Laferty, Lloyd
 
 4/5/1942; Hatikvoh; 3-1; Swedish; Hawthorne Field, Brooklyn 
 Horowitz, Kornbluth, Mausner; Own Goal (Medjuck)
@@ -281,11 +281,11 @@ Season: 1943
 
 5/3/1943; Brookhattan; 6-3; New York Americans; Starlight Park, Bronx 
 Al Jennette, Al Jennette, Caesar Fernandez, Caesar Fernandez, Rudy Kuntner, Al Jennette; Lou Aron, Jack Hynes, Jack Hynes
-Brookhattan: Yingling, Greinert, Kosarik, Mellon, Briscoe, Webber, Fernandez, Kuntner, O'Neill, Al Jennette, Skiba
+Brookhattan: Yingling, Greinert, Kosarik, Mellon, Briscoe, Webber, Fernandez, Rudy Kuntner, O'Neill, Al Jennette, Skiba
 New York Americans: Glassman, Santry, Laszlo Sternberg, Curry, Ruddy, Maier, Sattler, Jack Hynes, Aron, De Rostaing, Aitken
 
 5/16/1943; Philadelphia Americans; 2-0; Kearny Celtics; Starlight Park, 3500 
-Ted Swieconek (Duke Nanoski) 35, Jimmy Reid (McAdams) 82; 
+Ted Swieconek (Juke Nanoski) 35, Jimmy Reid (McAdams) 82; 
 * Emil O. Schillinger league president
 * Duncan Othen, maanger Brooklyn Hispano
 Philadelphia Americans: Volz, Stoll, Harker, Kelly, Mleth, Gallagher, Dick, Jimmy Reid, Nanoski, Swieconek, Bob Gormley
@@ -324,7 +324,7 @@ Own Goal (McManus) 10, Miller 67; Owen 20, Bill Sheppell 80
 Skogstrom 20, O'Connell (McNaughton) 35, Pruha (McNaughton) 55, Pruha 65; Staniewicz (Waller) 60, Staniewicz (Fisher) 85
 
 4/7/1946; Kearny Americans; 1-2; Brooklyn Hispano; Kearny, N.J. 
-Brown; Salcedo, Salcedo
+Brown; Fabri Salcedo, Fabri Salcedo
 
 4/7/1946; Baltimore SC; 1-4; Philadelphia Americans; Bugle Field, Baltimore
 
@@ -354,7 +354,7 @@ Connell 67; Tom Sasso (C. Sheppell) 71, Tom Sasso 115
 Season: 1948
 
 4/18/1948; New York Americans; 2-3; Philadelphia Americans; Sterling Oval, Bronx 
-Sol Eisner 82, Dick Roberts 90+; Duke Nanoski (Bob Gormely) 22, Bob Gormley 56, John Cier 83
+Sol Eisner 82, Dick Roberts 90+; Juke Nanoski (Bob Gormely) 22, Bob Gormley 56, John Cier 83
 
 
 * One of these seems to have the wrong date or Team?

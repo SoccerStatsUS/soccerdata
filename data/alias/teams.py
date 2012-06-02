@@ -33,6 +33,47 @@ teams.update(colleges)
 
 world = {
 
+    'Sport Guyanais': 'ASL Sport Guyanais',
+
+    'Barcelona (Ecuador)': 'Barcelona Sporting Club',
+    'Aurora': 'Aurora F.C.',
+    'Uniao de Santarem': 'União de Santarém',
+
+    'Bayern Munchen': 'FC Bayern Munich',
+    'Bayern Munich': 'FC Bayern Munich',
+
+    'Alianza FC': 'Alianza',
+    'America (Nicaragua)': 'América Managua',
+    'Juventud Olimpica': 'Juventud Olímpica',
+    'Olympique (Ft-de-France)': 'Olympique du Marin',
+    'Pachuca': 'C.F. Pachuca',
+    'Pachuca CF': 'C.F. Pachuca',
+    'Robin Hood': 'S.V. Robinhood',
+    'SV Robin Hood': 'S.V. Robinhood',
+    'SV Robinhood': 'S.V. Robinhood',
+    'Tauro': 'Tauro FC',
+    'Unam Pumas': 'Pumas',
+    'Universidad de Guadalajara': 'Universidad Guadalajara',
+
+    'Victory Boys': 'SV Victory Boys',
+    'Violette': 'Violette AC',
+    'FAS': 'C.D. FAS',
+    'Deportivo FAS': 'C.D. FAS',
+
+    'Esteli': 'Real Estelí F.C.',
+    'Real Esteli': 'Real Estelí F.C.',
+    'Real Estelí': 'Real Estelí F.C.',
+    'RCA': 'Racing Club Aruba',
+    'Racing Club (Haiti)': 'Racing Club Haitien',
+    
+
+    'Juventus (Saint-Martin)':  'Juventus de Saint-Martin',
+    'Juventus de Saint-Anne': 'ASG Juventus de Sainte-Anne',
+    'Etoile de Monre-a-l\'Eau': 'Etoile de Morne-à-l\'Eau',
+    'Hankok Verdes': 'Club Verdes',
+    'Joe Public': 'Joe Public F.C.',
+    'Joe Public FC': 'Joe Public F.C.',
+
     'Feijenoord': 'Feyenoord',
     'América': 'Club América',
     'Club America': 'Club América',
@@ -71,6 +112,15 @@ world = {
     'Asturias': 'Club de Fútbol Asturias',
 
     'Belgrano': 'Club Atlético Belgrano',
+    'Academica de Coimbra': 'Académica de Coimbra',
+    'Galcasa': 'CSD Galcasa',
+    'Marinhense': 'A.C. Marinhense',
+
+    'Glasgow Celtic F.C.': 'Glasgow Celtic',
+    'Glasgow Rangers F.C.': 'Glasgow Rangers',
+    'Grasshoppers': 'Grasshoppers Zurich',
+    'Hamburg SV': 'Hamburger SV',
+    
 
 
 
@@ -334,6 +384,7 @@ teams.update(all_star)
 
 oteams = {
 
+    'Manhattan Beer': 'Chicago Manhattan Beer',
     'Tower Ford Casa Bianca': 'Casa Bianca',
 
     'Ukrainian SC (East NY)': 'NY Ukrainian SC',
@@ -830,7 +881,13 @@ misc = {
 
     'Kutis SC': 'St. Louis Kutis',
     'Kutis': 'St. Louis Kutis',
-    
+    'St. Louis Kutis SC': 'St. Louis Kutis',
+
+    'Tempête': 'Tempête Football Club',
+    'Tempete': 'Tempête Football Club',
+
+    'Trintoc': 'United Petrotrin',
+    'Trintoc FC': 'United Petrotrin',
 
     'Ukrainian Nationals': 'Philadelphia Ukrainians',
     'Hungaria SC (East NY)': 'New York Hungaria',

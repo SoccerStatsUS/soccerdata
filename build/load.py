@@ -46,17 +46,20 @@ def first_load():
     load_positions()
     load_drafts()
     #load_news()
+    load_nasl2()
+
+    load_friendlies()
+
+    load_concacaf()
+
 
 
     load_usa()
-    return
 
     load_cups()
     load_name_maps()
     load_stadium_maps()
-    load_hall_of_fame()
 
-    
     load_isl()
 
     load_apsl()
@@ -64,42 +67,28 @@ def first_load():
     load_asl2()
 
     load_usl()
-    #load_leach()    
+
 
     #load_ncaa()
 
-
     load_small_tournaments()
 
-
-
-
-
-
-
-    load_friendlies()
-
-
-
     load_nasl()
-
-
-    load_ussf2()
-    load_nasl2()
-
 
     load_nafbl()
 
     load_city()
 
-    load_concacaf()
+
     load_asl()
     load_mls()    
+
+
 
     return
 
     # Fix this first.
-
+#load_leach()    
 
 
     # soccernet / recent stats.
@@ -235,6 +224,7 @@ def load_isl():
 
 
 def load_usa():
+    from soccerdata.text import halloffame
 
     #load_general('usa', 'international/usmnt/gold_cup')
     #load_general('usa', 'international/usmnt/world_cup')
@@ -243,6 +233,8 @@ def load_usa():
 
     load_games_standard('usa', 'international/country/usa/gold')
     load_games_standard('usa', 'international/country/usa/world_cup')
+
+    generic_load(soccer_db.usa_awards, halloffame.load_hall_of_fame)
 
 
 
@@ -259,13 +251,10 @@ def load_cups():
 
 def load_small_tournaments():
 
-    #load_general('chris', 'small_tournaments/canadian.txt')
     load_games_standard('small', 'domestic/country/canada/cups//championship')
     load_games_standard('small', 'domestic/country/canada/cups//early')
     load_games_standard('small', 'domestic/country/usa/tournaments/carolina')
     load_games_standard('small', 'domestic/country/usa/tournaments/dynamo')
-    load_games_standard('small', 'domestic/confederation/concacaf/superliga')
-    load_games_standard('small', 'domestic/confederation/concacaf/giantscup')
     load_games_standard('small', 'international/misc/us_cup')
     load_games_standard('small', 'international/misc/bicentennial')
 
@@ -284,6 +273,8 @@ def load_nafbl():
 
     # Also loading ALoPF and SNESL
 
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/alpf')
+
     load_games_standard('nafbl', 'domestic/country/usa/leagues/nafbl1')
     load_games_standard('nafbl', 'domestic/country/usa/leagues/nafbl2')
 
@@ -294,40 +285,6 @@ def load_city():
 
     load_standings('city', 'domestic/city/slsl')
     load_standings('city', 'domestic/city/cosmo')
-
-
-
-
-
-def load_modern():
-    load_mls()
-    load_apsl()
-    load_usl()
-    load_leach()    
-    load_nasl2()
-    load_concacaf()
-
-
-def load_early():
-    load_general('american_cup', 'cups/american_cup')
-    load_general('american_cup', 'leagues/nafbl.txt')
-    load_general('american_cup', 'leagues/alpf.txt')
-    load_general('american_cup', 'international/usmnt/usa_very_early')
-
-
-def load_midwest():
-    for e in range(191, 202):
-        load_general('open_cup', 'cups/open/%s0' % e)
-
-    load_general('open_cup', 'leagues/isl')
-    load_general('open_cup', 'teams/benmillers.txt')
-    load_general('open_cup', 'teams/bricklayers.txt')
-    load_general('open_cup', 'teams/harmarville.txt')
-    load_general('open_cup', 'teams/benmillers.txt')
-    load_general('open_cup', 'teams/morgan')
-    load_general('open_cup', 'teams/scullin.txt')
-    load_general('open_cup', 'teams/stix.txt')
-
 
 
 
@@ -344,61 +301,42 @@ def load_friendlies():
 
 
 
+# Custom 
 
 
-
-def load_standings_old():
-
-    print "Loading chris standings.\n"
-
-    return
-    f = lambda s: generic_load(soccer_db.chris_standings, standings.process_standings_file(s), delete=False)
-
-
-    for e in [
-        'early',
-        
-        'mls', 
-        'nasl', 
-        'asl', 
-        
-        'asl2', 
-        'wsa', 
-        'apsl', 
-        'isl',
-
-        'midwest',
-
-        'usl0',
-        'usl/12', 
-        'usl/select', 
-        'usl/pro', 
-        'usl/premier', 
-        'usisl', 
-        'nasl0', 
-        'npsl',
-        'ussf2',
-        'uslpro',
-
-        'lssa', 
-        'cosmo', 
-        'slsl',
-        'csl',
-        'cpsl',
+def load_modern():
+    load_mls()
+    load_apsl()
+    load_usl()
+    load_leach()    
+    load_nasl2()
+    load_concacaf()
 
 
-        'concacaf/jamaica',
-        'concacaf/trinidad',
-        'concacaf/honduras',
+def load_early():
 
-        ]:
-        f(e)
+    load_general('american_cup', 'cups/american_cup')
+
+    load_general('american_cup', 'international/usmnt/usa_very_early')
+
+
+def load_midwest():
+    for e in range(191, 202):
+        load_general('open_cup', 'cups/open/%s0' % e)
+
+    load_general('midwest', 'leagues/isl')
+    load_general('midwest', 'teams/benmillers.txt')
+    load_general('midwest', 'teams/bricklayers.txt')
+    load_general('midwest', 'teams/harmarville.txt')
+    load_general('midwest', 'teams/benmillers.txt')
+    load_general('midwest', 'teams/morgan')
+    load_general('midwest', 'teams/scullin.txt')
+    load_general('midwest', 'teams/stix.txt')
+
 
     
-def load_hall_of_fame():
-    from soccerdata.text import halloffame
 
-    generic_load(soccer_db.usa_awards, halloffame.load_hall_of_fame)
+
 
 
 
@@ -570,20 +508,24 @@ def load_mls_lineups():
     generic_load(soccer_db.mls_lineups, lineups.load_all_lineups_scaryice)
 
 
-def load_ussf2():
-    load_standings('ussf2', 'domestic/country/usa/ussf2')
+
+
 
 def load_nasl2():
+
+    print "Loading 2010 USSF D2 stats."
+    from soccerdata.text import nasl
+    load_games_standard('ussf2', 'domestic/country/usa/leagues/ussfd2')
+    load_standings('ussf2', 'domestic/country/usa/ussf2')
 
     print "Loading 2011 NASL stats."
     from soccerdata.text import nasl
     generic_load(soccer_db.nasl2_stats, nasl.process_stats)
 
     print "Loading 2011 NASL games."
-    load_games_standard('nasl', 'domestic/country/usa/leagues/nasl2011')
+    load_games_standard('nasl2', 'domestic/country/usa/leagues/nasl2011')
 
     load_standings('nasl2', 'domestic/country/usa/nasl2')
-
 
 
 
@@ -620,8 +562,14 @@ def load_soccernet_league(name, code):
 
 
 def load_concacaf():
-    for e in '678':
+
+    load_games_standard('concacaf', 'domestic/confederation/concacaf/superliga')
+    load_games_standard('concacaf', 'domestic/confederation/concacaf/giantscup')
+
+    for e in '6789':
         load_games_standard('concacaf', 'domestic/confederation/concacaf/champions_cup/19%s0' % e)
+
+    load_games_standard('concacaf', 'domestic/confederation/concacaf/champions_cup/2000')
         
     load_soccernet_league('concacaf', 'concacaf.champions')
 

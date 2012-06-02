@@ -57,6 +57,8 @@ def generate_all_stats():
 
     standard_generate('small')
 
+    standard_generate('ussf2')
+
     standard_generate('isl')
 
     standard_generate('tours')
