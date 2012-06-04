@@ -46,6 +46,7 @@ def generate_all_stats():
     standard_generate('nafbl')
     standard_generate('mls_reserve')
     standard_generate('chris')
+
     standard_generate('american_cup')
     standard_generate('lewis_cup')
     standard_generate('open_cup')
@@ -54,6 +55,8 @@ def generate_all_stats():
     standard_generate('world_cup')
     standard_generate('usl_leach')
     standard_generate('concacaf')
+
+    standard_generate('mexico')
 
     standard_generate('small')
 
@@ -87,6 +90,9 @@ def generate_all_standings():
 
     stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
     generic_load(soccer_db.mls_soccernet_standings, lambda: stg.values())
+
+
+    stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
 
 
 

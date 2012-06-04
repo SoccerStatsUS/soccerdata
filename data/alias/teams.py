@@ -31,6 +31,50 @@ colleges = {
 }
 teams.update(colleges)
 
+mexican = {
+
+    'Deportivo Atlas': 'Club Atlas',
+    'Atlas': 'Club Atlas',
+
+    'América': 'Club América',
+    'Club America': 'Club América',
+
+    'León': 'Club León',
+    'Leon': 'Club León',
+
+    'Pachuca': 'C.F. Pachuca',
+    'Pachuca CF': 'C.F. Pachuca',
+
+    'U.A.N.L': 'UANL',
+    'Tigres UANL': 'UANL',
+    'UANL Tigres': 'UANL',
+    'Tigres de la UANL': 'UANL',
+    
+    'U.A. de G.': 'Tecos',
+
+    'Monterrey': 'C.F. Monterrey',
+
+    'Tampico-Madero': 'Tampico Madero',
+
+    'Puebla F.C.': 'Puebla',
+
+    'Estudiantes Tecos': 'Tecos',
+    'UAG': 'Tecos',
+    'UAG Tecos': 'Tecos',
+    'CD Guadalajara': 'C.D. Guadalajara Chivas',
+    'Guadalajara': 'CD Guadalajara',
+    'Chivas Guadalajara': 'CD Guadalajara',
+    'Chivas': 'CD Guadalajara',
+
+    'Univ. de Guadalajara': 'Universidad de Guadalajara',
+    'Univ Guadalajara': 'Universidad de Guadalajara',
+    'Universidad Guadalajara': 'Universidad de Guadalajara',
+    'U de G': 'Universidad de Guadalajara',
+
+
+}
+teams.update(mexican)
+
 world = {
 
     'Sport Guyanais': 'ASL Sport Guyanais',
@@ -46,14 +90,12 @@ world = {
     'America (Nicaragua)': 'América Managua',
     'Juventud Olimpica': 'Juventud Olímpica',
     'Olympique (Ft-de-France)': 'Olympique du Marin',
-    'Pachuca': 'C.F. Pachuca',
-    'Pachuca CF': 'C.F. Pachuca',
     'Robin Hood': 'S.V. Robinhood',
     'SV Robin Hood': 'S.V. Robinhood',
     'SV Robinhood': 'S.V. Robinhood',
     'Tauro': 'Tauro FC',
     'Unam Pumas': 'Pumas',
-    'Universidad de Guadalajara': 'Universidad Guadalajara',
+
 
     'Victory Boys': 'SV Victory Boys',
     'Violette': 'Violette AC',
@@ -75,8 +117,6 @@ world = {
     'Joe Public FC': 'Joe Public F.C.',
 
     'Feijenoord': 'Feyenoord',
-    'América': 'Club América',
-    'Club America': 'Club América',
 
     'Norrkoeping': 'IFK Norrköping',
     'Glenavon': 'Glenavon F.C.',
@@ -160,15 +200,12 @@ world = {
     'Benfica': 'S.L. Benfica',
 
     'TSC Muenchen 1860': 'TSV 1860 München',
-    'Tigres UANL': 'Tigres de la UANL',
-    'UANL Tigres': 'Tigres de la UANL',
-    'Tecos': 'Estudiantes Tecos',
-    'UAG': 'Estudiantes Tecos',
-    'UAG Tecos': 'Estudiantes Tecos',
+
+
     'Racing (Argentina)': 'Racing Club de Avellaneda',
     'Racing Club (Argentina)': 'Racing Club de Avellaneda',
     'Reggina': 'Reggina Calcio',
-    'CD Guadalajara': 'C.D. Guadalajara Chivas',
+
     'Celtic F.C.': 'Glasgow Celtic F.C.',
     'Celtic FC': 'Glasgow Celtic F.C.',
     
@@ -181,8 +218,6 @@ world = {
     'Wisla Krakov': 'Wisła Kraków',
     'Bari': 'A.S. Bari',
 
-    'Deportivo Atlas': 'Club Atlas',
-    'Atlas': 'Club Atlas',
     'Everton': 'Everton F.C.',
     'Sunderland': 'Sunderland A.F.C.',
     'Sampdoria': 'U.C. Sampdoria',
@@ -224,9 +259,8 @@ world = {
     'A.C. Milan': 'AC Milan',
     'A. C. Milan': 'AC Milan',
     'Tottenham Hotspurs': 'Tottenham Hotspur',
-    'Guadalajara': 'CD Guadalajara',
-    'Chivas Guadalajara': 'CD Guadalajara',
-    'Chivas': 'CD Guadalajara',
+
+
     'Chelsea': 'Chelsea FC',
     'Chelsea F.C.': 'Chelsea FC',
     'Santos (Brazil)': 'Santos FC',
@@ -256,8 +290,6 @@ world = {
 
     'Roanoke River Dawgs': 'Roanoke RiverDawgs',
     'Roanoke Riverdawgs': 'Roanoke RiverDawgs',
-    'Univ. de Guadalajara': 'Universidad de Guadalajara',
-    'Univ Guadalajara': 'Universidad de Guadalajara',
     'Leslie Verdes': 'Club Verdes',
     'Voorwaarts': 'SV Voorwaarts',
     'Aguila': 'C.D. Águila',

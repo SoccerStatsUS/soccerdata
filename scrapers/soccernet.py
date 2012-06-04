@@ -65,6 +65,7 @@ aliases = {
     'Motagua': 'CD Motagua',
     'Olimpia (H)': 'CD Olimpia',
     'San Fco': 'San Francisco F.C.',
+    'Santos FC': 'Santos Laguna',
 
     'Chicago': 'Chicago Fire',
     'Colorado': 'Colorado Rapids',
@@ -93,12 +94,13 @@ def code_to_competition(league_code):
     d = {
         'usa.1': 'Major League Soccer',
         'concacaf.champions': 'CONCACAF Champions League',
+        'mex.1': 'Primera División Profesional',
         }
     {
-        'mex.1': 'Mexico',
+
         'eng.1': 'Premier League',
         'arg.1': 'Argentina',
-        'uefa.champions': 'Champions Leageu',
+        'uefa.champions': 'Champions League',
         'uefa.europa': 'Europa League',
         'conmebol.libertadores': 'Copa Libertadores',
         'ger.1': 'Bundesliga',
@@ -161,7 +163,8 @@ def get_scoreboard_urls(league_code, start, end=None):
         return d >= end
 
 
-
+    # This is commented out because get_previous url badly written so that
+    # it doesn't update dates properly when this is cached.
     #@data_cache
     @set_cache
     def get_previous_url(url):
@@ -574,7 +577,7 @@ if __name__ == "__main__":
         'arg.1',
         ]
 
-    print scrape_all_league_games('concacaf.champions')
+    #print scrape_all_league_games('concacaf.champions')
     print scrape_all_league_games('usa.1')
     #print scrape_all_league_goals('usa.1')
     #print scrape_all_league_lineups('usa.1')
