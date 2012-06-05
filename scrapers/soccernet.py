@@ -66,6 +66,10 @@ aliases = {
     'Olimpia (H)': 'CD Olimpia',
     'San Fco': 'San Francisco F.C.',
     'Santos FC': 'Santos Laguna',
+    'Comunicacion': 'Comunicaciones',
+    'C.D. Fas': 'C.D. FAS',
+    'I. Metapán': 'Isidro Metapán',
+    'San Francisco': 'San Francisco F.C.',
 
     'Chicago': 'Chicago Fire',
     'Colorado': 'Colorado Rapids',
@@ -358,7 +362,7 @@ def scrape_live_game(url, competition):
         'date': date,
         'location': location,
         'referee': referee,
-        'source': url,
+        'sources': [url],
         }
 
 
@@ -419,7 +423,7 @@ def scrape_live_goals(url, competition):
             'date': game_data['date'],
             'competition': game_data['competition'],
             'assists': [],
-            'source': url,
+            'sources': [url],
             }
 
     # Not the best way to handle this now that we've switched away from home/away designations.
@@ -526,7 +530,7 @@ def scrape_live_lineups(url, competition):
                     'date': game_data['date'],
                     'season': unicode(game_data['date'].year),
                     'competition': game_data['competition'],
-                    'source': url,
+                    'sources': [url],
                     })
 
         return lineup

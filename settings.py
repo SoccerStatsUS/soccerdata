@@ -21,8 +21,10 @@ SOURCES = [
     'ncaa',
     #'world_cup',
     'usa',
-    'concacaf',
     'isl',
+    'concacaf',
+    'mexico',
+
         ]
 
 

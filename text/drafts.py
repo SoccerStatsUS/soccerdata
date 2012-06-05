@@ -81,6 +81,11 @@ class DraftProcessor():
 
 
     def process_line(self, line):
+
+        line = remove_pairs(line, "[", "]")
+
+
+
         if line.startswith("Draft:"):
             self.name = line.replace("Draft:", '').strip()
 

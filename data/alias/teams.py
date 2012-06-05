@@ -33,49 +33,125 @@ teams.update(colleges)
 
 mexican = {
 
-    'Deportivo Atlas': 'Club Atlas',
-    'Atlas': 'Club Atlas',
+    'México Country Club': 'México Cricket Club',
+
+    'Oro': 'C.D. Oro',
+    'CD Oro': 'C.D. Oro',
+    'CD Toluca': 'Toluca',
+
+    'Club Celaya': 'Celaya FC',
+
+    'Athletico Morelia': 'Monarcas Morelia',
+    'Athlético Morelia': 'Monarcas Morelia',
+    'Atlético Morelia': 'Monarcas Morelia',
+
+    # Unicode problems?
+    #u'Athl\xe9tico Morelia': 'Monarcas Morelia',
+    #u'Atl\xe9tico Morelia': 'Monarcas Morelia',
+
+    'Morelia': 'Monarcas Morelia',
+    'CA Monarcas Morelia': 'Monarcas Morelia',
+
+    'Atletico Espanol': 'Atlético Español',
+    'Atletico Potosino': 'Atlético Potosino',
+    
+
 
     'América': 'Club América',
     'Club America': 'Club América',
 
+    #u'Am\xe9rica': 'Club América',
+
     'León': 'Club León',
     'Leon': 'Club León',
 
+    #u'Club Le\xf3n': 'Club León',
+
+    'Club Deportivo Veracruz': 'Veracruz',
+
     'Pachuca': 'C.F. Pachuca',
     'Pachuca CF': 'C.F. Pachuca',
+    'Pachuca AC': 'C.F. Pachuca',
 
+    'C.D. Irapuato': 'CD Irapuato',
+    'Irapuato': 'CD Irapuato',
+    'Deportivo Irapuato': 'CD Irapuato',
+
+    'Laguna F.C.': 'Santos Laguna',
+    'Laguna FC': 'Santos Laguna',
+
+    'Club Necaxa': 'Necaxa',
+    
+
+    'UAT': 'Correcaminos UAT',
+    'U.A.T.': 'Correcaminos UAT',
+
+
+    'Unam Pumas': 'UNAM',
+    'Pumas': 'UNAM',
+    'Pumas UNAM': 'UNAM',
+    'UNAM Pumas': 'UNAM',
+    'U.N.A.M.': 'UNAM',
+
+    'Tigres': 'UANL',
     'U.A.N.L': 'UANL',
     'Tigres UANL': 'UANL',
     'UANL Tigres': 'UANL',
     'Tigres de la UANL': 'UANL',
     
-    'U.A. de G.': 'Tecos',
+
 
     'Monterrey': 'C.F. Monterrey',
 
     'Tampico-Madero': 'Tampico Madero',
 
     'Puebla F.C.': 'Puebla',
+    'Puebla FC': 'Puebla',
+    'Puebla AC': 'Puebla',
+    
+    'San Luis': 'San Luis FC',
+    'San Luis F.C.': 'San Luis FC',
 
+    'U.A. de G.': 'Tecos',
     'Estudiantes Tecos': 'Tecos',
     'UAG': 'Tecos',
+    'U.A.G.': 'Tecos',
     'UAG Tecos': 'Tecos',
-    'CD Guadalajara': 'C.D. Guadalajara Chivas',
+
+    'C.D. Guadalajara Chivas': 'CD Guadalajara',
     'Guadalajara': 'CD Guadalajara',
     'Chivas Guadalajara': 'CD Guadalajara',
+    'C.D. Guadalajara': 'CD Guadalajara',
     'Chivas': 'CD Guadalajara',
 
     'Univ. de Guadalajara': 'Universidad de Guadalajara',
     'Univ Guadalajara': 'Universidad de Guadalajara',
     'Universidad Guadalajara': 'Universidad de Guadalajara',
     'U de G': 'Universidad de Guadalajara',
+    'U Guadalajara': 'Universidad de Guadalajara',
 
+    'Club Deportivo Marte': 'Marte',
+    'Marte FC': 'Marte',
+
+    'Deportivo Atlas': 'Atlas',
+    'Club Atlas': 'Atlas',
+
+    'CA Atlas': 'Atlas',
+    'F.C. Atlas': 'Atlas',
 
 }
 teams.update(mexican)
 
+
+concacaf = {
+    'CD FAS': 'C.D. Fas',
+}
+
+teams.update(concacaf)
+
 world = {
+
+    'W Connection FC': 'W Connection',
 
     'Sport Guyanais': 'ASL Sport Guyanais',
 
@@ -94,7 +170,7 @@ world = {
     'SV Robin Hood': 'S.V. Robinhood',
     'SV Robinhood': 'S.V. Robinhood',
     'Tauro': 'Tauro FC',
-    'Unam Pumas': 'Pumas',
+
 
 
     'Victory Boys': 'SV Victory Boys',
@@ -284,7 +360,7 @@ world = {
     'L.D. Alajuelense': 'LD Alajuelense',
     'RC Riviere-Pilote': 'RC Rivière-Pilote',
     'Transvaal': 'SV Transvaal',
-    'UNAM': 'Unam Pumas',
+
     'Undeba': 'UNDEBA',
     'Union Dep. Banda\'bou': 'UNDEBA',
 

@@ -16,6 +16,14 @@ l = [
         'denomination': 'pesos',
         },        
 
+    {
+        'name': 'Parque Asturias',
+        'location': 'Mexico City, Mexico',
+        'capacity': 25000,
+        'opened': 1936,
+        'closed': 1966,
+        },        
+
 
     {
         'name': 'Estadio TSM Corona',

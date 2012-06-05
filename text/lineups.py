@@ -752,7 +752,7 @@ class LineupProcessor(object):
 
 
         if text:
-            print text
+            print "thx" % text
 
 
         return []

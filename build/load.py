@@ -49,7 +49,7 @@ def first_load():
 
     load_mexico()
     load_concacaf()
-    return
+
     load_mls()    
     load_friendlies()
     return
