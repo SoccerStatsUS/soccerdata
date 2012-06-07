@@ -24,7 +24,7 @@ SOURCES = [
     'isl',
     'concacaf',
     'mexico',
-
+    'fifa',
         ]
 
 
@@ -32,7 +32,6 @@ SOURCES = [
 
 # Skipping these.
 l =    [ 
-        'fifa',
         'uslsoccer',
         'wiki',
         'kicker',

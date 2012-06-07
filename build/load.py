@@ -47,6 +47,13 @@ def first_load():
     load_drafts()
     #load_news()
 
+    load_fifa()
+    return
+
+    load_asl()
+
+    return
+
     load_mexico()
     load_concacaf()
 
@@ -88,11 +95,6 @@ def first_load():
     load_city()
 
 
-    load_asl()
-
-
-
-
     return
 
     # Fix this first.
@@ -106,7 +108,7 @@ def first_load():
 
 
     # All World Cups.
-    load_world_cup()
+
 
 
 
@@ -614,11 +616,27 @@ def load_ncaa():
     generic_load(soccer_db.ncaa_awards, awards.process_ncaa_awards)
 
 
-def load_world_cup():
+def load_fifa():
     from soccerdata.scrapers import fifa
+
+    load_fifa_competition('FIFA Club World Cup')
+    load_fifa_competition('FIFA Confederations Cup')
+    load_fifa_competition('FIFA U-20 World Cup')
+    load_fifa_competition('FIFA U-17 World Cup')
+
     generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
     generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
     generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
+
+
+
+def load_fifa_competition(competition):
+    from soccerdata.scrapers import fifa
+    games, goals, lineups = fifa.scrape_everything(competition)
+    generic_load(soccer_db.fifa_games, lambda: games)
+    generic_load(soccer_db.fifa_goals, lambda: goals)
+    generic_load(soccer_db.fifa_lineups, lambda: lineups)
+
 
 
 def load_kicker():
