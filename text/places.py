@@ -14,6 +14,34 @@ PLACES_DIR = "/home/chris/www/soccerdata/data/places"
 
 def load_countries():
     l = []
+    p = os.path.join(PLACES_DIR, 'country_codes')
+    for line in open(p):
+        if line.strip():
+            if not line.startswith('*'):
+                try:
+                    country, country_code, confederations = line.split(';')
+                except:
+                    import pdb; pdb.set_trace()
+
+                if ',' in confederations:
+                    confederation, subconfederation = [e.strip() for e in confederations.split(',')]
+                else:
+                    confederation = confederations.strip()
+                    subconfederation = None
+
+                l.append({
+                        'name': country.strip(),
+                        'code': country_code.strip(),
+                        'confederation': confederation,
+                        'subconfederation': subconfederation,
+                        })
+
+    return l
+
+
+
+def load_country_populations():
+    l = []
     p = os.path.join(PLACES_DIR, 'countries')
     for line in open(p):
         if line.strip():
