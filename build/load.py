@@ -47,31 +47,23 @@ def first_load():
     load_drafts()
     #load_news()
 
+    load_cups()
+
     load_fifa()
-    return
 
     load_asl()
-
-    return
 
     load_mexico()
     load_concacaf()
 
     load_mls()    
     load_friendlies()
-    return
 
     load_nasl2()
 
-
-
-
-
-
-
     load_usa()
 
-    load_cups()
+
     load_name_maps()
     load_stadium_maps()
 

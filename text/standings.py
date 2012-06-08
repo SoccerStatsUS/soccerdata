@@ -149,6 +149,17 @@ class StandingProcessor(object):
             self.group = ''
             return
 
+        if line.startswith("Round:"):
+            #self.season = line.split("Season:")[1].strip()
+            #self.group = ''
+            return
+
+        if line.startswith("Region:"):
+            #self.season = line.split("Season:")[1].strip()
+            #self.group = ''
+            return
+
+
 
         # Set the round.
         if line.startswith("Group"):

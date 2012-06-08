@@ -1,6 +1,8 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+from soccerdata.mongo import soccer_db
+
 teams = {}
 
 
@@ -1273,9 +1275,19 @@ pdl_teams = {
 
 
 
+country_code_dict = dict([(e['code'], e['name']) for e in soccer_db.countries.find()])
+
+def convert_country_code(code):
+    if code in country_code_dict:
+        return country_code_dict[code]
+
+    return code
+
 
 def get_team(name, competition=None, pre_dict={}):
     # Remove pre_dict, competition from get_team
+
+    name = convert_country_code(name)
 
     if name is None:
         import pdb; pdb.set_trace()

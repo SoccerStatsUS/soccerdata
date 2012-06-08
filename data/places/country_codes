@@ -241,7 +241,9 @@ Congo-Brazzaville     ; COB; CAF
 Czechoslovakia        ; TCH; UEFA
 Dahomey               ; DAH; CAF
 Dutch East Indies     ; DEI; AFC
-Suriname  ; NGY; CONCACAF
+
+* Removing this to avoid creating a multiple refrence.
+* Suriname  ; NGY; CONCACAF
 East Germany  ; GDR; UEFA
 Gold Coast    ; GOC; CAF
 Ireland       ; EIR; UEFA
