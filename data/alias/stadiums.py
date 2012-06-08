@@ -27,6 +27,7 @@ soccernet_errors = {
     'Hasely Crawford': 'Hasely Crawford Stadium',
     'Andrés Quintana Roo': 'Estadio Quintana Roo',
     'Complexe sportif Claude-Robillard': 'Complexe Sportif Claude-Robillard',
+    'Estadio de la Ciudad de los Deportes, México DF': 'Estadio Azul',
 }
 sd.update(soccernet_errors)
     

@@ -1,28 +1,30 @@
 
 SOURCES = [
+    'small',
     'tours',
-    'open_cup',
     'american_cup',
-    'lewis_cup',
+    'open_cup',
     'nafbl',
     'asl',
-    'small',
+    'lewis_cup',
+    'asl2',
+    'isl',
     'nasl',
-    'mls',
-    'mls_soccernet',
-    'mls_reserve',
     'apsl',
     'usl',
     'usl_leach',
+    'mls',
+    'mls_soccernet',
+    'mls_reserve',
     'ussf2',
     'nasl2',
-    'asl2',
     'city',
     'ncaa',
     #'world_cup',
-    'usa',
     'concacaf',
-    'isl',
+    'mexico',
+    'usa',
+    'fifa',
         ]
 
 
@@ -30,7 +32,6 @@ SOURCES = [
 
 # Skipping these.
 l =    [ 
-        'fifa',
         'uslsoccer',
         'wiki',
         'kicker',

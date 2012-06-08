@@ -96,6 +96,7 @@ def normalize():
     # Team names in games.
     for s in SOURCES:
         coll = soccer_db["%s_games" %s]
+
         l = []
         for e in coll.find():
             e['competition'] = get_competition(e['competition'])
@@ -220,6 +221,8 @@ def normalize():
     # Normalize standings
     for s in SOURCES:
         coll = soccer_db["%s_standings" %s]
+        print coll
+
         l = []
         for e in coll.find():
             e['competition'] = get_competition(e['competition'])
@@ -227,6 +230,7 @@ def normalize():
 
             l.append(e)
 
+        print "Inserting %s items into %s" % (len(l), coll)
         coll.drop()
         insert_rows(coll, l)
 

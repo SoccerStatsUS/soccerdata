@@ -43,6 +43,8 @@ class GeneralProcessor(object):
         self.score_type = "standard"
         self.century = None # Manage dates like 3/23/10
 
+        self.date_style = 'month first'
+
         self.games = []
         self.goals = []
         self.misconduct = []
@@ -73,6 +75,12 @@ class GeneralProcessor(object):
         if line.startswith("Minigame"):
             self.games[-1]['minigame'] = True
             return
+
+        if line.startswith("Date-style"):
+            self.date_style = line.split("Date-style:")[1].strip()
+            return
+
+
 
         # Change the number of minutes.
         if line.startswith("Minutes:"):
@@ -123,6 +131,9 @@ class GeneralProcessor(object):
 
         # Get the game now.
         fields = line.split(";")
+
+        if '26/09/1943' in line:
+            pass #import pdb; pdb.set_trace()
 
 
         # Checking for Brooklyn FC: GK, DF
@@ -180,13 +191,22 @@ class GeneralProcessor(object):
         # Get the date and time.
         time_string = fields[0].strip()
 
+
+
+
         # Try datetime first, if it doesn't work, try time.
         m = self.DATE_TIME_RE.match(time_string)
         if m:
-            month, day, year, start = m.groups()
+            if self.date_style == 'day first':
+                day, month, year, start = m.groups()
+            else: 
+                month, day, year, start = m.groups()
         else:
             try:
-                month, day, year = self.DATE_RE.match(time_string).groups()
+                if self.date_style == 'day first':
+                    day, month, year = self.DATE_RE.match(time_string).groups()
+                else:
+                    month, day, year = self.DATE_RE.match(time_string).groups()
             except:
                 import pdb; pdb.set_trace()
             start = None

@@ -1,4 +1,4 @@
-#!/usr/local/bin/env python
+1;2c#!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
 d = {}
@@ -18,6 +18,18 @@ names = {
     'Samuel Lenarduzzi': 'Sam Lenarduzzi',
     'Robert Lenarduzzi': 'Bob Lenarduzzi',
     'Jeremiah Jerry Best': 'Jerry Best',
+
+    'José Torres': 'José Francisco Torres',
+    'Carlos Costly': 'Carlo Costly',
+    'Jared Francisco Echavarria Borgetti': 'Jared Borgetti',
+    'Edgard Cassiani Perez': 'Edgard Cassiani',
+    'Edgar Eduardo Castillo': 'Edgar Castillo',
+    'Edgar Eduardo Castillo Carrillo': 'Edgar Castillo',
+    'Gustavo Omar Trujillo Corona': 'Gustavo Trujillo',
+    'Edgar Mariano Trujillo Reyes': 'Mariano Trujillo',
+    'Juan Pablo Rodriguez': 'Juan Pablo Rodríguez',
+    'Juan Francisco Palencia': 'Francisco Palencia',
+    
 
     'Michael Dunne': 'Mike Dunne',
     'William Fryer': 'Bill Fryer',
@@ -350,6 +362,12 @@ names = {
     'Jesus Mendoza': 'Jesús Mendoza',
     'Diego Martinez': 'Diego Martínez',
     'Jesus Padilla': 'Jesús Padilla',
+    'Jesús Andrés Padilla Cisneros': 'Jesús Padilla',
+    'Juan Loera': 'Juan Loera-Villalvazo',
+    'Raul Alvin Mendoza': 'Raúl Alvin Mendoza',
+    'Cristian Montero': 'Christian Montero',
+    'Francisco (Javier) Gomez': 'Francisco Gomez',
+
     'Luis Garcia': 'Luis García',
     'Vitor Baia': 'Vítor Baía',
 

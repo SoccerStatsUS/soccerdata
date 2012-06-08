@@ -50,6 +50,7 @@ def merge_standings():
     insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
     insert_rows(soccer_db.standings, soccer_db.open_cup_standings.find())
     insert_rows(soccer_db.standings, soccer_db.concacaf_standings.find())
+    insert_rows(soccer_db.standings, soccer_db.mexico_standings.find())
 
 
 

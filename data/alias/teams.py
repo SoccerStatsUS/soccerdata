@@ -1,6 +1,8 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+from soccerdata.mongo import soccer_db
+
 teams = {}
 
 
@@ -31,7 +33,127 @@ colleges = {
 }
 teams.update(colleges)
 
+mexican = {
+
+    'México Country Club': 'México Cricket Club',
+
+    'Oro': 'C.D. Oro',
+    'CD Oro': 'C.D. Oro',
+    'CD Toluca': 'Toluca',
+
+    'Club Celaya': 'Celaya FC',
+
+    'Athletico Morelia': 'Monarcas Morelia',
+    'Athlético Morelia': 'Monarcas Morelia',
+    'Atlético Morelia': 'Monarcas Morelia',
+
+    # Unicode problems?
+    #u'Athl\xe9tico Morelia': 'Monarcas Morelia',
+    #u'Atl\xe9tico Morelia': 'Monarcas Morelia',
+
+    'Morelia': 'Monarcas Morelia',
+    'CA Monarcas Morelia': 'Monarcas Morelia',
+
+    'Atletico Espanol': 'Atlético Español',
+    'Atletico Potosino': 'Atlético Potosino',
+    
+
+
+    'América': 'Club América',
+    'Club America': 'Club América',
+
+    #u'Am\xe9rica': 'Club América',
+
+    'León': 'Club León',
+    'Leon': 'Club León',
+
+    #u'Club Le\xf3n': 'Club León',
+
+    'Club Deportivo Veracruz': 'Veracruz',
+
+    'Pachuca': 'C.F. Pachuca',
+    'Pachuca CF': 'C.F. Pachuca',
+    'Pachuca AC': 'C.F. Pachuca',
+
+    'C.D. Irapuato': 'CD Irapuato',
+    'Irapuato': 'CD Irapuato',
+    'Deportivo Irapuato': 'CD Irapuato',
+
+    'Laguna F.C.': 'Santos Laguna',
+    'Laguna FC': 'Santos Laguna',
+
+    'Club Necaxa': 'Necaxa',
+    
+
+    'UAT': 'Correcaminos UAT',
+    'U.A.T.': 'Correcaminos UAT',
+
+
+    'Unam Pumas': 'UNAM',
+    'Pumas': 'UNAM',
+    'Pumas UNAM': 'UNAM',
+    'UNAM Pumas': 'UNAM',
+    'U.N.A.M.': 'UNAM',
+
+    'Tigres': 'UANL',
+    'U.A.N.L': 'UANL',
+    'Tigres UANL': 'UANL',
+    'UANL Tigres': 'UANL',
+    'Tigres de la UANL': 'UANL',
+    
+
+
+    'Monterrey': 'C.F. Monterrey',
+
+    'Tampico-Madero': 'Tampico Madero',
+
+    'Puebla F.C.': 'Puebla',
+    'Puebla FC': 'Puebla',
+    'Puebla AC': 'Puebla',
+    
+    'San Luis': 'San Luis FC',
+    'San Luis F.C.': 'San Luis FC',
+
+    'U.A. de G.': 'Tecos',
+    'Estudiantes Tecos': 'Tecos',
+    'UAG': 'Tecos',
+    'U.A.G.': 'Tecos',
+    'UAG Tecos': 'Tecos',
+
+    'C.D. Guadalajara Chivas': 'CD Guadalajara',
+    'Guadalajara': 'CD Guadalajara',
+    'Chivas Guadalajara': 'CD Guadalajara',
+    'C.D. Guadalajara': 'CD Guadalajara',
+    'Chivas': 'CD Guadalajara',
+
+    'Univ. de Guadalajara': 'Universidad de Guadalajara',
+    'Univ Guadalajara': 'Universidad de Guadalajara',
+    'Universidad Guadalajara': 'Universidad de Guadalajara',
+    'U de G': 'Universidad de Guadalajara',
+    'U Guadalajara': 'Universidad de Guadalajara',
+
+    'Club Deportivo Marte': 'Marte',
+    'Marte FC': 'Marte',
+
+    'Deportivo Atlas': 'Atlas',
+    'Club Atlas': 'Atlas',
+
+    'CA Atlas': 'Atlas',
+    'F.C. Atlas': 'Atlas',
+
+}
+teams.update(mexican)
+
+
+concacaf = {
+    'CD FAS': 'C.D. Fas',
+}
+
+teams.update(concacaf)
+
 world = {
+
+    'W Connection FC': 'W Connection',
 
     'Sport Guyanais': 'ASL Sport Guyanais',
 
@@ -46,14 +168,12 @@ world = {
     'America (Nicaragua)': 'América Managua',
     'Juventud Olimpica': 'Juventud Olímpica',
     'Olympique (Ft-de-France)': 'Olympique du Marin',
-    'Pachuca': 'C.F. Pachuca',
-    'Pachuca CF': 'C.F. Pachuca',
     'Robin Hood': 'S.V. Robinhood',
     'SV Robin Hood': 'S.V. Robinhood',
     'SV Robinhood': 'S.V. Robinhood',
     'Tauro': 'Tauro FC',
-    'Unam Pumas': 'Pumas',
-    'Universidad de Guadalajara': 'Universidad Guadalajara',
+
+
 
     'Victory Boys': 'SV Victory Boys',
     'Violette': 'Violette AC',
@@ -75,8 +195,6 @@ world = {
     'Joe Public FC': 'Joe Public F.C.',
 
     'Feijenoord': 'Feyenoord',
-    'América': 'Club América',
-    'Club America': 'Club América',
 
     'Norrkoeping': 'IFK Norrköping',
     'Glenavon': 'Glenavon F.C.',
@@ -160,15 +278,12 @@ world = {
     'Benfica': 'S.L. Benfica',
 
     'TSC Muenchen 1860': 'TSV 1860 München',
-    'Tigres UANL': 'Tigres de la UANL',
-    'UANL Tigres': 'Tigres de la UANL',
-    'Tecos': 'Estudiantes Tecos',
-    'UAG': 'Estudiantes Tecos',
-    'UAG Tecos': 'Estudiantes Tecos',
+
+
     'Racing (Argentina)': 'Racing Club de Avellaneda',
     'Racing Club (Argentina)': 'Racing Club de Avellaneda',
     'Reggina': 'Reggina Calcio',
-    'CD Guadalajara': 'C.D. Guadalajara Chivas',
+
     'Celtic F.C.': 'Glasgow Celtic F.C.',
     'Celtic FC': 'Glasgow Celtic F.C.',
     
@@ -181,8 +296,6 @@ world = {
     'Wisla Krakov': 'Wisła Kraków',
     'Bari': 'A.S. Bari',
 
-    'Deportivo Atlas': 'Club Atlas',
-    'Atlas': 'Club Atlas',
     'Everton': 'Everton F.C.',
     'Sunderland': 'Sunderland A.F.C.',
     'Sampdoria': 'U.C. Sampdoria',
@@ -224,9 +337,8 @@ world = {
     'A.C. Milan': 'AC Milan',
     'A. C. Milan': 'AC Milan',
     'Tottenham Hotspurs': 'Tottenham Hotspur',
-    'Guadalajara': 'CD Guadalajara',
-    'Chivas Guadalajara': 'CD Guadalajara',
-    'Chivas': 'CD Guadalajara',
+
+
     'Chelsea': 'Chelsea FC',
     'Chelsea F.C.': 'Chelsea FC',
     'Santos (Brazil)': 'Santos FC',
@@ -250,14 +362,12 @@ world = {
     'L.D. Alajuelense': 'LD Alajuelense',
     'RC Riviere-Pilote': 'RC Rivière-Pilote',
     'Transvaal': 'SV Transvaal',
-    'UNAM': 'Unam Pumas',
+
     'Undeba': 'UNDEBA',
     'Union Dep. Banda\'bou': 'UNDEBA',
 
     'Roanoke River Dawgs': 'Roanoke RiverDawgs',
     'Roanoke Riverdawgs': 'Roanoke RiverDawgs',
-    'Univ. de Guadalajara': 'Universidad de Guadalajara',
-    'Univ Guadalajara': 'Universidad de Guadalajara',
     'Leslie Verdes': 'Club Verdes',
     'Voorwaarts': 'SV Voorwaarts',
     'Aguila': 'C.D. Águila',
@@ -1165,94 +1275,19 @@ pdl_teams = {
 
 
 
-# Should remove these.
+country_code_dict = dict([(e['code'], e['name']) for e in soccer_db.countries.find()])
 
-world_cup_teams = {
-    'ALG': 'Algeria',
-    'ANG': 'Angola',
-    'ARG': 'Argentina',
-    'AUS': 'Australia',
-    'AUT': 'Austria',
-    'BEL': 'Belgium',
-    'BOL': 'Bolivia',
-    'BRA': 'Brazil',
-    'BUL': 'Bulgaria',
-    'China PR': 'China',
-    'CHI': 'Chile',
-    'CIV': 'Ivory Coast',
-    'CMR': 'Cameroon',
-    'COL': 'Colombia',
-    'CRC': 'Costa Rica',
-    'CRO': 'Croatia',
-    'CUB': 'Cuba',
-    'CZE': 'Czech Republic',
-    'DEN': 'Denmark',
-    'ECU': 'Ecuador',
-    'ENG': 'England',
-    'EGY': 'Egypt',
-    'ESP': 'Spain',
-    'FRA': 'France',
-    'FRG': 'West Germany',
-    'German DR': 'East Germany',
-    'Germany FR': 'West Germany',
-    'GDR': 'East Germany',
-    'GER': 'Germany',
-    'GHA': 'Ghana',
-    'HAI': 'Haiti',
-    'HON': 'Honduras',
-    'HUN': 'Hungary',
-    'Ivory Coast': 'Côte d\'Ivoire',
-    'IRL': 'Ireland',
-    'IRN': 'Iran',
-    'IRQ': 'Iraq',
-    'ISR': 'Israel',
-    'ITA': 'Italy',
-    'JAM': 'Jamaica',
-    'JPN': 'Japan',
-    'Korea Republic': 'South Korea',
-    'KOR': 'South Korea',
-    'KSA': 'Saudi Arabia',
-    'KUW': 'Kuwait',
-    'MAR': 'Morocco',
-    'MEX': 'Mexico',
-    'NED': 'Netherlands',
-    'NIR': 'Northern Ireland',
-    'NGA': 'Nigeria',
-    'NOR': 'Norway',
-    'NZL': 'New Zealand',
-    'PAR': 'Paraguay',
-    'PER': 'Peru',
-    'POL': 'Poland',
-    'POR': 'Portugal',
-    'PRK': 'North Korea',
-    'ROU': 'Romania',
-    'Republic of Ireland': 'Ireland',
-    'RSA': 'South Africa',
-    'RUS': 'Russia',
-    'SCG': 'Serbia and Montenegro',
-    'SCO': 'Scotland',
-    'SEN': 'Senegal',
-    'SLV': 'Slovenia',
-    'SUI': 'Switzerland',
-    'SVN': 'Slovenia',
-    'SWE': 'Sweden',
-    'TCH': 'Czechoslovakia',
-    'TOG': 'Togo',
-    'TRI': 'Trinidad & Tobago',
-    'TUN': 'Tunisia',
-    'TUR': 'Turkey',
-    'UAE': 'United Arab Emirates',
-    'UKR': 'Ukraine',
-    'URS': 'Soviet Union',
-    'URU': 'Uruguay',
-    'USA': 'United States',
-    'WAL': 'Wales',
-    'YUG': 'Yugoslavia',
-    }
+def convert_country_code(code):
+    if code in country_code_dict:
+        return country_code_dict[code]
+
+    return code
 
 
 def get_team(name, competition=None, pre_dict={}):
     # Remove pre_dict, competition from get_team
+
+    name = convert_country_code(name)
 
     if name is None:
         import pdb; pdb.set_trace()
