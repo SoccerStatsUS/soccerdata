@@ -372,7 +372,11 @@ def get_scores(fn):
             return {}
 
         items = line.strip().split("\t")
-        match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+        
+        try:
+            match_type, date_string, location, opponent, score, result, _, goals, lineups = items
+        except:
+            import pdb; pdb.set_trace()
 
         date = get_date(date_string)
 
@@ -685,6 +689,8 @@ class LineupProcessor(object):
 
         else:
             text = row
+
+        
 
         m = re.search("(.*?)\((.*?)(\d+'?)\s*\+?\??\)", text)
         if m:
