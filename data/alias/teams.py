@@ -61,6 +61,7 @@ mexican = {
 
     'América': 'Club América',
     'Club America': 'Club América',
+    'CF América': 'Club América',
 
     #u'Am\xe9rica': 'Club América',
 
@@ -97,13 +98,18 @@ mexican = {
 
     'Tigres': 'UANL',
     'U.A.N.L': 'UANL',
+    'U.A.N.L.': 'UANL',
     'Tigres UANL': 'UANL',
     'UANL Tigres': 'UANL',
     'Tigres de la UANL': 'UANL',
     
 
 
+    
+
+
     'Monterrey': 'C.F. Monterrey',
+    'C.F. Monterrey': 'CF Monterrey',
 
     'Tampico-Madero': 'Tampico Madero',
 
@@ -146,12 +152,23 @@ teams.update(mexican)
 
 
 concacaf = {
-    'CD FAS': 'C.D. Fas',
+    'C.D. FAS': 'CD FAS',
+    'C.D. Fas': 'CD FAS',
+    'CD Fas': 'CD FAS',
 }
 
 teams.update(concacaf)
 
 world = {
+
+    'A.O. Krete': 'AO Krete',
+    'Pembroke-Hamilton Club': 'Pembroke Hamilton Club',
+    'Vasco Da Gama': 'Vasco da Gama',
+
+    'Bunker Hill F.C.': 'Bunker Hill FC',
+    'Isidro-Metapan': 'Isidro Metapán',
+    'Torreón F.C.': 'Torreón FC',
+    'SIU-Edwardsville': 'SIU Edwardsville',
 
     'W Connection FC': 'W Connection',
 

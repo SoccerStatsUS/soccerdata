@@ -1,4 +1,4 @@
-1;2c#!/usr/local/bin/env python
+#!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
 d = {}
@@ -14,6 +14,28 @@ d.update(basic)
 
 
 names = {
+    
+    'Tad Delorm': 'Tad DeLorm',
+    'Agustin Manzo': 'Agustín Manzo',
+    'Ramon Morales': 'Ramón Morales',
+    'Victor Bernardez': 'Victor Bernárdez',
+    
+    'Mario Berrios': 'Mario Berríos',
+    'Rosendo Hernandez': 'Rosendo Hernández',
+    'Juan Gomez': 'Juan Gómez',
+    'Adrian Chavez': 'Adrián Chávez',
+    'José Alfredo González Tahuilan': 'José Alfredo González Tahuilán',
+    'Ike Mackay': 'Ike MacKay',
+
+    'Yoo Sang-Chul': 'Yoo Sang Chul',
+    'Antonio Lopez': 'Antonio López',
+    'Sebastian Grazzini': 'Sebastián Grazzini',
+    'Fernando De Napoli': 'Fernando de Napoli',
+    'Yoo Byung-ok': 'Yoo Byung Ok',
+    
+
+
+
     'Silvano Lenarduzzi': 'Sam Lenarduzzi',
     'Samuel Lenarduzzi': 'Sam Lenarduzzi',
     'Robert Lenarduzzi': 'Bob Lenarduzzi',
@@ -29,6 +51,38 @@ names = {
     'Edgar Mariano Trujillo Reyes': 'Mariano Trujillo',
     'Juan Pablo Rodriguez': 'Juan Pablo Rodríguez',
     'Juan Francisco Palencia': 'Francisco Palencia',
+
+    'Walter Martinez': 'Walter Martínez',
+    'Jose Naranjo': 'José Naranjo',
+    'Oscar Ramirez': 'Oscar Ramírez',
+    'Sergio Rodriguez': 'Sergio Rodríguez',
+    'Raul Arellano': 'Raúl Arellano',
+    'Ismael Iniguez': 'Ismael Iñíguez',
+    'Hector Castro': 'Héctor Castro',
+    'Salvador Cabanas': 'Salvador Cabañas',
+    'Choi Soon-ho': 'Choi Soon Ho',
+    'Teophilo': 'Teóphilo',
+    'Dave Van Den Bergh': 'Dave van den Bergh',
+    'Diego Chara': 'Diego Chará',
+    'Fredy Garcia': 'Fredy García',
+    'John Kerr Jr': 'John Kerr Jr.',
+    'Julio Dely Valdes': 'Julio Dely Valdés',
+    'Andres Guardado': 'Andrés Guardado',
+    'Perry van der Beck': 'Perry Van der Beck',
+    'Edwin Van Der Sar': 'Edwin van der Sar',
+    'Blas Perez': 'Blas Pérez',
+    'Milton Nunez': 'Milton Nuñez',
+
+    'Luis Hernandez': 'Luis Hernández',
+    'Luis Gonzalez': 'Luis González',
+    
+
+    'Bart Mcghee': 'Bart McGhee',
+    'Kim Kallstrom': 'Kim Källström',
+    'Rene Higuita': 'René Higuita',
+    'Faryd Mondragon': 'Faryd Mondragón',
+    
+
     
 
     'Michael Dunne': 'Mike Dunne',
@@ -145,8 +199,29 @@ names = {
 
     'Mamadou Danso': 'Futty Danso',
     
-    
-    
+    'Mauricio Sabillon': 'Mauricio Sabillón',
+    'Alfonso Arnaiz': 'Alfonso Arnáiz',
+    'Horacio Casarin': 'Horacio Casarín',
+    'Ricardo Pelaez': 'Ricardo Peláez',
+    'Carlos Valdes': 'Carlos Valdés',
+    'Rafael Van Der Vaart': 'Rafael van der Vaart',
+    'Dante Juarez': 'Dante Juárez',
+    'Jason Mcateer': 'Jason McAteer',
+    'Mani Hernandez': 'Mani Hernández',
+    'Herman Gaviria': 'Hermán Gaviria',
+    'Walter Gaitan': 'Wálter Gaitán',
+    'Edwin Santibanez': 'Edwin Santibáñez',
+    'Gerard Pique': 'Gerard Piqué',
+    'Victor Patino': 'Victor Patiño',
+    'Silvio Minoso': 'Silvio Miñoso',
+    'David Patino': 'David Patiño',
+    'Javier Hernandez': 'Javier Hernández',
+    'Park Ji Sung': 'Park Ji-Sung',
+
+    'Macbeth Sibaya': 'MacBeth Sibaya',
+    'Jaime Castrillon': 'Jaime Castrillón',
+    'Aurelio Gonzalez': 'Aurelio González',
+    'David Mccreery': 'David McCreery',
     
     'Richard (Cody) Bragg': 'Richard Bragg',
     'Benjamin (Ben) Meek': 'Benjamin Meek',
@@ -162,7 +237,7 @@ names = {
     'Bret (Eric) Jones': 'Bret Jones',
     'Miguel (Kiko) Medina': 'Miguel Medina',
     'Devaun (Sammy) DeGraff': 'Devaun DeGraff',
-    'Daniel (Dan) Hartung': 'Daniel) Hartung',
+    'Daniel (Dan) Hartung': 'Daniel Hartung',
 
     'Joseph (Joe) McNab': 'Joseph McNab',
     'Juvenal (Junior) Zarate': 'Juvenal Zarate',
@@ -367,6 +442,27 @@ names = {
     'Raul Alvin Mendoza': 'Raúl Alvin Mendoza',
     'Cristian Montero': 'Christian Montero',
     'Francisco (Javier) Gomez': 'Francisco Gomez',
+    'Javier Garcia': 'Javier García',
+    'Hector Pulido': 'Héctor Pulido',
+
+    'Crescencio Gutierrez': 'Crescencio Gutiérrez',
+    'Crescencio Gutíerrez': 'Crescencio Gutiérrez',
+
+    'Guadalupe Velazquez': 'Guadalupe Velázquez',
+    'Kim Joo-sung': 'Kim Joo Sung',
+    'Wilson Perez': 'Wilson Pérez',
+
+    'Miguel Gonzalez': 'Miguel González',
+    'Miguel Gutierrez': 'Miguel Gutíerrez',
+    'Miguel Gutiérrez': 'Miguel Gutíerrez',
+
+    'Jose Manuel de la Torre': 'José Manuel de la Torre',
+    'Jose Manuel De La Torre': 'José Manuel de la Torre',
+    'José Alfredo González Tahuilan': 'José Alfredo González Tahuilán',
+
+    'Daniele de Rossi': 'Daniele De Rossi',
+    'Marvin Avila': 'Marvin Ávila',
+    'Ramon Nuñez': 'Ramón Núñez',
 
     'Luis Garcia': 'Luis García',
     'Vitor Baia': 'Vítor Baía',
