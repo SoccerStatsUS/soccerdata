@@ -47,6 +47,8 @@ def first_load():
     load_drafts()
     #load_news()
 
+    load_mls()    
+
     load_cups()
 
     load_fifa()
@@ -56,7 +58,7 @@ def first_load():
     load_mexico()
     load_concacaf()
 
-    load_mls()    
+
     load_friendlies()
 
     load_nasl2()

@@ -1,7 +1,7 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-d = {}
+names = {}
 
 basic = {
     'pk': 'penalty kick',
@@ -9,16 +9,38 @@ basic = {
 
     'Own goal': 'Own Goal',
     'own goal': 'Own Goal',
+    
 }
-d.update(basic)
+names.update(basic)
 
 
-names = {
+short = {
+    'Mcnamara': 'McNamara',
+    'Mckee': 'McKee',
+    }
+names.update(short)
+
+
+onames = {
+
+    'Martin Ibarreche': 'Martín Ibarreche',
+    'Santiago Fernandez': 'Santiago Fernández',
+    'Jose Alves': 'José Alves',
+
+    'Nicolas Munoz': 'Nicolás Muñoz',
+    'Jorge Benitez': 'Jorge Benítez',
+    'Raul Albiol': 'Raúl Albiol',
+    'Jose Luis Pineda': 'José Luis Pineda',
     
     'Tad Delorm': 'Tad DeLorm',
     'Agustin Manzo': 'Agustín Manzo',
     'Ramon Morales': 'Ramón Morales',
     'Victor Bernardez': 'Victor Bernárdez',
+    'Bill Mclean': 'Bill McLean',
+    'Paúl Aguilar': 'Paul Aguilar',
+    'Oswaldo Sánchez': 'Oswaldo Sanchez',
+
+    
     
     'Mario Berrios': 'Mario Berríos',
     'Rosendo Hernandez': 'Rosendo Hernández',
@@ -1203,6 +1225,8 @@ names = {
     'Zach Kingsley': 'Zack Kingsley',
     'Zanzan': 'Zanzan Atte-Oudeyi',    
 }
+
+names.update(onames)
 
 
 def get_name(name, league=None):
