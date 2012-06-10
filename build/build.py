@@ -14,6 +14,7 @@ from check import check
 from merge import first_merge, second_merge
 from normalize import normalize
 from denormalize import denormalize
+from transform import transform
 
 
 # Load all possible games into various collections.
@@ -52,6 +53,10 @@ def build():
 
     print "Normalizing"
     normalize()
+
+    # e.g. United States -> United States U-17
+    print "Transforming"
+    transform()
 
 
     # This is where things like standings and stats (not much else) can be generated.

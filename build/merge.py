@@ -136,12 +136,9 @@ def merge_lineups():
         d.pop("_id")
         
         # normalize things.
+        # Do this elsewhere?
         d['name'] = get_name(d['name'])
         d['team'] = get_team(d['team'])
-
-        # Technically, the same player could score two goals in the
-        # same minute. If this ever comes up, I'll have to reconsider
-        # this issue.
 
         key = (d['name'], d['date'], d['team'])
 
@@ -182,7 +179,7 @@ def merge_games():
         d['team1'] = get_team(d['team1'])
         d['team2'] = get_team(d['team2'])
 
-        if d['home_team']:
+        if d.get('home_team'):
             d['home_team'] = get_team(d['home_team'])
 
         teams = tuple(sorted([d['team1'], d['team2']]))

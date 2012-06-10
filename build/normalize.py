@@ -109,7 +109,7 @@ def normalize():
                 # Get stadium data if possible.
                 e['stadium'], e['location'] = stadium_getter(e['location'])
 
-            if e['home_team']:
+            if e.get('home_team'):
                 e['home_team'] = get_team(e['home_team'])
 
             if e.get('referee'):

@@ -177,11 +177,14 @@ def generate_stats(goals=[], lineups=[]):
         """
         Add goal, lineup, etc to the stat dict.
         """
+
+        # Generate empty stat objects.
         if t not in sd:
             name, team, season, competition = t
             if not name:
                 "Name not in tuple %s" % unicode(t)
                 return
+
 
             sd[t] = {
                 'name': name,
@@ -195,6 +198,11 @@ def generate_stats(goals=[], lineups=[]):
                 'minutes': 0,
                 }
 
+        if t[0] == 'Omar Bravo' and t[1] == 'UANL':
+            print sd[t]
+
+
+        # Increment the appropriate key.
         sd[t][key] += amount
 
 
@@ -206,6 +214,7 @@ def generate_stats(goals=[], lineups=[]):
             t = make_stat_tuple(assist, goal)
             add_item(t, 'assists')
 
+    # This is where things are breaking for Omar Bravo.
     for lineup in lineups:
         t = make_stat_tuple(lineup['name'], lineup)
 

@@ -47,9 +47,11 @@ def first_load():
     load_drafts()
     #load_news()
 
-    load_city()
+    load_fifa()
 
-    return
+    load_mexico()
+
+    load_city()
 
     load_mls()    
 
@@ -92,8 +94,8 @@ def first_load():
 
 
 
-    load_mexico()
-    load_fifa()
+
+
 
     return
 
@@ -253,7 +255,7 @@ def load_usa():
 
     #load_general('usa', 'international/usmnt/gold_cup')
     #load_general('usa', 'international/usmnt/world_cup')
-    for e in [1880, 1910, 1980, 2000, 2010]:
+    for e in [1880, 1910, 1980, 1990, 2000, 2010]:
         load_games_standard('usa', 'international/country/usa/%s' % e)
 
     load_games_standard('usa', 'international/country/usa/gold')
@@ -373,7 +375,7 @@ def load_midwest():
 def load_competitions():
     from soccerdata.text import competitions
     print "Loading competitions.\n"
-    generic_load(soccer_db.competitions, competitions.load)
+    generic_load(soccer_db.competitions, competitions.load_competitions)
 
 
 def load_teams():
@@ -588,8 +590,8 @@ def load_mexico():
 
     load_new_standings('mexico', 'domestic/country/mexico/1')
 
-    load_games_standard('mexico', 'domestic/country/mexico/super')
-    load_games_standard('mexico', 'domestic/country/mexico/playoffs')
+    #load_games_standard('mexico', 'domestic/country/mexico/super')
+    #load_games_standard('mexico', 'domestic/country/mexico/playoffs')
 
     load_soccernet_league('mexico', 'mex.1')
 
@@ -620,6 +622,7 @@ def load_ncaa():
 
 def load_fifa():
     from soccerdata.scrapers import fifa
+
 
     load_fifa_competition('FIFA Club World Cup')
     load_fifa_competition('FIFA Confederations Cup')
