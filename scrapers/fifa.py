@@ -224,14 +224,16 @@ def scrape_fifa_game(url, competition):
     
     contents = soup.find("div", {"id": "mainContent" })
     
+    # Really, none of these games have a home team.
+
     teams = get_contents(contents.find("div", "bold large teams"))
-    home_team, away_team = [e.strip() for e in teams.split("-")]
+    team1, team2 = [e.strip() for e in teams.split("-")]
     score_string = get_contents(contents.find("div", "bold large result"))
 
     if 'a.e.t.' in score_string:
         score_string = score_string.split('a.e.t')[0]
 
-    home_score, away_score = [int(e) for e in score_string.split("(")[0].split(":")]
+    team1_score, team2_score = [int(e) for e in score_string.split("(")[0].split(":")]
 
     # Implement this if header order is more unpredictable.
     #game_head = contents.findAll("thead")
@@ -272,11 +274,10 @@ def scrape_fifa_game(url, competition):
     date = datetime.datetime.strptime(date_string.strip(), "%d %B %Y")
 
     return {
-        "team1": unicode(home_team),
-        "team2": unicode(away_team),
-        'home_team': unicode(home_team),
-        'team1_score': home_score,
-        'team2_score': away_score,
+        "team1": unicode(team1),
+        "team2": unicode(team2),
+        'team1_score': team1_score,
+        'team2_score': team2_score,
         'competition': competition,
         'season': unicode(date.year),
         "date": date,
