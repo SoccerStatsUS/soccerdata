@@ -16,7 +16,7 @@ from soccerdata.cache import set_cache, data_cache
 
 url_cache = data_cache
 game_cache = data_cache
-detail_cache = data_cache
+detail_cache = set_cache
 
 """
 Need to figure out a way to refresh failed results.

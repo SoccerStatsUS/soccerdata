@@ -44,18 +44,11 @@ def merge_teams():
 
 
 def merge_standings():
-    soccer_db.standings.drop()
-    insert_rows(soccer_db.standings, soccer_db.chris_standings.find())
-    insert_rows(soccer_db.standings, soccer_db.tours_standings.find())
-    insert_rows(soccer_db.standings, soccer_db.mls_reserve_standings.find())
-    insert_rows(soccer_db.standings, soccer_db.open_cup_standings.find())
-    insert_rows(soccer_db.standings, soccer_db.concacaf_standings.find())
-    insert_rows(soccer_db.standings, soccer_db.mexico_standings.find())
-
-
+    standard_merge('standings')
 
 
 def merge_awards():
+    standard_merge('awards')
     soccer_db.awards.drop()
     insert_rows(soccer_db.awards, soccer_db.asl_awards.find())
     insert_rows(soccer_db.awards, soccer_db.nasl_awards.find())

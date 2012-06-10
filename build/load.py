@@ -47,15 +47,19 @@ def first_load():
     load_drafts()
     #load_news()
 
+    load_city()
+
+    return
+
     load_mls()    
 
     load_cups()
 
-    load_fifa()
+
 
     load_asl()
 
-    load_mexico()
+
     load_concacaf()
 
 
@@ -86,8 +90,10 @@ def first_load():
 
     load_nafbl()
 
-    load_city()
 
+
+    load_mexico()
+    load_fifa()
 
     return
 
@@ -301,6 +307,8 @@ def load_nafbl():
 
 
 def load_city():
+
+    load_games_standard('city', 'city')
 
     load_excel_standings('city', 'domestic/city/slsl')
     load_excel_standings('city', 'domestic/city/cosmo')
@@ -578,7 +586,7 @@ def load_soccernet_league(name, code):
 
 def load_mexico():
 
-    load_new_standings('mexico', 'domestic/country/mexico')
+    load_new_standings('mexico', 'domestic/country/mexico/1')
 
     load_games_standard('mexico', 'domestic/country/mexico/super')
     load_games_standard('mexico', 'domestic/country/mexico/playoffs')

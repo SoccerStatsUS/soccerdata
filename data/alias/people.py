@@ -9,6 +9,8 @@ basic = {
 
     'Own goal': 'Own Goal',
     'own goal': 'Own Goal',
+
+    'Unknown': 'unknown',
     
 }
 names.update(basic)
@@ -22,6 +24,89 @@ names.update(short)
 
 
 onames = {
+
+    'Nicolas Torres': 'Nicolás Torres',
+    'Nicky Torres': 'Nicolás Torres',
+    'Rafael Garcia': 'Rafael García',
+    'Juan Hernandez': 'Juan Hernández',
+    # 'Paul Aguilar': 'Paúl Aguilar',
+    'Paúl Aguilar': 'Paul Aguilar',
+
+    'Fernando Lopez': 'Fernando López',
+    'Alberto Garcia Aspe': 'Alberto García Aspe',
+    'Isaac Acuña Sanchez': 'Isaac Acuña Sánchez',
+    'Rafael Marquéz Lugo': 'Rafael Márquez Lugo',
+    'Jorge Rodriguez': 'Jorge Rodríguez',
+    'Enrique Larrinaga': 'Enrique Larriñaga',
+    'Mario Rodriguez': 'Mario Rodríguez',
+    'Dario Verón': 'Darío Verón',
+    'Marvin De La Cruz': 'Marvin de la Cruz',
+    'Daniel Guzman': 'Daniel Guzmán',
+    'Norberto Iacono': 'Norberto Yácono',
+    'Norberto Iácono': 'Norberto Yácono',
+    'Mario Sanchez': 'Mario Sánchez',
+    'Adrian Garcia Arias': 'Adrián García Arias',
+    'Fernando Gutierrez': 'Fernando Gutiérrez',
+    'Héctor Gimenez': 'Héctor Giménez',
+    'Mateo De la Tijera': 'Mateo de la Tijera',
+    'Uriel Alvarez Rivera': 'Uriel Álvarez Rivera',
+    'Sergio Garcia': 'Sergio García',
+    'Manuel Viniegra Garcia': 'Manuel Viniegra García',
+    'José Alfredo González Tahuilan': 'José Alfredo González Tahuilán',
+    'Edgar Hernandez': 'Edgar Hernández',
+    'Luis Angel Landín': 'Luis Ángel Landín',
+
+
+    'Paul Mcgrath': 'Paul McGrath',
+    'Sascha Gorres': 'Sascha Görres',
+    'Martin Castaneda': 'Martín Castañeda',
+    'Mario Diaz': 'Mario Díaz',
+    'Andrew Jean Baptiste': 'Andrew Jean-Baptiste',
+    'Federico Insua': 'Federico Insúa',
+    'Yeniel Marquez': 'Yeniel Márquez',
+    'Hussain Saeed Mohamed Al Abid': 'Hussain Saeed Mohamed Al-Abid',
+    'Leonardo Cuellar': 'Leonardo Cuéllar',
+    'German Villa': 'Germán Villa',
+    'Marius Tresor': 'Marius Trésor',
+    'Emil Martinez': 'Emil Martínez',
+    'Ed Mcilvenny': 'Ed McIlvenny',
+    'Rodrigo Ruiz': 'Rodrigo Ruíz',
+    'Rodrígo Ruíz': 'Rodrigo Ruíz',
+
+
+
+    'Isidro Langara': 'Isidro Lángara',
+    'Savio': 'Sávio',
+    'Rigoberto Gomez': 'Rigoberto Gómez',
+    'Theo Van der Heyden': 'Theo van der Heyden',
+    'Ariel Rodriguez': 'Ariel Rodríguez',
+    'Hector Adomaitis': 'Héctor Adomaitis',
+    'Alex Fernandes': 'Alex Fernándes',
+    'Margarito Gonzalez': 'Margarito González',
+    'Carlos Gonzalez': 'Carlos González',
+    'Christian Gimenez': 'Christian Giménez',
+    'Juan Gonzalez': 'Juan González',
+    'Kim Tae Young': 'Kim Tae-Young',
+    'Guillermo Mendizabal': 'Guillermo Mendizábal',
+    'Jean De Clerq': 'Jean de Clerq',
+    'Mario Mendez': 'Mario Méndez',
+    'Juan Tunas': 'Juan Tuñas',
+    'Jose Santiago': 'José Santiago',
+    'Marvin Gonzalez': 'Marvin González',
+    'Jose Della Torre': 'José Della Torre',
+    'Jean Marquez': 'Jean Márquez',
+    '“Tuffy” Davis': 'Tuffy Davis',
+    '"Tuffy" Davis': 'Tuffy Davis',
+    'Jose Leon Miracca': 'José Leon Miracca',
+    'Delfin Benitez Caceres': 'Delfin Benítez Caceres',
+    'Ze Maria': 'Zé Maria',
+    'Damian Alvarez': 'Damián Alvarez',
+    'Vincent Dalbis': 'Vincent D\'Albis',
+    'Hernan Cristante': 'Hernán Cristante',
+    'Mario Virginio Ortiz': 'Mario Virginio Ortíz',
+    'Steve McCauley': 'Steve Mccauley',
+
+
 
     'Martin Ibarreche': 'Martín Ibarreche',
     'Santiago Fernandez': 'Santiago Fernández',
@@ -37,7 +122,7 @@ onames = {
     'Ramon Morales': 'Ramón Morales',
     'Victor Bernardez': 'Victor Bernárdez',
     'Bill Mclean': 'Bill McLean',
-    'Paúl Aguilar': 'Paul Aguilar',
+
     'Oswaldo Sánchez': 'Oswaldo Sanchez',
 
     
@@ -99,6 +184,8 @@ onames = {
     'Luis Gonzalez': 'Luis González',
     
 
+    'David Mcgill': 'David McGill',
+    'Flavio Conceicao': 'Flávio Conceicao',
     'Bart Mcghee': 'Bart McGhee',
     'Kim Kallstrom': 'Kim Källström',
     'Rene Higuita': 'René Higuita',

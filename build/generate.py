@@ -68,6 +68,8 @@ def generate_all_stats():
 
     standard_generate('fifa')
 
+    standard_generate('city')
+
     x = generate_stats(soccer_db['mls_soccernet_goals'].find({'season': '2012'}), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
     generic_load(soccer_db['mls_soccernet_stats'], lambda: x.values())
 

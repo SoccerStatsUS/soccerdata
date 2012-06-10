@@ -35,6 +35,8 @@ teams.update(colleges)
 
 mexican = {
 
+    'Indios': 'Indios de Ciudad Juárez',
+
     'México Country Club': 'México Cricket Club',
 
     'Oro': 'C.D. Oro',

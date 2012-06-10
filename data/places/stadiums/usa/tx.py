@@ -5,7 +5,46 @@
 import datetime
 
 l = [
+
+    {
+        'name': 'Lake Cliff Park',
+        'location': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Samuell Field',
+        'location': 'Dallas, TX',
+        },
+
+
+    {
+        'name': 'Dallas University Field',
+        'location': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Gaston Park',
+        'location': 'Dallas, TX',
+        'opened': 1902,
+        'closed': 1914,
+        },
+
+
+    {
+        'name': 'Burnett Field',
+        'location': 'Dallas, TX',
+        'opened': 1924,
+        'closed': 1964,
+        'capacity': 10500,
+        },
     
+    {
+        'name': 'P.C. Cobb Stadium',
+        'location': 'Dallas, TX',
+        'opened': 1939,
+        'architect': 'Hoke Smith',
+        'capacity': 25000,
+        },
     
     {
         'name': 'Robertson Stadium',

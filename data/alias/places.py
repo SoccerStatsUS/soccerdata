@@ -19,9 +19,14 @@ cities = {
     'Tampa Bay': 'Tampa Bay, FL',
     'Tampa, FL': 'Tampa Bay, FL',
     'Fort Lauderdale': 'Fort Lauderdale, FL',
+    'Fort Worth': 'Fort Worth, TX',
 }
 
 places = {
+    'Dal-Hi Stadium': 'P.C. Cobb Stadium',
+    'Gardner Park, Dallas': 'Burnett Field, Dallas',
+    'Fair Park Stadium': 'Cotton Bowl',
+
     'Southwestern College, San Diego, California': 'Southwestern College, Chula Vista, California',
     'Molson Stadium, Montreal': 'Percival Molson Memorial Stadium',
     'Olympic Park, Paterson': 'Olympic Field, Paterson',
