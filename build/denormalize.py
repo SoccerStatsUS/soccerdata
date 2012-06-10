@@ -108,7 +108,7 @@ def denormalize():
             home_team = e.get('home_team')
             if home_team and not e.get('stadium'):
                 stadium = stadium_getter(home_team, e['date'])
-                if stadium:
+                if stadium and stadium != home_team:
                     e['stadium'] = stadium
 
         l.append(e)
