@@ -22,6 +22,7 @@ alternate_names = {
     'Phoenix Hearts': 'Arizona Sahuaros',
     'Arizona Cotton': 'Arizona Sahuaros',
     'Arizona Phoenix': 'Arizona Sahuaros',
+
 }
 teams.update(alternate_names)
 
@@ -34,6 +35,8 @@ colleges = {
 teams.update(colleges)
 
 mexican = {
+
+    'Scots Americans': 'Kearny Scots',
 
     'Indios': 'Indios de Ciudad Juárez',
 

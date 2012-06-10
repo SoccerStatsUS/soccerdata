@@ -24,6 +24,7 @@ names.update(short)
 
 
 onames = {
+    'Fredrik Ljungberg': 'Freddie Ljungberg',
 
     'Nicolas Torres': 'Nicolás Torres',
     'Nicky Torres': 'Nicolás Torres',
