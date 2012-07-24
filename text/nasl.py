@@ -188,7 +188,7 @@ def process_stats():
                 'shots': int(shots),
                 'yellow_cards': int(yc),
                 'red_cards': int(rc),
-                'minutes': int(minutes)
+                'minutes': int(minutes),
                 })
                 
     return lst
@@ -284,6 +284,7 @@ class GameProcessor(object):
             'team2_score': away_score,
             'home_team': home_team,
             'attendance': attendance,
+            'source': 'NASL - A Complete Record of the North American Soccer League',
             }
 
 

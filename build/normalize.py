@@ -221,7 +221,6 @@ def normalize():
     # Normalize standings
     for s in SOURCES:
         coll = soccer_db["%s_standings" %s]
-        print coll
 
         l = []
         for e in coll.find():

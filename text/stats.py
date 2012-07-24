@@ -14,10 +14,10 @@ if not os.path.exists(DIR):
 
 
 def process_mls_coach_stats():
-    return process_stats("mls_coaches.csv", "Major League Soccer")
+    return process_stats("mls_coaches.csv", "Major League Soccer", source='mlssoccer.com')
 
 def process_nasl_stats():
-    return process_stats("nasl.csv", format_name=False)
+    return process_stats("nasl.csv", format_name=False, source='nasljerseys.com')
 
 def process_usl_stats():
     l = []
@@ -58,7 +58,7 @@ def process_name(s):
 
 
 
-def process_stats(fn, competition=None, format_name=True):
+def process_stats(fn, competition=None, format_name=True, source=None):
 
     def preprocess_line(line):
         line = line.replace('\xa0', '')
@@ -102,7 +102,8 @@ def process_stats(fn, competition=None, format_name=True):
         if competition is not None:
             d['competition'] = competition
 
-
+        if source is not None:
+            d['source'] = source
 
         if 'year' in d:
             d['season'] = d.pop('year')

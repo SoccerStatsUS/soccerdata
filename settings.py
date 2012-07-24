@@ -1,4 +1,8 @@
 
+# What items are shown on the dashboard?
+STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'rosters', 'awards',
+
+
 SOURCES = [
     'small',
     'tours',
@@ -27,9 +31,6 @@ SOURCES = [
     'fifa',
         ]
 
-
-
-
 # Skipping these.
 l =    [ 
         'uslsoccer',
@@ -40,16 +41,14 @@ l =    [
         'eufootball',
         ]
 
-# What items are shown on the dashboard?
-STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'rosters', 'awards',
 
 SINGLE_SOURCES = [
+    'sources',
     'countries',
     'states',
     'state_populations',
     'cities',
     'stadiums', 
-
 
     'competitions',
     'teams', 

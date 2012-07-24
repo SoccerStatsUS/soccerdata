@@ -445,6 +445,7 @@ def get_scores(fn):
                 'team1_score': home_score,
                 'team2_score': away_score,
                 'home_team': home_team,
+                'source': 'MLS Lineup Database',
                 }
         else:
             return {}

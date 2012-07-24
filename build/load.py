@@ -38,6 +38,7 @@ def first_load():
     """
     clear_all()
 
+    load_sources()
     load_bios()
     load_places()
     load_competitions()
@@ -47,55 +48,48 @@ def first_load():
     load_drafts()
     #load_news()
 
-    load_fifa()
+    load_name_maps()
+    load_stadium_maps()
 
-    load_mexico()
+    load_nasl()
+    return
 
-    load_city()
 
-    load_mls()    
+    load_apsl()
+
+
 
     load_cups()
+    load_city()
 
 
+    load_friendlies()
 
     load_asl()
 
 
+
+    #load_fifa()
+
+    load_mls()    
+    load_mexico()
+
     load_concacaf()
-
-
-    load_friendlies()
 
     load_nasl2()
 
     load_usa()
 
-
-    load_name_maps()
-    load_stadium_maps()
-
     load_isl()
-
-    load_apsl()
 
     load_asl2()
 
     load_usl()
 
-
     #load_ncaa()
 
     load_small_tournaments()
-
-    load_nasl()
-
     load_nafbl()
-
-
-
-
-
 
     return
 
@@ -194,6 +188,11 @@ def load_name_maps():
 def load_stadium_maps():
     from text import stadiummap
     generic_load(soccer_db.stadium_maps, stadiummap.load)
+
+
+def load_sources():
+    from text import sources
+    generic_load(soccer_db.sources, sources.load)
 
 
 def load_news():

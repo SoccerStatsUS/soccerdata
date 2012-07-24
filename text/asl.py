@@ -223,6 +223,7 @@ def load_stat(line):
             'competition': 'American Soccer League (1921-1933)',
             'games_played': season_games,
             'goals': season_goals,
+            'source': 'American Soccer League (1921-1931)',
             })
 
 
@@ -452,6 +453,7 @@ class GameProcessor(object):
             'team1_score': home_score,
             'team2_score': away_score,
             'home_team': home_team,
+            'source': 'American Soccer League (1921-1931)',
             }
     
 

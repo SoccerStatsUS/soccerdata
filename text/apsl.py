@@ -156,7 +156,8 @@ class TextProcessor(object):
                 'season': self.season,
                 'team': self.team,
                 'name': name,
-                'position': self.position_map[position.strip()]
+                'position': self.position_map[position.strip()],
+                'source': 'The A-League Archives',
                 })
 
 
