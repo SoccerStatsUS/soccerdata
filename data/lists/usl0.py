@@ -1,5 +1,5 @@
 d = {
-    'competition': 'United Soccer League',
+    'competition': 'United Soccer League (1984-1985)',
     'team_data': 'Champion',
 
     'Champion': [ (1984, 'Fort Lauderdale Sun'),],
