@@ -109,6 +109,12 @@ class GeneralProcessor(object):
             self.games[-1]['sources'].append(source)
             return
 
+        if line.startswith('BlockSource:'):
+            source = line.split("BlockSource:")[1].strip()
+            self.sources.append(source)
+            return
+            
+
 
         if line.startswith("Century"):
             self.century = int(line.split("Competition:")[1].strip())

@@ -408,6 +408,8 @@ def scrape_stats_from_bio(url):
         else:
             print "WHAT THE HECK %s? NO NAME??" % url
 
+        nd['source'] = url
+
     return stats
             
 
