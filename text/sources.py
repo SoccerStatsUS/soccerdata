@@ -8,13 +8,20 @@ p = '/home/chris/www/soccerdata/data/sources'
 def load():
 
     def process_line(line):
+        if not line.strip():
+            return {}
+
+
         fields = line.split(';')
         fields = [e.strip() for e in fields]
         if len(fields) == 2:
             name, author = fields
             url = ''
         else:
-            name, author, url = fields
+            try:
+                name, author, url = fields
+            except:
+                import pdb; pdb.set_trace()
 
         return {
                 'name': name,
@@ -27,5 +34,5 @@ def load():
     for line in open(p):
         l.append(process_line(line))
 
-    return l
+    return [e for e in l if e]
 
