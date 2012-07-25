@@ -7,7 +7,7 @@
 # Ruben Luna 3, Ruben Luna 10, Hugo Sanchez 92; Chicharito 19
 # FC Dallas: Matt Jordan, Chris Gbandi, Clarence Goodson, George John, Zach Loyd, Brek Shea, Oscar Pareja, Leonel Alvarez, Ronnie O'Brien, Jason Kreis, Carlos Ruiz
 
-
+# Need to add in home_team
 
 
 import datetime
