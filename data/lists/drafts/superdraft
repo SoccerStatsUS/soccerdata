@@ -80,60 +80,80 @@ Date: 2/6/2000
 Season: 2001
 Date: 2/5/2001
 
-1; Vancouver Whitecaps FC; Omar Salgado; ;
-2; Portland Timbers; Darlington Nagbe; ;
-3; D.C. United; Perry Kitchen; ;
-4; Chivas USA; Zarek Valentin; ;
-5; Philadelphia Union; Zac MacMath; ;
-6; New England Revolution; A. J. Soares; ;
-7; Houston Dynamo; Kofi Sarkodie; ;
-8; Vancouver Whitecaps FC; Michael Nanchoff; ;
-9; Chicago Fire; Jalil Anibaba; ;
-10; Sporting Kansas City; C. J. Sapong; ;
-11; Houston Dynamo; Will Bruin; ;
-12; Columbus Crew; Rich Balchan; ;
-13; New York Red Bulls; Corey Hertzog; ;
-14; Chivas USA; Víctor Estupiñán; ;
-15; Columbus Crew; Justin Meram; ;
-16; Los Angeles Galaxy; Paolo Cardozo; ;
-17; FC Dallas; Bobby Warshaw; ;
-18; Colorado Rapids; Eddie Ababio; ;
-19; Vancouver Whitecaps FC; Jeb Brovsky; ;
-20; Seattle Sounders FC; Michael Tetteh; ;
-21; Seattle Sounders FC; Leone Cruz; ;
-22; Portland Timbers; Chris Taylor; ;
-23; Philadelphia Union; Michael Farfan; ;
-24; New England Revolution; Stephen McCarthy; ;
-25; New York Red Bulls; John Rooney; ;
-26; Toronto FC; Demitrius Omphroy; ;
-27; Seattle Sounders FC; Servando Carrasco; ;
-28; Columbus Crew; Cole Grossman; ;
-29; Seattle Sounders FC; Bryan Meredith; ;
-30; New York Red Bulls; Tyler Lassiter; ;
-31; D.C. United; Chris Korb; ;
-32; Sporting Kansas City; J. T. Murray; ;
-33; San Jose Earthquakes; Anthony Ampaipitakwong; ;
-34; Los Angeles Galaxy; Héctor Jiménez; ;
-35; FC Dallas; Charlie Campbell; ;
-36; Colorado Rapids; Colin Givens; ;
-37; Vancouver Whitecaps FC; Bilal Duckett; ;
-38; New York Red Bulls; Billy Cortes; ;
-39; New England Revolution; Steven Perry; ;
-40; Chivas USA; Jon Okafor; ;
-41; Philadelphia Union; Levi Houapeu; ;
-42; New England Revolution; Ryan Kinne; ;
-43; Toronto FC; Matt Gold; ;
-44; Toronto FC; Efrain Burgos, Jr.; ;
-45; Chicago Fire; Jason Herrick; ;
-46; Sporting Kansas City; Konrad Warzycha; ;
-47; Seattle Sounders FC; Alex Caskey; ;
-48; Columbus Crew; Bernardo Anor; ;
-49; Toronto FC; Joao Plata; ;
-50; D.C. United; Joe Willis; ;
-51; Chicago Fire; Davis Paul; ;
-52; Real Salt Lake; Jarad Van Schaik; ;
-53; FC Dallas; Scott Gordon; ;
-54; New England Revolution; Alan Koger; ;
+
+1; San Jose Earthquakes; Chris Carrieri; F
+2; Tampa Bay Mutiny; Ali Curtis; F
+3; D.C. United; Mark Lisi; M
+4; D.C. United; Ryan Nelsen; M
+5; Dallas Burn; Joselito Vaca; M
+6; Tampa Bay Mutiny; Craig Demmin; D
+7; Dallas Burn; Ryan Suarez; D
+8; D.C. United; Santino Quaranta; F
+9; Los Angeles Galaxy; Brian Mullan; M
+10; Columbus Crew; Duncan Oughton; F
+11; Los Angeles Galaxy; Isaias Bardales; F
+12; Kansas City Wizards; Jose Burciaga; D
+13; MetroStars; Rodrigo Faria; F
+14; Tampa Bay Mutiny; Devin Barclay; F
+15; D.C. United; Bryan Namoff; M
+16; Los Angeles Galaxy; Brian Ching; F
+17; Colorado Rapids; Stephen Herdsman; D
+18; Miami Fusion; Ali Gerba; F
+19; Dallas Burn; Eddie Johnson; F
+20; San Jose Earthquakes; Eddie Robinson; M
+21; New England Revolution; Nick Downing; D
+22; Los Angeles Galaxy; Robbie Russell; M;
+23; Chicago Fire; Justin Evans; M;
+24; Kansas City Wizards; Andrew Gregor; M;
+25; Dallas Burn; Josue Mayard; M;
+26; MetroStars; Kerwyn Jemmott; M;
+27; Columbus Crew; Edson Buddle; F;
+28; D.C. United; Craig Ziadie; D;
+29; Chicago Fire; Jim Curtin; D;
+30; Columbus Crew; Kevin Adams; D;
+31; San Jose Earthquakes; Craig Waibel; D;
+32; Colorado Rapids; Ryan Lee; D;
+33; Chicago Fire; Henry Ring; GK;
+34; Tampa Bay Mutiny; Alberto Munoz; M;
+35; Kansas City Wizards; Ben Stafford; F;
+36; Colorado Rapids; Eric Lukin; F;
+37; San Jose Earthquakes; Fabio Eidelwein; F;
+38; Miami Fusion; Greg Simmonds; F;
+39; Columbus Crew; McKinley Tennyson; F;
+40; Miami Fusion; Cory Gibbs; D;
+41; Colorado Rapids; Ryan Trout; M;
+42; New England Revolution; Yari Allnutt; M;
+43; Dallas Burn; Adam Zapala; GK;
+44; Tampa Bay Mutiny; Adam Throop; GK;
+45; Los Angeles Galaxy; Brent Rahim; M;
+46; MetroStars; Martin Klinger; F;
+47; New England Revolution; Fernando Ortiz Solis; D;
+48; Kansas City Wizards; Pablo Webster; M;
+49; San Jose Earthquakes; Corey Woolfolk; F;
+50; D.C. United; Caleb Norkus; F;
+51; Columbus Crew; Scott Powers; M;
+52; Miami Fusion; Teofilo Cubillas Jr.; M;
+53; New England Revolution; Eric Pogue; GK;
+54; New England Revolution; Shaun Tsakiris; M;
+55; Dallas Burn; Gary DePalma; M;
+56; Tampa Bay Mutiny; Mersim Beskovic; D;
+57; Los Angeles Galaxy; Alex Bengard; M;
+58; MetroStars; O'neil Peart; F;
+59; Kansas City Wizards; Narciso Fernandes; M;
+60; Tampa Bay Mutiny; Hector Navarte; M;
+61; San Jose Earthquakes; Jorge Martinez; M;
+62; D.C. United; T.J. Hannig; GK;
+63; Columbus Crew; Phil Karn; F;
+64; Miami Fusion; Daouda Kante; D;
+65; Colorado Rapids; John Carroll; M;
+66; New England Revolution; Michael Feller; D;
+67; Dallas Burn; Miguel Saavedra; M;
+68; Chicago Fire; Danny Risch; F;
+69; Los Angeles Galaxy; Mike Potempa; D;
+70; MetroStars; Russell Payne; GK;
+71; Dallas Burn; Roberto Navarro; M;
+72; Kansas City Wizards; Matthew Cross; GK;
+
 
 Season: 2002
 Date: 2/10/2002
@@ -195,12 +215,12 @@ Date: 2/10/2002
 55; Dallas Burn; Ricardo Villar; M;
 56; MetroStars; Mario Gomez; M;
 57; Kansas City Wizards; Brian Lavin; D;
-58; Pass; New England Revolution
-59; Lawrence Smalls; M; Los Angeles Galaxy;
+58; New England Revolution; Pass; ; 
+59; Los Angeles Galaxy; Lawrence Smalls; M
 60; San Jose Earthquakes; Aaron Biddle; D;
 61; Colorado Rapids; Matt Harrell; F;
-62; Pass; New England Revolution
-63; Pass; D.C. United;
+62; New England Revolution; Pass; ; 
+63; D.C. United; Pass; ; 
 64; Kansas City Wizards; Dane Erickson; ;
 65; Kansas City Wizards; Mark Spears; GK;
 66; MetroStars; Jeff Moore; M;
@@ -762,7 +782,7 @@ Date: 1/12/2012
 5; Chivas USA; Casey Townsend; F; University of Maryland
 6; San Jose Earthquakes; Sam Garza; F; UC Santa Barbara
 7; D.C. United; Nick DeLeon; M; University of Louisville
-8; Portland Timbers; Andrew Jean-Baptiste; D;        University of Connecticut
+8; Portland Timbers; Andrew Jean-Baptiste; D; University of Connecticut
 9; Chicago Fire; Austin Berry; D; University of Louisville
 10; Columbus Crew; Ethan Finlay; F; Creighton University
 11; FC Dallas; Matt Hedges; D; University of North Carolina-Chapel Hill
