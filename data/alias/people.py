@@ -16,9 +16,75 @@ basic = {
 names.update(basic)
 
 
+nx = {
+
+    'Andreas Kopke': 'Andreas Köpke',
+    'Alvaro Gonzalez': 'Álvaro González',
+    'Aurelien Collin': 'Aurélien Collin',
+    'Antonio Gonzalez': 'Antonio González',
+    'Adrian Romero': 'Adrián Romero',
+    'Benjamin Mayorga': 'Benjamín Mayorga',
+    'Christian Bermudez': 'Christian Bermúdez',
+    'Carlos  Gallardo': 'Carlos Gallardo', #check this.
+    'Denardo': 'DeNardo',
+    'Damian Ariel Alvarez': 'Damián Ariel Álvarez',
+    'Elivelton': 'Elivélton',
+    'Elias Hernández': 'Elías Hernández',
+    
+    'Freddy Rincon': 'Freddy Rincón',
+    'German Ruano': 'Germán Ruano',
+    'Gabriel Gomez': 'Gabriel Gómez',
+    'Gustavo Mendez': 'Gustavo Méndez',
+    'Harold Wallace': 'Hárold Wallace',
+
+    'ivan Becerra': 'Ivan Becerra', #find this
+    'Israel Lopez': 'Israel López',
+    'Julio Giron': 'Julio Girón',
+    'Julio Gíron': 'Julio Girón',
+    'Juan Guzman': 'Juan Guzmán',
+    'Jose Castro': 'José Castro',
+    'Jose Contreras': 'José Contreras',
+    'Julio Martinez': 'Julio Martínez',
+    'Joaquin Beltran': 'Joaquín Beltrán',
+        'Jimmy McGeough, Jr.': 'Jimmy McGeough Jr.',
+    'Joel Sanchez': 'Joel Sánchez',
+    'J Murray': 'J. Murray',
+    'Luis Marin': 'Luis Marín',
+    'Lopez': 'López',
+        'Miguel Layun': 'Miguel Layún',
+    'Macdonald': 'MacDonald',
+    'Mackenzie': 'MacKenzie',
+    'Mcdonald': 'McDonald',
+    'Marcio Santos': 'Márcio Santos',
+    'Mario Perez': 'Mario Pérez',
+    'Oscar Perez': 'Oscar Pérez',
+    'Octavio Valdez Martinez': 'Octavio Valdéz Martínez',
+    'O”Neill': 'O\'Neill',
+    'Pasquale Deluca': 'Pasquale DeLuca',
+    'Ramon Flores': 'Ramón Flores',
+    'Rai': 'Raí',
+    'Rocco  Placentino': 'Rocco Placentino', # check this
+    'Raivis Hscanovics': 'Raivis Hščanovičs',
+    'Raul Gutierrez': 'Raúl Gutíerrez',
+    'Raúl Gutierrez': 'Raúl Gutíerrez',
+    'Ramon Sanchez': 'Ramon Sánchez',
+    'Rafael Marquéz Lugo': 'Rafael Márquez Lugo',
+    'Ronald Gonzalez': 'Rónald González',
+    'Ramon Nuñez': 'Ramón Núñez',
+    'Vicente Sanchez': 'Vicente Sánchez',
+    'Vincent Dalbis': 'Vincent D\'albis',
+    'Vicente García': 'Vicente Garcíá',
+    'Wilmer Lopez': 'Wílmer López',
+
+
+}
+names.update(nx)
+
 short = {
     'Mcnamara': 'McNamara',
     'Mckee': 'McKee',
+    'Nicolas Burdisso': 'Nicolás Burdisso',
+    
     }
 names.update(short)
 
@@ -73,6 +139,8 @@ onames = {
     'Ed Mcilvenny': 'Ed McIlvenny',
     'Rodrigo Ruiz': 'Rodrigo Ruíz',
     'Rodrígo Ruíz': 'Rodrigo Ruíz',
+
+    'Rich Asante': 'Richard Asante',
 
 
 
@@ -1216,7 +1284,6 @@ onames = {
     'Ronald Cerritos': 'Rónald Cerritos',
     'Ross Mckenzie': 'Ross McKenzie',
     'Rauwshawn McKenzie': 'Rauwshan McKenzie',
-    'Raivis Hščanovičs': 'Raivis Hscanovics',
     u'Ram\xf3n S\xe1nchez': 'Ramon Sanchez',
     'Robert Diguardi': 'Robert DiGuardi',
     'Remiro Corrales': 'Ramiro Corrales',
@@ -1318,6 +1385,14 @@ names.update(onames)
 
 
 def get_name(name, league=None):
+    try:
+        return _get_name(name, league)
+    except:
+        import pdb; pdb.set_trace()
+        x = 5
+
+
+def _get_name(name, league):
     # Remove league option from get_name.
     name = name.strip()
     if league and (name, league) in names:

@@ -164,7 +164,28 @@ concacaf = {
 
 teams.update(concacaf)
 
+us = {
+    'Brooklyn Celtic': 'Brooklyn Celtics',
+    'New Bedford Celtic': 'New Bedford Celtics',
+    'West Philadelphia': 'West Philadelphia FC',
+    'Chicago Maccabi': 'Maccabee SC (Chicago)', #verify 11/22/1936 game vs. Tel Aviv Maccabi was Maccabee SC
+    'Thistle FC (Chicago)': 'Thistles FC (Chicago)',
+    'Stix Baer & Fuller': 'Stix, Baer and Fuller F.C.',
+    'Central Breweries': 'Stix, Baer and Fuller F.C.',
+    'St. Louis Carondolet': 'St. Louis Carondolets',
+    'St. Louis Raiders': 'St. Louis Kutis',
+    'St. Louis Zenthoefer Furs': 'St. Louis Kutis',
+    'Zenthoefer Furs': 'St. Louis Kutis',
+    'Dallas Mulhausers': 'Dallas Mulhauser',
+    'Angeles': 'Ángeles',
+
+}
+
+teams.update(us)
+
 world = {
+
+    'Celtic': 'Glasgow Celtic',
 
     'A.O. Krete': 'AO Krete',
     'Pembroke-Hamilton Club': 'Pembroke Hamilton Club',
@@ -327,6 +348,8 @@ world = {
 
     'Comunicaciones': 'C.S.D. Comunicaciones',
     'Alajuelense': 'L.D. Alajuelense',
+    'Herediano': 'C.S. Herediano',
+    
 
     'Leeds United': 'Leeds United A.F.C.',
     'Liverpool': 'Liverpool F.C.',
