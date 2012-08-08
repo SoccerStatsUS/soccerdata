@@ -21,9 +21,6 @@ def correct_date(s, start=True):
             d = datetime.datetime(year, 12, 31)
 
     return d
-
-    
-
     
 
 def load():
@@ -32,8 +29,9 @@ def load():
     l = []
     
     for e in files:
-        px = os.path.join(p, e)
-        l.extend(process_stadium_map_file(px))
+        if not e.endswith('~'): # avoid duplicate emacs files
+            px = os.path.join(p, e)
+            l.extend(process_stadium_map_file(px))
     return l
             
 def process_stadium_map_file(p):

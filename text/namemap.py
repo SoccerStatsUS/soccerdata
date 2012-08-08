@@ -1,3 +1,5 @@
+# Team name mappings; e.g. FC Dallas; Dallas Burn; 1996, 2003
+
 import datetime
 import os
 
@@ -29,8 +31,9 @@ def load():
     l = []
     
     for e in files:
-        px = os.path.join(p, e)
-        l.extend(process_name_map_file(px))
+        if not e.endswith('~'): # avoid duplicate emacs files
+            px = os.path.join(p, e)
+            l.extend(process_name_map_file(px))
     return l
             
 def process_name_map_file(p):
@@ -40,7 +43,7 @@ def process_name_map_file(p):
     
     for line in f:
         if line.strip() and not line.startswith("*"):
-            fields = line.split(',')
+            fields = line.split(';')
             if len(fields) == 3:
                 from_name, to_name, start = fields
                 end = start
