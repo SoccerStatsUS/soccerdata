@@ -24,7 +24,7 @@ d = {
         (1950, 'New York Americans'),
         (1951, 'Philadelphia Nationals'),
         (1952, 'Philadelphia Nationals'),
-        (1953, 'Newark Portugese'),
+        (1953, 'Newark Portuguese'),
         (1954, 'Newark S.C.'),
         (1955, 'Philadelphia Uhrik Truckers'),
         (1957, 'Elizabeth Falcons'),
