@@ -1,6 +1,44 @@
 import datetime
 
 
+def calculate_results(d):
+    team1_score = d['team1_score']
+    team2_score = d['team2_score']
+    team1_result = d['team1_result']
+    team2_result = d['team2_result']
+
+    if team1_result and team2_result:
+        return team1_result, team2_result
+
+    if type(team1_score) == int and type(team2_score) == int:
+        if team1_score == team2_score:
+            return 't', 't'
+
+        elif team1_score > team2_score:
+            return 'w', 'l'
+
+        else:
+            return 'l', 'w'
+
+    else:
+        if team1_result == 'w':
+            return 'w', 'l'
+
+        if team1_result == 'l':
+            return 'l', 'w'
+
+        if team2_result == 'w':
+            return 'l', 'w'
+
+        if team2_result == 'l':
+            return 'w', 'l'
+
+    import pdb; pdb.set_trace()
+    x = 5
+
+
+
+
 def make_stadium_getter():
     """
     Split off a stadium from a place name, if possible.
@@ -103,6 +141,9 @@ def normalize():
             e['team1'] = get_team(e['team1'])
             e['team2'] = get_team(e['team2'])
 
+            # Assign appropriate results based on score and result data.
+            e['team1_result'], e['team2_result'] = calculate_results(e)
+
             if 'location' in e:
                 # First normalize place names.
                 e['location'] = get_place(e['location'])
@@ -116,6 +157,9 @@ def normalize():
                 e['referee'] = get_name(e['referee'])
             else:
                 e['referee'] = None
+
+
+                
             
             if 'linesmen' in e:
                 linesmen = e.pop('linesmen')

@@ -31,7 +31,7 @@ class GeneralProcessor(object):
     Retains a basic memory
     """
 
-    DATE_RE = re.compile("(\d+)/(\d+)/(\d+)")
+    DATE_RE = re.compile("(\d+)/([\d\?]+)/(\d+)")
     DATE_TIME_RE = re.compile("(\d+)/(\d+)/(\d+) (\d+)z")
 
     def __init__(self):
@@ -75,6 +75,11 @@ class GeneralProcessor(object):
         if line.startswith("Minigame"):
             self.games[-1]['minigame'] = True
             return
+
+        if line.startswith("Forfeit"):
+            self.games[-1]['forfeit'] = True
+            return
+
 
         if line.startswith("Date-style"):
             self.date_style = line.split("Date-style:")[1].strip()
@@ -194,11 +199,10 @@ class GeneralProcessor(object):
         # 2. Team1, score
         # 3. Team2, score
 
+        team1_result = team2_result = None
+
         # Get the date and time.
         time_string = fields[0].strip()
-
-
-
 
         # Try datetime first, if it doesn't work, try time.
         m = self.DATE_TIME_RE.match(time_string)
@@ -224,7 +228,9 @@ class GeneralProcessor(object):
                 year += self.century
             d = datetime.datetime(year, int(month), int(day))
         except:
-            import pdb; pdb.set_trace()
+            d = None
+            #import pdb; pdb.set_trace()
+            x = 5
 
             
         # Some scores are separated by colons.
@@ -232,6 +238,10 @@ class GeneralProcessor(object):
             delimiter = ":"
         else:
             delimiter = "-"
+
+        if fields[2] == ' L-4':
+            pass
+            # import pdb; pdb.set_trace()
 
 
         if self.score_type in ('standard', 'colon-delimited'):
@@ -249,13 +259,27 @@ class GeneralProcessor(object):
 
                 # Eventually will indicate a blank score.
                 # We're not prepared to handle this, so leave the function.
-                if score in ('w/o', 'n/p', '?'):
+                if score in ('w/o', 'n/p', 'np', '?'):
                     print "skipping: %s" % score
                     return
                     winner = team1
                     team1_score = team2_score = None
                 else:
-                    team1_score, team2_score = [int(e) for e in score.split(delimiter)]
+                    team1_score, team2_score = [e.strip() for e in score.split(delimiter)]
+
+                    if team1_score in 'wlt':
+                        team1_result = team1_score
+                        team1_score = None
+                    else:
+                        team1_score = int(team1_score)
+
+
+                    if team2_score in 'wlt':
+                        team2_result = team2_score
+                        team2_score = None
+                    else:
+                        team2_score = int(team2_score)
+
                     winner = None
             except:
                 import pdb; pdb.set_trace()
@@ -263,7 +287,8 @@ class GeneralProcessor(object):
             remaining = fields[4:]
 
 
-        # This is where the error must be.
+        # Can't handle more complex score processing with byteam
+        # Intend to just drop this completely eventually.
         elif self.score_type == 'byteam':
             score_re = re.compile('(.*?)(\d+)\'?')
             try:
@@ -313,6 +338,7 @@ class GeneralProcessor(object):
             import pdb; pdb.set_trace()
 
 
+
         g = {
             'competition': self.competition,
             'season': self.season,
@@ -322,6 +348,8 @@ class GeneralProcessor(object):
             'team2': team2.strip(),
             'team1_score': team1_score,
             'team2_score': team2_score,
+            'team1_result': team1_result,
+            'team2_result': team2_result,
             #'winner': None,
             'home_team': None,
             'location': location,
@@ -329,6 +357,7 @@ class GeneralProcessor(object):
             'linesmen': linesmen,
             'attendance': attendance,
             'minigame': False,
+            'forfeit': False,
             'sources': self.sources[:],
             }
 
