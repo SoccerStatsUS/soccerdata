@@ -92,6 +92,8 @@ def generate_all_standings():
     sg('usa')
     sg('concacaf')
 
+    sg('melvin')
+
     sg('fifa')
 
     stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
@@ -132,9 +134,11 @@ def generate_standings(games):
         else:
             gf, ga = game['team2_score'], game['team1_score']
 
-        
-        d[t]['goals_for'] += gf
-        d[t]['goals_against'] += ga
+        try:
+            d[t]['goals_for'] += gf or 0
+            d[t]['goals_against'] += ga or 0
+        except:
+            import pdb; pdb.set_trace()
 
     def get_key(team, game):
         ht, at, h, a = [game[k] for k in ['team1', 'team2', 'team1_score', 'team2_score']]
