@@ -1,10 +1,20 @@
 
 # What items are shown on the dashboard?
-STAT_TABLES = 'games', 'goals', 'fouls', 'lineups', 'stats', 'standings', 'rosters', 'awards',
-
+STAT_TABLES = [
+    'games', 
+    'goals', 
+    'fouls', 
+    'lineups', 
+    'stats', 
+    'standings', 
+    #'rosters', 
+    'bios',
+    'awards',
+    ]
 
 SOURCES = [
     'small',
+    'melvin',
     'tours',
     'american_cup',
     'open_cup',
