@@ -173,6 +173,7 @@ def process_bios():
                 'birthplace': birthplace,
                 'deathdate': deathdate,
                 'deathplace': deathplace,
+                'source': 'American Soccer League (1921-1931)',
                 })
 
     return l
