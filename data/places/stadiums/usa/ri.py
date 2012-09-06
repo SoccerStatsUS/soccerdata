@@ -5,6 +5,11 @@
 import datetime
 
 l = [
+
+    {
+        'name': 'Dexter Street Grounds',
+        'location': 'Pawtucket, RI',
+        },
     
     {
         'name': 'Mark\'s Stadium',

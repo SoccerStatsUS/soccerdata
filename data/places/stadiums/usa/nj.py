@@ -176,10 +176,7 @@ l = [
         'location': 'Trenton, NJ',
         },
     
-    {
-        'name': 'Dexter Street Grounds',
-        'location': 'Trenton, NJ',
-        },
+
     
     
     
