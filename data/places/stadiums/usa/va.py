@@ -29,6 +29,13 @@ l = [
         'name': 'University of Richmond Stadium',
         'location': 'Richmond, VA',
         },
+
+
+    {
+        'name': 'VMI Parade Grounds',
+        'location': 'Lexington, VA',
+        },
+
     
     {
         'name': 'Sports Backers Stadium',

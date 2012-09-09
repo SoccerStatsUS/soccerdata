@@ -4,7 +4,12 @@
 import datetime
 
 l = [
-    
+
+
+    {
+        'name': 'Hamilton Park',
+        'location': 'New Haven, CT',
+        },
     
     {
         'name': 'Yale Bowl',

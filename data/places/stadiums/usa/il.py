@@ -7,6 +7,7 @@ import datetime
 l = [
 
 
+
     
     {
         'name': 'Comiskey Stadium',
@@ -36,10 +37,60 @@ l = [
         'address': '21st St. and Kostner Ave',
         'location': 'Chicago, IL',
         },
+
     {
         'name': 'DePaul Field',
         'location': 'Chicago, IL',
         },
+
+
+    {
+        'name': 'Westside Park',
+        'location': 'Chicago, IL',
+        },
+
+
+    {
+        'name': 'Northside Park',
+        'location': 'Chicago, IL',
+        },
+
+
+    {
+        'name': 'Southwest City League Grounds',
+        'location': 'Chicago, IL',
+        },
+
+
+    {
+        'name': 'Parkside Grounds',
+        'location': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Wanderers Grounds',
+        'location': 'Chicago, IL',
+        },
+
+
+    {
+        'name': 'National League Baseball Park',
+        'location': 'Chicago, IL',
+        },
+
+
+    {
+        'name': 'Douglas Park',
+        'location': 'Chicago, IL',
+        },
+
+
+    {
+        'name': 'Sangerbund Park',
+        'location': 'Joliet, IL',
+        },
+
+
     {
         'name': 'Mills Stadium',
         'location': 'Chicago, IL',

@@ -5,6 +5,9 @@
 import datetime
 
 l = [
+
+    
+
     {
         'name': 'Busch Memorial Stadium',
         'address': '250 Stadium Plaza',
@@ -18,6 +21,35 @@ l = [
     
     {
         'name': 'Handlan\'s Park',
+        'location': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'North Grand Boulevard Park',
+        'location': 'St. Louis, MO',
+        },
+
+
+    {
+        'name': 'Compton Avenue Park',
+        'location': 'St. Louis, MO',
+        },
+
+
+    {
+        'name': 'Union Park',
+        'location': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'Campus Field',
+        'location': 'St. Louis, MO',
+        },
+
+
+
+    {
+        'name': 'Amateur Park',
         'location': 'St. Louis, MO',
         },
     {

@@ -31,6 +31,61 @@ l = [
         'name': 'Athletic Field',
         'location': 'Fall River, MA',
         },
+
+    {
+        'name': 'Jarvis Field',
+        'location': 'Cambridge, MA',
+        },
+
+
+    {
+        'name': 'Oriental Grounds',
+        'location': 'Fall River, MA',
+        },
+
+
+
+    {
+        'name': 'Riverside Park',
+        'location': 'Lowell, MA',
+        },
+
+
+
+    {
+        'name': 'South Park',
+        'location': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Pleasant Street Grounds',
+        'location': 'Fall River, MA',
+        },
+
+
+    {
+        'name': 'Lawrence Cricket Grounds',
+        'location': 'Lawrence, MA',
+        },
+
+
+
+    {
+        'name': 'Agricultural Park',
+        'location': 'Worcester, MA',
+        },
+
+    {
+        'name': 'East End Park',
+        'location': 'Fall River, MA',
+        },
+
+
+    {
+        'name': 'North Ends Grounds',
+        'location': 'Fall River, MA',
+        },
+
     
     {
         'name': 'Fall River Athletic Field',
@@ -42,6 +97,30 @@ l = [
         'location': 'South Yarmouth, MA',
         },
     
+    {
+        'name': 'New Bedford Baseball Park',
+        'location': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Lowell Fairgrounds',
+        'location': 'Lowell, MA',
+        },
+
+
+    {
+        'name': 'Union Grounds',
+        'location': 'Boston, MA',
+        },
+
+    
+
+    {
+        'name': 'Shawahern Grove',
+        'location': 'Lowell, MA',
+        },
+
+
     {
         'name': 'Nickerson Field',
         'location': 'Boston, MA',

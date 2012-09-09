@@ -6,6 +6,24 @@ import datetime
 l = [
 
     {
+        'name': '131st Street Grounds',
+        'location': 'New York, NY',
+        },
+
+
+    {
+        'name': 'Lakeside Park',
+        'location': 'Syracuse, NY',
+        },
+
+    {
+        'name': 'Manhattan Athletic Field',
+        'location': 'New York, NY',
+        },
+
+
+
+    {
         'name': 'Polo Grounds', 
         'address': 'West 155th Street and Eighth Avenue',
         'location': 'Manhattan, NY',
@@ -82,7 +100,17 @@ l = [
     {
         'name': 'Dexter Park',
         'location': 'Queens, NY',
-        
+        },
+
+    {
+        'name': 'Olympic Rink',
+        'location': 'Brooklyn, NY',
+        },
+
+
+    {
+        'name': '110th and 8th Ave Park',
+        'location': 'New York, NY',
         },
     
     {
@@ -169,6 +197,22 @@ l = [
         'name': 'Gaelic Park',
         'location': 'Bronx, NY',
         'opened': 1924,
+        },
+
+
+    {
+        'name': 'Prospect Park',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Staten Island Cricket Grounds',
+        'location': 'Staten Island, NY',
+        },
+
+    {
+        'name': 'Central Park',
+        'location': 'New York, NY',
         },
     
     

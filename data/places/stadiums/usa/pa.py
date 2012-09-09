@@ -24,6 +24,48 @@ l = [
         'name': 'Taylor Field',
         'location': 'Bethlehem, PA',
         },
+
+    {
+        'name': 'Oakdale Park',
+        'location': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Mannheim Field',
+        'location': 'Germantown, PA',
+        },
+
+
+    {
+        'name': 'Smythe Park',
+        'location': 'Mansfield, PA',
+        },
+
+
+
+    {
+        'name': 'Stenton Station',
+        'location': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Chester Park',
+        'location': 'Chester, PA',
+        },
+
+
+    {
+        'name': 'Stockton Park',
+        'location': 'Norristown, PA',
+        },
+
+
+    {
+        'name': 'Athletics Baseball Grounds',
+        'location': 'Philadelphia, PA',
+        },
+
+
     
     {
         'name': 'Rifle Club Grounds',
