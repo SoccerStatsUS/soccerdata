@@ -229,7 +229,7 @@ Round: None
 1/4/1890; East St. Louis Blue Bells; 1-0; St. Louis Olympics; St. Louis Olympics
 1/11/1890; East St. Louis Blue Bells; 3-2; St. Louis Kensingtons; East St. Louis Blue Bells;  
 1/18/1890; East St. Louis Blue Bells; 3-0; St. Louis Olympics; East St. Louis Blue Bells;  
-1/25/1890; East St. Louis Blue Bells; 1-0; 1-0; St. Louis Shamrocks; St. Louis Shamrocks
+1/25/1890; East St. Louis Blue Bells; 1-0; St. Louis Shamrocks; St. Louis Shamrocks
 2/1/1890; East St. Louis Blue Bells; 2-0; Missouri Amateur AA; East St. Louis Blue Bells;  
 2/8/1890; East St. Louis Blue Bells; 5-0; St. Louis Hibernians; East St. Louis Blue Bells;  
 2/15/1890; East St. Louis Blue Bells; 1-3; St. Louis Association Foot Ball League
@@ -334,7 +334,7 @@ Competition: Friendly
 
 Competition: American Cup
 Round: Final
-4/26/1891; Fall River East Ends; 3-1; Brooklyn Longfellows; Dexter Street Park; 2500
+4/26/1891; Fall River East Ends; 3-1; Brooklyn Longfellows; Dexter Street Grounds; 2500
 
 Competition: Friendly
 5/2/1891; Fall River East Ends; 1-6; Fall River Olympics; Fall River Olympics; 400
@@ -444,7 +444,7 @@ Forfeit
 3/14/1891; Lonsdale Association; 1-0; Cumberland Rangers; Cumberland Rangers
 3/28/1891; Lonsdale Association; 0-8; Pawtucket Free Wanderers; Lonsdale Association; 
 4/4/1891; Lonsdale Association;  3-1; Lonsdale Athletes; Prospect Hill Park, Lonsdale, RI
-4/11/1891; Lonsdale Association; 2-2; Pawtucket Thistles; Dexter Street Park
+4/11/1891; Lonsdale Association; 2-2; Pawtucket Thistles; Dexter Street Grounds
 5/9/1891; Lonsdale Association; 5-3; Providence Conant Thread Company
 
 12/6/1890; Lonsdale Athletes; 3-6; Cumberland Rangers; Lonsdale Athletes;  
@@ -505,7 +505,7 @@ Competition: Friendly
 
 10/11/1890; New Rochelle Association; 1-11; Newark Caledonians
 
-Competition; American Cup
+Competition: American Cup
 Round: First Round
 10/18/1890; New Rochelle Association; 0-14; Brooklyn Longfellows
 
@@ -621,7 +621,7 @@ Forfeit
 2/21/1891; Pawtucket Thistles; W-L; Lonsdale Athletes; Pawtucket Thistles
 3/28/1891; Pawtucket Thistles; 1-0; Saylesville Athletics; Pawtucket Thistles
 4/4/1891; Pawtucket Thistles; 2-3; Providence Conant Thread Company; Prospect Hill Park, Lonsdale, RI
-4/11/1891; Pawtucket Thistles; 2-2; Lonsdale Association; Pawtucket Thistles; Dexter Street Park
+4/11/1891; Pawtucket Thistles; 2-2; Lonsdale Association; Dexter Street Grounds
 
 11/29/1890; Peerless Association; 2-2; Philadelphia Nicetowns; Philadelphia Nicetowns
 
@@ -635,7 +635,7 @@ Forfeit
 10/11/1890; Philadelphia Enterprises; 1-2; Philadelphia Frankford 2nds; Philadelphia Frankford
 11/1/1890; Philadelphia Enterprises; 0-4; Philadelphia Nicetowns; Philadelphia Nicetowns
 11/29/1890; Philadelphia Enterprises; 1-6; Philadelphia North Ends; Philadelphia North Ends
-1/1/1891; Philadelphia Enterprises; 0-4; Trenton Rovers; Hetzel Grove, Trenton , NJ
+1/1/1891; Philadelphia Enterprises; 0-4; Trenton Rovers; Hetzel's Grove, Trenton , NJ
 3/7/1891; Philadelphia Enterprises; 2-6; Trenton Rovers; Philadelphia Enterprises
 3/30/1891; Philadelphia Enterprises;0-4; Philadelphia Frankfords; Philadelphia Frankfords
 
@@ -751,7 +751,7 @@ Forfeit
 12/13/1890; Philadelphia Taconeys; 0-3; Trenton Rovers
 12/20/1890; Philadelphia Taconeys; 0-2; Philadelphia North Ends; Philadelphia North Ends
 12/25/1890; Philadelphia Taconeys; 0-2; Trenton Rovers
-1/1/1891; Philadelphia Taconeys; 1-1; Trenton Young Swifts; Hetzel Grove, NJ
+1/1/1891; Philadelphia Taconeys; 1-1; Trenton Young Swifts; Hetzel's Grove, NJ
 1/3/1891; Philadelphia Taconeys; np; Philadelphia Frankfords; Philadelphia Taconeys
 1/10/1891; Philadelphia Taconeys; W-L; Philadelphia Frankfords; Philadelphia Taconeys
 1/10/1891; Philadelphia Taconeys; 1-4; Trenton Rovers; Philadelphia Taconeys
@@ -774,7 +774,7 @@ Forfeit
 10/18/1890; Providence Athletics; 1-9; River Point Clydes; River Point Clydes
 12/27/1890; Providence Athletics; 1-2; Gorham Association; Gorham Association
 
-9/20/1890; .Providence Conant Thread Company; 1-5; Pawtucket Thistles; Pawtucket Thistles
+9/20/1890; Providence Conant Thread Company; 1-5; Pawtucket Thistles; Pawtucket Thistles
 9/27/1890; Providence Conant Thread Company;  3-1; Cumberland Rangers; Cumberland Rangers; 
 10/11/1890; Providence Conant Thread Company; 3-3; Providence Athletics; Providence Conant Thread Company
 10/?/1890; Providence Conant Thread Company; L-W; Lonsdale Association
@@ -972,7 +972,7 @@ Round: None
 11/29/1890;Trenton Rovers; 3-4; Philadelphia Frankfords; Philadelphia Frankfords
 12/13/1890; Trenton Rovers; 3-0; Philadelphia Taconeys 
 12/25/1890; Trenton Rovers; 2-0; Philadelphia Taconeys
-1/1/1891; Trenton Rovers; 4-0; Philadelphia Enterprises; Hetzel Grove, Trenton, NJ
+1/1/1891; Trenton Rovers; 4-0; Philadelphia Enterprises; Hetzel's Grove, Trenton, NJ
 1/10/1891; Trenton Rovers; 4-1; Philadelphia Taconeys; Philadelphia Taconeys
 2/14/1891; Trenton Rovers; T-T; Trenton Young Swifts; Neutral
 2/21/1891; Trenton Rovers; 2-3; Philadelphia North Ends; Philadelphia North Ends
@@ -981,19 +981,19 @@ Round: None
 3/21/1891; Trenton Rovers; 0-5; Philadelphia North Ends; Philadelphia North Ends
 3/28/1891; Trenton Rovers; 4-1; Philadelphia Frankfords; Trenton Rovers
 4/4/1891; Trenton Rovers; 1-1; Philadelphia Frankfords; Philadelphia Frankfords
-4/11/1891; Trenton Rovers;  ?; Trenton Young Swifts; Hetzel Grove, Trenton, NJ
+4/11/1891; Trenton Rovers;  ?; Trenton Young Swifts; Hetzel's Grove, Trenton, NJ
 4/25/1891; Trenton Rovers; 3-1; Philadelphia North Ends; Trenton Rovers
 7/8/1891; Trenton Rovers; ?; Philadelphia Association; Neutral
 
 11/27/1890; Trenton Young Swifts; 1-6; Trenton Rovers; Trades' League Grounds, Trenton, NJ
-1/1/1891; Trenton Young Swifts; 1-1; Philadelphia Taconeys; Hetzel Grove, Trenton, NJ
+1/1/1891; Trenton Young Swifts; 1-1; Philadelphia Taconeys; Hetzel's Grove, Trenton, NJ
 2/14/1891; Trenton Young Swifts; T-T; Trenton Rovers; Neutral
-4/11/1891; Trenton Young Swifts; ?; Trenton Rovers; Hetzel Grove, Trenton, NJ
+4/11/1891; Trenton Young Swifts; ?; Trenton Rovers; Hetzel's Grove, Trenton, NJ
 
 1/24/1891; West Hoboken Americus; 2-2; Brooklyn Cricket Association; Brooklyn Cricket Association; 2000
 2/22/1891; West Hoboken Americus; ?; Brooklyn Cricket Association; Brooklyn Cricket Association
 
-Competition;: NY State Series
+Competition: NY State Series
 Round: First Round
 9/28/1890; Williamsburg Shamrocks; 1-5; New York Nonpareils; New York Nonpareils
 
