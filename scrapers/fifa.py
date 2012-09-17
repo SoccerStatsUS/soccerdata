@@ -9,6 +9,9 @@ from BeautifulSoup import BeautifulSoup
 from soccerdata.utils import scrape_url, get_contents
 from soccerdata.cache import data_cache, set_cache
 
+# Oh WHOOOPSIES; HERE's ALL RESULTS FOR ALL LEAGUES (to 2007?)
+# http://www.fifa.com/associations/association=gua/nationalleague/date=032011.html
+
 # For scraping all FIFA tournaments!
 # There are a lot of them!
 

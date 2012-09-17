@@ -23,6 +23,7 @@ SOURCES = [
     'lewis_cup',
     'asl2',
     'isl',
+    'indoor',
     'nasl',
     'apsl',
     'usl',

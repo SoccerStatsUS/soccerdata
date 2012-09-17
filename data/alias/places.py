@@ -1,3 +1,7 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
 def get_place(s):
     """
     Recursive. 
@@ -10,6 +14,23 @@ def get_place(s):
         return s
 
 cities = {
+    
+    'Blue Valley Athletic Complex': 'Blue Valley Sports Complex',
+
+    'Newport Beach , California': 'Newport Beach, California',
+    'Rio De Janeiro, Brazil': 'Rio de Janeiro, Brazil',
+    'Sao Paulo, Brazil': 'São Paulo, Brazil',
+    'Medellin, Colombia': 'Medellín, Colombia',
+    'Washington DC': 'Washington, D.C.',
+    'Washington, DC': 'Washington, D.C.',
+    'Washington D.C.': 'Washington, D.C.',
+    'Kearny NJ': 'Kearny, New Jersey',
+    'Kearny, N.J.': 'Kearny, New Jersey',
+    'holland': 'Holland',
+    'New York, N.Y.': 'New York, New York',
+    'San José, California': 'San Jose, California',
+    'San Jose, Costa Rica': 'San José, Costa Rica',
+    
     'Miami': 'Miami, FL',
     'Denver': 'Denver, CO',
     'Boston': 'Boston, MA',

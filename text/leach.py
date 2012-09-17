@@ -6,6 +6,7 @@ import datetime
 import os
 
 from soccerdata.data.alias import get_team
+from soccerdata.text.standings import process_excel_standings
 
 
 DIR = '/home/chris/www/soccerdata/data/leach'
@@ -24,17 +25,34 @@ def format_name(s):
 
 def make_team_to_competition_dict():
     # Create a dict mapping a team name and season to a competition.
-    from soccerdata.mongo import soccer_db
+    #from soccerdata.mongo import soccer_db
+
+    l = []
+    l.extend(process_excel_standings('domestic/country/usa/mls'))
+    l.extend(process_excel_standings('domestic/country/usa/apsl'))
+    l.extend(process_excel_standings('domestic/country/usa/ussf2'))
+    l.extend(process_excel_standings('domestic/country/usa/nasl2'))
+
+    for e in '12', 'pdl', 'premier', 'pro', 'select', 'usisl', 'usl_pro':
+        l.extend(process_excel_standings('domestic/country/usa/usl/%s' % e))
+
+    
 
     d = {}
-    for e in soccer_db.chris_standings.find():
-        key = (e['team'], e['season'])
+    for e in l:
+        key = (get_team(e['team']), e['season'])
         if key not in d:
             d[key] = [e['competition']]
+
+            
     return d
 
 
 TEAM_COMPETITION_DICT = make_team_to_competition_dict()
+
+
+def teams_for_season(season):
+    return [e[0][0] for e in TEAM_COMPETITION_DICT.items() if e[0][1] == season]
 
 
 def process_lineups_file(fn, season):
@@ -96,7 +114,10 @@ def process_games_file(fn, season):
             fields = line.split('\t')
             
             # 14 fields always
-            date_string, home_team, away_team, home_score, away_score, attendance, competition_type, comp, comments, referee, awarded, _, _, _ = fields
+            try:
+                date_string, home_team, away_team, home_score, away_score, attendance, competition_type, comp, comments, referee, awarded, _, _, _ = fields
+            except:
+                import pdb; pdb.set_trace()
 
             month, day, year = [int(e) for e in date_string.split("/")]
             d = datetime.datetime(year, month, day)
@@ -122,6 +143,7 @@ def process_games_file(fn, season):
                     'date': d,
                     #'location': location,
                     'referee': format_name(referee),
+                    'source': 'Scott Leach',
                     })
 
     return [e for e in l if e['competition'] != 'Major League Soccer']
@@ -160,7 +182,11 @@ def process_goals_file(fn, season):
             team = get_team(team)
 
             if comp == 'LGE':
-                competitions = TEAM_COMPETITION_DICT[(team, season)]
+                try:
+                    competitions = TEAM_COMPETITION_DICT[(team, season)]
+                except:
+                    import pdb; pdb.set_trace()
+
                 if len(competitions) > 1:
                     import pdb; pdb.set_trace()
                 else:

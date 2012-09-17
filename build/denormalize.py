@@ -50,19 +50,27 @@ def make_name_ungetter():
 
 
     def getter(name, name_date):
+
+        if name_date is None:
+            import pdb; pdb.set_trace()
+            return name
         
         if name not in d:
             return name
-        else:
-            times_list = d[name]
 
-            for u in times_list:
-                try:
-                    t, start, end = u
-                except:
-                    import pdb; pdb.set_trace()
-                if start <= name_date <= end:
-                    return t
+
+
+        # Load the mapping of dates to team names
+        # and iterate through it
+        # e.g. [('Dallas Burn', 1/1/1996, 12/31/2001), ...]
+        times_list = d[name]
+        for u in times_list:
+            try:
+                t, start, end = u
+            except:
+                import pdb; pdb.set_trace()
+            if start <= name_date <= end:
+                return t
 
         # fallback.
         return name
@@ -108,6 +116,8 @@ def denormalize():
             home_team = e.get('home_team')
             if home_team and not e.get('stadium'):
                 stadium = stadium_getter(home_team, e['date'])
+
+                # How would this happen?
                 if stadium and stadium != home_team:
                     e['stadium'] = stadium
 

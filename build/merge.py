@@ -21,11 +21,16 @@ def first_merge():
     merge_goals()
     merge_lineups()
 
+    merge_bios()
+
 
 
 def second_merge():
     merge_teams()
 
+
+            
+        
 
 
 def standard_merge(coll):
@@ -214,11 +219,20 @@ def merge_bios():
     """
     Merge bios
     """
-    # Am not using this for now. Eventually it might be useful in bio separation?
-    # All bios currently generated together.
+
+    bio_dict = {}
 
 
     def update_bio(d):
+        # This will produce some bad data, eg: 
+        # { 'name': 'John Smith', 'birthdate': datetime.datetime(1900, 1, 1) }
+        # merged with  
+        # { 'name': 'John Smith', 'birthdate': datetime.datetime(1980, 6, 15), 
+        # 'birthplace': 'Atlanta, Georgia' } 
+        # will become 
+        # { 'name': 'John Smith', 'birthdate': datetime.datetime(1900, 1, 1), 
+        # birthplace': 'Atlannta, Georgia' }
+        
         name = get_name(d['name'].strip())
         d['name'] = name
         
@@ -230,18 +244,17 @@ def merge_bios():
         else:
             bio_dict[name] = d
 
-    bio_dict = {}
-    for e in soccer_db.mls_bios.find():
-        update_bio(e)
-    for e in soccer_db.chris_bios.find():
-        update_bio(e)
-
-    for e in soccer_db.asl_bios.find():
-        update_bio(e)
+      
+    for e in SOURCES:
+        c = '%s_bios' % e
+        coll = soccer_db[c]
+        for e in coll.find():
+            update_bio(e)
 
     soccer_db.bios.drop()
     insert_rows(soccer_db.bios, bio_dict.values())
 
+            
 
 def merge_stats():
     """

@@ -5,8 +5,158 @@ from soccerdata.mongo import soccer_db
 
 teams = {}
 
+leach = {
+
+
+
+    'Miami FC': 'Fort Lauderdale Strikers',
+    'San Francisco Bay Blackhawks': 'San Jose Hawks',
+    'J & J Dobson AA': 'J & J Dobson FC',
+    'Jeanette FC (Pittsburgh)': 'Jeanette FC',
+    'Johnston City AFC (Illinois)': 'Johnston City AFC',
+    'Johnston City': 'Johnston City AFC',
+    'Kearny Celtics': 'Kearny Celtic',
+    'New Orleans Gamblers': 'New Orleans Riverboat Gamblers',
+    'Merrimac Valley': 'Merrimac Valley FC',
+    'Minerva-Pfuelzer': 'Minerva-Pfaelzer SC',
+    'Minit Rubs (St. Louis)': 'Minit-Rubs',
+    'Minnesota Stars': 'Minnesota Stars FC',
+    'New York Freedom': 'New York Freedoms',
+    'Newark Portugeuse': 'Newark Portuguese',
+    'Newark Portuguese (NJ)': 'Newark Portuguese',
+    'New York Hota': 'NY Hota SC',
+    'Olímpia (H)': 'CD Olimpia',
+    'Orlando City': 'Orlando City SC',
+    
+
+
+    
+
+
+    'New Orleans Storm': 'New Orleans Riverboat Gamblers',
+    'Raleigh Express': 'Raleigh Capital Express',
+    'US Pro 40': 'US Project 40',
+    'Hampton Rds Mariners': 'Hampton Roads Mariners',
+    'SFB Seals': 'San Francisco Bay Seals',
+    'Atlanta Ruckus': 'Atlanta Silverbacks',
+    'Miami FC Blues': 'Miami FC',
+    'FC Dallas 96': 'FC Dallas',
+    'FC Tampa Bay': 'Tampa Bay Rowdies',
+    'CD Chivas USA': 'Chivas USA',
+    'Philadephia Union': 'Philadelphia Union',
+    'Portland Timbers U23': 'Portland Timbers U23\'s',
+    'Ft. Lauderdale Strikers': 'Fort Lauderdale Strikers',
+    'Hamilton FC Rage': 'Hamilton Rage',
+    'Chivas El Paso Patriots': 'El Paso Patriots',
+    'Rio Grande Valley Grandes FC': 'Rio Grande Valley Grandes',
+    'Antigua Barracuda': 'Antigua Barracuda FC',
+    'Team Sacramento': 'Sacramento Geckos',
+    'Dallas Toros': 'Dallas-Fort Worth Toros',
+    'DFW Toros': 'Dallas-Fort Worth Toros',
+    'Victoria Riptide': 'Victoria Riptides',
+    'North Virginia Royals': 'Northern Virginia Royals',
+    'Las Vegas Quicksilvers': 'Las Vegas Quicksilver',
+    'Chicago Horizons': 'Chicago Horizon',
+    'Bay Area Seals': 'San Francisco Bay Seals',
+    'San Francisco Seals': 'San Francisco Bay Seals',
+    'Cosmos': 'New York Cosmos',
+    'Supra de Montreal': 'Montreal Supra',
+    'Hapoel Tel Aviv': 'Hapoel Tel Aviv F.C.',
+    'Coventry City': 'Coventry City FC',
+    'AC Lanerossi-Vicenza': 'Vicenza Calcio',
+    'Bangu AC': 'Bangu Atlético Clube',
+    'Varzim': 'Varzim S.C.',
+    'Varzim (Portugal)': 'Varzim S.C.',
+    'Apollon': 'Apollon Limassol',
+    'Heart of Midlothian': 'Heart of Midlothian F.C.',
+    'Hearts of Midlothian F.C.': 'Heart of Midlothian F.C.',
+    'Merchant Ship B': 'Philadelphia Merchant Ship B',
+    'Merchant Ship A': 'Philadelphia Merchant Ship',
+    'Merchants Ship': 'Philadelphia Merchant Ship',
+    'Merchant Ship': 'Philadelphia Merchant Ship',
+    'Raleigh Elite': 'Raleigh CASL Elite',
+    'Real Estelí': 'Real Estelí F.C.',
+    'RWB Adria (IL)': 'RWB Adria',
+    'Acros': 'Acros Crystal',
+    'Aegean Hawks': 'Aegean Hawks FC',
+    'Alley Boys': 'Alley Boys FC',
+    'Austin Aztex U23s': 'Austin Aztex U23',
+    'Avella (W. Pa.)': 'Avella Polar Star',
+    'Avella Polar Star (W. Pa.)': 'Avella Polar Star',
+    'Bayonne Centerville': 'Centreville AC',
+    'Calgary Storm Prospects': 'Calgary Storm Select',
+    'Brooklyn Hispanos': 'Brooklyn Hispano',
+    'CASL Elite': 'Raleigh CASL Elite',
+    'Celtics of New Jersey': 'Celtics FC (New Jersey)',
+    'Charlton Athletic': 'Charlton Athletic F.C.',
+    'Chicago Croatian': 'Chicago Croatian SC',
+    'Chicago Fire Reserves': 'Chicago Fire Premier',
+    'Clan MacDonald': 'Clan MacDonald FC',
+    'Clan MacDuff': 'Clan MacDuff FC',
+    'Crompton': 'Crompton FC',
+    'Cruz Azul (Mexico)': 'Cruz Azul',
+    'DFW Tornadoes': 'DFW Tornados',
+    'Djurgardens IF': 'Djurgårdens IF',
+    'Esmond Cortez': 'Esmond Cortex',
+    'Fore River SC': 'Fore River FC',
+    'Fore River': 'Fore River FC',
+    'Germantown BC': 'Germantown Boys Club',
+    'Germantown Boys': 'Germantown Boys Club',
+    'Giuliana': 'Giuliana SC',
+    'New York Greek-Americans': 'NY Greek American Atlas',
+    'Greek-Americans': 'NY Greek American Atlas',
+    'NY Greek American SC': 'NY Greek American Atlas',
+    'New York Greek-American': 'NY Greek American Atlas',
+    'Greek American AC (North CA)': 'San Francisco Greek American AC',
+    'San Francisco Greek Americans': 'San Francisco Greek American AC',
+    
+
+    
+
+
+    
+
+}
+
+teams.update(leach)
 
 alternate_names = {
+    'Clark A.A.': 'Kearney Clarks ONT',
+    'East Newark Clark AA': 'Kearney Clarks ONT',
+
+    'Fall River County Street Rovers': 'Fall River Rovers',
+
+    'Hampton Roads Mariners': 'Virginia Beach Mariners',
+
+    'Thornton British Hosiers': 'Thornton Rovers',
+    'Thornton British Hosieries': 'Thornton Rovers',
+
+
+    'St. Louis Irish Americans': 'St. Louis Irish Americans AC',
+    'North Grafton Association': 'North Grafton Association Foot Ball',
+    'New York Irish-Americans': 'New York Irish Americans',
+    'New Rochelle Association': 'New Rochelle Foot Ball Association',
+    'Manville AC': 'Manville Athletics',
+    'Lonsdale Athletics': 'Lonsdale Athletes',
+    'Brooklyn Cricket Association': 'Brooklyn Cricket Athletic Club',
+    'Ansonias Association': 'Ansonia Association',
+    'Braidwood Association': 'Braidwoods Association',
+    'Brooklyn Logs': 'Brooklyn Longfellows',
+    'Clark O.N.T.': 'Kearney Clarks ONT',
+    'Kearny Clarks ONT': 'Kearney Clarks ONT',
+    'Kearny Rovers': 'Kearney Rovers',
+    'Kearny Rangers': 'Kearney Rangers',
+    'Lonsdales Association': 'Lonsdale Association',
+    'Missouri Amateur AC': 'Missouri Amateur AA',
+    'Washington & Lee University': 'Washington & Lee',
+
+    'Domestic': 'Newark Domestics',
+    'Newark Domestics Baseball AC': 'Newark Domestics',
+    'Clark ONT': 'Kearney Clarks ONT',
+    'Paterson Caledonian Thistles': 'Paterson Thistles',
+    'Trenton Association': 'Trentons Association',
+    'Tiffany Rovers': 'Newark Tiffany Rovers',
+
     'Toronto Ulster United': 'Toronto Ulster',
     'Toronto Supra Portuguese': 'Toronto Supra',
     "Vancouver 86ers": "Vancouver Whitecaps",
@@ -35,6 +185,16 @@ colleges = {
 teams.update(colleges)
 
 mexican = {
+    'St. Patricks': 'St. Patrick\'s',
+    'St. George FC': 'St. George F.C.',
+    'C.D. Aguila': 'C.D. Águila',
+    'C.D. Atletico Marte': 'C.D. Atlético Marte',
+    'Espana': 'España',
+    'U.S. All-stars': 'U.S. All-Stars', #find
+    'Splitdorf F.C': 'Splitdorf F.C.', #find
+    'World All-stars': 'World All-Stars', #find
+    'San Sebastian': 'San Sebastián',
+    
 
     'Scots Americans': 'Kearny Scots',
 
@@ -347,6 +507,8 @@ world = {
     
 
     'Comunicaciones': 'C.S.D. Comunicaciones',
+    'Comunciaciones': 'C.S.D. Comunicaciones',
+    'Communicaciones': 'C.S.D. Comunicaciones',
     'Alajuelense': 'L.D. Alajuelense',
     'Herediano': 'C.S. Herediano',
     
@@ -438,7 +600,7 @@ international = {
     'Chinese National Team': 'China',
     'Guatemalan National Team': 'Guatemala',
     'Bermuda National Team': 'Bermuda',
-    'Colombian National Team': 'Colombian',
+    'Colombian National Team': 'Colombia',
     'Indonesia National Team': 'Indonesia',
     'Iran National Team': 'Iran',
     'Malaysia National Team': 'Malaysia',
@@ -961,6 +1123,8 @@ misc = {
     'Bruell Hungarians': 'Bruell Insurance',
 
     'Chicago Sparta Falstaff': 'Chicago Sparta ABA',
+    'Chicago Sparta Fallstaff': 'Chicago Sparta ABA',
+    'Chicago Sparta': 'Chicago Sparta ABA',
     'Sparta (Chicago)': 'Chicago Sparta ABA',
     'Sparta': 'Chicago Sparta ABA',
     'Sparta FC': 'Chicago Sparta ABA',
@@ -969,7 +1133,7 @@ misc = {
     'Sparta Leader': 'Chicago Sparta ABA',
     'Sparta Garden City': 'Chicago Sparta ABA',
     'Sparta Union': 'Chicago Sparta ABA',
-    'Chicago Sparta Falstaff': 'Chicago Sparta ABA',
+
     'Sparta Ogden Dairy': 'Chicago Sparta ABA',
 
     'Mid-Michigan Bucks': 'Michigan Bucks',
@@ -1219,6 +1383,7 @@ usl_teams = {
     'MILW': 'Milwaukee Rampage',
     'MINN': 'Minnesota Thunder',
     'MONT': 'Montreal Impact',
+    'MOBR': 'Mobile Revelers',
     'NASM': 'Nashville Metros',
     'NOST': 'New Orleans Riverboat Gamblers',
     'ORCZ': 'Orange County Zodiac',

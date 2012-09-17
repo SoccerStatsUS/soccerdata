@@ -19,6 +19,11 @@ def process_mls_coach_stats():
 def process_nasl_stats():
     return process_stats("nasl.csv", format_name=False, source='nasljerseys.com')
 
+def process_misl_stats():
+    return process_stats("misl.csv", format_name=False, source='nasljerseys.com')
+
+
+
 def process_usl_stats():
     l = []
     l.extend(process_stats("usl1_19972005.csv", "USL First Division"))

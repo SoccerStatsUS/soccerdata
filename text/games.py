@@ -337,7 +337,15 @@ class GeneralProcessor(object):
         if self.competition is None or self.season is None:
             import pdb; pdb.set_trace()
 
-
+        
+        team1 = team1.strip()
+        team2 = team2.strip()
+        location = location.strip()
+        
+        if location in (team1, team2):
+            home_team, location = location, ''
+        else:
+            home_team = None
 
         g = {
             'competition': self.competition,
@@ -350,8 +358,7 @@ class GeneralProcessor(object):
             'team2_score': team2_score,
             'team1_result': team1_result,
             'team2_result': team2_result,
-            #'winner': None,
-            'home_team': None,
+            'home_team': home_team,
             'location': location,
             'referee': referee,
             'linesmen': linesmen,

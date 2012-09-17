@@ -51,7 +51,7 @@ simple_map = {
     'Rochester': 'Rochester Lancers',
     'Jacksonville': 'Jacksonville Tea Men',
     'Tulsa': 'Tulsa Roughnecks',
-    'Fort Lauderdale': 'Fort Laudeerdale Strikers',
+    'Fort Lauderdale': 'Fort Lauderdale Strikers',
 
     'Hartford': 'Hartford Bicentennials',
     'Connecticut': 'Connecticut Bicentennials',

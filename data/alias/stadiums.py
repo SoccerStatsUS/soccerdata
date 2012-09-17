@@ -33,6 +33,8 @@ sd.update(soccernet_errors)
     
 
 stadiums = {
+
+    'Freulinghausen Ave Grounds': 'Frelinghuysen Grounds',
     'Invesco Field': 'Sports Authority Field at Mile High',
     'INVESCO Field': 'Sports Authority Field at Mile High',
     'Nuevo Estadio Corona': 'Estadio TSM Corona',

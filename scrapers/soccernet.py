@@ -6,6 +6,9 @@
 # http://soccernet.espn.go.com/match?id=262155
 # This one is missing match stats...
 
+# Now defunct due to soccernet's move to espnfc.com
+# Only use for old (pre-2011) scores.
+
 import datetime
 import re
 
@@ -269,7 +272,7 @@ def get_urls_for_league(league_code):
         except:
             print url
 
-    return [e for e in urls if e]
+    return [e for e in urls if e and 'espnfc' not in e]
 
 
 def scrape_all_league_games(league_code):

@@ -3,11 +3,21 @@ import re
 
 from soccerdata.utils import scrape_soup, get_contents
 
-url = 'http://nasljerseys.com/Players/Players_Roster.htm'
-
+# List of all players.
 
 
 def scrape_player_urls():
+    generic_scrape_player_urls('http://nasljerseys.com/Players/Players_Roster.htm')
+
+
+def scrape_indoor_player_urls():
+    generic_scrape_player_urls('http://nasljerseys.com/MISL/Players/MISL_Roster.htm')
+
+def generic_scrape_player_urls()url:
+    """
+    Scrape all player urls located at a given url.
+    """
+
     soup = scrape_soup(url)
     table = soup.find("table", "MsoTableGrid")
 
@@ -18,7 +28,9 @@ def scrape_player_urls():
         except KeyError:
             print e
 
-    return ["http://nasljerseys.com/Players/%s" % e for e in urls]
+    root_url = url.rsplit('/', 1)[0]
+
+    return ["%s/%s" % (root_url, e) for e in urls]
 
 
 def scrape_player_bios():
