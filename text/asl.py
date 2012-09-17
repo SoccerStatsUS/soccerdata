@@ -5,7 +5,7 @@ import re
 
 games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/asl.csv'
 stats_filename = '/home/chris/www/soccerdata/data/stats/aslstats.csv'
-bios_filename = '/home/chris/www/soccerdata/data/people/asl_bios.csv'
+
 
 
 def get_full_name_stats(team, season):
@@ -139,45 +139,6 @@ LEWIS_CUP_YEARS = set([
         
 
 
-
-def process_bios():
-    f = open(bios_filename)
-
-    l = []
-    for line in f:
-        fields = line.split("\t") # 9 fields
-        name, birthplace, bmonth, bday, byear, deathplace, dmonth, dday, dyear = fields
-
-        if bmonth:
-            try:
-                birthdate = datetime.datetime(int(byear), int(bmonth), int(bday))
-            except:
-                print name, byear, bmonth, bday 
-                birthdate = None
-        else:
-            birthdate = None
-            
-        if dmonth:
-            try:
-                deathdate = datetime.datetime(int(dyear), int(dmonth), int(dday))
-            except:
-                print name, dyear, dmonth, dday 
-                deathdate = None
-
-        else:
-            deathdate = None
-
-        l.append({
-                'name': name,
-                'birthdate': birthdate,
-                'birthplace': birthplace,
-                'deathdate': deathdate,
-                'deathplace': deathplace,
-                'source': 'American Soccer League (1921-1931)',
-                })
-
-    return l
-            
         
         
 

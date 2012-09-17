@@ -20,6 +20,9 @@ def process_name(s):
     if ',' not in s:
         return s
 
+    if "Jr" in s:
+        return s
+
     # Multiple comma names.
     mapping = {
         'Da Silva-Sarafim, Jr, Edivaldo': 'Da Silva-Sarafim Jr, Edivaldo',
@@ -42,12 +45,139 @@ def load_all_bios():
     Load all bio files.
     This is just MLS/USL bios compiled by me a long time ago.
     """
-    files = os.listdir(DIR)
+
+    filenames = [
+        'bios.chris.csv', 
+        'usl_bios.csv',
+        'pdl_bios.csv', 
+        ]
+    
     l = []
-    for f in files:
-        p = os.path.join(DIR, f)
+    for fn in filenames:
+        p = os.path.join(DIR, fn)
         l.extend(load_bios(p))
     return l
+
+
+
+
+def process_asl_bios():
+    bp = '/home/chris/www/soccerdata/data/people/asl_bios.csv'
+
+
+    f = open(bp)
+
+    l = []
+    for line in f:
+        fields = line.split("\t") # 9 fields
+        name, birthplace, bmonth, bday, byear, deathplace, dmonth, dday, dyear = fields
+
+        if bmonth:
+            try:
+                birthdate = datetime.datetime(int(byear), int(bmonth), int(bday))
+            except:
+                print name, byear, bmonth, bday 
+                birthdate = None
+        else:
+            birthdate = None
+            
+        if dmonth:
+            try:
+                deathdate = datetime.datetime(int(dyear), int(dmonth), int(dday))
+            except:
+                print name, dyear, dmonth, dday 
+                deathdate = None
+
+        else:
+            deathdate = None
+
+        l.append({
+                'name': name,
+                'birthdate': birthdate,
+                'birthplace': birthplace,
+                'deathdate': deathdate,
+                'deathplace': deathplace,
+                'source': 'American Soccer League (1921-1931)',
+                })
+
+    return l
+
+
+def process_misl_bios():
+    return semicolon_bios('misl', 'http://nasljerseys.com')
+
+
+
+def process_nasl_bios():
+    return semicolon_bios('nasl', 'http://nasljerseys.com')
+
+
+def semicolon_bios(fn, source):
+            
+
+    p = '/home/chris/www/soccerdata/data/people/'
+    bp = os.path.join(p, fn)
+
+    f = open(bp)
+
+    l = []
+    for line in f:
+        if line.startswith('*'):
+            continue
+
+        if not line.strip():
+            continue
+
+        fields = [e.strip() for e in line.split(";")] # up to five fields
+        empty_fields = 5 - len(fields)
+        fields.extend([''] * empty_fields)
+        name, birthdate, birthplace, deathdate, deathplace = fields
+
+
+        if birthdate:
+            if '/' in birthdate:
+                m, d, y = [int(e) for e in birthdate.split('/')]
+                try:
+                    bd = datetime.datetime(y, m, d)
+                except:
+                    import pdb; pdb.set_trace()
+            else:
+                try:
+                    # Not using these anyway.
+                    # Figure why normalizing them out isn't working.
+                    bd = int(birthdate)
+                    bd = None
+                except:
+                    import pdb; pdb.set_trace()
+                    x = 5
+        else:
+            bd = None
+
+        if deathdate:
+            if '/' in deathdate:
+                m, d, y = [int(e) for e in deathdate.split('/')]
+                dd = datetime.datetime(y, m, d)
+            else:
+                try:
+                    dd = int(deathdate)
+                    dd = None
+                except:
+                    import pdb; pdb.set_trace()
+                    x = 5
+        else:
+            dd = None
+
+        l.append({
+                'name': name,
+                'birthdate': bd,
+                'birthplace': birthplace,
+                'deathdate': dd,
+                'deathplace': deathplace,
+                'source': source,
+                })
+
+    return l
+
         
 
 def load_bios(p):
@@ -90,6 +220,8 @@ def load_bios(p):
         for e in 'year', 'month', 'day', 'feet', 'inches', 'pounds', '':
             if e in d:
                 d.pop(e)
+
+        d['source'] = os.path.split(p)[1]
 
         return d
 

@@ -4,8 +4,8 @@ import datetime
 def calculate_results(d):
     team1_score = d['team1_score']
     team2_score = d['team2_score']
-    team1_result = d['team1_result']
-    team2_result = d['team2_result']
+    team1_result = d.get('team1_result')
+    team2_result = d.get('team2_result')
 
     if team1_result and team2_result:
         return team1_result, team2_result
@@ -146,9 +146,10 @@ def normalize():
 
             if 'location' in e:
                 # First normalize place names.
-                e['location'] = get_place(e['location'])
-                # Get stadium data if possible.
-                e['stadium'], e['location'] = stadium_getter(e['location'])
+                if e['location']:
+                    e['location'] = get_place(e['location'])
+                    # Get stadium data if possible.
+                    e['stadium'], e['location'] = stadium_getter(e['location'])
 
             if e.get('home_team'):
                 e['home_team'] = get_team(e['home_team'])
@@ -315,6 +316,13 @@ def normalize():
     for e in coll.find():
             # NB - weird naming.
         e['name'] = get_name(e['name'])
+
+        if type(e['birthdate']) == int:
+            e['birthdate'] = None
+
+        if type(e['deathdate']) == int:
+            e['deathdate'] = None
+
 
         l.append(e)
 
