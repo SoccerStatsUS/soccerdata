@@ -14,8 +14,7 @@ def get_place(s):
         return s
 
 cities = {
-    
-    'Blue Valley Athletic Complex': 'Blue Valley Sports Complex',
+
 
     'Newport Beach , California': 'Newport Beach, California',
     'Rio De Janeiro, Brazil': 'Rio de Janeiro, Brazil',
@@ -44,9 +43,18 @@ cities = {
 }
 
 places = {
+    'Layou, StVincent&amp;Grenadines': 'Layou, St. Vincent and Grenadines',
     'Dal-Hi Stadium': 'P.C. Cobb Stadium',
     'Gardner Park, Dallas': 'Burnett Field, Dallas',
     'Fair Park Stadium': 'Cotton Bowl',
+
+    
+    'Blue Valley Athletic Complex': 'Blue Valley Sports Complex',
+    'Old Panther Stadium, Duncanville': 'Old Panther Field, Duncanville',
+    'Chartiers Valley High School': 'Chartiers Valley Stadium',
+    'Tacony Baseball Park': 'Tacony Baseball Grounds',
+    'St. George Cricket Grounds, Hoboken': 'St. George\'s Cricket Grounds, Hoboken',
+
 
     'Southwestern College, San Diego, California': 'Southwestern College, Chula Vista, California',
     'Molson Stadium, Montreal': 'Percival Molson Memorial Stadium',

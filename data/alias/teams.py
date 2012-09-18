@@ -7,7 +7,33 @@ teams = {}
 
 leach = {
 
+    'Garland Genesis': 'DFW Tornados',
+    'Addison Arrows': 'DFW Tornados',
+    'North Texas United': 'DFW Tornados',
+    'Fort Worth Kickers': 'DFW Tornados',
+    'Dallas Kickers': 'DFW Tornados',
+    'Dallas Americans': 'DFW Tornados',
+    'Dallas-Fort Worth Toros': 'DFW Tornados',
+    'Texas Toros': 'DFW Tornados',
+    'Texas Rattlers': 'DFW Tornados',
+    'Texas Spurs': 'DFW Tornados',
+    
+    
 
+    'New York FC': 'New York Field Club',
+    'Brooklyn F.C.': 'Brooklyn Field Club',
+    'Fore River FC': 'Fore River Rovers',
+    'Akron FC': 'Akron Goodyear FC',
+    'Correnti Cleaners (St. Louis)': 'Simpkins Ford',
+    'DeAndreis': 'DeAndreis Council',
+    'De Andreis SC (St. Louis)': 'DeAndreis Council',
+
+    'Raleigh Capital Express': 'Raleigh Flyers',
+    'Vancouver North Shore United': 'Vancouver North Shore',
+    'Vereinigung Erzgebirge (East PA)': 'Vereinigung Erzgebirge',
+    'Philadelphia Hibernians': 'Philadelphia Hibernian',
+    'Platense (Honduras)': 'Platense F.C.',
+    'Platense': 'Platense F.C.',
 
     'Miami FC': 'Fort Lauderdale Strikers',
     'San Francisco Bay Blackhawks': 'San Jose Hawks',
@@ -27,6 +53,8 @@ leach = {
     'New York Hota': 'NY Hota SC',
     'Olímpia (H)': 'CD Olimpia',
     'Orlando City': 'Orlando City SC',
+    'Team Calgary': 'Calgary Storm',
+
     
 
 
@@ -235,6 +263,7 @@ mexican = {
 
     #u'Club Le\xf3n': 'Club León',
 
+
     'Club Deportivo Veracruz': 'Veracruz',
 
     'Pachuca': 'C.F. Pachuca',
@@ -325,12 +354,23 @@ concacaf = {
 teams.update(concacaf)
 
 us = {
+    'Scullin Steels': 'Scullin Steel',    
+    'Solidarite Scolair': 'Solidarite Scolaire',
+    'Sacachisapas': 'Sacachispas Fútbol Club', 
+
+    'Sacachispas': 'Sacachispas Fútbol Club',
+    'Real Estelí': 'Real Estelí F.C.',
+    'Inter Monegotapoe': 'Inter Moengotapoe',
     'Brooklyn Celtic': 'Brooklyn Celtics',
     'New Bedford Celtic': 'New Bedford Celtics',
     'West Philadelphia': 'West Philadelphia FC',
     'Chicago Maccabi': 'Maccabee SC (Chicago)', #verify 11/22/1936 game vs. Tel Aviv Maccabi was Maccabee SC
     'Thistle FC (Chicago)': 'Thistles FC (Chicago)',
     'Stix Baer & Fuller': 'Stix, Baer and Fuller F.C.',
+    'Hellrungs': 'Stix, Baer and Fuller F.C.',
+    'Hellrung FC': 'Stix, Baer and Fuller F.C.',
+    'Howard and Bullough': 'Howard & Bullough',
+
     'Central Breweries': 'Stix, Baer and Fuller F.C.',
     'St. Louis Carondolet': 'St. Louis Carondolets',
     'St. Louis Raiders': 'St. Louis Kutis',
@@ -656,7 +696,7 @@ all_star = {
 
     'Alberta Stars': 'Alberta All-Stars',
     'Chicago Stars': 'Chicago All-Stars',
-    'Cleveland Stars': 'Cleveland All-Stars',
+    #'Cleveland Stars': 'Cleveland All-Stars',
     'Connecticut Stars': 'Connecticut All-Stars',
     'CYC Stars': 'CYC All-Stars',
     'CYO Stars': 'CYO All-Stars',
