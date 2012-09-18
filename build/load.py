@@ -56,6 +56,9 @@ def first_load():
     load_name_maps()
     load_stadium_maps()
 
+    load_usa()
+
+
     load_mls()    
 
 
@@ -69,7 +72,7 @@ def first_load():
     load_misl()
 
 
-    load_concacaf()
+    #load_concacaf()
 
     load_cups()
 
@@ -80,15 +83,17 @@ def first_load():
     load_nafbl()
     load_city()
     load_asl()
-    return
     load_friendlies()
+    load_mexico()
+    return
+
 
     load_fifa()
     #load_early()
 
-    load_usa()
 
-    load_mexico()
+
+
     load_isl()
     #load_ncaa()
 
@@ -212,6 +217,18 @@ def load_bios():
     generic_load(soccer_db.misl_bios, bios.process_misl_bios)
     generic_load(soccer_db.nasl_bios, bios.process_nasl_bios)
 
+    generic_load(soccer_db.ussf2_bios, bios.process_ussf2_bios)
+
+    generic_load(soccer_db.ussf2_bios, bios.process_ussf2_bios)
+
+    generic_load(soccer_db.nasl2_bios, bios.process_nasl2_bios)
+
+    generic_load(soccer_db.apsl_bios, bios.process_apsl_bios)
+    generic_load(soccer_db.usl_bios, bios.process_usl2_bios)
+    generic_load(soccer_db.usl_bios, bios.process_usl1_bios)
+    generic_load(soccer_db.mls_bios, bios.process_mls_bios)
+    generic_load(soccer_db.asl_bios, bios.process_asl_bios2)
+
 
 
 def second_load():
@@ -278,7 +295,7 @@ def load_cups():
     load_games_standard('lewis_cup', 'domestic/country/usa/cups/lewis', games_only=True)
 
     for e in range(191, 202):
-        load_games_standard('open_cup', 'domestic/country/usa/cups/open/%s0' % e, games_only=True)
+        load_games_standard('open_cup', 'domestic/country/usa/cups/open/%s0' % e)#, games_only=True)
 
 
 
@@ -295,7 +312,7 @@ def load_small_tournaments():
 
 
 def load_mls():
-    #load_games_standard('mls_reserve', 'domestic/country/usa/leagues/mls_reserve')
+    load_games_standard('mls_reserve', 'domestic/country/usa/leagues/mls_reserve')
 
     load_mls_data()
     load_mls_lineups()
@@ -507,7 +524,7 @@ def load_misl():
 
     from soccerdata.text import stats
 
-    #load_excel_standings('indoor', 'indoor/all')
+    load_excel_standings('indoor', 'indoor/all')
     load_excel_standings('indoor', 'indoor/misl')
     print "Loading NASL stats.\n"
     generic_load(soccer_db.indoor_stats, stats.process_misl_stats)
@@ -576,6 +593,7 @@ def load_nasl2():
     from soccerdata.text import nasl
     load_games_standard('ussf2', 'domestic/country/usa/leagues/ussfd2')
     load_excel_standings('ussf2', 'domestic/country/usa/ussf2')
+
 
     print "Loading 2011 NASL stats."
     from soccerdata.text import nasl

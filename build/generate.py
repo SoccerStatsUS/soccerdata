@@ -162,6 +162,8 @@ def generate_standings(games):
 
 
 def generate_all_rosters(lineups=[]):
+    # Flatten lineups.
+    # Add actual rosters.
     pass
     
         
