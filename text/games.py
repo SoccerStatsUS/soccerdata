@@ -116,7 +116,7 @@ class GeneralProcessor(object):
 
         if line.startswith('BlockSource:'):
             source = line.split("BlockSource:")[1].strip()
-            self.sources.append(source)
+            self.sources = [source]
             return
             
 

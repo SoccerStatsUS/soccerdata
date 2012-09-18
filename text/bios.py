@@ -107,9 +107,32 @@ def process_misl_bios():
     return semicolon_bios('misl', 'http://nasljerseys.com')
 
 
+def process_ussf2_bios():
+    return semicolon_bios('ussf2', 'Wikipedia')
+
+def process_apsl_bios():
+    return semicolon_bios('apsl', 'Wikipedia')
+
+def process_nasl2_bios():
+    return semicolon_bios('nasl2', 'Wikipedia')
+
+def process_usl1_bios():
+    return semicolon_bios('usl1', 'Wikipedia')
+
+def process_usl2_bios():
+    return semicolon_bios('usl2', 'Wikipedia')
+
+def process_mls_bios():
+    return semicolon_bios('mls', 'Wikipedia')
+
+
 
 def process_nasl_bios():
     return semicolon_bios('nasl', 'http://nasljerseys.com')
+
+
+def process_asl_bios2():
+    return semicolon_bios('asl', 'Wikipedia')
 
 
 def semicolon_bios(fn, source):
@@ -136,11 +159,16 @@ def semicolon_bios(fn, source):
 
         if birthdate:
             if '/' in birthdate:
-                m, d, y = [int(e) for e in birthdate.split('/')]
-                try:
-                    bd = datetime.datetime(y, m, d)
-                except:
-                    import pdb; pdb.set_trace()
+                fields = [int(e) for e in birthdate.split('/')]
+                # e.g. 12/2008
+                if len(fields) == 3:
+                    m, d, y = fields
+                    try:
+                        bd = datetime.datetime(y, m, d)
+                    except:
+                        import pdb; pdb.set_trace()
+                else:
+                    bd = None
             else:
                 try:
                     # Not using these anyway.
@@ -155,8 +183,16 @@ def semicolon_bios(fn, source):
 
         if deathdate:
             if '/' in deathdate:
-                m, d, y = [int(e) for e in deathdate.split('/')]
-                dd = datetime.datetime(y, m, d)
+                fields = [int(e) for e in deathdate.split('/')]
+                # e.g. 12/2008
+                if len(fields) == 3:
+                    m, d, y = fields
+                    try:
+                        dd = datetime.datetime(y, m, d)
+                    except:
+                        import pdb; pdb.set_trace()
+                else:
+                    dd = None
             else:
                 try:
                     dd = int(deathdate)
