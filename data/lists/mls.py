@@ -31,6 +31,7 @@ d = {
 
 
     'MVP': [
+        (2011, 'Dwayne De Rosario'),
         (2010, 'David Ferreira'),
         (2009, 'Landon Donovan'),
         (2008, 'Guillermo Barros Schelotto'),
@@ -64,6 +65,7 @@ d = {
         (2008, 'Sigi Schmid'),
         (2009, 'Bruce Arena'),
         (2010, 'Schellas Hyndman'),
+        (2011, 'Bruce Arena'),
         ],
 
     'Defender of the Year': [
@@ -109,6 +111,7 @@ d = {
         (2008, 'Darren Huckerby'),
         (2009, 'Fredy Montero'),
         (2010, 'Álvaro Saborío'),
+        (2011, 'Mauro Rosales'),
         ],
 
     'Comeback Player of the Year': [
@@ -123,6 +126,7 @@ d = {
         (2008, 'Kenny Cooper'),
         (2009, 'Zach Thornton'),
         (2010, 'Bobby Convey'),
+        (2011, 'David Beckham'),
         ],
 
     'Fair Play Award': [
@@ -157,6 +161,7 @@ d = {
         (2009, 'Jimmy Conrad'),
         (2009, 'Logan Pause'),
         (2010, 'Michael Lahoud'),
+        (2011, 'Zak Boggs'),
         ],
 
 
@@ -398,7 +403,7 @@ d = {
         (2000, 'Marcelo Balboa', (4, 22, 2000)),
         (2001, 'Clint Mathis', (4, 28, 2001), 'http://www.youtube.com/watch?v=lVsqiV2uKd0'),
         (2002, 'Carlos Ruiz', (6, 27, 2002)),
-        (2003, 'Damani Ralph', (8, 13, 2002)),
+        (2003, 'Damani Ralph', (8, 13, 2003)),
         (2004, 'Dwayne De Rosario', (8, 2, 2004), 'http://www.youtube.com/watch?v=ZI0f6angcM0'),
         (2005, 'Dwayne De Rosario', (10, 15, 2005), 'http://www.youtube.com/watch?v=ML7Kh_Na3Tg'),
         (2006, 'Brian Ching', (9, 30, 2006), 'http://www.youtube.com/watch?v=JNZ75mGmiPY'),
@@ -406,6 +411,7 @@ d = {
         (2008, 'Will Johnson', (10, 18, 2008), 'http://youtu.be/FxMWsEQprWI?t=28s'),
         (2009, 'Landon Donovan', (8, 8, 2009), 'http://www.youtube.com/watch?v=qnuPei0xyNs'),
         (2010, 'Marco Pappa', (4, 10, 2010), 'http://youtu.be/Ym_ZWti0bBo?t=2m36s'),
+        (2011, 'Darlington Nagbe', (7, 2, 2011), 'http://www.youtube.com/watch?v=vTzTjP1Na0o'),
         ],
 }
 
