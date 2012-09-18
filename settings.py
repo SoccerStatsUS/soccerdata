@@ -28,6 +28,7 @@ SOURCES = [
     'apsl',
     'usl',
     'usl_leach',
+    'misl',
     'mls',
     'mls_soccernet',
     'mls_reserve',
