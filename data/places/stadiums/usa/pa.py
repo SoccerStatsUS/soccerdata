@@ -85,12 +85,65 @@ l = [
         'name': 'Holmes Stadium',
         'location': 'Philadelphia, PA',
         },
+    {
+        'name': 'Highmark Stadium',
+        'location': 'Pittsburgh, PA',
+        },
+
+
     
     
     {
         'name': 'Freeport Road Field',
         'location': 'Pittsburgh, PA',
         },
+
+    
+    {
+        'name': 'Whitehall High School',
+        'location': 'Whitehall, PA',
+        },
+
+    {
+        'name': 'Fleetwood Area High School',
+        'location': 'Fleetwood, PA',
+        },
+
+    {
+        'name': 'Hempfield High School',
+        'location': 'Landisville, PA',
+        },
+
+    {
+        'name': 'UGH Field',
+        'location': 'Oakford, PA',
+        },
+
+    {
+        'name': 'Hibernians Grounds',
+        'location': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Stanton Grounds',
+        'location': 'Philadelphia, PA',
+        },
+
+
+    {
+        'name': 'Frankford Grounds',
+        'location': 'Philadelphia, PA',
+        },
+    {
+        'name': 'Wayne Junction',
+        'location': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Pastime Park',
+        'location': 'Philadelphia, PA',
+        },
+
     
     {
         'name': 'Edison Field',

@@ -40,6 +40,17 @@ l = [
         'location': 'Kearny, NJ',
         },
 
+    {
+        'name': 'Winslow Township High School',
+        'location': 'Winslow Township, NJ',
+        },
+    {
+        'name': 'Yurcak Field',
+        'location': 'Piscataway, NJ',
+        },
+
+
+
 
     {
         'name': 'College Field',
@@ -77,7 +88,7 @@ l = [
         'location': 'Paterson, NJ',
         },
     {
-        'name': 'Cricket Grounds',
+        'name': 'Trenton Cricket Grounds',
         'location': 'Trenton, NJ',
         },
 
@@ -88,7 +99,7 @@ l = [
 
 
     {
-        'name': 'St. George Cricket Grounds',
+        'name': 'St. George\'s Cricket Grounds',
         'location': 'Hoboken, NJ',
         },
 
@@ -112,6 +123,25 @@ l = [
     {
         'name': 'Federal League Baseball Grounds',
         'location': 'Harrison, NJ',
+        },
+
+    {
+        'name': 'Scots Field',
+        'location': 'Kearny, NJ',
+        },
+
+    {
+        'name': 'Morris Park',
+        'location': 'Newark, NJ',
+        },
+    {
+        'name': 'Harrison Oval',
+        'location': 'Harrison, NJ',
+        },
+
+    {
+        'name': 'Trades\' League Grounds',
+        'location': 'Trenton, NJ',
         },
     
     

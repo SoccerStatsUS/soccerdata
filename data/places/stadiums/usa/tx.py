@@ -16,6 +16,15 @@ l = [
         'location': 'Dallas, TX',
         },
 
+    {
+        'name': 'Carl Lewis Track & Field Stadium',
+        'location': 'Houston, TX',
+        },
+    {
+        'name': 'Pennington Field',
+        'location': 'Bedford, TX',
+        },
+
 
     {
         'name': 'Dallas University Field',
@@ -155,6 +164,14 @@ l = [
     {
         'name': 'Old Panther Field',
         'location': 'Duncanville, TX',
+        },
+    {
+        'name': 'Delmar Stadium',
+        'location': 'Houston, TX',
+        },
+    {
+        'name': 'Oak Cliff Baseball Grounds',
+        'location': 'Dallas, TX',
         },
     
     {
