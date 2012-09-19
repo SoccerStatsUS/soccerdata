@@ -2,12 +2,14 @@ from soccerdata.mongo import generic_load, soccer_db
 
 from soccerdata.scrapers import fbleague, rsssf, mls
 from soccerdata.text import asl
+from soccerdata.text import drafts
 from soccerdata.text import lineups
 from soccerdata.text import standings
 from soccerdata.text import bios
 
 from soccerdata import scrapers
 from soccerdata import text
+
 
 
 def clear_all():
@@ -50,13 +52,13 @@ def first_load():
     load_teams()
 
     load_positions()
-    load_drafts()
     #load_news()
 
     load_name_maps()
     load_stadium_maps()
 
     load_usa()
+    return
 
 
     load_mls()    
@@ -217,17 +219,26 @@ def load_bios():
     generic_load(soccer_db.misl_bios, bios.process_misl_bios)
     generic_load(soccer_db.nasl_bios, bios.process_nasl_bios)
 
-    generic_load(soccer_db.ussf2_bios, bios.process_ussf2_bios)
 
-    generic_load(soccer_db.ussf2_bios, bios.process_ussf2_bios)
 
-    generic_load(soccer_db.nasl2_bios, bios.process_nasl2_bios)
+    generic_load(soccer_db.usa_bios, bios.process_usa_bios)
 
-    generic_load(soccer_db.apsl_bios, bios.process_apsl_bios)
-    generic_load(soccer_db.usl_bios, bios.process_usl2_bios)
-    generic_load(soccer_db.usl_bios, bios.process_usl1_bios)
     generic_load(soccer_db.mls_bios, bios.process_mls_bios)
     generic_load(soccer_db.asl_bios, bios.process_asl_bios2)
+
+
+    generic_load(soccer_db.asl2_bios, bios.process_asl2_bios)
+
+    generic_load(soccer_db.ussf2_bios, bios.process_ussf2_bios)
+    generic_load(soccer_db.nasl2_bios, bios.process_nasl2_bios)
+
+
+    generic_load(soccer_db.apsl_bios, bios.process_apsl_bios)
+
+
+    generic_load(soccer_db.usl_bios, bios.process_usl2_bios)
+    generic_load(soccer_db.usl_bios, bios.process_usl1_bios)
+
 
 
 
@@ -341,7 +352,7 @@ def load_melvin():
 
 def load_city():
 
-    load_games_standard('city', 'city')
+    #oad_games_standard('city', 'city')
 
     load_excel_standings('city', 'domestic/city/slsl')
     load_excel_standings('city', 'domestic/city/cosmo')
@@ -399,13 +410,6 @@ def load_midwest():
 
     
 
-
-
-
-
-
-    
-
 def load_competitions():
     from soccerdata.text import competitions
     print "Loading competitions.\n"
@@ -418,11 +422,6 @@ def load_teams():
     generic_load(soccer_db.teams, teams.load)
 
 
-def load_drafts():
-    from soccerdata.text import drafts
-    print "Loading drafts.\n"
-    generic_load(soccer_db.drafts, drafts.load_drafts)
-    generic_load(soccer_db.picks, drafts.load_picks)
 
 
 
@@ -515,8 +514,6 @@ def load_apsl():
 
 
 
-
-
 def load_misl():
     """
     Load stats and games from the APSL and WSA.
@@ -562,6 +559,10 @@ def load_mls_data():
     print "Loading coach playing stats.\n"
     # Load coach stats that are missing from mlossoccer.com
     generic_load(soccer_db.mls_stats, stats.process_mls_coach_stats, delete=False)
+
+    generic_load(soccer_db.drafts, drafts.load_drafts)
+    generic_load(soccer_db.picks, drafts.load_picks)
+
 
 
 
@@ -626,6 +627,8 @@ def load_usl():
     load_excel_standings('usl', 'domestic/country/usa/usl/usl0')
     load_excel_standings('usl', 'domestic/country/usa/usl/usisl')
     load_excel_standings('usl', 'domestic/country/usa/usl/select')
+
+
 
 
 def load_soccernet_league(name, code):

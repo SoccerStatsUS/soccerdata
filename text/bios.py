@@ -116,6 +116,10 @@ def process_apsl_bios():
 def process_nasl2_bios():
     return semicolon_bios('nasl2', 'Wikipedia')
 
+def process_asl2_bios():
+    return semicolon_bios('asl2', 'Wikipedia')
+
+
 def process_usl1_bios():
     return semicolon_bios('usl1', 'Wikipedia')
 
@@ -124,6 +128,9 @@ def process_usl2_bios():
 
 def process_mls_bios():
     return semicolon_bios('mls', 'Wikipedia')
+
+def process_usa_bios():
+    return semicolon_bios('usa', 'Wikipedia')
 
 
 
