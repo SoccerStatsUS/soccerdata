@@ -40,6 +40,14 @@ l = [
         'location': 'Kearny, NJ',
         },
 
+
+    {
+        'name': 'Newark School Stadium', 
+        'location': 'Newark, NJ',
+        },
+
+
+
     {
         'name': 'Winslow Township High School',
         'location': 'Winslow Township, NJ',

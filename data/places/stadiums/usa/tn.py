@@ -25,6 +25,12 @@ l = [
         'architect': 'Yeates, Gaskill & Rhodes',
         'capacity': 61008,
         },
+
+
+    {
+        'name': 'Nashville Stadium',
+        'address': 'Nashville, TN',
+        },
     
     
     {

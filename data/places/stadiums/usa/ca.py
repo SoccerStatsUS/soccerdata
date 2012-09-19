@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Torero Stadium',
+        'location': 'San Diego, CA',
+        },
+
+    {
         'name': 'Stanford Stadium',
         'address': '625 Nelson Rd',
         'location': 'Stanford, CA',
@@ -39,7 +44,7 @@ l = [
         },        
     
     {
-        'name': 'Memorial Coliseum (Los Angeles)',
+        'name': 'Memorial Coliseum',
         'address': '3911 South Figueroa Street',
         'location': 'Los Angeles, CA',
         'opened': datetime.datetime(1923, 5, 1),

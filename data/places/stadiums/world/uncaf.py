@@ -16,6 +16,19 @@ l = [
         'name': 'André Kamperveen Stadion',
         'location': 'Paramaribo, Suriname',
         },
+
+
+        {
+        'name': 'Estadio Olimpico',
+        'location': 'San Pedra Sula, Honduras',
+        },
+
+        {
+        'name': 'Estadio Cuzcatlan',
+        'location': 'San Salvador, El Salvador',
+        },
+
+
         {
         'name': 'Estadio Mateo Flores',
         'location': 'Guatemala City, Guatemala',
