@@ -101,8 +101,6 @@ def load_state_populations():
     
 
 
-
-
 # Doing some weird import stuff here.
 
 def load_stadiums():
@@ -133,7 +131,10 @@ def load_stadiums():
     
     for e in l:
         d = stadium_defaults.copy()
-        d.update(e)
+        try:
+            d.update(e)
+        except:
+            import pdb; pdb.set_trace()
 
         final.append(d)
 

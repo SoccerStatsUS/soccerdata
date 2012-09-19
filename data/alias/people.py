@@ -13,7 +13,8 @@ basic = {
 
     'Unknown': 'unknown',
     'Unassisted': 'unassisted',
-
+    
+    'Bela Guttman': 'Bela Guttmann',
     'Mixx Diskerud': 'Mikkel Diskerud',
 
     'Rudolf Getzinger': 'Rudy Getzinger',
