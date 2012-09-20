@@ -16,6 +16,7 @@ basic = {
     
     'Bela Guttman': 'Bela Guttmann',
     'Mixx Diskerud': 'Mikkel Diskerud',
+    'Charley Ernst': 'Charlie Ernst',
 
     'Rudolf Getzinger': 'Rudy Getzinger',
     'Anthony Sanneh': 'Tony Sanneh',

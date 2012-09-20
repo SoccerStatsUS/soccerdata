@@ -17,8 +17,8 @@ leach = {
     'Texas Toros': 'DFW Tornados',
     'Texas Rattlers': 'DFW Tornados',
     'Texas Spurs': 'DFW Tornados',
-    
-    
+
+    'McKeesport National Tube': 'McKeesport FC',
 
     'New York FC': 'New York Field Club',
     'Brooklyn F.C.': 'Brooklyn Field Club',
@@ -181,7 +181,7 @@ alternate_names = {
     'Domestic': 'Newark Domestics',
     'Newark Domestics Baseball AC': 'Newark Domestics',
     'Clark ONT': 'Kearney Clarks ONT',
-    'Paterson Caledonian Thistles': 'Paterson Thistles',
+
     'Trenton Association': 'Trentons Association',
     'Tiffany Rovers': 'Newark Tiffany Rovers',
 
@@ -759,7 +759,14 @@ oteams = {
     'Fairhill FC (Philadelphia)': 'Philadelphia Fairhill FC',
     'Fairhill FC': 'Philadelphia Fairhill FC',
     
-    'Paterson F.C.': 'Paterson Silk Sox',
+    
+    'Paterson Silk Sox': 'Paterson F.C.',
+    'Trenton Highlanders': 'Paterson F.C.',
+    'Paterson Caledonian': 'Paterson F.C.',
+    'Newark Germans': 'Paterson F.C.',
+
+    'Paterson Caledonian Thistles': 'Paterson Thistles',
+
 
     'Avella Polar Stars (W. Pa.)': 'Avella (W. Pa.)',
 
@@ -937,8 +944,6 @@ asl2 = {
     'New Jersey Shaefer Brewers': 'New Jersey Brewers',
     'New York Greeks': 'New York Apollo',
     'New York United': 'New York Apollo',
-    'Paterson Caledonian': 'Paterson F.C.',
-    'Newark Germans': 'Paterson F.C.',
     'Philadelphia Passon': 'Philadelphia Nationals',
     'Sacramento Spirits': 'Sacramento Gold',
     'Syracuse Scorpions': 'Syracuse Suns',

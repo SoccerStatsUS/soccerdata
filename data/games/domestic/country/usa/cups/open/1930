@@ -285,9 +285,9 @@ Round: First Round
 
 * Western Bracket
 1/15/1933; Andersons; 2 : 3; Ben Miller FC
-1/22/1933; Maccabee SC (Chicago); 2 : 2; Sons of Malta (Detroit)
-1/29/1933; Maccabee SC (Chicago); 2 : 2; Sons of Malta
-2/5/1933; Maccabee SC (Chicago); 0 : 2; Sons of Malta
+1/22/1933; Maccabee SC (Chicago); 2 : 2; Detroit Sons of Malta
+1/29/1933; Maccabee SC (Chicago); 2 : 2; Detroit Sons of Malta
+2/5/1933; Maccabee SC (Chicago); 0 : 2; Detroit Sons of Malta
 1/22/1933; Rosenblum Slavia; 4 : 1; Buffalo Germans
 1/22/1933; Curry SC;  4 : 0; Shamrocks SC (Cleveland)
 
@@ -309,7 +309,7 @@ Round: Second Round
 * Western Bracket
 2/19/1933; Curry; 1 : 3; Rosenblum Slavia
 2/19/1933; Sparta ABA; 2 : 0; Swedish American SC
-2/19/1933; Andersons; 7 : 1; Sons of Malta
+2/19/1933; Andersons; 7 : 1; Detroit Sons of Malta
 2/12/1933; Stix, Baer & Fuller; 10 : 1; Yugoslav American SC (Chicago); Sportsman's Park, St. Louis, MO; Robert Murphy, Fink, Wimer; 2300
 Werner Nilsen (Jimmy Roe) 5, Bill McPherson (Werner Nilsen) 10, Jimmy Roe (Alex McNab), Werner Nilsen, Werner Nilsen, Alex McNab, Bill Watson (pk) 68, Werner Nilsen (Alex McNab) 71, Jimmy Roe, Own Goal (Young) 89; Wright (Barich) 65
 Stix, Baer & Fuller: Charles LaBarge, Gregg, Nolan, Bill McPherson, Bill Watson, Lehman, Alex McNab, Ahrens, Werner Nilsen, Jimmy Roe (Hart), Willie McLean. 
@@ -363,7 +363,7 @@ Round: First Round
 
 * Eastern Bracket
 
-1/14/1934; New York Americans; 4-2; Brookhattan; Starlight Park; 1500
+1/14/1934; New York Americans; 4 : 2; Brookhattan; Starlight Park; 1500
 Michaels, Michaels, Fleming, Milne; McCombie, Aitken
 New York Americans: Chesney, Grosz, Moorhouse, Wylie, Fleming, McKay, Schwarcz, Kenny, Michaels, Kuntner, Pearson
 Brookhattan: Aronauer, Glover, Morton, Stone, Slaven, Martyn, Aitken, Gross, Lauder, Wetter, McCombie
@@ -383,11 +383,11 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=950CE5DB1430E23ABC4D52DFB76
 
 * Western Bracket
 
-1/21/1934; Bartunek Slavia; 2 : 1; Vienna AC (Milwaukee)
+1/21/1934; Bartunek Slavia; 2 : 1; Milwaukee Vienna AC
 1/14/1934; Sparta Leader; 8 : 2; Norwegian American SC (Chicago)
 1/14/1934; Weiboldt Wonderbolts; 5 : 2; Swedish American SC (Chicago)
 1/14/1934; Stix, Baer & Fuller; 6 : 1; Minit Rubs (St. Louis)
-; Sons of Malta (Detroit); 2 : 0; Swedish American SC (Detroit)
+; Detroit Sons of Malta; 2 : 0; Swedish American SC (Detroit)
 1/14/1934; Cleveland Indians; 2 : 0; Shamrocks SC (Cleveland)
 12/17/1933; Ben Miller FC; 4 : 4; Andersons
 1/7/1934; Ben Miller FC; 6 : 2; Andersons
@@ -407,7 +407,7 @@ Round: Second Round
 3/4/1934; New York Americans; 0 : 1; Brooklyn Hispano
 
 * Western Bracket
-2/4/1934; Stix, Baer & Fuller; 3 : 0; Sons of Malta
+2/4/1934; Stix, Baer & Fuller; 3 : 0; Detroit Sons of Malta
 2/4/1934; Sparta Leader; 6 : 0; Cleveland Indians
 2/4/1934;  Curry Silver Tops; 0 : 0; Rosenblum Slavia
 2/11/1934; Curry Silver Tops; 2 : 0; Rosenblum Slavia
@@ -492,7 +492,7 @@ Brooklyn Celtic: Rojas, Brunton, Barr, Ferguson, Coyle, McGilly, McDonald, Kenny
 2/3/1935; Sparta Leader; 6 : 0; Hungarian American SC (Chicago)
 2/3/1935; Flandria SC (Detroit); 2 : 3; Weiboldt Wonderbolts
 2/3/1935; Bartunek Slavia; 3 : 1; Banat German Sports (Cleveland)
-2/3/1935; Vienna AC (Milwaukee); 5 : 0; Lawndale Rangers (Chicago)
+2/3/1935; Milwaukee Vienna AC; 5 : 0; Lawndale Rangers (Chicago)
 2/18/1935; Maccabee SC (Chicago); 2 : 0; Norwegian American SC (Chicago)
 2/3/1935; Curry Silver Tops; 4 : 1; Rochester Celtics
 1/13/1935; Marre's; 3 : 2; Hellrung & Grimm
@@ -506,7 +506,7 @@ Round: Second Round
 3/10/1935; Baltimore Canton; 3 : 4; Kearny Scots
 
 * Western Bracket
-2/17/1935; Sparta Leader; 3 : 4; Vienna AC
+2/17/1935; Sparta Leader; 3 : 4; Milwaukee Vienna AC
 
 2/25/1935; Central Breweries; 1 : 0; Cleveland Slavia; St. Louis; 2000
 Billy Gonsalves; 
@@ -517,7 +517,7 @@ Cleveland Slavia: Ramsey, Cowan, Thompson, Jackson, Neilson, Creig, Ralph Caraff
 3/3/1935; Curry Silver Tops; 2 : 0; Marre
 
 Round: Quarterfinals
-3/3/1935; Central Breweries; 5 : 0; Vienna AC
+3/3/1935; Central Breweries; 5 : 0; Milwaukee Vienna AC
 3/16/1935; Kearny Scots; 2 : 0; New York Americans
 3/17/1935; New York Americans; 0 : 0; Kearny Scots
 3/23/1934; Pawtucket Rangers;  1 : 0; Fall River Liberals
@@ -601,7 +601,7 @@ Round: First Round
 2/2/1936; St. Louis Shamrocks; 6-1; Hellrung & Grimm; St. Louis
 1/19/1936; Slavia Bartunek; 2-1; Highland Park Chryslers; Cleveland
 1/12/1936; Marres; 4-2; Burke Undertakers; St. Louis
-3/8/1936; Vienna IAC; 5-4; Milwaukee Schlitz; Milwaukee
+3/8/1936; Milwaukee Vienna AC; 5-4; Milwaukee Schlitz; Milwaukee
 2/23/1936; Sparta Garden City; 6-0; Ben Miller FC; Chicago
 1/19/1936; Olympia SC (Chicago); 3-2; Maccabee SC (Chicago); Chicago
 2/2/1936; Heidelberg SC; 4-0; Curry Silver Tops; Pittsburgh
@@ -609,7 +609,7 @@ Round: First Round
 
 Round: Quarterfinals
 3/1/1936; St. Louis Shamrocks; 4-3; Slavia Bartunek; St. Louis
-3/15/1936; Marres; 6-3; Vienna IAC; St. Louis
+3/15/1936; Marres; 6-3; Milwaukee Vienna AC; St. Louis
 3/1/1936; Sparta Garden City; 2-1; Olympia SC (Chicago); Chicago
 2/23/1936; Heidelberg SC; 4-1; Kodak Park; Pittsburgh
 3/22/1936; St. Louis Shamrocks; 2-1; Marres; St. Louis
@@ -672,7 +672,7 @@ Round: First Round
 1/31/1937; Slavia Bartunek; 3-2; Graphite Bronze; Cleveland
 2/7/1937; Town Criers; 5-1; Club Lotus; St. Louis
 2/14/1937; Burke Undertakers; 1-0; North Side Optimists; St. Louis
-1/18/1937; Sparta Garden City; 3-1; Milwaukee Vienna; Chicago
+1/18/1937; Sparta Garden City; 3-1; Milwaukee Vienna AC; Chicago
 1/10/1937; Olympia SC (Chicago); 2-1; Maccabee SC (Chicago); Chicago
 1/10/1937; Dunlevy SC; 0-1; Castle Shannon; Bridgeville
 1/10/1937; Kodak Park; 0-2; Heidelberg SC
