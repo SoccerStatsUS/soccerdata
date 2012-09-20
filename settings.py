@@ -20,6 +20,7 @@ SOURCES = [
     'open_cup',
     'nafbl',
     'asl',
+    'esl',
     'lewis_cup',
     'asl2',
     'isl',

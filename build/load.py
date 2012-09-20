@@ -57,9 +57,13 @@ def first_load():
     load_name_maps()
     load_stadium_maps()
 
-    load_usa()
+    load_asl2()
+    load_esl()
+    load_asl()
+
     return
 
+    load_usa()
 
     load_mls()    
 
@@ -79,12 +83,12 @@ def first_load():
     load_cups()
 
     load_melvin()
-    load_asl2()
+
 
     load_small_tournaments()
     load_nafbl()
     load_city()
-    load_asl()
+
     load_friendlies()
     load_mexico()
     return
@@ -431,11 +435,8 @@ def load_positions():
     generic_load(soccer_db.positions, process_positions)
 
 
-def load_asl2():
-    from soccerdata.text import partial
-    print "Loading partial stats.\n"
-    generic_load(soccer_db.asl2_stats, partial.process_partial_stats)
-    load_excel_standings('asl2', 'domestic/country/usa/asl2')
+
+
 
 
 def load_analysis():
@@ -460,7 +461,22 @@ def load_asl():
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
 
-    
+
+def load_esl():    
+    load_games_standard('esl', 'domestic/country/usa/leagues/esl')
+
+
+
+def load_asl2():
+    from soccerdata.text import partial
+    print "Loading partial stats.\n"
+    generic_load(soccer_db.asl2_stats, partial.process_partial_stats)
+    load_excel_standings('asl2', 'domestic/country/usa/asl2')
+
+    load_games_standard('esl', 'domestic/country/usa/leagues/asl2')
+
+
+
 
 
 def load_nasl():
@@ -586,8 +602,6 @@ def load_mls_lineups():
 
 
 
-
-
 def load_nasl2():
 
     print "Loading 2010 USSF D2 stats."
@@ -601,7 +615,7 @@ def load_nasl2():
     generic_load(soccer_db.nasl2_stats, nasl.process_stats)
 
     print "Loading 2011 NASL games."
-    load_games_standard('nasl2', 'domestic/country/usa/leagues/nasl2011')
+
 
     load_excel_standings('nasl2', 'domestic/country/usa/nasl2')
 

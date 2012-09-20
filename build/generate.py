@@ -70,6 +70,9 @@ def generate_all_stats():
 
     standard_generate('city')
 
+    standard_generate('esl')
+    standard_generate('asl2')
+
     x = generate_stats(soccer_db['mls_soccernet_goals'].find({'season': '2012'}), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
     generic_load(soccer_db['mls_soccernet_stats'], lambda: x.values())
 
@@ -91,6 +94,7 @@ def generate_all_standings():
     sg('small')
     sg('usa')
     sg('concacaf')
+    sg('esl')
 
     sg('melvin')
 

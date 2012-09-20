@@ -75,7 +75,7 @@ def get_full_name_stats(team, season):
     
 
 
-# These should be merged into get_team?
+# These should be merged into get_team
 team_map = {
     'J&P Coats': 'J & P Coats',
     'NY Giants': 'New York Giants',
@@ -171,18 +171,32 @@ def load_stat(line):
     season_games, cup_games, other_cup_games, season_goals, cup_goals, other_cup_goals = stats
 
 
+
+
+
     if "-" in season:
         start, end = season.split("-")
         season = "19%s-19%s" % (start, end)
 
+
+    
+
+
     team_name = get_full_name_stats(team, season)
+
+    if season == '1928-1929' and team_name in ('Bethlehem Steel', 'Newark Skeeters', 'Newark Giants', 'Hakoah All-Stars'):
+        #import pdb; pdb.set_trace()
+        competition = 'Eastern Professional Soccer League (1928)'
+    else:
+        competition = 'American Soccer League (1921-1933)'
+
 
     l = []
     l.append({
             'name': name,
             'team': team_name,
             'season': season,
-            'competition': 'American Soccer League (1921-1933)',
+            'competition': competition,
             'games_played': season_games,
             'goals': season_goals,
             'source': 'American Soccer League (1921-1931)',
@@ -388,6 +402,8 @@ class GameProcessor(object):
         team_score,  opponent_score = [int(e) for e in score.split(',')]
 
         competition = competition_map.get(competition, competition)
+
+
 
         if competition in ('US Open Cup', 'AFA Cup', 'American Cup'):
             return {}
