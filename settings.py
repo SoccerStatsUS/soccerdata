@@ -1,4 +1,3 @@
-
 # What items are shown on the dashboard?
 STAT_TABLES = [
     'games', 
@@ -7,7 +6,7 @@ STAT_TABLES = [
     'lineups', 
     'stats', 
     'standings', 
-    #'rosters', 
+
     'bios',
     'awards',
     ]
@@ -73,4 +72,5 @@ SINGLE_SOURCES = [
     'name_maps', 
     'stadium_maps', 
     'news',
+    'prerosters',
     ]

@@ -2,12 +2,18 @@ import os
 import datetime
 import re
 
-stats_path = '/home/chris/www/soccerdata/data/stats/partial_stats.csv'
 
 
-def process_partial_stats():
+def process_asl2_partial():
+    return process_partial_stats('/home/chris/www/soccerdata/data/stats/partial_stats.csv')
+
+def process_apsl_partial():
+    return process_partial_stats('/home/chris/www/soccerdata/data/stats/partial_apsl.csv')
+
+
+def process_partial_stats(p):
     l = []
-    f = open(stats_path)
+    f = open(p)
     for line in f:
         fields = line.split("\t")
         try:

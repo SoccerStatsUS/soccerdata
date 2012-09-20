@@ -5,6 +5,8 @@ from standings import get_standings
 
 from collections import defaultdict
 
+
+
 # I think I should just generate standings directly from soccer_db.games.
 # And then check those against downloaded standings.
 
@@ -20,7 +22,6 @@ def generate():
 
     generate_all_stats()
     generate_all_standings()
-    #generate_all_rosters()
     
 
 def make_state_code_dict():
@@ -75,6 +76,9 @@ def generate_all_stats():
 
     x = generate_stats(soccer_db['mls_soccernet_goals'].find({'season': '2012'}), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
     generic_load(soccer_db['mls_soccernet_stats'], lambda: x.values())
+
+
+
 
 
 
@@ -165,12 +169,6 @@ def generate_standings(games):
 
 
 
-def generate_all_rosters(lineups=[]):
-    # Flatten lineups.
-    # Add actual rosters.
-    pass
-    
-        
 
 def generate_stats(goals=[], lineups=[]):
     """

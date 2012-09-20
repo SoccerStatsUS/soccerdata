@@ -6,6 +6,7 @@ from soccerdata.text import drafts
 from soccerdata.text import lineups
 from soccerdata.text import standings
 from soccerdata.text import bios
+from soccerdata.text import partial
 
 from soccerdata import scrapers
 from soccerdata import text
@@ -60,14 +61,20 @@ def first_load():
     load_asl2()
     load_esl()
     load_asl()
-
+    load_nafbl()
     return
 
-    load_usa()
+    load_melvin()
+    load_early_cups()
+    load_early_friendlies()
 
     load_mls()    
 
+    load_usa()
 
+
+    load_modern_friendlies()
+    load_modern_cups()
 
     load_nasl2()
     load_leach()    
@@ -76,20 +83,12 @@ def first_load():
     load_csl()
     load_nasl()
     load_misl()
-
-
     #load_concacaf()
-
-    load_cups()
-
-    load_melvin()
-
-
     load_small_tournaments()
-    load_nafbl()
+
     load_city()
 
-    load_friendlies()
+
     load_mexico()
     return
 
@@ -298,7 +297,7 @@ def load_usa():
 
 
 
-def load_cups():
+def load_early_cups():
 
     from soccerdata.text import awards
     generic_load(soccer_db.asl_awards, awards.process_american_cup_awards)
@@ -309,7 +308,13 @@ def load_cups():
     load_games_standard('american_cup', 'domestic/country/usa/cups/american2', games_only=True)
     load_games_standard('lewis_cup', 'domestic/country/usa/cups/lewis', games_only=True)
 
-    for e in range(191, 202):
+    for e in range(191, 197):
+        load_games_standard('open_cup', 'domestic/country/usa/cups/open/%s0' % e)#, games_only=True)
+
+
+def load_modern_cups():
+
+    for e in range(197, 202):
         load_games_standard('open_cup', 'domestic/country/usa/cups/open/%s0' % e)#, games_only=True)
 
 
@@ -362,13 +367,17 @@ def load_city():
     load_excel_standings('city', 'domestic/city/cosmo')
 
 
+def load_early_friendlies():
+    for e in range(190, 195):
+        load_games_standard('tours', 'domestic/country/usa/friendly/tours/%s0' % e, games_only=True)
 
-def load_friendlies():
+
+def load_modern_friendlies():
 
     for e in [70, 75, 78, 80, 82]:
         load_games_standard('tours', 'domestic/country/usa/friendly/19%s' % e, games_only=True)
 
-    for e in range(190, 201):
+    for e in range(195, 201):
         load_games_standard('tours', 'domestic/country/usa/friendly/tours/%s0' % e, games_only=True)
 
 
@@ -468,9 +477,9 @@ def load_esl():
 
 
 def load_asl2():
-    from soccerdata.text import partial
-    print "Loading partial stats.\n"
-    generic_load(soccer_db.asl2_stats, partial.process_partial_stats)
+
+    print "Loading asl2 partial stats.\n"
+    generic_load(soccer_db.asl2_stats, partial.process_asl2_partial)
     load_excel_standings('asl2', 'domestic/country/usa/asl2')
 
     load_games_standard('esl', 'domestic/country/usa/leagues/asl2')
@@ -512,6 +521,9 @@ def load_apsl():
     from soccerdata.text import apsl, awards
     print "loading apsl stats"
     generic_load(soccer_db.apsl_stats, apsl.process_apsl_stats)
+
+    print "loading apsl partial stats"
+    generic_load(soccer_db.asl2_stats, partial.process_apsl_partial)
 
     generic_load(soccer_db.apsl_awards, awards.process_wsa_awards)
     generic_load(soccer_db.apsl_awards, awards.process_apsl_awards, delete=False)

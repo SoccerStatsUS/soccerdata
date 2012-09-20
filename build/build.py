@@ -55,11 +55,13 @@ def build():
     normalize()
 
     # e.g. United States -> United States U-17
+    # Transform names like Carnihan -> Bill Carnihan if possible.
     print "Transforming"
     transform()
 
 
-    # This is where things like standings and stats (not much else) can be generated.
+
+    # This is where things like standings and stats are generated.
     # Should be relatively simple.
 
     print "Generating"

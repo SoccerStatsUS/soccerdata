@@ -2,6 +2,8 @@ from collections import defaultdict
 from soccerdata.mongo import soccer_db, insert_rows, generic_load
 
 
+
+
 def make_stadium_getter():
     """
     Given a team name, eg FC Dallas and a date, return the appropriate stadium.
@@ -52,7 +54,6 @@ def make_name_ungetter():
     def getter(name, name_date):
 
         if name_date is None:
-            import pdb; pdb.set_trace()
             return name
         
         if name not in d:
@@ -106,6 +107,10 @@ def denormalize():
     print "Generating cities."
     generate_cities()
 
+
+    print "Denormalizing standings"
+    # Need to change standing team names.
+
     print "Denormalizing games"    
     l = []
     for e in soccer_db.games.find():
@@ -126,6 +131,8 @@ def denormalize():
     soccer_db.games.drop()
     insert_rows(soccer_db.games, l)
 
+
+
     print "Denormalizing goals"
     l = []
     for e in soccer_db.goals.find():
@@ -138,16 +145,17 @@ def denormalize():
     insert_rows(soccer_db.goals, l)
             
 
-    print "Denormalizing lineups"            
+    print "Denormalizing lineups\n\n"            
     l = []
-    for e in soccer_db.appearances.find():
-        if e['date']:
-            e['team_original_name'] = name_ungetter(e['team'], e['date'])
+    for e in soccer_db.lineups.find():
+
+        e['team_original_name'] = name_ungetter(e['team'], e['date'])
+
 
         l.append(e)
 
-    soccer_db.appearances.drop()
-    insert_rows(soccer_db.appearances, l)
+    soccer_db.lineups.drop()
+    insert_rows(soccer_db.lineups, l)
 
     hall_of_famers = set([e['recipient'] for e in soccer_db.awards.find({'award': 'US Soccer Hall of Fame'})])
 
