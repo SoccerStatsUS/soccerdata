@@ -6,6 +6,10 @@ from soccerdata.mongo import soccer_db
 teams = {}
 
 leach = {
+    'DC United Reserves': 'D.C. United Reserves',
+
+    'Kansas City Wizards Reserves': 'Sporting Kansas City Reserves',
+    'MetroStars Reserves': 'New York Red Bulls Reserves',
 
     'Garland Genesis': 'DFW Tornados',
     'Addison Arrows': 'DFW Tornados',
@@ -118,7 +122,7 @@ leach = {
     'Celtics of New Jersey': 'Celtics FC (New Jersey)',
     'Charlton Athletic': 'Charlton Athletic F.C.',
     'Chicago Croatian': 'Chicago Croatian SC',
-    'Chicago Fire Reserves': 'Chicago Fire Premier',
+    'Chicago Fire Premier': 'Chicago Fire Reserves',
     'Clan MacDonald': 'Clan MacDonald FC',
     'Clan MacDuff': 'Clan MacDuff FC',
     'Crompton': 'Crompton FC',
