@@ -15,6 +15,7 @@ basic = {
     'Unassisted': 'unassisted',
 
     'Awa Morad': 'Awadalla Morad',
+    'Peter DeBrito': 'Pedro DeBrito',
 
     'Alex Ughiovhe': 'Idris Ughiovhe',
     'Abdoulaye Ibrahim': 'Abbe Ibrahim',
