@@ -186,7 +186,7 @@ def load_stat(line):
 
     if season == '1928-1929' and team_name in ('Bethlehem Steel', 'Newark Skeeters', 'Newark Giants', 'Hakoah All-Stars'):
         #import pdb; pdb.set_trace()
-        competition = 'Eastern Professional Soccer League (1928)'
+        competition = 'Eastern Soccer League (1928-1929)'
     else:
         competition = 'American Soccer League (1921-1933)'
 

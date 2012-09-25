@@ -129,6 +129,10 @@ def process_usl2_bios():
 def process_mls_bios():
     return semicolon_bios('mls', 'Wikipedia')
 
+
+def process_mls_reserve_bios():
+    return semicolon_bios('mls', 'Wikipedia')
+
 def process_usa_bios():
     return semicolon_bios('usa', 'Wikipedia')
 

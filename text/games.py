@@ -101,6 +101,11 @@ class GeneralProcessor(object):
         if line.startswith("Round"):
             return
 
+        # Set the round.
+        if line.startswith("Roster"):
+            return
+
+
         if line.startswith("Substitutes Not Used:"):
             return
 
