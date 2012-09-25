@@ -30,6 +30,7 @@ SOURCES = [
     'usl_leach',
     'misl',
     'mls',
+    'mls_playoffs',
     'mls_soccernet',
     'mls_reserve',
     'ussf2',

@@ -80,10 +80,6 @@ def generate_all_stats():
 
 
 
-
-
-
-
 def generate_all_standings():
 
     def sg(source):
@@ -99,6 +95,8 @@ def generate_all_standings():
     sg('usa')
     sg('concacaf')
     sg('esl')
+    sg('mls_playoffs')
+
 
     sg('melvin')
 
@@ -108,7 +106,11 @@ def generate_all_standings():
     generic_load(soccer_db.mls_soccernet_standings, lambda: stg.values())
 
 
-    stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
+    stg = generate_standings(soccer_db.nafbl_games.find({'season': '1895-1896'}))
+    generic_load(soccer_db.nafbl_standings, lambda: stg.values())
+
+    stg = generate_standings(soccer_db.nafbl_games.find({'season': '1895-1896'}))
+    generic_load(soccer_db.nafbl_standings, lambda: stg.values())
 
 
 
