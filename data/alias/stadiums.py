@@ -34,6 +34,24 @@ sd.update(soccernet_errors)
 
 stadiums = {
 
+    'Dal-Hi Stadium': 'P.C. Cobb Stadium',
+    'Gardner Park': 'Burnett Field',
+    'Fair Park Stadium': 'Cotton Bowl',
+    'Blue Valley Athletic Complex': 'Blue Valley Sports Complex',
+    'Old Panther Stadium, Duncanville': 'Old Panther Field, Duncanville',
+    'Chartiers Valley High School': 'Chartiers Valley Stadium',
+    'Tacony Baseball Park': 'Tacony Baseball Grounds',
+    'Soccorro Stadium': 'Socorro Stadium',
+    'SAS Stadium': 'WakeMed Soccer Park',
+    'National Sports Center': 'National Sports Center Stadium',
+    'Husky Soccer Field': 'Husky Soccer Stadium',
+    'PGE Park': 'JELD-WEN Field',
+    'Home Depot Center Track': 'Home Depot Center Track & Field Stadium',
+    'PAETEC Park': 'Sahlen\'s Stadium',
+    'Marina Auto Stadium': 'Sahlen\'s Stadium',
+    'Marina Auto Stadium, Rochester, NY': 'Sahlen\'s Stadium',
+
+
     'Estadío Ricardo Saprissa': 'Estadio Ricardo Saprissa Aymá',
     'Freulinghausen Ave Grounds': 'Frelinghuysen Grounds',
     'Invesco Field': 'Sports Authority Field at Mile High',
@@ -77,7 +95,6 @@ stadiums = {
     'ONT Grounds': 'Clark Field',
     'Clark\'s Athletic Field': 'Clark Field',
     'Eagle State Street Grounds': 'Eagle Street Grounds',
-
     'Frelinghuysen Avenue Grounds': 'Frelinghuysen Grounds',
     'Frelinghuysen Avenue Ground': 'Frelinghuysen Grounds',
     'East State St Grounds': 'East State Street Grounds',

@@ -41,6 +41,7 @@ def calculate_results(d):
 
 def make_stadium_getter():
     """
+    Detect stadium and split off from place name
     Split off a stadium from a place name, if possible.
     Apply stadium location information if a stadium is found.
 
@@ -50,16 +51,17 @@ def make_stadium_getter():
     'Richardson, Texas' -> (None, 'Richardson, Texas')
     """
 
-    from soccerdata.data.alias import get_place, get_stadium
+    from soccerdata.data.alias import get_place, get_stadium, get_city
     from soccerdata.mongo import soccer_db
     
     stadiums = soccer_db.stadiums.find()
 
     stadium_names = set()
     stadium_map = {}
-    
+
+    # Mapp stadium names to stadium objects; add to set.
+    # Need to handle multiple stadiums with same name.
     for stadium in stadiums:
-        
         name = stadium['name']
         stadium_names.add(name)
         stadium_map[name] = stadium
@@ -76,9 +78,9 @@ def make_stadium_getter():
             name, place = sx['name'], sx['location']
         
         else:
-            name, place = None, get_place(s)
+            name, city = None, get_city(s)
 
-        return name, place
+        return name, city
         
     return getter
             
