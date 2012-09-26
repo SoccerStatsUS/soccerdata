@@ -38,7 +38,9 @@ def make_stadium_getter():
 
     return getter
 
-def make_name_ungetter():
+
+
+def make_team_name_ungetter():
     """
     Given a canonical name, eg FC Dallas, return the time-specific name, e.g. Dallas Burn.
     """
@@ -79,6 +81,41 @@ def make_name_ungetter():
 
     return getter
         
+
+def make_competition_name_ungetter():
+    """
+    Given a canonical name, eg US Open Cup, return the time-specific name, e.g. National Challenge Cup
+    """
+    from text import competitionnamemap
+
+    d = defaultdict(list)
+    for x in namemap.load():
+        key = x['from_name']
+        value = (x['to_name'], x['seasons'])
+        d[key].append(value)
+
+
+    def getter(name, name_season):
+
+        if name_date is None:
+            return name
+        
+        if name not in d:
+            return name
+
+        # Load the mapping of dates to team names
+        # and iterate through it
+        # e.g. [('Dallas Burn', 1/1/1996, 12/31/2001), ...]        
+
+        to, seasons = d[name]
+        if name_season in seasons:
+            return to
+
+
+        return name
+
+    return getter
+        
         
 
 
@@ -101,7 +138,7 @@ def denormalize():
 
     
     print "Denormalizing"
-    name_ungetter = make_name_ungetter()
+    team_name_ungetter = make_team_name_ungetter()
     stadium_getter = make_stadium_getter()
 
     print "Generating cities."
@@ -115,8 +152,8 @@ def denormalize():
     l = []
     for e in soccer_db.games.find():
         if e['date']:
-            e['team1_original_name'] = name_ungetter(e['team1'], e['date'])
-            e['team2_original_name'] = name_ungetter(e['team2'], e['date'])
+            e['team1_original_name'] = team_name_ungetter(e['team1'], e['date'])
+            e['team2_original_name'] = team_name_ungetter(e['team2'], e['date'])
 
             home_team = e.get('home_team')
             if home_team and not e.get('stadium'):
@@ -131,13 +168,16 @@ def denormalize():
     soccer_db.games.drop()
     insert_rows(soccer_db.games, l)
 
+    print "Denormalizing competitions"
+    l = []
+
 
 
     print "Denormalizing goals"
     l = []
     for e in soccer_db.goals.find():
         if e['date']:
-            e['team_original_name'] = name_ungetter(e['team'], e['date'])
+            e['team_original_name'] = team_name_ungetter(e['team'], e['date'])
 
         l.append(e)
 
@@ -149,7 +189,7 @@ def denormalize():
     l = []
     for e in soccer_db.lineups.find():
 
-        e['team_original_name'] = name_ungetter(e['team'], e['date'])
+        e['team_original_name'] = team_name_ungetter(e['team'], e['date'])
 
 
         l.append(e)

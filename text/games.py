@@ -91,6 +91,11 @@ class GeneralProcessor(object):
         if line.startswith("Minutes:"):
             return
 
+        # Change the number of minutes.
+        if line.startswith("Indoor"):
+            return
+
+
         # Set the competition.
         if line.startswith("Competition:"):
             self.competition = line.split("Competition:")[1].strip()

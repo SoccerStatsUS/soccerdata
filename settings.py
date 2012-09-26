@@ -72,6 +72,7 @@ SINGLE_SOURCES = [
     'positions', 
     'name_maps', 
     'stadium_maps', 
+    'competition_maps', 
     'news',
     'prerosters',
     ]

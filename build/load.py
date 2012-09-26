@@ -57,7 +57,9 @@ def first_load():
 
     load_name_maps()
     load_stadium_maps()
+    load_competition_maps()
 
+    load_modern_friendlies()
 
     load_mls()    
     load_asl()
@@ -90,7 +92,7 @@ def first_load():
     load_usa()
 
 
-    load_modern_friendlies()
+
 
 
 
@@ -196,6 +198,11 @@ def generate_cities():
 def load_name_maps():
     from text import namemap
     generic_load(soccer_db.name_maps, namemap.load)
+
+
+def load_competition_maps():
+    from text import competitionnamemap
+    generic_load(soccer_db.competition_maps, competitionnamemap.load)    
 
 
 def load_stadium_maps():

@@ -5,6 +5,10 @@ CONCACAF Champions League; CCL; soccer; domestic; League; 1; Confederation; CONC
 CONCACAF Champions' Cup; CCC; soccer; domestic; Cup; 1; Confederation; CONCACAF
 North American SuperLiga; SL; soccer; domestic; League; 1; Confederation; CONCACAF
 
+CONCACAF Cup Winners Cup; CGC; soccer; domestic; Cup; 2; Confederation; CONCACAF
+CONCACAF Giants Cup; CGC; soccer; domestic; Cup; 2; Confederation; CONCACAF
+
+American League of Professional Football; ALPF; soccer; domestic; League; 1; Country; United States
 American Soccer League (1921-1933); ASL1; soccer; domestic; League; 1; Country; United Staets
 North American Soccer League; NASL1; soccer; domestic; League; 1; Country; United States
 Major League Soccer; MLS; soccer; domestic; League; 1; Country; United States
@@ -33,6 +37,12 @@ USL Premier Developmental League; PDL; soccer; domestic; League; 4; Country; Uni
 
 Cosmopolitan Soccer League; CoSL; soccer; domestic; League; ; City; New York, NY
 St. Louis Soccer League; SLSL; soccer; domestic; League; ; City; St. Louis, MO
+Association Foot Ball League; AFBL; soccer; domestic; League; ; City; St. Louis, MO
+Bristol County Tournament; BCT; soccer; domestic; League; ; County; Bristol County, MA
+Lone Star Soccer Alliance; LSSA; soccer; domestic; League; ; State; Texas
+
+
+
 
 * Domestic Cups
 
@@ -61,13 +71,17 @@ APSL Professional Cup; APSLPC; soccer; domestic; Cup; 2; League; American Profes
 MLS Reserve League; MLSr; soccer; domestic; League; ; Country; United States
 
 Friendly; F; soccer; domestic; ; ; World; Earth
+Unofficial Friendly; UF; soccer; domestic; ; ; World; Earth
 
 * Indoor
 
 North American Soccer League (indoor); NASLi; indoor; domestic; League; 1; Country; United States
 Major Indoor Soccer League (1978-1992); MISL; indoor; domestic; League; 1; Country; United States
+National Professional Soccer League (indoor); NPSLi; indoor; domestic; League; 1; Country; United States
 
 United States Interregional Soccer League (indoor); USISLi; indoor; domestic; League; 2; Country; United States
+Continental Indoor Soccer League; CISL; indoor; domestic; League; 2; Country; United States
+World Indoor Soccer League; WISL; indoor; domestic; League; 2; Country; United States
 
 * International 
 

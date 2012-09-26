@@ -11,22 +11,30 @@ full_alias = {
     'Western Soccer Alliance': 'Western Soccer League',
     'Western Soccer Alliance Playoffs': 'Western Soccer League Playoffs',
 
+    'American Indoor Soccer Association': 'National Professional Soccer League (indoor)',
+
 
     'USL Pro': 'USL Second Division',
     'International Friendly': 'Friendly International',
+
+    'Recopa CONCACAF': 'CONCACAF Cup Winners Cup',
+    'Southwest Indoor Soccer League': 'United States Interregional Soccer League (indoor)',
+    'Southwest Independent Soccer League (indoor)': 'United States Interregional Soccer League (indoor)',
+    'Southwest Independent Soccer League': 'United States Interregional Soccer League',
+    'Premier Soccer Alliance': 'World Indoor Soccer League',
 }
 
 aliases.update(full_alias)
 
 # Don't want to completely delete these.
-partial_alias {
+partial_alias = {
     'Domestic Tour': 'Friendly',
     'International Tour': 'Friendly',
 
     'Bicentennial Cup': 'Friendly',
     'Carlsberg Cup': 'Friendly',
     'Carolina Challenge Cup': 'Friendly',
-    'Dynamo Charities Cup': 'Frinedly',
+    'Dynamo Charities Cup': 'Friendly',
     'Europac International': 'Friendly',
     'Spring Cup Matches': 'Friendly',
     'Sunshine International': 'Friendly',
@@ -45,7 +53,8 @@ partial_alias {
     'North American Nations Cup': 'Friendly International',
     'Presidents Cup': 'Friendly International',
     'Trinidad Tournament': 'Friendly International',
-    
+    }
+aliases.update(partial_alias)
 
 
 def get_competition(s):
@@ -53,4 +62,4 @@ def get_competition(s):
         return None
     
     s = s.strip()
-    return competitions.get(s, s)
+    return aliases.get(s, s)
