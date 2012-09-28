@@ -104,6 +104,9 @@ def load_state_populations():
 # Doing some weird import stuff here.
 
 def load_stadiums():
+
+
+
     print "Loading stadiums."
     l = []
 
@@ -122,13 +125,14 @@ def load_stadiums():
                 xn = x[:-3]
 
                 if xn != '__init__':
+                    print "loading %s" % x
                     iname = "%s.%s.%s" % (istub, region, xn)
                     m = importlib.import_module(iname)
                     l.extend(m.l)
 
-
+    africa = l
     final = []
-    
+
     for e in l:
         d = stadium_defaults.copy()
         try:

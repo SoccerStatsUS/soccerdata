@@ -69,6 +69,7 @@ def process_asl_bios():
 
     l = []
     for line in f:
+
         fields = line.split("\t") # 9 fields
         name, birthplace, bmonth, bday, byear, deathplace, dmonth, dday, dyear = fields
 
@@ -131,7 +132,7 @@ def process_mls_bios():
 
 
 def process_mls_reserve_bios():
-    return semicolon_bios('mls', 'Wikipedia')
+    return semicolon_bios('mls_reserve', 'Wikipedia')
 
 def process_usa_bios():
     return semicolon_bios('usa', 'Wikipedia')

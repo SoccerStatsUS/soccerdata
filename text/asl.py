@@ -147,7 +147,8 @@ def process_stats():
     f = open(stats_filename)
     l = []
     for line in f:
-        lx = load_stat(line)
+        if not line.startswith('*'):
+            lx = load_stat(line)
         l.append(lx)
     return l
 
@@ -403,6 +404,10 @@ class GameProcessor(object):
 
         competition = competition_map.get(competition, competition)
 
+
+        if 'Playoffs' in season:
+            season = season.replace('Playoffs', '').strip()
+            competition = "%s Playoffs" % competition
 
 
         if competition in ('US Open Cup', 'AFA Cup', 'American Cup'):

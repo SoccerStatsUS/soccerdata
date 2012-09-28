@@ -73,8 +73,12 @@ class GeneralProcessor(object):
 
         # Set the previous game as a minigame.
         if line.startswith("Minigame"):
-            self.games[-1]['minigame'] = True
-            return
+            try:
+                self.games[-1]['minigame'] = True
+                return
+            except:
+                import pdb; pdb.set_trace()
+                x = 5
 
         if line.startswith("Forfeit"):
             self.games[-1]['forfeit'] = True
@@ -117,6 +121,9 @@ class GeneralProcessor(object):
         if line.startswith("Group"):
             return
 
+        if line.startswith("Description"):
+            return
+
 
         # Add a source.
         if line.startswith("Source:"):
@@ -150,8 +157,19 @@ class GeneralProcessor(object):
             return self.process_misconduct(line)
 
 
-        # Get the game now.
+
+        # A terrible solution
+        # This destroys goal processing.
+        # Nevertheless something like this would be good.
+        # Fields was being thrown off by a trailing ;
+        # This makes that not happen without fixing the
+        # underlying problem.
+        #if line.endswith(';'):
+        #    line = line[:-1]
+
+
         fields = line.split(";")
+            
 
         if '26/09/1943' in line:
             pass #import pdb; pdb.set_trace()

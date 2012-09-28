@@ -65,6 +65,10 @@ def process_nasl_awards():
     from soccerdata.data.lists.nasl import d
     return process_awards(d)
 
+def process_ussf2_awards():
+    from soccerdata.data.lists.usl import ussf2
+    return process_awards(ussf2)
+
 
 def process_mls_awards():
     from soccerdata.data.lists.mls import d
@@ -105,6 +109,10 @@ def process_asl2_awards():
     from soccerdata.data.lists.asl import d
     return process_awards(d)
 
+def process_asl_awards():
+    from soccerdata.data.lists.asl0 import d
+    return process_awards(d)
+
 
 def process_ncaa_awards():
     from soccerdata.data.lists.ncaa import d
@@ -122,6 +130,7 @@ def process_usl_awards():
     l.extend(process_awards(usl.usl_pro))
     l.extend(process_awards(usl.usl_pdl))
     l.extend(process_awards(usl.usl_2))
+    l.extend(process_awards(usl.usl_1))
     return l
 
 def process_world_cup_awards():
