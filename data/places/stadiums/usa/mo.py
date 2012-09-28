@@ -7,6 +7,10 @@ import datetime
 l = [
 
     
+    {
+        'name': 'Anheuser-Busch Soccer Park',
+        'location': 'Fenton, MO',
+        },
 
     {
         'name': 'Busch Memorial Stadium',
@@ -20,8 +24,8 @@ l = [
         },
     
     {
-        'name': 'Handlan\'s Park',
-        'location': 'St. Louis, MO',
+        'name': 'Swope Park',
+        'location': 'Kansas City, MO',
         },
 
     {
@@ -103,6 +107,10 @@ l = [
         'opened': datetime.datetime(1999, 8, 21),
         'capacity': 6050,
         'cost': 5100000,
+        },
+    {
+        'name': 'Arrowhead Training Field',
+        'location': 'Kansas City, MO',
         },
     
     

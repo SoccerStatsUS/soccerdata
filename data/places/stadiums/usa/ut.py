@@ -40,6 +40,10 @@ l = [
         'opened': datetime.datetime(1947, 5, 23),
         'capacity': 10000,
         },
+    {
+        'name': 'Xango Field',
+        'location': 'Lehi, UT',
+        },
     
     
     

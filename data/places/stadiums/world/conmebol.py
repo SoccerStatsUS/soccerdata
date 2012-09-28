@@ -14,6 +14,49 @@ l = [
         'architect': 'HOK Sport',
         },
 
+    
+
+
+    {
+        'name': 'Estadío Ramón Aguilera', 
+        'location': 'Santa Cruz, Bolivia',
+        },
+
+
+    {
+        'name': 'Estadío Francisco Sánchez Rumoros', 
+        'location': 'Coquimbo, Chile',
+        },
+
+
+    {
+        'name': 'General Artigas Stadium', 
+        'location': 'Paysandú, Uruguay',
+        },
+    {
+        'name': 'Estadío Independencia', 
+        'location': 'Belo Horizonte, Brazil',
+        },
+
+    {
+        'name': 'Campus Municipal Stadium', 
+        'location': 'Maldonado, Uruguay',
+        },
+    {
+        'name': 'Estadio Bellavista', 
+        'location': 'Ambato, Ecuador',
+        },
+
+
+       {
+        'name': 'Estadio Jose Panchencho Romero', 
+        'location': 'Maracaibo, Venezuela',
+        },
+
+
+
+
+
     {
         'name': 'Estadio Athagualpa de Quito',
         'location': 'Quito, Ecuador',

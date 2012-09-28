@@ -24,6 +24,16 @@ l = [
         'name': 'Taylor Field',
         'location': 'Bethlehem, PA',
         },
+    {
+        'name': 'Sox Harrison Stadium',
+        'location': 'Edinboro, PA',
+        },
+
+    {
+        'name': 'Park Stadium',
+        'location': 'Hershey, PA',
+        },
+
 
     {
         'name': 'Oakdale Park',

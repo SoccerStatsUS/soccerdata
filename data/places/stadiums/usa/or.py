@@ -8,6 +8,12 @@ l = [
 
 
     {
+        'name': 'Merlo Field',
+        'location': 'Portland, OR',
+        },
+
+
+    {
         'name': 'Jeld-Wen Field',
         'address': '1844 SW Morrison',
         'location': 'Portland, OR',

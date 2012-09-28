@@ -42,6 +42,14 @@ l = [
         'name': 'DePaul Field',
         'location': 'Chicago, IL',
         },
+    {
+        'name': 'Lake Forest Academy',
+        'location': 'Lake Forest, IL',
+        },
+    {
+        'name': 'Flames Field',
+        'location': 'Chicago, IL',
+        },
 
 
     {

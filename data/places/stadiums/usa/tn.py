@@ -29,7 +29,7 @@ l = [
 
     {
         'name': 'Nashville Stadium',
-        'address': 'Nashville, TN',
+        'location': 'Nashville, TN',
         },
     
     

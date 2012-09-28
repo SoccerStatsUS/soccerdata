@@ -20,4 +20,8 @@ l = [
         'location': 'Greenville, SC',
         'capacity': 15000,
         },
+    {
+        'name': 'Winthrop University',
+        'location': 'Rock Hill, SC',
+        },
     ]

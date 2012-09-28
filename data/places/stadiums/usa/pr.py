@@ -4,10 +4,22 @@
 import datetime
 
 l = [
-    
+
+    {
+        'name': 'Bayamon FC Soccer Complex',
+        'location': 'Bayamón, Puerto Rico',
+        },
+    {
+        'name': 'Josue Elevadito Gonzalez Stadium',
+        'location': 'Juncos, Puerto Rico',
+        },
+    {
+        'name': 'Roberto Clemente Stadium',
+        'location': 'Carolina, Puerto Rico',
+        },
     
     {
-        'name': 'Juan Ramón Loubriel Stadium',
+        'name': 'Estadio Juan Ramon Loubriel',
         'address': 'Route 2 and Route 5',
         'location': 'Bayamón, Puerto Rico',
         'opened': 1974,

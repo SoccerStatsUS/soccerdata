@@ -17,6 +17,11 @@ l = [
         },
 
     {
+        'name': 'adidas Field',
+        'location': 'Frisco, TX',
+        },
+
+    {
         'name': 'Carl Lewis Track & Field Stadium',
         'location': 'Houston, TX',
         },

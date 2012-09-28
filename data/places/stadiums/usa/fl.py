@@ -6,8 +6,32 @@ import datetime
 l = [
 
     {
+        'name': 'George M. Steinbrenner Field',
+        'location': 'Tampa, FL',
+        },    
+    {
+        'name': 'Progress Engergy Park',
+        'location': 'St. Petersburg, FL',
+        },    
+    {
+        'name': 'FIU Stadium',
+        'location': 'Miami, FL',
+        },    
+
+
+    {
         'name': 'University of South Florida',
-        'location': 'Tampa Bay, Florida',
+        'location': 'Tampa, FL',
+        },    
+
+    {
+        'name': 'Fort Lauderdale Stadium',
+        'location': 'Fort Lauderdale, FL',
+        },    
+
+    {
+        'name': 'Bayfront Stadium',
+        'location': 'Tampa, FL',
         },    
     
     {
@@ -86,9 +110,14 @@ l = [
         'address': '11201 Southwest 24th Street',
         'location': 'Miami, FL',
         },
+
+    {
+        'name': 'EverBank Field',
+        'location': 'Jacksonville, FL',
+        },
     
     {
-        'name': 'Al Lang Stadium',
+        'name': 'Progress Energy Park',
         'address': '180 2nd Avenue SE',
         'location': 'St. Petersburg, FL',
         'opened': 1947,

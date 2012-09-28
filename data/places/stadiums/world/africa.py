@@ -5,7 +5,17 @@
 import datetime
 
 l = [
+    
+    {
+        'name': 'Harti Stadium',
+        'location': 'Marrakech, Morocco',
+        },
 
+
+    {
+        'name': 'Mohamed V Stadium', 
+        'location': 'Casabalanca, Morocco',
+        },
     {
         'name': 'Green Point Stadium',
         'location': 'Cape Town, South Africa',
@@ -17,7 +27,7 @@ l = [
         },
 
     {
-        'name': 'Loftus Verfeld',
+        'name': 'Loftus Versfeld',
         'location': 'Pretoria, South Africa',
         },
 
@@ -28,7 +38,7 @@ l = [
 
     {
         'name': 'Ruimsig Stadium',
-        'location': 'Roodesport, South Africa',
+        'location': 'Roodepoort, South Africa',
         },
 
     {
@@ -38,4 +48,4 @@ l = [
 
 
 
-],
+]

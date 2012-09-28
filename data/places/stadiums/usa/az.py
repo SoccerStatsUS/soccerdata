@@ -34,5 +34,10 @@ l = [
         'name': 'Peoria Sports Complex',
         'location': 'Peoria, AZ',
         },
+
+    {
+        'name': 'Sun Devil Stadium',
+        'location': 'Tempe, AZ',
+        },
     
 ]

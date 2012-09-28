@@ -10,6 +10,18 @@ l = [
         'name': 'Hamilton Park',
         'location': 'New Haven, CT',
         },
+
+
+    {
+        'name': 'Dillon Stadium',
+        'location': 'Hartford, CT',
+        },
+
+
+    {
+        'name': 'Willow Memorial Park Stadium', 
+        'location': 'New Britain, CT',
+        },
     
     {
         'name': 'Yale Bowl',

@@ -46,4 +46,8 @@ l = [
         'name': 'High Point Athletic Complex',
         'location': 'High Point, NC',
         },
+    {
+        'name': 'Charlotte Christian Stadium',
+        'location': 'Charlotte, NC',
+        },
     ]

@@ -10,6 +10,33 @@ l = [
         'location': 'New York, NY',
         },
 
+    {
+        'name': 'Marquette Oval',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Dyckman Oval',
+        'location': 'New York, NY',
+        },
+
+
+    {
+        'name': 'Steinway Oval',
+        'location': 'Astoria, NY',
+        },
+    {
+        'name': 'Queen\'s Park',
+        'location': 'Astoria, NY',
+        },
+
+
+
+    {
+        'name': 'Visitation Park',
+        'location': 'Brooklyn, NY',
+        },
+
 
     {
         'name': 'Lakeside Park',

@@ -33,11 +33,25 @@ l = [
         'capacity': 52454,
         },
     
+
     
     
     {
+        'name': 'J. Malcolm Simon Stadium',
+        'location': 'Newark, NJ',
+        },    
+    {
         'name': 'ONT AA Grounds',
         'location': 'Kearny, NJ',
+        },
+    {
+        'name': 'Montclair State University',
+        'location': 'Upper Montclair, NJ',
+        },
+
+    {
+        'name': 'Dreamland Park',
+        'location': 'Newark, NJ',
         },
 
 

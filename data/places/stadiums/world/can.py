@@ -6,6 +6,19 @@ import datetime
 
 l = [
 
+    
+
+        {
+        'name': 'Downsview Park',
+        'location': 'Toronto, ON',
+        },        
+
+
+
+
+
+    
+
 
   {
         'name': 'Percival Molson Memorial Stadium',
@@ -16,6 +29,8 @@ l = [
         'capacity': 25012,
         'architect': 'Percy Erskine Nobbs',
         },  
+
+
 
 
 
@@ -242,4 +257,15 @@ l = [
         'name': 'Ossington Grounds',
         'location': 'Toronto',
         },
+
+                {
+        'name': 'Athletic Park',
+        'location': 'Vancouver, BC',
+        },
+
+                {
+        'name': 'Ulster Stadium',
+        'location': 'Toronto, ON',
+        },
+
 ]

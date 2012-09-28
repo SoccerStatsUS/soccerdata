@@ -31,6 +31,14 @@ l = [
         'name': 'Athletic Field',
         'location': 'Fall River, MA',
         },
+    {
+        'name': 'Lower Practice Field at Gillette Stadium',
+        'location': 'Foxborough, MA',
+        },
+    {
+        'name': 'Walpole Street Grounds',
+        'location': 'Boston, MA',
+        },
 
     {
         'name': 'Jarvis Field',

@@ -11,6 +11,12 @@ l = [
         'name': 'Estadio Rommel Fernandez',
         'location': 'Panama City, Panama',
         },
+    
+
+        {
+        'name': 'Estadío Tropical', 
+        'location': 'Havana, Cuba',
+        },
 
         {
         'name': 'André Kamperveen Stadion',
@@ -20,7 +26,7 @@ l = [
 
         {
         'name': 'Estadio Olimpico',
-        'location': 'San Pedra Sula, Honduras',
+        'location': 'San Pedro Sula, Honduras',
         },
 
         {
@@ -108,8 +114,8 @@ l = [
         },
 
                       {
-        'name': 'Estadio Ricardo Saprissa Aymá',
-        'location': 'San Juan de Tibás, Costa Rica',
+        'name': 'Estadio Ricardo Saprissa',
+        'location': 'San Jose, Costa Rica',
         'opened': datetime.datetime(1972, 8, 27),
         'capacity': 24000,
         },

@@ -10,10 +10,23 @@ l = [
         'name': 'Southwestern College',
         'location': 'Chula Vista, CA',
         },
+    {
+        'name': 'Norco College',
+        'location': 'Norco, CA',
+        },
 
     {
         'name': 'Torero Stadium',
         'location': 'San Diego, CA',
+        },
+    {
+        'name': 'Nutrilite Training Facility',
+        'location': 'San Jose, CA',
+        },
+
+    {
+        'name': 'Edison International Field',
+        'location': 'Anaheim, CA',
         },
 
     {
@@ -62,7 +75,7 @@ l = [
         'capacity': 69732,
         },
     {
-        'name': 'Oakland-Alameda County Coliseum',
+        'name': 'Oakland Coliseum',
         'address': '7000 Coliseum Way',
         'location': 'Oakland, CA',
         'opened': datetime.datetime(1966, 9, 18),
@@ -250,7 +263,7 @@ l = [
     {
         'name': 'Spartan Stadium',
         'address': '1257 S 10th St',
-        'location': 'San José, CA',
+        'location': 'San Jose, CA',
         'capacity': 30456, 
         'cost': None, 
         'opened': 1933,

@@ -14,10 +14,115 @@ l = [
         'architect': 'HOK Sport',
         },
 
+    
+    {
+        'name': 'Kazimierza Gorskiego Stadium', 
+        'location': 'Plock, Poland',
+        },
+    {
+        'name': 'Dalymount Park',
+        'location': 'Dublin, Ireland',
+        },
+    {
+        'name': 'Ayresome Park',
+        'location': 'Middlesbrough, England',
+        },
+    {
+        'name': 'Stade de Gerland',
+        'location': 'Lyons, France',
+        },
+
+    {
+        'name': 'Parc des Princes',
+        'location': 'Paris, France',
+        },
+    {
+        'name': 'Ernst-Happel Stadion',
+        'location': 'Vienna, Austria',
+        },
+
+    {
+        'name': 'Stade Roi Baudouin',
+        'location': 'Brussels, Belgium',
+        },
+
+
+
+    {
+        'name': 'Stadio Cibali',
+        'location': 'Catania, Italy',
+        },
+    {
+        'name': 'Osteestadion',
+        'location': 'Rostock, Germany',
+        },
+
+    
+
+    {
+        'name': 'Stade la Beaujoire',
+        'location': 'Nantes, France',
+        },
+
+    {
+        'name': 'Geoffrey Prichard Stadium',
+        'location': 'St. Etienne, France',
+        },
     {
         'name': 'King Baudouin Stadium',
         'location': 'Brussels, Belgium',
         },
+
+
+    {
+        'name': 'Dinamo Stadium', 
+        'location': 'Moscow, Russia',
+        },
+
+
+    {
+        'name': 'EasyCredit-Stadion', 
+        'location': 'Nuremberg, Germany',
+        },
+    {
+        'name': 'Fritz Walter Stadion', 
+        'location': 'Kaiserslautern, Germany',
+        },
+
+    {
+        'name': 'Veltins-Arena', 
+        'location': 'Gelsenkirchen, Germany',
+        },
+
+    {
+        'name': 'Ullevaal Stadium', 
+        'location': 'Oslo, Norway',
+        },
+    
+
+    {
+        'name': 'Laugardalsvollur', 
+        'location': 'Reykjavik, Iceland',
+        },
+    {
+        'name': 'Melavollur', 
+        'location': 'Reykjavik, Iceland',
+        },
+
+    {
+        'name': 'Inonu Stadium',
+        'location': 'Istanbul, Turkey',
+        },
+
+    {
+        'name': 'Polish Army Stadium',
+        'location': 'Warsaw, Poland',
+        },
+    {
+        'name': 'Nepstadion',
+        'location': 'Budapest, Hungary',
+        },
+
     {
         'name': 'LKS Stadium',
         'location': 'Lodz, Poland',
@@ -100,7 +205,7 @@ l = [
 
     {
         'name': 'NRGi Park',
-        'location': 'Aarhus , Denmark',
+        'location': 'Aarhus, Denmark',
         },
 
     {

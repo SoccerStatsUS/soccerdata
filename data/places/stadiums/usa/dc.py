@@ -18,6 +18,16 @@ l = [
         'cost': 24000000,
         'opened': datetime.datetime(1961, 10, 1),
         },        
+
+
+    {
+        'name': 'RFK Auxiliary Feild',
+        'location': 'Washington, D.C.',
+        },        
+    
+    
+
     
     
     ]
+

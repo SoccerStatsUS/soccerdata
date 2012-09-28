@@ -39,6 +39,29 @@ l = [
         'name': 'Bugle Field',
         'location': 'Baltimore, MD',
         },
+
+    {
+        'name': 'Ridley Athletic Complex',
+        'location': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Lumsden-Scott Stadium',
+        'location': 'Baltimore, MD',
+        },
+    {
+        'name': 'UMBC Stadium',
+        'location': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Paul Angelo Russo Stadium',
+        'location': 'Towson, MD',
+        },
+    {
+        'name': 'Richard Montgomery High School',
+        'location': 'Rockville, MD',
+        },
     
     {
         'name': 'Memorial Stadium Baltimore',

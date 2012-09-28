@@ -33,6 +33,18 @@ l = [
         'name': 'CSM Soccer Stadium',
         'location': 'Golden, CO',
         },
+    {
+        'name': 'Rapids Training Facility',
+        'location': 'Westminster, CO',
+        },
+    {
+        'name': 'Broomfield County Commons Park',
+        'location': 'Broomfield, CO',
+        },
+    {
+        'name': 'DSG Park Field 20',
+        'location': 'Commerce City, CO',
+        },
     
     {
         'name': 'Englewood Stadium',

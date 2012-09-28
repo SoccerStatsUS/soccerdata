@@ -24,6 +24,18 @@ l = [
         'name': 'Luna Park',
         'location': 'Cleveland, OH',
         },
+    {
+        'name': 'Middleford Cheese Stadium',
+        'location': 'Bedford, OH',
+        },
+    {
+        'name': 'Miami Valley South Stadium',
+        'location': 'Bellbrook, OH',
+        },
+    {
+        'name': 'Crew Training Facility',
+        'location': 'Obetz, OH',
+        },
     
     
     {

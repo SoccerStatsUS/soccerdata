@@ -7,6 +7,29 @@ import datetime
 l = [
 
     {
+        'name': 'Estadío Parque Asturias',
+        'location': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Estadío Jalisco',
+        'location': 'Guadalajara, Mexico',
+        },
+
+
+    {
+        'name': 'Estadío Parque Necaxa',
+        'location': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Estadío Parque Espana',
+        'location': 'Mexico City, Mexico',
+        },
+
+    
+
+    {
         'name': 'Estadio Azteca',
         'address': 'Calzada de Tlalpan 3665',
         'location': 'Mexico City, Mexico',
@@ -61,7 +84,7 @@ l = [
         },
                 {
         'name': 'Estadio Olímpico Universitario',
-        'location': 'Ciudad Universitaria, Mexico City',
+        'location': 'Ciudad Universitaria, Mexico City, Mexico',
         'opened': datetime.datetime(1952, 11, 20),
         'capacity': 63186,
         },
