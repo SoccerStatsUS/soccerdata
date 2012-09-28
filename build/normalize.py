@@ -51,6 +51,8 @@ def make_stadium_getter():
     'Richardson, Texas' -> (None, 'Richardson, Texas')
     """
 
+    
+
     from soccerdata.data.alias import get_place, get_stadium, get_city
     from soccerdata.mongo import soccer_db
     
@@ -59,7 +61,7 @@ def make_stadium_getter():
     stadium_names = set()
     stadium_map = {}
 
-    # Mapp stadium names to stadium objects; add to set.
+    # Map stadium names to stadium objects; add to set.
     # Need to handle multiple stadiums with same name.
     for stadium in stadiums:
         name = stadium['name']
@@ -67,15 +69,28 @@ def make_stadium_getter():
         stadium_map[name] = stadium
     
     def getter(s):
+
+        # No commas in stadium names
+        # Take something like Home Depot Center, Carson, CA -> 
+        # ('Home Depot Center', 'Carson, CA')
         if ',' in s:
             potential_stadium, location_string = s.split(',', 1)
         else:
             potential_stadium, location_string = s, ''
 
         potential_stadium = get_stadium(potential_stadium)
+        location_string = get_city(location_string)
+
         if potential_stadium in stadium_names:
             sx = stadium_map[potential_stadium]
-            name, place = sx['name'], sx['location']
+            name, city = sx['name'], sx['location']
+
+            # Do soft location check here.
+            if location_string and (city.strip() != location_string.strip()):
+                try:
+                    print "mismatch:\n%s\n%s" % (location_string, city)
+                except:
+                    print "BIGFAIL %s" % str(location_string)
         
         else:
             name, city = None, get_city(s)
@@ -98,7 +113,7 @@ def normalize():
     These will then be split up with denormalize.py.
     """
 
-    from soccerdata.data.alias import get_team, get_name, get_competition, get_place
+    from soccerdata.data.alias import get_team, get_name, get_competition, get_place, get_stadium, get_city
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
@@ -107,6 +122,9 @@ def normalize():
     coll = soccer_db["stadiums"]
     l = []
     for e in coll.find():
+
+        e['name'] = get_stadium(e['name'])
+        e['location'] = get_city(e['location'])
 
         e['year_opened'] = e['year_closed'] = None
   
@@ -146,8 +164,9 @@ def normalize():
             # Assign appropriate results based on score and result data.
             e['team1_result'], e['team2_result'] = calculate_results(e)
 
+            # Transforming place names should happen before anything else.
+            # Place transfomrations are the most conservative.
             if 'location' in e:
-                # First normalize place names.
                 if e['location']:
                     e['location'] = get_place(e['location'])
                     # Get stadium data if possible.

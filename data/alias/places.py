@@ -15,8 +15,18 @@ def get_place(s):
 
 
 places = {
-    'Layou, StVincent&amp;Grenadines': 'Layou, St. Vincent and Grenadines',
 
+    'Trinidad': 'Trinidad and Tobago',
+    'Cal State Fullerton': 'Titan Stadium, Fullerton, CA',
+    'Richmond City Stadium': 'City Stadium, Richmond, VA',
+    'USA': 'United States',
+
+
+    
+    'Layou, StVincent&amp;Grenadines': 'Layou, St. Vincent and Grenadines',
+    'Los Angeles Memorial Coliseum': 'Memorial Coliseum, Los Angeles, CA',
+    'Memorial Stadium Los Angeles': 'Memorial Coliseum, Los Angeles, CA',
+    'Memorial Stadium, Long Beach, CA': 'Veterans Memorial Stadium, Long Beach, CA',
 
     'St. George Cricket Grounds, Hoboken': 'St. George\'s Cricket Grounds, Hoboken',
 
@@ -25,16 +35,10 @@ places = {
     'Olympic Park, Paterson': 'Olympic Field, Paterson',
     'Olympic Park, Paterson, NJ': 'Olympic Field, Paterson',
     'Island Stadium, Toronto': 'Hanlan\'s Point Stadium',
-    'Soccorro Stadium, El Paso, TX': 'Socorro Stadium, El Paso, TX',
+
     'SAS Stadium, Cary, NC': 'WakeMed Soccer Park',
     'SAS Soccer Park, Cary, NC': 'WakeMed Soccer Park',
 
-    'Seahawk Stadium, Seattle, WA': 'CenturyLink Field',
-
-    'PAETEC Park, Rochester, NY': 'Sahlen\'s Stadium',
-
-    'Legion Stadium, Wilmington, NC': 'Buck Hardee Field at Legion Stadium',
-    'Silverbacks Park, Chamblee, GA': 'Atlanta Silverbacks Park',
 
 
     'Dudley Stadium, El Paso, TX': 'Dudley Field',
@@ -47,11 +51,9 @@ places = {
     'Clark\'s Field, Newark, NJ': 'Clark Field, Newark, NJ',
 
     'National Sports Center, Blaine, MN': 'National Sports Center Stadium',
-    'Montreal, QUE': 'Montreal',
-    'Montreal, Que': 'Montreal',
+    
 }
 
-places.update(cities)
 
 states = {
     'AL': 'Alabama',

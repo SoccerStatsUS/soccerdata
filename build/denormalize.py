@@ -155,6 +155,9 @@ def denormalize():
             e['team1_original_name'] = team_name_ungetter(e['team1'], e['date'])
             e['team2_original_name'] = team_name_ungetter(e['team2'], e['date'])
 
+
+            # I suspect that this is happening far too late in the process.
+            # When do stadium / city pairs get generated?
             home_team = e.get('home_team')
             if home_team and not e.get('stadium'):
                 stadium = stadium_getter(home_team, e['date'])

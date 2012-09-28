@@ -6,6 +6,10 @@ from soccerdata.mongo import soccer_db
 teams = {}
 
 leach = {
+
+    'West Brom Albion': 'West Bromwich Albion',
+    'West Ham': 'West Ham United',
+
     'DC United Reserves': 'D.C. United Reserves',
 
     'Kansas City Wizards Reserves': 'Sporting Kansas City Reserves',
@@ -51,6 +55,7 @@ leach = {
     'Minerva-Pfuelzer': 'Minerva-Pfaelzer SC',
     'Minit Rubs (St. Louis)': 'Minit-Rubs',
     'Minnesota Stars': 'Minnesota Stars FC',
+    'NSC Minnesota Stars': 'Minnesota Stars FC',
     'New York Freedom': 'New York Freedoms',
     'Newark Portugeuse': 'Newark Portuguese',
     'Newark Portuguese (NJ)': 'Newark Portuguese',
@@ -571,8 +576,8 @@ world = {
     
 
     'Aberdeen': 'Aberdeen F.C.',
-    'Inter Milan': 'F.C. Internazionale Milano',
-    'Internazionale': 'F.C. Internazionale Milano',
+    'Internazionale': 'Inter Milan',
+    'F.C. Internazionale Milano': 'Inter Milan',
 
     'Jonkopping': 'Jönköpings Södra IF',
     'Uberlandia (Brazil)': 'Uberlândia Esporte Clube',

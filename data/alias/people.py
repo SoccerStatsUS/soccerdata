@@ -14,6 +14,14 @@ basic = {
     'Unknown': 'unknown',
     'Unassisted': 'unassisted',
 
+    'Gershon Koffe': 'Gershon Koffie',
+    'Kenneth Bertz': 'Kenney Bertz',
+    'C.E. Creighton': 'Charles E. Creighton',
+    'Charles Creighton': 'Charles E. Creighton',
+    'Charlie Creighton':'Charles E. Creighton',
+    'C. E. Creighton': 'Charles E. Creighton',
+    'C. Creighton': 'Charles E. Creighton',
+
     'Luis Angel Landín': 'Luis Ángel Landín',
     'Sergio Martinez': 'Sergio Martínez',
     'Awa Morad': 'Awadalla Morad',
@@ -25,7 +33,7 @@ basic = {
     'Henry Gutierrez': 'Henry Gutíerrez',
     'Sebastian Rincón': ' Sebastián Rincón',
     'Vincent Dalbis': 'Vincent D\'Albis',
-    'Darío Verón': 'Darío Veron',
+
     'JT Noone': 'J.T. Noone',
 
     'Alex Ughiovhe': 'Idris Ughiovhe',
@@ -345,6 +353,7 @@ basic = {
     'James (FP) Cekanor': 'James Cekanor',
     'D. Bujak': 'Derek Bujak',
     'Piro Villanon': 'Pito Villanon',
+
     'David Arturo Ferreira': 'David Ferreira',
 
 
@@ -439,6 +448,7 @@ basic = {
     'Richard Englefried': 'Ricky Engelfried',
     'Richard Engelfried': 'Ricky Engelfried',
     'Rick van Hoeven': 'Rick Van Hoeven',
+
     'Ricky Tangardi': 'Ricky Tangredi',
     'Robert (Gino) DiGuardi': 'Robert DiGuardi',
     'Robert (Robby) Christner': 'Robert Christner',
@@ -976,9 +986,11 @@ nx = {
     'Christian Martinez': 'Christian Martínez',
 
     'Damian Ariel Alvarez': 'Damián Ariel Álvarez',
+
     'Dario Veron': 'Darío Verón',
     'Darío Veron': 'Darío Verón',
     'Dario Verón': 'Darío Verón',
+
     'Denardo': 'DeNardo',
     'Donaldo Gonzalez': 'Donaldo González',
 
@@ -1305,7 +1317,6 @@ onames = {
     'Michael Dunne': 'Mike Dunne',
     'William Fryer': 'Bill Fryer',
     'Thomas Duggan': 'Tommy Duggan',
-    'Andrew John Andy Straden': 'Andy Straden',
     'Arnold Oliver': 'Arnie Oliver',
     'Ted Glover': 'Teddy Glover',
     'Charles Edward Ted Glover': 'Teddy Glover',

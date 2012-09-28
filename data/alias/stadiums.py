@@ -5,9 +5,18 @@
 # 1. Stadiums with multiple names
 # 2. Stadiums whose names are incorrect (externally)
 
+
 def get_stadium(s):
+    """
+    Recursive. 
+    """
+    print s
+
     s = s.strip()
-    return sd.get(s, s)
+    if s in sd:
+        return get_stadium(sd[s])
+    else:
+        return s
 
 sd = {}
 
@@ -15,12 +24,12 @@ soccernet_errors = {
     'Rio Tinto Satadium': 'Rio Tinto Stadium',
     'AT&T; Park': 'AT&T Park',
     'LIVESTRONG Sporting Park': 'Livestrong Sporting Park',
-    'JELD-WEN Park': 'Jeld-Wen Park',
+    'JELD-WEN Park': 'Jeld-Wen Field',
     'Olímpico Universitario': 'Estadio Olímpico Universitario',
     'Tecnológico': 'Estadio Tecnológico',
     'Jorge Calero Suárez': 'Estadio Jorge Calero Suárez',
     'Nacional Tiburcio Carías Andino': 'Estadio Tiburcio Carías Andino',
-    'Juan Ramón Loubriel': 'Juan Ramón Loubriel Stadium',
+    'Juan Ramón Loubriel': 'Estadio Juan Ramon Loubriel',
     'Saputo': 'Saputo Stadium',
     'Marvin Lee': 'Marvin Lee Stadium',
     'Estadio Corona': 'Estadio TSM Corona',
@@ -33,7 +42,58 @@ sd.update(soccernet_errors)
     
 
 stadiums = {
+    'Edinboro University Stadium': 'Sox Harrison Stadium',
+    'Middlefield Cheese Stadium (Bedford)': 'Middleford Cheese Stadium',
+    'Florida Citrus Bowl': 'Citrus Bowl',
+    'Richard Montgomery HS': 'Richard Montgomery High School',
 
+    'Seahawk Stadium': 'CenturyLink Field',
+    'Sticky Wicket Stadium': 'Stanford Cricket Ground',
+
+    'PAETEC Park': 'Sahlen\'s Stadium',
+
+    'Legion Stadium': 'Buck Hardee Field at Legion Stadium',
+    'Silverbacks Park': 'Atlanta Silverbacks Park',
+    'Soccorro Stadium': 'Socorro Stadium',
+
+
+    'Paul Angelo Russo Stadium Field': 'Paul Angelo Russo Stadium',
+
+    'Estadio Juan Ramón Loubriel': 'Estadio Juan Ramon Loubriel',
+    'Juan Ramon Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
+    'Juan Ramón Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
+
+    'Carl Lewis Field': 'Carl Lewis Track & Field Stadium',
+    'Centre Claude-Robillard': 'Complexe Sportif Claude-Robillard',
+    'Crew Stadium': 'Columbus Crew Stadium',
+    'Stade Saputo': 'Saputo Stadium',
+    'JELD-WEN Field': 'Jeld-Wen Field',
+    'San Diego Stadium': 'Qualcomm Stadium',
+    'Portland Civic Stadium': 'Jeld-Wen Field',
+    'Civic Stadium': 'Jeld-Wen Field', # There's another Civic Stadium in Eugene, OR.
+    'BC Place Stadium': 'BC Place',
+
+
+    'Stade Gerland': 'Stade de Gerland',
+    'Oakland-Alameda County Coliseum': 'Oakland Coliseum',
+    'Estadio Sylvio Cator': 'Stade Sylvio Cator',
+    'Estadío Sylvio Cator': 'Stade Sylvio Cator',
+    'Estadío Silvio Cator': 'Stade Sylvio Cator',
+    
+    'Sullivan Stadium': 'Foxboro Stadium',
+    'Al Lang Stadium': 'Progress Energy Park',
+    'Al Lang Field': 'Progress Energy Park',
+
+
+
+    
+    'Estadío Mateo Flores': 'Estadio Mateo Flores',
+    'Estadio Ricardo Saprisa': 'Estadío Ricardo Saprissa', 
+    'Azteca Stadium': 'Estadio Azteca',
+    'Orange Bowl': 'Miami Orange Bowl',
+    'The Polo Grounds': 'Polo Grounds',
+    'Sparta Stadium': 'Sparta Field',
+    'Marks Stadium': 'Mark\'s Stadium',
     'Dal-Hi Stadium': 'P.C. Cobb Stadium',
     'Gardner Park': 'Burnett Field',
     'Fair Park Stadium': 'Cotton Bowl',
@@ -50,6 +110,9 @@ stadiums = {
     'PAETEC Park': 'Sahlen\'s Stadium',
     'Marina Auto Stadium': 'Sahlen\'s Stadium',
     'Marina Auto Stadium, Rochester, NY': 'Sahlen\'s Stadium',
+    'Nashville Coliseum': 'LP Field',
+    'Alltel Stadium': 'EverBank Field',
+    'Estadio Bella Vista': 'Estadio Bellavista',
 
 
     'Estadío Ricardo Saprissa': 'Estadio Ricardo Saprissa Aymá',
@@ -57,19 +120,16 @@ stadiums = {
     'Invesco Field': 'Sports Authority Field at Mile High',
     'INVESCO Field': 'Sports Authority Field at Mile High',
     'Nuevo Estadio Corona': 'Estadio TSM Corona',
-    'Al Lang Stadium': 'Progress Energy Park',
-    'Al Lang Field': 'Progress Energy Park',
     'Big Arch Stadium': 'Busch Memorial Stadium',
     'Rutgers Stadium': 'High Point Solutions Stadium',
-    'Civic Stadium': 'Jeld-Wen Field', # There's another Civic Stadium in Eugene, OR.
+
     'Bank One Ballpark': 'Chase Field',
     'Skelly Field': 'Skelly Field at H. A. Chapman Stadium',
     'Chapman Stadium': 'Skelly Field at H. A. Chapman Stadium',
-    'Juan Ramon Loubriel Stadium': 'Juan Ramón Loubriel Stadium',
-    'Estadio Juan Ramón Loubriel': 'Juan Ramón Loubriel Stadium',
     'NSC Stadium': 'National Sports Center Stadium',
     'Clark\'s Athletic Field': 'Clark\'s Field',
     'RFK Stadium': 'Robert F. Kennedy Memorial Stadium',
+    'RFK Memorial Stadium': 'Robert F. Kennedy Memorial Stadium',
     'Robert F. Kennedy Stadium': 'Robert F. Kennedy Memorial Stadium',
     'R.F.K. Stadium': 'Robert F. Kennedy Memorial Stadium',
     'Robert F. Kennedy Memorial': 'Robert F. Kennedy Memorial Stadium',
