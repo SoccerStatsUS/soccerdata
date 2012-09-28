@@ -1,25 +1,35 @@
 usl_pro = {
     'competition': 'USL Pro',
-    'team_data': [],
+    'team_data': ['Champion'],
+    
+    'Champion': [
+        (2011, 'Orlando City'),
+        (2012, 'Charleston Battery'),
+        ],
 
     'MVP': [
         (2011, 'Yordany Alvarez'),
+        (2012, 'Kevin Molino'),
         ],
        
     'Rookie of the Year': [
         (2011, 'Luke Mulholland'),
+        (2012, 'Jose Cuevas'),
         ],
 
     'Coach of the Year': [
         (2011, 'Adrian Heath'),
+        (2012, 'Adrian Heath'),
         ],
 
     'Defender of the Year': [
-        (2011, 'Rob Valentino')
+        (2011, 'Rob Valentino'),
+        (2012, 'Troy Roberts'),
         ],
 
     'Goalkeeper of the Year': [
         (2011, 'Miguel Gallardo'),
+        (2012, 'Kristian Nicht'),
         ],
 
     'All-League First Team': [
@@ -37,7 +47,23 @@ usl_pro = {
                 'Maxwell Griffin'
                 ]),
 
+        (2012, [
+                'Kristian Nicht',
+                'Josh Rife',
+                'Troy Roberts',
+                'Rob Valentino',
+                'William Yomby',
+                'J.C. Banks',
+                'Kevin Molino',
+                'Nicki Paterson',
+                'Dennis Chin',
+                'Jose Cuevas',
+                'Corey Hertzog',
+                ]),
+
         ],
+
+
 
     'All-League Second Team': [
         (2011, [
@@ -53,15 +79,74 @@ usl_pro = {
                 'George Davis IV',
                 'Jason Yeisley'
                 ]),
+
+        (2012, [
+                'Miguel Gallardo',
+                'Kieron Bernard',
+                'Erlys Garcia',
+                'Quentin Griffith',
+                'Jerome Mechack',
+                'Joel DeLass',
+                'Matt Kassel',
+                'Bryce Taylor',
+                'Bright Dike',
+                'Matt Luzunaris',
+                'Lucky Mkosana',
+                ]),
+
         ],
 
 
 }
 
+ussf2 = {
+    'competition': 'USSF Division 2 Professional League',
+
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (2010, 'Puerto Rico Islanders'),
+        ],
+
+    'MVP': [
+        (2010, 'Ryan Pore'),
+        ],
+
+    'Rookie of the Yaer': [
+        (2010, 'Maxwell Griffin'),
+        ],
+
+    'Defender of the Year': [
+        (2010, 'Greg Janicki'),
+        ],
+
+    'Goalkeeper of the Year': [
+        (2010, 'Jay Nolly'),
+        ],
+}
+
 
 usl_1 = {
     'competition': 'USL First Division',
-    'team_data': [],
+
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1997, 'Milwaukee Rampage'),
+        (1998, 'Rochester Rhinos'),
+        (1999, 'Minnesota Thunder'),
+        (2000, 'Rochester Rhinos'),
+        (2001, 'Rochester Rhnos'),
+        (2002, 'Milwaukee Rampage'),
+        (2003, 'Charleston Battery'),
+        (2004, 'Montreal Impact'),
+        (2005, 'Seattle Sounders'),
+        (2006, 'Vancouver Whitecaps'),
+        (2007, 'Seattle Sounders'),
+        (2008, 'Vancouver Whitecaps'),
+        (2009, 'Montreal Impact'),
+        ],
+
 
     'MVP': [
         (1997, 'Doug Miller'),
@@ -77,7 +162,7 @@ usl_1 = {
         (2007, 'Sebastien Le Toux'),
         (2008, 'Jonathan Steele'),
         (2009, 'Cristian Arrieta'),
-        (2010, 'Ryan Pore'),
+
          ],
 
     'Rookie of the Year': [
@@ -94,7 +179,7 @@ usl_1 = {
         (2007, 'Jay Needham'),
         (2008, 'Osvaldo Alonso'),
         (2009, 'Marcus Haber'),
-        (2010, 'Maxwell Griffin'),
+
         ],
 
     'Coach of the Year': [
@@ -126,7 +211,7 @@ usl_1 = {
         (2007, 'David Hayes'),
         (2008, 'Cristian Arrieta'),
         (2009, 'Cristian Arrieta'),
-        (2010, 'Greg Janicki'),
+
         ],
 
     'Goalkeeper of the Year': [
@@ -143,7 +228,7 @@ usl_1 = {
         (2007, 'Josh Wicks'),
         (2008, 'Bill Gaudette'),
         (2009, 'Steve Cronin'),
-        (2010, 'Jay Nolly'),
+
         ],
 
     'Executive of the Year': [
@@ -203,6 +288,26 @@ usl_1 = {
 usl_2 = {
     'competition': 'USL Second Division',
     'team_data': [],
+
+    'Champion': [
+        (1995, 'Long Island Rough Riders'),
+        (1996, 'Charleston Battery'),
+        (1997, 'Albuquerque Geckos'),
+        (1998, 'Chicago Stingers'),
+        (1999, 'Western Mass Pioneers'),
+        (2000, 'Charlotte Eagles'),
+        (2001, 'Utah Blitzz'),
+        (2002, 'Long Island Rough Riders'),
+        (2003, 'Wilmington Hammerheads'),
+        (2004, 'Utah Blitzz'),
+        (2005, 'Charlotte Eagles'),
+        (2006, 'Richmond Kickers'),
+        (2007, 'Harrisburg City Islanders'),
+        (2008, 'Cleveland City Stars'),
+        (2009, 'Richmond Kickers'),
+        (2010, 'Charleston Battery'),
+        ],
+
 
     'MVP': [
         (1997, 'Orett Prendergast'),
@@ -265,6 +370,7 @@ usl_2 = {
         (2008, 'Terry Boss'),
         (2009, 'Ronnie Pascale'),
         (2010, 'Hunter Gilstrap'),
+        (2012, 'Adam Grinwis'),
         ],
 
     'Coach of the Year': [
@@ -352,6 +458,9 @@ usl_2 = {
 
 usl_pdl = {
     'competition': 'USL Premier Developmental League',
+
+    'team_data': ['Champion'],
+
     'MVP': [
         (1997, 'Lester Felicia'),
         (1998, 'Rodrigo Costa'),
@@ -367,6 +476,7 @@ usl_pdl = {
         (2009, 'Aaron Wheeler'),
         (2010, 'Brent Richards'),
         (2011, 'Milton Blanco'),
+        (2012, 'Sullivan Silva'),
         
         ],
     'Rookie of the Year': [
@@ -378,6 +488,7 @@ usl_pdl = {
         (2004, 'Justin Moose'),
         (2010, 'Brent Richards'),
         (2011, 'Jake Keegan'),
+        (2012, 'Adam Grinwis'),
         ],
 
     'Coach of the Year': [
@@ -394,6 +505,7 @@ usl_pdl = {
         (2009, 'Casey Mann'),
         (2010, 'Jim Rilatt'),
         (2011, 'Gary Parsons'),
+        (2012, 'Gary Parsons'),
         ],
 
     'U-19 Player of the Year': [
@@ -403,6 +515,7 @@ usl_pdl = {
         (2007, 'Evan Newton'),
         (2008, 'Felix Garcia'),
         (2009, 'Christian Ibeagha'),
+        
         ],
 
     'Defender of the Year': [
@@ -419,6 +532,7 @@ usl_pdl = {
         (2009, 'Christian Ibeagha'),
         (2010, 'Joe Tait'),
         (2011, 'Stewart Givens'),
+        (2012, 'Kevin Cope'),
         ],
 
 }
