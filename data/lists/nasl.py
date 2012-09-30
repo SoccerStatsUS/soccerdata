@@ -1,4 +1,51 @@
 
+npsl = {
+    'competition': 'National Professional Soccer League',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1967, 'Oakland Clippers'),
+        ],
+
+    'MVP': [
+        (1967, 'Ruben Navarro'),
+        ],
+
+    'Rookie of the Year': [
+        (1967, 'Willy Roy'),
+        ],
+
+}
+
+
+usa = {
+
+    'competition': 'United Soccer Association',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1967, 'Los Angeles Wolves'),
+        ],
+
+
+    'All-Star Team': [
+        (1967, [
+                'Bobby Clark',
+                'Mario Tito',
+                'Jose Fidelis',
+                'Pat Stanton',
+                'Jim Baxter',
+                'Tommy McMillan',
+                'Ary Clemente',
+                'Paulo Borges',
+                'Peter Dobing',
+                'George Eastham',
+                'Roy Vernon',
+                ]),
+        ],
+}
+
+
 d = {
     'competition': 'North American Soccer League',
     'team_data': ['Champion'],

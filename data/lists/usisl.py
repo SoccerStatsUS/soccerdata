@@ -114,13 +114,14 @@ usisl_premier = {
 
 usisl_select = {
     'competition': 'USISL Select League',
-    'team_data': [],
+    'team_data': ['Champion'],
     
     'MVP': [(1996, 'Dan Stebbins')],
     'Rookie of the Year': [(1996, 'Luis Marillo')],
     'Coach of the Year': [(1996, 'Alan Dicks')],
     'Organization of the Year': [(1996, 'Minnesota Thunder')],
     'Defender of the Year': [(1996, 'Ezra Hendrickson')],
+    'Champion': [(1996, 'California Jaguars'),],
 }
 
 

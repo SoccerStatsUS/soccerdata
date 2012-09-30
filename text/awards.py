@@ -65,9 +65,25 @@ def process_nasl_awards():
     from soccerdata.data.lists.nasl import d
     return process_awards(d)
 
+def process_usa_awards():
+    from soccerdata.data.lists.nasl import usa
+    return process_awards(usa)
+
+def process_npsl_awards():
+    from soccerdata.data.lists.nasl import npsl
+    return process_awards(npsl)
+
 def process_ussf2_awards():
     from soccerdata.data.lists.usl import ussf2
     return process_awards(ussf2)
+
+def process_nasl2_awards():
+    from soccerdata.data.lists.usl import nasl2
+    return process_awards(nasl2)
+
+def process_nasl2p_awards():
+    from soccerdata.data.lists.usl import nasl2p
+    return process_awards(nasl2p)
 
 
 def process_mls_awards():
@@ -90,6 +106,10 @@ def process_usl0_awards():
 def process_apsl_awards():
     from soccerdata.data.lists.apsl import d
     return process_awards(d)
+
+def process_apslpc_awards():
+    from soccerdata.data.lists.apsl import apslpc
+    return process_awards(apslpc)
 
 
 def process_american_cup_awards():

@@ -1,5 +1,15 @@
 
 
+apslpc = {
+    'competition': 'APSL Professional Cup',
+    'team_data': 'Champion',
+
+    'Champion': [
+        (1992, 'Colorado Foxes'),
+        ],
+    }
+
+
 
 d = {
     'competition': 'American Professional Soccer League',
