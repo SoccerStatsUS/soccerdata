@@ -23,16 +23,24 @@ def load():
             except:
                 import pdb; pdb.set_trace()
 
-        return {
+        d = {
                 'name': name,
                 'author': author,
                 'base_url': url,
                 }
 
+        if 'www.' in url:
+            url2 = www.replace('www.', '')
+            d2 = d.copy()
+            d2['base_url'] = url2
+            return [d, d2]
+        else:
+            return [d]
+
     l = []
 
     for line in open(p):
-        l.append(process_line(line))
+        l.extend(process_line(line))
 
     return [e for e in l if e]
 

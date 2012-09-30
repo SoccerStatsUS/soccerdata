@@ -125,6 +125,58 @@ ussf2 = {
         ],
 }
 
+nasl2 = {
+    'competition': 'North American Soccer League (2011-)',
+
+    'team_data': ['Champion', 'Fair Play Award',],
+
+    'Champion': [
+        (2011, 'Carolina Railhawks'),
+        (2012, 'San Antonio Scorpions'),
+        ],
+
+    'Fair Play Award': [
+        (2011, 'FC Tampa Bay'),
+        (2012, 'Tampa Bay Rowdies'),
+        ],
+
+    'MVP': [
+        (2011, 'Etienne Barbara'),
+        ],
+
+    'Goalkeeper of the Year': [
+        (2011, 'Evan Bush'),
+        (2011, 'Daryl Sattler'),
+        ],
+
+    'Best XI': [
+        (2011, [
+                'Brad Knighton',
+                'Hassoun Camara',
+                'Lance Laing',
+                'Toni Stahl',
+                'Kupono Low',
+                'Pascal Millien',
+                'Matt Watson',
+                'Shaun Saiko',
+                'David Foley',
+                'Mike Ambersley',
+                'Etienne Barbara',
+                ]),
+        ],
+}
+
+
+nasl2p = {
+    'competition': 'North American Soccer League (2011-) Playoffs',
+
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (2011, 'NSC Minnesota Stars'),
+        ],
+}
+
 
 usl_1 = {
     'competition': 'USL First Division',
