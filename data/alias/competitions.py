@@ -1,26 +1,29 @@
 aliases = {}
 
 full_alias = {
-    'USISL Premier League': 'USL Premier Developmental League',
-    'USISL Select League': 'USL First Division',
-    'USISL Professional League': 'USL Second Division',
-    'USL Pro': 'USL Second Division',
-    'A-League': 'USL First Division',
     'United Soccer League': 'United Soccer League (1984-1985)',
 
     'Western Soccer Alliance': 'Western Soccer League',
     'Western Soccer Alliance Playoffs': 'Western Soccer League Playoffs',
 
-    'American Indoor Soccer Association': 'National Professional Soccer League (indoor)',
-
-
-    'USL Pro': 'USL Second Division',
-    'International Friendly': 'Friendly International',
-
-    'Recopa CONCACAF': 'CONCACAF Cup Winners Cup',
     'Southwest Indoor Soccer League': 'United States Interregional Soccer League (indoor)',
     'Southwest Independent Soccer League (indoor)': 'United States Interregional Soccer League (indoor)',
     'Southwest Independent Soccer League': 'United States Interregional Soccer League',
+
+    'USISL Premier League': 'USL Premier Developmental League',
+
+    'USISL Professional League': 'USL Second Division',
+    'USL Pro': 'USL Second Division',
+
+    'A-League': 'USL First Division',
+
+    'American Indoor Soccer Association': 'National Professional Soccer League (indoor)',
+
+    'International Friendly': 'Friendly International',
+
+    'Recopa CONCACAF': 'CONCACAF Cup Winners Cup',
+
+
     'Premier Soccer Alliance': 'World Indoor Soccer League',
 }
 

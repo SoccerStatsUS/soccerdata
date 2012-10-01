@@ -15,6 +15,15 @@ def get_place(s):
 
 
 places = {
+    'National Stadium (Olympic Stadium), Tokyo': 'National Olympic Stadium, Tokyo',
+    'Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro': 'Estádio do Maracanã',
+    'Pacaembu - Estádio Municipal Paulo Machado de Carv, Sao Paulo': 'Estádio do Pacaembu',
+    'Morumbi - Estádio Cícero Pompeu de Toledo, Sao Paulo': 'Estádio do Morumbi',
+    'Independencia, Belo Horizonte': 'Estádio Independência, Belo Horizonte',
+    'Velodrome, Marseilles': 'Stade Vélodrome, Marseilles',
+    'Olimpico, Rome': 'Stadio Olimpico, Rome, Italy',
+    'Delle Alpi, Turin': 'Stadio delle Alpi',
+    'Hillsborough, Sheffield': 'Hillsborough Stadium, Sheffield',
 
     'Trinidad': 'Trinidad and Tobago',
     'Cal State Fullerton': 'Titan Stadium, Fullerton, CA',

@@ -10,6 +10,8 @@ l = [
     {
         'name': 'Merlo Field',
         'location': 'Portland, OR',
+        'opened': 1990,
+        'capacity': 4892,
         },
 
 

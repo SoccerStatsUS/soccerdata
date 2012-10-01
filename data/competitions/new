@@ -10,39 +10,40 @@ CONCACAF Giants Cup; CGC; soccer; domestic; Cup; 2; Confederation; CONCACAF
 
 American League of Professional Football; ALPF; soccer; domestic; League; 1; Country; United States
 American Soccer League (1921-1933); ASL1; soccer; domestic; League; 1; Country; United Staets
+United Soccer Association; USA; soccer; domestic; League; 1; Country; United States
 North American Soccer League; NASL; soccer; domestic; League; 1; Country; United States
 Major League Soccer; MLS; soccer; domestic; League; 1; Country; United States
 
-
 National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
 Southern New England Soccer League; SNESL; soccer; domestic; League; 2; Country; United States
+
+Eastern Soccer League (1928-1929); ESL; soccer; domestic; League; 2; Country; United States
+
 American Soccer League (1934-1983); ASL2; soccer; domestic; League; 2; Country; United States
 American Soccer League (1983-1984); ASL3; soccer; domestic; League; 2; Country; United States
-United Soccer Association; USA; soccer; domestic; League; 2; Country; United States
 National Professional Soccer League; NPSL; soccer; domestic; League; 2; Country; United States
 United Soccer League (1984-1985); USL0; soccer; domestic; League; 2; Country; United States
-United States Interregional Soccer League; USISL; soccer; domestic; League; 2; Country; United States
-Western Soccer League; WSL; soccer; domestic; League; 2; Country; United States
 American Professional Soccer League; APSL; soccer; domestic; League; 2; Country; United States
 USL First Division; USL1; soccer; domestic; League; 2; Country; United States
 USSF Division 2 Professional League; USSFD2; soccer; domestic; League; 2; Country; United States
 North American Soccer League (2011-); NASL2; soccer; domestic; League; 2; Country; United States
-Eastern Soccer League (1928-1929); ESL; soccer; domestic; League; 2; Country; United States
+
 
 Canadian Soccer League; CSL; soccer; domestic; League; 2; Country; Canada
 
+Western Soccer League; WSL; soccer; domestic; League; 3; Country; United States
+USISL Select League; USISLs; soccer; domestic; League; 3; Country; United States
 USL Second Division; USL2; soccer; domestic; League; 3; Country; United States
 
+United States Interregional Soccer League; USISL; soccer; domestic; League; 4; Country; United States
 USL Premier Developmental League; PDL; soccer; domestic; League; 4; Country; United States
+
 
 Cosmopolitan Soccer League; CoSL; soccer; domestic; League; ; City; New York, NY
 St. Louis Soccer League; SLSL; soccer; domestic; League; ; City; St. Louis, MO
 Association Foot Ball League; AFBL; soccer; domestic; League; ; City; St. Louis, MO
 Bristol County Tournament; BCT; soccer; domestic; League; ; County; Bristol County, MA
 Lone Star Soccer Alliance; LSSA; soccer; domestic; League; ; State; Texas
-
-
-
 
 * Domestic Cups
 
@@ -55,16 +56,21 @@ Connaught Cup; CC; soccer; domestic; Cup; 1; Country; Canada
 FA Trophy; FAT; soccer; domestic; Cup; 1; Country; Canada
 Canadian Championship; CC; soccer; domestic; Cup; 1; Country; Canada
 
+American Soccer League (1921-1933) Playoffs; NASLp; soccer; domestic; Cup; 1; League; North American Soccer League
+North American Soccer League Playoffs; NASLp; soccer; domestic; Cup; 1; League; North American Soccer League
 MLS Cup Playoffs; MLSp; soccer; domestic; Cup; 1; League; Major League Soccer
 Lewis Cup; LC; soccer; domestic; Cup; 1; Country; United States
 US Professional Cup; USPC; soccer; domestic; Cup; 1; Country; United States
-USSF Division 2 Professional League Playoffs; USSFD2p; soccer; domestic; Cup; 1; League; USSF Division 2 Professional League
-North American Soccer League Playoffs; NASLp; soccer; domestic; Cup; 1; League; North American Soccer League
 
-Western Soccer League Playoffs; WSLp; soccer; domestic; Cup; 2; League; American Professional Soccer League
+
+
+USSF Division 2 Professional League Playoffs; USSFD2p; soccer; domestic; Cup; 2; League; USSF Division 2 Professional League
+North American Soccer League (2011-) Playoffs; USSFD2p; soccer; domestic; Cup; 2; League; North American Soccer League (2011-)
+
 American Professional Soccer League Playoffs; APSLp; soccer; domestic; Cup; 2; League; American Professional Soccer League
 APSL Professional Cup; APSLPC; soccer; domestic; Cup; 2; League; American Professional Soccer League
 
+Western Soccer League Playoffs; WSLp; soccer; domestic; Cup; 3; League; American Professional Soccer League
 
 * Non-league
 
@@ -87,8 +93,11 @@ World Indoor Soccer League; WISL; indoor; domestic; League; 2; Country; United S
 
 Olympic Games; OG; soccer; international; Cup; 1; World; Earth
 Olympic Qualifying; OGq; soccer; international; Cup; 1; World; Earth
-World Cup; WC; soccer; international; Cup; 1; World; Earth
+FIFA World Cup; WC; soccer; international; Cup; 1; World; Earth
 World Cup Qualifying; WCq; soccer; international; Cup; 1; World; Earth
+FIFA U-20 World Cup; U20WC; soccer; international; Cup; 1; World; Earth
+FIFA U-17 World Cup; U17WC; soccer; international; Cup; 1; World; Earth
+FIFA Club World Cup; CWC; soccer; international; Cup; 1; World; Earth
 
 
 Pan American Games; PAG; soccer; international; Cup; 1; Confederation; Americas

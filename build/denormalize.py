@@ -162,7 +162,7 @@ def denormalize():
             if home_team and not e.get('stadium'):
                 stadium = stadium_getter(home_team, e['date'])
 
-                # How would this happen?
+                # Because stadium_getter will return home_team by default.
                 if stadium and stadium != home_team:
                     e['stadium'] = stadium
 

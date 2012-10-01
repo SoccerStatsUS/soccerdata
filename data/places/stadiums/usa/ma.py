@@ -25,12 +25,22 @@ l = [
         'architect': 'Louis J. Johnson',
         'capacity': 30323,
         },
-    
+
     
     {
         'name': 'Athletic Field',
         'location': 'Fall River, MA',
         },
+
+
+    
+    # Athletic field for New Bedford HS
+    {
+        'name': 'Sargent Field',
+        
+        'location': 'New Bedford, MA',
+        },
+
     {
         'name': 'Lower Practice Field at Gillette Stadium',
         'location': 'Foxborough, MA',
@@ -103,6 +113,14 @@ l = [
     {
         'name': 'Alan Carson Field',
         'location': 'South Yarmouth, MA',
+        },
+
+    {
+        'name': 'Alumni Stadium',
+        'address': '140 Commonwealth Avenue',
+        'location': 'Chestnut Hill, MA',
+        'opened': datetime.datetime(1957, 9, 21),
+        'capacity': 44500,
         },
     
     {

@@ -121,9 +121,6 @@ def transform_names_for_competition(coll_group, competition, string_format):
             e['team1'] = string_format % e['team1']
             e['team2'] = string_format % e['team2']
 
-            print e
-
-
         games.append(e)
 
     coll.drop()

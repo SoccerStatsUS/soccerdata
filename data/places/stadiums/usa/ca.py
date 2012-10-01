@@ -18,6 +18,8 @@ l = [
     {
         'name': 'Torero Stadium',
         'location': 'San Diego, CA',
+        'opened': 1961,
+        'capacity': 6000,
         },
     {
         'name': 'Nutrilite Training Facility',
@@ -26,7 +28,18 @@ l = [
 
     {
         'name': 'Edison International Field',
+        'address': '2000 Gene Autry Way',
         'location': 'Anaheim, CA',
+        'opened': datetime.datetime(1966, 8, 31),
+        'cost': 24000000,
+        'capacity': 45957,
+        },
+
+    {
+        'name': 'Balboa Stadium',
+        'opened': 1914,
+        'capacity': 3000,
+        'location': 'San Diego, CA',
         },
 
     {
@@ -55,6 +68,15 @@ l = [
         'opened': 1925,
         'closed': 1965,
         },        
+
+    {
+        'name': 'Weingart Stadium',
+        'location': 'Monterey Park, CA',
+        'opened': 1951,
+        'cost': 3100000,
+        'capacity': 20355
+        },        
+
     
     {
         'name': 'Memorial Coliseum',
@@ -240,6 +262,7 @@ l = [
         'address': '18400 Avalon Boulevard',
         'location': 'Carson, CA',
         'capacity': 27000,
+        'cost': 150000000,
         'architect': 'Rossetti Architects',
         'opened': datetime.datetime(2003, 6, 1),
         'length': 109.7,

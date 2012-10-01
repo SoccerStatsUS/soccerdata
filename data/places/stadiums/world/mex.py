@@ -11,20 +11,44 @@ l = [
         'location': 'Mexico City, Mexico',
         },
 
-    {
-        'name': 'Estadío Jalisco',
-        'location': 'Guadalajara, Mexico',
-        },
-
 
     {
         'name': 'Estadío Parque Necaxa',
         'location': 'Mexico City, Mexico',
         },
 
+
     {
-        'name': 'Estadío Parque Espana',
+        'name': 'Estadio Cuauhtémoc',
+        'location': 'Puebla, Mexico',
+        'opened': datetime.datetime(1968, 10, 8),
+        'capacity': 49200,
+        },
+
+    {
+        'name': 'Estadio Corregidora',
+        'location': 'Queretaro, Mexico',
+        'opened': datetime.datetime(1985, 2, 5),
+        'capacity': 45575,
+        },
+
+
+    {
+        'name': 'Estadío de los Deportes',
         'location': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Estadio Neza 86',
+        'location': 'Ciudad Nezahualcóyotl, Mexico State',
+        'opened': 1981,
+        'capacity': 28500,
+        },
+
+
+    {
+        'name': 'Parque Espana',
+        'location': 'Mexico City',
         },
 
     
@@ -74,10 +98,6 @@ l = [
         },
 
 
-                {
-        'name': 'Parque Espana',
-        'location': 'Mexico City',
-        },
                 {
         'name': 'Necaxa Stadium',
         'location': 'Mexico City',

@@ -54,6 +54,8 @@ def merge_standings():
 
 def merge_awards():
     standard_merge('awards')
+
+    return
     soccer_db.awards.drop()
     insert_rows(soccer_db.awards, soccer_db.asl_awards.find())
     insert_rows(soccer_db.awards, soccer_db.nasl_awards.find())

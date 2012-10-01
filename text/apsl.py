@@ -280,7 +280,7 @@ class TextProcessor(object):
                 'team1_score': home_score,
                 'team2_score': away_score,
                 'home_team': home_team,
-                'date': d
+                'date': d,
                 })
 
 
@@ -304,7 +304,7 @@ def process_apsl_stats():
 
 
 def process_apsl_scores():
-    p = os.path.join(DIR, "scores", "apsl.txt")
+    p = os.path.join(DIR, 'games/domestic/country/usa/leagues/apsl.txt')
     f = open(p)
     t = TextProcessor()
     for line in f:

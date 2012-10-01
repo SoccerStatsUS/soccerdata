@@ -32,12 +32,18 @@ l = [
     
     {
         'name': 'Peoria Sports Complex',
+        'address': '16101 N. 83rd Avenue',
         'location': 'Peoria, AZ',
+        'opened': 1994,
+        'capacity': 12822,
         },
 
     {
         'name': 'Sun Devil Stadium',
         'location': 'Tempe, AZ',
+        'opened': datetime.datetime(1958, 10, 4),
+        'cost': 1000000,
+        'capacity': 71706,
         },
     
 ]

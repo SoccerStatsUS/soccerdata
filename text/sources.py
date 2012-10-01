@@ -30,7 +30,7 @@ def load():
                 }
 
         if 'www.' in url:
-            url2 = www.replace('www.', '')
+            url2 = url.replace('www.', '')
             d2 = d.copy()
             d2['base_url'] = url2
             return [d, d2]

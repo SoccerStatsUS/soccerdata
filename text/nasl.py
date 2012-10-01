@@ -8,9 +8,60 @@ import os
 from soccerdata.cache import data_cache
 from soccerdata.mongo import soccer_db
 
-DIR = '/home/chris/www/soccerdata/data/stats'
-stats_filename = os.path.join(DIR, 'nasl.txt')
-games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/nasl.csv'
+
+
+
+# This is for the New NASL!!!
+# This should be split off into a separate file!!!
+def process_stats():
+    """
+    Process modern NASL stats taken from nasl.com
+    """
+
+    NASL_STATS_DIR = '/home/chris/www/soccerdata/data/stats/nasl2'
+
+    lst = []
+    for fn in ('2011', '2012'):
+        p = os.path.join(NASL_STATS_DIR, fn)
+        f = open(p)
+        for line in f:
+
+            fields = line.split("  ") # 2 spaces
+            fields = [e.strip() for e in fields if e.strip()]
+
+            if fn == '2011':
+                name, team, goals, assists, shots, yc, rc, minutes = fields
+                sog = None
+            else:
+                try:
+                    name, team, goals, assists, shots, sog, yc, rc, minutes = fields
+                except:
+                    print line
+                    continue
+
+                sog = int(sog)
+
+            name = name.split(")")[1].strip()
+            lst.append({
+                    'competition': "North American Soccer League (2011-)",
+                    'season': fn,
+                    'name': name,
+                    'team': team,
+                    'position': '',
+                    'goals': int(goals),
+                    'assists': int(assists),
+                    'shots': int(shots),
+                    'shots_on_goal': sog,
+                    'yellow_cards': int(yc),
+                    'red_cards': int(rc),
+                    'minutes': int(minutes),
+                    })
+                
+    return lst
+
+
+nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/nasl.csv'
+nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/npsl0.csv'
 
 
 foreign_map = {
@@ -97,6 +148,14 @@ simple_map.update(ambig_map)
 
 
 season_map = {
+    (1967, 'Chicago'): 'Chicago Spurs',
+    (1967, 'Los Angeles'): 'Los Angeles Toros',
+    (1967, 'New York'): 'New York Generals',
+    (1967, 'Oakland'): 'Oakland Clippers',
+    (1967, 'Philadelphia'): 'Philadelphia Spartans',
+    (1967, 'Pittsburgh'): 'Pittsburgh Phantoms',
+    (1967, 'Toronto'): 'Toronto Falcons',
+    (1968, 'Chicago'): 'Chicago Mustangs',
     (1968, 'Boston'): 'Boston Beacons',
     (1968, 'Detroit'): 'Detroit Cougars',
     (1968, 'Houston'): 'Houston Stars',
@@ -104,25 +163,31 @@ season_map = {
     (1968, 'New York'): 'New York Generals',
     (1968, 'Oakland'): 'Oakland Clippers',
     (1968, 'San Diego'): 'San Diego Toros',
-    (1976, 'San Diego'): 'San Diego Jaws',
+    (1968, 'Atlanta'): 'Atlanta Chiefs',
     (1968, 'Toronto'): 'Toronto Falcons',
     (1968, 'Vancouver'): 'Vancouver Royals',
     (1968, 'Washington'): 'Washington Whips',
-    (1978, 'Oakland'): 'Oakland Stompers',
-    (1981, 'Washington'): 'Washington Diplomats',
+    (1969, 'Atlanta'): 'Atlanta Chiefs',
+    (1970, 'Atlanta'): 'Atlanta Chiefs',
+    (1970, 'Washington'): 'Washington Darts',
+    (1971, 'Washington'): 'Washington Darts',
+    (1971, 'Atlanta'): 'Atlanta Chiefs',
+    (1972, 'Miami'): 'Miami Gatos',
+    (1972, 'Atlanta'): 'Atlanta Chiefs',
+    (1974, 'Baltimore'): 'Baltimore Comets',
+    (1975, 'Baltimore'): 'Baltimore Comets',
+    (1976, 'San Diego'): 'San Diego Jaws',
+
     (1971, 'Montreal'): 'Montreal Olympique',
     (1972, 'Montreal'): 'Montreal Olympique',
     (1973, 'Montreal'): 'Montreal Olympique',
+    (1978, 'Oakland'): 'Oakland Stompers',
     (1978, 'Philadelphia'): 'Philadelphia Fury',
     (1979, 'Philadelphia'): 'Philadelphia Fury',
     (1980, 'Philadelphia'): 'Philadelphia Fury',
+    (1981, 'Washington'): 'Washington Diplomats',
     (1984, 'Minnesota'): 'Minnesota Strikers',
-    (1972, 'Miami'): 'Miami Gatos',
-    (1968, 'Atlanta'): 'Atlanta Chiefs',
-    (1969, 'Atlanta'): 'Atlanta Chiefs',
-    (1970, 'Atlanta'): 'Atlanta Chiefs',
-    (1971, 'Atlanta'): 'Atlanta Chiefs',
-    (1972, 'Atlanta'): 'Atlanta Chiefs',
+
      
     }
 
@@ -163,40 +228,17 @@ def get_full_name(name, season):
     return name
     
 
-# This is for the New NASL!!!
-# This should be split off into a separate file!!!
-def process_stats():
-    """
-    Process stats for the new NASL.
-    """
-    f = open(stats_filename)
-    lst = []
-    for line in f:
 
-        fields = line.split("  ") # 2 spaces
-        fields = [e.strip() for e in fields if e.strip()]
-        name, team, goals, assists, shots, yc, rc, minutes = fields
-        name = name.split(")")[1].strip()
-        lst.append({
-                'competition': "North American Soccer League (2011-)",
-                'season': '2011',
-                'name': name,
-                'team': team,
-                'position': '',
-                'goals': int(goals),
-                'assists': int(assists),
-                'shots': int(shots),
-                'yellow_cards': int(yc),
-                'red_cards': int(rc),
-                'minutes': int(minutes),
-                })
-                
-    return lst
+def process_nasl_games():
+    return process_games(nasl_games_filename)
+
+def process_npsl_games():
+    return process_games(nasl0_games_filename)
 
 
-
-def process_games():
-    f = open(games_filename)
+def process_games(fn):
+    f = open(fn)
+    
     l = []
     gp = GameProcessor()
     for line in f:

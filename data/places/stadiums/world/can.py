@@ -13,12 +13,16 @@ l = [
         'location': 'Toronto, ON',
         },        
 
+        {
+        'name': 'Clarke Stadium',
+        'location': 'Edmonton, AL',
+        'opened': 1938,
+        'capacity': 1200,
+        'address': '11000 Stadium Road',
+        'cost': 109000,
+        'denomination': 'Canadian dollars',
 
-
-
-
-    
-
+        },        
 
   {
         'name': 'Percival Molson Memorial Stadium',
@@ -29,11 +33,6 @@ l = [
         'capacity': 25012,
         'architect': 'Percy Erskine Nobbs',
         },  
-
-
-
-
-
   {
         'name': 'McMahon Stadium',
         'address': '1817 Crowchild Trail NW',
@@ -44,7 +43,6 @@ l = [
         'capacity': 35650,
         'architect': 'Rule Wynn and Rule',
         },  
-
 
     {
         'name': 'Autostade',
@@ -62,9 +60,6 @@ l = [
         'architect': 'Roger Taillibert',
         'capacity': 66308,
         },
-
-
-
 
 
             {
@@ -95,19 +90,14 @@ l = [
             },
 
 
-    
-
         {
         'name': 'Varsity Stadium',
         'address': '299 Bloor Street West',
         'location': 'Toronto',
         'opened': 1898,
-        'cost': 617000000,
+        'cost': 61700000,
+        'capacity': 5000,
         },        
-
-
-
-
 
 
     {
@@ -205,12 +195,16 @@ l = [
 
                                 {
         'name': 'Diamond Park',
-        'location': 'Edmonton',
+        'location': 'Edmonton, AL',
+        'opened': datetime.datetime(1907, 5, 29),
+        'cost': 6000,
+        'capacity': 1500,
         },
 
                                 {
         'name': 'Recreation Park',
-        'location': 'Vancouver',
+        'location': 'Vancouver, BC',
+        
         },
 
                                 {
@@ -228,34 +222,39 @@ l = [
         'location': 'Calgary',
         },
 
-        {
-        'name': 'Con Jones Park',
-        'location': 'Vancouver',
+
+    {
+        'name': 'Alexandra Park',
+        'location': 'Montreal, Quebec',
+
         },
 
         {
-        'name': 'Alexandria Park',
-        'location': 'Montreal',
+        'name': 'Con Jones Park',
+        'location': 'Vancouver, BC',
         },
 
                 {
         'name': 'Scarborough Beach Stadium',
-        'location': 'Toronto',
+        'location': 'Toronto, ON',
         },
 
                 {
         'name': 'Renfrew Park',
-        'location': 'Edmonton',
+        'location': 'Edmonton, AL',
+        'opened': 1935,
+        'closed': 1995,
+        'capacity': 2500,
         },
 
                 {
         'name': 'Royal Athletic Park',
-        'location': 'Vancouver',
+        'location': 'Vancouver, BC',
         },
 
                 {
         'name': 'Ossington Grounds',
-        'location': 'Toronto',
+        'location': 'Toronto, ON',
         },
 
                 {

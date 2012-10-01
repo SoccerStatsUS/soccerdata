@@ -27,6 +27,13 @@ l = [
         'name': 'Swope Park',
         'location': 'Kansas City, MO',
         },
+    {
+        'name': 'Francis Field',
+        'location': 'St. Louis, MO',
+        'opened': 1904,
+        'capacity': 4000,
+
+        },
 
     {
         'name': 'North Grand Boulevard Park',

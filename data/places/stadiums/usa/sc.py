@@ -9,6 +9,7 @@ l = [
         'name': 'Blackbaud Stadium',
         'address': '1990 Daniel Island Drive',
         'location': 'Charleston, SC',
+        'cost': 5700000,
         'capacity': 5100,
         'opened': 1999,
         'notes': 'first privately funded soccer specific stadium in the United States',

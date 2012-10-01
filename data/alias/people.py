@@ -13,6 +13,8 @@ basic = {
 
     'Unknown': 'unknown',
     'Unassisted': 'unassisted',
+    
+    'Robert Gregg': 'Bob Gregg',
 
     'Gershon Koffe': 'Gershon Koffie',
     'Kenneth Bertz': 'Kenney Bertz',

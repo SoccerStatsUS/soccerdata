@@ -19,6 +19,8 @@ l = [
         'location': 'Seattle, WA',
         'opened': datetime.datetime(1976, 3, 27),
         'architect': 'Naramore, Skilling & Praeger',
+        'capacity': 66000,
+        'cost': 67000000,
         },
     {
         'name': 'Safeco Field',

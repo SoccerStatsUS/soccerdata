@@ -16,13 +16,6 @@ l = [
         'capacity': 82566,
         },
     
-    
-    
-    
-    
-    
-    
-    
     {
         'name': 'High Point Solutions Stadium',
         'address': '1 Scarlet Knight Way',
@@ -60,8 +53,6 @@ l = [
         'location': 'Newark, NJ',
         },
 
-
-
     {
         'name': 'Winslow Township High School',
         'location': 'Winslow Township, NJ',
@@ -69,9 +60,10 @@ l = [
     {
         'name': 'Yurcak Field',
         'location': 'Piscataway, NJ',
+        'opened': 1994,
+        'cost': 28000000,
+        'capacity': 5000,
         },
-
-
 
 
     {
@@ -79,27 +71,20 @@ l = [
         'location': 'Princeton, NJ',
         },
 
-
-    
-
-
     {
         'name': 'Hetzel\'s Grove',
         'location': 'Trenton, NJ',
         },
-    
     
     {
         'name': 'Domestic Baseball Grounds',
         'location': 'Newark, NJ',
         },
 
-
     {
         'name': 'Caledonian Park',
         'location': 'Newark, NJ',
         },
-    
     
     {
         'name': 'Emmet Street Grounds',

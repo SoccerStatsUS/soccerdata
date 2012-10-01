@@ -5,48 +5,6 @@ import datetime
 
 l = [
 
-    {
-        'name': '131st Street Grounds',
-        'location': 'New York, NY',
-        },
-
-    {
-        'name': 'Marquette Oval',
-        'location': 'Brooklyn, NY',
-        },
-
-    {
-        'name': 'Dyckman Oval',
-        'location': 'New York, NY',
-        },
-
-
-    {
-        'name': 'Steinway Oval',
-        'location': 'Astoria, NY',
-        },
-    {
-        'name': 'Queen\'s Park',
-        'location': 'Astoria, NY',
-        },
-
-
-
-    {
-        'name': 'Visitation Park',
-        'location': 'Brooklyn, NY',
-        },
-
-
-    {
-        'name': 'Lakeside Park',
-        'location': 'Syracuse, NY',
-        },
-
-    {
-        'name': 'Manhattan Athletic Field',
-        'location': 'New York, NY',
-        },
 
 
 
@@ -58,7 +16,6 @@ l = [
         'opened': datetime.datetime(1890, 8, 19),
         'closed': 1963,
         },        
-    
     
     
     {
@@ -123,6 +80,62 @@ l = [
         'architect': 'Robert Moses',
         'capacity': 22000,
         },
+
+
+    {
+        'name': 'Holleder Memorial Stadium',
+        'location': 'Rochester, NY',
+        'address': 'Ridgeway Avenue and Mount Read Rd.',
+        'opened': 1949,
+        'closed': 1985,
+        'capacity': 20000,
+        },
+
+
+
+    {
+        'name': '131st Street Grounds',
+        'location': 'New York, NY',
+        },
+
+    {
+        'name': 'Marquette Oval',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Dyckman Oval',
+        'location': 'New York, NY',
+        },
+
+
+    {
+        'name': 'Steinway Oval',
+        'location': 'Astoria, NY',
+        },
+    {
+        'name': 'Queen\'s Park',
+        'location': 'Astoria, NY',
+        },
+
+
+
+    {
+        'name': 'Visitation Park',
+        'location': 'Brooklyn, NY',
+        },
+
+
+    {
+        'name': 'Lakeside Park',
+        'location': 'Syracuse, NY',
+        },
+
+    {
+        'name': 'Manhattan Athletic Field',
+        'location': 'New York, NY',
+        },
+
     
     {
         'name': 'Dexter Park',
@@ -163,11 +176,6 @@ l = [
         'location': 'Brooklyn, NY',
         },
     
-    {
-        'name': 'Holleder Memorial Stadium',
-        'location': 'Rochester, NY',
-        'capacity': 20000,
-        },
     
     
     {
@@ -290,6 +298,9 @@ l = [
     
     {
         'name': 'Hawthorne Field',
+        'address': 'Hawthorne Street and Brooklyn Avenue',
+        'opened': 1908,
+        'closed': 1952,
         'location': 'Brooklyn, NY',
         },
     

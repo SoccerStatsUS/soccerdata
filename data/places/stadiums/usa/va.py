@@ -29,6 +29,10 @@ l = [
         'name': 'University of Richmond Stadium',
         'location': 'Richmond, VA',
         },
+    {
+        'name': 'W.T. Woodson High School',
+        'location': 'Fairfax, VA',
+        },
 
 
     {

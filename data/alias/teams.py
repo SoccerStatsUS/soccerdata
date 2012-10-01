@@ -6,6 +6,8 @@ from soccerdata.mongo import soccer_db
 teams = {}
 
 leach = {
+    'Al Ahly': 'Al Ahly SC',
+    'Al Ahly Sporting Club': 'Al Ahly SC',
 
     'West Brom Albion': 'West Bromwich Albion',
     'West Ham': 'West Ham United',
@@ -44,7 +46,7 @@ leach = {
     'Platense': 'Platense F.C.',
 
     'Miami FC': 'Fort Lauderdale Strikers',
-    'San Francisco Bay Blackhawks': 'San Jose Hawks',
+    'San Jose Hawks': 'San Francisco Bay Blackhawks',
     'J & J Dobson AA': 'J & J Dobson FC',
     'Jeanette FC (Pittsburgh)': 'Jeanette FC',
     'Johnston City AFC (Illinois)': 'Johnston City AFC',
@@ -860,7 +862,9 @@ oteams = {
 
     'Slavia F.C.': 'Slavia FC',
 
-    'Bruell F.C.': 'Bruell Insurance',
+    'Bruell F.C.': 'Cleveland Bruell Insurance',
+    'Bruell Insurance': 'Cleveland Bruell Insurance',
+    'Cleveland Bruells': 'Cleveland Bruell Insurance',
     
     'Galicia F.C.': 'Galicia FC',
     'D.S.C. Brooklyn': 'DSC Brooklyn',

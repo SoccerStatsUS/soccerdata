@@ -15,6 +15,8 @@ l = [
     {
         'name': 'Dillon Stadium',
         'location': 'Hartford, CT',
+        
+        'capacity': 20000,
         },
 
 

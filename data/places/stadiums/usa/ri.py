@@ -65,10 +65,6 @@ l = [
         'location': 'Providence, RI',
         },
 
-
-
-
-
     {
         'name': 'Prospect Hill Park',
         'location': 'Lonsdale, RI',

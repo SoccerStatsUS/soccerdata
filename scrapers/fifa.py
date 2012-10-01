@@ -40,6 +40,27 @@ world_cup_mapping = {
     }
 
 
+team_abbrevs = {
+    'MAN': 'Manchester United',
+    'LIV': 'Liverpool FC',
+    'SYD': 'Sydney FC',
+    'AHL': 'Al Ahly',
+    'ITT': 'Al Ittihad',
+    'CAS': 'Raja Casablanca',
+    'SRS': 'Deportivo Saprissa',
+    'BAR': 'FC Barcelona',
+    'SCI': 'Sport Club Internacional',
+    'COR': 'Corinthians',
+    'RCS': 'Czechoslovakia',
+    'NEC': 'Necaxa',
+    'SPL': 'Sao Paulo FC',
+    'JEO': 'Jeonbuk Hyundai',
+    'INT': 'Sport Club Internacional',
+    'VDG': 'Vasco da Gama',
+    'MEL': 'South Melbourne',
+    }
+
+
 
 
 
@@ -316,6 +337,8 @@ def scrape_fifa_goals(url, competition):
 
     game_data = scrape_fifa_game(url, competition)
 
+
+
     l = []
 
     for s in goals:
@@ -324,6 +347,8 @@ def scrape_fifa_goals(url, competition):
         except:
             import pdb; pdb.set_trace()
         team = team.strip()
+        team = team_abbrevs.get(team, team)
+
         l.append({
                 'team': team,
                 'competition': competition,

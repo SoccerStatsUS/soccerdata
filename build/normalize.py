@@ -117,7 +117,14 @@ def normalize():
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
+
+
+
+
     stadium_getter = make_stadium_getter()
+
+
+
 
     coll = soccer_db["stadiums"]
     l = []
@@ -295,7 +302,6 @@ def normalize():
 
             l.append(e)
 
-        print "Inserting %s items into %s" % (len(l), coll)
         coll.drop()
         insert_rows(coll, l)
 
