@@ -188,7 +188,7 @@ usl_1 = {
         (1998, 'Rochester Rhinos'),
         (1999, 'Minnesota Thunder'),
         (2000, 'Rochester Rhinos'),
-        (2001, 'Rochester Rhnos'),
+        (2001, 'Rochester Rhinos'),
         (2002, 'Milwaukee Rampage'),
         (2003, 'Charleston Battery'),
         (2004, 'Montreal Impact'),
