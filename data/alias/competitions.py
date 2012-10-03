@@ -22,6 +22,7 @@ full_alias = {
     'International Friendly': 'Friendly International',
 
     'Recopa CONCACAF': 'CONCACAF Cup Winners Cup',
+    'CONCACAF Champions Cup': 'CONCACAF Champions\' Cup',
 
 
     'Premier Soccer Alliance': 'World Indoor Soccer League',

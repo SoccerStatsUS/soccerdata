@@ -19,29 +19,18 @@ def get_stadium(s):
 
 sd = {}
 
-soccernet_errors = {
-
-    'Rio Tinto Satadium': 'Rio Tinto Stadium',
-    'AT&T; Park': 'AT&T Park',
-    'LIVESTRONG Sporting Park': 'Livestrong Sporting Park',
-    'JELD-WEN Park': 'Jeld-Wen Field',
-    'Olímpico Universitario': 'Estadio Olímpico Universitario',
-    'Tecnológico': 'Estadio Tecnológico',
-    'Jorge Calero Suárez': 'Estadio Jorge Calero Suárez',
-    'Nacional Tiburcio Carías Andino': 'Estadio Tiburcio Carías Andino',
-    'Juan Ramón Loubriel': 'Estadio Juan Ramon Loubriel',
-    'Saputo': 'Saputo Stadium',
-    'Marvin Lee': 'Marvin Lee Stadium',
-    'Estadio Corona': 'Estadio TSM Corona',
-    'Hasely Crawford': 'Hasely Crawford Stadium',
-    'Andrés Quintana Roo': 'Estadio Quintana Roo',
-    'Complexe sportif Claude-Robillard': 'Complexe Sportif Claude-Robillard',
-    'Estadio de la Ciudad de los Deportes, México DF': 'Estadio Azul',
-}
-sd.update(soccernet_errors)
-    
-
 stadiums = {
+    'Cal State Fullerton Titan Stadium': 'Titan Stadium',
+    'Sherbeck Field': 'Hal Sherbeck Field',
+    'Legion Sports Complex': 'Legion Stadium',
+    'Krenzler Stadium': 'Krenzler Field',
+    'Belson Stadium (St. John\'s University)': 'Belson Stadium',
+    'Citibank Park': 'Bethpage Ballpark',
+    'Stony Brook University Stadium': 'Kenneth P. LaValle Stadium',
+    'Peter Johansen Stadium': 'Peter Johansen High School Stadium',
+    'Collins-Perley Sports Complex': 'Collins Perley Sports Center',
+    'Consol Energy Park': 'Falconi Field',
+
     'Wembley': 'Wembley Stadium',
     'Niedersachsenstadion': 'AWD-Arena',
     'Neckerstadion': 'Mercedes-Benz Arena',
@@ -229,3 +218,25 @@ stadiums = {
     
 }
 sd.update(stadiums)
+
+
+soccernet_errors = {
+    'Rio Tinto Satadium': 'Rio Tinto Stadium',
+    'AT&T; Park': 'AT&T Park',
+    'LIVESTRONG Sporting Park': 'Livestrong Sporting Park',
+    'JELD-WEN Park': 'Jeld-Wen Field',
+    'Olímpico Universitario': 'Estadio Olímpico Universitario',
+    'Tecnológico': 'Estadio Tecnológico',
+    'Jorge Calero Suárez': 'Estadio Jorge Calero Suárez',
+    'Nacional Tiburcio Carías Andino': 'Estadio Tiburcio Carías Andino',
+    'Juan Ramón Loubriel': 'Estadio Juan Ramon Loubriel',
+    'Saputo': 'Saputo Stadium',
+    'Marvin Lee': 'Marvin Lee Stadium',
+    'Estadio Corona': 'Estadio TSM Corona',
+    'Hasely Crawford': 'Hasely Crawford Stadium',
+    'Andrés Quintana Roo': 'Estadio Quintana Roo',
+    'Complexe sportif Claude-Robillard': 'Complexe Sportif Claude-Robillard',
+    'Estadio de la Ciudad de los Deportes, México DF': 'Estadio Azul',
+}
+sd.update(soccernet_errors)
+    
