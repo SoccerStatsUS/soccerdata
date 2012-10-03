@@ -117,13 +117,32 @@ def normalize():
     from settings import SOURCES
     from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 
-
-
-
-
     stadium_getter = make_stadium_getter()
 
 
+
+
+
+    # Normalize salaries
+    l = []
+    for e in soccer_db.picks.find():
+        e['text'] = get_name(e['text'])
+        l.append(e)
+
+    soccer_db.picks.drop()
+    insert_rows(soccer_db.picks, l)
+
+
+    # Normalize salaries
+    l = []
+    for e in soccer_db.salaries.find():
+        e['name'] = get_name(e['name'])
+        l.append(e)
+
+    soccer_db.salaries.drop()
+    insert_rows(soccer_db.salaries, l)
+
+    
 
 
     coll = soccer_db["stadiums"]
@@ -235,6 +254,8 @@ def normalize():
 
         coll.drop()
         insert_rows(coll, l)
+
+
 
     # Normalize stats
     for s in SOURCES:
