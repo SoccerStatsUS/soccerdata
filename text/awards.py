@@ -90,6 +90,11 @@ def process_mls_awards():
     from soccerdata.data.lists.mls import d
     return process_awards(d)
 
+def process_mls_reserve_awards():
+    from soccerdata.data.lists.mls import mlsrl
+    return process_awards(mlsrl)
+
+
 def process_mls_cup_awards():
     from soccerdata.data.lists.mls import d2
     return process_awards(d2)

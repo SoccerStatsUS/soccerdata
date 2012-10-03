@@ -171,7 +171,7 @@ usisl = {
                 'David Ulmstein',
                 'Derek Van Rheenen',
                 'Patrick Krehs',
-                'Eddie Radowski',
+                'Eddie Radwanski',
                 'Jason Haupt',
                 'Sheldon Lee',
                 'David Mackey',

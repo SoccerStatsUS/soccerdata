@@ -440,3 +440,19 @@ d2 = {
         ],
 
 }
+
+
+
+mlsrl = {
+    'competition': 'MLS Reserve League',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (2005, 'DC United Reserves'),
+        (2006, 'Colorado Rapids Reserves'),
+        (2007, 'Colorado Rapids Reserves'),
+        (2008, 'Houston Dynamo Reserves'),
+        (2011, 'Columbus Crew Reserves'),
+        ],
+
+}

@@ -60,7 +60,7 @@ def process_stats():
     return lst
 
 
-nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/nasl.csv'
+nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/nasl'
 nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/npsl0.csv'
 
 
@@ -230,17 +230,17 @@ def get_full_name(name, season):
 
 
 def process_nasl_games():
-    return process_games(nasl_games_filename)
+    return process_games(nasl_games_filename, ';')
 
 def process_npsl_games():
-    return process_games(nasl0_games_filename)
+    return process_games(nasl0_games_filename, '\t')
 
 
-def process_games(fn):
+def process_games(fn, delimiter):
     f = open(fn)
     
     l = []
-    gp = GameProcessor()
+    gp = GameProcessor(delimiter)
     for line in f:
         g = gp.consume_row(line)
         if g:
@@ -250,18 +250,20 @@ def process_games(fn):
 
 
 class GameProcessor(object):
-    def __init__(self):
+    def __init__(self, delimiter):
         self.year = None
         self.month = None
         self.day = None
+
+        self.delimiter = delimiter
         
 
     def consume_row(self, row):
-        fields = row.split('\t')
+        fields = row.split(self.delimiter)
         if len(fields) != 11:
             import pdb; pdb.set_trace()
 
-        competition, season, team, month, day, opponent, location, score, notes, goals, attendance = fields
+        competition, season, team, month, day, opponent, location, score, notes, goals, attendance = [e.strip() for e in fields]
 
         # Skipping minigame for now.
         if day in ('M', 'SO', 'OT', 'SO-M'):

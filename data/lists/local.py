@@ -1,9 +1,10 @@
 
 
 d = {
-    'team_data': 'Peel Cup',
-    
-    'Peel Cup': [
+    'competition': 'Peel Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
         (1909, 'Campbell Rover'),
         (1910, 'Hyde Park Blues'),
         (1911, 'Blue Island'),
@@ -110,8 +111,13 @@ d = {
         (2009, 'Ho Chunk'),
         ],
 
+}
 
-    'West Penn Challenge Cup': [
+d = {
+    'competition': 'Peel Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
         (1914, 'Pittsburgh Rovers'),
         (1915, 'Donora Steel Works'),
         (1916, 'Homestead Steel Works'),
@@ -189,3 +195,88 @@ d = {
 
 }
     
+
+# Cleveland
+
+d = {
+    'competition': 'Bowler Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1911, 'Cleveland Thistles'),
+        (1912, 'Lorain'),
+        (1913, 'Lorain'),
+        (1914, 'Clevelands'),
+        (1915, 'Clevelands'),
+        (1916, 'Cleveland Thistles'),
+        ],
+        }
+
+
+
+d = {
+    'competition': 'California Association Senior Challenge Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1911, 'Pastimes'),
+        (1912, 'San Francisco F.C'),
+        (1913, 'Thistle'),
+        (1914, 'San Francisco Vikings'),
+        (1915, 'San Francisco Barbarians'),
+        (1916, 'Union Iron Works'),
+        (1917, 'Union Iron Works'),
+        (1918, 'Union Iron Works'),
+        (1920, 'Olympic'),
+        (1921, 'Olympic'),
+        (1922, 'McKinley Park of Sacramento'),
+        (1923, 'San Francisco Barbarians'),
+        (1924, 'McKinley Park of Sacramento'),
+        (1925, 'San Francisco Barbarians'),
+        (1926, 'Burns'),
+        (1927, 'Sons of St. George'),
+        (1928, 'San Francisco Thistle'),
+        (1929, 'Sons of St. George'),
+        (1930, 'Rovers'),
+        (1931, 'Burns'),
+        (1932, 'Olympic'),
+        (1933, 'Olympic'),
+        (1934, 'Douglas Aircraft'),
+        (1935, 'Western Pacific of Sacramento')
+        (1936, 'Vikings'),
+        (1937, 'Rovers'),
+        (1938, 'Western Pacific of Sacramento'),
+        (1939, 'Douglas Aircraft'),
+        (1940, 'Los Angeles Magyars'),
+        (1941, 'Los Angeles Scots'),
+        (1942, 'Los Angeles Scots'),
+        (1943, 'B&F Scots of Los Angeles'),
+        (1944, 'B&F Scots of Los Angeles'),
+        (1945, 'B&F Scots of Los Angeles'),
+        (1946, 'Olympic'),
+        (1947, 'American Teutonia'),
+        (1948, 'Los Angeles Magyars'),
+        (1949, 'San Francisco AC'),
+        (1951, 'San Francisco AC'),
+        (1952, 'San Francisco AC'),
+        (1953, 'Vikings'),
+        (1955, 'American Teutonia'),
+        (1956, 'Los Angeles Kickers'),
+        (1957, 'Los Angeles Danish'),
+        (1958, 'Los Angeles Kickers'),
+        (1959, 'Los Angeles Kickres'),
+        (1960, 'Los Angeles Kickers'),
+        (1961, 'Los Angeles Kickers'),
+        (1962, 'Los Angeles Kickers'),
+        (1963, 'Los Angeles Kickers-Victoria A.C.'),
+        (1964, 'Los Angeles Kickers'),
+        (1965, 'Los Angeles Kickers'),
+        (1966, 'San Francisco Greek-Americans'),
+        (1968, 'Montebello American'),
+        (1969, 'San Francisco Greek-Americans'),
+        (1971, 'Valley German-Americans'),
+        
+        
+
+        ],
+        }
