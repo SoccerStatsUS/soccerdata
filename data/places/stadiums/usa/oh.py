@@ -24,6 +24,19 @@ l = [
         'name': 'Luna Park',
         'location': 'Cleveland, OH',
         },
+
+    {
+        'name': 'Krenzler Field',
+        'location': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Careflight Field',
+        'address': '1675 S Main St',
+        'location': 'Springboro, OH',
+        'capacity': 6500,
+        
+        },
     {
         'name': 'Middleford Cheese Stadium',
         'location': 'Bedford, OH',

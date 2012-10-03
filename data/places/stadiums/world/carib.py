@@ -6,12 +6,23 @@ import datetime
 
 
 l = [
+
     {
         'name': 'National Stadium',
         'location': 'Kingston, Jamaica',
         'opened': 1962,
         'capacity': 35000,
         },
+
+    {
+        'name': 'Sir Vivian Richards Stadium',
+        'location': 'North Sound, Antigua and Barbuda',
+        'opened': 2008,
+        'capacity': 10000,
+        'cost': 60000000,
+        },
+
+
     {
         'name': 'Manny Ramjohn Stadium',
         'location': 'Marabella, Trinidad and Tobago',

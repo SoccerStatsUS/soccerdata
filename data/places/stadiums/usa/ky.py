@@ -12,4 +12,10 @@ l = [
         'opened': 1957,
         'capacity': 47925,
         },
+
+    {
+        'name': 'Town & Country Sports Complex',
+        'address': '1018 Town Drive',
+        'location': 'Wilder, KY',
+        },
     ]

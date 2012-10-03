@@ -126,6 +126,17 @@ l = [
         'capacity': 10525,
         },
     
+
+{
+        'name': 'Sherbeck Field',
+        'location': 'Fullerton, CA',
+        },
+
+    {
+        'name': 'Peter Johansen High School Stadium',
+        'location': 'Modesto, CA',
+        },
+    
     
     
     {

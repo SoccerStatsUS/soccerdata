@@ -39,6 +39,17 @@ l = [
         'name': 'Bugle Field',
         'location': 'Baltimore, MD',
         },
+    {
+        'name': 'Sports and Learning Complex',
+        'address': '8001 Sheriff Road',
+        'location': 'Landover, MD',
+        },
+
+    {
+        'name': 'Maryland Sportsplex',
+        'address': '1031 Benfield Boulevard',
+        'location': 'Millersville, MD',
+        },
 
     {
         'name': 'Ridley Athletic Complex',
@@ -79,7 +90,7 @@ l = [
         'address': '18031 Central Park Circle',
         'location': 'Boyds, MD',
         'opened': 2000,
-        'capacity': 5126
+        'capacity': 5126,
         },
     
     

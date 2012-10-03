@@ -18,6 +18,11 @@ l = [
         'location': 'Miami, FL',
         },    
 
+    {
+        'name': 'IMG Soccer Academy',
+        'location': 'Bradenton, FL',
+        },    
+
 
     {
         'name': 'University of South Florida',

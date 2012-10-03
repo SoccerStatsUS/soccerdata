@@ -175,6 +175,31 @@ l = [
         'name': 'Brooklyn College',
         'location': 'Brooklyn, NY',
         },
+
+
+
+    {
+        'name': 'Kenneth P. LaValle Stadium',
+        'address': '100 Nicholls Road',
+        'location': 'Stony Brook, NY',
+        'opened': datetime.datetime(2002, 9, 14),
+        'cost': 22000000,
+        'capacity': 8136,
+        },
+
+    {
+        'name': 'City Park Stadium',
+        'location': 'New Rochelle, NY',
+        'capacity': 1845,
+        },
+
+    {
+        'name': 'Bethpage Ballpark',
+        'address': '3 Court House Drive',
+        'location': 'Central Islip, NY',
+        'opened': datetime.datetime(2000, 5, 14),
+        'capacity': 6002,
+        },
     
     
     

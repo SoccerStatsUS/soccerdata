@@ -45,6 +45,11 @@ l = [
         'location': 'Lehi, UT',
         },
     
+    {
+        'name': 'Wendover Soccer Complex',
+        'location': 'Wendover, UT',
+        },
+    
     
     
     

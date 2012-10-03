@@ -24,6 +24,15 @@ l = [
         'name': 'Taylor Field',
         'location': 'Bethlehem, PA',
         },
+
+    {
+        'name': 'Falconi Field',
+        'address': '1 Washington Federal Way',
+        'location': 'Washington, PA',
+        'opened': datetime.datetime(2002, 5, 29),
+        'capacity': 3200,
+        
+        },
     {
         'name': 'Sox Harrison Stadium',
         'location': 'Edinboro, PA',
