@@ -6,7 +6,6 @@ STAT_TABLES = [
     'lineups', 
     'stats', 
     'standings', 
-
     'bios',
     'awards',
     ]
@@ -62,7 +61,7 @@ SINGLE_SOURCES = [
     'state_populations',
     'cities',
     'stadiums', 
-
+    'salaries',
     'competitions',
     'teams', 
     'bios', 
