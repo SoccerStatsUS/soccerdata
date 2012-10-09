@@ -37,17 +37,10 @@ l = [
         },
 
 
-
-    
-
-
     {
         'name': 'Dexter & Weeden St.',
         'location': 'Ashton, RI',
         },
-
-
-
 
     {
         'name': 'Merino Flats',
