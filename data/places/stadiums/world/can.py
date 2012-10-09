@@ -14,6 +14,24 @@ l = [
         },        
 
         {
+        'name': 'Coronation Park',
+        'location': 'Edmonton, AB',
+        },        
+
+        {
+        'name': 'Commonwealth Stadium',
+        'address': '11000 Stadium Road',
+        'location': 'Edmonton, AB',
+        'opened': 1978,
+        'capacity': 60000,
+        },        
+
+        {
+        'name': 'Foothills Park',
+        'location': 'Calgary, AB',
+        },        
+
+        {
         'name': 'Centennial Park Stadium',
         'location': 'Etobicoke, ON',
         },        

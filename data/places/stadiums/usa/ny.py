@@ -97,6 +97,13 @@ l = [
         'name': '131st Street Grounds',
         'location': 'New York, NY',
         },
+
+    {
+        'name': 'Liverpool High School Stadium',
+        'location': 'Liverpool, NY',
+        },
+
+
     {
         'name': 'McGoldrick Field',
         'location': 'Brooklyn, NY',

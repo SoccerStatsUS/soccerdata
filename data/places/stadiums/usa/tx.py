@@ -17,6 +17,12 @@ l = [
         },
 
     {
+        'name': 'Sun Bowl Stadium',
+        'address': 'Sun Bowl Drive',
+        'location': 'El Paso, TX',
+        },
+
+    {
         'name': 'adidas Field',
         'location': 'Frisco, TX',
         },

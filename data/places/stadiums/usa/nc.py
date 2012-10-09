@@ -16,6 +16,13 @@ l = [
         'opened': 2002,
         },        
     
+
+    {
+        'name': 'EE Waddell High School',
+        'location': 'Charlotte, NC',
+        },
+
+
     {
         'name': 'Bank of America Stadium',
         'address': '800 South Mint Street',
