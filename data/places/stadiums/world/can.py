@@ -14,6 +14,11 @@ l = [
         },        
 
         {
+        'name': 'Centennial Park Stadium',
+        'location': 'Etobicoke, ON',
+        },        
+
+        {
         'name': 'Clarke Stadium',
         'location': 'Edmonton, AL',
         'opened': 1938,

@@ -97,6 +97,18 @@ l = [
         'name': '131st Street Grounds',
         'location': 'New York, NY',
         },
+    {
+        'name': 'McGoldrick Field',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Lewisohn Stadium',
+        'address': '137th and Amsterdam',
+        'location': 'New York, NY',
+        'opened': 1915,
+        'closed': 1973,
+        },
 
     {
         'name': 'Marquette Oval',
@@ -145,6 +157,16 @@ l = [
     {
         'name': 'Olympic Rink',
         'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Alliance Bank Stadium',
+        'address': '1 Tex Simone Drive',
+        'location': 'Syracuse, NY',
+        'opened': datetime.datetime(2007, 4, 10),
+        'capacity': 11071,
+        'cost': 33000000,
+        
         },
 
 
