@@ -179,7 +179,7 @@ Round: None
 
 8/23/1890; Clinton Association; 1-5; Lowell Thistles
 9/27/1890; Clinton Association; ?; Lawrence Athletics; Lawrence Athletics
-11/27/1890; Clinton Association; 1-11; Maynard Assebets; Clinton Association
+11/27/1890; Clinton Association; 1-11; Maynard Assabets; Clinton Association
 
 9/13/1890; Cumberland Rangers; 0-0; Providence Athletics; Providence Athletics
 9/27/1890; Cumberland Rangers; 1-3; Providence Conant Thread Company; Cumberland Rangers; 
@@ -232,8 +232,8 @@ Round: None
 1/25/1890; East St. Louis Blue Bells; 1-0; St. Louis Shamrocks; St. Louis Shamrocks
 2/1/1890; East St. Louis Blue Bells; 2-0; Missouri Amateur AA; East St. Louis Blue Bells;  
 2/8/1890; East St. Louis Blue Bells; 5-0; St. Louis Hibernians; East St. Louis Blue Bells;  
-2/15/1890; East St. Louis Blue Bells; 1-3; St. Louis Association Foot Ball League
-2/22/1890; East St. Louis Blue Bells;  4-1; St. Louis Association Foot Ball League; St. Louis Association Foot Ball League
+2/15/1890; East St. Louis Blue Bells; 1-3; St. Louis Association Foot Ball League XI
+2/22/1890; East St. Louis Blue Bells;  4-1; St. Louis Association Foot Ball League XI; St. Louis Association Foot Ball League XI
 
 9/1/1890; Fall River County Street Rovers; np; Scottish Team; Polo Grounds
 9/1/1890; Fall River County Street Rovers; 1-5; Fall River East Ends
@@ -565,7 +565,7 @@ Competition: Friendly
 11/22/1890; Pawtucket Free Wanderers; 2-2; Fall River County Street Rovers; Pawtucket Free Wanderers
 11/27/1890; Pawtucket Free Wanderers; 8-0; Boston Rovers; Prospect Park, Pawtucket, RI
 11/27/1890; Pawtucket Free Wanderers; 7-0; Brooklyn Longfellows; Pawtucket Free Wanderers; 3000
-11/29/1890; Pawtucket Free Wanderers; 2-0; Canadian Western Foot Ball Association XI; Pawtucket Free Wanderers; 3000
+11/29/1890; Pawtucket Free Wanderers; 2-0; Canada Western Foot Ball Association XI; Pawtucket Free Wanderers; 3000
 
 Competition: American Cup
 Round: Second Round
@@ -632,7 +632,7 @@ Forfeit
 
 1/24/1891; Philadelphia Corinthians; 1-1; Philadelphia Nicetowns; Philadelphia Nicetowns
 
-10/11/1890; Philadelphia Enterprises; 1-2; Philadelphia Frankford 2nds; Philadelphia Frankford
+10/11/1890; Philadelphia Enterprises; 1-2; Philadelphia Frankfords 2nds; Philadelphia Frankford
 11/1/1890; Philadelphia Enterprises; 0-4; Philadelphia Nicetowns; Philadelphia Nicetowns
 11/29/1890; Philadelphia Enterprises; 1-6; Philadelphia North Ends; Philadelphia North Ends
 1/1/1891; Philadelphia Enterprises; 0-4; Trenton Rovers; Hetzel's Grove, Trenton , NJ
@@ -1015,8 +1015,8 @@ Round: None
 
 * other games
 
-11/27/1890; Canadian Western Football Foot Ball Association XI; 1-3; Fall River County Street Rovers; Bedford Street Grounds, Fall River, MA; 4000
-11/29/1890; Canadian Western Football Foot Ball Association XI; 0-2; Pawtucket Free Wanderers; Dexter Street Grounds, Pawtucket, RI; 3000
+11/27/1890; Canadian Western Foot Ball Association XI; 1-3; Fall River County Street Rovers; Bedford Street Grounds, Fall River, MA; 4000
+11/29/1890; Canadian Western Foot Ball Association XI; 0-2; Pawtucket Free Wanderers; Dexter Street Grounds, Pawtucket, RI; 3000
 
 3/1/1891; St. Louis Association Foot Ball League XI; 4-0; St. Louis XI; Neutral
 
@@ -1035,7 +1035,7 @@ Round: None
 6/12/1891; New England League XI; 0-0; Galt FBC; Galt, ON
 6/13/1891; New England League XI; 2-1; Toronto League XI; Toronto, ON
 
-11/27/1890; Allegheny AA; 0-3; Lawrenceville 18th Ward
+11/27/1890; Allegheny AA; 0-3; Lawrenceville 18th Ward Association
 
 11/27/1890; Allegheny Eureka; 3-4; Pittsburgh East End Gym
 
@@ -1050,9 +1050,9 @@ Round: None
 
 12/25/1890; Boston Hearts of Oak Cricket FBC; ?; Newton Association; Winthrop Junction, MA
 
-9/2/1890; Braytonvilles Association; 3-1; North Adams Canady & Wilkerson; Away
+9/2/1890; Braytonvilles Association; 3-1; North Adams Canady & Wilkerson Association; North Adams Canady & Wilkerson Association
 
-11/27/1890; Brooklyn Longfellows Juniors; ?; Brooklyn Nonpareils Juniors; Away
+11/27/1890; Brooklyn Longfellows Juniors; ?; Brooklyn Nonpareils Juniors; Brooklyn Nonpareils Juniors
 
 1/21/1891; Brooklyn Nautilus Boat Club; 3-1; Brooklyn YMCA; Neutral
 
@@ -1131,6 +1131,178 @@ Round: None
 3/28/1891; Fall River Eagles; 0-1; Fall River Wamsuttas
 4/18/1891; Fall River Eagles; 0-0; Fall River Pacifics
 
+11/22/1890; Fall River East Ends 2nds; 0-2; Fall River Clippers; Fall River East Ends 2nds
+3/21/1891; Fall River East Ends 2nds; np; Fall River Clippers
+4/2/1891; Fall River East Ends 2nds; 0-3; Fall River Chace Street Rovers
+4/4/1891; Fall River East Ends 2nds; 2-0; Fall River Olympics 2nds; Fall River East Ends 2nds; 700
+12/20/1890; Fall River East Ends 2nds; 5-4; Fall River Chace Street Rovers
+3/21/1891; Fall River East Ends 2nds; np; Fall River Clippers
 
+11/8/1890; Fall River Olympics 2nds; 3-1; Fall River Clippers; Fall River Olympics 2nds
+11/22/1890; Fall River Olympics 2nds; 4-1; Fall River Chace Street Rovers; Fall River Olympics 2nds
+2/6/1891; Fall River Olympics 2nds; 2-6; Fall River Chace Street Rovers
+3/14/1891; Fall River Olympics 2nds; 2-3; Fall River Chace Street Rovers
+3/28/1891; Fall River Olympics 2nds; 2-3; Fall River Chace Street Rovers
+4/4/1891; Fall River Olympics 2nds; 0-2; Fall River East Ends 2nds; Fall River East Ends 2nds; 700
 
-* junior games
+4/18/1891; Fall River Pacifics; 0-0; Fall River Eagles
+
+12/20/1890; Fall River Volunteers; 1-0; Fall River County Street Rovers 2nds
+
+10/4/1890; Fall River Wamsuttas; 1-0; Cumberland Rangers
+10/28/1890; Fall River Wamsuttas; 0-1; Fall River County Street Rovers 2nds
+3/28/1891; Fall River Wamsuttas; 1-0; Fall River Eagles
+
+12/27/1890; Gorham Association; 2-1; Providence Athletics; Gorham Association
+
+10/25/1890; Harrison Athletics; 4-17; Fall River Celtics; Neutral
+
+9/30/1890; Lake Forest Grand Pacifics; 6-0; Lake Forest Auditoriums; Neutral
+
+11/29/1890; Lakeside Rovers; 3-0; Montclair Rovers
+
+11/27/1890; Lawrenceville 18th Ward Association; 3-0; Allegheny AA
+
+1/24/1891; Longfellows Association; L-W; Cliftons Association; Cliftons Association
+
+9/20/1890; Lonsdale Grays; 0-7; Providence Athletics
+10/11/1890; Lonsdale Grays; 1-1; Blackstone Rovers; Lonsdale Grays
+
+10/18/1890; Maynard Assabets; 2-0; Maynard Black Diamonds
+10/25/1890; Maynard Assabets; 5-0; Maynard Shamrocks
+11/27/1890; Maynard Assabets; 11-1; Clinton Association; Clinton Association
+
+10/18/1890; Maynard Black Diamonds; 0-2; Maynard Assabets
+
+10/25/1890; Maynard Shamrocks; 0-5; Maynard Assabets
+
+10/11/1890; Michigan Bay City Association; 4-5; Cleveland Wanderers; Cleveland Wanderers
+
+11/27/1890; Minneapolis Rangers; ?; Duluth Red Stockings
+
+10/28/1890; Missouri Amateur AA Juniors; W-L; St. Louis Westerns
+12/7/1890; Missouri Amateur AA Juniors; 2-1; East St. Louis Blue Bells Juniors
+12/14/1890; Missouri Amateur AA Juniors; 1-0; St. Louis Olympics 2nds
+12/21/1890; Missouri Amateur AA Juniors; 3-0; St. Louis Cycling Club
+12/28/1890; Missouri Amateur AA Juniors; W-L; St. Louis Westerns
+1/4/1891; Missouri Amateur AA Juniors; 0-1; Compton Tylers
+1/11/1891; Missouri Amateur AA Juniors; 0-2; St. Louis Shamrocks Juniors
+1/18/1891; Missouri Amateur AA Juniors; 1-0; St. Louis Cycling Club
+1/18/1891; Missouri Amateur AA Juniors; 2-0; Missouri Picked Team
+1/25/1891; Missouri Amateur AA Juniors; W-L; St. Louis Cycling Club
+3/8/1891; Missouri Amateur AA Juniors; ?; Missouri Amateur AA
+3/16/1891; Missouri Amateur AA Juniors; 0-0; Missouri Amateur AA
+
+11/29/1890; Montclair Rovers; 0-3; Lakeside Rovers
+
+11/27/1890; Newton Mills Association; W-L; Boston Rovers; Newton Mills Association
+12/25/1890; Newton Mills Association; ?; Boston Hearts of Oak Cricket FBC; Winthrop Junction, MA
+
+11/19/1890; New York Herald Compositors; 3-1; USS Umbria; New York Herald Compositors
+
+11/27/1890; New York Nonpareils Juniors; ?; Brooklyn Longfellows; Ridgewood Baseball Grounds
+
+9/2/1890; North Adams Canady & Wilkerson Association; 1-3; Braytonvilles Association; North Adams Canady & Wilkerson Association
+
+2/23/1891; Oak Cliff Bankers; 1-3; Dallas Association; Oak Cliff Baseball Grounds, Dallas, TX; 350
+3/2/1891; Oak Cliff Bankers; 1-1; Dallas Association
+
+10/4/1890; Oak Grove Ramblers; 2-3; Fall River Eagles
+11/8/1890; Oak Grove Ramblers; 1-0; Pawtucket Thistles; Pawtucket Thistles
+
+10/18/1890; Pawtucket Dexter Street Rovers; 0-2; Pawtucket Pine Street Rovers
+
+12/22/1890; Pawtucket Free Wanderers 2nds; 1-4; Fall River Clippers; Pawtucket Free Wanderers 2nds
+
+10/18/1890; Pawtucket Pine Street Rovers; 2-0; Pawtucket Dexter Street Rovers
+
+12/27/1890; Philadelphia Athletics; 14-0; Philadelphia Celtics
+
+12/27/1890; Philadelphia Celtics; 0-14; Philadelphia Athletics
+
+9/27/1890; Philadelphia Frankfords 2nds; 1-2; Philadelphia Manayunks
+10/11/1890; Philadelphia Frankfords 2nds; 2-1; Philadelphia Enterprises; Philadelphia Frankfords 2nds
+
+5/2/1891; Philadelphia Nondescripts; 2-9; Philadelphia Association
+
+3/7/1891; Philadelphia North Ends; 2-7; Philadelphia Orianas; Philadelphia Orianas
+
+12/25/1890; Philadelphia Orianas; 2-6; Philadelphia North Ends
+3/7/1891; Philadelphia Orianas; 7-2; Philadelphia North Ends 2nds
+3/30/1891; Philadelphia Orianas; T-T; Philadelphia Oxfords
+
+11/27/1890; Pittsburgh East End Gym; 4-3; Allegheny Eureka
+
+1/1/1891; Portland Wonders; 1-1; Tacoma Association; Portland Wonders
+
+11/29/1890; Providence Johnston Hustlers; 3-1; Thornton Hosieries Albions
+
+2/5/1891; Pullman Cricket Club; ?; Pullman Department
+
+2/5/1891; Pullman Department; ?; Pullman Cricket Club
+
+1/25/1891; St. Louis Clippers; W-L; St. Louis Olympics Juniors
+
+12/21/1890; St. Louis Cycling Club; 0-3; Missouri Amateur AA Juniors
+1/18/1891; St. Louis Cycling Club; 0-1; Missouri Amateur AA Juniors
+1/25/1891; St. Louis Cycling Club; L-W; Missouri Amateur AA Juniors
+
+; St. Louis Hibernians 2nds; ?; Christian Brothers College 2nds
+
+1/4/1891; St. Louis Montgomerys Juniors; 0-5; St. Louis Montgomerys
+
+12/7/1890; St. Louis Olympics 2nds; ?; St. Louis Shamrocks 2nds
+12/14/1890; St. Louis Olympics 2nds; 0-1; Missouri Amateur AA Juniors
+1/25/1891; St. Louis Olympics 2nds; ?; St. Louis Clippers
+
+12/7/1890; St. Louis Shamrocks 2nds; L-W; St. Louis Olympics 2nds
+1/11/1891; St. Louis Shamrocks 2nds; 2-0; Missouri Amateur AA Juniors
+
+10/28/1890; St. Louis Westerns; L-W; Missouri Amateur AA Juniors
+12/28/1890; St. Louis Westerns; L-W; Missouri Amateur AA Juniors
+
+11/27/1890; Seattle Association; 0-4; Tacoma Association; Seattle Association
+2/24/1891; Seattle Association; np; Tacoma Association
+5/30/1891; Seattle Association; ?; Tacoma Association; Seattle Association
+
+11/27/1890; Tacoma Association; 0-4; Seattle Association; Seattle Association
+1/1/1891; Tacoma Association; 1-1; Portland Wonders
+2/24/1891; Tacoma Association; np; Seattle Association
+5/30/1891; Tacoma Association; ?; Seattle Association; Seattle Association
+
+9/27/1890; Thornton Hosiery Albions; 0-7; Saylesville Athletics; 
+11/29/1890; Thornton Hosiery Albions; 1-3; Providence Johnston Hustlers
+
+11/19/1890; USS Umbria; 1-3; New York Herald Compositors; Ridgewood Baseball Grounds, Brooklyn, NY
+
+2/6/1891; Brooklyn Company 11, 47th Regiment Captain Main; 0-4; Brooklyn Company 11, 47th Regiment Lieutenant Christofal
+
+2/6/1891; Brooklyn Company 11, 47th Regiment Lieutenant Christofal; 4-0; Brooklyn Company 11, 47th Regiment Captain Main
+
+10/31/1890; Charlottes Ralph Holland Room; 2-1; Charlotte Macon School; Charlotte Macon School
+
+12/20/1890; Dallas YMCA Juniors; ?; Cole Military School Juniors
+
+10/17/1890; Duluth Red Stockings B; L-W; Duluth Red Stockings
+
+11/22/1890; Philadelphia North End Alexanders; 0-4; Philadelphia North End Astins; Neutral
+
+11/22/1890; Philadelphia North End Astins; 4-0; Philadelphia North End Alexanders; Neutral
+
+12/25/1890; Philadelphia Senecas; 5-1; Laboratory Hill; Falls of Schuylkill, PA
+
+10/31/1890; Charlotte Macon School; 1-2; Charlottes Ralph Holland Room
+
+12/20/1890; Cole Select Military School; ?; Dallas YMCA Juniors
+1/1/1891; Cole Select Military School; 3-0; Dallas YMCA; Neutral
+2/28/1891; Cole Select Military School; 1-1; Oak Cliff High School; Oak Cliff High School
+
+11/27/1890; Humiston High School; 5-3; Humiston Normal College; Humiston Normal College
+
+2/28/1891; Oak Cliff High School; 1-1; Cole Select Military School; Oak Cliff Baseball Grounds, Dallas, TX
+
+; Olean High School; ?; St. Bonaventure College
+
+10/6/1890; Phillips Academy Andover; 4-5; Lawrence Athletics
+
+; Cole Select Military School Juinors; ?; Dallas YMCA Juniors
