@@ -1,6 +1,9 @@
 from collections import defaultdict
 from soccerdata.mongo import soccer_db, insert_rows, generic_load
 
+import os
+import cPickle
+
 
 
 
@@ -19,6 +22,9 @@ def make_stadium_getter():
 
 
     def getter(team, team_date):
+        
+        if team_date is None:
+            return team
         
         if team not in d:
             return team
@@ -151,20 +157,18 @@ def denormalize():
     print "Denormalizing games"    
     l = []
     for e in soccer_db.games.find():
-        if e['date']:
-            e['team1_original_name'] = team_name_ungetter(e['team1'], e['date'])
-            e['team2_original_name'] = team_name_ungetter(e['team2'], e['date'])
+        e['team1_original_name'] = team_name_ungetter(e['team1'], e['date'])
+        e['team2_original_name'] = team_name_ungetter(e['team2'], e['date'])
 
+        # I suspect that this is happening far too late in the process.
+        # When do stadium / city pairs get generated?
+        home_team = e.get('home_team')
+        if home_team and not e.get('stadium'):
+            stadium = stadium_getter(home_team, e['date'])
 
-            # I suspect that this is happening far too late in the process.
-            # When do stadium / city pairs get generated?
-            home_team = e.get('home_team')
-            if home_team and not e.get('stadium'):
-                stadium = stadium_getter(home_team, e['date'])
-
-                # Because stadium_getter will return home_team by default.
-                if stadium and stadium != home_team:
-                    e['stadium'] = stadium
+            # stadium_getter returns home_team as a fallback; don't set that.
+            if stadium and stadium != home_team:
+                e['stadium'] = stadium
 
         l.append(e)
 
@@ -173,8 +177,6 @@ def denormalize():
 
     print "Denormalizing competitions"
     l = []
-
-
 
     print "Denormalizing goals"
     l = []
@@ -238,6 +240,33 @@ def generate_cities():
         cities.remove(None)
 
     city_dicts = [{'name': city} for city in sorted(cities)]
-
     generic_load(soccer_db.cities, lambda: city_dicts)
+    return
+    return city_dicts
+
+    from googlegeocoder import GoogleGeocoder
+    geocoder = GoogleGeocoder()
+
+    city_dicts = {}
+
+    CITIES_FILE_PATH = "/home/chris/www/soccerdata/data/cities_data"
+
+    if os.path.exists(CITIES_FILE_PATH):
+        city_dicts = cPickle.load(open(CITIES_FILE_PATH))
+    else:
+        city_dicts = {}
+
+    for city in sorted(cities)[:100]:
+        if city not in city_dicts:
+            try:
+                locations = geocoder.get(city)
+                location = locations[0]
+            except ValueError:
+                location = None
+
+        city_dicts[city] = location
+    
+    cPickle.dump(city_dicts, open(CITIES_FILE_PATH, 'w'))
+
+    #generic_load(soccer_db.cities, lambda: city_dicts)
 

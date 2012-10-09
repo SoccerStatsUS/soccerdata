@@ -1,18 +1,17 @@
 from soccerdata.mongo import generic_load, soccer_db
 
 from soccerdata.scrapers import fbleague, rsssf, mls
+
 from soccerdata.text import asl
 from soccerdata.text import awards
+from soccerdata.text import bios
 from soccerdata.text import drafts
 from soccerdata.text import lineups
-from soccerdata.text import standings
-from soccerdata.text import bios
 from soccerdata.text import partial
+from soccerdata.text import salaries
+from soccerdata.text import standings
 
 from soccerdata import scrapers
-
-from soccerdata import text
-
 
 
 def clear_all():
@@ -54,6 +53,7 @@ def first_load():
     load_competitions()
     load_teams()
 
+    load_salaries()
     load_positions()
     #load_news()
 
@@ -67,58 +67,43 @@ def first_load():
 
 
 
+
 def load_games():
-
-    return
-
-    load_early_cups()
-    return
-
-    load_usa()
-
-
-    return
-
-
-    load_early_friendlies()
-    load_nafbl()
     load_melvin()
 
     return
 
+    load_esl()
     load_asl()
-    return
-    load_apsl()
-    load_usl()
-
-    load_mls()    
-
-
-    load_nasl()
-
-
-
 
     load_leach()    
-    return
-
-    load_concacaf()
-
-    load_misl()
+    load_usl()
+    load_apsl()
 
 
-    load_esl()
-    load_asl2()
-    load_csl()
+    load_mls()    
+    load_nasl()
 
+    load_early_friendlies()
+    load_modern_friendlies()
+
+    load_early_cups()
     load_modern_cups()
 
-    load_modern_friendlies()
+    load_usa()
+
+    load_nafbl()
+
+    load_concacaf()
+    load_misl()
+    load_asl2()
+    load_csl()
 
 
     load_small_tournaments() # Put this other places.
     load_city()
 
+    return
     load_fifa()
 
     return
@@ -127,8 +112,6 @@ def load_games():
 
     #load_early()
     #load_ncaa()
-
-
 
 
 
@@ -366,7 +349,9 @@ def load_small_tournaments():
 
 
 def load_mls():
-    load_games_standard('mls_reserve', 'domestic/country/usa/leagues/mls_reserve')
+
+
+    load_games_standard('mls_reserve', 'domestic/country/usa/leagues/mls/reserve')
 
     load_mls_data()
     load_mls_lineups()
@@ -388,6 +373,7 @@ def load_nafbl():
 
 
 def load_melvin():
+    load_games_standard('melvin', 'domestic/country/usa/friendly/melvin/1865')
     load_games_standard('melvin', 'domestic/country/usa/friendly/melvin/1870')
     load_games_standard('melvin', 'domestic/country/usa/friendly/melvin/1875')
     load_games_standard('melvin', 'domestic/country/usa/friendly/melvin/1880')
@@ -466,8 +452,9 @@ def load_teams():
     generic_load(soccer_db.teams, teams.load)
 
 
-
-
+def load_salaries():
+    soccer_db.salaries.drop()
+    generic_load(soccer_db.salaries, salaries.load_salaries)
 
 def load_positions():
     from soccerdata.text.positions import process_positions
@@ -494,6 +481,7 @@ def load_asl():
     print "Loading ASL awards.\n"
     generic_load(soccer_db.asl_awards, awards.process_asl_awards, delete=False)
 
+
     print "Loading ASL games.\n"
     generic_load(soccer_db.asl_games, asl.process_games)
 
@@ -503,6 +491,7 @@ def load_asl():
 
 def load_esl():    
     load_games_standard('esl', 'domestic/country/usa/leagues/esl')
+    generic_load(soccer_db.esl_awards, awards.process_esl_awards, delete=False)
 
 
 
@@ -619,6 +608,7 @@ def load_mls_data():
 
     print "Loading MLS awards.\n"
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
+    generic_load(soccer_db.mls_awards, awards.process_mls_reserve_awards)
     generic_load(soccer_db.mls_awards, awards.process_mls_cup_awards)
 
     print "Loading mls bio stats.\n"
@@ -662,13 +652,20 @@ def load_usl():
     """
     from soccerdata.text import stats, awards  
 
+    load_games_standard('usl', 'domestic/country/usa/leagues/usl1/usl1')
+
     #load_games_standard('usl', 'domestic/country/usa/playoffs/usl')
     load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2012')
     load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2011')
     load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2010')
     load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2009')
     load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2008')
-    load_games_standard('usl', 'domestic/country/usa/leagues/usl1/2009')
+    load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2007')
+    load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2006')
+    load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2005')
+    load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2004')
+    load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2003')
+
 
     print "Loading usl stats.\n"
     generic_load(soccer_db.usl_stats, stats.process_usl_stats)

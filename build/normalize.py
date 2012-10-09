@@ -271,6 +271,8 @@ def normalize():
             for k in (
                 'games_started', 
                 'games_played', 
+                'goals',
+                'assists',
                 'minutes', 
                 'shots', 
                 'shots_on_goal',
@@ -278,8 +280,16 @@ def normalize():
                 'fouls_suffered', 
                 'yellow_cards', 
                 'red_cards'):
-                if e.get(k) == '':
+
+                if e.get(k) in ('', '-', '?', None):
                     e[k] = None
+                else:
+                    try:
+                        e[k] = int(e[k])
+                    except:
+                        print "Failed integer coercion on %s" % e
+                        import pdb; pdb.set_trace()
+                        e[k] = None
 
             for k in 'goals', 'assists':
                 if e.get(k) == '':

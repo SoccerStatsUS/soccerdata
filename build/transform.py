@@ -199,5 +199,7 @@ def transform():
 
     print "Transforming names."
     generate_prerosters()
+
+    # Comment this out if worried about over-assigning full names.
     transform_player_names()
 
