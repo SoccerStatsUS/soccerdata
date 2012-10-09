@@ -8,33 +8,33 @@ Season: 1998
 Round: First Round
 
 
-Albuquerque Geckos; Justin Sells; New Mexico; F
-San Francisco Bay Seals; Keith Ratzburg; South Florida; M
-California Jaguars; Mario Sanchez; Fresno State; M
-Charleston Battery; Clint Mathis; South Carolina; M
-Atlanta Ruckus; Mike Burrell; Georgia Southern;  GK
-Cincinnati Riverhawks; Jason Began; Bowling Green; M
-Connecticut Wolves; Chris Houser; Southern Connecticut State; D
-El Paso Patriots; Daniel Hernandez;  Southern Methodist; M
-Long Island Rough Riders; Steve Franzke; American; D
-Minnesota Thunder; Leo Cullen; Maryland; D
-Jacksonville Cyclones; Jeff Cunningham; South Florida; F
-Long Island Rough Riders; Jesse Van Saun; Saint John's; F
-Milwaukee Rampage; Drew Watzka; Marquette; F
-Minnesota Thunder; Dan Welch;  Macalester College;  K
-Montreal Impact; Sandro Grande;  Vanier College; M
-Nashville Metros; Tony Kuhn; Vanderbilt; F
-New Orleans Storm; Lester Felician; Jackson (PDSL); F
-Orange County Zodiac; Sheldon Thomas; Cal State-Fullerton; F
-Raleigh Flyers; Pablo Mastroeni; North Carolina State; M
-Richmond Kickers; Scott Pearson; American; F
-Rochester Raging Rhinos; Josh Freeman; Syracuse;  GK
-San Diego Flash; Jamie Munro; San Diego; M
-Seattle Sounders; Bill May; Washington;  GK
-Staten Island Vipers; Kevin Daly; Saint John's; D
-Toronto Lynx; Theo Zagar; Toronto;  GK
-Vancouver 86ers; Alfredo Vallente; Alfa High School; M
-Worcester Wildfire; Matt Hammond; Boston; M
+Albuquerque Geckos; Justin Sells; F; New Mexico
+San Francisco Bay Seals; Keith Ratzburg; M; South Florida
+California Jaguars; Mario Sanchez; M; Fresno State
+Charleston Battery; Clint Mathis; M; South Carolina
+Atlanta Ruckus; Mike Burrell;  GK; Georgia Southern
+Cincinnati Riverhawks; Jason Began; M; Bowling Green
+Connecticut Wolves; Chris Houser; D; Southern Connecticut State
+El Paso Patriots; Daniel Hernandez; M;  Southern Methodist
+Long Island Rough Riders; Steve Franzke; D; American
+Minnesota Thunder; Leo Cullen; D; Maryland
+Jacksonville Cyclones; Jeff Cunningham; F; South Florida
+Long Island Rough Riders; Jesse Van Saun; F; Saint John's
+Milwaukee Rampage; Drew Watzka; F; Marquette
+Minnesota Thunder; Dan Welch;  K;  Macalester College
+Montreal Impact; Sandro Grande; M;  Vanier College
+Nashville Metros; Tony Kuhn; F; Vanderbilt
+New Orleans Storm; Lester Felician; F; Jackson (PDSL)
+Orange County Zodiac; Sheldon Thomas; F; Cal State-Fullerton
+Raleigh Flyers; Pablo Mastroeni; M; North Carolina State
+Richmond Kickers; Scott Pearson; F; American
+Rochester Raging Rhinos; Josh Freeman;  GK; Syracuse
+San Diego Flash; Jamie Munro; M; San Diego
+Seattle Sounders; Bill May;  GK; Washington
+Staten Island Vipers; Kevin Daly; D; Saint John's
+Toronto Lynx; Theo Zagar;  GK; Toronto
+Vancouver 86ers; Alfredo Vallente; M; Alfa High School
+Worcester Wildfire; Matt Hammond; M; Boston
 
 Round: Second Round
 
@@ -189,7 +189,7 @@ Connecticut Wolves; Joe Murray; Franklin Pierce; M
 Indiana Blast; Andrew Parrish; Indiana; D
 Maryland Mania; Trevor Ellis; American; M
 Pittsburgh Riverhounds; Bobby Meyer; Dartmouth; D
-Lehighh Valley Steam; Les Lunsford; Richard Stockton;son: ; M
+Lehigh Valley Steam; Les Lunsford; Richard Stockton; M
 
 Season: 2000
 
@@ -243,7 +243,7 @@ Raleigh Capital Express; Troy Garner; Duke; F
 Pittsburgh Riverhounds; Matt Chavlovich; Connecticut; GK
 Orange County Waves; Thorsten Damm; Birmingham Southern; D
 Long Island Rough Riders; Pawel Krakowiak; St. John's; D
-Hershey Wildcats; Leidy Klotz; Lafayette; ; M
+Hershey Wildcats; Leidy Klotz; Lafayette; M
 Seattle Sounders; J.P. Capadano; Oregon State; F
 Vancouver 86ers; Neal Yeung; Simon Fraser; M
 Minnesota Thunder; Nate Winkel; Marquette; F
@@ -436,7 +436,7 @@ Virginia Beach Mariners; Phil Hucles;  William & May; D
 Portland Timbers; Alan Gordon;  Oregon State Universiy; F
 Rochester Rhinos; Perek Belleh;  University of Rhode Islad; F
 Charleston Battery; Joseph Ngwenya; Costal Carolina University; F
-Vancouver Whitecaps; Kevin Crouch; University of Washington;  F;
+Vancouver Whitecaps; Kevin Crouch; University of Washington;  F
 Seattle Sounders; Troy Ready; University of Washington; M
 Minnesota Thunder; Brian Roberts; Yale University; D
 Montreal Impact; Adrian Cann; University of Louisville;  DM
@@ -504,7 +504,7 @@ Toronto Lynx; Costa Kyritsis; M; Hartford University
 Virginia Beach Mariners; Nathan Micklos; F; Rochester University
 Minnesota Thunder; Richard Mupfudze; F/M; University of Western Kentucky
 Rochester Rhinos; Danny Kramer; F/M; Duke University
-Atlanta Silverbacks; Omar Jarun; F; Dayton University;
+Atlanta Silverbacks; Omar Jarun; F; Dayton University
 Puerto Rico Islanders; Chris Lancos; D; University of Maryland
 Portland Timbers; Anthony Noriega; D; George Mason
 Seattle Sounders; Bobby McAlister; F; Seattle University
