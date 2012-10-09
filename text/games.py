@@ -208,6 +208,13 @@ class GeneralProcessor(object):
             if md:
                 return self.process_game_fields(fields)
 
+            try:
+                year = int(time_string)
+                return self.process_game_fields(fields)
+            except ValueError:
+                pass
+                
+
         # Goals is the final fallback.
         try:
             team1_goals, team2_goals = line.split(";")
@@ -232,6 +239,9 @@ class GeneralProcessor(object):
         # Get the date and time.
         time_string = fields[0].strip()
 
+        # Assume start time not included.
+        start = None
+
         # Try datetime first, if it doesn't work, try time.
         m = self.DATE_TIME_RE.match(time_string)
         if m:
@@ -240,14 +250,21 @@ class GeneralProcessor(object):
             else: 
                 month, day, year, start = m.groups()
         else:
+
             try:
+                # Where is this?
                 if self.date_style == 'day first':
                     day, month, year = self.DATE_RE.match(time_string).groups()
                 else:
                     month, day, year = self.DATE_RE.match(time_string).groups()
             except:
-                import pdb; pdb.set_trace()
-            start = None
+                try:
+                    year = int(time_string)
+                    month = day = 1
+                except ValueError:
+                    import pdb; pdb.set_trace()
+
+
 
         # 
         try:
