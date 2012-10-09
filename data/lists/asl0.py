@@ -22,3 +22,16 @@ d = {
         ],
 
 }
+
+
+
+esl = {
+    'competition': 'Eastern Soccer League (1928-1929)',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        ('1928-1929 First Half', 'Bethlehem Steel'),        
+        ('1928-1929 Second Half', 'Bethlehem Steel'),
+        ],
+
+}

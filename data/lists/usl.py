@@ -339,7 +339,7 @@ usl_1 = {
 
 usl_2 = {
     'competition': 'USL Second Division',
-    'team_data': [],
+    'team_data': ['Champion'],
 
     'Champion': [
         (1995, 'Long Island Rough Riders'),

@@ -65,6 +65,9 @@ def process_nasl_awards():
     from soccerdata.data.lists.nasl import d
     return process_awards(d)
 
+
+
+
 def process_usa_awards():
     from soccerdata.data.lists.nasl import usa
     return process_awards(usa)
@@ -137,6 +140,12 @@ def process_asl2_awards():
 def process_asl_awards():
     from soccerdata.data.lists.asl0 import d
     return process_awards(d)
+
+
+def process_esl_awards():
+    from soccerdata.data.lists.asl0 import esl
+    return process_awards(esl)
+
 
 
 def process_ncaa_awards():

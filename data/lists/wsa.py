@@ -21,6 +21,7 @@ d = {
         (1987, 'San Diego Nomads'),
         (1988, 'Seattle Sounders'),
         (1989, 'San Diego Nomads'),
+        (1990, 'San Francisco Bay Blackhawks'),
         ],
 
     'Best XI': [
