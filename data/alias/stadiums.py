@@ -20,6 +20,11 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Lehigh Stadium': 'Taylor Field',
+    'Starfire Complex': 'Starfire Sports Complex',
+    'Rochester Rhinos Stadium': 'Sahlen\'s Stadium',
+    'RE/MAX Greater Atlanta Stadium': 'Atlanta Silverbacks Park',
+    'Silverbacks Stadium': 'Atlanta Silverbacks Park',
     'Cal State Fullerton Titan Stadium': 'Titan Stadium',
     'Sherbeck Field': 'Hal Sherbeck Field',
     'Legion Sports Complex': 'Legion Stadium',
@@ -120,6 +125,12 @@ stadiums = {
 
     'Carl Lewis Field': 'Carl Lewis Track & Field Stadium',
     'Centre Claude-Robillard': 'Complexe Sportif Claude-Robillard',
+    'Claude Robillard Sports Complex': 'Complexe Sportif Claude-Robillard',
+    'Centennial Stadium': 'Centennial Park Stadium',
+    'Seahawks Stadium': 'CenturyLink Field',
+    'P & C Stadium': 'Alliance Bank Stadium',
+    'Uihlein Park': 'Uihlein Soccer Park',
+    'Kuntz Memorial Stadium': 'Kuntz Stadium',
     'Crew Stadium': 'Columbus Crew Stadium',
     'Stade Saputo': 'Saputo Stadium',
     'JELD-WEN Field': 'Jeld-Wen Field',

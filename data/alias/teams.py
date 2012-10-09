@@ -6,6 +6,9 @@ from soccerdata.mongo import soccer_db
 teams = {}
 
 leach = {
+
+    'Real Maryland Monarchs FC': 'Real Maryland Monarchs',
+
     'Al Ahly': 'Al Ahly SC',
     'Al Ahly Sporting Club': 'Al Ahly SC',
 
@@ -90,6 +93,7 @@ leach = {
     'Rio Grande Valley Grandes FC': 'Rio Grande Valley Grandes',
     'Antigua Barracuda': 'Antigua Barracuda FC',
     'Team Sacramento': 'Sacramento Geckos',
+    'Albuquerque Geckos': 'Sacramento Geckos',
     'Dallas Toros': 'Dallas-Fort Worth Toros',
     'DFW Toros': 'Dallas-Fort Worth Toros',
     'Victoria Riptide': 'Victoria Riptides',
@@ -811,10 +815,15 @@ oteams = {
 
     'Eintracht S.C.': 'S.C. Eintracht',
 
-    'Chicago Eagles': 'A.A.C. Eagles',
 
-    'New York Hungarian': 'NY Hungaria',
-    'New York Hungarians': 'NY Hungaria',
+
+    'Hungaria': 'New York Hungaria',     
+    'NY Hungaria': 'New York Hungaria',
+    'New York Hungarian': 'New York Hungaria',
+    'New York Hungarians': 'New York Hungaria',
+    'Hungaria SC (East NY)': 'New York Hungaria',
+    'Hungaria SC': 'New York Hungaria',
+
 
 
     'Milwaukee Bavarian Blue Ribbon': 'Milwaukee Bavarians',
@@ -866,7 +875,11 @@ oteams = {
     'Bruell Insurance': 'Cleveland Bruell Insurance',
     'Cleveland Bruells': 'Cleveland Bruell Insurance',
     
-    'Galicia F.C.': 'Galicia FC',
+    'Galicia F.C.': 'New York Galicia',
+    'Galicia FC': 'New York Galicia',
+    'NY Galicia': 'New York Galicia',
+    'Galicia SC': 'Brookhattan',
+    'Galicia-Honduras': 'Brookhattan',
     'D.S.C. Brooklyn': 'DSC Brooklyn',
     'Centro-Hispano': 'Centro Hispano',
 
@@ -884,7 +897,7 @@ oteams = {
 
     'Hatikvoh': 'Hatikvoh FC',
     'German Hungarian S.C. (NYC)': 'German Hungarian SC',
-    'Hungaria SC': 'NY Hungaria',
+
 
     'Becks German American S.C. (Buffalo)': 'Becks German American SC (Buffalo)',
 }
@@ -921,6 +934,7 @@ asl2 = {
 
     'Connecticut Bi-Centennials': 'Connecticut Bicentennials',
     'Hartford Bi-Centennials': 'Connecticut Bicentennials',
+    'Hartford Bicentennials': 'Connecticut Bicentennials',
     'Atlanta Apollos': 'Atlanta Chiefs',
 
     'Boston Metros': 'Boston Tigers',
@@ -937,9 +951,10 @@ asl2 = {
     'Inter SC': 'Brooklyn Italians',
     'St. Mary\'s Celtic': 'Brooklyn Celtic',
 
-    'Galicia SC': 'Brookhattan',
+
+    'Brookhattan-Galicia': 'Brookhattan',
     'Brookhattan Galicia': 'Brookhattan',
-    'Galicia-Honduras': 'Brookhattan',
+
     'Cleveland Stars': 'Cleveland Cobras',
     'Georgia Generals': 'Cleveland Cobras',
     'Hartford SC': 'Hartford Kings',
@@ -1006,7 +1021,8 @@ misc = {
     'Montclair': 'Fontana Falcons',
     'NY/NJ Stallions': 'New Jersey Stallions',
     'Newark SC': 'Newark S.C.',
-    'New York Hungaria': 'NY Hungaria',
+
+
     'New York National Giants': 'New York Giants',
 
     'Gjoa SC': 'SC Gjoa',
@@ -1035,7 +1051,7 @@ misc = {
     'St. Michaels': 'St. Michael\'s',
     'St. Michael’s': 'St. Michael\'s',
 
-    'Brookhattan-Galicia': 'Brookhattan Galicia',
+
     'IRT Strollers': 'I.R.T. Strollers',
     'Pawtucket FC': 'Pawtucket F.C.',
     'SC Eintracht':'S.C. Eintracht',
@@ -1249,11 +1265,10 @@ misc = {
 
     'CD Mexico (North California)': 'El Farolito Soccer Club',
     'AAC Eagles': 'A.A.C. Eagles',
+    'Chicago Eagles': 'A.A.C. Eagles',
 
     'Syracus Suns': 'Syracuse Suns',
     
-
-
     'Harmarville': 'Harmarville Hurricanes',
 
     'Kutis SC': 'St. Louis Kutis',
@@ -1267,7 +1282,6 @@ misc = {
     'Trintoc FC': 'United Petrotrin',
 
     'Ukrainian Nationals': 'Philadelphia Ukrainians',
-    'Hungaria SC (East NY)': 'New York Hungaria',
 
 
 
@@ -1353,7 +1367,7 @@ misc = {
     'Uhrik Truckers': 'Philadelphia German Americans',
 
     # Not sure of these.
-    'Hungaria': 'New York Hungaria', 
+
 
     
 

@@ -24,8 +24,11 @@ full_alias = {
     'Recopa CONCACAF': 'CONCACAF Cup Winners Cup',
     'CONCACAF Champions Cup': 'CONCACAF Champions\' Cup',
 
-
     'Premier Soccer Alliance': 'World Indoor Soccer League',
+
+    'World Cup': 'FIFA World Cup',
+    'Confederations Cup': 'FIFA Confederations Cup',
+
 }
 
 aliases.update(full_alias)
