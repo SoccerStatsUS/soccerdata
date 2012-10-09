@@ -147,6 +147,7 @@ stadiums = {
     'Estadío Silvio Cator': 'Stade Sylvio Cator',
     'Estadío Tropical': 'Estadio Pedro Marrero',
     
+    'Sun Bowl (UTEP)': 'Sun Bowl Stadium',
     'Sullivan Stadium': 'Foxboro Stadium',
     'Al Lang Stadium': 'Progress Energy Park',
     'Al Lang Field': 'Progress Energy Park',

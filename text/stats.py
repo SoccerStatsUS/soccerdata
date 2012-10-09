@@ -31,7 +31,8 @@ def process_usl_stats():
     l.extend(process_stats("usl1_20082009.csv", "USL First Division"))
     l.extend(process_stats("psl_stats.csv", "USL Second Division"))
     l.extend(process_stats("usl2_20052009.csv", "USL Second Division"))
-    l.extend(process_stats("usl_pro_2011.csv", "USL Pro"))
+    l.extend(process_stats("usl2/2011", "USL Pro"))
+    l.extend(process_stats("usl2/2012", "USL Pro"))
     #l.extend(process_stats("pdl_stats.csv", "USL Premier Developmental League"))
     return l
     
