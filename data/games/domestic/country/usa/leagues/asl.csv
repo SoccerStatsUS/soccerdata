@@ -3251,7 +3251,7 @@ Brooklyn Hakoah	1929 Fall	ASL		25	New Bedford	h	4,1
 Brooklyn Hakoah	1929 Fall	ASL		28	NY Nationals	a	4,5		
 Brooklyn Hakoah	1929 Fall	ASL	9	2	Fall River Marksmen	h	3,6		
 Brooklyn Hakoah	1929 Fall	ASL		5	Fall River Marksmen	a	2,5		
-Brooklyn Hakoah	1929 Fall	ASL		14	Philadelphia 1929 Fall	a	1,2		
+Brooklyn Hakoah	1929 Fall	ASL		14	Philadelphia Field Club	a	1,2		
 Brooklyn Hakoah	1929 Fall	ASL		15	NY Nationals	h	1,5		
 Brooklyn Hakoah	1929 Fall	ASL		21	New Bedford	a	1,2		
 Brooklyn Hakoah	1929 Fall	ASL		22	Providence	a	3,4		
@@ -3269,8 +3269,8 @@ Brooklyn Wanderers	1929 Fall	ASL		31	NY Nationals	a	4,3
 Brooklyn Wanderers	1929 Fall	ASL	9	1	Boston	h	0,2		
 Brooklyn Wanderers	1929 Fall	ASL		7	Boston	a	0,4		
 Brooklyn Wanderers	1929 Fall	ASL		8	New Bedford	h	2,4		
-Brooklyn Wanderers	1929 Fall	ASL		15	Philadelphia 1929 Fall	h	0,0		
-Brooklyn Wanderers	1929 Fall	ASL		21	Philadelphia 1929 Fall	a	4,3		
+Brooklyn Wanderers	1929 Fall	ASL		15	Philadelphia Field Club	h	0,0		
+Brooklyn Wanderers	1929 Fall	ASL		21	Philadelphia Field Club	a	4,3		
 Brooklyn Wanderers	1929 Fall	ASL		22	Pawtucket	h	0,2		
 Brooklyn Wanderers	1929 Fall	ASL		28	New Bedford	a	4,2		
 Brooklyn Wanderers	1929 Fall	ASL		29	NY Nationals	h	1,3		
@@ -3333,8 +3333,8 @@ New York Nationals	1929 Fall	ASL	9	2	Bridgeport	a	3,1
 New York Nationals	1929 Fall	ASL		8	Boston	h	2,4		
 New York Nationals	1929 Fall	ASL		11	Bridgeport	h	5,1		
 New York Nationals	1929 Fall	ASL		15	Hakoah	a	5,1		
-New York Nationals	1929 Fall	ASL		22	Philadelphia 1929 Fall	h	2,2		
-New York Nationals	1929 Fall	ASL		28	Philadelphia 1929 Fall	a	4,1		
+New York Nationals	1929 Fall	ASL		22	Philadelphia Field Club	h	2,2		
+New York Nationals	1929 Fall	ASL		28	Philadelphia Field Club	a	4,1		
 New York Nationals	1929 Fall	ASL		29	Brooklyn	a	3,1		
 New York Nationals	1929 Fall	ASL	10	3	Hakoah	h	5,2		
 New York Nationals	1929 Fall	ASL		5	New Bedford	a	1,2		
@@ -3361,14 +3361,14 @@ Pawtucket Rangers	1929 Fall	ASL		12	Hakoah	h	4,3
 Pawtucket Rangers	1929 Fall	ASL		13	New Bedford	a	3,1		
 Pawtucket Rangers	1929 Fall	ASL		19	NY Nationals	h	1,3		
 Pawtucket Rangers	1929 Fall	ASL		20	NY Nationals	a	2,1		
-Philadelphia 1929 Fall	1929 Fall	ASL	9	14	Hakoah	h	2,1		
-Philadelphia 1929 Fall	1929 Fall	ASL		15	Brooklyn	a	0,0		
-Philadelphia 1929 Fall	1929 Fall	ASL		21	Brooklyn	h	3,4		
-Philadelphia 1929 Fall	1929 Fall	ASL		22	NY Nationals	a	2,2		
-Philadelphia 1929 Fall	1929 Fall	ASL		28	NY Nationals	h	1,4		
-Philadelphia 1929 Fall	1929 Fall	ASL		29	Providence	a	0,6		
-Philadelphia 1929 Fall	1929 Fall	ASL	10	5	Providence	h	4,1		
-Philadelphia 1929 Fall	1929 Fall	ASL		12	Boston	h	1,4		
+Philadelphia Field Club	1929 Fall	ASL	9	14	Hakoah	h	2,1		
+Philadelphia Field Club	1929 Fall	ASL		15	Brooklyn	a	0,0		
+Philadelphia Field Club	1929 Fall	ASL		21	Brooklyn	h	3,4		
+Philadelphia Field Club	1929 Fall	ASL		22	NY Nationals	a	2,2		
+Philadelphia Field Club	1929 Fall	ASL		28	NY Nationals	h	1,4		
+Philadelphia Field Club	1929 Fall	ASL		29	Providence	a	0,6		
+Philadelphia Field Club	1929 Fall	ASL	10	5	Providence	h	4,1		
+Philadelphia Field Club	1929 Fall	ASL		12	Boston	h	1,4		
 Providence Gold Bugs	1929 Fall	ASL	8	10	Pawtucket	h	2,1		
 Providence Gold Bugs	1929 Fall	ASL		14	New Bedford	a	3,2		
 Providence Gold Bugs	1929 Fall	ASL		18	NY Nationals	h	4,1		
@@ -3382,9 +3382,9 @@ Providence Gold Bugs	1929 Fall	ASL		15	Boston	h	0,0
 Providence Gold Bugs	1929 Fall	ASL		21	Pawtucket	a	0,1		
 Providence Gold Bugs	1929 Fall	ASL		22	Hakoah	h	4,3		
 Providence Gold Bugs	1929 Fall	ASL		27	Pawtucket	h	4,0		
-Providence Gold Bugs	1929 Fall	ASL		29	Philadelphia 1929 Fall	h	6,0		
+Providence Gold Bugs	1929 Fall	ASL		29	Philadelphia Field Club	h	6,0		
 Providence Gold Bugs	1929 Fall	ASL	10	3	New Bedford	h	1,0		
-Providence Gold Bugs	1929 Fall	ASL		5	Philadelphia 1929 Fall	a	1,4		
+Providence Gold Bugs	1929 Fall	ASL		5	Philadelphia Field Club	a	1,4		
 Providence Gold Bugs	1929 Fall	ASL		6	Brooklyn	a	2,0		
 Providence Gold Bugs	1929 Fall	ASL		9	Fall River Marksmen	a	0,4		
 Providence Gold Bugs	1929 Fall	ASL		13	Fall River Marksmen	h	3,0		
@@ -3998,308 +3998,308 @@ Providence Gold Bugs	1930 Fall	ASL	1	4	New York SC	h	0,1
 Providence Gold Bugs	1930	US Open Cup	1	11	Pawtucket	h	1,1		
 Providence Gold Bugs	1930	US Open Cup		25	Fall River Marksmen	h	2,2		
 Providence Gold Bugs	1930	US Open Cup	2	1	Fall River Marksmen	a	1,2		
-Boston Bears	1931 Fall	ASL	2	14	Hakoah	h	3,6		
-Boston Bears	1931 Fall	ASL	3	7	Pawtucket	h	1,3		
-Boston Bears	1931 Fall	ASL		14	Fall River Football Club	h	3,1		
-Boston Bears	1931 Fall	ASL		21	Brooklyn	h	0,3		
-Boston Bears	1931 Fall	ASL		28	New Bedford	a	1,6		
-Boston Bears	1931 Fall	ASL		29	NY Giants	a	1,8		
-Boston Bears	1931 Fall	ASL	4	4	NY Giants	h	1,4		
-Brooklyn Wanderers	1931 Fall	ASL	3	14	NY Yankees	a	0,5		
-Brooklyn Wanderers	1931 Fall	ASL		15	Pawtucket	h	0,1		
-Brooklyn Wanderers	1931 Fall	ASL		21	Boston	a	3,0		
-Brooklyn Wanderers	1931 Fall	ASL		22	Fall River Football Club	a	1,1		
-Brooklyn Wanderers	1931 Fall	ASL		29	Hakoah	h	1,1		
-Brooklyn Wanderers	1931 Fall	ASL	4	5	Newark	a	3,2		
-Brooklyn Wanderers	1931 Fall	ASL		11	Fall River Football Club	h	2,1		
-Brooklyn Wanderers	1931 Fall	ASL		12	Hakoah	a	1,2		
-Brooklyn Wanderers	1931 Fall	ASL		18	Pawtucket	a	3,2		
-Brooklyn Wanderers	1931 Fall	ASL		19	NY Giants	h	4,3		
-Brooklyn Wanderers	1931 Fall	ASL		26	NY Giants	a	1,4		
-Brooklyn Wanderers	1931 Fall	ASL	5	3	Pawtucket	h	2,3		
-Brooklyn Wanderers	1931 Fall	ASL		9	Newark	h	3,0		
-Brooklyn Wanderers	1931 Fall	ASL		17	NY Yankees	h	3,2		
-Brooklyn Wanderers	1931 Fall	ASL		23	Hakoah	a	2,1		
-Brooklyn Wanderers	1931 Fall	ASL		31	Newark	h	4,0		
+Boston Bears	1931 Spring	ASL	2	14	Hakoah	h	3,6		
+Boston Bears	1931 Spring	ASL	3	7	Pawtucket	h	1,3		
+Boston Bears	1931 Spring	ASL		14	Fall River Football Club	h	3,1		
+Boston Bears	1931 Spring	ASL		21	Brooklyn	h	0,3		
+Boston Bears	1931 Spring	ASL		28	New Bedford	a	1,6		
+Boston Bears	1931 Spring	ASL		29	NY Giants	a	1,8		
+Boston Bears	1931 Spring	ASL	4	4	NY Giants	h	1,4		
+Brooklyn Wanderers	1931 Spring	ASL	3	14	NY Yankees	a	0,5		
+Brooklyn Wanderers	1931 Spring	ASL		15	Pawtucket	h	0,1		
+Brooklyn Wanderers	1931 Spring	ASL		21	Boston	a	3,0		
+Brooklyn Wanderers	1931 Spring	ASL		22	Fall River Football Club	a	1,1		
+Brooklyn Wanderers	1931 Spring	ASL		29	Hakoah	h	1,1		
+Brooklyn Wanderers	1931 Spring	ASL	4	5	Newark	a	3,2		
+Brooklyn Wanderers	1931 Spring	ASL		11	Fall River Football Club	h	2,1		
+Brooklyn Wanderers	1931 Spring	ASL		12	Hakoah	a	1,2		
+Brooklyn Wanderers	1931 Spring	ASL		18	Pawtucket	a	3,2		
+Brooklyn Wanderers	1931 Spring	ASL		19	NY Giants	h	4,3		
+Brooklyn Wanderers	1931 Spring	ASL		26	NY Giants	a	1,4		
+Brooklyn Wanderers	1931 Spring	ASL	5	3	Pawtucket	h	2,3		
+Brooklyn Wanderers	1931 Spring	ASL		9	Newark	h	3,0		
+Brooklyn Wanderers	1931 Spring	ASL		17	NY Yankees	h	3,2		
+Brooklyn Wanderers	1931 Spring	ASL		23	Hakoah	a	2,1		
+Brooklyn Wanderers	1931 Spring	ASL		31	Newark	h	4,0		
 Brooklyn Wanderers	1931	US Open Cup	1	11	NY Giants	a	1,5		
 Brooklyn Wanderers	1931	US Open Cup		18	Hakoah		0,1		
 Brooklyn Wanderers	1931	US Open Cup		25	Hakoah		1,2		
 Brooklyn Wanderers	1931	US Open Cup	2	1	NY Giants	h	4,3		
 Brooklyn Wanderers	1931	US Open Cup		8	New York SC	h	3,1		
 Brooklyn Wanderers	1931	US Open Cup		15	New York SC	a	2,4		
-Fall River Football Club	1931 Fall	ASL	3	1	Hakoah	h	3,1		
-Fall River Football Club	1931 Fall	ASL		7	NY Yankees	a	1,4		
-Fall River Football Club	1931 Fall	ASL		14	Boston	a	1,3		
-Fall River Football Club	1931 Fall	ASL		15	New Bedford	a	2,1		
-Fall River Football Club	1931 Fall	ASL		21	Hakoah	a	1,2		
-Fall River Football Club	1931 Fall	ASL		22	Brooklyn	h	1,1		
-Fall River Football Club	1931 Fall	ASL		28	Pawtucket	a	2,1		
-Fall River Football Club	1931 Fall	ASL	4	5	NY Giants	h	0,2		
-Fall River Football Club	1931 Fall	ASL		11	Brooklyn	a	1,2		
-Fall River Football Club	1931 Fall	ASL		12	NY Giants	a	2,3		
-Fall River Football Club	1931 Fall	ASL		19	New Bedford	h	4,2		
-Fall River Football Club	1931 Fall	ASL		28	NY Yankees	h	2,1		
-Fall River Football Club	1931 Fall	ASL	5	4	Pawtucket	h	3,2		
-Fall River Football Club	1931 Fall	ASL		10	Newark	h	0,0		
-Fall River Football Club	1931 Fall	ASL		16	NY Yankees	a	1,1		
-Fall River Football Club	1931 Fall	ASL		17	Hakoah	h	3,0		
-Fall River Football Club	1931 Fall	ASL		24	NY Yankees	h	3,0		
-Hakoah All-Stars	1931 Fall	ASL	2	28	Boston	a	6,3		
-Hakoah All-Stars	1931 Fall	ASL	3	1	Fall River Football Club	a	1,3		
-Hakoah All-Stars	1931 Fall	ASL		21	Fall River Football Club	h	2,1		
-Hakoah All-Stars	1931 Fall	ASL		28	NY Yankees	h	0,2		
-Hakoah All-Stars	1931 Fall	ASL		29	Brooklyn	a	1,1		
-Hakoah All-Stars	1931 Fall	ASL	4	4	Pawtucket	a	1,6		
-Hakoah All-Stars	1931 Fall	ASL		5	New Bedford	h	3,2		
-Hakoah All-Stars	1931 Fall	ASL		12	Brooklyn	h	2,1		
-Hakoah All-Stars	1931 Fall	ASL		18	New Bedford	a	0,1		
-Hakoah All-Stars	1931 Fall	ASL		19	Newark	a	0,3		
-Hakoah All-Stars	1931 Fall	ASL		25	NY Giants	h	0,1		
-Hakoah All-Stars	1931 Fall	ASL	5	3	NY Yankees	a	1,3		
-Hakoah All-Stars	1931 Fall	ASL		10	Pawtucket	h	1,1		
-Hakoah All-Stars	1931 Fall	ASL		16	Pawtucket	a	1,5		
-Hakoah All-Stars	1931 Fall	ASL		17	Fall River Football Club	a	0,3		
-Hakoah All-Stars	1931 Fall	ASL		23	Brooklyn	h	1,2		
-Hakoah All-Stars	1931 Fall	ASL		30	Newark	h	3,0		
-Hakoah All-Stars	1931 Fall	ASL		31	NY Giants	a	2,3		
+Fall River Football Club	1931 Spring	ASL	3	1	Hakoah	h	3,1		
+Fall River Football Club	1931 Spring	ASL		7	NY Yankees	a	1,4		
+Fall River Football Club	1931 Spring	ASL		14	Boston	a	1,3		
+Fall River Football Club	1931 Spring	ASL		15	New Bedford	a	2,1		
+Fall River Football Club	1931 Spring	ASL		21	Hakoah	a	1,2		
+Fall River Football Club	1931 Spring	ASL		22	Brooklyn	h	1,1		
+Fall River Football Club	1931 Spring	ASL		28	Pawtucket	a	2,1		
+Fall River Football Club	1931 Spring	ASL	4	5	NY Giants	h	0,2		
+Fall River Football Club	1931 Spring	ASL		11	Brooklyn	a	1,2		
+Fall River Football Club	1931 Spring	ASL		12	NY Giants	a	2,3		
+Fall River Football Club	1931 Spring	ASL		19	New Bedford	h	4,2		
+Fall River Football Club	1931 Spring	ASL		28	NY Yankees	h	2,1		
+Fall River Football Club	1931 Spring	ASL	5	4	Pawtucket	h	3,2		
+Fall River Football Club	1931 Spring	ASL		10	Newark	h	0,0		
+Fall River Football Club	1931 Spring	ASL		16	NY Yankees	a	1,1		
+Fall River Football Club	1931 Spring	ASL		17	Hakoah	h	3,0		
+Fall River Football Club	1931 Spring	ASL		24	NY Yankees	h	3,0		
+Hakoah All-Stars	1931 Spring	ASL	2	28	Boston	a	6,3		
+Hakoah All-Stars	1931 Spring	ASL	3	1	Fall River Football Club	a	1,3		
+Hakoah All-Stars	1931 Spring	ASL		21	Fall River Football Club	h	2,1		
+Hakoah All-Stars	1931 Spring	ASL		28	NY Yankees	h	0,2		
+Hakoah All-Stars	1931 Spring	ASL		29	Brooklyn	a	1,1		
+Hakoah All-Stars	1931 Spring	ASL	4	4	Pawtucket	a	1,6		
+Hakoah All-Stars	1931 Spring	ASL		5	New Bedford	h	3,2		
+Hakoah All-Stars	1931 Spring	ASL		12	Brooklyn	h	2,1		
+Hakoah All-Stars	1931 Spring	ASL		18	New Bedford	a	0,1		
+Hakoah All-Stars	1931 Spring	ASL		19	Newark	a	0,3		
+Hakoah All-Stars	1931 Spring	ASL		25	NY Giants	h	0,1		
+Hakoah All-Stars	1931 Spring	ASL	5	3	NY Yankees	a	1,3		
+Hakoah All-Stars	1931 Spring	ASL		10	Pawtucket	h	1,1		
+Hakoah All-Stars	1931 Spring	ASL		16	Pawtucket	a	1,5		
+Hakoah All-Stars	1931 Spring	ASL		17	Fall River Football Club	a	0,3		
+Hakoah All-Stars	1931 Spring	ASL		23	Brooklyn	h	1,2		
+Hakoah All-Stars	1931 Spring	ASL		30	Newark	h	3,0		
+Hakoah All-Stars	1931 Spring	ASL		31	NY Giants	a	2,3		
 Hakoah All-Stars	1931	US Open Cup	1	11	New York SC	h	2,1		
 Hakoah All-Stars	1931	US Open Cup		18	Brooklyn		1,0		
 Hakoah All-Stars	1931	US Open Cup		25	Brooklyn		2,1		
 Hakoah All-Stars	1931	US Open Cup	2	1	New York SC	a	2,1		
 Hakoah All-Stars	1931	US Open Cup		8	NY Giants	a	2,6		
 Hakoah All-Stars	1931	US Open Cup	3	15	Newark	a	0,2		
-Newark Americans	1931 Fall	ASL	3	1	New Bedford	h	5,2		
-Newark Americans	1931 Fall	ASL		29	NY Yankees	h	1,3		
-Newark Americans	1931 Fall	ASL	4	5	Brooklyn	h	2,3		
-Newark Americans	1931 Fall	ASL		11	Pawtucket	a	3,6		
-Newark Americans	1931 Fall	ASL		12	New Bedford	a	2,1		
-Newark Americans	1931 Fall	ASL		19	Hakoah	h	3,0		
-Newark Americans	1931 Fall	ASL	5	2	NY Yankees	a	0,1		
-Newark Americans	1931 Fall	ASL		3	NY Giants	h	2,1		
-Newark Americans	1931 Fall	ASL		9	Brooklyn	a	0,3		
-Newark Americans	1931 Fall	ASL		10	Fall River Football Club	a	0,0		
-Newark Americans	1931 Fall	ASL		17	NY Giants	a	0,2		
-Newark Americans	1931 Fall	ASL		30	Hakoah	a	0,3		
-Newark Americans	1931 Fall	ASL		31	Brooklyn	a	0,4		
+Newark Americans	1931 Spring	ASL	3	1	New Bedford	h	5,2		
+Newark Americans	1931 Spring	ASL		29	NY Yankees	h	1,3		
+Newark Americans	1931 Spring	ASL	4	5	Brooklyn	h	2,3		
+Newark Americans	1931 Spring	ASL		11	Pawtucket	a	3,6		
+Newark Americans	1931 Spring	ASL		12	New Bedford	a	2,1		
+Newark Americans	1931 Spring	ASL		19	Hakoah	h	3,0		
+Newark Americans	1931 Spring	ASL	5	2	NY Yankees	a	0,1		
+Newark Americans	1931 Spring	ASL		3	NY Giants	h	2,1		
+Newark Americans	1931 Spring	ASL		9	Brooklyn	a	0,3		
+Newark Americans	1931 Spring	ASL		10	Fall River Football Club	a	0,0		
+Newark Americans	1931 Spring	ASL		17	NY Giants	a	0,2		
+Newark Americans	1931 Spring	ASL		30	Hakoah	a	0,3		
+Newark Americans	1931 Spring	ASL		31	Brooklyn	a	0,4		
 Newark Americans	1931	US Open Cup	1	11	Newark Port.	h	3,0		
 Newark Americans	1931	US Open Cup		25	BS Baltimore	h	6,1		
 Newark Americans	1931	US Open Cup	3	15	Hakoah	h	2,0		
 Newark Americans	1931	US Open Cup		22	Fall River Football Club		1,6		
-New Bedford Whalers	1931 Fall	ASL	2	28	NY Giants	a	1,1		
-New Bedford Whalers	1931 Fall	ASL	3	1	Newark	a	2,5		
-New Bedford Whalers	1931 Fall	ASL		14	Pawtucket	a	0,2		
-New Bedford Whalers	1931 Fall	ASL		15	Fall River Football Club	h	1,2		
-New Bedford Whalers	1931 Fall	ASL		22	NY Giants	h	2,1		
-New Bedford Whalers	1931 Fall	ASL		28	Boston	h	5,1		
-New Bedford Whalers	1931 Fall	ASL	4	4	NY Yankees	h	1,1		
-New Bedford Whalers	1931 Fall	ASL		5	Hakoah	a	2,3		
-New Bedford Whalers	1931 Fall	ASL		12	Newark	h	1,2		
-New Bedford Whalers	1931 Fall	ASL		18	Hakoah	h	1,0		
-New Bedford Whalers	1931 Fall	ASL		19	Fall River Football Club	a	2,4		
+New Bedford Whalers	1931 Spring	ASL	2	28	NY Giants	a	1,1		
+New Bedford Whalers	1931 Spring	ASL	3	1	Newark	a	2,5		
+New Bedford Whalers	1931 Spring	ASL		14	Pawtucket	a	0,2		
+New Bedford Whalers	1931 Spring	ASL		15	Fall River Football Club	h	1,2		
+New Bedford Whalers	1931 Spring	ASL		22	NY Giants	h	2,1		
+New Bedford Whalers	1931 Spring	ASL		28	Boston	h	5,1		
+New Bedford Whalers	1931 Spring	ASL	4	4	NY Yankees	h	1,1		
+New Bedford Whalers	1931 Spring	ASL		5	Hakoah	a	2,3		
+New Bedford Whalers	1931 Spring	ASL		12	Newark	h	1,2		
+New Bedford Whalers	1931 Spring	ASL		18	Hakoah	h	1,0		
+New Bedford Whalers	1931 Spring	ASL		19	Fall River Football Club	a	2,4		
 New Bedford Whalers	1931	US Open Cup	1	11	Fall River Football Club	a	1,1		
 New Bedford Whalers	1931	US Open Cup		17	Fall River Football Club	h	0,4		
 New Bedford Whalers	1931	US Open Cup		25	Pawtucket	h	4,4		
-New York Giants	1931 Fall	ASL	2	28	New Bedford	h	1,1		
-New York Giants	1931 Fall	ASL	3	15	NY Yankees	h	2,4		
-New York Giants	1931 Fall	ASL		21	Pawtucket	a	1,5		
-New York Giants	1931 Fall	ASL		22	New Bedford	a	1,2		
-New York Giants	1931 Fall	ASL		29	Boston	h	8,1		
-New York Giants	1931 Fall	ASL	4	4	Boston	a	4,1		
-New York Giants	1931 Fall	ASL		5	Fall River Football Club	a	2,0		
-New York Giants	1931 Fall	ASL		12	Fall River Football Club	h	3,2		
-New York Giants	1931 Fall	ASL		19	Brooklyn	a	3,4		
-New York Giants	1931 Fall	ASL		25	Hakoah	a	1,0		
-New York Giants	1931 Fall	ASL		26	Brooklyn	h	4,1		
-New York Giants	1931 Fall	ASL	5	3	Newark	a	1,2		
-New York Giants	1931 Fall	ASL		9	Pawtucket	h	1,0		
-New York Giants	1931 Fall	ASL		10	NY Yankees	a	3,2		
-New York Giants	1931 Fall	ASL		17	Newark	h	2,0		
-New York Giants	1931 Fall	ASL		30	Pawtucket	a	1,1		
-New York Giants	1931 Fall	ASL		31	Hakoah	h	3,2		
+New York Giants	1931 Spring	ASL	2	28	New Bedford	h	1,1		
+New York Giants	1931 Spring	ASL	3	15	NY Yankees	h	2,4		
+New York Giants	1931 Spring	ASL		21	Pawtucket	a	1,5		
+New York Giants	1931 Spring	ASL		22	New Bedford	a	1,2		
+New York Giants	1931 Spring	ASL		29	Boston	h	8,1		
+New York Giants	1931 Spring	ASL	4	4	Boston	a	4,1		
+New York Giants	1931 Spring	ASL		5	Fall River Football Club	a	2,0		
+New York Giants	1931 Spring	ASL		12	Fall River Football Club	h	3,2		
+New York Giants	1931 Spring	ASL		19	Brooklyn	a	3,4		
+New York Giants	1931 Spring	ASL		25	Hakoah	a	1,0		
+New York Giants	1931 Spring	ASL		26	Brooklyn	h	4,1		
+New York Giants	1931 Spring	ASL	5	3	Newark	a	1,2		
+New York Giants	1931 Spring	ASL		9	Pawtucket	h	1,0		
+New York Giants	1931 Spring	ASL		10	NY Yankees	a	3,2		
+New York Giants	1931 Spring	ASL		17	Newark	h	2,0		
+New York Giants	1931 Spring	ASL		30	Pawtucket	a	1,1		
+New York Giants	1931 Spring	ASL		31	Hakoah	h	3,2		
 New York Giants	1931	US Open Cup	1	11	Brooklyn	h	5,1		
 New York Giants	1931	US Open Cup		18	New York SC		1,5		
 New York Giants	1931	US Open Cup		25	New York SC		1,1		
 New York Giants	1931	US Open Cup	2	1	Brooklyn	a	3,4		
 New York Giants	1931	US Open Cup		8	Hakoah	h	6,2		
-New York Yankees	1931 Fall	ASL	2	28	Pawtucket	a	3,3		
-New York Yankees	1931 Fall	ASL	3	1	Pawtucket	h	5,1		
-New York Yankees	1931 Fall	ASL		7	Fall River Football Club	h	4,1		
-New York Yankees	1931 Fall	ASL		14	Brooklyn	h	5,0		
-New York Yankees	1931 Fall	ASL		15	NY Giants	a	4,2		
-New York Yankees	1931 Fall	ASL		28	Hakoah	a	2,0		
-New York Yankees	1931 Fall	ASL		29	Newark	a	3,1		
-New York Yankees	1931 Fall	ASL	4	4	New Bedford	a	1,1		
-New York Yankees	1931 Fall	ASL		25	Pawtucket	h	3,2		
-New York Yankees	1931 Fall	ASL		28	Fall River Football Club	a	1,2		
-New York Yankees	1931 Fall	ASL	5	2	Newark	h	1,0		
-New York Yankees	1931 Fall	ASL		3	Hakoah	h	3,1		
-New York Yankees	1931 Fall	ASL		10	NY Giants	h	2,3		
-New York Yankees	1931 Fall	ASL		16	Fall River Football Club	h	1,1		
-New York Yankees	1931 Fall	ASL		17	Brooklyn	a	2,3		
-New York Yankees	1931 Fall	ASL		23	Pawtucket	a	2,3		
-New York Yankees	1931 Fall	ASL		24	Fall River Football Club	h	0,3		
-Pawtucket Rangers	1931 Fall	ASL	2	28	NY Yankees	h	3,3		
-Pawtucket Rangers	1931 Fall	ASL	3	1	NY Yankees	a	1,5		
-Pawtucket Rangers	1931 Fall	ASL		7	Boston	a	3,1		
-Pawtucket Rangers	1931 Fall	ASL		14	New Bedford	h	2,0		
-Pawtucket Rangers	1931 Fall	ASL		15	Brooklyn	a	1,0		
-Pawtucket Rangers	1931 Fall	ASL		21	NY Galicia	h	5,1		
-Pawtucket Rangers	1931 Fall	ASL		28	Fall River Football Club	h	1,2		
-Pawtucket Rangers	1931 Fall	ASL	4	4	Hakoah	h	6,1		
-Pawtucket Rangers	1931 Fall	ASL		11	Newark	h	6,3		
-Pawtucket Rangers	1931 Fall	ASL		18	Brooklyn	h	2,3		
-Pawtucket Rangers	1931 Fall	ASL		25	NY Yankees	h	2,3		
-Pawtucket Rangers	1931 Fall	ASL	5	3	Brooklyn	a	3,2		
-Pawtucket Rangers	1931 Fall	ASL		4	Fall River Football Club	a	2,3		
-Pawtucket Rangers	1931 Fall	ASL		9	NY Giants	h	0,1		
-Pawtucket Rangers	1931 Fall	ASL		10	Hakoah	a	1,1		
-Pawtucket Rangers	1931 Fall	ASL		16	Hakoah	h	5,1		
-Pawtucket Rangers	1931 Fall	ASL		23	NY Yankees	h	3,2		
-Pawtucket Rangers	1931 Fall	ASL		30	NY Giants	h	1,1		
+New York Yankees	1931 Spring	ASL	2	28	Pawtucket	a	3,3		
+New York Yankees	1931 Spring	ASL	3	1	Pawtucket	h	5,1		
+New York Yankees	1931 Spring	ASL		7	Fall River Football Club	h	4,1		
+New York Yankees	1931 Spring	ASL		14	Brooklyn	h	5,0		
+New York Yankees	1931 Spring	ASL		15	NY Giants	a	4,2		
+New York Yankees	1931 Spring	ASL		28	Hakoah	a	2,0		
+New York Yankees	1931 Spring	ASL		29	Newark	a	3,1		
+New York Yankees	1931 Spring	ASL	4	4	New Bedford	a	1,1		
+New York Yankees	1931 Spring	ASL		25	Pawtucket	h	3,2		
+New York Yankees	1931 Spring	ASL		28	Fall River Football Club	a	1,2		
+New York Yankees	1931 Spring	ASL	5	2	Newark	h	1,0		
+New York Yankees	1931 Spring	ASL		3	Hakoah	h	3,1		
+New York Yankees	1931 Spring	ASL		10	NY Giants	h	2,3		
+New York Yankees	1931 Spring	ASL		16	Fall River Football Club	h	1,1		
+New York Yankees	1931 Spring	ASL		17	Brooklyn	a	2,3		
+New York Yankees	1931 Spring	ASL		23	Pawtucket	a	2,3		
+New York Yankees	1931 Spring	ASL		24	Fall River Football Club	h	0,3		
+Pawtucket Rangers	1931 Spring	ASL	2	28	NY Yankees	h	3,3		
+Pawtucket Rangers	1931 Spring	ASL	3	1	NY Yankees	a	1,5		
+Pawtucket Rangers	1931 Spring	ASL		7	Boston	a	3,1		
+Pawtucket Rangers	1931 Spring	ASL		14	New Bedford	h	2,0		
+Pawtucket Rangers	1931 Spring	ASL		15	Brooklyn	a	1,0		
+Pawtucket Rangers	1931 Spring	ASL		21	NY Giants	h	5,1		
+Pawtucket Rangers	1931 Spring	ASL		28	Fall River Football Club	h	1,2		
+Pawtucket Rangers	1931 Spring	ASL	4	4	Hakoah	h	6,1		
+Pawtucket Rangers	1931 Spring	ASL		11	Newark	h	6,3		
+Pawtucket Rangers	1931 Spring	ASL		18	Brooklyn	h	2,3		
+Pawtucket Rangers	1931 Spring	ASL		25	NY Yankees	h	2,3		
+Pawtucket Rangers	1931 Spring	ASL	5	3	Brooklyn	a	3,2		
+Pawtucket Rangers	1931 Spring	ASL		4	Fall River Football Club	a	2,3		
+Pawtucket Rangers	1931 Spring	ASL		9	NY Giants	h	0,1		
+Pawtucket Rangers	1931 Spring	ASL		10	Hakoah	a	1,1		
+Pawtucket Rangers	1931 Spring	ASL		16	Hakoah	h	5,1		
+Pawtucket Rangers	1931 Spring	ASL		23	NY Yankees	h	3,2		
+Pawtucket Rangers	1931 Spring	ASL		30	NY Giants	h	1,1		
 Pawtucket Rangers	1931	US Open Cup	1	10	Fall River Football Club	h	3,4		
 Pawtucket Rangers	1931	US Open Cup		11	Providence	a	1,1		
 Pawtucket Rangers	1931	US Open Cup		18	Fall River Football Club	a	0,6		
 Pawtucket Rangers	1931	US Open Cup		25	New Bedford	a	4,4		
-Boston Bears	1931 Spring	ASL	9	20	New Bedford	a	0,2		
-Boston Bears	1931 Spring	ASL		26	NY Giants	h	0,2		
-Boston Bears	1931 Spring	ASL	10	3	Pawtucket	h	2,0		
-Boston Bears	1931 Spring	ASL		10	NY Americans	h	3,4		
-Boston Bears	1931 Spring	ASL		11	Newark	a	1,1		
-Boston Bears	1931 Spring	ASL		17	NY Giants	a	4,4		
-Boston Bears	1931 Spring	ASL		18	Hakoah	a	1,2		
-Boston Bears	1931 Spring	ASL		24	Newark	h	5,1		
-Boston Bears	1931 Spring	ASL		31	New Bedford	h	1,2		
-Boston Bears	1931 Spring	ASL	11	7	Pawtucket	a	1,3		
-Boston Bears	1931 Spring	ASL		8	NY Americans	a	0,2		
-Boston Bears	1931 Spring	ASL		14	Pawtucket	h	0,2		
-Boston Bears	1931 Spring	ASL		21	Hakoah	h	2,2		
-Boston Bears	1931 Spring	ASL		28	New Bedford	h	2,0		
-Boston Bears	1931 Spring	ASL	12	5	New Bedford	h	2,1		
-Boston Bears	1931 Spring	ASL		12	Pawtucket	a	2,5		
-Boston Bears	1931 Spring	ASL		19	NY Americans	h	7,2		
-Boston Bears	1931 Spring	ASL		25	NY Americans	a	1,5		
-Boston Bears	1931 Spring	ASL		26	Hakoah	a	0,4		
-Hakoah All-Stars	1931 Spring	ASL	9	20	Newark	h	2,1		
-Hakoah All-Stars	1931 Spring	ASL		27	NY Americans	a	1,0		
-Hakoah All-Stars	1931 Spring	ASL	10	4	NY Americans	h	4,1		
-Hakoah All-Stars	1931 Spring	ASL		11	NY Giants	a	3,3		
-Hakoah All-Stars	1931 Spring	ASL		17	New Bedford	a	0,3		
-Hakoah All-Stars	1931 Spring	ASL		18	Boston	h	2,1		
-Hakoah All-Stars	1931 Spring	ASL		25	Pawtucket	h	1,0		
-Hakoah All-Stars	1931 Spring	ASL		31	Pawtucket	a	2,3		
-Hakoah All-Stars	1931 Spring	ASL	11	1	New Bedford	h	0,0		
-Hakoah All-Stars	1931 Spring	ASL		8	Newark	h	4,0		
-Hakoah All-Stars	1931 Spring	ASL		15	NY Americans	h	5,1		
-Hakoah All-Stars	1931 Spring	ASL		21	Boston	a	2,2		
-Hakoah All-Stars	1931 Spring	ASL		22	New Bedford	a	1,3		
-Hakoah All-Stars	1931 Spring	ASL		27	Newark	h	5,2		
-Hakoah All-Stars	1931 Spring	ASL		29	NY Giants	h	0,3		
-Hakoah All-Stars	1931 Spring	ASL	12	5	Pawtucket	a	1,5		
-Hakoah All-Stars	1931 Spring	ASL		6	NY Americans	a	2,1		
-Hakoah All-Stars	1931 Spring	ASL		13	New Bedford	h	3,1		
-Hakoah All-Stars	1931 Spring	ASL		20	NY Giants	a	2,2		
-Hakoah All-Stars	1931 Spring	ASL		25	NY Giants	h	1,3		
-Hakoah All-Stars	1931 Spring	ASL		26	Boston	h	4,0		
-Newark Americans	1931 Spring	ASL	9	20	Hakoah	a	1,2		
-Newark Americans	1931 Spring	ASL		27	Pawtucket	h	2,5		
-Newark Americans	1931 Spring	ASL	10	4	NY Giants	a	2,4		
-Newark Americans	1931 Spring	ASL		11	Boston	h	1,1		
-Newark Americans	1931 Spring	ASL		17	Pawtucket	a	0,4		
-Newark Americans	1931 Spring	ASL		18	NY Giants	h	3,1		
-Newark Americans	1931 Spring	ASL		24	Boston	a	1,5		
-Newark Americans	1931 Spring	ASL		25	New Bedford	a	2,6		
-Newark Americans	1931 Spring	ASL	11	1	NY Americans	h	2,2		
-Newark Americans	1931 Spring	ASL		8	Hakoah	a	0,4		
-Newark Americans	1931 Spring	ASL		27	Hakoah	a	2,5		
+Boston Bears	1931 Fall	ASL	9	20	New Bedford	a	0,2		
+Boston Bears	1931 Fall	ASL		26	NY Giants	h	0,2		
+Boston Bears	1931 Fall	ASL	10	3	Pawtucket	h	2,0		
+Boston Bears	1931 Fall	ASL		10	NY Americans	h	3,4		
+Boston Bears	1931 Fall	ASL		11	Newark	a	1,1		
+Boston Bears	1931 Fall	ASL		17	NY Giants	a	4,4		
+Boston Bears	1931 Fall	ASL		18	Hakoah	a	1,2		
+Boston Bears	1931 Fall	ASL		24	Newark	h	5,1		
+Boston Bears	1931 Fall	ASL		31	New Bedford	h	1,2		
+Boston Bears	1931 Fall	ASL	11	7	Pawtucket	a	1,3		
+Boston Bears	1931 Fall	ASL		8	NY Americans	a	0,2		
+Boston Bears	1931 Fall	ASL		14	Pawtucket	h	0,2		
+Boston Bears	1931 Fall	ASL		21	Hakoah	h	2,2		
+Boston Bears	1931 Fall	ASL		28	New Bedford	h	2,0		
+Boston Bears	1931 Fall	ASL	12	5	New Bedford	h	2,1		
+Boston Bears	1931 Fall	ASL		12	Pawtucket	a	2,5		
+Boston Bears	1931 Fall	ASL		19	NY Americans	h	7,2		
+Boston Bears	1931 Fall	ASL		25	NY Americans	a	1,5		
+Boston Bears	1931 Fall	ASL		26	Hakoah	a	0,4		
+Hakoah All-Stars	1931 Fall	ASL	9	20	Newark	h	2,1		
+Hakoah All-Stars	1931 Fall	ASL		27	NY Americans	a	1,0		
+Hakoah All-Stars	1931 Fall	ASL	10	4	NY Americans	h	4,1		
+Hakoah All-Stars	1931 Fall	ASL		11	NY Giants	a	3,3		
+Hakoah All-Stars	1931 Fall	ASL		17	New Bedford	a	0,3		
+Hakoah All-Stars	1931 Fall	ASL		18	Boston	h	2,1		
+Hakoah All-Stars	1931 Fall	ASL		25	Pawtucket	h	1,0		
+Hakoah All-Stars	1931 Fall	ASL		31	Pawtucket	a	2,3		
+Hakoah All-Stars	1931 Fall	ASL	11	1	New Bedford	h	0,0		
+Hakoah All-Stars	1931 Fall	ASL		8	Newark	h	4,0		
+Hakoah All-Stars	1931 Fall	ASL		15	NY Americans	h	5,1		
+Hakoah All-Stars	1931 Fall	ASL		21	Boston	a	2,2		
+Hakoah All-Stars	1931 Fall	ASL		22	New Bedford	a	1,3		
+Hakoah All-Stars	1931 Fall	ASL		27	Newark	h	5,2		
+Hakoah All-Stars	1931 Fall	ASL		29	NY Giants	h	0,3		
+Hakoah All-Stars	1931 Fall	ASL	12	5	Pawtucket	a	1,5		
+Hakoah All-Stars	1931 Fall	ASL		6	NY Americans	a	2,1		
+Hakoah All-Stars	1931 Fall	ASL		13	New Bedford	h	3,1		
+Hakoah All-Stars	1931 Fall	ASL		20	NY Giants	a	2,2		
+Hakoah All-Stars	1931 Fall	ASL		25	NY Giants	h	1,3		
+Hakoah All-Stars	1931 Fall	ASL		26	Boston	h	4,0		
+Newark Americans	1931 Fall	ASL	9	20	Hakoah	a	1,2		
+Newark Americans	1931 Fall	ASL		27	Pawtucket	h	2,5		
+Newark Americans	1931 Fall	ASL	10	4	NY Giants	a	2,4		
+Newark Americans	1931 Fall	ASL		11	Boston	h	1,1		
+Newark Americans	1931 Fall	ASL		17	Pawtucket	a	0,4		
+Newark Americans	1931 Fall	ASL		18	NY Giants	h	3,1		
+Newark Americans	1931 Fall	ASL		24	Boston	a	1,5		
+Newark Americans	1931 Fall	ASL		25	New Bedford	a	2,6		
+Newark Americans	1931 Fall	ASL	11	1	NY Americans	h	2,2		
+Newark Americans	1931 Fall	ASL		8	Hakoah	a	0,4		
+Newark Americans	1931 Fall	ASL		27	Hakoah	a	2,5		
 Newark Americans	1931	US Open Cup	1	10	Newark Port.		4,1		
 Newark Americans	1931	US Open Cup		24	Trenton	h	2,0		
 Newark Americans	1931	US Open Cup	2	7	NY Giants	a	1,6		
-New Bedford Whalers	1931 Spring	ASL	9	19	Pawtucket	a	1,4		
-New Bedford Whalers	1931 Spring	ASL		20	Boston	h	2,0		
-New Bedford Whalers	1931 Spring	ASL		27	NY Giants	h	3,2		
-New Bedford Whalers	1931 Spring	ASL	10	4	Pawtucket	h	4,2		
-New Bedford Whalers	1931 Spring	ASL		11	NY Americans	h	5,0		
-New Bedford Whalers	1931 Spring	ASL		17	Hakoah	h	3,0		
-New Bedford Whalers	1931 Spring	ASL		18	NY Americans	a	6,1		
-New Bedford Whalers	1931 Spring	ASL		24	Pawtucket	a	5,1		
-New Bedford Whalers	1931 Spring	ASL		25	Newark	h	6,2		
-New Bedford Whalers	1931 Spring	ASL		31	Boston	a	2,1		
-New Bedford Whalers	1931 Spring	ASL	11	1	Hakoah	a	0,0		
-New Bedford Whalers	1931 Spring	ASL		8	NY Giants	h	1,2		
-New Bedford Whalers	1931 Spring	ASL		11	Pawtucket	h	4,2		
-New Bedford Whalers	1931 Spring	ASL		15	NY Giants	a	3,2		
-New Bedford Whalers	1931 Spring	ASL		22	Hakoah	h	3,1		
-New Bedford Whalers	1931 Spring	ASL		28	Boston	a	0,2		
-New Bedford Whalers	1931 Spring	ASL	12	5	Boston	a	1,2		
-New Bedford Whalers	1931 Spring	ASL		12	NY Americans	a	1,1		
-New Bedford Whalers	1931 Spring	ASL		13	Hakoah	a	1,3		
-New Bedford Whalers	1931 Spring	ASL		20	NY Americans	h	7,3		
-New Bedford Whalers	1931 Spring	ASL		27	NY Giants	a	2,3		
+New Bedford Whalers	1931 Fall	ASL	9	19	Pawtucket	a	1,4		
+New Bedford Whalers	1931 Fall	ASL		20	Boston	h	2,0		
+New Bedford Whalers	1931 Fall	ASL		27	NY Giants	h	3,2		
+New Bedford Whalers	1931 Fall	ASL	10	4	Pawtucket	h	4,2		
+New Bedford Whalers	1931 Fall	ASL		11	NY Americans	h	5,0		
+New Bedford Whalers	1931 Fall	ASL		17	Hakoah	h	3,0		
+New Bedford Whalers	1931 Fall	ASL		18	NY Americans	a	6,1		
+New Bedford Whalers	1931 Fall	ASL		24	Pawtucket	a	5,1		
+New Bedford Whalers	1931 Fall	ASL		25	Newark	h	6,2		
+New Bedford Whalers	1931 Fall	ASL		31	Boston	a	2,1		
+New Bedford Whalers	1931 Fall	ASL	11	1	Hakoah	a	0,0		
+New Bedford Whalers	1931 Fall	ASL		8	NY Giants	h	1,2		
+New Bedford Whalers	1931 Fall	ASL		11	Pawtucket	h	4,2		
+New Bedford Whalers	1931 Fall	ASL		15	NY Giants	a	3,2		
+New Bedford Whalers	1931 Fall	ASL		22	Hakoah	h	3,1		
+New Bedford Whalers	1931 Fall	ASL		28	Boston	a	0,2		
+New Bedford Whalers	1931 Fall	ASL	12	5	Boston	a	1,2		
+New Bedford Whalers	1931 Fall	ASL		12	NY Americans	a	1,1		
+New Bedford Whalers	1931 Fall	ASL		13	Hakoah	a	1,3		
+New Bedford Whalers	1931 Fall	ASL		20	NY Americans	h	7,3		
+New Bedford Whalers	1931 Fall	ASL		27	NY Giants	a	2,3		
 New Bedford Whalers	1931 Playoffs	ASL	1	1	NY Giants	h	8,3		
 New Bedford Whalers	1931 Playoffs	ASL		3	NY Giants	a	0,6		
-New York Americans	1931 Spring	ASL	9	20	NY Giants	h	2,4		
-New York Americans	1931 Spring	ASL		26	Pawtucket	a	1,5		
-New York Americans	1931 Spring	ASL		27	Hakoah	h	0,1		
-New York Americans	1931 Spring	ASL	10	4	Hakoah	a	1,4		
-New York Americans	1931 Spring	ASL		10	Boston	a	4,3		
-New York Americans	1931 Spring	ASL		11	New Bedford	a	0,5		
-New York Americans	1931 Spring	ASL		18	New Bedford	h	1,6		
-New York Americans	1931 Spring	ASL		25	NY Giants		1,2		
-New York Americans	1931 Spring	ASL	11	1	Newark	a	2,2		
-New York Americans	1931 Spring	ASL		8	Boston	h	2,0		
-New York Americans	1931 Spring	ASL		15	Hakoah	a	1,5		
-New York Americans	1931 Spring	ASL		21	Pawtucket	a	2,5		
-New York Americans	1931 Spring	ASL		22	NY Giants		3,3		
-New York Americans	1931 Spring	ASL		27	NY Giants		0,2		
-New York Americans	1931 Spring	ASL		29	Pawtucket	h	2,4		
-New York Americans	1931 Spring	ASL	12	6	Hakoah	h	1,2		
-New York Americans	1931 Spring	ASL		12	New Bedford	h	1,1		
-New York Americans	1931 Spring	ASL		19	Boston	a	2,7		
-New York Americans	1931 Spring	ASL		20	New Bedford	a	3,7		
-New York Americans	1931 Spring	ASL		25	Boston	h	5,1		
-New York Giants	1931 Spring	ASL	9	20	NY Americans	a	4,2		
-New York Giants	1931 Spring	ASL		26	Boston	a	2,0		
-New York Giants	1931 Spring	ASL		27	New Bedford	a	2,3		
-New York Giants	1931 Spring	ASL	10	4	Newark	h	4,2		
-New York Giants	1931 Spring	ASL		10	Pawtucket	a	1,4		
-New York Giants	1931 Spring	ASL		11	Hakoah	h	3,3		
-New York Giants	1931 Spring	ASL		17	Boston	h	4,4		
-New York Giants	1931 Spring	ASL		18	Newark	a	1,3		
-New York Giants	1931 Spring	ASL		25	NY Americans		2,1		
-New York Giants	1931 Spring	ASL	11	1	Pawtucket	h	2,3		
-New York Giants	1931 Spring	ASL		8	New Bedford	a	2,1		
-New York Giants	1931 Spring	ASL		15	New Bedford	h	2,3		
-New York Giants	1931 Spring	ASL		22	NY Americans		3,3		
-New York Giants	1931 Spring	ASL		27	NY Americans		2,0		
-New York Giants	1931 Spring	ASL		28	Pawtucket	a	3,0		
-New York Giants	1931 Spring	ASL		29	Hakoah	a	3,0		
-New York Giants	1931 Spring	ASL	12	13	Pawtucket	h	6,1		
-New York Giants	1931 Spring	ASL		20	Hakoah	h	2,2		
-New York Giants	1931 Spring	ASL		25	Hakoah	a	3,2		
-New York Giants	1931 Spring	ASL		27	New Bedford	h	3,2		
+New York Americans	1931 Fall	ASL	9	20	NY Giants	h	2,4		
+New York Americans	1931 Fall	ASL		26	Pawtucket	a	1,5		
+New York Americans	1931 Fall	ASL		27	Hakoah	h	0,1		
+New York Americans	1931 Fall	ASL	10	4	Hakoah	a	1,4		
+New York Americans	1931 Fall	ASL		10	Boston	a	4,3		
+New York Americans	1931 Fall	ASL		11	New Bedford	a	0,5		
+New York Americans	1931 Fall	ASL		18	New Bedford	h	1,6		
+New York Americans	1931 Fall	ASL		25	NY Giants		1,2		
+New York Americans	1931 Fall	ASL	11	1	Newark	a	2,2		
+New York Americans	1931 Fall	ASL		8	Boston	h	2,0		
+New York Americans	1931 Fall	ASL		15	Hakoah	a	1,5		
+New York Americans	1931 Fall	ASL		21	Pawtucket	a	2,5		
+New York Americans	1931 Fall	ASL		22	NY Giants		3,3		
+New York Americans	1931 Fall	ASL		27	NY Giants		0,2		
+New York Americans	1931 Fall	ASL		29	Pawtucket	h	2,4		
+New York Americans	1931 Fall	ASL	12	6	Hakoah	h	1,2		
+New York Americans	1931 Fall	ASL		12	New Bedford	h	1,1		
+New York Americans	1931 Fall	ASL		19	Boston	a	2,7		
+New York Americans	1931 Fall	ASL		20	New Bedford	a	3,7		
+New York Americans	1931 Fall	ASL		25	Boston	h	5,1		
+New York Giants	1931 Fall	ASL	9	20	NY Americans	a	4,2		
+New York Giants	1931 Fall	ASL		26	Boston	a	2,0		
+New York Giants	1931 Fall	ASL		27	New Bedford	a	2,3		
+New York Giants	1931 Fall	ASL	10	4	Newark	h	4,2		
+New York Giants	1931 Fall	ASL		10	Pawtucket	a	1,4		
+New York Giants	1931 Fall	ASL		11	Hakoah	h	3,3		
+New York Giants	1931 Fall	ASL		17	Boston	h	4,4		
+New York Giants	1931 Fall	ASL		18	Newark	a	1,3		
+New York Giants	1931 Fall	ASL		25	NY Americans		2,1		
+New York Giants	1931 Fall	ASL	11	1	Pawtucket	h	2,3		
+New York Giants	1931 Fall	ASL		8	New Bedford	a	2,1		
+New York Giants	1931 Fall	ASL		15	New Bedford	h	2,3		
+New York Giants	1931 Fall	ASL		22	NY Americans		3,3		
+New York Giants	1931 Fall	ASL		27	NY Americans		2,0		
+New York Giants	1931 Fall	ASL		28	Pawtucket	a	3,0		
+New York Giants	1931 Fall	ASL		29	Hakoah	a	3,0		
+New York Giants	1931 Fall	ASL	12	13	Pawtucket	h	6,1		
+New York Giants	1931 Fall	ASL		20	Hakoah	h	2,2		
+New York Giants	1931 Fall	ASL		25	Hakoah	a	3,2		
+New York Giants	1931 Fall	ASL		27	New Bedford	h	3,2		
 New York Giants	1931 Playoffs	ASL	1	1	New Bedford	a	3,8		
 New York Giants	1931 Playoffs	ASL		3	New Bedford	h	6,0		
 New York Giants	1931	US Open Cup	1	10	NY Americans		7,2		
 New York Giants	1931	US Open Cup		24	BS Baltimore		4,2		
 New York Giants	1931	US Open Cup	2	7	Newark	h	6,1		
 New York Giants	1931	US Open Cup		21	New Bedford		2,5		
-Pawtucket Rangers	1931 Spring	ASL	9	19	New Bedford	h	4,1		
-Pawtucket Rangers	1931 Spring	ASL		26	NY Americans	h	5,1		
-Pawtucket Rangers	1931 Spring	ASL		27	Newark	a	5,2		
-Pawtucket Rangers	1931 Spring	ASL	10	3	Boston	a	0,2		
-Pawtucket Rangers	1931 Spring	ASL		4	New Bedford	a	2,4		
-Pawtucket Rangers	1931 Spring	ASL		10	NY Giants	h	4,1		
-Pawtucket Rangers	1931 Spring	ASL		17	Newark	h	4,0		
-Pawtucket Rangers	1931 Spring	ASL		24	New Bedford	h	1,5		
-Pawtucket Rangers	1931 Spring	ASL		25	Hakoah	a	0,1		
-Pawtucket Rangers	1931 Spring	ASL		31	Hakoah	h	3,2		
-Pawtucket Rangers	1931 Spring	ASL	11	1	NY Giants	a	3,2		
-Pawtucket Rangers	1931 Spring	ASL		7	Boston	h	3,1		
-Pawtucket Rangers	1931 Spring	ASL		11	New Bedford	a	2,4		
-Pawtucket Rangers	1931 Spring	ASL		14	Boston	a	2,0		
-Pawtucket Rangers	1931 Spring	ASL		21	NY Americans	h	5,2		
-Pawtucket Rangers	1931 Spring	ASL		28	NY Giants	h	0,3		
-Pawtucket Rangers	1931 Spring	ASL		29	NY Americans	a	4,2		
-Pawtucket Rangers	1931 Spring	ASL	12	5	Hakoah	h	5,1		
-Pawtucket Rangers	1931 Spring	ASL		12	Boston	h	5,2		
-Pawtucket Rangers	1931 Spring	ASL		13	NY Giants	a	1,6		
+Pawtucket Rangers	1931 Fall	ASL	9	19	New Bedford	h	4,1		
+Pawtucket Rangers	1931 Fall	ASL		26	NY Americans	h	5,1		
+Pawtucket Rangers	1931 Fall	ASL		27	Newark	a	5,2		
+Pawtucket Rangers	1931 Fall	ASL	10	3	Boston	a	0,2		
+Pawtucket Rangers	1931 Fall	ASL		4	New Bedford	a	2,4		
+Pawtucket Rangers	1931 Fall	ASL		10	NY Giants	h	4,1		
+Pawtucket Rangers	1931 Fall	ASL		17	Newark	h	4,0		
+Pawtucket Rangers	1931 Fall	ASL		24	New Bedford	h	1,5		
+Pawtucket Rangers	1931 Fall	ASL		25	Hakoah	a	0,1		
+Pawtucket Rangers	1931 Fall	ASL		31	Hakoah	h	3,2		
+Pawtucket Rangers	1931 Fall	ASL	11	1	NY Giants	a	3,2		
+Pawtucket Rangers	1931 Fall	ASL		7	Boston	h	3,1		
+Pawtucket Rangers	1931 Fall	ASL		11	New Bedford	a	2,4		
+Pawtucket Rangers	1931 Fall	ASL		14	Boston	a	2,0		
+Pawtucket Rangers	1931 Fall	ASL		21	NY Americans	h	5,2		
+Pawtucket Rangers	1931 Fall	ASL		28	NY Giants	h	0,3		
+Pawtucket Rangers	1931 Fall	ASL		29	NY Americans	a	4,2		
+Pawtucket Rangers	1931 Fall	ASL	12	5	Hakoah	h	5,1		
+Pawtucket Rangers	1931 Fall	ASL		12	Boston	h	5,2		
+Pawtucket Rangers	1931 Fall	ASL		13	NY Giants	a	1,6		
