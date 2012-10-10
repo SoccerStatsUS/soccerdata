@@ -24,6 +24,17 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+    'Tony Latronica': 'Anthony Latronica'
+    'Rick Kotschau': 'Ritchie Kotschau',
+    'Greg Howes': 'Gregory Howes',
+    'Nick Budalic': 'Niki Budalic',
+    'Nicki Budalic': 'Niki Budalic',
+    'Sasha Gorres': 'Sascha Görres',
+    'Steve Rhyne': 'Steven Rhyne',
+    'Demitrius Donald': 'Demetrius Donald',
+    'Cory Kramer': 'Corey Kramer',
+    'Freddy Moojen': 'Frederico Moojen',
+    'PJ Scheufele': 'P.J. Scheufele',
     'Jonathan Horacio DeLeon Ochoa': 'Jonathan de León',
     'Jonatan DeLeon': 'Jonathan de León',
     'Jonathan de Leon': 'Jonathan de León',
