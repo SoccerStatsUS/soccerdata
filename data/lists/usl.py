@@ -163,6 +163,21 @@ nasl2 = {
                 'Mike Ambersley',
                 'Etienne Barbara',
                 ]),
+
+        (2012, [
+                'Jeff Attinella',
+                'Kyle Altman',
+                'Ryan Cochrane',
+                'Paul Hamilton',
+                'Takuya Yamada',
+                'Nick Zimmerman',
+                'Walter Restrepo',
+                'Walter Ramirez',
+                'Luke Mulholland',
+                'Pablo Campos',
+                'Mark Anderson',
+                ]),
+
         ],
 }
 

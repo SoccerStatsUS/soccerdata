@@ -36,7 +36,7 @@ def remove_pairs(text, start, end):
 
 def load_draft_data():
 
-    draft_filenames = ['allocation', 'college', 'dispersal', 'expansion', 'inaugural', 'nasl', 'superdraft', 'supplemental', 'supplemental2']
+    draft_filenames = ['allocation', 'college', 'dispersal', 'expansion', 'inaugural', 'nasl', 'superdraft', 'supplemental', 'supplemental2', 'usl']
 
     l = []
 
@@ -84,13 +84,18 @@ class DraftProcessor():
 
         line = remove_pairs(line, "[", "]")
 
+        if line.startswith('*'):
+            return
 
+
+        if line.startswith("Round:"):
+            return
 
         if line.startswith("Draft:"):
             self.name = line.replace("Draft:", '').strip()
 
         elif line.startswith("Competition"):
-            self.competition= line.replace("Competition:", '').strip()
+            self.competition = line.replace("Competition:", '').strip()
 
         elif line.startswith("Season"):
             self.season = line.replace("Season:", '').strip()
@@ -100,10 +105,6 @@ class DraftProcessor():
                     'season': self.season,
                     'competition': self.competition,
                     })
-
-        elif line.startswith("Round:"):
-            pass
-
 
         elif line.startswith("Date:"):
             s = line.replace("Date:", '')
@@ -155,64 +156,12 @@ class DraftProcessor():
                     'number': self.pick_number,
                     'draft': self.current_draft['name'],
                     'season': self.current_draft['season'],
+                    'competition': self.competition,
                     })
 
             self.pick_number += 1
 
 
-
-
-
-
-
-"""
-def process_draft(text):
-    
-    # Clean up some extraneous info..
-    text = text.replace("*", "")
-    text = remove_pairs(text, "(", ")")
-    text = remove_pairs(text, "[", "]")
-    lines = [e for e in text.split("\n") if e]
-
-
-    def process_line(line):
-
-        try:
-            number, name, team = line.split('\t')
-        except:
-            import pdb; pdb.set_trace()
-
-
-        # Whoops!
-        if draft_type == 'superdraft' and year == '2010':
-            name, team = team, name
-
-        if 'superdraft' in draft_type:
-            draft_name = 'SuperDraft'
-        else:
-            draft_name = '%s Draft' % draft_type.title()
-        draft_name = "%s %s" % (year, draft_name)
-
-
-
-        return {
-            'position': int(number),
-            # This doesn't seem to be working.
-            'text': name,
-            'team': team,
-            'draft': draft_name,
-            'competition': 'Major League Soccer',
-            #'source': 'Wikipedia',
-            }
-
-    l = [process_line(line) for line in lines]
-    return [e for e in l if e]
-"""
-
-                
-
-
-            
 if __name__ == "__main__":
     print load_drafts()
     
