@@ -25,6 +25,18 @@ l = [
         'location': 'Bethlehem, PA',
         },
 
+
+    {
+        'name': 'Baker Bowl',
+        'address': 'N 15th St & W Huntingdon St',
+        'location': 'Philadelphia, PA',
+        'opened': datetime.datetime(1887, 4, 30),
+        'closed': datetime.datetime(1938, 6, 30),
+        'cost': 80000,
+        'capacity': 18800,
+        
+        },
+
     {
         'name': 'Falconi Field',
         'address': '1 Washington Federal Way',
