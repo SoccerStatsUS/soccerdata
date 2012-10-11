@@ -71,7 +71,7 @@ cities = {
     'Philadelphia, Pa.': 'Philadelphia, PA',
     'Germantown, Pa.': 'Germantown, PA',
     'Brooklyn': 'Brooklyn, NY',
-    'Philadelphia': 'Phialdelphia, PA',
+    'Philadelphia': 'Philadelphia, PA',
     'St. Louis': 'St. Louis, MO',
     'Seattle': 'Seattle, WA',
     'Chicago': 'Chicago, IL',

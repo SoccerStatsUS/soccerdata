@@ -24,6 +24,8 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+    'Vitor Junior': 'Juninho',
+    'Luis Enrique': 'Luiz Camargo',
     'Steven Armstrong': 'Stephen Armstrong',
     'Tony Latronica': 'Anthony Latronica',
     'Rick Kotschau': 'Ritchie Kotschau',
