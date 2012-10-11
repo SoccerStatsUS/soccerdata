@@ -167,7 +167,6 @@ class GeneralProcessor(object):
         #if line.endswith(';'):
         #    line = line[:-1]
 
-
         fields = line.split(";")
             
 
@@ -187,22 +186,26 @@ class GeneralProcessor(object):
         if ":" in line and not skip_team:
             possible_team = line.split(":")[0]
             try:
+                #if self.current_game['date'] == datetime.datetime(2011, 11, 6):
+                #    import pdb; pdb.set_trace()
+
                 if possible_team in (self.current_game['team1'], self.current_game['team2']):
-                    return self.process_lineup(line)
+                    lineups = self.process_lineup(line)
+                    self.appearances.extend(lineups)
+                    return 
+
             except:
                 import pdb; pdb.set_trace()
-                
-
 
 
         # Why is this check necessary?
         if fields:
+
             # Need to implement datetime check here.
             time_string = fields[0].strip()
             mdt = self.DATE_RE.match(time_string)
             if mdt:
                 return self.process_game_fields(fields)
-
 
             md = self.DATE_RE.match(time_string)
             if md:
@@ -213,7 +216,6 @@ class GeneralProcessor(object):
                 return self.process_game_fields(fields)
             except ValueError:
                 pass
-                
 
         # Goals is the final fallback.
         try:
@@ -496,7 +498,9 @@ class GeneralProcessor(object):
         for e in split_outside_parens(players, ',;'):
             lineups.extend(process_appearance(e, team))
 
-        self.appearances.extend(lineups)
+        return lineups
+
+
             
 
 
