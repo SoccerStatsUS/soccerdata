@@ -286,6 +286,9 @@ class GeneralProcessor(object):
         else:
             delimiter = "-"
 
+        if len(fields) < 2:
+            import pdb; pdb.set_trace()
+            
         if fields[2] == ' L-4':
             pass
             # import pdb; pdb.set_trace()
@@ -389,10 +392,12 @@ class GeneralProcessor(object):
         team2 = team2.strip()
         location = location.strip()
         
+        neutral = False
+        home_team = None
         if location in (team1, team2):
             home_team, location = location, ''
-        else:
-            home_team = None
+        elif location.lower() == 'neutral':
+            neutral = True
 
         g = {
             'competition': self.competition,
@@ -406,6 +411,8 @@ class GeneralProcessor(object):
             'team1_result': team1_result,
             'team2_result': team2_result,
             'home_team': home_team,
+            'neutral': neutral,
+
             'location': location,
             'referee': referee,
             'linesmen': linesmen,
