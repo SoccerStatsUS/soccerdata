@@ -72,6 +72,11 @@ l = [
         'name': 'High School Field',
         'location': 'St. Louis, MO',
         },
+
+    {
+        'name': 'Handlan\'s Park',
+        'location': 'St. Louis, MO',
+        },
     
     
     {

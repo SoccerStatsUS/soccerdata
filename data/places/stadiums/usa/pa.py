@@ -111,6 +111,11 @@ l = [
         'name': 'Legion Field (Donora)',
         'location': 'Donora, PA',
         },
+
+    {
+        'name': 'Disston Ball park',
+        'location': 'Philadelphia, PA',
+        },
     
     {
         'name': 'Holmes Stadium',

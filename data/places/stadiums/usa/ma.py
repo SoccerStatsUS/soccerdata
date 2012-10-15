@@ -37,8 +37,12 @@ l = [
     # Athletic field for New Bedford HS
     {
         'name': 'Sargent Field',
-        
         'location': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Salem Common',
+        'location': 'Salem, MA',
         },
 
     {

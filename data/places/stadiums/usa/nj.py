@@ -4,8 +4,33 @@
 import datetime
 
 l = [
-
-    
+    {
+        'name': 'Newark Schools Stadium',
+        'address': '450 Bloomfield Avenue',
+        'location': 'Newark, NJ',
+        'opened': 1925,
+        'closed': 2009,
+        'capacity': 15000,
+        },
+    {
+        'name': 'Red Bull Arena',
+        'address': '600 Cape May Street',
+        'location': 'Harrison, NJ',
+        'opened': datetime.datetime(2010, 3, 20),
+        'cost': 200000000,
+        'architect': 'Rossetti Architects',
+        'capacity': 25000,
+        },
+    {
+        'name': 'Giants Stadium',
+        'address': '50 Route 120',
+        'location': 'East Rutherford, NJ',
+        'capacity': 80242,
+        'cost': 78000000,
+        'opened': datetime.datetime(1976, 10, 10),
+        'closed': datetime.datetime(2010, 1, 3),
+        'architect': 'Kivett and Myers',
+        },        
     {
         'name': 'MetLife Stadium',
         'address': 'One MetLife Stadium Drive',
@@ -25,29 +50,36 @@ l = [
         'architect': 'GSGSBH',
         'capacity': 52454,
         },
-    
 
-    
-    
     {
-        'name': 'J. Malcolm Simon Stadium',
-        'location': 'Newark, NJ',
-        },    
+        'name': 'Yurcak Field',
+        'location': 'Piscataway, NJ',
+        'opened': 1994,
+        'cost': 28000000,
+        'capacity': 5000,
+        },
     {
         'name': 'ONT AA Grounds',
         'location': 'Kearny, NJ',
         },
     {
+        'name': 'Clark ONT Field',
+        'location': 'East Newark, NJ',
+        'opened': 1885,
+        'capacity': 0,
+        },
+    {
+        'name': 'J. Malcolm Simon Stadium',
+        'location': 'Newark, NJ',
+        },    
+    {
         'name': 'Montclair State University',
         'location': 'Upper Montclair, NJ',
         },
-
     {
         'name': 'Dreamland Park',
         'location': 'Newark, NJ',
         },
-
-
     {
         'name': 'Newark School Stadium', 
         'location': 'Newark, NJ',
@@ -57,15 +89,11 @@ l = [
         'name': 'Winslow Township High School',
         'location': 'Winslow Township, NJ',
         },
+
     {
-        'name': 'Yurcak Field',
-        'location': 'Piscataway, NJ',
-        'opened': 1994,
-        'cost': 28000000,
-        'capacity': 5000,
+        'name': 'Cosmopolitan Park',
+        'location': 'East Newark, NJ',
         },
-
-
     {
         'name': 'College Field',
         'location': 'Princeton, NJ',
@@ -75,12 +103,14 @@ l = [
         'name': 'Hetzel\'s Grove',
         'location': 'Trenton, NJ',
         },
-    
     {
         'name': 'Domestic Baseball Grounds',
         'location': 'Newark, NJ',
         },
-
+    {
+        'name': 'Bartell\'s Park',
+        'location': 'Newark, NJ',
+        },
     {
         'name': 'Caledonian Park',
         'location': 'Newark, NJ',
@@ -103,26 +133,18 @@ l = [
         'name': 'Frelinghuysen Grounds',
         'location': 'Newark, NJ',
         },
-
-
     {
         'name': 'St. George\'s Cricket Grounds',
         'location': 'Hoboken, NJ',
         },
-
-
     {
         'name': 'College Field',
         'location': 'East Brunswick, NJ',
         },
-
-
     {
         'name': 'Liberty Grounds',
         'location': 'Trenton, NJ',
         },
-
-
     {
         'name': 'Elysian Fields',
         'location': 'Hoboken, NJ',
@@ -151,85 +173,31 @@ l = [
         'location': 'Trenton, NJ',
         },
     
-    
-    {
-        'name': 'Newark Schools Stadium',
-        'address': '450 Bloomfield Avenue',
-        'location': 'Newark, NJ',
-        'opened': 1925,
-        'closed': 2009,
-        'capacity': 15000,
-        },
-    
-    
-    
     {
         'name': 'Roosevelt Stadium',
         'location': 'Jersey City, NJ',
         },
-    
-    
-    
-    
-    
-    
-    
+
+    {
+        'name': 'Ryle Park',
+        'location': 'Paterson, NJ',
+        },
     {
         'name': 'Carey Stadium',
         'location': 'Ocean City, NJ',
         },
-    
-    {
-        'name': 'Red Bull Arena',
-        'address': '600 Cape May Street',
-        'location': 'Harrison, NJ',
-        'opened': datetime.datetime(2010, 3, 20),
-        'cost': 200000000,
-        'architect': 'Rossetti Architects',
-        'capacity': 25000,
-        },
-    
-    
-    {
-        'name': 'Giants Stadium',
-        'address': '50 Route 120',
-        'location': 'East Rutherford, NJ',
-        'capacity': 80242,
-        'cost': 78000000,
-        'opened': datetime.datetime(1976, 10, 10),
-        'closed': datetime.datetime(2010, 1, 3),
-        'architect': 'Kivett and Myers',
-        },        
-    
-    
-    
-    
-    {
-        'name': 'Clark Field',
-        'location': 'East Newark, NJ',
-        'opened': 1885,
-        'capacity': 0,
-        },
-    
-    
     {
         'name': 'Washburn Park',
         'location': 'Jersey City, NJ',
         },        
-
-
     {
         'name': 'West End Grounds',
         'location': 'Jersey City, NJ',
         },        
-
-
     {
         'name': 'Newark Rink',
         'location': 'Newark, NJ',
         },        
-
-    
     {
         'name': 'Olympic Field',
         'location': 'Paterson, NJ',
@@ -239,54 +207,37 @@ l = [
         'name': 'Harrison Field',
         'location': 'Harrison, NJ',
         },
-    
-    
-    
-    
     {
         'name': 'Federal Field',
         'location': 'Harrison, NJ',
         },
-    
+    {
+        'name': 'West Hudson Athletic Field',
+        'location': 'Harrison, NJ',
+        },
+
+    {
+        'name': 'Bartell\'s Park',
+        'location': 'Newark, NJ',
+        },
     {
         'name': 'Washington Oval',
         'location': 'Kearny, NJ',
         },
-    
-    
-    
-    
-    
     {
         'name': 'Ironbound Field',
         'location': 'Newark, NJ',
         },
-    
-    
     {
         'name': 'East State Street Grounds',
         'location': 'Trenton, NJ',
         },
-    
-
-    
-    
-    
     {
         'name': 'Wright Street Grounds',
         'location': 'Newark, NJ',
         },
-    
-    
-    
-    
     {
         'name': 'Shooting Park',
         'location': 'Newark, NJ',
         },
-    
-    
-    
-    
-    
     ]

@@ -16,6 +16,17 @@ l = [
         },
 
     {
+        'name': 'Lafayette Square',
+        'address': '11th and Jefferson St.',
+        'location': 'Oakland, CA',
+        },
+
+    {
+        'name': 'University Football Grounds',
+        'location': 'Berkeley, CA',
+        },
+
+    {
         'name': 'Torero Stadium',
         'location': 'San Diego, CA',
         'opened': 1961,

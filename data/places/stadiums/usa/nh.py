@@ -11,6 +11,10 @@ l = [
         'location': 'Manchester, NH',
         },
     {
+        'name': 'The Green',
+        'location': 'Hanover, NH',
+        },
+    {
         'name': 'Owl Stadium',
         'address': '229 Main Street',
         'location': 'Keene, NH',

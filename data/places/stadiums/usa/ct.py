@@ -11,6 +11,16 @@ l = [
         'location': 'New Haven, CT',
         },
 
+    {
+        'name': 'Washington & Baker Streets Grounds',
+        'location': 'Hartford, CT',
+        },
+
+    {
+        'name': 'Lake Place',
+        'location': 'New Haven, CT',
+        },
+
 
     {
         'name': 'Dillon Stadium',

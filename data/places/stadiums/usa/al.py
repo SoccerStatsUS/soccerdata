@@ -5,8 +5,6 @@
 import datetime
 
 l = [
-    
-    
     {
         'name': 'Legion Field',
         'address': '400 Graymont Avenue West',

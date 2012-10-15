@@ -81,6 +81,11 @@ l = [
         'name': 'Lonsdale Avenue Grounds',
         'location': 'Pawtucket, RI',
         },
+
+    {
+        'name': 'Atwell & Eagle Streets',
+        'location': 'Providence, RI',
+        },
     
     
     {

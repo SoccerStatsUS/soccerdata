@@ -4,8 +4,6 @@
 import datetime
 
 l = [
-    
-    
     {
         'name': 'University of Phoenix Stadium',
         'address': '1  Cardinals Drive',
@@ -15,10 +13,6 @@ l = [
         'architect': 'Eisenman Architects',
         'capacity': 63400,
         },
-    
-    
-    
-    
     {
         'name': 'Chase Field',
         'address': '401 East Jefferson Street',
@@ -28,8 +22,6 @@ l = [
         'architect': 'Ellerbe Becket',
         'capacity': 48633,
         },
-    
-    
     {
         'name': 'Peoria Sports Complex',
         'address': '16101 N. 83rd Avenue',

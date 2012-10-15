@@ -99,6 +99,14 @@ l = [
         },
 
     {
+        'name': 'Capitoline Grounds',
+        'address': 'Hancock and Nostrand',
+        'location': 'Brooklyn, NY',
+        'opened': datetime.datetime(1864, 3, 5),
+        'closed': 1880
+        },
+
+    {
         'name': 'Liverpool High School Stadium',
         'location': 'Liverpool, NY',
         },
@@ -295,6 +303,11 @@ l = [
         },
 
     {
+        'name': 'Prospect Park Parade Grounds',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
         'name': 'Staten Island Cricket Grounds',
         'location': 'Staten Island, NY',
         },
@@ -323,6 +336,12 @@ l = [
     {
         'name': 'Harlem Oval',
         'location': 'New York, NY',
+        },        
+
+    {
+        'name': 'Morse Oval',
+        'address': '2nd Avenua and 52nd Street',
+        'location': 'Brooklyn, NY',
         },        
     
     

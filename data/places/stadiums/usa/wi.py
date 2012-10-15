@@ -13,7 +13,13 @@ l = [
         },
     {
         'name': 'Bavarian Soccer Park',
-        'location': 'Milwaukee, WI',
+        'address': '700 West Lexington Boulevard',
+        'location': 'Glendale, WI',
+        },
+    {
+        'name': 'Waukesha County Fairgrounds',
+
+        'location': 'Waukesha, WI',
         },
     {
         'name': 'Breese Stevens Field',

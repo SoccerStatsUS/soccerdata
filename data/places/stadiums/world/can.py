@@ -194,9 +194,17 @@ l = [
         },
 
 
-                                {
+        {
         'name': 'MAAA Grounds',
         'location': 'Montreal',
+        },
+        {
+        'name': 'Island Stadium,',
+        'location': 'Toronto, ON',
+        },
+        {
+        'name': 'Arena Park',
+        'location': 'Fort William, ON',
         },
 
                                 {
@@ -206,9 +214,10 @@ l = [
         'closed': 1937,
         },
 
-                                {
-        'name': 'Rosedale Athletic Grounds',
-        'location': 'Toronto',
+        {
+        'name': 'Rosedale Cricket Grounds',
+        'opened': 1887,
+        'location': 'Toronto, ON',
         },
 
                                 {
