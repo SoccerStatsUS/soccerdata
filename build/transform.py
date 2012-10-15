@@ -60,9 +60,15 @@ def make_player_name_guesser():
 
     def get_name(fragment, team):
 
+        if fragment is None:
+            return fragment
+
         candidates = d[team]
 
-        c2 = [e for e in candidates if e.endswith(fragment) and e != fragment]
+        try:
+            c2 = [e for e in candidates if e.endswith(fragment) and e != fragment]
+        except:
+            import pdb; pdb.set_trace()
 
         if len(c2) == 1:
             #print "Converting %s to % s" % (fragment, c2[0])
