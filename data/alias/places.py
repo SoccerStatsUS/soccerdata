@@ -25,6 +25,8 @@ places = {
     'Delle Alpi, Turin': 'Stadio delle Alpi',
     'Hillsborough, Sheffield': 'Hillsborough Stadium, Sheffield',
 
+    'Compton Ave Park': 'Compton Avenue Park',
+    'Capitoline Lake': 'Capitoline Grounds',
     'Trinidad': 'Trinidad and Tobago',
     'Cal State Fullerton': 'Titan Stadium, Fullerton, CA',
     'Richmond City Stadium': 'City Stadium, Richmond, VA',

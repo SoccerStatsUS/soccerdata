@@ -154,9 +154,9 @@ leach = {
     'San Francisco Greek Americans': 'San Francisco Greek American AC',
     
 
-    
-
-
+    'Hapoel Petah Tikvah': 'Hapoel Petah Tikva F.C.',
+    'Hapoel Petah Tikva': 'Hapoel Petah Tikva F.C.',
+    'Hapoel Haifa': 'Hapoel Haifa F.C.',
     
 
 }
@@ -826,7 +826,7 @@ oteams = {
 
 
 
-    'Milwaukee Bavarian Blue Ribbon': 'Milwaukee Bavarians',
+
 
     'Kodak Park': 'Kodak Park FC',
 
@@ -885,8 +885,12 @@ oteams = {
 
     'Newark Ukrainian': 'Newark Ukrainian Sitch',
 
-    'Milwaukee Bavarian': 'Milwaukee Bavarians',
-    'Bavarian SC (WI)': 'Milwaukee Bavarians',
+    'Milwaukee Bavarian': 'Milwaukee Bavarian SC',
+    'Milwaukee Bavarian Blue Ribbon': 'Milwaukee Bavarian SC',
+    'Bavarian SC (WI)': 'Milwaukee Bavarians SC',
+    'Milwaukee Bavarians': 'Milwaukee Bavarian SC',
+    'Bavarian SC': 'Milwaukee Bavarian SC',
+
     'Simpkins F.C.': 'Simpkins Ford',
     'Simpkins S.C.': 'Simpkins Ford',
     'Schwaben (Chicago)': 'Chicago Schwaben',

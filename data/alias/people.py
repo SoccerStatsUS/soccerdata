@@ -7,12 +7,14 @@ nonpeople = {
     'pk': 'penalty kick',
     'PK': 'penalty kick', 
     'Penalty Kick': 'penalty kick',
+    'penalty': 'penalty kick',
     'Sent Off': 'sent off',
     '?': 'Unknown',
     'Own goal': 'Own Goal',
     'own goal': 'Own Goal',
     'Unknown': 'unknown',
     'Unassisted': 'unassisted',
+    'Free Kick': 'free kick',
 }
 
 names.update(nonpeople)
@@ -24,6 +26,23 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+
+    'Raúl Gutierrez': 'Raúl Gutíerrez',
+    'Cheung Chi-Wai': 'Cheung Chi Wai',
+    'Mario Máyen': 'Mario Mayén',
+    'Luis Figo': 'Luís Figo',
+    'Luis De La Fuente': 'Luis de la Fuente',
+    'Rafael Van der Vaart': 'Rafael van der Vaart',
+    'JT Roberts': 'J.T. Roberts',
+    'Ricardo Perez': 'Ricardo Pérez',
+
+    'Fabian Estay': 'Fabián Estay',
+    'Mauricio Solis': 'Mauricio Solís',
+    'Skye Arthur Banning': 'Skye Arthur-Banning',
+
+
+    'Vito Testa': 'Vito Testa Jr.',
+    'Sky Arthur Banning': 'Skye Arthur-Banning',
     'Vitor Junior': 'Juninho',
     'Luis Enrique': 'Luiz Camargo',
     'Steven Armstrong': 'Stephen Armstrong',
