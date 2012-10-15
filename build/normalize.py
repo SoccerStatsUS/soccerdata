@@ -239,8 +239,6 @@ def normalize():
         coll = soccer_db["%s_goals" %s]
         l = []
         for e in coll.find():
-
-
             
             e['competition'] = get_competition(e['competition'])
             e['team'] = get_team(e['team'])
@@ -248,7 +246,27 @@ def normalize():
                 e['goal'] = get_name(e['goal'])
             except:
                 import pdb; pdb.set_trace()
+
+            if e['goal'] == 'Own Goal':
+                e['own_goal'] = True
+                e['goal'] = None
+                if e['assists']:
+                    e['own_goal_player'] = e['assists'][0]
+                    e['assists'] = []
+
             e['assists'] = [get_name(n) for n in e['assists']]
+
+            if e['assists']:
+                if e['assists'][0] == 'penalty kick':
+                    e['assists'] = []
+                    e['penalty'] = True
+
+                elif e['assists'][0] == 'free kick':
+                    e['assists'] = []
+
+                elif e['assists'][0] == 'unassisted':
+                    e['assists'] = []
+
 
             l.append(e)
 
