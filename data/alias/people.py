@@ -27,6 +27,10 @@ names.update(nonpeople)
 
 basic = {
 
+    'Daniele Dichio': 'Danny Dichio',
+    'Ibriahim Salou': 'Ibrahim Salou',
+    'Salou Ibrahim': 'Ibrahim Salou',
+
     'Raúl Gutierrez': 'Raúl Gutíerrez',
     'Cheung Chi-Wai': 'Cheung Chi Wai',
     'Mario Máyen': 'Mario Mayén',
@@ -48,6 +52,7 @@ basic = {
     'Steven Armstrong': 'Stephen Armstrong',
     'Tony Latronica': 'Anthony Latronica',
     'Rick Kotschau': 'Ritchie Kotschau',
+    'Rich Kotschau': 'Ritchie Kotschau',
     'Greg Howes': 'Gregory Howes',
     'Nick Budalic': 'Niki Budalic',
     'Nicki Budalic': 'Niki Budalic',

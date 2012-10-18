@@ -18,6 +18,7 @@ cities = {
     'Kristiana, Norway': 'Oslo, Norway',
     'Rio de Janeiro': 'Rio de Janeiro, Brazil',
     'Rome': 'Rome, Italy',
+    'Lyons, France': 'Lyon, France',
     'Glasgow': 'Glasgow, Scotland',
 
     'Montreal, QUE': 'Montreal',

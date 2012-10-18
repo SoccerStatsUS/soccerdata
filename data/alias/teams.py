@@ -7,6 +7,7 @@ teams = {}
 
 leach = {
 
+    'New Bedford F.C.': 'New Bedford Whalers',
     'Real Maryland Monarchs FC': 'Real Maryland Monarchs',
 
     'Al Ahly': 'Al Ahly SC',
