@@ -235,14 +235,12 @@ def generate_stats(goals=[], lineups=[]):
             if lineup['on'] == 0:
                 add_item(t, 'games_started')
             add_item(t, 'games_played')
-            try:
+
+            if lineup['off'] is not None and lineup['on'] is not None:
                 minutes = lineup['off'] - lineup['on']
                 add_item(t, 'minutes', minutes)
-            except TypeError:
-                # Seems to be dealing with a on/off type mismatch.
-                # If either 'on' or 'off' is None, there's a problem.
-                #print "On/off stats problem with %s" % lineup
-                pass
+            else:
+                print "Missing minute data for appearance."
         
 
     return sd
