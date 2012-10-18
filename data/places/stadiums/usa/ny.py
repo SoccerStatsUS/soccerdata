@@ -98,6 +98,13 @@ l = [
         'location': 'New York, NY',
         },
 
+
+        {
+        'name': 'Eastern Park',
+        'address': 'Sutter Avenue and Powell Street',
+        'location': 'Brooklyn, NY',
+        },
+
     {
         'name': 'Capitoline Grounds',
         'address': 'Hancock and Nostrand',
