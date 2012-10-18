@@ -142,6 +142,15 @@ def process_asl_awards():
     return process_awards(d)
 
 
+def process_nafbl_awards():
+    from soccerdata.data.lists.nafbl import nafbl
+    return process_awards(nafbl)
+
+def process_snesl_awards():
+    from soccerdata.data.lists.nafbl import snesl
+    return process_awards(snesl)
+
+
 def process_esl_awards():
     from soccerdata.data.lists.asl0 import esl
     return process_awards(esl)

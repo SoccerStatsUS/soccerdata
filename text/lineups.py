@@ -245,8 +245,8 @@ def correct_goal_names(goal_list, lineup_dict):
         'Peguero Jean Philippe': 'Peguero Jean Philippe',
         'DeRosario': 'De Rosario',
         'Ben-Dayan': 'Ben Dayan',
-        'Nunez': 'Núñez', # good for Ramon Nunez, not necessarily other nunezes.
-        'Sanchez': 'Sánchez',
+        #'Nunez': 'Núñez', # good for Ramon Nunez, not necessarily other nunezes.
+        #'Sanchez': 'Sánchez',
 
         }
     # Simon Elliott/Elliot
@@ -371,6 +371,9 @@ def get_scores(fn):
         if not line.strip():
             return {}
 
+        if line.startswith('*'):
+            return {}
+
         items = line.strip().split("\t")
         
         try:
@@ -471,6 +474,9 @@ def get_goals(filename):
         pline = line.strip()
 
         if not pline:
+            return []
+
+        if pline.startswith('*'):
             return []
 
         items = pline.split("\t")
@@ -603,13 +609,16 @@ def get_lineups(filename):
         if not pline:
             return []
 
+        if pline.startswith('*'):
+            return []
+
         def preprocess_lineups(lineups):
             r = [
                 (';', ','), 
                 (':', ','), 
                 ('.', ''),
                 ('(sent off after final whistle)', ''),
-                ('sent off in shootout)', ''),
+                ('sent off in shootout', ''),
                 ('sent off during shootout', ''),
                 ('(Note Lubos Kubik sent off 74 from bench)', ''),
                 ('(Capt.)', ''),
@@ -757,12 +766,29 @@ class LineupProcessor(object):
                     'off': 90,
                     }]
 
+        
+        m = re.search("(.*?)\((.*?)\)", text)
+        if m:
+            starter, sub = m.groups()
+            return [{
+                    'name': starter,
+                    'on': 0,
+                    'off': None,
+                    },
+                    {
+                    'name': sub,
+                    'on': None,
+                    'off': 90,
+                    }]
 
-        if text:
-            print "failed to process %s" % text
-
-
+        
+        import pdb; pdb.set_trace()
+        x = 5
+        print "failed to process %s " % text
         return []
+
+                
+
 
             
     def consume_rows(self, rows):

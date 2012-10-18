@@ -18,6 +18,8 @@ import re
 
 
 def process_name(s):
+    """Clean up a player name. Remove possible leading numbers.
+    e.g. '18-Tim Howard ' -> 'Tim Howard'"""
     s = s.strip()
     m = re.match("(\d+-)?(.*)", s)
     if m:
@@ -294,6 +296,8 @@ class GeneralProcessor(object):
             # import pdb; pdb.set_trace()
 
 
+        result_unknown = False
+
         if self.score_type in ('standard', 'colon-delimited'):
             try:
                 team1, score, team2 = fields[1:4]
@@ -309,10 +313,15 @@ class GeneralProcessor(object):
 
                 # Eventually will indicate a blank score.
                 # We're not prepared to handle this, so leave the function.
-                if score in ('w/o', 'n/p', 'np', '?'):
+                if score == 'w/o':
                     print "skipping: %s" % score
-                    return
                     winner = team1
+                    return
+
+                elif score == '?':
+                    team1_score = team2_score = None
+                    result_unknown = True
+                elif score in ('n/p', 'np'):
                     team1_score = team2_score = None
                 else:
                     team1_score, team2_score = [e.strip() for e in score.split(delimiter)]
@@ -413,6 +422,8 @@ class GeneralProcessor(object):
             'home_team': home_team,
             'neutral': neutral,
 
+            'result_unknown': result_unknown,
+
             'location': location,
             'referee': referee,
             'linesmen': linesmen,
@@ -450,11 +461,21 @@ class GeneralProcessor(object):
                     }]
 
             else:
+                base = {
+                    'team': team,
+                    'competition': self.competition,
+                    'date': self.current_game['date'],
+                    'season': self.season,
+                    }
+                    
+                
                 starter, subs = s.split("(")
                 subs = subs.replace(")", "")
                 sub_items = subs.split(",")
 
                 starter = process_name(starter)                
+
+                """
                 if len(sub_items) == 1:
                     m = re.match("(.*)( \d+)", sub_items[0])
                     if m:
@@ -473,6 +494,7 @@ class GeneralProcessor(object):
                             'competition': self.competition,
                             'date': self.current_game['date'],
                             'season': self.season,
+
                             },
                             {
                             'name': sub,
@@ -483,10 +505,31 @@ class GeneralProcessor(object):
                             'date': self.current_game['date'],
                             'season': self.season,
                             }]
+                """
+                #if len(sub_items) >= 2:
+                if True:
+                    l = [{ 'name': starter, 'on': 0 }]
+                    
+                    for item in sub_items:
+                        m = re.match("(.*)( \d+)", item)
+                        if m:
+                            sub, minute = m.groups()
+                            minute = int(minute)
+                            sub = process_name(sub)
+                        else:
+                            print "No minute for sub %s" % s
+                            minute = None
+                            sub = process_name(sub_items[0])
 
-                else:
-                    print "Skipping multiple sub_items %s" % len(sub_items)
-                    print sub_items
+                        l[-1]['off'] = minute
+                        l.append({'name': sub, 'on': minute})
+
+                    l[-1]['off'] = 90
+                    for e in l:
+                        e.update(base)
+
+                    #print "Handling multiple sub_items %s" % len(sub_items)
+                    #print sub_items
 
 
                 return []
