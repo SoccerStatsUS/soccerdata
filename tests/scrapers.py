@@ -3,12 +3,12 @@
 # Also need to set up a framework to throw corpuses against each
 # other and make sure they are the same.
 
-import unittest
+#import unittest
 
 # Looks like these should probably be merged with the other scrapers eventually...
 
 # Proobably should grop tests by type.
-
+"""
 class TestMLSScraper(unittest.TestCase):
 
 
@@ -116,3 +116,4 @@ class TestMLSScraper(unittest.TestCase):
         '12MIvan Guerrero7000000011'
 
 
+"""

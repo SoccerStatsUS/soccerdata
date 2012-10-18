@@ -1,3 +1,4 @@
+"""
 from cnnsi import CNNSIPlayerScraper
 from nbcsports import NBCSportsPlayerScraper
 from soccernet import SoccernetPlayerScraper
@@ -17,3 +18,4 @@ def load_profiles(source):
     else:
         raise
         
+"""
