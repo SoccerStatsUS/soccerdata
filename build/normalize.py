@@ -10,6 +10,9 @@ def calculate_results(d):
     if team1_result and team2_result:
         return team1_result, team2_result
 
+    if team1_score == team2_score == None:
+        return '', ''
+
     if type(team1_score) == int and type(team2_score) == int:
         if team1_score == team2_score:
             return 't', 't'
@@ -87,10 +90,13 @@ def make_stadium_getter():
 
             # Do soft location check here.
             if location_string and (city.strip() != location_string.strip()):
+                pass
+                """
                 try:
                     print "mismatch:\n%s\n%s" % (location_string, city)
                 except:
                     print "BIGFAIL %s" % str(location_string)
+                    """
         
         else:
             name, city = None, get_city(s)
@@ -246,6 +252,9 @@ def normalize():
                 e['goal'] = get_name(e['goal'])
             except:
                 import pdb; pdb.set_trace()
+
+            #if e['date'] == datetime.datetime(1912, 7, 21):
+            #    import pdb; pdb.set_trace()
 
             if e['goal'] == 'Own Goal':
                 e['own_goal'] = True

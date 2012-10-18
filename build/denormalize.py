@@ -143,7 +143,6 @@ def denormalize():
 
 
     
-    print "Denormalizing"
     team_name_ungetter = make_team_name_ungetter()
     stadium_getter = make_stadium_getter()
 

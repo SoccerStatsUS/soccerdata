@@ -103,7 +103,10 @@ def merge_goals():
         
         # normalize things.
         d['team'] = get_team(d['team'])
-        d['goal'] = get_name(d['goal'].strip())
+
+        if d['goal']:
+            d['goal'] = get_name(d['goal'].strip())
+
         d['assists'] = [get_name(e.strip()) for e in d['assists']]
 
         # Technically, the same player could score two goals in the

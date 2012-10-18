@@ -76,7 +76,7 @@ def make_player_name_guesser():
 
 
         elif len(c2) > 1:
-            print "Cannot decide between %s for %s" % (str(c2), fragment)
+            #print "Cannot decide between %s for %s" % (str(c2), fragment)
             return fragment
 
         else:
@@ -176,7 +176,6 @@ def transform_player_names():
     for source in SOURCES:
         l = []
         coll = soccer_db["%s_goals" % source]
-        print coll
         for e in coll.find():
             if e['date']:
                 e['goal'] = full_name_guesser(e['goal'], e['team'])
@@ -189,7 +188,6 @@ def transform_player_names():
     for source in SOURCES:
         l = []
         coll = soccer_db["%s_lineups" % source]
-        print coll
         for e in coll.find():
             if e['date']:
                 e['name'] = full_name_guesser(e['name'], e['team'])
