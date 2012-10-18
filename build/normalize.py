@@ -1,4 +1,8 @@
 import datetime
+from settings import SOURCES
+
+from soccerdata.data.alias import get_team, get_name, get_competition, get_place, get_stadium, get_city
+from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row, soccer_db
 
 
 def calculate_results(d):
@@ -40,8 +44,6 @@ def calculate_results(d):
     x = 5
 
 
-
-
 def make_stadium_getter():
     """
     Detect stadium and split off from place name
@@ -54,11 +56,6 @@ def make_stadium_getter():
     'Richardson, Texas' -> (None, 'Richardson, Texas')
     """
 
-    
-
-    from soccerdata.data.alias import get_place, get_stadium, get_city
-    from soccerdata.mongo import soccer_db
-    
     stadiums = soccer_db.stadiums.find()
 
     stadium_names = set()
@@ -104,56 +101,85 @@ def make_stadium_getter():
         return name, city
         
     return getter
-            
-    
-    
 
 
-def normalize():
-    """
-    Normalize different data types for collections.
-    The goal here is to ensure that team, player, competition, and place names are consistent.
-    That is, DaMarcus Beasley, Damarcus Beasley, and DeMarcus Beasley should all point to the same person.
-    To do this, we aggressively standardize all names.
-    Sometimes, this will result in different items being merged into one (e.g. Eddie Johnson and Edward Johnson)
-    These will then be split up with denormalize.py.
-    """
 
-    from soccerdata.data.alias import get_team, get_name, get_competition, get_place, get_stadium, get_city
-    from settings import SOURCES
-    from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
-
+def normalize_games(games):
     stadium_getter = make_stadium_getter()
 
-
-
-
-
-    # Normalize salaries
     l = []
-    for e in soccer_db.picks.find():
-        e['text'] = get_name(e['text'])
+        
+    for e in games:
+        e['competition'] = get_competition(e['competition'])
+        e['team1'] = get_team(e['team1'])
+        e['team2'] = get_team(e['team2'])
+
+        # Assign appropriate results based on score and result data.
+        e['team1_result'], e['team2_result'] = calculate_results(e)
+
+        # Transforming place names should happen before anything else.
+        # Place transfomrations are the most conservative.
+        if 'location' in e:
+            if e['location']:
+                e['location'] = get_place(e['location'])
+                    # Get stadium data if possible.
+                e['stadium'], e['location'] = stadium_getter(e['location'])
+
+        if e.get('home_team'):
+            e['home_team'] = get_team(e['home_team'])
+
+        if e.get('referee'):
+            e['referee'] = get_name(e['referee'])
+        else:
+            e['referee'] = None
+
+        if 'linesmen' in e:
+            linesmen = e.pop('linesmen')
+
+            if len(linesmen) == 0:
+                pass
+            elif len(linesmen) == 1:
+                e['linesman1'] = linesmen[0]
+            elif len(linesmen) == 2:
+                e['linesman1'] = linesmen[0]
+                e['linesman2'] = linesmen[1]
+
+            # This happens in one game...ok?
+            elif len(linesmen) == 3:
+                e['linesman1'] = linesmen[0]
+                e['linesman2'] = linesmen[1]
+                e['linesman3'] = linesmen[2]
+            else:
+                import pdb; pdb.set_trace()
+                x = 5
+
         l.append(e)
 
-    soccer_db.picks.drop()
-    insert_rows(soccer_db.picks, l)
+    return l
 
 
-    # Normalize salaries
+def normalize_picks(picks):            
+
     l = []
-    for e in soccer_db.salaries.find():
+    for e in picks:
+        e['text'] = get_name(e['text'])
+        e['team'] = get_team(e['team'])
+        l.append(e)
+    return l
+
+
+def normalize_salaries(salaries):
+
+    l = []
+    for e in salaries:
         e['name'] = get_name(e['name'])
         l.append(e)
-
-    soccer_db.salaries.drop()
-    insert_rows(soccer_db.salaries, l)
-
-    
+    return l
 
 
-    coll = soccer_db["stadiums"]
+def normalize_stadiums(stadiums):
     l = []
-    for e in coll.find():
+    for e in stadiums:
 
         e['name'] = get_stadium(e['name'])
         e['location'] = get_city(e['location'])
@@ -174,232 +200,134 @@ def normalize():
         elif type(e['closed']) == datetime.datetime:
             e['year_closed'] = e['closed'].year
 
-
         l.append(e)
 
-    coll.drop()
-    insert_rows(coll, l)
+    return l
 
 
-        
-
-    # Team names in games.
-    for s in SOURCES:
-        coll = soccer_db["%s_games" %s]
-
-        l = []
-        for e in coll.find():
-            e['competition'] = get_competition(e['competition'])
-            e['team1'] = get_team(e['team1'])
-            e['team2'] = get_team(e['team2'])
-
-            # Assign appropriate results based on score and result data.
-            e['team1_result'], e['team2_result'] = calculate_results(e)
-
-            # Transforming place names should happen before anything else.
-            # Place transfomrations are the most conservative.
-            if 'location' in e:
-                if e['location']:
-                    e['location'] = get_place(e['location'])
-                    # Get stadium data if possible.
-                    e['stadium'], e['location'] = stadium_getter(e['location'])
-
-            if e.get('home_team'):
-                e['home_team'] = get_team(e['home_team'])
-
-            if e.get('referee'):
-                e['referee'] = get_name(e['referee'])
-            else:
-                e['referee'] = None
-
-
-                
-            
-            if 'linesmen' in e:
-                linesmen = e.pop('linesmen')
-
-                if len(linesmen) == 0:
-                    pass
-                elif len(linesmen) == 1:
-                    e['linesman1'] = linesmen[0]
-                elif len(linesmen) == 2:
-                    e['linesman1'] = linesmen[0]
-                    e['linesman2'] = linesmen[1]
-
-                # This happens in one game...ok?
-                elif len(linesmen) == 3:
-                    e['linesman1'] = linesmen[0]
-                    e['linesman2'] = linesmen[1]
-                    e['linesman3'] = linesmen[2]
-                else:
-                    import pdb; pdb.set_trace()
-                    x = 5
-
-            l.append(e)
-
-        coll.drop()
-        insert_rows(coll, l)
-
-    # Normalize goals.
-    for s in SOURCES:
-        coll = soccer_db["%s_goals" %s]
-        l = []
-        for e in coll.find():
-            
-            e['competition'] = get_competition(e['competition'])
-            e['team'] = get_team(e['team'])
-            try:
-                e['goal'] = get_name(e['goal'])
-            except:
-                import pdb; pdb.set_trace()
-
-            #if e['date'] == datetime.datetime(1912, 7, 21):
-            #    import pdb; pdb.set_trace()
-
-            if e['goal'] == 'Own Goal':
-                e['own_goal'] = True
-                e['goal'] = None
-                if e['assists']:
-                    e['own_goal_player'] = e['assists'][0]
-                    e['assists'] = []
-
-            e['assists'] = [get_name(n) for n in e['assists']]
-
-            if e['assists']:
-                if e['assists'][0] == 'penalty kick':
-                    e['assists'] = []
-                    e['penalty'] = True
-
-                elif e['assists'][0] == 'free kick':
-                    e['assists'] = []
-
-                elif e['assists'][0] == 'unassisted':
-                    e['assists'] = []
-
-
-            l.append(e)
-
-        coll.drop()
-        insert_rows(coll, l)
-
-
-
-    # Normalize stats
-    for s in SOURCES:
-        coll = soccer_db["%s_stats" %s]
-
-        l = []
-        for e in coll.find():
-            e['competition'] = get_competition(e['competition'])
-            e['team'] = get_team(e['team'])
-            e['name'] = get_name(e['name'])
-
-
-            for k in (
-                'games_started', 
-                'games_played', 
-                'goals',
-                'assists',
-                'minutes', 
-                'shots', 
-                'shots_on_goal',
-                'fouls_committed', 
-                'fouls_suffered', 
-                'yellow_cards', 
-                'red_cards'):
-
-                if e.get(k) in ('', '-', '?', None):
-                    e[k] = None
-                else:
-                    try:
-                        e[k] = int(e[k])
-                    except:
-                        print "Failed integer coercion on %s" % e
-                        import pdb; pdb.set_trace()
-                        e[k] = None
-
-            for k in 'goals', 'assists':
-                if e.get(k) == '':
-                    e[k] = 0
-
-
-            l.append(e)
-
-        coll.drop()
-        insert_rows(coll, l)
-
-    # Normalize lineups
-    for s in SOURCES:
-        coll = soccer_db["%s_lineups" %s]
-        l = []
-        for e in coll.find():
-            e['competition'] = get_competition(e['competition'])
-            e['team'] = get_team(e['team'])
-            e['name'] = get_name(e['name'])
-
-            if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
-                e['on'] = e['on'][:-1]
-
-            if type(e['off']) in (str, unicode) and e['off'].endswith('\''):
-                e['off'] = e['off'][:-1]
-
-                
-            l.append(e)
-
-        coll.drop()
-        insert_rows(coll, l)
-
-    # Normalize standings
-    for s in SOURCES:
-        coll = soccer_db["%s_standings" %s]
-
-        l = []
-        for e in coll.find():
-            e['competition'] = get_competition(e['competition'])
-            e['team'] = get_team(e['team'])
-
-            l.append(e)
-
-        coll.drop()
-        insert_rows(coll, l)
-
-    # Normalize awards
-    for s in SOURCES:
-        coll = soccer_db["%s_awards" %s]
-        l = []
-        for e in coll.find():
-            e['competition'] = get_competition(e['competition'])
-
-            if e['model'] == 'Team':
-                e['recipient'] = get_team(e['recipient'])
-            else:
-                e['recipient'] = get_name(e['recipient'])
-
-            # Skipping recipient until a little later.
-            l.append(e)
-
-        coll.drop()
-        insert_rows(coll, l)
-
-    # Normalize drafts
-    coll = soccer_db["picks"]
+def normalize_goals(goals):
     l = []
-    for e in coll.find():
-            # NB - weird naming.
+
+    for e in goals:
+        e['competition'] = get_competition(e['competition'])
         e['team'] = get_team(e['team'])
-        e['text'] = get_name(e['text'])
+        try:
+            e['goal'] = get_name(e['goal'])
+        except:
+            import pdb; pdb.set_trace()
+
+        if e['goal'] == 'Own Goal':
+            e['own_goal'] = True
+            e['goal'] = None
+            if e['assists']:
+                e['own_goal_player'] = e['assists'][0]
+                e['assists'] = []
+
+        e['assists'] = [get_name(n) for n in e['assists']]
+
+        if e['assists']:
+            if e['assists'][0] == 'penalty kick':
+                e['assists'] = []
+                e['penalty'] = True
+
+            elif e['assists'][0] == 'free kick':
+                e['assists'] = []
+
+            elif e['assists'][0] == 'unassisted':
+                e['assists'] = []
 
         l.append(e)
 
-    coll.drop()
-    insert_rows(coll, l)
+    return l
 
 
-    # Normalize bios
-    coll = soccer_db["bios"]
+def normalize_stats(stats):
     l = []
-    for e in coll.find():
-            # NB - weird naming.
+    for e in stats:
+        e['competition'] = get_competition(e['competition'])
+        e['team'] = get_team(e['team'])
+        e['name'] = get_name(e['name'])
+
+        for k in (
+            'games_started', 
+            'games_played', 
+            'goals',
+            'assists',
+            'minutes', 
+            'shots', 
+            'shots_on_goal',
+            'fouls_committed', 
+            'fouls_suffered', 
+            'yellow_cards', 
+            'red_cards'
+            ):
+            if e.get(k) in ('', '-', '?', None):
+                e[k] = None
+            else:
+                try:
+                    e[k] = int(e[k])
+                except:
+                    print "Failed integer coercion on %s" % e
+                    import pdb; pdb.set_trace()
+                    e[k] = None
+
+        for k in 'goals', 'assists':
+            if e.get(k) == '':
+                e[k] = 0
+
+        l.append(e)
+
+    return l
+
+
+def normalize_lineups(lineups):
+    
+    l = []
+    for e in lineups:
+        e['competition'] = get_competition(e['competition'])
+        e['team'] = get_team(e['team'])
+        e['name'] = get_name(e['name'])
+
+        if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
+            e['on'] = e['on'][:-1]
+
+        if type(e['off']) in (str, unicode) and e['off'].endswith('\''):
+            e['off'] = e['off'][:-1]
+
+        l.append(e)
+
+    return l
+
+
+def normalize_standings(standings):
+    l = []
+    for e in standings:
+        e['competition'] = get_competition(e['competition'])
+        e['team'] = get_team(e['team'])
+        l.append(e)
+
+    return l
+
+
+def normalize_awards(awards):
+    l = []
+    for e in awards:
+        e['competition'] = get_competition(e['competition'])
+
+        if e['model'] == 'Team':
+            e['recipient'] = get_team(e['recipient'])
+        else:
+            e['recipient'] = get_name(e['recipient'])
+
+        l.append(e)
+
+    return l
+
+
+def normalize_bios(bios):
+    l = []
+    for e in bios:
+        # NB - weird naming.
         e['name'] = get_name(e['name'])
 
         if type(e['birthdate']) == int:
@@ -408,9 +336,41 @@ def normalize():
         if type(e['deathdate']) == int:
             e['deathdate'] = None
 
-
         l.append(e)
 
-    coll.drop()
-    insert_rows(coll, l)
+    return l
 
+    
+    
+def normalize():
+    """
+    Normalize different data types for collections.
+    The goal here is to ensure that team, player, competition, and place names are consistent.
+    That is, DaMarcus Beasley, Damarcus Beasley, and DeMarcus Beasley should all point to the same person.
+    To do this, we aggressively standardize all names.
+    Sometimes, this will result in different items being merged into one (e.g. Eddie Johnson and Edward Johnson)
+    These will then be split up with denormalize.py.
+    """
+
+    def normalize_single_coll(coll, func):
+        l = func(coll.find())
+        coll.drop()
+        insert_rows(coll, l)
+
+    def normalize_multiple_colls(data_type, func):
+        for source in SOURCES:
+            coll = soccer_db["%s_%s" % (source, data_type)]
+            normalize_single_coll(coll, func)
+            
+
+    normalize_single_coll(soccer_db.picks, normalize_picks)
+    normalize_single_coll(soccer_db.salaries, normalize_salaries)
+    normalize_single_coll(soccer_db.stadiums, normalize_stadiums)
+    normalize_single_coll(soccer_db.bios, normalize_bios)
+
+    normalize_multiple_colls('games', normalize_games)
+    normalize_multiple_colls('goals', normalize_goals)
+    normalize_multiple_colls('stats', normalize_stats)
+    normalize_multiple_colls('standings', normalize_standings)
+    normalize_multiple_colls('lineups', normalize_lineups)
+    normalize_multiple_colls('awards', normalize_awards)
