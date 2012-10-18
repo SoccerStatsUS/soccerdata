@@ -59,11 +59,13 @@ import re
 from soccerdata.utils import scrape_soup, get_contents
 from soccerdata.cache import set_cache, data_cache
 
-url_cache = set_cache
-game_cache = set_cache
-detail_cache = set_cache
+url_cache = data_cache
+game_cache = data_cache
+detail_cache = data_cache
+everything_cache = data_cache
 
 ROOT_URL = 'http://soccernet.espn.go.com'
+STOP_DATE = datetime.date(2008, 1, 1)
 
 
 SOCCERNET_ALIASES = {
@@ -100,101 +102,11 @@ SOCCERNET_ALIASES = {
 
 
 def code_to_competition(league_code):
-    d = {
+    return {
         'usa.1': 'Major League Soccer',
         'concacaf.champions': 'CONCACAF Champions League',
         'mex.1': 'Liga MX',
-        }
-
-    return d[league_code]
-
-
-def scrape_league_generic(league_code, func):
-    """
-    Given a league code and a scraping function, returns a list of scraped data;
-    data type is determined by the scraper function.
-    """
-
-    def make_match_stats_url(url):
-        """Get the match url of a different link to a game."""
-        #This is the match stats url which has subs, goals, etc.
-        regexen = ('id=(\d+)[&$]', "/_/id/(\d+)$")
-        for regex in regexen:
-            m = re.search(regex, url)
-            if m:
-                return '%s/match?id=%s' % (ROOT_URL, m.groups()[0])
-
-        import pdb; pdb.set_trace()
-        x = 5
-
-
-    competition = code_to_competition(league_code)
-    l = []
-    for u in get_urls_for_league(league_code, datetime.date(2012, 1, 1)):
-        url = make_match_stats_url(u)
-        l.append(func(url, competition))
-    return [e for e in l if e]
-
-
-
-
-
-scrape_all_league_games = lambda league_code: scrape_league_generic(league_code, scrape_live_game)
-scrape_all_league_goals = lambda league_code: scrape_league_generic(league_code, scrape_live_goals)
-scrape_all_league_lineups = lambda league_code: scrape_league_generic(league_code, scrape_live_lineups)
-
-def scrape_league2(league_code):
-    """
-    """
-
-    def make_match_stats_url(url):
-        """Get the match url of a different link to a game."""
-        #This is the match stats url which has subs, goals, etc.
-        regexen = ('id=(\d+)[&$]', "/_/id/(\d+)$")
-        for regex in regexen:
-            m = re.search(regex, url)
-            if m:
-                return '%s/match?id=%s' % (ROOT_URL, m.groups()[0])
-
-        import pdb; pdb.set_trace()
-        x = 5
-
-    STOP_DATE = datetime.date(2012, 1, 1)
-
-    competition = code_to_competition(league_code)
-    l = []
-    for u in get_urls_for_league(league_code, STOP_DATE)
-        url = make_match_stats_url(u)
-        l.append(scrape_game_everything(url, competition))
-
-    games = [e['game'] for e in l if e]
-    goals = [e['goals'] for e in l if e]
-    lineups = [e['lineups'] for e in l if e]
-    return games, goals, lineups
-
-
-
-
-
-@everything_cache
-def scrape_game_everything(url, competition):
-    try:
-        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
-    except:
-        print "Failed for game at %s" % url
-        return {}
-
-
-    game_data = scrape_live_game(soup, competition)
-    goal_data = scrape_live_goals(soup, competition, game_data)
-    lineup_data = scrape_live_lineups(soup, competition, game_data)
-
-    return {
-        'game': game_data,
-        'goals': goal_data,
-        'lineups': lineup_data
-        }
-
+        }[league_code]
 
 
 
@@ -215,7 +127,7 @@ def get_urls_for_league(league_code, stop_date):
         except:
             print url
 
-    return [e for e in urls if e and 'espnfc' not in e]
+    return [e for e in urls if e]
 
 
 
@@ -288,7 +200,12 @@ def scrape_scoreboard(url):
         home_team, score, away_team = data[:3]
 
         urls = [e['href'] for e in game.findAll("a")]
-        url = ROOT_URL + urls[1]
+
+        # Distiguish espnfc vs. soccernet urls.
+        if 'http' in urls[1]:
+            url = urls[1]
+        else:
+            url = ROOT_URL + urls[1]
 
         # Are any of these checks necessary?
         score = score.replace("&nbsp;", ' ')
@@ -306,7 +223,7 @@ def scrape_scoreboard(url):
         try:
             home_score, away_score = [int(e) for e in  score.replace("&nbsp;", '').split("-")]
         except:
-            print data
+            import pdb; pdb.set_trace()
             return {}
 
         return url
@@ -316,19 +233,282 @@ def scrape_scoreboard(url):
     return [get_valid_url(game) for game in gameboxes]
 
 
+
+def scrape_league(league_code):
+    """
+    """
+
+    def make_match_stats_url(url):
+        """Get the match url of a different link to a game."""
+        #This is the match stats url which has subs, goals, etc.
+
+        if 'espnfc' in url:
+            return url
+
+        regexen = ('id=(\d+)[&$]', "/_/id/(\d+)$")
+        for regex in regexen:
+            m = re.search(regex, url)
+            if m:
+                return '%s/match?id=%s' % (ROOT_URL, m.groups()[0])
+
+        import pdb; pdb.set_trace()
+        x = 5
+
+
+
+    competition = code_to_competition(league_code)
+    l = []
+    for u in get_urls_for_league(league_code, STOP_DATE):
+        url = make_match_stats_url(u)
+
+        if 'espnfc' in url:
+            l.append(scrape_espnfc_game(url, competition))
+        else:
+            l.append(scrape_soccernet_game(url, competition))
+
+    games = [e['game'] for e in l if e.get('game')]
+    goals = [e['goals'] for e in l if e.get('goals')]
+    lineups = [e['lineups'] for e in l if e.get('lineups')]
+    return games, goals, lineups
+
+
+def scrape_espnfc_game(url, competition):
+
+    try:
+        # Loading soup here for speed.
+        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)#, refresh=True)
+    except:
+        print "Failed for game at %s" % url
+        return {}
+
+
+    try:
+        game_data = scrape_espnfc_game_data(soup, competition, url)
+    except:
+        import pdb; pdb.set_trace()
+    
+    goal_data = scrape_espnfc_goals(soup, competition, game_data, url)
+    lineup_data = scrape_espnfc_lineups(soup, competition, game_data, url)
+
+    return {
+        'game': game_data,
+        'goals': goal_data,
+        'lineups': lineup_data
+        }
+
+
+
+@everything_cache
+def scrape_soccernet_game(url, competition):
+    try:
+        # Loading soup here for speed.
+        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)#, refresh=True)
+    except:
+        print "Failed for game at %s" % url
+        return {}
+
+
+    game_data = scrape_soccernet_game_data(soup, competition, url)
+    goal_data = scrape_soccernet_goals(soup, competition, game_data, url)
+    lineup_data = scrape_soccernet_lineups(soup, competition, game_data, url)
+
+    return {
+        'game': game_data,
+        'goals': goal_data,
+        'lineups': lineup_data
+        }
+
+
+
+def scrape_espnfc_game_data(soup, competition, url):
+
+    match_details = soup.find("div", "match-details")
+
+    # Soccernet uses a javascript variable to display location-specific game time data.
+    # Find the Date object and use it to construct a datetime.
+    date_p = get_contents(match_details.findAll('p')[0])
+    milliseconds_from_epoch = int(re.search("Date\((\d+)\)", date_p).groups()[0])
+    dt = datetime.datetime.fromtimestamp(milliseconds_from_epoch / 1000)
+
+    location = get_contents(match_details.findAll('p')[1])
+
+    matchup = soup.find("div", 'matchup')
+
+    attendance = int(get_contents(matchup.find('span')).replace("Attendance:", ''))
+
+    home_team, away_team = [get_contents(e) for e in matchup.findAll("p", 'team-name')]
+
+    score = get_contents(matchup.find("p", 'score'))
+    home_score, away_score = [int(e) for e in score.split('-')]
+
+    home_team = SOCCERNET_ALIASES.get(home_team, home_team)
+    away_team = SOCCERNET_ALIASES.get(away_team, away_team)
+
+
+
+    return {
+        'team1': home_team,
+        'team2': away_team,
+        'team1_score': home_score,
+        'team2_score': away_score,
+        'home_team': home_team,
+        'competition': competition,
+        'season': str(dt.year),
+        'date': dt,
+        'location': location,
+        'referee': None,
+        'attendance': attendance,
+        'sources': [url],
+        }    
+
+
+@detail_cache
+def scrape_espnfc_goals(soup, competition, game_data, url):
+    """
+    Get goal data from a game page.
+    """
+    
+    goal_scorers = soup.findAll("ul", 'goal-scorers')
+    home_goals = [get_contents(e) for e in goal_scorers[0].findAll('li')]
+    away_goals = [get_contents(e) for e in goal_scorers[1].findAll('li')]
+
+    def process_goal(s, team):
+
+        # Need to check this for own goals?
+
+        goal_type = 'normal'
+
+        s = s.replace('\t', '').replace('\r', '').replace('\n', '').replace('&bull;', '').replace('\'', '').strip()
+
+        if not s:
+            return {}
+
+        m = re.match('(.*?)(\d+)', s)
+        if m:
+            player, minute = m.groups()
+
+        else:
+            import pdb; pdb.set_trace()
+
+        """
+        m = re.match("(.*?)\(og (\d+)'\)", s)
+        if m:
+            player, minute = m.groups()
+            goal_type = 'own goal'
+
+        m = re.match("(.*?)\(pen (\d+)'\)", s)
+        if m:
+            player, minute = m.groups()
+            goal_type = 'own goal'
+
+
+        if player == 'player':
+            import pdb; pdb.set_trace()
+        """
+
+            
+        return {
+            'goal': player,
+            'minute': minute,
+            'team': team,
+            'type': goal_type,
+            'season': unicode(game_data['date'].year),
+            'date': game_data['date'],
+            'competition': game_data['competition'],
+            'assists': [],
+            'sources': [url],
+            }
+
+    # Not the best way to handle this now that we've switched away from home/away designations.
+    goals = []
+    for goal in home_goals:
+        gd = process_goal(goal, game_data['team1'])
+        if gd:
+            goals.append(gd)
+
+    for goal in away_goals:
+        gd = process_goal(goal, game_data['team2'])
+        if gd:
+            goals.append(gd)
+        
+    return goals
+
+
+
+@detail_cache
+def scrape_espnfc_lineups(soup, competition, game_data, url):
+    """
+    Scrape a lineup from a game url.
+    """
+    # Not checking for red cards currently.
+
+    tables = soup.findAll("table", 'stat-table')
+    home_lineup = tables[0].find('tbody').findAll('tr')
+    away_lineup = tables[1].find('tbody').findAll('tr')
+                
+
+    def process_lineup(lineup, team):
+
+        format_sub_time = lambda s: int(s.replace('\\', '').replace('-', '').replace('\'', ''))
+
+        l = []
+
+        for item in lineup:
+
+            player_string = item.find('a')
+
+            # This represents the break between starters and unused subs.
+            # Just exit when we get here; we've gotten all the info about players who actually played.
+            if player_string is None:
+                return l
+
+            player = get_contents(player_string)
+
+            on = 0
+            off = 90
+
+            sub_out = item.find('div', 'soccer-icons-subout')
+            if sub_out:
+                off = format_sub_time(sub_out.contents[1])
+
+            sub_in = item.find('div', 'soccer-icons-subin')
+            if sub_in:
+                on = format_sub_time(sub_in.contents[1])
+
+
+
+            l.append({
+                    'name': player,
+                    'on': on,
+                    'off': off,
+                    'team': team,
+                    'date': game_data['date'],
+                    'season': unicode(game_data['date'].year),
+                    'competition': game_data['competition'],
+                    'sources': [url],
+                    })
+
+        return l
+
+
+
+    la = process_lineup(home_lineup, game_data['team1'])
+    lb = process_lineup(away_lineup, game_data['team2'])
+
+    return la + lb
+
+
+
+
+
 @game_cache
-def scrape_live_game(url, competition):
+def scrape_soccernet_game_data(soup, competition, url):
     """
     Get game data from a game page.
     """
 
-    # What to do if we can't scrape a game? 
-    # Check out http://soccernet.espn.go.com/match?id=336160
-    try:
-        soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
-    except:
-        print "Failed for game at %s" % url
-        return {}
+    #if '336300' in url:
+    #    import pdb; pdb.set_trace()
     
     home_team, away_team = [get_contents(e) for e in soup.findAll("div", "team-info")]
     game_data = soup.find("div", "game-time-location")
@@ -377,16 +557,11 @@ def scrape_live_game(url, competition):
 
 
 @detail_cache
-def scrape_live_goals(url, competition):
+def scrape_soccernet_goals(soup, competition, game_data, url):
     """
     Get goal data from a game page.
     """
     
-    game_data = scrape_live_game(url, competition)
-    if not game_data:
-        return []
-
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=10)
     container = soup.find("div", 'story-container').find("tbody")
     home_goals = [get_contents(e) for e in container.findAll("td", {"style": "text-align:left;"})]
     away_goals = [get_contents(e) for e in container.findAll("td", {"align": 'right'})]
@@ -405,6 +580,8 @@ def scrape_live_goals(url, competition):
         if m:
             player, minute = m.groups()
 
+
+        # Need to fix this...
         m = re.match("(.*?)\(og (\d+)'\)", s)
         if m:
             player, minute = m.groups()
@@ -427,7 +604,7 @@ def scrape_live_goals(url, competition):
         return {
             'goal': player,
             'minute': minute,
-            'team': SOCCERNET_ALIASES.get(team, team),
+            'team': team,
             'type': goal_type,
             'season': unicode(game_data['date'].year),
             'date': game_data['date'],
@@ -452,17 +629,11 @@ def scrape_live_goals(url, competition):
 
 
 @detail_cache
-def scrape_live_lineups(url, competition):
+def scrape_soccernet_lineups(soup, competition, game_data, url):
     """
     Scrape a lineup from a game url.
     """
     # Not checking for red cards currently.
-    soup = scrape_soup(url, encoding='iso_8859_1', sleep=5)
-
-    game_data = scrape_live_game(url, competition)
-    if not game_data:
-        return []
-
 
     tables = soup.findAll("table")
     
@@ -479,7 +650,7 @@ def scrape_live_lineups(url, competition):
         # Bad game listing.
         # Seems all 2006 New York lineups are missing.
         # e.g. http://soccernet.espn.go.com/match?id=207065&cc=5901
-        print "Bad soccernet listing: %s" % url
+        print "Bad soccernet listing"
         return []
 
 
@@ -536,7 +707,7 @@ def scrape_live_lineups(url, competition):
                     'name': player,
                     'on': on,
                     'off': off,
-                    'team': SOCCERNET_ALIASES.get(team, team),
+                    'team': team,
                     'date': game_data['date'],
                     'season': unicode(game_data['date'].year),
                     'competition': game_data['competition'],
@@ -550,32 +721,9 @@ def scrape_live_lineups(url, competition):
 
     return la + lb
 
-    
-'''
-def scrape_all_dates():
-    """
-    Scrape the generic scoreboard for all dates.
-    """
-    # Not fully implemented; 
-    # May be a simpler way of scraping all soccernet scores.
 
-    one_day = datetime.timedelta(days=1)
-    today = datetime.date.today()
-    d = today
-    games = []
-    while d > datetime.date(2000, 1, 1):
-        try:
-            d = d - one_day
-            url = 'http://soccernet.espn.go.com/scores?date=%s&league=all&cc=5901&xhr=1' % d.strftime("%Y%m%d")
-            g = scrape_general_scoreboard(url)
-            print g
-            games.extend(g)
-        except KeyboardInterrupt:
-            raise
-        except:
-            print "Failed %s" % url
-    return games
-'''
+
+
 
 
 if __name__ == "__main__":
