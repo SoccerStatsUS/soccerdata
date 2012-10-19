@@ -15,8 +15,8 @@ import random
 def first_merge():
     merge_standings()
     merge_awards()
-    merge_stats()
-    merge_games()
+    merge_all_stats()
+    merge_all_games()
 
     merge_goals()
     merge_lineups()
@@ -24,8 +24,8 @@ def first_merge():
     merge_bios()
 
 
-
 def second_merge():
+    # Why is this second?
     merge_teams()
 
 
@@ -99,7 +99,8 @@ def merge_goals():
     dd = {}
 
     def update_goal(d):
-        d.pop("_id")
+        if '_id' in d:
+            d.pop("_id")
         
         # normalize things.
         d['team'] = get_team(d['team'])
@@ -174,16 +175,25 @@ def merge_lineups():
 
 
 
-def merge_games():
+def merge_all_games():            
+    games_coll_names = ['%s_games' % coll for coll in SOURCES]
+    games_lists = [soccer_db[k].find() for k in games_coll_names]
+
+    games = merge_games(games_lists)
+    soccer_db.games.drop()
+    insert_rows(soccer_db.games, games)
+
+
+def merge_games(games_lists):
     """
     Merge games to prevent overlaps, then
     insert into the games db.
     """
 
-    game_dict = {}
-
     def update_game(d):
-        d.pop("_id")
+
+        if '_id' in d:
+            d.pop("_id")
         
         # normalize things.
         d['team1'] = get_team(d['team1'])
@@ -206,17 +216,16 @@ def merge_games():
         else:
             game_dict[key] = d
 
-        
-    for e in SOURCES:
-        c = '%s_games' % e
-        coll = soccer_db[c]
-        for e in coll.find():
+
+    game_dict = {}
+
+    for games_list in games_lists:
+        for e in games_list:
             update_game(e)
+
+    return game_dict.values()
+
             
-    soccer_db.games.drop()
-    insert_rows(soccer_db.games, game_dict.values())
-
-
 
 
 
@@ -259,9 +268,18 @@ def merge_bios():
     soccer_db.bios.drop()
     insert_rows(soccer_db.bios, bio_dict.values())
 
-            
 
-def merge_stats():
+
+def merge_all_stats():            
+    stats_coll_names = ['%s_stats' % coll for coll in SOURCES]
+    stats_lists = [soccer_db[k].find() for k in stats_coll_names]
+
+    stats = merge_stats(stats_lists)
+    soccer_db.stats.drop()
+    insert_rows(soccer_db.stats, stats)
+
+    
+def merge_stats(stats_lists):
     """
     Merge stats.
     """
@@ -285,14 +303,12 @@ def merge_stats():
 
     stat_dict = {}
 
-
-    for coll in SOURCES:
-        k = '%s_stats' % coll
-        for e in soccer_db[k].find():
+    for stats_list in stats_lists:
+        for e in stats_list:
             update_stat(e)
 
-    soccer_db.stats.drop()
-    insert_rows(soccer_db.stats, stat_dict.values())
+    return stat_dict.values()
+
 
 
 
