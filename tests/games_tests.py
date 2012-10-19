@@ -1,7 +1,8 @@
 from nose.tools import *
-from soccerdata.text.games import process_string
 import datetime
 
+from soccerdata.text.games import process_string
+from soccerdata.build.normalize import normalize_goal
 
 
 
@@ -51,13 +52,19 @@ def test_goals():
     assert_equal(goals[2]['assists'], ['pk'])
     #assert_equal(goals[2]['penalty_kick'], True)
 
+    g2 = normalize_goal(goals[2])
+    assert_equal(g2['assists'], [])
+    assert_equal(g2['penalty'], True)
+
     assert_equal(goals[3]['goal'], 'Own Goal')
     assert_equal(goals[3]['assists'], ['Fredy Montero'])
     assert_equal(goals[3]['team'], 'Real Salt Lake')
 
-    #assert_equal(goals[3]['goal'], None)
-    #assert_equal(goals[3]['own_goal_player'], 'Fredy Montero')
-
+    g3 = normalize_goal(goals[3])
+    assert_equal(g3['own_goal'], True)
+    assert_equal(g3['assists'], [])
+    assert_equal(g3['own_goal_player'], 'Fredy Montero')
+                        
 
 def test_lineups():
     games, goals, misconduct, appearances = process_string(BASIC)
