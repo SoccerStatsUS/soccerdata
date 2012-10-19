@@ -5,45 +5,6 @@ from soccerdata.data.alias import get_team, get_name, get_competition, get_place
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row, soccer_db
 
 
-def calculate_results(d):
-    team1_score = d['team1_score']
-    team2_score = d['team2_score']
-    team1_result = d.get('team1_result')
-    team2_result = d.get('team2_result')
-
-    if team1_result and team2_result:
-        return team1_result, team2_result
-
-    if team1_score == team2_score == None:
-        return '', ''
-
-    if type(team1_score) == int and type(team2_score) == int:
-        if team1_score == team2_score:
-            return 't', 't'
-
-        elif team1_score > team2_score:
-            return 'w', 'l'
-
-        else:
-            return 'l', 'w'
-
-    else:
-        if team1_result == 'w':
-            return 'w', 'l'
-
-        if team1_result == 'l':
-            return 'l', 'w'
-
-        if team2_result == 'w':
-            return 'l', 'w'
-
-        if team2_result == 'l':
-            return 'w', 'l'
-
-    import pdb; pdb.set_trace()
-    x = 5
-
-
 def make_stadium_getter():
     """
     Detect stadium and split off from place name
@@ -102,243 +63,242 @@ def make_stadium_getter():
         
     return getter
 
+stadium_getter = make_stadium_getter()
 
 
-def normalize_games(games):
-    stadium_getter = make_stadium_getter()
+def calculate_results(d):
+    team1_score = d['team1_score']
+    team2_score = d['team2_score']
+    team1_result = d.get('team1_result')
+    team2_result = d.get('team2_result')
 
-    l = []
-        
-    for e in games:
-        e['competition'] = get_competition(e['competition'])
-        e['team1'] = get_team(e['team1'])
-        e['team2'] = get_team(e['team2'])
+    if team1_result and team2_result:
+        return team1_result, team2_result
 
-        # Assign appropriate results based on score and result data.
-        e['team1_result'], e['team2_result'] = calculate_results(e)
+    if team1_score == team2_score == None:
+        return '', ''
 
-        # Transforming place names should happen before anything else.
-        # Place transfomrations are the most conservative.
-        if 'location' in e:
-            if e['location']:
-                e['location'] = get_place(e['location'])
-                    # Get stadium data if possible.
-                e['stadium'], e['location'] = stadium_getter(e['location'])
+    if type(team1_score) == int and type(team2_score) == int:
+        if team1_score == team2_score:
+            return 't', 't'
 
-        if e.get('home_team'):
-            e['home_team'] = get_team(e['home_team'])
+        elif team1_score > team2_score:
+            return 'w', 'l'
 
-        if e.get('referee'):
-            e['referee'] = get_name(e['referee'])
         else:
-            e['referee'] = None
+            return 'l', 'w'
 
-        if 'linesmen' in e:
-            linesmen = e.pop('linesmen')
+    else:
+        if team1_result == 'w':
+            return 'w', 'l'
 
-            if len(linesmen) == 0:
-                pass
-            elif len(linesmen) == 1:
-                e['linesman1'] = linesmen[0]
-            elif len(linesmen) == 2:
-                e['linesman1'] = linesmen[0]
-                e['linesman2'] = linesmen[1]
+        if team1_result == 'l':
+            return 'l', 'w'
 
-            # This happens in one game...ok?
-            elif len(linesmen) == 3:
-                e['linesman1'] = linesmen[0]
-                e['linesman2'] = linesmen[1]
-                e['linesman3'] = linesmen[2]
-            else:
-                import pdb; pdb.set_trace()
-                x = 5
+        if team2_result == 'w':
+            return 'l', 'w'
 
-        l.append(e)
+        if team2_result == 'l':
+            return 'w', 'l'
 
-    return l
+    import pdb; pdb.set_trace()
+    x = 5
 
 
-def normalize_picks(picks):            
-
-    l = []
-    for e in picks:
-        e['text'] = get_name(e['text'])
-        e['team'] = get_team(e['team'])
-        l.append(e)
-    return l
 
 
-def normalize_salaries(salaries):
 
-    l = []
-    for e in salaries:
-        e['name'] = get_name(e['name'])
-        l.append(e)
-    return l
+# Change all of these to use only a single game.
 
+def normalize_game(e):
+    e['competition'] = get_competition(e['competition'])
+    e['team1'] = get_team(e['team1'])
+    e['team2'] = get_team(e['team2'])
 
-def normalize_stadiums(stadiums):
-    l = []
-    for e in stadiums:
+    # Assign appropriate results based on score and result data.
+    e['team1_result'], e['team2_result'] = calculate_results(e)
 
-        e['name'] = get_stadium(e['name'])
-        e['location'] = get_city(e['location'])
+    # Transforming place names should happen before anything else.
+    # Place transfomrations are the most conservative.
+    if 'location' in e:
+        if e['location']:
+            e['location'] = get_place(e['location'])
+            # Get stadium data if possible.
+            e['stadium'], e['location'] = stadium_getter(e['location'])
 
-        e['year_opened'] = e['year_closed'] = None
-  
-        if type(e['opened']) == int:
-            e['year_opened'] = e.pop('opened')
-            e['opened'] = None
+    if e.get('home_team'):
+        e['home_team'] = get_team(e['home_team'])
 
-        elif type(e['opened']) == datetime.datetime:
-            e['year_opened'] = e['opened'].year
+    if e.get('referee'):
+        e['referee'] = get_name(e['referee'])
+    else:
+        e['referee'] = None
 
-        if type(e['closed']) == int:
-            e['year_closed'] = e.pop('closed')
-            e['closed'] = None
+    if 'linesmen' in e:
+        linesmen = e.pop('linesmen')
 
-        elif type(e['closed']) == datetime.datetime:
-            e['year_closed'] = e['closed'].year
+        if len(linesmen) == 0:
+            pass
+        elif len(linesmen) == 1:
+            e['linesman1'] = linesmen[0]
+        elif len(linesmen) == 2:
+            e['linesman1'] = linesmen[0]
+            e['linesman2'] = linesmen[1]
 
-        l.append(e)
-
-    return l
-
-
-def normalize_goals(goals):
-    l = []
-
-    for e in goals:
-        e['competition'] = get_competition(e['competition'])
-        e['team'] = get_team(e['team'])
-        try:
-            e['goal'] = get_name(e['goal'])
-        except:
+        # This happens in one game...ok?
+        elif len(linesmen) == 3:
+            e['linesman1'] = linesmen[0]
+            e['linesman2'] = linesmen[1]
+            e['linesman3'] = linesmen[2]
+        else:
             import pdb; pdb.set_trace()
+            x = 5
 
-        if e['goal'] == 'Own Goal':
-            e['own_goal'] = True
-            e['goal'] = None
-            if e['assists']:
-                e['own_goal_player'] = e['assists'][0]
-                e['assists'] = []
+    return e
 
-        e['assists'] = [get_name(n) for n in e['assists']]
 
+def normalize_pick(e):
+    e['text'] = get_name(e['text'])
+    e['team'] = get_team(e['team'])
+    return e
+
+
+def normalize_salary(e):
+    e['name'] = get_name(e['name'])
+    return e
+
+
+def normalize_stadium(e):
+    e['name'] = get_stadium(e['name'])
+    e['location'] = get_city(e['location'])
+
+    e['year_opened'] = e['year_closed'] = None
+  
+    if type(e['opened']) == int:
+        e['year_opened'] = e.pop('opened')
+        e['opened'] = None
+
+    elif type(e['opened']) == datetime.datetime:
+        e['year_opened'] = e['opened'].year
+
+    if type(e['closed']) == int:
+        e['year_closed'] = e.pop('closed')
+        e['closed'] = None
+
+    elif type(e['closed']) == datetime.datetime:
+        e['year_closed'] = e['closed'].year
+
+    return e
+
+
+def normalize_goal(e):
+    e['competition'] = get_competition(e['competition'])
+    e['team'] = get_team(e['team'])
+    try:
+        e['goal'] = get_name(e['goal'])
+    except:
+        import pdb; pdb.set_trace()
+
+    if e['goal'] == 'Own Goal':
+        e['own_goal'] = True
+        e['goal'] = None
         if e['assists']:
-            if e['assists'][0] == 'penalty kick':
-                e['assists'] = []
-                e['penalty'] = True
+            e['own_goal_player'] = e['assists'][0]
+            e['assists'] = []
 
-            elif e['assists'][0] == 'free kick':
-                e['assists'] = []
+    e['assists'] = [get_name(n) for n in e['assists']]
 
-            elif e['assists'][0] == 'unassisted':
-                e['assists'] = []
+    if e['assists']:
+        if e['assists'][0] == 'penalty kick':
+            e['assists'] = []
+            e['penalty'] = True
 
-        l.append(e)
+        elif e['assists'][0] == 'free kick':
+            e['assists'] = []
 
-    return l
+        elif e['assists'][0] == 'unassisted':
+            e['assists'] = []
 
+    return e
 
-def normalize_stats(stats):
-    l = []
-    for e in stats:
-        e['competition'] = get_competition(e['competition'])
-        e['team'] = get_team(e['team'])
-        e['name'] = get_name(e['name'])
+def normalize_stat(e):
+    e['competition'] = get_competition(e['competition'])
+    e['team'] = get_team(e['team'])
+    e['name'] = get_name(e['name'])
 
-        for k in (
-            'games_started', 
-            'games_played', 
-            'goals',
-            'assists',
-            'minutes', 
-            'shots', 
-            'shots_on_goal',
-            'fouls_committed', 
-            'fouls_suffered', 
-            'yellow_cards', 
-            'red_cards'
-            ):
-            if e.get(k) in ('', '-', '?', None):
-                e[k] = None
-            else:
-                try:
-                    e[k] = int(e[k])
-                except:
-                    print "Failed integer coercion on %s" % e
-                    import pdb; pdb.set_trace()
-                    e[k] = None
-
-        for k in 'goals', 'assists':
-            if e.get(k) == '':
-                e[k] = 0
-
-        l.append(e)
-
-    return l
-
-
-def normalize_lineups(lineups):
-    
-    l = []
-    for e in lineups:
-        e['competition'] = get_competition(e['competition'])
-        e['team'] = get_team(e['team'])
-        e['name'] = get_name(e['name'])
-
-        if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
-            e['on'] = e['on'][:-1]
-
-        if type(e['off']) in (str, unicode) and e['off'].endswith('\''):
-            e['off'] = e['off'][:-1]
-
-        l.append(e)
-
-    return l
-
-
-def normalize_standings(standings):
-    l = []
-    for e in standings:
-        e['competition'] = get_competition(e['competition'])
-        e['team'] = get_team(e['team'])
-        l.append(e)
-
-    return l
-
-
-def normalize_awards(awards):
-    l = []
-    for e in awards:
-        e['competition'] = get_competition(e['competition'])
-
-        if e['model'] == 'Team':
-            e['recipient'] = get_team(e['recipient'])
+    for k in (
+        'games_started', 
+        'games_played', 
+        'goals',
+        'assists',
+        'minutes', 
+        'shots', 
+        'shots_on_goal',
+        'fouls_committed', 
+        'fouls_suffered', 
+        'yellow_cards', 
+        'red_cards'
+        ):
+        if e.get(k) in ('', '-', '?', None):
+            e[k] = None
         else:
-            e['recipient'] = get_name(e['recipient'])
+            try:
+                e[k] = int(e[k])
+            except:
+                print "Failed integer coercion on %s" % e
+                import pdb; pdb.set_trace()
+                e[k] = None
 
-        l.append(e)
+    for k in 'goals', 'assists':
+        if e.get(k) == '':
+            e[k] = 0
 
-    return l
+    return e
 
 
-def normalize_bios(bios):
-    l = []
-    for e in bios:
-        # NB - weird naming.
-        e['name'] = get_name(e['name'])
+def normalize_lineup(e):
+    
+    e['competition'] = get_competition(e['competition'])
+    e['team'] = get_team(e['team'])
+    e['name'] = get_name(e['name'])
 
-        if type(e['birthdate']) == int:
-            e['birthdate'] = None
+    if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
+        e['on'] = e['on'][:-1]
 
-        if type(e['deathdate']) == int:
-            e['deathdate'] = None
+    if type(e['off']) in (str, unicode) and e['off'].endswith('\''):
+        e['off'] = e['off'][:-1]
 
-        l.append(e)
+    return e
 
-    return l
+
+def normalize_standing(e):
+    e['competition'] = get_competition(e['competition'])
+    e['team'] = get_team(e['team'])
+    return e
+
+
+def normalize_award(e):
+    e['competition'] = get_competition(e['competition'])
+
+    if e['model'] == 'Team':
+        e['recipient'] = get_team(e['recipient'])
+    else:
+        e['recipient'] = get_name(e['recipient'])
+
+    return e
+
+
+def normalize_bio(e):
+    # NB - weird naming.
+    e['name'] = get_name(e['name'])
+
+    if type(e['birthdate']) == int:
+        e['birthdate'] = None
+
+    if type(e['deathdate']) == int:
+        e['deathdate'] = None
+
+    return e
 
     
     
@@ -353,7 +313,7 @@ def normalize():
     """
 
     def normalize_single_coll(coll, func):
-        l = func(coll.find())
+        l = [func(e) for e in coll.find()]
         coll.drop()
         insert_rows(coll, l)
 
@@ -363,14 +323,14 @@ def normalize():
             normalize_single_coll(coll, func)
             
 
-    normalize_single_coll(soccer_db.picks, normalize_picks)
-    normalize_single_coll(soccer_db.salaries, normalize_salaries)
-    normalize_single_coll(soccer_db.stadiums, normalize_stadiums)
-    normalize_single_coll(soccer_db.bios, normalize_bios)
+    normalize_single_coll(soccer_db.picks, normalize_pick)
+    normalize_single_coll(soccer_db.salaries, normalize_salary)
+    normalize_single_coll(soccer_db.stadiums, normalize_stadium)
+    normalize_single_coll(soccer_db.bios, normalize_bio)
 
-    normalize_multiple_colls('games', normalize_games)
-    normalize_multiple_colls('goals', normalize_goals)
-    normalize_multiple_colls('stats', normalize_stats)
-    normalize_multiple_colls('standings', normalize_standings)
-    normalize_multiple_colls('lineups', normalize_lineups)
-    normalize_multiple_colls('awards', normalize_awards)
+    normalize_multiple_colls('games', normalize_game)
+    normalize_multiple_colls('goals', normalize_goal)
+    normalize_multiple_colls('stats', normalize_stat)
+    normalize_multiple_colls('standings', normalize_standing)
+    normalize_multiple_colls('lineups', normalize_lineup)
+    normalize_multiple_colls('awards', normalize_award)
