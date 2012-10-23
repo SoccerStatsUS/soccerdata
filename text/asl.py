@@ -150,7 +150,8 @@ def process_stats():
         if not line.startswith('*'):
             lx = load_stat(line)
         l.append(lx)
-    return l
+
+    return [e for e in l if e]
 
 
 
@@ -185,15 +186,8 @@ def load_stat(line):
 
     team_name = get_full_name_stats(team, season)
 
-    if season == '1928-1929' and team_name in ('Bethlehem Steel', 'Newark Skeeters', 'Newark Giants', 'Hakoah All-Stars'):
-        #import pdb; pdb.set_trace()
-        competition = 'Eastern Soccer League (1928-1929)'
-    else:
-        competition = 'American Soccer League (1921-1933)'
-
-
-    l = []
-    l.append({
+    competition = 'American Soccer League (1921-1933)'
+    return [{
             'name': name,
             'team': team_name,
             'season': season,
@@ -201,7 +195,9 @@ def load_stat(line):
             'games_played': season_games,
             'goals': season_goals,
             'source': 'American Soccer League (1921-1931)',
-            })
+            }]
+
+
 
 
     # Not doing these anymore; have better way to get open cup scores.
@@ -342,6 +338,9 @@ class GameProcessor(object):
         
 
     def consume_row(self, row):
+        if not row.strip():
+            return {}
+
         fields = row.strip().split('\t')
 
         # What is field # 10?
@@ -355,8 +354,9 @@ class GameProcessor(object):
         elif len(fields) == 8:
             team, season, competition, month, day, opponent, location, score = fields
             goals = []
+
         else:
-            # Is this happening?
+            # A couple of games without scores (forfeits). (len = 7)
             print fields
             return {}
 
