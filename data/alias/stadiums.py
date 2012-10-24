@@ -12,6 +12,9 @@ def get_stadium(s):
     """
 
     s = s.strip()
+    if type(s) == type(''):
+        s = unicode(s, 'utf-8')
+
     if s in sd:
         return get_stadium(sd[s])
     else:
@@ -20,6 +23,20 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Estadio Nacional Mateo Flores': 'Estadio Mateo Flores',
+    'Estadio Andres Quintana Roo': 'Estadio Quintana Roo',
+    'Estadio Agustin Muquita Sanchez': 'Estadio Agustín Sánchez',
+    'Estadio Agustin Sanchez': 'Estadio Agustín Sánchez',
+    'Estadio Armando Dely Valdes': 'Estadio Armando Dely Valdés',
+    'Estadio Nemesio Diez': 'Estadio Nemesio Díez',
+    'Estadio Cuscatlan': 'Estadio Cuscatlán',
+    'Estadio Olimpico Universitario': 'Estadio Olímpico Universitario',
+    'Estadio Tecnologico': 'Estadio Tecnológico',
+    'Estadio Francisco Morazan': 'Estadio Francisco Morazán',
+    'Estadio Tiburcio Carias Andino': 'Estadio Tiburcio Carías Andino',
+    'Estadio Olimpico Metropolitano': 'Estadio Olímpico Metropolitano',
+    'Estadio Jorge Calero Suarez': 'Estadio Jorge Calero Suárez',
+    'DSG Park': 'Dick\'s Sporting Goods Park',
     'Lehigh Stadium': 'Taylor Field',
     'Starfire Complex': 'Starfire Sports Complex',
     'Rochester Rhinos Stadium': 'Sahlen\'s Stadium',
