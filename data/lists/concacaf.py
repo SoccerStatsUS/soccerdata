@@ -3,7 +3,7 @@
 
 
 champions_cup = {
-    'competition': 'CONCACAF Champions Cup',
+    'competition': 'CONCACAF Champions\' Cup',
     'team_data': ['Champion'],
 
     'Champion': [
@@ -46,11 +46,12 @@ champions_league = {
             ('2008-2009', 'Atlante'),
             ('2009-2010', 'Pachuca'),
             ('2010-2011', 'Monterrey'),
+            ('2011-2012', 'Monterrey'),
             ],
 }
 
 superliga = {
-    'competition': 'Superliga',
+    'competition': 'North American SuperLiga',
     'team_data': ['Champion'],
 
     'Champion': [
