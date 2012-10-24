@@ -187,7 +187,7 @@ def load_all_games_scaryice():
 
     
     l = sorted([dict(e) for e in s])
-    return [e for e in l if int(e['season']) < 2008]
+    return l
 
 
     
@@ -201,7 +201,7 @@ def load_all_goals_scaryice():
 
     lineups = make_lineup_dict()
     goals = correct_goal_names(l, lineups)
-    return [e for e in goals if int(e['season']) < 2008]
+    return goals
     
     
 
@@ -213,8 +213,8 @@ def load_all_lineups_scaryice():
         fn = "%s.csv" % key
         l.extend(get_lineups(fn))
 
-    return [e for e in l if int(e['season']) < 2008]
     return l
+
 
 
 
@@ -489,6 +489,10 @@ def get_goals(filename):
             if not e:
                 return {}
 
+            competition = get_competition(match_type)
+            if competition != 'Major League Soccer':
+                return {}
+
             # Handle different goal formats.
 
             # e.g. Kosecki (Razov) 76; Kotschau (unassisted) 87'
@@ -525,8 +529,11 @@ def get_goals(filename):
             if date.year >= 2008:
                 return {}
 
+
+
+
             return {
-                'competition': get_competition(match_type),
+                'competition': competition,
                 'team': team_map.get(team_name, team_name),
                 'date': date,
                 'season': unicode(date.year),
@@ -546,7 +553,6 @@ def get_goals(filename):
     for line in open(p).readlines():
         l.extend(process_line(line))
 
-    l= [e for e in l if e['competition'] == 'Major League Soccer']
     return l
 
 
@@ -638,6 +644,12 @@ def get_lineups(filename):
             match_type, date_string, location, opponent, score, result, _, goals, lineups = items
         except:
             import pdb; pdb.set_trace()
+
+
+        competition = get_competition(match_type)
+        if competition != 'Major League Soccer':
+            return []
+
         date = get_date(date_string)
 
         plineups = preprocess_lineups(lineups)
@@ -655,8 +667,8 @@ def get_lineups(filename):
     for line in open(p).readlines():
         l.extend(process_line(line))
 
-    l = [e for e in l if e['competition'] == 'Major League Soccer']
-    return l
+    return [e for e in l if e]
+
 
 
 
