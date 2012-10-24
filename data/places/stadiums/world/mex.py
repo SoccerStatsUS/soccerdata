@@ -11,6 +11,15 @@ l = [
         'location': 'Mexico City, Mexico',
         },
 
+    {
+        'name': 'Estadio Omnilife',
+        'location': 'Zapopan, Jalisco',
+        'opened': datetime.datetime(2010, 7, 30),
+        'cost': 200000000,
+        'capacity': 49850,
+        },
+
+
 
     {
         'name': 'Estadío Parque Necaxa',
@@ -30,6 +39,13 @@ l = [
         'location': 'Queretaro, Mexico',
         'opened': datetime.datetime(1985, 2, 5),
         'capacity': 45575,
+        },
+
+        {
+        'name': 'Estadio Nemesio Díez',
+        'location': 'Toluca, Mexico',
+        'capacity': 27000,
+        'opened': datetime.datetime(1954, 8, 18),
         },
 
 
@@ -71,6 +87,13 @@ l = [
         'closed': 1966,
         },        
 
+    {
+        'name': 'Estadio Hidalgo',
+        'location': 'Pachuca, Hidalgo, Mexico',
+        'capacity': 30000,
+        'opened': 1993,
+        },        
+
 
     {
         'name': 'Estadio TSM Corona',
@@ -98,17 +121,19 @@ l = [
         },
 
 
-                {
+    {
         'name': 'Necaxa Stadium',
         'location': 'Mexico City',
         },
-                {
+
+    {
         'name': 'Estadio Olímpico Universitario',
         'location': 'Ciudad Universitaria, Mexico City, Mexico',
         'opened': datetime.datetime(1952, 11, 20),
         'capacity': 63186,
         },
-                {
+
+    {
         'name': 'Estadio Tecnológico',
         'location': 'Monterrey, Mexico',
         'opened': datetime.datetime(1950, 7, 17),
@@ -121,6 +146,14 @@ l = [
         'location': 'Cancún, Quintana Roo, México',
         'capacity': 20000,
         'opened': datetime.datetime(2007, 8, 11)
+        },
+
+        {
+        'name': 'Estadio Morelos',
+        'location': 'Morelia, Michoacán, México',
+        'capacity': 41500,
+        'opened': datetime.datetime(1989, 4, 9),
+        'cost': 20000000,
         },
 
 

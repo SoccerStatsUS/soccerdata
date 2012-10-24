@@ -15,6 +15,12 @@ l = [
         },
 
     {
+        'name': 'Providence Stadium',
+        'location': 'Providence, Guyana',
+        'capacity': 15000,
+        },
+
+    {
         'name': 'Sir Vivian Richards Stadium',
         'location': 'North Sound, Antigua and Barbuda',
         'opened': 2008,

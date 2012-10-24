@@ -7,6 +7,15 @@ import datetime
 
 
 l = [
+
+        {
+        'name': 'Estadio Cuscatlán',
+        'location': 'San Salvador, El Salvador',
+        'opened': 1976,
+        'capacity': 39043,
+        },
+
+
     {
         'name': 'Estadio Rommel Fernandez',
         'location': 'Panama City, Panama',
@@ -14,7 +23,6 @@ l = [
         'capacity': 32000,
         },
     
-
         {
         'name': 'André Kamperveen Stadion',
         'location': 'Paramaribo, Suriname',
@@ -23,7 +31,40 @@ l = [
 
 
         {
-        'name': 'Estadio Olimpico',
+        'name': 'Estadio Nacional de Costa Rica',
+        'location': 'San José, Costa Rica',
+        'opened': datetime.datetime(2011, 3, 26),
+        'capacity': 35100,
+        'cost': 110000000,
+        },
+
+
+        {
+        'name': 'Estadio Eladio Rosabal Cordero',
+        'location': 'Heredia, Costa Rica',
+        'capacity': 8144,
+        },
+
+
+        {
+        'name': 'Estadio Mario Camposeco',
+        'location': 'Quetzaltenango, Guatemala',
+        'opened': datetime.datetime(1950, 8, 25),
+        'capacity': 11000,
+        },
+
+
+
+        {
+        'name': 'Estadio Alejandro Morera Soto',
+        'location': 'Alajuela, Costa Rica',
+        'opened': datetime.datetime(1942, 1, 18),
+        'capacity': 17895,
+        },
+
+
+        {
+        'name': 'Estadio Olímpico Metropolitano',
         'location': 'San Pedro Sula, Honduras',
         'opened': 1997,
         'capacity': 37325,
@@ -49,13 +90,20 @@ l = [
         },
 
         {
+        'name': 'Estadio Francisco Morazán',
+        'location': 'San Pedro Sula, Honduras',
+        'capacity': 20000,
+        'opened': 1970,
+        },
+
+        {
         'name': 'Tony Spaulding Sports Complex',
         'location': 'Kingston, Jamaica',
         'capacity': 2200,
         },
 
 
-                {
+    {
         'name': 'Estadio Jorge Calero Suárez',
         'location': 'Metapán, El Salvador',
         'capacity': 8000,
@@ -68,11 +116,14 @@ l = [
 
         },
 
-                    {
+        {
         'name': 'Marvin Lee Stadium',
         'location': 'Macoya, Trinidad & Tobago',
         'capacity': 6000,
         },
+
+
+
 
     {
         'name': 'Hasely Crawford Stadium',
@@ -113,11 +164,33 @@ l = [
         'capacity': 16000,
         },
 
-                  {
+
+              {
+        'name': 'Estadio Agustín Sánchez',
+        'location': 'La Chorrera, Panama',
+        'capacity': 3040,
+        },
+
+              {
+        'name': 'Estadio Nacional Rod Carew',
+        'location': 'Panama City, Panama',
+        'capacity': 27000,
+        'cost': 25000000,
+        'opened': datetime.datetime(1999, 10, 10),
+        },
+
+        {
         'name': 'Estadio Rommel Fernández',
         'location': 'Panama City, Panama',
         'opened': datetime.datetime(1970, 2, 6),
         'capacity': 32000,
+        },
+
+        {
+        'name': 'Estadio Carlos Miranda',
+        'location': 'Comayagua, Honduras',
+        'opened': datetime.datetime(2005, 12, 3),
+        'capacity': 10000,
         },
 
                       {

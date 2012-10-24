@@ -73,6 +73,23 @@ l = [
         'location': 'Montreal',
         'capacity': 33172,
         },
+
+    {
+        'name': 'Maple Leaf Stadium',
+        'address': 'Bathurst Street and Lake Shore Boulevard West',
+        'location': 'Toronto, ON',
+        'capacity': 13000,
+        },
+
+    {
+        'name': 'Rogers Centre',
+        'address': 'One Blue Jays Way',
+        'location': 'Toronto, ON',
+        'capacity': 47568,
+        'opened': datetime.datetime(1989, 6, 3),
+        'cost': 570000000,
+        },
+
     {
         'name': 'Olympic Stadium',
         'address': '4545 Pierre de Coubertin Avenue',
