@@ -7,8 +7,8 @@ from BeautifulSoup import BeautifulSoup
 
 db = leveldb.LevelDB("/home/chris/leveldb/page")
 
-USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
-
+# USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 5.1; rv:8.0; en_us) Gecko/20100101 Firefox/8.0'
 
 def pounds_to_kg(pounds):
     if not pounds:
