@@ -66,6 +66,9 @@ def process_nasl_awards():
     return process_awards(d)
 
 
+def process_concacaf_awards():
+    from soccerdata.data.lists.concacaf import champions_cup, champions_league, superliga
+    return process_awards(champions_cup) + process_awards(champions_league) + process_awards(superliga)
 
 
 def process_usa_awards():

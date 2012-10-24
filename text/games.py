@@ -117,7 +117,7 @@ class GeneralProcessor(object):
             return
 
 
-        if line.startswith("Substitutes Not Used:"):
+        if line.lower().startswith("substitutes not used:"):
             return
 
         if line.startswith("Group"):
@@ -528,6 +528,8 @@ class GeneralProcessor(object):
                     for e in l:
                         e.update(base)
 
+                    return l
+
                     #print "Handling multiple sub_items %s" % len(sub_items)
                     #print sub_items
 
@@ -618,10 +620,13 @@ class GeneralProcessor(object):
             
 
 
-def process_file(p):
-    f = open(p)
+def process_string(s):
+    lines = s.split('\n')
+    return process_lines(lines)
+
+def process_lines(lines):
     gp = GeneralProcessor()
-    for line in f:
+    for line in lines:
         gp.process_line(line)
 
     return (gp.games, gp.goals, gp.misconduct, gp.appearances)
@@ -630,6 +635,11 @@ def process_file(p):
 def process_games_file(fn):
     p = os.path.join("/home/chris/www/soccerdata/data/games", fn)
     return process_file(p)
+
+def process_file(p):
+    f = open(p)
+    return process_lines(f)
+
 
 
 def split_outside_parens(s, delimiters=','):
