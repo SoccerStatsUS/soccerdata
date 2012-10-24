@@ -37,6 +37,7 @@ aliases.update(full_alias)
 partial_alias = {
     'Domestic Tour': 'Friendly',
     'International Tour': 'Friendly',
+    'Desert Diamond Cup': 'Friendly',
 
     'Bicentennial Cup': 'Friendly',
     'Carlsberg Cup': 'Friendly',

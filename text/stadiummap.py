@@ -70,7 +70,7 @@ def process_stadium_map_file(p):
             end = correct_date(end, start=False)
 
             nm.append({
-                    'team': get_team(team.strip()),
+                    'team': get_team(team),
                     'stadium': get_stadium(stadium.strip()),
                     'start': start,
                     'end': end,

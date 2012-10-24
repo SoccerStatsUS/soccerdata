@@ -5,7 +5,53 @@ from soccerdata.mongo import soccer_db
 
 teams = {}
 
+
+def get_team(name, competition=None):
+    # Remove pre_dict, competition from get_team
+
+    name = convert_country_code(name)
+
+    if name is None:
+        import pdb; pdb.set_trace()
+
+    name = name.strip()
+
+    # This should be split out into a separate function. Currently only used in leach.
+    # 
+    if competition is not None and (name, competition) in teams:
+        name = teams[(name, competition)]
+        return get_team(name, competition)
+
+    if name in teams:
+        return get_team(teams[name])
+
+
+    return name
+
+
+country_code_dict = dict([(e['code'], e['name']) for e in soccer_db.countries.find()])
+
+def convert_country_code(code):
+    if code in country_code_dict:
+        return country_code_dict[code]
+
+    return code
+
+    
+
+
 leach = {
+    'Toronto Ulster': 'Toronto Ulster United',
+    'Ulster United': 'Toronto Ulster United',
+
+    'Isidro Metapan': 'Isidro Metapán',
+    'Xelaju': 'Xelajú MC',
+    'Chorrillo': 'Chorrillo F.C.',
+    'Olimpia': 'CD Olimpia',
+    'Municipal': 'CSD Municipal',
+    'San Francisco': 'San Francisco FC',
+    'Motagua': 'CD Motagua',
+    'Brujas': 'Brujas FC',
 
     'New Bedford F.C.': 'New Bedford Whalers',
     'Real Maryland Monarchs FC': 'Real Maryland Monarchs',
@@ -1562,34 +1608,3 @@ pdl_teams = {
 
 
 
-country_code_dict = dict([(e['code'], e['name']) for e in soccer_db.countries.find()])
-
-def convert_country_code(code):
-    if code in country_code_dict:
-        return country_code_dict[code]
-
-    return code
-
-
-def get_team(name, competition=None, pre_dict={}):
-    # Remove pre_dict, competition from get_team
-
-    name = convert_country_code(name)
-
-    if name is None:
-        import pdb; pdb.set_trace()
-
-    name = name.strip()
-
-    name = pre_dict.get(name, name)
-        
-    if competition is not None and (name, competition) in teams:
-        name = teams[(name, competition)]
-        return get_team(name, competition)
-
-    if name in teams:
-        return get_team(teams[name])
-
-
-    return name
-    

@@ -1,3 +1,7 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
 from teams import get_team
 from people import get_name
 from competitions import get_competition

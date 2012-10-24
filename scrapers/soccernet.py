@@ -60,12 +60,12 @@ from soccerdata.utils import scrape_soup, get_contents
 from soccerdata.cache import set_cache, data_cache
 
 url_cache = data_cache
-game_cache = data_cache
-detail_cache = data_cache
-everything_cache = data_cache
+game_cache = set_cache
+detail_cache = set_cache
+everything_cache = set_cache
 
 ROOT_URL = 'http://soccernet.espn.go.com'
-STOP_DATE = datetime.date(2008, 1, 1)
+STOP_DATE = datetime.date(2012, 1, 1)
 
 
 SOCCERNET_ALIASES = {
@@ -298,7 +298,7 @@ def scrape_espnfc_game(url, competition):
 
 
 
-@everything_cache
+#@everything_cache
 def scrape_soccernet_game(url, competition):
     try:
         # Loading soup here for speed.
@@ -501,7 +501,7 @@ def scrape_espnfc_lineups(soup, competition, game_data, url):
 
 
 
-@game_cache
+#@game_cache
 def scrape_soccernet_game_data(soup, competition, url):
     """
     Get game data from a game page.
@@ -556,7 +556,7 @@ def scrape_soccernet_game_data(soup, competition, url):
         }
 
 
-@detail_cache
+#@detail_cache
 def scrape_soccernet_goals(soup, competition, game_data, url):
     """
     Get goal data from a game page.
@@ -628,7 +628,7 @@ def scrape_soccernet_goals(soup, competition, game_data, url):
     return goals
 
 
-@detail_cache
+#@detail_cache
 def scrape_soccernet_lineups(soup, competition, game_data, url):
     """
     Scrape a lineup from a game url.

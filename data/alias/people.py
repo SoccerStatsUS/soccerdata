@@ -1,6 +1,31 @@
 
 # -*- coding: utf-8 -*-
 
+
+def get_name(name, league=None):
+    try:
+        return _get_name(name, league)
+    except:
+        import pdb; pdb.set_trace()
+        x = 5
+
+
+def _get_name(name, league):
+    # Remove league option from get_name.
+    name = name.strip()
+    if league and (name, league) in names:
+        name = names[(name, league)]
+        return get_name(name, league)
+
+    if name in names:
+        nname = get_name(names[name])
+        if nname in names:
+            print nname
+        return nname
+    return name
+
+
+
 names = {}
 
 nonpeople = {
@@ -26,6 +51,8 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+    'Deszo Grosz': 'Dezso Grosz',
+    'Nizar Khalifan': 'Nizar Khalfan',
 
     'Daniele Dichio': 'Danny Dichio',
     'Ibriahim Salou': 'Ibrahim Salou',
@@ -1218,6 +1245,7 @@ nx = {
     'Andre': 'André',
     'Andres Rivera': 'Andrés Rivera',
     'Aurelien Collin': 'Aurélien Collin',
+    'Aurelian Collin': 'Aurélien Collin',
     'Alfredo Hernandez': 'Alfredo Hernández',
     'Antonio Gonzalez': 'Antonio González',
     'Adrian Romero': 'Adrián Romero',
@@ -2694,30 +2722,7 @@ usmnt = {
 names.update(usmnt)
 
 
-def get_name(name, league=None):
-    try:
-        return _get_name(name, league)
-    except:
-        import pdb; pdb.set_trace()
-        x = 5
-
-
-def _get_name(name, league):
-    # Remove league option from get_name.
-    name = name.strip()
-    if league and (name, league) in names:
-        name = names[(name, league)]
-        return get_name(name, league)
-
-    if name in names:
-        nname = get_name(names[name])
-        if nname in names:
-            print nname
-        return nname
-    return name
-
-
-    """
+"""
     'Gerson Mayen': 'Gerson Mayén',
 
     'Christian Gomez': 'Christian Gómez',
