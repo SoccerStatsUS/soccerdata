@@ -1,7 +1,5 @@
 # Process Ltrack files from Scott Leach.
 
-
-
 import datetime
 import os
 
@@ -55,7 +53,45 @@ def teams_for_season(season):
     return [e[0][0] for e in TEAM_COMPETITION_DICT.items() if e[0][1] == season]
 
 
-def process_lineups_file(fn, season):
+def determine_competition(comp, team, season):
+
+    mapping = {
+        'CCC': 'Concacaf Champions\' Cup',
+        'IAC': 'Interamerican Cup',
+        'GC': 'Gold Cup',
+        'FDLY': 'Friendly',
+        'MerC': 'Merconorte Cup',
+        'CCWC': 'Club World Cup',
+        'LMC': 'La Manga Cup',
+
+        'RC': 'RC',
+        'PCK': 'PCK',
+        'CQ': 'CQ',
+        'PPC': 'PPC',
+        'INDC': 'INDC',
+        }
+
+    if comp in mapping:
+        return mapping[comp]
+    
+
+    if comp == 'LGE':
+        try:
+            competitions = TEAM_COMPETITION_DICT[(team, season)]
+        except:
+            import pdb; pdb.set_trace()
+
+        if len(competitions) > 1:
+            import pdb; pdb.set_trace()
+        else:
+            return competitions[0]
+
+    import pdb; pdb.set_trace()
+    x = 5
+
+
+
+def process_lineups_file(fn):
     text = open(fn).read().replace('\r', '').split('\n')
     header = text[0]
     data = text[1:]
@@ -71,15 +107,12 @@ def process_lineups_file(fn, season):
 
             month, day, year = [int(e) for e in date_string.split("/")]
             d = datetime.datetime(year, month, day)
+            season = str(d.year)
 
             t = get_team(team)
 
-            if comp == 'LGE':
-                competitions = TEAM_COMPETITION_DICT[(t, season)]
-                if len(competitions) > 1:
-                    import pdb; pdb.set_trace()
-                else:
-                    competition = competitions[0]
+            competition = determine_competition(comp, t, season)
+
 
             n = format_name(name)
 
@@ -96,9 +129,10 @@ def process_lineups_file(fn, season):
 
 
     return [e for e in l if e['competition'] != 'Major League Soccer']
+
         
 
-def process_games_file(fn, season):
+def process_games_file(fn):
     """
     Process a games file.
     """
@@ -122,15 +156,21 @@ def process_games_file(fn, season):
             month, day, year = [int(e) for e in date_string.split("/")]
             d = datetime.datetime(year, month, day)
 
+            season = str(d.year)
+
             team1 = get_team(home_team)
             team2 = get_team(away_team)
 
-            if comp == 'LGE':
-                competitions = TEAM_COMPETITION_DICT[(team1, season)]
-                if len(competitions) > 1:
-                    import pdb; pdb.set_trace()
-                else:
-                    competition = competitions[0]
+            competition = determine_competition(comp, team1, season)
+
+            if attendance.strip():
+                attendance = int(attendance.replace(',', ''))
+            else:
+                attendance = None
+
+            if attendance in (0, 1):
+                attendance = None
+                
 
             l.append({
                     'team1': team1,
@@ -141,7 +181,7 @@ def process_games_file(fn, season):
                     'competition': competition,
                     'season': season,
                     'date': d,
-                    #'location': location,
+                    'attendance': attendance,
                     'referee': format_name(referee),
                     'source': 'Scott Leach',
                     })
@@ -149,7 +189,7 @@ def process_games_file(fn, season):
     return [e for e in l if e['competition'] != 'Major League Soccer']
 
 
-def process_goals_file(fn, season):
+def process_goals_file(fn):
     """
     Process a goal file.
     """
@@ -171,6 +211,7 @@ def process_goals_file(fn, season):
             month, day, year = [int(e) for e in date_string.split("/")]
 
             d = datetime.datetime(year, month, day)
+            season = str(d.year)
 
             if assist1 and assist2:
                 assists = [format_name(assist1), format_name(assist2)]
@@ -181,18 +222,7 @@ def process_goals_file(fn, season):
 
             team = get_team(team)
 
-            if comp == 'LGE':
-                try:
-                    competitions = TEAM_COMPETITION_DICT[(team, season)]
-                except:
-                    import pdb; pdb.set_trace()
-
-                if len(competitions) > 1:
-                    import pdb; pdb.set_trace()
-                else:
-                    competition = competitions[0]
-
-
+            competition = determine_competition(comp, team, season)
 
             l.append({
                     'goal': format_name(player),
@@ -218,8 +248,7 @@ def process_goals():
     directory = os.path.join(DIR, 'goals')
     for fn in os.listdir(directory):
         p = os.path.join(directory, fn)
-        season = fn.split(".")[0]
-        data = process_goals_file(p, season)
+        data = process_goals_file(p)
         l.extend(data)
     return l
         
@@ -234,8 +263,7 @@ def process_games():
     directory = os.path.join(DIR, 'games')
     for fn in os.listdir(directory):
         p = os.path.join(directory, fn)
-        season = fn.split(".")[0]
-        data = process_games_file(p, season)
+        data = process_games_file(p)
         l.extend(data)
     return l
      
@@ -248,9 +276,9 @@ def process_lineups():
     l = []
     directory = os.path.join(DIR, 'squads')
     for fn in os.listdir(directory):
+
         p = os.path.join(directory, fn)
-        season = fn.split(".")[0]
-        data = process_lineups_file(p, season)
+        data = process_lineups_file(p)
         l.extend(data)
     return l
         
