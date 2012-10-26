@@ -14,6 +14,7 @@ SOURCES = [
     'small',
     'melvin',
     'tours',
+    'state',
     'american_cup',
     'open_cup',
     'nafbl',
