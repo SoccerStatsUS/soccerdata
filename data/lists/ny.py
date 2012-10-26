@@ -1,7 +1,15 @@
 
 
+mafl = {
+    'competition': 'Metropolitan Association Football League',
+    'team_data': ['Champion'],
+    
+    'Champion': [
+        ('1905', 'New York Caledonians'),
+        ],
+    }
 
-npsl = {
+nysac = {
     'competition': 'New York State Association Cup',
     'team_data': ['Champion'],
     
@@ -12,7 +20,7 @@ npsl = {
         ],
 }
 
-npsl = {
+nysal = {
     'competition': 'New York State Amateur League',
     'team_data': ['Champion'],
     
@@ -28,7 +36,7 @@ npsl = {
         ],
 }
 
-npsl = {
+snysfbac = {
     'competition': 'Southern New York State Foot Ball Association Cup',
     'team_data': ['Champion'],
     
@@ -43,21 +51,18 @@ npsl = {
         ],
 }
 
-npsl = {
+nysscc = {
     'competition': 'New York State Senior Challenge Cup',
     'team_data': ['Champion'],
     
     'Champion': [        
         (1931, 'New York Giants'),
         (1931, 'New York Hispano'),
-        (1931, 'Prague FC')
+        (1931, 'Prague FC'),
         (1932, 'Brooklyn'),
         (1933, 'German-Hungarian'),
         (1934, 'St. Mary\'s Celtic'),
         (1935, 'St. Mary\'s Celtic'),
-        
-         (
-
         ],
 }
 
