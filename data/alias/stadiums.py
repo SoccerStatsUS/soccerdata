@@ -10,6 +10,7 @@ def get_stadium(s):
     """
     Recursive. 
     """
+    #print s
 
     s = s.strip()
     if type(s) == type(''):
@@ -23,6 +24,16 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Crescent Grounds': 'Crescent Athletic Club Grounds',
+    'Soldiers Field': 'Harvard Stadium',
+    'Soldier\'s Field': 'Harvard Stadium',
+    'Staten Island Cricket Club Grounds': 'Staten Island Cricket Grounds',
+    'Macomb\'s Dam Park': 'Macombs Dam Park',
+    'Montreal Stade Saputo': 'Stade Saputo',
+    'Maryland Soccerplex': 'Maryland SoccerPlex',
+    'Maryland Soccer Plex': 'Maryland SoccerPlex',
+    'RSL Training Field': 'America First Field',
+    #'Kino Veterans Memorial Stadium': 'Kino Veterans Memorial Stadium',
     'Estadio Nacional Mateo Flores': 'Estadio Mateo Flores',
     'Estadio Andres Quintana Roo': 'Estadio Quintana Roo',
     'Estadio Agustin Muquita Sanchez': 'Estadio Agustín Sánchez',
@@ -188,6 +199,7 @@ stadiums = {
     'Azteca Stadium': 'Estadio Azteca',
     'Orange Bowl': 'Miami Orange Bowl',
     'The Polo Grounds': 'Polo Grounds',
+    'Capitoline Lake': 'Capitoline Grounds',
     'Sparta Stadium': 'Sparta Field',
     'Marks Stadium': 'Mark\'s Stadium',
     'Dal-Hi Stadium': 'P.C. Cobb Stadium',
@@ -199,6 +211,8 @@ stadiums = {
     'Tacony Baseball Park': 'Tacony Baseball Grounds',
     'Soccorro Stadium': 'Socorro Stadium',
     'SAS Stadium': 'WakeMed Soccer Park',
+    'SAS Soccer Park': 'WakeMed Soccer Park',
+    'adidas Field at Pizza Hut Park': 'adidas Field',
     'National Sports Center': 'National Sports Center Stadium',
     'Husky Soccer Field': 'Husky Soccer Stadium',
     'PGE Park': 'JELD-WEN Field',

@@ -51,6 +51,7 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+    'Simone Bracalallo': 'Simone Bracalello',
     'Deszo Grosz': 'Dezso Grosz',
     'Nizar Khalifan': 'Nizar Khalfan',
 

@@ -15,6 +15,8 @@ def get_place(s):
 
 
 places = {
+    'Celtic Park, Long Island, NY': 'Celtic Park, Queens, NY',
+    'Cricket Club Grounds, Livingston, Staten Island, NY': 'Staten Island Cricket Grounds',
     'National Stadium (Olympic Stadium), Tokyo': 'National Olympic Stadium, Tokyo',
     'Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro': 'Estádio do Maracanã',
     'Pacaembu - Estádio Municipal Paulo Machado de Carv, Sao Paulo': 'Estádio do Pacaembu',
