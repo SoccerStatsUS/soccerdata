@@ -446,27 +446,35 @@ class GeneralProcessor(object):
             # Will implement captains later.
             s = s.replace('(c)', '')
 
+            if team == self.current_game['team1']:
+                goals_for, goals_against = self.current_game['team1_score'], self.current_game['team2_score']
+            else:
+                goals_for, goals_against = self.current_game['team2_score'], self.current_game['team1_score']
+
+
+            base = {
+                'team': team,
+                'competition': self.competition,
+                'date': self.current_game['date'],
+                'season': self.season,
+                'goals_for': goals_for,
+                'goals_against': goals_against,
+                }
+
             if '(' not in s:
 
                 name = process_name(s)
-                
-                return [{
+
+                e = {
                     'name': name,
                     'on': 0,
                     'off': 90,
-                    'team': team,
-                    'competition': self.competition,
-                    'date': self.current_game['date'],
-                    'season': self.season,
-                    }]
+                    }
+                e.update(base)
+                return [e]
 
             else:
-                base = {
-                    'team': team,
-                    'competition': self.competition,
-                    'date': self.current_game['date'],
-                    'season': self.season,
-                    }
+
                     
                 
                 starter, subs = s.split("(")
