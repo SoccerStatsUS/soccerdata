@@ -13,4 +13,10 @@ l = [
         'cost': 26000000,
         'architect': 'HOK Sport',
         },
+
+    {
+        'name': 'Oakland Riding Park',
+        'address': 'Metairie Road and Garden Lane',
+        'location': 'New Orleans, LA',
+        }
     ]

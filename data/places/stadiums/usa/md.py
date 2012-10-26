@@ -73,6 +73,16 @@ l = [
         'name': 'Richard Montgomery High School',
         'location': 'Rockville, MD',
         },
+
+    {
+        'name': 'Navy–Marine Corps Memorial Stadium',
+        'address': 'Rowe Blvd & Taylor Ave',
+        'location': 'Annapolis, MD',
+        'opened': 1959,
+        'cost': 3000000,
+        'capacity': 34000,
+
+        },
     
     {
         'name': 'Memorial Stadium Baltimore',

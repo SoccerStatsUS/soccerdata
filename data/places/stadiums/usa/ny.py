@@ -98,6 +98,28 @@ l = [
         'location': 'New York, NY',
         },
 
+    {
+        'name': 'Feltman\'s Park',
+        'location': 'Maspeth, NY',
+        },
+
+
+    {
+        'name': 'Caledonian Grounds',
+        'address': '145th Street and Lenox Avenue',
+        'location': 'New York, NY',
+        },
+
+
+    {
+        'name': 'Macombs Dam Park',
+        'address': '157th Street and Major Deegan Expressway',
+        'location': 'Bronx, NY',
+        },
+
+    
+
+
 
         {
         'name': 'Eastern Park',
@@ -255,8 +277,39 @@ l = [
         },
     
     {
-        'name': 'Baker Field',
+        'name': 'Wien Stadium',
+        'address': '5101 Broadway',
         'location': 'New York, NY',
+        'opened': datetime.datetime(1984, 9, 22),
+        'capacity': 17100,
+        },
+
+    {
+        'name': 'Baker Field',
+        'address': '5101 Broadway',
+        'location': 'New York, NY',
+        'opened': 1928,
+        'closed': 1982,
+        'capacity': 32000,
+        },
+
+
+    {
+        'name': 'South Field',
+        'address': '116th Street and Amsterdam',
+        'location': 'New York, NY',
+        },
+
+    {
+        'name': 'Columbia Oval',
+        'address': 'Gun Hill Road and Bainbridge Avenue',
+        'location': 'Bronx, NY',
+        },
+
+    {
+        'name': 'Utica Oval',
+        'address': 'St. John\'s Place and Utica Avenue',
+        'location': 'Brooklyn, NY',
         },
     
     {
@@ -303,9 +356,22 @@ l = [
         'opened': 1924,
         },
 
+    {
+        'name': 'Metropolitan Park',
+        'address': '109th Street and First Avenue',
+        'location': 'New York, NY',
+        
+        },
+
 
     {
         'name': 'Prospect Park',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Crescent Grounds',
+        'address': '8301 Shore Road',
         'location': 'Brooklyn, NY',
         },
 
@@ -317,6 +383,27 @@ l = [
     {
         'name': 'Staten Island Cricket Grounds',
         'location': 'Staten Island, NY',
+        },
+
+    {
+        'name': 'Meyerrose Park',
+        'address': 'Halsey Street and Wyckoff Avenue',
+        'location': 'Ridgewood, NY',
+        },
+
+    {
+        'name': 'Van Cortlandt Park',
+        'address': 'Broadway and Van Cortlandt Park South',
+        'location': 'Bronx, NY',
+        },
+
+
+    {
+        'name': 'Celtic Park',
+        'address': '48th Avenue and 42nd Street',
+        'location': 'Queens, NY',
+        'opened': datetime.datetime(1898, 5, 31),
+        'closed': 1931,
         },
 
     {

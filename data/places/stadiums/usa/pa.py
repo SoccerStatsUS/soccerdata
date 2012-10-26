@@ -25,6 +25,12 @@ l = [
         'location': 'Bethlehem, PA',
         },
 
+    {
+        'name': 'Don Thomas Stadium',
+        'address': '201 East 37th Street',
+        'location': 'Reading, PA',
+        },
+
 
     {
         'name': 'Baker Bowl',

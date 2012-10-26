@@ -44,6 +44,11 @@ l = [
         'name': 'Xango Field',
         'location': 'Lehi, UT',
         },
+
+    {
+        'name': 'RSL Training Field',
+        'location': 'Sandy, UT',
+        },
     
     {
         'name': 'Wendover Soccer Complex',

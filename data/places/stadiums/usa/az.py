@@ -31,6 +31,16 @@ l = [
         },
 
     {
+        'name': 'Kino Veterans Memorial Stadium',
+        'address': '2500 E Ajo Way',
+        'location': 'Tucson, AZ',
+        'opened': datetime.datetime(1998, 2, 27),
+        'capacity': 11500,
+        'cost': 38000000,
+        },
+
+
+    {
         'name': 'Sun Devil Stadium',
         'location': 'Tempe, AZ',
         'opened': datetime.datetime(1958, 10, 4),

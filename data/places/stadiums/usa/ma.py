@@ -33,6 +33,12 @@ l = [
         },
 
 
+    {
+        'name': 'South End Grounds',
+        'location': 'Boston, MA',
+        },
+
+
     
     # Athletic field for New Bedford HS
     {

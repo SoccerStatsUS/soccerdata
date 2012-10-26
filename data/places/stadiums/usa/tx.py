@@ -12,6 +12,21 @@ l = [
         },
 
     {
+        'name': 'Heroes Stadium',
+        'address': '4799 Thousand Oaks Dr',
+        'location': 'San Antonio, TX',
+        'opened': datetime.datetime(2009, 8, 28),
+        'capacity': 11122,
+        
+        },
+
+    {
+        'name': 'Houston Amateur Sports Park',
+        'address': '12131 Kirby Dr',
+        'location': 'Houston, TX',
+        },
+
+    {
         'name': 'Samuell Field',
         'location': 'Dallas, TX',
         },

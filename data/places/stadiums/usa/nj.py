@@ -62,6 +62,22 @@ l = [
         'name': 'ONT AA Grounds',
         'location': 'Kearny, NJ',
         },
+
+    {
+        'name': 'Sprague Field',
+        'location': 'Montclair, NJ',
+        'capacity': 5700,
+        },
+
+
+    {
+        'name': 'Transamerica Field',
+        'location': 'Charlotte, NC',
+        'capacity': 20000,
+        'opened': datetime.datetime(1996, 2, 25),
+        'cost': 2100000,
+        },
+
     {
         'name': 'Clark ONT Field',
         'location': 'East Newark, NJ',

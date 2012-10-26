@@ -38,8 +38,10 @@ l = [
         
         },
     {
-        'name': 'Middleford Cheese Stadium',
+        'name': 'Middlefield Cheese Stadium',
         'location': 'Bedford, OH',
+        'opened': 1994,
+        'capacity': 5000,
         },
     {
         'name': 'Miami Valley South Stadium',
