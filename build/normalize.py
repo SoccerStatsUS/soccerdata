@@ -66,7 +66,21 @@ def make_stadium_getter():
 stadium_getter = make_stadium_getter()
 
 
-def calculate_results(d):
+def calculate_lineup_result(d):
+    if d['goals_for'] is None or d['goals_against'] is None:
+        return None
+
+    if d['goals_for'] == d['goals_against']:
+        return 't'
+
+    if d['goals_for'] > d['goals_against']:
+        return 'w'
+
+    else:
+        return 'l'
+    
+
+def calculate_game_results(d):
     team1_score = d['team1_score']
     team2_score = d['team2_score']
     team1_result = d.get('team1_result')
@@ -116,7 +130,7 @@ def normalize_game(e):
     e['team2'] = get_team(e['team2'])
 
     # Assign appropriate results based on score and result data.
-    e['team1_result'], e['team2_result'] = calculate_results(e)
+    e['team1_result'], e['team2_result'] = calculate_game_results(e)
 
     # Transforming place names should happen before anything else.
     # Place transfomrations are the most conservative.
@@ -216,7 +230,7 @@ def normalize_goal(e):
         elif e['assists'][0] == 'free kick':
             e['assists'] = []
 
-        elif e['assists'][0] == 'unassisted':
+        elif e['assists'][0] in ('unassisted', 'ua'):
             e['assists'] = []
 
     return e
@@ -257,6 +271,14 @@ def normalize_stat(e):
 
 
 def normalize_lineup(e):
+
+    if e.get('goals_for') is None:
+        e['goals_for'] = None
+
+    if e.get('goals_against') is None:
+        e['goals_against'] = None
+
+    e['result'] = calculate_lineup_result(e)
     
     e['competition'] = get_competition(e['competition'])
     e['team'] = get_team(e['team'])
