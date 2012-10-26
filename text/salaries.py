@@ -46,13 +46,13 @@ def load_old_salaries():
 
 
 def load_2012_salaries():
-    return load_new_salaries(MLS_2012_SALARIES_PATH)
+    return load_new_salaries(MLS_2012_SALARIES_PATH, '2012')
 
 def load_2011_salaries():
-    return load_new_salaries(MLS_2011_SALARIES_PATH)
+    return load_new_salaries(MLS_2011_SALARIES_PATH, '2011')
 
 
-def load_new_salaries(fn):
+def load_new_salaries(fn, year):
     """
     Load MLS salaries
     """
@@ -80,8 +80,7 @@ def load_new_salaries(fn):
             name = n
 
         return {
-            'year': '2012',
-
+            'year': year,
             'name': name,
             'team': team,
             'base': base,
