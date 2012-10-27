@@ -448,8 +448,10 @@ class GeneralProcessor(object):
 
             if team == self.current_game['team1']:
                 goals_for, goals_against = self.current_game['team1_score'], self.current_game['team2_score']
-            else:
+            elif team == self.current_game['team2']:
                 goals_for, goals_against = self.current_game['team2_score'], self.current_game['team1_score']
+            else:
+                import pdb; pdb.set_trace()
 
 
             base = {

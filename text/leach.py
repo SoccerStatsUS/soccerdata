@@ -64,11 +64,12 @@ def determine_competition(comp, team, season):
         'CCWC': 'Club World Cup',
         'LMC': 'La Manga Cup',
 
-        'RC': 'RC',
-        'PCK': 'PCK',
-        'CQ': 'CQ',
-        'PPC': 'PPC',
-        'INDC': 'INDC',
+        'RC': 'Recopa CONCACAF',
+        'PCK': 'Peace Cup',
+        'CQ': 'Caribbean Qualification',
+        #'CQ': 'Concacaf Champions\' Cup',
+        'PPC': 'Pan-Pacific Championship',
+        'INDC': 'Independence Cup',
         }
 
     if comp in mapping:
