@@ -76,21 +76,23 @@ def load_drafts():
 
 
 def load_games():
-    load_ny()
+    load_fifa()
+
     load_usl()
+    load_mls()   
+    load_ny()
+
     load_asl()
     load_esl()
     load_asl2()
 
-
-    return
     load_leach()    
     load_usmnt()
     load_concacaf()
 
     load_nasl()
 
-    load_mls()   
+
     load_canada()
 
     load_nafbl()
@@ -132,7 +134,7 @@ def load_games():
 
 
     return
-    load_fifa()
+
 
     return
     load_mexico()
@@ -336,7 +338,7 @@ def load_usmnt():
         load_games_standard('usa', 'international/country/usa/%s' % e)
 
     load_games_standard('usa', 'international/country/usa/gold')
-    load_games_standard('usa', 'international/country/usa/world_cup')
+    #load_games_standard('usa', 'international/country/usa/world_cup')
 
     generic_load(soccer_db.usa_awards, halloffame.load_hall_of_fame)
 
@@ -440,12 +442,10 @@ def load_early_friendlies():
 
 
 def load_modern_friendlies():
-
-    for e in [70, 75, 78, 80, 82]:
-        load_games_standard('tours', 'domestic/country/usa/friendly/19%s' % e)
-
     load_games_standard('tours', 'domestic/country/usa/friendly/tours/1970')
     load_games_standard('tours', 'domestic/country/usa/friendly/tours/1980')
+
+    load_games_standard('tours', 'domestic/country/usa/friendly/mls_all_star')
 
     load_games_standard('tours', 'domestic/country/usa/friendly/1960')
     load_games_standard('tours', 'domestic/country/usa/friendly/1967')
@@ -707,10 +707,12 @@ def load_usl():
     Load usl stats and nasl stats.
     """
     from soccerdata.text import stats, awards  
+    load_games_standard('usl', 'domestic/country/usa/playoffs/usl1')
+    load_games_standard('usl', 'domestic/country/usa/playoffs/usl2')
 
     load_games_standard('usl', 'domestic/country/usa/leagues/usl1/usl1')
 
-    #load_games_standard('usl', 'domestic/country/usa/playoffs/usl')
+
     load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2012')
     load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2011')
     load_games_standard('usl', 'domestic/country/usa/leagues/usl2/2010')
@@ -812,11 +814,9 @@ def load_fifa():
     from soccerdata.scrapers import fifa
 
     load_fifa_competition('FIFA Club World Cup')
-    return
-
     load_fifa_competition('FIFA Confederations Cup')
-    load_fifa_competition('FIFA U-20 World Cup')
-    load_fifa_competition('FIFA U-17 World Cup')
+    #load_fifa_competition('FIFA U-20 World Cup')
+    #load_fifa_competition('FIFA U-17 World Cup')
 
     generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
     generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)

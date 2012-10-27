@@ -237,8 +237,11 @@ def generate_stats(goals=[], lineups=[]):
             add_item(t, 'games_played')
 
             if lineup['off'] is not None and lineup['on'] is not None:
-                minutes = lineup['off'] - lineup['on']
-                add_item(t, 'minutes', minutes)
+                try:
+                    minutes = lineup['off'] - lineup['on']
+                    add_item(t, 'minutes', minutes)
+                except TypeError:
+                    print lineup
             else:
                 print "Missing minute data for appearance."
         

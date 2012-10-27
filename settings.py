@@ -10,6 +10,8 @@ STAT_TABLES = [
     'awards',
     ]
 
+
+# Sources are listed in terms of reliability; Order affects priority when merging games.
 SOURCES = [
     'small',
     'melvin',
