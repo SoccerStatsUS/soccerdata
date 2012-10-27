@@ -60,6 +60,7 @@ leach = {
     'Critchley': 'Critchley\'s',
     
 
+'Manchester United FC': 'Manchester United',
 #Brooklyn Italians
 'CD Guadalajara -- Mexico': 'CD Guadalajara',
 #San Jose Oaks
@@ -67,8 +68,15 @@ leach = {
 #CD Mexico
 #New York Centaurs
 #Ireland U-23
+    'Côte d\'Ivoire (Ivory Coast)': 'Côte d\'Ivoire',
+    'Ivory Coast': 'Côte d\'Ivoire',
 'Necaxa -- Mexico': 'Necaxa',
-
+'German DR': 'East Germany',
+'Germany FR': 'West Germany',
+'Korea DPR': 'North Korea',
+    'Korea Republic': 'South Korea',
+'Ards (Northern Ireland)': 'Ards F.C.',
+'Ards': 'Ards F.C.',
 'Tusberg Landshut - Germany': 'Tusberg Landshut',
 'Shimizu S-Pulse - Japan': 'Shimizu S-Pulse',
 'Norresundby Boldklub - Denmark': 'Norresundby Boldklub',
