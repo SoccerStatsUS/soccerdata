@@ -45,7 +45,7 @@ l = [
         'location': 'Bremerton, WA',
         },
     {
-        'name': 'Memorial Stadium (Seattle)',
+        'name': 'Seattle Memorial Stadium',
         'location': 'Seattle, WA',
         },
     {

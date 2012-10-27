@@ -24,6 +24,7 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Memorial Stadium (Seattle)': 'Seattle Memorial Stadium',
     'Crescent Grounds': 'Crescent Athletic Club Grounds',
     'Soldiers Field': 'Harvard Stadium',
     'Soldier\'s Field': 'Harvard Stadium',
@@ -140,7 +141,7 @@ stadiums = {
     'Aquinas Stadium': 'Holleder Memorial Stadium',
     'Robert F. Kennedy Stadium': 'Robert F. Kennedy Memorial Stadium',
     'Edinboro University Stadium': 'Sox Harrison Stadium',
-    'Middlefield Cheese Stadium (Bedford)': 'Middleford Cheese Stadium',
+    'Middlefield Cheese Stadium (Bedford)': 'Middlefield Cheese Stadium',
     'Florida Citrus Bowl': 'Citrus Bowl',
     'Richard Montgomery HS': 'Richard Montgomery High School',
 

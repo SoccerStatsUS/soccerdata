@@ -60,6 +60,9 @@ leach = {
     'Critchley': 'Critchley\'s',
     
 
+'Torpedo Moscow': 'FC Torpedo Moscow',
+'Universidad (Honduras)': 'Pumas UNAH',
+'FC Cologne': '1. FC Köln',
 'Manchester United FC': 'Manchester United',
 #Brooklyn Italians
 'CD Guadalajara -- Mexico': 'CD Guadalajara',
@@ -171,6 +174,9 @@ leach = {
 'Puntarenas - Costa Rica': 'Puntarenas',
 'Limon - Costa Rica': 'Limon',
 'Jalisco - Mexico': 'Jalisco',
+'Colima Jaguares (Mexico)': 'Colima Jaguares',
+'Bachilleres (Mexico)': 'Bachilleres',
+'C.S.D. Comunicaciones': 'CSD Comunicaciones',
 'Colima Jaguares - Mexico': 'Colima Jaguares',
 'Santa Clara - Portugal': 'Santa Clara',
 'Legia-Daewoo Warsaw - Poland': 'Legia-Daewoo Warsaw',
@@ -1216,7 +1222,6 @@ asl2 = {
 
     # This may not be right. Brooklyn Italians itself seems to have 
     # Gone to lower leagues, played as Palermo and Brokolyn Dodgers.
-    'Boca Juniors': 'Brooklyn Italians',
     'Inter-Brooklyn Italians': 'Brooklyn Italians',
     'New York Inter': 'Brooklyn Italians',
     'Inter SC': 'Brooklyn Italians',
