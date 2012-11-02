@@ -215,7 +215,7 @@ Round: None
 5/30/1891; Detroit AC Association; 3-0; Chicago Cricket Association; Detroit AC Association; 
 
 10/26/1890; East St. Louis Blue Bells; 2-0; St. Louis Olympics; East St. Louis Blue Bells;   
-11/2/1890; East St. Louis Blue Bells; ?; St. Louis Shamrocks
+* 11/2/1890; East St. Louis Blue Bells; ?; St. Louis Shamrocks
 11/9/1890; East St. Louis Blue Bells; 4-0; St. Louis Kensingtons; St. Louis Kensingtons
 11/16/1890; East St. Louis Blue Bells; 1-0; St. Louis Hibernians; St. Louis Hibernians
 11/23/1890; East St. Louis Blue Bells; 4-1; St. Louis Olympics
@@ -498,7 +498,7 @@ Competition: Friendly
 11/8/1890; Newark Caledonians; L-W; Brooklyn Longfellows
 11/15/1890; Newark Caledonians; 2-3; Paterson Thistles; Newark Caledonians
 11/27/1890; Newark Caledonians; L-W; New York Nonpareils; New York Nonpareils
-11/30/1890; Newark Caledonians; ?; Brooklyn Longfellows; Newark Caledonians
+* 11/30/1890; Newark Caledonians; ?; Brooklyn Longfellows; Newark Caledonians
 12/5/1890; Newark Caledonians; 0-8; Brooklyn Longfellows;  Brooklyn Longfellows
 2/9/1891; Newark Caledonians; ?; Paterson Thistles; Neutral
 3/21/1891; Newark Caledonians; np; SS Majestic; Newark Caledonians
@@ -535,11 +535,12 @@ Competition: Friendly
 10/25/1890; Paterson Thistles; 0-1; Kearney Rovers; Kearney Rovers
 ; Paterson Thistles; ?; Philadelphia Association
 
-Competition: American Cup
-Round: Second Round
-11/15/1890; Paterson Thistles; 0-1; Newark Caledonians
-Forfeit
+* Competition: American Cup
+* Round: Second Round
+* 11/15/1890; Paterson Thistles; 0-1; Newark Caledonians
+* Forfeit
 * Paterson actually won 3-2; Thistles dropped out.
+
 11/27/1890; Paterson Thistles; 0-1; Kearney Rovers; Neutral
 12/25/1890; Paterson Thistles; ?; Brooklyn Longfellows; Brooklyn Longfellows
 2/9/1891; Paterson Thistles; ?; Newark Caledonians; Neutral
@@ -735,7 +736,9 @@ Forfeit
 1/10/1891; Philadelphia Oxfords; W-L; Philadelphia Manayunks; ; Philadelphia Oxfords
 2/14/1891; Philadelphia Oxfords; 1-6; Philadelphia North Ends
 3/7/1891; Philadelphia Oxfords; 1-3; Philadelphia Taconeys; Philadelphia Taconeys; 
-3/28/1891; Philadelphia Oxfords; 2-6; Philadelphia North Ends; Philadelphia Oxfords;
+* 3/28/1891; Philadelphia Oxfords; 2-6; Philadelphia North Ends; Philadelphia Oxfords;
+* Melvin error.
+
 3/30/1891; Philadelphia Oxfords; T-T; Philadelphia Orianas; Philadelphia Oxfords;
 4/4/1891; Philadelphia Oxfords; 2-6; Philadelphia Taconeys; Stenton Station, Philadelphia, PA
 
@@ -1072,7 +1075,7 @@ Round: None
 
 10/11/1890; Cleveland Wanderers; 5-4; Michigan Bay City Association; Home 
 11/8/1890; Cleveland Wanderers; 0-1; Cleveland Globes; Neutral
-11/8/1890; Cleveland Wanderers; 3-0; Cleveland Globes; Neutral
+11/27/1890; Cleveland Wanderers; 3-0; Cleveland Globes; Neutral
 
 1/24/1891; Cliftons Association; W-L; Longfellows Association; Home
 
@@ -1251,7 +1254,9 @@ Round: None
 
 1/4/1891; St. Louis Montgomerys Juniors; 0-5; St. Louis Montgomerys
 
-12/7/1890; St. Louis Olympics 2nds; ?; St. Louis Shamrocks 2nds
+* 12/7/1890; St. Louis Olympics 2nds; ?; St. Louis Shamrocks 2nds
+* Melvin error.
+
 12/14/1890; St. Louis Olympics 2nds; 0-1; Missouri Amateur AA Juniors
 1/25/1891; St. Louis Olympics 2nds; ?; St. Louis Clippers
 
@@ -1265,7 +1270,10 @@ Round: None
 2/24/1891; Seattle Association; np; Tacoma Association
 5/30/1891; Seattle Association; ?; Tacoma Association; Seattle Association
 
-11/27/1890; Tacoma Association; 0-4; Seattle Association; Seattle Association
+* 11/27/1890; Tacoma Association; 0-4; Seattle Association; Seattle Association
+* Melvin error.
+
+
 1/1/1891; Tacoma Association; 1-1; Portland Wonders
 2/24/1891; Tacoma Association; np; Seattle Association
 5/30/1891; Tacoma Association; ?; Seattle Association; Seattle Association

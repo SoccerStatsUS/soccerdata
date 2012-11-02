@@ -15,7 +15,7 @@ Forfeit
 3/21/1886; Christian Brothers College; 0-1; St. Louis Hibernians
 Forfeit
 
-4/24/1886; Cornell College; W-L; State University of Iowa; State University of Iowa
+4/24/1886; Cornell College; L-W; State University of Iowa; State University of Iowa
 
 ; State University of Iowa; W-L; Independence Town Team
 4/24/1886; State University of Iowa; W-L; Cornell College; State University of Iowa
@@ -429,8 +429,8 @@ Forfeit
 1/1/1886; St. Louis Hibernians; T-T; St. Louis Shamrocks; Amateur Park, St. Louis, MO
 1/10/1886; St. Louis Hibernians; np; St. Louis Westerns
 1/24/1886; St. Louis Hibernians; 2-0; St. Louis Westerns; St. Louis Hibernians
-1/31/1886; St. Louis Hibernians; L-W; St. Louis Thistles; St. Louis Thistles
-2/7/1886; St. Louis Hibernians; T-T; St. Louis Thistles; St. Louis Hibernians
+* 1/31/1886; St. Louis Hibernians; L-W; St. Louis Thistles; St. Louis Thistles
+* 2/7/1886; St. Louis Hibernians; T-T; St. Louis Thistles; St. Louis Hibernians
 2/21/1886; St. Louis Hibernians; W-L; St. Louis AC; St. Louis Hibernians
 2/28/1886; St. Louis Hibernians; W-L; St. Louis AC; St. Louis Hibernians
 3/7/1886; St. Louis Hibernians; L-W; St. Louis Shamrocks
@@ -467,6 +467,8 @@ Forfeit
 1/24/1886; St. Louis Thistles; 0-0; St. Louis Shamrocks
 1/31/1886; St. Louis Thistles; T-T; St. Louis Hibernians;  Union Park, St. Louis, MO
 2/7/1886; St. Louis Thistles; W-L; St. Louis Hibernians; St. Louis Hibernians
+
+
 2/14/1886; St. Louis Thistles; W-L; St. Louis Westerns; St. Louis Thistles;
 2/28/1886; St. Louis Thistles; W-L; St. Louis Thistles 2nds; Neutral
 3/7/1886; St. Louis Thistles; W-L; St. Louis Thistles 2nds; Neutral
@@ -599,7 +601,7 @@ Forfeit
 10/2/1886; Fall River County Street Rovers; 4-0; Fall River North Ends; Fall River North Ends
 10/9/1886; Fall River County Street Rovers; 3-0; Fall River Canonicuts; Fall River County Street Rovers
 10/16/1886; Fall River County Street Rovers; 3-2; Olneyville Thorntons; Fall River County Street Rovers
-11/13/1886; Fall River County Street Rovers; 3-0; Fall River Olympics
+11/13/1886; Fall River County Street Rovers; 3-0; Fall River North Ends
 11/16/1886; Fall River County Street Rovers; 3-2; Fall River Canonicuts
 11/25/1886; Fall River County Street Rovers; 7-1; Olneyville Thorntons; North End Grounds
 12/11/1886; Fall River County Street Rovers; np; Fall River Olympics
@@ -664,7 +666,8 @@ Forfeit
 5/21/1887; Fall River North Ends; 4-1; Fall River Chelseas
 
 9/25/1886; Fall River Olympics; W-L; Fall River East Ends; Fall River Olympics;
-11/13/1886; Fall River Olympics; 1-2; Fall River Canonicuts
+11/13/1886; Fall River Olympics; 2-1; Fall River Canonicuts
+* Changed this from Melvin. Assuming the Olympics won because of how bad the Canonicuts were.
 11/20/1886; Fall River Olympics; 2-0; Fall River East Ends; County Street Grounds, Fall River, MA
 12/11/1886; Fall River Olympics; np; Fall River County Street Rovers
 12/25/1886; Fall River Olympics; 0-3; Fall River County Street Rovers; North Ends Grounds, Fall River, MA
@@ -1031,7 +1034,7 @@ Competition: Friendly
 11/8/1887; Buffalo Association; 4-1; Thistles Association
 5/24/1888; Buffalo Association; ?; Simcoe Association
 
-5/6/1888; Capitol Bicycle Club; ?; Washington Cosmpolitans; Washington Cosmopolitans
+5/6/1888; Capitol Bicycle Club; ?; Washington Cosmopolitans; Washington Cosmopolitans
 
 10/1/1887; Chicago Association; L-W; Chicago Wanderers; Wanderers Grounds, Chicago, IL
 10/16/1887; Chicago Association; ?; Chicago Northwesterns; Westside Park, Chicago, IL
@@ -1040,7 +1043,7 @@ Competition: Friendly
 
 9/18/1887; Chicago Northwesterns; L-W; Chicago Wanderers; Chicago Northwesterns
 10/16/1887; Chicago Northwesterns; ?; Chicago Association; Chicago Association
-10/29/1887; Chicago Northwesterns; ?; Chicago Wadnerers; Chicago Wanderers
+10/29/1887; Chicago Northwesterns; ?; Chicago Wanderers; Chicago Wanderers
 11/21/1887; Chicago Northwesterns; W-L; Chicago Association; Chicago Northwesterns
 
 9/18/1887; Chicago Wanderers; W-L; Chicago Northwesterns; Chicago Northwesterns
@@ -1318,7 +1321,10 @@ Forfeit
 11/12/1887; Providence Association; 0-1; Thornton Rovers; Providence Association;
 11/24/1887; Providence Association; 2-0; River Point Clydes; Providence Association;
 11/24/1887; Providence Association; ?; Thornton Rovers; Providence Association;
-12/3/1887; Providence Association; 4-0; Fall River Olympics; Providence Association; 300
+
+* 12/3/1887; Providence Association; 4-0; Fall River Olympics; Providence Association; 300
+* Error in Melvin; presumably Olympics won - they were the better team.
+
 12/10/1887; Providence Association; 0-5; Thornton British Hosieries; Thornton British Hosieries; 
 12/17/1887; Providence Association; 1-1; River Point Clydes; River Point Clydes
 12/24/1887; Providence Association; 1-5; Fall River Olympics; Fall River Olympics
@@ -1432,8 +1438,10 @@ Season: 1888-1889
 2/9/1889; Brooklyn Longfellows; 0-6; New York Thistles; Brooklyn Longfellows; 
 2/16/1889; Brooklyn Longfellows; 4-0; Newark Caledonians; Brooklyn Longfellows; 
 2/22/1889; Brooklyn Longfellows; 0-1; New York Nonpareils; Ridgewood Baseball Park
-3/9/1889; Brooklyn Longfellows; 0-6; Newark Caledonians; Brooklyn Longfellows; 
-3/29/1889; Brooklyn Longfellows; 2-5; Newark Caledonians; Brooklyn Longfellows; 
+* 3/9/1889; Brooklyn Longfellows; 0-6; Newark Caledonians; Brooklyn Longfellows; 
+* 3/29/1889; Brooklyn Longfellows; 2-5; Newark Caledonians; Brooklyn Longfellows; 
+* Melvin errors.
+
 4/6/1889; Brooklyn Longfellows; 1-4; New York Thistles; Brooklyn Longfellows; 
 
 11/29/1888; Brooklyn Sons of St. George; 2-7; Brooklyn Longfellows; Brooklyn Longfellows; 
@@ -1715,7 +1723,7 @@ Round: Final
 4/13/1889; Newark Caledonians; 0-4; Fall River County Street Rovers; Clark ONT Field, Kearney, NJ
 
 Competition: Friendly
-10/27/1888; Newark Tiffany Rovers; T-T; Newark Caledonians; Newark Tiffany Rovers
+* 10/27/1888; Newark Tiffany Rovers; T-T; Newark Caledonians; Newark Tiffany Rovers
 ; Newark Tiffany Rovers; L-W; Trenton Swifts
 11/10/1888; Newark Tiffany Rovers;  0-1; Newark Caledonians; Newark Tiffany Rovers;
 Forfeit
@@ -1799,7 +1807,9 @@ Competition: Friendly
 12/1/1888; Pawtucket Free Wanderers; np; Fall River East Ends; Fall River East Ends
 12/15/1888;Pawtucket Free Wanderers; 3-6; Providence Association; 400
 12/22/1888; Pawtucket Free Wanderers; 1-3; Fall River East Ends; Fall River East Ends
-12/25/1888; Pawtucket Free Wanderers; 4-1; Lowell Rovers; Pawtucket Free Wanderers; 700
+* 12/25/1888; Pawtucket Free Wanderers; 4-1; Lowell Rovers; Pawtucket Free Wanderers; 700
+* Melvin error
+
 12/25/1888; Pawtucket Free Wanderers; 1-1; Fall River Olympics; Pawtucket Free Wanderers; 900
 1/5/1889; Pawtucket Free Wanderers; 4-1; Providence Association; Pawtucket Free Wanderers; 400
 1/12/1889; Pawtucket Free Wanderers; 1-2; Fall River County Street Rovers; Pawtucket Free Wanderers; 5000 
@@ -1829,7 +1839,7 @@ Competition: Friendly
 1/19/1889; Philadelphia North Ends; 0-9; Trenton Rovers; Hetzel's Grove, Trenton, NJ
 
 10/20/1888; Pleasant Valley Association; 0-2; Wilkes-Barre Lace Factory Rangers; Pleasant Valley Association
-11/3/1888; Pleasant Valley Association; 0-2; Wilkes-Barre Lace Factory Rangers; Wilkes-Barre Lace Factory Rangers
+11/3/1888; Pleasant Valley Association; 0-1; Wilkes-Barre Lace Factory Rangers; Wilkes-Barre Lace Factory Rangers
 
 10/29/1888; Plymouth Emmets; 1-4; Wilkes-Barre Albions; Plymouth Emmets
 10/29/1888; Plymouth Emmets; 0-5; Wilkes-Barre Albions; Plymouth Emmets
@@ -2128,11 +2138,15 @@ Competition: Friendly
 12/28/1889; Fall River County Street Rovers; ?; Thornton British Hosieries; Fall River County Street Rovers;
 1/4/1890; Fall River County Street Rovers; 0-2; Providence Athletics; Providence Athletics; 800
 * 1/10/1890; Fall River County Street Rovers; Kicked out of American Cup
-2/15/1890; Fall River County Street Rovers; 2-1; Fall River Olympics; 3000
+
+* 2/15/1890; Fall River County Street Rovers; 2-1; Fall River Olympics; 3000
+* Melvin error
+
 2/22/1890; Fall River County Street Rovers; 12-1; New York Herald Team; Fall River County Street Rovers;
 3/17/1890; Fall River County Street Rovers; 2-1; Fall River Olympics
-3/22/1890; Fall River County Street Rovers; 1-0; Fall River East Ends; Fall River County Street Rovers;
-3/29/1890; Fall River County Street Rovers; 1-0; Fall River East Ends
+* 3/22/1890; Fall River County Street Rovers; 1-0; Fall River East Ends; Fall River County Street Rovers;
+* Melvin error.
+3/29/1890; Fall River County Street Rovers; 1-1; Fall River East Ends
 4/3/1890; Fall River County Street Rovers; 1-0; Lawrence Athletics; Fall River County Street Rovers;
 4/19/1890; Fall River County Street Rovers; 4-0; Lonsdale Association; Lonsdale Association
 4/26/1890; Fall River County Street Rovers; 5-0; Fall River North Ends; 
@@ -2656,7 +2670,7 @@ Forfeit
 12/25/1889; Taunton Whittentons; 0-5; Fall River East Ends; Fall River East Ends
 4/12/189; Taunton Whittentons; L-W; Lonsdale Association; Lonsdale Association
 
-10/12/1889; Thornton British Hosieries; 3-2; Lincoln Rovers; Lincoln Rovers
+*10/12/1889; Thornton British Hosieries; 3-2; Lincoln Rovers; Lincoln Rovers
 10/19/1889;  Thornton British Hosieries; L-W; River Point Clydes; River Point Clydes
 11/2/1889; Thornton British Hosieries; 3-2; Lincoln Rovers; Thornton British Hosieries
 11/9/1889; Thornton British Hosieries; 6-0; Lonsdale Association; Thornton British Hosieries
