@@ -23,13 +23,7 @@ def first_merge():
 
     merge_bios()
 
-
-def second_merge():
-    # Why is this second?
     merge_teams()
-
-
-            
         
 
 
@@ -204,18 +198,39 @@ def merge_games(games_lists):
 
         teams = tuple(sorted([d['team1'], d['team2']]))
 
-        key = (teams, d['date'])
+        key = (teams, d['date'], d['season'])
+
+
+        # Add the game if we don't have a match.
+        if key not in game_dict:
+            game_dict[key] = d
+
 
         # If there is already a game, update empty fields.
-        if key in game_dict:
+        else:
             orig = game_dict[key]
+
+            # Overreaction to a bug that was seriously mangling scores when multiple games records were present.
+            # (Was replacing scores of 0 with the larger score for both games.)
+            t1, t2, t1s, t2s, t1r, t2r = [d.pop(e) for e in ('team1', 'team2', 'team1_score', 'team2_score', 'team1_result', 'team2_result')]
+            if t1 == orig['team1'] and t2 == orig['team2']:
+                pass
+            elif t1 == orig['team2'] and t2 == orig['team1'] and d['date'] is not None: # make allowances for multiple unknown dates...
+                t1, t1s, t1r, t2, t2s, t2r = t2, t2s, t2r, t1, t1s, t1r
+                try:
+                    assert t1s == orig['team1_score']
+                    assert t2s == orig['team2_score']
+                    assert t1r == orig['team1_result']
+                    assert t1r == orig['team1_result']
+                except:
+                    import pdb; pdb.set_trace()
+            else:
+                if d['date'] is not None:
+                    import pdb; pdb.set_trace()
+                
             for k, v in d.items():
                 if not orig.get(k) and v:
                     orig[k] = v
-        # Otherwise, add the game.
-        else:
-            game_dict[key] = d
-
 
     game_dict = {}
 
