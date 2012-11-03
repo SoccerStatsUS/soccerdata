@@ -55,6 +55,8 @@ stadiums = {
     'RE/MAX Greater Atlanta Stadium': 'Atlanta Silverbacks Park',
     'Silverbacks Stadium': 'Atlanta Silverbacks Park',
     'Cal State Fullerton Titan Stadium': 'Titan Stadium',
+    'Fullerton Stadium': 'Titan Stadium',
+    'Estadío Sylvio Cator': 'Stade Sylvio Cator',
     'Sherbeck Field': 'Hal Sherbeck Field',
     'Legion Sports Complex': 'Legion Stadium',
     'Krenzler Stadium': 'Krenzler Field',

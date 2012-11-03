@@ -51,11 +51,13 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+    'Ryan Dos Reis': 'Ryan dos Reis',
     'Joshua Dunn': 'Josh Dunn',
     'Karel Poborsky': 'Karel Poborský',
     'Karel Poborski': 'Karel Poborský',
     'Anton Polster': 'Toni Polster',
     'Andeas Ogris': 'Andreas Ogris',
+    'Rudy Ramirez': 'Rudy Ramírez',
 
     'Raymundo Orsi': 'Raimundo Orsi',
     'Hamid Estili': 'Hamid Reza Estili',
@@ -374,6 +376,7 @@ basic = {
     'Steve Keel': 'Stephen Keel',
     'Erik Kronberg': 'Eric Kronberg',
     'Jose Luis Burciaga': 'Jose Burciaga Jr.',
+    'Jose Luis Gonzalez': 'José Luis González',
     'Steven Shirley': 'Stephen Shirley',
     'Steve Shirley': 'Stephen Shirley',
     'Danny Zwerling': 'Dan Zwerling',
@@ -1412,7 +1415,8 @@ nx = {
 
     'Vicente Sanchez': 'Vicente Sánchez',
     'Vincent Dalbis': 'Vincent D\'Albis',
-    'Vicente García': 'Vicente Garcíá',
+    
+    'Vicente Garcíá': 'Vicente García',
     'Vladimir Cubias': 'Vladimir Cubías',
 
     'Walter Lopez': 'Walter López',
@@ -2406,6 +2410,8 @@ onames = {
     'Leonid (Leo) Krupnik': 'Leo Krupnik',
 
 
+    'Guillermo Vazquez': 'Guillermo Vázquez',
+    'Manuel Martinez': 'Manuel Martínez',
     'Mike Ambersley': 'Michael Ambersley',
     'Michael (Mike) Ambersley': 'Michael Ambersley',
     'Manuel Lagos': 'Manny Lagos',
