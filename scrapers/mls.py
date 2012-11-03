@@ -4,7 +4,7 @@ from soccerdata.utils import scrape_soup, get_contents, pounds_to_kg, inches_to_
 from soccerdata.cache import data_cache, set_cache
 
 
-MLS_YEARS = range(1996, 2012) # Stat years to scrape.
+MLS_YEARS = range(1996, 2013) # Stat years to scrape.
 
 # IDs for all MLS teams
 TEAM_IDS = [
@@ -319,7 +319,8 @@ def scrape_player_bio(url):
     if 'Birth Date' in d:
         birthdate_string = d['Birth Date']
         if birthdate_string:
-            birthdate = datetime.datetime.strptime(birthdate_string,  "%a, %m/%d/%Y")
+            #birthdate = datetime.datetime.strptime(birthdate_string,  "%a, %m/%d/%Y")
+            birthdate = datetime.datetime.strptime(birthdate_string,  "%m-%d-%Y")
 
     if 'Birthplace' in d:
         birthplace = d['Birthplace']
