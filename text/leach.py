@@ -56,7 +56,7 @@ def teams_for_season(season):
 def determine_competition(comp, team, season):
 
     mapping = {
-        'CCC': 'Concacaf Champions\' Cup',
+        'CCC': 'CONCACAF Champions\' Cup',
         'IAC': 'Interamerican Cup',
         'GC': 'Gold Cup',
         'FDLY': 'Friendly',
