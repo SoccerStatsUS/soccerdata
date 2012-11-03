@@ -365,7 +365,7 @@ def scrape_fifa_goals(url, competition):
     return l
     
 
-@data_cache
+@set_cache
 def scrape_fifa_lineups(url, competition):
     """
     Scrape lineups for a game.
@@ -384,6 +384,13 @@ def scrape_fifa_lineups(url, competition):
         l = []
         starters = rows[:11]
         subs = rows[11:]
+
+        if team == game_data['team1']:
+            goals_for, goals_against = game_data['team1_score'], game_data['team2_score']
+        elif team == game_data['team2']:
+            goals_for, goals_against = game_data['team2_score'], game_data['team1_score']
+        else:
+            import pdb; pdb.set_trace()
 
         # Doesn't handle multiple subs yet.
         for starter in starters:
@@ -406,7 +413,9 @@ def scrape_fifa_lineups(url, competition):
                     'competition': competition,
                     'season': game_data['season'],
                     'date': game_data['date'],
-                    'source': url
+                    'source': url,
+                    'goals_for': goals_for,
+                    'goals_against': goals_against,
                     })
 
         for sub in subs:
