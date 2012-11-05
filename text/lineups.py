@@ -306,6 +306,9 @@ def correct_goal_names(goal_list, lineup_dict):
             if last in no_matches:
                 return get_match(key, first, no_matches[last])
 
+            if last == 'Own Goal':
+                return last
+
 
             print key
             print "No matches: %s" % players
@@ -509,28 +512,33 @@ def get_goals(filename):
                 match = re.search("(?P<name>.*?)\s+(\d+\s+)?(?P<minute>\d+)", e)
 
 
-            # Need to process these as goals, actually.
+            # Need to work on own goal processing...
+            # What's the deal with (forfeit?)
             non_goals = [
-                'Own Goal',
-                "o.g.",
-                'og',
-                'own goal',
+                #'Own Goal',
+                #"o.g.",
+                #'og',
+                #'own goal',
                 '(forfeit)',
                 ]
 
             for ng in non_goals:
                 if e.startswith(ng):
+                    import pdb; pdb.set_trace()
                     return {}
 
             player = match.groups()[0]
             minute = int(match.groups()[2])
 
-            # Avoid loading goals from after 2008. This creates problems with lineup_dict
-            if date.year >= 2008:
-                return {}
-
-
-
+            player = player.strip()
+            if player in [
+                'Own Goal',
+                'Own goal',
+                "o.g.",
+                'og',
+                'own goal',
+                ]:
+                player = 'Own Goal'
 
             return {
                 'competition': competition,
