@@ -620,6 +620,12 @@ l = [
         },
 
     {
+        'name': 'Espenmoos Stadium',
+        'location': 'St. Gallen, Switzerland',
+        'opened': 1910,
+        },
+
+    {
         'name': 'Wankdorf Stadium',
         'location': 'Bern, Switzerland',
         'opened': datetime.datetime(1925, 10, 18),
