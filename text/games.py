@@ -1,5 +1,4 @@
 
-
 # For processing general format score/lineup data.
 
 # These look something like
@@ -60,19 +59,15 @@ class GeneralProcessor(object):
         
         line = line.strip()
 
-
         if not line:
             return
+
+        #if self.current_game is not None and self.current_game['date'] == datetime.datetime(2011, 10, 26):
+        #    import pdb; pdb.set_trace()
 
         # Represents a comment.
         if line.startswith("*"):
             return
-
-        # Game without a date.
-        # Need to implement this.
-        if line.startswith(";"):
-            return
-
         # Set the previous game as a minigame.
         if line.startswith("Minigame"):
             try:
@@ -118,6 +113,9 @@ class GeneralProcessor(object):
 
 
         if line.lower().startswith("substitutes not used:"):
+            return
+
+        if line.startswith('Subs:'):
             return
 
         if line.startswith("Group"):
@@ -203,6 +201,17 @@ class GeneralProcessor(object):
         # Why is this check necessary?
         if fields:
 
+            # Game without a date.
+            # Need to implement this.
+            # Whoops - this kills a lot of valid game results.
+            if line.startswith(";") and line.count(';') > 1:
+                try:
+                    return self.process_game_fields(fields)
+                except:
+                    import pdb; pdb.set_trace()
+
+
+
             # Need to implement datetime check here.
             time_string = fields[0].strip()
             mdt = self.DATE_RE.match(time_string)
@@ -246,40 +255,46 @@ class GeneralProcessor(object):
         # Assume start time not included.
         start = None
 
-        # Try datetime first, if it doesn't work, try time.
-        m = self.DATE_TIME_RE.match(time_string)
-        if m:
-            if self.date_style == 'day first':
-                day, month, year, start = m.groups()
-            else: 
-                month, day, year, start = m.groups()
+
+        if fields[0].strip() == '':
+            d = None
+
+        elif '?' in fields[0]:
+            _, _, year = fields[0].split('/')
+            day = month = None
+            d = None
+
         else:
+            # Try datetime first, if it doesn't work, try time.
+            m = self.DATE_TIME_RE.match(time_string)
+            if m:
+                if self.date_style == 'day first':
+                    day, month, year, start = m.groups()
+                else: 
+                    month, day, year, start = m.groups()
+            else:
+                try:
+                    # Where is this?
+                    if self.date_style == 'day first':
+                        day, month, year = self.DATE_RE.match(time_string).groups()
+                    else:
+                        month, day, year = self.DATE_RE.match(time_string).groups()
+                except:
+                    try:
+                        year = int(time_string)
+                        month = day = 1
+                    except ValueError:
+                        import pdb; pdb.set_trace()
 
             try:
-                # Where is this?
-                if self.date_style == 'day first':
-                    day, month, year = self.DATE_RE.match(time_string).groups()
-                else:
-                    month, day, year = self.DATE_RE.match(time_string).groups()
+                year = int(year)
+                if year < 1800:
+                    year += self.century
+                d = datetime.datetime(year, int(month), int(day))
             except:
-                try:
-                    year = int(time_string)
-                    month = day = 1
-                except ValueError:
-                    import pdb; pdb.set_trace()
-
-
-
-        # 
-        try:
-            year = int(year)
-            if year < 1800:
-                year += self.century
-            d = datetime.datetime(year, int(month), int(day))
-        except:
-            d = None
-            #import pdb; pdb.set_trace()
-            x = 5
+                d = None
+                import pdb; pdb.set_trace()
+                x = 5
 
             
         # Some scores are separated by colons.

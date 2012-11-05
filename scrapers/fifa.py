@@ -365,7 +365,7 @@ def scrape_fifa_goals(url, competition):
     return l
     
 
-@set_cache
+@data_cache
 def scrape_fifa_lineups(url, competition):
     """
     Scrape lineups for a game.
