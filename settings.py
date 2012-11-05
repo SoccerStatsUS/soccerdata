@@ -30,6 +30,7 @@ SOURCES = [
     'apsl',
     'usl',
     'usl_leach',
+    'pdl',
     'misl',
     'mls',
     'mls_playoffs',

@@ -22,10 +22,18 @@ def process_nasl_stats():
 def process_misl_stats():
     return process_stats("misl.csv", format_name=False, source='nasljerseys.com')
 
+def process_pdl_stats():
+    l = []
+    l.extend(process_stats("pdl.2003.2005.csv", "USL Premier Developmental League"))
+    l.extend(process_stats("pdl.2006.2008.csv", "USL Premier Developmental League"))
+    l.extend(process_stats("pdl.2009.2012.csv", "USL Premier Developmental League"))
+    return l
 
 
 def process_usl_stats():
     l = []
+
+
     l.extend(process_stats("usl1_19972005.csv", "USL First Division"))
     l.extend(process_stats("usl1_20062007.csv", "USL First Division"))
     l.extend(process_stats("usl1_20082009.csv", "USL First Division"))
@@ -33,7 +41,7 @@ def process_usl_stats():
     l.extend(process_stats("usl2_20052009.csv", "USL Second Division"))
     l.extend(process_stats("usl2/2011", "USL Pro"))
     l.extend(process_stats("usl2/2012", "USL Pro"))
-    #l.extend(process_stats("pdl_stats.csv", "USL Premier Developmental League"))
+    
     return l
     
 def process_name(s):
@@ -76,7 +84,7 @@ def process_stats(fn, competition=None, format_name=True, source=None):
         return line
 
 
-    def fixes(d):
+    def stat_fixes(d):
         # Incorrect line in naslmisl.csv
         if d.get('name') == 'Santiago Formoso':
             if d.get('games_played') == 'D':
@@ -91,7 +99,7 @@ def process_stats(fn, competition=None, format_name=True, source=None):
 
         fields = line.split('\t')
         d = dict(zip(header, fields))
-        d = fixes(d)
+        d = stat_fixes(d)
         
 
         if 'name' not in d:
@@ -99,7 +107,6 @@ def process_stats(fn, competition=None, format_name=True, source=None):
 
         if not d['name']:
             return {}
-        
 
 
         if format_name:

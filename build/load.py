@@ -76,24 +76,42 @@ def load_drafts():
 
 
 def load_games():
+    load_pdl()
+
+    return
+    load_usl()
+    load_usmnt()
     load_fifa()
 
-    load_usl()
-    load_mls()   
-    load_ny()
-
     load_asl()
-    load_esl()
-    load_asl2()
+
+
+    load_mls()
+
+
+
+
+
+
 
     load_leach()    
-    load_usmnt()
-    load_concacaf()
-
     load_nasl()
 
 
+    load_apsl()
+    load_early_cups()
+    load_modern_cups()
+    load_misl()
+    load_csl()
+    load_city()
     load_canada()
+
+    load_ny()
+
+
+
+    load_asl2()
+    load_concacaf()
 
     load_nafbl()
 
@@ -101,36 +119,15 @@ def load_games():
     load_early_friendlies()
     load_modern_friendlies()
 
-    load_small_tournaments() # Put this other places.
-
 
     load_isl()
+    load_esl()    
 
 
     load_melvin()
 
 
-    load_apsl()
-
-
-
-
-
-    load_early_cups()
-    load_modern_cups()
-
-
-
-
-
-
-    load_misl()
-
-    load_csl()
-
-
-
-    load_city()
+    return
 
 
     return
@@ -340,6 +337,8 @@ def load_usmnt():
     load_games_standard('usa', 'international/country/usa/gold')
     #load_games_standard('usa', 'international/country/usa/world_cup')
 
+    load_games_standard('small', 'international/misc/us_cup')
+
     generic_load(soccer_db.usa_awards, halloffame.load_hall_of_fame)
 
 
@@ -370,26 +369,23 @@ def load_canada():
 
 
 
-def load_small_tournaments():
-
-    load_games_standard('small', 'domestic/country/usa/tournaments/carolina')
-    load_games_standard('small', 'domestic/country/usa/tournaments/dynamo')
-    load_games_standard('small', 'international/misc/us_cup')
-    load_games_standard('small', 'international/misc/bicentennial')
-
-
 
 def load_mls():
+
+    load_excel_standings('mls', 'domestic/country/usa/mls')
+    load_games_standard('mls_playoffs', 'domestic/country/usa/playoffs/mls')
+    load_games_standard('mls_reserve', 'domestic/country/usa/leagues/mls/reserve')
+    
     print "Loading MLS playoff data.\n"
     load_games_standard('mls', 'domestic/country/usa/leagues/mls/2011')
-    #load_games_standard('mls', 'domestic/country/usa/leagues/mls/2012')
+    load_games_standard('mls', 'domestic/country/usa/leagues/mls/2012')
     load_games_standard('mls', 'domestic/country/usa/leagues/mls/mls_attendance.csv')
 
     #load_soccernet_league('mls_soccernet', 'usa.1')
     load_mls_lineups()
 
-    load_games_standard('mls_playoffs', 'domestic/country/usa/playoffs/mls')
-    load_games_standard('mls_reserve', 'domestic/country/usa/leagues/mls/reserve')
+
+
     load_mls_data()
 
 
@@ -442,10 +438,18 @@ def load_early_friendlies():
 
 
 def load_modern_friendlies():
+
+    load_games_standard('small', 'domestic/country/usa/tournaments/carolina')
+    load_games_standard('small', 'domestic/country/usa/tournaments/dynamo')
+
+    load_games_standard('small', 'international/misc/bicentennial')
+
+    load_games_standard('tours', 'domestic/country/usa/friendly/mls_all_star')
+
     load_games_standard('tours', 'domestic/country/usa/friendly/tours/1970')
     load_games_standard('tours', 'domestic/country/usa/friendly/tours/1980')
 
-    load_games_standard('tours', 'domestic/country/usa/friendly/mls_all_star')
+
 
     load_games_standard('tours', 'domestic/country/usa/friendly/1960')
     load_games_standard('tours', 'domestic/country/usa/friendly/1967')
@@ -658,11 +662,6 @@ def load_mls_data():
     from soccerdata.text import stats
     from soccerdata.scrapers import mls
 
-
-
-
-    load_excel_standings('mls', 'domestic/country/usa/mls')
-
     print "Loading MLS awards.\n"
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
     generic_load(soccer_db.mls_awards, awards.process_mls_reserve_awards)
@@ -699,7 +698,11 @@ def load_mls_lineups():
 
 
 
+def load_pdl():
+    from soccerdata.text import stats, awards  
+    load_excel_standings('pdl', 'domestic/country/usa/usl/pdl')
 
+    generic_load(soccer_db.pdl_stats, stats.process_pdl_stats)
 
 def load_usl():
 
@@ -733,7 +736,7 @@ def load_usl():
 
     load_excel_standings('usl', 'domestic/country/usa/usl/pro')
     load_excel_standings('usl', 'domestic/country/usa/usl/12')
-    load_excel_standings('usl', 'domestic/country/usa/usl/pdl')
+
     load_excel_standings('usl', 'domestic/country/usa/usl/premier')
     load_excel_standings('usl', 'domestic/country/usa/usl/usl_pro')
     load_excel_standings('usl', 'domestic/country/usa/usl/usl0')
