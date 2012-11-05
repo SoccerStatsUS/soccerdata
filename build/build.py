@@ -9,9 +9,9 @@ imported into socceroutsider.com for better relationships, etc.
 """
 
 from load import first_load, second_load
-from generate import generate
+from generate import generate, generate2
 from check import check
-from merge import first_merge, second_merge
+from merge import first_merge
 from normalize import normalize
 from denormalize import denormalize
 from transform import transform
@@ -64,7 +64,7 @@ def build():
     # This is where things like standings and stats are generated.
     # Should be relatively simple.
 
-    print "Generating"
+    print "Generating for individual collections"
     generate()
 
 
@@ -73,9 +73,8 @@ def build():
     print "Merging"
     first_merge()
 
-    print "Merging Again"
-    # Second pass
-    second_merge()
+    print "Generating from merged data."
+    generate2()
 
     print "Denormalizing"
     denormalize()

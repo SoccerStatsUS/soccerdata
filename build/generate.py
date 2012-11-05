@@ -19,8 +19,11 @@ def generate():
     #generate_standings(soccer_db.games, soccer_db.standings)
     #generate_lineup_stats(soccer_db.mls_reserve_lineups.find())
 
-
     generate_all_stats()
+
+
+
+def generate2():
     generate_all_standings()
     
 
@@ -81,11 +84,24 @@ def generate_all_stats():
 
 
 def generate_all_standings():
+    """Generate rolling standings for a given competition."""
+    # Don't generate based on collection (definitely will overcount games.
 
     def sg(source):
         stg = generate_standings(soccer_db['%s_games' % source].find())
         generic_load(soccer_db['%s_standings' % source], lambda: stg.values())
 
+
+    def sg2(competition):
+        stg = generate_standings2(competition)
+        generic_load(soccer_db.standings, lambda: stg)
+
+
+    sg2('International Soccer League')
+    sg2('Eastern Soccer League (1928-1929)')
+    sg2('Major League Soccer')
+
+    """
     sg('lewis_cup')
     sg('open_cup')
     sg('mls_reserve')
@@ -101,17 +117,119 @@ def generate_all_standings():
     sg('melvin')
 
     sg('fifa')
+    """
 
-    stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
-    generic_load(soccer_db.mls_soccernet_standings, lambda: stg.values())
+    #stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
+    #generic_load(soccer_db.mls_soccernet_standings, lambda: stg.values())
+
+    #stg = generate_standings(soccer_db.nafbl_games.find({'season': '1895-1896'}))
+    #generic_load(soccer_db.nafbl_standings, lambda: stg.values())
+
+    #stg = generate_standings(soccer_db.nafbl_games.find({'season': '1895-1896'}))
+    #generic_load(soccer_db.nafbl_standings, lambda: stg.values())
 
 
-    stg = generate_standings(soccer_db.nafbl_games.find({'season': '1895-1896'}))
-    generic_load(soccer_db.nafbl_standings, lambda: stg.values())
 
-    stg = generate_standings(soccer_db.nafbl_games.find({'season': '1895-1896'}))
-    generic_load(soccer_db.nafbl_standings, lambda: stg.values())
+class Standing(object):
+    def __init__(self, game, team, standing=None):
+        self.team = team
+        self.date = game['date']
+        self.competition = game['competition']
+        self.season = game['season']
 
+        if standing:
+            self.wins = standing.wins
+            self.ties = standing.ties
+            self.losses = standing.losses
+            self.goals_for = standing.goals_for
+            self.goals_against = standing.goals_against
+        else:
+            self.wins = self.ties = self.losses = self.goals_for = self.goals_against = 0
+
+        # Not really handling these anywhere yet.
+        self.shootout_wins = self.shootout_losses = 0
+
+        ht, at, h, a = [game[k] for k in ['team1', 'team2', 'team1_score', 'team2_score']]
+
+        if team == ht:
+            gf, ga = h, a
+        else:
+            ga, gf = h, a
+
+        self.goals_for += gf or 0
+        self.goals_against += ga or 0
+
+        if h == None or a == None:
+            return
+
+        if h == a:
+            self.ties += 1
+        elif ht == team and h > a:
+            self.wins += 1
+        elif at == team and a > h:
+            self.wins += 1
+        else:
+            self.losses += 1
+
+
+    def to_dict(self):
+        return {
+            'team': self.team,
+            'date': self.date,
+            'competition': self.competition,
+            'season': self.season,
+            'wins': self.wins,
+            'losses': self.losses,
+            'ties': self.ties,
+            'shootout_wins': self.shootout_wins,
+            'shootout_losses': self.shootout_losses,
+            'games': self.wins + self.losses + self.ties,
+            'goals_for': self.goals_for,
+            'goals_against': self.goals_against,
+            }
+                
+            
+
+def generate_standings2(competition):
+
+    standing_dict = defaultdict(list)
+
+    # This exists so we can find standings with arbitrary datetimes.
+    # Seems like this whole thing might be better structured as a dict of lists?
+
+    def generate_team_standing(game, team):
+
+        key = (team, competition, game['season'])
+
+        if key in standing_dict:
+            standing = standing_dict[key][-1]
+            new_standing = Standing(game, team, standing)
+        else:
+            new_standing = Standing(game, team)
+
+        standing_dict[key].append(new_standing)
+
+            
+
+
+    for game in soccer_db.games.find({'competition': competition}).sort('date', 1):
+
+        generate_team_standing(game, game['team1'])
+        generate_team_standing(game, game['team2'])
+
+    standings = []
+    for lst in standing_dict.values():
+        standings.extend([e.to_dict() for e in lst])
+    return standings
+
+
+
+            
+    
+
+        
+        
+        
 
 
 def generate_standings(games):
