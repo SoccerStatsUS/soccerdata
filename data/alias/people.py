@@ -51,6 +51,22 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+    'Ngassem Falemi': 'Ngassam Falemi',
+    'Ngassam Falemi': 'Nana Falemi',
+    'Mohamadou Idrissou': 'Mohammadou Idrissou',
+    'Mahamadou Idrissou': 'Mohammadou Idrissou',
+    'Richard Williams': 'Richie Williams',
+    'José Abundis': 'José Manuel Abundis',
+    'C. J. Brown': 'C.J. Brown',
+    'Matt Mckeon': 'Matt McKeon',
+    'Christian Worns': 'Christian Wörns',
+    'Christian Woerns': 'Christian Wörns',
+    'Darius Wosz': 'Dariusz Wosz',
+    'Lothar Matthaeus': 'Lothar Matthäus',
+    'Ze Roberto': 'Zé Roberto',
+    'Evanilson': 'Evanílson',
+    'Aaron Lines': 'Aaran Lines',
+    'Chris Bouckenooghe': 'Kris Bouckenooghe',
     'Ryan Dos Reis': 'Ryan dos Reis',
     'Joshua Dunn': 'Josh Dunn',
     'Karel Poborsky': 'Karel Poborský',
@@ -2523,6 +2539,9 @@ onames = {
     'Rodrigo Lopez': 'Rodrigo López',
     'Raul Diaz Arce': 'Raúl Díaz Arce',
     'Ronnie O’Brien': 'Ronnie O\'Brien',
+    'Ronnie O\'brien': 'Ronnie O\'Brien',
+    u'Ronnie O\u2019Brien': 'Ronnie O\'Brien',
+
     'Ronald Cerritos': 'Rónald Cerritos',
     'Ross Mckenzie': 'Ross McKenzie',
     'Rauwshawn McKenzie': 'Rauwshan McKenzie',
@@ -2541,8 +2560,6 @@ onames = {
     'Sercan Güvenisik': 'Sercan Güvenışık',
     'Ramon Nunez': 'Ramon Núñez',
     'RT Moore': 'R.T. Moore',
-    'Ronnie O\'brien': 'Ronnie O\'Brien',
-    u'Ronnie O\u2019Brien': 'Ronnie O\'Brien',
     'Ricky Balchan': 'Rich Balchan',
     'Ryseheim Henderson': 'Ryshiem Henderson', #http://en.wikipedia.org/wiki/Ryshiem_Henderson
 
