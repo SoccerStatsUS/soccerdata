@@ -223,6 +223,7 @@ world = {
     'Torpedo Moscow': 'FC Torpedo Moscow',
 
     # Scandinavia
+    'Gif Sundsvall': 'GIF Sundsvall',
     'Goteborg Orgryte': 'Örgryte IS',
     'Norrkoeping': 'IFK Norrköping',
     'Norrkoping': 'IFK Norrköping',
@@ -875,8 +876,67 @@ usa = {
     'Hampton Roads Mariners': 'Virginia Beach Mariners',
     'Hampton Rds Mariners': 'Virginia Beach Mariners',
 
+    # PDL
+
+    'Colorado Rapids U23\'s': 'Colorado Rapids U-23',
+    'IMG Bradenton Academics': 'Bradenton Academics',
+    'Louisiana Outlaws': 'Lafayette Swamp Cats',
+    'Lafayette SwampCats': 'Lafayette Swamp Cats',
+    'Mid-Michigan Bucks': 'Michigan Bucks',
+    'Albany Blackwatch Highlanders': 'Albany Admirals',
+    'Albany Black Watch Highlanders': 'Albany Blackwatch Highlanders',
+    'South Jersey Barons': 'Ocean City Barons',
+    'Williamsburg Legacy': 'Virginia Legacy',
+    'Tacoma FC': 'Tacoma Tide',
+    'Chivas El Paso Patriots': 'El Paso Patriots',
+    'Rio Grande Valley Grandes FC': 'Rio Grande Valley Grandes',
+    'Raleigh Elite': 'Raleigh CASL Elite',
+    'CASL Elite': 'Raleigh CASL Elite',
+    'Raleigh Express': 'Raleigh Capital Express',
+    'Raleigh Capital Express': 'Raleigh Flyers',
+
+    'Virginia Beach Submariners': 'Hampton Roads Piranhas',
+    'Hampton Roads Piranhas': 'Virginia Beach Piranhas',
+    'Boulder Rapids Reserves': 'Colorado Rapids U-23',
+    'Boulder Rapids Reserve': 'Colorado Rapids U-23',
+    'Abbotsford Rangers': 'Abbotsford Mariners',
+    'Abbotsford Mariners': 'Fraser Valley Mariners',
+    'Fraser Valley Mariners FC': 'Fraser Valley Mariners',
+    'Los Angeles Storm': 'Los Angeles Legends',
+    'Austin Stampede': 'Austin Aztex U23s',
+    'Cary Railhawks U-23\'s': 'Cary Clarets',
+    'Cary Railhawks U23\'s': 'Cary Clarets',
+    'Cary RailHawks U23\'s': 'Cary Clarets',
+    'New Orleans Shell Shockers': 'New Orleans Jesters',
+    
+    'Ocean City Barons': 'Ocean City Nor\'easters',
+    'Los Angeles Legends': 'Los Angeles Azul Legends',
+    'Los Angeles Azul Legends': 'Los Angeles Misioneros',
+    'LA Misioneros FC': 'Los Angeles Misioneros',
+    'Reading Rage': 'Reading United',
+    'Reading United AC': 'Reading United',
+    'Newark Ironbound Express': 'Jersey Express',
+    'Central Florida Kraze': 'Orlando City U23',
+    'Los Angeles Blues 23': 'Pali Blues',
+    'MPS Portlnad Phoenix': 'GPS Portland Phoenix',
+    'New Hampshire Phantoms': 'Seacoast United Phantoms',
+    'Tacoma Tide': 'Sounders FC U23',
+    'Sounders FC U23': 'Seattle Sounders FC U-23',
+    'West Texas Sockers': 'West Texas United Sockers',
+    'Panama City Pirates': 'Panama City Beach Pirates',
+    'Dwayne Demmin': 'Dwyane Demmin',
+    
+    
+
+
+
 
     # Uncategorized
+
+    'St Lawrence': 'St. Lawrence',
+    'Newark Scottish Americans': 'Newark Scottish-Americans',
+    'Vasco Da Gama (Bermuda)': 'Vasco da Gama (Bermuda)',
+
     
     # Need to make sure America is not a regional US team.
     'America': 'América',
@@ -994,12 +1054,10 @@ usa = {
 
     # Michigan
     'Holley C.': 'Holley Carburetor F.C.',
-    'Mid-Michigan Bucks': 'Michigan Bucks',
+
     'Packard FC': 'Detroit Packard FC',
 
     # Louisiana
-    'Louisiana Outlaws': 'Lafayette Swamp Cats',
-    'Lafayette SwampCats': 'Lafayette Swamp Cats',
 
     # Oregon
     'Portland Timbers U23': 'Portland Timbers U23\'s',
@@ -1030,8 +1088,6 @@ usa = {
     'Dallas/Ft. Worth Toros': 'Dallas-Fort Worth Toros',
     'DFW Toros': 'Dallas-Fort Worth Toros',
 
-    'Chivas El Paso Patriots': 'El Paso Patriots',
-    'Rio Grande Valley Grandes FC': 'Rio Grande Valley Grandes',
     
     # California
     'McIlvane Canvasbacks': 'McIlvaine Canvasbacks',
@@ -1058,11 +1114,6 @@ usa = {
     'San Francisco C.D. Mexico' : 'El Farolito Soccer Club',
 
 
-    # North Carolina
-    'Raleigh Elite': 'Raleigh CASL Elite',
-    'CASL Elite': 'Raleigh CASL Elite',
-    'Raleigh Express': 'Raleigh Capital Express',
-    'Raleigh Capital Express': 'Raleigh Flyers',
 
     # Arizona
     'Phoenix Hearts': 'Arizona Sahuaros',
@@ -1073,6 +1124,8 @@ usa = {
     # New York City
     'St George FC': 'St. George F.C',
     'Critchley AA': 'Critchley\'s',
+    'Crithleys': 'Critchley\'s',
+    'Crescent AC': 'Crescent A.C.',
     'Critchley': 'Critchley\'s',
     'Wissinoming': 'Wissinoming FC',
 
@@ -1193,7 +1246,9 @@ usa = {
 
     # New York State
 
-    'Albany Black Watch Highlanders': 'Albany Blackwatch Highlanders',
+    'Rangers FC (Niagara Falls)': 'Niagara Falls Rangers',
+
+
 
     'Kodak Park': 'Kodak Park FC',
 
@@ -1234,6 +1289,7 @@ usa = {
     'Newark Germans': 'Paterson F.C.',
 
     'West Hudson AA': 'West Hudson A.A.',
+    'West Hudson A.A': 'West Hudson A.A.',
     'West Hudson FC': 'West Hudson A.A.',
     'West Hudson AC': 'West Hudson A.A.',
     
@@ -1283,8 +1339,10 @@ usa = {
 
     'Central Jersey Rpitide': 'Central Jersey Riptide',
 
+    'Jersey A.C': 'Jersey A.C.',
     'Jersey AC': 'Jersey A.C.',
     'Newark FC': 'Newark F.C.',
+    'Newark F.C': 'Newark F.C.',
 
     'Bayonne Centerville': 'Centreville AC',    
     
@@ -1662,6 +1720,12 @@ teams.update(usa)
 college = {
 
     # Colleges
+    'Cal State Fullerton': 'Cal State-Fullerton',
+    'SIU Edwardsville': 'SIU-Edwardsville',
+
+    'UC-Santa Barbara': 'UC Santa Barbara',
+
+    'University of Wisconsin Milwaukee': 'University of Wisconsin-Milwaukee',
 
     'SFU': 'Simon Fraser University',
     'Chico State': 'Chico State University',
@@ -1680,7 +1744,14 @@ college = {
     'State University of Iowa': 'Iowa State University',
     'Washington & Lee': 'Washington & Lee University',
     'Minnesota College': 'University of Minnesota',
+    'UNC Charlotte': 'UNC-Charlotte',
+    
+    # High schools
+    'Odea High School, WA': 'O\'Dea High School, WA',
+
 }
+
+teams.update(college)
 
 international = {
 
