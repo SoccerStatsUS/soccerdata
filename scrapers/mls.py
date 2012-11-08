@@ -322,6 +322,9 @@ def scrape_player_bio(url):
             #birthdate = datetime.datetime.strptime(birthdate_string,  "%a, %m/%d/%Y")
             birthdate = datetime.datetime.strptime(birthdate_string,  "%m-%d-%Y")
 
+        if birthdate.year > 2010:
+            birthdate = None
+
     if 'Birthplace' in d:
         birthplace = d['Birthplace']
 
