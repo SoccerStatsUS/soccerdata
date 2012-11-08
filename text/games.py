@@ -92,6 +92,9 @@ class GeneralProcessor(object):
         if line.startswith("Minutes:"):
             return
 
+        if line.startswith("Notes:"):
+            return
+
         # Change the number of minutes.
         if line.startswith("Indoor"):
             return
