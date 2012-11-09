@@ -179,10 +179,15 @@ def process_usl_awards():
     l.extend(process_awards(usisl.usisl_select))
 
     l.extend(process_awards(usl.usl_pro))
-    l.extend(process_awards(usl.usl_pdl))
+
     l.extend(process_awards(usl.usl_2))
     l.extend(process_awards(usl.usl_1))
     return l
+
+
+def process_pdl_awards():
+    from soccerdata.data.lists import usl
+    return process_awards(usl.usl_pdl)
 
 def process_world_cup_awards():
     from soccerdata.data.lists.world_cup import d
