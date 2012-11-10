@@ -24,6 +24,10 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Tony Glavin Complex': 'Tony Glavin Soccer Complex',
+    'Ultimate Soccer Arena': 'Ultimate Soccer Arenas',
+    'Texas A&M Intl Univ Soccer Complex': 'TAMIU Soccer Complex',
+    'WoodForest Stadium': 'Woodforest Bank Stadium',
     'Memorial Stadium (Seattle)': 'Seattle Memorial Stadium',
     'Crescent Grounds': 'Crescent Athletic Club Grounds',
     'Soldiers Field': 'Harvard Stadium',
@@ -35,6 +39,7 @@ stadiums = {
     'Maryland Soccer Plex': 'Maryland SoccerPlex',
     'RSL Training Field': 'America First Field',
     #'Kino Veterans Memorial Stadium': 'Kino Veterans Memorial Stadium',
+    'Kino Sports Complex': 'Kino Veterans Memorial Stadium',
     'Estadio Nacional Mateo Flores': 'Estadio Mateo Flores',
     'Estadio Andres Quintana Roo': 'Estadio Quintana Roo',
     'Estadio Agustin Muquita Sanchez': 'Estadio Agustín Sánchez',

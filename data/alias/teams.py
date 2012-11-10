@@ -131,6 +131,7 @@ world = {
     'Nice reserves (D4)': 'OGC Nice Reserves',
     'Nice': 'OGC Nice',
     'Paris St.-Germain': 'Paris Saint-Germain F.C.',
+    'PSG': 'Paris Saint-Germain F.C.',
     'Paris Saint-Germain': 'Paris Saint-Germain F.C.',
     'Paris St. Germain': 'Paris Saint-Germain F.C.',
 

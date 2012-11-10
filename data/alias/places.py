@@ -15,6 +15,9 @@ def get_place(s):
 
 
 places = {
+    'Edinburg Field': 'Edinburg Stadium',
+    'Empire Field Stadium': 'Empire Field',
+    'JC Handly Park': 'JC Handley Park',
     'Celtic Park, Long Island, NY': 'Celtic Park, Queens, NY',
     'Cricket Club Grounds, Livingston, Staten Island, NY': 'Staten Island Cricket Grounds',
     'National Stadium (Olympic Stadium), Tokyo': 'National Olympic Stadium, Tokyo',
