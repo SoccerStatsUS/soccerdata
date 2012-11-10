@@ -438,6 +438,7 @@ d2 = {
         (2008, 'Columbus Crew'),
         (2009, 'Real Salt Lake'),
         (2010, 'Colorado Rapids'),
+        (2011, 'Los Angeles Galaxy'),
         ],
 
 }
@@ -454,6 +455,7 @@ mlsrl = {
         (2007, 'Colorado Rapids Reserves'),
         (2008, 'Houston Dynamo Reserves'),
         (2011, 'Columbus Crew Reserves'),
+        (2012, 'Columbus Crew Reserves'),
         ],
 
 }
