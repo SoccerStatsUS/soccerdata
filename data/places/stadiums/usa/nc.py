@@ -57,4 +57,13 @@ l = [
         'name': 'Charlotte Christian Stadium',
         'location': 'Charlotte, NC',
         },
+
+    {
+        'name': 'Carter-Finley Stadium',
+        'address': '4600 Trinity Road',
+        'location': 'Raleigh, NC',
+        'opened': datetime.datetime(1966, 10, 8),
+        'cost': 3700000,
+        'capacity': 57583,
+        },
     ]

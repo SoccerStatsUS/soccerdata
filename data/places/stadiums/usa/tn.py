@@ -31,6 +31,17 @@ l = [
         'name': 'Nashville Stadium',
         'location': 'Nashville, TN',
         },
+
+    {
+        'name': 'Ezell Park Stadium',
+        'location': 'Nashville, TN',
+        },
+
+    {
+        'name': 'E.S. Rose Park',
+        'address': '1000 Edgehill Avenue',
+        'location': 'Nashville, TN',
+        },
     
     
     {

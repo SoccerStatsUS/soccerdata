@@ -32,6 +32,12 @@ l = [
         'location': 'Fall River, MA',
         },
 
+    {
+        'name': 'Foley Stadium',
+        'address': '305 Chandler Street',
+        'location': 'Worcester, MA',
+        },
+
 
     {
         'name': 'South End Grounds',

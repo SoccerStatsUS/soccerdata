@@ -35,6 +35,20 @@ l = [
         'name': 'Husky Soccer Stadium',
         'location': 'Seattle, WA',
         },
+
+    {
+        'name': 'Goddard Memorial Stadium',
+        'address': '7600 212th St SW',
+        'location': 'Edmonds, WA',
+        },
+
+    {
+        'name': 'Joe Albi Stadium',
+        'address': '4918 W. Everett Ave.',
+        'location': 'Spokane, WA',
+        'opened': 1950,
+        'capacity': 25000,
+        },
     {
         'name': 'Interbay Stadium',
         'location': 'Seattle, WA',

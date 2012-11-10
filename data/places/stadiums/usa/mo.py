@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'Cooper Sports Complex',
+        'address': '2701 E Pythian St',
+        'location': 'Springfield, MO',
+        },
+
+    {
         'name': 'Busch Memorial Stadium',
         'address': '250 Stadium Plaza',
         'location': 'St. Louis, MO',
@@ -38,6 +44,12 @@ l = [
     {
         'name': 'North Grand Boulevard Park',
         'location': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'Tony Glavin Soccer Complex',
+        'address': '2 Woodlands Pkwy',
+        'location': 'St. Peters, MO',
         },
 
 

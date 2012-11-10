@@ -9,6 +9,17 @@ l = [
         'name': 'George M. Steinbrenner Field',
         'location': 'Tampa, FL',
         },    
+
+    {
+        'name': 'Gavlak Stadium',
+        'location': 'Panama City Beach, FL',
+        },    
+
+    {
+        'name': 'JC Handley Park',
+        'address': '3104 S Kings Ave',
+        'location': 'Brandon, FL',
+        },    
     {
         'name': 'Progress Engergy Park',
         'location': 'St. Petersburg, FL',

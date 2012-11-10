@@ -47,7 +47,10 @@ l = [
     
     {
         'name': 'Ultimate Soccer Arena',
+        'address': '867 South Blvd.',
         'location': 'Pontiac, MI',
+        'opened': 2008,
+        'capacity': 5000,
         },
     
     

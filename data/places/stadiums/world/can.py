@@ -14,6 +14,15 @@ l = [
         },        
 
         {
+        'name': 'Ron Joyce Stadium',
+        'location': 'Hamilton, ON',
+        'opened': 2008,
+        'capacity': 6000,
+        'cost': 43000000,
+        'denomination': 'Canadian dollars',
+        },        
+
+        {
         'name': 'Coronation Park',
         'location': 'Edmonton, AB',
         },        

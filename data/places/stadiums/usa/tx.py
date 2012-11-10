@@ -12,6 +12,29 @@ l = [
         },
 
     {
+        'name': 'TAMIU Soccer Complex',
+        'address': '5201 University Boulevard',
+        'location': 'Laredo, TX',
+        'capacity': 4000,
+        'opened': 2006,
+        },
+
+    {
+        'name': 'Grande Communications Stadium',
+        'location': 'Midland, TX',
+        'opened': 2002,
+        'capacity': 18000,
+        },
+
+    {
+        'name': 'Woodforest Bank Stadium',
+        'address': '19115 David Memorial Drive',
+        'location': 'Shenandoah, TX',
+        'capacity': 9600,
+        'opened': 2008,
+        },
+
+    {
         'name': 'Heroes Stadium',
         'address': '4799 Thousand Oaks Dr',
         'location': 'San Antonio, TX',
@@ -29,6 +52,16 @@ l = [
     {
         'name': 'Samuell Field',
         'location': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Edinburg Stadium',
+        'address': 'Sugar Road at Schunior Street',
+        'location': 'Edinburg, TX',
+        'architect': 'Cotera, Kolar, Negrete & Reed',
+        'opened': 2001,
+        'cost': 5300000,
+        'capacity': 4000,
         },
 
     {

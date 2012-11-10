@@ -10,6 +10,16 @@ l = [
         'name': 'Southwestern College',
         'location': 'Chula Vista, CA',
         },
+
+    {
+        'name': 'Chukchansi Park',
+        'address': '1800 Tulare Street',
+        'opened': datetime.datetime(2002, 5, 1),
+        'location': 'Fresno, CA',
+        'cost': 46000000,
+        'architect': 'HOK Sport',
+        'capacity': 12500,
+        },
     {
         'name': 'Norco College',
         'location': 'Norco, CA',

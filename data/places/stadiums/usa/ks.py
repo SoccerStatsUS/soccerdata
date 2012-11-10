@@ -13,6 +13,12 @@ l = [
         'name': 'Blue Valley Sports Complex',
         'location': 'Overland Park, KS',
         },
+
+    {
+        'name': 'Overland Park Soccer Complex',
+        'address': '13800 Switzer Road',
+        'location': 'Overland Park, KS',
+        },
     
     
     
