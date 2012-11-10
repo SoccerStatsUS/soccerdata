@@ -226,11 +226,15 @@ def merge_games(games_lists):
                     import pdb; pdb.set_trace()
             else:
                 if d['date'] is not None:
-                    import pdb; pdb.set_trace()
+                    print "Game information mismatch."
+                    print orig
+                    print d
                 
             for k, v in d.items():
                 if not orig.get(k) and v:
                     orig[k] = v
+
+            orig['sources'] = orig.get('sources', []) + d.get('sources', [])
 
     game_dict = {}
 
