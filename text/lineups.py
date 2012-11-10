@@ -181,12 +181,16 @@ def load_all_games_scaryice():
         fn = "%s.csv" % key
         l.extend(get_scores(fn))
 
+    # Why was I doing this?
+    """
     s = set()
     for e in l:
         s.add(tuple(sorted(e.items())))
 
     
     l = sorted([dict(e) for e in s])
+    """
+
     return l
 
 
@@ -451,7 +455,7 @@ def get_scores(fn):
                 'team1_score': home_score,
                 'team2_score': away_score,
                 'home_team': home_team,
-                'source': 'MLS Lineup Database',
+                'sources': ['MLS Lineup Database'],
                 }
         else:
             return {}
@@ -645,7 +649,8 @@ def get_lineups(filename):
             return s
 
         def process_lineups(l):
-            return LineupProcessor(team_name, date, get_competition(match_type)).consume_rows(l)
+            competition = get_competition(match_type)
+            return LineupProcessor(team_name, date, competition, goals_for, goals_against).consume_rows(l)
                 
         items = pline.strip().split("\t")
         try:
@@ -663,6 +668,8 @@ def get_lineups(filename):
         plineups = preprocess_lineups(lineups)
         # Produce starter/sub groups
         groups = [e for e in plineups.strip().split(",") if e]
+
+        goals_for, goals_against = [int(e) for e in score.split('-')]
 
         return process_lineups(groups)
         
@@ -686,10 +693,12 @@ class LineupProcessor(object):
     """
 
 
-    def __init__(self, team, date, competition):
+    def __init__(self, team, date, competition, goals_for, goals_against):
         self.team = team
         self.date = date
         self.competition = competition
+        self.goals_for = goals_for
+        self.goals_against = goals_against
 
         self.lineups = []
 
@@ -813,7 +822,7 @@ class LineupProcessor(object):
             
     def consume_rows(self, rows):
         l = []
-        for row in rows:
+        for i, row in enumerate(rows, start=1):
             lineups = self.consume_row(row)
             for lineup in lineups:
                 lineup['name'] = lineup['name'].strip().replace(")(", "")
@@ -822,6 +831,9 @@ class LineupProcessor(object):
                     'date': self.date,
                     'season': unicode(self.date.year),
                     'competition': self.competition,
+                    'order': i,
+                    'goals_for': self.goals_for,
+                    'goals_against': self.goals_against,
                     })
             l.extend(lineups)
         return l

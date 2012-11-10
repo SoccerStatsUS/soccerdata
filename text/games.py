@@ -457,13 +457,16 @@ class GeneralProcessor(object):
 
     def process_lineup(self, line):
 
-        def process_appearance(s, team):
+        def process_appearance(s, team, order):
             # Currently just skipping the item if there were subs.
             # Off should be "end", then normalized later.
 
             # Will implement captains later.
             s = s.replace('(c)', '')
 
+            # Fuck. This is wrong. This is true of game plus/minus, but not appearance plus/minus.
+            # Need to handle appearance minutes...
+            # This is being used for determining the results of games.
             if team == self.current_game['team1']:
                 goals_for, goals_against = self.current_game['team1_score'], self.current_game['team2_score']
             elif team == self.current_game['team2']:
@@ -479,6 +482,7 @@ class GeneralProcessor(object):
                 'season': self.season,
                 'goals_for': goals_for,
                 'goals_against': goals_against,
+                'order': order,
                 }
 
             if '(' not in s:
@@ -575,8 +579,8 @@ class GeneralProcessor(object):
         lineups = []
 
         # Need to separate separate fields to get spearate sections.
-        for e in split_outside_parens(players, ',;'):
-            lineups.extend(process_appearance(e, team))
+        for order, e in enumerate(split_outside_parens(players, ',;'), start=1):
+            lineups.extend(process_appearance(e, team, order))
 
         return lineups
 
