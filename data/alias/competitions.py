@@ -38,6 +38,9 @@ partial_alias = {
     'Domestic Tour': 'Friendly',
     'International Tour': 'Friendly',
     'Desert Diamond Cup': 'Friendly',
+    'Chicago Sister Cities International Cup': 'Friendly',
+
+
 
     'Bicentennial Cup': 'Friendly',
     'Carlsberg Cup': 'Friendly',
