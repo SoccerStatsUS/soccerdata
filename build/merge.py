@@ -9,9 +9,26 @@ from collections import defaultdict
 import random
 
 
+def timer(method):
+
+    import time
+
+    def timed(*args, **kw):
+        ts = time.time()
+        result = method(*args, **kw)
+        te = time.time()
+
+        print '%r (%r, %r) %2.2f sec' % \
+              (method.__name__, args, kw, te-ts)
+        return result
+
+    return timed
+
+
+
 # Merge should be used for avoiding duplicate elements.
 
-
+@timer
 def first_merge():
     merge_standings()
     merge_awards()
@@ -168,7 +185,7 @@ def merge_lineups():
     insert_rows(soccer_db.lineups, dd.values())
 
 
-
+@timer
 def merge_all_games():            
     games_coll_names = ['%s_games' % coll for coll in SOURCES]
     games_lists = [soccer_db[k].find() for k in games_coll_names]
@@ -223,7 +240,11 @@ def merge_games(games_lists):
                     assert t1r == orig['team1_result']
                     assert t1r == orig['team1_result']
                 except:
-                    import pdb; pdb.set_trace()
+                    print "Game information mismatch."
+                    print orig
+                    print d
+
+                    #import pdb; pdb.set_trace()
             else:
                 if d['date'] is not None:
                     print "Game information mismatch."

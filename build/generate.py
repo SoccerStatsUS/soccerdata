@@ -100,6 +100,9 @@ def generate_all_standings():
     sg2('International Soccer League')
     sg2('Eastern Soccer League (1928-1929)')
     sg2('Major League Soccer')
+    sg2('MLS Reserve League')
+    sg2('MLS Cup Playoffs')
+    sg2('U.S. Open Cup')
 
     """
     sg('lewis_cup')
@@ -186,6 +189,7 @@ class Standing(object):
             'games': self.wins + self.losses + self.ties,
             'goals_for': self.goals_for,
             'goals_against': self.goals_against,
+            'final': False,
             }
                 
             

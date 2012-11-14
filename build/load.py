@@ -13,6 +13,8 @@ from soccerdata.text import standings
 
 from soccerdata import scrapers
 
+from soccerdata.data.alias.people import check_for_name_loops
+
 
 def clear_all():
     from soccerdata.settings import STAT_TABLES, SOURCES, SINGLE_SOURCES
@@ -48,6 +50,7 @@ def first_load():
     """
     Load all data.
     """
+    check_for_name_loops()
     clear_all()
 
     load_sources()
@@ -65,7 +68,6 @@ def first_load():
     load_competition_maps()
 
     load_drafts()
-
     load_games()
 
     #load_analysis()
@@ -76,17 +78,29 @@ def load_drafts():
 
 
 def load_games():
-    load_pdl()
-
-    return
-    load_usl()
-    load_usmnt()
-    load_fifa()
+    load_early_friendlies()
+    load_nasl()
 
     load_asl()
 
-
     load_mls()
+    load_ncaa()
+    load_early_cups()
+    load_nafbl()
+    load_usmnt()
+    load_modern_cups()
+    load_modern_friendlies()
+    load_pdl()
+
+
+    load_usl()
+
+    load_fifa()
+
+
+
+
+
 
 
 
@@ -95,12 +109,12 @@ def load_games():
 
 
     load_leach()    
-    load_nasl()
+
 
 
     load_apsl()
-    load_early_cups()
-    load_modern_cups()
+
+
     load_misl()
     load_csl()
     load_city()
@@ -113,11 +127,11 @@ def load_games():
     load_asl2()
     load_concacaf()
 
-    load_nafbl()
 
 
-    load_early_friendlies()
-    load_modern_friendlies()
+
+
+
 
 
     load_isl()
@@ -138,7 +152,7 @@ def load_games():
 
 
     #load_early()
-    #load_ncaa()
+
 
 
 
@@ -439,8 +453,8 @@ def load_early_friendlies():
 
 def load_modern_friendlies():
 
-    load_games_standard('small', 'domestic/country/usa/tournaments/carolina')
-    load_games_standard('small', 'domestic/country/usa/tournaments/dynamo')
+    load_games_standard('small', 'domestic/country/usa/friendly/carolina')
+    load_games_standard('small', 'domestic/country/usa/friendly/dynamo')
 
     load_games_standard('small', 'international/misc/bicentennial')
 
@@ -547,6 +561,8 @@ def load_asl():
 
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
+
+    load_games_standard('esl', 'domestic/country/usa/leagues/asl')
 
 
 def load_esl():    
@@ -699,10 +715,13 @@ def load_mls_lineups():
 
 
 def load_pdl():
-    from soccerdata.text import stats, awards  
+    from soccerdata.text import stats, awards, pdl
     load_excel_standings('pdl', 'domestic/country/usa/usl/pdl')
 
     generic_load(soccer_db.pdl_stats, stats.process_pdl_stats)
+    generic_load(soccer_db.pdl_games, pdl.load_pdl_games)
+
+    generic_load(soccer_db.pdl_awards, awards.process_pdl_awards)
 
 def load_usl():
 
@@ -810,6 +829,7 @@ def load_concacaf():
 def load_ncaa():
 
     print "Loading NCAA awards.\n"
+    load_games_standard('ncaa', 'domestic/country/usa/college')
     generic_load(soccer_db.ncaa_awards, awards.process_ncaa_awards)
 
 
@@ -824,6 +844,8 @@ def load_fifa():
     generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
     generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
     generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
+
+    generic_load(soccer_db.fifa_awards, awards.process_world_cup_awards)
 
 
 
