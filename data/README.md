@@ -1,5 +1,7 @@
 Principles: 
 
+* Whoops - looks like I've given up on this pipe dream.
+* The data is my own now. I don't think it's worth trying to keep it unchanged, there are simply too many errors everywhere.
 Keep original data pristine.
 If necessary, preprocess it to fix whatever bugs.
 Don't change the source data.
