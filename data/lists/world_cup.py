@@ -35,28 +35,6 @@ d = {
         ],
 
 
-    'Golden Ball': [
-        (1930, 'José Nasazzi', 'Guillermo Stábile', 'José Leandro Andrade'),
-        (1934, 'Giuseppe Meazza', 'Matthias Sindelar', 'Oldřich Nejedlý'),
-        (1938, 'Leônidas', 'Silvio Piola', 'György Sárosi'),
-        (1950, 'Zizinho', 'Juan Schiaffino', 'Ademir'),
-        (1954, 'Ferenc Puskás', 'Sándor Kocsis', 'Fritz Walter'),
-        (1958, 'Didi', 'Pelé', 'Just Fontaine'),
-        (1962, 'Garrincha', 'Josef Masopust' 'Leonel Sánchez'),
-        (1966, 'Bobby Charlton', 'Bobby Moore', 'Eusébio'),
-        (1970, 'Pelé', 'Gérson', 'Gerd Muller'), 
-        (1974, 'Johan Cruijff', 'Franz Beckenbauer', 'Kazimierz Deyna'),
-        (1978, 'Mario Kempes', 'Paolo Rossi', 'Dirceu'),
-        (1982, 'Paolo Rossi', 'Falcão', 'Karl-Heinz Rummenigge'),
-        (1986, 'Diego Maradona', 'Harald Schumacher', 'Preben Elkjær'),
-        (1990, 'Salvatore Schillaci', 'Lothar Matthäus', 'Diego Maradona'),
-        (1994, 'Romário', 'Roberto Baggio', 'Hristo Stoichkov'), 
-        (1998, 'Ronaldo', 'Davor Šuker', 'Lilian Thuram'),
-        (2002, 'Oliver Kahn', 'Ronaldo', 'Hong Myung-Bo'),
-        (2006, 'Zinedine Zidane', 'Fabio Cannavaro', 'Andrea Pirlo'),
-        (2010, 'Diego Forlán', 'Wesley Sneijder', 'David Villa'),
-        ],
-
     'Young Player': [
         (1958, 'Pelé'),
         (1962, 'Albert'),
@@ -347,4 +325,31 @@ d = {
                     ]),
             ],
 }
+
+
+# Separated till we decide how to handle this better.
+d2 = {
+    'Golden Ball': [
+        (1930, 'José Nasazzi', 'Guillermo Stábile', 'José Leandro Andrade'),
+        (1934, 'Giuseppe Meazza', 'Matthias Sindelar', 'Oldřich Nejedlý'),
+        (1938, 'Leônidas', 'Silvio Piola', 'György Sárosi'),
+        (1950, 'Zizinho', 'Juan Schiaffino', 'Ademir'),
+        (1954, 'Ferenc Puskás', 'Sándor Kocsis', 'Fritz Walter'),
+        (1958, 'Didi', 'Pelé', 'Just Fontaine'),
+        (1962, 'Garrincha', 'Josef Masopust' 'Leonel Sánchez'),
+        (1966, 'Bobby Charlton', 'Bobby Moore', 'Eusébio'),
+        (1970, 'Pelé', 'Gérson', 'Gerd Muller'), 
+        (1974, 'Johan Cruijff', 'Franz Beckenbauer', 'Kazimierz Deyna'),
+        (1978, 'Mario Kempes', 'Paolo Rossi', 'Dirceu'),
+        (1982, 'Paolo Rossi', 'Falcão', 'Karl-Heinz Rummenigge'),
+        (1986, 'Diego Maradona', 'Harald Schumacher', 'Preben Elkjær'),
+        (1990, 'Salvatore Schillaci', 'Lothar Matthäus', 'Diego Maradona'),
+        (1994, 'Romário', 'Roberto Baggio', 'Hristo Stoichkov'), 
+        (1998, 'Ronaldo', 'Davor Šuker', 'Lilian Thuram'),
+        (2002, 'Oliver Kahn', 'Ronaldo', 'Hong Myung-Bo'),
+        (2006, 'Zinedine Zidane', 'Fabio Cannavaro', 'Andrea Pirlo'),
+        (2010, 'Diego Forlán', 'Wesley Sneijder', 'David Villa'),
+        ],
+
                       
+}
