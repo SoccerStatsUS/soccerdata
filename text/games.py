@@ -81,6 +81,9 @@ class GeneralProcessor(object):
             self.games[-1]['forfeit'] = True
             return
 
+        if line.startswith("Replay"):
+            return
+
 
         if line.startswith("Date-style"):
             self.date_style = line.split("Date-style:")[1].strip()

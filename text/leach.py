@@ -184,7 +184,7 @@ def process_games_file(fn):
                     'date': d,
                     'attendance': attendance,
                     'referee': format_name(referee),
-                    'source': 'Scott Leach',
+                    'sources': ['Scott Leach'],
                     })
 
     return [e for e in l if e['competition'] != 'Major League Soccer']

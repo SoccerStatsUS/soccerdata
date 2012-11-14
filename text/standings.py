@@ -197,6 +197,7 @@ class StandingProcessor(object):
                 'goals_against': int_or_none(goals_against),
                 'shootout_wins': int_or_none(shootout_wins),
                 'shootout_losses': int_or_none(shootout_losses),
+                'final': True,
                 })
 
 

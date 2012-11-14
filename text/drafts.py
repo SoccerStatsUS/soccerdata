@@ -37,11 +37,10 @@ def remove_pairs(text, start, end):
 def load_draft_data():
 
     draft_filenames = ['allocation', 'college', 'dispersal', 'expansion', 'inaugural', 'nasl', 'superdraft', 'supplemental', 'supplemental2', 'usl']
-
-    l = []
+    draft_filenames += ['usmnt/2004', 'usmnt/2005', 'usmnt/2006', 'usmnt/2007', 'usmnt/2008', 'usmnt/2009', 'usmnt/2010', 'usmnt/2011', 'usmnt/2012']
 
     dp = DraftProcessor()
-    
+
     for fn in draft_filenames:
         p = os.path.join(DRAFTS_DIR, fn)
         for line in open(p):
@@ -96,6 +95,9 @@ class DraftProcessor():
 
         elif line.startswith("Competition"):
             self.competition = line.replace("Competition:", '').strip()
+            if self.competition == "None":
+                self.competition = None
+
 
         elif line.startswith("Season"):
             self.season = line.replace("Season:", '').strip()

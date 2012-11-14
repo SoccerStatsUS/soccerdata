@@ -436,7 +436,7 @@ class GameProcessor(object):
             'team1_score': home_score,
             'team2_score': away_score,
             'home_team': home_team,
-            'source': 'American Soccer League (1921-1931)',
+            'sources': ['American Soccer League (1921-1931)',],
             }
     
 
