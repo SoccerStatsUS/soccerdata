@@ -58,10 +58,7 @@ l = [
         'name': 'Bremerton Memorial Stadium',
         'location': 'Bremerton, WA',
         },
-    {
-        'name': 'Seattle Memorial Stadium',
-        'location': 'Seattle, WA',
-        },
+
     {
         'name': 'Starfire Sports Complex',
         'address': '6840 Fort Dent Way',

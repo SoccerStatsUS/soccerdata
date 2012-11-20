@@ -11,6 +11,15 @@ l = [
         },    
 
     {
+        'name': 'Wolfson Park',
+        'location': 'Jacksonville, FL',
+        'opened': 1954,
+        'closed': 2002,
+        'capacity': 8200,
+        
+        },    
+
+    {
         'name': 'Gavlak Stadium',
         'location': 'Panama City Beach, FL',
         },    

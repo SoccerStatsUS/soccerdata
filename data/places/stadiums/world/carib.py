@@ -68,7 +68,7 @@ l = [
     {
         'name': 'Estadio Pedro Marrero',
         'location': 'Havana, Cuba',
-        'opened': 28000,
+        'opened': 1929,
         'capacity': 28000,
         },
 

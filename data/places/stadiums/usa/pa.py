@@ -26,6 +26,16 @@ l = [
         },
 
     {
+        'name': 'Temple Stadium',
+        'address': 'Mount Pleasant Avenue and Michener Street',
+        'location': 'Philadelphia, PA',
+        'opened': datetime.datetime(1928, 9, 29),
+        'closed': 1995,
+        'cost': 350000,
+        'capacity': 20000,
+        },
+
+    {
         'name': 'Don Thomas Stadium',
         'address': '201 East 37th Street',
         'location': 'Reading, PA',

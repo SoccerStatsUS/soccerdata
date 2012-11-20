@@ -14,6 +14,27 @@ l = [
         },        
 
         {
+        'name': 'Canada Games Stadium',
+        'address': '100 Tucker Park Road',
+        'location': 'Saint John, New Brunswick',
+        'opened': 1985,
+        'capacity': 5000,
+        },        
+
+        {
+        'name': 'Windsor Stadium',
+        'location': 'Windsor, ON',
+        'capacity': 3000,
+        },        
+
+        {
+        'name': 'King George V Park',
+        'location': 'St. John\'s, Newfoundland',
+        'opened': 1925,
+        'capacity': 10000,
+        },        
+
+        {
         'name': 'Ron Joyce Stadium',
         'location': 'Hamilton, ON',
         'opened': 2008,

@@ -28,7 +28,7 @@ l = [
 
 
     {
-        'name': 'Estadio Cuauhtémoc',
+        'name': 'Estadío Cuauhtémoc',
         'location': 'Puebla, Mexico',
         'opened': datetime.datetime(1968, 10, 8),
         'capacity': 49200,
@@ -105,7 +105,7 @@ l = [
         },
 
         {
-        'name': 'Estadio Jalisco',
+        'name': 'Estadío Jalisco',
         'location': 'Guadalajara, Jalisco, Mexico',
         'opened': datetime.datetime(1960, 1, 31),
         'cost': 34000000,
@@ -137,8 +137,16 @@ l = [
         'name': 'Estadio Tecnológico',
         'location': 'Monterrey, Mexico',
         'opened': datetime.datetime(1950, 7, 17),
-        'capacity': 32864,
-        
+        'capacity': 32864,        
+        },
+
+    {
+        'name': 'Estadío Universitario de Monterrey',
+        'location': 'Monterrey, Mexico',
+        'opened': datetime.datetime(1967, 5, 30),
+        'capacity': 42000,
+        'cost': 23000000,
+        'denomination': 'Mexican peso',
         },
 
         {

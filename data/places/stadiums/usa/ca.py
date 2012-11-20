@@ -12,6 +12,18 @@ l = [
         },
 
     {
+        'name': 'Trabuco Hills High School Stadium',
+        'location': 'Mission Viejo, CA',
+        },
+
+    {
+        'name': 'Harder Stadium',
+        'location': 'Santa Barbara, CA',
+        'opened': 1966,
+        'capacity': 17000,
+        },
+
+    {
         'name': 'Chukchansi Park',
         'address': '1800 Tulare Street',
         'opened': datetime.datetime(2002, 5, 1),
@@ -34,6 +46,14 @@ l = [
     {
         'name': 'University Football Grounds',
         'location': 'Berkeley, CA',
+        },
+
+    {
+        'name': 'Murdock Stadium',
+        'address': '16007 Crenshaw Boulevard',
+        'location': 'Torrance, CA',
+        'opened': 1958,
+        'capacity': 12127,
         },
 
     {

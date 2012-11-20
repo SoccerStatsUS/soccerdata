@@ -9,7 +9,8 @@ import datetime
 l = [
 
         {
-        'name': 'Estadio Cuscatlán',
+        'name': 'Estadío Cuscatlán',
+
         'location': 'San Salvador, El Salvador',
         'opened': 1976,
         'capacity': 39043,
@@ -54,9 +55,8 @@ l = [
         },
 
 
-
         {
-        'name': 'Estadio Alejandro Morera Soto',
+        'name': 'Estadío Alejandro Morera Soto',
         'location': 'Alajuela, Costa Rica',
         'opened': datetime.datetime(1942, 1, 18),
         'capacity': 17895,
@@ -78,7 +78,7 @@ l = [
         },
 
         {
-        'name': 'Estadio Mateo Flores',
+        'name': 'Estadío Mateo Flores',
         'location': 'Guatemala City, Guatemala',
         'opened': datetime.datetime(1950, 8, 18),
         'capacity': 30000,
@@ -108,13 +108,14 @@ l = [
         'location': 'Metapán, El Salvador',
         'capacity': 8000,
         },
-                {
+
+        {
         'name': 'Estadio Tiburcio Carías Andino',
         'location': 'Tegucigalpa, Honduras',
         'capacity': 35000,
         'opened': datetime.datetime(1948, 3, 15),
-
         },
+
 
         {
         'name': 'Marvin Lee Stadium',

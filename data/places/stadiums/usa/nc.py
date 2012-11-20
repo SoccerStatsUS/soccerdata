@@ -22,6 +22,19 @@ l = [
         'location': 'Charlotte, NC',
         },
 
+    {
+        'name': 'Richardson Stadium',
+        'location': 'Davidson, NC',
+        'opened': 1923,
+        'capacity': 6000,
+        },
+
+    {
+        'name': 'A.J. Simeon Stadium',
+        'location': 'High Point, NC',
+        'capacity': 10000,
+        },
+
 
     {
         'name': 'Bank of America Stadium',

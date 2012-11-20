@@ -7,8 +7,18 @@ import datetime
 l = [
 
     {
-        'name': 'Munsu Stadium',
+        'name': 'Ulsan Munsu Football Stadium',
         'location': 'Ulsan, South Korea',
+        'opened': datetime.datetime(2001, 6, 30),
+
+        'capacity': 44102
+        },
+
+    {
+        'name': 'Tokyo National Olympic Stadium',
+        'location': 'Tokyo, Japan',
+        'opened': 1958,
+        'capacity': 48000,
         },
 
     {
@@ -72,6 +82,13 @@ l = [
         'cost': 85100000,
         },
 
+
+    {
+        'name': 'Kunming Tuodong Sports Center',
+        'location': 'Kunming, China',
+        'capacity': 40000,
+        },
+
     {
         'name': 'King Fahd Stadium',
         'location': 'Riyadh, Saudi Arabia',
@@ -97,8 +114,17 @@ l = [
         },
 
     {
-        'name': 'Daejeon Stadium',
+        'name': 'Daejeon World Cup Stadium',
         'location': 'Jeonju, South Korea',
+        'opened': datetime.datetime(2001, 9, 13),
+        'capacity': 40535,
+        },
+
+    {
+        'name': 'Busan Gudeok Stadium',
+        'location': 'Busan, South Korea',
+        'opened': 1928,
+        'capacity': 24363,
         },
     {
         'name': 'Daegu World Cup Stadium', 
@@ -108,7 +134,7 @@ l = [
         'architect': 'Kang Cheol-Hee',
         },
     {
-        'name': 'Suwon Stadium',
+        'name': 'Suwon World Cup Stadium',
         'location': 'Suwon, South Korea',
         'opened': datetime.datetime(2001, 5, 13),
         'capacity': 43959,

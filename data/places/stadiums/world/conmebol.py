@@ -36,6 +36,13 @@ l = [
         'location': 'Paysandú, Uruguay',
         },
 
+    {
+        'name': 'Estadio El Campín',
+        'location': 'Bogotá, Colombia',
+        'opened': datetime.datetime(1938, 8, 14),
+        'capacity': 40343,
+        },
+
 
     {
         'name': 'Estadio Centenario',
@@ -129,6 +136,13 @@ l = [
     {
         'name': 'Estadío Centenario',
         'location': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Estadio Nacional de Peru',
+        'location': 'Lima, Peru',
+        'opened': datetime.datetime(1952, 10, 27),
+        'capacity': 40000,
         },
 
     {

@@ -26,6 +26,30 @@ l = [
         },
 
     {
+        'name': 'Soccer City',
+        'location': 'Johannesburg, South Africa',
+        'opened': 1989,
+        'capacity': 94736,
+        'cost': 440000000,
+        },
+
+    {
+        'name': 'Nelson Mandela Bay Stadium',
+        'location': 'Port Elizabeth, South Africa',
+        'opened': datetime.datetime(2009, 6, 6),
+        'capacity': 42486,
+        'cost': 270000000,
+        },
+
+    {
+        'name': 'Cape Town Stadium',
+        'location': 'Cape Town, South Africa',
+        'opened': datetime.datetime(2009, 12, 14),
+        'capacity': 55000,
+        'cost': 600000000,
+        },
+
+    {
         'name': 'Royal Bafokeng Stadium', 
         'location': 'Phokeng, South Africa',
         'address': 'R565 (Sun City Road)',
@@ -34,14 +58,36 @@ l = [
         },
 
     {
-        'name': 'Loftus Versfeld',
+        'name': 'Loftus Versfeld Stadium',
         'location': 'Pretoria, South Africa',
         'opened': 1923,
         'capacity': 51762,
         },
 
     {
-        'name': 'Ellis Park',
+        'name': 'Moses Mabhida Stadium',
+        'location': 'Durban, South Africa',
+        'opened': datetime.datetime(2009, 11, 28),
+        'capacity': 62760,
+        },
+
+    {
+        'name': 'Mbombela Stadium',
+        'location': 'Nelspruit, South Africa',
+        'opened': 2009,
+        'capacity': 40929,
+        },
+
+    {
+        'name': 'Peter Mokoba Stadium',
+        'location': 'Polokwane, South Africa',
+        'opened': 2010,
+        'capacity': 41733,
+        'cost': 150000000,
+        },
+
+    {
+        'name': 'Ellis Park Stadium',
         'location': 'Johannesburg, South Africa',
         'address': '47 N. Park Lane, Doornfontein',
         'opened': 1928,

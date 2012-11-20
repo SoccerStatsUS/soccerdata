@@ -31,7 +31,7 @@ l = [
 
 
     {
-        'name': 'Willow Memorial Park Stadium', 
+        'name': 'New Britain Veterans Stadium',
         'location': 'New Britain, CT',
         },
     

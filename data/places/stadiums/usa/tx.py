@@ -12,6 +12,13 @@ l = [
         },
 
     {
+        'name': 'Herman Clark Stadium',
+        'location': 'Fort Worth, TX',
+        'opened': 1970,
+        'capacity': 12000,
+        },
+
+    {
         'name': 'TAMIU Soccer Complex',
         'address': '5201 University Boulevard',
         'location': 'Laredo, TX',

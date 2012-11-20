@@ -21,6 +21,14 @@ l = [
         },
 
     {
+        'name': 'Frankenstadion',
+        'location': 'Nuremberg, Germany',
+        'opened': 1928,
+        'capacity': 48548,
+
+        },
+
+    {
         'name': 'Stade du Fort Carré',
         'location': 'Antibes, France',
         'capacity': 7000,
@@ -214,6 +222,41 @@ l = [
         'capacity': 12600,
         },
 
+    {
+        'name': 'Tynecastle Stadium',
+        'location': 'Edinburgh, Scotland',
+        'opened': datetime.datetime(1886, 4, 10),
+        'capacity': 17420,
+        },
+
+    {
+        'name': 'Ibrox Stadium',
+        'location': 'Glasgow, Scotland',
+        'opened': datetime.datetime(1899, 12, 30),
+        'capacity': 51082,
+        },
+
+    {
+        'name': 'Trent Bridge',
+        'location': 'Nottinghamshire, England',
+        'opened': 1838,
+        'capacity': 17500,
+        },
+
+    {
+        'name': 'The Oval',
+        'location': 'London, England',
+        'opened': 1845,
+        'capacity': 23500,
+        },
+
+    {
+        'name': 'Invicta Ground',
+        'location': 'London, England',
+        'opened': 1890,
+        'capacity': 12000,
+        },
+
 
     {
         'name': 'Koning Willem II Stadion',
@@ -308,6 +351,28 @@ l = [
         'capacity': 36540,
         },
 
+    {
+        'name': 'Kuban Stadium',
+        'location': 'Krasnodar, Russia',
+        'opened': datetime.datetime(1961, 5, 14),
+        'capacity': 31654,
+        },
+    {
+        'name': 'Stadion Maksimir',
+        'location': 'Zagreb, Croatia',
+        'opened': datetime.datetime(1912, 5, 5),
+        'capacity': 38079,
+        },
+
+    {
+        'name': 'Estadio Nuevo José Zorrilla',
+        'location': 'Valladolid, Spain',
+        'address': 'Avenida del Mundial 82',
+        'opened': datetime.datetime(1982, 2, 20),
+        'capacity': 26512,
+        },
+
+
 
     {
         'name': 'EasyCredit-Stadion', 
@@ -320,7 +385,6 @@ l = [
 
     {
         'name': 'Veltins-Arena', 
-
         'location': 'Gelsenkirchen, Germany',
         'opened': 2001,
         'cost': 191000000,
@@ -332,6 +396,27 @@ l = [
     {
         'name': 'Ullevaal Stadium', 
         'location': 'Oslo, Norway',
+        },
+
+    {
+        'name': 'Bislett Stadion',
+        'location': 'Oslo, Norway',
+        'opened': 1922,
+        'closed': 2004,
+        },
+
+    {
+        'name': 'Estádio do Restelo',
+        'location': 'Lisbon, Portugal',
+        'opened': datetime.datetime(1956, 9, 23),
+        'capacity': 25000,
+        },
+
+    {
+        'name': 'Estádio do Bonfim',
+        'location': 'Setúbal, Portugal',
+        'opened': datetime.datetime(1962, 9, 16),
+        'capacity': 18694,
         },
     
 
@@ -617,6 +702,13 @@ l = [
         'location': 'Lugano, Switzerland',
         'opened': 1951,
         'capacity': 15900,
+        },
+
+    {
+        'name': 'Stadion Allmend',
+        'location': 'Lucerne, Switzerland',
+        'opened': 1934,
+        'capacity': 13000,
         },
 
     {
