@@ -1,6 +1,6 @@
 Competition: Copa America
 Season: 1975
-
+BlockSource: http://www.rsssf.com/tables/75safull.html
 
 Group: Group 1
 
@@ -45,7 +45,8 @@ ARG - BRA 0:1 (0:1)
 (50,000) Carlos Robles CHI 
 ARG: Gatti - Rebottaro, Pavoni, D.Killer, M.Killer - Ardiles (57 Asad), Gallego,Zanabria - Bóveda, Luque, Kempes 
 BRA: Raul - Nelinho, Luiz Pereira, Amaral, Getúlio - Vanderlei, Danival, Roberto Batata -Palhinha, Campos, Romeu (Reinaldo) 
-0:1 Danival 45 (Nelinho missed a penalty)
+0:1 Danival 45 
+*(Nelinho missed a penalty)
 
 
 Group: Group 2
@@ -163,7 +164,8 @@ URU - COL 1:0 (1:0)
 (70,000) Rafael Hormazábal CHI 
 URU: Corbo - Peruena (86 Pereira), Chagas, González, Acosta - Mier Segovia, Forlán,Carrasco - Morena, Silva, Lorenzo (63 Revetria) 
 COL: Zape - Segovia, Zárate (Soto), Escobar, Bolaño - Umaña, Retat, Calero - Ortiz (Caicedo), Díaz, Castro
-1:0 Morena 17 p (77 Morena missed a penalty; 80 Zape saved a penalty from Morena)
+1:0 Morena 17 p 
+*(77 Morena missed a penalty; 80 Zape saved a penalty from Morena)
 sent off: Morena (80)
 
 04.10.75 Lima, Alianza Lima 
@@ -195,4 +197,5 @@ PER - COL 1:0 (0:0)
 (30,000) Ramón Barreto URU 
 PER: Sartor - Soria, Meléndez, Chumpitaz, Díaz - Quesada, Ojeda, Rojas (Ramírez) -Cubillas, Sotil, Oblitas 
 COL: Zape - Segovia, Zárate, Escobar, Bolaño - Umaña (Retat), Calero, Ortiz - Arboleda,Díaz (Castro), Campaz 
-1:0 Sotil 25 (66 Zape saved a penalty from Cubillas)
+1:0 Sotil 25 
+*(66 Zape saved a penalty from Cubillas)
