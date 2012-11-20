@@ -44,12 +44,16 @@ class GeneralProcessor(object):
         self.score_type = "standard"
         self.century = None # Manage dates like 3/23/10
 
+        self.date = None
         self.date_style = 'month first'
 
         self.games = []
         self.goals = []
         self.misconduct = []
         self.appearances = []
+        
+
+        self.rosters = []
 
 
     def process_line(self, line):
@@ -84,6 +88,17 @@ class GeneralProcessor(object):
         if line.startswith("Replay"):
             return
 
+        if line.startswith("Date:"):
+            d = line.split('Date:')[1].strip()
+            if d:
+                month, day, year = [int(e) for e in d.split('/')]
+                self.date = datetime.datetime(year, month, day)
+            else:
+                self.date = None
+
+            return
+
+
 
         if line.startswith("Date-style"):
             self.date_style = line.split("Date-style:")[1].strip()
@@ -115,7 +130,10 @@ class GeneralProcessor(object):
 
         # Set the round.
         if line.startswith("Roster"):
+            text = line.split("Roster:")[1].strip()
+            self.process_roster(text)
             return
+
 
 
         if line.lower().startswith("substitutes not used:"):
@@ -234,6 +252,13 @@ class GeneralProcessor(object):
             except ValueError:
                 pass
 
+
+            if fields[0].startswith('?'):
+                try:
+                    return self.process_game_fields(fields)
+                except:
+                    pass
+
         # Goals is the final fallback.
         try:
             team1_goals, team2_goals = line.split(";")
@@ -245,6 +270,41 @@ class GeneralProcessor(object):
         
     def process_misconduct(self, line):
         pass
+
+
+    def process_roster(self, line):
+
+        def process_players(s):
+            l = []
+            fields = s.split(',')
+            for f in fields:
+                player = f.split('(')[0]
+                l.append({
+                        'competition': self.competition,
+                        'season': self.season,
+                        'team': team,
+                        'name': player,
+                        })
+
+            return l
+            
+
+        line = line.strip()
+        if line.endswith('.'):
+            line = line[:-1]
+
+        fields = line.split(";")
+        if len(fields) == 2:
+            start = end = None
+            team, players = fields
+
+        elif len(fields) == 4:
+            team, start, end, players = fields
+
+        else:
+            import pdb; pdb.set_trace()
+
+        self.rosters.append(process_players(players))
 
 
     def process_game_fields(self, fields):
@@ -263,7 +323,8 @@ class GeneralProcessor(object):
 
 
         if fields[0].strip() == '':
-            d = None
+            # This should usually just be None. Make sure to not accidentally set dates.
+            d = self.date
 
         elif '?' in fields[0]:
             _, _, year = fields[0].split('/')
@@ -315,7 +376,6 @@ class GeneralProcessor(object):
         if fields[2] == ' L-4':
             pass
             # import pdb; pdb.set_trace()
-
 
         result_unknown = False
 
@@ -461,7 +521,12 @@ class GeneralProcessor(object):
     def process_lineup(self, line):
 
         def process_appearance(s, team, order):
-            # Currently just skipping the item if there were subs.
+
+            capts = ['(c)', '(capt)', '(capt.)', '(Capt.)', '(Capt)', '(cap)']
+            for e in capts:
+                s = s.replace(e, '')
+
+            #s = s.replace('(c)', '').replace('(capt)', '').replace('(capt.)', '').replace('(capt.)', '')
             # Off should be "end", then normalized later.
 
             # Will implement captains later.
@@ -488,8 +553,10 @@ class GeneralProcessor(object):
                 'order': order,
                 }
 
-            if '(' not in s:
 
+            # It should be possible to merge these into one.
+            # It might even be possible to just remove the first half of the if clause.
+            if '(' not in s:
                 name = process_name(s)
 
                 e = {
@@ -510,66 +577,28 @@ class GeneralProcessor(object):
 
                 starter = process_name(starter)                
 
-                """
-                if len(sub_items) == 1:
-                    m = re.match("(.*)( \d+)", sub_items[0])
+                l = [{ 'name': starter, 'on': 0 }]
+                    
+                for item in sub_items:
+                    m = re.match("(.*)( \d+)", item)
                     if m:
                         sub, minute = m.groups()
                         minute = int(minute)
                         sub = process_name(sub)
                     else:
-                        print "No minute sub for %s" % s
+                        print "No minute for sub %s" % s
                         minute = None
                         sub = process_name(sub_items[0])
-                    return [{
-                            'name': starter,
-                            'on': 0,
-                            'off': minute,
-                            'team': team,
-                            'competition': self.competition,
-                            'date': self.current_game['date'],
-                            'season': self.season,
 
-                            },
-                            {
-                            'name': sub,
-                            'on': minute,
-                            'off': 90,
-                            'team': team,
-                            'competition': self.competition,
-                            'date': self.current_game['date'],
-                            'season': self.season,
-                            }]
-                """
-                #if len(sub_items) >= 2:
-                if True:
-                    l = [{ 'name': starter, 'on': 0 }]
-                    
-                    for item in sub_items:
-                        m = re.match("(.*)( \d+)", item)
-                        if m:
-                            sub, minute = m.groups()
-                            minute = int(minute)
-                            sub = process_name(sub)
-                        else:
-                            print "No minute for sub %s" % s
-                            minute = None
-                            sub = process_name(sub_items[0])
+                    l[-1]['off'] = minute
+                    l.append({'name': sub, 'on': minute})
 
-                        l[-1]['off'] = minute
-                        l.append({'name': sub, 'on': minute})
+                l[-1]['off'] = 90
+                for e in l:
+                    e.update(base)
 
-                    l[-1]['off'] = 90
-                    for e in l:
-                        e.update(base)
+                return l
 
-                    return l
-
-                    #print "Handling multiple sub_items %s" % len(sub_items)
-                    #print sub_items
-
-
-                return []
 
 
 
@@ -664,7 +693,7 @@ def process_lines(lines):
     for line in lines:
         gp.process_line(line)
 
-    return (gp.games, gp.goals, gp.misconduct, gp.appearances)
+    return (gp.games, gp.goals, gp.misconduct, gp.appearances, gp.rosters)
         
 
 def process_games_file(fn):
