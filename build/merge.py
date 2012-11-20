@@ -1,11 +1,9 @@
-from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
-
 from soccerdata.data.alias import get_team, get_name
-
+from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 from soccerdata.settings import SOURCES
 
 from collections import defaultdict
-
+import datetime
 import random
 
 
@@ -41,6 +39,8 @@ def first_merge():
     merge_bios()
 
     merge_teams()
+
+    merge_all_rosters()
         
 
 
@@ -115,6 +115,7 @@ def merge_goals():
         
         # normalize things.
         d['team'] = get_team(d['team'])
+
 
         if d['goal']:
             d['goal'] = get_name(d['goal'].strip())
@@ -195,6 +196,44 @@ def merge_all_games():
     insert_rows(soccer_db.games, games)
 
 
+
+def merge_all_rosters():
+
+    roster_coll_names = ['%s_rosters' % coll for coll in SOURCES]
+    roster_lists = [soccer_db[k].find() for k in roster_coll_names]
+
+    rosters = merge_rosters(roster_lists)
+    soccer_db.rosters.drop()
+    insert_rows(soccer_db.rosters, rosters)
+
+
+
+def merge_rosters(roster_lists):
+
+    def update_roster(d):
+        # Need to consider how rosters interact with seasons, start/end dates.
+        # Currently going to just ignore start/end dates for all rosters.
+
+
+        if '_id' in d:
+            d.pop('_id')
+
+        key = (d['team'], d['season'], d['name'])
+
+        if key not in roster_dict:
+            roster_dict[key] = d
+
+        
+    roster_dict = {}
+
+    for roster_list in roster_lists:
+        for e in roster_list:
+            update_roster(e)
+
+    return roster_dict.values()
+
+
+
 def merge_games(games_lists):
     """
     Merge games to prevent overlaps, then
@@ -206,7 +245,7 @@ def merge_games(games_lists):
         if '_id' in d:
             d.pop("_id")
         
-        # normalize things.
+        # normalize team order.
         d['team1'] = get_team(d['team1'])
         d['team2'] = get_team(d['team2'])
 
@@ -221,7 +260,6 @@ def merge_games(games_lists):
         # Add the game if we don't have a match.
         if key not in game_dict:
             game_dict[key] = d
-
 
         # If there is already a game, update empty fields.
         else:

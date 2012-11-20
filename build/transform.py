@@ -20,6 +20,9 @@ def generate_prerosters():
 
 
 def generate_all_time_rosters():
+    """
+    Generate all-time rosters based on stats and lineups.
+    """
     team_players = defaultdict(set)
     
     for source in SOURCES:
@@ -30,7 +33,6 @@ def generate_all_time_rosters():
     for e in soccer_db['%s_lineups' % source].find():
         team_players[e['team']].add(e['name'])
         
-
     l = []
 
     for team, names in sorted(team_players.items()):
@@ -41,60 +43,68 @@ def generate_all_time_rosters():
                     'start': None,
                     'end': None,
                     })
-                   
-        
-    
+
     return l
-        
 
 
 
-def make_player_name_guesser():
+def get_name_from_fragment(fragment, candidates):
     # Need to figure out how to deal with situations like Willie Reid, W. Reid, Reid
     # It's obvious what should happen here. W. Reid gets turned into Willie Reid, then Reid gets turned into Willie Reid
     # But less obvious how to do it.
+
+    if fragment is None:
+        return fragment
+
+    try:
+        c2 = [e for e in candidates if e.endswith(fragment) and e != fragment]
+    except:
+        import pdb; pdb.set_trace()
+
+    if len(c2) == 1:
+        #print "Converting %s to % s" % (fragment, c2[0])
+        return c2[0]
+
+    elif len(c2) > 1:
+        #print "Cannot decide between %s for %s" % (str(c2), fragment)
+        return fragment
+
+    else:
+        return fragment
+        
+
+def make_player_name_guesser():
     
     d = defaultdict(set)
     for e in soccer_db.rosters.find({'end': None, 'start': None}):
         d[e['team']].add(e['name'])
 
-    def get_name(fragment, team):
+    def getter(name, team):
+        candidates = d[team]              
+        return get_name_from_fragment(name, candidates)
 
-        if fragment is None:
-            return fragment
-
-        candidates = d[team]
-
-        try:
-            c2 = [e for e in candidates if e.endswith(fragment) and e != fragment]
-        except:
-            import pdb; pdb.set_trace()
-
-        if len(c2) == 1:
-            #print "Converting %s to % s" % (fragment, c2[0])
-            return c2[0]
-
-
-        elif len(c2) > 1:
-            #print "Cannot decide between %s for %s" % (str(c2), fragment)
-            return fragment
-
-        else:
-            return fragment
-              
-
-        # This will not work - is always True.
-        #if fragment in candidates: 
-        #    return fragment
-
-    return get_name
+    return getter
 
 
 
+def make_roster_guesser(db):
+    d = defaultdict(set)
+    for e in db.find():
+        key = (e['team'], e['competition'], e['season'])
+        d[key].add(e['name'])
 
+    def getter(name, team, competition, season):
+        key = (team, competition, season)
+        candidates = d[key]
+        return get_name_from_fragment(name, candidates)
 
+    return getter
+
+        
 def sanitize_lineups():
-    from settings import SOURCES
+    """
+    Some sort of sanity check. Probably shouldn't be here anyway.
+    """
 
     l = []
 
@@ -170,6 +180,9 @@ def transform_names_for_competition(coll_group, competition, string_format):
 
 
 def transform_player_names():
+    """
+    Generate full names from rosters, player stats.
+    """
 
     full_name_guesser = make_player_name_guesser()
 
@@ -197,6 +210,37 @@ def transform_player_names():
         insert_rows(coll, l)
 
 
+
+def transform_names_from_rosters():
+    for source in SOURCES:
+        rdb = soccer_db['%s_rosters' % source]
+        if rdb.count():
+
+            rg = make_roster_guesser(rdb)
+
+            l = []
+            coll = soccer_db["%s_lineups" % source]
+            for e in coll.find():
+                e['name'] = rg(e['name'], e['team'], e['competition'], e['season'])
+                l.append(e)
+
+            coll.drop()
+            insert_rows(coll, l)
+
+
+            g = []
+            coll = soccer_db["%s_goals" % source]
+            for e in coll.find():
+                e['goal'] = rg(e['goal'], e['team'], e['competition'], e['season'])
+                g.append(e)
+
+            coll.drop()
+            insert_rows(coll, g)
+
+            
+            
+            
+
 def transform():
     transform_names_for_competition('fifa', 'FIFA U-17 World Cup', '%s U-17')
     transform_names_for_competition('fifa', 'FIFA U-20 World Cup', '%s U-20')
@@ -205,5 +249,5 @@ def transform():
     generate_prerosters()
 
     # Comment this out if worried about over-assigning full names.
-    transform_player_names()
-
+    #transform_player_names(),
+    transform_names_from_rosters()

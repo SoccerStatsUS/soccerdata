@@ -5,7 +5,7 @@ from soccerdata.data.alias import get_team, get_name, get_competition, get_place
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row, soccer_db
 
 
-def make_stadium_getter():
+def make_location_normalizer():
     """
     Detect stadium and split off from place name
     Split off a stadium from a place name, if possible.
@@ -30,6 +30,10 @@ def make_stadium_getter():
         stadium_map[name] = stadium
     
     def getter(s):
+
+        #if s == 'Estadio Ricardo Saprissa, San Jose, Costa Rica':
+        #    import pdb; pdb.set_trace()
+
 
         # No commas in stadium names
         # Take something like Home Depot Center, Carson, CA -> 
@@ -63,7 +67,8 @@ def make_stadium_getter():
         
     return getter
 
-stadium_getter = make_stadium_getter()
+location_normalizer = make_location_normalizer()
+
 
 
 def calculate_lineup_result(d):
@@ -138,7 +143,8 @@ def normalize_game(e):
         if e['location']:
             e['location'] = get_place(e['location'])
             # Get stadium data if possible.
-            e['stadium'], e['location'] = stadium_getter(e['location'])
+
+            e['stadium'], e['location'] = location_normalizer(e['location'])
 
     if e.get('home_team'):
         e['home_team'] = get_team(e['home_team'])
@@ -261,7 +267,7 @@ def normalize_stat(e):
             except:
                 print "Failed integer coercion on %s" % e
                 import pdb; pdb.set_trace()
-                e[k] = None
+                e[k] = 0
 
     for k in 'goals', 'assists':
         if e.get(k) == '':
@@ -295,6 +301,13 @@ def normalize_lineup(e):
 
 def normalize_standing(e):
     e['competition'] = get_competition(e['competition'])
+    e['team'] = get_team(e['team'])
+    return e
+
+
+def normalize_roster(e):
+    e['competition'] = get_competition(e['competition'])
+    e['name'] = get_name(e['name'])
     e['team'] = get_team(e['team'])
     return e
 
@@ -350,9 +363,12 @@ def normalize():
     normalize_single_coll(soccer_db.stadiums, normalize_stadium)
     normalize_single_coll(soccer_db.bios, normalize_bio)
 
+    # Not normalizing fouls, rosters...
+    # Bios only as a group.
     normalize_multiple_colls('games', normalize_game)
     normalize_multiple_colls('goals', normalize_goal)
+    normalize_multiple_colls('lineups', normalize_lineup)
     normalize_multiple_colls('stats', normalize_stat)
     normalize_multiple_colls('standings', normalize_standing)
-    normalize_multiple_colls('lineups', normalize_lineup)
+    normalize_multiple_colls('rosters', normalize_roster)
     normalize_multiple_colls('awards', normalize_award)
