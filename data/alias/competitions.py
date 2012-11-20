@@ -1,6 +1,16 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+
 aliases = {}
 
 full_alias = {
+    'UNCAF Cup': 'Copa Centroamericana',
+    'UNCAF Nations Cup': 'Copa Centroamericana',
+
+    #'Copa America': 'Copa América',
+
+
     'United Soccer League': 'United Soccer League (1984-1985)',
 
     'Western Soccer Alliance': 'Western Soccer League',

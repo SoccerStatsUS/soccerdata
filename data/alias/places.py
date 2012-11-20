@@ -15,6 +15,17 @@ def get_place(s):
 
 
 places = {
+    
+    'FIFA World Cup Stadium, Gelsenkirchen': 'Veltins-Arena', 
+    'Estadío Tropical, Havana, Cuba': 'Estadio Pedro Marrero',
+    'Tropical Stadium, Havana, Cuba': 'Estadio Pedro Marrero',
+    'Estadío Olimpico, Mexico City': 'Estadio Olímpico Universitario',
+    'Estadío Olimpica, Ciudad de México': 'Estadio Olímpico Universitario',
+    'Baseball Stadium, Baltimore': 'Memorial Stadium Baltimore',
+    'Estadío Universitario, Monterrey': 'Estadío Universitario de Monterrey',
+    'Estadío Nacional, Tegucigalpa': 'Estadio Tiburcio Carías Andino',
+    'Veteran\'s Stadium, New Britain, CT': 'New Britain Veterans Stadium',
+    'Memorial Stadium, Seattle': 'Seattle High School Memorial Stadium',
     'Edinburg Field': 'Edinburg Stadium',
     'Empire Field Stadium': 'Empire Field',
     'JC Handly Park': 'JC Handley Park',

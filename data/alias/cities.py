@@ -20,6 +20,7 @@ cities = {
     'Rome': 'Rome, Italy',
     'Lyons, France': 'Lyon, France',
     'Glasgow': 'Glasgow, Scotland',
+    'Belfast': 'Belfast, Northern Ireland',
 
     'Montreal, QUE': 'Montreal',
     'Montreal, Que': 'Montreal',

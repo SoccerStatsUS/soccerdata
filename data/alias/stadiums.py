@@ -24,6 +24,43 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'easyCredit-Stadion': 'Frankenstadion',
+    'Munsu Stadium': 'Ulsan Munsu Football Stadium',
+    'Suwon Stadium': 'Suwon World Cup Stadium',
+    'Daejeon Stadium': 'Daejeon World Cup Stadium',
+    'Munsu Football Stadium': 'Ulsan Munsu Football Stadium',
+    'Ellis Park': 'Ellis Park Stadium',
+    'Loftus Versfeld': 'Loftus Versfeld Stadium',
+    'Queens Park Oval': 'Queen\'s Park Oval',
+    'Estadio Nacional (Lima)': 'Estadio Nacional de Peru',
+    'Estadío Francisco Morazán': 'Estadio Francisco Morazán',
+    'Estadio El Campin': 'Estadio El Campín',
+    'Restelo Stadium': 'Estádio do Restelo',
+    'B.C. Place': 'BC Place',
+    'Tegucigalpa Estadío Nacional': 'Estadio Tiburcio Carías Andino',
+    'Maksimir Stadion': 'Stadion Maksimir',
+    'Estadio Zorilla': 'Estadio Nuevo José Zorrilla',
+    'Tokyo National Stadium': 'Tokyo National Olympic Stadium',
+    'Tynecastle Park': 'Tynecastle Stadium',
+    'Ibrox Park': 'Ibrox Stadium',
+    'Trent Bridge Ground': 'Trent Bridge',
+    'Kennington Oval': 'The Oval',
+
+    'Bislet Stadium': 'Bislett Stadion',
+    'Fulton County Stadium': 'Atlanta-Fulton County Stadium',
+    'Seattle Memorial Stadium': 'Seattle High School Memorial Stadium',
+    'Allmend Stadium': 'Stadion Allmend',
+    'Soccer and Sports Center': 'Kuntz Stadium',
+    'Estadio Cuscatlán': 'Estadío Cuscatlán',
+    'Estadio Cuauhtémoc': 'Estadío Cuauhtémoc',
+    'Nep Stadium': 'Nepstadion',
+    'Willow Memorial Park Stadium': 'New Britain Veterans Stadium',
+    'Willowbrook Memorial Park': 'New Britain Veterans Stadium',
+    'Estadio Jalisco': 'Estadío Jalisco',
+    'Tuo Dong Stadium': 'Kunming Tuodong Sports Center',
+
+    
+    'Estadio Alejandro Morera Soto': 'Estadío Alejandro Morera Soto',
     'Tony Glavin Complex': 'Tony Glavin Soccer Complex',
     'Ultimate Soccer Arena': 'Ultimate Soccer Arenas',
     'Texas A&M Intl Univ Soccer Complex': 'TAMIU Soccer Complex',
@@ -40,7 +77,11 @@ stadiums = {
     'RSL Training Field': 'America First Field',
     #'Kino Veterans Memorial Stadium': 'Kino Veterans Memorial Stadium',
     'Kino Sports Complex': 'Kino Veterans Memorial Stadium',
+
     'Estadio Nacional Mateo Flores': 'Estadio Mateo Flores',
+    'Estadio Mateo Flores': 'Estadío Mateo Flores',
+    'A.J. Siemon Stadium': 'A.J. Simeon Stadium',
+
     'Estadio Andres Quintana Roo': 'Estadio Quintana Roo',
     'Estadio Agustin Muquita Sanchez': 'Estadio Agustín Sánchez',
     'Estadio Agustin Sanchez': 'Estadio Agustín Sánchez',
@@ -61,7 +102,7 @@ stadiums = {
     'Silverbacks Stadium': 'Atlanta Silverbacks Park',
     'Cal State Fullerton Titan Stadium': 'Titan Stadium',
     'Fullerton Stadium': 'Titan Stadium',
-    'Estadío Sylvio Cator': 'Stade Sylvio Cator',
+
     'Sherbeck Field': 'Hal Sherbeck Field',
     'Legion Sports Complex': 'Legion Stadium',
     'Krenzler Stadium': 'Krenzler Field',
@@ -189,9 +230,11 @@ stadiums = {
 
     'Stade Gerland': 'Stade de Gerland',
     'Oakland-Alameda County Coliseum': 'Oakland Coliseum',
-    'Estadio Sylvio Cator': 'Stade Sylvio Cator',
-    'Estadío Sylvio Cator': 'Stade Sylvio Cator',
-    'Estadío Silvio Cator': 'Stade Sylvio Cator',
+
+    u'Estadío Sylvio Cator': 'Stade Sylvio Cator',
+    u'Estadío Silvio Cator': 'Stade Sylvio Cator',
+    u'Estadio Sylvio Cator': 'Stade Sylvio Cator',
+
     'Estadío Tropical': 'Estadio Pedro Marrero',
     
     'Sun Bowl (UTEP)': 'Sun Bowl Stadium',
@@ -201,9 +244,10 @@ stadiums = {
 
 
 
-    
-    'Estadío Mateo Flores': 'Estadio Mateo Flores',
+
     'Estadio Ricardo Saprisa': 'Estadío Ricardo Saprissa', 
+    'Estadio Ricardo Saprissa': 'Estadío Ricardo Saprissa', 
+    'Estadio Ricardo Saprissa Aymá': 'Estadío Ricardo Saprissa',
     'Azteca Stadium': 'Estadio Azteca',
     'Orange Bowl': 'Miami Orange Bowl',
     'The Polo Grounds': 'Polo Grounds',
@@ -233,7 +277,7 @@ stadiums = {
     'Estadio Bella Vista': 'Estadio Bellavista',
 
 
-    'Estadío Ricardo Saprissa': 'Estadio Ricardo Saprissa Aymá',
+
     'Freulinghausen Ave Grounds': 'Frelinghuysen Grounds',
     'Nuevo Estadio Corona': 'Estadio TSM Corona',
     'Big Arch Stadium': 'Busch Memorial Stadium',

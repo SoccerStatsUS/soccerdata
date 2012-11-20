@@ -40,8 +40,16 @@ def convert_country_code(code):
 
 # Need to add slugs for Cote d'Ivoire.    
 
+slugs = {
+    'cote-divoire-ivory-coast': 'Côte d\'Ivoire',
+}
+
 
 world = {
+
+    'Royal Arsenal': 'Arsenal',
+    'Newton Heath': 'Manchester United',
+    
 
     # Uncategorized.
     #03 Lunenburg (Germany)
@@ -818,18 +826,26 @@ world = {
     # Guatemala
     'Aurora': 'Aurora F.C.',
     'Coban - Guatemala': 'Coban',
+    'Coban': 'Cobán Imperial',
     'Comunicaciones': 'C.S.D. Comunicaciones',
     'Comunciaciones': 'C.S.D. Comunicaciones',
     'Communicaciones': 'C.S.D. Comunicaciones',
     'C.S.D. Comunicaciones': 'CSD Comunicaciones',
     'Comunicaciones - Guatemala': 'CSD Comunicaciones',
     'CSD Comunicaciones-- Guatemala': 'CSD Comunicaciones',
+    'Carcha': 'Deportivo Carchá',
+    'Dep. Carchá': 'Deportivo Carchá',
+    'Escuintla': 'Deportivo Escuintla',
+    'Jalapa': 'CD Jalapa',
     'Galcasa': 'CSD Galcasa',
     'Municipal': 'CSD Municipal',
     'CSD Municipal -- Guatemala': 'CSD Municipal',
     'Suchitepequez - Guatemala': 'Suchitepequez',
+    'Suchitepequez': 'C.D. Suchitepéquez',
+    'USAC': 'Universidad de San Carlos',
     'Xelaju': 'Xelajú MC',
     'Xelaju MC': 'Xelajú MC',
+    'Zacapa': 'Deportivo Zacapa',
 
     # Honduras
     'Marathon': 'Marathón',
@@ -1284,6 +1300,7 @@ usa = {
     'Sacramento Spirits': 'Sacramento Gold',
     'Maccabee AC': 'Maccabi Los Angeles',
     'LA Blues': 'Los Angeles Blues',
+    'Armenian SC (South CA)': 'Los Angeles Armenians',
 
     # Virginia
     'Aegean Hawks': 'Aegean Hawks FC',
@@ -1298,6 +1315,7 @@ usa = {
     # Washington
     'Everett BigFoot': 'Seattle BigFoot',
     'Everett Bigfoot': 'Seattle BigFoot',
+    'Mitre Eagles (WA)': 'Seattle Mitre Eagles',
 
     # Michigan
     'Holley C.': 'Holley Carburetor F.C.',
@@ -1694,6 +1712,8 @@ usa = {
 
     'Chicago Croatian': 'Chicago Croatian SC',
 
+    'Hansa (IL)': 'Chicago Hansa',
+
     # Pennsylvania
 
     'Heidelberg SC': 'Heidelberg S.C.',
@@ -2017,7 +2037,14 @@ teams.update(college)
 
 international = {
 
+    'Haití': 'Haiti',
     'United Sates U-23': 'United States U-23',
+    'Trinidad & Tobago': 'Trinidad and Tobago',
+    'Perú': 'Peru',
+    'España': 'Spain',
+    'Irak': 'Iraq',
+    'Southafrica': 'South Africa',
+    'Nueva Zealandia': 'New Zealand',
 
     'Côte d\'Ivoire (Ivory Coast)': 'Côte d\'Ivoire',
     'Ivory Coast': 'Côte d\'Ivoire',
@@ -2026,6 +2053,7 @@ international = {
     'Korea DPR': 'North Korea',
     'Korea Republic': 'South Korea',
     'USA': 'United States',
+    'Dutch Antilles': 'Netherlands Antilles',
     'South Korea National Team': 'South Korea',
     'Australian National Team': 'Australia',
     'Chinese National Team': 'China',
