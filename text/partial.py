@@ -10,6 +10,9 @@ def process_asl2_partial():
 def process_apsl_partial():
     return process_partial_stats('/home/chris/www/soccerdata/data/stats/partial_apsl.csv')
 
+def process_csl_partial():
+    return process_partial_stats('/home/chris/www/soccerdata/data/stats/partial.csl.csv')
+
 
 def process_partial_stats(p):
     l = []

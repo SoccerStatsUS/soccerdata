@@ -13,6 +13,10 @@ if not os.path.exists(DIR):
     DIR = "/Users/chrisedgemon/www/soccerdata/data/stats"
 
 
+def process_mls_2012_stats():
+    return process_stats("mls.stats.2012.csv", "Major League Soccer", source='mlssoccer.com')
+
+
 def process_mls_coach_stats():
     return process_stats("mls_coaches.csv", "Major League Soccer", source='mlssoccer.com')
 

@@ -60,10 +60,18 @@ def process_awards(d):
     return l
 
                 
-            
+
 def process_nasl_awards():
     from soccerdata.data.lists.nasl import d
     return process_awards(d)
+
+def process_csl_awards():
+    from soccerdata.data.lists.canada import csl
+    return process_awards(csl)
+
+def process_canada_awards():
+    from soccerdata.data.lists.canada import championship
+    return process_awards(championship)
 
 
 def process_ny_awards():
@@ -74,6 +82,10 @@ def process_ny_awards():
 def process_concacaf_awards():
     from soccerdata.data.lists.concacaf import champions_cup, champions_league, superliga
     return process_awards(champions_cup) + process_awards(champions_league) + process_awards(superliga)
+
+def process_conmebol_awards():
+    from soccerdata.data.lists.conmebol import copa_america
+    return process_awards(copa_america)
 
 
 def process_usa_awards():
@@ -167,6 +179,10 @@ def process_esl_awards():
 
 def process_ncaa_awards():
     from soccerdata.data.lists.ncaa import d
+    return process_awards(d)
+
+def process_isl_awards():
+    from soccerdata.data.lists.isl import d
     return process_awards(d)
 
 
