@@ -453,6 +453,20 @@ class MLSScoresProcessor(object):
         return self.games
 
 
+class GameDetailScraper(object):
+
+
+    def __init__(self, url):
+        self.game_data = None
+        self.goals = []
+        self.lineups = []
+
+
+    def process_game_data(url):
+        return
+        
+
+
 def process_scores(data):
     """Helper"""
     return MLSScoresProcessor().process_rows(data)

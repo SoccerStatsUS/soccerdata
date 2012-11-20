@@ -87,13 +87,11 @@ def process_excel_standings(filename):
     l = [process_line(line) for line in lines]
     return [e for e in l if e]
 
-    
 
-
-def process_file(p):
+def process_standings_file(p, delimiter):
     full_path = os.path.join('/home/chris/www/soccerdata/data/standings', p)
     f = open(full_path)
-    sp = StandingProcessor()
+    sp = StandingProcessor(delimiter)
     for line in f:
         sp.process_line(line)
 
@@ -111,7 +109,8 @@ class StandingProcessor(object):
 
 
 
-    def __init__(self):
+    def __init__(self, delimiter):
+        self.delimiter = delimiter
         self.competition = None
         self.season = None
         self.group = ''
@@ -128,15 +127,12 @@ class StandingProcessor(object):
         
         line = line.strip()
 
-
         if not line:
             return
 
         # Represents a comment.
         if line.startswith("*"):
             return
-
-
 
         # Set the competition.
         if line.startswith("Competition:"):
@@ -159,8 +155,6 @@ class StandingProcessor(object):
             #self.group = ''
             return
 
-
-
         # Set the round.
         if line.startswith("Group"):
             self.group = line.split("Group:")[1].strip()
@@ -173,12 +167,21 @@ class StandingProcessor(object):
 
     def process_standings(self, line):
 
-        fields = line.split("  ")
+        fields = line.split(self.delimiter)
         fields = [e.strip() for e in fields if e.strip()]
-        if len(fields) != 9:
-            import pdb; pdb.set_trace()
 
-        position, team, games, wins, ties, losses, points, goals_for, goals_against = fields
+
+        # This is not attractive or good.
+        # A good idea to standardize standings.
+        if len(fields) == 9:
+            position, team, games, wins, ties, losses, points, goals_for, goals_against = fields
+        elif len(fields) == 8:
+            team, games, wins, ties, losses, goals_for, goals_against, points = fields
+        else:
+            import pdb; pdb.set_trace()
+    
+
+
         shootout_wins = shootout_losses = None
         self.standings.append({
                 'competition': self.competition,
@@ -202,4 +205,4 @@ class StandingProcessor(object):
 
 
 if __name__ == "__main__":
-    print process_file("/home/chris/www/soccerdata/data/standings/domestic/country/mexico")
+    print process_file("/home/chris/www/soccerdata/data/standings/domestic/country/guatemala", ';')

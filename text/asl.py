@@ -122,8 +122,8 @@ team_map = {
 
 competition_map = {
     'ASL': 'American Soccer League (1921-1933)',
-    'ASA Cup': 'American Cup',
-    'AFA Cup': 'American Cup',
+    'ASA Cup': 'AFA Cup',
+    'AFA Cup': 'AFA Cup',
     }
 
 LEWIS_CUP_YEARS = set([

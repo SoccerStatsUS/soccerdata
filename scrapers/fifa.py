@@ -45,6 +45,7 @@ team_abbrevs = {
     'LIV': 'Liverpool FC',
     'SYD': 'Sydney FC',
     'AHL': 'Al Ahly',
+    'ALN': 'Al Nassr',
     'ITT': 'Al Ittihad',
     'CAS': 'Raja Casablanca',
     'SRS': 'Deportivo Saprissa',

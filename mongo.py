@@ -19,7 +19,11 @@ def insert_row(collection, row):
 
 def insert_rows(collection, rows):
     for row in rows:
-        insert_row(collection, row)
+        try:
+            insert_row(collection, row)
+        except:
+            "Bad unicode"
+            print row
     
 def get_rows(collection):
     return [row for row in collection.find()]
