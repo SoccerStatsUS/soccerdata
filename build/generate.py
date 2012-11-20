@@ -19,12 +19,14 @@ def generate():
     #generate_standings(soccer_db.games, soccer_db.standings)
     #generate_lineup_stats(soccer_db.mls_reserve_lineups.find())
 
-    generate_all_stats()
+    generate_db_stats()
 
 
 
 def generate2():
     generate_all_standings()
+
+    generate_competition_stats()
     
 
 def make_state_code_dict():
@@ -38,7 +40,26 @@ def make_state_code_dict():
 
 
 
-def generate_all_stats():
+def generate_competition_stats():
+
+    def competition_generate(competition):
+        x = generate_stats(soccer_db.goals.find({'competition': competition}), soccer_db.lineups.find({"competition": competition}))
+        generic_load(soccer_db.stats, lambda: x.values())
+
+    competition_generate('FIFA World Cup')
+    competition_generate('Copa America')
+    competition_generate('MLS Cup Playoffs')
+    competition_generate('MLS Reserve League')
+    competition_generate('Eastern Soccer League (1928-1929)')
+    competition_generate('AFA Cup')
+    competition_generate('U.S. Open Cup')
+    competition_generate('International Soccer League')
+    competition_generate('Canadian Championship')
+    
+
+                        
+
+def generate_db_stats():
     
     def standard_generate(source):
         x = generate_stats(soccer_db['%s_goals' % source].find(), soccer_db['%s_lineups' % source].find())
@@ -47,16 +68,17 @@ def generate_all_stats():
     # This presents the problem of generating stats for games that have not been merged yet.
     # It seems like a much better idea to filter by competition and generate stats after merge.
 
+        """
     standard_generate('nafbl')
-    standard_generate('mls_reserve')
+    #standard_generate('mls_reserve')
     standard_generate('chris')
 
     standard_generate('american_cup')
     standard_generate('lewis_cup')
     standard_generate('open_cup')
 
-    standard_generate('usa')
-    standard_generate('world_cup')
+    #standard_generate('usa')
+    #standard_generate('world_cup')
     standard_generate('usl_leach')
     standard_generate('concacaf')
 
@@ -76,9 +98,10 @@ def generate_all_stats():
 
     standard_generate('esl')
     standard_generate('asl2')
+    """
 
-    x = generate_stats(soccer_db['mls_soccernet_goals'].find({'season': '2012'}), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
-    generic_load(soccer_db['mls_soccernet_stats'], lambda: x.values())
+    #x = generate_stats(soccer_db['mls_soccernet_goals'].find({'season': '2012'}), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
+    #generic_load(soccer_db['mls_soccernet_stats'], lambda: x.values())
 
 
 
@@ -316,7 +339,6 @@ def generate_stats(goals=[], lineups=[]):
             if not name:
                 "Name not in tuple %s" % unicode(t)
                 return
-
 
             sd[t] = {
                 'name': name,
