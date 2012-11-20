@@ -7,6 +7,7 @@ STAT_TABLES = [
     'stats', 
     'standings', 
     'bios',
+    'rosters',
     'awards',
     ]
 
@@ -43,8 +44,11 @@ SOURCES = [
     #'world_cup',
     'concacaf',
     'mexico',
+    'canada',
     'usa',
     'fifa',
+    'copa_america',
+    'guatemala',
         ]
 
 # Skipping these.
