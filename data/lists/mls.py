@@ -105,6 +105,7 @@ d = {
         (2009, 'Omar Gonzalez'),
         (2010, 'Andy Najar'),
         (2011, 'C.J. Sapong'),
+        (2012, 'Austin Berry'),
         ],
 
     'Newcomer of the Year': [

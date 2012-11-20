@@ -63,3 +63,39 @@ superliga = {
 }
 
 
+
+gold_cup = {
+    'competition': 'Gold Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1991, 'United States'),
+        (1993, 'Mexico'),
+        (1996, 'Mexico'),
+        (1998, 'Mexico'),
+        (2000, 'Canada'),
+        (2002, 'United States'),
+        (2003, 'Mexico'),
+        (2005, 'United States'),
+        (2007, 'United States'),
+        (2009, 'Mexico'),
+        (2011, 'Mexico'),
+        ],
+
+    'Champion': [
+        (1991, 'Tony Meola'),
+        (1993, 'Ramon Ramirez'),
+        (1998, 'Kasey Keller'),
+        (2000, 'Craig Forrest'),
+        (2002, 'Brian McBride'),
+        (2003, 'Jesus Arellano'),
+        (2005, 'Luis Tejada'),
+        (2007, 'Julian De Guzman'),
+        (2009, 'Giovani dos Santos'),
+        (2011, 'Giovani dos Santos'),
+
+
+        ]
+}
+
+
