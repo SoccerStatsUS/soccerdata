@@ -70,10 +70,14 @@ OLD_STYLE_COMPETITIONS = {
     'FIFA Club World Cup': (107, [3692, 4735, 248388]),
     'FIFA U-20 World Cup': (104, [191057, 191081, 191109, 191120, 191144, 191161, 191209, 191232, 191252, 191263, 191276, 191313, 4295, 6537, 9102]),
     'FIFA U-17 World Cup': (102, [191425, 191448, 191533, 191544, 191563, 191591, 191606, 3611, 4695, 6946, 9095]),
+    'Olympic Games': (512, [196952, 196996, 197008, 197020, 197029, 197041, 197049, 197058, 197067, 197075, 197085, 197099, 197110, 197121, 197131, 3330, 3351, 3385, 197142, 3945, 8229,   ]),
     }
 
 NEW_STYLE_COMPETITIONS = [
     ('FIFA Club World Cup', 'clubworldcup', ['japan2007', 'japan2008', 'uae2009', 'uae2010']),
+    ('Olympic Games', 'mensolympic', ['helsinki1952', 'melbourne1956', 'rome1960', 'tokyo1964', 'mexicocity1968', 
+                                      'munich1972', 'montreal1976', 'moscow1980', 'losangeles1984', 'seoul1988', 
+                                      'barcelona1992', 'atlanta1996', 'sydney2000', 'athens2004', 'beijing2008']),
 ]
 
 
@@ -81,10 +85,14 @@ NEW_STYLE_COMPETITIONS = [
 
 
 def scrape_everything(competition):
+
+
     tournament_id, edition_ids = OLD_STYLE_COMPETITIONS[competition]
     games = scrape_tournament_games(competition, tournament_id, edition_ids)
     goals = scrape_tournament_goals(competition, tournament_id, edition_ids)
     lineups = scrape_tournament_lineups(competition, tournament_id, edition_ids)
+
+
     return (games, goals, lineups)
 
 
@@ -264,25 +272,38 @@ def scrape_fifa_game(url, competition):
     #game_head = contents.findAll("thead")
     #head_teas = game_head.findAll("td", text=True
 
-    game_info = contents.findAll("tbody")[0]
+    game_header = contents.find("thead")
+    game_info = contents.find("tbody")
     
-    game_tds = game_info.findAll("td", text=True)
+    game_ths = [get_contents(e) for e in game_header.findAll("td")]
+    game_tds = [get_contents(e) for e in game_info.findAll("td")]
 
-    if len(game_tds) == 5:
-        match, date_string, time, location, attendance = game_tds
-
-        # In the FIFA Club World Championship 2000 (and likely others, time and location are swapped.
-        # Account for this.
-        # Could also map tame_tds to game_ths
-        if ':' in location:
-            time, location = location, time
+    game_dict = dict(zip(game_ths, game_tds))
 
 
+    match = date_string = time = location = attendance = None
 
-    elif len(game_tds) == 4:
-        date_string, time, location, attendance = game_tds
-    else:
-        raise
+    #import pdb; pdb.set_trace()
+
+    if 'Match' in game_dict:
+        match = game_dict['Match']
+
+    if 'Date' in game_dict:
+        date_string = game_dict['Date']
+
+    #'Time' 
+
+    if 'Attendance' in game_dict:
+        if game_dict['Attendance']:
+            attendance = int(game_dict['Attendance'])
+
+    if 'Venue / Stadium' in game_dict:
+        location = game_dict['Venue / Stadium']
+
+    for e in 'Match', 'Date', 'Attendance', 'Venue / Stadium', 'Time': 
+        if e in game_dict:
+            game_dict.pop(e)
+    print game_dict.keys()
 
     # Standardize city and stadium fields
     try:
@@ -307,7 +328,7 @@ def scrape_fifa_game(url, competition):
         'season': unicode(date.year),
         "date": date,
         "location": unicode(nlocation),
-        "attendance": unicode(attendance),
+        "attendance": attendance,
         "sources": [url],
         }
 
@@ -346,7 +367,10 @@ def scrape_fifa_goals(url, competition):
         try:
             name, team, minute = goal_re.search(s.strip()).groups()
         except:
-            import pdb; pdb.set_trace()
+            #import pdb; pdb.set_trace()
+            print s
+            continue
+        
         team = team.strip()
         team = team_abbrevs.get(team, team)
 

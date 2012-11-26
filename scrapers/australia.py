@@ -29,6 +29,29 @@ season_ids = [
 ]
 
 
+
+def scrape_aleague_game(url):
+    pass
+
+def scrape_aleague_goals(url):
+    url = 'http://www.footballaustralia.com.au/aleague/matchcentre/matchstats/Melbourne-Victory-FC-v-Melbourne-Heart-FC-Hyundai-A-League/2601'
+    soup = scrape_soup(url)
+    import pdb; pdb.set_trace()
+    goals = []
+
+    home_stats = soup.findAll("div", {'class': 'hometeamplayerstat'})
+    away_stats = soup.findAll("div", {'class': 'awayteamplayerstat'})
+
+    pass
+
+def scrape_aleague_lineups(url):
+    url = 'http://www.footballaustralia.com.au/aleague/matchcentre/matchstats/Melbourne-Victory-FC-v-Melbourne-Heart-FC-Hyundai-A-League/2601'
+    soup = scrape_soup(url)
+    import pdb; pdb.set_trace()
+    lineups = []
+
+
+
 def get_season_id(year):
     """
     Get the a-league.com id for a given year.
@@ -154,3 +177,6 @@ def get_season_urls(year):
     url = 'http://www.a-league.com.au/default.aspx?s=aleague_fixtures&seasonid=%s' % get_season_id(year)
     return get_next_urls(url)
 
+
+if __name__ == '__main__':
+    scrape_aleague_lineups('')
