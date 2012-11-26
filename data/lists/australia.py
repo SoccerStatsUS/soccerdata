@@ -2,49 +2,79 @@
 # -*- coding: utf-8 -*-
 
 
-# MVP
-johnny_warren_medal = [
-    ('2005–06', 'Bobby Despotovski'),
-    ('2006–07', 'Nick Carle'),
-    ('2007–08', 'Joel Griffiths'),
-    ('2008–09', 'Shane Smeltz'),
-    ('2009–10', 'Carlos Hernández'),
-    ('2010–11', 'Marcos Flores'),
-]
+d = {
+    'competition': 'Hyundai A-League',
+    'team_data': ['Champion'],
+
+
+    'Champion': [
+        ('2005-2006', 'Sydney FC'),
+        ('2006-2007', 'Melbourne Victory'),
+        ('2007-2008', 'Newcastle United Jets'),
+        ('2008-2009', 'Melbourne Victory'),
+        ('2009-2010', 'Sydney FC'),
+        ('2010-2011', 'Brisbane Roar'),
+        ('2011-2012', 'Brisbane Roar'),
+        ],
+
+    'MVP': [
+        ('2005-2006', 'Bobby Despotovski'),
+        ('2006-2007', 'Nick Carle'),
+        ('2007-2008', 'Joel Griffiths'),
+        ('2008-2009', 'Shane Smeltz'),
+        ('2009-2010', 'Carlos Hernández'),
+        ('2010-2011', 'Marcos Flores'),
+    ],
+
+    'Joe Marston Medal': [
+        ('2005-2006', 'Dwight Yorke'),
+        ('2006-2007', 'Archie Thompson'),
+        ('2007-2008', 'Andrew Durante'),
+        ('2008-2009', 'Tom Pondeljak'),
+        ('2009-2010', 'Simon Colosimo'),
+        ('2010-2011', 'Matthew Ryan'),
+        ('2011-2012', 'Jacob Burns'),
+        ],
+
+    'NAB Young Footballer': [
+        ('2005-2006', 'Nick Ward'),
+        ('2006-2007', 'Adrian Leijer'),
+        ('2007-2008', 'Bruce Djite'),
+        ('2008-2009', 'Scott Jamieson'),
+        ('2009-2010', 'Tommy Oar'),
+        ('2010-2011', 'Matthew Ryan'),
+        ('2011-2012', 'Matthew Ryan'),
+    ],
+
+
+    'Goalkeeper of the Year': [
+        ('2005-2006', 'Clint Bolton'),
+        ('2006-2007', 'Michael Theoklitos'),
+        ('2007-2008', 'Michael Theoklitos'),
+        ('2008-2009', 'Eugene Galeković'),
+        ('2009-2010', 'Eugene Galeković'),
+        ('2010-2011', 'Michael Theoklitos'),
+        ('2011-2012', 'Matthew Ryan'),
+        ],
+
+
+    'Manager of the Year': [
+    ('2005-2006', 'Lawrie McKinna'),
+    ('2006-2007', 'Ernie Merrick'),
+    ('2007-2008', 'Gary van Egmond'),
+    ('2008-2009', 'Aurelio Vidmar'),
+    ('2009-2010', 'Ernie Merrick'),
+    ('2010-2011', 'Ange Postecoglou'),
+    ('2011-2012', 'Graham Arnold'),
+    ],
+    
+
+}
+
+#johnny_warren_medal = MVP
 
 # Final MVP
-joe_marston_medal = [
-    ('2006', 'Dwight Yorke'),
-    ('2007', 'Archie Thompson'),
-    ('2008', 'Andrew Durante'),
-    ('2009', 'Tom Pondeljak'),
-    ('2010', 'Simon Colosimo'),
-    ('2011', 'Matthew Ryan'),
-]
 
-nab_young_fooballer = [
-    ('2005–06',  'Nick Ward'),
-    ('2006–07',  'Adrian Leijer'),
-    ('2007–08',  'Bruce Djite'),
-    ('2008–09',  'Scott Jamieson'),
-    ('2009–10',  'Tommy Oar'),
-    ('2010–11',  'Matthew Ryan'),
-]
 
-goalkeeper_of_the_year = [
-    ('2005–06',  'Clint Bolton'),
-    ('2006–07',  'Michael Theoklitos'),
-    ('2007–08',  'Michael Theoklitos'),
-    ('2008–09',  'Eugene Galeković'),
-    ('2009–10',  'Eugene Galeković'),
-    ('2010–11',  'Michael Theoklitos'),
-]
 
-manager_of_the_year = [
-    ('2005–06', 'Lawrie McKinna'),
-    ('2006–07', 'Ernie Merrick'),
-    ('2007–08', 'Gary van Egmond'),
-    ('2008–09', 'Aurelio Vidmar'),
-    ('2009–10', 'Ernie Merrick'),
-    ('2010–11', 'Ange Postecoglou'),
-]
+
