@@ -8,6 +8,7 @@ from soccerdata.text import bios
 from soccerdata.text import drafts
 from soccerdata.text import lineups
 from soccerdata.text import partial
+from soccerdata.text import rosters
 from soccerdata.text import salaries
 from soccerdata.text import standings
 from soccerdata.text import stats
@@ -81,88 +82,41 @@ def load_drafts():
 
 
 def load_games():
-    load_early_cups()
-    load_isl()
-    load_canada()
-    return
 
-    load_modern_cups()
-    return
-
-    load_apsl()
-    load_esl()    
-    return
-
-    return
-
-    load_early_friendlies()
     load_mls()
-    load_copa_america()
-
-    load_fifa()
-
-    load_usmnt()
-
-
+    load_australia()
     load_nasl()
-    load_asl()
-    return
-
-    #load_mexico()
-
-    #load_guatemala()
-
-
-
-
-
-
-    load_ncaa()
-
-    load_nafbl()
-
-
-    load_modern_friendlies()
-    load_pdl()
-
 
     load_usl()
+    load_apsl()
 
+    load_olympics()
+    load_fifa()
+    load_early_cups()
+    load_modern_cups()
 
+    load_isl()
+    load_canada()
 
+    load_esl()    
+    load_early_friendlies()
+    load_copa_america()
+    load_usmnt()
+    load_asl()
+    #load_mexico()
+    #load_guatemala()
+    load_ncaa()
+    load_nafbl()
+    load_modern_friendlies()
+    load_pdl()
     load_leach()    
-
-
-
-
     load_misl()
     load_city()
-
-
     load_ny()
-
-
-
     load_asl2()
     load_concacaf()
-
-
-
-
     load_melvin()
 
-
-    return
-
-
-    return
-
-
-    return
-
-
-
-    #load_early()
 
 
 
@@ -339,6 +293,18 @@ def load_places():
 
 
 
+def load_olympics():
+
+    #generic_load(soccer_db.olympics_rosters, lambda: rosters.process_rosters('international/olympics'))
+
+    olympics = [1900, 1904, 1908, 1912, 1920, 1924, 1928, 1936, 
+                1948, 1952, 1956, 1960, 1964, 1968, 1972,
+                2008, 2012]
+    olympics = [2012]
+    #l = [1976, 1980, 1984, 1988, 1992, 1996]
+
+    for e in olympics:
+        load_games_standard('olympics', 'international/world/olympics/%s' % e)
 
 
 def load_isl():
@@ -589,7 +555,7 @@ def load_copa_america():
     generic_load(soccer_db['%s_fouls' % coll], lambda: fouls, delete=False)
     generic_load(soccer_db['%s_goals' % coll], lambda: goals, delete=False)
 
-    generic_load(soccer_db.copa_america_rosters, copaamerica.process_rosters)
+    generic_load(soccer_db.copa_america_rosters, lambda: rosters.process_rosters('international/copa_america'))
 
     generic_load(soccer_db.copa_america_awards, awards.process_conmebol_awards)
 
@@ -699,12 +665,10 @@ def load_misl():
     Load stats and games from the APSL and WSA.
     """
 
-    load_excel_standings('indoor', 'indoor/all')
-    load_excel_standings('indoor', 'indoor/misl')
+    load_excel_standings('misl', 'indoor/all')
+    load_excel_standings('misl', 'indoor/misl')
     print "Loading NASL stats.\n"
-    generic_load(soccer_db.indoor_stats, stats.process_misl_stats)
-
-
+    generic_load(soccer_db.misl_stats, stats.process_misl_stats)
 
 
 def load_leach():
@@ -712,13 +676,6 @@ def load_leach():
     generic_load(soccer_db.usl_leach_goals, leach.process_goals)
     generic_load(soccer_db.usl_leach_games, leach.process_games)
     generic_load(soccer_db.usl_leach_lineups, leach.process_lineups)
-
-
-
-
-
-
-
 
 def load_mls_lineups():
     # Load scaryice lineup data.
@@ -817,6 +774,10 @@ def load_soccernet_league(name, code):
     
 
 
+def load_australia():
+    load_games_standard('australia', 'domestic/country/australia')
+    generic_load(soccer_db.australia_awards, awards.process_australia_awards)
+
 def load_mexico():
     load_games_standard('mexico', 'international/country/mexico/alltime')
     return
@@ -867,6 +828,9 @@ def load_ncaa():
 
 def load_fifa():
     from soccerdata.scrapers import fifa
+
+    load_fifa_competition('Olympic Games')
+    return
 
     load_games_standard('fifa', 'international/world/world_cup')
 

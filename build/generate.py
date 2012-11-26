@@ -55,6 +55,7 @@ def generate_competition_stats():
     competition_generate('U.S. Open Cup')
     competition_generate('International Soccer League')
     competition_generate('Canadian Championship')
+    competition_generate('Olympic Games')
     
 
                         

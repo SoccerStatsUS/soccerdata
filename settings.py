@@ -14,10 +14,10 @@ STAT_TABLES = [
 
 # Sources are listed in terms of reliability; Order affects priority when merging games.
 SOURCES = [
-    'small',
     'melvin',
     'tours',
     'state',
+    'olympics',
     'american_cup',
     'open_cup',
     'nafbl',
@@ -26,7 +26,7 @@ SOURCES = [
     'lewis_cup',
     'asl2',
     'isl',
-    'indoor',
+    #'indoor',
     'nasl',
     'apsl',
     'usl',
@@ -42,13 +42,14 @@ SOURCES = [
     'city',
     'ncaa',
     #'world_cup',
-    'concacaf',
-    'mexico',
-    'canada',
     'usa',
     'fifa',
     'copa_america',
+    'concacaf',
+    'mexico',
+    'canada',
     'guatemala',
+    'australia',
         ]
 
 # Skipping these.
