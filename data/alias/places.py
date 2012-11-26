@@ -15,7 +15,10 @@ def get_place(s):
 
 
 places = {
-    
+
+    'Stade Olympique, Colombes, Paris': 'Stade Olympique Colombes',
+    'Republican Stadium, Kiev': 'Kiev Olympic Stadium',
+    'Lenin Stadium, Moscow': 'Luzhniki Stadium',
     'FIFA World Cup Stadium, Gelsenkirchen': 'Veltins-Arena', 
     'Estadío Tropical, Havana, Cuba': 'Estadio Pedro Marrero',
     'Tropical Stadium, Havana, Cuba': 'Estadio Pedro Marrero',

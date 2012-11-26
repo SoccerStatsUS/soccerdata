@@ -320,6 +320,7 @@ world = {
 
     # Australia
     'Sydney FC - Australia': 'Sydney FC',
+    'Queensland Roar': 'Brisbane Roar',
 
 
     # Europe
@@ -2048,6 +2049,7 @@ international = {
 
     'Côte d\'Ivoire (Ivory Coast)': 'Côte d\'Ivoire',
     'Ivory Coast': 'Côte d\'Ivoire',
+    'German Democratic Republic': 'East Germany',
     'German DR': 'East Germany',
     'Germany FR': 'West Germany',
     'Korea DPR': 'North Korea',
@@ -2082,6 +2084,8 @@ international = {
     'El Salvador National team': 'El Salvador',
     'Bermuda NT': 'Bermuda',
     'Mexico U-21 National team': 'Mexico U-21',
+    'USSR': 'U.S.S.R.',
+    'Soviet Union': 'U.S.S.R',
     }
 teams.update(international)
 
