@@ -14,10 +14,51 @@ l = [
         'architect': 'HOK Sport',
         },
 
-    
+    {
+        'name': 'Stadio Flaminio',
+        'location': 'Rome, Italy',
+        'opened': 1959,
+        'capacity': 32000,
+        },
+
+    {
+        'name': 'Stadio San Paolo',
+        'location': 'Naples, Italy',
+        'opened': datetime.datetime(1959, 12, 6),
+        'capacity': 60240,
+        },
+
+    {
+        'name': 'Stadio Armando Picchi',
+        'location': 'Livorno, Italy',
+        'opened': 1935,
+        'capacity': 19238,
+        },
+
+    {
+        'name': 'Stadio Adriatico',
+        'location': 'Pescara, Italy',
+        'opened': 1955,
+        'capacity': 24400,
+        },
+
     {
         'name': 'Kazimierza Gorskiego Stadium', 
         'location': 'Plock, Poland',
+        },
+
+    {
+        'name': 'Stade Olympique Yves-du-Manoir',
+        'location': 'Colombes, France',
+        'opened': 1907,
+        'capacity': 14000,
+        },
+
+    {
+        'name': 'Töölön Pallokenttä',
+        'location': 'Helsinki, Finland',
+        'opened': 1915,
+        'capacity': 4000,
         },
 
     {
@@ -95,6 +136,12 @@ l = [
         'location': 'Lille, France',
         'opened': 1902,
         'capacity': 15000,
+        },
+
+    {
+        'name': 'Vélodrome de Vincennes',
+        'location': 'Paris, France',
+        'opened': 1894,
         },
 
     {
@@ -251,6 +298,11 @@ l = [
         },
 
     {
+        'name': 'Shepherds Bush Green',
+        'location': 'London, England',
+        },
+
+    {
         'name': 'Invicta Ground',
         'location': 'London, England',
         'opened': 1890,
@@ -344,11 +396,34 @@ l = [
         },
 
     {
-        'name': 'Dinamo Stadium', 
+        'name': 'Moscow Dinamo Stadium', 
         'location': 'Moscow, Russia',
         'opened': 1928,
         'closed': 2008,
         'capacity': 36540,
+        },
+
+    {
+        'name': 'Kiev Olympic Stadium',
+        'location': 'Kiev, Ukraine',
+        'opened': datetime.datetime(1923, 8, 12),
+        'closed': 2008,
+        'capacity': 70050,
+        },
+
+    {
+        'name': 'Luzhniki Stadium',
+        'location': 'Moscow, Russia',
+        'opened': datetime.datetime(1956, 7, 31),
+        'capacity': 78360,
+        },
+
+    {
+        'name': 'Kirov Stadium',
+        'location': 'St. Petersburg, Russia',
+        'opened': datetime.datetime(1950, 7, 30),
+        'closed': datetime.datetime(2006, 8, 17),
+        'capacity': 100000,
         },
 
     {
@@ -403,6 +478,13 @@ l = [
         'location': 'Oslo, Norway',
         'opened': 1922,
         'closed': 2004,
+        },
+
+    {
+        'name': 'Amsterdam Olympic Stadium',
+        'location': 'Amsterdam, Netherlands',
+        'opened': datetime.datetime(1928, 5, 17),
+        'capacity': 22288,
         },
 
     {
@@ -560,8 +642,8 @@ l = [
         },
 
     {
-        'name': 'Pershing Park',
-        'location': 'Paris, France',
+        'name': 'Stade Pershing',
+        'location': 'Vincennes, France',
         },
     {
         'name': 'Agrykola Stadium',
@@ -580,6 +662,13 @@ l = [
         'location': 'London, England',
         'opened': 1904,
         'capacity': 12763,
+        },
+
+    {
+        'name': 'Craven Cottage',
+        'location': 'London, England',
+        'opened': 1896,
+        'capacity': 25700,
         },
 
     {
@@ -628,6 +717,27 @@ l = [
         },
 
     {
+        'name': 'Estadio de Mestalla',
+        'location': 'Valencia, Spain',
+        'opened': datetime.datetime(1923, 5, 20),
+        'capacity': 55000,
+        },
+
+    {
+        'name': 'Estadi de la Nova Creu Alta',
+        'location': 'Sabadell, Spain',
+        'opened': datetime.datetime(1967, 8, 20),
+        'capacity': 12000,
+        },
+
+    {
+        'name': 'La Romareda',
+        'location': 'Zaragoza, Spain',
+        'opened': datetime.datetime(1957, 9, 8),
+        'capacity': 34596,
+        },
+
+    {
         'name': 'Wembley Stadium',
         'location': 'London, England',
         'opened': 1923,
@@ -647,11 +757,42 @@ l = [
         'denomination': 'British pounds',
         },
 
+
+
     {
         'name': 'Hillsborough Stadium',
         'location': 'Sheffield, England',
         'opened': datetime.datetime(1899, 9, 2),
         'capacity': 39732
+        },
+
+    {
+        'name': 'Arsenal Stadium',
+        'location': 'London, England',
+        'opened': datetime.datetime(1913, 9, 6),
+        'closed': datetime.datetime(2006, 5, 7),
+        'capacity': 38419,
+        },
+
+    {
+        'name': 'Selhurst Park',
+        'location': 'London, England',
+        'opened': 1924,
+        'capacity': 26309,
+        },
+
+    {
+        'name': 'White Hart Lane',
+        'location': 'London, England',
+        'opened': datetime.datetime(1899, 9, 4),
+        'capacity': 36230,
+        },
+
+    {
+        'name': 'Griffin Park',
+        'location': 'London, England',
+        'opened': 1904,
+        'capacity': 12763,
         },
 
     {

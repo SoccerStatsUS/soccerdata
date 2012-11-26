@@ -10,8 +10,35 @@ l = [
         'name': 'Ulsan Munsu Football Stadium',
         'location': 'Ulsan, South Korea',
         'opened': datetime.datetime(2001, 6, 30),
-
         'capacity': 44102
+        },
+
+    {
+        'name': 'Chichibunomiya Rugby Stadium',
+        'location': 'Tokyo, Japan',
+        'opened': 1947,
+        'capacity': 27188,
+        },
+
+    {
+        'name': 'Komazawa Olympic Park Stadium',
+        'location': 'Tokyo, Japan',
+        'opened': 1964,
+        'capacity': 20010,
+        },
+
+    {
+        'name': 'Nippatsu Mitsuzawa Stadium',
+        'location': 'Yokohama, Japan',
+        'opened': 1955,
+        'capacity': 15046
+        },
+
+    {
+        'name': 'Omiya Stadium',
+        'location': 'Saitama, Japan',
+        'opened': 1960,
+        'capacity': 15500,
         },
 
     {

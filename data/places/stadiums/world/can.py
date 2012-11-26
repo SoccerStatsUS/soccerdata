@@ -105,6 +105,13 @@ l = [
         },
 
     {
+        'name': 'Landsdowne Park',
+        'address': '1015 Bank Street',
+        'location': 'Ottawa, ON',
+        'capacity': 28826,
+        },
+
+    {
         'name': 'Maple Leaf Stadium',
         'address': 'Bathurst Street and Lake Shore Boulevard West',
         'location': 'Toronto, ON',
@@ -121,7 +128,7 @@ l = [
         },
 
     {
-        'name': 'Olympic Stadium',
+        'name': 'Montreal Olympic Stadium',
         'address': '4545 Pierre de Coubertin Avenue',
         'location': 'Montreal, Quebec',
         'opened': datetime.datetime(1973, 4, 28),
