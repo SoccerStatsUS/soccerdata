@@ -86,6 +86,7 @@ d = {
         (2009, 'Chad Marshall'),
         (2010, 'Jámison Olave'),
         (2011, 'Omar Gonzalez'),
+        (2012, 'Matt Besler'),
         ],
 
     'Rookie of the Year': [
@@ -164,6 +165,32 @@ d = {
         (2009, 'Logan Pause'),
         (2010, 'Michael Lahoud'),
         (2011, 'Zak Boggs'),
+        ],
+
+    'Referee of the Year': [
+        (1997, 'Esfandiar Baharmast'),
+        (1998, 'Paul Tamberino'),
+        (1999, 'Paul Tamberino'),
+        (2000, 'Paul Tamberino'),
+        (2001, 'Paul Tamberino'),
+        (2002, 'Kevin Terry'),
+        (2003, 'Brian Hall'),
+        (2004, 'Abiodun Okulaja'),
+        (2005, 'Brian Hall'),
+        (2006, 'Brian Hall'),
+        (2007, 'Brian Hall'),
+        (2008, 'Jair Marrufo'),
+        (2009, 'Alex Prus'),
+        (2010, 'Kevin Stott'),
+        (2011, 'Mark Geiger'),
+        (2012, 'Silviu Petrescu'),
+        ],
+
+    'Assistant Referee of the Year': [
+        (2008, 'Kermit Quisenberry'),
+        (2009, 'Gregory Barkey'),
+        (2010, 'Craig Lowry'),
+        (2011, 'Corey Rockwell'),
         ],
 
 
