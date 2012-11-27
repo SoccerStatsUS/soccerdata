@@ -67,6 +67,7 @@ d = {
         (2009, 'Bruce Arena'),
         (2010, 'Schellas Hyndman'),
         (2011, 'Bruce Arena'),
+        (2012, 'Frank Yallop'),
         ],
 
     'Defender of the Year': [
@@ -130,6 +131,7 @@ d = {
         (2009, 'Zach Thornton'),
         (2010, 'Bobby Convey'),
         (2011, 'David Beckham'),
+        (2012, 'Eddie Johnson'),
         ],
 
     'Fair Play Award': [
