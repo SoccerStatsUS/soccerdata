@@ -420,6 +420,21 @@ d = {
                 'Thierry Henry',
                 'Chris Wondolowski',
                 ]),
+        (2012, [
+                'Jimmy Nielsen',
+                'Victor Bernardez',
+                'Matt Besler',
+                'Aurelien Collin',
+                'Osvaldo Alonso',
+                'Landon Donovan',
+                'Chris Pontius',
+                'Graham Zusi',
+                'Thierry Henry',
+                'Robbie Keane',
+                'Chris Wondolwoski',
+
+                ]
+
         ]
 }
 
