@@ -180,6 +180,12 @@ class GeneralProcessor(object):
         if line.startswith("Red Card:"):
             return self.process_misconduct(line)
 
+        if line.startswith("Shootout Win"):
+            winner = line.split("Shootout Win:")[1].strip()
+            if winner not in (self.current_game['team1'], self.current_game['team2']):
+                import pdb; pdb.set_trace()
+            self.current_game['shootout_winner'] = winner
+
 
 
         # A terrible solution
@@ -500,12 +506,14 @@ class GeneralProcessor(object):
             'team2_score': team2_score,
             'team1_result': team1_result,
             'team2_result': team2_result,
-            'home_team': home_team,
-            'neutral': neutral,
-
             'result_unknown': result_unknown,
 
+            'home_team': home_team,
+            'shootout_winner': None,
+
             'location': location,
+            'neutral': neutral,
+
             'referee': referee,
             'linesmen': linesmen,
             'attendance': attendance,
