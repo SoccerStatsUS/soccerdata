@@ -15,6 +15,7 @@ def get_place(s):
 
 
 places = {
+    'Olympic Park, Melbourne, Australia': 'Olympic Park Stadium',
 
     'Stade Olympique, Colombes, Paris': 'Stade Olympique Colombes',
     'Republican Stadium, Kiev': 'Kiev Olympic Stadium',
