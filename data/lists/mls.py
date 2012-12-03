@@ -116,6 +116,7 @@ d = {
         (2009, 'Fredy Montero'),
         (2010, 'Álvaro Saborío'),
         (2011, 'Mauro Rosales'),
+        (2012, 'Federico Higuaín'),
         ],
 
     'Comeback Player of the Year': [
@@ -434,8 +435,7 @@ d = {
                 'Thierry Henry',
                 'Robbie Keane',
                 'Chris Wondolwoski',
-
-                ]
+                ]),
 
         ]
 }
