@@ -92,6 +92,12 @@ def process_australia_awards():
     return process_awards(d)
 
 
+
+def process_olympics_awards():
+    from soccerdata.data.lists.olympics import d
+    return process_awards(d)
+
+
 def process_conmebol_awards():
     from soccerdata.data.lists.conmebol import copa_america
     return process_awards(copa_america)
