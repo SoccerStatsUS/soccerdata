@@ -47,6 +47,11 @@ slugs = {
 
 world = {
 
+    'Hadjuk Split': 'Hajduk Split',
+    'Victoria State (Australia)': 'Victoria XI',
+    'Japanese League All-Stars': 'Japanese All-Stars',
+    
+
     'Royal Arsenal': 'Arsenal',
     'Newton Heath': 'Manchester United',
     
@@ -361,6 +366,7 @@ world = {
 
     # Belgium
     'Antwerp': 'Royal Antwerp F.C.',
+    'Royal Antwerp': 'Royal Antwerp F.C.',
 
     # Netherlands
     'Ajax - Netherlands': 'Ajax',
@@ -395,6 +401,7 @@ world = {
     'FC Salzburg': 'FC Red Bull Salzburg',
     
     # Switzerland
+    'Zurich': 'FC Zurich',
     'Grasshoppers': 'Grasshoppers Zurich',
     'Grasshoppers Zurich': 'Grasshopper Club Zürich',
     'Stade Laussane - Switzerland': 'Stade Laussane',
@@ -479,6 +486,13 @@ world = {
     'Norrkoping': 'IFK Norrköping',
     'Hammarby': 'Hammarby IF',
     'Malmo': 'Malmö FF',
+    'Malmö': 'Malmö FF',
+    'Lille': 'Lille OSC',
+    
+    'Sao Paulo': 'Sao Paulo FC',
+    'Oporto (Portugal)': 'Oporto',
+    
+
     'Helsingborg': 'Helsingborgs IF',
     'Helsingborgs': 'Helsingborgs IF',
     'Bodo/Glimt': 'FK Bodø/Glimt',
@@ -512,6 +526,7 @@ world = {
     'Stabaek -- Norway': 'Stabaek',
 
     # Germany
+    'Freiburger': 'SC Freiburg',
     '1860 Munchen -- Germany': '1860 Munchen',
     '1860 Munchen': 'TSV 1860 München',
     'TSC Muenchen 1860': 'TSV 1860 München',
@@ -569,6 +584,7 @@ world = {
     'Hearts': 'Hearts of Midlothian F.C.',
     'Hearts of Midlothian': 'Hearts of Midlothian F.C.',
     'Kilmarnock': 'Kilmarnock F.C.',
+    'Kilmarnock FC': 'Kilmarnock F.C.',
 
     # England
     'Aston Villa': 'Aston Villa F.C.',
@@ -760,6 +776,8 @@ world = {
     'Harbour View': 'Harbour View FC',
 
     # Haiti
+    'Victory Sportif (Haiti)': 'Victory Sportif Club',
+    'Victory Club (Haiti)': 'Victory Sportif Club',
     'Racing Club (Haiti)': 'Racing Club Haitien',
     'Racing (Haiti)': 'Racing Club Haitien',
     'Racing Club Haitien': 'R.C. Haïtien',
@@ -1266,6 +1284,9 @@ usa = {
 
     # Connecticut
     'Bridgeport City AF.C': 'Bridgeport City AFC',
+    'Danersk FC (Stamford)': 'Stamford Danersk FC',
+    'Danersk Athletic FC': 'Stamford Danersk FC',
+
 
     # Rhode Island
     'Providence Wanderers': 'Providence Free Wanderers', # Check this - probably wrong...
@@ -1388,6 +1409,9 @@ usa = {
 
 
     # New York City
+
+    #'New York Association': 'New York FBC',
+
     'St George FC': 'St. George F.C',
     'Critchley AA': 'Critchley\'s',
     'Crithleys': 'Critchley\'s',
@@ -1654,6 +1678,10 @@ usa = {
     'Erie A.A': 'Harrison Erie F.C.',
 
     # Illinois
+    'Pullman Professional FC': 'Pullman FC',
+    'Pullman Association FC': 'Pullman FC',
+
+
     'Yugoslav Americnan SC': 'Yugoslav American SC',
     'Slavia F.C.': 'Slavia FC',
     'Chicago Maccabi': 'Maccabee SC (Chicago)', #verify 11/22/1936 game vs. Tel Aviv Maccabi was Maccabee SC
@@ -1826,6 +1854,7 @@ usa = {
 
     'Minit Rubs (St. Louis)': 'Minit-Rubs',
     'Missouri Amateur AC': 'Missouri Amateur AA',
+    'Pants Store FC (St. Louis)': 'St. Louis Pants Store FC',
 
     'Marres': 'Marre\'s',
     'Marre': 'Marre\'s',
@@ -1889,7 +1918,7 @@ usa = {
     'Baltimore S.C.': 'Baltimore Americans',
     'Baltimore Rockets': 'Baltimore Pompei',
     'Baltimore St. Gerards': 'Baltimore Flyers',
-    'Baltimore Stars': 'Baltimore Bays',
+    #'Baltimore Stars': 'Baltimore Bays',
     'Baltimore SC': 'Baltimore S.C.',
     
     # Massachusetts
@@ -1944,6 +1973,8 @@ usa = {
     'Goodyear FC': 'Akron Goodyear FC',
     'Goodyear FC (Akron)': 'Akron Goodyear FC',
     'Akron FC': 'Akron Goodyear FC',
+
+    'Cleveland Hungarians': 'Cleveland American Hungarian FC',
 
     'Clan Mackenzie FC (Akron)': 'Clan MacKenzie FC (Akron)',
     'MacKenzie FC (Akron)': 'Clan Mackenzie FC (Akron)',
@@ -2040,6 +2071,7 @@ international = {
 
     'Haití': 'Haiti',
     'United Sates U-23': 'United States U-23',
+    'Bermuda Under-23': 'Bermuda U-23',
     'Trinidad & Tobago': 'Trinidad and Tobago',
     'Perú': 'Peru',
     'España': 'Spain',

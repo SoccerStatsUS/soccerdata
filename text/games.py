@@ -185,6 +185,7 @@ class GeneralProcessor(object):
             if winner not in (self.current_game['team1'], self.current_game['team2']):
                 import pdb; pdb.set_trace()
             self.current_game['shootout_winner'] = winner
+            return
 
 
 

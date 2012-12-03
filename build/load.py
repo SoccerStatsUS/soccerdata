@@ -82,18 +82,27 @@ def load_drafts():
 
 
 def load_games():
+    load_australia()    
+
+    load_early_cups()
+    load_modern_cups()
+
+
+    load_fifa()
+
+    load_asl()
+
+
 
     load_mls()
-    load_australia()
+
     load_nasl()
 
     load_usl()
     load_apsl()
 
     load_olympics()
-    load_fifa()
-    load_early_cups()
-    load_modern_cups()
+
 
     load_isl()
     load_canada()
@@ -102,7 +111,7 @@ def load_games():
     load_early_friendlies()
     load_copa_america()
     load_usmnt()
-    load_asl()
+
     #load_mexico()
     #load_guatemala()
     load_ncaa()
@@ -116,9 +125,6 @@ def load_games():
     load_asl2()
     load_concacaf()
     load_melvin()
-
-
-
 
 
 def load_excel_standings(coll, fn):
@@ -300,8 +306,9 @@ def load_olympics():
     olympics = [1900, 1904, 1908, 1912, 1920, 1924, 1928, 1936, 
                 1948, 1952, 1956, 1960, 1964, 1968, 1972,
                 2008, 2012]
-    olympics = [2012]
-    #l = [1976, 1980, 1984, 1988, 1992, 1996]
+    olympics = [2008, 2012]
+
+    generic_load(soccer_db.olympics_awards, awards.process_olympics_awards)
 
     for e in olympics:
         load_games_standard('olympics', 'international/world/olympics/%s' % e)
@@ -312,7 +319,7 @@ def load_isl():
     load_games_standard('isl', 'domestic/country/usa/leagues/isl')
     load_games_standard('isl', 'domestic/country/usa/leagues/isl2')
     load_excel_standings('isl', 'domestic/country/usa/isl')
-    generic_load(soccer_db.usa_awards, awards.process_isl_awards)
+    generic_load(soccer_db.isl_awards, awards.process_isl_awards)
 
 
 
@@ -575,7 +582,7 @@ def load_asl():
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
 
-    load_games_standard('esl', 'domestic/country/usa/leagues/asl')
+    load_games_standard('asl', 'domestic/country/usa/leagues/asl')
 
 
 def load_esl():    
@@ -828,16 +835,16 @@ def load_ncaa():
 
 def load_fifa():
     from soccerdata.scrapers import fifa
+    load_fifa_competition('FIFA U-17 World Cup')
 
     load_fifa_competition('Olympic Games')
-    return
 
     load_games_standard('fifa', 'international/world/world_cup')
 
     load_fifa_competition('FIFA Club World Cup')
     load_fifa_competition('FIFA Confederations Cup')
-    #load_fifa_competition('FIFA U-20 World Cup')
-    #load_fifa_competition('FIFA U-17 World Cup')
+    load_fifa_competition('FIFA U-20 World Cup')
+
 
     generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
     generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)

@@ -24,6 +24,7 @@ d = {
         ('2008-2009', 'Shane Smeltz'),
         ('2009-2010', 'Carlos Hernández'),
         ('2010-2011', 'Marcos Flores'),
+        ('2011-2012', 'Thomas Broich'),
     ],
 
     'Joe Marston Medal': [

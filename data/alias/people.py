@@ -160,6 +160,7 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+'Brain West': 'Brian West',
 'Lajos Ku': 'Lajos Kü',
 'Istvan Geczi': 'István Géczi',
 'Peter Vepi': 'Péter Vépi',
@@ -4672,7 +4673,7 @@ onames = {
     
 
     'Giuseppe (Joey) Barone': 'Giuseppe Barone',
-    'Jonathan (JJ) Jansons': 'Jonathan Jansons',
+
     'Matthew Arcangeu': 'Matthew Arcangeli',
     'Todd (James) Howard': 'Todd Howard',
     'Todd (TJ) Howard': 'Todd Howard',
@@ -4759,6 +4760,10 @@ onames = {
     'James Stransberry': 'James Stansberry',
     'Jon (JD) Gruenewald': 'Jon Gruenewald',
     'Jonathan (J.J.) Jackson': 'Jonathan Jackson',
+    'Jonathan (JJ) Jansons': 'Jonathan Jansons',
+    'Jonathan Joseph Augustin': 'Jonathan Joseph-Augustin',
+    'Terry Mcflynn': 'Terry McFlynn',
+    'Fabian Mccarthy': 'Fabian McCarthy',
     'Keith T. Savage': 'Keith Savage',
     'Kris A. Raad': 'Kristopher Raad',
     'Kyle A. Pascioni': 'Kyle Pascioni',

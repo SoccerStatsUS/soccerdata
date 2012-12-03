@@ -134,6 +134,8 @@ def normalize_game(e):
     e['team1'] = get_team(e['team1'])
     e['team2'] = get_team(e['team2'])
 
+    
+
     # Assign appropriate results based on score and result data.
     e['team1_result'], e['team2_result'] = calculate_game_results(e)
 
@@ -148,6 +150,13 @@ def normalize_game(e):
 
     if e.get('home_team'):
         e['home_team'] = get_team(e['home_team'])
+
+    if 'shootout_winner' not in e:
+        e['shootout_winner'] = None
+    else:
+        if e['shootout_winner']:
+            e['shootout_winner'] = get_team(e['shootout_winner'])
+
 
     if e.get('referee'):
         e['referee'] = get_name(e['referee'])

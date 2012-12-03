@@ -173,6 +173,21 @@ l = [
         },
 
     {
+        'name': 'Estadi de Sarrià',
+        'location': 'Barcelona, Spain',
+        'opened': datetime.datetime(1923, 2, 18),
+        'closed': datetime.datetime(1997, 9, 20),
+        'capacity': 44000,
+        },
+
+    {
+        'name': 'Estadio Benito Villamarín',
+        'location': 'Seville, Spain',
+        'opened': 1929,
+        'capacity': 52745,
+        },
+
+    {
         'name': 'Estadio Santiago Bernabéu',
         'location': 'Madrid, Spain',
         'opened': datetime.datetime(1944, 10, 27),
@@ -295,6 +310,55 @@ l = [
         'location': 'London, England',
         'opened': 1845,
         'capacity': 23500,
+        },
+
+    {
+        'name': 'Millennium Stadium',
+        'location': 'Cardiff, Wales',
+        'opened': datetime.datetime(1999, 6, 26),
+        'capacity': 74500,
+        'cost': 121000000,
+        'denomination': 'British pounds',
+        },
+
+    {
+        'name': 'Ricoh Arena',
+        'location': 'Coventry, England',
+        'opened': 2005,
+        'capacity': 32609,
+        'cost': 113000000,
+        'denomination': 'British pounds',
+        },
+
+    {
+        'name': 'St James\' Park',
+        'location': 'Newcastle, England',
+        'opened': 1892,
+        'capacity': 52387
+        },
+
+    {
+        'name': 'Kaftanzoglio Stadium',
+        'location': 'Thessaloniki, Greece',
+        'opened': datetime.datetime(1960, 10, 27),
+        'capacity': 27700,
+        },
+
+    {
+        'name': 'Karaiskakis Stadium',
+        'location': 'Athens, Greece',
+        'opened': 1896,
+        'capacity': 32115,
+        },
+
+    {
+        'name': 'Pankritio Stadium',
+        'location': 'Heraklion, Greece',
+        'opened': datetime.datetime(2004, 8, 11),
+        'capacity': 26240,
+        'cost': 50000000,
+        'denomination': 'Euros',
+        
         },
 
     {

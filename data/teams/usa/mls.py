@@ -7,6 +7,7 @@ l = [
 
     {
         'name': 'Miami Fusion',
+        'abbreviation': 'MF',
         'founded': 1997,
         'dissolved': 2001,
         'city': 'Miami, FL',

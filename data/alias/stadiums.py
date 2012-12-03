@@ -24,9 +24,16 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Karaiskaki': 'Karaiskakis Stadium',
+    'City of Coventry Stadium': 'Ricoh Arena',
+    'Latrobe City Stadium': 'LaTrobe City Stadium',
+    'WIN Jubilee Oval': 'Jubilee Oval',
+    'Jose Zorrilla': 'Estadio Nuevo José Zorrilla',
+    'Benito Villamarin': 'Estadio Benito Villamarín',
     'Patersons Stadium': 'Subiaco Oval',
     'Allianz Stadium': 'Sydney Football Stadium',
     'Hunter Stadium': 'Newcastle International Sports Centre',
+    'Ausgrid Stadium': 'Newcastle International Sports Centre',
     'AAMI Park': 'Melbourne Rectangular Stadium',
     'Bluetongue Stadium': 'Central Coast Stadium',
     'Skilled Park': 'Robina Stadium',
@@ -46,6 +53,8 @@ stadiums = {
     'Chichibu Stadium': 'Chichibunomiya Rugby Stadium',
     'Nova Creu Alta Stadium': 'Estadi de la Nova Creu Alta',
     'La Romereda Stadium': 'La Romareda',
+    'Luis Casanova': 'Estadio de Mestalla',
+    'Sarria': 'Estadi de Sarrià',
     'Luis Casanova Stadium': 'Estadio de Mestalla',
     'Pershing Park': 'Stade Pershing',
     'Nou Camp Stadium': 'Camp Nou',
@@ -91,6 +100,7 @@ stadiums = {
     'Willowbrook Memorial Park': 'New Britain Veterans Stadium',
     'Estadio Jalisco': 'Estadío Jalisco',
     'Tuo Dong Stadium': 'Kunming Tuodong Sports Center',
+    'New York Indiana Oval': 'New York Oval',
 
     
     'Estadio Alejandro Morera Soto': 'Estadío Alejandro Morera Soto',
@@ -267,6 +277,7 @@ stadiums = {
     u'Estadío Sylvio Cator': 'Stade Sylvio Cator',
     u'Estadío Silvio Cator': 'Stade Sylvio Cator',
     u'Estadio Sylvio Cator': 'Stade Sylvio Cator',
+    u'Sylvio Cator Stadium': 'Stade Sylvio Cator',
 
     'Estadío Tropical': 'Estadio Pedro Marrero',
     

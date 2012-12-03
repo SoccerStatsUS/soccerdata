@@ -47,6 +47,11 @@ def generate_competition_stats():
         generic_load(soccer_db.stats, lambda: x.values())
 
     competition_generate('FIFA World Cup')
+    competition_generate('FIFA Club World Cup')
+    competition_generate('FIFA Confederations Cup')
+
+
+    competition_generate('Olympic Games')
     competition_generate('Copa America')
     competition_generate('MLS Cup Playoffs')
     competition_generate('MLS Reserve League')
@@ -55,7 +60,11 @@ def generate_competition_stats():
     competition_generate('U.S. Open Cup')
     competition_generate('International Soccer League')
     competition_generate('Canadian Championship')
-    competition_generate('Olympic Games')
+
+    competition_generate('CONCACAF Champions League')
+    competition_generate('CONCACAF Champions\' Cup')
+    competition_generate('North American SuperLiga')
+
     
 
                         
@@ -127,6 +136,7 @@ def generate_all_standings():
     sg2('MLS Reserve League')
     sg2('MLS Cup Playoffs')
     sg2('U.S. Open Cup')
+    sg2('Hyundai A-League')
 
     """
     sg('lewis_cup')
