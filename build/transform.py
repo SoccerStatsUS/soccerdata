@@ -12,10 +12,74 @@ from settings import SOURCES
 # e.g. United States -> United States U-17
 
 
+
+def transform():
+    transform_names_for_competition('fifa', 'FIFA U-17 World Cup', '%s U-17')
+    transform_names_for_competition('fifa', 'FIFA U-20 World Cup', '%s U-20')
+
+    print "Transforming names."
+    #generate_prerosters()
+
+    generate_rosters_from_stats('asl')
+    generate_rosters_from_stats('apsl')
+
+    # Comment this out if worried about over-assigning full names.
+    #transform_player_names(),
+    transform_names_from_rosters()
+
+
+def generate_rosters_from_stats(source):
+    s = set()
+    rdb = soccer_db['%s_rosters' % source]    
+    if rdb.count():
+        return
+
+    sdb = soccer_db['%s_stats' % source]    
+    for e in sdb.find():
+        key = (e['name'], e['team'], e['competition'], e['season'])
+        s.add(key)
+
+    generic_load('%s_rosters' % source, lambda: list(s))
+
+             
+    
+
+
+def transform_names_from_rosters():
+    for source in SOURCES:
+        rdb = soccer_db['%s_rosters' % source]
+        if rdb.count():
+
+            rg = make_roster_guesser(rdb)
+
+            l = []
+            coll = soccer_db["%s_lineups" % source]
+            for e in coll.find():
+                e['name'] = rg(e['name'], e['team'], e['competition'], e['season'])
+                l.append(e)
+
+            coll.drop()
+            insert_rows(coll, l)
+
+
+            g = []
+            coll = soccer_db["%s_goals" % source]
+            for e in coll.find():
+                e['goal'] = rg(e['goal'], e['team'], e['competition'], e['season'])
+                g.append(e)
+
+            coll.drop()
+            insert_rows(coll, g)
+
+
+
+
+
 # Rosters
 def generate_prerosters():
     print "Generating all rosters"
     # This is a preliminary roster since player names haven't been normalized and not all stats have been generated.
+    # Not really using this - it's too blunt of a tool.
     generic_load(soccer_db.prerosters, generate_all_time_rosters)
 
 
@@ -142,11 +206,7 @@ def transform_names_for_competition(coll_group, competition, string_format):
     coll.drop()
     insert_rows(coll, games)
 
-
-
-            
     goals = []
-
     coll = soccer_db["%s_goals" % coll_group]
     for e in coll.find():
         if e['competition'] == competition:
@@ -154,6 +214,7 @@ def transform_names_for_competition(coll_group, competition, string_format):
 
         goals.append(e)
 
+    coll.drop()
     insert_rows(coll, goals)
 
     lineups = []
@@ -164,6 +225,7 @@ def transform_names_for_competition(coll_group, competition, string_format):
 
         lineups.append(e)
 
+    coll.drop()
     insert_rows(coll, lineups)
 
     stats = []
@@ -174,6 +236,7 @@ def transform_names_for_competition(coll_group, competition, string_format):
 
         stats.append(e)
 
+    coll.drop()
     insert_rows(coll, stats)
 
 
@@ -211,43 +274,6 @@ def transform_player_names():
 
 
 
-def transform_names_from_rosters():
-    for source in SOURCES:
-        rdb = soccer_db['%s_rosters' % source]
-        if rdb.count():
-
-            rg = make_roster_guesser(rdb)
-
-            l = []
-            coll = soccer_db["%s_lineups" % source]
-            for e in coll.find():
-                e['name'] = rg(e['name'], e['team'], e['competition'], e['season'])
-                l.append(e)
-
-            coll.drop()
-            insert_rows(coll, l)
-
-
-            g = []
-            coll = soccer_db["%s_goals" % source]
-            for e in coll.find():
-                e['goal'] = rg(e['goal'], e['team'], e['competition'], e['season'])
-                g.append(e)
-
-            coll.drop()
-            insert_rows(coll, g)
-
             
             
             
-
-def transform():
-    transform_names_for_competition('fifa', 'FIFA U-17 World Cup', '%s U-17')
-    transform_names_for_competition('fifa', 'FIFA U-20 World Cup', '%s U-20')
-
-    print "Transforming names."
-    generate_prerosters()
-
-    # Comment this out if worried about over-assigning full names.
-    #transform_player_names(),
-    transform_names_from_rosters()
