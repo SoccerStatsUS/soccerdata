@@ -584,6 +584,7 @@ world = {
     'Hearts': 'Hearts of Midlothian F.C.',
     'Hearts of Midlothian': 'Hearts of Midlothian F.C.',
     'Kilmarnock': 'Kilmarnock F.C.',
+    'Kilmarnock FC': 'Kilmarnock F.C.',
 
     # England
     'Aston Villa': 'Aston Villa F.C.',

@@ -15,6 +15,7 @@ def get_city(s):
 
 
 cities = {
+    'Newcastle-upon-Tyne, England': 'Newcastle upon Tyne, England',
     'Kristiana, Norway': 'Oslo, Norway',
     'Rio de Janeiro': 'Rio de Janeiro, Brazil',
     'Rome': 'Rome, Italy',
