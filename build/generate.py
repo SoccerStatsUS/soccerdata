@@ -61,6 +61,10 @@ def generate_competition_stats():
     competition_generate('International Soccer League')
     competition_generate('Canadian Championship')
 
+    competition_generate('CONCACAF Champions League')
+    competition_generate('CONCACAF Champions\' Cup')
+    competition_generate('North American SuperLiga')
+
     
 
                         
