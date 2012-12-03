@@ -15,6 +15,34 @@ l = [
         },
 
     {
+        'name': 'Jubilee Oval',
+        'location': 'Carlton, Australia',
+        'opened': 1936,
+        'capacity': 22000
+        },
+
+    {
+        'name': 'LaTrobe City Stadium',
+        'location': 'Morwell, Australia',
+        'opened': 1981,
+        'capacity': 12000,
+        },
+
+    {
+        'name': 'Eden Park',
+        'location': 'Auckland, New Zealand',
+        'opened': 1981,
+        'capacity': 12000,
+        },
+
+
+    {
+        'name': 'Campbelltown Stadium',
+        'location': 'Campbelltown, Australia',
+        'capacity': 20000,
+        },
+
+    {
         'name': 'Newcastle International Sports Centre',
         'location': 'Newcastle, Australia',
         'opened': datetime.datetime(1970, 4, 10),

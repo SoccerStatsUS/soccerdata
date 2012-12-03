@@ -62,6 +62,11 @@ l = [
         'name': 'ONT AA Grounds',
         'location': 'Kearny, NJ',
         },
+    {
+        'name': 'Meadowbrook Oval',
+        'location': 'Newark, NJ',
+        'address': 'South Orange Avenue and 12th Street',
+        },
 
     {
         'name': 'Sprague Field',
