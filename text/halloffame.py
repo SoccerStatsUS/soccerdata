@@ -6,7 +6,7 @@
 
 def load_hall_of_fame():
 
-    f = open('/home/chris/www/soccerdata/data/lists/halloffame')
+    f = open('/home/chris/www/soccerdata/data/lists/awards/halloffame')
     l = []
 
     for line in f:
