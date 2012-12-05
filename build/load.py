@@ -82,13 +82,15 @@ def load_drafts():
 
 
 def load_games():
+    load_fifa()
+
     load_australia()    
 
     load_early_cups()
     load_modern_cups()
 
 
-    load_fifa()
+
 
     load_asl()
 
@@ -835,20 +837,22 @@ def load_ncaa():
 
 def load_fifa():
     from soccerdata.scrapers import fifa
+    load_games_standard('fifa', 'international/world/world_cup')
+
+    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
+    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
+    generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
+
     load_fifa_competition('FIFA U-17 World Cup')
 
     load_fifa_competition('Olympic Games')
 
-    load_games_standard('fifa', 'international/world/world_cup')
+
 
     load_fifa_competition('FIFA Club World Cup')
     load_fifa_competition('FIFA Confederations Cup')
     load_fifa_competition('FIFA U-20 World Cup')
 
-
-    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
-    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
-    generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
 
     generic_load(soccer_db.fifa_awards, awards.process_world_cup_awards)
 

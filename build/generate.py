@@ -65,6 +65,8 @@ def generate_competition_stats():
     competition_generate('CONCACAF Champions\' Cup')
     competition_generate('North American SuperLiga')
 
+    competition_generate('American League of Professional Football')
+
     
 
                         
@@ -137,6 +139,7 @@ def generate_all_standings():
     sg2('MLS Cup Playoffs')
     sg2('U.S. Open Cup')
     sg2('Hyundai A-League')
+    sg2('Canadian Championship')
 
     """
     sg('lewis_cup')
