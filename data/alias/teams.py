@@ -297,6 +297,7 @@ world = {
     'Italian Army Team': 'Italian Army',
     'All Skane': 'All-Skane',
 
+
     # Asia
 
     # Japan
@@ -846,6 +847,7 @@ world = {
     'Aurora': 'Aurora F.C.',
     'Coban - Guatemala': 'Coban',
     'Coban': 'Cobán Imperial',
+    'Coban Imperial': 'Cobán Imperial',
     'Comunicaciones': 'C.S.D. Comunicaciones',
     'Comunciaciones': 'C.S.D. Comunicaciones',
     'Communicaciones': 'C.S.D. Comunicaciones',

@@ -15,8 +15,19 @@ def get_place(s):
 
 
 places = {
+    'FIFA World Cup Stadium, Hamburg': 'HSH Nordbank Arena',
+    'FIFA World Cup Stadium, Dortmund': 'Signal Iduna Park',
+    'FIFA World Cup Stadium, Frankfurt, Frankfurt/Main': 'Commerzbank-Arena',
+    'FIFA World Cup Stadium, Cologne': 'RheinEnergieStadion',
+    'FIFA World Cup Stadium, Hanover': 'AWD-Arena',
+    'Stade Municipal, Toulouse': 'Stade Municipal de Toulouse',
+    'San Paolo, Naples': 'Stadio San Paolo',
+    'Estadio Nacional, Santiago': 'Estadio Nacional Julio Martínez Prádanos',
+    'Newport Beach , CA': 'Newport Beach, CA',
+    'San Jose, Costa Rica': 'San José, Costa Rica',
+    'Vancouver, B.C.': ' Vancouver, BC',
     'Olympic Park, Melbourne, Australia': 'Olympic Park Stadium',
-
+    'Dublin Ireland': 'Dublin, Ireland',
     'Stade Olympique, Colombes, Paris': 'Stade Olympique Colombes',
     'Republican Stadium, Kiev': 'Kiev Olympic Stadium',
     'Lenin Stadium, Moscow': 'Luzhniki Stadium',

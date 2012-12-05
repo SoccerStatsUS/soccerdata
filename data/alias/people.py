@@ -44,7 +44,7 @@ def check_for_name_loops():
             
             
 slugs = {
-
+    'flavio-conceicao': 'Flávio Conçeicão',
     'ramon-nunez': 'Ramon Nunez',
     'gabriel-gomez': 'Gabriel Gomez',
     'julio-giron': 'Julio Giron',
@@ -160,6 +160,17 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+'Raul Toro': 'Raúl Toro',
+'Oswaldo Ramirez': 'Oswaldo Ramírez',
+'Eugene Galekovic': 'Eugene Galeković',
+'Andre Cruz': 'André Cruz',
+'Wesley Mcleod': 'Wes McLeod',
+'Wesley McLeod': 'Wes McLeod',
+
+'Klaas Jan Huntelaar': 'Klaas-Jan Huntelaar',
+'Getulio': 'Getúlio',
+'Andres Perez-Matto': 'Andres Perez Matto',
+'Scott Mcdonald': 'Scott McDonald',
 'Brain West': 'Brian West',
 'Lajos Ku': 'Lajos Kü',
 'Istvan Geczi': 'István Géczi',
@@ -746,9 +757,10 @@ basic = {
 'Ruben Marcos': 'Rubén Marcos',
 'Brandaozinho': 'Brandãozinho',
 
-'Flávio Conceicao': 'Flavio Conceição',
-'Flávio Conçeicão': 'Flavio Conceição',
-'Flavio Conceiçao': 'Flavio Conceição',
+#'Flavio Conceicao': 'Flávio Conceicao',
+#'Flávio Conceicao': 'Flavio Conceição',
+#'Flávio Conçeicão': 'Flavio Conceição',
+#'Flavio Conceiçao': 'Flavio Conceição',
 'Luis Suarez': 'Luis Suárez',
 'Geronimo Barbadillo': 'Gerónimo Barbadillo',
 
@@ -3272,7 +3284,7 @@ onames = {
     
 
     'David Mcgill': 'David McGill',
-    'Flavio Conceicao': 'Flávio Conceicao',
+
     'Bart Mcghee': 'Bart McGhee',
     'Kim Kallstrom': 'Kim Källström',
     'Rene Higuita': 'René Higuita',

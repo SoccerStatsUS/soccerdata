@@ -24,6 +24,28 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Giuseppe Meazza': 'San Siro',
+    'Renato Dall Ara': 'Stadio Renato Dall\'Ara',
+    'Sant Elia': 'Stadio Sant\'Elia',
+    'Friuli': 'Stadio Friuli',
+    'Geoffrey Prichard Stadium': 'Stade Geoffroy-Guichard',
+    'Felix Bollaert': 'Stade Félix-Bollaert',
+
+    'Marc Antonio Bentegodi': 'Stadio Marc\'Antonio Bentegodi',
+    'Stade Chapou': 'Stade Municipal de Toulouse',
+    'Stade Olympique de Colombes': 'Stade Olympique Yves-du-Manoir',
+    'Velodrome Municipal': 'Stade Vélodrome',
+    'Stadio Comunale': 'Stadio Artemio Franchi',
+    'Comunale': 'Stadio Artemio Franchi',
+    'Giovanni Berta': 'Stadio Artemio Franchi',
+    'Estadio do Pacaembu': 'Estádio do Pacaembu',
+    'Estadio do Maracana': 'Estádio do Maracanã',
+    'Estadio Ilha do Retiro': 'Estádio Ilha do Retiro',
+    'Estadio Durival Britto': 'Estádio Vila Capanema',
+    'Estádio Durival Britto e Silva': 'Estádio Vila Capanema',
+    'Estadio Jose Maria Minella': 'Estadio José María Minella',
+    'Estadio Chateau Carreras': 'Estadio Mario Alberto Kempes',
+
     'Karaiskaki': 'Karaiskakis Stadium',
     'City of Coventry Stadium': 'Ricoh Arena',
     'Latrobe City Stadium': 'LaTrobe City Stadium',
@@ -186,6 +208,7 @@ stadiums = {
     'Durival de Brito': 'Estádio Vila Capanema',
     'King Fahd International Stadium': 'King Fahd Stadium',
     'Eucaliptos': 'Estádio dos Eucaliptos',
+    'Estadio dos Eucaliptos': 'Estádio dos Eucaliptos',
     'Roker Park Ground': 'Roker Park',
     'White City': 'White City Stadium',
     'Parc Lescure': 'Stade Chaban-Delmas',
