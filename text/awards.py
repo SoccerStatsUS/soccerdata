@@ -78,7 +78,7 @@ def process_canada_awards():
 
 
 def process_ny_awards():
-    from soccerdata.data.awards.lists import ny
+    from soccerdata.data.lists.awards import ny
     return process_awards(ny.mafl) + process_awards(ny.nysal) + process_awards(ny.snysfbac)
 
 
