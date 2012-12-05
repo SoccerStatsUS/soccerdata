@@ -28,6 +28,7 @@ l = [
         'capacity': 60240,
         },
 
+
     {
         'name': 'Stadio Armando Picchi',
         'location': 'Livorno, Italy',
@@ -52,6 +53,13 @@ l = [
         'location': 'Colombes, France',
         'opened': 1907,
         'capacity': 14000,
+        },
+
+    {
+        'name': 'Stade Municipal de Toulouse',
+        'location': 'Toulouse, France',
+        'opened': 1937,
+        'capacity': 35472,
         },
 
     {
@@ -455,8 +463,17 @@ l = [
         },
 
     {
-        'name': 'Geoffrey Prichard Stadium',
+        'name': 'Stade Geoffroy-Guichard',
         'location': 'St. Etienne, France',
+        'opened': datetime.datetime(1931, 9, 13),
+        'capacity': 26747,
+        },
+
+    {
+        'name': 'Stade Félix-Bollaert',
+        'location': 'Lens, France',
+        'opened': 1933,
+        'capacity': 41229,
         },
 
     {
@@ -600,8 +617,10 @@ l = [
         },
 
     {
-        'name': 'Stadio Comunale',
+        'name': 'Stadio Artemio Franchi',
         'location': 'Florence, Italy',
+        'opened': 1931,
+        'capacity': 47290,
         },
 
     {
@@ -706,8 +725,29 @@ l = [
         },
 
     {
+        'name': 'Stadio Marc\'Antonio Bentegodi',
+        'location': 'Verona, Italy',
+        'opened': 1963,
+        'capacity': 39371,
+        },
+
+    {
+        'name': 'Stadio Sant\'Elia',
+        'location': 'Cagliari, Italy',
+        'opened': 1970,
+        'capacity': 23486,
+        },
+
+    {
         'name': 'Stade Pershing',
         'location': 'Vincennes, France',
+        },
+
+    {
+        'name': 'Stadio Friuli',
+        'location': 'Udine, Italy',
+        'opened': 1976,
+        'capacity': 30642,
         },
     {
         'name': 'Agrykola Stadium',
@@ -939,7 +979,7 @@ l = [
         },
 
     {
-        'name': 'Stade Olympique de la Pontais',
+        'name': 'Stade Olympique de la Pontaise',
         'location': 'Lausanne, Switzerland',
         'opened': 1904,
         'capacity': 15850,
