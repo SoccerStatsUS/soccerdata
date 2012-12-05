@@ -82,6 +82,8 @@ def load_drafts():
 
 
 def load_games():
+    load_mexico()
+
     load_fifa()
 
     load_australia()    
@@ -114,7 +116,7 @@ def load_games():
     load_copa_america()
     load_usmnt()
 
-    #load_mexico()
+    
     #load_guatemala()
     load_ncaa()
     load_nafbl()
@@ -133,15 +135,14 @@ def load_excel_standings(coll, fn):
     """
     Load standard excel-formatted standings.
     """
-
     generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_excel_standings(fn))
 
 
-def load_new_standings(coll, fn):
+def load_new_standings(coll, fn, delimiter=';'):
     """
     Load semicolon-style standings
     """
-    generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_file(fn))
+    generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_standings_file(fn, delimiter))
 
 
 def generate_cities():
@@ -788,7 +789,10 @@ def load_australia():
     generic_load(soccer_db.australia_awards, awards.process_australia_awards)
 
 def load_mexico():
-    load_games_standard('mexico', 'international/country/mexico/alltime')
+    load_new_standings('mexico', 'domestic/country/mexico/1', ';')
+    generic_load(soccer_db.mexico_awards, awards.process_mexico_awards)
+    #load_new_standings('mexico', 'domestic/country/mexico/primera_fuerza', '\t')
+    #load_games_standard('mexico', 'international/country/mexico/alltime')
     return
     load_games_standard('mexico', 'international/country/trinidad_tobago')
     load_games_standard('mexico', 'international/country/belize')
@@ -800,7 +804,7 @@ def load_mexico():
 
     return
 
-    load_new_standings('mexico', 'domestic/country/mexico/1')
+
 
     #load_games_standard('mexico', 'domestic/country/mexico/super')
     #load_games_standard('mexico', 'domestic/country/mexico/playoffs')

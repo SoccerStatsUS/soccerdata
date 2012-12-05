@@ -19,7 +19,11 @@ if not os.path.exists(DIR):
 
 def int_or_none(e):
     if e:
-        return int(e)
+        try:
+            return int(e)
+        except:
+            import pdb; pdb.set_trace()
+
     return None
 
 
