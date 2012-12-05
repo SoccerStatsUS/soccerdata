@@ -203,6 +203,7 @@ campeonato_gaucho = {
         ]
 }
 
+
 campeonato_baiano = [
     (1905, 'Clube Internacional de Cricket'),
     (1906, 'São Salvador'),
