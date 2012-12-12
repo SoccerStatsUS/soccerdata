@@ -82,13 +82,16 @@ def load_drafts():
 
 
 def load_games():
+    load_early_cups()
+
     load_mexico()
+    load_usmnt()
 
     load_fifa()
 
     load_australia()    
 
-    load_early_cups()
+
     load_modern_cups()
 
 
@@ -114,7 +117,7 @@ def load_games():
     load_esl()    
     load_early_friendlies()
     load_copa_america()
-    load_usmnt()
+
 
     
     #load_guatemala()
@@ -790,9 +793,14 @@ def load_australia():
 
 def load_mexico():
     load_new_standings('mexico', 'domestic/country/mexico/1', ';')
+    load_new_standings('mexico', 'domestic/country/mexico/short', ';')
+    load_games_standard('mexico', 'domestic/country/mexico/leagues/1943')
+    load_games_standard('mexico', 'domestic/country/mexico/leagues/mexico86')
+    load_games_standard('mexico', 'domestic/country/mexico/leagues/1981')
+
     generic_load(soccer_db.mexico_awards, awards.process_mexico_awards)
-    #load_new_standings('mexico', 'domestic/country/mexico/primera_fuerza', '\t')
-    #load_games_standard('mexico', 'international/country/mexico/alltime')
+    load_new_standings('mexico', 'domestic/country/mexico/primera_fuerza')
+    load_games_standard('mexico', 'international/country/mexico/alltime')
     return
     load_games_standard('mexico', 'international/country/trinidad_tobago')
     load_games_standard('mexico', 'international/country/belize')
