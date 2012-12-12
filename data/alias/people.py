@@ -160,6 +160,16 @@ names.update(nonpeople)
 #[<Bio: Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>]
 
 basic = {
+    'Agustín "Chino" Medina': 'Agustín Medina',
+    'Agustin Medina': 'Agustín Medina',
+    'Pablo Gonzalez': 'Pablo González',
+    'Alberto "Caballo" Mendoza': 'Alberto Mendoza',
+    'Luis Garcia Cortina': 'Luis García Cortina',
+    'Guadalupe Velázquez': 'Guadalupe Velásquez',
+    'Julián "Pachuco" Durán': 'Julián Durán',
+    'Julio Orvananos': 'Julio Orvañanos',
+    'Antonio "Niño" Flores': 'Antonio Flores',
+    
 'Raul Toro': 'Raúl Toro',
 'Oswaldo Ramirez': 'Oswaldo Ramírez',
 'Eugene Galekovic': 'Eugene Galeković',
