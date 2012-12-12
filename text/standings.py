@@ -71,13 +71,17 @@ def process_excel_standings(filename):
         if len(fields) == 13:
             shootout_wins, shootout_losses = fields[11:]
         
+        try:
+            games = int(games)
+        except:
+            import pdb; pdb.set_trace()
 
         return {
             'team': team,
             'competition': competition,
             'division': division,
             'season': season,
-            'games': int(games),
+            'games': games,
             'wins': int(wins),
             'ties': int_or_none(ties),
             'losses': int(losses),
@@ -86,6 +90,7 @@ def process_excel_standings(filename):
             'goals_against': int_or_none(goals_against),
             'shootout_wins': int_or_none(shootout_wins),
             'shootout_losses': int_or_none(shootout_losses),
+            'final': True
             }
         
     l = [process_line(line) for line in lines]
@@ -185,6 +190,11 @@ class StandingProcessor(object):
             import pdb; pdb.set_trace()
     
 
+        try:
+            games = int(games)
+        except:
+            import pdb; pdb.set_trace()
+
 
         shootout_wins = shootout_losses = None
         self.standings.append({
@@ -194,7 +204,7 @@ class StandingProcessor(object):
 
                 'team': team,
 
-                'games': int(games),
+                'games': games,
                 'wins': int(wins),
                 'ties': int(ties),
                 'losses': int(losses),
