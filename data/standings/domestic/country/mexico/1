@@ -6,7 +6,7 @@ Region: Mexico
 Season: 1943-1944
 
 1   ;    Asturias      ;  18   ;   12    ;  3    ;   3   ;   27;    57   ;   32   
-2   ;    España        ;  18   ;   13    ;  1    ;   4   ;   27;    70   ;   35   
+2   ;    Real Club España        ;  18   ;   13    ;  1    ;   4   ;   27;    70   ;   35   
 3   ;    Moctezuma     ;  18   ;   9     ;  3    ;   6   ;   21;    43   ;   34   
 4   ;    Atlante       ;  18   ;   6     ;  6    ;   6   ;   18;    28   ;   31   
 5   ;    Atlas         ;  18   ;   7     ;  4    ;   7   ;   18;    42   ;   50   
@@ -48,7 +48,7 @@ Season: 1945-1946
 10 ;     Asturias           ;     30  ;    12  ;    4  ;     14  ;    28;    71   ;   74  
 11 ;     Guadalajara        ;     30  ;    11  ;    5  ;     14  ;    27;    60   ;   64  
 12 ;     Marte              ;     30  ;    9   ;    7  ;     14  ;    25;    67   ;   87  
-13 ;     Tampico            ;     30  ;    9   ;    3  ;     18  ;    21;    61   ;   97  
+13 ;     Tampico Madero            ;     30  ;    9   ;    3  ;     18  ;    21;    61   ;   97  
 14 ;     Club America            ;     30  ;    7   ;    5  ;     18  ;    19;    71   ;   101 
 15 ;     San Sebastian      ;     30  ;    5   ;    5  ;     20  ;    15;    46   ;   87  
 16 ;     Monterrey          ;     30  ;    5   ;    4  ;     21  ;    14;    58   ;   133 
@@ -60,7 +60,7 @@ Season: 1946-1947
 3  ;     Veracruz           ;     28  ;    15  ;    8  ;     5   ;    38;    85   ;   46  
 4  ;     Puebla             ;     28  ;    13  ;    9  ;     6   ;    35;    55   ;   45  
 5  ;     Atlas              ;     28  ;    14  ;    6  ;     8   ;    34;    59   ;   45  
-6  ;     Tampico            ;     28  ;    12  ;    8  ;     8   ;    32;    51   ;   42  
+6  ;     Tampico Madero            ;     28  ;    12  ;    8  ;     8   ;    32;    51   ;   42  
 7  ;     Moctezuma          ;     28  ;    10  ;    7  ;     11  ;    27;    58   ;   68  
 8  ;     Oro                ;     28  ;    10  ;    6  ;     12  ;    26;    51   ;   62  
 9  ;     Real Club España   ;     28  ;    11  ;    3  ;     14  ;    25;    53   ;   57  
@@ -80,7 +80,7 @@ Season: 1947-1948
 5  ;     A.D.O.             ;     28  ;    13  ;    5  ;     10  ;    31;    68   ;   66  
 6  ;     San Sebastian      ;     28  ;    12  ;    4  ;     12  ;    28;    50   ;   76  
 7  ;     Real Club España   ;     28  ;    10  ;    7  ;     11  ;    27;    56   ;   53  
-8  ;     Tampico            ;     28  ;    11  ;    5  ;     12  ;    27;    62   ;   64  
+8  ;     Tampico Madero            ;     28  ;    11  ;    5  ;     12  ;    27;    62   ;   64  
 9  ;     Veracruz           ;     28  ;    12  ;    3  ;     13  ;    27;    62   ;   66  
 10 ;     Club America            ;     28  ;    11  ;    4  ;     13  ;    26;    63   ;   71  
 11 ;     Guadalajara        ;     28  ;    9   ;    7  ;     12  ;    25;    55   ;   69  
@@ -105,7 +105,7 @@ Season: 1948-1949
 12;      Oro               ;      28 ;     8  ;     7 ;      13 ;     23;     45  ;    58 
 13;      Club America           ;      28 ;     7  ;     8 ;      13 ;     22;     56  ;    69 
 14;      Atlante           ;      28 ;     8  ;     6 ;      14 ;     22;     51  ;    66 
-15;      Tampico           ;      28 ;     7  ;     8 ;      13 ;     22;     34  ;    45 
+15;      Tampico Madero           ;      28 ;     7  ;     8 ;      13 ;     22;     34  ;    45 
 
 Season: 1949-1950
 
@@ -118,7 +118,7 @@ Season: 1949-1950
 7 ;      Puebla            ;      26 ;     11 ;     3 ;      12 ;     25;     51  ;    54 
 8 ;      Club America           ;      26 ;     9  ;     7 ;      10 ;     25;     49  ;    54 
 9 ;      Marte             ;      26 ;     10 ;     5 ;      11 ;     25;     52  ;    62 
-10;      Tampico           ;      26 ;     8  ;     8 ;      10 ;     24;     43  ;    47 
+10;      Tampico Madero           ;      26 ;     8  ;     8 ;      10 ;     24;     43  ;    47 
 11;      Oro               ;      26 ;     8  ;     7 ;      11 ;     23;     64  ;    72 
 12;      Guadalajara       ;      26 ;     7  ;     8 ;      11 ;     22;     47  ;    57 
 13;      Moctezuma         ;      26 ;     5  ;     7 ;      14 ;     17;     43  ;    65 
@@ -249,7 +249,7 @@ Season: 1957-1958
 9   ;    CD Oro              ;    26   ;   8    ;   6   ;    12   ;   22;   41    ;  53   
 10  ;    Club America        ;    26   ;   8    ;   6   ;    12   ;   22;   33    ;  45   
 11  ;    Club Necaxa         ;    26   ;   7    ;   7   ;    12   ;   21;   36    ;  51   
-12  ;    Atlético Morelia    ;    26   ;   7    ;   7   ;    12   ;   21;   35    ;  54   
+12  ;    Monarcas Morelia    ;    26   ;   7    ;   7   ;    12   ;   21;   35    ;  54   
 13  ;    Cuautla FC          ;    26   ;   5    ;   9   ;    12   ;   19;   32    ;  47   
 14  ;    Tampico Madero      ;    26   ;   5    ;   7   ;    14   ;   17;   22    ;  39   
 
@@ -264,7 +264,7 @@ Season: 1958-1959
 7   ;    Deportivo Irapuato  ;    26   ;   10   ;   7   ;    9    ;   27;   32    ;  32   
 8   ;    CD Oro              ;    26   ;   10   ;   4   ;    12   ;   24;   48    ;  57   
 9   ;    Club Deportivo Zamora;   26   ;   6    ;   9   ;    11   ;   21;   44    ;  53   
-10  ;    Atlético Morelia    ;    26   ;   7    ;   7   ;    12   ;   21;   36    ;  44   
+10  ;    Monarcas Morelia    ;    26   ;   7    ;   7   ;    12   ;   21;   36    ;  44   
 11  ;    Club Necaxa         ;    26   ;   4    ;   12  ;    10   ;   20;   41    ;  49   
 12  ;    Atlante FC          ;    26   ;   5    ;   9   ;    12   ;   19;   31    ;  43   
 13  ;    Celaya FC           ;    26   ;   4    ;   11  ;    11   ;   19;   30    ;  46   
@@ -284,7 +284,7 @@ Season: 1959-1960
 10   ;   CD Zacatepec         ;   26    ;  7     ;  9    ;   10    ;  23;  43     ; 43    
 11   ;   Atlante FC           ;   26    ;  7     ;  8    ;   11    ;  22;  37     ; 43    
 12   ;   Club Celaya          ;   26    ;  7     ;  8    ;   11    ;  22;  31     ; 44    
-13   ;   Athletico Morelia    ;   26    ;  6     ;  8    ;   12    ;  20;  32     ; 35    
+13   ;   Monarcas Morelia    ;   26    ;  6     ;  8    ;   12    ;  20;  32     ; 35    
 14   ;   Club Deportivo Zamora;   26    ;  4     ;  4    ;   18    ;  12;  32     ; 63    
 
 Season: 1960-1961
@@ -299,7 +299,7 @@ Season: 1960-1961
 8    ;   CD Zacatepec         ;   26    ;  10    ;  6    ;   10    ;  26;  44     ; 51    
 9    ;   Toluca               ;   26    ;  8     ;  8    ;   10    ;  24;  41     ; 37    
 10   ;   Atlante FC           ;   26    ;  8     ;  7    ;   11    ;  23;  33     ; 40    
-11   ;   Athlético Morelia    ;   26    ;  6     ;  11   ;   9     ;  23;  25     ; 31    
+11   ;   Monarcas Morelia    ;   26    ;  6     ;  11   ;   9     ;  23;  25     ; 31    
 12   ;   Deportivo Irapuato   ;   26    ;  7     ;  7    ;   12    ;  21;  39     ; 47    
 13   ;   C.F. Monterrey       ;   26    ;  7     ;  7    ;   12    ;  21;  31     ; 44    
 14   ;   Celaya FC            ;   26    ;  6     ;  7    ;   13    ;  19;  25     ; 38    
@@ -312,7 +312,7 @@ Season: 1961-1962
 4    ;   CD Oro               ;     26  ;    13  ;    5  ;     8   ;    31;    41   ;   32  
 5    ;   Club Leon            ;     26  ;    5   ;    15 ;     6   ;    25;    24   ;   30  
 6    ;   Deportivo Irapuato   ;     26  ;    10  ;    5  ;     11  ;    25;    35   ;   47  
-7    ;   Athlético Morelia    ;     26  ;    8   ;    8  ;     10  ;    24;    32   ;   42  
+7    ;   Monarcas Morelia    ;     26  ;    8   ;    8  ;     10  ;    24;    32   ;   42  
 8    ;   Tampico Madero       ;     26  ;    7   ;    9  ;     10  ;    23;    37   ;   41  
 9    ;   Atlante FC           ;     26  ;    8   ;    7  ;     11  ;    23;    38   ;   45  
 10   ;   Club Deportivo Nacional;   26  ;    7   ;    9  ;     10  ;    23;    30   ;   44  
@@ -328,7 +328,7 @@ Season: 1962-1963
 3   ;    Club America     ;    26  ;    11   ;   9    ;   6   ;  31;    42   ;   24    
 4   ;    Atlas       ;    26  ;    11   ;   9    ;   6   ;  31;    38   ;   31    
 5   ;    Monterrey   ;    26  ;    8    ;   12   ;   6   ;  28;    42   ;   38    
-6   ;    Nacional    ;    26  ;    9    ;   9    ;   8   ;  27;    37   ;   33    
+6   ;    Club Deportivo Nacional    ;    26  ;    9    ;   9    ;   8   ;  27;    37   ;   33    
 7   ;    Toluca      ;    26  ;    8    ;   10   ;   8   ;  26;    32   ;   31    
 8   ;    Necaxa      ;    26  ;    9    ;   7    ;   10  ;  25;    47   ;   51    
 9   ;    Club Leon        ;    26  ;    6    ;   13   ;   7   ;  25;    35   ;   41    
@@ -336,7 +336,7 @@ Season: 1962-1963
 11  ;    Irapuato    ;    26  ;    8    ;   6    ;   12  ;  22;    32   ;   48    
 12  ;    U.N.A.M.    ;    26  ;    6    ;   9    ;   11  ;  21;    32   ;   41    
 13  ;    Morelia     ;    26  ;    5    ;   8    ;   13  ;  18;    29   ;   47    
-14  ;    Tampico     ;    26  ;    5    ;   7    ;   14  ;  17;    39   ;   50    
+14  ;    Tampico Madero     ;    26  ;    5    ;   7    ;   14  ;  17;    39   ;   50    
 
 Season: 1963-1964
 
@@ -369,7 +369,7 @@ Season: 1964-1965
 10  ;    Veracruz            ;      30 ;     10 ;     8 ;      12 ;     28;     41  ;    44 
 11  ;    Toluca              ;      30 ;     8  ;     11;      11 ;     27;     31  ;    34 
 12  ;    Club Necaxa         ;      30 ;     9  ;     9 ;      12 ;     27;     34  ;    43 
-13  ;    Athletico Morelia   ;      30 ;     10 ;     6 ;      14 ;     26;     44  ;    52 
+13  ;    Monarcas Morelia   ;      30 ;     10 ;     6 ;      14 ;     26;     44  ;    52 
 14  ;    CD Zacatepec        ;      30 ;     8  ;     10;      12 ;     26;     29  ;    37 
 15  ;    Deportivo Irapuato  ;      30 ;     7  ;     9 ;      14 ;     23;     29  ;    46 
 16  ;    Club Deportivo Nacional;   30 ;     6  ;     10;      14 ;     22;     29  ;    50 
@@ -383,7 +383,7 @@ Season: 1965-1966
 5   ;    Atlante F.C.        ;    30   ;   13   ;   7   ;    10   ;   33;   43    ;  47   
 6   ;    U.N.A.M.            ;    30   ;   13   ;   5   ;    12   ;   31;   51    ;  50   
 7   ;    Club Necaxa         ;    30   ;   10   ;   9   ;    11   ;   29;   35    ;  42   
-8   ;    Athletico Morelia   ;    30   ;   13   ;   3   ;    14   ;   29;   46    ;  61   
+8   ;    Monarcas Morelia   ;    30   ;   13   ;   3   ;    14   ;   29;   46    ;  61   
 9   ;    Club Leon           ;    30   ;   10   ;   8   ;    12   ;   28;   34    ;  37   
 10  ;    Deportivo Irapuato  ;    30   ;   11   ;   5   ;    14   ;   27;   41    ;  39   
 11  ;    Veracruz            ;    30   ;   12   ;   3   ;    15   ;   27;   40    ;  41   
@@ -409,7 +409,7 @@ Season: 1966-1967
 12  ;    Atlante F.C.        ;    30   ;   11   ;   4   ;    15   ;   26;   34    ;  36   
 13  ;    U.N.A.M.            ;    30   ;   7    ;   12  ;    11   ;   26;   45    ;  53   
 14  ;    Veracruz            ;    30   ;   7    ;   10  ;    13   ;   24;   45    ;  55   
-15  ;    Atlético Morelia    ;    30   ;   8    ;   8   ;    14   ;   24;   32    ;  51   
+15  ;    Monarcas Morelia    ;    30   ;   8    ;   8   ;    14   ;   24;   32    ;  51   
 16  ;    Ciudad Madero       ;    30   ;   5    ;   8   ;    17   ;   18;   33    ;  61   
 
 Season: 1967-1968
@@ -429,7 +429,7 @@ Season: 1967-1968
 13  ;    Nuevo Club Leon          ;    30   ;   8    ;   6   ;    16   ;   22;   41    ;  61   
 14  ;    C.F. Monterrey      ;    30   ;   6    ;   9   ;    15   ;   21;   30    ;  45   
 15  ;    C.D. Oro            ;    30   ;   5    ;   11  ;    14   ;   21;   35    ;  57   
-16  ;    Athlético Morelia   ;    30   ;   6    ;   5   ;    19   ;   17;   23    ;  58   
+16  ;    Monarcas Morelia   ;    30   ;   6    ;   5   ;    19   ;   17;   23    ;  58   
 
 Season: 1968-1969
 
@@ -466,7 +466,7 @@ Season: 1969-1970
 12  ;    Atlas               ;    30   ;   8    ;   10  ;    12   ;   26;   25    ;  37   
 13  ;    U.N.A.M.            ;    30   ;   8    ;   9   ;    13   ;   25;   42    ;  43   
 14  ;    C.D. Irapuato       ;    30   ;   8    ;   8   ;    14   ;   24;   26    ;  36   
-15  ;    Torreón F.C.        ;    30   ;   5    ;   13  ;    12   ;   23;   24    ;  37   
+15  ;    Torreón FC        ;    30   ;   5    ;   13  ;    12   ;   23;   24    ;  37   
 16  ;    Laguna F.C.         ;    30   ;   6    ;   7   ;    17   ;   19;   31    ;  44   
 
 Season: 1970
@@ -683,7 +683,7 @@ Group: Group 2
 5 ;          Club Leon         ;  38  ;    13 ;     10 ;     15 ;     36;     60 ;     61 
 
 Group: Group 3
-2 ;          Tampico           ;  38  ;    11 ;     13 ;     14 ;     35;     53 ;     55 
+2 ;          Tampico Madero           ;  38  ;    11 ;     13 ;     14 ;     35;     53 ;     55 
 3 ;          C.D. Guadalajara  ;  38  ;    12 ;     10 ;     16 ;     34;     48 ;     56 
 4 ;          Atlante           ;  38  ;    11 ;     12 ;     15 ;     34;     44 ;     55 
 5 ;          Veracruz          ;  38  ;    12 ;     9  ;     17 ;     33;;     50 ;     62 
@@ -707,7 +707,7 @@ Group: Group 1
 Group: Group 2
 1 ;          U.N.A.M.           ; 38   ;   17  ;    11  ;    10  ;    45;    77  ;    57  
 2 ;          Atlético Potosino  ; 38   ;   19  ;    7   ;    13  ;    45;    58  ;    55  
-3 ;          Tampico            ; 38   ;   11  ;    13  ;    14  ;    35;    59  ;    65  
+3 ;          Tampico Madero            ; 38   ;   11  ;    13  ;    14  ;    35;    59  ;    65  
 4 ;          Club Leon          ; 38   ;   13  ;    7   ;    18  ;    31;    50  ;    67  
 5 ;          Club Jalisco       ; 38   ;   8   ;    12  ;    18  ;    28;    49  ;    67  
 
@@ -737,7 +737,7 @@ Group: Group 1
 
 Group: Group 2
 1 ;          U.N.A.M.            ;  38  ;    17 ;     12 ;     9  ;     46;     68 ;     55 
-2 ;          Tampico             ;  38  ;    15 ;     11 ;     12 ;     41;     61 ;     54 
+2 ;          Tampico Madero             ;  38  ;    15 ;     11 ;     12 ;     41;     61 ;     54 
 3 ;          C.D. Guadalajara    ;  38  ;    11 ;     16 ;     11 ;     38;     45 ;     41 
 4 ;          Atlético Potosino   ;  38  ;    8  ;     13 ;     17 ;     29;     34 ;     52 
 5 ;          Unión de Curtidores ;  38  ;    10 ;     8  ;     20 ;     28;     39 ;     53 
@@ -784,7 +784,7 @@ Group: Group 4
 1 ;          U.N.A.M.           ; 38   ;   19  ;    11  ;    8   ;    49;    79  ;    53  
 2 ;          Guadalajara        ; 38   ;   15  ;    13  ;    10  ;    43;    53  ;    41  
 3 ;          U.A.N.L.           ; 38   ;   14  ;    9   ;    15  ;    37;    52  ;    52  
-4 ;          Tampico            ; 38   ;   11  ;    12  ;    15  ;    34;    57  ;    60  
+4 ;          Tampico Madero            ; 38   ;   11  ;    12  ;    15  ;    34;    57  ;    60  
 5 ;          Atletas Campesinos ; 38   ;   12  ;    7   ;    19  ;    31;    42  ;    46  
 
 
@@ -809,7 +809,7 @@ Group: Group 3
 2 ;          Atlético Español   ; 38   ;   12  ;    9   ;    17  ;    33;    48  ;    55  
 3 ;          Morelia            ; 38   ;   9   ;    14  ;    15  ;    32;    37  ;    49  
 4 ;          Guadalajara        ; 38   ;   6   ;    15  ;    17  ;    27;    39  ;    55  
-5 ;          Tampico            ; 38   ;   8   ;    10  ;    20  ;    26;    45  ;    72  
+5 ;          Tampico Madero            ; 38   ;   8   ;    10  ;    20  ;    26;    45  ;    72  
 
 Group: Group 4
 1 ;          Atlante            ; 38   ;   21  ;    11  ;    6   ;    53;    62  ;    31  
@@ -1002,7 +1002,7 @@ Group: Group 4
 3 ;          Atlético Potosino  ; 40   ;   13  ;    16  ;    11  ;    42;    40  ;    46  
 4 ;          Irapuato           ; 40   ;    9  ;    18  ;    13  ;    36;    45  ;    49  
 5 ;          Angeles            ; 40   ;    9  ;    16  ;    15  ;    34;    40  ;    49  
-6 ;          Cobras             ; 40   ;    8  ;    15  ;    17  ;    31;    36  ;    58  
+6 ;          Cobras de Queretaro             ; 40   ;    8  ;    15  ;    17  ;    31;    36  ;    58  
 
 
 Season: 1987-1988
@@ -1050,7 +1050,7 @@ Group: Group 2
 2    ;       Atlante                  ;   38   ;   20  ;    9   ;    9   ;    49;    59  ;    41  
 3    ;       Universidad de Guadalajara;  38   ;   15  ;    11  ;    12  ;    41;    48  ;    51  
 4    ;       U.A.N.L.                 ;   38   ;   11  ;    11  ;    16  ;    33;    38  ;    61  
-5    ;       Santos                   ;   38   ;   7   ;    15  ;    16  ;    29;    31  ;    56  
+5    ;       Santos Laguna                   ;   38   ;   7   ;    15  ;    16  ;    29;    31  ;    56  
 
 Group: Group 3
 1  ;         Tampico Madero    ;  38  ;    20 ;     7  ;     11 ;     47;     87 ;     56 
@@ -1062,7 +1062,7 @@ Group: Group 3
 Group: Group 4
 1 ;          U.N.A.M.  ;  38  ;    13 ;     15 ;     10 ;     41;     42 ;     30 
 2 ;          U.A.G.    ;  38  ;    13 ;     12 ;     13 ;     38;     51 ;     51 
-3 ;          Cobras    ;  38  ;    8  ;     19 ;     11 ;     35;     44 ;     56 
+3 ;          Cobras de Queretaro    ;  38  ;    8  ;     19 ;     11 ;     35;     44 ;     56 
 4 ;          U.A.T.    ;  38  ;    11 ;     12 ;     15 ;     34;     48 ;     58 
 5 ;          Atlas     ;  38  ;    9  ;     8  ;     21 ;     26;     47 ;     73 
 
@@ -1080,7 +1080,7 @@ Group: Group 1
 Group: Group 2
 1 ;          Universidad de Guadalajara ; 38   ;   14  ;    12  ;    12  ;    40;    47  ;    45  
 2 ;          Toluca                     ; 38   ;   11  ;    16  ;    11  ;    38;    42  ;    33  
-3 ;          Santos                     ; 38   ;   11  ;    12  ;    15  ;    34;    38  ;    49  
+3 ;          Santos Laguna                     ; 38   ;   11  ;    12  ;    15  ;    34;    38  ;    49  
 4 ;          Cruz Azul                  ; 38   ;    8  ;    17  ;    13  ;    33;    47  ;    62  
 5 ;          Atlante                    ; 38   ;    9  ;    10  ;    19  ;    28;    36  ;    50  
 
@@ -1095,7 +1095,7 @@ Group: Group 4
 1 ;          U.A.N.L.     ; 38   ;   14  ;    12  ;    12  ;    40;    62  ;    64  
 2 ;          Necaxa       ; 38   ;   11  ;    17  ;    10  ;    39;    38  ;    34  
 3 ;          Guadalajara  ; 38   ;   10  ;    18  ;    10  ;    38;    41  ;    42  
-4 ;          Cobras       ; 38   ;   12  ;    14  ;    12  ;    38;    43  ;    48  
+4 ;          Cobras de Queretaro       ; 38   ;   12  ;    14  ;    12  ;    38;    43  ;    48  
 5 ;          Veracruz     ; 38   ;   11  ;    12  ;    15  ;    34;    53  ;    59  
 
 
@@ -1107,7 +1107,7 @@ Group: Group 1
 2 ;          Morelia    ; 38   ;   10  ;    15  ;    13  ;    35;    48  ;    51  
 3 ;          Necaxa     ; 38   ;   12  ;    11  ;    15  ;    35;    61  ;    71  
 4 ;          U.A.G.     ; 38   ;   10  ;    13  ;    15  ;    33;    43  ;    51  
-5 ;          Santos     ; 38   ;   6   ;    14  ;    18  ;    26;    35  ;    53  
+5 ;          Santos Laguna     ; 38   ;   6   ;    14  ;    18  ;    26;    35  ;    53  
 
 Group: Group 2
 1 ;          U.N.A.M.   ; 38   ;   25  ;    5   ;    8   ;    55;    67  ;    30  
@@ -1128,7 +1128,7 @@ Group: Group 4
 2 ;          Universidad de Guadalajara   ; 38   ;   16  ;    11  ;    11  ;    43;    47  ;    40  
 3 ;          Club Leon                         ; 38   ;   16  ;    9   ;    13  ;    41;    55  ;    42  
 4 ;          Atlas                        ; 38   ;   15  ;    10  ;    13  ;    40;    38  ;    32  
-5 ;          Cobras                       ; 38   ;   9   ;    14  ;    15  ;    32;    38  ;    53  
+5 ;          Cobras de Queretaro                       ; 38   ;   9   ;    14  ;    15  ;    32;    38  ;    53  
 
 
 Season: 1991-1992
@@ -1139,7 +1139,7 @@ Group: Group 1
 2 ;          Veracruz   ; 38   ;   16  ;    8   ;    14  ;    40;    53  ;    44  
 3 ;          Atlas      ; 38   ;   9   ;    17  ;    12  ;    35;    37  ;    38  
 4 ;          U.A.G.     ; 38   ;   8   ;    13  ;    17  ;    29;    35  ;    47  
-5 ;          Cobras     ; 38   ;   5   ;    10  ;    23  ;    20;    33  ;    60  
+5 ;          Cobras de Queretaro     ; 38   ;   5   ;    10  ;    23  ;    20;    33  ;    60  
 
 Group: Group 2
 1 ;          Guadalajara       ;  38  ;    13 ;     19 ;     6  ;     45;     41 ;     31 
@@ -1153,7 +1153,7 @@ Group: Group 3
 2 ;          Club Leon       ; 38   ;   15  ;    15  ;    8   ;    45;    47  ;    38  
 3 ;          Cruz Azul  ; 38   ;   15  ;    14  ;    9   ;    44;    60  ;    52  
 4 ;          Toluca     ; 38   ;   13  ;    12  ;    13  ;    38;    47  ;    49  
-5 ;          Santos     ; 38   ;   12  ;    10  ;    16  ;    34;    42  ;    51  
+5 ;          Santos Laguna     ; 38   ;   12  ;    10  ;    16  ;    34;    42  ;    51  
 
 Group: Group 4
 1 ;          Atlante                    ; 38   ;   19  ;    12  ;    7   ;    50;    65  ;    47  
@@ -1170,7 +1170,7 @@ Season: 1992-1993
 Group: Group 1
 1  ;         Atlante    ; 38   ;   14  ;    13  ;    11  ;    41;    66  ;    55  
 2  ;         Veracruz   ; 38   ;   14  ;    9   ;    15  ;    37;    56  ;    56  
-3  ;         Santos     ; 38   ;   7   ;    14  ;    17  ;    28;    34  ;    61  
+3  ;         Santos Laguna     ; 38   ;   7   ;    14  ;    17  ;    28;    34  ;    61  
 4  ;         Querétaro  ; 38   ;   10  ;    7   ;    21  ;    27;    30  ;    54  
 5  ;         U.A.T.     ; 38   ;   6   ;    12  ;    20  ;    24;    27  ;    55  
 
@@ -1200,7 +1200,7 @@ Group: Group 4
 Season: 1993-1994
 
 Group: Group 1
-1 ;    Santos                           ; 38   ;   16  ;    13  ;    9   ;    45;    58  ;    56  
+1 ;    Santos Laguna                           ; 38   ;   16  ;    13  ;    9   ;    45;    58  ;    56  
 2 ;    Necaxa                           ; 38   ;   12  ;    15  ;    11  ;    39;    54  ;    52  
 3 ;    Puebla                           ; 38   ;   9   ;    16  ;    13  ;    34;    41  ;    49  
 4 ;    U.A.N.L.                         ; 38   ;   7   ;    16  ;    15  ;    30;    34  ;    58  
@@ -1253,7 +1253,7 @@ Group: Group 3
 5   ;        Tampico Madero ;     36      ;8       ;7       ;21      ;   23;41      ;74   
 
 Group: Group 4
-1  ;         Santos     ; 36   ;   13  ;    9   ;    14  ;    35;    61  ;    62  
+1  ;         Santos Laguna     ; 36   ;   13  ;    9   ;    14  ;    35;    61  ;    62  
 2  ;         Monterrey  ; 36   ;   9   ;    15  ;    12  ;    33;    37  ;    52  
 3  ;         Atlas      ; 36   ;   12  ;    8   ;    16  ;    32;    43  ;    52  
 4  ;         Club Leon       ; 36   ;   11  ;    9   ;    16  ;    31;    39  ;    55  
@@ -1265,7 +1265,7 @@ Group: Group 1
 1    ;       Veracruz         ;   34    ;  15    ;  5    ;   14    ;  50;  44     ; 45    
 2    ;       U.A.N.L.         ;   34    ;  12    ;  13   ;   9     ;  49;  38     ; 38    
 3    ;       Guadalajara      ;   34    ;  11    ;  10   ;   13    ;  43;  37     ; 42    
-4    ;       Santos           ;   34    ;  9     ;  10   ;   15    ;  37;  41     ; 43    
+4    ;       Santos Laguna           ;   34    ;  9     ;  10   ;   15    ;  37;  41     ; 43    
 5    ;       Toluca           ;   34    ;  10    ;  7    ;   17    ;  37;  33     ; 45    
 
 Group: Group 2
