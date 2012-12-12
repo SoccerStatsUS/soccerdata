@@ -39,7 +39,7 @@ NASL; 1968; Baltimore; ; 14; Los Angeles; a; 1,2; ; Art Welch; 6183
 NASL; 1968; Baltimore; ; 21; Oakland; h; 0,0; ; ; 7345
 NASL; 1968; Baltimore; ; 25; San Diego; h; 0,2; ; ; 2876
 NASL; 1968; Baltimore; ; 1; New York; a; 1,2; ; Art Welch; 2963
-NASL; 1968; Baltimore; ; 4; Cleveland; a; 1,2; ; Art Welch; 
+NASL; 1968; Baltimore; ; 4; Cleveland; h; 1,2; ; Art Welch; 
 NASL; 1968; Baltimore; ; 10; Detroit; a; 2,1; ; Nikolic, Claesson; 
 NASL; 1968; Baltimore; ; 14; Houston; h; 3,1; ; Uriel, Asher Welch, Art Welch; 2481
 NASL; 1968; Baltimore; ; 18; Dallas; h; 3,0; ; St. Vil, Lopez, Mendez; 3820
@@ -255,7 +255,7 @@ NASL; 1968; Houston; ; 3; Vancouver; a; 1,2; ; Szalay; 7307
 NASL; 1968; Houston; ; 7; San Diego; a; 2,1; ; Own Goal, Szalay; 2306
 NASL; 1968; Houston; ; 14; Dallas; h; 4,0; ; Merrayo, Bjerre, Szalay, Juracy; 3411
 NASL; 1968; Houston; ; 17; Kansas City; h; 3,0; ; Szalay, Bjerre, Magyar; 3566
-NASL; 1968; Houston; ; 20; St. Louis; h; 0,0; ; ; 4399
+NASL; 1968; Houston; ; 20; St. Louis; a; 0,0; ; ; 4399
 NASL; 1968; Houston; ; 28; San Diego; h; 1,1; ; Bjerre; 3885
 NASL; 1968; Houston; ; 1; Cleveland; h; 3,2; ; Bjerre, Togacic, Juracy; 2669
 NASL; 1968; Houston; ; 4; St. Louis; h; 2,0; ; Benedek, Bjerre; 1692
