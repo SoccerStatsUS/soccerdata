@@ -230,22 +230,29 @@ def get_full_name(name, season):
 
 
 def process_nasl_games():
-    return process_games(nasl_games_filename, ';')
+    return process_games(nasl_games_filename, ';')[0]
+
+def process_nasl_goals():
+    return process_games(nasl_games_filename, ';')[1]
 
 def process_npsl_games():
-    return process_games(nasl0_games_filename, '\t')
+    return process_games(nasl0_games_filename, '\t')[0]
 
 
 def process_games(fn, delimiter):
     f = open(fn)
     
-    l = []
+    game_list = []
+    goal_list = []
     gp = GameProcessor(delimiter)
     for line in f:
         g = gp.consume_row(line)
         if g:
-            l.append(g)
-    return l
+            game_data, goals = g
+            game_list.append(game_data)
+            goal_list.extend(goals)
+            print goals
+    return game_list, goal_list
 
 
 
@@ -318,7 +325,7 @@ class GameProcessor(object):
         else:
             attendance = int(attendance)
 
-        return {
+        game_data = {
             'competition': competition,
             'season': season,
             'date': d,
@@ -330,6 +337,20 @@ class GameProcessor(object):
             'attendance': attendance,
             'source': 'NASL - A Complete Record of the North American Soccer League',
             }
+
+        goal_list = []
+        for goal in goals.split(','):
+            goal_list.append({
+                    'team': home_team,
+                    'season': season,
+                    'competition': competition,
+                    'date': d,
+                    'goal': goal,
+                    'minute': None,
+                    'assists': []
+                })
+
+        return game_data, goal_list
 
 
 
