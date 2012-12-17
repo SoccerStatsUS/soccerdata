@@ -4,11 +4,38 @@
 
 import datetime
 import os
+import re
 
 from soccerdata.cache import data_cache
 from soccerdata.mongo import soccer_db
 
 
+
+def load_appearance_rosters():
+    # For converting Colin Jose name abbreviations into actual names.
+    d = {}
+    season = None
+    NASL_ROSTERS_DIR = '/home/chris/www/soccerdata/data/rosters/nasl'
+    f = open(NASL_ROSTERS_DIR)
+    for line in f:
+        if not line.strip():
+            continue
+
+        if line.startswith('Season:'):
+            season = line.split("Season:")[1].strip()
+        else:
+            team, players = line.split(':')
+            player_list = [e.strip() for e in players.split(',')]
+            d[(season, team)] = player_list
+
+    return d
+
+
+
+def player_from_abbreviation(code, roster):
+    mapping = 'abcdefghijklmnopqrstuvwxyz1234'
+    i = mapping.find(code)
+    return roster[i]
 
 
 # This is for the New NASL!!!
@@ -61,7 +88,7 @@ def process_stats():
 
 
 nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/nasl'
-nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/npsl0.csv'
+nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/npsl00.csv'
 
 
 foreign_map = {
@@ -235,8 +262,15 @@ def process_nasl_games():
 def process_nasl_goals():
     return process_games(nasl_games_filename, ';')[1]
 
+def process_nasl_lineups():
+    return process_games(nasl_games_filename, ';')[2]
+
 def process_npsl_games():
-    return process_games(nasl0_games_filename, '\t')[0]
+    return process_games(nasl0_games_filename, ';')[0]
+
+def process_npsl_goals():
+    return process_games(nasl0_games_filename, ';')[1]
+
 
 
 def process_games(fn, delimiter):
@@ -244,15 +278,16 @@ def process_games(fn, delimiter):
     
     game_list = []
     goal_list = []
+    appearance_list = []
     gp = GameProcessor(delimiter)
     for line in f:
         g = gp.consume_row(line)
         if g:
-            game_data, goals = g
+            game_data, goals, appearances = g
             game_list.append(game_data)
             goal_list.extend(goals)
-            print goals
-    return game_list, goal_list
+            appearance_list.extend(appearances)
+    return game_list, goal_list, appearance_list
 
 
 
@@ -263,14 +298,20 @@ class GameProcessor(object):
         self.day = None
 
         self.delimiter = delimiter
-        
+
+        self.rosters = load_appearance_rosters()
+
 
     def consume_row(self, row):
         fields = row.split(self.delimiter)
-        if len(fields) != 11:
-            import pdb; pdb.set_trace()
 
-        competition, season, team, month, day, opponent, location, score, notes, goals, attendance = [e.strip() for e in fields]
+        if len(fields) == 11:
+            competition, season, team, month, day, opponent, location, score, flags, goals, attendance = [e.strip() for e in fields]
+            players = []
+        elif len(fields) == 12:
+            competition, season, team, month, day, opponent, location, score, flags, goals, attendance, players = [e.strip() for e in fields]
+        else:
+            import pdb; pdb.set_trace()
 
         # Skipping minigame for now.
         if day in ('M', 'SO', 'OT', 'SO-M'):
@@ -323,7 +364,22 @@ class GameProcessor(object):
         if not attendance.strip():
             attendance = None
         else:
-            attendance = int(attendance)
+            try:
+                attendance = int(attendance)
+            except:
+                import pdb; pdb.set_trace()
+
+
+        shootout_winner = None
+        if flags.strip() == '*':
+            if home_score > away_score:
+                shootout_winner = home_team
+            elif home_score < away_score:
+                shootout_winner = away_team
+            else:
+                import pdb; pdb.set_trace()
+
+            home_score = away_score = min(home_score, away_score)
 
         game_data = {
             'competition': competition,
@@ -335,22 +391,76 @@ class GameProcessor(object):
             'team2_score': away_score,
             'home_team': home_team,
             'attendance': attendance,
+            'shootout_winner': shootout_winner,
             'source': 'NASL - A Complete Record of the North American Soccer League',
             }
 
         goal_list = []
-        for goal in goals.split(','):
-            goal_list.append({
-                    'team': home_team,
-                    'season': season,
-                    'competition': competition,
-                    'date': d,
-                    'goal': goal,
-                    'minute': None,
-                    'assists': []
-                })
 
-        return game_data, goal_list
+
+        for goal in goals.split(','):
+            m = re.match("(.*?) (\d)", goal)
+            if m:
+                goal, count = m.groups()
+                count = int(count)
+            elif goal.strip():
+                count = 1
+            else:
+                # Empty results.
+                count = 0
+
+
+            for e in range(count):
+                goal_list.append({
+                        'team': team,
+                        'season': season,
+                        'competition': competition,
+                        'date': d,
+                        'goal': goal,
+                        'minute': None,
+                        'assists': []
+                        })
+
+        appearance_list = []
+
+        if '*' in players:
+            off = None
+        else:
+            off = 90
+
+
+        # No duplicates
+        #if len(players) != len(set(players)):
+        #    import pdb; pdb.set_trace()
+
+        for appearance_code in players:
+            if appearance_code == '*':
+                appearance_list[-1]['on'] = None
+            else:
+                roster = self.rosters[(season, team)]
+                try:
+                    name = player_from_abbreviation(appearance_code, roster)
+                except:
+                    print season, team
+                    print d
+                    print appearance_code
+                    raise
+
+                appearance_list.append({
+                        'name': name,
+                        'on': 0,
+                        'off': off,
+                        'team': team,
+                        'competition': competition,
+                        'date': d,
+                        'season': season,
+                        #'goals_for': goals_for,
+                        #'goals_against': goals_against,
+                        #'order': None,
+                        })
+            
+
+        return game_data, goal_list, appearance_list
 
 
 
