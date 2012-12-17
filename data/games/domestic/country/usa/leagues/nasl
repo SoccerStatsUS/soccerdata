@@ -93,7 +93,7 @@ NASL; 1968; Boston; ; 2; Washington; a; 2,1; ; Dyreborg, Sosa; 3410
 NASL; 1968; Boston; ; 6; Atlanta; h; 1,2; ; Dyreborg; 7319
 NASL; 1968; Boston; ; 9; New York; h; 2,2; ; Rijzenburg, Iposinovic; 2616
 NASL; 1968; Boston; ; 13; St. Louis; a; 3,1; ; Dyreborg 2, Liposinovic; 6643
-NASL; 1968; Boston; ; 18; Baltimore; a; 1,2; ; Rijzenburg, Iposinovic; 
+NASL; 1968; Boston; ; 18; Baltimore; a; 1,2; ; Rijzenburg; 
 NASL; 1968; Boston; ; 20; Dallas; h; 1,1; ; Fraser; 2130
 NASL; 1968; Boston; ; 25; Washington; h; 1,4; ; Ketema; 2521
 NASL; 1968; Boston; ; 3; Detroit; a; 2,1; ; Sosa, Dyreborg; 3229
@@ -161,7 +161,7 @@ NASL; 1968; Cleveland; ; 16; Detroit; a; 4,1; ; Mueller, Cid, Kresic, Turner; 47
 NASL; 1968; Cleveland; ; 20; Toronto; a; 2,0; ; Liotart, Mateos; 4056
 NASL; 1968; Cleveland; ; 24; Kansas City; h; 4,0; ; Mueller, Cid, Kresic, Turner; 6054
 NASL; 1968; Cleveland; ; 1; Houston; a; 2,3; ; Albrecht, Mateos; 2669
-NASL; 1968; Cleveland; ; 4; Chicago; h; 2,1; ; Cid 3, Kresic; 5629
+NASL; 1968; Cleveland; ; 4; Chicago; h; 2,1; ; Mateos, Liotart; 5629
 NASL Playoffs; 1968; Cleveland; ; 11; Atlanta; h; 1,1; ; Albrecht 2; 3431
 NASL Playoffs; 1968; Cleveland; ; 14; Atlanta; a; 1,2; ; Mateos, Liotart; 6645
 NASL; 1968; Dallas; 3; 30; Houston; h; 0,6; ; ; 1168
@@ -197,7 +197,7 @@ NASL; 1968; Dallas; ; 23; Los Angeles; h; 0,3; ; ; 2736
 NASL; 1968; Dallas; ; 30; Vancouver; h; 0,3; ; ; 1711
 NASL; 1968; Dallas; ; 6; Kansas City; h; 1,2; ; Foster; 3212
 NASL; 1968; Detroit; 3; 30; Atlanta; a; 1,2; ; Heineman; 11086
-NASL; 1968; Detroit; ; 20; Vancouver; h; 2,0; ; Kerr 2; 2700
+NASL; 1968; Detroit; ; 20; Vancouver; h; 2,1; ; Kerr 2; 2700
 NASL; 1968; Detroit; ; 23; Boston; a; 0,3; ; ; 4406
 NASL; 1968; Detroit; ; 26; Toronto; h; 6,1; ; Hunter, Heineman 4, Kristensen; 3329
 NASL; 1968; Detroit; ; 7; Washington; h; 2,1; ; Burgin, Cheetham; 2807
@@ -313,7 +313,7 @@ NASL; 1968; Los Angeles; ; 26; Dallas; h; 7,1; ; Piotti, C. Metidieri 3, Veall, 
 NASL; 1968; Los Angeles; ; 29; Vancouver; a; 0,1; ; ; 5583
 NASL; 1968; Los Angeles; ; 7; Atlanta; a; 1,2; ; C. Metidieri; 3780
 NASL; 1968; Los Angeles; ; 10; Washington; a; 2,4; ; Veall, C. Metidieri; 3848
-NASL; 1968; Los Angeles; ; 14; San Diego; h; 2,1; ; Ford; 1231
+NASL; 1968; Los Angeles; ; 14; San Diego; h; 2,1; ; Ford 2; 1231
 NASL; 1968; Los Angeles; ; 17; Dallas; h; 1,2; ; Lightowler; 1033
 NASL; 1968; Los Angeles; ; 20; Houston; a; 0,1; ; ; 3331
 NASL; 1968; Los Angeles; ; 28; Houston; h; 4,1; ; C. Metidieri 2, G. Metidieri, Walker; 1087
@@ -477,7 +477,7 @@ NASL; 1968; Toronto; ; 18; Washington; h; 2,2; ; DeBrito 2; 5427
 NASL; 1968; Toronto; ; 21; Washington; a; 2,3; ; Lima, DeBrito; 5226
 NASL; 1968; Toronto; ; 28; Baltimore; h; 3,3; ; DeBrito, Harvey, Lopez; 15514
 NASL; 1968; Toronto; ; 2; Chicago; a; 0,2; ; ; 2111
-NASL; 1968; Toronto; ; 6; Detroit; h; 1,0; ; DeBrito 2; 2449
+NASL; 1968; Toronto; ; 6; Detroit; h; 1,0; ; DeBrito; 2449
 NASL; 1968; Toronto; ; 12; Oakland; h; 2,1; ; Lopez, Harvey; 5602
 NASL; 1968; Toronto; ; 19; Vancouver; h; 4,3; ; Daucik 2, Lopez, DeBrito; 5171
 NASL; 1968; Toronto; ; 23; Boston; a; 3,2; ; Lopez, Daucik 2; 2874
@@ -686,7 +686,7 @@ NASL; 1970; Kansas City; 4; 25; Dallas; a; 1,0; ; Asher Welch; 788; abcdefghijkl
 NASL; 1970; Kansas City; ; 3; Rochester; a; 2,0; ; Seissler 2; 5381; abcdefhijkl
 NASL; 1970; Kansas City; ; 5; Coventry; h; 1,3; ; Szalay; ; abcdefhijkl
 NASL; 1970; Kansas City; ; 10; Rochester; h; 2,2; ; Hanek, Durante; 2940; abcdefg*hijkl
-NASL; 1970; Kansas City; ; 17; Washington; h; 4,0; ; Szalay, Seissler, Asher, Welch, Oliveira; 2483; abcdefg*hijklm*
+NASL; 1970; Kansas City; ; 17; Washington; h; 4,0; ; Szalay, Seissler, Asher Welch, Oliveira; 2483; abcdefg*hijklm*
 NASL; 1970; Kansas City; ; 23; Atlanta; a; 0,1; ; ; 2667; abcdefghij*kl
 NASL; 1970; Kansas City; ; 24; Washington; a; 1,4; ; Oliveira; 2673; abcdefg*hijkln*
 NASL; 1970; Kansas City; ; 30; hertha; h; 1,2; ; Durante; 2050; acdfghijkln*o
@@ -1312,7 +1312,7 @@ NASL; 1974; Boston; ; 25; Vancouver; a; 0,1; ; ; 11148; abc*defghjlmno*
 NASL; 1974; Boston; ; 26; Seattle; a; 1,0; ; Eickerling; 12945; abc*defghlmno
 NASL; 1974; Boston; ; 31; Baltimore; a; 2,3; ; Eickerling, Coyne; 3010; abc*defghlmnop*
 NASL; 1974; Boston; ; 2; New York; a; 1,2; ; Metidieri; 1153; bcefghijmnpq*
-NASL; 1974; Boston; ; 5; Los Angeles; h; 1,2; ; Greenwood; 7062; abcefghjmnr
+NASL; 1974; Boston; ; 5; Los Angeles; h; 1,2; *; Greenwood; 7062; abcefghjmnr
 NASL; 1974; Boston; ; 9; Baltimore; h; 4,1; ; Greenwood, Eickerling, Coyne, Metidieri; 4347; abcefghi*jmnr
 NASL; 1974; Boston; ; 12; Philadelphia; a; 2,3; *; Coyne 2; 8814; abcefghjmnrs*
 NASL; 1974; Boston; ; 15; Toronto; h; 3,0; ; Coker, Metidieri 2; 10185; abcefghi*jmnrs*
@@ -1331,17 +1331,17 @@ NASL Playoffs; 1974; Boston; ; 17; Los Angeles; a; 0,2; ; ; 5485; bd*efghjmnprst
 NASL; 1974; Dallas; 4; 27; St. Louis; h; 2,1; ; Mitic, Rote; 23904; abcdefg*hijkl
 NASL; 1974; Dallas; ; 4; Boston; h; 0,1; *; ; 9124; abcdefg*hijkl
 NASL; 1974; Dallas; ; 11; San Jose; a; 3,4; ; Mitic, Rote, Jackson; 15678; abcdeghijklm*n*
-NASL; 1974; Dallas; ; 12; Los Angeles; a; 2,1; ; Rote, Jackson; 5768; abcde*fghijklm*
+NASL; 1974; Dallas; ; 12; Los Angeles; a; 2,3; ; Rote, Jackson; 5768; abcde*fghijklm*
 NASL; 1974; Dallas; ; 18; Washington; a; 1,4; ; Jackson; 11887; abcde*fhijkln*o
 NASL; 1974; Dallas; ; 25; Philadelphia; h; 2,1; ; Jackson, Chadwick; 7939; abdfhijklpq
 NASL; 1974; Dallas; ; 2; Vancouver; h; 2,1; *; Rote; 9286; abdfhijklpq
-NASL; 1974; Dallas; ; 8; San Jose; h; 1,0; ; ; 9573; abdfhijkln*pq
-NASL; 1974; Dallas; ; 15; St. Louis; a; 3,2; ; Turner, Gore; 10572; abdfhijklpq
+NASL; 1974; Dallas; ; 8; San Jose; h; 1,0; *; ; 9573; abdfhijkln*pq
+NASL; 1974; Dallas; ; 15; St. Louis; a; 3,2; *; Turner, Gore; 10572; abdfhijklpq
 NASL; 1974; Dallas; ; 22; Denver; a; 3,2; ; Moffat, Jackson, Chadwick; 5520; abdhijklpqrs*
 NASL; 1974; Dallas; ; 29; Seattle; h; 0,1; *; ; 5798; abdf*hijklo*pqr
 NASL; 1974; Dallas; ; 6; Los Angeles; h; 3,0; ; Mitic, Gore, Garcia; 4692; abdhi*jlopqrs
 NASL; 1974; Dallas; ; 13; Seattle; a; 1,0; ; Own Goal; 14876; abdf*hjlopqrs
-NASL; 1974; Dallas; ; 14; Vancouver; a; 2,3; ; Mitic, Garcia; 11814; abdf*hijk*lpqrs
+NASL; 1974; Dallas; ; 14; Vancouver; a; 2,3; *; Mitic, Garcia; 11814; abdf*hijk*lpqrs
 NASL; 1974; Dallas; ; 20; St. Louis; h; 4,1; ; Mitic, Gore, Chadwick, Garcia; 6088; abdhij*k*lopqrs
 NASL; 1974; Dallas; ; 27; Denver; h; 4,0; ; Mitic 2, Rote, Renshaw; 5106; abdhijk*lo*pqrs
 NASL; 1974; Dallas; ; 31; St. Louis; a; 2,0; ; Rote, Renshaw; 4068; abdhijkloqrt*
@@ -1409,7 +1409,7 @@ NASL; 1974; Miami; ; 12; Boston; h; 2,1; ; Aguirre, David; 4429; abcdefghi*jkn
 NASL; 1974; Miami; ; 17; Toronto; a; 3,0; ; Wright, Sharp, Archibald; 2872; abcde*fghi*lnop
 NASL; 1974; Miami; ; 19; Seattle; h; 2,1; ; Aguirre, David; 9021; abcde*fghjlno
 NASL; 1974; Miami; ; 24; Boston; a; 0,3; ; ; 9736; abcdfghi*jlnop*
-NASL; 1974; Miami; ; 26; Philadelphia; a; 2,1; ; David 2, Scharmann; 14220; abcde*fghi*jkno
+NASL; 1974; Miami; ; 26; Philadelphia; a; 2,1; ; David 2; 14220; abcde*fghi*jkno
 NASL; 1974; Miami; ; 2; Dallas; h; 1,0; *; ; 7070; abcde*ghijnopq*
 NASL; 1974; Miami; ; 9; Philadelphia; h; 2,0; ; Archibald, David; 7047; abcdeghijl*m*no
 NASL Playoffs; 1974; Miami; ; 17; Dallas; h; 3,1; ; Archibald, Watts 2; 5045; abcdeghijl*m*no
@@ -1431,7 +1431,7 @@ NASL; 1974; New York; ; 12; Baltimore; a; 2,3; *; Scott 2; 3467; abeghi*jnq*rstu
 NASL; 1974; New York; ; 19; Rochester; a; 0,1; ; ; 9255; acdehimnqrs
 NASL; 1974; New York; ; 21; Seattle; h; 2,1; ; Siega, Liveric; 4326; abcdhjkmnrs
 NASL; 1974; New York; ; 28; Toronto; h; 3,2; *; Jarman, Horton; 3003; abcdfg*hjkmnq*r
-NASL; 1974; New York; ; 31; Toronto; a; 1,2; ; Horton; 2226; abcde*ghi*jkqrs
+NASL; 1974; New York; ; 31; Toronto; a; 1,2; *; Horton; 2226; abcde*ghi*jkqrs
 NASL; 1974; New York; ; 4; St. Louis; h; 2,1; ; Dawes, Fink; 3074; abce*g*ijkmqrsu
 NASL; 1974; New York; ; 11; Washington; a; 1,2; ; Horton; 3621; abceg*h*ijkqrsu
 NASL; 1974; Philadelphia; 5; 4; Washington; a; 5,1; ; Provan 4, Fryatt; 10145; abcdefg*hijk*lm
@@ -1483,7 +1483,7 @@ NASL; 1974; St. Louis; ; 25; Los Angeles; h; 2,4; ; Trost, Seerey; 6914; abcd*ef
 NASL; 1974; St. Louis; ; 27; Denver; a; 3,1; ; McBride 2, Vaninger; 3549; abcefghikmn
 NASL; 1974; St. Louis; ; 5; Denver; h; 2,3; ; Trost, Vaninger; 8229; abcefghikmnp*
 NASL; 1974; St. Louis; ; 12; Toronto; a; 2,1; ; Trost, Vaninger; 3139; abcefghikl*mn
-NASL; 1974; St. Louis; ; 15; Dallas; h; 2,3; ; McBride, Vaninger; 10572; abcefghij*kmnq*
+NASL; 1974; St. Louis; ; 15; Dallas; h; 2,3; *; McBride, Vaninger; 10572; abcefghij*kmnq*
 NASL; 1974; St. Louis; ; 21; Baltimore; a; 2,1; ; Geimer, Matteson; 3339; abcefghijkm*nq*
 NASL; 1974; St. Louis; ; 29; Denver; h; 2,3; ; Trost, Vaninger; 7871; abcd*efghijkm*n
 NASL; 1974; St. Louis; ; 6; Seattle; a; 0,1; ; ; 14335; abcefghijkm*nq*
@@ -1505,7 +1505,7 @@ NASL; 1974; San Jose; ; 8; Dallas; a; 0,1; *; ; 9573; a*bcdfghjmnpqr*
 NASL; 1974; San Jose; ; 16; Los Angeles; a; 2,1; ; Welch, Child; 6130; bdf*ghijk*mnpqr
 NASL; 1974; San Jose; ; 17; Denver; a; 3,5; ; Roboostoff, Child 2; 3532; bde*fghijmpqr
 NASL; 1974; San Jose; ; 22; New York; h; 3,2; ; Zajdel, Moore; 15445; bcefgh*ijmnqrs*
-NASL; 1974; San Jose; ; 30; Seattle; h; 2,3; ; Perez, Child; 13638; bcd*eghijmnqrs*
+NASL; 1974; San Jose; ; 30; Seattle; h; 2,3; *; Perez, Child; 13638; bcd*eghijmnqrs*
 NASL; 1974; San Jose; ; 3; Philadelphia; a; 1,2; ; Coskunian; 10003; bcd*fg*ijmnqrst
 NASL; 1974; San Jose; ; 6; Boston; a; 2,1; ; Bandov, Child; 10180; bcefgijmnqrs*
 NASL; 1974; San Jose; ; 13; Denver; h; 2,1; ; Roboostoff, Child; 15862; bcd*efgh*ijmnqr
@@ -1538,7 +1538,7 @@ NASL; 1974; Seattle; ; 11; Vancouver; h; 2,1; ; Gabriel, Rowlands; 14876; acdefi
 NASL; 1974; Toronto; 5; 5; Denver; a; 3,2; ; Burns, Pilas, Roe; 12885; abcdefgh*ijklm*
 NASL; 1974; Toronto; ; 10; Miami; a; 2,1; ; Pinto, Lazarevic; 18290; abcdefgh*ijklm*
 NASL; 1974; Toronto; ; 19; Vancouver; h; 2,1; ; Lazarevic, Polak; 5130; abcdefghijkn*o*
-NASL; 1974; Toronto; ; 5; Seattle; h; 1,2; ; Lazarevic, Polak; 4278; abcdefgi*jklo
+NASL; 1974; Toronto; ; 5; Seattle; h; 1,2; ; Lazarevic; 4278; abcdefgi*jklo
 NASL; 1974; Toronto; ; 8; Washington; a; 1,0; ; Wallace; 4187; bcdeghijkln*o*p
 NASL; 1974; Toronto; ; 12; St. Louis; h; 1,2; ; Drobnjak; 3139; bcdefghiklm*pq*
 NASL; 1974; Toronto; ; 15; Boston; a; 0,3; ; ; 10185; bcdeghilm*nop
@@ -1645,7 +1645,7 @@ NASL; 1975; Chicago; 5; 2; Denver; h; 0,2; ; ; 4536; bcdeflmn*opqr
 NASL; 1975; Chicago; ; 9; Dallas; h; 3,2; ; Getzinger, Moore, Hill; 4264; abcdefmnopqs*
 NASL; 1975; Chicago; ; 16; Los Angeles; h; 1,0; ; May; 4117; bcdemopqrst
 NASL; 1975; Chicago; ; 21; San Antonio; a; 2,1; ; Allen, Hill; 3711; abcdemopqstu*
-NASL; 1975; Chicago; ; 23; San Jose; h; 2,3; ; Hill 2; 4081; a*bcdef*mopqrst
+NASL; 1975; Chicago; ; 23; San Jose; h; 2,3; *; Hill 2; 4081; a*bcdef*mopqrst
 NASL; 1975; Chicago; ; 30; Portland; a; 0,2; ; ; 9526; abcdmopqstuv*
 NASL; 1975; Chicago; 6; 1; Seattle; a; 1,2; ; Moore; 16366; bcdfmopqrtu
 NASL; 1975; Chicago; ; 6; Denver; h; 1,0; ; Hill; 4094; abcdfmopqtu
@@ -1662,393 +1662,393 @@ NASL; 1975; Chicago; ; 25; San Antonio; h; 2,1; *; Hill; 6412; abcdemnop*qstu*v*
 NASL; 1975; Chicago; ; 2; St. Louis; a; 2,3; ; Allen, Hill; 7945; abcdemnoqstu*
 NASL; 1975; Chicago; ; 6; Tampa Bay; a; 3,0; ; Hill 2, Allen; 12761; abcdemnqs*tuv
 NASL; 1975; Chicago; ; 10; Washington; a; 1,2; *; Allen; 3519; abcdef*mnp*qstuv*
-NASL; 1975; Dallas; 4; 17; San Antonio; a; 1,2; +; Mitic; 5142
-NASL; 1975; Dallas; ; 19; St. Louis; a; 0,3; ; ; 8121
-NASL; 1975; Dallas; ; 27; Denver; h; 5,0; ; Moore 2, Rote, Reynolds, Mitic; 9232
-NASL; 1975; Dallas; ; 4; Washington; h; 0,2; ; ; 6502
-NASL; 1975; Dallas; ; 9; Chicago; a; 2,3; ; Jackson, Renshaw; 4264
-NASL; 1975; Dallas; ; 16; Seattle; h; 0,1; ; ; 4107
-NASL; 1975; Dallas; ; 23; Denver; h; 3,1; ; Chadwick, Renshaw, Rote; 3273
-NASL; 1975; Dallas; ; 31; San Jose; a; 1,0; ; Rote; 18027
-NASL; 1975; Dallas; ; 5; St. Louis; h; 3,2; +; Ley 2, Moore; 3426
-NASL; 1975; Dallas; ; 7; Denver; a; 1,2; ; Jackson; 5251
-NASL; 1975; Dallas; ; 14; San Antonio; a; 1,2; ; Rote; 5542
-NASL; 1975; Dallas; ; 18; Portland; a; 0,3; ; ; 14688
-NASL; 1975; Dallas; ; 20; Tampa Bay; h; 1,0; *; ; 4179
-NASL; 1975; Dallas; ; 24; Chicago; a; 2,1; ; McKenzie, Creamer; 2353
-NASL; 1975; Dallas; ; 27; Vancouver; h; 2,1; ; Ley, Rote; 3436
-NASL; 1975; Dallas; ; 5; St. Louis; h; 0,2; ; ; 4693
-NASL; 1975; Dallas; ; 12; Chicago; h; 2,4; ; Ley, Turner; 4102
+NASL; 1975; Dallas; 4; 17; San Antonio; a; 1,2; +; Mitic; 5142; abcdefg*hijkl
+NASL; 1975; Dallas; ; 19; St. Louis; a; 0,3; ; ; 8121; abcdefhiklmn*
+NASL; 1975; Dallas; ; 27; Denver; h; 5,0; ; Moore 2, Rote, Reynolds, Mitic; 9232; abcdefg*hi*lmnop*
+NASL; 1975; Dallas; ; 4; Washington; h; 0,2; ; ; 6502; abcdehmnopq*rs*
+NASL; 1975; Dallas; ; 9; Chicago; a; 2,3; ; Jackson, Renshaw; 4264; abcde*fmopqrs
+NASL; 1975; Dallas; ; 16; Seattle; h; 0,1; ; ; 4107; abcdfg*h*i*mopqrs
+NASL; 1975; Dallas; ; 23; Denver; h; 3,1; ; Chadwick, Renshaw, Rote; 3273; ab*cde*fg*hmopqrs
+NASL; 1975; Dallas; ; 31; San Jose; a; 1,0; ; Rote; 18027; abcde*fi*mnpqrs
+NASL; 1975; Dallas; ; 5; St. Louis; h; 3,2; +; Ley 2, Moore; 3426; abcdefgh*i*mnpqr
+NASL; 1975; Dallas; ; 7; Denver; a; 1,2; ; Jackson; 5251; abdefgmnpqr
+NASL; 1975; Dallas; ; 14; San Antonio; a; 1,2; ; Rote; 5542; abdefg*mnp*qrst
+NASL; 1975; Dallas; ; 18; Portland; a; 0,3; ; ; 14688; abdefmnp*qrst
+NASL; 1975; Dallas; ; 20; Tampa Bay; h; 1,0; *; ; 4179; abdefg*hi*mnpqs*t
+NASL; 1975; Dallas; ; 24; Chicago; a; 2,1; ; McKenzie, Creamer; 2353; abefhmnpqtu
+NASL; 1975; Dallas; ; 27; Vancouver; h; 2,1; ; Ley, Rote; 3436; abd*efg*mnpqr*stu
+NASL; 1975; Dallas; ; 5; St. Louis; h; 0,2; ; ; 4693; abefi*m*npqrstu
+NASL; 1975; Dallas; ; 12; Chicago; h; 2,4; ; Ley, Turner; 4102; abcefg*npqrtu
 NASL; 1975; Dallas; ; 19; Los Angeles; a; 1,3; ; Chadwick; 9115
-NASL; 1975; Dallas; ; 24; Baltimore; a; 0,3; ; ; 2124
-NASL; 1975; Dallas; ; 25; Philadelphia; a; 2,1; *; McKenzie; 3503
-NASL; 1975; Dallas; ; 2; Miami; h; 1,2; +; Reynolds; 2843
-NASL; 1975; Dallas; ; 9; San Antonio; h; 5,0; ; Moffat, McKenzie, Moore 2, Reynolds; 5139
-NASL; 1975; Denver; 4; 27; Dallas; a; 0,5; ; ; 9232
-NASL; 1975; Denver; ; 2; Chicago; a; 2,0; ; Flater, Ngcobo; 4536
-NASL; 1975; Denver; ; 11; Portland; h; 3,1; ; Ntsoelengoe, Flater, Ngcobo; 4267
-NASL; 1975; Denver; ; 18; San Jose; h; 2,1; ; Dawes, Flater; 3897
-NASL; 1975; Denver; ; 23; Dallas; a; 1,3; ; Flater; 3273
-NASL; 1975; Denver; ; 28; Tampa Bay; a; 2,3; ; Dawes, Flater; 5281
-NASL; 1975; Denver; ; 30; Miami; a; 0,2; ; ; 4156
-NASL; 1975; Denver; ; 4; Los Angeles; h; 4,1; ; Ntsoelengoe, Flater, Motaung, Cassidy; 5181
-NASL; 1975; Denver; ; 6; Chicago; a; 0,1; ; ; 4094
-NASL; 1975; Denver; ; 7; Dallas; h; 2,1; ; Ntsoelengoe, Flater; 5251
-NASL; 1975; Denver; ; 14; Seattle; a; 1,2; +; Ntsoelengoe; 16737
-NASL; 1975; Denver; ; 18; St. Louis; h; 0,2; ; ; 4105
-NASL; 1975; Denver; ; 27; Philadelphia; a; 0,1; ; ; 5007
-NASL; 1975; Denver; ; 2; San Antonio; h; 6,2; ; Ntsoelengoe, Flater, Motaung 2, Ngcobo 2; 2848
-NASL; 1975; Denver; ; 12; St. Louis; a; 5,2; ; Ntsoelengoe 2, Flater 2, Ngcobo; 5762
-NASL; 1975; Denver; ; 13; Washington; h; 1,2; *; Ntsoelengoe; 3426
-NASL; 1975; Denver; ; 18; San Antonio; a; 0,1; ; ; 5993
-NASL; 1975; Denver; ; 23; Chicago; h; 2,3; +; Short, Howe; 3443
-NASL; 1975; Denver; ; 26; Baltimore; h; 1,2; ; Motaung; 2818
-NASL; 1975; Denver; ; 31; Vancouver; a; 0,6; ; ; 4528
-NASL; 1975; Denver; ; 3; San Antonio; h; 2,1; ; Short, Ntsoelengoe; 2165
-NASL; 1975; Denver; ; 7; St. Louis; h; 3,0; ; Short, Veitch, Ntsoelengoe; 2793
-NASL; 1975; Hartford; 4; 25; Miami; a; 0,4; ; ; 4087
-NASL; 1975; Hartford; ; 3; Boston; h; 1,0; ; Own Goal; 3028
-NASL; 1975; Hartford; ; 14; New York; a; 2,1; *; H. McCully; 6103
-NASL; 1975; Hartford; ; 17; Tampa Bay; h; 1,3; ; Travljanin; 310
-NASL; 1975; Hartford; ; 24; Vancouver; h; 1,0; ; Own Goal; 3210
-NASL; 1975; Hartford; ; 31; Philadelphia; h; 2,3; ; Schellscheidt, Fryatt; 3660
-NASL; 1975; Hartford; ; 4; New York; a; 1,2; ; C. McCully; 5227
-NASL; 1975; Hartford; ; 7; Seattle; h; 2,4; ; Smuda, C. McCully; 1146
-NASL; 1975; Hartford; ; 14; Toronto; a; 0,1; ; ; 2171
-NASL; 1975; Hartford; ; 27; Boston; h; 1,3; ; Smuda; 6330
-NASL; 1975; Hartford; ; 3; Rochester; h; 1,2; ; C. McCully; 2180
-NASL; 1975; Hartford; ; 9; Washington; a; 0,1; ; ; 2045
-NASL; 1975; Hartford; ; 11; Portland; h; 1,3; ; Clemencia; 2582
-NASL; 1975; Hartford; ; 13; Rochester; a; 0,1; ; ; 7639
-NASL; 1975; Hartford; ; 16; Toronto; h; 0,5; ; ; 3708
-NASL; 1975; Hartford; ; 21; Baltimore; a; 2,3; ; Travljanin, Rajski; 1876
-NASL; 1975; Hartford; ; 25; San Jose; a; 4,3; *; Schellscheidt, C. McCully, H. McCully; 16238
-NASL; 1975; Hartford; ; 26; Los Angeles; a; 0,5; ; ; 8239
-NASL; 1975; Hartford; ; 1; New York; h; 3,1; ; Kelly, Rajski 2; 8546
-NASL; 1975; Hartford; ; 7; Toronto; a; 1,2; ; Smuda; 4215
-NASL; 1975; Hartford; ; 9; Boston; a; 0,3; ; ; 5139
-NASL; 1975; Hartford; ; 10; Rochester; h; 4,1; ; Travljanin 3, Rajski; 3120
-NASL; 1975; Los Angeles; 4; 18; San Jose; a; 2,1; ; Fishaa, Douglas; 18347
-NASL; 1975; Los Angeles; ; 26; San Antonio; a; 3,0; ; Sibbald, Banhoffer, Veee; 7447
-NASL; 1975; Los Angeles; ; 3; St. Louis; h; 2,0; ; Veee, McMillan; 7920
-NASL; 1975; Los Angeles; ; 9; Vancouver; h; 0,3; ; ; 7155
-NASL; 1975; Los Angeles; ; 11; Seattle; a; 1,3; ; Velazquez; 15879
-NASL; 1975; Los Angeles; ; 16; Chicago; a; 0,1; ; ; 4117
-NASL; 1975; Los Angeles; ; 23; Boston; a; 0,3; ; ; 7432
-NASL; 1975; Los Angeles; ; 30; Seattle; h; 4,1; ; Lopez, Banhoffer 2, Veee; 7043
-NASL; 1975; Los Angeles; ; 4; Denver; a; 1,4; ; Fishaa; 5181
-NASL; 1975; Los Angeles; ; 7; San Jose; h; 5,1; ; Sibbald, Banhoffer 2, Douglas 2; 7833
-NASL; 1975; Los Angeles; ; 11; Vancouver; a; 0,1; +; ; 9168
-NASL; 1975; Los Angeles; ; 20; Rochester; a; 1,0; ; Fishaa; 4513
-NASL; 1975; Los Angeles; ; 21; Toronto; a; 3,4; ; Banhoffer 3; 3184
-NASL; 1975; Los Angeles; ; 27; Portland; h; 1,2; +; Russell; 6609
-NASL; 1975; Los Angeles; ; 29; Seattle; a; 2,1; *; Veee; 16360
-NASL; 1975; Los Angeles; ; 3; New York; h; 5,1; ; Banhoffer 3, Veee, Douglas; 12176
-NASL; 1975; Los Angeles; ; 8; Portland; a; 1,4; ; Veee; 17765
-NASL; 1975; Los Angeles; ; 12; Vancouver; h; 1,0; ; Ferguson; 7604
-NASL; 1975; Los Angeles; ; 19; Dallas; h; 3,1; ; Moraldo, Douglas, Fagan; 9115
-NASL; 1975; Los Angeles; ; 26; Hartford; h; 5,0; ; Lopez, Russell, Banhoffer 3; 8239
-NASL; 1975; Los Angeles; ; 2; San Jose; a; 1,2; +; Ferguson; 17803
-NASL; 1975; Los Angeles; ; 9; Portland; h; 1,0; ; Sibbald, Banhoffer 2, Douglas 2; 10231
-NASL Playoffs; 1975; Los Angeles; ; 13; St. Louis; a; 1,2; *; Mason; 6119
-NASL; 1975; Miami; 4; 17; St. Louis; h; 1,0; ; David; 5036
-NASL; 1975; Miami; ; 25; Hartford; h; 4,0; ; Tinsley, Sharp, David 2; 4087
-NASL; 1975; Miami; ; 30; New York; a; 3,2; ; Proctor, David 2; 9328
-NASL; 1975; Miami; ; 2; Rochester; h; 4,3; ; Proctor, Archibald, David 2; 4382
-NASL; 1975; Miami; ; 9; Philadelphia; a; 0,1; ; ; 13821
-NASL; 1975; Miami; ; 16; Boston; h; 4,2; ; Guzman, Proctor, David 2; 1906
-NASL; 1975; Miami; ; 23; Washington; a; 3,1; ; Proctor 2, David; 8643
-NASL; 1975; Miami; ; 30; Denver; h; 2,0; ; Proctor 2; 4156
-NASL; 1975; Miami; ; 5; Tampa Bay; h; 0,1; ; ; 14259
-NASL; 1975; Miami; ; 11; Tampa Bay; a; 2,0; ; David, Jordan; 18654
-NASL; 1975; Miami; ; 20; Washington; h; 8,0; ; Aranguiz, Proctor 2, David 5; 4481
-NASL; 1975; Miami; ; 27; Baltimore; h; 3,0; ; Guzman, Tinsley, David; 3498
-NASL; 1975; Miami; ; 2; Baltimore; a; 2,3; ; Wright, Tinsley; 2274
-NASL; 1975; Miami; ; 8; Philadelphia; a; 1,2; ; David; 5072
-NASL; 1975; Miami; ; 10; Chicago; a; 0,2; ; ; 4201
-NASL; 1975; Miami; ; 13; Toronto; a; 0,2; ; ; 5364
-NASL; 1975; Miami; ; 18; Philadelphia; h; 1,2; +; Archibald; 3790
-NASL; 1975; Miami; ; 23; Tampa Bay; a; 1,5; ; David; 11415
-NASL; 1975; Miami; ; 25; Washington; h; 2,1; ; Bodonczy, David; 4063
-NASL; 1975; Miami; ; 1; San Antonio; a; 2,1; +; David 2; 3837
-NASL; 1975; Miami; ; 2; Dallas; a; 2,1; +; Archibald 2; 2843
-NASL; 1975; Miami; ; 8; Baltimore; h; 2,1; ; Bodonsky, David; 4469
-NASL Playoffs; 1975; Miami; ; 13; Boston; a; 2,1; +; Proctor, Archibald; 2187
-NASL Playoffs; 1975; Miami; ; 16; Tampa Bay; a; 0,3; ; ; 22710
-NASL; 1975; New York; 4; 30; Miami; h; 2,3; ; Correa, Liveric; 9328
-NASL; 1975; New York; ; 3; Tampa Bay; a; 0,1; ; ; 8378
-NASL; 1975; New York; ; 7; Baltimore; h; 5,1; ; Correa, Liveric, Fink 3; 7016
-NASL; 1975; New York; ; 14; Hartford; h; 1,2; ; Fink; 6103
-NASL; 1975; New York; ; 19; Toronto; a; 2,1; ; Dillon, Liveric; 4796
-NASL; 1975; New York; ; 28; Vancouver; h; 0,1; ; ; 7331
-NASL; 1975; New York; ; 4; Hartford; h; 2,1; ; Liveric, Paredes; 5227
-NASL; 1975; New York; ; 7; Rochester; a; 2,3; ; Shpigler 2; 4959
-NASL; 1975; New York; ; 10; Philadelphia; a; 0,1; ; ; 20124
-NASL; 1975; New York; ; 18; Toronto; h; 2,0; ; Correa, Shpigler; 22500
-NASL; 1975; New York; ; 27; Rochester; a; 3,0; ; Fink, Siega, Pele; 14562
-NASL; 1975; New York; ; 29; Washington; a; 9,2; ; Mahy, Paredes, Fink, Maria, Kerr, Shpigler 2, Pele 2; 35620
-NASL; 1975; New York; ; 3; Los Angeles; a; 1,5; ; Shpigler; 12176
-NASL; 1975; New York; ; 5; Seattle; a; 0,2; ; ; 17925
-NASL; 1975; New York; ; 9; Boston; h; 3,1; ; De La Fuente, Correa, Kerr; 18126
-NASL; 1975; New York; ; 16; Portland; h; 1,2; ; Pele; 13423
-NASL; 1975; New York; ; 19; Toronto; a; 0,3; ; ; 21573
-NASL; 1975; New York; ; 23; San Jose; h; 2,1; *; Pele; 11137
-NASL; 1975; New York; ; 30; Rochester; h; 2,0; ; Ord 2; 8217
-NASL; 1975; New York; ; 1; Hartford; a; 1,3; ; Liveric; 8546
-NASL; 1975; New York; ; 3; Boston; a; 0,5; ; ; 4445
-NASL; 1975; New York; ; 6; Boston; h; 1,0; ; Paredes; 6541
-NASL; 1975; Philadelphia; 5; 2; Baltimore; a; 1,0; ; Bahr; 4120
-NASL; 1975; Philadelphia; ; 9; Miami; h; 1,0; ; Smith; 13821
-NASL; 1975; Philadelphia; ; 11; St. Louis; a; 1,2; *; McLaughlin; 4180
-NASL; 1975; Philadelphia; ; 16; Washington; a; 1,2; ; O'Neill; 10860
-NASL; 1975; Philadelphia; ; 23; Toronto; h; 0,1; ; ; 7132
-NASL; 1975; Philadelphia; ; 31; Hartford; a; 3,2; *; Hope, McLaughlin; 3660
-NASL; 1975; Philadelphia; ; 10; New York; h; 1,0; +; Bahr; 20124
-NASL; 1975; Philadelphia; ; 13; Tampa Bay; h; 1,2; ; Hope; 5819
-NASL; 1975; Philadelphia; ; 17; Washington; h; 3,2; *; McLaughlin, Lewis; 7510
-NASL; 1975; Philadelphia; ; 20; Chicago; a; 2,6; ; Smith, Bahr; 3984
-NASL; 1975; Philadelphia; ; 27; Denver; h; 1,0; ; Bahr; 5007
-NASL; 1975; Philadelphia; ; 2; Washington; h; 1,4; ; McLaughlin; 2140
-NASL; 1975; Philadelphia; ; 5; Boston; a; 0,4; ; ; 3257
-NASL; 1975; Philadelphia; ; 8; Miami; h; 2,1; ; Bahr 2; 5072
-NASL; 1975; Philadelphia; ; 11; San Antonio; h; 2,3; ; Bahr, Hope; 4012
-NASL; 1975; Philadelphia; ; 18; Miami; a; 2,1; +; Bahr, Matos; 3790
-NASL; 1975; Philadelphia; ; 19; Tampa Bay; a; 1,2; ; Bahr; 10103
-NASL; 1975; Philadelphia; ; 25; Dallas; h; 1,2; *; Ellam; 3503
-NASL; 1975; Philadelphia; ; 29; Tampa Bay; h; 0,1; *; ; 4517
-NASL; 1975; Philadelphia; ; 1; Baltimore; h; 4,2; ; McLaughlin 3, Lewis; 3530
-NASL; 1975; Philadelphia; ; 8; Rochester; a; 5,2; ; Bahr 2, Hope, Galati, Own Goal; 2683
-NASL; 1975; Philadelphia; ; 10; Baltimore; a; 0,3; ; ; 1263
-NASL; 1975; Portland; 5; 2; Seattle; h; 0,1; ; ; 8131
-NASL; 1975; Portland; ; 7; Toronto; h; 1,0; ; Withe; 8500
-NASL; 1975; Portland; ; 11; Denver; a; 1,3; ; Withe; 4267
-NASL; 1975; Portland; ; 16; Vancouver; a; 2,0; ; Powell, Betts; 7815
-NASL; 1975; Portland; ; 27; Rochester; h; 3,2; +; Godfrey, Withe, Anderson; 6918
-NASL; 1975; Portland; ; 30; Chicago; h; 2,0; ; Withe, Anderson; 9526
-NASL; 1975; Portland; ; 7; Vancouver; h; 3,2; +; Day, Godfrey, Betts; 11335
-NASL; 1975; Portland; ; 14; San Jose; a; 1,2; ; Kelly; 17889
-NASL; 1975; Portland; ; 18; Dallas; h; 3,0; ; Powell, Betts, Kelly; 14688
-NASL; 1975; Portland; ; 21; San Antonio; h; 1,0; +; Anderson; 14080
-NASL; 1975; Portland; ; 27; Los Angeles; a; 2,1; +; Withe 2; 6609
-NASL; 1975; Portland; ; 28; San Jose; a; 2,1; ; Withe, Dangerfield; 18883
-NASL; 1975; Portland; ; 3; Vancouver; h; 2,1; ; Betts, Dangerfield; 18278
-NASL; 1975; Portland; ; 8; Los Angeles; h; 4,1; ; Withe, Betts, Kelly, Dangerfield; 17765
-NASL; 1975; Portland; ; 11; Hartford; a; 3,1; ; Day, Withe, Betts; 2582
-NASL; 1975; Portland; ; 12; Boston; a; 1,2; ; Dangerfield; 2800
-NASL; 1975; Portland; ; 16; New York; a; 2,1; ; Godfrey, Withe; 13423
-NASL; 1975; Portland; ; 19; St. Louis; a; 3,2; +; Lynch, McLaren, Withe; 6902
-NASL; 1975; Portland; ; 26; Seattle; h; 2,1; ; Withe 2; 27310
-NASL; 1975; Portland; ; 29; San Jose; h; 3,2; ; Powell, Withe 2; 23005
-NASL; 1975; Portland; ; 2; Seattle; a; 2,3; +; Powell, Withe; 17925
-NASL; 1975; Portland; ; 9; Los Angeles; a; 0,1; ; ; 10231
-NASL Playoffs; 1975; Portland; ; 12; Seattle; h; 2,1; +; Powell, Betts; 31523
-NASL Playoffs; 1975; Portland; ; 17; St. Louis; h; 1,0; ; Withe; 33503
-NASL Playoffs; 1975; Portland; ; 24; Tampa Bay; n; 0,2; ; ; 17009
-NASL; 1975; Rochester; 4; 26; Tampa Bay; a; 1,2; +; Ord; 12133
-NASL; 1975; Rochester; ; 2; Miami; a; 3,4; ; Gibbs, Ord 2; 4382
-NASL; 1975; Rochester; ; 9; Boston; a; 2,0; ; Rymarczuk, Ord; 6912
-NASL; 1975; Rochester; ; 25; Seattle; a; 0,1; ; ; 17086
-NASL; 1975; Rochester; ; 27; Portland; a; 2,3; +; Ord, Jijon; 6918
-NASL; 1975; Rochester; ; 30; Boston; a; 2,3; ; Gibbs, Ord; 3104
-NASL; 1975; Rochester; ; 1; Vancouver; h; 3,1; ; Durante 2, Ord; 4811
-NASL; 1975; Rochester; ; 6; San Jose; a; 0,5; ; ; 17552
-NASL; 1975; Rochester; ; 7; New York; h; 3,2; ; Odoi, Ord 2; 4959
-NASL; 1975; Rochester; ; 14; Boston; h; 4,1; ; Trzaskowski, Cupello, Ord, Jijon; 4205
-NASL; 1975; Rochester; ; 20; Los Angeles; h; 0,1; ; ; 4513
-NASL; 1975; Rochester; ; 22; Baltimore; h; 1,2; *; Ord; 3510
-NASL; 1975; Rochester; ; 27; New York; h; 0,3; ; ; 14562
-NASL; 1975; Rochester; ; 3; Hartford; a; 2,1; ; Durante, Ord; 2180
-NASL; 1975; Rochester; ; 6; Toronto; a; 0,3; ; ; 5109
-NASL; 1975; Rochester; ; 13; Hartford; h; 1,0; ; Ord; 7639
-NASL; 1975; Rochester; ; 18; Washington; h; 1,2; ; Odoi; 3366
-NASL; 1975; Rochester; ; 23; Toronto; h; 1,2; ; Ord; 5288
-NASL; 1975; Rochester; ; 30; New York; a; 0,2; ; ; 8217
-NASL; 1975; Rochester; ; 1; Toronto; h; 0,2; ; ; 3125
-NASL; 1975; Rochester; ; 8; Philadelphia; h; 2,5; ; Gibbs 2; 2683
-NASL; 1975; Rochester; ; 10; Hartford; a; 1,4; ; Escos; 3120
-NASL; 1975; St. Louis; 4; 17; Miami; a; 0,1; ; ; 5036
-NASL; 1975; St. Louis; ; 19; Dallas; h; 3,0; ; O'Leary, Vaninger 2; 8121
-NASL; 1975; St. Louis; ; 2; San Jose; a; 1,2; ; Hawley; 17553
-NASL; 1975; St. Louis; ; 3; Los Angeles; a; 0,2; ; ; 7920
-NASL; 1975; St. Louis; ; 9; San Antonio; a; 3,2; *; Carenza, Hawley; 1835
-NASL; 1975; St. Louis; ; 11; Philadelphia; h; 2,1; *; Hawley; 4180
-NASL; 1975; St. Louis; ; 18; Seattle; h; 3,2; *; Trost, Burnett; 5127
-NASL; 1975; St. Louis; ; 24; San Antonio; h; 1,0; ; Hawley; 2831
-NASL; 1975; St. Louis; ; 30; Washington; a; 4,3; *; Burnett 2, Pisani; 7238
-NASL; 1975; St. Louis; ; 31; Baltimore; a; 3,1; ; Trost, Hawley 2; 3000
-NASL; 1975; St. Louis; ; 6; Dallas; a; 2,3; +; Geimer 2; 3426
-NASL; 1975; St. Louis; ; 7; Chicago; h; 1,0; +; O'Leary; 6832
-NASL; 1975; St. Louis; ; 18; Denver; a; 2,0; ; Hawley, McBride; 4105
-NASL; 1975; St. Louis; ; 21; Tampa Bay; h; 1,2; *; Geimer; 7731
-NASL; 1975; St. Louis; ; 27; Chicago; a; 0,1; *; ; 4407
-NASL; 1975; St. Louis; ; 29; Vancouver; h; 2,1; ; Hawley 2; 4217
-NASL; 1975; St. Louis; ; 5; Dallas; a; 2,0; ; Trost, Burnett; 4693
-NASL; 1975; St. Louis; ; 12; Denver; h; 2,5; ; Carenza, Trost; 5762
-NASL; 1975; St. Louis; ; 19; Portland; h; 2,3; +; Carenza, Hawley; 6902
-NASL; 1975; St. Louis; ; 26; San Antonio; h; 1,0; ; Trost; 7129
-NASL; 1975; St. Louis; ; 2; Chicago; h; 3,2; ; Trost, Bokern, Hawley; 7945
-NASL; 1975; St. Louis; ; 8; Denver; a; 0,3; ; ; 2793
-NASL Playoffs; 1975; St. Louis; ; 13; Los Angeles; h; 2,1; *; Hawley; 6199
-NASL Playoffs; 1975; St. Louis; ; 17; Portland; a; 0,1; ; ; 33503
-NASL; 1975; San Antonio; 4; 17; Dallas; h; 2,1; +; Doherty, Filotis; 5142
-NASL; 1975; San Antonio; ; 26; Los Angeles; a; 0,3; ; ; 7447
-NASL; 1975; San Antonio; ; 3; Washington; h; 0,2; ; ; 5370
-NASL; 1975; San Antonio; ; 9; St. Louis; h; 2,3; *; Berico 2; 1835
-NASL; 1975; San Antonio; ; 16; San Jose; h; 1,2; ; Berico; 3853
-NASL; 1975; San Antonio; ; 21; Chicago; h; 1,2; ; Doherty; 3711
-NASL; 1975; San Antonio; ; 24; St. Louis; a; 0,1; ; ; 2831
-NASL; 1975; San Antonio; ; 31; Tampa Bay; h; 0,4; ; ; 4619
-NASL; 1975; San Antonio; ; 4; Vancouver; a; 0,3; ; ; 7514
-NASL; 1975; San Antonio; ; 14; Dallas; h; 2,1; ; Diane, Marzio; 5542
-NASL; 1975; San Antonio; ; 21; Portland; a; 0,1; +; ; 14080
-NASL; 1975; San Antonio; ; 2; Denver; a; 2,6; ; Marzio, McTavish; 2848
-NASL; 1975; San Antonio; ; 4; Chicago; h; 4,0; ; Costa 2, Diane, McTavish; 5432
-NASL; 1975; San Antonio; ; 9; Baltimore; a; 3,2; ; Berico, Marzio 2; 1781
-NASL; 1975; San Antonio; ; 11; Philadelphia; a; 3,2; ; Marotti, Marzio, Own Goal; 4012
-NASL; 1975; San Antonio; ; 18; Denver; h; 1,0; ; Carenza, Hawley; 5993
-NASL; 1975; San Antonio; ; 25; Chicago; a; 1,2; *; Marotti; 6412
-NASL; 1975; San Antonio; ; 26; St. Louis; a; 0,1; ; ; 7129
-NASL; 1975; San Antonio; ; 1; Miami; h; 1,2; +; Counce; 3837
-NASL; 1975; San Antonio; ; 3; Denver; a; 1,2; ; Counce; 2165
-NASL; 1975; San Antonio; ; 6; Seattle; h; 0,1; ; ; 3194
-NASL; 1975; San Antonio; ; 9; Dallas; a; 0,5; ; ; 5221
-NASL; 1975; San Jose; 4; 18; Los Angeles; h; 1,2; ; Child; 18347
-NASL; 1975; San Jose; ; 2; St. Louis; h; 2,1; ; Mitic 2; 17553
-NASL; 1975; San Jose; ; 10; Vancouver; h; 1,2; ; Child; 17632
-NASL; 1975; San Jose; ; 16; San Antonio; a; 2,1; ; Bandov, Roboostoff; 3853
-NASL; 1975; San Jose; ; 18; Denver; a; 1,2; ; Own Goal; 3897
-NASL; 1975; San Jose; ; 23; Chicago; a; 3,2; *; Craig, Moore; 4081
-NASL; 1975; San Jose; ; 25; Toronto; a; 2,3; +; Zylker, Mitic; 2431
-NASL; 1975; San Jose; ; 31; Dallas; h; 0,1; ; ; 18027
-NASL; 1975; San Jose; ; 6; Rochester; h; 5,0; ; Bandov, Mitic, Child 2, Craig; 17552
-NASL; 1975; San Jose; ; 7; Los Angeles; a; 1,5; ; Mitic; 7833
-NASL; 1975; San Jose; ; 14; Portland; h; 2,1; ; Mitic 2; 17889
-NASL; 1975; San Jose; ; 19; Vancouver; a; 3,2; +; Mitic 2, Roboostoff; 9424
-NASL; 1975; San Jose; ; 21; Seattle; a; 1,5; ; Roboostoff; 16710
-NASL; 1975; San Jose; ; 28; Portland; h; 1,2; ; Lees; 18883
-NASL; 1975; San Jose; ; 12; Seattle; h; 2,3; *; Mitic 2; 18672
-NASL; 1975; San Jose; ; 19; Boston; h; 0,1; ; ; 18598
-NASL; 1975; San Jose; ; 23; New York; a; 1,2; *; Welch; 11137
-NASL; 1975; San Jose; ; 25; Hartford; h; 3,4; *; Mitic, Moore, Calloway; 16238
-NASL; 1975; San Jose; ; 29; Portland; a; 2,3; ; Bandov 2; 23005
-NASL; 1975; San Jose; ; 2; Los Angeles; h; 2,1; +; Mitic, Roboostoff; 17803
-NASL; 1975; San Jose; ; 7; Vancouver; a; 0,4; ; ; 5461
-NASL; 1975; San Jose; ; 9; Seattle; a; 2,1; ; Welch, Bandov; 17925
-NASL; 1975; Seattle; 4; 26; Vancouver; a; 1,2; ; Van't Land; 7753
-NASL; 1975; Seattle; ; 2; Portland; a; 1,0; ; Gabriel; 8131
-NASL; 1975; Seattle; ; 4; Toronto; h; 2,1; ; Baldwin, Rowlands; 14252
-NASL; 1975; Seattle; ; 11; Los Angeles; h; 3,1; ; Butler, Rowlands, Van't Land; 15879
-NASL; 1975; Seattle; ; 16; Dallas; a; 1,0; ; Crossley; 4107
-NASL; 1975; Seattle; ; 18; St. Louis; a; 2,3; *; Butler, Baldwin; 5127
-NASL; 1975; Seattle; ; 25; Rochester; h; 1,0; ; Butler; 17086
-NASL; 1975; Seattle; ; 30; Los Angeles; a; 1,4; ; England; 7043
-NASL; 1975; Seattle; ; 1; Chicago; h; 2,1; ; Butler, D'Errico; 16366
-NASL; 1975; Seattle; ; 6; Boston; a; 1,2; n; Rowlands; 2104
-NASL; 1975; Seattle; ; 7; Hartford; a; 4,2; ; Butler, Rowlands, Crossley, Van't Land; 1146
-NASL; 1975; Seattle; ; 14; Denver; h; 2,1; +; Fernandez, Van't Land; 16737
-NASL; 1975; Seattle; ; 21; San Jose; h; 5,1; ; Rowlands 2, Van't Land 2, Own Goal; 16710
-NASL; 1975; Seattle; ; 29; Los Angeles; h; 1,2; *; Griffiths; 16360
-NASL; 1975; Seattle; ; 5; New York; h; 2,0; ; Liotart, Baldwin; 17925
-NASL; 1975; Seattle; ; 10; Vancouver; a; 1,2; ; Crossley; 7205
-NASL; 1975; Seattle; ; 12; San Jose; a; 3,2; *; Liotart, Rowlands; 18672
-NASL; 1975; Seattle; ; 19; Vancouver; h; 3,0; ; Rowlands, Crossley; 17925
-NASL; 1975; Seattle; ; 26; Portland; a; 1,2; ; Gillett; 27310
-NASL; 1975; Seattle; ; 2; Portland; h; 3,2; +; England, Baldwin, Rowlands; 17925
-NASL; 1975; Seattle; ; 6; San Antonio; a; 1,0; ; Gabriel; 3194
-NASL; 1975; Seattle; ; 9; San Jose; h; 1,2; ; Baldwin; 17925
-NASL; 1975; Seattle; ; 12; Portland; a; 1,2; +; Rowlands; 31523
-NASL; 1975; Tampa Bay; 4; 26; Rochester; h; 2,1; +; Pringle, Smethurst; 12133
-NASL; 1975; Tampa Bay; ; 3; New York; h; 1,0; ; Scullion; 8378
-NASL; 1975; Tampa Bay; ; 9; Washington; a; 0,3; ; ; 10340
-NASL; 1975; Tampa Bay; ; 14; Boston; h; 3,1; ; Smethurst, Best 2; 6117
-NASL; 1975; Tampa Bay; ; 17; Hartford; a; 3,1; ; Boyle, Best, Wark; 3410
-NASL; 1975; Tampa Bay; ; 21; Baltimore; a; 2,1; ; Boyle, Smethurst; 3648
-NASL; 1975; Tampa Bay; ; 28; Denver; h; 3,2; ; Scullion 2, Own Goal; 5281
-NASL; 1975; Tampa Bay; ; 31; San Antonio; a; 4,0; ; Smethurst, Best, Garber, Hartze; 4619
-NASL; 1975; Tampa Bay; ; 6; Miami; a; 1,0; ; Smethurst; 14259
-NASL; 1975; Tampa Bay; ; 11; Miami; h; 0,2; ; ; 18654
-NASL; 1975; Tampa Bay; ; 13; Philadelphia; a; 2,1; ; Scullion, Best; 5819
-NASL; 1975; Tampa Bay; ; 20; Dallas; a; 0,1; *; ; 4179
-NASL; 1975; Tampa Bay; ; 21; St. Louis; a; 2,1; *; Smethurst; 7731
-NASL; 1975; Tampa Bay; ; 28; Baltimore; h; 6,1; ; Scullion 2, Smethurst, Sissons 3; 8610
-NASL; 1975; Tampa Bay; ; 12; Baltimore; h; 4,0; ; Lindsay, Smethurst 2, Sissons; 13400
-NASL; 1975; Tampa Bay; ; 19; Philadelphia; h; 2,1; ; Smethurst 2; 10103
-NASL; 1975; Tampa Bay; ; 23; Miami; h; 5,1; ; Connell, Smethurst 2, Best, Sissons; 11415
-NASL; 1975; Tampa Bay; ; 26; Washington; h; 3,1; ; Boyle, Scullion, Smethurst; 11153
-NASL; 1975; Tampa Bay; ; 29; Philadelphia; a; 1,0; +; Smethurst; 4517
-NASL; 1975; Tampa Bay; ; 2; Washington; a; 1,3; ; Smethurst; 2415
-NASL; 1975; Tampa Bay; ; 6; Chicago; h; 0,3; ; ; 12761
-NASL; 1975; Tampa Bay; ; 9; Toronto; a; 1,3; ; Smethurst; 8248
-NASL Playoffs; 1975; Tampa Bay; ; 13; Toronto; h; 1,0; ; Best; 16111
-NASL Playoffs; 1975; Tampa Bay; ; 16; Miami; h; 3,0; ; Boyle, Scullion, Smethurst; 22710
-NASL Playoffs; 1975; Tampa Bay; ; 24; Portland; n; 2,0; ; Best, Auguste; 17009
-NASL; 1975; Toronto; 5; 3; Vancouver; a; 1,4; ; Pilas; 7336
-NASL; 1975; Toronto; ; 4; Seattle; a; 1,2; ; Coyne; 14252
-NASL; 1975; Toronto; ; 7; Portland; a; 0,1; ; ; 8500
-NASL; 1975; Toronto; ; 19; New York; h; 1,2; ; Roe; 4796
-NASL; 1975; Toronto; ; 23; Philadelphia; a; 1,0; ; Solak; 7132
-NASL; 1975; Toronto; ; 25; San Jose; h; 3,2; ; Coyne 3; 2431
-NASL; 1975; Toronto; ; 1; Boston; h; 2,1; *; Psaker; 8759
-NASL; 1975; Toronto; ; 6; Washington; a; 1,2; ; Psaker; 7653
-NASL; 1975; Toronto; ; 7; Baltimore; h; 0,1; *; ; 3135
-NASL; 1975; Toronto; ; 14; Hartford; h; 1,0; ; Coyne; 2171
-NASL; 1975; Toronto; ; 18; New York; a; 0,2; ; ; 22500
-NASL; 1975; Toronto; ; 21; Los Angeles; h; 4,3; ; Jusic, Coyne, Lukacevic 2; 3184
-NASL; 1975; Toronto; ; 28; Boston; a; 1,3; ; Lukacevic; 6143
-NASL; 1975; Toronto; ; 6; Rochester; h; 3,0; ; Polak, Lukacevic 2; 5109
-NASL; 1975; Toronto; ; 13; Miami; h; 2,0; ; Peric, Bradvic; 5364
-NASL; 1975; Toronto; ; 16; Hartford; a; 5,0; ; Roe 2, Lukacevic 2, Bradvic; 3708
-NASL; 1975; Toronto; ; 19; New York; h; 3,0; ; Lukacevic, Perani, Vieri; 21573
-NASL; 1975; Toronto; ; 23; Rochester; a; 2,1; ; Ferreira 2; 5288
-NASL; 1975; Toronto; ; 26; Boston; a; 1,2; ; Ferreira; 4157
-NASL; 1975; Toronto; ; 2; Rochester; a; 2,0; ; Ferreira, Bradvic; 3125
-NASL; 1975; Toronto; ; 7; Hartford; h; 2,1; ; Coyne, Vieri; 4215
-NASL; 1975; Toronto; ; 9; Tampa Bay; h; 3,1; ; Polak, Ferreira, Vieri; 8248
-NASL; 1975; Toronto; ; 13; Tampa Bay; a; 0,1; ; ; 16111
-NASL; 1975; Vancouver; 4; 18; Chicago; h; 1,0; ; Zanatta; 10007
-NASL; 1975; Vancouver; ; 26; Seattle; h; 2,1; ; B. Wilson, Zanatta; 7753
-NASL; 1975; Vancouver; ; 3; Toronto; h; 4,1; ; R. Lenarduzzi, Zanatta, Budd, Johnson; 7336
-NASL; 1975; Vancouver; ; 9; Los Angeles; a; 3,0; ; R. Lenarduzzi, Zanatta, Johnson; 7155
-NASL; 1975; Vancouver; ; 10; San Jose; a; 2,1; ; Twamley, Mitchell; 17632
-NASL; 1975; Vancouver; ; 16; Portland; h; 0,2; ; ; 7815
-NASL; 1975; Vancouver; ; 24; Hartford; a; 0,1; ; ; 3210
-NASL; 1975; Vancouver; ; 28; New York; a; 1,0; ; Own Goal; 7331
-NASL; 1975; Vancouver; ; 1; Rochester; a; 1,3; ; Budd; 4811
-NASL; 1975; Vancouver; ; 5; San Antonio; h; 3,0; ; Johnson 2, Thompson; 7514
-NASL; 1975; Vancouver; ; 7; Portland; a; 2,3; +; Johnson, Gant; 11335
-NASL; 1975; Vancouver; ; 11; Los Angeles; h; 1,0; +; Mitchell; 9168
-NASL; 1975; Vancouver; ; 19; San Jose; h; 2,3; +; Mitchell, Johnson; 9424
-NASL; 1975; Vancouver; ; 27; Dallas; a; 1,2; ; Alberts; 3436
-NASL; 1975; Vancouver; ; 29; St. Louis; a; 1,2; ; Zanatta; 4217
-NASL; 1975; Vancouver; ; 3; Portland; a; 1,2; ; Twamley; 18278
-NASL; 1975; Vancouver; ; 10; Seattle; h; 2,1; ; Johnson, Budd; 7205
-NASL; 1975; Vancouver; ; 12; Los Angeles; a; 0,1; ; ; 7604
-NASL; 1975; Vancouver; ; 19; Seattle; a; 0,3; ; ; 17925
-NASL; 1975; Vancouver; ; 24; Boston; h; 1,2; ; Zanatta; 7158
-NASL; 1975; Vancouver; ; 31; Denver; h; 6,0; ; R. Lenarduzzi, I. Wilson, Palmer, Mitchell, Johnson, Alberts; 4528
-NASL; 1975; Vancouver; ; 7; San Jose; h; 4,0; ; B. Wilson, Mitchell, Budd, Own Goal; 5461
-NASL; 1975; Washington; 5; 3; San Antonio; a; 2,0; ; Darrell, DeLeon; 5370
-NASL; 1975; Washington; ; 4; Dallas; a; 2,0; ; Horton, Ingram; 6502
-NASL; 1975; Washington; ; 9; Tampa Bay; h; 3,0; ; Darrell, Horton, Ingram; 10340
-NASL; 1975; Washington; ; 16; Philadelphia; h; 2,1; ; DeLeon 2; 10860
-NASL; 1975; Washington; ; 23; Miami; h; 1,3; ; DeLeon; 8643
-NASL; 1975; Washington; ; 30; St. Louis; h; 3,4; *; Darrell 2, Horton; 7238
-NASL; 1975; Washington; ; 3; Baltimore; a; 0,1; ; ; 4146
-NASL; 1975; Washington; ; 6; Toronto; h; 2,1; ; Barry, Horton; 7653
-NASL; 1975; Washington; ; 14; Baltimore; h; 3,4; ; Barry, Bain 2; 6847
-NASL; 1975; Washington; ; 17; Philadelphia; a; 2,3; *; Willner, Darrell; 7510
-NASL; 1975; Washington; ; 20; Miami; a; 0,8; ; ; 4481
-NASL; 1975; Washington; ; 29; New York; h; 2,9; ; Darrell, Ingram; 35620
-NASL; 1975; Washington; ; 2; Philadelphia; h; 4,1; ; Darrell 2, Barry, Ingram; 2140
-NASL; 1975; Washington; ; 8; hapoel; h; 1,0; ; Barry; 2045
-NASL; 1975; Washington; ; 13; Denver; a; 2,1; *; Minor; 3426
-NASL; 1975; Washington; ; 18; Rochester; a; 2,1; ; Barry, Horton; 3366
-NASL; 1975; Washington; ; 25; Miami; a; 1,2; ; Minor; 4063
-NASL; 1975; Washington; ; 26; Tampa Bay; a; 1,3; ; Barry; 11153
-NASL; 1975; Washington; ; 30; Boston; h; 0,2; ; ; 3150
-NASL; 1975; Washington; ; 2; Tampa Bay; h; 3,1; ; Horton 2, Ingram; 2415
-NASL; 1975; Washington; ; 6; Baltimore; a; 4,1; ; Pillinger, Ingram 2, Bain; 2877
-NASL; 1975; Washington; ; 10; Chicago; h; 2,1; *; Darrell; 3519
+NASL; 1975; Dallas; ; 24; Baltimore; a; 0,3; ; ; 2124; b*cefg*mnpqrstu*v
+NASL; 1975; Dallas; ; 25; Philadelphia; a; 2,1; *; McKenzie; 3503; abcef*g*mnpqrs*tu
+NASL; 1975; Dallas; ; 2; Miami; h; 1,2; +; Reynolds; 2843; abcefj*m*nprstu
+NASL; 1975; Dallas; ; 9; San Antonio; h; 5,0; ; Moffat, McKenzie, Moore 2, Reynolds; 5139; abcef*g*k*mnpqstu
+NASL; 1975; Denver; 4; 27; Dallas; a; 0,5; ; ; 9232; abcdefghij*kl
+NASL; 1975; Denver; ; 2; Chicago; a; 2,0; ; Flater, Ngcobo; 4536; abcdefghmno
+NASL; 1975; Denver; ; 11; Portland; h; 3,1; ; Ntsoelengoe, Flater, Ngcobo; 4267; abcdefghmnop*
+NASL; 1975; Denver; ; 18; San Jose; h; 2,1; ; Dawes, Flater; 3897; abcefghmnop
+NASL; 1975; Denver; ; 23; Dallas; a; 1,3; ; Flater; 3273; abcefghmnopq*
+NASL; 1975; Denver; ; 28; Tampa Bay; a; 2,3; ; Dawes, Flater; 5281; abcd*efghmnop
+NASL; 1975; Denver; ; 30; Miami; a; 0,2; ; ; 4156; abcd*efghmnopq*
+NASL; 1975; Denver; ; 4; Los Angeles; h; 4,1; ; Ntsoelengoe, Flater, Motaung, Cassidy; 5181; cdefghmno*pqr
+NASL; 1975; Denver; ; 6; Chicago; a; 0,1; ; ; 4094; bcd*eghmnopqr
+NASL; 1975; Denver; ; 7; Dallas; h; 2,1; ; Ntsoelengoe, Flater; 5251; bcefghmno*pqr
+NASL; 1975; Denver; ; 14; Seattle; a; 1,2; +; Ntsoelengoe; 16737; abcd*efhmnopq
+NASL; 1975; Denver; ; 18; St. Louis; h; 0,2; ; ; 4105; bcd*efghmno*pqr
+NASL; 1975; Denver; ; 27; Philadelphia; a; 0,1; ; ; 5007; abcdefghi*mnp
+NASL; 1975; Denver; ; 2; San Antonio; h; 6,2; ; Ntsoelengoe, Flater, Motaung 2, Ngcobo 2; 2848; bdefghi*j*mnopr
+NASL; 1975; Denver; ; 12; St. Louis; a; 5,2; ; Ntsoelengoe 2, Flater 2, Ngcobo; 5762; abdefghmnop
+NASL; 1975; Denver; ; 13; Washington; h; 1,2; *; Ntsoelengoe; 3426; bdefghi*j*mnopr
+NASL; 1975; Denver; ; 18; San Antonio; a; 0,1; ; ; 5993; abc*defghi*mnop
+NASL; 1975; Denver; ; 23; Chicago; h; 2,3; +; Short, Howe; 3443; bcdefij*mnopq*r
+NASL; 1975; Denver; ; 26; Baltimore; h; 1,2; ; Motaung; 2818; bcdefimnopr
+NASL; 1975; Denver; ; 31; Vancouver; a; 0,6; ; ; 4528; bdefhij*nopqr
+NASL; 1975; Denver; ; 3; San Antonio; h; 2,1; ; Short, Ntsoelengoe; 2165; abcdefhinop
+NASL; 1975; Denver; ; 7; St. Louis; h; 3,0; ; Short, Veitch, Ntsoelengoe; 2793; a*bcdefhimno*pq*r
+NASL; 1975; Hartford; 4; 25; Miami; a; 0,4; ; ; 4087; abcdefghijkl*
+NASL; 1975; Hartford; ; 3; Boston; h; 1,0; ; Own Goal; 3028; abcdefghik*mn
+NASL; 1975; Hartford; ; 14; New York; a; 2,1; *; H. McCully; 6103; abcde*fghimno
+NASL; 1975; Hartford; ; 17; Tampa Bay; h; 1,3; ; Travljanin; 3410; abcdfghimno
+NASL; 1975; Hartford; ; 24; Vancouver; h; 1,0; ; Own Goal; 3210; abcdefghjmn
+NASL; 1975; Hartford; ; 31; Philadelphia; h; 2,3; *; Schellscheidt, Fryatt; 3660; abcfghijkmno*p*q*
+NASL; 1975; Hartford; ; 4; New York; a; 1,2; ; C. McCully; 5227; abcfghimnoq*r
+NASL; 1975; Hartford; ; 7; Seattle; h; 2,4; ; Smuda, C. McCully; 1146; acefghijm*np*qr
+NASL; 1975; Hartford; ; 14; Toronto; a; 0,1; ; ; 2171; abcf*gh*ijlnors
+NASL; 1975; Hartford; ; 27; Boston; h; 1,3; ; Smuda; 6330; abcef*ghi*jlnos
+NASL; 1975; Hartford; ; 3; Rochester; h; 1,2; ; C. McCully; 2180; abce*f*ghi*lnostu
+NASL; 1975; Hartford; ; 9; Washington; a; 0,1; ; ; 2045; abcefg*hiln*qst
+NASL; 1975; Hartford; ; 11; Portland; h; 1,3; ; Clemencia; 2582; abdefilmp*qrs
+NASL; 1975; Hartford; ; 13; Rochester; a; 0,1; ; ; 7639; abdefilmprs
+NASL; 1975; Hartford; ; 16; Toronto; h; 0,5; ; ; 3708; abcdefg*hilmn*s
+NASL; 1975; Hartford; ; 21; Baltimore; a; 2,3; ; Travljanin, Rajski; 1876; abcdfhilmn*sv
+NASL; 1975; Hartford; ; 25; San Jose; a; 4,3; *; Schellscheidt, C. McCully, H. McCully; 16238; abce*fhilmosv
+NASL; 1975; Hartford; ; 26; Los Angeles; a; 0,5; ; ; 8239; abcehilmn*op*r*sv
+NASL; 1975; Hartford; ; 1; New York; h; 3,1; ; Kelly, Rajski 2; 8546; abce*ghilmop*sv
+NASL; 1975; Hartford; ; 7; Toronto; a; 1,2; ; Smuda; 4215; abcghimorsv
+NASL; 1975; Hartford; ; 9; Boston; a; 0,3; ; ; 5139; abceghi*lnprs*v
+NASL; 1975; Hartford; ; 10; Rochester; h; 4,1; ; Travljanin 3, Rajski; 3120; ab*cghilmn*orsvw*
+NASL; 1975; Los Angeles; 4; 18; San Jose; a; 2,1; ; Fishaa, Douglas; 18347; abcdefghijkl*
+NASL; 1975; Los Angeles; ; 26; San Antonio; a; 3,0; ; Sibbald, Banhoffer, Veee; 7447; abcdeghijkl*mn*
+NASL; 1975; Los Angeles; ; 3; St. Louis; h; 2,0; ; Veee, McMillan; 7920; acdegh*ijk*lmno
+NASL; 1975; Los Angeles; ; 9; Vancouver; h; 0,3; ; ; 7155; abcdef*ghijkmn
+NASL; 1975; Los Angeles; ; 11; Seattle; a; 1,3; ; Velazquez; 15879; abcdfghjmno*p
+NASL; 1975; Los Angeles; ; 16; Chicago; a; 0,1; ; ; 4117; abcdefghijn*p
+NASL; 1975; Los Angeles; ; 23; Boston; a; 0,3; ; ; 7432; abcdefghikm*nrq*
+NASL; 1975; Los Angeles; ; 30; Seattle; h; 4,1; ; Lopez, Banhoffer 2, Veee; 7043; abcdefhijmp
+NASL; 1975; Los Angeles; ; 4; Denver; a; 1,4; ; Fishaa; 5181; acdefg*hijmn*pq*r
+NASL; 1975; Los Angeles; ; 7; San Jose; h; 5,1; ; Sibbald, Banhoffer 2, Douglas 2; 7833; bcdfgijkmnqs*
+NASL; 1975; Los Angeles; ; 11; Vancouver; a; 0,1; +; ; 9168; bcdfgijkmnqr*
+NASL; 1975; Los Angeles; ; 20; Rochester; a; 1,0; ; Fishaa; 4513; cdfghikmnqr
+NASL; 1975; Los Angeles; ; 21; Toronto; a; 3,4; ; Banhoffer 3; 3184; cdfghikmnqr
+NASL; 1975; Los Angeles; ; 27; Portland; h; 1,2; +; Russell; 6609; cdfghijk*mnqr
+NASL; 1975; Los Angeles; ; 29; Seattle; a; 2,1; *; Veee; 16360; cdeghijkmn*qr
+NASL; 1975; Los Angeles; ; 3; New York; h; 5,1; ; Banhoffer 3, Veee, Douglas; 12176; cdeghijkmn*qrs*
+NASL; 1975; Los Angeles; ; 8; Portland; a; 1,4; ; Veee; 17765; a*cdeghijkl*mp*qr
+NASL; 1975; Los Angeles; ; 12; Vancouver; h; 1,0; ; Ferguson; 7604; cdeghijkmqr
+NASL; 1975; Los Angeles; ; 19; Dallas; h; 3,1; ; Moraldo, Douglas, Fagan; 9115; cdeghijkl*mqr
+NASL; 1975; Los Angeles; ; 26; Hartford; h; 5,0; ; Lopez, Russell, Banhoffer 3; 8239; cdeghijkl*mp*qrs*
+NASL; 1975; Los Angeles; ; 2; San Jose; a; 1,2; +; Ferguson; 17803; cdeghjkl*mpqr
+NASL; 1975; Los Angeles; ; 9; Portland; h; 1,0; ; Sibbald; 10231; cdeghijlmqrs*
+NASL Playoffs; 1975; Los Angeles; ; 13; St. Louis; a; 1,2; *; Mason; 6119; b*cdeghijk*lmqrs*
+NASL; 1975; Miami; 4; 17; St. Louis; h; 1,0; ; David; 5036; abcdefghijk
+NASL; 1975; Miami; ; 25; Hartford; h; 4,0; ; Tinsley, Sharp, David 2; 4087; bcdefgh*ijklm*no*
+NASL; 1975; Miami; ; 30; New York; a; 3,2; ; Proctor, David 2; 9328; bcdefghijlmp*
+NASL; 1975; Miami; ; 2; Rochester; h; 4,3; ; Proctor, Archibald, David 2; 4382; abcdefghijmp*
+NASL; 1975; Miami; ; 9; Philadelphia; a; 0,1; ; ; 13821; bcdefghilm*nq
+NASL; 1975; Miami; ; 16; Boston; h; 4,2; ; Guzman, Proctor, David 2; 1906; bcdefghijlq
+NASL; 1975; Miami; ; 23; Washington; a; 3,1; ; Proctor 2, David; 8643; bcdefhjlnq
+NASL; 1975; Miami; ; 30; Denver; h; 2,0; ; Proctor 2; 4156; bcdefghijlq
+NASL; 1975; Miami; ; 5; Tampa Bay; h; 0,1; ; ; 14259; bcdefghijlm*p*q
+NASL; 1975; Miami; ; 11; Tampa Bay; a; 2,0; ; David, Jordan; 18654; ab*cdeghijmoq
+NASL; 1975; Miami; ; 20; Washington; h; 8,0; ; Aranguiz, Proctor 2, David 5; 4481; abcdefghijn*o*qr*
+NASL; 1975; Miami; ; 27; Baltimore; h; 3,0; ; Guzman, Tinsley, David; 3498; abcdefghijl*o*p*q
+NASL; 1975; Miami; ; 2; Baltimore; a; 2,3; ; Wright, Tinsley; 2274; abcdefghijn*q
+NASL; 1975; Miami; ; 8; Philadelphia; a; 1,2; ; David; 5072; bcdfghijklmo*p*
+NASL; 1975; Miami; ; 10; Chicago; a; 0,2; ; ; 4201; abcdfghijn*op*qr*
+NASL; 1975; Miami; ; 13; Toronto; a; 0,2; ; ; 5364; abcdgijm*nop*rs
+NASL; 1975; Miami; ; 18; Philadelphia; h; 1,2; +; Archibald; 3790; abcdfgi*jk*moqrs*
+NASL; 1975; Miami; ; 23; Tampa Bay; a; 1,5; ; David; 11415; a*ijklmnopqrs
+NASL; 1975; Miami; ; 25; Washington; h; 2,1; ; Bodonczy, David; 4063; abdfgijkpqs
+NASL; 1975; Miami; ; 1; San Antonio; a; 2,1; +; David 2; 3837; abdfgijkn*o*pqs
+NASL; 1975; Miami; ; 2; Dallas; a; 2,1; +; Archibald 2; 2843; ab*dfgijkmo*prs
+NASL; 1975; Miami; ; 8; Baltimore; h; 2,1; ; Bodonsky, David; 4469; adegijkmo*prs
+NASL Playoffs; 1975; Miami; ; 13; Boston; a; 2,1; +; Proctor, Archibald; 2187; abdefgh*ijn*pqr
+NASL Playoffs; 1975; Miami; ; 16; Tampa Bay; a; 0,3; ; ; 22710; abdefgh*ijm*pqr
+NASL; 1975; New York; 4; 30; Miami; h; 2,3; ; Correa, Liveric; 9328; abcde*fg*hijkl*m
+NASL; 1975; New York; ; 3; Tampa Bay; a; 0,1; ; ; 8378; bce*ghijkl*mnopq*
+NASL; 1975; New York; ; 7; Baltimore; h; 5,1; ; Correa, Liveric, Fink 3; 7016; bcfghijk*lmnrs*t*
+NASL; 1975; New York; ; 14; Hartford; h; 1,2; ; Fink; 6103; bcfghijlmnp*rt*
+NASL; 1975; New York; ; 19; Toronto; a; 2,1; ; Dillon, Liveric; 4796; bce*fghijk*lnpr
+NASL; 1975; New York; ; 28; Vancouver; h; 0,1; ; ; 7331; bcf*ghijk*lnprt*u
+NASL; 1975; New York; ; 4; Hartford; h; 2,1; ; Liveric, Paredes; 5227; bce*fghijkl*nruv*
+NASL; 1975; New York; ; 7; Rochester; a; 2,3; ; Shpigler 2; 4959; cfghijkl*npruv*
+NASL; 1975; New York; ; 10; Philadelphia; a; 0,1; ; ; 20124; ce*ghijlnpq*ruv
+NASL; 1975; New York; ; 18; Toronto; h; 2,0; ; Correa, Shpigler; 22500; bchijnprt*uvw
+NASL; 1975; New York; ; 27; Rochester; a; 3,0; ; Fink, Siega, Pele; 14562; bcijlm*nruvwx
+NASL; 1975; New York; ; 29; Washington; a; 9,2; ; Mahy, Paredes, Fink, Maria, Kerr, Shpigler 2, Pele 2; 35620; bcik*lmnp*rt*uvwx
+NASL; 1975; New York; ; 3; Los Angeles; a; 1,5; ; Shpigler; 12176; bcij*k*lmnruvwx
+NASL; 1975; New York; ; 5; Seattle; a; 0,2; ; ; 17925; bci*j*k*lmnpruvwx
+NASL; 1975; New York; ; 9; Boston; h; 3,1; ; De La Fuente, Correa, Kerr; 18126; bcghij*k*mnpuwx
+NASL; 1975; New York; ; 16; Portland; h; 1,2; ; Pele; 13423; bcgijkl*npt*uwx
+NASL; 1975; New York; ; 19; Toronto; a; 0,3; ; ; 21573; bcgijkl*npt*uwxy*
+NASL; 1975; New York; ; 23; San Jose; h; 2,1; *; Pele; 11137; cdh*ijm*ptuwx*yz0
+NASL; 1975; New York; ; 30; Rochester; h; 2,0; ; Ord 2; 8217; cdhijm*tuxz01
+NASL; 1975; New York; ; 1; Hartford; a; 1,3; ; Liveric; 8546; cdhijm*p*tuxz01
+NASL; 1975; New York; ; 3; Boston; a; 0,5; ; ; 4445; cdhijl*p*tuvwy*z2
+NASL; 1975; New York; ; 6; Boston; h; 1,0; ; Paredes; 6541; cdfhj*k*mnptuv2
+NASL; 1975; Philadelphia; 5; 2; Baltimore; a; 1,0; ; Bahr; 4120; abcdefghijk*l
+NASL; 1975; Philadelphia; ; 9; Miami; h; 1,0; ; Smith; 13821; abcdefghijk*l
+NASL; 1975; Philadelphia; ; 11; St. Louis; a; 1,2; *; McLaughlin; 4180; abcdefghilmn*o*
+NASL; 1975; Philadelphia; ; 16; Washington; a; 1,2; ; O'Neill; 10860; abcd*efghijk*lmn*
+NASL; 1975; Philadelphia; ; 23; Toronto; h; 0,1; ; ; 7132; abcefghj*klmop*
+NASL; 1975; Philadelphia; ; 31; Hartford; a; 3,2; *; Hope, McLaughlin; 3660; abcef*ghj*klmopq*
+NASL; 1975; Philadelphia; ; 10; New York; h; 1,0; +; Bahr; 20124; abcefghj*lmors*
+NASL; 1975; Philadelphia; ; 13; Tampa Bay; h; 1,2; ; Hope; 5819; abcd*fghj*lmors
+NASL; 1975; Philadelphia; ; 17; Washington; h; 3,2; *; McLaughlin, Lewis; 7510; abcd*fghj*lmors
+NASL; 1975; Philadelphia; ; 20; Chicago; a; 2,6; ; Smith, Bahr; 3984; abcdefghjlmp*
+NASL; 1975; Philadelphia; ; 27; Denver; h; 1,0; ; Bahr; 5007; abcefghij*lmop*s*
+NASL; 1975; Philadelphia; ; 2; Washington; h; 1,4; ; McLaughlin; 2140; abcefghij*lmop*r*
+NASL; 1975; Philadelphia; ; 5; Boston; a; 0,4; ; ; 3257; bcdefghino*prs*
+NASL; 1975; Philadelphia; ; 8; Miami; h; 2,1; ; Bahr 2; 5072; abcdefghilop*
+NASL; 1975; Philadelphia; ; 11; San Antonio; h; 2,3; ; Bahr, Hope; 4012; abcdefghi*lot
+NASL; 1975; Philadelphia; ; 18; Miami; a; 2,1; +; Bahr, Matos; 3790; abcd*efghilmop*
+NASL; 1975; Philadelphia; ; 19; Tampa Bay; a; 1,2; ; Bahr; 10103; abcd*efhij*lmops*
+NASL; 1975; Philadelphia; ; 25; Dallas; h; 1,2; *; Ellam; 3503; abcd*efghij*lmop*
+NASL; 1975; Philadelphia; ; 29; Tampa Bay; h; 0,1; +; ; 4517; abcefhi*jlmrst*
+NASL; 1975; Philadelphia; ; 1; Baltimore; h; 4,2; ; McLaughlin 3, Lewis; 3530; abcdfg*hi*jmo*pst
+NASL; 1975; Philadelphia; ; 8; Rochester; a; 5,2; ; Bahr 2, Hope, Galati, Own Goal; 2683; a*cdefghi*jno*pst
+NASL; 1975; Philadelphia; ; 10; Baltimore; a; 0,3; ; ; 1263; abcfghi*jmo*pr*st
+NASL; 1975; Portland; 5; 2; Seattle; h; 0,1; ; ; 8131; abcdefghijk*l
+NASL; 1975; Portland; ; 7; Toronto; h; 1,0; ; Withe; 8500; abcdefghijk*l
+NASL; 1975; Portland; ; 11; Denver; a; 1,3; ; Withe; 4267; abcdefghijk*lm*n*
+NASL; 1975; Portland; ; 16; Vancouver; a; 2,0; ; Powell, Betts; 7815; abcdfghiklo
+NASL; 1975; Portland; ; 27; Rochester; h; 3,2; +; Godfrey, Withe, Anderson; 6918; acdefghikln*o
+NASL; 1975; Portland; ; 30; Chicago; h; 2,0; ; Withe, Anderson; 9526; abcefghiklo
+NASL; 1975; Portland; ; 7; Vancouver; h; 3,2; +; Day, Godfrey, Betts; 11335; abcefghiklo
+NASL; 1975; Portland; ; 14; San Jose; a; 1,2; ; Kelly; 17889; abcd*efghij*klo
+NASL; 1975; Portland; ; 18; Dallas; h; 3,0; ; Powell, Betts, Kelly; 14688; abcdeghiklo
+NASL; 1975; Portland; ; 21; San Antonio; h; 1,0; +; Anderson; 14080; abcdef*ghiklo
+NASL; 1975; Portland; ; 27; Los Angeles; a; 2,1; +; Withe 2; 6609; abcdfghijkn*o
+NASL; 1975; Portland; ; 28; San Jose; a; 2,1; ; Withe, Dangerfield; 18883; abcdeghijm*no
+NASL; 1975; Portland; ; 3; Vancouver; h; 2,1; ; Betts, Dangerfield; 18278; abcefgijkln
+NASL; 1975; Portland; ; 8; Los Angeles; h; 4,1; ; Withe, Betts, Kelly, Dangerfield; 17765; abcd*efgiklno
+NASL; 1975; Portland; ; 11; Hartford; a; 3,1; ; Day, Withe, Betts; 2582; acdefgij*klm*no
+NASL; 1975; Portland; ; 12; Boston; a; 1,2; ; Dangerfield; 2800; abcdefg*ij*klno
+NASL; 1975; Portland; ; 16; New York; a; 2,1; ; Godfrey, Withe; 13423; acdefghij*lno
+NASL; 1975; Portland; ; 19; St. Louis; a; 3,2; +; Lynch, McLaren, Withe; 6902; acefghiklno
+NASL; 1975; Portland; ; 26; Seattle; h; 2,1; ; Withe 2; 27310; abcefghij*lno
+NASL; 1975; Portland; ; 29; San Jose; h; 3,2; ; Powell, Withe 2; 23005; abcdefhijk*ln
+NASL; 1975; Portland; ; 2; Seattle; a; 2,3; +; Powell, Withe; 17925; acdefghilno
+NASL; 1975; Portland; ; 9; Los Angeles; a; 0,1; ; ; 10231; cefhijklmno*p
+NASL Playoffs; 1975; Portland; ; 12; Seattle; h; 2,1; +; Powell, Betts; 31523; abcefghik*lno
+NASL Playoffs; 1975; Portland; ; 17; St. Louis; h; 1,0; ; Withe; 33503; abcefghik*lno
+NASL Playoffs; 1975; Portland; ; 24; Tampa Bay; n; 0,2; ; ; 17009; abcefghik*lno
+NASL; 1975; Rochester; 4; 26; Tampa Bay; a; 1,2; +; Ord; 12133; abcdefg*hi*jklmn*
+NASL; 1975; Rochester; ; 2; Miami; a; 3,4; ; Gibbs, Ord 2; 4382; abcdefg*hijklo*
+NASL; 1975; Rochester; ; 9; Boston; a; 2,0; ; Rymarczuk, Ord; 6912; abcdefg*hijklp*
+NASL; 1975; Rochester; ; 25; Seattle; a; 0,1; ; ; 17086; ab*cdefhi*jklmn
+NASL; 1975; Rochester; ; 27; Portland; a; 2,3; +; Ord, Jijon; 6918; acdefhij*klmn*p
+NASL; 1975; Rochester; ; 30; Boston; a; 2,3; ; Gibbs, Ord; 3104; ab*cdefhi*jklmn
+NASL; 1975; Rochester; ; 1; Vancouver; h; 3,1; ; Durante 2, Ord; 4811; b*cdefhi*jklmnq
+NASL; 1975; Rochester; ; 6; San Jose; a; 0,5; ; ; 17552; abcefg*hijklmn*r*
+NASL; 1975; Rochester; ; 7; New York; h; 3,2; ; Odoi, Ord 2; 4959; ab*cdefg*ijklmns*
+NASL; 1975; Rochester; ; 14; Boston; h; 4,1; ; Trzaskowski, Cupello, Ord, Jijon; 4205; ab*cdefg*ijklmns*
+NASL; 1975; Rochester; ; 20; Los Angeles; h; 0,1; ; ; 4513; ab*cdefg*ijklmn
+NASL; 1975; Rochester; ; 22; Baltimore; h; 1,2; *; Ord; 3510; abcdefg*ij*klmns*
+NASL; 1975; Rochester; ; 27; New York; h; 0,3; ; ; 14562; acdefhijklms*t*
+NASL; 1975; Rochester; ; 3; Hartford; a; 2,1; ; Durante, Ord; 2180; abcefhjklmn*s*t
+NASL; 1975; Rochester; ; 6; Toronto; a; 0,3; ; ; 5109; bcefg*hi*jklmqs*t
+NASL; 1975; Rochester; ; 13; Hartford; h; 1,0; ; Ord; 7639; acdehijklmns*t*
+NASL; 1975; Rochester; ; 18; Washington; h; 1,2; ; Odoi; 3366; abcdefhiklns*t*u*
+NASL; 1975; Rochester; ; 23; Toronto; h; 1,2; ; Ord; 5288; bcdefhij*klqs*u
+NASL; 1975; Rochester; ; 30; New York; a; 0,2; ; ; 8217; ab*cdefg*jlmstuv*
+NASL; 1975; Rochester; ; 1; Toronto; h; 0,2; ; ; 3125; b*cefghj*lmqt*uvw
+NASL; 1975; Rochester; ; 8; Philadelphia; h; 2,5; ; Gibbs 2; 2683; a*bcefhjlmn*qtu*v
+NASL; 1975; Rochester; ; 10; Hartford; a; 1,4; ; Escos; 3120; abcefghjlmnw*
+NASL; 1975; St. Louis; 4; 17; Miami; a; 0,1; ; ; 5036; abcdefg*hij*klmn*
+NASL; 1975; St. Louis; ; 19; Dallas; h; 3,0; ; O'Leary, Vaninger 2; 8121; abcdefhij*klmn*o*
+NASL; 1975; St. Louis; ; 2; San Jose; a; 1,2; ; Hawley; 17553; bcdefhij*klpq
+NASL; 1975; St. Louis; ; 3; Los Angeles; a; 0,2; ; ; 7920; b*cdefghij*klpq
+NASL; 1975; St. Louis; ; 9; San Antonio; a; 3,2; *; Carenza, Hawley; 1835; bcdefgij*km*npqr*
+NASL; 1975; St. Louis; ; 11; Philadelphia; h; 2,1; *; Hawley; 4180; bcdeghij*km*npqr*
+NASL; 1975; St. Louis; ; 18; Seattle; h; 3,2; *; Trost, Burnett; 5127; bcdehijkm*npqr*s*
+NASL; 1975; St. Louis; ; 24; San Antonio; h; 1,0; ; Hawley; 2831; bcdehijkno*pqr*s*
+NASL; 1975; St. Louis; ; 30; Washington; a; 4,3; *; Burnett 2, Pisani; 7238; bcdehij*kno*pqr*s
+NASL; 1975; St. Louis; ; 31; Baltimore; a; 3,1; ; Trost, Hawley 2; 3000; cdghijk*nopqr*s
+NASL; 1975; St. Louis; ; 6; Dallas; a; 2,3; +; Geimer 2; 3426; cdeghij*mopqr*s
+NASL; 1975; St. Louis; ; 7; Chicago; h; 1,0; +; O'Leary; 6832; cdef*g*hijmopqr*s
+NASL; 1975; St. Louis; ; 18; Denver; a; 2,0; ; Hawley, McBride; 4105; cdehijnopqr*s
+NASL; 1975; St. Louis; ; 21; Tampa Bay; h; 1,2; *; Geimer; 7731; cdef*hijk*mopqr*s
+NASL; 1975; St. Louis; ; 27; Chicago; a; 0,1; *; ; 4407; cdehijmopqr*s
+NASL; 1975; St. Louis; ; 29; Vancouver; h; 2,1; ; Hawley 2; 4217; cdehijk*mopqr*s
+NASL; 1975; St. Louis; ; 5; Dallas; a; 2,0; ; Trost, Burnett; 4693; cdef*hijmopqr*s
+NASL; 1975; St. Louis; ; 12; Denver; h; 2,5; ; Carenza, Trost; 5762; cdef*hijk*mopqr*s
+NASL; 1975; St. Louis; ; 19; Portland; h; 2,3; +; Carenza, Hawley; 6902; bcdehij*kno*pqr*s
+NASL; 1975; St. Louis; ; 26; San Antonio; h; 1,0; ; Trost; 7129; bcdehiknpqr*s
+NASL; 1975; St. Louis; ; 2; Chicago; h; 3,2; ; Trost, Bokern, Hawley; 7945; bcdehiknpqr*s
+NASL; 1975; St. Louis; ; 8; Denver; a; 0,3; ; ; 2793; abcde*fhijk*mn*oq
+NASL Playoffs; 1975; St. Louis; ; 13; Los Angeles; h; 2,1; *; Hawley; 6199; bcdefhj*km*npqr*s
+NASL Playoffs; 1975; St. Louis; ; 17; Portland; a; 0,1; ; ; 33503; bcdefhj*km*npqr*s
+NASL; 1975; San Antonio; 4; 17; Dallas; h; 2,1; +; Doherty, Filotis; 5142; abcdefgh*ijkl*m
+NASL; 1975; San Antonio; ; 26; Los Angeles; a; 0,3; ; ; 7447; abcdefhijlmn*o*
+NASL; 1975; San Antonio; ; 3; Washington; h; 0,2; ; ; 5370; abcefhi*k*lmn*opq
+NASL; 1975; San Antonio; ; 9; St. Louis; h; 2,3; *; Berico 2; 1835; acdfhijkl*mn*opq*
+NASL; 1975; San Antonio; ; 16; San Jose; h; 1,2; ; Berico; 3853; bcdfhimn*opq*rs
+NASL; 1975; San Antonio; ; 21; Chicago; h; 1,2; ; Doherty; 3711; cdfhilmn*opqr
+NASL; 1975; San Antonio; ; 24; St. Louis; a; 0,1; ; ; 2831; cdfhiklm*npq*rs
+NASL; 1975; San Antonio; ; 31; Tampa Bay; h; 0,4; ; ; 4619; bcdefhk*ln*opq*rs
+NASL; 1975; San Antonio; ; 4; Vancouver; a; 0,3; ; ; 7514; defhiln*pqrst
+NASL; 1975; San Antonio; ; 14; Dallas; h; 2,1; ; Diane, Marzio; 5542; efhi*kln*opqsuv*w
+NASL; 1975; San Antonio; ; 21; Portland; a; 0,1; +; ; 14080; cefhkopqsuv*wx*
+NASL; 1975; San Antonio; ; 2; Denver; a; 2,6; ; Marzio, McTavish; 2848; cehklpqsuwy*z*0
+NASL; 1975; San Antonio; ; 4; Chicago; h; 4,0; ; Costa 2, Diane, McTavish; 5432; ceh*klo*pqsuwy*z0
+NASL; 1975; San Antonio; ; 9; Baltimore; a; 3,2; ; Berico, Marzio 2; 1781; c*ef*hklpqsuv*wyz
+NASL; 1975; San Antonio; ; 11; Philadelphia; a; 3,2; ; Marotti, Marzio, Own Goal; 4012; cf*h*klpqsuwyz0
+NASL; 1975; San Antonio; ; 18; Denver; h; 1,0; ; Carenza; 5993; cef*h*klpqsuv*wz0
+NASL; 1975; San Antonio; ; 25; Chicago; a; 1,2; *; Marotti; 6412; cef*h*klpsuvwy*z0
+NASL; 1975; San Antonio; ; 26; St. Louis; a; 0,1; ; ; 7129; cefhklpsuvy*z*0
+NASL; 1975; San Antonio; ; 1; Miami; h; 1,2; +; Counce; 3837; cefh*klpsuv*w*z01
+NASL; 1975; San Antonio; ; 3; Denver; a; 1,2; ; Counce; 2165; cfh*ko*psuv*wyz01
+NASL; 1975; San Antonio; ; 6; Seattle; h; 0,1; ; ; 3194; cefh*lpsuwyz*01
+NASL; 1975; San Antonio; ; 9; Dallas; a; 0,5; ; ; 5221; cefh*kopsuv*wz*01
+NASL; 1975; San Jose; 4; 18; Los Angeles; h; 1,2; ; Child; 18347; abcdefg*hijk*lm
+NASL; 1975; San Jose; ; 2; St. Louis; h; 2,1; ; Mitic 2; 17553; abcdefghi*nop
+NASL; 1975; San Jose; ; 10; Vancouver; h; 1,2; ; Child; 17632; abcdefg*hinop
+NASL; 1975; San Jose; ; 16; San Antonio; a; 2,1; ; Bandov, Roboostoff; 3853; abcdefhij*no*pq
+NASL; 1975; San Jose; ; 18; Denver; a; 1,2; ; Own Goal; 3897; abcdefhij*no*pq
+NASL; 1975; San Jose; ; 23; Chicago; a; 3,2; *; Craig, Moore; 4081; abcdef*gij*knpq
+NASL; 1975; San Jose; ; 25; Toronto; a; 2,3; +; Zylker, Mitic; 2431; abcde*fhikno*pq
+NASL; 1975; San Jose; ; 31; Dallas; h; 0,1; ; ; 18027; abcdefhi*knoq
+NASL; 1975; San Jose; ; 6; Rochester; h; 5,0; ; Bandov, Mitic, Child 2, Craig; 17552; abcde*fhi*j*knopq
+NASL; 1975; San Jose; ; 7; Los Angeles; a; 1,5; ; Mitic; 7833; abcde*fg*hj*knopq
+NASL; 1975; San Jose; ; 14; Portland; h; 2,1; ; Mitic 2; 17889; abcdfghi*opqr
+NASL; 1975; San Jose; ; 19; Vancouver; a; 3,2; +; Mitic 2, Roboostoff; 9424; abcde*fhi*jk*opst
+NASL; 1975; San Jose; ; 21; Seattle; a; 1,5; ; Roboostoff; 16710; abcfhij*ko*pqst
+NASL; 1975; San Jose; ; 28; Portland; h; 1,2; ; Lees; 18883; bcdfhi*k*no*pqstu
+NASL; 1975; San Jose; ; 12; Seattle; h; 2,3; *; Mitic 2; 18672; a*bcdf*hi*knopqtu
+NASL; 1975; San Jose; ; 19; Boston; h; 0,1; ; ; 18598; abcdf*hi*k*nopqst
+NASL; 1975; San Jose; ; 23; New York; a; 1,2; *; Welch; 11137; abcdf*h*ij*k*noqst
+NASL; 1975; San Jose; ; 25; Hartford; h; 3,4; *; Mitic, Moore, Calloway; 16238; abdfhi*j*k*nopqst
+NASL; 1975; San Jose; ; 29; Portland; a; 2,3; ; Bandov 2; 23005; abdefh*ijk*oqstu*
+NASL; 1975; San Jose; ; 2; Los Angeles; h; 2,1; +; Mitic, Roboostoff; 17803; adfh*ijkopqst
+NASL; 1975; San Jose; ; 7; Vancouver; a; 0,4; ; ; 5461; adfhijkoqr*st
+NASL; 1975; San Jose; ; 9; Seattle; a; 2,1; ; Welch, Bandov; 17925; adfhijknoqr*s
+NASL; 1975; Seattle; 4; 26; Vancouver; a; 1,2; ; Van't Land; 7753; abcdefghijk*lm*
+NASL; 1975; Seattle; ; 2; Portland; a; 1,0; ; Gabriel; 8131; abcdefghi*jkm*n
+NASL; 1975; Seattle; ; 4; Toronto; h; 2,1; ; Baldwin, Rowlands; 14252; abcdefgh*jkno
+NASL; 1975; Seattle; ; 11; Los Angeles; h; 3,1; ; Butler, Rowlands, Van't Land; 15879; abcdefghi*nopq*
+NASL; 1975; Seattle; ; 16; Dallas; a; 1,0; ; Crossley; 4107; abcdfghi*jk*nop
+NASL; 1975; Seattle; ; 18; St. Louis; a; 2,3; *; Butler, Baldwin; 5127; abcde*fghi*jk*nop
+NASL; 1975; Seattle; ; 25; Rochester; h; 1,0; ; Butler; 17086; abcdefhijn*op
+NASL; 1975; Seattle; ; 30; Los Angeles; a; 1,4; ; England; 7043; abcdefi*jnopq*rs*
+NASL; 1975; Seattle; ; 1; Chicago; h; 2,1; ; Butler, D'Errico; 16366; abcde*fghjn*opq*r
+NASL; 1975; Seattle; ; 6; Boston; a; 1,2; n; Rowlands; 2104; abcdfghi*jopq*r
+NASL; 1975; Seattle; ; 7; Hartford; a; 4,2; ; Butler, Rowlands, Crossley, Van't Land; 1146; abcdfhi*jopqrs*
+NASL; 1975; Seattle; ; 14; Denver; h; 2,1; +; Fernandez, Van't Land; 16737; abcdfhi*jnopq*r
+NASL; 1975; Seattle; ; 21; San Jose; h; 5,1; ; Rowlands 2, Van't Land 2, Own Goal; 16710; abcdghij*nopq*rt*
+NASL; 1975; Seattle; ; 29; Los Angeles; h; 1,2; *; Griffiths; 16360; abcde*f*hinopqr
+NASL; 1975; Seattle; ; 5; New York; h; 2,0; ; Liotart, Baldwin; 17925; abcde*f*ghijn*opr
+NASL; 1975; Seattle; ; 10; Vancouver; a; 1,2; ; Crossley; 7205; abcde*fghi*jopr
+NASL; 1975; Seattle; ; 12; San Jose; a; 3,2; *; Liotart, Rowlands; 18672; abcdefhi*jn*opr
+NASL; 1975; Seattle; ; 19; Vancouver; h; 3,0; ; Rowlands, Crossley; 17925; abcdeh*ijn*oprs*
+NASL; 1975; Seattle; ; 26; Portland; a; 1,2; ; Gillett; 27310; abcdeg*hijopq*r
+NASL; 1975; Seattle; ; 2; Portland; h; 3,2; +; England, Baldwin, Rowlands; 17925; abcdef*ghij*opr
+NASL; 1975; Seattle; ; 6; San Antonio; a; 1,0; ; Gabriel; 3194; abcdefghi*j*opq*r
+NASL; 1975; Seattle; ; 9; San Jose; h; 1,2; ; Baldwin; 17925; acdf*ghjno*p*qrst
+NASL; 1975; Seattle; ; 12; Portland; a; 1,2; +; Rowlands; 31523; abcdefghi*j*opr
+NASL; 1975; Tampa Bay; 4; 26; Rochester; h; 2,1; +; Pringle, Smethurst; 12133; abcde*fghijklm*
+NASL; 1975; Tampa Bay; ; 3; New York; h; 1,0; ; Scullion; 8378; abcefghijlno*p*
+NASL; 1975; Tampa Bay; ; 9; Washington; a; 0,3; ; ; 10340; abcd*efghinopq*
+NASL; 1975; Tampa Bay; ; 14; Boston; h; 3,1; ; Smethurst, Best 2; 6117; cfghijk*nopqr
+NASL; 1975; Tampa Bay; ; 17; Hartford; a; 3,1; ; Boyle, Best, Wark; 3410; bcfghjl*nopqr
+NASL; 1975; Tampa Bay; ; 21; Baltimore; a; 2,1; ; Boyle, Smethurst; 3648; bcfghi*jnopqr
+NASL; 1975; Tampa Bay; ; 28; Denver; h; 3,2; ; Scullion 2, Own Goal; 5281; bcfghij*nopqr
+NASL; 1975; Tampa Bay; ; 31; San Antonio; a; 4,0; ; Smethurst, Best, Garber, Hartze; 4619; abcefhijk*l*npqs*
+NASL; 1975; Tampa Bay; ; 6; Miami; a; 1,0; ; Smethurst; 14259; bcfghij*k*nopqr
+NASL; 1975; Tampa Bay; ; 11; Miami; h; 0,2; ; ; 18654; abcfghij*nopq
+NASL; 1975; Tampa Bay; ; 13; Philadelphia; a; 2,1; ; Scullion, Best; 5819; bcfghjkl*npqr
+NASL; 1975; Tampa Bay; ; 20; Dallas; a; 0,1; *; ; 4179; bcfghij*k*nopqr
+NASL; 1975; Tampa Bay; ; 21; St. Louis; a; 2,1; *; Smethurst; 7731; abce*fghik*nopq
+NASL; 1975; Tampa Bay; ; 28; Baltimore; h; 6,1; ; Scullion 2, Smethurst, Sissons 3; 8610; bceghik*l*nopqrs*
+NASL; 1975; Tampa Bay; ; 12; Baltimore; h; 4,0; ; Lindsay, Smethurst 2, Sissons; 13400; abceghinopq
+NASL; 1975; Tampa Bay; ; 19; Philadelphia; h; 2,1; ; Smethurst 2; 10103; abcef*ghinopq
+NASL; 1975; Tampa Bay; ; 23; Miami; h; 5,1; ; Connell, Smethurst 2, Best, Sissons; 11415; bcef*ghinopqrs*t*
+NASL; 1975; Tampa Bay; ; 26; Washington; h; 3,1; ; Boyle, Scullion, Smethurst; 11153; abcefghk*nopqt*
+NASL; 1975; Tampa Bay; ; 29; Philadelphia; a; 1,0; +; Smethurst; 4517; bcefghiknprs*t*
+NASL; 1975; Tampa Bay; ; 2; Washington; a; 1,3; ; Smethurst; 2415; bcef*ghiknoqrs*t*
+NASL; 1975; Tampa Bay; ; 6; Chicago; h; 0,3; ; ; 12761; abefghij*k*noqs*t
+NASL; 1975; Tampa Bay; ; 9; Toronto; a; 1,3; ; Smethurst; 8248; befghijnoqr
+NASL Playoffs; 1975; Tampa Bay; ; 13; Toronto; h; 1,0; ; Best; 16111; cefghinopqr
+NASL Playoffs; 1975; Tampa Bay; ; 16; Miami; h; 3,0; ; Boyle, Scullion, Smethurst; 22710; cefghinopqr
+NASL Playoffs; 1975; Tampa Bay; ; 24; Portland; n; 2,0; ; Best, Auguste; 17009; cefghinopqrt*
+NASL; 1975; Toronto; 5; 3; Vancouver; a; 1,4; ; Pilas; 7336; abcdefghijk
+NASL; 1975; Toronto; ; 4; Seattle; a; 1,2; ; Coyne; 14252; abcdefghlmn
+NASL; 1975; Toronto; ; 7; Portland; a; 0,1; ; ; 8500; abcdefghi*lmn
+NASL; 1975; Toronto; ; 19; New York; h; 1,2; ; Roe; 4796; abcdegijlmno*
+NASL; 1975; Toronto; ; 23; Philadelphia; a; 1,0; ; Solak; 7132; abcdegh*ijlmnp*
+NASL; 1975; Toronto; ; 25; San Jose; h; 3,2; ; Coyne 3; 2431; abcdefgh*ilmno*
+NASL; 1975; Toronto; ; 1; Boston; h; 2,1; *; Psaker; 8759; abcdefgh*ij*lmnp*
+NASL; 1975; Toronto; ; 6; Washington; a; 1,2; ; Psaker; 7653; abcdeghjmno*p*q
+NASL; 1975; Toronto; ; 7; Baltimore; h; 0,1; *; ; 3135; ab*cdegjlmnq*rs
+NASL; 1975; Toronto; ; 14; Hartford; h; 1,0; ; Coyne; 2171; acdegh*jlmnp*rs
+NASL; 1975; Toronto; ; 18; New York; a; 0,2; ; ; 22500; acdef*glmnp*rst
+NASL; 1975; Toronto; ; 21; Los Angeles; h; 4,3; ; Jusic, Coyne, Lukacevic 2; 3184; acdefgj*lmp*rstu*
+NASL; 1975; Toronto; ; 28; Boston; a; 1,3; ; Lukacevic; 6143; acdef*glmn*rstvw*
+NASL; 1975; Toronto; ; 6; Rochester; h; 3,0; ; Polak, Lukacevic 2; 5109; acgklmp*rs*tu*vxy
+NASL; 1975; Toronto; ; 13; Miami; h; 2,0; ; Peric, Bradvic; 5364; acglm*n*p*rstuvxy
+NASL; 1975; Toronto; ; 16; Hartford; a; 5,0; ; Roe 2, Lukacevic 2, Bradvic; 3708; acf*gklmns*tuvx*y
+NASL; 1975; Toronto; ; 19; New York; h; 3,0; ; Lukacevic, Perani, Vieri; 21573; acf*gklmnrs*tvx*y
+NASL; 1975; Toronto; ; 23; Rochester; a; 2,1; ; Ferreira 2; 5288; acgj*klmnsvxy
+NASL; 1975; Toronto; ; 26; Boston; a; 1,2; ; Ferreira; 4157; acgj*klmnsu*vw*xy
+NASL; 1975; Toronto; ; 2; Rochester; a; 2,0; ; Ferreira, Bradvic; 3125; acgj*klmp*rst*vxy
+NASL; 1975; Toronto; ; 7; Hartford; h; 2,1; ; Coyne, Vieri; 4215; acgj*klmrstu*xy
+NASL; 1975; Toronto; ; 9; Tampa Bay; h; 3,1; ; Polak, Ferreira, Vieri; 8248; acf*gk*lmnrs*tuvy
+NASL; 1975; Toronto; ; 13; Tampa Bay; a; 0,1; ; ; 16111; acgklmnrs*tvw*y
+NASL; 1975; Vancouver; 4; 18; Chicago; h; 1,0; ; Zanatta; 10007; abcdefghijk
+NASL; 1975; Vancouver; ; 26; Seattle; h; 2,1; ; B. Wilson, Zanatta; 7753; abcdefghijl
+NASL; 1975; Vancouver; ; 3; Toronto; h; 4,1; ; R. Lenarduzzi, Zanatta, Budd, Johnson; 7336; abcdefghijlm*n*
+NASL; 1975; Vancouver; ; 9; Los Angeles; a; 3,0; ; R. Lenarduzzi, Zanatta, Johnson; 7155; abcdefglmno
+NASL; 1975; Vancouver; ; 10; San Jose; a; 2,1; ; Twamley, Mitchell; 17632; abcdefglmnop*
+NASL; 1975; Vancouver; ; 16; Portland; h; 0,2; ; ; 7815; abcdefgh*lmno
+NASL; 1975; Vancouver; ; 24; Hartford; a; 0,1; ; ; 3210; bcdefgi*j*lmnoq
+NASL; 1975; Vancouver; ; 28; New York; a; 1,0; ; Own Goal; 7331; bcdefgilmn*oqr*
+NASL; 1975; Vancouver; ; 1; Rochester; a; 1,3; ; Budd; 4811; bcfgijlmnoq
+NASL; 1975; Vancouver; ; 5; San Antonio; h; 3,0; ; Johnson 2, Thompson; 7514; cfgijlmnoqrs*
+NASL; 1975; Vancouver; ; 7; Portland; a; 2,3; +; Johnson, Gant; 11335; b*cdfgilmnoqs
+NASL; 1975; Vancouver; ; 11; Los Angeles; h; 1,0; +; Mitchell; 9168; cfgilmnoqrs
+NASL; 1975; Vancouver; ; 19; San Jose; h; 2,3; +; Mitchell, Johnson; 9424; ce*fgilmnoqr*st
+NASL; 1975; Vancouver; ; 27; Dallas; a; 1,2; ; Alberts; 3436; cegijlmnoqt
+NASL; 1975; Vancouver; ; 29; St. Louis; a; 1,2; ; Zanatta; 4217; abcefgij*lmn*op*t
+NASL; 1975; Vancouver; ; 3; Portland; a; 1,2; ; Twamley; 18278; abcdefi*j*lmnot
+NASL; 1975; Vancouver; ; 10; Seattle; h; 2,1; ; Johnson, Budd; 7205; cde*fijlmnoqt
+NASL; 1975; Vancouver; ; 12; Los Angeles; a; 0,1; ; ; 7604; cde*fijlmnoqt
+NASL; 1975; Vancouver; ; 19; Seattle; a; 0,3; ; ; 17925; b*cdfgijlmnoqt*
+NASL; 1975; Vancouver; ; 24; Boston; h; 1,2; ; Zanatta; 7158; b*cdefijlmnqr
+NASL; 1975; Vancouver; ; 31; Denver; h; 6,0; ; R. Lenarduzzi, I. Wilson, Palmer, Mitchell, Johnson, Alberts; 4528; bcd*fghijnoqt
+NASL; 1975; Vancouver; ; 7; San Jose; h; 4,0; ; B. Wilson, Mitchell, Budd, Own Goal; 5461; bcd*e*fghijnoqt
+NASL; 1975; Washington; 5; 3; San Antonio; a; 2,0; ; Darrell, DeLeon; 5370; abc*defghijk*lmn*
+NASL; 1975; Washington; ; 4; Dallas; a; 2,0; ; Horton, Ingram; 6502; abc*defghijk*lmn*
+NASL; 1975; Washington; ; 9; Tampa Bay; h; 3,0; ; Darrell, Horton, Ingram; 10340; abc*defghijk*lm
+NASL; 1975; Washington; ; 16; Philadelphia; h; 2,1; ; DeLeon 2; 10860; abc*defghijk*lm
+NASL; 1975; Washington; ; 23; Miami; h; 1,3; ; DeLeon; 8643; abcdfghijlmn*
+NASL; 1975; Washington; ; 30; St. Louis; h; 3,4; *; Darrell 2, Horton; 7238; abdefghijk*lmo*
+NASL; 1975; Washington; ; 3; Baltimore; a; 0,1; ; ; 4146; bdefghijlmn*p
+NASL; 1975; Washington; ; 6; Toronto; h; 2,1; ; Barry, Horton; 7653; befghij*klmnp
+NASL; 1975; Washington; ; 14; Baltimore; h; 3,4; ; Barry, Bain 2; 6847; befg*hijk*lmnpq
+NASL; 1975; Washington; ; 17; Philadelphia; a; 2,3; *; Willner, Darrell; 7510; bcefgij*klmpq
+NASL; 1975; Washington; ; 20; Miami; a; 0,8; ; ; 4481; bcefgh*ikl*mno*pq
+NASL; 1975; Washington; ; 29; New York; h; 2,9; ; Darrell, Ingram; 35620; bcdef*ghij*k*lmoq
+NASL; 1975; Washington; ; 2; Philadelphia; h; 4,1; ; Darrell 2, Barry, Ingram; 2140; bcdghiklqrs
+NASL; 1975; Washington; ; 8; Hartford; h; 1,0; ; Barry; 2045; bcdghik*lnqrs
+NASL; 1975; Washington; ; 13; Denver; a; 2,1; *; Minor; 3426; bdf*ghij*klnqrs
+NASL; 1975; Washington; ; 18; Rochester; a; 2,1; ; Barry, Horton; 3366; bdfgij*klnqrs
+NASL; 1975; Washington; ; 25; Miami; a; 1,2; ; Minor; 4063; bcdghij*klqrs
+NASL; 1975; Washington; ; 26; Tampa Bay; a; 1,3; ; Barry; 11153; bcdfghij*klqr
+NASL; 1975; Washington; ; 30; Boston; h; 0,2; ; ; 3150; bdfghijk*lmqr
+NASL; 1975; Washington; ; 2; Tampa Bay; h; 3,1; ; Horton 2, Ingram; 2415; bdfghijk*lnqr
+NASL; 1975; Washington; ; 6; Baltimore; a; 4,1; ; Pillinger, Ingram 2, Bain; 2877; bdghijlnqrs
+NASL; 1975; Washington; ; 10; Chicago; h; 2,1; *; Darrell; 3519; bdf*ghijk*lnqrs
 NASL; 1976; Boston; 4; 30; Tampa Bay; a; 0,1; ; ; 11417
 NASL; 1976; Boston; ; 2; Miami; a; 1,0; ; Bowery; 1700
 NASL; 1976; Boston; ; 8; Hartford; a; 3,0; ; Jefferson, Simoes, Coker; 3649
@@ -2078,8 +2078,8 @@ NASL; 1976; Chicago; ; 30; Toronto; h; 1,0; +; Alon; 6216
 NASL; 1976; Chicago; ; 2; New York; a; 2,1; +; Peplow 2; 28536
 NASL; 1976; Chicago; ; 7; Tampa Bay; h; 0,1; +; ; 2865
 NASL; 1976; Chicago; ; 14; Miami; h; 4,2; ; Kelly, Lowey, Peplow, James; 2753
-NASL; 1976; Chicago; ; 16; Rochester; a; 1,3; *; Kowalik; 5255
-NASL; 1976; Chicago; ; 19; Seattle; a; 1,0; ; ; 18830
+NASL; 1976; Chicago; ; 16; Rochester; a; 1,3; ; Kowalik; 5255
+NASL; 1976; Chicago; ; 19; Seattle; a; 1,0; *; ; 18830
 NASL; 1976; Chicago; ; 1; Washington; a; 0,3; ; ; 3215
 NASL; 1976; Chicago; ; 4; Boston; h; 2,0; ; Webb, Waldron; 3013
 NASL; 1976; Chicago; ; 5; Minnesota; a; 2,4; ; Alon, Waldron; 13550
@@ -2151,7 +2151,7 @@ NASL; 1976; Hartford; ; 14; St. Louis; h; 2,1; ; Pike, Horton; 3376
 NASL; 1976; Los Angeles; 4; 17; San Jose; a; 1,2; ; Mason; 19807
 NASL; 1976; Los Angeles; ; 25; Rochester; h; 1,0; ; Best; 7236
 NASL; 1976; Los Angeles; ; 2; San Diego; h; 2,0; ; Moraldo, Best; 7495
-NASL; 1976; Los Angeles; ; 8; San Antonio; a; 2,3; ; McAlinden 2; 5520
+NASL; 1976; Los Angeles; ; 8; San Antonio; a; 2,3; *; McAlinden 2; 5520
 NASL; 1976; Los Angeles; ; 9; Seattle; h; 4,3; *; Velazquez, Davies, Best; 7165
 NASL; 1976; Los Angeles; ; 14; Philadelphia; a; 2,1; *; Davies; 6237
 NASL; 1976; Los Angeles; ; 17; New York; a; 0,6; ; ; 24292
@@ -2206,7 +2206,7 @@ NASL; 1976; Minnesota; ; 19; St. Louis; h; 2,0; ; Flater, West; 9229
 NASL; 1976; Minnesota; ; 5; Chicago; h; 4,2; ; Willey, Flater, Ntsoelengoe 2; 13550
 NASL; 1976; Minnesota; ; 9; New York; h; 1,2; ; Ntsoelengoe; 46164
 NASL; 1976; Minnesota; ; 12; Dallas; a; 1,2; ; Litt; 17189
-NASL; 1976; Minnesota; ; 18; Washington; a; 3,0; ; Short, Litt Futcher; 6501
+NASL; 1976; Minnesota; ; 18; Washington; a; 3,0; ; Short, Litt, Futcher; 6501
 NASL; 1976; Minnesota; ; 19; Boston; a; 2,5; ; Futcher 2; 15000
 NASL; 1976; Minnesota; ; 25; Seattle; h; 1,2; +; Willey; 23627
 NASL; 1976; Minnesota; ; 26; Los Angeles; a; 1,0; ; Merrick; 8166
@@ -2276,7 +2276,7 @@ NASL; 1976; Philadelphia; ; 6; Toronto; h; 1,2; ; Own Goal; 3223
 NASL; 1976; Philadelphia; ; 13; Washington; a; 3,4; *; Lopez, Herrada, V. Perez; 6243
 NASL; 1976; Portland; 4; 16; Vancouver; a; 3,2; *; Betts, MacKay; 11352
 NASL; 1976; Portland; ; 25; Seattle; a; 0,1; +; ; 24983
-NASL; 1976; Portland; ; 1; St. Louis; h; 3,2; ; McMahon, Betts, Dangerfield; 22147
+NASL; 1976; Portland; ; 1; St. Louis; h; 3,1; ; McMahon, Betts, Dangerfield; 22147
 NASL; 1976; Portland; ; 8; Dallas; h; 0,2; ; ; 25905
 NASL; 1976; Portland; ; 14; San Diego; a; 2,0; ; MacKay 2; 9200
 NASL; 1976; Portland; ; 19; San Antonio; h; 1,0; ; Betts; 19223
@@ -2464,7 +2464,7 @@ NASL; 1976; Tampa Bay; ; 2; Miami; a; 2,1; ; Smethurst 2; 3500
 NASL; 1976; Tampa Bay; ; 10; Washington; h; 1,0; ; Scullion; 18233
 NASL; 1976; Tampa Bay; ; 14; New York; a; 4,5; ; Smethurst, Best 3; 27892
 NASL; 1976; Tampa Bay; ; 17; Toronto; h; 4,1; ; Smethurst, Lindsay, Marsh 2; 12869
-NASL; 1976; Tampa Bay; ; 21; Philadelphia; h; 2,1; +; Smethurst, Best 3; 10262
+NASL; 1976; Tampa Bay; ; 21; Philadelphia; h; 2,1; +; Smethurst, Best; 10262
 NASL; 1976; Tampa Bay; ; 24; Miami; h; 4,1; ; Scullion 3, Marsh; 15951
 NASL; 1976; Tampa Bay; ; 30; Hartford; a; 7,0; ; Smethurst 4, Lindsay, Best, Jump; 3800
 NASL; 1976; Tampa Bay; ; 1; Boston; a; 4,2; ; Smethurst, Best 2, Marsh; 981
@@ -2606,7 +2606,7 @@ NASL; 1977; Connecticut; ; 7; Chicago; h; 1,2; *; McLocklan; 3215
 NASL; 1977; Dallas; 4; 9; Tampa Bay; h; 2,1; ; Pecher, Hinton; 15212
 NASL; 1977; Dallas; ; 16; St. Louis; a; 3,0; ; Kewley, Bellinger, Rote; 9123
 NASL; 1977; Dallas; ; 24; New York; a; 2,1; *; Kewley; 13527
-NASL; 1977; Dallas; ; 30; San Jose; h; 2,3; ; Ryan, O'Hare; 21182
+NASL; 1977; Dallas; ; 30; San Jose; h; 2,3; *; Ryan, O'Hare; 21182
 NASL; 1977; Dallas; ; 7; Los Angeles; h; 1,0; ; Rote; 16502
 NASL; 1977; Dallas; ; 13; Team Hawaii; a; 2,3; *; O'Hare, Thompson; 3147
 NASL; 1977; Dallas; ; 15; Vancouver; a; 2,3; *; Own Goal, Rote; 8471
@@ -2690,7 +2690,7 @@ NASL Playoffs; 1977; Los Angeles; ; 14; Dallas; h; 3,1; ; Cohen 2, Mihailovich; 
 NASL Playoffs; 1977; Los Angeles; ; 17; Dallas; a; 5,1; ; Cohen, Backos, Cooke, Best, Rys; 18489
 NASL Playoffs; 1977; Los Angeles; ; 21; Seattle; h; 1,3; ; McAlinden; 9115
 NASL Playoffs; 1977; Los Angeles; ; 25; Seattle; a; 0,1; ; ; 56256
-NASL; 1977; Las Vegas; 4; 1; New York; h; 1,0; ; Arbelaez; 11896
+NASL; 1977; Las Vegas; 4; 9; New York; h; 1,0; ; Arbelaez; 11896
 NASL; 1977; Las Vegas; ; 15; Portland; a; 3,2; ; Ceric, Ingram, Horrocks; 14584
 NASL; 1977; Las Vegas; ; 23; Team Hawaii; h; 0,1; ; ; 5183
 NASL; 1977; Las Vegas; ; 30; Minnesota; h; 1,0; ; Ingram; 5294
@@ -2757,7 +2757,7 @@ NASL; 1977; New York; ; 29; Tampa Bay; a; 2,4; ; Field, Beckenbauer; 45288
 NASL; 1977; New York; ; 5; Toronto; h; 6,0; ; Chinaglia 2, Hunt 3, Sono; 31208
 NASL; 1977; New York; ; 8; Fort Lauderdale; a; 3,0; ; Pele, Chinaglia, Beckenbauer; 14358
 NASL; 1977; New York; ; 12; Minnesota; h; 2,1; *; Chinaglia; 36816
-NASL; 1977; New York; ; 16; Toronto; a; 2,0; +; Chinaglia, Field; 21793
+NASL; 1977; New York; ; 16; Toronto; a; 2,1; +; Chinaglia, Field; 21793
 NASL; 1977; New York; ; 19; Tampa Bay; h; 3,1; ; Pele 3; 62394
 NASL; 1977; New York; ; 23; St. Louis; a; 0,2; ; ; 32605
 NASL; 1977; New York; ; 26; Los Angeles; h; 5,2; ; Dimitrijevic, Mifflin, Pele 3; 57191
@@ -2924,7 +2924,7 @@ NASL; 1977; Tampa Bay; ; 16; Chicago; h; 4,0; ; Alston 2, Smethurst 2; 33484
 NASL; 1977; Tampa Bay; ; 24; Washington; a; 1,0; ; Marsh; 9009
 NASL; 1977; Tampa Bay; ; 30; Rochester; h; 3,1; ; Wegerle, Smethurst 2; 21426
 NASL; 1977; Tampa Bay; ; 7; Fort Lauderdale; h; 1,0; ; Marsh; 24753
-NASL; 1977; Tampa Bay; ; 13; Connecticut; h; 4,0; ; Wegerle, Alston Smethurst 2; 12759
+NASL; 1977; Tampa Bay; ; 13; Connecticut; h; 4,0; ; Wegerle, Alston, Smethurst 2; 12759
 NASL; 1977; Tampa Bay; ; 15; Connecticut; a; 4,1; ; Lindsay, Alston, Smethurst 2; 1520
 NASL; 1977; Tampa Bay; ; 20; Chicago; a; 3,4; ; Alston, Smethurst 2; 3233
 NASL; 1977; Tampa Bay; ; 22; Toronto; a; 0,4; ; ; 7640
@@ -3051,8 +3051,8 @@ NASL; 1977; Washington; ; 19; Team Hawaii; a; 2,4; ; Darrell, Stokes; 3279
 NASL; 1977; Washington; ; 22; Portland; a; 1,3; ; Redfern; 11592
 NASL; 1977; Washington; ; 27; New York; a; 2,8; ; Liveric, Stokes; 34189
 NASL; 1977; Washington; ; 30; Vancouver; h; 0,3; ; ; 17225
-NASL; 1977; Washington; ; 3; Connecticut; a; 1,4; ; Green, Redfern 2; 1100
-NASL; 1977; Washington; ; 6; New York; h; 2,1; ; ; 31283
+NASL; 1977; Washington; ; 3; Connecticut; a; 1,4; ; Green; 1100
+NASL; 1977; Washington; ; 6; New York; h; 2,1; ; Redfern 2; 31283
 NASL; 1978; California; 3; 31; Portland; h; 1,0; ; Counce; 15206
 NASL; 1978; California; ; 9; San Jose; a; 1,0; *; ; 15071
 NASL; 1978; California; ; 16; Los Angeles; h; 1,4; ; Cuenca; 16226
@@ -3296,7 +3296,7 @@ NASL; 1978; Los Angeles; ; 20; Washington; a; 0,4; ; ; 9621
 NASL; 1978; Los Angeles; ; 24; Toronto; a; 0,4; ; ; 6158
 NASL; 1978; Los Angeles; ; 28; New York; a; 1,2; ; McGrane; 42231
 NASL; 1978; Los Angeles; ; 1; Vancouver; h; 0,2; ; ; 3795
-NASL; 1978; Los Angeles; ; 4; San Diego; h; 1,2; ; Ybarra, Jones; 36204
+NASL; 1978; Los Angeles; ; 4; San Diego; h; 1,2; ; Ybarra; 36204
 NASL; 1978; Los Angeles; ; 9; San Jose; a; 4,2; ; Suhnholz, Hayes 2, Dewsnip; 14461
 NASL; 1978; Los Angeles; ; 12; Seattle; a; 0,3; ; ; 23231
 NASL; 1978; Los Angeles; ; 15; Toronto; h; 2,5; ; Hayes, Dewsnip; 4429
@@ -3338,7 +3338,7 @@ NASL; 1978; Memphis; ; 2; California; h; 3,0; ; Husband 3; 8011
 NASL; 1978; Memphis; ; 5; New England; h; 2,3; +; Husband, Stride; 12128
 NASL; 1978; Minnesota; 4; 12; Colorado; a; 0,1; ; ; 10362
 NASL; 1978; Minnesota; ; 15; Dallas; a; 3,4; +; Willey 3; 16282
-NASL; 1978; Minnesota; ; 23; Washington; a; 0,1; ; ; 13226
+NASL; 1978; Minnesota; ; 23; Washington; a; 0,1; *; ; 13226
 NASL; 1978; Minnesota; ; 29; Chicago; a; 1,0; ; Willey; 4521
 NASL; 1978; Minnesota; ; 7; Dallas; h; 2,1; ; Twellman, Ntsoelengoe; 36057
 NASL; 1978; Minnesota; ; 10; Memphis; h; 2,1; ; Ntsoelengoe, Willey; 22856
@@ -3351,8 +3351,8 @@ NASL; 1978; Minnesota; ; 29; Washington; h; 3,2; ; Willey 2, George; 29349
 NASL; 1978; Minnesota; ; 3; Seattle; h; 3,2; ; Ntsoelengoe 2, George; 33543
 NASL; 1978; Minnesota; ; 10; California; h; 1,0; ; Willey; 28060
 NASL; 1978; Minnesota; ; 13; New York; h; 2,4; ; Futcher, George; 46370
-NASL; 1978; Minnesota; ; 17; Seattle; a; 0,1; ; ; 23284
-NASL; 1978; Minnesota; ; 19; Oakland; a; 0,1; *; ; 10156
+NASL; 1978; Minnesota; ; 17; Seattle; a; 0,1; *; ; 23284
+NASL; 1978; Minnesota; ; 19; Oakland; a; 0,1; ; ; 10156
 NASL; 1978; Minnesota; ; 24; New England; h; 3,5; ; Willey, West, Futcher; 29131
 NASL; 1978; Minnesota; ; 28; Houston; h; 2,0; ; Ntsoelengoe, Willey; 33015
 NASL; 1978; Minnesota; ; 30; Portland; a; 0,1; ; ; 14124
@@ -3399,7 +3399,7 @@ NASL; 1978; New England; ; 21; Tampa Bay; a; 1,3; ; Flanagan; 24069
 NASL; 1978; New England; ; 26; Washington; a; 2,1; ; Flanagan, Wit; 8360
 NASL; 1978; New England; ; 30; Tulsa; h; 2,1; ; Abrahams, Gibbins; 9639
 NASL; 1978; New England; ; 2; Detroit; h; 0,1; ; ; 24696
-NASL; 1978; New England; ; 5; Memphis; a; 3,2; +; Powell, Abrahams; 12128
+NASL; 1978; New England; ; 5; Memphis; a; 3,2; +; Powell, Abrahams 2; 12128
 NASL Playoffs; 1978; New England; ; 9; Fort Lauderdale; h; 1,3; ; Own Goal, Ingram 2; 18672
 NASL; 1978; New York; 4; 2; Fort Lauderdale; h; 7,0; ; Bogicevic, Chinaglia 3, Hunt 3; 44442
 NASL; 1978; New York; ; 9; Los Angeles; a; 1,0; ; Chinaglia; 23681
@@ -3839,7 +3839,7 @@ NASL; 1979; Atlanta; ; 9; Chicago; h; 4,1; ; Makowski, Brooks, N. Roberts 2; 503
 NASL; 1979; Atlanta; ; 13; Minnesota; h; 5,2; ; Makowski, Bourne 3, N. Roberts; 4170
 NASL; 1979; Atlanta; ; 16; California; a; 1,5; ; Bourne; 10448
 NASL; 1979; Atlanta; ; 20; Seattle; a; 1,0; ; N. Roberts; 13805
-NASL; 1979; Atlanta; ; 24; Houston; a; 1,2; ; N. Roberts; 5005
+NASL; 1979; Atlanta; ; 24; Houston; a; 1,2; *; N. Roberts; 5005
 NASL; 1979; Atlanta; ; 27; Vancouver; h; 1,3; ; N. Roberts; 5152
 NASL; 1979; Atlanta; ; 1; Tulsa; h; 1,0; ; Bourne; 11225
 NASL; 1979; Atlanta; ; 4; Los Angeles; a; 0,1; ; ; 42496
@@ -3911,7 +3911,7 @@ NASL; 1979; Chicago; ; 18; Memphis; h; 3,1; ; Kristensen, Sjoberg 2; 6325
 NASL; 1979; Chicago; ; 21; Tampa Bay; h; 1,2; ; Advocaat; 11509
 NASL; 1979; Chicago; ; 25; San Jose; h; 2,3; ; Kristensen, Advocaat; 5734
 NASL; 1979; Chicago; ; 28; Dallas; a; 3,4; ; Granitza 2, Sjoberg; 10112
-NASL; 1979; Chicago; ; 31; Memphis; a; 2,1; +; Kristensen, Sjoberg 2; 5248
+NASL; 1979; Chicago; ; 31; Memphis; a; 2,1; +; Kristensen, Sjoberg; 5248
 NASL; 1979; Chicago; ; 5; Tulsa; a; 1,2; ; Sjoberg; 16105
 NASL; 1979; Chicago; ; 8; Fort Lauderdale; h; 2,0; ; Spalding, Granitza; 8612
 NASL; 1979; Chicago; ; 11; Atlanta; h; 2,0; ; Granitza, Ressel; 8011
@@ -4011,7 +4011,7 @@ NASL; 1979; Edmonton; ; 20; Los Angeles; h; 4,3; ; Atuegbu, Leifsson, Goossens 2
 NASL; 1979; Edmonton; ; 25; Dallas; h; 4,0; ; Lodeweges, Kraay, Leifsson, Schoenmaker; 8164
 NASL; 1979; Edmonton; ; 28; Memphis; h; 4,1; ; Leifsson, Hilkes 3; 8241
 NASL; 1979; Edmonton; ; 1; Seattle; a; 0,9; ; ; 12395
-NASL; 1979; Edmonton; ; 3; Houston; h; 3,4; ; Kraay, Hilkes, Schoenmaker; 8394
+NASL; 1979; Edmonton; ; 3; Houston; h; 3,4; *; Kraay, Hilkes, Schoenmaker; 8394
 NASL; 1979; Edmonton; ; 8; California; a; 0,2; ; ; 9734
 NASL; 1979; Fort Lauderdale; 3; 25; Washington; a; 1,2; +; Jones; 12264
 NASL; 1979; Fort Lauderdale; ; 31; New England; h; 2,0; ; Cubillas, Bodonczy; 13799
@@ -4051,7 +4051,7 @@ NASL; 1979; Houston; ; 14; San Diego; h; 6,2; ; Manzo 2, Schuberth, Marasco, Kou
 NASL; 1979; Houston; ; 19; New England; h; 3,0; ; Haaskivi, Schuberth, Morales; 653
 NASL; 1979; Houston; ; 21; Memphis; a; 2,1; +; Schuberth, Charbonneau; 7023
 NASL; 1979; Houston; ; 28; Chicago; a; 2,5; ; Haaskivi, Michia; 5430
-NASL; 1979; Houston; ; 6; New York; a; 0,5; ; ; 50142
+NASL; 1979; Houston; ; 6; New York; a; 0,3; ; ; 50142
 NASL; 1979; Houston; ; 13; Portland; h; 2,1; +; Own Goal, Michia; 3252
 NASL; 1979; Houston; ; 20; Chicago; h; 2,1; ; Haaskivi, Marasco; 3701
 NASL; 1979; Houston; ; 26; Minnesota; h; 2,1; +; Anderson, Morales; 4951
@@ -4094,7 +4094,7 @@ NASL; 1979; Los Angeles; ; 16; Detroit; h; 3,1; ; Keri, Wagner, Van Veen; 10397
 NASL; 1979; Los Angeles; ; 20; Toronto; a; 3,4; +; Rongen, Dangerfield, Van Veen; 20210
 NASL; 1979; Los Angeles; ; 23; Tulsa; a; 0,2; ; ; 15327
 NASL; 1979; Los Angeles; ; 27; Dallas; a; 3,2; +; Wagner, Van Veen, Cruyff; 9578
-NASL; 1979; Los Angeles; ; 30; Washington; h; 2,3; +; Rongen, Smeets, Van Veen; 10116
+NASL; 1979; Los Angeles; ; 30; Washington; h; 2,3; +; Rongen, Smeets; 10116
 NASL; 1979; Los Angeles; ; 4; Atlanta; h; 1,0; ; Cruyff; 42496
 NASL; 1979; Los Angeles; ; 7; San Diego; a; 1,2; +; Rongen; 15800
 NASL; 1979; Los Angeles; ; 11; Vancouver; a; 1,0; ; Cruyff; 28764
@@ -4158,7 +4158,7 @@ NASL; 1979; Minnesota; ; 6; San Jose; h; 4,1; ; Willey 3, Hamilton; 16741
 NASL; 1979; Minnesota; ; 9; Vancouver; h; 1,0; ; Futcher; 24061
 NASL; 1979; Minnesota; ; 13; Atlanta; a; 2,5; ; Willey, Futcher; 4170
 NASL; 1979; Minnesota; ; 16; Dallas; a; 0,2; ; ; 6844
-NASL; 1979; Minnesota; ; 20; New York; h; 3,1; ; Litt, Willey, West; 43952
+NASL; 1979; Minnesota; ; 20; New York; h; 3,2; ; Litt, Willey, West; 43952
 NASL; 1979; Minnesota; ; 23; Dallas; h; 2,0; ; Ntsoelengoe, Willey; 2700
 NASL; 1979; Minnesota; ; 26; Memphis; a; 2,0; ; Ntsoelengoe, Willey; 5672
 NASL; 1979; Minnesota; ; 30; Chicago; a; 4,2; ; Own Goal 2, Willey, Futcher; 6818
@@ -4200,7 +4200,7 @@ NASL; 1979; New England; ; 11; Edmonton; h; 3,2; ; Weller, Daly 2; 5719
 NASL; 1979; New England; ; 18; Seattle; a; 1,4; ; Weller; 13619
 NASL; 1979; New England; ; 21; San Diego; h; 1,0; ; Peterson; 6473
 NASL; 1979; New England; ; 28; Philadelphia; h; 2,1; +; Cantillo, Weller; 5321
-NASL; 1979; New England; ; 1; Atlanta; h; 2,3; ; Reid Alderson; 5621
+NASL; 1979; New England; ; 1; Atlanta; h; 2,3; ; Reid, Alderson; 5621
 NASL; 1979; New England; ; 4; Fort Lauderdale; h; 3,4; ; Weller, Alderson, Keita; 6129
 NASL; 1979; New England; ; 8; Dallas; a; 0,3; ; ; 8691
 NASL; 1979; New England; ; 10; Rochester; a; 0,2; ; ; 12435
@@ -4330,7 +4330,7 @@ NASL; 1979; Rochester; ; 11; Toronto; h; 0,3; ; ; 7296
 NASL; 1979; Rochester; ; 14; Fort Lauderdale; h; 2,1; ; Segota 2; 6529
 NASL; 1979; Rochester; ; 18; Toronto; a; 1,2; *; Segota; 11317
 NASL; 1979; Rochester; ; 20; Minnesota; h; 1,0; ; Segota; 7755
-NASL; 1979; Rochester; ; 24; Tampa Bay; h; 2,0; +; Segota 2; 7837
+NASL; 1979; Rochester; ; 24; Tampa Bay; h; 2,1; +; Segota 2; 7837
 NASL; 1979; Rochester; ; 27; Los Angeles; h; 2,1; ; Segota 2; 11402
 NASL; 1979; Rochester; ; 1; Fort Lauderdale; a; 2,1; ; Silva, Segota; 13057
 NASL; 1979; Rochester; ; 5; New York; h; 2,4; ; Segota 2; 18881
@@ -4624,7 +4624,7 @@ NASL; 1980; Atlanta; ; 4; Portland; h; 2,1; ; Furphy 2; 2368
 NASL; 1980; Atlanta; ; 8; New York; a; 0,6; ; ; 35007
 NASL; 1980; Atlanta; ; 14; Detroit; h; 3,1; ; G. Nanchoff, Barthou, McCall; 9035
 NASL; 1980; Atlanta; ; 21; Portland; a; 0,1; ; ; 9950
-NASL; 1980; Atlanta; ; 23; Tulsa; h; 1,5; ; Bourne 3; 3054
+NASL; 1980; Atlanta; ; 23; Tulsa; h; 1,5; ; Bourne; 3054
 NASL; 1980; Atlanta; ; 29; Seattle; h; 0,3; ; ; 5251
 NASL; 1980; Atlanta; ; 2; Vancouver; a; 0,5; ; ; 22155
 NASL; 1980; Atlanta; ; 6; Edmonton; a; 1,5; ; L. Nanchoff; 9450
@@ -4663,7 +4663,7 @@ NASL; 1980; California; ; 26; Houston; a; 5,4; +; Abrahams 4, Allen; 3829
 NASL; 1980; California; ; 29; San Jose; a; 1,5; ; Abrahams; 15421
 NASL; 1980; California; ; 1; Memphis; h; 2,3; ; Moyers, Abrahams; 6347
 NASL; 1980; California; ; 4; Tampa Bay; a; 3,1; ; Ingram, Moyers, Allen; 56389
-NASL; 1980; California; ; 9; Los Angeles; h; 2,3; ; Ingram, Lindsay, Huson; 8973
+NASL; 1980; California; ; 9; Los Angeles; h; 2,3; ; Ingram, Lindsay; 8973
 NASL; 1980; California; ; 17; Toronto; a; 1,4; ; Allen; 8308
 NASL; 1980; California; ; 19; Philadelphia; a; 2,0; ; Scharmann, Lindsay; 3473
 NASL; 1980; California; ; 30; Philadelphia; h; 3,1; ; Moyers 2, Cahill; 5637
@@ -4907,7 +4907,7 @@ NASL; 1980; Los Angeles; ; 24; Seattle; h; 1,2; ; Etherington; 10783
 NASL; 1980; Los Angeles; ; 31; Chicago; h; 1,2; +; Fernando; 10284
 NASL; 1980; Los Angeles; ; 5; Edmonton; a; 1,5; ; McGrane; 10175
 NASL; 1980; Los Angeles; ; 12; Tulsa; a; 3,0; ; Aguirre, Fernando 2; 16482
-NASL; 1980; Los Angeles; ; 14; California; h; 5,1; ; Fernando 3, Van Veen 3; 10119
+NASL; 1980; Los Angeles; ; 14; California; h; 5,1; ; Fernando 3, Van Veen 2; 10119
 NASL; 1980; Los Angeles; ; 17; Philadelphia; a; 2,1; ; Fernando, Van Veen; 4223
 NASL; 1980; Los Angeles; ; 22; Toronto; a; 1,2; *; Fernando; 14573
 NASL; 1980; Los Angeles; ; 24; New York; h; 2,0; ; Aguirre, Van Veen; 26325
@@ -4925,7 +4925,7 @@ NASL; 1980; Los Angeles; ; 6; Rochester; a; 3,1; ; Suurbier, Fernando 2; 8039
 NASL; 1980; Los Angeles; ; 9; Memphis; h; 3,2; ; Aguirre, Dangerfield, Merrick; 7587
 NASL; 1980; Los Angeles; ; 13; San Diego; h; 2,5; ; Dangerfield, Fernando; 11397
 NASL; 1980; Los Angeles; ; 16; Fort Lauderdale; h; 2,3; +; Fernando 2; 12068
-NASL; 1980; Los Angeles; ; 20; Portland; a; 2,3; *; Fernando, Garcia, Merrick; 16095
+NASL; 1980; Los Angeles; ; 20; Portland; a; 2,3; *; Fernando, Garcia; 16095
 NASL; 1980; Los Angeles; ; 23; San Jose; a; 2,1; ; Suurbier, Van Veen; 16419
 NASL; 1980; Los Angeles; ; 27; Washington; a; 0,1; ; ; 20231
 NASL; 1980; Los Angeles; ; 30; Washington; h; 2,1; *; Fernando; 14163
@@ -4998,7 +4998,7 @@ NASL; 1980; Minnesota; ; 6; Washington; h; 5,1; ; Ntsoelengoe, Futcher 4; 18238
 NASL; 1980; Minnesota; ; 10; Atlanta; h; 3,2; ; Ntsoelengoe, Alonso 2; 19425
 NASL; 1980; Minnesota; ; 16; Memphis; a; 4,3; ; Ntsoelengoe 2, Alonso, Hamilton; 8361
 NASL; 1980; Minnesota; ; 18; Philadelphia; h; 6,1; ; Ntsoelengoe 2, Alonso 2, Willey 2; 21647
-NASL; 1980; Minnesota; ; 24; Washington; a; 2,3; ; Alonso Futcher; 21833
+NASL; 1980; Minnesota; ; 24; Washington; a; 2,3; ; Alonso, Futcher; 21833
 NASL; 1980; Minnesota; ; 27; Dallas; h; 0,1; ; ; 17461
 NASL; 1980; Minnesota; ; 31; Dallas; a; 0,2; ; ; 8674
 NASL; 1980; New England; 4; 5; Atlanta; a; 1,2; ; Weller; 5442
@@ -5023,7 +5023,7 @@ NASL; 1980; New England; ; 28; Philadelphia; h; 4,0; ; Brown, Newton 3; 5293
 NASL; 1980; New England; ; 1; Houston; a; 2,1; ; Brown, Moen; 3667
 NASL; 1980; New England; ; 5; San Jose; h; 3,1; ; Weller, Brown, Newton; 5130
 NASL; 1980; New England; ; 12; Washington; h; 1,0; ; Weller; 12691
-NASL; 1980; New England; ; 16; Rochester; a; 1,0; ; Brown, Moen; 8291
+NASL; 1980; New England; ; 16; Rochester; a; 1,0; ; Brown; 8291
 NASL; 1980; New England; ; 17; Edmonton; h; 2,1; ; Newton 2; 9671
 NASL; 1980; New England; ; 23; Fort Lauderdale; a; 0,3; ; ; 14630
 NASL; 1980; New England; ; 26; San Diego; h; 3,2; ; Newton 3; 6091
@@ -5203,15 +5203,15 @@ NASL; 1980; San Diego; ; 9; New England; h; 4,0; ; Suchanek, O'Sullivan 2, Sanon
 NASL; 1980; San Diego; ; 13; Los Angeles; a; 5,2; ; Bush, Sanon 2, Sanchez 2; 11397
 NASL; 1980; San Diego; ; 15; Houston; a; 3,0; ; Bush, Sanon, Sanchez; 7504
 NASL; 1980; San Diego; ; 20; San Jose; h; 2,3; ; Sanchez 2; 15724
-NASL; 1980; San Diego; ; 27; Chicago; h; 2,1; ; Veee, Sanchez; 12125
-NASL; 1980; San Diego; ; 30; Chicago; a; 2,3; ; O'Sullivan, Sanchez; 12267
-NASL; 1980; San Diego; ; M; Chicago; a; 2,1; *; Wieczorkowski; 
-NASL; 1980; San Diego; ; 4; Tampa Bay; h; 6,3; ; Veee, Willrich 2, Rohlmann 2, Sanchez; 20109
-NASL; 1980; San Diego; ; 7; Tampa Bay; a; 0,6; ; ; 25852
-NASL; 1980; San Diego; ; SO-M; Tampa Bay; a; 2,1; *; Sanchez; 
-NASL; 1980; San Diego; ; 11; Fort Lauderdale; h; 1,2; ; Rohmann; 27635
-NASL; 1980; San Diego; ; 13; Fort Lauderdale; a; 4,2; ; Rohmann, Sanchez 3; 18420
-NASL; 1980; San Diego; ; M; Fort Lauderdale; a; 0,2; ; ; 
+NASL Playoffs; 1980; San Diego; ; 27; Chicago; h; 2,1; ; Veee, Sanchez; 12125
+NASL Playoffs; 1980; San Diego; ; 30; Chicago; a; 2,3; ; O'Sullivan, Sanchez; 12267
+NASL Playoffs; 1980; San Diego; ; M; Chicago; a; 2,1; *; Wieczorkowski; 
+NASL Playoffs; 1980; San Diego; ; 4; Tampa Bay; h; 6,3; ; Veee, Willrich 2, Rohlmann 2, Sanchez; 20109
+NASL Playoffs; 1980; San Diego; ; 7; Tampa Bay; a; 0,6; ; ; 25852
+NASL Playoffs; 1980; San Diego; ; SO-M; Tampa Bay; a; 2,1; *; Sanchez; 
+NASL Playoffs; 1980; San Diego; ; 11; Fort Lauderdale; h; 1,2; ; Rohmann; 27635
+NASL Playoffs; 1980; San Diego; ; 13; Fort Lauderdale; a; 4,2; ; Rohmann, Sanchez 3; 18420
+NASL Playoffs; 1980; San Diego; ; M; Fort Lauderdale; a; 0,2; ; ; 
 NASL; 1980; San Jose; 4; 5; Los Angeles; a; 0,1; ; ; 4313
 NASL; 1980; San Jose; ; 19; Seattle; h; 0,1; ; ; 12875
 NASL; 1980; San Jose; ; 27; Edmonton; a; 2,4; ; Maseko 2; 14783
@@ -5412,7 +5412,7 @@ NASL; 1980; Vancouver; ; 26; Portland; a; 1,5; ; Hector; 8877
 NASL; 1980; Vancouver; ; 30; Dallas; h; 3,1; ; Valentine, Whymark 2; 24948
 NASL; 1980; Vancouver; ; 2; Seattle; a; 0,1; ; ; 33363
 NASL; 1980; Vancouver; ; 6; Dallas; a; 1,2; ; Barling; 6232
-NASL; 1980; Vancouver; ; 9; Washington; h; 2,0; ; Valentine, Whymark 2; 30131
+NASL; 1980; Vancouver; ; 9; Washington; h; 2,0; ; Valentine, Whymark; 30131
 NASL; 1980; Vancouver; ; 17; California; a; 3,1; ; R. Lenarduzzi, Roe, Hector; 9488
 NASL; 1980; Vancouver; ; 21; Tulsa; a; 0,2; ; ; 20132
 NASL; 1980; Vancouver; ; 23; Portland; h; 2,3; ; Valentine, Hankin; 32301
@@ -5479,7 +5479,7 @@ NASL; 1981; Atlanta; ; 15; Los Angeles; h; 4,1; ; Byrne, Alderson, Furphy, Child
 NASL; 1981; Atlanta; ; 18; Tampa Bay; h; 2,1; ; Furphy, Kidd; 7576
 NASL; 1981; Atlanta; ; 25; Jacksonville; a; 1,2; ; Furphy; 8186
 NASL; 1981; Atlanta; ; 29; Toronto; a; 3,0; ; Alderson 2, Child; 3391
-NASL; 1981; Atlanta; ; 2; Fort Lauderdale; h; 4,3; *; Droege, Kidd; 14437
+NASL; 1981; Atlanta; ; 2; Fort Lauderdale; h; 4,3; *; Droege, Kidd 2; 14437
 NASL; 1981; Atlanta; ; 7; Calgary; a; 2,4; ; Furphy, Child; 9127
 NASL; 1981; Atlanta; ; 9; Washington; a; 0,2; ; ; 6003
 NASL; 1981; Atlanta; ; 12; Tampa Bay; a; 0,6; ; ; 15261
@@ -5531,14 +5531,14 @@ NASL; 1981; California; ; 29; Vancouver; h; 1,0; ; Moyers; 6465
 NASL; 1981; California; ; 9; San Diego; a; 2,1; ; Allen 2; 40211
 NASL; 1981; California; ; 15; San Jose; h; 1,2; ; Moyers; 25230
 NASL; 1981; California; ; 20; Los Angeles; h; 0,1; ; ; 6220
-NASL; 1981; California; ; 23; Vancouver; a; 1,5; ; Allen 2; 22775
+NASL; 1981; California; ; 23; Vancouver; a; 1,5; ; Allen; 22775
 NASL; 1981; California; ; 30; Jacksonville; h; 1,2; ; Moyers; 7825
 NASL; 1981; California; ; 6; Fort Lauderdale; a; 1,0; ; Moyers; 10723
 NASL; 1981; California; ; 9; Jacksonville; a; 0,4; ; ; 8889
 NASL; 1981; California; ; 14; Atlanta; a; 1,2; ; Moyers; 5636
 NASL; 1981; California; ; 19; Edmonton; h; 5,3; ; Oates, Abrahams, Moyers, Cesar, Khalil; 7829
 NASL; 1981; California; ; 21; Edmonton; a; 3,4; ; Abrahams, Allen, Khalil; 8722
-NASL; 1981; California; ; 24; San Jose; h; 7,1; ; Oates, Moyers 2, Cesar 2, Van der Veen, Khalil; 5333
+NASL; 1981; California; ; 24; San Jose; h; 7,0; ; Oates, Moyers 2, Cesar 2, Van der Veen, Khalil; 5333
 NASL; 1981; California; ; 27; Tampa Bay; a; 2,3; ; Greene 2; 14393
 NASL; 1981; California; ; 1; Seattle; a; 2,5; ; Greene, Khalil; 12643
 NASL; 1981; California; ; 8; Atlanta; h; 1,2; ; Van der Veen; 5975
@@ -5811,7 +5811,7 @@ NASL; 1981; Montreal; ; 25; Dallas; a; 3,1; ; O'Brien 2, Vosmaer; 5809
 NASL; 1981; Montreal; ; 28; Chicago; h; 2,1; ; Towers, Parkinson; 15467
 NASL; 1981; Montreal; ; 3; Minnesota; a; 3,4; *; Hill 2, Corre; 22095
 NASL; 1981; Montreal; ; 9; Fort Lauderdale; a; 1,3; ; Hill; 12512
-NASL; 1981; Montreal; ; 12; Jacksonville; h; 1,0; ; Towers, Parkinson; 11496
+NASL; 1981; Montreal; ; 12; Jacksonville; h; 1,0; ; Towers; 11496
 NASL; 1981; Montreal; ; 17; Atlanta; h; 1,2; ; Lynch; 23226
 NASL; 1981; Montreal; ; 21; Tulsa; a; 2,3; *; Usiyan, Parkinson; 14096
 NASL; 1981; Montreal; ; 24; Toronto; a; 5,0; ; Lynch 2, Askew, Hill 2; 8816
@@ -5837,12 +5837,12 @@ NASL; 1981; Montreal; ; 8; Jacksonville; a; 2,3; *; Towers, Usiyan; 7829
 NASL; 1981; Montreal; ; 12; Toronto; a; 3,4; +; Towers, Parkinson, Willey; 3708
 NASL; 1981; Montreal; ; 16; New York; a; 1,2; ; Own Goal; 38123
 NASL; 1981; Montreal; ; 18; Washington; h; 1,0; *; ; 50755
-NASL; 1981; Montreal; ; 24; Los Angeles; h; 5,3; ; Usiyan 2, Hill 2, O'Brien; 46682
-NASL; 1981; Montreal; ; 27; Los Angeles; a; 2,3; ; Hill, Willey; 7529
-NASL; 1981; Montreal; ; 30; Los Angeles; a; 2,1; +; O'Brien, Hill; 8812
-NASL; 1981; Montreal; ; 2; Chicago; h; 3,2; ; Hill, Sutevski, Willey; 58542
-NASL; 1981; Montreal; ; 5; Chicago; a; 2,4; ; Willey, Parkinson; 24648
-NASL; 1981; Montreal; ; 9; Chicago; a; 2,4; ; Parkinson, Hill; 27489
+NASL Playoffs; 1981; Montreal; ; 24; Los Angeles; h; 5,3; ; Usiyan 2, Hill 2, O'Brien; 46682
+NASL Playoffs; 1981; Montreal; ; 27; Los Angeles; a; 2,3; ; Hill, Willey; 7529
+NASL Playoffs; 1981; Montreal; ; 30; Los Angeles; a; 2,1; +; O'Brien, Hill; 8812
+NASL Playoffs; 1981; Montreal; ; 2; Chicago; h; 3,2; ; Hill, Sutevski, Willey; 58542
+NASL Playoffs; 1981; Montreal; ; 5; Chicago; a; 2,4; ; Willey, Parkinson; 24648
+NASL Playoffs; 1981; Montreal; ; 9; Chicago; a; 2,4; ; Parkinson, Hill; 27489
 NASL; 1981; New York; 3; 29; San Jose; a; 3,0; ; Chinaglia 2, Cabanas; 20671
 NASL; 1981; New York; ; 4; Jacksonville; a; 1,2; *; Chinaglia; 12140
 NASL; 1981; New York; ; 12; Minnesota; h; 3,1; ; Chinaglia 3; 40378
@@ -5899,7 +5899,7 @@ NASL; 1981; Portland; ; 17; Fort Lauderdale; h; 0,3; ; ; 11093
 NASL; 1981; Portland; ; 20; Chicago; h; 2,4; ; Mitchell, Brown; 12510
 NASL; 1981; Portland; ; 23; Chicago; a; 1,0; ; Brian Gant; 9568
 NASL; 1981; Portland; ; 27; Tulsa; a; 1,0; *; ; 19232
-NASL; 1981; Portland; ; 30; Edmonton; a; 1,2; ; Mitchell 2; 7892
+NASL; 1981; Portland; ; 30; Edmonton; a; 1,2; ; Mitchell; 7892
 NASL; 1981; Portland; ; 4; Vancouver; h; 2,3; +; Donachie, Mitchell; 17318
 NASL; 1981; Portland; ; 8; Washington; h; 2,1; ; Lee, Brown; 8155
 NASL; 1981; Portland; ; 11; Minnesota; a; 3,2; *; Bain, Brown; 15302
@@ -5976,7 +5976,7 @@ NASL; 1981; San Jose; ; 17; Atlanta; h; 3,1; ; Etherington, Best, Crescitelli; 1
 NASL; 1981; San Jose; ; 20; Seattle; a; 0,1; ; ; 17586
 NASL; 1981; San Jose; ; 24; California; a; 0,7; ; ; 5333
 NASL; 1981; San Jose; ; 27; Los Angeles; h; 1,2; +; Best; 14326
-NASL; 1981; San Jose; ; 1; Vancouver; h; 1,5; ; Licinar, Best; 14462
+NASL; 1981; San Jose; ; 1; Vancouver; h; 1,5; ; Licinar; 14462
 NASL; 1981; San Jose; ; 4; Fort Lauderdale; a; 1,4; ; Own Goal; 18512
 NASL; 1981; San Jose; ; 8; Tampa Bay; a; 2,4; ; Best, Perez; 13263
 NASL; 1981; San Jose; ; 11; Jacksonville; a; 3,4; ; Best, Crescitelli, Irving; 7891
@@ -6012,11 +6012,11 @@ NASL; 1981; Seattle; ; 24; Los Angeles; a; 1,2; +; Davies; 3229
 NASL; 1981; Seattle; ; 27; Montreal; h; 2,1; *; Bond; 14324
 NASL; 1981; Seattle; ; 1; California; h; 5,2; ; Bond 3, Buttle, Bourne; 12643
 NASL; 1981; Seattle; ; 4; Washington; a; 3,2; +; Bond, Davies, Cummins; 8571
-NASL; 1981; Seattle; ; 7; Jacksonville; a; 1,2; +; Buttle, Bourne; 7375
-NASL; 1981; Seattle; ; 24; Dallas; h; 1,3; ; Bond, Bourne; 14382
-NASL; 1981; Seattle; ; 29; San Diego; h; 2,3; *; Bond; 12171
-NASL; 1981; Seattle; ; 1; Tulsa; h; 1,0; ; Bond 2; 12692
-NASL; 1981; Seattle; ; 4; Calgary; h; 2,0; ; ; 14954
+NASL; 1981; Seattle; ; 7; Jacksonville; a; 1,2; +; Buttle; 7375
+NASL; 1981; Seattle; ; 24; Dallas; h; 1,3; ; Bourne; 14382
+NASL; 1981; Seattle; ; 29; San Diego; h; 2,3; *; Bond, Bourne; 12171
+NASL; 1981; Seattle; ; 1; Tulsa; h; 1,0; ; Bond; 12692
+NASL; 1981; Seattle; ; 4; Calgary; h; 2,0; ; Bond 2; 14954
 NASL; 1981; Seattle; ; 8; San Jose; a; 0,3; ; ; 13472
 NASL; 1981; Seattle; ; 12; Vancouver; a; 0,5; ; ; 26427
 NASL; 1981; Seattle; ; 15; Portland; h; 1,2; +; Stock; 16747
@@ -6054,7 +6054,7 @@ NASL; 1981; Tampa Bay; ; 22; Jacksonville; h; 2,1; ; Moss, Fernando; 15934
 NASL; 1981; Tampa Bay; ; 28; Montreal; a; 2,3; ; Moss, Fernnado; 15756
 NASL; 1981; Tampa Bay; ; 1; Los Angeles; h; 2,1; ; Kozic, Fernando; 22315
 NASL; 1981; Tampa Bay; ; 9; Fort Lauderdale; a; 0,1; ; ; 15113
-NASL; 1981; Tampa Bay; ; 12; Atlanta; h; 6,0; ; Own Goal, McLeod, Worthington 2, Fernando; 15261
+NASL; 1981; Tampa Bay; ; 12; Atlanta; h; 6,0; ; Own Goal, McLeod, Worthington 2, Fernando 2; 15261
 NASL; 1981; Tampa Bay; ; 16; Fort Lauderdale; h; 3,2; ; Moss 2, Fernando; 25650
 NASL Playoffs; 1981; Tampa Bay; ; 23; Vancouver; h; 4,1; ; Kozic, Moore, Moss, Worthington; 21192
 NASL Playoffs; 1981; Tampa Bay; ; 26; Vancouver; a; 1,0; ; Moss; 28896
@@ -6283,7 +6283,7 @@ NASL; 1982; Fort Lauderdale; ; 8; Tulsa; a; 1,3; ; Kidd; 15476; abe*fghi*jklmno
 NASL; 1982; Fort Lauderdale; ; 10; Toronto; h; 3,2; ; Kirschner, Kidd 2; 10122; ad*efghiklmnos*
 NASL; 1982; Fort Lauderdale; ; 14; Vancouver; h; 2,3; ; Meschbach, Cubillas; 9826; abd*egh*iklmops
 NASL; 1982; Fort Lauderdale; ; 17; San Diego; h; 1,7; +; Weller; 11049; abeg*hijklopr*s
-NASL; 1982; Fort Lauderdale; ; 5; Jacksonville; h; 5,3; ; Segota, Kidd 2, Cubillas; 7276; acd*fghjklmnos*
+NASL; 1982; Fort Lauderdale; ; 5; Jacksonville; h; 5,3; ; Segota, Kidd 2, Cubillas 2; 7276; acd*fghjklmnos*
 NASL; 1982; Fort Lauderdale; ; 7; Vancouver; a; 1,4; ; Meschbach; 18941; abd*ghi*klmnops
 NASL; 1982; Fort Lauderdale; ; 12; Seattle; a; 0,4; ; ; 17326; abdf*ghiklnops*
 NASL; 1982; Fort Lauderdale; ; 15; Tulsa; h; 1,2; ; Kidd; 10518; abd*efghi*klmno
@@ -6311,12 +6311,12 @@ NASL; 1982; Jacksonville; ; 8; Portland; h; 1,0; ; Bertschin; 7667; dfghi*jl*nop
 NASL; 1982; Jacksonville; ; 12; Toronto; h; 2,0; ; Green, Alonso; 7414; dfghi*jl*nopqrs
 NASL; 1982; Jacksonville; ; 18; Tulsa; a; 2,3; *; Cantillo, Alonso; 10166; dfghi*jk*lnopqs
 NASL; 1982; Jacksonville; ; 20; Portland; a; 0,2; ; ; 6688; c*dfghijk*lnoqs
-NASL; 1982; Jacksonville; ; 23; Edmonton; h; 1,0; ; ; 7602; b*dfghik*lmnoqs
-NASL; 1982; Jacksonville; ; 26; San Diego; a; 0,3; ; Alonso; 6070; bcfg*hilnopqs
-NASL; 1982; Jacksonville; ; 30; Tampa Bay; h; 4,0; ; ; 8488; bcfghiklo*pqs
-NASL; 1982; Jacksonville; ; 4; Tampa Bay; a; 0,2; ; Garcia, Alonso 2, Vaughn; 40098; bcfghikln*o*pqs
-NASL; 1982; Jacksonville; ; 10; Vancouver; h; 2,1; ; ; 9144; bcfhij*klopqs
-NASL; 1982; Jacksonville; ; 14; Seattle; a; 0,6; ; Garcia, Green; 8988; bfghijkln*op*qs
+NASL; 1982; Jacksonville; ; 23; Edmonton; h; 1,0; ; Alonso; 7602; b*dfghik*lmnoqs
+NASL; 1982; Jacksonville; ; 26; San Diego; a; 0,3; ; ; 6070; bcfg*hilnopqs
+NASL; 1982; Jacksonville; ; 30; Tampa Bay; h; 4,0; ; Garcia, Alonso 2, Vaughn; 8488; bcfghiklo*pqs
+NASL; 1982; Jacksonville; ; 4; Tampa Bay; a; 0,2; ; ; 40098; bcfghikln*o*pqs
+NASL; 1982; Jacksonville; ; 10; Vancouver; h; 2,1; ; Garcia, Green; 9144; bcfhij*klopqs
+NASL; 1982; Jacksonville; ; 14; Seattle; a; 0,6; ; ; 8988; bfghijkln*op*qs
 NASL; 1982; Jacksonville; ; 17; San Jose; a; 0,1; ; ; 9319; abfghijk*lnpq
 NASL; 1982; Jacksonville; ; 20; San Diego; h; 1,3; ; Alonso; 6014; abghijklnp*qr*t
 NASL; 1982; Jacksonville; ; 24; Chicago; a; 1,3; ; Zec; 8099; abdfghik*lp*qrt
@@ -6378,7 +6378,7 @@ NASL; 1982; New York; ; 12; Tampa Bay; a; 2,0; ; Moyers, Hunt; 28475; abcdghj*kn
 NASL; 1982; New York; ; 18; Montreal; a; 2,3; ; Romero, Moyers; 32654; abcde*ghknqrs
 NASL; 1982; New York; ; 20; Seattle; h; 3,2; ; Chinaglia, Moyers, Borja; 27357; abcde*ghkm*nqrs
 NASL; 1982; New York; ; 23; Vancouver; h; 3,2; ; Chinaglia, Moyers, Bogicevic; 22914; abcde*ghklm*nqs
-NASL; 1982; New York; ; 27; Edmonton; h; 3,1; ; Moyers, Borja; 26379; bdefhij*kl*mnsu
+NASL; 1982; New York; ; 27; Edmonton; h; 3,1; ; Moyers, Borja 2; 26379; bdefhij*kl*mnsu
 NASL; 1982; New York; ; 30; San Jose; a; 2,4; ; Iarusci, Moyers; 18111; abcefhij*kmnq*s
 NASL; 1982; New York; ; 3; Vancouver; a; 0,1; ; ; 22618; abcdef*hijknq*s
 NASL; 1982; New York; ; 7; Edmonton; a; 1,2; ; Hunt; 8697; cdefhij*kl*nqsu
@@ -6432,251 +6432,251 @@ NASL; 1982; Portland; ; 8; Tampa Bay; h; 5,0; ; Bain, Mitchell, Cho, Lee, Bennet
 NASL; 1982; Portland; ; 14; San Jose; a; 2,0; ; Futcher, Bennett; 13101; bcfgijkmnpr*s
 NASL; 1982; Portland; ; 18; Edmonton; h; 4,0; ; Bain 2, Futcher, Bennett; 7246; bc*gijlm*npqrst
 NASL; 1982; Portland; ; 22; Seattle; h; 0,1; ; ; 9517; cd*efgijklnrs
-NASL; 1982; San Diego; 4; 3; Vancouver; h; 1,0; ; Hilkes; 15037; 
-NASL; 1982; San Diego; ; 10; Chicago; h; 1,0; +; Wieczorkowski; 9740
-NASL; 1982; San Diego; ; 18; San Jose; a; 3,0; ; Dallas, Rohman, Stojanovic; 10387
-NASL; 1982; San Diego; ; 24; Seattle; h; 4,3; *; Fernandez 2, Stojanovic; 10993
-NASL; 1982; San Diego; ; 1; Seattle; a; 1,2; *; Veee; 10036
-NASL; 1982; San Diego; ; 9; Chicago; a; 2,1; ; Willrich, Stojanovic; 8269
-NASL; 1982; San Diego; ; 12; New York; h; 1,2; ; Deyna; 14805
-NASL; 1982; San Diego; ; 15; Tulsa; h; 1,2; ; Deyna; 8144
-NASL; 1982; San Diego; ; 22; Montreal; a; 0,2; ; ; 22330
-NASL; 1982; San Diego; ; 25; Toronto; a; 1,3; ; Deyna; 4212
-NASL; 1982; San Diego; ; 29; San Jose; h; 0,1; ; ; 7454
-NASL; 1982; San Diego; ; 2; Toronto; h; 0,4; ; ; 5587
-NASL; 1982; San Diego; ; 6; Edmonton; h; 5,2; ; Vee, Stojanovic 2, Deyna; 5769
-NASL; 1982; San Diego; ; 12; Portland; a; 2,1; *; Willrich; 7768
-NASL; 1982; San Diego; ; 16; San Jose; a; 2,3; +; Stojanovic, Geyer; 10366
-NASL; 1982; San Diego; ; 19; Fort Lauderdale; h; 1,3; ; Deyna; 6247
-NASL; 1982; San Diego; ; 26; Jacksonville; h; 3,0; ; Fernandez, Stojanovic, Geyer; 6070
-NASL; 1982; San Diego; ; 30; Montreal; h; 2,3; *; Hilkes, Walker; 5707
-NASL; 1982; San Diego; ; 4; Portland; a; 1,3; ; Hilkes; 10542
-NASL; 1982; San Diego; ; 7; Seattle; h; 2,1; ; Veee 2; 5483
-NASL; 1982; San Diego; ; 10; Tampa Bay; h; 2,1; ; Hilkes 2; 6785
-NASL; 1982; San Diego; ; 17; Fort Lauderdale; a; 7,1; ; Own Goal, Veee, Fernandez, Coker 2, Deyna, Gross; 11049
-NASL; 1982; San Diego; ; 20; Jacksonville; a; 3,1; ; Hilkes, Coker 2; 6014
-NASL; 1982; San Diego; ; 25; New York; a; 1,2; +; Coker; 29572
-NASL; 1982; San Diego; ; 28; Vancouver; a; 1,0; ; Own Goal; 17921
-NASL; 1982; San Diego; ; 31; Edmonton; h; 4,1; ; Willrich, Hilkes 2, Coker; 7956
-NASL; 1982; San Diego; ; 4; Portland; h; 5,3; ; Veee, Fernandez, Hilkes, Moura, Coker; 8019
-NASL; 1982; San Diego; ; 8; Edmonton; a; 3,2; ; Wieczorkowski, Moura, Coker; 5097
-NASL; 1982; San Diego; ; 11; Tulsa; a; 4,3; ; Coker 2, Deyna 2; 13354
-NASL; 1982; San Diego; ; 13; Tampa Bay; a; 1,3; ; Coker; 9436
-NASL; 1982; San Diego; ; 18; San Jose; h; 5,0; ; Hilkes, Coker 2, Deyna, Geyer; 12708
-NASL; 1982; San Diego; ; 21; Vancouver; a; 2,1; *; Hilkes; 27103
-NASL Playoffs; 1982; San Diego; ; 25; Vancouver; h; 5,1; ; Coker 3, Fernandez, Willrich; 7267
-NASL Playoffs; 1982; San Diego; ; 29; Vancouver; a; 0,1; ; ; 18253
-NASL Playoffs; 1982; San Diego; ; 2; Vancouver; h; 2,1; ; Veee, Fernandez; 8857
-NASL Playoffs; 1982; San Diego; ; 5; New York; a; 1,2; ; Deyna; 34653
-NASL Playoffs; 1982; San Diego; ; 13; New York; h; 1,2; ; Coker; 13074
-NASL; 1982; San Jose; 4; 11; Seattle; a; 1,0; *; ; 4954
-NASL; 1982; San Jose; ; 18; San Diego; h; 0,3; ; ; 10387
-NASL; 1982; San Jose; ; 25; Edmonton; h; 1,2; ; Ingram; 7156
-NASL; 1982; San Jose; ; 2; Edmonton; a; 0,2; ; ; 9426
-NASL; 1982; San Jose; ; 5; Vancouver; h; 2,0; ; Etherington, Ingram; 6467
-NASL; 1982; San Jose; ; 8; Jacksonville; a; 4,1; ; Crescitelli 2, Ingram 2; 7027
-NASL; 1982; San Jose; ; 10; Toronto; h; 2,1; ; Crescitelli, Ingram; 7235
-NASL; 1982; San Jose; ; 15; Fort Lauderdale; h; 0,2; ; ; 12520
-NASL; 1982; San Jose; ; 22; Tampa Bay; h; 6,2; ; Dangerfield 2, Crescitelli, Etherington, Powell, Hilaire; 12797
-NASL; 1982; San Jose; ; 26; Portland; a; 1,0; ; Ingram; 8286
-NASL; 1982; San Jose; ; 29; San Diego; a; 1,0; ; Etherington, Ingram; 7454
-NASL; 1982; San Jose; ; 2; Vancouver; h; 1,2; ; Dangerfield; 7289
-NASL; 1982; San Jose; ; 5; Montreal; h; 4,1; ; Dangerfield, Etherington, Ingram 2; 10229
-NASL; 1982; San Jose; ; 12; Tulsa; h; 3,2; ; Crescitelli 2, Ingram 2; 15546
-NASL; 1982; San Jose; ; 16; San Diego; h; 3,2; +; Crescitelli, Ingram 2; 10366
-NASL; 1982; San Jose; ; 19; Toronto; a; 0,7; ; ; 10177
-NASL; 1982; San Jose; ; 23; Tampa Bay; a; 1,2; ; Hamilton; 13103
-NASL; 1982; San Jose; ; 26; Fort Lauderdale; a; 2,3; ; Dangerfield, Ingram; 12276
-NASL; 1982; San Jose; ; 30; New York; h; 4,2; ; Ingram 2, Hilaire 2; 18111
-NASL; 1982; San Jose; ; 3; Seattle; a; 4,5; ; Own Goal, Dangerfield 2, Stojanovic; 9549
-NASL; 1982; San Jose; ; 7; Vancouver; a; 1,0; ; Dangerfield; 18986
-NASL; 1982; San Jose; ; 10; Portland; h; 0,2; ; ; 12780
-NASL; 1982; San Jose; ; 14; Chicago; h; 1,3; ; Ingram; 11413
-NASL; 1982; San Jose; ; 17; Jacksonville; h; 1,0; ; Ingram; 9319
-NASL; 1982; San Jose; ; 24; Montreal; a; 1,2; +; Stojanovic; 18001
-NASL; 1982; San Jose; ; 28; New York; a; 1,2; ; Etherington, Ingram; 18828
-NASL; 1982; San Jose; ; 31; Chicago; a; 1,2; ; Ingram; 8740
-NASL; 1982; San Jose; ; 4; Edmonton; a; 0,1; ; ; 2120
-NASL; 1982; San Jose; ; 7; Seattle; h; 1,2; ; Dangerfield; 11471
-NASL; 1982; San Jose; ; 14; Portland; h; 0,2; ; ; 13101
-NASL; 1982; San Jose; ; 18; San Diego; a; 0,5; ; ; 12708
-NASL; 1982; San Jose; ; 21; Tulsa; a; 0,2; ; ; 16256
-NASL; 1982; Seattle; 4; 9; Portland; h; 0,1; ; ; 14286
-NASL; 1982; Seattle; ; 11; San Jose; h; 0,1; *; ; 4954
-NASL; 1982; Seattle; ; 17; Vancouver; a; 1,2; ; Bridge; 20253
-NASL; 1982; Seattle; ; 24; San Diego; a; 3,4; *; Evans, Peterson, Daley; 10993
-NASL; 1982; Seattle; ; 29; Tulsa; h; 4,3; +; Evans, Bridge, Ward, Daley; 5815
-NASL; 1982; Seattle; ; 1; San Diego; h; 2,1; *; Barton; 10036
-NASL; 1982; Seattle; ; 7; Tampa Bay; a; 0,1; ; ; 15700
-NASL; 1982; Seattle; ; 9; Fort Lauderdale; a; 1,2; ; Ward; 11166
-NASL; 1982; Seattle; ; 26; Montreal; a; 1,2; +; Daley; 16908
-NASL; 1982; Seattle; ; 29; Jacksonville; a; 2,0; ; Evans, Mills; 7064
-NASL; 1982; Seattle; ; 5; Chicago; h; 3,0; ; Evans, Peterson, Ward; 10933
-NASL; 1982; Seattle; ; 9; Montreal; h; 1,2; *; Ward; 7137
-NASL; 1982; Seattle; ; 12; Vancouver; h; 1,2; +; Reid; 17410
-NASL; 1982; Seattle; ; 16; Chicago; a; 4,2; ; Mills, Peterson, Barton, Daley; 7962
-NASL; 1982; Seattle; ; 20; New York; a; 2,3; ; Stock, Peterson; 27357
-NASL; 1982; Seattle; ; 23; Toronto; a; 2,0; ; Own Goal, Ward; 6297
-NASL; 1982; Seattle; ; 26; Tulsa; a; 4,1; ; Evans, Peterson, Ward, Daley; 13874
-NASL; 1982; Seattle; ; 30; Toronto; h; 2,1; ; Evans, Peterson; 8695
-NASL; 1982; Seattle; ; 3; San Jose; h; 5,4; ; Evans, Mills, Peterson 2, Ward; 9549
-NASL; 1982; Seattle; ; 7; San Diego; a; 1,2; ; Peterson; 5483
-NASL; 1982; Seattle; ; 11; Edmonton; a; 1,0; ; Stock; 3452
-NASL; 1982; Seattle; ; 14; Jacksonville; h; 6,0; ; Mills, Peterson 2, Ward 2, Hibbitt; 8988
-NASL; 1982; Seattle; ; 17; Tampa Bay; h; 3,4; ; Own Goal, Mills, Daley; 11132
-NASL; 1982; Seattle; ; 21; Edmonton; h; 4,2; ; Evans, Peterson, Ward, Hibbitt; 7576
-NASL; 1982; Seattle; ; 24; Portland; a; 4,1; ; Ward 3, Hibbitt; 8488
-NASL; 1982; Seattle; ; 28; Edmonton; a; 1,2; *; Evans; 2963
-NASL; 1982; Seattle; ; 31; Portland; h; 3,0; ; Peterson, Ward 2; 13380
-NASL; 1982; Seattle; ; 4; New York; h; 3,2; ; Evans, Ward, Daley; 23925
-NASL; 1982; Seattle; ; 7; San Jose; a; 2,1; ; Peterson, Ward; 11471
-NASL; 1982; Seattle; ; 12; Fort Lauderdale; h; 4,0; ; Davies, Peterson 2, Hibbitt; 17326
-NASL; 1982; Seattle; ; 18; Vancouver; h; 1,2; ; Ward; 29488
-NASL; 1982; Seattle; ; 22; Portland; a; 1,0; ; Peterson; 9517
-NASL Playoffs; 1982; Seattle; ; 25; Toronto; h; 4,2; ; Stock, Ward 2, Peterson; 13005
-NASL Playoffs; 1982; Seattle; ; 27; Toronto; a; 1,2; +; Daley; 5099
-NASL Playoffs; 1982; Seattle; ; 1; Toronto; h; 4,2; ; Evans, Peterson, Daley 2; 17332
-NASL Playoffs; 1982; Seattle; ; 4; Fort Lauderdale; h; 0,2; ; ; 17338
-NASL Playoffs; 1982; Seattle; ; 8; Fort Lauderdale; a; 4,3; +; Ward, Davies 2, Hibbitt; 15196
-NASL Playoffs; 1982; Seattle; ; 10; Fort Lauderdale; h; 1,0; +; Hibbitt; 28986
-NASL Playoffs; 1982; Seattle; ; 18; New York; San Diego; 0,1; ; ; 22634
-NASL; 1982; Tampa Bay; 4; 3; Tulsa; h; 3,1; ; Zequinha, Fernando 2; 27379
-NASL; 1982; Tampa Bay; ; 10; Fort Lauderdale; h; 2,3; ; Zequinha, Fernando; 25390
-NASL; 1982; Tampa Bay; ; 18; New York; a; 0,2; ; ; 52436
-NASL; 1982; Tampa Bay; ; 24; Toronto; h; 1,2; +; Nogly; 17761
-NASL; 1982; Tampa Bay; ; 30; Jacksonville; a; 0,2; ; ; 10031
-NASL; 1982; Tampa Bay; ; 2; Montreal; a; 2,1; +; Connell, Fernando; 20612
-NASL; 1982; Tampa Bay; ; 5; Fort Lauderdale; a; 3,2; ; Connell, Oliveira, Fernando; 15205
-NASL; 1982; Tampa Bay; ; 7; Seattle; h; 1,0; ; Fernando; 15700
-NASL; 1982; Tampa Bay; ; 15; Portland; h; 1,2; *; Fernando; 18237
-NASL; 1982; Tampa Bay; ; 19; Jacksonville; h; 0,2; ; ; 13204
-NASL; 1982; Tampa Bay; ; 22; San Jose; a; 2,6; ; Zequinha, Fernando; 12797
-NASL; 1982; Tampa Bay; ; 29; Edmonton; h; 4,1; ; Fernando 2, Tatu 2; 25387
-NASL; 1982; Tampa Bay; ; 2; Tulsa; h; 2,0; ; Own Goal, Zequinha; 12109
-NASL; 1982; Tampa Bay; ; 5; Tulsa; a; 0,2; ; ; 14332
-NASL; 1982; Tampa Bay; ; 9; Fort Lauderdale; h; 4,2; ; Nogly, Fernando, DeBrito, Tatu; 15211
-NASL; 1982; Tampa Bay; ; 12; New York; h; 0,2; ; ; 28475
-NASL; 1982; Tampa Bay; ; 16; Vancouver; a; 0,3; ; ; 18257
-NASL; 1982; Tampa Bay; ; 20; Edmonton; a; 3,1; ; Fernando 2, McLeod; 4023
-NASL; 1982; Tampa Bay; ; 23; San Jose; h; 2,1; +; Nogly, Fernando; 13103
-NASL; 1982; Tampa Bay; ; 26; Vancouver; h; 2,5; ; McLeod, Babington; 14633
-NASL; 1982; Tampa Bay; ; 30; Jacksonville; a; 0,4; ; ; 8488
-NASL; 1982; Tampa Bay; ; 4; Jacksonville; h; 2,0; ; Babington, Tatu; 40098
-NASL; 1982; Tampa Bay; ; 7; Chicago; h; 1,2; *; Babington; 12863
-NASL; 1982; Tampa Bay; ; 10; San Diego; a; 1,2; ; Fernando; 6785
-NASL; 1982; Tampa Bay; ; 15; Tulsa; a; 0,3; ; ; 14527
-NASL; 1982; Tampa Bay; ; 17; Seattle; a; 4,3; *; Own Goal, Tatu 2; 11132
-NASL; 1982; Tampa Bay; ; 4; Chicago; a; 1,3; ; DeBrito; 9051
-NASL; 1982; Tampa Bay; ; 8; Portland; a; 0,5; ; ; 6620
-NASL; 1982; Tampa Bay; ; 10; Montreal; h; 0,3; ; ; 7131
-NASL; 1982; Tampa Bay; ; 13; San Diego; h; 3,1; ; Own Goal, Fernando, Tatu; 9436
-NASL; 1982; Tampa Bay; ; 18; Fort Lauderdale; a; 1,2; ; Nogly; 11426
-NASL; 1982; Tampa Bay; ; 22; Toronto; a; 2,9; ; Droege, Van der Beck; 9731
-NASL; 1982; Toronto; 4; 7; Vancouver; a; 3,1; ; Ntsoelengoe 2, Merrick; 16084
-NASL; 1982; Toronto; ; 17; Tulsa; h; 1,0; ; Molina; 10429
-NASL; 1982; Toronto; ; 21; Edmonton; h; 1,0; ; Franks; 3251
-NASL; 1982; Toronto; ; 24; Tampa Bay; a; 2,1; ; Franks, Byrne; 17761
-NASL; 1982; Toronto; ; 1; Fort Lauderdale; h; 3,4; *; Kodelja, Molina 2; 6589
-NASL; 1982; Toronto; ; 5; New York; h; 2,1; +; Calvert, Molina; 10740
-NASL; 1982; Toronto; ; 10; San Jose; a; 1,2; ; Byrne; 7235
-NASL; 1982; Toronto; ; 12; Edmonton; a; 1,2; +; Ntsoelengoe; 5872
-NASL; 1982; Toronto; ; 15; Montreal; h; 2,1; +; Fairclough, Best; 7506
-NASL; 1982; Toronto; ; 20; Chicago; h; 2,0; ; Molina, Nicholl; 7313
-NASL; 1982; Toronto; ; 22; Chicago; a; 1,3; ; Ntsoelengoe; 7226
-NASL; 1982; Toronto; ; 25; San Diego; h; 3,1; ; Calvert, Molina, Davidson; 4212
-NASL; 1982; Toronto; ; 2; San Diego; a; 4,0; ; Calvert, Byrne, Fairclough, Davidson; 5587
-NASL; 1982; Toronto; ; 6; New York; a; 1,2; +; Byrne; 18938
-NASL; 1982; Toronto; ; 12; Jacksonville; a; 0,2; ; ; 7414
-NASL; 1982; Toronto; ; 16; Portland; h; 1,0; ; Ntsoelengoe; 4366
-NASL; 1982; Toronto; ; 19; San Jose; h; 7,0; ; Ntsoelengoe 3, Merrick, Lenarduzzi, Roberts 2; 10177
-NASL; 1982; Toronto; ; 23; Seattle; h; 0,2; ; ; 6297
-NASL; 1982; Toronto; ; 26; Portland; a; 1,2; ; Ntsoelengoe; 6206
-NASL; 1982; Toronto; ; 30; Seattle; a; 1,2; ; Roberts; 8695
-NASL; 1982; Toronto; ; 3; Montreal; a; 1,2; ; Roberts; 23333
-NASL; 1982; Toronto; ; 7; Montreal; h; 2,0; ; Byrne, Roberts; 7345
-NASL; 1982; Toronto; ; 10; Fort Lauderdale; a; 2,3; ; Merrick, Needham; 10122
-NASL; 1982; Toronto; ; 17; Tulsa; a; 1,5; ; Roberts; 14751
-NASL; 1982; Toronto; ; 22; New York; h; 0,1; ; ; 10856
-NASL; 1982; Toronto; ; 25; Vancouver; h; 3,1; ; Ntsoelengoe, Byrne, Roberts; 16241
-NASL; 1982; Toronto; ; 28; Chicago; h; 2,1; ; Merrick, Roberts; 8239
-NASL; 1982; Toronto; ; 4; Montreal; a; 2,1; ; Byrne, Fairclough; 16242
-NASL; 1982; Toronto; ; 11; New York; a; 4,1; ; Own Goal, Ntsoelengoe, Byrne, Nicholl; 22138
-NASL; 1982; Toronto; ; 14; Jacksonville; h; 0,1; ; ; 6382
-NASL; 1982; Toronto; ; 18; Chicago; a; 1,3; ; Roberts; 7271
-NASL; 1982; Toronto; ; 22; Tampa Bay; h; 9,2; ; Ntsoelengoe 3, Merrick, Fairclough, Nicholl, Roberts 3; 9731
-NASL Playoffs; 1982; Toronto; ; 25; Seattle; a; 2,4; ; Merrick, Fairclough; 13005
-NASL Playoffs; 1982; Toronto; ; 27; Seattle; h; 2,1; ; Own Goal, Ntsoelengoe; 5099
-NASL Playoffs; 1982; Toronto; ; 1; Seattle; a; 2,4; ; Byrne, Roberts; 17332
-NASL; 1982; Tulsa; 4; 3; Tampa Bay; a; 1,3; ; Abrahams; 27379
-NASL; 1982; Tulsa; ; 10; Montreal; h; 1,0; ; Gerber; 15182
-NASL; 1982; Tulsa; ; 17; Toronto; a; 0,1; ; ; 10420
-NASL; 1982; Tulsa; ; 24; Jacksonville; h; 3,2; ; Abrahams 2, Bradford; 12132
-NASL; 1982; Tulsa; ; 29; Seattle; a; 3,4; +; Moreland, Caskey, Morrone; 5815
-NASL; 1982; Tulsa; ; 1; Chicago; a; 2,3; ; Droege, Wallace; 7780
-NASL; 1982; Tulsa; ; 8; New York; h; 2,3; *; Droege, Huson; 21118
-NASL; 1982; Tulsa; ; 15; San Diego; a; 2,1; ; Caskey 2; 8114
-NASL; 1982; Tulsa; ; 22; Jacksonville; a; 3,0; ; Wallace, Abrahams 2; 8307
-NASL; 1982; Tulsa; ; 29; Fort Lauderdale; h; 2,4; ; Moreland, Abrahams; 14182
-NASL; 1982; Tulsa; ; 2; Tampa Bay; a; 0,2; ; ; 12109
-NASL; 1982; Tulsa; ; 5; Tampa Bay; h; 2,0; ; Moreland, Abrahams; 14332
-NASL; 1982; Tulsa; ; 10; Chicago; h; 2,4; ; Abrahams 2; 13392
-NASL; 1982; Tulsa; ; 12; San Jose; a; 2,3; ; McGrath, Bradford; 15546
-NASL; 1982; Tulsa; ; 16; Edmonton; a; 5,1; ; Wallace, Ralbovsky, McGrath, Bradford; 3167
-NASL; 1982; Tulsa; ; 18; Jacksonville; h; 3,2; *; Wallace, Abrahams; 10166
-NASL; 1982; Tulsa; ; 23; Montreal; a; 1,0; *; ; 16905
-NASL; 1982; Tulsa; ; 26; Seattle; h; 1,4; ; Krupa; 13874
-NASL; 1982; Tulsa; ; 4; Fort Lauderdale; a; 2,3; +; Gerber 2; 18124
-NASL; 1982; Tulsa; ; 6; Portland; h; 4,0; ; Krupa, Gerber, Abrahams, Huson; 14090
-NASL; 1982; Tulsa; ; 8; Fort Lauderdale; h; 3,1; ; Moreland, Pesa 2; 15476
-NASL; 1982; Tulsa; ; 15; Tampa Bay; h; 3,0; ; Krupa, Abrahams 2; 14527
-NASL; 1982; Tulsa; ; 17; Toronto; h; 5,1; ; McGrath, Gerber 2, Abrahams, Koutsoukos; 14751
-NASL; 1982; Tulsa; ; 24; Edmonton; h; 1,0; ; Abrahams; 16097
-NASL; 1982; Tulsa; ; 28; Portland; a; 0,2; ; ; 6058
-NASL; 1982; Tulsa; ; 31; Vancouver; a; 2,3; *; Gerber, Bradford; 15921
-NASL; 1982; Tulsa; ; 4; Vancouver; h; 1,2; ; Pesa; 12572
-NASL; 1982; Tulsa; ; 7; Jacksonville; a; 5,0; ; Wallace 2, Abrahams 2, Saldana; 5522
-NASL; 1982; Tulsa; ; 11; San Diego; h; 3,4; ; Gerber 2, Bradford; 13354
-NASL; 1982; Tulsa; ; 15; Fort Lauderdale; a; 2,1; ; Gerber, Pesa; 10512
-NASL; 1982; Tulsa; ; 18; New York; a; 1,3; ; Wallace; 28638
-NASL; 1982; Tulsa; ; 21; San Jose; h; 2,0; ; Caskey, Gerber; 16256
-NASL Playoffs; 1982; Tulsa; ; 25; New York; a; 0,5; ; ; 23917
-NASL Playoffs; 1982; Tulsa; ; 28; New York; h; 1,0; ; Pesa; 15876
-NASL Playoffs; 1982; Tulsa; ; 1; New York; a; 0,1; ; ; 24209
-NASL; 1982; Vancouver; 4; 3; San Diego; a; 0,1; ; ; 15037
-NASL; 1982; Vancouver; ; 7; Toronto; h; 1,3; ; Beardsley; 16084
-NASL; 1982; Vancouver; ; 17; Seattle; h; 2,1; +; Lorimer, Gray; 20253
-NASL; 1982; Vancouver; ; 24; Portland; h; 2,1; ; Beardsley, Valentine; 18346
-NASL; 1982; Vancouver; ; 2; Portland; a; 0,5; ; ; 14144
-NASL; 1982; Vancouver; ; 5; San Jose; a; 0,2; ; ; 6467
-NASL; 1982; Vancouver; ; 8; Edmonton; h; 3,1; ; Hankin 2, Beardsley; 11926
-NASL; 1982; Vancouver; ; 12; Montreal; h; 2,1; *; Taylor; 13858
-NASL; 1982; Vancouver; ; 16; Edmonton; a; 2,3; *; Beardsley 2; 9622
-NASL; 1982; Vancouver; ; 29; Portland; h; 1,0; ; Hankin; 17721
-NASL; 1982; Vancouver; ; 2; San Jose; a; 2,1; ; Hankin 2; 7649
-NASL; 1982; Vancouver; ; 5; Jacksonville; h; 4,2; ; Lorimer, Hankin 2, Beardsley; 18106
-NASL; 1982; Vancouver; ; 12; Seattle; a; 2,1; +; Lorimer, Hankin; 17410
-NASL; 1982; Vancouver; ; 16; Tampa Bay; h; 3,0; ; Hankin, Gray 2; 18346
-NASL; 1982; Vancouver; ; 19; Chicago; a; 3,2; *; Yorath, Gray; 6414
-NASL; 1982; Vancouver; ; 23; New York; a; 2,3; ; Beardsley, Valentine; 22914
-NASL; 1982; Vancouver; ; 26; Tampa Bay; a; 5,2; ; Lorimer 2, Hankin, Valentine, Gray; 14633
-NASL; 1982; Vancouver; ; 3; New York; h; 1,0; ; Valentine; 22618
-NASL; 1982; Vancouver; ; 7; San Jose; h; 0,1; ; ; 18986
-NASL; 1982; Vancouver; ; 10; Jacksonville; a; 1,2; +; Lorimer; 9144
-NASL; 1982; Vancouver; ; 14; Fort Lauderdale; a; 3,2; ; Lenarduzzi, Gray 2; 9286
-NASL; 1982; Vancouver; ; 17; Montreal; a; 1,0; ; Valentine; 30489
-NASL; 1982; Vancouver; ; 21; Chicago; h; 3,1; ; Lorimer, Hankin, Valentine; 18586
-NASL; 1982; Vancouver; ; 25; Toronto; a; 1,3; ; Valentine; 16241
-NASL; 1982; Vancouver; ; 28; San Diego; h; 0,1; ; ; 17921
-NASL; 1982; Vancouver; ; 31; Tulsa; h; 3,2; *; Taylor, Gray; 15921
-NASL; 1982; Vancouver; ; 4; Tulsa; a; 2,1; ; Lorimer, Taylor; 12572
-NASL; 1982; Vancouver; ; 5; Fort Lauderdale; h; 4,1; ; Lorimer, Valentine 2, Taylor; 18941
-NASL; 1982; Vancouver; ; 11; Edmonton; h; 2,1; ; Taylor 2; 17348
-NASL; 1982; Vancouver; ; 14; Edmonton; a; 0,1; ; ; 2631
-NASL; 1982; Vancouver; ; 18; Seattle; a; 2,1; ; Lorimer, Valentine 2, Taylor; 29488
-NASL; 1982; Vancouver; ; 21; San Diego; h; 1,2; *; Yorath, Gray; 27103
-NASL Playoffs; 1982; Vancouver; ; 25; San Diego; a; 1,5; ; Lorimer; 7267
-NASL Playoffs; 1982; Vancouver; ; 28; San Diego; h; 1,0; ; Hankin; 18253
-NASL Playoffs; 1982; Vancouver; ; 2; San Diego; a; 1,2; ; Taylor; 8857
+NASL; 1982; San Diego; 4; 3; Vancouver; h; 1,0; ; Hilkes; 15037; abcdefg*hijkl
+NASL; 1982; San Diego; ; 10; Chicago; h; 1,0; +; Wieczorkowski; 9740; abcdeghijkl
+NASL; 1982; San Diego; ; 18; San Jose; a; 3,0; ; Dallas, Rohman, Stojanovic; 10387; abcdeghijklm*n*
+NASL; 1982; San Diego; ; 24; Seattle; h; 4,3; *; Fernandez 2, Stojanovic; 10993; abcdef*ghijkln*
+NASL; 1982; San Diego; ; 1; Seattle; a; 1,2; *; Veee; 10036; abcdefghjkl
+NASL; 1982; San Diego; ; 9; Chicago; a; 2,1; ; Willrich, Stojanovic; 8269; abcdefhijkl*o
+NASL; 1982; San Diego; ; 12; New York; h; 1,2; ; Deyna; 14805; abcdefhijn*op
+NASL; 1982; San Diego; ; 15; Tulsa; h; 1,2; ; Deyna; 8144; abcdeghijkn*o
+NASL; 1982; San Diego; ; 22; Montreal; a; 0,2; ; ; 22330; abcdefg*hijno
+NASL; 1982; San Diego; ; 25; Toronto; a; 1,3; ; Deyna; 4212; abcde*fghijlo
+NASL; 1982; San Diego; ; 29; San Jose; h; 0,1; ; ; 7454; abcdefhijk*loq*
+NASL; 1982; San Diego; ; 2; Toronto; h; 0,4; ; ; 5587; acdfghiklo*qrs
+NASL; 1982; San Diego; ; 6; Edmonton; h; 5,2; ; Vee, Stojanovic 2, Deyna 2; 5769; abcdfg*hijlort*
+NASL; 1982; San Diego; ; 12; Portland; a; 2,1; *; Willrich; 7768; acdefghikm*o*rt
+NASL; 1982; San Diego; ; 16; San Jose; a; 2,3; +; Stojanovic, Geyer; 10366; abcdfghijls*t
+NASL; 1982; San Diego; ; 19; Fort Lauderdale; h; 1,3; ; Deyna; 6247; abcdfghijos*t
+NASL; 1982; San Diego; ; 26; Jacksonville; h; 3,0; ; Fernandez, Stojanovic, Geyer; 6070; ab*cdeghijk*rst
+NASL; 1982; San Diego; ; 30; Montreal; h; 2,3; *; Hilkes, Walker; 5707; acdefghkln*rt
+NASL; 1982; San Diego; ; 4; Portland; a; 1,3; ; Hilkes; 10542; acdefghikn*rt
+NASL; 1982; San Diego; ; 7; Seattle; h; 2,1; ; Veee 2; 5483; abcfghikn*ort
+NASL; 1982; San Diego; ; 10; Tampa Bay; h; 2,1; ; Hilkes 2; 6785; ace*fghklnort
+NASL; 1982; San Diego; ; 17; Fort Lauderdale; a; 7,1; ; Own Goal, Veee, Fernandez, Coker 2, Deyna, Gross; 11049; acfghi*klno*rst
+NASL; 1982; San Diego; ; 20; Jacksonville; a; 3,1; ; Hilkes, Coker 2; 6014; acfghi*klno*rst
+NASL; 1982; San Diego; ; 25; New York; a; 1,2; +; Coker; 29572; acfghi*klno*rst
+NASL; 1982; San Diego; ; 28; Vancouver; a; 1,0; ; Own Goal; 17921; acefhi*klnrst
+NASL; 1982; San Diego; ; 31; Edmonton; h; 4,1; ; Willrich, Hilkes 2, Coker; 7956; acfghi*klno*rst
+NASL; 1982; San Diego; ; 4; Portland; h; 5,3; ; Veee, Fernandez, Hilkes, Moura, Coker; 8019; ab*cfghiklnrst*
+NASL; 1982; San Diego; ; 8; Edmonton; a; 3,2; ; Wieczorkowski, Moura, Coker; 5097; cf*ghi*klnorstu
+NASL; 1982; San Diego; ; 11; Tulsa; a; 4,3; ; Coker 2, Deyna 2; 13354; cf*ghik*lnorstu
+NASL; 1982; San Diego; ; 13; Tampa Bay; a; 1,3; ; Coker; 9436; b*cghiklnorst*u
+NASL; 1982; San Diego; ; 18; San Jose; h; 5,0; ; Hilkes, Coker 2, Deyna, Geyer; 12708; acfghklm*norst*
+NASL; 1982; San Diego; ; 21; Vancouver; a; 2,1; *; Hilkes; 27103; acef*ghklnors
+NASL Playoffs; 1982; San Diego; ; 25; Vancouver; h; 5,1; ; Coker 3, Fernandez, Willrich; 7267; ace*fghilnorst*
+NASL Playoffs; 1982; San Diego; ; 29; Vancouver; a; 0,1; ; ; 18253; acd*efghilnos
+NASL Playoffs; 1982; San Diego; ; 2; Vancouver; h; 2,1; ; Veee, Fernandez; 8857; acfghi*klnors
+NASL Playoffs; 1982; San Diego; ; 5; New York; a; 1,2; ; Deyna; 34653; acefghi*klors
+NASL Playoffs; 1982; San Diego; ; 13; New York; h; 1,2; ; Coker; 13074; acfghi*klnors
+NASL; 1982; San Jose; 4; 11; Seattle; a; 1,0; *; ; 4954; abcdef*ghij*klm
+NASL; 1982; San Jose; ; 18; San Diego; h; 0,3; ; ; 10387; abcdf*ghklmno
+NASL; 1982; San Jose; ; 25; Edmonton; h; 1,2; ; Ingram; 7156; aceghklmnop*q
+NASL; 1982; San Jose; ; 2; Edmonton; a; 0,2; ; ; 9426; acd*ef*ghiklmn
+NASL; 1982; San Jose; ; 5; Vancouver; h; 2,0; ; Etherington, Ingram; 6467; acdefghilmno*
+NASL; 1982; San Jose; ; 8; Jacksonville; a; 4,1; ; Crescitelli 2, Ingram 2; 7027; acdefghilmno*
+NASL; 1982; San Jose; ; 10; Toronto; h; 2,1; ; Crescitelli, Ingram; 7235; ab*cdefghilmn
+NASL; 1982; San Jose; ; 15; Fort Lauderdale; h; 0,2; ; ; 12520; acdefghilmn
+NASL; 1982; San Jose; ; 22; Tampa Bay; h; 6,2; ; Dangerfield 2, Crescitelli, Etherington, Powell, Hilaire; 12797; acdfghilmno*qr*
+NASL; 1982; San Jose; ; 26; Portland; a; 1,0; ; Ingram; 8286; acdfghilmnqs*
+NASL; 1982; San Jose; ; 29; San Diego; a; 1,0; ; Etherington; 7454; acde*fghilmnqr*
+NASL; 1982; San Jose; ; 2; Vancouver; h; 1,2; ; Dangerfield; 7289; acdfghilmnqr*
+NASL; 1982; San Jose; ; 5; Montreal; h; 4,1; ; Dangerfield, Etherington, Ingram 2; 10229; acdeghilnqrt*
+NASL; 1982; San Jose; ; 12; Tulsa; h; 3,2; ; Crescitelli 2, Ingram; 15546; acdeghilnqrt*
+NASL; 1982; San Jose; ; 16; San Diego; h; 3,2; +; Crescitelli, Ingram 2; 10366; acdeghilnqrt*
+NASL; 1982; San Jose; ; 19; Toronto; a; 0,7; ; ; 10177; acdeghilm*nqrt*
+NASL; 1982; San Jose; ; 23; Tampa Bay; a; 1,2; ; Hamilton; 13103; acdefhilm*nqrs*
+NASL; 1982; San Jose; ; 26; Fort Lauderdale; a; 2,3; ; Dangerfield, Ingram; 12276; acdfg*hilmnqrs*
+NASL; 1982; San Jose; ; 30; New York; h; 4,2; ; Ingram 2, Hilaire 2; 18111; acdfg*hlmnqru
+NASL; 1982; San Jose; ; 3; Seattle; a; 4,5; ; Own Goal, Dangerfield 2, Stojanovic; 9549; acdf*ghlmnqrt*u
+NASL; 1982; San Jose; ; 7; Vancouver; a; 1,0; ; Dangerfield; 18986; acdeglmnqrt*u
+NASL; 1982; San Jose; ; 10; Portland; h; 0,2; ; ; 12780; acdef*glmnqrt*u
+NASL; 1982; San Jose; ; 14; Chicago; h; 1,3; ; Ingram; 11413; ab*cef*glmnqrtu
+NASL; 1982; San Jose; ; 17; Jacksonville; h; 1,0; ; Ingram; 9319; aceglmno*rs*tuv
+NASL; 1982; San Jose; ; 24; Montreal; a; 1,2; +; Stojanovic; 18001; acdeglmnrs*uv
+NASL; 1982; San Jose; ; 28; New York; a; 1,2; ; Etherington; 18828; acdeglno*qrs*uv
+NASL; 1982; San Jose; ; 31; Chicago; a; 1,2; ; Ingram; 8740; acdeglno*qrsv
+NASL; 1982; San Jose; ; 4; Edmonton; a; 0,1; ; ; 2120; aceglnoqruv
+NASL; 1982; San Jose; ; 7; Seattle; h; 1,2; ; Dangerfield; 11471; acdegilnqrs*v
+NASL; 1982; San Jose; ; 14; Portland; h; 0,2; ; ; 13101; acdegi*lnqrtu*v
+NASL; 1982; San Jose; ; 18; San Diego; a; 0,5; ; ; 12708; befijnors*tuv
+NASL; 1982; San Jose; ; 21; Tulsa; a; 0,2; ; ; 16256; bdegijmnoqt*u*v
+NASL; 1982; Seattle; 4; 9; Portland; h; 0,1; ; ; 14286; abc*defghijklm*
+NASL; 1982; Seattle; ; 11; San Jose; h; 0,1; *; ; 4954; acdefghijklm*
+NASL; 1982; Seattle; ; 17; Vancouver; a; 1,2; ; Bridge; 20253; abcdefghijln*
+NASL; 1982; Seattle; ; 24; San Diego; a; 3,4; *; Evans, Peterson, Daley; 10993; abcdefghi*jk*lo
+NASL; 1982; Seattle; ; 29; Tulsa; h; 4,3; +; Evans, Bridge, Ward, Daley; 5815; abcdegij*klmo
+NASL; 1982; Seattle; ; 1; San Diego; h; 2,1; *; Barton; 10036; abcdeijklmn*o
+NASL; 1982; Seattle; ; 7; Tampa Bay; a; 0,1; ; ; 15700; abcdeg*hij*klmo
+NASL; 1982; Seattle; ; 9; Fort Lauderdale; a; 1,2; ; Ward; 11166; abcdeg*ijk*lmop
+NASL; 1982; Seattle; ; 26; Montreal; a; 1,2; +; Daley; 16908; abcefgklmop*q
+NASL; 1982; Seattle; ; 29; Jacksonville; a; 2,0; ; Evans, Mills; 7064; abefgklmopq
+NASL; 1982; Seattle; ; 5; Chicago; h; 3,0; ; Evans, Peterson, Ward; 10933; abcefgj*klmoq
+NASL; 1982; Seattle; ; 9; Montreal; h; 1,2; *; Ward; 7137; abcefgj*klmoq
+NASL; 1982; Seattle; ; 12; Vancouver; h; 1,2; +; Reid; 17410; abcefgklmn*oq
+NASL; 1982; Seattle; ; 16; Chicago; a; 4,2; ; Mills, Peterson, Barton, Daley; 7962; abcefgklmoq
+NASL; 1982; Seattle; ; 20; New York; a; 2,3; ; Stock, Peterson; 27357; abcefgklmn*oq
+NASL; 1982; Seattle; ; 23; Toronto; a; 2,0; ; Own Goal, Ward; 6297; abcefgklmn*oq
+NASL; 1982; Seattle; ; 26; Tulsa; a; 4,1; ; Evans, Peterson, Ward, Daley; 13874; abcefgklmoq
+NASL; 1982; Seattle; ; 30; Toronto; h; 2,1; ; Evans, Peterson; 8695; abcefgiklmqr*
+NASL; 1982; Seattle; ; 3; San Jose; h; 5,4; ; Evans, Mills, Peterson 2, Ward; 9549; abcfgikloqr
+NASL; 1982; Seattle; ; 7; San Diego; a; 1,2; ; Peterson; 5483; abce*fgikln*oqr
+NASL; 1982; Seattle; ; 11; Edmonton; a; 1,0; ; Stock; 3452; abcefgklm*oqr
+NASL; 1982; Seattle; ; 14; Jacksonville; h; 6,0; ; Mills, Peterson 2, Ward 2, Hibbitt; 8988; abce*fghkloqr
+NASL; 1982; Seattle; ; 17; Tampa Bay; h; 3,4; *; Own Goal, Mills, Daley; 11132; abcfghi*kloqr
+NASL; 1982; Seattle; ; 21; Edmonton; h; 4,2; ; Evans, Peterson, Ward, Hibbitt; 7576; abce*fghkloqr
+NASL; 1982; Seattle; ; 24; Portland; a; 4,1; ; Ward 3, Hibbitt; 8488; abcfghkln*oqr
+NASL; 1982; Seattle; ; 28; Edmonton; a; 1,2; *; Evans; 2963; abce*fghi*kloqr
+NASL; 1982; Seattle; ; 31; Portland; h; 3,0; ; Peterson, Ward 2; 13380; abcefg*iklmoq
+NASL; 1982; Seattle; ; 4; New York; h; 3,2; ; Evans, Ward, Daley; 23925; abcfg*hikloqr
+NASL; 1982; Seattle; ; 7; San Jose; a; 2,1; ; Peterson, Ward; 11471; abcfgklmoqr
+NASL; 1982; Seattle; ; 12; Fort Lauderdale; h; 4,0; ; Davies, Peterson 2, Hibbitt; 17326; abcfgj*klmn*oqr
+NASL; 1982; Seattle; ; 18; Vancouver; h; 1,2; ; Ward; 29488; abcfghj*klm*oqr
+NASL; 1982; Seattle; ; 22; Portland; a; 1,0; ; Peterson; 9517; abcd*fghj*kloqr
+NASL Playoffs; 1982; Seattle; ; 25; Toronto; h; 4,2; ; Stock, Ward 2, Peterson; 13005; abcd*fghkloqr
+NASL Playoffs; 1982; Seattle; ; 27; Toronto; a; 1,2; +; Daley; 5099; abcfghj*klm*oqr
+NASL Playoffs; 1982; Seattle; ; 1; Toronto; h; 4,2; ; Evans, Peterson, Daley 2; 17332; abcd*fghkloqr
+NASL Playoffs; 1982; Seattle; ; 4; Fort Lauderdale; h; 0,2; ; ; 17338; abcd*fghkloqr
+NASL Playoffs; 1982; Seattle; ; 8; Fort Lauderdale; a; 4,3; +; Ward, Davies 2, Hibbitt; 15196; abcd*fghj*kloqr
+NASL Playoffs; 1982; Seattle; ; 10; Fort Lauderdale; h; 1,0; +; Hibbitt; 28986; abcfghj*kloqr
+NASL Playoffs; 1982; Seattle; ; 18; New York; San Diego; 0,1; ; ; 22634; abcd*fghj*kloqr
+NASL; 1982; Tampa Bay; 4; 3; Tulsa; h; 3,1; ; Zequinha, Fernando 2; 27379; abcdefghi*jkl
+NASL; 1982; Tampa Bay; ; 10; Fort Lauderdale; h; 2,3; ; Zequinha, Fernando; 25390; ab*cdefghjklmn*
+NASL; 1982; Tampa Bay; ; 18; New York; a; 0,2; ; ; 52436; acefgh*ijklmno*
+NASL; 1982; Tampa Bay; ; 24; Toronto; h; 1,2; +; Nogly; 17761; bcfgijklmno*p
+NASL; 1982; Tampa Bay; ; 30; Jacksonville; a; 0,2; ; ; 10031; abcdfgijklno*q*
+NASL; 1982; Tampa Bay; ; 2; Montreal; a; 2,1; +; Connell, Fernando; 20612; abcdfghi*jkm*no
+NASL; 1982; Tampa Bay; ; 5; Fort Lauderdale; a; 3,2; ; Connell, Oliveira, Fernando; 15205; acdeghikl*m*noq
+NASL; 1982; Tampa Bay; ; 7; Seattle; h; 1,0; ; Fernando; 15700; acdfghikl*m*noq
+NASL; 1982; Tampa Bay; ; 15; Portland; h; 1,2; *; Fernando; 18237; acdfgijkl*mnoq*
+NASL; 1982; Tampa Bay; ; 19; Jacksonville; h; 0,2; ; ; 13204; acdfgijkl*mnor*
+NASL; 1982; Tampa Bay; ; 22; San Jose; a; 2,6; ; Zequinha, Fernando; 12797; acdgi*jklmnop*r
+NASL; 1982; Tampa Bay; ; 29; Edmonton; h; 4,1; ; Fernando 2, Tatu 2; 25387; acdegiknors
+NASL; 1982; Tampa Bay; ; 2; Tulsa; h; 2,0; ; Own Goal, Zequinha; 12109; cdgij*kmnoprs
+NASL; 1982; Tampa Bay; ; 5; Tulsa; a; 0,2; ; ; 14332; cdgijmnopq*rs
+NASL; 1982; Tampa Bay; ; 9; Fort Lauderdale; h; 4,2; ; Nogly, Fernando, DeBrito, Tatu; 15211; a*cdgikmnopq*rs
+NASL; 1982; Tampa Bay; ; 12; New York; h; 0,2; ; ; 28475; bcdgikmnoq*rt
+NASL; 1982; Tampa Bay; ; 16; Vancouver; a; 0,3; ; ; 18257; bcf*gikmnoqrt
+NASL; 1982; Tampa Bay; ; 20; Edmonton; a; 3,1; ; Fernando 2, McLeod; 4023; bcdf*gikmnoq*rt
+NASL; 1982; Tampa Bay; ; 23; San Jose; h; 2,1; +; Nogly, Fernando; 13103; bcdgij*kl*mnort
+NASL; 1982; Tampa Bay; ; 26; Vancouver; h; 2,5; ; McLeod, Babington; 14633; bcdfgijkm*no*rt
+NASL; 1982; Tampa Bay; ; 30; Jacksonville; a; 0,4; ; ; 8488; bcd*fgij*kmnort
+NASL; 1982; Tampa Bay; ; 4; Jacksonville; h; 2,0; ; Babington, Tatu; 40098; bcgij*knorstu
+NASL; 1982; Tampa Bay; ; 7; Chicago; h; 1,2; *; Babington; 12863; bcgij*kno*rstuv
+NASL; 1982; Tampa Bay; ; 10; San Diego; a; 1,2; ; Fernando; 6785; bcf*gijkmnotu
+NASL; 1982; Tampa Bay; ; 15; Tulsa; a; 0,3; ; ; 14527; bcgi*jkmnostuv*
+NASL; 1982; Tampa Bay; ; 17; Seattle; a; 4,3; *; Own Goal, Tatu 2; 11132; bcgij*kmnostu*v
+NASL; 1982; Tampa Bay; ; 4; Chicago; a; 1,3; ; DeBrito; 9051; bcgij*kmnor*stv
+NASL; 1982; Tampa Bay; ; 8; Portland; a; 0,5; ; ; 6620; bcgij*kmnor*stv
+NASL; 1982; Tampa Bay; ; 10; Montreal; h; 0,3; ; ; 7131; bcegjkno*rstuv*
+NASL; 1982; Tampa Bay; ; 13; San Diego; h; 3,1; ; Own Goal, Fernando, Tatu; 9436; acefgj*kmn*orsv
+NASL; 1982; Tampa Bay; ; 18; Fort Lauderdale; a; 1,2; ; Nogly; 11426; ab*cefgkmn*orsv
+NASL; 1982; Tampa Bay; ; 22; Toronto; a; 2,9; ; Droege, Van der Beck; 9731; acefgj*knrsuvw*
+NASL; 1982; Toronto; 4; 7; Vancouver; a; 3,1; ; Ntsoelengoe 2, Merrick; 16084; abcdefghijk
+NASL; 1982; Toronto; ; 17; Tulsa; h; 1,0; ; Molina; 10429; abcdefghijk
+NASL; 1982; Toronto; ; 21; Edmonton; h; 1,0; ; Franks; 3251; abcdefghijk
+NASL; 1982; Toronto; ; 24; Tampa Bay; a; 2,1; ; Franks, Byrne; 17761; abcdefghijk
+NASL; 1982; Toronto; ; 1; Fort Lauderdale; h; 3,4; *; Kodelja, Molina 2; 6589; abcdefghijkl
+NASL; 1982; Toronto; ; 5; New York; h; 2,1; +; Calvert, Molina; 10740; abcdefghijl*
+NASL; 1982; Toronto; ; 10; San Jose; a; 1,2; ; Byrne; 7235; abcdefgijlmn*
+NASL; 1982; Toronto; ; 12; Edmonton; a; 1,2; +; Ntsoelengoe; 5872; abcdefgijk*lmn*
+NASL; 1982; Toronto; ; 15; Montreal; h; 2,1; +; Fairclough, Best; 7506; acdefghijk*mo
+NASL; 1982; Toronto; ; 20; Chicago; h; 2,0; ; Molina, Nicholl; 7313; ab*cdefghijk*mo
+NASL; 1982; Toronto; ; 22; Chicago; a; 1,3; ; Ntsoelengoe; 7226; abcdefghjk*lmo*
+NASL; 1982; Toronto; ; 25; San Diego; h; 3,1; ; Calvert, Molina, Davidson; 4212; abcdefghijn*p
+NASL; 1982; Toronto; ; 2; San Diego; a; 4,0; ; Calvert, Byrne, Fairclough, Davidson; 5587; abcdefghijk*n*p
+NASL; 1982; Toronto; ; 6; New York; a; 1,2; +; Byrne; 18938; abcdefghijk*p
+NASL; 1982; Toronto; ; 12; Jacksonville; a; 0,2; ; ; 7414; abcdefghijk*p
+NASL; 1982; Toronto; ; 16; Portland; h; 1,0; ; Ntsoelengoe; 4366; abcd*efghijn*pq
+NASL; 1982; Toronto; ; 19; San Jose; h; 7,0; ; Ntsoelengoe 3, Merrick, Lenarduzzi, Roberts 2; 10177; abcfghijnqr*s
+NASL; 1982; Toronto; ; 23; Seattle; h; 0,2; ; ; 6297; bcfghijk*nqst
+NASL; 1982; Toronto; ; 26; Portland; a; 1,2; ; Ntsoelengoe; 6206; bcfghijnp*stu
+NASL; 1982; Toronto; ; 30; Seattle; a; 1,2; ; Roberts; 8695; abfghjk*npqrsu*
+NASL; 1982; Toronto; ; 3; Montreal; a; 1,2; ; Roberts; 23333; abcfghijqrs
+NASL; 1982; Toronto; ; 7; Montreal; h; 2,0; ; Byrne, Roberts; 7345; abcfghi*jmqrs
+NASL; 1982; Toronto; ; 10; Fort Lauderdale; a; 2,3; ; Merrick, Needham; 10122; abcfghijk*mqs
+NASL; 1982; Toronto; ; 17; Tulsa; a; 1,5; ; Roberts; 14751; abcefghjmqs
+NASL; 1982; Toronto; ; 22; New York; h; 0,1; ; ; 10856; abcefghjmqs
+NASL; 1982; Toronto; ; 25; Vancouver; h; 3,1; ; Ntsoelengoe, Byrne, Roberts; 16241; abcefghjmqs
+NASL; 1982; Toronto; ; 28; Chicago; h; 2,1; ; Merrick, Roberts; 8239; abcefghjmqs
+NASL; 1982; Toronto; ; 4; Montreal; a; 2,1; ; Byrne, Fairclough; 16242; abcefghjk*mpq
+NASL; 1982; Toronto; ; 11; New York; a; 4,1; ; Own Goal, Ntsoelengoe, Byrne, Nicholl; 22138; abceghjkmp*sv
+NASL; 1982; Toronto; ; 14; Jacksonville; h; 0,1; ; ; 6382; abceghjkmsv
+NASL; 1982; Toronto; ; 18; Chicago; a; 1,3; ; Roberts; 7271; abceghjkmsv
+NASL; 1982; Toronto; ; 22; Tampa Bay; h; 9,2; ; Ntsoelengoe 3, Merrick, Fairclough, Nicholl, Roberts 3; 9731; abceghjkmsv
+NASL Playoffs; 1982; Toronto; ; 25; Seattle; a; 2,4; ; Merrick, Fairclough; 13005; abceghjkmsv
+NASL Playoffs; 1982; Toronto; ; 27; Seattle; h; 2,1; ; Own Goal, Ntsoelengoe; 5099; abceghjkmq*sv
+NASL Playoffs; 1982; Toronto; ; 1; Seattle; a; 2,4; ; Byrne, Roberts; 17332; abceghi*jkmsv
+NASL; 1982; Tulsa; 4; 3; Tampa Bay; a; 1,3; ; Abrahams; 27379; abcdefgh*ij*klm
+NASL; 1982; Tulsa; ; 10; Montreal; h; 1,0; ; Gerber; 15182; abcdefgklmn
+NASL; 1982; Tulsa; ; 17; Toronto; a; 0,1; ; ; 10420; abcdefgj*klmno*
+NASL; 1982; Tulsa; ; 24; Jacksonville; h; 3,2; ; Abrahams 2, Bradford; 12132; abcdefg*j*klmop
+NASL; 1982; Tulsa; ; 29; Seattle; a; 3,4; +; Moreland, Caskey, Morrone; 5815; abcdefgklmn*o*p
+NASL; 1982; Tulsa; ; 1; Chicago; a; 2,3; ; Droege, Wallace; 7780; abcdefg*hjkm*no
+NASL; 1982; Tulsa; ; 8; New York; h; 2,3; *; Droege, Huson; 21118; abcdefh*kmnop
+NASL; 1982; Tulsa; ; 15; San Diego; a; 2,1; ; Caskey 2; 8114; abcdegi*j*kmnpq
+NASL; 1982; Tulsa; ; 22; Jacksonville; a; 3,0; ; Wallace, Abrahams 2; 8307; abcdegk*lmnpq
+NASL; 1982; Tulsa; ; 29; Fort Lauderdale; h; 2,4; ; Moreland, Abrahams; 14182; abcdegi*kl*mnpq
+NASL; 1982; Tulsa; ; 2; Tampa Bay; a; 0,2; ; ; 12109; abcdegkl*mnpq
+NASL; 1982; Tulsa; ; 5; Tampa Bay; h; 2,0; ; Moreland, Abrahams; 14332; abcde*g*ilmnpqr
+NASL; 1982; Tulsa; ; 10; Chicago; h; 2,4; ; Abrahams 2; 13392; abcdgik*lmnpq
+NASL; 1982; Tulsa; ; 12; San Jose; a; 2,3; ; McGrath, Bradford; 15546; abcde*g*ilmnpqr
+NASL; 1982; Tulsa; ; 16; Edmonton; a; 5,1; ; Wallace 2, Ralbovsky, McGrath, Bradford; 3167; abcdegh*ik*mnpq
+NASL; 1982; Tulsa; ; 18; Jacksonville; h; 3,2; *; Wallace, Abrahams; 10166; abcdegik*l*mnpq
+NASL; 1982; Tulsa; ; 23; Montreal; a; 1,0; *; ; 16905; abceg*hiklmnp*q
+NASL; 1982; Tulsa; ; 26; Seattle; h; 1,4; ; Krupa; 13874; abcegij*k*lmnpq
+NASL; 1982; Tulsa; ; 4; Fort Lauderdale; a; 2,3; +; Gerber 2; 18124; acei*klmnpqst
+NASL; 1982; Tulsa; ; 6; Portland; h; 4,0; ; Krupa, Gerber, Abrahams, Huson; 14090; acdei*jlmnpq*st
+NASL; 1982; Tulsa; ; 8; Fort Lauderdale; h; 3,1; ; Moreland, Pesa 2; 15476; acdei*jk*lmnpst
+NASL; 1982; Tulsa; ; 15; Tampa Bay; h; 3,0; ; Krupa, Abrahams 2; 14527; adefjk*lmn*pstu
+NASL; 1982; Tulsa; ; 17; Toronto; h; 5,1; ; McGrath, Gerber 2, Abrahams, Koutsoukos; 14751; adefij*lmpstu
+NASL; 1982; Tulsa; ; 24; Edmonton; h; 1,0; ; Abrahams; 16097; adefi*jk*lmpstu
+NASL; 1982; Tulsa; ; 28; Portland; a; 0,2; ; ; 6058; adefg*ik*mnpstu
+NASL; 1982; Tulsa; ; 31; Vancouver; a; 2,3; *; Gerber, Bradford; 15921; adeflmnpstu
+NASL; 1982; Tulsa; ; 4; Vancouver; h; 1,2; ; Pesa; 12572; adefg*lmnpstuv*
+NASL; 1982; Tulsa; ; 7; Jacksonville; a; 5,0; ; Wallace 2, Abrahams 2, Saldana; 5522; adefgk*lmnpr*su
+NASL; 1982; Tulsa; ; 11; San Diego; h; 3,4; ; Gerber 2, Bradford; 13354; adefk*lmnpstuv*
+NASL; 1982; Tulsa; ; 15; Fort Lauderdale; a; 2,1; ; Gerber, Pesa; 10512; adeflmnpq*stu
+NASL; 1982; Tulsa; ; 18; New York; a; 1,3; ; Wallace; 28638; adefg*lmnpq*tu
+NASL; 1982; Tulsa; ; 21; San Jose; h; 2,0; ; Caskey, Gerber; 16256; adefi*klnpq*stu
+NASL Playoffs; 1982; Tulsa; ; 25; New York; a; 0,5; ; ; 23917; adefg*i*lnpqstu
+NASL Playoffs; 1982; Tulsa; ; 28; New York; h; 1,0; ; Pesa; 15876; adefj*klnpstu
+NASL Playoffs; 1982; Tulsa; ; 1; New York; a; 0,1; ; ; 24209; adefi*mnpqstu
+NASL; 1982; Vancouver; 4; 3; San Diego; a; 0,1; ; ; 15037; abcdefghijkl*
+NASL; 1982; Vancouver; ; 7; Toronto; h; 1,3; ; Beardsley; 16084; abcdefghjkl
+NASL; 1982; Vancouver; ; 17; Seattle; h; 2,1; +; Lorimer, Gray; 20253; abcdefgijkmn*
+NASL; 1982; Vancouver; ; 24; Portland; h; 2,1; ; Beardsley, Valentine; 18346; abcdegijkmn
+NASL; 1982; Vancouver; ; 2; Portland; a; 0,5; ; ; 14144; abcdegh*ijkmno*
+NASL; 1982; Vancouver; ; 5; San Jose; a; 0,2; ; ; 6467; bdeghi*jkmno*pq
+NASL; 1982; Vancouver; ; 8; Edmonton; h; 3,1; ; Hankin 2, Beardsley; 11926; bdhijkl*mnprs
+NASL; 1982; Vancouver; ; 12; Montreal; h; 2,1; *; Taylor; 13858; bdf*ijklmnpq*rs
+NASL; 1982; Vancouver; ; 16; Edmonton; a; 2,3; *; Beardsley 2; 9622; bcdhijkmno*pq
+NASL; 1982; Vancouver; ; 29; Portland; h; 1,0; ; Hankin; 17721; bdhijkmnopq*t
+NASL; 1982; Vancouver; ; 2; San Jose; a; 2,1; ; Hankin 2; 7649; bdgijkmnopt
+NASL; 1982; Vancouver; ; 5; Jacksonville; h; 4,2; ; Lorimer, Hankin 2, Beardsley; 18106; bc*dghijknopq*t
+NASL; 1982; Vancouver; ; 12; Seattle; a; 2,1; +; Lorimer, Hankin; 17410; bdfghikmnpt
+NASL; 1982; Vancouver; ; 16; Tampa Bay; h; 3,0; ; Hankin, Gray 2; 18346; bdgh*ijkmnopt
+NASL; 1982; Vancouver; ; 19; Chicago; a; 3,2; *; Yorath, Gray; 6414; bf*ghjkmnopqr*t
+NASL; 1982; Vancouver; ; 23; New York; a; 2,3; ; Beardsley, Valentine; 22914; bf*gh*ijkmnopqt
+NASL; 1982; Vancouver; ; 26; Tampa Bay; a; 5,2; ; Lorimer 2, Hankin, Valentine, Gray; 14633; bgijkmnopqt
+NASL; 1982; Vancouver; ; 3; New York; h; 1,0; ; Valentine; 22618; be*gh*ijkmnopqt
+NASL; 1982; Vancouver; ; 7; San Jose; h; 0,1; ; ; 18986; be*ghikmnopqt
+NASL; 1982; Vancouver; ; 10; Jacksonville; a; 1,2; +; Lorimer; 9144; bef*ghikmno*pqt
+NASL; 1982; Vancouver; ; 14; Fort Lauderdale; a; 3,2; ; Lenarduzzi, Gray 2; 9286; bf*ghikmnopqt
+NASL; 1982; Vancouver; ; 17; Montreal; a; 1,0; ; Valentine; 30489; bf*ghikmnopqt
+NASL; 1982; Vancouver; ; 21; Chicago; h; 3,1; ; Lorimer, Hankin, Valentine; 18586; bfgikmno*pqst
+NASL; 1982; Vancouver; ; 25; Toronto; a; 1,3; ; Valentine; 16241; bfgikmno*pqst
+NASL; 1982; Vancouver; ; 28; San Diego; h; 0,1; ; ; 17921; bfgikmnpqst
+NASL; 1982; Vancouver; ; 31; Tulsa; h; 3,2; *; Taylor, Gray; 15921; bfgklmno*pqst
+NASL; 1982; Vancouver; ; 4; Tulsa; a; 2,1; ; Lorimer, Taylor; 12572; bfgiklmnprt
+NASL; 1982; Vancouver; ; 5; Fort Lauderdale; h; 4,1; ; Lorimer, Valentine 2, Taylor; 18941; fgijklmopqt
+NASL; 1982; Vancouver; ; 11; Edmonton; h; 2,1; ; Taylor 2; 17348; bfghjklmn*pqs*t
+NASL; 1982; Vancouver; ; 14; Edmonton; a; 0,1; ; ; 2631; bfgijkln*o*pqst
+NASL; 1982; Vancouver; ; 18; Seattle; a; 2,1; ; Lorimer, Valentine; 29488; bfgijklmn*o*pqt
+NASL; 1982; Vancouver; ; 21; San Diego; h; 1,2; *; Yorath; 27103; bdfgjklmn*pqt
+NASL Playoffs; 1982; Vancouver; ; 25; San Diego; a; 1,5; ; Lorimer; 7267; bdfgijlmn*pqt
+NASL Playoffs; 1982; Vancouver; ; 28; San Diego; h; 1,0; ; Hankin; 18253; bf*gijkmno*pqst
+NASL Playoffs; 1982; Vancouver; ; 2; San Diego; a; 1,2; ; Taylor; 8857; bf*gijklmn*opqt
 NASL; 1983; Team America; 4; 23; Seattle; a; 1,0; *; ; 16736; abcdefghijk*l
 NASL; 1983; Team America; ; 8; Tulsa; h; 1,0; ; Green; 14211; abcdefghijk*lm*
 NASL; 1983; Team America; ; 15; Montreal; a; 0,1; ; ; 8109; abcdefghijk*l*m
@@ -6718,8 +6718,8 @@ NASL; 1983; Chicago; ; 15; Montreal; h; 3,2; +; Droege, Alonso, Huson; 8118; def
 NASL; 1983; Chicago; ; 18; Tulsa; a; 0,4; ; ; 16089; adef*gh*jjklmnoq
 NASL; 1983; Chicago; ; 22; New York; a; 3,2; ; Granitza 2, Alonso; 22368; adefghjklm*no*q
 NASL; 1983; Chicago; ; 25; Team America; h; 1,2; +; Granitza; 16101; adefghjklno*q
-NASL; 1983; Chicago; ; 1; New York; h; 5,2; ; Granitza, Margetic, Alonso, Seninho; 16244; defgjklmnpqr*t*
-NASL; 1983; Chicago; ; 5; San Diego; a; 4,3; *; Granitza, Margetic, Alonso, Gruber; 3813; c*defjklmnpqr*t
+NASL; 1983; Chicago; ; 1; New York; h; 5,2; ; Granitza, Margetic, Alonso, Seninho 2; 16244; defgjklmnpqr*t*
+NASL; 1983; Chicago; ; 5; San Diego; a; 4,3; +; Granitza, Margetic, Alonso, Gruber; 3813; c*defjklmnpqr*t
 NASL; 1983; Chicago; ; 9; Tulsa; h; 1,2; *; Granitza; 10276; c*defjklmnpqs*t
 NASL; 1983; Chicago; ; 13; Tulsa; a; 0,4; ; ; 14124; cdghjk*mno*pqst
 NASL; 1983; Chicago; ; 16; Tampa Bay; h; 4,1; ; Granitza 2, Alonso, Huson; 8763; abdefhjlmno*q*t
@@ -6734,7 +6734,7 @@ NASL; 1983; Chicago; ; 13; Golden Bay; a; 2,3; +; Own Goal, Cho; 13338; abegijkl
 NASL; 1983; Chicago; ; 19; Team America; h; 3,0; ; Margetic, Alonso, Seninho; 21913; abegijklm*no*qt
 NASL; 1983; Chicago; ; 21; New York; a; 3,5; ; Fajkus, Granitza, Margetic; 30678; adeghjklmno*q*t
 NASL; 1983; Chicago; ; 24; Team America; a; 2,5; ; Own Goal, Granitza; 4865; eghijklm*no*pqt
-NASL; 1983; Chicago; ; 28; Montreal; h; 1,2; n; Margetic 2, Alonso; 6904; abd*eghijk*lmqt
+NASL; 1983; Chicago; ; 28; Montreal; h; 1,2; n; Margetic; 6904; abd*eghijk*lmqt
 NASL; 1983; Chicago; ; 31; Toronto; h; 0,1; ; ; 8161; abdgjk*lmoqrst*
 NASL; 1983; Chicago; ; 3; Montreal; a; 0,4; ; ; 10318; a*bfgikmoprst
 NASL Playoffs; 1983; Chicago; ; 7; Golden Bay; a; 1,6; ; Seninho; 16572; abd*egijkno*qrt
@@ -6784,7 +6784,7 @@ NASL; 1983; Golden Bay; ; 22; Team America; h; 3,0; ; Cuellar, Zungul 2; 10266; 
 NASL; 1983; Golden Bay; ; 26; Toronto; a; 1,5; ; Own Goal; 11448; abcdefg*hijkln*
 NASL; 1983; Golden Bay; ; 29; Fort Lauderdale; a; 2,3; ; Terlecki, Zungul; 7224; adefg*hiklmno
 NASL; 1983; Golden Bay; ; 4; Tampa Bay; a; 2,1; +; Goossens 2; 26509; adefhij*klmno
-NASL; 1983; Golden Bay; ; 6; Seattle; h; 3,2; *; Goossens; 9970; abcdefg*hijlmo*
+NASL; 1983; Golden Bay; ; 6; Seattle; h; 3,2; *; Goossens 2; 9970; abcdefg*hijlmo*
 NASL; 1983; Golden Bay; ; 9; San Diego; h; 2,1; +; Iglesias, Goossens; 10497; abcdefg*hijk*ln
 NASL; 1983; Golden Bay; ; 13; Seattle; a; 5,2; ; Dangerfield, Iglesias, Terlecki, Goossens, Ingram; 6058; abcde*fghijln
 NASL; 1983; Golden Bay; ; 17; Vancouver; a; 1,2; ; Goossens; 25060; abcde*fghijk*ln
@@ -6824,7 +6824,7 @@ NASL; 1983; Montreal; ; 25; New York; h; 1,2; +; Gray; 8407; bdef*ghijk*lmpq
 NASL; 1983; Montreal; ; 30; Toronto; h; 2,0; ; Comrie 2; 6063; bc*deghijlmpq
 NASL; 1983; Montreal; ; 7; Vancouver; a; 3,5; ; Quinn, Willey, Comrie; 21620; bcdf*ghijlmpqr*
 NASL; 1983; Montreal; ; 12; Fort Lauderdale; h; 3,2; ; Gray, Willey 2; 6489; abdefghijk*lms*
-NASL; 1983; Montreal; ; 17; Seattle; h; 3,1; ; Own Goal, Quinn Willey; 6680; abc*defghijk*lm
+NASL; 1983; Montreal; ; 17; Seattle; h; 3,1; ; Own Goal, Quinn, Willey; 6680; abc*defghijk*lm
 NASL; 1983; Montreal; ; 20; Vancouver; a; 1,0; ; Vujovic; 56225; abcefghijkl*mr*
 NASL; 1983; Montreal; ; 23; San Diego; a; 1,2; ; Mitchell; 4269; abcd*efghijkl*m
 NASL; 1983; Montreal; ; 27; Golden Bay; h; 3,4; *; Vujovic 3; 6733; abcdefijk*lmo*s
@@ -6896,7 +6896,7 @@ NASL; 1983; San Diego; ; 30; Tampa Bay; a; 2,0; ; Wieczorkowski, Deyna; 7145; ac
 NASL; 1983; San Diego; ; 3; New York; a; 1,3; ; Perez; 22756; acdijk*qruvwy*z
 NASL; 1983; San Diego; ; 7; Chicago; a; 4,5; ; Fernando 2, Deyna 2; 9958; acdi*jkqr*uvwyz
 NASL; 1983; San Diego; ; 10; Golden Bay; h; 2,1; ; Coker, Heale; 5923; acdjk*pquvwyz
-NASL; 1983; San Diego; ; 12; Tampa Bay; h; 9,1; ; Coker 2, Fernandez, Deyna 4, Heale; 3844; acdjk*o*pquvwyz
+NASL; 1983; San Diego; ; 12; Tampa Bay; h; 9,1; ; Coker 2, Fernandez, Deyna 4, Heale 2; 3844; acdjk*o*pquvwyz
 NASL; 1983; San Diego; ; 14; Fort Lauderdale; h; 2,3; *; Deyna, Heale; 4580; cdjpqr*tuvwyz
 NASL; 1983; San Diego; ; 18; Vancouver; a; 0,3; ; ; 22561; acdi*jkmpqruy0*
 NASL; 1983; San Diego; ; 20; Golden Bay; a; 2,4; ; Coker, Willrich; 12248; acdijkopruy
@@ -6959,7 +6959,7 @@ NASL; 1983; Tampa Bay; ; 30; San Diego; h; 0,2; ; ; 7145; abe*fhikl*prsuv
 NASL; 1983; Tampa Bay; ; 5; Chicago; h; 4,3; ; Rojas, Gerber, Van der Veen, Karpun; 5559; befhik*lpqruv*x
 NASL; 1983; Tampa Bay; ; 7; Team America; a; 4,1; ; Connell, Tatu, Gerber, Van der Veen; 6526; abefhik*lprux
 NASL; 1983; Tampa Bay; ; 12; San Diego; a; 1,9; ; Karpun; 5844; abefhik*lpruw*x
-NASL; 1983; Tampa Bay; 8; 27; Tulsa; a; 1,4; ; Van der Veen; 9572; befhiklpqr*s*uv
+NASL; 1983; Tampa Bay; 8; 17; Tulsa; a; 1,4; ; Van der Veen; 9572; befhiklpqr*s*uv
 NASL; 1983; Tampa Bay; 8; 24; Fort Lauderdale; h; 1,2; ; Tatu; 5780; bfhikpqrs*t*uvw
 NASL; 1983; Tampa Bay; 8; 28; New York; a; 1,3; ; Lacevic; 19868; abefhikprst*uv*
 NASL; 1983; Tampa Bay; ; 31; Fort Lauderdale; a; 0,5; ; ; 7024; be*fhikpstuw*xy
@@ -7055,7 +7055,7 @@ NASL; 1983; Vancouver; ; 3; San Diego; h; 3,0; ; Lorimer, Cross, Beardsley; 2433
 NASL; 1983; Vancouver; ; 7; Montreal; h; 5,3; ; O'Brien, Cross 2, Beardsley, Norman; 21620; abefgijlmnop*
 NASL; 1983; Vancouver; ; 10; New York; h; 2,0; ; Cross 2; 50205; abdfijlnorst*
 NASL; 1983; Vancouver; ; 13; Toronto; a; 0,1; *; ; 22054; abdfijlnorst*
-NASL; 1983; Vancouver; ; 17; Golden Bay; h; 2,1; ; Valentine, Cross 3; 25060; abdfgijlnort*
+NASL; 1983; Vancouver; ; 17; Golden Bay; h; 2,1; ; Valentine, Cross; 25060; abdfgijlnort*
 NASL; 1983; Vancouver; ; 20; Montreal; h; 0,1; ; ; 56255; abfgijlnors*t
 NASL; 1983; Vancouver; ; 24; Team America; a; 2,0; ; Beardsley, Felix; 8623; abfgijlnoq*rs*t
 NASL; 1983; Vancouver; ; 27; Team America; h; 1,0; *; ; 26031; abfgijlmnor*tu*
@@ -7101,11 +7101,11 @@ NASL Playoffs; 1984; Chicago; ; 3; Toronto; a; 3,2; ; Simanton, Margetic 2; 1684
 NASL; 1984; Golden Bay; 5; 19; San Diego; h; 2,3; *; Hunter, Zungul; 12261; abcdefgh*ijkl
 NASL; 1984; Golden Bay; ; 23; Vancouver; a; 3,5; ; Rojas, Zungul 2; 10424; abce*fgijklmno*
 NASL; 1984; Golden Bay; ; 27; Chicago; h; 2,3; ; Zungul 2; 10017; abce*fghijklmp*
-NASL; 1984; Golden Bay; ; 3; San Diego; a; 3,2; *; Rojas, Zungul 2; 7710; abcfghjklmqr*
+NASL; 1984; Golden Bay; ; 3; San Diego; a; 3,2; *; Rojas, Zungul; 7710; abcfghjklmqr*
 NASL; 1984; Golden Bay; ; 8; Minnesota; a; 1,2; +; Sweeney; 6344; abcfghij*klmqr*
 NASL; 1984; Golden Bay; ; 13; New York; h; 1,3; ; Rojas; 11696; abcfghi*jklmqr*
 NASL; 1984; Golden Bay; ; 22; Tulsa; a; 1,3; ; Segota; 6803; bcd*ghijklm*qrs
-NASL; 1984; Golden Bay; ; 30; Tampa Bay; h; 9,0; ; Zungul 4, Segota, Vrablic 2, Sweeney; 10109; abcfghij*klm*oq
+NASL; 1984; Golden Bay; ; 30; Tampa Bay; h; 9,0; ; Zungul 4, Segota 2, Vrablic 2, Sweeney; 10109; abcfghij*klm*oq
 NASL; 1984; Golden Bay; ; 4; Tampa Bay; a; 1,2; ; Zungul; 34372; abcfghij*klm*oq
 NASL; 1984; Golden Bay; ; 8; Tulsa; h; 4,1; ; Goossens 2, Zungul, Vrablic; 8694; abcfg*hijkloqr*
 NASL; 1984; Golden Bay; ; 11; Toronto; h; 2,0; ; Goossens, Segota; 9413; abcfhijkloq
