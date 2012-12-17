@@ -68,6 +68,8 @@ def generate_competition_stats():
     competition_generate('American League of Professional Football')
     competition_generate('Liga MX')
 
+    #competition_generate('North American Soccer League')
+
     
 
                         

@@ -1,6 +1,7 @@
 from collections import defaultdict
 
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
+from soccerdata.data.alias import get_team
 
 from settings import SOURCES
 
@@ -20,34 +21,48 @@ def transform():
     print "Transforming names."
     #generate_prerosters()
 
+    # For whatever reason this isn't working at all currently.
     generate_rosters_from_stats('asl')
     generate_rosters_from_stats('apsl')
 
+    generate_rosters_from_stats('nasl')
+
     # Comment this out if worried about over-assigning full names.
-    #transform_player_names(),
+    transform_player_names()
     transform_names_from_rosters()
 
 
 def generate_rosters_from_stats(source):
-    s = set()
+    rosters = []
     rdb = soccer_db['%s_rosters' % source]    
     if rdb.count():
         return
 
     sdb = soccer_db['%s_stats' % source]    
     for e in sdb.find():
-        key = (e['name'], e['team'], e['competition'], e['season'])
-        s.add(key)
+        rosters.append({
+                'name': e['name'],
+                'team': get_team(e['team']),
+                'competition': e['competition'],
+                'season': e['season'],
+                })
+        #key = (e['name'], e['team'], e['competition'], e['season'])
+        #roster_set.add(key)
 
-    generic_load('%s_rosters' % source, lambda: list(s))
+    tdb = soccer_db['%s_transform_rosters' % source]
+
+    generic_load(tdb, rosters, delete=True)
+
+
 
              
     
 
 
 def transform_names_from_rosters():
+
     for source in SOURCES:
-        rdb = soccer_db['%s_rosters' % source]
+        rdb = soccer_db['%s_transform_rosters' % source]
         if rdb.count():
 
             rg = make_roster_guesser(rdb)
@@ -254,7 +269,7 @@ def transform_player_names():
         coll = soccer_db["%s_goals" % source]
         for e in coll.find():
             if e['date']:
-                e['goal'] = full_name_guesser(e['goal'], e['team'])
+                e['goal'] = full_name_guesser(e['goal'], get_team(e['team']))
 
             l.append(e)
         coll.drop()
@@ -266,7 +281,7 @@ def transform_player_names():
         coll = soccer_db["%s_lineups" % source]
         for e in coll.find():
             if e['date']:
-                e['name'] = full_name_guesser(e['name'], e['team'])
+                e['name'] = full_name_guesser(e['name'], get_team(e['team']))
 
             l.append(e)
         coll.drop()

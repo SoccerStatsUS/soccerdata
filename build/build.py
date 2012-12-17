@@ -56,7 +56,9 @@ def build():
 
     # e.g. United States -> United States U-17
     # Transform names like Carnihan -> Bill Carnihan if possible.
+    # Transformation should happen before normalization?
     print "Transforming"
+
     transform()
 
 
