@@ -783,6 +783,7 @@ def load_soccernet_league(name, code):
 
 def load_australia():
     load_games_standard('australia', 'domestic/country/australia')
+    load_games_standard('australia', 'domestic/country/australia_playoffs')
     generic_load(soccer_db.australia_awards, awards.process_australia_awards)
 
 def load_mexico():
