@@ -10,7 +10,6 @@ full_alias = {
 
     #'Copa America': 'Copa América',
 
-
     'United Soccer League': 'United Soccer League (1984-1985)',
 
     'Western Soccer Alliance': 'Western Soccer League',

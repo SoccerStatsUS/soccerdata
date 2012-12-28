@@ -2,13 +2,15 @@ competition: Olympics
 season: 1996
 
 
-* Group A
+Round: Group Stage
+
+Group: Group A
 
 7/20/1996 1500; Portugal; 2-0; Tunisia; RFK Stadium, Washington DC; Antonio Pereira, Lencie Fred, Mohamed Al Musawi; 34796
 Afonso Martins 13, Afonso Martins 68;
 Portugal: Costinha, Rui Bento, Peixe, Andrade, Capucho (Jose Dominguez 57), Paulo Alves (Nuno Gomes 70), Afonso Martins, Rui Jorge, Vidigal, Litos, Dani (Kenedy 78)
 Tunisia: Choukri El Ouaer, Khaled Badra (Hassan Gabsi 82), Mohamed Mkacher (Lotfi Baccouche 46), Ferid Chouchane, Zoubeir Beya, Kais Ghodhbane, Adel El Sellimi, Riadh Bouazizi, Radhi Jaidi, Tarek Ben Chrouda, Mehdi Ben Slimane (Imed Ben Youmes 35)
-* Red Card: Riadh Bouazizi 73, Andrade 79
+Red Card: Riadh Bouazizi 73, Andrade 79
 
 7/20/1996 1930; United States; 1-3; Argentina; Legion Field, Birmingham, AL; Lucien Bouchardeau, Akif Ugurdur, Heiner Neuenstein; 83183
 Claudio Reyna 1; Gustavo Lopez 26, Hernan Crespo 55, Diego Simeone 90
@@ -24,13 +26,13 @@ Portugal: Costinha (Nuno 39), Rui Bento, Peixe (Paulo Alves 11), Capucho, Afonso
 Jovan Kirovski 38, Brian Maisonneuve 90
 United States: Kasey Keller, Eddie Pope, Clint Peay, Alexi Lalas, Imad Baba, Jovan Kirovski (Anthony Wood 89), Claudio Reyna, Miles Joseph, Frankie Hejduk, Brian Maisonneuve, Damian Silvera
 Tunisia: Choukri El Ouaer, Lofti Baccouche (Marouane Bokri 56), Khaled Badra, Ferid Chouchane, Zoubeir Beya, Hassan Gabsi, Kais Ghodhbane (Maher Kanzari 63), Adel El Sellimi, Sabri Jaballah, Radhi Jaidi, Tarek Ben Chrouda
-* Red Card: Ferid Choucane 68, Tarek Ben Chrouda 86
+Red Card: Ferid Choucane 68, Tarek Ben Chrouda 86
 
 7/24/1996 1930; Argentina; 1-1; Tunisia; Legion Field, Birmingham, AL; Pirom Un-Prasert, Mohamed Al Musawi, Lencie Fred; 16826
 Ariel Ortega 5; Mohamed M'Kacher 74
 Argentina: Pablo Cavallero, Roberto Ayala, Jose Chamot, Javier Zanetti, Matias Almeyda, Claudio Lopez (Marcelo Gallardo 67), Diego Simeone (Christian Bassedas 77), Hernan Crespo (Marcelo Delgado 46), Ariel Ortega, Pablo Paz, Gustavo Lopez
 Tunisia: Choukri El Ouaer, Imed Ben Younes (Hassan Gabsi 86), Lotfi Baccouche, Khaled Badra, Mohamed Mkacher, Maher Kanzari (Marouane Bokri 57), Zoubeir Beya, Kais Ghodhbane, Adel El Sellimi, Riadh Bouaziz, Radhi Jaidi
-* Red Card: Lofti Baccouche 83
+Red Card: Lofti Baccouche 83
 
 7/24/1996 1930; United States; 1-1; Portugal; RFK Stadium, Washington DC; Edward Lennie, Mohamed Al Musawi, Lencie Fred; 58012
 Brian Maisonneuve 75; Paulo Alves 33
@@ -38,7 +40,7 @@ United States: Kasey Keller, Eddie Pope, Clint Peay (Brandon Pollard 67), Alexi 
 Portugal: Nuno, Kenedy, Rui Bento, Andrade, Jose Dominguez (Dani 69, Beto 85), Paulo Alves, Rui Jorge, Vidigal, Calado, Porfirio (Capucho 55), Litos
 
 
-* Group B
+Group: Group B
 
 7/20/1996 1830; Spain; 1-0; Saudi Arabia; Citrus Bowl, Orlando; Pierluigi Collina, Luis Torres Zuniga, Dramane Dante; 28774
 Oscar 80; 
@@ -49,7 +51,7 @@ Saudi Arabia: Hussein Al Sadeq, Mohammed Al Jahani, Mohammed Al Khlaiwi, Abdulla
 Robert Pires 11, Florian Maurice 74
 France: Lionel Letizi, Martin Djetou, Jerome Bonnissel, Patrick Moreau, Claude Makelele, Vikash Dhorasoo, Florian Maurice, (Tony Vairelles 79), Robert Pires (Sylvain Wiltord 89), Vincent Candela, Olivier Dacourt (Antoine Sibierski 46), Sylvain Legwinsky
 Australia: Frank Juric, Ante Moric, Mark Babic, Kevin Muscat, Steve Horvat (Ross Aloisi 79), Steve Corica, Mark Viduca (Joe Spiteri 70), Aurelio Vidmar, Danny Tiatto, Paul Agostino, Luke Casserly
-* Red Card: Danny Tiatto 24
+Red Card: Danny Tiatto 24
 
 7/22/1996 1900; France; 1-1; Spain; Citrus Bowl, Orlando; Pirom Un-Prasert; 16773
 Sylvain Legwinski 38; Oscar 80
@@ -72,7 +74,7 @@ France: Lionel Letizi, Martin Djetou, Jerome Bonnissel, Florent Laville, Vikash 
 Saudi Arabia: Hussein Al Sadeq, Mohammed Al Jahani (Abdullah Alwaked Al Shahrani 75), Mohammed Al Khlaiwi, Abdullah Al Zebermawi, Fuad Amin, Hussein Al Sulaimani, Hamza Falatah (Abdullah Al Karni 46), Ibrahim Al Harbi, Obeid Al Dosari, Khalid Al Rashad, Khamis Alowairan Al Dossari
 
 
-* Group C
+Group: Group C
 
 7/21/1996 1730; South Korea; 1-0; Ghana; RFK Stadium, Washington DC; Edward Lennie, Jorge Luis Arango, Yuri Dupanov; 45946
 Yoon Jung-Hwan (penalty kick) 41; 
@@ -92,21 +94,21 @@ South Korea: Seo Dong Myung, Choi Sung Yong, Lee Sang Hun, Lee Ki Hyung, Yoon Jo
 Christian Sabah 15, Augustine Ahinful (penalty kick) 63, Christian Sabah 74; Marco Branca 8, Marco Branca (penalty kick) 44
 Ghana: Simon Addo, Joseph Addo, Afo Duodu, Samuel Kuffour, Augustin Ahinful, Charles Akonnor (Mallam Yehaya 30), Emmanuel Duah, Felix Aboagye, Hagan Ebenezer, Christian Sabah, Prince Amadko Koranteng
 Italy: Gianluca Pagliuca, Alessandro Nesta, Fabio Cannavaro, Fabio Galante, Salvatore Fresi, Massimo Crippa, Marco Branco, Damiano Tommasi, Cristiano Lucarelli (Marco Delvecchio 46), Antonio Bernardini (Fabio Pecchia 68), Luigi Sartor (Alessandro Pistone 77)
-* Red Card: Fabio Galante 62
+Red Card: Fabio Galante 62
 
 7/25/1996 2100; Mexico; 1-1; Ghana; RFK Stadium, Washington DC; Antonio Pereira, Yuri Dupanov, Jorge Luis Arango; 30237
 Jose Manuel Abundis 65; Ebenezer Hagan 44
 Mexico: Jorge Campos, Claudio Suarez, German Villa, Duilio Davino, Raul Lara, Rafael Garcia (Cuauhtemoc Blanco 62), Manuel Sol (Jesus Arellano 52), Luis Garcia, Pavel Pardo, Enrique Alfaro, Jose Manuel Abundis (Francisco Palencia 68)
 Ghana: Simon Addo, Joseph Addo, Afo Duodu (Stephen Baidoo 46), Samuel Kuffour, Mallam Yahaya, Augustine Ahinful, Emmanuel Duah, Felix Aboagye, Hagan Ebenezer (Nii Welbeck 74), Christian Sabah, Prince Amadko Koranteng
-* Red Card: Stephen Baidoo 57
+Red Card: Stephen Baidoo 57
 
 7/25/1996 2100; Italy; 2-1; South Korea; Legion Field, Birmingham, AL; Robert Ruben Ruscio, Akif Ugurdur, Heiner Neuenstein; 28319
 Marco Branca 24, Marco Branca 82; Lee Ki-Hyung 62
 Italy: Gianluca Pagliuca, Alesandro Nesta, Fabio Cannavaro, Salvatore Fresi, Raffaele Ametrano, Massimo Crippa, Marco Branca, Massimo Brambilla (Fabio Peccha 75), Marco Delvecchio (Domenico Morfeo 53), Alessandro Pistone, Damiano Tommasi
 South Korea: Seo Dong Myung, Choi Sung Yong, Lee Sang Hun, Lee Kyung Soo (Chung Sang Nam 79), Lee Ki Hyung, Yoon Jong Hwan, Choi Yong Soo, Kim Hyun Su, Choi Yoon Yeol, Ha Seok Ju, Lee Kyung Hong
-* Red Card: Fabio Canavarro 89
+Red Card: Fabio Canavarro 89
 
-* Group D
+Group: Group D
 
 7/21/1996 1830; Japan; 1-0; Brazil; Orange Bowl, Miami; Benito Archundia, Peter Kelly, Mohamed Osman; 46713
 Teruyoshi Ito 72; 
@@ -139,13 +141,13 @@ Japan: Yoshikatsu Kawaguchi, Hideto Suzuki, Makato Tanaka, Toshihiro Hattori, Ma
 Hungary: Szabolcs Safar, Zoltan Peto, Miklos Lendvai, Tibor Dombi, Tamas Sandor, Krisztian Lisztes (Karoly Szanyo 76), Gabor Egressy, Zsolt Molnar, Csaba Madar, Sandor Preisinger (Gabor Zavadszky 74), Zoltan Bukszegi 
 
 
-* Quarter Finals
+Round: Quarter Finals
 
 7/27/1996 1800; Portugal; 2-1 (AET); France; Orange Bowl, Miami; Pierluigi Collina, Heiner Neuenstein, Akif Ugurdur; 22339
 Nuno Capucho 7, Jose Calado (penalty kick) 105; Florian Maurice 49
 Portugal: Nuno, Kenedy, Rui Bento, Peixe, Andrade, Capucho (Dani 51), Paulo Alves, Rui Jorge (Afonso Martins 62), Vidigal, Calado, Litos (Beto 14)
 France: Lionel Letizi, Martin Djetou, Jerome Bonnissel, Patrick Moreau, Claude Makelele, Vikash Dhorasoo, Florian Maurice (Sylvain Wiltord 91), Robert Pires, Olivier Dacourt (Tony Vairelles 61), Sylvain Legwinsky, Oumar Dieng
-* Red Card: Jerome Bonnissell 105
+Red Card: Jerome Bonnissell 105
 
 7/27/1996 1930; Argentina; 4-0; Spain; Legion Field, Birmingham; Gamal Al-Ghandour, Peter Kelly, Lencie Fred; 43507
 Hernan Crespo 47, Own Goal (Agustin Aranzabal) 52, Claudio Lopez 66, Hernan Crespo 86; 
@@ -156,7 +158,7 @@ Spain: Mora, Aranzabal, Javi Navaroo, Oscar, Raul, Roberto (Jordi Lardin 56), Se
 ; Jay-Jay Okocha 20, Celestine Babayaro 84
 Mexico: Jorge Campos, Claudio Suarez, German Villa, Duilio Davino, Raul Lara, Rafael Garcia (Cuauhtemoc Blanco 46), Manuel Sol (Jesus Arellano 24), Luis Garcia, Pavel Pardo, Enrique Alfaro (Francisco Palencia 65), Jose Manuel Abundis
 Nigeria: Joseph Dosu, Celestine Babayaro, Taribo West, Nwankwo Kanu (Teslim Fatusi 66), Uche Okechukwu, Emmanuel Amunike (Garba Lawal 85), Tijani Babangida (Victor Ikpeda 56), Jay Jay Okocha, Daniel Amokachi, Sunday Oliseh, Mobi Oparaku
-* Red Card: Duilio Davino 45, Sunday Oliseh 89
+Red Card: Duilio Davino 45, Sunday Oliseh 89
 
 7/28/1996 1800; Brazil; 4-2; Ghana; Orange Bowl, Miami; Pirom Un-Prasert, Yuri Dupanov, Luis Torres Zuniga; 45257
 Own Goal (Afo Duodu) 18, Ronaldo 56, Ronaldo 62, Bebeto 72; Charles Akonnor 23, Felix Aboagye 53
@@ -164,7 +166,7 @@ Brazil: Dida, Ze Maria, Aldair, Ronaldo Guiaro, Flavio Conceicao, Roberto Carlos
 Ghana: Simon Addo, Joseph Addo, Afo Duodu, Samuel Kuffour, Mallam Yahaya, Augustine Ahinful, Charles Akonnor, Emmanuel Duah (Emmanuel Kuffour 88), Felix Aboagye, Christian Sabah, Prince Amadko Koranteng (Hagan Ebenezer 35)
 
 
-* Semi Finals
+Round: Semi Finals
 
 7/30/1996 1800; Portugal; 0-2; Argentina; Sanford Stadium, Athens, GA; Esfandiar Baharmast, Luis Torres Zuniga, Dramane Dante; 78212
 ; Hernan Crespo 55, Hernan Crespo 61
@@ -177,14 +179,14 @@ Nigeria: Joseph Dosu, Celestine Babayaro, Taribo West, Nwankwo Kanu, Uche Okechu
 Brazil: Dida, Ze Maria, Aldair, Ronaldo Guiaro, Flavio Conceicao, Roberto Carlos, Bebeto, Amaral, Juninho Paulista (Rivaldo 67), Ze Elias, Ronaldo (Savio 85)
 
 
-* Third Place
+Round: Third Place
 8/2/1996 1800; Brazil; 5-0; Portugal; Sanford Stadium, Athens, GA; Gamal Al-Ghandour, Dramane Dante, Mohamed Al Musawi; 68173
 Ronaldo 4, Flavio Conceicao 10, Bebeto 46, Bebeto 53, Bebeto 74; 
 Brazil: Dida, Ze Maria, Aldair (Narciso 82), Ronaldo Guiaro, Flavio Conceicao, Roberto Carlos, Bebeto, Amaral (Marcelinho 85), Juninho Paulista, Ze Elias, Ronaldo (Luizao 79)
 Portugal: Costinha, Kenedy, Rui Bento, Peixe (Rui Jorge 57), Jose Dominguez, Capucho (Afonso Martins 46), Paul Alves (Nuno Gomes 46), Vidigal, Calado, Dani, , Nuno Afonso
 
 
-* Final
+Round: Final
 8/3/1996 1545; Nigeria; 3-2; Argentina; Sanford Stadium, Athens, GA; Pierluigi Collina, Peter Kelly, Lencie Fred; 86117
 Celestine Babayaro 28, Daniel Amokachi 74, Emmanuel Amuneke 90; Claudio Lopez 3, Hernan Crespo (penalty kick) 50
 Nigeria: Joseph Dosu, Celestine Babayaro, Taribo West, Nwankwo Kanu, Uche Okechukwu, Tijani Babangida, Jay Jay Okocha (Garba Lawal 59), Victor Ikpeba (Emmanuel Amunike 72), Daniel Amokachi, Sunday Oliseh, Mobi Oparaku (Wilson Oruma 62)
