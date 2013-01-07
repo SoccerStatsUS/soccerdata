@@ -228,7 +228,7 @@ Nannskog 42; Martinez 90
 
 Date: 10/16/2004
 ; Beijing Hyundai        ; 2-0;     Qingdao Beilaite
-Tao Wei 15, Jelic 85
+Tao Wei 15, Jelic 85;
 ; Liaoning Zhongyu    ; 3-0;        Chongqing Qiche
 Wang Xinxin 13, Avdic 48, Wang Liang 63;
 ; Shandong Luneng Taishan ; 1-1; Shenzhen Jianlibao
@@ -342,7 +342,7 @@ Liu Jian 70; Zhao Xuri 57
 ; Shanghai Shenhua SVA; 0-1;  Liaoning Zhongyu
 ; Liu Bin 14
 ; Shenyang Ginde         ; 0-3;     Shanghai International
-; Liu Jian 14, Wang Yun 75, 78
+; Liu Jian 14, Wang Yun 75, Wang Yun 78
 ; Shenzhen Jianlibao  ; 2-2; Dalian Shide
 Li Jianhua 42, Li Ming 59; Zhang Peng 66, Jankovic (pk) 69
 ; Tianjin Kangshifu; 1-1;     Shandong Luneng Taishan
@@ -607,7 +607,7 @@ Du Ping 50, Bulat 68;
 
 Date: 7/20/2005
 ; Dalian Shide           ; 5-0;     Liaoning
-Zou Jie 45, Zou Jie 50, Zou Jie 81, Jankovic 46, Adilson 66
+Zou Jie 45, Zou Jie 50, Zou Jie 81, Jankovic 46, Adilson 66;
 ; Shanghai Shenhua  ; 1-0; Beijing Hyundai
 Xiao Zhanbo 90;
 ; Shenyang Ginde ; 1-2;     Sichuan Guancheng
@@ -617,7 +617,7 @@ Wang Xiaoshi 19; Qu Bo 65
 
 Date: 7/21/2005
 ; Shandong Luneng Taishan; 3-1;     Shanghai Zobon
-Pazin 2, Danciulescu 50; Danciulescu 69; Yang Lin 83
+Pazin 2, Danciulescu 50, Danciulescu 69; Yang Lin 83
 ; Shenzhen Jianlibao     ; 3-0; Chongqing Lifan
 Oyawole 60, Oyawole 90, Yang Chen 63;
 ; Tianjin Teda      ; 2-0;  Shanghai International
@@ -655,13 +655,13 @@ Date: 8/21/2005
 Lu Feng 57;
 ; Shanghai Shenhua       ; 1-0;     Liaoning
 Zhang Yuning 13; 
-Tianjin Teda            1-1     Chongqing Lifan
+; Tianjin Teda; 1-1;  Chongqing Lifan
   [Mnguni 55; Wu Qing 54]
 
 Date: 8/27/2005
-Beijing Hyundai         1-1     Shenzhen Jianlibao
+; Beijing Hyundai; 1-1;  Shenzhen Jianlibao
 Jelic 7; Wang Xinxin 33
-Chongqing Lifan         0-4     Dalian Shide
+;Chongqing Lifan; 0-4; Dalian Shide
 ; Zou Jie 4, Zou Jie 64, Anderson 50, Wang Sheng 78
 ; Liaoning     ; 1-1; Wuhan Huanghelou
 Chen Xing 77; Wu Peng 55
@@ -823,7 +823,7 @@ Wu Weian 27, Yu Genwei 56, Wang Lei 88;
 Season: 2006
 
 Round 1
-[Mar 11]
+* [Mar 11]
 Chongqing Lifan         2-1     Liaoning
   [Huo Zhiyu 55, Jia Wenpeng 88; Xu Liang 65]
 Qingdao Zhongneng    0-0     Beijing Guoan  

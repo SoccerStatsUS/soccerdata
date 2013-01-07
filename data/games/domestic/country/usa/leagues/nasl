@@ -2221,9 +2221,9 @@ NASL; 1976; Minnesota; ; 4; Portland; h; 2,1; ; Futcher, Brine; 25509
 NASL; 1976; Minnesota; ; 7; Tampa Bay; a; 1,2; ; Coker; 17007
 NASL; 1976; Minnesota; ; 10; Los Angeles; h; 6,2; ; Willey 2, West, Ntsoelengoe, Coker 2; 42065
 NASL; 1976; Minnesota; ; 13; San Diego; a; 1,0; +; Coker; 9400
-NASL; 1976; Minnesota; ; 21; Seattle; h; 3,0; ; Futcher, Coker 2; 41405
-NASL; 1976; Minnesota; ; 25; San Jose; h; 3,1; ; West, Ntsoelengoe, Coker; 49572
-NASL; 1976; Minnesota; ; 28; Toronto; n; 0,3; ; ; 25765
+NASL Playoffs; 1976; Minnesota; ; 21; Seattle; h; 3,0; ; Futcher, Coker 2; 41405
+NASL Playoffs; 1976; Minnesota; ; 25; San Jose; h; 3,1; ; West, Ntsoelengoe, Coker; 49572
+NASL Playoffs; 1976; Minnesota; ; 28; Toronto; n; 0,3; ; ; 25765
 NASL; 1976; New York; 4; 18; Miami; a; 1,0; ; Clements; 9457
 NASL; 1976; New York; ; 2; Chicago; h; 1,2; +; Pele; 28436
 NASL; 1976; New York; ; 5; Hartford; h; 3,1; ; Eddy, Pele, Tinnion; 8439
@@ -2248,8 +2248,8 @@ NASL; 1976; New York; ; 23; Rochester; a; 1,2; ; Chinaglia; 5728
 NASL; 1976; New York; ; 28; Dallas; h; 4,0; ; Mifflin, Chinaglia 3; 19119
 NASL; 1976; New York; ; 7; San Jose; a; 1,2; ; Eddy; 23048
 NASL; 1976; New York; ; 10; Miami; h; 8,2; ; Dillon, Pele 2, Chinaglia 5; 18103
-NASL; 1976; New York; ; 17; Washington; h; 2,0; ; Pele, Garbett; 22698
-NASL; 1976; New York; ; 20; Tampa Bay; a; 1,3; ; Pele; 36863
+NASL Playoffs; 1976; New York; ; 17; Washington; h; 2,0; ; Pele, Garbett; 22698
+NASL Playoffs; 1976; New York; ; 20; Tampa Bay; a; 1,3; ; Pele; 36863
 NASL; 1976; Philadelphia; 4; 24; St. Louis; a; 1,3; ; V. Perez; 4219
 NASL; 1976; Philadelphia; ; 30; Hartford; a; 1,2; ; V. Perez; 3742
 NASL; 1976; Philadelphia; ; 2; Rochester; h; 1,0; ; V. Perez; 8400
@@ -2322,7 +2322,7 @@ NASL; 1976; Rochester; ; 1; Washington; h; 2,1; ; Stojanovic 2; 4640
 NASL; 1976; Rochester; ; 11; Tampa Bay; h; 2,1; ; Stojanovic, Moia; 6797
 NASL; 1976; Rochester; ; 13; Boston; a; 3,0; ; Stojanovic, Moia, I. Silva; 4537
 NASL; 1976; Rochester; ; 15; Toronto; a; 1,3; ; Moia; 6321
-NASL; 1976; Rochester; ; 18; Toronto; a; 1,2; ; Moia; 6852
+NASL Playoffs; 1976; Rochester; ; 18; Toronto; a; 1,2; ; Moia; 6852
 NASL; 1976; St. Louis; 4; 14; San Antonio; a; 1,2; ; Own Goal; 5304
 NASL; 1976; St. Louis; ; 17; Seattle; h; 2,0; ; Trost 2; 8154
 NASL; 1976; St. Louis; ; 24; Philadelphia; h; 3,1; ; Trost, McBride, Bokern; 4219
@@ -2419,8 +2419,8 @@ NASL; 1976; San Jose; ; 31; Miami; h; 3,0; ; Mitic 2, Child; 21225
 NASL; 1976; San Jose; ; 7; New York; h; 2,1; ; Rowlands, Moore; 25048
 NASL; 1976; San Jose; ; 11; Chicago; a; 1,2; *; Mitic; 6837
 NASL; 1976; San Jose; ; 13; San Antonio; a; 0,2; ; ; 4167
-NASL; 1976; San Jose; ; 20; Dallas; h; 2,0; ; Mitic 2; 15135
-NASL; 1976; San Jose; ; 25; Minnesota; a; 1,3; ; Mitic; 49572
+NASL Playoffs; 1976; San Jose; ; 20; Dallas; h; 2,0; ; Mitic 2; 15135
+NASL Playoffs; 1976; San Jose; ; 25; Minnesota; a; 1,3; ; Mitic; 49572
 NASL; 1976; Seattle; 4; 17; St. Louis; a; 0,2; ; ; 8154
 NASL; 1976; Seattle; ; 25; Portland; h; 1,0; +; Hurst; 24983
 NASL; 1976; Seattle; ; 2; Vancouver; h; 1,0; ; Butler; 24096
@@ -3573,7 +3573,7 @@ NASL; 1978; San Diego; ; 26; Houston; h; 0,1; *; ; 3410
 NASL; 1978; San Diego; ; 29; Portland; h; 5,3; ; Anderson 3, Ingram, Willrich; 3830
 NASL; 1978; San Diego; ; 6; California; h; 1,2; +; Willrich; 5390
 NASL; 1978; San Diego; ; 13; Fort Lauderdale; a; 1,2; ; McCall; 8147
-NASL; 1978; San Diego; ; 17; Tampa Bay; h; 1,4; ; Veee; 9603
+NASL; 1978; San Diego; ; 17; Tampa Bay; a; 1,4; ; Veee; 9603
 NASL; 1978; San Diego; ; 20; Detroit; h; 2,1; +; Demling, Coker; 4785
 NASL; 1978; San Diego; ; 28; Chicago; a; 2,1; ; Lechermann, Coker; 3629
 NASL; 1978; San Diego; ; 31; New England; h; 2,1; ; Coker 2; 3132
@@ -4075,8 +4075,8 @@ NASL; 1979; Houston; ; 1; Detroit; a; 0,2; ; ; 18924
 NASL; 1979; Houston; ; 3; Edmonton; a; 4,3; *; Haaskivi 2, Michia; 8394
 NASL; 1979; Houston; ; 8; Tulsa; h; 3,1; ; Own Goal, Rote, Marasco; 7639
 NASL; 1979; Houston; ; 11; Dallas; h; 3,1; ; Russell, Marasco 2; 12315
-NASL; 1979; Houston; ; 14; Philadelphia; a; 1,2; ; Haaskivi; 3337
-NASL; 1979; Houston; ; 20; Philadelphia; h; 1,2; ; Haaskivi; 7530
+NASL Playoffs; 1979; Houston; ; 14; Philadelphia; a; 1,2; ; Haaskivi; 3337
+NASL Playoffs; 1979; Houston; ; 20; Philadelphia; h; 1,2; ; Haaskivi; 7530
 NASL; 1979; Los Angeles; 4; 6; Memphis; a; 1,0; ; Smeets; 8600
 NASL; 1979; Los Angeles; ; 14; California; a; 1,0; ; Wagner; 11261
 NASL; 1979; Los Angeles; ; 21; Seattle; a; 0,4; ; ; 25642
@@ -4107,11 +4107,11 @@ NASL; 1979; Los Angeles; ; 1; New York; h; 1,3; ; Smeets; 38606
 NASL; 1979; Los Angeles; ; 4; Vancouver; h; 2,0; ; Dangefield, Cruyff; 11157
 NASL; 1979; Los Angeles; ; 7; Seattle; h; 7,1; ; Dangerfield 3, Van Veen 2, Cruyff 2; 9780
 NASL; 1979; Los Angeles; ; 12; Portland; a; 3,1; ; Rongen, Wagner, Cruyff; 12367
-NASL; 1979; Los Angeles; ; 15; Washington; h; 3,1; ; Dangerfield, Smeets 2; 12042
-NASL; 1979; Los Angeles; ; 19; Washington; a; 4,3; +; Dangerfield 2, Van Veen, Cruyff; 14802
-NASL; 1979; Los Angeles; ; 22; Vancouver; h; 3,2; *; Sibbald, Smeets; 21213
-NASL; 1979; Los Angeles; ; 25; Vancouver; a; 0,1; ; ; 32375
-NASL; 1979; Los Angeles; ; M; Vancouver; a; 0,1; ; ; 
+NASL Playoffs; 1979; Los Angeles; ; 15; Washington; h; 3,1; ; Dangerfield, Smeets 2; 12042
+NASL Playoffs; 1979; Los Angeles; ; 19; Washington; a; 4,3; +; Dangerfield 2, Van Veen, Cruyff; 14802
+NASL Playoffs; 1979; Los Angeles; ; 22; Vancouver; h; 3,2; *; Sibbald, Smeets; 21213
+NASL Playoffs; 1979; Los Angeles; ; 25; Vancouver; a; 0,1; ; ; 32375
+NASL Playoffs; 1979; Los Angeles; ; M; Vancouver; a; 0,1; ; ; 
 NASL; 1979; Memphis; 3; 24; Philadelphia; h; 1,0; +; Nwokocha; 10765
 NASL; 1979; Memphis; ; 31; Tampa Bay; h; 1,2; ; Husband; 10365
 NASL; 1979; Memphis; ; 6; Los Angeles; h; 0,1; ; ; 8600
@@ -4275,7 +4275,7 @@ NASL; 1979; Philadelphia; ; 12; Toronto; a; 3,4; ; Lukic, Fidelia, Worthington; 
 NASL Playoffs; 1979; Philadelphia; ; 14; Houston; h; 2,1; ; Dempsey, Robb; 3337
 NASL Playoffs; 1979; Philadelphia; ; 20; Houston; a; 2,1; ; Fidelia, Robb; 7530
 NASL Playoffs; 1979; Philadelphia; ; 23; Tampa Bay; h; 2,3; *; Fidelia, Worthington; 10395
-NASL; 1979; Philadelphia; ; 25; Tampa Bay; a; 0,1; ; ; 21112
+NASL Playoffs; 1979; Philadelphia; ; 25; Tampa Bay; a; 0,1; ; ; 21112
 NASL; 1979; Portland; 3; 31; San Jose; a; 4,3; +; Conway, Brian Gant 2, Seale; 17111
 NASL; 1979; Portland; ; 8; San Diego; h; 2,3; *; Scullion, Best; 12017
 NASL; 1979; Portland; ; 14; Minnesota; h; 0,2; ; ; 6244
@@ -4463,14 +4463,14 @@ NASL; 1979; Tampa Bay; ; 1; Washington; a; 1,5; ; Wegerle; 10737
 NASL; 1979; Tampa Bay; ; 3; Dallas; h; 1,2; ; Andruzweski; 31136
 NASL; 1979; Tampa Bay; ; 8; New York; a; 3,4; ; Baralic 2, Fabbiani; 70042
 NASL; 1979; Tampa Bay; ; 12; Detroit; a; 1,2; ; Fabbiani; 20526
-NASL; 1979; Tampa Bay; ; 15; Detroit; a; 1,0; ; Wegerle; 21539
-NASL; 1979; Tampa Bay; ; 19; Detroit; h; 3,1; ; McLeod, Van der Veen, Fabbiani; 27210
-NASL; 1979; Tampa Bay; ; 23; Philadelphia; a; 3,2; *; Van der Veen, Anderson; 10395
-NASL; 1979; Tampa Bay; ; 25; Philadelphia; h; 1,0; ; Wegerle; 21112
-NASL; 1979; Tampa Bay; ; 30; San Diego; a; 1,2; ; McLeod; 20267
-NASL; 1979; Tampa Bay; ; 2; San Diego; h; 3,2; *; Wegerle 2; 38766
-NASL; 1979; Tampa Bay; ; M; San Diego; h; 1,0; ; Grnja; 
-NASL; 1979; Tampa Bay; ; 8; Vancouver; New York; 1,2; ; Van der Veen; 50699
+NASL Playoffs; 1979; Tampa Bay; ; 15; Detroit; a; 1,0; ; Wegerle; 21539
+NASL Playoffs; 1979; Tampa Bay; ; 19; Detroit; h; 3,1; ; McLeod, Van der Veen, Fabbiani; 27210
+NASL Playoffs; 1979; Tampa Bay; ; 23; Philadelphia; a; 3,2; *; Van der Veen, Anderson; 10395
+NASL Playoffs; 1979; Tampa Bay; ; 25; Philadelphia; h; 1,0; ; Wegerle; 21112
+NASL Playoffs; 1979; Tampa Bay; ; 30; San Diego; a; 1,2; ; McLeod; 20267
+NASL Playoffs; 1979; Tampa Bay; ; 2; San Diego; h; 3,2; *; Wegerle 2; 38766
+NASL Playoffs; 1979; Tampa Bay; ; M; San Diego; h; 1,0; ; Grnja; 
+NASL Playoffs; 1979; Tampa Bay; ; 8; Vancouver; New York; 1,2; ; Van der Veen; 50699
 NASL; 1979; Toronto; 3; 31; Houston; a; 1,2; *; Mata; 8589
 NASL; 1979; Toronto; ; 8; Fort Lauderdale; h; 1,2; ; Lorimer; 18522
 NASL; 1979; Toronto; ; 14; Tampa Bay; a; 1,7; ; Budd; 23675
@@ -4748,38 +4748,38 @@ NASL Playoffs; 1980; Dallas; ; 31; Minnesota; h; 2,0; ; Zequinha 2; 8674
 NASL Playoffs; 1980; Dallas; ; 3; New York; h; 2,3; ; Gruber, Pesa; 7459
 NASL Playoffs; 1980; Dallas; ; 7; New York; a; 3,0; ; Lund, Gomez 2; 45153
 NASL Playoffs; 1980; Dallas; ; M; New York; a; 0,3; ; ; 
-NASL Playoffs; 1980; Detroit; 3; 29; Seattle; a; 0,1; +; ; 23572
-NASL Playoffs; 1980; Detroit; ; 5; Memphis; h; 4,2; ; Margetic 2, Furphy, Nardiello; 9892
-NASL Playoffs; 1980; Detroit; ; 12; New England; h; 1,0; ; Oates; 10033
-NASL Playoffs; 1980; Detroit; ; 19; Tulsa; h; 0,1; *; ; 9107
-NASL Playoffs; 1980; Detroit; ; 26; Portland; a; 1,2; ; Margetic; 14595
-NASL Playoffs; 1980; Detroit; 5; 4; Edmonton; a; 2,3; *; Margetic, Nardiello; 12485
-NASL Playoffs; 1980; Detroit; ; 10; Atlanta; h; 3,0; ; Oates, Bradford, Bannister; 14129
-NASL Playoffs; 1980; Detroit; ; 17; Chicago; a; 2,3; ; Oates 2; 6761
-NASL Playoffs; 1980; Detroit; ; 25; Minnesota; a; 2,4; ; Oates, Bradford; 11557
-NASL Playoffs; 1980; Detroit; ; 31; Vancouver; h; 0,1; ; ; 17382
-NASL Playoffs; 1980; Detroit; 6; 5; Toronto; a; 2,1; ; Bannister, Hateley; 7683
-NASL Playoffs; 1980; Detroit; ; 8; Tulsa; a; 1,0; ; Margetic; 21212
-NASL Playoffs; 1980; Detroit; ; 11; San Jose; h; 0,1; *; ; 7186
-NASL Playoffs; 1980; Detroit; ; 14; Atlanta; a; 1,3; ; Nardiello; 9035
-NASL Playoffs; 1980; Detroit; ; 17; Dallas; h; 5,1; ; Oates 2, Margetic, Nardiello, Bannister; 9688
-NASL Playoffs; 1980; Detroit; ; 21; Memphis; a; 3,2; +; Bradford, Margetic, Nardiello; 13319
-NASL Playoffs; 1980; Detroit; ; 24; Philadelphia; h; 1,2; ; Holton; 6524
-NASL Playoffs; 1980; Detroit; ; 28; San Diego; h; 1,0; *; ; 9159
-NASL Playoffs; 1980; Detroit; ; 4; Houston; h; 2,0; ; Bannister, Holton; 8091
-NASL Playoffs; 1980; Detroit; ; 6; Houston; a; 3,4; *; Oates, Bannister 2; 4267
-NASL Playoffs; 1980; Detroit; ; 9; Fort Lauderdale; a; 1,3; ; Colquhoun; 12524
-NASL Playoffs; 1980; Detroit; ; 12; New York; h; 1,0; *; ; 27234
-NASL Playoffs; 1980; Detroit; ; 19; Rochester; h; 2,1; ; Oates, Hateley; 6849
-NASL Playoffs; 1980; Detroit; ; 23; Chicago; h; 1,2; *; Bannister; 8114
-NASL Playoffs; 1980; Detroit; ; 26; Dallas; a; 1,2; ; Oates; 5492
-NASL Playoffs; 1980; Detroit; ; 30; Minnesota; h; 1,0; ; Nardiello; 9193
-NASL Playoffs; 1980; Detroit; ; 2; San Jose; a; 1,3; ; Holton; 10811
-NASL Playoffs; 1980; Detroit; ; 6; San Diego; a; 0,1; ; ; 8319
-NASL Playoffs; 1980; Detroit; ; 9; California; h; 1,2; ; Nardiello; 11472
-NASL Playoffs; 1980; Detroit; ; 13; Tampa Bay; a; 2,3; ; Margetic, Bannister; 16528
-NASL Playoffs; 1980; Detroit; ; 16; Philadelphia; a; 3,2; +; Own Goal, Bannister 2; 5541
-NASL Playoffs; 1980; Detroit; ; 24; Fort Lauderdale; h; 3,2; ; Margetic 3; 15113
+NASL; 1980; Detroit; 3; 29; Seattle; a; 0,1; +; ; 23572
+NASL; 1980; Detroit; ; 5; Memphis; h; 4,2; ; Margetic 2, Furphy, Nardiello; 9892
+NASL; 1980; Detroit; ; 12; New England; h; 1,0; ; Oates; 10033
+NASL; 1980; Detroit; ; 19; Tulsa; h; 0,1; *; ; 9107
+NASL; 1980; Detroit; ; 26; Portland; a; 1,2; ; Margetic; 14595
+NASL; 1980; Detroit; 5; 4; Edmonton; a; 2,3; *; Margetic, Nardiello; 12485
+NASL; 1980; Detroit; ; 10; Atlanta; h; 3,0; ; Oates, Bradford, Bannister; 14129
+NASL; 1980; Detroit; ; 17; Chicago; a; 2,3; ; Oates 2; 6761
+NASL; 1980; Detroit; ; 25; Minnesota; a; 2,4; ; Oates, Bradford; 11557
+NASL; 1980; Detroit; ; 31; Vancouver; h; 0,1; ; ; 17382
+NASL; 1980; Detroit; 6; 5; Toronto; a; 2,1; ; Bannister, Hateley; 7683
+NASL; 1980; Detroit; ; 8; Tulsa; a; 1,0; ; Margetic; 21212
+NASL; 1980; Detroit; ; 11; San Jose; h; 0,1; *; ; 7186
+NASL; 1980; Detroit; ; 14; Atlanta; a; 1,3; ; Nardiello; 9035
+NASL; 1980; Detroit; ; 17; Dallas; h; 5,1; ; Oates 2, Margetic, Nardiello, Bannister; 9688
+NASL; 1980; Detroit; ; 21; Memphis; a; 3,2; +; Bradford, Margetic, Nardiello; 13319
+NASL; 1980; Detroit; ; 24; Philadelphia; h; 1,2; ; Holton; 6524
+NASL; 1980; Detroit; ; 28; San Diego; h; 1,0; *; ; 9159
+NASL; 1980; Detroit; ; 4; Houston; h; 2,0; ; Bannister, Holton; 8091
+NASL; 1980; Detroit; ; 6; Houston; a; 3,4; *; Oates, Bannister 2; 4267
+NASL; 1980; Detroit; ; 9; Fort Lauderdale; a; 1,3; ; Colquhoun; 12524
+NASL; 1980; Detroit; ; 12; New York; h; 1,0; *; ; 27234
+NASL; 1980; Detroit; ; 19; Rochester; h; 2,1; ; Oates, Hateley; 6849
+NASL; 1980; Detroit; ; 23; Chicago; h; 1,2; *; Bannister; 8114
+NASL; 1980; Detroit; ; 26; Dallas; a; 1,2; ; Oates; 5492
+NASL; 1980; Detroit; ; 30; Minnesota; h; 1,0; ; Nardiello; 9193
+NASL; 1980; Detroit; ; 2; San Jose; a; 1,3; ; Holton; 10811
+NASL; 1980; Detroit; ; 6; San Diego; a; 0,1; ; ; 8319
+NASL; 1980; Detroit; ; 9; California; h; 1,2; ; Nardiello; 11472
+NASL; 1980; Detroit; ; 13; Tampa Bay; a; 2,3; ; Margetic, Bannister; 16528
+NASL; 1980; Detroit; ; 16; Philadelphia; a; 3,2; +; Own Goal, Bannister 2; 5541
+NASL; 1980; Detroit; ; 24; Fort Lauderdale; h; 3,2; ; Margetic 3; 15113
 NASL; 1980; Edmonton; 4; 19; Houston; a; 1,2; ; Goossens; 6121
 NASL; 1980; Edmonton; ; 27; San Jose; h; 4,2; ; Own Goal, Lodeweges 2, Kirschner; 14783
 NASL; 1980; Edmonton; ; 4; Detroit; h; 3,2; *; Oostrom, Goossens; 12485
@@ -4927,14 +4927,14 @@ NASL; 1980; Los Angeles; ; 13; San Diego; h; 2,5; ; Dangerfield, Fernando; 11397
 NASL; 1980; Los Angeles; ; 16; Fort Lauderdale; h; 2,3; +; Fernando 2; 12068
 NASL; 1980; Los Angeles; ; 20; Portland; a; 2,3; *; Fernando, Garcia; 16095
 NASL; 1980; Los Angeles; ; 23; San Jose; a; 2,1; ; Suurbier, Van Veen; 16419
-NASL; 1980; Los Angeles; ; 27; Washington; a; 0,1; ; ; 20231
-NASL; 1980; Los Angeles; ; 30; Washington; h; 2,1; *; Fernando; 14163
-NASL; 1980; Los Angeles; ; M; Washington; h; 2,0; ; Simic 2; 
-NASL; 1980; Los Angeles; ; 3; Seattle; h; 3,0; ; Aguirre, Van Veen 2; 13466
-NASL; 1980; Los Angeles; ; 5; Seattle; a; 0,4; ; ; 32564
-NASL; 1980; Los Angeles; ; SO-M; Seattle; a; 2,1; *; Etherington; 
-NASL; 1980; Los Angeles; ; 10; New York; h; 1,2; ; Aguirre; 25487
-NASL; 1980; Los Angeles; ; 13; New York; a; 1,3; ; Van Veen; 42324
+NASL Playoffs; 1980; Los Angeles; ; 27; Washington; a; 0,1; ; ; 20231
+NASL Playoffs; 1980; Los Angeles; ; 30; Washington; h; 2,1; *; Fernando; 14163
+NASL Playoffs; 1980; Los Angeles; ; M; Washington; h; 2,0; ; Simic 2; 
+NASL Playoffs; 1980; Los Angeles; ; 3; Seattle; h; 3,0; ; Aguirre, Van Veen 2; 13466
+NASL Playoffs; 1980; Los Angeles; ; 5; Seattle; a; 0,4; ; ; 32564
+NASL Playoffs; 1980; Los Angeles; ; SO-M; Seattle; a; 2,1; *; Etherington; 
+NASL Playoffs; 1980; Los Angeles; ; 10; New York; h; 1,2; ; Aguirre; 25487
+NASL Playoffs; 1980; Los Angeles; ; 13; New York; a; 1,3; ; Van Veen; 42324
 NASL; 1980; Memphis; 3; 29; Fort Lauderdale; h; 2,1; *; Child; 10049
 NASL; 1980; Memphis; ; 5; Detroit; a; 2,4; ; Child, Stride; 9892
 NASL; 1980; Memphis; ; 12; San Diego; h; 1,2; ; Child; 8742
@@ -5312,7 +5312,7 @@ NASL; 1980; Tampa Bay; ; 9; Houston; h; 3,1; ; Roberts 2, Olivera; 21687
 NASL; 1980; Tampa Bay; ; 13; Detroit; h; 3,2; ; Van der Veen, Wegerle, Fabbiani; 16528
 NASL; 1980; Tampa Bay; ; 17; Toronto; a; 4,1; ; Van der Veen, McLeod 2, Wegerle; 18861
 NASL; 1980; Tampa Bay; ; 20; Toronto; h; 5,1; ; Baralic, McLeod, Wegerle, Fabbiani 2; 23797
-NASL Playoffs; 1980; Tampa Bay; ; 22; New England; a; 0,1; ; ; 25132
+NASL; 1980; Tampa Bay; ; 22; New England; a; 0,1; ; ; 25132
 NASL Playoffs; 1980; Tampa Bay; ; 27; New England; a; 1,0; ; McLeod; 17121
 NASL Playoffs; 1980; Tampa Bay; ; 30; New England; h; 4,0; ; Van der Beck, Anderson, Fabbiani 2; 26368
 NASL Playoffs; 1980; Tampa Bay; ; 4; San Diego; a; 3,6; ; Baralic 2, Fabbiani; 20109
@@ -6066,7 +6066,7 @@ NASL; 1981; Toronto; ; 4; Tampa Bay; a; 3,4; ; Jomo Sono, Robertson, Julius Sono
 NASL; 1981; Toronto; ; 12; Dallas; h; 0,1; *; ; 9327
 NASL; 1981; Toronto; ; 18; Montreal; a; 1,2; ; Tekin; 27060
 NASL; 1981; Toronto; ; 26; Washington; h; 2,4; ; Wallace, Greenhoff; 8213
-NASL; 1981; Toronto; ; 2; Fort Lauderdale; h; 3,1; ; Jomo Sono, Greenhoff, Cervin; 5407
+NASL; 1981; Toronto; ; 3; Fort Lauderdale; h; 3,1; ; Jomo Sono, Greenhoff, Cervin; 5407
 NASL; 1981; Toronto; ; 10; New York; a; 1,5; ; Jomo Sono; 27003
 NASL; 1981; Toronto; ; 17; Edmonton; h; 2,1; ; Jomo Sono, Best; 4226
 NASL; 1981; Toronto; ; 22; Dallas; a; 1,0; ; Greenhoff; 3119
@@ -6178,7 +6178,7 @@ NASL; 1981; Washington; ; 12; Jacksonville; a; 0,1; *; ; 5416
 NASL; 1981; Washington; ; 14; Chicago; a; 2,1; ; Waldron, Kiefer; 8069
 NASL; 1981; Washington; ; 17; New York; h; 1,2; ; Waldron; 36875
 NASL; 1981; Washington; ; 20; Montreal; a; 0,2; ; ; 23664
-NASL; 1981; Washington; ; 27; Jacksonville; h; 1,2; *; Waldron; 9540
+NASL; 1981; Washington; ; 24; Jacksonville; h; 1,2; *; Waldron; 9540
 NASL; 1981; Washington; ; 1; San Diego; h; 3,2; *; Carr, Baralic; 10651
 NASL; 1981; Washington; ; 4; Seattle; h; 2,3; +; Waldron 2; 8571
 NASL; 1981; Washington; ; 8; Portland; a; 1,2; ; McGill; 8155
@@ -6350,7 +6350,7 @@ NASL; 1982; Montreal; ; 7; Toronto; a; 0,2; ; ; 7345; a*bcef*ghjmpqsu
 NASL; 1982; Montreal; ; 14; New York; a; 2,3; ; O'Brien 2; 25634; abce*fghjmn*psu
 NASL; 1982; Montreal; ; 17; Vancouver; h; 0,1; ; ; 30489; abcefg*hijpr*su
 NASL; 1982; Montreal; ; 21; Portland; h; 1,0; ; Vujovic; 15401; bcefg*hi*mpqrsu
-NASL; 1982; Montreal; ; 22; San Jose; h; 2,1; +; O'Brien, Vosmaer; 18001; bcefhi*mpqrsu
+NASL; 1982; Montreal; ; 24; San Jose; h; 2,1; +; O'Brien, Vosmaer; 18001; bcefhi*mpqrsu
 NASL; 1982; Montreal; ; 30; Jacksonville; a; 1,0; ; Parkinson; 5024; abcfg*hijmp*rsu
 NASL; 1982; Montreal; ; 1; New York; a; 2,3; ; Willey, Vujovic; 38891; abcfg*hijmpr*su
 NASL; 1982; Montreal; ; 4; Toronto; h; 1,2; ; Usiyan; 16242; bcefg*hjmpqr*su
@@ -6669,7 +6669,7 @@ NASL; 1982; Vancouver; ; 25; Toronto; a; 1,3; ; Valentine; 16241; bfgikmno*pqst
 NASL; 1982; Vancouver; ; 28; San Diego; h; 0,1; ; ; 17921; bfgikmnpqst
 NASL; 1982; Vancouver; ; 31; Tulsa; h; 3,2; *; Taylor, Gray; 15921; bfgklmno*pqst
 NASL; 1982; Vancouver; ; 4; Tulsa; a; 2,1; ; Lorimer, Taylor; 12572; bfgiklmnprt
-NASL; 1982; Vancouver; ; 5; Fort Lauderdale; h; 4,1; ; Lorimer, Valentine 2, Taylor; 18941; fgijklmopqt
+NASL; 1982; Vancouver; ; 7; Fort Lauderdale; h; 4,1; ; Lorimer, Valentine 2, Taylor; 18941; fgijklmopqt
 NASL; 1982; Vancouver; ; 11; Edmonton; h; 2,1; ; Taylor 2; 17348; bfghjklmn*pqs*t
 NASL; 1982; Vancouver; ; 14; Edmonton; a; 0,1; ; ; 2631; bfgijkln*o*pqst
 NASL; 1982; Vancouver; ; 18; Seattle; a; 2,1; ; Lorimer, Valentine; 29488; bfgijklmn*o*pqt

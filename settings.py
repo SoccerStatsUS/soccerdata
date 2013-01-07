@@ -1,4 +1,4 @@
-# What items are shown on the dashboard?
+# What items are shown on the dashboard
 STAT_TABLES = [
     'games', 
     'goals', 
@@ -14,26 +14,34 @@ STAT_TABLES = [
 
 # Sources are listed in terms of reliability; Order affects priority when merging games.
 SOURCES = [
+    'asl',
+    'nasl',
+    'mls',
+
+    'afa_cup',
+    'open_cup',
+
+    'olympics',
+    'fifa',
+
     'melvin',
     'tours',
     'state',
-    'olympics',
-    'american_cup',
-    'open_cup',
+
     'nafbl',
-    'asl',
+
     'esl',
     'lewis_cup',
     'asl2',
     'isl',
     #'indoor',
-    'nasl',
+
     'apsl',
     'usl',
     'usl_leach',
     'pdl',
     'misl',
-    'mls',
+
     'mls_playoffs',
     'mls_soccernet',
     'mls_reserve',
@@ -43,13 +51,14 @@ SOURCES = [
     'ncaa',
     #'world_cup',
     'usa',
-    'fifa',
+
     'copa_america',
     'concacaf',
     'mexico',
     'canada',
     'guatemala',
     'australia',
+    'china',
         ]
 
 # Skipping these.

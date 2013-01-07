@@ -138,7 +138,6 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5, fix_tags=False):
 
 
     # Seeing this problem with mlssoccer.com for some reason.
-    import pdb; pdb.set_trace()
     if fix_tags:
         data = data.replace("&lt;", '<')
         data = data.replace("&gt;", '>')

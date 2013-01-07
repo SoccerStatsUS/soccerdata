@@ -52,6 +52,10 @@ partial_alias = {
 
 
 
+    'U.S. Cup': 'Friendly International',
+
+
+
     'Bicentennial Cup': 'Friendly',
     'Carlsberg Cup': 'Friendly',
     'Carolina Challenge Cup': 'Friendly',

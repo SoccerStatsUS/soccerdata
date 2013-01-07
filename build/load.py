@@ -81,7 +81,14 @@ def load_drafts():
 
 
 def load_games():
+    load_china()
+    return
+
     load_mls()
+
+    return
+    load_usmnt()
+
 
     load_nasl()
     load_asl()
@@ -91,7 +98,7 @@ def load_games():
     load_early_cups()
 
     load_mexico()
-    load_usmnt()
+
 
     load_fifa()
 
@@ -99,17 +106,6 @@ def load_games():
 
 
     load_modern_cups()
-
-
-
-
-
-
-
-
-
-
-
 
     load_usl()
     load_apsl()
@@ -356,12 +352,12 @@ def load_usmnt():
 def load_early_cups():
 
 
-    generic_load(soccer_db.asl_awards, awards.process_american_cup_awards)
+    generic_load(soccer_db.afa_cup_awards, awards.process_american_cup_awards)
     generic_load(soccer_db.asl_awards, awards.process_us_open_cup_awards, delete=False)
     generic_load(soccer_db.asl_awards, awards.process_lewis_cup_awards, delete=False)
 
-    load_games_standard('american_cup', 'domestic/country/usa/cups/american')
-    load_games_standard('american_cup', 'domestic/country/usa/cups/american2')
+    load_games_standard('afa_cup', 'domestic/country/usa/cups/american')
+    load_games_standard('afa_cup', 'domestic/country/usa/cups/american2')
     load_games_standard('lewis_cup', 'domestic/country/usa/cups/lewis')
 
     for e in range(191, 197):
@@ -511,7 +507,7 @@ def load_modern():
 
 def load_early():
     load_games_standard('usa', 'international/country/usa/1880')
-    load_games_standard('american_cup', 'domestic/country/usa/cups/american')
+    load_games_standard('afa_cup', 'domestic/country/usa/cups/american')
     load_melvin()
 
 
@@ -799,6 +795,8 @@ def load_soccernet_league(name, code):
     generic_load(soccer_db['%s_lineups' % name], lambda: lineups)
     
 
+def load_china():
+    load_games_standard('china', 'domestic/country/china')
 
 def load_australia():
     load_games_standard('australia', 'domestic/country/australia')

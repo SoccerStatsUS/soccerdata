@@ -479,6 +479,7 @@ world = {
     'Rubin Kazan -- Russia': 'Rubin Kazan',
     'Torpedo Moscow -- Russia': 'Torpedo Moscow',
     'Torpedo Moscow': 'FC Torpedo Moscow',
+    'Moscow Dynamo': 'FC Dynamo Moscow',
 
     # Scandinavia
     'Gif Sundsvall': 'GIF Sundsvall',
