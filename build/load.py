@@ -410,7 +410,7 @@ def load_mls():
     load_games_standard('mls', 'domestic/country/usa/leagues/mls/2012')
     load_games_standard('mls', 'domestic/country/usa/leagues/mls/mls_attendance.csv')
 
-    load_mls_lineups()
+    load_mls_lineup_db()
 
     #generic_load(soccer_db.mls_stats, mls.scrape_all_bio_stats_mlssoccer)
     #load_soccernet_league('mls_soccernet', 'usa.1')
@@ -684,12 +684,12 @@ def load_apsl():
 
 def load_misl():
     """
-    Load stats and games from the APSL and WSA.
+    Load stats and games from the MISL, standings from MISL, APSL and WSA.
     """
 
     load_excel_standings('misl', 'indoor/all')
     load_excel_standings('misl', 'indoor/misl')
-    print "Loading NASL stats.\n"
+    print "Loading MISL stats.\n"
     generic_load(soccer_db.misl_stats, stats.process_misl_stats)
 
 
@@ -699,13 +699,12 @@ def load_leach():
     generic_load(soccer_db.usl_leach_games, leach.process_games)
     generic_load(soccer_db.usl_leach_lineups, leach.process_lineups)
 
-def load_mls_lineups():
+def load_mls_lineup_db():
     # Load scaryice lineup data.
 
     # MLS lineup data 1996-2010
     print "Loading scaryice score data.\n"
     generic_load(soccer_db.mls_games, lineups.load_all_games_scaryice)
-
 
     print "Loading scaryice goal data.\n"
     generic_load(soccer_db.mls_goals, lineups.load_all_goals_scaryice)
@@ -800,6 +799,7 @@ def load_china():
 
 def load_australia():
     load_games_standard('australia', 'domestic/country/australia')
+    load_games_standard('australia', 'domestic/country/australia_playoffs')
     generic_load(soccer_db.australia_awards, awards.process_australia_awards)
 
 def load_mexico():
@@ -812,7 +812,9 @@ def load_mexico():
     generic_load(soccer_db.mexico_awards, awards.process_mexico_awards)
     load_new_standings('mexico', 'domestic/country/mexico/primera_fuerza')
     load_games_standard('mexico', 'international/country/mexico/alltime')
+    # These are all formatted, just need to be quality-checked.
     return
+
     load_games_standard('mexico', 'international/country/trinidad_tobago')
     load_games_standard('mexico', 'international/country/belize')
     load_games_standard('mexico', 'international/country/bermuda')

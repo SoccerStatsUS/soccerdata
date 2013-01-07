@@ -6,7 +6,7 @@ COMPETITIONS_DIR = '/home/chris/www/soccerdata/data/competitions/'
 
 def load_competitions():
     l = []
-    files = ['new']
+    files = ['competitions']
     for fn in files:
         p = os.path.join(COMPETITIONS_DIR, fn)
         f = open(p)

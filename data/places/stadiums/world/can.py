@@ -6,7 +6,11 @@ import datetime
 
 l = [
 
-    
+        {
+        'name': 'Carruthers Park',
+        'location': 'Winnipeg, MB',
+
+        },
 
         {
         'name': 'Downsview Park',
