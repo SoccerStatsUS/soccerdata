@@ -33,7 +33,7 @@ Round: First Round
 ; Boston City;  0 : 2; Squantum
 
 * Connecticut
-; St. George Bridgeport; ?; Bridgeport Thistles
+; Bridgeport St. George; ?; Bridgeport Thistles
 11/2/1919; Bridgeport City; 2 : 1; Bridgeport Rovers
 
 * Eastern Pennsylvania
@@ -101,7 +101,7 @@ Source: http://bethlehemsteelsoccer.org/gl112819.html
 
 * Connecticut
 ; New Haven FC; 3 : 1; Bridgeport Swedish AC
-; St. George Bridgeport; 2 : 4; Bridgeport City
+; Bridgeport St. George; 2 : 4; Bridgeport City
 
 * Western Pennsylvania
 ; Pittsburgh Terminal Coal FC; 5 : 2; Madsion FC
@@ -416,7 +416,7 @@ BlockSource: http://thecup.us/1922-national-challenge-cup-results/
 
 Round: Preliminary Round
 
-* Conencticut
+* Connecticut
 10/9/1921; Danersk Athletic FC; 2 : 2; Stamford FC; Danersk Athletic FC; R. Rae
 10/16/1921; Danersk Athletic FC; 5 : 0; Stamford FC; Danersk Athletic FC; R. Rae
 
@@ -425,14 +425,14 @@ Round: Preliminary Round
 10/9/1921; Glen Cove; 5 : 0; Hempstead House; Glen Cove; J. Masterson
 
 * New Jersey
-10/9/1921; Carlton Hill; 5 : 1; Palisade Park; Carlton Hill; R. McMahon
+10/9/1921; Carlton Hill; 5 : 1; Palisade Park; Carlton Hill; R. McMahon; 309
 
 * Northern New England
 10/9/1921; West End Polish FC; 2 : 2; Esmond Cortex; West End Polish FC; E. Pemberton
 10/15/1921; Esmond Cortex; 2 : 1; West End Polish FC; Esmond Cortex; J. Carlin
 
 * Northwestern New York
-10/9/1921; Camera Works FC; 2 : 1; Kodak Park FC; Camera Works FC; J. Lythgoe
+10/9/1921; Camera Works FC; 2 : 1; Kodak Park FC; Camera Works FC; J. Lythgoe; 130
 
 Round: First Round
 
@@ -440,7 +440,7 @@ Round: First Round
 
 * Connecticut
 10/16/1921; Bridgeport City; 3 : 1; Ansonia FC; Bridgeport City; A. York
-10/22/1921; Danersk Athletic FC; 2 : 3; St. George Bridgeport; Danersk Athletic FC; R. Rae
+10/22/1921; Danersk Athletic FC; 2 : 3; Bridgeport St. George; Danersk Athletic FC; R. Rae
 
 * Western New England
 10/15/1921; Chicopee Rovers; 1 : 1; Hartford FC; Chicopee Rovers; D. Cruickshanks
@@ -467,10 +467,10 @@ Source: http://bethlehemsteelsoccer.org/gl101721.html
 10/23/1921; Celtics FC (New Jersey); 5 : 0; Federal Ship FC; Celtics FC (New Jersey); R. McMahon
 
 * Southern New York
-10/16/1921; Glen Cove; 1 : 1 (aet); Yonkers Thistle; 
-10/23/1921; Glen Cove; 0 : 3; Yonkers Thistle
-10/16/1921; Greenpoint FC; 1 : 1; Franco Swiss
-10/23/1921; Greenpoint FC; 1 : 0; Franco Swiss
+10/16/1921; Glen Cove; 1 : 1 (aet); Yonkers Thistle; C. Stott
+10/23/1921; Glen Cove; 0 : 3; Yonkers Thistle; C. Stott
+10/16/1921; Greenpoint FC; 1 : 1; Franco Swiss; J. Masterson
+10/23/1921; Greenpoint FC; 1 : 0; Franco Swiss; J. Masterson
 
 10/16/1921; Todd Shipyards; 8 : 2; Brooklyn FC; Todd Field; V.E. Williams
 McKelvey, McKelvey, McKelvey, Hosie, Hosie, Clark, McGuire, Fryer; McChesnie, McChesnie
@@ -478,28 +478,30 @@ Todd Shipyards: Renzulli, Adams, Lance, Campbell, Fryer, Irvine, McGuire, Clark,
 Brooklyn FC: Adamson, McGarrachie, Ross, Porter, McCann, Cameron, Crann, Jacklin, Rew, McChesnie, Moores
 Source: http://query.nytimes.com/mem/archive-free/pdf?res=940DEEDB133EEE3ABC4F52DFB667838A639EDE
 
-10/16/1921; Viking AC; 8 : 2; Brooklyn Hibernian
-10/16/1921; New York FC; 7 : 0; West Harlem Catholic
+10/16/1921; Viking AC; 8 : 2; Brooklyn Hibernian; W. Williams
+10/16/1921; New York FC; 7 : 0; West Harlem Catholic; T. Cunningham
 
 * Northwestern New York
-10/16/1921; Rochester City Moose; 3 : 1; Camera Works FC
-10/16/1921; Rochester Celtic; 2 : 1; General Electric
+10/16/1921; Rochester City Moose; 3 : 1; Camera Works FC; J. Ackroyd
+10/16/1921; Rochester Celtic; 2 : 1; General Electric; J. Lythgoe
 
 * Northern Massachusetts
 10/15/1921; Arlington Mills; 0 : 3; American Woolen; Arlington Mills; J.W. Woodcock
 10/15/1921; Massachusetts Cotton Mills; 0 : 1; Abbot Worsted; Massachusetts Cotton Mills; T. Littleson
+; Kershaw
+
 10/15/1921; Charlestown FC; W:L; General Electric; General Electric; T. Ritchie
 10/15/1921; Grey & Davis; 2 : 0; Fore River FC; Grey & Davis; P. Garrigan
 10/22/1921; Roxbury FC; 1 : 6; Smith & Dove FC; Roxbury FC; T. Ritchie
 
 * Southern New England
-10/12/1921; Prospect Hill; 0 : 5; Fall River FC
-10/15/1921; J & P Coats; 3 : 0; Fall River Rovers
-10/15/1921; Ashton & Berkeley; 3 : 1; Clan Cameron
-10/15/1921; Saylesville; 2 : 0; British Canadian FC
-10/15/1921; St. Michael's; 5 : 1; Crompton FC
-10/22/1921; Fairlawn Rovers; 3 : 0; Westerly United
-10/22/1921; Lonsdale Mills; 4 : 0; Esmond Cortex
+10/12/1921; Prospect Hill; 0 : 5; Fall River FC; F. Booth
+10/15/1921; J & P Coats; 3 : 0; Fall River Rovers; R. Carroll
+10/15/1921; Ashton & Berkeley; 3 : 1; Clan Cameron; E. Pemberton
+10/15/1921; Saylesville; 2 : 0; British Canadian FC; J.W. Smith
+10/15/1921; St. Michael's; 5 : 1; Crompton FC; R. Wood
+10/22/1921; Fairlawn Rovers; 3 : 0; Westerly United; A. White
+10/22/1921; Lonsdale Mills; 4 : 0; Esmond Cortex; J. Carlin
 
 
 * Western Bracket
@@ -516,28 +518,26 @@ Source: http://query.nytimes.com/mem/archive-free/pdf?res=940DEEDB133EEE3ABC4F52
 10/16/1921; Gillespie Moose; 2 : 1; Wilsonville United; Gillespie Moose; W. Bascom
 
 * Ohio
-10/16/1921; Goodyear FC; 0 : 4; Firestone FC
-10/16/1921; Lorain Eagles; 0 : 1; Magyar American FC
-10/23/1921; Kennmore FC; 1 : 3; White Motors
+10/16/1921; Goodyear FC; 0 : 4; Firestone FC; J.B. Storrie
+10/16/1921; Lorain Eagles; 0 : 1; Magyar American FC; G. Stokes
+10/23/1921; Kennmore FC; 1 : 3; White Motors; J.B. Storrie
 
 * Michigan
-10/16/1921; Caledonia FC; 2 : 1; Walkerville FC
-10/16/1921; Ulster FC; 4 : 2; Conubians
-10/23/1921; Roses FC; 3 : 0; Magyar FC (Michigan)
-10/23/1921; Detroit FC; 1 : 2; Scarlet Runners FC
+10/16/1921; Caledonia FC; 2 : 1; Walkerville FC; H. Bromfield
+10/16/1921; Ulster FC; 4 : 2; Conubians; R. Young
+10/23/1921; Roses FC; 3 : 0; Magyar FC (Michigan); G.C. Leach
+10/23/1921; Detroit FC; 1 : 2; Scarlet Runners FC; J.B. Stark
 
 * Western Pennsylvania
-10/16/1921; Cuddy AC; 1 : 0; Carnegie FC
-10/16/1921; Madison FC; 0 : 3; Moon Run
-10/16/1921; Curry FC; 1 : 3; Dunlevy SC
+10/16/1921; Cuddy AC; 1 : 0; Carnegie FC; F. Walters
+10/16/1921; Madison FC; 0 : 3; Moon Run; J. Spence
+10/16/1921; Curry FC; 1 : 3; Dunlevy SC; R.G. Coins
 
 
 Round: Second Round
 
-
-
 * Southern New York
-11/5/1921; New York Field Club; 5 : 1; Fairhill (New York)
+11/5/1921; New York Field Club; 5 : 1; Fairhill (New York); T. Cunningham
 
 11/5/1921; Todd Shipyards; 6 : 1; Yonkers Thistle; Todd Field; J. Masterson, E. Garside, T. Brown
 Hosie, McKenna, McKenna, McKenna, Sweeney, McGuire; A. McDonald
@@ -545,17 +545,19 @@ Todd Shipyards: Renzulli, Adams, Lance, Fryer, Campbell, Irvine, McKelvey, McGui
 Yonkers Thistle: Fraser, F. McDonald, Hunter, Nelson, A. McDonald, Jenkins, Bell, Lauder, McMurtrie, J. McDonald, Faulds
 Source: http://query.nytimes.com/mem/archive-free/pdf?res=990DE6D8103EEE3ABC4F53DFB767838A639EDE
 
-11/6/1921; Viking AC; 2 : 1; Greenpoint FC
+11/6/1921; Viking AC; 2 : 1; Greenpoint FC; C. Stott
 
 * New Jersey
-11/5/1921; Jersey City Celtics; 1 : 3; Harrison SC
-11/6/1921; Antler FC; 2 : 0; Babcock & Wilcox
+
+11/6/1921; Antler FC; 2 : 0; Babcock & Wilcox; F. Smith
+11/6/1921; Jersey City Celtics; 1 : 3; Harrison SC; R. McMahon
+* Check date. cf. Spalding 1922
 
 * Connecticut
-11/6/1921; Bridgeport City; 1: 3; St. George Bridgeport
+11/6/1921; Bridgeport City; 1: 3; Bridgeport St. George; A. York; 377
 
 * Western New England
-11/5/1921; Hartford; 2 : 8; Falco AA
+11/5/1921; Hartford; 2 : 8; Falco AA; G. Lambie; 397
 
 * Eastern Pennsylvania
 11/5/1921; Philadelphia Field Club; 4 : 1; M.E. Smith
@@ -567,10 +569,12 @@ Source: http://bethlehemsteelsoccer.org/gl110721.html
 
 
 * Northwestern New york
-11/6/1921; Rochester Celtic; 1 : 2; Rochester City Moose
+11/6/1921; Rochester Celtic; 1 : 2; Rochester City Moose; 290
 
 * Northern Massachusetts
 11/5/1921; Abbot Worsted; 2 : 0; American Woolen
+Kershaw, Ritchie;
+
 11/5/1921; Gray & Davis; 4 : 2; Smith & Dove FC
 
 * Southern New England
@@ -582,108 +586,160 @@ Source: http://bethlehemsteelsoccer.org/gl110721.html
 * Western Bracket
 
 * Illinois & Wisconsin
-11/6/1921; Swedish American FC; 2 : 3; Johnston City
-11/6/1921; Thistles FC (Chicago); 0 : 1; Pullman FC
-11/3/1921; Gary FC; 0 : 3; Simmons SC
-11/6/1921; Chicago Bricklayers; 1 : 0; Olympia FC (Chicago)
-11/20/1921; Harvey FC; 2 : 4; Rangers
+11/6/1921; Swedish American FC; 2 : 3; Johnston City; Jack Johnston
+11/6/1921; Thistles FC (Chicago); 0 : 1; Pullman FC; D. McKean
+
+* 11/3/1921; Gary FC; 0 : 3; Simmons SC; P
+11/6/1921; Simmons FC; 3:1; Gary FC; P. Gemmill
+
+11/6/1921; Chicago Bricklayers; 1 : 0; Olympia FC (Chicago); J.W. Wood
+11/20/1921; Harvey FC; 2 : 4; Rangers AC; P. Gemmill
 
 * Missouri
-11/13/1921; Springfield; 0 : 1; Paulian Knights of Columbus
-11/13/1921; Gillespie; 1 : 1; St. Leo's
-11/24/1921; St. Leo's; 3 : 4; Gillespie
-11/20/1921; DeAndreis; 1 : 2; Ben Miller FC
-11/20/1921; St. Louis Screw; 1 : 2; Scullin Steel
+11/13/1921; Springfield; 0 : 1; Paulian Knights of Columbus; W. Bascom
+11/13/1921; Gillespie; 1 : 1; St. Leo's; Paul Murphy
+11/24/1921; St. Leo's; 3 : 4; Gillespie; Paul Murphy
+11/20/1921; DeAndreis; 1 : 2; Ben Miller FC; P. McSweeney
+11/20/1921; St. Louis Screw; 1 : 2; Scullin Steel; P. Kavanaugh
 
 * Michigan
-11/6/1921; Industrial FC; 1 : 0; Scarlet Runners FC
-11/6/1921; Pontiac City; 3: 3; Roses FC
-11/13/1921; Roses FC; 3 : 2; Pontiac City
-11/6/1921; Caledonia FC; 4 : 1; Ulster FC
+11/6/1921; Industrial FC; 1 : 0; Scarlet Runners FC; J.B. Stark
+11/6/1921; Pontiac City; 3: 3; Roses FC; R. Young
+11/13/1921; Roses FC; 3 : 2; Pontiac City; R. Young
+11/6/1921; Caledonia FC; 4 : 1; Ulster FC; F. Broomfield
 
 * Ohio
-11/13/1921; Firestone FC; 1 : 2; Magyar American FC
-* Firestone protest upheld, replay ordered
-11/27/1921; Firestone FC; 1 : 3; Magyar American FC
-11/13/1921; White Motors; 4 : 2; Cuddy
+11/13/1921; White Motors; 4 : 2; Cuddy; A.C. Paterson
 * Curry protest upheld, replay ordered
-* 12/4/1921; White Motors; Cuddy
+
+12/4/1921; White Motors; W-L; Cuddy; A.C. Paterson
 * Match awarded to White Motors
+
+11/13/1921; Firestone FC; 1 : 2; Magyar American FC; J.B. Storrie
+* Firestone protest upheld, replay ordered
+11/27/1921; Firestone FC; 1 : 3; Magyar American FC; J.B. Storrie
+
+
 
 Round: Third Round
 
 * Eastern Bracket
-11/26/1921; Fall River FC; 1 : 2; J & P Coats
-11/26/1921; Holyoke Falco; 5 : 2; St. George Bridgeport
-12/11/1921; Todd Shipyards; 5 : 3;  New York Field Club
-11/26/1921; Grey & Davis; 0 : 2; Abbot Worsted
-11/24/1921; Fairlawn Rovers; 1 : 0; Sayles Finishing Plant
-12/11/1921; Harrison SC; 5 : 0;  Antler FC
+
+* Southern New England
+11/24/1921; Sayles Finishing Plant; 0:1; Fairlawn Rovers; E. Pemberton
+11/26/1921; Fall River FC; 1 : 2; J & P Coats; G. Lambie
+
+* Connecticut and Western New England
+11/26/1921; Holyoke Falco; 5 : 2; Bridgeport St. George; R. Murphy; 154
+
+* Northern Mass
+11/26/1921; Grey & Davis; 0 : 1; Abbot Worsted; V. Dobson; 481 
+; Ross
+
+* New Jersey
+12/11/1921; Harrison SC; 5 : 0;  Antler FC; R. McMahon; 1334
+
+* Northern and Southern New York
+12/11/1921; Todd Shipyards; 5 : 3;  New York Field Club; T. Cunningham
 
 12/18/1921; Viking AC; 4 : 3; Rochester Moose; New York Oval; W. Williams, N. Anderson, G. McNaughton
 Viking AC: Erlander, Berg, Norling, Ekstrom, Larson, Hirsch, Hagstrom, Petterson, Gustafson, K?ist, Lindgren
 Rochester Moose: Woods, Strickland, Biles, Longritige, Martin, Morrison, Brownhill, Dagger, Denison, Camplin, Playfair
 Source: http://query.nytimes.com/mem/archive-free/pdf?res=9503EEDA113EEE3ABC4152DFB467838A639EDE
 
-11/26/1921; Fleisher Yarn; 5 : 0; Philadelphia Field Club
+* Eastern Pennsylvania
+11/26/1921; Fleisher Yarn; 0: 5; Philadelphia Field Club; J. Kerr; 523
 
 * Western Bracket
-11/30/1921; Simmons SC; 4 : 2; Chicago Bricklayers
-* Changed from 11/31 since that's not a real day.
 
-12/4/1921; Pullman FC; 2 : 0; Rangers FC
-12/4/1921; Scullin Steel; 2 : 0; Johnston City
-12/4/1921; Arden FC; 3 : 0; Dunlevy SC
-12/4/1921; Industrial FC; 1 : 1; Roses FC
-12/11/1921; Roses FC; 1 : 2; Industrial FC
-12/11/1921; Ben Miller FC; 3 :1;  Paulian Knights of Columbus
+*Illinois-Wisconsin
+12/4/1921; Simmons SC; 4 : 2; Chicago Bricklayers; D. McKean
+12/4/1921; Pullman FC; 2 : 0; Rangers AC; A. McKenzie
+
+* Michigan
+
+12/4/1921; Industrial FC; 1 : 1; Roses FC; J.B. Stark
+12/11/1921; Gillespie; 1 : 1; Caledonia FC; William Bascom Jr.
+12/11/1921; Roses FC; 1 : 2; Industrial FC; J.B. Stark
+12/18/1921; Caledonia FC; 6 : 0; Gillespie; J.B. Stark
+
+* Missouri 
+12/4/1921; Scullin Steel; 2 : 0; Johnston City; P.J. Kavanaugh
+12/11/1921; Ben Miller FC; 3 :1;  Paulian Knights of Columbus; P. McSweeney
+
+* Western Pennsylvania
+12/4/1921; Arden FC; 3 : 0; Dunlevy SC; T. Birks
+
+* Ohio
 12/11/1921; White Automobile; 0: 0 (aet);   Magyar American FC
 12/18/1921; White Automobile; 1 : 0 (aet);  Magyar American FC
-12/11/1921; Gillespie; 1 : 1; Caledonia FC
-12/18/1921; Caledonia FC; 6 : 0; Gillespie
 
 Round: Fourth Round
 
 * Eastern Bracket
-12/24/1921; J & P Coats; 3 : 4; Holyoke Falco
-12/25/1921; Viking AC; 2 : 6; Harrison S.C.
 
-12/26/1921; Philadelphia Field Club; 1 : 4; Todd Shipyards; PHillies Park; McCarroll, Fullerton, Shaw; 6000
+* New England
+12/24/1921; J & P Coats; 3 : 4; Holyoke Falco; W. Norse
+12/24/1921; Fairlawn Rovers; 1 : 1; Abbot Worsted; G. Lambie
+; Kershaw
+
+1/8/1922; Abbott Worsted; 2 : 0; Fairlawn Rovers; G. Lambie
+Kershaw, Page; 
+
+* New York, NJ, and Penn
+12/25/1921; Harrison SC; 6:2; Viking AC; A. Esplin
+
+12/26/1921; Philadelphia Field Club; 1 : 4; Todd Shipyards; PHillies Park; R. Carroll, Fullerton, Shaw; 6000
 Ratican, Smith, McKenna, McKenna; Forrest
 Philadelphia Field Club: Kerr, Bethune, Ferguson, Porter, Lorimer, Collier, Morley, Campbell, Forrest, Fleming
 Todd Shipyards: Renzulli, Smith, Whitehead, Campbell, Irvine, McKelvey, McGuire, Ratican, McKenna, Sweeney
 Source: http://query.nytimes.com/mem/archive-free/pdf?res=9505EFD7113EEE3ABC4F51DFB467838A639EDE
 
 
-12/24/1921; Fairlawn Rovers; 1 : 1; Abbot Worsted
-1/8/1922; Abbott Worsted; 2 : 0; Fairlawn Rovers
-
 * Western Bracket
-12/26/1921; Arden FC; 2 : 0; White Automobile
-12/25/1921; Caledonia FC; 1 : 0; Industrial FC
-12/25/1921; Pullman FC; 3 : 2 (aet); Simco FC
-12/18/1921; Scullin Steel; 3 : 0; Ben Miller FC
+
+* Western Penn
+12/26/1921; Arden FC; 2 : 0; White Automobile; T. Birks; 1164
+
+* Michigan
+12/25/1921; Industrial FC; 0:1; Caledonia FC; W. Ferguson; 198
+
+* Illinois-Wisconsin
+12/25/1921; Pullman FC; 3 : 2 (aet); Simmons FC; J. Johnston; 426
+
+* Missouri
+12/18/1921; Scullin Steel; 3 : 0; Ben Miller FC; P. Kavanaugh; 3413
 
 Round: Quarterfinals
-1/1/1922; Scullin Steel; 3 : 0; Pullman FC
-1/15/1922; Caledonia FC; 3 : 2; Arden FC
-2/5/1922; Abbot Worsted; 3 : 1; Holyoke Falco
-2/12/1922; Harrison SC; 0 : 1; Todd Shipyards
+
+* Illinois-Wisconsin & Missouri
+1/1/1922; Scullin Steel; 3 : 0; Pullman FC; J.B. Stark
+
+* Michigan/Western Penn
+1/15/1922; Caledonia FC; 3 : 2; Arden FC; J. Johnston
+
+* New England
+2/5/1922; Abbot Worsted; 3 : 1; Holyoke Falco; R. Carroll
+Kershaw, Kershaw, Kershaw;
+
+* NY-NJ
+2/12/1922; Harrison SC; 0 : 1; Todd Shipyards; W. Norse
 
 Round: Semifinals
-1/22/1922; Scullin Steel; 4 : 0; Caledonia FC
+1/22/1922; Scullin Steel; 4 : 0; Caledonia FC; J. Johnston; 5380
 
-2/25/1922; Todd Shipyards; 2 : 1; Abbot Worsted; Fall River, MA; 7000
+2/25/1922; Todd Shipyards; 2 : 1; Abbot Worsted; Fall River, MA; Norse, Welch, Carroll; 4585
+* Other sources say 8000?
 Ratican 52, Ratican 57; Kershaw 80
-Todd Shipyards: Renzulli, Smith, Whitehead, Irving, Campbell, Fryer, McKelvie, McGuire, Ratican, Sweeney
+Todd Shipyards: Pete Renzulli; Adam Smith, W. Whitehead; Joseph Irvine, James Campbell, Bill Fryer; George McKelvey, Jack McGuire, Harry Ratican, Hosie, Peter Sweeney
 Abbot Worsted: McIntosh, Hulse, Ross, Cosgrove, Kelly, Duncan, Farquhar, Page, Kershaw, Kane, McMaster
 Source: http://query.nytimes.com/mem/archive-free/pdf?res=9F05E1DE1E3CE533A25755C2A9649C946395D6CF
 
 Round: Final 
-3/19/1922; Scullin Steel; 3 : 2; Todd Shipyards; High School Field, St. Louis, Missouri; 8000
+3/19/1922; Scullin Steel; 3 : 2; Todd Shipyards; High School Field, St. Louis, Missouri; George Young, Paul McSweeney, P.J. Kavanaugh; 8568
 Cliff Brady, Allie Schwarz, Allie Schwarz; Jack McGuire, Jack McGuire
-Scullin Steel: Harry Oellerman, Tate Brady, George Bentley, Jimmy Nolan, Len Zeuschel, Joe Hennessey, Emmet Mulvey, Dike Brannigan, Allie Schwarz, Cliff Brady, Charles Bechtold
-Todd Shipyards: Pete Renzulli, W. Whitehead, Adam Smith, Joseph Irvine, James Campbell, Bill Fryer, Peter Sweeney, Frank McKenna, Harry Ratican, Jack McGuire, George McKelvey
+Scullin Steel: Harry Oellerman; Tate Brady, George Bentley; Jimmy Nolan, Len Zeuschel, Joe Hennessey; Emmet Mulvey, Dike Brannigan, Allie Schwarz, Cliff Brady, Charles Bechtold
+Todd Shipyards: Pete Renzulli; W. Whitehead, Adam Smith; Joseph Irvine, James Campbell, Bill Fryer; Peter Sweeney, Frank McKenna, Harry Ratican, Jack McGuire, George McKelvey
 
 
 Season: 1923
@@ -756,7 +812,7 @@ Source: http://bethlehemsteelsoccer.org/gl101622.html
 10/15/1922; Bay Ridge FC; 3 : 0; British Great War Veterans
 10/15/1922; Manchester FC; 1 : 2; Hartford Rovers
 10/15/1922; Danersk Athletic FC; 2 : 1; Tryconnell Celtic
-10/15/1922; St. George Bridgeport; 6 : 3; Lexington FC (Brooklyn)
+10/15/1922; Bridgeport St. George; 6 : 3; Lexington FC (Brooklyn)
 10/15/1922; Ansonia FC; 3 : 1; West Harlem FC
 10/15/1922; Sone & Fleming; 1 : 2; Nassau FC
 10/29/1922; Brooklyn Field Club; w/o; Edison FC
@@ -825,7 +881,7 @@ Round: Second Round
 11/5/1922; Brooklyn Wanderers; 1 : 2; Brooklyn Field Club
 11/5/1922; Ansonia FC; 4 : 1; Nassau FC
 11/5/1922; Centro Hispano; 3 : 1; Danersk Athletic FC
-11/12/1922; New York Field Club; 9 : 3; St. George Bridgeport
+11/12/1922; New York Field Club; 9 : 3; Bridgeport St. George
 11/12/1922; Bay Ridge FC; 1 : 2; Hartford Rovers
 
 * Northern Massachusetts & New Hampshire
