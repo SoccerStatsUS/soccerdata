@@ -89,7 +89,7 @@ def scrape_post_soup():
     return BeautifulSoup(data)
 
 
-def scrape_url(url, refresh=False, encoding=None, sleep=5):
+def scrape_url(url, refresh=False, encoding=None, sleep=5, fix_tags=False):
     """
     Scrape a url, or just use a version saved in mongodb.
     """
@@ -135,6 +135,14 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5):
     data = data.replace("<meta content=  </div>", "<meta></div>")
     data = data.replace("<meta charset=  </div>", "<meta></div>")
     data = data.replace("<p style=  </div>", "<p></div>")
+
+
+    # Seeing this problem with mlssoccer.com for some reason.
+    import pdb; pdb.set_trace()
+    if fix_tags:
+        data = data.replace("&lt;", '<')
+        data = data.replace("&gt;", '>')
+
 
     # Missing quotation mark. (http://soccernet.espn.go.com/match?id=331193&cc=5901)
     data = data.replace('href=http', 'href="http')

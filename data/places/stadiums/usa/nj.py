@@ -58,10 +58,7 @@ l = [
         'cost': 28000000,
         'capacity': 5000,
         },
-    {
-        'name': 'ONT AA Grounds',
-        'location': 'Kearny, NJ',
-        },
+
     {
         'name': 'Meadowbrook Oval',
         'location': 'Newark, NJ',
@@ -158,10 +155,7 @@ l = [
         'name': 'St. George\'s Cricket Grounds',
         'location': 'Hoboken, NJ',
         },
-    {
-        'name': 'College Field',
-        'location': 'East Brunswick, NJ',
-        },
+
     {
         'name': 'Liberty Grounds',
         'location': 'Trenton, NJ',
@@ -237,10 +231,6 @@ l = [
         'location': 'Harrison, NJ',
         },
 
-    {
-        'name': 'Bartell\'s Park',
-        'location': 'Newark, NJ',
-        },
     {
         'name': 'Washington Oval',
         'location': 'Kearny, NJ',

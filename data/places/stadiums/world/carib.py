@@ -8,7 +8,7 @@ import datetime
 l = [
 
     {
-        'name': 'National Stadium',
+        'name': 'Jamaica National Stadium',
         'location': 'Kingston, Jamaica',
         'opened': 1962,
         'capacity': 35000,
@@ -92,7 +92,7 @@ l = [
         },
 
     {
-        'name': 'National Stadium', 
+        'name': 'Bermuda National Stadium', 
         'location': 'Hamilton, Bermuda',
         'capacity': 8500,
         },

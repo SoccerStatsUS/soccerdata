@@ -310,18 +310,26 @@ def get_full_name(name, competition, season):
     return name
 
 
+def process_asl_games():
+    return process_games()[0]
 
+def process_asl_goals():
+    return process_games()[1]
     
 
 def process_games():
     f = open(games_filename)
-    l = []
+    game_list = []
+    goal_list = []
     gp = GameProcessor()
     for line in f:
         g = gp.consume_row(line)
         if g:
-            l.append(g)
-    return l
+            game_data, goals = g
+            game_list.append(game_data)
+            goal_list.extend(goals)
+
+    return game_list, goal_list
 
 
 
@@ -353,7 +361,7 @@ class GameProcessor(object):
             team, season, competition, month, day, opponent, location, score, goals = fields
         elif len(fields) == 8:
             team, season, competition, month, day, opponent, location, score = fields
-            goals = []
+            goals = ''
 
         else:
             # A couple of games without scores (forfeits). (len = 7)
@@ -427,7 +435,7 @@ class GameProcessor(object):
             away_team = team
             away_score = team_score
 
-        return {
+        game_data =  {
             'competition': competition,
             'season': season,
             'date': d,
@@ -438,6 +446,34 @@ class GameProcessor(object):
             'home_team': home_team,
             'sources': ['American Soccer League (1921-1931)',],
             }
+
+        goal_list = []
+
+
+        for goal in goals.split(','):
+            m = re.match("(.*?) (\d)", goal)
+            if m:
+                goal, count = m.groups()
+                count = int(count)
+            elif goal.strip():
+                count = 1
+            else:
+                # Empty results.
+                count = 0
+
+
+            for e in range(count):
+                goal_list.append({
+                        'team': team,
+                        'season': season,
+                        'competition': competition,
+                        'date': d,
+                        'goal': goal,
+                        'minute': None,
+                        'assists': []
+                        })
+
+        return game_data, goal_list
     
 
 def get_bios():

@@ -197,7 +197,7 @@ world = {
     #Nashville Blues (TN)
     #National Slug (St. Louis)
     #Necaxa (Chicago)
-    'Necaxa (Mexico)': 'Necaxa',
+
     #North Shore FC (Evansville)
     'Norwegian American SC (Chicago)': 'Chicago Norwegian American SC',
     'Norwegian American SC (NYC)': 'New York Norwegian American SC',
@@ -296,6 +296,7 @@ world = {
 
     'Italian Army Team': 'Italian Army',
     'All Skane': 'All-Skane',
+
 
     # Asia
 
@@ -846,6 +847,7 @@ world = {
     'Aurora': 'Aurora F.C.',
     'Coban - Guatemala': 'Coban',
     'Coban': 'Cobán Imperial',
+    'Coban Imperial': 'Cobán Imperial',
     'Comunicaciones': 'C.S.D. Comunicaciones',
     'Comunciaciones': 'C.S.D. Comunicaciones',
     'Communicaciones': 'C.S.D. Comunicaciones',
@@ -909,7 +911,9 @@ world = {
     'Club America': 'Club América',
     'CF América': 'Club América',
     'Club America -- Mexico': 'Club America',
-    'Asturias': 'Club de Fútbol Asturias',
+    'Asturias': 'CF Asturias',
+    'Club de Fútbol Asturias': 'CF Asturias',
+    'Real Club Espana': 'Real Club España',
     'Atlante - Mexico': 'Atlante',
     'Atlante FC': 'Atlante F.C.',
     'Atlante': 'Atlante F.C.',
@@ -925,6 +929,7 @@ world = {
     'Bachilleres (Mexico)': 'Bachilleres',
     'Bachillieres (Mexico)': 'Bachilleres',
     'Club Celaya': 'Celaya FC',
+    'Celaya': 'Celaya FC',
     'Colima Jaguares (Mexico)': 'Colima Jaguares',
     'Colima Jaguares - Mexico': 'Colima Jaguares',
     'Cruz Azul (Mexico)': 'Cruz Azul',
@@ -950,6 +955,7 @@ world = {
     'Jalisco': 'Club Jalisco',
     'León': 'Club León',
     'Leon': 'Club León',
+    'Club Leon': 'Club León',
     'Leon -- Mexico': 'Leon',
     'México Country Club': 'México Cricket Club',
     'Mexico Cricket Club': 'México Cricket Club',
@@ -959,6 +965,9 @@ world = {
     'Athlético Morelia': 'Monarcas Morelia',
     'Atlético Morelia': 'Monarcas Morelia',
     'Morelia': 'Monarcas Morelia',
+    'Athlético Morelia': 'Monarcas Morelia',
+    'Atlético Morelia': 'Monarcas Morelia',
+    
     'CA Monarcas Morelia': 'Monarcas Morelia',
     'Monterrey - Mexico': 'Monterrey',
     'Monterrey': 'CF Monterrey',
@@ -966,11 +975,21 @@ world = {
     'C.F. Monterrey': 'CF Monterrey',
     'Necaxa -- Mexico': 'Necaxa',
     'Necaxa - Mexico': 'Necaxa',
+    'Necaxa (Mexico)': 'Necaxa',
     'Club Necaxa': 'Necaxa',
     'Deportivo Oro': 'C.D. Oro',
     'Oro - Mexico': 'CD Oro',
     'Oro': 'C.D. Oro',
-    'CD Oro': 'C.D. Oro',
+    'C.D. Oro': 'CD Oro',
+    
+    'Queretaro': 'Querétaro FC',
+    'Querétaro': 'Querétaro FC',
+
+    # Actually separate teams?
+    'Atletas Campesinos': 'Querétaro FC',
+    'Gallos Blancos': 'Querétaro FC',
+    #'Cobras de Queretaro': 'Querétaro FC',
+
     'Pachuca-- Mexico': 'Pachuca',
     'Pachuca': 'C.F. Pachuca',
     'Pachuca CF': 'C.F. Pachuca',
@@ -979,6 +998,7 @@ world = {
     'Puebla F.C.': 'Puebla',
     'Puebla FC': 'Puebla',
     'Puebla AC': 'Puebla',
+    'Rovers FC (Mexico)': 'Rovers FC Mexico',
     'San Luis': 'San Luis FC',
     'San Luis F.C.': 'San Luis FC',
     'Laguna F.C.': 'Santos Laguna',
@@ -997,9 +1017,13 @@ world = {
     'Tecos - Mexico': 'Tecos',
     'U.A. de G.': 'Tecos',
     'Estudiantes Tecos': 'Tecos',
+    'Estudiantes UAG': 'Estudiantes Tecos',
     'UAG': 'Tecos',
     'U.A.G.': 'Tecos',
     'UAG Tecos': 'Tecos',
+    'Tecos U.A.G.': 'Tecos',
+    'Tecos UAG': 'Tecos',
+    'Tijuana': 'Club Tijuana',
     'Tijuana Chivas - Mexico': 'Tijuana Chivas',
     'Nacional de Tijuana - Mexico': 'Nacional de Tijuana',
     'CD Toluca': 'Toluca',
@@ -1026,6 +1050,7 @@ world = {
     'Pumas UNAM': 'UNAM',
     'UNAM Pumas': 'UNAM',
     'U.N.A.M.': 'UNAM',
+    'Pumas U.N.A.M.': 'UNAM',
     'Club Deportivo Veracruz': 'Veracruz',
     'Veracruz - Mexico': 'Veracruz',
     'Veracruz (Mexico)': 'Tiburones Rojos de Veracruz',
@@ -1033,6 +1058,7 @@ world = {
     'Veracruz': 'Tiburones Rojos de Veracruz',
     'UAT': 'Correcaminos UAT',
     'U.A.T.': 'Correcaminos UAT',
+    'Zacatepec': 'CD Zacatepec',
 }
 teams.update(world)
 
@@ -1289,7 +1315,7 @@ usa = {
 
 
     # Rhode Island
-    'Providence Wanderers': 'Providence Free Wanderers', # Check this - probably wrong...
+    #'Providence Wanderers': 'Providence Free Wanderers', # Check this - probably wrong...
     'Pawtucket FC': 'Pawtucket F.C.',
 
     'Thornton British Hosiers': 'Thornton Rovers',

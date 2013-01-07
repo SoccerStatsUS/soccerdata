@@ -41,6 +41,10 @@ def scrape_all_games_mlssoccer():
         l.extend(scrape_games(year))
     return l
 
+def process_scores(data):
+    """Helper"""
+    return MLSScoresProcessor().process_rows(data)
+
 @data_cache
 def scrape_games(year):
     """
@@ -467,9 +471,6 @@ class GameDetailScraper(object):
         
 
 
-def process_scores(data):
-    """Helper"""
-    return MLSScoresProcessor().process_rows(data)
 
 
 if __name__ == "__main__":

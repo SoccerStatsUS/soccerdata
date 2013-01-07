@@ -22,6 +22,13 @@ l = [
         'capacity': 38000,
         },
 
+    {
+        'name': 'Estadio Nacional Julio Martínez Prádanos',
+        'location': 'Santiago, Chile',
+        'opened': datetime.datetime(1938, 12, 3),
+        'capacity': 47000,
+        },
+
 
     {
         'name': 'Estadío Francisco Sánchez Rumoros', 
@@ -155,6 +162,75 @@ l = [
     {
         'name': 'Estadio Jose Panchenco Romero',
         'location': 'Maracaibo, Venezuela',
+        },
+
+    {
+        'name': 'Estadio Sausalito',
+        'location': 'Viña del Mar, Chile',
+        'opened': 1929,
+        'capacity': 18037,
+        },
+
+    {
+        'name': 'Estadio Carlos Dittborn',
+        'location': 'Arica, Chile',
+        'opened': datetime.datetime(1962, 4, 15),
+        'capacity': 14373
+        },
+
+
+    {
+        'name': 'Estadio El Teniente',
+        'location': 'Rancagua, Chile',
+        'opened': 1945,
+        'capacity': 14450,
+        },
+
+    {
+        'name': 'Estadio Monumental Antonio Vespucio Liberti',
+        'location': 'Buenos Aires, Argentina',
+        'opened': datetime.datetime(1938, 5, 25),
+        'capacity': 67664,
+        },
+
+    {
+        'name': 'Estadio Gigante de Arroyito',
+        'location': 'Rosario, Argentina',
+        'opened': datetime.datetime(1929, 10, 27),
+        'capacity': 41654,
+        },
+
+    {
+        'name': 'Estadio José María Minella',
+        'location': 'Mar del Plata, Argentina',
+        'opened': 1978,
+        'capacity': 35354,
+        },
+
+
+
+    {
+        'name': 'Estadio Jose Amalfitani',
+        'address': '9200 Juan B. Justo Av.',
+        'location': 'Buenos Aires, Argentina',
+        'opened': datetime.datetime(1943, 4, 11),
+        'capacity': 49540,
+        },
+
+    {
+        'name': 'Estadio Mario Alberto Kempes',
+        'location': 'Cordoba, Argentina',
+        'opened': datetime.datetime(1978, 5, 16),
+        'capacity': 57000,
+        },
+
+
+
+    {
+        'name': 'Estádio Ilha do Retiro',
+        'location': 'Recife, Brazil',
+        'opened': 1937,
+        'capacity': 35020,
         },
 
     {

@@ -1,5 +1,6 @@
 Competition: CONCACAF Champions' Cup
 Season: 1970
+BlockSource: http://www.rsssf.com/tablesc/cacups70.html#cc
 
 Group: Northern Section
 
@@ -17,7 +18,7 @@ Group: Central Section
 
 
 
-* Group A
+Group: Group A
 
 4/26/1970; Atletico Marte; 5-0; Diriangen
 4/28/1970; Atletico Marte; 3-1; Diriangen
@@ -38,7 +39,7 @@ Umana 13, Marin 25, Marin 50, Chico (pk) 27, Aguilar 42, Aguilar 78, Heriberto 5
 * 2.Atletico Marte     4  2  1  1  10- 5  5  [El Salvador]
 * 3.Diriangen          4  0  0  4   1-19  0  [Nicaragua]
  
-* Group B
+Group: Group B
 
 5/17/1970; Olimpia; 3-2; Municipal
 5/24/1970; Olimpia; 0-0; Municipal
@@ -70,11 +71,15 @@ Round: Caribbean Final
 9/27/1970; Santos (Jamaica); 1-3; Transvaal
 Campbell; Pauli Corte, Jules Lagadeau, Roy Vanenburg
 
-* Cruz Azul declared winners after Deportivo Saprissa and Transvaal withdrew.
+Round: Final
+
+; Cruz Azul; np; Unknown
+Notes: Cruz Azul declared winners after Deportivo Saprissa and Transvaal withdrew.
 
 
 
 Season: 1971
+BlockSource: http://www.rsssf.com/tablesc/cacups71.html
 
 Group: Northern Section
 
@@ -82,8 +87,8 @@ Round: First Round
 
 10/3/1971; Elizabeth SC; 0-0; Cruz Azul
 
-* 10/13/1971; Elizabeth SC; L-W; Cruz Azul
-* Elizabeth S forfeited
+10/13/1971; Elizabeth SC; L-W; Cruz Azul
+Forfeit
 
 10/3/1971; Rochester Lancers; 4-1; Pembroke Hamilton Club; Rochester, NY
 Carlos Metidieri, Carlos Metidieri; 
@@ -93,7 +98,7 @@ Carlos Metidieri, Carlos Metidieri;
 10/31/1971; Rochester Lancers; 1-0; Pembroke Hamilton Club; Hamilton, Bermuda
 Manfred Seissler; 
 Minigame
-* Decided in extra time? other sources give the second leg as 1-1
+Notes: Decided in extra time? other sources give the second leg as 1-1
 
 
 * NB: some sources list an additional round in which Rochester Lancerssupposedly were to play Guadalajara but withdrew; if the two were
@@ -212,6 +217,7 @@ Fernando Bustos 16, Eladio Vera 25, Eladio Vera 60, Octavio Mucino 70, Octavio M
 
 
 Season: 1972
+BlockSource: http://www.rsssf.com/tablesc/cacups72.html
 
 Group: Northern/Central Section
 
@@ -251,6 +257,7 @@ Round: Final
 
 
 Season: 1973
+BlockSource: http://www.rsssf.com/tablesc/cacups73.html
 
 * Northern Section
 * Apparently no matches were played at all as no clubs entered
@@ -270,11 +277,11 @@ Torres 96;
 6/29/1973; Aguila; 0-1; Alajuelense
 ; Elizondo (pk) 55
 Minutes: 68
-*  2nd leg abandoned after 68' due to rain; result stood
+Notes: abandoned after 68' due to rain; result stood
 
 6/18/1973; Municipal; 0-0; Olimpia
 6/25/1973; Municipal; 1-0; Olimpia
-* Municipal withdrew after series
+Notes: Municipal withdrew after series
 
 
 Round: Round 2
@@ -284,7 +291,7 @@ Gonzalez (pk) 26, Piedra 29, Piedra 67, Saenz 61, Jimenez 69;
 
 9/10/1973; Alajuelense; 3-1; Santa Cecilia
 Obregon, Obregon, Jimenez; Barrios
-* presumably this tie was originally meant as intermediate round but after the withdrawal of Municipal only 4 teams were left
+Notes: presumably this tie was originally meant as intermediate round but after the withdrawal of Municipal only 4 teams were left
 
 10/7/1973; Comunicaciones; 1-0; Saprissa
 MacDonald 75;
@@ -340,10 +347,11 @@ Round: Final
 
 1/4/1974; Transvaal; 4-2; Devonshire Colts FC
 Wiene Schal, Wensley Bundel, Theo Klein, Humphrey Castillion;
-* apparently Devonshire Colts were reinstated; as meanwgile all clubs from the Northern and Central section had withdrawn, Transvaal (as winners of the Caribbean section) were declared winners 
+Notes: apparently Devonshire Colts were reinstated; as meanwhile all clubs from the Northern and Central section had withdrawn, Transvaal (as winners of the Caribbean section) were declared winners 
 
 
 Season: 1974
+BlockSource: http://www.rsssf.com/tablesc/cacups74.html
 
 Round: Northern Section
 
@@ -354,14 +362,14 @@ Group: Central Section
 Round: Round 1
 
 5/5/1974; Alianza; 5-0; Universidad Catolica
-* 2nd leg not played
+Notes: 2nd leg not played
 
 5/5/1974; Motagua; 1-0; Cartagines
 5/19/1974; Motagua; 2-0; Cartagines
 
 5/12/1974; Saprissa; 2-1; Aurora
 5/19/1974; Saprissa; 1-2; Aurora
-* Aurora win on draw
+Notes: Aurora win on draw
 
 5/19/1974; Marathon; 0-1; Municipal
 5/26/1974; Marathon; 0-3; Municipal
@@ -398,7 +406,7 @@ Round: Round 4
 
 9/29/1974; Alianza; 0-1; Municipal
 10/6/1974; Alianza; 0-2; Municipal
-* 2nd leg also reported 1-0 to Municipal
+Notes: also reported 1-0 to Municipal
 
 
 
@@ -427,6 +435,7 @@ Round: Final
 
 
 Season: 1975
+BlockSource: http://www.rsssf.com/tablesc/cacups75.html
 
 Group: Northern Section
 
@@ -438,7 +447,7 @@ Alfredo Jimenez 33, Jose Sanchez 90+;
 7/13/1975; Monterrey; 1-1; Toronto Serbian White Eagles
 Ruben Romeo Corbo 6; Mike Wareika 35
 Minutes: 67
-* 2nd leg abandoned at 1-1 in 67' due to fight; Sb. abbreviates Serbian
+Notes: abandoned at 1-1 in 67' due to fight
 
 Round: Round 2
 
@@ -461,7 +470,7 @@ Round: Round 1
 
 7/6/1975; Platense; 4-3; Aurora
 7/9/1975; Platense; 0-1; Aurora
-* unknown whether Aurora qualified on away goals, on a draw, or after a penalty shootout (likely given the shootouts in rounds 2 and 3)
+Notes: unknown whether Aurora qualified on away goals, on a draw, or after a penalty shootout (likely given the shootouts in rounds 2 and 3)
 
 * Herediano bye
 
@@ -525,6 +534,9 @@ Round: Final
 
 
 Season: 1976
+BlockSource: http://www.rsssf.com/tablesc/cacups76.html
+
+
 
 Group: Northern Section
 
@@ -623,6 +635,7 @@ Gonzalez 93, Ismael Diaz 112, Luis Baltazar Zapata 117; Nissar Nathoe 56, Remie 
 
 
 Season: 1977
+BlockSource: http://www.rsssf.com/tablesc/cacups77.html
 
 Group: Northern Section 
 
@@ -712,6 +725,7 @@ Errol Emanuelson 36; Hugo Enrique Kiesse 70
 
 
 Season: 1978
+BlockSource: http://www.rsssf.com/tablesc/cacups78.html
 
 Group: Northern Section 
 
@@ -795,6 +809,7 @@ Round: Round 3
 
 
 Season: 1979
+BlockSource: http://www.rsssf.com/tablesc/cacups79.html
 
 Group: Northern Section
 

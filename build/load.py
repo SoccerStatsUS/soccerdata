@@ -36,7 +36,6 @@ def load_games_standard(coll, fn, games_only=False):
     games, goals, fouls, lineups, rosters = games.process_games_file(fn)
 
 
-
     generic_load(soccer_db['%s_games' % coll], lambda: games, delete=False)
 
     if games_only:
@@ -82,21 +81,35 @@ def load_drafts():
 
 
 def load_games():
-    load_australia()    
-
-    load_early_cups()
-    load_modern_cups()
-
-
-    load_fifa()
-
-    load_asl()
-
-
-
     load_mls()
 
     load_nasl()
+    load_asl()
+    load_asl2()
+
+
+    load_early_cups()
+
+    load_mexico()
+    load_usmnt()
+
+    load_fifa()
+
+    load_australia()    
+
+
+    load_modern_cups()
+
+
+
+
+
+
+
+
+
+
+
 
     load_usl()
     load_apsl()
@@ -110,9 +123,9 @@ def load_games():
     load_esl()    
     load_early_friendlies()
     load_copa_america()
-    load_usmnt()
 
-    #load_mexico()
+
+    
     #load_guatemala()
     load_ncaa()
     load_nafbl()
@@ -122,7 +135,7 @@ def load_games():
     load_misl()
     load_city()
     load_ny()
-    load_asl2()
+
     load_concacaf()
     load_melvin()
 
@@ -131,15 +144,14 @@ def load_excel_standings(coll, fn):
     """
     Load standard excel-formatted standings.
     """
-
     generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_excel_standings(fn))
 
 
-def load_new_standings(coll, fn):
+def load_new_standings(coll, fn, delimiter=';'):
     """
     Load semicolon-style standings
     """
-    generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_file(fn))
+    generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_standings_file(fn, delimiter))
 
 
 def generate_cities():
@@ -577,7 +589,9 @@ def load_asl():
 
 
     print "Loading ASL games.\n"
-    generic_load(soccer_db.asl_games, asl.process_games)
+    generic_load(soccer_db.asl_games, asl.process_asl_games)
+    generic_load(soccer_db.asl_goals, asl.process_asl_goals)
+
 
     print "Loading ASL stats.\n"
     generic_load(soccer_db.asl_stats, asl.process_stats)
@@ -615,6 +629,9 @@ def load_nasl():
     print "Loading USA and NPSL data"
     load_excel_standings('nasl', 'domestic/country/usa/nasl0')
     generic_load(soccer_db.nasl_games, nasl.process_npsl_games)
+    generic_load(soccer_db.nasl_goals, nasl.process_npsl_goals)
+
+
     load_games_standard('nasl', 'domestic/country/usa/leagues/usa')
     generic_load(soccer_db.nasl_awards, awards.process_usa_awards)
     generic_load(soccer_db.nasl_awards, awards.process_npsl_awards)
@@ -628,6 +645,8 @@ def load_nasl():
     print "Loading NASL games.\n"
     # Need to work some integrity issues on games.
     generic_load(soccer_db.nasl_games, nasl.process_nasl_games)
+    generic_load(soccer_db.nasl_goals, nasl.process_nasl_goals)
+    generic_load(soccer_db.nasl_lineups, nasl.process_nasl_lineups)
 
     load_excel_standings('nasl', 'domestic/country/usa/nasl')
 
@@ -786,6 +805,14 @@ def load_australia():
     generic_load(soccer_db.australia_awards, awards.process_australia_awards)
 
 def load_mexico():
+    load_new_standings('mexico', 'domestic/country/mexico/1', ';')
+    load_new_standings('mexico', 'domestic/country/mexico/short', ';')
+    load_games_standard('mexico', 'domestic/country/mexico/leagues/1943')
+    load_games_standard('mexico', 'domestic/country/mexico/leagues/mexico86')
+    load_games_standard('mexico', 'domestic/country/mexico/leagues/1981')
+
+    generic_load(soccer_db.mexico_awards, awards.process_mexico_awards)
+    load_new_standings('mexico', 'domestic/country/mexico/primera_fuerza')
     load_games_standard('mexico', 'international/country/mexico/alltime')
     # These are all formatted, just need to be quality-checked.
     return
@@ -800,7 +827,7 @@ def load_mexico():
 
     return
 
-    load_new_standings('mexico', 'domestic/country/mexico/1')
+
 
     #load_games_standard('mexico', 'domestic/country/mexico/super')
     #load_games_standard('mexico', 'domestic/country/mexico/playoffs')
@@ -837,20 +864,22 @@ def load_ncaa():
 
 def load_fifa():
     from soccerdata.scrapers import fifa
+    load_games_standard('fifa', 'international/world/world_cup')
+
+    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
+    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
+    generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
+
     load_fifa_competition('FIFA U-17 World Cup')
 
     load_fifa_competition('Olympic Games')
 
-    load_games_standard('fifa', 'international/world/world_cup')
+
 
     load_fifa_competition('FIFA Club World Cup')
     load_fifa_competition('FIFA Confederations Cup')
     load_fifa_competition('FIFA U-20 World Cup')
 
-
-    generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
-    generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
-    generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
 
     generic_load(soccer_db.fifa_awards, awards.process_world_cup_awards)
 

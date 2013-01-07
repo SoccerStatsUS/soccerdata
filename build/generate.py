@@ -65,6 +65,11 @@ def generate_competition_stats():
     competition_generate('CONCACAF Champions\' Cup')
     competition_generate('North American SuperLiga')
 
+    competition_generate('American League of Professional Football')
+    competition_generate('Liga MX')
+
+    #competition_generate('North American Soccer League')
+
     
 
                         
@@ -133,10 +138,14 @@ def generate_all_standings():
     sg2('International Soccer League')
     sg2('Eastern Soccer League (1928-1929)')
     sg2('Major League Soccer')
+    sg2('North American Soccer League')
+    sg2('American Soccer League (1921-1933)')
     sg2('MLS Reserve League')
     sg2('MLS Cup Playoffs')
     sg2('U.S. Open Cup')
     sg2('Hyundai A-League')
+    sg2('Canadian Championship')
+    sg2('Liga MX')
 
     """
     sg('lewis_cup')

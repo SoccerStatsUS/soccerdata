@@ -32,6 +32,7 @@ d = {
 
 
     'MVP': [
+        (2012, 'Chris Wondolowski'),
         (2011, 'Dwayne De Rosario'),
         (2010, 'David Ferreira'),
         (2009, 'Landon Donovan'),

@@ -37,7 +37,12 @@ def generic_load(coll, func, delete=False):
     """
     if delete:
         coll.drop()
-    insert_rows(coll, func())
+
+    # Allow for non-callable inserts as well.
+    if '__call__' in dir(func):
+        insert_rows(coll, func())
+    else:
+        insert_rows(coll, func)
 
 
 
