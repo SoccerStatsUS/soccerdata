@@ -97,6 +97,11 @@ def process_australia_awards():
     return process_awards(d)
 
 
+def process_china_awards():
+    from soccerdata.data.lists.awards.china import d
+    return process_awards(d)
+
+
 
 def process_olympics_awards():
     from soccerdata.data.lists.olympics import d

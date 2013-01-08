@@ -1705,7 +1705,7 @@ usa = {
     'Erie A.A': 'Harrison Erie F.C.',
 
     # Illinois
-    'Simmons SC': 'Simmons FC'
+    'Simmons SC': 'Simmons FC',
     'Pullman Professional FC': 'Pullman FC',
     'Pullman Association FC': 'Pullman FC',
 

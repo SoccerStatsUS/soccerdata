@@ -380,10 +380,6 @@ class GeneralProcessor(object):
         if len(fields) < 2:
             import pdb; pdb.set_trace()
             
-        if fields[2] == ' L-4':
-            pass
-            # import pdb; pdb.set_trace()
-
         result_unknown = False
 
         if self.score_type in ('standard', 'colon-delimited'):

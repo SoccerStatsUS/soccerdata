@@ -1186,7 +1186,7 @@ Date: 5/21/2006
 Zou Jie 18; Du Wei 8, Ramirez 82
 
 ; Liaoning      ; 0-5;    Shandong Luneng
-Li Jinyu 18, Li Jinyu 44, Li Jinyu 49, Li Jinyu 52, Gao Yao 55
+; Li Jinyu 18, Li Jinyu 44, Li Jinyu 49, Li Jinyu 52, Gao Yao 55
 
 ; Qingdao Zhongneng  ; 3-2;     Tianjin Teda
 Bai Yi 38, Liu Jian 48, Shi Hanjun 90; Cao Yang 5, Cao Yang 56
@@ -1274,8 +1274,7 @@ Du Zhenyu 28, Scott 51, Marian 89; Delibasic 76
 ; Liaoning        ; 2-1;   Dalian Shide
 Guo Hui 28, Zhao Junzhe (pk) 60; Zhu Ting 24
 
->>>>>>> 8da24d96d478233998f941ed16dfc7d1a6d18fa0
-Shenzhen Kingway    2-2    Xi'an Chanba
+; Shenzhen Kingway;    2-2;    Xi'an Chanba
 Xin Feng 19, Lu Bofei (pk) 88; Bulat 48, Vicente 71
 
 *[Jul 13]
@@ -1546,7 +1545,7 @@ Date: 9/23/2006
 Wang Peng 26, Huang Yong 68; Chen Xing 15
 
 ; Shandong Luneng ; 4-0;   Chongqing Lifan
-Han Peng 3, Li Jinyu 32, Zheng Zhi 55, Zheng Zhi 90
+Han Peng 3, Li Jinyu 32, Zheng Zhi 55, Zheng Zhi 90;
 
 ; Shenyang Ginde         ; 0-0;       Xiamen Lanshi
 ; Wuhan Guanggu                    ; 2-1;    Qingdao Zhongneng
@@ -1591,7 +1590,7 @@ Jiang Ning 16, Qu Bo 76; Tayousong 82
 Guo Hui 49; Du Wenhui 24, Wang Changqing 83
 
 ; Chongqing Lifan  ; 2-5;    Shanghai Shenhua   
-Deneirang 4, Huo Zhiyu 85; Ma Jianqing 1, 82, Xie Hui 35, Li Weifeng 63, Gao Lin 85
+Deneirang 4, Huo Zhiyu 85; Ma Jianqing 1, Ma Jiangqing 82, Xie Hui 35, Li Weifeng 63, Gao Lin 85
 
 *Shenzhen Kingway  bye
 
@@ -1628,7 +1627,7 @@ Date: 10/22/2006
 Du Zhenyu 4, Wang Dong 19, Cao Tianbao 67; Zheng Zhi 16, Li Jinyu 83
 
 ; Dalian Shide           ; 6-0;     Chongqing Lifan
-Zou Jie 26, Zou Jie 86, Jankovic 40, Zhu Ting 64, Pantelic 73, Zhang Yalin 81
+Zou Jie 26, Zou Jie 86, Jankovic 40, Zhu Ting 64, Pantelic 73, Zhang Yalin 81;
 
 ; Liaoning               ; 1-2;     Shanghai Shenhua  
 Xu Liang 73; Cheng Liang 7, Ramirez 47
@@ -2042,7 +2041,7 @@ Yang Zheng 9; Li Jinyu 67, Li Jinyu 85, Han Peng 82
 Zou Yougen (pk) 59, Yang Chen 62; Qu Bo 25, Liu Zhiyong 46]
 
 ; Henan Jianye              ; 1-1; Shaanxi Baorong 
-Gomez 52: Ronny 57
+Gomez 52; Ronny 57
 
 ; Shenzhen Shangqingyin     ; 0-0; Changsha Ginde
 
@@ -2061,7 +2060,7 @@ Blanc 37, Blanc 68, Ricard 83; Own Goal (Du Wei) 33, Wu Weian 52
 *[Aug 7]
 
 8/7/2007; Changchun Yatai           ; 4-0; Shenzhen Shangqingyin
-Wang Dong 9, Du Zhenyu 19, Du Zhenyu 75, Wang Rui 71]
+Wang Dong 9, Du Zhenyu 19, Du Zhenyu 75, Wang Rui 71;
 
 *[Aug 8]
 Date: 8/8/2007
@@ -2203,7 +2202,7 @@ Date: 9/1/2007
 
 ; Shanghai Shenhua          ; 4-1; Shenzhen Shangqingyin
 Li Weifeng 51, Li Weifeng 75, Ricard 52, Alonso 58; Kamate 21
-Shaanxi Baorong            4-1 Liaoning FC
+; Shaanxi Baorong; 4-1; Liaoning FC
 Wan Houliang 19, Wan Houliang 68, Wan Houliang 90, Li Yan 45; Yang Yu 35
 
 ; Beijing Guoan             ; 4-1; Xiamen Lanshi
@@ -2226,8 +2225,8 @@ Li Hui 28, Li Jinyu 82;
 ; Changsha Ginde            ; 0-0; Changchun Yatai
 
 ; Shenzhen Shangqingyin     ; 2-0; Henan Jianye
-Own Goal (Wu Hao) 47, Ma Xiaolei 82
-Qingdao Zhongneng          1-1 Shaanxi Baorong 
+Own Goal (Wu Hao) 47, Ma Xiaolei 82;
+; Qingdao Zhongneng;          1-1; Shaanxi Baorong 
 Yao Jiangshan 85; Oliviera 43
 
 ; Xiamen Lanshi             ; 0-1; Shanghai Shenhua
@@ -2255,7 +2254,7 @@ Tiago 90;
 ; Changchun Yatai           ; 0-0; Shandong Luneng
 
 ; Henan Jianye              ; 2-0; Xiamen Lanshi
-Fauconnier (pk) 19, Fauconnier 42
+Fauconnier (pk) 19, Fauconnier 42;
 
 ; Shanghai Shenhua          ; 1-0; Dalian Shide
 Xie Hui 90;
@@ -2393,7 +2392,7 @@ Yang Shanping 64; Li Fei 47
 Mao Jianqing 46, Ricard 78; Du Zhenyu 40, Dah Zadi 47
 
 ; Qingdao Zhongneng         ; 1-0; Wuhan Guanggu
-Liu Jian (pk) 79
+Liu Jian (pk) 79;
 
 ; Changsha Ginde            ; 2-1; Henan Jianye
 Liu Jianye 14, Liu Jianye 50; Lu Zheng 13
@@ -3012,7 +3011,7 @@ Zajac 16; Cao Yang 90
 
 ; Beijing Guoan           ; 1-1; Wuhan Guanggu             
 * [awarded 3-0]   
-Martinez 42, Lu Bofei 86
+Martinez 42; Lu Bofei 86
 
 ; Shanghai Shenhua        ; 4-1; Qingdao Jonoon     
 Martinez 22, Gao Lin 51, Ricard 84, Ricard 88; Zheng Long 45
@@ -3077,7 +3076,7 @@ Date: 10/11/2008
 * Wuhan Guanggu            n/p Dalian Haichang           [awarded 0-3]
 
 ; Changchun Yatai         ; 6-0; Guangzhou Pharmaceutical 
-Wang Dong 6, Wang Dong 66, Dah Zadi 25, Liu Weidong 30, Caballero (pk) 81, Chen Lei 90
+Wang Dong 6, Wang Dong 66, Dah Zadi 25, Liu Weidong 30, Caballero (pk) 81, Chen Lei 90;
 
 ; Changsha Ginde          ; 1-5; Qingdao Jonoon
 Wang Qiang 69; Zheng Long 17, Brown 20, Brown 71, Jiang Ning 49, Liu Jian 57
@@ -3412,7 +3411,7 @@ Date: 4/12/2009
 Wang Kai 90; Netto 52, Jiang Kun 62
 
 ; Chengdu Blades          ; 0-2; Beijing Guoan    
-Du Wenhui 15, Joel Griffiths 51
+; Du Wenhui 15, Joel Griffiths 51
 
 ; Shandong Luneng         ; 3-2; Changchun Yatai  
 Li Jinyu 27, Zivkovic (pk) 58, Own Goal (Zhang Xiaofei) 74; Caballero 47, Cao Tianbao 54
@@ -3499,7 +3498,7 @@ Cao Tianbao 40, Cao Tianbao 48, Ai Zhibo 86; Huang Fengtao 6
 Qu Bo 9, Qu BO 83; Avila 33
 
 ; Guangzhou Pharmaceutical; 1-0; Jiangsu Sainty  
-Xu Liang (pk) 84
+Xu Liang (pk) 84; 
 
 ; Henan Jianye            ; 1-1; Chengdu Blades  
 Xu Yang 26; Shi Jun 6
@@ -3815,7 +3814,7 @@ Rodrigues 12, Santalab (pk) 75; Caballero 71
 ; Hangzhou Lucheng        ; 0-0; Henan Jianye             
 
 ; Chongqing Lifan         ; 0-6; Tianjin Teda
-Mao Biao 6, Mao Biao 38, Wu Weian 10, Tadjiyev 20, Cao Yang (pk) 27, Han Yanming 89
+; Mao Biao 6, Mao Biao 38, Wu Weian 10, Tadjiyev 20, Cao Yang (pk) 27, Han Yanming 89
 
 ; Shandong Luneng         ; 1-0; Shanghai Shenhua
 Wang Yongpo 10;
@@ -3838,14 +3837,14 @@ Cao Yang (pk) 90+4; Wen Huyi 49
 Yan Feng 8, Yan Feng 90, Liu Weidong 28; Wang Yongpo 30, Sandro 90+1
 
 ; Shanghai Shenhua        ; 0-2; Shaanxi Zhongxin   
-  [Wang Erzhuo 63, Joseph 68]
+; Wang Erzhuo 63, Joseph 68
 
 ; Beijing Guoan           ; 2-2; Chengdu Blades   
 Ryan Griffiths 70, Joel Griffiths 88; Agnaldo 14, Santalab 34
 
 *[Aug 27]
 8/27/2009; Henan Jianye            ; 2-0; Chongqing Lifan   
-Olisadebe 12, Olisadebe 32
+Olisadebe 12, Olisadebe 32; 
 
 * Round 20 [Aug 30]
 Date: 8/30/2009
@@ -4015,7 +4014,7 @@ Otto 5, Otto 66; Santalab (pk) 18, Santalab 48
 Date: 9/27/2009
 
 ; Chongqing Lifan         ; 2-0; Jiangsu Sainty       
-Lambert (pk) 85, Lambert 87
+Lambert (pk) 85, Lambert 87; 
 
 ; Tianjin Teda            ; 1-0; Changchun Yatai     
 Mao Biao 14; 
@@ -4132,7 +4131,7 @@ Otto (pk) 89; Steer 47, Steer 54, Steer 65
 Xiao Zhi 9, Xiao Zhi 80; He Yang 75
 
 ; Chengdu Blades          ; 0-3; Shenzhen        
-Huang Fengtao 3, Barcos 16, Barcos 39
+; Huang Fengtao 3, Barcos 16, Barcos 39
 
 ; Guangzhou Pharmaceutical; 0-0; Qingdao Jonoon         
 
@@ -4149,7 +4148,7 @@ Valkanov 54, Dong Xuesheng 83; Jefferson Feijao 78
 Qu Bo 4, Jiang Ning 41, Jiang Ning 47; Wang Xuanhong 9
 
 ; Beijing Guoan           ; 4-0; Hangzhou Lucheng   
-Martinez 3, Martinez 49, Martinez 79, Zhou Ting (pk) 78
+Martinez 3, Martinez 49, Martinez 79, Zhou Ting (pk) 78; 
 
 ; Tianjin Teda            ; 2-1; Guangzhou Pharmaceutical    
 Han Yanming 27, Cao Yang (pk) 81; Ramirez (pk) 58
@@ -4271,7 +4270,8 @@ Date: 5/1/2010
 ; Liaoning Whowin         ; 0-1; Changsha Ginde           
 ; Sandro 78
 ; Chongqing Lifan         ; 0-1; Hangzhou Greentown       
- Ramirez 42
+;  Ramirez 42
+
 Date: 5/2/2010
 ; Dalian Shide            ; 0-2; Shanghai Shenhua         
 ; N’Lend 48, Riascos 73
@@ -4669,7 +4669,7 @@ Date: 10/17/2010
 ; Shenzhen Ruby           ; 0-1; Hangzhou Greentown      
 ; Martinez 4
 ; Shaanxi Chanba          ; 5-0; Changsha Ginde         
-Kallon (pk) 11, Wang Yun 62, Wang Yun 70, Mao Jianqing 87, Salley 90+1
+Kallon (pk) 11, Wang Yun 62, Wang Yun 70, Mao Jianqing 87, Salley 90+1; 
 ; Henan Jianye            ; 1-1; Shandong Luneng        
 Moneke 12; Antar 90+2
 ; Beijing Guoan           ; 1-1; Tianjin Teda           
@@ -4745,7 +4745,7 @@ Mao Jianqing 40, Wang Yun 71; Duarte 41, Duarte 89
 ; Shandong Luneng         ; 5-2; Shanghai Shenhua
 Carlos Santos 21, Zhou Haibin 39, Han Peng 53, Han Peng 62, Li Wei 90+2; Riascos (pk) 45, Yu Tao 57
 ; Shenzhen Ruby           ; 4-4; Liaoning Whowin
-Zivkovic 3, Zivkovic (pk) 82, Killen 24, Killen 71; Yang Xu 27, 45+1, Yu Hanchao 43, Own Goal (Yuan Lin) 57
+Zivkovic 3, Zivkovic (pk) 82, Killen 24, Killen 71; Yang Xu 27, Yang Xu 45+1, Yu Hanchao 43, Own Goal (Yuan Lin) 57
 
 
 Season: 2012
@@ -4824,7 +4824,7 @@ Date: 4/13/2012
 ;Guangzhou Evergrande    ; 3-1 ; Hangzhou Greentown       
 ;Shanghai Shenhua        ; 0-1 ; Tianjin Teda             
 
-4/14/2012; 
+Date: 4/14/2012
 ;Changchun Yatai         ; 0-0 ; Guizhou Renhe            
 ;Dalian Aerbin           ; 1-0 ; Henan Construction       
 
