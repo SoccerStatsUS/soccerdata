@@ -1,6 +1,69 @@
 # http://en.wikipedia.org/wiki/Bola_de_Ouro
 
 
+brasileirao = {
+    'competition': 'Brasileirão',
+    'Champion': [
+        # Split out tournaments correctly.
+        (1959, 'Bahia'),
+        (1960, 'Palmeiras'),
+        (1961, 'Santos'),
+        (1962, 'Santos'),
+        (1963, 'Santos'),
+        (1964, 'Santos'),
+        (1965, 'Santos'),
+        (1966, 'Cruzeiro'),
+        (1967, 'Palmeiras'),
+        (1968, 'Botafogo'),
+        #(1969, '
+        #(1970,
+        (1971, 'Atletico Mineiro'),
+        (1972, 'Palmeiras'),
+        (1973, 'Palmeiras'),
+        (1974, 'Vasco da Gama'),
+        (1975, 'Internacional'),
+        (1976, 'Internacional'),
+        (1977, 'Sao Paulo'),
+        (1978, 'Guarani'),
+        (1979, 'Internacional'),
+        (1980, 'Flamengo'),
+        (1981, 'Gremio'),
+        (1982, 'Flamengo'),
+        (1983, 'Flamengo'),
+        (1984, 'Fluminense'),
+        (1985, 'Coritiba'),
+        (1986, 'Sao Paulo'),
+        (1987, 'Sport'),
+        (1988, 'Bahia'),
+        (1989, 'Vasco da Gama'),
+        (1990, 'Corinthians'), 
+        (1991, 'Sao Paulo'),
+        (1992, 'Flamengo'),
+        (1993, 'Palmeiras'),
+        (1994, 'Palmeiras'),
+        (1995, 'Botafogo'),
+        (1996, 'Gremio'),
+        (1997, 'Vasco da Gama'),
+        (1998, 'Corinthians'),
+        (1999, 'Corinthians'),
+        (2000, 'Vasco da Gama'),
+        (2001, 'Atletico Paranaense'),
+        (2002, 'Santos'),
+        (2003, 'Cruzeiro'),
+        (2004, 'Santos'),
+        (2005, 'Corinthians'),
+        (2006, 'Sao Paulo'),
+        (2007, 'Sao Paulo'),
+        (2008, 'Sao Paulo'),
+        (2009, 'Flamengo'),
+        (2010, 'Fluminense'),
+        (2011, 'Corinthians'),
+        (2012, 'Fluminense'),
+
+
+        ],
+
+
 campeonato_mineiro = {
     'competition': 'Campeonato Mineiro',
 

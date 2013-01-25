@@ -7,6 +7,8 @@ d = {
     'team_data': ['Champion'],
 
     'Hermann Trophy': [
+        (2012, 'Patrick Mullins'),
+        (2011, 'Andrew Wenger'),
         (2010, 'Darlington Nagbe'),
         (2009, 'Teal Bunbury'),
         (2008, 'Marcus Tracy'),
@@ -54,6 +56,7 @@ d = {
         ],
 
     'Soccer America Player of the Year': [
+        (2011, 'Ben Speas'),
         (2010, 'Kofi Sarkodie'),
         (2009, 'Teal Bunbury'),
         (2008, 'Steve Zakuani'),
@@ -148,9 +151,6 @@ d = {
         ],
         
 
-
-        
-
     'Champion': [
         (1959, 'St. Louis University'),
         (1960, 'St. Louis University'),
@@ -207,10 +207,42 @@ d = {
         (2008, 'University of Maryland'),
         (2009, 'University of Virginia'),
         (2010, 'University of Akron'),
+        (2011, 'University of North Carolina'),
+        (2012, 'Indiana University'),
         ],
 
 
     'NCAA All-American First Team': [
+
+        (2012, [
+                'Andre Blake',
+                'Chad Barson',
+                'Andrew Farrell',
+                'Andrew Ribeiro',
+                'Scott Caldwell',
+                'Jose Gomez',
+                'Dillon Powers',
+                'Ashton Bennett',
+                'Ryan Finley',
+                'Daniel Haber',
+                'Patrick Mullins',
+                ]),
+
+        (2011, [
+                'Brian Holt',
+                'Chris Estridge',
+                'Matt Hedges',
+                'Charles Rodriguez',
+                'Miguell Ibarra',
+                'Enzo Martinez',
+                'Luis Silva',
+                'Ashton Bennett',
+                'Ethan Finlay',
+                'Billy Schuler',
+                'Andrew Wenger',
+                ]),
+                
+
         (2010, [
                 'Zac MacMath',
                 'Kofi Sarkodie',
@@ -1193,7 +1225,7 @@ d = {
                 'Walter Weld',
                 ]),
 
-        ('Spring 1914', [
+        ('1914 Spring', [
                 'Arthur Jackson',
                 'Thomas Elkinton',
                 'Henry Francke',

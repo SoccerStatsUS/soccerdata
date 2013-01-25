@@ -52,8 +52,10 @@ SOURCES = [
     #'world_cup',
     'usa',
 
+    'uncaf',
     'copa_america',
     'concacaf',
+    'concacaf_i',
     'mexico',
     'canada',
     'guatemala',

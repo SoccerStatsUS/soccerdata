@@ -11,7 +11,7 @@ imported into socceroutsider.com for better relationships, etc.
 from load import first_load, second_load
 from generate import generate, generate2
 from check import check
-from merge import first_merge
+from merge import merge
 from normalize import normalize
 from denormalize import denormalize
 from transform import transform
@@ -73,7 +73,7 @@ def build():
     # Merge everything together.
 
     print "Merging"
-    first_merge()
+    merge()
 
     print "Generating from merged data."
     generate2()

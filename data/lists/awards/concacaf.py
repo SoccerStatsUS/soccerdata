@@ -79,6 +79,15 @@ superliga = {
         ]
 }
 
+giants_cup = {
+    'competition': 'CONCACAF Giants Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (2001, 'Club America'),
+        ]
+}
+
 
 
 gold_cup = {
@@ -99,7 +108,7 @@ gold_cup = {
         (2011, 'Mexico'),
         ],
 
-    'Champion': [
+    'MVP': [
         (1991, 'Tony Meola'),
         (1993, 'Ramon Ramirez'),
         (1998, 'Kasey Keller'),
@@ -116,3 +125,69 @@ gold_cup = {
 }
 
 
+cacg = {
+    'competition': 'Central American and Caribbean Games',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1930, 'Cuba'),
+        (1935, 'Mexico'),
+        (1938, 'Mexico'),
+        (1946, 'Colombia'),
+        (1950, 'Netherlands Antilles'),
+        (1954, 'El Salvador'),
+        (1959, 'Mexico'),
+        (1962, 'Netherlands Antilles'),
+        (1966, 'Mexico'),
+        (1970, 'Cuba'),
+        (1974, 'Cuba'),
+        (1978, 'Cuba'),
+        (1982, 'Venezuela'),
+        (1986, 'Cuba'),
+        (1990, 'Mexico'),
+        (1993, 'Costa Rica'),
+        (1998, 'Venezuela'),
+        (2002, 'El Salvador'),
+        (2006, 'Colombia'),
+        ],
+        
+}
+
+
+cccf = {
+    'competition': 'CCCF Championship',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1941, 'Costa Rica'),
+        (1943, 'El Salvador'),
+        (1946, 'Costa Rica'),
+        (1948, 'Costa Rica'),
+        (1951, 'Panama'),
+        (1953, 'Costa Rica'),
+        (1955, 'Costa Rica'),
+        (1957, 'Haiti'),
+        (1960, 'Costa Rica'),
+        (1961, 'Costa Rica'),
+        ]
+    }
+
+
+
+championship = {    
+    'competition': 'CONCACAF Championship',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1963, 'Costa Rica'),
+        (1965, 'Mexico'),
+        (1967, 'Guatemala'),
+        (1969, 'Costa Rica'),
+        (1971, 'Mexico'),
+        (1973, 'Haiti'),
+        (1977, 'Mexico'),
+        (1981, 'Honduras'),
+        (1985, 'Canada'),
+        (1989, 'Costa Rica'),
+        ]
+}

@@ -36,6 +36,8 @@ world_player_of_the_year = [
     (2008, ('Cristiano Ronaldo', 'Lionel Messi', 'Fernando Torres')),
     (2009, ('Lionel Messi', 'Cristiano Ronaldo', 'Xavi')),
     (2010, ('Lionel Messi', 'Andrés Iniesta', 'Xavi')),
+    (2011, ('Lionel Messi', 'Cristiano Ronaldo', 'Xavi')),
+    (2012, ('Lionel Messi', 'Cristiano Ronaldo', 'Andres Iniesta')),
 ]
 
 # This is a list of the 125 greatest living players as chosen by

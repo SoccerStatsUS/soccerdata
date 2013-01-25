@@ -49,37 +49,36 @@ def generate_competition_stats():
     competition_generate('FIFA World Cup')
     competition_generate('FIFA Club World Cup')
     competition_generate('FIFA Confederations Cup')
-
-
+    competition_generate('World Cup Qualifying')
     competition_generate('Olympic Games')
+
+    competition_generate('Friendly International')
+
+    competition_generate('Gold Cup')    
+    competition_generate('Copa Centroamericana')
     competition_generate('Copa America')
-    competition_generate('MLS Cup Playoffs')
-    competition_generate('MLS Reserve League')
-    competition_generate('Eastern Soccer League (1928-1929)')
-    competition_generate('AFA Cup')
-    competition_generate('U.S. Open Cup')
-    competition_generate('International Soccer League')
-    competition_generate('Canadian Championship')
 
     competition_generate('CONCACAF Champions League')
     competition_generate('CONCACAF Champions\' Cup')
     competition_generate('North American SuperLiga')
 
+
+    competition_generate('MLS Cup Playoffs')
+    competition_generate('MLS Reserve League')
+
+    competition_generate('AFA Cup')
+    competition_generate('U.S. Open Cup')
+
     competition_generate('American League of Professional Football')
+    competition_generate('Eastern Soccer League (1928-1929)')
+    competition_generate('International Soccer League')
+    competition_generate('USSF Division 2 Professional League')
+
+    competition_generate('Canadian Championship')
     competition_generate('Liga MX')
-
-
-
-
-    competition_generate('Friendly International')
-    competition_generate('World Cup Qualifying')
-    competition_generate('Gold Cup')
-
-
+    competition_generate('Chinese Super League')
 
     #competition_generate('North American Soccer League')
-
-    
 
                         
 

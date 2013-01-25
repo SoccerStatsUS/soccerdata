@@ -27,7 +27,7 @@ def timer(method):
 # Merge should be used for avoiding duplicate elements.
 
 @timer
-def first_merge():
+def merge():
     merge_standings()
     merge_awards()
     merge_all_stats()

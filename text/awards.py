@@ -68,6 +68,11 @@ def process_nasl_awards():
     from soccerdata.data.lists.awards.nasl import d
     return process_awards(d)
 
+def process_uncaf_awards():
+    from soccerdata.data.lists.awards.uncaf import d
+    return process_awards(d)
+
+
 def process_mexico_awards():
     from soccerdata.data.lists.awards.mexico import d, primera_fuerza
     return process_awards(d) + process_awards(primera_fuerza)
@@ -88,8 +93,13 @@ def process_ny_awards():
 
 
 def process_concacaf_awards():
-    from soccerdata.data.lists.awards.concacaf import champions_cup, champions_league, superliga
-    return process_awards(champions_cup) + process_awards(champions_league) + process_awards(superliga)
+    from soccerdata.data.lists.awards.concacaf import champions_cup, champions_league, superliga, giants_cup
+    return process_awards(champions_cup) + process_awards(champions_league) + process_awards(superliga) + process_awards(giants_cup)
+
+def process_concacaf_international_awards():
+    from soccerdata.data.lists.awards.concacaf import gold_cup, cccf, championship
+    return process_awards(gold_cup) + process_awards(cccf) + process_awards(championship)
+
 
 
 def process_australia_awards():

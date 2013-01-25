@@ -38,6 +38,8 @@ class GeneralProcessor(object):
     def __init__(self):
         self.competition = None
         self.season = None
+        self.round = ''
+        self.group = ''
         self.sources = []
 
         self.current_game = None
@@ -121,11 +123,20 @@ class GeneralProcessor(object):
         # Set the competition.
         if line.startswith("Competition:"):
             self.competition = line.split("Competition:")[1].strip()
+            self.round = ''
             return
 
+        if line.startswith("Season:"):
+            self.season = line.split("Season:")[1].strip()
+            self.round = ''
+            return
 
         # Set the round.
-        if line.startswith("Round"):
+        if line.startswith("Round:"):
+            self.round = line.split('Round:')[1].strip()
+            if self.round.lower() == 'none':
+                self.round = None
+                
             return
 
         # Set the round.
@@ -171,10 +182,6 @@ class GeneralProcessor(object):
             self.score_type = line.split("Score type:")[1].strip()
             return
 
-
-        if line.startswith("Season:"):
-            self.season = line.split("Season:")[1].strip()
-            return
 
 
         if line.startswith("Red Card:"):
@@ -495,6 +502,8 @@ class GeneralProcessor(object):
         g = {
             'competition': self.competition,
             'season': self.season,
+            'round': self.round,
+
             'date': d,
 
             'team1': team1.strip(),
@@ -517,6 +526,7 @@ class GeneralProcessor(object):
             'minigame': False,
             'forfeit': False,
             'sources': self.sources[:],
+
             }
 
         self.current_game = g

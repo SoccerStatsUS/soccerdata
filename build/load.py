@@ -81,45 +81,36 @@ def load_drafts():
 
 
 def load_games():
-    load_china()
-    return
-
-    load_mls()
-
-    return
+    load_concacaf_international()
+    load_uncaf()
     load_usmnt()
 
-
-    load_nasl()
     load_asl()
-    load_asl2()
-
-
     load_early_cups()
-
-    load_mexico()
-
+    load_early_friendlies()
 
     load_fifa()
+    load_olympics()
+    load_copa_america()
+    load_mexico()
+
+    load_mls()
+    load_nasl()
+    load_china()
+    load_canada()
+
+    load_asl2()
 
     load_australia()    
-
 
     load_modern_cups()
 
     load_usl()
     load_apsl()
 
-    load_olympics()
-
-
     load_isl()
-    load_canada()
 
     load_esl()    
-    load_early_friendlies()
-    load_copa_america()
-
 
     
     #load_guatemala()
@@ -330,6 +321,9 @@ def load_isl():
     generic_load(soccer_db.isl_awards, awards.process_isl_awards)
 
 
+def load_uncaf():
+    load_games_standard('uncaf', 'international/confederation/concacaf/uncaf')
+    generic_load(soccer_db.uncaf_awards, awards.process_uncaf_awards)
 
 
 def load_usmnt():
@@ -343,7 +337,7 @@ def load_usmnt():
     load_games_standard('usa', 'international/country/usa/gold')
     #load_games_standard('usa', 'international/country/usa/world_cup')
 
-    load_games_standard('usa', 'international/misc/us_cup')
+    load_games_standard('usa', 'international/country/usa/us_cup')
 
     generic_load(soccer_db.usa_awards, halloffame.load_hall_of_fame)
 
@@ -374,7 +368,7 @@ def load_canada():
     load_games_standard('canada', 'domestic/country/canada/cups/championship')
     #load_games_standard('canada', 'domestic/country/canada/cups/early')
     load_games_standard('canada', 'domestic/country/canada/friendly')
-    load_games_standard('canada', 'international/country/canada')
+
 
     generic_load(soccer_db.canada_stats, partial.process_csl_partial)
 
@@ -394,13 +388,15 @@ def load_mls():
 
     load_excel_standings('mls', 'domestic/country/usa/mls')
 
+    print "Loading mls bio stats.\n"
+    generic_load(soccer_db.mls_stats, stats.process_mls_2012_stats)
+
+
     print "Loading MLS awards.\n"
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
     generic_load(soccer_db.mls_awards, awards.process_mls_reserve_awards)
     generic_load(soccer_db.mls_awards, awards.process_mls_cup_awards)
 
-    print "Loading mls bio stats.\n"
-    generic_load(soccer_db.mls_stats, stats.process_mls_2012_stats)
 
     print "Loading MLS playoff data.\n"
     load_games_standard('mls_playoffs', 'domestic/country/usa/playoffs/mls')
@@ -469,7 +465,7 @@ def load_modern_friendlies():
     load_games_standard('tours', 'domestic/country/usa/friendly/carolina')
     load_games_standard('tours', 'domestic/country/usa/friendly/dynamo')
 
-    load_games_standard('tours', 'international/misc/bicentennial')
+    load_games_standard('tours', 'international/country/usa/bicentennial')
 
     load_games_standard('tours', 'domestic/country/usa/friendly/mls_all_star')
 
@@ -796,6 +792,7 @@ def load_soccernet_league(name, code):
 
 def load_china():
     load_games_standard('china', 'domestic/country/china')
+    generic_load(soccer_db.china_awards, awards.process_china_awards)
 
 def load_australia():
     load_games_standard('australia', 'domestic/country/australia')
@@ -811,9 +808,26 @@ def load_mexico():
 
     generic_load(soccer_db.mexico_awards, awards.process_mexico_awards)
     load_new_standings('mexico', 'domestic/country/mexico/primera_fuerza')
-    load_games_standard('mexico', 'international/country/mexico/alltime')
+
     # These are all formatted, just need to be quality-checked.
     return
+
+
+def load_concacaf_international():
+
+    load_games_standard('concacaf_i', 'international/country/usa/gold')
+
+    load_games_standard('concacaf_i', 'international/confederation/concacaf/championship')
+    load_games_standard('concacaf_i', 'international/confederation/concacaf/world_cup_qualifying')
+
+    generic_load(soccer_db.concacaf_i_awards, awards.process_concacaf_international_awards)
+
+
+
+    load_games_standard('canada', 'international/country/canada')
+    load_games_standard('mexico', 'international/country/mexico/alltime')
+
+
 
     load_games_standard('mexico', 'international/country/trinidad_tobago')
     load_games_standard('mexico', 'international/country/belize')
@@ -821,6 +835,36 @@ def load_mexico():
     load_games_standard('mexico', 'international/country/panama')
     load_games_standard('mexico', 'international/country/costa_rica')
     load_games_standard('mexico', 'international/country/nicaragua')
+    load_games_standard('mexico', 'international/country/anguilla')
+    load_games_standard('mexico', 'international/country/antigua')
+    load_games_standard('mexico', 'international/country/aruba')
+    load_games_standard('mexico', 'international/country/bahamas')
+    load_games_standard('mexico', 'international/country/barbados')
+    load_games_standard('mexico', 'international/country/bolivia')
+
+    load_games_standard('mexico', 'international/country/bvi')
+    load_games_standard('mexico', 'international/country/cayman')
+    load_games_standard('mexico', 'international/country/cuba')
+    load_games_standard('mexico', 'international/country/dominica')
+    load_games_standard('mexico', 'international/country/dr')
+    load_games_standard('mexico', 'international/country/montserrat')
+    load_games_standard('mexico', 'international/country/saint_croix')
+    load_games_standard('mexico', 'international/country/saint_martin')
+    load_games_standard('mexico', 'international/country/saint_thomas')    
+    load_games_standard('mexico', 'international/country/sint_maarten')
+    load_games_standard('mexico', 'international/country/st_lucia')
+    return
+    load_games_standard('mexico', 'international/country/st_vincent')
+    load_games_standard('mexico', 'international/country/st_lucia')
+    load_games_standard('mexico', 'international/country/suriname')
+    load_games_standard('mexico', 'international/country/tortola')
+    load_games_standard('mexico', 'international/country/turks_caicos')
+    load_games_standard('mexico', 'international/country/usvi')
+    load_games_standard('mexico', 'international/country/venezuela')
+    load_games_standard('mexico', 'international/country/virgin_gorda')
+
+    
+    
 
 
     return
