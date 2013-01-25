@@ -1,35 +1,41 @@
 August 4 to 13
 
-Group A
-Mexico      6-1 Haiti                1.MEXICO        3  2  1  0  12- 1   5
-Cuba        4-1 Nicaragua            2.CUBA          3  1  2  0   6- 3   4
-Mexico      6-0 Nicaragua            3.Haiti         3  1  1  1  13- 8   3
-Cuba        2-2 Haiti                4.Nicaragua     3  0  0  3   1-20   0
-Haiti      10-0 Nicaragua
-Cuba        0-0 Mexico
+* 1.MEXICO        3  2  1  0  12- 1   5
+* 2.CUBA          3  1  2  0   6- 3   4
+* 3.Haiti         3  1  1  1  13- 8   3
+* 4.Nicaragua     3  0  0  3   1-20   0
 
-Group B
-USA         1-0 Surinam              1.USA           3  3  0  0   6- 2   6
-Honduras    3-1 Canada               2.HONDURAS      3  1  1  1   5- 4   3
-Surinam     3-1 Canada               3.Surinam       3  1  1  1   4- 3   3
-Honduras    1-1 Surinam              4.Canada        3  0  0  3   3- 9   0
-USA         3-1 Canada
-USA         2-1 Honduras
+Group: Group A
+; Mexico  ;    6-1; Haiti                
+; Cuba    ;    4-1; Nicaragua            
+; Mexico  ;    6-0; Nicaragua            
+; Cuba    ;    2-2; Haiti                
+; Haiti   ;   10-0; Nicaragua
+; Cuba    ;    0-0; Mexico
+
+*             1.USA           3  3  0  0   6- 2   6
+*2.HONDURAS      3  1  1  1   5- 4   3
+*3.Surinam       3  1  1  1   4- 3   3
+*4.Canada        3  0  0  3   3- 9   0
+
+Group: Group B
+; USA        ; 1-0; Surinam 
+; Honduras   ; 3-1; Canada               
+; Surinam    ; 3-1; Canada               
+; Honduras   ; 1-1; Surinam              
+; USA        ; 3-1; Canada
+; USA        ; 2-1; Honduras
+
+Round: Semifinals
+
+; Mexico;      6-1; Honduras
+;United States;         2-1; Cuba
 
 
-SEMIFINALS
-
-Mexico      6-1 Honduras
-
-USA         2-1 Cuba
+Round: Third Place
+; Cuba; 1-0; Honduras
 
 
-THIRD PLACE MATCH
-
-Cuba        1-0 Honduras
-
-
-FINAL
-
-USA         2-1 Mexico        [aet]
-  [34' Reyna, 95' Moore; 16' Mariscal]
+Round: Final
+; USA; 2-1 (aet); Mexico
+Reyna 34, Moore 95; Mariscal 16

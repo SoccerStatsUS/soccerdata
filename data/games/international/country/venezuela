@@ -1,5 +1,7 @@
+Date-style: day first
 
 Competition: Central America and Caribe Games
+Season: 1938
 12/02/1938; Venezuela; 1-3;    Panama      ;  Ciudad de Panamá;
 14/02/1938; Venezuela; 0-1;    Mexico      ;  Ciudad de Panamá;
 16/02/1938; Venezuela; 2-3;    El Salvador ;  Ciudad de Panamá;
@@ -13,34 +15,42 @@ Competition: Bolivarian Games
 19/08/1938; Venezuela; 2-5;   Ecuador     ;  Bogotá           ;
 
 Competition: Central America and Caribe Games;
+Season: 1946
 11/12/1946; Venezuela; 0-2;    Colombia    ;  Barranquilla    ;
 14/12/1946; Venezuela; 2-4;    Costa Rica  ;  Barranquilla    ;
 17/12/1946; Venezuela; 1-2;    Panama      ;  Barranquilla    ;
 19/12/1946; Venezuela; 0-1;    Curaçao     ;  Barranquilla    ;
 23/12/1946; Venezuela; 3-2;    Guatemala   ;  Barranquilla    ;
 26/12/1946; Venezuela; 6-0;    Puerto Rico ;  Barranquilla    ;
-;
+
 ;Competition: Bolivarian Games
+Season: 1948
 ;05/01/1948; Venezuela; 2-2;  Bolivia    ; Lima
 
 Competition: Pan-American Championship
+Season: 1951
 05/03/;1951; Venezuela; 1-3;   Costa Rica;  Buenos Aires     ;
+
+Season: 1955
 17/03/;1955; Venezuela; 3-2;   Curaçao     ;  México D.F.      ;
 21/03/;1955; Venezuela; 1-3;   Curaçao    ;  México D.F.      ;
 
 Competiion: Friendly
+Season: 1956
 08/03/1956; Venezuela; 1-0;   Panama ; Port-au-Prince    ;
 10/03/1956; Venezuela; 1-1;   Haiti  ; Port-au-Prince    ;
 14/03/1956; Venezuela; 4-2;   Panama ; Port-au-Prince    ;
 16/03/1956; Venezuela; 0-3;   Haiti  ; Port-au-Prince    ;
 
 Competition: World Cup Qualifying
+Season: 1965
 16/05/1965; Venezuela; 0-1;      Peru        ; Lima           ;
 23/05/1965; Venezuela; 0-5;      Uruguay     ; Montevideo     ;
 30/05/1965; Venezuela; 1-3;      Uruguay     ; Caracas        ;
 02/06/1965; Venezuela; 3-6;      Peru        ; Caracas        ;
 
 Competition: Copa America
+Season: 1967
 18/01/1967; Venezuela; 0-2;     Chile       ; Montevideo      ;
 21/01/1967; Venezuela; 0-4;     Uruguay    ; Montevideo      ;
 25/01/1967; Venezuela; 1-5;     Argentina  ; Montevideo      ;
@@ -48,6 +58,7 @@ Competition: Copa America
 01/02/1967; Venezuela; 3-5;     Paraguay   ; Montevideo      ;
 
 Competition: World Cup Qualifyi;ng
+Season: 1969
 27/07/1969; Venezuela; 0-3;    Colombia    ; Bogotá           ;
 02/08/1969; Venezuela; 1-1;    Colombia    ; Caracas          ;
 06/08/1969; Venezuela; 0-2;    Paraguay    ; Caracas          ;
@@ -56,25 +67,32 @@ Competition: World Cup Qualifyi;ng
 24/08/1969; Venezuela; 0-6;    Brazil    ; Rio de Janeiro   ;
 
 Competition: Friendly
+Season: 1971
 13/11/1971; Venezuela; 1-0;    Trinidad Tobago ; Caracas          ;
+
+Season: 1972
 03/06/1972; Venezuela; 2-1;    Colombia        ; Caracas          ;
-;
-;Competition: Independence Cup
+
+Competition: Independence Cup
+Season: 1972
 11/06/1972; Venezuela; 1-4;       Paraguay     ; Campo Grande  ;
 14/06/1972; Venezuela; 0-10;        Yugoslavia ; Coritiba     ;
 18/06/1972; Venezuela; 0-1;       Peru         ; Manaus        ;
 21/06/1972; Venezuela; 2-2;       Bolivia      ; Manaus        ;
 
 Competition: Friendly
+Season: 1973
 16/12/1973; Venezuela; 1-0;       Dominican Rep.   ; Caracas       ;
 
 Competition: Copa America
+Season: 1975
 31/07/1975; Venezuela; 0-4;      Brazil         ; Caracas        ;
 03/08/1975; Venezuela; 1-5;      Argentina      ; Caracas        ;
 10/08/1975; Venezuela; 0-11;       Argentina     ; Buenos Aires  ;
 13/08/1975; Venezuela; 0-6;      Brazil         ; Belo Horizonte ;
 
 Competition: Friendly
+Season: 1977
 20/01/1977; Venezuela; 1-0;      Ecuador          ; Caracas        ;
 
 Competition: World Cup Qualifying
@@ -84,18 +102,23 @@ Competition: World Cup Qualifying
 17/03/1977; Venezuela; 0-2;      Uruguay        ; Montevideo     ;
 
 Competition: Friendly
+Season: 1978
 30/03/1978; Venezuela; 0-1;      China                ; Caracas        ;
 
 Competition: Copa America
+Season: 1979
 01/08/1979; Venezuela; 0-0;   Colombia       ; Caracas           ;
 08/08/1979; Venezuela; 1-1;   Chile          ; Caracas           ;
 22/08/1979; Venezuela; 0-4;   Colombia       ; Bogotá            ;
 29/08/1979; Venezuela; 0-7;   Chile          ; Santiago de Chile ;
 
 Competition: Friendly
+Season: 1980
 05/01/1980; Venezuela; 0-0;        Colombia         ; Caracas      ;
 01/07/1980; Venezuela; 2-0;        Costa Rica       ; Mérida       ;
 05/07/1980; Venezuela; 1-1;        Costa Rica           ; Valera       ;
+
+Season: 1981
 11/01/1981; Venezuela; 1-2;        Dutch Antilles   ; Curaçao      ;
 18/01/1981; Venezuela; 1-0;        Dutch Antilles   ; Caracas      ;
 
@@ -109,13 +132,17 @@ Competition: Friendly
 28/06/1981; Venezuela; 0-2;        Spain               ; Caracas      ;
 
 Competition: Copa America
+Season: 1983
 04/09/1983; Venezuela; 0-3;  Uruguay        ; Montevideo         ;
 08/09/1983; Venezuela; 0-5;  Chile          ; Santiago de Chile  ;
 18/09/1983; Venezuela; 1-2;  Uruguay        ; Caracas            ;
 21/09/1983; Venezuela; 0-0;  Chile          ; Caracas            ;
 
 Competition: Friendly
+Season: 1984
 24/01/1984; Venezuela; 0-3;      Mexico           ; Irapuato       ;
+
+Season: 1985
 24/02/1985; Venezuela; 5-0;      Bolivia              ; Caracas        ;
 21/04/1985; Venezuela; 0-4;      Bolivia          ; La Paz         ;
 
@@ -128,10 +155,12 @@ Competition: World Cup Qualifying
 30/06/1985; Venezuela; 0-2;   Colombia       ; Bogotá            ;
 
 Competition: Copa America
+Season: 1987
 28/06/1987; Venezuela; 0-5;      Brazil         ; Córdoba        ;
 30/06/1987; Venezuela; 1-3;      Chile          ; Córdoba        ;
 
 Competition: Friendly
+Season: 1989
 26/03/1989; Venezuela; 1-2;      Paraguay            ; Caracas        ;
 30/03/1989; Venezuela; 0-0;      Paraguay            ; Maturín        ;
 18/05/1989; Venezuela; 1-2;      Peru             ; Lima           ;
@@ -150,12 +179,14 @@ Competition: World Cup Qualifying
 27/08/1989; Venezuela; 0-5;    Chile          ; Mendoza          ;
 
 Competition: Copa America
+Season: 1991
 06/07/1991; Venezuela; 0-2;  Chile          ; Santiago de Chile  ;
 08/07/1991; Venezuela; 0-3;  Argentina      ; Santiago de Chile  ;
 10/07/1991; Venezuela; 0-5;  Paraguay       ; Santiago de Chile  ;
 12/07/1991; Venezuela; 1-5;  Peru           ; Santiago de Chile  ;
 
 Competition: Friendly
+Season: 1993
 23/01/1993; Venezuela; 0-0;      Peru              ; Puerto Ordaz   ;
 24/02/1993; Venezuela; 0-0;      Colombia         ; San Cristóbal  ;
 21/05/1993; Venezuela; 1-1;      Colombia         ; Bogotá         ;
@@ -177,7 +208,10 @@ Competition: World Cup Qualifying
 12/09/1993; Venezuela; 2-1;    Ecuador           ; Puerto Ordaz     ;
 
 Competition: Friendly
+Season: 1994
 28/01/1994; Venezuela; 1-2;      Colombia             ; Barinas        ;
+
+Season: 1995
 03/04/1995; Venezuela; 0-0;      Bolivia             ; Sucre          ;
 18/06/1995; Venezuela; 1-3;      Bolivia             ; Valera         ;
 
@@ -188,6 +222,8 @@ Competition: Copa America
 
 Competition: Friendly
 21/12/1995; Venezuela; 0-6;    Argentina           ; Mendoza          ;
+
+Season: 1996
 05/01/1996; Venezuela; 0-0;    Trinidad Tobago     ; Port of Spain    ;
 07/01/1996; Venezuela; 0-0;    Trinidad Tobago     ; Port of Spain    ;
 02/02/1996; Venezuela; 0-1;    Ecuador             ; Caracas          ;
@@ -217,6 +253,8 @@ Competition: World Cup Qualifying
 09/10/1996; Venezuela; 2-5;    Argentina        ; San Cristóbal    ;
 10/11/1996; Venezuela; 1-4;    Peru             ; Lima             ;
 15/12/1996; Venezuela; 0-2;    Colombia         ; San Cristóbal    ;
+
+Season: 1997
 12/01/1997; Venezuela; 0-2;    Paraguay         ; Mérida           ;
 
 Competition: Friendly
@@ -241,6 +279,7 @@ Competition: World Cup Qualifying
 12/10/1997; Venezuela; 0-1;      Paraguay         ; Asunción       ;
 
 Competition: Friendly
+Season: 1999
 27/01/1999; Venezuela; 1-1;      Denmark League   ; Maracaibo      ;
 03/02/1999; Venezuela; 0-2;      Argentina            ; Maracaibo      ;
 30/03/1999; Venezuela; 0-0;      Colombia           ; Maracaibo      ;
@@ -259,6 +298,8 @@ Competition: Friendly
 26/08/1999; Venezuela; 0-0;   Bolivia          ; La Paz            ;
 08/09/1999; Venezuela; 0-2;   Uruguay          ; Montevideo        ;
 28/09/1999; Venezuela; 2-3;   Haiti; Port-au-Prince    ;
+
+Season: 2000
 16/03/2000; Venezuela; 0-0;   Bolivia          ; Caracas           ;
 
 Competition: World Cup Qualifying
@@ -292,6 +333,8 @@ Competition: World Cup Qualifying
 02/09/2000; Venezuela; 0-3;   Paraguay         ; Asunción          ;
 08/10/2000; Venezuela; 0-6;   Brazil           ; Maracaibo         ;
 15/11/2000; Venezuela; 1-2;   Ecuador          ; Maracaibo         ;
+
+Season: 2001
 28/03/2001; Venezuela; 0-5;   Argentina        ; Buenos Aires      ;
 
 Competition: Friendly
@@ -314,11 +357,14 @@ Competition: World Cup Qualifying
 14/11/2001; Venezuela; 0-3;    Brazil           ; Sao Luis         ;
 
 Competition: Friendly
+Season: 2002
 01/03/2002; Venezuela; 0-1;  Iran             ; Casablanca, Mor    ;
 07/05/2002; Venezuela; 0-0;  Colombia         ; Caracas            ;
 21/08/2002; Venezuela; 2-0;  Bolivia          ; Caracas            ;
 20/10/2002; Venezuela; 2-0;  Ecuador          ; Caracas            ;
 20/11/2002; Venezuela; 1-0;  Uruguay          ; Caracas            ;
+
+Season: 2003
 29/03/2003; Venezuela; 0-2;  USA              ; Seattle, USA       ;
 02/04/2003; Venezuela; 2-0;  Jamaica          ; Caracas            ;
 30/04/2003; Venezuela; 3-0;  Trinidad/Tobago  ; San Cristóbal      ;
@@ -335,6 +381,7 @@ Competition: World Cup Qualifying
 18/11/2003; Venezuela; 2-1;  Bolivia          ; Maracaibo          ;
 
 Competition: Friendly
+Season: 2004
 18/02/2004; Venezuela; 1-1;    Australia        ; Caracas          ;
 10/03/2004; Venezuela; 2-1;    Honduras         ; Maracaibo        ;
 
@@ -364,6 +411,8 @@ Competition: World Cup Qualifying
 
 Competition: Friendly
 21/12/2004; Venezuela; 0-1;   Guatemala        ; Caracas           ;
+
+Season: 2005
 09/02/2005; Venezuela; 3-0;   Estonia          ; Maracaibo         ;
 
 Competition: World Cup Qualifying
@@ -388,4 +437,5 @@ Competition: Friendly
 12/10/2005; Venezuela; 0-3;   Brazil           ; Belém             ;
 
 Competition: World Cup Qualifying
+Season: 2006
 01/03/2006; Venezuela; 1-1;   Colombia        ; Maracaibo         ;

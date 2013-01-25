@@ -1,5 +1,7 @@
+Date-style: day first
 
 Competition: Caribbean Cup / Gold Cup Qualifying
+Season: 2005
 24/02/2005; Cuba;  0-1; Jamaica           ;  Barbados      
 22/02/2005; Cuba;  2-1; Trinidad and Tobago   ;  Barbados  
 20/02/2005; Cuba;  3-0; Barbados          ;  Barbados      
@@ -11,6 +13,7 @@ Competition: Gold Cup Qualifying
 12/12/2004; Cuba;  2-0; Martinique        ;  Cuba          
 
 Competition: World Cup Qualifying
+Season: 2004
 20/06/2004; Cuba;  1-1; Costa Rica        ;  Costa Rica    
 12/06/2004; Cuba;  2-2; Costa Rica        ;  Cuba          
 
@@ -29,6 +32,8 @@ Competition: World Cup Qualifying
 
 Competition: Friendly
 08/01/2004; Cuba;  0-0; Martinique        ;  Cuba          
+
+Season: 2003
 19/11/2003; Cuba;  1-2; Trinidad and Tobago   ;  Trinidad and Tobago   
 
 Competition: Gold Cup
@@ -51,6 +56,7 @@ Competition: Friendly
 11/03/2003; Cuba;  0-0; Jamaica           ;  Cuba                     
 
 Competition: Gold Cup Qualifying
+Season: 2002
 01/12/2002; Cuba;  2-1; Dominican Republic;  Cayman Islands           
 29/11/2002; Cuba;  2-1; Martinique        ;  Cayman Islands           
 27/11/2002; Cuba;  5-0; Cayman Islands    ;  Cayman Islands           
@@ -64,6 +70,7 @@ Competition: Friendly
 06/01/2002; Cuba;  0-1; Guatemala         ;  Cuba               
 
 Competition: Gold Cup Qualifying
+Season: 2001
 05/08/2001; Cuba;  1-0; Panama            ;  Cuba               
 29/07/2001; Cuba;  0-0; Panama            ;  Panama             
 
@@ -85,7 +92,8 @@ Competition: Caribbean Cup Qualifying / Gold Cup Qualifying
 06/04/2001; Cuba;  1-0; French St Martin  ;  Guyana                  
 04/04/2001; Cuba;  3-1; Dominica          ;  Guyana                  
 
-Competitition: Friendly
+Competition: Friendly
+Season: 2000
 04/07/2000; Cuba;  1-4; Trinidad and Tobago   ;  Trinidad and Tobago 
 02/07/2000; Cuba;  1-1; Jamaica           ;  Jamaica                 
 
@@ -113,6 +121,7 @@ Competition: World Cup Qualiyfing
 05/03/2000; Cuba;  4-0; Cayman Islands    ;  Cuba             
 
 Competition: Friendly
+Season: 1999
 05/12/1999; Cuba;  0-1; Panama            ;  Panama                
 
 Competition: Gold Cup Qualifying
@@ -130,6 +139,8 @@ Competition: Caribbean Cup Qualifying / Gold Cup Qualifying
 09/05/1999; Cuba;  2-1; Bermuda           ;  Bermuda                  
 07/05/1999; Cuba;  7-0; Bahamas           ;  Bermuda                  
 05/05/1999; Cuba;  4-1; Cayman Islands    ;  Bermuda                  
+
+Season: 1998
 08/05/1998; Cuba;  2-1; Bermuda           ;  Cayman Islands           
 06/05/1998; Cuba;  2-2; Cayman Islands    ;  Cayman Islands           
 
@@ -138,6 +149,7 @@ Competition: Gold Cup
 01/02/1998; Cuba;  0-3; United States               ;  United States  
 
 Competition:  Haiti ?
+Season: 1997
 22/10/1997; Cuba;  1-1; Cameroon          ;  Haiti               
 *(4-1p)
 20/10/1997; Cuba;  2-2; Haiti             ;  Haiti               
@@ -150,6 +162,7 @@ Competition: Friendly
 29/06/1997; Cuba;  0-3; Jamaica           ;  Jamaica              
 
 Competition: World Cup Qualifying
+Season: 1996
 15/12/1996; Cuba;  1-3; Panama            ;  Panama               
 01/12/1996; Cuba;  0-3; El Salvador       ;  El Salvador          
 13/10/1996; Cuba;  0-2; Canada            ;  Canada               
@@ -177,13 +190,14 @@ Competition: World Cup Qualifying
 14/05/1996; Cuba;  5-0; Cayman Islands    ;  Cayman Islands         
 12/05/1996; Cuba;  1-0; Cayman Islands    ;  Cayman Islands         
 
-Competitition: Caribbean Cup Qualifying / Gold Cup Qualifying
+Competition: Caribbean Cup Qualifying / Gold Cup Qualifying
 26/04/1996; Cuba;  4-0; Cayman Islands    ;  Cuba                   
 
 Competition: Friendly
 14/01/1996; Cuba;  1-1; Jamaica           ;  Jamaica                
 
 Competition: Caribbean Cup / Gold Cup Qualifying
+Season: 1995
 30/07/1995; Cuba;  3-0; Cayman Islands    ;  Cayman Islands         
 28/07/1995; Cuba;  2-3; St Vincent/Gren   ;  Cayman Islands         
 23/07/1995; Cuba;  2-0; St Lucia          ;  Jamaica                
@@ -199,6 +213,7 @@ Competition: Friendly
 12/03/1995; Cuba;  0-0; Jamaica           ;  Jamaica                   
 
 Competition: Caribbean Cup
+Season: 1992
 27/06/1992; Cuba;  1-1; Martinique        ;  Trinidad and Tobago     
 *(3-5p)
 24/06/1992; Cuba;  0-1; Trinidad and Tobago   ;  Trinidad and Tobago   
@@ -211,6 +226,7 @@ Competition: Caribbean Cup Qualifying
 02/05/1992; Cuba;  3-0; Anguilla          ;  Anguilla                  
 
 Competition: Friendly
+Season: 1988
 06/08/1988; Cuba;  0-0; Albania           ;  Albania                   
 
 Competition: World Cup Qualifying
@@ -218,6 +234,7 @@ Competition: World Cup Qualifying
 30/04/1988; Cuba;  0-1; Guatemala         ;  Cuba                      
 
 Competition: Tmt??
+Season: 1987
 10/12/1987; Cuba;  1-1; Ghana             ;  Angola                    
 08/12/1987; Cuba;  2-3; Angola            ;  Angola                    
 
@@ -233,6 +250,8 @@ Competition: Friendly
 05/03/1987; Cuba;  2-1; Ecuador           ;  Cuba                      
 22/02/1987; Cuba;  3-1; Panama            ;  Panama                    
 20/02/1987; Cuba;  0-1; Panama            ;  Panama                    
+
+Season: 1986
 30/10/1986; Cuba;  1-1; Panama            ;  Nicaragua                 
 
 Competition: Central American Games
@@ -243,10 +262,12 @@ Competition: Central American Games
 25/06/1986; Cuba;  4-0; Puerto Rico       ;  Dominican Republic        
 
 Competition: Friendly
+Season: 1985
 27/01/1985; Cuba;  2-2; Guyana            ;  Guyana                    
 20/01/1985; Cuba;  0-1; Guyana            ;  Guyana                    
 
 Competition: Olympic Games Qualifying
+Season: 1984
 12/04/1984; Cuba;  0-3; Canada            ;  Canada                    
 
 Competition: Friendly
@@ -260,6 +281,8 @@ Competition: Friendly
 
 Competition: Olympic Games Qualifying
 02/03/1984; Cuba;  0-1; Costa Rica        ;  Costa Rica                
+
+Season: 1983
 15/11/1983; Cuba;  1-0; Trinidad and Tobago   ;  Cuba                  
 08/11/1983; Cuba;  0-2; Trinidad and Tobago   ;  Trinidad and Tobago   
 01/11/1983; Cuba;  2-0; Trinidad and Tobago   ;  Cuba                  
@@ -289,6 +312,7 @@ Competition: Olympic Games Qualifying
 01/03/1983; Cuba;  1-0; Jamaica           ;  Jamaica                   
 
 Competition: Central American Games
+Season: 1982
 16/08/1982; Cuba;  2-1; Bermuda           ;  Cuba                      
 14/08/1982; Cuba;  0-1; Venezuela         ;  Cuba                      
 10/08/1982; Cuba;  1-0; Bahamas           ;  Cuba                      
@@ -296,6 +320,7 @@ Competition: Central American Games
 02/08/1982; Cuba;  4-1; Bermuda           ;  Cuba                      
 
 Competition: World Cup Qualifying
+Season: 1981
 21/11/1981; Cuba;  2-2; Canada            ;  Honduras                  
 15/11/1981; Cuba;  2-0; Haiti             ;  Honduras                  
 11/11/1981; Cuba;  0-0; El Salvador       ;  Honduras                  
@@ -309,6 +334,7 @@ Competition: Friendly
 19/05/1981; Cuba;  0-5; East Germany      ;  East Germany              
 
 Competition: World Cup Qualifying
+Season: 1980
 30/11/1980; Cuba;  3-0; Guyana            ;  Guyana                    
 09/11/1980; Cuba;  1-0; Guyana            ;  Cuba                      
 07/09/1980; Cuba;  0-0; Surinam           ;  Surinam                   
@@ -324,6 +350,7 @@ Competition: Friendly
 24/06/1980; Cuba;  0-3; Costa Rica        ;  Costa Rica            
 
 Competition: Olympic Games Qualifying
+Season: 1979
 12/12/1979; Cuba;  0-1; Haiti             ;  Cuba                  
 02/12/1979; Cuba;  0-0; Haiti             ;  Haiti                 
 
@@ -339,6 +366,7 @@ Competition: Olympic Games Qualifying
 01/04/1979; Cuba;  3-0; Jamaica           ;  Jamaica               
 
 Competition: Central American Games
+Season: 1978
 21/07/1978; Cuba;  2-0; Venezuela         ;  Colombia              
 19/07/1978; Cuba;  3-1; Mexico            ;  Colombia              
 16/07/1978; Cuba;  1-0; Panama            ;  Colombia              
@@ -348,9 +376,11 @@ Competition: Central American Games
 08/07/1978; Cuba;  6-0; El Salvador       ;  Colombia              
 
 Competition: Friendly
+Season: 1977
 01/06/1977; Cuba;  0-1; Angola            ;  Angola                
 
 Competition: World Cup Qualifying
+Season: 1976
 29/12/1976; Cuba;  0-2; Haiti             ;  Panama                
 
 Competition: Friendly
@@ -373,6 +403,7 @@ Competition: Olympic Games Qualifying
 03/03/1976; Cuba;  2-4; Mexico            ;  Mexico                
 
 Competition: Panamerican Games
+Season: 1975
 23/10/1975; Cuba;  0-1; Costa Rica        ;  Mexico                
 21/10/1975; Cuba;  2-2; Mexico            ;  Mexico                
 19/10/1975; Cuba;  3-0; Canada            ;  Mexico                
@@ -388,11 +419,13 @@ Competition: Olympic Games Qualifying
 28/08/1975; Cuba;  6-1; Surinam           ;  Cuba                  
 25/08/1975; Cuba;  1-0; Surinam           ;  Surinam               
 05/05/1975; Cuba;  4-1; Jamaica           ;  Trinidad and Tobago   
-27/04/1974; Cuba;  0-1; Jamaica           ;  Jamaica               
+27/04/1975; Cuba;  0-1; Jamaica           ;  Jamaica               
 20/04/1975; Cuba;  1-0; Jamaica           ;  Cuba                  
 
 Competition: Friendly
 05/01/1975; Cuba;  4-0; Canada            ;  Cuba               
+
+Season: 1974
 29/05/1974; Cuba;  1-0; Algeria           ;  Algeria            
 
 Competition: Central American Games
@@ -405,9 +438,11 @@ Competition: Central American Games
 28/02/1974; Cuba;  2-0; Barbados          ;  Dominican Republic        
 
 Competition: Friendly
+Season: 1972
 02/04/1972; Cuba;  0-2; Jamaica           ;  Jamaica                   
 
 Competition: CONCACAF Championship
+Season: 1971
 03/12/1971; Cuba;  0-3; Costa Rica        ;  Trinidad and Tobago       
 30/11/1971; Cuba;  0-0; Haiti             ;  Trinidad and Tobago       
 28/11/1971; Cuba;  0-1; Mexico            ;  Trinidad and Tobago       
@@ -430,6 +465,7 @@ Competition: Friendly
 21/05/1971; Cuba;  0-1; China             ;  China                     
 
 Competition: Central American Games
+Season: 1970
 16/03/1970; Cuba;  2-0; Netherlands Antilles     ;  Panama             
 13/03/1970; Cuba;  5-0; Venezuela         ;  Panama                    
 11/03/1970; Cuba;  0-1; Colombia          ;  Panama                    
@@ -438,10 +474,12 @@ Competition: Central American Games
 03/03/1970; Cuba;  1-2; Colombia          ;  Panama                    
 
 Competition: Olympic Games Qualifying
+Season: 1968
 07/03/1968; Cuba;  1-2; El Salvador       ;  Cuba                      
 05/03/1968; Cuba;  0-3; El Salvador       ;  El Salvador               
 
 Competition: Panamerican Games
+Season: 1967
 28/07/1967; Cuba;  1-2; United States               ;  Canada          
 26/07/1967; Cuba;  1-1; Bermuda           ;  Canada                    
 24/07/1967; Cuba;  1-2; Canada            ;  Canada                    
@@ -457,6 +495,7 @@ Competition: CONCACAF Championship Qualifying
 14/01/1967; Cuba;  1-2; Jamaica           ;  Jamaica                   
 
 Competition: Central American Games
+Season: 1966
 22/06/1966; Cuba;  2-4; Netherlands Antilles     ;  Puerto Rico        
 20/06/1966; Cuba;  0-0; El Salvador       ;  Puerto Rico               
 18/06/1966; Cuba;  1-1; Puerto Rico       ;  Puerto Rico               
@@ -464,12 +503,14 @@ Competition: Central American Games
 12/06/1966; Cuba;  7-0; Jamaica           ;  Puerto Rico               
 
 Competition: World Cup Qualifying
+Season: 1965
 07/02/1965; Cuba;  2-1; Jamaica           ;  Cuba                  
 30/01/1965; Cuba;  0-1; Netherlands Antilles     ;  Cuba           
 20/01/1965; Cuba;  1-1; Netherlands Antilles     ;  Jamaica        
 16/01/1965; Cuba;  0-2; Jamaica           ;  Jamaica               
 
 Competition: Central American Games
+Season: 1962
 24/08/1962; Cuba;  1-2; Netherlands Antilles     ;  Jamaica        
 20/08/1962; Cuba;  0-6; Mexico            ;  Jamaica               
 16/08/1962; Cuba;  0-2; Venezuela         ;  Jamaica               
@@ -477,16 +518,20 @@ Competition: Central American Games
 11/08/1962; Cuba;  2-0; Puerto Rico       ;  Jamaica               
 
 Competition: CCCF
+Season: 1961
 11/03/1961; Cuba;  0-1; Panama            ;  Costa Rica            
 08/03/1961; Cuba;  0-2; Guatemala         ;  Costa Rica            
 05/03/1961; Cuba;  1-4; Costa Rica        ;  Costa Rica            
 02/03/1961; Cuba;  1-2; Haiti             ;  Costa Rica            
+
+Season: 1960
 28/02/1960; Cuba;  0-5; Costa Rica        ;  Cuba                  
 23/02/1960; Cuba;  2-1; Honduras          ;  Cuba                  
 18/02/1960; Cuba;  0-2; Surinam           ;  Cuba                  
 14/02/1960; Cuba;  3-4; Netherlands Antilles     ;  Cuba           
 
 Competition: Panamerican Games
+Season: 1959
 05/09/1959; Cuba;  1-2; Costa Rica        ;  United States           
 03/09/1959; Cuba;  0-7; Argentina         ;  United States           
 30/08/1959; Cuba;  0-5; United States               ;  United States 
@@ -495,10 +540,13 @@ Competition: Panamerican Games
 21/08/1959; Cuba;  2-8; Haiti             ;  United States           
 
 Competition: CCCF
+Season: 1957
 25/08/1957; Cuba;  1-6; Haiti             ;  Netherlands Antilles       
 21/08/1957; Cuba;  0-2; Netherlands Antilles     ;  Netherlands Antilles
 17/08/1957; Cuba;  0-2; Honduras          ;  Netherlands Antilles       
 12/08/1957; Cuba;  0-1; Panama            ;  Netherlands Antilles       
+
+Season: 1955
 28/08/1955; Cuba;  0-2; Netherlands Antilles     ;  Honduras            
 26/08/1955; Cuba;  1-2; El Salvador       ;  Honduras                  
 19/08/1955; Cuba;  1-4; Aruba             ;  Honduras                  
@@ -506,12 +554,14 @@ Competition: CCCF
 14/08/1955; Cuba;  0-3; Honduras          ;  Honduras                  
 
 Competition: Central American Games
+Season: 1954
 16/03/1954; Cuba;  0-4; Panama            ;  Mexico                    
 15/03/1954; Cuba;  1-2; Colombia          ;  Mexico                    
 14/03/1954; Cuba;  1-3; El Salvador       ;  Mexico                    
 09/03/1954; Cuba;  0-4; Mexico            ;  Mexico                    
 
 Competition: 3 Nations Tournament*
+Season: 1949
 18/12/1949; Cuba;  2-5; Jamaica           ;  Haiti                     
 
 Competition: World Cup Qualifying / North American Championship
@@ -520,14 +570,17 @@ Competition: World Cup Qualifying / North American Championship
 14/09/1949; Cuba;  1-1; United States               ;  Mexico         
 11/09/1949; Cuba;  0-2; Mexico            ;  Mexico                   
 
-Competitition: Tmt?
+Competition: Tmt?
 14/05/1949; Cuba;  0-1; Dominican Republic;  Surinam          
 12/05/1949; Cuba;  1-0; Surinam           ;  Surinam          
 09/05/1949; Cuba;  0-0; Martinique        ;  Surinam          
 
 Competition: Friendly
+Season: 1948
 12/06/1948; Cuba;  1-1; Jamaica           ;  Jamaica          
 09/06/1948; Cuba;  0-3; Jamaica           ;  Jamaica          
+
+Season: 1947
 10/12/1947; Cuba;  0-0; Puerto Rico       ;  Cuba             
 06/12/1947; Cuba;  4-0; Puerto Rico       ;  Cuba             
 
@@ -536,24 +589,32 @@ Competition: North American Championship
 17/07/1947; Cuba;  1-3; Mexico            ;  Cuba             
 
 Competition: Friendly
+Season: 1942
 29/01/1942; Cuba;  1-0; Puerto Rico       ;  Cuba             
 26/01/1942; Cuba;  1-0; Puerto Rico       ;  Cuba             
+
+Season: 1940
 12/11/1940; Cuba;  1-1; Puerto Rico       ;  Cuba             
+
+Season: 1939
 06/08/1939; Cuba;  4-0; Panama            ;  Panama           
 
 Competition: World Cup
+Season: 1938
 12/06/1938; Cuba;  0-8; Sweden            ;  France           
 09/06/1938; Cuba;  2-1; Romania           ;  France           
 05/06/1938; Cuba;  3-3; Romania           ;  France           
 
 Competition: Central American Games
+Season: 1935
 31/03/1935; Cuba;  1-2; Costa Rica        ;  El Salvador      
 30/03/1935; Cuba;  1-6; Mexico            ;  El Salvador      
 27/03/1935; Cuba;  2-1; Guatemala         ;  El Salvador      
 25/03/1935; Cuba;  3-0; Honduras          ;  El Salvador      
 24/03/1935; Cuba;  1-4; El Salvador       ;  El Salvador      
 
-Competiiton: World Cup Qualifying
+Competition: World Cup Qualifying
+Season: 1934
 18/03/1934; Cuba;  1-4; Mexico            ;  Mexico           
 11/03/1934; Cuba;  0-5; Mexico            ;  Mexico           
 04/03/1934; Cuba;  2-3; Mexico            ;  Mexico           
@@ -562,6 +623,7 @@ Competiiton: World Cup Qualifying
 28/01/1934; Cuba;  3-1; Haiti             ;  Haiti            
 
 Competition: Central American Games
+Season: 1930
 01/04/1930; Cuba;  5-2; El Salvador       ;  Cuba             
 30/03/1930; Cuba;  2-1; Costa Rica        ;  Cuba             
 23/03/1930; Cuba;  5-0; Honduras          ;  Cuba             

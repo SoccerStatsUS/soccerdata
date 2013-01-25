@@ -383,6 +383,7 @@ BlockSource: http://www.rsssf.com/tablesc/cacups92.html
 Group: Group 1
 
 Round: Round 1
+
 2/19/1992; Comunicaciones; 1-2; Motagua
 Contreras; Seminario, F.Perez
 
@@ -942,7 +943,7 @@ Gerson Klinker, Steven Rigters; Ramon Kempenaar, Ramon Kempenaar , Etienne Remak
 
 
  
-Round 2
+Round: Round 2
 2/2/1993; Sithoc; 0-2; Suzuki Newtown United; Dutch Antilles
 2/5/1993; Sithoc; 0-1; Suzuki Newtown United; Dutch Antilles
 
@@ -1219,7 +1220,8 @@ Luis Mateo 75; Ricardeau Champagne 24
 ; David Valcourt 60
 *  2nd leg apparently not played
 
-Round 2 (May 20 & Jun 16)
+Round: Round 2 
+* (May 20 & Jun 16)
 * Beacon                   Guy  L'Aiglon                 Mtq                x
 * x scores unknown; Beacon advanced; presumably L'Aiglon withdrew
 * FICA                     Hai  US Sinnamary             FrG                y
@@ -1362,9 +1364,9 @@ BlockSource: http://www.rsssf.com/tablesc/cacups96.htmll
 
 * North/Central Zone
 
-Group 1
+Group: Group 1
 
-Round 1
+Round: Round 1
 
 3/9/1996; Alajuelense; 4-2; Deportivo FAS
 Ronald Gomez, Ronald Gomez, Mauricio Montero, Luis Marin; Jorge Rodriguez, Mario Meza Mayen
