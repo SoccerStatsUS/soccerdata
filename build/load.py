@@ -81,9 +81,13 @@ def load_drafts():
 
 
 def load_games():
+
+
+    load_conmebol_international()
     load_concacaf_international()
-    load_uncaf()
+
     load_usmnt()
+    return
 
     load_asl()
     load_early_cups()
@@ -91,7 +95,8 @@ def load_games():
 
     load_fifa()
     load_olympics()
-    load_copa_america()
+
+    #load_argentina()
     load_mexico()
 
     load_mls()
@@ -320,10 +325,6 @@ def load_isl():
     load_excel_standings('isl', 'domestic/country/usa/isl')
     generic_load(soccer_db.isl_awards, awards.process_isl_awards)
 
-
-def load_uncaf():
-    load_games_standard('uncaf', 'international/confederation/concacaf/uncaf')
-    generic_load(soccer_db.uncaf_awards, awards.process_uncaf_awards)
 
 
 def load_usmnt():
@@ -812,70 +813,112 @@ def load_mexico():
     # These are all formatted, just need to be quality-checked.
     return
 
+    #load_games_standard('mexico', 'domestic/country/mexico/super')
+    #load_games_standard('mexico', 'domestic/country/mexico/playoffs')
+
+    load_soccernet_league('mexico', 'mex.1')
+
+
+
+
+
+def load_conmebol_international():
+    load_copa_america()
+
+    load_games_standard('canada', 'international/country/argentina')
+    load_games_standard('mexico', 'international/country/bolivia')
+    #load_games_standard('mexico', 'international/country/brazil')
+    load_games_standard('mexico', 'international/country/chile')
+    load_games_standard('mexico', 'international/country/colombia')
+    load_games_standard('mexico', 'international/country/ecuador')
+    load_games_standard('mexico', 'international/country/paraguay')
+    load_games_standard('mexico', 'international/country/peru')
+    load_games_standard('mexico', 'international/country/uruguay'),
+    load_games_standard('mexico', 'international/country/venezuela')
+
+    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/early_south_america')
+    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/copapremiohonor')
+    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/copadelatlantico')
+    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/copanewton')
+    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/copalipton')
+
+
+def load_uncaf_international():
+    generic_load(soccer_db.uncaf_awards, awards.process_uncaf_awards)
+
+    load_games_standard('uncaf', 'international/confederation/concacaf/uncaf')
+
+    load_games_standard('concacaf_i', 'international/country/belize')
+    load_games_standard('concacaf_i', 'international/country/costa_rica')
+    load_games_standard('concacaf_i', 'international/country/el_salvador')
+    load_games_standard('concacaf_i', 'international/country/guatemala')
+    load_games_standard('concacaf_i', 'international/country/honduras')
+    load_games_standard('concacaf_i', 'international/country/nicaragua')
+    load_games_standard('concacaf_i', 'international/country/panama')
+
+def load_caribbean_international():
+    generic_load(soccer_db.concacaf_i_awards, awards.process_caribbean_awards)
+
+    load_games_standard('uncaf', 'international/confederation/concacaf/caribbean/cfu')
+    load_games_standard('uncaf', 'international/confederation/concacaf/caribbean/1980')
+    load_games_standard('uncaf', 'international/confederation/concacaf/caribbean/1990')
+    load_games_standard('uncaf', 'international/confederation/concacaf/caribbean/2001')
+
+    load_games_standard('concacaf_i', 'international/country/anguilla')
+    load_games_standard('concacaf_i', 'international/country/antigua')
+    load_games_standard('concacaf_i', 'international/country/aruba')
+    load_games_standard('concacaf_i', 'international/country/bahamas')
+    load_games_standard('concacaf_i', 'international/country/barbados')
+    load_games_standard('concacaf_i', 'international/country/bermuda')    
+    load_games_standard('concacaf_i', 'international/country/bvi')
+    load_games_standard('concacaf_i', 'international/country/cayman')
+    load_games_standard('concacaf_i', 'international/country/cuba')
+    load_games_standard('concacaf_i', 'international/country/dominica')
+    load_games_standard('concacaf_i', 'international/country/dr')
+    load_games_standard('concacaf_i', 'international/country/french_guyana')
+    load_games_standard('concacaf_i', 'international/country/grenada')
+    #load_games_standard('concacaf_i', 'international/country/guadeloupe')
+    load_games_standard('concacaf_i', 'international/country/guyana')
+    #load_games_standard('concacaf_i', 'international/country/haiti')
+    load_games_standard('concacaf_i', 'international/country/jamaica')
+    load_games_standard('concacaf_i', 'international/country/martinique')
+    load_games_standard('concacaf_i', 'international/country/montserrat')
+    load_games_standard('concacaf_i', 'international/country/puerto_rico')
+    load_games_standard('concacaf_i', 'international/country/nevis')
+    load_games_standard('concacaf_i', 'international/country/st_lucia')
+    load_games_standard('concacaf_i', 'international/country/saint_martin')
+    load_games_standard('concacaf_i', 'international/country/st_vincent')
+    load_games_standard('concacaf_i', 'international/country/sint_maarten')
+    load_games_standard('concacaf_i', 'international/country/suriname')
+    load_games_standard('concacaf_i', 'international/country/trinidad_tobago')
+    load_games_standard('concacaf_i', 'international/country/turks_caicos')
+    load_games_standard('concacaf_i', 'international/country/usvi')
+
+    #load_games_standard('concacaf_i', 'international/country/saint_croix')
+    #load_games_standard('concacaf_i', 'international/country/saint_thomas')    
+    #load_games_standard('concacaf_i', 'international/country/tortola')
+    #load_games_standard('concacaf_i', 'international/country/virgin_gorda')
+
+
+
 
 def load_concacaf_international():
 
     load_games_standard('concacaf_i', 'international/country/usa/gold')
 
     load_games_standard('concacaf_i', 'international/confederation/concacaf/championship')
+    load_games_standard('concacaf_i', 'international/confederation/concacaf/cccf')
+
     load_games_standard('concacaf_i', 'international/confederation/concacaf/world_cup_qualifying')
 
     generic_load(soccer_db.concacaf_i_awards, awards.process_concacaf_international_awards)
 
-
-
     load_games_standard('canada', 'international/country/canada')
     load_games_standard('mexico', 'international/country/mexico/alltime')
 
-
-
-    load_games_standard('mexico', 'international/country/trinidad_tobago')
-    load_games_standard('mexico', 'international/country/belize')
-    load_games_standard('mexico', 'international/country/bermuda')
-    load_games_standard('mexico', 'international/country/panama')
-    load_games_standard('mexico', 'international/country/costa_rica')
-    load_games_standard('mexico', 'international/country/nicaragua')
-    load_games_standard('mexico', 'international/country/anguilla')
-    load_games_standard('mexico', 'international/country/antigua')
-    load_games_standard('mexico', 'international/country/aruba')
-    load_games_standard('mexico', 'international/country/bahamas')
-    load_games_standard('mexico', 'international/country/barbados')
-    load_games_standard('mexico', 'international/country/bolivia')
-
-    load_games_standard('mexico', 'international/country/bvi')
-    load_games_standard('mexico', 'international/country/cayman')
-    load_games_standard('mexico', 'international/country/cuba')
-    load_games_standard('mexico', 'international/country/dominica')
-    load_games_standard('mexico', 'international/country/dr')
-    load_games_standard('mexico', 'international/country/montserrat')
-    load_games_standard('mexico', 'international/country/saint_croix')
-    load_games_standard('mexico', 'international/country/saint_martin')
-    load_games_standard('mexico', 'international/country/saint_thomas')    
-    load_games_standard('mexico', 'international/country/sint_maarten')
-    load_games_standard('mexico', 'international/country/st_lucia')
-    return
-    load_games_standard('mexico', 'international/country/st_vincent')
-    load_games_standard('mexico', 'international/country/st_lucia')
-    load_games_standard('mexico', 'international/country/suriname')
-    load_games_standard('mexico', 'international/country/tortola')
-    load_games_standard('mexico', 'international/country/turks_caicos')
-    load_games_standard('mexico', 'international/country/usvi')
-    load_games_standard('mexico', 'international/country/venezuela')
-    load_games_standard('mexico', 'international/country/virgin_gorda')
-
+    load_uncaf_international()
+    load_caribbean_international()
     
-    
-
-
-    return
-
-
-
-    #load_games_standard('mexico', 'domestic/country/mexico/super')
-    #load_games_standard('mexico', 'domestic/country/mexico/playoffs')
-
-    load_soccernet_league('mexico', 'mex.1')
-
 
 
 

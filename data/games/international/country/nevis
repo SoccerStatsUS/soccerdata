@@ -1,235 +1,250 @@
+BlockSource: http://www.rsssf.com/tabless/stkitts-intres.html
+Date-style: day first
 
-24/09/2006 Antigua/Barbuda     Antigua/Barbuda     L   0-1        3800 XIV Ccq/IX Gcq
-22/09/2006 Anguilla            Antigua/Barbuda     W   6-1         500 XIV Ccq/IX Gcq
-20/09/2006 Barbados            Antigua/Barbuda     D   1-1         300 XIV Ccq/IX Gcq
-25/02/2006 Fr. Saint Martin    St. Kitts/Nevis     W   6-1       -     Fr
-15/12/2004 Haiti               St. Kitts/Nevis     L   0-2        1000 XIII Ccq/VIII Gcq
-12/12/2004 Haiti               USA                 L   0-1        2500 XIII Ccq/VIII Gcq
-17/11/2004 Mexico              Mexico              L   0-8       12000 XVIII Wcq
-13/11/2004 Mexico              USA                 L   0-5       18312 XVIII Wcq
-04/11/2004 Antigua/Barbuda     St. Kitts/Nevis     W   2-0       -     XIII Ccq/VIII Gcq
-02/11/2004 St. Lucia           St. Kitts/Nevis     D   1-1       -     XIII Ccq/VIII Gcq
-31/10/2004 Montserrat          St. Kitts/Nevis     W   6-1       -     XIII Ccq/VIII Gcq
-13/10/2004 St. Vincent/Gren.   St. Kitts/Nevis     L   0-3         500 XVIII Wcq
-10/10/2004 Trinidad/Tobago     Trinidad/Tobago     L   1-5        7000 XVIII Wcq
-10/09/2004 St. Vincent/Gren.   St. Vincent/Gren.   L   0-1        4000 XVIII Wcq
-04/09/2004 Trinidad/Tobago     St. Kitts/Nevis     L   1-2        2800 XVIII wcq
-19/06/2004 Barbados            St. Kitts/Nevis     W   3-2        3500 XVIII Wcq
-13/06/2004 Barbados            Barbados            W   2-0        3700 XVIII Wcq
-02/06/2004 Northern Ireland    St. Kitts/Nevis     L   0-2        2000 Fr
-23/05/2004 St. Vincent/Gren.   St. Kitts/Nevis     W   3-2       -     Fr
-31/03/2004 US Virgin Islands   St. Kitts/Nevis     W   7-0         800 XVIII Wcq
-21/03/2004 Antigua/Barbuda     St. Kitts/Nevis     L   2-3       -     Fr
-20/03/2004 Br. Virgin Islands  St. Kitts/Nevis     W   4-0       -     Fr
-18/02/2004 US Virgin Islands   US Virgin Islands   W   4-0         225 XVIII Wcq
-31/01/2004 Antigua/Barbuda     Antigua/Barbuda     L   0-1       -     Fr
-02/08/2003 Trinidad/Tobago     St. Kitts/Nevis     L   1-2       -     St. Kitts Festival
-29/07/2003 Haiti               St. Kitts/Nevis     W   1-0       -     St. Kitts Festival
-15/11/2002 Trinidad/Tobago     Trinidad/Tobago     L   0-2        3500 VII Gcq
-13/11/2002 St. Lucia           Trinidad/Tobago     W   2-1       -     VII Gcq
-03/11/2002 Martinique          Martinique          L   1-2       -     Fr
-27/10/2002 Antigua/Barbuda     Antigua/Barbuda     D   1-1       -     Fr
-28/07/2002 Trinidad/Tobago     St. Kitts/Nevis     W   2-1         800 St. Kitts Festival
-27/07/2002 Barbados            St. Kitts/Nevis     W   3-0       -     St. Kitts Festival
-25/07/2002 Taiwan              St. Kitts/Nevis     W   3-0       -     St. Kitts Festival
-26/01/2002 Antigua/Barbuda     Antigua/Barbuda     W   2-1       -     Leeward Final
-25/01/2002 Fr. Saint Martin    Antigua/Barbuda     W   3-0       -     Leeward Sf
-19/01/2002 Grenada             St. Kitts/Nevis     D   1-1       -     Fr
-30/07/2001 Jamaica             St. Kitts/Nevis     D   0-0       -     St. Kitts Festival
-28/07/2001 Martinique          St. Kitts/Nevis     W   4-2       -     St. Kitts Festival
-20/05/2001 Surinam             Trinidad/Tobago     W   4-0         250 XII CARIBE Rd 1/VI Gcq
-18/05/2001 Cuba                Trinidad/Tobago     D   1-1         200 XII CARIBE Rd 1/VI Gcq
-16/05/2001 Haiti               Trinidad/Tobago     L   2-7         200 XII CARIBE Rd 1/VI Gcq
-06/05/2001 Puerto Rico         St. Kitts/Nevis     W   4-1       -     Fr
-05/05/2001 Puerto Rico         St. Kitts/Nevis     W   2-0       -     Fr
-04/03/2001 Antigua/Barbuda     Antigua/Barbuda     D   2-2       -     XII Ccq/VI Gcq
-01/03/2001 Dominican Republic  Antigua/Barbuda     W   2-1       -     XII Ccq/VI Gcq
-19/02/2001 St. Lucia           St. Kitts/Nevis     W   2-0       -     Fr
-21/01/2001 Antigua/Barbuda     St. Kitts/Nevis     W   2-0       -     Leeward Final
-22/04/2000 St. Vincent/Gren.   St. Kitts/Nevis     L   1-2        3500 XVII Wcq
-16/04/2000 St. Vincent/Gren.   St. Vincent/Gren.   L   0-1        5800 XVII Wcq
-21/03/2000 Turks & Caicos Is.  St. Kitts/Nevis     W   6-0        1000 XVII Wcq
-18/03/2000 Turks & Caicos Is.  St. Kitts/Nevis     W   8-0         853 XVII Wcq
-17/02/2000 Barbados            Barbados            L   0-1       -     Fr
-02/02/2000 St. Lucia           St. Kitts/Nevis     L   0-1       -     Fr
-14/11/1999 Antigua/Barbuda     Antigua/Barbuda     W   3-2       -     Leeward Final
-08/06/1999 Cuba                Trinidad/Tobago     L   0-2       -     XI CARIBE Rd 1/V Gcq
-06/06/1999 Haiti               Trinidad/Tobago     L   0-2       -     XI CARIBE Rd 1/V Gcq
-29/05/1999 Antigua/Barbuda     St. Kitts/Nevis     W   4-1       -     Fr
-20/04/1999 St. Lucia           St. Vincent/Gren.   W   4-3       -     XI Ccq/V Gcq
-18/04/1999 Martinique          St. Vincent/Gren.   L   1-2       -     XI Ccq/V Gcq
-17/04/1999 St. Vincent/Gren.   St. Vincent/Gren.   W   4-3       -     XI Ccq/V Gcq
-06/12/1998 Antigua/Barbuda     Sint Maarten        W   3-1       -     Leeward Final
-28/05/1998 Trinidad/Tobago     St. Kitts/Nevis     W   4-1       -     St. Kitts Festival
-05/04/1998 Guadeloupe          St. Kitts/Nevis     W   2-1       -     X Ccq/V Gcq
-03/04/1998 Dominica            St. Kitts/Nevis     L   1-2       -     X Ccq/V Gcq
-01/04/1998 Br. Virgin Islands  St. Kitts/Nevis     W   4-0       -     X Ccq/V Gcq
-05/03/1998 St. Vincent/Gren.   St. Vincent/Gren.   L   2-4       -     Fr
-03/03/1998 St. Lucia           St. Lucia           L   0-2       -     Fr
-01/03/1998 Barbados            Barbados            L   2-6       -     Fr
-16/11/1997 Antigua/Barbuda     St. Kitts/Nevis     W   2-0       -     Leeward Final
-29/10/1997 Jamaica             St. Kitts/Nevis     D   1-1       -     Fr
-04/10/1997 Cuba                St. Kitts/Nevis     L   0-2       -     IV Gcq
-13/07/1997 Trinidad/Tobago     Antigua/Barbuda     L   0-4       -     IX CARIBE Final/IV Gcq
-10/07/1997 Grenada             Antigua/Barbuda     W   2-1       -     IX CARIBE Sf   /IV Gcq
-08/07/1997 Trinidad/Tobago     St. Kitts/Nevis     L   0-3        2000 IX CARIBE Rd 1 /IV Gcq
-06/07/1997 Martinique          St. Kitts/Nevis     W   2-0       -     IX CARIBE Rd 1 /IV Gcq
-30/06/1996 St. Vincent/Gren.   St. Vincent/Gren.   D   0-0        2000 XVI Wcq
-23/06/1996 St. Vincent/Gren.   St. Kitts/Nevis     D   2-2        3000 XVI Wcq
-30/05/1996 Surinam             Trinidad/Tobago     D   1-1        2000 VIII CARIBE Rd 1/IV Gcq
-28/05/1996 Trinidad/Tobago     Trinidad/Tobago     L   1-5        7000 VIII CARIBE Rd 1/IV Gcq
-26/05/1996 Jamaica             Trinidad/Tobago     L   1-4        4000 VIII CARIBE Rd 1/IV Gcq
-19/05/1996 St. Lucia           St. Lucia           W   1-0         500 XVI Wcq
-05/05/1996 St. Lucia           St. Kitts/Nevis     W   5-1        1500 XVI Wcq
-31/03/1996 Sint Maarten        St. Kitts/Nevis     W   3-0       -     VIII Ccq/IV Gcq
-27/03/1996 Anguilla            St. Kitts/Nevis     W   8-0       -     VIII Ccq/IV Gcq
-06/12/1995 Jamaica             St. Kitts/Nevis     L   0-3       -     Fr
-21/05/1995 Antigua/Barbuda     Antigua/Barbuda     D   2-2(3-4p) -     VII Ccq/III Gcq
-30/04/1995 Antigua/Barbuda     St. Kitts/Nevis     D   1-1       -     VII Ccq/III Gcq
-26/03/1995 Sint Maarten        St. Kitts/Nevis     L   0-1       -     VII Ccq/III Gcq
-19/03/1995 Sint Maarten        Sint Maarten        W   2-0       -     VII Ccq/III Gcq
-12/03/1995 Barbados            Barbados            W   1-0       -     Fr
-25/02/1994 Dominica            St. Kitts/Nevis     L   2-3ASDET  -     VI Ccq
-23/02/1994 Montserrat          St. Kitts/Nevis     W   9-1       -     VI Ccq
-14/11/1993 Antigua/Barbuda     Antigua/Barbuda     L   0-3       -     Fr
-30/05/1993 Trinidad/Tobago     Jamaica             L   2-3       25467 V CARIBE 3-4 /II Gcq
-28/05/1993 Martinique          Jamaica             D   1-1(3-4p) 12569 V CARIBE Sf  /II Gcq
-25/05/1993 Sint Maarten        Jamaica             D   2-2       -     V CARIBE Rd 1/II Gcq
-23/05/1993 Puerto Rico         Jamaica             W   1-0       -     V CARIBE Rd 1/II Gcq
-21/05/1993 Jamaica             Jamaica             L   1-4       -     V CARIBBEAN Group A & II Gcq
-02/04/1993 Dominican Republic  St. Kitts/Nevis     D   2-2       -     V Ccq/II Gcq
-29/03/1993 Br. Virgin Islands  St. Kitts/Nevis     W   5-1       -     V Ccq /II Gcq
-18/04/1992 Antigua/Barbuda     St. Kitts/Nevis     L   0-1       -     IV Ccq
-17/04/1992 Montserrat          St. Kitts/Nevis     W  10-0       -     IV Ccq
-15/04/1992 Br. Virgin Islands  St. Kitts/Nevis     W   4-0       -     IV Ccq
-14/05/1991 Br. Virgin Islands  St. Kitts/Nevis     D   0-0       -     III Ccq/I Gcq
-12/05/1991 Cayman Islands      St. Kitts/Nevis     D   1-1       -     III Ccq/I Gcq
-??/06/1989 Trinidad/Tobago     Grenada             L   0-2       -     I Ccq
-??/06/1989 French Guyana       Grenada             W    -        -     I Ccq
-??/??/1985 Dominica            Dominica            W   1-0       -     OECS Tournament
-??/??/1985 Dominica            St. Kitts/Nevis     W   2-1       -     OECS Tournament
-??/??/1985 Antigua/Barbuda     Antigua/Barbuda     W   1-0       -     Leeward Final
-17/06/1979 Jamaica             St. Kitts/Nevis     L   1-2       -     CFU q
-03/06/1979 Jamaica             Jamaica             L   1-2       -     CFU q
+Season: 2006
+Competition: Caribbean Cup Qualifying
+24/09/2006; Saint Kitts and Nevis;   0-1; Antigua and Barbuda;     Antigua and Barbuda    ;        3800
+22/09/2006; Saint Kitts and Nevis;   6-1; Anguilla           ; Antigua and Barbuda    ;         500
+20/09/2006; Saint Kitts and Nevis;   1-1; Barbados           ; Antigua and Barbuda    ;         300
 
-Wcq               = World Cup Qualifier
-Gcq               = Gold Cup Qualifier
-CARIBE            = Shell Caribbean Cup/Copa Caribe/Digicel Championship
-Ccq               = Shell Caribbean Cup/Copa Caribe/Digicel Cup Qualifiers
-Fr                = Friendly International
-*                 = Unsure of status/not a full international
-XI                = Tournament Number
+Competition: Friendly
+25/02/2006; Saint Kitts and Nevis;   6-1; Saint Martin;    Saint Kitts and Nevis    ;
 
-All matches without a '*' from the results are included.
+Season: 2004
+Competition: Caribbean Cup Qualifying
+15/12/2004; Saint Kitts and Nevis;   0-2; Haiti        ;       Saint Kitts and Nevis    ;        1000
+12/12/2004; Saint Kitts and Nevis;   0-1; Haiti        ;       USA                ;        2500
 
-LAST UPDATE: 21/01/2007
+Competition: World Cup Qualifying
+17/11/2004; Saint Kitts and Nevis;   0-8; Mexico        ;      Mexico             ;       12000
+13/11/2004; Saint Kitts and Nevis;   0-5; Mexico        ;      USA                ;       18312
 
-OVERALL [by Country]
+Competition: Caribbean Cup Qualifying
+04/11/2004; Saint Kitts and Nevis;   2-0; Antigua and Barbuda;     Saint Kitts and Nevis
+02/11/2004; Saint Kitts and Nevis;   1-1; Saint Lucia        ;   Saint Kitts and Nevis    
+31/10/2004; Saint Kitts and Nevis;   6-1; Montserrat         ; Saint Kitts and Nevis    
 
-COUNTRY                    PLD  WON  DRW  LST  SCR  CON  SUCCESS
-ANGUILLA                     2    2    0    0   14    1  100.00%
-ANTIGUA & BARBUDA           17    8    4    5   27   20   58.82%
-BARBADOS                     7    4    1    2   12   10   56.25%
-BRITISH VIRGIN ISLANDS       5    4    1    0   17    1   90.00%
-CAYMAN ISLANDS               1    0    1    0    1    1   50.00%
-CUBA                         3    0    1    2    1    5   16.67%
-DOMINICA                     4    2    0    2    6    6   50.00%
-DOMINICAN REPUBLIC           2    1    1    0    4    3   75.00%
-FRENCH GUYANA                1    1    0    0    -    -  100.00%
-FRENCH SAINT MARTIN          2    2    0    0    9    1  100.00%
-GRENADA                      2    1    1    0    3    2   75.00%
-GUADELOUPE                   1    1    0    0    2    1  100.00%
-HAITI                        5    1    0    4    3   12   20.00%
-JAMAICA                      7    0    2    5    5   16   14.29%
-MARTINIQUE                   5    2    1    2    9    7   50.00%
-MEXICO                       2    0    0    2    0   13   00.00%
-MONTSERRAT                   3    3    0    0   25    2  100.00%
-NORTHERN IRELAND             1    0    0    1    0    2   00.00%
-PUERTO RICO                  3    3    0    0    7    1  100.00%
-SAINT LUCIA                  8    5    1    2   15    9   68.75%
-SINT MAARTEN                 4    2    1    1    7    3   62.50%
-SAINT VINCENT/GRENADINES     9    2    2    5   12   18   33.33%
-SURINAM                      2    1    1    0    5    1   75.00%
-TAIWAN                       1    1    0    0    3    0  100.00%
-TRINIDAD/TOBAGO             11    2    0    9   12   30   18.18%
-TURKS & CAICOS ISLANDS       2    2    0    0   14    0  100.00%
-US VIRGIN ISLANDS            2    2    0    0   11    0  100.00%
+Competition: World Cup Qualifying
+13/10/2004; Saint Kitts and Nevis;   0-3; Saint Vincent and the Grenadines;   Saint Kitts and Nevis    ;         500
+10/10/2004; Saint Kitts and Nevis;   1-5; Trinidad and Tobago;     Trinidad and Tobago    ;        7000
+10/09/2004; Saint Kitts and Nevis;   0-1; Saint Vincent and the Grenadines;   Saint Vincent and the Grenadines  ;        4000
+04/09/2004; Saint Kitts and Nevis;   1-2; Trinidad and Tobago;     Saint Kitts and Nevis    ;        2800
+19/06/2004; Saint Kitts and Nevis;   3-2; Barbados      ;      Saint Kitts and Nevis    ;        3500
+13/06/2004; Saint Kitts and Nevis;   2-0; Barbados      ;      Barbados           ;        3700
 
-TOTAL                      112   52   18   42  224  168   54.46%
+Competition: Friendly
+02/06/2004; Saint Kitts and Nevis;   0-2; Northern Ireland;    Saint Kitts and Nevis    ;        2000
+23/05/2004; Saint Kitts and Nevis;   3-2; Saint Vincent and the Grenadines;   Saint Kitts and Nevis    
 
-OVERALL [by Year]
+Competition: World Cup Qualifying
+31/03/2004; Saint Kitts and Nevis;   7-0; US Virgin Islands;   Saint Kitts and Nevis    ;         800
 
-                           PLD  WON  DRW  LST  SCR  CON  SUCCESS
-2006                         4    2    1    1   13    4   62.50%
-2004                        20    8    1   11   36   39   42.50%
-2003                         2    1    0    1    2    2   50.00%
-2002                        10    6    2    2   18    9   70.00%
-2001                        11    7    3    1   25   14   77.27%
-2000                         6    2    0    4   14    5   33.33%
-1999                         7    4    0    3   16   15   57.14%
-1998                         8    4    0    4   18   17   50.00%
-1997                         7    3    1    3    7   11   50.00%
-1996                         9    4    3    2   22   13   61.11%
-1995                         6    2    2    2    6    7   50.00%
-1994                         2    1    0    1   11    4   50.00%
-1993                         8    2    3    3   14   16   43.75%
-1992                         3    2    0    1   14    1   66.67%
-1991                         2    0    2    0    1    1   50.00%
-1989                         1    0    0    1    0    2   00.00%
-1985                         3    3    0    0    4    1  100.00%
-1979                         2    0    0    2    2    4   00.00%
+Competition: Friendly
+21/03/2004; Saint Kitts and Nevis;   2-3; Antigua and Barbuda;     Saint Kitts and Nevis    
+20/03/2004; Saint Kitts and Nevis;   4-0; British Virgin Islands;  Saint Kitts and Nevis    ;  
 
-COMPETITIVE SUMMARY:       PLD  WON  DRW  LST  SCR  CON  SUCCESS
+Competition: World Cup Qualifying
+18/02/2004; Saint Kitts and Nevis;   4-0; US Virgin Islands;   US Virgin Islands  ;         225
 
-World Cup Finals             -    -    -    -    -    -   --.--%
-World Cup Quals (H)          9    5    1    3   33   12   61.11%
-World Cup Quals (A)          9    3    1    5    8   20   38.89%
+Competition: Friendly
+31/01/2004; Saint Kitts and Nevis;   0-1; Antigua and Barbuda;     Antigua and Barbuda 
 
-WORLD CUP TOTAL             18    8    2    8   41   32   50.00%
+Season: 2003
+Competition: St. Kitts Festival
+02/08/2003; Saint Kitts and Nevis;   1-2; Trinidad and Tobago;     Saint Kitts and Nevis    
+29/07/2003; Saint Kitts and Nevis;   1-0; Haiti              ; Saint Kitts and Nevis    
 
-CCCF/Concacaf/Gold Finals    -    -    -    -    -    -   --.--%
-CCCF/Concacaf/Gold Quals(H) 20    9    5    6   41   23   57.50%
-CCCF/Concacaf/Gold Quals(A) 26    8    7   11   43   52   44.23%
+Season: 2002
+Competition: Gold Cup Qualifying
+15/11/2002; Saint Kitts and Nevis;   0-2; Trinidad and Tobago;     Trinidad and Tobago    ;        3500
+13/11/2002; Saint Kitts and Nevis;   2-1; Saint Lucia        ;   Trinidad and Tobago  
 
-CCCF/CONCACAF/GOLD Total    46   17   12   17   84   75   50.00%
+Competition: Friendly
+03/11/2002; Saint Kitts and Nevis;   1-2; Martinique         ; Martinique         
+27/10/2002; Saint Kitts and Nevis;   1-1; Antigua and Barbuda;     Antigua and Barbuda 
 
-COMPETITIVE TOTAL           64   25   14   25  125  107   50.00%
+Competition: St. Kitts Festival
+28/07/2002; Saint Kitts and Nevis;   2-1; Trinidad and Tobago;     Saint Kitts and Nevis    ;         800 
+27/07/2002; Saint Kitts and Nevis;   3-0; Barbados           ; Saint Kitts and Nevis    ;
+25/07/2002; Saint Kitts and Nevis;   3-0; Taiwan             ; Saint Kitts and Nevis    ;
 
-nb:
-Concacaf/Gold Qualifiers include Copa Caribe 1998 & 1996
-Concacaf Championships 1973-1989 included as World Cup qualifiers only.
+Competition: Leeward Islands Championship
+26/01/2002; Saint Kitts and Nevis;   2-1; Antigua and Barbuda;     Antigua and Barbuda
+25/01/2002; Saint Kitts and Nevis;   3-0; Saint Martin;    Antigua and Barbuda    
 
-INTERNATIONAL STATS
+Competition: Friendly
+19/01/2002; Saint Kitts and Nevis;   1-1; Grenada      ;       Saint Kitts and Nevis    
 
-WORLD CUP     - Tournaments = 18, Entered =  4, Qualified =  0, Best = N/A.
-GOLD CUP      - Tournaments =  9, Entered =  9, Qualified =  0, Best = N/A.
-CONCACAF      - Tournaments =  5, Entered =  0, Qualified =  0, Best = N/A.
-CCCF          - Tournaments = 10, Entered =  0.                 Best = N/A.
-CARIBBEAN CUP - Tournaments = 14, Entered = 13, Qualified =  5, Best = Runners Up [1997].
+Season: 2001
+Competition: St. Kitts Festival
+30/07/2001; Saint Kitts and Nevis;   0-0; Jamaica      ;       Saint Kitts and Nevis    
+28/07/2001; Saint Kitts and Nevis;   4-2; Martinique   ;       Saint Kitts and Nevis    
 
-Highest Win   - (10-0) v Montserrat 1992 Ccq in St. Kitts & Nevis.
-Highest Loss  - (0-8)  v Mexico     2004 Wcq in Mexico.
+Competition: Copa Caribe
+20/05/2001; Saint Kitts and Nevis;   4-0; Surinam      ;       Trinidad and Tobago    ;         250
+18/05/2001; Saint Kitts and Nevis;   1-1; Cuba         ;       Trinidad and Tobago    ;         200
+16/05/2001; Saint Kitts and Nevis;   2-7; Haiti        ;       Trinidad and Tobago    ;         200
+
+Competition: Friendly
+06/05/2001; Saint Kitts and Nevis;   4-1; Puerto Rico   ;      Saint Kitts and Nevis    ; 
+05/05/2001; Saint Kitts and Nevis;   2-0; Puerto Rico   ;      Saint Kitts and Nevis    ; 
+
+Competition: Caribbean Cup Qualifying
+04/03/2001; Saint Kitts and Nevis;   2-2; Antigua and Barbuda;     Antigua and Barbuda
+01/03/2001; Saint Kitts and Nevis;   2-1; Dominican Republic ; Antigua and Barbuda    
+
+Competition: Friendly
+19/02/2001; Saint Kitts and Nevis;   2-0; Saint Lucia       ;    Saint Kitts and Nevis    ;   
+
+Competition: Leeward Islands Championship
+21/01/2001; Saint Kitts and Nevis;   2-0; Antigua and Barbuda;     Saint Kitts and Nevis    
+
+Season: 2000
+Competition: World Cup Qualifying
+22/04/2000; Saint Kitts and Nevis;   1-2; Saint Vincent and the Grenadines;   Saint Kitts and Nevis    ;        3500 
+16/04/2000; Saint Kitts and Nevis;   0-1; Saint Vincent and the Grenadines;   Saint Vincent and the Grenadines  ;        5800 
+21/03/2000; Saint Kitts and Nevis;   6-0; Turks and Caicos;  Saint Kitts and Nevis    ;        1000 
+18/03/2000; Saint Kitts and Nevis;   8-0; Turks and Caicos;  Saint Kitts and Nevis    ;         853 
+
+Competition: Friendly
+17/02/2000; Saint Kitts and Nevis;   0-1; Barbados         ;   Barbados           
+02/02/2000; Saint Kitts and Nevis;   0-1; Saint Lucia      ;     Saint Kitts and Nevis    
+
+Season: 1999
+Competition: Leeward Islands Championship
+14/11/1999; Saint Kitts and Nevis;   3-2; Antigua and Barbuda;     Antigua and Barbuda    
+
+Competition: Copa Caribe
+08/06/1999; Saint Kitts and Nevis;   0-2; Cuba               ; Trinidad and Tobago    
+06/06/1999; Saint Kitts and Nevis;   0-2; Haiti              ; Trinidad and Tobago    
+
+Competition: Friendly
+29/05/1999; Saint Kitts and Nevis;   4-1; Antigua and Barbuda;     Saint Kitts and Nevis
+
+Competition: Caribbean Cup Qualifying
+20/04/1999; Saint Kitts and Nevis;   4-3; Saint Lucia        ;   Saint Vincent and the Grenadines  
+18/04/1999; Saint Kitts and Nevis;   1-2; Martinique         ; Saint Vincent and the Grenadines  
+17/04/1999; Saint Kitts and Nevis;   4-3; Saint Vincent and the Grenadines;   Saint Vincent and the Grenadines  
+
+Season: 1998
+Competition: Leeward Islands Championship
+06/12/1998; Saint Kitts and Nevis;   3-1; Antigua and Barbuda;     Sint Maarten   
+
+Competition: St. Kitts Festival
+28/05/1998; Saint Kitts and Nevis;   4-1; Trinidad and Tobago;     Saint Kitts and Nevis    
+
+Competition: Caribbean Cup Qualifying
+05/04/1998; Saint Kitts and Nevis;   2-1; Guadeloupe         ; Saint Kitts and Nevis    
+03/04/1998; Saint Kitts and Nevis;   1-2; Dominica           ; Saint Kitts and Nevis    
+01/04/1998; Saint Kitts and Nevis;   4-0; British Virgin Islands;  Saint Kitts and Nevis    
+
+Competition: Friendly
+05/03/1998; Saint Kitts and Nevis;   2-4; Saint Vincent and the Grenadines;   Saint Vincent and the Grenadines  
+03/03/1998; Saint Kitts and Nevis;   0-2; Saint Lucia    ;       Saint Lucia          
+01/03/1998; Saint Kitts and Nevis;   2-6; Barbados       ;     Barbados           
+
+Season: 1997
+Competition: Leeward Islands Championship
+16/11/1997; Saint Kitts and Nevis;   2-0; Antigua and Barbuda;     Saint Kitts and Nevis
+
+Competition: Friendly
+29/10/1997; Saint Kitts and Nevis;   1-1; Jamaica       ;      Saint Kitts and Nevis    
+
+Competition: Gold Cup Qualifying
+04/10/1997; Saint Kitts and Nevis;   0-2; Cuba          ;      Saint Kitts and Nevis    
+
+Competition: Copa Caribe
+13/07/1997; Saint Kitts and Nevis;   0-4; Trinidad and Tobago;     Antigua and Barbuda
+10/07/1997; Saint Kitts and Nevis;   2-1; Grenada            ; Antigua and Barbuda
+08/07/1997; Saint Kitts and Nevis;   0-3; Trinidad and Tobago;     Saint Kitts and Nevis    ;        2000
+06/07/1997; Saint Kitts and Nevis;   2-0; Martinique        ;  Saint Kitts and Nevis    
+
+Season: 1996
+Competition: World Cup Qualifying
+30/06/1996; Saint Kitts and Nevis;   0-0; Saint Vincent and the Grenadines;   Saint Vincent and the Grenadines  ;        2000
+23/06/1996; Saint Kitts and Nevis;   2-2; Saint Vincent and the Grenadines;   Saint Kitts and Nevis    ;        3000
+
+Competition: Copa Caribe
+30/05/1996; Saint Kitts and Nevis;   1-1; Surinam            ; Trinidad and Tobago    ;        2000
+28/05/1996; Saint Kitts and Nevis;   1-5; Trinidad and Tobago;     Trinidad and Tobago    ;        7000
+26/05/1996; Saint Kitts and Nevis;   1-4; Jamaica            ; Trinidad and Tobago    ;        4000
+
+Competition: World Cup Qualifying
+19/05/1996; Saint Kitts and Nevis;   1-0; Saint Lucia        ;   Saint Lucia          ;         500
+05/05/1996; Saint Kitts and Nevis;   5-1; Saint Lucia        ;   Saint Kitts and Nevis    ;        1500
+
+Competition: Copa Caribe Qualifying
+31/03/1996; Saint Kitts and Nevis;   3-0; Sint Maarten     ;   Saint Kitts and Nevis    ;     
+27/03/1996; Saint Kitts and Nevis;   8-0; Anguilla         ;   Saint Kitts and Nevis    ;     
+
+Season: 1995
+Competition: Friendly
+06/12/1995; Saint Kitts and Nevis;   0-3; Jamaica          ;   Saint Kitts and Nevis    ;     
+
+Competition: Copa Caribe Qualifying
+21/05/1995; Saint Kitts and Nevis;   2-2; Antigua and Barbuda;     Antigua and Barbuda    
+* (3-4p)
+30/04/1995; Saint Kitts and Nevis;   1-1; Antigua and Barbuda;     Saint Kitts and Nevis
+26/03/1995; Saint Kitts and Nevis;   0-1; Sint Maarten    ;    Saint Kitts and Nevis    
+19/03/1995; Saint Kitts and Nevis;   2-0; Sint Maarten    ;    Sint Maarten       
+
+Competition: Friendly
+12/03/1995; Saint Kitts and Nevis;   1-0; Barbados        ;    Barbados           
+
+Season: 1994
+Competition: Copa Caribe Qualifying
+25/02/1994; Saint Kitts and Nevis;   2-3 (asdet); Dominica;            Saint Kitts and Nevis 
+23/02/1994; Saint Kitts and Nevis;   9-1; Montserrat      ;    Saint Kitts and Nevis    
+
+Season: 1993
+Competition: Friendly
+14/11/1993; Saint Kitts and Nevis;   0-3; Antigua and Barbuda;     Antigua and Barbuda  
+
+Competition: Copa Caribe
+30/05/1993; Saint Kitts and Nevis;   2-3; Trinidad and Tobago;     Jamaica            ;       25467
+28/05/1993; Saint Kitts and Nevis;   1-1; Martinique         ; Jamaica            ; 12569
+* (3-4p)
+25/05/1993; Saint Kitts and Nevis;   2-2; Sint Maarten      ;  Jamaica            
+23/05/1993; Saint Kitts and Nevis;   1-0; Puerto Rico       ;  Jamaica            
+21/05/1993; Saint Kitts and Nevis;   1-4; Jamaica           ;  Jamaica            
+
+Competition: Copa Caribe Qualifying
+02/04/1993; Saint Kitts and Nevis;   2-2; Dominican Republic ; Saint Kitts and Nevis    
+29/03/1993; Saint Kitts and Nevis;   5-1; British Virgin Islands;  Saint Kitts and Nevis    
+18/04/1992; Saint Kitts and Nevis;   0-1; Antigua and Barbuda   ;  Saint Kitts and Nevis
+
+Season: 1992
+17/04/1992; Saint Kitts and Nevis;  10-0; Montserrat         ; Saint Kitts and Nevis    
+15/04/1992; Saint Kitts and Nevis;   4-0; British Virgin Islands;  Saint Kitts and Nevis    
+
+Season: 1991
+14/05/1991; Saint Kitts and Nevis;   0-0; British Virgin Islands;  Saint Kitts and Nevis    
+12/05/1991; Saint Kitts and Nevis;   1-1; Cayman Islands  ;    Saint Kitts and Nevis    
+
+Season: 1989
+*??/06/1989; Saint Kitts and Nevis;   0-2; Trinidad and Tobago;     Grenada           
+*??/06/1989; Saint Kitts and Nevis;   ?-?; French Guyana     ;  Grenada           
+
+Season: 1985
+Competition: OECS Tournament
+*??/??/1985; Saint Kitts and Nevis;   1-0; Dominica;            Dominica          
+*??/??/1985; Saint Kitts and Nevis;   2-1; Dominica;            Saint Kitts and Nevis   
+
+Competition: Leeward Islands Championship
+*??/??/1985; Saint Kitts and Nevis;   1-0; Antigua and Barbuda;     Antigua and Barbuda 
+
+Season: 1979
+Competition: CFU Qualifying
+17/06/1979; Saint Kitts and Nevis;   1-2; Jamaica;             Saint Kitts and Nevis
+03/06/1979; Saint Kitts and Nevis;   1-2; Jamaica;             Jamaica        
 
 
+* Nevis matches thanks to Hans Schöggl
 
-Nevis - International Matches
+* Prepared and maintained by Barrie Courtney for the Rec.Sport.Soccer Statistics Foundation
 
+* Author: Barrie Courtney (BzCourtney@aol.com)
+* Last updated: 17 Aug 2007
 
-10/11/1996        Nevis            2-0        Montserrat
-15/11/1997        St Kitts         6-1        Nevis
- ?/11/1999        Nevis            2-2        British Virgin Islands (BVI)
- ?/11/1999        BVI              2-0        Nevis
-29/ 6/2003        Anguilla         4-1        Nevis
-
-Details World Cup Qualifiers
-About this document
-
-Nevis matches thanks to Hans Schöggl
-
-Prepared and maintained by Barrie Courtney for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Barrie Courtney (BzCourtney@aol.com)
-Last updated: 17 Aug 2007
-
-(C) Copyright Barrie Courtney and RSSSF 2001/07
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved. 
+* (C) Copyright Barrie Courtney and RSSSF 2001/07
+* You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved. 

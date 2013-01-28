@@ -5,6 +5,16 @@
 aliases = {}
 
 full_alias = {
+
+    'CONCACAF Nations Cup': 'CONCACAF Championship',
+    'Confederations Cup': 'FIFA Confederations Cup',
+    'Panamerican Games': 'Pan American Gmaes',
+    'Panamerican Games Qualifying': 'Pan American Games Qualifying',
+    'South American Championship': 'Copa America',
+
+    'Copa Caribe': 'Caribbean Cup',
+    'Copa Caribe Qualifying': 'Caribbean Cup Qualifying',
+
     'UNCAF Cup': 'Copa Centroamericana',
     'UNCAF Nations Cup': 'Copa Centroamericana',
 

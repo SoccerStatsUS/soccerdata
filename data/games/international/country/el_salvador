@@ -1,481 +1,871 @@
+
+BlockSource: http://www.rsssf.com/tablese/elsal-intres.html
 * Need to add back aet, pk notes.
-26/07/2008; El Salvador; 0-0; Jamaica           ;  USA                ; 11482 Fr
-20/07/2008; El Salvador; 0-0; Guatemala         ;  USA                ; 40000 Fr
-22/06/2008; El Salvador; 3-1; Panama            ;  El Salvador        ; 27420 XIV Wcq
-15/06/2008; El Salvador; 0-1; Panama            ;  Panama             ; 22150 XIV Wcq
-30/05/2008; El Salvador; 0-0; Guatemala         ;  USA                ; 38759 Fr
-23/04/2008; El Salvador; 2-2; China             ;  USA                ; 16530 Fr
-26/03/2008; El Salvador; 4-0; Anguilla          ;  USA                ; 22670 XIV Wcq
-23/03/2008; El Salvador; 0-1; Venezuela         ;  Venezuela          ; -     Fr
-19/03/2008; El Salvador; 0-1; Trinidad & Tobago ;  Trinidad & Tobago  ;  2000 Fr
-06/02/2008; El Salvador; 12-0; Anguilla         ;   El Salvador       ;15000 XIV Wcq
-29/01/2008; El Salvador; 0-0; Haiti             ;  Haiti              ; -     Fr
-26/01/2008; El Salvador; 0-0; Haiti             ;  Haiti              ; -     Fr
-22/01/2008; El Salvador; 1-0; Belize            ;  Belize             ; -     Fr
-18/11/2007; El Salvador; 0-3; Jamaica           ;  Jamaica            ; 15000 Fr
-17/10/2007; El Salvador; 0-0; Trinidad & Tobago ;  El Salvador        ; 13000 Fr
-13/10/2007; El Salvador; 2-2; Costa Rica        ;  El Salvador        ; -     Fr
-08/09/2007; El Salvador; 1-5; Ecuador           ;  Ecuador            ;  8000 Fr
-22/08/2007; El Salvador; 2-0; Honduras          ;  El Salvador        ; 20000 Fr
-12/06/2007; El Salvador; 0-4; USA               ;  USA                ; 26523 IX GOLD Rd 1
-09/06/2007; El Salvador; 0-1; Guatemala         ;  USA                ; 27000 IX GOLD Rd 1
-07/06/2007; El Salvador; 2-1; Trinidad/Tobago   ;  USA                ; 21344 IX GOLD Rd 1
-17/04/2007; El Salvador; 0-1; Haiti             ;  El Salvador        ; -     Fr
-27/03/2007; El Salvador; 0-2; Honduras          ;  USA                ;  8365 Fr
-24/03/2007; El Salvador; 0-2; Honduras          ;  USA                ; 17095 Fr
-18/02/2007; El Salvador; 0-1; Guatemala         ;  El Salvador        ;  1552 IX UNCAF 3-4 /IX Gcq
-16/02/2007; El Salvador; 0-2; Costa Rica        ;  El Salvador        ; 29293 IX UNCAF Sf  /IX Gcq
-12/02/2007; El Salvador; 0-0; Guatemala         ;  El Salvador        ; 15432 IX UNCAF Rd 1/IX Gcq
-10/02/2007; El Salvador; 2-1; Nicaragua         ;  El Salvador        ;  8106 IX UNCAF Rd 1/IX Gcq
-08/02/2007; El Salvador; 2-1; Belize            ;  El Salvador        ; 12857 IX UNCAF Rd 1/IX Gcq
-25/01/2007; El Salvador; 1-0; Denmark           ;  El Salvador        ; 18000 Fr
-29/11/2006; El Salvador; 0-0; Panama            ;  El Salvador        ; 10000 Fr
-15/11/2006; El Salvador; 1-5; Bolivia           ;  Bolivia            ; 25000 Fr
-07/10/2006; El Salvador; 0-1; Panama            ;  Panama             ;  3000 Fr
-06/09/2006; El Salvador; 0-2; Honduras          ;  Honduras           ;  7000 Fr
-17/08/2005; El Salvador; 0-3; Paraguay          ;  Paraguay           ; 12000 Fr
-21/02/2005; El Salvador; 1-2; Costa Rica        ;  Guatemala          ;  3000 VIII UNCAF Rd 1/VIII Gcq
-19/02/2005; El Salvador; 0-1; Panama            ;  Guatemala          ; 10000 VIII UNCAF Rd 1/VIII Gcq
-17/11/2004; El Salvador; 0-3; Panama            ;  Panama             ;  9502 XVIII Wcq
-13/10/2004; El Salvador; 0-0; Jamaica           ;  Jamaica            ; 12000 XVIII Wcq
-09/10/2004; El Salvador; 0-2; USA               ;  El Salvador        ; 20000 XVIII Wcq
-08/09/2004; El Salvador; 0-3; Jamaica           ;  El Salvador        ; 25000 XVIII Wcq
-04/09/2004; El Salvador; 0-2; USA               ;  USA                ; 25266 XVIII Wcq
-18/08/2004; El Salvador; 2-1; Panama            ;  El Salvador        ; 11400 XVIII Wcq
-06/08/2004; El Salvador; 0-2; Guatemala         ;  USA                ; 20000 Fr
-03/08/2004; El Salvador; 0-4; Honduras          ;  El Salvador        ; -     Fr
-18/07/2004; El Salvador; 0-1; Guatemala         ;  USA                ; -     Fr
-20/06/2004; El Salvador; 2-2; Bermuda           ;  Bermuda            ;  4000 XVIII Wcq
-13/06/2004; El Salvador; 2-1; Bermuda           ;  El Salvador        ; 12000 XVIII Wcq
-12/05/2004; El Salvador; 3-3; Haiti             ;  USA                ;  4000 Fr
-28/04/2004; El Salvador; 0-2; Colombia          ;  USA                ; 23000 Fr
-31/03/2004; El Salvador; 0-3; Guatemala         ;  El Salvador        ;  5047 Fr
-28/01/2004; El Salvador; 1-1; Panama            ;  El Salvador        ; -     Fr
-16/11/2003; El Salvador; 0-3; Jamaica           ;  Jamaica            ; 12000 Fr
-19/07/2003; El Salvador; 2-5; Costa Rica        ;  USA                ; 15627 VII GOLD Qf
-16/07/2003; El Salvador; 1-0; Martinique        ;  USA                ; 10361 VII GOLD Rd 1
-12/07/2003; El Salvador; 0-2; USA               ;  USA                ; 33652 VII GOLD Rd 1
-08/07/2003; El Salvador; 1-2; Guatemala         ;  USA                ; 21047 Fr
-06/07/2003; El Salvador; 2-1; Mexico            ;  USA                ; 19271 Fr
-02/07/2003; El Salvador; 0-1; Paraguay          ;  USA                ; 20000 Fr
-29/06/2003; El Salvador; 1-1; Honduras          ;  Honduras           ;  5000 Fr
-20/02/2003; El Salvador; 0-2; Guatemala         ;  Panama             ;   500 VII UNCAF/VII Gcq
-15/02/2003; El Salvador; 1-0; Honduras          ;  Panama             ;   600 VII UNCAF/VII Gcq
-13/02/2003; El Salvador; 1-0; Nicaragua         ;  Panama             ; -     VII UNCAF/VII Gcq
-11/02/2003; El Salvador; 0-1; Costa Rica        ;  Panama             ;   500 VII UNCAF/VII Gcq
-09/02/2003; El Salvador; 2-1; Panama            ;  Panama             ;  8000 VII UNCAF/VII Gcq
-19/01/2003; El Salvador; 0-0; Guatemala         ;  USA                ;  6000 Fr
-17/01/2003; El Salvador; 0-0; Guatemala         ;  USA                ;  6000 Fr
-17/11/2002; El Salvador; 0-2; USA               ;  USA                ; 13950 Fr
-27/01/2002; El Salvador; 0-4; USA               ;  USA                ; 31628 VI GOLD Qf
-23/01/2002; El Salvador; 1-0; Guatemala         ;  USA                ; 12906 VI GOLD Rd 1
-19/01/2002; El Salvador; 0-1; Mexico            ;  USA                ; 42117 VI GOLD Rd 1
-15/12/2001; El Salvador; 0-0; Haiti             ;  USA                ;  7225 Fr
-31/10/2001; El Salvador; 1-4; Mexico            ;  Mexico             ; 35000 Fr
-02/07/2001; El Salvador; 0-1; Ecuador           ;  USA                ; 35891 Fr
-03/06/2001; El Salvador; 1-1; Costa Rica        ;  Honduras           ;   396 VI UNCAF/VI Gcq
-01/06/2001; El Salvador; 1-1; Panama            ;  Honduras           ;   104 VI UNCAF/VI Gcq
-30/05/2001; El Salvador; 0-0; Guatemala         ;  Honduras           ;   160 VI UNCAF/VI Gcq
-27/05/2001; El Salvador; 1-1; Honduras          ;  Honduras           ; -     VI UNCAF Rd 1/VI Gcq
-25/05/2001; El Salvador; 2-1; Panama            ;  Honduras           ;  1032 VI UNCAF Rd 1/VI Gcq
-23/05/2001; El Salvador; 3-0; Nicaragua         ;  Honduras           ;    50 VI UNCAF Rd 1/VI Gcq
-14/03/2001; El Salvador; 0-1; Panama            ;  Panama             ; -     Fr
-06/03/2001; El Salvador; 1-1; Guatemala         ;  Guatemala          ;   500 Fr
-15/11/2000; El Salvador; 2-0; Jamaica           ;  El Salvador        ;  3400 XVII Wcq
-08/10/2000; El Salvador; 2-1; St. Vincent/Gren. ;  St. Vincent/Gren.  ;  3500 XVII Wcq
-02/09/2000; El Salvador; 0-5; Honduras          ;  Honduras           ; 35000 XVII Wcq
-16/08/2000; El Salvador; 0-1; Jamaica           ;  Jamaica            ; 20000 XVII Wcq
-06/08/2000; El Salvador; 1-2; Haiti             ;  USA                ;  5000 Fr
-23/07/2000; El Salvador; 7-1; St. Vincent/Gren. ;  El Salvador        ; 30000 XVII Wcq
-16/07/2000; El Salvador; 2-5; Honduras          ;  El Salvador        ; 36000 XVII Wcq
-07/07/2000; El Salvador; 0-1; Guatemala         ;  USA                ; 18152 Fr
-01/07/2000; El Salvador; 0-3; Mexico            ;  USA                ; -     Fr
-07/05/2000; El Salvador; 1-1; Guatemala         ;  El Salvador        ; 35000 XVII Wcq
-16/04/2000; El Salvador; 3-1; Belize            ;  Belize             ;  4000 XVII Wcq
-02/04/2000; El Salvador; 1-0; Guatemala         ;  Guatemala          ; 29740 XVII Wcq
-28/03/2000; El Salvador; 3-1; Haiti             ;  El Salvador        ;  4000 Fr
-05/03/2000; El Salvador; 5-0; Belize            ;  El Salvador        ; 14567 XVII Wcq
-29/02/2000; El Salvador; 3-1; Panama            ;  El Salvador        ;  5000 Fr
-16/02/2000; El Salvador; 1-4; Panama            ;  Panama             ; -     Fr
-09/02/2000; El Salvador; 1-5; Honduras          ;  Honduras           ; 11000 Fr
-10/10/1999; El Salvador; 1-3; Cuba              ;  USA                ;  3605 V Gcq
-08/10/1999; El Salvador; 1-2; Canada            ;  USA                ;  6507 V Gcq
-06/10/1999; El Salvador; 1-1; Haiti             ;  USA                ;  6583 V Gcq
-20/08/1999; El Salvador; 0-3; Greece            ;  Greece             ;  3000 Fr
-18/08/1999; El Salvador; 1-3; Greece            ;  Greece             ;  2500 Fr
-28/07/1999; El Salvador; 0-2; Guatemala         ;  USA                ; -     Fr
-29/05/1999; El Salvador; 2-1; Colombia          ;  USA                ; 43192 Fr
-28/03/1999; El Salvador; 0-4; Costa Rica        ;  Costa Rica         ; 10000 V UNCAF/V Gcq
-26/03/1999; El Salvador; 0-1; Guatemala         ;  Costa Rica         ;  7000 V UNCAF/V Gcq
-24/03/1999; El Salvador; 1-3; Honduras          ;  Costa Rica         ;  5000 V UNCAF/V Gcq
-21/03/1999; El Salvador; 1-0; Nicaragua         ;  Costa Rica         ; 19105 V UNCAF Rd 1/V Gcq
-19/03/1999; El Salvador; 1-1; Guatemala         ;  Costa Rica         ; -     V UNCAF Rd 1/V Gcq
-18/11/1998; El Salvador; 1-2; Honduras          ;  USA                ; 27891 Hurricane 3-4
-17/11/1998; El Salvador; 0-2; Mexico            ;  USA                ; 35000 Hurricane Sf
-09/02/1998; El Salvador; 0-2; Jamaica           ;  USA                ;  5791 IV GOLD Rd 1
-08/02/1998; El Salvador; 0-4; Brazil            ;  USA                ; 55027 IV GOLD Rd 1
-01/02/1998; El Salvador; 0-0; Guatemala         ;  USA                ; 26391 IV GOLD Rd 1
-29/01/1998; El Salvador; 1-1; Honduras          ;  El Salvador        ; 30000 Fr
-21/01/1998; El Salvador; 2-0; Trinidad/Tobago   ;  El Salvador        ; -     Fr
-16/11/1997; El Salvador; 2-4; USA               ;  USA                ; 53193 XVI Wcq
-09/11/1997; El Salvador; 2-2; Jamaica           ;  El Salvador        ; 34200 XVI Wcq
-05/10/1997; El Salvador; 0-5; Mexico            ;  Mexico             ;115000 XVI Wcq
-24/09/1997; El Salvador; 0-1; Guatemala         ;  USA                ; 30000 Fr
-14/09/1997; El Salvador; 4-1; Canada            ;  El Salvador        ; 27767 XVI Wcq
-07/09/1997; El Salvador; 2-2; Colombia          ;  USA                ; 25000 Fr
-10/08/1997; El Salvador; 0-0; Costa Rica        ;  Costa Rica         ; 18316 XVI Wcq
-29/06/1997; El Salvador; 1-1; USA               ;  El Salvador        ; 29000 XVI Wcq
-08/06/1997; El Salvador; 0-1; Mexico            ;  El Salvador        ; 40000 XVI Wcq
-28/05/1997; El Salvador; 0-2; Ecuador           ;  El Salvador        ;  8000 Fr
-18/05/1997; El Salvador; 0-1; Jamaica           ;  Jamaica            ; 12000 XVI Wcq
-04/05/1997; El Salvador; 2-1; Costa Rica        ;  El Salvador        ; 35611 XVI Wcq
-27/04/1997; El Salvador; 0-0; Honduras          ;  Guatemala          ; 29900 IV UNCAF/IV Gcq
-25/04/1997; El Salvador; 0-1; Costa Rica        ;  Guatemala          ; 17000 IV UNCAF/IV Gcq
-23/04/1997; El Salvador; 0-1; Guatemala         ;  Guatemala          ; 15000 IV UNCAF/IV Gcq
-20/04/1997; El Salvador; 2-0; Panama            ;  Guatemala          ; 15000 IV UNCAF Rd 1/IV Gcq
-18/04/1997; El Salvador; 0-3; Honduras          ;  Guatemala          ; -     IV UNCAF Rd 1/IV Gcq
-13/04/1997; El Salvador; 1-1; Guatemala         ;  USA                ;  7800 Fr
-06/04/1997; El Salvador; 0-0; Canada            ;  Canada             ;  8312 XVI Wcq
-13/03/1997; El Salvador; 0-0; Guatemala         ;  El Salvador        ; 28000 Fr
-15/12/1996; El Salvador; 0-2; Canada            ;  El Salvador        ; 15233 XVI Wcq
-01/12/1996; El Salvador; 3-0; Cuba              ;  El Salvador        ; 23510 XVI Wcq
-20/11/1996; El Salvador; 1-3; Mexico            ;  USA                ; 54512 Fr
-10/11/1996; El Salvador; 3-2; Panama            ;  El Salvador        ; 25832 XVI Wcq
-03/11/1996; El Salvador; 0-1; Canada            ;  Canada             ;  6858 XVI Wcq
-21/10/1996; El Salvador; 1-1; Honduras          ;  Honduras           ;  4711 Fr
-06/10/1996; El Salvador; 1-1; Panama            ;  Panama             ;  8500 XVI Wcq
-25/09/1996; El Salvador; 2-1; Guatemala         ;  USA                ; 15000 Fr
-19/09/1996; El Salvador; 0-1; Venezuela         ;  El Salvador        ;  6000 Fr
-08/09/1996; El Salvador; 5-0; Cuba              ;  El Salvador        ; 32000 XVI Wcq
-30/08/1996; El Salvador; 1-3; USA               ;  USA                ; 18661 Fr
-21/08/1996; El Salvador; 1-2; Honduras          ;  El Salvador        ; -     Fr
-14/08/1996; El Salvador; 0-2; Honduras          ;  Honduras           ; 25000 Fr
-05/05/1996; El Salvador; 1-1; Bolivia           ;  USA                ; 13100 Fr
-23/04/1996; El Salvador; 1-2; Guatemala         ;  USA                ; 14500 Fr
-16/01/1996; El Salvador; 0-2; USA               ;  USA                ; 52345 III GOLD Rd 1
-10/01/1996; El Salvador; 3-2; Trinidad/Tobago   ;  USA                ; 27125 III GOLD Rd 1
-10/12/1995; El Salvador; 2-1; Costa Rica        ;  El Salvador        ; 35000 III UNCAF 3-4 /III Gcq
-07/12/1995; El Salvador; 0-1; Guatemala         ;  El Salvador        ; 42000 III UNCAF Sf  /III Gcq
-03/12/1995; El Salvador; 2-1; Costa Rica        ;  El Salvador        ; 33715 III UNCAF Rd 1/III Gcq
-29/11/1995; El Salvador; 3-0; Belize            ;  El Salvador        ; 12244 III UNCAF Rd 1/III Gcq
-12/11/1995; El Salvador; 1-4; Yugoslavia        ;  El Salvador        ; 30000 Fr
-12/06/1994; El Salvador; 0-4; Brazil            ;  USA                ; 13210 Fr
-05/05/1994; El Salvador; 0-3; Colombia          ;  USA                ;  8000 Miami Final
-03/05/1994; El Salvador; 3-1; Honduras          ;  USA                ; 10000 Miami Sf
-05/12/1993; El Salvador; 0-7; USA               ;  USA                ;  7618 Fr
-09/05/1993; El Salvador; 2-1; Honduras          ;  El Salvador        ; 35000 XV Wcq
-02/05/1993; El Salvador; 1-2; Canada            ;  El Salvador        ; 25000 XV Wcq
-25/04/1993; El Salvador; 0-2; Honduras          ;  Honduras           ; 25000 XV Wcq
-18/04/1993; El Salvador; 1-3; Mexico            ;  Mexico             ;120000 XV Wcq
-11/04/1993; El Salvador; 0-2; Canada            ;  Canada             ;  6968 XV Wcq
-04/04/1993; El Salvador; 2-1; Mexico            ;  El Salvador        ; 40000 XV Wcq
-23/03/1993; El Salvador; 2-2; USA               ;  El Salvador        ; 23000 Fr
-12/03/1993; El Salvador; 2-2; Bolivia           ;  El Salvador        ; -     Fr
-09/03/1993; El Salvador; 0-3; Honduras          ;  Honduras           ;  9859 II UNCAF/II Gcq
-07/03/1993; El Salvador; 1-1; Panama            ;  Honduras           ; 11100 II UNCAF/II Gcq
-05/03/1999; El Salvador; 0-1; Costa Rica        ;  Honduras           ; 10705 II UNCAF/II Gcq
-17/02/1993; El Salvador; 1-2; Russia            ;  USA                ; 16000 Fr
-03/02/1993; El Salvador; 0-2; Denmark           ;  USA                ; -     Fr
-06/12/1992; El Salvador; 2-1; Jamaica           ;  El Salvador        ; 36625 XV Wcq
-22/11/1992; El Salvador; 2-0; Jamaica           ;  Jamaica            ; 15000 XV Wcq
-08/11/1992; El Salvador; 3-2; Canada            ;  Canada             ;  6278 XV Wcq
-01/11/1992; El Salvador; 4-1; Bermuda           ;  El Salvador        ; 21300 XV Wcq
-25/10/1992; El Salvador; 1-1; Canada            ;  El Salvador        ; 16342 XV Wcq
-18/10/1992; El Salvador; 0-1; Bermuda           ;  Bermuda            ;  4000 XV Wcq
-07/10/1992; El Salvador; 0-2; Mexico            ;  USA                ; 35000 Fr
-18/09/1992; El Salvador; 1-1; Honduras          ;  Honduras           ; 14320 Fr
-13/09/1992; El Salvador; 3-1; Honduras          ;  El Salvador        ; 10000 Fr
-12/08/1992; El Salvador; 0-3; Honduras          ;  USA                ; 15000 Fr
-26/07/1992; El Salvador; 1-2; Mexico            ;  El Salvador        ; -     Fr
-23/07/1992; El Salvador; 5-1; Nicaragua         ;  El Salvador        ;  8272 XV Wcq
-19/07/1992; El Salvador; 5-0; Nicaragua         ;  Nicaragua          ;  4642 XV Wcq
-29/04/1992; El Salvador; 1-1; Costa Rica        ;  El Salvador        ; 30000 Fr
-19/03/1992; El Salvador; 2-2; USA               ;  USA                ; -     Fr
-17/03/1992; El Salvador; 1-1; Honduras          ;  USA                ; -     Fr
-04/03/1992; El Salvador; 0-2; Costa Rica        ;  Costa Rica         ; -     Fr
-18/02/1992; El Salvador; 2-0; USA               ;  El Salvador        ; 45000 Fr
-29/01/1992; El Salvador; 0-3; CIS               ;  El Salvador        ; 10000 Fr
-08/12/1991; El Salvador; 1-1; Hungary           ;  El Salvador        ; 45000 Fr
-02/06/1991; El Salvador; 1-2; Honduras          ;  Costa Rica         ; 15000 I UNCAF/I Gcq
-29/05/1991; El Salvador; 1-7; Costa Rica        ;  Costa Rica         ; 10000 I UNCAF/I Gcq
-26/05/1991; El Salvador; 0-0; Guatemala         ;  Costa Rica         ; 11000 I UNCAF/I Gcq
-25/04/1991; El Salvador; 2-0; Nicaragua         ;  El Salvador        ;  2000 I Uncafq/I Gcq
-18/04/1991; El Salvador; 3-2; Nicaragua         ;  Nicaragua          ; -     I Uncafq/I Gcq
-05/11/1989; El Salvador; 0-0; USA               ;  USA                ;  8500 XIV Wcq
-17/09/1989; El Salvador; 0-1; USA               ;  El Salvador        ;  3700 XIV Wcq
-13/08/1989; El Salvador; 0-0; Trinidad/Tobago   ;  El Salvador        ; 16882 XIV Wcq
-30/07/1989; El Salvador; 0-2; Trinidad/Tobago   ;  Trinidad/Tobago    ; 30000 XIV Wcq
-16/07/1989; El Salvador; 0-1; Costa Rica        ;  Costa Rica         ; 26000 XIV Wcq
-25/06/1989; El Salvador; 2-4; Costa Rica        ;  El Salvador        ; 40000 XIV Wcq
-07/05/1989; El Salvador; 0-1; Chile             ;  USA                ; 10997 4 Nations 3-4
-05/05/1989; El Salvador; 1-2; Paraguay          ;  USA                ; 18700 4 Nations Sf
-03/03/1989; El Salvador; 0-3; Guatemala         ;  Guatemala          ; -     Fr
-23/02/1989; El Salvador; 0-2; Mexico            ;  USA                ; -     Amistad/Camel Final
-21/02/1989; El Salvador; 2-1; Costa Rica        ;  USA                ; -     Amistad/Camel Sf
-09/11/1988; El Salvador; 0-1; Guatemala         ;  USA                ; -     Fr
-16/10/1988; El Salvador; 5-0; Neth. Antilles    ;  El Salvador        ; 40000 XIV Wcq
-01/10/1988; El Salvador; 1-0; Neth. Antilles    ;  Neth. Antilles     ;  3311 XIV Wcq
-25/09/1988; El Salvador; 0-0; Honduras          ;  USA                ; -     Fr
-16/09/1988; El Salvador; 0-1; Paraguay          ;  El Salvador        ; -     Fr
-05/08/1988; El Salvador; 1-2; Guatemala         ;  USA                ; -     Fr
-25/05/1988; El Salvador; 1-4; USA               ;  USA                ;  9520 XXI Ogq*
-15/05/1988; El Salvador; 0-1; Trinidad/Tobago   ;  El Salvador        ; -     XXI Ogq
-21/04/1988; El Salvador; 1-0; Guatemala         ;  USA                ; -     Fr
-10/04/1988; El Salvador; 0-0; Guatemala         ;  El Salvador        ; -     Fr
-29/03/1988; El Salvador; 0-8; Mexico            ;  Mexico             ; -     Fr
-18/03/1988; El Salvador; 0-0; Honduras          ;  USA                ; -     Fr
-18/10/1987; El Salvador; 2-4; USA               ;  El Salvador        ; 35000 XXI Ogq*
-07/10/1987; El Salvador; 1-0; Guatemala         ;  USA                ; -     Fr
-30/09/1987; El Salvador; 2-1; Canada            ;  El Salvador        ; 25000 Fr
-15/08/1987; El Salvador; 1-0; Trinidad/Tobago   ;  USA                ; -     X PAG Rd 1
-12/08/1987; El Salvador; 0-0; USA               ;  USA                ;  5500 X PAG Rd 1*
-09/08/1987; El Salvador; 0-1; Argentina         ;  USA                ; -     X PAG Rd 1*
-17/05/1987; El Salvador; 3-2; Panama            ;  El Salvador        ; -     XXI Ogq
-29/04/1987; El Salvador; 0-1; Honduras          ;  Honduras           ; -     Fr
-19/04/1987; El Salvador; 1-1; Panama            ;  Panama             ; -     XXI Ogq
-22/03/1987; El Salvador; 0-2; Guatemala         ;  Guatemala          ; -     Fr
-13/01/1987; El Salvador; 1-3; Mexico            ;  USA                ; -     Fr
-29/05/1985; El Salvador; 2-1; Panama            ;  El Salvador        ; -     Fr
-14/03/1985; El Salvador; 0-0; Honduras          ;  Honduras           ; 38175 XIII Wcq
-10/03/1985; El Salvador; 1-2; Honduras          ;  El Salvador        ; 51555 XIII Wcq
-27/02/1985; El Salvador; 3-0; Surinam           ;  El Salvador        ; 18918 XIII Wcq
-24/02/1985; El Salvador; 3-0; Surinam           ;  El Salvador        ; 35652 XIII Wcq
-13/02/1985; El Salvador; 1-0; Costa Rica        ;  El Salvador        ; -     Fr
-06/02/1985; El Salvador; 1-2; Costa Rica        ;  Costa Rica         ; -     Fr
-23/12/1984; El Salvador; 0-2; Guatemala         ;  Guatemala          ; -     Fr
-12/12/1984; El Salvador; 0-0; Ecuador           ;  El Salvador        ; -     Fr
-11/12/1984; El Salvador; 1-1; Ecuador           ;  El Salvador        ; -     Fr
-04/12/1984; El Salvador; 1-2; Guatemala         ;  USA                ; -     Fr
-11/10/1984; El Salvador; 0-1; Mexico            ;  USA                ; -     Fr
-09/10/1984; El Salvador; 1-3; USA               ;  USA                ; 27000 Fr
-05/08/1984; El Salvador; 3-0; Puerto Rico       ;  Puerto Rico        ; -     XIII Wcq
-29/07/1984; El Salvador; 5-0; Puerto Rico       ;  El Salvador        ; 23333 XIII Wcq
-24/06/1984; El Salvador; 3-1; Guatemala         ;  El Salvador        ; -     Fr
-29/05/1984; El Salvador; 4-0; Panama            ;  El Salvador        ; -     Fr
-27/05/1984; El Salvador; 0-0; Panama            ;  El Salvador        ; -     Fr
-29/01/1984; El Salvador; 4-0; Venezuela         ;  El Salvador        ; -     Fr
-23/01/1984; El Salvador; 0-1; Colombia          ;  El Salvador        ; -     Fr
-25/10/1983; El Salvador; 0-5; Mexico            ;  USA                ; -     Fr
-15/05/1983; El Salvador; 1-4; Guatemala         ;  Guatemala          ; -     XX Ogq
-08/05/1983; El Salvador; 0-2; Guatemala         ;  El Salvador        ; -     XX Ogq
-23/06/1982; El Salvador; 0-2; Argentina         ;  Spain              ; 32500 XII WORLD Rd 1
-19/06/1982; El Salvador; 0-1; Belgium           ;  Spain              ; 15000 XII WORLD Rd 1
-15/06/1982; El Salvador; 1-10; Hungary          ;   Spain             ;23000 XII WORLD Rd 1
-22/04/1982; El Salvador; 1-1; Honduras          ;  Honduras           ; -     Fr
-18/04/1982; El Salvador; 3-2; Honduras          ;  El Salvador        ; -     Fr
-10/01/1982; El Salvador; 2-0; Canada XI         ;  El Salvador        ; -     Fr*
-19/11/1981; El Salvador; 1-0; Haiti             ;  Honduras           ; 16826 XII Wcq
-16/11/1981; El Salvador; 0-0; Honduras          ;  Honduras           ; 39882 XII Wcq
-11/11/1981; El Salvador; 0-0; Cuba              ;  Honduras           ; 22774 XII Wcq
-06/11/1981; El Salvador; 1-0; Mexico            ;  Honduras           ; 33237 XII Wcq
-02/11/1981; El Salvador; 0-1; Canada            ;  Honduras           ; 31570 XII Wcq
-26/07/1981; El Salvador; 4-0; Haiti             ;  El Salvador        ; -     Fr
-11/06/1981; El Salvador; 0-0; Haiti             ;  Haiti              ; -     Fr
-21/12/1980; El Salvador; 1-0; Guatemala         ;  El Salvador        ; 22813 XII Wcq
-10/12/1980; El Salvador; 0-0; Costa Rica        ;  Costa Rica         ;  3284 XII Wcq
-30/11/1980; El Salvador; 0-2; Honduras          ;  Honduras           ; 38979 XII Wcq
-23/11/1980; El Salvador; 2-1; Honduras          ;  El Salvador        ; 40851 XII Wcq
-09/11/1980; El Salvador; 0-0; Guatemala         ;  Guatemala          ; 42453 XII Wcq
-05/10/1980; El Salvador; 4-1; Panama            ;  El Salvador        ; 33005 XII Wcq
-30/09/1980; El Salvador; 3-2; Guatemala         ;  El Salvador        ; -     Fr
-24/08/1980; El Salvador; 3-1; Panama            ;  Panama             ;  3547 XII Wcq
-17/08/1980; El Salvador; 1-1; Guatemala         ;  Guatemala          ; -     Fr
-04/06/1980; El Salvador; 3-0; Haiti             ;  El Salvador        ; -     Fr
-13/05/1980; El Salvador; 0-2; Haiti             ;  Haiti              ; -     Fr
-09/05/1980; El Salvador; 0-0; Panama            ;  Panama             ; -     Fr
-18/12/1979; El Salvador; 1-1; Mexico            ;  Mexico             ; 14000 Fr
-04/12/1979; El Salvador; 0-2; Mexico            ;  El Salvador        ; -     Fr
-20/05/1979; El Salvador; 1-0; Guatemala         ;  El Salvador        ; -     XIX Ogq
-13/05/1979; El Salvador; 0-2; Guatemala         ;  Guatemala          ; -     XIX Ogq
-01/05/1979; El Salvador; 0-1; Mexico            ;  El Salvador        ; -     Fr
-06/04/1979; El Salvador; 2-1; Panama            ;  Panama             ; -     Fr
-04/04/1979; El Salvador; 0-1; Panama            ;  Panama             ; -     Fr
-16/07/1978; El Salvador; 1-0; Neth. Antilles    ;  Colombia           ; -     XIII CAG Rd 1
-14/07/1978; El Salvador; 0-4; Bermuda           ;  Colombia           ; -     XIII CAG Rd 1
-12/07/1978; El Salvador; 0-5; Panama            ;  Colombia           ; -     XIII CAG Rd 1
-10/07/1978; El Salvador; 1-6; Trinidad/Tobago   ;  Colombia           ; -     XIII CAG Rd 1
-08/07/1978; El Salvador; 0-6; Cuba              ;  Colombia           ; -     XIII CAG Rd 1
-05/02/1978; El Salvador; 1-5; Mexico            ;  El Salvador        ; -     Fr
-23/10/1977; El Salvador; 2-2; Guatemala         ;  Mexico             ; 21483 XI Wcq
-20/10/1977; El Salvador; 3-2; Surinam           ;  Mexico             ; 34476 XI Wcq
-16/10/1977; El Salvador; 0-1; Haiti             ;  Mexico             ; 53978 XI Wcq
-12/10/1977; El Salvador; 1-3; Mexico            ;  Mexico             ;110000 XI Wcq
-08/10/1977; El Salvador; 2-1; Canada            ;  Mexico             ; 42000 XI Wcq
-30/09/1977; El Salvador; 0-0; USA               ;  USA                ; 15000 Fr
-22/09/1977; El Salvador; 0-1; USA               ;  El Salvador        ; -     Fr
-15/09/1977; El Salvador; 1-2; USA               ;  El Salvador        ; 58000 Fr
-24/04/1977; El Salvador; 1-2; Mexico            ;  El Salvador        ; -     Fr
-19/12/1976; El Salvador; 2-0; Guatemala         ;  El Salvador        ; 61449 XI Wcq
-15/12/1976; El Salvador; 1-1; Costa Rica        ;  Costa Rica         ; 16310 XI Wcq
-08/12/1976; El Salvador; 1-3; Guatemala         ;  Guatemala          ; 30535 XI Wcq
-01/12/1976; El Salvador; 1-1; Costa Rica        ;  El Salvador        ; 40868 XI Wcq
-01/08/1976; El Salvador; 4-1; Panama            ;  El Salvador        ; 36440 XI Wcq
-02/05/1976; El Salvador; 1-1; Panama            ;  Panama             ;  7345 XI Wcq
-11/02/1976; El Salvador; 0-0; Mexico XI         ;  El Salvador        ; -     Fr*
-09/02/1976; El Salvador; 1-2; Hungary           ;  El Salvador        ; -     Fr
-17/10/1975; El Salvador; 0-0; Costa Rica        ;  Mexico             ; -     VII PAG Rd 1
-15/10/1975; El Salvador; 0-2; Brazil            ;  Mexico             ; -     VII PAG Rd 1*
-13/10/1975; El Salvador; 4-1; Nicaragua         ;  Mexico             ; -     VII PAG Rd 1
-03/08/1975; El Salvador; 1-2; Costa Rica        ;  El Salvador        ; -     XVIII Ogq
-27/07/1975; El Salvador; 0-1; Costa Rica        ;  Costa Rica         ; -     XVIII Ogq
-20/04/1975; El Salvador; 2-1; Nicaragua         ;  El Salvador        ; -     XVIII Ogq
-17/04/1975; El Salvador; 4-0; Nicaragua         ;  El Salvador        ; -     XVIII Ogq
-25/01/1974; El Salvador; 0-1; Panama            ;  Panama             ; -     Fr
-25/11/1973; El Salvador; 1-1; Guatemala         ;  El Salvador        ; -     Fr
-10/12/1972; El Salvador; 0-1; Guatemala         ;  El Salvador        ; 24828 X Wcq
-03/12/1972; El Salvador; 0-1; Guatemala         ;  Guatemala          ; 39008 X Wcq
-08/10/1972; El Salvador; 0-1; Costa Rica        ;  Costa Rica         ; -     Fr
-01/10/1972; El Salvador; 0-2; Costa Rica        ;  Costa Rica         ; -     Fr
-??/??/1972; El Salvador; 0-0; Jamaica           ;  El Salvador        ; -     Fr
-18/09/1971; El Salvador; 1-1; USA               ;  Jamaica            ; -     XVII Ogq*
-15/09/1971; El Salvador; 1-0; Nicaragua         ;  El Salvador        ; -     V Concacafq
-13/09/1971; El Salvador; 3-2; Nicaragua         ;  El Salvador        ; -     V Concacafq
-15/08/1971; El Salvador; 1-1; USA               ;  El Salvador        ; -     XVII Ogq*
-28/07/1971; El Salvador; 4-2; Barbados          ;  El Salvador        ; -     XVII Ogq
-21/07/1971; El Salvador; 3-0; Barbados          ;  Barbados           ; -     XVII Ogq
-18/07/1971; El Salvador; 1-1; USA               ;  USA                ; -     XVII Ogq*
-28/02/1971; El Salvador; 0-1; USSR              ;  El Salvador        ; 32000 Fr
-10/06/1970; El Salvador; 0-2; USSR              ;  Mexico             ; 89979 IX WORLD Rd 1
-07/06/1970; El Salvador; 0-4; Mexico            ;  Mexico             ;103000 IX WORLD Rd 1
-03/06/1970; El Salvador; 0-3; Belgium           ;  Mexico             ; 92205 IX WORLD Rd 1
-21/04/1970; El Salvador; 0-3; Peru              ;  Peru               ; -     Fr
-26/02/1970; El Salvador; 0-2; Costa Rica        ;  Costa Rica         ; -     Fr
-22/02/1970; El Salvador; 0-2; USSR              ;  El Salvador        ; 75000 Fr
-08/10/1969; El Salvador; 1-0; Haiti             ;  Jamaica            ;  6742 IX Wcq
-28/09/1969; El Salvador; 0-3; Haiti             ;  El Salvador        ; 36403 IX Wcq
-21/09/1969; El Salvador; 2-1; Haiti             ;  Haiti              ; 10415 IX Wcq
-14/09/1969; El Salvador; 2-1; Costa Rica        ;  El Salvador        ; -     Fr
-26/06/1969; El Salvador; 3-2; Honduras          ;  Mexico             ; 15326 IX Wcq
-15/06/1969; El Salvador; 3-0; Honduras          ;  El Salvador        ; 36470 IX Wcq
-08/06/1969; El Salvador; 0-1; Honduras          ;  Honduras           ; 17827 IX Wcq
-14/05/1969; El Salvador; 1-4; Peru              ;  El Salvador        ; -     Fr
-09/02/1969; El Salvador; 1-3; Hungary           ;  El Salvador        ; -     Fr
-22/12/1968; El Salvador; 1-4; Surinam           ;  Surinam            ;  4327 IX Wcq
-15/12/1968; El Salvador; 2-1; Neth. Antilles    ;  El Salvador        ; 13059 IX Wcq
-12/12/1968; El Salvador; 1-0; Neth. Antilles    ;  El Salvador        ; 12205 IX Wcq
-01/12/1968; El Salvador; 6-0; Surinam           ;  El Salvador        ; 10037 IX Wcq
-21/11/1968; El Salvador; 0-1; Costa Rica        ;  El Salvador        ; -     Fr
-14/11/1968; El Salvador; 0-3; Costa Rica        ;  Costa Rica         ; -     Fr
-17/10/1968; El Salvador; 1-1; Ghana             ;  Mexico             ; -     XVI OLYMPICS Rd 1
-15/10/1968; El Salvador; 1-3; Israel            ;  Mexico             ; -     XVI OLYMPICS Rd 1
-13/10/1968; El Salvador; 0-4; Hungary           ;  Mexico             ; -     XVI OLYMPICS Rd 1
-11/09/1968; El Salvador; 1-1; Costa Rica        ;  El Salvador        ; -     Fr
-15/08/1968; El Salvador; 1-0; Guatemala         ;  El Salvador        ; 20000 Fr
-31/07/1968; El Salvador; 2-1; Honduras          ;  El Salvador        ; -     Fr
-17/07/1968; El Salvador; 0-0; Honduras          ;  Honduras           ; -     Fr
-26/05/1968; El Salvador; 2-1; Trinidad/Tobago   ;  Trinidad/Tobago    ; -     XVI Ogq
-19/05/1968; El Salvador; 2-0; Trinidad/Tobago   ;  El Salvador        ; -     XVI Ogq
-07/05/1968; El Salvador; 3-0; Guatemala         ;  El Salvador        ; -     Fr
-02/12/1967; El Salvador; 2-1; Cuba              ;  Cuba               ; -     XVI Ogq
-26/11/1967; El Salvador; 3-0; Cuba              ;  El Salvador        ; -     XVI Ogq
-05/11/1967; El Salvador; 1-3; Guatemala         ;  El Salvador        ; -     Fr
-29/10/1967; El Salvador; 3-1; Costa Rica        ;  El Salvador        ; -     Fr
-22/10/1967; El Salvador; 0-1; Guatemala         ;  El Salvador        ; -     Fr
-10/10/1967; El Salvador; 2-0; Haiti             ;  El Salvador        ; -     Fr
-22/06/1966; El Salvador; 1-0; Jamaica           ;  Puerto Rico        ; -     X CAG
-20/06/1966; El Salvador; 0-0; Cuba              ;  Puerto Rico        ; -     X CAG
-18/06/1966; El Salvador; 2-5; Mexico            ;  Puerto Rico        ; -     X CAG*
-14/06/1966; El Salvador; 0-2; Neth. Antilles    ;  Puerto Rico        ; -     X CAG
-12/06/1966; El Salvador; 2-2; Puerto Rico       ;  Puerto Rico        ; -     X CAG
-25/03/1966; El Salvador; 0-1; Panama            ;  Panama             ; -     Fr
-11/04/1965; El Salvador; 3-1; Haiti             ;  Guatemala          ; -     II CONCACAF
-08/04/1965; El Salvador; 2-1; Costa Rica        ;  Guatemala          ; -     II CONCACAF
-04/04/1965; El Salvador; 1-4; Guatemala         ;  Guatemala          ; -     II CONCACAF
-30/03/1965; El Salvador; 1-1; Neth. Antilles    ;  Guatemala          ; -     II CONCACAF
-28/03/1965; El Salvador; 0-2; Mexico            ;  Guatemala          ; -     II CONCACAF
-14/03/1965; El Salvador; 3-1; Honduras          ;  El Salvador        ; -     II Concacafq
-10/03/1965; El Salvador; 4-0; Nicaragua         ;  El Salvador        ; -     II Concacafq
-09/08/1963; El Salvador; 1-1; Jamaica           ;  Jamaica            ; -     Fr
-07/08/1963; El Salvador; 0-0; Jamaica           ;  Jamaica            ; -     Fr
-05/08/1963; El Salvador; 1-0; Jamaica           ;  Jamaica            ;  8000 Fr
-07/04/1963; El Salvador; 3-2; Neth. Antilles    ;  El Salvador        ; -     I CONCACAF Final
-05/04/1963; El Salvador; 3-0; Honduras          ;  El Salvador        ; -     I CONCACAF Final
-03/04/1963; El Salvador; 1-4; Costa Rica        ;  El Salvador        ; -     I CONCACAF Final
-31/03/1963; El Salvador; 1-1; Guatemala         ;  El Salvador        ; -     I CONCACAF Rd 1
-27/03/1963; El Salvador; 2-2; Honduras          ;  El Salvador        ; -     I CONCACAF Rd 1
-25/03/1963; El Salvador; 1-1; Panama            ;  El Salvador        ; -     I CONCACAF Rd 1
-23/03/1963; El Salvador; 6-1; Nicaragua         ;  El Salvador        ; -     I CONCACAF Rd 1
-19/03/1961; El Salvador; 5-1; Honduras          ;  Costa Rica         ; -     X CCCF Final
-17/03/1961; El Salvador; 0-4; Costa Rica        ;  Costa Rica         ; -     X CCCF Final
-15/03/1961; El Salvador; 2-0; Haiti             ;  Costa Rica         ; -     X CCCF Final
-12/03/1961; El Salvador; 1-0; Honduras          ;  Costa Rica         ; -     X CCCF Rd 1
-10/03/1961; El Salvador; 10-2; Nicaragua        ;   Costa Rica        ;-     X CCCF Rd 1
-06/03/1961; El Salvador; 0-0; Neth. Antilles    ;  Costa Rica         ; -     X CCCF Rd 1
-27/08/1955; El Salvador; 2-1; Cuba              ;  Honduras           ; -     VII CCCF
-26/08/1955; El Salvador; 0-3; Neth. Antilles    ;  Honduras           ; -     VII CCCF
-24/08/1955; El Salvador; 2-0; Aruba             ;  Honduras           ; -     VII CCCF
-19/08/1955; El Salvador; 0-4; Costa Rica        ;  Honduras           ; -     VII CCCF
-17/08/1955; El Salvador; 1-3; Honduras          ;  Honduras           ; -     VII CCCF
-15/08/1955; El Salvador; 3-2; Guatemala         ;  Honduras           ; -     VII CCCF
-17/03/1954; El Salvador; 1-0; Panama            ;  Mexico             ; -     VII CAG
-13/03/1954; El Salvador; 3-2; Mexico            ;  Mexico             ; -     VII CAG*
-12/03/1954; El Salvador; 3-1; Cuba              ;  Mexico             ; -     VII CAG
-09/03/1954; El Salvador; 2-2; Colombia          ;  Mexico             ; -     VII CAG
-21/03/1953; El Salvador; 1-1; Neth. Antilles    ;  Costa Rica         ; -     VI CCCF
-19/03/1953; El Salvador; 2-1; Panama            ;  Costa Rica         ; -     VI CCCF
-15/03/1953; El Salvador; 0-3; Honduras          ;  Costa Rica         ; -     VI CCCF
-13/03/1953; El Salvador; 2-3; Guatemala         ;  Costa Rica         ; -     VI CCCF
-10/03/1953; El Salvador; 4-1; Nicaragua         ;  Costa Rica         ; -     VI CCCF
-08/03/1953; El Salvador; 1-5; Costa Rica        ;  Costa Rica         ; -     VI CCCF
-04/09/1950; El Salvador; 2-2; Neth. Antilles    ;  Neth. Antilles     ; -     3 Nations Tmt
-02/09/1950; El Salvador; 2-1; Guatemala         ;  Neth. Antilles     ; -     3 Nations Tmt
-16/03/1950; El Salvador; 3-1; Neth. Antilles    ;  Guatemala          ; -     VI CAG Final
-14/03/1950; El Salvador; 0-2; Guatemala         ;  Guatemala          ; -     VI CAG Final
-12/03/1950; El Salvador; 1-2; Honduras          ;  Guatemala          ; -     VI CAG Final
-07/03/1950; El Salvador; 4-1; Nicaragua         ;  Guatemala          ; -     VI CAG Rd 1
-01/03/1950; El Salvador; 1-1; Neth. Antilles    ;  Guatemala          ; -     VI CAG Rd 1
-26/02/1950; El Salvador; 0-1; Costa Rica        ;  Guatemala          ; -     VI CAG Rd 1
-25/02/1950; El Salvador; 1-0; Haiti             ;  Guatemala          ; -     VI CAG Rd 1
-04/08/1949; El Salvador; 2-3; Panama            ;  El Salvador        ; -     Fr
-02/08/1949; El Salvador; 3-1; Panama            ;  El Salvador        ; -     Fr
-18/03/1948; El Salvador; 0-6; Costa Rica        ;  Guatemala          ; -     IV CCCF
-16/03/1948; El Salvador; 0-2; Panama            ;  Guatemala          ; -     IV CCCF
-13/03/1948; El Salvador; 1-1; Guatemala         ;  Guatemala          ; -     IV CCCF
-11/03/1948; El Salvador; 2-0; Neth. Antilles    ;  Guatemala          ; -     IV CCCF
-09/03/1948; El Salvador; 1-0; Neth. Antilles    ;  Guatemala          ; -     IV CCCF
-07/03/1948; El Salvador; 1-2; Panama            ;  Guatemala          ; -     IV CCCF
-02/03/1948; El Salvador; 0-3; Guatemala         ;  Guatemala          ; -     IV CCCF
-29/02/1948; El Salvador; 1-3; Costa Rica        ;  Guatemala          ; -     IV CCCF
-10/11/1946; El Salvador; 3-3; Panama            ;  El Salvador        ; -     Fr
-05/11/1946; El Salvador; 2-3; Panama            ;  El Salvador        ; -     Fr
-13/03/1946; El Salvador; 0-4; Costa Rica        ;  Costa Rica         ; -     III CCCF
-10/03/1946; El Salvador; 3-1; Honduras          ;  Costa Rica         ; -     III CCCF
-07/03/1946; El Salvador; 4-1; Panama            ;  Costa Rica         ; -     III CCCF
-28/02/1946; El Salvador; 7-2; Nicaragua         ;  Costa Rica         ; -     III CCCF
-23/02/1946; El Salvador; 1-3; Guatemala         ;  Costa Rica         ; -     III CCCF
-19/12/1943; El Salvador; 2-4; Costa Rica        ;  El Salvador        ; 30000 II CCCF
-16/12/1943; El Salvador; 10-1; Nicaragua        ;   El Salvador       ; -     II CCCF
-12/12/1943; El Salvador; 2-1; Guatemala         ;  El Salvador        ; -     II CCCF
-09/12/1943; El Salvador; 4-2; Costa Rica        ;  El Salvador        ; -     II CCCF
-07/12/1943; El Salvador; 8-1; Nicaragua         ;  El Salvador        ; -     II CCCF
-05/12/1943; El Salvador; 2-2; Guatemala         ;  El Salvador        ; -     II CCCF
-06/08/1941; El Salvador; 2-4; Mexico XI         ;  El Salvador        ; -     Decana Deportivo*
-05/08/1941; El Salvador; 1-4; Costa Rica        ;  El Salvador        ; -     Decana Deportivo
-31/07/1941; El Salvador; 3-5; Mexico XI         ;  El Salvador        ; -     Decana Deportivo*
-29/07/1941; El Salvador; 2-1; Costa Rica        ;  El Salvador        ; -     Decana Depotivo
-18/05/1941; El Salvador; 1-3; Costa Rica        ;  Costa Rica         ; 15000 I CCCF
-15/05/1941; El Salvador; 4-3; Panama            ;  Costa Rica         ; -     I CCCF
-13/05/1941; El Salvador; 8-0; Nicaragua         ;  Costa Rica         ; -     I CCCF
-11/05/1941; El Salvador; 2-2; Neth. Antilles    ;  Costa Rica         ; -     I CCCF
-10/03/1940; El Salvador; 0-1; Costa Rica        ;  El Salvador        ; -     Fr
-11/02/1940; El Salvador; 3-2; Costa Rica        ;  El Salvador        ; -     Fr
-23/02/1938; El Salvador; 2-1; Panama            ;  Panama             ; -     IV CAG
-21/02/1938; El Salvador; 2-3; Colombia          ;  Panama             ; -     IV CAG
-18/02/1938; El Salvador; 0-6; Mexico            ;  Panama             ; -     IV CAG
-16/02/1938; El Salvador; 3-2; Venezuela         ;  Panama             ; 20000 IV CAG
-12/02/1938; El Salvador; 0-7; Costa Rica        ;  Panama             ;  8000 IV CAG
-02/04/1935; El Salvador; 6-1; Guatemala         ;  El Salvador        ; 20000 III CAG
-30/03/1935; El Salvador; 1-6; Costa Rica        ;  El Salvador        ; 12000 III CAG
-28/03/1935; El Salvador; 3-4; Honduras          ;  El Salvador        ;  8000 III CAG
-27/03/1935; El Salvador; 1-8; Mexico            ;  El Salvador        ; 18000 III CAG
-24/03/1935; El Salvador; 4-1; Cuba              ;  El Salvador        ; 20000 III CAG
-01/04/1930; El Salvador; 2-5; Cuba              ;  Cuba               ; -     II CAG Final
-29/03/1930; El Salvador; 1-4; Honduras          ;  Cuba               ; -     II CAG Final
-26/03/1930; El Salvador; 0-5; Costa Rica        ;  Cuba               ; -     II CAG Final
-22/03/1930; El Salvador; 2-9; Costa Rica        ;  Cuba               ; -     II CAG Rd 1
-19/03/1930; El Salvador; 8-2; Guatemala         ;  Cuba               ; -     II CAG Rd 1
-01/05/1929; El Salvador; 9-0; Nicaragua         ;  El Salvador        ; -     Fr
-07/12/1928; El Salvador; 5-0; Honduras          ;  El Salvador        ; -     Fr
-??/??/1927; El Salvador; 0-0; Honduras          ;  Honduras           ; -     Fr
-??/??/1927; El Salvador; 0-1; Honduras          ;  Honduras           ; -     Fr
-14/09/1921; El Salvador; 0-7; Costa Rica        ;  Costa Rica         ;  2000 Independence Sf;
+Date-style: day first
+
+Season: 2008
+Competition: Friendly
+26/07/2008; El Salvador; 0-0; Jamaica           ;  United States                ; 11482
+20/07/2008; El Salvador; 0-0; Guatemala         ;  United States                ; 40000
+
+Competition: World Cup Qualifying
+22/06/2008; El Salvador; 3-1; Panama            ;  El Salvador        ; 27420
+15/06/2008; El Salvador; 0-1; Panama            ;  Panama             ; 22150
+
+Competition: Friendly
+30/05/2008; El Salvador; 0-0; Guatemala         ;  United States                ; 38759
+23/04/2008; El Salvador; 2-2; China             ;  United States                ; 16530
+
+Competition: World Cup Qualifying
+26/03/2008; El Salvador; 4-0; Anguilla          ;  United States                ; 22670
+
+Competition: Friendly
+23/03/2008; El Salvador; 0-1; Venezuela         ;  Venezuela          
+19/03/2008; El Salvador; 0-1; Trinidad and Tobago ;  Trinidad and Tobago  ;  2000
+
+Competition: World Cup Qualifying
+06/02/2008; El Salvador; 12-0; Anguilla         ;   El Salvador       ;15000
+
+Competition: Friendly
+29/01/2008; El Salvador; 0-0; Haiti             ;  Haiti              
+26/01/2008; El Salvador; 0-0; Haiti             ;  Haiti              
+22/01/2008; El Salvador; 1-0; Belize            ;  Belize             
+
+Season: 2007
+18/11/2007; El Salvador; 0-3; Jamaica           ;  Jamaica            ; 15000
+17/10/2007; El Salvador; 0-0; Trinidad and Tobago ;  El Salvador        ; 13000
+13/10/2007; El Salvador; 2-2; Costa Rica        ;  El Salvador        
+08/09/2007; El Salvador; 1-5; Ecuador           ;  Ecuador            ;  8000
+22/08/2007; El Salvador; 2-0; Honduras          ;  El Salvador        ; 20000
+
+Competition: Gold Cup
+12/06/2007; El Salvador; 0-4; United States               ;  United States                ; 26523
+09/06/2007; El Salvador; 0-1; Guatemala         ;  United States                ; 27000
+07/06/2007; El Salvador; 2-1; Trinidad and Tobago   ;  United States                ; 21344
+
+Competition: Friendly
+17/04/2007; El Salvador; 0-1; Haiti             ;  El Salvador        
+27/03/2007; El Salvador; 0-2; Honduras          ;  United States                ;  8365
+24/03/2007; El Salvador; 0-2; Honduras          ;  United States                ; 17095
+
+Competition: UNCAF Nations Cup
+18/02/2007; El Salvador; 0-1; Guatemala         ;  El Salvador        ;  1552
+16/02/2007; El Salvador; 0-2; Costa Rica        ;  El Salvador        ; 29293
+12/02/2007; El Salvador; 0-0; Guatemala         ;  El Salvador        ; 15432
+10/02/2007; El Salvador; 2-1; Nicaragua         ;  El Salvador        ;  8106
+08/02/2007; El Salvador; 2-1; Belize            ;  El Salvador        ; 12857
+
+Competition: Friendly
+25/01/2007; El Salvador; 1-0; Denmark           ;  El Salvador        ; 18000
+
+Season: 2006
+29/11/2006; El Salvador; 0-0; Panama            ;  El Salvador        ; 10000
+15/11/2006; El Salvador; 1-5; Bolivia           ;  Bolivia            ; 25000
+07/10/2006; El Salvador; 0-1; Panama            ;  Panama             ;  3000
+06/09/2006; El Salvador; 0-2; Honduras          ;  Honduras           ;  7000
+
+Season: 2005
+17/08/2005; El Salvador; 0-3; Paraguay          ;  Paraguay           ; 12000
+
+Competition: UNCAF Nations Cup
+21/02/2005; El Salvador; 1-2; Costa Rica        ;  Guatemala          ;  3000
+19/02/2005; El Salvador; 0-1; Panama            ;  Guatemala          ; 10000
+
+Season: 2004
+Competition: World Cup Qualifying
+17/11/2004; El Salvador; 0-3; Panama            ;  Panama             ;  9502
+13/10/2004; El Salvador; 0-0; Jamaica           ;  Jamaica            ; 12000
+09/10/2004; El Salvador; 0-2; United States               ;  El Salvador        ; 20000
+08/09/2004; El Salvador; 0-3; Jamaica           ;  El Salvador        ; 25000
+04/09/2004; El Salvador; 0-2; United States               ;  United States                ; 25266
+18/08/2004; El Salvador; 2-1; Panama            ;  El Salvador        ; 11400
+
+Competition: Friendly
+06/08/2004; El Salvador; 0-2; Guatemala         ;  United States                ; 20000
+03/08/2004; El Salvador; 0-4; Honduras          ;  El Salvador        
+18/07/2004; El Salvador; 0-1; Guatemala         ;  United States                
+
+Competition: World Cup Qualifying
+20/06/2004; El Salvador; 2-2; Bermuda           ;  Bermuda            ;  4000
+13/06/2004; El Salvador; 2-1; Bermuda           ;  El Salvador        ; 12000
+
+Competition: Friendly
+12/05/2004; El Salvador; 3-3; Haiti             ;  United States                ;  4000
+28/04/2004; El Salvador; 0-2; Colombia          ;  United States                ; 23000
+31/03/2004; El Salvador; 0-3; Guatemala         ;  El Salvador        ;  5047
+28/01/2004; El Salvador; 1-1; Panama            ;  El Salvador        
+
+Season: 2003
+16/11/2003; El Salvador; 0-3; Jamaica           ;  Jamaica            ; 12000
+
+Competition: Gold Cup
+19/07/2003; El Salvador; 2-5; Costa Rica        ;  United States                ; 15627
+16/07/2003; El Salvador; 1-0; Martinique        ;  United States                ; 10361
+12/07/2003; El Salvador; 0-2; United States               ;  United States                ; 33652
+
+Competition: Friendly
+08/07/2003; El Salvador; 1-2; Guatemala         ;  United States                ; 21047
+06/07/2003; El Salvador; 2-1; Mexico            ;  United States                ; 19271
+02/07/2003; El Salvador; 0-1; Paraguay          ;  United States                ; 20000
+29/06/2003; El Salvador; 1-1; Honduras          ;  Honduras           ;  5000
+
+
+Competition: UNCAF Nations Cup
+20/02/2003; El Salvador; 0-2; Guatemala         ;  Panama             ;   500
+15/02/2003; El Salvador; 1-0; Honduras          ;  Panama             ;   600
+13/02/2003; El Salvador; 1-0; Nicaragua         ;  Panama             
+11/02/2003; El Salvador; 0-1; Costa Rica        ;  Panama             ;   500
+09/02/2003; El Salvador; 2-1; Panama            ;  Panama             ;  8000
+
+Competition: Friendly
+19/01/2003; El Salvador; 0-0; Guatemala         ;  United States                ;  6000
+17/01/2003; El Salvador; 0-0; Guatemala         ;  United States                ;  6000
+
+Season: 2002
+17/11/2002; El Salvador; 0-2; United States               ;  United States                ; 13950
+
+Competition: Gold Cup
+27/01/2002; El Salvador; 0-4; United States               ;  United States                ; 31628
+23/01/2002; El Salvador; 1-0; Guatemala         ;  United States                ; 12906
+19/01/2002; El Salvador; 0-1; Mexico            ;  United States                ; 42117
+
+Season: 2001
+Competition: Friendly
+15/12/2001; El Salvador; 0-0; Haiti             ;  United States                ;  7225
+31/10/2001; El Salvador; 1-4; Mexico            ;  Mexico             ; 35000
+02/07/2001; El Salvador; 0-1; Ecuador           ;  United States                ; 35891
+
+Competition: UNCAF Nations Cup
+03/06/2001; El Salvador; 1-1; Costa Rica        ;  Honduras           ;   396
+01/06/2001; El Salvador; 1-1; Panama            ;  Honduras           ;   104
+30/05/2001; El Salvador; 0-0; Guatemala         ;  Honduras           ;   160
+27/05/2001; El Salvador; 1-1; Honduras          ;  Honduras           ; -    
+25/05/2001; El Salvador; 2-1; Panama            ;  Honduras           ;  1032
+23/05/2001; El Salvador; 3-0; Nicaragua         ;  Honduras           ;    50
+
+Competition: Friendly
+14/03/2001; El Salvador; 0-1; Panama            ;  Panama             
+06/03/2001; El Salvador; 1-1; Guatemala         ;  Guatemala          ;   500
+
+Season: 2000
+Competition: World Cup Qualifying
+15/11/2000; El Salvador; 2-0; Jamaica           ;  El Salvador        ;  3400
+08/10/2000; El Salvador; 2-1; Saint Vincent and the Grenadines ;  Saint Vincent and the Grenadines  ;  3500
+02/09/2000; El Salvador; 0-5; Honduras          ;  Honduras           ; 35000
+16/08/2000; El Salvador; 0-1; Jamaica           ;  Jamaica            ; 20000
+
+Competition: Friendly
+06/08/2000; El Salvador; 1-2; Haiti             ;  United States                ;  5000
+
+Competition: World Cup Qualifying
+23/07/2000; El Salvador; 7-1; Saint Vincent and the Grenadines ;  El Salvador        ; 30000
+16/07/2000; El Salvador; 2-5; Honduras          ;  El Salvador        ; 36000
+
+Competition: Friendly
+07/07/2000; El Salvador; 0-1; Guatemala         ;  United States                ; 18152
+01/07/2000; El Salvador; 0-3; Mexico            ;  United States                
+
+Competition: World Cup Qualifying
+07/05/2000; El Salvador; 1-1; Guatemala         ;  El Salvador        ; 35000
+16/04/2000; El Salvador; 3-1; Belize            ;  Belize             ;  4000
+02/04/2000; El Salvador; 1-0; Guatemala         ;  Guatemala          ; 29740
+
+Competition: Friendly
+28/03/2000; El Salvador; 3-1; Haiti             ;  El Salvador        ;  4000
+
+Competition: World Cup Qualifying
+05/03/2000; El Salvador; 5-0; Belize            ;  El Salvador        ; 14567
+
+Competition: Friendly
+29/02/2000; El Salvador; 3-1; Panama            ;  El Salvador        ;  5000
+16/02/2000; El Salvador; 1-4; Panama            ;  Panama             
+09/02/2000; El Salvador; 1-5; Honduras          ;  Honduras           ; 11000
+
+Season: 1999
+Competition: Gold Cup Qualifying
+10/10/1999; El Salvador; 1-3; Cuba              ;  United States                ;  3605
+08/10/1999; El Salvador; 1-2; Canada            ;  United States                ;  6507
+06/10/1999; El Salvador; 1-1; Haiti             ;  United States                ;  6583
+
+Competition: Friendly
+20/08/1999; El Salvador; 0-3; Greece            ;  Greece             ;  3000
+18/08/1999; El Salvador; 1-3; Greece            ;  Greece             ;  2500
+28/07/1999; El Salvador; 0-2; Guatemala         ;  United States                
+29/05/1999; El Salvador; 2-1; Colombia          ;  United States                ; 43192
+
+Competition: UNCAF Nations Cup
+28/03/1999; El Salvador; 0-4; Costa Rica        ;  Costa Rica         ; 10000
+26/03/1999; El Salvador; 0-1; Guatemala         ;  Costa Rica         ;  7000
+24/03/1999; El Salvador; 1-3; Honduras          ;  Costa Rica         ;  5000
+21/03/1999; El Salvador; 1-0; Nicaragua         ;  Costa Rica         ; 19105
+19/03/1999; El Salvador; 1-1; Guatemala         ;  Costa Rica         
+
+Season: 1998
+Competition: Hurricane Mitch Benefit
+18/11/1998; El Salvador; 1-2; Honduras          ;  United States                ; 27891
+17/11/1998; El Salvador; 0-2; Mexico            ;  United States                ; 35000
+
+Competition: Gold Cup
+09/02/1998; El Salvador; 0-2; Jamaica           ;  United States                ;  5791
+08/02/1998; El Salvador; 0-4; Brazil            ;  United States                ; 55027
+01/02/1998; El Salvador; 0-0; Guatemala         ;  United States                ; 26391
+
+Competition: Friendly
+29/01/1998; El Salvador; 1-1; Honduras          ;  El Salvador        ; 30000
+21/01/1998; El Salvador; 2-0; Trinidad and Tobago   ;  El Salvador        
+
+Season: 1997
+Competition: World Cup Qualifying
+16/11/1997; El Salvador; 2-4; United States               ;  United States                ; 53193
+09/11/1997; El Salvador; 2-2; Jamaica           ;  El Salvador        ; 34200
+05/10/1997; El Salvador; 0-5; Mexico            ;  Mexico             ;115000
+
+Competition: Friendly
+24/09/1997; El Salvador; 0-1; Guatemala         ;  United States                ; 30000
+
+Competition: World Cup Qualifying
+14/09/1997; El Salvador; 4-1; Canada            ;  El Salvador        ; 27767
+
+Competition: Friendly
+07/09/1997; El Salvador; 2-2; Colombia          ;  United States                ; 25000
+
+Competition: World Cup Qualifying
+10/08/1997; El Salvador; 0-0; Costa Rica        ;  Costa Rica         ; 18316
+29/06/1997; El Salvador; 1-1; United States               ;  El Salvador        ; 29000
+08/06/1997; El Salvador; 0-1; Mexico            ;  El Salvador        ; 40000
+
+Competition: Friendly
+28/05/1997; El Salvador; 0-2; Ecuador           ;  El Salvador        ;  8000
+
+Competition: World Cup Qualifying
+18/05/1997; El Salvador; 0-1; Jamaica           ;  Jamaica            ; 12000
+04/05/1997; El Salvador; 2-1; Costa Rica        ;  El Salvador        ; 35611
+
+Competition: UNCAF Nations Cup
+27/04/1997; El Salvador; 0-0; Honduras          ;  Guatemala          ; 29900
+25/04/1997; El Salvador; 0-1; Costa Rica        ;  Guatemala          ; 17000
+23/04/1997; El Salvador; 0-1; Guatemala         ;  Guatemala          ; 15000
+20/04/1997; El Salvador; 2-0; Panama            ;  Guatemala          ; 15000
+18/04/1997; El Salvador; 0-3; Honduras          ;  Guatemala          
+
+Competition: Friendly
+13/04/1997; El Salvador; 1-1; Guatemala         ;  United States                ;  7800
+
+Competition: World Cup Qualifying
+06/04/1997; El Salvador; 0-0; Canada            ;  Canada             ;  8312
+
+Competition: Friendly
+13/03/1997; El Salvador; 0-0; Guatemala         ;  El Salvador        ; 28000
+
+Season: 1996
+Competition: World Cup Qualifying
+15/12/1996; El Salvador; 0-2; Canada            ;  El Salvador        ; 15233
+01/12/1996; El Salvador; 3-0; Cuba              ;  El Salvador        ; 23510
+
+Competition: Friendly
+20/11/1996; El Salvador; 1-3; Mexico            ;  United States                ; 54512
+
+Competition: World Cup Qualifying
+10/11/1996; El Salvador; 3-2; Panama            ;  El Salvador        ; 25832
+03/11/1996; El Salvador; 0-1; Canada            ;  Canada             ;  6858
+
+Competition: Friendly
+21/10/1996; El Salvador; 1-1; Honduras          ;  Honduras           ;  4711
+
+Competition: World Cup Qualifying
+06/10/1996; El Salvador; 1-1; Panama            ;  Panama             ;  8500
+
+Competition: Friendly
+25/09/1996; El Salvador; 2-1; Guatemala         ;  United States                ; 15000
+19/09/1996; El Salvador; 0-1; Venezuela         ;  El Salvador        ;  6000
+
+Competition: World Cup Qualifying
+08/09/1996; El Salvador; 5-0; Cuba              ;  El Salvador        ; 32000
+
+Competition: Friendly
+30/08/1996; El Salvador; 1-3; United States               ;  United States                ; 18661
+21/08/1996; El Salvador; 1-2; Honduras          ;  El Salvador        
+14/08/1996; El Salvador; 0-2; Honduras          ;  Honduras           ; 25000
+05/05/1996; El Salvador; 1-1; Bolivia           ;  United States                ; 13100
+23/04/1996; El Salvador; 1-2; Guatemala         ;  United States                ; 14500
+
+Competition: Gold Cup
+16/01/1996; El Salvador; 0-2; United States               ;  United States                ; 52345
+10/01/1996; El Salvador; 3-2; Trinidad and Tobago   ;  United States                ; 27125
+
+Season: 1995
+Competition: UNCAF Nations Cup
+10/12/1995; El Salvador; 2-1; Costa Rica        ;  El Salvador        ; 35000
+07/12/1995; El Salvador; 0-1; Guatemala         ;  El Salvador        ; 42000
+03/12/1995; El Salvador; 2-1; Costa Rica        ;  El Salvador        ; 33715
+29/11/1995; El Salvador; 3-0; Belize            ;  El Salvador        ; 12244
+
+Competition: Friendly
+12/11/1995; El Salvador; 1-4; Yugoslavia        ;  El Salvador        ; 30000
+
+Season: 1994
+12/06/1994; El Salvador; 0-4; Brazil            ;  United States                ; 13210
+
+Competition: Miami Cup
+05/05/1994; El Salvador; 0-3; Colombia          ;  United States                ;  8000
+03/05/1994; El Salvador; 3-1; Honduras          ;  United States                ; 10000
+
+Season: 1993
+Competition: Friendly
+05/12/1993; El Salvador; 0-7; United States               ;  United States                ;  7618
+
+Competition: World Cup Qualifying
+09/05/1993; El Salvador; 2-1; Honduras          ;  El Salvador        ; 35000
+02/05/1993; El Salvador; 1-2; Canada            ;  El Salvador        ; 25000
+25/04/1993; El Salvador; 0-2; Honduras          ;  Honduras           ; 25000
+18/04/1993; El Salvador; 1-3; Mexico            ;  Mexico             ;120000
+11/04/1993; El Salvador; 0-2; Canada            ;  Canada             ;  6968
+04/04/1993; El Salvador; 2-1; Mexico            ;  El Salvador        ; 40000
+
+Competition: Friendly
+23/03/1993; El Salvador; 2-2; United States               ;  El Salvador        ; 23000
+12/03/1993; El Salvador; 2-2; Bolivia           ;  El Salvador        
+
+Competition: UNCAF Nations Cup
+09/03/1993; El Salvador; 0-3; Honduras          ;  Honduras           ;  9859
+07/03/1993; El Salvador; 1-1; Panama            ;  Honduras           ; 11100
+05/03/1999; El Salvador; 0-1; Costa Rica        ;  Honduras           ; 10705
+
+Competition: Friendly
+17/02/1993; El Salvador; 1-2; Russia            ;  United States                ; 16000
+03/02/1993; El Salvador; 0-2; Denmark           ;  United States                
+
+Season: 1992
+Competition: World Cup Qualifying
+06/12/1992; El Salvador; 2-1; Jamaica           ;  El Salvador        ; 36625
+22/11/1992; El Salvador; 2-0; Jamaica           ;  Jamaica            ; 15000
+08/11/1992; El Salvador; 3-2; Canada            ;  Canada             ;  6278
+01/11/1992; El Salvador; 4-1; Bermuda           ;  El Salvador        ; 21300
+25/10/1992; El Salvador; 1-1; Canada            ;  El Salvador        ; 16342
+18/10/1992; El Salvador; 0-1; Bermuda           ;  Bermuda            ;  4000
+
+Competition: Friendly
+07/10/1992; El Salvador; 0-2; Mexico            ;  United States                ; 35000
+18/09/1992; El Salvador; 1-1; Honduras          ;  Honduras           ; 14320
+13/09/1992; El Salvador; 3-1; Honduras          ;  El Salvador        ; 10000
+12/08/1992; El Salvador; 0-3; Honduras          ;  United States                ; 15000
+26/07/1992; El Salvador; 1-2; Mexico            ;  El Salvador        
+
+Competition: World Cup Qualifying
+23/07/1992; El Salvador; 5-1; Nicaragua         ;  El Salvador        ;  8272
+19/07/1992; El Salvador; 5-0; Nicaragua         ;  Nicaragua          ;  4642
+
+Competition: Friendly
+29/04/1992; El Salvador; 1-1; Costa Rica        ;  El Salvador        ; 30000
+19/03/1992; El Salvador; 2-2; United States               ;  United States                
+17/03/1992; El Salvador; 1-1; Honduras          ;  United States                
+04/03/1992; El Salvador; 0-2; Costa Rica        ;  Costa Rica         
+18/02/1992; El Salvador; 2-0; United States               ;  El Salvador        ; 45000
+29/01/1992; El Salvador; 0-3; CIS               ;  El Salvador        ; 10000
+08/12/1991; El Salvador; 1-1; Hungary           ;  El Salvador        ; 45000
+
+Season: 1991
+Competition: UNCAF Nations Cup
+02/06/1991; El Salvador; 1-2; Honduras          ;  Costa Rica         ; 15000
+29/05/1991; El Salvador; 1-7; Costa Rica        ;  Costa Rica         ; 10000
+26/05/1991; El Salvador; 0-0; Guatemala         ;  Costa Rica         ; 11000
+
+Competition: UNCAF Nations Cup Qualifying
+25/04/1991; El Salvador; 2-0; Nicaragua         ;  El Salvador        ;  2000
+18/04/1991; El Salvador; 3-2; Nicaragua         ;  Nicaragua          
+
+Season: 1989
+Competition: World Cup Qualifying
+05/11/1989; El Salvador; 0-0; United States               ;  United States                ;  8500
+17/09/1989; El Salvador; 0-1; United States               ;  El Salvador        ;  3700
+13/08/1989; El Salvador; 0-0; Trinidad and Tobago   ;  El Salvador        ; 16882
+30/07/1989; El Salvador; 0-2; Trinidad and Tobago   ;  Trinidad and Tobago    ; 30000
+16/07/1989; El Salvador; 0-1; Costa Rica        ;  Costa Rica         ; 26000
+25/06/1989; El Salvador; 2-4; Costa Rica        ;  El Salvador        ; 40000
+
+Competition: 4 Nations Cup
+07/05/1989; El Salvador; 0-1; Chile             ;  United States                ; 10997
+05/05/1989; El Salvador; 1-2; Paraguay          ;  United States                ; 18700
+
+Competition: Friendly
+03/03/1989; El Salvador; 0-3; Guatemala         ;  Guatemala          
+
+Competition: Camel Cup
+* Amistad Cup?
+23/02/1989; El Salvador; 0-2; Mexico            ;  United States                
+21/02/1989; El Salvador; 2-1; Costa Rica        ;  United States                
+
+Season: 1988
+Competition: Friendly
+09/11/1988; El Salvador; 0-1; Guatemala         ;  United States                
+
+Competition: World Cup Qualifying
+16/10/1988; El Salvador; 5-0; Netherlands Antilles    ;  El Salvador        ; 40000
+01/10/1988; El Salvador; 1-0; Netherlands Antilles    ;  Netherlands Antilles     ;  3311
+
+Competition: Friendly
+25/09/1988; El Salvador; 0-0; Honduras          ;  United States                
+16/09/1988; El Salvador; 0-1; Paraguay          ;  El Salvador        
+05/08/1988; El Salvador; 1-2; Guatemala         ;  United States                
+
+Competition: Olympic Games Qualifying
+25/05/1988; El Salvador; 1-4; United States               ;  United States                ;  9520
+15/05/1988; El Salvador; 0-1; Trinidad and Tobago   ;  El Salvador        
+
+Competition: Friendly
+21/04/1988; El Salvador; 1-0; Guatemala         ;  United States                
+10/04/1988; El Salvador; 0-0; Guatemala         ;  El Salvador        
+29/03/1988; El Salvador; 0-8; Mexico            ;  Mexico             
+18/03/1988; El Salvador; 0-0; Honduras          ;  United States                
+
+Season: 1987
+Competition: Olympic Games Qualifying
+18/10/1987; El Salvador; 2-4; United States               ;  El Salvador        ; 35000
+
+Competition: Friendly
+07/10/1987; El Salvador; 1-0; Guatemala         ;  United States                
+30/09/1987; El Salvador; 2-1; Canada            ;  El Salvador        ; 25000
+
+Competition: Panamerican Games
+15/08/1987; El Salvador; 1-0; Trinidad and Tobago   ;  United States                
+12/08/1987; El Salvador; 0-0; United States               ;  United States                ;  5500
+09/08/1987; El Salvador; 0-1; Argentina         ;  United States                
+
+Competition: Olympic Games Qualifying
+17/05/1987; El Salvador; 3-2; Panama            ;  El Salvador        
+
+Competition: Friendly
+29/04/1987; El Salvador; 0-1; Honduras          ;  Honduras           
+
+Competition: Olympic Games Qualifying
+19/04/1987; El Salvador; 1-1; Panama            ;  Panama             
+
+Competition: Friendly
+22/03/1987; El Salvador; 0-2; Guatemala         ;  Guatemala          
+13/01/1987; El Salvador; 1-3; Mexico            ;  United States                
+
+Season: 1985
+29/05/1985; El Salvador; 2-1; Panama            ;  El Salvador        
+
+Competition: World Cup Qualifying
+14/03/1985; El Salvador; 0-0; Honduras          ;  Honduras           ; 38175
+10/03/1985; El Salvador; 1-2; Honduras          ;  El Salvador        ; 51555
+27/02/1985; El Salvador; 3-0; Surinam           ;  El Salvador        ; 18918
+24/02/1985; El Salvador; 3-0; Surinam           ;  El Salvador        ; 35652
+
+Competition: Friendly
+13/02/1985; El Salvador; 1-0; Costa Rica        ;  El Salvador        
+06/02/1985; El Salvador; 1-2; Costa Rica        ;  Costa Rica         
+
+Season: 1984
+23/12/1984; El Salvador; 0-2; Guatemala         ;  Guatemala          
+12/12/1984; El Salvador; 0-0; Ecuador           ;  El Salvador        
+11/12/1984; El Salvador; 1-1; Ecuador           ;  El Salvador        
+04/12/1984; El Salvador; 1-2; Guatemala         ;  United States                
+11/10/1984; El Salvador; 0-1; Mexico            ;  United States                
+09/10/1984; El Salvador; 1-3; United States               ;  United States                ; 27000
+
+Competition: World Cup Qualifying
+05/08/1984; El Salvador; 3-0; Puerto Rico       ;  Puerto Rico        
+29/07/1984; El Salvador; 5-0; Puerto Rico       ;  El Salvador        ; 23333
+
+Competition: Friendly
+24/06/1984; El Salvador; 3-1; Guatemala         ;  El Salvador        
+29/05/1984; El Salvador; 4-0; Panama            ;  El Salvador        
+27/05/1984; El Salvador; 0-0; Panama            ;  El Salvador        
+29/01/1984; El Salvador; 4-0; Venezuela         ;  El Salvador        
+23/01/1984; El Salvador; 0-1; Colombia          ;  El Salvador        
+
+Season: 1983
+25/10/1983; El Salvador; 0-5; Mexico            ;  United States                
+
+Competition: Olympic Games Qualifying
+15/05/1983; El Salvador; 1-4; Guatemala         ;  Guatemala          
+08/05/1983; El Salvador; 0-2; Guatemala         ;  El Salvador        
+
+Season: 1982
+Competition: World Cup
+23/06/1982; El Salvador; 0-2; Argentina         ;  Spain              ; 32500
+19/06/1982; El Salvador; 0-1; Belgium           ;  Spain              ; 15000
+15/06/1982; El Salvador; 1-10; Hungary          ;   Spain             ;23000
+
+Competition: Friendly
+22/04/1982; El Salvador; 1-1; Honduras          ;  Honduras           
+18/04/1982; El Salvador; 3-2; Honduras          ;  El Salvador        
+10/01/1982; El Salvador; 2-0; Canada XI         ;  El Salvador        
+
+Season: 1981
+Competition: World Cup Qualifying
+19/11/1981; El Salvador; 1-0; Haiti             ;  Honduras           ; 16826
+16/11/1981; El Salvador; 0-0; Honduras          ;  Honduras           ; 39882
+11/11/1981; El Salvador; 0-0; Cuba              ;  Honduras           ; 22774
+06/11/1981; El Salvador; 1-0; Mexico            ;  Honduras           ; 33237
+02/11/1981; El Salvador; 0-1; Canada            ;  Honduras           ; 31570
+
+Competition: Friendly
+26/07/1981; El Salvador; 4-0; Haiti             ;  El Salvador        
+11/06/1981; El Salvador; 0-0; Haiti             ;  Haiti              
+
+Season: 1980
+Competition: World Cup Qualifying
+21/12/1980; El Salvador; 1-0; Guatemala         ;  El Salvador        ; 22813
+10/12/1980; El Salvador; 0-0; Costa Rica        ;  Costa Rica         ;  3284
+30/11/1980; El Salvador; 0-2; Honduras          ;  Honduras           ; 38979
+23/11/1980; El Salvador; 2-1; Honduras          ;  El Salvador        ; 40851
+09/11/1980; El Salvador; 0-0; Guatemala         ;  Guatemala          ; 42453
+05/10/1980; El Salvador; 4-1; Panama            ;  El Salvador        ; 33005
+
+Competition: Friendly
+30/09/1980; El Salvador; 3-2; Guatemala         ;  El Salvador        
+
+Competition: World Cup Qualifying
+24/08/1980; El Salvador; 3-1; Panama            ;  Panama             ;  3547
+
+Competition: Friendly
+17/08/1980; El Salvador; 1-1; Guatemala         ;  Guatemala          
+04/06/1980; El Salvador; 3-0; Haiti             ;  El Salvador        
+13/05/1980; El Salvador; 0-2; Haiti             ;  Haiti              
+09/05/1980; El Salvador; 0-0; Panama            ;  Panama             
+
+Season: 1979
+18/12/1979; El Salvador; 1-1; Mexico            ;  Mexico             ; 14000
+04/12/1979; El Salvador; 0-2; Mexico            ;  El Salvador        
+
+Competition: Olympic Games Qualifying
+20/05/1979; El Salvador; 1-0; Guatemala         ;  El Salvador        
+13/05/1979; El Salvador; 0-2; Guatemala         ;  Guatemala          
+
+Competition: Friendly
+01/05/1979; El Salvador; 0-1; Mexico            ;  El Salvador        
+06/04/1979; El Salvador; 2-1; Panama            ;  Panama             
+04/04/1979; El Salvador; 0-1; Panama            ;  Panama             
+
+Season: 1978
+Competition: Central American and Caribbean Games
+16/07/1978; El Salvador; 1-0; Netherlands Antilles    ;  Colombia           
+14/07/1978; El Salvador; 0-4; Bermuda           ;  Colombia           
+12/07/1978; El Salvador; 0-5; Panama            ;  Colombia           
+10/07/1978; El Salvador; 1-6; Trinidad and Tobago   ;  Colombia           
+08/07/1978; El Salvador; 0-6; Cuba              ;  Colombia           
+
+Competition: Friendly
+05/02/1978; El Salvador; 1-5; Mexico            ;  El Salvador        
+
+Season: 1977
+Competition: World Cup Qualifying
+23/10/1977; El Salvador; 2-2; Guatemala         ;  Mexico             ; 21483
+20/10/1977; El Salvador; 3-2; Surinam           ;  Mexico             ; 34476
+16/10/1977; El Salvador; 0-1; Haiti             ;  Mexico             ; 53978
+12/10/1977; El Salvador; 1-3; Mexico            ;  Mexico             ;110000
+08/10/1977; El Salvador; 2-1; Canada            ;  Mexico             ; 42000
+
+Competition: Friendly
+30/09/1977; El Salvador; 0-0; United States               ;  United States                ; 15000
+22/09/1977; El Salvador; 0-1; United States               ;  El Salvador        
+15/09/1977; El Salvador; 1-2; United States               ;  El Salvador        ; 58000
+24/04/1977; El Salvador; 1-2; Mexico            ;  El Salvador        
+
+Season: 1976
+Competition: World Cup Qualifying
+19/12/1976; El Salvador; 2-0; Guatemala         ;  El Salvador        ; 61449
+15/12/1976; El Salvador; 1-1; Costa Rica        ;  Costa Rica         ; 16310
+08/12/1976; El Salvador; 1-3; Guatemala         ;  Guatemala          ; 30535
+01/12/1976; El Salvador; 1-1; Costa Rica        ;  El Salvador        ; 40868
+01/08/1976; El Salvador; 4-1; Panama            ;  El Salvador        ; 36440
+02/05/1976; El Salvador; 1-1; Panama            ;  Panama             ;  7345
+
+Competition: Friendly
+11/02/1976; El Salvador; 0-0; Mexico XI         ;  El Salvador        
+09/02/1976; El Salvador; 1-2; Hungary           ;  El Salvador        
+
+Season: 1975
+Competition: Panamerican Games
+17/10/1975; El Salvador; 0-0; Costa Rica        ;  Mexico             
+15/10/1975; El Salvador; 0-2; Brazil            ;  Mexico             
+13/10/1975; El Salvador; 4-1; Nicaragua         ;  Mexico             
+
+Competition: Olympic Games Qualifying
+03/08/1975; El Salvador; 1-2; Costa Rica        ;  El Salvador        
+27/07/1975; El Salvador; 0-1; Costa Rica        ;  Costa Rica         
+20/04/1975; El Salvador; 2-1; Nicaragua         ;  El Salvador        
+17/04/1975; El Salvador; 4-0; Nicaragua         ;  El Salvador        
+
+Season: 1974
+Competition: Friendly
+25/01/1974; El Salvador; 0-1; Panama            ;  Panama             
+
+Season: 1973
+25/11/1973; El Salvador; 1-1; Guatemala         ;  El Salvador        
+
+Season: 1972
+Competition: World Cup Qualifying
+10/12/1972; El Salvador; 0-1; Guatemala         ;  El Salvador        ; 24828
+03/12/1972; El Salvador; 0-1; Guatemala         ;  Guatemala          ; 39008
+
+Competition: Friendly
+08/10/1972; El Salvador; 0-1; Costa Rica        ;  Costa Rica         
+01/10/1972; El Salvador; 0-2; Costa Rica        ;  Costa Rica         
+??/??/1972; El Salvador; 0-0; Jamaica           ;  El Salvador        
+
+Season: 1971
+Competition: Olympic Games Qualifying
+18/09/1971; El Salvador; 1-1; United States               ;  Jamaica            
+* (4-5p)
+
+Competition: CONCACAF Championship
+15/09/1971; El Salvador; 1-0; Nicaragua         ;  El Salvador        
+13/09/1971; El Salvador; 3-2; Nicaragua         ;  El Salvador        
+
+Competition: Olympic Games Qualifying
+15/08/1971; El Salvador; 1-1; United States               ;  El Salvador        
+28/07/1971; El Salvador; 4-2; Barbados          ;  El Salvador        
+21/07/1971; El Salvador; 3-0; Barbados          ;  Barbados           
+18/07/1971; El Salvador; 1-1; United States               ;  United States                
+
+Competition: Friendly
+28/02/1971; El Salvador; 0-1; USSR              ;  El Salvador        ; 32000
+
+Season: 1970
+Competition: FIFA World Cup
+10/06/1970; El Salvador; 0-2; USSR              ;  Mexico             ; 89979
+07/06/1970; El Salvador; 0-4; Mexico            ;  Mexico             ;103000
+03/06/1970; El Salvador; 0-3; Belgium           ;  Mexico             ; 92205
+
+Competition: Friendly
+21/04/1970; El Salvador; 0-3; Peru              ;  Peru               
+26/02/1970; El Salvador; 0-2; Costa Rica        ;  Costa Rica         
+22/02/1970; El Salvador; 0-2; USSR              ;  El Salvador        ; 75000
+
+Season: 1969
+Competition: World Cup Qualifying
+08/10/1969; El Salvador; 1-0; Haiti             ;  Jamaica            ;  6742
+28/09/1969; El Salvador; 0-3; Haiti             ;  El Salvador        ; 36403
+21/09/1969; El Salvador; 2-1; Haiti             ;  Haiti              ; 10415
+
+Competition: Friendly
+14/09/1969; El Salvador; 2-1; Costa Rica        ;  El Salvador        
+
+Competition: World Cup Qualifying
+26/06/1969; El Salvador; 3-2; Honduras          ;  Mexico             ; 15326 
+15/06/1969; El Salvador; 3-0; Honduras          ;  El Salvador        ; 36470
+08/06/1969; El Salvador; 0-1; Honduras          ;  Honduras           ; 17827
+
+Competition: Friendly
+14/05/1969; El Salvador; 1-4; Peru              ;  El Salvador        
+09/02/1969; El Salvador; 1-3; Hungary           ;  El Salvador        
+
+Season: 1968
+Competition: World Cup Qualifying
+22/12/1968; El Salvador; 1-4; Surinam           ;  Surinam            ;  4327
+15/12/1968; El Salvador; 2-1; Netherlands Antilles    ;  El Salvador        ; 13059
+12/12/1968; El Salvador; 1-0; Netherlands Antilles    ;  El Salvador        ; 12205
+01/12/1968; El Salvador; 6-0; Surinam           ;  El Salvador        ; 10037
+
+Competition: Friendly
+21/11/1968; El Salvador; 0-1; Costa Rica        ;  El Salvador        
+14/11/1968; El Salvador; 0-3; Costa Rica        ;  Costa Rica         
+
+Competition: Olympic Games
+17/10/1968; El Salvador; 1-1; Ghana             ;  Mexico             
+15/10/1968; El Salvador; 1-3; Israel            ;  Mexico             
+13/10/1968; El Salvador; 0-4; Hungary           ;  Mexico             
+
+Competition: Friendly
+11/09/1968; El Salvador; 1-1; Costa Rica        ;  El Salvador        
+15/08/1968; El Salvador; 1-0; Guatemala         ;  El Salvador        ; 20000
+31/07/1968; El Salvador; 2-1; Honduras          ;  El Salvador        
+17/07/1968; El Salvador; 0-0; Honduras          ;  Honduras           
+
+Competition: Olympic Games Qualifying
+26/05/1968; El Salvador; 2-1; Trinidad and Tobago   ;  Trinidad and Tobago    
+19/05/1968; El Salvador; 2-0; Trinidad and Tobago   ;  El Salvador        
+
+Competition: Friendly
+07/05/1968; El Salvador; 3-0; Guatemala         ;  El Salvador        
+
+Season: 1967
+Competition: Olympic Games Qualifying
+02/12/1967; El Salvador; 2-1; Cuba              ;  Cuba               
+26/11/1967; El Salvador; 3-0; Cuba              ;  El Salvador        
+
+Competition: Friendly
+05/11/1967; El Salvador; 1-3; Guatemala         ;  El Salvador        
+29/10/1967; El Salvador; 3-1; Costa Rica        ;  El Salvador        
+22/10/1967; El Salvador; 0-1; Guatemala         ;  El Salvador        
+10/10/1967; El Salvador; 2-0; Haiti             ;  El Salvador        
+
+Season: 1966
+Competition: Central American and Caribbean Games
+22/06/1966; El Salvador; 1-0; Jamaica           ;  Puerto Rico        
+20/06/1966; El Salvador; 0-0; Cuba              ;  Puerto Rico        
+18/06/1966; El Salvador; 2-5; Mexico            ;  Puerto Rico        
+14/06/1966; El Salvador; 0-2; Netherlands Antilles    ;  Puerto Rico        
+12/06/1966; El Salvador; 2-2; Puerto Rico       ;  Puerto Rico        
+
+Competition: Friendly
+25/03/1966; El Salvador; 0-1; Panama            ;  Panama             
+
+Season: 1965
+Competition: CONCACAF Championship
+11/04/1965; El Salvador; 3-1; Haiti             ;  Guatemala          
+08/04/1965; El Salvador; 2-1; Costa Rica        ;  Guatemala          
+04/04/1965; El Salvador; 1-4; Guatemala         ;  Guatemala          
+30/03/1965; El Salvador; 1-1; Netherlands Antilles    ;  Guatemala          
+28/03/1965; El Salvador; 0-2; Mexico            ;  Guatemala          
+
+Competition: CONCACAF Championship Qualifying
+14/03/1965; El Salvador; 3-1; Honduras          ;  El Salvador        
+10/03/1965; El Salvador; 4-0; Nicaragua         ;  El Salvador        
+
+Season: 1963
+Competition: Friendly
+09/08/1963; El Salvador; 1-1; Jamaica           ;  Jamaica            
+07/08/1963; El Salvador; 0-0; Jamaica           ;  Jamaica            
+05/08/1963; El Salvador; 1-0; Jamaica           ;  Jamaica            ;  8000
+
+Competition: CONCACAF Championship
+07/04/1963; El Salvador; 3-2; Netherlands Antilles    ;  El Salvador        
+05/04/1963; El Salvador; 3-0; Honduras          ;  El Salvador        
+03/04/1963; El Salvador; 1-4; Costa Rica        ;  El Salvador        
+31/03/1963; El Salvador; 1-1; Guatemala         ;  El Salvador        
+27/03/1963; El Salvador; 2-2; Honduras          ;  El Salvador        
+25/03/1963; El Salvador; 1-1; Panama            ;  El Salvador        
+23/03/1963; El Salvador; 6-1; Nicaragua         ;  El Salvador        
+
+Season: 1961
+Competition: CCCF Championship
+19/03/1961; El Salvador; 5-1; Honduras          ;  Costa Rica         
+17/03/1961; El Salvador; 0-4; Costa Rica        ;  Costa Rica         
+15/03/1961; El Salvador; 2-0; Haiti             ;  Costa Rica         
+12/03/1961; El Salvador; 1-0; Honduras          ;  Costa Rica         
+10/03/1961; El Salvador; 10-2; Nicaragua        ;   Costa Rica        
+06/03/1961; El Salvador; 0-0; Netherlands Antilles    ;  Costa Rica         
+
+Season: 1955
+27/08/1955; El Salvador; 2-1; Cuba              ;  Honduras           
+26/08/1955; El Salvador; 0-3; Netherlands Antilles    ;  Honduras           
+24/08/1955; El Salvador; 2-0; Aruba             ;  Honduras           
+19/08/1955; El Salvador; 0-4; Costa Rica        ;  Honduras           
+17/08/1955; El Salvador; 1-3; Honduras          ;  Honduras           
+15/08/1955; El Salvador; 3-2; Guatemala         ;  Honduras           
+
+Season: 1954
+Competition: Central American and Caribbean Games
+17/03/1954; El Salvador; 1-0; Panama            ;  Mexico             
+13/03/1954; El Salvador; 3-2; Mexico            ;  Mexico             
+12/03/1954; El Salvador; 3-1; Cuba              ;  Mexico             
+09/03/1954; El Salvador; 2-2; Colombia          ;  Mexico             
+
+Season: 1953
+Competition: CCCF Championship
+21/03/1953; El Salvador; 1-1; Netherlands Antilles    ;  Costa Rica         
+19/03/1953; El Salvador; 2-1; Panama            ;  Costa Rica         
+15/03/1953; El Salvador; 0-3; Honduras          ;  Costa Rica         
+13/03/1953; El Salvador; 2-3; Guatemala         ;  Costa Rica         
+10/03/1953; El Salvador; 4-1; Nicaragua         ;  Costa Rica         
+08/03/1953; El Salvador; 1-5; Costa Rica        ;  Costa Rica         
+
+Season: 1950
+Competition: 3 Nations Tournament
+04/09/1950; El Salvador; 2-2; Netherlands Antilles    ;  Netherlands Antilles     
+02/09/1950; El Salvador; 2-1; Guatemala         ;  Netherlands Antilles     
+
+Competition: Central American and Caribbean Games
+16/03/1950; El Salvador; 3-1; Netherlands Antilles    ;  Guatemala          
+14/03/1950; El Salvador; 0-2; Guatemala         ;  Guatemala          
+12/03/1950; El Salvador; 1-2; Honduras          ;  Guatemala          
+07/03/1950; El Salvador; 4-1; Nicaragua         ;  Guatemala          
+01/03/1950; El Salvador; 1-1; Netherlands Antilles    ;  Guatemala          
+26/02/1950; El Salvador; 0-1; Costa Rica        ;  Guatemala          
+25/02/1950; El Salvador; 1-0; Haiti             ;  Guatemala          
+
+Season: 1949
+Competition: Friendly
+04/08/1949; El Salvador; 2-3; Panama            ;  El Salvador       
+02/08/1949; El Salvador; 3-1; Panama            ;  El Salvador       
+
+Season: 1948
+Competition: CCCF Championship
+18/03/1948; El Salvador; 0-6; Costa Rica        ;  Guatemala          
+16/03/1948; El Salvador; 0-2; Panama            ;  Guatemala          
+13/03/1948; El Salvador; 1-1; Guatemala         ;  Guatemala          
+11/03/1948; El Salvador; 2-0; Netherlands Antilles    ;  Guatemala          
+09/03/1948; El Salvador; 1-0; Netherlands Antilles    ;  Guatemala          
+07/03/1948; El Salvador; 1-2; Panama            ;  Guatemala          
+02/03/1948; El Salvador; 0-3; Guatemala         ;  Guatemala          
+29/02/1948; El Salvador; 1-3; Costa Rica        ;  Guatemala          
+
+Season: 1946
+Competition: Friendly
+10/11/1946; El Salvador; 3-3; Panama            ;  El Salvador        
+05/11/1946; El Salvador; 2-3; Panama            ;  El Salvador        
+
+Competition: CCCF Championship
+13/03/1946; El Salvador; 0-4; Costa Rica        ;  Costa Rica         
+10/03/1946; El Salvador; 3-1; Honduras          ;  Costa Rica         
+07/03/1946; El Salvador; 4-1; Panama            ;  Costa Rica         
+28/02/1946; El Salvador; 7-2; Nicaragua         ;  Costa Rica         
+23/02/1946; El Salvador; 1-3; Guatemala         ;  Costa Rica         
+
+Season: 1943
+19/12/1943; El Salvador; 2-4; Costa Rica        ;  El Salvador        ; 30000
+16/12/1943; El Salvador; 10-1; Nicaragua        ;   El Salvador       
+12/12/1943; El Salvador; 2-1; Guatemala         ;  El Salvador        
+09/12/1943; El Salvador; 4-2; Costa Rica        ;  El Salvador        
+07/12/1943; El Salvador; 8-1; Nicaragua         ;  El Salvador        
+05/12/1943; El Salvador; 2-2; Guatemala         ;  El Salvador        
+
+Season: 1941
+Competition: Decana Deportivo
+06/08/1941; El Salvador; 2-4; Mexico XI         ;  El Salvador        
+05/08/1941; El Salvador; 1-4; Costa Rica        ;  El Salvador        
+31/07/1941; El Salvador; 3-5; Mexico XI         ;  El Salvador        
+29/07/1941; El Salvador; 2-1; Costa Rica        ;  El Salvador        
+
+Competition: CCCF Championship
+18/05/1941; El Salvador; 1-3; Costa Rica        ;  Costa Rica         ; 15000
+15/05/1941; El Salvador; 4-3; Panama            ;  Costa Rica         
+13/05/1941; El Salvador; 8-0; Nicaragua         ;  Costa Rica         
+11/05/1941; El Salvador; 2-2; Netherlands Antilles    ;  Costa Rica         
+
+Season: 1940
+Competition: Friendly
+10/03/1940; El Salvador; 0-1; Costa Rica        ;  El Salvador        
+11/02/1940; El Salvador; 3-2; Costa Rica        ;  El Salvador        
+
+Season: 1938
+Competition: Central American and Caribbean Games
+23/02/1938; El Salvador; 2-1; Panama            ;  Panama             
+21/02/1938; El Salvador; 2-3; Colombia          ;  Panama             
+18/02/1938; El Salvador; 0-6; Mexico            ;  Panama             
+16/02/1938; El Salvador; 3-2; Venezuela         ;  Panama             ; 20000
+12/02/1938; El Salvador; 0-7; Costa Rica        ;  Panama             ;  8000
+
+Season: 1935
+02/04/1935; El Salvador; 6-1; Guatemala         ;  El Salvador        ; 20000
+30/03/1935; El Salvador; 1-6; Costa Rica        ;  El Salvador        ; 12000
+28/03/1935; El Salvador; 3-4; Honduras          ;  El Salvador        ;  8000
+27/03/1935; El Salvador; 1-8; Mexico            ;  El Salvador        ; 18000
+24/03/1935; El Salvador; 4-1; Cuba              ;  El Salvador        ; 20000
+
+Season: 1930
+01/04/1930; El Salvador; 2-5; Cuba              ;  Cuba               
+29/03/1930; El Salvador; 1-4; Honduras          ;  Cuba               
+26/03/1930; El Salvador; 0-5; Costa Rica        ;  Cuba               
+22/03/1930; El Salvador; 2-9; Costa Rica        ;  Cuba               
+19/03/1930; El Salvador; 8-2; Guatemala         ;  Cuba               
+
+Season: 1929
+Competition: Friendly
+01/05/1929; El Salvador; 9-0; Nicaragua         ;  El Salvador        
+
+Season: 1928
+07/12/1928; El Salvador; 5-0; Honduras          ;  El Salvador        
+
+Season: 1927
+* ??/??/1927; El Salvador; 0-0; Honduras          ;  Honduras           
+* ??/??/1927; El Salvador; 0-1; Honduras          ;  Honduras           
+
+Season: 1921
+Competition: Independence Centenary Games
+14/09/1921; El Salvador; 0-7; Costa Rica        ;  Costa Rica         ;  2000

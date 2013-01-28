@@ -191,3 +191,31 @@ championship = {
         (1989, 'Costa Rica'),
         ]
 }
+
+cacg = {
+    'competition': 'Central American and Caribbean Games',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1930, 'Cuba'),
+        (1935, 'Mexico'),
+        (1938, 'Mexico'),
+        (1946, 'Colombia'),
+        (1950, 'Netherlands Antilles'),
+        (1954, 'El Salvador'),
+        (1959, 'Mexico'),
+        (1962, 'Netherlands Antilles'),
+        (1966, 'Mexico'),
+        (1970, 'Cuba'),
+        (1974, 'Cuba'),
+        (1978, 'Cuba'),
+        (1982, 'Venezuela'),
+        (1986, 'Cuba'),
+        (1990, 'Mexico'),
+        (1993, 'Costa Rica'),
+        (1998, 'Venezuela'),
+        (2002, 'El Salvador'),
+        (2006, 'Colombia'),
+        ],
+
+}

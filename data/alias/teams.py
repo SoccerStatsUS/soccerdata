@@ -50,6 +50,8 @@ world = {
     'Hadjuk Split': 'Hajduk Split',
     'Victoria State (Australia)': 'Victoria XI',
     'Japanese League All-Stars': 'Japanese All-Stars',
+
+    'William & Mary': 'William and Mary',
     
 
     'Royal Arsenal': 'Arsenal',
@@ -2096,6 +2098,19 @@ college = {
 teams.update(college)
 
 international = {
+    'Demerara': 'Guyana',
+    'Dutch Guiana': 'Suriname',
+
+    'St Kitts': 'Saint Kitts and Nevis',
+    'French Guyana': 'French Guiana',
+    'Turks and Caicos': 'Turks and Caicos Islands',
+    'St. Kitts and Nevis': 'Saint Kitts and Nevis',
+    'St. Vincent and the Grenadines': 'Saint Vincent and the Grenadines',
+    'Surinam': 'Suriname',
+    'St. Lucia': 'Saint Lucia',
+    'St Lucia': 'Saint Lucia',
+    'Faeroe Islands': 'Faroe Islands',
+    'Fr. Saint Martin': 'Saint Martin',
 
     'Haití': 'Haiti',
     'United Sates U-23': 'United States U-23',

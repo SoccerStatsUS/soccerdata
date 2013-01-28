@@ -51,7 +51,7 @@ Season: 1938
 20/2/1938; Mexico; 2-2 ;  Panama         ;   Panama City, Panama          
 22/2/1938; Mexico; 2-1 ;  Costa Rica     ;    Panama City, Panama          
 
-Competition: NA and Caribbean Cup
+Competition: North American Championship
 Season: 1947
 13/7/1947; Mexico; 5-0 ;  United States           ;   La Havana, Cuba
 17/7/1947; Mexico; 3-1 ;  Cuba          ;   La Havana, Cuba       
@@ -78,7 +78,7 @@ Season: 1950
 29/6/1950; Mexico; 1-4 ;  Yugoslavia     ;   Porto Alegre, Brazil    
  2/7/1950; Mexico; 1-2 ;  Switzerland    ;   Porto Alegre, Brazil    
 
-Competition: Panamerican Cup
+Competition: Panamerican Championship
 Season: 1952
 23/3/1952; Mexico; 1-3 ;  Uruguay        ;   Santiago, Chile        
 26/3/1952; Mexico; 0-4 ;  Chile          ;   Santiago, Chile        
@@ -101,7 +101,7 @@ Season: 1954
 16/6/1954; Mexico; 0-5 ;  Brazil        ;   Geneva, Switzerland          
 19/6/1954; Mexico; 2-3 ;  France        ;   Geneva, Switzerland          
 
-Competition: Panamerican Cup
+Competition: Panamerican Championship
 Season: 1956
 26/2/1956; Mexico; 1-1 ;  Costa Rica    ;   Mexico City          
  4/3/1956; Mexico; 0-2 ;  Peru          ;   Mexico City          
@@ -130,7 +130,7 @@ Season: 1959
  8/3/1959; Mexico; 2-1 ;  Costa Rica;   San Jose, Costa Rica         
 24/5/1959; Mexico; 2-1 ;  England;   Mexico City          
 
-Competition: Panamerican Cup
+Competition: Panamerican Championship
 Season: 1960
  6/3/1960; Mexico; 2-2 ;  Brazil         ;   San Jose, Costa Rica         
 10/3/1960; Mexico; 2-3 ;  Argentina      ;   San Jose, Costa Rica         
@@ -607,7 +607,7 @@ Season: 1990
 20/3/1990; Mexico; 2-1 ;  Uruguay;   Los Angeles, CA     
 17/4/1990; Mexico; 2-0 ;  Colombia   ;   Los Angeles, CA     
 
-Competition: Northamerican Cup
+Competition: North American Cup
 Season: 1990
 10/5/1990; Mexico; 1-0 ;  United States             ;   Vancouver, BC
 13/5/1990; Mexico; 1-2 ;  Canada          ;   Vancouver, BC       
@@ -879,8 +879,12 @@ Season: 1998
 
 Competition: Friendly International
 Season: 1998
+
+Competition: Hurricane Mitch Benefit
 17/11/1998; Mexico; 2-0 ;  El Salvador;   Los Angeles, CA     
 18/11/1998; Mexico; 2-2 ;  Guatemala;   Los Angeles, CA     
+
+Competition: Friendly International
 10/2/1999; Mexico; 0-1 ;  Argentina   ;   Los Angeles, CA     
 
 Competition: Carlsberg Cup

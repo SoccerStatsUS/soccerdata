@@ -73,6 +73,10 @@ def process_uncaf_awards():
     return process_awards(d)
 
 
+def process_caribbean_awards():
+    from soccerdata.data.lists.awards.caribbean import caribbean_cup, martinez_shield
+    return process_awards(caribbean_cup) + process_awards(martinez_shield)
+
 def process_mexico_awards():
     from soccerdata.data.lists.awards.mexico import d, primera_fuerza
     return process_awards(d) + process_awards(primera_fuerza)
@@ -97,8 +101,8 @@ def process_concacaf_awards():
     return process_awards(champions_cup) + process_awards(champions_league) + process_awards(superliga) + process_awards(giants_cup)
 
 def process_concacaf_international_awards():
-    from soccerdata.data.lists.awards.concacaf import gold_cup, cccf, championship
-    return process_awards(gold_cup) + process_awards(cccf) + process_awards(championship)
+    from soccerdata.data.lists.awards.concacaf import gold_cup, cccf, championship, cacg
+    return process_awards(gold_cup) + process_awards(cccf) + process_awards(championship) + process_awards(cacg)
 
 
 

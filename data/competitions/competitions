@@ -105,11 +105,18 @@ FIFA U-20 World Cup; U20WC; soccer; international; Cup; 1; World; Earth
 FIFA U-17 World Cup; U17WC; soccer; international; Cup; 1; World; Earth
 FIFA Club World Cup; CWC; soccer; international; Cup; 1; World; Earth
 
+* CONCACAF
 
 Pan American Games; PAG; soccer; international; Cup; 1; Confederation; Americas
 North American Championship; NAC; soccer; international; Cup; 1; Confederation; CONCACAF
 Gold Cup; GC; soccer; international; Cup; 1; Confederation; CONCACAF
+CONCACAF Championship; CC; soccer; international; Cup; 1; Confederation; CONCACAF
+CCCF Championship; CCCF; soccer; international; Cup; 1; Confederation; CONCACAF
+
 Copa Centroamericana; CC; soccer; international; Cup; 2; Confederation; CONCACAF
+Caribbean Cup; CC; soccer; international; Cup; 2; Confederation; CONCACAF
+Central American and Caribbean Games; CACG; soccer; international; Cup; 2; Confederation; CONCACAF
+
 Copa America; CA; soccer; international; Cup; 1; Confederation; CONMEBOL
 
 US Cup; USC; soccer; international; Cup; ; World; Earth

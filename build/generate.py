@@ -55,7 +55,9 @@ def generate_competition_stats():
     competition_generate('Friendly International')
 
     competition_generate('Gold Cup')    
+    competition_generate('CONCACAF Championship')
     competition_generate('Copa Centroamericana')
+    competition_generate('Caribbean Cup')
     competition_generate('Copa America')
 
     competition_generate('CONCACAF Champions League')

@@ -1,3 +1,4 @@
+BlockSource: http://www.rsssf.com/tabless/suri-intres.html
 Date-style: day first
 
 Competition: World Cup Qualifying
@@ -98,13 +99,13 @@ Competition: Caribbean Cup Qualifying
 
 Competition: World Cup Qualifying
 Season: 1992
-30/08/1992; Suriname; 1-2; St Vincent/Gr  ; St Vincent/Gren
-02/08/1992; Suriname; 0-0; St Vincent/Gr  ; Surinam        
+30/08/1992; Suriname; 1-2; Saint Vincent and the Grenadines  ; Saint Vincent and the Grenadines
+02/08/1992; Suriname; 0-0; Saint Vincent and the Grenadines  ; Surinam        
 
 Competition: Copa Caribe
 21/06/1992; Suriname; 1-4; Martinique     ; Trinidad and Tobago
 19/06/1992; Suriname; 0-1; Trinidad and Tobago   ; Trinidad and Tobago
-17/06/1992; Suriname; 1-1; Antigua/Barb   ; Trinidad and Tobago
+17/06/1992; Suriname; 1-1; Antigua and Barbuda   ; Trinidad and Tobago
 
 Competition: World Cup Qualifying
 24/05/1992; Suriname; 1-1; Guyana         ; Surinam        
@@ -202,8 +203,8 @@ Season: 1975
 
 Competition: World Cup Qualifying
 Season: 1972
-05/12/1972; Suriname; 3-1; Antigua/Barb   ; Antigua/Barbuda   
-03/12/1972; Suriname; 6-0; Antigua/Barb   ; Antigua/Barbuda   
+05/12/1972; Suriname; 3-1; Antigua and Barbuda   ; Antigua and Barbuda   
+03/12/1972; Suriname; 6-0; Antigua and Barbuda   ; Antigua and Barbuda   
 30/11/1972; Suriname; 1-1; Trinidad and Tobago   ; Trinidad and Tobago   
 28/11/1972; Suriname; 1-2; Trinidad and Tobago   ; Trinidad and Tobago   
 
@@ -258,7 +259,7 @@ Season: 1960
 27/11/1960; Suriname; 0-0; Netherlands Antilles  ; Netherlands Antilles     
 02/10/1960; Suriname; 1-2; Netherlands Antilles  ; Surinam           
 
-Competition: CCCF 60
+Competition: CCCF Championship
 24/02/1960; Suriname; 1-3; Costa Rica     ; Cuba              
 21/02/1960; Suriname; 0-1; Netherlands Antilles  ; Cuba              
 18/02/1960; Suriname; 2-0; Cuba           ; Cuba              
@@ -292,9 +293,9 @@ Season: 1947
 
 Competition: CVB Silver Jubilee
 Season: 1946
-10/06/1946; Suriname; 0-6; Curaçao        ; Curaçao           
-05/06/1946; Suriname; 0-8; Curaçao        ; Aruba             
-30/05/1946; Suriname; 1-1; Curaçao        ; Colombia          
+10/06/1946; Suriname; 0-6; Curacao        ; Curacao           
+05/06/1946; Suriname; 0-8; Curacao        ; Aruba             
+30/05/1946; Suriname; 1-1; Curacao        ; Colombia          
 
 Competition: Betty Brown Cup
 Season: 1945
@@ -305,9 +306,9 @@ Season: 1945
 Competition: 3 Nations Series
 Season: 1944
 05/09/1944; Suriname; 2-3; Aruba          ; Surinam           
-31/08/1944; Suriname; 0-2; Curaçao        ; Surinam           
+31/08/1944; Suriname; 0-2; Curacao        ; Surinam           
 27/08/1944; Suriname; 5-0; Aruba          ; Surinam           
-25/08/1944; Suriname; 1-2; Curaçao        ; Surinam           
+25/08/1944; Suriname; 1-2; Curacao        ; Surinam           
 
 Competition: Betty Brown Cup
 Season: 1943
@@ -315,11 +316,11 @@ Season: 1943
 21/11/1943; Suriname; 1-0; British Guyana ; British Guyana    
 15/11/1943; Suriname; 0-2; British Guyana ; British Guyana    
 
-Competition: Gouverneur van Slobbe Beker
+Competition: Gouverneur van Slobbe Beker Tournament
 Season: 1938
-10/07/1938; Suriname; 4-1; Curaçao        ; Curaçao           
-05/07/1938; Suriname; 1-0; Curaçao        ; Curaçao           
-03/07/1938; Suriname; 2-1; Curaçao        ; Curaçao           
+10/07/1938; Suriname; 4-1; Curacao        ; Curacao           
+05/07/1938; Suriname; 1-0; Curacao        ; Curacao           
+03/07/1938; Suriname; 2-1; Curacao        ; Curacao           
 
 Competition: Friendly
 Season: 1937
@@ -328,11 +329,11 @@ Season: 1937
 06/01/1937; Suriname; 1-1; Trinidad       ; Surinam           
 04/01/1937; Suriname; 8-0; British Guyana ; Surinam           
 
-Competition: Gouverneur van Slobbe Beker
+Competition: Gouverneur van Slobbe Beker Tournament
 Season: 1935
-24/05/1935; Suriname; 1-2; Curaçao        ; Surinam           
-22/05/1935; Suriname; 1-4; Curaçao        ; Surinam           
-20/05/1935; Suriname; 1-0; Curaçao        ; Surinam           
+24/05/1935; Suriname; 1-2; Curacao        ; Surinam           
+22/05/1935; Suriname; 1-4; Curacao        ; Surinam           
+20/05/1935; Suriname; 1-0; Curacao        ; Surinam           
 
 Competition: Friendly
  ?/ ?/1935; Suriname; 0-3; Trinidad       ; Trinidad          
@@ -341,10 +342,10 @@ Season: 1934
 06/08/1934; Suriname; 3-3; Trinidad       ; Trinidad          
 31/07/1934; Suriname; 1-1; Aruba          ; Aruba             
 
-Competition: Gouverneur van Slobbe Beker 
-29/07/1934; Suriname; 2-2; Curaçao        ; Curaçao           
-25/07/1934; Suriname; 3-2; Curaçao        ; Curaçao           
-23/07/1934; Suriname; 3-1; Curaçao        ; Curaçao           
+Competition: Gouverneur van Slobbe Beker Tournament
+29/07/1934; Suriname; 2-2; Curacao        ; Curacao           
+25/07/1934; Suriname; 3-2; Curacao        ; Curacao           
+23/07/1934; Suriname; 3-1; Curacao        ; Curacao           
 
 Competition: Friendly
 Season: 1929
