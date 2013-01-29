@@ -74,8 +74,8 @@ def process_uncaf_awards():
 
 
 def process_caribbean_awards():
-    from soccerdata.data.lists.awards.caribbean import caribbean_cup, martinez_shield
-    return process_awards(caribbean_cup) + process_awards(martinez_shield)
+    from soccerdata.data.lists.awards.caribbean import caribbean_cup, martinez_shield, cfu
+    return process_awards(caribbean_cup) + process_awards(martinez_shield) + process_awards(cfu)
 
 def process_mexico_awards():
     from soccerdata.data.lists.awards.mexico import d, primera_fuerza

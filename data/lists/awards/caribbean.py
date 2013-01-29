@@ -46,3 +46,19 @@ martinez_shield = {
         (1933, 'Trinidad and Tobago'),
         ],
 }
+
+cfu = {
+
+    'competition': 'CFU Championship',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        (1978, 'Suriname'),
+        (1978, 'Haiti'),
+        (1981, 'Trinidad and Tobago'),
+        (1983, 'Martinique'),
+        (1985, 'Martinique'),
+        (1988, 'Trinidad and Tobago'),
+        ],
+}
