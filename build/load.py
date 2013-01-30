@@ -84,13 +84,16 @@ def load_games():
 
     load_conmebol_international()
     load_concacaf_international()
+    load_usmnt()
+    load_fifa()
+    load_olympics()
     return
 
 
 
-    load_usmnt()
-    load_fifa()
-    load_olympics()
+
+
+
     return
 
     load_asl()

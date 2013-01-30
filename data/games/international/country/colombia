@@ -54,7 +54,8 @@ Season: 1949
 10/4/1949; Colombia;   0-4   ; Peru             ; Rio de Janeiro, Brazil  
 17/4/1949; Colombia;   0-5   ; Brazil           ; São Paulo, Brazil       
 20/4/1949; Colombia;   1-1   ; Chile            ; Rio de Janeiro, Brazil  
-24/4/1949; Colombia;   2-2   ; Uruguay          ; São Paulo, Brazil       
+* 24/4/1949; Colombia;   2-2   ; Uruguay          ; São Paulo, Brazil       
+25/4/1949; Colombia;   2-2   ; Uruguay          ; São Paulo, Brazil       
  3/5/1949; Colombia;   1-4   ; Ecuador          ; Rio de Janeiro, Brazil  
  6/5/1949; Colombia;   0-4   ; Bolivia          ; Rio de Janeiro, Brazil  
 
@@ -652,8 +653,10 @@ Competition: Confederations Cup
 28/6/2003; Colombia;   1-2   ; Turkey         ; St. Etienne, France     
 
 Competition: Gold Cup
-13/7/2003; Colombia;   1-0   ; Jamaica        ; Miami, FL
-17/7/2003; Colombia;   1-1   ; Guatemala      ; Miami, FL
+*13/7/2003; Colombia;   1-0   ; Jamaica        ; Miami, FL
+12/7/2003; Colombia;   1-0   ; Jamaica        ; Miami, FL
+*17/7/2003; Colombia;   1-1   ; Guatemala      ; Miami, FL
+16/7/2003; Colombia;   1-1   ; Guatemala      ; Miami, FL
 19/7/2003; Colombia;   0-2   ; Brazil         ; Miami, Fl
 
 Competition: Friendly
@@ -716,9 +719,12 @@ Competition: World Cup Qualifying
  8/6/2005; Colombia;   3-0   ; Ecuador        ; Barranquilla, Colombia         
 
 Competition: Gold Cup
- 6/7/2005; Colombia;   0-1   ; Panama            ; Miami, FL
-10/7/2005; Colombia;   1-2   ; Honduras          ; Miami, FL
-12/7/2005; Colombia;   2-0   ; Trinidad & Tobago ; Miami, FL
+* 6/7/2005; Colombia;   0-1   ; Panama            ; Miami, FL
+ 5/7/2005; Colombia;   0-1   ; Panama            ; Miami, FL
+*10/7/2005; Colombia;   1-2   ; Honduras          ; Miami, FL
+9/7/2005; Colombia;   1-2   ; Honduras          ; Miami, FL
+*12/7/2005; Colombia;   2-0   ; Trinidad & Tobago ; Miami, FL
+11/7/2005; Colombia;   2-0   ; Trinidad & Tobago ; Miami, FL
 17/7/2005; Colombia;   2-1   ; Mexico            ; Houston, TX
 21/7/2005; Colombia;   2-3   ; Panama            ; New York, NY
 

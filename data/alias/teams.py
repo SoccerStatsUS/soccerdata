@@ -2098,6 +2098,8 @@ college = {
 teams.update(college)
 
 international = {
+    'Haití': 'Haiti',
+    'Saint Vincent and Grenadines': 'Saint Vincent and the Grenadines',
     'Netherlands Antilles': 'Curacao',
     'Demerara': 'Guyana',
     'Dutch Guiana': 'Suriname',

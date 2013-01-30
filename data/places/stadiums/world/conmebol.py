@@ -23,6 +23,13 @@ l = [
         },
 
     {
+        'name': 'Centro Esportivo Miécimo da Silva',
+        'location': 'Rio de Janeiro, Brazil',
+        'opened': 1997,
+        'capacity': 1953,
+        },
+
+    {
         'name': 'Estadio Valparaiso Sporting Club',
         'location': 'Viña del Mar, Chile',
         'opened': 1882,

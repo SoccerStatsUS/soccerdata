@@ -15,6 +15,7 @@ def get_place(s):
 
 
 places = {
+    'National Stadium, Kingston, Jamaica': 'Independence Park (Jamaica)',
     'Greenfield Stadium, Trelawny, Jamaica': 'Greenfield Stadium (Trelawny)',
     'Independence Park, Kingston, Jamaica': 'Independence Park (Jamaica)',
     'Estadio Monumental, Guayaquil, Ecuador': 'Estadio Monumental Isidro Romero Carbo',

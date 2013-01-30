@@ -29,6 +29,7 @@ Season: 1919
 5/18/1919; Brazil; 3-1; Argentina; Estadio das Laranjeiras
 5/22/1919; Argentina; 4-1; Chile; Estadio das Laranjeiras
 5/26/1919; Uruguay; 2-2; Brazil; Estadio das Laranjeiras
+* Date inconsistency.
 
 Round: Playoff
 
@@ -42,6 +43,7 @@ Season: 1920
 9/20/1920; Chile; 1-1; Argentina; Estadio Valparaiso Sporting Club
 9/25/1920; Argentina; 2-0; Brazil; Estadio Valparaiso Sporting Club
 10/3/1920; Uruguay; 2-1; Chile; Estadio Valparaiso Sporting Club
+* Date inconsistency
 
 Season: 1921
 
@@ -72,6 +74,8 @@ Round: Playoff
 Season: 1923
 
 10/29/1923; Argentina; 4-3; Paraguay; Parque Central, Montevideo, Uruguay
+* Date inconsistency
+
 11/4/1923; Uruguay; 2-0; Paraguay; Parque Central, Montevideo, Uruguay
 11/11/1923; Brazil; 0-1; Paraguay; Parque Central, Montevideo, Uruguay
 11/18/1923; Argentina; 2-1; Brazil; Parque Central, Montevideo, Uruguay
@@ -114,6 +118,8 @@ Season: 1927
 10/30/1927; Argentina; 7-1; Bolivia; Estadio Nacional, Lima, Peru
 11/1/1927; Uruguay; 4-0; Peru; Estadio Nacional, Lima, Peru
 11/6/1927; Uruguay; 9-0; Bolivia; Estadio Nacional, Lima, Peru
+* Date inconsistency
+
 11/13/1927; Peru; 3-2; Bolivia; Estadio Nacional, Lima, Peru
 11/20/1927; Argentina; 3-2; Uruguay; Estadio Nacional, Lima, Peru
 11/27/1927; Argentina; 5-1; Peru; Estadio Nacional, Lima, Peru
@@ -213,7 +219,9 @@ Season: 1945
 1/14/1945; Chile; 6-3; Ecuador; Estadio Nacional, Santiago, Chile
 1/18/1945; Argentina; 4-0; Bolivia; Estadio Nacional, Santiago, Chile
 1/18/1945; Brazil; 3-0; Colombia; Estadio Nacional, Santiago, Chile
+* Date inconsistency
 1/21/1945; Chile; 5-0; Bolivia; Estadio Nacional, Santiago, Chile
+* Date inconsistency
 1/24/1945; Uruguay; 5-1; Ecuador; Estadio Nacional, Santiago, Chile
 1/28/1945; Uruguay; 7-0; Colombia; Estadio Nacional, Santiago, Chile
 1/28/1945; Brazil; 2-0; Bolivia; Estadio Nacional, Santiago, Chile
@@ -945,7 +953,7 @@ Group: Group C
 7/1/1999; Argentina; 3-1; Ecuador; Estadio Feliciano Caceres
 7/1/1999; Uruguay; 0-1; Colombia; Estadio General Pablo Rojas
 7/4/1999; Argentina; 0-3; Colombia; Estadio Feliciano Caceres
-7/4/1999; Uruguay; 2-1; Colombia; Estadio Feliciano Caceres
+7/4/1999; Uruguay; 2-1; Ecuador; Estadio Feliciano Caceres
 7/7/1999; Uruguay; 0-2; Argentina; Estadio Feliciano Caceres
 7/7/1999; Colombia; 2-1; Ecuador; Estadio Feliciano Caceres
 
@@ -985,22 +993,22 @@ Group: Group A
 
 Group: Group B
 
-7/11/2001; Peru; 3-3; Paraguay; Estadio Pascual Guerrero
-7/11/2001; Brazil; 0-1; Mexico; Estadio Pascual Guerrero
-7/11/2001; Mexico; 2-0; Peru; Estadio Pascual Guerrero
-7/11/2001; Paraguay; 0-0; Mexico; Estadio Pascual Guerrero
-7/11/2001; Peru; 1-0; Mexico; Estadio Pascual Guerrero
-7/11/2001; Brazil; 3-1; Paraguay; Estadio Pascual Guerrero
+7/12/2001; Peru; 3-3; Paraguay; Estadio Pascual Guerrero
+7/12/2001; Brazil; 0-1; Mexico; Estadio Pascual Guerrero
+7/15/2001; Mexico; 2-0; Peru; Estadio Pascual Guerrero
+7/15/2001; Paraguay; 0-0; Mexico; Estadio Pascual Guerrero
+7/18/2001; Peru; 1-0; Mexico; Estadio Pascual Guerrero
+7/18/2001; Brazil; 3-1; Paraguay; Estadio Pascual Guerrero
 
 
 Group: Group C
 
-7/11/2001; Bolivia; 0-1; Uruguay; Estadio Atanasio Girardot
-7/11/2001; Honduras; 0-1; Costa Rica; Estadio Atanasio Girardot
-7/11/2001; Uruguay; 1-1; Costa Rica; Estadio Atanasio Girardot
-7/11/2001; Honduras; 2-0; Bolivia; Estadio Atanasio Girardot
-7/11/2001; Bolivia; 0-4; Costa Rica; Estadio Atanasio Girardot
-7/11/2001; Honduras; 1-0; Uruguay; Estadio Atanasio Girardot
+7/13/2001; Bolivia; 0-1; Uruguay; Estadio Atanasio Girardot
+7/13/2001; Honduras; 0-1; Costa Rica; Estadio Atanasio Girardot
+7/16/2001; Uruguay; 1-1; Costa Rica; Estadio Atanasio Girardot
+7/16/2001; Honduras; 2-0; Bolivia; Estadio Atanasio Girardot
+7/19/2001; Bolivia; 0-4; Costa Rica; Estadio Atanasio Girardot
+7/19/2001; Honduras; 1-0; Uruguay; Estadio Atanasio Girardot
 
 
 Round: Quarterfinals
@@ -1050,10 +1058,10 @@ Group: Group C
 
 7/8/2004; Costa Rica; 0-1; Paraguay; Estadio Arequipa
 7/8/2004; Brazil; 1-0; Chile; Estadio Arequipa
-7/8/2004; Brazil; 4-1; Costa Rica; Estadio Arequipa
-7/8/2004; Paraguay; 1-1; Chile; Estadio Arequipa
-7/8/2004; Costa Rica; 2-1; Chile; Estadio Jorge Basadre
-7/8/2004; Brazil; 1-2; Paraguay; Estadio Arequipa
+7/11/2004; Brazil; 4-1; Costa Rica; Estadio Arequipa
+7/11/2004; Paraguay; 1-1; Chile; Estadio Arequipa
+7/14/2004; Costa Rica; 2-1; Chile; Estadio Jorge Basadre
+7/14/2004; Brazil; 1-2; Paraguay; Estadio Arequipa
 
 
 Round: Quarterfinals

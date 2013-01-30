@@ -28,7 +28,8 @@ Competition: Copa America
 22/1/1942; Ecuador; 0-12;    Argentina      ; Montevideo, Uruguay       
 25/1/1942; Ecuador; 1-3 ;    Paraguay       ; Montevideo, Uruguay       
 28/1/1942; Ecuador; 1-2 ;    Peru           ; Montevideo, Uruguay       
- 1/2/1942; Ecuador; 1-5 ;    Brazil         ; Montevideo, Uruguay       
+*  1/2/1942; Ecuador; 1-5 ;    Brazil         ; Montevideo, Uruguay       
+31/1/1942; Ecuador; 1-5 ;    Brazil         ; Montevideo, Uruguay       
  5/2/1942; Ecuador; 1-2 ;    Chile          ; Montevideo, Uruguay       
 
 Season: 1945
@@ -57,7 +58,8 @@ Competition: Copa America
 13/4/1949; Ecuador; 2-3 ;    Uruguay        ; Rio de Janeiro, Brazil   
 17/4/1949; Ecuador; 0-1 ;    Chile          ; Sao Paulo, Brazil        
 20/4/1949; Ecuador; 0-4 ;    Peru           ; Rio de Janeiro, Brazil   
-24/4/1949; Ecuador; 0-2 ;    Bolivia        ; Sao Paulo, Brazil        
+*24/4/1949; Ecuador; 0-2 ;    Bolivia        ; Sao Paulo, Brazil        
+25/4/1949; Ecuador; 0-2 ;    Bolivia        ; Sao Paulo, Brazil        
  3/5/1949; Ecuador; 3-2 ;    Colombia       ; Rio de Janeiro, Brazil   
 
 Season: 1953
@@ -74,7 +76,8 @@ Competition: Copa America
 27/2/1955; Ecuador; 1-7 ;    Chile          ; Santiago, Chile         
  9/3/1955; Ecuador; 0-4 ;    Argentina      ; Santiago, Chile         
 13/3/1955; Ecuador; 2-4 ;    Peru           ; Santiago, Chile         
-16/3/1955; Ecuador; 0-2 ;    Paraguay       ; Santiago, Chile         
+*16/3/1955; Ecuador; 0-2 ;    Paraguay       ; Santiago, Chile         
+18/3/1955; Ecuador; 0-2 ;    Paraguay       ; Santiago, Chile         
 23/3/1955; Ecuador; 1-5 ;    Uruguay        ; Santiago, Chile        
 
 Season: 1957 
@@ -555,8 +558,10 @@ Competition: Friendly
 12/1/2002; Ecuador; 1-0 ;    Guatemala; Guayaquil, Ecuador            
 
 Competition: Gold Cup
-20/1/2002; Ecuador; 0-2 ;    Haiti          ; Miami, FL
-22/1/2002; Ecuador; 2-0 ;    Canada         ; Miami, FL
+* 20/1/2002; Ecuador; 0-2 ;    Haiti          ; Miami, FL
+19/1/2002; Ecuador; 0-2 ;    Haiti          ; Miami, FL
+*22/1/2002; Ecuador; 2-0 ;    Canada         ; Miami, FL
+21/1/2002; Ecuador; 2-0 ;    Canada         ; Miami, FL
 
 Competition: Friendly
 12/2/2002; Ecuador; 1-0 ;    Turkey; Breda, Netherlands         

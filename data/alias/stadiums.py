@@ -24,6 +24,7 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Centro Epsortivo Miecimo da Silva': 'Centro Esportivo Miécimo da Silva',
     'Estadio General Severiano': 'Estádio de General Severiano',
     'Estadio General Severiano': 'Estádio General Severiano',
     'Estadio Morumbi': 'Estádio do Morumbi',
@@ -144,6 +145,7 @@ stadiums = {
     'Estadio El Campin': 'Estadio El Campín',
     'Restelo Stadium': 'Estádio do Restelo',
     'B.C. Place': 'BC Place',
+    'Estadio Nacional de Tegucigalpa': 'Estadio Tiburcio Carías Andino',
     'Tegucigalpa Estadío Nacional': 'Estadio Tiburcio Carías Andino',
     'Estadio Tiburcio Carias Andino': 'Estadio Tiburcio Carías Andino',
     'Estadio Nacional Tiburcio Carias': 'Estadio Tiburcio Carías Andino',
