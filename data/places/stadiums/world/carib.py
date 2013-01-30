@@ -15,9 +15,121 @@ l = [
         },
 
     {
+        'name': 'André Kamperveen Stadion',
+        'location': 'Paramaribo, Suriname',
+        'capacity': 6000',
+        },
+
+    {
+        'name': 'Sabina Park',
+        'location': 'Kingston, Jamaica',
+        'opened': 1930,
+        'capacity': 16000,
+        },
+
+    {
         'name': 'Providence Stadium',
         'location': 'Providence, Guyana',
         'capacity': 15000,
+        },
+
+    {
+        'name': 'Bourda Cricket Ground',
+        'location': 'Georgetown, Guyana',
+        },
+
+
+    {
+        'name': 'Skinner Park',
+        'location': 'San Fernando, Trinidad and Tobago',
+        },
+
+
+    {
+        'name': 'Centro Deportivo Corson',
+        'location': 'Willemstad, Curacao',
+        },
+
+
+    {
+        'name': 'PSA Grounds',
+        'location': 'Port of Spain, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Guaracara Park',
+        'location': 'Point-a-Pierre, Trinidad and Tobago',
+        },
+
+
+    {
+        'name': 'Estadio Sixto Escobar',
+        'location': 'San Juan, Puerto Rico',
+        'opened': datetime.datetime(1935, 11, 12),
+        'capacity': 9400,
+        },
+
+
+    {
+        'name': 'Stade de Baduel',
+        'location': 'Cayenne, French Guiana',
+        'capacity': 7500,
+        },
+
+    {
+        'name': 'Ergilio Hato Stadium',
+        'location': 'Willemstad, Curacao',
+        'capacity': 15000,
+        },
+
+
+    {
+        'name': 'Hadley Court Stadium',
+        'location': 'Bridgetown, Barbados',
+        'capacity': 15000,
+        },
+
+    {
+        'name': 'Truman Bodden Sports Complex',
+        'location': 'George Town, Cayman Islands',
+        'capacity': 3000,
+        },
+
+    {
+        'name': 'Industry Park',
+        'location': 'Palo Seco, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Arima Municipal Stadium',
+        'location': 'Arima, Trinidad and Tobago',
+        'capacity': 9500,
+        },
+
+
+    {
+        'name': 'Shaw Park',
+        'location': 'Scarborough, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Arnos Vale Stadium',
+        'location': 'Kingstown, Saint Vincent and the Grenadines',
+        'capacity': 18000,
+        },
+
+
+    {
+        'name': 'Estadio Olímpico Félix Sánchez',
+        'location': 'Santo Domingo, Dominican Republic',
+        'opened': 1974,
+        'capacity': 35000,
+        },
+
+    {
+        'name': 'A.O. Shirley Recreation Ground',
+        'location': 'Road Town, British Virgin Islands',
+        'capacity': 3000,
         },
 
     {

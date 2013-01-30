@@ -28,7 +28,7 @@ l = [
 
 
     {
-        'name': 'Estadío Cuauhtémoc',
+        'name': 'Estadio Cuauhtémoc',
         'location': 'Puebla, Mexico',
         'opened': datetime.datetime(1968, 10, 8),
         'capacity': 49200,

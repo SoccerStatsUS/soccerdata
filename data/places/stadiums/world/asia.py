@@ -13,6 +13,59 @@ l = [
         'capacity': 44102
         },
 
+
+    {
+        'name': 'Bahrain National Stadium',
+        'location': 'Riffa, Bahrain',
+        'opened': 1982,
+        'capacity': 35000,
+        },
+
+
+    {
+        'name': 'Thailand National Stadium',
+        'location': 'Bangkok, Thailand',
+        'opened': 1935,
+        'capacity': 19793,
+        },
+
+    {
+        'name': 'Arab Contractors Stadium',
+        'location': 'Cairo, Egypt',
+        'capacity': 35000,
+        },
+
+
+    {
+        'name': 'Shanghai Stadium',
+        'location': 'Shanghai, China',
+        'opened': 1997,
+        'capacity': 56000,
+        },
+
+
+    {
+        'name': 'Stade El Abdi',
+        'location': 'El Jadida, Morocco',
+        'capacity': 15000,
+        },
+
+    {
+        'name': 'Stade Pierre de Coubertin',
+        'location': 'Cannes, France',
+        'capacity': 12007,
+        },
+
+
+
+    {
+        'name': 'Seoul World Cup Stadium',
+        'location': 'Seoul, South Korea',
+        'opened': datetime.datetime(2001, 11, 10),
+        'capacity': 66806,
+        'cost': 200000000,
+        },
+
     {
         'name': 'Chichibunomiya Rugby Stadium',
         'location': 'Tokyo, Japan',

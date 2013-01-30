@@ -24,6 +24,24 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Estadío Independencia': 'Estádio Independência',
+    'Estadio Vila Belmiro': 'Estádio Urbano Caldeira',
+    'Estadio Municipal de Concepcion': 'Estadio Municipal de Concepción',
+    'Estadio Feliciano Caceres': 'Estadio Feliciano Cáceres',
+    'Estadio Metropolitano Roberto Melendez': 'Estadio Metropolitano Roberto Meléndez',
+    'Estadio Olimpico Luis Ramos': 'Estadio José Antonio Anzoátegui',
+    'Andre Kamperveen Stadium': 'André Kamperveen Stadion',
+    'Waterford National Stadium': 'Barbados National Stadium',
+    'Kingston National Stadium': 'Jamaica National Stadium',
+    #'Kasarani Stadium': 'Moi International Sports Centre',
+    'Estadio Olimpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
+    'Supachalasai Stadium': 'Thailand National Stadium',
+    'Sangam Stadium': 'Seoul World Cup Stadium',
+
+    'AO Shirley Recreational Grounds': 'A.O. Shirley Recreation Ground',
+    'Arnos Vale Ground': 'Arnos Vale Stadium',
+    'Loftus Road Stadium': 'Loftus Road',
+    'Arnold Schwarzenegger Stadion': 'UPC-Arena',
     'Centro Epsortivo Miecimo da Silva': 'Centro Esportivo Miécimo da Silva',
     'Estadio General Severiano': 'Estádio de General Severiano',
     'Estadio General Severiano': 'Estádio General Severiano',
@@ -131,7 +149,7 @@ stadiums = {
     'Pallokenttä': 'Töölön Pallokenttä',
     'Olympic Park': 'Olympic Park Stadium',
     'Jalisco Stadium': 'Estadío Jalisco',
-    'Cuauhtemoc Stadium': 'Estadío Cuauhtémoc',
+
     'easyCredit-Stadion': 'Frankenstadion',
     'Munsu Stadium': 'Ulsan Munsu Football Stadium',
     'Suwon Stadium': 'Suwon World Cup Stadium',
@@ -169,7 +187,7 @@ stadiums = {
     'Estadio Excelsior': 'Estadio Excélsior',
     'Estadío Cuscatlán': 'Estadio Cuscatlán',
     'Estadio Cuscatlan': 'Estadio Cuscatlán',
-    'Estadio Cuauhtémoc': 'Estadío Cuauhtémoc',
+
     'Nep Stadium': 'Nepstadion',
     'Willow Memorial Park Stadium': 'New Britain Veterans Stadium',
     'Willowbrook Memorial Park': 'New Britain Veterans Stadium',
@@ -271,6 +289,10 @@ stadiums = {
     'Azteca': 'Estadio Azteca',
     'Jalisco': 'Estadio Jalisco',
     'Cuauhtemoc': 'Estadio Cuauhtémoc',
+    
+    'Estadío Cuauhtémoc': 'Estadio Cuauhtémoc',
+    'Cuauhtemoc Stadium': 'Estadío Cuauhtémoc',
+    'Estadio Cuauhtemoc': 'Estadio Cuauhtémoc',
     'Gerland': 'Stade de Gerland',
     'St. George Cricket Grounds': 'St. George\'s Cricket Grounds',
     'La Beaujoire': 'Stade de la Beaujoire',

@@ -22,6 +22,69 @@ l = [
         'capacity': 38000,
         },
 
+
+    {
+        'name': 'Estadio Manuel Ferreira',
+        'location': 'Asunción, Paraguay',
+        'opened': 1964,
+        'capacity': 18000,
+        },
+
+
+    {
+        'name': 'Estádio Urbano Caldeira',
+        'location': 'Santos, Brazil',
+        'opened': datetime.datetime(1916, 10, 12),
+        'capacity': 16798,
+        },
+
+
+    {
+        'name': 'Estadio José Antonio Anzoátegui',
+        'location': 'Puerto La Cruz, Venezuela',
+        'opened': datetime.datetime(1965, 12, 8),
+        'capacity': 37485,
+        'cost': 60400000,
+        },
+
+
+    {
+        'name': 'Estadio Miguel Grau (Piura)',
+        'location': 'Piura, Peru',
+        'opened': datetime.datetime(1958, 6, 7),
+        'capacity': 25000,
+        },
+
+
+    {
+        'name': 'Estadio Metropolitano Roberto Meléndez',
+        'location': 'Barranquilla, Colombia',
+        'opened': 1986,
+        'capacity': 49612,
+        },
+
+    {
+        'name': 'Estadio Feliciano Cáceres',
+        'location': 'Luque, Paraguay',
+        'opened': 1999,
+        'capacity': 25000
+        },
+
+    {
+        'name': 'Estadio General Pablo Rojas',
+        'location': 'Asunción, Paraguay',
+        'opened': 1992,
+        'capacity': 32910,
+        },
+
+
+    {
+        'name': 'Estadio San Juan del Bicentenario',
+        'location': 'San Juan, Argentina',
+        'opened': datetime.datetime(2011, 3, 16),
+        'capacity': 25286,
+        },
+
     {
         'name': 'Centro Esportivo Miécimo da Silva',
         'location': 'Rio de Janeiro, Brazil',
@@ -33,6 +96,16 @@ l = [
         'name': 'Estadio Valparaiso Sporting Club',
         'location': 'Viña del Mar, Chile',
         'opened': 1882,
+        },
+
+
+
+
+    {
+        'name': 'Estadio Guillermo Plazas Alcid',
+        'location': 'Neiva, Colombia',
+        'opened': datetime.datetime(1980, 11, 28),
+        'capacity': 22000,
         },
 
 
@@ -100,7 +173,7 @@ l = [
         },
 
     {
-        'name': 'Estadio Malvinas Argentina',
+        'name': 'Estadio Malvinas Argentinas',
         'location': 'Mendoza, Argentina',
         'opened': 1978,
         'capacity': 45268,
@@ -282,7 +355,7 @@ l = [
         },
 
     {
-        'name': 'Estadío Independencia', 
+        'name': 'Estádio Independência',
         'location': 'Belo Horizonte, Brazil',
         'opened': datetime.datetime(1950, 6, 25),
         'capacity': 25000,

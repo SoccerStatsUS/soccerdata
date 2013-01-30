@@ -11,6 +11,19 @@ l = [
         'location': 'Marrakech, Morocco',
         },
 
+    {
+        'name': 'Botswana National Stadium',
+        'location': 'Gaborone, Botswana',
+        'capacity': 22000,
+        },
+
+    {
+        'name': 'Kasarani Stadium',
+        'location': 'Nairobi, Kenya',
+        'opened': 1987,
+        'capacity': 60000,
+        },
+
 
     {
         'name': 'Mohamed V Stadium', 

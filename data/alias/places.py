@@ -15,6 +15,13 @@ def get_place(s):
 
 
 places = {
+    'Estadio Independencia, Belo Horizonte, Brazil': 'Estádio Independência',
+    'Estadio Monumental, Buenos Aires': 'Estadio Monumental Antonio Vespucio Liberti',
+    'Estadio Miguel Grau, Piura, Peru': 'Estadio Miguel Grau (Piura)',
+    'Estadio del Bicentenario, San Juan, Argentina': 'Estadio San Juan del Bicentenario',
+    'Stade Dillon, Fort-de-France, Martinique': 'Stade Pierre-Aliker',
+    'Estadio Pueblo Nuevo, San Cristobal, Venezuela': 'Estadio Polideportivo de Pueblo Nuevo',
+    'Toyota Arena, Prague, Czech Republic': 'Generali Arena',
     'National Stadium, Kingston, Jamaica': 'Independence Park (Jamaica)',
     'Greenfield Stadium, Trelawny, Jamaica': 'Greenfield Stadium (Trelawny)',
     'Independence Park, Kingston, Jamaica': 'Independence Park (Jamaica)',

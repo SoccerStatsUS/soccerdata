@@ -21,6 +21,48 @@ l = [
         'capacity': 32000,
         },
 
+
+    {
+        'name': 'Generali Arena',
+        'location': 'Prague, Czech Republic',
+        'opened': 1969,
+        'capacity': 20854
+        },
+
+
+    {
+        'name': 'Loftus Road',
+        'location': 'London, England',
+        'opened': 1904,
+        'capacity': 18500,
+        },
+
+
+    {
+        'name': 'Easter Road',
+        'location': 'Edinburgh, Scotland',
+        'opened': 1893,
+        'capacity': 20421,
+        },
+
+
+    {
+        'name': 'The Hawthorns',
+        'location': 'West Bromwich, England',
+        'opened': 1900,
+        'capacity': 26272,
+        },
+
+
+
+
+    {
+        'name': 'UPC-Arena',
+        'location': 'Graz, Austria',
+        'opened': datetime.datetime(1997, 7, 9),
+        'capacity': 15400,
+        },
+
     {
         'name': 'Stadio San Paolo',
         'location': 'Naples, Italy',
