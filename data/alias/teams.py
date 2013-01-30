@@ -2101,11 +2101,14 @@ international = {
     'Haití': 'Haiti',
     'Saint Vincent and Grenadines': 'Saint Vincent and the Grenadines',
     'Netherlands Antilles': 'Curacao',
+
     'Demerara': 'Guyana',
+    'British Guyana': 'Guyana',
+    'French Guyana': 'French Guiana',
     'Dutch Guiana': 'Suriname',
 
     'St Kitts': 'Saint Kitts and Nevis',
-    'French Guyana': 'French Guiana',
+
     'Turks and Caicos': 'Turks and Caicos Islands',
     'St. Kitts and Nevis': 'Saint Kitts and Nevis',
     'St. Vincent and the Grenadines': 'Saint Vincent and the Grenadines',

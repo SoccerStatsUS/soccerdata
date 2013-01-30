@@ -6,6 +6,14 @@ aliases = {}
 
 full_alias = {
 
+    'Duvalier Cup': 'Coupe Duvalier',
+    'Newton Cup': 'Copa Newton',
+    'President R.S. Pena Cup': 'Copa Roque Saenz Pena',
+    'Juan Pinto Duran Cup': 'Copa Pinto Duran',
+    'Argentine Honour Cup': 'Copa Premio Honor Argentino',
+
+    'Uruguayan Honour Cup': 'Copa Premio Honor Uruguayo',
+
     'CONCACAF Nations Cup': 'CONCACAF Championship',
     'Confederations Cup': 'FIFA Confederations Cup',
     'Panamerican Games': 'Pan American Gmaes',
@@ -29,6 +37,7 @@ full_alias = {
     'Southwest Independent Soccer League (indoor)': 'United States Interregional Soccer League (indoor)',
     'Southwest Independent Soccer League': 'United States Interregional Soccer League',
 
+    'US Cup': 'U.S. Cup',
     'USISL Premier League': 'USL Premier Developmental League',
 
     'USISL Professional League': 'USL Second Division',
