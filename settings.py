@@ -56,6 +56,7 @@ SOURCES = [
     'copa_america',
     'concacaf',
     'concacaf_i',
+    'conmebol_i',
     'mexico',
     'canada',
     'guatemala',

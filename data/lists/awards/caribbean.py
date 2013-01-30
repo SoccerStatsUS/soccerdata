@@ -55,7 +55,7 @@ cfu = {
 
     'Champion': [
         (1978, 'Suriname'),
-        (1978, 'Haiti'),
+        (1979, 'Haiti'),
         (1981, 'Trinidad and Tobago'),
         (1983, 'Martinique'),
         (1985, 'Martinique'),

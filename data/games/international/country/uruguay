@@ -621,8 +621,8 @@ Competition: Friendly
 06/04/1958; Uruguay; 1-0; Argentina      ;   Montevideo, Uruguay        
 30/04/1958; Uruguay; 0-2; Argentina      ;   Buenos Aires, Argentina      
 
-Season: 1959
-Competition: Copa America
+Season: 1959 Argentina
+Competition: Copa America 
 08/03/1959; Uruguay; 7-0; Bolivia        ;   Buenos Aires, Argentina      
 14/03/1959; Uruguay; 3-5; Peru           ;   Buenos Aires, Argentina      
 18/03/1959; Uruguay; 3-1; Paraguay       ;   Buenos Aires, Argentina      
@@ -630,9 +630,11 @@ Competition: Copa America
 30/03/1959; Uruguay; 1-4; Argentina      ;   Buenos Aires, Argentina      
 02/04/1959; Uruguay; 0-1; Chile          ;   Buenos Aires, Argentina      
 
+Season: 1959
 Competition: Friendly
 01/05/1959; Uruguay; 1-3; Paraguay       ;   Montevideo, Uruguay        
 
+Season: 1959 Ecuador
 Competition: Copa America
 06/12/1959; Uruguay; 4-0; Ecuador        ;   Guayaquil, Ecuador         
 12/12/1959; Uruguay; 3-0; Brazil         ;   Guayaquil, Ecuador         
@@ -946,10 +948,9 @@ Competition: Friendly
 11/12/1980; Uruguay; 5-0; Bolivia        ;   Maldonado, Uruguay         
 18/12/1980; Uruguay; 4-0; Switzerland    ;   Montevideo, Uruguay        
 
-Competition: Gold Cup (Mini World Cup)
+Competition: Mundialito
+Season: 1980
 30/12/1980; Uruguay; 2-0; Netherlands    ;   Montevideo, Uruguay        
-
-Season: 1981
 03/01/1981; Uruguay; 2-0; Italy          ;   Montevideo, Uruguay        
 10/01/1981; Uruguay; 2-1; Brazil         ;   Montevideo, Uruguay        
 

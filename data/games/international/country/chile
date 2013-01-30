@@ -102,10 +102,11 @@ Competition: Copa America
 18/01/1935; Chile; 1-2 ; Uruguay         ;  Lima, Peru          
 26/01/1935; Chile; 0-1 ; Peru            ;  Lima, Peru          
 
-Season: 1936
-30/12/1936; Chile; 1-2 ; Argentina       ;  Buenos Aires, Argentina  
+
+
 
 Season: 1937
+30/12/1936; Chile; 1-2 ; Argentina       ;  Buenos Aires, Argentina  
 03/01/1937; Chile; 4-6 ; Brazil          ;  Buenos Aires, Argentina  
 10/01/1937; Chile; 3-0 ; Uruguay         ;  Buenos Aires, Argentina  
 17/01/1937; Chile; 2-3 ; Paraguay        ;  Buenos Aires, Argentina  
@@ -280,8 +281,8 @@ Competition: World Cup Qualifying
 13/10/1957; Chile; 0-2 ; Argentina       ;  Santiago, Chile           
 20/10/1957; Chile; 0-4 ; Argentina       ;  Buenos Aires, Argentina  
 
-Season: 1959
-Competition: Copa America
+Season: 1959 Argentina
+Competition: Copa America 
 07/03/1959; Chile; 1-6 ; Argentina       ;  Buenos Aires, Argentina  
 11/03/1959; Chile; 1-2 ; Paraguay        ;  Buenos Aires, Argentina  
 15/03/1959; Chile; 0-3 ; Brazil          ;  Buenos Aires, Argentina  
@@ -289,6 +290,7 @@ Competition: Copa America
 26/03/1959; Chile; 5-2 ; Bolivia         ;  Buenos Aires, Argentina  
 02/04/1959; Chile; 1-0 ; Uruguay         ;  Buenos Aires, Argentina  
 
+Season: 1959
 Competition: Copa O'Higgins
 17/09/1959; Chile; 0-7 ; Brazil          ;  Rio de Janeiro, Brazil
 20/09/1959; Chile; 0-1 ; Brazil          ;  Rio de Janeiro, Brazil
@@ -391,10 +393,9 @@ Competition: FIFA World Cup
 20/07/1966; Chile; 1-2 ; U.S.S.R.        ;  Sunderland, England    
 
 Competition: Copa America
+Season: 1967
 30/11/1966; Chile; 5-2 ; Colombia        ;  Santiago, Chile           
 11/12/1966; Chile; 0-0 ; Colombia        ;  Bogotá, Colombia        
-
-Season: 1967
 18/01/1967; Chile; 2-0 ; Venezuela       ;  Montevideo, Uruguay    
 22/01/1967; Chile; 4-2 ; Paraguay        ;  Montevideo, Uruguay    
 26/01/1967; Chile; 2-2 ; Uruguay         ;  Montevideo, Uruguay    

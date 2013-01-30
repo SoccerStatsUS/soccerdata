@@ -38,7 +38,7 @@ full_alias = {
 
     'American Indoor Soccer Association': 'National Professional Soccer League (indoor)',
 
-    'International Friendly': 'Friendly International',
+    'Friendly International': 'International Friendly',
 
     'Recopa CONCACAF': 'CONCACAF Cup Winners Cup',
     'CONCACAF Champions Cup': 'CONCACAF Champions\' Cup',

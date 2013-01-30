@@ -8,7 +8,7 @@ Competition: Bolivarian Games
 19/8/1938; Ecuador; 5-2 ;    Venezuela      ; Bogota, Colombia           
 22/8/1938; Ecuador; 1-2 ;    Bolivia        ; Bogota, Colombia           
 
-Season: 1938
+Season: 1939
 Competition: Copa America
 15/1/1939; Ecuador; 2-5 ;    Peru           ; Lima, Peru             
 22/1/1939; Ecuador; 0-6 ;    Uruguay        ; Lima, Peru             
@@ -16,12 +16,14 @@ Competition: Copa America
 12/2/1939; Ecuador; 1-3 ;    Paraguay       ; Lima, Peru             
 
 Season: 1941
+Competition: Copa America
  2/2/1941; Ecuador; 0-5 ;    Chile          ; Santiago, Chile         
  9/2/1941; Ecuador; 0-6 ;    Uruguay        ; Santiago, Chile         
 16/2/1941; Ecuador; 1-6 ;    Argentina      ; Santiago, Chile         
 23/2/1941; Ecuador; 0-4 ;    Peru           ; Santiago, Chile         
 
 Season: 1942
+Competition: Copa America
 18/1/1942; Ecuador; 0-7 ;    Uruguay        ; Montevideo, Uruguay       
 22/1/1942; Ecuador; 0-12;    Argentina      ; Montevideo, Uruguay       
 25/1/1942; Ecuador; 1-3 ;    Paraguay       ; Montevideo, Uruguay       
@@ -30,6 +32,7 @@ Season: 1942
  5/2/1942; Ecuador; 1-2 ;    Chile          ; Montevideo, Uruguay       
 
 Season: 1945
+Competition: Copa America
 14/1/1945; Ecuador; 3-6 ;    Chile          ; Santiago, Chile         
 24/1/1945; Ecuador; 1-5 ;    Uruguay        ; Santiago, Chile         
 31/1/1945; Ecuador; 2-4 ;    Argentina      ; Santiago, Chile         
@@ -38,6 +41,7 @@ Season: 1945
 21/2/1945; Ecuador; 2-9 ;    Brazil         ; Santiago, Chile         
 
 Season: 1947
+Competition: Copa America
 30/11/1947; Ecuador; 2-2 ;    Bolivia        ; Guayaquil, Ecuador            
  4/12/1947; Ecuador; 0-0 ;    Colombia       ; Guayaquil, Ecuador            
 11/12/1947; Ecuador; 0-3 ;    Chile          ; Guayaquil, Ecuador            
@@ -47,6 +51,7 @@ Season: 1947
 29/12/1947; Ecuador; 0-4 ;    Paraguay       ; Guayaquil, Ecuador            
 
 Season: 1949
+Competition: Copa America
  3/4/1949; Ecuador; 1-9 ;    Brazil         ; Rio de Janeiro, Brazil   
 10/4/1949; Ecuador; 0-1 ;    Paraguay       ; Rio de Janeiro, Brazil   
 13/4/1949; Ecuador; 2-3 ;    Uruguay        ; Rio de Janeiro, Brazil   
@@ -56,6 +61,7 @@ Season: 1949
  3/5/1949; Ecuador; 3-2 ;    Colombia       ; Rio de Janeiro, Brazil   
 
 Season: 1953
+Competition: Copa America
 28/2/1953; Ecuador; 0-1 ;    Peru           ; Lima, Peru             
  4/3/1953; Ecuador; 0-0 ;    Paraguay       ; Lima, Peru             
  8/3/1953; Ecuador; 1-1 ;    Bolivia        ; Lima, Peru             
@@ -64,6 +70,7 @@ Season: 1953
 23/3/1953; Ecuador; 0-6 ;    Uruguay        ; Lima, Peru             
 
 Season: 1955
+Competition: Copa America
 27/2/1955; Ecuador; 1-7 ;    Chile          ; Santiago, Chile         
  9/3/1955; Ecuador; 0-4 ;    Argentina      ; Santiago, Chile         
 13/3/1955; Ecuador; 2-4 ;    Peru           ; Santiago, Chile         
@@ -71,6 +78,7 @@ Season: 1955
 23/3/1955; Ecuador; 1-5 ;    Uruguay        ; Santiago, Chile        
 
 Season: 1957 
+Competition: Copa America
  7/3/1957; Ecuador; 2-5 ;    Uruguay        ; Lima, Peru             
 10/3/1957; Ecuador; 1-2 ;    Peru           ; Lima, Peru             
 17/3/1957; Ecuador; 0-3 ;    Argentina      ; Lima, Peru             
@@ -78,12 +86,14 @@ Season: 1957
 24/3/1957; Ecuador; 2-2 ;    Chile          ; Lima, Peru             
  1/4/1957; Ecuador; 1-4 ;    Colombia       ; Lima, Peru             
 
-Season: 1959
+Season: 1959 Ecuador
+Competition: Copa America
  6/12/1959; Ecuador; 0-4 ;    Uruguay        ; Guayaquil, Ecuador            
 12/12/1959; Ecuador; 1-1 ;    Argentina      ; Guayaquil, Ecuador            
 19/12/1959; Ecuador; 1-3 ;    Brazil         ; Guayaquil, Ecuador            
 25/12/1959; Ecuador; 3-1 ;    Paraguay       ; Guayaquil, Ecuador            
 
+Season: 1959
 Competition: Friendly
 27/12/1959; Ecuador; 1-2 ;    Brazil; Guayaquil, Ecuador             ;
 
@@ -109,8 +119,8 @@ Competition: World Cup Qualifying
 22/8/1965; Ecuador; 1-3 ;    Chile          ; Santiago, Chile         
 12/10/1965; Ecuador; 1-2 ;    Chile          ; Lima, Peru            
 
-Season: 1966
-Competition: Copa America Qualifying
+Season: 1967
+Competition: Copa America
 21/12/1966; Ecuador; 2-2 ;    Paraguay       ; Guayaquil, Ecuador            
 28/12/1966; Ecuador; 1-3 ;    Paraguay       ; Asuncion, Paraguay        
 
@@ -268,7 +278,7 @@ Competition: Friendly
 15/6/1988; Ecuador; 1-1 ;    Honduras; Tegucigalpa, Honduras   
 17/6/1988; Ecuador; 1-0 ;    Honduras; Tegucigalpa, Honduras   
  7/9/1988; Ecuador; 1-5 ;    Paraguay; Guayaquil, Ecuador          
-13/9/1988; Ecuador; 1-3 ;    Chile; La Serena, Chile       19 
+13/9/1988; Ecuador; 1-3 ;    Chile; La Serena, Chile
 
 Competition: Boqueron Cup
 27/9/1988; Ecuador; 1-2 ;    Uruguay; Asuncion, Paraguay       
@@ -435,7 +445,7 @@ Competition: Copa America
 11/6/1997; Ecuador; 0-0 ;    Argentina      ; Cochabamba, Bolivia      
 14/6/1997; Ecuador; 2-0 ;    Paraguay       ; Cochabamba, Bolivia      
 17/6/1997; Ecuador; 2-1 ;    Chile          ; Cochabamba, Bolivia      
-22/6/1997; Ecuador; 1-1 ;    Mexico      [3]; Cochabamba, Bolivia      
+22/6/1997; Ecuador; 1-1 ;    Mexico       ; Cochabamba, Bolivia      
 *[3] Mexico won 4-3 on penalty kicks.
 
 Competition: World Cup Qualifying
@@ -610,7 +620,7 @@ Competition: World Cup Qualifying
 
 Competition: LG Cup
 20/10/2004; Ecuador; 0-3 ;    Jordan         ; Tripoli, Libya
-22/10/2004; Ecuador; 2-2 ;    Nigeria     [4]; Tripoli, Libya
+22/10/2004; Ecuador; 2-2 ;    Nigeria     ; Tripoli, Libya
 *[4] Ecuador won 4-3 on penalty kicks.
 
 Competition: Friendly

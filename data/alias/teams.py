@@ -2098,6 +2098,7 @@ college = {
 teams.update(college)
 
 international = {
+    'Netherlands Antilles': 'Curacao',
     'Demerara': 'Guyana',
     'Dutch Guiana': 'Suriname',
 

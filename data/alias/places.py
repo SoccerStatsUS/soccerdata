@@ -15,6 +15,14 @@ def get_place(s):
 
 
 places = {
+    'Estadio Monumental, Guayaquil, Ecuador': 'Estadio Monumental Isidro Romero Carbo',
+    'Estadio Campus Municipal, Maldonado, Uruguay':    'Estadio Suppici',
+    'Estadio Olimpico, Caracas, Venezuela': 'Estadio Olímpico de la UCV',
+    'Independiente Stadium, Avellaneda, Argentina': 'Estadio de Independiente',
+    'Estadio Centenario, Armenia, Colombia': 'Estadio Centenario de Armenia',
+    'Estadio Monumental, Buenos Aires, Argentina': 'Estadio Monumental Antonio Vespucio Liberti',
+    'Estadio Nacional, Santiago, Chile': 'Estadio Nacional Julio Martínez Prádanos',
+    'Estadio Nacional, Lima, Peru': 'Estadio Nacional de Peru',
     'FIFA World Cup Stadium, Hamburg': 'HSH Nordbank Arena',
     'FIFA World Cup Stadium, Dortmund': 'Signal Iduna Park',
     'FIFA World Cup Stadium, Frankfurt, Frankfurt/Main': 'Commerzbank-Arena',

@@ -82,19 +82,20 @@ def load_drafts():
 
 def load_games():
 
-
     load_conmebol_international()
+    return
+
     load_concacaf_international()
 
     load_usmnt()
+    load_fifa()
+    load_olympics()
     return
 
     load_asl()
     load_early_cups()
     load_early_friendlies()
 
-    load_fifa()
-    load_olympics()
 
     #load_argentina()
     load_mexico()
@@ -144,72 +145,6 @@ def load_new_standings(coll, fn, delimiter=';'):
     Load semicolon-style standings
     """
     generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_standings_file(fn, delimiter))
-
-
-def generate_cities():
-    """
-    Generate city objects from 
-    """
-
-
-    print "Generating cities."
-
-    state_code_dict = make_state_code_dict()
-
-    state_name_set = set([e['name'] for e in soccer_db.states.find()])
-    country_name_set = set([e['name'] for e in soccer_db.countries.find()])
-
-    def make_city(s):
-        """
-        Format a city based on known state and country names.
-        """
-        # This doesn't seem to be the right place for this function.
-
-        country = state = None
-
-        if ',' in s:
-            pieces = s.split(',')
-            end = pieces[-1].strip()
-
-            
-            
-            if end in state_code_dict:
-                state = state_code_dict[end]
-
-            elif end in state_name_set:
-                state = end
-
-            elif end in country_name_set:
-                country = end
-
-        if country or state:
-            name = ','.join(pieces[:-1])
-        else:
-            name = s
-
-        return {
-            'name': name,
-            'country': country,
-            'state': state,
-            }
-            
-
-    
-    cities = set()
-
-    for e in soccer_db.bios.find():
-        cities.add(e.get('birthplace'))
-        cities.add(e.get('deathplace'))
-
-
-    for e in soccer_db.games.find():
-        cities.add(e['location'])
-
-    cities.remove(None)
-    city_dicts = [make_city(e) for e in sorted(cities)]
-
-
-
 
             
 def load_name_maps():
@@ -363,6 +298,10 @@ def load_modern_cups():
 
     for e in range(197, 202):
         load_games_standard('open_cup', 'domestic/country/usa/cups/open/%s0' % e)#, games_only=True)
+
+
+
+
 
 def load_canada():
     load_excel_standings('apsl', 'domestic/country/canada/csl')
@@ -570,6 +509,8 @@ def load_copa_america():
     generic_load(soccer_db.copa_america_rosters, lambda: rosters.process_rosters('international/copa_america'))
 
     generic_load(soccer_db.copa_america_awards, awards.process_conmebol_awards)
+
+    load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_america/stadia')
 
 
     
@@ -856,6 +797,7 @@ def load_uncaf_international():
     load_games_standard('concacaf_i', 'international/country/nicaragua')
     load_games_standard('concacaf_i', 'international/country/panama')
 
+
 def load_caribbean_international():
     generic_load(soccer_db.concacaf_i_awards, awards.process_caribbean_awards)
 
@@ -900,6 +842,10 @@ def load_caribbean_international():
     #load_games_standard('concacaf_i', 'international/country/virgin_gorda')
 
 
+def load_panamerican():
+    for e in [1955, 1959, 1963, 1967, 1971, 1975, 1979, 1983, 1987, 1991, 1995, 1999,
+              2003, 2007]:
+        load_games_standard('concacaf_i', 'international/world/panamerican/%s' % e)
 
 
 def load_concacaf_international():
@@ -916,12 +862,10 @@ def load_concacaf_international():
     load_games_standard('canada', 'international/country/canada')
     load_games_standard('mexico', 'international/country/mexico/alltime')
 
+    load_panamerican()
     load_uncaf_international()
     load_caribbean_international()
     
-
-
-
 
 
 def load_concacaf():
@@ -1011,6 +955,74 @@ def load_eufootball():
 def load_statto():
     # Various historical scores.
     generic_load(soccer_db.world_cup_games, statto.scrape_all_games)    
+
+
+
+def generate_cities():
+    """
+    Generate city objects from 
+    """
+
+
+    print "Generating cities."
+
+    state_code_dict = make_state_code_dict()
+
+    state_name_set = set([e['name'] for e in soccer_db.states.find()])
+    country_name_set = set([e['name'] for e in soccer_db.countries.find()])
+
+    def make_city(s):
+        """
+        Format a city based on known state and country names.
+        """
+        # This doesn't seem to be the right place for this function.
+
+        country = state = None
+
+        if ',' in s:
+            pieces = s.split(',')
+            end = pieces[-1].strip()
+
+            
+            
+            if end in state_code_dict:
+                state = state_code_dict[end]
+
+            elif end in state_name_set:
+                state = end
+
+            elif end in country_name_set:
+                country = end
+
+        if country or state:
+            name = ','.join(pieces[:-1])
+        else:
+            name = s
+
+        return {
+            'name': name,
+            'country': country,
+            'state': state,
+            }
+            
+
+    
+    cities = set()
+
+    for e in soccer_db.bios.find():
+        cities.add(e.get('birthplace'))
+        cities.add(e.get('deathplace'))
+
+
+    for e in soccer_db.games.find():
+        cities.add(e['location'])
+
+    cities.remove(None)
+    city_dicts = [make_city(e) for e in sorted(cities)]
+
+
+
+
 
 
 
