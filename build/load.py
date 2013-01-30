@@ -83,9 +83,10 @@ def load_drafts():
 def load_games():
 
     load_conmebol_international()
+    load_concacaf_international()
     return
 
-    load_concacaf_international()
+
 
     load_usmnt()
     load_fifa()

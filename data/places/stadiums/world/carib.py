@@ -21,6 +21,49 @@ l = [
         },
 
     {
+        'name': 'Jarrett Park',
+        'location': 'Montego Bay, Jamaica',
+        'capacity': 4000,
+        },
+
+    {
+        'name': 'Independence Park (Jamaica)',
+        'location': 'Kingston, Jamaica',
+        'capacity': 35000,
+        'opened': 1962,
+        },
+
+    {
+        'name': 'Greenfield Stadium (Trelawny)',
+        'location': 'Trelawny, Jamaica',
+        'capacity': 25000,
+        'opened': 2007,
+        },
+
+    {
+        'name': 'Stade Alfred Marie-Jeanne',
+        'location': 'Rivière-Pilote, Martinique,',
+        'capacity': 3000,
+        'opened': 1991,
+        },
+
+
+    {
+        'name': 'Stade Pierre-Aliker',
+        'location': 'Fort-de-France, Martinique',
+        'capacity': 16300,
+        'opened': 1993,
+        },
+
+
+    {
+        'name': 'Antigua Recreation Ground',
+        'location': 'St. John\'s, Antigua and Barbuda',
+        'opened': 1978,
+        'capacity': 12000,
+        },
+
+    {
         'name': 'Sir Vivian Richards Stadium',
         'location': 'North Sound, Antigua and Barbuda',
         'opened': 2008,
@@ -95,6 +138,19 @@ l = [
         'name': 'Bermuda National Stadium', 
         'location': 'Hamilton, Bermuda',
         'capacity': 8500,
+        },
+
+    {
+        'name': 'Barbados National Stadium', 
+        'location': 'Waterford, Barbados',
+        'opened': 1970,
+        'capacity': 15000,
+        },
+
+
+    {
+        'name': 'Warner Park',
+        'location': 'Basseterre, Saint Kitts and Nevis',
         },
 
     {

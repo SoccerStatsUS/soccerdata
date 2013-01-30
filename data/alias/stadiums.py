@@ -145,6 +145,8 @@ stadiums = {
     'Restelo Stadium': 'Estádio do Restelo',
     'B.C. Place': 'BC Place',
     'Tegucigalpa Estadío Nacional': 'Estadio Tiburcio Carías Andino',
+    'Estadio Tiburcio Carias Andino': 'Estadio Tiburcio Carías Andino',
+    'Estadio Nacional Tiburcio Carias': 'Estadio Tiburcio Carías Andino',
     'Maksimir Stadion': 'Stadion Maksimir',
     'Estadio Zorilla': 'Estadio Nuevo José Zorrilla',
     'Tokyo National Stadium': 'Tokyo National Olympic Stadium',
@@ -158,7 +160,13 @@ stadiums = {
     'Seattle Memorial Stadium': 'Seattle High School Memorial Stadium',
     'Allmend Stadium': 'Stadion Allmend',
     'Soccer and Sports Center': 'Kuntz Stadium',
-    'Estadio Cuscatlán': 'Estadío Cuscatlán',
+    
+
+    'Stade Municipal en Camee': 'Stade Alfred Marie-Jeanne',
+    'Stade Municipal Pierre-Aliker': 'Stade Pierre-Aliker',
+    'Estadio Excelsior': 'Estadio Excélsior',
+    'Estadío Cuscatlán': 'Estadio Cuscatlán',
+    'Estadio Cuscatlan': 'Estadio Cuscatlán',
     'Estadio Cuauhtémoc': 'Estadío Cuauhtémoc',
     'Nep Stadium': 'Nepstadion',
     'Willow Memorial Park Stadium': 'New Britain Veterans Stadium',
@@ -195,11 +203,11 @@ stadiums = {
     'Estadio Agustin Sanchez': 'Estadio Agustín Sánchez',
     'Estadio Armando Dely Valdes': 'Estadio Armando Dely Valdés',
     'Estadio Nemesio Diez': 'Estadio Nemesio Díez',
-    'Estadio Cuscatlan': 'Estadio Cuscatlán',
+
     'Estadio Olimpico Universitario': 'Estadio Olímpico Universitario',
     'Estadio Tecnologico': 'Estadio Tecnológico',
     'Estadio Francisco Morazan': 'Estadio Francisco Morazán',
-    'Estadio Tiburcio Carias Andino': 'Estadio Tiburcio Carías Andino',
+
     'Estadio Olimpico Metropolitano': 'Estadio Olímpico Metropolitano',
     'Estadio Jorge Calero Suarez': 'Estadio Jorge Calero Suárez',
     'DSG Park': 'Dick\'s Sporting Goods Park',

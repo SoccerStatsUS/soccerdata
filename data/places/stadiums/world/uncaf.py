@@ -9,11 +9,18 @@ import datetime
 l = [
 
         {
-        'name': 'Estadío Cuscatlán',
-
+        'name': 'Estadio Cuscatlán',
         'location': 'San Salvador, El Salvador',
         'opened': 1976,
         'capacity': 39043,
+        },
+
+
+        {
+        'name': 'Estadio Excélsior',
+        'location': 'Puerto Cortés, Honduras',
+        'opened': 1930,
+        'capacity': 7910,
         },
 
 
