@@ -847,6 +847,10 @@ def load_caribbean_international():
 
 
 def load_panamerican():
+
+    generic_load(soccer_db.concacaf_i_awards, awards.process_panamerican_awards)
+
+
     for e in [1955, 1959, 1963, 1967, 1971, 1975, 1979, 1983, 1987, 1991, 1995, 1999,
               2003, 2007]:
         load_games_standard('concacaf_i', 'international/world/panamerican/%s' % e)

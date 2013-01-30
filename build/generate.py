@@ -52,7 +52,7 @@ def generate_competition_stats():
     competition_generate('World Cup Qualifying')
     competition_generate('Olympic Games')
 
-    competition_generate('Friendly International')
+    competition_generate('International Friendly')
 
     competition_generate('Gold Cup')    
     competition_generate('CONCACAF Championship')

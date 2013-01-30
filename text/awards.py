@@ -126,6 +126,11 @@ def process_conmebol_awards():
     from soccerdata.data.lists.awards.conmebol import copa_america
     return process_awards(copa_america)
 
+def process_panamerican_awards():
+    from soccerdata.data.lists.awards.panamerican import pac, pag
+    return process_awards(pag) + process_awards(pac)
+
+
 
 def process_usa_awards():
     from soccerdata.data.lists.awards.nasl import usa
