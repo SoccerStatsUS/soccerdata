@@ -123,21 +123,32 @@ class GeneralProcessor(object):
         # Set the competition.
         if line.startswith("Competition:"):
             self.competition = line.split("Competition:")[1].strip()
-            self.round = ''
+            self.round = self.group = ''
             return
 
         if line.startswith("Season:"):
             self.season = line.split("Season:")[1].strip()
-            self.round = ''
+            self.round = self.group = ''
             return
 
         # Set the round.
         if line.startswith("Round:"):
             self.round = line.split('Round:')[1].strip()
             if self.round.lower() == 'none':
-                self.round = None
+                self.round = ''
+                self.group = ''
                 
             return
+
+
+        if line.startswith("Group"):
+            self.round = line.split('Group:')[1].strip()
+            if self.round.lower() == 'none':
+                self.round = None
+
+            return
+
+
 
         # Set the round.
         if line.startswith("Roster"):
@@ -153,8 +164,6 @@ class GeneralProcessor(object):
         if line.startswith('Subs:'):
             return
 
-        if line.startswith("Group"):
-            return
 
         if line.startswith("Description"):
             return
@@ -414,7 +423,7 @@ class GeneralProcessor(object):
                 elif score == '?':
                     team1_score = team2_score = None
                     result_unknown = True
-                elif score in ('n/p', 'np'):
+                elif score in ('n/p', 'np', 'v'):
                     team1_score = team2_score = None
                 else:
                     team1_score, team2_score = [e.strip() for e in score.split(delimiter)]
