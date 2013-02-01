@@ -90,6 +90,23 @@ giants_cup = {
 
 
 
+ccc = {
+
+    'competition': 'CONCACAF Cup Winners Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1991, 'Atletico Marte'),
+        (1993, 'Monterrey'),
+        (1994, 'Necaxa'),
+        (1995, 'Tecos'),
+        ],
+
+}
+
+
+
+
 gold_cup = {
     'competition': 'Gold Cup',
     'team_data': ['Champion'],
@@ -191,6 +208,8 @@ championship = {
         (1989, 'Costa Rica'),
         ]
 }
+
+
 
 cacg = {
     'competition': 'Central American and Caribbean Games',

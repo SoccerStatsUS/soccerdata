@@ -15,6 +15,8 @@ def get_place(s):
 
 
 places = {
+    'Ciudad de Panamá, Panama': 'Panama City, Panama',
+    'Centre of Excellence, Port of Spain, Trinidad and Tobago': 'Dr. João Havelange Centre of Excellence',
     'Estadio Independencia, Belo Horizonte, Brazil': 'Estádio Independência',
     'Estadio Monumental, Buenos Aires': 'Estadio Monumental Antonio Vespucio Liberti',
     'Estadio Miguel Grau, Piura, Peru': 'Estadio Miguel Grau (Piura)',

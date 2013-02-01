@@ -20,11 +20,9 @@ l = [
         'location': 'Overland Park, KS',
         },
     
-    
-    
-    
+
     {
-        'name': 'Livestrong Sporting Park',
+        'name': 'Sporting Kansas City Park',
         'address': 'One Sporting Way',
         'location': 'Kansas City, KS',
         'opened': datetime.datetime(2011, 6, 9),

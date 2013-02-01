@@ -101,12 +101,13 @@ Group: Group A
 * 3.Surinam       3  0  1  2  2- 6  1
 * 4.Antigua and Barbuda 3  0  1  2  2-12  1
 
-; Martinique    ; 4-1; Surinam           
-; Trinidad and Tobago ; 7-0; Antigua and Barbuda   
-; Surinam       ; 1-1; Antigua and Barbuda   
-; Trinidad and Tobago ; 2-1; Martinique        
-; Martinique    ; 4-1; Antigua and Barbuda 
-; Trinidad and Tobago ; 1-0; Surinam        
+* Something is wrong here.
+6/21/1992; Martinique    ; 4-1; Surinam           
+6/17/1992; Trinidad and Tobago ; 7-0; Antigua and Barbuda   
+6/17/1992; Surinam       ; 1-1; Antigua and Barbuda   
+6/17/1992; Trinidad and Tobago ; 2-1; Martinique        
+6/19/1992; Martinique    ; 4-1; Antigua and Barbuda 
+6/19/1992; Trinidad and Tobago ; 1-0; Surinam        
 
 Group: Group B
 
@@ -115,18 +116,18 @@ Group: Group B
 *  3.Guadeloupe    3  1  0  2  1- 3  2
 *  4.Saint Vincent    3  0  0  3  0- 4  0
 
-; Cuba          ; 2-0; Guadeloupe        
-; Jamaica       ; 2-0; Saint Vincent and the Grenadines
-; Cuba          ; 1-0; Saint Vincent and the Grenadines       
-; Jamaica       ; 1-0; Guadeloupe       
-; Guadeloupe    ; 1-0; Saint Vincent and the Grenadines 
-; Jamaica       ; 0-0; Cuba
+6/21/1992; Cuba          ; 2-0; Guadeloupe        
+6/18/1992; Jamaica       ; 2-0; Saint Vincent and the Grenadines
+6/19/1992; Cuba          ; 1-0; Saint Vincent and the Grenadines       
+6/19/1992; Jamaica       ; 1-0; Guadeloupe       
+6/17/1992; Guadeloupe    ; 1-0; Saint Vincent and the Grenadines 
+6/17/1992; Jamaica       ; 0-0; Cuba
 
 Round: Semifinals
 
-; Jamaica       ; 1-0; Martinique; Trinidad and Tobago        
+6/24/1992; Jamaica       ; 1-0; Martinique; Trinidad and Tobago        
 
-; Trinidad and Tobago ; 1-0; Cuba; Trinidad and Tobago        
+6/24/1992; Trinidad and Tobago ; 1-0; Cuba; Trinidad and Tobago        
 
 Round: Third Place
 
@@ -135,7 +136,7 @@ Round: Third Place
 
 Round: Final
 6/27/1992; Trinidad and Tobago;  3-1; Jamaica; Port of Spain, Trinidad and Tobago; 29000
-Lewis 19, Lapaty 37, Marcelle 85; Graham 49
+Lewis 19, Latapy 37, Marcelle 85; Graham 49
 
 
 
@@ -192,6 +193,8 @@ Round: Final
 
 
 Season: 1994
+* Dates may not be correct.
+
 
 Round: Final Stage 
 
@@ -202,18 +205,18 @@ Group: Group A
 * 3.Barbados      3  0  2  1  3- 5  2
 * 4.Dominica      3  0  1  2  1-11  1
 
-; Trinidad and Tobago ; 5-0; Dominica; Trinidad and Tobago          
+4/8/1994; Trinidad and Tobago ; 5-0; Dominica; Trinidad and Tobago          
 Dexter Cyrus, Dexter Cyrus, Dexter Cyrus, Dexter Cyrus, Marvin Faustin;
 
-; Guadeloupe    ; 2-2; Barbados; Trinidad and Tobago                    
+4/8/1994; Guadeloupe    ; 2-2; Barbados; Trinidad and Tobago                    
 
-; Trinidad and Tobago ; 0-0; Guadeloupe; Trinidad and Tobago                  
+4/10/1994; Trinidad and Tobago ; 0-0; Guadeloupe; Trinidad and Tobago                  
 
-; Barbados      ; 1-1; Dominica; Trinidad and Tobago                   
+4/10/1994; Barbados; 1-1; Dominica; Trinidad and Tobago                   
 
-; Guadeloupe    ; 5-0; Dominica; Trinidad and Tobago          
+4/12/1994; Guadeloupe ; 5-0; Dominica; Trinidad and Tobago          
 
-; Trinidad and Tobago ; 2-0; Barbados; Trinidad and Tobago          
+4/12/1994; Trinidad and Tobago ; 2-0; Barbados; Trinidad and Tobago          
 Dean Pacheco, Marvin Faustin; 
 
 
@@ -224,12 +227,12 @@ Group: Group B
 * 3.Haiti         3  1  1  1  4- 6  4
 * 4.Cayman Isl.   3  0  1  2  3- 6  1
 
-; Haiti         ; 3-2; Cayman Isl.       
-; Martinique    ; 2-0; Surinam           
-; Surinam       ; 2-0; Cayman Isl.       
-; Martinique    ; 3-0; Haiti            
-; Martinique    ; 1-1; Cayman Isl.
-; Surinam       ; 1-1; Haiti
+4/7/1994; Haiti         ; 3-2; Cayman Islands
+4/7/1994; Martinique    ; 2-0; Surinam           
+4/9/1994; Surinam       ; 2-0; Cayman Islands       
+4/9/1994; Martinique    ; 3-0; Haiti            
+4/11/1994; Martinique    ; 1-1; Cayman Islands
+4/11/1994; Surinam       ; 1-1; Haiti
 
 
 Round: Semifinals

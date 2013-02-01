@@ -232,6 +232,7 @@ stadiums = {
     'Estadio Jorge Calero Suarez': 'Estadio Jorge Calero Suárez',
     'DSG Park': 'Dick\'s Sporting Goods Park',
     'Lehigh Stadium': 'Taylor Field',
+    'Livestrong Sporting Park': 'Sporting Kansas City Park',
     'Starfire Complex': 'Starfire Sports Complex',
     'Rochester Rhinos Stadium': 'Sahlen\'s Stadium',
     'RE/MAX Greater Atlanta Stadium': 'Atlanta Silverbacks Park',

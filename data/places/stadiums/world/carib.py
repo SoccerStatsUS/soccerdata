@@ -17,7 +17,15 @@ l = [
     {
         'name': 'André Kamperveen Stadion',
         'location': 'Paramaribo, Suriname',
-        'capacity': 6000',
+        'capacity': '6000',
+        },
+
+
+    {
+        'name': 'Dr. João Havelange Centre of Excellence',
+        'location': 'Port of Spain, Trinidad and Tobago',
+        'opened': 1998,
+        #'capacity': '6000',
         },
 
     {
