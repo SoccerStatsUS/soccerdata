@@ -347,7 +347,8 @@ Date: 6/15/1997
 * Escuintla and Sacachispas remain in first division; Amatitlán are relegated.  Chimaltenango are promoted (along with Coban).
 
 
-Competition: Championship Playoff
+* Competition: Championship Playoff
+Round: Championship Playoff
 
 6/8/1997; Comunicaciones; 2-0; Aurora
 Milton Nunez 28, Floyd Guthrie 68; 
@@ -357,9 +358,8 @@ Milton Nunez 32, Nicolas Suazo 44, Nicolas Suazo 53; Moises Canalonga 55
 
 * Comunicaciones Champions 1996/97.
 
+
 Competition: Liga Nacional de Fútbol de Guatemala
-
-
 Season: 1997-1998
 
 Round: First Stage
@@ -443,7 +443,7 @@ Date: 11/8/1997
 ; Aurora        ; 2-1; Suchitepequez
 ; Azucareros    ; 2-0; Sacachispas
 ; Coban         ; 2-0; Escuintla
-; Municipal     ; 0-2; Comunicaciones  [Nov 10]
+11/10/1997; Municipal     ; 0-2; Comunicaciones
 
 * Round 10 [Nov 15]
 Date: 11/15/1997
@@ -535,7 +535,7 @@ Date: 1/17/1998
 ; Azucareros    ; 0-1; Escuintla
 ; Coban         ; 3-1; Zacapa
 
-Round 20 [Jan 24]
+*Round 20 [Jan 24]
 Date: 1/24/1998
 1/20/1998; Comunicaciones; 3-0; Municipal
 ; Escuintla     ; 0-2; Coban   
@@ -1279,8 +1279,8 @@ Date: 11/28/1999
 * Clausura
 
 
-Round 1
-[Jan 8]
+*Round 1
+*[Jan 8]
 1/8/2000; Universidad   ; 1-2; Municipal  
 
 * [Jan 9]
@@ -1525,7 +1525,7 @@ Date: 7/30/2000
 ; Coban         ; 2-0; Santa Lucia
 ; Achuapa       ; 2-2; Comunicaciones 
 
-Round 2
+*Round 2
 *[Aug 5]
 8/5/2000; Aurora        ; 0-0; Coban
 8/5/2000; Comunicaciones; 1-0; Universidad
@@ -1634,7 +1634,7 @@ Date: 10/8/2000
 ; Zacapa        ; 2-0; Xelaju 
 ; Antigua       ; 3-1; Marquense 
 ; Santa Lucia   ; 2-2; Coban 
-[Oct 12]
+* [Oct 12]
 10/12/2000; Comunicaciones; 7-1; Achuapa
 10/12/2000; Municipal     ; 1-1; Aurora
 
@@ -1739,836 +1739,2270 @@ Round: Clausura
 *Round 1
 *[Jan 21]
 Date: 1/21/2001
-Zacapa         1-1 Aurora
-Santa Lucia    3-2 Marquense
-Carcha         2-0 Antigua
-Achuapa        2-1 Coban
-[Jan 24]
-Municipal      1-0 Xelaju
-Universidad    1-3 Comunicaciones
+; Zacapa         ;1-1; Aurora
+; Santa Lucia    ;3-2; Marquense
+; Carcha         ;2-0; Antigua
+; Achuapa        ;2-1; Coban
+*[Jan 24]
+1/24/2001; Municipal      ;1-0; Xelaju
+1/24/2001; Universidad    ;1-3; Comunicaciones
 
-Round 2
-[Jan 27]
-Aurora         0-1 Municipal
-Xelaju         2-0 Carcha
-[Jan 28]
-Achuapa        1-4 Comunicaciones
-Antigua        1-3 Zacapa 
-Coban          3-1 Santa Lucia
-Marquense      2-1 Universidad
+* Round 2
+* [Jan 27]
+1/27/2001; Aurora         ;0-1; Municipal
+1/27/2001; Xelaju         ;2-0; Carcha
+*[Jan 28]
+Date: 1/28/2001
+; Achuapa        ;1-4; Comunicaciones
+; Antigua        ;1-3; Zacapa 
+; Coban          ;3-1; Santa Lucia
+; Marquense      ;2-1; Universidad
 
-Round 3 [Jan 31]
-Santa Lucia    4-2 Comunicaciones 
-Municipal      2-2 Antigua 
-Achuapa        1-3 Universidad
-Coban          6-0 Marquense
-Zacapa         1-1 Carcha 
-Aurora         3-2 Xelaju
+* Round 3 [Jan 31]
+Date: 1/31/2001
+; Santa Lucia    ;4-2; Comunicaciones 
+; Municipal      ;2-2; Antigua 
+; Achuapa        ;1-3; Universidad
+; Coban          ;6-0; Marquense
+; Zacapa         ;1-1; Carcha 
+; Aurora         ;3-2; Xelaju
 
-Round 4
-[Feb 3]
-Universidad    1-0 Coban
-[Feb 4]
-Comunicaciones 0-0 Marquense
-Municipal      2-1 Zacapa
-Achuapa        1-0 Santa Lucia
-Xelaju         2-1 Antigua
-Aurora         0-0 Carcha
+*Round 4
+*[Feb 3]
+2/3/2001; Universidad    ;1-0; Coban
+*[Feb 4]
+Date: 2/4/2001
+; Comunicaciones ;0-0; Marquense
+; Municipal      ;2-1; Zacapa
+; Achuapa        ;1-0; Santa Lucia
+; Xelaju         ;2-1; Antigua
+; Aurora         ;0-0; Carcha
 
-Round 5
-[Feb 10]
-Aurora         0-1 Antigua
-Xelaju         3-1 Zacapa
-[Feb 11]
-Santa Lucia    2-0 Universidad
-Coban          1-3 Comunicaciones
-Municipal      5-1 Carcha
-Marquense      3-1 Achuapa
+*Round 5
+*[Feb 10]
+2/10/2001; Aurora         ;0-1; Antigua
+2/10/2001; Xelaju         ;3-1; Zacapa
+*[Feb 11]
+Date: 2/11/2001
+; Santa Lucia   ; 2-0; Universidad
+; Coban         ; 1-3; Comunicaciones
+; Municipal     ; 5-1; Carcha
+ ;Marquense     ; 3-1; Achuapa
 
-Round 6 [Feb 14]
-Santa Lucia    1-0 Antigua
-Coban          5-0 Zacapa
-Achuapa        0-2 Aurora
-Marquense      2-1 Carcha
-Universidad    0-2 Municipal
-Xelaju         1-1 Comunicaciones
+*Round 6 [Feb 14]
+Date: 2/14/2001
+; Santa Lucia    ;1-0; Antigua
+; Coban          ;5-0; Zacapa
+; Achuapa        ;0-2; Aurora
+; Marquense      ;2-1; Carcha
+; Universidad    ;0-2; Municipal
+; Xelaju         ;1-1; Comunicaciones
 
-Round 7
-[Feb 17]
-Aurora         1-0 Universidad
-Xelaju         6-0 Santa Lucia
-[Feb 18]
-Zacapa         0-2 Comunicaciones
-Municipal      0-1 Marquense
-Carcha         0-0 Achuapa
-Antigua        0-1 Coban
+*Round 7
+*[Feb 17]
+Date: 2/17/2001
+; Aurora         ;1-0; Universidad
+; Xelaju         ;6-0; Santa Lucia
+*[Feb 18]
+Date: 2/18/2001
+; Zacapa         ;0-2; Comunicaciones
+; Municipal      ;0-1; Marquense
+; Carcha         ;0-0; Achuapa
+; Antigua        ;0-1; Coban
 
-Round 8
-[Feb 24]
-Universidad    3-2 Zacapa
-[Feb 25]
-Achuapa        2-3 Xelaju
-Coban          1-1 Municipal
-Marquense      1-1 Antigua
-Comunicaciones 1-1 Carcha
-Santa Lucia    3-2 Aurora
+*Round 8
+*[Feb 24]
+2/24/2001; Universidad    ;3-2; Zacapa
+*[Feb 25]
+Date: 2/25/2001
+; Achuapa        ;2-3; Xelaju
+; Coban          ;1-1; Municipal
+; Marquense      ;1-1; Antigua
+; Comunicaciones ;1-1; Carcha
+; Santa Lucia    ;3-2; Aurora
 
-Round 9 [Feb 28]
-Municipal      3-0 Achuapa 
-Antigua        0-2 Comunicaciones 
-Aurora         1-1 Coban 
-Carcha         1-1 Santa Lucia
-Xelaju         4-1 Universidad 
-Zacapa         1-0 Marquense
+*Round 9 [Feb 28]
+Date: 2/28/2001
+; Municipal      ;3-0; Achuapa 
+; Antigua        ;0-2; Comunicaciones 
+; Aurora         ;1-1; Coban 
+; Carcha         ;1-1; Santa Lucia
+; Xelaju         ;4-1; Universidad 
+; Zacapa         ;1-0; Marquense
 
-Round 10
-[Mar 3]
-Universidad    3-0 Carcha
-Comunicaciones 2-1 Municipal
-[Mar 4]
-Achuapa        2-3 Antigua
-Coban          7-1 Xelaju
-Marquense      1-1 Aurora
-Santa Lucia    0-0 Zacapa
+*Round 10
+*[Mar 3]
+Date: 3/3/2001
+; Universidad    ;3-0; Carcha
+; Comunicaciones ;2-1; Municipal
+*[Mar 4]
+Date: 3/4/2001
+; Achuapa        ;2-3; Antigua
+; Coban          ;7-1; Xelaju
+; Marquense      ;1-1; Aurora
+; Santa Lucia    ;0-0; Zacapa
 
-Round 11
-[Mar 10]
-Aurora         0-2 Comunicaciones
-Municipal      5-1 Santa Lucia
-Xelaju         3-0 Marquense
-[Mar 11]
-Zacapa         1-1 Achuapa
-Carcha         1-1 Coban
-Antigua        2-1 Universidad
+*Round 11
+*[Mar 10]
+Date: 3/10/2001
+; Aurora         ;0-2; Comunicaciones
+; Municipal      ;5-1; Santa Lucia
+; Xelaju         ;3-0; Marquense
+*[Mar 11]
+Date: 3/11/2001
+; Zacapa         ;1-1; Achuapa
+; Carcha         ;1-1; Coban
+; Antigua        ;2-1; Universidad
 
-Round 12 
-[Mar 14]
-Coban          8-2 Achuapa
-Marquense      3-1 Santa Lucia
-Aurora         1-1 Zacapa
-Antigua        3-0 Carcha
-[Mar 21]
-Xelaju         2-2 Municipal
-Comunicaciones 4-2 Universidad
+*Round 12 
+*[Mar 14]
+Date: 3/14/2001
+; Coban          ;8-2; Achuapa
+; Marquense      ;3-1; Santa Lucia
+; Aurora         ;1-1; Zacapa
+; Antigua        ;3-0; Carcha
+*[Mar 21]
+Date: 3/21/2001
+; Xelaju         ;2-2; Municipal
+; Comunicaciones ;4-2; Universidad
 
-Round 13 
-[Mar 17]
-Comunicaciones 4-0 Achuapa
-Universidad    1-1 Marquense
-[Mar 18]
-Municipal      5-1 Aurora
-Carcha         2-1 Xelaju
-Zacapa         2-2 Antigua
-Santa Lucia    0-2 Coban
+*Round 13 
+*[Mar 17]
+Date: 3/17/2001
+; Comunicaciones ;4-0; Achuapa
+; Universidad    ;1-1; Marquense
+*[Mar 18]
+Date: 3/18/2001
+; Municipal      ;5-1; Aurora
+; Carcha         ;2-1; Xelaju
+; Zacapa         ;2-2; Antigua
+; Santa Lucia    ;0-2; Coban
 
-Round 14
-[Mar 24]
-Universidad    1-1 Achuapa
-Xelaju         3-2 Aurora
-[Mar 25]
-Marquense      2-1 Coban
-Comunicaciones 4-0 Santa Lucia
-Carcha         0-0 Zacapa
-Antigua        1-0 Municipal
+*Round 14
+*[Mar 24]
+Date: 3/24/2001
+; Universidad    ;1-1; Achuapa
+; Xelaju         ;3-2; Aurora
+*[Mar 25]
+Date: 3/25/2001
+; Marquense      ;2-1; Coban
+; Comunicaciones ;4-0; Santa Lucia
+; Carcha         ;0-0; Zacapa
+; Antigua        ;1-0; Municipal
 
-Round 15 [Mar 28]
-Santa Lucia    1-1 Achuapa
-Coban          2-0 Universidad
-Aurora         3-1 Carcha
-Comunicaciones 2-1 Marquense
-Municipal      5-1 Zacapa
-Xelaju         0-0 Antigua
+*Round 15 [Mar 28]
+Date: 3/28/2001
+; Santa Lucia    ;1-1; Achuapa
+; Coban          ;2-0; Universidad
+; Aurora         ;3-1; Carcha
+; Comunicaciones ;2-1; Marquense
+; Municipal      ;5-1; Zacapa
+; Xelaju         ;0-0; Antigua
 
-Round 16
-[Mar 31]
-Achuapa        1-1 Marquense
-Antigua        2-1 Aurora
-[Apr 1]
-Comunicaciones 4-2 Coban
-Zacapa         1-0 Xelaju
-Carcha         0-1 Municipal
-Universidad    2-2 Santa Lucia
+*Round 16
+*[Mar 31]
+Date: 3/31/2001
+; Achuapa        ;1-1; Marquense
+; Antigua        ;2-1; Aurora
+*[Apr 1]
+Date: 4/1/2001
+; Comunicaciones ;4-2; Coban
+; Zacapa         ;1-0; Xelaju
+; Carcha         ;0-1; Municipal
+; Universidad    ;2-2; Santa Lucia
 
-Round 17 [Apr 4]
-Carcha         1-2 Marquense
-Aurora         2-1 Achuapa
-Zacapa         2-0 Coban
-Antigua        2-2 Santa Lucia
-Municipal      1-0 Universidad
-Comunicaciones 2-0 Xelaju
+*Round 17 [Apr 4]
+Date: 4/4/2001
+; Carcha         ;1-2; Marquense
+; Aurora         ;2-1; Achuapa
+; Zacapa         ;2-0; Coban
+; Antigua        ;2-2; Santa Lucia
+; Municipal      ;1-0; Universidad
+; Comunicaciones ;2-0; Xelaju
 
-Round 18
-[Apr 7]
-Comunicaciones 2-0 Zacapa
-Universidad    abd Aurora       [abandoned at 0-0 in 33' when Universidad fans
-[Apr 8]                          started throwing objects on the pitch]
-Marquense      0-0 Municipal
-Achuapa        3-1 Carcha
-Coban          4-1 Antigua
-Santa Lucia    2-0 Xelaju
-[Apr 19]
-Universidad    3-2 Aurora       [behind closed doors]
+*Round 18
+*[Apr 7]
+Date: 4/7/2001
+; Comunicaciones ;2-0; Zacapa
+; Universidad;  L-W; Aurora       
+Forfeit
+Notes: abandoned at 0-0 in 33' when Universidad fans started throwing objects on the pitch
+*[Apr 8]                          
+Date: 4/8/2001
+; Marquense      ;0-0; Municipal
+; Achuapa        ;3-1; Carcha
+; Coban          ;4-1; Antigua
+; Santa Lucia    ;2-0; Xelaju
+*[Apr 19]
+4/19/2001; Universidad    ;3-2; Aurora       [behind closed doors]
 
-Round 19
-[Apr 10]
-Municipal      2-2 Coban
-[Apr 11]
-Carcha         0-0 Comunicaciones
-Aurora         1-0 Santa Lucia
-Zacapa         1-1 Universidad
-Antigua        5-0 Marquense
-Xelaju         0-1 Achuapa
+*Round 19
+*[Apr 10]
+4/10/2001; Municipal      ;2-2; Coban
+*[Apr 11]
+Date: 4/11/2001
+; Carcha         ;0-0; Comunicaciones
+; Aurora         ;1-0; Santa Lucia
+; Zacapa         ;1-1; Universidad
+; Antigua        ;5-0; Marquense
+; Xelaju         ;0-1; Achuapa
 
-Round 20 
-[Apr 20]
-Comunicaciones 2-2 Antigua
-[Apr 21]
-Achuapa        0-0 Municipal
-[Apr 22]
-Universidad    0-1 Xelaju
-Coban          3-1 Aurora
-Santa Lucia    4-1 Carcha
-Marquense      2-1 Zacapa
+*Round 20 
+*[Apr 20]
+4/20/2001; Comunicaciones ;2-2; Antigua
+*[Apr 21]
+4/21/2001; Achuapa        ;0-0; Municipal
+*[Apr 22]
+Date: 4/22/2001
+; Universidad    ;0-1; Xelaju
+; Coban          ;3-1; Aurora
+; Santa Lucia    ;4-1; Carcha
+; Marquense      ;2-1; Zacapa
 
-Round 21 [Apr 25]
-Aurora         1-2 Marquense
-Xelaju         1-0 Coban
-Antigua        1-1 Achuapa
-Zacapa         2-1 Santa Lucia
-Carcha         1-0 Universidad
-Municipal      3-1 Comunicaciones
+*Round 21 [Apr 25]
+Date: 4/25/2001
+; Aurora         ;1-2; Marquense
+; Xelaju         ;1-0; Coban
+; Antigua        ;1-1; Achuapa
+; Zacapa         ;2-1; Santa Lucia
+; Carcha         ;1-0; Universidad
+; Municipal      ;3-1; Comunicaciones
 
-Round 22 [Apr 28]
-Achuapa        0-3 Zacapa
-Comunicaciones 6-1 Aurora
-Santa Lucia    2-1 Municipal
-Marquense      1-0 Xelaju
-Coban          2-0 Carcha
-Universidad    0-0 Antigua
-
-Table:
-
- 1.Comunicaciones             22 15  5  2  53-21  50
- 2.Municipal                  22 12  6  4  43-19  42
- 3.Cobán Imperial             22 11  4  7  53-26  37
- 4.Deportivo Marquense        22 10  6  6  27-32  36
- 5.Xelajú MC                  22 10  3  9  35-30  33
- 6.Antigua GFC                22  7  8  7  30-29  29
- 7.Santa Lucía Cotzumalguapa  22  8  5  9  31-41  29
- 8.Deportivo Zacapa           22  6  8  8  25-33  26
- - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 9.Aurora FC                  22  6  5 11  27-39  23
-10.Universidad                22  5  5 12  24-35  20
-11.Deportivo Achuapa          22  4  7 11  22-45  19
-12.Deportivo Carchá           22  3  8 11  15-35  17
-
-Quarterfinals
-
-First Legs [May 1]
-Zacapa         1-1 Comunicaciones
-Santa Lucía    1-1 Municipal
-Antigua        2-2 Cobán
-Xelajú         2-0 Marquense
-
-Second Legs 
-[May 5]
-Municipal      2-2 Santa Lucía
-[May 6]
-Comunicaciones 4-0 Zacapa
-Marquense      1-1 Xelajú
-Cobán Imperial 0-2 Antigua
-
-Semifinals
-
-First Legs [May 9]
-Santa Lucía    1-2 Comunicaciones
-Antigua        0-0 Xelajú
-
-Second Legs 
-[May 12]
-Comunicaciones 7-2 Santa Lucía
-[May 13]
-Xelajú         1-2 Antigua
-
-Final
-
-First Leg [May 16]
-Antigua        0-4 Comunicaciones
-  [Martín Machón 23, Rigoberto Gómez 45, Freddy García 68, Luis Torres 81]
-
-Second Leg [May 19]
-Comunicaciones 2-3 Antigua
-  [Fredy García 33, Julio Rodas 53; Anderson do Nacimiento Negreti 8, 51, 
-   Miguel Fuentes 35]
-
-Comunicaciones champions Clausura 2000/01
+*Round 22 [Apr 28]
+Date: 4/28/2001
+; Achuapa        ;0-3; Zacapa
+; Comunicaciones ;6-1; Aurora
+; Santa Lucia    ;2-1; Municipal
+; Marquense      ;1-0; Xelaju
+; Coban          ;2-0; Carcha
+; Universidad    ;0-0; Antigua
 
 
-Aggregate Table:
+Round: Quarterfinals
 
- 1.Comunicaciones             44 30 11  3 105-36 101
- 2.Municipal                  44 24  9 11  88-42  81
- 3.Deportivo Marquense        44 22  9 13  62-70  75  
- 4.Xelajú MC                  44 19 12 13  61-50  69
- 5.Antigua GFC                44 18 11 15  62-56  65
- 6.Cobán Imperial             44 17 13 14  81-51  64
- 7.Deportivo Zacapa           44 14 16 14  61-63  58  
- 8.Universidad                44 12 10 22  56-68  46 
- - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 9.Aurora FC                  44 10 13 21  51-70  43  Relegation Playoff
-10.Deportivo Achuapa          44  9 14 21  51-90  41  Relegation Playoff
-11.Santa Lucía Cotzumalguapa  44 10 10 24  59-107 40  Relegation Playoff
-----------------------------------------------------  
-12.Deportivo Carchá           44  9 12 23  29-63  39  Relegated
+* First Legs [May 1]
+Date: 5/1/2001
+; Zacapa         ;1-1; Comunicaciones
+; Santa Lucía    ;1-1; Municipal
+; Antigua        ;2-2; Cobán
+; Xelajú         ;2-0; Marquense
 
-Promoted: Deportivo Jalapa
+*Second Legs 
+*[May 5]
+5/5/2001; Municipal      ;2-2; Santa Lucía
+*[May 6]
+Date: 5/6/2001
+; Comunicaciones ;4-0; Zacapa
+; Marquense      ;1-1; Xelajú
+; Cobán Imperial ;0-2; Antigua
 
-Promotion/Relegation Playoffs
+Round: Semifinals
 
-First Legs [Jun 9,10]
-Petapa         1-1 Santa Lucia
-Teculután      3-0 Achuapa
-Suchitepéquez  1-1 Aurora
+*First Legs [May 9]
+5/9/2001; Santa Lucía    ;1-2; Comunicaciones
+5/9/2001; Antigua        ;0-0; Xelajú
 
-Second Legs [Jun 23?]
-Santa Lucia    1-2 Petapa
-Achuapa        2-0 Teculután
-Aurora         3-0 Suchitepéquez
+*Second Legs 
+*[May 12]
+5/12/2001; Comunicaciones ;7-2; Santa Lucía
+*[May 13]
+5/13/2001; Xelajú         ;1-2; Antigua
 
-Petapa and Teculután promoted, Santa Lucía Cotzumalguapa and Achuapa relegated.
+Round: Final
+
+*First Leg [May 16]
+5/16/2001; Antigua        ;0-4; Comunicaciones
+; Martín Machón 23, Rigoberto Gómez 45, Freddy García 68, Luis Torres 81
+
+*Second Leg [May 19]
+5/19/2001; Comunicaciones ;2-3; Antigua
+Fredy García 33, Julio Rodas 53; Anderson do Nacimiento Negreti 8, Anderson do Nacimiento Negreti 51, Miguel Fuentes 35
+
+* Comunicaciones champions Clausura 2000/01
 
 
-Second Level 2000/01
 
-Final Table:
+Round: Promotion/Relegation Playoffs
 
- 1.Deportivo Jalapa             26 10 14  2  35-24  44  Direct Promotion Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 2.Deportivo San Benito         26 13  3 10  39-42  42
- 3.Deportivo Suchitepéquez      26 10 10  6  31-21  40
- 4.Deportivo Petapa             26  9 11  6  26-23  38
- 5.Juventud Retalteca           26 10  7  9  46-36  37 
- 6.Teculután                    26 10  7  9  29-28  37
- 7.Deportivo Coatepeque         26  8 12  6  37-31  36
- 8.Deportivo San Pedro          26  9  9  8  29-29  36
- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 9.Deportivo Amatitlán          26 10  5 11  37-34  35
-10.Sacachispas                  26  9  7 10  40-42  34
-11.Deportivo Escuintla          26  7 10  9  31-38  31
-12.Chimaltenango                26  6 10 10  34-35  28
-13.Sanarate                     26  6 10 10  25-34  28
-14.Izabal JC                    26  4  7 15  26-48  19
+* First Legs [Jun 9,10]
+Date: 6/9/2001
+; Petapa         ;1-1; Santa Lucia
+; Teculután      ;3-0; Achuapa
+; Suchitepéquez  ;1-1; Aurora
 
-Round 1 [Sep 3]
-Chimaltenango 1-0 Sanarate 
-Sacachispas   3-0 San Benito
-Jalapa        2-1 Amatitlán  
-Coatepeque    1-0 Escuintla 
-Izabal        2-2 Juv.Retalteca 
-Petapa        2-2 San Pedro  
-Teculután     1-1 Suchitepéquez 
+*Second Legs [Jun 23?]
+Date: 6/23/2001
+; Santa Lucia    ;1-2; Petapa
+; Achuapa        ;2-0; Teculután
+; Aurora         ;3-0; Suchitepéquez
 
-Round 2 [Sep 10]
-Suchitepéquez 2-2 Jalapa 
-San Pedro     0-0 Sacachispas
-Sanarate      2-1 Teculután
-San Benito    3-1 Izabal 
-Escuintla     3-1 Chimaltenango
-Juv.Retalteca 1-1 Coatepeque
-Amatitlán     0-1 Petapa
+*Petapa and Teculután promoted, Santa Lucía Cotzumalguapa and Achuapa relegated.
 
-Round 3 [Sep 17]
-Sacachispas   4-3 Amatitlán 
-Jalapa        3-1 San Benito
-Coatepeque    0-0 San Pedro 
-Petapa        1-0 Suchitepéquez 
-Izabal        1-2 Sanarate 
-Teculután     1-1 Escuintla 
-Chimaltenango 0-0 Juv.Retalteca 
 
-Round 4 
-[Sep 24]
-Jalapa        0-0 Petapa 
-Coatepeque    2-1 Izabal 
-Juv.Retalteca 3-0 Teculutan 
-Amatitlan     4-2 Chimaltenango 
-San Benito    3-1 San Pedro 
-Escuintla     0-0 Sanarate
-[Nov 22] 
-Suchitepéquez 3-0 Sacachispas 
 
-Round 5 [Oct 1]
-San Pedro     2-2 Suchitepéquez 
-Sacachispas   1-2 Jalapa 
-Petapa        3-1 Escuintla 
-Teculután     0-1 Coatepeque 
-Sanarate      2-0 Juv.Retalteca 
-Izabal        2-1 Chimaltenango 
-Amatitlán     0-4 San Benito 
+Season: 2001 Apertura
 
-Round 6 [Oct 8]
-Sanarate      1-1 Jalapa
-Chimaltenango 3-2 Coatepeque 
-San Pedro     2-0 Amatitlán  
-Suchitepéquez 3-1 San Benito 
-Izabal        1-1 Teculután
-Petapa        1-0 Sacachispas 
-Juv.Retalteca 1-1 Escuintla
+
+*Round 1
+*[Jul 28]
+7/28/2001; Municipal      ;0-0; Zacapa
+*[Jul 29]
+Date: 7/29/2001
+; Teculutan      ;1-1; Petapa 
+; Antigua        ;2-1; Aurora
+; Jalapa         ;0-0; Comunicaciones
+; Universidad    ;1-1; Xelaju
+; Coban          ;1-0; Marquense
+
+*Round 2
+*[Aug 5]
+Date: 8/5/2001
+; Aurora         ;0-4; Jalapa
+; Zacapa         ;2-1; Coban
+; Marquense      ;4-1; Universidad
+; Xelaju         ;1-1; Municipal
+; Petapa         ;0-1; Antigua
+*[Aug 8]
+8/8/2001; Comunicaciones ;4-0; Teculutan 
+
+*Round 3
+*[Aug 11]
+8/11/2001; Universidad    ;1-2; Coban 
+*[Auig 12]
+Date: 8/12/2001
+; Antigua        ;2-4; Comunicaciones 
+; Teculutan      ;0-0; Jalapa  
+; Petapa         ;3-0; Aurora 
+; Xelaju         ;2-0; Zacapa
+*[Aug 15]
+8/15/2001; Municipal      ;5-1; Marquense 
  
-Round 7 [Oct 15]
-San Benito    0-2 Petapa 
-Amatitlán     1-0 Suchitepéquez 
-Jalapa        2-0 San Pedro 
-Escuintla     3-2 Izabal
-Teculután     2-1 Chimaltenango  
-Coatepeque    2-0 Sanarate 
-Sacachispas   2-1 Juv.Retalteca    
+*Round 4
+*[Aug 18]
+8/18/2001; Universidad    ;1-2; Municipal
+*[Aug 19]
+Date: 8/19/2001
+; Teculutan      ;3-0; Antigua 
+; Jalapa         ;3-0; Petapa 
+; Coban          ;1-0; Xelaju
+; Marquense      ;4-1; Zacapa
+*[Aug 22]
+8/22/2001; Comunicaciones ;3-0; Aurora
 
-Round 8 [Oct 22]
-Petapa        1-1 Chimaltenango
-San Pedro     1-0 Escuintla
-Amatitlán     2-0 Juv.Retalteca
-Jalapa        1-1 Coatepeque
-San Benito    2-0 Sanarate
-Sacachispas   2-2 Teculután
-Suchitepéquez 2-1 Izabal
+*Round 5
+*[Aug 26]
+Date: 8/26/2001
+; Aurora         ;3-0; Teculutan
+; Antigua        ;2-3; Jalapa 
+; Petapa         ;2-3; Comunicaciones 
+; Zacapa         ;3-1; Universidad 
+; Xelaju         ;0-0; Marquense 
+*[Aug 26]
+8/26/2001; Municipal      ;2-1; Coban 
 
-Round 9 [Oct 29]
-Juv.Retalteca 0-1 Petapa 
-Escuintla     1-1 Jalapa 
-Chimaltenango 0-0 San Pedro 
-Sanarate      0-0 Suchitepéquez 
-Coatepeque    1-2 San Benito 
-Izabal        2-2 Sacachispas 
-Teculután     3-0 Amatitlán 
+*Round 6
+*[sep 1]
+Date: 9/1/2001
+; Comunicaciones ;2-0; Zacapa
+*[Sep 2]
+Date: 9/2/2001
+; Teculutan      ;3-1; Xelaju
+; Aurora         ;2-3; Coban
+; Jalapa         ;0-1; Municipal
+; Antigua        ;1-2; Marquense
+; Petapa         ;0-1; Universidad 
+
+*Round 7
+*[Sep 8]
+9/8/2001; Universidad    ;0-5; Comunicaciones
+*[Sep 9]
+Date: 9/9/2001
+; Municipal      ;5-2; Aurora
+; Zacapa         ;1-1; Antigua 
+; Coban          ;4-1; Teculutan 
+; Marquense      ;1-0; Petapa 
+; Xelaju         ;1-0; Jalapa
+
+*Round 8
+*[Sep 16]
+Date: 9/16/2001
+; Aurora         ;0-2; Marquense 
+; Jalapa         ;0-2; Universidad
+; Antigua        ;1-3; Xelaju
+; Teculutan      ;1-1; Zacapa 
+*[Sep 19]
+Date: 9/19/2001
+; Comunicaciones ;3-2; Coban 
+; Petapa         ;1-0; Municipal 
+
+*Round 9
+*[Sep 22]
+9/22/2001; Universidad    ;0-1; Aurora 
+*[Sep 23]
+Date: 9/23/2001
+; Marquense      ;1-4; Comunicaciones
+; Municipal      ;5-1; Teculutan 
+; Coban          ;1-1; Antigua 
+; Xelaju         ;3-1; Petapa
+; Zacapa         ;3-3; Jalapa
+
+*Round 10 [Sep 30]
+Date: 9/30/2001
+; Comunicaciones ;0-3; Municipal
+; Teculutan      ;2-1; Marquense
+; Antigua        ;3-1; Universidad
+; Aurora         ;1-1; Xelaju
+; Jalapa         ;3-1; Coban
+; Petapa         ;0-1; Zacapa 
+
+*Round 11
+*[Oct 7]
+Date: 10/7/2001
+; Universidad    ;1-1; Teculutan 
+; Municipal      ;7-0; Antigua 
+; Zacapa         ;3-0; Aurora
+; Marquense      ;1-0; Jalapa 
+; Xelaju         ;1-1; Comunicaciones
+*[Oct 8]
+10/8/2001; Coban          ;3-0; Petapa
+
+*Round 12
+*[Oct 13]
+10/13/2001; Comunicaciones ;0-0; Jalapa
+*[Oct 14]
+Date: 10/14/2001
+; Zacapa         ;0-1; Municipal
+; Petapa         ;1-1; Teculutan
+; Aurora         ;4-1; Antigua
+; Xelaju         ;4-1; Universidad
+; Marquense      ;1-1; Coban
+
+*Round 13 [Oct 17]
+Date: 10/17/2001
+; Municipal      ;1-0; Xelaju 
+; Coban          ;1-0; Zacapa
+; Teculutan      ;1-0; Comunicaciones 
+; Antigua        ;2-1; Petapa 
+; Jalapa         ;1-2; Aurora
+; Universidad    ;1-3; Marquense
+
+*Round 14 [Oct 21]
+Date: 10/21/2001
+; Marquense      ;1-3; Municipal 
+; Comunicaciones ;2-1; Antigua 
+; Zacapa         ;2-2; Xelaju 
+; Coban          ;4-0; Universidad
+; Aurora         ;5-0; Petapa 
+; Jalapa         ;2-0; Teculutan
+
+*Round 15
+*[Oct 27]
+Date: 10/27/2001
+; Municipal      ;2-0; Universidad 
+; Xelaju         ;3-1; Coban
+*[Oct 28]
+Date: 10/28/2001
+; Aurora         ;2-1; Comunicaciones 
+; Zacapa         ;2-1; Marquense
+; Petapa         ;2-2; Jalapa 
+; Antigua        ;1-1; Teculutan 
+
+*Round 16
+*[Oct 31]
+Date: 10/31/2001
+; Teculutan      ;0-0; Aurora
+; Jalapa         ;1-1; Antigua 
+; Universidad    ;4-2; Zacapa 
+; Marquense      ;1-0; Xelaju
+; Coban          ;3-1; Municipal
+*[Nov 1]
+11/1/2001; Comunicaciones ;3-3; Petapa 
+
+*Round 17
+*[Nov 3]
+Date: 11/3/2001
+; Universidad    ;1-0; Petapa 
+; Xelaju         ;0-1; Teculutan
+; Marquense      ;3-1; Antigua
+*[Nov 4]
+Date: 11/4/2001
+; Municipal      ;0-2; Jalapa
+; Zacapa         ;2-1; Comunicaciones
+; Coban          ;4-1; Aurora
+
+*Round 18
+*[Nov 10]
+11/10/2001; Comunicaciones ;3-1; Universidad
+*[Nov 11]
+Date: 11/11/2001
+; Municipal      ;3-1; Aurora 
+; Coban          ;2-1; Teculutan
+; Antigua        ;4-1; Zacapa
+; Jalapa         ;3-1; Xelaju
+; Petapa         ;2-0; Marquense
+
+*Round 19 [Nov 14]
+Date: 11/14/2001
+; Municipal      ;5-1; Petapa
+; Marquense      ;1-1; Aurora
+; Xelaju         ;2-2; Antigua
+; Zacapa         ;1-0; Teculutan
+; Coban          ;1-1; Comunicaciones
+; Universidad    ;0-2; Jalapa
+
+*Round 20
+*[Nov 17]
+11/17/2001; Comunicaciones ;2-0; Marquense 
+*[Nov 18]
+Date: 11/18/2001
+; Aurora         ;2-1; Universidad
+; Teculutan      ;0-1; Municipal 
+; Antigua        ;2-2; Coban
+; Jalapa         ;2-1; Zacapa
+; Petapa         ;0-0; Xelaju
  
-Round 10 [Nov 5]
-Petapa        0-0 Sanarate 
-Jalapa        2-1 Teculutan 
-Amatitlán     0-1 Coatepeque 
-San Benito    2-1 Juv. Retalteca 
-Sacachispas   2-3 Escuintla 
-Suchitepequez 3-1 Chimaltenango 
-San Pedro     2-1 Izabal 
+*Round 21
+*[Nov 23]
+11/23/2001; Municipal      ;1-1; Comunicaciones 
+*[Nov 24]
+Date: 11/24/2001
+; Marquense      ;1-1; Teculután 
+; Xelaju         ;1-1; Aurora
+*[Nov 25]
+Date: 11/25/2001
+; Universidad    ;1-3; Antigua
+; Cobán          ;2-0; Jalapa
+; Zacapa         ;2-0; Petapa 
+
+*Round 22 [Dec 2]
+Date: 12/2/2001
+; Comunicaciones ;4-0; Xelaju
+; Antigua        ;1-0; Municipal
+; Zacapa         ;3-4; Aurora
+; Teculutan      ;3-0; Universidad
+; Jalapa         ;0-1; Marquense
+; Petapa         ;0-2; Coban
+
+
+* Playoffs
+
+Round: Quarterfinals
+
+*First Legs [Dec 5]
+Date: 12/5/2001
+; Zacapa         ;1-0; Comunicaciones 
+; Xelaju         ;1-1; Municipal 
+; Coban          ;1-1; Aurora
+; Jalapa         ;2-0; Marquense 
+
+*Second Legs 
+*[Dec 8]
+Date: 12/8/2001
+; Comunicaciones ;4-0; Zacapa
+; Marquense      ;2-1; Jalapa
+*[Dec 9]
+Date: 12/9/2001
+; Municipal      ;3-1; Xelaju
+; Aurora         ;1-2; Coban 
+
+Round: Semifinals
+
+*First Legs [Dec 12]
+Date: 12/12/2001
+; Comunicaciones ;1-1; Coban
+; Jalapa         ;0-0; Municipal
+
+*Second Legs [Dec 16]
+Date: 12/16/2001
+; Coban          ;3-2; Comunicaciones
+; Municipal      ;2-0; Jalapa
+
+Round: Final
+
+*First Leg [Dec 19]
+12/19/2001; Coban          ;3-0; Municipal
+
+*Second Leg [Dec 23]
+12/23/2001; Municipal      ;3-0; Coban               [4-2 pen]
+
+*Municipal are champions of the Campeonato de Reordenamiento 2001.
+*League reduced to 10 clubs for the Clausura 2002.
+
+
+
+Season: 2002 Clausura
+
+*Round 1 
+*[Feb 9]
+2/9/2002; Xelaju         ;4-1; Teculutan
+*[Feb 10]
+Date: 2/10/2002
+; Jalapa         ;2-2; Comunicaciones 
+; Municipal      ;1-0; Coban
+; Antigua        ;1-2; Marquense 
+; Zacapa         ;1-1; Aurora
+
+*Round 2
+*[Feb 16]
+2/16/2002; Antigua        ;1-3; Comunicaciones 
+*[Feb 17]
+Date: 2/17/2002
+; Coban; W-L; Zacapa              
+* [awarded ;0-1;; originally 5-1 but Coban fielded suspended player (Eddy Cabrera)]
+; Aurora         ;2-0; Xelaju                
+; Teculutan      ;1-2; Jalapa
+*[Feb 19]
+2/19/2002; Marquense      ;0-1; Municipal
+
+*Round 3
+*[Feb 23]
+Date: 2/23/2002
+; Aurora         ;3-1; Coban
+; Xelaju         ;2-0; Jalapa
+*[Feb 24]
+Date: 2/24/2002
+; Zacapa         ;1-1; Marquense
+; Municipal      ;3-2; Comunicaciones
+; Antigua        ;2-0; Teculutan
+
+*Round 4
+*[Mar 2]
+Date: 3/2/2002
+; Comunicaciones ;3-2; Zacapa
+; Marquense      ;2-0; Aurora
+*[Mar 3]
+Date: 3/3/2002
+; Coban          ;0-0; Xelaju
+; Teculutan      ;0-3; Municipal
+; Jalapa         ;0-0; Antigua
+
+*Round 5
+*[Mar 9]
+Date: 3/9/2002
+; Aurora         ;0-1; Comunicaciones
+; Xelaju         ;1-0; Antigua
+; Zacapa         ;3-1; Teculutan
+*[Mar 10]
+Date: 3/10/2002
+; Municipal      ;6-0; Jalapa
+; Coban          ;6-3; Marquense
+
+*Round 6
+*[Mar 16]
+3/16/2002; Xelaju         ;5-1; Marquense
+*[Mar 17]
+Date: 3/17/2002
+; Jalapa         ;5-3; Zacapa
+; Teculutan      ;1-0; Aurora
+; Comunicaciones ;1-0; Coban
+*[Mar 31]
+3/31/2002; Antigua        ;0-4; Municipal
+
+*Round 7
+*[Mar 23]
+Date: 3/23/2002
+; Aurora         ;2-1; Jalapa
+; Marquense      ;2-0; Comunicaciones
+*[Mar 24]
+Date: 3/24/2002
+; Zacapa         ;3-0; Antigua
+; Coban          ;2-1; Teculutan
+; Municipal      ;4-2; Xelaju
+
+* These are very likely march.
+*Round 8
+*[Apr 26]
+4/26/2002; Municipal      ;8-0; Zacapa
+*[Apr 27]
+Date: 4/27/2002
+; Antigua        ;2-0; Aurora
+; Jalapa         ;0-2; Coban
+; Teculutan      ;4-1; Marquense
+; Xelaju         ;1-2; Comunicaciones
+
+*Round 9
+*[Apr 6]
+Date: 4/6/2002
+; Comunicaciones ;3-1; Teculutan
+; Marquense      ;2-0; Jalapa
+*[Apr 7]
+Date: 4/7/2002
+; Zacapa         ;3-1; Xelaju
+; Aurora         ;0-0; Municipal
+; Coban          ;3-1; Antigua
+
+*Round 10
+*[Apr 10]
+4/10/2002; Comunicaciones ;3-1; Jalapa
+*[Apr 13]
+Date: 4/13/2002
+; Aurora         ;2-1; Zacapa
+; Marquense      ;1-1; Antigua
+*[Apr 14]
+Date: 4/14/2002
+; Coban          ;3-3; Municipal
+; Teculutan      ;3-1; Xelaju
+
+*Round 11 [Apr 17]
+Date: 4/17/2002
+; Antigua        ;1-3; Comunicaciones 
+; Zacapa         ;3-1; Coban
+; Xelaju         ;0-0; Aurora 
+; Municipal      ;4-1; Marquense 
+; Jalapa         ;3-1; Teculutan 
+
+*Round 12
+*[Apr 20]
+4/20/2002; Marquense      ;0-2; Zacapa
+*[Apr 21]
+Date: 4/21/2002
+; Coban          ;5-3; Aurora
+; Jalapa         ;1-1; Xelaju
+; Comunicaciones ;0-3; Municipal
+; Teculutan      ;2-0; Antigua
+
+*Round 13
+*[Apr 27]
+Date: 4/27/2002
+; Aurora         ;0-2; Marquense
+; Xelaju         ;1-0; Coban
+*[Apr 28]
+Date: 4/28/2002
+; Zacapa         ;1-0; Comunicaciones
+; Municipal      ;6-0; Teculutan
+; Antigua        ;1-1; Jalapa
  
-Round 11 [Nov 12]
-Izabal        2-1 Petapa 
-Juv.Retalteca 3-0 Jalapa 
-Coatepeque    2-1 Sacachispas
-Escuintla     0-0 Suchitepequez 
-Sanarate      4-1 Amatitlán 
-Teculután     1-0 San Pedro 
-Chimaltenango 2-0 San Benito  
+*Round 14
+*[Apr 25]
+4/25/2002; Marquense      ;1-1; Coban
+*[May 1]
+Date: 5/1/2002
+; Comunicaciones ;4-2; Aurora
+; Antigua        ;1-0; Xelaju
+; Teculutan      ;1-0; Zacapa
+; Jalapa         ;0-3; Municipal
 
-Round 12 [Nov 19]
-Jalapa        2-1 Chimaltenango
-Teculután     1-0 Petapa
-Coatepeque    0-0 Suchitepéquez
-San Benito    4-0 Escuintla
-San Pedro     3-0 Juv. Retalteca
-Sacachispas   3-1 Sanarate
-Amatitlán     3-1 Izabal
+*Round 15
+*[May 4]
+Date: 5/4/2002
+; Marquense      ;1-2; Xelaju
+; Aurora         ;2-1; Teculutan
+*[May 5]
+Date: 5/5/2002
+; Coban          ;1-1; Comunicaciones
+; Jalapa         ;1-1; Zacapa
+; Municipal      ;6-2; Antigua
 
-Round 13 [Nov 26]
-Amatitlán     2-0 Escuintla
-Coatepeque    1-2 Petapa
-Izabal        0-0 Jalapa
-Chimaltenango 2-1 Sacachispas
-Juv.Retalteca 3-1 Suchitepéquez
-Sanarate      2-2 San Pedro
-Teculután     4-1 San Benito
+*Round 16
+*[May 11]
+Date: 5/11/2002
+; Xelaju         ;0-1; Municipal
+; Comunicaciones ;0-2; Marquense
+*[May 12]
+Date: 5/12/2002
+; Jalapa         ;2-4; Aurora
+; Antigua        ;4-2; Zacapa
+; Teculutan      ;1-1; Coban
 
-Round 14 [Dec 3]
-Jalapa        0-0 Amatitlan 
-Sanarate      1-0 Chimaltenango 
-Juv.Retalteca 2-0 Izabal 
-San Pedro     2-1 Petapa 
-Suchitepequez 1-0 Teculutan 
-San Benito    2-1 Sacachispas 
-Coatepeque    1-1 Escuintla 
- 
-Round 15 [Dec 10]
-Dep. Jalapa   0-0 Suchitepéquez 
-Sacachispas   0-0 San Pedro 
-Teculután     3-2 Sanarate 
-Izabal        0-0 San Benito 
-Chimaltenango 1-1 Escuintla 
-Coatepeque    3-3 Juv. Retalteca 
-Petapa        1-1 Amatitlan  
- 
-Round 16 [Dec 17]
-Amatitlan     3-0 Sacachispas 
-San Benito    1-1 Jalapa 
-San Pedro     1-0 Coatepeque 
-Suchitepequez 3-0 Petapa 
-Sanarate      1-0 Izabal 
-Escuintla     1-1 Teculután 
-Juv.Retalteca 2-2 Chimaltenango 
+*Round 17
+*[May 18]
+Date: 5/18/2002
+; Comunicaciones ;4-1; Xelaju
+; Marquense      ;1-0; Teculutan
+*[May 19]
+Date: 5/19/2002
+; Zacapa         ;1-3; Municipal
+; Aurora         ;4-0; Antigua
+; Coban          ;2-1; Jalapa
 
-Round 17 [Dec 22] 
-Petapa        0-0 Jalapa 
-San Pedro     2-0 San Benito 
-Sacachispas   1-0 Suchitepéquez 
-Juv.Retalteca 2-1 Teculutan 
-Chimaltenango 1-1 Amatitlan 
-Sanarate      2-2 Escuintla 
-Izabal JC     3-3 Coatepeque 
- 
-Round 18 [Dec 29]
-Escuintla     1-0 Petapa 
-Coatepeque    0-1 Teculutan 
-Juv.Retalteca 3-0 Sanarate 
-Chimaltenango 6-0 Izabal 
-San Benito    1-0 Amatitlan 
-Jalapa        2-1 Sacachispas 
-Suchitepequez 1-0 San Pedro 
+*Round 18 [May 26]
+Date: 5/26/2002
+; Teculutan      ;4-1; Comunicaciones
+; Jalapa         ;1-0; Marquense
+; Xelaju         ;4-2; Zacapa
+; Municipal      ;2-0; Aurora
+; Antigua        ;4-3; Coban
 
-Round 19 [Jan 7]
-Jalapa        5-1 Sanarate
-San Benito    3-1 Suchitepéquez  
-Coatepeque    2-1 Chimaltenango
-Teculután     2-1 Izabal JC 
-Escuintla     0-2 Juventud Retalteca
-Amatitlán     1-1 San Pedro
-Sacachispas   1-1 Petapa
 
-Round 20 [Jan 14]
-Dep. Petapa   2-1 San Benito  
-Suchitepequez 2-0 Amatitlán  
-San Pedro     1-2 Dep. Jalapa  
-Izabal        2-1 Escuintla 
-Chimaltenango 0-1 Teculután  
-Sanarate      0-0 Coatepeque  
-Juv.Retalteca 5-2 Sacachispas  
+*Championship Playoff
 
-Round 21 [Jan 21]
-Chimaltenango 1-1 Petapa 
-Escuintla     3-0 San Pedro 
-Juv.Retalteca 3-2 Amatitlan 
-Coatepeque    4-1 Jalapa 
-Sanarate      1-2 San Benito 
-Teculután     0-1 Sacachispas 
-Izabal        1-2 Suchitepequez 
- 
-Round 22 [Jan 28]
-Petapa        1-0 Juv. Retalteca 
-Jalapa        2-2 Escuintla 
-San Pedro     2-3 Chimaltenango 
-Suchitepequez 0-0 Sanarate 
-San Benito    2-2 Coatepeque 
-Sacachispas   3-0 Izabal 
-Amatitlan     3-0 Teculután 
+Round: Quarterfinals
 
-Round 23 [Feb 4]
-Teculutan     0-0 Jalapa
-Chimaltenango 0-0 Suchitepequez
-Coatepeque    1-1 Amatitlan
-Izabal        1-0 San Pedro
-Escuintla     0-1 Sacachispas
-Sanarate      1-1 Petapa
-Juv.Retalteca 5-1 San Benito
+*First Legs [May 29]
+Date: 5/29/2002
+; Marquense      ;2-2; Xelajú
+; Zacapa         ;1-1; Aurora
 
-Round 24 [Feb 11]
-Petapa        1-1 Izabal 
-Jalapa        2-2 Juv. Retalteca 
-Sacachispas   4-3 Coatepeque 
-Suchitepequez 0-1 Escuintla 
-Amatitlán     1-0 Sanarate 
-San Pedro     1-1 Teculután 
-San Benito    1-0 Chimaltenango 
-  
-Round 25 [Feb 18]
-Chimaltenango 0-0 Jalapa
-Petapa        0-1 Teculután 
-Suchitepequez 1-1 Coatepeque 
-Escuintla     5-1 San Benito 
-Juv.Retalteca 1-2 San Pedro 
-Sanarate      1-1 Sacachispas 
-Izabal        0-1 Amatitlán 
+*Second Legs [Jun 2]
+Date: 6/2/2002
+; Xelajú         ;1-1; Marquense
+; Aurora         ;2-4; Zacapa
+
+
+Round: Semifinals 
+
+*First Legs [Jun 5]
+6/5/2002; Zacapa         ;1-1; Municipal       
+6/5/2002; Xelajú         ;3-2; Comunicaciones
+
+*Second Legs
+*[Jun 8]
+6/8/2002; Comunicaciones ;2-0; Xelajú 
+*[Jun 9]
+6/9/2002; Municipal      ;5-0; Zacapa
+
+*Final
+
+*First Leg [Jun 12]
+6/12/2002; Comunicaciones ;2-1; Municipal
+Own Goal (Selvin Ponciano) 35, Israel Donis 83; Juan Carlos Plata 47
+
+*Second Leg [Jun 16]
+6/16/2002; Municipal      ;2-0; Comunicaciones
+Selvin Ponciano 28, Juan Carlos Plata 39;
+
+
+
+
+Round: Promotion Playoffs
+
+Round: Quarterfinals
+
+*First Legs [Jun 12]
+Date: 6/12/2002
+; Sacachispas    ;1-2; Juventud R.
+; Coatepeque     ;2-2; USAC
+; N. Concepción  ;2-1; Amatitlán
+; Mictlán        ;2-1; Petapa
+
+*Second Legs [Jun 16]
+Date: 6/16/2002
+; Juventud R.    ;2-1; Sacachipas
+; USAC           ;3-2; Coatepeque
+; Amatitlán      ;2-1; N. Concepción       
+* [Amatitlán on pen?]
+; Petapa         ;5-0; Mictlán
+
+Round: Semifinals
+
+*First Legs [Jun 20]
+Date: 6/20/2002
+; Amatitlán      ;1-0; Juventud R.
+; Petapa         ;1-0; USAC
+
+*Second Legs [Jun 23]
+Date: 6/23/2002
+; Juventud R.    ;1-0; Amatitlán           
+* [?, Juventud 5-4 on pen]
+; USAC           ;1-2; Petapa
+
+Round: Final
+
+*First Leg [Jun 26]
+6/26/2002; Petapa         ;4-1; Juventud R.
+
+* Second Leg [Jun 30]
+6/30/2002; Juventud R.; W-L; Petapa
+*               [Juventud won and were promoted]
+
+
+
+
+
+
+Season: 2002 Apertura
+
+
+* Round 1
+*[Aug 3]
+8/3/2002; Aurora         ;1-2; Antigua
+*[Aug 4]
+Date: 8/4/2002
+; Juventud R.    ;1-2; Municipal
+; Zacapa         ;2-0; Marquense
+; Xelajú; L-W;          Cobán               
+* [awarded 0-3; originally 2-1 but Xelajú fielded suspended player]
+; Comunicaciones ;3-0; Teculután            
+
+*Round 2 [Aug 11]
+Date: 8/11/2002
+; Marquense      ;2-1; Juventud R.
+; Municipal      ;2-1; Aurora
+; Cobán          ;5-1; Zacapa
+; Teculután      ;0-1; Xelajú
+; Antigua        ;0-3; Comunicaciones
+
+* Round 3 [Aug 18]
+Date: 8/18/2002
+; Juventud R.    ;1-3; Cobán 
+; Municipal      ;2-1; Marquense
+; Zacapa         ;1-1; Teculután
+; Xelajú         ;2-1; Antigua
+; Aurora         ;1-4; Comunicaciones
+
+* Round 4 [Aug 25]
+Date: 8/25/2002
+; Teculután      ;4-0; Juventud R.
+; Cobán          ;0-1; Municipal
+; Marquense      ;1-0; Aurora
+; Antigua        ;1-0; Zacapa
+; Comunicaciones ;0-0; Xelajú
+
+* Round 5 [Sep 1]
+Date: 9/1/2002
+; Juventud R.    ;1-1; Antigua
+; Municipal      ;1-0; Teculután
+; Marquense      ;1-0; Cobán
+; Zacapa         ;0-4; Comunicaciones
+; Aurora         ;1-1; Xelajú
+
+* Round 6
+* [Sep 4]
+9/4/2002; Xelajú         ;1-1; Zacapa
+*[Sep 8]
+Date: 9/8/2002
+; Comunicaciones ;6-1; Juventud R.
+; Antigua        ;0-2; Municipal
+; Teculután      ;0-1; Marquense
+; Aurora         ;2-1; Cobán
+
+* Round 7 
+* [Sep 14]
+Date: 9/14/2002
+; Municipal      ;2-1; Comunicaciones
+; Juventud R.    ;1-0; Xelajú
+; Zacapa         ;0-0; Aurora
+*[Sep 15]
+Date: 9/15/2002
+; Marquense      ;0-0; Antigua
+; Cobán          ;4-1; Teculután
+
+*Round 8 [Sep 18]
+Date: 9/18/2002
+; Zacapa         ;2-0; Juventud R.
+; Xelajú         ;1-1; Municipal
+; Comunicaciones ;5-0; Marquense
+; Antigua        ;3-2; Cobán
+; Aurora         ;1-1; Teculután
+
+*Round 9 [Sep 22]
+Date: 9/22/2002
+; Juventud R.    ;3-1; Aurora
+; Municipal      ;3-2; Zacapa    
+; Marquense      ;1-3; Xelajú
+; Cobán          ;1-3; Comunicaciones
+; Teculután      ;3-2; Antigua
+
+* Round 10 [Sep 29]
+Date: 9/29/2002
+; Antigua        ;0-0; Aurora
+; Municipal      ;1-1; Juventud R.
+; Marquense      ;1-1; Zacapa
+; Cobán          ;1-0; Xelajú
+; Teculután      ;0-2; Comunicaciones
+
+* Round 11 [Oct 6]
+Date: 10/6/2002
+; Juventud R.    ;2-0; Marquense
+; Aurora         ;0-1; Municipal
+; Zacapa         ;2-0; Cobán
+; Xelajú         ;1-1; Teculután
+; Comunicaciones ;2-3; Antigua
+
+* Round 12 [Oct 13]
+Date: 10/13/2002
+; Cobán          ;2-1; Juventud R.
+; Marquense      ;0-0; Municipal
+; Teculután      ;2-0; Zacapa
+; Antigua        ;0-1; Xelajú
+; Comunicaciones ;0-0; Aurora
+
+* Round 13
+* [Oct 19]
+10/19/2002; Municipal      ;1-0; Cobán
+*[Oct 20]
+Date: 10/20/2002
+; Juventud R.    ;3-1; Teculután
+; Zacapa         ;4-1; Antigua
+; Aurora         ;3-1; Marquense
+; Xelajú         ;1-1; Comunicaciones
+
+*Round 14
+*[Oct 16]
+Date: 10/16/2002
+; Comunicaciones ;3-1; Zacapa
+; Tceulután      ;1-3; Municipal
+*[Oct 27]
+Date: 10/27/2002
+; Antigua        ;0-0; Juventud R.
+; Cobán          ;0-0; Marquense
+; Xelajú         ;2-2; Aurora
+
+*Round 15 [Nov 3]
+Date: 11/3/2002
+; Juventud R.    ;1-2; Comunicaciones
+; Municipal      ;3-3; Antigua
+; Marquense      ;2-4; Teculután
+; Cobán          ;0-1; Aurora
+; Zacapa         ;1-0; Xelajú
+
+* Round 16
+* [Nov 9]
+11/9/2002; Xelajú         ;2-0; Juventud R.
+*[Nov 10]
+Date: 11/10/2002
+; Comunicaciones ;1-0; Municipal
+; Antigua        ;2-4; Marquense
+; Teculután      ;0-0; Cobán
+; Aurora         ;5-0; Zacapa
+
+* Round 17 [Nov 17]
+Date: 11/17/2002
+; Municipal      ;4-0; Xelajú
+; Juventud R.    ;1-3; Zacapa
+; Marquense      ;4-1; Comunicaciones
+; Teculután      ;1-2; Aurora
+; Cobán          ;5-1; Antigua
+
+* Round 18 [Nov 24]
+Date: 11/24/2002
+; Aurora         ;1-1; Juventud R.
+; Zacapa         ;1-3; Municipal
+; Xelajú         ;2-2; Marquense
+; Comunicaciones ;2-1; Cobán
+; Antigua        ;0-1; Teculután
+
+
+Round: Quarterfinals
+
+*First Legs [Nov 27]
+11/27/2002; Aurora         ;0-0; Cobán
+11/27/2002; Marquense      ;0-0; Xelajú
+
+*Second Legs [Dec 1]
+12/1/2002; Cobán          ;3-1; Aurora
+12/1/2002; Xelajú         ;3-2; Marquense
+
+* NB: Municipal and Comunicaciones bye to semifinals
+
+Round: Semifinals
+
+*First Legs 
+*[Dec 4]
+12/4/2002; Xelajú         ;1-1; Municipal
+*[Dec 5]
+12/5/2002; Cobán          ;1-1; Comunicaciones
+
+* Second Legs [Dec 8]
+12/8/2002; Municipal      ;1-1; Xelajú              
+* [Municipal on better record regular season]
+12/8/2002; Comunicaciones ;3-0; Cobán
+
+Round: Final
+
+*First Leg [Dec 11]
+12/11/2002; Comunicaciones ;2-1; Municipal
+Edgar Everaldo Valencia 12, Fredy Thompson 78; Juan Carlos Plata 46
+
+*Second Leg [Dec 15]
+12/15/2002; Municipal      ;1-1; Comunicaciones
+Mario Acevedo 45; Mario Rodríguez 38
+
+
+Season: 2003 Clausura
+
+* Round 1 [Jan 26]
+Date: 1/26/2003
+; Juventud R.    ;0-3; Teculután
+; Zacapa; L-W; Aurora 
+*             [awarded 0-3; originally 0-1]
+; Marquense      ;2-1; Antigua
+; Cobán          ;1-1; Comunicaciones
+; Municipal      ;3-0; Xelajú
+
+*Round 2
+*[Feb 1]
+Date: 2/1/2003
+; Comunicaciones ;3-1; Marquense
+; Xelajú         ;0-0; Cobán
+*[Feb 2]
+Date: 2/2/2003
+; Teculután      ;0-0; Municipal
+; Aurora         ;1-1; Juventud R.
+; Antigua        ;2-0; Zacapa
+
+*Round 3
+*[Feb 8]
+2/8/2003; Xelajú         ;1-0; Teculután
+*[Feb 9]
+Date: 2/9/2003
+; Juventud R.    ;0-1; Antigua
+; Zacapa         ;1-0; Comunicaciones
+; Cobán          ;3-1; Marquense
+; Municipal      ;4-2; Aurora
+
+*Round 4
+*[Feb 15]
+2/15/2003; Comunicaciones ;3-1; Juventud R.
+*[Feb 16]
+Date: 2/16/2003
+; Antigua        ;1-2; Municipal
+; Aurora         ;1-0; Xelajú
+; Teculután      ;3-2; Cobán
+; Marquense      ;2-1; Zacapa
+
+*Round 5
+*[Feb 22]
+2/22/2003; Xelajú         ;0-1; Antigua
+*[Feb 23]
+Date: 2/23/2003
+; Teculután      ;1-1; Aurora
+; Juventud R.    ;0-0; Marquense
+; Cobán          ;4-0; Zacapa
+*[Feb 27]
+2/27/2003; Municipal      ;1-2; Comunicaciones
+
+*Round 6 [Mar 2]
+Date: 3/2/2003
+; Comunicaciones ;1-0; Xelajú
+; Marquense      ;2-2; Municipal
+; Antigua        ;2-0; Teculután
+; Cobán          ;1-1; Aurora
+; Zacapa         ;1-3; Juventud R.
+
+*Round 7
+*[Mar 8]
+3/8/2003; Xelajú         ;5-1; Marquense
+*[Mar 9]
+Date: 3/9/2003
+; Municipal      ;6-0; Zacapa
+; Juventud R.    ;1-0; Cobán
+; Antigua        ;0-2; Aurora
+; Teculután      ;1-2; Comunicaciones
+
+*Round 8
+*[Mar 15]
+3/15/2003; Comunicaciones ;0-0; Aurora
+*[Mar 16]
+Date: 3/16/2003
+; Zacapa         ;1-0; Xelajú
+; Marquense      ;1-0; Teculután
+; Cobán          ;1-0; Antigua
+*[Mar 19]
+3/19/2003; Juventud R.    ;0-0; Municipal
+
+*Round 9
+*[Mar 22]
+Date: 3/22/2003
+; Xelajú         ;0-0; Juventud R.
+; Municipal      ;2-2; Cobán
+*[Mar 23]
+Date: 3/23/2003
+; Teculután      ;2-1; Zacapa
+; Aurora         ;1-2; Marquense
+; Antigua        ;0-2; Comunicaciones
+
+*Round 10
+*[Mar 29]
+3/29/2003; Xelajú         ;1-2; Municipal
+*[Mar 30]
+Date: 3/30/2003
+; Teculután      ;3-0; Juventud R.
+; Aurora         ;2-2; Zacapa
+; Antigua        ;2-1; Marquense
+; Comunicaciones ;3-0; Cobán
+
+*Round 11 [Apr 6]
+Date: 4/6/2003
+; Marquense      ;1-2; Comunicaciones
+; Cobán          ;2-1; Xelajú
+; Municipal      ;2-2; Teculután
+; Juventud R.    ;0-0; Aurora
+; Zacapa         ;1-0; Antigua
+
+*Round 12
+*[Apr 12]
+Date: 4/12/2003
+; Antigua        ;4-1; Juventud R.
+; Comunicaciones ;4-2; Zacapa 
+*[Apr 13]
+Date: 4/13/2003
+; Teculután      ;0-0; Xelajú
+; Marquense      ;1-2; Cobán
+; Aurora         ;5-5; Municipal
+
+*Round 13
+*[Apr 16]
+Date: 4/16/2003
+; Juventud R.    ;0-1; Comunicaciones
+; Xelajú         ;5-1; Aurora
+; Cobán          ;3-0; Teculután
+; Zacapa         ;5-3; Marquense
+*[Apr 30]
+4/30/2003; Municipal; L-W; Antigua             
+* [awarded 0-3; originally 2-0; Municipal fielded suspended player]
+
+* Round 14
+* [Apr 26]
+4/26/2003; Aurora         ;1-0; Teculután 
+*[Apr 27]
+Date: 4/27/2003
+; Antigua        ;2-1; Xelajú
+; Marquense      ;3-1; Juventud R.
+; Zacapa         ;1-0; Cobán
+; Comunicaciones; W-L; Municipal           
+* [awarded 3-0; abandoned after 5' when 5 of the 11 Municipal players had withdrawn citing stomach problems]
+
+* Round 15
+* [May 3]
+5/3/2003; Xelajú         ;2-1; Comunicaciones
+*[May 4]
+Date: 5/4/2003
+; Municipal      ;2-0; Marquense
+; Teculután      ;1-1; Antigua
+; Aurora         ;1-1; Cobán
+; Juventud R.    ;1-2; Zacapa
+
+* Round 16 [May 11]
+Date: 5/11/2003
+; Zacapa         ;2-1; Municipal
+; Marquense      ;3-1; Xelajú 
+; Cobán          ;1-0; Juventud R.
+; Aurora         ;1-0; Antigua
+; Comunicaciones ;5-0; Teculután
+
+* Round 17
+* [May 17]
+5/17/2003; Xelajú         ;3-0; Zacapa
+*[May 18]
+Date: 5/18/2003
+; Municipal      ;4-1; Juventud R.
+; Aurora         ;1-0; Comunicaciones
+; Teculután      ;2-1; Marquense
+; Antigua        ;1-1; Cobán
+
+* Round 18 [May 25]
+Date: 5/25/2003
+; Juventud R.    ;1-1; Xelajú
+; Zacapa         ;2-2; Teculután           
+* [award of 3-0 revoked]
+; Marquense      ;2-0; Aurora
+; Cobán          ;2-1; Municipal
+; Comunicaciones ;4-2; Antigua
+
+
+Round: Quarterfinals
+
+*First Legs
+*[May 28]
+5/28/2003; Aurora         ;2-2; Antigua
+*[May 29]
+5/29/2003; Marquense      ;1-0; Municipal
+
+* Second Legs [Jun 1]
+6/1/2003; Antigua        ;1-1; Aurora              
+* [Antigua on Clausura record]
+6/1/2003; Municipal      ;2-0; Marquense
+
+* NB: Comunicaciones and Cobán bye to semifinals
+
+Round: Semifinals
+
+* First Legs [Jun 4]
+Date: 6/4/2003
+; Antigua        ;0-0; Comunicaciones
+; Municipal      ;0-0; Cobán
+
+* Second Legs [Jun 8]
+Date: 6/8/2003
+; Comunicaciones ;1-1; Antigua             
+* [Comunicaciones on Clausura record]
+; Cobán          ;3-2; Municipal
+
+Round: Final
+
+*First Leg [Jun 11]
+6/11/2003; Cobán          ;0-0; Comunicaciones
+
+* Second Leg [Jun 15]
+6/15/2003; Comunicaciones ;3-2 (asdet); Cobán
+Ariel Macia 56, Johnny Cubero 90+2, Diego Latorre 103; Sergio Morales 44, Jorge Dos Santos 55
+
+
+
+* Promotion/Relegation Playoffs
+
+* First Legs
+* [Jun 7]
+6/7/2003; USAC           ;2-1; Teculután
+* [Jun 8]
+6/8/2003; Chimaltenango  ;0-3; Xelajú
+
+* Second Legs
+* [Jun 14]
+6/14/2003; Xelajú         ;3-1; Chimaltenango
+* [Jun 15]
+6/15/2003; Teculután      ;3-1; USAC
+
+* Xelajú and Teculután remain at 1st level.
+
+
+
+Season: 2003 Apertura
+
+
+
+
+
+*Round 1
+*[Aug 2]
+Date: 8/2/2003
+; Jalapa         ;2-2; Comunicaciones
+; Xelajú         ;3-1; Teculután 
+*[Aug 3]
+Date: 8/3/2003
+; Municipal      ;3-2; Cobán
+; Antigua        ;1-0; Marquense
+; Zacapa         ;2-2; Aurora 
+
+*Round 2
+*[Aug 9]
+Date: 8/9/2003
+; Aurora         ;2-1; Antigua 
+; Marquense      ;0-2; Municipal
+; Comunicaciones ;1-1; Zacapa 
+*[Aug 10]
+Date: 8/10/2003
+; Teculután      ;1-0; Jalapa 
+; Cobán          ;1-1; Xelajú
+
+*Round 3
+*[Aug 15]
+8/15/2003; Municipal      ;2-4; Xelajú 
+*[Aug 17]
+Date: 8/17/2003
+; Antigua        ;0-0; Comunicaciones
+; Marquense      ;0-0; Aurora 
+; Zacapa         ;2-1; Teculután
+; Jalapa         ;0-2; Cobán 
+
+*Round 4
+*[Aug 23]
+8/23/2003; Xelajú         ;1-1; Jalapa 
+*[Aug 24]
+Date: 8/24/2003
+; Teculután      ;2-1; Antigua 
+; Comunicaciones ;4-0; Marquense 
+; Aurora         ;0-3; Municipal
+; Cobán          ;1-0; Zacapa 
+
+*Round 5 
+*[Aug 31]
+Date: 8/31/2003
+; Antigua        ;1-1; Cobán 
+; Marquense      ;1-0; Teculután
+; Aurora         ;0-0; Comunicaciones
+; Zacapa         ;3-1; Xelajú
+*[Sep 2]
+9/2/2003; Municipal      ;3-1; Jalapa 
+
+*Round 6
+*[Sep 6]
+9/6/2003; Xelajú         ;2-0; Antigua 
+*[Sep 7]
+Date: 9/7/2003
+; Cobán          ;3-1; Marquense 
+; Teculután      ;2-0; Aurora
+; Jalapa; W-L; Zacapa              
+[awarded 3-0; abandoned at 1-1 in 79' when Zacapa had only 5 players left]
+; Municipal      ;4-2; Comunicaciones       
+                                        
+* Round 7
+* [Sep 13]
+9/13/2003; Aurora         ;0-0; Cobán
+*[Sep 14]
+Date: 9/14/2003
+; Antigua        ;2-1; Jalapa
+; Marquense      ;1-3; Xelajú
+; Comunicaciones ;5-2; Teculután
+; Zacapa         ;3-3; Municipal
+
+*Round 8 
+*[Sep 20]
+9/20/2003; Xelajú         ;1-0; Aurora
+*[Sep 21]
+Date: 9/21/2003
+; Zacapa; L-W; Antigua
+* [awarded 0-3; originally 3-2]
+; Jalapa         ;4-0; Marquense
+; Cobán          ;0-1; Comunicaciones
+; Municipal      ;2-2; Teculután           
+
+* Round 9
+* [Sep 27]
+9/27/2003; Aurora         ;1-1; Jalapa
+*[Sep 28]
+Date: 9/28/2003
+; Marquense      ;2-2; Zacapa
+; Antigua        ;1-1; Municipal
+; Teculután      ;0-0; Cobán
+; Comunicaciones ;1-0; Xelajú
+
+* Round 10
+* [Oct 4]
+10/4/2003; Aurora         ;1-0; Zacapa
+* [Oct 5]
+Date: 10/5/2003
+; Comunicaciones ;5-1; Jalapa
+; Teculután      ;5-1; Xelajú
+; Cobán          ;2-0; Municipal
+; Marquense      ;2-0; Antigua
+
+* Round 11
+* [Oct 11]
+10/11/2003; Xelajú         ;1-2; Cobán
+* [Oct 12]
+Date: 10/12/2003
+; Antigua        ;1-1; Aurora
+; Municipal      ;4-1; Marquense
+; Zacapa         ;2-3; Comunicaciones
+; Jalapa         ;5-3; Teculután
+
+*Round 12
+*[Oct 18]
+Date: 10/18/2003
+; Aurora         ;2-2; Marquense
+; Xelajú         ;0-1; Municipal
+*[Oct 19]
+Date: 10/19/2003
+; Comunicaciones ;1-1; Antigua
+; Teculután      ;2-2; Zacapa
+; Cobán          ;3-4; Jalapa
+
+* Round 13 
+*[Oct 22]
+10/22/2003; Municipal      ;2-0; Aurora
+*[Oct 25]
+10/25/2003; Jalapa         ;1-0; Xelajú
+*[Oct 26]
+Date: 10/26/2003
+; Antigua        ;0-0; Teculután
+; Marquense      ;4-3; Comunicaciones
+; Zacapa         ;2-1; Cobán
+
+* Round 14
+*[Nov 1]
+11/1/2003; Xelajú         ;3-3; Zacapa
+*[Nov 2]
+Date: 11/2/2003
+; Cobán          ;1-0; Antigua
+; Teculután      ;1-0; Marquense
+*[Nov 19]
+*Comunicaciones abd Aurora              [abandoned at 2-1 in 59']
+; Jalapa         ;3-3; Municipal
+*[Nov 20]
+11/20/2003; Comunicaciones ;4-1; Aurora              
+* [remaining 31']
+
+* Round 15 
+* [Nov 8]
+Date: 11/8/2003
+; Aurora         ;4-1; Teculután
+; Zacapa         ;2-1; Jalapa
+; Antigua        ;0-1; Xelajú         
+; Marquense      ;2-0; Cobán
+*[Nov 26]
+11/26/2003; Comunicaciones ;1-0; Municipal
+
+*Round 16
+*[Nov 15]
+11/15/2003; Jalapa         ;3-3; Antigua
+11/15/2003; Xelajú         ;2-1; Marquense
+*[Nov 16]
+Date: 11/16/2003
+; Cobán          ;2-1; Aurora
+; Teculután      ;1-1; Comunicaciones
+; Municipal      ;1-0; Zacapa
+
+* Round 17 
+* [Nov 22]
+Date: 11/22/2003
+; Aurora         ;1-0; Xelajú
+; Comunicaciones ;2-1; Cobán
+* [Nov 23]
+Date: 11/23/2003
+; Antigua        ;2-1; Zacapa
+; Marquense      ;4-2; Jalapa
+; Teculután      ;1-0; Municipal
+
+* Round 18 [Nov 30]
+Date: 11/30/2003
+; Jalapa         ;3-0; Aurora
+; Zacapa         ;2-2; Marquense
+; Municipal      ;2-1; Antigua
+; Cobán          ;0-0; Teculután
+; Xelajú         ;1-2; Comunicaciones
+
+
+Round: Quarterfinals
+
+* First Legs [Dec 3]
+12/3/2003; Jalapa         ;1-2; Cobán
+12/3/2003; Teculután      ;2-0; Xelajú
+
+*Second Legs [Dec 6]
+12/6/2003; Cobán          ;1-1; Jalapa
+12/6/2003; Xelajú         ;2-0; Teculután           
+* [Xelajú qualify on season record]
+
+Round: Semifinals
+
+*First Legs
+*[Dec 10]
+12/10/2003; Xelajú         ;2-0; Comunicaciones
+*[Dec 11]
+12/11/2003; Cobán          ;1-0; Municipal
+
+* Second Legs [Dec 14]
+12/14/2003; Comunicaciones ;3-1; Xelajú              
+* [Comunicaciones qualify on season record]
+12/14/2003; Municipal      ;4-0; Cobán
+
+Round: Final 
+
+* First Leg [Dec 26, Estadio Mateo Flores]
+12/26/2003; Municipal      ;3-2; Comunicaciones; Estadio Mateo Flores
+Ponciano 12, Figueroa 18, Plata 69; Cubero 33, Pezzarossi 48
+Municipal: Danny Ortiz, Israel Donis, Selvin Ponciano, German Ruano, Dennis Chen, Carlos Figueroa (Mauricio Risso 64), Sergio Guevara, Gonzalo Romero, Cristian Chaparro (Claudio Albizuriz 57), Juan Carlos Plata, Mario Acevedo
+* ; coach: Ever Almeida (PAR);
+Comunicaciones: Edgar Estrada, Gustavo Cabrera, Rigoberto Gómez, Jaime Rosales, Edgar Valencia (Selvin De León 82), Carlos Quiñónez, Fredy Thompson, Walter Alegría, Sergio Morales, Dwight Pezzarossi, Johnny Cubero (Uwaldo Pérez 65); 
+* coach: Horacio Cordero (ARG)]
+
+* Second Leg [Dec 30, Estadio Cementos Progreso]
+12/30/2003; Comunicaciones ;0-0; Municipal; Estadio Cementos Progreso
+Comunicaciones: Edgar Estrada, Gustavo Cabrera, Ariel Macia, Rigoberto Gómez, Jaime Rosales, Edgar Valencia (Maximiliano Soares 71), Carlos Quiñónez (César Alegría 60), Fredy Thompson, Sergio Morales, Dwight Pezzarossi, Johnny Cubero (Selvin De León 71)
+*  coach: Horacio Cordero (ARG);
+Municipal: Danny Ortiz, Israel Donis, Selvin Ponciano, German Ruano, Dennis Chen, Marcelo Saraiva (Eddy Ortiz 71), Carlos Figueroa (Claudio Albizuriz 66), Sergio Guevara, Gonzalo Romero, Mauricio Risso (Daniel Pedroza 64), Mario Acevedo
+* ; coach: Ever Almeida (PAR)]
+
+* Municipal champions Apertura 2003
+
+
+Season: 2004 Clausura
+
+* Round 1 [Feb 1]
+Date: 2/1/2004
+; Municipal      ;5-0; Teculután
+; Cobán          ;1-1; Aurora
+; Antigua        ;4-0; Xelajú
+; Zacapa         ;4-0; Jalapa
+; Marquense      ;0-0; Comunicaciones
+
+* Round 2
+*[Feb 7]
+Date: 2/7/2004
+; Comunicaciones ;0-3; Zacapa
+; Xelajú         ;1-2; Cobán
+; Jalapa         ;3-1; Antigua
+*[Feb 8]
+Date: 2/8/2004
+; Aurora         ;2-1; Municipal
+; Teculután      ;0-0; Marquense
+
+*Round 3
+*[Feb 14]
+2/14/2004; Municipal      ;4-2; Xelajú
+*[Feb 15]
+Date: 2/15/2004
+; Cobán          ;1-0; Jalapa
+; Antigua        ;0-1; Comunicaciones
+; Marquense      ;3-1; Zacapa
+; Teculután      ;1-4; Aurora
+
+*Round 4
+*[Feb 21]
+Date: 2/21/2004
+; Comunicaciones ;2-0; Cobán
+; Jalapa         ;3-3; Municipal
+; Xelajú         ;4-1; Teculután
+*[Feb 22]
+Date: 2/22/2004
+; Aurora         ;1-1; Marquense
+; Zacapa         ;2-2; Antigua
+
+* Round 5 [Feb 29]
+Date: 2/29/2004
+; Municipal      ;0-2; Comunicaciones
+Notes: Municipal goal keeper Danny Ortiz died in hospital after suffering internal bleedings following an accidental clash in 78
+; Aurora         ;0-0; Xelajú
+; Cobán          ;2-1; Zacapa
+; Marquense      ;2-0; Antigua
+; Teculután      ;1-4; Jalapa
      
-Round 26 [Feb 25]
-Escuintla     0-6 Amatitlán 
-Petapa        2-2 Coatepeque
-Jalapa        2-0 Izabal 
-Sacachispas   3-3 Chimaltenango 
-Suchitepequez 3-1 Juv. Retalteca
-San Pedro     2-1 Sanarate
-San Benito    1-0 Teculután
-  
-Final Table:
-
- 1.Deportivo Jalapa             26 10 14  2  35-24  44  Direct Promotion Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 2.Deportivo San Benito         26 13  3 10  39-42  42
- 3.Deportivo Suchitepéquez      26 10 10  6  31-21  40
- 4.Deportivo Petapa             26  9 11  6  26-23  38
- 5.Juventud Retalteca           26 10  7  9  46-36  37 
- 6.Teculután                    26 10  7  9  29-28  37
- 7.Deportivo Coatepeque         26  8 12  6  37-31  36
- 8.Deportivo San Pedro          26  9  9  8  29-29  36
- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 9.Deportivo Amatitlán          26 10  5 11  37-34  35
-10.Sacachispas                  26  9  7 10  40-42  34
-11.Deportivo Escuintla          26  7 10  9  31-38  31
-12.Chimaltenango                26  6 10 10  34-35  28
-13.Sanarate                     26  6 10 10  25-34  28
-14.Izabal JC                    26  4  7 15  26-48  19
-
-
-Octogonal Ascenso
-
-Final Table:
-
- 1.Deportivo Petapa             14  8  5  1  22- 9  29  Direct Promotion Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 2.Teculután                    14  7  4  3  24-18  25  
- 3.Deportivo San Pedro          14  6  5  3  20-11  23
- 4.Deportivo Suchitepéquez      14  4  8  2  24-19  20
- 5.Deportivo Coatepeque         14  6  2  6  16-18  20
- 6.Juventud Retalteca           14  3  5  6  15-23  14
- 7.Deportivo San Benito         14  2  4  8  12-26  10
- 8.Deportivo Jalapa             14  2  3  9  15-24   9
-
-Round 1 [Mar 4]
-San Benito    2-3 Suchitepequez  
-Juv.Retalteca 0-1 Coatepeque
-Teculután     3-2 Jalapa         
-Petapa        1-1 San Pedro
-
-Round 2 [Mar 11]
-Coatepeque    2-0 Jalapa
-Suchitepequez 1-1 Petapa
-San Pedro     0-0 San Benito
-Juv.Retalteca 2-0 Teculután
-
-Round 3 [Mar 14]
-Suchitepequez 2-0 San Pedro
-San Benito    1-2 Petapa
-Jalapa        4-0 Juv. Retalteca
-Coatepeque    0-0 Teculután
-
-Round 4 [Mar 18]
-Teculután     2-2 Suchitepequez
-Coatepeque    0-4 San Pedro
-Jalapa        1-1 San Benito
-Juv.Retalteca 1-1 Petapa
-
-Round 5 [Mar 25]
-Suchitepequez 1-1 Juv. Retalteca
-Petapa        2-0 Coatepeque
-San Pedro     3-0 Jalapa
-San Benito    1-4 Teculután
-
-Round 6 [Mar 28]
-Coatepeque    2-2 Suchitepequez
-Jalapa        1-3 Petapa
-Juv.Retalteca 2-0 San Benito
-Teculután     1-0 San Pedro
-
-Round 7 [Apr 1]
-Petapa        0-0 Teculután
-San Pedro     2-0 Juv. Retalteca
-Suchitepequez 2-2 Jalapa
-San Benito    2-1 Coatepeque
-
-Round 8 [Apr 8]
-Jalapa        0-1 Teculután
-San Benito    0-2 Suchitepéquez
-San Pedro     1-1 Petapa
-Coatepeque    2-0 Juv. Retalteca
-
-Round 9 [Apr 22]
-Teculután     4-2 Juv. Retalteca
-Suchitepéquez 2-0 Petapa
-San Pedro     0-2 San Benito
-Jalapa        0-2 Coatepeque
-
-Round 10 [Apr 29]
-San Pedro     1-1 Suchitepéquez
-Petapa        4-0 San Benito
-Juv.Retalteca 2-1 Jalapa
-Teculután     3-2 Coatepeque
-
-Round 11 [May 6]
-Suchitepéquez 3-3 Teculután
-San Pedro     3-1 Coatepeque
-San Benito    1-1 Jalapa
-Petapa        2-0 Juv. Retalteca
-
-Round 12 [May 13]
-Juv.Retalteca 1-1 Suchitepéquez
-Coatepeque    0-1 Petapa
-Jalapa        0-1 San Pedro
-Teculután     3-0 San Benito
-
-Round 13 [May 20]
-Suchitepequez 1-2 Coatepeque 
-Petapa        2-1 Jalapa 
-San Benito    2-2 Juv. Retalteca 
-San Pedro     2-0 Teculután 
-
-Round 14 [May 27]
-Teculután     0-2 Petapa
-Juv.Retalteca 2-2 San Pedro
-Jalapa        2-1 Suchitepequez 
-Coatepeque    1-0 San Benito
-
-Final Table:
-
- 1.Deportivo Petapa             14  8  5  1  22- 9  29  Direct Promotion Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 2.Teculután                    14  7  4  3  24-18  25  
- 3.Deportivo San Pedro          14  6  5  3  20-11  23
- 4.Deportivo Suchitepéquez      14  4  8  2  24-19  20
- 5.Deportivo Coatepeque         14  6  2  6  16-18  20
- 6.Juventud Retalteca           14  3  5  6  15-23  14
- 7.Deportivo San Benito         14  2  4  8  12-26  10
- 8.Deportivo Jalapa             14  2  3  9  15-24   9
-
-Playoff for Direct Promotion [Jun 2]
-Petapa         2-3 Jalapa
-
-Jalapa promoted; Petapa to promotion/relegation playoff
-
-Aggregate Table Ascenso:
-
- 1.Deportivo Petapa             40 17 16  7  48-32  67  Direct Promotion Playoff
- 2.Teculután                    40 17 11 12  53-46  62  Promotion/Relegation Playoff
- 3.Deportivo Suchitepéquez      40 14 18  8  55-40  60  Promotion/Relegation Playoff
- 4.Deportivo San Pedro          40 15 14 11  49-40  59
- 5.Deportivo Coatepeque         40 14 14 12  53-49  56
- 6.Deportivo Jalapa             40 12 17 11  50-48  54  Direct Promotion Playoff
- 7.Deportivo San Benito         40 15  7 18  51-68  52
- 8.Juventud Retalteca           40 13 12 15  61-59  51 
-
-
-Promotion/Relegation Playoffs
-
-First Legs [Jun 9,10]
-Petapa         1-1 Santa Lucia
-Teculután      3-0 Achuapa
-Suchitepéquez  1-1 Aurora
-
-Second Legs [Jun 23?]
-Santa Lucia    1-2 Petapa
-Achuapa        2-0 Teculután
-Aurora         3-0 Suchitepéquez
-
-Petapa and Teculután promoted, Santa Lucía Cotzumalguapa and Achuapa relegated.
-
-
-Hexagonal
+*Round 6
+*[Mar 6]
+Date: 3/6/2004
+; Comunicaciones ;0-0; Teculután
+; Jalapa         ;5-1; Aurora
+*[Mar 7]
+Date: 3/7/2004
+; Zacapa         ;2-0; Municipal
+; Marquense      ;3-0; Xelajú
+; Antigua        ;1-3; Cobán
+   
+* Round 7 [Mar 10]
+Date: 3/10/2004
+; Municipal      ;3-1; Antigua
+; Teculután      ;2-1; Zacapa
+; Xelajú         ;1-2; Jalapa
+; Cobán          ;2-1; Marquense
+; Aurora         ;1-1; Comunicaciones
+
+*Round 8
+*[Mar 13]
+Date: 3/13/2004
+; Comunicaciones ;0-1; Xelajú
+; Antigua        ;3-1; Teculután
+*[Mar 14]
+Date: 3/14/2004
+; Cobán          ;1-1; Municipal
+; Marquense      ;3-0; Jalapa
+; Zacapa         ;2-3; Aurora
+
+*Round 9
+*[Mar 19]
+3/19/2004; Municipal      ;4-2; Marquense
+*[Mar 20]
+Date: 3/20/2004
+; Jalapa         ;1-1; Comunicaciones
+; Xelajú         ;3-3; Zacapa
+*[Mar 21]
+Date: 3/21/2004
+; Teculután      ;4-2; Cobán
+; Aurora         ;3-1; Antigua
+
+*Round 10
+*[Mar 27]
+Date: 3/27/2004
+; Xelajú         ;3-0; Antigua
+; Jalapa         ;3-2; Zacapa
+*[Mar 28]
+Date: 3/28/2004
+; Comunicaciones ;3-3; Marquense
+; Teculután      ;1-2; Municipal
+; Aurora         ;3-3; Cobán
+
+*Round 11
+*[Apr 3]
+4/3/2004; Antigua        ;2-0; Jalapa
+*[Apr 4]
+Date: 4/4/2004
+; Cobán          ;1-0; Xelajú 
+; Zacapa         ;1-2; Comunicaciones  
+; Municipal      ;4-1; Aurora  
+; Marquense      ;4-3; Teculután 
+
+*Round 12
+*[Apr 6]
+4/6/2004; Comunicaciones ;2-3; Antigua 
+*[Apr 7]
+Date: 4/7/2004
+; Aurora         ;1-2; Teculután
+; Jalapa         ;2-0; Cobán 
+; Xelajú         ;3-3; Municipal 
+; Zacapa         ;1-1; Marquense
+
+*Round 13 [Apr 14]
+Date: 4/14/2004
+; Municipal      ;2-1; Jalapa
+; Cobán          ;0-0; Comunicaciones
+; Marquense      ;1-0; Aurora
+; Antigua        ;1-0; Zacapa
+; Teculután      ;1-2; Xelajú
+
+*Round 14
+*[Apr 17]
+Date: 4/17/2004
+; Jalapa         ;4-1; Teculután 
+; Xelajú         ;2-1; Aurora
+*[Apr 18]
+Date: 4/18/2004
+; Antigua        ;2-1; Marquense
+; Comunicaciones ;1-1; Municipal
+; Zacapa         ;1-3; Cobán
+
+*Round 15 
+*[Apr 24]
+4/24/2004; Xelajú         ;2-2; Marquense
+*[Apr 25]
+Date: 4/25/2004
+; Municipal      ;2-1; Zacapa
+; Cobán          ;1-0; Antigua
+; Teculután      ;5-2; Comunicaciones
+; Aurora         ;2-1; Jalapa
+
+*Round 16 
+*[Apr 28]
+Date: 4/28/2004
+; Antigua        ;1-2; Municipal
+; Marquense      ;2-0; Cobán
+; Comunicaciones ;0-2; Aurora
+; Zacapa         ;3-2; Teculután
+*[May 1]
+5/1/2004; Jalapa         ;3-0; Xelajú
+
+*Round 17
+*[May 8]
+Date: 5/8/2004
+; Xelajú         ;1-1; Comunicaciones
+; Jalapa         ;4-1; Marquense
+*[May 9]
+Date: 5/9/2004
+; Municipal      ;3-2; Cobán
+; Aurora         ;1-1; Zacapa
+; Teculután      ;3-3; Antigua
+
+*Round 18 [May 16]
+Date: 5/16/2004
+; Marquense      ;2-2; Municipal
+; Comunicaciones ;4-2; Jalapa
+; Antigua        ;2-0; Aurora
+; Cobán          ;1-0; Teculután
+; Zacapa         ;3-2; Xelajú
+
+
+Round: Quarterfinals
+
+*First Legs [May 19]
+5/19/2004; Comunicaciones ;0-1; Jalapa
+5/19/2004; Aurora         ;2-1; Marquense
+
+*Second Legs 
+*[May 22]
+5/22/2004; Jalapa         ;3-3; Comunicaciones
+*[May 23]
+5/23/2004; Marquense      ;1-1; Aurora
+
+Round: Semifinals
+
+*First Legs [May 26]
+5/26/2004; Aurora         ;2-1; Municipal
+5/26/2004; Jalapa         ;1-1; Cobán
+
+*Second Legs [May 30]
+5/30/2004; Municipal      ;5-0; Aurora
+5/30/2004; Cobán          ;4-0; Jalapa
+
+Round: Final
+
+* First Leg [Jun 2]
+6/2/2004; Cobán          ;3-2; Municipal
+Walter Estrada 22, José Mendoza 35, César Trujillo (pk) 57; Mauricio Risso 47, Mauricio Risso 81
+
+* Second Leg [Jun 6]
+6/6/2004; Municipal      ;2-2; Cobán
+Carlos Figueroa 43, Cristian Chaparro 86; Walter Estrada 33, Eduardo Montepeque 97
+
+* Cobán Imperial champions Clausura 2004
+
+
+* Repechaje
+
+* First Legs [Jun 16]
+6/16/2004; Heredia        ;3-1; Teculután
+6/16/2004; Juv. Retalteca ;2-0; Antigua
+
+* Second Legs [Jun 20]
+6/20/2004; Teculután      ;1-2; Heredia
+6/20/2004; Antigua        ;3-0; Juv. Retalteca
+
+*Heredia promoted, Teculután relegated
+
+
+
+* Guatemala 2004/05
+
+Season: 2004 Apertura
+* Apertura 2004
+
+* Round 1
+*[Jul 31]
+7/31/2004; Aurora         ;1-1; Marquense
+*[Aug 1]
+Date: 8/1/2004
+; Xelajú         ;1-1; Heredia
+; Suchitepéquez  ;3-2; Cobán
+; Antigua        ;3-1; Municipal
+; Comunicaciones ;5-1; Jalapa
+
+*Round 2
+*[Aug 4]
+Date: 8/4/2004
+; Cobán          ;0-1; Comunicaciones
+; Municipal      ;4-0; Aurora
+*[Aug 7]
+8/7/2004; Jalapa         ;3-1; Antigua
+*[Aug 8]
+8/8/2004; Marquense      ;0-1; Xelajú
+8/8/2004; Heredia        ;1-1; Suchitepéquez
+
+*Round 3
+*[Aug 14]
+8/14/2004; Xelajú         ;1-1; Suchitepéquez
+*[Aug 15]
+Date: 8/15/2004
+; Aurora         ;1-3; Jalapa
+; Comunicaciones ;3-0; Heredia 
+*[Aug 25]
+Date: 8/25/2004
+; Marquense      ;2-3; Municipal 
+; Antigua        ;0-1; Cobán 
+
+*Round 4
+*[Aug 21]
+8/21/2004; Jalapa         ;5-2; Marquense
+*[Aug 22]
+Date: 8/22/2004
+; Cobán          ;3-0; Aurora
+; Municipal      ;1-1; Xelajú
+; Heredia        ;2-1; Antigua       
+; Suchitepéquez  ;2-2; Comunicaciones
+
+*Round 5
+*[Aug 28]
+Date: 8/28/2004
+; Xelajú         ;3-2; Comunicaciones
+; Aurora         ;2-2; Heredia
+*[Aug 29]
+8/29/2004; Antigua        ;1-0; Suchitepéquez
+*[Sep 22]
+9/22/2004; Municipal      ;3-1; Jalapa
+*[Sep 30]
+9/30/2004; Marquense      ;1-0; Cobán
+
+*Round 6
+*[Sep 4]
+Date: 9/4/2004
+; Suchitepéquez  ;2-1; Aurora
+; Xelajú         ;3-2; Jalapa
+*[Sep 5]
+9/5/2004; Heredia        ;2-1; Marquense
+*[Sep 15]
+Date: 9/15/2004
+; Cobán          ;3-2; Municipal
+; Comunicaciones ;3-0; Antigua
+
+*Round 7
+*[Sep 11]
+9/11/2004; Jalapa         ;2-2; Cobán 
+*[Sep 12]
+Date: 9/12/2004
+; Marquense      ;5-3; Suchitepéquez 
+; Municipal      ;1-1; Heredia 
+; Aurora         ;3-2; Comunicaciones
+; Antigua        ;1-1; Xelajú 
+
+*Round 8
+*[Sep 18]
+9/18/2004; Xelajú         ;2-1; Cobán
+*[Sep 19]
+Date: 9/19/2004
+; Comunicaciones ;0-0; Marquense
+; Suchitepéquez  ;0-4; Municipal
+; Antigua        ;2-0; Aurora
+; Heredia        ;2-2; Jalapa
+
+*Round 9
+*[Sep 22]
+9/22/2004; Aurora         ;0-1; Xelajú
+*[Sep 25]
+9/25/2004; Jalapa         ;2-4; Suchitepéquez
+*[Sep 26]
+Date: 9/26/2004
+; Municipal      ;1-1; Comunicaciones
+; Marquense      ;1-0; Antigua
+; Cobán          ;0-1; Heredia
+
+*Round 10
+*[Oct 3]
+Date: 10/3/2004
+; Municipal      ;1-2; Antigua
+; Marquense      ;3-1; Aurora
+; Heredia        ;1-1; Xelajú
+*[Oct 20]
+Date: 10/20/2004
+; Jalapa         ;2-1; Comunicaciones
+; Cobán          ;3-0; Suchitepéquez
+
+*Round 11
+*[Oct 10]
+Date: 10/10/2004
+; Antigua        ;3-2; Jalapa
+; Suchitepéquez  ;4-2; Heredia
+*[Oct 20?]
+10/20/2004; Xelajú         ;1-1; Marquense
+*[Nov 3]
+11/3/2004; Aurora         ;2-1; Municipal
+11/3/2004; Comunicaciones ;3-1; Cobán
+
+*Round 12
+*[Oct 16]
+Date: 10/16/2004
+; Municipal      ;2-1; Marquense
+; Jalapa         ;2-0; Aurora
+*[Oct 17]
+Date: 10/17/2004
+; Suchitepéquez  ;1-1; Xelajú
+; Cobán          ;1-0; Antigua
+; Heredia        ;2-3; Comunicaciones
+
+*Round 13 
+*[Oct 23]
+Date: 10/23/2004
+; Xelajú         ;0-1; Municipal
+; Aurora         ;1-1; Cobán
+; Comunicaciones ;0-0; Suchitepéquez
+*[Oct 24]
+Date: 10/24/2004
+; Marquense      ;2-1; Jalapa
+; Antigua        ;1-2; Heredia
+
+*Round 14 [Oct 31]
+Date: 10/31/2004
+; Comunicaciones ;1-0; Xelajú 
+; Jalapa         ;0-5; Municipal 
+; Suchitepéquez  ;3-1; Antigua
+; Heredia        ;1-1; Aurora 
+; Cobán          ;0-4; Marquense         
+* [also reported 1-4]
+
+*Round 15 
+*[Nov 6]
+Date: 11/6/2004
+; Aurora         ;1-2; Suchitepéquez
+; Jalapa         ;4-1; Xelajú
+*[Nov 7]
+Date: 11/7/2004
+; Antigua        ;2-1; Comunicaciones
+; Municipal      ;5-2; Cobán
+; Marquense      ;3-0; Heredia
+
+*Round 16
+*[Nov 13]
+11/13/2004; Xelajú         ;2-0; Antigua
+*[Nov 14]
+11/14/2004; Suchitepéquez  ;3-2; Marquense
+*[Nov 24]
+Date: 11/24/2004
+; Heredia        ;1-1; Municipal 
+; Cobán          ;1-0; Jalapa 
+; Comunicaciones ;3-0; Aurora 
+
+*Round 17
+*[Nov 20]
+Date: 11/20/2004
+; Aurora         ;3-1; Antigua
+; Jalapa         ;2-1; Heredia
+*[Nov 21]
+Date: 11/21/2004
+; Marquense      ;2-1; Comunicaciones
+; Municipal      ;1-0; Suchitepéquez
+; Cobán          ;3-0; Xelajú
+
+*Round 18 [Nov 28]
+Date: 11/28/2004
+; Comunicaciones ;2-1; Municipal
+; Antigua        ;1-2; Marquense
+; Suchitepéquez  ;3-0; Jalapa
+; Xelajú         ;1-1; Aurora
+; Heredia        ;4-1; Cobán
+
+
+Round: Quarterfinals
+
+*First Legs [Dec 1]
+Date: 12/1/2004
+; Xelajú         ;2-1; Suchitepéquez
+; Heredia        ;3-2; Marquense
+
+* Second Legs [Dec 5]
+Date: 12/5/2004
+; Suchitepéquez  ;1-2; Xelajú
+; Marquense      ;2-0; Heredia
+
+Round: Semifinals
+
+*First Legs [Dec 8]
+Date: 12/8/2004
+; Marquense      ;3-1; Comunicaciones
+; Xelajú         ;2-0; Municipal
+
+*Second Leg [Dec 12]
+Date: 12/12/2004
+; Comunicaciones ;5-1; Marquense
+; Municipal      ;2-0; Xelajú
+
+Round: Final
+
+*First Leg [Dec 15]
+12/15/2004; Comunicaciones ;1-5; Municipal
+Jhony Cubero 8; Guillermo Ramírez 14, Juan Plata 17, Juan Plata42, Mario Acevedo (pk) 24, Jacinto Zorrilla 39
+
+*Second Leg [Dec 19]
+12/19/2004; Municipal      ;4-1; Comunicaciones
+Juan Plata 10, Juan Plata 87, Mario Acevedo 29, Fredy García 77; Dwight Pezarossi 12
+
+*Municipal are Apertura champions.
+
+
+
+Season: 2005 Clausura
+
+*Round 1
+*[Jan 23]
+Date: 1/23/2005
+; Municipal      ;3-0; Heredia
+; Antigua        ;2-0; Aurora
+; Marquense      ;0-4; Cobán
+*[Mar 9]
+3/9/2005; Jalapa         ;1-2; Comunicaciones
+*[Mar 16]
+3/16/2005; Suchitepéquez  ;2-0; Xelajú
+
+*Round 2
+*[Jan 29]
+Date: 1/29/2005
+; Aurora         ;0-1; Municipal
+; Xelajú         ;3-2; Jalapa
+*[Jan 30]
+Date: 1/30/2005
+; Heredia        ;2-1; Suchitepéquez
+; Cobán          ;2-0; Antigua
+; Comunicaciones ;4-1; Marquense
+
+*Round 3 
+*[Feb 5]
+Date: 2/5/2005
+; Jalapa         ;3-0; Heredia
+; Aurora         ;4-0; Cobán
+*[Feb 6]
+Date: 2/6/2005
+; Marquense      ;0-1; Xelajú
+; Antigua        ;1-2; Comunicaciones
+; Municipal      ;1-1; Suchitepéquez 
+
+*Round 4 
+*[Feb 12]
+2/12/2005; Xelajú         ;3-1; Antigua 
+*[Feb 13]
+Date: 2/13/2005
+; Heredia        ;2-2; Marquense
+; Suchitepéquez  ;1-3; Jalapa
+; Cobán          ;1-3; Municipal
+; Comunicaciones ;3-1; Aurora 
+
+*Round 5
+*[Feb 19]
+2/19/2005; Aurora         ;1-0; Xelajú
+*[Feb 20]
+Date: 2/20/2005
+; Antigua        ;2-1; Heredia
+; Marquense      ;1-2; Suchitepéquez
+; Cobán          ;0-0; Comunicaciones
+; Municipal      ;1-1; Jalapa
+
+*Round 6
+*[Feb 26]
+Date: 2/26/2005
+; Jalapa         ;0-2; Marquense
+; Xelajú         ;3-2; Cobán
+*[Feb 27]
+Date: 2/27/2005
+; Heredia        ;5-1; Aurora
+; Suchitepéquez  ;2-0; Antigua
+*[Apr 13]
+Date: 4/13/2005
+; Municipal      ;2-1; Comunicaciones
+
+*Round 7
+*[Mar 5]
+Date: 3/5/2005
+; Aurora         ;1-0; Suchitepéquez
+; Marquense      ;2-2; Municipal
+*[Mar 6]
+Date: 3/6/2005
+; Antigua        ;1-0; Jalapa
+; Cobán          ;1-0; Heredia
+; Comunicaciones ;0-0; Xelajú
+
+*Round 8
+*[Mar 12]
+3/12/2005; Jalapa         ;1-0; Aurora
+*[Mar 13]
+Date: 3/13/2005
+; Heredia        ;2-2; Comunicaciones
+; Marquense      ;1-2; Antigua
+; Suchitepéquez  ;1-0; Cobán
+; Municipal      ;1-1; Xelajú
+
+*Round 9
+*[Mar 16]
+3/16/2005; Cobán          ;1-1; Jalapa
+*[Mar 19]
+Date: 3/19/2005
+; Aurora         ;1-1; Marquense
+; Comunicaciones ;0-2; Suchitepéquez
+; Xelajú         ;5-1; Heredia
+*[Apr 6]
+4/6/2005; Antigua        ;0-0; Municipal
+
+*Round 10
+*[Mar 9]
+3/9/2005; Cobán          ;1-1; Marquense
+*[Mar 22]
+3/22/2005; Comunicaciones ;2-2; Jalapa
+*[Mar 23]
+Date: 3/23/2005
+; Aurora         ;2-2; Antigua
+; Heredia        ;1-1; Municipal
+; Xelajú         ;0-0; Suchitepéquez
+
+*Round 11
+*[Apr 2]
+Date: 4/2/2005
+; Jalapa         ;1-0; Xelajú
+; Marquense      ;0-2; Comunicaciones
+; Suchitepéquez  ;3-2; Heredia 
+*[Apr 3]
+Date: 4/3/2005
+; Antigua        ;1-0; Cobán 
+; Municipal      ;2-0; Aurora 
+
+*Round 12
+*[Apr 9]
+Date: 4/9/2005
+; Comunicaciones ;2-0; Antigua 
+; Xelajú         ;2-0; Marquense   
+*[Apr 10]
+Date: 4/10/2005
+; Heredia        ;3-0; Jalapa    
+; Suchitepéquez  ;1-2; Municipal 
+; Cobán          ;0-0; Aurora 
+
+*Round 13
+*[Apr 16]
+Date: 4/16/2005
+; Aurora         ;1-3; Comunicaciones
+; Jalapa         ;1-0; Suchitepéquez
+; Marquense      ;1-1; Heredia
+*[Apr 17]
+Date: 4/17/2005
+; Antigua        ;1-1; Xelajú
+; Municipal      ;4-0; Cobán
+
+*Round 14
+*[Apr 23]
+Date: 4/23/2005
+; Jalapa         ;2-3; Municipal
+; Xelajú         ;4-0; Aurora
+*[Apr 24]
+Date: 4/24/2005
+; Heredia        ;1-1; Antigua
+; Suchitepéquez  ;1-0; Marquense
+; Comunicaciones ;1-1; Cobán
+
+*Round 15
+*[Apr 30]
+Date: 4/30/2005
+; Aurora         ;2-1; Heredia 
+; Cobán          ;1-1; Xelajú
+; Marquense      ;3-0; Jalapa
+*[May 1]
+Date: 5/1/2005
+; Antigua        ;0-1; Suchitepéquez
+; Comunicaciones ;1-2; Municipal
+
+*Round 16
+*[May 7]
+Date: 5/7/2005
+; Jalapa         ;0-2; Antigua 
+; Xelajú         ;1-1; Comunicaciones
+*[May 8]
+Date: 5/8/2005
+; Heredia        ;2-1; Cobán 
+; Municipal      ;2-1; Marquense
+; Suchitepéquez  ;6-4; Aurora
+
+*Round 17
+*[May 14]
+Date: 5/14/2005
+; Aurora         ;1-0; Jalapa
+; Xelajú         ;1-0; Municipal
+; Comunicaciones ;2-0; Heredia
+*[May 15]
+Date: 5/15/2005
+; Antigua        ;2-0; Marquense
+; Cobán          ;1-0; Suchitepéquez
+
+*Round 18 [May 22]
+Date: 5/22/2005
+; Heredia        ;3-1; Xelajú
+; Jalapa         ;0-1; Cobán
+; Marquense      ;2-1; Aurora
+; Municipal      ;5-2; Antigua
+; Suchitepéquez  ;3-1; Comunicaciones
+
+
+Round: Quarterfinals
+
+*First Legs [May 25]
+Date: 5/25/2005
+; Antigua        ;1-1; Comunicaciones
+; Cobán          ;0-0; Xelajú
+
+*Second Legs [Jun 11]
+Date: 6/11/2005
+; Comunicaciones ;1-0; Antigua
+; Xelajú         ;2-1; Cobán
+
+Round: Semifinals
+
+*First Legs 
+*[Jun 15]
+6/15/2005; Comunicaciones ;1-2; Municipal
+*[Jun 16]
+6/16/2005; Xelajú         ;1-0; Suchitepéquez
+
+* Second Legs [Jun 19]
+Date: 6/19/2005
+; Municipal      ;3-1; Comunicaciones
+; Suchitepéquez  ;3-2; Xelajú
+
+Round: Final
+
+*First Leg [Jun 22]
+6/22/2005; Suchitepéquez  ;0-1; Municipal
+; Fredy García 65
+
+*Second Leg
+; Municipal      ;4-2; Suchitepéquez 
+Juan Carlos Plata 15, Juan Carlos Plata 38, Juan Carlos Plata 57, Juan Carlos Plata 60; Mitchel Brown 48, Own Goal (Pablo Melgar) 66
+
+
+* Promotion/Relegation Playoff 
+
+* First Legs [Jun 8]
+Date: 6/8/2005
+; Universidad    ;1-1; Jalapa
+; Xinabajul      ;2-3; Heredia
+
+*Second Legs [Jun 12]
+Date: 6/12/2005
+; Jalapa         ;1-0; Universidad
+; Heredia        ;3-1; Xinabajul
+
+*Heredia and Jalapa remain at 1st level
 
-Final Table:
 
- 9.Chimaltenango                10  5  1  4  18-14  16
-10.Sacachispas                  10  4  4  2  16-13  16
-11.Sanarate                     10  4  3  3  11-11  15
-12.Deportivo Amatitlán          10  4  2  4  15-12  14
-13.Deportivo Escuintla          10  4  2  4  19-17  14
-14.Izabal JC                    10  3  0  7   8-20   9 
 
-Round 1 [Mar 4]
-Escuintla     4-0 Chimaltenango
-Sacachispas   1-0 Amatitlán
-Sanarate      1-0 Izabal
 
-Round 2 [Mar 11]
-Escuintla     3-1 Sanarate
-Izabal        2-1 Amatitlán
-Chimaltenango 3-3 Sacachispas
-
-Round 3 [Mar 18]
-Amatitlán     3-0 Sanarate
-Chimaltenango 6-0 Izabal
-Sacachispas   3-1 Escuintla
-
-Round 4 [Mar 25]
-Izabal        1-0 Sacachispas
-Sanarate      0-1 Chimaltenango
-Escuintla     2-2 Amatitlan
-
-Round 5 [Apr 1]
-Izabal        2-0 Escuintla
-Sanarate      2-2 Sacachispas
-Amatitlán     2-0 Chimaltenango
-
-Round 6 [Apr 8]
-Chimaltenango 4-1 Escuintla
-Amatitlán     2-2 Sacachispas
-Izabal        0-1 Sanarate
-
-Round 7 [Apr 23]
-Amatitlán     3-0 Izabal
-Sanarate      1-1 Escuintla
-Chimaltenango 0-1 Sacachispas
-
-Round 8 [Apr 29]
-Sanarate      3-0 Amatitlán
-Izabal        1-2 Chimaltenango
-Escuintla     3-1 Sacachispas
-
-Round 9 [May 6]
-Sacachispas   3-1 Izabal
-Chimaltenango 1-2 Sanarate
-Amatitlán     2-1 Escuintla 
-
-Round 10 [May 13]
-Escuintla     3-1 Izabal
-Sacachispas   0-0 Sanarate
-Chimaltenango 1-0 Amatitlán
-
-Final Table:
-
- 9.Chimaltenango                10  5  1  4  18-14  16
-10.Sacachispas                  10  4  4  2  16-13  16
-11.Sanarate                     10  4  3  3  11-11  15
-12.Deportivo Amatitlán          10  4  2  4  15-12  14
-13.Deportivo Escuintla          10  4  2  4  19-17  14
-14.Izabal JC                    10  3  0  7   8-20   9
-
-Aggregate Table Descenso:
-
- 9.Sacachispas                  36 13 11 12  56-55  50
-10.Deportivo Amatitlán          36 14  7 15  52-46  49  
- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-11.Deportivo Escuintla          36 11 12 13  50-55  45  Relegation Playoff
-12.Chimaltenango                36 11 11 14  52-49  44  Relegation Playoff
-------------------------------------------------------
-13.Sanarate                     36 10 13 13  36-45  43  Relegated
-14.Izabal JC                    36  7  7 22  34-68  28  Relegated
-
-Relegation Playoffs
-
-First Legs
-unknown
-
-Second Legs [Jun 23]
-Chimaltenango 3-1 Mictlán
-Escuintla     0-0 Puerto San José
-
-Escuintla relegated, Puerto San José promoted;
-Chimaltenango remain at 2nd level
-
-
-1999/00.
-
-
-2001/02.
-
-
-list of champions.
-
-
-list of cup winners.
-
-
-About this document
-
-Prepared and maintained by the RSSSF
-
-Author: RSSSF (rsssf_request@topica.com)
-Last updated: 16 Feb 2002
-
-(C) Copyright RSSSF 2000/02
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the RSSSF. All rights reserved.
