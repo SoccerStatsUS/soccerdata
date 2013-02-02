@@ -82,12 +82,13 @@ def load_drafts():
 
 def load_games():
 
-    load_conmebol()
-    return
-
-    load_conmebol_international()
     load_nasl()
     return
+
+    load_conmebol()
+
+
+    load_conmebol_international()
 
     load_concacaf_international()
     load_usmnt()
@@ -793,11 +794,11 @@ def load_conmebol_international():
     load_games_standard('mexico', 'international/country/uruguay'),
     load_games_standard('mexico', 'international/country/venezuela')
 
-    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/early_south_america')
-    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/copapremiohonor')
-    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/copadelatlantico')
-    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/copanewton')
-    load_games_standard('conmebol_i', 'domestic/confederation/conmebol/copalipton')
+    load_games_standard('conmebol_i', 'international/confederation/conmebol/early_south_america')
+    load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_premiohonor')
+    load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_del_atlantico')
+    load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_newton')
+    load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_lipton')
 
 
 def load_uncaf_international():

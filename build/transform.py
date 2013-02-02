@@ -140,7 +140,6 @@ def transform_names_from_rosters():
     """
     # transform_rosters are rosters that have been generated from stats.
 
-
     for source in SOURCES:
         print source
 
@@ -161,6 +160,7 @@ def transform_names_from_rosters():
             l = []
             coll = soccer_db["%s_lineups" % source]
             for e in coll.find():
+
                 e['name'] = rg(e['name'], e['team'], e['competition'], e['season'])
                 l.append(e)
 

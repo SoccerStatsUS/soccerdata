@@ -1107,6 +1107,8 @@ usa = {
     'Atlanta Apollos': 'Atlanta Chiefs',
     'Cosmos': 'New York Cosmos',
     'Golden Bay Earthquakes': 'San Jose Earthquakes',
+    'Toronto Metros': 'Toronto Blizzard',
+    'Toronto Metros-Croatia': 'Toronto Blizzard',
 
     # MLS
     'Chicago Fire S.C.': 'Chicago Fire',
