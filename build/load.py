@@ -82,19 +82,25 @@ def load_drafts():
 
 def load_games():
 
+    load_conmebol()
+    return
+
     load_conmebol_international()
+    load_nasl()
+    return
+
     load_concacaf_international()
     load_usmnt()
     load_fifa()
     load_olympics()
+
+
+    load_mls()
+    load_concacaf()
+    load_modern_cups()
     return
 
-
-
-
-
-
-    return
+    load_guatemala()
 
     load_asl()
     load_early_cups()
@@ -104,8 +110,8 @@ def load_games():
     #load_argentina()
     load_mexico()
 
-    load_mls()
-    load_nasl()
+
+
     load_china()
     load_canada()
 
@@ -113,7 +119,7 @@ def load_games():
 
     load_australia()    
 
-    load_modern_cups()
+
 
     load_usl()
     load_apsl()
@@ -123,7 +129,7 @@ def load_games():
     load_esl()    
 
     
-    #load_guatemala()
+
     load_ncaa()
     load_nafbl()
     load_modern_friendlies()
@@ -133,7 +139,7 @@ def load_games():
     load_city()
     load_ny()
 
-    load_concacaf()
+
     load_melvin()
 
 
@@ -322,7 +328,7 @@ def load_canada():
 
 def load_guatemala():
     generic_load(soccer_db.guatemala_standings, lambda: standings.process_standings_file('domestic/country/guatemala', ';'))
-    load_games_standard('guatemala', 'domestic/country/guatemala')
+    load_games_standard('guatemala', 'domestic/country/guatemala/guatemala')
 
 
 
@@ -348,6 +354,7 @@ def load_mls():
 
     load_games_standard('mls', 'domestic/country/usa/leagues/mls/2011')
     load_games_standard('mls', 'domestic/country/usa/leagues/mls/2012')
+    load_games_standard('mls', 'domestic/country/usa/leagues/mls/2013')
     load_games_standard('mls', 'domestic/country/usa/leagues/mls/mls_attendance.csv')
 
     load_mls_lineup_db()
@@ -765,6 +772,11 @@ def load_mexico():
 
 
 
+def load_conmebol():
+
+    for e in range(1960, 1965):
+        load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_libertadores/%s' % e)
+    
 
 
 def load_conmebol_international():
