@@ -8,6 +8,7 @@ STAT_TABLES = [
     'standings', 
     'bios',
     'rosters',
+    'gen_rosters',
     'awards',
     ]
 

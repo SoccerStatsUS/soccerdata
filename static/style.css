@@ -7,7 +7,7 @@ body {
 }
 
 table {
-    font-size: 1.6em;
+    font-size: 1.4em;
 }
 
 th {
@@ -16,7 +16,7 @@ th {
 }
 
 td {
-    min-width: 90px;
+    min-width: 70px;
     border: 1px solid black;
 }
 
