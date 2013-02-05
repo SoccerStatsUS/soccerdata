@@ -81,11 +81,13 @@ def load_drafts():
 
 
 def load_games():
+    load_conmebol()
+    return
 
     load_nasl()
     return
 
-    load_conmebol()
+
 
 
     load_conmebol_international()
@@ -774,6 +776,8 @@ def load_mexico():
 
 
 def load_conmebol():
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/merconorte')
+    return
 
     for e in range(1960, 1965):
         load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_libertadores/%s' % e)
