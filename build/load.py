@@ -522,7 +522,7 @@ def load_copa_america():
 
     generic_load(soccer_db.copa_america_rosters, lambda: rosters.process_rosters('international/copa_america'))
 
-    generic_load(soccer_db.copa_america_awards, awards.process_conmebol_awards)
+
 
     load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_america/stadia')
 
@@ -776,7 +776,10 @@ def load_mexico():
 
 
 def load_conmebol():
+    generic_load(soccer_db.copa_america_awards, awards.process_conmebol_awards)
+
     load_games_standard('conmebol', 'domestic/confederation/conmebol/merconorte')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/mercosur')
     return
 
     for e in range(1960, 1965):
@@ -785,7 +788,10 @@ def load_conmebol():
 
 
 def load_conmebol_international():
+    generic_load(soccer_db.copa_america_awards, awards.process_conmebol_international_awards)
+
     load_copa_america()
+
 
     load_games_standard('canada', 'international/country/argentina')
     load_games_standard('mexico', 'international/country/bolivia')

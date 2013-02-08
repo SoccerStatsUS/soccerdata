@@ -673,6 +673,12 @@ world = {
     'Alianza Lima - Peru': 'Alianza Lima',
     'Sporting Cristal -- Peru': 'Sporting Cristal',
 
+    # Bolivia
+
+    # Paraguay
+
+    'Olimpia (Honduras)': 'Club Olimpia',
+
     # Chile
     'Colo Colo - Chile': 'Colo Colo',
     'Colo Colo': 'Colo-Colo',
@@ -876,6 +882,7 @@ world = {
     'Motagua': 'CD Motagua',
     'Motagua -- Honduras': 'Motagua',
     'Olimpia': 'CD Olimpia',
+
     'Olympia - Honduras': 'CD Olimpia',
     'CD Olympia-- Honduras': 'CD Olimpia',
     'Olimpia -- Honduras': 'Olimpia',
@@ -1129,6 +1136,7 @@ usa = {
     'Metrostars': 'New York Red Bulls',
     'MetroStars': 'New York Red Bulls',
     'New York/New Jersey MetroStars': 'New York Red Bulls',
+    'NY/NJ MetroStars': 'New York Red Bulls',
     'NY Red Bulls': 'New York Red Bulls',
     'Red Bull New York': 'New York Red Bulls',
     'Philadephia Union': 'Philadelphia Union',

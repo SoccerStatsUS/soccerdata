@@ -798,6 +798,15 @@ l = [
         'capacity': 18000,
         },
 
+
+    {
+        'name': 'Estádio Parque Antarctica',
+        'location': 'Sao Paulo, Brazil',
+        'opened': datetime.datetime(1902, 5, 3),
+        'closed': datetime.datetime(2010, 7, 9),
+        'capacity': 27650,
+        },
+
     {
         'name': 'Estadio Palogrande',
         'location': 'Manizales, Colombia',

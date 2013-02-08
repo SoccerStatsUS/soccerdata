@@ -24,6 +24,7 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Estadio Parque Antartica': 'Estádio Parque Antarctica',
     'Estadío Independencia': 'Estádio Independência',
     'Estadio Vila Belmiro': 'Estádio Urbano Caldeira',
     'Estadio Municipal de Concepcion': 'Estadio Municipal de Concepción',

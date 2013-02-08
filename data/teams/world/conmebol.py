@@ -5,11 +5,15 @@ import datetime
 
 l = [
 
+    # Venezuela
+
     {
         'name': 'Deportivo Petare',
         'founded': datetime.date(1948, 8, 18),
         'city': 'Caracas, Venezuela',
         },
+
+    # Colombia
 
     {
         'name': 'America de Cali',
@@ -35,6 +39,8 @@ l = [
         'city': 'Guayaquil, Ecuador',
         },
 
+    # Peru
+
     {
         'name': 'Alianza Lima',
         'founded': datetime.date(1901, 2, 15),
@@ -46,6 +52,19 @@ l = [
         'founded': datetime.date(1955, 12, 13),
         'city': 'Lima, Peru',
         },
+
+    # Paraguay
+
+    {
+    'name': 'Cerro Porteño',
+    'founded': datetime.datetime(1912, 10, 1),
+    'city': 'Asuncion, Paraguay',
+    },
+
+
+
+
+    # Chile
 
     {
         'name': 'Colo-Colo',
@@ -78,18 +97,21 @@ l = [
         },
 
 
+    # Uruguay
+
     {
         'name': 'Club Nacional de Football',
         'founded': datetime.date(1899, 5, 14),
         'city': 'Montevideo, Uruguay',
         },
 
-
     {
         'name': 'Penarol',
         'founded': datetime.date(1891, 9, 28),
         'city': 'Montevideo, Uruguay',
         },
+
+    # Argentina
 
     {
         'name': 'Belgrano',
@@ -132,6 +154,8 @@ l = [
         'founded': datetime.date(1908, 4, 1),
         'city': 'Buenos Aires, Argentina',
         },
+
+    # Brazil
 
     {
         'name': 'America Rio',

@@ -5,6 +5,7 @@
 aliases = {}
 
 full_alias = {
+    'Merconorte Cup': 'Copa Merconorte',
 
     'Duvalier Cup': 'Coupe Duvalier',
     'Newton Cup': 'Copa Newton',
