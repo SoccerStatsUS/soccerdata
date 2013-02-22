@@ -85,7 +85,7 @@ l = [
         },
 
     {
-        'name': 'Ergilio Hato Stadium',
+        'name': 'Stadion Ergilio Hato',
         'location': 'Willemstad, Curacao',
         'capacity': 15000,
         },
@@ -101,6 +101,13 @@ l = [
         'name': 'Truman Bodden Sports Complex',
         'location': 'George Town, Cayman Islands',
         'capacity': 3000,
+        },
+
+
+    {
+        'name': 'FFB Stadium',
+        'location': 'Belmopan, Belize',
+        'capacity': 5000,
         },
 
     {
@@ -235,8 +242,13 @@ l = [
         'capacity': 28000,
         },
 
+# Same stadiums?
     {
         'name': 'National Cricket Stadium',
+        'location': 'St. George\'s, Grenada',
+        },
+    {
+        'name': 'Grenada National Stadium',
         'location': 'St. George\'s, Grenada',
         },
 

@@ -22,6 +22,14 @@ l = [
         'capacity': 38000,
         },
 
+    {
+        'name': 'Estadio Ramón Tahuichi Aguilera',
+        'location': 'Santa Cruz de la Sierra, Bolivia',
+        'opened': datetime.datetime(1940, 5, 25),
+        'capacity': 38000,
+        },
+
+
 
     {
         'name': 'Estadio Manuel Ferreira',
@@ -38,14 +46,6 @@ l = [
         'capacity': 16798,
         },
 
-
-    {
-        'name': 'Estadio José Antonio Anzoátegui',
-        'location': 'Puerto La Cruz, Venezuela',
-        'opened': datetime.datetime(1965, 12, 8),
-        'capacity': 37485,
-        'cost': 60400000,
-        },
 
 
     {
@@ -109,13 +109,7 @@ l = [
         },
 
 
-    {
-        'name': 'Estadio Olímpico de la UCV',
-        'location': 'Caracas, Venezuela',
-        'opened': 1951,
-        'cost': 16000000,
-        'capacity': 24900,
-        },
+
 
     {
         'name': 'Estadio Elías Aguirre',
@@ -164,13 +158,6 @@ l = [
         'capacity': 40000,
         },
 
-
-    {
-        'name': 'Estadio Brígido Iriarte',
-        'location': 'Caracas, Venezuela',
-        'opened': 1983,
-        'capacity': 10000
-        },
 
     {
         'name': 'Estadio Malvinas Argentinas',
@@ -275,12 +262,6 @@ l = [
 
 
 
-    {
-        'name': 'Estádio do Morumbi',
-        'location': 'Sao Paulo, Brazil',
-        'opened': datetime.datetime(1960, 10, 2),
-        'capacity': 67428,
-        },
 
 
     {
@@ -297,6 +278,8 @@ l = [
         'opened': datetime.datetime(1962, 9, 16),
         'capacity': 29000,
         },
+
+
 
 
     {
@@ -371,17 +354,46 @@ l = [
         'opened': datetime.datetime(1945, 7, 24),
         },
 
-       {
-        'name': 'Estadio Jose Panchencho Romero', 
+
+    {
+        'name': 'Estadio José Pachencho Romero',
         'location': 'Maracaibo, Venezuela',
+        'opened': 1971,
+        'capacity': 40800,
+        'cost': 14100000,
+        },
+
+
+
+    {
+        'name': 'Estadio Olímpico de la UCV',
+        'location': 'Caracas, Venezuela',
+        'opened': 1951,
+        'cost': 16000000,
+        'capacity': 24900,
         },
 
 
     {
-        'name': 'Estadio Athagualpa de Quito',
-        'location': 'Quito, Ecuador',
-        'opened': datetime.datetime(1951, 11, 25),
-        'capacity': 39816,
+        'name': 'Estadio José Antonio Anzoátegui',
+        'location': 'Puerto La Cruz, Venezuela',
+        'opened': datetime.datetime(1965, 12, 8),
+        'capacity': 37485,
+        'cost': 60400000,
+        },
+
+    {
+        'name': 'Estadio Brígido Iriarte',
+        'location': 'Caracas, Venezuela',
+        'opened': 1983,
+        'capacity': 10000
+        },
+
+    {
+        'name': 'Estadio Guillermo Soto Rosa',
+        'location': 'Merida, Venezuela',
+        'opened': datetime.datetime(1969, 9, 5),
+        'capacity': 14000,
         },
 
 
@@ -400,13 +412,64 @@ l = [
         },
 
     {
-        'name': 'Estadio Agustin Tovar',
+        'name': 'Estadio Agustín Tovar',
         'location': 'Barinas, Venezuela',
+        'opened': datetime.datetime(2007, 6, 23),
+        'capacity': 30000,
+        },
+
+
+    {
+        'name': 'Estadio Polideportivo de Pueblo Nuevo',
+        'location': 'San Cristóbal, Venezuela',
+        'opened': datetime.datetime(1976, 1, 11),
+        'capacity': 38755,
+        },
+
+
+    {
+        'name': 'Polideportivo Cachamay',
+        'location': 'Puerto Ordaz, Venezuela',
+        'opened': 1990,
+        'capacity': 41600,
+        'cost': 74400000,
+        },
+
+
+
+
+    {
+        'name': 'Estadio Monumental de Maturín',
+        'location': 'Maturín, Venezuela',
+        'opened': datetime.datetime(2007, 6, 17),
+        'capacity': 52000,
+        'cost': 85000000,
         },
 
     {
-        'name': 'Estadio Jose Panchenco Romero',
-        'location': 'Maracaibo, Venezuela',
+        'name': 'Estadio Metropolitano de Fútbol de Lara',
+        'location': 'Barquisimeto, Venezuela',
+        'opened': 2007,
+        'capacity': 45312,
+        'cost': 74400000
+        },
+
+
+    {
+        'name': 'Estadio José Alberto Pérez',
+        'location': 'Valera, Venezuela',
+        'opened': 1976,
+        'capacity': 25000,
+        },
+
+
+
+
+    {
+        'name': 'Estadio Athagualpa de Quito',
+        'location': 'Quito, Ecuador',
+        'opened': datetime.datetime(1951, 11, 25),
+        'capacity': 39816,
         },
 
     {
@@ -435,6 +498,23 @@ l = [
         'capacity': 40000,
         },
 
+
+    {
+        'name': 'Estadio Monumental "U"',
+        'location': 'Lima, Peru',
+        'opened': datetime.datetime(2000, 7, 2),
+        'capacity': 80093,
+        },
+
+
+    {
+        'name': 'Estadio Nacional de Brasilia',
+        'location': 'Brasilia, Brazil',
+        'opened': datetime.datetime(1974, 3, 10),
+        'capacity': 42200,
+        },
+
+
     {
         'name': 'Estádio das Laranjeiras',
         'location': 'Rio de Janeiro, Brazil',
@@ -449,10 +529,6 @@ l = [
 
 
     
-    {
-        'name': 'Estadio Jose Panchenco Romero',
-        'location': 'Maracaibo, Venezuela',
-        },
 
     {
         'name': 'Estadio Sausalito',
@@ -535,12 +611,6 @@ l = [
         },
 
 
-    {
-        'name': 'Estadio Ramón Tahuichi Aguilera',
-        'location': 'Santa Cruz de la Sierra, Bolivia',
-        'opened': datetime.datetime(1940, 5, 25),
-        'capacity': 38000,
-        },
 
 
     {
@@ -663,46 +733,6 @@ l = [
         },
 
 
-    {
-        'name': 'Estadio Polideportivo de Pueblo Nuevo',
-        'location': 'San Cristóbal, Venezuela',
-        'opened': datetime.datetime(1976, 1, 11),
-        'capacity': 38755,
-        },
-
-
-    {
-        'name': 'Polideportivo Cachamay',
-        'location': 'Puerto Ordaz, Venezuela',
-        'opened': 1990,
-        'capacity': 41600,
-        'cost': 74400000,
-        },
-
-
-    {
-        'name': 'Estadio José Pachencho Romero',
-        'location': 'Maracaibo, Venezuela',
-        'opened': 1971,
-        'capacity': 40800,
-        'cost': 14100000,
-        },
-
-    {
-        'name': 'Estadio Monumental de Maturín',
-        'location': 'Maturín, Venezuela',
-        'opened': datetime.datetime(2007, 6, 17),
-        'capacity': 52000,
-        'cost': 85000000,
-        },
-
-    {
-        'name': 'Estadio Metropolitano de Fútbol de Lara',
-        'location': 'Barquisimeto, Venezuela',
-        'opened': 2007,
-        'capacity': 45312,
-        'cost': 74400000
-        },
 
     {
         'name': 'Estadio Garcilaso',
@@ -725,6 +755,14 @@ l = [
         'location': 'Salvador, Brazil',
         'opened': 1951,
         'capacity': 60000,
+        },
+
+
+    {
+        'name': 'Estádio Monumental David Arellano',
+        'location': 'Santiago, Chile',
+        'opened': 1975,
+        'capacity': 47000,
         },
 
     {
@@ -807,6 +845,53 @@ l = [
         'capacity': 27650,
         },
 
+
+    {
+        # Maranhao
+        'name': 'Estádio Governador João Castelo',
+        'location': 'Sao Luis, Brazil',
+        'opened': datetime.datetime(1982, 2, 5),
+        'capacity': 40000,
+        },
+
+
+
+    {
+        # Maranhao
+        'name': 'Vivaldao',
+        'location': 'Manaus, Brazil',
+        'opened': datetime.datetime(1970, 4, 5),
+        'closed': datetime.datetime(2010, 3, 19),
+        'capacity': 43000,
+        },
+
+
+    {
+        # Maranhao
+        'name': 'Pinheirao',
+        'location': 'Curitiba, Brazil',
+        'opened': datetime.datetime(1985, 6, 15),
+        'capacity': 35000,
+        },
+
+
+    {
+        # Maranhao
+        'name': 'Estadio Rei Pele',
+        'location': 'Maceio, Brazil',
+        'opened': 1970,
+        'capacity': 20551,
+        },
+
+
+    {
+        # Maranhao
+        'name': 'Estádio Beira-Rio',
+        'location': 'Rio Grande do Sul, Brazil',
+        'opened': datetime.datetime(1969, 4, 6),
+        'capacity': 56000,
+        },
+
     {
         'name': 'Estadio Palogrande',
         'location': 'Manizales, Colombia',
@@ -846,6 +931,7 @@ l = [
         'opened': datetime.datetime(1960, 10, 2),
         'capacity': 67428,
         },
+
     
 
 
