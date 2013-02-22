@@ -4442,6 +4442,7 @@ onames = {
     'Tony Lockheed': 'Tony Lochhead',
     'Anthony Halmilton': 'Anthony Hamilton',
     'Gordon Klejsten': 'Gordon Kljestan',
+    'Sacha Kljestan': 'Sasha Kljestan',
     'Kei Ansu Kamara': 'Kei Kamara',
     'Stephen Shirley': 'Stephen Shirley-Black',
     'Alekrey Korol': 'Aleksey Korol',

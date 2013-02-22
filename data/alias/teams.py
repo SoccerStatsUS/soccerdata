@@ -1325,6 +1325,9 @@ usa = {
     'Bridgeport City AF.C': 'Bridgeport City AFC',
     'Danersk FC (Stamford)': 'Stamford Danersk FC',
     'Danersk Athletic FC': 'Stamford Danersk FC',
+    'Vasco da Gama SC': 'Vasco Da Gama SC',
+    'Vasco Da Gama SC': 'Bridgeport Vasco Da Gama',
+    
 
 
     # Rhode Island
@@ -2110,6 +2113,7 @@ teams.update(college)
 international = {
     'Haití': 'Haiti',
     'Saint Vincent and Grenadines': 'Saint Vincent and the Grenadines',
+    'St. Vincent and Grenadines': 'Saint Vincent and the Grenadines',
     'Netherlands Antilles': 'Curacao',
 
     'Demerara': 'Guyana',
@@ -2176,6 +2180,7 @@ international = {
     'Bermuda NT': 'Bermuda',
     'Mexico U-21 National team': 'Mexico U-21',
     'USSR': 'U.S.S.R.',
+    'U.S.S.R': 'U.S.S.R.',
     'Soviet Union': 'U.S.S.R',
     }
 teams.update(international)
