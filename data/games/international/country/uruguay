@@ -612,7 +612,8 @@ Competition: Newton Cup
 Competition: Lipton Cup
 05/06/1957; Uruguay; 1-1; Argentina      ;   Buenos Aires, Argentina      
 
-Competition: World Cup Qualifying
+Competition: FIFA World Cup qualification (CONMEBOL)
+Season: 1958
 16/06/1957; Uruguay; 1-1; Colombia       ;   Bogotá, Colombia            
 30/06/1957; Uruguay; 1-0; Colombia       ;   Montevideo, Uruguay        
 14/07/1957; Uruguay; 0-5; Paraguay       ;   Asunción, Paraguay          
@@ -653,12 +654,13 @@ Competition: Atlantic Cup
 13/07/1960; Uruguay; 2-1; Paraguay       ;   Montevideo, Uruguay        
 17/08/1960; Uruguay; 0-4; Argentina      ;   Buenos Aires, Argentina      
 
-Season: 1961
-Competition: World Cup Qualifying
+Season: 1962
+Competition: FIFA World Cup qualification (CONMEBOL)
 15/07/1961; Uruguay; 1-1; Bolivia        ;   La Paz, Bolivia            
 30/07/1961; Uruguay; 2-1; Bolivia        ;   Montevideo, Uruguay        
 
-Competition; Friendly
+Season: 1961
+Competition: Friendly
 12/10/1961; Uruguay; 3-2; Chile          ;   Santiago, Chile          
 29/11/1961; Uruguay; 1-2; Soviet Union   ;   Montevideo, Uruguay        
 23/12/1961; Uruguay; 1-1; Hungary        ;   Montevideo, Uruguay        
@@ -690,7 +692,7 @@ Competition: Juan Pinto Duran Cup
 Season: 1964
 Competition: International Friendly
 25/04/1964; Uruguay; 1-0; Morocco        ;   Casablanca, Morocco
-29/04/1964; Uruguay; 0-3; N. Ireland     ;   Belfast, Northern Ireland
+29/04/1964; Uruguay; 0-3; Northern Ireland     ;   Belfast, Northern Ireland
 06/05/1964; Uruguay; 1-2; England        ;   London, England
 14/05/1964; Uruguay; 2-0; Austria        ;   Vienna, Austria
 20/05/1964; Uruguay; 0-1; Soviet Union   ;   Moscow, USSR
@@ -706,12 +708,14 @@ Competition: Juan Pinto Duran Cup
 09/05/1965; Uruguay; 0-0; Chile          ;   Santiago, Chile          
 16/05/1965; Uruguay; 1-1; Chile          ;   Montevideo, Uruguay        
 
-Competition: World Cup Qualifying
+Season: 1966
+Competition: FIFA World Cup qualification (CONMEBOL)
 23/05/1965; Uruguay; 5-0; Venezuela      ;   Montevideo, Uruguay        
 30/05/1965; Uruguay; 3-1; Venezuela      ;   Caracas, Venezuela           
 06/06/1965; Uruguay; 1-0; Peru           ;   Lima, Peru              
 13/06/1965; Uruguay; 2-1; Peru           ;   Montevideo, Uruguay        
 
+Season: 1965
 Competition: International Friendly
 07/09/1965; Uruguay; 0-3; Brazil         ;   Belo Horizonte, Brazil    
 04/12/1965; Uruguay; 1-3; Soviet Union   ;   Montevideo, Uruguay        
@@ -779,7 +783,8 @@ Season: 1969
 27/06/1969; Uruguay; 0-1; Peru           ;   Lima, Peru              
 02/07/1969; Uruguay; 1-0; Colombia       ;   Cali, Colombia              
 
-Competition: World Cup Qualifying
+Season: 1970
+Competition: FIFA World Cup qualification (CONMEBOL)
 06/07/1969; Uruguay; 2-0; Ecuador        ;   Guayaquil, Ecuador         
 13/07/1969; Uruguay; 0-0; Chile          ;   Santiago, Chile          
 20/07/1969; Uruguay; 1-0; Ecuador        ;   Montevideo, Uruguay        
@@ -834,12 +839,14 @@ Competition: Newton Cup
 Competition: International Friendly
 06/06/1973; Uruguay; 0-0; Haiti          ;   Port-au-Prince, Haiti
 
-Competition: World Cup Qualifying
+Season: 1974
+Competition: FIFA World Cup qualification (CONMEBOL)
 24/06/1973; Uruguay; 0-0; Colombia       ;   Bogotá, Colombia            
 01/07/1973; Uruguay; 2-1; Ecuador        ;   Quito, Ecuador             
 05/07/1973; Uruguay; 0-1; Colombia       ;   Montevideo, Uruguay        
 08/07/1973; Uruguay; 4-0; Ecuador        ;   Montevideo, Uruguay        
 
+Season: 1973
 Competition: International Friendly
 19/07/1973; Uruguay; 2-1; Israel         ;   Tel Aviv, Israel
 
@@ -904,12 +911,14 @@ Competition: Copa Artigas
 Competition: Juan Pinto Duran Cup
 30/01/1977; Uruguay; 3-0; Chile          ;   Montevideo, Uruguay        
 
-Competition: World Cup Qualifying
+Season: 1978
+Competition: FIFA World Cup qualification (CONMEBOL)
 09/02/1977; Uruguay; 1-1; Venezuela      ;   Caracas, Venezuela           
 27/02/1977; Uruguay; 0-1; Bolivia        ;   La Paz, Bolivia            
 17/03/1977; Uruguay; 2-0; Venezuela      ;   Montevideo, Uruguay        
 27/03/1977; Uruguay; 2-2; Bolivia        ;   Montevideo, Uruguay        
 
+Season: 1977
 Competition: International Friendly
 08/06/1977; Uruguay; 0-2; West Germany   ;   Montevideo, Uruguay        
 15/06/1977; Uruguay; 0-0; England        ;   Montevideo, Uruguay        
@@ -960,7 +969,8 @@ Competition: Juan Pinto Duran Cup
 29/04/1981; Uruguay; 2-1; Chile          ;   Santiago, Chile          
 15/07/1981; Uruguay; 0-0; Chile          ;   Montevideo, Uruguay        
 
-Competition: World Cup Qualifying
+Season: 1982
+Competition: FIFA World Cup qualification (CONMEBOL)
 09/08/1981; Uruguay; 3-2; Colombia       ;   Montevideo, Uruguay        
 23/08/1981; Uruguay; 1-2; Peru           ;   Montevideo, Uruguay        
 06/09/1981; Uruguay; 0-0; Peru           ;   Lima, Peru              
@@ -1028,12 +1038,14 @@ Competition: International Friendly
 24/02/1985; Uruguay; 3-0; Colombia       ;   Montevideo, Uruguay        
 27/02/1985; Uruguay; 2-2; Peru           ;   Montevideo, Uruguay        
 
-Competition: World Cup Qualifying
+Season: 1986
+Competition: FIFA World Cup qualification (CONMEBOL)
 10/03/1985; Uruguay; 2-1; Ecuador        ;   Montevideo, Uruguay        
 24/03/1985; Uruguay; 0-2; Chile          ;   Santiago, Chile          
 31/03/1985; Uruguay; 2-0; Ecuador        ;   Quito, Ecuador             
 07/04/1985; Uruguay; 2-1; Chile          ;   Montevideo, Uruguay        
 
+Season: 1985
 Competition: International Friendly
 23/04/1985; Uruguay; 1-2; Peru           ;   Lima, Peru              
 28/04/1985; Uruguay; 1-2; Colombia       ;   Bogotá, Colombia            
@@ -1050,7 +1062,7 @@ Competition: International Friendly
 17/10/1985; Uruguay; 0-1; Chile          ;   Santiago, Chile          
 
 Season: 1986
-Competition; Marlboro Cup
+Competition: Marlboro Cup
 02/02/1986; Uruguay; 3-1; Canada         ;   Miami, FL
 07/02/1986; Uruguay; 1-1; USA            ;   Miami, Fl
 
@@ -1114,7 +1126,8 @@ Competition: Copa America
 Competition: International Friendly
 06/08/1989; Uruguay; 0-0; Colombia       ;   Montevideo, Uruguay        
 
-Competition: World Cup Qualifying
+Season: 1990
+Competition: FIFA World Cup qualification (CONMEBOL)
 27/08/1989; Uruguay; 2-0; Peru           ;   Lima, Peru              
 03/09/1989; Uruguay; 1-2; Bolivia        ;   La Paz, Bolivia            
 17/09/1989; Uruguay; 2-0; Bolivia        ;   Montevideo, Uruguay        
@@ -1130,7 +1143,7 @@ Competition: International Friendly
 25/04/1990; Uruguay; 3-3; West Germany   ;   Stuttgart, Germany         
 
 Competition: Stanley Rous Cup
-18/05/1990; Uruguay; 0-1; N. Ireland     ;   Belfast, Northern Ireland
+18/05/1990; Uruguay; 0-1; Northern Ireland     ;   Belfast, Northern Ireland
 
 Competition: International Friendly
 22/05/1990; Uruguay; 2-1; England        ;   London, England            
@@ -1191,7 +1204,8 @@ Competition: International Friendly
 13/07/1993; Uruguay; 2-1; Peru           ;   Lima, Peru              
 17/07/1993; Uruguay; 3-0; Peru           ;   Montevideo, Uruguay        
 
-Competition: World Cup Qualifying
+Season: 1994
+Competition: FIFA World Cup qualification (CONMEBOL)
 25/07/1993; Uruguay; 1-0; Venezuela      ;   San Cristóbal, Venezuela     
 01/08/1993; Uruguay; 0-0; Ecuador        ;   Montevideo, Uruguay        
 08/08/1993; Uruguay; 1-3; Bolivia        ;   La Paz, Bolivia            
@@ -1201,6 +1215,7 @@ Competition: World Cup Qualifying
 12/09/1993; Uruguay; 2-1; Bolivia        ;   Montevideo, Uruguay        
 19/09/1993; Uruguay; 0-2; Brazil         ;   Río de Janeiro, Brazil    
 
+Season: 1993
 Competition: International Friendly
 13/10/1993; Uruguay; 0-5; Germany        ;   Karlsruhe, Germany         
 
@@ -1240,40 +1255,43 @@ Competition: International Friendly
 20/09/1995; Uruguay; 1-3; Israel         ;   Jerusalem, Israel
 11/10/1995; Uruguay; 0-2; Brazil         ;   Salvador, Brazil          
 
-Season: 1996
-Competition: World Cup Qualifying
+Season: 1998
+Competition: FIFA World Cup qualification (CONMEBOL)
 24/04/1996; Uruguay; 2-0; Venezuela      ;   Caracas, Venezuela           
 02/06/1996; Uruguay; 0-2; Paraguay       ;   Montevideo, Uruguay        
 07/07/1996; Uruguay; 1-3; Colombia       ;   Barranquilla, Colombia      
 
+Season: 1996
 Competition: International Friendly
 17/07/1996; Uruguay; 1-1; China          ;   Beijing, China
 25/08/1996; Uruguay; 3-5; Japan          ;   Osaka, Japan
 
-Competition: World Cup Qualifying
+Season: 1998
+Competition: FIFA World Cup qualification (CONMEBOL)
 08/10/1996; Uruguay; 1-0; Bolivia        ;   Montevideo, Uruguay        
 12/11/1996; Uruguay; 0-1; Chile          ;   Santiago, Chile          
 15/12/1996; Uruguay; 2-0; Peru           ;   Montevideo, Uruguay        
-
-Season: 1997
 12/01/1997; Uruguay; 0-0; Argentina      ;   Montevideo, Uruguay        
 12/02/1997; Uruguay; 0-4; Ecuador        ;   Quito, Ecuador             
 02/04/1997; Uruguay; 3-1; Venezuela      ;   Montevideo, Uruguay        
 30/04/1997; Uruguay; 1-3; Paraguay       ;   Asunción, Paraguay          
 08/06/1997; Uruguay; 1-1; Colombia       ;   Montevideo, Uruguay        
 
+Season: 1997
 Competition: Copa America
 12/06/1997; Uruguay; 0-1; Peru           ;   Sucre, Bolivia             
 15/06/1997; Uruguay; 2-0; Venezuela      ;   Sucre, Bolivia             
 18/06/1997; Uruguay; 0-1; Bolivia        ;   La Paz, Bolivia            
 
-Competition: World Cup Qualifying
+Season: 1998
+Competition: FIFA World Cup qualification (CONMEBOL)
 20/07/1997; Uruguay; 0-1; Bolivia        ;   La Paz, Bolivia            
 20/08/1997; Uruguay; 1-0; Chile          ;   Montevideo, Uruguay        
 10/09/1997; Uruguay; 1-2; Peru           ;   Lima, Peru              
 12/10/1997; Uruguay; 0-0; Argentina      ;   Buenos Aires, Argentina      
 16/11/1997; Uruguay; 5-3; Ecuador        ;   Maldonado, Uruguay         
 
+Season: 1997
 Competition: FIFA Confederations Cup
 13/12/1997; Uruguay; 2-0; UAE            ;   Riyadh, Saudi Arabia            
 15/12/1997; Uruguay; 2-1; Czech Republic ;   Riyadh, Saudi Arabia            
@@ -1307,8 +1325,8 @@ Competition: International Friendly
 12/10/1999; Uruguay; 0-0; Ecuador        ;   Montevideo, Uruguay        
 17/11/1999; Uruguay; 0-1; Paraguay       ;   Maldonado, Uruguay         
 
-Season: 2000
-Competition: World Cup Qualifying
+Season: 2002
+Competition: FIFA World Cup qualification (CONMEBOL)
 29/03/2000; Uruguay; 1-0; Bolivia        ;   Montevideo, Uruguay        
 26/04/2000; Uruguay; 0-1; Paraguay       ;   Asunción, Paraguay          
 03/06/2000; Uruguay; 2-1; Chile          ;   Montevideo, Uruguay        
@@ -1324,11 +1342,13 @@ Season: 2001
 Competition: International Friendly
 28/02/2001; Uruguay; 2-0; Slovenia       ;   Koper, Slovenia
 
-Competition: World Cup Qualifying
+Season: 2002
+Competition: FIFA World Cup qualification (CONMEBOL)
 28/03/2001; Uruguay; 0-1; Paraguay       ;   Montevideo, Uruguay        
 24/04/2001; Uruguay; 1-0; Chile          ;   Santiago, Chile          
 01/07/2001; Uruguay; 1-0; Brazil         ;   Montevideo, Uruguay        
 
+Season: 2001
 Competition: Copa America
 13/07/2001; Uruguay; 1-0; Bolivia        ;   Medellín, Colombia          
 16/07/2001; Uruguay; 1-1; Costa Rica     ;   Medellín, Colombia          
@@ -1338,7 +1358,8 @@ Competition: Copa America
 29/07/2001; Uruguay; 2-2; Honduras       ;   Bogotá, Colombia            
 * [20]    Uruguay lost 4-5 on penalties.
 
-Competition: World Cup Qualifying
+Season: 2002
+Competition: FIFA World Cup qualification (CONMEBOL)
 14/08/2001; Uruguay; 0-2; Venezuela      ;   Maracaibo, Venezuela         
 04/09/2001; Uruguay; 2-0; Peru           ;   Lima, Peru              
 07/10/2001; Uruguay; 1-1; Colombia       ;   Montevideo, Uruguay        
@@ -1386,14 +1407,17 @@ Competition: LG Peace Cup
 Competition: International Friendly
 20/08/2003; Uruguay; 2-3; Argentina      ;   Florence, Italy          
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 07/09/2003; Uruguay; 5-0; Bolivia        ;   Montevideo, Uruguay        
 10/09/2003; Uruguay; 1-4; Paraguay       ;   Asunción, Paraguay          
 
+Season: 2003
 Competition: International Friendly
 15/10/2003; Uruguay; 2-0; Mexico         ;   Chicago, IL
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 15/11/2003; Uruguay; 2-1; Chile          ;   Montevideo, Uruguay        
 19/11/2003; Uruguay; 3-3; Brazil         ;   Coritiba, Brazil          
 
@@ -1401,11 +1425,13 @@ Season: 2004
 Competition: International Friendly
 18/02/2004; Uruguay; 0-2; Jamaica        ;   Kingston, Jamaica
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 31/03/2004; Uruguay; 0-3; Venezuela      ;   Montevideo, Uruguay        
 01/06/2004; Uruguay; 1-3; Peru           ;   Montevideo, Uruguay        
 06/06/2004; Uruguay; 0-5; Colombia       ;   Barranquilla, Colombia      
 
+Season: 2004
 Competition: Copa America
 07/07/2004; Uruguay; 2-2; Mexico         ;   Chiclayo, Peru          
 10/07/2004; Uruguay; 2-1; Ecuador        ;   Chiclayo, Peru          
@@ -1417,13 +1443,13 @@ Competition: Copa America
 
 24/07/2004; Uruguay; 2-1; Colombia       ;   Cuzco, Peru             
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 05/09/2004; Uruguay; 1-0; Ecuador        ;   Montevideo, Uruguay        
 09/10/2004; Uruguay; 2-4; Argentina      ;   Buenos Aires, Argentina      
 12/10/2004; Uruguay; 0-0; Bolivia        ;   La Paz, Bolivia            
 17/11/2004; Uruguay; 1-0; Paraguay       ;   Montevideo, Uruguay        
 
-Season: 2005
 27/03/2005; Uruguay; 1-1; Chile          ;   Santiago, Chile          
 30/03/2005; Uruguay; 1-1; Brazil         ;   Montevideo, Uruguay        
 04/06/2005; Uruguay; 1-1; Venezuela      ;   Maracaibo, Venezuela         
@@ -1432,15 +1458,18 @@ Season: 2005
 Competition: International Friendly
 17/08/2005; Uruguay; 0-2; Spain          ;   Gijón, Spain
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 04/09/2005; Uruguay; 3-2; Colombia       ;   Montevideo, Uruguay        
 08/10/2005; Uruguay; 0-0; Ecuador        ;   Quito, Ecuador             
 12/10/2005; Uruguay; 1-0; Argentina      ;   Montevideo, Uruguay        
 
+Season: 2005
 Competition: International Friendly
 26/10/2005; Uruguay; 1-3; Mexico         ;   Guadalajara, Mexico       
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 12/11/2005; Uruguay; 1-0; Australia      ;   Montevideo, Uruguay        
 16/11/2005; Uruguay; 0-1; Australia      ;   Sydney, AUS            
 * [22]    After extra time. Uruguay lost 2-4 on penalties.
@@ -1448,7 +1477,7 @@ Competition: World Cup Qualifying
 Season: 2006
 Competition: International Friendly
 01/03/2006; Uruguay; 1-2; England        ;   Liverpool, England         
-21/05/2006; Uruguay; 1-0; N. Ireland     ;   New Jersey, United States
+21/05/2006; Uruguay; 1-0; Northern Ireland     ;   New Jersey, United States
 24/05/2006; Uruguay; 2-0; Romania        ;   Los Angeles, CA
 27/05/2006; Uruguay; 1-1; Serbia and M.  ;   Belgrade, Serbia
 
@@ -1468,7 +1497,7 @@ Season: 2007
 24/03/2007; Uruguay; 2-0; South Korea    ;   Seoul, South Korea
 02/06/2007; Uruguay; 2-1; Australia      ;   Sydney, Australia
 
-Competition; Copa America
+Competition: Copa America
 26/06/2007; Uruguay; 0-3; Peru           ;   Mérida, Venezuela            
 30/06/2007; Uruguay; 1-0; Bolivia        ;   San Cristóbal, Venezuela     
 03/07/2007; Uruguay; 0-0; Venezuela      ;   Mérida, Venezuela            
@@ -1480,7 +1509,8 @@ Competition; Copa America
 Competition: International Friendly
 12/09/2007; Uruguay; 0-0; South Africa   ;   Johannesburg, South Africa      
 
-Competition: World Cup Qualifying
+Season: 2010
+Competition: FIFA World Cup qualification (CONMEBOL)
 13/10/2007; Uruguay; 5-0; Bolivia        ;   Montevideo, Uruguay        
 17/10/2007; Uruguay; 0-1; Paraguay       ;   Asunción, Paraguay          
 18/11/2007; Uruguay; 2-2; Chile          ;   Montevideo, Uruguay        
@@ -1492,35 +1522,42 @@ Competition: International Friendly
 25/05/2008; Uruguay; 3-2; Turkey         ;   Bochum, Germany            
 28/05/2008; Uruguay; 2-2; Norway         ;   Oslo, Norway
 
-Competition: World Cup Qualifying
+Season: 2010
+Competition: FIFA World Cup qualification (CONMEBOL)
 14/06/2008; Uruguay; 1-1; Venezuela      ;   Montevideo, Uruguay        
 18/06/2008; Uruguay; 6-0; Peru           ;   Montevideo, Uruguay        
 
+Season: 2008
 Competition: Kirin Challenge Cup
 20/08/2008; Uruguay; 3-1; Japan          ;   Sapporo, Japan      
 
-Competition: World Cup Qualifying
+Season: 2010
+Competition: FIFA World Cup qualification (CONMEBOL)
 06/09/2008; Uruguay; 1-0; Colombia       ;   Bogotá, Colombia            
 10/09/2008; Uruguay; 0-0; Ecuador        ;   Montevideo, Uruguay        
 11/10/2008; Uruguay; 1-2; Argentina      ;   Buenos Aires, Argentina      
 14/10/2008; Uruguay; 2-2; Bolivia        ;   La Paz, Bolivia            
 
+Season: 2008
 Competition: International Friendly
 21/11/2008; Uruguay; 0-0; France         ;   Saint Denis, France       
 
 Season: 2009
 11/02/2009; Uruguay; 3-2; Libya          ;   Tripoli, Libya
 
-Competition: World Cup Qualifying
+Season: 2010
+Competition: FIFA World Cup qualification (CONMEBOL)
 28/03/2009; Uruguay; 2-0; Paraguay       ;   Montevideo, Uruguay        
 01/04/2009; Uruguay; 0-0; Chile          ;   Santiago, Chile          
 06/06/2009; Uruguay; 0-4; Brazil         ;   Montevideo, Uruguay        
 10/06/2009; Uruguay; 2-2; Venezuela      ;   Puerto Ordaz, Venezuela      
 
+Season: 2009
 Competition: International Friendly
 12/08/2009; Uruguay; 0-1; Algeria        ;   Algiers, Algeria
 
-Competition: World Cup Qualifying
+Season: 2010
+Competition: FIFA World Cup qualification (CONMEBOL)
 05/09/2009; Uruguay; 0-1; Peru           ;   Lima, Peru              
 09/09/2009; Uruguay; 3-1; Colombia       ;   Montevideo, Uruguay        
 10/10/2009; Uruguay; 2-1; Ecuador        ;   Quito, Ecuador             
@@ -1579,11 +1616,13 @@ Competition: Copa America
 Competition: International Friendly
 02/09/2011; Uruguay; 3-2; Ukraine        ;   Kharkiv, Ukraine           
 
-Competition: World Cup Qualifying
+Season: 2014
+Competition: FIFA World Cup qualification (CONMEBOL)
 07/10/2011; Uruguay; 4-2; Bolivia        ;   Montevideo, Uruguay        
 11/10/2011; Uruguay; 1-1; Paraguay       ;   Asunción, Paraguay          
 11/11/2011; Uruguay; 4-0; Chile          ;   Montevideo, Uruguay        
 
+Season: 2011
 Competition: International Friendly
 15/11/2011; Uruguay; 1-0; Italy          ;   Rome, Italy              
 
@@ -1591,14 +1630,17 @@ Season: 2012
 29/02/2012; Uruguay; 1-1; Romania        ;   Bucharest, Romania         
 25/05/2012; Uruguay; 1-1; Russia         ;   Moscow, Russia            
 
-Competition: World Cup Qualifying
+Season: 2014
+Competition: FIFA World Cup qualification (CONMEBOL)
 06/06/2012; Uruguay; 1-1; Venezuela      ;   Montevideo, Uruguay        
 10/06/2012; Uruguay; 4-2; Peru           ;   Montevideo, Uruguay        
 
+Season: 2012
 Competition: International Friendly
 15/08/2012; Uruguay; 0-0; France         ;   Le Havre, France          
 
-Competition: World Cup Qualifying
+Season: 2014
+Competition: FIFA World Cup qualification (CONMEBOL)
 07/09/2012; Uruguay; 0-4; Colombia       ;   Barranquilla, Colombia      
 11/09/2012; Uruguay; 1-1; Ecuador        ;   Montevideo, Uruguay        
 12/10/2012; Uruguay; 0-3; Argentina      ;   Mendoza, Argentina           

@@ -733,7 +733,7 @@ Competition: International Friendly
 14/11/1956; Argentina; 2-2  ; Uruguay          ; Buenos Aires, Argentina   
 
 Competition: Raul H. Colombo Cup
-05/12/1956; Argentina; 2-1  ; Brazil [21]      ; Raio de Janeiro, Brazil 
+05/12/1956; Argentina; 2-1  ; Brazil      ; Raio de Janeiro, Brazil 
 Notes: According to some sources is the Guanabara Team.
 *  [21]: According to some sources is the Guanabara Team.
 
@@ -760,7 +760,8 @@ Competition: Roca Cup
 10/07/1957; Argentina; 0-2 (aet) ; Brazil           ; Sao Paulo, Brazil      
 *   [3]: Match defined in supplementary time.
 
-Competition: World Cup Qualifying
+Competition: FIFA World Cup qualification (CONMEBOL)
+Season: 1958
 06/10/1957; Argentina; 0-2  ; Bolivia          ; La Paz, Bolivia         
 13/10/1957; Argentina; 2-0  ; Chile            ; Santiago, Chile       
 20/10/1957; Argentina; 4-0  ; Chile            ; Buenos Aires, Argentina   
@@ -822,7 +823,8 @@ Competition: International Friendly
 Competition: Atlantic Cup
 17/08/1960; Argentina; 4-0  ; Uruguay          ; Buenos Aires, Argentina   
 
-Competition: World Cup Qualifying
+Competition: FIFA World Cup qualification (CONMEBOL)
+Season: 1962
 04/12/1960; Argentina; 6-3  ; Ecuador          ; Guayaquil, Ecuador      
 17/12/1960; Argentina; 5-0  ; Ecuador          ; Buenos Aires, Argentina   
 
@@ -893,12 +895,14 @@ Competition: Dittborn Cup
 14/07/1965; Argentina; 1-0  ; Chile            ; Buenos Aires, Argentina   
 21/07/1965; Argentina; 1-1  ; Chile            ; Santiago, Chile       
 
-Competition: World Cup Qualifying
+Competition: FIFA World Cup qualification (CONMEBOL)
+Season: 1966
 01/08/1965; Argentina; 3-0  ; Paraguay         ; Buenos Aires, Argentina   
 08/08/1965; Argentina; 0-0  ; Paraguay         ; Asuncion, Paraguay       
 17/08/1965; Argentina; 4-1  ; Bolivia          ; Buenos Aires, Argentina   
 29/08/1965; Argentina; 2-1  ; Bolivia          ; La Paz, Bolivia         
 
+Season: 1965
 Competition: International Friendly
 01/12/1965; Argentina; 1-1  ; U.S.S.R.         ; Buenos Aires, Argentina   
 
@@ -936,11 +940,11 @@ Competition: Newton Cup
 20/06/1968; Argentina; 1-2  ; Uruguay          ; Montevideo, Uruguay     
 
 Competition: International Friendly
-07/08/1968; Argentina; 1-4  ; Brazil [23]      ; Raio de Janeiro, Brazil 
+07/08/1968; Argentina; 1-4  ; Brazil      ; Raio de Janeiro, Brazil 
 Notes: According to some sources is the Guanabara Team.
 *  [23]: According to some sources is the Guanabara Team.
 
-11/08/1968; Argentina; 2-3  ; Brazil [24]      ; Belo Horizonte, Brazil 
+11/08/1968; Argentina; 2-3  ; Brazil      ; Belo Horizonte, Brazil 
 Notes: According to some sources is the Minas Gerais Team.
 *  [24]: According to some sources is the Minas Gerais Team.
 
@@ -961,7 +965,8 @@ Season: 1969
 28/05/1969; Argentina; 1-1  ; Chile            ; Santiago, Chile       
 11/06/1969; Argentina; 2-1  ; Chile            ; La Plata, Argentina       
 
-Competition: World Cup Qualifying
+Season: 1970
+Competition: FIFA World Cup qualification (CONMEBOL)
 27/07/1969; Argentina; 1-3  ; Bolivia          ; La Paz, Bolivia         
 03/08/1969; Argentina; 0-1  ; Peru             ; Lima, Peru           
 24/08/1969; Argentina; 1-0  ; Bolivia          ; Buenos Aires, Argentina   
@@ -1041,7 +1046,8 @@ Competition: Dittborn Cup
 Competition: Castilla Cup
 27/07/1973; Argentina; 3-1  ; Peru             ; Buenos Aires, Argentina   
 
-Competition: World Cup Qualifying
+Competition: FIFA World Cup qualification (CONMEBOL)
+Season: 1974
 09/09/1973; Argentina; 4-0  ; Bolivia          ; Buenos Aires, Argentina   
 16/09/1973; Argentina; 1-1  ; Paraguay         ; Asuncion, Paraguay       
 23/09/1973; Argentina; 1-0  ; Bolivia          ; La Paz, Bolivia         
@@ -1278,7 +1284,8 @@ Season: 1985
 09/05/1985; Argentina; 1-1  ; Paraguay         ; Buenos Aires, Argentina   
 14/05/1985; Argentina; 2-0  ; Chile            ; Buenos Aires, Argentina   
 
-Competition: World Cup Qualifying
+Competition: FIFA World Cup qualification (CONMEBOL)
+Season: 1986
 26/05/1985; Argentina; 3-2  ; Venezuela        ; San Cristóbal  
 02/06/1985; Argentina; 3-1  ; Colombia         ; Bogota, Colombia         
 09/06/1985; Argentina; 3-0  ; Venezuela        ; Buenos Aires, Argentina   
@@ -1286,6 +1293,7 @@ Competition: World Cup Qualifying
 23/06/1985; Argentina; 0-1  ; Peru             ; Lima, Peru           
 30/06/1985; Argentina; 2-2  ; Peru             ; Buenos Aires, Argentina   
 
+Season: 1985
 Competition: International Friendly
 14/11/1985; Argentina; 1-1  ; Mexico           ; Los Angeles, CAs    
 17/11/1985; Argentina; 1-1  ; Mexico           ; Puebla, Mexico         
@@ -1429,7 +1437,8 @@ Competition: Copa America
 
 04/07/1993; Argentina; 2-1  ; Mexico           ; Guayaquil      
 
-Competition: World Cup Qualifying
+Season: 1994
+Competition: FIFA World Cup qualification (CONMEBOL)
 01/08/1993; Argentina; 1-0  ; Peru             ; Lima, Peru           
 08/08/1993; Argentina; 3-1  ; Paraguay         ; Asuncion, Paraguay       
 15/08/1993; Argentina; 1-2  ; Colombia         ; Barranquilla   
@@ -1441,6 +1450,7 @@ Competition: World Cup Qualifying
 17/11/1993; Argentina; 1-0  ; Australia        ; Buenos Aires, Argentina   
 *  [35]: Playoff.
 
+Season: 1993
 Competition: International Friendly
 15/12/1993; Argentina; 2-1  ; Germany          ; Miami, FL          
 
@@ -1505,15 +1515,18 @@ Competition: Clarin 50th Anniversary Cup
 Competition: International Friendly
 21/12/1995; Argentina; 6-0  ; Venezuela        ; Mendoza, Argentina        
 
-Season: 1996
-Competition: World Cup Qualifying
+
+Season: 1998
+Competition: FIFA World Cup qualification (CONMEBOL)
 24/04/1996; Argentina; 3-1  ; Bolivia          ; Buenos Aires, Argentina   
 02/06/1996; Argentina; 0-2  ; Ecuador          ; Quito, Ecuador          
 
+Season: 1996
 Competition: International Friendly
 20/06/1996; Argentina; 2-0  ; Poland           ; Tucumán        
 
-Competition: World Cup Qualifying
+Season: 1998
+Competition: FIFA World Cup qualification (CONMEBOL)
 07/07/1996; Argentina; 0-0  ; Peru             ; Lima, Peru           
 01/09/1996; Argentina; 1-1  ; Paraguay         ; Buenos Aires, Argentina   
 09/10/1996; Argentina; 5-2  ; Venezuela        ; San Cristóbal  
@@ -1522,21 +1535,23 @@ Competition: World Cup Qualifying
 Competition: International Friendly
 28/12/1996; Argentina; 2-3  ; Yugoslavia       ; Mar del Plata  
 
-Season: 1997
-Competition: World Cup Qualifying
+Season: 1998
+Competition: FIFA World Cup qualification (CONMEBOL)
 12/01/1997; Argentina; 0-0  ; Uruguay          ; Montevideo, Uruguay     
 12/02/1997; Argentina; 1-0  ; Colombia         ; Barranquilla   
 02/04/1997; Argentina; 1-2  ; Bolivia          ; La Paz, Bolivia         
 30/04/1997; Argentina; 2-1  ; Ecuador          ; Buenos Aires, Argentina   
 08/06/1997; Argentina; 2-0  ; Peru             ; Buenos Aires, Argentina   
 
+Season: 1997
 Competition: Copa America
 11/06/1997; Argentina; 0-0  ; Ecuador          ; Cochabamba     
 14/06/1997; Argentina; 2-0  ; Chile            ; Cochabamba     
 17/06/1997; Argentina; 1-1  ; Paraguay         ; Cochabamba     
 21/06/1997; Argentina; 1-2  ; Peru             ; Sucre          
 
-Competition: World Cup Qualifying
+Season: 1998
+Competition: FIFA World Cup qualification (CONMEBOL)
 06/07/1997; Argentina; 2-1  ; Paraguay         ; Asuncion, Paraguay       
 20/07/1997; Argentina; 2-0  ; Venezuela        ; Buenos Aires, Argentina   
 10/09/1997; Argentina; 2-1  ; Chile            ; Santiago, Chile       
@@ -1596,7 +1611,8 @@ Competition: International Friendly
 Season: 2000
 23/02/2000; Argentina; 0-0  ; England          ; London, England         
 
-Competition: World Cup Qualifying
+Season: 2002
+Competition: FIFA World Cup qualification (CONMEBOL)
 29/03/2000; Argentina; 4-1  ; Chile            ; Buenos Aires, Argentina   
 26/04/2000; Argentina; 4-0  ; Venezuela        ; Maracaibo, Venezuela      
 04/06/2000; Argentina; 1-0  ; Bolivia          ; Buenos Aires, Argentina   
@@ -1608,6 +1624,7 @@ Competition: World Cup Qualifying
 08/10/2000; Argentina; 2-1  ; Uruguay          ; Buenos Aires, Argentina   
 15/11/2000; Argentina; 2-0  ; Chile            ; Santiago, Chile       
 
+Season: 2000
 Competition: Reebok Cup
 20/12/2000; Argentina; 2-0  ; Mexico           ; Los Angeles, CA    
 
@@ -1615,7 +1632,8 @@ Season: 2001
 Competition: International Friendly
 28/02/2001; Argentina; 2-1  ; Italy            ; Rome, Italy           
 
-Competition: World Cup Qualifying
+Season: 2002
+Competition: FIFA World Cup qualification (CONMEBOL)
 28/03/2001; Argentina; 5-0  ; Venezuela        ; Buenos Aires, Argentina   
 25/04/2001; Argentina; 3-3  ; Bolivia          ; La Paz, Bolivia         
 03/06/2001; Argentina; 3-0  ; Colombia         ; Buenos Aires, Argentina   
@@ -1665,22 +1683,23 @@ Competition: International Friendly
 16/07/2003; Argentina; 2-2  ; Uruguay          ; La Plata, Argentina       
 20/08/2003; Argentina; 3-2  ; Uruguay          ; Florence, Italy       
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 06/09/2003; Argentina; 2-2  ; Chile            ; Buenos Aires, Argentina   
 09/09/2003; Argentina; 3-0  ; Venezuela        ; Caracas, Venezuela
 15/11/2003; Argentina; 3-0  ; Bolivia          ; Buenos Aires, Argentina   
 19/11/2003; Argentina; 1-1  ; Colombia         ; Barranquilla   
-
-Season: 2004
 30/03/2004; Argentina; 1-0  ; Ecuador          ; Buenos Aires, Argentina   
 
 Competition: International Friendly
 28/04/2004; Argentina; 1-0  ; Morocco          ; Casablanca, Morocco     
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 02/06/2004; Argentina; 1-3  ; Brazil           ; Belo Horizonte, Brazil 
 06/06/2004; Argentina; 0-0  ; Paraguay         ; Buenos Aires, Argentina   
 
+Season: 2004
 Competition: International Friendly
 27/06/2004; Argentina; 0-2  ; Colombia         ; Miami, FL          
 30/06/2004; Argentina; 2-1  ; Peru             ; East Rutherford, NJ
@@ -1697,7 +1716,8 @@ Competition: Copa America
 Competition: Kirin Cup
 18/08/2004; Argentina; 2-1  ; Japan            ; Shizuoka, Japan       
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 04/09/2004; Argentina; 3-1  ; Peru             ; Lima, Peru           
 09/10/2004; Argentina; 4-2  ; Uruguay          ; Buenos Aires, Argentina   
 13/10/2004; Argentina; 0-0  ; Chile            ; Santiago, Chile       
@@ -1708,13 +1728,14 @@ Competition: International Friendly
 09/02/2005; Argentina; 2-2  ; Germany          ; Düsseldorf, Germany     
 09/03/2005; Argentina; 1-1  ; Mexico           ; Los Angeles, CA    
 
-
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 26/03/2005; Argentina; 2-1  ; Bolivia          ; La Paz, Bolivia         
 30/03/2005; Argentina; 1-0  ; Colombia         ; Buenos Aires, Argentina   
 04/06/2005; Argentina; 0-2  ; Ecuador          ; Quito, Ecuador          
 08/06/2005; Argentina; 3-1  ; Brazil           ; Buenos Aires, Argentina   
 
+Season: 2005
 Competition: FIFA Confederations Cup
 15/06/2005; Argentina; 2-1  ; Tunisia          ; Cologne, Germany        
 18/06/2005; Argentina; 4-2  ; Australia        ; Nuremberg, Germany      
@@ -1727,11 +1748,13 @@ Competition: FIFA Confederations Cup
 Competition: International Friendly
 17/08/2005; Argentina; 2-1  ; Hungary          ; Budapest, Hungary       
 
-Competition: World Cup Qualifying
+Season: 2006
+Competition: FIFA World Cup qualification (CONMEBOL)
 03/09/2005; Argentina; 0-1  ; Paraguay         ; Asuncion, Paraguay       
 09/10/2005; Argentina; 2-0  ; Peru             ; Buenos Aires, Argentina   
 12/10/2005; Argentina; 0-1  ; Uruguay          ; Montevideo, Uruguay     
 
+Season: 2005
 Competition: International Friendly
 12/11/2005; Argentina; 2-3  ; England          ; Geneva, Switzerland         
 16/11/2005; Argentina; 3-0  ; Qatar            ; Doha, Qatar           
@@ -1742,7 +1765,7 @@ Season: 2006
 
 Competition: FIFA World Cup
 10/06/2006; Argentina; 2-1  ; Ivory Coast      ; Hamburg, Germany        
-16/06/2006; Argentina; 6-0  ; Serbia & Monten. ; Gelsenkirchen, Germany
+16/06/2006; Argentina; 6-0  ; Serbia and Montenegro ; Gelsenkirchen, Germany
 21/06/2006; Argentina; 0-0  ; Netherlands      ; Frankfurt, Germany      
 24/06/2006; Argentina; 2-1  ; Mexico           ; Leipzig, Germany        
 30/06/2006; Argentina; 1-1  ; Germany          ; Berlin, Germany         
@@ -1774,7 +1797,8 @@ Competition: International Friendly
 22/08/2007; Argentina; 1-2  ; Norway           ; Oslo, Norway           
 11/09/2007; Argentina; 1-0  ; Australia        ; Melbourne, Australia      
 
-Competition: World Cup Qualifying
+Season: 2010
+Competition: FIFA World Cup qualification (CONMEBOL)
 13/10/2007; Argentina; 2-0  ; Chile            ; Buenos Aires, Argentina   
 17/10/2007; Argentina; 2-0  ; Venezuela        ; Maracaibo, Venezuela      
 17/11/2007; Argentina; 3-0  ; Bolivia          ; Buenos Aires, Argentina   
@@ -1789,19 +1813,23 @@ Competition: International Friendly
 04/06/2008; Argentina; 4-1  ; Mexico           ; San Diego, CA      
 08/06/2008; Argentina; 0-0  ; United States    ; East Rutherford, NJ
 
-Competition: World Cup Qualifying                 
+Season: 2010
+Competition: FIFA World Cup qualification (CONMEBOL)                 
 15/06/2008; Argentina; 1-1  ; Ecuador          ; Buenos Aires, Argentina   
 18/06/2008; Argentina; 0-0  ; Brazil           ; Belo Horizonte, Brazil 
 
+Season: 2008
 Competition: International Friendly
 20/08/2008; Argentina; 0-0  ; Belarus          ; Minsk, Eblarus          
 
-Competition: World Cup Qualifying                 
+Season: 2010
+Competition: FIFA World Cup qualification (CONMEBOL)                 
 06/09/2008; Argentina; 1-1  ; Paraguay         ; Buenos Aires, Argentina   
 10/09/2008; Argentina; 1-1  ; Peru             ; Lima, Peru           
 11/10/2008; Argentina; 2-1  ; Uruguay          ; Buenos Aires, Argentina   
 15/10/2008; Argentina; 0-1  ; Chile            ; Santiago, Chile       
 
+Season: 2008
 Competition: International Friendly
 19/11/2008; Argentina; 1-0  ; Scotland         ; Glasgow, Scotland        
 
