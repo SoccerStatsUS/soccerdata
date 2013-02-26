@@ -123,12 +123,12 @@ class GeneralProcessor(object):
         # Set the competition.
         if line.startswith("Competition:"):
             self.competition = line.split("Competition:")[1].strip()
-            self.round = self.group = ''
+            self.round = self.group = self.zone = ''
             return
 
         if line.startswith("Season:"):
             self.season = line.split("Season:")[1].strip()
-            self.round = self.group = ''
+            self.round = self.group = self.zone = ''
             return
 
         # Set the round.
@@ -142,11 +142,23 @@ class GeneralProcessor(object):
 
 
         if line.startswith("Group"):
-            self.round = line.split('Group:')[1].strip()
+            try:
+                self.group = line.split('Group:')[1].strip()
+            except:
+                import pdb; pdb.set_trace()
+
+            if self.group.lower() == 'none':
+                self.group = None
+
+            return
+
+        if line.startswith("Zone"):
+            self.round = line.split('Zone:')[1].strip()
             if self.round.lower() == 'none':
                 self.round = None
 
             return
+
 
 
 
