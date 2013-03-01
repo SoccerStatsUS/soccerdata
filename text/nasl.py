@@ -23,6 +23,8 @@ def load_appearance_rosters():
 
         if line.startswith('Season:'):
             season = line.split("Season:")[1].strip()
+        elif line.startswith("*"):
+            pass
         else:
             team, players = line.split(':')
             player_list = [e.strip() for e in players.split(',')]

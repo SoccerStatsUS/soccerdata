@@ -81,18 +81,26 @@ def load_drafts():
 
 
 def load_games():
-    load_conmebol()
-    return
 
     load_nasl()
     return
 
 
-
+    load_asl2()
+    return
 
     load_conmebol_international()
 
     load_concacaf_international()
+    return
+
+    load_conmebol()
+    return
+
+
+
+
+
     load_usmnt()
     load_fifa()
     load_olympics()
@@ -118,7 +126,7 @@ def load_games():
     load_china()
     load_canada()
 
-    load_asl2()
+
 
     load_australia()    
 
@@ -317,9 +325,10 @@ def load_modern_cups():
 
 
 def load_canada():
-    load_excel_standings('apsl', 'domestic/country/canada/csl')
+    load_excel_standings('canada', 'domestic/country/canada/csl')
+    # Incomplete formatting: load_excel_standings('canada', 'domestic/country/canada/cnsl')
     load_games_standard('canada', 'domestic/country/canada/cups/championship')
-    #load_games_standard('canada', 'domestic/country/canada/cups/early')
+    load_games_standard('canada', 'domestic/country/canada/cups/early')
     load_games_standard('canada', 'domestic/country/canada/friendly')
 
 
@@ -784,15 +793,19 @@ def load_conmebol():
 
     for e in range(1960, 1965):
         load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_libertadores/%s' % e)
+
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_libertadores/2013' % e)
     
 
 
 def load_conmebol_international():
-    generic_load(soccer_db.copa_america_awards, awards.process_conmebol_international_awards)
+    #generic_load(soccer_db.copa_america_awards, awards.process_conmebol_international_awards)
+
+    for year in range(1958, 2015, 4):
+        load_games_standard('conmebol_i', 'international/confederation/conmebol/wcq/%s' % year)
+
 
     load_copa_america()
-
-
     load_games_standard('canada', 'international/country/argentina')
     load_games_standard('mexico', 'international/country/bolivia')
     #load_games_standard('mexico', 'international/country/brazil')
@@ -805,7 +818,7 @@ def load_conmebol_international():
     load_games_standard('mexico', 'international/country/venezuela')
 
     load_games_standard('conmebol_i', 'international/confederation/conmebol/early_south_america')
-    load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_premiohonor')
+    load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_premio_honor')
     load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_del_atlantico')
     load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_newton')
     load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_lipton')
@@ -881,6 +894,12 @@ def load_panamerican():
 
 def load_concacaf_international():
 
+    for year in range(1994, 2015, 4):
+        load_games_standard('concacaf_i', 'international/confederation/concacaf/wcq/%s' % year)
+
+    load_uncaf_international()
+    load_caribbean_international()
+
     load_games_standard('concacaf_i', 'international/country/usa/gold')
 
     load_games_standard('concacaf_i', 'international/confederation/concacaf/championship')
@@ -894,8 +913,8 @@ def load_concacaf_international():
     load_games_standard('mexico', 'international/country/mexico/alltime')
 
     load_panamerican()
-    load_uncaf_international()
-    load_caribbean_international()
+
+
     
 
 

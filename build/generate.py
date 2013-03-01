@@ -80,6 +80,10 @@ def generate_competition_stats():
     competition_generate('Liga MX')
     competition_generate('Chinese Super League')
 
+    competition_generate('American Soccer League (1934-1983)')
+
+
+
     #competition_generate('North American Soccer League')
 
                         
