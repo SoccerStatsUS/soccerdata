@@ -199,7 +199,7 @@ basic = {
     'Emmanuel Kofie': 'Emanuel Kofie',
     'John Houstka': 'John Houska',
     'Gerd Trinklein': 'Gert Trinklein',
-    'Emanuel Schwartz'; 'Manny Schwartz',
+    'Emanuel Schwartz': 'Manny Schwartz',
     'Horatio Palmieri': 'Horacio Palmieri',
     'Edward Marasco': 'Eduardo Marasco',
     'Tommy Hutchinson': 'Tom Hutchison',

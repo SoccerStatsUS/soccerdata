@@ -105,6 +105,7 @@ copa_libertadores = {
     'competition': 'Copa Libertadores',
     'team_data': ['Champion'],
 
+
     'Champion': [
         (1960, 'Penarol'),
         (1961, 'Penarol'),
@@ -148,7 +149,7 @@ copa_libertadores = {
         (1999, 'Palmeiras'),
         (2000, 'Boca Juniors'),
         (2001, 'Boca Juniors'),
-        (2002, 'Olimpia (Paraguay)',
+        (2002, 'Olimpia (Paraguay)'),
         (2003, 'Boca Juniors'),
         (2004, 'Once Caldas'),
         (2005, 'Sao Paulo FC'),
@@ -160,4 +161,5 @@ copa_libertadores = {
         (2011, 'Santos'),
         (2012, 'Corinthians'),
         ],
+        
 }

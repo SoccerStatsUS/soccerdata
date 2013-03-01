@@ -124,12 +124,13 @@ def process_olympics_awards():
 
 def process_conmebol_awards():
     from soccerdata.data.lists.awards.conmebol2 import copa_merconorte, copa_mercosur
-    return process_awards(copa_merconorte) + process_awards(copa_mercosur)
+    from soccerdata.data.lists.awards.conmebol import copa_libertadores
+    return process_awards(copa_merconorte) + process_awards(copa_mercosur) + process_awards(copa_libertadores)
 
 
 def process_conmebol_international_awards():
-    from soccerdata.data.lists.awards.conmebol import copa_america, copa_libertadores
-    return process_awards(copa_america) + process_awards(copa_libertadores)
+    from soccerdata.data.lists.awards.conmebol import copa_america
+    return process_awards(copa_america) 
 
 
 def process_panamerican_awards():

@@ -81,6 +81,8 @@ def load_drafts():
 
 
 def load_games():
+    load_conmebol()
+    return
 
     load_nasl()
     return
@@ -94,7 +96,7 @@ def load_games():
     load_concacaf_international()
     return
 
-    load_conmebol()
+
     return
 
 
@@ -789,12 +791,11 @@ def load_conmebol():
 
     load_games_standard('conmebol', 'domestic/confederation/conmebol/merconorte')
     load_games_standard('conmebol', 'domestic/confederation/conmebol/mercosur')
-    return
 
-    for e in range(1960, 1965):
+    for e in range(1960, 1967):
         load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_libertadores/%s' % e)
 
-    load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_libertadores/2013' % e)
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_libertadores/2013')
     
 
 
