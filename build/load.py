@@ -94,12 +94,16 @@ def load_games():
 
     load_mls()
 
+    load_world()
     load_conmebol()
+    load_oceania()
 
     load_nasl()
 
     load_conmebol_international()
     load_concacaf_international()
+
+
 
     load_usmnt()
     load_fifa()
@@ -770,12 +774,25 @@ def load_mexico():
     load_soccernet_league('mexico', 'mex.1')
 
 
+def load_oceania():
+    load_games_standard('oceania', 'domestic/confederation/ofc/wantok')
+
+def load_oceania_international():
+    load_games_standard('oceania_i', 'international/confederation/ofc/wcq')
+    load_games_standard('oceania_i', 'international/confederation/ofc/wcq')
+
 
 def load_conmebol():
     generic_load(soccer_db.copa_america_awards, awards.process_conmebol_awards)
 
     load_games_standard('conmebol', 'domestic/confederation/conmebol/merconorte')
     load_games_standard('conmebol', 'domestic/confederation/conmebol/mercosur')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/aldao')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_ibarguren')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_tie')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/masters')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/sacc')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/suruga')
 
     for e in range(1960, 1967):
         load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_libertadores/%s' % e)
@@ -803,11 +820,13 @@ def load_conmebol_international():
     load_games_standard('mexico', 'international/country/uruguay'),
     load_games_standard('mexico', 'international/country/venezuela')
 
+
     load_games_standard('conmebol_i', 'international/confederation/conmebol/early_south_america')
     load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_premio_honor')
     load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_del_atlantico')
     load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_newton')
     load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_lipton')
+    #load_games_standard('conmebol_i', 'international/confederation/conmebol/copa_mayo')
 
 
 def load_uncaf_international():
@@ -822,6 +841,18 @@ def load_uncaf_international():
     load_games_standard('concacaf_i', 'international/country/honduras')
     load_games_standard('concacaf_i', 'international/country/nicaragua')
     load_games_standard('concacaf_i', 'international/country/panama')
+
+
+
+def load_world():
+    # Sort of a miscellaneous collection.
+    load_games_standard('world', 'domestic/world/panpacific')
+    load_games_standard('world', 'domestic/world/parmalat')
+    load_games_standard('world', 'domestic/world/copa_rio')
+
+    for e in [1960, 1970, 1980, 1990, 2000]:
+        load_games_standard('world', 'domestic/world/intercontinental_cup/%e' % e)
+
 
 
 def load_caribbean_international():
