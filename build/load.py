@@ -51,6 +51,7 @@ def load_games_standard(coll, fn, games_only=False):
 
 def first_load():
     """
+
     Load all data.
     """
     check_for_name_loops()
@@ -81,58 +82,40 @@ def load_drafts():
 
 
 def load_games():
+
+    load_china()
+
+    load_early_friendlies()
+    load_early_cups()
+
+    load_asl()
+    load_concacaf()
+    load_asl2()
+
+    load_mls()
+
     load_conmebol()
-    return
 
     load_nasl()
-    return
-
-
-    load_asl2()
-    return
 
     load_conmebol_international()
-
     load_concacaf_international()
-    return
-
-
-    return
-
-
-
-
 
     load_usmnt()
     load_fifa()
     load_olympics()
 
-
-    load_mls()
-    load_concacaf()
     load_modern_cups()
-    return
-
     load_guatemala()
-
-    load_asl()
-    load_early_cups()
-    load_early_friendlies()
-
 
     #load_argentina()
     load_mexico()
 
+    load_modern_friendlies()
 
-
-    load_china()
     load_canada()
 
-
-
     load_australia()    
-
-
 
     load_usl()
     load_apsl()
@@ -141,11 +124,9 @@ def load_games():
 
     load_esl()    
 
-    
-
     load_ncaa()
     load_nafbl()
-    load_modern_friendlies()
+
     load_pdl()
     load_leach()    
     load_misl()
@@ -331,7 +312,11 @@ def load_canada():
     # Incomplete formatting: load_excel_standings('canada', 'domestic/country/canada/cnsl')
     load_games_standard('canada', 'domestic/country/canada/cups/championship')
     load_games_standard('canada', 'domestic/country/canada/cups/early')
-    load_games_standard('canada', 'domestic/country/canada/friendly')
+
+    load_games_standard('canada', 'domestic/country/canada/friendly/1')
+    load_games_standard('canada', 'domestic/country/canada/friendly/friendly2')
+    load_games_standard('canada', 'domestic/country/canada/friendly/toronto')
+    load_games_standard('canada', 'domestic/country/canada/friendly/vancouver')
 
 
     generic_load(soccer_db.canada_stats, partial.process_csl_partial)
@@ -758,12 +743,12 @@ def load_soccernet_league(name, code):
     
 
 def load_china():
-    load_games_standard('china', 'domestic/country/china')
+    load_games_standard('china', 'domestic/country/china/leaguea')
     generic_load(soccer_db.china_awards, awards.process_china_awards)
 
 def load_australia():
-    load_games_standard('australia', 'domestic/country/australia')
-    load_games_standard('australia', 'domestic/country/australia_playoffs')
+    load_games_standard('australia', 'domestic/country/australia/australia')
+    load_games_standard('australia', 'domestic/country/australia/playoffs')
     generic_load(soccer_db.australia_awards, awards.process_australia_awards)
 
 def load_mexico():
@@ -897,6 +882,17 @@ def load_concacaf_international():
 
     for year in range(1994, 2015, 4):
         load_games_standard('concacaf_i', 'international/confederation/concacaf/wcq/%s' % year)
+
+    for year in [2009, 2011, 2013]:
+        load_games_standard('concacaf_i', 'international/confederation/concacaf/u20/%s' % year)
+
+    for year in range(2000, 2014, 4):
+        load_games_standard('concacaf_i', 'international/confederation/concacaf/olympic/%s' % year)
+
+
+    #for year in range(1994, 2015, 4):
+    #    load_games_standard('concacaf_i', 'international/confederation/concacaf/u17/%s' % year)
+
 
     load_uncaf_international()
     load_caribbean_international()

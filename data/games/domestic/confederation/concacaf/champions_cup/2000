@@ -121,6 +121,7 @@ Danilo Tosello (pk) 14, Eduardo Arriola 58; Rudy Ramirez 1, Carlos Gonzalez 20, 
 Round: Second Phase
 
 * Group A (in Ciudad de Guatemala, Aug 2-6)
+Group: Group A
 
 8/2/2000; Municipal; 1-1; Saprissa; Guatemala City
 Selvin Ponciano 89; Gerald Drummond 85
@@ -139,7 +140,8 @@ Jervis Drummond 22, Victor Cordero 28, Randall Row (pk) 62, Walter Centeno 82;  
 8/6/2000; Municipal; 5-0; Panama Viejo; Guatemala City
 Juan Carlos Plata 3, Juan Carlos Plata 46, Gonzalo Romero 13, Mario Acevedo 21, Rudy Ramirez 90; 
 
-Group B (in Panama City, Aug 23-27)
+* Group B (in Panama City, Aug 23-27)
+Group: Group B
 
 8/23/2000; Alajuelense; 2-1; Comunicaciones; Panama City, Panama
 Claudio Ciccia 69, Pablo Chinchilla 84; Rolando Fonseca 63
@@ -810,7 +812,7 @@ Kenneth Vargas 5, Kenneth Vargas 47, Jose Francisco Alfaro 12, Randall Azofeifa 
 10/25/2003; FAS; 2-1; Real Esteli
 Victor Mafla 26, Marcelo Messias 46; Selvin Alvarez 51
   
-Group 2 
+Group: Group 2 
 * (Guatemala)
 
 10/28/2003; Comunicaciones; 4-0; Arabe Unido

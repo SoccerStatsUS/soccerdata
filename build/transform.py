@@ -19,7 +19,11 @@ def transform():
     # Transform team names for a given competition based on the applied formatting string.
     # e.g. United States -> United States U-17.
     transform_team_names_for_competition('fifa', 'FIFA U-17 World Cup', '%s U-17')
+    transform_team_names_for_competition('concacaf_i', 'CONCACAF U-17 Championship', '%s U-17')
+
+
     transform_team_names_for_competition('fifa', 'FIFA U-20 World Cup', '%s U-20')
+    transform_team_names_for_competition('concacaf_i', 'CONCACAF U-17 Championship', '%s U-17')
 
     # Lots of complicated player name transformations that really don't work.
 

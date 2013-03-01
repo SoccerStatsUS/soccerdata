@@ -97,8 +97,9 @@ def process_ny_awards():
 
 
 def process_concacaf_awards():
-    from soccerdata.data.lists.awards.concacaf import champions_cup, champions_league, superliga, giants_cup
-    return process_awards(champions_cup) + process_awards(champions_league) + process_awards(superliga) + process_awards(giants_cup) + process_awards(ccc)
+    from soccerdata.data.lists.awards.concacaf import champions_cup, champions_league, superliga, giants_cup, ccc
+    return process_awards(champions_cup) + process_awards(champions_league) + process_awards(superliga) + process_awards(giants_cup) \
+        + process_awards(ccc)
 
 def process_concacaf_international_awards():
     from soccerdata.data.lists.awards.concacaf import gold_cup, cccf, championship, cacg
