@@ -149,6 +149,7 @@ nonpeople = {
     'Unknown': 'unknown',
     'Unassisted': 'unassisted',
     'Free Kick': 'free kick',
+    'Penalty kick': 'penalty kick',
 }
 
 names.update(nonpeople)
@@ -161,6 +162,841 @@ names.update(nonpeople)
 
 
 basic = {
+'Jose Garcia': 'José García',
+'Salvador Arizmendi': 'Salvador Arizméndi',
+
+'Jose Manuel Velásquez':  'José Manuel Velásquez', 
+'Jose Manuel Velasquez': 'José Manuel Velásquez', 
+'Teodoro Fernandez': 'Teodoro Fernández',
+'Juan Cesar Silva', 'Juan César Silva',
+#Kazbek Tambi., Kazbek Tambi
+'Darío Husain': 'Darío Husaín', 
+'Ricardo Gonzalez': 'Ricardo González',
+'Julio Perez': 'Julio Pérez', 
+'Martin Galvez': 'Martín Gálvez', 
+'Paulo Cesar':'Paulo César', 
+'Roberto Hernandez': 'Roberto Hernández',
+'Roger Suarez': 'Roger Suárez', 
+'Jose Marco Mora': 'José Marco Mora',
+'Juan Arango': 'Juán Arango', 
+
+'Cesar Peixoto': 'César Peixoto', 
+
+'Elias Vasquez': 'Elías Vásquez', 
+
+'Alejandro Victor Mancuso': 'Alejandro Víctor Mancuso', 
+'Oscar Gonzalez': 'Oscar González',
+'Baek Ji Hoon': 'Baek Ji-Hoon',
+'Baek Ji-hoon': 'Baek Ji-Hoon',
+'Sebastien Cretinoir': 'Sébastien Crétinoir',
+'Jaime Moron': 'Jaime Morón', 
+'Jose Luis Villarreal': 'José Luis Villarreal',
+'Jorge Vazquez': 'Jorge Vázquez',
+
+'Martin Zapata': 'Martín Zapata', 
+#Alvaro Gutíerrez, Alvaro Gutiérrez
+
+'Alexandre Boucicaut': 'Alexándre Boucicaut', 
+'Aldo De Nigris': 'Aldo de Nigris',
+'Gabriel Gonzalez': 'Gabriel González',
+
+'Cesar Hines': 'César Hines', 
+'Frank O\’Hara', 'Frank O\'Hara',
+
+'Jose Manuel Ramos Delgado': 'José Manuel Ramos Delgado', 
+#Héctor del Angel, Héctor del Ángel
+
+'David Sebastian Solorzano': 'David Sebastián Solórzano', 
+#Marco António, Marco Antonio, Marco Antônio
+
+'Luis Lopez': 'Luis López', 
+'Sergio Valencia': 'Sergío Valencia',
+'Francisco Arrue': 'Francisco Arrué',
+'Wilfred Velasquez': 'Wilfred Velásquez', 
+'Julian Tellez': 'Julián Téllez',
+
+'Jose Corona': 'José Corona', 
+
+'Enrique Cardenas': 'Enrique Cárdenas', 
+#Colin Falvey, Colin Falvey ©
+
+'Diego Gomez': 'Diego Gómez',
+
+'Jesus Martinez': 'Jesús Martínez', 
+'Ezequiel Gonzalez': 'Ezequiel González',
+
+'Jean Michel Michaud': 'Jean-Michel Michaud',
+'Leônidas': 'Leónidas', 
+'Alexander Cruzata-Rojas': 'Alexánder Cruzata-Rojas', 
+
+'Manuel Rios': 'Manuel Ríos',
+
+'Luis Calderon': 'Luis Calderón', 
+#O. Bolanos, O. BolaNos
+
+'Walter Otta': 'Wálter Otta', 
+
+'Sergio Manoel': 'Sérgio Manoel', 
+'Julio Diaz': 'Julio Díaz',
+
+'Raul Bergara': 'Raúl Bergara', 
+'Joaquin Guillen': 'Joaquín Guillén',
+'Joaquín Guillen': 'Joaquín Guillén',
+'José Hernandez': 'José Hernández',
+
+'Nelson Florez': 'Nelson Flórez', 
+
+'Blas Lopez': 'Blas López', 
+
+'Hector Ruben Sosa': 'Héctor Rubén Sosa', 
+'Michael Mccomie': 'Michael McComie',
+'Celio Silva': 'Célio Silva',
+
+'Manuel Leon': 'Manuel León', 
+'Domingo De La Mora': 'Domingo de La Mora', 
+'Domingo De la Mora': 'Domingo de La Mora', 
+
+'Clemente Rodriguez': 'Clemente Rodríguez', 
+'Fawaz Al Ahmad': 'Fawaz Al-Ahmad', 
+#D. Pérez, D. Perez
+'Juan De La Cruz': 'Juan de la Cruz', 
+'Juan de La Cruz': 'Juan de la Cruz', 
+
+'Cesar La Paglia': 'César La Paglia', 
+'Gael Germany': 'Gaël Germany',
+
+'Lee Dong Gook': 'Lee Dong-Gook', 
+'Anibal Godoy': 'Aníbal Godoy', 
+'Hernan Sandoval': 'Hernán Sandoval',
+'Sergio Vasquez': 'Sergio Vásquez',
+'Uwaldo Perez': 'Uwaldo Pérez',
+'Miguel Martinez': 'Miguel Martínez',
+'Enrique Lopez Zarza': 'Enrique López Zarza', 
+#Canario, Canário
+'Carlos Esposito': 'Carlos Espósito',
+
+'Julian De Guzmán': 'Julián De Guzmán', 
+'Julian de Guzman': 'Julián De Guzmán', 
+'Joao Paulo': 'João Paulo',
+'Jose Enrique Pena': 'José Enrique Peña',
+
+'Julian Chacón': 'Julián Chacón', 
+'Julian Chacon': 'Julián Chacón', 
+'Hector Ferri': 'Héctor Ferri',
+'Benjamin Monterroso': 'Benjamín Monterroso',
+
+'Joel Sanchez': 'Joel Sánchez', 
+
+'Leiner Orejuela': 'Léiner Orejuela',
+'Cafú': 'Cafu',
+'Juan Carlos  Giménez': 'Juan Carlos Giménez',
+#O’Rourke, O'Rourke
+#P. Neville, P Neville
+#Calderón, Calderon
+'Roberto Fernandez': 'Roberto Fernández',
+
+'Victor Montano': 'Víctor Montaño', 
+'Ariel Martinez': 'Ariel Martínez', 
+
+'Victor Monzon': 'Víctor Monzon', 
+'Juan Carlos Garcia': 'Juan Carlos García',
+'Hector Landazuri': 'Héctor Landazuri', 
+'Hector Landazuri': 'Héctor Landázuri',
+'Victor Mendoza': 'Víctor Mendoza',
+'Edgar Vaca': 'Édgar Vaca', 
+'Jesus Diaz': 'Jesús Díaz', 
+'Reynaldo Clavasquin': 'Reynaldo Clavasquín', 
+#Perez, Pérez, ?.Pérez
+'Jozef Wandzik': 'Józef Wandzik',
+'Roberto Gomez Junco': 'Roberto Gómez Junco',
+'Angel  Torres', 'Angel Torres',
+'Elías Jacomé': 'Elías Jácome',
+
+'Jose Dimas Larrosa': 'José Dimas Larrosa', 
+'Lester Gonzalez': 'Léster González', 
+'Benigno Gutierrez': 'Benigno Gutiérrez',
+'Ronald Gómez': 'Rónald Gómez',
+
+'Raul Noriega': 'Raúl Noriega', 
+
+'Yoel Colome': 'Yoel Colomé', 
+
+'Diego Antonio Gavilan': 'Diego Antonio Gavilán', 
+'Wilmer López': 'Wílmer López',
+'Jonathan Lopez': 'Jonathan López',
+'Decio Esteves': 'Décio Esteves',
+'Juan Jose Pizzuti': 'Juan José Pizzuti',
+'Raul Ramirez': 'Raúl Ramírez',
+'Raul Cascini': 'Raúl Cascini', 
+'Emory Nunez': 'Emory Núñez',
+'Emory Núnez': 'Emory Núñez',
+
+'Mario Gonzalez': 'Mario González', 
+'Nelson Caceres': 'Nelson Cáceres',
+'Luis Guzman': 'Luis Guzmán',
+'Claudio Adao': 'Cláudio Adão',
+#Susán, Susan
+#Gonçálvez, Goncalvez
+#Gonçalves, Goncalves
+
+'Victor Marulanda':'Víctor Marulanda',
+'Matt Mckay': 'Matt McKay',
+'Edgardo Alvarez': 'Edgardo Álvarez',
+'Oh Jang-eun': 'Oh Jang-Eun',
+'Oh Jang Eun': 'Oh Jang-Eun',
+'Sebastian Abreu': 'Sebastián Abreu', 
+#Espindola, Espíndola
+
+'Ze Alcino': 'Zé Alcino', 
+'Luis Sanchez': 'Luis Sánchez', 
+'Jose Basualdo': 'José Basualdo',
+'Juan Carlos Ramirez': 'Juan Carlos Ramírez',
+'Kim Eun Jung': 'Kim Eun-Jung',
+'Kim Eun-jung': 'Kim Eun-Jung',
+'Leon Semmeling': 'Léon Semmeling', 
+'Raúl Arguello': 'Raúl Argüello', 
+'Stephane Abaul': 'Stéphane Abaul',
+
+'Mynor Gonzalez': 'Mynor González', 
+'Nestor de la Torre': 'Néstor de la Torre',
+#Itaqui, Itaquí
+'Jose Luis Elejalde': 'José Luis Elejalde', 
+'Omar Perez': 'Omar Pérez',
+'Jason DeVos': 'Jason de Vos',
+'Jason deVos': 'Jason de Vos',
+'Daniel Martinez': 'Daniel Martínez',
+'Jose Luis Salgado': 'José Luis Salgado', 
+
+'Victor Diogo': 'Víctor Diogo', 
+#?.Herrera, Herrera
+
+'Neider Morantes': 'Néider Morantes', 
+
+'Emilio Alvarez': 'Emilio Álvarez', 
+
+'Segundo Medici': 'Segundo Médici', 
+#?.Soto, Soto
+#Júlio César, Julio César
+
+'Ezequiel Lazaro': 'Ezequiel Lázaro', 
+
+'Guillermo Ramirez': 'Guillermo Ramírez', 
+'Javier Perez': 'Javier Pérez',
+
+'Arilson': 'Arílson', 
+#'Jorge Masso.': 'Jorge Masso',
+#Thomson, Thomson.
+'Carlos Juarez': 'Carlos Juárez',
+'Javier Martinez': 'Javier Martínez',
+#Urdinarán, Urdinaran
+
+'Froylan Ledezma': 'Froylán Ledezma', 
+
+'Angel Sanchez': 'Angel Sánchez', 
+'Jose Molina': 'José Molina', 
+'Nestor Martínez': 'Néstor Martínez', 
+'Nestor Martinez': 'Néstor Martínez', 
+'Basilio': 'Basílio',  
+
+'Raul Muñoz': 'Raúl Muñoz', 
+'Julio De Los Santos': 'Julio de los Santos',
+'Francisco Ramirez': 'Francisco Ramírez',
+
+'Derlis Florentin': 'Derlis Florentín', 
+
+'Raul Roganovich': 'Raúl Roganovich', 
+#León, Leon
+'Aldo Ramirez': 'Aldo Ramírez',
+
+'Martin Cardetti': 'Martín Cardetti', 
+'Joao Etzel Filho': 'João Etzel Filho',
+
+'Marcelo De Souza': 'Marcelo de Souza',
+'Byron Perez': 'Byron Pérez',
+'Alex “Sandy” Archibald': 'Sandy Archibald',
+'Alex Sandy Archibald': 'Sandy Archibald',
+'Nestor Goncálvez': 'Néstor Gonçálvez',
+'Nestor Goncalvez': 'Néstor Gonçálvez',
+'Freddy Fernandez': 'Freddy Fernández', 
+'Juan Jose Rodriguez': 'Juan José Rodríguez', 
+'Evelio Ordoñez': 'Evelio Ordóñez', 
+'Octavio Diaz': 'Octavio Díaz',
+'Wilmer Peralta': 'Wílmer Peralta',
+'Jose Maria Bermudez': 'José María Bermúdez', 
+'Moises Calendario': 'Moisés Calendario',
+'Matias Concha': 'Matías Concha', 
+#Maldonado, Maldonado.
+
+'Ricardo Marquez': 'Ricardo Márquez', 
+
+'Marcel Hernandez': 'Marcel Hernández', 
+'Guillermo Rodriguez': 'Guillermo Rodríguez', 
+'Andres Mazali': 'Andrés Mazali',
+'Javier Jimenez': 'Javier Jiménez',
+
+'Tiao': 'Tião', 
+
+'Jorge Ramirez': 'Jorge Ramírez', 
+'Josue Joseph-Rose': 'Josué Joseph-Rose',
+'Jose Saturnino Cardozo': 'Jose Cardozo',
+'José Saturnino Cardozo': 'Jose Cardozo',
+'Wilmer Velázquez': 'Wílmer Velázquez',
+'Wilmer Velazquez': 'Wílmer Velázquez',
+#D. DiCanot, D. Dicanot
+
+'Victor Ruiz': 'Víctor Ruiz', 
+'Jose del Aguila': 'José del Águila', 
+'Alfredo Mejia': 'Alfredo Mejía',
+
+'Juan Ramon Barrera': 'Juan Ramón Barrera', 
+'Juán García': 'Juan García',
+
+'Fabián Armando Basualdo': 'Fabian Armando Basualdo', 
+
+'Nenem': 'Neném', 
+#Díez, Diez
+'Oscar Mcfarlane': 'Oscar McFarlane',
+'Larry Mcphail': 'Larry McPhail',
+
+'Silvio Parodi': 'Sílvio Parodi', 
+
+'Julio Cesar De Leon': 'Julio Cesar de Leon', 
+'Ricardo Jérez Hidalgo': 'Ricardo Jeréz Hidalgo',
+'Ivan Lopez': 'Iván López',
+'Domingo Garcia': 'Domingo García',
+
+'Cristian Bolanos': 'Cristian Bolaños', 
+
+'Edgar Benitez': 'Edgar Benítez', 
+#GLover, Glover
+
+'Luis Renteria': 'Luis Rentería', 
+'O’Hallaran': 'O\'Hallaran',
+'Jose Alejandro Nava': 'José Alejandro Nava',
+
+'Victor Hernandez': 'Víctor Hernández', 
+'Jaime Gonzalez': 'Jaime González',
+
+'Pedro Vasquez': 'Pedro Vásquez', 
+
+'Pablo Pena': 'Pablo Peña',
+'Víctor Brown': 'Victor Brown',
+
+'Kim Do Keun': 'Kim Do-Keun', 
+'Hector Hurtado': 'Héctor Hurtado',
+#Ramón, Ramon
+'Arturo Fernandez': 'Arturo Fernández',
+
+'Cesar Trujillo': 'César Trujillo', 
+'Kim Seung Yong': 'Kim Seung-Yong',
+'Kim Seung-yong': 'Kim Seung-Yong',
+'Oscar Surian': 'Oscar Surián',
+#Sérgio, Sergio
+'Ramon Barreto': 'Ramón Barreto',
+
+'Marcos Urena': 'Marcos Ureña', 
+'Eduardo Gutierrez': 'Eduardo Gutiérrez',
+
+'Victor Herrera': 'Víctor Herrera', 
+Dixon, ? Dixon, Dixon?
+'Franck Songo’o', 'Franck Songo\'o',
+'Frank Songo\'o': 'Franck Songo\'o',
+'Frank Songo’o': 'Franck Songo\'o',
+#Alarcón, Alarcon
+'Cedric Avinel': 'Cédric Avinel',
+Felix McDonald, Felix Mcdonald
+Víctor Medina, Victor Medina
+René Ortubé, Rene Ortube
+Andres Gonzalez, Andrés González
+Adrian Martinez, Adrián Martínez
+John Mcgrane, John McGrane
+Guillermo García, Guillermo Garcia
+Carlos Quiñónez, Carlos Quinonez
+Julio César León, Julio Cesar Leon
+Pena, Peña
+L. Suarez, L. Suárez
+Héctor Ortíz, Héctor Ortiz
+Angel Di María, Ángel Di María
+Deshorn Brown, DeShorn Brown
+Vázquez, Vazquez
+Manuel Perez, Manuel Pérez
+Martínez, Martinez
+Victor Valdes, Víctor Valdés
+Alejandro Frias, Alejandro Frías
+Edison González, Edison Gonzalez
+Whayne WIlson, Whayne Wilson
+Le, Lê
+Sim Jae Won, Sim Jae-won
+Víctor Samuel Turcios, Victor Samuel Turcios
+?.Jiménez, Jiménez, Jimenez
+Brennan?, Brennan
+D’Agostino, D'Agostino
+Gastón Monterola, Gaston Monterola
+José Anthony Torres, Jose Anthony Torres
+José M. Henríquez, Jose M. Henríquez
+Ruben Omar Romano, Rubén Omar Romano
+Jason Van Blerk, Jason van Blerk
+Reiner Alcántara, Reiner Alcantara
+Díaz, Diaz
+Fidel Mino, Fidel Miño
+Alberto Gómez, Alberto Gomez
+Víctor Rodríguez Andrade, Victor Rodriguez Andrade
+William Gutíerrez, William Gutiérrez
+Cesar Bordaberry, César Bordaberry
+Jairon Leonel Zamora, Jairón Leonel Zamora
+Sánchez, Sanchez
+Rándall Row, Randall Row
+José Antonio Castro, Jose Antonio Castro
+Martin Villalonga, Martín Villalonga
+Mario Fernandez, Mario Fernández
+Luis García Postigo, Luis Garcia Postigo
+Hakan Sukur, Hakan Sükür
+Víctor Suárez, Victor Suarez
+Roberto Da Silva, Roberto da Silva
+Carlos Eugenio Simón, Carlos Eugenio Simon
+Leonardo Durán, Leonardo Duran
+Fernando Martínez, Fernando Martinez
+Richart Martín Báez, Richart Martin Baez
+Antonio Pereira Da Silva, Antonio Pereira da Silva
+Víctor Gómez, Victor Gomez
+Jose Luis Calderon, José Luis Calderón
+David Solórzano, David Solorzano
+León Peyrou, Leon Peyrou
+Federico Dominguez, Federico Domínguez
+Róbel Bernárdez, Robel Bernárdez
+Luizao, Luizão
+José Luis Russo, Jose Luis Russo
+Carl  Rose, Carl Rose
+Osman Danilo Chávez, Osman Danilo Chavez
+Francisco Martinez, Francisco Martínez
+Jonas Gutierrez, Jonás Gutiérrez
+Marcelino de Oliveira, Marcelino De Oliveira
+Epifanio Gonzalez, Epifanio González
+Gary Van Egmond, Gary van Egmond
+Cláudio Lezcano, Claudio Lezcano
+Cufrè, Cufre
+Victor Cordero, Víctor Cordero
+Ramirez, Ramírez
+Norberto Menéndez, Norberto Menendez
+Steve Macdonald, Steve MacDonald
+Christian Santamaria, Christian Santamaría
+Quiñones, Quinones
+Junior Díaz, Junior Diaz
+Raúl Rodrigo Lara, Raul Rodrigo Lara
+Jordan Leblanc, Jordan LeBlanc
+Alfredo De Los Santos, Alfredo de los Santos
+Johnny Leveron, Johnny Leverón
+Jeff Hooker, Jeff HOoker
+Géiner Segura, Geiner Segura
+Oscar Julian Ruiz, Oscar Julián Ruiz
+Francisco Pavón, Francisco Pavon
+Félix Rodríguez, Felix Rodriguez
+Francisco Sánchez, Francisco Sanchez
+José Garcés, Jose Garcés, Jose Garces
+Cissé, Cisse
+Gustavo Barros Schelotto, Gustavo Barros-Schelotto
+
+'Johan Rodriguez': 'Johan Rodríguez',
+Óscar Torres, Oscar Torres
+Héctor Silva, Hector Silva
+Iván Sabino Castillo, Ivan Sabino Castillo
+Cesar Ramirez, César Ramírez
+Leopoldo Jimenez, Leopoldo Jiménez
+Jose Eduardo Esidio, José Eduardo Esidio
+Alejandro Ortíz, Alejandro Ortiz
+G. González, G. Gonzalez
+RMB Orr, R.M.B. Orr
+Cesar Miguel Rebosio, César Miguel Rebosio
+Wilmer Garcia, Wilmer García
+tate, Tate
+Jose Mendoza, José Mendoza
+Héctor Esparza, Hector Esparza
+Jose Gabriel Vasquez, José Gabriel Vásquez
+Darío Rodríguez, Dario Rodriguez
+Franco Cángele, Franco Cangele
+Mahmoud El-Khatib, Mahmoud El Khatib
+R. Lopez, R. López
+Victor Muller, Víctor Müller
+Raul Perez, Raúl Pérez
+Juan Pablo Angel, Juan Pablo Ángel
+Jesús Zavala, Jesus Zavala
+León Darío Muñoz, Leon Dario Muñoz, Leon Dario Munoz
+Víctor Rangel, Victor Rangel
+Martin Gomez, Martín Gómez
+Lorenzo Unanué, Lorenzo Unanue
+Cesar García, César García, Cesar Garcia
+Hector Gonzalez, Héctor González
+?.Luna, Luna
+Maximiliano López, Maximiliano Lopez
+Demarchi, DeMarchi
+DarÍo Delgado, Dario Delgado
+Kénneth Paniagua, Kenneth Paniagua
+Kim Do Hoon, Kim Do-Hoon
+FLeming, Fleming
+Fabrice Reuperne, Fabrice Reuperné
+Jose Jonny Magallon, Jose Jonny Magallón, José Jonny Magallón
+Kevin Parsemain, Kévin Parsemain
+Alberto Ramírez, Alberto Ramirez
+Kim Bong-soo, Kim Bong Soo
+Rolando Rodriguez, Rolando Rodríguez
+Reinier Alcántara, Reinier Alcantara
+DeVivo, Devivo
+Aléncar, Alencar
+Alexánder Amaya, Alexander Amaya
+Milton Núñez, Milton Núnez, Milton Nuñez
+Zé Carlos, Ze Carlos
+Jose Chacon, José Chacón
+Andy Herrón, Andy Herron
+Luis Mejía, Luis Mejia
+Logan Pause C, Logan Pause c
+David McCaig, David Mccaig
+Choi Tae-Uk, Choi Tae Uk
+Miguez, Míguez
+Róger Espinoza, Roger Espinoza
+Francisco Fariñas, Francisco Farinas
+Martin Reyna, Martín Reyna
+Gérald Drummond, Gerald Drummond
+Eduardo Fernández, Eduardo Fernandez
+Jose Rodriguez, José Rodríguez
+Jersson González, Jersson Gonzalez
+Martin Palermo, Martín Palermo
+Ney Raúl Aviles, Ney Raúl Avilés
+David Hernandez, David Hernández
+Moisés Avilés, Moises Aviles
+Hernandez, Hernández
+Hernaín Arzú, Hernain Arzu
+Sepúlveda, Sepulveda
+Ernesto De la Rosa, Ernesto De La Rosa
+Jose Luis Martinez Bazan, José Luis Martínez Bazán
+Francisco Fernandez, Francisco Fernández
+César Alegría, Cesar Alegria
+Luis Alberto Monzón, Luis Alberto Monzon
+Nicolas Asencio, Nicolás Asencio
+César Fawcett, Cesar Fawcett
+Luis Ernesto Pérez, Luis Ernesto Perez
+Jose Franco, José Franco
+Víctor Espárrago, Victor Esparrago
+Marcel De Jong, Marcel de Jong
+Jorge Villazán, Jorge Villazan
+Pedro Gonzalez, Pedro González
+César Valoyes, Cesar Valoyes
+Heriberto Quirós, Heriberto Quiros
+Kim Jin Kyu, Kim Jin-kyu
+Raúl Gorosteguí, Raúl Gorostegui, Raul Gorostegui
+Orestes Jordan, Orestes Jordán
+Vicente Martin Sanchez, Vicente Martín Sánchez
+Grégory Gendrey, Gregory Gendrey
+Magrao, Magrão
+Jorge Fernandez, Jorge Fernández
+Gonzalez, González
+Zé Maria, Zé María
+Juan Ramon Jara, Juan Ramón Jara
+Julián Anchico, Julian Anchico
+Andrés Roldán, Andres Roldan
+Néstor Gabriel Cedrés, Nestor Gabriel Cedres
+Mickaël Antoine-Curier, Mickael Antoine-Curier
+Gutiérrez, Gutierrez
+Macías, Macias
+Léster Moré, Lester More
+Fabio da Silva, Fabio Da Silva
+José de Jesús Corona, Jose de Jesus Corona
+Eliphene Cadet, Eliphéne Cadet
+Suarez, Suárez
+García, Garcia
+Wilson de Souza, Wilson De Souza
+A.H. Rojas, A.H. Rojas
+Asdrúbal Sánchez, Asdrubal Sanchez
+José Guerrero, Jose Guerrero
+Ehud Ben Tovim, Ehud Ben-Tovim
+Oneil Thompson, O'Neil Thompson
+Jorge Calado, jorge Calado
+Gamboa, Gamboa
+Jorge Perez, Jorge Pérez
+Rincon, Rincón
+Carlos Lazón, Carlos Lazon
+Pedro Velazquez, Pedro Velázquez
+Kléber, Kleber
+Raúl Sánchez, Raul Sanchez
+Andy O’Brien, Andy O'Brien
+Qu BO, Qu Bo
+Neftali Díaz, Neftalí Díaz, Neftali Diaz
+Leonel Duarte, Leonel Duarté
+Echevarría, Echevarria
+José Milian, Jose Milian
+Gamez, Gámez
+Adalberto López, Adalberto Lopez
+Marvin Antonio Chávez, Marvin Antonio Chavez
+Wilmer Velásquez, Wilmer Velasquez
+Park Chu Young, Park Chu-young
+Julio Cesar Franco, Julio César Franco
+Hugo Benjamin Ibarra, Hugo Benjamín Ibarra
+Maximiliano Estevez, Maximiliano Estévez
+Rodríguez, Rodriguez
+Rubén González, Ruben Gonzalez
+Alfredo González, Alfredo Gonzalez
+Ordonez, Ordóñez
+Jose Luis Caballero, José Luis Caballero
+Pol?, Pol
+Sasía, Sasia
+Ernesto Gutierrez, Ernesto Gutiérrez
+Moisés Candelario, Moises Candelario
+Nimrod Medina, Nímrod Medina
+Brian Mcclair, Brian McClair
+Andres Acosta, Andrés Acosta
+Porfirio Jiménez, Porfirio Jimenez
+Jose Romero, José Romero
+Eder, Éder
+Stephane M'Bia, Stephane Mbia
+'Ivan Garcia': 'Iván García',
+#A. Gonzalez, A. González
+
+'Raul Martinez Sambula': 'Raúl Martinez Sambula',
+
+'Yenier Marquez': 'Yenier Márquez', 
+'Jorge Martinez': 'Jorge Martínez', 
+'Jose Luis Aussin', 'José Luis Aussin',
+'Li Yi\'nan': 'Li Yinan', 
+'Li Yi’nan': 'Li Yinan', 
+#Edu, Edú
+#J. Fernandez, J. Fernández
+'Aurelien Capoue': 'Aurélien Capoue'
+'Hugo Rodriguez': 'Hugo Rodríguez',
+'Cristian Castillo': 'Cristián Castillo',
+'Jose Ruiz': 'José Ruiz', 
+'Marvin Rene Gonzalez': 'Marvin René González', 
+Edwin González, Edwin Gonzalez
+Luis Solorzano, Luis Solórzano
+Roberto Perez, Roberto Pérez
+Gustavo Diaz, Gustavo Díaz
+Jose De La Cuesta, Jose de la Cuesta
+Héctor Rodríguez, Hector Rodriguez
+Ibañez, Ibáñez, Ibanez
+Quincy Amarikwa*, Quincy Amarikwa
+T.J. Nelson, TJ Nelson
+Alexis Pena, Alexis Peña
+Jaime Duran, Jaime Durán
+José Antonio Pizzi, Jose Antonio Pizzi
+Joél Colomé, Joel Colomé
+Gonzalo Rodríguez, Gonzalo Rodriguez
+Rodolfo Rodríguez, Rodolfo Rodriguez
+Héctor Pérez, Hector Perez
+
+'Elber': 'Élber', 
+'Hakan Unsal':'Hakan Ünsal', 
+#Horak, HOrak
+
+'Jesus Rodriguez': 'Jesús Rodríguez', 
+'Angel Segura': 'Ángel Segura',
+
+'Ruben Selman': 'Rubén Selman', 
+
+'Jose Norberto Huezo': 'José Norberto Huezo',
+
+'Jose Manuel Contreras': 'José Manuel Contreras', 
+#Farfan, Farfán
+#Canón, Cañón
+'Raul Fernandez': 'Raúl Fernández',
+
+'Jose Salvatierra': 'José Salvatierra', 
+
+'Trent Mcclenahan': 'Trent McClenahan', 
+'Freddy Garcia': 'Freddy García',
+#nelson, Nélson, Nelson
+'Hector Gutierrez': 'Héctor Gutiérrez',
+
+'Jan Michael Williams': 'Jan-Michael Williams', 
+
+'Daniel Herelle': 'Daniel Hérelle', 
+
+'Genaro Benitez': 'Genaro Benítez',
+
+'Jose Roberto Wright': 'José Roberto Wright', 
+Jose Maria Huerta, José María Huerta
+Francisco González, Francisco Gonzalez
+Luís Alberto, Luis Alberto
+Mnguni, Mnguni
+Raúl Estévez, Raúl Estevez
+Roberto Zárate, Roberto Zarate
+Vevé, Veve
+Claudio Husain, Claudio Husaín
+Jean Victor Lavril, Jean-Victor Lavril
+Oscar García, Oscar Garcia
+Allan Moisés Lalín, Allan Moisés Lalin, Allan Moises Lalin
+Leandro Gracian, Leandro Gracián
+Anthony Angély, Anthony Angely
+Jose Luis Praddaude, José Luis Praddaude
+Manuel Gutiérrez, Manuel Gutierrez
+Wilber Alejandro Sánchez, Wilber Alejandro Sanchez
+Gaston Castro, Gastón Castro
+Melendez, Meléndez
+Fabián Andrés Vargas, Fabian Andres Vargas
+Ahn Jung-hwan, Ahn Jung Hwan
+Patiño, Patino
+Brown, . Brown
+De Los Santos, De los Santos
+Luis Ubiña, Luis Ubina
+Cesar Charun, César Charún
+Hélton, Helton
+Rafe Wolfe, Rafe' Wolfe
+
+
+'David Martínez': 'David Martinez', 
+'Juan Jose Vidal': 'Juan José Vidal',
+'Andres Estrada': 'Andrés Estrada',
+
+'Victor Duque': 'Víctor Duque', 
+
+'Luis Carlos Winck': 'Luís Carlos Winck', 
+'Diego Garcia': 'Diego García',
+
+'Leon Jeck': 'Léon Jeck', 
+#J. DeGuzman, J. deGuzman
+
+'Hector Tapia': 'Héctor Tapia', 
+
+'Jose Luis Ceballos': 'José Luis Ceballos', 
+
+'James O’Connor': 'James O\'Connor', 
+#Baéz, Baez
+#Dudú, Dudu
+'Juan Pedro Arremon': 'Juan Pedro Arremón',
+#pearce, Pearce
+
+'Wilber Sanchez': 'Wilber Sánchez', 
+Angel Martínez, Angel Martinez, Ángel Martínez
+Luis German Del Carmen, Luis Germán Del Carmen
+C. Fernandez, C. Fernández
+Jorge Dávalos, Jorge Davalos
+Iván Ramiro Córdoba, Ivan Ramiro Cordoba
+Orlando Rodríguez, Orlando Rodriguez
+#Guzman, Guzmán
+
+'Fabian Coelho': 'Fabián Coelho', 
+
+'Jairo Martinez': 'Jairo Martínez', 
+'Oscar Sánchez': 'Óscar Sánchez',
+
+'Tomas Hubschman': 'Tomas Hübschman' ,
+#Solomon, ?. Solomon
+'Alex Dario Aguinaga': 'Alex Aguinaga',
+'Alex Darío Aguinaga': 'Alex Aguinaga',
+'Shane O’Neill': 'Shane O\'Neill',
+
+'Mario Cesar Rodriguez': 'Mario César Rodríguez', 
+#Muñoz, Munoz
+'Choi Jin Cheul': 'Choi Jin-Cheul',
+
+'Angel Reyna': 'Ángel Reyna', 
+'Luis Filipe': 'Luís Filipe', 
+#Jones?, Jones
+#Franca, França
+#Lauder?, Lauder
+
+'David Sanchez': 'David Sánchez', 
+'Dj Countess': 'D.J. Countess', 
+'Ramirez Perales': 'Ramírez Perales'
+'Raul Decaria': 'Raul DeCaria',
+'Shin Young-rok': 'Shin Young-Rok',
+'Shin Young Rok': 'Shin Young-Rok',
+'Jesús Ramon Ramírez': 'Jesús Ramón Ramírez',
+#C Rodriguez, c. Rodriguez, C. Rodriguez
+'Rene Villavicencio': 'René Villavicencio',
+'Ki Sung Yueng': 'Ki Sung-Yueng',
+'Ki Sung-yueng': 'Ki Sung-Yueng',
+#De la Cruz, de la Cruz, De La Cruz
+'David Mcguire': 'David McGuire',
+'Jaime Colome': 'Jaime Colomé', 
+'Obdulio Jacinto Varela': 'Obdulio  Jacinto Varela', 
+#T Ingram, T. Ingram
+'Renan Benguche': 'Renán Benguché',
+
+'Manuel Gonzalez': 'Manuel González', 
+'Paulo Cesar Motta': 'Paulo César Motta',
+
+'Alvaro Pena': 'Alvaro Peña', 
+'Jesus Rico': 'Jesús Rico', 
+
+'Fernando Garduno': 'Fernando Garduño', 
+#Solis, Solís
+
+'Paolo de Ceglie': 'Paolo De Ceglie', 
+
+'Miguel Perez': 'Miguel Pérez', 
+'Jose Ramos': 'José Ramos',
+
+'Alejandro Martin Kenig': 'Alejandro Martín Kenig', 
+
+'Guillermo Munoz': 'Guillermo Muñoz', 
+'Israel Sanchez': 'Israel Sánchez',
+#Vasquez, Vásquez
+
+'Oscar Mas': 'Oscar Más', 
+'Claudio Cacapa': 'Claudio Caçapa',
+#O’Shea, O'Shea
+'Hector Becerra': 'Héctor Becerra',
+'Carlos Alberto Juarez': 'Carlos Alberto Juárez',
+'Eduardo De la Torre': 'Eduardo de la Torre',
+'Enrique Hernandez': 'Enrique Hernández',
+'Mariano Gonzalez': 'Mariano González', 
+'Adonay Martinez': 'Adonay Martínez',
+'Rubén Tufino': 'Rubén Tufiño',
+'Miguel Angel Montes': 'Miguel Ángel Montes',
+'Cristian Gomez': 'Cristián Gómez',
+'Cristian Gómez': 'Cristián Gómez',
+'Kakà': 'Kaká',
+'Hector Scotta': 'Héctor Scotta',
+'Alvaro Ortiz': 'Alvaro Ortíz',
+
+'Fabao': 'Fãbao', 
+'Diego Gavilan': 'Diego Gavilán',
+'Jose Ocampo': 'José Ocampo',
+
+'Roberto Garcia': 'Roberto García', 
+'Victor Bonilla': 'Víctor Bonilla',
+'Stephen Mcphail': 'Stephen McPhail',
+'Gabriel Marquez': 'Gabriel Márquez',
+'Armando Perez Hoyos': 'Armando Pérez Hoyos',
+'Virginio Caceres': 'Virginio Cáceres',
+'Efrain Ruiz': 'Efraín Ruíz',
+
+'Walter Alegria': 'Walter Alegría', 
+'Jose Herrera': 'José Herrera',
+'Walter Ayovi': 'Walter Ayoví',
+
+'Frederic Piquionne': 'Frédéric Piquionne', 
+#Menendez, Menéndez
+'Markus Lopez': 'Markus López',
+#Djemba Djemba, Djemba-Djemba
+
+'Yulian Anchico': 'Yulián Anchico',
+#Hormazábal, Hormazabal
+'Andrés Perez': 'Andrés Pérez',
+'Armando Gonzalez': 'Armando González',
+
+'Victor Nunez': 'Victor Nuñez', 
+'Alejandro Perez': 'Alejandro Pérez',
+'Jose del Solar': 'José del Solar', 
+'Victor Coello': 'Víctor Coello', 
+'Franklin Lopez': 'Franklin López', 
+'Jose Arana': 'José Arana',
+#Cláudio, Claudio
+'Cristian Domizi': 'Cristián Domizi',
+
+'Jose Luis Zalazar': 'José Luis Zalazar', 
+#Ricard, Ricard
+#Yulier OLivera, Yulier Olivera
+
+'Jean Luc Lambourde': 'Jean-Luc Lambourde',
+#Acuña, Acuna
+
+'Walter Garcia': 'Walter García', 
+#Solorzano, ?.Solorzano
+
+'Victor Bernárdez': 'Víctor Bernárdez', 
+'Nilson Perez': 'Nilson Pérez',
+'Kim Sam-soo': 'Kim Sam Soo',
+'Kim Sam Soo': 'Kim Sam Soo',
+   
     'Franz St. Lot': 'Frantz St. Lot',
     'PJ Johns': 'P.J. Johns',
     'Gil Mardarescu': 'Gil Mardaresca',
@@ -1044,15 +1880,15 @@ basic = {
     'Herbert Karlson': 'Herbert Carlsson',
     'Roque Maspoli': 'Roque Máspoli',
     'Oldrich Nejedly': 'Oldřich Nejedlý',
-    #capt [<Bio: Capt.>, <Bio: capt.>, <Bio: capt>]
-    'Emilio Butragueno': 'Emilio Butragueño',
+    #capt [<Bio: Capt., <Bio: capt. <Bio: capt]
+   'Emilio Butragueno': 'Emilio Butragueño',
     'Osman Chavez': 'Osman Chávez',
     'Alpay Ozalan': 'Alpay Özalan',
     'Jese': 'Jesé',
     'Hasan Sas': 'Hasan Şaş',
     'Angel Di María': 'Ángel Di María',
-    #brennan [<Bio: Brennan>, <Bio: Brennan?>]
-    'Jozsef Bozsik': 'József Bozsik',
+    #brennan [<Bio: Brennan, <Bio: Brennan?
+   'Jozsef Bozsik': 'József Bozsik',
     'Daniel Luduena': 'Daniel Ludueña',
     'Domingos Da Guia': 'Domingos da Guia',
     'Hector Scarone': 'Héctor Scarone',
@@ -1077,19 +1913,19 @@ basic = {
     'Vava': 'Vavá',
     'Eusebio': 'Eusébio',
     'Robin Van Persie': 'Robin van Persie',
-    #brown [<Bio: . Brown>, <Bio: Brown>]
-    'Yaya Toure': 'Yaya Touré',
+    #brown [<Bio: . Brown, <Bio: Brown
+   'Yaya Toure': 'Yaya Touré',
     'Gerson': 'Gérson',
     'Marco Fabian': 'Marco Fabián',
     'Jurgen Klinsmann': 'Jürgen Klinsmann',
-    #solomon [<Bio: Solomon>, <Bio: ?. Solomon>]
-    'Trialist': 'trialist',
-    #jones [<Bio: Jones>, <Bio: Jones?>]
-    'Milutin Ivkovic': 'Milutin Ivković',
-    #lauder [<Bio: Lauder?>, <Bio: Lauder>]
-    'Jose Santamaria': 'José Santamaría',
-    #dixon [<Bio: Dixon>, <Bio: Dixon?>, <Bio: ? Dixon>]
-    'Leonel Sanchez': 'Leonel Sánchez',
+    #solomon [<Bio: Solomon, <Bio: ?. Solomon
+   'Trialist': 'trialist',
+    #jones [<Bio: Jones, <Bio: Jones?
+   'Milutin Ivkovic': 'Milutin Ivković',
+    #lauder [<Bio: Lauder?, <Bio: Lauder
+   'Jose Santamaria': 'José Santamaría',
+    #dixon [<Bio: Dixon, <Bio: Dixon? <Bio: ? Dixon]
+   'Leonel Sanchez': 'Leonel Sánchez',
     'Alvaro Gestido': 'Álvaro Gestido',
     'Hernan Crespo': 'Hernán Crespo',
     'Mario Martinez': 'Mario Martínez',
@@ -1723,6 +2559,7 @@ basic = {
     
     'Gerardo Miguel Bravo': 'Gerardo Bravo',
     'Gerardo Miguel Bravo Benavides': 'Gerardo Bravo',
+'Je Vaughn Watson': 'Je-Vaughn Watson',
     'Jevaughn Watson': 'Je-Vaughn Watson',
     'Will Watson': 'William Watson',
     'Bill Watson': 'Billy Watson',
@@ -2194,7 +3031,7 @@ basic = {
     'George Nemchick': 'George Nemchik',
 
 
-    #'Victor Estupiñan': 'Victor Estupiñán>, <Bio: Víctor Estupiñán',
+    #'Victor Estupiñan': 'Victor Estupiñán, <Bio: Víctor Estupiñán',
     'Victor Estupiñan': 'Victor Estupiñán',
     'Victor Estupiñan': 'Victor Estupiñán',
     'Victor Estupiñán': 'Víctor Estupiñán',
@@ -5252,16 +6089,16 @@ names.update(usmnt)
     'Arturo Alvarez': 'Arturo Álvarez',
     'Claudio Suarez': 'Claudio Suárez',
     'Julio Martinez': 'Julio Martínez',
-    #[<Bio: Ramon Nunez>, <Bio: Ramon Nuñez>, <Bio: Ramón Núnez>, <Bio: Ramón Núñez>]
-    'Raul Rivera': 'Raúl Rivera',
+    #[<Bio: Ramon Nunez <Bio: Ramon Nuñez, <Bio: Ramón Núnez, <Bio: Ramón Núñez]
+   'Raul Rivera': 'Raúl Rivera',
     'Herculez Gomez': 'Herculez Gómez',
     'Diego Gutierrez': 'Diego Gutiérrez',
     'Abé Matamoros': 'Ábe Matamoros',
     'Chris  Eylander': 'Chris Eylander',
     'Miguel López': 'Miguel López',
     'Johnnie Garcia': 'Johnnie García',
-    #'Josue Martinez': 'Josue Martínez>, <Bio: Josué Martinez>, <Bio: Josué Martínez>
-    'Diego Chara': 'Diego Chará',
+    #'Josue Martinez': 'Josue Martínez, <Bio: Josué Martinez <Bio: Josué Martínez
+   'Diego Chara': 'Diego Chará',
     'Yordany Alvarez': 'Yordany Álvarez',
     'Miguel Montano': 'Miguel Montaño',
     'Dave Van Den Bergh': 'Dave van den Bergh',
@@ -5284,7 +6121,7 @@ names.update(usmnt)
     'Diego Jimenez': 'Diego Jiménez',
     'Mike Munoz': 'Mike Muñoz',
     'Matthew M\'Buta': 'Matthew Mbuta',
-    #'Sebastian Rincon': 'Sebastian Rincón>, <Bio: Sebastián Rincón',
+    #'Sebastian Rincon': 'Sebastian Rincón, <Bio: Sebastián Rincón',
     'Juan Guzman': 'Juan Guzmán',
     'Rodrigo Lopez': 'Rodrigo López',
     'Victor Bernardez': 'Victor Bernárdez',
@@ -5293,7 +6130,7 @@ names.update(usmnt)
     'Hector Jimenez': 'Héctor Jiménez',
     'A.J. DeLaGarza': 'AJ DeLaGarza',
 
-    'Luis Angel Landin': 'Luis Angel Landín>, <Bio: Luis Ángel Landín',
+    'Luis Angel Landin': 'Luis Angel Landín <Bio: Luis Ángel Landín',
     'Ross LaBauex': 'Ross Labauex',
     'Rachid El Khalifi': 'Rachid el Khalifi',
 
