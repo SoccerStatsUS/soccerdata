@@ -97,6 +97,10 @@ def scrape_everything(competition):
 
 
 
+    
+
+
+
 def scrape_fifa_scoreboard(tournament_id, edition_id):
     """
     Get the game urls for a given year.
