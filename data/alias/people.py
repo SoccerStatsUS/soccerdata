@@ -4,6 +4,8 @@
 from django.template.defaultfilters import slugify
 
 
+
+
 def get_name(name, league=None):
     try:
         slug = slugify(name)
@@ -43,6 +45,8 @@ def check_for_name_loops():
         raise
             
             
+
+
 slugs = {
     'flavio-conceicao': 'Flávio Conçeicão',
     'ramon-nunez': 'Ramon Nunez',
@@ -162,13 +166,14 @@ names.update(nonpeople)
 
 
 basic = {
+'Eduardo Caudet': 'Eduardo Coudet',
 'Jose Garcia': 'José García',
 'Salvador Arizmendi': 'Salvador Arizméndi',
 
 'Jose Manuel Velásquez':  'José Manuel Velásquez', 
 'Jose Manuel Velasquez': 'José Manuel Velásquez', 
 'Teodoro Fernandez': 'Teodoro Fernández',
-'Juan Cesar Silva', 'Juan César Silva',
+'Juan Cesar Silva': 'Juan César Silva',
 #Kazbek Tambi., Kazbek Tambi
 'Darío Husain': 'Darío Husaín', 
 'Ricardo Gonzalez': 'Ricardo González',
@@ -191,7 +196,6 @@ basic = {
 'Sebastien Cretinoir': 'Sébastien Crétinoir',
 'Jaime Moron': 'Jaime Morón', 
 'Jose Luis Villarreal': 'José Luis Villarreal',
-'Jorge Vazquez': 'Jorge Vázquez',
 
 'Martin Zapata': 'Martín Zapata', 
 #Alvaro Gutíerrez, Alvaro Gutiérrez
@@ -201,7 +205,7 @@ basic = {
 'Gabriel Gonzalez': 'Gabriel González',
 
 'Cesar Hines': 'César Hines', 
-'Frank O\’Hara', 'Frank O\'Hara',
+'Frank O\’Hara': 'Frank O\'Hara',
 
 'Jose Manuel Ramos Delgado': 'José Manuel Ramos Delgado', 
 #Héctor del Angel, Héctor del Ángel
@@ -309,7 +313,7 @@ basic = {
 #Perez, Pérez, ?.Pérez
 'Jozef Wandzik': 'Józef Wandzik',
 'Roberto Gomez Junco': 'Roberto Gómez Junco',
-'Angel  Torres', 'Angel Torres',
+'Angel  Torres': 'Angel Torres',
 'Elías Jacomé': 'Elías Jácome',
 
 'Jose Dimas Larrosa': 'José Dimas Larrosa', 
@@ -499,7 +503,7 @@ basic = {
 
 'Victor Herrera': 'Víctor Herrera', 
 #Dixon, ? Dixon, Dixon?
-'Franck Songo’o', 'Franck Songo\'o',
+'Franck Songo’o': 'Franck Songo\'o',
 'Frank Songo\'o': 'Franck Songo\'o',
 'Frank Songo’o': 'Franck Songo\'o',
 #Alarcón, Alarcon
@@ -809,7 +813,7 @@ basic = {
 #Gamez, Gámez
 
 'Adalberto Lopez': 'Adalberto López', 
-'Marvin Antonio Chávez': 'Marvin Chavez',, 
+'Marvin Antonio Chávez': 'Marvin Chavez', 
 'Marvin Antonio Chavez': 'Marvin Chavez',
 
 'Wilmer Velasquez': 'Wilmer Velásquez', 
@@ -846,12 +850,12 @@ basic = {
 
 'Yenier Marquez': 'Yenier Márquez', 
 'Jorge Martinez': 'Jorge Martínez', 
-'Jose Luis Aussin', 'José Luis Aussin',
+'Jose Luis Aussin': 'José Luis Aussin',
 'Li Yi\'nan': 'Li Yinan', 
 'Li Yi’nan': 'Li Yinan', 
 #Edu, Edú
 #J. Fernandez, J. Fernández
-'Aurelien Capoue': 'Aurélien Capoue'
+'Aurelien Capoue': 'Aurélien Capoue',
 'Hugo Rodriguez': 'Hugo Rodríguez',
 'Cristian Castillo': 'Cristián Castillo',
 'Jose Ruiz': 'José Ruiz', 
@@ -911,33 +915,44 @@ basic = {
 'Genaro Benitez': 'Genaro Benítez',
 
 'Jose Roberto Wright': 'José Roberto Wright', 
-Jose Maria Huerta, José María Huerta
-Francisco González, Francisco Gonzalez
-Luís Alberto, Luis Alberto
-Mnguni, Mnguni
-Raúl Estévez, Raúl Estevez
-Roberto Zárate, Roberto Zarate
-Vevé, Veve
-Claudio Husain, Claudio Husaín
-Jean Victor Lavril, Jean-Victor Lavril
-Oscar García, Oscar Garcia
-Allan Moisés Lalín, Allan Moisés Lalin, Allan Moises Lalin
-Leandro Gracian, Leandro Gracián
-Anthony Angély, Anthony Angely
-Jose Luis Praddaude, José Luis Praddaude
-Manuel Gutiérrez, Manuel Gutierrez
-Wilber Alejandro Sánchez, Wilber Alejandro Sanchez
-Gaston Castro, Gastón Castro
-Melendez, Meléndez
-Fabián Andrés Vargas, Fabian Andres Vargas
-Ahn Jung-hwan, Ahn Jung Hwan
-Patiño, Patino
-Brown, . Brown
-De Los Santos, De los Santos
-Luis Ubiña, Luis Ubina
-Cesar Charun, César Charún
-Hélton, Helton
-Rafe Wolfe, Rafe' Wolfe
+'Jose Maria Huerta': 'José María Huerta',
+
+'Francisco Gonzalez': 'Francisco González', 
+#Luís Alberto, Luis Alberto
+#Mnguni, Mnguni
+
+'Raúl Estevez': 'Raúl Estévez', 
+
+'Roberto Zarate': 'Roberto Zárate', 
+#Vevé, Veve
+'Claudio Husain': 'Claudio Husaín',
+'Jean Victor Lavril': 'Jean-Victor Lavril',
+
+'Oscar Garcia': 'Oscar García', 
+#Allan Moisés Lalín, Allan Moisés Lalin, Allan Moises Lalin
+'Leandro Gracian': 'Leandro Gracián',
+
+'Anthony Angely': 'Anthony Angély',
+'Jose Luis Praddaude': 'José Luis Praddaude',
+
+'Manuel Gutierrez': 'Manuel Gutiérrez', 
+
+'Wilber Alejandro Sanchez': 'Wilber Alejandro Sánchez', 
+'Gaston Castro': 'Gastón Castro',
+#Melendez, Meléndez
+
+'Fabian Andres Vargas': 'Fabián Andrés Vargas', 
+'Ahn Jung-hwan': 'Ahn Jung-Hwan',
+'Ahn Jung Hwan': 'Ahn Jung-Hwan',
+#Patiño, Patino
+#Brown, . Brown
+#De Los Santos, De los Santos
+
+'Luis Ubina': 'Luis Ubiña', 
+'Cesar Charun': 'César Charún',
+#Hélton, Helton
+
+#'Rafe\' Wolfe': 'Rafe Wolfe', 
 
 
 'David Martínez': 'David Martinez', 
@@ -963,12 +978,15 @@ Rafe Wolfe, Rafe' Wolfe
 #pearce, Pearce
 
 'Wilber Sanchez': 'Wilber Sánchez', 
-Angel Martínez, Angel Martinez, Ángel Martínez
-Luis German Del Carmen, Luis Germán Del Carmen
-C. Fernandez, C. Fernández
-Jorge Dávalos, Jorge Davalos
-Iván Ramiro Córdoba, Ivan Ramiro Cordoba
-Orlando Rodríguez, Orlando Rodriguez
+#Angel Martínez, Angel Martinez, Ángel Martínez
+'Luis German Del Carmen': 'Luis Germán Del Carmen',
+#C. Fernandez, C. Fernández
+
+'Jorge Davalos': 'Jorge Dávalos', 
+
+'Ivan Ramiro Cordoba': 'Iván Ramiro Córdoba', 
+
+'Orlando Rodriguez': 'Orlando Rodríguez', 
 #Guzman, Guzmán
 
 'Fabian Coelho': 'Fabián Coelho', 
@@ -994,7 +1012,7 @@ Orlando Rodríguez, Orlando Rodriguez
 
 'David Sanchez': 'David Sánchez', 
 'Dj Countess': 'D.J. Countess', 
-'Ramirez Perales': 'Ramírez Perales'
+'Ramirez Perales': 'Ramírez Perales',
 'Raul Decaria': 'Raul DeCaria',
 'Shin Young-rok': 'Shin Young-Rok',
 'Shin Young Rok': 'Shin Young-Rok',
@@ -1094,8 +1112,8 @@ Orlando Rodríguez, Orlando Rodriguez
 
 'Victor Bernárdez': 'Víctor Bernárdez', 
 'Nilson Perez': 'Nilson Pérez',
-'Kim Sam-soo': 'Kim Sam Soo',
-'Kim Sam Soo': 'Kim Sam Soo',
+'Kim Sam-soo': 'Kim Sam-Soo',
+'Kim Sam Soo': 'Kim Sam-Soo',
    
     'Franz St. Lot': 'Frantz St. Lot',
     'PJ Johns': 'P.J. Johns',
@@ -1728,16 +1746,13 @@ Orlando Rodríguez, Orlando Rodriguez
 'Mario Tito': 'Mário Tito',
 
 'Miguel Angel Zepeda': 'Miguel Ángel Zepeda',
-'José Herrera': 'Jose Herrera',
 'Chicao': 'Chicão',
-'Jorge Ramírez': 'Jorge Ramirez',
 'Alberto Gonzalez': 'Alberto González',
 'Hector Chumpitaz': 'Héctor Chumpitaz',
 
 'Jose Bustamante': 'José Bustamante',
 
 'Juan Roman Riquelme': 'Juan Román Riquelme',
-'Manuel Gutiérrez': 'Manuel Gutierrez',
 
 'Hector Altamirano': 'Héctor Altamirano',
 'Leonardo Veliz': 'Leonardo Véliz',
@@ -1768,7 +1783,6 @@ Orlando Rodríguez, Orlando Rodriguez
 'Jorge Bolanos': 'Jorge Bolaños',
 
 'Casiano Cespedes': 'Casiano Céspedes',
-'Héctor Rubén Sosa': 'Hector Ruben Sosa',
 'Jose Varacka': 'José Varacka',
 'Jose Luis Sierra': 'José Luis Sierra',
 'Jose Morales': 'José Morales',
@@ -1786,7 +1800,6 @@ Orlando Rodríguez, Orlando Rodriguez
 
 'Hector Salva': 'Héctor Salvá',
 
-'José Rodríguez': 'Jose Rodriguez',
 'Vagner Love': 'Vágner Love',
 'Oscar Miguez': 'Oscar Míguez',
 
@@ -6250,3 +6263,5 @@ names.update(usmnt)
     'Christian Jimenez': 'Christian Jiménez',
     'Toni Stahl': 'Toni Ståhl',
 """
+
+check_for_name_loops()

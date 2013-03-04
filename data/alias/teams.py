@@ -6,6 +6,23 @@ from soccerdata.mongo import soccer_db
 teams = {}
 
 
+
+
+# Handle name loops before processing everything.
+def check_for_team_loops():
+    errors = False
+    for e in teams.keys():
+        try:
+            get_team(e)
+        except:
+            print e
+            errors = True
+
+    if errors:
+        raise
+
+
+
 def get_team(name, competition=None):
     # Remove pre_dict, competition from get_team
     #print name
@@ -46,6 +63,63 @@ slugs = {
 
 
 world = {
+
+
+'UC-Santa Barbara': 'UC Santa Barbara',
+'Akron Clan Mackenzie FC': 'Akron Clan MacKenzie FC',
+#[<Team: headhunter>, <Team: HeadHunter>]
+'Prague Americans': 'Prague-Americans',
+'Velez Sarsfield': 'Vélez Sarsfield',
+'Pepsi Cola': 'Pepsi-Cola',
+'Dep. Carcha': 'Deportivo Carchá',
+'Dep. Carchá': 'Deportivo Carchá',
+#[<Team: Olimpia (Paraguay>, <
+'Olimpia (Paraguay)': 'Club Olimpia',
+
+'Saint Vincent and The Grenadines': 'Saint Vincent and the Grenadines',
+'Atletico Mineiro': 'Atlético Mineiro',
+
+'Newells Old Boys': 'Newell\'s Old Boys', 
+#[<Team: scaryice>, <Team: Scaryice>]
+'Cote d\'Ivoire': 'Côte d\'Ivoire',
+'Critchleys': 'Critchley\'s',
+'Amatitlan': 'Amatitlán',
+'East Newark Scottish American FC': 'East Newark Scottish-American FC',
+'Mexico FC': 'México FC',
+'Teculutan': 'Teculután',
+
+'US Virgin Islands': 'U.S. Virgin Islands',
+#Dominican Rep>, <Team: Dominican Rep.>]
+
+'SIU-Edwardsville': 'SIU Edwardsville',
+'IRT FC': 'IRT F.C.',
+'A.S. Roma': 'AS Roma',
+'Sao Paulo FC': 'São Paulo FC',
+'Beijing Guo\'an': 'Beijing Guoan',
+
+
+'Mexico': 'México',
+'Peru': 'Perú',
+
+'Malmo FF': 'Malmö FF',
+'Gremio': 'Grêmio',
+#[<Team: Nacional (Uruguay
+'Nacional (Uruguay)': 'Club Nacional',
+#[<Team: Sean/Geneva>, <Team: Sean.../Geneva>]
+'Cal State-Fullerton': 'Cal State Fullerton',
+'ADO': 'Ado Den Haag',
+'A.D.O.': 'ADO Den Haag',
+'Caribbean All Stars': 'Caribbean All-Stars',
+'Trenton Americans': 'Trenton-Americans',
+'Atletico Nacional': 'Atlético Nacional',
+'Cerro Porteno': 'Cerro Porteño',
+'St Lawrence': 'St. Lawrence',
+#[<Team: appooOnU>, <Team: AppooOnU>]
+'Dublin FC': 'Dublin F.C.',
+'Santa Lucía': 'Santa Lucia', # Is this saint lucia?
+#[<Team: gomichigan24>, <Team: GoMichigan24>]
+'Odea High School, WA': 'O\'Dea High School, WA',
+
 
     'Hadjuk Split': 'Hajduk Split',
     'Victoria State (Australia)': 'Victoria XI',
@@ -2071,8 +2145,6 @@ college = {
 
     # Colleges
     'UIC': 'University of Illinois at Chicago',
-    'Cal State Fullerton': 'Cal State-Fullerton',
-    'SIU Edwardsville': 'SIU-Edwardsville',
 
     'UC-Santa Barbara': 'UC Santa Barbara',
 
@@ -2101,7 +2173,7 @@ college = {
     'State University of Iowa': 'Iowa State University',
     'Washington & Lee': 'Washington & Lee University',
     'Minnesota College': 'University of Minnesota',
-    'UNC Charlotte': 'UNC-Charlotte',
+    'UNC-Charlotte': 'UNC Charlotte',
     
     # High schools
     'Odea High School, WA': 'O\'Dea High School, WA',
@@ -2136,7 +2208,6 @@ international = {
     'United Sates U-23': 'United States U-23',
     'Bermuda Under-23': 'Bermuda U-23',
     'Trinidad & Tobago': 'Trinidad and Tobago',
-    'Perú': 'Peru',
     'España': 'Spain',
     'Irak': 'Iraq',
     'Southafrica': 'South Africa',
