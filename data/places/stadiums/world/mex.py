@@ -140,6 +140,22 @@ l = [
         'capacity': 32864,        
         },
 
+
+    {
+        'name': 'Estadio Caliente',
+        'location': 'Tijuana, Mexico',
+        'opened': datetime.datetime(2007, 11, 11),
+        'capacity': 21000,
+        'cost': 30000000,
+        },
+
+    {
+        'name': 'El Volcan',
+        'location': 'San Nicolas de los Garza, Nuevo Leon, Mexico',
+        'opened': datetime.datetime(1967, 5, 30),
+        'capacity': 45000,
+        },
+
     {
         'name': 'Estadío Universitario de Monterrey',
         'location': 'Monterrey, Mexico',

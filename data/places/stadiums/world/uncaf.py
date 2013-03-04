@@ -15,6 +15,12 @@ l = [
         'capacity': 39043,
         },
 
+        {
+        'name': 'Estadio Independencia (Esteli)',
+        'location': 'Estelí, Nicaragua',
+        'capacity': 5000,
+        },
+
 
         {
         'name': 'Estadio Excélsior',

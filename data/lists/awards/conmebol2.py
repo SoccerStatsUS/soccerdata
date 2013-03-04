@@ -25,3 +25,23 @@ copa_merconorte = {
         (2001, 'Millonarios'),
         ],
 }
+
+
+copa_sudamericana = {
+    'competition': 'Copa Sudamericana',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (2002, 'San Lorenzo'),
+        (2003, 'Cienciano'),
+        (2004, 'Boca Juniors'),
+        (2005, 'Boca Juniors'),
+        (2006, 'Pachuca'),
+        (2007, 'Arsenal (Argentina)'),
+        (2008, 'Internacional'),
+        (2009, 'LDU Quito'),
+        (2010, 'Independiente'),
+        (2011, 'Universidad de Chile'),
+        (2012, 'Sao Paulo'),
+        ],
+}

@@ -620,6 +620,13 @@ l = [
         'capacity': 36000,
         },
 
+    {
+        'name': 'Estadio José Dellagiovanna',
+        'location': 'Victoria, Argentina',
+        'opened': datetime.datetime(1936, 9, 30),
+        'capacity': 26282,
+        },
+
 
     {
         'name': 'Estadio Monumental Antonio Vespucio Liberti',
@@ -931,6 +938,207 @@ l = [
         'opened': datetime.datetime(1960, 10, 2),
         'capacity': 67428,
         },
+
+    {
+        'name': 'Estadio de Liga Deportiva Universitaria',
+        'location': 'Quito, Ecuador',
+        'opened': datetime.datetime(1997, 3, 6),
+        'capacity': 55104,
+        'cost': 16000000,
+        },
+
+
+    {
+        'name': 'Estadio Luis Franzini',
+        'location': 'Montevideo, Uruguay',
+        'opened': datetime.datetime(1963, 12, 31),
+        'capacity': 18000,
+        },
+
+    {
+        'name': 'Estadio Manuel Murillo Toro',
+        'location': 'Ibagué, Colombia',
+        'opened': datetime.datetime(1955, 6, 20),
+        'capacity': 30000,
+        },
+
+    {
+        'name': 'Estadio José Antonio Anzoátegui',
+        'location': 'Puerto La Cruz, Venezuela',
+        'opened': datetime.datetime(1965, 12, 8),
+        'capacity': 37485,
+        'cost': 60400000,
+        },
+
+    {
+        'name': 'Estadio Tierra de Campeones',
+        'location': 'Iquique, Chile',
+        'opened': 1993,
+        'capacity': 12000,
+        },
+
+    {
+        'name': 'Arena do Grêmio',
+        'location': 'Porto Alegre, Brazil',
+        'opened': datetime.datetime(2012, 12, 8),
+        'capacity': 60540,
+        },
+
+    {
+        'name': 'Gran Parque Central',
+        'location': 'Montevideo, Uruguay',
+        'opened': 1900,
+        'capacity': 25000,
+        },
+
+    {
+        'name': 'Estadio Marcelo Bielsa',
+        'location': 'Rosario, Argentina',
+        'opened': datetime.datetime(1911, 7, 23),
+        'capacity': 38095,
+        }, 
+
+    {
+        'name': 'Estadio CAP',
+        'location': 'Talcahuano, Chile',
+        'opened': datetime.datetime(2009, 9, 27),
+        'capacity': 10500,
+        }, 
+
+    {
+        'name': 'Estadio Julio Humberto Grondona',
+        'location': 'Buenos Aires, Argentina',
+        'opened': 1964,
+        'capacity': 18300,
+        }, 
+
+    {
+        'name': 'Estadio Dr. Nicolás Leoz',
+        'location': 'Asuncion, Paraguay',
+        'opened': 2005,
+        'capacity': 12000,
+        }, 
+
+    {
+        'name': 'Estadio Víctor Agustín Ugarte',
+        'location': 'Potosi, Bolivia',
+        'capacity': 32000,
+        }, 
+
+    {
+        'name': 'Estadio Santa Laura-Universidad SEK',
+        'location': 'Santiago, Chile',
+        'opened': 1923,
+        'capacity': 22000,
+        }, 
+
+
+    {
+        'name': 'Estadio Huancayo',
+        'location': 'Huancayo, Peru',
+        'opened': 1962,
+        'capacity': 17000,
+        }, 
+
+
+    {
+        'name': 'Estadio San Carlos de Apoquindo',
+        'location': 'Santiago, Chile',
+        'opened': 1988,
+        'capacity': 16000,
+        }, 
+
+
+    {
+        'name': 'Estadio Ciudad de Lanús',
+        'location': 'Lanus, Argentina',
+        'opened': datetime.datetime(1929, 2, 24),
+        'capacity': 46519,
+        }, 
+
+
+    {
+        'name': 'Estadio Nacional Julio Martinez Pradanos',
+        'location': 'Santiago, Chile',
+        'opened': datetime.datetime(1938, 12, 3),
+        'capacity': 47000,
+        }, 
+
+
+    {
+        'name': 'Estadio Tomás Adolfo Ducó',
+        'location': 'Buenos Aires, Argentina',
+        'opened': datetime.datetime(1941, 10, 26),
+        'capacity': 48314,
+        }, 
+
+    {
+        'name': 'Estadio Presidente Juan Domingo Perón',
+        'location': 'Avellaneda, Argentina',
+        'opened': datetime.datetime(1950, 9, 3),
+        'capacity': 51389,
+        }, 
+
+
+    {
+        'name': 'Estádio Olímpico João Havelange',
+        'location': 'Rio de Janeiro, Brazil',
+        'opened': 2007, 
+        'capacity': 46931,
+        'cost': 192000000,
+        }, 
+
+
+    {
+        'name': 'Estadio Roberto Bettega',
+        'location': 'Asuncion, Paraguay',
+        'capacity': 15000,
+        }, 
+
+    {
+        'name': 'Estadio Rogelio Livieres',
+        'location': 'Asuncion, Paraguay',
+        'capacity': 8000,
+        }, 
+
+
+    {
+        'name': 'Estadio El Teniente',
+        'location': 'Rancagua, Chile',
+        'opened': 1945,
+        'capacity': 14450,
+        }, 
+
+
+    {
+        'name': 'Estadio Aliardo Soria',
+        'location': 'Pucallpa, Peru',
+        'opened': 2007,
+        'capacity': 25000,
+        }, 
+
+
+    {
+        'name': 'Arena Barueri',
+        'location': 'Barueri, Brazil',
+        'opened': datetime.datetime(2007, 5, 26),
+        'capacity': 35000,
+        }, 
+
+
+    {
+        'name': 'Estadio Ciudad de Cumaná',
+        'location': 'Ayacucho, Peru',
+        'opened': datetime.datetime(1974, 12, 9),
+        'capacity': 15000,
+        }, 
+
+    {
+        'name': 'Estadio Libertadores de América',
+        'location': 'Avellaneda, Argentina',
+        'opened': datetime.datetime(2009, 10, 28),
+        'capacity': 40000,
+        }, 
 
     
 
