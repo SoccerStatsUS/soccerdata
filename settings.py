@@ -15,24 +15,40 @@ STAT_TABLES = [
 
 # Sources are listed in terms of reliability; Order affects priority when merging games.
 SOURCES = [
-    'asl',
-    'nasl',
-    'mls',
+
+    'world_i',
+    'fifa',
+    'olympics',
+
+    'concacaf_i',
+    'conmebol_i',
+    'oceania_i',
+    'copa_america',
+
+    'world',
+    'concacaf',
+    'conmebol',
+    'oceania',
+    'uncaf',
 
     'afa_cup',
     'open_cup',
 
-    'olympics',
-    'fifa',
+    'asl',
+    'nasl',
+
+    'mls',
+    'mls2',
+    'mls_playoffs',
+    'mls_soccernet',
+    'mls_reserve',
 
     'melvin',
     'tours',
     'state',
-
-    'nafbl',
-
-    'esl',
     'lewis_cup',
+    'nafbl',
+    'esl',
     'asl2',
     'isl',
     #'indoor',
@@ -43,26 +59,12 @@ SOURCES = [
     'pdl',
     'misl',
 
-    'mls_playoffs',
-    'mls_soccernet',
-    'mls_reserve',
     'ussf2',
     'nasl2',
     'city',
     'ncaa',
     #'world_cup',
     'usa',
-
-    'uncaf',
-    'copa_america',
-    'concacaf',
-    'world',
-    'conmebol',
-    'concacaf_i',
-    'conmebol_i',
-    'oceania',
-    'oceania_i',
-
 
     'mexico',
     'canada',

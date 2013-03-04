@@ -184,7 +184,11 @@ class GeneralProcessor(object):
         # Add a source.
         if line.startswith("Source:"):
             source = line.split("Source:")[1].strip()
-            self.games[-1]['sources'].append(source)
+            try:
+                self.games[-1]['sources'].append(source)
+            except:
+                import pdb; pdb.set_trace()
+
             return
 
         if line.startswith('BlockSource:'):

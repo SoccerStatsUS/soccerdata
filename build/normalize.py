@@ -297,7 +297,11 @@ def normalize_lineup(e):
     
     e['competition'] = get_competition(e['competition'])
     e['team'] = get_team(e['team'])
-    e['name'] = get_name(e['name'])
+
+    try:
+        e['name'] = get_name(e['name'])
+    except:
+        import pdb; pdb.set_trace()
 
     if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
         e['on'] = e['on'][:-1]

@@ -59,6 +59,9 @@ def generate_competition_stats():
     competition_generate('Copa Centroamericana')
     competition_generate('Caribbean Cup')
     competition_generate('Copa America')
+    competition_generate('Copa Merconorte')
+    competition_generate('Copa Mercosur')
+
 
     competition_generate('CONCACAF Champions League')
     competition_generate('CONCACAF Champions\' Cup')

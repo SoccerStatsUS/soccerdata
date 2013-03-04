@@ -124,9 +124,9 @@ def process_olympics_awards():
 
 
 def process_conmebol_awards():
-    from soccerdata.data.lists.awards.conmebol2 import copa_merconorte, copa_mercosur
+    from soccerdata.data.lists.awards.conmebol2 import copa_merconorte, copa_mercosur, copa_sudamericana
     from soccerdata.data.lists.awards.conmebol import copa_libertadores
-    return process_awards(copa_merconorte) + process_awards(copa_mercosur) + process_awards(copa_libertadores)
+    return process_awards(copa_merconorte) + process_awards(copa_mercosur) + process_awards(copa_libertadores) + process_awards(copa_sudamericana)
 
 
 def process_conmebol_international_awards():
