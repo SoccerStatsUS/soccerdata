@@ -1,4 +1,4 @@
-
+BlockSource: http://www.rsssf.com/sacups/copa67.html
 Competition: Copa Libertadores
 Season: 1967
 
@@ -72,6 +72,7 @@ Dirceu Lopes, Dirceu Lopes, Piazza; O.Ramírez
 * 3.Sport Boys (Callao)             8  2  1  5 10-11  5
 * 4.Deportivo Galicia (Caracas)     8  2  1  5  5-10  5
 * 5.Deportivo Italia (Caracas)      8  1  2  5  3-16  4
+
 
 Group: Group 2
 
@@ -171,7 +172,7 @@ Salas, Yepes; Blacutt, Taritolay
 * 5.Dep. Independiente Medellín    10  3  1  6 12-22  7
 * 6.31 de Octubre (La Paz)         10  2  1  7 12-29  5
 
-* Group 3 [Chile, Ecuador, Paraguay, Uruguay]
+
 Group: Group 3
 
 2/12/1967; Emelec; 3-0; Barcelona (Ecuador)
@@ -261,17 +262,18 @@ May 17: Colo Colo - Univ. Católica              4-2
     [F.Valdés(2), Toro, Zelada; Tobar, Aravena o/g]
 x played in Montevideo
 
- 1.Nacional (Montevideo)          12  9  1  2 34-12 19
- 2.Colo Colo (Santiago)           12  7  1  4 30-28 15
- 3.Univ. Católica (Santiago)      12  5  3  4 19-16 13
- 4.Guaraní (Asunción)             12  4  2  6 18-15 10
- 5.Emelec (Guayaquil)             12  4  1  7 16-24  9
- 6.Barcelona (Guayaquil)          12  4  1  7 14-24  9
- 7.Cerro Porteño (Asunción)       12  4  1  7 14-26  9
+* 1.Nacional (Montevideo)          12  9  1  2 34-12 19
+* 2.Colo Colo (Santiago)           12  7  1  4 30-28 15
+* 3.Univ. Católica (Santiago)      12  5  3  4 19-16 13
+* 4.Guaraní (Asunción)             12  4  2  6 18-15 10
+* 5.Emelec (Guayaquil)             12  4  1  7 16-24  9
+* 6.Barcelona (Guayaquil)          12  4  1  7 14-24  9
+* 7.Cerro Porteño (Asunción)       12  4  1  7 14-26  9
 
-Semi-Finals
+Round: Semi-Finals
 
-Group 1
+Group: Group 1
+
 May 31: Universitario - Colo Colo               3-0
     [Casaretto(2), Cruzado]
 Jun  1: River Plate - Racing Club               0-0    
@@ -323,10 +325,12 @@ Jul 16: Nacional - Peñarol                      2-2
 * 2.Cruzeiro (Belo Horizonte)       4  2  0  2  5- 6  4
 * 3.Peñarol (Montevideo)            4  1  1  2  5- 6  3
 
-Final (Aug 15 & 25)
+Round: Final 
+* (Aug 15 & 25)
 Racing Club              Arg  Nacional                 Uru   0-0  0-0
 
-Playoff (Aug 29) (in Santiago)
+* Playoff 
+* (Aug 29) (in Santiago)
 Racing Club              Arg  Nacional                 Uru   2-1
 
 1st leg. Mozart y Cuyo, Avellaneda, 15- 8-1967
