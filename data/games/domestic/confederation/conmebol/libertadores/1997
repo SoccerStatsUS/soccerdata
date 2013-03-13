@@ -52,18 +52,18 @@ Group: Group 2
 Group: Group 3 
 * [Bolivia, Colombia]
 
-3/13/1997; Junior; 1-0; América                      
-3/13/1997; San José; 2-1; Guabirá                    
-3/19/1997; Guabirá; 0-2; América                     
-3/22/1997; San José; 1-0; América                    
-3/26/1997; Junior; 5-1; Guabirá                      
-3/29/1997; América; 5-0; Guabirá                     
-4/3/1997; América; 2-0; Junior                      
-4/9/1997; Guabirá; 4-1; San José                    
-4/9/1997; San José; 2-0; Junior                     
-4/12/1997; Guabirá; 1-1; Junior                      
-4/16/1997; Junior; 1-0; San José                     
-4/19/1997; América; 2-0; San José                    
+3/13/1997; Junior (Colombia); 1-0; América Cali                      
+3/13/1997; San José (Bolivia); 2-1; Guabirá                    
+3/19/1997; Guabirá; 0-2; América Cali                     
+3/22/1997; San José (Bolivia); 1-0; América Cali                    
+3/26/1997; Junior (Colombia); 5-1; Guabirá                      
+3/29/1997; América Cali; 5-0; Guabirá                     
+4/3/1997; América Cali; 2-0; Junior (Colombia)                     
+4/9/1997; Guabirá; 4-1; San José (Bolivia)                   
+4/9/1997; San José (Bolivia); 2-0; Junior (Colombia)                    
+4/12/1997; Guabirá; 1-1; Junior (Colombia)                      
+4/16/1997; Junior (Colombia); 1-0; San José (Bolivia)
+4/19/1997; América Cali; 2-0; San José (Bolivia)
 
 * 1.América (Cali)                  6  4  0  2 11- 2 12
 * 2.Atlético Junior (Barranquilla)  6  3  1  2  8- 6 10
@@ -116,41 +116,66 @@ Group: Group 5
 Round: Second Round 
 * (5/1 & 8)
 
+5/1/1997; San Jose (Bolivia); 1-0; Barcelona (Ecuador)
+5/8/1997; Barcelona (Ecuador); 2-1; San Jose (Bolivia)
+* 4-2p
 
-San José                 Bol  Barcelona (Ecuador)                Ecu   1-0  1-2  2-2  2-4p
-San Lorenzo              Arg  Peñarol                  Uru   3-2  5-1  8-3
-Minervén                 Ven  América                  Col   1-1  1-4  2-5
-Espoli                   Ecu  Corinthians              Bra   1-3  0-2  1-5
-Sporting Cristal         Per  River Plate              Arg   2-1  2-5  4-6
-Cerro Porteño            Par  Atlético Junior          Col   0-0  0-1  0-1
-Universidad de Chile     Chi  Defensor Sporting        Uru   3-2  1-2  4-4  7-6p
-Botafogo                 Bra  Grêmio                   Bra   1-1  0-2  1-3
+5/1/1997; San Lorenzo; 3-2; Penarol
+5/8/1997; Penarol; 1-5; San Lorenzo
+
+5/1/1997; Minerven; 1-1; America Cali
+5/8/1997; America Cali; 4-1; Minerven
+
+5/1/1997; Espoli; 1-3; Corinthians
+5/8/1997; Corinthians; 2-0; Espoli
+
+5/1/1997; Sporting Cristal; 2-1; River Plate
+5/8/1997; River Plate; 5-2; Sporting Cristal
+
+5/1/1997; Cerro Porteno; 0-0; Atletico Junior
+5/8/1997; Atletico Junior; 1-0; Cerro Porteno
+
+5/1/1997; Universidad de Chile; 3-2; Defensor Sporting
+5/8/1997; Defensor Sporting; 2-1; Universidad de Chile
+
+5/1/1997; Botafogo; 1-1; Gremio
+5/8/1997; Gremio; 2-0; Botafogo
 
 
 Round: Quarter-Finals 
 * (5/15 & 22)
 
+5/15/1997; Universidad de Chile; 2-0; Barcelona (Ecuador)
+5/22/1997; Barcelona (Ecuador); 1-1; Universidad de Chile
 
-Universidad de Chile     Chi  Barcelona (Ecuador)                Ecu   2-0  1-1  3-1
-Atlético Junior          Col  América                  Col   1-1  0-1  1-2
-San Lorenzo              Arg  River Plate              Arg   1-2  1-1  2-3
-Corinthians              Bra  Grêmio                   Bra   0-3  1-0  1-3
+5/15/1997; Atletico Junior; 1-1; America Cali
+5/22/1997; America Cali; 1-0; Atletico Junior
+
+5/15/1997; San Lorenzo; 1-2; River Plate
+5/22/1997; River Plate; 1-1; San Lorenzo
+
+5/15/1997; Corinthians; 0-3; Gremio
+5/22/1997; Gremio; 0-1; Corinthians
 
 
 Round: Semi-Finals 
-* (6/5 & 12)
 
 
-Grêmio                   Bra  América                  Col   1-0  1-3  2-3x
-Universidad de Chile     Chi  River Plate              Arg   2-2  0-1  2-3
-x 1st leg 6/4
+6/4/1997; Gremio; 1-0; America Cali
+6/12/1997; America Cali; 3-1; Gremio
+
+6/5/1997; Universidad de Chile; 2-2; River Plate
+6/12/1997; River Plate; 1-0; Universidad de Chile
+
+
 
 
 Round: Final 
-* (6/19 & 26)
 
 
-América                  Col  River Plate              Arg   1-0  0-2  1-2
+6/19/1997; America Cali; 1-0; River Plate
+6/26/1997; River Plate; 2-0; America Cali
+
 
 *Thanks to Jaime Andrés Nieto (jnieto@fayol.univalle.edu.co), Alexandre Borges (alexandre.borges@persocom.com.br) and Sergio Montoya Rodriquez (smontoya@buho.dpi.udec.cl) for supplying scores.
 *Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
