@@ -65,80 +65,67 @@ slugs = {
 world = {
 
 
-'UC-Santa Barbara': 'UC Santa Barbara',
-'Akron Clan Mackenzie FC': 'Akron Clan MacKenzie FC',
-#[<Team: headhunter>, <Team: HeadHunter>]
-'Prague Americans': 'Prague-Americans',
-'Velez Sarsfield': 'Vélez Sarsfield',
-'Pepsi Cola': 'Pepsi-Cola',
-'Dep. Carcha': 'Deportivo Carchá',
-'Dep. Carchá': 'Deportivo Carchá',
-#[<Team: Olimpia (Paraguay>, <
-'Olimpia (Paraguay)': 'Club Olimpia',
-
-'Saint Vincent and The Grenadines': 'Saint Vincent and the Grenadines',
-'Atletico Mineiro': 'Atlético Mineiro',
-
-'Newells Old Boys': 'Newell\'s Old Boys', 
-#[<Team: scaryice>, <Team: Scaryice>]
-'Cote d\'Ivoire': 'Côte d\'Ivoire',
-'Critchleys': 'Critchley\'s',
-'Amatitlan': 'Amatitlán',
-'East Newark Scottish American FC': 'East Newark Scottish-American FC',
-'Mexico FC': 'México FC',
-'Teculutan': 'Teculután',
-
-'US Virgin Islands': 'U.S. Virgin Islands',
-#Dominican Rep>, <Team: Dominican Rep.>]
-
-'SIU-Edwardsville': 'SIU Edwardsville',
-'IRT FC': 'IRT F.C.',
-'A.S. Roma': 'AS Roma',
-'Sao Paulo FC': 'São Paulo FC',
-'Beijing Guo\'an': 'Beijing Guoan',
+    #'Cal State Fullerton': 'Cal State-Fullerton',
 
 
-'Mexico': 'México',
-'Peru': 'Perú',
-
-'Malmo FF': 'Malmö FF',
-'Gremio': 'Grêmio',
-#[<Team: Nacional (Uruguay
-'Nacional (Uruguay)': 'Club Nacional',
-#[<Team: Sean/Geneva>, <Team: Sean.../Geneva>]
-'Cal State-Fullerton': 'Cal State Fullerton',
-'ADO': 'Ado Den Haag',
-'A.D.O.': 'ADO Den Haag',
-'Caribbean All Stars': 'Caribbean All-Stars',
-'Trenton Americans': 'Trenton-Americans',
-'Atletico Nacional': 'Atlético Nacional',
-'Cerro Porteno': 'Cerro Porteño',
-'St Lawrence': 'St. Lawrence',
-#[<Team: appooOnU>, <Team: AppooOnU>]
-'Dublin FC': 'Dublin F.C.',
-'Santa Lucía': 'Santa Lucia', # Is this saint lucia?
-#[<Team: gomichigan24>, <Team: GoMichigan24>]
-'Odea High School, WA': 'O\'Dea High School, WA',
+    'Concepcion': 'Concepción',
+    'Criciuma': 'Criciúma',
+    'Cucuta Deportivo': 'Cúcuta Deportivo',
+    'Deportes Concepcion': 'Deportes Concepción',
+    'Deportivo Italchacao': 'Deportivo ItalChacao',
 
 
-    'Hadjuk Split': 'Hajduk Split',
+
+    'Litoral': 'Lítoral',
+    'Medellin': 'Medellín',
+    'Minerven': 'Minervén',
+    #'SIU Edwardsville': 'SIU-Edwardsville',
+
+    'St Lawrence': 'St. Lawrence',
+
+    #'UC Santa Barbara': 'UC-Santa Barbara',
+    #'UNC Charlotte': 'UNC-Charlotte',
+    'Union Espanola': 'Unión Española',
+    'Union Huaral': 'Unión Huaral',
+    'Universidad de Concepcion': 'Universidad de Concepción',
+    'Universidad San Martin': 'Universidad San Martín',
+    'Valdez S.C.': 'Valdez SC',
+
+    'UC-Santa Barbara': 'UC Santa Barbara',
+
+    #[<Team: headhunter>, <Team: HeadHunter>]
+    'Prague Americans': 'Prague-Americans',
+    'Pepsi Cola': 'Pepsi-Cola',
+    #[<Team: Olimpia (Paraguay>, <
+    'Saint Vincent and The Grenadines': 'Saint Vincent and the Grenadines',
+    #[<Team: scaryice>, <Team: Scaryice>]
+    'Cote d\'Ivoire': 'Côte d\'Ivoire',
+    'Critchleys': 'Critchley\'s',
+    'East Newark Scottish American FC': 'East Newark Scottish-American FC',
+    'Mexico FC': 'México FC',
+    'US Virgin Islands': 'U.S. Virgin Islands',
+    #Dominican Rep>, <Team: Dominican Rep.>]
+    'SIU-Edwardsville': 'SIU Edwardsville',
+    'IRT FC': 'IRT F.C.',
+    #[<Team: Nacional (Uruguay
+    #[<Team: Sean/Geneva>, <Team: Sean.../Geneva>]
+    'Cal State-Fullerton': 'Cal State Fullerton',
+    'Caribbean All Stars': 'Caribbean All-Stars',
+    'Trenton Americans': 'Trenton-Americans',
+    'St Lawrence': 'St. Lawrence',
+    #[<Team: appooOnU>, <Team: AppooOnU>]
+    'Dublin FC': 'Dublin F.C.',
+    'Santa Lucía': 'Santa Lucia', # Is this saint lucia?
+    #[<Team: gomichigan24>, <Team: GoMichigan24>]
+    'Odea High School, WA': 'O\'Dea High School, WA',
     'Victoria State (Australia)': 'Victoria XI',
     'Japanese League All-Stars': 'Japanese All-Stars',
-
     'William & Mary': 'William and Mary',
     
-
-    'Royal Arsenal': 'Arsenal',
-    'Newton Heath': 'Manchester United',
-    
-
     # Uncategorized.
     #03 Lunenburg (Germany)
     #Action Colonials (MA)
-    'Adelaide City (Australia)': 'Adelaide City',
-    'Alexis Florist (Toledo)': 'Toledo Alexis Florist',
     #Alianza DF (South CA)
-    'All Scots FC (Detroit)': 'Detroit All Scots FC',
     #American Hungarian FC (Illinois)
     #Armenian SC (South CA)
     #Arsenal (Petit-Bourg)
@@ -146,54 +133,47 @@ world = {
     #Atletico Indio (Honduras)
     #Ayulta (IL)
     #Banat German Sports (Cleveland)
-    'Batchelors Café (Baltimore)': 'Baltimore Batchelors Café',
-    'Beadling (West PA)': 'Beadling SC',
+
     #Berlin (Kitchener) High School
     #Bigelow Sanford (NY)
     #Boca Juniors (S. Ignacio)
     #Border Bandits (South TX)
     #Bradling Terriers (West PA)
-    'Bricklayers FC (Cleveland)': 'Cleveland Bricklayers FC',
-    'Bricklayers FC (Michigan)': 'Michigan Bricklayers FC',
-    'British War Veterans (Cleveland)': 'Cleveland British War Veterans',
-    'Busch SC (MO)': 'St. Louis Busch',
-    'Saint Louis Busch': 'St. Louis Busch',
-    'St. Louis Busch Seniors': 'St. Louis Busch',
+
     #Caldas (Portugal)
     'Cambridge Faialense (MA)': 'Cambridge Faialense',
     #Canadian Explosives (Beloeil)
-    'Carpenters FC (Chicago)': 'Chicago Carpenters FC',
+
     #Cavalier (Jamiaca)
     #CD Mexico (North CA)
     #Cecil French (West PA)
     #Cecil Legion (W. Pa.)
     #Celtic AFC (NW NY)
-    'Celtic FC (Detroit)': 'Detroit Celtic FC',
-    'Celtics FC (Cleveland)': 'Cleveland Celtics FC',
+
+
     #Celtics FC (New Jersey)
     #Cevle (Bryn)
-    'Clan MacKenzie FC (Akron)': 'Akron Clan MacKenzie FC',
+
     #Coleraine (Northern Ireland)
     
     #Croatia (AZ)
-    'Croatian SC (Chicago)': 'Chicago Croatian SC',
-    'Dalarda SC (Cleveland)': 'Cleveland Dalarda SC',
+
+
     #Danish American SC (South CA)
     'Danish FC (NYC)': 'New York Danish FC',
-    'Davis SC (Baltimore)': 'Baltimore Davis SC',
-    'Deutscher Sport Club (Milwaukee)': 'Milwaukee Deutscher Sport Club',
+
+
     #Deutschungarn (New York)
     #Donauschwaben (Philadelphia)
     #East (Hong Kong)
     #El Salvador (North CA)
-    'Estudiantes (Argentina)': 'Estudiantes de La Plata',
+
     #Exiles SC (South CA)
     #Fairhill (New York)
-    'Falk Field Club (Milwaukee)': 'Milwaukee Falk Field Club',
+
     #Fatigue Technology (WA)
-    'Favorite Knits FC (Cleveland)': 'Cleveland Favorite Knits FC',
-    'FC Dallas (Inter)': 'Dallas Mean Green',
-    'FC Dallas (North TX)': 'Dallas Mean Green',
+    'Dalarda SC (Cleveland)': 'Cleveland Dalarda SC',
+
     #FC Porto (NJ)
     #Flamengo SC (UT)
     'Flandria SC (Detroit)': 'Detroit Flandria SC',
@@ -202,7 +182,7 @@ world = {
     'Galway (Ireland)': 'Galway United FC',
     #Gauloise (Basse-Terre)
     #Genesis (GA)
-    'German AC (Rochester)': 'Rochester German AC',
+
     
     #German American SC (NYC)
     'German American SC (Philadelphia)': 'Philadelphia German Americans',
@@ -234,7 +214,7 @@ world = {
     'Hungarian Sports Club (Milwaukee)': 'Milwaukee Hungarian SC',
     #IAC (North CA)
     #Iberia (DC/VA)
-    'Independiente (Argentina)': 'CA Independiente',
+
     #Independiente (El Salvador)
     #Italian American Maroons (IL)
     #Jersey City (?x)
@@ -385,6 +365,7 @@ world = {
     'Vissel Kobe - Japan': 'Vissel Kobe',
 
     # China
+    'Beijing Guo\'an': 'Beijing Guoan',
     'Beijing Guoan - China': 'Beijing Guoan',
     'Guoan (China)': 'Beijing Guoan F.C.',
     'Quan Xing (China)': 'Sichuan Guancheng',
@@ -401,6 +382,7 @@ world = {
     'Zamalek': 'Zamalek SC',
 
     # Australia
+    'Adelaide City (Australia)': 'Adelaide City',
     'Sydney FC - Australia': 'Sydney FC',
     'Queensland Roar': 'Brisbane Roar',
 
@@ -437,6 +419,7 @@ world = {
     'Barcelona': 'FC Barcelona',
     'Barcelona (Spain)': 'FC Barcelona',
     'Barcelona B': 'FC Barcelona B',
+    'Español': 'RCD Espanyol',
     'Espanyol': 'RCD Espanyol',
     'Sabadell': 'CE Sabadell FC',
     'Valladolid': 'Real Valladolid',
@@ -445,7 +428,14 @@ world = {
     'Antwerp': 'Royal Antwerp F.C.',
     'Royal Antwerp': 'Royal Antwerp F.C.',
 
+    # Croatia
+
+    'Hadjuk Split': 'Hajduk Split',
+
     # Netherlands
+    'ADO': 'Ado Den Haag',
+    'A.D.O.': 'ADO Den Haag',
+
     'Ajax - Netherlands': 'Ajax',
     'Ajax': 'AFC Ajax',
     'Ajax Amsterdam': 'AFC Ajax',
@@ -466,6 +456,13 @@ world = {
     'Paris Saint-Germain': 'Paris Saint-Germain F.C.',
     'Paris St. Germain': 'Paris Saint-Germain F.C.',
 
+    # Serbia
+
+    'Crvena zvezda': 'SD Crvena Zvezda',
+    'Crvena Zvezda': 'SD Crvena Zvezda',
+    # Partizan Belgrad, Beograd, ...FK Partizan
+    'Partizan': 'Partizan Belgrade',
+
     # Greece
     'apollon': 'Apollon',
     'Apollon': 'Apollon Limassol',
@@ -485,6 +482,7 @@ world = {
     'Young Boys\' Club': 'BSC Young Boys',
 
     # Italy
+    'A.S. Roma': 'AS Roma',
     'Arezzo - Italy': 'Arezzo',
     'Bari': 'A.S. Bari',
     'Bologna': 'Bologna F.C. 1909',
@@ -558,6 +556,12 @@ world = {
     'Moscow Dynamo': 'FC Dynamo Moscow',
 
     # Scandinavia
+    #Sweden
+    #Norway
+    #Denmark
+
+    'Malmo FF': 'Malmö FF',
+
     'Gif Sundsvall': 'GIF Sundsvall',
     'Goteborg Orgryte': 'Örgryte IS',
     'Norrkoeping': 'IFK Norrköping',
@@ -567,7 +571,7 @@ world = {
     'Malmö': 'Malmö FF',
     'Lille': 'Lille OSC',
     
-    'Sao Paulo': 'Sao Paulo FC',
+
     'Oporto (Portugal)': 'Oporto',
     
 
@@ -594,6 +598,7 @@ world = {
     'IFK Gothenburg - Sweden': 'IFK Göteborg',
     'IFK Gothenburg': 'IFK Göteborg',
     'JFK Gothenburg (Sweden)': 'IFK Göteborg',
+
     'FinnPa - Finland': 'FinnPa',
     'Djurgardens IF': 'Djurgårdens IF',
     'Viborg - Denmark': 'Viborg',
@@ -665,6 +670,10 @@ world = {
     'Kilmarnock FC': 'Kilmarnock F.C.',
 
     # England
+    'Royal Arsenal': 'Arsenal',
+    'Newton Heath': 'Manchester United',
+
+
     'Aston Villa': 'Aston Villa F.C.',
     'Aston Villa - England': 'Aston Villa',
     'Birmingham City': 'Birmingham City F.C.',
@@ -723,11 +732,31 @@ world = {
     # South America
 
     # Venezuela
+    'Deportivo Tachira': 'Deportivo Táchira',
+    'Tachira': 'Deportivo Táchira FC',
+    'Táchira': 'Deportivo Táchira FC',
+    'Deportivo Táchira': 'Deportivo Táchira FC',
+    'Maritimo (Venezuela)': 'Marítimo (Venezuela)',
+    'Caracas F.C.': 'Caracas FC',
+
     'Italchacao -- Venezuela': 'Italchacao',
     'Italchacao': 'Deportivo Petare',
+    'Estudiantes (Venezuela)': 'Estudiantes de Mérida',
+    'Maritimo (Venezuela': 'C.S. Marítimo de Venezuela',
+
 
     # Colombia
+    'Boyaca Chico': 'Boyacá Chicó',
+    'Independiente Medellin': 'Independiente Medellín',
+    'América (Cali)': 'América Cali',
+    'Atletico Nacional': 'Atlético Nacional',
+    'Junior (Colombia': 'Junior de Barranquilla',
+    'Atletico Junior': 'Junior de Barranquilla',
+    'Atlético Junior': 'Junior de Barranquilla',
     'America de Cali': 'América de Cali',
+    'America (Cali)': 'América de Cali',
+    'América Cali': 'América de Cali',
+    'America Cali': 'América de Cali',
     'America de Cali - Colombia': 'America de Cali',
     'America-Cali': 'América de Cali',
     'Buenaventura - Colombia': 'Buenaventura',
@@ -738,39 +767,121 @@ world = {
     'Millionarios': 'Millonarios FC',
     'Millonarios': 'Millonarios FC',
     'Soacha FC - Colombia': 'Soacha FC',
+    'Indep. Medellín': 'Independiente Medellín',
+    'DIM': 'Independiente Medellín',
 
     # Ecuador
+    'LDU (Quito)': 'LDU Quito',
+    'America de Quito': 'América de Quito',
+    'Aucas': 'SD Aucas',
     'Barcelona -- Ecuador': 'Barcelona Sporting Club',
     'Barcelona (Ecuador)': 'Barcelona Sporting Club',
+    'El Nacional': 'CD El Nacional',
+    'LDU (Quito)': 'LDU Quito',
+    'Olmedo (Riobamba)': 'CD Olmedo',
+    'Everest': 'CD Everest',
 
     # Peru
+
+    'Leon de Huanuco': 'León de Huanuco',
+    'León de Huanuco': 'León de Huánuco',
+
+
+    'Sport Ancash': 'Sport Áncash',
     'Alianza Lima - Peru': 'Alianza Lima',
     'Sporting Cristal -- Peru': 'Sporting Cristal',
+    'Universitario (Peru)': 'Universitario',
+    'Universitario (Lima)': 'Universitario',
 
     # Bolivia
+    'Real Potosi': 'Real Potosí',
+    'Bolivar': 'Bolívar',
+
+    'San Jose (Oruro)': 'CD San José',
+    'San Jose (Bolivia': 'CD San José',
+    'San José (Bolivia)': 'CD San José',
+    'Universitario (Sucre)': 'CD Universitario San Francisco Xavier',
+    'Aurora (Bolivia)': 'Club Aurora',
+    '31 de Octubre': 'Club 31 de Octubre',
 
     # Paraguay
 
-    'Olimpia (Honduras)': 'Club Olimpia',
+    'Atletico Colegiales': 'Atlético Colegiales',
+    'Sol de America': 'Club Sol de América',
+    'Sol de América': 'Club Sol de América',
+    
+    'Nueve de Octubre': '12 de Octubre',
+
+    #'Guarani': 
+    'Guarani': 'Club Guaraní',
+    'Guaraní': 'Club Guaraní',
+    'Guarani (Paraguay)': 'Club Guaraní',
+    'Olimpia (Paraguay)': 'Club Olimpia',
+    'Cerro Porteno': 'Cerro Porteño',
+    'Nacional (Paraguay)': 'Club Nacional',
+    'Nacional (Asunción)': 'Club Nacional',
+    'Nacional (Asuncin)': 'Club Nacional',
+
+
 
     # Chile
+
+
+
+    'Everton (Chile)': 'Everton de Viña del Mar',
+    'O\'Higgins': 'O\'Higgins F.C.',
+    
     'Colo Colo - Chile': 'Colo Colo',
     'Colo Colo': 'Colo-Colo',
     'Magallanes - Chile': 'Magallanes',
     'Magallanes': 'Deportes Magallanes',
+
     'Palestino - Chile': 'Palestino',
+    'Palestino': 'CD Palestino',
+
     'San Felipe - Chile': 'Unión San Felipe',
     'Union San Felipe': 'Unión San Felipe',
     'Universidad de Chile - Chile': 'Club Universidad de Chile',
     'Universidad Catolica - Chile': 'CD Universidad Católica',
     'Universidad Catolica': 'CD Universidad Católica',
+    'Uni. Católica': 'CD Universidad Católica',
+    'Univ. Católica': 'CD Universidad Católica',
 
     # Uruguay
-    'Nacional': 'Club Nacional de Football',
+
+
+    
+    'Defensor': 'Defensor SC',
+    'Defensor Sporting': 'Defensor SC',
+    'Danubio': 'Danubio FC',
+    'Liverpool (Montevideo)': 'Liverpool FC (Montevideo)',
+    'Liverpool (Uruguay)': 'Liverpool FC (Montevideo)',
+    
+    'Nacional de Montevideo': 'Nacional',
+    'Club Nacional de Football': 'Nacional',
     'Nacional -- Uruguay': 'Nacional',
+    'Nacional (Montevideo)': 'Nacional',
+    'Nacional (Uruguay)': 'Nacional',
     'Penarol': 'C.A. Peñarol',
+    'Racing (Montevideo)': 'Racing Club de Montevideo',
 
     # Argentina
+    'Lanus': 'Lanús',
+    'Huracan': 'Huracán',
+    'Estudiantes': 'Estudiantes de La Plata',
+    'San Lorenzo': 'San Lorenzo de Almagro',
+    'San Lorenzo Alm.': 'San Lorenzo de Almagro',
+    'Newells Old Boys': 'Newell\'s Old Boys', 
+    'Estudiantes (Argentina)': 'Estudiantes de La Plata',
+    'Independiente (Argentina)': 'CA Independiente',
+    'Velez Sarsfield': 'Vélez Sarsfield',
+    'Arsenal (Argentina)': 'Arsenal de Sarandí',
+    'Arsenal de Sarandi': 'Arsenal de Sarandí',
+    'Colon (Argentina)': 'CA Colon',
+    'Colon (Santa Fe)': 'CA Colon',
+    'Colon': 'CA Colon',
+    'Colón': 'CA Colon',
+    'CA Colon': 'CA Colón',
     'Belgrano': 'Club Atlético Belgrano',
     'Boca Juniors - Argentina': 'Boca Juniors',
     'Deportivo Moron': 'Deportivo Morón',
@@ -783,6 +894,29 @@ world = {
     'San Lorenzo - Argentina': 'San Lorenzo',
 
     # Brazil
+
+    'Avai': 'Avaí FC',
+    'Avaí': 'Avaí FC',
+
+    'Parana': 'Paraná',
+    'Sao Caetano': 'São Caetano',
+
+    'Goias': 'Goiás EC',
+    'Goiás': 'Goiás EC',
+    'Goias EC': 'Goiás EC',
+    'Atletico Paranaense': 'Atlético Paranaense',
+
+    
+    'Sao Paulo FC': 'São Paulo FC',
+    'Sao Paulo': 'São Paulo FC',
+    'São Paulo': 'São Paulo FC',
+
+
+    'Atletico Mineiro': 'Atlético Mineiro',
+    'Gremio': 'Grêmio',
+    'Gremio (Porto Alegre)': 'Grêmio',
+    'Vitoria (Salvador)': 'EC Vitória',
+    'Parana Clube': 'Paraná Clube',
     'America de Rio de Janeiro': 'America Rio',
     'America RJ': 'America Rio',
     'Bangu AC': 'Bangu Atlético Clube',
@@ -797,6 +931,7 @@ world = {
     'Palmeiras - Brazil': 'Palmeiras',
     'Santos (Brazil)': 'Santos FC',
     'Santos': 'Santos FC',
+    'Sport (Recife)': 'Sport Club do Recife',
     'Uberlandia (Brazil)': 'Uberlândia Esporte Clube',
     'Uberlandia': 'Uberlândia Esporte Clube',
     'Vasco da Gama -- Brazil': 'Vasco da Gama',
@@ -927,9 +1062,20 @@ world = {
     'Leslie Verdes': 'Club Verdes',
 
     # Guatemala
+
+    'Suchitepéquez': 'C.D. Suchitepéquez',
+
+    'Teculutan': 'Teculután',
+    'Amatitlan': 'Amatitlán',
+    'Dep. Carcha': 'Deportivo Carchá',
+    'Dep. Carchá': 'Deportivo Carchá',
+    'Juv. Retalteca': 'Juventud Retalteca',
+    'Juventud R.': 'Juventud Retalteca',
+
     'Aurora': 'Aurora F.C.',
     'Coban - Guatemala': 'Coban',
     'Coban': 'Cobán Imperial',
+    'Cobán': 'Cobán Imperial',
     'Coban Imperial': 'Cobán Imperial',
     'Comunicaciones': 'C.S.D. Comunicaciones',
     'Comunciaciones': 'C.S.D. Comunicaciones',
@@ -948,6 +1094,7 @@ world = {
     'Suchitepequez': 'C.D. Suchitepéquez',
     'USAC': 'Universidad de San Carlos',
     'Xelaju': 'Xelajú MC',
+    'Xelajú': 'Xelajú MC',
     'Xelaju MC': 'Xelajú MC',
     'Zacapa': 'Deportivo Zacapa',
 
@@ -956,6 +1103,7 @@ world = {
     'Motagua': 'CD Motagua',
     'Motagua -- Honduras': 'Motagua',
     'Olimpia': 'CD Olimpia',
+    'Olimpia (Honduras)': 'CD Olimpia',
 
     'Olympia - Honduras': 'CD Olimpia',
     'CD Olympia-- Honduras': 'CD Olimpia',
@@ -1016,6 +1164,7 @@ world = {
     'Celaya': 'Celaya FC',
     'Colima Jaguares (Mexico)': 'Colima Jaguares',
     'Colima Jaguares - Mexico': 'Colima Jaguares',
+    'CD Cruz Azul': 'Cruz Azul',
     'Cruz Azul (Mexico)': 'Cruz Azul',
     'Cruz Azul - Mexico': 'Cruz Azul',
     'Cruz Azul -- Mexico': 'Cruz Azul',
@@ -1416,6 +1565,8 @@ usa = {
     'McCormick Kickers': 'St. Petersburg Kickers',
 
     # Wisconsin
+    'Deutscher Sport Club (Milwaukee)': 'Milwaukee Deutscher Sport Club',
+    'Falk Field Club (Milwaukee)': 'Milwaukee Falk Field Club',
     'Milwaukee Bavarian': 'Milwaukee Bavarian SC',
     'Milwaukee Bavarian Blue Ribbon': 'Milwaukee Bavarian SC',
     'Bavarian SC (WI)': 'Milwaukee Bavarians SC',
@@ -1456,6 +1607,9 @@ usa = {
     'Mitre Eagles (WA)': 'Seattle Mitre Eagles',
 
     # Michigan
+    'Celtic FC (Detroit)': 'Detroit Celtic FC',
+    'All Scots FC (Detroit)': 'Detroit All Scots FC',
+    'Bricklayers FC (Michigan)': 'Michigan Bricklayers FC',
     'Holley C.': 'Holley Carburetor F.C.',
 
     'Packard FC': 'Detroit Packard FC',
@@ -1469,6 +1623,9 @@ usa = {
     'Sioux Falls SpitFire': 'Sioux Falls Spitfire',
 
     # Texas
+    'FC Dallas (Inter)': 'Dallas Mean Green',
+    'FC Dallas (North TX)': 'Dallas Mean Green',
+
     'Austin Aztex U23s': 'Austin Aztex U23',
     'Austin Lighting': 'Autin Lightning',
     'Autin Lightning': 'Austin Lightning',
@@ -1652,6 +1809,8 @@ usa = {
 
     # New York State
 
+    'German AC (Rochester)': 'Rochester German AC',
+
     'Rangers FC (Niagara Falls)': 'Niagara Falls Rangers',
 
 
@@ -1794,6 +1953,9 @@ usa = {
     'Erie A.A': 'Harrison Erie F.C.',
 
     # Illinois
+    'Croatian SC (Chicago)': 'Chicago Croatian SC',
+    'Carpenters FC (Chicago)': 'Chicago Carpenters FC',
+
     'Simmons SC': 'Simmons FC',
     'Pullman Professional FC': 'Pullman FC',
     'Pullman Association FC': 'Pullman FC',
@@ -1861,6 +2023,8 @@ usa = {
     'Hansa (IL)': 'Chicago Hansa',
 
     # Pennsylvania
+
+    'Beadling (West PA)': 'Beadling SC',
 
     'Heidelberg SC': 'Heidelberg S.C.',
     'Heidelberg Losegos': 'Heidelberg S.C.',
@@ -1954,6 +2118,11 @@ usa = {
     'Castle Shannon FC': 'Castle Shannon',
 
     # Missouri
+    'Busch SC (MO)': 'St. Louis Busch',
+    'Saint Louis Busch': 'St. Louis Busch',
+    'St. Louis Busch Seniors': 'St. Louis Busch',
+
+
     'Anderson S.C.': 'Andersons',
     'Anderson SC': 'Anderson S.C.',
 
@@ -2024,6 +2193,8 @@ usa = {
     'Raftery’s': 'Raftery Painters',
 
     # Maryland
+    'Davis SC (Baltimore)': 'Baltimore Davis SC',
+    'Batchelors Café (Baltimore)': 'Baltimore Batchelors Café',
     'Baltimore Pompei': 'Baltimore Pompei SC',
     'Tower Ford Casa Bianca': 'Casa Bianca',
     'Tower Ford': 'Tower Ford Casa Bianca',
@@ -2084,6 +2255,13 @@ usa = {
     'Whittal Carpet Mill': 'Whittal F.C.',
 
     # Ohio
+    'Favorite Knits FC (Cleveland)': 'Cleveland Favorite Knits FC',
+    'Clan MacKenzie FC (Akron)': 'Akron Clan MacKenzie FC',
+    'Akron Clan Mackenzie FC': 'Akron Clan MacKenzie FC',
+    'Celtics FC (Cleveland)': 'Cleveland Celtics FC',
+    'Alexis Florist (Toledo)': 'Toledo Alexis Florist',
+    'British War Veterans (Cleveland)': 'Cleveland British War Veterans',
+    'Bricklayers FC (Cleveland)': 'Cleveland Bricklayers FC',
 
     'Mahoning Valley FC': 'Mahoning Valley',
 
@@ -2212,6 +2390,10 @@ international = {
     'Irak': 'Iraq',
     'Southafrica': 'South Africa',
     'Nueva Zealandia': 'New Zealand',
+
+    'Mexico': 'México',
+    'Peru': 'Perú',
+
 
     'Côte d\'Ivoire (Ivory Coast)': 'Côte d\'Ivoire',
     'Ivory Coast': 'Côte d\'Ivoire',
