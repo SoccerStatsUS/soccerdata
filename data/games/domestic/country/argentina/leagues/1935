@@ -1,23 +1,22 @@
-http://www.rsssf.com/tablesa/arg35.html
+BlockSource: http://www.rsssf.com/tablesa/arg35.html
+Season: 1935
+Competition: Liga Argentina de Football
 
-Argentina 1935
-
-Argentina 1935     
     
-1st Round    
-17.3.1935    
-Platense           1-2 River Plate         
-Tigre              1-2 Argentinos Juniors at River Plate         
-Boca Juniors       2-1 Vélez Sarsfield     
-Talleres (RdE)     3-5 San Lorenzo         
-Independiente      2-1 Gimnasia (LP)       
-Huracán (BA)       6-0 Lanús               
-Chacarita Juniors  3-0 Atlanta             
-Ferro Carril Oeste 1-1 Quilmes             
-Estudiantes (LP)   3-2 Racing Club         
+Round: 1st Round    
+Date: 3/17/1907
+; Platense          ; 1-2; River Plate         
+; Tigre             ; 1-2; Argentinos Juniors at River Plate         
+; Boca Juniors      ; 2-1; Vélez Sarsfield     
+; Talleres (RdE)    ; 3-5; San Lorenzo         
+; Independiente     ; 2-1; Gimnasia (LP)       
+; Huracán (BA)      ; 6-0; Lanús               
+; Chacarita Juniors ; 3-0; Atlanta             
+; Ferro Carril Oeste; 1-1; Quilmes             
+; Estudiantes (LP)  ; 3-2; Racing Club         
     
-2nd Round    
-24.3.1935    
+Round: 2nd Round    
+Date: 3/24/1907
 Racing Club        1-3 Ferro Carril Oeste  
 Gimnasia (LP)      2-1 Tigre               
 Lanús              1-3 Talleres (RdE)      
@@ -29,8 +28,8 @@ Vélez Sarsfield    2-2 Independiente
 Atlanta            1-3 Platense            
 Argentinos Juniors 2-1 Chacarita Juniors   
     
-3rd Round    
-7.4.1935    
+Round: 3rd Round    
+Date: 4/7/1907
 San Lorenzo        2-2 Gimnasia (LP)       
 Boca Juniors       4-0 Argentinos Juniors  
 Independiente      7-1 Atlanta             
@@ -41,7 +40,7 @@ Platense           3-0 Quilmes
 Estudiantes (LP)   9-1 Lanús               
 Chacarita Juniors  0-0 Racing Club         
     
-4th Round    
+Round: 4th Round    
 14.4.1935    
 Vélez Sarsfield    3-2 San Lorenzo         
 Gimnasia (LP)      1-0 Boca Juniors        
@@ -53,7 +52,7 @@ River Plate        4-2 Chacarita Juniors  at Platense
 Huracán (BA)       1-1 Talleres (RdE)      
 Argentinos Juniors 2-3 Independiente       
     
-5th Round    
+Round: 5th Round    
 21.4.1935    
 Boca Juniors       1-0 River Plate         
 Independiente      2-0 Racing Club         
@@ -65,7 +64,7 @@ Talleres (RdE)     1-0 Gimnasia (LP)
 Tigre              1-2 Quilmes            at Argentinos Juniors  
 Chacarita Juniors  0-1 Lanús               
     
-6th Round    
+Round: 6th Round    
 28.4.1935    
 Racing Club        1-1 Tigre              at Independiente       
 Atlanta            0-2 Boca Juniors        
@@ -77,7 +76,7 @@ Gimnasia (LP)      2-2 Vélez Sarsfield
 Ferro Carril Oeste 1-0 Talleres (RdE)      
 River Plate        4-3 Independiente      at San Lorenzo         
     
-7th Round    
+Round: 7th Round    
 5.5.1935    
 Independiente      5-1 Lanús               
 Tigre              0-1 Huracán (BA)       at River Plate         
@@ -89,7 +88,7 @@ Gimnasia (LP)      5-2 Atlanta
 San Lorenzo        5-2 Racing Club         
 Vélez Sarsfield    4-3 River Plate         
     
-8th Round    
+Round: 8th Round    
 12.5.1935    
 River Plate        1-2 San Lorenzo         
 Atlanta            1-1 Vélez Sarsfield     
@@ -101,7 +100,7 @@ Ferro Carril Oeste 1-3 Platense
 Lanús              3-2 Tigre               
 Estudiantes (LP)   5-1 Talleres (RdE)      
     
-9th Round    
+Round: 9th Round    
 19.5.1935    
 Boca Juniors       3-0 Huracán (BA)        
 Chacarita Juniors  1-1 Platense            
@@ -113,7 +112,7 @@ Gimnasia (LP)      2-3 Racing Club
 Vélez Sarsfield    4-1 Quilmes             
 San Lorenzo        3-2 Lanús               
     
-10th Round    
+Round: 10th Round    
 26.5.1935    
 River Plate        3-0 Gimnasia (LP)       
 Lanús              1-3 Boca Juniors        
@@ -125,7 +124,7 @@ Platense           3-0 Talleres (RdE)
 Racing Club        2-2 Vélez Sarsfield     
 Ferro Carril Oeste 4-0 Tigre               
     
-11th Round    
+Round: 11th Round    
 30.5.1935    
 Boca Juniors       3-0 Estudiantes (LP)    
 Argentinos Juniors 3-0 Quilmes            at Platense            
@@ -138,7 +137,7 @@ Gimnasia (LP)      2-2 Lanús
 Tigre              1-3 Chacarita Juniors  at River Plate         
 Talleres (RdE)     1-4 River Plate         
     
-12th Round    
+Round: 12th Round    
 9.6.1935    
 Racing Club        5-1 Argentinos Juniors  
 Estudiantes (LP)   1-2 Independiente       
@@ -150,7 +149,7 @@ River Plate        3-1 Atlanta
 Huracán (BA)       2-1 San Lorenzo         
 Ferro Carril Oeste 4-4 Boca Juniors        
     
-13th Round    
+Round: 13th Round    
 16.6.1935    
 Gimnasia (LP)      2-0 Ferro Carril Oeste  
 Independiente      0-0 Tigre               
@@ -162,7 +161,7 @@ Atlanta            2-3 Lanús
 River Plate        2-0 Quilmes             
 Boca Juniors       3-0 Chacarita Juniors   
     
-14th Round    
+Round: 14th Round    
 23.6.1935    
 Platense           0-2 Boca Juniors        
 Racing Club        1-1 River Plate         
@@ -174,7 +173,7 @@ Lanús              3-2 Argentinos Juniors
 Huracán (BA)       4-0 Gimnasia (LP)       
 Estudiantes (LP)   4-4 San Lorenzo         
     
-15th Round    
+Round: 15th Round    
 30.6.1935    
 Boca Juniors       1-2 Independiente       
 Racing Club        2-0 Lanús               
@@ -186,7 +185,7 @@ Atlanta            3-1 Ferro Carril Oeste
 San Lorenzo        2-1 Tigre               
 Vélez Sarsfield    2-1 Chacarita Juniors   
     
-16th Round    
+Round: 16th Round    
 21.7.1935    
 Independiente      1-1 Talleres (RdE)      
 Tigre              1-2 Boca Juniors       at Argentinos Juniors  
@@ -198,7 +197,7 @@ Huracán (BA)       1-0 Atlanta
 Lanús              0-2 River Plate         
 Quilmes            3-1 Racing Club         
     
-17th Round    
+Round: 17th Round    
 28.7.1935    
 Atlanta            1-1 Estudiantes (LP)    
 River Plate        1-1 Ferro Carril Oeste  
@@ -210,7 +209,7 @@ Vélez Sarsfield    3-1 Tigre
 Talleres (RdE)     2-2 Boca Juniors        
 San Lorenzo        4-0 Independiente       
     
-18th Round    
+Round: 18th Round    
 4.8.1935    
 Vélez Sarsfield    3-0 Boca Juniors        
 Gimnasia (LP)      0-2 Independiente       
@@ -222,7 +221,7 @@ San Lorenzo        4-3 Talleres (RdE)
 Racing Club        2-5 Estudiantes (LP)    
 Lanús              0-5 Huracán (BA)        
     
-19th Round    
+Round: 19th Round    
 11.8.1935    
 Huracán (BA)       2-0 Quilmes             
 Ferro Carril Oeste 0-1 Racing Club         
@@ -234,7 +233,7 @@ Independiente      3-1 Vélez Sarsfield
 Boca Juniors       4-3 San Lorenzo         
 Talleres (RdE)     2-2 Lanús               
     
-20th Round    
+Round: 20th Round    
 18.8.1935    
 Huracán (BA)       2-0 Ferro Carril Oeste  
 Gimnasia (LP)      0-3 San Lorenzo         
@@ -246,7 +245,7 @@ Argentinos Juniors 1-3 Boca Juniors
 Vélez Sarsfield    3-1 Talleres (RdE)      
 Atlanta            0-3 Independiente       
     
-21st Round    
+Round: 21st Round    
 25.8.1935    
 Boca Juniors       4-0 Gimnasia (LP)       
 San Lorenzo        3-0 Vélez Sarsfield    at Huracán  
@@ -258,7 +257,7 @@ Estudiantes (LP)   3-0 Quilmes
 Talleres (RdE)     3-2 Huracán (BA)        
 Independiente      6-0 Argentinos Juniors  
     
-22nd Round    
+Round: 22nd Round    
 1.9.1935    
 River Plate        1-1 Boca Juniors        
 Gimnasia (LP)      2-1 Talleres (RdE)      
@@ -270,7 +269,7 @@ Quilmes            0-1 Tigre              at Platense
 Ferro Carril Oeste 5-4 Estudiantes (LP)    
 Lanús              2-1 Chacarita Juniors   
     
-23rd Round    
+Round: 23rd Round    
 8.9.1935    
 Independiente      1-1 River Plate         
 Estudiantes (LP)   2-0 Huracán (BA)        
@@ -282,7 +281,7 @@ Chacarita Juniors  4-1 Quilmes
 San Lorenzo        4-0 Argentinos Juniors  
 Boca Juniors       8-0 Atlanta             
     
-24th Round    
+Round: 24th Round    
 15.9.1935    
 Racing Club        1-3 San Lorenzo         
 River Plate        0-1 Vélez Sarsfield     
@@ -294,7 +293,7 @@ Argentinos Juniors 4-4 Talleres (RdE)
 Atlanta            2-2 Gimnasia (LP)       
 Huracán (BA)       3-1 Tigre               
     
-25th Round    
+Round: 25th Round    
 22.9.1935    
 Boca Juniors       3-2 Racing Club         
 San Lorenzo        3-0 River Plate         
@@ -306,7 +305,7 @@ Vélez Sarsfield    6-0 Atlanta
 Platense           3-4 Ferro Carril Oeste  
 Gimnasia (LP)      4-1 Argentinos Juniors  
     
-26th Round    
+Round: 26th Round    
 6.10.1935    
 Quilmes            0-2 Vélez Sarsfield     
 Huracán (BA)       0-1 Boca Juniors        
@@ -318,7 +317,7 @@ Atlanta            3-2 Talleres (RdE)
 Platense           1-3 Chacarita Juniors   
 River Plate        4-1 Argentinos Juniors  
     
-27th Round    
+Round: 27th Round    
 Argentinos Juniors 0-0 Atlanta             
 Talleres (RdE)     3-0 Platense           at River Plate         
 Vélez Sarsfield    2-0 Racing Club         
@@ -329,7 +328,7 @@ Tigre              1-1 Ferro Carril Oeste at Platense
 Chacarita Juniors  1-1 Estudiantes (LP)    
 Gimnasia (LP)      6-4 River Plate         
     
-28th Round    
+Round: 28th Round    
 20.10.1935    
 Ferro Carril Oeste 0-1 San Lorenzo         
 Quilmes            0-0 Argentinos Juniors  
@@ -341,7 +340,7 @@ Huracán (BA)       2-0 Vélez Sarsfield
 Chacarita Juniors  1-1 Tigre               
 Estudiantes (LP)   1-5 Boca Juniors        
     
-29th Round    
+Round: 29th Round    
 27.10.1935    
 Talleres (RdE)     2-2 Chacarita Juniors   
 Boca Juniors       2-0 Ferro Carril Oeste  
@@ -353,7 +352,7 @@ Gimnasia (LP)      3-1 Quilmes
 Tigre              1-4 Platense           at River Plate         
 Independiente      5-2 Estudiantes (LP)    
     
-30th Round    
+Round: 30th Round    
 10.11.1935    
 Quilmes            0-1 River Plate         
 Racing Club        2-0 Talleres (RdE)      
@@ -366,7 +365,7 @@ Tigre              3-9 Independiente      at River Plate
 Platense           2-6 San Lorenzo         
 Huracán (BA)       5-0 Argentinos Juniors  
     
-31st Round    
+Round: 31st Round    
 1.12.1935    
 San Lorenzo        1-1 Estudiantes (LP)   at Chacarita Juniors   
 Gimnasia (LP)      2-1 Huracán (BA)        
@@ -378,7 +377,7 @@ River Plate        5-2 Racing Club        at Ferro Carril Oeste
 Talleres (RdE)     5-1 Tigre               
 Vélez Sarsfield    7-0 Ferro Carril Oeste  
     
-32nd Round    
+Round: 32nd Round    
 8.12.1935    
 Ferro Carril Oeste 3-0 Atlanta             
 Chacarita Juniors  1-2 Vélez Sarsfield     
@@ -390,7 +389,7 @@ Platense           8-2 Gimnasia (LP)
 Tigre              2-3 San Lorenzo        at Argentinos Juniors  
 Quilmes            1-2 Talleres (RdE)      
     
-33rd Round    
+Round: 33rd Round    
 15.12.1935    
 San Lorenzo        4-0 Chacarita Juniors   
 Racing Club        3-0 Quilmes             
@@ -419,62 +418,26 @@ Goals:
 2-0  47' Varallo  
 3-0  70' Benítez Cáceres  
     
-34th Round    
-21.12.1935    
-Tigre              2-5 Vélez Sarsfield    at Chacarita Juniors   
-22.12.1935    
-Independiente      3-1 San Lorenzo         
-Ferro Carril Oeste 0-0 River Plate         
-Huracán (BA)       2-1 Racing Club         
-Platense           0-0 Argentinos Juniors  
-Lanús              9-0 Quilmes             
-Estudiantes (LP)   2-2 Atlanta             
-Chacarita Juniors  5-0 Gimnasia (LP)       
-Boca Juniors       4-1 Talleres (RdE)      
+Round: 34th Round    
+Date: 12/21/1907
+; Tigre             ; 2-5; Vélez Sarsfield    at Chacarita Juniors   
+Date: 12/22/1907
+; Independiente     ; 3-1; San Lorenzo         
+; Ferro Carril Oeste; 0-0; River Plate         
+; Huracán (BA)      ; 2-1; Racing Club         
+; Platense          ; 0-0; Argentinos Juniors  
+; Lanús             ; 9-0; Quilmes             
+; Estudiantes (LP)  ; 2-2; Atlanta             
+; Chacarita Juniors ; 5-0; Gimnasia (LP)       
+; Boca Juniors      ; 4-1; Talleres (RdE)      
   
 
 
-
-1934.
-
-
-1935 (2nd level).
-
-
-1936.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-all-time tables.
-
-
-list of 2nd level champions.
-
-
-divisional movements.
-
-
-topscorers.
-
-
-club directory 1999/2000.
-
-
-About this document
-
-With thanks to Abraham Roimiser
-
-Sources: [Ram -2], newspapers: Campeón
-
-Prepared and maintained by Javier Roimiser for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Javier Roimiser 
-Last updated: 22 Oct 2009
-
-(C) Copyright Javier Roimiser and RSSSF 2000/09
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*About this document
+*With thanks to Abraham Roimiser
+*Sources: [Ram -2], newspapers: Campeón
+*Prepared and maintained by Javier Roimiser for the Rec.Sport.Soccer Statistics Foundation
+*Author: Javier Roimiser 
+*Last updated: 22 Oct 2009
+*(C) Copyright Javier Roimiser and RSSSF 2000/09
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
