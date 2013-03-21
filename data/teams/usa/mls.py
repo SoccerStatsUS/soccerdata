@@ -7,7 +7,6 @@ l = [
 
     {
         'name': 'Miami Fusion',
-        'abbreviation': 'MF',
         'founded': 1997,
         'dissolved': 2001,
         'city': 'Miami, FL',
@@ -28,7 +27,7 @@ l = [
 
     {
         'name': 'Columbus Crew',
-        'founded': datetime.date(1994, 6, 15),
+        'founded': datetime.datetime(1994, 6, 15),
         'city': 'Columbus, OH',
         },
 
@@ -40,8 +39,14 @@ l = [
 
     {
         'name': 'Houston Dynamo',
-        'founded': 2005
+        'founded': 2005,
         'city': 'Houston, TX',
+        },
+
+    {
+        'name': 'Los Angeles Galaxy',
+        'founded': 1995,
+        'city': 'Los Angeles, CA',
         },
 
     {
@@ -101,7 +106,7 @@ l = [
 
     {
         'name': 'Portland Timbers',
-        'founded': 1975,,
+        'founded': 1975,
         'city': 'Portland, OR',
         },
 
@@ -113,19 +118,117 @@ l = [
 
     {
         'name': 'San Jose Earthquakes',
-        'founded': datetime.date(1995, 4, 17),
+        'founded': datetime.datetime(1995, 4, 17),
         'city': 'San Jose, CA',
         },
 
     {
         'name': 'Seattle Sounders',
-        'founded': datetime.date(1974, 1, 23),
+        'founded': datetime.datetime(1974, 1, 23),
         'city': 'Seattle, WA',
         },
 
     {
         'name': 'Vancouver Whitecaps',
-        'founded': datetime.date(1973, 12, 11),
+        'founded': datetime.datetime(1973, 12, 11),
+        'city': 'Vancouver, BC',
+        },
+
+
+
+
+{ 
+        'name': 'Chicago Fire Reserves',
+        'city': 'Chicago, IL',
+        },
+
+{ 
+        'name': 'Chivas USA Reserves',
+        'city': 'Los Angeles, CA',
+        },
+
+{ 
+        'name': 'Colorado Rapids Reserves',
+        'city': 'Denver, CO',
+        },
+
+{ 
+        'name': 'Columbus Crew Reserves',
+        'city': 'Columbus, OH',
+        },
+
+{ 
+        'name': 'D.C. United Reserves',
+        'city': 'Washington DC',
+        },
+
+{ 
+        'name': 'FC Dallas Reserves',
+        'city': 'Dallas, TX',
+        },
+
+{ 
+        'name': 'Houston Dynamo Reserves',
+        'city': 'Houston, TX',
+        },
+
+{ 
+        'name': 'Los Angeles Galaxy Reserves',
+        'city': 'Los Angeles, CA',
+        },
+
+{ 
+        'name': 'Montreal Impact Reserves',
+        'city': 'Montreal, QC',
+        },
+
+{ 
+        'name': 'New England Revolution Reserves',
+        'city': 'Boston, MA',
+        },
+
+{ 
+        'name': 'New York Red Bulls Reserves',
+        'city': 'New York, NY',
+        },
+
+{ 
+        'name': 'Philadelphia Union Reserves',
+        'city': 'Philadelphia, PA',
+        },
+
+{ 
+        'name': 'Portland Timbers Reserves',
+        'city': 'Portland, OR',
+        },
+
+{ 
+        'name': 'Real Salt Lake Reserves',
+        'city': 'Salt Lake City, UT',
+        },
+
+{ 
+        'name': 'San Jose Earthquakes Reserves',
+        'city': 'San Jose, CA',
+        },
+
+{ 
+        'name': 'Seattle Sounders Reserves',
+        'city': 'Seattle, WA',
+        },
+
+{ 
+        'name': 'Sporting Kansas City Reserves',
+        'city': 'Kansas City, MO',
+        },
+
+{ 
+        'name': 'Toronto FC Reserves',
+        'city': 'Toronto, ON',
+        },
+
+{ 
+        'name': 'Vancouver Whitecaps Reserves',
         'city': 'Vancouver, BC',
         },
 

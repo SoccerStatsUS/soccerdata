@@ -32,7 +32,7 @@ l = [
 
     {
         'name': 'UNDEBA',
-        'founded': datetime.date(1974, 5, 18),
+        'founded': datetime.datetime(1974, 5, 18),
         'city': 'Bándabou, Curacao',
         },
 
@@ -50,25 +50,25 @@ l = [
 
     {
         'name': 'CD Aguila',
-        'founded': datetime.date(1926, 2, 15),
+        'founded': datetime.datetime(1926, 2, 15),
         'city': 'San Miguel, El Salvador',
         },
 
     {
         'name': 'CD FAS',
-        'founded': datetime.date(1947, 2, 16),
+        'founded': datetime.datetime(1947, 2, 16),
         'city': 'Santa Ana, El Salvador',
         },
 
     {
         'name': 'C.D. Atlético Marte',
-        'founded': datetime.date(1950, 4, 22),
+        'founded': datetime.datetime(1950, 4, 22),
         'city': 'San Salvador, El Salvador',
         },
 
     {
         'name': 'Luis Angel Firpo',
-        'founded':  datetime.date(1923, 9, 17),
+        'founded':  datetime.datetime(1923, 9, 17),
         'city': 'Usulutan, El Salvador',
         },
 
@@ -118,7 +118,7 @@ l = [
         },
 
     {
-        'name': 'Joe Public F.C',
+        'name': 'Joe Public F.C.',
         'founded': 1996,
         'city': 'Tunapuna, Trinidad and Tobago',
         },
@@ -151,7 +151,7 @@ l = [
 
     {
         'name': 'Arabe Unido',
-        'founded': datetime.date(1994, 4, 28),
+        'founded': datetime.datetime(1994, 4, 28),
         'city': 'Colon, Panama',
         },
 
@@ -187,26 +187,26 @@ l = [
 
     {
         'name': 'SV Robinhood',
-        'founded': datetime.date(1945, 2, 6)
+        'founded': datetime.datetime(1945, 2, 6),
         'city': 'Paramaribo, Suriname',
         },
 
     {
         'name': 'SV Transvaal',
-        'founded': datetime.date(1921, 1, 15),
+        'founded': datetime.datetime(1921, 1, 15),
         'city': 'Paramaribo, Suriname',
         },
 
     {
         'name': 'SV Voorwarts',
-        'founded': datetime.date(1919, 8, 1),
+        'founded': datetime.datetime(1919, 8, 1),
         'city': 'Paramaribo, Suriname',
         },
 
 
     {
         'name': 'CSD Comunicaciones',
-        'founded': datetime.date(1949, 8, 16),
+        'founded': datetime.datetime(1949, 8, 16),
         'city': 'Guatemala City, Guatemala',
         },
 
@@ -218,7 +218,7 @@ l = [
 
     {
         'name': 'CSD Municipal',
-        'founded': datetime.date(1936, 5, 17),
+        'founded': datetime.datetime(1936, 5, 17),
         'city': 'Guatemala City, Guatemala',
         },
 
@@ -236,38 +236,38 @@ l = [
 
     {
         'name': 'Marathon',
-        'founded': datetime.date(1925, 11, 25),
+        'founded': datetime.datetime(1925, 11, 25),
         'city': 'San Pedro Sula, Honduras',
         },
 
     {
         'name': 'Motagua',
-        'founded': datetime.date(1928, 8, 29),
+        'founded': datetime.datetime(1928, 8, 29),
         'city': 'Tegucigalpa, Honduras',
         },
 
     {
         'name': 'CD Olimpia',
-        'founded': datetime.date(1912, 6, 12),
+        'founded': datetime.datetime(1912, 6, 12),
         'city': 'Tegucigalpa, Honduras',
         },
 
     {
         'name': 'Real Espana',
-        'founded': datetime.date(1929, 7, 14),
+        'founded': datetime.datetime(1929, 7, 14),
         'city': 'San Pedro Sula, Honduras',
         },
 
     {
         'name': 'Platense F.C.',
-        'founded': datetime.date(1960, 7, 4),
+        'founded': datetime.datetime(1960, 7, 4),
         'city': 'Puerto Cortés, Honduras',
         },
 
 
     {
         'name': 'L.D. Alajuelense',
-        'founded': datetime.date(1919, 6, 18),
+        'founded': datetime.datetime(1919, 6, 18),
         'city': 'Alajuela, Costa Rica',
         },
 
@@ -279,37 +279,43 @@ l = [
 
     {
         'name': 'Herediano',
-        'founded': datetime.date(1921, 6, 12),
+        'founded': datetime.datetime(1921, 6, 12),
         'city': 'Heredia, Costa Rica',
         },
 
     {
         'name': 'Limón FC',
-        'founded': datetime.date(1961, 7, 10),
+        'founded': datetime.datetime(1961, 7, 10),
         'city': 'Limón, Costa Rica',
         },
 
     {
         'name': 'Puntarenas FC',
-        'founded': datetime.date(2004, 6, 30),
+        'founded': datetime.datetime(2004, 6, 30),
         'city': 'Puntarenas, Costa Rica',
         },
 
     {
         'name': 'Deportivo Saprissa',
-        'founded': datetime.date(1936, 7, 16),
+        'founded': datetime.datetime(1936, 7, 16),
+        'city': 'San Jose, Costa Rica',
+        },
+
+    {
+        'name': 'C.S. Cartaginés',
+        'founded': datetime.datetime(1906, 7, 1),
         'city': 'San Jose, Costa Rica',
         },
 
     {
         'name': 'Club América',
-        'founded': datetime.date(1916, 10, 12),
+        'founded': datetime.datetime(1916, 10, 12),
         'city': 'Mexico City, Mexico',
         },
 
     {
         'name': 'Club de Fútbol Asturias',
-        'founded': datetime.date(1918, 2, 7),
+        'founded': datetime.datetime(1918, 2, 7),
         'city': 'Mexico City, Mexico',
         },
 
@@ -321,14 +327,14 @@ l = [
 
     {
         'name': 'Atlas',
-        'founded': datetime.date(1916, 8, 15),
+        'founded': datetime.datetime(1916, 8, 15),
         'city': 'Guadalajara, Mexico',
         },
 
     {
-        'name': 'Atlético Español',,
-        'founded': datetime.date(1971, 9, 19),
-        'dissolved': datetime.date(1982, 7, 21),
+        'name': 'Atlético Español',
+        'founded': datetime.datetime(1971, 9, 19),
+        'dissolved': datetime.datetime(1982, 7, 21),
         'city': 'Mexico City, Mexico',
         },
 
@@ -340,14 +346,14 @@ l = [
 
     {
         'name': 'Celaya FC',
-        'founded': datetime.date(1954, 2, 7),
+        'founded': datetime.datetime(1954, 2, 7),
         'city': 'Celaya, Mexico',
         },
 
 
     {
         'name': 'Cruz Azul',
-        'founded': datetime.date(1927, 5, 22),
+        'founded': datetime.datetime(1927, 5, 22),
         'city': 'Mexico City, Mexico',
         },
 
@@ -366,7 +372,7 @@ l = [
 
     {
         'name': 'Jaguares',
-        'founded': datetime.date(2002, 6, 27),
+        'founded': datetime.datetime(2002, 6, 27),
         'city': 'Tuxtla Gutiérrez, Mexico',
         },
 
@@ -378,7 +384,7 @@ l = [
 
     {
         'name': 'CD Guadalajara',
-        'founded': datetime.date(1906, 5, 8),
+        'founded': datetime.datetime(1906, 5, 8),
         'city': 'Guadalajara, Mexico',
         },
 
@@ -395,25 +401,31 @@ l = [
 
     {
         'name': 'Monarcas Morelia',
-        'founded': datetime.date(1924, 11, 21),
+        'founded': datetime.datetime(1924, 11, 21),
         'city': 'Morelia, Mexico',
         },
 
     {
-        'name': 'CF Monterey',
-        'founded': datetime.date(1945, 6, 28),
+        'name': 'Tampico Madero FC',
+        'founded': datetime.datetime(1945, 7, 8),
+        'city': 'Tampaulipas, Mexico',
+        },
+
+    {
+        'name': 'CF Monterrey',
+        'founded': datetime.datetime(1945, 6, 28),
         'city': 'Monterrey, Mexico',
         },
 
     {
         'name': 'Necaxa',
-        'founded': datetime.date(1923, 8, 21),
+        'founded': datetime.datetime(1923, 8, 21),
         'city': 'Aguascalientes, Mexico',
         },
 
     {
         'name': 'CD Oro',
-        'founded': datetime.date(1923, 1, 5),
+        'founded': datetime.datetime(1923, 1, 5),
         'city': 'Guadalajara, Mexico',
         },
 
@@ -425,31 +437,26 @@ l = [
 
     {
         'name': 'Puebla',
-        'founded': datetime.date(1944, 5, 7),
+        'founded': datetime.datetime(1944, 5, 7),
         'city': 'Puebla, Mexico',
         },
 
     {
         'name': 'San Luis FC',
-        'founded': datetime.date(1957, 9, 23),
+        'founded': datetime.datetime(1957, 9, 23),
         'city': 'San Luis Potosi, Mexico',
         },
 
-    {
-        'name': 'San Luis FC',
-        'founded': datetime.date(1957, 9, 23),
-        'city': 'San Luis Potosi, Mexico',
-        },
 
     {
         'name': 'Santos Laguna',
-        'founded': datetime.date(1983, 9, 4),
+        'founded': datetime.datetime(1983, 9, 4),
         'city': 'Torreon, Mexico',
         },
 
     {
         'name': 'CD Tapatio',
-        'founded': datetime.date(1973, 11, 2),
+        'founded': datetime.datetime(1973, 11, 2),
         'city': 'Guadalajara, Mexico',
         },
 
@@ -461,38 +468,223 @@ l = [
 
     {
         'name': 'Toluca',
-        'founded': datetime.date(1917, 2, 12),
-        'city': 'Toluca, Mexico',
-        },
-
-    {
-        'name': 'Toluca',
-        'founded': datetime.date(1917, 2, 12),
+        'founded': datetime.datetime(1917, 2, 12),
         'city': 'Toluca, Mexico',
         },
 
     {
         'name': 'UANL',
-        'founded': datetime.date(1960, 3, 7),
+        'founded': datetime.datetime(1960, 3, 7),
         'city': 'Monterrey, Mexico',
         },
 
     {
         'name': 'UNAM',
-        'founded': datetime.date(1954, 8, 28),
+        'founded': datetime.datetime(1954, 8, 28),
         'city': 'Mexico City, Mexico',
         },
 
     {
         'name': 'Tiburones Rojos de Veracruz',
-        'founded': datetime.date(1943, 4, 9),
+        'founded': datetime.datetime(1943, 4, 9),
         'city': 'Veracruz, Mexico',
         },
 
     {
         'name': 'Correcaminos UAT',
-        'founded': datetime.date(1980, 1, 1),
+        'founded': datetime.datetime(1980, 1, 1),
         'city': 'Ciudad Victoria, Mexico',
+        },
+
+    {
+        'name': 'Defence Force',
+        'founded': 1974,
+        'city': 'Mucurapo, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'SV Juventus',
+        'founded': 1973,
+        'city': 'Kralendijk, Bonaire',
+        },
+
+
+    {
+        'name': 'Plaza Amador',
+        'founded': datetime.datetime(1955, 4, 25),
+        'city': 'Panama City, Panama',
+        },
+
+    {
+        'name': 'Jong Colombia',
+        'founded': datetime.datetime(1951, 7, 23),
+        'city': 'Boca Sami, Curacao',
+        },
+
+    {
+        'name': 'CD Jalapa',
+        'founded': 1978,
+        'city': 'Jalapa, Guatemala',
+        },
+
+
+    {
+        'name': 'Diriangén FC',
+        'founded': 1917,
+        'city': 'Diriamba, Nicaragua',
+        },
+
+    {
+        'name': 'San Salvador FC',
+        'founded': 2002,
+        'dissolved': 2008,
+        'city': 'San Salvador, El Salvador',
+        },
+
+    {
+        'name': 'Portmore United',
+        'city': 'Portmore, Jamaica',
+        },
+
+
+    {
+        'name': 'San Francisco FC',
+        'founded': 1971,
+        'city': 'La Chorrera, Panama',
+        },
+
+    {
+        'name': 'FCS Nacional',
+        'city': 'Paramaribo, Suriname',
+        },
+
+    {
+        'name': 'Arabe Unido',
+        'founded': datetime.datetime(1994, 4, 28),
+        'city': 'Colon, Panama',
+        },
+
+    {
+        'name': 'Caledonia AIA',
+        'founded': 1979,
+        'city': 'Morvant, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Alpha United',
+        'city': 'Providence, Guyana',
+        },
+
+    {
+        'name': 'Hankook Verdes',
+        'founded': 1976,
+        'city': 'Benque Viejo del Carmen, Belize',
+        },
+
+    {
+        'name': 'Coban Imperial',
+        'founded': 1924,
+        'city': 'Coban, Guatemala',
+        },
+
+    {
+        'name': 'Walking Bout Company',
+        'founded': datetime.datetime(1997, 1, 16),
+        'city': 'Paramaribo, Suriname',
+        },
+
+    {
+        'name': 'Liberia Mia',
+        'founded': datetime.datetime(1977, 6, 7),
+        'city': 'Liberia, Costa Rica',
+        },
+
+    {
+        'name': 'Perez Zeledon',
+        'founded': 1962,
+        'city': 'Zeledon, Costa Rica',
+        },
+
+    {
+        'name': 'Aigle Noir',
+        'city': 'Port-au-Prince, Haiti',
+        },
+
+    {
+        'name': 'Revolutionary Conquerors',
+        'founded': 2005,
+        'city': 'Dangriga, Belize',
+        },
+
+    {
+        'name': 'Leo Victor',
+        'founded': 1934,
+        'city': 'Paramaribo, Suriname',
+        },
+
+    {
+        'name': 'US Robert',
+        'founded': 1903,
+        'city': 'Le Robert, Martinique',
+        },
+
+    {
+        'name': 'Kulture Yabra',
+        'founded': 1974,
+        'city': 'Belize City, Belize',
+        },
+
+    {
+        'name': 'Tivoli Gardens',
+        'founded': 1970,
+        'city': 'Kingston, Jamaica',
+        },
+
+    {
+        'name': 'Positive Vibes',
+        'city': 'St. Thomas, US Virgin Islands',
+        },
+
+    {
+        'name': 'Puerto Rico Islanders',
+        'founded': 2003,
+        'city': 'Bayamon, Puerto Rico',
+        },
+
+    {
+        'name': 'Bermuda Hogges',
+        'founded': 2006,
+        'city': 'Pembroke, Bermuda',
+        },
+
+    {
+        'name': 'SV Britannia',
+        'founded': datetime.datetime(1958, 10, 12),
+        'city': 'Piedra Plat, Aruba',
+        },
+
+    {
+        'name': 'Etoile Haïtienne',
+        'city': 'Port-au-Prince, Haiti',
+        },
+
+    {
+        'name': 'Sithoc',
+        'city': 'Mahuma, Curacao',
+        'founded': datetime.date(1942, 3, 7),
+        },
+
+    {
+        'name': 'Juventud Olímpica',
+        'city': 'San Salvador, El Salvador', # and other places.j
+        'dissolved': 2007,
+        },
+
+    {
+        'name': 'Juventud Retalteca',
+        'city': 'Retalhuleu, Guatemala',
+        'founded': 1951,
+        'dissolved': 2012,
         },
 
 

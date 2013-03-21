@@ -106,66 +106,168 @@ l = [
         },
 
     {
-        'name': 'Detroit Cougars',
-        'founded': 1967,
-        'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'name': 'Jacksonville Tea Men',
+        'founded': 1980,
+        'dissolved': 1984,
+        'city': 'Jacksonville, FL',
         },
 
     {
-        'name': 'Detroit Cougars',
-        'founded': 1967,
-        'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'name': 'Kansas City Spurs',
+        'founded': 1968,
+        'dissolved': 1970,
+        'city': 'Kansas City, MO',
         },
 
     {
-        'name': 'Detroit Cougars',
-        'founded': 1967,
+        'name': 'Los Angeles Wolves',
+        'founded': 1966,
         'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'city': 'Los Angeles, CA',
         },
 
     {
-        'name': 'Detroit Cougars',
-        'founded': 1967,
-        'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'name': 'Los Angeles Aztecs',
+        'founded': 1974,
+        'dissolved': 1981,
+        'city': 'Los Angeles, CA',
         },
 
     {
-        'name': 'Detroit Cougars',
-        'founded': 1967,
-        'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'name': 'Minnesota Strikers',
+        'founded': 1984,
+        'dissolved': 1988,
+        'city': 'Minneapolis, MN',
         },
 
     {
-        'name': 'Detroit Cougars',
-        'founded': 1967,
-        'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'name': 'Minnesota Kicks',
+        'founded': 1976,
+        'dissolved': 1981,
+        'city': 'Minneapolis, MN',
         },
 
     {
-        'name': 'Detroit Cougars',
-        'founded': 1967,
-        'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'name': 'Montreal Olympique',
+        'founded': 1971,
+        'dissolved': 1973,
+        'city': 'Montreal, QC',
         },
 
     {
-        'name': 'Detroit Cougars',
+        'name': 'Montreal Manic',
+        'founded': 1981,
+        'dissolved': 1983,
+        'city': 'Monteal, QC',
+        },
+    {
+        'name': 'New York Generals',
         'founded': 1967,
         'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'city': 'New York, NY',
+        },
+    {
+        'name': 'New York Cosmos',
+        'founded': datetime.datetime(1971, 2, 4),
+        'dissolved': 1985,
+        'city': 'New York, NY',
+        },
+    {
+        'name': 'Oakland Clippers',
+        'founded': 1967,
+        'dissolved': 1969,
+        'city': 'Oakland, CA',
+        },
+    {
+        'name': 'Philadelphia Atoms',
+        'founded': 1973,
+        'dissolved': 1976,
+        'city': 'Philadelphia, PA',
         },
 
     {
-        'name': 'Detroit Cougars',
+        'name': 'Rochester Lancers',
+        'founded': 1967,
+        'dissolved': 1980,
+        'city': 'Rochester, NY',
+        },
+    {
+        'name': 'San Diego Sockers',
+        'founded': 1978,
+        'dissolved': 1996,
+        'city': 'San Diego, CA',
+        },
+    {
+        'name': 'San Diego Toros',
+        'founded': 1968,
+        'dissolved': 1968,
+        'city': 'San Diego, CA',
+        },
+
+    {
+        'name': 'St. Louis Stars',
+        'founded': 1967,
+        'dissolved': 1977,
+        'city': 'St. Louis, MO',
+        },
+    {
+        'name': 'Team America',
+        'founded': 1983,
+        'dissolved': 1983,
+        'city': 'Washington DC',
+        },
+
+    {
+        'name': 'Team Hawaii',
+        'founded': 1977,
+        'dissolved': 1977,
+        'city': 'Honolulu, Hawaii',
+        },
+    {
+        'name': 'Toronto Falcons',
         'founded': 1967,
         'dissolved': 1968,
-        'city': 'Detroit, MI',
+        'city': 'Toronto, ON',
         },
+    {
+        'name': 'Toronto Blizzard',
+        'founded': 1971,
+        'dissolved': 1984,
+        'city': 'Toronto, ON',
+        },
+    {
+        'name': 'Tulsa Roughnecks',
+        'founded': 1978,
+        'dissolved': 1984,
+        'city': 'Tulsa, OK',
+        },
+    {
+        'name': 'Vancouver Royals',
+        'founded': 1967,
+        'dissolved': 1968,
+        'city': 'Vancouver, BC',
+        },
+    {
+        'name': 'Washington Whips',
+        'founded': 1967,
+        'dissolved': 1968,
+        'city': 'Washington DC',
+        },
+
+    {
+        'name': 'Washington Diplomats',
+        'founded': 1974,
+        'dissolved': 1981,
+        'city': 'Washington DC',
+        },
+
+    {
+        'name': 'Memphis Rogues',
+        'founded': 1978,
+        'dissolved': 1980,
+        'city': 'Memphis, TN',
+        },
+
+
 
 ]

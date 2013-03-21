@@ -99,7 +99,7 @@ l = [
     {
         'name': 'New Bedford Whalers',
         'founded': 1924,
-        'dissolved': datetime.date(1931, 4, 19),
+        'dissolved': datetime.datetime(1931, 4, 19),
         'city': 'New Bedford, MA',
         },
 
@@ -121,7 +121,7 @@ l = [
     # Add Giants, Nationals alias,de-alias.
     {
         'name': 'Indiana Flooring',
-        'founded': 1924
+        'founded': 1924,
         'dissolved': 1927,
         'city': 'New York, NY',
         },
@@ -158,7 +158,7 @@ l = [
     # Separate earlier New York, Brooklyn Hakoah teams.
     {
         'name': 'Hakoah All-Stars',
-        'founded': datetime.date(1929, 11, 16),
+        'founded': datetime.datetime(1929, 11, 16),
         'dissolved': 1932,
         'city': 'New York, NY',
         },
