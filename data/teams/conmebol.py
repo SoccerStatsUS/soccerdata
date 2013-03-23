@@ -11,10 +11,38 @@ l = [
         'city': 'Salvador, Brazil',
         },
     {
+        'name': 'AC Minervén FC',
+        'founded': 1985,
+        'city': 'Puerto Ordaz, Venezuela',
+        },
+
+    {
+        'name': 'Club Sport Marítimo de Venezuela',
+        'founded': 1959,
+        'city': 'Caracas, Venezuela',
+        },
+
+    {
         'name': 'SC Recife',
         'founded': datetime.datetime(1905, 5, 13),
         'city': 'Recife, Brazil',
         },
+    {
+        'name': 'Club Bolívar',
+        'founded': datetime.datetime(1925, 4, 12),
+        'city': 'La Paz, Bolivia',
+        },
+    {
+        'name': 'Defensor SC',
+        'founded': datetime.datetime(1913, 3, 15),
+        'city': 'Montevideo, Uruguay',
+        },
+    {
+        'name': 'Independiente Medellín',
+        'founded': datetime.datetime(1913, 11, 14),
+        'city': 'Medellin, Colombia',
+        },
+
     {
         'name': 'Club Always Ready',
         'founded': datetime.datetime(1933, 4, 13),
@@ -519,6 +547,81 @@ l = [
         'city': 'Uberlândia, Brazil',
         },
 
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
+    {
+        'name': 'Montevideo Wanderers',
+        'founded': datetime.datetime(1902, 8, 15),
+        'city': 'Montevideo, Uruguay',
+        },
+    {
+        'name': 'Santiago Wanderers',
+        'founded': datetime.datetime(1892, 8, 15),
+        'city': 'Santiago, Chile',
+        },
+    {
+        'name': 'CD Olmedo',
+        'founded': datetime.datetime(1919, 11, 11),
+        'city': 'Riobamba, Ecuador',
+        },
+    {
+        'name': 'Paysandu SC',
+        'founded': datetime.datetime(1914, 2, 2),
+        'city': 'Belem, Brazil',
+        },
+    {
+        'name': 'Deportes Tolima',
+        'founded': 1954,
+        'city': 'Ibague, Colombia',
+        },
+    {
+        'name': 'Deportivo Pasto',
+        'founded': 1949,
+        'city': 'Pasto, Colombia',
+        },
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
+    {
+        'name': 'CR Vasco da Gama',
+        'founded': datetime.datetime(1898, 8, 21),
+        'city': 'Rio de Janerio, Brazil',
+        },
     {
         'name': 'CR Vasco da Gama',
         'founded': datetime.datetime(1898, 8, 21),

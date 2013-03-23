@@ -1,0 +1,75 @@
+#!/usr/local/bin/env python
+# -*- coding: utf-8 -*-
+
+import datetime
+
+l = [
+
+    {
+        'name': 'Kalamazoo Kingdom',
+        'city': 'Kalamazoo, MI',
+        'founded': 1996,
+        'dissolved': 2006,
+        },
+    {
+        'name': 'Detroit Dynamite',
+        'city': 'Detroit, MI',
+        'founded': 2008,
+        },
+
+    {
+        'name': 'Detroit Express',
+        'city': 'Pontiac, MI',
+        'founded': 1979,
+        'dissolved': 1981,
+        },
+
+
+    {
+        'name': 'West Michigan Edge',
+        'city': 'Grand Rapids, MI',
+        'founded': 1995,
+        'dissolved': 2008,
+        },
+
+    {
+        'name': 'Kalamazoo Outrage',
+        'city': 'Kalamazoo, MI',
+        'founded': 2007,
+        'dissolved': 2010,
+        },
+
+    {
+        'name': 'Michigan Madness',
+        'city': 'Ann Arbor, MI',
+        'founded': 1995,
+        'dissolved': 1997,
+        },
+    {
+        'name': 'Detroit Wheels',
+        'city': 'Detroit, MI',
+        'founded': 1994,
+        'dissolved': 1995,
+        },
+
+    {
+        'name': 'Detroit Lightning',
+        'city': 'Detroit, MI',
+        'founded': 1979,
+        'dissolved': 1980,
+        },
+
+    {
+        'name': 'Detroit Rockers',
+        'city': 'Detroit, MI',
+        'founded': 1990,
+        'dissolved': 2001,
+        },
+
+    {
+        'name': 'Kalamazoo Kangaros',
+        'city': 'Kalamazoo, MI',
+        'founded': 1984,
+        'dissolved': 1986,
+        },
+]

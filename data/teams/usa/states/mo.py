@@ -25,5 +25,18 @@ l = [
         'dissolved': 1935,
         },
 
+    {
+        'name': 'St. Louis Lions',
+        'city': 'St. Louis, MO',
+        'founded': 2006,
+        },
+
+    {
+        'name': 'St. Louis Strikers',
+        'city': 'St. Louis, MO',
+        'founded': 2003,
+        'dissolved': 2004,
+        },
+
 ]
  

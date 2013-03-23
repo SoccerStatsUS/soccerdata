@@ -754,7 +754,7 @@ l = [
         },
 
     {
-        'name': 'Minnesota Stars FC',
+        'name': 'Minnesota United FC',
         'city': 'Blaine, MN',
         'founded': 2010,
         },

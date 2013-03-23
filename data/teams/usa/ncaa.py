@@ -1470,13 +1470,36 @@ l = [
         'city': 'Montclair, NJ',
        },
     {
-        'name': 'Kutztown University',
-        'city': 'Kutztown, PA',
+        'name': 'Florida Gulf Coast University',
+        'city': 'Fort Myers, FL',
        },
     {
-        'name': 'Kutztown University',
-        'city': 'Kutztown, PA',
+        'name': 'Eckerd College',
+        'city': 'St. Petersburg, FL',
        },
+    {
+        'name': 'Clayton State University',
+        'city': 'Morrow, GA',
+       },
+    {
+        'name': 'Georgia State University',
+        'city': 'Atlanta, GA',
+       },
+    {
+        'name': 'Saint Leo University',
+        'city': 'St. Leo, FL',
+       },
+    {
+        'name': 'Eckerd College',
+        'city': 'St. Petersburg, FL',
+       },
+
+    {
+        'name': 'University of Nebraska Omaha',
+        'city': 'Omaha, NE',
+       },
+
+
 
 
 

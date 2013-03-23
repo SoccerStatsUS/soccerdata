@@ -1443,9 +1443,9 @@ l = [
         'city': 'Palermo, Italy',
         },
     {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
+        'name': 'Valenciennes FC',
+        'founded': 1913,
+        'city': 'Valenciennes, France',
         },
     {
         'name': 'FK Inter Bratislava',

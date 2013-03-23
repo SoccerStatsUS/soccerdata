@@ -148,6 +148,11 @@ l = [
         'founded': 1969,
         'city': 'Green Bay, Antigua and Barbuda',
         },
+    {
+        'name': 'Antigua Barracuda FC',
+        'founded': 2010,
+        'city': 'Saint George Parish, Antigua',
+        },
 
     {
         'name': 'Arabe Unido',
@@ -317,6 +322,156 @@ l = [
         'name': 'Club de Fútbol Asturias',
         'founded': datetime.datetime(1918, 2, 7),
         'city': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Dorados de Sinaloa',
+        'founded': datetime.datetime(2003, 8, 23),
+        'city': 'Culiacan, Mexico',
+        },
+
+    {
+        'name': 'Nizhee Corozal',
+        'founded': 1985,
+        'city': 'Corozal Town, Belize',
+        },
+
+
+    {
+        'name': 'Santos (Jamaica)',
+        'founded': 1964,
+        'city': 'Kingston, Jamaica',
+        },
+
+    {
+        'name': 'SV Estrella',
+        'founded': 1948,
+        'city': 'Oranjestad, Aruba',
+        },
+
+    {
+        'name': 'SV Voorwaarts',
+        'founded': datetime.datetime(1919, 8, 1),
+        'city': 'Paramaribo, Suriname',
+        },
+
+
+    {
+        'name': 'Jong Holland',
+        'founded': 1919,
+        'city': 'Willemstad, Curacao',
+        },
+
+    {
+        'name': 'Once Municipal',
+        'founded': datetime.datetime(1945, 8, 20),
+        'city': 'Ahuachapan, El Salvador',
+        },
+
+    {
+        'name': 'C.D. Santiagueño',
+        'founded': 1917,
+        'city': 'Santiago de Maria, El Salvador',
+        },
+
+    {
+        'name': 'CS Moulien',
+        'founded': 1931,
+        'city': 'Le Moule, Guadeloupe',
+        },
+
+    {
+        'name': 'Solidarité Scolaire',
+        'city': 'Baie-Mahault, Guadeloupe',
+        },
+    {
+        'name': 'Réveil-Sportif',
+        'city': 'Gros-Morne, Martinique',
+        },
+
+
+    {
+        'name': 'L\'Etoile de Morne-à-l\'Eau',
+        'founded': 1958,
+        'city': 'Morne-a-l\'Eau, Guadeloupe',
+        },
+    {
+        'name': 'Juventus Managua',
+        'founded': 1977,
+        'city': 'Managua, Nicaragua',
+        },
+
+    {
+        'name': 'Petrotela',
+        'city': 'Tela, Honduras',
+        },
+
+    {
+        'name': 'Club Verdes',
+        'founded': 1976,
+        'city': 'Benque Viejo del Carmen',
+        },
+
+    {
+        'name': 'Dandy Town Hornets',
+        'city': 'Pembroke Parish, Bermuda',
+        },
+
+
+    {
+        'name': 'PHC Zebras',
+        'city': 'Pembroke Parish, Bermuda',
+        },
+
+
+    {
+        'name': 'US Sinnamary',
+        'city': 'Sinnamary, French Guiana',
+        },
+
+    {
+        'name': 'Pumas UNAH',
+        'founded': datetime.datetime(1965, 12, 12),
+        'city': 'Choluteca, Honduras',
+        },
+
+    {
+        'name': 'Devonshire Colts FC',
+        'founded': 1958,
+        'city': 'Devonshire, Bermuda',
+        },
+
+
+    {
+        'name': 'Maple Club FC', # Trinidad
+        },
+
+    {
+        'name': 'Mexico Toros',
+        'founded': 1995,
+        'dissolved': 1995,
+        'city': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Monterrey Fury',
+        'founded': 2003,
+        'dissolved': 2005,
+        'city': 'Monterrey, Mexico',
+        },
+
+    {
+        'name': 'Monterrey La Raza',
+        'founded': 1992,
+        'dissolved': 2000,
+        'city': 'Monterrey, Mexico',
+        },
+
+    {
+        'name': 'A.F.C. Euro Kickers',
+        'founded': 1984,
+        'dissolved': 2002,
+        'city': 'Panama City, Panama',
         },
 
     {

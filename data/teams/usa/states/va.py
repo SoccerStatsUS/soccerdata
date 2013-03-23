@@ -10,6 +10,19 @@ l = [
         'city': 'Sterling, VA',
         'founded': 1996,
         },
+    {
+        'name': 'Roanoke Wrath',
+        'city': 'Roanoke, VA',
+        'founded': 1998,
+        'dissolved': 2000,
+        },
+
+    {
+        'name': 'Fredericksburg Gunners',
+        'city': 'Fredericksburg, VA',
+        'founded': 2006,
+        'dissolved': 2009,
+        },
 
 ]
  
