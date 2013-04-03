@@ -59,6 +59,24 @@ l = [
         'dissolved': 2011,
         },
 
+    {
+        'name': 'Brooklyn Morse Dry Dock',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Yonkers Hollywood Inn',
+        'city': 'Yonkers, NY',
+        'founded': 1901,
+        },
+
+    {
+        'name': 'Syracuse Suns',
+        'city': 'Syracuse, NY',
+        'founded': 1969,
+        'dissolved': 1974,
+        },
+
 
 
 ]

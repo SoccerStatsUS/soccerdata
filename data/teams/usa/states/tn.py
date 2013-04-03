@@ -11,6 +11,13 @@ l = [
         'founded': 1992,
         'dissolved': 1997,
         },
+    {
+        'name': 'Nashville Diamonds',
+        'city': 'Nashville, TN',
+        'founded': 1982,
+        'dissolved': 1982,
+        },
+
 
     {
         'name': 'Memphis Express',

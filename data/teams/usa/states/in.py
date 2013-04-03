@@ -13,6 +13,13 @@ l = [
         },
 
     {
+        'name': 'Indiana Tigers',
+        'city': 'Gary, IN',
+        'founded': 1973,
+        'dissolved': 1974,
+        },
+
+    {
         'name': 'Fort Wayne Flames',
         'city': 'Fort Wayne, IN',
         'founded': 1986,

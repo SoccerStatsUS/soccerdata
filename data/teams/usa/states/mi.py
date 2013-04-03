@@ -11,6 +11,13 @@ l = [
         'founded': 1996,
         'dissolved': 2006,
         },
+
+    {
+        'name': 'Detroit Mustangs',
+        'city': 'Detroit, MI',
+        'founded': 1972,
+        'dissolved': 1973,
+        },
     {
         'name': 'Detroit Dynamite',
         'city': 'Detroit, MI',

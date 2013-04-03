@@ -10,6 +10,22 @@ l = [
         'founded': 2011,
         },
 
+
+    {
+        'name': 'Connecticut Yankees',
+        'city': 'Hartford, CT',
+        'founded': 1972,
+        'dissolved': 1978,
+        },
+
+
+    {
+        'name': 'Hartford Kings',
+        'city': 'Hartford, CT',
+        'founded': 1964,
+        'dissolved': 1968,
+        },
+
     {
         'name': 'Connecticut Bicentennials',
         'city': 'Hartford, CT',

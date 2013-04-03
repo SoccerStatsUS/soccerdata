@@ -18,7 +18,7 @@ l = [
         },
 
     {
-        'name': 'San Antonio THunder',
+        'name': 'San Antonio Thunder',
         'city': 'San Antonio, TX',
         'founded': 1975,
         'dissolved': 1976,
@@ -170,6 +170,13 @@ l = [
         'city': 'San Antonio, TX',
         'founded': 1988,
         'dissolved': 1998,
+        },
+
+    {
+        'name': 'San Antonio XLR8',
+        'city': 'San Antonio, TX',
+        'founded': 1992,
+        'dissolved': 1992,
         },
 
     {

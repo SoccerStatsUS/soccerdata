@@ -71,56 +71,6 @@ l = [
         },
 
     {
-        'name': 'Reno Rattlers',
-        'city': 'Reno, NV',
-        'founded': 1994,
-        'dissolved': 1998,
-        },
-
-    {
-        'name': 'Reno Rattlers',
-        'city': 'Reno, NV',
-        'founded': 1994,
-        'dissolved': 1998,
-        },
-
-    {
-        'name': 'Reno Rattlers',
-        'city': 'Reno, NV',
-        'founded': 1994,
-        'dissolved': 1998,
-        },
-
-    {
-        'name': 'Reno Rattlers',
-        'city': 'Reno, NV',
-        'founded': 1994,
-        'dissolved': 1998,
-        },
-
-    {
-        'name': 'Reno Rattlers',
-        'city': 'Reno, NV',
-        'founded': 1994,
-        'dissolved': 1998,
-        },
-
-    {
-        'name': 'Reno Rattlers',
-        'city': 'Reno, NV',
-        'founded': 1994,
-        'dissolved': 1998,
-        },
-
-    {
-        'name': 'Reno Rattlers',
-        'city': 'Reno, NV',
-        'founded': 1994,
-        'dissolved': 1998,
-        },
-
-
-    {
         'name': 'Colorado Foxes',
         'city': 'Commerce City, CO',
         },
@@ -660,7 +610,7 @@ l = [
     {
         'name': 'Albany Admirals',
         'city': 'Albany, NY',
-        'founded': 20031,
+        'founded': 2003,
         'dissolved': 2010,
         },
 

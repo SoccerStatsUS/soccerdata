@@ -12,6 +12,32 @@ l = [
         },
 
     {
+        'name': 'San Jose Oaks',
+        'city': 'San Jose, CA',
+        'founded': 1974,
+        },
+    {
+        'name': 'California Sunshine',
+        'city': 'Fountain Valley, CA',
+        'founded': 1977,
+        'dissolved': 1980,
+        },
+
+    {
+        'name': 'Golden Gate Gales',
+        'city': 'Oakland, CA',
+        'founded': 1980,
+        'dissolved': 1980,
+        },
+    {
+        'name': 'Santa Barbara Condors',
+        'city': 'Santa Barbara, CA',
+        'founded': 1977,
+        'dissolved': 1977,
+        },
+
+
+    {
         'name': 'Los Angeles Blues',
         'city': 'Fullerton, CA',
         'founded': 2010,

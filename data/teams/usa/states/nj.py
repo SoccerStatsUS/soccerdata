@@ -20,6 +20,13 @@ l = [
         },
 
     {
+        'name': 'Erie AA',
+        'city': 'Harrison, NJ',
+        #'founded': 1987,
+        #'dissolved': 1990,
+        },
+
+    {
         'name': 'Penn-Jersey Spirit',
         'city': 'Ewing, NJ',
         'founded': 1990,
@@ -32,6 +39,44 @@ l = [
         'city': 'Denville, NJ',
         'founded': 2007,
         },
+
+    {
+        'name': 'Newark Almas',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Kearney Clarks ONT',
+        'founded': datetime.datetime(1883, 11, 15),
+        'city': 'Kearny, NJ',
+        },
+
+    {
+        'name': 'Newark Caledonians',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Babcock and Wilcox',
+        'city': 'Bayonne, NJ',
+        },
+
+    {
+        'name': 'Centreville AC',
+        'city': 'Bayonne, NJ',
+        },
+
+    {
+        'name': 'West Hudson A.A.',
+        'city': 'West Hudson, NJ',
+        },
+
+
+    {
+        'name': 'Elizabeth Falcons',
+        'city': 'Elizabeth, NJ',
+        }
+
 
 ]
  

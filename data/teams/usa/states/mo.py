@@ -19,6 +19,13 @@ l = [
         },
 
     {
+        'name': 'St. Louis Frogs',
+        'city': 'St. Louis, MO',
+        'founded': 1972,
+        'dissolved': 1972,
+        },
+
+    {
         'name': 'Ben Millers',
         'city': 'St. Louis, MO',
         'founded': 1913,

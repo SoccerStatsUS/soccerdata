@@ -18,6 +18,15 @@ l = [
         'founded': 2010,
         },
 
+
+
+    {
+        'name': 'Galt F.C.',
+        'city': 'Galt, ON',
+        'founded': 1881,
+        'dissolved': 1910,
+        },
+
     {
         'name': 'Winnipeg Alliance',
         'city': 'Winnipeg, MB',

@@ -18,6 +18,28 @@ l = [
         'dissolved': 1979,
         },
 
+
+    {
+        'name': 'Cincinnati Comets',
+        'city': 'Cincinnati, OH',
+        'founded': 1972,
+        'dissolved': 1975,
+        },
+
+    {
+        'name': 'Cleveland Cobras',
+        'city': 'Cleveland, OH',
+        'founded': 1972,
+        'dissolved': 1981,
+        },
+
+    {
+        'name': 'Columbus Magic',
+        'city': 'Columbus, OH',
+        'founded': 1979,
+        'dissolved': 1980,
+        },
+
     {
         'name': 'Columbus Capitals',
         'city': 'Columbus, OH',

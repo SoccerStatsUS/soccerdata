@@ -19,11 +19,52 @@ l = [
         'dissolved': 2009,
         },
 
+    {
+        'name': 'Boston Tigers',
+        'city': 'Boston, MA',
+        'founded': 1963,
+        'dissolved': 1968,
+        },
+
 
     {
         'name': 'Acton Colonials',
         'city': 'Acton, MA',
         },
+    {
+        'name': 'Fall River East Ends',
+        'city': 'Fall River, MA',
+        },
+    {
+        'name': 'Fall River North Ends',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Olympics',
+        'city': 'Fall River, MA',
+        },
+    {
+        'name': 'Fall River Rangers',
+        'city': 'Fall River, MA',
+        },
+    {
+        'name': 'Fall River Barnaby Mills',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Canonicuts',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Wamsuttas',
+        'city': 'Fall River, MA',
+        },
+
+
+
 
     {
         'name': 'Cambridge Faialense',

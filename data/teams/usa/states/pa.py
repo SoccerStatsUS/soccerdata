@@ -12,6 +12,15 @@ l = [
         },
 
     {
+        'name': 'Pittsburgh Miners',
+        'city': 'Pittsburgh, PA',
+        'founded': 1975,
+        'dissolved': 1975,
+        },
+
+
+
+    {
         'name': 'Philadelphia Freedom',
         'city': 'Philadelphia, PA',
         'founded': 1994,

@@ -12,6 +12,31 @@ l = [
         },
 
     {
+        'name': 'Chivas Tijuana',
+        'founded': 1997,
+        'dissolved': 1999, # became Nacional de Tijuana?
+        'city': 'Tijuana, Mexico',
+        },
+
+    {
+        'name': 'River Plate Puerto Rico',
+        'founded': 2007,
+        'city': 'Fajardo, Puerto Rico',
+        },
+
+    {
+        'name': 'Sevilla FC Puerto Rico',
+        'founded': 2006,
+        'city': 'Juncos, Puerto Rico',
+        },
+
+    {
+        'name': 'Puerto Rico United',
+        'founded': 2007,
+        'city': 'Aguada, Puerto Rico',
+        },
+
+    {
         'name': 'Harbour View',
         'founded': 1974,
         'city': 'Kingston, Jamaica',
@@ -827,6 +852,25 @@ l = [
         'name': 'Sithoc',
         'city': 'Mahuma, Curacao',
         'founded': datetime.date(1942, 3, 7),
+        },
+
+    {
+        'name': 'SV River Plate Aruba',
+        'city': 'Madiki, Aruba',
+        'founded': datetime.date(1953, 2, 1),
+        },
+
+    {
+        'name': 'Wagiya',
+        'city': 'Dangriga, Belize',
+        'founded': 1984,
+        },
+
+
+    {
+        'name': 'Vista Hermosa',
+        'city': 'Morazan, El Salvador',
+        'founded': datetime.datetime(1999, 4, 17)
         },
 
     {

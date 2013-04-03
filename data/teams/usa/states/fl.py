@@ -12,6 +12,12 @@ l = [
         'dissolved': 1992,
         },
     {
+        'name': 'Tampa Bay Rowdies',
+        'city': 'Tampa Bay, FL',
+        'founded': 1975,
+        'dissolved': 1993,
+        },
+    {
         'name': 'Orlando City SC',
         'city': 'Orlando, FL',
         'founded': 2010,

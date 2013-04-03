@@ -9,6 +9,21 @@ l = [
         'founded': 1878,
         'city': 'Manchester, England',
         },
+
+    {
+        'name': 'Austria Wien',
+        'founded': datetime.datetime(1911, 3, 12),
+        'city': 'Vienna, Austira',
+        },
+
+
+    {
+        'name': 'Corinthian F.C.',
+        'founded': 1882,
+        'dissolved': 1939,
+        'city': 'London, England',
+        'next': 'Corinthian-Casuals F.C.',
+        },
     {
         'name': 'Birmingham City F.C.',
         'founded': 1875,
@@ -90,16 +105,19 @@ l = [
         'founded': datetime.datetime(1897, 5, 29),
         'city': 'Norrkoping, Sweden',
         },
+
+    # Same team?????
     {
         'name': 'Karlsruher SC',
         'founded': datetime.datetime(1894, 6, 6),
         'city': 'Karlsruhe, Germany',
         },
     {
-        'name': 'Vicenza Calcio',
-        'founded': datetime.datetime(1902, 3, 9),
-        'city': 'Vicenza, Italy',
+        'name': 'Karlsruher FV',
+        'founded': 1891,
+        'city': 'Karlsruhe, Germany',
         },
+
     {
         'name': 'MTK Budapest',
         'founded': datetime.datetime(1888, 11, 16),
@@ -159,9 +177,14 @@ l = [
 
     {
         'name': 'Dynamo Bucharest',
-        'founded': 1948,
-        'dissolved': 1996,
-        'city': 'Prague, Czech Republic',
+        'founded': datetime.datetime(1948, 5, 14),
+        'city': 'Bucharest, Romania',
+        },
+
+    {
+        'name': 'FC Steaua București',
+        'founded': datetime.datetime(1947, 6, 7),
+        'city': 'Bucharest, Romania',
         },
 
     {
@@ -264,6 +287,8 @@ l = [
         'founded': datetime.datetime(1945, 3, 4),
         'city': 'Belgrade, Serbia',
         },
+
+
 
     {
         'name': 'Real Oviedo',
@@ -576,9 +601,21 @@ l = [
         },
 
     {
+        'name': 'Partizan Belgrade',
+        'founded': datetime.datetime(1945, 10, 4),
+        'city': 'Belgrade, Serbia',
+        },
+
+    {
         'name': 'Paris Saint-Germain F.C.',
         'founded': datetime.datetime(1970, 8, 12),
         'city': 'Paris, France',
+        },
+
+    {
+        'name': 'Parma F.C.',
+        'founded': datetime.datetime(1913, 12, 16),
+        'city': 'Parma, Italy',
         },
 
 
@@ -664,6 +701,12 @@ l = [
         'name': 'Vicenza Calcio',
         'founded': datetime.datetime(1902, 3, 9),
         'city': 'Vicenza, Italy',
+        },
+
+    {
+        'name': 'Videoton FC',
+        'founded': 1941,
+        'city': 'Székesfehérvár, Hungary',
         },
 
     {
@@ -940,11 +983,6 @@ l = [
         'city': 'London, England',
         },
 
-    {
-        'name': 'Aberdeen F.C.',
-        'founded': 1903,
-        'city': 'Aberdeen, Scotland',
-        },
 
     {
         'name': 'US Cantazaro 1929',
@@ -1320,11 +1358,7 @@ l = [
         'founded': 1877,
         'city': 'Wolverhampton, England',
         },
-    {
-        'name': 'Karlsruher FV',
-        'founded': 1891,
-        'city': 'Karlsruhe, Germany',
-        },
+
     {
         'name': 'ASV Bergedorf',
         'founded': datetime.datetime(1885, 3, 29),
@@ -1335,11 +1369,105 @@ l = [
         'founded': datetime.datetime(1860, 7, 28),
         'city': 'Marburg, Germany',
         },
+
     {
-        'name': 'VfL Marburg',
-        'founded': datetime.datetime(1860, 7, 28),
-        'city': 'Marburg, Germany',
+        'name': 'Wisbech Town F.C.',
+        'founded': 1920,
+        'city': 'Wisbech, England',
         },
+
+    {
+        'name': 'King\'s Lynn F.C.',
+        'founded': 1879,
+        'dissolved': datetime.datetime(2009, 11, 25),
+        'city': 'King\'s Lynn, England',
+        },
+
+    {
+        'name': 'Ely City FC',
+        'founded': 1885,
+        'city': 'Ely, England',
+        },
+
+    {
+        'name': 'Newmarket Town F.C.',
+        'founded': datetime.datetime(1877, 11, 22),
+        'city': 'Newmarket, England',
+        },
+
+    {
+        'name': 'Peterborough United F.C.',
+        'founded': 1934,
+        'city': 'Peterborough, England',
+        },
+
+    {
+        'name': 'Barking F.C.',
+        'founded': 1880,
+        'city': 'Barking, England',
+        },
+
+    {
+        'name': 'Bromsgrove Rovers F.C.',
+        'founded': 1885,
+        'dissolved': 2010,
+        'city': 'Bromsgrove, England',
+        },
+    {
+        'name': 'Crystal Palace F.C.',
+        'founded': datetime.datetime(1905, 9, 10),
+        'city': 'South Norwood, England',
+        },
+
+    {
+        'name': 'Pegasus A.F.C.',
+        'founded': 1948,
+        'city': 'Oxford, England',
+        },
+
+    {
+        'name': 'Millwall F.C.',
+        'founded': datetime.datetime(1885, 10, 3),
+        'city': 'South Bermondsey, England',
+        },
+
+    {
+        'name': 'Nørresundby Boldklub',
+        'founded': datetime.datetime(1946, 6, 6),
+        'city': 'Aalborg, Denmark',
+        },
+
+    {
+        'name': 'FinnPa',
+        'founded': 1965,
+        'dissolved': 1998,
+        'city': 'Helsinki, Finland',
+        },
+
+    {
+        'name': 'AC Reggiana 1919',
+        'founded': 1919,
+        'city': 'Reggiana, Italy',
+        },
+
+    {
+        'name': 'IBV',
+        'founded': 1903,
+        'city': 'Vestmannaeyjar, Iceland',
+        },
+
+    {
+        'name': 'Lyngby BK',
+        'founded': 1921,
+        'city': 'Lyngby, Denmark',
+        },
+
+    {
+        'name': 'Rosenborg BK',
+        'founded': datetime.datetime(1917, 5, 19),
+        'city': 'Trondheim, Norway',
+        },
+
     {
         'name': 'Hibernian F.C.',
         'founded': 1875,
@@ -1447,107 +1575,5 @@ l = [
         'founded': 1913,
         'city': 'Valenciennes, France',
         },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
-        },
-
 
     ]

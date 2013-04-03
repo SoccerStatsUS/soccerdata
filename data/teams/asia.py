@@ -10,6 +10,36 @@ l = [
         'founded': datetime.datetime(2000, 8, 19),
         'city': 'Chongqing, China',
         },
+
+    {
+        'name': 'Suwon Bluewings',
+        'founded': 1995,
+        'city': 'Suwon, South Korea',
+        },
+
+    {
+        'name': 'FC Tokyo',
+        'founded': 1935,
+        'city': 'Tokyo, Japan',
+        },
+
+    {
+        'name': 'Kashima Antlers',
+        'founded': 1947,
+        'city': 'Kashima, Japan',
+        },
+
+    {
+        'name': 'Jubilo Iwata',
+        'founded': 1970,
+        'city': 'Iwata, Japan',
+        },
+
+    {
+        'name': 'Oita Trinita',
+        'founded': 1994,
+        'city': 'Oita, Japan',
+        },
     {
         'name': 'Liaoning Whowin',
         'founded': 1953,

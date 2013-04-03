@@ -1499,6 +1499,94 @@ l = [
         'city': 'Omaha, NE',
        },
 
+    {
+        'name': 'Virginia Military Institute',
+        'city': 'Lexington, VA',
+       },
+
+    {
+        'name': 'Iowa State University',
+        'city': 'Ames, IA',
+       },
+
+
+    {
+        'name': 'Shurtleff College',
+        'city': 'Alton, IL',
+       },
+
+    {
+        'name': 'Washburn University',
+        'city': 'Topeka, KS',
+       },
+
+    {
+        'name': 'University of Minnesota',
+        'city': 'Minneapolis, MN',
+       },
+
+
+    {
+        'name': 'Hamline University',
+        'city': 'Saint Paul, MN',
+       },
+
+
+    {
+        'name': 'Washington and Lee University',
+        'city': 'Lexington, VA',
+       },
+
+    {
+        'name': 'Case Western Reserve University',
+        'city': 'Cleveland, OH',
+       },
+
+    {
+        'name': 'Middlebury College',
+        'city': 'Middlebury, VT',
+       },
+
+    {
+        'name': 'Stevens Institute of Technology',
+        'city': 'Hoboken, NJ',
+       },
+
+    {
+        'name': 'Tufts University',
+        'city': 'Medford, MA',
+       },
+
+    {
+        'name': 'Dickinson College',
+        'city': 'Carlisle, PA',
+       },
+
+    {
+        'name': 'City College of New York',
+        'city': 'New York, NY',
+       },
+
+    {
+        'name': 'Wesleyan Universiyt',
+        'city': 'Middletown, CT',
+       },
+
+    {
+        'name': 'Randolph-Macon College',
+        'city': 'Ashland, VA',
+       },
+
+    {
+        'name': 'Olivet College',
+        'city': 'Olivet, MI',
+       },
+
+    {
+        'name': 'Albion College',
+        'city': 'Albion, MI',
+       },
+
 
 
 
