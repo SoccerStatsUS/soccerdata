@@ -179,6 +179,11 @@ last_name = {
 
 
 basic = {
+    'Dustin Buno': 'Dustin Bond',
+    'Taifour Diane': 'Taifour Diané',
+    'Kerwyn Jemmott': 'Kerwyn Jemmot',
+
+    'Tiernan King': 'Tiarnan King',
 
     'Aaron Padilla': 'Aarón Padilla',
     'Adaozinho': 'Adãozinho',
@@ -4603,6 +4608,7 @@ nx = {
     'Victor Cordero': 'Víctor Cordero',
     'Leonidas': 'Leônidas',
     'Teofilo Cubillas': 'Teófilo Cubillas',
+    'Teofilo Cubillas Jr.': 'Teófilo Cubillas',
     'Joel Sanchez': 'Joel Sánchez',
     'John Mackenzie': 'John MacKenzie',
     'Guillermo Stabile': 'Guillermo Stábile',
