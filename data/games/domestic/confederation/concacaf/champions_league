@@ -144,7 +144,7 @@ Group: Group D
 10/8/2008; Municipal; 2-2; Tauro; Estadio Mateo Flores; Marco Rodriguez; 1000
 10/8/2008; Santos Laguna; 3-0; Puerto Rico Islanders; Estadio Corona; Joel Aguilar; 12000
 10/22/2008; Santos Laguna; 3-0; Tauro; Estadio Corona; Carlos Batres; 16000
-10/23/2008; Puerto Islanders; 0-1; Municipal; Estadio Juan Ramon Loubriel; Geoffrey Hospedales; 7500
+10/23/2008; Puerto Rico Islanders; 0-1; Municipal; Estadio Juan Ramon Loubriel; Geoffrey Hospedales; 7500
 10/29/2008; Tauro; 2-2; Puerto Rico Islanders; Estadio Nacional Rod Carew; German Arredondo; 1500
 10/30/2008; Municipal; 4-4; Santos Laguna; Estadio Mateo Flores; Walter Quesada; 1764
 
@@ -474,7 +474,7 @@ Source: MLS Lineup Database
 Real Salt Lake: Nick Rimando, Chris Wingert, Nat Borchers, Rauwshawn McKenzie, Robbie Russell, Nelson Gonzalez (Ned Grabavoy 46), Kyle Beckerman, Javier Morales (Andy Williams 74), Will Johnson, Alvaro Saborio, Fabian Espindola (Robbie Findley 74)
 Source: MLS Lineup Database
 
-9/15/2010; Arabe Union; 0-6; Cruz Azul; Estadio Rommel Fernandez; Terry Vaughn; 2975
+9/15/2010; Arabe Unido; 0-6; Cruz Azul; Estadio Rommel Fernandez; Terry Vaughn; 2975
 
 9/15/2010; Real Salt Lake; 4-1; Toronto FC; Rio Tinto Stadium; Mauricio Morales; 11579
 Kyle Beckerman (Andy Williams) 21, Jamison Olave (Andy Williams) 40, Alvaro Saborio (penalty kick) 69, Paulo Araujo (Robbie Findley) 80; Maicon Santos (O'Brian White) 8	
@@ -863,15 +863,25 @@ Group: Group 8
 9/26/2012; W Connection; 1-1; Chivas Guadalajara; Ato Boldon Stadium; David Rubalcaba; 233
 10/25/2012; Chivas Guadalajara; 2-1; Xelaju; Estadio Omnilife; Edvin Jurisevic; 7736
 
+
 Round: Quarterfinals
 
+3/5/2013; Houston Dynamo; 1-0; Santos Laguna; BBVA Compass Stadium; Roberto Moreno; 17454
+3/6/2013; Xelaju; 1-3; Monterrey; Estadio Mario Camposeco; Silviu Petrescu; 4553
+3/6/2013; Tigres UANL; 1-0; Seattle Sounders; Estadio Universitario, San Nicolas de los Garza; Jeffrey Solis; 32810
+3/6/2013; Herediano; 0-0; Los Angeles Galaxy; Estadio Eladio Rosabal Cordero; Courtney Campbell; 4314
 
-3/5/2013; Houston Dynamo; v; Santos Laguna; BBVA Compass Stadium
-3/6/2013; Xelaju; v; Monterrey; Estadio Mario Camposeco
-3/6/2013; Tigres UANL; v; Seattle Sounders; Estadio Universitario, San Nicolas de los Garza
-3/6/2013; Herediano; v; Los Angeles Galaxy; Estadio Eladio Rosabal Cordero
+3/12/2013; Monterrey; 1-1; Xelaju; Estadio Tecnologico; Marcos Brea; 30440
+3/12/2013; Seattle Sounders; 3-1; Tigres UANL; CenturyLink Field; Elmer Bonilla; 20520
+3/13/2013; Santos Laguna; 3-0; Houston Dynamo; Estadio Corona; Enrico Wijngaarde; 27563
+3/13/2013; Los Angeles Galaxy; 4-1; Herediano; Home Depot Center; Walter Lopez; 8284
 
-3/12/2013; Monterrey; v; Xelaju; Estadio Tecnologico
-3/12/2013; Seattle Sounders; v; Tigres UANL; CenturyLink Field
-3/13/2013; Santos Laguna; v; Houston Dynamo; Estadio Corona
-3/13/2013; Los Angeles Galaxy; v; Herediano; Home Depot Center
+
+Round: Semifinals
+
+4/2/2013; Seattle Sounders; v; Santos Laguna; CenturyLink Field
+4/3/2013; Los Angeles Galaxy; v; Monterrey; Home Depot Center
+
+4/9/2013; Santos Laguna; v; Seattle Sounders; Estadio Corona
+4/10/2013; Monterrey; v; Los Angeles Galaxy; Estadio Tecnologico
+
