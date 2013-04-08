@@ -7,7 +7,52 @@
 # (Círculo de Periodistas Deportivos de la República Argentina) as one of 
 # the Olimpia Awards, the most important sports award in Argentina.
 
-footballer = [
+
+d = {
+    'competition': 'Argentine Primera División',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        (1899, 'Belgrano Athletic'),
+        (1900, 'English High School AC'),
+        (1901, 'Alumni'),
+        (1902, 'Alumni'),
+        (1903, 'Alumni'),
+        (1904, 'Belgrano Athletic'),
+        (1905, 'Alumni'),
+        (1906, 'Alumni'),
+        (1907, 'Alumni'),
+        (1908, 'Belgrano Athletic'),
+        (1909, 'Alumni'),
+        (1910, 'Alumni'),
+        (1911, 'Alumni'),
+        #(1912, 
+        #(1913, 
+        #(1914,
+        (1915, 'Racing Club (Argentina)'),
+        (1916, 'Racing Club (Argentina)'),
+        (1917, 'Racing Club (Argentina)'),
+        (1918, 'Racing Club (Argentina)'),
+        #(1919,
+        (1927, 'San Lorenzo de Almagro'),
+        (1928, 'Huracan'),
+        (1929, 'Gimnasia y Esgrima La Plata'),
+
+        (1935, 'Boca Juniors'),
+        (1936, 'River Plate'),
+        (1937, 'River Plate'),
+        (1938, 'Independiente'),
+        (1939, 'Independiente'),
+        (1940, 'Boca Juniors'),
+         ]
+
+
+
+
+}
+
+l = [
     (1970, ('Héctor Yazalde', )),
     (1971, ('José Omar Pastoriza', )), 
     (1972, ('Ángel Bargas', )),

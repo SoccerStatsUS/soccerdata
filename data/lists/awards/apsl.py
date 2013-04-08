@@ -11,6 +11,9 @@ apslpc = {
 
 
 
+
+
+
 d = {
     'competition': 'American Professional Soccer League',
     'team_data': 'Champion',
@@ -31,7 +34,7 @@ d = {
         (1990, 'Mark Dodd'),
         (1990, 'Philip Gyau'),
         (1991, 'Jean Harbor'),
-        (1992, 'Talifour Diane'),
+        (1992, 'Taifour Diane'),
         (1993, 'Paulinho'),
         (1994, 'Paulinho'),
         (1995, 'Peter Hattrup'),
@@ -41,7 +44,7 @@ d = {
     'Rookie of the Year': [
         (1990, 'Steve Pittman'),
         (1991, 'Zico Doe'),
-        (1992, 'Talifour Diane'),
+        (1992, 'Taifour Diane'),
         (1993, 'Jason Devos'),
         (1994, 'Jason Dunn'),
         (1995, 'Guiliano Oliviero'),
@@ -64,7 +67,7 @@ d = {
         ],
 
 
-    'All-Stars': [
+    'All-Star': [
         (1988, [
                 'Winston DuBose',
                 'Alan Rough',
@@ -144,7 +147,7 @@ d = {
                 'Jorge Salazar',
                 'Dominic Kinnear',
                 'Kevin Sloan',
-                'Talifour Diane',
+                'Taifour Diane',
                 'Jean Harbor',
                 ]),
 

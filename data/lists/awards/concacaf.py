@@ -21,7 +21,7 @@ champions_cup = {
         (1976, 'Aguila'),
         (1978, 'Universidad de Guadalajara'),
         (1978, 'Comunicaciones'),
-        (1978, 'Defence Core'),
+        (1978, 'Defence Force'),
         (1979, 'FAS'),
         (1980, 'UNAM'),
         (1981, 'Transvaal'),
