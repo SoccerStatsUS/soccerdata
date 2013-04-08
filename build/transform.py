@@ -23,7 +23,10 @@ def transform():
 
 
     transform_team_names_for_competition('fifa', 'FIFA U-20 World Cup', '%s U-20')
-    transform_team_names_for_competition('concacaf_i', 'CONCACAF U-17 Championship', '%s U-17')
+
+    transform_team_names_for_competition('concacaf_i', 'CONCACAF U-20 Championship', '%s U-20')
+
+    transform_team_names_for_competition('concacaf_i', 'CONCACAF Men\'s Olympic Qualifying Tournament', '%s Olympic')
 
     # Lots of complicated player name transformations that really don't work.
 

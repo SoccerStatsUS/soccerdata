@@ -126,7 +126,6 @@ def calculate_game_results(d):
 
 
 
-
 # Change all of these to use only a single game.
 
 def normalize_game(e):
@@ -189,11 +188,25 @@ def normalize_game(e):
 def normalize_pick(e):
     e['text'] = get_name(e['text'])
     e['team'] = get_team(e['team'])
+    if e['former_team'] is not None:
+        e['former_team'] = get_team(e['former_team'])
     return e
 
 
 def normalize_salary(e):
     e['name'] = get_name(e['name'])
+    return e
+
+
+
+def normalize_team(e):
+
+
+
+    e['name'] = get_team(e['name'])
+    
+
+
     return e
 
 
@@ -371,10 +384,13 @@ def normalize():
             normalize_single_coll(coll, func)
             
 
+
     normalize_single_coll(soccer_db.picks, normalize_pick)
     normalize_single_coll(soccer_db.salaries, normalize_salary)
     normalize_single_coll(soccer_db.stadiums, normalize_stadium)
     normalize_single_coll(soccer_db.bios, normalize_bio)
+    normalize_single_coll(soccer_db.teams, normalize_team)
+
 
     # Not normalizing fouls, rosters...
     # Bios only as a group.
@@ -385,3 +401,4 @@ def normalize():
     normalize_multiple_colls('standings', normalize_standing)
     normalize_multiple_colls('rosters', normalize_roster)
     normalize_multiple_colls('awards', normalize_award)
+

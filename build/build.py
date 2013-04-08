@@ -54,6 +54,7 @@ def build():
     print "Normalizing"
     normalize()
 
+
     # e.g. United States -> United States U-17
     # Transform names like Carnihan -> Bill Carnihan if possible.
     # Transformation should happen before normalization?
@@ -75,7 +76,7 @@ def build():
     print "Merging"
     merge()
 
-    print "Generating from merged data."
+    print "Generating standings, stats from merged data; generating indexes on db's."
     generate2()
 
     print "Denormalizing"

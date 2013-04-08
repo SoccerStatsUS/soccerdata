@@ -53,9 +53,10 @@ def standard_merge(coll):
 
 
 def merge_teams():
-    soccer_db.teams.drop()
-    insert_rows(soccer_db.teams, soccer_db.chris_teams.find())
-    insert_rows(soccer_db.teams, soccer_db.wiki_teams.find())
+    #soccer_db.teams.drop()
+    #insert_rows(soccer_db.teams, soccer_db.chris_teams.find())
+    #insert_rows(soccer_db.teams, soccer_db.wiki_teams.find())
+    pass
 
 
 

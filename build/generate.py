@@ -27,6 +27,11 @@ def generate2():
     generate_all_standings()
 
     generate_competition_stats()
+    generate_mongo_indexes()
+
+def generate_mongo_indexes():
+    from mongo import soccer_db
+    soccer_db.games.ensure_index("date")
     
 
 def make_state_code_dict():
@@ -67,6 +72,10 @@ def generate_competition_stats():
     competition_generate('CONCACAF Champions\' Cup')
     competition_generate('North American SuperLiga')
 
+    competition_generate('Copa Libertadores')
+
+
+
 
     competition_generate('MLS Cup Playoffs')
     competition_generate('MLS Reserve League')
@@ -86,6 +95,7 @@ def generate_competition_stats():
     competition_generate('American Soccer League (1934-1983)')
 
 
+    competition_generate('Mundialito')
 
     #competition_generate('North American Soccer League')
 
