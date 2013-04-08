@@ -1,6 +1,8 @@
 import leveldb
+import os
 import random
 import time
+from urllib import urlencode
 import urllib2
 
 from BeautifulSoup import BeautifulSoup
@@ -9,6 +11,24 @@ db = leveldb.LevelDB("/home/chris/leveldb/page")
 
 # USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 5.1; rv:8.0; en_us) Gecko/20100101 Firefox/8.0'
+
+
+
+def list_paths(root):
+    l = []
+    for dirname, _, filenames in os.walk(root):
+        for fn in filenames:
+            if fn.endswith('.py') and fn != '__init__.py':
+                l.append(os.path.join(dirname, fn))
+    return l
+
+def import_path(p):
+    #assert p.endswith('.py')
+    #m = p[:-3].replace('/', '.')
+    return __import__(p, fromlist=["dummy value"]) # __import requires non-empty fromlist to import submodules (foo.bar.baz)
+    
+
+        
 
 def pounds_to_kg(pounds):
     if not pounds:
@@ -89,7 +109,7 @@ def scrape_post_soup():
     return BeautifulSoup(data)
 
 
-def scrape_url(url, refresh=False, encoding=None, sleep=5, fix_tags=False):
+def scrape_url(url, refresh=False, encoding=None, sleep=5, fix_tags=False, url_data={}):
     """
     Scrape a url, or just use a version saved in mongodb.
     """
@@ -121,8 +141,12 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5, fix_tags=False):
 
         opener = urllib2.build_opener()
         opener.addheaders = [('User-agent', USER_AGENT)]
-        data = opener.open(url).read()
-
+        if url_data:
+            post = urlencode(url_data)
+            import pdb; pdb.set_trace()
+            data = opener.open(url, data=post).read()
+        else:
+            data = opener.open(url).read()
         db.Put(url, data)
 
     # jesus christ.
