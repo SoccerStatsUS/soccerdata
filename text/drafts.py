@@ -36,8 +36,9 @@ def remove_pairs(text, start, end):
 
 def load_draft_data():
 
-    draft_filenames = ['allocation', 'college', 'dispersal', 'expansion', 'inaugural', 'nasl', 'superdraft', 'supplemental', 'supplemental2', 'usl']
-    draft_filenames += ['usmnt/2004', 'usmnt/2005', 'usmnt/2006', 'usmnt/2007', 'usmnt/2008', 'usmnt/2009', 'usmnt/2010', 'usmnt/2011', 'usmnt/2012'] #, 'usmnt/2013']
+    draft_filenames = ['allocation', 'college', 'dispersal', 'expansion', 'inaugural',  'reentry', 'superdraft', 'supplemental', 'supplemental2', 'nasl', 'usl']
+    #draft_filenames += ['usmnt/2004', 'usmnt/2005', 'usmnt/2006', 'usmnt/2007', 'usmnt/2008', 'usmnt/2009', 'usmnt/2010', 'usmnt/2011', 'usmnt/2012'] #, 'usmnt/2013']
+
 
     dp = DraftProcessor()
 

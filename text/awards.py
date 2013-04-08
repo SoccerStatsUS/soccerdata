@@ -68,6 +68,20 @@ def process_nasl_awards():
     from soccerdata.data.lists.awards.nasl import d
     return process_awards(d)
 
+def process_uruguay_awards():
+    from soccerdata.data.lists.awards.uruguay import d
+    return process_awards(d)
+
+def process_chile_awards():
+    from soccerdata.data.lists.awards.chile import d
+    return process_awards(d)
+
+
+def process_argentina_awards():
+    from soccerdata.data.lists.awards.argentina import d
+    return process_awards(d)
+
+
 def process_uncaf_awards():
     from soccerdata.data.lists.awards.uncaf import d
     return process_awards(d)
