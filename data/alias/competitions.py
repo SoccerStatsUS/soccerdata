@@ -5,6 +5,9 @@
 aliases = {}
 
 full_alias = {
+
+    'Chilean Primera División': 'Chilean Primera Division',
+
     'Merconorte Cup': 'Copa Merconorte',
 
     'Duvalier Cup': 'Coupe Duvalier',

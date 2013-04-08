@@ -15,6 +15,8 @@ def get_place(s):
 
 
 places = {
+    'Randall\'s Island, NYC': 'Downing Stadium',
+    'Estadio Nacional, San Jose, Costa Rica': 'Estadio Nacional de Costa Rica',
     'Estadio Independencia, Esteli': 'Estadio Independencia (Esteli)',
     'Estadio Universitario, San Nicolas de los Garza': 'El Volcan',
     'Estadio Nacional, Lima': 'Estadio Nacional de Peru',
