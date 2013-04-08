@@ -11,6 +11,12 @@ l = [
         'founded': 1992,
         'dissolved': 1997,
         },
+
+    {
+        'name': 'Chattanooga FC',
+        'city': 'Chattanooga, TN',
+        'founded': 2009,
+        },
     {
         'name': 'Nashville Diamonds',
         'city': 'Nashville, TN',

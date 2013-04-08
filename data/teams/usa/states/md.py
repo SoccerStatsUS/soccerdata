@@ -10,6 +10,21 @@ l = [
         'city': 'Baltimore, MD',
         'founded': 2011,
         },
+
+    {
+        'name': 'Allied SC',
+        'city': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Baltimore Colts FC',
+        'city': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Reggae Boyz FC',
+        'city': 'Harmans, MD',
+        },
     {
         'name': 'Crystal Palace Baltimore',
         'city': 'Towson, MD',

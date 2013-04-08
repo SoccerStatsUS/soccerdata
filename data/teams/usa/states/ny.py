@@ -12,6 +12,18 @@ l = [
         },
 
     {
+        'name': 'New York Pancyprian-Freedoms',
+        'city': 'Jamaica, NY',
+        'founded': 1974,
+        },
+
+    {
+        'name': 'New York Greek American Atlas',
+        'city': 'New York, NY',
+        'founded': 1941,
+        },
+
+    {
         'name': 'New York Skyliners',
         'city': 'Bronx, New York',
         'founded': 1966,

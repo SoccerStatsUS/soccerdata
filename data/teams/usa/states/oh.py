@@ -12,6 +12,12 @@ l = [
         },
 
     {
+        'name': 'Cleveland Kickers',
+        'city': 'Cleveland, OH',
+        'founded': 2003,
+        },
+
+    {
         'name': 'Cincinnati Kids',
         'city': 'Cincinnati, OH',
         'founded': 1978,

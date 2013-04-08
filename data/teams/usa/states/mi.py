@@ -25,6 +25,12 @@ l = [
         },
 
     {
+        'name': 'Detroit United',
+        'city': 'Detroit, MI',
+        'founded': 2002,
+        },
+
+    {
         'name': 'Detroit Express',
         'city': 'Pontiac, MI',
         'founded': 1979,

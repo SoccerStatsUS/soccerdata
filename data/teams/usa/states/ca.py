@@ -12,6 +12,66 @@ l = [
         },
 
     {
+        'name': 'Cal FC',
+        'city': 'Thousand Oaks, CA',
+        'founded': 2007
+        },
+
+    {
+        'name': 'DV8 Defenders',
+        'city': 'Redwood City, CA',
+        'founded': 1999,
+        },
+
+    {
+        'name': 'Fullerton Rangers',
+        'city': 'Santa Ana, CA',
+        'founded': 2012,
+        },
+
+    {
+        'name': 'PSA Elite',
+        'city': 'Irvine, CA',
+        },
+
+    {
+        'name': 'Mexico SC',
+        'city': 'Fresno, CA',
+        },
+
+    {
+        'name': 'Salinas Valley Samba',
+        'city': 'Salinas, CA',
+        'founded': 2004,
+        },
+
+    {
+        'name': 'CD Mexico',
+        'city': 'San Francisco, CA',
+        'founded': 1985,
+        },
+
+
+    {
+        'name': 'Exiles SC',
+        'city': 'Los Angeles, CA',
+        'founded': 1976,
+        },
+
+    {
+        'name': 'Alianza DF',
+        'city': 'Los Angeles, CA',
+        # http://www.cesla.med.ucla.edu/v1/Documents/oped/7-4-94.htm
+        },
+
+
+    {
+        'name': 'Sonoma County Sol',
+        'city': 'Santa Rosa, CA',
+        'founded': 2004,
+        },
+
+    {
         'name': 'San Jose Oaks',
         'city': 'San Jose, CA',
         'founded': 1974,

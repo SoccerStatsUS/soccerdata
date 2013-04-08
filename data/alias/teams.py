@@ -63,6 +63,24 @@ slugs = {
 
 
 world = {
+    'Virginia Tech University': 'Virginia Tech',
+    'Dorados Sinaloa': 'Dorados de Sinaloa',
+    'Ferencvaros': 'Ferencváros',
+    'Uda Dukla': 'Dukla Prague',
+    'Ujpest': 'Újpest FC',
+    'Újpesti Dózsa': 'Újpest FC',
+    'Espoli': 'ESPOLI',
+    'Guaraní': 'Club Guaraní',
+    'Deportivo Italia': 'Deportivo Petare', # add alias.
+    'Exiles SC (South CA)': 'Exiles SC',
+    'Real Madrid (TX)': 'Real Madrid AC',
+    'Dallas Mustangs Legends': 'Legends FC',
+    'Lynch\'s FC': 'Lynch\'s Irish Pub',
+    'DS United': 'Lynch\'s Irish Pub',
+    'Atlanta FC': 'Atlanta Silverbacks Reserves',
+    'Croatian Eagles': 'Milwaukee Croatian Eagles', # Make sure there are no other Croatian Eagles.
+    'Newcastle United Jets': 'Newcastle Jets',
+    'North Queensland Fury': 'Northern Fury',
     'AS Monaco': 'AS Monaco FC',
     'Ferencvaros': 'Ferencváros',
     'Bon Sucesso': 'Bonsucesso',
@@ -72,6 +90,7 @@ world = {
     'Atlante CF': 'Atlante',
     'Club Atlante': 'Atlante',
     'Racing Avellaneda': 'Racing Club (Argentina)',
+    'Racing Club (Avellaneda)': 'Racing Club (Argentina)',
     'Real Madrid CF': 'Real Madrid',
     'Pepeganga': 'Pepeganga Margarita',
     'Santa Fe': 'CD Santa Fe',
@@ -1977,7 +1996,6 @@ usa = {
 
     #Border Bandits (South TX)
     #Rangers (South TX)
-    #Real Madrid (TX)
 
 
     'FC Dallas (Inter)': 'Dallas Mean Green',

@@ -10,6 +10,31 @@ l = [
         'founded': 1985,
         'dissolved': 1985,
         },
+
+
+    {
+        'name': 'ASC New Stars',
+        'city': 'Houston, TX',
+        'founded': 1974,
+        },
+
+
+    {
+        'name': 'Legends FC',
+        'city': 'Dallas, TX',
+        'founded': 1992,
+        },
+
+    {
+        'name': 'Regals FC',
+        'city': 'Houston, TX',
+        'founded': 1992,
+        },
+
+    {
+        'name': 'NTX Rayados',
+        'city': 'Dallas, TX',
+        },
     {
         'name': 'Permian Basin Shooting Stars',
         'city': 'Odessa, TX',
@@ -95,6 +120,12 @@ l = [
         },
 
     {
+        'name': 'Dallas Roma FC',
+        'city': 'Dallas, TX',
+        'founded': 2001,
+        },
+
+    {
         'name': 'Rio Grande Valley Bravos',
         'city': 'Brownsville, TX',
         'founded': 2008,
@@ -141,6 +172,30 @@ l = [
         'city': 'Houston, TX',
         'founded': 1983,
         'dissolved': 1991,
+        },
+
+    {
+        'name': 'El Paso Indios USA',
+        'city': 'El Paso, TX',
+        'founded': 2007,
+        'dissolved': 2008,
+        },
+
+    {
+        'name': 'Real Madrid AC',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Dallas Strikers',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Wichita Fallas Fever',
+        'city': 'Wichita Falls, TX',
+        'founded': 1989,
+        'dissolved': 1992,
         },
 
     {

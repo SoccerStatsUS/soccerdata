@@ -11,6 +11,12 @@ l = [
         },
 
     {
+        'name': 'Spartak Trnava',
+        'founded': datetime.datetime(1923, 5, 30),
+        'city': 'Trnava, Slovakia',
+        },
+
+    {
         'name': 'Austria Wien',
         'founded': datetime.datetime(1911, 3, 12),
         'city': 'Vienna, Austira',
@@ -468,14 +474,20 @@ l = [
         },
 
     {
-        'name': 'Ujpest',
-        'founded': 1885,
+        'name': 'Újpest FC',
+        'founded': datetime.datetime(1885, 6, 16),
         'city': 'Budapest, Hungary',
         },
 
     {
         'name': 'Slavia Prague',
         'founded': datetime.datetime(1892, 11, 2),
+        'city': 'Prague, Czech Republic',
+        },
+
+    {
+        'name': 'Sparta Prague',
+        'founded': datetime.datetime(1893, 11, 16),
         'city': 'Prague, Czech Republic',
         },
 

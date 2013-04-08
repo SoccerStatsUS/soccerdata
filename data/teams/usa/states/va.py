@@ -10,6 +10,11 @@ l = [
         'city': 'Sterling, VA',
         'founded': 1996,
         },
+
+    {
+        'name': 'Spartans SC',
+        'city': 'Fairfax, VA',
+        },
     {
         'name': 'Roanoke Wrath',
         'city': 'Roanoke, VA',

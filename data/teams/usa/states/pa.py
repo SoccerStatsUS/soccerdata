@@ -12,6 +12,23 @@ l = [
         },
 
     {
+        'name': 'FC Sonic Lehigh Valley',
+        'city': 'Allentown, PA',
+        'founded': 2009,
+        },
+
+    {
+        'name': 'Phoenix SC',
+        'city': 'Feasterville, PA', # Quite old?
+        },
+
+    {
+        'name': 'Vereinigung Erzgebirge',
+        'city': 'Warminster, PA',
+        'founded': 1931,
+        },
+
+    {
         'name': 'Pittsburgh Miners',
         'city': 'Pittsburgh, PA',
         'founded': 1975,

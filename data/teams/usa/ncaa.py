@@ -11,6 +11,40 @@ l = [
         },
 
     {
+        'name': 'West Chester University of Pennsylvania',
+        'city': 'West Chester, PA',
+        },
+
+    {
+        'name': 'Wofford College',
+        'city': 'Spartanburg, South Carolina',
+        },
+
+    {
+        'name': 'Haverford College',
+        'city': 'Haverford, PA',
+        },
+
+    {
+        'name': 'Pratt Institute',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Loyola University Chicago',
+        'city': 'Chicago, IL',
+        },    
+    {
+        'name': 'University of California Berkeley',
+        'city': 'Berkeley, CA',
+        },
+
+    {
+        'name': 'University of Massachusetts',
+        'city': 'Amherst, MA',
+        },
+
+    {
         'name': 'University of North Carolina',
         'city': 'Chapel Hill, NC',
         },

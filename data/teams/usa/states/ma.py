@@ -26,10 +26,34 @@ l = [
         'dissolved': 1968,
         },
 
+    {
+        'name': 'Mass United FC',
+        'city': 'Lynn, MA',
+        'founded': 2009,
+        },
+
+    {
+        'name': 'Emigrantes das Ilhas',
+        'city': 'Brockton, MA',
+        'founded': 1987,
+        },
+
 
     {
         'name': 'Acton Colonials',
         'city': 'Acton, MA',
+        },
+
+    {
+        'name': 'Battery Park Gunners',
+        'city': 'Boston, MA',
+        },
+
+    {
+        'name': 'Boston Olympiakos',
+        'city': 'Boston, MA',
+        'founded': 1990,
+        #'website': 'http://www.bostonolympiakos.com/',
         },
     {
         'name': 'Fall River East Ends',

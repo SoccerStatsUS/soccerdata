@@ -10,6 +10,21 @@ l = [
         'founded': 2011,
         },
 
+    {
+        'name': 'Danbury United',
+        'city': 'Danbury, CT',
+        },
+
+    {
+        'name': 'Olympia Stamford',
+        'city': 'Stamford, CT',
+        },
+
+    {
+        'name': 'Bridgeport Vasco da Gama',
+        'city': 'Bridgeport, CT',
+        },
+
 
     {
         'name': 'Connecticut Yankees',

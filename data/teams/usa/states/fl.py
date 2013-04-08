@@ -80,6 +80,35 @@ l = [
         },
 
     {
+        'name': 'Jacksonville United',
+        'city': 'Jacksonville, FL',
+        'founded': 2010,
+        },
+
+    {
+        'name': 'Clearwater Galactics',
+        'city': 'Clearwater, FL',
+        },
+
+    {
+        'name': 'Lynch\'s Irish Pub',
+        'city': 'Jacksonville, FL',
+        'founded': 1999,
+        },
+
+    {
+        'name': 'Uruguay SC',
+        'city': 'Fort Lauderdale, FL',
+        },
+
+    {
+        'name': 'St. Petersburg Kickers',
+        'city': 'St. Petersburg, FL',
+        'founded': 1957,
+        # dissolved?; aka Florida Kickers
+        },
+
+    {
         'name': 'Orlando Nighthawks',
         'city': 'Orlando, FL',
         'founded': 1997,

@@ -17,6 +17,17 @@ l = [
         },
 
     {
+        'name': 'Chicago Lightning',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'SAC Wisla',
+        'city': 'Chicago, IL',
+        'founded': 1927,
+        },
+
+    {
         'name': 'Chicago Cats',
         'city': 'Chicago, IL',
         'founded': 1975,

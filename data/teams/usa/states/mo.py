@@ -18,6 +18,20 @@ l = [
         'founded': 1947,
         },
 
+
+    {
+        'name': 'KC Athletics',
+        'city': 'Kansas City, MO',
+        'founded': 2001,
+        },
+
+
+    {
+        'name': 'Scott Gallagher',
+        'city': 'St. Louis, MO',
+        'founded': 1976,
+        },
+
     {
         'name': 'St. Louis Frogs',
         'city': 'St. Louis, MO',

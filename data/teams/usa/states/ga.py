@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'Georgia Revolution',
+        'city': 'Conyers, GA',
+        'founded': 2010,
+        },
+
+    {
         'name': 'Augusta FireBall',
         'city': 'Augusta, GA',
         'founded': 2005,

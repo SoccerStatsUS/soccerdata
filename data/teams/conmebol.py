@@ -12,6 +12,12 @@ l = [
         },
 
     {
+        'name': 'Nacional Táchira',
+        'founded': 1996,
+        'city': 'Tachira, Venezuela',
+        },
+
+    {
         'name': 'Paulista FC',
         'founded': datetime.datetime(1909, 5, 17),
         'city': 'Jundiai, Brazil',
@@ -54,6 +60,12 @@ l = [
         },
 
     {
+        'name': 'Deportivo Galicia',
+        'founded': 1985,
+        'city': 'Aragua, Venezuela', # moved from Caracas
+        },
+
+    {
         'name': 'Cortuluá',
         'founded': datetime.datetime(1967, 10, 6),
         'city': 'Tulua, Colombia',
@@ -71,11 +83,6 @@ l = [
         'city': 'Rocha, Uruguay',
         },
 
-    {
-        'name': 'EC Juventude',
-        'founded': datetime.datetime(1913, 6, 29),
-        'city': 'Caxias do Sul, Brazil',
-        },
 
     {
         'name': 'São Caetano',
@@ -324,6 +331,12 @@ l = [
         },
 
     {
+        'name': 'CD Everest',
+        'founded': datetime.datetime(1931, 2, 2),
+        'city': 'Guayaquil, Ecuador'
+        },
+
+    {
         'name': 'Everton de Viña del Mar',
         'founded': datetime.datetime(1909, 6, 24),
         'city': 'Vina del Mar, Chile',
@@ -465,6 +478,12 @@ l = [
         'founded': datetime.datetime(1964, 6, 1),
         'city': 'Quito, Ecuador',
         },
+
+    {
+        'name': 'América de Quito',
+        'founded': datetime.datetime(1939, 11, 25),
+        'city': 'Quito, Ecuador',
+        },
     {
         'name': 'Deportiva Canarias',
         'founded': 1963,
@@ -539,6 +558,12 @@ l = [
         'founded': datetime.datetime(1929, 4, 28),
         'city': 'Guayaquil, Ecuador',
         },
+
+    {
+        'name': 'Guabirá',
+        'founded':1962,
+        'city': 'Montero, Bolivia',
+        },
     {
         'name': 'Independiente Santa Fe',
         'founded': datetime.datetime(1941, 2, 28),
@@ -598,6 +623,18 @@ l = [
         'name': 'Cerro Largo',
         'founded': datetime.datetime(2002, 11, 19),
         'city': 'Melo, Uruguay',
+        },
+
+    {
+        'name': 'Cerro',
+        'founded': datetime.datetime(1922, 12, 1),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'U.T. Cajamarca',
+        'founded': datetime.datetime(1964, 7, 14),
+        'city': 'Cajamarca, Peru',
         },
     {
         'name': 'Deportivo Lara',
@@ -935,6 +972,18 @@ l = [
         'name': 'Provincial Osorno',
         'founded': 1983,
         'city': 'Osorno, Chile',
+        },
+
+    {
+        'name': 'CA Progreso',
+        'founded': datetime.datetime(1917, 4, 30),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'ESPOLI',
+        'founded': datetime.datetime(1986, 2, 5),
+        'city': 'Quito, Ecuador',
         },
     {
         'name': 'UA Maracaibo',
