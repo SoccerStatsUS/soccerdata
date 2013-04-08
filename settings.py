@@ -69,6 +69,10 @@ SOURCES = [
     'mexico',
     'canada',
     'guatemala',
+    'uruguay',
+    'chile',
+    'argentina',
+    'brazil',
     'australia',
     'china',
         ]
@@ -85,23 +89,27 @@ l =    [
 
 
 SINGLE_SOURCES = [
-    'sources',
-    'countries',
-    'states',
-    'state_populations',
-    'cities',
-    'stadiums', 
-    'salaries',
     'competitions',
-    'teams', 
     'bios', 
+    'teams', 
+    'stadiums', 
+    'cities',
+    'states',
+    'countries',
+
+    'news',
+    'sources',
+
     'awards', 
     'drafts',
     'picks',
-    'positions', 
-    'name_maps', 
-    'stadium_maps', 
-    'competition_maps', 
-    'news',
-    'prerosters',
+
+    'salaries', # player, date -> integer
+    'positions', # player, date -> team
+    'state_populations', # state -> integer
+    'name_maps', # team, date -> string
+    'stadium_maps', # team, date -> stadium
+    'competition_maps', # competition, date -> string
+
+    # 'prerosters', # huh?#
     ]
