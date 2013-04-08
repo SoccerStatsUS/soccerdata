@@ -49,6 +49,12 @@ l = [
         'name': 'RSL Training Field',
         'location': 'Sandy, UT',
         },
+
+    {
+        'name': 'America First Field',
+        'location': 'Sandy, UT',
+        'opened': 2012,
+        },
     
     {
         'name': 'Wendover Soccer Complex',

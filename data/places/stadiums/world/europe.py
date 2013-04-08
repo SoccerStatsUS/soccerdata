@@ -47,6 +47,13 @@ l = [
 
 
     {
+        'name': 'Espenmoos',
+        'location': 'St. Gallen, Switzerland',
+        'opened': 1910,
+        },
+
+
+    {
         'name': 'The Hawthorns',
         'location': 'West Bromwich, England',
         'opened': 1900,
@@ -213,6 +220,15 @@ l = [
         'location': 'Hamburg, Germany',
         'opened': datetime.datetime(1953, 7, 12),
         'capacity': 57000,
+        },
+
+    {
+        'name': 'Volkswagen Arena',
+        'location': 'Wolfsburg, Germany',
+        'opened': datetime.datetime(2002, 12, 13),
+        'capacity': 30000,
+        'cost': 53000000,
+        'denomination': 'Euros',
         },
 
     {
@@ -643,6 +659,35 @@ l = [
         },
 
     {
+        'name': 'AEL FC Arena',
+        'location': 'Larissa, Greece',
+        'opened': 2010,
+        'capacity': 16118,
+        },
+
+    {
+        'name': 'Valeriy Lobanovskyi Dynamo Stadium',
+        'location': 'Kiev, Ukraine',
+        'opened': 1934,
+        'capacity': 16873,
+        },
+
+    {
+        'name': 'Zdzisław Krzyszkowiak Stadium',
+        'location': 'Bydgoszcz, Poland',
+        'opened': 1960,
+        'capacity': 20247,
+        },
+
+
+    {
+        'name': 'Stadion Mladost',
+        'location': 'Strumica, Macedonia',
+        'opened': 1950,
+        'capacity': 6500,
+        },
+
+    {
         'name': 'Polish Army Stadium',
         'location': 'Warsaw, Poland',
         },
@@ -740,14 +785,62 @@ l = [
         },
 
     {
+        'name': 'A. Le Coq Arena',
+        'location': 'Tallinn, Estonia',
+        'opened': datetime.datetime(2001, 6, 2),
+        'capacity': 9692,
+        },
+
+
+
+    {
+        'name': 'Ernst-Happel-Stadion',
+        'location': 'Vienna, Austria',
+        'opened': datetime.datetime(1931, 7, 11),
+        'capacity': 50000,
+        },
+
+    {
+        'name': 'Stade Alphonse Theis',
+        'location': 'Hesperange, Luxembourg',
+        'capacity': 3058,
+        },
+
+
+    {
+        'name': 'Windsor Park',
+        'location': 'Belfast, Northern Ireland',
+        'opened': 1905,
+        'capacity': 12950,
+        },
+
+
+    {
+        'name': 'Antonis Papadopoulos Stadium',
+        'location': 'Larnaca, Cyprus',
+        'opened': 1986,
+        'capacity': 10230,
+        },
+
+    {
         'name': 'Fritz-Walter-Stadion', 
         'location': 'Kaiserslautern, Germany',
         },
 
 
     {
-        'name': 'Landsdowne Road',
+        'name': 'Lansdowne Road',
         'location': 'Dublin, Ireland',
+        'opened': 1872,
+        'closed': datetime.datetime(2006, 12, 31),
+        'capacity': 48000,
+        },
+
+    {
+        'name': 'Na Stínadlech',
+        'location': 'Teplice, Czech Republic',
+        'opened': datetime.datetime(1973, 5, 9),
+        'capacity': 18221,
         },
 
 

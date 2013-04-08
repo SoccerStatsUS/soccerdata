@@ -61,7 +61,7 @@ l = [
         },        
 
         {
-        'name': 'Foothills Park',
+        'name': 'Foothills Stadium',
         'location': 'Calgary, AB',
         },        
 
@@ -113,6 +113,13 @@ l = [
         'address': '1015 Bank Street',
         'location': 'Ottawa, ON',
         'capacity': 28826,
+        },
+
+    {
+        'name': 'Winnipeg Soccer Complex',
+        'location': 'Winnipeg, MB',
+        'opened': 1991,
+        'capacity': 2000,
         },
 
     {
@@ -355,6 +362,16 @@ l = [
                 {
         'name': 'Ulster Stadium',
         'location': 'Toronto, ON',
+        },
+
+
+                {
+        'name': 'Thunderird Stadium',
+        'address': '6288 Stadium Road',
+        'location': 'Vancouver, BC',
+        'opened': datetime.datetime(1967, 10, 7),
+        'capacity': 3500,
+        'cost': 1236188
         },
 
 ]

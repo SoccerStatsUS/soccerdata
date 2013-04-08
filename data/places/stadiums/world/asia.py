@@ -107,6 +107,27 @@ l = [
         },
 
     {
+        'name': 'Khalifa International Stadium',
+        'location': 'Doha, Qatar',
+        'opened': 1976,
+        'capacity': 40000,
+        },
+
+    {
+        'name': 'Aspire Dome',
+        'location': 'Doha, Qatar',
+        'opened': 2005,
+        'capacity': 15000,
+        },
+
+    {
+        'name': 'Tsirion Stadium',
+        'location': 'Limassol, Cyprus',
+        'opened': 1975,
+        'capacity': 13331,
+        },
+
+    {
         'name': 'Al-Sharjah Stadium', 
         'location': 'Sharjah, United Arab Emirates',
         },
@@ -168,6 +189,22 @@ l = [
         'location': 'Kunming, China',
         'capacity': 40000,
         },
+
+    {
+        'name': 'Antalya Atatürk Stadium',
+        'location': 'Antalya, Turkey',
+        'capacity': 11137,
+        },
+
+
+    {
+        'name': 'Tohoku Electric Power Big Swan Stadium',
+        'location': 'Niigata, Japan',
+        'capacity': 42300,
+        'opened': 2001,
+        
+        },
+
 
     {
         'name': 'King Fahd Stadium',

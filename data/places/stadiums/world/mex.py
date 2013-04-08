@@ -12,6 +12,13 @@ l = [
         },
 
     {
+        'name': 'Estadio León',
+        'location': 'León, Mexico',
+        'opened': 1967,
+        'capacity': 33943
+        },
+
+    {
         'name': 'Estadio Omnilife',
         'location': 'Zapopan, Jalisco',
         'opened': datetime.datetime(2010, 7, 30),
@@ -155,6 +162,16 @@ l = [
         'opened': datetime.datetime(1967, 5, 30),
         'capacity': 45000,
         },
+
+    {
+        'name': 'Estadio Víctor Manuel Reyna',
+        'location': 'Tuxtla Gutierrez, Mexico',
+        'opened': 2003,
+        'capacity': 31500,
+        },
+
+
+
 
     {
         'name': 'Estadío Universitario de Monterrey',

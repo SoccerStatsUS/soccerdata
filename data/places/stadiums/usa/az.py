@@ -47,5 +47,18 @@ l = [
         'cost': 1000000,
         'capacity': 71706,
         },
+
+
+    {
+        'name': 'Grande Sports World',
+        'location': 'Casa Grande, AZ',
+        },
+
+    {
+        'name': 'Sun Devil Soccer Stadium',
+        'location': 'Tempe, AZ',
+        'capacity': 5000,
+        'opened': datetime.datetime(2000, 4, 1),
+        },
     
 ]

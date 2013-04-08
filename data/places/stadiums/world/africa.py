@@ -24,6 +24,13 @@ l = [
         'capacity': 60000,
         },
 
+    {
+        'name': 'Kings Park Stadium',
+        'location': 'Durban, South Africa',
+        'opened': 1891,
+        'capacity': 55000,
+        },
+
 
     {
         'name': 'Mohamed V Stadium', 
@@ -75,6 +82,14 @@ l = [
         'location': 'Pretoria, South Africa',
         'opened': 1923,
         'capacity': 51762,
+        },
+
+
+    {
+        'name': 'June 11 Stadium',
+        'location': 'Tripoli, Libya',
+        'opened': 1982,
+        'capacity': 88000,
         },
 
     {

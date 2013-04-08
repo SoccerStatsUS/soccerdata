@@ -11,6 +11,11 @@ l = [
         },    
 
     {
+        'name': 'Central Broward Regional Stadium',
+        'location': 'Lauderhill, FL',
+        },    
+
+    {
         'name': 'Wolfson Park',
         'location': 'Jacksonville, FL',
         'opened': 1954,
@@ -185,6 +190,11 @@ l = [
     {
         'name': 'Royal Palm Polo Club',
         'location': 'Boca Raton, FL',
+        },
+
+    {
+        'name': 'Barker Family Stadium',
+        'location': 'Winter Park, FL',
         },
     
     ]

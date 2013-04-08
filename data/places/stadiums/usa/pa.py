@@ -26,6 +26,14 @@ l = [
         },
 
     {
+        'name': 'The Spectrum',
+        'location': 'Philadelphia, PA',
+        'opened': datetime.datetime(1967, 9, 30),
+        'closed': datetime.datetime(2009, 10, 31),
+        'cost': 12000000,
+        },
+
+    {
         'name': 'Temple Stadium',
         'address': 'Mount Pleasant Avenue and Michener Street',
         'location': 'Philadelphia, PA',

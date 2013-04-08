@@ -12,6 +12,14 @@ l = [
         },
 
     {
+        'name': 'Toyota Field',
+        'address': 'Thousand Oaks Drive',
+        'location': 'San Antonio, TX',
+        'opened': datetime.datetime(2013, 4, 13),
+        'capacity': 8000,
+        },
+
+    {
         'name': 'Herman Clark Stadium',
         'location': 'Fort Worth, TX',
         'opened': 1970,

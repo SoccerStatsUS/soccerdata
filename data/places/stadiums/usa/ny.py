@@ -103,6 +103,14 @@ l = [
         'location': 'Maspeth, NY',
         },
 
+    {
+        'name': 'James M. Shuart Stadium',
+        'location': 'Hempstead, NY',
+        'opened': 1962,
+        'capacity': 15000,
+        
+        },
+
 
     {
         'name': 'Caledonian Grounds',

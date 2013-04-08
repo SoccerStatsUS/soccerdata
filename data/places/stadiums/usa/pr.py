@@ -17,6 +17,8 @@ l = [
         'name': 'Roberto Clemente Stadium',
         'location': 'Carolina, Puerto Rico',
         },
+
+
     
     {
         'name': 'Estadio Juan Ramon Loubriel',

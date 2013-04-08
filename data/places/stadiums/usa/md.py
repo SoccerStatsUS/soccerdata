@@ -39,6 +39,13 @@ l = [
         'name': 'Bugle Field',
         'location': 'Baltimore, MD',
         },
+
+    {
+        'name': 'Homefood Field',
+        'location': 'Baltimore, MD',
+        'capacity': 8500,
+        'opened': 1906
+        },
     {
         'name': 'Sports and Learning Complex',
         'address': '8001 Sheriff Road',

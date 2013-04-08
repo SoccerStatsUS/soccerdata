@@ -29,6 +29,13 @@ l = [
         'capacity': 38000,
         },
 
+    {
+        'name': 'Estadio Alberto Gallardo',
+        'location': 'Lima, Peru',
+        #'opened': datetime.datetime(1940, 5, 25),
+        'capacity': 18000,
+        },
+
 
 
     {
@@ -396,6 +403,14 @@ l = [
         'capacity': 14000,
         },
 
+    {
+        'name': 'Estadio Metropolitano de Mérida',
+        'location': 'Merida, Venezuela',
+        'opened': 2005,
+        'capacity': 42200,
+        'cost': 107000000,
+        },
+
 
     {
         'name': 'Estadio Metropolitano',
@@ -636,6 +651,7 @@ l = [
         },
 
 
+
     {
         'name': 'Estadio Jesús Bermúdez',
         'location': 'Oruro, Bolivia',
@@ -732,12 +748,6 @@ l = [
         'capacity': 40199,
         },
 
-    {
-        'name': 'Estádio Independência',
-        'location': 'Belo Horizonte, Brazil',
-        'opened': datetime.datetime(1950, 6, 25),
-        'capacity': 25000,        
-        },
 
 
 
@@ -766,7 +776,7 @@ l = [
 
 
     {
-        'name': 'Estádio Monumental David Arellano',
+        'name': 'Estadio Monumental David Arellano',
         'location': 'Santiago, Chile',
         'opened': 1975,
         'capacity': 47000,

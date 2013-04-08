@@ -109,17 +109,10 @@ l = [
         },
     
     
-    
-    
-    
     {
-        
         'name': 'Hanson Stadium',
         'location': 'Chicago, IL',
         },
-    
-    
-    
     
     {
         'name': 'Soldier Field',

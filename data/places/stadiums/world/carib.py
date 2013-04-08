@@ -17,7 +17,14 @@ l = [
     {
         'name': 'André Kamperveen Stadion',
         'location': 'Paramaribo, Suriname',
-        'capacity': '6000',
+        'capacity': 6000,
+        },
+
+
+    {
+        'name': 'Stade Louis Achille',
+        'location': 'Fort-de-France, Martinique',
+        'capacity': 9000,
         },
 
 

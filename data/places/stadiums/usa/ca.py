@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Sherbeck Field',
+        'location': 'Fullerton, CA',
+        },
+
+    {
         'name': 'Trabuco Hills High School Stadium',
         'location': 'Mission Viejo, CA',
         },
@@ -82,6 +87,13 @@ l = [
         'capacity': 3000,
         'location': 'San Diego, CA',
         },
+
+    {
+        'name': 'Boxer Stadium',
+        'capacity': 6000,
+        'location': 'San Francisco, CA',
+        },
+
 
     {
         'name': 'Stanford Stadium',
@@ -342,6 +354,13 @@ l = [
         'capacity': 30456, 
         'cost': None, 
         'opened': 1933,
+        },        
+
+    {
+        'name': 'Anteater Stadium',
+        'address': '4000 Mesa Rd.',
+        'location': 'Irvine, CA',
+        'capacity': 2500,
         },        
     
     

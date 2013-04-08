@@ -21,6 +21,12 @@ l = [
         'location': 'New Haven, CT',
         },
 
+    {
+        'name': 'Willow Brook Park',
+        'address': '599 Main St',
+        'location': 'New Britain, CT',
+        },
+
 
     {
         'name': 'Dillon Stadium',
