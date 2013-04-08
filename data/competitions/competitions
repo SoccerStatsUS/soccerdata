@@ -18,6 +18,15 @@ Chinese Super League; ChSL; soccer; domestic; League; 1; Country; China
 Liga MX; LM; soccer; domestic; League; 1; Country; Mexico
 Primera Fuerza; LM; soccer; domestic; League; 1; Country; Mexico
 
+Chilean Primera Division; CPD; soccer; domestic; League; 1; Country; Chile
+Uruguayan Primera Division; UPD; soccer; domestic; League; 1; Country; Uruguay
+Argentine Primera División; APD; soccer; domestic; League; 1; Country; Argentina
+
+Campeonato Paulista; CP; soccer; domestic; League; 2; State; Sao Paulo
+
+
+
+
 International Soccer League; ISL; soccer; domestic; League; 2; Country; United States
 National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
 Southern New England Soccer League; SNESL; soccer; domestic; League; 2; Country; United States
@@ -100,10 +109,14 @@ World Indoor Soccer League; WISL; indoor; domestic; League; 2; Country; United S
 Olympic Games; OG; soccer; international; Cup; 1; World; Earth
 Olympic Qualifying; OGq; soccer; international; Cup; 1; World; Earth
 FIFA World Cup; WC; soccer; international; Cup; 1; World; Earth
-World Cup Qualifying; WCq; soccer; international; Cup; 1; World; Earth
+FIFA World Cup Qualification; WCq; soccer; international; Cup; 1; World; Earth
 FIFA U-20 World Cup; U20WC; soccer; international; Cup; 1; World; Earth
 FIFA U-17 World Cup; U17WC; soccer; international; Cup; 1; World; Earth
 FIFA Club World Cup; CWC; soccer; international; Cup; 1; World; Earth
+
+FIFA World Cup qualification (CONCACAF); WCq; soccer; international; Cup; 1; Confederation; CONCACAF
+FIFA World Cup qualification (CONMEBOL); WCq; soccer; international; Cup; 1; Confederation; CONMEBOL
+
 
 * CONCACAF
 
@@ -119,9 +132,9 @@ Central American and Caribbean Games; CACG; soccer; international; Cup; 2; Confe
 
 Copa America; CA; soccer; international; Cup; 1; Confederation; CONMEBOL
 
-Copa Libertadores; CA; soccer; domestic; Cup; 1; Confederation; CONMEBOL
+Copa Libertadores; CL; soccer; domestic; Cup; 1; Confederation; CONMEBOL
 Copa Sudamericana; CS; soccer; domestic; Cup; 2; Confederation; CONMEBOL
-Copa Merconorte; CMs; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Merconorte; CMn; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 Copa Mercosur; CMs; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 
 
