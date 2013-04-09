@@ -24,6 +24,7 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Estadio Rommel Fernandez': 'Estadio Rommel Fernández',
     'Kashima Stadium': 'Kashima Soccer Stadium',
     'Niigata Stadium Big Swan': 'Tohoku Electric Power Big Swan Stadium',
     'Stadium Espenmoos': 'Espenmoos',

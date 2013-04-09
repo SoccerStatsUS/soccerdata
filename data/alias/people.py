@@ -179,6 +179,20 @@ last_name = {
 
 
 basic = {
+    'Gustavo Munua': 'Gustavo Munúa',
+    'Olmes Garcia': 'Olmes García',
+    'Javier Gonzalez': 'Javier González',
+    'Christopher Agorsor': 'Chris Agorsor',
+    'Alexander Horwath': 'Alex Horwath',
+    'Nicholas Noble': 'Nick Noble',
+    'Daniel Roark': 'Dan Roark',
+    'Paraskevas Pantazopoulos': 'Pari Pantazopoulos',
+    'Mba Ernest Tchoupe Ndefotsing': 'Ernest Tchoupe',
+    'Alberto Navarro': 'Beto Navarro',
+    'Christopher Klute': 'Chris Klute',
+    'Terakazu Tanaka': 'Terukazu Tanaka',
+    'Maksim Usanov': 'Maxim Usanov',
+    'Marcus Roy': 'Markus Roy',
     'Ataulfo Sanchez': 'Ataúlfo Sánchez',
     'Robel Bernárdez': 'Róbel Bernárdez',
     'Dustin Buno': 'Dustin Bond',
@@ -454,6 +468,7 @@ basic = {
     'Martinez': 'Martínez',
     'Martin Garcia': 'Martín García',
     'Martín Gomez': 'Martín Gómez',
+    'Martin Gomez': 'Martín Gómez',
     'Martin Liguera': 'Martín Ligüera',
     'Marvin Cabrera': 'Marvín Cabrera',
     'Mastrangelo': 'Mastrángelo',
@@ -1098,7 +1113,7 @@ basic = {
     #León Darío Muñoz, Leon Dario Muñoz, Leon Dario Munoz
     
     'Victor Rangel': 'Víctor Rangel', 
-    'Martin Gomez': 'Martín Gómez',
+
     
     'Lorenzo Unanue': 'Lorenzo Unanué', 
     #Cesar García, César García, Cesar Garcia
@@ -3616,6 +3631,7 @@ basic = {
     'Micky Zivaljevic': 'Mickey Zivaljevic',
     'Brian Tinion': 'Brian Tinnion',
     'Alexx Titton': 'Alex Titton',
+    'Allex Titton': 'Alex Titton',
     'McDonald Jonathan': 'Jonathan McDonald',
     'Khalif Alhassan': 'Kalif Alhassan',
     'Joseph Warren': 'Joe Warren',
@@ -5746,6 +5762,7 @@ onames = {
     'Michael (Mike) Ambersley': 'Michael Ambersley',
     'Manuel Lagos': 'Manny Lagos',
     'Mubarike (Mamba) Chisoni': 'Mubarike Chisoni',
+    'Mauricio Salles De Allencar': 'Mauricio Salles',
     'Mauricio Salles-De Alencar': 'Mauricio Salles',
     'Matthew (Deli) Delicâte': 'Matthew Delicate',
     'Matthew Delic�te': 'Matthew Delicate',

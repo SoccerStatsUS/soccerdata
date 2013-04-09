@@ -29,14 +29,6 @@ l = [
         'capacity': 7910,
         },
 
-
-    {
-        'name': 'Estadio Rommel Fernandez',
-        'location': 'Panama City, Panama',
-        'opened': datetime.datetime(1970, 2, 6),
-        'capacity': 32000,
-        },
-    
         {
         'name': 'André Kamperveen Stadion',
         'location': 'Paramaribo, Suriname',
