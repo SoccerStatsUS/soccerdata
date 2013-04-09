@@ -1,4 +1,3 @@
-
 # For processing general format score/lineup data.
 
 # These look something like
@@ -83,6 +82,11 @@ class GeneralProcessor(object):
                 import pdb; pdb.set_trace()
                 x = 5
 
+        if line.startswith("Notes:"):
+            notes = line.split("Notes:", 1)[1]
+            self.games[-1]['notes'] = notes
+            return
+
         if line.startswith("Forfeit"):
             self.games[-1]['forfeit'] = True
             return
@@ -112,8 +116,6 @@ class GeneralProcessor(object):
         if line.startswith("Minutes:"):
             return
 
-        if line.startswith("Notes:"):
-            return
 
         # Change the number of minutes.
         if line.startswith("Indoor"):
@@ -553,7 +555,7 @@ class GeneralProcessor(object):
             'minigame': False,
             'forfeit': False,
             'sources': self.sources[:],
-
+            'notes': '',
             }
 
         self.current_game = g

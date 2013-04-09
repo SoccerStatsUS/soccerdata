@@ -77,7 +77,7 @@ def first_load():
 
     #load_drafts()
 
-    #load_games()
+    load_games()
 
     #load_analysis()
 
@@ -87,6 +87,8 @@ def load_drafts():
 
 
 def load_games():
+    load_isl()
+    return
     load_mls()
     load_conmebol()
     load_concacaf()
@@ -128,7 +130,7 @@ def load_games():
 
 
 
-    load_isl()
+
     load_indoor()
 
 
