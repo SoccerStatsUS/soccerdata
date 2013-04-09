@@ -245,7 +245,7 @@ def normalize_goal(e):
         e['own_goal'] = True
         e['goal'] = None
         if e['assists']:
-            e['own_goal_player'] = e['assists'][0]
+            e['own_goal_player'] = get_name(e['assists'][0])
             e['assists'] = []
 
     e['assists'] = [get_name(n) for n in e['assists']]

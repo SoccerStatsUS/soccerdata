@@ -87,22 +87,24 @@ def load_drafts():
 
 
 def load_games():
+    load_mls()
+    load_conmebol()
+    load_concacaf()
+    load_usl()
     load_oceania()
     load_oceania_international()
-    return
     load_ncaa()
-    return
     load_mexico()
-    load_conmebol()
+
 
     load_modern_cups()
 
     load_australia()    
-    load_mls()
+
 
     load_uruguay()
-    load_concacaf()
 
+    load_nasl()
 
     load_asl2()
 
@@ -125,12 +127,12 @@ def load_games():
 
 
 
-    load_nasl()
+
     load_isl()
     load_indoor()
 
 
-    load_usl()
+
     load_pdl()
 
 

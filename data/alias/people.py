@@ -179,6 +179,8 @@ last_name = {
 
 
 basic = {
+    'Ataulfo Sanchez': 'Ataúlfo Sánchez',
+    'Robel Bernárdez': 'Róbel Bernárdez',
     'Dustin Buno': 'Dustin Bond',
     'Taifour Diane': 'Taifour Diané',
     'Kerwyn Jemmott': 'Kerwyn Jemmot',
@@ -220,6 +222,7 @@ basic = {
     'Andres Guglielminpietro': 'Andrés Guglielminpietro',
     'Andres Silvera': 'Andrés Silvera',
     'Andy Herron': 'Andy Herrón',
+    'Andy Herron': 'Andy Herrón', 
     'Angel Morales': 'Ángel Morales',
     'Anibal Matellán': 'Aníbal Matellán',
     'Antonio De Nigris': 'Antonio de Nigris',
@@ -1127,7 +1130,7 @@ basic = {
     'Ze Carlos': 'Zé Carlos', 
     'Jose Chacon': 'José Chacón',
     
-    'Andy Herron': 'Andy Herrón', 
+
     
     'Luis Mejia': 'Luis Mejía', 
     #Logan Pause C, Logan Pause c
@@ -5338,6 +5341,7 @@ onames = {
     'A. J. Soares': 'A.J. Soares',
     'Alex Prampin': 'Alan Prampin',
     'Antonio De La Torre': 'Antonio de la Torre',
+    'Antonio De la Torre': 'Antonio de la Torre',
     u'Abraham Fran\xe7ois': 'Abraham Francois',
     'Austin Da Luz': 'Austin da Luz',
     'AJ Wood': 'A.J. Wood',
