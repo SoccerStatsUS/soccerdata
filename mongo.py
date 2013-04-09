@@ -22,7 +22,8 @@ def insert_rows(collection, rows):
         try:
             insert_row(collection, row)
         except:
-            "Bad unicode"
+            #import pdb; pdb.set_trace()
+            print "Insert error"
             print row
     
 def get_rows(collection):

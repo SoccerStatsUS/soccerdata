@@ -17,7 +17,11 @@ def correct_date(s, start=True):
         if start:
             d = datetime.datetime(year, 1, 1)
         else:
-            d = datetime.datetime(year, 12, 31)
+            try:
+                d = datetime.datetime(year, 12, 31)
+            except:
+                import pdb; pdb.set_trace()
+            x = 5
 
     return d
 

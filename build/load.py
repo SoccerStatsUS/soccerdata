@@ -87,6 +87,9 @@ def load_drafts():
 
 
 def load_games():
+    load_oceania()
+    load_oceania_international()
+    return
     load_ncaa()
     return
     load_mexico()
@@ -156,7 +159,7 @@ def load_games():
     load_guatemala()
 
 
-    load_oceania()
+
 
 
 
@@ -908,10 +911,13 @@ def load_mexico():
 def load_oceania():
     load_games_standard('oceania', 'domestic/confederation/ofc/wantok')
 
+
 def load_oceania_international():
     load_games_standard('oceania_i', 'international/confederation/ofc/wcq')
-    load_games_standard('oceania_i', 'international/confederation/ofc/wcq')
-
+    #load_games_standard('oceania_i', 'international/confederation/ofc/wcq')
+    load_games_standard('oceania_i', 'international/confederation/ofc/melanesia')
+    load_games_standard('oceania_i', 'international/confederation/ofc/polynesia')
+    load_games_standard('oceania_i', 'international/confederation/ofc/nations')
 
 def load_conmebol():
 
