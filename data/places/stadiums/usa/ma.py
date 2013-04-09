@@ -33,6 +33,16 @@ l = [
         },
 
     {
+        'name': 'Bigberry Stadium',
+        'location': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Bowditch Stadium',
+        'location': 'Framingham, MA',
+        },
+
+    {
         'name': 'Foley Stadium',
         'address': '305 Chandler Street',
         'location': 'Worcester, MA',

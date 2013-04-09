@@ -21,6 +21,13 @@ l = [
         'capacity': 35000,
         },
 
+    {
+        'name': 'Al Nahyan Stadium',
+        'location': 'Abu Dhabi, United Arab Emirates',
+        'opened': 1995,
+        'capacity': 12000,
+        },
+
 
     {
         'name': 'Thailand National Stadium',
@@ -242,6 +249,13 @@ l = [
         'location': 'Busan, South Korea',
         'opened': 1928,
         'capacity': 24363,
+        },
+
+    {
+        'name': 'Busan Asiad Main Stadium',
+        'location': 'Busan, South Korea',
+        'opened': 2001,
+        'capacity': 53864,
         },
     {
         'name': 'Daegu World Cup Stadium', 

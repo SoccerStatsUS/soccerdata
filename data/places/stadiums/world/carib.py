@@ -20,11 +20,30 @@ l = [
         'capacity': 6000,
         },
 
+    {
+        'name': 'Aguada Stadium',
+        'location': 'Aguada, Puerto Rico',
+        'capacity': 4000,
+        },
+
 
     {
         'name': 'Stade Louis Achille',
         'location': 'Fort-de-France, Martinique',
         'capacity': 9000,
+        },
+
+    {
+        'name': 'Blakes Estate Stadium',
+        'location': 'Look Out, Montserrat',
+        'capacity': 1000,
+        },
+
+    {
+        'name': 'Beausejour Stadium',
+        'location': 'Gros Islet, Saint Lucia',
+        'capacity': 20000,
+        'opened': 2002,
         },
 
 

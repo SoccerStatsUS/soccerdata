@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Caroline Coleman Stadium',
+        'location': 'Inglewood, CA',
+        },
+
+    {
         'name': 'Sherbeck Field',
         'location': 'Fullerton, CA',
         },

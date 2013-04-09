@@ -15,6 +15,13 @@ l = [
         'cost': 14500000,
         'opened': 2002,
         },        
+
+    {
+        'name': 'American Legion Memorial Stadium',
+        'location': 'Charlotte, NC',
+        'capacity': 21000,
+        'opened': datetime.datetime(1936, 9, 1),
+        },        
     
 
     {

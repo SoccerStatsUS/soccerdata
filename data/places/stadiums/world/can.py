@@ -53,6 +53,15 @@ l = [
         },        
 
         {
+        'name': 'CNE Stadium',
+        'location': 'Toronto, ON',
+        'opened': datetime.datetime(1959, 8, 5),
+        'closed': datetime.datetime(1989, 5, 28),
+        'cost': 17600000,
+        'capacity': 33150,
+        },        
+
+        {
         'name': 'Commonwealth Stadium',
         'address': '11000 Stadium Road',
         'location': 'Edmonton, AB',
@@ -364,9 +373,18 @@ l = [
         'location': 'Toronto, ON',
         },
 
+                {
+        'name': 'Bear Mountain Stadium',
+        'location': 'Langford, BC',
+        'opened': 2009,
+        'capacity': 1600,
+        'cost': 3000000,
+        'denomination': 'Canadian dollars',
+        },
+
 
                 {
-        'name': 'Thunderird Stadium',
+        'name': 'Thunderbird Stadium',
         'address': '6288 Stadium Road',
         'location': 'Vancouver, BC',
         'opened': datetime.datetime(1967, 10, 7),

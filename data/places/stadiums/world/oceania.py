@@ -15,6 +15,20 @@ l = [
         },
 
     {
+        'name': 'York Park',
+        'location': 'Launceton, Australia',
+        'opened': 1921,
+        'capacity': 21000,
+        },
+
+    {
+        'name': 'Breakers Stadium',
+        'location': 'Newcastle, New South Wales, Australia',
+        'closed': 2005,
+        'capacity': 11000,
+        },
+
+    {
         'name': 'Jubilee Oval',
         'location': 'Carlton, Australia',
         'opened': 1936,

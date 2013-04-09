@@ -24,6 +24,13 @@ l = [
         'name': 'George Mason Stadium',
         'location': 'Fairfax, VA',
         },
+
+    {
+        'name': 'Albert-Daly Field',
+        'location': 'Williamsburg, VA',
+        'opened': datetime.datetime(2004, 8, 28),
+        'capacity': 1000,
+        },
     
     {
         'name': 'University of Richmond Stadium',

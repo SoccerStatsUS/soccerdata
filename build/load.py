@@ -77,7 +77,7 @@ def first_load():
 
     #load_drafts()
 
-    load_games()
+    #load_games()
 
     #load_analysis()
 

@@ -495,10 +495,6 @@ l = [
         'capacity': 48712,
 
         },
-    {
-        'name': 'Ernst-Happel Stadion',
-        'location': 'Vienna, Austria',
-        },
 
     {
         'name': 'Stade Roi Baudouin',
@@ -904,6 +900,13 @@ l = [
         },
 
     {
+        'name': 'De Grolsch Veste',
+        'location': 'Enschede, Netherlands',
+        'opened': datetime.datetime(1998, 5, 10),
+        'capacity': 30206,
+        },
+
+    {
         'name': 'Craven Cottage',
         'location': 'London, England',
         'opened': 1896,
@@ -1140,6 +1143,21 @@ l = [
     {
         'name': 'Ullevi Stadium',
         'location': 'Goteborg, Sweden',
+        },
+
+    {
+        'name': 'Estadio Chamartín',
+        'location': 'Madrid, Spain',
+        'opened': datetime.datetime(1923, 5, 17),
+        'closed': 1947,
+        'capacity': 22500,
+        },
+
+    {
+        'name': 'Dynama Stadium',
+        'location': 'Minsk, Belarus',
+        'opened':1934,
+        'capacity': 40000,
         },
 
 

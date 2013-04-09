@@ -36,6 +36,16 @@ l = [
         'location': 'Seattle, WA',
         },
 
+
+    {
+        'name': 'Cheney Stadium',
+        'location': 'Tacoma, WA',
+        'opened': datetime.datetime(1960, 4, 16),
+        'cost': 940000,
+        'capacity': 9600,
+        'address': '2502 South Tyler Street',
+        },
+
     {
         'name': 'Goddard Memorial Stadium',
         'address': '7600 212th St SW',

@@ -359,6 +359,9 @@ def normalize_bio(e):
     if type(e['deathdate']) == int:
         e['deathdate'] = None
 
+    if e['birthplace']:
+        e['birthplace'] = get_city(location_string)
+
     return e
 
     

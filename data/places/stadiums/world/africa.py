@@ -12,6 +12,16 @@ l = [
         },
 
     {
+        'name': 'Abubakar Tafawa Balewa Stadium',
+        'location': 'Bauchi, Nigeria',
+        },
+
+    {
+        'name': 'Ahmadu Bello Stadium',
+        'location': 'Kaduna, Nigeria',
+        },
+
+    {
         'name': 'Botswana National Stadium',
         'location': 'Gaborone, Botswana',
         'capacity': 22000,

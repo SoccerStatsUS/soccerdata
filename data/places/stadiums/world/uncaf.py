@@ -29,12 +29,6 @@ l = [
         'capacity': 7910,
         },
 
-        {
-        'name': 'André Kamperveen Stadion',
-        'location': 'Paramaribo, Suriname',
-        'capacity': 6000,
-        },
-
 
         {
         'name': 'Estadio Nacional de Costa Rica',

@@ -181,13 +181,6 @@ l = [
         'capacity': 20408,
         },
 
-    {
-        'name': 'Estadio San Juan del Bicentenario',
-        'location': 'San Juan, Argentina',
-        'opened': datetime.datetime(2011, 3, 16),
-        'capacity': 25286,
-        },
-
 
     {
         'name': 'Estadio Brigadier General Estanislao López',
@@ -381,13 +374,6 @@ l = [
         },
 
 
-    {
-        'name': 'Estadio José Antonio Anzoátegui',
-        'location': 'Puerto La Cruz, Venezuela',
-        'opened': datetime.datetime(1965, 12, 8),
-        'capacity': 37485,
-        'cost': 60400000,
-        },
 
     {
         'name': 'Estadio Brígido Iriarte',
@@ -417,14 +403,6 @@ l = [
         'location': 'Barquisimeto, Venezuela',
         },
 
-
-    {
-        'name': 'Estadio Metropolitano de Mérida',
-        'location': 'Mérida, Venezuela',
-        'opened': 2005,
-        'cost': 107000000,
-        'capacity': 42200,
-        },
 
     {
         'name': 'Estadio Agustín Tovar',
@@ -1067,13 +1045,6 @@ l = [
         }, 
 
 
-    {
-        'name': 'Estadio Nacional Julio Martinez Pradanos',
-        'location': 'Santiago, Chile',
-        'opened': datetime.datetime(1938, 12, 3),
-        'capacity': 47000,
-        }, 
-
 
     {
         'name': 'Estadio Tomás Adolfo Ducó',
@@ -1109,14 +1080,6 @@ l = [
         'name': 'Estadio Rogelio Livieres',
         'location': 'Asuncion, Paraguay',
         'capacity': 8000,
-        }, 
-
-
-    {
-        'name': 'Estadio El Teniente',
-        'location': 'Rancagua, Chile',
-        'opened': 1945,
-        'capacity': 14450,
         }, 
 
 

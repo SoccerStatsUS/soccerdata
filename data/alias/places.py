@@ -15,6 +15,10 @@ def get_place(s):
 
 
 places = {
+    'Enschede Stadium, Enschede': 'De Grolsch Veste',
+    'Dunfermlime, Scotland': 'Dunfermline, Scotland',
+    'Dinamo Stadium, Moscow': 'Moscow Dinamo Stadium',
+    'Dinamo Stadium, Minsk': 'Dynama Stadium',
     'Randall\'s Island, NYC': 'Downing Stadium',
     'Estadio Nacional, San Jose, Costa Rica': 'Estadio Nacional de Costa Rica',
     'Estadio Independencia, Esteli': 'Estadio Independencia (Esteli)',

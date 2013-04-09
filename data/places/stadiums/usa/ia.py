@@ -9,6 +9,12 @@ l = [
         'name': 'Valley Stadium',
         'location': 'West Des Moines, IA',
         },
+
+
+    {
+        'name': 'Cara McGrane Memorial Stadium',
+        'location': 'Des Moines, IA',
+        },
     
     
     {

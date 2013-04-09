@@ -18,8 +18,12 @@ l = [
         },
     {
         'name': 'Waukesha County Fairgrounds',
-
         'location': 'Waukesha, WI',
+        },
+
+    {
+        'name': 'Nathan Calder Stadium',
+        'location': 'Menasha, WI',
         },
     {
         'name': 'Breese Stevens Field',
