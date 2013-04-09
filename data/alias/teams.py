@@ -63,6 +63,7 @@ slugs = {
 
 
 world = {
+    'Western Samoa': 'Samoa',
     'Virginia Tech University': 'Virginia Tech',
     'Dorados Sinaloa': 'Dorados de Sinaloa',
     'Ferencvaros': 'Ferencváros',
