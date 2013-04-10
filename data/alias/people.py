@@ -147,6 +147,8 @@ nonpeople = {
     'penalty': 'penalty kick',
     'Sent Off': 'sent off',
     '?': 'Unknown',
+    'og': 'Own Goal',
+    'o.g.': 'Own Goal',
     'Own goal': 'Own Goal',
     'own goal': 'Own Goal',
     'Unknown': 'unknown',
@@ -179,6 +181,8 @@ last_name = {
 
 
 basic = {
+    'Jorge Almiron': 'Jorge Almirón',
+    'Ernest Major': 'Ernst Major',
     'Tomas Skuhravy': 'Tomáš Skuhravý',
     'Juan Veron': 'Juan Verón',
     'Juan Sebastián Verón': 'Juan Verón',
@@ -234,8 +238,8 @@ basic = {
     'Alejandro Dominguez': 'Alejandro Domínguez',
     'Alejandro Gomez': 'Alejandro Gómez',
     'Alex Aguinaga': 'Álex Aguinaga',
-    'Alexander Rondon': 'Alexánder Rondón', 
-    'Alexander Rondón': 'Alexánder Rondón', 
+    'Alexander Rondon': 'Alexander Rondón',
+    
     
     'Alex da Rosa': 'Álex da Rosa',
     'Alex Da Rosa': 'Álex da Rosa',

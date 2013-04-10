@@ -23,7 +23,7 @@ cities = {
     'Bayamón, PR': 'Bayamón, Puerto Rico',
     'Victoria, B.C.': 'Victoria, BC',
     'Los Ángeles, CA': 'Los Angeles, CA',
-    'Malmo, Sweden': 'Malmö, Sweden',
+
     'San Martin, Argentina': 'San Martín, Argentina', # real city?
     'Medellin, Colombia': 'Medellín, Colombia',
     'Goteborg, Sweden': 'Göteborg, Sweden',
@@ -87,8 +87,9 @@ cities = {
     'Cordoba, Argentina': 'Córdoba, Argentina',
     #[<City: Estadio Universitario Monterrey>, <City: Estadio Universitario, Monterrey>, <City: Estadío Universitario, Monterrey>]
     'Concepcion, Chile': 'Concepción, Chile',
-    'Rio de Janeiro, Brazil': 'Río de Janeiro, Brazil',
-    'Rio De Janeiro, Brazil': 'Río de Janeiro, Brazil',
+    
+    'Rio De Janeiro, Brazil': 'Rio de Janeiro, Brazil',
+    'Rio de Janeiro': 'Rio de Janeiro, Brazil',
     'Chorzow, Poland': 'Chorzów, Poland',
     #[<City: home>, <City: Home>]
     #[<City: David's Stadium, Newark, NJ>, <City: Davids Stadium, Newark, NJ>]
@@ -99,7 +100,7 @@ cities = {
 
     'Newcastle-upon-Tyne, England': 'Newcastle upon Tyne, England',
     'Kristiana, Norway': 'Oslo, Norway',
-    'Rio de Janeiro': 'Rio de Janeiro, Brazil',
+
     'Rome': 'Rome, Italy',
     'Lyons, France': 'Lyon, France',
     'Glasgow': 'Glasgow, Scotland',
@@ -188,6 +189,7 @@ cities = {
 
     'Boras': 'Borås, Sweden',
     'Malmo': 'Malmö, Sweden',
+    'Malmo, Sweden': 'Malmö, Sweden',
     'Stockholm': 'Stockholm, Sweden',
     'Copenhagen': 'Copenhagen, Denmark',
     'Gavle': 'Gävle, Sweden',

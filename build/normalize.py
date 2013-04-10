@@ -371,7 +371,7 @@ def normalize_bio(e):
         e['deathdate'] = None
 
     if e['birthplace']:
-        e['birthplace'] = get_city(location_string)
+        e['birthplace'] = get_city(get_place(location_string))
 
     return e
 

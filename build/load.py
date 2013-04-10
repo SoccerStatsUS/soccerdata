@@ -88,19 +88,22 @@ def load_drafts():
 
 def load_games():
     load_isl()
+    load_modern_cups()
     load_concacaf()
-    return
-    load_mls()
     load_conmebol()
-
-    load_usl()
     load_oceania()
     load_oceania_international()
     load_ncaa()
+    load_nafbl()
+    load_apsl()
+    load_mls()
+
+
+    load_usl()
     load_mexico()
 
 
-    load_modern_cups()
+
 
     load_australia()    
 
@@ -111,8 +114,6 @@ def load_games():
 
     load_asl2()
 
-    load_nafbl()
-    load_apsl()
 
     load_melvin()
     load_leach()     
@@ -236,8 +237,11 @@ def load_bios():
     print "Loading chris's compiled bios."
     generic_load(soccer_db.usl_bios, bios.load_all_bios)
 
+    generic_load(soccer_db.fifa_bios, bios.process_world_cup_bios)
+
     generic_load(soccer_db.misl_bios, bios.process_misl_bios)
     generic_load(soccer_db.nasl_bios, bios.process_nasl_bios)
+
 
 
 
@@ -1080,8 +1084,9 @@ def load_concacaf_international():
         load_games_standard('concacaf_i', 'international/confederation/concacaf/olympic/%s' % year)
 
 
-    #for year in range(1994, 2015, 4):
-    #    load_games_standard('concacaf_i', 'international/confederation/concacaf/u17/%s' % year)
+    for year in [2009, 2011, 2013]:
+        load_games_standard('concacaf_i', 'international/confederation/concacaf/u17/%s' % year)
+    # Add u-17 qualifying.
 
 
     load_uncaf_international()
