@@ -236,10 +236,7 @@ def normalize_stadium(e):
 def normalize_goal(e):
     e['competition'] = get_competition(e['competition'])
     e['team'] = get_team(e['team'])
-    try:
-        e['goal'] = get_name(e['goal'])
-    except:
-        import pdb; pdb.set_trace()
+    e['goal'] = get_name(e['goal'])
 
     if e['goal'] == 'Own Goal':
         e['own_goal'] = True
@@ -261,6 +258,15 @@ def normalize_goal(e):
         elif e['assists'][0] in ('unassisted', 'ua'):
             e['assists'] = []
 
+    return e
+
+
+
+
+def normalize_foul(e):
+    e['competition'] = get_competition(e['competition'])
+    e['team'] = get_team(e['team'])
+    e['name'] = get_name(e['name'])
     return e
 
 def normalize_stat(e):

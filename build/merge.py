@@ -1,4 +1,4 @@
-from soccerdata.data.alias import get_team, get_name
+from soccerdata.data.alias import get_team, get_name # Pretty sure these should not be in here at all.
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 from soccerdata.settings import SOURCES
 
@@ -35,6 +35,7 @@ def merge():
 
     merge_goals()
     merge_lineups()
+    merge_fouls()
 
     merge_bios()
 
@@ -117,7 +118,6 @@ def merge_goals():
         # normalize things.
         d['team'] = get_team(d['team'])
 
-
         if d['goal']:
             d['goal'] = get_name(d['goal'].strip())
 
@@ -151,6 +151,38 @@ def merge_goals():
             
     soccer_db.goals.drop()
     insert_rows(soccer_db.goals, dd.values())
+
+
+
+
+
+def merge_fouls():
+
+    dd = {}
+
+    def update_foul(d):
+        if '_id' in d:
+            d.pop("_id")
+        
+        key = (d['date'], d['name'])
+
+        if key not in dd: 
+            dd[key] = d
+        else:
+            orig = dd[key]
+            for k, v in d.items():
+                if not orig.get(k) and v:
+                    orig[k] = v
+        
+    for e in SOURCES:
+        c = '%s_fouls' % e
+        coll = soccer_db[c]
+        for e in coll.find():
+            update_foul(e)
+            
+    soccer_db.fouls.drop()
+    insert_rows(soccer_db.fouls, dd.values())
+
 
 def merge_lineups():
 

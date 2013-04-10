@@ -63,33 +63,35 @@ class GeneralProcessor(object):
         """
         
         line = line.strip()
-
         if not line:
             return
 
-        #if self.current_game is not None and self.current_game['date'] == datetime.datetime(2011, 10, 26):
-        #    import pdb; pdb.set_trace()
+
+        tag_data = lambda l, t: l.split(t, 1)[1].strip()
+
+        def process_simple_tag(line, tag, key):
+            if line.startswith(tag):
+                key = tag_data(line, tag)
+
+
+
 
         # Represents a comment.
         if line.startswith("*"):
             return
+
         # Set the previous game as a minigame.
-        if line.startswith("Minigame"):
-            try:
-                self.games[-1]['minigame'] = True
+
+        for e in ["Minigame", "Forfeit"]:
+            if line.startswith(e):
+                self.games[-1][e.lower()] = True
                 return
-            except:
-                import pdb; pdb.set_trace()
-                x = 5
 
+            
         if line.startswith("Notes:"):
-            notes = line.split("Notes:", 1)[1]
-            self.games[-1]['notes'] = notes
+            self.games[-1]['notes'] = tag_data(line, "Notes:")
             return
 
-        if line.startswith("Forfeit"):
-            self.games[-1]['forfeit'] = True
-            return
 
         if line.startswith("Replay"):
             return
@@ -105,9 +107,8 @@ class GeneralProcessor(object):
             return
 
 
-
         if line.startswith("Date-style"):
-            self.date_style = line.split("Date-style:")[1].strip()
+            self.date_style = tag_data(line, "Date-style:")
             return
 
 
@@ -117,57 +118,46 @@ class GeneralProcessor(object):
             return
 
 
-        # Change the number of minutes.
+        # Change the game type.
         if line.startswith("Indoor"):
             return
 
 
         # Set the competition.
         if line.startswith("Competition:"):
-            self.competition = line.split("Competition:")[1].strip()
+            self.competition = tag_data(line, "Competition:")
             self.round = self.group = self.zone = ''
             return
 
         if line.startswith("Season:"):
-            self.season = line.split("Season:")[1].strip()
+            self.season = tag_data(line, "Season:")
             self.round = self.group = self.zone = ''
             return
 
         # Set the round.
         if line.startswith("Round:"):
-            self.round = line.split('Round:')[1].strip()
+            self.round = tag_data(line, "Round:")
             if self.round.lower() == 'none':
                 self.round = ''
                 self.group = ''
-                
             return
 
-
-        if line.startswith("Group"):
-            try:
-                self.group = line.split('Group:')[1].strip()
-            except:
-                import pdb; pdb.set_trace()
-
+        if line.startswith("Group:"):
+            self.group = tag_data(line, "Group:")
             if self.group.lower() == 'none':
                 self.group = None
-
             return
 
-        if line.startswith("Zone"):
-            self.round = line.split('Zone:')[1].strip()
-            if self.round.lower() == 'none':
-                self.round = None
-
+        # Zone should be group?
+        if line.startswith("Zone:"):
+            self.group = tag_data(line, "Zone:")
+            if self.group.lower() == 'none':
+                self.group = None
             return
-
-
-
 
         # Set the round.
-        if line.startswith("Roster"):
-            text = line.split("Roster:")[1].strip()
-            self.process_roster(text)
+        if line.startswith("Roster:"):
+            self.process_roster(tag_data(line, "Roster:"))
             return
 
 
@@ -185,42 +175,34 @@ class GeneralProcessor(object):
 
         # Add a source.
         if line.startswith("Source:"):
-            source = line.split("Source:")[1].strip()
-            try:
-                self.games[-1]['sources'].append(source)
-            except:
-                import pdb; pdb.set_trace()
-
+            self.games[-1]['sources'].append(tag_data(line, "Source:"))
             return
 
         if line.startswith('BlockSource:'):
-            source = line.split("BlockSource:")[1].strip()
-
+            source = tag_data(line, "BlockSource:")
             if source:
                 self.sources = [source]
             return
-            
 
 
         if line.startswith("Century"):
-            self.century = int(line.split("Competition:")[1].strip())
+            self.century = int(tag_data(line, "Century:"))
             return
 
 
         if line.startswith("Score type:"):
-            self.score_type = line.split("Score type:")[1].strip()
+            self.score_type = tag_data(line, "Score type:")
             return
 
 
 
         if line.startswith("Red Card:"):
-            return self.process_misconduct(line)
+            s = tag_data(line, "Red Card:")
+            self.misconduct.extend(self.process_misconduct(s))
+            return 
 
         if line.startswith("Shootout Win"):
-            winner = line.split("Shootout Win:")[1].strip()
-            if winner not in (self.current_game['team1'], self.current_game['team2']):
-                import pdb; pdb.set_trace()
-            self.current_game['shootout_winner'] = winner
+            self.current_game['shootout_winner'] = tag_data(line, "Shootout Win:")
             return
 
 
@@ -237,10 +219,6 @@ class GeneralProcessor(object):
         fields = line.split(";")
             
 
-        if '26/09/1943' in line:
-            pass #import pdb; pdb.set_trace()
-
-
         # Checking for Brooklyn FC: GK, DF
         # Trying to handle 1/25/1990; Brooklyn FC; 2 : 1; Queens Boys
         # and not have it mistaken for a team line because of the colon?
@@ -252,18 +230,13 @@ class GeneralProcessor(object):
 
         if ":" in line and not skip_team:
             possible_team = line.split(":")[0]
-            try:
-                #if self.current_game['date'] == datetime.datetime(2011, 11, 6):
-                #    import pdb; pdb.set_trace()
-
-                if possible_team in (self.current_game['team1'], self.current_game['team2']):
-                    lineups = self.process_lineup(line)
-                    self.appearances.extend(lineups)
-                    return 
-
-            except:
+            if self.current_game == None:
                 import pdb; pdb.set_trace()
-
+                
+            if possible_team in (self.current_game['team1'], self.current_game['team2']):
+                lineups = self.process_lineup(line)
+                self.appearances.extend(lineups)
+                return 
 
         # Why is this check necessary?
         if fields:
@@ -272,12 +245,7 @@ class GeneralProcessor(object):
             # Need to implement this.
             # Whoops - this kills a lot of valid game results.
             if line.startswith(";") and line.count(';') > 1:
-                try:
-                    return self.process_game_fields(fields)
-                except:
-                    import pdb; pdb.set_trace()
-
-
+                return self.process_game_fields(fields)
 
             # Need to implement datetime check here.
             time_string = fields[0].strip()
@@ -288,7 +256,6 @@ class GeneralProcessor(object):
             md = self.DATE_RE.match(time_string)
             if md:
                 return self.process_game_fields(fields)
-
             try:
                 year = int(time_string)
                 return self.process_game_fields(fields)
@@ -297,22 +264,60 @@ class GeneralProcessor(object):
 
 
             if fields[0].startswith('?'):
-                try:
-                    return self.process_game_fields(fields)
-                except:
-                    pass
+                return self.process_game_fields(fields)
 
         # Goals is the final fallback.
         try:
             team1_goals, team2_goals = line.split(";")
-        except:
-            import pdb; pdb.set_trace()
+        except ValueError:
+            print line
+            raise
+
         self.process_goals(team1_goals, team2_goals)
                 
 
         
     def process_misconduct(self, line):
-        pass
+
+        def process_item(team, s):
+            m = re.match('(.*?)(\d+)', s)
+            if m:
+                name = m.groups()[0].strip()
+                minute = int(m.groups()[1])
+            else:
+                name, minute = s.strip(), None
+
+            return {
+                'competition': self.competition,
+                'date': self.current_game['date'],
+                'season': self.season,
+                'name': name,
+                'minute': minute,
+                'type': 'red',
+                'team': team,
+                }
+            
+
+        process_side = lambda t, l: [process_item(t, e) for e in l.split(',') if e.strip()]
+
+        if ';' in line:
+            t1m, t2m = line.split(';')
+            t1, t2 = self.current_game['team1'], self.current_game['team2']
+            l = process_side(t1, t1m)
+            l.extend(process_side(t2, t2m))
+
+        else:
+            l = process_side(None, line)
+
+
+
+
+        return l
+        
+
+
+
+        
 
 
     def process_roster(self, line):
@@ -368,11 +373,16 @@ class GeneralProcessor(object):
         if fields[0].strip() == '':
             # This should usually just be None. Make sure to not accidentally set dates.
             d = self.date
+            
 
         elif '?' in fields[0]:
-            _, _, year = fields[0].split('/')
-            day = month = None
-            d = None
+            try:
+                _, _, year = fields[0].split('/')
+                day = month = None
+                d = None
+            except ValueError:
+                print "? problem on date", fields[0]
+                d = None
 
         else:
             # Try datetime first, if it doesn't work, try time.
@@ -390,22 +400,13 @@ class GeneralProcessor(object):
                     else:
                         month, day, year = self.DATE_RE.match(time_string).groups()
                 except:
-                    try:
-                        year = int(time_string)
-                        month = day = 1
-                    except ValueError:
-                        import pdb; pdb.set_trace()
+                    year = int(time_string)
+                    month = day = 1
 
-            try:
-                year = int(year)
-                if year < 1800:
-                    year += self.century
-                d = datetime.datetime(year, int(month), int(day))
-            except:
-                d = None
-                import pdb; pdb.set_trace()
-                x = 5
-
+            year = int(year)
+            if year < 1800:
+                year += self.century
+            d = datetime.datetime(year, int(month), int(day))
             
         # Some scores are separated by colons.
         if self.score_type == "colon-delimited":
@@ -413,9 +414,6 @@ class GeneralProcessor(object):
         else:
             delimiter = "-"
 
-        if len(fields) < 2:
-            import pdb; pdb.set_trace()
-            
         result_unknown = False
 
         if self.score_type in ('standard', 'colon-delimited'):
@@ -470,16 +468,9 @@ class GeneralProcessor(object):
         # Intend to just drop this completely eventually.
         elif self.score_type == 'byteam':
             score_re = re.compile('(.*?)(\d+)\'?')
-            try:
-                team1, team1_score = score_re.match(fields[1]).groups()
-            except:
-                import pdb; pdb.set_trace()
+            team1, team1_score = score_re.match(fields[1]).groups()
 
-            try:
-                team2, team2_score = score_re.match(fields[2]).groups()
-            except:
-                import pdb; pdb.set_trace()
-
+            team2, team2_score = score_re.match(fields[2]).groups()
 
             team1_score, team2_score = int(team1_score), int(team2_score)
 
@@ -499,7 +490,8 @@ class GeneralProcessor(object):
             attendance = None
 
 
-        location = referee = ''
+        location = ''
+        referee = None
 
         if len(remaining) == 1:
             location = remaining[0].strip()
@@ -519,6 +511,7 @@ class GeneralProcessor(object):
         
         team1 = team1.strip()
         team2 = team2.strip()
+
         location = location.strip()
         
         neutral = False
@@ -532,6 +525,7 @@ class GeneralProcessor(object):
             'competition': self.competition,
             'season': self.season,
             'round': self.round,
+            'group': self.group,
 
             'date': d,
 
@@ -684,10 +678,7 @@ class GeneralProcessor(object):
 
             if '(' in remainder:
                 goal, assists = remainder.split('(')
-                try:
-                    assists = [e.strip() for e in assists.replace(')', '').split(',')]
-                except:
-                    import pdb; pdb.set_trace()
+                assists = [e.strip() for e in assists.replace(')', '').split(',')]
                 goal = goal.strip()
 
             else:
@@ -699,26 +690,20 @@ class GeneralProcessor(object):
 
 
             return {
-                'team': team,
                 'competition': self.competition,
                 'date': self.current_game['date'],
-                'goal': goal,
-                'minute': minute,
-                'assists': assists,
                 'season': self.season,
+                'goal': goal,
+                'assists': assists,
+                'team': team,
+                'minute': minute,
                 }
 
 
         goals = []
 
-        #if self.current_game['date'] == datetime.date(1929, 3, 31):
-        #    import pdb; pdb.set_trace()
-
         for e in split_outside_parens(team1_goals):
-            try:
-                goals.append(process_item(e, self.current_game['team1']))
-            except:
-                import pdb; pdb.set_trace()
+            goals.append(process_item(e, self.current_game['team1']))
  
         for e in split_outside_parens(team2_goals):
             goals.append(process_item(e, self.current_game['team2']))
