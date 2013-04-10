@@ -142,6 +142,7 @@ nasl2 = {
 
     'MVP': [
         (2011, 'Etienne Barbara'),
+        (2012, 'Pablo Campos'),
         ],
 
     'Goalkeeper of the Year': [

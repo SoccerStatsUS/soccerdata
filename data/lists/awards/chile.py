@@ -6,7 +6,7 @@ import datetime
 
 
 d = {
-    'competition': 'Chilean Primera División',
+    'competition': 'Chilean Primera Division',
     'team_data': ['Champion'],
     'champion': 'Champion',
 

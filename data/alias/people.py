@@ -179,6 +179,18 @@ last_name = {
 
 
 basic = {
+    
+    'Andrew O\'Shay': 'Andy O\'Shay',
+    'Andrew Cost': 'Drew Cost',
+    'Keita DeCastro': 'Keita de Castro',
+    'Keita De Castro': 'Keita de Castro',
+    'Maykel Galindo-Castaneda': 'Maykel Galindo',
+    'Sunhyung Cho': 'Cho Sun-Hyung',
+    'Gerson Dos Santos': 'Gerson dos Santos',
+    'Gerson P Dos Santos': 'Gerson dos Santos',
+    'Jerome Mechack': 'Mechack Jerome',
+    'Mechack Jerome': 'Mechack Jérôme',
+    'Matthew Kassel': 'Matt Kassel',
     'Gustavo Munua': 'Gustavo Munúa',
     'Olmes Garcia': 'Olmes García',
     'Javier Gonzalez': 'Javier González',
@@ -2747,7 +2759,6 @@ basic = {
     'Dionisio (Nicho) Infante Aragon III': 'Dionisio Infante Aragon III',
     'Dionisio Infante Aragon III': 'Nicho Infante',
     'Brocklon (Brock) Chatman': 'Brocklon Chatman',
-    'Matthew (Deli) Delicâte': 'Matthew Delicâte',
     'Brian (Sparky) Hughes': 'Brian Hughes',
     'Richard (Richie) Higa': 'Richard Higa',
     'John (Tre) Lee': 'John Lee',
@@ -4359,8 +4370,16 @@ basic = {
     'Thomas Boy': 'Tomás Boy',
     'Phillip Gyau': 'Philip Gyau',
     'Anthony Williams': 'Tony Williams',
+    'Matthew (Deli) Delicâte': 'Matthew Delicâte',
+    'Matthew (Deli) Delicâte': 'Matthew Delicate',
     'Matthew (Deli) Delicate': 'Matthew Delicâte',
-    
+    'Matthew (Deli) Delicâte': 'Matthew Delicâte',
+    'Matthew (Deli) Delicâte': 'Matthew Delicate',
+    'Matthew (Deli) Delicâte': 'Matthew Delicâte',
+    'Matt Delicate': 'Matthew Delicate',
+    'Matthew Delicate': 'Matthew Delicâte',
+    'Matthew Delic�te': 'Matthew Delicate',
+
     
     
     
@@ -4403,8 +4422,7 @@ leach = {
     
     'Karston Smith': 'Karsten Smith',
     'Jimmy (JC) Banks': 'Jimmy Banks',
-    'Matt Delicate': 'Matthew Delicate',
-    'Matthew Delic�te': 'Matthew Delicate',
+
     }
 names.update(leach)
 
@@ -5115,8 +5133,8 @@ onames = {
     'Jose Roberto Gomes Santana': 'Jose Roberto Santana',
     'Marvin Quisano': 'Marvin Quijano',
     'Matt Botgard': 'Matt Borgard',
-    'Matthew (Deli) Delicâte': 'Matthew Delicâte',
-    'Matthew Delicate': 'Matthew Delicâte',
+
+
     'Mobi Obaraku': 'Mobi Oparaku',
     'Rey (Boom Boom) Martinez': 'Rey Angel Martinez',
     'Rey Martinez': 'Rey Angel Martinez',
@@ -5764,8 +5782,7 @@ onames = {
     'Mubarike (Mamba) Chisoni': 'Mubarike Chisoni',
     'Mauricio Salles De Allencar': 'Mauricio Salles',
     'Mauricio Salles-De Alencar': 'Mauricio Salles',
-    'Matthew (Deli) Delicâte': 'Matthew Delicate',
-    'Matthew Delic�te': 'Matthew Delicate',
+
     'Matthew (Matt) Bobo': 'Matt Bobo',
     'Michael Chabala': 'Mike Chabala',
     'Matthew Bobo': 'Matt Bobo',
@@ -6490,7 +6507,7 @@ onames = {
     'Zacharias (Zach) Scott': 'Zach Scott',
     'Zachary Herold': 'Zac Herold',
     'Zach Kingsley': 'Zack Kingsley',
-    'Matthew (Deli) Delicâte': 'Matthew Delicâte',
+
     'Joshua Timbers': 'Josh Timbers',
     'Mile Miovac': 'Mile Milovac',
     
