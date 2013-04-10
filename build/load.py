@@ -88,10 +88,11 @@ def load_drafts():
 
 def load_games():
     load_isl()
+    load_concacaf()
     return
     load_mls()
     load_conmebol()
-    load_concacaf()
+
     load_usl()
     load_oceania()
     load_oceania_international()
