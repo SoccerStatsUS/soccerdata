@@ -17,6 +17,10 @@ if not os.path.exists(DIR):
 
 
 
+def process_string(s):
+    return
+
+
 def int_or_none(e):
     if e:
         try:

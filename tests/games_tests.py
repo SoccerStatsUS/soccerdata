@@ -15,7 +15,7 @@ Source: Imagination
 Notes: This game never happened.
 """
 
-def test_game():
+def test_basic_game():
     games, goals, misconduct, appearances, rosters = process_string(BASIC)
     g = games[0]
     assert_equal(g['competition'], 'Major League Soccer')
@@ -35,7 +35,7 @@ def test_game():
 
 
 
-def test_goals():
+def test_basic_goals():
     games, goals, misconduct, appearances, rosters = process_string(BASIC)
     assert_equal(goals[0]['goal'], 'Fredy Montero')
     assert_equal(goals[0]['assists'], ['unassisted'])
@@ -66,7 +66,7 @@ def test_goals():
     assert_equal(g3['own_goal_player'], 'Fredy Montero')
                         
 
-def test_lineups():
+def test_basic_lineups():
     games, goals, misconduct, appearances, rosters = process_string(BASIC)
     assert_equal(len(appearances), 8)
     assert_equal([e['name'] for e in appearances], ['Kasey Keller', 'Osvaldo Alonso', 'Lamar Neagle', 'Fredy Montero', 'Nick Rimando', 'Chris Schuler', 'Kyle Beckerman', 'Jason Kreis'])
