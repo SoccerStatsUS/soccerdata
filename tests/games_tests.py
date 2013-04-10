@@ -177,10 +177,6 @@ def test_red_card():
     assert_equal(r2['type'], 'red')
 
 
-
-
-
-
 BLOCKSOURCE = """
 BlockSource: The Bible
 Competition: Ancient Soccer
@@ -190,11 +186,6 @@ Season: -750
 ; Benjamin; ?; Issachar; Jericho
 ; Asher; np; Zebulun; Sidon
 """
-
-
-
-
-    
 
 
 def test_blocksource():
@@ -240,3 +231,47 @@ def test_blocksource():
     assert_equal(g3['team2_result'], None)
     assert_equal(g3['sources'], ['The Bible'])
 
+
+
+MINUTES = """
+Competition: International Soccer League
+Season: 1963
+6/5/1963; Preussen Munster; 4-2; SC Recife; Downing Stadium
+Minutes: 50
+
+
+Competition: MLS Cup Playoffs
+Season: 2003
+
+10/10/2003; DC United; 0-0 (aet); New England Revolution; RFK Stadium
+10/10/2003; FC Dallas; 1-0 (asdet); Chicago Fire; Dallas, TX
+Jason Kreis 98;
+"""
+
+# Add shootout test.
+
+def test_minutes():
+    games, goals, misconduct, appearances, rosters = process_string(MINUTES)
+    g1 = games[0]
+    assert_equal(g1['competition'], 'International Soccer League')
+    assert_equal(g1['season'], '1963')
+    assert_equal(g1['team1'], 'Preussen Munster')
+    assert_equal(g1['team2'], 'SC Recife')
+    assert_equal(g1['team1_score'], 4)
+    assert_equal(g1['team2_score'], 2)
+    assert_equal(g1['minutes'], 50)
+
+    g2 = games[1]
+    assert_equal(g2['competition'], 'MLS Cup Playoffs')
+    assert_equal(g2['season'], '2003')
+    assert_equal(g2['team1'], 'DC United')
+    assert_equal(g2['team2'], 'New England Revolution')
+    assert_equal(g2['team1_score'], 0)
+    assert_equal(g2['team2_score'], 0)
+    assert_equal(g2['minutes'], 120)
+
+
+    g3 = games[2]
+    assert_equal(g3['team1'], 'FC Dallas')
+    assert_equal(g3['team2'], 'Chicago Fire')
+    assert_equal(g3['minutes'], 'asdet')

@@ -133,7 +133,12 @@ def normalize_game(e):
     e['team1'] = get_team(e['team1'])
     e['team2'] = get_team(e['team2'])
 
-    
+    # This is the wrong behavior. 
+    if e.get('minutes') == None:
+        e['minutes'] = 90
+
+    if e['minutes'] == 'asdet':
+        e['minutes'] = 120
 
     # Assign appropriate results based on score and result data.
     e['team1_result'], e['team2_result'] = calculate_game_results(e)

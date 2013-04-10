@@ -115,6 +115,7 @@ class GeneralProcessor(object):
 
         # Change the number of minutes.
         if line.startswith("Minutes:"):
+            self.current_game['minutes'] = int(tag_data(line, 'Minutes:'))
             return
 
 
@@ -160,14 +161,11 @@ class GeneralProcessor(object):
             self.process_roster(tag_data(line, "Roster:"))
             return
 
-
-
         if line.lower().startswith("substitutes not used:"):
             return
 
         if line.startswith('Subs:'):
             return
-
 
         if line.startswith("Description"):
             return
@@ -421,12 +419,15 @@ class GeneralProcessor(object):
                 team1, score, team2 = fields[1:4]
 
                 score = score.lower().strip()
+                minutes = 90
 
                 if '(aet)' in score:
                     score = score.replace('(aet)', '')
+                    minutes = 120
 
                 if '(asdet)' in score:
                     score = score.replace('(asdet)', '')
+                    minutes = 'asdet'
 
 
                 # Eventually will indicate a blank score.
@@ -550,6 +551,7 @@ class GeneralProcessor(object):
             'forfeit': False,
             'sources': self.sources[:],
             'notes': '',
+            'minutes': minutes,
             }
 
         self.current_game = g
