@@ -179,7 +179,12 @@ last_name = {
 
 
 basic = {
-    
+    'Tomas Skuhravy': 'Tomáš Skuhravý',
+    'Juan Veron': 'Juan Verón',
+    'Juan Sebastián Verón': 'Juan Verón',
+    'Emre Belozoglu': 'Emre Belözoğlu',
+    'Yildiray Basturk': 'Yıldıray Baştürk',
+    'Tugay Kerimoglu': 'Tugay Kerimoğlu',
     'Andrew O\'Shay': 'Andy O\'Shay',
     'Andrew Cost': 'Drew Cost',
     'Keita DeCastro': 'Keita de Castro',

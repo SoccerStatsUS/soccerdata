@@ -131,6 +131,10 @@ def process_mls_bios():
     return semicolon_bios('mls', 'Wikipedia')
 
 
+def process_world_cup_bios():
+    return semicolon_bios('wc', 'Wikipedia')
+
+
 def process_mls_reserve_bios():
     return semicolon_bios('mls_reserve', 'Wikipedia')
 
