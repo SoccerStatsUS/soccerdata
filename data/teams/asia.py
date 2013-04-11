@@ -192,11 +192,4 @@ l = [
         'city': 'Giza, Egypt',
         },
 
-    {
-        'name': 'Sydney FC',
-        'founded': 2004,
-        'city': 'Sydney, Australia',
-        },
-
-
 ]

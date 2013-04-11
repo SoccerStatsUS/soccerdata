@@ -187,6 +187,15 @@ def normalize_game(e):
             import pdb; pdb.set_trace()
             x = 5
 
+    if e.get('video'):
+        url = e['video']
+
+        if 'youtube.com/' in url:
+            if 'watch' in url:
+                code = url.split("v=")[1]
+                nurl = "http://www.youtube.com/embed/%s" % code
+                e['video'] = nurl
+
     return e
 
 

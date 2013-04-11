@@ -146,10 +146,6 @@ l = [
         'city': 'Cocoa, FL',
         },
 
-    {
-        'name': 'New Mexico Chiles',
-        'city': 'Albuquerque, NM',
-        },
 
     {
         'name': 'Charleston Battery',
@@ -279,12 +275,7 @@ l = [
         'dissolved': 2005,
         },
 
-    {
-        'name': 'West Michigan Edge',
-        'city': 'Grand Rapids, MI',
-        'founded': 1995,
-        'dissolved': 2008,
-        },
+
     {
         'name': 'Hershey Wildcats',
         'city': 'Hershey, PA',
@@ -292,12 +283,6 @@ l = [
         'dissolved': 2001,
         },
 
-    {
-        'name': 'Chicago Sockers',
-        'city': 'Chicago, IL',
-        'founded': 1995,
-        'dissolved': 2000,
-        },
 
     {
         'name': 'Michigan Bucks',
@@ -690,12 +675,6 @@ l = [
         },
 
 
-    {
-        'name': 'Ohio Xoggz',
-        'city': 'Columbus, OH',
-        'founded': 1994,
-        'dissolved': 1996,
-        },
 
     {
         'name': 'San Diego Flash',

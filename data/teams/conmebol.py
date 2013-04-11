@@ -264,11 +264,6 @@ l = [
         'founded': datetime.datetime(1933, 4, 13),
         'city': 'La Paz, Bolivia',
         },
-    {
-        'name': 'Deportiva Canarias',
-        'founded': 1963,
-        'city': 'Caracas, Venezuela',
-        },
 
     {
         'name': 'Defensor Arica',
@@ -636,11 +631,7 @@ l = [
         'founded': datetime.datetime(1964, 7, 14),
         'city': 'Cajamarca, Peru',
         },
-    {
-        'name': 'Deportivo Lara',
-        'founded': 2006,
-        'city': 'Barquisimento, Venezuela',
-        },
+
     {
         'name': 'Deportivo Táchira',
         'founded': datetime.datetime(1974, 1, 11),

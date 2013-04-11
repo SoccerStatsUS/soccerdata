@@ -201,12 +201,6 @@ l = [
         'dissolved': 1998,
         },
 
-    {
-        'name': 'Los Angeles Lazers',
-        'city': 'Inglewood, CA',
-        'founded': 1982,
-        'dissolved': 1989,
-        },
 
     {
         'name': 'Cleveland Force',
@@ -221,23 +215,6 @@ l = [
         'founded': 2007,
         'dissolved': 2009,
         },
-
-
-    {
-        'name': 'Los Angeles Lazers',
-        'city': 'Inglewood, CA',
-        'founded': 1982,
-        'dissolved': 1989,
-        },
-
-    {
-        'name': 'Los Angeles Lazers',
-        'city': 'Inglewood, CA',
-        'founded': 1982,
-        'dissolved': 1989,
-        },
-
-
 
 
 ]

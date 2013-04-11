@@ -10,8 +10,7 @@ Season: 1903
 
 Season: 1905
 Competition: Lipton Cup
-15/08/1905; Uruguay; 0-0; Argentina      ;   Buenos Aires, Argentina      
-*  [1]    After extra time.
+15/08/1905; Uruguay; 0-0 (aet); Argentina      ;   Buenos Aires, Argentina      
 
 Season: 1906
 15/08/1906; Uruguay; 0-2; Argentina      ;   Montevideo, Uruguay        
@@ -54,11 +53,10 @@ Competition: May Revolution Centenary Cup
 Competition: Lipton Cup
 15/08/1910; Uruguay; 3-1; Argentina      ;   Montevideo, Uruguay        
 Notes: First match played with the sky blue Celeste shirt.
-* [2]    First match played with the "Celeste" (Sky Blue) shirt.
+Notes: First match played with the "Celeste" (Sky Blue) shirt.
 
 Competition: Argentine Honour Cup
-13/11/1910; Uruguay; 1-1; Argentina      ;   Buenos Aires, Argentina      
-*  [1]    After extra time.
+13/11/1910; Uruguay; 1-1 (aet); Argentina      ;   Buenos Aires, Argentina      
 
 27/11/1910; Uruguay; 6-2; Argentina      ;   Buenos Aires, Argentina      
 
@@ -70,8 +68,7 @@ Competition: Newton Cup
 17/09/1911; Uruguay; 2-3; Argentina      ;   Montevideo, Uruguay        
 
 Competition: Uruguayan Honour Cup
-08/10/1911; Uruguay; 1-1; Argentina      ;   Montevideo, Uruguay        
-*  [1]    After extra time.
+08/10/1911; Uruguay; 1-1 (aet); Argentina      ;   Montevideo, Uruguay        
 
 Competition: Argentine Honour Cup
 22/10/1911; Uruguay; 0-2; Argentina      ;   Buenos Aires, Argentina      
@@ -94,10 +91,9 @@ Competition: Montevideo Cup
 
 Season: 1913
 Competition: President R.S. Pena Cup
-15/06/1913; Uruguay; 1-1; Argentina      ;   Avellaneda, Argentina        
-*  [1]    After extra time.
-09/07/1913; Uruguay; 1-2; Argentina      ;   Avellaneda, Argentina        
-*  [1]    After extra time.
+15/06/1913; Uruguay; 1-1 (aet); Argentina      ;   Avellaneda, Argentina        
+
+09/07/1913; Uruguay; 1-2 (aet); Argentina      ;   Avellaneda, Argentina        
 
 Competition: Lipton Cup
 15/08/1913; Uruguay; 0-4; Argentina      ;   Avellaneda, Argentina        
@@ -123,7 +119,7 @@ Competition: Copa America
 02/07/1916; Uruguay; 4-0; Chile          ;   Buenos Aires, Argentina      
 12/07/1916; Uruguay; 2-1; Brazil         ;   Buenos Aires, Argentina      
 17/07/1916; Uruguay; 0-0; Argentina      ;   Avellaneda, Argentina        
-*  [3]    Suspended at 6th minute, continued the next day in Avellaneda.
+Notes: Suspended at 6th minute, continued the next day in Avellaneda.
 
 Competition: International Friendly
 14/07/1916; Uruguay; 4-1; Chile          ;   Montevideo, Uruguay        
@@ -163,7 +159,8 @@ Competition: International Friendly
 Season: 1918
 Competition: Uruguayan Honour Cup
 18/07/1918; Uruguay; 1-1; Argentina      ;   Montevideo, Uruguay        
-*  [4]    After 2 extra times. It was suspended at 136th min for lack of light.
+Minutes: 136
+Notes: After 2 extra times, the game was suspended at 136th minute due to darkness.
 28/07/1918; Uruguay; 3-1; Argentina      ;   Montevideo, Uruguay        
 
 Competition: Argentine Honour Cup
@@ -182,7 +179,8 @@ Competition: Copa America
 17/05/1919; Uruguay; 2-0; Chile          ;   Rio de Janeiro, Brazil    
 26/05/1919; Uruguay; 2-2; Brazil         ;   Rio de Janeiro, Brazil    
 29/05/1919; Uruguay; 0-1; Brazil         ;   Rio de Janeiro, Brazil    
-*  [5]    After 2 extra times. Longest match of the Copa América (150 min).
+Minutes: 150
+Notes: After 2 extra times. Longest match of the Copa América (150 min).
 
 Competition: Uruguayan Honour Cup
 18/07/1919; Uruguay; 4-1; Argentina      ;   Montevideo, Uruguay        
@@ -192,7 +190,8 @@ Competition: Newton Cup
 
 Competition: Lipton Cup
 07/09/1919; Uruguay; 2-1; Argentina      ;   Buenos Aires, Argentina      
-*  [6]    Suspended at 86th min.
+Minutes: 86
+Notes: Suspended at 86th min.
 
 Competition: Argentine Honour Cup
 19/10/1919; Uruguay; 1-6; Argentina      ;   Buenos Aires, Argentina      
@@ -312,10 +311,9 @@ Competition: Olympic Games
 30/05/1928; Uruguay; 2-0; Netherlands    ;   Amsterdam, Netherlands         
 03/06/1928; Uruguay; 4-1; Germany        ;   Amsterdam, Netherlands         
 07/06/1928; Uruguay; 3-2; Italy          ;   Amsterdam, Netherlands         
-10/06/1928; Uruguay; 1-1; Argentina      ;   Amsterdam, Netherlands         
-*  [1]    After extra time.
+10/06/1928; Uruguay; 1-1 (aet); Argentina      ;   Amsterdam, Netherlands         
 13/06/1928; Uruguay; 2-1; Argentina      ;   Amsterdam, Netherlands         
-*  [7]    Olympic Games Final Replay.
+Notes: Olympic Games Final Replay.
 
 Competition: International Friendly
 15/08/1928; Uruguay; 1-3; Paraguay       ;   Asunción, Paraguay          
@@ -349,7 +347,7 @@ Competition: Newton Cup
 
 Competition: FIFA World Cup
 18/07/1930; Uruguay; 1-0; Peru           ;   Montevideo, Uruguay        
-*  [8]    Match preceded by Estadio Centenario inauguration.
+Notes: Match preceded by Estadio Centenario inauguration.
 
 21/07/1930; Uruguay; 4-0; Romania        ;   Montevideo, Uruguay        
 27/07/1930; Uruguay; 6-1; Yugoslavia     ;   Montevideo, Uruguay        
@@ -604,7 +602,8 @@ Competition: Copa America
 23/03/1957; Uruguay; 5-3; Peru           ;   Lima, Peru              
 28/03/1957; Uruguay; 3-2; Brazil         ;   Lima, Peru              
 01/04/1957; Uruguay; 2-0; Chile          ;   Lima, Peru              
-* [10]    Suspended at 41th for incidents, Uruguay walkover.
+Minutes: 41
+Notes: Suspended at 41th for incidents, Uruguay walkover.
 
 Competition: Newton Cup
 23/05/1957; Uruguay; 0-0; Argentina      ;   Montevideo, Uruguay        
@@ -763,7 +762,8 @@ Season: 1968
 
 Competition: Copa Artigas
 02/06/1968; Uruguay; 0-0; Paraguay       ;   Asunción, Paraguay          
-* [11]    Uruguay left the field after 70th min.
+Minutes: 70
+Notes: Uruguay left the field after 70th min.
 
 Competition: Lipton Cup
 05/06/1968; Uruguay; 0-2; Argentina      ;   Buenos Aires, Argentina      
@@ -800,8 +800,8 @@ Competition: FIFA World Cup
 02/06/1970; Uruguay; 2-0; Israel         ;   Puebla, Mexico            
 06/06/1970; Uruguay; 0-0; Italy          ;   Puebla, Mexico            
 10/06/1970; Uruguay; 0-1; Sweden         ;   Puebla, Mexico            
-14/06/1970; Uruguay; 1-0; Soviet Union   ;   Mexico City, Mexico       
-* [12]    After extra time. The USSR lodged an official protest claiming that  during a centre cross which led to the goal the ball was out of field.  The protest was rejected.
+14/06/1970; Uruguay; 1-0 (aet); Soviet Union   ;   Mexico City, Mexico       
+Notes: The USSR lodged an official protest claiming that during a centre cross which led to the goal the ball was out of field. The protest was rejected.
 
 17/06/1970; Uruguay; 1-3; Brazil         ;   Guadalajara, Mexico       
 20/06/1970; Uruguay; 0-1; West Germany   ;   Mexico City, Mexico       
@@ -857,7 +857,7 @@ Season: 1974
 21/04/1974; Uruguay; 3-2; Indonesia      ;   Jakarta, Indonesia
 24/04/1974; Uruguay; 0-0; Australia      ;   Melbourne, Australia
 27/04/1974; Uruguay; 0-2; Australia      ;   Sydney, Australia
-* [13]    The Australian Soccer Federation denounced Uruguayan defender Luis Garisto to FIFA for violent game, after he gave a karate chop to Ray Baartz.
+Notes: The Australian Soccer Federation denounced Uruguayan defender Luis Garisto to FIFA for violent game, after he gave a karate chop to Ray Baartz.
 08/05/1974; Uruguay; 2-0; Ireland        ;   Montevideo, Uruguay        
 
 Competition: FIFA World Cup
@@ -1198,7 +1198,7 @@ Competition: Copa America
 19/06/1993; Uruguay; 2-2; Venezuela      ;   Ambato, Ecuador            
 22/06/1993; Uruguay; 1-2; Ecuador        ;   Quito, Ecuador             
 26/06/1993; Uruguay; 1-1; Colombia       ;   Guayaquil, Ecuador         
-* [14]    Uruguay lost 3-5 on penalties.
+Notes: Uruguay lost 3-5 on penalties.
 
 Competition: International Friendly
 13/07/1993; Uruguay; 2-1; Peru           ;   Lima, Peru              
@@ -1229,7 +1229,8 @@ Competition: International Friendly
 01/02/1995; Uruguay; 0-1; Mexico         ;   San Diego, CA
 22/03/1995; Uruguay; 1-2; Colombia       ;   Medellín, Colombia          
 25/03/1995; Uruguay; 2-2; USA            ;   Dallas, TX
-* [15]    Abandoned at 84th due to severe weather.
+Minutes: 84
+Notes: Abandoned at 84th due to severe weather.
 
 29/03/1995; Uruguay; 0-0; England        ;   London, England            
 31/03/1995; Uruguay; 0-1; Yugoslavia     ;   Belgrade, Yugoslavia
@@ -1240,7 +1241,7 @@ Competition: El Inca Cup
 Competition: International Friendly
 25/06/1995; Uruguay; 7-0; New Zealand    ;   Paysandú, Uruguay          
 28/06/1995; Uruguay; 2-2; New Zealand    ;   Rivera, Uruguay            
-* [16]    Match preceded by Estadio "Atilio Paiva Olivera" inauguration.
+Notes: Match preceded by Estadio "Atilio Paiva Olivera" inauguration.
 
 Competition: Copa America
 05/07/1995; Uruguay; 4-1; Venezuela      ;   Montevideo, Uruguay        
@@ -1249,7 +1250,7 @@ Competition: Copa America
 16/07/1995; Uruguay; 2-1; Bolivia        ;   Montevideo, Uruguay        
 19/07/1995; Uruguay; 2-0; Colombia       ;   Montevideo, Uruguay        
 23/07/1995; Uruguay; 1-1; Brazil         ;   Montevideo, Uruguay        
-* [17]    Uruguay won 5-3 on penalties.
+Notes: Uruguay won 5-3 on penalties.
 
 Competition: International Friendly
 20/09/1995; Uruguay; 1-3; Israel         ;   Jerusalem, Israel
@@ -1296,8 +1297,7 @@ Competition: FIFA Confederations Cup
 13/12/1997; Uruguay; 2-0; UAE            ;   Riyadh, Saudi Arabia            
 15/12/1997; Uruguay; 2-1; Czech Republic ;   Riyadh, Saudi Arabia            
 17/12/1997; Uruguay; 4-3; South Africa   ;   Riyadh, Saudi Arabia            
-19/12/1997; Uruguay; 0-1; Australia      ;   Riyadh, Saudi Arabia            
-* [18]    After sudden death extra time.
+19/12/1997; Uruguay; 0-1 (asdet); Australia      ;   Riyadh, Saudi Arabia            
 
 21/12/1997; Uruguay; 0-1; Czech Republic ;   Riyadh, Saudi Arabia            
 
@@ -1307,16 +1307,16 @@ Competition: International Friendly
 
 Season: 1999
 17/06/1999; Uruguay; 3-2; Paraguay       ;   Ciudad del Este, Paraguay   
-* [19]    Match preceded by Estadio "Antonio Oddone Sarubbi" inauguration.
+Notes: Match preceded by Estadio "Antonio Oddone Sarubbi" inauguration.
 
 Competition: Copa America
 01/07/1999; Uruguay; 0-1; Colombia       ;   Asunción, Paraguay          
 04/07/1999; Uruguay; 2-1; Ecuador        ;   Luque, Paraguay             
 07/07/1999; Uruguay; 0-2; Argentina      ;   Luque, Paraguay             
 10/07/1999; Uruguay; 1-1; Paraguay       ;   Asunción, Paraguay          
-* [17]    Uruguay won 5-3 on penalties.
+Notes: Uruguay won 5-3 on penalties.
 13/07/1999; Uruguay; 1-1; Chile          ;   Asunción, Paraguay          
-* [17]    Uruguay won 5-3 on penalties.
+Notes: Uruguay won 5-3 on penalties.
 18/07/1999; Uruguay; 0-3; Brazil         ;   Asunción, Paraguay          
 
 Competition: International Friendly
@@ -1356,7 +1356,7 @@ Competition: Copa America
 22/07/2001; Uruguay; 2-1; Costa Rica     ;   Armenia, Colombia           
 25/07/2001; Uruguay; 1-2; Mexico         ;   Pereira, Colombia           
 29/07/2001; Uruguay; 2-2; Honduras       ;   Bogotá, Colombia            
-* [20]    Uruguay lost 4-5 on penalties.
+Notes: Uruguay lost 4-5 on penalties.
 
 Season: 2002
 Competition: FIFA World Cup qualification (CONMEBOL)
@@ -1391,8 +1391,8 @@ Competition: International Friendly
 
 Season: 2003
 Competition: Carlsberg Cup
-04/02/2003; Uruguay; 1-1; Iran           ;   Hong Kong
-* [21]    After sudden death extra time. Uruguay won 4-2 on penalties.
+04/02/2003; Uruguay; 1-1 (asdet); Iran           ;   Hong Kong
+Notes: Uruguay won 4-2 on penalties.
 
 Competition: International Friendly
 28/03/2003; Uruguay; 2-2; Japan          ;   Tokyo, Japan
@@ -1439,7 +1439,7 @@ Competition: Copa America
 *16/07/2004; Uruguay; 3-1; Paraguay       ;   Tacna, Peru             
 18/07/2004; Uruguay; 3-1; Paraguay       ;   Tacna, Peru             
 21/07/2004; Uruguay; 1-1; Brazil         ;   Lima, Peru              
-* [14]    Uruguay lost 3-5 on penalties.
+Notes: Uruguay lost 3-5 on penalties.
 
 24/07/2004; Uruguay; 2-1; Colombia       ;   Cuzco, Peru             
 
@@ -1471,8 +1471,8 @@ Competition: International Friendly
 Season: 2006
 Competition: FIFA World Cup qualification (CONMEBOL)
 12/11/2005; Uruguay; 1-0; Australia      ;   Montevideo, Uruguay        
-16/11/2005; Uruguay; 0-1; Australia      ;   Sydney, AUS            
-* [22]    After extra time. Uruguay lost 2-4 on penalties.
+16/11/2005; Uruguay; 0-1 (aet); Australia      ;   Sydney, AUS            
+Notes: Uruguay lost 2-4 on penalties.
 
 Season: 2006
 Competition: International Friendly
@@ -1484,7 +1484,7 @@ Competition: International Friendly
 Competition: LG Cup
 31/05/2006; Uruguay; 2-1; Libya          ;   Rades, Tunisia
 02/06/2006; Uruguay; 0-0; Tunisia        ;   Rades, Tunisia
-* [23]    Uruguay won 3-1 on penalties.
+Notes: Uruguay won 3-1 on penalties.
 
 Competition: International Friendly
 16/08/2006; Uruguay; 2-0; Egypt          ;   Alexandria, Egypt
@@ -1503,7 +1503,7 @@ Competition: Copa America
 03/07/2007; Uruguay; 0-0; Venezuela      ;   Mérida, Venezuela            
 07/07/2007; Uruguay; 4-1; Venezuela      ;   San Cristóbal, Venezuela     
 10/07/2007; Uruguay; 2-2; Brazil         ;   Maracaibo, Venezuela         
-* [20]    Uruguay lost 4-5 on penalties.
+Notes: Uruguay lost 4-5 on penalties.
 14/07/2007; Uruguay; 1-3; Mexico         ;   Caracas, Venezuela           
 
 Competition: International Friendly
@@ -1577,8 +1577,8 @@ Competition: FIFA World Cup
 16/06/2010; Uruguay; 3-0; South Africa   ;   Pretoria, South Africa          
 22/06/2010; Uruguay; 1-0; Mexico         ;   Rustemburg, South Africa        
 26/06/2010; Uruguay; 2-1; South Korea    ;   Port Elizabeth, South Africa    
-02/07/2010; Uruguay; 1-1; Ghana          ;   Johannesburg, South Africa      
-* [24]    After extra time. Uruguay won 4-2 on penalties.
+02/07/2010; Uruguay; 1-1 (aet); Ghana          ;   Johannesburg, South Africa      
+Notes: Uruguay won 4-2 on penalties.
 06/07/2010; Uruguay; 2-3; Netherlands    ;   Cape Town, South Africa         
 10/07/2010; Uruguay; 2-3; Germany        ;   Port Elizabeth, South Africa    
 
@@ -1607,8 +1607,8 @@ Competition: Copa America
 04/07/2011; Uruguay; 1-1; Peru           ;   San Juan, Argentina          
 08/07/2011; Uruguay; 1-1; Chile          ;   Mendoza, Argentina           
 12/07/2011; Uruguay; 1-0; Mexico         ;   La Plata, Argentina          
-16/07/2011; Uruguay; 1-1; Argentina      ;   Santa Fe, Argentina          
-* [25]    After extra time. Uruguay won 5-4 on penalties.
+16/07/2011; Uruguay; 1-1 (aet); Argentina      ;   Santa Fe, Argentina          
+Notes: Uruguay won 5-4 on penalties.
 
 19/07/2011; Uruguay; 2-0; Peru           ;   La Plata, Argentina          
 24/07/2011; Uruguay; 3-0; Paraguay       ;   Buenos Aires, Argentina      

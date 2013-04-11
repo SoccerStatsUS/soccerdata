@@ -275,3 +275,29 @@ def test_minutes():
     assert_equal(g3['team1'], 'FC Dallas')
     assert_equal(g3['team2'], 'Chicago Fire')
     assert_equal(g3['minutes'], 'asdet')
+
+
+VIDEO = """
+Competition: MLS Cup Playoffs
+Round: Final
+Season: 1996
+
+10/20/1996; Los Angeles Galaxy; 2-3 (asdet); DC United; Foxboro Stadium; Esse Baharmast; 34643
+Eduardo Hurtado (Mauricio Cienfuegos) 5, Chris Armas (unassisted) 56; Tony Sanneh (Marco Etcheverry) 73, Shawn Medved (unassisted) 81, Eddie Pope (Marco Etcheverry) 94
+Los Angeles Galaxy: Jorge Campos, Mark Semioli, Robin Fraser, Greg Vanney, Arash Noamouz, Jorge Salcedo (Curt Onalfo 77), Chris Armas, Mauricio Cienfuegos, Cobi Jones, Harut Karapetyan (Ante Razov 76), Eduardo Hurtado
+DC United: Mark Simpson, Clint Peay, Eddie Pope, Jeff Agoos, Mario Gori (Shawn Medved 70), Richie Williams, John Maessner (Tony Sanneh 59), John Harkes, Marco Etcheverry, Jaime Moreno, Raul Diaz Arce
+Video: http://www.youtube.com/watch?v=AyRVWDgxovY
+"""
+
+
+def test_video():
+    games, goals, misconduct, appearances, rosters = process_string(VIDEO)
+    g1 = games[0]
+    assert_equal(g1['competition'], 'MLS Cup Playoffs')
+    assert_equal(g1['season'], '1996')
+    assert_equal(g1['team1'], 'Los Angeles Galaxy')
+    assert_equal(g1['team2'], 'DC United')
+    assert_equal(g1['team1_score'], 2)
+    assert_equal(g1['team2_score'], 3)
+    #assert_equal(g1['minutes'], 94)
+    assert_equal(g1['video'], 'http://www.youtube.com/watch?v=AyRVWDgxovY')

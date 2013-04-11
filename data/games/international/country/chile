@@ -48,9 +48,9 @@ Season: 1920
 Season: 1921
 Competition: International Friendly
 25/09/1921; Chile; 1-4 ; Argentina    ;  Vina del Mar, Chile       
-* [1]  These matches were played by the dissident Argentinian National Team.
+Notes: These matches were played by the dissident Argentinian National Team.
 02/10/1921; Chile; 1-1 ; Argentina    ;  Vina del Mar, Chile       
-* [1]  These matches were played by the dissident Argentinian National Team.
+Notes: These matches were played by the dissident Argentinian National Team.
 
 Season: 1922
 Competition: Copa America
@@ -64,7 +64,7 @@ Competition: International Friendly
 
 Season: 1923
 03/12/1923; Chile; 0-6 ; Argentina    ;  Buenos Aires, Argentina  
-* [1]  These matches were played by the dissident Argentinian National Team.
+Notes: These matches were played by the dissident Argentinian National Team.
 
 Season: 1924
 12/10/1924; Chile; 0-1 ; Uruguay      ;  Santiago, Chile           
@@ -146,7 +146,8 @@ Season: 1942
 14/01/1942; Chile; 1-6 ; Brazil          ;  Montevideo, Uruguay    
 22/01/1942; Chile; 0-2 ; Paraguay        ;  Montevideo, Uruguay    
 31/01/1942; Chile; 0-0 ; Argentina    ;  Montevideo, Uruguay    
-* [2]  This match was suspended after 41 minutes when the Chileans left the field in disagreement with a decision of the referee Cuenca; CSF decided to award both points to Argentina.
+Minutes: 41
+Notes: This match was suspended after 41 minutes when the Chileans left the field in disagreement with a decision of the referee Cuenca; CSF decided to award both points to Argentina.
 05/02/1942; Chile; 2-1 ; Ecuador         ;  Montevideo, Uruguay    
 07/02/1942; Chile; 0-0 ; Peru            ;  Montevideo, Uruguay    
 
@@ -183,7 +184,8 @@ Season: 1949
 27/04/1949; Chile; 2-4 ; Paraguay        ;  São Paulo, Brazil     
 30/04/1949; Chile; 0-3 ; Peru            ;  São Paulo, Brazil     
 08/05/1949; Chile; 3-1 ; Uruguay      ;  Belo Horizonte, Brazil
-* [3]  Uruguay left the field at 83rd min. 
+Minutes: 83
+Notes: Uruguay left the field at 83rd min. 
 
 Season: 1950
 Competition: International Friendly
@@ -213,7 +215,8 @@ Competition: Copa America
 19/03/1953; Chile; 3-0 ; Ecuador         ;  Lima, Peru          
 23/03/1953; Chile; 2-3 ; Brazil          ;  Lima, Peru          
 28/03/1953; Chile; 2-2 ; Bolivia      ;  Lima, Peru          
-* [4]  Suspended after 66th min.  Match awarded to Chile due to unsportsmanlike behaviour of Bolivia. 
+Minutes: 83
+Notes: Suspended after 66th min.  Match awarded to Chile due to unsportsmanlike behaviour of Bolivia. 
 
 Competition: International Friendly
 24/05/1953; Chile; 1-2 ; England         ;  Santiago, Chile           
@@ -813,7 +816,7 @@ Competition: FIFA World Cup qualification (CONMEBOL)
 13/08/1989; Chile; 1-1 ; Brazil          ;  Santiago, Chile           
 27/08/1989; Chile; 5-0 ; Venezuela       ;  Mendoza, Argentina       
 03/09/1989; Chile; 0-1 ; Brazil       ;  Rio de Janeiro, Brazil
-* [5]  Match abandoned; awarded to Brazil 2-0.
+Notes: Match abandoned; awarded to Brazil 2-0.
 
 Season: 1990
 Competition: Copa Texeira
@@ -952,7 +955,7 @@ Competition: FIFA World Cup qualification (CONMEBOL)
 Season: 1998
 Competition: Carlsberg Cup
 31/01/1998; Chile; 1-1 ; Iran         ;  Hong Kong
-* [6]  Iran won 4-2 on penalties.
+Notes: Iran won 4-2 on penalties.
 
 Competition: International Friendly
 04/02/1998; Chile; 0-0 ; New Zealand     ;  Auckland, New Zealand
@@ -984,10 +987,11 @@ Competition: Copa America
 30/06/1999; Chile; 0-1 ; Mexico          ;  Ciudad del Este, Paraguay   
 03/07/1999; Chile; 3-0 ; Venezuela       ;  Ciudad del Este, Paraguay   
 06/07/1999; Chile; 0-1 ; Brazil       ;  Ciudad del Este, Paraguay   
-* [7]  Match abandoned in 85' due to fog; result stood.
+Minutes: 85
+Notes:  Match abandoned in 85' due to fog; result stood.
 11/07/1999; Chile; 3-2 ; Colombia        ;  Luque, Paraguay         
 13/07/1999; Chile; 1-1 ; Uruguay      ;  Asunción, Paraguay
-* [8]  Uruguay won 5-3 on penalties.
+Notes: Uruguay won 5-3 on penalties.
 17/07/1999; Chile; 1-2 ; Mexico          ;  Asunción, Paraguay      
 
 Season: 2000
@@ -1119,17 +1123,6 @@ Season: 2006
 Competition: FIFA World Cup qualification (CONMEBOL)
 26/03/2005; Chile; 1-1 ; Uruguay         ;  Santiago, Chile           
 30/03/2005; Chile; 1-2 ; Paraguay        ;  Asunción, Paraguay           
-
-
-
-
-
-
-
-
-
-
-
 
 
 *About this document

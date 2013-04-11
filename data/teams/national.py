@@ -189,11 +189,7 @@ l = [
         'founded': 1924,
         'country': 'Grenada',
         },
-    {
-        'name': 'Guadeloupe',
-        'founded': 1961,
-        'country': 'Guadeloupe',
-        },
+
     {
         'name': 'Guyana',
         'founded': 1902,
@@ -459,11 +455,7 @@ l = [
         'founded': 1889,
         'country': 'Netherlands',
         },
-    {
-        'name': 'Ireland',
-        'founded': 1880,
-        'country': 'Ireland',
-        },
+
     {
         'name': 'Norway',
         'founded': 1902,

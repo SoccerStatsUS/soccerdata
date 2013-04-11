@@ -1467,10 +1467,7 @@ l = [
         'name': 'Kutztown University',
         'city': 'Kutztown, PA',
        },
-    {
-        'name': 'Rockhurst University',
-        'city': 'Kansas City, MO',
-       },
+
     {
         'name': 'University of Houston',
         'city': 'Houston, TX',
@@ -1523,10 +1520,8 @@ l = [
         'name': 'Saint Leo University',
         'city': 'St. Leo, FL',
        },
-    {
-        'name': 'Eckerd College',
-        'city': 'St. Petersburg, FL',
-       },
+
+
 
     {
         'name': 'University of Nebraska Omaha',

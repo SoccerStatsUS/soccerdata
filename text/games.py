@@ -171,9 +171,12 @@ class GeneralProcessor(object):
             return
 
 
-        # Add a source.
         if line.startswith("Source:"):
-            self.games[-1]['sources'].append(tag_data(line, "Source:"))
+            self.current_game['sources'].append(tag_data(line, "Source:"))
+            return
+
+        if line.startswith("Video:"):
+            self.current_game['video'] = tag_data(line, "Video:")
             return
 
         if line.startswith('BlockSource:'):
@@ -551,6 +554,7 @@ class GeneralProcessor(object):
             'forfeit': False,
             'sources': self.sources[:],
             'notes': '',
+            'video': '',
             'minutes': minutes,
             }
 

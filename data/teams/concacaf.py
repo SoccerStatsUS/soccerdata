@@ -180,12 +180,6 @@ l = [
         },
 
     {
-        'name': 'Arabe Unido',
-        'founded': datetime.datetime(1994, 4, 28),
-        'city': 'Colon, Panama',
-        },
-
-    {
         'name': 'Tauro FC',
         'founded': 1984,
         'city': 'Panama City, Panama',
@@ -416,11 +410,6 @@ l = [
 
 
     {
-        'name': 'L\'Etoile de Morne-à-l\'Eau',
-        'founded': 1958,
-        'city': 'Morne-a-l\'Eau, Guadeloupe',
-        },
-    {
         'name': 'Juventus Managua',
         'founded': 1977,
         'city': 'Managua, Nicaragua',
@@ -429,12 +418,6 @@ l = [
     {
         'name': 'Petrotela',
         'city': 'Tela, Honduras',
-        },
-
-    {
-        'name': 'Club Verdes',
-        'founded': 1976,
-        'city': 'Benque Viejo del Carmen',
         },
 
     {

@@ -11,7 +11,8 @@ Season: 1903
 Season: 1905
 Competition: Lipton Cup
 15/08/1905; Argentina; 0-0  ; Uruguay          ; Buenos Aires, Argentina
-* [1]: Los 90 minutos reglamentarios finalizaron 0-0. Se realizaron 2 tiempos suplementarios, el primero de 15 minutos y el segundo de 6 minutos, éste por falta de luz.
+Minutes: 111
+Notes: Game was halted after 111 minutes due to darkness.
 
 Season: 1906
 15/08/1906; Argentina; 2-0  ; Uruguay          ; Montevideo, Uruguay    
@@ -32,7 +33,6 @@ Competition: Lipton Cup
 
 Competition: Newton Cup
 13/09/1908; Argentina; 2-1  ; Uruguay          ; Buenos Aires, Argentina
-*   [2]: First match played with the "Albiceleste" (light blue/white vertical stripes) shirt.
 Notes: First match played with the Albiceleste shirt (light blue/white vertical stripes)
 
 Competition: Argentine Honour Cup
@@ -65,8 +65,7 @@ Competition: International Friendly
 11/09/1910; Argentina; 3-0  ; Chile            ; Viña del Mar, Chile
 
 Competition: Argentine Honour Cup
-13/11/1910; Argentina; 1-1  ; Uruguay          ; Buenos Aires, Argentina
-*  [3]: Match defined in supplementary time.
+13/11/1910; Argentina; 1-1 (aet); Uruguay          ; Buenos Aires, Argentina
 27/11/1910; Argentina; 2-6  ; Uruguay          ; Buenos Aires, Argentina
 
 Season: 1911
@@ -78,7 +77,6 @@ Competition: Newton Cup
 
 Competition: Uruguayan Honour Cup
 08/10/1911; Argentina; 1-1 (aet); Uruguay          ; Montevideo, Uruguay  
-*   [3]: Match defined in supplementary time.
 
 Competition: Argentine Honour Cup
 22/10/1911; Argentina; 2-0  ; Uruguay          ; Buenos Aires, Argentina
@@ -95,19 +93,17 @@ Competition: Uruguayan Honour Cup
 
 Competition: Argentine Honour Cup
 22/09/1912; Argentina; 0-1  ; Uruguay          ; Buenos Aires, Argentina
-*   [5]: Partido oficializado por FIFA. [[4]: Dissident Argentine national team.
+Notes: Dissident Argentine national team.
 
 Competition: Newton Cup
 06/10/1912; Argentina; 3-3  ; Uruguay          ; Avellaneda, Argentina  
 
 Competition: Montevideo, Uruguay Cup
 01/12/1912; Argentina; 3-1 (aet) ; Uruguay          ; Montevideo, Uruguay  
-*   [3]: Match defined in supplementary time.
 
 Season: 1913
 Competition: President R.S. Pena Cup
 15/06/1913; Argentina; 1-1  ; Uruguay          ; Avellaneda, Argentina  
-*   [6]: There was an addition of 7 minutes because of lack of light.
 Minutes: 97
 Notes: There was an addition of 7 minutes because of lack of light.
 
@@ -158,7 +154,6 @@ Competition: Copa America
 06/07/1916; Argentina; 6-1  ; Chile            ; Buenos Aires, Argentina  
 10/07/1916; Argentina; 1-1  ; Brazil           ; Buenos Aires, Argentina  
 17/07/1916; Argentina; 0-0  ; Uruguay          ; Avellaneda, Argentina    
-*   [7]: Este partido se había suspendido el día anterior a los 6 minutos por invasión del público. Continuado al día siguiente.
 Notes: This match had been suspended the previous day after 6 minutes due to a pitch invasion. 
 
 Competition: International Friendly
@@ -203,7 +198,6 @@ Competition: Uruguayan Honour Cup
 
 Competition: Argentine Honour Cup
 15/08/1918; Argentina; 0-0 (aet) ; Uruguay          ; Buenos Aires, Argentina  
-*  [3]: Match defined in supplementary time.
 25/08/1918; Argentina; 2-1  ; Uruguay          ; Buenos Aires, Argentina  
 
 Competition: Lipton Cup
@@ -225,7 +219,6 @@ Competition: International Friendly
 15/05/1919; Argentina; 3-0  ; Paraguay         ; Asuncion, Paraguay      
 Minutes: 52
 Notes: Called after 52 minutes due to rain.
-*   [9]: Se dió por finalizado a los 52 minutos por lluvia.
 
 20/05/1919; Argentina; 2-1  ; Paraguay         ; Asuncion, Paraguay      
 24/05/1919; Argentina; 2-1  ; Paraguay         ; Asuncion, Paraguay      
@@ -242,14 +235,12 @@ Competition: Newton Cup
 Competition: Lipton Cup
 07/09/1919; Argentina; 1-2  ; Uruguay          ; Buenos Aires, Argentina  
 Minutes: 86
-*  [10]: This match was suspended at the 86 minutes.
 
 Competition: Argentine Honour Cup
 19/10/1919; Argentina; 6-1  ; Uruguay          ; Buenos Aires, Argentina  
 
 Competition: Press Circle Cup
 07/12/1919; Argentina; 2-4 (aet) ; Uruguay          ; Montevideo, Uruguay    
-*   [3]: Match defined in supplementary time.
 
 Season: 1920
 Competition: Uruguayan Honour Cup
@@ -268,14 +259,13 @@ Competition: Copa America
 
 Competition: International Friendly
 12/10/1920; Argentina; 3-1  ; Brazil           ; Buenos Aires, Argentina  
-Minutes: Match played 8 vs. 8. Several Brazilians pulled out due to racist insults from local newspapers, leaving the team with only 8 players; Argentina reduced their side for fairness.
+Notes: Match played 8 vs. 8. Several Brazilians pulled out due to racist insults from local newspapers, leaving the team with only 8 players; Argentina reduced their side for fairness.
 *  [11]: This match started with 8 players on each side. On the evening before the match, a local newspapers had insulted the Brazilians ("macacos"). Several players refused to enter the field and therefore Brazil only had 8 players; Argentina, as a gesture of honor, then also played with 3 less.
 
 Season: 1921
 07/04/1921; Argentina; 1-3  ; Paraguay         ; Asuncion, Paraguay      
 14/04/1921; Argentina; 2-2  ; Paraguay         ; Asuncion, Paraguay      
 Notes: According to some sources Paraguay is an Asuncion Combined XI.
-*  [12]: According to some sources is the Asuncion, Paraguay Combined.
 
 Competition: Copa America
 02/10/1921; Argentina; 1-0  ; Brazil           ; Buenos Aires, Argentina   
@@ -289,7 +279,6 @@ Season: 1922
 18/10/1922; Argentina; 2-0  ; Paraguay         ; Raio de Janeiro, Brazil 
 Minutes: 79
 Notes: Abandoned at 79' when Paraguay left the field in protest of a penalty kick decision.
-* [13]: Suspendido a los 79 minutos porque el equipo paraguayo abandonó el campo de juego en protesta por la sanción del penal.
 
 Competition: Roca Cup
 22/10/1922; Argentina; 1-2  ; Brazil           ; Sao Paulo, Brazil      
@@ -413,8 +402,7 @@ Competition: Olympic Games
 29/05/1928; Argentina;11-2  ; United States    ; Amsterdam, Netherlands            
 02/06/1928; Argentina; 6-3  ; Belgium          ; Amsterdam, Netherlands            
 06/06/1928; Argentina; 6-0  ; Egypt            ; Amsterdam, Netherlands            
-10/06/1928; Argentina; 1-1  ; Uruguay          ; Amsterdam, Netherlands            
-*   [3]: Match defined in supplementary time.
+10/06/1928; Argentina; 1-1 (aet); Uruguay          ; Amsterdam, Netherlands            
 13/06/1928; Argentina; 1-2  ; Uruguay          ; Amsterdam, Netherlands
 
 Competition: Newton Cup
@@ -516,7 +504,6 @@ Competition: Copa America
 23/01/1937; Argentina; 2-3  ; Uruguay          ; Buenos Aires, Argentina   
 30/01/1937; Argentina; 1-0  ; Brazil           ; Buenos Aires, Argentina   
 01/02/1937; Argentina; 2-0 (aet) ; Brazil           ; Buenos Aires, Argentina   
-*   [3]: Match defined in supplementary time.
 
 Competition: Newton Cup
 10/10/1937; Argentina; 3-0  ; Uruguay          ; Montevideo, Uruguay     
@@ -535,7 +522,6 @@ Season: 1939
 Competition: Roca Cup
 15/01/1939; Argentina; 5-1  ; Brazil           ; Raio de Janeiro, Brazil 
 22/01/1939; Argentina; 2-3  ; Brazil           ; Raio de Janeiro, Brazil 
-*  [18]: The Brazilian national team scored its third goal when the Argentine team had left the field because of problems.
 Notes: The Brazilian national team scored its third goal when the Argentine team had left the field because of problems.
 
 Competition: Chevalier Boutell Cup
@@ -599,7 +585,6 @@ Competition: Copa America
 31/01/1942; Argentina; 0-0  ; Chile            ; Montevideo, Uruguay     
 Minutes: 41
 Notes: This match was suspended after 41 minutes when the Chileans left the field, in disagreement with a decision of the referee; CSF decided to award both points to Argentina. This match is counted for the statistics as drawn.
-*  [19]: This match was suspended after 41 minutes when the Chileans left the field, in disagreement with a decision of the referee; CSF decided to award both points to Argentina. This match is counted for the statistics as drawn.
 
 07/02/1942; Argentina; 0-1  ; Uruguay          ; Montevideo, Uruguay     
 
@@ -685,7 +670,6 @@ Season: 1953
 17/05/1953; Argentina; 0-0  ; England          ; Buenos Aires, Argentina   
 Minutes: 23
 Notes: Suspended after 23 minutes due to rain.
-*  [20]: This match was suspended after 23 minutes because of the rain.
 
 05/07/1953; Argentina; 1-0  ; Spain            ; Buenos Aires, Argentina   
 
@@ -734,8 +718,7 @@ Competition: International Friendly
 
 Competition: Raul H. Colombo Cup
 05/12/1956; Argentina; 2-1  ; Brazil      ; Raio de Janeiro, Brazil 
-Notes: According to some sources is the Guanabara Team.
-*  [21]: According to some sources is the Guanabara Team.
+Notes: According to some sources Brazil is the Guanabara Team.
 
 Season: 1957
 Competition: Copa America
@@ -758,7 +741,6 @@ Competition: Lipton Cup
 Competition: Roca Cup
 07/07/1957; Argentina; 2-1  ; Brazil           ; Raio de Janeiro, Brazil 
 10/07/1957; Argentina; 0-2 (aet) ; Brazil           ; Sao Paulo, Brazil      
-*   [3]: Match defined in supplementary time.
 
 Competition: FIFA World Cup qualification (CONMEBOL)
 Season: 1958
@@ -811,7 +793,6 @@ Competition: Panamerican Championship
 Competition: Roca Cup
 26/05/1960; Argentina; 4-2  ; Brazil           ; Buenos Aires, Argentina   
 29/05/1960; Argentina; 1-4 (aet) ; Brazil           ; Buenos Aires, Argentina   
-*  [3]: Match defined in supplementary time.
 
 Competition: Atlantic Cup
 09/07/1960; Argentina; 1-0  ; Paraguay         ; Buenos Aires, Argentina   
@@ -866,7 +847,6 @@ Competition: Copa America
 Competition: Roca Cup
 13/04/1963; Argentina; 3-2  ; Brazil           ; Sao Paulo, Brazil     
 16/04/1963; Argentina; 2-5 (aet)  ; Brazil           ; Raio de Janeiro, Brazil
-*  [3]: Match defined in supplementary time.
 
 Competition: Chevalier Boutell Cup
 15/10/1963; Argentina; 4-0  ; Paraguay         ; Asuncion, Paraguay      
@@ -940,13 +920,11 @@ Competition: Newton Cup
 20/06/1968; Argentina; 1-2  ; Uruguay          ; Montevideo, Uruguay     
 
 Competition: International Friendly
-07/08/1968; Argentina; 1-4  ; Brazil      ; Raio de Janeiro, Brazil 
-Notes: According to some sources is the Guanabara Team.
-*  [23]: According to some sources is the Guanabara Team.
+07/08/1968; Argentina; 1-4  ; Brazil      ; Rio de Janeiro, Brazil 
+Notes: According to some sources Brazil is the Guanabara Team.
 
 11/08/1968; Argentina; 2-3  ; Brazil      ; Belo Horizonte, Brazil 
-Notes: According to some sources is the Minas Gerais Team.
-*  [24]: According to some sources is the Minas Gerais Team.
+Notes: According to some sources Brazil is the Minas Gerais Team.
 
 29/08/1968; Argentina; 2-2  ; Peru             ; Lima, Peru           
 01/09/1968; Argentina; 1-1  ; Peru             ; Lima, Peru           
@@ -998,7 +976,6 @@ Competition: Dittborn Cup
 Competition: Roca Cup
 28/07/1971; Argentina; 1-1  ; Brazil           ; Buenos Aires, Argentina   
 31/07/1971; Argentina; 2-2 (aet)  ; Brazil           ; Buenos Aires, Argentina   
-*   [3]: Match defined in supplementary time.
 
 Competition: Dittborn Cup
 04/08/1971; Argentina; 1-0  ; Chile            ; Buenos Aires, Argentina   
@@ -1141,7 +1118,7 @@ Season: 1977
 
 Competition: Real Madrid 75th Anniversary Cup
 22/03/1977; Argentina; 1-1  ; Iran             ; Madrid, Spain         
-*  [25]: This match was decided by penalties. Argentina won 4-1.
+Notes This match was decided by penalties. Argentina won 4-1.
 
 Competition: International Friendly
 29/05/1977; Argentina; 3-1  ; Poland           ; Buenos Aires, Argentina   
@@ -1155,7 +1132,7 @@ Competition: International Friendly
 Competition: Bogado Cup
 24/08/1977; Argentina; 2-1  ; Paraguay         ; Buenos Aires, Argentina   
 31/08/1977; Argentina; 0-2  ; Paraguay         ; Asuncion, Paraguay       
-*  [26]: This match was decided by penalties to decide the possession of the cup. Paraguay won 3-1.
+Notes: This match was decided by penalties to decide the possession of the cup. Paraguay won 3-1.
 
 Season: 1978
 Competition: Castilla Cup
@@ -1166,7 +1143,7 @@ Competition: International Friendly
 29/03/1978; Argentina; 3-1  ; Bulgaria         ; Buenos Aires, Argentina   
 05/04/1978; Argentina; 2-0  ; Romania          ; Buenos Aires, Argentina   
 19/04/1978; Argentina; 3-1  ; Ireland          ; Buenos Aires, Argentina   
-*  [27]: El rival se presentó como Liga de Irlanda pero fueron oficializados por la FIFA.
+Notes: Ireland billed as the Irish League; game officialized by FIFA.
 25/04/1978; Argentina; 0-2  ; Uruguay          ; Montevideo, Uruguay     
 03/05/1978; Argentina; 3-0  ; Uruguay          ; Buenos Aires, Argentina   
 
@@ -1178,7 +1155,6 @@ Competition: FIFA World Cup
 18/06/1978; Argentina; 0-0  ; Brazil           ; Rosario, Argentina        
 21/06/1978; Argentina; 6-0  ; Peru             ; Rosario, Argentina        
 25/06/1978; Argentina; 3-1 (aet) ; Netherlands      ; Buenos Aires, Argentina   
-*   [3]: Match defined in supplementary time.
 
 Season: 1979
 Competition: International Friendly
@@ -1186,12 +1162,12 @@ Competition: International Friendly
 
 Competition: FIFA 75th Anniversary Cup
 22/05/1979; Argentina; 0-0  ; Netherlands      ; Bern, Switzerland           
-* [28]: This match was decided by penalties. Argentina won 8-7.
+Notes: This match was decided by penalties. Argentina won 8-7.
 
 Competition: International Friendly
 26/05/1979; Argentina; 2-2  ; Italy            ; Rome, Italy           
-29/05/1979; Argentina; 0-0  ; Ireland          ; Dublin, Ireland         
-* [27]: El rival se presentó como Liga de Irlanda pero fueron oficializados por la FIFA.
+29/05/1979; Argentina; 0-0  ; Ireland          ; Dublin, Ireland     
+Notes: Ireland billed as the Irish League; game officialized by FIFA.    
 02/06/1979; Argentina; 3-1  ; Scotland         ; Glasgow, Scotland        
 
 Competition: Copa America
@@ -1206,7 +1182,7 @@ Competition: International Friendly
 
 Season: 1980
 30/04/1980; Argentina; 1-0  ; Ireland          ; Buenos Aires, Argentina   
-* [27]: El rival se presentó como Liga de Irlanda pero fueron oficializados por la FIFA.
+Notes: Ireland billed as the Irish League; game officialized by FIFA.    
 13/05/1980; Argentina; 1-3  ; England          ; London, England         
 16/05/1980; Argentina; 1-0  ; Ireland          ; Dublin, Ireland         
 21/05/1980; Argentina; 5-1  ; Austria          ; Vienna, Austria         
@@ -1275,7 +1251,6 @@ Competition: International Friendly
 25/10/1984; Argentina; 1-1  ; Mexico           ; Buenos Aires, Argentina   
 Minutes: 85
 Notes: Abandoned after 85 minutes due to pitch invasion.
-*  [29]: Partido suspendido a los 85 minutos por invasión del público.
 
 
 Season: 1985
@@ -1369,10 +1344,11 @@ Competition: FIFA World Cup
 13/06/1990; Argentina; 2-0  ; U.S.S.R.         ; Naples, Italy         
 18/06/1990; Argentina; 1-1  ; Romania          ; Naples, Italy         
 24/06/1990; Argentina; 1-0  ; Brazil           ; Turin, Italy          
-30/06/1990; Argentina; 0-0  ; Yugoslavia       ; Florence, Italy       
-*  [30]: This match was decided by penalties after extra time. Argentina won 3-2.
-03/07/1990; Argentina; 1-1  ; Italy            ; Naples, Italy         
-*  [31]: This match was decided by penalties after extra time. Argentina won 4-3.
+30/06/1990; Argentina; 0-0 (aet); Yugoslavia       ; Florence, Italy       
+Notes: This match was decided by penalties after extra time. Argentina won 3-2.
+03/07/1990; Argentina; 1-1 (aet); Italy            ; Naples, Italy         
+Notes: This match was decided by penalties after extra time. Argentina won 4-3
+
 
 08/07/1990; Argentina; 0-1  ; West Germany     ; Rome, Italy           
 
@@ -1422,18 +1398,18 @@ Competition: AFA Centenary Cup
 18/02/1993; Argentina; 1-1  ; Brazil           ; Buenos Aires, Argentina   
 
 Competition: Artemio Franchi Trophy
-24/02/1993; Argentina; 1-1  ; Denmark          ; Mar del Plata  
-* [32]: This match was decided by penalties after extra time to decide the possession of the cup. Argentina won 5-4.
+24/02/1993; Argentina; 1-1 (aet) ; Denmark          ; Mar del Plata  
+Notes: This match was decided by penalties after extra time to decide the possession of the cup. Argentina won 5-4.
 
 Competition: Copa America
 17/06/1993; Argentina; 1-0  ; Bolivia          ; Guayaquil      
 20/06/1993; Argentina; 1-1  ; Mexico           ; Guayaquil      
 23/06/1993; Argentina; 1-1  ; Colombia         ; Guayaquil      
 27/06/1993; Argentina; 1-1  ; Brazil           ; Guayaquil      
-* [33]: This match was decided by penalties. Argentina won 6-5.
+Notes: This match was decided by penalties. Argentina won 6-5.
 
 01/07/1993; Argentina; 0-0  ; Colombia         ; Guayaquil      
-* [34]: This match was decided by penalties. Argentina won 6-5.
+Notes: This match was decided by penalties. Argentina won 6-5.
 
 04/07/1993; Argentina; 2-1  ; Mexico           ; Guayaquil      
 
@@ -1503,7 +1479,7 @@ Competition: Copa America
 11/07/1995; Argentina; 4-0  ; Chile            ; Paysandu, Uruguay              
 14/07/1995; Argentina; 0-3  ; United States    ; Paysandu, Uruguay              
 17/07/1995; Argentina; 2-2  ; Brazil           ; Rivera, Uruguay         
-* [37]: This match was decided by penalties. Brazil won 4-2.
+Notes: This match was decided by penalties. Brazil won 4-2.
 
 Competition: International Friendly
 20/09/1995; Argentina; 1-2  ; Spain            ; Madrid         
@@ -1576,8 +1552,8 @@ Competition: FIFA World Cup
 14/06/1998; Argentina; 1-0  ; Japan            ; Toulouse, France       
 21/06/1998; Argentina; 5-0  ; Jamaica          ; Paris, France          
 26/06/1998; Argentina; 1-0  ; Croatia          ; Bordeaux, France       
-30/06/1998; Argentina; 2-2  ; England          ; Saint-Etienne, France  
-* [39]: This match was decided by penalties after extra time. Argentina won 4-3.
+30/06/1998; Argentina; 2-2 (aet); England          ; Saint-Etienne, France  
+Notes: This match was decided by penalties after extra time. Argentina won 4-3.
 
 04/07/1998; Argentina; 1-2  ; Netherlands      ; Marseille, France      
 
@@ -1711,7 +1687,7 @@ Competition: Copa America
 17/07/2004; Argentina; 1-0  ; Peru             ; Chiclayo       
 20/07/2004; Argentina; 3-0  ; Colombia         ; Lima, Peru           
 25/07/2004; Argentina; 2-2  ; Brazil           ; Lima, Peru           
-* [40]: This match was decided by penalties. Brazil won 4-2.
+Notes: This match was decided by penalties. Brazil won 4-2.
 
 Competition: Kirin Cup
 18/08/2004; Argentina; 2-1  ; Japan            ; Shizuoka, Japan       
@@ -1739,8 +1715,8 @@ Season: 2005
 Competition: FIFA Confederations Cup
 15/06/2005; Argentina; 2-1  ; Tunisia          ; Cologne, Germany        
 18/06/2005; Argentina; 4-2  ; Australia        ; Nuremberg, Germany      
-21/06/2005; Argentina; 2-2  ; Germany          ; Nuremberg, Germany      
-* [41]: This match was decided by penalties after extra time. Argentina won 6-5.
+21/06/2005; Argentina; 2-2 (aet) ; Germany          ; Nuremberg, Germany      
+Notes: This match was decided by penalties after extra time. Argentina won 6-5.
 
 26/06/2005; Argentina; 1-1  ; Mexico           ; Hannover, Germany       
 29/06/2005; Argentina; 1-4  ; Brazil           ; Frankfurt, Germany      
@@ -1768,8 +1744,8 @@ Competition: FIFA World Cup
 16/06/2006; Argentina; 6-0  ; Serbia and Montenegro ; Gelsenkirchen, Germany
 21/06/2006; Argentina; 0-0  ; Netherlands      ; Frankfurt, Germany      
 24/06/2006; Argentina; 2-1  ; Mexico           ; Leipzig, Germany        
-30/06/2006; Argentina; 1-1  ; Germany          ; Berlin, Germany         
-* [42]: This match was decided by penalties after extra time. Germany won 4-2.
+30/06/2006; Argentina; 1-1 (aet) ; Germany          ; Berlin, Germany         
+Notes: This match was decided by penalties after extra time. Germany won 4-2.
 
 Competition: International Friendly
 03/09/2006; Argentina; 0-3  ; Brazil           ; London, England         
@@ -1807,6 +1783,7 @@ Competition: FIFA World Cup qualification (CONMEBOL)
 Season: 2008
 Competition: International Friendly
 06/02/2008; Argentina; 5-0  ; Guatemala        ; Los Angeles, CA    
+Notes: Although originally scheduled for the A team, the AFA chose to send the Argentina Olympic team in preperation for the games in Beijing. Considered an A International by FIFA.
 *[43]: El seleccionado argentino es Sub-23 con refuerzos, en la previa de los Juegos Olímpicos de Beijing. El partido estaba pautado originalmente para la selección dirigida por Alfio Basile, pero la AFA decidió enviar al Sub-23 en su representación, y así lo entiende la FIFA, por lo tanto se considera "Partido Internacional A".
 
 26/03/2008; Argentina; 2-0  ; Egypt            ; Cairo, Egypt       
