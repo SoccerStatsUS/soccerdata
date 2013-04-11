@@ -24,6 +24,8 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Estadio Jardines del Hipodromo': 'Estadio Jardines Del Hipódromo',
+    'Estadio Jardines Del Hipodromo': 'Estadio Jardines Del Hipódromo',
     'Casa Grande Soccer Complex': 'Grande Sports World',
     'Premier Sports Campus at Lakewood Ranch': 'Premier Sports Campus',
     'Bayamon Soccer Complex': 'Bayamón Soccer Complex',

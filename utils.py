@@ -25,6 +25,12 @@ def list_paths(root):
 def import_path(p):
     #assert p.endswith('.py')
     #m = p[:-3].replace('/', '.')
+
+    # Use importlib instead?
+    #iname = "%s.%s.%s" % (istub, region, xn)
+    #m = importlib.import_module(iname)
+
+
     return __import__(p, fromlist=["dummy value"]) # __import requires non-empty fromlist to import submodules (foo.bar.baz)
     
 

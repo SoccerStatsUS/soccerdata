@@ -15,6 +15,13 @@ def get_place(s):
 
 
 places = {
+    'Stadio Municipal, L\'Aquíla': 'Stadio Tommaso Fattori',
+    'Stadio Municipal, L\'Aquila': 'Stadio Tommaso Fattori',
+
+    'Estadio Olimpico Monumental (Porto Alegre)': 'Estádio Olímpico Monumental',
+    'Estadio Olimpico Monumental, Porto Alegre': 'Estádio Olímpico Monumental',
+    'Estadio Olimpico (Porto Alegre)': 'Estádio Olímpico Monumental',
+    'Estadio Olimpico, Porto Alegre': 'Estádio Olímpico Monumental',
     'Memorial Stadium, Portland, ME': 'Memorial Stadium (Maine)',
     'Enschede Stadium, Enschede': 'De Grolsch Veste',
     'Dunfermlime, Scotland': 'Dunfermline, Scotland',

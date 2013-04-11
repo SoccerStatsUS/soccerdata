@@ -591,6 +591,14 @@ l = [
 
 
     {
+        'name': 'Estadio Jardines Del Hipódromo',
+        'location': 'Montevideo, Uruguay',
+        'opened': datetime.datetime(1957, 8, 25),
+        'capacity': 18000,
+        },
+
+
+    {
         'name': 'Estadio Alejandro Villanueva',
         'location': 'Lima, Peru',
         'opened': datetime.datetime(1974, 12, 27),

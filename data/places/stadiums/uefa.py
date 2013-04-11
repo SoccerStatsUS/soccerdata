@@ -21,6 +21,13 @@ l = [
         'capacity': 32000,
         },
 
+    {
+        'name': 'Stadio Tommaso Fattori',
+        'location': 'L\'Aquila, Italy',
+        'opened': 1929,
+        'capacity': 10000,
+        },
+
 
     {
         'name': 'Generali Arena',

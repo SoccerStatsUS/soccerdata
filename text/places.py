@@ -9,6 +9,8 @@ import datetime
 import importlib
 import os
 
+from utils import list_paths, import_path
+
 PLACES_DIR = "/home/chris/www/soccerdata/data/places"
 
 
@@ -101,45 +103,26 @@ def load_state_populations():
     
 
 
-# Doing some weird import stuff here.
 
 def load_stadiums():
-
-
-
     print "Loading stadiums."
+    p = '/home/chris/www/soccerdata/data/places/stadiums'
+    pys = [e for e in list_paths(p) if e.endswith('.py')]
     l = []
 
-    n = 'soccerdata/data/places/stadiums'
-    p = os.path.join('/home/chris/www/', n)
+    for py in pys:
+        if not py.startswith('_'):
+            tail = py.replace('/home/chris/www/', '').replace('.py', '').replace('/', '.')
+            l.extend(import_path(tail).l)
+
     regions = [e for e in os.listdir(p) if '.' not in e]
-    for region in regions:
-        p2 = os.path.join('/home/chris/www/', n, region)
-        files = os.listdir(p2)
-        
-        # Import name conversions.
-        istub = n.replace('/', '.')
 
-        for x in files:
-            if x.endswith('.py'):
-                xn = x[:-3]
-
-                if xn != '__init__':
-                    print "loading %s" % x
-                    iname = "%s.%s.%s" % (istub, region, xn)
-                    m = importlib.import_module(iname)
-                    l.extend(m.l)
-
-    africa = l
     final = []
 
+    # Do this in normalize?
     for e in l:
         d = stadium_defaults.copy()
-        try:
-            d.update(e)
-        except:
-            import pdb; pdb.set_trace()
-
+        d.update(e)
         final.append(d)
 
     return final
