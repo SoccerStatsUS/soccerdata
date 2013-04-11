@@ -192,7 +192,7 @@ l = [
         },
 
     {
-        'name': 'Wichita Fallas Fever',
+        'name': 'Wichita Falls Fever',
         'city': 'Wichita Falls, TX',
         'founded': 1989,
         'dissolved': 1992,
@@ -241,12 +241,6 @@ l = [
         'dissolved': 1991,
         },
 
-    {
-        'name': 'Wichita Fallas Fever',
-        'city': 'Wichita Falls, TX',
-        'founded': 1989,
-        'dissolved': 1992,
-        },
 
 ]
  

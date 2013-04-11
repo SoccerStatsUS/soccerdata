@@ -202,7 +202,7 @@ l = [
 
     {
         'name': 'Midwestern State University',
-        'city': 'Wichita Fallas, TX',
+        'city': 'Wichita Falls, TX',
         },
 
     {

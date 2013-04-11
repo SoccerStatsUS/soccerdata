@@ -11,35 +11,7 @@ l = [
         'city': 'Chongqing, China',
         },
 
-    {
-        'name': 'Suwon Bluewings',
-        'founded': 1995,
-        'city': 'Suwon, South Korea',
-        },
 
-    {
-        'name': 'FC Tokyo',
-        'founded': 1935,
-        'city': 'Tokyo, Japan',
-        },
-
-    {
-        'name': 'Kashima Antlers',
-        'founded': 1947,
-        'city': 'Kashima, Japan',
-        },
-
-    {
-        'name': 'Jubilo Iwata',
-        'founded': 1970,
-        'city': 'Iwata, Japan',
-        },
-
-    {
-        'name': 'Oita Trinita',
-        'founded': 1994,
-        'city': 'Oita, Japan',
-        },
     {
         'name': 'Liaoning Whowin',
         'founded': 1953,
@@ -49,6 +21,24 @@ l = [
         'name': 'Shanghai Shenhua',
         'founded': 1951,
         'city': 'Shanghai, China',
+        },
+
+    {
+        'name': 'Shanghai Shenxin',
+        'founded': 2003,
+        'city': 'Shanghai, China',
+        },
+
+    {
+        'name': 'Shanghai United',
+        'founded': 2001,
+        'city': 'Shanghai, China',
+        },
+
+    {
+        'name': 'Guizhou Renhe',
+        'founded': 1995,
+        'city': 'Guizhou, China',
         },
     {
         'name': 'Shandong Luneng Taishan',
@@ -122,12 +112,58 @@ l = [
         'founded': 1954,
         'city': 'Guangzhou, China',
         },
+
+    {
+        'name': 'Guangzhou R&F',
+        'founded': datetime.datetime(2011, 6, 25),
+        'city': 'Guangzhou, China',
+        },
+
+
+    {
+        'name': 'Double Flower FA',
+        'founded': 1979,
+        'city': 'Hong Kong, China',
+        },
+
     {
         'name': 'Xiamen Blue Lions',
         'founded': 1996,
         'dissolved': 2008,
         'city': 'Xiamen, China',
         },
+
+    {
+        'name': 'Beijing Guoan F.C.',
+        'founded': 1951,
+        'city': 'Beijing, China',
+        },
+
+
+    {
+        'name': 'Sichuan Guangcheng F.C.',
+        'founded': 1993,
+        'dissolved': 2006,
+        'city': 'Chengdu, China',
+        },
+
+
+    {
+        'name': 'Dalian Aerbin',
+        'founded': datetime.datetime(2009, 9,20),
+        'city': 'Dalian, China',
+        },
+
+    {
+        'name': 'Team Seiko',
+        'founded': 1970,
+        'dissolved': 1986,
+        'city': 'Hong Kong, China',
+        },
+
+
+
+
     {
         'name': 'Gamba Osaka',
         'founded': 1980,
@@ -136,15 +172,40 @@ l = [
 
 
     {
-        'name': 'Nagoya Grampus',
-        'founded': 1983,
-        'city': 'Nagoya, Japan',
+        'name': 'Suwon Bluewings',
+        'founded': 1995,
+        'city': 'Suwon, South Korea',
         },
 
     {
-        'name': 'Double Flower FA',
-        'founded': 1979,
-        'city': 'Hong Kong, China',
+        'name': 'FC Tokyo',
+        'founded': 1935,
+        'city': 'Tokyo, Japan',
+        },
+
+    {
+        'name': 'Kashima Antlers',
+        'founded': 1947,
+        'city': 'Kashima, Japan',
+        },
+
+    {
+        'name': 'Jubilo Iwata',
+        'founded': 1970,
+        'city': 'Iwata, Japan',
+        },
+
+    {
+        'name': 'Oita Trinita',
+        'founded': 1994,
+        'city': 'Oita, Japan',
+        },
+
+
+    {
+        'name': 'Nagoya Grampus',
+        'founded': 1983,
+        'city': 'Nagoya, Japan',
         },
 
     {
@@ -160,25 +221,6 @@ l = [
         },
 
 
-    {
-        'name': 'Beijing Guoan F.C.',
-        'founded': 1951,
-        'city': 'Beijing, China',
-        },
-
-    {
-        'name': 'Sichuan Guangcheng F.C.',
-        'founded': 1993,
-        'dissolved': 2006,
-        'city': 'Chengdu, China',
-        },
-
-    {
-        'name': 'Team Seiko',
-        'founded': 1970,
-        'dissolved': 1986,
-        'city': 'Hong Kong, China',
-        },
 
     {
         'name': 'Al Ahly SC',

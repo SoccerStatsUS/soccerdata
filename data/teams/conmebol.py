@@ -525,11 +525,7 @@ l = [
         'city': 'Cordoba, Argentina',
         },
 
-    {
-        'name': 'Club Bolívar',
-        'founded': datetime.datetime(1925, 4, 12),
-        'city': 'La Paz, Bolivia',
-        },
+
     {
         'name': 'Universidad Catolica',
         'founded': datetime.datetime(1937, 4, 21),
@@ -564,11 +560,12 @@ l = [
         'founded': datetime.datetime(1941, 2, 28),
         'city': 'Bogota, Colombia',
         },
-    {
-        'name': 'Atletico Mineiro',
-        'founded': datetime.datetime(1908, 3, 25),
-        'city': 'Santa Cruz, Bolivia',
-        },
+    # Mineros?
+    #{
+    #    'name': 'Atletico Mineiro',
+    #    'founded': datetime.datetime(1908, 3, 25),
+    #    'city': 'Santa Cruz, Bolivia',
+    #    },
     {
         'name': 'Rosario Central',
         'founded': datetime.datetime(1889, 12, 24),

@@ -63,10 +63,7 @@ l = [
         'city': 'Bridgeport, CT',
         },
 
-    {
-        'name': 'Bridgeport Vasco da Gama',
-        'city': 'Bridgeport, CT',
-        },
+
 
 
 ]

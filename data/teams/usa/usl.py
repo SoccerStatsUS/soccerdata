@@ -40,11 +40,7 @@ l = [
         'city': 'Midland, TX',
         'founded': 2008
         },
-    {
-        'name': 'Rio Grande Valley Grandes',
-        'city': 'McAllen, TX',
-        'founded': 2010
-        },
+
     {
         'name': 'Mississippi Brilla',
         'city': 'Jackson, MI',
@@ -172,10 +168,6 @@ l = [
         'city': 'San Diego, CA',
         },
 
-    {
-        'name': 'San Antonio Pumas',
-        'city': 'San Antonio, TX',
-        },
 
     {
         'name': 'New York Centaurs',
@@ -653,11 +645,6 @@ l = [
         'dissolved': 2008,
         },
 
-    {
-        'name': 'Vermont Voltage',
-        'city': 'St. Albans, VT',
-        'founded': 1997,
-        },
 
     {
         'name': 'Utah Blitzz',
