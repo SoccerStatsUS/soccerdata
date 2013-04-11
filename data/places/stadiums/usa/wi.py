@@ -22,6 +22,11 @@ l = [
         },
 
     {
+        'name': 'Croatian Park',
+        'location': 'Franklin, WI',
+        },
+
+    {
         'name': 'Nathan Calder Stadium',
         'location': 'Menasha, WI',
         },

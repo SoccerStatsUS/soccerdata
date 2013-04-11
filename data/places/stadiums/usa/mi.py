@@ -46,7 +46,7 @@ l = [
     
     
     {
-        'name': 'Ultimate Soccer Arena',
+        'name': 'Ultimate Soccer Arenas',
         'address': '867 South Blvd.',
         'location': 'Pontiac, MI',
         'opened': 2008,

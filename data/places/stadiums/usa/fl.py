@@ -10,6 +10,16 @@ l = [
         'location': 'Tampa, FL',
         },    
 
+
+    {
+        'name': 'Ted Henricks Stadium',
+        'location': 'Hialeah, FL',
+        },    
+    {
+        'name': 'Premier Sports Campus',
+        'location': 'Lakewood Ranch, FL',
+        },    
+
     {
         'name': 'Central Broward Regional Stadium',
         'location': 'Lauderhill, FL',
@@ -27,6 +37,22 @@ l = [
     {
         'name': 'Gavlak Stadium',
         'location': 'Panama City Beach, FL',
+        },    
+
+    {
+        'name': 'Kicks Sports Complex', 
+        'location': 'Sunrise, FL',
+        },    
+
+
+    {
+        'name': 'Corbett Soccer Stadium',
+        'location': 'Tampa, FL',
+        },    
+
+    {
+        'name': 'Countryside Sportsplex',
+        'location': 'Clearwater, FL',
         },    
 
     {

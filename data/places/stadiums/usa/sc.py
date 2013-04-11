@@ -21,6 +21,11 @@ l = [
         'location': 'Greenville, SC',
         'capacity': 15000,
         },
+
+    {
+        'name': 'Manchester Meadows Soccer Complex',
+        'location': 'Rock Hill, SC',
+        },
     {
         'name': 'Winthrop University',
         'location': 'Rock Hill, SC',

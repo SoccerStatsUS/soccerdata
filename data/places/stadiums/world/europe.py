@@ -31,6 +31,14 @@ l = [
 
 
     {
+        'name': 'Stadio Renato Dall\'Ara',
+        'location': 'Bologna, Italy',
+        'opened': 1927,
+        'capacity': 38279,
+        },
+
+
+    {
         'name': 'Loftus Road',
         'location': 'London, England',
         'opened': 1904,

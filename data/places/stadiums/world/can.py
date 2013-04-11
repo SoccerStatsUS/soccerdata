@@ -9,7 +9,11 @@ l = [
         {
         'name': 'Carruthers Park',
         'location': 'Winnipeg, MB',
+        },
 
+        {
+        'name': 'Minoru Oval Park',
+        'location': 'Richmond, BC',
         },
 
         {
@@ -316,6 +320,11 @@ l = [
                                 {
         'name': 'Grand Trunk Field',
         'location': 'Point Charles, Quebec',
+        },
+
+        {
+        'name': 'Chapples Park',
+        'location': 'Fort William, ON',
         },
 
         {

@@ -27,12 +27,18 @@ l = [
         'capacity': 76273,
         },
     
-    
-    
     {
         'name': 'CSM Soccer Stadium',
         'location': 'Golden, CO',
+        },    
+    
+    {
+        'name': 'Highlands Ranch Shea Stadium',
+        'location': 'Highlands Ranch, CO',
         },
+
+
+
     {
         'name': 'Rapids Training Facility',
         'location': 'Westminster, CO',

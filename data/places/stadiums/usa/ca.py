@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Banner Island Ballpark',
+        'location': 'Stockton, CA',
+        },
+
+    {
         'name': 'Caroline Coleman Stadium',
         'location': 'Inglewood, CA',
         },
@@ -184,11 +189,6 @@ l = [
         'capacity': 10525,
         },
     
-
-{
-        'name': 'Sherbeck Field',
-        'location': 'Fullerton, CA',
-        },
 
     {
         'name': 'Peter Johansen High School Stadium',

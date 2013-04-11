@@ -21,6 +21,12 @@ l = [
         },
 
     {
+        'name': 'Bayamón Soccer Complex',
+        'location': 'Bayamón, Puerto Rico',
+        'capacity': 4000,
+        },
+
+    {
         'name': 'Aguada Stadium',
         'location': 'Aguada, Puerto Rico',
         'capacity': 4000,

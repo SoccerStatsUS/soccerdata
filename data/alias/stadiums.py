@@ -24,6 +24,19 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Casa Grande Soccer Complex': 'Grande Sports World',
+    'Premier Sports Campus at Lakewood Ranch': 'Premier Sports Campus',
+    'Bayamon Soccer Complex': 'Bayamón Soccer Complex',
+    'Hal Sherbeck Field House': 'Sherbeck Field',
+    'Hal Sherbeck Field': 'Sherbeck Field',
+    'Ultimate Soccer Arena': 'Ultimate Soccer Arenas',
+    'Collins Perley Sports Complex': 'Collins Perley Sports Center',
+    'Estadio Presidente Juan Domingo Peron': 'Estadio Presidente Juan Domingo Perón',
+    'Estadio Orlando Scarpelli': 'Estádio Orlando Scarpelli',
+    'Estádio Major Antônio Couto Pereira': 'Estádio Couto Pereira',
+    'Estadio do Governo do Estadio de Goias': 'Estádio Serra Dourada',
+    'Estádio Metropolitano Roberto Santos': 'Estádio de Pituaçu',
+    'Estadio Olimpico Monumental': 'Estádio Olímpico Monumental',
     'FFB Field': 'FFB Stadium',
     'Ernst Happel Stadium': 'Ernst-Happel-Stadion',
     'Durban Stadium': 'Moses Mabhida Stadium',
@@ -305,7 +318,7 @@ stadiums = {
     
     'Estadio Alejandro Morera Soto': 'Estadío Alejandro Morera Soto',
     'Tony Glavin Complex': 'Tony Glavin Soccer Complex',
-    'Ultimate Soccer Arena': 'Ultimate Soccer Arenas',
+
     'Texas A&M Intl Univ Soccer Complex': 'TAMIU Soccer Complex',
     'WoodForest Stadium': 'Woodforest Bank Stadium',
     'Memorial Stadium (Seattle)': 'Seattle Memorial Stadium',
@@ -347,7 +360,7 @@ stadiums = {
     'Cal State Fullerton Titan Stadium': 'Titan Stadium',
     'Fullerton Stadium': 'Titan Stadium',
 
-    'Sherbeck Field': 'Hal Sherbeck Field',
+
     'Legion Sports Complex': 'Legion Stadium',
     'Krenzler Stadium': 'Krenzler Field',
     'Belson Stadium (St. John\'s University)': 'Belson Stadium',

@@ -71,6 +71,12 @@ l = [
         'capacity': 5700,
         },
 
+    {
+        'name': 'Pittser Field',
+        'location': 'Montclair, NJ',
+        # Are these the same?
+        },
+
 
     {
         'name': 'Transamerica Field',

@@ -36,6 +36,11 @@ l = [
         'opened': 1930,
         'capacity': 4367
         },
+
+    {
+        'name': 'Parade Stadium',
+        'location': 'Minneapolis, MN',
+        },
     
     
     

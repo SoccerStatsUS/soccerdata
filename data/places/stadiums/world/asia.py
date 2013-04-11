@@ -257,6 +257,13 @@ l = [
         'opened': 2001,
         'capacity': 53864,
         },
+
+    {
+        'name': 'Kashima Soccer Stadium',
+        'location': 'Kashima, Japan',
+        'opened': 1993,
+        'capacity': 40728,
+        },
     {
         'name': 'Daegu World Cup Stadium', 
         'location': 'Daegu, South Korea',

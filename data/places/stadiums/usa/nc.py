@@ -30,6 +30,11 @@ l = [
         },
 
     {
+        'name': 'Queens University Stadium',
+        'location': 'Charlotte, NC',
+        },
+
+    {
         'name': 'Richardson Stadium',
         'location': 'Davidson, NC',
         'opened': 1923,

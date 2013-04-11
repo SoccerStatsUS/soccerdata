@@ -15,6 +15,7 @@ def get_place(s):
 
 
 places = {
+    'Memorial Stadium, Portland, ME': 'Memorial Stadium (Maine)',
     'Enschede Stadium, Enschede': 'De Grolsch Veste',
     'Dunfermlime, Scotland': 'Dunfermline, Scotland',
     'Dinamo Stadium, Moscow': 'Moscow Dinamo Stadium',

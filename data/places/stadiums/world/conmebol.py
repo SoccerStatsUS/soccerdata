@@ -363,6 +363,22 @@ l = [
         'cost': 14100000,
         },
 
+    {
+        'name': 'Estádio de Pituaçu',
+        'location': 'Salvador, Brazil',
+        'opened': 1979,
+        'capacity': 32157,
+        },
+
+
+    {
+        'name': 'Estádio Olímpico Monumental',
+        'location': 'Porto Alegre, Brazil',
+        'opened': datetime.datetime(1954, 9, 19),
+        'closed': datetime.datetime(2012, 12, 9),
+        'capacity': 45000,
+        },
+
 
 
     {
@@ -426,6 +442,13 @@ l = [
         'opened': 1990,
         'capacity': 41600,
         'cost': 74400000,
+        },
+
+    {
+        'name': 'Estadio Polideportivo Sur',
+        'location': 'Envigado, Colombia',
+        'opened': 1992,
+        'capacity': 12000,
         },
 
 
@@ -713,6 +736,27 @@ l = [
         },
 
     {
+        'name': 'Estadio Diego Armando Maradona',
+        'location': 'Buenos Aires, Argentina',
+        'opened': datetime.datetime(2003, 12, 26),
+        'capacity': 24380,
+        },
+
+    {
+        'name': 'Estádio Couto Pereira',
+        'location': 'Curitiba, Brazil',
+        'opened': datetime.datetime(1932, 11, 20),
+        'capacity': 37182,
+        },
+
+    {
+        'name': 'Estádio Orlando Scarpelli',
+        'location': 'Florianapolis, Brazil',
+        'opened': datetime.datetime(1961, 5, 27),
+        'capacity': 19908
+        },
+
+    {
         'name': 'Estádio do Maracanã',
         'location': 'Rio de Janeiro, Brazil',
         'opened': datetime.datetime(1950, 6, 16),
@@ -794,6 +838,14 @@ l = [
 
 
     {
+        'name': 'Estadio Municipal de Calama',
+        'location': 'Calama, Chile',
+        'opened': 1952,
+        'capacity': 13000
+        },
+
+
+    {
         'name': 'Estadio Olímpico Pascual Guerrero',
         'location': 'Cali, Colombia',
         'opened': datetime.datetime(1937, 7, 20),
@@ -823,6 +875,12 @@ l = [
         'capacity': 12000,
         },
 
+    {
+        'name': 'Estadio Arquitecto Antonio Eleuterio Ubilla',
+        'location': 'Melo, Uruguay',
+        'capacity': 9000,
+        },
+
 
     {
         'name': 'Monumental Río Parapití',
@@ -848,6 +906,7 @@ l = [
         'opened': datetime.datetime(1982, 2, 5),
         'capacity': 40000,
         },
+
 
 
 
@@ -1034,6 +1093,13 @@ l = [
         'location': 'Santiago, Chile',
         'opened': 1988,
         'capacity': 16000,
+        }, 
+
+    {
+        'name': 'Estadio Federativo Reina del Cisne',
+        'location': 'Loja, Ecuador',
+        'opened': 1980,
+        'capacity': 14935,
         }, 
 
 

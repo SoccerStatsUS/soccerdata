@@ -22,6 +22,19 @@ l = [
         },
 
     {
+        'name': 'Forsyth Barr Stadium',
+        'location': 'Dunedin, New Zealand',
+        'opened': datetime.datetime(2011, 8, 5),
+        'capacity': 30748,
+        },
+
+    {
+        'name': 'Stade Pater Te Hono Nui',
+        'location': 'Pirae, Tahiti',
+        'capacity': 10000,
+        },
+
+    {
         'name': 'Breakers Stadium',
         'location': 'Newcastle, New South Wales, Australia',
         'closed': 2005,
@@ -69,6 +82,21 @@ l = [
         'opened': 1986,
         'capacity': 21500,
         },
+
+    {
+        'name': 'Lawson Tama Stadium',
+        'location': 'Honiara, Solomon Islands',
+        'capacity': 20000,
+        },
+
+    {
+        'name': 'Stade Numa-Daly Magenta',
+        'location': 'Noumea, New Caledonia',
+        'opened': 1966,
+        'capacity': 10000,
+        },
+
+
 
     {
         'name': 'Stadium Australia',
