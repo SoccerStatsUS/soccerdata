@@ -2,6 +2,9 @@ Competition: Liga Nacional de Fútbol de Guatemala
 
 Season: 1942-1943
 
+Key: team; games; wins; ties; losses; goals_for; goals_against; points
+
+
 Municipal ; 12 ; 8 ; 1 ; 3 ; 47; 17 ; 17
 Tip Nac ; 12 ; 7 ; 3 ; 2 ; 22; 14 ; 17
 Guatemala ; ; 12 ; 7; 3 ; 2 ; 25; 21 ; 17

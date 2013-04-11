@@ -1,5 +1,7 @@
 Competition: Liga MX
 
+Key: position; team; games; wins; ties; losses; points; goals_for; goals_against
+
 Season: 1996 Apertura
 
      1; Atlante             ; 17;   12;  2;  3;   38;   30; 11

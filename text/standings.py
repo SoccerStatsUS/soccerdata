@@ -17,9 +17,6 @@ if not os.path.exists(DIR):
 
 
 
-def process_string(s):
-    return
-
 
 def int_or_none(e):
     if e:
@@ -104,11 +101,22 @@ def process_excel_standings(filename):
 def process_standings_file(p, delimiter):
     full_path = os.path.join('/home/chris/www/soccerdata/data/standings', p)
     f = open(full_path)
+    return process_lines(f, delimiter)
+
+
+
+def process_lines(lines, delimiter):
     sp = StandingProcessor(delimiter)
-    for line in f:
+    for line in lines:
         sp.process_line(line)
 
     return sp.standings
+
+
+def process_string(s, delimiter):
+    lines = s.split('\n')
+    return process_lines(lines, delimiter)
+
         
     
 
@@ -127,6 +135,7 @@ class StandingProcessor(object):
         self.competition = None
         self.season = None
         self.group = ''
+        self.key = None
 
         self.sources = []
 
@@ -152,6 +161,11 @@ class StandingProcessor(object):
             self.competition = line.split("Competition:")[1].strip()
             self.group = ''
             return
+
+        if line.startswith("Key"):
+            self.key = [e.strip() for e in line.split("Key:")[1].split(self.delimiter)]
+            return
+
 
         if line.startswith("Season:"):
             self.season = line.split("Season:")[1].strip()
@@ -183,28 +197,44 @@ class StandingProcessor(object):
         fields = line.split(self.delimiter)
         fields = [e.strip() for e in fields if e.strip()]
 
+        if self.key is None:
+            import pdb; pdb.set_trace()
+        
+        d = dict(zip(self.key, fields))
 
         # This is not attractive or good.
         # A good idea to standardize standings.
-        if len(fields) == 9:
-            position, team, games, wins, ties, losses, points, goals_for, goals_against = fields
-        elif len(fields) == 8:
-            team, games, wins, ties, losses, goals_for, goals_against, points = fields
-        else:
-            import pdb; pdb.set_trace()
+        #if len(fields) == 9:
+        #    position, team, games, wins, ties, losses, points, goals_for, goals_against = fields
+        #elif len(fields) == 8:
+        #    team, games, wins, ties, losses, goals_for, goals_against, points = fields
+        #else:
+        #    import pdb; pdb.set_trace()
     
 
-        try:
-            games = int(games)
-        except:
-            import pdb; pdb.set_trace()
+        #try:
+        #    games = int(games)
+        #except:
+        #    import pdb; pdb.set_trace()
 
-
-        shootout_wins = shootout_losses = None
-        self.standings.append({
+        d.update({
                 'competition': self.competition,
                 'season': self.season,
                 'group': self.group,
+                'final': True,
+                })
+
+
+        for k in 'games', 'wins', 'ties', 'losses', 'points', 'goals_for', 'goals_against', 'shootout_wins', 'shooutout_losses':
+            if k in d:
+                d[k] = int_or_none(d[k])
+
+        self.standings.append(d)
+
+
+        """
+        shootout_wins = shootout_losses = None
+        self.standings.append({
 
                 'team': team,
 
@@ -220,6 +250,7 @@ class StandingProcessor(object):
                 'shootout_losses': int_or_none(shootout_losses),
                 'final': True,
                 })
+                """
 
 
 if __name__ == "__main__":

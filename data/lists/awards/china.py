@@ -11,7 +11,7 @@ d = {
         ('2004', 'Shenzhen Jianlibao'),
         ('2005', 'Dalian Shide'),
         ('2006', 'Shandong Luneng'),
-        ('2007', 'Changchan Yatai'),
+        ('2007', 'Changchun Yatai'),
         ('2008', 'Shandong Luneng'),
         ('2009', 'Beijing Guoan'),
         ('2010', 'Shandong Luneng'),

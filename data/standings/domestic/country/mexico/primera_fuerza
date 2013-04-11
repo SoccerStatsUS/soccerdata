@@ -1,6 +1,9 @@
 
 Competition: Primera Fuerza
 
+
+Key: position; team; games; wins; ties; losses; points; goals_for; goals_against
+
 Season: 1902-1903 
 1;  Orizaba AC                   ;  4 ;  3 ;  1 ;  0  ;  7 ;  5 ;  2 
 2;  Reforma AC                   ;  4 ;  2 ;  2 ;  0  ;  6 ; 11 ;  5 
