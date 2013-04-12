@@ -1,4 +1,6 @@
-Competition: Liga Nacional de Fútbol de Guatemala
+BlockSource: http://www.rsssf.com/tablesg/guat97.html
+
+Competition: Liga Nacional de Guatemala
 Season: 1996-1997
 
 Round: First Stage
@@ -358,8 +360,8 @@ Milton Nunez 32, Nicolas Suazo 44, Nicolas Suazo 53; Moises Canalonga 55
 
 * Comunicaciones Champions 1996/97.
 
-
-Competition: Liga Nacional de Fútbol de Guatemala
+BlockSource: http://www.rsssf.com/tablesg/guat98.html
+Competition: Liga Nacional de Guatemala
 Season: 1997-1998
 
 Round: First Stage
@@ -697,9 +699,8 @@ Date: 5/9/1998
 * Izabal             -  Sacachispas
 * San Pedro          -  Azucareros
 
+BlockSource: http://www.rsssf.com/tablesg/guat99.html
 Season: 1998-1999
-
-* Guatemala 1998/99
 
 Round: First Stage
 
@@ -1044,9 +1045,9 @@ Date: 5/23/1999
 
 Round: Relegation Playoffs
 Date: 
-; Suchitepequez ; 2-1; Dep. Achuapa 
+; Suchitepequez ; 2-1; Deportivo Achuapa 
 ; Sacachispas   ; 3-1; Chimaltenango 
-; Dep. Carchá   ; 5-0; Jalapa 
+; Deportivo Carchá   ; 5-0; Jalapa 
 
 
 * Home towns and provinces of teams:
@@ -1067,9 +1068,9 @@ Date:
 * province: Quetzaltenango:
 * town: Xelajú:                    Xelajú MC
 
-Season: 1999-2000
 
-* Apertura
+BlockSource: http://www.rsssf.com/tablesg/guat00.html
+Season: 1999 Apertura
 
 
 * Round 1 [Jul 31]
@@ -1276,8 +1277,7 @@ Date: 11/28/1999
 ; Coban         ; 2-2; Zacapa
 ; Sacachispas   ; 0-0; Antigua GFC
 
-* Clausura
-
+Season: 2000 Clausura
 
 *Round 1
 *[Jan 8]
@@ -1340,7 +1340,7 @@ Date: 2/2/2000
 ; Sacachispas   ; 0-3; Escuintla 
 ; Santa Lucia   ; 1-0; Antigua GFC 
 ; Aurora        ; 1-2; Coban Imperial 
-; Dep. Carcha   ; 3-1; Universidad de San Carlos 
+; Deportivo Carcha   ; 3-1; Universidad de San Carlos 
 ; Suchitepequez ; 2-2; Municipal 
 * [Feb 9]
 2/9/2000; Comunicaciones; 1-1; Zacapa
@@ -1350,7 +1350,7 @@ Date: 2/2/2000
 * [Feb 6]
 Date: 2/6/2000
 ; Zacapa        ; 2-2; Sacachispas 
-; Escuintla     ; 1-2; Dep. Carcha 
+; Escuintla     ; 1-2; Deportivo Carcha 
 ; Antigua GFC       ; 2-1; Aurora 
 ; Coban         ; 1-1; Comunicaciones 
 ; Municipal     ; 1-1; Santa Lucia 
@@ -1360,14 +1360,14 @@ Date: 2/6/2000
 *[Feb 27]
 Date: 2/27/2000
 ; Comunicaciones; 0-2; Escuintla 
-; Dep. Carcha   ; 0-0; Zacapa 
+; Deportivo Carcha   ; 0-0; Zacapa 
 ; Suchitepequez ; 1-1; Antigua GFC 
 ; Santa Lucia   ; 1-1; Coban Imperial 
 ; Sacachispas   ; 1-2; Universidad de San Carlos 
 
 *Round 9[Mar 1]
 Date: 3/1/2000
-; Antigua GFC       ; 2-2; Dep. Carcha 
+; Antigua GFC       ; 2-2; Deportivo Carcha 
 ; Coban         ; 1-0; Suchitepequez 
 ; Zacapa        ; 2-1; Santa Lucia 
 ; Municipal     ; 1-0; Sacachispas 
@@ -1403,7 +1403,7 @@ Date: 3/22/2000
 ; Aurora        ; 1-1; Santa Lucia 
 ; Coban         ; 2-1; Antigua GFC 
 ; Comunicaciones; 4-2; Sacachispas 
-; Suchitepequez ; 1-0; Dep. Carcha 
+; Suchitepequez ; 1-0; Deportivo Carcha 
 ; Escuintla     ; 2-0; Zacapa 
 *[May 3]
 5/3/2000; Municipal     ; 1-1; Universidad de San Carlos 
@@ -1413,13 +1413,13 @@ Date: 3/22/2000
 3/25/2000; Comunicaciones; 3-2; Aurora 
 * [Mar 26]
 Date: 3/26/2000
-; Dep. Carcha   ; 1-0; Sacachispas 
+; Deportivo Carcha   ; 1-0; Sacachispas 
 ; Santa Lucia   ; 1-0; Suchitepequez 
 ; Zacapa        ; 2-2; Coban Imperial 
 ; Antigua GFC       ; 2-3; Municipal 
 
 * Round 14[Apr 1]
-4/1/2000; Aurora        ; 1-1; Dep. Carcha
+4/1/2000; Aurora        ; 1-1; Deportivo Carcha
 *[Apr 2]
 Date: 4/2/2000
 ; Santa Lucia   ; 1-0; Comunicaciones
@@ -1511,7 +1511,9 @@ Date: 5/10/2000
 ; Carcha        ; 1-2; Municipal
 
 
-Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesg/guat01.html
+Season: 2000 Apertura
+
 
 
 * Round 1[Jul 29]
@@ -1735,7 +1737,9 @@ Date: 12/10/2000
 ; Aurora        ; 5-1; Carchá 
 ; Santa Lucia   ; 3-2; Universidad de San Carlos 
 
-Round: Clausura
+
+Season: 2001 Clausura
+
 
 *Round 1
 *[Jan 21]
@@ -2041,7 +2045,7 @@ Date: 6/23/2001
 *Petapa and Teculután promoted, Santa Lucía Cotzumalguapa and Achuapa relegated.
 
 
-
+BlockSource: http://www.rsssf.com/tablesg/guat02.html
 Season: 2001 Apertura
 
 
@@ -2609,10 +2613,7 @@ Round: Final
 *               [Juventud won and were promoted]
 
 
-
-
-
-
+BlockSource: http://www.rsssf.com/tablesg/guat03.html
 Season: 2002 Apertura
 
 
@@ -3050,7 +3051,7 @@ Ariel Macia 56, Johnny Cubero 90+2, Diego Latorre 103; Sergio Morales 44, Jorge 
 * Xelajú and Teculután remain at 1st level.
 
 
-
+BlockSource: http://www.rsssf.com/tablesg/guat04.html
 Season: 2003 Apertura
 
 
@@ -3523,8 +3524,7 @@ Carlos Figueroa 43, Cristian Chaparro 86; Walter Estrada 33, Eduardo Montepeque 
 
 
 
-* Guatemala 2004/05
-
+BlockSource: http://www.rsssf.com/tablesg/guat05.html
 Season: 2004 Apertura
 * Apertura 2004
 

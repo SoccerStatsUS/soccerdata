@@ -6,6 +6,11 @@ aliases = {}
 
 full_alias = {
 
+
+    'Copa Fraternidad Centroamericana': 'Copa Interclubes UNCAF',
+    'Torneo Grandes de Centroamerica': 'Copa Interclubes UNCAF',
+    'UNCAF Club Championship': 'Copa Interclubes UNCAF',
+
     'Chilean Primera División': 'Chilean Primera Division',
 
     'Merconorte Cup': 'Copa Merconorte',

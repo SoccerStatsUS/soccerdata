@@ -272,6 +272,7 @@ class GeneralProcessor(object):
             team1_goals, team2_goals = line.split(";")
         except ValueError:
             print line
+            import pdb; pdb.set_trace()
             raise
 
         self.process_goals(team1_goals, team2_goals)

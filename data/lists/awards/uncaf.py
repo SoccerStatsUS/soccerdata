@@ -109,7 +109,45 @@ d = {
 
         
 
-        
+interclubes = {
+    'competition': 'Copa Interclubes UNCAF',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+
+    'Champion': [
+
+        (1971, 'Comunicaciones'),
+        (1972, 'Saprissa'),
+        (1973, 'Saprissa'),
+        (1974, 'Municipal'),
+        (1975, 'CD Platense'),
+        (1976, 'Aurora FC'),
+        (1977, 'Municipal'),
+        (1978, 'Saprissa'),
+        (1979, 'Aurora FC'),
+        (1980, 'CD Broncos'),
+        (1981, 'CD Olimpia'),
+        (1982, 'Real CD Espana'),
+        (1983, 'Comunicaciones'),
+
+        (1996, 'Alajuelense'),
+        (1997, 'Alianza FC'),
+        (1998, 'Saprissa'),
+
+        (1999, 'CD Olimpia'),
+        (2000, 'CD Olimpia'),
+        (2001, 'Municipal'),
+        (2002, 'Alajuelense'),
+        (2003, 'Saprissa'),
+        (2004, 'Municipal'),
+        (2005, 'Alajuelense'),
+        (2006, 'Puntarenas'),
+        (2007, 'Motagua'),
+        ],
+
+
+}
 
 
 

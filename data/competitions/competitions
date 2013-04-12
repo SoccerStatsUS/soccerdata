@@ -8,23 +8,32 @@ North American SuperLiga; SL; soccer; domestic; League; 1; Confederation; CONCAC
 CONCACAF Cup Winners Cup; CCWC; soccer; domestic; Cup; 2; Confederation; CONCACAF
 CONCACAF Giants Cup; CGC; soccer; domestic; Cup; 2; Confederation; CONCACAF
 
+Copa Interclubes UNCAF; UNCAF; soccer; domestic; Cup; 2; Confederation; CONCACAF
+CFU Club Championship; CFU; soccer; domestic; Cup; 2; Confederation; CONCACAF
+
 American League of Professional Football; ALPF; soccer; domestic; League; 1; Country; United States
 American Soccer League (1921-1933); ASL1; soccer; domestic; League; 1; Country; United States
 United Soccer Association; USA; soccer; domestic; League; 1; Country; United States
 North American Soccer League; NASL; soccer; domestic; League; 1; Country; United States
 Major League Soccer; MLS; soccer; domestic; League; 1; Country; United States
-Hyundai A-League; HAL; soccer; domestic; League; 1; Country; Australia
-Chinese Super League; ChSL; soccer; domestic; League; 1; Country; China
-Liga MX; LM; soccer; domestic; League; 1; Country; Mexico
+Hyundai A-League; AUS1; soccer; domestic; League; 1; Country; Australia
+Chinese Super League; CHN1; soccer; domestic; League; 1; Country; China
+
+Liga Nacional de Guatemala; GUA1; soccer; domestic; League; 1; Country; Guatemala
+Liga Panameña de Fútbol; PAN1; soccer; domestic; League; 1; Country; Panama
+Salvadoran Primera División; SLV1; soccer; domestic; League; 1; Country; El Salvador
+Liga Nacional de Honduras; HON1; soccer; domestic; League; 1; Country; Honduras
+Primera División de Costa Rica; CRC1; soccer; domestic; League; 1; Country; Costa Rica
+Nicaraguan Primera División; NCA1; soccer; domestic; League; 1; Country; Nicaragua
+
+Liga MX; MEX1; soccer; domestic; League; 1; Country; Mexico
 Primera Fuerza; LM; soccer; domestic; League; 1; Country; Mexico
 
-Chilean Primera Division; CPD; soccer; domestic; League; 1; Country; Chile
-Uruguayan Primera Division; UPD; soccer; domestic; League; 1; Country; Uruguay
-Argentine Primera División; APD; soccer; domestic; League; 1; Country; Argentina
+Chilean Primera Division; CHI1; soccer; domestic; League; 1; Country; Chile
+Uruguayan Primera Division; URU1; soccer; domestic; League; 1; Country; Uruguay
+Argentine Primera División; ARG1; soccer; domestic; League; 1; Country; Argentina
 
 Campeonato Paulista; CP; soccer; domestic; League; 2; State; Sao Paulo
-
-
 
 
 International Soccer League; ISL; soccer; domestic; League; 2; Country; United States

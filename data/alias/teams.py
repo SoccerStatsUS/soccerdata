@@ -63,6 +63,83 @@ slugs = {
 
 
 world = {
+
+    # Panama
+    'Atletico Chiriqui': 'Atlético Chiriquí',
+    'Atletico Veraguense': 'Atlético Veragüense',
+    'CD Arabe Unido': 'Arabe Unido',
+    'Arabe Unido': 'Árabe Unido',
+    'CD Plaza Amador': 'Plaza Amador',
+    'Chiriqui FC': 'Chiriquí F.C.',
+    'CD Pan de Azucar': 'CD Pan de Azúcar',
+    'Pan de Azucar FC': 'CD Pan de Azúcar',
+    'Panama Viejo FC': 'Panamá Viejo F.C.',
+    'Sporting Cocle': 'Sporting San Miguelito',
+    'Sporting Cocle FC': 'Sporting San Miguelito',
+    'Sporting \'89': 'Sporting San Miguelito',
+    'Sporting SM': 'Sporting San Miguelito',
+    'River Plate (Panama)': 'Colón River FC',
+    'Deportivo Arabe Unido': 'Arabe Unido',
+    'El Chorrillo FC': 'Chorrillo F.C.',
+    'Municipal Chorrillo': 'Chorrillo F.C.',
+    'Atletico Nacional (Panama)': 'Atlético Nacional (Panama)',
+
+
+    # Costa Rica
+    'Santos de Guapiles': 'Santos de Guápiles',
+    'SD Santos (Guapiles)': 'Santos de Guápiles',
+    'AD Santos': 'Santos de Guápiles',
+    'SD Santos': 'Santos de Guápiles',
+    'San Carlos FC': 'A.D. San Carlos',
+    'AD San Carlos': 'A.D. San Carlos',
+    'CS Uruguay (Coronado)': 'Uruguay de Coronado',
+    'Uruguay (Coronado)': 'Uruguay de Coronado',
+    'AD Barrio Mexico': 'AD Barrio México',
+    'Santacrucena': 'AD Santacruceña',
+    'Belen Siglo XXI': 'Belén Siglo XXI',
+    'Belén Siglo XXI': 'A.D. Belén',
+    'Deportivo Belen - Costa Rica': 'Belen',
+    'AD Belén': 'A.D. Belén',
+    'Belen': 'A.D. Belén',
+    'AD Belen': 'A.D. Belén',
+    'Belén': 'A.D. Belén',
+    'CD Saprissa': 'Saprissa',
+    'Águilas Guanacastecas': 'Liberia Mía', # add name map
+    'AD Municipal Liberia': 'Liberia Mía', # add name map?
+    'Liberia Mia': 'Liberia Mía', 
+    'AD Municipal Pérez Zeledón': 'Perez Zeledon',
+    'ADM Perez Zeledon': 'Perez Zeledon',
+    'Brujas Escazú': 'Brujas FC',
+    'Brujas FC Escazú': 'Brujas FC',
+    'CS Cartaginés': 'CS Cartagines',
+    'Cartaginés': 'CS Cartagines',
+    'D Municipal Puntarenas FC': 'Puntarenas FC',
+
+    'Ramonense': 'AD Ramonense',
+    'Carmelita': 'AD Carmelita',
+
+
+
+    # Guatemala
+    'Xinabajul': 'Deportivo Xinabajul',
+    'Atletico Choloma': 'Atlético Choloma',
+    'Atlético Cholomeño': 'Atlético Choloma',
+    'Atletico Olanchano': 'Atlético Olanchano',
+    'Real Sociedad (Tocoa)': 'CD Real Sociedad',
+    'Real Patepluma': 'Real Juventud',
+    'Universidad (Choluteca)': 'Universidad Choluteca',
+    'Universidad (USAC)': 'Universidad de San Carlos',
+    'Santa Lucia Cotzumalguapa': 'Santa Lucía Cotzumalguapa',
+    'Aurora FC': 'Aurora F.C.',
+    'Malacateco': 'Deportivo Malacateco',
+    'Mictlán': 'Deportivo Mictlán',
+    'Mictlan': 'Deportivo Mictlán',
+
+    #Honduras
+    'Real Patepluma': 'Real Maya', # add name map
+    'Vida': 'CDS Vida', # ambiguous?
+
+
     # China
     'Guangzhou GPC Zhongyi': 'Guangzhou Evergrande',
     'Zhejiang Greentown': 'Hangzhou Greentown',
@@ -463,6 +540,7 @@ world = {
 
     'Diriangen': 'Diriangén FC',
     'Haitien': 'R.C. Haïtien',
+    'CS Cartagines': 'C.S. Cartaginés',
     'Cartagines': 'C.S. Cartaginés',
     
     'Baltimore Spirit': 'Baltimore Blast',
@@ -1297,20 +1375,30 @@ world = {
 
     # El Salvador
     #Independiente (El Salvador)
+
+    'Univ. de El Salvador': 'Universidad de El Salvador',
+
+    'Nejapa FC': 'Alacranes Del Norte', #add name map.
+
     'Aguila': 'C.D. Águila',
     'Aguila - El Salvador': 'CD Aguila',
-    'Alianza FC': 'Alianza',
-    'Alianza - El Salvador': 'Alianza',
     'CD Aguila - El Salvador': 'CD Aguila',
     'C.D. Aguila': 'C.D. Águila',
     'CD Aguila': 'C.D. Águila',
     'CD Aguila (El Salvador)': 'C.D. Águila',
+
+    'Alianza FC': 'Alianza',
+    'Alianza - El Salvador': 'Alianza',
+
+    'Atletico Balboa': 'Atlético Balboa',
+
     'FAS - El Salvador': 'FAS',
     'C.D. FAS': 'CD FAS',
     'C.D. Fas': 'CD FAS',
     'CD Fas': 'CD FAS',
     'FAS': 'C.D. FAS',
     'Deportivo FAS': 'C.D. FAS',
+    'Isidro Metapán': 'CD Isidro Metapán',
     'Isidro-Metapan': 'Isidro Metapán',
     'Isidro Metapan': 'Isidro Metapán',
     'Juventud Olimpica': 'Juventud Olímpica',
@@ -1351,15 +1439,17 @@ world = {
 
     # Guatemala
     'Petapa': 'Deportivo Petapa',
-
-    'Suchitepéquez': 'C.D. Suchitepéquez',
-
-    'Teculutan': 'Teculután',
+    
+    'Deportivo Teculutan': 'Deportivo Teculután',
+    'Teculutan': 'Deportivo Teculután',
     'Amatitlan': 'Amatitlán',
     'Dep. Carcha': 'Deportivo Carchá',
     'Dep. Carchá': 'Deportivo Carchá',
     'Juv. Retalteca': 'Juventud Retalteca',
     'Juventud R.': 'Juventud Retalteca',
+    'Heredia-Jaguares': 'Heredia Jaguares',
+    'Deportivo Heredia': 'Heredia Jaguares de Peten',
+    'Heredia Jaguares': 'Heredia Jaguares de Peten',
 
     'Aurora': 'Aurora F.C.',
     'Coban - Guatemala': 'Coban',
@@ -1376,11 +1466,17 @@ world = {
     'Dep. Carchá': 'Deportivo Carchá',
     'Escuintla': 'Deportivo Escuintla',
     'Jalapa': 'CD Jalapa',
+    'Deportivo Jalapa': 'CD Jalapa',
     'Galcasa': 'CSD Galcasa',
     'Municipal': 'CSD Municipal',
     'CSD Municipal -- Guatemala': 'CSD Municipal',
     'Suchitepequez - Guatemala': 'Suchitepequez',
     'Suchitepequez': 'C.D. Suchitepéquez',
+    'Suchitepéquez': 'C.D. Suchitepéquez',
+    'Deportivo Suchitepequez': 'C.D. Suchitepéquez',
+    'Deportivo Suchitepéquez': 'C.D. Suchitepéquez',
+
+
     'USAC': 'Universidad de San Carlos',
     'Xelaju': 'Xelajú MC',
     'Xelajú': 'Xelajú MC',
@@ -1390,7 +1486,9 @@ world = {
     # Honduras
 
     #Atletico Indio (Honduras)
-    'Marathon': 'Marathón',
+    'Marathon': 'CD Marathón',
+    'Marathón': 'CD Marathón',
+    'CD Marathon': 'CD Marathón',
     'Motagua': 'CD Motagua',
     'Motagua -- Honduras': 'Motagua',
     'Olimpia': 'CD Olimpia',
@@ -1403,8 +1501,11 @@ world = {
     'Universidad (Honduras)': 'Pumas UNAH',
     'Platense (Honduras)': 'Platense F.C.',
     'Platense': 'Platense F.C.',
+    'CD Platense': 'Platense FC',
+    'Platense F.C.': 'Platense FC',
     'Real Espana': 'Real España',
-    'Real Espana-- Honduras': 'Real Espana',
+    'Real Espana-- Honduras': 'Real CD Espana',
+    'Real CD Espana': 'Real C.D. España',
 
     # Costa Rica
 
@@ -1415,8 +1516,9 @@ world = {
     'LD Alajuelense-- Costa Rica': 'LD Alajuelense',
     'Alajuela -- Costa Rica': 'Alajuelense',
     'L.D. Alajuelense': 'LD Alajuelense',
-    'Deportivo Belen - Costa Rica': 'Belen',
+
     'Brujas': 'Brujas FC',
+    'C.S. Herediano': 'CS Herediano',
     'Herediano': 'C.S. Herediano',
     'Herediano - Costa Rica': 'Herediano',
     'AD Limonense - Costa Rica': 'AD Limonense',
@@ -1424,6 +1526,7 @@ world = {
     'Limon': 'AD Limonense',
     'AD Limonense': 'Limón FC',
     'Puntarenas FC - Costa Rica': 'Puntarenas FC',
+    'Municipal Puntarenas': 'Puntarenas FC',
     'Puntarenas - Costa Rica': 'Puntarenas',
     'Puntarenas': 'Puntarenas FC',
     'San Lorenzo - Costa Rica': 'San Lorenzo Costa Rica',

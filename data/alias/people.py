@@ -181,6 +181,7 @@ last_name = {
 
 
 basic = {
+    'Mike Donovan': 'Michael Donovan',
     'Jorge Almiron': 'Jorge Almirón',
     'Ernest Major': 'Ernst Major',
     'Tomas Skuhravy': 'Tomáš Skuhravý',

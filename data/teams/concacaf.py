@@ -11,6 +11,14 @@ l = [
         'city': 'Kingston, Jamaica',
         },
 
+
+    {
+        'name': 'L\'Etoile de Morne-à-l\'Eau',
+        'founded': 1958,
+        'city': 'Morne-à-l\'Eau, Guadelopue',
+        },
+
+
     {
         'name': 'Chivas Tijuana',
         'founded': 1997,
@@ -67,47 +75,6 @@ l = [
         'city': 'Willemstad, Curacao',
         },
 
-    {
-        'name': 'L\'Etoile de Morne-à-l\'Eau',
-        'founded': 1958,
-        'city': 'Morne-à-l\'Eau, Guadelopue',
-        },
-
-    {
-        'name': 'CD Aguila',
-        'founded': datetime.datetime(1926, 2, 15),
-        'city': 'San Miguel, El Salvador',
-        },
-
-    {
-        'name': 'CD FAS',
-        'founded': datetime.datetime(1947, 2, 16),
-        'city': 'Santa Ana, El Salvador',
-        },
-
-    {
-        'name': 'C.D. Atlético Marte',
-        'founded': datetime.datetime(1950, 4, 22),
-        'city': 'San Salvador, El Salvador',
-        },
-
-    {
-        'name': 'Luis Angel Firpo',
-        'founded':  datetime.datetime(1923, 9, 17),
-        'city': 'Usulutan, El Salvador',
-        },
-
-    {
-        'name': 'Alianza',
-        'founded':  1958,
-        'city': 'San Salvador, El Salvador',
-        },
-
-    {
-        'name': 'Isidro Metapan',
-        'founded': 2000,
-        'city': 'Metapan, El Salvador',
-        },
 
     {
         'name': 'América Managua',
@@ -179,17 +146,6 @@ l = [
         'city': 'Saint George Parish, Antigua',
         },
 
-    {
-        'name': 'Tauro FC',
-        'founded': 1984,
-        'city': 'Panama City, Panama',
-        },
-
-    {
-        'name': 'Chorrillo F.C.',
-        'founded': 1974,
-        'city': 'Panama City, Panama',
-        },
 
     {
         'name': 'Club Verdes',
@@ -227,109 +183,6 @@ l = [
         'city': 'Paramaribo, Suriname',
         },
 
-
-    {
-        'name': 'CSD Comunicaciones',
-        'founded': datetime.datetime(1949, 8, 16),
-        'city': 'Guatemala City, Guatemala',
-        },
-
-    {
-        'name': 'Aurora F.C.',
-        'founded': 1945,
-        'city': 'Guatemala City, Guatemala'
-        },
-
-    {
-        'name': 'CSD Municipal',
-        'founded': datetime.datetime(1936, 5, 17),
-        'city': 'Guatemala City, Guatemala',
-        },
-
-    {
-        'name': 'Xelaju MC',
-        'founded': 1928,
-        'city': 'Quetzaltenango, Guatemala',
-        },
-
-    {
-        'name': 'Suchitepequez',
-        'founded': 1960,
-        'city': 'Mazatenango, Guatemala',
-        },
-
-    {
-        'name': 'Marathon',
-        'founded': datetime.datetime(1925, 11, 25),
-        'city': 'San Pedro Sula, Honduras',
-        },
-
-    {
-        'name': 'Motagua',
-        'founded': datetime.datetime(1928, 8, 29),
-        'city': 'Tegucigalpa, Honduras',
-        },
-
-    {
-        'name': 'CD Olimpia',
-        'founded': datetime.datetime(1912, 6, 12),
-        'city': 'Tegucigalpa, Honduras',
-        },
-
-    {
-        'name': 'Real Espana',
-        'founded': datetime.datetime(1929, 7, 14),
-        'city': 'San Pedro Sula, Honduras',
-        },
-
-    {
-        'name': 'Platense F.C.',
-        'founded': datetime.datetime(1960, 7, 4),
-        'city': 'Puerto Cortés, Honduras',
-        },
-
-
-    {
-        'name': 'L.D. Alajuelense',
-        'founded': datetime.datetime(1919, 6, 18),
-        'city': 'Alajuela, Costa Rica',
-        },
-
-    {
-        'name': 'Brujas FC',
-        'founded': 2004,
-        'city': 'Desamparados, Costa Rica',
-        },
-
-    {
-        'name': 'Herediano',
-        'founded': datetime.datetime(1921, 6, 12),
-        'city': 'Heredia, Costa Rica',
-        },
-
-    {
-        'name': 'Limón FC',
-        'founded': datetime.datetime(1961, 7, 10),
-        'city': 'Limón, Costa Rica',
-        },
-
-    {
-        'name': 'Puntarenas FC',
-        'founded': datetime.datetime(2004, 6, 30),
-        'city': 'Puntarenas, Costa Rica',
-        },
-
-    {
-        'name': 'Deportivo Saprissa',
-        'founded': datetime.datetime(1936, 7, 16),
-        'city': 'San Jose, Costa Rica',
-        },
-
-    {
-        'name': 'C.S. Cartaginés',
-        'founded': datetime.datetime(1906, 7, 1),
-        'city': 'San Jose, Costa Rica',
-        },
 
     {
         'name': 'Club América',
@@ -381,17 +234,6 @@ l = [
         'city': 'Willemstad, Curacao',
         },
 
-    {
-        'name': 'Once Municipal',
-        'founded': datetime.datetime(1945, 8, 20),
-        'city': 'Ahuachapan, El Salvador',
-        },
-
-    {
-        'name': 'C.D. Santiagueño',
-        'founded': 1917,
-        'city': 'Santiago de Maria, El Salvador',
-        },
 
     {
         'name': 'CS Moulien',
@@ -415,10 +257,7 @@ l = [
         'city': 'Managua, Nicaragua',
         },
 
-    {
-        'name': 'Petrotela',
-        'city': 'Tela, Honduras',
-        },
+
 
     {
         'name': 'Dandy Town Hornets',
@@ -437,11 +276,7 @@ l = [
         'city': 'Sinnamary, French Guiana',
         },
 
-    {
-        'name': 'Pumas UNAH',
-        'founded': datetime.datetime(1965, 12, 12),
-        'city': 'Choluteca, Honduras',
-        },
+
 
     {
         'name': 'Devonshire Colts FC',
@@ -475,12 +310,7 @@ l = [
         'city': 'Monterrey, Mexico',
         },
 
-    {
-        'name': 'A.F.C. Euro Kickers',
-        'founded': 1984,
-        'dissolved': 2002,
-        'city': 'Panama City, Panama',
-        },
+
 
     {
         'name': 'Atlante F.C.',
@@ -672,11 +502,7 @@ l = [
         },
 
 
-    {
-        'name': 'Plaza Amador',
-        'founded': datetime.datetime(1955, 4, 25),
-        'city': 'Panama City, Panama',
-        },
+
 
     {
         'name': 'Jong Colombia',
@@ -684,11 +510,7 @@ l = [
         'city': 'Boca Sami, Curacao',
         },
 
-    {
-        'name': 'CD Jalapa',
-        'founded': 1978,
-        'city': 'Jalapa, Guatemala',
-        },
+
 
 
     {
@@ -697,12 +519,6 @@ l = [
         'city': 'Diriamba, Nicaragua',
         },
 
-    {
-        'name': 'San Salvador FC',
-        'founded': 2002,
-        'dissolved': 2008,
-        'city': 'San Salvador, El Salvador',
-        },
 
     {
         'name': 'Portmore United',
@@ -710,22 +526,15 @@ l = [
         },
 
 
-    {
-        'name': 'San Francisco FC',
-        'founded': 1971,
-        'city': 'La Chorrera, Panama',
-        },
+
+
 
     {
         'name': 'FCS Nacional',
         'city': 'Paramaribo, Suriname',
         },
 
-    {
-        'name': 'Arabe Unido',
-        'founded': datetime.datetime(1994, 4, 28),
-        'city': 'Colon, Panama',
-        },
+
 
     {
         'name': 'Caledonia AIA',
@@ -744,11 +553,7 @@ l = [
         'city': 'Benque Viejo del Carmen, Belize',
         },
 
-    {
-        'name': 'Coban Imperial',
-        'founded': 1924,
-        'city': 'Coban, Guatemala',
-        },
+
 
     {
         'name': 'Walking Bout Company',
@@ -756,17 +561,7 @@ l = [
         'city': 'Paramaribo, Suriname',
         },
 
-    {
-        'name': 'Liberia Mia',
-        'founded': datetime.datetime(1977, 6, 7),
-        'city': 'Liberia, Costa Rica',
-        },
 
-    {
-        'name': 'Perez Zeledon',
-        'founded': 1962,
-        'city': 'Zeledon, Costa Rica',
-        },
 
     {
         'name': 'Aigle Noir',
@@ -850,24 +645,7 @@ l = [
         },
 
 
-    {
-        'name': 'Vista Hermosa',
-        'city': 'Morazan, El Salvador',
-        'founded': datetime.datetime(1999, 4, 17)
-        },
 
-    {
-        'name': 'Juventud Olímpica',
-        'city': 'San Salvador, El Salvador', # and other places.j
-        'dissolved': 2007,
-        },
-
-    {
-        'name': 'Juventud Retalteca',
-        'city': 'Retalhuleu, Guatemala',
-        'founded': 1951,
-        'dissolved': 2012,
-        },
 
 
     

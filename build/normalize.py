@@ -347,7 +347,10 @@ def normalize_lineup(e):
 
 def normalize_standing(e):
     e['competition'] = get_competition(e['competition'])
-    e['team'] = get_team(e['team'])
+    try:
+        e['team'] = get_team(e['team'])
+    except:
+        import pdb; pdb.set_trace()
 
     if 'games' not in e:
         import pdb; pdb.set_trace()

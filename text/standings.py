@@ -7,6 +7,7 @@
 # Wikipedia Style
 # 3       Moctezuma       18      9       3       6       43      34      21
 
+import codecs
 import os
 from soccerdata.cache import data_cache
 
@@ -100,7 +101,8 @@ def process_excel_standings(filename):
 
 def process_standings_file(p, delimiter):
     full_path = os.path.join('/home/chris/www/soccerdata/data/standings', p)
-    f = open(full_path)
+    #f = open(full_path)
+    f = codecs.open(full_path, 'r', 'utf-8')
     return process_lines(f, delimiter)
 
 
@@ -152,23 +154,31 @@ class StandingProcessor(object):
         if not line:
             return
 
-        # Represents a comment.
+        tag_data = lambda l, t: l.split(t, 1)[1].strip()
+
+        
         if line.startswith("*"):
+            return # is a comment.
+
+        if line.startswith('BlockSource:'):
+            source = tag_data(line, "BlockSource:")
+            if source:
+                self.sources = [source]
             return
 
-        # Set the competition.
+
         if line.startswith("Competition:"):
-            self.competition = line.split("Competition:")[1].strip()
+            self.competition = tag_data(line, 'Competition:')
             self.group = ''
             return
 
         if line.startswith("Key"):
-            self.key = [e.strip() for e in line.split("Key:")[1].split(self.delimiter)]
+            self.key = [e.strip() for e in tag_data(line, 'Key:').split(self.delimiter)]
             return
 
 
         if line.startswith("Season:"):
-            self.season = line.split("Season:")[1].strip()
+            self.season = tag_data(line, 'Season:')
             self.group = ''
             return
 
@@ -184,7 +194,7 @@ class StandingProcessor(object):
 
         # Set the round.
         if line.startswith("Group"):
-            self.group = line.split("Group:")[1].strip()
+            self.group = tag_data(line, 'Group:')
             return
 
         # This is definitely a standing now.

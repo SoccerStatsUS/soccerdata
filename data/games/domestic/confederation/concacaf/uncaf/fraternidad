@@ -35,7 +35,7 @@ Season: 1970-1971
 ;Saprissa           ;2-2; Cementos Novella
 
 
-Season: 1970-1971
+Season: 1971-1972
 
 
 Group: Group 1
@@ -148,12 +148,12 @@ Season: 1973
 ;Comunicaciones     ;2-3; Saprissa
 ;Águila             ;2-0; Juventud Olímpica
 
- 1.Saprissa            10   6  1  3  22-14  13
- 2.Águila              10   5  3  2  12- 8  13
- 3.Alajuelense         10   5  2  3   9-10  12
- 4.Comunicaciones      10   4  1  5  13-12   9
- 5.Juventud Olímpica   10   4  0  6  12-18   8
- 6.Municipal           10   2  1  7   7-13   5
+* 1.Saprissa            10   6  1  3  22-14  13
+* 2.Águila              10   5  3  2  12- 8  13
+* 3.Alajuelense         10   5  2  3   9-10  12
+* 4.Comunicaciones      10   4  1  5  13-12   9
+* 5.Juventud Olímpica   10   4  0  6  12-18   8
+* 6.Municipal           10   2  1  7   7-13   5
 
 Round: Final
 
@@ -329,7 +329,9 @@ Season: 1977
 ;Águila             ;2-1; Municipal
 
 
-VIII Copa Fraternidad 1978
+*VIII Copa Fraternidad 1978
+
+Season: 1978
 
 Round: First Round 
 

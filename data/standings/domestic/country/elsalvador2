@@ -1,0 +1,191 @@
+Competition: Salvadoran Primera División
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal08.html
+
+Season: 2007 Apertura
+
+ 1; CD Chalatenango        ; 18; 10;  4;  4; 29; 16; 34
+ 2; CD FAS                 ; 18;  9;  3;  6; 27; 21; 30
+ 3; CD Isidro Metapán      ; 18;  8;  5;  5; 31; 24; 29
+ 4; Luis Angel Firpo       ; 18;  7;  6;  5; 23; 17; 27
+ 5; Vista Hermosa          ; 18;  8;  3;  7; 24; 25; 27
+ 6; CD Aguila              ; 18;  7;  4;  7; 23; 20; 25
+ 7; Alianza FC             ; 18;  6;  6;  6; 26; 28; 24
+ 8; Nejapa FC              ; 18;  5;  7;  6; 31; 34; 22
+ 9; San Salvador FC        ; 18;  3;  6;  9; 20; 35; 15
+10; Once Municipal         ; 18;  4;  2; 12;  8; 22; 14
+
+
+Season: 2008 Clausura
+
+ 1; Luis Angel Firpo       ; 18;  8;  8;  2; 29; 15; 32
+ 2; CD Isidro Metapán      ; 18;  8;  8;  2; 39; 27; 32
+ 3; CD FAS                 ; 18;  8;  6;  4; 26; 21; 30
+ 4; Vista Hermosa          ; 18;  8;  6;  4; 20; 15; 30
+ 5; CD Chalatenango        ; 18;  6;  7;  5; 29; 25; 25
+ 6; Alianza FC             ; 18;  5;  7;  6; 20; 18; 22
+ 7; CD Aguila              ; 18;  5;  6;  7; 25; 32; 21
+ 8; Nejapa FC              ; 18;  4;  7;  7; 20; 26; 19
+ 9; Once Municipal         ; 18;  1;  9;  8; 11; 24; 12
+10; San Salvador FC        ; 18;  2;  6; 10; 14; 30; 12
+
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal09.html
+
+Season: 2008 Apertura
+
+ 1; CD Aguila              ; 18; 10;  4;  4; 39; 19; 34
+ 2; CD Isidro Metapán      ; 18;  8;  7;  3; 33; 21; 31
+ 3; CD FAS                 ; 18;  8;  6;  4; 27; 22; 30
+ 4; CD Chalatenango        ; 18;  7;  7;  4; 25; 24; 28
+ 5; Vista Hermosa          ; 18;  7;  6;  5; 20; 16; 27
+ 6; Luis Angel Firpo       ; 18;  5;  7;  6; 20; 18; 22
+ 7; Atletico Balboa        ; 18;  4;  8;  6; 23; 29; 20
+ 8; Juventud Independiente ; 18;  4;  7;  7; 21; 35; 19
+ 9; Alianza FC             ; 18;  4;  5;  9; 19; 25; 17
+10; Nejapa FC              ; 18;  2;  5; 11; 16; 34; 11
+
+
+Season: 2009 Clausura
+
+ 1; CD Isidro Metapán      ; 18; 10;  5;  3; 27; 14; 35
+ 2; Luis Angel Firpo       ; 18;  8;  5;  5; 25; 15; 29
+ 3; CD FAS                 ; 18;  8;  5;  5; 24; 17; 29
+ 4; Nejapa FC              ; 18;  7;  8;  3; 21; 17; 29
+ 5; CD Aguila              ; 18;  8;  3;  7; 25; 25; 27
+ 6; CD Chalatenango        ; 18;  6;  7;  5; 21; 22; 25
+ 7; Vista Hermosa          ; 18;  6;  3;  9; 23; 28; 21
+ 8; Alianza FC             ; 18;  4;  7;  7; 14; 17; 19
+ 9; Atletico Balboa        ; 18;  3;  8;  7; 18; 23; 17
+10; Juventud Independiente ; 18;  3;  3; 12; 11; 31; 12
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal2010.html#1aper
+
+Season: 2009 Apertura
+
+ 1; CD FAS                 ; 18; 12;  2;  4; 31;  9; 38
+ 2; CD Aguila              ; 18;  9;  7;  2; 22;  9; 34
+ 3; Luis Angel Firpo       ; 18;  8;  5;  5; 24; 19; 29
+ 4; Vista Hermosa          ; 18;  6;  8;  4; 30; 21; 26
+ 4; CD Isidro Metapán      ; 18;  7;  5;  6; 21; 21; 26
+ 6; Atletico Marte         ; 18;  5;  9;  4; 21; 17; 24
+ 7; CD Municipal Limeño    ; 18;  4;  8;  6; 18; 24; 20
+ 8; Alianza FC             ; 18;  3;  8;  7; 18; 21; 17
+ 9; Nejapa FC              ; 18;  3;  5; 10; 16; 39; 14
+10; Atletico Balboa        ; 18;  2;  5; 11; 19; 40; 11
+
+* [*] Municipal Limeño bought the place of CD Chalatenango
+
+
+Season: 2010 Clausura
+
+ 1; Luis Angel Firpo       ; 18; 10;  5;  3; 28; 17; 35
+ 2; CD Aguila              ; 18;  7; 10;  1; 24;  9; 31
+ 3; Vista Hermosa          ; 18;  7;  8;  3; 25; 17; 29
+ 4; CD Isidro Metapán      ; 18;  6; 10;  2; 24; 20; 28
+ 5; Atletico Balboa        ; 18;  6;  9;  3; 18; 17; 27
+ 6; Alianza FC             ; 18;  6;  6;  6; 22; 18; 24
+ 7; CD FAS                 ; 18;  5;  5;  8; 19; 25; 20
+ 8; CD Municipal Limeño    ; 18;  3;  9;  6; 20; 27; 18
+ 9; Atletico Marte         ; 18;  3;  7;  8; 22; 27; 16
+10; Nejapa FC              ; 18;  0;  5; 13; 12; 37;  5
+
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal2011.html#1aper
+
+Season: 2010 Apertura
+
+
+ 1; CD Isidro Metapán      ; 18;  10;  4;  4;  34; 27;  34
+ 2; Alianza FC             ; 18;   9;  6;  3;  26; 13;  33
+ 3; Luis Angel Firpo       ; 18;   8;  7;  3;  24; 17;  31
+ 4; CD Aguila              ; 18;   9;  4;  5;  22; 19;  31
+ 5; Atletico Balboa        ; 18;   7;  8;  3;  21; 16;  29
+ 6; Vista Hermosa          ; 18;   3;  9;  6;  20; 25;  18
+ 7; Atletico Marte         ; 18;   4;  5;  9;  22; 28;  17
+ 8; CD FAS                 ; 18;   4;  5;  9;  19; 28;  17
+ 9; Univ. de El Salvador   ; 18;   3;  7;  8;  23; 27;  16
+10; Once Municipal         ; 18;   3;  5; 10;  16; 27;  14
+
+
+Season: 2011 Clausura
+
+ 1; Alianza FC             ; 18;   8;  5;  5;  32; 21;  29
+ 2; CD FAS                 ; 18;   7;  8;  3;  29; 24;  29
+ 3; CD Isidro Metapán      ; 18;   9;  2;  7;  26; 24;  29
+ 4; Luis Angel Firpo       ; 18;   8;  4;  6;  24; 15;  28
+ 5; CD Aguila              ; 18;   7;  6;  5;  27; 21;  27
+ 6; Atletico Marte         ; 18;   8;  3;  7;  25; 24;  27
+ 7; Vista Hermosa          ; 18;   6;  8;  4;  19; 15;  26
+ 8; Univ. de El Salvador   ; 18;   3;  8;  7;  14; 25;  17
+ 9; Once Municipal         ; 18;   2;  9;  7;  17; 27;  15
+10; Atletico Balboa        ; 18;   3;  5; 10;  11; 28;  14
+
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal2012.html#1aper
+
+Season: 2011 Apertura
+
+ 1; CD Isidro Metapán      ; 18;  11;  3;  4;  32; 21;  36
+ 2; CD FAS                 ; 18;   9;  5;  4;  24; 17;  32
+ 3; Once Municipal         ; 18;   8;  6;  4;  29; 20;  30
+ 4; CD Aguila              ; 18;   8;  5;  5;  34; 26;  29
+ 4; Luis Angel Firpo       ; 18;   8;  5;  5;  31; 27;  29
+ 6; Alianza FC             ; 18;   6;  6;  6;  18; 17;  24
+ 7; Atletico Marte         ; 18;   6;  5;  7;  21; 21;  23
+ 8; Juventud Independiente ; 18;   5;  2; 11;  18; 30;  17
+ 9; Univ. de El Salvador   ; 18;   2;  8;  8;  15; 29;  14
+10; Vista Hermosa          ; 18;   1;  7; 10;  11; 25;  10
+
+
+
+Season: 2012 Clausura
+
+ 1; CD Isidro Metapán      ; 18;  10;  8;  0;  34; 15;  38
+ 2; CD Aguila              ; 18;   9;  2;  7;  28; 18;  29
+ 3; Luis Angel Firpo       ; 18;   7;  7;  4;  30; 23;  28
+ 4; Once Municipal         ; 18;   7;  6;  5;  25; 13;  27
+ 4; CD FAS                 ; 18;   6;  9;  3;  24; 23;  27
+ 6; Juventud Independiente ; 18;   6;  7;  5;  31; 24;  25
+ 7; Univ. de El Salvador   ; 18;   5;  4;  9;  24; 36;  19
+ 8; Atletico Marte         ; 18;   4;  5;  9;  17; 29;  17
+ 9; Alianza FC             ; 18;   3;  6;  9;  25; 40;  15
+10; Vista Hermosa          ; 18;   3;  6;  9;  17; 34;  15
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal2013.html#1aper
+
+Season: 2012 Apertura
+
+
+ 1; CD Isidro Metapán      ; 18;  11;  3;  4;  37; 25;  36
+ 2; Alianza FC             ; 18;  10;  4;  4;  36; 19;  34
+ 3; CD FAS                 ; 18;   9;  6;  3;  27; 15;  33
+ 4; CD Aguila              ; 18;   9;  4;  5;  29; 19;  31
+ 5; Luis Angel Firpo       ; 18;   7;  4;  7;  26; 24;  25
+ 6; Atletico Marte         ; 18;   7;  2;  9;  28; 25;  23
+ 7; Santa Tecla FC         ; 18;   5;  6;  7;  24; 33;  21
+ 8; Univ. de El Salvador   ; 18;   4;  8;  6;  20; 26;  20
+ 9; Juventud Independiente ; 18;   4;  7;  7;  27; 34;  19
+10; Once Municipal         ; 18;   1;  2; 15;  16; 50;   5
+
+
+
+Season: 2012 Clausura
+
+ 1; Alianza FC             ; 13;   8;  3;  2;  31; 12;  27
+ 2; CD FAS                 ; 13;   8;  2;  3;  20; 11;  26
+ 3; Santa Tecla FC         ; 13;   7;  2;  4;  18; 12;  23
+ 4; Luis Angel Firpo       ; 13;   7;  1;  5;  14; 15;  22
+ 5; Juventud Independiente ; 13;   5;  4;  4;  20; 15;  19
+ 6; Once Municipal         ; 13;   5;  3;  5;  14; 21;  18
+ 7; Atletico Marte         ; 13;   5;  2;  6;  21; 18;  17
+ 8; CD Isidro Metapán      ; 13;   4;  5;  4;  14; 18;  17
+ 9; CD Aguila              ; 13;   2;  3;  8;   9; 19;   9
+10; Univ. de El Salvador   ; 13;   0;  3; 10;   7; 27;   3

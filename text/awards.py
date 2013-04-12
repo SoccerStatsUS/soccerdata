@@ -68,6 +68,20 @@ def process_nasl_awards():
     from soccerdata.data.lists.awards.nasl import d
     return process_awards(d)
 
+
+def process_guatemala_awards():
+    from soccerdata.data.lists.awards.guatemala import d
+    return process_awards(d)
+
+def process_honduras_awards():
+    from soccerdata.data.lists.awards.honduras import d
+    return process_awards(d)
+
+def process_costa_rica_awards():
+    from soccerdata.data.lists.awards.costa_rica import d
+    return process_awards(d)
+
+
 def process_uruguay_awards():
     from soccerdata.data.lists.awards.uruguay import d
     return process_awards(d)
@@ -82,9 +96,14 @@ def process_argentina_awards():
     return process_awards(d)
 
 
-def process_uncaf_awards():
+def process_uncaf_international_awards():
     from soccerdata.data.lists.awards.uncaf import d
     return process_awards(d)
+
+
+def process_uncaf_awards():
+    from soccerdata.data.lists.awards.uncaf import interclubes
+    return process_awards(interclubes)
 
 
 def process_caribbean_awards():
