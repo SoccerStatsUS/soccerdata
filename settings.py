@@ -79,6 +79,7 @@ SOURCES = [
     'australia',
     'china',
     'japan',
+    'korea',
         ]
 
 # Skipping these.

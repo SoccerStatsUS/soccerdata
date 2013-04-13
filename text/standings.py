@@ -235,32 +235,12 @@ class StandingProcessor(object):
                 })
 
 
-        for k in 'games', 'wins', 'ties', 'losses', 'points', 'goals_for', 'goals_against', 'shootout_wins', 'shooutout_losses':
+        for k in 'games', 'wins', 'ties', 'losses', 'points', 'goals_for', 'goals_against', 'shootout_wins', 'shootout_losses':
             if k in d:
                 d[k] = int_or_none(d[k])
 
         self.standings.append(d)
 
-
-        """
-        shootout_wins = shootout_losses = None
-        self.standings.append({
-
-                'team': team,
-
-                'games': games,
-                'wins': int(wins),
-                'ties': int(ties),
-                'losses': int(losses),
-                'points': int_or_none(points),
-
-                'goals_for': int_or_none(goals_for),
-                'goals_against': int_or_none(goals_against),
-                'shootout_wins': int_or_none(shootout_wins),
-                'shootout_losses': int_or_none(shootout_losses),
-                'final': True,
-                })
-                """
 
 
 if __name__ == "__main__":

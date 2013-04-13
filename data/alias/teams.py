@@ -64,6 +64,37 @@ slugs = {
 
 world = {
 
+    # Korea
+    'Kookmin Bank': 'Goyang KB Kookmin Bank FC',
+    'Sangmu': 'Sangju Sangmu Phoenix',
+    'Puchon SK': 'Bucheon SK',
+    'Puchon Yukong': 'Bucheon SK',
+    'Ilhwa Chunma': 'Seongnam Ilhwa Chunma',
+    'Songnam Ilhwa Chunma': 'Seongnam Ilhwa Chunma',
+    'Hyundai Horang-i': 'Ulsan Hyundai FC',
+    'Ulsan Hyundai Horang-i': 'Ulsan Hyundai FC',
+    'Busan I\'Park': 'Busan IPark',
+    'Busan Icons': 'Busan IPark',
+    'Pusan Icons': 'Busan IPark',
+    'Daewoo': 'Busan IPark',
+    'Daewoo Royals': 'Busan IPark',
+    'Pusan Daewoo Royals': 'Busan IPark',
+    'Gwangju Sangmu Phoenix': 'Sangju Sangmu Phoenix',
+    'Jeju United': 'Jeju United FC',
+    'Chonbuk Dinos': 'Jeonbuk Hyundai Motors',
+    'Chonbuk Hyundai Dinos': 'Jeonbuk Hyundai Motors',
+    'Chunan Ilhwa Chunma': 'Seongnam Ilhwa Chunma',
+    'LG Cheetahs': 'Anyang LG Cheetahs',
+    'Lucky-Goldstar Hwangso': 'Anyang LG Cheetahs',
+    'Taejon Citizen': 'Daejeon Citizen',
+    'Pohang Atoms': 'Pohang Steelers',
+    'POSCO': 'Pohang Steelers',
+    'POSCO Atoms': 'Pohang Steelers',
+    'POSCO Dolphins': 'Pohang Steelers',
+    'Yukong Elephants': 'Jeju United FC',
+    'Chonbuk Hyundai Motors': 'Jeonbuk Hyundai Motors',
+
+
     'Rentistas': 'CA Rentistas',
     'Miramar': 'Miramar Misiones',
     'Deportes Arica': 'San Marcos de Arica',

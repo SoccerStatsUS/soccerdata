@@ -162,11 +162,147 @@ l = [
         },
 
 
+    # South Korea
+
     {
         'name': 'Suwon Bluewings',
         'founded': 1995,
         'city': 'Suwon, South Korea',
         },
+
+    {
+        'name': 'Anyang LG Cheetahs',
+        'founded': 1996,
+        'dissolved': 2004,
+        'city': 'Anyang, South Korea',
+        },
+
+    {
+        'name': 'Bucheon SK',
+        'founded': 1996,
+        'dissolved': 2006,
+        'city': 'Bucheon, South Korea',
+        },
+
+    {
+        'name': 'Busan IPark',
+        'founded': 1983,
+        'city': 'Busan, South Korea',
+        },
+
+    {
+        'name': 'Chonbuk Buffalo',
+        'founded': 1993,
+        'dissolved': 1994,
+        'city': 'Jeonbuk, South Korea',
+        },
+
+    {
+        'name': 'Jeonbuk Hyundai Motors',
+        'founded': 1994,
+        'city': 'Jeonbuk, South Korea',
+        },
+
+    {
+        'name': 'Sangju Sangmu Phoenix',
+        'founded': 1984,
+        'city': 'Sangju, South Korea',
+        },
+
+    {
+        'name': 'Seongnam Ilhwa Chunma',
+        'founded': 1989,
+        'city': 'Seongnam, South Korea',
+        },
+
+    {
+        'name': 'Goyang KB Kookmin Bank FC',
+        'founded': 1969,
+        'dissolved': 2012,
+        'city': 'Goyang, South Korea',
+        },
+
+    {
+        'name': 'Hallelujah FC',
+        'founded': 1980,
+        'dissolved': 1989,
+        #'city': 'Seongnam, South Korea',
+        },
+    {
+        'name': 'Chunnam Dragons',
+        'founded': 1995,
+        'city': 'Gwangyang, South Korea',
+        },
+
+    {
+        'name': 'Daegu FC',
+        'founded': 2002,
+        'city': 'Daegu, South Korea',
+        },
+
+    {
+        'name': 'Daejeon Citizen',
+        'founded': 1997,
+        'city': 'Daejeon, South Korea',
+        },
+
+    {
+        'name': 'FC Seoul',
+        'founded': 1983,
+        'city': 'Seoul, South Korea',
+        },
+
+
+    {
+        'name': 'Pohang Steelers',
+        'founded': 1973,
+        'city': 'Pohang, South Korea',
+        },
+
+    {
+        'name': 'Jeju United FC',
+        'founded': 1982,
+        'city': 'Jeju, South Korea',
+        },
+
+    {
+        'name': 'Incheon United',
+        'founded': 2003,
+        'city': 'Incheon, South Korea',
+        },
+
+    {
+        'name': 'Suwon Samsung Bluewings',
+        'founded': 1995,
+        'city': 'Suwon, South Korea',
+        },
+
+    {
+        'name': 'Gangwon FC',
+        'founded': datetime.datetime(2008, 12, 18),
+        'city': 'Gangneung, South Korea',
+        },
+
+
+    {
+        'name': 'Gyeongnam FC',
+        'founded': 2006,
+        'city': 'Changwon, South Korea',
+        },
+
+    {
+        'name': 'Ulsan Hyundai FC',
+        'founded': 1983,
+        'city': 'Ulsan, South Korea',
+        },
+
+    {
+        'name': 'Hanil Bank',
+        'founded': 1970,
+        'dissolved': 1997,
+        #'city': 'Changwon, South Korea',
+        },
+
 
     # Japan
 
