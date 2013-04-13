@@ -7,9 +7,21 @@ l = [
 
 
 
+
     {
         'name': 'CD Aguila',
         'founded': datetime.datetime(1926, 2, 15),
+        'city': 'San Miguel, El Salvador',
+        },
+
+    {
+        'name': 'CD Arcense',
+        'founded': 1990,
+        'city': 'Ciudad Arce, El Salvador',
+        },
+    {
+        'name': 'CD Dragón',
+        'founded': 1939,
         'city': 'San Miguel, El Salvador',
         },
 
@@ -80,6 +92,13 @@ l = [
         'city': 'San Juan Opico, El Salvador',
         },
 
+    {
+        'name': 'Independiente Nacional 1906',
+        'founded': 2006,
+        'dissolved': 2007,
+        'city': 'San Vicente, El Salvador',
+        },
+
 
     {
         'name': 'Once Municipal',
@@ -108,6 +127,11 @@ l = [
         },
 
 
+    {
+        'name': 'Once Lobos',
+        'founded': 1922,
+        'city': 'Chalchuapa, El Salvador',
+        },
 
     {
         'name': 'Vista Hermosa',

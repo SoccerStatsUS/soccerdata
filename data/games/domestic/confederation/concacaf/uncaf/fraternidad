@@ -5,31 +5,31 @@ Season: 1970-1971
 ;Comunicaciones     ;1-1; Saprissa
 ;Alianza            ;2-1; Cementos Novella
 ;Cementos Novella   ;1-0; Herediano
-;Atlético Marte     ;1-1; Comunicaciones
+;Atletico Marte     ;1-1; Comunicaciones
 ;Saprissa           ;3-0; Alianza
-;Herediano          ;2-1; Atlético Marte
+;Herediano          ;2-1; Atletico Marte
 ;Comunicaciones     ;3-2; Cementos Novella
 ;Alianza            ;1-0; Herediano
-;Saprissa           ;0-0; Atlético Marte
+;Saprissa           ;0-0; Atletico Marte
 ;Comunicaciones     ;0-0; Alianza
-;Atlético Marte     ;3-0; Cementos Novella
+;Atletico Marte     ;3-0; Cementos Novella
 ;Cementos Novella   ;0-1; Saprissa
-;Alianza            ;3-0; Atlético Marte
+;Alianza            ;3-0; Atletico Marte
 ;Herediano          ;2-1; Comunicaciones
 ;Herediano          ;1-1; Saprissa
 
 ;Cementos Novella   ;2-0; Alianza
-;Atlético Marte     ;1-1; Herediano
+;Atletico Marte     ;1-1; Herediano
 ;Saprissa           ;1-1; Comunicaciones
-;Comunicaciones     ;2-1; Atlético Marte
+;Comunicaciones     ;2-1; Atletico Marte
 ;Alianza            ;0-0; Saprissa
 ;Herediano          ;3-0; Cementos Novella
 ;Cementos Novella   ;0-1; Comunicaciones
-;Atlético Marte     ;1-0; Saprissa
+;Atletico Marte     ;1-0; Saprissa
 ;Herediano          ;2-1; Alianza
-;Atlético Marte     ;3-1; Alianza
+;Atletico Marte     ;3-1; Alianza
 ;Saprissa           ;1-1; Herediano
-;Cementos Novella   ;2-1; Atlético Marte
+;Cementos Novella   ;2-1; Atletico Marte
 ;Alianza            ;1-3; Comunicaciones
 ;Comunicaciones     ;2-0; Herediano
 ;Saprissa           ;2-2; Cementos Novella
@@ -40,33 +40,33 @@ Season: 1971-1972
 
 Group: Group 1
      
-;Comunicaciones     ;0-0; Atlético Marte
+;Comunicaciones     ;0-0; Atletico Marte
 ;Cementos Novella   ;3-3; Comunicaciones
 ;Juventud Olímpica  ;0-0; Herediano
-;Saprissa           ;0-0; Atlético Marte
+;Saprissa           ;0-0; Atletico Marte
 ;Comunicaciones     ;3-1; Juventud Olímpica
-;Atlético Marte     ;0-1; Cementos Novella
+;Atletico Marte     ;0-1; Cementos Novella
 ;Saprissa           ;2-2; Herediano
 ;Cementos Novella   ;1-1; Saprissa
-;Atlético Marte     ;1-0; Juventud Olímpica
+;Atletico Marte     ;1-0; Juventud Olímpica
 ;Herediano          ;0-2; Comunicaciones
 ;Comunicaciones     ;0-0; Saprissa
 ;Juventud Olímpica  ;0-2; Cementos Novella
-;Herediano          ;5-1; Atlético Marte
+;Herediano          ;5-1; Atletico Marte
 ;Cementos Novella   ;2-2; Herediano
 ;Saprissa           ;3-0; Juventud Olímpica
 
 ;Comunicaciones     ;1-0; Cementos Novella
 ;Herediano          ;2-1; Juventud Olímpica
-;Atlético Marte     ;1-2; Saprissa
-;Cementos Novella   ;3-1; Atlético Marte
+;Atletico Marte     ;1-2; Saprissa
+;Cementos Novella   ;3-1; Atletico Marte
 ;Juventud Olímpica  ;2-1; Comunicaciones
 ;Saprissa           ;1-1; Herediano
 ;Comunicaciones     ;0-1; Herediano
 ;Saprissa           ;4-1; Cementos Novella
-;Atlético Marte     ;2-0; Juventud Olímpica
+;Atletico Marte     ;2-0; Juventud Olímpica
 ;Cementos Novella   ;2-0; Juventud Olímpica
-;Atlético Marte     ;1-2; Herediano
+;Atletico Marte     ;1-2; Herediano
 ;Saprissa           ;2-1; Comunicaciones
 ;Juventud Olímpica  ;0-0; Saprissa
 ;Herediano          ;2-2; Cementos Novella
@@ -118,38 +118,38 @@ Season: 1973
 
 ;Juventud Olímpica  ;0-2; Municipal
 ;Comunicaciones     ;1-0; Alajuelense
-;Saprissa           ;1-2; Águila
-;Águila             ;1-1; Comunicaciones
+;Saprissa           ;1-2; Aguila
+;Aguila             ;1-1; Comunicaciones
 ;Municipal          ;1-1; Saprissa
 ;Alajuelense        ;2-1; Juventud Olímpica
 ;Municipal          ;1-0; Comunicaciones
 ;Juventud Olímpica  ;1-3; Saprissa
-;Alajuelense        ;0-0; Águila
+;Alajuelense        ;0-0; Aguila
 ;Comunicaciones     ;0-1; Juventud Olímpica
-;Águila             ;1-0; Municipal
+;Aguila             ;1-0; Municipal
 ;Saprissa           ;0-1; Alajuelense
 ;Municipal          ;1-2; Alajuelense
 ;Saprissa           ;3-2; Comunicaciones
-;Juventud Olímpica  ;3-1; Águila
+;Juventud Olímpica  ;3-1; Aguila
 
 ;Alajuelense        ;1-0; Comunicaciones
-;Águila             ;2-0; Saprissa
+;Aguila             ;2-0; Saprissa
 ;Municipal          ;1-2; Juventud Olímpica
-;Comunicaciones     ;2-0; Águila
+;Comunicaciones     ;2-0; Aguila
 ;Saprissa           ;1-0; Municipal
 ;Juventud Olímpica  ;1-0; Alajuelense
 ;Comunicaciones     ;3-1; Municipal
-;Águila             ;1-1; Alajuelense
+;Aguila             ;1-1; Alajuelense
 ;Saprissa           ;5-2; Juventud Olímpica
-;Municipal          ;0-2; Águila
+;Municipal          ;0-2; Aguila
 ;Juventud Olímpica  ;1-2; Comunicaciones
 ;Saprissa           ;5-1; Alajuelense
 ;Alajuelense        ;1-0; Municipal
 ;Comunicaciones     ;2-3; Saprissa
-;Águila             ;2-0; Juventud Olímpica
+;Aguila             ;2-0; Juventud Olímpica
 
 * 1.Saprissa            10   6  1  3  22-14  13
-* 2.Águila              10   5  3  2  12- 8  13
+* 2.Aguila              10   5  3  2  12- 8  13
 * 3.Alajuelense         10   5  2  3   9-10  12
 * 4.Comunicaciones      10   4  1  5  13-12   9
 * 5.Juventud Olímpica   10   4  0  6  12-18   8
@@ -157,9 +157,9 @@ Season: 1973
 
 Round: Final
 
-;Águila             ;2-0; Saprissa
-;Saprissa           ;3-1; Águila
-;Saprissa           ;2-1; Águila
+;Aguila             ;2-0; Saprissa
+;Saprissa           ;3-1; Aguila
+;Saprissa           ;2-1; Aguila
 
 Season: 1974
 
@@ -167,34 +167,34 @@ Season: 1974
 
 ;Municipal          ;2-0; Alianza
 ;Saprissa           ;3-1; Aurora
-;Águila             ;1-0; Cartaginés
-;Aurora             ;1-0; Águila
-;Cartaginés         ;1-1; Municipal
+;Aguila             ;1-0; Cartagines
+;Aurora             ;1-0; Aguila
+;Cartagines         ;1-1; Municipal
 ;Alianza            ;0-1; Saprissa
-;Águila             ;1-1; Saprissa
-;Cartaginés         ;1-1; Alianza
-;Cartaginés         ;0-0; Saprissa
-;Municipal          ;3-2; Águila
+;Aguila             ;1-1; Saprissa
+;Cartagines         ;1-1; Alianza
+;Cartagines         ;0-0; Saprissa
+;Municipal          ;3-2; Aguila
 ;Alianza            ;0-0; Aurora
 ;Saprissa           ;3-0; Municipal
-;Aurora             ;2-0; Cartaginés
-;Águila             ;2-0; Alianza
+;Aurora             ;2-0; Cartagines
+;Aguila             ;2-0; Alianza
 ;Municipal          ;2-1; Aurora
 
 ;Aurora             ;0-1; Saprissa
 ;Alianza            ;0-0; Municipal
-;Cartaginés         ;0-2; Águila
-;Municipal          ;2-1; Cartaginés
-;Águila             ;0-2; Aurora
+;Cartagines         ;0-2; Aguila
+;Municipal          ;2-1; Cartagines
+;Aguila             ;0-2; Aurora
 ;Saprissa           ;1-1; Alianza
 ;Aurora             ;1-2; Municipal
-;Águila             ;0-1; Municipal
-;Cartaginés         ;1-2; Saprissa
+;Aguila             ;0-1; Municipal
+;Cartagines         ;1-2; Saprissa
 ;Aurora             ;1-1; Alianza
-;Cartaginés         ;2-1; Aurora
-;Saprissa           ;2-0; Águila
-;Alianza            ;3-0; Cartaginés
-;Alianza            ;1-2; Águila
+;Cartagines         ;2-1; Aurora
+;Saprissa           ;2-0; Aguila
+;Alianza            ;3-0; Cartagines
+;Alianza            ;1-2; Aguila
 ;Municipal          ;1-0; Saprissa
 
 
@@ -238,48 +238,48 @@ Season: 1976
 
 
 ;Aurora             ;2-2; Alianza
-;Águila             ;1-1; Cartaginés
+;Aguila             ;1-1; Cartagines
 ;Saprissa           ;1-0; Comunicaciones
 ;Platense           ;0-2; Aurora
-;Águila             ;1-3; Aurora
-;Saprissa           ;1-1; Cartaginés
+;Aguila             ;1-3; Aurora
+;Saprissa           ;1-1; Cartagines
 ;Comunicaciones     ;3-0; Alianza
-;Águila             ;2-3; Platense
+;Aguila             ;2-3; Platense
 ;Platense           ;3-1; Alianza
-;Comunicaciones     ;4-1; Águila
-;Cartaginés         ;0-3; Aurora
+;Comunicaciones     ;4-1; Aguila
+;Cartagines         ;0-3; Aurora
 ;Alianza            ;2-1; Saprissa
 ;Comunicaciones     ;1-1; Platense
-;Saprissa           ;0-2; Águila
+;Saprissa           ;0-2; Aguila
 ;Saprissa           ;5-1; Platense
 ;Aurora             ;5-2; Comunicaciones
-;Alianza            ;0-0; Cartaginés
+;Alianza            ;0-0; Cartagines
 ;Aurora             ;2-2; Saprissa
-;Cartaginés         ;1-2; Comunicaciones
-;Alianza            ;2-2; Águila
-;Platense           ;0-0; Cartaginés
+;Cartagines         ;1-2; Comunicaciones
+;Alianza            ;2-2; Aguila
+;Platense           ;0-0; Cartagines
 
 ;Alianza            ;0-0; Aurora
-;Cartaginés         ;0-0; Águila
+;Cartagines         ;0-0; Aguila
 ;Comunicaciones     ;0-0; Saprissa
-;Aurora             ;0-0; Águila
+;Aurora             ;0-0; Aguila
 ;Alianza            ;0-2; Comunicaciones
-;Cartaginés         ;0-0; Saprissa
-;Platense           ;0-1; Águila
+;Cartagines         ;0-0; Saprissa
+;Platense           ;0-1; Aguila
 ;Alianza            ;4-0; Platense
-;Comunicaciones     ;0-0; Cartaginés
+;Comunicaciones     ;0-0; Cartagines
 ;Saprissa           ;2-0; Aurora
-;Águila             ;2-1; Alianza
-;Cartaginés         ;2-2; Platense
-;Águila             ;3-0; Saprissa
+;Aguila             ;2-1; Alianza
+;Cartagines         ;2-2; Platense
+;Aguila             ;3-0; Saprissa
 ;Saprissa           ;2-1; Platense
 ;Aurora             ;0-0; Comunicaciones
-;Cartaginés         ;3-0; Alianza
-;Aurora             ;2-1; Cartaginés
+;Cartagines         ;3-0; Alianza
+;Aurora             ;2-1; Cartagines
 ;Platense           ;0-2; Comunicaciones
 ;Saprissa           ;3-1; Alianza
 ;Aurora             ;3-0; Platense
-;Águila             ;0-2; Comunicaciones
+;Aguila             ;0-2; Comunicaciones
 
 Season: 1977
 
@@ -297,36 +297,36 @@ Season: 1977
 ;Saprissa           ;0-1; Once Municipal
 ;Municipal          ;2-2; Comunicaciones
 ;Municipal          ;1-0; Once Municipal
-;Dep. México        ;1-0; Águila
+;Dep. México        ;1-0; Aguila
 ;Once Municipal     ;2-3; Aurora
-;Saprissa           ;0-0; Águila
-;Comunicaciones     ;3-1; Águila
-;Aurora             ;1-0; Águila
-;Águila             ;1-0; Once Municipal
+;Saprissa           ;0-0; Aguila
+;Comunicaciones     ;3-1; Aguila
+;Aurora             ;1-0; Aguila
+;Aguila             ;1-0; Once Municipal
 ;Comunicaciones     ;4-0; Once Municipal
-;Municipal          ;2-1; Águila
+;Municipal          ;2-1; Aguila
 
 ;Once Municipal     ;1-3; Dep. México
 ;Aurora             ;0-2; Comunicaciones
-;Once Municipal     ;3-6; Águila
+;Once Municipal     ;3-6; Aguila
 ;Comunicaciones     ;1-2; Municipal
 ;Aurora             ;0-0; Saprissa
 ;Once Municipal     ;1-3; Municipal
-;Águila             ;2-1; Aurora
+;Aguila             ;2-1; Aurora
 ;Dep. México        ;1-4; Saprissa
 ;Municipal          ;1-0; Dep. México
 ;Comunicaciones     ;1-1; Saprissa
-;Águila             ;2-1; Dep. México
+;Aguila             ;2-1; Dep. México
 ;Dep. México        ;2-2; Comunicaciones
 ;Aurora             ;1-1; Municipal
-;Águila             ;3-0; Saprissa
+;Aguila             ;3-0; Saprissa
 ;Once Municipal     ;2-2; Saprissa
 ;Saprissa           ;1-1; Municipal
 ;Aurora             ;3-1; Once Municipal
-;Águila             ;2-2; Comunicaciones
+;Aguila             ;2-2; Comunicaciones
 ;Once Municipal     ;2-2; Comunicaciones
 ;Dep. México        ;1-0; Aurora
-;Águila             ;2-1; Municipal
+;Aguila             ;2-1; Municipal
 
 
 *VIII Copa Fraternidad 1978
@@ -345,27 +345,27 @@ Round: First Round
 ;Dep. México        ;1-1; Municipal          
 * [3-1 pen]
 
-;Cartaginés         ;1-0; Juventud Olímpica  
-;Juventud Olímpica  ;1-0; Cartaginés         
+;Cartagines         ;1-0; Juventud Olímpica  
+;Juventud Olímpica  ;1-0; Cartagines         
 * [4-5 pen]
 
 ;Once Municipal     ;1-2; Tiquisate          
 ;Tiquisate          ;0-0; Once Municipal  
 
-;Atlético Marte     ;0-2; Comunicaciones     
-;Comunicaciones     ;1-0; Atlético Marte 
+;Atletico Marte     ;0-2; Comunicaciones     
+;Comunicaciones     ;1-0; Atletico Marte 
 
 Round: Second Round
 
-* apparently Saprissa, Cartaginés and Comunicaciones eliminated Deportivo FAS, Dep. México and Tiquisate in a semifinal round.
+* apparently Saprissa, Cartagines and Comunicaciones eliminated Deportivo FAS, Dep. México and Tiquisate in a semifinal round.
     
 Round: Triangular Final            
 
 ;Comunicaciones     ;0-0; Saprissa           
-;Cartaginés         ;0-1; Saprissa           
+;Cartagines         ;0-1; Saprissa           
 ;Saprissa           ;4-1; Comunicaciones     
-;Cartaginés         ;2-1; Comunicaciones     
-;Saprissa           ;1-0; Cartaginés         
+;Cartagines         ;2-1; Comunicaciones     
+;Saprissa           ;1-0; Cartagines         
 ;Comunicaciones     ;2-1; Saprissa           
 
 Season: 1979
@@ -411,58 +411,58 @@ Round: Playoff
 
 Group: Group 2
 
-;Comunicaciones     ;1-0; Cobán
-;Atlético Marte     ;2-2; Deportivo FAS
-;Broncos            ;2-1; Real España
+;Comunicaciones     ;1-0; Coban Imperial
+;Atletico Marte     ;2-2; Deportivo FAS
+;CD Broncos            ;2-1; Real CD Espana
 ;Deportivo FAS      ;0-0; Comunicaciones
-;Atlético Marte     ;5-1; Cobán
-;Atlético Marte     ;3-2; Comunicaciones
-;Deportivo FAS      ;0-0; Cobán
-;Cobán              ;2-3; Real España
-;Comunicaciones     ;0-0; Broncos
-;Comunicaciones     ;2-3; Real España
-;Cobán              ;1-3; Broncos
-;Atlético Marte     ;5-3; Real España
-;Deportivo FAS      ;1-3; Broncos
-;Deportivo FAS      ;0-2; Real España
-;Atlético Marte     ;2-0; Broncos
+;Atletico Marte     ;5-1; Coban Imperial
+;Atletico Marte     ;3-2; Comunicaciones
+;Deportivo FAS      ;0-0; Coban Imperial
+;Coban Imperial              ;2-3; Real CD Espana
+;Comunicaciones     ;0-0; CD Broncos
+;Comunicaciones     ;2-3; Real CD Espana
+;Coban Imperial              ;1-3; CD Broncos
+;Atletico Marte     ;5-3; Real CD Espana
+;Deportivo FAS      ;1-3; CD Broncos
+;Deportivo FAS      ;0-2; Real CD Espana
+;Atletico Marte     ;2-0; CD Broncos
 
-;Real España        ;1-0; Broncos
-;Deportivo FAS      ;2-1; Atlético Marte
-;Cobán              ;1-0; Comunicaciones
-;Cobán              ;2-1; Atlético Marte
+;Real CD Espana        ;1-0; CD Broncos
+;Deportivo FAS      ;2-1; Atletico Marte
+;Coban Imperial              ;1-0; Comunicaciones
+;Coban Imperial              ;2-1; Atletico Marte
 ;Comunicaciones     ;2-1; Deportivo FAS
-;Cobán              ;1-1; Deportivo FAS
-;Comunicaciones     ;0-0; Atlético Marte
-;Broncos            ;1-2; Comunicaciones
-;Real España        ;2-1; Cobán
-;Real España        ;1-1; Comunicaciones
-;Broncos            ;1-2; Cobán
-;Broncos            ;0-2; Deportivo FAS
-;Real España        ;1-1; Atlético Marte
-;Real España        ;1-0; Deportivo FAS
-;Broncos            ;0-3; Atlético Marte
+;Coban Imperial              ;1-1; Deportivo FAS
+;Comunicaciones     ;0-0; Atletico Marte
+;CD Broncos            ;1-2; Comunicaciones
+;Real CD Espana        ;2-1; Coban Imperial
+;Real CD Espana        ;1-1; Comunicaciones
+;CD Broncos            ;1-2; Coban Imperial
+;CD Broncos            ;0-2; Deportivo FAS
+;Real CD Espana        ;1-1; Atletico Marte
+;Real CD Espana        ;1-0; Deportivo FAS
+;CD Broncos            ;0-3; Atletico Marte
 
 Round: Final
-;Aurora             ;1-0; Real España
-;Real España        ;0-0; Aurora
+;Aurora             ;1-0; Real CD Espana
+;Real CD Espana        ;0-0; Aurora
 
 
 Season: 1980
 
 Round: First Round 
 
-;Marathón           ;1-2; Deportivo FAS
-;Deportivo FAS      ;8-0; Marathón
+;Marathon           ;1-2; Deportivo FAS
+;Deportivo FAS      ;8-0; Marathon
 
-;Águila             ;4-3; Suchitepéquez
-;Suchitepéquez      ;1-2; Águila
+;Aguila             ;4-3; Suchitepequez
+;Suchitepequez      ;1-2; Aguila
 
 ;Santiagueño        ;2-1; Municipal
 ;Municipal          ;5-2; Santiagueño
 
-;Broncos            ;1-0; Cobán
-;Cobán              ;0-0; Broncos
+;CD Broncos            ;1-0; Coban Imperial
+;Coban Imperial              ;0-0; CD Broncos
 
 ;Universidad        ;1-1; Alianza
 * Alianza            unk Universidad        
@@ -476,17 +476,17 @@ Round: Second Round
 ;Comunicaciones     ;2-1; Deportivo FAS
 ;Deportivo FAS      ;3-0; Comunicaciones
 
-;Broncos            ;2-1; Municipal
-;Municipal          ;2-2; Broncos
+;CD Broncos            ;2-1; Municipal
+;Municipal          ;2-2; CD Broncos
 
-;Águila             ;2-3; Alianza
-;Alianza            ;4-0; Águila
+;Aguila             ;2-3; Alianza
+;Alianza            ;4-0; Aguila
 
 Round: Triangular Final 
         
-;Deportivo FAS      ;0-0; Broncos
-;Broncos            ;1-0; Alianza
-* other results not known; winners: Broncos
+;Deportivo FAS      ;0-0; CD Broncos
+;CD Broncos            ;1-0; Alianza
+* other results not known; winners: CD Broncos
 
 Season: 1981
 
@@ -496,36 +496,36 @@ Round: First Round
 ;Retalteca          ;1-0; Vida
 ;Vida               ;3-1; Retalteca
 
-;Real España        ;1-0; Alianza
-;Alianza            ;0-1; Real España
+;Real CD Espana        ;1-0; Alianza
+;Alianza            ;0-1; Real CD Espana
 
-;Atlético Marte     ;0-2; Comunicaciones
-;Comunicaciones     ;0-0; Atlético Marte
+;Atletico Marte     ;0-2; Comunicaciones
+;Comunicaciones     ;0-0; Atletico Marte
 
-;Santiagueño        ;2-2; Suchitepéquez
-;Suchitepéquez      ;3-2; Santiagueño
+;Santiagueño        ;2-2; Suchitepequez
+;Suchitepequez      ;3-2; Santiagueño
 
-;Olimpia            ;1-0; Xelajú
-;Xelajú             ;1-1; Olimpia
+;Olimpia            ;1-0; Xelaju
+;Xelaju             ;1-1; Olimpia
 
-;Marathón           ;2-1; Águila
-;Águila             ;0-5; Marathón
+;Marathon           ;2-1; Aguila
+;Aguila             ;0-5; Marathon
 
 Round: Second Round
 
-;Real España        ;1-0; Suchitepéquez
-;Suchitepéquez      ;1-2; Real España
+;Real CD Espana        ;1-0; Suchitepequez
+;Suchitepequez      ;1-2; Real CD Espana
 
 ;Olimpia            ;1-1; Comunicaciones
 ;Comunicaciones     ;0-1; Olimpia
 
-* Vida               unk Marathón           
-* Marathón           unk Vida               
-* Marathón qualified
+* Vida               unk Marathon           
+* Marathon           unk Vida               
+* Marathon qualified
 
 Round: Triangular Final
 
-* played between Real España, Olimpia and Marathón; results unknown;
+* played between Real CD Espana, Olimpia and Marathon; results unknown;
 * Olimpia reportedly winners
 
 Season: 1982
@@ -539,23 +539,23 @@ Round: First Round
 ;Vida               ;2-1; Independiente
 ;Independiente      ;0-1; Vida
 
-;Xelajú             ;2-0; Marathón
-;Marathón           ;1-1; Xelajú
+;Xelaju             ;2-0; Marathon
+;Marathon           ;1-1; Xelaju
 
-;Real España        ;1-2; Comunicaciones
-;Comunicaciones     ;0-2; Real España
+;Real CD Espana        ;1-2; Comunicaciones
+;Comunicaciones     ;0-2; Real CD Espana
 
 Round: Second Round
 
-;Real España        ;3-0; Deportivo FAS
-;Deportivo FAS      ;1-0; Real España
+;Real CD Espana        ;3-0; Deportivo FAS
+;Deportivo FAS      ;1-0; Real CD Espana
 
-;Vida               ;0-0; Xelajú
-;Xelajú             ;2-0; Vida
+;Vida               ;0-0; Xelaju
+;Xelaju             ;2-0; Vida
 
 Round: Final   
-;Real España        ;2-1; Xelajú
-;Xelajú             ;0-0; Real España
+;Real CD Espana        ;2-1; Xelaju
+;Xelaju             ;0-0; Real CD Espana
 
 Season: 1983
 
@@ -563,8 +563,8 @@ Season: 1983
 Group: Group 1
       
 ;Comunicaciones     ;1-0; Once Lobos
-;Suchitepéquez      ;0-0; Once Lobos
-;Comunicaciones     ;1-1; Suchitepéquez
+;Suchitepequez      ;0-0; Once Lobos
+;Comunicaciones     ;1-1; Suchitepequez
 
 
 Group: Group 2
@@ -576,19 +576,19 @@ Group: Group 2
 
 Group: Group 2
        
-;Atlético Marte     ;1-1; Herediano
+;Atletico Marte     ;1-1; Herediano
 
-* ; Águila; W-L; Atlético Marte     
+* ; Aguila; W-L; Atletico Marte     
 * inferred
 
-;Águila             ;1-1; Herediano
-* Águila won group
+;Aguila             ;1-1; Herediano
+* Aguila won group
 
 Round: Triangular Final         
 
 ;Aurora             ;1-1; Comunicaciones
-;Aurora             ;4-1; Águila
-;Comunicaciones     ;7-1; Águila  
+;Aurora             ;4-1; Aguila
+;Comunicaciones     ;7-1; Aguila  
            
 
 Round: First Place Playoff    
@@ -606,20 +606,20 @@ Group: Group 1
        
 Group: Group 2
        
-;Suchitepéquez      ;2-0; Finanzas Industriales
+;Suchitepequez      ;2-0; Finanzas Industriales
 ;Deportivo FAS      ;2-1; Finanzas Industriales
-;Suchitepéquez      ;2-2; Deportivo FAS
+;Suchitepequez      ;2-2; Deportivo FAS
 
-* Suchitepéquez winners, possibly after playoff
+* Suchitepequez winners, possibly after playoff
 
 Group: Group 3
 
-;Águila             ;0-1; Aurora
-;Aurora             ;2-0; Águila
+;Aguila             ;0-1; Aurora
+;Aurora             ;2-0; Aguila
 
 Round: Triangular Final     
 
-* To be played between Independiente, Suchitepéquez and Aurora;tournament not finished.
+* To be played between Independiente, Suchitepequez and Aurora;tournament not finished.
 
 
 

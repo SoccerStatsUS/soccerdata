@@ -62,8 +62,8 @@ Group: Group 2
 3/12/2013; Sporting Cristal; 1-1; Libertad; Estadio Alberto Gallardo; Roberto Silvera
 4/2/2013; Palmeiras; 2-0; Tigre; Estadio do Pacaembu; Patricio Polic
 
-4/9/2013; Tigre; v; Sporting Cristal; Estadio Jose Dellagiovanna
-4/11/2013; Palmeiras; v; Libertad; Estadio do Pacaembu
+4/9/2013; Tigre; 3-1; Sporting Cristal; Estadio Jose Dellagiovanna; Oscar Maldonado
+4/11/2013; Palmeiras; 1-0; Libertad; Estadio do Pacaembu; Daniel Fedorzuck
 
 4/18/2013; Libertad; v; Tigre; Estadio Dr. Nicolas Leoz
 4/18/2013; Sporting Cristal; v; Palmeiras; Estadio Alberto Gallardo
@@ -107,8 +107,8 @@ Group: Group 4
 4/2/2013; Iquique; 1-3; Velez Sarsfield; Estadio Tierra de Campeones; Sandro Ricci
 4/2/2013; Emelec; 2-0; Penarol; Estadio George Capwell; Hernando Buitrago
 
-4/9/2013; Penarol; v; Iquique; Estadio Centenario
-4/9/2013; Velez Sarsfield; v; Emelec; Estadio Jose Amalfitani
+4/9/2013; Penarol; 3-0; Iquique; Estadio Centenario; Julio Quintana
+4/9/2013; Velez Sarsfield; 0-0; Emelec; Estadio Jose Amalfitani; Marcelo Henrique
 
 
 Group: Group 5
@@ -128,8 +128,8 @@ Group: Group 5
 4/3/2013; CD San Jose; 1-1; Tijuana; Estadio Jesus Bermudez; Diego Ceballos
 4/3/2013; Millonarios; 0-1; Corinthians; Estadio El Campin; Saul Laverni
 
-4/10/2013; Corinthians; v; CD San Jose; Estadio do Pacaembu
-4/10/2013; Tijuana; v; Corinthians; Estadio Caliente
+4/10/2013; Corinthians; 3-0; CD San Jose; Estadio do Pacaembu; Mauro Vigliano
+4/10/2013; Tijuana; 1-0; Corinthians; Estadio Caliente; Carlos Amarilla
 
 Group: Group 6
 
@@ -145,8 +145,8 @@ Group: Group 6
 4/2/2013; Real Garcilaso; 0-3; Deportes Tolima; Estadio Garcilaso; Omar Ponce
 4/2/2013; CD Santa Fe; 1-0; Cerro Porteno; Estadio El Campin; Juan Soto
 
-4/9/2013; Deportes Tolima; v; CD Santa Fe; Estadio Manuel Murillo Toro
-4/10/2013; Real Garcilaso; v; Cerro Porteno; Estadio Garcilaso
+4/9/2013; Deportes Tolima; 1-2; CD Santa Fe; Estadio Manuel Murillo Toro; Imer Machado
+4/10/2013; Real Garcilaso; 5-1; Cerro Porteno; Estadio Garcilaso; Roberto Silvera
 
 4/16/2013; Cerro Porteno; v; Deportes Tolima; Estadio General Pablo Rojas
 4/16/2013; CD Santa Fe; v; Real Garcilaso; Estadio El Campin
@@ -169,8 +169,8 @@ Group: Group 7
 4/4/2013; Newell's Old Boys; 3-1; Deportivo Lara; Estadio Marcelo Bielsa; Raul Orosco
 4/4/2013; Universidad de Chile; 0-1; Olimpia (Paraguay); Estadio Nacional Julio Martinez; Roberto Silvera
 
-4/11/2013; Deportivo Lara; v; Universidad de Chile; Estadio Metropolitano de Futbol de Lara
-4/11/2013; Olimpia (Paraguay); v; Newell's Old Boys; Estadio Defensores Del Chaco
+4/11/2013; Deportivo Lara; 2-3; Universidad de Chile; Estadio Metropolitano de Futbol de Lara; Diego Lara
+4/11/2013; Olimpia (Paraguay); 4-1; Newell's Old Boys; Estadio Defensores Del Chaco; Hernando Buitrago
 
 
 Group: Group 8
@@ -188,7 +188,7 @@ Group: Group 8
 3/12/2013; Caracas FC; 2-1; Gremio; Estadio Olimpico (Caracas FC); Oscar Maldonado; 7000
 
 4/3/2013; Caracas FC; 0-4; Huachipato; Estadio Olimpico (Caracas FC); Henry Gambetta
-4/10/2013; Gremio; v; Fluminense; Arena do Gremio
+4/10/2013; Gremio; 0-0; Fluminense; Arena do Gremio; Ricardo Marques
 
 4/18/2013; Huachipato; v; Gremio; Estadio CAP
 4/18/2013; Fluminense; v; Caracas FC; Estadio Olimpico Joao Havelange

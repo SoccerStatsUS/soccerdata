@@ -84,6 +84,11 @@ l = [
         },
 
     {
+        'name': 'Atletico Morazan',
+        'city': 'Tegucigalpa, Honduras',
+        },
+
+    {
         'name': 'Real Sociedad (Tocoa)',
         'city': 'Tocoa, Honduras',
         },

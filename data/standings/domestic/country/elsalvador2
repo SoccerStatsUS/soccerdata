@@ -1,6 +1,271 @@
 Competition: Salvadoran Primera División
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
 
+BlockSource: http://www.rsssf.com/tablese/elsal99.html
+
+Season: 1998 Apertura
+
+
+Season: 1999 Clausura
+
+ 1; CD FAS                ; 18;  9;  6;  3; 28; 16; 33
+ 2; Arabe Marte           ; 18;  8;  7;  3; 30; 23; 31
+ 3; Luis Angel Firpo      ; 18;  8;  6;  4; 25; 18; 30
+ 4; CD Aguila             ; 18;  7;  6;  5; 18; 13; 27
+ 5; Municipal Limeño      ; 18;  5;  8;  5; 27; 27; 23
+ 6; Alianza FC            ; 18;  4; 10;  4; 24; 20; 22
+ 7; CD Dragon             ; 18;  3; 10;  5; 16; 20; 19
+ 8; AD El Tránsito        ; 18;  5;  4;  9; 22; 28; 19
+ 9; Santa Clara           ; 18;  5;  4;  9; 21; 35; 19
+10; Sonsonate             ; 18;  3;  5; 10; 24; 35; 14
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal00.html
+
+Season: 1999 Apertura
+
+ 1; Municipal Limeño      ; 18; 10;  5;  3; 23; 12; 35
+ 2; CD Aguila             ; 18;  9;  6;  3; 32; 12; 33
+ 3; CD FAS                ; 18;  9;  3;  6; 29; 14; 30
+ 4; Alianza FC            ; 18;  8;  6;  4; 19; 11; 30
+ 5; Luis Angel Firpo      ; 18;  7;  5;  6; 21; 16; 26
+ 6; AD El Transito        ; 18;  6;  6;  6; 20; 19; 24
+ 7; CD Dragon             ; 18;  5;  6;  7; 18; 20; 21
+ 8; Santa Clara           ; 18;  6;  2; 10; 18; 29; 20
+ 9; Atletico Marte        ; 18;  3;  8;  7; 17; 25; 17
+10; Juventud Olimpica     ; 18;  2;  3; 13;  8; 47;  9
+
+
+Season: 2000 Clausura
+
+ 1; Municipal Limeno      ; 18; 10;  5;  3; 23; 12; 35
+ 2; CD Aguila             ; 18;  9;  6;  3; 32; 12; 33
+ 3; CD FAS                ; 18;  9;  3;  6; 29; 14; 30
+ 4; Alianza FC            ; 18;  8;  6;  4; 19; 11; 30
+ 5; Luis Angel Firpo      ; 18;  7;  5;  6; 21; 16; 26
+ 6; AD El Transito        ; 18;  6;  6;  6; 20; 19; 24
+ 7; CD Dragon             ; 18;  5;  6;  7; 18; 20; 21
+ 8; Santa Clara           ; 18;  6;  2; 10; 18; 29; 20
+ 9; Atletico Marte        ; 18;  3;  8;  7; 17; 25; 17
+10; Juventud Olimpica     ; 18;  2;  3; 13;  8; 47;  9
+
+
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal01.html
+
+Season: 2000 Apertura
+
+ 1; Municipal Limeno      ; 18; 12;  4;  2; 43; 13; 40
+ 2; Luis Angel Firpo      ; 18; 10;  6;  2; 42; 19; 36
+ 3; CD Aguila             ; 18;  9;  4;  5; 34; 28; 31
+ 4; Atlético Balboa       ; 18;  8;  5;  5; 31; 26; 29
+ 5; CD Dragón             ; 18;  6;  7;  5; 32; 29; 25
+ 6; Alianza FC            ; 18;  4;  9;  5; 25; 25; 21
+ 7; AD El Tránsito        ; 18;  4;  7;  7; 23; 24; 19
+ 8; CD FAS                ; 18;  3;  8;  7; 15; 21; 17
+ 9; Atletico Marte        ; 18;  3;  6;  9; 28; 48; 15 
+10; Santa Clara           ; 18;  1;  4; 13; 13; 53;  7
+
+
+
+Season: 2001 Clausura
+
+ 1; CD FAS                ; 18;  9;  5;  4; 31; 14; 32
+ 2; CD Aguila             ; 18;  9;  5;  4; 28; 23; 32
+ 3; Municipal Limeno      ; 18;  9;  3;  6; 31; 22; 30
+ 4; Luis Angel Firpo      ; 18;  6;  7;  5; 21; 15; 25
+ 5; Atlético Balboa       ; 18;  6;  6;  6; 28; 27; 24
+ 6; Atletico Marte        ; 18;  6;  5;  7; 29; 33; 23
+ 7; Alianza FC            ; 18;  6;  5;  7; 26; 32; 23
+ 8; CD Dragón             ; 18;  4;  7;  7; 17; 28; 19
+ 9; AD El Tránsito        ; 18;  4;  6;  8; 23; 27; 18
+10; San Luis              ; 18;  4;  5;  9; 13; 26; 17
+
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal02.html
+
+Season: 2001 Apertura
+
+ 1; Alianza FC            ; 18; 12;  4;  2; 42; 23; 40
+ 2; Luis Angel Firpo      ; 18;  9;  6;  3; 36; 21; 33
+ 3; CD Aguila             ; 18;  9;  5;  4; 49; 26; 32 
+ 4; Municipal Limeno      ; 18;  8;  6;  4; 28; 21; 30 
+ 5; CD FAS                ; 18;  7;  8;  3; 30; 15; 29    
+ 6; CD Isidro (Metapan)   ; 18;  7;  5;  6; 29; 27; 26 
+ 7; Atlético Balboa       ; 18;  5;  3; 10; 19; 32; 18  
+ 8; CD Dragón             ; 18;  4;  3; 11; 18; 34; 15
+ 9; AD El Tránsito        ; 18;  4;  2; 12; 22; 49; 14 
+10; Atletico Marte        ; 18;  1;  6; 11; 16; 41;  9  
+
+
+Season: 2002 Clausura
+
+ 1; CD Aguila             ; 18; 11;  5;  2; 47; 20; 38
+ 2; Alianza FC            ; 18;  9;  3;  6; 38; 24; 30
+ 3; Municipal Limeno      ; 18;  8;  6;  4; 24; 16; 30
+ 4; CD Isidro (Metapan)   ; 18;  8;  5;  5; 30; 16; 29
+ 5; CD FAS                ; 18;  7;  8;  3; 29; 18; 29
+ 6; Luis Angel Firpo      ; 18;  8;  5;  5; 22; 22; 29
+ 7; Atlético Balboa       ; 18;  5;  7;  6; 19; 24; 22
+ 8; San Salvador FC       ; 18;  3;  5; 10; 23; 37; 14
+ 9; CD Dragón             ; 18;  3;  3; 12; 22; 44; 12
+10; Atletico Marte        ; 18;  2;  5; 11; 13; 45;  7
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal03.html
+
+Season: 2002 Apertura
+
+ 1; CD FAS                ; 18; 10;  5;  3; 24; 20; 35
+ 2; Municipal Limeno      ; 18;  9;  4;  5; 33; 19; 31
+ 3; San Salvador FC       ; 18;  7;  7;  4; 28; 21; 28
+ 4; CD Aguila             ; 18;  6;  9;  3; 26; 20; 27
+ 5; Luis Angel Firpo      ; 18;  7;  6;  5; 23; 24; 27
+ 6; CD Isidro Metapán     ; 18;  5;  6;  7; 22; 24; 21  
+ 7; CD Arcense            ; 18;  5;  6;  7; 15; 17; 21
+ 8; Atlético Balboa       ; 18;  4;  5;  9; 21; 31; 17
+ 9; Alianza FC            ; 18;  3;  7;  8; 17; 22; 16
+10; CD Dragón             ; 18;  3;  7;  8; 20; 31; 16
+
+
+Season: 2003 Clausura
+
+ 1; CD FAS                ; 18; 13;  5;  0; 35; 12; 44
+ 2; San Salvador FC       ; 18;  7;  7;  4; 29; 26; 28
+ 3; Alianza FC            ; 18;  6; 10;  2; 23; 20; 28
+ 4; Luis Angel Firpo      ; 18;  7;  6;  5; 25; 21; 27
+ 5; CD Isidro Metapán     ; 18;  6;  8;  4; 24; 18; 26
+ 6; Municipal Limeno      ; 18;  6;  6;  6; 34; 27; 24
+ 7; CD Aguila             ; 18;  6;  4;  8; 28; 27; 22
+ 8; Atlético Balboa       ; 18;  3;  9;  6; 15; 28; 18
+ 9; CD Arcense            ; 18;  1;  8;  9; 10; 19; 11
+10; CD Dragón             ; 18;  1;  5; 12; 18; 43;  8
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal04.html
+
+Season: 2003 Apertura
+
+ 1; CD FAS                 ; 18; 10;  6;  2; 27; 13; 36
+ 2; CD Aguila              ; 18;  9;  4;  5; 38; 26; 31
+ 3; Luis Angel Firpo       ; 18;  7;  7;  4; 25; 18; 28
+ 4; San Salvador FC        ; 18;  8;  4;  6; 31; 27; 28
+ 5; Alianza FC             ; 18;  8;  4;  6; 26; 24; 28
+ 6; CD Isidro-Metapan      ; 18;  4;  9;  5; 20; 23; 21
+ 7; Municipal Limeno       ; 18;  5;  5;  8; 27; 29; 20
+ 8; CD Arcense             ; 18;  2; 11;  5; 23; 32; 17
+ 9; CD Chalatenango        ; 18;  4;  5;  9; 13; 22; 17
+10; Atlético Balboa        ; 18;  4;  3; 11; 15; 31; 15
+
+
+Season: 2004 Clausura
+
+ 1; CD FAS                 ; 18;  9;  8;  1; 34; 16; 35
+ 2; Luis Angel Firpo       ; 18;  9;  4;  5; 27; 19; 31
+ 3; Alianza FC             ; 18;  8;  5;  5; 31; 21; 29
+ 4; CD Aguila              ; 18;  8;  4;  6; 27; 30; 28
+ 5; Atlético Balboa        ; 18;  8;  2;  8; 32; 27; 26
+ 6; CD Isidro-Metapan      ; 18;  6;  6;  6; 20; 25; 24
+ 7; Municipal Limeno       ; 18;  5;  6;  7; 17; 19; 21
+ 8; CD Chalatenango        ; 18;  4;  9;  5; 20; 23; 21
+ 9; CD Arcense             ; 18;  4;  6;  8; 16; 23; 18
+10; San Salvador FC        ; 18;  2;  4; 12; 18; 39; 10
+
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal05.html
+
+Season: 2004 Apertura
+
+ 1; CD FAS                 ; 18;  9;  5;  4; 26; 19; 32
+ 2; San Salvador FC        ; 18;  9;  5;  4; 30; 33; 32
+ 3; Atlético Balboa        ; 18;  7;  9;  2; 26; 13; 30
+ 4; Luis Angel Firpo       ; 18;  7;  8;  3; 26; 13; 29
+ 5; CD Isidro-Metapan      ; 18;  8;  5;  5; 25; 24; 29
+ 6; CD Aguila              ; 18;  5;  8;  5; 24; 20; 23
+ 7; Alianza FC             ; 18;  6;  3;  9; 19; 25; 21
+ 8; Once Lobos             ; 18;  4;  7;  7; 22; 21; 19
+ 9; Once Municipal         ; 18;  5;  4;  9; 15; 26; 19
+10; Municipal Limeno       ; 18;  0;  6; 12; 12; 31;  6
+
+
+Season: 2005 Clausura
+
+ 1; CD FAS                 ; 18; 10;  5;  3; 30; 19; 35
+ 2; Municipal Limeno       ; 18;  8;  6;  4; 25; 19; 30
+ 3; Luis Angel Firpo       ; 18;  8;  5;  5; 29; 21; 29
+ 4; Alianza FC             ; 18;  7;  7;  4; 25; 17; 28
+ 5; Once Municipal         ; 18;  8;  3;  7; 19; 24; 27
+ 6; CD Isidro-Metapan      ; 18;  6;  4;  8; 20; 25; 22
+ 7; Atlético Balboa        ; 18;  5;  6;  7; 22; 21; 21
+ 8; CD Aguila              ; 18;  5;  5;  8; 24; 27; 20
+ 9; San Salvador FC        ; 18;  5;  5;  8; 24; 32; 20
+10; Once Lobos             ; 18;  2;  6; 10; 22; 35; 12
+
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal06.html
+
+Season: 2005 Apertura
+
+ 1; CD Isidro-Metapan      ; 18; 10;  6;  2; 25; 13; 36
+ 2; Vista Hermosa          ; 18; 10;  1;  7; 28; 26; 31
+ 3; Luis Angel Firpo       ; 18;  7;  6;  5; 27; 17; 27
+ 4; Once Municipal         ; 18;  7;  5;  6; 25; 20; 26
+ 5; San Salvador FC        ; 18;  6;  6;  6; 22; 26; 24
+ 6; CD Aguila              ; 18;  5;  8;  5; 23; 17; 23
+ 7; CD FAS                 ; 18;  5;  7;  6; 21; 21; 22
+ 8; Alianza FC             ; 18;  5;  5;  8; 20; 27; 20
+ 9; CD Chalatenango        ; 18;  5;  5;  8; 15; 29; 20
+10; Atlético Balboa        ; 18;  3;  5; 10; 26; 36; 14
+
+
+Season: 2006 Clausura
+
+ 1; CD Aguila              ; 18;  9;  5;  4; 24; 19; 32
+ 2; CD FAS                 ; 18;  6;  8;  4; 26; 17; 26
+ 3; Vista Hermosa          ; 18;  8;  2;  8; 27; 22; 26
+ 4; CD Isidro-Metapan      ; 18;  7;  5;  6; 21; 22; 26
+ 5; Alianza FC             ; 18;  7;  4;  7; 29; 26; 25
+ 6; Atlético Balboa        ; 18;  6;  5;  7; 26; 25; 23
+ 7; San Salvador FC        ; 18;  6;  5;  7; 28; 32; 23
+ 8; CD Chalatenango        ; 18;  5;  7;  6; 19; 26; 22
+ 9; Once Municipal         ; 18;  5;  6;  7; 24; 30; 21
+10; Luis Angel Firpo       ; 18;  5;  5;  8; 18; 23; 20
+
+
+
+BlockSource: http://www.rsssf.com/tablese/elsal07.html
+
+Season: 2006 Apertura
+
+ 1; CD FAS                 ; 18;  8;  7;  3; 32; 24; 31
+ 2; Once Municipal         ; 18;  7;  8;  3; 17; 12; 28
+ 3; CD Aguila              ; 18;  8;  3;  7; 35; 22; 27
+ 4; Luis Angel Firpo       ; 18;  6;  8;  4; 25; 21; 26
+ 5; Alianza FC             ; 18;  8;  2;  8; 22; 22; 26
+ 6; San Salvador FC        ; 18;  7;  3;  8; 23; 25; 24
+ 7; CD Chalatenango        ; 18;  6;  5;  7; 17; 20; 23
+ 8; Vista Hermosa          ; 18;  5;  7;  6; 24; 26; 22
+ 9; CD Isidro-Metapan      ; 18;  6;  4;  8; 22; 26; 22
+10; Indep. Nacional 1906   ; 18;  4;  3; 11; 13; 32; 15
+
+
+Season: 2007 Clausura
+
+ 1; Luis Angel Firpo       ; 18;  9;  6;  3; 27; 19; 33
+ 2; CD Isidro-Metapan      ; 18;  8;  5;  5; 34; 27; 29
+ 3; Once Municipal         ; 18;  6;  9;  3; 17; 12; 27
+ 4; CD Aguila              ; 18;  8;  2;  8; 34; 29; 26
+ 5; CD FAS                 ; 18;  6;  6;  6; 21; 21; 24
+ 6; CD Chalatenango        ; 18;  7;  3;  8; 21; 26; 24
+ 7; San Salvador FC        ; 18;  6;  5;  7; 21; 23; 23
+ 8; Vista Hermosa          ; 18;  6;  4;  8; 23; 28; 22
+ 9; Alianza FC             ; 18;  5;  5;  8; 16; 18; 20
+10; Indep. Nacional 1906   ; 18;  4;  5;  9; 16; 27; 17
+
 
 BlockSource: http://www.rsssf.com/tablese/elsal08.html
 
@@ -73,12 +338,12 @@ Season: 2009 Apertura
  4; Vista Hermosa          ; 18;  6;  8;  4; 30; 21; 26
  4; CD Isidro Metapán      ; 18;  7;  5;  6; 21; 21; 26
  6; Atletico Marte         ; 18;  5;  9;  4; 21; 17; 24
- 7; CD Municipal Limeño    ; 18;  4;  8;  6; 18; 24; 20
+ 7; CD Municipal Limeno    ; 18;  4;  8;  6; 18; 24; 20
  8; Alianza FC             ; 18;  3;  8;  7; 18; 21; 17
  9; Nejapa FC              ; 18;  3;  5; 10; 16; 39; 14
 10; Atletico Balboa        ; 18;  2;  5; 11; 19; 40; 11
 
-* [*] Municipal Limeño bought the place of CD Chalatenango
+* [*] Municipal Limeno bought the place of CD Chalatenango
 
 
 Season: 2010 Clausura
@@ -90,7 +355,7 @@ Season: 2010 Clausura
  5; Atletico Balboa        ; 18;  6;  9;  3; 18; 17; 27
  6; Alianza FC             ; 18;  6;  6;  6; 22; 18; 24
  7; CD FAS                 ; 18;  5;  5;  8; 19; 25; 20
- 8; CD Municipal Limeño    ; 18;  3;  9;  6; 20; 27; 18
+ 8; CD Municipal Limeno    ; 18;  3;  9;  6; 20; 27; 18
  9; Atletico Marte         ; 18;  3;  7;  8; 22; 27; 16
 10; Nejapa FC              ; 18;  0;  5; 13; 12; 37;  5
 

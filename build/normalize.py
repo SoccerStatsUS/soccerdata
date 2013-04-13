@@ -352,6 +352,10 @@ def normalize_standing(e):
     except:
         import pdb; pdb.set_trace()
 
+    if e['team'] == None:
+        import pdb; pdb.set_trace()
+
+
     if 'games' not in e:
         import pdb; pdb.set_trace()
 

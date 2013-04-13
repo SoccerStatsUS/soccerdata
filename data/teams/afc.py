@@ -162,19 +162,18 @@ l = [
         },
 
 
+    {
+        'name': 'Suwon Bluewings',
+        'founded': 1995,
+        'city': 'Suwon, South Korea',
+        },
 
+    # Japan
 
     {
         'name': 'Gamba Osaka',
         'founded': 1980,
         'city': 'Osaka, Japan',
-        },
-
-
-    {
-        'name': 'Suwon Bluewings',
-        'founded': 1995,
-        'city': 'Suwon, South Korea',
         },
 
     {
@@ -201,6 +200,114 @@ l = [
         'city': 'Oita, Japan',
         },
 
+    {
+        'name': 'Cerezo Osaka',
+        'founded': 1957,
+        'city': 'Osaka, Japan',
+        },
+
+    {
+        'name': 'Consadole Sapporo',
+        'founded': 1935,
+        'city': 'Sapporo, Japan',
+        },
+    {
+        'name': 'JEF United Ichihara Chiba',
+        'founded': 1946,
+        'city': 'Chiba, Japan',
+        },
+
+    {
+        'name': 'Júbilo Iwata',
+        'founded': 1970,
+        'city': 'Iwata, Japan',
+        },
+
+    {
+        'name': 'Kashiwa Reysol',
+        'founded': 1940,
+        'city': 'Kashiwa, Japan',
+        },
+
+
+    {
+        'name': 'Kawasaki Frontale',
+        'founded': 1955,
+        'city': 'Kawasaki, Japan',
+        },
+
+    {
+        'name': 'Kyoto Sanga FC',
+        'founded': 1922,
+        'city': 'Kyoto, Japan',
+        },
+
+    {
+        'name': 'Montedio Yamagata',
+        'founded': 1984,
+        'city': 'Yamagata, Japan',
+        },
+
+    {
+        'name': 'Omiya Ardija',
+        'founded': 1964,
+        'city': 'Saitama, Japan',
+        },
+
+    {
+        'name': 'Sagan Tosu',
+        'founded': 1997,
+        'city': 'Tosu, Japan',
+        },
+
+
+    {
+        'name': 'Sanfrecce Hiroshima',
+        'founded': 1938,
+        'city': 'Hiroshima, Japan',
+        },
+
+    {
+        'name': 'Shonan Bellmare',
+        'founded': 1968,
+        'city': 'Hiratsuka, Japan',
+        },
+
+    {
+        'name': 'Tokyo Verdy',
+        'founded': 1969,
+        'city': 'Tokyo, Japan',
+        },
+
+    {
+        'name': 'Urawa Red Diamonds',
+        'founded': 1950,
+        'city': 'Urawa, Japan',
+        },
+
+    {
+        'name': 'Vegalta Sendai',
+        'founded': 1988,
+        'city': 'Sendai, Japan',
+        },
+
+    {
+        'name': 'Yokohama FC',
+        'founded': 1999,
+        'city': 'Yokohama, Japan',
+        },
+
+    {
+        'name': 'Yokohama F. Marinos',
+        'founded': 1972,
+        'city': 'Yokohama, Japan',
+        },
+
+    {
+        'name': 'Ventforet Kofu',
+        'founded': 1965,
+        'city': 'Kofu, Japan',
+        },
 
     {
         'name': 'Nagoya Grampus',
@@ -220,7 +327,20 @@ l = [
         'city': 'Kobe, Japan',
         },
 
+    {
+        'name': 'Albirex Niigata',
+        'founded': 1955,
+        'city': 'Niigata, Japan',
+        },
 
+    {
+        'name': 'Avispa Fukuoka',
+        'founded': 1982,
+        'city': 'Hakata, Japan',
+        },
+
+
+    # Egypt
 
     {
         'name': 'Al Ahly SC',

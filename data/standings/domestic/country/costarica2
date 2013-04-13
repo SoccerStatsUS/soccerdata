@@ -1,6 +1,84 @@
 Competition: Primera División de Costa Rica
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
 
+Season: 1994-1995
+BlockSource: http://www.rsssf.com/tablesc/cos95.htmlx
+
+ 1; Saprissa    ; 44;  23;  15;   6;   64; 32;   61
+ 2; Alajuela    ; 44;  27;   6;  11;   88; 46;   60
+ 3; AD San Carlos  ; 44;  20;  13;  11;   56; 47;   53
+ 4; CS Herediano   ; 44;  20;  11;  13;   59; 50;   51
+ 5; CD Cartagines  ; 44;  16;  17;  11;   57; 38;   49
+ 6; AD Ramonense   ; 44;  19;   9;  16;   53; 52;   47
+ 7; Perez Zeledon   ; 44;  13;  16;  15;   48; 45;   42
+ 8; Puntarenas   ; 44;  14;  14;  16;   48; 55;   42
+ 9; AD Belemita    ; 44;   9;  17;  18;   32; 54;   35
+10; Turrialba F.C.  ; 44;   9;  15;  20;   37; 55;   33
+11; A.D.Sagrada F.  ; 44;  12;   6;  26;   31; 65;   30 
+12; A.D. Limonense   ; 44;   5;  15;  24;   36; 70;   25
+
+
+
+BlockSource: http://www.rsssf.com/tablesc/cos96.html
+
+Season: 1995-1996
+
+ 1;  Alajuelense     ; 44;  25;  15;   4;   82; 32;   90
+ 2;  Herediano       ; 44;  24;  10;  10;   64; 37;   82
+ 3;  Saprissa        ; 44;  22;  14;   8;   68; 33;   80
+ 4;  Cartagines      ; 44;  19;  13;  12;   54; 43;   70
+ 5;  Belen           ; 44;  17;  17;  10;   54; 35;   68
+ 6;  Puntarenas      ; 44;  15;  12;  17;   47; 55;   57
+ 7;  San Carlos      ; 44;  15;  10;  19;   46; 67;   55
+ 8;  San Ramon       ; 44;  15;   6;  23;   50; 71;   51
+ 9;  Carmelita       ; 44;  12;  14;  18;   40; 54;   50
+10;  Perez Zeledon   ; 44;  10;  14;  20;   37; 51;   44
+11;  Turrialba       ; 44;  10;   8;  26;   38; 69;   38
+12;  Guanacaste      ; 44;   8;  11;  25;   43; 77;   35
+
+*[Note: the second row of goal differences is from a different table;both are clearly incorrect.]
+
+
+BlockSource: http://www.rsssf.com/tablesc/cos97.html
+
+Season: 1996-1997
+
+Round: First Stage
+
+Group: Group A
+* 1.LD Alajuelense       32 21  5/ 2  4  72-29 75
+* 2.Herediano            32 20  5/ 2  5  64-24 72
+* 5.AD Belén             32 10  5/ 8  9  32-28 48
+* 6.Carmelita            32  9  5/ 6 12  31-36 43
+* 9.AD San Carlos        32  6  6/ 6 14  29-54 36
+*12.Turrialba            32  5  5/ 5 17  32-54 30
+
+Group: Group B
+* 3.CD Saprissa          32 15  6/ 5  6  54-34 62
+* 4.Cartaginés           32 16  4/ 6  6  42-29 62
+* 7.Puntarenas           32  8  5/ 9 10  33-42 43
+* 8.ADM Pérez Zeledón    32 10  5/ 2 15  43-46 42
+*10.Goicoechea           32  6  5/ 4 17  29-55 32
+*11.Ramonense            32  6  4/ 5 17  31-61 31
+
+
+Round: Second Stage
+
+Group: Group C
+* 1.LD Alajuelense        6  4  0/ 0  2   6- 2 12
+* 2.CD Saprissa           6  3  0/ 1  2   5- 4 10
+* 3.ADM Pérez Zeledón     6  2  2/ 0  2   6- 5 10
+* 4.Carmelita             6  1  0/ 1  4   2- 8  4
+
+Group: Group D
+* 1.Cartaginés            6  3  1/ 1  1   8- 6 12
+* 2.Herediano             6  3  0/ 1  2   9- 4 10
+* 3.AD Belén              6  1  2/ 2  1   8- 9  9
+* 4.Puntarenas            6  1  1/ 0  4   5-11  5
+
+
+
+
 
 BlockSource: http://www.rsssf.com/tablesc/cos98.html
 

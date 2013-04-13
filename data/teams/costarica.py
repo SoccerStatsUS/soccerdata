@@ -24,9 +24,32 @@ l = [
         },
 
     {
+        'name': 'SG Española de San José',
+        'founded': 1912,
+        'city': 'San Jose, Costa Rica',
+        },
+
+
+
+    {
+        'name': 'CS La Libertad',
+        'founded': 1905,
+        'city': 'San Jose, Costa Rica',
+        },
+
+
+    # Same Teams?
+    {
         'name': 'Limón FC',
         'founded': datetime.datetime(1961, 7, 10),
         'city': 'Limón, Costa Rica',
+        },
+
+
+    {
+        'name': 'AD Limonense',
+        'founded': 1964,
+        'city': 'Limon, Costa Rica',
         },
 
     {
@@ -111,6 +134,12 @@ l = [
         'name': 'A.D. Belén',
         'founded': datetime.datetime(1979, 6, 13),
         'city': 'Belén, Costa Rica',
+        },
+
+    {
+        'name': 'Once Tigres',
+        'founded': 1924,
+        'city': 'Cartago, Costa Rica',
         },
 
     {

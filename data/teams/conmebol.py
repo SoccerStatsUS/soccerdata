@@ -77,11 +77,6 @@ l = [
         'city': 'Belem, Brazil',
         },
 
-    {
-        'name': 'Rocha FC',
-        'founded': 1999,
-        'city': 'Rocha, Uruguay',
-        },
 
 
     {
@@ -114,11 +109,272 @@ l = [
         'founded': 1977,
         'city': 'Barinas, Venezuela',
         },
+
+
+    # Chile
     {
         'name': 'Ñublense',
         'founded': datetime.datetime(1916, 8, 20),
         'city': 'Chillán, Chile',
         },
+
+    {
+        'name': 'San Marcos de Arica',
+        'founded': datetime.datetime(1978, 2, 14),
+        'city': 'Arica, Chile',
+        },
+
+    {
+        'name': 'Unión La Calera',
+        'founded': datetime.datetime(1954, 1, 26),
+        'city': 'La Calera, Chile',
+        },
+
+    {
+        'name': 'Deportes Concepción',
+        'founded': datetime.datetime(1966, 2, 28), # 2, 29),
+        'city': 'Concepcion, Chile',
+        },
+
+    {
+        'name': 'Cobresal',
+        'founded': datetime.datetime(1979, 5, 5),
+        'city': 'El Salvador, Chile',
+        },
+
+    {
+        'name': 'Santiago Morning',
+        'founded': 1903,
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Deportes Antofagasta',
+        'founded': datetime.datetime(1966, 5, 14),
+        'city': 'Antofagasta, Chile',
+        },
+
+    {
+        'name': 'Aviación',
+        'founded': datetime.datetime(1957, 12, 12),
+        'city': 'San Bernando, Chile',
+        },
+
+    {
+        'name': 'Badminton F.C.',
+        'founded': 1912,
+        'dissolved': 1973,
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Green Cross',
+        'founded': 1916,
+        'dissolved': 1985,
+        'city': 'Santiago, Chile',
+        },
+
+
+    {
+        'name': 'Coquimbo Unido',
+        'founded': datetime.datetime(1957, 8, 15),
+        'city': 'Coqumibo, Chile',
+        },
+
+
+    {
+        'name': 'Deportes Temuco',
+        'founded': 1960,
+        'city': 'Temuco, Chile',
+        },
+
+    {
+        'name': 'Deportes La Serena',
+        'founded': datetime.datetime(1955, 12, 9),
+        'city': 'La Serena, Chile',
+        },
+
+    {
+        'name': 'Deportes Melipilla',
+        'founded': datetime.datetime(1992, 1, 24),
+        'city': 'Melipilla, Chile',
+        },
+
+    {
+        'name': 'Deportes Naval',
+        'founded': datetime.datetime(1972, 8, 27),
+        'city': 'Talcahuano, Chile',
+        },
+
+    {
+        'name': 'Lota Schwager',
+        'founded': datetime.datetime(1966, 5, 10),
+        'city': 'Coronel, Chile',
+        },
+
+    {
+        'name': 'Trasandino',
+        'founded': datetime.datetime(1906, 4, 1),
+        'city': 'Los Andes, Chile',
+        },
+
+    {
+        'name': 'C.S.D. Rangers',
+        'founded': datetime.datetime(1902, 9, 2),
+        'city': 'Talca, Chile',
+        },
+
+
+    {
+        'name': 'Everton de Viña del Mar',
+        'founded': datetime.datetime(1909, 6, 24),
+        'city': 'Vina del Mar, Chile',
+        },
+
+    {
+        'name': 'O\'Higgins F.C.',
+        'founded': datetime.datetime(1955, 4, 7),
+        'city': 'Rancagua, Chile',
+        },
+
+    {
+        'name': 'Cobreloa',
+        'founded': 1977,
+        'city': 'Calama, Chile',
+        },
+
+
+    {
+        'name': 'Deportes Ovalle',
+        'founded': datetime.datetime(1963, 1, 1),
+        'city': 'Ovalle, Chile',
+        },
+
+    {
+        'name': 'Deportes Valdivia',
+        'founded': datetime.datetime(1983, 6, 5),
+        'city': 'Valdivia, Chile',
+        },
+
+    {
+        'name': 'CCD Arturo Fernández Vial',
+        'founded': datetime.datetime(1903, 6, 3),
+        'city': 'Concepcion, Chile',
+        },
+
+    {
+        'name': 'Ferroviarios',
+        'founded': datetime.datetime(1916, 7, 14),
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Iberia Los Angeles',
+        'founded': datetime.datetime(1933, 6, 15),
+        'city': 'Los Angeles, Chile',
+        },
+
+    {
+        'name': 'Regional Atacama',
+        'founded': 1979,
+        'dissolved': 1998,
+        'city': 'Copiapo, Chile',
+        },
+
+    {
+        'name': 'San Luis de Quillota',
+        'founded': datetime.datetime(1919, 12, 8),
+        'city': 'Quillota, Chile',
+        },
+
+    {
+        'name': 'Santiago National',
+        'founded': datetime.datetime(1900, 4, 10),
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'CD Palestino',
+        'founded': datetime.datetime(1920, 8, 20),
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Universidad de Chile',
+        'founded': datetime.datetime(1927, 5, 24),
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Universidad Catolica',
+        'founded': datetime.datetime(1937, 4, 21),
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Huachipato',
+        'founded': datetime.datetime(1947, 6, 7),
+        'city': 'Talcahuano, Chile',
+        },
+
+    {
+        'name': 'Audax Italiano',
+        'founded': datetime.datetime(1910, 11, 30),
+        'city': 'La Florida, Chile',
+        },
+
+    {
+        'name': 'Colo-Colo',
+        'founded': datetime.datetime(1925, 4, 19),
+        'city': 'Santiago, Chile',
+        },
+
+
+    {
+        'name': 'Magallanes',
+        'founded': datetime.datetime(1897, 10, 27),
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Club Universidad de Chile',
+        'founded': datetime.datetime(1927, 5, 24),
+        'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Union San Felipe',
+        'founded': datetime.datetime(1956, 10, 16),
+        'city': 'San Felipe, Chile',
+        },
+
+    {
+        'name': 'Provincial Osorno',
+        'founded': 1983,
+        'city': 'Osorno, Chile',
+        },
+
+    {
+        'name': 'Deportes Iquique',
+        'founded': datetime.datetime(1978, 5, 21),
+        'city': 'Iquique, Chile',
+        },
+    {
+        'name': 'Universidad de Concepción',
+        'founded': datetime.datetime(1994, 8, 8),
+        'city': 'Concepcion, Chile',
+        },
+
+    {
+        'name': 'Santiago Wanderers',
+        'founded': datetime.datetime(1892, 8, 15),
+        'city': 'Santiago, Chile',
+        },
+
+
+
+
+    # Peru
 
     {
         'name': 'León de Huánuco',
@@ -185,22 +441,14 @@ l = [
         'founded': datetime.datetime(1919, 11, 11),
         'city': 'Riobamba, Ecuador',
         },
-    {
-        'name': 'Deportes Concepción',
-        'founded': datetime.datetime(1966, 2, 28), # 2, 29),
-        'city': 'Concepcion, Chile',
-        },
+
 
     {
         'name': 'Atlético Torino',
         'founded': 1946, 
         'city': 'Talara, Peru',
         },
-    {
-        'name': 'Cobresal',
-        'founded': datetime.datetime(1979, 5, 5),
-        'city': 'El Salvador, Chile',
-        },
+
     {
         'name': 'Náutico',
         'founded': datetime.datetime(1901, 4, 7),
@@ -248,11 +496,7 @@ l = [
         'founded': datetime.datetime(1925, 4, 12),
         'city': 'La Paz, Bolivia',
         },
-    {
-        'name': 'Defensor SC',
-        'founded': datetime.datetime(1913, 3, 15),
-        'city': 'Montevideo, Uruguay',
-        },
+
     {
         'name': 'Independiente Medellín',
         'founded': datetime.datetime(1913, 11, 14),
@@ -271,11 +515,7 @@ l = [
         'city': 'Lima, Peru',
         },
 
-    {
-        'name': 'C.S.D. Rangers',
-        'founded': datetime.datetime(1902, 9, 2),
-        'city': 'Talca, Chile',
-        },
+
 
     {
         'name': 'Chaco Petrolero',
@@ -295,11 +535,6 @@ l = [
         'city': 'Cuenca, Ecuador',
         },
 
-    {
-        'name': 'Danubio F.C.',
-        'founded': datetime.datetime(1932, 3, 1),
-        'city': 'Montevideo, Uruguay',
-        },
 
     {
         'name': 'Gimnasia y Esgrima',
@@ -331,17 +566,6 @@ l = [
         'city': 'Guayaquil, Ecuador'
         },
 
-    {
-        'name': 'Everton de Viña del Mar',
-        'founded': datetime.datetime(1909, 6, 24),
-        'city': 'Vina del Mar, Chile',
-        },
-
-    {
-        'name': 'O\'Higgins F.C.',
-        'founded': datetime.datetime(1955, 4, 7),
-        'city': 'Rancagua, Chile',
-        },
 
     {
         'name': 'Atlético Chalaco',
@@ -349,11 +573,7 @@ l = [
         'city': 'Callao, Peru',
         },
 
-    {
-        'name': 'Cobreloa',
-        'founded': 1977,
-        'city': 'Calama, Chile',
-        },
+
 
     {
         'name': 'Mariano Melgar',
@@ -378,11 +598,7 @@ l = [
         'founded': datetime.datetime(2002, 3, 26),
         'city': 'Tunja, Colombia',
         },
-    {
-        'name': 'CD Palestino',
-        'founded': datetime.datetime(1920, 8, 20),
-        'city': 'Santiago, Chile',
-        },
+
 
     {
         'name': 'National Fast Clube',
@@ -394,17 +610,7 @@ l = [
         'founded': datetime.datetime(2002, 11, 9),
         'city': 'Puerto La Cruz, Venezuela',
         },
-    {
-        'name': 'Liverpool FC (Montevideo)',
-        'founded': datetime.datetime(1915, 2, 12),
-        'city': 'Montevideo, Uruguay',
-        },
 
-    {
-        'name': 'Racing Club de Montevideo',
-        'founded': datetime.datetime(1919, 4, 6),
-        'city': 'Montevideo, Uruguay',
-        },
 
     {
         'name': 'Atlético Huila',
@@ -499,11 +705,7 @@ l = [
         'founded': datetime.datetime(1935, 12, 16),
         'city': 'Sao Paulo, Brazil',
         },
-    {
-        'name': 'Universidad de Chile',
-        'founded': datetime.datetime(1927, 5, 24),
-        'city': 'Santiago, Chile',
-        },
+
     {
         'name': 'Velez Sarsfield',
         'founded': datetime.datetime(1910, 1, 1),
@@ -526,11 +728,7 @@ l = [
         },
 
 
-    {
-        'name': 'Universidad Catolica',
-        'founded': datetime.datetime(1937, 4, 21),
-        'city': 'Santiago, Chile',
-        },
+
 
     {
         'name': 'Tiro Federal',
@@ -591,11 +789,7 @@ l = [
         'founded': datetime.datetime(1908, 11, 11),
         'city': 'Buenos Aires, Argentina',
         },
-    {
-        'name': 'Rampla Juniors',
-        'founded': datetime.datetime(1914, 1, 7),
-        'city': 'Montevideo, Uruguay',
-        },
+
     {
         'name': 'Central Cordoba',
         'founded': datetime.datetime(1906, 10, 20),
@@ -611,17 +805,7 @@ l = [
         'founded': datetime.datetime(1935, 5, 27),
         'city': 'Cochabamba, Bolivia',
         },
-    {
-        'name': 'Cerro Largo',
-        'founded': datetime.datetime(2002, 11, 19),
-        'city': 'Melo, Uruguay',
-        },
 
-    {
-        'name': 'Cerro',
-        'founded': datetime.datetime(1922, 12, 1),
-        'city': 'Montevideo, Uruguay',
-        },
 
     {
         'name': 'U.T. Cajamarca',
@@ -649,11 +833,7 @@ l = [
         'founded': 1924,
         'city': 'Barranquilla, Colombia',
         },
-    {
-        'name': 'Huachipato',
-        'founded': datetime.datetime(1947, 6, 7),
-        'city': 'Talcahuano, Chile',
-        },
+
     {
         'name': 'Universidad de Los Andes',
         'founded': 1977,
@@ -676,11 +856,7 @@ l = [
         'founded': datetime.datetime(1915, 1, 3),
         'city': 'Lanus, Argentina',
         },
-    {
-        'name': 'Audax Italiano',
-        'founded': datetime.datetime(1910, 11, 30),
-        'city': 'La Florida, Chile',
-        },
+
     {
         'name': 'Jorge Wilstermann',
         'founded': datetime.datetime(1949, 11, 24),
@@ -706,11 +882,7 @@ l = [
         'founded': 1972,
         'city': 'Ayacucho, Peru',
         },
-    {
-        'name': 'River Plate (Montevideo)',
-        'founded': datetime.datetime(1932, 5, 11),
-        'city': 'Montevideo, Uruguay',
-        },
+
     {
         'name': 'Deportivo Quito',
         'founded': datetime.datetime(1955, 2, 27),
@@ -799,13 +971,6 @@ l = [
 
 
 
-    # Chile
-
-    {
-        'name': 'Colo-Colo',
-        'founded': datetime.datetime(1925, 4, 19),
-        'city': 'Santiago, Chile',
-        },
 
 
 
@@ -834,17 +999,6 @@ l = [
         'city': 'Porlamar, Venezuela',
         },
 
-    {
-        'name': 'Magallanes',
-        'founded': datetime.datetime(1897, 10, 27),
-        'city': 'Santiago, Chile',
-        },
-
-    {
-        'name': 'Club Universidad de Chile',
-        'founded': datetime.datetime(1927, 5, 24),
-        'city': 'Santiago, Chile',
-        },
 
     {
         'name': 'Universitario',
@@ -854,14 +1008,98 @@ l = [
 
 
 
-    {
-        'name': 'Union San Felipe',
-        'founded': datetime.datetime(1956, 10, 16),
-        'city': 'San Felipe, Chile',
-        },
+
 
 
     # Uruguay
+
+    {
+        'name': 'CA Bella Vista',
+        'founded': datetime.datetime(1920, 10, 4),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'C.U.R.C.C.',
+        'founded': datetime.datetime(1891, 9, 28),
+        'dissolved': datetime.datetime(1915, 1, 22),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Colón F.C.',
+        'founded': datetime.datetime(1907, 3, 12),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'El Tanque Sisley',
+        'founded': datetime.datetime(1941, 4, 16),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'CA Fénix',
+        'founded': datetime.datetime(1916, 7, 6),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Huracán Buceo',
+        'founded': datetime.datetime(1937, 7, 10),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Miramar Misiones',
+        'founded': datetime.datetime(1906, 3, 26),
+        'city': 'Montevideo, Uruguay',
+        },
+
+
+
+    {
+        'name': 'Cerro Largo',
+        'founded': datetime.datetime(2002, 11, 19),
+        'city': 'Melo, Uruguay',
+        },
+
+
+    {
+        'name': 'Albion FC',
+        'founded': datetime.datetime(1891, 6, 1),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Cerro',
+        'founded': datetime.datetime(1922, 12, 1),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'River Plate (Montevideo)',
+        'founded': datetime.datetime(1932, 5, 11),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Rampla Juniors',
+        'founded': datetime.datetime(1914, 1, 7),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Liverpool FC (Montevideo)',
+        'founded': datetime.datetime(1915, 2, 12),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Racing Club de Montevideo',
+        'founded': datetime.datetime(1919, 4, 6),
+        'city': 'Montevideo, Uruguay',
+        },
 
     {
         'name': 'Club Nacional de Football',
@@ -872,6 +1110,59 @@ l = [
     {
         'name': 'Peñarol',
         'founded': datetime.datetime(1891, 9, 28),
+        'city': 'Montevideo, Uruguay',
+        },
+
+
+    {
+        'name': 'CA Progreso',
+        'founded': datetime.datetime(1917, 4, 30),
+        'city': 'Montevideo, Uruguay',
+        },
+
+
+    {
+        'name': 'Central Español',
+        'founded': datetime.datetime(1905, 1, 5),
+        'city': 'Montevideo, Uruguay',
+        },
+
+
+    {
+        'name': 'Penarol',
+        'founded': datetime.datetime(1891, 9, 28),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Montevideo Wanderers',
+        'founded': datetime.datetime(1902, 8, 15),
+        'city': 'Montevideo, Uruguay',
+        },
+
+
+    {
+        'name': 'Danubio F.C.',
+        'founded': datetime.datetime(1932, 3, 1),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Defensor SC',
+        'founded': datetime.datetime(1913, 3, 15),
+        'city': 'Montevideo, Uruguay',
+        },
+
+
+    {
+        'name': 'Rocha FC',
+        'founded': 1999,
+        'city': 'Rocha, Uruguay',
+        },
+
+    {
+        'name': 'CA Rentistas',
+        'founded': datetime.datetime(1933, 3, 26),
         'city': 'Montevideo, Uruguay',
         },
 
@@ -956,17 +1247,8 @@ l = [
         'city': 'Belo Horizonte, Brazil',
         },
 
-    {
-        'name': 'Provincial Osorno',
-        'founded': 1983,
-        'city': 'Osorno, Chile',
-        },
 
-    {
-        'name': 'CA Progreso',
-        'founded': datetime.datetime(1917, 4, 30),
-        'city': 'Montevideo, Uruguay',
-        },
+
 
     {
         'name': 'ESPOLI',
@@ -996,11 +1278,7 @@ l = [
         'city': 'Medellin, Colombia',
         },
 
-    {
-        'name': 'Deportes Iquique',
-        'founded': datetime.datetime(1978, 5, 21),
-        'city': 'Iquique, Chile',
-        },
+
     {
         'name': 'Atlético Goianiense',
         'founded': datetime.datetime(1937, 4, 2),
@@ -1012,18 +1290,9 @@ l = [
         'city': 'Curitiba, Brazil',
         },
 
-    {
-        'name': 'Universidad de Concepción',
-        'founded': datetime.datetime(1994, 8, 8),
-        'city': 'Concepcion, Chile',
-        },
 
 
-    {
-        'name': 'Central Español',
-        'founded': datetime.datetime(1905, 1, 5),
-        'city': 'Montevideo, Uruguay',
-        },
+
     {
         'name': 'Carabobo FC',
         'founded': datetime.datetime(1964, 7, 24),
@@ -1082,11 +1351,6 @@ l = [
         'city': 'Lima, Peru',
         },
 
-    {
-        'name': 'Penarol',
-        'founded': datetime.datetime(1891, 9, 28),
-        'city': 'Montevideo, Uruguay',
-        },
 
     {
         'name': 'Club Libertad',
@@ -1129,16 +1393,8 @@ l = [
         'founded': datetime.datetime(1898, 8, 21),
         'city': 'Rio de Janerio, Brazil',
         },
-    {
-        'name': 'Montevideo Wanderers',
-        'founded': datetime.datetime(1902, 8, 15),
-        'city': 'Montevideo, Uruguay',
-        },
-    {
-        'name': 'Santiago Wanderers',
-        'founded': datetime.datetime(1892, 8, 15),
-        'city': 'Santiago, Chile',
-        },
+
+
     {
         'name': 'CD Olmedo',
         'founded': datetime.datetime(1919, 11, 11),

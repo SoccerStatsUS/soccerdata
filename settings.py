@@ -69,18 +69,15 @@ SOURCES = [
 
     'mexico',
     'canada',
-    'guatemala',
-    'costa_rica',
-    'el_salvador',
-    'panama',
-    'nicaragua',
-    'honduras',
+
+    'colombia',
     'uruguay',
     'chile',
     'argentina',
     'brazil',
     'australia',
     'china',
+    'japan',
         ]
 
 # Skipping these.

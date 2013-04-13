@@ -64,6 +64,68 @@ slugs = {
 
 world = {
 
+    'Rentistas': 'CA Rentistas',
+    'Miramar': 'Miramar Misiones',
+    'Deportes Arica': 'San Marcos de Arica',
+    'Union La Calera': 'Unión La Calera',
+    'Santiago National Juventus': 'Santiago National',
+    'Morning Star': 'Santiago Morning', # Add name map.
+    'Iberia Los Angeles': 'Iberia Los Ángeles',
+    'Ferroviarios': 'C.D. Ferroviarios de Chile',
+    'Fernandez Vial': 'CCD Arturo Fernández Vial',
+    'Naval': 'Deportes Naval',
+    'Badminton': 'Badminton F.C.',
+    'Antofagasta': 'Deportes Antofagasta',
+    'Trasandino': 'Trasandino de Los Andes',
+    'Turrialba': 'Turrialba F.C.',
+    'CS Once Tigres': 'Once Tigres',
+    'SG Espanola': 'SG Española de San José',
+    'AD Limonense': 'A.D. Limonense',
+    'AD Limonense - Costa Rica': 'AD Limonense',
+    'Limon - Costa Rica': 'Limon',
+    'Limon': 'Limón FC',
+
+    'Deportivo Walter Ferreti': 'Deportivo Walter Ferretti',
+    'Diriangen FC': 'Diriangén FC',
+    'Managua FC': 'Managua F.C.',
+    'Deportivo Jalapa (Jalapa)': 'Jalapa (Nicaragua)',
+    'America Managua': 'América Managua',
+    'Xilotepelt (Jinotepe)': 'Xilotepelt',
+    'Scorpion FC': 'Scorpión FC',
+    'Chelsea FC (St Vincent)': 'Camdonia Chelsea SC',
+    'Atletico Morazan': 'Atlético Morazán',
+    'Alajuela': 'Alajuelense',
+    'Paradise FC': 'Paradise SC',
+    'Elite FC': 'Elite SC',
+    'Northern United': 'Northern United All Stars',
+    'Ideal FC': 'Ideal SC',
+    'Waterhouse FC': 'Waterhouse F.C.',
+    'SV Nacional': 'SV Deportivo Nacional',
+    'Milerock': 'Milerock FC',
+    'System 3': 'System 3 FC',
+    'Systems 3': 'System 3 FC',
+    'CS Barber': 'Centro Barber',
+    'Jong Colombia': 'CRKSV Jong Colombia',
+    'Sithoc': 'RKV FC SITHOC',
+    'Notre Dame (Barbados)': 'Notre Dame SC',
+    'South East United': 'Sagicor South East United',
+    'Sagicor South East': 'Sagicor South East United',
+    'L\'Aiglon': 'Aiglon du Lamentin',
+
+    # Haiti
+    'Tempete FC': 'Tempête FC',
+    'Racing Club de Gonaives': 'Racing des Gonaïves',
+
+    'River Plate PR': 'River Plate Puerto Rico',
+    'Sevilla Bayamon FC': 'Bayamón FC',
+    'Hoppers': 'Hoppers FC',
+    'Cavaly': 'AS Cavaly',
+
+    # Suriname
+    'Inter Moengo Tapoe': 'Inter Moengotapoe',
+    'Walking Boyz Company': 'Walking Bout Company',
+    'Walking Boys Company': 'Walking Bout Company',
+
     # Panama
     'Atletico Chiriqui': 'Atlético Chiriquí',
     'Atletico Veraguense': 'Atlético Veragüense',
@@ -112,6 +174,7 @@ world = {
     'Brujas Escazú': 'Brujas FC',
     'Brujas FC Escazú': 'Brujas FC',
     'CS Cartaginés': 'CS Cartagines',
+    'CD Cartagines': 'CS Cartagines',
     'Cartaginés': 'CS Cartagines',
     'D Municipal Puntarenas FC': 'Puntarenas FC',
 
@@ -503,7 +566,7 @@ world = {
     'Lock Haven State College': 'Lock Haven University',
     'Plymouth State': 'Plymouth State University',
     'DeAnza Junior College': 'DeAnza College',
-    'Sithoc': 'RKV FC SITHOC',
+
     'USC Spartanburg': 'University of South Carolina Upstate',
     'Cortland State College': 'SUNY Cortland',
 
@@ -597,6 +660,15 @@ world = {
     # Asia
 
     # Japan
+    'Yokohama F-Marinos': 'Yokohama F. Marinos',
+    'Yokohama F.Marinos': 'Yokohama F. Marinos',
+    'Urawa Reds': 'Urawa Red Diamonds',
+    'Tokyo Verdy 1969': 'Tokyo Verdy',
+    'Nagoya Grampus Eight': 'Nagoya Grampus',
+    'Kyoto Purple Sanga': 'Kyoto Sanga FC',
+    'Jubilo Iwata': 'Júbilo Iwata',
+    'JEF United Chiba': 'JEF United Ichihara Chiba',
+    'JEF United Ichihara': 'JEF United Ichihara Chiba',
     'Gamba Osaka - Japan': 'Gamba Osaka',
     'Grampus Eight - Japan': 'Grampus Eight',
     'Grampus Eight': 'Nagoya Grampus',
@@ -624,6 +696,21 @@ world = {
     'Zamalek': 'Zamalek SC',
 
     # Australia
+
+    # Australia
+    'Adelaide United FC': 'Adelaide United',
+    'Brisbane Roar FC': 'Brisbane Roar',
+    'Central Coast Mariners FC': 'Central Coast Mariners',
+    'Gold Coast United FC': 'Gold Coast United',
+    'Melbourne Victory FC': 'Melbourne Victory',
+    'New Zealand Knights FC': 'New Zealand Knights',
+    'Newcastle Jets FC': 'Newcastle Jets',
+    'Newcastle United Jets FC': 'Newcastle United Jets',
+    'North Queensland Fury FC': 'North Queensland Fury',
+    'Perth Glory FC': 'Perth Glory',
+    'Queensland Roar FC': 'Queensland Roar',
+    'Wellington Phoenix FC': 'Wellington Phoenix',
+
 
     #Victoria State (Australia)
     'Victoria State (Australia)': 'Victoria XI',
@@ -1315,6 +1402,8 @@ world = {
     #Red Star (Pointe-a-Pitre)
     #Arsenal (Petit-Bourg)
     #Gauloise (Basse-Terre)
+    'Morne a l\'Eau': 'Etoile de Morne-à-l\'Eau',
+    'L\'Etoile de Morne-a-l\'Eau': 'Etoile de Morne-à-l\'Eau',
     'Etoile de Monre-a-l\'Eau': 'Etoile de Morne-à-l\'Eau',
     'Etoile de Morne-a-l\'Eau': 'Etoile de Morne-à-l\'Eau',
     'Etoile de Morne-à-l\'Eau': 'L\'Etoile de Morne-à-l\'Eau',
@@ -1336,6 +1425,18 @@ world = {
     'Regiment (JAM)': 'Regiment (Jamaica)',
     #Kingston (Jamaica)
     #Regiment (Jamaica)
+
+    'Duhaney Park FC': 'Duhaney Park',
+    'Wadadah': 'Wadadah FC',
+    'Village United FC': 'Village United',
+    'Tivoli Gardens FC': 'Tivoli Gardens',
+    'Savannah FC': 'Savannah SC',
+    'Saint George\'s SC': 'St. George\'s SC',
+    'Portmore United FC': 'Portmore United',
+    'Boys\' Town FC': 'Boys\' Town',
+    'Boys\' Town F.C.': 'Boys\' Town',
+    'August Town FC': 'August Town',
+    'Arnett Gardens FC': 'Arnett Gardens',
 
     'Arnett Gardens-- Jamaica': 'Arnett Gardens',
     'Arnett Gardens': 'Arnett Gardens F.C.',
@@ -1398,7 +1499,10 @@ world = {
     'CD Fas': 'CD FAS',
     'FAS': 'C.D. FAS',
     'Deportivo FAS': 'C.D. FAS',
+    'Indep. Nacional 1906': 'Independiente Nacional 1906',
     'Isidro Metapán': 'CD Isidro Metapán',
+    'CD Isidro-Metapan': 'CD Isidro Metapán',
+    'CD Isidro (Metapan)': 'CD Isidro Metapán',
     'Isidro-Metapan': 'Isidro Metapán',
     'Isidro Metapan': 'Isidro Metapán',
     'Juventud Olimpica': 'Juventud Olímpica',
@@ -1434,6 +1538,8 @@ world = {
     
     'Acros': 'Acros Crystal',
     'Hankok Verdes': 'Club Verdes',
+    'Hankook Verdes': 'Club Verdes',
+    'Hankook Verdes United': 'Club Verdes',
     'Leslie Verdes': 'Club Verdes',
     'Real Verdes': 'Club Verdes',
 
@@ -1521,10 +1627,6 @@ world = {
     'C.S. Herediano': 'CS Herediano',
     'Herediano': 'C.S. Herediano',
     'Herediano - Costa Rica': 'Herediano',
-    'AD Limonense - Costa Rica': 'AD Limonense',
-    'Limon - Costa Rica': 'Limon',
-    'Limon': 'AD Limonense',
-    'AD Limonense': 'Limón FC',
     'Puntarenas FC - Costa Rica': 'Puntarenas FC',
     'Municipal Puntarenas': 'Puntarenas FC',
     'Puntarenas - Costa Rica': 'Puntarenas',
