@@ -66,6 +66,7 @@ SOURCES = [
     'ncaa',
     #'world_cup',
     'usa',
+    'nwsl',
 
     'mexico',
     'canada',

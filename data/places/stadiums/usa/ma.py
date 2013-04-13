@@ -33,6 +33,14 @@ l = [
         },
 
     {
+        'name': 'Dilboy Stadium',
+        'opened': 2006,
+        'capacity': 2500,
+        'location': 'Somerville, MA',
+        'cost': 7700000,
+        },
+
+    {
         'name': 'Bigberry Stadium',
         'location': 'Fall River, MA',
         },

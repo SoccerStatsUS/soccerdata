@@ -10,6 +10,13 @@ l = [
         'city': 'Chicago, IL',
         'founded': 1940,
         },
+
+    {
+        'name': 'Chicago Red Stars',
+        'city': 'Chicago, IL',
+        'founded': 2007,
+        },
+
     {
         'name': 'Chicago Sparta',
         'city': 'Chicago, IL',

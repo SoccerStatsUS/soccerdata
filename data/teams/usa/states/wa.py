@@ -12,6 +12,12 @@ l = [
         'dissolved': 1995,
         },
 
+    {
+        'name': 'Seattle Reign FC',
+        'city': 'Seattle, WA',
+        'founded': 2012,
+        },
+
 
     {
         'name': 'Tacoma Tides',

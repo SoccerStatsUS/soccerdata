@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'Sky Blue FC',
+        'city': 'Piscataway, NJ',
+        'founded': 2007,
+        },
+
+    {
         'name': 'New Jersey Eagles',
         'city': 'Paterson, NJ',
         'founded': 1987,

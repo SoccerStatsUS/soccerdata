@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'Boston Breakers',
+        'city': 'Boston, MA',
+        'founded': 2008,
+        },
+
+    {
         'name': 'Massachusetts Twisters',
         'city': 'West Springfield, MA',
         'founded': 2003,

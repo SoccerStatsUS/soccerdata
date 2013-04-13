@@ -12,6 +12,12 @@ l = [
         },
 
     {
+        'name': 'Western New York Flash',
+        'city': 'Rochester, NY',
+        'founded': 2008,
+        },
+
+    {
         'name': 'New York Pancyprian-Freedoms',
         'city': 'Jamaica, NY',
         'founded': 1974,

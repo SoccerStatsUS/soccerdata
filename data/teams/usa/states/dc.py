@@ -11,4 +11,10 @@ l = [
         'founded': 1971,
         'dissolved': 1972,
         },
+
+    {
+        'name': 'Washington Spirit',
+        'city': 'Washington DC',
+        'founded': 2012,
+        },
 ]

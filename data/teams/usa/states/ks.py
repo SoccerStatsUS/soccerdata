@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'FC Kansas City',
+        'city': 'Kansas City, KS',
+        'founded': 2012,
+        },
+
+    {
         'name': 'Wichita Blue',
         'city': 'Wichita, KS',
         'founded': 1989,
