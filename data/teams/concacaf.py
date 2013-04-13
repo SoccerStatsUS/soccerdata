@@ -936,7 +936,7 @@ l = [
     {
         'name': 'SV River Plate Aruba',
         'city': 'Madiki, Aruba',
-        'founded': datetime.date(1953, 2, 1),
+        'founded': datetime.datetime(1953, 2, 1),
         },
 
 
