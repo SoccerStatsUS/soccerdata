@@ -353,11 +353,6 @@ l = [
         'city': 'Chiba, Japan',
         },
 
-    {
-        'name': 'Júbilo Iwata',
-        'founded': 1970,
-        'city': 'Iwata, Japan',
-        },
 
     {
         'name': 'Kashiwa Reysol',

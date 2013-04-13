@@ -209,6 +209,9 @@ class StandingProcessor(object):
 
         if self.key is None:
             import pdb; pdb.set_trace()
+
+        if len(self.key) != len(fields):
+            import pdb; pdb.set_trace()
         
         d = dict(zip(self.key, fields))
 

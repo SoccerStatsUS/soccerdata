@@ -1,7 +1,8 @@
 Competition: Chinese Super League
-Season: 2004
-
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+Season: 2004
 
 1      ; Shenzhen Jianlibao     ; 22     ; 11     ; 9      ; 2      ; 30     ; 13     ; 42
 2      ; Shandong Luneng Taishan; 22     ; 10     ; 6      ; 6      ; 44     ; 29     ; 36
@@ -55,9 +56,7 @@ Season: 2006
 
 
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; gd; points
-
 Season: 2007
-
 
 1     ;  Changchun Yatai        ; 28 ; 16        ;  7      ; 5      ; 48     ; 25     ; +23    ; 55
 2     ;  Beijing Guoan          ; 28 ; 15        ;  9      ; 4      ; 45     ; 19     ; +26    ; 54
@@ -99,7 +98,6 @@ Season: 2008
 
 Season: 2009
 
-
 1       ; Beijing Guoan     ; 30     ; 13   ;   12    ;  5    ;   48  ;    28  ;    +20   ;  51    
 2       ; Changchun Yatai   ; 30     ; 14   ;   8     ;  8    ;   38  ;    31  ;    +7    ;  50
 3       ; Henan Jianye      ; 30     ; 13   ;   9     ;  8    ;   35  ;    26  ;    +9    ;  48
@@ -118,9 +116,7 @@ Season: 2009
 16      ; Chongqing Lifan   ; 30     ; 7    ;   8     ;  15   ;   27  ;    51  ;    −24   ;  29
 
 
-
 Season: 2010
-
 
 1   ;   Shandong Luneng   ; 30   ;   18   ;   9    ;   3    ;   59  ;    34  ;    +25   ;  63    
 2   ;   Tianjin Teda      ; 30   ;   13   ;   11   ;   6    ;   37  ;    29  ;    +8    ;  50
@@ -142,7 +138,6 @@ Season: 2010
 
 Season: 2011
 
-
 1    ;  Guangzhou Evergrande  ;  30  ;    20   ;   8    ;   2    ;   67   ;   23  ;    +44  ;   68  
 2    ;  Beijing Guoan         ;  30  ;    14   ;   11   ;   5    ;   49   ;   21  ;    +28  ;   53
 3    ;  Liaoning Whowin       ;  30  ;    14   ;   8    ;   8    ;   38   ;   23  ;    +15  ;   50
@@ -161,9 +156,7 @@ Season: 2011
 16   ;  Shenzhen Ruby         ;  30  ;    5    ;   8    ;   17   ;   27   ;   53  ;    −26  ;   23
 
 
-
 Season: 2012
-
 
 1    ;   Guangzhou Evergrande ; 30  ;    17  ;    7    ;   6   ;    51   ;   30   ;   +21  ;   58   
 2    ;   Jiangsu Guoxin Sainty; 30  ;    14  ;    12   ;   4   ;    49   ;   29   ;   +20  ;   54

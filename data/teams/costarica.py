@@ -154,11 +154,5 @@ l = [
         'city': 'San José, Costa Rica',
         },
 
-    {
-        'name': 'Liberia Mía',
-        'founded': datetime.datetime(1977, 6, 7),
-        'city': 'Guanacaste, Costa Rica',
-        },
-
 
 ]

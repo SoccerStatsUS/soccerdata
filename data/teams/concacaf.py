@@ -15,7 +15,7 @@ l = [
 
 
 
-    { 'name': 'Maple Club FC' }, # Trinidad
+
     { 'name': 'Omai Gold Seekers' }, # Guyana 
 
 
@@ -162,9 +162,53 @@ l = [
 
     # Trinidad
 
+    { 'name': 'Maple Club FC' }, # Trinidad
+
     {
         'name': 'North East Stars',
         'city': 'Sangre Grande, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'FC South End',
+        'city': 'Marabella, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Ma Pau SC',
+        #'city': 'Marabella, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'South Starworld Strikers',
+        'city': 'Couva, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'T&TEC',
+        'city': 'San Fernando, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'St Ann\'s Rangers',
+        'city': 'San Juan, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Tobago United',
+        'dissolved': 2011,
+        'city': 'Tobago, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Police FC',
+        'founded': 1975,
+        'city': 'Marabella, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Arima Fire',
+        'city': 'Malabar, Trinidad and Tobago',
         },
 
 
@@ -280,13 +324,108 @@ l = [
         },
 
     {
-        'name': 'Aussaut de St Pierre',
+        'name': 'Gauloise de Trinité',
+        'city': 'La Trinité, Martinique',
+        },
+
+    {
+        'name': 'New Star',
+        'city': 'Ducos, Martinique',
+        },
+
+    {
+        'name': 'US Ducos Durivage',
+        'city': 'Fort-de-France, Martinique',
+        },
+
+
+    {
+        'name': 'Golden Lion FC',
+        'city': 'Saint-Joseph, Martinique',
+        },
+
+    {
+        'name': 'Eclair Rivière-Salée',
+        'city': 'Rivière-Salée, Martinique',
+        },
+
+    {
+        'name': 'Emulation (Schoelcher)',
+        'city': 'Schoelcher, Martinique',
+        },
+
+    {
+        'name': 'Golden Star',
+        'founded': 1905,
+        'city': 'Fort-de-France, Martinique',
+        },
+
+    {
+        'name': 'Good Luck',
+        'city': 'Fort-de-France, Martinique',
+        },
+
+    {
+        'name': 'AS New Club',
+        'founded': 1948,
+        'city': 'Petit-Bourg, Martinique',
+        },
+
+    {
+        'name': 'Réveil-Sportif',
+        'founded': 1938,
+        'city': 'Gros-Morne, Martinique',
+        },
+
+    {
+        'name': 'Club Colonial',
+        'founded': 1906,
+        'city': 'Fort-de-France, Martinique',
+        },
+
+    {
+        'name': 'Assaut de Saint-Pierre',
         'city': 'Saint-Pierre, Martinique',
         },
 
     {
         'name': 'CS Case-Pilote',
         'city': 'Case-Pilote, Martinique',
+        },
+
+    {
+        'name': 'Gri-Gri',
+        'city': 'Rivière-Pilote, Martinique',
+        },
+
+    {
+        'name': 'US Marinoise',
+        'city': 'Le Marin, Martinique',
+        },
+
+    {
+        'name': 'RC Arlésien',
+        'city': 'Les Anses-d\'Arlet, Martinique',
+        },
+
+    {
+        'name': 'Etoile (Basse-Pointe)',
+        'city': 'Basse-Pointe, Martinique',
+        },
+
+    {
+        'name': 'Etoile (Rivière-Salée)',
+        'city': 'Rivière-Salée, Martinique',
+        },
+
+    {
+        'name': 'Olympique (Marin)',
+        'city': 'Le Marin, Martinique',
+        },
+
+    {
+        'name': 'Racing Club Saint-Joseph',
+        'city': 'Saint-Joseph, Martinique',
         },
 
 
@@ -297,9 +436,72 @@ l = [
         },
 
     {
-        'name': 'Réveil-Sportif',
-        'city': 'Gros-Morne, Martinique',
+        'name': 'Santana FC',
+        'city': 'Sainte-Anne, Martinique',
         },
+
+    {
+        'name': 'Club Péléen',
+        'city': 'Morne Rouge, Martinique',
+        },
+
+    {
+        'name': 'CS Vauclinois',
+        'city': 'Le Vauclin, Martinique',
+        },
+
+    {
+        'name': 'Racing Club Lorrain',
+        'city': 'Le Lorrain, Martinique',
+        },
+
+    {
+        'name': 'Anses d\'Arlet FC',
+        'city': 'Les Anses-d\'Arlet, Martinique',
+        },
+
+    {
+        'name': 'Silver Star',
+        'city': 'L\'Ajoupa-Bouillon, Martinique',
+        },
+
+    {
+        'name': 'AC Real Tartane',
+        'city': 'La Trinité, Martinique',
+        },
+
+    {
+        'name': 'CS Bélimois',
+        'city': 'Le Lamentin, Martinique',
+        },
+
+    {
+        'name': 'Samaritaine',
+        'founded': 1920,
+        'city': 'Sainte-Marie, Martinique',
+        },
+
+    {
+        'name': 'US Diamantinoise',
+        'city': 'Le Diamant, Martinique',
+        },
+
+    {
+        'name': 'Stade Spiritain',
+        'city': 'Saint-Esprit, Martinique',
+        },
+
+
+    {
+        'name': 'Essor-Préchotain',
+        'city': 'Le Prêcheur, Martinique',
+        },
+
+    {
+        'name': 'AC Vert-Pré',
+        'city': 'Vert-Pré, Martinique',
+        },
+
 
 
     {
@@ -394,6 +596,24 @@ l = [
         'city': 'Willemstad, Curacao',
         },
 
+    {
+        'name': 'Inter Willemstad',
+        'founded': datetime.datetime(1997, 4, 1),
+        'city': 'Willemstad, Curacao',
+        },
+
+    {
+        'name': 'S.V. S.U.B.T.',
+        'founded': datetime.datetime(1925, 9, 25),
+        'city': 'Willemstad, Curacao',
+        },
+
+    {
+        'name': 'SV VESTA',
+        'founded': datetime.datetime(1948, 6, 30),
+        'city': 'Willemstad, Curacao',
+        },
+
 
     {
         'name': 'Hubentut Fortuna',
@@ -420,6 +640,18 @@ l = [
         'name': 'Jong Holland',
         'founded': 1919,
         'city': 'Willemstad, Curacao',
+        },
+
+    {
+        'name': 'Deportivo Santa Cruz',
+        'founded': 1975,
+        'city': 'Curacao',
+        },
+
+    {
+        'name': 'RKSV Centro Dominguito',
+        'founded': 1952,
+        'city': 'Curacao',
         },
 
 
@@ -691,6 +923,15 @@ l = [
     {
         'name': 'Devonshire Cougars',
         'city': 'Devonshire, Bermuda',
+        },
+
+    {
+        'name': 'Southampton Rangers',
+        'city': 'Southampton, Bermuda',
+        },
+
+    {
+        'name': 'Boulevard Blazers', # Bermuda
         },
 
 

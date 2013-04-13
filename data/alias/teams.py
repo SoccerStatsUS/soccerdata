@@ -63,6 +63,21 @@ slugs = {
 
 
 world = {
+    'St. George Colts': 'St. George\s Colts',
+    'Vibe CT 105 W. Connection': 'W Connection',
+    'Vibe CT 105 W. Connection': 'W Connection',
+    'Vibe CT 105 W Connection': 'W Connection',
+    'Vibe CT 105W Connection F.C.': 'W Connection',
+    'Morvant-Arima Fire': 'Arima Fire',
+    'Williams Connection': 'W Connection',
+    'Police F.C.': 'Police FC',
+    'Devonshire Colts FC': 'Devonshire Colts',
+    'Doc\'s Khewalaas F.C.': 'Doc\'s Khelwalaas',
+    'Neal & Massy Caledonia AIA': 'Caledonia AIA',
+    'San Fernando Starworld Strikers': 'South Starworld Strikers',
+    'National Quarries North-East Stars': 'North East Stars',
+    'Superstar Rangers': 'St Ann\'s Rangers',
+    'St Anns Rangers': 'St Ann\'s Rangers',
 
     # Korea
     'Kookmin Bank': 'Goyang KB Kookmin Bank FC',
@@ -135,13 +150,24 @@ world = {
     'Milerock': 'Milerock FC',
     'System 3': 'System 3 FC',
     'Systems 3': 'System 3 FC',
-    'CS Barber': 'Centro Barber',
-    'Jong Colombia': 'CRKSV Jong Colombia',
-    'Sithoc': 'RKV FC SITHOC',
+
     'Notre Dame (Barbados)': 'Notre Dame SC',
     'South East United': 'Sagicor South East United',
     'Sagicor South East': 'Sagicor South East United',
     'L\'Aiglon': 'Aiglon du Lamentin',
+
+
+    # Curacao
+    'CS Barber': 'Centro Barber',
+    'Jong Colombia': 'CRKSV Jong Colombia',
+    'Jong Holland': 'CRKSV Jong Holland',
+    'RKVFC Sithoc': 'RKV FC SITHOC',
+    'SUBT': 'S.V. S.U.B.T.',
+    'VESTA': 'SV VESTA',
+    'SV Hubentud Fortuna': 'Hubentud Fortuna',
+    'Hubentud Fortuna': 'Hubentut Fortuna',
+    'SV Centro Social Deportivo Barber': 'Centro Barber',
+    'Sithoc': 'RKV FC SITHOC',
 
     # Haiti
     'Tempete FC': 'Tempête FC',
@@ -1411,6 +1437,9 @@ world = {
 
     # Bermuda
     #Vasco da Gama (Bermuda)
+    'North Village Red Devils': 'North Village Rams',
+    'Vasco da Gama': 'Vasco da Gama (Bermuda)',
+    'Dandy Town': 'Dandy Town Hornets',
     'Vasco Da Gama (Bermuda)': 'Vasco da Gama (Bermuda)',
     'Pembroke-Hamilton': 'Pembroke Hamilton Club',
     'Pembroke-Hamilton Club': 'Pembroke Hamilton Club',
@@ -1420,6 +1449,11 @@ world = {
     'Racing Club Aruba': 'SV Racing Club Aruba',
 
     # Martinique
+    'RC Lorrain': 'Racing Club Lorrain',
+    'RC Saint-Joseph': 'Racing Club Saint-Joseph',
+    'Olympique (Marin)': 'Olympique du Marin',
+    'Rapid Club Lorrain': 'RC Lorrain',
+    'CS Case Pilote': 'CS Case-Pilote',
     'Olympique (Ft-de-France)': 'Olympique du Marin',
     'RC Riviere-Pilote': 'RC Rivière-Pilote',
 
@@ -1488,7 +1522,14 @@ world = {
     'Violette': 'Violette AC',
     
     # Trinidad
-
+    'CL Financial San Juan Jabloteh': 'San Juan Jabloteh',
+    'CL Financial San Juan Jabloteh R.C.': 'San Juan Jabloteh',
+    'CLICO San Juan Jabloteh': 'San Juan Jabloteh',
+    'Caledonia AIA/Fire': 'Caledonia AIA',
+    'Caledonia F.C.': 'Caledonia AIA',
+    'Defence Force (Mucurapo)': 'Defence Force',
+    'Defence Force F.C.': 'Defence Force',
+    'Arima Fire F.C.': 'Arima Fire',
     'Regiment (TRI)': 'Regiment (Trinidad)',
     #ASL (Trinidad)
     #Regiment (Trinidad)
