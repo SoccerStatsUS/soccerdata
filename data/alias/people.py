@@ -5,7 +5,8 @@ from django.template.defaultfilters import slugify
 
 
 
-def get_name(name, league=None):
+def get_name(name):
+    # Check slug names.
     try:
         slug = slugify(name)
     except:
@@ -13,17 +14,14 @@ def get_name(name, league=None):
     if slug in slugs:
         name = slugs[slug]
 
-    return _get_name(name, league)
+    return _get_name(name)
 
-def _get_name(name, league):
-    # Remove league option from get_name.
+def _get_name(name):
+    # Merge these functions.
     name = name.strip()
-    if league and (name, league) in names:
-        name = names[(name, league)]
-        return get_name(name, league)
 
     if name in names:
-        nname = _get_name(names[name], None)
+        nname = _get_name(names[name])
         if nname in names:
             print nname
         return nname

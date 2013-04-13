@@ -9,6 +9,10 @@ def process_awards(d):
     Given a dictionary, process the awards described inside.
     """
     l = []
+
+    if 'competition' not in d:
+        import pdb; pdb.set_trace()
+    
     competition = d.pop('competition')
 
     if 'champion' in d:

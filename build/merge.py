@@ -119,9 +119,9 @@ def merge_goals():
         d['team'] = get_team(d['team'])
 
         if d['goal']:
-            d['goal'] = get_name(d['goal'].strip())
+            d['goal'] = get_name(d['goal'])
 
-        d['assists'] = [get_name(e.strip()) for e in d['assists']]
+        d['assists'] = [get_name(e) for e in d['assists']]
 
         # Technically, the same player could score two goals in the
         # same minute. If this ever comes up, I'll have to reconsider
@@ -358,7 +358,7 @@ def merge_bios():
         # { 'name': 'John Smith', 'birthdate': datetime.datetime(1900, 1, 1), 
         # birthplace': 'Atlannta, Georgia' }
         
-        name = get_name(d['name'].strip())
+        name = get_name(d['name'])
         d['name'] = name
         
         if name in bio_dict:
@@ -399,8 +399,8 @@ def merge_stats(stats_lists):
     def update_stat(d):
         if 'team' not in d:
             import pdb; pdb.set_trace()
-        d['team'] = get_team(d['team'].strip())
-        d['name'] = get_name(d['name'].strip())
+        d['team'] = get_team(d['team'])
+        d['name'] = get_name(d['name'])
         t = (d['name'], d['team'], d['competition'], d['season'])
         if t in stat_dict:
             orig = stat_dict[t]

@@ -87,6 +87,9 @@ def load_drafts():
 
 
 def load_games():
+    load_nwsl()
+    return
+    load_uncaf()
     load_cfu()
     load_australia()    
     load_japan()
@@ -96,7 +99,7 @@ def load_games():
     load_uruguay()
 
     load_chile()
-    load_uncaf()
+
 
     load_concacaf()
 
@@ -333,7 +336,6 @@ def load_canada():
 
 def load_uncaf():
     load_standings_standard('uncaf', 'domestic/country/elsalvador2')
-    return
 
     generic_load(soccer_db.uncaf_awards, awards.process_uncaf_awards)
 
@@ -416,6 +418,8 @@ def load_brazil_international():
 
 
 
+def load_nwsl():
+    load_games_standard('nwsl', 'domestic/country/usa/leagues/nwsl')
 
 def load_mls():
 
@@ -1005,7 +1009,7 @@ def load_cfu():
 
 
 def load_uncaf_international():
-    generic_load(soccer_db.uncaf_awards, awards.process_uncaf_international_awards)
+    #generic_load(soccer_db.uncaf_awards, awards.process_uncaf_international_awards)
 
     load_games_standard('uncaf', 'international/confederation/concacaf/uncaf')
 
