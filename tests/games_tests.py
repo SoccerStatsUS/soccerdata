@@ -301,3 +301,28 @@ def test_video():
     assert_equal(g1['team2_score'], 3)
     #assert_equal(g1['minutes'], 94)
     assert_equal(g1['video'], 'http://www.youtube.com/watch?v=AyRVWDgxovY')
+
+
+
+
+
+LINEUPS = """
+Competition: USL First Division
+Season: 2004
+
+10/20/1996; Charleston Battery; 1-0; Rochester Rhinos
+Charleston Battery: John Wilson [Nothing], Paul Conway
+"""
+
+def test_lineups():
+    games, goals, misconduct, appearances, rosters = process_string(LINEUPS)
+    g1 = games[0]
+    assert_equal(g1['competition'], 'USL First Division')
+    assert_equal(g1['season'], '2004')
+    assert_equal(g1['team1'], 'Charleston Battery')
+    assert_equal(g1['team2'], 'Rochester Rhinos')
+    assert_equal(g1['team1_score'], 1)
+    assert_equal(g1['team2_score'], 0)
+    assert_equal(appearances[0]['name'], 'John Wilson')
+    assert_equal(appearances[1]['name'], 'Paul Conway')
+

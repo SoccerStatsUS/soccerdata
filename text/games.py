@@ -25,6 +25,36 @@ def process_name(s):
     else:
         return s
 
+
+def filter_brackets(s):
+    t = ''
+    bracketed = False
+    for char in s:
+        if char == '[':
+            if bracketed == False:
+                bracketed = True
+            else:
+                import pdb; pdb.set_trace()
+
+        if char == ']':
+            if bracketed == True:
+                bracketed = False
+            else:
+                import pdb; pdb.set_trace()
+
+        if bracketed == False and char not in '[]':
+            t += char
+
+
+    if bracketed:
+        import pdb; pdb.set_trace()
+
+    return t
+            
+            
+
+
+
 class GeneralProcessor(object):
     """
     An object to feed lines of text to.
@@ -566,6 +596,7 @@ class GeneralProcessor(object):
     def process_lineup(self, line):
 
         def process_appearance(s, team, order):
+            s = filter_brackets(s)
 
             capts = ['(c)', '(capt)', '(capt.)', '(Capt.)', '(Capt)', '(cap)']
             for e in capts:
