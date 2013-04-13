@@ -63,6 +63,13 @@ slugs = {
 
 
 world = {
+
+    'Municipal Limeno': 'CD Municipal Limeño',
+    'Municipal Limeño': 'CD Municipal Limeño',
+    'CD Municipal Limeno': 'CD Municipal Limeño',
+    'Seba United FC': 'Montego Bay United',
+
+    'CD Dragon': 'CD Dragón',
     'St. George Colts': 'St. George\s Colts',
     'Vibe CT 105 W. Connection': 'W Connection',
     'Williams Connection FC': 'W Connection',

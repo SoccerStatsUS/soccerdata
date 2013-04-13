@@ -87,12 +87,33 @@ def load_drafts():
 
 
 def load_games():
-    load_nwsl()
-    return
-    load_uncaf()
+
+    load_world()
+
     load_cfu()
+    load_uncaf()
+    load_concacaf()
+    return
+    load_korea()
+    load_mls() 
+
+
+    load_nwsl()
+    load_modern_cups()
+    load_early_cups()
+    load_modern_friendlies()
+    load_early_friendlies()
+
+    load_isl()
+
+
+    load_asl2()
+    load_melvin()
+    load_esl()    
+
     load_australia()    
     load_japan()
+
 
     load_china()
 
@@ -101,17 +122,13 @@ def load_games():
     load_chile()
 
 
-    load_concacaf()
-
     load_conmebol_international()
     load_concacaf_international()
     load_uncaf_international()
-    load_mls()
 
-    load_isl()
-    load_modern_cups()
+
     load_usmnt()
-    load_modern_friendlies()
+
     load_conmebol()
     load_oceania()
     load_oceania_international()
@@ -122,13 +139,13 @@ def load_games():
     load_mexico()
 
     load_nasl()
-    load_asl2()
-    load_melvin()
+
+
     load_leach()     
-    load_world()
+
     load_world_international()
     load_fifa()
-    load_early_friendlies()
+
     load_indoor()
     load_pdl()
     load_asl()
@@ -136,9 +153,9 @@ def load_games():
     load_argentina()
     load_brazil()
     #load_brazil_international()
-    load_early_cups()
+
     load_canada()
-    load_esl()    
+
     load_city()
     load_ny()
 
@@ -449,6 +466,9 @@ def load_mls():
     load_mls_lineup_db()
 
     from scrapers.mls2 import scrape_competition
+
+
+    # MLS League 2012
     url = 'http://www.mlssoccer.com/schedule?month=all&year=2012&club=all&competition_type=46&broadcast_type=all&op=Search&form_id=mls_schedule_form'
     games, goals, lineups = scrape_competition(url, 'Major League Soccer')
 
@@ -457,13 +477,19 @@ def load_mls():
     generic_load(soccer_db['mls2_goals'], lambda: goals)
     generic_load(soccer_db['mls2_lineups'], lambda: lineups)
 
+
+    # MLS Playoffs 2012
     url = 'http://www.mlssoccer.com/schedule?month=all&year=2012&club=all&competition_type=45&broadcast_type=all&op=Search&form_id=mls_schedule_form'
     games, goals, lineups = scrape_competition(url, 'MLS Cup Playoffs')
+
+    # We're getting null values for some lineups here. Not sure why.
 
     generic_load(soccer_db['mls2_games'], lambda: games)
     generic_load(soccer_db['mls2_goals'], lambda: goals)
     generic_load(soccer_db['mls2_lineups'], lambda: lineups)
 
+
+    # MLS Cup 2012
     url = 'http://www.mlssoccer.com/schedule?month=all&year=2012&club=all&competition_type=44&broadcast_type=all&op=Search&form_id=mls_schedule_form'
     games, goals, lineups = scrape_competition(url, 'MLS Cup Playoffs')
 
@@ -548,9 +574,6 @@ def load_modern_friendlies():
     load_games_standard('tours', 'domestic/country/usa/friendly/1978')
     load_games_standard('tours', 'domestic/country/usa/friendly/1980')
     load_games_standard('tours', 'domestic/country/usa/friendly/1982')
-
-
-
 
 
 
@@ -872,8 +895,12 @@ def load_china():
 
 
 def load_japan():
-
     load_standings_standard('japan', 'domestic/country/japan')
+
+
+
+def load_korea():
+    load_standings_standard('korea', 'domestic/country/korea')
 
 
 def load_australia():
@@ -998,8 +1025,11 @@ def load_conmebol_international():
 
 
 def load_cfu():
-    load_standings_standard('cfu', 'domestic/country/jamaica2')
-    return
+    load_standings_standard('cfu', 'domestic/country/bermuda')
+    load_standings_standard('cfu', 'domestic/country/trinidad')
+    load_standings_standard('cfu', 'domestic/country/curacao')
+    load_standings_standard('cfu', 'domestic/country/martinique')
+    load_standings_standard('cfu', 'domestic/country/jamaica')
     load_games_standard('cfu', 'domestic/confederation/concacaf/cfu/1990')
     load_games_standard('cfu', 'domestic/confederation/concacaf/cfu/2000')
     load_games_standard('cfu', 'domestic/confederation/concacaf/cfu/2010')
@@ -1033,11 +1063,13 @@ def load_world():
     load_games_standard('world', 'domestic/world/parmalat')
     load_games_standard('world', 'domestic/world/copa_rio')
 
-    load_games_standard('misc', 'international/misc/fifa_world_stars_games')
 
+
+    load_games_standard('world', 'domestic/world/interamericana')
     for e in [1960, 1970, 1980, 1990, 2000]:
-        load_games_standard('world', 'domestic/world/intercontinental_cup/%s' % e)
+        load_games_standard('world', 'domestic/world/intercontinental/%s' % e)
 
+    load_games_standard('misc', 'international/misc/fifa_world_stars_games')
 
 
 def load_caribbean_international():
@@ -1143,14 +1175,16 @@ def load_concacaf_international():
 def load_concacaf():
 
     load_games_standard('concacaf', 'domestic/confederation/concacaf/giantscup')
+    load_games_standard('concacaf', 'domestic/confederation/concacaf/recopa')
     load_games_standard('concacaf', 'domestic/confederation/concacaf/superliga')
-    load_games_standard('concacaf', 'domestic/confederation/concacaf/champions_league')
-
+    load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/league')
     generic_load(soccer_db.concacaf_awards, awards.process_concacaf_awards)
 
-    load_games_standard('concacaf', 'domestic/confederation/concacaf/champions_cup/2000')
+    return
+
+    load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/2000')
     for e in '6789':
-        load_games_standard('concacaf', 'domestic/confederation/concacaf/champions_cup/19%s0' % e)
+        load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/19%s0' % e)
 
 
     #load_soccernet_league('concacaf', 'concacaf.champions')

@@ -909,6 +909,17 @@ l = [
         },
 
     {
+        'name': 'Somerset Eagles',
+        'city': 'Somerset, Bermuda',
+        },
+
+
+    {
+        'name': 'Somerset Trojans',
+        'city': 'Somerset, Bermuda',
+        },
+
+    {
         'name': 'Pembroke Hamilton Club',
         'city': 'Pembroke Parish, Bermuda',
         },

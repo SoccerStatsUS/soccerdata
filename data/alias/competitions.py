@@ -12,6 +12,9 @@ full_alias = {
     'Torneo Grandes de Centroamerica': 'Copa Interclubes UNCAF',
     'UNCAF Club Championship': 'Copa Interclubes UNCAF',
 
+    'Copa Interamericana': 'Interamerican Cup',
+    'Copa Intercontinental': 'Intercontinental Cup',
+
     'Chilean Primera División': 'Chilean Primera Division',
 
     'Merconorte Cup': 'Copa Merconorte',
