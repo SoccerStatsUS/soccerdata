@@ -10,12 +10,6 @@ l = [
         'city': 'Choluteca, Honduras',
         },
 
-
-
-
-
-
-
     { 'name': 'Omai Gold Seekers' }, # Guyana 
 
 

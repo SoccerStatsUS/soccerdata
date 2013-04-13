@@ -6,7 +6,8 @@ aliases = {}
 
 full_alias = {
 
-
+    # Once competition mapping is implemented.
+    #'CONCACAF Champions\' Cup': 'CONCACAF Champions League',
     'Copa Fraternidad Centroamericana': 'Copa Interclubes UNCAF',
     'Torneo Grandes de Centroamerica': 'Copa Interclubes UNCAF',
     'UNCAF Club Championship': 'Copa Interclubes UNCAF',

@@ -65,6 +65,7 @@ slugs = {
 world = {
     'St. George Colts': 'St. George\s Colts',
     'Vibe CT 105 W. Connection': 'W Connection',
+    'Williams Connection FC': 'W Connection',
     'Vibe CT 105 W. Connection': 'W Connection',
     'Vibe CT 105 W Connection': 'W Connection',
     'Vibe CT 105W Connection F.C.': 'W Connection',
