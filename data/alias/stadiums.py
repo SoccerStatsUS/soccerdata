@@ -136,6 +136,7 @@ stadiums = {
     'Estadío Ramón Aguilera': 'Estadio Ramón Tahuichi Aguilera',
     'Estadio Ramon Tahuichi Aguilera': 'Estadio Ramón Tahuichi Aguilera',
     'Estadio Defensores Del Chaco': 'Estadio Defensores del Chaco',
+    'Estadio de los Defensores del Chaco': 'Estadio Defensores del Chaco',
     'Estadio Parque Antartica': 'Estádio Parque Antarctica',
     'Estadío Independencia': 'Estádio Independência',
     'Estadio Independencia': 'Estádio Independência',
@@ -514,9 +515,9 @@ stadiums = {
 
 
 
-    'Estadio Ricardo Saprisa': 'Estadío Ricardo Saprissa', 
-    'Estadio Ricardo Saprissa': 'Estadío Ricardo Saprissa', 
-    'Estadio Ricardo Saprissa Aymá': 'Estadío Ricardo Saprissa',
+    'Estadio Ricardo Saprisa': 'Estadio Ricardo Saprissa', 
+    'Estadio Ricardo Saprissa Aymá': 'Estadio Ricardo Saprissa',
+    'Estadio Saprissa': 'Estadio Ricardo Saprissa',
     'Azteca Stadium': 'Estadio Azteca',
     'Orange Bowl': 'Miami Orange Bowl',
     'The Polo Grounds': 'Polo Grounds',
