@@ -15,6 +15,30 @@ import re
 
 
 
+def process_string(s):
+    lines = s.split('\n')
+    return process_lines(lines)
+
+def process_lines(lines):
+    gp = GeneralProcessor()
+    for line in lines:
+        gp.process_line(line)
+
+    return (gp.games, gp.goals, gp.misconduct, gp.appearances, gp.rosters)
+        
+
+def process_games_file(fn):
+    p = os.path.join("/home/chris/www/soccerdata/data/games", fn)
+    return process_file(p)
+
+def process_file(p):
+    f = open(p)
+    return process_lines(f)
+
+
+
+
+
 def process_name(s):
     """Clean up a player name. Remove possible leading numbers.
     e.g. '18-Tim Howard ' -> 'Tim Howard'"""
@@ -26,7 +50,37 @@ def process_name(s):
         return s
 
 
+# This and filter_brackets seem quite similar.
+def split_outside_parens(s, delimiters=','):
+    """
+    Eddie Pope, Josh Wolff (Clint Mathis 30, Landon Donovan 60) -> 
+    ['Eddie Pope', 'Josh Wolff (Clint Mathis 30, Landon Donovan 60)']
+    """
+    in_paren = False
+    l = []
+    ns = ''
+
+    for char in s:
+        if char == '(':
+            in_paren = True
+        if char == ')':
+            in_paren = False
+
+        if char in delimiters and not in_paren:
+            l.append(ns)
+            ns = ''
+        else:
+            ns += char
+
+    l.append(ns)
+    return l
+
+
 def filter_brackets(s):
+    """
+    Remove data inside brackets in a string.
+    eg Doug Miller [Rochester Rhinos] (Josh Wolff [Project-40] 78) -> Doug Miller (Josh Wolff 78)
+    """
     t = ''
     bracketed = False
     for char in s:
@@ -54,15 +108,15 @@ def filter_brackets(s):
             
 
 
-
 class GeneralProcessor(object):
     """
-    An object to feed lines of text to.
-    Retains a basic memory
+    A game processing class.
+    Processes content as a set of lines.
     """
 
     DATE_RE = re.compile("(\d+)/([\d\?]+)/(\d+)")
     DATE_TIME_RE = re.compile("(\d+)/(\d+)/(\d+) (\d+)z")
+    FLAGS = ["Minigame", "Forfeit"] # Replay, Indoor
 
     def __init__(self):
         self.competition = None
@@ -72,18 +126,16 @@ class GeneralProcessor(object):
         self.sources = []
 
         self.current_game = None
-        self.score_type = "standard"
         self.century = None # Manage dates like 3/23/10
 
         self.date = None
         self.date_style = 'month first'
 
+        # Data containers
         self.games = []
         self.goals = []
         self.misconduct = []
         self.appearances = []
-        
-
         self.rosters = []
 
 
@@ -104,27 +156,24 @@ class GeneralProcessor(object):
                 key = tag_data(line, tag)
 
 
-
-
         # Represents a comment.
         if line.startswith("*"):
             return
 
-        # Set the previous game as a minigame.
+        if line.startswith('Replay') or line.startswith('Indoor'):
+            return
 
-        for e in ["Minigame", "Forfeit"]:
+
+        # Handle flag data like Forfeit, Minigame.
+        for e in self.FLAGS:
             if line.startswith(e):
-                self.games[-1][e.lower()] = True
+                self.current_game[e.lower()] = True
                 return
 
-            
         if line.startswith("Notes:"):
-            self.games[-1]['notes'] = tag_data(line, "Notes:")
+            self.current_game['notes'] = tag_data(line, "Notes:")
             return
 
-
-        if line.startswith("Replay"):
-            return
 
         if line.startswith("Date:"):
             d = line.split('Date:')[1].strip()
@@ -136,23 +185,15 @@ class GeneralProcessor(object):
 
             return
 
-
         if line.startswith("Date-style"):
             self.date_style = tag_data(line, "Date-style:")
             return
-
 
 
         # Change the number of minutes.
         if line.startswith("Minutes:"):
             self.current_game['minutes'] = int(tag_data(line, 'Minutes:'))
             return
-
-
-        # Change the game type.
-        if line.startswith("Indoor"):
-            return
-
 
         # Set the competition.
         if line.startswith("Competition:"):
@@ -197,10 +238,6 @@ class GeneralProcessor(object):
         if line.startswith('Subs:'):
             return
 
-        if line.startswith("Description"):
-            return
-
-
         if line.startswith("Source:"):
             self.current_game['sources'].append(tag_data(line, "Source:"))
             return
@@ -209,22 +246,16 @@ class GeneralProcessor(object):
             self.current_game['video'] = tag_data(line, "Video:")
             return
 
+        # Should probably be able to unset BlockSource with a blank?
         if line.startswith('BlockSource:'):
             source = tag_data(line, "BlockSource:")
             if source:
                 self.sources = [source]
             return
 
-
         if line.startswith("Century"):
             self.century = int(tag_data(line, "Century:"))
             return
-
-
-        if line.startswith("Score type:"):
-            self.score_type = tag_data(line, "Score type:")
-            return
-
 
 
         if line.startswith("Red Card:"):
@@ -237,18 +268,10 @@ class GeneralProcessor(object):
             return
 
 
-
-        # A terrible solution
-        # This destroys goal processing.
-        # Nevertheless something like this would be good.
-        # Fields was being thrown off by a trailing ;
-        # This makes that not happen without fixing the
-        # underlying problem.
-        #if line.endswith(';'):
-        #    line = line[:-1]
-
         fields = line.split(";")
-            
+
+
+        # This section should be completely unnecessary now with colon-delimiters removed.
 
         # Checking for Brooklyn FC: GK, DF
         # Trying to handle 1/25/1990; Brooklyn FC; 2 : 1; Queens Boys
@@ -274,7 +297,7 @@ class GeneralProcessor(object):
 
             # Game without a date.
             # Need to implement this.
-            # Whoops - this kills a lot of valid game results.
+            # Whoops - this kills a lot of valid game results. [why?]
             if line.startswith(";") and line.count(';') > 1:
                 return self.process_game_fields(fields)
 
@@ -297,7 +320,11 @@ class GeneralProcessor(object):
             if fields[0].startswith('?'):
                 return self.process_game_fields(fields)
 
-        # Goals is the final fallback.
+        # If nothing else matches, we must have a goal list.
+        # (This fallback behavior means errors tend to accumulate
+        # inside goal objects.
+        # eg given FC Dallas; Kevin Hartman, Jackson... we get a long list of goals.
+        # [Overreported goals should be treated with more suspicion than underreported goals.
         try:
             team1_goals, team2_goals = line.split(";")
         except ValueError:
@@ -306,7 +333,6 @@ class GeneralProcessor(object):
             raise
 
         self.process_goals(team1_goals, team2_goals)
-                
 
         
     def process_misconduct(self, line):
@@ -341,16 +367,8 @@ class GeneralProcessor(object):
         else:
             l = process_side(None, line)
 
-
-
-
         return l
         
-
-
-
-        
-
 
     def process_roster(self, line):
 
@@ -440,79 +458,57 @@ class GeneralProcessor(object):
                 year += self.century
             d = datetime.datetime(year, int(month), int(day))
             
-        # Some scores are separated by colons.
-        if self.score_type == "colon-delimited":
-            delimiter = ":"
-        else:
-            delimiter = "-"
 
         result_unknown = False
 
-        if self.score_type in ('standard', 'colon-delimited'):
-            try:
-                team1, score, team2 = fields[1:4]
+        team1, score, team2 = fields[1:4]
 
-                score = score.lower().strip()
-                minutes = 90
+        score = score.lower().strip()
+        minutes = 90
 
-                if '(aet)' in score:
-                    score = score.replace('(aet)', '')
-                    minutes = 120
+        if '(aet)' in score:
+            score = score.replace('(aet)', '')
+            minutes = 120
 
-                if '(asdet)' in score:
-                    score = score.replace('(asdet)', '')
-                    minutes = 'asdet'
+        if '(asdet)' in score:
+            score = score.replace('(asdet)', '')
+            minutes = 'asdet'
 
 
-                # Eventually will indicate a blank score.
-                # We're not prepared to handle this, so leave the function.
-                if score == 'w/o':
-                    print "skipping: %s" % score
-                    winner = team1
-                    return
+        # Eventually will indicate a blank score.
+        # Replace w/o with more explicit data.
+        if score == 'w/o':
+            print "skipping: %s" % score
+            return
 
-                elif score == '?':
-                    team1_score = team2_score = None
-                    result_unknown = True
-                elif score in ('n/p', 'np', 'v'):
-                    team1_score = team2_score = None
-                else:
-                    team1_score, team2_score = [e.strip() for e in score.split(delimiter)]
+        # Parse score data.
+        elif score in '?v':
+            team1_score = team2_score = None
+            result_unknown = True
 
-                    if team1_score in 'wlt':
-                        team1_result = team1_score
-                        team1_score = None
-                    else:
-                        team1_score = int(team1_score)
-
-
-                    if team2_score in 'wlt':
-                        team2_result = team2_score
-                        team2_score = None
-                    else:
-                        team2_score = int(team2_score)
-
-                    winner = None
-            except:
-                import pdb; pdb.set_trace()
-
-            remaining = fields[4:]
-
-
-        # Can't handle more complex score processing with byteam
-        # Intend to just drop this completely eventually.
-        elif self.score_type == 'byteam':
-            score_re = re.compile('(.*?)(\d+)\'?')
-            team1, team1_score = score_re.match(fields[1]).groups()
-
-            team2, team2_score = score_re.match(fields[2]).groups()
-
-            team1_score, team2_score = int(team1_score), int(team2_score)
-
-            remaining = fields[3:]
+        elif score in ('n/p', 'np'):
+            team1_score = team2_score = None
 
         else:
-            import pdb; pdb.set_trace()
+            team1_score, team2_score = [e.strip() for e in score.split('-')]
+
+            if team1_score in 'wlt':
+                team1_result = team1_score
+                team1_score = None
+            else:
+                team1_score = int(team1_score)
+
+
+            if team2_score in 'wlt':
+                team2_result = team2_score
+                team2_score = None
+            else:
+                team2_score = int(team2_score)
+
+
+        # Process ref, assistant refs, attendance, location.
+        remaining = fields[4:]
+
 
         # Attendance is always the last item.
         if remaining:
@@ -544,9 +540,10 @@ class GeneralProcessor(object):
             import pdb; pdb.set_trace()
 
         
+        # Home team management.
+        # Should do this in normalization...
         team1 = team1.strip()
         team2 = team2.strip()
-
         location = location.strip()
         
         neutral = False
@@ -564,8 +561,8 @@ class GeneralProcessor(object):
 
             'date': d,
 
-            'team1': team1.strip(),
-            'team2': team2.strip(),
+            'team1': team1,
+            'team2': team2,
             'team1_score': team1_score,
             'team2_score': team2_score,
             'team1_result': team1_result,
@@ -644,9 +641,6 @@ class GeneralProcessor(object):
                 return [e]
 
             else:
-
-                    
-                
                 starter, subs = s.split("(")
                 subs = subs.replace(")", "")
                 sub_items = subs.split(",")
@@ -675,9 +669,6 @@ class GeneralProcessor(object):
 
                 return l
 
-
-
-
         # Remove trailing marks.
         line = line.strip()
         if line[-1] in ('.', ','):
@@ -691,9 +682,6 @@ class GeneralProcessor(object):
             lineups.extend(process_appearance(e, team, order))
 
         return lineups
-
-
-            
 
 
     def process_goals(self, team1_goals, team2_goals):
@@ -750,49 +738,6 @@ class GeneralProcessor(object):
 
             
 
-
-def process_string(s):
-    lines = s.split('\n')
-    return process_lines(lines)
-
-def process_lines(lines):
-    gp = GeneralProcessor()
-    for line in lines:
-        gp.process_line(line)
-
-    return (gp.games, gp.goals, gp.misconduct, gp.appearances, gp.rosters)
-        
-
-def process_games_file(fn):
-    p = os.path.join("/home/chris/www/soccerdata/data/games", fn)
-    return process_file(p)
-
-def process_file(p):
-    f = open(p)
-    return process_lines(f)
-
-
-
-def split_outside_parens(s, delimiters=','):
-    # Supports multiple delimiters.
-    in_paren = False
-    l = []
-    ns = ''
-
-    for char in s:
-        if char == '(':
-            in_paren = True
-        if char == ')':
-            in_paren = False
-
-        if char in delimiters and not in_paren:
-            l.append(ns)
-            ns = ''
-        else:
-            ns += char
-
-    l.append(ns)
-    return l
                     
 
         

@@ -311,7 +311,7 @@ Competition: USL First Division
 Season: 2004
 
 10/20/1996; Charleston Battery; 1-0; Rochester Rhinos
-Charleston Battery: John Wilson [Nothing], Paul Conway
+Charleston Battery: John Wilson [Nothing], Paul Conway, 12-Osvaldo Alonso
 """
 
 def test_lineups():
@@ -325,4 +325,5 @@ def test_lineups():
     assert_equal(g1['team2_score'], 0)
     assert_equal(appearances[0]['name'], 'John Wilson')
     assert_equal(appearances[1]['name'], 'Paul Conway')
+    assert_equal(appearances[2]['name'], 'Osvaldo Alonso')
 
