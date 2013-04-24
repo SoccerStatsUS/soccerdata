@@ -18,6 +18,13 @@ l = [
         'founded': 2010,
         },
 
+    {
+        'name': 'Ottawa Intrepid',
+        'city': 'Ottawa, ON',
+        'founded': 1987,
+        'dissolved': 1990,
+        },
+
 
 
     {

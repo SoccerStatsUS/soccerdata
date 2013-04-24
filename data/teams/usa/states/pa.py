@@ -12,6 +12,13 @@ l = [
         },
 
     {
+        'name': 'Pennsylvania Stoners',
+        'city': 'Allentown, PA',
+        'founded': 2007,
+        'dissolved': 2008,
+        },
+
+    {
         'name': 'FC Sonic Lehigh Valley',
         'city': 'Allentown, PA',
         'founded': 2009,

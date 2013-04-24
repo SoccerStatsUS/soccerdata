@@ -1230,6 +1230,35 @@ l = [
         'city': 'Tijuana, Mexico',
         },
 
+
+
+    {
+        'name': 'CD Zacatepec',
+        'founded': 1948,
+        'city': 'Zacatepeca, Mexico',
+        },
+
+
+    {
+        'name': 'Deportivo Neza',
+        'founded': 1978,
+        'city': 'Ciudad Neza, Mexico',
+        },
+
+    {
+        'name': 'Toros Neza',
+        'founded': 1993, # re=founded 2011.
+        'city': 'Nezahualcóyotl, Mexico',
+        },
+
+
+    {
+        'name': 'Cobras de Queretaro', # dissolved.
+        'founded': 1985,
+        'dissolved': 1994, # re-created in 2001 as youth team of Monterrey.
+        'city': 'Queretaro, Mexico',
+        },
+
     {
         'name': 'Club América',
         'founded': datetime.datetime(1916, 10, 12),

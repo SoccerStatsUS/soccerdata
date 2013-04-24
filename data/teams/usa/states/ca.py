@@ -12,6 +12,13 @@ l = [
         },
 
     {
+        'name': 'Oakland Buccaneers',
+        'city': 'Oakland, CA',
+        'founded': 1976,
+        'dissolved': 1976,
+        },
+
+    {
         'name': 'Cal FC',
         'city': 'Thousand Oaks, CA',
         'founded': 2007

@@ -13,6 +13,11 @@ l = [
         },
 
     {
+        'name': 'Abbot Worsted',
+        'city': 'Forge Village, MA',
+        },
+
+    {
         'name': 'Boston Breakers',
         'city': 'Boston, MA',
         'founded': 2008,
@@ -48,6 +53,13 @@ l = [
     {
         'name': 'Acton Colonials',
         'city': 'Acton, MA',
+        },
+
+
+
+    {
+        'name': 'Ponta Delgada',
+        'city': 'Fall River, MA',
         },
 
     {

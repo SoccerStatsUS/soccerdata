@@ -865,7 +865,13 @@ l = [
     {
         'name': 'FC Den Bosch',
         'founded': datetime.datetime(1965, 8, 18),
-        'city': '\'s-Hertogenbosch',
+        'city': '\'s-Hertogenbosch, Netherlands',
+        },
+
+    {
+        'name': 'ADO Den Haag',
+        'founded': datetime.datetime(1905, 2, 1),
+        'city': 'The Hague, Netherlands',
         },
 
     {
