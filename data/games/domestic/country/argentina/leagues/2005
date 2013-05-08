@@ -1,33 +1,31 @@
-http://www.rsssf.com/tablesa/arg06.html
+BlockSource: http://www.rsssf.com/tablesa/arg06.html
 
 Argentina 2005/06
 
 Torneo Apertura "Gillette Prestobarba Excel" 2005
  
-Final Table:
+* 1.Boca Juniors                   19  12  4  3  36-17  40  (Buenos Aires)
+* 2.Gimnasia y Esgrima (La Plata)  19  11  4  4  28-19  37  (Buenos Aires)
+* 3.Vélez Sarsfield                19  10  3  6  26-16  33  (Buenos Aires)
+* 4.Independiente                  19   8  8  3  34-22  32  (Buenos Aires)
+* 5.Banfield                       19   5 13  1  25-15  28  (Buenos Aires)
+* 6.River Plate                    19   8  4  7  31-22  28  (Buenos Aires)
+* 7.Estudiantes (La Plata)         19   8  4  7  23-22  28  (Buenos Aires)
+* 8.Argentinos Juniors             19   8  4  7  19-20  28  (Buenos Aires)
+* 9.San Lorenzo de Almagro         19   8  4  7  33-39  28  (Buenos Aires)
+*10.Colón (Santa Fe)               19   7  5  7  28-27  26  (Santa Fe)
+*11.Racing Club                    19   7  4  8  28-27  25  (Buenos Aires)
+*12.Olimpo (Bahía Blanca)          19   5  8  6  19-23  23  (Buenos Aires)
+*13.Lanús                          19   5  8  6  21-31  23  (Buenos Aires)
+*14.Arsenal                        19   5  7  7  23-24  22  (Buenos Aires)
+*15.Rosario Central                19   5  7  7  20-29  22  (Santa Fe)
+*16.Newell's Old Boys              19   5  5  9  25-27  20  (Santa Fe)
+*17.Quilmes                        19   4  7  8  20-27  19  (Buenos Aires)
+*18.Gimnasia y Esgrima (Jujuy)     19   3  9  7  23-30  18  (Jujuy)
+*19.Tiro Federal (Rosario)         19   4  3 12  22-31  15  (Santa Fe)
+*20.Instituto (Córdoba)            19   2  9  8  11-27  15  (Córdoba)
 
- 1.Boca Juniors                   19  12  4  3  36-17  40  (Buenos Aires)
- 2.Gimnasia y Esgrima (La Plata)  19  11  4  4  28-19  37  (Buenos Aires)
- 3.Vélez Sarsfield                19  10  3  6  26-16  33  (Buenos Aires)
- 4.Independiente                  19   8  8  3  34-22  32  (Buenos Aires)
- 5.Banfield                       19   5 13  1  25-15  28  (Buenos Aires)
- 6.River Plate                    19   8  4  7  31-22  28  (Buenos Aires)
- 7.Estudiantes (La Plata)         19   8  4  7  23-22  28  (Buenos Aires)
- 8.Argentinos Juniors             19   8  4  7  19-20  28  (Buenos Aires)
- 9.San Lorenzo de Almagro         19   8  4  7  33-39  28  (Buenos Aires)
-10.Colón (Santa Fe)               19   7  5  7  28-27  26  (Santa Fe)
-11.Racing Club                    19   7  4  8  28-27  25  (Buenos Aires)
-12.Olimpo (Bahía Blanca)          19   5  8  6  19-23  23  (Buenos Aires)
-13.Lanús                          19   5  8  6  21-31  23  (Buenos Aires)
-14.Arsenal                        19   5  7  7  23-24  22  (Buenos Aires)
-15.Rosario Central                19   5  7  7  20-29  22  (Santa Fe)
-16.Newell's Old Boys              19   5  5  9  25-27  20  (Santa Fe)
-17.Quilmes                        19   4  7  8  20-27  19  (Buenos Aires)
-18.Gimnasia y Esgrima (Jujuy)     19   3  9  7  23-30  18  (Jujuy)
-19.Tiro Federal (Rosario)         19   4  3 12  22-31  15  (Santa Fe)
-20.Instituto (Córdoba)            19   2  9  8  11-27  15  (Córdoba)
-
-Round 1
+Round: Round 1
 [Aug 5]
 Racing Club             0-0 Banfield
 [Aug 6]
@@ -50,7 +48,7 @@ Lanús                   2-4 Independiente
 Instituto               0-0 Estudiantes
 Argentinos Juniors      0-0 Arsenal
 
-Round 2
+Round: Round 2
 [Aug 12]
 Vélez Sarsfield         0-1 Argentinos Juniors
   [Córdoba]
@@ -73,7 +71,7 @@ Estudiantes             0-1 San Lorenzo de Almagro
 Olimpo                  1-1 Lanús
   [Maggiolo; Gioda]
 
-Round 3
+Round: Round 3
 [Aug 19]
 Argentinos Juniors      2-1 Estudiantes
   [Carrario, Pisculichi; Ortiz]
@@ -97,7 +95,7 @@ San Lorenzo de Almagro  1-1 Independiente
   [Montillo; Frutos]
 Instituto ´             0-0 Olimpo
 
-Round 4
+Round: Round 4
 [Aug 26]
 Rosario Central         4-0 Lanús
   [Rubén, Borzani, Villagra, Grabowski]
@@ -122,7 +120,7 @@ Arsenal                 1-3 Quilmes
 Boca Juniors            3-0 Instituto
   [Palermo (2), Cardozo]
 
-Round 5
+Round: Round 5
 [Sep 6]
 Newell's Old Boys       2-2 Banfield
   [Silva, Osorio; Lujambio (pen), Civelli]
@@ -145,7 +143,7 @@ Instituto               0-0 Rosario Central
 Tiro Federal            0-2 Arsenal
   [Tabares, Piriz Alvez]
 
-Round 6
+Round: Round 6
 [Sep 9]
 Estudiantes             2-0 Quilmes
   [Fernando Ortiz, José Calderón]
@@ -170,7 +168,7 @@ Boca Juniors            1-0 Argentinos Juniors
 Olimpo                  2-1 Gimnasia y Esgrima (LP)
   [Ezequiel Maggiolo (2); Gonzalo Vargas]
 
-Round 7
+Round: Round 7
 [Sep 16]
 Quilmes                 1-1 Independiente
   [Ignacio Risso; Nicolás Frutos]
@@ -194,7 +192,7 @@ Banfield                2-0 Colón
   [Darío Cvitanich, José Sand (pen)]
 Instituto               0-0 Gimnasia y Esgrima (J)
 
-Round 8
+Round: Round 8
 [Sep 23]
 Vélez Sarsfield         1-0 Newell's Old Boys
   [Lucas Castromán]
@@ -219,7 +217,7 @@ Instituto               2-0 San Lorenzo de Almagro
 Arsenal                 1-1 Banfield
   [Víctor Píriz Álvez; Gastón Galván]
 
-Round 9
+Round: Round 9
 [Sep 31]
 Newell's Old Boys       3-2 Estudiantes 
   [Fernando Belluschi (2), Ignacio Scocco; Mariano Pavone, José Calderón]
@@ -243,7 +241,7 @@ River Plate             3-1 Independiente
   [Daniel Montenegro, Radamel Falcao García (2);
    Eduardo Bustos Montoya]
 
-Round 10
+Round: Round 10
 [Oct 4]
 Vélez Sarsfield         2-1 Colón
   [Emanuel Centurión, Leandro Gracián; Iván Moreno y Fabianesi]
@@ -268,7 +266,7 @@ Gimnasia y Esgrima (J)  1-1 Arsenal
 Instituto               0-1 Gimnasia y Esgrima (LP)
   [Gonzalo Vargas]
 
-Round 11
+Round: Round 11
 [Oct 14]
 Argentinos Juniors      1-2 Gimnasia y Esgrima (J)
   [Leonardo Pisculichi; Marcelo Quinteros, Héctor Silva]
@@ -295,7 +293,7 @@ Arsenal                 0-1 Vélez Sarsfield
 Tiro Federal            4-0 Rosario Central
   [Rodolfo Aquino, Javier Cámpora (3)]
 
-Round 12
+Round: Round 12
 [Oct 21]
 Estudiantes             3-1 Arsenal
   [José Calderón (2), José Sosa; Gastón Esmerado]
@@ -321,7 +319,7 @@ Instituto               0-0 Quilmes
 San Lorenzo de Almagro  2-1 Racing Club
   [Ezequiel Lavezzi, Paolo Montero; José Luis Villanueva]
 
-Round 13
+Round: Round 13
 [Nov 6]
 Vélez Sarsfield         0-2 Estudiantes
   [Agustín Alayes, Carlos Arano]
@@ -350,7 +348,7 @@ River Plate             4-1 Lanús
   [Radamel Falcao García (2), Ernesto Farías, Daniel Montenegro;
    Claudio Graf]
 
-Round 14
+Round: Round 14
 [Nov 11]
 Rosario Central         0-0 Banfield
 [Nov 12]
@@ -374,7 +372,7 @@ San Lorenzo de Almagro  5-3 Tiro Federal
   [Jonathan Bottinelli, Ezequiel Lavezzi (2), Diego Saja (2);
    Rodolfo Aquino, Javier Cámpora, Mariano Fermani]
 
-Round 15
+Round: Round 15
 [Nov 15]
 Racing Club             3-3 Gimnasia y Esgrima (J)
   [Sebastián Romero, Diego Crosa, Rubén Capria; Héctor Silva (2),
@@ -401,7 +399,7 @@ River Plate             5-1 San Lorenzo de Almagro
 Colón                   2-0 Rosario Central
   [Iván Moreno y Fabianesi, Giovanni Hernández]
 
-Round 16
+Round: Round 16
 [Nov 19]
 Gimnasia y Esgrima (J)  1-1 Independiente
   [Héctor Silva; Juan Eluchans]
@@ -427,7 +425,7 @@ San Lorenzo de Almagro  4-2 Newell's Old Boys
   [Walter Montillo, José Saturnino Cardozo (2), Germán Herrera;
    Luciano Vella, Santiago Silva]
 
-Round 17
+Round: Round 17
 [Nov 25]
 Banfield                5-0 San Lorenzo de Almagro
   [Franco Mendoza, Gabriel Paletta, José Sand (pen), Darío Cvitanich (2)]
@@ -453,7 +451,7 @@ Quilmes                 2-2 Gimnasia y Esgrima (J)
 Newell's Old Boys       3-0 Argentinos Juniors
   [Adrián Lucero (2), Hugo Colace]
 
-Round 18
+Round: Round 18
 [Dec 2]
 Argentinos Juniors      1-1 Banfield
   [Gastón Machín; Darío Cvitanich]
@@ -479,7 +477,7 @@ Gimnasia y Esgrima (LP) 0-0 Newell's Old Boys
 Boca Juniors            2-0 Independiente
   [Martín Palermo; Federico Insúa]
 
-Round 19
+Round: Round 19
 [Dec 9]
 Vélez Sarsfield         2-2 Instituto
   [Mauro Zárate; Leandro Somoza (pen); Gastón Caprari, Hugo Barrientos]
@@ -504,28 +502,27 @@ Newell's Old Boys       0-1 Racing Club
 Banfield                1-1 Gimnasia y Esgrima (LP)
   [José Sand; Alejandro Delorte]
 
-Final Table:
-
- 1.Boca Juniors                   19  12  4  3  36-17  40  (Buenos Aires)
- 2.Gimnasia y Esgrima (La Plata)  19  11  4  4  28-19  37  (Buenos Aires)
- 3.Vélez Sarsfield                19  10  3  6  26-16  33  (Buenos Aires)
- 4.Independiente                  19   8  8  3  34-22  32  (Buenos Aires)
- 5.Banfield                       19   5 13  1  25-15  28  (Buenos Aires)
- 6.River Plate                    19   8  4  7  31-22  28  (Buenos Aires)
- 7.Estudiantes (La Plata)         19   8  4  7  23-22  28  (Buenos Aires)
- 8.Argentinos Juniors             19   8  4  7  19-20  28  (Buenos Aires)
- 9.San Lorenzo de Almagro         19   8  4  7  33-39  28  (Buenos Aires)
-10.Colón (Santa Fe)               19   7  5  7  28-27  26  (Santa Fe)
-11.Racing Club                    19   7  4  8  28-27  25  (Buenos Aires)
-12.Olimpo (Bahía Blanca)          19   5  8  6  19-23  23  (Buenos Aires)
-13.Lanús                          19   5  8  6  21-31  23  (Buenos Aires)
-14.Arsenal                        19   5  7  7  23-24  22  (Buenos Aires)
-15.Rosario Central                19   5  7  7  20-29  22  (Santa Fe)
-16.Newell's Old Boys              19   5  5  9  25-27  20  (Santa Fe)
-17.Quilmes                        19   4  7  8  20-27  19  (Buenos Aires)
-18.Gimnasia y Esgrima (Jujuy)     19   3  9  7  23-30  18  (Jujuy)
-19.Tiro Federal (Rosario)         19   4  3 12  22-31  15  (Santa Fe)
-20.Instituto (Córdoba)            19   2  9  8  11-27  15  (Córdoba)
+*Final Table:
+* 1.Boca Juniors                   19  12  4  3  36-17  40  (Buenos Aires)
+* 2.Gimnasia y Esgrima (La Plata)  19  11  4  4  28-19  37  (Buenos Aires)
+* 3.Vélez Sarsfield                19  10  3  6  26-16  33  (Buenos Aires)
+* 4.Independiente                  19   8  8  3  34-22  32  (Buenos Aires)
+* 5.Banfield                       19   5 13  1  25-15  28  (Buenos Aires)
+* 6.River Plate                    19   8  4  7  31-22  28  (Buenos Aires)
+* 7.Estudiantes (La Plata)         19   8  4  7  23-22  28  (Buenos Aires)
+* 8.Argentinos Juniors             19   8  4  7  19-20  28  (Buenos Aires)
+* 9.San Lorenzo de Almagro         19   8  4  7  33-39  28  (Buenos Aires)
+*10.Colón (Santa Fe)               19   7  5  7  28-27  26  (Santa Fe)
+*11.Racing Club                    19   7  4  8  28-27  25  (Buenos Aires)
+*12.Olimpo (Bahía Blanca)          19   5  8  6  19-23  23  (Buenos Aires)
+*13.Lanús                          19   5  8  6  21-31  23  (Buenos Aires)
+*14.Arsenal                        19   5  7  7  23-24  22  (Buenos Aires)
+*15.Rosario Central                19   5  7  7  20-29  22  (Santa Fe)
+*16.Newell's Old Boys              19   5  5  9  25-27  20  (Santa Fe)
+*17.Quilmes                        19   4  7  8  20-27  19  (Buenos Aires)
+*18.Gimnasia y Esgrima (Jujuy)     19   3  9  7  23-30  18  (Jujuy)
+*19.Tiro Federal (Rosario)         19   4  3 12  22-31  15  (Santa Fe)
+*20.Instituto (Córdoba)            19   2  9  8  11-27  15  (Córdoba)
 
 Boca Juniors champions Apertura 2005
 
@@ -533,58 +530,55 @@ Topscorer
 Javier Cámpora     Tiro Federal 13
 
 
-Relegation Table  (at end of Apertura)
+*Relegation Table  (at end of Apertura)
+*                                03-04 04-05 05-06 TOTAL GP  AVG
+* 1 Boca Juniors                   75    48    40   163  95 1,7158
+* 2 Vélez Sarsfield                53    73    33   159  95 1,6737
+* 3 River Plate                    66    60    28   154  95 1,6211
+* 4 Banfield                       64    59    28   151  95 1,5895
+* 5 San Lorenzo de Almagro         62    52    28   142  95 1,4947
+* 6 Estudiantes (La Plata)         44    61    28   133  95 1,4000
+* 7 Racing Club                    50    58    25   133  95 1,4000
+* 8 Newell's Old Boys              51    60    20   131  95 1,3789
+* 9 Arsenal                        55    54    22   131  95 1,3789
+*10 Gimnasia y Esgrima (La Plata)  38    54    37   129  95 1,3579
+*11 Colón (Santa Fe)               49    53    26   128  95 1,3474
+*12 Rosario Central                44    61    22   127  95 1,3368
+*13 Independiente                  44    49    32   125  95 1,3158
+*14 Quilmes                        60    44    19   123  95 1,2947
+*15 Lanús                          42    54    23   119  95 1,2526
+*16 Argentinos Juniors              -    43    28    71  57 1,2456
+*17 Olimpo (Bahía Blanca)          39    43    23   105  95 1,1053
+*18 Instituto (Córdoba)             -    42    15    57  57 1,0000
+*19 Gimnasia y Esgrima (Jujuy)      -     -    18    18  19 0,9474
+*20 Tiro Federal (Rosario)          -     -    15    15  19 0,7895
 
-                                03-04 04-05 05-06 TOTAL GP  AVG
- 
- 1 Boca Juniors                   75    48    40   163  95 1,7158
- 2 Vélez Sarsfield                53    73    33   159  95 1,6737
- 3 River Plate                    66    60    28   154  95 1,6211
- 4 Banfield                       64    59    28   151  95 1,5895
- 5 San Lorenzo de Almagro         62    52    28   142  95 1,4947
- 6 Estudiantes (La Plata)         44    61    28   133  95 1,4000
- 7 Racing Club                    50    58    25   133  95 1,4000
- 8 Newell's Old Boys              51    60    20   131  95 1,3789
- 9 Arsenal                        55    54    22   131  95 1,3789
-10 Gimnasia y Esgrima (La Plata)  38    54    37   129  95 1,3579
-11 Colón (Santa Fe)               49    53    26   128  95 1,3474
-12 Rosario Central                44    61    22   127  95 1,3368
-13 Independiente                  44    49    32   125  95 1,3158
-14 Quilmes                        60    44    19   123  95 1,2947
-15 Lanús                          42    54    23   119  95 1,2526
-16 Argentinos Juniors              -    43    28    71  57 1,2456
-17 Olimpo (Bahía Blanca)          39    43    23   105  95 1,1053
-18 Instituto (Córdoba)             -    42    15    57  57 1,0000
-19 Gimnasia y Esgrima (Jujuy)      -     -    18    18  19 0,9474
-20 Tiro Federal (Rosario)          -     -    15    15  19 0,7895
- 
 
 Torneo Clausura "Gillette Prestobarba Excel" 2006
  
-Final Table:
+*Final Table:
+* 1.Boca Juniors                   19  13  4  2  37-12  43  (Buenos Aires)
+* 2.Lanús                          19  10  5  4  26-15  35  (Buenos Aires)
+* 3.River Plate                    19   9  7  3  39-23  34  (Buenos Aires)
+* 4.Gimnasia y Esgrima (Jujuy)     19  10  3  6  26-16  33  (Jujuy)
+* 5.Gimnasia y Esgrima (La Plata)  19   9  5  5  31-22  32  (Buenos Aires)
+* 6.Newell's Old Boys              19   8  7  4  27-18  31  (Santa Fe)
+* 7.Banfield                       19  10  1  8  28-22  31  (Buenos Aires)
+* 8.San Lorenzo de Almagro         19   7  7  5  15-14  28  (Buenos Aires)
+* 9.Olimpo (Bahía Blanca)          19   7  5  7  22-22  26  (Buenos Aires)
+*10.Vélez Sarsfield                19   5 10  4  19-17  25  (Buenos Aires)
+*11.Estudiantes (La Plata)         19   6  6  7  25-31  24  (Buenos Aires)
+*12.Independiente                  19   6  5  8  18-18  23  (Buenos Aires)
+*13.Rosario Central                19   5  8  6  15-17  23  (Santa Fe)
+*14.Argentinos Juniors             19   5  7  7  26-28  22  (Buenos Aires)
+*15.Arsenal                        19   5  7  7  17-20  22  (Buenos Aires)
+*16.Colón (Santa Fe)               19   5  5  9  18-26  20  (Santa Fe)
+*17.Quilmes                        19   5  5  9  15-28  20  (Buenos Aires)
+*18.Racing Club                    19   5  4 10  14-24  19  (Buenos Aires)
+*19.Instituto (Córdoba)            19   3  4 12  16-37  13  (Córdoba)
+*20.Tiro Federal (Rosario)         19   3  3 13  15-39  12  (Santa Fe)
 
- 1.Boca Juniors                   19  13  4  2  37-12  43  (Buenos Aires)
- 2.Lanús                          19  10  5  4  26-15  35  (Buenos Aires)
- 3.River Plate                    19   9  7  3  39-23  34  (Buenos Aires)
- 4.Gimnasia y Esgrima (Jujuy)     19  10  3  6  26-16  33  (Jujuy)
- 5.Gimnasia y Esgrima (La Plata)  19   9  5  5  31-22  32  (Buenos Aires)
- 6.Newell's Old Boys              19   8  7  4  27-18  31  (Santa Fe)
- 7.Banfield                       19  10  1  8  28-22  31  (Buenos Aires)
- 8.San Lorenzo de Almagro         19   7  7  5  15-14  28  (Buenos Aires)
- 9.Olimpo (Bahía Blanca)          19   7  5  7  22-22  26  (Buenos Aires)
-10.Vélez Sarsfield                19   5 10  4  19-17  25  (Buenos Aires)
-11.Estudiantes (La Plata)         19   6  6  7  25-31  24  (Buenos Aires)
-12.Independiente                  19   6  5  8  18-18  23  (Buenos Aires)
-13.Rosario Central                19   5  8  6  15-17  23  (Santa Fe)
-14.Argentinos Juniors             19   5  7  7  26-28  22  (Buenos Aires)
-15.Arsenal                        19   5  7  7  17-20  22  (Buenos Aires)
-16.Colón (Santa Fe)               19   5  5  9  18-26  20  (Santa Fe)
-17.Quilmes                        19   5  5  9  15-28  20  (Buenos Aires)
-18.Racing Club                    19   5  4 10  14-24  19  (Buenos Aires)
-19.Instituto (Córdoba)            19   3  4 12  16-37  13  (Córdoba)
-20.Tiro Federal (Rosario)         19   3  3 13  15-39  12  (Santa Fe)
-
-Round 1
+Round: Round 1
 [Jan 27]
 Estudiantes             4-1 Instituto
   [José Calderón, Agustín Alayes, Rodrigo Braña, Marcelo Carrusca;
@@ -608,7 +602,7 @@ Gimnasia y Esgrima (J)  2-1 Boca Juniors
   [Israel Damonte, Héctor Silva; Martín Palermo]
 Independiente           0-0 Lanús
  
-Round 2
+Round: Round 2
 [Jan 31]
 Argentinos Juniors      0-0 Vélez Sarsfield
 San Lorenzo de Almagro  1-2 Estudiantes
@@ -633,7 +627,7 @@ River Plate             2-0 Gimnasia y Esgrima (J)
   [Federico Domínguez, Ernesto Farías]
 Gimnasia y Esgrima (LP) 0-0 Arsenal
 
-Round 3
+Round: Round 3
 [Feb 3]
 Estudiantes             2-2 Argentinos Juniors
   [Mariano Pavone, José Calderón; Franco Niell, Agustín Alayes-og]
@@ -658,7 +652,7 @@ Olimpo                  2-0 Instituto
 Independiente           1-0 San Lorenzo de Almagro
   [Eduardo Bustos Montoya]
  
-Round 4 
+Round: Round 4 
 [Feb 10]
 Argentinos Juniors      2-1 Independiente
   [Nicolás Pareja, Leonel Núñez; Eduardo Bustos Montoya]
@@ -683,7 +677,7 @@ River Plate             3-1 Banfield
 Quilmes                 1-0 Arsenal 
   [Silvio Carrario] 
  
-Round 5
+Round: Round 5
 [Feb 17]
 Estudiantes             2-1 Racing Club
   [José Sosa, Pablo Lugüercio; Raúl Estévez]
@@ -709,7 +703,7 @@ Rosario Central         1-0 Instituto
 Boca Juniors            1-2 San Lorenzo de Almagro
   [Federico Insúa; Diego Saja (pen), Darío Botinelli]
  
-Round 6
+Round: Round 6
 [Feb 24]
 Newell's Old Boys       0-0 Colón
 [Feb 25]
@@ -733,7 +727,7 @@ San Lorenzo de Almagro  0-0 Rosario Central
 Instituto               2-1 Lanús
   [Gustavo Bergessio, Pablo Frontini; Claudio Graf]
  
-Round 7
+Round: Round 7
 [Feb 28]
 Colón                   4-2 Banfield
   [Germán Denis (2), Franco Cángele, Cristian Zurita; Gastón Galván,
@@ -757,7 +751,7 @@ Gimnasia y Esgrima (J)  2-0 Instituto
 Lanús                   2-0 San Lorenzo de Almagro
   [Sebastián Leto, Santiago Biglieri]
 
-Round 8
+Round: Round 8
 [Mar 4]
 Tiro Federal            0-2 Independiente
   [Eduardo Domínguez, Osvaldo Miranda]
@@ -782,7 +776,7 @@ Banfield                0-1 Arsenal
 Gimnasia y Esgrima (LP) 3-0 Rosario Central
   [Juan Carlos Ferreyra, Roberto Cornejo, Antonio Piergüidi]
 
-Round 9
+Round: Round 9
 [Mar 10]
 Gimnasia y Esgrima (J)  0-1 San Lorenzo de Almagro
   [Adrián González]
@@ -807,7 +801,7 @@ Independiente           1-1 River Plate
 Estudiantes             2-1 Newell's Old Boys             [at Quilmes]
   [Mariano Pavone, Pablo Lugüercio; Gastón Aguirre]
  
-Round 10
+Round: Round 10
 [Mar 17]
 Argentinos Juniors      0-1 San Lorenzo de Almagro
   [Adrián González]
@@ -831,7 +825,7 @@ Racing Club             0-0 Lanús
 Gimnasia y Esgrima (LP) 2-0 Instituto
   [Jorge Cervera, Esteban González]
 
-Round 11
+Round: Round 11
 [Mar 24]
 San Lorenzo de Almagro  2-2 Gimnasia y Esgrima (LP)
   [Adrián González, Leonardo Ulloa; Jorge Cervera, Gonzalo Vargas]
@@ -858,7 +852,7 @@ Estudiantes             1-2 Colón
 Independiente           1-2 Banfield                      [remaining 10+3', behind
   [Sergio Agüero (pen); José Sand, Marcos Galarza]                    closed doors]
 
-Round 12
+Round: Round 12
 [Mar 28]
 Gimnasia y Esgrima (LP) 4-3 Argentinos Juniors
   [Gonzalo Vargas (2), Antonio Piergüidi (2); Franco Niell,
@@ -882,7 +876,7 @@ River Plate             2-0 Rosario Central
 Tiro Federal            0-1 Lanús                         [at Newell's]
   [Cristian Fabbiani]
  
-Round 13
+Round: Round 13
 [Apr 1]
 Estudiantes             1-1 Vélez Sarsfield
   [José María Basanta; Leandro Gracián]
@@ -906,7 +900,7 @@ Boca Juniors            2-1 Banfield
 Olimpo                  1-0 Colón
   [Martín Asencio]
  
-Round 14
+Round: Round 14
 [Apr 7]
 Newell's Old Boys       1-2 Lanús
   [Nicolás Spolli; Santiago Biglieri, Cristian Fabbiani]
@@ -930,7 +924,7 @@ Banfield                2-0 Rosario Central
 River Plate             3-1 Instituto
   [Victor Zapata, Ernesto Farías (2); PT Gabriel Lobos]
 
-Round 15
+Round: Round 15
 [Apr 14] 
 Instituto               1-2 Newell's Old Boys
   [Marcelo Moreno; Ignacio Scocco, Fernando Belluschi]
@@ -955,7 +949,7 @@ Rosario Central         2-0 Colón
 Boca Juniors            1-0 Arsenal
   [Martín Palermo]
  
-Round 16
+Round: Round 16
 [Apr 21]
 Independiente           0-0 Gimnasia y Esgrima (J)
 [Apr 22]
@@ -980,7 +974,7 @@ Arsenal                 1-1 Rosario Central
 Banfield                2-0 Instituto
   [Gabriel Paletta, Josemir Lujambio (pen)]
 
-Round 17
+Round: Round 17
 [Apr 28]
 San Lorenzo de Almagro  1-0 Banfield
   [Leonardo Ulloa]
@@ -1007,7 +1001,7 @@ Lanús                   3-0 Arsenal
 Instituto               2-1 Colón
   [Darío González, Gustavo Bergessio; Germán Denis]
  
-Round 18
+Round: Round 18
 [May 5]
 Banfield                3-1 Argentinos Juniors
   [Hernán Pagés, José Sand, Darío Cvitanich; Nicolás Gianni]
@@ -1032,7 +1026,7 @@ Estudiantes             1-1 Rosario Central               [at Quilmes]
 Colón                   0-1 San Lorenzo de Almagro
   [Ezequiel Lavezzi]
 
-Round 19 
+Round: Round 19 
 [May 12]
 Racing Club             1-1 Newell's Old Boys
   [Matías Sanchez; Ignacio Scocco]
@@ -1057,89 +1051,75 @@ Quilmes                 awd River Plate                   [awarded 0-3; abandone
 Argentinos Juniors      1-0 Colón
   [Nicolas Gianni]
 
-Final Table:
-
- 1.Boca Juniors                   19  13  4  2  37-12  43  (Buenos Aires)
- 2.Lanús                          19  10  5  4  26-15  35  (Buenos Aires)
- 3.River Plate                    19   9  7  3  39-23  34  (Buenos Aires)
- 4.Gimnasia y Esgrima (Jujuy)     19  10  3  6  26-16  33  (Jujuy)
- 5.Gimnasia y Esgrima (La Plata)  19   9  5  5  31-22  32  (Buenos Aires)
- 6.Newell's Old Boys              19   8  7  4  27-18  31  (Santa Fe)
- 7.Banfield                       19  10  1  8  28-22  31  (Buenos Aires)
- 8.San Lorenzo de Almagro         19   7  7  5  15-14  28  (Buenos Aires)
- 9.Olimpo (Bahía Blanca)          19   7  5  7  22-22  26  (Buenos Aires)
-10.Vélez Sarsfield                19   5 10  4  19-17  25  (Buenos Aires)
-11.Estudiantes (La Plata)         19   6  6  7  25-31  24  (Buenos Aires)
-12.Independiente                  19   6  5  8  18-18  23  (Buenos Aires)
-13.Rosario Central                19   5  8  6  15-17  23  (Santa Fe)
-14.Argentinos Juniors             19   5  7  7  26-28  22  (Buenos Aires)
-15.Arsenal                        19   5  7  7  17-20  22  (Buenos Aires)
-16.Colón (Santa Fe)               19   5  5  9  18-26  20  (Santa Fe)
-17.Quilmes                        19   5  5  9  15-28  20  (Buenos Aires)
-18.Racing Club                    19   5  4 10  14-24  19  (Buenos Aires)
-19.Instituto (Córdoba)            19   3  4 12  16-37  13  (Córdoba)
-20.Tiro Federal (Rosario)         19   3  3 13  15-39  12  (Santa Fe)
-
-Topscorers
-Gonzalo Vargas    Gimnasia-LP   12
-Martin Palermo    Boca          11
-Ernesto Farías    River         11
-Sergio Agüero     Independiente  9
-Ignacio Scocco    Newell's       9
-Exequiel Maggiolo Olimpo         7
-Silvio Carrario   Quilmes        7
-Rodrigo Palacio   Boca           7 
-
-Aggregate Table:
-
- 1.Boca Juniors                   38  25  8  5  73-29  83  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
- 2.Gimnasia y Esgrima (La Plata)  38  20  9  9  59-41  69  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
- 3.River Plate                    37  16 11 10  67-45  59  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
- 4.Banfield                       38  15 14  9  53-37  59  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
- 5.Vélez Sarsfield                38  15 13 10  45-33  58  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
- 6.Lanús                          38  15 13 10  47-46  58  (Buenos Aires)  Sudamericana 2006
- 7.San Lorenzo de Almagro         38  15 11 12  48-53  56  (Buenos Aires)  Sudamericana 2006
- 8.Independiente                  38  14 13 11  52-40  55  (Buenos Aires)
- 9.Estudiantes (La Plata)         38  14 10 14  48-53  52  (Buenos Aires)
-10.Newell's Old Boys              38  13 12 13  52-45  51  (Santa Fe)
-11.Gimnasia y Esgrima (Jujuy)     38  13 12 13  49-46  51  (Jujuy)
-12.Argentinos Juniors             38  13 11 14  45-48  50  (Buenos Aires)
-13.Olimpo (Bahía Blanca)          38  12 13 13  41-45  49  (Buenos Aires)
-14.Colón (Santa Fe)               38  12 10 16  46-53  46  (Santa Fe)
-15.Rosario Central                38  10 15 13  35-46  45  (Santa Fe)
-16.Arsenal                        38  10 14 14  40-44  44  (Buenos Aires)
-17.Racing Club                    38  12  8 18  42-51  44  (Buenos Aires)
-18.Quilmes                        37   9 12 16  35-52  39  (Buenos Aires)
-19.Instituto (Córdoba)            38   5 13 20  27-64  28  (Córdoba)
-20.Tiro Federal (Rosario)         38   7  6 25  37-70  27  (Santa Fe)
+*Final Table:
+* 1.Boca Juniors                   19  13  4  2  37-12  43  (Buenos Aires)
+* 2.Lanús                          19  10  5  4  26-15  35  (Buenos Aires)
+* 3.River Plate                    19   9  7  3  39-23  34  (Buenos Aires)
+* 4.Gimnasia y Esgrima (Jujuy)     19  10  3  6  26-16  33  (Jujuy)
+* 5.Gimnasia y Esgrima (La Plata)  19   9  5  5  31-22  32  (Buenos Aires)
+* 6.Newell's Old Boys              19   8  7  4  27-18  31  (Santa Fe)
+* 7.Banfield                       19  10  1  8  28-22  31  (Buenos Aires)
+* 8.San Lorenzo de Almagro         19   7  7  5  15-14  28  (Buenos Aires)
+* 9.Olimpo (Bahía Blanca)          19   7  5  7  22-22  26  (Buenos Aires)
+*10.Vélez Sarsfield                19   5 10  4  19-17  25  (Buenos Aires)
+*11.Estudiantes (La Plata)         19   6  6  7  25-31  24  (Buenos Aires)
+*12.Independiente                  19   6  5  8  18-18  23  (Buenos Aires)
+*13.Rosario Central                19   5  8  6  15-17  23  (Santa Fe)
+*14.Argentinos Juniors             19   5  7  7  26-28  22  (Buenos Aires)
+*15.Arsenal                        19   5  7  7  17-20  22  (Buenos Aires)
+*16.Colón (Santa Fe)               19   5  5  9  18-26  20  (Santa Fe)
+*17.Quilmes                        19   5  5  9  15-28  20  (Buenos Aires)
+*18.Racing Club                    19   5  4 10  14-24  19  (Buenos Aires)
+*19.Instituto (Córdoba)            19   3  4 12  16-37  13  (Córdoba)
+*20.Tiro Federal (Rosario)         19   3  3 13  15-39  12  (Santa Fe)
 
 
-Relegation Table
+*Aggregate Table:
+* 1.Boca Juniors                   38  25  8  5  73-29  83  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
+* 2.Gimnasia y Esgrima (La Plata)  38  20  9  9  59-41  69  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
+* 3.River Plate                    37  16 11 10  67-45  59  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
+* 4.Banfield                       38  15 14  9  53-37  59  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
+* 5.Vélez Sarsfield                38  15 13 10  45-33  58  (Buenos Aires)  Libertadores 2007 and Sudamericana 2006
+* 6.Lanús                          38  15 13 10  47-46  58  (Buenos Aires)  Sudamericana 2006
+* 7.San Lorenzo de Almagro         38  15 11 12  48-53  56  (Buenos Aires)  Sudamericana 2006
+* 8.Independiente                  38  14 13 11  52-40  55  (Buenos Aires)
+* 9.Estudiantes (La Plata)         38  14 10 14  48-53  52  (Buenos Aires)
+*10.Newell's Old Boys              38  13 12 13  52-45  51  (Santa Fe)
+*11.Gimnasia y Esgrima (Jujuy)     38  13 12 13  49-46  51  (Jujuy)
+*12.Argentinos Juniors             38  13 11 14  45-48  50  (Buenos Aires)
+*13.Olimpo (Bahía Blanca)          38  12 13 13  41-45  49  (Buenos Aires)
+*14.Colón (Santa Fe)               38  12 10 16  46-53  46  (Santa Fe)
+*15.Rosario Central                38  10 15 13  35-46  45  (Santa Fe)
+*16.Arsenal                        38  10 14 14  40-44  44  (Buenos Aires)
+*17.Racing Club                    38  12  8 18  42-51  44  (Buenos Aires)
+*18.Quilmes                        37   9 12 16  35-52  39  (Buenos Aires)
+*19.Instituto (Córdoba)            38   5 13 20  27-64  28  (Córdoba)
+*20.Tiro Federal (Rosario)         38   7  6 25  37-70  27  (Santa Fe)
 
-                                03-04 04-05 05-06 TOTAL GP  AVG
- 
- 1.Boca Juniors                   75    48    83   206 114 1,807
- 2.River Plate                    66    60    62   188 114 1,649
- 3.Vélez Sarsfield                53    73    58   184 114 1,614
- 4.Banfield                       64    59    59   182 114 1,596
- 5.San Lorenzo de Almagro         62    52    56   170 114 1,491
- 6.Newell's Old Boys              51    60    51   162 114 1,421
- 7.Gimnasia y Esgrima (La Plata)  38    54    69   161 114 1,412
- 8.Estudiantes (La Plata)         44    61    52   157 114 1,377
- 9.Lanús                          42    54    58   154 114 1,351
-10.Arsenal                        55    54    44   153 114 1,342
-11.Gimnasia y Esgrima (Jujuy)      -     -    51    51  38 1,342
-12.Racing Club                    50    58    44   152 114 1,333
-13.Rosario Central                44    61    45   150 114 1,316
-14.Independiente                  44    49    55   148 114 1,298
-15.Colón (Santa Fe)               49    53    46   148 114 1,298
-16.Quilmes                        60    44    39   143 114 1,254
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-17.Argentinos Juniors              -    43    50    93  76 1,224  Relegation Playoff
-18.Olimpo (Bahía Blanca)          39    43    49   131 114 1,149  Relegation Playoff
-----------------------------------------------------------------
-19.Instituto (Córdoba)             -    42    28    70  76 0,921  Relegated
-20.Tiro Federal (Rosario)          -     -    27    27  38 0,711  Relegated
+*Relegation Table
+*                                03-04 04-05 05-06 TOTAL GP  AVG
+* 1.Boca Juniors                   75    48    83   206 114 1,807
+* 2.River Plate                    66    60    62   188 114 1,649
+* 3.Vélez Sarsfield                53    73    58   184 114 1,614
+* 4.Banfield                       64    59    59   182 114 1,596
+* 5.San Lorenzo de Almagro         62    52    56   170 114 1,491
+* 6.Newell's Old Boys              51    60    51   162 114 1,421
+* 7.Gimnasia y Esgrima (La Plata)  38    54    69   161 114 1,412
+* 8.Estudiantes (La Plata)         44    61    52   157 114 1,377
+* 9.Lanús                          42    54    58   154 114 1,351
+*10.Arsenal                        55    54    44   153 114 1,342
+*11.Gimnasia y Esgrima (Jujuy)      -     -    51    51  38 1,342
+*12.Racing Club                    50    58    44   152 114 1,333
+*13.Rosario Central                44    61    45   150 114 1,316
+*14.Independiente                  44    49    55   148 114 1,298
+*15.Colón (Santa Fe)               49    53    46   148 114 1,298
+*16.Quilmes                        60    44    39   143 114 1,254
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*17.Argentinos Juniors              -    43    50    93  76 1,224  Relegation Playoff
+*18.Olimpo (Bahía Blanca)          39    43    49   131 114 1,149  Relegation Playoff
+*----------------------------------------------------------------
+*19.Instituto (Córdoba)             -    42    28    70  76 0,921  Relegated
+*20.Tiro Federal (Rosario)          -     -    27    27  38 0,711  Relegated
 
 
 Promotion/Relegation Playoff 
@@ -1161,57 +1141,8 @@ Argentinos Juniors win their tie on better season record (i.e. playing in
 a higher division) and remain at first level
 
 
-2004/05.
-
-
-2005/06 (2nd level).
-
-
-2005/06 (3rd level).
-
-
-2005/06 (3rd level interior).
-
-
-2005/06 (4th level).
-
-
-2005/06 (4th level interior).
-
-
-2005/06 (5th level).
-
-
-2005/06 (5th level interior).
-
-
-2006/07.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-all-time tables.
-
-
-list of 2nd level champions.
-
-
-divisional movements.
-
-
-topscorers.
-
-
-About this document
-
-Prepared and maintained by Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Juan Pablo Andrés (jpandres@tutopia.com)
-Last updated: 5 Aug 2006
-
-(C) Copyright Juan Pablo Andrés and RSSSF 2005/06
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation
+*Author: Juan Pablo Andrés (jpandres@tutopia.com)
+*Last updated: 5 Aug 2006
+*(C) Copyright Juan Pablo Andrés and RSSSF 2005/06
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

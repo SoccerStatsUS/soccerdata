@@ -64,6 +64,7 @@ champions_league = {
             ('2009-2010', 'Pachuca'),
             ('2010-2011', 'Monterrey'),
             ('2011-2012', 'Monterrey'),
+            ('2012-2013', 'Monterrey'),
             ],
 }
 

@@ -61,7 +61,7 @@ def determine_competition(comp, team, season):
         'GC': 'CONCACAF Giants Cup',
         'FDLY': 'Friendly',
         'MerC': 'Merconorte Cup',
-        'CCWC': 'Club World Cup',
+        'CCWC': 'CONCACAF Cup Winners Cup',
         'LMC': 'La Manga Cup',
 
         'RC': 'Recopa CONCACAF',

@@ -461,7 +461,10 @@ class GeneralProcessor(object):
 
         result_unknown = False
 
-        team1, score, team2 = fields[1:4]
+        try:
+            team1, score, team2 = fields[1:4]
+        except:
+            import pdb; pdb.set_trace()
 
         score = score.lower().strip()
         minutes = 90
@@ -490,20 +493,29 @@ class GeneralProcessor(object):
             team1_score = team2_score = None
 
         else:
-            team1_score, team2_score = [e.strip() for e in score.split('-')]
+            try:
+                team1_score, team2_score = [e.strip() for e in score.split('-')]
+            except:
+                import pdb; pdb.set_trace()
 
             if team1_score in 'wlt':
                 team1_result = team1_score
                 team1_score = None
             else:
-                team1_score = int(team1_score)
+                try:
+                    team1_score = int(team1_score)
+                except:
+                    import pdb; pdb.set_trace()
 
 
             if team2_score in 'wlt':
                 team2_result = team2_score
                 team2_score = None
             else:
-                team2_score = int(team2_score)
+                try:
+                    team2_score = int(team2_score)
+                except:
+                    import pdb; pdb.set_trace()
 
 
         # Process ref, assistant refs, attendance, location.
@@ -641,7 +653,10 @@ class GeneralProcessor(object):
                 return [e]
 
             else:
-                starter, subs = s.split("(")
+                try:
+                    starter, subs = s.split("(")
+                except:
+                    import pdb; pdb.set_trace()
                 subs = subs.replace(")", "")
                 sub_items = subs.split(",")
 
@@ -656,7 +671,7 @@ class GeneralProcessor(object):
                         minute = int(minute)
                         sub = process_name(sub)
                     else:
-                        print "No minute for sub %s" % s
+                        #print "No minute for sub %s" % s
                         minute = None
                         sub = process_name(sub_items[0])
 

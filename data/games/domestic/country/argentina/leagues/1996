@@ -1,33 +1,31 @@
-http://www.rsssf.com/tablesa/arg97.html
+BlockSource: http://www.rsssf.com/tablesa/arg97.html
 
 Argentina 1996/97
 
 Apertura
 
-Table:
+* 1.River Plate             19 15  1  3 52-22 46  Champions
+* 2.Independiente           19 11  4  4 34-22 37
+* 3.Lanús                   19 10  7  2 23-12 37
+* 4.Racing Club             19  9  5  5 31-24 32
+* 5.Rosario Central         19  8  7  4 35-28 31
+* 6.Gimnasia y Esgrima (LP) 19  7  6  6 21-20 27
+* 7.San Lorenzo             19  8  3  8 24-24 27
+* 8.Colón                   19  6  8  5 26-24 26
+* 9.Newell's Old Boys       19  7  5  7 24-26 26
+*10.Boca Juniors            19  7  4  8 36-33 25
+*11.Estudiantes             19  7  4  8 27-28 25
+*12.Gimnasia y Esgrima (J)  19  6  7  6 18-19 25
+*13.Vélez Sarsfield         19  6  5  8 29-33 23
+*14.Ferro Carril Oeste      19  5  7  7 32-34 22
+*15.Platense                19  5  6  8 25-30 21
+*16.Unión (SF)              19  5  5  9 24-27 20
+*17.Huracán (Corrientes)    19  4  7  8 31-40 19
+*18.Deportivo Español       19  2 10  7 18-25 16
+*19.Huracán (BA)            19  3  7  9 21-36 16
+*20.Banfield                19  3  4 12 14-38 13
 
- 1.River Plate             19 15  1  3 52-22 46  Champions
- 2.Independiente           19 11  4  4 34-22 37
- 3.Lanús                   19 10  7  2 23-12 37
- 4.Racing Club             19  9  5  5 31-24 32
- 5.Rosario Central         19  8  7  4 35-28 31
- 6.Gimnasia y Esgrima (LP) 19  7  6  6 21-20 27
- 7.San Lorenzo             19  8  3  8 24-24 27
- 8.Colón                   19  6  8  5 26-24 26
- 9.Newell's Old Boys       19  7  5  7 24-26 26
-10.Boca Juniors            19  7  4  8 36-33 25
-11.Estudiantes             19  7  4  8 27-28 25
-12.Gimnasia y Esgrima (J)  19  6  7  6 18-19 25
-13.Vélez Sarsfield         19  6  5  8 29-33 23
-14.Ferro Carril Oeste      19  5  7  7 32-34 22
-15.Platense                19  5  6  8 25-30 21
-16.Unión (SF)              19  5  5  9 24-27 20
-17.Huracán (Corrientes)    19  4  7  8 31-40 19
-18.Deportivo Español       19  2 10  7 18-25 16
-19.Huracán (BA)            19  3  7  9 21-36 16
-20.Banfield                19  3  4 12 14-38 13
-
-Round 1
+Round: Round 1
 Lanus         0-0 Huracan BA
 Newell's OB   0-2 Velez 
 Racing        0-2 Rosario C
@@ -39,7 +37,7 @@ Gimnasia J    1-0 Platense
 River         0-0 Gimnasia LP
 Colon         1-1 Dep Espanol 
 
-Round 2
+Round: Round 2
 Boca          2-3 Colon 
 Banfield      1-1 Huracan C
 Dep Espanol   0-1 Lanus
@@ -51,7 +49,7 @@ Platense      2-4 Estudiantes
 Velez         2-3 Racing
 Union         1-3 River
 
-Round 3
+Round: Round 3
 Colon         1-1 Platense
 Estudiantes   0-2 Rosario C
 Huracan C     1-1 Huracan BA
@@ -63,7 +61,7 @@ San Lorenzo   0-1 Dep Espanol
 Velez         2-3 Independiente
 FCO           2-2 Union
 
-Round 4
+Round: Round 4
 Union         1-2 Newell's OB
 Boca Juniors  1-1 San Lorenzo
 Dep Espanol   1-0 Huracan C
@@ -75,7 +73,7 @@ Platense      0-0 Lanus
 Rosario C     0-0 Colon
 Banfield      3-2 FCO
 
-Round 5
+Round: Round 5
 Boca Juniors  3-1 Huracan C
 FCO           4-2 Huracan BA
 Estudiantes   1-2 Racing
@@ -87,7 +85,7 @@ San Lorenzo   1-0 Platense
 Velez         2-0 Union    
 Colon         0-0 Gimnasia J
 
-Round 6
+Round: Round 6
 Banfield      1-3 Velez
 Boca Juniors  3-2 River Plate
 Dep Espanol   2-2 FCO
@@ -99,7 +97,7 @@ Rosario C     1-2 San Lorenzo
 Union         0-1 Independiente
 Huracan C     1-0 Platense
 
-Round 7
+Round: Round 7
 San Lorenzo   1-0 Gimnasia J
 Colon         0-2 Racing
 Lanus         0-0 Estudiantes
@@ -111,7 +109,7 @@ Independiente 1-1 Banfield
 Velez         2-1 Huracan BA
 Gimnasia LP   1-1 Union
 
-Round 8
+Round: Round 8
 Dep Espanol   1-2 Velez
 Gimnasia J    0-0 Huracan C
 Colon         0-1 Lanus
@@ -123,7 +121,7 @@ Estudiantes   1-0 San Lorenzo
 Independiente 1-1 Huracan BA
 Platense      1-0 FCO
 
-Round 9
+Round: Round 9
 River Plate   3-0 Gimnasia J
 Gimnasia LP   1-0 Huracan BA
 Independiente 2-2 Dep Espanol
@@ -135,7 +133,7 @@ FCO           1-3 Rosario C
 Velez         1-1 Boca Juniors
 Newell's OB   2-2 Platense
 
-Round 10 [Nov 4]
+Round: Round 10 [Nov 4]
 Estudiantes   0-1 River Plate
   [Escudero 59]
 Racing        1-0 Banfield
@@ -158,7 +156,7 @@ Gimnasia J    2-2 FCO
 Boca Juniors  0-1 Independiente
   [Guerraro 86]
  
-Round 11 [Nov 5-7]
+Round: Round 11 [Nov 5-7]
 River Plate   3-0 Colon
   [Ortega 9, Cruz 53, Escudero 87]
 Huracan C     1-1 Lanus
@@ -180,7 +178,7 @@ Velez         4-4 Rosario C
   [Posse 29, Camps 37, 86, Cardozo 52; Loeschbor 43,
    Da Silva 45, 71pen, Maseratassi 85]
  
-Round 12 [Nov 11]
+Round: Round 12 [Nov 11]
 Estudiantes   0-5 Newell's OB
   [Gerk 15, 66, Gimenez 47pen, 52, Dalla Libera 61]
 Colon         1-1 FCO
@@ -202,7 +200,7 @@ Rosario C     3-1 Independiente
   [Maseratessi 14, 31, Da Silva 52; Calderon 26]
 Dep Espanol   0-0 Banfield
  
-Round 13 [Nov 18]
+Round: Round 13 [Nov 18]
 Banfield      3-1 Boca Juniors
   [Lemma 6, Arca 29, Alvaranga 34; Rambert 87pen]
 FCO           1-2 Lanus
@@ -224,7 +222,7 @@ Velez         0-2 Estudiantes
 Newell's OB   1-1 Colon
   [R.Rocha 87; C.Castillo 81]
  
-Round 14 [Nov 25]
+Round: Round 14 [Nov 25]
 Boca Juniors  6-0 Huracan BA
   [Toresani 15, Rambert 40pen, Fabbri 45, Cedres 67, Latorra 71,
    Riquelme 82]
@@ -242,7 +240,7 @@ Estudiantes   1-0 Independiente
   [Biazotti 84]
 Huracan C     1-2 River Plate          [played later]
 
-Round 15
+Round: Round 15
 Banfield      1-1 Rosario C
 Dep Espanol   1-1 Boca Juniors
 Huracan BA    1-1 Platense
@@ -254,7 +252,7 @@ Velez         2-0 Lanus
 Union         2-0 Gimnasia J
 River Plate   4-3 Racing               [Dec 4]
 
-Round 16
+Round: Round 16
 Colon         3-1 Gimnasia LP
 Estudiantes   1-0 Union
 Gimnasia J    4-1 Banfield
@@ -266,7 +264,7 @@ Rosario C     1-1 Huracan BA
 San Lorenzo   1-0 Velez
 Platense      1-1 Dep Espanol  
 
-Round 17
+Round: Round 17
 Boca Juniors  4-1 Platense
 Velez         0-3 Huracan C
 Banfield      0-4 Estudiantes
@@ -278,7 +276,7 @@ Huracan BA    2-3 Gimnasia J
 Dep Espanol   2-3 Rosario C
 Gimnasia LP   0-0 Lanus
 
-Round 18
+Round: Round 18
 Huracan C     3-2 Independiente
 Racing        1-0 Platense
 River Plate   3-0 Velez 
@@ -290,7 +288,7 @@ Colon         6-0 Banfield
 Lanus         0-0 Union
 FCO           0-0 Newell's OB
 
-Round 19
+Round: Round 19
 Banfield      0-1 Lanus
 Boca Juniors  0-1 Gimnasia J
 Dep Espanol   2-2 Estudiantes
@@ -302,56 +300,50 @@ Union         2-0 San Lorenzo
 Velez         0-2 FCO
 Platense      1-3 Rosario C
 
-Table:
+* 1.River Plate             19 15  1  3 52-22 46  Champions
+* 2.Independiente           19 11  4  4 34-22 37
+* 3.Lanús                   19 10  7  2 23-12 37
+* 4.Racing Club             19  9  5  5 31-24 32
+* 5.Rosario Central         19  8  7  4 35-28 31
+* 6.Gimnasia y Esgrima (LP) 19  7  6  6 21-20 27
+* 7.San Lorenzo             19  8  3  8 24-24 27
+* 8.Colón                   19  6  8  5 26-24 26
+* 9.Newell's Old Boys       19  7  5  7 24-26 26
+*10.Boca Juniors            19  7  4  8 36-33 25
+*11.Estudiantes             19  7  4  8 27-28 25
+*12.Gimnasia y Esgrima (J)  19  6  7  6 18-19 25
+*13.Vélez Sarsfield         19  6  5  8 29-33 23
+*14.Ferro Carril Oeste      19  5  7  7 32-34 22
+*15.Platense                19  5  6  8 25-30 21
+*16.Unión (SF)              19  5  5  9 24-27 20
+*17.Huracán (Corrientes)    19  4  7  8 31-40 19
+*18.Deportivo Español       19  2 10  7 18-25 16
+*19.Huracán (BA)            19  3  7  9 21-36 16
+*20.Banfield                19  3  4 12 14-38 13
 
- 1.River Plate             19 15  1  3 52-22 46  Champions
- 2.Independiente           19 11  4  4 34-22 37
- 3.Lanús                   19 10  7  2 23-12 37
- 4.Racing Club             19  9  5  5 31-24 32
- 5.Rosario Central         19  8  7  4 35-28 31
- 6.Gimnasia y Esgrima (LP) 19  7  6  6 21-20 27
- 7.San Lorenzo             19  8  3  8 24-24 27
- 8.Colón                   19  6  8  5 26-24 26
- 9.Newell's Old Boys       19  7  5  7 24-26 26
-10.Boca Juniors            19  7  4  8 36-33 25
-11.Estudiantes             19  7  4  8 27-28 25
-12.Gimnasia y Esgrima (J)  19  6  7  6 18-19 25
-13.Vélez Sarsfield         19  6  5  8 29-33 23
-14.Ferro Carril Oeste      19  5  7  7 32-34 22
-15.Platense                19  5  6  8 25-30 21
-16.Unión (SF)              19  5  5  9 24-27 20
-17.Huracán (Corrientes)    19  4  7  8 31-40 19
-18.Deportivo Español       19  2 10  7 18-25 16
-19.Huracán (BA)            19  3  7  9 21-36 16
-20.Banfield                19  3  4 12 14-38 13
-
-Clausura
-
-
-Table:
-
- 1.River Plate             19 12  5  2 36-20 41  Champions
- 2.Colón                   19  9  8  2 36-28 35
- 3.Newell's Old Boys       19 10  5  4 23-20 35
- 4.Independiente           19 10  4  5 38-21 34
- 5.Vélez Sarsfield         19  9  5  5 24-16 32
- 6.San Lorenzo             19  9  3  7 32-22 30
- 7.Rácing Club             19  7  6  6 24-22 27
- 8.Platense                19  6  8  5 21-22 26
- 9.Boca Juniors            19  6  7  6 34-32 25
-10.Ferro Carril Oeste      19  5  9  5 23-21 24
-11.Lanús                   19  6  6  7 22-21 24
-12.Unión (SF)              19  6  6  7 31-36 24
-13.Gimnasia y Esgrima (LP) 19  6  5  8 19-25 23
-14.Huracán (BA)            19  5  7  7 22-33 22
-15.Huracán (Corrientes)    19  4  9  6 21-28 21
-16.Estudiantes             19  5  4 10 22-26 19
-17.Deportivo Español       19  4  7  8 19-25 19
-18.Rosario Central         19  4  6  9 24-27 18
-19.Banfield                19  4  4 11 20-32 16  
-20.Gimnasia y Esgrima (J)  19  2  8  9 21-35 14
+*Clausura
+* 1.River Plate             19 12  5  2 36-20 41  Champions
+* 2.Colón                   19  9  8  2 36-28 35
+* 3.Newell's Old Boys       19 10  5  4 23-20 35
+* 4.Independiente           19 10  4  5 38-21 34
+* 5.Vélez Sarsfield         19  9  5  5 24-16 32
+* 6.San Lorenzo             19  9  3  7 32-22 30
+* 7.Rácing Club             19  7  6  6 24-22 27
+* 8.Platense                19  6  8  5 21-22 26
+* 9.Boca Juniors            19  6  7  6 34-32 25
+*10.Ferro Carril Oeste      19  5  9  5 23-21 24
+*11.Lanús                   19  6  6  7 22-21 24
+*12.Unión (SF)              19  6  6  7 31-36 24
+*13.Gimnasia y Esgrima (LP) 19  6  5  8 19-25 23
+*14.Huracán (BA)            19  5  7  7 22-33 22
+*15.Huracán (Corrientes)    19  4  9  6 21-28 21
+*16.Estudiantes             19  5  4 10 22-26 19
+*17.Deportivo Español       19  4  7  8 19-25 19
+*18.Rosario Central         19  4  6  9 24-27 18
+*19.Banfield                19  4  4 11 20-32 16  
+*20.Gimnasia y Esgrima (J)  19  2  8  9 21-35 14
  
-Round 1 [Feb 22,23,24]
+Round: Round 1 [Feb 22,23,24]
 Huracan BA    0-0 Lanus
 Velez         1-1 Newell's OB 
 Rosario C     5-0 Racing
@@ -363,7 +355,7 @@ Platense      1-1 Gimnasia J
 Gimnasia LP   0-2 River
 Dep Espanol   1-1 Colon
 
-Round 2 [Feb 28,Mar 1,2]
+Round: Round 2 [Feb 28,Mar 1,2]
 Colon         1-0 Boca
 Lanus         1-2 Dep Espanol
 Estudiantes   1-2 Platense
@@ -375,7 +367,7 @@ Racing        2-0 Velez
 River         4-0 Union
 San Lorenzo   5-1 Huracan BA 
 
-Round 3 [Mar 4,5]
+Round: Round 3 [Mar 4,5]
 Banfield      0-2 River 
 Gimnasia J    1-2 Racing
 Gimnasia LP   1-0 Newell's OB
@@ -387,7 +379,7 @@ Dep Espanol   2-3 San Lorenzo
 Huracan BA    1-1 Huracan C
 Platense      2-2 Colon
 
-Round 4 [Mar 8,9,10]
+Round: Round 4 [Mar 8,9,10]
 Colon         2-0 Rosario C
 San Lorenzo   4-0 Boca
 River         3-0 Huracan BA
@@ -399,7 +391,7 @@ Racing        1-2 Independiente
 Velez         1-0 Gimnasia LP
 Lanus         2-0 Platense
 
-Round 5 [Mar 15,16,17]
+Round: Round 5 [Mar 15,16,17]
 Huracan BA    3-4 FCO
 Racing        1-0 Estudiantes
 Platense      3-1 San Lorenzo
@@ -411,7 +403,7 @@ Boca          4-1 Huracan C
 Gimnasia LP   2-1 Independiente
 Banfield      2-3 Newell's OB
 
-Round 6 [Mar 22,23,24]
+Round: Round 6 [Mar 22,23,24]
 River         3-3 Boca
 Colon         3-1 Estudiantes
 Lanus         1-1 Gimnasia J
@@ -423,7 +415,7 @@ Newell's OB   2-0 Huracan BA
 Gimnasia LP   1-0 Racing
 FCO           2-1 Dep Espanol
 
-Round 7 [Apr 5,6,7]
+Round: Round 7 [Apr 5,6,7]
 Banfield      0-2 Independiente
 Boca          1-1 FCO
 Estudiantes   0-0 Lanus
@@ -435,7 +427,7 @@ Rosario C     0-0 Huracan C
 Union         2-1 Gimnasia LP
 Dep Espanol   0-1 Newell's OB
 
-Round 8 [Apr 11-14]
+Round: Round 8 [Apr 11-14]
 Gimnasia LP   3-1 Banfield
 Huracan C     1-1 Gimnasia J
 Lanus         3-4 Colon
@@ -447,7 +439,7 @@ FCO           0-1 Platense
 River         1-1 Rosario C      [May 22]
 Velez         2-1 Dep Espanol    [date unknown]
 
-Round 9 [Apr 19,20,21]
+Round: Round 9 [Apr 19,20,21]
 Boca          1-2 Velez
 Colon         1-0 San Lorenzo
 Dep Espanol   1-1 Independiente
@@ -459,7 +451,7 @@ Racing        1-2 Lanus
 Rosario C     1-3 FCO
 Banfield      1-2 Union
 
-Round 10 [May 3,4]
+Round: Round 10 [May 3,4]
 Independiente 2-0 Boca 
 Huracan C     2-2 Colon 
 Newell's OB   0-0 Rosario C
@@ -471,7 +463,7 @@ Union         5-0 Huracan BA
 River         1-4 Estudiantes 
 FCO           0-0 Gimnasia J
 
-Round 11 [May 10,11]
+Round: Round 11 [May 10,11]
 Colon         5-1 River
 Boca          6-1 Gimnasia LP
 Rosario C     0-1 Velez
@@ -483,7 +475,7 @@ Estudiantes   0-1 FCO
 Gimnasia J    1-2 Newell's OB
 Racing        2-0 San Lorenzo
 
-Round 12 [May 14,15]
+Round: Round 12 [May 14,15]
 River         3-0 Lanus 
 Union         3-3 Boca 
 Velez         4-0 Gimnasia J
@@ -495,7 +487,7 @@ Banfield      1-0 Dep Espanol
 Newell's OB   1-0 Estudiantes 
 FCO           2-2 Colon
 
-Round 13 [May 17,18,19]
+Round: Round 13 [May 17,18,19]
 San Lorenzo   2-3 River 
 Colon         2-2 Newell's OB
 Racing        2-0 Huracan C
@@ -507,7 +499,7 @@ Boca          3-1 Banfield
 Dep Espanol   0-0 Huracan BA  
 Platense      2-0 Union
 
-Round 14 [May 23-26]
+Round: Round 14 [May 23-26]
 Newell's OB   1-0 Lanus
 Gimnasia LP   3-2 Gimnasia J
 Union         3-2 Rosario C
@@ -519,7 +511,7 @@ Banfield      2-2 Platense
 River         3-1 Huracan C    
 Huracan BA    1-1 Boca   
 
-Round 15 [May 31,Jun 1,2]
+Round: Round 15 [May 31,Jun 1,2]
 Boca          1-3 Dep Espanol
 Colon         0-6 Independiente
 Estudiantes   1-0 Gimnasia LP
@@ -531,7 +523,7 @@ Racing        1-2 River
 San Lorenzo   3-0 Newell's OB
 Rosario C     2-0 Banfield  
 
-Round 16 [Jul 11-14]
+Round: Round 16 [Jul 11-14]
 Union         3-3 Estudiantes
 Gimnasia LP   0-1 Colon
 Independiente 2-0 Lanus
@@ -543,7 +535,7 @@ Banfield      3-2 Gimnasia J
 Huracan BA    2-1 Rosario C
 Dep Espanol   0-0 Platense
 
-Round 17 [Aug 6]
+Round: Round 17 [Aug 6]
 Gimnasia J    1-1 Huracan BA
 Lanus         2-1 Gimnasia LP
 Estudiantes   1-1 Banfield
@@ -555,7 +547,7 @@ Colon         0-0 Union
 San Lorenzo   1-0 Independiente
 Platense      1-0 Boca
 
-Round 18 [Aug 8,9,10]
+Round: Round 18 [Aug 8,9,10]
 Gimnasia LP   1-0 San Lorenzo
 Huracan BA    1-0 Estudiantes
 Platense      0-0 Racing
@@ -567,7 +559,7 @@ Newell's OB   1-4 FCO
 Velez         0-2 River
 Boca          4-3 Rosario C
 
-Round 19 [Aug 13]
+Round: Round 19 [Aug 13]
 Estudiantes   4-0 Dep Espanol
 Colon         3-2 Huracan BA
 Lanus         1-0 Banfield
@@ -579,28 +571,26 @@ Racing        0-0 Newell's OB
 Gimnasia J    0-0 Boca
 Rosario C     1-2 Platense
 
-Table:
-
- 1.River Plate             19 12  5  2 37-20 41  Champions
- 2.Colón                   19  9  8  2 36-28 35 
- 3.Newell's Old Boys       19 10  5  4 23-20 35
- 4.Independiente           19 10  4  5 38-21 34
- 5.Vélez Sarsfield         19  9  5  5 25-18 32
- 6.San Lorenzo             19  9  3  7 32-22 30        
- 7.Rácing Club             19  7  6  6 24-22 27  
- 8.Platense                19  6  8  5 21-22 26
- 9.Boca Juniors            19  6  7  6 34-32 25        
-10.Ferro Carril Oeste      19  5  9  5 24-22 24
-11.Lanús                   19  6  6  7 22-21 24
-12.Unión (SF)              19  6  6  7 31-36 24
-13.Gimnasia y Esgrima (LP) 19  6  5  8 19-25 23    
-14.Huracán (BA)            19  5  7  7 22-33 22 
-15.Huracán (Corrientes)    19  4  9  6 21-28 21
-16.Estudiantes             19  5  4 10 22-26 19
-17.Deportivo Español       19  4  7  8 19-25 19  
-18.Rosario Central         19  4  6  9 24-27 18       
-19.Banfield                19  4  4 11 20-32 16  
-20.Gimnasia y Esgrima (J)  19  2  8  9 21-35 14  
+* 1.River Plate             19 12  5  2 37-20 41  Champions
+* 2.Colón                   19  9  8  2 36-28 35 
+* 3.Newell's Old Boys       19 10  5  4 23-20 35
+* 4.Independiente           19 10  4  5 38-21 34
+* 5.Vélez Sarsfield         19  9  5  5 25-18 32
+* 6.San Lorenzo             19  9  3  7 32-22 30        
+* 7.Rácing Club             19  7  6  6 24-22 27  
+* 8.Platense                19  6  8  5 21-22 26
+* 9.Boca Juniors            19  6  7  6 34-32 25        
+*10.Ferro Carril Oeste      19  5  9  5 24-22 24
+*11.Lanús                   19  6  6  7 22-21 24
+*12.Unión (SF)              19  6  6  7 31-36 24
+*13.Gimnasia y Esgrima (LP) 19  6  5  8 19-25 23    
+*14.Huracán (BA)            19  5  7  7 22-33 22 
+*15.Huracán (Corrientes)    19  4  9  6 21-28 21
+*16.Estudiantes             19  5  4 10 22-26 19
+*17.Deportivo Español       19  4  7  8 19-25 19  
+*18.Rosario Central         19  4  6  9 24-27 18       
+*19.Banfield                19  4  4 11 20-32 16  
+*20.Gimnasia y Esgrima (J)  19  2  8  9 21-35 14  
 
 Relegated: Banfield and Huracán (Corrientes).
 Promoted: Argentinos Juniors and Gimnasia y Tiro (Salta).
@@ -613,48 +603,9 @@ Colon         1-0 Independiente
 Colón join River Plate in the 1998 Copa Libertadores.
 
 
-
-1995/96.
-
-
-1996/97 (2nd level).
-
-
-1996/97 (3rd level - interior).
-
-
-1997/98.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-all-time tables.
-
-
-list of 2nd level champions.
-
-
-divisional movements.
-
-
-topscorers.
-
-
-club directory.
-
-
-About this document
-
-Thanks to Aris Tsantis
-
-Prepared and maintained by Ian King for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Ian King 
-Last updated: 21 Jan 2011
-
-(C) Copyright Ian King and RSSSF 1999/2011
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Thanks to Aris Tsantis
+*Prepared and maintained by Ian King for the Rec.Sport.Soccer Statistics Foundation
+*Author: Ian King 
+*Last updated: 21 Jan 2011
+*(C) Copyright Ian King and RSSSF 1999/2011
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

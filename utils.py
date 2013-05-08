@@ -12,8 +12,6 @@ db = leveldb.LevelDB("/home/chris/leveldb/page")
 # USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 5.1; rv:8.0; en_us) Gecko/20100101 Firefox/8.0'
 
-
-
 def list_paths(root):
     l = []
     for dirname, _, filenames in os.walk(root):
@@ -21,6 +19,7 @@ def list_paths(root):
             if fn.endswith('.py') and fn != '__init__.py':
                 l.append(os.path.join(dirname, fn))
     return l
+
 
 def import_path(p):
     #assert p.endswith('.py')
@@ -32,8 +31,6 @@ def import_path(p):
 
 
     return __import__(p, fromlist=["dummy value"]) # __import requires non-empty fromlist to import submodules (foo.bar.baz)
-    
-
         
 
 def pounds_to_kg(pounds):
@@ -109,6 +106,7 @@ def scrape_post(url, options):
 
     
     return data
+
 
 def scrape_post_soup():
     data = scrape_post()
@@ -190,7 +188,6 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5, fix_tags=False, url_d
     data = data.replace("""onclick="this.href=this.href+'?ref=espn_deportes&refkw=deportes+tickets'""", '')
     
     return data
-
 
 
 def scrape_soup(*args, **kwargs):

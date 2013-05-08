@@ -109,6 +109,10 @@ def process_uncaf_awards():
     from soccerdata.data.lists.awards.uncaf import interclubes
     return process_awards(interclubes)
 
+def process_cfu_awards():
+    from soccerdata.data.lists.awards.cfu import cfu_club
+    return process_awards(cfu_club)
+
 
 def process_caribbean_awards():
     from soccerdata.data.lists.awards.caribbean import caribbean_cup, martinez_shield, cfu
@@ -161,9 +165,11 @@ def process_olympics_awards():
 
 
 def process_conmebol_awards():
-    from soccerdata.data.lists.awards.conmebol2 import copa_merconorte, copa_mercosur, copa_sudamericana
+    from soccerdata.data.lists.awards.conmebol2 import copa_merconorte, copa_mercosur, copa_sudamericana, masters, copa_conmebol, copa_tie, copa_aldao, recopa_sudamericana
     from soccerdata.data.lists.awards.conmebol import copa_libertadores
-    return process_awards(copa_merconorte) + process_awards(copa_mercosur) + process_awards(copa_libertadores) + process_awards(copa_sudamericana)
+    # + process_awards(copa_tie) 
+    return process_awards(copa_merconorte) + process_awards(copa_mercosur) + process_awards(copa_libertadores) + process_awards(copa_sudamericana) + process_awards(masters) + process_awards(copa_conmebol) + process_awards(copa_tie) + process_awards(copa_aldao) + process_awards(recopa_sudamericana)
+
 
 
 def process_conmebol_international_awards():
@@ -271,8 +277,8 @@ def process_ncaa_awards():
     return process_awards(d)
 
 def process_isl_awards():
-    from soccerdata.data.lists.awards.isl import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards.isl import d, palmares, parmalat
+    return process_awards(d) + process_awards(palmares) + process_awards(parmalat)
 
 
 def process_usl_awards():
@@ -297,6 +303,12 @@ def process_pdl_awards():
 def process_world_cup_awards():
     from soccerdata.data.lists.awards.world_cup import d
     return process_awards(d)
+
+
+def process_world_awards():
+    from soccerdata.data.lists.awards import world 
+    return process_awards(world.intercontinental_cup) + process_awards(world.interamerican_cup) + \
+        process_awards(world.suruga) + process_awards(world.panpacific) + process_awards(world.club_world_cup) + process_awards(world.copa_rio) + process_awards(world.copita)
 
 
     

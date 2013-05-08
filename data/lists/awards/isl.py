@@ -34,3 +34,37 @@ d = {
 }
 
 
+
+palmares = {
+    'competition': 'Mexico City International Tournaments',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1957, 'Penarol'),
+        (1958, 'Guadalajara'),
+        (1959, 'Santos'),
+        (1960, 'Toluca'),
+        ('1961 I', 'Guadalajara'),
+        ('1961 II', 'Santos'),
+        (1962, 'Botafogo'),
+        (1963, 'Vasco da Gama'),
+        (1964, 'Moskva XI'),
+        (1966, 'Atlas'),
+        (1967, 'Mexico XI'),
+        (1968, 'Botafogo'),
+        (1970, 'Partizan Beograd'),
+        ],
+}
+
+parmalat = {
+    'competition': 'Parmalat Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1993, 'Penarol'),
+        (1994, 'Penarol'),
+        (1995, 'Parma'),
+        (1996, 'Penarol'),
+        (1998, 'Penarol'),
+        ],
+}

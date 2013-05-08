@@ -2,7 +2,6 @@ BlockSource: http://en.wikipedia.org/wiki/2013_Copa_Libertadores_Second_Stage
 Competition: Copa Libertadores
 Season: 2013
 
-
 Round: First Stage
 
 1/22/2013; Tigre; 2-1; Deportivo Anzoategui; Estadio Jose Dellagiovanna
@@ -23,10 +22,7 @@ Round: First Stage
 1/22/2013; Leon; 1-1; Iquique; Estadio Leon; Heber Lopes
 1/29/2013; Iquique; 1-1; Leon; Estadio Tierra de Campeones; Antonio Arias
 
-
-
 Round: Second Stage
-
 Group: Group 1
 
 2/12/2013; Nacional; 2-2; Barcelona (Ecuador); Estadio Gran Parque Central; Enrique Osses
@@ -46,7 +42,6 @@ Group: Group 1
 
 4/17/2013; Barcelona (Ecuador); 1-0; Nacional; Estadio Monumental Isidro Romero Carbo; Antonio Arias
 4/17/2013; Toluca; 3-2; Boca Juniors; Estadio Nemesio Diez; Imer Machado
-
 
 Group: Group 2
 
@@ -68,7 +63,6 @@ Group: Group 2
 4/18/2013; Libertad; 3-5; Tigre; Estadio Dr. Nicolas Leoz; Wilmar Roldan
 4/18/2013; Sporting Cristal; 1-0; Palmeiras; Estadio Alberto Gallardo; Enrique Osses
 
-
 Group: Group 3
 
 2/13/2013; Atletico Mineiro; 2-1; Sao Paulo FC; Estadio Independencia; Marcelo Henrique; 18187
@@ -88,7 +82,6 @@ Group: Group 3
 
 4/17/2013; Arsenal de Sarandi; 2-1; The Strongest; Estadio Julio Humberto Grondona; Carlos Vera
 4/17/2013; Sao Paulo FC; 2-0; Atletico Mineiro; Estadio do Morumbi; Wilton Sampaio
-
 
 Group: Group 4
 
@@ -110,7 +103,6 @@ Group: Group 4
 4/9/2013; Penarol; 3-0; Iquique; Estadio Centenario; Julio Quintana
 4/9/2013; Velez Sarsfield; 0-0; Emelec; Estadio Jose Amalfitani; Marcelo Henrique
 
-
 Group: Group 5
 
 2/19/2013; Millonarios; 0-1; Tijuana; Estadio El Campin; Marlon Escalante
@@ -130,7 +122,6 @@ Group: Group 5
 
 4/10/2013; Corinthians; 3-0; CD San Jose; Estadio do Pacaembu; Mauro Vigliano
 4/10/2013; Tijuana; 1-0; Corinthians; Estadio Caliente; Carlos Amarilla
-
 
 Group: Group 6
 
@@ -152,7 +143,6 @@ Group: Group 6
 4/16/2013; Cerro Porteno; 0-0; Deportes Tolima; Estadio General Pablo Rojas; Diego Abal
 4/16/2013; CD Santa Fe; 2-0; Real Garcilaso; Estadio El Campin; Sandro Ricci
 
-
 Group: Group 7
 
 2/12/2013; Universidad de Chile; 2-0; Deportivo Lara; Estadio Nacional Julio Martinez; Omar Ponce
@@ -172,7 +162,6 @@ Group: Group 7
 
 4/11/2013; Deportivo Lara; 2-3; Universidad de Chile; Estadio Metropolitano de Futbol de Lara; Diego Lara
 4/11/2013; Olimpia (Paraguay); 4-1; Newell's Old Boys; Estadio Defensores Del Chaco; Hernando Buitrago
-
 
 Group: Group 8
 
@@ -194,29 +183,28 @@ Group: Group 8
 4/18/2013; Huachipato; 1-1; Gremio; Estadio CAP; Martin Vazquez
 4/18/2013; Fluminense; 1-0; Caracas FC; Estadio Olimpico Joao Havelange; Nestor Pitana; 12158
 
-
 Round: Round of 16
 
-5/2/2013; Sao Paulo FC; v; Atletico Mineiro; Estadio do Morumbi
+5/2/2013; Sao Paulo FC; 1-2; Atletico Mineiro; Estadio do Morumbi; Antonio Arias
 5/8/2013; Atletico Mineiro; v; Sao Paulo FC; Estadio Independencia, Belo Horizonte
 
-5/1/2013; Gremio; v; CD Santa Fe; Arena do Gremio
+5/1/2013; Gremio; 2-1; CD Santa Fe; Arena do Gremio; Patricio Loustau
 5/7/2013; CD Santa Fe; v; Gremio; Estadio El Campin
 
-4/30/2013; Tigre; v; Olimpia (Paraguay); Estadio Jose Dellagiovanna
+4/30/2013; Tigre; 2-1; Olimpia (Paraguay); Estadio Jose Dellagiovanna; Omar Ponce
 5/16/2013; Olimpia (Paraguay); v; Tigre; Estadio Defensores del Chaco
 
-5/1/2013; Boca Juniors; v; Corinthians; Estadio Alberto J. Armando
+5/1/2013; Boca Juniors; 1-0; Corinthians; Estadio Alberto J. Armando; Enrique Osses
 5/15/2013; Corinthians; v; Boca Juniors; Estadio do Pacaembu
 
-4/24/2013; Newell's Old Boys; v; Velez Sarsfield; Estadio Marcelo Bielsa
+4/24/2013; Newell's Old Boys; 0-1; Velez Sarsfield; Estadio Marcelo Bielsa; Diego Abal
 5/14/2013; Velez Sarsfield; v; Newell's Old Boys; Estadio Jose Amalfitani
 
-5/2/2013; Emelec; v; Fluminense; Estadio George Capwell
+5/2/2013; Emelec; 2-1; Fluminense; Estadio George Capwell; Wilmar Roldan
 5/8/2013; Fluminense; v; Emelec; Estadio Olimpico Joao Havelange
 
-4/25/2013; Real Garcilaso; v; Nacional; Estadio Garcilaso
+4/25/2013; Real Garcilaso; 1-0; Nacional; Estadio Garcilaso; Marcelo Henrique
 5/9/2013; Nacional; v; Real Garcilaso; Estadio Gran Parque Central
 
-4/30/2013; Tijuana; v; Palmeiras; Estadio Caliente
+4/30/2013; Tijuana; 0-0; Palmeiras; Estadio Caliente; Martin Vazquez
 5/14/2013; Palmeiras; v; Tijuana; Estadio do Pacaembu

@@ -5,9 +5,10 @@
 aliases = {}
 
 full_alias = {
+    'Club World Cup': 'FIFA Club World Cup',
 
     # Once competition mapping is implemented.
-    #'CONCACAF Champions\' Cup': 'CONCACAF Champions League',
+    'CONCACAF Champions\' Cup': 'CONCACAF Champions League',
     'Copa Fraternidad Centroamericana': 'Copa Interclubes UNCAF',
     'Torneo Grandes de Centroamerica': 'Copa Interclubes UNCAF',
     'UNCAF Club Championship': 'Copa Interclubes UNCAF',
@@ -15,7 +16,9 @@ full_alias = {
     'Copa Interamericana': 'Interamerican Cup',
     'Copa Intercontinental': 'Intercontinental Cup',
 
-    'Chilean Primera División': 'Chilean Primera Division',
+    
+    'Chilean Primera Division': 'Chilean Primera División', 
+    'Uruguayan Primera Division': 'Uruguayan Primera División',
 
     'Merconorte Cup': 'Copa Merconorte',
 

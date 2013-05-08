@@ -5,8 +5,6 @@ import datetime
 
 l = [
 
-
-    
     {
         'name': 'Heinz Field',
         'address': '100 Art Rooney Avenue',
@@ -16,9 +14,6 @@ l = [
         'architect': 'HOK Sport',
         'capacity': 65050,
         },
-    
-    
-    
     
     {
         'name': 'Taylor Field',
@@ -148,10 +143,10 @@ l = [
     {
         'name': 'Highmark Stadium',
         'location': 'Pittsburgh, PA',
+        'opened': datetime.datetime(2013, 4, 13),
+        'capacity': 3500,
+        'cost': 10200000,
         },
-
-
-    
     
     {
         'name': 'Freeport Road Field',
@@ -269,9 +264,6 @@ l = [
         'capacity': 33608, 
         },
     
-    
-    
-    
     {
         'name': 'Skyline Sports Complex',
         'address': '201 Championship Way',
@@ -300,9 +292,6 @@ l = [
         'architect': 'Rossetti Architects',
         'capacity': 18500,
         },
-    
-    
-    
     
     {
         'name': 'Steel Field',

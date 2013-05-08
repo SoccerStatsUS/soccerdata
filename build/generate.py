@@ -15,20 +15,16 @@ make_stat_tuple = lambda name, d: (name, d['team'], d['season'], d['competition'
 
 
 def generate():
-    # Generate standings
-    #generate_standings(soccer_db.games, soccer_db.standings)
-    #generate_lineup_stats(soccer_db.mls_reserve_lineups.find())
-
-    generate_db_stats()
-
+    pass
 
 
 def generate2():
-    generate_all_standings()
-
+    generate_competition_standings()
     generate_competition_stats()
-    generate_mongo_indexes()
 
+    #generate_mongo_indexes()
+
+# Delete this. Not working here - moving to build.sh
 def generate_mongo_indexes():
     from mongo import soccer_db
     soccer_db.games.ensure_index("date")
@@ -51,8 +47,15 @@ def generate_competition_stats():
         x = generate_stats(soccer_db.goals.find({'competition': competition}), soccer_db.lineups.find({"competition": competition}))
         generic_load(soccer_db.stats, lambda: x.values())
 
-    competition_generate('FIFA World Cup')
     competition_generate('FIFA Club World Cup')
+
+    competition_generate('Intercontinental Cup')
+    competition_generate('Interamerican Cup')
+    competition_generate('Recopa Sudamericana')
+    competition_generate('SURUGA Bank Championship')
+    competition_generate('La Copita del Mundo')
+
+    competition_generate('FIFA World Cup')
     competition_generate('FIFA Confederations Cup')
     competition_generate('World Cup Qualifying')
     competition_generate('Olympic Games')
@@ -67,15 +70,18 @@ def generate_competition_stats():
     competition_generate('Copa Merconorte')
     competition_generate('Copa Mercosur')
 
-
     competition_generate('CONCACAF Champions League')
-    competition_generate('CONCACAF Champions\' Cup')
+    competition_generate('CONCACAF Cup Winners Cup')
+    competition_generate('CONCACAF Giants Cup')
+    #competition_generate('CONCACAF Champions\' Cup')
     competition_generate('North American SuperLiga')
+    competition_generate('Copa Interclubes UNCAF')
+    competition_generate('CFU Club Championship')
 
     competition_generate('Copa Libertadores')
-
-
-
+    competition_generate('Copa Sudamericana')
+    competition_generate('Copa CONMEBOL'),
+    competition_generate('Copa Masters CONMEBOL'),
 
     competition_generate('MLS Cup Playoffs')
     competition_generate('MLS Reserve League')
@@ -94,72 +100,40 @@ def generate_competition_stats():
 
     competition_generate('American Soccer League (1934-1983)')
 
-
     competition_generate('Mundialito')
 
     #competition_generate('North American Soccer League')
 
-                        
 
-def generate_db_stats():
-    
-    def standard_generate(source):
-        x = generate_stats(soccer_db['%s_goals' % source].find(), soccer_db['%s_lineups' % source].find())
-        generic_load(soccer_db['%s_stats' % source], lambda: x.values())
-
-    # This presents the problem of generating stats for games that have not been merged yet.
-    # It seems like a much better idea to filter by competition and generate stats after merge.
-
-        """
-    standard_generate('nafbl')
-    #standard_generate('mls_reserve')
-    standard_generate('chris')
-
-    standard_generate('american_cup')
-    standard_generate('lewis_cup')
-    standard_generate('open_cup')
-
-    #standard_generate('usa')
-    #standard_generate('world_cup')
-    standard_generate('usl_leach')
-    standard_generate('concacaf')
-
-    standard_generate('mexico')
-
-    standard_generate('small')
-
-    standard_generate('ussf2')
-
-    standard_generate('isl')
-
-    standard_generate('tours')
-
-    standard_generate('fifa')
-
-    standard_generate('city')
-
-    standard_generate('esl')
-    standard_generate('asl2')
-    """
-
-    #x = generate_stats(soccer_db['mls_soccernet_goals'].find({'season': '2012'}), soccer_db['mls_soccernet_lineups'].find({"season": "2012"}))
-    #generic_load(soccer_db['mls_soccernet_stats'], lambda: x.values())
-
-
-
-
-def generate_all_standings():
+def generate_competition_standings():
     """Generate rolling standings for a given competition."""
     # Don't generate based on collection (definitely will overcount games.
 
-    def sg(source):
-        stg = generate_standings(soccer_db['%s_games' % source].find())
-        generic_load(soccer_db['%s_standings' % source], lambda: stg.values())
 
 
     def sg2(competition):
-        stg = generate_standings2(competition)
+        stg = generate_standings(competition)
         generic_load(soccer_db.standings, lambda: stg)
+
+
+    sg2('FIFA Club World Cup')
+    sg2('Intercontinental Cup')
+    sg2('Interamerican Cup')
+    sg2('Recopa Sudamericana')
+    sg2('SURUGA Bank Championship')
+    sg2('La Copita del Mundo')
+
+    sg2('Copa Libertadores')
+    sg2('Copa Sudamericana')
+    sg2('Copa CONMEBOL')
+    sg2('Copa Masters CONMEBOL')
+
+    sg2('CONCACAF Champions League')
+    sg2('Copa Interclubes UNCAF')
+    sg2('CFU Club Championship')
+    sg2('CONCACAF Cup Winners Cup')
+    sg2('CONCACAF Giants Cup')
+    sg2('North American Superliga')
 
 
     sg2('International Soccer League')
@@ -173,34 +147,6 @@ def generate_all_standings():
     sg2('Hyundai A-League')
     sg2('Canadian Championship')
     sg2('Liga MX')
-
-    """
-    sg('lewis_cup')
-    sg('open_cup')
-    sg('mls_reserve')
-    sg('american_cup')
-    sg('tours')
-    sg('small')
-    sg('usa')
-    sg('concacaf')
-    sg('esl')
-    sg('mls_playoffs')
-
-
-    sg('melvin')
-
-    sg('fifa')
-    """
-
-    #stg = generate_standings(soccer_db.mls_soccernet_games.find({'season': '2012'}))
-    #generic_load(soccer_db.mls_soccernet_standings, lambda: stg.values())
-
-    #stg = generate_standings(soccer_db.nafbl_games.find({'season': '1895-1896'}))
-    #generic_load(soccer_db.nafbl_standings, lambda: stg.values())
-
-    #stg = generate_standings(soccer_db.nafbl_games.find({'season': '1895-1896'}))
-    #generic_load(soccer_db.nafbl_standings, lambda: stg.values())
-
 
 
 class Standing(object):
@@ -264,7 +210,7 @@ class Standing(object):
                 
             
 
-def generate_standings2(competition):
+def generate_standings(competition):
 
     standing_dict = defaultdict(list)
 
@@ -283,8 +229,6 @@ def generate_standings2(competition):
 
         standing_dict[key].append(new_standing)
 
-            
-
 
     for game in soccer_db.games.find({'competition': competition}).sort('date', 1):
 
@@ -295,72 +239,6 @@ def generate_standings2(competition):
     for lst in standing_dict.values():
         standings.extend([e.to_dict() for e in lst])
     return standings
-
-
-
-            
-    
-
-        
-        
-        
-
-
-def generate_standings(games):
-    # Need to remove idea of home team.
-
-
-    def insert_game(team, game):
-        t = (team, game['competition'], game['season'])
-        if t not in d:
-            d[t] = {
-                'team': team,
-                'competition': t[1],
-                'season': t[2],
-                'wins': 0,
-                'ties': 0,
-                'losses': 0,
-                'shootout_wins': 0,
-                'shootout_losses': 0,
-                'games': 0,
-                'goals_for': 0,
-                'goals_against': 0,
-                }
-
-        d[t]['games'] += 1
-        key = get_key(team, game)
-        d[t][key] += 1
-
-        if team == game['team1']:
-            gf, ga = game['team1_score'], game['team2_score']
-        else:
-            gf, ga = game['team2_score'], game['team1_score']
-
-        try:
-            d[t]['goals_for'] += gf or 0
-            d[t]['goals_against'] += ga or 0
-        except:
-            import pdb; pdb.set_trace()
-
-    def get_key(team, game):
-        ht, at, h, a = [game[k] for k in ['team1', 'team2', 'team1_score', 'team2_score']]
-        if h == a:
-            return 'ties'
-        if ht == team and h > a:
-            return 'wins'
-        if at == team and a > h:
-            return 'wins'
-        return 'losses'
-        
-        
-
-    d = {}
-    for game in games:
-        insert_game(game['team1'], game)
-        insert_game(game['team2'], game)
-
-    return d
-
 
 
 
@@ -434,7 +312,8 @@ def generate_stats(goals=[], lineups=[]):
                 except TypeError:
                     print lineup
             else:
-                print "Missing minute data for appearance."
+                pass
+                #print "Missing minute data for appearance."
         
 
     return sd

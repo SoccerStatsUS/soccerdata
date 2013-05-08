@@ -785,6 +785,11 @@ l = [
         'city': 'Morne-à-l\'Eau, Guadelopue',
         },
 
+    {
+        'name': 'La Gauloise de Basse-Terre',
+        'city': 'Basse-Terre, Guadelopue',
+        },
+
 
 
 

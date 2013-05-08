@@ -1,33 +1,27 @@
-http://www.rsssf.com/tablesa/arg50.html
+BlockSource: http://www.rsssf.com/tablesa/arg50.html
 
 Argentina 1950
 
 Asociación del Fútbol Argentino - 1950.
 
-Tables.
-
-Tournament:
-
-No. Team                         G    W    D    L    Gf    Ga    P
-------------------------------------------------------------------
- 1. Racing Club                 34   23    1   10    86:   48   47 (Champion)
- 2. Boca Juniors                34   15    9   10    59:   46   39 (2nd place playoff)
- 3. Independiente (Avellaneda)  34   18    3   13    69:   55   39 (2nd place playoff)
- 4. River Plate                 34   15    8   11    68:   57   38
- 5. San Lorenzo de Almagro      34   15    7   12    77:   60   37
- 6. Estudiantes de La Plata     34   14    8   12    57:   61   36
- 7. Banfield                    34   12   11   11    60:   51   35
- 8. Chacarita Juniors           34   13    8   13    54:   54   34
- 9. Platense                    34   11   12   11    66:   74   34
-10. Vélez Sarsfield             34   14    5   15    47:   58   33
-11. Newell's Old Boys           34   13    6   15    58:   53   32
-12. Gimnasia y Esgrima La Plata 34   11   10   13    59:   56   32
-13. Ferro Carril Oeste (BUE)    34   10   12   12    53:   60   32
-14. Atlanta                     34   12    7   15    58:   73   31
-15. Quilmes                     34   11    8   15    57:   65   30
-16. Huracán (BUE)               34   12    5   17    54:   65   29 (Against 17th place place off)
-17. Tigre                       34   10    9   15    51:   79   29 (Against 17th place place off)
-18. Rosario Central             34    9    7   18    52:   70   25 (Relegated)
+* 1. Racing Club                 34   23    1   10    86:   48   47 (Champion)
+* 2. Boca Juniors                34   15    9   10    59:   46   39 (2nd place playoff)
+* 3. Independiente (Avellaneda)  34   18    3   13    69:   55   39 (2nd place playoff)
+* 4. River Plate                 34   15    8   11    68:   57   38
+* 5. San Lorenzo de Almagro      34   15    7   12    77:   60   37
+* 6. Estudiantes de La Plata     34   14    8   12    57:   61   36
+* 7. Banfield                    34   12   11   11    60:   51   35
+* 8. Chacarita Juniors           34   13    8   13    54:   54   34
+* 9. Platense                    34   11   12   11    66:   74   34
+*10. Vélez Sarsfield             34   14    5   15    47:   58   33
+*11. Newell's Old Boys           34   13    6   15    58:   53   32
+*12. Gimnasia y Esgrima La Plata 34   11   10   13    59:   56   32
+*13. Ferro Carril Oeste (BUE)    34   10   12   12    53:   60   32
+*14. Atlanta                     34   12    7   15    58:   73   31
+*15. Quilmes                     34   11    8   15    57:   65   30
+*16. Huracán (BUE)               34   12    5   17    54:   65   29 (Against 17th place place off)
+*17. Tigre                       34   10    9   15    51:   79   29 (Against 17th place place off)
+*18. Rosario Central             34    9    7   18    52:   70   25 (Relegated)
 
 Second place playoff:
 
@@ -41,7 +35,7 @@ Note: It was defined by goal average in the accumulative table (tournament plus 
 16. Huracán (BUE)                2    2    0    0     8:    2    4 
 17. Tigre                        2    0    0    2     2:    8    0 (Relegated)
  
-Round 1 [Apr 2]:
+Round: Round 1 [Apr 2]:
 Atlanta                     3-3 San Lorenzo de Almagro
 Banfield                    0-0 Gimnasia y Esgrima La Plata 
 Estudiantes de La Plata     3-3 Tigre
@@ -52,7 +46,7 @@ Platense                    1-0 Rosario Central
 Quilmes                     2-2 Independiente (Avellaneda)  [at Boca Juniors]
 Racing Club                 2-0 Boca Juniors                [at Independiente (Avellaneda)]
 
-Round 2 [Apr 9]:
+Round: Round 2 [Apr 9]:
 Boca Juniors                5-1 Rosario Central
 Chacarita Juniors           1-1 Banfield
 Gimnasia y Esgrima La Plata 3-4 Racing Club
@@ -63,7 +57,7 @@ San Lorenzo del Almagro     2-2 Ferro Carril Oeste (BUE)
 Tigre                       1-0 Atlanta
 Vélez Sarsfield             4-1 Huracán (BUE)               [at Ferro Carril Oeste (BUE)]
 
-Round 3 [Apr 16]:
+Round: Round 3 [Apr 16]:
 Atlanta                     3-2 Independiente (Avellaneda)
 Banfield                    1-3 Vélez Sarsfield
 Estudiantes de La Plata     1-1 River Plate
@@ -74,7 +68,7 @@ Quilmes                     4-2 Newell's Old Boys           [at Boca Juniors]
 Racing Club                 2-1 Chacarita Juniors           [at Independiente (Avellaneda)]
 Rosario Central             1-2 Gimnasia y Esgrima La Plata
 
-Round 4 [Apr 30]:
+Round: Round 4 [Apr 30]:
 Chacarita Juniors           1-3 Rosario Central
 Gimnasia y Esgrima La Plata 1-1 Boca Juniors
 Independiente (Avellaneda)  1-2 Ferro Carril Oeste (BUE)
@@ -85,7 +79,7 @@ San Lorenzo del Almagro     8-2 Banfield
 Tigre                       1-1 Huracán (BUE)
 Vélez Sarsfield             3-4 Racing Club                 [at Ferro Carril Oeste (BUE)]
 
-Round 5 [May 7]:
+Round: Round 5 [May 7]:
 Atlanta                     0-4 Newell's Old Boys
 Banfield                    5-0 Tigre
 Boca Juniors                0-1 Chacarita Juniors           [at River Plate]
@@ -96,7 +90,7 @@ Platense                    1-1 Gimnasia y Esgrima La Plata
 Racing Club                 2-2 San Lorenzo de Almagro      [at Independiente (Avellaneda)]
 Rosario Central             0-0 Vélez Sarsfield
 
-Round 6:
+Round: Round 6:
 [May 14] 
 Newell's Old Boys           3-1 Ferro Carril Oeste (BUE)
 [May 18]
@@ -109,7 +103,7 @@ San Lorenzo del Almagro     1-1 Rosario Central
 Tigre                       0-4 Racing Club
 Vélez Sarsfield             2-4 Boca Juniors                [at Ferro Carril Oeste (BUE)]
 
-Round 7 [May 21]:
+Round: Round 7 [May 21]:
 Atlanta                     2-3 Estudiantes de La Plata
 Banfield                    3-1 River Plate
 Boca Juniors                0-3 San Lorenzo de Almagro      [at River Plate]
@@ -120,7 +114,7 @@ Platense                    3-0 Chacarita Juniors
 Racing Club                 3-1 Independiente (Avellaneda)  [at San Lorenzo de Almagro]
 Rosario Central             5-1 Tigre
 
-Round 8 [May 28]:
+Round: Round 8 [May 28]:
 Atlanta                     2-2 Platense
 Estudiantes de La Plata     3-2 Ferro Carril Oeste (BUE)
 Independiente (Avellaneda)  3-2 Rosario Central
@@ -131,7 +125,7 @@ San Lorenzo del Almagro     4-1 Gimnasia y Esgrima La Plata
 Tigre                       0-1 Boca Juniors
 Vélez Sarsfield             4-2 Chacarita Juniors           [at Ferro Carril Oeste (BUE)]
 
-Round 9 [Jun 4]:
+Round: Round 9 [Jun 4]:
 Banfield                    5-0 Quilmes
 Boca Juniors                3-0 Independiente (Avellaneda)  [at San Lorenzo de Almagro]
 Chacarita Juniors           5-1 San Lorenzo de Almagro
@@ -142,7 +136,7 @@ Platense                    1-1 Vélez Sarsfield
 Racing Club                 0-2 Newell's Old Boys           [at Independiente (Avellaneda)]
 Rosario Central             2-3 River Plate
 
-Round 10 [Jun 11]:
+Round: Round 10 [Jun 11]:
 Atlanta                     1-2 Huracán (BUE)
 Estudiantes de La Plata     2-1 Banfield
 Ferro Carril Oeste (BUE)    2-2 Platense
@@ -153,7 +147,7 @@ River Plate                 1-0 Boca Juniors
 San Lorenzo del Almagro     3-1 Vélez Sarsfield
 Tigre                       1-0 Chacarita Juniors
 
-Round 11 [Jun 18]:
+Round: Round 11 [Jun 18]:
 Banfield                    3-0 Atlanta
 Boca Juniors                2-4 Newell's Old Boys           [at San Lorenzo de Almagro]
 Chacarita Juniors           2-1 Independiente (Avellaneda)
@@ -164,7 +158,7 @@ Racing Club                 3-1 Estudiantes LP              [at Independiente (A
 Rosario Central             2-1 Quilmes
 Vélez Sarsfield             2-3 Tigre                       [at Ferro Carril Oeste (BUE)]
 
-Round 12 [Jun 25]:
+Round: Round 12 [Jun 25]:
 Atlanta                     2-1 Racing Club
 Estudiantes de La Plata     1-0 Rosario Central
 Ferro Carril Oeste (BUE)    2-2 Banfield
@@ -175,7 +169,7 @@ Quilmes                     1-1 Boca Juniors
 River Plate                 0-0 Chacarita Juniors
 Tigre                       1-5 San Lorenzo de Almagro
 
-Round 13 [Jul 2]:
+Round: Round 13 [Jul 2]:
 Banfield                    3-2 Huracán (BUE)
 Boca Juniors                1-2 Estudiantes de La Plata
 Chacarita Juniors           1-0 Newell's Old Boys
@@ -186,7 +180,7 @@ Rosario Central             1-0 Atlanta
 San Lorenzo del Almagro     2-2 Independiente (Avellaneda)
 Vélez Sarsfield             3-2 River Plate                 [Ferro Carril Oeste (BUE)]
 
-Round 14 [Jul 16]:
+Round: Round 14 [Jul 16]:
 Atlanta                     2-2 Boca Juniors
 Banfield                    2-2 Platense
 Estudiantes de La Plata     1-1 Gimnasia y Esgrima La Plata
@@ -197,7 +191,7 @@ Newell's Old Boys           0-0 Vélez Sarsfield
 Quilmes                     2-2 Chacarita Juniors
 River Plate                 2-1 San Lorenzo de Almagro
 
-Round 15 [Jul 23]:
+Round: Round 15 [Jul 23]:
 Boca Juniors                1-0 Ferro Carril Oeste (BUE)
 Chacarita Juniors           1-2 Estudiantes de La Plata
 Gimnasia y Esgrima La Plata 4-0 Atlanta
@@ -208,7 +202,7 @@ San Lorenzo del Almagro     1-0 Newell's Old Boys
 Tigre                       2-2 River Plate
 Vélez Sarsfield             1-1 Quilmes                     [at Ferro Carril Oeste (BUE)]
 
-Round 16 [Jul 30]:
+Round: Round 16 [Jul 30]:
 Atlanta                     1-0 Chacarita Juniors
 Banfield                    1-1 Rosario Central
 Estudiantes de La Plata     0-1 Vélez Sarsfield
@@ -219,7 +213,7 @@ Quilmes                     2-1 San Lorenzo de Almagro
 Racing Club                 3-5 Platense                    [at Independiente (Avellaneda)]
 River Plate                 0-1 Independiente (Avellaneda)
 
-Round 17 [Aug 6]:
+Round: Round 17 [Aug 6]:
 Boca Juniors                4-2 Banfield
 Chacarita Juniors           3-3 Ferro Carril Oeste (BUE)
 Gimnasia y Esgrima La Plata 4-1 Huracán (BUE)
@@ -230,7 +224,7 @@ San Lorenzo del Almagro     1-1 Estudiantes de La Plata
 Tigre                       2-0 Quilmes
 Vélez Sarsfield             0-1 Atlanta                     [at Ferro Carril Oeste (BUE)]
 
-Round 18 [Aug 13]:
+Round: Round 18 [Aug 13]:
 Boca Juniors                1-0 Racing Club
 Chacarita Juniors           2-0 Huracán (BUE)
 Gimnasia y Esgrima La Plata 2-1 Banfield
@@ -241,7 +235,7 @@ San Lorenzo del Almagro     4-1 Atlanta
 Tigre                       1-1 Estudiantes de La Plata
 Vélez Sarsfield             2-1 Ferro Carril Oeste (BUE)    [at Huracán (BUE)]
 
-Round 19:
+Round: Round 19:
 [Aug 19]
 Quilmes                     0-2 River Plate
 [Aug 20]
@@ -254,7 +248,7 @@ Platense                    2-2 Newell's Old Boys
 Racing Club                 3-2 Gimnasia y Esgrima La Plata [at Independiente (Avellaneda)]
 Rosario Central             1-2 Boca Juniors
 
-Round 20 [Aug 27]:
+Round: Round 20 [Aug 27]:
 Boca Juniors                0-0 Platense
 Chacarita Juniors           1-0 Racing Club
 Gimnasia y Esgrima La Plata 3-2 Rosario Central
@@ -265,7 +259,7 @@ San Lorenzo del Almagro     2-3 Huracán (BUE)
 Tigre                       1-1 Ferro Carril Oeste (BUE)
 Vélez Sarsfield             0-2 Banfield                    [at Ferro Carril Oeste (BUE)]
 
-Round 21 [Sep 3]:
+Round: Round 21 [Sep 3]:
 Atlanta                     1-4 River Plate
 Banfield                    3-0 San Lorenzo de Almagro
 Boca Juniors                2-1 Gimnasia y Esgrima La Plata
@@ -276,7 +270,7 @@ Platense                    2-2 Quilmes
 Racing Club                 1-0 Vélez Sarsfield
 Rosario Central             1-2 Chacarita Juniors
 
-Round 22 [Sep 10]:
+Round: Round 22 [Sep 10]:
 Chacarita Juniors           1-4 Boca Juniors
 Gimnasia y Esgrima La Plata 0-1 Platense
 Independiente (Avellaneda)  3-2 Huracán (BUE)
@@ -287,7 +281,7 @@ San Lorenzo del Almagro     0-2 Racing Club
 Tigre                       3-0 Banfield
 Vélez Sarsfield             1-0 Rosario Central             [at Ferro Carril Oeste (BUE)]
 
-Round 23 [Sep 17]:
+Round: Round 23 [Sep 17]:
 Atlanta                     1-3 Quilmes
 Banfield                    2-0 Independiente (Avellaneda)
 Boca Juniors                4-1 Vélez Sarsfield
@@ -298,7 +292,7 @@ Platense                    2-1 Estudiantes de La Plata
 Racing Club                 4-1 Tigre
 Rosario Central             2-1 San Lorenzo de Almagro
 
-Round 24 [Sep 24]:
+Round: Round 24 [Sep 24]:
 Chacarita Juniors           7-2 Platense
 Estudiantes de La Plata     2-8 Atlanta
 Independiente (Avellaneda)  2-4 Racing Club
@@ -309,7 +303,7 @@ San Lorenzo del Almagro     1-1 Boca Juniors
 Tigre                       2-2 Rosario Central
 Vélez Sarsfield             1-4 Gimnasia y Esgrima La Plata [at Ferro Carril Oeste (BUE)]
 
-Round 25 [Oct 1]:
+Round: Round 25 [Oct 1]:
 Banfield                    3-0 Newell's Old Boys
 Boca Juniors                2-1 Tigre
 Chacarita Juniors           1-0 Vélez Sarsfield
@@ -320,7 +314,7 @@ Platense                    3-3 Atlanta
 Racing Club                 5-3 River Plate
 Rosario Central             2-4 Independiente (Avellaneda)
 
-Round 26 [Oct 8]:
+Round: Round 26 [Oct 8]:
 Atlanta                     5-1 Ferro Carril Oeste (BUE)
 Estudiantes de La Plata     3-1 Huracán (BUE)
 Independiente (Avellaneda)  3-1 Boca Juniors
@@ -331,7 +325,7 @@ San Lorenzo del Almagro     5-1 Chacarita Juniors
 Tigre                       3-2 Gimnasia y Esgrima La Plata
 Vélez Sarsfield             1-0 Platense
 
-Round 27 [Oct 12]:
+Round: Round 27 [Oct 12]:
 Banfield                    2-2 Estudiantes de La Plata
 Boca Juniors                1-2 River Plate
 Chacarita Juniors           1-1 Tigre
@@ -342,7 +336,7 @@ Racing Club                 2-0 Quilmes
 Rosario Central             1-1 Newell's Old Boys
 Vélez Sarsfield             1-4 San Lorenzo de Almagro      [at Ferro Carril Oeste (BUE)]
 
-Round 28 [Oct 15]:
+Round: Round 28 [Oct 15]:
 Atlanta                     1-0 Banfield
 Estudiantes de La Plata     1-0 Racing Club
 Ferro Carril Oeste (BUE)    1-6 Huracán (BUE)
@@ -353,7 +347,7 @@ River Plate                 2-2 Gimnasia y Esgrima La Plata
 San Lorenzo del Almagro     2-0 Platense
 Tigre                       0-1 Vélez Sarsfield
 
-Round 29 [Oct 22]:
+Round: Round 29 [Oct 22]:
 Banfield                    1-1 Ferro Carril Oeste (BUE)
 Boca Juniors                4-0 Quilmes
 Chacarita Juniors           2-1 River Plate
@@ -364,7 +358,7 @@ Rosario Central             3-1 Estudiantes de La Plata
 San Lorenzo del Almagro     4-1 Tigre
 Vélez Sarsfield             1-0 Independiente (Avellaneda)  [at Ferro Carril Oeste (BUE)]
 
-Round 30:
+Round: Round 30:
 [Oct 28] 
 Newell's Old Boys           0-1 Chacarita Juniors
 [Oct 29]
@@ -377,7 +371,7 @@ Quilmes                     2-2 Gimnasia y Esgrima La Plata
 River Plate                 0-0 Vélez Sarsfield
 Tigre                       5-3 Platense
 
-Round 31 [Nov 5]:
+Round: Round 31 [Nov 5]:
 Boca Juniors                3-3 Atlanta
 Chacarita Juniors           2-2 Quilmes
 Gimnasia y Esgrima La Plata 2-2 Estudiantes de La Plata
@@ -388,7 +382,7 @@ San Lorenzo del Almagro     3-2 River Plate
 Tigre                       2-3 Independiente (Avellaneda)
 Vélez Sarsfield             3-2 Newell's Old Boys           [at Ferro Carril Oeste (BUE)]
  
-Round 32: 
+Round: Round 32: 
 [Nov 11]
 Newell's Old Boys           2-1 San Lorenzo de Almagro
 [Nov 12]
@@ -410,7 +404,7 @@ Racing Club: Rodríguez; García, García Pérez; Fernández, Rastelli, Gutiérr
 Ref.: Meade.
 Att.: 12,500.
 
-Round 33 [Nov 19]:
+Round: Round 33 [Nov 19]:
 Boca Juniors                0-1 Huracán (BUE)
 Chacarita Juniors           4-1 Atlanta
 Gimnasia y Esgrima La Plata 1-2 Ferro Carril Oeste (BUE)
@@ -421,7 +415,7 @@ San Lorenzo del Almagro     0-1 Quilmes
 Tigre                       4-2 Newell's Old Boys
 Vélez Sarsfield             1-4 Estudiantes LP              [at Ferro Carril Oeste (BUE)]
 
-Round 34 [Nov 26]:
+Round: Round 34 [Nov 26]:
 Atlanta                     3-1 Vélez Sarsfield
 Banfield                    1-1 Boca Juniors
 Estudiantes de La Plata     4-1 San Lorenzo de Almagro
@@ -455,30 +449,24 @@ Tigre                       1-3 Huracán (BUE)               [at Independiente (
 Second leg [Dec 10]:
 Huracán (BUE)               5-1 Tigre                       [at River Plate]
 
-Tables.
-
-Tournament:
-
-No. Team                         G    W    D    L    Gf    Ga    P
-------------------------------------------------------------------
- 1. Racing Club                 34   23    1   10    86:   48   47 (Champion)
- 2. Boca Juniors                34   15    9   10    59:   46   39 (Second place playoff)
- 3. Independiente (Avellaneda)  34   18    3   13    69:   55   39 (Second place playoff)
- 4. River Plate                 34   15    8   11    68:   57   38
- 5. San Lorenzo de Almagro      34   15    7   12    77:   60   37
- 6. Estudiantes de La Plata     34   14    8   12    57:   61   36
- 7. Banfield                    34   12   11   11    60:   51   35
- 8. Chacarita Juniors           34   13    8   13    54:   54   34
- 9. Platense                    34   11   12   11    66:   74   34
-10. Vélez Sarsfield             34   14    5   15    47:   58   33
-11. Newell's Old Boys           34   13    6   15    58:   53   32
-12. Gimnasia y Esgrima La Plata 34   11   10   13    59:   56   32
-13. Ferro Carril Oeste (BUE)    34   10   12   12    53:   60   32
-14. Atlanta                     34   12    7   15    58:   73   31
-15. Quilmes                     34   11    8   15    57:   65   30
-16. Huracán (BUE)               34   12    5   17    54:   65   29 (Against 17th place place off)
-17. Tigre                       34   10    9   15    51:   79   29 (Against 17th place place off)
-18. Rosario Central             34    9    7   18    52:   70   25 (Relegated)
+* 1. Racing Club                 34   23    1   10    86:   48   47 (Champion)
+* 2. Boca Juniors                34   15    9   10    59:   46   39 (Second place playoff)
+* 3. Independiente (Avellaneda)  34   18    3   13    69:   55   39 (Second place playoff)
+* 4. River Plate                 34   15    8   11    68:   57   38
+* 5. San Lorenzo de Almagro      34   15    7   12    77:   60   37
+* 6. Estudiantes de La Plata     34   14    8   12    57:   61   36
+* 7. Banfield                    34   12   11   11    60:   51   35
+* 8. Chacarita Juniors           34   13    8   13    54:   54   34
+* 9. Platense                    34   11   12   11    66:   74   34
+*10. Vélez Sarsfield             34   14    5   15    47:   58   33
+*11. Newell's Old Boys           34   13    6   15    58:   53   32
+*12. Gimnasia y Esgrima La Plata 34   11   10   13    59:   56   32
+*13. Ferro Carril Oeste (BUE)    34   10   12   12    53:   60   32
+*14. Atlanta                     34   12    7   15    58:   73   31
+*15. Quilmes                     34   11    8   15    57:   65   30
+*16. Huracán (BUE)               34   12    5   17    54:   65   29 (Against 17th place place off)
+*17. Tigre                       34   10    9   15    51:   79   29 (Against 17th place place off)
+*18. Rosario Central             34    9    7   18    52:   70   25 (Relegated)
 
 Second place playoff:
 
@@ -493,45 +481,9 @@ Note: It was defined by goal average in the accumulative table (tournament plus 
 17. Tigre                        2    0    0    2     2:    8    0 (Relegated)
 
 
-
-1949.
-
-
-1950 (2nd level).
-
-
-1951.
-
-
-list of champions.
-
-
-list of cup tournaments.
-
-
-list of final tables.
-
-
-all-time tables.
-
-
-list of 2nd level champions.
-
-
-divisional movements.
-
-
-topscorers.
-
-
-About this document
-
-Sources: [CIHF -], [Ram -2]
-
-Prepared and maintained by Osvaldo José Gorgazzi for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Osvaldo José Gorgazzi 
-Last updated: 14 Aug 2008
-
-(C) Copyright Osvaldo José Gorgazzi and RSSSF 2000/08
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Sources: [CIHF -], [Ram -2]
+*Prepared and maintained by Osvaldo José Gorgazzi for the Rec.Sport.Soccer Statistics Foundation
+*Author: Osvaldo José Gorgazzi 
+*Last updated: 14 Aug 2008
+*(C) Copyright Osvaldo José Gorgazzi and RSSSF 2000/08
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

@@ -1,33 +1,31 @@
-http://www.rsssf.com/tablesa/arg01.html
+BlockSource: http://www.rsssf.com/tablesa/arg01.html
 
 Argentina 2000/01
 
 Torneo Apertura
 
-Table:
+* 1.Boca Juniors            19 12  5  2 35-19 41  Apertura Champions
+* 2.River Plate             19 10  7  2 41-24 37
+* 3.Gimnasia LP             19 11  4  4 36-29 37
+* 4.Talleres Cba            19 11  3  5 31-21 36
+* 5.San Lorenzo             19 10  4  5 33-18 34
+* 6.Vélez Sarsfield         19  7  8  4 26-20 29
+* 7.Estudiantes LP          19  7  8  4 22-17 29
+* 8.Huracán                 19  6  9  4 26-21 27
+* 9.Chacarita Juniors       19  8  3  8 19-24 27 
+*10.Colón SF                19  7  5  7 29-23 26
+*11.Unión SF                19  6  8  5 23-21 26
+*12.Rosario Central         19  6  6  7 28-31 24
+*13.Newell's Old Boys       19  5  9  5 18-23 24 
+*14.Independiente           19  6  5  8 24-23 23
+*15.Lanús                   19  5  6  8 24-26 21
+*16.Belgrano Cba            19  3  8  8 22-31 17
+*17.Argentinos Juniors      19  2  8  9 18-28 14
+*18.Almagro                 19  2  7 10 18-31 13
+*19.Los Andes               19  3  3 13 21-46 12
+*20.Racing Club             19  1  8 10 12-30 11
 
- 1.Boca Juniors            19 12  5  2 35-19 41  Apertura Champions
- 2.River Plate             19 10  7  2 41-24 37
- 3.Gimnasia LP             19 11  4  4 36-29 37
- 4.Talleres Cba            19 11  3  5 31-21 36
- 5.San Lorenzo             19 10  4  5 33-18 34
- 6.Vélez Sarsfield         19  7  8  4 26-20 29
- 7.Estudiantes LP          19  7  8  4 22-17 29
- 8.Huracán                 19  6  9  4 26-21 27
- 9.Chacarita Juniors       19  8  3  8 19-24 27 
-10.Colón SF                19  7  5  7 29-23 26
-11.Unión SF                19  6  8  5 23-21 26
-12.Rosario Central         19  6  6  7 28-31 24
-13.Newell's Old Boys       19  5  9  5 18-23 24 
-14.Independiente           19  6  5  8 24-23 23
-15.Lanús                   19  5  6  8 24-26 21
-16.Belgrano Cba            19  3  8  8 22-31 17
-17.Argentinos Juniors      19  2  8  9 18-28 14
-18.Almagro                 19  2  7 10 18-31 13
-19.Los Andes               19  3  3 13 21-46 12
-20.Racing Club             19  1  8 10 12-30 11
-
-Round 1
+Round: Round 1
 [Jul 28]
 San Lorenzo      3-0  Gimnasia LP 
   [Franco (2), Abreu]
@@ -53,7 +51,7 @@ Los Andes        1-1  Newell's Old Boys
 Rosario Central  1-1  Almagro
   [Sánchez - Coria]
  
-Round 2
+Round: Round 2
 [Aug 4]
 Huracán          3-1  Rosario Central
   [Soto, Morquio, Casas - Pierucci]
@@ -79,7 +77,7 @@ Almagro          1-1  Independiente
 Argentinos Jrs   1-1  Estudiantes LP
   [Insúa - Agoglia]
 
-Round 3
+Round: Round 3
 [Aug 12]
 Boca Juniors     3-3  Gimnasia (LP)
   [Palermo (2), Riquelme - Pereyra (2, 1 pen), Sava]
@@ -105,7 +103,7 @@ San Lorenzo      3-1 Racing Club
 Talleres Cba     1-0  Almagro
   [Albornos]
   
-Round 4
+Round: Round 4
 [Aug 25]
 Vélez Sarsfield  1-1  Colón SF
   [Chilavert (pen) - Graf]
@@ -130,7 +128,7 @@ River Plate      4-1  Rosario Central
 Gimnasia LP      1-1  Argentinos Juniors
   [Enría - Yaqué]
  
-Round 5
+Round: Round 5
 [Sep 5]
 Argentinos Jrs   0-1  Newell's Old Boys
   [Gigena]
@@ -154,7 +152,7 @@ Unión SF         0-2  Gimnasia LP
 Estudiantes LP   2-0  Colón SF
   [Farías, Azconzábal]
  
-Round 6
+Round: Round 6
 [Sep 8]
 Racing Club      abd  Argentinos Juniors
   [Abandoned 0-0 at 47' because of rain. To be continued next Oct 6]
@@ -181,7 +179,7 @@ Almagro          0-1  Chacarita Juniors
 [Oct 6]
 Racing Club      0-0  Argentinos Juniors  [remaining 43']
 
-Round 7
+Round: Round 7
 [Sep 15]
 Unión SF         2-0  Racing Club
   [Tilger (2)]
@@ -207,7 +205,7 @@ Los Andes        0-4  River Plate
 Rosario Central  2-3  Estudiantes LP
   [Vespa, Maceratesi - Farías (3, 2 pen)]
  
-Round 8
+Round: Round 8
 [Sep 22]
 Racing Club      0-2  Gimnasia LP
   [Sava, F. Fernández]
@@ -234,7 +232,7 @@ Belgrano Cba     1-1  Unión SF
 [Nov 14]
 Estudiantes LP   0-0  Newell's Old Boys
  
-Round 9
+Round: Round 9
 [Sep 29]
 Boca Juniors     3-2  Lanús
   [Delgado, Serna, Palermo - Klimowicz, Capria]
@@ -260,7 +258,7 @@ San Lorenzo      0-1  Vélez Sarsfield
 Los Andes        0-1  Colón SF
   [Gigena]
 
-Round 10
+Round: Round 10
 [Oct 13]
 Independiente    1-2  Talleres Cba
   [Forlán - Rueda, Monrroy]
@@ -286,7 +284,7 @@ Almagro          0-1  Gimnasia LP
 Lanús            1-1  Argentinos Juniors
   [Capria (pen) - Zermattén]
 
-Round 11
+Round: Round 11
 [Oct 20]
 Racing Club      0-0  Belgrano Cba
 [Oct 22]
@@ -309,7 +307,7 @@ Boca Juniors     3-1  Vélez Sarsfield
 Newell's O. B.   1-1  Almagro
   [Gigena - Coria]
  
-Round 12
+Round: Round 12
 [Oct 27]
 River Plate      1-1  Unión SF
   [Saviola - Tilger]
@@ -334,7 +332,7 @@ Independiente    1-2  San Lorenzo
 Estudiantes LP   2-0  Belgrano Cba
   [Farías (2)]
 
-Round 13
+Round: Round 13
 [Nov 3]
 San Lorenzo      1-1  Talleres Cba
   [Quinteros - Garay]
@@ -360,7 +358,7 @@ Boca Juniors     3-3  Rosario Central
 Argentinos Jrs   0-4  Colón SF
   [Medero, Gigena, Pérez, Gorostidi]
  
-Round 14 
+Round: Round 14 
 [Nov 10]
 Los Andes        0-1  San Lorenzo
   [Ameli]
@@ -392,7 +390,7 @@ Huracán          2-1  Belgrano Cba  [Remaining 45']
 Independiente    3-0  Boca Juniors
   [Forlán (2), Guerrero]
   
-Round 15 
+Round: Round 15 
 [Nov 17]
 Argentinos Jrs   0-1  Independiente
   [Vuoso]
@@ -418,7 +416,7 @@ Racing Club      0-1  River Plate
 Belgrano Cba     0-1  Lanús
   [Klimowicz]
 
-Round 16
+Round: Round 16
 [Oct 7]
 Los Andes        0-1  Boca Juniors
   [Barijho]
@@ -444,7 +442,7 @@ Vélez Sarsfield  1-1  Racing Club
 Lanús            1-1  Almagro
   [Klimowicz - Couceiro]
  
-Round 17
+Round: Round 17
 [Dec 1]
 Racing Club      0-4  Colón SF
   [Medero (2), Castagno Suárez, Morales Santos]
@@ -468,7 +466,7 @@ Boca Juniors     1-0  San Lorenzo
 Argentinos Jrs   5-2  Los Andes
   [Yaqué, Insúa (2), Monzón, Schiavi (pen) - G. Denis, Marzo]
 
-Round 18
+Round: Round 18
 [Dec 8]
 Vélez Sarsfield  2-3  Almagro
   [E. Domínguez (pen), Castillo - Maciel, Bevacqua, Aragón]
@@ -493,7 +491,7 @@ River Plate      1-1  Huracán
 Colón SF         1-2  Belgrano Cba
   [Delgado - Mugnaini, Torres (pen)]
  
-Round 19
+Round: Round 19
 [Dec 15]
 Unión SF         0-0  San Lorenzo
 [Dec 16]
@@ -553,34 +551,31 @@ Top Scorers:
   Tilger (Unión SF)       10
  
 
-Torneo Clausura
-
-Table:
-
- 1.San Lorenzo             19 15  2  2 43-17 47  Clausura Champions
- 2.River Plate             19 13  2  4 48-27 41
- 3.Boca Juniors            19  8  6  5 29-26 30
- 4.Argentinos Juniors      19  8  5  6 27-22 29
- 5.Racing Club             19  7  8  4 21-20 29
- 6.Chacarita Juniors       19  8  5  6 21-25 29
- 7.Huracán                 19  8  4  7 28-28 28
- 8.Vélez Sarsfield         19  7  6  6 25-24 27
- 9.Estudiantes LP          19  7  6  6 23-24 27
-10.Almagro                 19  7  5  7 27-27 26
-11.Talleres Cba            19  7  4  8 23-23 25
-12.Newell's Old Boys       19  7  3  9 27-28 24
-13.Colón SF                19  6  5  8 21-27 23
-14.Lanús                   19  6  4  9 28-30 22
-15.Unión SF                19  5  5  9 32-36 20
-16.Belgrano Cba            19  5  5  9 18-26 20
-17.Independiente           19  5  4 10 18-21 19
-18.Gimnasia LP             19  4  6  9 22-28 18
-19.Los Andes               19  5  6  8 24-32 18 [*]
-20.Rosario Central         19  4  5 10 24-38 17
+*Torneo Clausura
+* 1.San Lorenzo             19 15  2  2 43-17 47  Clausura Champions
+* 2.River Plate             19 13  2  4 48-27 41
+* 3.Boca Juniors            19  8  6  5 29-26 30
+* 4.Argentinos Juniors      19  8  5  6 27-22 29
+* 5.Racing Club             19  7  8  4 21-20 29
+* 6.Chacarita Juniors       19  8  5  6 21-25 29
+* 7.Huracán                 19  8  4  7 28-28 28
+* 8.Vélez Sarsfield         19  7  6  6 25-24 27
+* 9.Estudiantes LP          19  7  6  6 23-24 27
+*10.Almagro                 19  7  5  7 27-27 26
+*11.Talleres Cba            19  7  4  8 23-23 25
+*12.Newell's Old Boys       19  7  3  9 27-28 24
+*13.Colón SF                19  6  5  8 21-27 23
+*14.Lanús                   19  6  4  9 28-30 22
+*15.Unión SF                19  5  5  9 32-36 20
+*16.Belgrano Cba            19  5  5  9 18-26 20
+*17.Independiente           19  5  4 10 18-21 19
+*18.Gimnasia LP             19  4  6  9 22-28 18
+*19.Los Andes               19  5  6  8 24-32 18 [*]
+*20.Rosario Central         19  4  5 10 24-38 17
 
 [*] 3 points deducted
 
-Round 1
+Round: Round 1
 [Feb 9]
 Racing Club      0-1  Talleres Cba
   [Albornos]
@@ -603,7 +598,7 @@ Almagro          1-3  Rosario Central
 Gimnasia LP      2-2  San Lorenzo
   [Pereyra, Sanguinetti - Romagnoli, Romeo]
  
-Round 2
+Round: Round 2
 [Feb 13]
 Independiente    2-1  Almagro
   [Cambiasso, Páez - Rivero]
@@ -627,7 +622,7 @@ San Lorenzo      2-1  Newell's Old Boys
 Vélez Sarsfield  0-2  River Plate
   [Cardetti, Coudet]
  
-Round 3
+Round: Round 3
 [Feb 16]
 Vélez Sarsfield  1-1  Estudiantes LP
   [Castillo - Farías]
@@ -652,7 +647,7 @@ Racing Club      2-0  San Lorenzo
 Almagro          2-2  Talleres Cba
   [Bevacqua, Villalba - Garay, Buján]
  
-Round 4
+Round: Round 4
 [Feb 23]
 San Lorenzo      2-0  Belgrano Cba
   [Romeo, Rodríguez]
@@ -678,7 +673,7 @@ Boca Juniors     2-2  Newell's Old Boys
 Estudiantes LP   2-1  Unión SF
   [Piersimone (2) - A. Donnet]
  
-Round 5
+Round: Round 5
 [Mar 2]
 Vélez Sarsfield  1-1  Rosario Central
   [F. Domínguez - Lequi]
@@ -704,7 +699,7 @@ River Plate      3-1  Independiente
 Newell's O. B.   2-1  Argentinos Juniors
   [Almirón, Quintana - Bustos]
  
-Round 6
+Round: Round 6
 [Mar 9]
 Argentinos Jrs   2-0  Racing Club
   [Insúa (2)]
@@ -729,7 +724,7 @@ Independiente    0-1  Vélez Sarsfield
 [Mar 12]
 Rosario Central  0-0  Colón SF
 
-Round 7
+Round: Round 7
 [Mar 16]
 Lanús            4-5  San Lorenzo
   [Caniza, Hoyos, González (2) - Romagnoli, Romeo (2), Estévez, Ameli]
@@ -752,7 +747,7 @@ Colón SF         1-0  Independiente
 Belgrano Cba     0-2  Argentinos Juniors
   [Hurtado, Insúa]
 
-Round 8
+Round: Round 8
 [Mar 23]
 Gimnasia LP      0-1  Racing Club
   [Canobbio]
@@ -775,7 +770,7 @@ San Lorenzo      1-3  River Plate
 Talleres Cba     3-0  Colón SF
   [Cuba, Astudillo, Monrroy]
 
-Round 9
+Round: Round 9
 [Mar 30]
 Racing Club      2-0  Newell's Old Boys
   [Loscri, Canobbio]
@@ -799,7 +794,7 @@ Vélez Sarsfield  0-2  San Lorenzo
 Colón SF         1-1  Los Andes
   [Graf - V. López]
 
-Round 10
+Round: Round 10
 [Apr 6]
 Talleres Cba     1-0  Independiente
   [Zelaya]
@@ -823,7 +818,7 @@ Racing Club      0-0  Estudiantes LP
 Boca Juniors     3-0  River Plate
   [Ibarra, Riquelme, Gmo. Barros Schelotto (pen)]
 
-Round 11
+Round: Round 11
 [Apr 10]
 Almagro          2-0  Newell's Old Boys
   [Bevaqcua, Zaccardo]
@@ -848,7 +843,7 @@ Estudiantes LP   1-0  Talleres Cba
 Independiente    4-0  Los Andes
   [Cambiasso, Vuoso, Forlán (2)]
 
-Round 12
+Round: Round 12
 [Apr 13]
 Newell´s O. B.   3-0  Huracán
   [Fuentes, Pavolvich (2)
@@ -873,7 +868,7 @@ San Lorenzo      3-2  Independiente
 Los Andes        4-1  Talleres Cba
   [Maggiolo (2), Pajuelo, Domínguez - Cuba]
 
-Round 13
+Round: Round 13
 [Apr 20]
 Independiente    0-0  Chacarita Juniors
 [Apr 21]
@@ -896,7 +891,7 @@ Talleres Cba     0-3  San Lorenzo
 River Plate      3-3  Gimnasia LP
   [Coudet, Saviola, H. Díaz - Pereyra (pen), San Esteban (2)]
 
-Round 14
+Round: Round 14
 [Apr 27]
 Racing Club      1-1  Lanús
   [Canobbio - Sarría]
@@ -922,7 +917,7 @@ Boca Juniors     2-1  Independiente
 Chacarita Jrs    1-1  Talleres Cba
   [Carrario - F. Astudillo]
 
-Round 15
+Round: Round 15
 [May 11]
 Independiente    0-2  Argentinos Juniors
   [Hurtado, Insúa]
@@ -946,7 +941,7 @@ Rosario Central  3-3  Unión SF
 River Plate      3-0  Racing Club
   [Cardetti, Coudet, Ortega]
 
-Round 16
+Round: Round 16
 [May 19]
 Unión SF         2-2  Independiente
   [Silvera (2), Forlán, Vuoso]
@@ -971,7 +966,7 @@ Boca Juniors     1-0  Los Andes
 Huracán          1-2  Estudiantes LP
   [Lobos - Galletti, Quatrocchi]
 
-Round 17
+Round: Round 17
 [May 25]
 Independiente    0-1  Gimnasia LP
   [Rocha (o.g)]
@@ -997,7 +992,7 @@ San Lorenzo      1-0  Boca Juniors
 Lanús            1-1  Huracán
   [Galván - Lobos]
 
-Round 18
+Round: Round 18
 [Jun 4]
 Boca Juniors     4-4  Chacarita Jrs
   [La Paglia, Rodríguez, W. Gaitán (2) - Brizuela (2), Moreno, G. Gaitán]
@@ -1020,7 +1015,7 @@ Huracán          3-2  River Plate
 Belgrano Cba     3-1  Colón SF
   [Artime (2), E. González - Graf (pen)] 
 
-Round 19
+Round: Round 19
 [Jun 9]
 Vélez Sarsfield  2-0  Huracán
   [Buján, Husain]
@@ -1049,69 +1044,54 @@ Los Andes        3-2  Gimnasia LP
   [Abandoned 3-2 at 90' because Los Andes Fans invaded the playground]
   [Score allowed to stand]
 
-Table:
+* 1.San Lorenzo             19 15  2  2 43-17 47  Clausura Champions
+* 2.River Plate             19 13  2  4 48-27 41
+* 3.Boca Juniors            19  8  6  5 29-26 30
+* 4.Argentinos Juniors      19  8  5  6 27-22 29
+* 5.Racing Club             19  7  8  4 21-20 29
+* 6.Chacarita Juniors       19  8  5  6 21-25 29
+* 7.Huracán                 19  8  4  7 28-28 28
+* 8.Vélez Sarsfield         19  7  6  6 25-24 27
+* 9.Estudiantes LP          19  7  6  6 23-24 27
+*10.Almagro                 19  7  5  7 27-27 26
+*11.Talleres Cba            19  7  4  8 23-23 25
+*12.Newell's Old Boys       19  7  3  9 27-28 24
+*13.Colón SF                19  6  5  8 21-27 23
+*14.Lanús                   19  6  4  9 28-30 22
+*15.Unión SF                19  5  5  9 32-36 20
+*16.Belgrano Cba            19  5  5  9 18-26 20
+*17.Independiente           19  5  4 10 18-21 19
+*18.Gimnasia LP             19  4  6  9 22-28 18
+*19.Los Andes               19  5  6  8 24-32 18 [*]
+*20.Rosario Central         19  4  5 10 24-38 17
+*[*] 3 points deducted
 
- 1.San Lorenzo             19 15  2  2 43-17 47  Clausura Champions
- 2.River Plate             19 13  2  4 48-27 41
- 3.Boca Juniors            19  8  6  5 29-26 30
- 4.Argentinos Juniors      19  8  5  6 27-22 29
- 5.Racing Club             19  7  8  4 21-20 29
- 6.Chacarita Juniors       19  8  5  6 21-25 29
- 7.Huracán                 19  8  4  7 28-28 28
- 8.Vélez Sarsfield         19  7  6  6 25-24 27
- 9.Estudiantes LP          19  7  6  6 23-24 27
-10.Almagro                 19  7  5  7 27-27 26
-11.Talleres Cba            19  7  4  8 23-23 25
-12.Newell's Old Boys       19  7  3  9 27-28 24
-13.Colón SF                19  6  5  8 21-27 23
-14.Lanús                   19  6  4  9 28-30 22
-15.Unión SF                19  5  5  9 32-36 20
-16.Belgrano Cba            19  5  5  9 18-26 20
-17.Independiente           19  5  4 10 18-21 19
-18.Gimnasia LP             19  4  6  9 22-28 18
-19.Los Andes               19  5  6  8 24-32 18 [*]
-20.Rosario Central         19  4  5 10 24-38 17
-
-[*] 3 points deducted
-
-Top Scorers:
- 1.Romeo     (San Lorenzo)        15
- 2.Cardetti  (River Plate)        13
- 3.Saviola   (River Plate)        11
- 4.Brizuela  (Chacarita Juniors)  10
- 5.Bevaqcua  (Almagro)             9
-   Forlán    (Independiente)       9
- 7.Klimowicz (Lanús)               8
-   Ortega    (River Plate)         8
-   Silvera   (Unión SF)            8
   
 
-Relegation Table (Apertura + Clausura) (Remaining 1 Round):
- 
-   Teams            98/99 99/00 00/01 Pts. MP. Average
-
- 1.Boca Juniors      89    74    71   234  114  2,052
- 2.River Plate       58    86    78   222  114  1,947
- 3.San Lorenzo       61    69    81   211  114  1,850
- 4.Gimnasia LP       62    49    55   166  114  1,456
- 5.Huracán           --    --    55    55   38  1,447
- 6.Rosario Central   57    66    41   164  114  1,438
- 7.Talleres Cba      44    58    61   163  114  1,429
- 8.Vélez Sarsfield   46    61    56   163  114  1,429
- 9.Newell's O. Boys  52    55    48   155  114  1,359
-10.Independiente     51    61    42   154  114  1,350
-11.Colón SF          49    55    49   153  114  1,342
-12.Chacarita Jrs     --    45    56   101   76  1,328
-13.Unión SF          54    50    46   150  114  1,315
-14.Lanús             50    48    43   141  114  1,236
-15.Estudiantes LP    45    39    56   140  114  1,228
-16.Racing Club       55    45    40   140  114  1,228
------------------------------------------------------
-17.Argentinos Jrs    49    39    43   131  114  1,149  Third Relegation Playoff
-18.Belgrano Cba      44    39    37   120  114  1,052  Fourth Relegation Playoff
------------------------------------------------------
-19.Almagro           --    --    39    39   38  1,026  Relegated
-20.Los Andes         --    --    30    30   38  0,789  Relegated
+*Relegation Table (Apertura + Clausura) (Remaining 1 Round):
+*   Teams            98/99 99/00 00/01 Pts. MP. Average
+* 1.Boca Juniors      89    74    71   234  114  2,052
+* 2.River Plate       58    86    78   222  114  1,947
+* 3.San Lorenzo       61    69    81   211  114  1,850
+* 4.Gimnasia LP       62    49    55   166  114  1,456
+* 5.Huracán           --    --    55    55   38  1,447
+* 6.Rosario Central   57    66    41   164  114  1,438
+* 7.Talleres Cba      44    58    61   163  114  1,429
+* 8.Vélez Sarsfield   46    61    56   163  114  1,429
+* 9.Newell's O. Boys  52    55    48   155  114  1,359
+*10.Independiente     51    61    42   154  114  1,350
+*11.Colón SF          49    55    49   153  114  1,342
+*12.Chacarita Jrs     --    45    56   101   76  1,328
+*13.Unión SF          54    50    46   150  114  1,315
+*14.Lanús             50    48    43   141  114  1,236
+*15.Estudiantes LP    45    39    56   140  114  1,228
+*16.Racing Club       55    45    40   140  114  1,228
+*-----------------------------------------------------
+*17.Argentinos Jrs    49    39    43   131  114  1,149  Third Relegation Playoff
+*18.Belgrano Cba      44    39    37   120  114  1,052  Fourth Relegation Playoff
+*-----------------------------------------------------
+*19.Almagro           --    --    39    39   38  1,026  Relegated
+*20.Los Andes         --    --    30    30   38  0,789  Relegated
 
 (MP): Matches Played
  
@@ -1142,29 +1122,27 @@ No teams promoted or relegated
   
 
 
-General Table (Apertura and Clausura):
-
-
- 1.San Lorenzo             38 25  6  7 76-35 81 [1] [2]
- 2.River Plate             38 23  9  6 89-51 78 [1] [2]
- 3.Boca Juniors            38 20 11  7 64-45 71 [1] [2]
- 4.Talleres Cba            38 18  7 13 54-44 61 [1] [2]
- 5.Vélez Sarsfield         38 14 14 10 51-44 56 [1] [2]
- 6.Estudiantes LP          38 14 14 10 45-41 56
- 7.Chacarita Juniors       38 16  8 14 40-49 56
- 8.Huracán                 38 14 13 11 54-49 55
- 9.Gimnasia LP             38 15 10 13 58-57 55
-10.Colón SF                38 13 10 15 51-50 49
-11.Newell's Old Boys       38 12 12 14 45-50 48
-12.Unión SF                38 11 13 14 55-57 46
-13.Lanús                   38 11 10 17 53-56 43
-14.Argentinos Juniors      38 10 13 15 45-50 43
-15.Independiente           38 11  9 18 42-44 42 [1]
-16.Rosario Central         38 10 11 17 52-69 41
-17.Racing Club             38  8 16 14 33-50 40
-18.Almagro                 38  9 12 17 45-58 39
-19.Belgrano Cba            38  8 13 17 40-57 37
-20.Los Andes               38  8  9 21 45-78 30 [*]
+*General Table (Apertura and Clausura):
+* 1.San Lorenzo             38 25  6  7 76-35 81 [1] [2]
+* 2.River Plate             38 23  9  6 89-51 78 [1] [2]
+* 3.Boca Juniors            38 20 11  7 64-45 71 [1] [2]
+* 4.Talleres Cba            38 18  7 13 54-44 61 [1] [2]
+* 5.Vélez Sarsfield         38 14 14 10 51-44 56 [1] [2]
+* 6.Estudiantes LP          38 14 14 10 45-41 56
+* 7.Chacarita Juniors       38 16  8 14 40-49 56
+* 8.Huracán                 38 14 13 11 54-49 55
+* 9.Gimnasia LP             38 15 10 13 58-57 55
+*10.Colón SF                38 13 10 15 51-50 49
+*11.Newell's Old Boys       38 12 12 14 45-50 48
+*12.Unión SF                38 11 13 14 55-57 46
+*13.Lanús                   38 11 10 17 53-56 43
+*14.Argentinos Juniors      38 10 13 15 45-50 43
+*15.Independiente           38 11  9 18 42-44 42 [1]
+*16.Rosario Central         38 10 11 17 52-69 41
+*17.Racing Club             38  8 16 14 33-50 40
+*18.Almagro                 38  9 12 17 45-58 39
+*19.Belgrano Cba            38  8 13 17 40-57 37
+*20.Los Andes               38  8  9 21 45-78 30 [*]
 
 [*] 3 points deducted
 [1] Qualified to "Copa Mercosur 2000"
@@ -1172,59 +1150,10 @@ General Table (Apertura and Clausura):
 
 Boca Juniors qualified as holders.  
 
-  
-
-1999/00.
 
 
-2000/01 (club directory 1st level).
-
-
-2000/01 (2nd level).
-
-
-2000/01 (3rd level).
-
-
-2000/01 (3rd level interior).
-
-
-2000/01 (4th level).
-
-
-2000/01 (4th level interior).
-
-
-2000/01 (5th level).
-
-
-2001/02.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-all-time tables.
-
-
-list of 2nd level champions.
-
-
-divisional movements.
-
-
-topscorers.
-
-
-About this document
-
-Prepared and maintained by Javier Roimiser for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Javier Roimiser (jroimiser@yahoo.com) 
-Last updated: 30 Jul 2001
-
-(C) Copyright Javier Roimiser and RSSSF 2000/01
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Javier Roimiser for the Rec.Sport.Soccer Statistics Foundation
+*Author: Javier Roimiser (jroimiser@yahoo.com) 
+*Last updated: 30 Jul 2001
+*(C) Copyright Javier Roimiser and RSSSF 2000/01
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

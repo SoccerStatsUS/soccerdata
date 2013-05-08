@@ -1,4 +1,4 @@
-http://www.rsssf.com/tablesa/arg20.html
+BlockSource: http://www.rsssf.com/tablesa/arg20.html
 
 Argentina 1920
 
@@ -17,7 +17,7 @@ Asociación Amateur de Football
 Primera División 1920
 
 
-Round 1
+Round: Round 1
 [March 28, 1920]
 Atlanta                 0-0 San Lorenzo de Almagro
 Barracas Central        3-1 Tigre
@@ -32,7 +32,7 @@ Racing Club             1-0 Independiente (A)
 [September 12, 1920]
 San Isidro              1-0 Vélez Sarsfield
 
-Round 2
+Round: Round 2
 [April 01, 1920]
 Defensores de Belgrano  1-0 Barracas Central
 Ferro Carril Oeste      1-2 Racing Club
@@ -43,7 +43,7 @@ Sportivo Buenos Aires   0-9 Atlanta
 Tigre                   1-0 San Isidro
 Vélez Sarsfield         5-0 Estudiantes (C)
 
-Round 3
+Round: Round 3
 [April 04, 1920]
 Atlanta                 1-0 Defensores de Belgrano
 Estudiantes (C)        0-10 Independiente (A)
@@ -54,7 +54,7 @@ Racing Club             1-2 San Lorenzo de Almagro
 River Plate             4-1 Tigre
 San Isidro              2-2 Ferro Carril Oeste
 
-Round 4
+Round: Round 4
 [April 11, 1920]
 Defensores de Belgrano  1-3 Platense (VL)
 Ferro Carril Oeste      0-2 Atlanta
@@ -65,7 +65,7 @@ Sportivo Buenos Aires   0-1 Quilmes
 Tigre                   1-2 Estudiantil Porteño
 Vélez Sarsfield         1-2 Racing Club
 
-Round 5
+Round: Round 5
 [April 18, 1920]
 Atlanta                 1-1 Gimnasia y Esgrima LP
 Barracas Central        0-2 Vélez Sarsfield
@@ -76,7 +76,7 @@ Quilmes                 4-0 Tigre
 Racing Club             3-1 Defensores de Belgrano
 San Isidro              1-2 Sportivo Buenos Aires
 
-Round 6
+Round: Round 6
 [April 25, 1920]
 Defensores de Belgrano  1-1 San Isidro
 Ferro Carril Oeste      2-1 Quilmes
@@ -87,7 +87,7 @@ San Lorenzo de Almagro  1-2 Platense (VL)
 Tigre                   1-1 Estudiantes (C)
 Vélez Sarsfield         2-1 Atlanta
 
-Round 7
+Round: Round 7
 [May 02, 1920]
 Atlanta                 3-2 Tigre
 Barracas Central        1-3 Ferro Carril Oeste
@@ -98,7 +98,7 @@ Racing Club             3-0 Gimnasia y Esgrima LP
 River Plate             1-1 Vélez Sarsfield
 San Isidro              3-0 Independiente (A)
 
-Round 8
+Round: Round 8
 [May 09, 1920]
 Defensores de Belgrano  0-0 Estudiantil Porteño
 Ferro Carril Oeste      0-1 River Plate
@@ -109,7 +109,7 @@ Sportivo Buenos Aires   2-2 Barracas Central
 Tigre                   2-0 Racing Club
 Vélez Sarsfield         1-0 Quilmes
 
-Round 9
+Round: Round 9
 [May 13, 1920]
 Atlanta                 4-1 Quilmes
 Estudiantes (C)         0-1 Racing Club
@@ -120,7 +120,7 @@ River Plate             3-0 Barracas Central
 San Isidro              1-1 Estudiantil Porteño
 Tigre                   0-0 Platense (VL)
 
-Round 10
+Round: Round 10
 [May 16, 1920]
 Barracas Central        1-1 Estudiantil Porteño
 Defensores de Belgrano  2-0 Tigre
@@ -131,7 +131,7 @@ Platense (VL)           1-5 River Plate
 Quilmes                 1-6 Racing Club
 Sportivo Buenos Aires   1-1 San Lorenzo de Almagro
 
-Round 11
+Round: Round 11
 [June 03, 1920]
 Atlanta                 1-0 Platense (VL)
 Defensores de Belgrano  1-0 Ferro Carril Oeste
@@ -142,7 +142,7 @@ San Lorenzo de Almagro  0-0 Gimnasia y Esgrima LP
 Tigre                   4-2 Independiente (A)
 Vélez Sarsfield         1-0 Sportivo Buenos Aires
 
-Round 12
+Round: Round 12
 [May 30, 1920]
 Barracas Central        0-1 Racing Club
 Defensores de Belgrano  1-1 Independiente (A)
@@ -153,7 +153,7 @@ San Lorenzo de Almagro  1-0 Quilmes
 Sportivo Buenos Aires   3-1 Gimnasia y Esgrima LP
 Tigre                   1-3 Ferro Carril Oeste
 
-Round 13
+Round: Round 13
 [June 06, 1920]
 Atlanta                 0-1 Racing Club
 Estudiantes (C)         0-1 Estudiantil Porteño
@@ -164,7 +164,7 @@ Platense (VL)           2-0 Barracas Central
 River Plate             4-0 Quilmes
 San Lorenzo de Almagro  3-1 Defensores de Belgrano
 
-Round 14
+Round: Round 14
 [June 13, 1920]
 Barracas Central        0-1 Atlanta
 Defensores de Belgrano  0-1 River Plate
@@ -177,7 +177,7 @@ San Isidro              1-3 Racing Club
 Tigre                   0-6 Vélez Sarsfield
   [programmed for June 13, played friendly (result: 3-4) due to absence of the referee]
 
-Round 15
+Round: Round 15
 [June 20, 1920]
 Estudiantes (C)         2-3 Ferro Carril Oeste
 Estudiantil Porteño     2-0 Atlanta
@@ -188,7 +188,7 @@ San Lorenzo de Almagro  3-0 Tigre
 Sportivo Buenos Aires   1-0 Defensores de Belgrano
 Vélez Sarsfield         0-0 Independiente (A)
 
-Round 16
+Round: Round 16
 [June 27, 1920]
 Barracas Central        1-0 Estudiantes (C)
 Estudiantil Porteño     0-2 River Plate
@@ -199,7 +199,7 @@ Racing Club             1-0 Platense (VL)
 Sportivo Buenos Aires   5-0 Tigre
 Vélez Sarsfield         0-1 Defensores de Belgrano
 
-Round 17
+Round: Round 17
 [July 04, 1920]
 Atlanta                 1-0 San Isidro
 Barracas Central        0-1 Gimnasia y Esgrima LP
@@ -208,12 +208,12 @@ Platense (VL)           3-0 Estudiantes (C)
 Racing Club             4-0 Sportivo Buenos Aires
 Vélez Sarsfield         2-3 San Lorenzo de Almagro
 
-Round 18
+Round: Round 18
 [July 11, 1920]
 River Plate             1-0 Atlanta
 San Isidro              1-0 Estudiantes (C)
 
-Round 19
+Round: Round 19
 [July 18, 1920]
 Defensores de Belgrano  1-1 Quilmes
 Ferro Carril Oeste      1-3 Estudiantil Porteño
@@ -225,7 +225,7 @@ Vélez Sarsfield         3-2 San Isidro
 [October 17, 1920]
 Independiente (A)       2-1 Racing Club
 
-Round 20
+Round: Round 20
 [July 25, 1920]
 Atlanta                 3-0 Sportivo Buenos Aires
 Barracas Central        2-1 Defensores de Belgrano
@@ -237,7 +237,7 @@ River Plate             0-0 San Lorenzo de Almagro
 San Isidro              1-2 Tigre
 Sportivo Almagro        1-1 Independiente (A)
 
-Round 21
+Round: Round 21
 [August 1, 1920]
 Barracas Central        0-0 San Lorenzo de Almagro
 Defensores de Belgrano  3-0 Estudiantes (C)
@@ -248,7 +248,7 @@ Sportivo Buenos Aires   1-4 River Plate
 Tigre                   2-1 Quilmes
 Vélez Sarsfield         5-0 Ferro Carril Oeste
 
-Round 22 [Lanús joined the championship in this round]
+Round: Round 22 [Lanús joined the championship in this round]
 [August 8, 1920]
 Defensores de Belgrano  1-2 Atlanta
 Quilmes                 1-0 Independiente (A)
@@ -262,7 +262,7 @@ San Isidro              1-0 Gimnasia y Esgrima LP
 [December 5, 1920]
 River Plate             2-0 Platense (VL)
 
-Round 23
+Round: Round 23
 [August 15, 1920]
 Estudiantes (C)         3-5 Sportivo Almagro
 Ferro Carril Oeste      1-1 Barracas Central
@@ -458,35 +458,33 @@ Sportivo Almagro      wp-lp Platense (VL)
 Sportivo Almagro      wp-lp Sportivo Buenos Aires
 
 
-No. Team                      G   W   D   L  Gf  Ga   P
--------------------------------------------------------------------
- 1  River Plate              34  25   6   3  70  22  56  [Champion]  
--------------------------------------------------------------------
- 2  Racing Club              34  25   4   5  77  23  54
- 3  San Lorenzo de Almagro   34  17  12   5  58  30  46
- 4  Atlanta                  34  17   7  10  49  29  41
- 4  Gimnasia y Esgrima LP    34  17   7  10  46  32  41
- 6  Vélez Sarsfield          34  17   5  12  60  32  39
- 7  Platense (VL)            34  16   5  13  51  39  37
- 8  Independiente (A)        34  12  11  11  58  47  35
- 9  San Isidro               34  12   9  13  52  53  33
-10  Quilmes                  34  13   6  15  35  48  32
-11  Estudiantil Porteño      34   9  12  13  38  42  30
-11  Ferro Carril Oeste (BA)  34  12   6  16  34  61  30
-13  Defensores de Belgrano   34   9   9  16  28  40  27
-14  Barracas Central         34   9   8  17  28  49  26
-15  Tigre                    34   9   4  21  38  77  22
-16  Sportivo Buenos Aires    34   6   6  22  33  64  18
-17  Sportivo Almagro         17   6   5   6  22  21  17
-18  Lanús                    17   6   3   8  14  23  15
-19  Estudiantes (C)          34   4   5  25  31  90  13
+* 1  River Plate              34  25   6   3  70  22  56  [Champion]  
+*-------------------------------------------------------------------
+* 2  Racing Club              34  25   4   5  77  23  54
+* 3  San Lorenzo de Almagro   34  17  12   5  58  30  46
+* 4  Atlanta                  34  17   7  10  49  29  41
+* 4  Gimnasia y Esgrima LP    34  17   7  10  46  32  41
+* 6  Vélez Sarsfield          34  17   5  12  60  32  39
+* 7  Platense (VL)            34  16   5  13  51  39  37
+* 8  Independiente (A)        34  12  11  11  58  47  35
+* 9  San Isidro               34  12   9  13  52  53  33
+*10  Quilmes                  34  13   6  15  35  48  32
+*11  Estudiantil Porteño      34   9  12  13  38  42  30
+*11  Ferro Carril Oeste (BA)  34  12   6  16  34  61  30
+*13  Defensores de Belgrano   34   9   9  16  28  40  27
+*14  Barracas Central         34   9   8  17  28  49  26
+*15  Tigre                    34   9   4  21  38  77  22
+*16  Sportivo Buenos Aires    34   6   6  22  33  64  18
+*17  Sportivo Almagro         17   6   5   6  22  21  17
+*18  Lanús                    17   6   3   8  14  23  15
+*19  Estudiantes (C)          34   4   5  25  31  90  13
 
 
 Asociación Argentina de Football
 Copa Campeonato 1920
 
 
-Round 1
+Round: Round 1
 [March 21, 1920]
 Banfield                3-0 Nueva Chicago
 Boca Juniors            3-1 Porteño
@@ -495,7 +493,7 @@ Huracán (BA)            3-1 Estudiantes LP
 Sportivo Almagro        3-0 Palermo
 Sportivo Palermo        2-6 Lanús
 
-Round 2
+Round: Round 2
 [March 28, 1920]
 Nueva Chicago           0-4 Lanús
 Palermo                 0-2 Boca Juniors
@@ -505,7 +503,7 @@ Sportivo del Norte      1-5 Del Plata
 Banfield                6-1 Sportivo Palermo
 Estudiantes LP          2-1 Sportivo Almagro
 
-Round 3
+Round: Round 3
 [April 01, 1920]
 Boca Juniors            6-0 Sportivo del Norte
 Del Plata               0-0 Banfield
@@ -515,7 +513,7 @@ Nueva Chicago         lp-wp Porteño
   [Nueva Chicago forfeited]
 Sportivo Palermo        4-2 Huracán (BA)
 
-Round 4
+Round: Round 4
 [April 04, 1920]
 Banfield                1-1 Huracán (BA)
 Del Plata               1-2 Nueva Chicago
@@ -524,7 +522,7 @@ Sportivo Almagro        2-2 Boca Juniors
 Sportivo Barracas       0-2 Palermo
 Sportivo del Norte      2-2 Sportivo Palermo
 
-Round 5
+Round: Round 5
 [April 11, 1920]
 Banfield                3-1 Porteño
 Boca Juniors            2-0 Sportivo Palermo
@@ -533,7 +531,7 @@ Estudiantes LP          1-2 Sportivo Barracas
 Huracán (BA)            4-0 Nueva Chicago
 Lanús                   5-2 Sportivo del Norte
 
-Round 6
+Round: Round 6
 [April 25, 1920]
 Estudiantes LP          6-3 Del Plata
 Nueva Chicago           0-2 Boca Juniors
@@ -543,7 +541,7 @@ Sportivo del Norte      1-0 Palermo
 [Unknown date]
 Lanús                   1-0 Sportivo Barracas
 
-Round 7
+Round: Round 7
 [May 02, 1920]
 Banfield                1-1 Lanús
 Estudiantes LP          1-2 Sportivo del Norte
@@ -552,7 +550,7 @@ Nueva Chicago           3-3 Sportivo Barracas
 Sportivo Almagro        0-2 Porteño
 Sportivo Palermo        0-2 Del Plata
 
-Round 8
+Round: Round 8
 [May 16, 1920]
 Lanús                   0-0 Del Plata
 Nueva Chicago           1-0 Estudiantes LP
@@ -562,7 +560,7 @@ Sportivo Barracas       1-2 Sportivo Palermo
 [July 04, 1920]
 Boca Juniors            2-0 Banfield
 
-Round 9
+Round: Round 9
 [May 23, 1920]
 Del Plata               0-3 Porteño
 Estudiantes LP          1-2 Sportivo Palermo
@@ -572,7 +570,7 @@ Sportivo del Norte      1-1 Huracán (BA)
   [Reprogrammed, never played due to disaffiliation of Lanús]
 Lanús lp-wp Boca Juniors      
 
-Round 10
+Round: Round 10
 [May 30, 1920]
 Banfield                2-1 Sportivo del Norte
 Boca Juniors            0-1 Del Plata
@@ -581,7 +579,7 @@ Palermo                 2-1 Sportivo Palermo
 Porteño                 3-2 Estudiantes LP
 Sportivo Almagro        0-0 Sportivo Barracas
 
-Round 11
+Round: Round 11
 [June 06, 1920]
 Nueva Chicago           0-0 Sportivo del Norte
 Sportivo Barracas       0-0 Boca Juniors
@@ -594,7 +592,7 @@ Lanús                   5-1 Palermo
 Sportivo Almagro      lp-wp Huracán (BA)
 
 
-Round 12
+Round: Round 12
 [June 13, 1920]
 Banfield                2-0 Sportivo Barracas
 Boca Juniors            3-0 Estudiantes LP
@@ -603,7 +601,7 @@ Nueva Chicago           2-1 Palermo
 Porteño                 1-0 Sportivo del Norte
 Sportivo Palermo        0-6 Sportivo Almagro
 
-Round 13
+Round: Round 13
 [June 20, 1920]
 Sportivo Barracas       1-1 Porteño
 [June 27, 1920]
@@ -755,60 +753,25 @@ Sportivo del Norte    wp-lp Sportivo Almagro
 Sportivo Palermo      wp-lp Palermo
 
 
-No. Team                      G   W   D   L  Gf  Ga   P
--------------------------------------------------------------------
- 1  Boca Juniors             24  20   3   1  52   7  43  [Champion]
--------------------------------------------------------------------
- 2  Banfield                 24  13   5   6  35  21  31
- 2  Huracán (BA)             24  13   5   6  38  26  31
- 4  Porteño                  24  13   4   7  31  26  30
- 5  Del Plata                24  10   6   8  22  27  26
- 6  Sportivo Barracas        24  10   5   9  26  28  25
- 7  Nueva Chicago            24  10   3  11  17  36  23
- 8  Sportivo del Norte       24   9   4  11  19  47  22
- 9  Estudiantes LP           24  10   1  13  34  37  21
-10  Sportivo Palermo         24   8   3  13  26  52  19
-11  Lanús                    24   5   5  14  26  12  15
-12  Sportivo Almagro         24   4   3  17  16   9  11
-13  Palermo                  24   4   1  19  14  28   9 
-
- 
+* 1  Boca Juniors             24  20   3   1  52   7  43  [Champion]
+*-------------------------------------------------------------------
+* 2  Banfield                 24  13   5   6  35  21  31
+* 2  Huracán (BA)             24  13   5   6  38  26  31
+* 4  Porteño                  24  13   4   7  31  26  30
+* 5  Del Plata                24  10   6   8  22  27  26
+* 6  Sportivo Barracas        24  10   5   9  26  28  25
+* 7  Nueva Chicago            24  10   3  11  17  36  23
+* 8  Sportivo del Norte       24   9   4  11  19  47  22
+* 9  Estudiantes LP           24  10   1  13  34  37  21
+*10  Sportivo Palermo         24   8   3  13  26  52  19
+*11  Lanús                    24   5   5  14  26  12  15
+*12  Sportivo Almagro         24   4   3  17  16   9  11
+*13  Palermo                  24   4   1  19  14  28   9 
 
 
-1919.
-
-
-1921.
-
-
-list of champions.
-
-
-list of cup tournaments.
-
-
-list of final tables.
-
-
-all-time tables.
-
-
-list of 2nd level champions.
-
-
-divisional movements.
-
-
-topscorers.
-
-About this document
-
-Sources: [CIHF-], [Iwa-], newspapers: La Prensa, La Vanguardia, La Nación.
-
-Prepared and maintained by Pablo Wally for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Pablo Wally (pwally@tmtv.ne.jp) 
-Last updated: 17 Nov 2005
-
-(C) Copyright Pablo Wally and RSSSF 2004/05
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Sources: [CIHF-], [Iwa-], newspapers: La Prensa, La Vanguardia, La Nación.
+*Prepared and maintained by Pablo Wally for the Rec.Sport.Soccer Statistics Foundation
+*Author: Pablo Wally (pwally@tmtv.ne.jp) 
+*Last updated: 17 Nov 2005
+*(C) Copyright Pablo Wally and RSSSF 2004/05
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

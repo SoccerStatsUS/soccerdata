@@ -63,7 +63,35 @@ slugs = {
 
 
 world = {
+    'SC Corinthians': 'Corinthians',
+    'Sport Club Internacional': 'Internacional',
+    'Deportivo la Coruna': 'Deportivo La Coruña',
+    'SS Lazio': 'Lazio',
+    'AC Sparta Prague': 'Sparta Prague',
+    'Sparta Praha': 'Sparta Prague',
+    'Belgrano Athletic': 'Belgrano',
+    'Waypoyset FC (RI)': 'Waypoyset FC',
+    'Raftery Painters': 'St. Louis Raftery Painters',
+    'Squantum': 'Squantum FC',
+    'Schenectady FC': 'Schenectady SC',
+    'Saylesville': 'Saylesville FC',
+    'Rochester City': 'Rochester City AFC',
+    'Richard Rich Tigers (Milwaukee)': 'Milwaukee Richard Rich Tigers',
+    'Richard Rich Tigers': 'Milwaukee Richard Rich Tigers',
+    'Prospect Unity': 'Prospect Unity FC',
+    'Pontiac City': 'Pontiac City FC',
+    'Philadelphia German American SC': 'Philadelphia German Americans',
+    'Ottawa Pioneers': 'Ottawa Intrepid',
+    'Oneida Community': 'Oneida Community FC',
+    'Necaxa (Chicago)': 'Chicago Necaxa',
+    'Harmarville FC (Pittsburgh)': 'Harmarville FC',
+    'Harmarville SC': 'Harmarville FC', # Hurricanes?
+    'Hibernian FC': 'Hibernians FC',
+    'Hummer Sports Cafe (MD)': 'Hummers Sports Cafe (MD)',
+    'Lincoln Park': 'Lincoln Park FC',
 
+    'Arabe Marte': 'C.D. Atlético Marte', # add alias?
+    'Pinar del Rio': 'Pinar del Río',
     'Municipal Limeno': 'CD Municipal Limeño',
     'Municipal Limeño': 'CD Municipal Limeño',
     'CD Municipal Limeno': 'CD Municipal Limeño',
@@ -1473,8 +1501,7 @@ world = {
 
     # Guadeloupe
     #Red Star (Pointe-a-Pitre)
-    #Arsenal (Petit-Bourg)
-    #Gauloise (Basse-Terre)
+    'Gauloise (Basse-Terre)': 'La Gauloise de Basse-Terre',
     'Morne a l\'Eau': 'Etoile de Morne-à-l\'Eau',
     'L\'Etoile de Morne-a-l\'Eau': 'Etoile de Morne-à-l\'Eau',
     'Etoile de Monre-a-l\'Eau': 'Etoile de Morne-à-l\'Eau',

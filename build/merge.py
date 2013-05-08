@@ -312,8 +312,8 @@ def merge_games(games_lists):
                     assert t1r == orig['team1_result']
                 except:
                     print "Game information mismatch."
-                    print orig
-                    print d
+                    #print orig
+                    #print d
 
                     #import pdb; pdb.set_trace()
             else:

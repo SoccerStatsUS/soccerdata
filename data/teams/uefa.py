@@ -566,6 +566,12 @@ l = [
         },
 
     {
+        'name': 'Deportivo La Coruña',
+        'founded': 1906,
+        'city': 'A Coruña, Spain',
+        },
+
+    {
         'name': 'Sporting Lisbon',
         'founded': datetime.datetime(1906, 7, 1),
         'city': 'Lisbon, Portugal',

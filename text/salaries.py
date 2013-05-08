@@ -1,16 +1,15 @@
 
 SALARIES_PATH = "/home/chris/www/soccerdata/data/money/salaries/mls.csv"
-MLS_2011_SALARIES_PATH = "/home/chris/www/soccerdata/data/money/salaries/2011"
-MLS_2012_SALARIES_PATH = "/home/chris/www/soccerdata/data/money/salaries/2012"
+MLS_SALARIES_PATH = "/home/chris/www/soccerdata/data/money/salaries/%s"
 
 
 
 def load_salaries():
     s1 = load_old_salaries()
-    s2 = load_2011_salaries()
-    s3 = load_2012_salaries()
-    l = s1 + s2 + s3
-    return [e for e in l if e]
+    for e in range(2011, 2014):
+        s1 += load_new_salaries(MLS_SALARIES_PATH % e, e)
+    return [e for e in s1 if e]
+
 
 def load_old_salaries():
     """
@@ -43,13 +42,6 @@ def load_old_salaries():
 
     f = open(SALARIES_PATH)
     return [process_line(line) for line in f]
-
-
-def load_2012_salaries():
-    return load_new_salaries(MLS_2012_SALARIES_PATH, '2012')
-
-def load_2011_salaries():
-    return load_new_salaries(MLS_2011_SALARIES_PATH, '2011')
 
 
 def load_new_salaries(fn, year):

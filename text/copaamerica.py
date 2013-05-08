@@ -314,7 +314,7 @@ class GeneralProcessor(object):
                         minute = int(minute)
                         sub = process_name(sub)
                     else:
-                        print "No minute for sub %s" % s
+                        #print "No minute for sub %s" % s
                         minute = None
                         sub = process_name(sub_items[0])
 

@@ -179,6 +179,11 @@ last_name = {
 
 
 basic = {
+    'Edison Perez': 'Edison Pérez',
+    'André Luis': 'André Luís',
+    'Andre Luis': 'André Luís',
+    'Johnny Garcia': 'Johnny García',
+    'Omar Briseno': 'Omar Briseño',
     'Mike Donovan': 'Michael Donovan',
     'Jorge Almiron': 'Jorge Almirón',
     'Ernest Major': 'Ernst Major',
@@ -1000,7 +1005,6 @@ basic = {
     'Alejandro Frias': 'Alejandro Frías',
     
     'Edison Gonzalez': 'Edison González', 
-    #Whayne WIlson, Whayne Wilson
     #Le, Lê
     'Sim Jae Won': 'Sim Jae-Won', 
     'Sim Jae-won': 'Sim Jae-Won', 

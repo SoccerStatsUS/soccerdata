@@ -1,8 +1,36 @@
-* Domestic league
+* Domestic
 
-Intercontinental Cup; IC; soccer; domestic; League; 1; World; Earth
-Interamerican Cup; IC; soccer; domestic; League; 1; World; Earth
+** world
 
+Club Rio de Janeiro; CRJ; soccer; domestic; Cup; 1; World; Earth
+FIFA Club World Cup; CWC; soccer; domestic; Cup; 1; World; Earth
+Parmalat Cup; PC; soccer; domestic; Cup; 2; World; Earth
+
+La Copita del Mundo; CdM; soccer; domestic; Cup; 2; World; Earth
+International Soccer League; ISL; soccer; domestic; League; 2; World; Earth
+Mexico City International Tournaments; ISL; soccer; domestic; League; 2; World; Earth
+
+* two-team competitions
+Intercontinental Cup; IC; soccer; domestic; Cup; 2; World; Earth
+Interamerican Cup; IC; soccer; domestic; Cup; 2; World; Earth
+Recopa Sudamericana; RS; soccer; domestic; Cup; 2; World; Earth
+SURUGA Bank Championship; SBC; soccer; domestic; League; 2; World; Earth
+Pan-Pacific Championship; PPC; soccer; domestic; League; 2; World; Earth
+
+** confederation
+
+Copa Aldao; CA; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Tie; CA; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+
+Copa Libertadores; CL; soccer; domestic; Cup; 1; Confederation; CONMEBOL
+
+Copa Sudamericana; CS; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Merconorte; CMn; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Mercosur; CMs; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+
+Torneio Mercosul; TMs; soccer; domestic; Cup; 3; Confederation; CONMEBOL
+Copa CONMEBOL; CC; soccer; domestic; Cup; 3; Confederation; CONMEBOL
+Copa Masters CONMEBOL; CMC; soccer; domestic; Cup; 3; Confederation; CONMEBOL
 
 CONCACAF Champions League; CCL; soccer; domestic; League; 1; Confederation; CONCACAF
 CONCACAF Champions' Cup; CCC; soccer; domestic; Cup; 1; Confederation; CONCACAF
@@ -13,6 +41,8 @@ CONCACAF Giants Cup; CGC; soccer; domestic; Cup; 2; Confederation; CONCACAF
 
 Copa Interclubes UNCAF; UNCAF; soccer; domestic; Cup; 2; Confederation; CONCACAF
 CFU Club Championship; CFU; soccer; domestic; Cup; 2; Confederation; CONCACAF
+
+** country
 
 American League of Professional Football; ALPF; soccer; domestic; League; 1; Country; United States
 American Soccer League (1921-1933); ASL1; soccer; domestic; League; 1; Country; United States
@@ -51,7 +81,7 @@ Argentine Primera División; ARG1; soccer; domestic; League; 1; Country; Argenti
 
 Campeonato Paulista; CP; soccer; domestic; League; 2; State; Sao Paulo
 
-International Soccer League; ISL; soccer; domestic; League; 2; Country; United States
+
 National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
 Southern New England Soccer League; SNESL; soccer; domestic; League; 2; Country; United States
 
@@ -101,8 +131,6 @@ MLS Cup Playoffs; MLSp; soccer; domestic; Cup; 1; Country; United States
 Lewis Cup; LC; soccer; domestic; Cup; 1; Country; United States
 US Professional Cup; USPC; soccer; domestic; Cup; 1; Country; United States
 
-
-
 USSF Division 2 Professional League Playoffs; USSFD2p; soccer; domestic; Cup; 2; League; USSF Division 2 Professional League
 North American Soccer League (2011-) Playoffs; USSFD2p; soccer; domestic; Cup; 2; League; North American Soccer League (2011-)
 
@@ -136,13 +164,13 @@ FIFA World Cup; WC; soccer; international; Cup; 1; World; Earth
 FIFA World Cup Qualification; WCq; soccer; international; Cup; 1; World; Earth
 FIFA U-20 World Cup; U20WC; soccer; international; Cup; 1; World; Earth
 FIFA U-17 World Cup; U17WC; soccer; international; Cup; 1; World; Earth
-FIFA Club World Cup; CWC; soccer; international; Cup; 1; World; Earth
+
 
 FIFA World Cup qualification (CONCACAF); WCq; soccer; international; Cup; 1; Confederation; CONCACAF
 FIFA World Cup qualification (CONMEBOL); WCq; soccer; international; Cup; 1; Confederation; CONMEBOL
 
 
-* CONCACAF
+* confederation
 
 Pan American Games; PAG; soccer; international; Cup; 1; Confederation; Americas
 North American Championship; NAC; soccer; international; Cup; 1; Confederation; CONCACAF
@@ -156,16 +184,10 @@ Central American and Caribbean Games; CACG; soccer; international; Cup; 2; Confe
 
 Copa America; CA; soccer; international; Cup; 1; Confederation; CONMEBOL
 
-Copa Libertadores; CL; soccer; domestic; Cup; 1; Confederation; CONMEBOL
-Copa Sudamericana; CS; soccer; domestic; Cup; 2; Confederation; CONMEBOL
-Copa Merconorte; CMn; soccer; domestic; Cup; 2; Confederation; CONMEBOL
-Copa Mercosur; CMs; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 
-
-
-
-
+* Friendlies
 
 U.S. Cup; USC; soccer; international; Cup; ; World; Earth
+
 
 Friendly International; FI; soccer; international; ; ; World; Earth

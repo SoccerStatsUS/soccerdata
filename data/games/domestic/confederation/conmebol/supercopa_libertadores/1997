@@ -1,6 +1,7 @@
 Competition: Supercopa Libertadores 
 Season: 1997
 * http://pt.wikipedia.org/wiki/Supercopa_Libertadores_1997
+BlockSource: http://www.rsssf.com/sacups/supcopa97.html
 
 * Note: the worst three clubs in the first stage will not be admitted to the Supercopa 1998.  Vasco da Gama are admitted for the first time in recognition of their winning a South American Club Championship in Santiago in 1948. Argentinos Juniors were not admitted to this year's edition, presumably due to finishing last in the three-team first round group in the 1996 Supercopa.
 
@@ -19,9 +20,9 @@ Round: Preliminary Round
 * 3.Nacional           4  1  1  2  5- 5  4
 
 Round: First Stage 
-* (Aug 26-Oct 29)
 
-*Group 1
+Group: Group 1
+
 * 1.Colo Colo          6  3  2  1 12- 9 11
 *-----------------------------------------
 * 2.Cruzeiro           6  3  0  3  9-10  9
@@ -41,7 +42,8 @@ Round: First Stage
 10/29/1997; Boca Juniors      ; 2-2; Colo Colo       ; La Bombonera; Jose Luis da Rosa
 10/29/1997; Independiente     ; 3-1; Cruzeiro        ; La Dobla Visera; Rene Ortube; 500
 
-*Group 2
+Group: Group 2
+
 * 1.São Paulo          6  3  2  1 15- 8 11
 *-----------------------------------------
 * 2.Flamengo           6  3  1  2 10- 7 10
@@ -61,7 +63,8 @@ Round: First Stage
 10/28/1997;Vélez Sarsfield   ; 0-3; Flamengo
 10/29/1997;São Paulo         ; 4-1; Olimpia 
 
-*Group 3
+Group: Group 3
+
 * 1.River Plate        6  5  0  1 17- 9 15
 *-----------------------------------------
 * 2.Vasco da Gama      6  3  1  2  9-12 10
@@ -83,7 +86,8 @@ Round: First Stage
 Minutes: 70
 Notes: abandoned at 0-2 in 70' after a linesman was hit by a stone thrown by Vasco hooligans
 
-*Group 4
+Group: Group 4
+
 * 1.Atl. Nacional      6  3  1  2  9- 7 10
 *-----------------------------------------
 * 2.Peñarol            6  2  2  2 10-10  8
@@ -105,19 +109,19 @@ Notes: abandoned at 0-2 in 70' after a linesman was hit by a stone thrown by Vas
 
 Round: Semifinals 
 
-11/6/1997; São Paulo         ; 3-1; Colo Colo; Estadio do Morumbi; Jorge Nieves
-11/27/1997; Colo Colo         ; 0-1; São Paulo       ; Estadio David Arellano; Byron Moreno
+11/6/1997; São Paulo; 3-1; Colo Colo; Estadio do Morumbi; Jorge Nieves
 
-11/5/1997; River Plate       ; 2-0; Atlético Nacional ; Estadio Monumental de Nunez; Ubaldo Aquino
-11/26/1997; Atlético Nacional ; 2-1; River Plate      ; Estadio Atanasio Girardot; Jose Arana; 52152
+11/27/1997; Colo Colo; 0-1; São Paulo; Estadio David Arellano; Byron Moreno
 
+11/5/1997; River Plate; 2-0; Atlético Nacional ; Estadio Monumental de Nunez; Ubaldo Aquino
+
+11/26/1997; Atlético Nacional ; 2-1; River Plate; Estadio Atanasio Girardot; Jose Arana; 52152
 
 Round: Final 
 
-12/4/1997; São Paulo         ; 0-0; River Plate
-12/17/1997; River Plate       ; 2-1; São Paulo
+12/4/1997; São Paulo; 0-0; River Plate
 
-
+12/17/1997; River Plate; 2-1; São Paulo
             
 * Prepared and maintained by Juan Pablo Andrés and Miguel Alvim Gonzalez for the Rec.Sport.Soccer Statistics Foundation
 * Authors: Juan Pablo Andrés (jpablo@tande.com) and Miguel Alvim Gonzalez (miguelgonzalez@openlink.com.br) 

@@ -1,33 +1,29 @@
-http://www.rsssf.com/tablesa/arg66.html
+BlockSource: http://www.rsssf.com/tablesa/arg66.html
 
 Argentina - First Division A 1966
 
-Table:
-
-No. Team                     G    W    D    L    Gf    Ga    P
----------------------------------------------------------------
- 1. Racing Club              38   24   13    1    70    24   61 Champion
- 2. River Plate              38   22   12    4    66    26   56
- 3. Boca Juniors             38   17   14    7    51    32   48
- 4. San Lorenzo de Almagro   38   17   12    9    48    34   46
- 5. Vélez Sarsfield          38   15   16    7    49    38   46
- 6. Independiente (Ave)      38   14   16    8    54    34   44
- 7. Estudiantes LPG          38   12   17    9    44    37   41
- 8. Gimnasia y Esgrima LPG   38   13   13   12    49    41   39
- 9. Argentinos Juniors       38   14   11   13    40    44   39
-10. Atlanta                  38   10   18   10    45    39   38
-11. Newell's Old Boys        38   14   10   14    45    51   38
-12. Rosario Central          38   10   17   11    31    30   37
-13. Banfield                 38   13   11   14    45    48   37
-14. Lanús                    38    9   13   16    43    55   31
-15. Huracán (BUE)            38   10    9   19    41    62   29
-16. Colón                    38    8   11   19    30    53   27
-17. Platense                 38    6   15   17    25    51   27
-18. Ferro Carril Oeste (BUE) 38    9    9   20    37    64   27
-19. Quilmes                  38    8   10   20    39    59   26
-20. Chacarita Juniors        38    5   13   20    36    66   23
+* 1. Racing Club              38   24   13    1    70    24   61 Champion
+* 2. River Plate              38   22   12    4    66    26   56
+* 3. Boca Juniors             38   17   14    7    51    32   48
+* 4. San Lorenzo de Almagro   38   17   12    9    48    34   46
+* 5. Vélez Sarsfield          38   15   16    7    49    38   46
+* 6. Independiente (Ave)      38   14   16    8    54    34   44
+* 7. Estudiantes LPG          38   12   17    9    44    37   41
+* 8. Gimnasia y Esgrima LPG   38   13   13   12    49    41   39
+* 9. Argentinos Juniors       38   14   11   13    40    44   39
+*10. Atlanta                  38   10   18   10    45    39   38
+*11. Newell's Old Boys        38   14   10   14    45    51   38
+*12. Rosario Central          38   10   17   11    31    30   37
+*13. Banfield                 38   13   11   14    45    48   37
+*14. Lanús                    38    9   13   16    43    55   31
+*15. Huracán (BUE)            38   10    9   19    41    62   29
+*16. Colón                    38    8   11   19    30    53   27
+*17. Platense                 38    6   15   17    25    51   27
+*18. Ferro Carril Oeste (BUE) 38    9    9   20    37    64   27
+*19. Quilmes                  38    8   10   20    39    59   26
+*20. Chacarita Juniors        38    5   13   20    36    66   23
   
-Round 1 [Mar 6]:
+Round: Round 1 [Mar 6]:
 Argentinos Juniors       3:4 Huracán (BUE)
 Boca Juniors             2:1 Newell's Old Boys
 Colón                    1:2 Chacarita Juniors
@@ -39,7 +35,7 @@ Racing Club              2:0 Atlanta
 Rosario Central          1:0 River Plate
 San Lorenzo de Almagro   0:1 Independiente (Ave)
 
-Round 2 [Mar 13]:
+Round: Round 2 [Mar 13]:
 Atlanta                  0:0 San Lorenzo de Almagro
 Banfield                 0:0 Platense     
 Chacarita Juniors        1:3 Lanús
@@ -51,7 +47,7 @@ Quilmes                  0:3 Boca Juniors
 River Plate              4:2 Colón
 Vélez Sarsfield          0:0 Racing Club
 
-Round 3 [Mar 20]:
+Round: Round 3 [Mar 20]:
 Atlanta                  1:1 Independiente (Ave)
 Boca Juniors             4:0 Banfield
 Colón                    1:1 Estudiantes LPG
@@ -63,7 +59,7 @@ Racing Club              2:0 Newell's Old Boys
 Rosario Central          0:0 Huracán (BUE)
 San Lorenzo de Almagro   2:0 Vélez Sarsfield
 
-Round 4 [Mar 27]:
+Round: Round 4 [Mar 27]:
 Argentinos Juniors       2:0 Rosario Central
 Banfield                 0:0 Gimnasia y Esgrima LPG
 Chacarita Juniors        0:0 Boca Juniors
@@ -75,7 +71,7 @@ Quilmes                  0:5 Racing Club
 River Plate              1:1 Platense     
 Vélez Sarsfield          4:2 Atlanta
 
-Round 5 [Apr 3]:
+Round: Round 5 [Apr 3]:
 Atlanta                  1:1 Newell's Old Boys
 Boca Juniors             1:3 River Plate
 Colón                    1:1 Argentinos Juniors
@@ -87,7 +83,7 @@ Rosario Central          3:1 Ferro Carril Oeste (BUE)
 San Lorenzo de Almagro   1:3 Quilmes
 Vélez Sarsfield          1:1 Independiente (Ave)
 
-Round 6 [Apr 10]:
+Round: Round 6 [Apr 10]:
 Argentinos Juniors       0:1 Lanús
 Banfield                 3:1 San Lorenzo de Almagro
 Chacarita Juniors        0:1 Racing Club
@@ -99,7 +95,7 @@ Newell's Old Boys        1:0 Vélez Sarsfield
 Quilmes                  1:1 Atlanta
 River Plate              2:0 Gimnasia y Esgrima LPG
 
-Round 7:
+Round: Round 7:
 [Apr 17]
 Atlanta                  1:1 Banfield
 Boca Juniors             2:1 Huracán (BUE)
@@ -113,7 +109,7 @@ Vélez Sarsfield          2:1 Quilmes
 [Apr 19]
 Colón                    2:2 Rosario Central
 
-Round 8 [Apr 24]: 
+Round: Round 8 [Apr 24]: 
 Argentinos Juniors       0:2 Boca Juniors             [at Atlanta]
 Banfield                 2:0 Vélez Sarsfield
 Chacarita Juniors        1:0 Atlanta
@@ -125,7 +121,7 @@ Quilmes                  4:0 Newell's Old Boys
 River Plate              1:0 San Lorenzo de Almagro
 Rosario Central          4:1 Lanús
 
-Round 9 [May 1]:
+Round: Round 9 [May 1]:
 Atlanta                  0:3 River Plate
 Boca Juniors             1:1 Ferro Carril Oeste (BUE)
 Gimnasia y Esgrima LPG   4:1 Argentinos Juniors
@@ -137,7 +133,7 @@ Racing Club              2:0 Huracán (BUE)
 San Lorenzo de Almagro   0:0 Estudiantes LPG
 Vélez Sarsfield          1:1 Chacarita Juniors
 
-Round 10 [May 8]:
+Round: Round 10 [May 8]:
 Argentinos Juniors       0:0 Racing Club              [at Atlanta]
 Banfield                 2:1 Quilmes
 Chacarita Juniors        1:2 Newell's Old Boys
@@ -149,7 +145,7 @@ Independiente (Ave)      3:0 Lanús
 River Plate              1:0 Vélez Sarsfield
 Rosario Central          0:0 Boca Juniors
 
-Round 11 [May 15]:
+Round: Round 11 [May 15]:
 Atlanta                  7:0 Huracán (BUE)
 Banfield                 0:0 Independiente (Ave)
 Boca Juniors             0:0 Colón
@@ -161,7 +157,7 @@ Racing Club              4:1 Ferro Carril Oeste (BUE)
 San Lorenzo de Almagro   0:2 Argentinos Juniors
 Vélez Sarsfield          2:2 Estudiantes LPG
 
-Round 12:
+Round: Round 12:
 [May 22]
 Argentinos Juniors       1:1 Atlanta
 Chacarita Juniors        1:1 Banfield
@@ -175,7 +171,7 @@ Rosario Central          0:1 Racing Club
 [Aug 17]
 River Plate              5:3 Quilmes
 
-Round 13 [May 29]:
+Round: Round 13 [May 29]:
 Atlanta                  2:1 Ferro Carril Oeste (BUE)
 Banfield                 1:1 River Plate
 Boca Juniors             3:0 Platense     
@@ -187,7 +183,7 @@ Racing Club              1:0 Colón
 San Lorenzo de Almagro   1:1 Rosario Central
 Vélez Sarsfield          0:1 Argentinos Juniors
 
-Round 14 [Jun 5]:
+Round: Round 14 [Jun 5]:
 Argentinos Juniors       1:1 Newell's Old Boys
 Colón                    0:0 San Lorenzo de Almagro
 Estudiantes LPG          2:0 Banfield
@@ -199,7 +195,7 @@ Platense                 1:1 Gimnasia y Esgrima LPG
 River Plate              4:0 Chacarita Juniors
 Rosario Central          1:1 Atlanta
 
-Round 15 [Jun 12]:
+Round: Round 15 [Jun 12]:
 Atlanta                  5:0 Colón
 Banfield                 4:1 Huracán (BUE)
 Chacarita Juniors        2:2 Estudiantes LPG
@@ -211,7 +207,7 @@ River Plate              1:0 Independiente (Ave)
 San Lorenzo de Almagro   1:0 Lanús
 Vélez Sarsfield          2:1 Rosario Central
 
-Round 16 [Jun 19]:
+Round: Round 16 [Jun 19]:
 Argentinos Juniors       2:1 Banfield
 Boca Juniors             0:0 Racing Club
 Colón                    0:1 Vélez Sarsfield
@@ -223,7 +219,7 @@ Lanús                    2:2 Atlanta
 Platense                 0:3 San Lorenzo de Almagro
 Rosario Central          0:0 Newell's Old Boys
 
-Round 17 [Jun 26]:
+Round: Round 17 [Jun 26]:
 Atlanta                  1:0 Platense     
 Banfield                 3:0 Ferro Carril Oeste (BUE)
 Chacarita Juniors        1:1 Argentinos Juniors
@@ -235,7 +231,7 @@ River Plate              3:0 Huracán (BUE)
 San Lorenzo de Almagro   0:0 Boca Juniors
 Vélez Sarsfield          0:0 Lanús
 
-Round 18 [Jul 3]:
+Round: Round 18 [Jul 3]:
 Argentinos Juniors       0:0 River Plate              [at Atlanta]
 Boca Juniors             3:0 Atlanta
 Colón                    1:0 Quilmes
@@ -247,7 +243,7 @@ Lanús                    0:2 Newell's Old Boys
 Platense                 1:1 Vélez Sarsfield
 Rosario Central          2:0 Banfield
 
-Round 19 [Jul 17]:
+Round: Round 19 [Jul 17]:
 Atlanta                  2:0 Gimnasia y Esgrima LPG
 Banfield                 1:0 Colón
 Chacarita Juniors        1:1 Rosario Central
@@ -259,7 +255,7 @@ River Plate              3:0 Ferro Carril Oeste (BUE)
 San Lorenzo de Almagro   1:2 Racing Club
 Vélez Sarsfield          1:1 Boca Juniors
 
-Round 20 [Jul 24]:
+Round: Round 20 [Jul 24]:
 Atlanta                  2:2 Racing Club
 Banfield                 3:0 Lanús
 Chacarita Juniors        2:1 Colón
@@ -271,7 +267,7 @@ Quilmes                  1:0 Platense
 River Plate              1:1 Rosario Central
 Vélez Sarsfield          1:0 Gimnasia y Esgrima LPG
 
-Round 21 [Jul 31]:
+Round: Round 21 [Jul 31]:
 Argentinos Juniors       1:1 Independiente (Ave)      [at Atlanta]
 Boca Juniors             1:1 Quilmes
 Colón                    1:0 River Plate
@@ -283,7 +279,7 @@ Racing Club              1:1 Vélez Sarsfield
 Rosario Central          0:1 Estudiantes LPG
 San Lorenzo de Almagro   0:0 Atlanta
 
-Round 22 [Aug 7]:
+Round: Round 22 [Aug 7]:
 Argentinos Juniors       1:0 Ferro Carril Oeste (BUE)
 Banfield                 0:0 Boca Juniors
 Chacarita Juniors        1:1 Platense     
@@ -295,7 +291,7 @@ Quilmes                  1:1 Gimnasia y Esgrima LPG
 River Plate              1:0 Lanús
 Vélez Sarsfield          1:1 San Lorenzo de Almagro
 
-Round 23 [Aug 14]:
+Round: Round 23 [Aug 14]:
 Atlanta                  0:0 Vélez Sarsfield
 Boca Juniors             1:1 Chacarita Juniors
 Colón                    1:0 Huracán (BUE)
@@ -307,7 +303,7 @@ Racing Club              2:1 Quilmes
 Rosario Central          0:2 Argentinos Juniors
 San Lorenzo de Almagro   1:2 Newell's Old Boys
 
-Round 24 [Aug 21]:
+Round: Round 24 [Aug 21]:
 Argentinos Juniors       1:0 Colón
 Banfield                 0:1 Racing Club
 Chacarita Juniors        0:1 Gimnasia y Esgrima LPG
@@ -319,7 +315,7 @@ Newell's Old Boys        0:2 Atlanta
 Quilmes                  0:2 San Lorenzo de Almagro
 River Plate              2:0 Boca Juniors
 
-Round 25:
+Round: Round 25:
 [Aug 28]
 Atlanta                  0:0 Quilmes
 Colón                    0:1 Ferro Carril Oeste (BUE)
@@ -333,7 +329,7 @@ Vélez Sarsfield          5:1 Newell's Old Boys
 [Oct 19]
 Boca Juniors             2:1 Estudiantes LPG
 
-Round 26 [Sep 4]:
+Round: Round 26 [Sep 4]:
 Argentinos Juniors       2:1 Platense     
 Banfield                 3:0 Atlanta
 Chacarita Juniors        1:3 San Lorenzo de Almagro
@@ -345,7 +341,7 @@ Quilmes                  0:1 Vélez Sarsfield
 River Plate              2:0 Racing Club
 Rosario Central          1:0 Colón
 
-Round 27 [Sep 11]:
+Round: Round 27 [Sep 11]:
 Atlanta                  3:0 Chacarita Juniors
 Boca Juniors             1:0 Argentinos Juniors
 Colón                    1:1 Independiente (Ave)
@@ -357,7 +353,7 @@ Racing Club              3:0 Estudiantes LPG
 San Lorenzo de Almagro   1:0 River Plate
 Vélez Sarsfield          2:1 Banfield
 
-Round 28 [Sep 18]:
+Round: Round 28 [Sep 18]:
 Argentinos Juniors       3:1 Gimnasia y Esgrima LPG
 Banfield                 0:2 Newell's Old Boys
 Chacarita Juniors        1:2 Vélez Sarsfield
@@ -369,7 +365,7 @@ Independiente (Ave)      3:1 Quilmes
 River Plate              0:1 Atlanta
 Rosario Central          0:0 Platense     
 
-Round 29 [Sep 25]:
+Round: Round 29 [Sep 25]:
 Atlanta                  0:2 Estudiantes LPG
 Boca Juniors             2:0 Rosario Central
 Gimnasia y Esgrima LPG   2:1 Ferro Carril Oeste (BUE)
@@ -381,7 +377,7 @@ Racing Club              3:0 Argentinos Juniors
 San Lorenzo de Almagro   4:1 Huracán (BUE)
 Vélez Sarsfield          1:1 River Plate
 
-Round 30:
+Round: Round 30:
 [Oct 2]
 Argentinos Juniors       0:1 San Lorenzo de Almagro   [at Atlanta]
 Colón                    0:2 Boca Juniors
@@ -395,7 +391,7 @@ Rosario Central          2:2 Gimnasia y Esgrima LPG
 [Oct 5]
 Chacarita Juniors        4:2 Quilmes
 
-Round 31 [Oct 9]:
+Round: Round 31 [Oct 9]:
 Atlanta                  2:0 Argentinos Juniors
 Banfield                 3:1 Chacarita Juniors
 Boca Juniors             3:2 Lanús
@@ -406,7 +402,8 @@ Quilmes                  1:1 River Plate
 Racing Club              2:1 Rosario Central
 San Lorenzo de Almagro   0:0 Ferro Carril Oeste (BUE)
 Vélez Sarsfield          2:1 Huracán (BUE)
-Round 32:
+
+Round: Round 32:
 [Oct 14]
 Independiente (Ave)      2:2 Chacarita Juniors
 [Oct 16]
@@ -420,7 +417,7 @@ Platense                 0:2 Boca Juniors
 River Plate              2:2 Banfield
 Rosario Central          2:0 San Lorenzo de Almagro
 
-Round 33:
+Round: Round 33:
 [Oct 21]
 Atlanta                  1:1 Rosario Central
 [Oct 22]
@@ -435,7 +432,7 @@ Racing Club              2:1 Lanús
 San Lorenzo de Almagro   1:1 Colón
 Vélez Sarsfield          1:1 Ferro Carril Oeste (BUE)
 
-Round 34:
+Round: Round 34:
 [Oct 28]
 Boca Juniors             2:0 Gimnasia y Esgrima LPG
 [Oct 30]
@@ -449,7 +446,7 @@ Lanús                    1:1 San Lorenzo de Almagro
 Platense                 0:2 Racing Club
 Rosario Central          1:1 Vélez Sarsfield
 
-Round 35:
+Round: Round 35:
 [Nov 6]
 Newell's Old Boys        0:2 Rosario Central
 [Nov 13]
@@ -463,7 +460,7 @@ River Plate              2:0 Estudiantes LPG
 San Lorenzo de Almagro   2:0 Platense     
 Vélez Sarsfield          2:2 Colón
 
-Round 36:
+Round: Round 36:
 [Nov 18]
 Independiente (Ave)      3:3 Estudiantes LPG
 [Nov 20]
@@ -494,7 +491,7 @@ Referee:                Guillermo Nimo.
 
 Att.:                   15,000.- tickets.
 
-Round 37:
+Round: Round 37:
 [Nov 25]
 Atlanta                  0:0 Boca Juniors
 Estudiantes LPG          1:1 Huracán (BUE)
@@ -509,7 +506,7 @@ Quilmes                  1:0 Colón
 Racing Club              3:3 Independiente (Ave)
 Vélez Sarsfield          2:1 Platense     
 
-Round 38:
+Round: Round 38:
 [Dec 1]
 Boca Juniors             0:3 Vélez Sarsfield
 Ferro Carril Oeste (BUE) 2:3 River Plate
@@ -526,101 +523,59 @@ Racing Club              2:0 San Lorenzo de Almagro
 [Dec 6]
 Argentinos Juniors       0:0 Estudiantes LPG
 
-Table:
+* 1. Racing Club              38   24   13    1    70    24   61 Champion
+* 2. River Plate              38   22   12    4    66    26   56
+* 3. Boca Juniors             38   17   14    7    51    32   48
+* 4. San Lorenzo de Almagro   38   17   12    9    48    34   46
+* 5. Vélez Sarsfield          38   15   16    7    49    38   46
+* 6. Independiente (Ave)      38   14   16    8    54    34   44
+* 7. Estudiantes LPG          38   12   17    9    44    37   41
+* 8. Gimnasia y Esgrima LPG   38   13   13   12    49    41   39
+* 9. Argentinos Juniors       38   14   11   13    40    44   39
+*10. Atlanta                  38   10   18   10    45    39   38
+*11. Newell's Old Boys        38   14   10   14    45    51   38
+*12. Rosario Central          38   10   17   11    31    30   37
+*13. Banfield                 38   13   11   14    45    48   37
+*14. Lanús                    38    9   13   16    43    55   31
+*15. Huracán (BUE)            38   10    9   19    41    62   29
+*16. Colón                    38    8   11   19    30    53   27
+*17. Platense                 38    6   15   17    25    51   27
+*18. Ferro Carril Oeste (BUE) 38    9    9   20    37    64   27
+*19. Quilmes                  38    8   10   20    39    59   26
+*20. Chacarita Juniors        38    5   13   20    36    66   23
+*Libertadores cup 1967: Racing Club and River Plate.
 
-No. Team                     G    W    D    L    Gf    Ga    P
----------------------------------------------------------------
- 1. Racing Club              38   24   13    1    70    24   61 Champion
- 2. River Plate              38   22   12    4    66    26   56
- 3. Boca Juniors             38   17   14    7    51    32   48
- 4. San Lorenzo de Almagro   38   17   12    9    48    34   46
- 5. Vélez Sarsfield          38   15   16    7    49    38   46
- 6. Independiente (Ave)      38   14   16    8    54    34   44
- 7. Estudiantes LPG          38   12   17    9    44    37   41
- 8. Gimnasia y Esgrima LPG   38   13   13   12    49    41   39
- 9. Argentinos Juniors       38   14   11   13    40    44   39
-10. Atlanta                  38   10   18   10    45    39   38
-11. Newell's Old Boys        38   14   10   14    45    51   38
-12. Rosario Central          38   10   17   11    31    30   37
-13. Banfield                 38   13   11   14    45    48   37
-14. Lanús                    38    9   13   16    43    55   31
-15. Huracán (BUE)            38   10    9   19    41    62   29
-16. Colón                    38    8   11   19    30    53   27
-17. Platense                 38    6   15   17    25    51   27
-18. Ferro Carril Oeste (BUE) 38    9    9   20    37    64   27
-19. Quilmes                  38    8   10   20    39    59   26
-20. Chacarita Juniors        38    5   13   20    36    66   23
-
-Libertadores cup 1967: Racing Club and River Plate.
-
-Relegation table:
-                             ----Season----            
-                             1964 1965 1966  MP Average  
- 1. Boca Juniors              44   50   48  102  1.392
-    River Plate               37   49   56  102  1.392
- 3. Racing Club               32   36   61  102  1.264
- 4. Vélez Sarsfield           31   40   46  102  1.147
- 5. San Lorenzo de Almagro    36   34   46  102  1.137
- 6. Independiente (Ave)       38   31   44  102  1.107
- 7. Banfield                  32   34   37  102  1.009
- 8. Atlanta                   35   29   38  102  1.000
- 9. Estudiantes LPG           24   36   41  102  0.990
-10. Rosario Central           28   32   37  102  0.950
-11. Ferro Carril Oeste (BUE)  29   37   27  102  0.911
-12. Gimnasia y Esgrima LPG    25   25   39  102  0.872
-    Huracán (BUE)             29   31   29  102  0.872
-14. Platense                       35   27   72  0.861
-15. Newell's Old Boys         16   32   38  102  0.843
-16. Lanús                          29   31   72  0.833
-17. Argentinos Juniors        17   28   39  102  0.823
-18. Chacarita Juniors         27   24   23  102  0.725
-19. Colón                               27   38  0.710
-------------------------------------------------------
-20. Quilmes                             26   38  0.684
+*Relegation table:
+*                             ----Season----            
+*                             1964 1965 1966  MP Average  
+* 1. Boca Juniors              44   50   48  102  1.392
+*    River Plate               37   49   56  102  1.392
+* 3. Racing Club               32   36   61  102  1.264
+* 4. Vélez Sarsfield           31   40   46  102  1.147
+* 5. San Lorenzo de Almagro    36   34   46  102  1.137
+* 6. Independiente (Ave)       38   31   44  102  1.107
+* 7. Banfield                  32   34   37  102  1.009
+* 8. Atlanta                   35   29   38  102  1.000
+* 9. Estudiantes LPG           24   36   41  102  0.990
+*10. Rosario Central           28   32   37  102  0.950
+*11. Ferro Carril Oeste (BUE)  29   37   27  102  0.911
+*12. Gimnasia y Esgrima LPG    25   25   39  102  0.872
+*    Huracán (BUE)             29   31   29  102  0.872
+*14. Platense                       35   27   72  0.861
+*15. Newell's Old Boys         16   32   38  102  0.843
+*16. Lanús                          29   31   72  0.833
+*17. Argentinos Juniors        17   28   39  102  0.823
+*18. Chacarita Juniors         27   24   23  102  0.725
+*19. Colón                               27   38  0.710
+*------------------------------------------------------
+*20. Quilmes                             26   38  0.684
 
 The relegation was suspended after round 37 when Colón was in last position.
 
 
-
-
-1965.
-
-
-1966 (2nd level).
-
-
-1967.
-
-
-list of champions.
-
-
-list of cup tournaments.
-
-
-list of final tables.
-
-
-all-time tables.
-
-
-list of 2nd level champions.
-
-
-divisional movements.
-
-
-topscorers.
-
-
-About this document
-
-Sources: [CIHF-], [Ram-2], magazine: El Gráfico
-
-Prepared and maintained by Osvaldo José Gorgazzi for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Osvaldo José Gorgazzi (osvaldogorgazzi@yahoo.com.ar) 
-Last updated: 27 Jun 2007
-
-(C) Copyright Osvaldo José Gorgazzi and RSSSF 2001/07
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Sources: [CIHF-], [Ram-2], magazine: El Gráfico
+*Prepared and maintained by Osvaldo José Gorgazzi for the Rec.Sport.Soccer Statistics Foundation
+*Author: Osvaldo José Gorgazzi (osvaldogorgazzi@yahoo.com.ar) 
+*Last updated: 27 Jun 2007
+*(C) Copyright Osvaldo José Gorgazzi and RSSSF 2001/07
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

@@ -1,47 +1,37 @@
-http://www.rsssf.com/tablesa/arg16.html
+BlockSource: http://www.rsssf.com/tablesa/arg16.html
 
 Argentina 1916
-
- 
- 
 Asociacion Argentina de Football
- 
 Copa Campeonato
-
  
- 
-Table:          
- 
-No. Team                              G   W   D   L  Gf  Ga   P
------------------------------------------------------------------
- 1. Racing Club                      21  15   4   2  39  10  34   [Champion]
------------------------------------------------------------------
- 2. Platense                         21  12   6   3  25  13  30 
- 3. River Plate                      21  10   9   2  27  10  29 
- 4. Gimnasia y Esgrima LP            21   9   9   3  21  12  27 
- 5. Huracán                          21  11   4   6  31  16  26 
- 6. Estudiantil Porteño              21  10   6   5  37  22  26 
- 7. San Lorenzo de Almagro           21   9   5   7  16  25  23 
- 8. Porteño                          21   7   8   6  32  26  22 
- 9. Gimnasia y Esgrima BA            21   8   5   8  31  29  21 
-10. Tigre                            21   8   5   8  22  28  21 
-11. Argentino de Quilmes             21   7   6   8  25  23  20 
-12. Estudiantes LP                   21   6   8   7  26  26  20 
-13. San Isidro                       21   7   6   8  29  32  20 
-14. Boca Juniors                     21   7   6   8  25  29  20 
-15. Independiente                    21   6   8   7  13  17  20 
-16. Columbian                        21   6   7   8  24  26  19 
-17. Atlanta                          21   5   7   9  17  24  17 
-18. Banfield                         21   4   8   9  20  31  16 
-19. Estudiantes BA                   21   5   5  11  27  33  15 
-20. Ferro Carril Oeste               21   6   3  12  28  39  15 
------------------------------------------------------------------
-21. Belgrano Athletic                21   5   3  13  20  40  13   [Relegated]
-22. Quilmes                          21   2   4  15  12  36   8   [Relegated]
+* 1. Racing Club                      21  15   4   2  39  10  34   [Champion]
+*-----------------------------------------------------------------
+* 2. Platense                         21  12   6   3  25  13  30 
+* 3. River Plate                      21  10   9   2  27  10  29 
+* 4. Gimnasia y Esgrima LP            21   9   9   3  21  12  27 
+* 5. Huracán                          21  11   4   6  31  16  26 
+* 6. Estudiantil Porteño              21  10   6   5  37  22  26 
+* 7. San Lorenzo de Almagro           21   9   5   7  16  25  23 
+* 8. Porteño                          21   7   8   6  32  26  22 
+* 9. Gimnasia y Esgrima BA            21   8   5   8  31  29  21 
+*10. Tigre                            21   8   5   8  22  28  21 
+*11. Argentino de Quilmes             21   7   6   8  25  23  20 
+*12. Estudiantes LP                   21   6   8   7  26  26  20 
+*13. San Isidro                       21   7   6   8  29  32  20 
+*14. Boca Juniors                     21   7   6   8  25  29  20 
+*15. Independiente                    21   6   8   7  13  17  20 
+*16. Columbian                        21   6   7   8  24  26  19 
+*17. Atlanta                          21   5   7   9  17  24  17 
+*18. Banfield                         21   4   8   9  20  31  16 
+*19. Estudiantes BA                   21   5   5  11  27  33  15 
+*20. Ferro Carril Oeste               21   6   3  12  28  39  15 
+*-----------------------------------------------------------------
+*21. Belgrano Athletic                21   5   3  13  20  40  13   [Relegated]
+*22. Quilmes                          21   2   4  15  12  36   8   [Relegated]
  
  
  
-Round 1 
+Round: Round 1 
 [Mar 26]
 Platense                0-1     Porteño 
 Independiente                   0-1     Estudiantil Porteño
@@ -53,7 +43,7 @@ Ferro Carril Oeste                                                          1-2 
 San Isidro                                                                  1-1      Argentino de Quilmes
  
  
-Round 2
+Round: Round 2
 [Apr 4]
 Gimnasia y Esgrima BA   2-1     Atlanta
 Gimnasia y Esgrima LP   0-1     Quilmes 
@@ -66,7 +56,7 @@ Ferro Carril Oeste              1-2  Independiente
 San Lorenzo                     0-4  Racing Club        
  
  
-Round 3 
+Round: Round 3 
 [Apr 16]
 Gimnasia y Esgrima BA   5-1     Ferro Carril Oeste
 Belgrano Athletic  2-4  San Isidro    
@@ -78,7 +68,7 @@ Atlanta                                                               1-1       
 Quilmes                                                                                     1-3 Estudiantil Porteño
  
  
-Round 4 
+Round: Round 4 
 [Apr 20]
 Argentino de Quilmes    0-4     River Plate
 Ferro Carril Oeste      3-0     San Lorenzo
@@ -95,7 +85,7 @@ Platense   3-0     Boca Juniors
  
  
  
-Round 5 
+Round: Round 5 
 [Apr 23]
 Racing Club             1-0     Columbian
 Estudiantes BA                  4-0     Estudiantes LP
@@ -109,7 +99,7 @@ Banfield                                                                   0-1  
 Quilmes                                                                                                 2-2     Boca Juniors
  
  
-Round 6 
+Round: Round 6 
 [Apr 30]
 Argentino de Quilmes    0-2     Estudiantil Porteño
 Belgrano Athletic       2-0     Ferro Carril Oeste
@@ -118,7 +108,7 @@ San Isidro         3-0  Quilmes
 Tigre                           1-1     Independiente
  
  
-Round 7 
+Round: Round 7 
 [May 7]
 Atlanta                 0-2     Independiente
 Racing Club                     4-0     Gimnasia y Esgrima BA
@@ -127,7 +117,7 @@ Platense                                         1-1    Gimnasia y Esgrima LP
 San Lorenzo                                             2-1      Estudiantes LP
  
  
-Round 8 
+Round: Round 8 
 [May 14]
 San Isidro              2-0     Racing Club
 River Plate                     0-0    Estudiantil Porteño
@@ -141,14 +131,14 @@ San Lorenzo                                     2-0     Belgrano Athletic
 Tigre                                                            0-1    Columbian
  
  
-Round 9 
+Round: Round 9 
 [May 21]
 Belgrano Athletic       1-1     Estudiantes LP
 River Plate                     0-1         Atlanta     
 San Lorenzo                                 1-1         Banfield
  
  
-Round 10 
+Round: Round 10 
 [May 28]
 Platense                1-1     Estudiantil Porteño             [Abandoned; not continued]
 Gimnasia y Esgrima BA   2-2     Columbian
@@ -163,7 +153,7 @@ Estudiantes BA                                                          3-3     
 Racing Club                                                             3-0       Boca Juniors
  
  
-Round 11 
+Round: Round 11 
 [Jun 1]
 Estudiantes LP          1-1     Columbian
 Argentino de Quilmes    1-1     Ferro Carril Oeste
@@ -177,7 +167,7 @@ San Isidro                                                                      
 Racing Club                                                                                                         2-0   Belgrano Athletic
  
  
-Round 12 
+Round: Round 12 
 [Jun 11]
 Columbian               0-0     River Plate     
 Quilmes                               0-0       Independiente           
@@ -191,7 +181,7 @@ Boca Juniors                                                                    
 Racing Club                                                                               1-0   Huracán
  
  
-Round 13 
+Round: Round 13 
 [Jul 23]
 Atlanta                 1-1     Banfield
 Estudiantes BA                  2-3     Belgrano Athletic
@@ -202,7 +192,7 @@ San Isidro                      1-2   San Lorenzo
 Gimnasia y Esgrima LP           0-0   Tigre
  
  
-Round 14 
+Round: Round 14 
 [Jul 30]
 Estudiantil Porteño     1-1     Estudiantes LP
 Quilmes                         0-2         Columbian
@@ -214,21 +204,21 @@ Huracán                                                                        
 Independiente                                                                                   0-1 Racing Club
  
  
-Round 15 
+Round: Round 15 
 [Aug 6]
 Banfield                1-0     Estudiantes LP
 Columbian                       1-2         San Lorenzo
 Estudiantes BA                              3-5 Ferro Carril Oeste
  
  
-Round 16 
+Round: Round 16 
 [Aug 13]
 Banfield                1-1     San Isidro
 Porteño                             1-1 San Lorenzo
 Belgrano Athletic                   0-4 Gimnasia y Esgrima BA
  
  
-Round 17 
+Round: Round 17 
 [Aug 20]
 Belgrano Athletic       1-3     Huracán 
 Estudiantil Porteño     0-1     San Isidro      
@@ -239,7 +229,7 @@ San Lorenzo                             1-1     Estudiantes BA
    [Xarau]                                                     [Ochandio]                        
  
  
-Round 18 
+Round: Round 18 
 [Aug 27]
 Estudiantes LP          0-1     Gimnasia y Esgrima LP   
 Racing Club             2-1     Argentino de Quilmes
@@ -253,7 +243,7 @@ Huracán                                                2-1      Tigre
 Platense                                                        1-0     River Plate
  
  
-Round 19 
+Round: Round 19 
 [Aug 30]
 Huracán                 2-1     Argentino de Quilmes
 Estudiantil Porteño     3-1     Atlanta
@@ -266,7 +256,7 @@ Estudiantes BA                                                 0-0       Tigre
 Quilmes                                                                  0-0    Belgrano Athletic
  
  
-Round 20 
+Round: Round 20 
 [Sep 3]
 Huracán                 0-1     Estudiantes LP
 River Plate                     1-0         Belgrano Athletic
@@ -279,7 +269,7 @@ Columbian                                                                       
 Estudiantil Porteño                                                                     5-1     Gimnasia y Esgrima BA
  
  
-Round 21 
+Round: Round 21 
 [Sep 10]
 Estudiantil Porteño     2-2     Racing Club
 Tigre                           0-3    Ferro Carril Oeste       
@@ -294,7 +284,7 @@ River Plate            2-0      Estudiantes BA
 Huracán                                     5-2 Columbian
  
  
-Round 22 
+Round: Round 22 
 [Sep 17]
 Estudiantil Porteño     0-2     Banfield
 Gimnasia y Esgrima LP   2-1     Belgrano Athletic
@@ -306,7 +296,7 @@ Boca Juniors                                                               1-1  
 Ferro Carril Oeste                                                         1-3          Platense
  
  
-Round 23 
+Round: Round 23 
 [Sep 24]
 Huracán                 1-1     Platense
 San Lorenzo                     0-3     Boca Juniors    
@@ -314,7 +304,7 @@ Argentino de Quilmes            1-2     Atlanta
 Ferro Carril Oeste              3-2     San Isidro
  
  
-Round 24 
+Round: Round 24 
 [Oct 8]
 Quilmes                 0-2     Argentino de Quilmes    
 Independiente                   1-0       Columbian
@@ -327,7 +317,7 @@ Porteño                                                                       1
 Atlanta                                                                                                 0-2     Estudiantes BA
  
  
-Round 25 
+Round: Round 25 
 [Oct 15]
 Ferro Carril Oeste      0-2     Atlanta         
 Racing Club             1-0     Estudiantes BA
@@ -338,7 +328,7 @@ River Plate                                     1-0      Huracán
 Columbian                                                3-1    Platense
  
  
-Round 26 
+Round: Round 26 
 [Oct 22]
 Argentino de Quilmes    3-0     Belgrano Athletic
 Platense     0-0        Atlanta
@@ -352,7 +342,7 @@ Boca Juniors                                           2-0      Estudiantes BA
 Tigre                                                                  wp-lp    Quilmes                         [Quilmes withdrew]
  
  
-Round 27 
+Round: Round 27 
 [Oct 29]
 Huracán                 4-0     San Isidro
 Estudiantes BA                  0-3 Argentino de Quilmes
@@ -363,7 +353,7 @@ Boca Juniors                                                             2-0   C
 San Lorenzo                                                                     wp-lp   Quilmes                         [Quilmes withdrew]  
  
  
-Round 28 
+Round: Round 28 
 [Nov 5]
 Porteño                 3-1     Estudiantes BA
 Tigre                                       1-1 Atlanta
@@ -374,7 +364,7 @@ Gimnasia y Esgrima LP                                             1-0   Gimnasia
  
  
   
-Round 29 
+Round: Round 29 
 [Nov 11]
 Racing Club             2-0     Ferro Carril Oeste
 [Nov 12]
@@ -384,31 +374,31 @@ Columbian                                0-0       Gimnasia y Esgrima LP
 Quilmes                                                     1-6       Huracán   
  
  
-Round 30 
+Round: Round 30 
 [Nov 19]
 River Plate             1-1     Racing Club
 Huracán                                1-0      Porteño
 Gimnasia y Esgrima BA                  0-1      Argentino de Quilmes    
  
  
-Round 31 
+Round: Round 31 
 [Nov 26]
 Boca Juniors            1-1     Independiente
 Argentino de Quilmes    1-1     Platense
  
  
-Round 32 
+Round: Round 32 
 [Dec 3]
 Argentino de Quilmes    3-0     Independiente
 Gimnasia y Esgrima LP   0-0     River Plate
  
  
-Round 33 
+Round: Round 33 
 [Dec 8]
 Independiente           1-1     Platense
  
  
-Round 34 
+Round: Round 34 
 [Dec 10]
 River Plate             2-1     Boca Juniors
  
@@ -419,68 +409,39 @@ Tigre                   1-0     Belgrano Athletic
  
  
 
-Copa Campeonato
-
-Table:          
- 
-No. Team                              G   W   D   L  Gf  Ga   P
------------------------------------------------------------------
- 1. Racing Club                      21  15   4   2  39  10  34   [Champion]
------------------------------------------------------------------
- 2. Platense                         21  12   6   3  25  13  30 
- 3. River Plate                      21  10   9   2  27  10  29 
- 4. Gimnasia y Esgrima LP            21   9   9   3  21  12  27 
- 5. Huracán                          21  11   4   6  31  16  26 
- 6. Estudiantil Porteño              21  10   6   5  37  22  26 
- 7. San Lorenzo de Almagro           21   9   5   7  16  25  23 
- 8. Porteño                          21   7   8   6  32  26  22 
- 9. Gimnasia y Esgrima BA                 21   8   5   8  31  29  21 
-10. Tigre                            21   8   5   8  22  28  21 
-11. Argentino de Quilmes             21   7   6   8  25  23  20 
-12. Estudiantes LP                   21   6   8   7  26  26  20 
-13. San Isidro                       21   7   6   8  29  32  20 
-14. Boca Juniors                     21   7   6   8  25  29  20 
-15. Independiente                    21   6   8   7  13  17  20 
-16. Columbian                        21   6   7   8  24  26  19 
-17. Atlanta                          21   5   7   9  17  24  17 
-18. Banfield                         21   4   8   9  20  31  16 
-19. Estudiantes BA                   21   5   5  11  27  33  15 
-20. Ferro Carril Oeste               21   6   3  12  28  39  15 
------------------------------------------------------------------
-21. Belgrano Athletic                21   5   3  13  20  40  13   [Relegated]
-22. Quilmes                          21   2   4  15  12  36   8   [Relegated]
+*Copa Campeonato
+* 1. Racing Club                      21  15   4   2  39  10  34   [Champion]
+*-----------------------------------------------------------------
+* 2. Platense                         21  12   6   3  25  13  30 
+* 3. River Plate                      21  10   9   2  27  10  29 
+* 4. Gimnasia y Esgrima LP            21   9   9   3  21  12  27 
+* 5. Huracán                          21  11   4   6  31  16  26 
+* 6. Estudiantil Porteño              21  10   6   5  37  22  26 
+* 7. San Lorenzo de Almagro           21   9   5   7  16  25  23 
+* 8. Porteño                          21   7   8   6  32  26  22 
+* 9. Gimnasia y Esgrima BA                 21   8   5   8  31  29  21 
+*10. Tigre                            21   8   5   8  22  28  21 
+*11. Argentino de Quilmes             21   7   6   8  25  23  20 
+*12. Estudiantes LP                   21   6   8   7  26  26  20 
+*13. San Isidro                       21   7   6   8  29  32  20 
+*14. Boca Juniors                     21   7   6   8  25  29  20 
+*15. Independiente                    21   6   8   7  13  17  20 
+*16. Columbian                        21   6   7   8  24  26  19 
+*17. Atlanta                          21   5   7   9  17  24  17 
+*18. Banfield                         21   4   8   9  20  31  16 
+*19. Estudiantes BA                   21   5   5  11  27  33  15 
+*20. Ferro Carril Oeste               21   6   3  12  28  39  15 
+*-----------------------------------------------------------------
+*21. Belgrano Athletic                21   5   3  13  20  40  13   [Relegated]
+*22. Quilmes                          21   2   4  15  12  36   8   [Relegated]
  
 Note:
 . Hispano Argentino was renamed Columbian.
  
-1915.
-
-1917.
-
-list of champions.
-
-list of cup tournaments.
-
-list of final tables.
-
-all-time tables.
-
-list of 2nd level champions.
-
-divisional movements.
-
-topscorers.
-
-About this document
-
-Sources:  Newspapers: La Nación and La Prensa.  
-
-With thanks to Pablo Wally.
-
-Prepared and maintained by Pablo Ciullini for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Pablo Ciullini (P_A_Ciullini@hotmail.com) 
-Last updated: 25 Aug 2011
-
-(C) Copyright Pablo Ciullini and RSSSF 2004/11
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Sources:  Newspapers: La Nación and La Prensa.  
+*With thanks to Pablo Wally.
+*Prepared and maintained by Pablo Ciullini for the Rec.Sport.Soccer Statistics Foundation
+*Author: Pablo Ciullini (P_A_Ciullini@hotmail.com) 
+*Last updated: 25 Aug 2011
+*(C) Copyright Pablo Ciullini and RSSSF 2004/11
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

@@ -1,5 +1,6 @@
 Competition: American Professional Soccer League Playoffs
-* BlockSource: http://a-leaguearchive.tripod.com/
+BlockSource: http://a-leaguearchive.tripod.com/
+
 
 Season: 1988
 BlockSource: http://a-leaguearchive.tripod.com/1988/resultsasl88.htm
@@ -21,7 +22,7 @@ Mario Chavez 2;  Marco Casas-Cordero 13, Marco Casas-Cordero 26, Jean Harbor 11,
 Minigame
 Minutes: 30
  
-* 1988 ASL Championship
+Round: Final
 
 8/21/1988; Washington Diplomats; 4-3; Fort Lauderdale Strikers; RFK Stadium; 5745
 Michael Brady 18, Michael Brady 22, Joaquin Canales 55, Ronald Simmons (penalty kick) 90; Ricardo Alonso 57, Mark Schwartz 58, Thomas Rongen 87
@@ -37,7 +38,7 @@ Washington Diplomats: Keith Lenert, Duncan Reynard, Keith Trehy, Ronald Simmons,
 Season: 1989
 BlockSource: http://a-leaguearchive.tripod.com/1989/resultsasl89.htm
 
-* Semifinals
+Round: Semifinals
 
 8/12/1989; Fort Lauderdale Strikers; 3-1; Washington Stars; Fort Lauderdale; 4784
 Ricardo Alonso 45, Ricardo Alonso 63, Ricardo Alonso 70; Scott Snyder 31
@@ -51,7 +52,7 @@ Steve Potter 55, Steve Potter;
 8/13/1989; Tampa Bay Rowdies; 1-2; Boston Bolts; Tampa Bay; 5101
 Steve Wegerle (penalty kick) 52; Patrick Hughes 42, Steve Potter 86
 
-* 1989 ASL Championship
+Round: Final
 
 8/19/1989; Fort Lauderdale Strikers; 1-0; Boston Bolts; Lockhart Stadium; 5752
 Marcelo Carrera 5;
@@ -123,7 +124,7 @@ Eric Wynalda 36; Waldir Guerra 71
 Dominic Kinnear 22;
 Red Card: Mike Getchell 20
 
-* Final
+Round: Final
 
 9/22/1990; Maryland Bays; 1-1; San Francisco Bay Blackhawks; Nickerson Field, Boston, MA; 4881
 Scott Cook 77; Peter Isaacs 83
@@ -153,7 +154,7 @@ Dominic Kinnear;
 9/14/1991 1930;  Fort Lauderdale Strikers; 0-1; San Francisco Bay Blackhawks; Lockhart Stadium; 2476
 Source: http://articles.sun-sentinel.com/1991-09-14/sports/9102050418_1_fort-lauderdale-strikers-blackhawks-coach-derek-sanderson
 
-* Finals
+Round: Finals
 
 9/22/1991; Albany Capitals; 3-1; San Francisco Bay Blackhawks; Bleecker Stadium, Albany; 4061
 
@@ -161,10 +162,8 @@ Source: http://articles.sun-sentinel.com/1991-09-14/sports/9102050418_1_fort-lau
 * Series tied 1-1, San Francisco Bay wins mini-game on PK's
 
 
-
 Season: 1992
 BlockSource: http://a-leaguearchive.tripod.com/1992/results92.htm
-
 
 9/11/1992; Tampa Bay Rowdies; 2-1; San Francisco Bay Blackhawks; Tampa Stadium, Tampa Bay, Florida; Paul Tamberino; 1877
 Jean Harbor (penalty kick) 54, Jean Harbor 76; Domenic Kinnear (penalty kick) 33
@@ -173,12 +172,13 @@ Jean Harbor (penalty kick) 54, Jean Harbor 76; Domenic Kinnear (penalty kick) 33
 Shawn Medved 6, Jeff Hooker (penalty kick) 53; Eric Eichmann 45, Miguel Muchotrigo 73
 * Colorado wins shootout 2-1
 
-* Final
+Round: Final
 
 9/26/1992; Colorado Foxes; 1-0; Tampa Bay Rowdies; Englewood Stadium, Englewood, Colorado; Englewood High School , Englewood, Colorado; 4659
 Chad Ashton 34; 
 Colorado Foxes: Mark Dodd, Robin Frasr, Tom Soehn, Marcelo Balboa, Kim Roentved, Chad Ashton, Bryan Haynes, Mark Santel, Ted Eck, Taifour Diane, Jeff Hooker(Shawn Medved 70)
 Tampa Bay Rowdies: Bill Andracki, Terry Rowe, Steve Backman, Steve Trittschuh (Giles Hooper 53), Ralph Black, Chris Charles, Perry Van Der Beck, Ricky Hill, Tom Reasoner, Kevin Sloan, Jean Harbor
+
 
 Season: 1993
 BlockSource: http://a-leaguearchive.tripod.com/1993/results93.htm
@@ -190,12 +190,13 @@ Domenic Mobilio (penalty kick) 41, Dale Mitchell 80; Danny Pena 68, Paulinho 90
 9/19/1993 2000; Colorado Foxes; 1-0; Tampa Bay Rowdies; Englewood Stadium, Englewood, CO; 5005 
 Bryan Haynes 75; 
 
-* Final
+Round: Final
 
 10/2/1993; Los Angeles Salsa; 1-3 (aet); Colorado Foxes; Titan Stadium, Fullerton, California; 10743
 Phillip Gyau 66; Ted Eck 88, Taifour Diane 105, Robert Lipp 110
 Los Angeles Salsa: Ian Feuer, Richard Ryerson, Thor Lee, Arturo Velazco, Mike Fox, Ted Ervine (Martin Vasquez 56), Paulinho (Harut Karapetyan 84), Paul Wright, Phillip Gyau
 Colorado Foxes: Mark Dodd, Robin Fraser, Tom Soehn, Iain Fraser, Kim Roentved, Chad Ashton, Bryan Haynes, Walter Boyd (Rafael Amaya 111'), Ted Eck, Taifour Diane, Scott Benedetti (Robert Lipp 84')
+
 
 Season: 1994
 BlockSource: http://a-leaguearchive.tripod.com/1994/results94.htm
@@ -216,7 +217,7 @@ Thor Lee 40, Paulinho Criciuma 78, Paulinho Criciuma 86;
 
 10/2/1994; Los Angeles Salsa; 0-0; Montreal Impact; Titan Stadium, Fullerton, CA; 6002
 
-* Final
+Round: Final
 
 10/15/1994 1630; Montreal Impact; 1-0; Colorado Foxes; Complexe sportif Claude-Robillard, Montreal, Quebec; Rene Parra; 8169
 Jean Harbor 21;
@@ -241,7 +242,7 @@ Paulinho Criciuma 31, Lloyd Barker 45, Lyndon Hooper 75;
 
 9/17/1995 1605; Seattle Sounders; 0-0; Vancouver 86ers; Swangard Stadium, Burnaby, BC; 4339
 
-* Finals
+Round: Finals
 
 10/1/1995 1600; Atlanta Ruckus; 1-1; Seattle Sounders; Adams Stadium, Atlanta, Georgia; Zimmerman Boulos; 4312
 Lenin Steenkamp 58; Jason Dunn 77

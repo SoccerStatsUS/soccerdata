@@ -124,7 +124,7 @@ class data_cache(AbstractCache):
         # Try to retrieve from the cache.
         try:
             data = get_data_cache(key)
-            print "Returning %s%s from data cache." % (self.func.func_name, args)
+            #print "Returning %s%s from data cache." % (self.func.func_name, args)
             return data
         except KeyError:
             # Data wasn't in the cache, so go get it.

@@ -148,7 +148,7 @@ def transform_names_from_rosters():
     # transform_rosters are rosters that have been generated from stats.
 
     for source in SOURCES:
-        print source
+        #print source
 
 
         # Try to use independently defined rosters.
@@ -195,8 +195,6 @@ def transform_team_names_for_competition(coll_group, competition, string_format)
     coll = soccer_db["%s_games" % coll_group]
     for e in coll.find():
         if e['competition'] == competition:
-            print "Transforming"
-
             e['team1'] = string_format % e['team1']
             e['team2'] = string_format % e['team2']
 
