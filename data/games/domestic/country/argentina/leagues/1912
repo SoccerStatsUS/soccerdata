@@ -16,18 +16,23 @@ Competition: Argentine Primera División
 Round: Round 1
 Date: 4/14/1912
 
-; Atlético Estudiantes  ; wp-lp; Alumni                 
-* [Alumni withdrew]
+; Atlético Estudiantes  ; W-L; Alumni                 
+Notes: Alumni withdrew
+
 ; Racing Club            ; 1-1;  Belgrano Athletic
+
 ; River Plate            ; 1-1;  Gimnasia y Esgrima BUE 
 * [see Jul 17]
+
 ; San Isidro             ; 1-1;  Estudiantes LPG        
 * [see Jul 17]
 
 Date: 4/28/1912
+
 *Atlético Estudiantes    ann  Alumni                 [annulled]
 
 Date: 7/17/1912
+
 *River Plate             ann  Gimnasia y Esgrima BUE [annulled]
 *San Isidro              ann  Estudiantes LPG        [annulled]
 
@@ -36,16 +41,24 @@ Round: Round 2
 Date: 4/21/1912
 
 ; Atlético Estudiantes   ; 3-4;  Belgrano Athletic
+
 ; Racing Club            ; 1-1;  Estudiantes LPG        
 * [see Jul 17]
+
 ; River Plate            ; 1-1;  Porteño                
 * [see Jul 17]
+
 ; Quilmes               ; W-L; Alumni                 
-* [Alumni withdrew]
+Notes: Alumni withdrew
+
 Date: 4/28/1912
+
 *Quilmes                 ann  Alumni                 [annulled]
+
 Date: 7/17/1912
+
 *Racing Club             ann  Estudiantes LPG        [annulled]
+
 *River Plate             ann  Porteño                [annulled]
 
 Round: Round 3

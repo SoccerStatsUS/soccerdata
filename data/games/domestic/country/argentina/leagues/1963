@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesa/arg63.html
-
-Argentina - First Division A 1963
+Season: 1963
+Competition: Liga Argentina de Football
 
 * 1. Independiente (A)       26   14    9    3    53    25   37 Champion
 * 2. River Plate             26   13    9    4    48    23   35
@@ -18,263 +18,303 @@ Argentina - First Division A 1963
 *14. Chacarita Juniors       26    4   10   12    25    43   18 
 
 
-Round: Round 1 [Apr 28]:
-Argentinos Juniors     1:4 Boca Juniors           [at Atlanta]
-Banfield               0:2 Estudiantes LP
-Gimnasia y Esgrima LP  2:2 Rosario Central
-Huracán (BA)           1:4 Atlanta
-Independiente (A)      3:0 Chacarita Juniors
-River Plate            4:0 San Lorenzo de Almagro
-Vélez Sarsfield        2:1 Racing Club
+Round: Round 1 
+Date: 4/28/1963
 
-Round: Round 2 [May 5]:
-Atlanta                1:0 Vélez Sarsfield
-Boca Juniors           2:2 Huracán (BA)
-Chacarita Juniors      0:2 River Plate
-Estudiantes LP         2:1 Gimnasia y Esgrima LP
-Racing Club            0:0 Banfield
-Rosario Central        1:2 Independiente (A)
-San Lorenzo de Almagro 1:3 Argentinos Juniors
+; Argentinos Juniors    ; 1-4; Boca Juniors           ; Atlanta
+; Banfield              ; 0-2; Estudiantes LP
+; Gimnasia y Esgrima LP ; 2-2; Rosario Central
+; Huracán (BA)          ; 1-4; Atlanta
+; Independiente (A)     ; 3-0; Chacarita Juniors
+; River Plate           ; 4-0; San Lorenzo de Almagro
+; Vélez Sarsfield       ; 2-1; Racing Club
+ 
+Round: Round 2 
+Date: 5/5/1963
 
-Round: Round 3 [May 12]:
-Argentinos Juniors     1:1 Chacarita Juniors
-Banfield               0:2 Atlanta
-Gimnasia y Esgrima LP  1:1 Racing Club
-Independiente (A)      1:1 Estudiantes LP
-River Plate            4:0 Rosario Central
-San Lorenzo de Almagro 2:1 Boca Juniors
-Vélez Sarsfield        0:0 Huracán (BA)
+; Atlanta               ; 1-0; Vélez Sarsfield
+; Boca Juniors          ; 2-2; Huracán (BA)
+; Chacarita Juniors     ; 0-2; River Plate
+; Estudiantes LP        ; 2-1; Gimnasia y Esgrima LP
+; Racing Club           ; 0-0; Banfield
+; Rosario Central       ; 1-2; Independiente (A)
+; San Lorenzo de Almagro; 1-3; Argentinos Juniors
 
-Round: Round 4 [May 19]:
-Atlanta                1:0 Gimnasia y Esgrima LP
-Boca Juniors           3:0 Vélez Sarsfield
-Chacarita Juniors      4:0 San Lorenzo de Almagro
-Estudiantes LP         1:2 River Plate
-Huracán (BA)           2:2 Banfield
-Racing Club            0:0 Independiente (A)
-Rosario Central        0:1 Argentinos Juniors
+Round: Round 3 
+Date: 5/12/1963
 
-Round: Round 5 [May 26]:
-Argentinos Juniors     3:2 Estudiantes LP
-Banfield               2:2 Vélez Sarsfield
-Chacarita Juniors      0:0 Boca Juniors
-Gimnasia y Esgrima LP  0:1 Huracán (BA)
-Independiente (A)      5:0 Atlanta
-River Plate            4:2 Racing Club
-San Lorenzo de Almagro 1:1 Rosario Central
+; Argentinos Juniors    ; 1-1; Chacarita Juniors
+; Banfield              ; 0-2; Atlanta
+; Gimnasia y Esgrima LP ; 1-1; Racing Club
+; Independiente (A)     ; 1-1; Estudiantes LP
+; River Plate           ; 4-0; Rosario Central
+; San Lorenzo de Almagro; 2-1; Boca Juniors
+; Vélez Sarsfield       ; 0-0; Huracán (BA)
 
-Round: Round 6 [Jun 2]:
-Atlanta                0:1 River Plate
-Boca Juniors           0:0 Banfield
-Estudiantes LP         3:2 San Lorenzo de Almagro
-Huracán (BA)           1:1 Independiente (A)
-Racing Club            2:1 Argentinos Juniors
-Rosario Central        1:3 Chacarita Juniors
-Vélez Sarsfield        2:1 Gimnasia y Esgrima LP
+Round: Round 4 
+Date: 5/19/1963
 
-Round: Round 7 [Jun 9]:
-Argentinos Juniors     1:1 Atlanta
-Chacarita Juniors      2:2 Estudiantes LP
-Gimnasia y Esgrima LP  1:1 Banfield
-Independiente (A)      3:3 Vélez Sarsfield
-River Plate            1:1 Huracán (BA)
-Rosario Central        3:0 Boca Juniors
-San Lorenzo de Almagro 3:4 Racing Club
+; Atlanta               ; 1-0; Gimnasia y Esgrima LP
+; Boca Juniors          ; 3-0; Vélez Sarsfield
+; Chacarita Juniors     ; 4-0; San Lorenzo de Almagro
+; Estudiantes LP        ; 1-2; River Plate
+; Huracán (BA)          ; 2-2; Banfield
+; Racing Club           ; 0-0; Independiente (A)
+; Rosario Central       ; 0-1; Argentinos Juniors
 
-Round: Round 8 [Jun 23]:
-Atlanta                3:2 San Lorenzo de Almagro
-Banfield               1:3 Independiente (A)
-Boca Juniors           1:0 Gimnasia y Esgrima LP
-Estudiantes LP         2:2 Rosario Central
-Huracán (BA)           1:1 Argentinos Juniors
-Racing Club            5:1 Chacarita Juniors
-Vélez Sarsfield        3:3 River Plate
+Round: Round 5 
+Date: 5/26/1963
 
-Round: Round 9 [Jun 30]:
-Argentinos Juniors     1:0 Vélez Sarsfield
-Chacarita Juniors      0:2 Atlanta
-Estudiantes LP         3:1 Boca Juniors
-Independiente (A)      3:0 Gimnasia y Esgrima LP
-River Plate            2:2 Banfield
-Rosario Central        0:0 Racing Club
-San Lorenzo de Almagro 3:1 Huracán (BA)
+; Argentinos Juniors    ; 3-2; Estudiantes LP
+; Banfield              ; 2-2; Vélez Sarsfield
+; Chacarita Juniors     ; 0-0; Boca Juniors
+; Gimnasia y Esgrima LP ; 0-1; Huracán (BA)
+; Independiente (A)     ; 5-0; Atlanta
+; River Plate           ; 4-2; Racing Club
+; San Lorenzo de Almagro; 1-1; Rosario Central
 
-Round: Round 10 [Jul 14]:
-Atlanta                4:2 Rosario Central
-Banfield               5:0 Argentinos Juniors
-Boca Juniors           3:2 Independiente (A)
-Gimnasia y Esgrima LP  1:4 River Plate
-Huracán (BA)           4:2 Chacarita Juniors
-Racing Club            2:0 Estudiantes LP
-Vélez Sarsfield        2:2 San Lorenzo de Almagro
+Round: Round 6 
+Date: 6/2/1963
 
-Round: Round 11 [Jul 21]:
-Argentinos Juniors     1:1 Gimnasia y Esgrima LP
-Chacarita Juniors      1:0 Vélez Sarsfield
-Estudiantes LP         2:1 Atlanta
-Racing Club            2:0 Boca Juniors
-River Plate            0:0 Independiente (A)
-Rosario Central        0:0 Huracán (BA)
-San Lorenzo de Almagro 1:0 Banfield
+; Atlanta               ; 0-1; River Plate
+; Boca Juniors          ; 0-0; Banfield
+; Estudiantes LP        ; 3-2; San Lorenzo de Almagro
+; Huracán (BA)          ; 1-1; Independiente (A)
+; Racing Club           ; 2-1; Argentinos Juniors
+; Rosario Central       ; 1-3; Chacarita Juniors
+; Vélez Sarsfield       ; 2-1; Gimnasia y Esgrima LP
 
-Round: Round 12 [Jul 28]:
-Atlanta                0:2 Racing Club
-Banfield               3:0 Chacarita Juniors
-Boca Juniors           2:0 River Plate
-Gimnasia y Esgrima LP  0:1 San Lorenzo de Almagro
-Huracán (BA)           0:1 Estudiantes LP
-Independiente (A)      1:1 Argentinos Juniors
-Vélez Sarsfield        2:2 Rosario Central
+Round: Round 7 
+Date: 6/9/1963
 
-Round: Round 13 [Aug 4]:
-Argentinos Juniors     0:5 River Plate            [at Atlanta]
-Boca Juniors           0:3 Atlanta
-Chacarita Juniors      1:1 Gimnasia y Esgrima LP
-Estudiantes LP         1:3 Vélez Sarsfield
-Racing Club            1:1 Huracán (BA)
-Rosario Central        2:0 Banfield
-San Lorenzo de Almagro 0:1 Independiente (A)
+; Argentinos Juniors    ; 1-1; Atlanta
+; Chacarita Juniors     ; 2-2; Estudiantes LP
+; Gimnasia y Esgrima LP ; 1-1; Banfield
+; Independiente (A)     ; 3-3; Vélez Sarsfield
+; River Plate           ; 1-1; Huracán (BA)
+; Rosario Central       ; 3-0; Boca Juniors
+; San Lorenzo de Almagro; 3-4; Racing Club
+
+Round: Round 8 
+Date: 6/23/1963
+
+; Atlanta               ; 3-2; San Lorenzo de Almagro
+; Banfield              ; 1-3; Independiente (A)
+; Boca Juniors          ; 1-0; Gimnasia y Esgrima LP
+; Estudiantes LP        ; 2-2; Rosario Central
+; Huracán (BA)          ; 1-1; Argentinos Juniors
+; Racing Club           ; 5-1; Chacarita Juniors
+; Vélez Sarsfield       ; 3-3; River Plate
+
+Round: Round 9 
+Date: 6/30/1963
+
+; Argentinos Juniors    ; 1-0; Vélez Sarsfield
+; Chacarita Juniors     ; 0-2; Atlanta
+; Estudiantes LP        ; 3-1; Boca Juniors
+; Independiente (A)     ; 3-0; Gimnasia y Esgrima LP
+; River Plate           ; 2-2; Banfield
+; Rosario Central       ; 0-0; Racing Club
+; San Lorenzo de Almagro; 3-1; Huracán (BA)
+
+Round: Round 10 
+Date: 7/14/1963
+
+; Atlanta               ; 4-2; Rosario Central
+; Banfield              ; 5-0; Argentinos Juniors
+; Boca Juniors          ; 3-2; Independiente (A)
+; Gimnasia y Esgrima LP ; 1-4; River Plate
+; Huracán (BA)          ; 4-2; Chacarita Juniors
+; Racing Club           ; 2-0; Estudiantes LP
+; Vélez Sarsfield       ; 2-2; San Lorenzo de Almagro
+
+Round: Round 11 
+Date: 7/21/1963
+
+; Argentinos Juniors    ; 1-1; Gimnasia y Esgrima LP
+; Chacarita Juniors     ; 1-0; Vélez Sarsfield
+; Estudiantes LP        ; 2-1; Atlanta
+; Racing Club           ; 2-0; Boca Juniors
+; River Plate           ; 0-0; Independiente (A)
+; Rosario Central       ; 0-0; Huracán (BA)
+; San Lorenzo de Almagro; 1-0; Banfield
+
+Round: Round 12 
+Date: 7/28/1963
+
+; Atlanta               ; 0-2; Racing Club
+; Banfield              ; 3-0; Chacarita Juniors
+; Boca Juniors          ; 2-0; River Plate
+; Gimnasia y Esgrima LP ; 0-1; San Lorenzo de Almagro
+; Huracán (BA)          ; 0-1; Estudiantes LP
+; Independiente (A)     ; 1-1; Argentinos Juniors
+; Vélez Sarsfield       ; 2-2; Rosario Central
+
+Round: Round 13 
+Date: 8/4/1963
+
+; Argentinos Juniors    ; 0-5; River Plate            ; Atlanta
+; Boca Juniors          ; 0-3; Atlanta
+; Chacarita Juniors     ; 1-1; Gimnasia y Esgrima LP
+; Estudiantes LP        ; 1-3; Vélez Sarsfield
+; Racing Club           ; 1-1; Huracán (BA)
+; Rosario Central       ; 2-0; Banfield
+; San Lorenzo de Almagro; 0-1; Independiente (A)
 
 Round: Round 14:
-[Aug 11]
-Rosario Central        3:2 Gimnasia y Esgrima LP
-[Aug 18]
-Atlanta                0:3 Huracán (BA)
-Boca Juniors           0:0 Argentinos Juniors
-Chacarita Juniors      2:2 Independiente (A)
-Estudiantes LP         1:1 Banfield
-Racing Club            2:1 Vélez Sarsfield
-San Lorenzo de Almagro 1:1 River Plate
+Date: 8/11/1963
 
-Round: Round 15 [Aug 25]:
-Argentinos Juniors     1:1 San Lorenzo de Almagro
-Banfield               3:0 Racing Club
-Gimnasia y Esgrima LP  5:2 Estudiantes LP
-Huracán (BA)           2:0 Boca Juniors
-Independiente (A)      0:1 Rosario Central
-River Plate            2:0 Chacarita Juniors
-Vélez Sarsfield        2:1 Atlanta
+; Rosario Central       ; 3-2; Gimnasia y Esgrima LP
 
-Round: Round 16 [Sep 1]:
-Atlanta                1:5 Banfield
-Boca Juniors           0:3 San Lorenzo de Almagro
-Chacarita Juniors      0:0 Argentinos Juniors
-Estudiantes LP         1:2 Independiente (A)
-Huracán (BA)           2:1 Vélez Sarsfield
-Racing Club            2:1 Gimnasia y Esgrima LP
-Rosario Central        1:0 River Plate
+Date: 8/18/1963
 
-Round: Round 17 [Sep 15]:
-Argentinos Juniors     1:1 Rosario Central
-Banfield               2:1 Huracán (BA)
-Gimnasia y Esgrima LP  2:0 Atlanta
-Independiente (A)      0:4 Racing Club
-River Plate            0:0 Estudiantes LP
-San Lorenzo de Almagro 2:0 Chacarita Juniors
-Vélez Sarsfield        0:1 Boca Juniors
+; Atlanta               ; 0-3; Huracán (BA)
+; Boca Juniors          ; 0-0; Argentinos Juniors
+; Chacarita Juniors     ; 2-2; Independiente (A)
+; Estudiantes LP        ; 1-1; Banfield
+; Racing Club           ; 2-1; Vélez Sarsfield
+; San Lorenzo de Almagro; 1-1; River Plate
 
-Round: Round 18 [Sep 22]:
-Atlanta                0:2 Independiente (A)
-Boca Juniors           2:1 Chacarita Juniors
-Estudiantes LP         3:1 Argentinos Juniors
-Huracán (BA)           0:1 Gimnasia y Esgrima LP
-Racing Club            1:2 River Plate
-Rosario Central        2:2 San Lorenzo de Almagro
-Vélez Sarsfield        1:1 Banfield
+Round: Round 15 
+Date: 8/25/1963
 
-Round: Round 19 [Sep 29]:
-Argentinos Juniors     1:1 Racing Club            [at Atlanta]
-Banfield               2:0 Boca Juniors
-Chacarita Juniors      1:1 Rosario Central
-Gimnasia y Esgrima LP  3:0 Vélez Sarsfield
-Independiente (A)      2:1 Huracán (BA)
-River Plate            2:2 Atlanta
-San Lorenzo de Almagro 2:0 Estudiantes LP
+; Argentinos Juniors    ; 1-1; San Lorenzo de Almagro
+; Banfield              ; 3-0; Racing Club
+; Gimnasia y Esgrima LP ; 5-2; Estudiantes LP
+; Huracán (BA)          ; 2-0; Boca Juniors
+; Independiente (A)     ; 0-1; Rosario Central
+; River Plate           ; 2-0; Chacarita Juniors
+; Vélez Sarsfield       ; 2-1; Atlanta
 
-Round: Round 20 [Oct 6]:
-Atlanta                3:2 Argentinos Juniors
-Banfield               1:2 Gimnasia y Esgrima LP
-Boca Juniors           1:0 Rosario Central
-Estudiantes LP         1:0 Chacarita Juniors
-Huracán (BA)           1:1 River Plate
-Racing Club            0:1 San Lorenzo de Almagro
-Vélez Sarsfield        1:3 Independiente (A)
+Round: Round 16 
+Date: 9/1/1963
 
-Round: Round 21 [Oct 20]:
-Argentinos Juniors     2:0 Huracán (BA)
-Chacarita Juniors      2:1 Racing Club
-Gimnasia y Esgrima LP  0:3 Boca Juniors
-Independiente (A)      1:0 Banfield
-River Plate            0:0 Vélez Sarsfield
-Rosario Central        3:1 Estudiantes LP
-San Lorenzo de Almagro 0:2 Atlanta
+; Atlanta               ; 1-5; Banfield
+; Boca Juniors          ; 0-3; San Lorenzo de Almagro
+; Chacarita Juniors     ; 0-0; Argentinos Juniors
+; Estudiantes LP        ; 1-2; Independiente (A)
+; Huracán (BA)          ; 2-1; Vélez Sarsfield
+; Racing Club           ; 2-1; Gimnasia y Esgrima LP
+; Rosario Central       ; 1-0; River Plate
 
-Round: Round 22 [Oct 27]:
-Atlanta                0:0 Chacarita Juniors
-Banfield               0:1 River Plate
-Boca Juniors           2:1 Estudiantes LP
-Gimnasia y Esgrima LP  1:1 Independiente (A)
-Huracán (BA)           0:0 San Lorenzo de Almagro
-Racing Club            4:2 Rosario Central
-Vélez Sarsfield        1:1 Argentinos Juniors
+Round: Round 17 
+Date: 9/15/1963
 
-Round: Round 23 [Nov 3]:
-Argentinos Juniors     0:0 Banfield
-Chacarita Juniors      1:4 Huracán (BA)
-Estudiantes LP         1:3 Racing Club
-Independiente (A)      1:1 Boca Juniors
-River Plate            3:0 Gimnasia y Esgrima LP
-Rosario Central        0:1 Atlanta
-San Lorenzo de Almagro 3:0 Vélez Sarsfield
+; Argentinos Juniors    ; 1-1; Rosario Central
+; Banfield              ; 2-1; Huracán (BA)
+; Gimnasia y Esgrima LP ; 2-0; Atlanta
+; Independiente (A)     ; 0-4; Racing Club
+; River Plate           ; 0-0; Estudiantes LP
+; San Lorenzo de Almagro; 2-0; Chacarita Juniors
+; Vélez Sarsfield       ; 0-1; Boca Juniors
 
-Round: Round 24 [Nov 10]:
-Atlanta                2:1 Estudiantes LP
-Banfield               2:2 San Lorenzo de Almagro
-Boca Juniors           1:1 Racing Club
-Gimnasia y Esgrima LP  3:2 Argentinos Juniors
-Huracán (BA)           3:1 Rosario Central
-Independiente (A)      2:1 River Plate
-Vélez Sarsfield        2:1 Chacarita Juniors
+Round: Round 18 
+Date: 9/22/1963
 
-Round: Round 25 [Nov 17]:
-Argentinos Juniors     0:3 Independiente (A)      [at Atlanta]
-Chacarita Juniors      0:0 Banfield
-Estudiantes LP         1:1 Huracán (BA)
-Racing Club            1:1 Atlanta
-River Plate            0:1 Boca Juniors
-Rosario Central        3:3 Vélez Sarsfield
-San Lorenzo de Almagro 1:2 Gimnasia y Esgrima LP
+; Atlanta               ; 0-2; Independiente (A)
+; Boca Juniors          ; 2-1; Chacarita Juniors
+; Estudiantes LP        ; 3-1; Argentinos Juniors
+; Huracán (BA)          ; 0-1; Gimnasia y Esgrima LP
+; Racing Club           ; 1-2; River Plate
+; Rosario Central       ; 2-2; San Lorenzo de Almagro
+; Vélez Sarsfield       ; 1-1; Banfield
+
+Round: Round 19 
+Date: 9/29/1963
+
+; Argentinos Juniors    ; 1-1; Racing Club            ; Atlanta
+; Banfield              ; 2-0; Boca Juniors
+; Chacarita Juniors     ; 1-1; Rosario Central
+; Gimnasia y Esgrima LP ; 3-0; Vélez Sarsfield
+; Independiente (A)     ; 2-1; Huracán (BA)
+; River Plate           ; 2-2; Atlanta
+; San Lorenzo de Almagro; 2-0; Estudiantes LP
+
+Round: Round 20 
+Date: 10/6/1963
+
+; Atlanta               ; 3-2; Argentinos Juniors
+; Banfield              ; 1-2; Gimnasia y Esgrima LP
+; Boca Juniors          ; 1-0; Rosario Central
+; Estudiantes LP        ; 1-0; Chacarita Juniors
+; Huracán (BA)          ; 1-1; River Plate
+; Racing Club           ; 0-1; San Lorenzo de Almagro
+; Vélez Sarsfield       ; 1-3; Independiente (A)
+
+Round: Round 21 
+Date: 10/20/1963
+
+; Argentinos Juniors    ; 2-0; Huracán (BA)
+; Chacarita Juniors     ; 2-1; Racing Club
+; Gimnasia y Esgrima LP ; 0-3; Boca Juniors
+; Independiente (A)     ; 1-0; Banfield
+; River Plate           ; 0-0; Vélez Sarsfield
+; Rosario Central       ; 3-1; Estudiantes LP
+; San Lorenzo de Almagro; 0-2; Atlanta
+
+Round: Round 22 
+Date: 10/27/1963
+
+; Atlanta               ; 0-0; Chacarita Juniors
+; Banfield              ; 0-1; River Plate
+; Boca Juniors          ; 2-1; Estudiantes LP
+; Gimnasia y Esgrima LP ; 1-1; Independiente (A)
+; Huracán (BA)          ; 0-0; San Lorenzo de Almagro
+; Racing Club           ; 4-2; Rosario Central
+; Vélez Sarsfield       ; 1-1; Argentinos Juniors
+
+Round: Round 23 
+Date: 11/3/1963
+
+; Argentinos Juniors    ; 0-0; Banfield
+; Chacarita Juniors     ; 1-4; Huracán (BA)
+; Estudiantes LP        ; 1-3; Racing Club
+; Independiente (A)     ; 1-1; Boca Juniors
+; River Plate           ; 3-0; Gimnasia y Esgrima LP
+; Rosario Central       ; 0-1; Atlanta
+; San Lorenzo de Almagro; 3-0; Vélez Sarsfield
+
+Round: Round 24 
+Date: 11/10/1963
+
+; Atlanta               ; 2-1; Estudiantes LP
+; Banfield              ; 2-2; San Lorenzo de Almagro
+; Boca Juniors          ; 1-1; Racing Club
+; Gimnasia y Esgrima LP ; 3-2; Argentinos Juniors
+; Huracán (BA)          ; 3-1; Rosario Central
+; Independiente (A)     ; 2-1; River Plate
+; Vélez Sarsfield       ; 2-1; Chacarita Juniors
+
+Round: Round 25 
+Date: 11/17/1963
+
+; Argentinos Juniors    ; 0-3; Independiente (A)      ; Atlanta
+; Chacarita Juniors     ; 0-0; Banfield
+; Estudiantes LP        ; 1-1; Huracán (BA)
+; Racing Club           ; 1-1; Atlanta
+; River Plate           ; 0-1; Boca Juniors
+; Rosario Central       ; 3-3; Vélez Sarsfield
+; San Lorenzo de Almagro; 1-2; Gimnasia y Esgrima LP
 
 Round: Round 26:
-[Nov 20]
-Huracán (BA)           3:1 Racing Club
-[Nov 24]
-Atlanta                0:1 Boca Juniors
-Banfield               3:0 Rosario Central
-Gimnasia y Esgrima LP  2:2 Chacarita Juniors
-Independiente (A)      9:1 San Lorenzo de Almagro
-  [Savoy 30, 44 pen, 74, 86, Bernao 64, 83, Vázquez 75, Rodríguez 80, Rossi 88 og;
-   Veira 20]
-River Plate            3:2 Argentinos Juniors
-Vélez Sarsfield        1:2 Estudiantes LP
 
-Independiente (Avellaneda) won the championship in this round with the following
-line-ups:
+Date: 11/20/1963
 
-Independiente (A)          Osvaldo Raúl Toriani; Rubén Marino Navarro, Tomás Rolan;
-                           Roberto Ocar Ferreiro, José Andrés Paflik, Jorge Alberto
-                           Maldonado; Raúl Emilio Bernao, Osvaldo Luis Mura, Jorge Abel
-                           Vázquez, Mario Rodríguez, Raúl Armando Savoy.
+; Huracán (BA)          ; 3-1; Racing Club
 
-San Lorenzo de Almagro     Agustín Enrique Irusta; Alberto Jorge Mariotti, Silvio Ramón
-                           Ruiz; Raúl Alberto Páez, Roberto Telch (48 injured), Rafael
-                           José Albretch (45 sent out); Héctor Osvaldo Facundo, Oscar
-                           Pablo Rossi, Eladio Zárate, Héctor Rodolfo Veira (25
-                           injured), Victorio Francisco Casa.
+Date: 11/24/1963
 
-Referee:                   Manuel Velarde.
+; Atlanta               ; 0-1; Boca Juniors
+; Banfield              ; 3-0; Rosario Central
+; Gimnasia y Esgrima LP ; 2-2; Chacarita Juniors
+; Independiente (A)     ; 9-1; San Lorenzo de Almagro; ; Manuel Velarde; 32000
+Savoy 30, Savoy (pk) 44, Savoy 74, Savoy 86, Bernao 64, Bernao 83, Vázquez 75, Rodríguez 80, Rossi (og) 88; Veira 20
+Independiente (A):          Osvaldo Raúl Toriani; Rubén Marino Navarro, Tomás Rolan; Roberto Ocar Ferreiro, José Andrés Paflik, Jorge Alberto Maldonado; Raúl Emilio Bernao, Osvaldo Luis Mura, Jorge Abel Vázquez, Mario Rodríguez, Raúl Armando Savoy.
+San Lorenzo de Almagro:     Agustín Enrique Irusta; Alberto Jorge Mariotti, Silvio Ramón Ruiz; Raúl Alberto Páez, Roberto Telch (48 injured), Rafael José Albretch (45 sent out); Héctor Osvaldo Facundo, Oscar Pablo Rossi, Eladio Zárate, Héctor Rodolfo Veira (25 injured), Victorio Francisco Casa.
+Notes: Independiente (Avellaneda) won the championship in this round
 
-Att.:                      32,000.- (tickets).
+; River Plate           ; 3-2; Argentinos Juniors
+; Vélez Sarsfield       ; 1-2; Estudiantes LP
 
 * 1. Independiente (A)       26   14    9    3    53    25   37 Champion
 * 2. River Plate             26   13    9    4    48    23   35

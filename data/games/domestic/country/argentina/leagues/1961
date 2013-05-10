@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesa/arg61.html
-
-Argentina - Domestic Championship 1961
+Season: 1961
+Competition: Liga Argentina de Football
 
 * 1. Racing Club              30   19    9    2    68    39   47 Champion
 * 2. San Lorenzo de Almagro   30   16    8    6    56    35   40
@@ -19,335 +19,394 @@ Argentina - Domestic Championship 1961
 *15. Ferro Carril Oeste (BUE) 30    8    5   17    38    55   21
 *16. Los Andes (LdZ)          30   10    1   19    38    65   21 Relegated
 
-Round: Round 1 [Apr 16]:
-Atlanta                  2:0 Chacarita Juniors
-Gimnasia y Esgrima LPG   7:1 Ferro Carril Oeste (BUE)
-Los Andes (LdZ)          0:3 Independiente (Ave)      [at Quilmes]
-Racing Club              3:2 Argentinos Juniors
-River Plate              5:2 Lanús
-Rosario Central          0:0 Boca Juniors
-San Lorenzo de Almagro   5:2 Huracán (BUE)
-Vélez Sarsfield          0:0 Estudiantes LPG
+Round: Round 1 
+Date: 4/16/1961
 
-Round: Round 2 [Apr 23]:
-Argentinos Juniors       1:1 Gimnasia y Esgrima LPG
-Boca Juniors             0:1 Racing Club
-Chacarita Juniors        0:3 River Plate
-Estudiantes LPG          0:0 Atlanta
-Ferro Carril Oeste (BUE) 0:0 San Lorenzo de Almagro
-Huracán (BUE)            2:2 Vélez Sarsfield
-Independiente (Ave)      3:3 Lanús                    [at Racing Club]
-Los Andes (LdZ)          0:0 Rosario Central          [at Quilmes]
+; Atlanta                 ; 2-0; Chacarita Juniors
+; Gimnasia y Esgrima LPG  ; 7-1; Ferro Carril Oeste (BUE)
+; Los Andes (LdZ)         ; 0-3; Independiente (Ave)      ; Quilmes
+; Racing Club             ; 3-2; Argentinos Juniors
+; River Plate             ; 5-2; Lanús
+; Rosario Central         ; 0-0; Boca Juniors
+; San Lorenzo de Almagro  ; 5-2; Huracán (BUE)
+; Vélez Sarsfield         ; 0-0; Estudiantes LPG
 
-Round: Round 3 [Apr 30]:
-Atlanta                  4:2 Huracán (BUE)
-Gimnasia y Esgrima LPG   1:3 Boca Juniors
-Lanús                    0:0 Chacarita Juniors
-Racing Club              3:0 Los Andes (LdZ)
-River Plate              2:0 Estudiantes LPG
-Rosario Central          1:1 Independiente (Ave)
-San Lorenzo de Almagro   1:4 Argentinos Juniors
-Vélez Sarsfield          2:2 Ferro Carril Oeste (BUE)
+Round: Round 2 
+Date: 4/23/1961
 
-Round: Round 4 [May 7]:
-Argentinos Juniors       2:5 Rosario Central
-Boca Juniors             0:1 Los Andes (LdZ)
-Chacarita Juniors        2:3 Vélez Sarsfield
-Estudiantes LPG          1:1 San Lorenzo de Almagro
-Ferro Carril Oeste (BUE) 1:3 Racing Club
-Huracán (BUE)            0:3 Gimnasia y Esgrima LPG
-Independiente (Ave)      1:1 River Plate              [at Racing Club]
-Lanús                    0:1 Atlanta
+; Argentinos Juniors      ; 1-1; Gimnasia y Esgrima LPG
+; Boca Juniors            ; 0-1; Racing Club
+; Chacarita Juniors       ; 0-3; River Plate
+; Estudiantes LPG         ; 0-0; Atlanta
+; Ferro Carril Oeste (BUE); 0-0; San Lorenzo de Almagro
+; Huracán (BUE)           ; 2-2; Vélez Sarsfield
+; Independiente (Ave)     ; 3-3; Lanús                    ; Racing Club
+; Los Andes (LdZ)         ; 0-0; Rosario Central          ; Quilmes
 
-Round: Round 5 [May 14]:
-Atlanta                  1:1 River Plate
-Boca Juniors             2:0 Independiente (Ave)
-Gimnasia y Esgrima LPG   1:1 Estudiantes LPG
-Los Andes (LdZ)          3:0 Argentinos Juniors       [at Banfield]
-Racing Club              2:0 Huracán (BUE)
-Rosario Central          3:1 Ferro Carril Oeste (BUE)
-San Lorenzo de Almagro   1:0 Chacarita Juniors
-Vélez Sarsfield          3:1 Lanús
+Round: Round 3 
+Date: 4/30/1961
 
-Round: Round 6 [May 21]:
-Argentinos Juniors       0:3 Boca Juniors             [at Atlanta]
-Chacarita Juniors        5:1 Gimnasia y Esgrima LPG
-Estudiantes LPG          1:1 Racing Club
-Ferro Carril Oeste (BUE) 6:2 Los Andes (LdZ)
-Huracán (BUE)            2:2 Rosario Central
-Independiente (Ave)      0:0 Atlanta                  [at Racing Club]
-Lanús                    2:2 San Lorenzo de Almagro
-River Plate              1:0 Vélez Sarsfield
+; Atlanta                 ; 4-2; Huracán (BUE)
+; Gimnasia y Esgrima LPG  ; 1-3; Boca Juniors
+; Lanús                   ; 0-0; Chacarita Juniors
+; Racing Club             ; 3-0; Los Andes (LdZ)
+; River Plate             ; 2-0; Estudiantes LPG
+; Rosario Central         ; 1-1; Independiente (Ave)
+; San Lorenzo de Almagro  ; 1-4; Argentinos Juniors
+; Vélez Sarsfield         ; 2-2; Ferro Carril Oeste (BUE)
 
-Round: Round 7 [May 28]:
-Argentinos Juniors       0:1 Independiente (Ave)
-Boca Juniors             4:0 Ferro Carril Oeste (BUE)
-Gimnasia y Esgrima LPG   2:0 Lanús
-Los Andes (LdZ)          1:0 Huracán (BUE)            [at Banfield]
-Racing Club              7:2 Chacarita Juniors
-Rosario Central          0:0 Estudiantes LPG
-San Lorenzo de Almagro   1:3 River Plate
-Vélez Sarsfield          1:3 Atlanta
+Round: Round 4 
+Date: 5/7/1961
 
-Round: Round 8 [Jul 8]:
-Atlanta                  1:2 San Lorenzo de Almagro
-Chacarita Juniors        2:1 Rosario Central
-Estudiantes LPG          3:0 Los Andes (LdZ)
-Ferro Carril Oeste (BUE) 0:1 Argentinos Juniors
-Huracán (BUE)            2:0 Boca Juniors
-Independiente (Ave)      0:1 Vélez Sarsfield          [at Racing Club]
-Lanús                    1:4 Racing Club
-River Plate              0:1 Gimnasia y Esgrima LPG
+; Argentinos Juniors      ; 2-5; Rosario Central
+; Boca Juniors            ; 0-1; Los Andes (LdZ)
+; Chacarita Juniors       ; 2-3; Vélez Sarsfield
+; Estudiantes LPG         ; 1-1; San Lorenzo de Almagro
+; Ferro Carril Oeste (BUE); 1-3; Racing Club
+; Huracán (BUE)           ; 0-3; Gimnasia y Esgrima LPG
+; Independiente (Ave)     ; 1-1; River Plate              ; Racing Club
+; Lanús                   ; 0-1; Atlanta
 
-Round: Round 9 [Jul 16]:
-Argentinos Juniors       2:1 Huracán (BUE)
-Boca Juniors             4:0 Estudiantes LPG
-Ferro Carril Oeste (BUE) 2:1 Independiente (Ave)
-Gimnasia y Esgrima LPG   2:0 Atlanta
-Los Andes (LdZ)          1:4 Chacarita Juniors        [at Banfield]
-Racing Club              2:1 River Plate
-Rosario Central          1:1 Lanús
-San Lorenzo de Almagro   3:1 Vélez Sarsfield
+Round: Round 5 
+Date: 5/14/1961
 
-Round: Round 10 [Jul 23]:
-Atlanta                  1:1 Racing Club
-Chacarita Juniors        0:1 Boca Juniors
-Estudiantes LPG          1:3 Argentinos Juniors
-Huracán (BUE)            4:1 Ferro Carril Oeste (BUE)
-Independiente (Ave)      0:0 San Lorenzo de Almagro   [at Racing Club]
-Lanús                    1:2 Los Andes (LdZ)
-River Plate              4:2 Rosario Central
-Vélez Sarsfield          1:1 Gimnasia y Esgrima LPG
+; Atlanta                 ; 1-1; River Plate
+; Boca Juniors            ; 2-0; Independiente (Ave)
+; Gimnasia y Esgrima LPG  ; 1-1; Estudiantes LPG
+; Los Andes (LdZ)         ; 3-0; Argentinos Juniors       ; Banfield
+; Racing Club             ; 2-0; Huracán (BUE)
+; Rosario Central         ; 3-1; Ferro Carril Oeste (BUE)
+; San Lorenzo de Almagro  ; 1-0; Chacarita Juniors
+; Vélez Sarsfield         ; 3-1; Lanús
 
-Round: Round 11 [Jul 30]:
-Argentinos Juniors       0:1 Chacarita Juniors
-Boca Juniors             2:2 Lanús
-Ferro Carril Oeste (BUE) 3:1 Estudiantes LPG
-Gimnasia y Esgrima LPG   0:2 San Lorenzo de Almagro
-Huracán (BUE)            0:2 Independiente (Ave)
-Los Andes (LdZ)          0:2 River Plate              [at Banfield]
-Racing Club              1:1 Vélez Sarsfield
-Rosario Central          1:3 Atlanta
+Round: Round 6 
+Date: 5/21/1961
 
-Round: Round 12 [Aug 6]:
-Atlanta                  4:0 Los Andes (LdZ)
-Chacarita Juniors        1:0 Ferro Carril Oeste (BUE)
-Estudiantes LPG          0:4 Huracán (BUE)
-Independiente (Ave)      2:0 Gimnasia y Esgrima LPG   [at Racing Club]
-Lanús                    1:0 Argentinos Juniors
-River Plate              2:2 Boca Juniors
-San Lorenzo de Almagro   2:2 Racing Club
-Vélez Sarsfield          2:2 Rosario Central
+; Argentinos Juniors      ; 0-3; Boca Juniors             ; Atlanta
+; Chacarita Juniors       ; 5-1; Gimnasia y Esgrima LPG
+; Estudiantes LPG         ; 1-1; Racing Club
+; Ferro Carril Oeste (BUE); 6-2; Los Andes (LdZ)
+; Huracán (BUE)           ; 2-2; Rosario Central
+; Independiente (Ave)     ; 0-0; Atlanta                  ; Racing Club
+; Lanús                   ; 2-2; San Lorenzo de Almagro
+; River Plate             ; 1-0; Vélez Sarsfield
 
-Round: Round 13 [Aug 13]:
-Argentinos Juniors       1:1 River Plate              [at Atlanta]
-Boca Juniors             2:3 Atlanta
-Estudiantes LPG          3:3 Independiente (Ave)
-Ferro Carril Oeste (BUE) 0:1 Lanús
-Huracán (BUE)            2:2 Chacarita Juniors
-Los Andes (LdZ)          0:1 Vélez Sarsfield          [at Banfield]
-Racing Club              1:0 Gimnasia y Esgrima LPG
-Rosario Central          4:0 San Lorenzo de Almagro
+Round: Round 7 
+Date: 5/28/1961
 
-Round: Round 14 [Aug 20]:
-Atlanta                  1:2 Argentinos Juniors
-Chacarita Juniors        1:1 Estudiantes LPG
-Gimnasia y Esgrima LPG   2:1 Rosario Central
-Independiente (Ave)      4:0 Racing Club
-Lanús                    2:1 Huracán (BUE)
-River Plate              1:0 Ferro Carril Oeste (BUE)
-San Lorenzo de Almagro   2:1 Los Andes (LdZ)
-Vélez Sarsfield          1:1 Boca Juniors
+; Argentinos Juniors      ; 0-1; Independiente (Ave)
+; Boca Juniors            ; 4-0; Ferro Carril Oeste (BUE)
+; Gimnasia y Esgrima LPG  ; 2-0; Lanús
+; Los Andes (LdZ)         ; 1-0; Huracán (BUE)            ; Banfield
+; Racing Club             ; 7-2; Chacarita Juniors
+; Rosario Central         ; 0-0; Estudiantes LPG
+; San Lorenzo de Almagro  ; 1-3; River Plate
+; Vélez Sarsfield         ; 1-3; Atlanta
+
+Round: Round 8 
+Date: 6/8/1961
+
+; Atlanta                 ; 1-2; San Lorenzo de Almagro
+; Chacarita Juniors       ; 2-1; Rosario Central
+; Estudiantes LPG         ; 3-0; Los Andes (LdZ)
+; Ferro Carril Oeste (BUE); 0-1; Argentinos Juniors
+; Huracán (BUE)           ; 2-0; Boca Juniors
+; Independiente (Ave)     ; 0-1; Vélez Sarsfield          ; Racing Club
+; Lanús                   ; 1-4; Racing Club
+; River Plate             ; 0-1; Gimnasia y Esgrima LPG
+
+Round: Round 9 
+Date: 7/16/1961
+
+; Argentinos Juniors      ; 2-1; Huracán (BUE)
+; Boca Juniors            ; 4-0; Estudiantes LPG
+; Ferro Carril Oeste (BUE); 2-1; Independiente (Ave)
+; Gimnasia y Esgrima LPG  ; 2-0; Atlanta
+; Los Andes (LdZ)         ; 1-4; Chacarita Juniors        ; Banfield
+; Racing Club             ; 2-1; River Plate
+; Rosario Central         ; 1-1; Lanús
+; San Lorenzo de Almagro  ; 3-1; Vélez Sarsfield
+
+Round: Round 10 
+Date: 7/23/1961
+
+; Atlanta                 ; 1-1; Racing Club
+; Chacarita Juniors       ; 0-1; Boca Juniors
+; Estudiantes LPG         ; 1-3; Argentinos Juniors
+; Huracán (BUE)           ; 4-1; Ferro Carril Oeste (BUE)
+; Independiente (Ave)     ; 0-0; San Lorenzo de Almagro   ; Racing Club
+; Lanús                   ; 1-2; Los Andes (LdZ)
+; River Plate             ; 4-2; Rosario Central
+; Vélez Sarsfield         ; 1-1; Gimnasia y Esgrima LPG
+
+Round: Round 11 
+Date: 7/30/1961
+
+; Argentinos Juniors      ; 0-1; Chacarita Juniors
+; Boca Juniors            ; 2-2; Lanús
+; Ferro Carril Oeste (BUE); 3-1; Estudiantes LPG
+; Gimnasia y Esgrima LPG  ; 0-2; San Lorenzo de Almagro
+; Huracán (BUE)           ; 0-2; Independiente (Ave)
+; Los Andes (LdZ)         ; 0-2; River Plate              ; Banfield
+; Racing Club             ; 1-1; Vélez Sarsfield
+; Rosario Central         ; 1-3; Atlanta
+
+Round: Round 12 
+Date: 8/6/1961
+
+; Atlanta                 ; 4-0; Los Andes (LdZ)
+; Chacarita Juniors       ; 1-0; Ferro Carril Oeste (BUE)
+; Estudiantes LPG         ; 0-4; Huracán (BUE)
+; Independiente (Ave)     ; 2-0; Gimnasia y Esgrima LPG   ; Racing Club
+; Lanús                   ; 1-0; Argentinos Juniors
+; River Plate             ; 2-2; Boca Juniors
+; San Lorenzo de Almagro  ; 2-2; Racing Club
+; Vélez Sarsfield         ; 2-2; Rosario Central
+
+Round: Round 13 
+Date: 8/13/1961
+
+; Argentinos Juniors      ; 1-1; River Plate              ; Atlanta
+; Boca Juniors            ; 2-3; Atlanta
+; Estudiantes LPG         ; 3-3; Independiente (Ave)
+; Ferro Carril Oeste (BUE); 0-1; Lanús
+; Huracán (BUE)           ; 2-2; Chacarita Juniors
+; Los Andes (LdZ)         ; 0-1; Vélez Sarsfield          ; Banfield
+; Racing Club             ; 1-0; Gimnasia y Esgrima LPG
+; Rosario Central         ; 4-0; San Lorenzo de Almagro
+
+Round: Round 14 
+Date: 8/20/1961
+
+; Atlanta                 ; 1-2; Argentinos Juniors
+; Chacarita Juniors       ; 1-1; Estudiantes LPG
+; Gimnasia y Esgrima LPG  ; 2-1; Rosario Central
+; Independiente (Ave)     ; 4-0; Racing Club
+; Lanús                   ; 2-1; Huracán (BUE)
+; River Plate             ; 1-0; Ferro Carril Oeste (BUE)
+; San Lorenzo de Almagro  ; 2-1; Los Andes (LdZ)
+; Vélez Sarsfield         ; 1-1; Boca Juniors
 
 Round: Round 15:
-[Aug 15]
-Huracán (BUE)            0:0 River Plate
-[Aug 27]
-Argentinos Juniors       1:1 Vélez Sarsfield
-Boca Juniors             1:0 San Lorenzo de Almagro
-Estudiantes LPG          0:0 Lanús
-Ferro Carril Oeste (BUE) 1:4 Atlanta
-Independiente (Ave)      1:0 Chacarita Juniors
-Los Andes (LdZ)          2:1 Gimnasia y Esgrima LPG   [at Banfield]
-Rosario Central          3:3 Racing Club
+Date: 8/15/1961
 
-Round: Round 16 [Sep 3]:
-Argentinos Juniors       0:3 San Lorenzo de Almagro
-Boca Juniors             0:2 Gimnasia y Esgrima LPG
-Chacarita Juniors        3:2 Lanús
-Estudiantes LPG          1:4 River Plate
-Ferro Carril Oeste (BUE) 1:1 Vélez Sarsfield
-Huracán (BUE)            1:1 Atlanta
-Independiente (Ave)      3:2 Rosario Central
-Los Andes (LdZ)          0:3 Racing Club              [at Banfield]
+; Huracán (BUE)           ; 0-0; River Plate
 
-Round: Round 17 [Sep 10]:
-Atlanta                  1:1 Estudiantes LPG
-Gimnasia y Esgrima LPG   3:1 Argentinos Juniors
-Lanús                    0:0 Independiente (Ave)
-Racing Club              3:1 Boca Juniors
-River Plate              0:2 Chacarita Juniors
-Rosario Central          4:3 Los Andes (LdZ)
-San Lorenzo de Almagro   2:1 Ferro Carril Oeste (BUE)
-Vélez Sarsfield          0:1 Huracán (BUE)
+Date: 8/27/1961
 
-Round: Round 18 [Sep 17]:
-Argentinos Juniors       0:1 Racing Club              [at Atlanta]
-Boca Juniors             5:1 Rosario Central
-Chacarita Juniors        1:0 Atlanta
-Estudiantes LPG          0:1 Vélez Sarsfield
-Ferro Carril Oeste (BUE) 3:0 Gimnasia y Esgrima LPG
-Huracán (BUE)            0:0 San Lorenzo de Almagro
-Independiente (Ave)      2:1 Los Andes (LdZ)
-Lanús                    1:1 River Plate
+; Argentinos Juniors      ; 1-1; Vélez Sarsfield
+; Boca Juniors            ; 1-0; San Lorenzo de Almagro
+; Estudiantes LPG         ; 0-0; Lanús
+; Ferro Carril Oeste (BUE); 1-4; Atlanta
+; Independiente (Ave)     ; 1-0; Chacarita Juniors
+; Los Andes (LdZ)         ; 2-1; Gimnasia y Esgrima LPG   ; Banfield
+; Rosario Central         ; 3-3; Racing Club
 
-Round: Round 19 [Sep 24]:
-Atlanta                  3:2 Lanús
-Gimnasia y Esgrima LPG   3:3 Huracán (BUE)
-Los Andes (LdZ)          0:2 Boca Juniors             [at Banfield]
-Racing Club              3:2 Ferro Carril Oeste (BUE)
-River Plate              3:0 Independiente (Ave)
-Rosario Central          0:2 Argentinos Juniors
-San Lorenzo de Almagro   3:0 Estudiantes LPG
-Vélez Sarsfield          3:0 Chacarita Juniors
+Round: Round 16 
+Date: 9/3/1961
 
-Round: Round 20 [Oct 1]:
-Argentinos Juniors       2:1 Los Andes (LdZ)
-Chacarita Juniors        1:1 San Lorenzo de Almagro
-Estudiantes LPG          2:1 Gimnasia y Esgrima LPG
-Ferro Carril Oeste (BUE) 1:0 Rosario Central
-Huracán (BUE)            1:1 Racing Club
-Independiente (Ave)      0:2 Boca Juniors
-Lanús                    1:0 Vélez Sarsfield
-River Plate              1:1 Atlanta
+; Argentinos Juniors      ; 0-3; San Lorenzo de Almagro
+; Boca Juniors            ; 0-2; Gimnasia y Esgrima LPG
+; Chacarita Juniors       ; 3-2; Lanús
+; Estudiantes LPG         ; 1-4; River Plate
+; Ferro Carril Oeste (BUE); 1-1; Vélez Sarsfield
+; Huracán (BUE)           ; 1-1; Atlanta
+; Independiente (Ave)     ; 3-2; Rosario Central
+; Los Andes (LdZ)         ; 0-3; Racing Club              ; Banfield
 
-Round: Round 21 [Oct 8]:
-Atlanta                  4:2 Independiente (Ave)
-Boca Juniors             1:3 Argentinos Juniors
-Gimnasia y Esgrima LPG   3:5 Chacarita Juniors
-Los Andes (LdZ)          3:0 Ferro Carril Oeste (BUE) [at Quilmes]
-Racing Club              2:1 Estudiantes LPG
-Rosario Central          0:3 Huracán (BUE)
-San Lorenzo de Almagro   3:0 Lanús
-Vélez Sarsfield          2:1 River Plate
+Round: Round 17 
+Date: 9/10/1961
 
-Round: Round 22 [Oct 15]:
-Atlanta                  2:2 Vélez Sarsfield
-Chacarita Juniors        1:1 Racing Club
-Estudiantes LPG          2:2 Rosario Central
-Ferro Carril Oeste (BUE) 1:2 Boca Juniors
-Huracán (BUE)            1:3 Los Andes (LdZ)
-Independiente (Ave)      5:2 Argentinos Juniors
-Lanús                    3:1 Gimnasia y Esgrima LPG
-River Plate              0:1 San Lorenzo de Almagro
+; Atlanta                 ; 1-1; Estudiantes LPG
+; Gimnasia y Esgrima LPG  ; 3-1; Argentinos Juniors
+; Lanús                   ; 0-0; Independiente (Ave)
+; Racing Club             ; 3-1; Boca Juniors
+; River Plate             ; 0-2; Chacarita Juniors
+; Rosario Central         ; 4-3; Los Andes (LdZ)
+; San Lorenzo de Almagro  ; 2-1; Ferro Carril Oeste (BUE)
+; Vélez Sarsfield         ; 0-1; Huracán (BUE)
 
-Round: Round 23 [Oct 22]:
-Argentinos Juniors       1:3 Ferro Carril Oeste (BUE)
-Boca Juniors             1:1 Huracán (BUE)
-Gimnasia y Esgrima LPG   0:2 River Plate
-Los Andes (LdZ)          0:3 Estudiantes LPG          [at Quilmes]
-Racing Club              5:0 Lanús
-Rosario Central          5:1 Chacarita Juniors
-San Lorenzo de Almagro   0:0 Atlanta
-Vélez Sarsfield          3:1 Independiente (Ave)
+Round: Round 18 
+Date: 9/17/1961
+
+; Argentinos Juniors      ; 0-1; Racing Club              ; Atlanta
+; Boca Juniors            ; 5-1; Rosario Central
+; Chacarita Juniors       ; 1-0; Atlanta
+; Estudiantes LPG         ; 0-1; Vélez Sarsfield
+; Ferro Carril Oeste (BUE); 3-0; Gimnasia y Esgrima LPG
+; Huracán (BUE)           ; 0-0; San Lorenzo de Almagro
+; Independiente (Ave)     ; 2-1; Los Andes (LdZ)
+; Lanús                   ; 1-1; River Plate
+
+Round: Round 19 
+Date: 9/24/1961
+
+; Atlanta                 ; 3-2; Lanús
+; Gimnasia y Esgrima LPG  ; 3-3; Huracán (BUE)
+; Los Andes (LdZ)         ; 0-2; Boca Juniors             ; Banfield
+; Racing Club             ; 3-2; Ferro Carril Oeste (BUE)
+; River Plate             ; 3-0; Independiente (Ave)
+; Rosario Central         ; 0-2; Argentinos Juniors
+; San Lorenzo de Almagro  ; 3-0; Estudiantes LPG
+; Vélez Sarsfield         ; 3-0; Chacarita Juniors
+
+Round: Round 20 
+Date: 10/1/1961
+
+; Argentinos Juniors      ; 2-1; Los Andes (LdZ)
+; Chacarita Juniors       ; 1-1; San Lorenzo de Almagro
+; Estudiantes LPG         ; 2-1; Gimnasia y Esgrima LPG
+; Ferro Carril Oeste (BUE); 1-0; Rosario Central
+; Huracán (BUE)           ; 1-1; Racing Club
+; Independiente (Ave)     ; 0-2; Boca Juniors
+; Lanús                   ; 1-0; Vélez Sarsfield
+; River Plate             ; 1-1; Atlanta
+
+Round: Round 21 
+Date: 10/8/1961
+
+; Atlanta                 ; 4-2; Independiente (Ave)
+; Boca Juniors            ; 1-3; Argentinos Juniors
+; Gimnasia y Esgrima LPG  ; 3-5; Chacarita Juniors
+; Los Andes (LdZ)         ; 3-0; Ferro Carril Oeste (BUE) ; Quilmes
+; Racing Club             ; 2-1; Estudiantes LPG
+; Rosario Central         ; 0-3; Huracán (BUE)
+; San Lorenzo de Almagro  ; 3-0; Lanús
+; Vélez Sarsfield         ; 2-1; River Plate
+
+Round: Round 22 
+Date: 10/15/1961
+
+; Atlanta                 ; 2-2; Vélez Sarsfield
+; Chacarita Juniors       ; 1-1; Racing Club
+; Estudiantes LPG         ; 2-2; Rosario Central
+; Ferro Carril Oeste (BUE); 1-2; Boca Juniors
+; Huracán (BUE)           ; 1-3; Los Andes (LdZ)
+; Independiente (Ave)     ; 5-2; Argentinos Juniors
+; Lanús                   ; 3-1; Gimnasia y Esgrima LPG
+; River Plate             ; 0-1; San Lorenzo de Almagro
+
+Round: Round 23 
+Date: 10/22/1961
+
+; Argentinos Juniors      ; 1-3; Ferro Carril Oeste (BUE)
+; Boca Juniors            ; 1-1; Huracán (BUE)
+; Gimnasia y Esgrima LPG  ; 0-2; River Plate
+; Los Andes (LdZ)         ; 0-3; Estudiantes LPG          ; Quilmes
+; Racing Club             ; 5-0; Lanús
+; Rosario Central         ; 5-1; Chacarita Juniors
+; San Lorenzo de Almagro  ; 0-0; Atlanta
+; Vélez Sarsfield         ; 3-1; Independiente (Ave)
 
 Round: Round 24: 
-[Oct 29]
-Atlanta                  abd Gimnasia y Esgrima LPG   [abandoned at 2:1 in 57]
-Chacarita Juniors        6:2 Los Andes (LdZ)
-Estudiantes LPG          2:2 Boca Juniors
-Huracán (BUE)            3:2 Argentinos Juniors
-Independiente (Ave)      0:1 Ferro Carril Oeste (BUE)
-Lanús                    3:0 Rosario Central
-River Plate              1:1 Racing Club
-Vélez Sarsfield          2:3 San Lorenzo de Almagro
-[Nov 10]
-Atlanta                  2:1 Gimnasia y Esgrima LPG   [remaining 33] 
+Date: 10/29/1961
 
-Round: Round 25:
-[Oct 31]
-Boca Juniors             6:0 Chacarita Juniors
-[Nov 1]
-Argentinos Juniors       3:1 Estudiantes LPG
-Ferro Carril Oeste (BUE) 1:1 Huracán (BUE)
-Gimnasia y Esgrima LPG   1:0 Vélez Sarsfield
-Los Andes (LdZ)          4:1 Lanús                    [at Quilmes]
-Racing Club              2:0 Atlanta
-Rosario Central          2:4 River Plate
-San Lorenzo de Almagro   0:1 Independiente (Ave)
+; Atlanta                  abd Gimnasia y Esgrima LPG   
+*[abandoned at; 2-1; in 57]
+; Chacarita Juniors       ; 6-2; Los Andes (LdZ)
+; Estudiantes LPG         ; 2-2; Boca Juniors
+; Huracán (BUE)           ; 3-2; Argentinos Juniors
+; Independiente (Ave)     ; 0-1; Ferro Carril Oeste (BUE)
+; Lanús                   ; 3-0; Rosario Central
+; River Plate             ; 1-1; Racing Club
+; Vélez Sarsfield         ; 2-3; San Lorenzo de Almagro
 
-Round: Round 26 [Nov 5]:
-Atlanta                  3:1 Rosario Central
-Chacarita Juniors        2:0 Argentinos Juniors
-Estudiantes LPG          2:0 Ferro Carril Oeste (BUE)
-Independiente (Ave)      4:3 Huracán (BUE)
-Lanús                    0:5 Boca Juniors
-River Plate              1:2 Los Andes (LdZ)
-San Lorenzo de Almagro   4:1 Gimnasia y Esgrima LPG
-Vélez Sarsfield          0:1 Racing Club
+Date: 11/10/1961
 
-Round: Round 27 [Nov 12]:
-Argentinos Juniors       5:2 Lanús
-Boca Juniors             3:1 River Plate
-Ferro Carril Oeste (BUE) 4:0 Chacarita Juniors
-Gimnasia y Esgrima LPG   4:3 Independiente (Ave)
-Huracán (BUE)            2:0 Estudiantes LPG
-Los Andes (LdZ)          2:0 Atlanta                  [at Quilmes]
-Racing Club              3:2 San Lorenzo de Almagro
-  [Sosa 3, Corbatta 15 pen, 75 pen; Sanfilippo 86 pen, Cabrera 89]
-Rosario Central          4:3 Vélez Sarsfield          [at Newell's Old Boys]
+; Atlanta                 ; 2-1; Gimnasia y Esgrima LPG   
+*[remaining 33] 
 
-Racing Club won the championship in this round with the following line-ups:
+Round: Round 25
+Date: 10/31/1961
 
-Racing Club:                 Osvaldo Jorge Negri; Norberto Anido, Juan Carlos Mesías;
-                             Roberto Blanco, Anacleto Peano, Federico Sacchi;
-                             Oreste Osmar Corbatta, Juan José Pizzuti,
-                             Juan Carlos Oleniak, Rubén Héctor Sosa, Raúl Oscar Belén.
+; Boca Juniors            ; 6-0; Chacarita Juniors
 
-San Lorenzo de Almagro:     Vladimir Tarnawsky; Humberto Indalecio Cancino,
-                            Silvio Ramón Ruiz; Juan Andrés Ríos,
-                            Guillermo César Reynoso, Raúl Alberto Páez; Carlos Cabrera,
-                            Miguel Ángel Ruiz, Oscar Pablo Rossi,
-                            José Francisco Sanfilippo, Norberto Constante Boggio.
+Date: 11/1/1961
 
-Referee:                    Manuel Velarde.
+; Argentinos Juniors      ; 3-1; Estudiantes LPG
+; Ferro Carril Oeste (BUE); 1-1; Huracán (BUE)
+; Gimnasia y Esgrima LPG  ; 1-0; Vélez Sarsfield
+; Los Andes (LdZ)         ; 4-1; Lanús                    ; Quilmes
+; Racing Club             ; 2-0; Atlanta
+; Rosario Central         ; 2-4; River Plate
+; San Lorenzo de Almagro  ; 0-1; Independiente (Ave)
+ 
+Round: Round 26 
+Date: 11/5/1961
 
-Att.:                       32,000.- tickets.
+; Atlanta                 ; 3-1; Rosario Central
+; Chacarita Juniors       ; 2-0; Argentinos Juniors
+; Estudiantes LPG         ; 2-0; Ferro Carril Oeste (BUE)
+; Independiente (Ave)     ; 4-3; Huracán (BUE)
+; Lanús                   ; 0-5; Boca Juniors
+; River Plate             ; 1-2; Los Andes (LdZ)
+; San Lorenzo de Almagro  ; 4-1; Gimnasia y Esgrima LPG
+; Vélez Sarsfield         ; 0-1; Racing Club
+
+Round: Round 27 
+Date: 11/12/1961
+
+; Argentinos Juniors      ; 5-2; Lanús
+; Boca Juniors            ; 3-1; River Plate
+; Ferro Carril Oeste (BUE); 4-0; Chacarita Juniors
+; Gimnasia y Esgrima LPG  ; 4-3; Independiente (Ave)
+; Huracán (BUE)           ; 2-0; Estudiantes LPG
+; Los Andes (LdZ)         ; 2-0; Atlanta                  ; Quilmes
+
+; Racing Club             ; 3-2; San Lorenzo de Almagro; ; Manuel Velarde; 320000
+Sosa 3, Corbatta (pk) 15, Corbatta (pk) 75; Sanfilippo (pk) 86, Cabrera 89
+Racing Club:                 Osvaldo Jorge Negri; Norberto Anido, Juan Carlos Mesías; Roberto Blanco, Anacleto Peano, Federico Sacchi; Oreste Osmar Corbatta, Juan José Pizzuti, Juan Carlos Oleniak, Rubén Héctor Sosa, Raúl Oscar Belén.
+San Lorenzo de Almagro:     Vladimir Tarnawsky; Humberto Indalecio Cancino, Silvio Ramón Ruiz; Juan Andrés Ríos, Guillermo César Reynoso, Raúl Alberto Páez; Carlos Cabrera, Miguel Ángel Ruiz, Oscar Pablo Rossi, José Francisco Sanfilippo, Norberto Constante Boggio.
+
+; Rosario Central         ; 4-3; Vélez Sarsfield          ; Newell's Old Boys
+
+Notes: Racing Club won the championship in this round
+
 
 Round: Round 28:
-[Nov 21]
-River Plate             3:0 Argentinos Juniors
-[Nov 22]
-Atlanta                 3:2 Boca Juniors
-Chacarita Juniors       5:0 Huracán (BUE)
-Gimnasia y Esgrima LPG  8:1 Racing Club
-Independiente (Ave)     1:0 Estudiantes LPG
-Lanús                   2:1 Ferro Carril Oeste (BUE)
-San Lorenzo de Almagro  4:1 Rosario Central
-Vélez Sarsfield         3:1 Los Andes (LdZ)
+Date: 11/21/1961
 
-Round: Round 29 [Nov 26]:
-Argentinos Juniors      1:1 Atlanta
-Boca Juniors            0:0 Vélez Sarsfield
-Estudiantes LPG         1:1 Chacarita Juniors
-Ferro Carril Oeste (BUE)1:3 River Plate
-Huracán (BUE)           1:1 Lanús
-Los Andes (LdZ)         3:5 San Lorenzo de Almagro   [at Quilmes]
-Racing Club             1:1 Independiente (Ave)
-Rosario Central         4:3 Gimnasia y Esgrima LPG
+; River Plate            ; 3-0; Argentinos Juniors
+
+Date: 11/22/1961
+
+; Atlanta                ; 3-2; Boca Juniors
+; Chacarita Juniors      ; 5-0; Huracán (BUE)
+; Gimnasia y Esgrima LPG ; 8-1; Racing Club
+; Independiente (Ave)    ; 1-0; Estudiantes LPG
+; Lanús                  ; 2-1; Ferro Carril Oeste (BUE)
+; San Lorenzo de Almagro ; 4-1; Rosario Central
+; Vélez Sarsfield        ; 3-1; Los Andes (LdZ)
+
+Round: Round 29 
+Date: 11/26/1961
+
+; Argentinos Juniors     ; 1-1; Atlanta
+; Boca Juniors           ; 0-0; Vélez Sarsfield
+; Estudiantes LPG        ; 1-1; Chacarita Juniors
+; Ferro Carril Oeste (BUE);1-3; River Plate
+; Huracán (BUE)          ; 1-1; Lanús
+; Los Andes (LdZ)        ; 3-5; San Lorenzo de Almagro   ; Quilmes
+; Racing Club            ; 1-1; Independiente (Ave)
+; Rosario Central        ; 4-3; Gimnasia y Esgrima LPG
 
 Round: Round 30:
-[Dec 1]
-River Plate             1:0 Huracán (BUE)
-[Dec 2]
-Gimnasia y Esgrima LPG  2:0 Los Andes (LdZ)
-[Dec 3]
-Atlanta                 0:0 Ferro Carril Oeste (BUE)
-Chacarita Juniors       1:1 Independiente (Ave)
-Lanús                   1:1 Estudiantes LPG
-Racing Club             6:2 Rosario Central
-San Lorenzo de Almagro  3:0 Boca Juniors
-Vélez Sarsfield         3:1 Argentinos Juniors
+Date: 12/1/1961
+
+; River Plate            ; 1-0; Huracán (BUE)
+
+Date: 12/2/1961
+
+; Gimnasia y Esgrima LPG ; 2-0; Los Andes (LdZ)
+
+Date: 12/3/1961
+
+; Atlanta                ; 0-0; Ferro Carril Oeste (BUE)
+; Chacarita Juniors      ; 1-1; Independiente (Ave)
+; Lanús                  ; 1-1; Estudiantes LPG
+; Racing Club            ; 6-2; Rosario Central
+; San Lorenzo de Almagro ; 3-0; Boca Juniors
+; Vélez Sarsfield        ; 3-1; Argentinos Juniors
 
 * 1. Racing Club              30   19    9    2    68    39   47 Champion
 * 2. San Lorenzo de Almagro   30   16    8    6    56    35   40
@@ -366,7 +425,7 @@ Vélez Sarsfield         3:1 Argentinos Juniors
 *15. Ferro Carril Oeste (BUE) 30    8    5   17    38    55   21
 *16. Los Andes (LdZ)          30   10    1   19    38    65   21
 
-Copa Libertadores 1962: Racing Club.
+*Copa Libertadores 1962: Racing Club.
 
 *Relegation table:
 *                             ----Season----

@@ -21,6 +21,7 @@ Season: 1994
 *[*] Peñarol and Nacional 4 points deducted for incidents. 
 
 Round: Round 1
+
 ; Bella Vista      ; 1-2; River Plate         
 ; Cerro            ; 0-1; Basanez            
 ; Liverpool        ; 0-0; Danubio            
@@ -29,6 +30,7 @@ Round: Round 1
 ; Rampla Juniors   ; 1-1; Central Espanol     
 
 Round: Round 2
+
 ; Basanez          ; 2-1; Bella Vista       
 ; Central Espanol  ; 2-1; Progreso         
 ; Danubio          ; 0-1; Defensor Sporting 
@@ -37,6 +39,7 @@ Round: Round 2
 ; Wanderers        ; 0-1; Liverpool         
 
 Round: Round 3
+
 ; Basanez          ; 3-1; Liverpool         
 ; Central Espanol  ; 0-5; Nacional           
 ; Danubio          ; 0-2; Cerro         
@@ -45,6 +48,7 @@ Round: Round 3
 ; Wanderers        ; 1-0; Rampla Juniors     
 
 Round: Round 4
+
 ; Cerro            ; 0-0; Central Espanol    
 ; Danubio          ; 1-1; Bella Vista      
 ; Defensor Sporting; 2-0; Wanderers          
@@ -53,6 +57,7 @@ Round: Round 4
 ; Rampla Juniors   ; 1-1; River Plate       
 
 Round: Round 5
+
 ; Basanez          ; 0-0; Rampla Juniors   
 ; Bella Vista      ; 1-1; Nacional        
 ; Liverpool        ; 0-0; Defensor Sporting
@@ -61,6 +66,7 @@ Round: Round 5
 ; River Plate      ; 1-3; Wanderers          
 
 Round: Round 6
+
 ; Bella Vista      ; 1-1; Central Espanol    
 ; Cerro            ; 0-2; Penarol           
 ; Liverpool        ; 2-5; Nacional           
@@ -69,6 +75,7 @@ Round: Round 6
 ; River Plate      ; 3-1; Danubio           
 
 Round: Round 7
+
 ; Central Espanol  ; 2-1; Liverpool        
 ; Cerro            ; 2-2; Wanderers          
 ; Danubio          ; 1-1; Rampla Juniors  
@@ -77,6 +84,7 @@ Round: Round 7
 ; River Plate      ; 0-3; Penarol       
 
 Round: Round 8
+
 ; Basanez          ; 1-1; Wanderers     
 ; Central Espanol  ; 0-0; Danubio        
 ; Nacional         ; 1-0; Cerro             
@@ -85,6 +93,7 @@ Round: Round 8
 ; Rampla Juniors   ; 1-0; Liverpool          
 
 Round: Round 9
+
 ; Basanez          ; 2-1; Central Espanol 
 ; Bella Vista      ; 2-2; Rampla Juniors    
 ; Cerro            ; 2-1; Defensor Sporting   
@@ -93,6 +102,7 @@ Round: Round 9
 ; Wanderers        ; 2-0; Penarol         
 
 Round: Round 10
+
 ; Bella Vista      ; 1-1; Liverpool        
 ; Defensor Sporting; 0-0; Basanez       
 ; Penarol          ; 2-1; Nacional           
@@ -101,6 +111,7 @@ Round: Round 10
 ; River Plate      ; 3-0; Central Espanol   
 
 Round: Round 11
+
 ; Central Espanol  ; 0-2; Wanderers        
 ; Cerro            ; 1-0; Liverpool      
 ; Danubio          ; 2-1; Basanez        
@@ -109,6 +120,7 @@ Round: Round 11
 ; Penarol          ; 4-0; Bella Vista        
 
 Round: Round 12
+
 ; Basanez          ; 0-5; Penarol         
 ; Central Espanol  ; 0-1; Defensor Sporting   
 ; Danubio          ; 0-0; Nacional         
@@ -117,6 +129,7 @@ Round: Round 12
 ; Wanderers        ; 4-3; Bella Vista         
 
 Round: Round 13
+
 ; Bella Vista      ; 1-2; Cerro             
 ; Defensor Sporting; 1-1; Nacional            
 ; Penarol          ; 1-0; Central Espanol   
@@ -158,6 +171,7 @@ Round: Round 13
 *13.Progreso           12   3   1   8   7-21   7 
 
 Round: Round 1
+
 ; Basanez          ; 0-2; Cerro         
 ; Central Espanol  ; 0-1; Rampla Juniors  
 ; Danubio          ; 0-1; Liverpool    
@@ -166,6 +180,7 @@ Round: Round 1
 ; Wanderers        ; 0-1; Nacional       
 
 Round: Round 2
+
 ; Bella Vista      ; 3-1; Basanez        
 ; Cerro            ; 1-1; River Plate     
 ; Defensor Sporting; 0-0; Danubio         
@@ -174,6 +189,7 @@ Round: Round 2
 ; Rampla Juniors   ; 1-5; Penarol            
 
 Round: Round 3
+
 ; Bella Vista      ; 1-0; Defensor Sporting  
 ; Cerro            ; 2-1; Danubio       
 ; Liverpool        ; 0-0; Basanez           
@@ -182,6 +198,7 @@ Round: Round 3
 ; River Plate      ; 0-1; Progreso         
 
 Round: Round 4
+
 ; Bella Vista      ; 1-2; Danubio          
 ; Central Espanol  ; 1-1; Cerro          
 ; Penarol          ; 1-0; Liverpool      
@@ -190,6 +207,7 @@ Round: Round 4
 ; Wanderers        ; 1-1; Defensor Sporting
 
 Round: Round 5
+
 ; Cerro            ; 1-0; Progreso        
 ; Danubio          ; 1-6; Penarol           
 ; Defensor Sporting; 2-0; Liverpool        
@@ -198,6 +216,7 @@ Round: Round 5
 ; Wanderers        ; 2-1; River Plate       
 
 Round: Round 6
+
 ; Basanez          ; 1-0; Progreso      
 ; Central Espanol  ; 3-3; Bella Vista    
 ; Danubio          ; 0-1; River Plate         
@@ -206,6 +225,7 @@ Round: Round 6
 ; Penarol          ; 3-1; Cerro            
 
 Round: Round 7
+
 ; Basanez          ; 1-4; Nacional          
 ; Liverpool        ; 1-3; Central Espanol
 ; Penarol          ; 0-1; River Plate     
@@ -214,6 +234,7 @@ Round: Round 7
 ; Wanderers        ; 3-3; Cerro         
 
 Round: Round 8
+
 ; Bella Vista      ; 2-0; Progreso          
 ; Cerro            ; 2-2; Nacional        
 ; Danubio          ; 0-1; Central Espanol   
@@ -222,6 +243,7 @@ Round: Round 8
 ; Wanderers        ; 3-1; Basanez       
 
 Round: Round 9
+
 ; Central Espanol  ; 0-0; Basanez         
 ; Defensor Sporting; 0-0; Cerro           
 ; Nacional         ; 1-0; River Plate     
@@ -230,6 +252,7 @@ Round: Round 9
 ; Rampla Juniors   ; 1-0; Bella Vista      
 
 Round: Round 10
+
 ; Basanez          ; 0-1; Defensor Sporting 
 ; Central Espanol  ; 1-0; River Plate         
 ; Cerro            ; 2-0; Rampla Juniors      
@@ -238,6 +261,7 @@ Round: Round 10
 ; Wanderers        ; 4-0; Progreso           
 
 Round: Round 11
+
 ; Basanez          ; 3-1; Danubio        
 ; Bella Vista      ; 0-4; Penarol         
 ; Liverpool        ; 2-0; Cerro           
@@ -246,6 +270,7 @@ Round: Round 11
 ; Wanderers        ; 1-2; Central Espanol  
 
 Round: Round 12
+
 ; Bella Vista      ; 1-1; Wanderers       
 ; Defensor Sporting; 1-2; Central Espanol    
 ; Nacional         ; 1-2; Danubio        
@@ -254,6 +279,7 @@ Round: Round 12
 ; River Plate      ; 0-1; Liverpool          
 
 Round: Round 13
+
 ; Basanez          ; 1-1; River Plate       
 ; Central Espanol  ; 1-3; Penarol            
 ; Cerro            ; 0-0; Bella Vista        
