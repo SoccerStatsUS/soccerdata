@@ -15,6 +15,10 @@ def get_place(s):
 
 
 places = {
+
+    'Estadio Nou Camp, Leon, Guanajuato': 'Estadio León',
+    'Stadium Universitario, Monterrey, Mexico': 'El Volcan',
+    'Estadio Universitario, San Nicolas': 'El Volcan',
     'Stadio Municipal, L\'Aquíla': 'Stadio Tommaso Fattori',
     'Stadio Municipal, L\'Aquila': 'Stadio Tommaso Fattori',
 

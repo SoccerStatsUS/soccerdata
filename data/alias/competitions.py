@@ -20,6 +20,8 @@ full_alias = {
     'Chilean Primera Division': 'Chilean Primera División', 
     'Uruguayan Primera Division': 'Uruguayan Primera División',
 
+    'Liga Argentina de Football': 'Argentine Primera División',
+
     'Merconorte Cup': 'Copa Merconorte',
 
     'Duvalier Cup': 'Coupe Duvalier',

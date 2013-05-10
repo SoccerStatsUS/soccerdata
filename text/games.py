@@ -177,8 +177,11 @@ class GeneralProcessor(object):
 
         if line.startswith("Date:"):
             d = line.split('Date:')[1].strip()
-            if d:
-                month, day, year = [int(e) for e in d.split('/')]
+            if d and d.lower() != 'none':
+                try:
+                    month, day, year = [int(e) for e in d.split('/')]
+                except:
+                    import pdb; pdb.set_trace()
                 self.date = datetime.datetime(year, month, day)
             else:
                 self.date = None

@@ -1,7 +1,5 @@
 from soccerdata.mongo import generic_load, soccer_db
 
-from soccerdata.scrapers import fbleague, mls
-
 from soccerdata.text import asl
 from soccerdata.text import awards
 from soccerdata.text import bios
@@ -13,7 +11,8 @@ from soccerdata.text import salaries
 from soccerdata.text import standings
 from soccerdata.text import stats
 
-from soccerdata import scrapers
+#from soccerdata import scrapers
+#from soccerdata.scrapers import mls
 
 from soccerdata.data.alias.people import check_for_name_loops
 from soccerdata.data.alias.teams import check_for_team_loops
@@ -67,7 +66,7 @@ def first_load():
     load_name_maps()
     load_stadium_maps()
     load_competition_maps()
-    load_drafts()
+    #load_drafts()
     load_games()
     #load_analysis()
 
@@ -78,21 +77,34 @@ def load_drafts():
 
 
 def load_games():
-    load_world()
-    load_conmebol()
-    load_usl()
 
+    load_modern_cups()
+    load_modern_friendlies()
+    load_concacaf()
+    load_mls() 
+    return
+
+    load_world()
+    load_argentina()
+    load_uruguay()
+    load_chile()
+    load_conmebol()
+    return
+    
+
+
+
+    #load_brazil()
+    return
+
+    load_mexico()
+    load_usl()
     load_city()
     load_ny()
-
     load_canada()
     load_asl2()
-    load_mls() 
 
-    #load_colombia()
-    load_mexico()
 
-    load_concacaf()
 
     load_uncaf()
     load_cfu()
@@ -101,16 +113,16 @@ def load_games():
     load_concacaf_international()
     #load_uncaf_international()
     load_world_international()
-    load_fifa()
+
     load_olympics()
 
 
-    load_modern_cups()
+
     load_early_cups()
 
     load_korea()
     load_nwsl()
-    load_modern_friendlies()
+
     load_early_friendlies()
 
     load_isl()
@@ -122,10 +134,6 @@ def load_games():
     load_australia()    
     load_japan()
     load_china()
-
-    load_uruguay()
-
-    load_chile()
 
     load_usmnt()
     load_oceania()
@@ -140,9 +148,15 @@ def load_games():
     load_pdl()
     load_asl()
 
-    load_argentina()
-    load_brazil()
+
+
     #load_brazil_international()
+    #load_colombia()
+
+    # scrapers
+    #load_fifa()
+    #load_mediotiempo()
+
 
 
 def load_excel_standings(coll, fn):
@@ -189,9 +203,9 @@ def load_bios():
     print soccer_db.bios.count()
     generic_load(soccer_db.asl_bios, bios.process_asl_bios)
 
-    print "Loading MLSsoccer.com player bios.\n"
-    generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
-    print soccer_db.bios.count()
+    #print "Loading MLSsoccer.com player bios.\n"
+    #generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
+    #print soccer_db.bios.count()
 
     print "Loading chris's compiled bios."
     generic_load(soccer_db.usl_bios, bios.load_all_bios)
@@ -342,6 +356,9 @@ def load_uruguay():
     for year in range(1932, 1960):
         load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
 
+    for year in range(1994, 1995):
+        load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
+
 
 def load_colombia():
     load_standings_standard('colombia', 'domestic/country/colombia2')
@@ -350,7 +367,11 @@ def load_colombia():
 def load_chile():
     load_standings_standard('chile', 'domestic/country/chile')
     generic_load(soccer_db.chile_awards, awards.process_chile_awards)
-    for year in range(1933, 1960):
+
+    for year in range(1933, 1968):
+        load_games_standard('chile', 'domestic/country/chile/%s' % year)
+
+    for year in range(1971, 1979):
         load_games_standard('chile', 'domestic/country/chile/%s' % year)
 
 
@@ -361,6 +382,9 @@ def load_argentina():
     load_games_standard('argentina', 'domestic/country/argentina/leagues/1896')
 
     for year in range(1899, 1911):
+        load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
+
+    for year in range(1932, 1965):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
 
 
@@ -401,6 +425,7 @@ def load_mls():
 
     load_mls_lineup_db()
 
+    """
     from scrapers.mls2 import scrape_competition
 
     # MLS League 2012
@@ -429,6 +454,7 @@ def load_mls():
     generic_load(soccer_db['mls2_games'], lambda: games)
     generic_load(soccer_db['mls2_goals'], lambda: goals)
     generic_load(soccer_db['mls2_lineups'], lambda: lineups)
+    """
 
     #generic_load(soccer_db.mls_stats, mls.scrape_all_bio_stats_mlssoccer)
     #load_soccernet_league('mls_soccernet', 'usa.1')
@@ -723,16 +749,30 @@ def load_australia():
     generic_load(soccer_db.australia_awards, awards.process_australia_awards)
 
 
+def load_mediotiempo():
+    from scrapers import mediotiempo2
+    generic_load(soccer_db.mediotiempo_games, lambda: mediotiempo2.scrape_games(range(6700, 9000)))
+
 def load_mexico():
+
     generic_load(soccer_db.mexico_awards, awards.process_mexico_awards)
 
     load_new_standings('mexico', 'domestic/country/mexico/1', ';')
     load_new_standings('mexico', 'domestic/country/mexico/short', ';')
     load_new_standings('mexico', 'domestic/country/mexico/primera_fuerza')
 
+    load_games_standard('mexico', 'domestic/country/mexico/interliga')
+    load_games_standard('mexico', 'domestic/country/mexico/pre_libertadores')
+
     load_games_standard('mexico', 'domestic/country/mexico/league/1943')
-    load_games_standard('mexico', 'domestic/country/mexico/league/mexico86')
-    load_games_standard('mexico', 'domestic/country/mexico/league/1981')
+    load_games_standard('mexico', 'domestic/country/mexico/league/1963')
+    load_games_standard('mexico', 'domestic/country/mexico/league/1964')
+    load_games_standard('mexico', 'domestic/country/mexico/league/1967')
+    #load_games_standard('mexico', 'domestic/country/mexico/league/1970mexico')
+
+    for e in range(1970, 1986):
+        load_games_standard('mexico', 'domestic/country/mexico/league/%s' % e)
+
 
     load_games_standard('mexico', 'domestic/country/mexico/super')
     load_games_standard('mexico', 'domestic/country/mexico/playoffs/1970')
@@ -779,11 +819,6 @@ def load_oceania_international():
 
 
 def load_conmebol():
-    generic_load(soccer_db.copa_america_awards, awards.process_conmebol_awards)
-    load_games_standard('conmebol', 'domestic/confederation/conmebol/pequena')
-    load_games_standard('conmebol', 'domestic/confederation/conmebol/merconorte')
-    load_games_standard('conmebol', 'domestic/confederation/conmebol/mercosur')
-    load_games_standard('conmebol', 'domestic/confederation/conmebol/mercosul')
 
     load_games_standard('conmebol', 'domestic/confederation/conmebol/aldao')
     load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_ibarguren')
@@ -794,6 +829,16 @@ def load_conmebol():
     load_games_standard('conmebol', 'domestic/confederation/conmebol/recopa_sudamericana')
     load_games_standard('conmebol', 'domestic/confederation/conmebol/sacc')
     load_games_standard('conmebol', 'domestic/confederation/conmebol/suruga')
+
+    return
+
+    generic_load(soccer_db.copa_america_awards, awards.process_conmebol_awards)
+
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/merconorte')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/mercosur')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/mercosul')
+
+
 
     for e in range(1992, 2000):
         load_games_standard('conmebol', 'domestic/confederation/conmebol/conmebol/%s' % e)
@@ -889,6 +934,7 @@ def load_world():
     # Sort of a miscellaneous collection.
     load_games_standard('world', 'domestic/world/panpacific')
     load_games_standard('world', 'domestic/world/copa_rio')
+    load_games_standard('conmebol', 'domestic/confederation/conmebol/pequena')
     load_games_standard('world', 'domestic/world/interamerican')
 
     for e in [1960, 1970, 1980, 1990, 2000]:
@@ -1074,41 +1120,6 @@ def load_midwest():
     load_games_standard('midwest', 'teams/morgan')
     load_games_standard('midwest', 'teams/scullin.txt')
     load_games_standard('midwest', 'teams/stix.txt')
-    
-
-# Remove all these old scrapers & generate_ciites
-# At last.
-
-def load_kicker():
-    from soccerdata.scrapers import kicker
-    generic_load(soccer_db.kicker_games, kicker.scrape_all_kicker_seasons)
-
-
-def load_fbleague():
-    # Various European league scores.
-    print "Loading fbleague game scores."
-    generic_load(soccer_db.fbleague_games, fbleague.scrape_all_seasons)
-
-
-def load_aleague():
-    from soccerdata.scrapers import australia
-    # Australian A-league.
-    print "Loading A-league.com game scores."
-    generic_load(soccer_db.aleague_games, australia.scrape_all_games)
-
-
-# International
-def load_eufootball():
-    from soccerdata.scrapers import eufootball
-    # All-time European national team games.
-    print "Loading eufootball.com game scores."
-    generic_load(soccer_db.eufootball_games, eufootball.scrape_all_games)    
-
-
-# Not using these.
-def load_statto():
-    # Various historical scores.
-    generic_load(soccer_db.world_cup_games, statto.scrape_all_games)    
 
 
 # Pretty certain this isn't used.

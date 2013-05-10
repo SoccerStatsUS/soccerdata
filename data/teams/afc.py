@@ -6,6 +6,30 @@ import datetime
 l = [
 
     {
+        'name': 'Al Nassr',
+        'founded': datetime.datetime(1955, 11, 3),
+        'city': 'Riyadh, Saudi Arabia',
+        },
+
+    {
+        'name': 'Al-Ahli Dubai',
+        'founded': 1970,
+        'city': 'Dubai, United Arab Emirates',
+        },
+
+    {
+        'name': 'Al-Sadd',
+        'founded': datetime.datetime(1969, 10, 21),
+        'city': 'Doha, Qatar',
+        },
+
+    {
+        'name': 'Al-Wahda',
+        'founded': 1974,
+        'city': 'Abu Dhabi, United Arab Emirates',
+        },
+
+    {
         'name': 'Chongqing Lifan',
         'founded': datetime.datetime(2000, 8, 19),
         'city': 'Chongqing, China',

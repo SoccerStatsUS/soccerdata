@@ -69,6 +69,7 @@ SOURCES = [
     'nwsl',
 
     'mexico',
+    'mediotiempo',
     'canada',
 
     'colombia',

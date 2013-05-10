@@ -10,6 +10,7 @@ l = [
         'city': 'Manchester, England',
         },
 
+
     {
         'name': 'Spartak Trnava',
         'founded': datetime.datetime(1923, 5, 30),

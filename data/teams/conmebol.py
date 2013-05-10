@@ -659,10 +659,34 @@ l = [
         'founded': datetime.datetime(1902, 7, 25),
         'city': 'Asuncion, Paraguay',
         },
+
+    {
+        'name': 'Club Almagro',
+        'founded': datetime.datetime(1911, 1, 6),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Atlanta',
+        'founded': datetime.datetime(1904, 10, 12),
+        'city': 'Buenos Aires, Argentina',
+        },
     {
         'name': 'Estudiantes de La Plata',
         'founded': datetime.datetime(1905, 8, 4),
         'city': 'La Plata, Argentina',
+        },
+
+    {
+        'name': 'Estudiantes de Caseros',
+        'founded': datetime.datetime(1898, 8, 15),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Chacarita Juniors',
+        'founded': datetime.datetime(1906, 5, 1),
+        'city': 'Buenos Aires, Argentina',
         },
     {
         'name': 'Gremio',
@@ -727,9 +751,24 @@ l = [
         'city': 'Cordoba, Argentina',
         },
 
+    {
+        'name': 'Talleres de Remedios de Escalada',
+        'founded': datetime.datetime(1906, 6, 1),
+        'city': 'Buenos Aires, Argentina',
+        },
 
+    {
+        'name': 'Gimnasia y Esgrima Buenos Aires',
+        'founded': datetime.datetime(1880, 11, 11),
+        'city': 'Buenos Aires, Argentina',
+        },
 
-
+    {
+        'name': 'Argentino de Quilmes',
+        'founded': datetime.datetime(1899, 12, 1),
+        'city': 'Buenos Aires, Argentina',
+        },
+    
     {
         'name': 'Tiro Federal',
         'founded': datetime.datetime(1905, 3, 29),
@@ -970,8 +1009,31 @@ l = [
 
 
 
+    {
+        'name': 'Club Libertad',
+        'founded': 1905,
+        'city': 'Asuncion, Paraguay',
+        },
 
 
+    {
+        'name': 'Club Guaraní',
+        'founded': 1903,
+        'city': 'Asuncion, Paraguay',
+        },
+
+    {
+        'name': '12 de Octubre',
+        'founded': datetime.datetime(1914, 8, 14),
+        'city': 'Itaugua, Paraguay',
+        },
+
+
+    {
+        'name': 'Club Nacional',
+        'founded': datetime.datetime(1904, 6, 5),
+        'city': 'Asuncion, Paraguay',
+        },
 
 
     {
@@ -1353,29 +1415,10 @@ l = [
 
 
     {
-        'name': 'Club Libertad',
-        'founded': 1905,
-        'city': 'Asuncion, Paraguay',
-        },
-
-    {
         'name': 'Uberlandia',
         'founded': 1922,
         'city': 'Uberlândia, Brazil',
         },
-
-    {
-        'name': 'Club Guaraní',
-        'founded': 1903,
-        'city': 'Asuncion, Paraguay',
-        },
-
-    {
-        'name': '12 de Octubre',
-        'founded': datetime.datetime(1914, 8, 14),
-        'city': 'Itaugua, Paraguay',
-        },
-
     {
         'name': '31 de Octubre',
         'founded': 1954,

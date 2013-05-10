@@ -8,7 +8,8 @@ Parmalat Cup; PC; soccer; domestic; Cup; 2; World; Earth
 
 La Copita del Mundo; CdM; soccer; domestic; Cup; 2; World; Earth
 International Soccer League; ISL; soccer; domestic; League; 2; World; Earth
-Mexico City International Tournaments; ISL; soccer; domestic; League; 2; World; Earth
+Mexico City International Tournaments; MCIT; soccer; domestic; League; 2; World; Earth
+Mexico City International Tournaments Second Division; MCIT2; soccer; domestic; League; 3; World; Earth
 
 * two-team competitions
 Intercontinental Cup; IC; soccer; domestic; Cup; 2; World; Earth
@@ -20,7 +21,7 @@ Pan-Pacific Championship; PPC; soccer; domestic; League; 2; World; Earth
 ** confederation
 
 Copa Aldao; CA; soccer; domestic; Cup; 2; Confederation; CONMEBOL
-Copa Tie; CA; soccer; domestic; Cup; 2; Confederation; CONMEBOL
+Copa Tie; CT; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 
 Copa Libertadores; CL; soccer; domestic; Cup; 1; Confederation; CONMEBOL
 

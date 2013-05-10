@@ -119,8 +119,8 @@ def process_caribbean_awards():
     return process_awards(caribbean_cup) + process_awards(martinez_shield) + process_awards(cfu)
 
 def process_mexico_awards():
-    from soccerdata.data.lists.awards.mexico import d, primera_fuerza
-    return process_awards(d) + process_awards(primera_fuerza)
+    from soccerdata.data.lists.awards.mexico import d, primera_fuerza, campeon
+    return process_awards(d) + process_awards(primera_fuerza) + process_awards(campeon)
 
 
 def process_csl_awards():

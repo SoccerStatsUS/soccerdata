@@ -179,6 +179,7 @@ last_name = {
 
 
 basic = {
+    'Aaryll John': 'Adaryll John',
     'Edison Perez': 'Edison Pérez',
     'André Luis': 'André Luís',
     'Andre Luis': 'André Luís',
