@@ -49,7 +49,6 @@ SOURCES = [
     'state',
     'lewis_cup',
     'nafbl',
-    'esl',
     'asl2',
     'isl',
     #'indoor',

@@ -196,44 +196,16 @@ def process_ussf2_awards():
     return process_awards(ussf2)
 
 def process_nasl2_awards():
-    from soccerdata.data.lists.awards.usl import nasl2
-    return process_awards(nasl2)
-
-def process_nasl2p_awards():
-    from soccerdata.data.lists.awards.usl import nasl2p
-    return process_awards(nasl2p)
-
+    from soccerdata.data.lists.awards.usl import nasl2, nasl2p
+    return process_awards(nasl2) + process_awards(nasl2p)
 
 def process_mls_awards():
-    from soccerdata.data.lists.awards.mls import d
-    return process_awards(d)
-
-def process_mls_reserve_awards():
-    from soccerdata.data.lists.awards.mls import mlsrl
-    return process_awards(mlsrl)
-
-
-def process_mls_cup_awards():
-    from soccerdata.data.lists.awards.mls import d2
-    return process_awards(d2)
-
-def process_wsa_awards():
-    from soccerdata.data.lists.awards.wsa import d
-    return process_awards(d)
-
-def process_usl0_awards():
-    from soccerdata.data.lists.awards.usl0 import d
-    return process_awards(d)
-
+    from soccerdata.data.lists.awards import mls
+    return process_awards(mls.d) + process_awards(mls.mlsrl) + process_awards(mls.d2)
 
 def process_apsl_awards():
-    from soccerdata.data.lists.awards.apsl import d
-    return process_awards(d)
-
-def process_apslpc_awards():
-    from soccerdata.data.lists.awards.apsl import apslpc
-    return process_awards(apslpc)
-
+    from soccerdata.data.lists.awards import wsa, apsl, usl0
+    return process_awards(apsl.d) + process_awards(apsl.apslpc) + process_awards(wsa.d) + process_awards(usl0.d)
 
 def process_american_cup_awards():
     from soccerdata.data.lists.awards.americancup import d
@@ -242,7 +214,6 @@ def process_american_cup_awards():
 def process_us_open_cup_awards():
     from soccerdata.data.lists.awards.usopencup import d
     return process_awards(d)
-
 
 def process_lewis_cup_awards():
     from soccerdata.data.lists.awards.lewis import d

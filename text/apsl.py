@@ -60,10 +60,7 @@ league_team_map = {
     'Professional Cup': apsl_team_map,
     'CONCACAF Champions Cup': apsl_team_map,
     'Friendly': {},
-
 }
-
-    
     
     
 class TextProcessor(object):
