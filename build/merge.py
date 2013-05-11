@@ -328,6 +328,8 @@ def merge_games(games_lists):
 
             orig['sources'] = orig.get('sources', []) + d.get('sources', [])
 
+        game_dict[key]['merges'] = game_dict[key].get('merges', 0) + 1
+
     game_dict = {}
 
     for games_list in games_lists:

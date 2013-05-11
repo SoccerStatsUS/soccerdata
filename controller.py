@@ -55,6 +55,7 @@ def dashboard():
     ctx = {
         'data': data,
         'small_data': small_data,
+        'stat_tables': STAT_TABLES
         }
 
     return render_template("dashboard.html", **ctx)    

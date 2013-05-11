@@ -31,16 +31,9 @@
 <table>
   <tr>
     <th></th>
-    <th>games</th>
-    <th>goals</th>
-    <th>fouls</th>
-    <th>lineups</th>
-    <th>stats</th>
-    <th>standings</th>
-    <th>bios</th>
-    <th>rosters</th>
-    <th>gen_rosters</th>
-    <th>awards</th>
+    {% for table in stat_tables %}
+    <th>{{ table }}</th>
+    {% endfor %}
   </tr>
   
 {% for name, data in data %}

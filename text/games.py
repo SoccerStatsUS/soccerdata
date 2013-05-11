@@ -561,12 +561,19 @@ class GeneralProcessor(object):
         team2 = team2.strip()
         location = location.strip()
         
-        neutral = False
-        home_team = None
+        home_team, neutral = None, False
         if location in (team1, team2):
-            home_team, location = location, ''
+            home_team = location
+        elif location.lower() == 'home':
+            home_team = team1
+        elif location.lower() == 'away':
+            home_team = team2
         elif location.lower() == 'neutral':
             neutral = True
+
+        if home_team:
+            location = ''
+        
 
         g = {
             'competition': self.competition,

@@ -6,10 +6,11 @@ STAT_TABLES = [
     'lineups', 
     'stats', 
     'standings', 
-    'bios',
+
     'rosters',
     'gen_rosters',
     'awards',
+    'bios',
     ]
 
 
@@ -17,13 +18,13 @@ STAT_TABLES = [
 SOURCES = [
 
     'world_i',
+    #'world_cup',
     'fifa',
-    'olympics',
 
     'concacaf_i',
     'conmebol_i',
     'oceania_i',
-    'copa_america',
+    'usa',
 
     'world',
     'concacaf',
@@ -32,54 +33,47 @@ SOURCES = [
     'uncaf',
     'cfu',
 
-    'afa_cup',
-    'open_cup',
-
     'asl',
     'nasl',
-
     'mls',
-    'mls2',
-    'mls_playoffs',
-    'mls_soccernet',
-    'mls_reserve',
 
-    'melvin',
-    'tours',
-    'state',
-    'lewis_cup',
     'nafbl',
     'asl2',
-    'isl',
+    'isl', # reorient this.
     #'indoor',
+    #'misl',
 
-    'apsl',
-    'usl',
-    'usl_leach',
-    'pdl',
-    'misl',
+    'us_d2',
+    'us_d3',
+    'us_d4',
+    'leach',
 
-    'ussf2',
-    'nasl2',
-    'city',
+    'us_cups',
+    'us_friendly',
+
     'ncaa',
-    #'world_cup',
-    'usa',
-    'nwsl',
+    'state',
+    'city',
 
-    'mexico',
-    'mediotiempo',
+    'women',
+
     'canada',
+    'mexico',
 
     'colombia',
     'uruguay',
     'chile',
     'argentina',
     'brazil',
-    'australia',
+
     'china',
     'japan',
     'korea',
+
+    'australia',
+
+
+    #'mediotiempo',
         ]
 
 # Skipping these.
