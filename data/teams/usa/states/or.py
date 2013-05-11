@@ -24,5 +24,10 @@ l = [
         'founded': 1998,
         'dissolved': 1999,
         },
+
+    {
+        'name': 'Ex-Timbers',
+        'city': 'Portland, OR',
+        },
 ]
 

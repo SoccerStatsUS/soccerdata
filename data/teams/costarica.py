@@ -5,6 +5,10 @@ import datetime
 
 l = [
 
+
+    { 'name': 'Santa Teresita FC',   },
+
+
     {
         'name': 'L.D. Alajuelense',
         'founded': datetime.datetime(1919, 6, 18),

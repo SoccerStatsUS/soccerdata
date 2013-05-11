@@ -63,6 +63,8 @@ slugs = {
 
 
 world = {
+    'Instant Dictation': 'Double Flower FA',
+    'Polish Falcons (NJ)': 'Polish Falcons',
     'Platense (VL)': 'CA Platense',
     'Almagro': 'Club Almagro',
     'Talleres (RdE)': 'Talleres de Remedios de Escalada',
@@ -949,7 +951,7 @@ world = {
     'FC Zurich': 'FC Zürich',
     'Grasshoppers': 'Grasshoppers Zurich',
     'Grasshoppers Zurich': 'Grasshopper Club Zürich',
-    'Stade Laussane - Switzerland': 'Stade Laussane',
+    'Stade Laussane - Switzerland': 'Stade Lausanne',
     'Young Boys\' Club': 'BSC Young Boys',
     'Young Boys Club': 'BSC Young Boys',
     'Young Boys': 'BSC Young Boys',

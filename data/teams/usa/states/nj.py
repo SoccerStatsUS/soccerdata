@@ -18,6 +18,12 @@ l = [
         'founded': 2007,
         },
 
+
+    {
+        'name': 'Polish Falcons',
+        'city': 'Elizabeth, NJ',
+        },
+
     {
         'name': 'New Jersey Eagles',
         'city': 'Paterson, NJ',

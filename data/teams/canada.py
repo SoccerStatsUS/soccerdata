@@ -13,6 +13,20 @@ l = [
         },
 
     {
+        'name': 'Montreal Supra',
+        'city': 'Montreal, QC',
+        'founded': 1988,
+        'dissolved': 1992,
+        },
+
+    {
+        'name': 'Calgary Kickers',
+        'city': 'Calgary, AB',
+        'founded': 1986,
+        'dissolved': 1989,
+        },
+
+    {
         'name': 'FC Edmonton',
         'city': 'Edmonton, AB',
         'founded': 2010,
