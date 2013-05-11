@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Philadelphia Centennials',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
         'name': 'Pennsylvania Stoners',
         'city': 'Allentown, PA',
         'founded': 2007,

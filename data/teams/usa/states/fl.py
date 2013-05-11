@@ -23,6 +23,13 @@ l = [
         'founded': 2010,
         },
 
+    {
+        'name': 'Miami Toros',
+        'city': 'Miami, FL',
+        'founded': 1972,
+        'dissolved': 1976,
+        },
+
 
     {
         'name': 'Orlando Sharks',
@@ -151,6 +158,18 @@ l = [
         'city': 'North Miami, FL',
         'founded': 1994,
         'dissolved': 1995,
+        },
+
+    {
+        'name': 'Miami Toros',
+        'city': 'Miami, FL',
+        'founded': 1972,
+        'dissolved': 1976,
+        },
+
+    {
+        'name': 'West Florida Fury',
+        'city': 'Pensacola, FL',
         },
 
     {

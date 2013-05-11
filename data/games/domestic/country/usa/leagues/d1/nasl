@@ -4639,7 +4639,7 @@ NASL; 1980; Atlanta; ; 2; Houston; a; 0,2; ; ; 6128; defghinortw*x
 NASL; 1980; Atlanta; ; 10; Minnesota; a; 2,3; ; Furphy, Irving; 19425; cdefg*hil*nortw*x
 NASL; 1980; Atlanta; ; 13; New York; h; 2,3; ; Lichaba, Furphy; 13177; cdefhil*nortw*x
 NASL; 1980; Atlanta; ; 17; Dallas; h; 3,4; +; G. Nanchof, McCall 2; 2662; cdefghil*nrtv*w*x
-NASL; 1980; Atlanta; ; 22; Rochester; a; 2,0; ; Byrne, Furphy; 6393; defghil*nrtwx
+NASL; 1980; Atlanta; ; 21; Rochester; a; 2,0; ; Byrne, Furphy; 6393; defghil*nrtwx
 NASL; 1980; Atlanta; ; 24; Toronto; a; 2,3; *; Lichaba, Lilley; 17463; defg*hi*knoqrt*vw
 NASL; 1980; California; 3; 29; Vancouver; a; 2,1; ; Moyers, Abrahams; 25711; abcdef*ghijkl
 NASL; 1980; California; ; 5; Seattle; a; 0,1; ; ; 15058; abcdfhijklmn*o*
@@ -4791,7 +4791,7 @@ NASL; 1980; Edmonton; ; 21; Portland; h; 1,2; ; Ongaro; 6520; bcdfghilmn*opr*
 NASL; 1980; Edmonton; ; 27; Memphis; a; 1,0; *; ; 11868; bcdghi*klmopq*r
 NASL; 1980; Edmonton; ; 1; San Diego; h; 1,0; ; Lodeweges; 9478; bcd*ghi*jklmopst*
 NASL; 1980; Edmonton; ; 4; Seattle; a; 0,2; ; ; 15206; bcghjkmopr*s*tu
-NASL; 1980; Edmonton; ; 6; Los Angeles; h; 5,1; ; Heinlein 2, Ten Cate 2, Nogly; 10175; bcfghjkn*optu
+NASL; 1980; Edmonton; ; 5; Los Angeles; h; 5,1; ; Heinlein 2, Ten Cate 2, Nogly; 10175; bcfghjkn*optu
 NASL; 1980; Edmonton; ; 10; Philadelphia; h; 5,0; ; Oostrom, Lodeweges, Hilkes 2, Kirschner; 10202; bcd*fghjkopr*tu
 NASL; 1980; Edmonton; ; 15; Tulsa; h; 1,3; ; Lodeweges; 14120; bcfghi*jkopru
 NASL; 1980; Edmonton; ; 17; Vancouver; a; 0,1; ; ; 24839; bcfghjkopr*tu
@@ -4800,7 +4800,7 @@ NASL; 1980; Edmonton; ; 24; Fort Lauderdale; a; 3,2; ; Heinlein, Kirschner 2; 11
 NASL; 1980; Edmonton; ; 28; Los Angeles; a; 2,6; ; Heinlein, Ferguson; 7861; bcfghklopr*tu
 NASL; 1980; Edmonton; ; 2; Minnesota; a; 1,0; ; Kirschner; 24154; bcd*fghkloptu
 NASL; 1980; Edmonton; ; 6; Atlanta; h; 5,1; ; Kirschner 2, Goossens, Nogly, Ten Cate; 9450; bcfhi*klopr*stu
-NASL; 1980; Edmonton; ; 10; Toronto; h; 1,0; ; Goossens; 10842; bcfghkloptu
+NASL; 1980; Edmonton; ; 9; Toronto; h; 1,0; ; Goossens; 10842; bcfghkloptu
 NASL; 1980; Edmonton; ; 13; Fort Lauderdale; h; 2,3; +; Heinlein 2; 11450; a*bcfghi*klops*tu
 NASL; 1980; Edmonton; ; 16; Chicago; a; 1,2; ; Kirschner; 10672; bcfghkloptu
 NASL; 1980; Edmonton; ; 19; New England; a; 1,2; ; Kirschner; 9671; bcfghklopr*s*tu
@@ -5024,7 +5024,7 @@ NASL; 1980; New England; ; 1; Houston; a; 2,1; ; Brown, Moen; 3667; abcde*fhik*m
 NASL; 1980; New England; ; 5; San Jose; h; 3,1; ; Weller, Brown, Newton; 5130; abcde*fhk*lmnpq
 NASL; 1980; New England; ; 12; Washington; h; 1,0; ; Weller; 12691; acdefhikl*mnqr*
 NASL; 1980; New England; ; 16; Rochester; a; 1,0; ; Brown; 8291; abcde*fhimnpqr*
-NASL; 1980; New England; ; 17; Edmonton; h; 2,1; ; Newton 2; 9671; abcdfhlmnpqt*
+NASL; 1980; New England; ; 19; Edmonton; h; 2,1; ; Newton 2; 9671; abcdfhlmnpqt*
 NASL; 1980; New England; ; 23; Fort Lauderdale; a; 0,3; ; ; 14630; abcde*fhimnpqr*t*
 NASL; 1980; New England; ; 26; San Diego; h; 3,2; ; Newton 3; 6091; abcde*fhil*mnpq
 NASL; 1980; New England; ; 2; Portland; h; 2,1; +; Brown, Newton; 7214; abcdefhil*mnq
@@ -5548,7 +5548,7 @@ NASL; 1981; California; ; 18; Portland; a; 3,2; +; Allen, Khalil 2; 9134; abdehn
 NASL; 1981; California; ; 21; Calgary; a; 2,3; ; Cooke, Van der Veen; 10178; abdehnqtvwx*z
 NASL; 1981; California; ; 24; Fort Lauderdale; h; 4,1; ; Clarke, Alberto, Khalil 2; 6477; abdehntuvwx*z
 NASL; 1981; California; ; 29; Calgary; h; 4,2; ; Oates, Moyers 2, Van der Veen; 5531; abdehm*ntuvwz
-NASL; 1981; California; ; 2; San Diego; h; 2,5; ; Own Goal, Cooke; 8323; abdehmntuvwx*
+NASL; 1981; California; ; 1; San Diego; h; 2,5; ; Own Goal, Cooke; 8323; abdehmntuvwx*
 NASL; 1981; California; ; 8; Los Angeles; a; 3,4; ; Allen, Cesar, Khalil; 5294; bd*ehmn*ptuvwxz0*
 NASL; 1981; California; ; 12; San Jose; a; 1,2; ; Khalil; 9745; bdghmnptuxyz0*
 NASL; 1981; California; ; 14; Los Angeles; h; 1,3; ; Cooke; 12780; bdg*hmnptuwxy*z0*

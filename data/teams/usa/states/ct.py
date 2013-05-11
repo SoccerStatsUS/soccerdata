@@ -16,6 +16,11 @@ l = [
         },
 
     {
+        'name': 'Bridgeport Bears',
+        'city': 'Bridgeport, CT',
+        },
+
+    {
         'name': 'Olympia Stamford',
         'city': 'Stamford, CT',
         },

@@ -63,6 +63,18 @@ slugs = {
 
 
 world = {
+    'Fort Lauderdale Kicks': 'Fort Lauderdale Strikers',
+    'Oklahoma City Heat': 'Oklahoma City Slickers',
+    'New York Capital District Alleycats': 'Albany Alleycats',
+    'Roanoke RiverDawgs': 'Roanoke Wrath',
+    'Jackson Generals': 'Jackson Chargers',
+    'Miami Gatos': 'Miami Toros',
+    'Los Angeles Toros': 'San Diego Toros',
+    'Dynamo Minsk': 'Dinamo Minsk',
+    'Ft. Lauderdale Sun': 'Fort Lauderdale Sun',
+    'F. C. Salzburg': 'FC Red Bull Salzburg',
+    'Uniao Micalense': 'CU Micaelense',
+    'Busan I Park': 'Busan IPark',
     'Instant Dictation': 'Double Flower FA',
     'Polish Falcons (NJ)': 'Polish Falcons',
     'Platense (VL)': 'CA Platense',
@@ -72,7 +84,6 @@ world = {
     'Estudiantes de la Plata': 'Estudiantes de La Plata',
     'Estudiantes LPG': 'Estudiantes de La Plata',
     'Estudiantes (LP)': 'Estudiantes de La Plata',
-    'Club Pachuca': 'Pachuca',
     'CA Rosario Central': 'Rosario Central',
     'Ferro Carril Oeste (BA)': 'Ferro Carril Oeste',
     'Ferro Carril Oeste (BUE)': 'Ferro Carril Oeste',
@@ -92,7 +103,11 @@ world = {
 
     'Quilmes': 'Quilmes AC',
     'Quilmes Club': 'Quilmes AC',
+
     'Chiapas': 'Jaguares de Chiapas',
+    'Jaguares - Mexico': 'Jaguares de Chiapas',
+    'Jaguares': 'Jaguares de Chiapas',
+
     'Botafogo São Paulo': 'Botafogo',
     'SC Corinthians': 'Corinthians',
     'Sport Club Internacional': 'Internacional',
@@ -587,6 +602,7 @@ world = {
     'Grand Rapids Explosion': 'West Michigan Edge',#name map
     'West Michigan Explosion': 'West Michigan Edge',#name map
     'Abbotsford Mariners': 'Fraser Valley Mariners', #name map
+    'Abbotsford Athletes in Action': 'Fraser Valley Mariners', #name map
     'Fox River Rebels': 'Wisconsin Rebels', #name map
     'Colorado Comets': 'Denver Cougars', #name map
     'Dayton Gems': 'Dayton Gemini', # name map
@@ -787,6 +803,7 @@ world = {
     'Yokohama F.Marinos': 'Yokohama F. Marinos',
     'Urawa Reds': 'Urawa Red Diamonds',
     'Tokyo Verdy 1969': 'Tokyo Verdy',
+    'Tokyo Verdy 69': 'Tokyo Verdy',
     'Nagoya Grampus Eight': 'Nagoya Grampus',
     'Kyoto Purple Sanga': 'Kyoto Sanga FC',
     'Jubilo Iwata': 'Júbilo Iwata',
@@ -1208,7 +1225,8 @@ world = {
     'Coventry City': 'Coventry City FC',
     'Derby County - England': 'Derby County',
     'Everton': 'Everton F.C.',
-    'Everton - England': 'Everton',
+    'Everton FC': 'Everton F.C.',
+    'Everton - England': 'Everton F.C.',
     'Fulham - England': 'Fulham',
     'Huddersfield Town': 'Huddersfield Town F.C.',
     'Ipswich Town': 'Ipswich Town F.C.',
@@ -1835,7 +1853,7 @@ world = {
     'C.D. Guadalajara': 'CD Guadalajara',
     'Chivas': 'CD Guadalajara',
     'Guadalajara (Mexico)': 'CD Guadalajara',
-    'Jaguares - Mexico': 'Jaguares',
+
     'Gallos de Jalisco - Mexico': 'Gallos de Jalisco',
     'Gallos de Jalisco': 'Club Jalisco',
     'Jalisco - Mexico': 'Jalisco',
@@ -1878,6 +1896,8 @@ world = {
     'Gallos Blancos': 'Querétaro FC',
     #'Cobras de Queretaro': 'Querétaro FC',
 
+    'Club Pachuca': 'Pachuca',
+    'Pachuca FC': 'Pachuca',
     'Pachuca-- Mexico': 'Pachuca',
     'Pachuca': 'C.F. Pachuca',
     'Pachuca CF': 'C.F. Pachuca',

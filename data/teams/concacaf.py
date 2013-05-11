@@ -1358,7 +1358,7 @@ l = [
         },
 
     {
-        'name': 'Jaguares',
+        'name': 'Jaguares de Chiapas',
         'founded': datetime.datetime(2002, 6, 27),
         'city': 'Tuxtla Gutiérrez, Mexico',
         },

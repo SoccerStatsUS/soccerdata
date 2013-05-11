@@ -18,6 +18,11 @@ l = [
         'founded': 2007,
         },
 
+    {
+        'name': 'Newark Portuguese',
+        'city': 'Newark, NJ',
+        },
+
 
     {
         'name': 'Polish Falcons',

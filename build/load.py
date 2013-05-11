@@ -77,20 +77,27 @@ def load_drafts():
 
 
 def load_games():
-    load_apsl()
-    return
-    load_mls() 
     load_nasl()   
-    load_asl2()       
+    load_asl()
+    return
+    load_pdl()
     load_usl()
 
-    load_leach()     
-    load_pdl()
-    return
+
+    load_apsl()
+    load_mls() 
+
+    load_asl2()       
+
     load_modern_cups()
     load_modern_friendlies()
-    load_concacaf()
 
+
+    return
+    load_leach()     
+    load_concacaf()
+    load_early_cups()
+    load_early_friendlies()
     return
 
     load_world()
@@ -116,14 +123,10 @@ def load_games():
     #load_uncaf_international()
     load_world_international()
 
-    load_early_cups()
+    load_women()
+
 
     load_korea()
-    load_nwsl()
-
-    load_early_friendlies()
-
-
     load_australia()    
     load_japan()
     load_china()
@@ -137,7 +140,7 @@ def load_games():
     load_indoor()
 
     load_nafbl()
-    load_asl()
+
 
 
     #load_brazil_international()
@@ -372,8 +375,8 @@ def load_brazil_international():
     load_games_standard('brazil', 'international/country/brazil/1923')
 
 
-def load_nwsl():
-    load_games_standard('women', 'domestic/country/usa/leagues/nwsl')
+def load_women():
+    load_games_standard('women', 'domestic/country/usa/leagues/women/nwsl')
 
 
 def load_mls():
@@ -388,10 +391,10 @@ def load_mls():
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
 
     print "Loading MLS playoff data.\n"
-    load_games_standard('mls', 'domestic/country/usa/leagues/mls/reserve')
+    load_games_standard('mls', 'domestic/country/usa/leagues/d1/mls/reserve')
 
     for e in ['attendance', '2011', '2012', '2013']:
-        load_games_standard('mls', 'domestic/country/usa/leagues/mls/%s' % e)
+        load_games_standard('mls', 'domestic/country/usa/leagues/d1/mls/%s' % e)
 
     load_mls_lineup_db()
 
@@ -440,11 +443,13 @@ def load_nafbl():
 
     load_excel_standings('nafbl', 'domestic/country/usa/early')
 
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/alpf')
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/nafbl1')
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/nafbl2')
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/snesl')
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/isl') # ISL 1946-1947?
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/d1/alpf')
+
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/nafbl1')
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/nafbl2')
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/snesl')
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/isl') # ISL 1925?
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/nasfl')
 
 
 def load_city():
@@ -538,9 +543,9 @@ def load_asl():
     generic_load(soccer_db.asl_goals, asl.process_asl_goals)
     generic_load(soccer_db.asl_stats, asl.process_stats)
     generic_load(soccer_db.asl_games, asl.process_asl_games)
-    load_games_standard('asl', 'domestic/country/usa/leagues/asl')
+    load_games_standard('asl', 'domestic/country/usa/leagues/d1/asl')
 
-    load_games_standard('asl', 'domestic/country/usa/leagues/esl')
+    load_games_standard('asl', 'domestic/country/usa/leagues/d2/esl')
     generic_load(soccer_db.asl_awards, awards.process_esl_awards, delete=False)
 
 
@@ -549,7 +554,7 @@ def load_asl2():
     generic_load(soccer_db.asl2_awards, awards.process_asl2_awards, delete=False)
     generic_load(soccer_db.asl2_stats, partial.process_asl2_partial)
     load_excel_standings('asl2', 'domestic/country/usa/asl2')
-    load_games_standard('asl2', 'domestic/country/usa/leagues/asl2')
+    load_games_standard('asl2', 'domestic/country/usa/leagues/d2/asl2')
 
 
 def load_nasl():
@@ -568,7 +573,7 @@ def load_nasl():
 
     generic_load(soccer_db.nasl_games, nasl.process_npsl_games)
     generic_load(soccer_db.nasl_goals, nasl.process_npsl_goals)
-    load_games_standard('nasl', 'domestic/country/usa/leagues/usa')
+    load_games_standard('nasl', 'domestic/country/usa/leagues/d2/usa')
     generic_load(soccer_db.nasl_stats, stats.process_nasl_stats)
 
     # Need to work some integrity issues on games.
@@ -598,8 +603,8 @@ def load_apsl():
     #generic_load(soccer_db.us_d2_games, apsl.process_apsl_scores)
     #load_games_standard('us_d2', 'domestic/country/usa/leagues/wsa3')
 
-    load_games_standard('us_d2', 'domestic/country/usa/leagues/apsl0')
-    load_games_standard('us_d2', 'domestic/country/usa/leagues/wsa4')
+    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/apsl')
+    load_games_standard('us_d2', 'domestic/country/usa/leagues/d3/wsa4')
 
     load_games_standard('us_d2', 'domestic/country/usa/playoffs/apsl')
     load_games_standard('us_d2', 'domestic/country/usa/playoffs/wsa')
@@ -666,9 +671,9 @@ def load_usl():
 
     load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/usl1')
     load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/ussfd2')
-    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/nasl2011')
-    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/nasl2012')
-    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/nasl2013')
+    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/2011')
+    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/2012')
+    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/2013')
 
     load_games_standard('us_d2', 'domestic/country/usa/playoffs/usl1')
     load_games_standard('us_d2', 'domestic/country/usa/playoffs/nasl2')

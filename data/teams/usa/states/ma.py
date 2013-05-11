@@ -13,6 +13,26 @@ l = [
         },
 
     {
+        'name': 'Fall River Portuguese SC',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Prospect Hill FC',
+        'city': 'Cambridge, MA',
+        },
+
+    {
+        'name': 'Fall River FC',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'New Bedford Portuguese SC',
+        'city': 'New Bedford, MA',
+        },
+
+    {
         'name': 'Abbot Worsted',
         'city': 'Forge Village, MA',
         },

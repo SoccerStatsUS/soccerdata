@@ -21,6 +21,11 @@ l = [
         },
 
     {
+        'name': 'Lincoln Brigade',
+        'city': 'Lincoln, NE',
+        },
+
+    {
         'name': '402 FC',
         'city': 'Omaha, NE',
         'founded': 2008,

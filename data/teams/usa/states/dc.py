@@ -17,4 +17,11 @@ l = [
         'city': 'Washington DC',
         'founded': 2012,
         },
+
+    {
+        'name': 'Washington Darts',
+        'city': 'Washington DC',
+        'founded': 1967,
+        'dissolved': 1971,
+        },
 ]

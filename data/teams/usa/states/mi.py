@@ -25,6 +25,11 @@ l = [
         },
 
     {
+        'name': 'Lansing Locomotive',
+        'city': 'Lansing, MI',
+        },
+
+    {
         'name': 'Detroit United',
         'city': 'Detroit, MI',
         'founded': 2002,

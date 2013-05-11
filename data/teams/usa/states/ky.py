@@ -12,6 +12,11 @@ l = [
         'dissolved': 2000,
         },
 
+    {
+        'name': 'Lexington Thoroughbreds',
+        'city': 'Louisville, KY',
+        },
+
 
     {
         'name': 'Louisville Thunder',

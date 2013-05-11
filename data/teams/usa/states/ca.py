@@ -25,6 +25,13 @@ l = [
         },
 
     {
+        'name': 'San Diego Toros',
+        'city': 'San Diego, CA',
+        'founded': 1967,
+        'dissolved': 1968,
+        },
+
+    {
         'name': 'DV8 Defenders',
         'city': 'Redwood City, CA',
         'founded': 1999,
@@ -95,6 +102,18 @@ l = [
         'city': 'Oakland, CA',
         'founded': 1980,
         'dissolved': 1980,
+        },
+
+    {
+        'name': 'San Francisco Gales',
+        'city': 'San Francisco, CA',
+        'founded': 1967,
+        'dissolved': 1967,
+        },
+
+    {
+        'name': 'Inland Empire Panteras',
+        'city': 'San Bernardino, CA',
         },
     {
         'name': 'Santa Barbara Condors',

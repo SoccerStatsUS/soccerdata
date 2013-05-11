@@ -13,7 +13,7 @@ l = [
         },
 
     {
-        'name': 'Albama Saints',
+        'name': 'Alabama Saints',
         'city': 'Birmingham, AL',
         'founded': 1997,
         'dissolved': 2000,

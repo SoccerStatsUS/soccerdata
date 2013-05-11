@@ -18,6 +18,11 @@ l = [
         },
 
     {
+        'name': 'I.R.T. Rangers',
+        'city': 'New York, NY',
+        },
+
+    {
         'name': 'New York Pancyprian-Freedoms',
         'city': 'Jamaica, NY',
         'founded': 1974,
@@ -80,6 +85,11 @@ l = [
     {
         'name': 'Brooklyn Morse Dry Dock',
         'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Albany Alleycats',
+        'city': 'Albany, NY',
         },
 
     {

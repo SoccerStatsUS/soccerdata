@@ -89,9 +89,8 @@ def process_stats():
     return lst
 
 
-nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/nasl'
-nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/npsl00.csv'
-
+nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/nasl'
+nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d2/npsl00.csv'
 
 foreign_map = {
     'Varzim': 'Varzim S.C.',

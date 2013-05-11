@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Chicago Bricklayers',
+        'city': 'Chicago, IL',
+        },
+
+    {
         'name': 'Chicago Red Stars',
         'city': 'Chicago, IL',
         'founded': 2007,
