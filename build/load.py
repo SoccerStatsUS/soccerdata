@@ -105,6 +105,7 @@ def load_games():
     load_uruguay()
     load_chile()
     load_conmebol()
+    load_mixed_confederation()
     return
     
     #load_brazil()
@@ -586,7 +587,9 @@ def load_apsl():
     """
     Load stats and games from the APSL and WSA.
     """
-    from soccerdata.text import apsl, awards
+    from soccerdata.text import awards
+    from soccerdata.text import apsl
+
     print "loading apsl stats"
     generic_load(soccer_db.us_d2_stats, apsl.process_apsl_stats)
 
@@ -780,6 +783,14 @@ def load_oceania_international():
     load_games_standard('oceania_i', 'international/confederation/ofc/polynesia')
     load_games_standard('oceania_i', 'international/confederation/ofc/nations')
 
+def load_mixed_confederation():
+
+    load_games_standard('world', 'domestic/confederation/mixed/panpacific')
+    load_games_standard('world', 'domestic/confederation/mixed/interamerican')
+
+    for e in [1960, 1970, 1980, 1990, 2000]:
+        load_games_standard('world', 'domestic/confederation/mixed/intercontinental/%s' % e)
+
 
 def load_conmebol():
 
@@ -907,14 +918,11 @@ def load_world():
     load_games_standard('mexico', 'domestic/country/mexico/friendly/palmares')
     load_games_standard('world', 'domestic/world/parmalat')
 
-    # Sort of a miscellaneous collection.
-    load_games_standard('world', 'domestic/world/panpacific')
+
     load_games_standard('world', 'domestic/world/copa_rio')
     load_games_standard('conmebol', 'domestic/confederation/conmebol/pequena')
-    load_games_standard('world', 'domestic/world/interamerican')
 
-    for e in [1960, 1970, 1980, 1990, 2000]:
-        load_games_standard('world', 'domestic/world/intercontinental/%s' % e)
+
 
     load_games_standard('misc', 'international/misc/fifa_world_stars_games')
 
