@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Estadio Olimpico (Tabasco)',
+        'location': 'Villahermosa, Mexico',
+        },
+
+    {
         'name': 'Estadio León',
         'location': 'León, Mexico',
         'opened': 1967,

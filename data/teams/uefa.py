@@ -502,6 +502,12 @@ l = [
         },
 
     {
+        'name': 'Boavista',
+        'founded': 1903,
+        'city': 'Porto, Portugal',
+        },
+
+    {
         'name': 'Ferencvaros',
         'founded': datetime.datetime(1899, 5, 3),
         'city': 'Budapest, Hungary',
@@ -879,6 +885,12 @@ l = [
         'name': 'Valencia CF',
         'founded': datetime.datetime(1919, 3, 18),
         'city': 'Valencia, Spain',
+        },
+
+    {
+        'name': 'Real Zaragoza',
+        'founded': datetime.datetime(1932, 3, 18),
+        'city': 'Zaragoza, Spain',
         },
     
     {
@@ -1310,6 +1322,12 @@ l = [
     {
         'name': 'Real Betis',
         'founded': datetime.datetime(1907, 9, 12),
+        'city': 'Seville, Spain',
+        },
+
+    {
+        'name': 'Sevilla FC',
+        'founded': datetime.datetime(1905, 10, 14),
         'city': 'Seville, Spain',
         },
     {

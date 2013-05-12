@@ -36,6 +36,11 @@ l = [
         'location': 'Seattle, WA',
         },
 
+    {
+        'name': 'Everett Memorial Stadium',
+        'location': 'Everett, WA',
+        },
+
 
     {
         'name': 'Cheney Stadium',

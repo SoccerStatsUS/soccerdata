@@ -28,6 +28,20 @@ l = [
         'capacity': 12000,
         },
 
+    {
+        'name': 'Nagai Stadium',
+        'location': 'Osaka, Japan',
+        'opened': 1964,
+        'capacity': 50000,
+        },
+
+    {
+        'name': 'Shizuoka Stadium',
+        'location': 'Fukuroi City, Japan',
+        'opened': 2001, # March 2001
+        'capacity': 50889,
+        },
+
 
     {
         'name': 'Thailand National Stadium',

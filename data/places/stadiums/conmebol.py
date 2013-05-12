@@ -23,6 +23,13 @@ l = [
         },
 
     {
+        'name': 'Estádio Alfredo Jaconi',
+        'location': 'Caxias do Sul, Brazil',
+        'opened': datetime.datetime(1975, 3, 23),
+        'capacity': 30519,
+        },
+
+    {
         'name': 'Estadio Ramón Tahuichi Aguilera',
         'location': 'Santa Cruz de la Sierra, Bolivia',
         'opened': datetime.datetime(1940, 5, 25),

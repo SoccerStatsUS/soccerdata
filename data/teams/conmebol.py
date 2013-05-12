@@ -724,6 +724,12 @@ l = [
         'founded': datetime.datetime(1901, 5, 25),
         'city': 'Buenos Aires, Argentina',
         },
+
+    {
+        'name': 'CA Platense',
+        'founded': datetime.datetime(1905, 5, 25),
+        'city': 'Buenos Aires, Argentina',
+        },
     {
         'name': 'Sao Paulo FC',
         'founded': datetime.datetime(1935, 12, 16),

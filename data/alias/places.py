@@ -16,6 +16,12 @@ def get_place(s):
 
 places = {
 
+    'Memorial Stadium, Everett, MA': 'Everett Memorial Stadium',
+
+    'Olympic Stadium, Tokyo': 'Tokyo National Olympic Stadium',
+    'National Stadium, Tokyo, Japan': 'Tokyo National Olympic Stadium',
+
+    'Estadio Olimpico, Villahermosa, México': 'Estadio Olimpico (Tabasco)',
     'Estadio Nou Camp, Leon, Guanajuato': 'Estadio León',
     'Stadium Universitario, Monterrey, Mexico': 'El Volcan',
     'Estadio Universitario, San Nicolas': 'El Volcan',

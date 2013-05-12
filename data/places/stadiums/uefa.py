@@ -36,6 +36,13 @@ l = [
         'capacity': 20854
         },
 
+    {
+        'name': 'Estádio da Luz',
+        'location': 'Lisbon, Portugal',
+        'opened': 2003, # October 2003
+        'capacity': 65647
+        },
+
 
     {
         'name': 'Stadio Renato Dall\'Ara',
@@ -50,6 +57,13 @@ l = [
         'location': 'London, England',
         'opened': 1904,
         'capacity': 18500,
+        },
+
+    {
+        'name': 'De Kuip',
+        'location': 'Rotterdam, Netherlands',
+        'opened': datetime.datetime(1937, 7, 23),
+        'capacity': 51577
         },
 
 
@@ -83,6 +97,13 @@ l = [
         'location': 'Graz, Austria',
         'opened': datetime.datetime(1997, 7, 9),
         'capacity': 15400,
+        },
+
+    {
+        'name': 'Estadio Multiusos de San Lázaro',
+        'location': 'Santiago de Compostela, Spain',
+        'opened': datetime.datetime(1993, 6, 24),
+        'capacity': 13000,
         },
 
     {
@@ -445,6 +466,13 @@ l = [
     {
         'name': 'Shepherds Bush Green',
         'location': 'London, England',
+        },
+
+    {
+        'name': 'Wildparkstadion',
+        'location': 'Karlsruhe, Germany',
+        'opened': datetime.datetime(1955, 8, 7),
+        'capacity': 29699
         },
 
     {

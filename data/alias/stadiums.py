@@ -24,6 +24,23 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Yokohama International Stadium': 'International Stadium Yokohama',
+    'Wildpark': 'Wildparkstadion',
+    'Vicente Calderon Stadium': 'Estadio Vicente Calderón',
+    'Vicente Calderon': 'Estadio Vicente Calderón',
+    'Estadio Vicente Calderon': 'Estadio Vicente Calderón',
+
+
+    'Olympisch Stadion': 'Amsterdam Olympic Stadium',
+    'La Doble Visera': 'Estadio Libertadores de América',
+    'El Cilindro': 'Estadio Presidente Juan Domingo Perón',
+    'Estadio da Luz': 'Estádio da Luz',
+    'Molson Stadium': 'Percival Molson Memorial Stadium',
+    'Estadio Olimpico de Caracas': 'Estadio Olímpico de la UCV',
+    'Estadio Olimpico Universitario (Caracas)': 'Estadio Olímpico de la UCV',
+    'Estadio Universitario (Caracas)': 'Estadio Olímpico de la UCV',
+    'Parque Antártica': 'Estádio Parque Antarctica',
+    'Estadio Jaconi': 'Estádio Alfredo Jaconi',
     'Stadium Tecnologico': 'Estadio Tecnológico',
     'Estadio Azulgrana': 'Estadio Azul',
     'Estadio Luis Gutierrez Dosal': 'Estadio Nemesio Díez',
@@ -138,8 +155,11 @@ stadiums = {
     'Estadio do Arruba': 'Estádio do Arruda',
     'Estadío Ramón Aguilera': 'Estadio Ramón Tahuichi Aguilera',
     'Estadio Ramon Tahuichi Aguilera': 'Estadio Ramón Tahuichi Aguilera',
+
     'Estadio Defensores Del Chaco': 'Estadio Defensores del Chaco',
+    'Defensores del Chaco': 'Estadio Defensores del Chaco',
     'Estadio de los Defensores del Chaco': 'Estadio Defensores del Chaco',
+
     'Estadio Parque Antartica': 'Estádio Parque Antarctica',
     'Estadío Independencia': 'Estádio Independência',
     'Estadio Independencia': 'Estádio Independência',
@@ -228,6 +248,7 @@ stadiums = {
     'Giovanni Berta': 'Stadio Artemio Franchi',
     'Estadio do Pacaembu': 'Estádio do Pacaembu',
     'Maracana': 'Estádio do Maracanã',
+    'Maracana Stadium': 'Estádio do Maracanã',
     'Estadio do Maracana': 'Estádio do Maracanã',
     'Estadio Ilha do Retiro': 'Estádio Ilha do Retiro',
     'Estadio Durival Britto': 'Estádio Vila Capanema',
@@ -292,13 +313,20 @@ stadiums = {
     'Estadio El Campin': 'Estadio El Campín',
     'Restelo Stadium': 'Estádio do Restelo',
     'B.C. Place': 'BC Place',
+
     'Estadio Nacional de Tegucigalpa': 'Estadio Tiburcio Carías Andino',
     'Tegucigalpa Estadío Nacional': 'Estadio Tiburcio Carías Andino',
     'Estadio Tiburcio Carias Andino': 'Estadio Tiburcio Carías Andino',
     'Estadio Nacional Tiburcio Carias': 'Estadio Tiburcio Carías Andino',
+    'Estadio Metropolitano Tiburcio Carias': 'Estadio Tiburcio Carías Andino',
+
     'Maksimir Stadion': 'Stadion Maksimir',
     'Estadio Zorilla': 'Estadio Nuevo José Zorrilla',
+
     'Tokyo National Stadium': 'Tokyo National Olympic Stadium',
+    'Tokyo Olympic Stadium': 'Tokyo National Olympic Stadium',
+    'National Stadium (Tokyo)': 'Tokyo National Olympic Stadium',
+
     'Tynecastle Park': 'Tynecastle Stadium',
     'Ibrox Park': 'Ibrox Stadium',
     'Trent Bridge Ground': 'Trent Bridge',
@@ -354,6 +382,8 @@ stadiums = {
     'Estadio Nemesio Diez': 'Estadio Nemesio Díez',
 
     'Estadio Olimpico Universitario': 'Estadio Olímpico Universitario',
+    'Estadio Olimpico Universitario Mexico 68': 'Estadio Olímpico Universitario',
+
     'Estadio Tecnologico': 'Estadio Tecnológico',
     'Estadio Francisco Morazan': 'Estadio Francisco Morazán',
 
@@ -393,7 +423,10 @@ stadiums = {
     'Niedersachsenstadion': 'AWD-Arena',
     'Neckerstadion': 'Mercedes-Benz Arena',
     'Santiago Bernabeu': 'Estadio Santiago Bernabéu',
-    'Vicente Calderon': 'Estadio Vicente Calderón',
+    'Estadio Santiago Bernabeu': 'Estadio Santiago Bernabéu',
+
+    'Estadio de San Lazaro': 'Estadio Multiusos de San Lázaro',
+
     'Jose Rico Perez': 'Estadio José Rico Pérez',
     'Riazor': 'Estadio Riazor',
     'La Rosaleda': 'Estadio La Rosaleda',

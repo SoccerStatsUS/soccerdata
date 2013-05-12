@@ -63,6 +63,12 @@ slugs = {
 
 
 world = {
+    'Wollongong Wolves': 'South Coast Wolves FC',
+    'Ulsan Hyundai': 'Ulsan Hyundai FC',
+    'Jeonbuk Motors': 'Jeonbuk Hyundai Motors',
+    'FK Rapid Wien': 'Rapid Vienna',
+    'FC Boavista': 'Boavista',
+    'CA Nacional': 'Nacional',
     'Fort Lauderdale Kicks': 'Fort Lauderdale Strikers',
     'Oklahoma City Heat': 'Oklahoma City Slickers',
     'New York Capital District Alleycats': 'Albany Alleycats',
@@ -402,7 +408,7 @@ world = {
     'Western Samoa': 'Samoa',
     'Virginia Tech University': 'Virginia Tech',
     'Dorados Sinaloa': 'Dorados de Sinaloa',
-    'Ferencvaros': 'Ferencváros',
+
     'Uda Dukla': 'Dukla Prague',
     'Ujpest': 'Újpest FC',
     'Újpesti Dózsa': 'Újpest FC',
@@ -419,7 +425,6 @@ world = {
     'Newcastle United Jets': 'Newcastle Jets',
     'North Queensland Fury': 'Northern Fury',
     'AS Monaco': 'AS Monaco FC',
-    'Ferencvaros': 'Ferencváros',
     'Bon Sucesso': 'Bonsucesso',
     'Fluminense FC': 'Fluminense',
     'UDA Dukla Praha': 'Dukla Prague',
@@ -513,12 +518,13 @@ world = {
     'Audax CS Italiano': 'Audax Italiano',
     'Parmalat FC': 'Videoton FC', #team map',
     'AC Parma': 'Parma F.C.',
+    'Parma': 'Parma F.C.',
     'EC Palmeiras': 'Palmeiras',
     'Crvena zvezda Beograd': 'Red Star Belgrade',
     'Atletico Nacional Medellin': 'Atletico Nacional',
     'Milan AC': 'AC Milan',
     'Steaua Bucuresti': 'FC Steaua București',
-    'FC Saarbrücken': '1. FC Saarbrücken',
+
     'Grasshopper': 'Grasshoppers',
     'Gremio FBPA': 'Grêmio',
     'SV River Plate': 'SV River Plate Aruba',
@@ -660,7 +666,6 @@ world = {
     'BK Hacken': 'BK Häcken',
     'Stabaek': 'Stabæk Fotball',
     'SV Itsehoe': 'Itzehoer SV',
-    '1. FC Saarbrucken': '1. FC Saarbrücken',
     'Ado Den Haag': 'ADO Den Haag',
 
 
@@ -873,6 +878,8 @@ world = {
     # Portugal
     #Oporto (Portugal)
     #Caldas (Portugal)
+    
+    'Porto': 'FC Porto',
 
     'Belenenses': 'C.F. Os Belenenses',
     'Sporting Club Lisbon': 'Sporting Lisbon',
@@ -949,6 +956,7 @@ world = {
     'Crvena Zvezda': 'SD Crvena Zvezda',
     # Partizan Belgrad, Beograd, ...FK Partizan
     'Partizan': 'Partizan Belgrade',
+    'Partizan Beograd': 'Partizan Belgrade',
 
     # Greece
     'apollon': 'Apollon',
@@ -1010,6 +1018,9 @@ world = {
 
     # Hungary
     'Ferencvaros': 'Ferencvárosi TC',
+    #'Ferencvaros': 'Ferencváros',
+    'Ferencváros': 'Ferencvárosi TC',
+
     'Ujpest Dosza': 'Újpest FC',
     'Ujpest': 'Újpest FC',
 
@@ -1152,6 +1163,10 @@ world = {
     'Reutlingen': 'SSV Reutlingen 05',
     'Saarbrucken': '1. FC Saarbrücken',
     'Saarbruecken': '1. FC Saarbrücken',
+    '1. FC Saarbrucken': '1. FC Saarbrücken',
+    'FC Saarbrücken': '1. FC Saarbrücken',
+    'FC Saarbrucken': '1. FC Saarbrücken',
+
     'Schalke 04': 'FC Schalke 04',
     'Splitdorf FC': 'Splitdorf F.C',
     'V.F.B. Stuttgart': 'VfB Stuttgart',
@@ -1508,8 +1523,8 @@ world = {
     'Recife': 'SC Recife',
     'Uberlandia (Brazil)': 'Uberlândia Esporte Clube',
     'Uberlandia': 'Uberlândia Esporte Clube',
-    'Vasco da Gama -- Brazil': 'Vasco da Gama',
-    'Vasco Da Gama': 'Vasco da Gama',
+    'Vasco da Gama -- Brazil': 'CR Vasco da Gama',
+    'Vasco Da Gama': 'CR Vasco da Gama',
     'Vasco da Gama': 'CR Vasco da Gama',
     'Vitoria (Salvador)': 'EC Vitória',
 
@@ -1532,8 +1547,10 @@ world = {
 
     # Bermuda
     #Vasco da Gama (Bermuda)
+    #'Vasco da Gama': 'Vasco da Gama (Bermuda)',
+
     'North Village Red Devils': 'North Village Rams',
-    'Vasco da Gama': 'Vasco da Gama (Bermuda)',
+
     'Dandy Town': 'Dandy Town Hornets',
     'Vasco Da Gama (Bermuda)': 'Vasco da Gama (Bermuda)',
     'Pembroke-Hamilton': 'Pembroke Hamilton Club',

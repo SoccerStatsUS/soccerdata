@@ -41,6 +41,10 @@ l = [
         'founded': 2008,
         'city': 'Melbourne, Australia',
         },
+    {
+        'name': 'Hekari United',
+        'city': 'Port Moresby, Papua New Guinea',
+        },
 
     {
         'name': 'Melbourne Victory',
@@ -54,6 +58,12 @@ l = [
         },
     {
         'name': 'New Zealand Knights',
+        'founded': 2004,
+        'city': 'Auckland, New Zealand',
+        },
+
+    {
+        'name': 'Auckland City FC',
         'founded': 2004,
         'city': 'Auckland, New Zealand',
         },
@@ -78,6 +88,18 @@ l = [
         'name': 'Western Sydney Wanderers',
         'founded': 2012,
         'city': 'Western Sydney, Australia',
+        },
+
+    {
+        'name': 'South Coast Wolves FC',
+        'founded': 1980,
+        'city': 'Wollongong, Australia',
+        },
+
+    {
+        'name': 'Waitakere United',
+        'founded': 2004,
+        'city': 'Waitakere, New Zealand',
         },
 
 ]
