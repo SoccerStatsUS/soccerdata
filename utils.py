@@ -1,3 +1,4 @@
+import hashlib
 import leveldb
 import os
 import random
@@ -11,6 +12,25 @@ db = leveldb.LevelDB("/home/chris/leveldb/page")
 
 # USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 5.1; rv:8.0; en_us) Gecko/20100101 Firefox/8.0'
+
+
+def get_id():
+    return hashlib.md5(str(time.time())).hexdigest()
+
+
+class IDCounter(object):
+    """
+    A generic counter used for getting unique, sequential game id's.
+    """
+    
+    def __init__(self):
+        self.id = 1
+
+    def get(self):
+        v = self.id
+        self.id += 1
+        return v
+
 
 def list_paths(root):
     l = []

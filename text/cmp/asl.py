@@ -3,9 +3,10 @@
 import datetime
 import re
 
+from utils import get_id
+
 games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/asl.csv'
 stats_filename = '/home/chris/www/soccerdata/data/stats/aslstats.csv'
-
 
 
 def get_full_name_stats(team, season):
@@ -136,13 +137,6 @@ LEWIS_CUP_YEARS = set([
     ])
 
 
-        
-
-
-        
-        
-
-
 def process_stats():
     f = open(stats_filename)
     l = []
@@ -152,7 +146,6 @@ def process_stats():
         l.append(lx)
 
     return [e for e in l if e]
-
 
 
 def load_stat(line):
@@ -173,15 +166,9 @@ def load_stat(line):
     season_games, cup_games, other_cup_games, season_goals, cup_goals, other_cup_goals = stats
 
 
-
-
-
     if "-" in season:
         start, end = season.split("-")
         season = "19%s-19%s" % (start, end)
-
-
-    
 
 
     team_name = get_full_name_stats(team, season)
@@ -196,55 +183,8 @@ def load_stat(line):
             'goals': season_goals,
             'source': 'American Soccer League (1921-1931)',
             }]
-
-
-
-
-    # Not doing these anymore; have better way to get open cup scores.
-    """
-    if cup_games or cup_goals:
-
-        if season in ('1930 Fall', '1931 Spring'):
-            sx = '1931'
-        elif season in ('1931 Fall', '1932 Spring', '1932'):
-            sx = '1932'
-
-        else:
-            try:
-                sx = season.split("-")[1]
-            except:
-                import pdb; pdb.set_trace()
-
-        l.append({
-                'name': name,
-                'team': team_name,
-                'season': sx,
-                'competition': 'U.S. Open Cup',
-                'games_played': cup_games,
-                'goals': cup_goals,
-                })
-
-    if other_cup_games or other_cup_goals:
-        if season in LEWIS_CUP_YEARS:
-            other_cup = "Lewis Cup"
-            oc_season = season.split("-")[1]
-        else:
-            other_cup = "American Cup"
-            oc_season = season
-            print season, name, team
-
-        l.append({
-                'name': name,
-                'team': team_name,
-                'season': oc_season,
-                'competition': other_cup,
-                'games_played': other_cup_games,
-                'goals': other_cup_goals,
-                })
-    """
         
     return l
-
 
 
 def get_standings_dict():
@@ -281,9 +221,6 @@ def get_full_name(name, competition, season):
 
     # Get teams that played in a given season.
     ncompetition = competition.replace("Playoffs", '').strip()
-
-
-
 
     try:
         names = STANDINGS_DICT[(ncompetition, nseason)]
@@ -330,7 +267,6 @@ def process_games():
             goal_list.extend(goals)
 
     return game_list, goal_list
-
 
 
 class GameProcessor(object):
@@ -435,7 +371,10 @@ class GameProcessor(object):
             away_team = team
             away_score = team_score
 
+        gid = get_id()
+
         game_data =  {
+            'gid': gid,
             'competition': competition,
             'season': season,
             'date': d,
@@ -464,6 +403,7 @@ class GameProcessor(object):
 
             for e in range(count):
                 goal_list.append({
+                        'gid': gid,
                         'team': team,
                         'season': season,
                         'competition': competition,

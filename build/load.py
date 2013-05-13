@@ -1,6 +1,8 @@
 from soccerdata.mongo import generic_load, soccer_db
 
-from soccerdata.text import asl
+from soccerdata.text.cmp import apsl, asl, copaamerica, leach, nasl
+
+
 from soccerdata.text import awards
 from soccerdata.text import bios
 from soccerdata.text import drafts
@@ -77,9 +79,25 @@ def load_drafts():
 
 
 def load_games():
+    load_mixed_confederation()
+    return
+
+    load_world()
+
+    load_concacaf()
+    load_conmebol()
+    load_oceania()
+
     load_nasl()   
     load_asl()
-    return
+
+
+
+    load_argentina()
+    load_uruguay()
+    load_chile()
+    load_mexico()
+
     load_pdl()
     load_usl()
 
@@ -93,24 +111,19 @@ def load_games():
     load_modern_friendlies()
 
 
-    return
+
     load_leach()     
-    load_concacaf()
+
     load_early_cups()
     load_early_friendlies()
-    return
 
-    load_world()
-    load_argentina()
-    load_uruguay()
-    load_chile()
-    load_conmebol()
-    load_mixed_confederation()
-    return
+
+
+
     
     #load_brazil()
 
-    load_mexico()
+
 
     load_city()
     load_ny()
@@ -133,7 +146,7 @@ def load_games():
     load_china()
 
     load_usmnt()
-    load_oceania()
+
     load_oceania_international()
     load_ncaa()
 
@@ -204,7 +217,7 @@ def load_bios():
     print "Loading chris's compiled bios."
 
     generic_load(soccer_db.fifa_bios, bios.process_world_cup_bios)
-    generic_load(soccer_db.misl_bios, bios.process_misl_bios)
+    generic_load(soccer_db.nasl_bios, bios.process_misl_bios)
     generic_load(soccer_db.nasl_bios, bios.process_nasl_bios)
     generic_load(soccer_db.usa_bios, bios.process_usa_bios)
     generic_load(soccer_db.mls_bios, bios.process_mls_bios)
@@ -523,7 +536,7 @@ def load_analysis():
     
 
 def load_copa_america():
-    from soccerdata.text import copaamerica
+
     coll = 'conmebol_i'
     games, goals, fouls, lineups = copaamerica.process_copa_files()
 
@@ -562,7 +575,6 @@ def load_nasl():
     """
     Load stats from the old nasl and misl.
     """
-    from soccerdata.text import nasl
 
     print "Loading NASL data.\n"
     load_excel_standings('nasl', 'domestic/country/usa/nasl')
@@ -588,7 +600,6 @@ def load_apsl():
     Load stats and games from the APSL and WSA.
     """
     from soccerdata.text import awards
-    from soccerdata.text import apsl
 
     print "loading apsl stats"
     generic_load(soccer_db.us_d2_stats, apsl.process_apsl_stats)
@@ -625,7 +636,6 @@ def load_indoor():
 
 
 def load_leach():
-    from soccerdata.text import leach
     generic_load(soccer_db.leach_goals, leach.process_goals)
     generic_load(soccer_db.leach_games, leach.process_games)
     generic_load(soccer_db.leach_lineups, leach.process_lineups)
@@ -787,6 +797,7 @@ def load_mixed_confederation():
 
     load_games_standard('world', 'domestic/confederation/mixed/panpacific')
     load_games_standard('world', 'domestic/confederation/mixed/interamerican')
+    load_games_standard('world', 'domestic/confederation/mixed/suruga')
 
     for e in [1960, 1970, 1980, 1990, 2000]:
         load_games_standard('world', 'domestic/confederation/mixed/intercontinental/%s' % e)
@@ -804,7 +815,7 @@ def load_conmebol():
 
     load_games_standard('conmebol', 'domestic/confederation/conmebol/recopa_sudamericana')
     load_games_standard('conmebol', 'domestic/confederation/conmebol/sacc')
-    load_games_standard('conmebol', 'domestic/confederation/conmebol/suruga')
+
 
     return
 
@@ -905,7 +916,8 @@ def load_world():
     generic_load(soccer_db.world_awards, awards.process_world_awards)
 
     load_games_standard('world', 'domestic/world/club_world_cup/2000')
-    for e in range(2006, 2013):
+    load_games_standard('world', 'domestic/world/club_world_cup/2001')
+    for e in range(2005, 2013):
         load_games_standard('world', 'domestic/world/club_world_cup/%s' % e)
 
 

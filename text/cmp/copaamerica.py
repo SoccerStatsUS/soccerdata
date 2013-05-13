@@ -15,6 +15,7 @@ import datetime
 import os
 import re
 
+from utils import get_id
 
        
 def process_copa_files():
@@ -59,8 +60,6 @@ def process_lines(lines):
     return (gp.games, gp.goals, gp.misconduct, gp.appearances)
         
 
-
-
 def process_name(s):
     """Clean up a player name. Remove possible leading numbers.
     e.g. '18-Tim Howard ' -> 'Tim Howard'"""
@@ -70,8 +69,6 @@ def process_name(s):
         return m.groups()[1].strip()
     else:
         return s
-
-
 
 
 class GeneralProcessor(object):
@@ -157,27 +154,28 @@ class GeneralProcessor(object):
             attendance, referee, linesmen = self.process_attendance_ref(block[2])
             
             g = {
-            'competition': self.competition,
-            'season': self.season,
-            'date': date,
+                'gid': get_id(),
+                'competition': self.competition,
+                'season': self.season,
+                'date': date,
 
-            'team1': team1,
-            'team2': team2,
-            'team1_score': team1_score,
-            'team2_score': team2_score,
-            #'team1_result': team1_result,
-            #'team2_result': team2_result,
-            #'home_team': home_team,
-            #'neutral': neutral,
+                'team1': team1,
+                'team2': team2,
+                'team1_score': team1_score,
+                'team2_score': team2_score,
+                #'team1_result': team1_result,
+                #'team2_result': team2_result,
+                #'home_team': home_team,
+                #'neutral': neutral,
 
-            'location': location,
-            'referee': referee,
-            #'linesmen': linesmen,
-            'attendance': attendance,
-            'minigame': False,
-            'forfeit': False,
-            'sources': self.sources[:],
-            }
+                'location': location,
+                'referee': referee,
+                #'linesmen': linesmen,
+                'attendance': attendance,
+                'minigame': False,
+                'forfeit': False,
+                'sources': self.sources[:],
+                }
             self.current_game = g
             self.games.append(g)
 

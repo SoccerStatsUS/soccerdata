@@ -7,17 +7,17 @@
 
 # Need to add in home_team
 
-
 import datetime
 import os
 import re
 
-
+from utils import get_id
 
 
 def process_string(s):
     lines = s.split('\n')
     return process_lines(lines)
+
 
 def process_lines(lines):
     gp = GeneralProcessor()
@@ -34,9 +34,6 @@ def process_games_file(fn):
 def process_file(p):
     f = open(p)
     return process_lines(f)
-
-
-
 
 
 def process_name(s):
@@ -104,8 +101,6 @@ def filter_brackets(s):
         import pdb; pdb.set_trace()
 
     return t
-            
-            
 
 
 class GeneralProcessor(object):
@@ -349,6 +344,7 @@ class GeneralProcessor(object):
                 name, minute = s.strip(), None
 
             return {
+                'gid': self.current_game['gid'],
                 'competition': self.competition,
                 'date': self.current_game['date'],
                 'season': self.season,
@@ -576,6 +572,7 @@ class GeneralProcessor(object):
         
 
         g = {
+            'gid': get_id(),
             'competition': self.competition,
             'season': self.season,
             'round': self.round,
@@ -606,6 +603,7 @@ class GeneralProcessor(object):
             'notes': '',
             'video': '',
             'minutes': minutes,
+
             }
 
         self.current_game = g
@@ -639,6 +637,7 @@ class GeneralProcessor(object):
 
 
             base = {
+                'gid': self.current_game['gid'],
                 'team': team,
                 'competition': self.competition,
                 'date': self.current_game['date'],
@@ -741,6 +740,7 @@ class GeneralProcessor(object):
 
 
             return {
+                'gid': self.current_game['gid'],
                 'competition': self.competition,
                 'date': self.current_game['date'],
                 'season': self.season,

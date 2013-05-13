@@ -1,92 +1,15 @@
 # Process game data for the original NASL.
 # Need to simplify, export, and remove this.
 
-
 import datetime
 import os
 import re
 
+from utils import get_id
+
 from soccerdata.cache import data_cache
 from soccerdata.mongo import soccer_db
 
-
-
-def load_appearance_rosters():
-    # For converting Colin Jose name abbreviations into actual names.
-    d = {}
-    season = None
-    NASL_ROSTERS_DIR = '/home/chris/www/soccerdata/data/rosters/nasl'
-    f = open(NASL_ROSTERS_DIR)
-    for line in f:
-        if not line.strip():
-            continue
-
-        if line.startswith('Season:'):
-            season = line.split("Season:")[1].strip()
-        elif line.startswith("*"):
-            pass
-        else:
-            team, players = line.split(':')
-            player_list = [e.strip() for e in players.split(',')]
-            d[(season, team)] = player_list
-
-    return d
-
-
-
-def player_from_abbreviation(code, roster):
-    mapping = 'abcdefghijklmnopqrstuvwxyz1234'
-    i = mapping.find(code)
-    return roster[i]
-
-
-# This is for the New NASL!!!
-# This should be split off into a separate file!!!
-def process_stats():
-    """
-    Process modern NASL stats taken from nasl.com
-    """
-
-    NASL_STATS_DIR = '/home/chris/www/soccerdata/data/stats/nasl2'
-
-    lst = []
-    for fn in ('2011', '2012'):
-        p = os.path.join(NASL_STATS_DIR, fn)
-        f = open(p)
-        for line in f:
-
-            fields = line.split("  ") # 2 spaces
-            fields = [e.strip() for e in fields if e.strip()]
-
-            if fn == '2011':
-                name, team, goals, assists, shots, yc, rc, minutes = fields
-                sog = None
-            else:
-                try:
-                    name, team, goals, assists, shots, sog, yc, rc, minutes = fields
-                except:
-                    print line
-                    continue
-
-                sog = int(sog)
-
-            name = name.split(")")[1].strip()
-            lst.append({
-                    'competition': "North American Soccer League (2011-)",
-                    'season': fn,
-                    'name': name,
-                    'team': team,
-                    'position': '',
-                    'goals': int(goals),
-                    'assists': int(assists),
-                    'shots': int(shots),
-                    'shots_on_goal': sog,
-                    'yellow_cards': int(yc),
-                    'red_cards': int(rc),
-                    'minutes': int(minutes),
-                    })
-                
-    return lst
 
 
 nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/nasl'
@@ -215,14 +138,8 @@ season_map = {
     (1980, 'Philadelphia'): 'Philadelphia Fury',
     (1981, 'Washington'): 'Washington Diplomats',
     (1984, 'Minnesota'): 'Minnesota Strikers',
-
-     
     }
 
-
-# Just fill this out by referencing Wikipedia.
-team_map = {
-}
 
 competition_map = {
     'NASL': 'North American Soccer League',
@@ -233,7 +150,81 @@ competition_map = {
     }
 
 
+def load_appearance_rosters():
+    # For converting Colin Jose name abbreviations into actual names.
+    d = {}
+    season = None
+    NASL_ROSTERS_DIR = '/home/chris/www/soccerdata/data/rosters/nasl'
+    f = open(NASL_ROSTERS_DIR)
+    for line in f:
+        if not line.strip():
+            continue
 
+        if line.startswith('Season:'):
+            season = line.split("Season:")[1].strip()
+        elif line.startswith("*"):
+            pass
+        else:
+            team, players = line.split(':')
+            player_list = [e.strip() for e in players.split(',')]
+            d[(season, team)] = player_list
+
+    return d
+
+
+def player_from_abbreviation(code, roster):
+    mapping = 'abcdefghijklmnopqrstuvwxyz1234'
+    i = mapping.find(code)
+    return roster[i]
+
+
+# This is for the New NASL!!!
+# This should be split off into a separate file!!!
+def process_stats():
+    """
+    Process modern NASL stats taken from nasl.com
+    """
+
+    NASL_STATS_DIR = '/home/chris/www/soccerdata/data/stats/nasl2'
+
+    lst = []
+    for fn in ('2011', '2012'):
+        p = os.path.join(NASL_STATS_DIR, fn)
+        f = open(p)
+        for line in f:
+
+            fields = line.split("  ") # 2 spaces
+            fields = [e.strip() for e in fields if e.strip()]
+
+            if fn == '2011':
+                name, team, goals, assists, shots, yc, rc, minutes = fields
+                sog = None
+            else:
+                try:
+                    name, team, goals, assists, shots, sog, yc, rc, minutes = fields
+                except:
+                    print line
+                    continue
+
+                sog = int(sog)
+
+            name = name.split(")")[1].strip()
+            lst.append({
+                    'competition': "North American Soccer League (2011-)",
+                    'season': fn,
+                    'name': name,
+                    'team': team,
+                    'position': '',
+                    'goals': int(goals),
+                    'assists': int(assists),
+                    'shots': int(shots),
+                    'shots_on_goal': sog,
+                    'yellow_cards': int(yc),
+                    'red_cards': int(rc),
+                    'minutes': int(minutes),
+                    })
+                
+    return lst
 
 
 def get_full_name(name, season):
@@ -255,7 +246,6 @@ def get_full_name(name, season):
     print "(NASL) failed to get name for %s" % name
     return name
     
-
 
 def process_nasl_games():
     return process_games(nasl_games_filename, ';')[0]
@@ -382,7 +372,10 @@ class GameProcessor(object):
 
             home_score = away_score = min(home_score, away_score)
 
+        gid = get_id()
+
         game_data = {
+            'gid': gid,
             'competition': competition,
             'season': season,
             'date': d,
@@ -413,6 +406,7 @@ class GameProcessor(object):
 
             for e in range(count):
                 goal_list.append({
+                        'gid': gid,
                         'team': team,
                         'season': season,
                         'competition': competition,
@@ -448,6 +442,7 @@ class GameProcessor(object):
                     raise
 
                 appearance_list.append({
+                        'gid': gid,
                         'name': name,
                         'on': 0,
                         'off': off,
