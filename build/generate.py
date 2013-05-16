@@ -102,6 +102,8 @@ def generate_competition_stats():
 
     competition_generate('Mundialito')
 
+    competition_generate('Women\'s Professional Soccer')
+
     #competition_generate('North American Soccer League')
 
 
@@ -134,6 +136,11 @@ def generate_competition_standings():
     sg2('CONCACAF Cup Winners Cup')
     sg2('CONCACAF Giants Cup')
     sg2('North American Superliga')
+
+    sg2('Women\'s Professional Soccer')
+    sg2('National Women\'s Soccer League')
+    sg2('Women\'s Premier Soccer League Elite')
+    sg2('Women\'s Premier Soccer League')
 
 
     sg2('International Soccer League')

@@ -79,6 +79,8 @@ def load_drafts():
 
 
 def load_games():
+    load_women()
+    return
     load_mixed_confederation()
     return
 
@@ -137,7 +139,7 @@ def load_games():
     #load_uncaf_international()
     load_world_international()
 
-    load_women()
+
 
 
     load_korea()
@@ -391,6 +393,11 @@ def load_brazil_international():
 
 def load_women():
     load_games_standard('women', 'domestic/country/usa/leagues/women/nwsl')
+    load_games_standard('women', 'domestic/country/usa/leagues/women/wps')
+    load_games_standard('women', 'domestic/country/usa/leagues/women/wpsl_elite')
+
+    for e in range(2007, 2013):
+        load_games_standard('women', 'domestic/country/usa/leagues/women/wpsl/%s' % e)
 
 
 def load_mls():
@@ -405,7 +412,7 @@ def load_mls():
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
 
     print "Loading MLS playoff data.\n"
-    load_games_standard('mls', 'domestic/country/usa/leagues/d1/mls/reserve')
+    load_games_standard('mls', 'domestic/country/usa/leagues/reserve/mls')
 
     for e in ['attendance', '2011', '2012', '2013']:
         load_games_standard('mls', 'domestic/country/usa/leagues/d1/mls/%s' % e)
@@ -459,11 +466,12 @@ def load_nafbl():
 
     load_games_standard('nafbl', 'domestic/country/usa/leagues/d1/alpf')
 
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/nafbl1')
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/nafbl2')
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/snesl')
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/regional/nafbl1')
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/regional/nafbl2')
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/regional/snesl')
+    load_games_standard('nafbl', 'domestic/country/usa/leagues/regional/nasfl')
     load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/isl') # ISL 1925?
-    load_games_standard('nafbl', 'domestic/country/usa/leagues/misc/nasfl')
+
 
 
 def load_city():
@@ -573,7 +581,7 @@ def load_asl2():
 
 def load_nasl():
     """
-    Load stats from the old nasl and misl.
+    Load stats from the old nasl and misl.x
     """
 
     print "Loading NASL data.\n"
@@ -657,7 +665,7 @@ def load_mls_lineup_db():
 
 def load_pdl():
     from soccerdata.text import pdl
-    load_excel_standings('us_d4', 'domestic/country/usa/usl/pdl')
+    load_excel_standings('us_d4', 'domestic/country/usa/usl/d4/pdl')
     generic_load(soccer_db.us_d4_awards, awards.process_pdl_awards)
     generic_load(soccer_db.us_d4_stats, stats.process_pdl_stats)
     generic_load(soccer_db.us_d4_games, pdl.load_pdl_games)
