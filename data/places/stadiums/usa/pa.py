@@ -21,6 +21,13 @@ l = [
         },
 
     {
+        'name': 'Villanova Stadium',
+        'location': 'Villanova, PA',
+        'capacity': 12500,
+        'opened': datetime.datetime(1927, 10, 8),
+        },
+
+    {
         'name': 'The Spectrum',
         'location': 'Philadelphia, PA',
         'opened': datetime.datetime(1967, 9, 30),
@@ -67,6 +74,12 @@ l = [
     {
         'name': 'Sox Harrison Stadium',
         'location': 'Edinboro, PA',
+        },
+
+    {
+        'name': 'John A. Farrell Stadium',
+        'location': 'West Chester, PA',
+        'capacity': 7500,
         },
 
     {

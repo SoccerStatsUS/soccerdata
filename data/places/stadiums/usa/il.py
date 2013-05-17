@@ -39,8 +39,19 @@ l = [
         },
 
     {
+        'name': 'Ralph Korte Stadium',
+        'location': 'Edwardsville, IL',
+        'capacity': 4000,
+        },
+
+    {
         'name': 'DePaul Field',
         'location': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Benedictine University Sports Complex Stadium',
+        'location': 'Lisle, IL',
         },
     {
         'name': 'Lake Forest Academy',

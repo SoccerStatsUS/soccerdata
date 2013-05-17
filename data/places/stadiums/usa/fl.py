@@ -15,6 +15,11 @@ l = [
         'name': 'Ted Henricks Stadium',
         'location': 'Hialeah, FL',
         },    
+
+    {
+        'name': 'FAU Soccer Stadium',
+        'location': 'Boca Raton, FL',
+        },    
     {
         'name': 'Premier Sports Campus',
         'location': 'Lakewood Ranch, FL',

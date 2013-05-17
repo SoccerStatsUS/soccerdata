@@ -14,6 +14,14 @@ l = [
         'location': 'Overland Park, KS',
         },
 
+
+
+    {
+        'name': 'Shawnee Mission North High School Stadium',
+        'address': '7401 Johnson Dr',
+        'location': 'Overland Park, KS',
+        },
+
     {
         'name': 'Overland Park Soccer Complex',
         'address': '13800 Switzer Road',

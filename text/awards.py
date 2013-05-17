@@ -276,6 +276,11 @@ def process_world_cup_awards():
     return process_awards(d)
 
 
+def process_women_awards():
+    from soccerdata.data.lists.awards.women import wusa, wps
+    return process_awards(wusa) + process_awards(wps)
+
+
 def process_world_awards():
     from soccerdata.data.lists.awards import world 
     return process_awards(world.intercontinental_cup) + process_awards(world.interamerican_cup) + \

@@ -27,7 +27,7 @@ l = [
     
     
     {
-        'name': 'Navy-Marine Corps Stadium',
+        'name': 'Navy-Marine Corps Memorial Stadium',
         'address': 'Rowe Blvd & Taylor Ave',
         'location': 'Annapolis, MD',
         'opened': 1959,

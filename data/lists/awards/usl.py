@@ -532,7 +532,7 @@ usl_pdl = {
     'MVP': [
         (1997, 'Lester Felicia'),
         (1998, 'Rodrigo Costa'),
-        (1999, 'Fabio Eidenwein'),
+        (1999, 'Fabio Eidelwein'),
         (2000, 'Fernando Salazar'),
         (2002, 'Tomas Boltnar'),
         (2003, 'Tomas Boltnar'),

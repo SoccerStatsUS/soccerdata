@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-d = {
+wusa = {
     'competition': 'Women\'s United Soccer Association',
     'team_data': ['Champion'],
     'champion': 'Champion',
@@ -48,7 +48,7 @@ d = {
      
 }
 
-d = {
+wps = {
     'competition': 'Women\'s Professional Soccer',
     'team_data': ['Champion'],
     'champion': 'Champion',
@@ -90,7 +90,7 @@ d = {
 }
 
 
-d = {
+wpsl = {
     'competition': 'WPSL',
     'team_data': ['Champion'],
     'champion': 'Champion',

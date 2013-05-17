@@ -30,6 +30,13 @@ l = [
         },
 
     {
+        'name': 'Fetzer Field',
+        'location': 'Chapel Hill, NC',
+        'opened': 1935,
+        'capacity': 5025,
+        },
+
+    {
         'name': 'Queens University Stadium',
         'location': 'Charlotte, NC',
         },

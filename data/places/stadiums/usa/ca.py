@@ -17,6 +17,11 @@ l = [
         },
 
     {
+        'name': 'Castro Valley Athletic Stadium',
+        'location': 'Castro Valley, CA',
+        },
+
+    {
         'name': 'Caroline Coleman Stadium',
         'location': 'Inglewood, CA',
         },
@@ -29,6 +34,14 @@ l = [
     {
         'name': 'Trabuco Hills High School Stadium',
         'location': 'Mission Viejo, CA',
+        },
+
+    {
+        'name': 'Pioneer Stadium',
+        'opened': 1964,
+        'location': 'Hayward, CA',
+        'capacity': 5000,
+
         },
 
     {

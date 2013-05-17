@@ -16,5 +16,11 @@ l = [
         'name': 'Indianapolis Soccer Stadium',
         'location': 'Indianapolis, IN',
         },
+
+    {
+        'name': 'Indiana Invaders Soccer Complex',
+        'location': 'Indianapolis, IN',
+        'capacity': 4985,
+        },
     
     ]

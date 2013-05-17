@@ -80,6 +80,8 @@ def load_drafts():
 
 def load_games():
     load_women()
+    load_asl()
+    load_asl2()       
     return
     load_mixed_confederation()
     return
@@ -91,7 +93,7 @@ def load_games():
     load_oceania()
 
     load_nasl()   
-    load_asl()
+
 
 
 
@@ -107,7 +109,7 @@ def load_games():
     load_apsl()
     load_mls() 
 
-    load_asl2()       
+
 
     load_modern_cups()
     load_modern_friendlies()
@@ -392,9 +394,14 @@ def load_brazil_international():
 
 
 def load_women():
+
+    generic_load(soccer_db.women_awards, awards.process_women_awards)
+
+    load_games_standard('women', 'domestic/country/usa/leagues/women/wusa')
     load_games_standard('women', 'domestic/country/usa/leagues/women/nwsl')
     load_games_standard('women', 'domestic/country/usa/leagues/women/wps')
     load_games_standard('women', 'domestic/country/usa/leagues/women/wpsl_elite')
+
 
     for e in range(2007, 2013):
         load_games_standard('women', 'domestic/country/usa/leagues/women/wpsl/%s' % e)

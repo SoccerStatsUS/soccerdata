@@ -454,6 +454,7 @@ class GeneralProcessor(object):
 
             year = int(year)
             if year < 1800:
+                import pdb; pdb.set_trace()
                 year += self.century
             d = datetime.datetime(year, int(month), int(day))
             

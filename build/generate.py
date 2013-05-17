@@ -103,7 +103,7 @@ def generate_competition_stats():
     competition_generate('Mundialito')
 
     competition_generate('Women\'s Professional Soccer')
-
+    competition_generate('Women\'s United Soccer Association')
     #competition_generate('North American Soccer League')
 
 
@@ -141,6 +141,7 @@ def generate_competition_standings():
     sg2('National Women\'s Soccer League')
     sg2('Women\'s Premier Soccer League Elite')
     sg2('Women\'s Premier Soccer League')
+    sg2('Women\'s United Soccer Association')
 
 
     sg2('International Soccer League')

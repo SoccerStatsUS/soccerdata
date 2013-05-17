@@ -66,6 +66,14 @@ l = [
         },
 
     {
+        'name': 'TD Bank Ballpark',
+        'location': 'Bridgewater, NJ',
+        'opened': datetime.datetime(1999, 6, 7),
+        'capacity': 6100,
+        'cost': 18000000,
+        },
+
+    {
         'name': 'Sprague Field',
         'location': 'Montclair, NJ',
         'capacity': 5700,

@@ -53,10 +53,34 @@ l = [
         'address': '1055 Battle Creek Rd',
         'location': 'Jonesboro, GA',
         },
+
+    {
+        'name': 'Kennesaw State University Soccer Stadium',
+        'address': '3200 George Busbee Parkway',
+        'location': 'Kennesaw, GA',
+        'capacity': 8318,
+        'opened': datetime.datetime(2010, 5, 2),
+        'cost': 16500000,
+        },
+
+    {
+        'name': 'Bobby Dodd Stadium',
+        'address': '155 North Avenue, Northwest',
+        'location': 'Atlanta, GA',
+        'opened': datetime.datetime(1913, 9, 27),
+        'cost': 15000,
+        'capacity': 55000,
+        },
     
     {
         'name': 'DeKalb Memorial Stadium',
         'location': 'Clarkston, GA',
+        },
+
+    {
+        'name': 'Herndon Stadium',
+        'location': 'Atlanta, GA',
+        'capacity': 15011,
         },
     
     
