@@ -24,11 +24,17 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Invaders Complex': 'Indiana Invaders Soccer Complex',
+    'Navy-Marine Corps Stadium': 'Navy–Marine Corps Memorial Stadium',
     'Yokohama International Stadium': 'International Stadium Yokohama',
     'Wildpark': 'Wildparkstadion',
     'Vicente Calderon Stadium': 'Estadio Vicente Calderón',
     'Vicente Calderon': 'Estadio Vicente Calderón',
     'Estadio Vicente Calderon': 'Estadio Vicente Calderón',
+    'Korte Stadium': 'Ralph Korte Stadium',
+    'TD Bank Park': 'TD Bank Ballpark',
+    'The Anheuser Busch Soccer Park': 'Anheuser-Busch Soccer Park',
+    
 
 
     'Olympisch Stadion': 'Amsterdam Olympic Stadium',

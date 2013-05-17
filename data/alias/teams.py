@@ -63,6 +63,8 @@ slugs = {
 
 
 world = {
+    'Thornton Hosieries Albions': 'Thornton Hosiery Albions',
+    'Kearny Clarks ONT 2nds': 'Kearney Clarks ONT 2nds',
     'Wollongong Wolves': 'South Coast Wolves FC',
     'Ulsan Hyundai': 'Ulsan Hyundai FC',
     'Jeonbuk Motors': 'Jeonbuk Hyundai Motors',

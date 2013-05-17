@@ -15,7 +15,8 @@ def get_place(s):
 
 
 places = {
-
+    'KSU Soccer Stadium, Kennesaw, GA': 'Kennesaw State University Stadium',
+    'FAU Soccer Field, Boca Raton, FL': 'FAU Soccer Stadium',
     'Memorial Stadium, Everett, MA': 'Everett Memorial Stadium',
 
     'Olympic Stadium, Tokyo': 'Tokyo National Olympic Stadium',
