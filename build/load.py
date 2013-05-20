@@ -259,14 +259,14 @@ def load_places():
 
 
 def load_usmnt():
-    from soccerdata.text import halloffame
+    from soccerdata.text import awards
 
     for e in [1880, 1910, 1980, 1990, 2000, 2010]:
         load_games_standard('usa', 'international/country/usa/%s' % e)
 
     #load_games_standard('usa', 'international/country/usa/world_cup')
     load_games_standard('usa', 'international/country/usa/us_cup')
-    generic_load(soccer_db.usa_awards, halloffame.load_hall_of_fame)
+    generic_load(soccer_db.usa_awards, awardse.load_hall_of_fame)
 
 
 def load_early_cups():
@@ -671,7 +671,7 @@ def load_mls_lineup_db():
 
 
 def load_pdl():
-    from soccerdata.text import pdl
+    from soccerdata.text.cmp import pdl
     load_excel_standings('us_d4', 'domestic/country/usa/usl/d4/pdl')
     generic_load(soccer_db.us_d4_awards, awards.process_pdl_awards)
     generic_load(soccer_db.us_d4_stats, stats.process_pdl_stats)

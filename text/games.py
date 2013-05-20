@@ -459,7 +459,7 @@ class GeneralProcessor(object):
             d = datetime.datetime(year, int(month), int(day))
             
 
-        result_unknown = False
+        result_unknown = not_played = False
 
         try:
             team1, score, team2 = fields[1:4]
@@ -491,6 +491,7 @@ class GeneralProcessor(object):
 
         elif score in ('n/p', 'np'):
             team1_score = team2_score = None
+            not_played = True
 
         else:
             try:
@@ -588,6 +589,7 @@ class GeneralProcessor(object):
             'team1_result': team1_result,
             'team2_result': team2_result,
             'result_unknown': result_unknown,
+            'not_played': not_played,
 
             'home_team': home_team,
             'shootout_winner': None,

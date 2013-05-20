@@ -63,6 +63,9 @@ slugs = {
 
 
 world = {
+    'CD Veracruz': 'Tiburones Rojos de Veracruz',
+    'Vera Cruz': 'Tiburones Rojos de Veracruz',
+    'Bay Area CyberRays': 'San Jose CyberRays',
     'Thornton Hosieries Albions': 'Thornton Hosiery Albions',
     'Kearny Clarks ONT 2nds': 'Kearney Clarks ONT 2nds',
     'Wollongong Wolves': 'South Coast Wolves FC',

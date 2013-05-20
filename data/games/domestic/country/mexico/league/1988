@@ -4,11 +4,13 @@ BlockSource: http://www.rsssf.com/tablesm/mex89.html
 
 Round: Week 1
 
-[Oct 15]
+Date: 10/15/1988
+
 U de G 2 Atlas 8
 UANL 1 Necaxa 2
 América 0 Cobras 0
-[Oct 16]
+Date: 10/16/1988
+
 Toluca 1 UAG 2
 UNAM 3 Irapuato 2
 Puebla 1 Cruz Azul 1
@@ -19,28 +21,34 @@ Santos Laguna 1 Atlético Morelia 1
 
 Round: Week 2
 
-[Oct 21]
+Date: 10/21/1988
+
 Necaxa 3 Tampico-Madero 0
 UAG 1 América 0
 Atlético Potosino 0 U de G 0
-[Oct 22]
+Date: 10/22/1988
+
 Monterrey 0 UNAM 3
 Cobras 3 UAT 0
 Atlas 2 Toluca 3
 Cruz Azul 1 Atlético Morelia 1
-[Oct 23]
+Date: 10/23/1988
+
 Atlante 1 Guadalajara 1
 Santos Laguna 2 UANL 1
 Irapuato 1 Puebla 0
 
 Round: Week 3
 
-[Oct 28]
+Date: 10/28/1988
+
 UNAM 3 Cobras 0
-[Oct 29]
+Date: 10/29/1988
+
 UANL 3 Cruz Azul 2
 U de G 0 Atlante 1
-[Oct 30]
+Date: 10/30/1988
+
 Toluca 5 Atlético Potosino 3
 América 1 Atlas 1
 Guadalajara 3 Necaxa 2
@@ -51,62 +59,75 @@ Puebla 4 Atlético Morelia 1
 
 Round: Week 4
 
-[Nov 4]
+Date: 11/4/1988
+
 Atlante 1 Toluca 0
 UAG 0 UNAM 1
 Atlético Potosino 1 América 2
-[Nov 5]
+Date: 11/5/1988
+
 Cruz Azul 1 Tampico-Madero 2
 Cobras 1 Irapuato 1
 Atlas 2 UAT 1
 Monterrey 0 Puebla 2
-[Nov 6]
+Date: 11/6/1988
+
 Necaxa 1 U de G 2
 Santos Laguna 1 Guadalajara 0
 Atlético Morelia 4 UANL 2
 
 Round: Week 5
 
-[Nov 11]
+Date: 11/11/1988
+
 América 0 Atlante 2
-[Nov 12]
+Date: 11/12/1988
+
 Monterrey 0 Cobras 0
 U de G 3 Santos Laguna 0
-[Nov 13]
+Date: 11/13/1988
+
 Toluca 2 Necaxa 3
 Puebla 3 UANL 1
 Guadalajara 3 Cruz Azul 1
 UAT 1 Atlético Potosino 0
 Irapuato 1 UAG 4
 Tampico-Madero 3 Atlético Morelia 0
-[Nov 15]
+Date: 11/15/1988
+
 UNAM 2 Atlas 0
 
 Round: Week 6
 
-[Nov 18]
+Date: 11/18/1988
+
 Atlante 2 UAT 1
 UAG 1 Monterrey 3
-[Nov 19]
+Date: 11/19/1988
+
 Cruz Azul 2 U de G 1
 UANL 1 Tampico-Madero 0
 Cobras 0 Puebla 0
 Atlas 5 Irapuato 1
 Atlético Potosino 1 UNAM 1
-[Nov 20]
+Date: 11/20/1988
+
 Necaxa 0 América 0
 Santos Laguna 2 Toluca 1
 Atlético Morelia 3 Guadalajara 2
 
 Round: Week 7
 
-[Nov 25]
+Date: 11/25/1988
+
 América 2 Santos Laguna 1
-[Nov 26]
+Date: 11/26/1988
+
 Monterrey 2 Atlas 1
 UNAM 1 Atlante 1
 U de G 1 Atlético Morelia 1
-[Nov 27]
+Date: 11/27/1988
+
 Toluca 2 Cruz Azul 3
 Puebla 1 Tampico-Madero 1
 Guadalajara 3 UANL 1
@@ -116,15 +137,18 @@ Irapuato 3 Atlético Potosino 0
 
 Round: Week 8
 
-[Dec 2]
+Date: 12/2/1988
+
 Atlante 3 Irapuato 1
 UAG 0 Puebla 0
-[Dec 3]
+Date: 12/3/1988
+
 Cruz Azul 1 América 3
 UANL 1 U de G 0
 Atlas 2 Cobras 1
 Atlético Potosino 1 Monterrey 1
-[Dec 4]
+Date: 12/4/1988
+
 Necaxa 0 UNAM 2
 Tampico-Madero 0 Guadalajara 1
 Santos Laguna 1 UAT 0
@@ -132,13 +156,16 @@ Atlético Morelia 3 Toluca 3
 
 Round: Week 9
 
-[Dec 9]
+Date: 12/9/1988
+
 UAG 3 Atlas 0
 América 1 Atlético Morelia 0
-[Dec 10]
+Date: 12/10/1988
+
 Monterrey 1 Atlante 2
 U de G 0 Tampico-Madero 0
-[Dec 11]
+Date: 12/11/1988
+
 Toluca 4 UANL 1
 UNAM 1 Santos Laguna 1
 Puebla 2 Guadalajara 0
@@ -148,14 +175,17 @@ Irapuato 0 Necaxa 0
 
 Round: Week 10
 
-[Dec 16]
+Date: 12/16/1988
+
 Necaxa 2 Monterrey 2
 Atlético Potosino 0 UAG 1
-[Dec 17]
+Date: 12/17/1988
+
 Cruz Azul 1 UNAM 0
 UANL 0 América 0
 Atlas 1 Puebla 2
-[Dec 18]
+Date: 12/18/1988
+
 Atlante 3 Cobras 1
 Guadalajara 2 U de G 3
 Santos Laguna 0 Irapuato 0
@@ -164,10 +194,12 @@ Atlético Morelia 1 UAT 1
 
 Round: Week 11
 
-[Dec 21]
+Date: 12/21/1988
+
 Atlas 4 Atlético Potosino 1
 Monterrey 1 Santos Laguna 0
-[Dec 22]
+Date: 12/22/1988
+
 América 3 Tampico-Madero 2
 Toluca 1 Guadalajara 0
 Cobras 2 Necaxa 1
@@ -175,35 +207,42 @@ Puebla 2 U de G 1
 UAG 3 Atlante 0
 Irapuato 2 Cruz Azul 2
 UAT 1 UANL 1
-[Dec 23]
+Date: 12/23/1988
+
 UNAM 0 Atlético Morelia 0
 
 Round: Week 12
 
-[Dec 28]
+Date: 12/28/1988
+
 Cruz Azul 2 Monterrey 2
 U de G 2 Toluca 1
-[Dec 29]
+Date: 12/29/1988
+
 Guadalajara 2 América 2
 Necaxa 1 UAG 0
 Santos Laguna 0 Cobras 0
 UANL 0 UNAM 3
 Tampico-Madero 5 UAT 5
-[Dec 30]
+Date: 12/30/1988
+
 Atlante 2 Atlas 0
 Atlético Potosino 2 Puebla 2
 Atlético Morelia 1 Irapuato 1
 
 Round: Week 13
 
-[Jan 6]
-UNAM 3 Tampico-Madero 1
+Date: 1/6/1989
+
+UNAM 3 Tampico-Madero 9
 UAG 2 Santos Laguna 0
-[Jan 7]
-Atlas 0 Necaxa 0
+Date: 1/7/1989
+
+Atlas 0 Necaxa 9
 Monterrey 2 Atlético Morelia 2
-[Jan 8]
-América 0 U de G 0
+Date: 1/8/1989
+
+América 0 U de 9 0
 Puebla 3 Toluca 0
 Atlético Potosino 1 Atlante 1
 UAT 1 Guadalajara 0
@@ -212,47 +251,111 @@ Irapuato 0 UANL 2
 
 Round: Week 14
 
-[Jan 13]
-Necaxa 4 Atlético Potosino 3
-[Jan 14]
-Cruz Azul 3 UAG 4
-UANL 1 Monterrey 3
-U de G 2 UAT 2
-[Jan 15]
-Atlante 0 Puebla 2
-Guadalajara 1 UNAM 1
-Santos Laguna 0 Atlas 0
-Atlético Morelia 4 Cobras 0
-Miércoles 18 de Enero 
-América 3 Toluca 0
-[Jan 31]
-Tampico-Madero 2 Irapuato 0
+Date: 1/13/1989
 
-Round: Week 15
+Necaxa 4 Atlético Potosino 9
 
-[Jan 20]
-UNAM 1 U de G 1
-UAG 2 Atlético Morelia 2
-[Jan 21]
-Monterrey 3 Tampico-Madero 1
+Date: 1/14/1989
+
+9
+9
+9
+9
+9
+9
+9
+9
+9
+
+ruz Azul 3 UAG 9
+9
+
+
+ANL 1 Monterrey 9
+
+9
+9
+
+ de G 2 UAT 29
+9
+
+Date: 1/15/1989
+9
+
+Atlante 0 Puebla 29
+Guadalajara 1 UNAM 9
+9
+
+
+Santos Laguna 0 Atlas 9
+
+
+Atlético Morelia 4 Cobras 9
+9
+
+Miércoles 18 de Enero99
+
+
+América 3 Toluca 9
+
+9
+Date: 1/31/19899
+9
+
+Tampico-Madero 2 Irapuato 9
+9
+
+
+Round: Week 159
+
+9
+Date: 1/20/1989
+
+9
+9
+UNAM 1 U de G 9
+
+99
+
+UAG 2 Atlético Morelia 9
+9
+
+Date: 1/21/1989
+
+99
+
+Monterrey 3 Tampico-Madero 9
 Atlas 2 Cruz Azul 1
-[Jan 22]
-Atlante 2 Necaxa 0
-Puebla 3 América 1
-Atlético Potosino 3 Santos Laguna 1
+
+9
+Date: 1/22/1989
+
+
+Atlante 2 Necaxa 9
+
+
+Puebla 3 América 9
+Atlético Potosino 3 Santos Laguna 9
 UAT 2 Toluca 1
-Cobras 4 UANL 1
-Irapuato 1 Guadalajara 1
 
+Cobras 4 UANL 9
+9
+Irapuato 1 Guadalajara 19
 Round: Week 16
-
-[Jan 27]
+9
+9
+Date: 1/27/1989
+9
 Necaxa 1 Puebla 0
-[Jan 28]
+9
+Date: 1/28/1989
+9
 Cruz Azul 2 Atlético Potosino 1
 UANL 1 UAG 1
 U de G 2 Irapuato 0
-[Jan 29]
+
+Date: 1/29/1989
+
 Toluca 0 UNAM 1
 América 3 UAT 1
 Guadalajara 3 Monterrey 1
@@ -262,14 +365,17 @@ Atlético Morelia 3 Atlas 2
 
 Round: Week 17
 
-[Feb 3]
+Date: 2/3/1989
+
 UNAM 1 América 2
 UAG 0 Tampico-Madero 2
-[Feb 4]
+Date: 2/4/1989
+
 Necaxa 2 Santos Laguna 0
 Monterrey 1 U de G 1
 Atlas 1 UANL 1
-[Feb 5]
+Date: 2/5/1989
+
 Atlante 2 Cruz Azul 2
 Puebla 2 UAT 2
 Cobras 1 Guadalajara 1
@@ -278,13 +384,16 @@ Atlético Potosino 0 Atlético Morelia 0
 
 Round: Week 18
 
-[Feb 10]
+Date: 2/10/1989
+
 América 3 Irapuato 0
-[Feb 11]
+Date: 2/11/1989
+
 Cruz Azul 2 Necaxa 0
 UANL 2 Atlético Potosino 1
 U de G 1 Cobras 2
-[Feb 12]
+Date: 2/12/1989
+
 Toluca 3 Monterrey 3
 Puebla 6 Santos Laguna 0
 Guadalajara 2 UAG 2
@@ -293,14 +402,17 @@ Tampico-Madero 2 Atlas 1
 Atlético Morelia 1 Atlante 0
 
 week 19
-[Feb 17]
+Date: 2/17/1989
+
 UNAM 1 Puebla 1
 UAG 2 U de G 1
-[Feb 18]
+Date: 2/18/1989
+
 Monterrey 1 América 1
 Atlas 2 Guadalajara 2
 Necaxa 1 Atlético Morelia 1
-[Feb 19]
+Date: 2/19/1989
+
 Atlante 3 UANL 0
 Santos Laguna 1 Cruz Azul 1
 Atlético Potosino 2 Tampico-Madero 1
@@ -309,14 +421,17 @@ Irapuato 1 UAT 1
 
 Round: Week 20
 
-[Feb 24]
+Date: 2/24/1989
+
 Atlante 0 Tampico-Madero 0
 UAG 1 Toluca 1
-[Feb 25]
+Date: 2/25/1989
+
 Cruz Azul 0 Puebla 0
 Monterrey 0 UAT 1
 Atlas 0 U de G 2
-[Feb 26]
+Date: 2/26/1989
+
 Necaxa 3 UANL 0
 Atlético Potosino 0 Guadalajara 1
 Cobras 3 América 2
@@ -325,7 +440,8 @@ Atlético Morelia 0 Santos Laguna 0
 
 Round: Week 21
 
-[Mar 1]
+Date: 3/1/1989
+
 Toluca 2 Atlas 1
 UANL 1 Santos Laguna 1
 América 3 UAG 0
@@ -334,35 +450,42 @@ Puebla 2 Irapuato 0
 U de G 4 Atlético Potosino 2
 UAT 1 Cobras 1
 Atlético Morelia 3 Cruz Azul 3
-[Mar 2]
+Date: 3/2/1989
+
 Guadalajara 2 Atlante 1
 Tampico-Madero 2 Necaxa 1
 
 Round: Week 22
 
-[Mar 4]
+Date: 3/4/1989
+
 Cruz Azul 4 UANL 0
 Monterrey 0 Irapuato 0
 Atlas 1 América 5
-[Mar 5]
+Date: 3/5/1989
+
 Necaxa 1 Guadalajara 0
 UAG 3 UAT 0
 Cobras 1 UNAM 3
 Atlético Potosino 2 Toluca 0
 Santos Laguna 0 Tampico-Madero 0
 Atlético Morelia 2 Puebla 1
-[Mar 8]
+Date: 3/8/1989
+
 Atlante 2 U de G 1
 
 Round: Week 23
 
-[Mar 10]
+Date: 3/10/1989
+
 América 4 Atlético Potosino 0
-[Mar 11]
+Date: 3/11/1989
+
 Puebla 3 Monterrey 0
 U de G 1 Necaxa 0
 UANL 2 Atlético Morelia 1
-[Mar 12]
+Date: 3/12/1989
+
 Toluca 1 Atlante 1
   [Javier Barajas 87; Dante Juárez 72]
 UNAM 1 UAG 0
@@ -374,15 +497,18 @@ Tampico-Madero 5 Cruz Azul 0
 Irapuato 4 Cobras 0
 
 week 24
-[Mar 17]
+Date: 3/17/1989
+
 Necaxa 0 Toluca 0
 UAG 2 Irapuato 2
 Atlético Potosino 2 UAT 1
-[Mar 18]
+Date: 3/18/1989
+
 Cruz Azul 0 Guadalajara 1
 UANL 0 Puebla 0
 Atlas 1 UNAM 0
-[Mar 19]
+Date: 3/19/1989
+
 Atlante 3 América 0
 Santos Laguna 0 U de G 1
 Cobras 2 Monterrey 2
@@ -390,14 +516,17 @@ Atlético Morelia 1 Tampico-Madero 0
 
 Round: Week 25
 
-[Mar 22]
+Date: 3/22/1989
+
 América 0 Necaxa 2
   [Roberto Alderete 24, Ismael Herrera 78]
-[Mar 25]
+Date: 3/25/1989
+
 Monterrey 3 UAG 2
 Puebla 3 Cobras 0
 U de G 1 Cruz Azul 1
-[Mar 26]
+Date: 3/26/1989
+
 Toluca 2 Santos Laguna 0
 UNAM 0 Atlético Potosino 0
 UAT 2 Atlante 1
@@ -407,23 +536,30 @@ Guadalajara 2 Atlético Morelia 1
 
 Round: Week 26
 
-[Mar 31]
+Date: 3/31/1989
+
 Necaxa 3 UAT 1
 UAG 0 Cobras 0
 Atlético Potosino 1 Irapuato 0
-[Apr 1]
+
+Date: 4/1/1989
+
 Cruz Azul 4 Toluca 2
 UANL 1 Guadalajara 0
 Atlas 2 Monterrey 0
 Tampico-Madero 5 Puebla 1
-[Apr 2]
+
+Date: 4/2/1989
+
 Atlante 1 UNAM 0
 Santos Laguna 1 América 2
 Atlético Morelia 1 U de G 2
 
 Round: Week 27
 
-[Apr 5]
+
+Date: 4/5/1989
+
 UAT 0 Santos Laguna 0
 Irapuato 2 Atlante 0
 Cobras 3 Atlas 0
@@ -431,39 +567,55 @@ América 1 Cruz Azul 2
 U de G 0 UANL 0
 Monterrey 1 Atlético Potosino 1
 Puebla 4 UAG 1
-[Apr 6]
+
+Date: 4/6/1989
+
 Guadalajara 4 Tampico-Madero 1
 UNAM 0 Necaxa 0
-[Apr 12]
+
+Date: 4/12/1989
+
 Toluca 1 Atlético Morelia 0
 
 Round: Week 28
 
-[Apr 8]
+
+Date: 4/8/1989
+
 Cruz Azul 3 UAT 2
 UANL 2 Toluca 0
 Atlas 0 UAG 0
 Tampico-Madero 5 U de G 1
-[Apr 9] 
+
+Date: 4/9/1989
+
 Atlante 3 Monterrey 2
 Guadalajara 2 Puebla 1
 Atlético Potosino 1 Cobras 2
 Santos Laguna 0 UNAM 0
 Atlético Morelia 2 América 1
-[Apr 10]
+
+Date: 4/10/1989
+
 Necaxa 2 Irapuato 0
 
 Round: Week 29
 
-[Apr 14]
+
+Date: 4/14/1989
+
 América 4 UANL 0
 UAG 1 Atlético Potosino 0
-[Apr 15]
+
+Date: 4/15/1989
+
 Monterrey 0 Necaxa 1
 Cobras 1 Atlante 1
 U de G 1 Guadalajara 0
 Puebla 3 Atlas 1
-[Apr 16]
+
+Date: 4/16/1989
+
 Toluca 4 Tampico-Madero 2
 UNAM 1 Cruz Azul 2
 Irapuato 3 Santos Laguna 2
@@ -471,33 +623,47 @@ UAT 3 Atlético Morelia 2
 
 Round: Week 30
 
-[Apr 21]
+
+Date: 4/21/1989
+
 Necaxa 1 Cobras 1
 Atlético Potosino 1 Atlas 2
-[Apr 22]
+
+Date: 4/22/1989
+
 Cruz Azul 2 Irapuato 1
 UANL 1 UAT 0
 U de G 0 Puebla 4
 *Tampico-Madero vs. América
 *Abandoned at 24’ due to croud trouble, the 66 minutes left were played on May 10
-[Apr 23]
+
+Date: 4/23/1989
+
 Atlante 1 UAG 0
 Guadalajara 2 Toluca 1
 Santos Laguna 2 Monterrey 0
 Atlético Morelia 1 UNAM 0
-[May 10]
+
+Date: 5/10/1989
+
 Tampico-Madero 2 América 0
 
 Round: Week 31
 
-[Apr 28]
+
+Date: 4/28/1989
+
 UAG 2 Necaxa 3
-[Apr 29]
+
+Date: 4/29/1989
+
 UNAM 1 UANL 1
 Monterrey 1 Cruz Azul 4
 Cobras 2 Santos Laguna 2
 Atlas 0 Atlante 2
-[Apr 30]
+
+Date: 4/30/1989
+
 Toluca 0 U de G 0
 América 3 Guadalajara 1
 Puebla 4 Atlético Potosino 0
@@ -506,14 +672,20 @@ Irapuato 1 Atlético Morelia 1
 
 Round: Week 32
 
-[May 5]
+
+Date: 5/5/1989
+
 Atlante 1 Atlético Potosino 0
-[May 6]
+
+Date: 5/6/1989
+
 Cruz Azul 1 Cobras 1
 UANL 0 Irapuato 0
 U de G 1 América 0
 Tampico-Madero 1 UNAM 1
-[May 7]
+
+Date: 5/7/1989
+
 Toluca 0 Puebla 1
 Necaxa 6 Atlas 0
 Guadalajara 4 UAT 2
@@ -522,14 +694,20 @@ Atlético Morelia 1 Monterrey 1
 
 Round: Week 33
 
-[May 12]
+
+Date: 5/12/1989
+
 UAG 1 Cruz Azul 4
 Atlético Potosino 0 Necaxa 0
-[May 13]
+
+Date: 5/13/1989
+
 Monterrey 1 UANL 0
 Atlas 1 Santos Laguna 1
 Cobras 0 Atlético Morelia 0
-[May 14]
+
+Date: 5/14/1989
+
 UNAM 0 Guadalajara 3
 Puebla 1 Atlante 1
 Toluca 0 América 2
@@ -538,14 +716,20 @@ Irapuato 1 Tampico-Madero 2
 
 Round: Week 34
 
-[May 19]
+
+Date: 5/19/1989
+
 América 0 Puebla 1
-[May 20]
+
+Date: 5/20/1989
+
 Cruz Azul 5 Atlas 0
 UANL 3 Cobras 2
 U de G 1 UNAM 0
 Tampico-Madero 4 Monterrey 2
-[May 21]
+
+Date: 5/21/1989
+
 Toluca 4 UAT 1
 Necaxa 3 Atlante 1
 Guadalajara 3 Irapuato 0
@@ -554,15 +738,21 @@ Atlético Morelia 4 UAG 2
 
 Round: Week 35
 
-[May 26]
+
+Date: 5/26/1989
+
 UAG 1 UANL 1
 Atlético Potosino 0 Cruz Azul 2
-[May 27]
+
+Date: 5/27/1989
+
 UNAM 1 Toluca 1
 Monterrey 1 Guadalajara 1
 Cobras 3 Tampico-Madero 5
 Atlas 2 Atlético Morelia 2
-[May 28]
+
+Date: 5/28/1989
+
 Atlante 4 Santos Laguna 2
 Puebla 2 Necaxa 2
 UAT 0 América 0
@@ -570,12 +760,14 @@ Irapuato 4 U de G 2
 
 Round: Week 36
 
-[Jun 3]
+Date: 6/3/1989
+
 Cruz Azul 0 Atlante 3
 UANL 1 Atlas 0
 Tampico-Madero 1 UAG 3
 U de G 2 Monterrey 2
-[Jun 4]
+Date: 6/4/1989
+
 Toluca 3 Irapuato 3
 América 0 UNAM 1
 Guadalajara 3 Cobras 0
@@ -585,28 +777,33 @@ Atlético Morelia 4 Atlético Potosino 0
 
 Round: Week 37
 
-[Jun 9]
+Date: 6/9/1989
+
 UAG 1 Guadalajara 1
 Atlético Potosino 1 UANL 0
 Atlante 4 Atlético Morelia 3
-[Jun 10]
+Date: 6/10/1989
+
 Necaxa 4 Cruz Azul 1
 Monterrey 0 Toluca 2
 Cobras 2 U de G 1
 Atlas 2 Tampico-Madero 4
-[Jun 11]
+Date: 6/11/1989
+
 UNAM 3 UAT 0
 Irapuato 1 América 1
 Santos Laguna 1 Puebla 4
 
 Round: Week 38
 
-[Jun 17]
+Date: 6/17/1989
+
 Cruz Azul 1 Santos Laguna 0
 UANL 2 Atlante 2
 U de G 3 UAG 1
 Puebla 1 UNAM 1
-[Jun 18]
+Date: 6/18/1989
+
 UAT 1 Irapuato 1
 Toluca 1 Cobras 1
 América 3 Monterrey 1

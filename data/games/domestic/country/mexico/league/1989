@@ -5,14 +5,14 @@ BlockSource: http://www.rsssf.com/tablesm/mex90.html
 
 Round: Week 1
 
-[Sep 9]
+Date: 9/9/1989
 Atlante 1 Irapuato 1
 UANL 1 UNAM 1
 Cobras 1 América 1
  [Rubén da Silva 10; Cecilio de los Santos 85]
 U de G 2 Toluca 0
 Puebla 3 Veracruz 1
-[Sep 10]
+Date: 9/10/1989
 Necaxa 3 Santos Laguna 1
 Guadalajara 1 Atlas 2
 Morelia 4 Monterrey 0
@@ -21,16 +21,16 @@ Tampico-Madero 1 UAG 0
 
 Round: Week 2
 
-[Sep 15]
+Date: 9/15/1989
 UNAM 2 Cobras 3
-[Sep 16]
+Date: 9/16/1989
 Veracruz 1 UANL 2
 Cruz Azul 2 Puebla 1
 Monterrey 1 Necaxa 1
 Santos Laguna 1 UAT 1
 Atlas 2 Tampico-Madero 0
 UAG 2 Atlante 1
-[Sep 17]
+Date: 9/17/1989
 América 2 U de G 2
   [Gonzalo Farfán 71, Raúl Vicente Amarilla 88; Daniel Guzmán 76, Humberto Romero 80]
 Toluca 1 Guadalajara 2
@@ -38,13 +38,13 @@ Irapuato 1 Morelia 1
 
 Round: Week 3
 
-[Sep 23]
+Date: 9/23/1989
 Atlante 1 Atlas 2
 UANL 1 Cruz Azul 2
 Cobras 1 Veracruz 0
 Santos Laguna 2 Monterrey 2
 U de G 3 UNAM 2
-[Sep 24]
+Date: 9/24/1989
 Necaxa 0 Irapuato 1
 Guadalajara 2 América 2
   [Concepción Rodríguez 14, Omar Arellano 27; Gonzalo Farfán 38, Juan Hernández 74]
@@ -54,16 +54,16 @@ Tampico-Madero 1 Toluca 0
 
 Round: Week 4
 
-[Sep 29]
+Date: 9/29/1989
 UAG 0 Necaxa 1
-[Sep 30]
+Date: 9/30/1989
 Cruz Azul 1 Cobras 1
 Monterrey 2 UAT 0
 Atlas 2 Morelia 0
 Veracruz 0 U de G 0
 América 1 Tampico-Madero 0
   [Guillermo Huerta 24]
-[Oct 1]
+Date: 10/1/1989
 Toluca 1 Atlante 2
 UNAM 4 Guadalajara 0
 Puebla 2 UANL 1
@@ -71,14 +71,14 @@ Irapuato 1 Santos Laguna 0
 
 Round: Week 5
 
-[Oct 7]
+Date: 10/7/1989
 Atlante 0 América 1
   [Eduardo Antonio dos Santos 39pen]
 Monterrey 2 Irapuato 1
 Cobras 1 Puebla 2
 Santos Laguna 1 UAG 2
 U de G 1 Cruz Azul 3
-[Oct 8]
+Date: 10/8/1989
 Necaxa 1 Atlas 0
 Guadalajara 1 Veracruz 1
 UAT 1 UANL 2
@@ -86,15 +86,15 @@ Tampico-Madero 0 UNAM 0
 Morelia 3 Toluca 2
 
 week 6
-[Oct 13]
+Date: 10/13/1989
 UNAM 1 Atlante 0
-[Oct 14]
+Date: 10/14/1989
 Veracruz 2 Tampico-Madero 1
 Cruz Azul 0 Guadalajara 0
 UANL 4 Cobras 2
 Atlas 1 Santos Laguna 1
 Puebla 0 U de G 0
-[Oct 15]
+Date: 10/15/1989
 Toluca 0 Necaxa 0
 América 1 Morelia 0
   [Raúl Vicente Amarilla 59pen]
@@ -103,13 +103,13 @@ Irapuato 3 UAT 0
 
 Round: Week 7
 
-[Oct 21]
+Date: 10/21/1989
 Atlante 6 Veracruz 3
 Monterrey 1 Atlas 0
 U de G 2 UANL 2
 Necaxa 1 América 0
   [Wilmar Cabrera 76]
-[Oct 22]
+Date: 10/22/1989
 Guadalajara 0 Puebla 1
 Morelia 1 UNAM 2
 UAT 2 Cobras 1
@@ -119,31 +119,34 @@ Santos Laguna 0 Toluca 0
 
 Round: Week 8
 
-[Oct 27]
+Date: 10/27/1989
 América 4 Santos Laguna 0
   [Eduardo Antonio dos Santos 26, 30, Raúl Vicente Amarilla 28, Gonzalo Farfán 50]
 UAG 2 UAT 0
-[Oct 28]
+Date: 10/28/1989
 Veracruz 2 Morelia 3
 Cruz Azul 1 Atlante 2
 Cobras 2 U de G 1
 UANL 4 Guadalajara 4
 Atlas 1 Irapuato 0
 Puebla 3 Tampico-Madero 0
-[Oct 29]
+Date: 10/29/1989
 Toluca 0 Monterrey 0
 UNAM 0 Necaxa 2
   [Wilmar Cabrera 48, Ricardo Peláez 88]
 
 Round: Week 9
 
-[Nov 3]
+Date: 11/3/1989
+
 UAG 0 Atlas 1
-[Nov 4]
+Date: 11/4/1989
+
 Atlante 0 Puebla 2
 Monterrey 1 América 4
   [Juan Antonio Flores Barrera 42; Raúl Vicente Amarilla 50, 72, Gonzalo Farfán 70, Luis Roberto Alves 85]
-[Nov 5]
+Date: 11/5/1989
+
 Necaxa 2 Veracruz 0
 Guadalajara 3 Cobras 1
 Morelia 1 Cruz Azul 1
@@ -154,10 +157,12 @@ Santos Laguna 1 UNAM 0
 
 Round: Week 10
 
-[Nov 10]
+Date: 11/10/1989
+
 América 1 Irapuato 1
   [Antonio Carlos Santos 5; Adolfo Sialle 61]
-[Nov 11]
+Date: 11/11/1989
+
 Veracruz 3 Santos Laguna 1
 Cruz Azul 0 Necaxa 0
 UANL 5 Atlante 1
@@ -165,16 +170,19 @@ Cobras 2 Tampico-Madero 1
 Atlas 3 UAT 0
 Puebla 4 Morelia 1
 Toluca 1 UAG 1
-[Nov 12]
+Date: 11/12/1989
+
 UNAM 1 Monterrey 0
   [Manuel Negrete 85]
 U de G 2 Guadalajara 1
 
 Round: Week 11
 
-[Nov 14]
+Date: 11/14/1989
+
 Atlante 1 Cobras 0
-[Nov 15]
+Date: 11/15/1989
+
 Morelia 3 UANL 0
 Irapuato 1 UNAM 1
 Santos Laguna 0 Cruz Azul 0
@@ -183,19 +191,22 @@ UAT 1 Guadalajara 0
 Monterrey 2 Veracruz 1
 Necaxa 1 Puebla 1
 Atlas 0 Toluca 2
-[Nov 16]
+Date: 11/16/1989
+
 UAG 1 América 1
   [Julio César Uribe 23pen; Gonzalo Farfán 43]
 
 Round: Week 12
 
-[Nov 18]
+Date: 11/18/1989
+
 Cruz Azul 2 Monterrey 4
 Veracruz 0 Irapuato 0
 UANL 2 Necaxa 2
 Puebla 1 Santos Laguna 3
 U de G 1 Atlante 0
-[Nov 19]
+Date: 11/19/1989
+
 Toluca 1 UAT 0
 América 1 Atlas 0
   [Eduardo Antonio dos Santos 8]
@@ -206,15 +217,18 @@ UNAM 1 UAG 1
 
 Round: Week 13
 
-[Nov 24]
+Date: 11/24/1989
+
 UAG 2 Veracruz 0
-[Nov 25]
+Date: 11/25/1989
+
 Atlante 2 Guadalajara 1
 Monterrey 2 Puebla 3
 Atlas 1 UNAM 2
   [Sergio Pacheco 28pen; David Patiño 26, 88]
 UAT 1 Tampico-Madero 0
-[Nov 26]
+Date: 11/26/1989
+
 Necaxa 2 Cobras 2
 Toluca 0 América 0
 Morelia 1 U de G 1
@@ -223,16 +237,19 @@ Irapuato 0 Cruz Azul 0
 
 Round: Week 14
 
-[Dec 1]
+Date: 12/1/1989
+
 América 1 UAT 0
   [Raúl Vicente Amarilla 39]
-[Dec 2]
+Date: 12/2/1989
+
 Cruz Azul 1 UAG 1
 UANL 0 Monterrey 2
 Veracruz 2 Atlas 1
 Tampico-Madero 1 Atlante 0
 U de G 2 Necaxa 1
-[Dec 3]
+Date: 12/3/1989
+
 UNAM 1 Toluca 1
   [Wilson Graniolatti 83og; Roberto Masciarelli 50]
 Guadalajara 0 Morelia 1
@@ -241,15 +258,18 @@ Cobras 0 Santos Laguna 1
 
 Round: Week 15
 
-[Dec 8]
+Date: 12/8/1989
+
 América 3 UNAM 3
   [Luis Roberto Alves 3, Cecilio de los Santos 45, Raúl Vicente Amarilla 49; Guillermo Vázquez 29 89pen, David Patiño 79]
 UAG 1 Puebla 2
-[Dec 9]
+Date: 12/9/1989
+
 Monterrey 0 Cobras 0
 Santos Laguna 1 U de G 0
 Atlas 1 Cruz Azul 1
-[Dec 10]
+Date: 12/10/1989
+
 Toluca 0 Veracruz 0
 Necaxa 0 Guadalajara 0
 Morelia 1 Tampico-Madero 1
@@ -258,9 +278,11 @@ Irapuato 0 UANL 0
 
 Round: Week 16
 
-[Dec 12]
+Date: 12/12/1989
+
 U de G 1 Monterrey 0
-[Dec 13]
+Date: 12/13/1989
+
 Veracruz 2 América 2
   [José Ruiz 27, Jorge Comas 39; Raúl Vicente Amarilla 49, Eduardo Antonio dos Santos 87]
 UNAM 2 UAT 1
@@ -269,19 +291,22 @@ UANL 4 UAG 3
 Atlante 0 Morelia 1
 Guadalajara 2 Santos Laguna 1
 Puebla 1 Atlas 0
-[Dec 14]
+Date: 12/14/1989
+
 Cruz Azul 1 Toluca 1
 Cobras 3 Irapuato 2
 Tampico-Madero 1 Necaxa 0
 
 Round: Week 17
 
-[Dec 16]
+Date: 12/16/1989
+
 UNAM 2 Veracruz 0
   [Guillermo Vázquez 30, Juan Carlos Vera 88]
 Monterrey 2 Guadalajara 0
 Atlas 2 UANL 1
-[Dec 17]
+Date: 12/17/1989
+
 Toluca 0 Puebla 1
 América 2 Cruz Azul 0
   [Raúl Vicente Amarilla 59, Luis Roberto Alves 79]
@@ -289,19 +314,23 @@ UAG 1 Cobras 1
 UAT 2 Morelia 0
 Santos Laguna 2 Tampico-Madero 0
 Irapuato 0 U de G 0
-[Dec 18]
+Date: 12/18/1989
+
 Necaxa 0 Atlante 1
   [Carlos Alberto Seixas 4]
 
 Round: Week 18
 
-[Dec 21]
+Date: 12/21/1989
+
 U de G 3 UAG 2
-[Dec 22]
+Date: 12/22/1989
+
 Cruz Azul 0 UNAM 4
   [Abraham Nava 29, Guillermo Vázquez 65, Luis García 70, Juan Carlos Vera 88]
 Tampico-Madero 1 Monterrey 1
-[Dec 23]
+Date: 12/23/1989
+
 Morelia 1 Necaxa 3
 Atlante 1 Santos Laguna 1
 Puebla 2 América 2
@@ -313,13 +342,16 @@ Guadalajara 0 Irapuato 0
 
 Round: Week 19
 
-[Dec 28]
+Date: 12/28/1989
+
 Necaxa 0 UAT 1
-[Dec 29]
+Date: 12/29/1989
+
 América 4 UANL 1
   [Eduardo Antonio dos Santos 6, 54, 85, Antonio Carlos Santos 65pen; Juan Rossi 19] 
 UAG 1 Guadalajara 1
-[Dec 30]
+Date: 12/30/1989
+
 Toluca 0 Cobras 0
 Veracruz 0 Cruz Azul 2
 Irapuato 2 Tampico-Madero 0
@@ -330,16 +362,19 @@ Monterrey 1 Atlante 0
 Atlas 0 U de G 1
 
 week 20
-[Jan 5]
+Date: 1/5/1990
+
 América 4 Cobras 0
   [Eduardo Antonio dos Santos 31, Cle Kooiman 50og, Antonio Carlos Santos 58pen 84]
 UAG 1 Tampico-Madero 1
-[Jan 6]
+Date: 1/6/1990
+
 Veracruz 1 Puebla 0
 Cruz Azul 1 UAT 3
 Monterrey 3 Morelia 0
 Atlas 1 Guadalajara 1
-[Jan 7]
+Date: 1/7/1990
+
 Toluca 3 U de G 1
 UNAM 2 UANL 2
   [Juan Carlos Vera 1, Jorge Campos 23; Carlos Eduardo Muñoz 47, Sergio Almirón 54]
@@ -348,7 +383,8 @@ Santos Laguna 2 Necaxa 1
 
 Round: Week 21
 
-[Jan 10]
+Date: 1/10/1990
+
 Morelia 0 Irapuato 1
 Cobras 1 UNAM 1
   [César Sosa 78; Luis García 73]
@@ -358,36 +394,42 @@ UAT 1 Santos Laguna 0
 Tampico-Madero 1 Atlas 0
 U de G 3 América 2
   [Edson Vieira 6, Octavio Mora 71, Alfonso Sosa 76; Eduardo Antonio dos Santos 14, 80] 
-[Jan 11]
+Date: 1/11/1990
+
 Necaxa 2 Monterrey 2
 Guadalajara 0 Toluca 0
 Puebla 4 Cruz Azul 2
 
 Round: Week 22
 
-[Jan 13]
+Date: 1/13/1990
+
 UNAM 1 U de G 2
   [Jorge Campos 25; Francisco García 60, Rodolfo Michel Rodríguez 83]
 Veracruz 1 Cobras 1
 Atlas 0 Atlante 0
-[Jan 14]
+Date: 1/14/1990
+
 Toluca 3 Tampico-Madero 0
 América 2 Guadalajara 2
   [Luis Roberto Alves 68, Eduardo Antonio dos Santos 76; Armando González 5, Rafael Gutiérrez Aldaco 32]
 Puebla 0 UAT 0
 Irapuato 1 Necaxa 0
 Monterrey 4 Santos Laguna 0
-[Jan 15]
+Date: 1/15/1990
+
 Cruz Azul 2 UANL 0
 
 Round: Week 23
 
-[Jan 20]
+Date: 1/20/1990
+
 Atlante 1 Toluca 3
 UANL 2 Puebla 2
 Tampico-Madero 2 América 0
 U de G 1 Veracruz 2
-[Jan 21]
+Date: 1/21/1990
+
 Necaxa 0 UAG 0
 Guadalajara 2 UNAM 1
 Morelia 0 Atlas 0
@@ -397,15 +439,18 @@ Santos Laguna 2 Irapuato 0
 
 Round: Week 24
 
-[Jan 26]
+Date: 1/26/1990
+
 UNAM 0 Tampico-Madero 0
 UAG 2 Santos Laguna 1
-[Jan 27]
+Date: 1/27/1990
+
 Cruz Azul 1 U de G 1
 Veracruz 1 Guadalajara 2
 UANL 2 UAT 0
 Atlas 0 Necaxa 0
-[Jan 28]
+Date: 1/28/1990
+
 Toluca 1 Morelia 0
 América 1 Atlante 0
 Puebla 0 Cobras 2
@@ -413,12 +458,14 @@ Irapuato 1 Monterrey 1
 
 Round: Week 25
 
-[Feb 3]
+Date: 2/3/1990
+
 Atlante 0 UNAM 1
 Monterrey 0 UAG 0
 U de G 0 Puebla 2
 Tampico-Madero 1 Veracruz 0
-[Feb 4]
+Date: 2/4/1990
+
 Necaxa 1 Toluca 0
 Guadalajara 1 Cruz Azul 1
 Morelia 1 América 1
@@ -428,27 +475,32 @@ Santos Laguna 0 Atlas 0
 
 Round: Week 26
 
-[Feb 9]
+Date: 2/9/1990
+
 América 2 Necaxa 2
 UAG 4 Irapuato 1
-[Feb 10]
+Date: 2/10/1990
+
 Veracruz 1 Atlante 1
 Cruz Azul 3 Tampico-Madero 0
 UANL 2 U de G 1
 Puebla 0 Guadalajara 0
 Atlas 1 Monterrey 1
-[Feb 11]
+Date: 2/11/1990
+
 Toluca 2 Santos Laguna 0
 UNAM 1 Morelia 0
 Cobras 1 UAT 2
 
 Round: Week 27
 
-[Feb 17]
+Date: 2/17/1990
+
 Monterrey 1 Toluca 1
 U de G 3 Cobras 0
 Tampico-Madero 2 Puebla 2
-[Feb 18]
+Date: 2/18/1990
+
 UAT 2 UAG 0
 Necaxa 0 UNAM 0
 Atlante 1 Cruz Azul 1
@@ -459,27 +511,32 @@ Santos Laguna 2 América 1
 
 Round: Week 28
 
-[Feb 23]
+Date: 2/23/1990
+
 Toluca 2 Irapuato 2
 América 1 Monterrey 3
-[Feb 24]
+Date: 2/24/1990
+
 Veracruz 0 Necaxa 0
 Cruz Azul 0 Morelia 2
 UANL 1 Tampico-Madero 1
 Puebla 1 Atlante 1
 U de G 2 UAT 1
-[Feb 25]
+Date: 2/25/1990
+
 UNAM 2 Santos Laguna 1
 Atlas 2 UAG 0
 Cobras 0 Guadalajara 0
 
 Round: Week 29
 
-[Mar 3]
+Date: 3/3/1990
+
 Monterrey 1 UNAM 0
 UAG 0 Toluca 0
 Tampico-Madero 3 Cobras 2
-[Mar 4]
+Date: 3/4/1990
+
 Necaxa 2 Cruz Azul 1
 Atlante 1 UANL 2
 Morelia 1 Puebla 2
@@ -490,27 +547,32 @@ Santos Laguna 1 Veracruz 1
 
 Round: Week 30
 
-[Mar 9]
+Date: 3/9/1990
+
 UNAM 2 Irapuato 2
-[Mar 10]
+Date: 3/10/1990
+
 Veracruz 4 Monterrey 0
 Puebla 2 Necaxa 1
 Cobras 0 Atlante 0
 Cruz Azul 2 Santos Laguna 3
 UANL 3 Morelia 1
 U de G 3 Tampico-Madero 1
-[Mar 11]
+Date: 3/11/1990
+
 Toluca 0 Atlas 0
 América 4 UAG 0
 Guadalajara 0 UAT 0
 
 Round: Week 31
 
-[Mar 17]
+Date: 3/17/1990
+
 Monterrey 3 Cruz Azul 3
 Atlas 2 América 2
 Tampico-Madero 1 Guadalajara 2
-[Mar 18]
+Date: 3/18/1990
+
 Necaxa 3 UANL 3
 Atlante 2 U de G 1
 Morelia 0 Cobras 1
@@ -521,30 +583,36 @@ UAG 1 UNAM 1
 
 Round: Week 32
 
-[Mar 23]
+Date: 3/23/1990
+
 América 1 Toluca 0
-[Mar 24]
+Date: 3/24/1990
+
 Cruz Azul 2 Irapuato 1
 Veracruz 3 UAG 1
 UANL 1 Santos Laguna 0
 Puebla 1 Monterrey 2
 U de G 0 Morelia 1
 Tampico-Madero 0 UAT 1
-[Mar 25]
+Date: 3/25/1990
+
 UNAM 3 Atlas 0
 Guadalajara 1 Atlante 0
 Cobras 2 Necaxa 0
 
 Round: Week 33
 
-[Mar 30]
+Date: 3/30/1990
+
 UAG 3 Cruz Azul 3
-[Mar 31]
+Date: 3/31/1990
+
 *Atlante 1 Tampico-Madero 0
 *Jugado en el Estadio Azulgrana
 Monterrey 0 UANL 1
 Atlas 1 Veracruz 1
-[Apr 1]
+Date: 4/1/1990
+
 Toluca 3 UNAM 3
 Necaxa 1 U de G 1
 Morelia 1 Guadalajara 1
@@ -554,9 +622,11 @@ Santos Laguna 0 Cobras 0
 
 Round: Week 34
 
-[Apr 6]
+Date: 4/6/1990
+
 Atlante 2 UAT 2
-[Apr 7]
+Date: 4/7/1990
+
 Veracruz 2 Toluca 0
 Cruz Azul 0 Atlas 3
 UANL 1 Irapuato 0
@@ -564,17 +634,20 @@ Cobras 3 Monterrey 2
 Tampico-Madero 0 Morelia 1
 Puebla 2 UAG 1
 U de G 2 Santos Laguna 1
-[Apr 8]
+Date: 4/8/1990
+
 UNAM 1 América 1
 Guadalajara 0 Necaxa 1
 
 Round: Week 35
 
-[Apr 14] 
+Date: 4/14/1990
+
 América 5 Veracruz 3
 Monterrey 2 U de G 2
 Atlas 1 Puebla 1
-[Apr 15]
+Date: 4/15/1990
+
 Toluca 2 Cruz Azul 0
 Necaxa 1 Tampico-Madero 1
 UAG 4 UANL 3
@@ -585,7 +658,8 @@ Santos Laguna 2 Guadalajara 2
 
 Round: Week 36
 
-[Apr 21]
+Date: 4/21/1990
+
 Veracruz 1 UNAM 4
   [Jorge Comas 89pen; Luis García 53, 73, Jorge Campos 71, 80]
 Cruz Azul 0 América 3
@@ -595,23 +669,27 @@ Tampico-Madero 2 Santos Laguna 0
 Puebla 1 Toluca 2
 Cobras 3 UAG 0
 U de G 0 Irapuato 2
-[Apr 22]
+Date: 4/22/1990
+
 Atlante 0 Necaxa 1
 Guadalajara 1 Monterrey 2
 Morelia 1 UAT 1
 
 Round: Week 37
 
-[Apr 27]
+Date: 4/27/1990
+
 Necaxa 1 Morelia 2
 UAG 1 U de G 0
-[Apr 28]
+Date: 4/28/1990
+
 Veracruz 1 UAT 0
 UNAM 4 Cruz Azul 1
   [Luis García 12, 77, Manuel Negrete 54, 73; Aurelio Rivera 86]
 Monterrey 4 Tampico-Madero 1
 Atlas 2 Cobras 2
-[Apr 29]
+Date: 4/29/1990
+
 Toluca 4 UANL 1
 América 2 Puebla 2
   [Raúl Vicente Amarilla 3, Carlos Hermosillo 42; Mario Cacho 49, Arturo Cañas 59] 
@@ -620,9 +698,11 @@ Irapuato 1 Guadalajara 4
 
 Round: Week 38
 
-[May 2]
+Date: 5/2/1990
+
 U de G 0 Atlas 0
-[May 5]
+Date: 5/5/1990
+
 Cruz Azul 2 Veracruz 2
 UANL 2 América 2
   [Víctor Manuel Escalera 18, Roberto Gasparini 81pen; Carlos Hermosillo 50, Raúl Vicente Amarilla 83pen]
@@ -631,7 +711,8 @@ Puebla 0 UNAM 2
   [Jorge Campos 41, David Patiño 71]
 UAT 1 Necaxa 1
 Tampico-Madero 0 Irapuato 0
-[May 6]
+Date: 5/6/1990
+
 Atlante 3 Monterrey 1
 Guadalajara 1 UAG 1
 Morelia 2 Santos Laguna 1
