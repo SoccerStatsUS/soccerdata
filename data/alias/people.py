@@ -111,7 +111,7 @@ slugs = {
     'pablo-garcia': 'Pablo Garcia',
     'italia': 'Italia',
     'nico-muniz': 'Nico Muniz',
-    'w-dos-santos': 'W. dos Snatos',
+    'w-dos-santos': 'W. dos Santos',
     'demenezes': 'DeMenezes',
     #'brown': [<Bio: . Brown>, <Bio: Brown>]
     'thompson': 'Thompson',
@@ -180,6 +180,30 @@ last_name = {
 
 
 basic = {
+    'Ivan Cordoba': 'Iván Córdoba',
+    'Leandro Damiao': 'Leandro Damião',
+    'Kleber Chala': 'Cléber Chalá',
+    'Paul Ambrosi': 'Paúl Ambrosi',
+    'Jose Cevallos': 'José Cevallos',
+    'Frantz Jean Francois': 'Frantz Jean-Francois',
+    'Adrian Mahia': 'Adrián Mahía',
+    'Raul Estevez':'Raúl Estévez',
+    'Nicolas Olivera': 'Nicolás Olivera',
+    'Enrique Labo': 'Enrique Labó',
+    'Reinier Nunez': 'Reinier Núñez',
+    'Ruben Ayala': 'Rubén Ayala',
+    'Raul DeCaria': 'Raúl Decaria',
+    'Victor Hugo Merino': 'Víctor Hugo Merino',
+    'Hernan Vigna': 'Hernán Vigna',
+    'Felix Perez': 'Félix Pérez',
+    'Minor Diaz': 'Minor Díaz',
+    'Moises Velasco': 'Moisés Velasco',
+    'Rodrigo Perez': 'Rodrigo Pérez',
+    'Luis Antonio Valdez': 'Luis Antonio Valdéz',
+    'Ivan Helguera': 'Iván Helguera',
+    'Gabriel Mejia': 'Gabriel Mejía',
+    'Park Ji-sung': 'Park Ji-Sung',
+    'Ruben Diaz': 'Rubén Díaz',
     'Walter Fernando Guglielmone': 'Walter Guglielmone',
     'Gary Ayre': 'Garry Ayre',
     'Carlos Puyol': 'Carles Puyol',
@@ -572,8 +596,6 @@ basic = {
     'Junior Fernandes': 'Junior Fernándes',
     'Jussié': 'Jussiê',
     'Kleber Boas': 'Kléber Boas',
-    'Kleber Chala': 'Kléber Chalá',
-    'Kleber Chalá': 'Kléber Chalá',
     'Kleber Pereira': 'Kléber Pereira',
     'Labruna': 'Labruña',
     'Laercio': 'Laércio',
@@ -696,7 +718,7 @@ basic = {
     'Rodriguez': 'Rodríguez',
     'Rogerio': 'Rogério',
     'Rogerio Ceni': 'Rogério Ceni',
-    'Róger Suarez': 'Roger Suárez',
+    'Roger Suarez': 'Roger Suárez',
     'Roque Junior': 'Roque Júnior',
     'Ruben Capria': 'Rubén Capria',
     'Ruben Ramirez': 'Rubén Ramírez',
@@ -837,7 +859,10 @@ basic = {
     'Sergio Manoel': 'Sérgio Manoel', 
     'Julio Diaz': 'Julio Díaz',
     
+    'Ricardo Alvarez': 'Ricardo Álvarez',
+    'Hector Hugo Eugui': 'Héctor Hugo Eugui',
     'Raul Bergara': 'Raúl Bergara', 
+    'Pablo Guinazu': 'Pablo Guiñazú',
     'Joaquin Guillen': 'Joaquín Guillén',
     'Joaquín Guillen': 'Joaquín Guillén',
     'José Hernandez': 'José Hernández',
@@ -873,8 +898,9 @@ basic = {
     #Canario, Canário
     'Carlos Esposito': 'Carlos Espósito',
     
-    'Julian De Guzmán': 'Julián De Guzmán', 
-    'Julian de Guzman': 'Julián De Guzmán', 
+    #'Julian De Guzmán': 'Julián De Guzmán', 
+    #'Julian de Guzman': 'Julián De Guzmán', 
+    'Julian De Guzman': 'Julian de Guzman',
     'Joao Paulo': 'João Paulo',
     'Jose Enrique Pena': 'José Enrique Peña',
     
@@ -898,7 +924,6 @@ basic = {
     
     'Victor Monzon': 'Víctor Monzon', 
     'Juan Carlos Garcia': 'Juan Carlos García',
-    'Hector Landazuri': 'Héctor Landazuri', 
     'Hector Landazuri': 'Héctor Landázuri',
     'Victor Mendoza': 'Víctor Mendoza',
     'Edgar Vaca': 'Édgar Vaca', 
@@ -953,6 +978,7 @@ basic = {
     'Kim Eun-jung': 'Kim Eun-Jung',
     'Leon Semmeling': 'Léon Semmeling', 
     'Raúl Arguello': 'Raúl Argüello', 
+    'Raul Arguello': 'Raúl Argüello', 
     'Stephane Abaul': 'Stéphane Abaul',
     
     'Mynor Gonzalez': 'Mynor González', 
@@ -1275,7 +1301,6 @@ basic = {
     
     'Maximiliano Lopez': 'Maximiliano López', 
     #Demarchi, DeMarchi
-    'DarÍo Delgado': 'Dario Delgado',
     
     'Kenneth Paniagua': 'Kénneth Paniagua', 
     'Kim Do Hoon': 'Kim Do-Hoon',
@@ -1399,7 +1424,6 @@ basic = {
     'Kleber': 'Kléber', 
     
     'Raul Sanchez': 'Raúl Sánchez', 
-    'Andy O’Brien': 'Andy O\'Brien',
     #Qu BO, Qu Bo
     #Neftali Díaz, Neftalí Díaz, Neftali Diaz
     'Leonel Duarte': 'Leonel Duarté',

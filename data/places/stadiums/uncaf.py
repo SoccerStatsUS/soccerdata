@@ -16,6 +16,13 @@ l = [
         },
 
         {
+        'name': 'Estadio Nilmo Edwards',
+        'location': 'La Ceiba, Honduras',
+        'opened': 1956,
+        'capacity': 18000,
+        },
+
+        {
         'name': 'Estadio Independencia (Esteli)',
         'location': 'Estelí, Nicaragua',
         'capacity': 5000,

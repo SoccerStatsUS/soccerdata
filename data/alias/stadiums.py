@@ -24,6 +24,7 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Estadio Nou Camp': 'Estadio León', 
     'Invaders Complex': 'Indiana Invaders Soccer Complex',
     'Navy-Marine Corps Stadium': 'Navy–Marine Corps Memorial Stadium',
     'Yokohama International Stadium': 'International Stadium Yokohama',
@@ -607,8 +608,10 @@ stadiums = {
     'Robert F. Kennedy Stadium': 'Robert F. Kennedy Memorial Stadium',
     'R.F.K. Stadium': 'Robert F. Kennedy Memorial Stadium',
     'Robert F. Kennedy Memorial': 'Robert F. Kennedy Memorial Stadium',
-    'Los Angeles Memorial Coliseum': 'Memorial Coliseum (Los Angeles)',
-    'Los Angeles Coliseum': 'Memorial Coliseum (Los Angeles)',
+
+    #'Los Angeles Memorial Coliseum': 'Memorial Coliseum (Los Angeles)',
+    'Los Angeles Coliseum': 'Los Angeles Memorial Coliseum',
+
     'Yankee Stadium': 'Yankees Stadium',
     'JFK Stadium': 'John F. Kennedy Stadium',
     'Philadelphia Municipal Stadium':  'John F. Kennedy Stadium',

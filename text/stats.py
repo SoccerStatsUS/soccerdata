@@ -28,9 +28,8 @@ def process_misl_stats():
 
 def process_pdl_stats():
     l = []
-    l.extend(process_stats("pdl.2003.2005.csv", "USL Premier Developmental League"))
-    l.extend(process_stats("pdl.2006.2008.csv", "USL Premier Developmental League"))
-    l.extend(process_stats("pdl.2009.2012.csv", "USL Premier Developmental League"))
+    for e in range(2003, 2013):
+        l.extend(process_stats("pdl/%s" % e, "USL Premier Developmental League"))
     return l
 
 
@@ -79,6 +78,7 @@ def process_name(s):
 def process_stats(fn, competition=None, format_name=True, source=None):
 
     def preprocess_line(line):
+        # Should probably just process these text files.
         line = line.replace('\xa0', '')
         line = line.replace('\xc2', '')
         

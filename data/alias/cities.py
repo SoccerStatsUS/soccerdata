@@ -217,6 +217,7 @@ cities = {
 
     'Edmonton': 'Edmonton, AB',
     'Ciudad de Guatemala': 'Guatemala City, Guatemala',
+    'Ciudad de Guatemala, Guatemala': 'Guatemala City, Guatemala',
     
     'Vancouver': 'Vancouver, BC',
     'Montreal': 'Montreal, QC',

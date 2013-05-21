@@ -54,6 +54,7 @@ places = {
     'Estadio Pueblo Nuevo, San Cristobal, Venezuela': 'Estadio Polideportivo de Pueblo Nuevo',
     'Toyota Arena, Prague, Czech Republic': 'Generali Arena',
     'National Stadium, Kingston, Jamaica': 'Independence Park (Jamaica)',
+    'National Stadium, Kingston': 'Independence Park (Jamaica)',
     'Greenfield Stadium, Trelawny, Jamaica': 'Greenfield Stadium (Trelawny)',
     'Independence Park, Kingston, Jamaica': 'Independence Park (Jamaica)',
     'Estadio Monumental, Guayaquil, Ecuador': 'Estadio Monumental Isidro Romero Carbo',
@@ -88,6 +89,7 @@ places = {
     'Baseball Stadium, Baltimore': 'Memorial Stadium Baltimore',
     'Estadío Universitario, Monterrey': 'Estadío Universitario de Monterrey',
     'Estadío Nacional, Tegucigalpa': 'Estadio Tiburcio Carías Andino',
+    'Estadio Nacional, Tegucigalpa': 'Estadio Tiburcio Carías Andino',
     'Veteran\'s Stadium, New Britain, CT': 'New Britain Veterans Stadium',
     'Memorial Stadium, Seattle': 'Seattle High School Memorial Stadium',
     'Edinburg Field': 'Edinburg Stadium',
@@ -115,8 +117,8 @@ places = {
 
     
     'Layou, StVincent&amp;Grenadines': 'Layou, St. Vincent and Grenadines',
-    'Los Angeles Memorial Coliseum': 'Memorial Coliseum, Los Angeles, CA',
-    'Memorial Stadium Los Angeles': 'Memorial Coliseum, Los Angeles, CA',
+    #'Los Angeles Memorial Coliseum': 'Memorial Coliseum, Los Angeles, CA',
+    'Memorial Stadium Los Angeles': 'Los Angeles Memorial Coliseum',
     'Memorial Stadium, Long Beach, CA': 'Veterans Memorial Stadium, Long Beach, CA',
 
     'St. George Cricket Grounds, Hoboken': 'St. George\'s Cricket Grounds, Hoboken',

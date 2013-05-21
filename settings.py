@@ -39,7 +39,6 @@ SOURCES = [
 
     'nafbl',
     'asl2',
-    'isl', # reorient this.
     #'indoor',
     #'misl',
 

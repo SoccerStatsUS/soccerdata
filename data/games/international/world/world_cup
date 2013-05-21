@@ -1,9 +1,110 @@
 Competition: FIFA World Cup
 
-BlockSource: http://en.wikipedia.org/wiki/1938_FIFA_World_Cup
+
+Season: 1930
+BlockSource: http://en.wikipedia.org/wiki/1930_FIFA_World_Cup
+
+Round: First round
+Group: Group 1
+
+7/13/1930; France; 4-1; Mexico; Estadio Pocitos; Domingo Lombardi; 3000 
+
+7/15/1930; Argentina; 1-0; France; Estadio Parque Central, Montevideo; Almeida Rego; 18000
+
+7/16/1930; Chile; 3-0; Mexico; Estadio Parque Central, Montevideo; Henri Christophe; 7000
+
+7/19/1930; Chile; 1-0; France; Estadio Centenario; Anibal Tejada; 50000
+
+7/19/1930; Argentina; 6-3; Mexico; Estadio Centenario; Ulises Saucedo; 50000
+
+7/22/1930; Argentina; 3-1; Chile; Estadio Centenario; John Langenus; 35000
+
+Group: Group 2
+
+7/14/1930; Yugoslavia; 2-1; Brazil; Estadio Parque Central, Montevideo; Anibal Tejada; 5000
+
+7/17/1930; Yugoslavia; 4-0; Bolivia; Estadio Parque Central, Montevideo; Francisco Mateucci; 800
+
+7/20/1930; Brazil; 4-0; Bolivia; Estadio Centenario; Thomas Balvay; 1200
+
+Group: Group 3
+
+7/14/1930; Romania; 3-1; Peru; Estadio Pocitos; Alberto Warnken; 300
+
+7/18/1930; Uruguay; 1-0; Peru; Estadio Centenario; John Langenus; 70000
+
+7/21/1930; Uruguay; 4-0; Romania; Estadio Centenario; Almeida Rego; 80000
+
+Group: Group 4
+
+7/13/1930; United States; 3-0; Belgium; Estadio Parque Central, Montevideo; Jose Macias; 10000
+
+7/17/1930; United States; 3-0; Paraguay; Estadio Parque Central, Montevideo; Jose Macia; 800
+
+7/20/1930; Paraguay; 1-0; Belgium; Estadio Centenario; Ricardo Vallarino; 900
+
+Round: Semifinals
+
+7/26/1930; Argentina; 6-1; United States; Estadio Centenario; John Langenus; 72886
+
+7/27/1930; Uruguay; 6-1; Yugoslavia; Estadio Centenario; Almeida Rego; 79867
+
+Round: Final
+
+7/30/1930; Uruguay; 4-2; Argentina; Estadio Centenario; John Langenus; 93000
+
+
+Season: 1934
+BlockSource: http://en.wikipedia.org/wiki/1934_FIFA_World_Cup
+
+Round: First round
+
+5/27/1934; Spain; 3-1; Brazil; Stadio Luigi Ferraris; Alfred Birlem; 21000
+
+5/27/1934; Hungary; 4-2; Egypt; Stadio Giorgio Ascarelli; Rinaldo Barlassina; 12000
+
+5/27/1934; Switzerland; 3-2; Netherlands; Stadio San Siro; Ivan Eklind; 40000
+
+5/27/1934; Italy; 7-1; United States; Stadio Nazionale PNF; Rene Mercet; 13000
+
+5/27/1934; Czechoslovakia; 2-1; Romania; Stadio Littorio; John Langenus; 8000
+
+5/27/1934; Sweden; 3-2; Argentina; Stadio Littorale; Eugen Braun; 15000
+
+5/27/1934; Austria; 3-2 (aet); France; Stadio Benito Mussolini; Johannes van Moorsel; 20000
+
+5/27/1934; Germany; 5-2; Belgium; Giovanni Berta; Francesco Mattea; 8000
+
+Round: Quarterfinals
+
+5/31/1934; Austria; 2-1; Hungary; Stadio Littorale; Francesco Mattea; 25000
+
+5/31/1934; Italy; 1-1 (aet); Spain; Stadio Giovanni Berta; Louis Baert; 35000
+Notes: Replay played on 6/1/1934
+
+5/31/1934; Germany; 2-1; Sweden; Stadio San Siro; Rinaldo Barlassina; 15000
+
+5/31/1934; Czechoslovakia; 3-2; Switzerland; Stadio Benito Mussolini; Alois Beranek; 12000
+
+6/1/1934; Italy; 1-0; Spain; Stadio Giovanni Berta; Rene Mercet; 45000
+
+Round: Semifinals
+
+6/3/1934; Italy; 1-0; Austria; Stadio San Siro; Ivan Eklind; 60000
+
+6/3/1934; Czechoslovakia; 3-1; Germany; Stadio Nazionale PNF; Rinaldo Barlassina; 10000
+
+Round: Third place
+
+6/7/1934; Germany; 3-2; Austria; Stadio Giorgio Ascarelli; Albino Carraro; 8000
+
+Round: Final
+
+6/10/1934; Italy; 2-1 (aet); Czechoslovakia; Stadio Nazionale PNF; Ivan Eklind; 45000
 
 
 Season: 1938
+BlockSource: http://en.wikipedia.org/wiki/1938_FIFA_World_Cup
 
 Round: First Round
 
@@ -65,62 +166,65 @@ BlockSource: http://en.wikipedia.org/wiki/1950_FIFA_World_Cup
 Round: First Round
 Group: Group 1
 
-6/24/1950; Brazil; 4-0; Mexico; Estadio do Maracana; George Reader
+6/24/1950; Brazil; 4-0; Mexico; Estadio do Maracana; George Reader; 82000
 
-6/25/1950; Yugoslavia; 3-0; Switzerland; Estadio Independencia, Belo Horizonte
+6/25/1950; Yugoslavia; 3-0; Switzerland; Estadio Independencia, Belo Horizonte; 7500
 
-6/28/1950; Brazil; 2-2; Switzerland; Estadio do Pacaembu; Ramon Azon Roma
+6/28/1950; Brazil; 2-2; Switzerland; Estadio do Pacaembu; Ramon Azon Roma; 42000
 
-6/28/1950; Yugoslavia; 4-1; Mexico; Estadio dos Eucaliptos; Reginald Leate
+6/28/1950; Yugoslavia; 4-1; Mexico; Estadio dos Eucaliptos; Reginald Leate; 11000
 
-7/1/1950; Brazil; 2-0; Yugoslavia; Estadio do Maracana; Benjamin Griffiths
+7/1/1950; Brazil; 2-0; Yugoslavia; Estadio do Maracana; Benjamin Griffiths; 142000
 
-7/2/1950; Switzerland; 2-1; Mexico; Estadio dos Eucaliptos; Ivan Eklind
+7/2/1950; Switzerland; 2-1; Mexico; Estadio dos Eucaliptos; Ivan Eklind; 4000
 
 
 Group: Group 2
 
-6/25/1950; England; 2-0; Chile; Estadio do Maracana; Karel van der Meer
+6/25/1950; England; 2-0; Chile; Estadio do Maracana; Karel van der Meer; 30000
 
-6/25/1950; Spain; 3-1; United States; Estadio Durival de Britto; Mario Vianna
+6/25/1950; Spain; 3-1; United States; Estadio Durival de Britto; Mario Vianna; 10000
 
-6/29/1950; Spain; 2-0; Chile; Estadio do Maracana; Alberto Malcher
+6/29/1950; Spain; 2-0; Chile; Estadio do Maracana; Alberto Malcher; 16000
 
-6/29/1950; United States; 1-0; England; Estadio Independencia; Generoso Dattilo
+6/29/1950; United States; 1-0; England; Estadio Independencia; Generoso Dattilo; 10000
 
-7/2/1950; Spain; 1-0; England; Estadio do Maracana; Giovanni Galeati
+7/2/1950; Spain; 1-0; England; Estadio do Maracana; Giovanni Galeati; 74000
 
-7/2/1950; Chile; 5-2; United States; Estadio Ilha do Retiro; Mario Gardelli
+7/2/1950; Chile; 5-2; United States; Estadio Ilha do Retiro; Mario Gardelli; 9000
 
 
 Group: Group 3
 
-6/25/1950; Sweden; 3-2; Italy; Estadio do Pacaembu; Jean Lutz
+6/25/1950; Sweden; 3-2; Italy; Estadio do Pacaembu; Jean Lutz; 36000
 
-6/29/1950; Sweden; 2-2; Paraguay; Estadio Durival Britto; Robert Mitchell
+6/29/1950; Sweden; 2-2; Paraguay; Estadio Durival Britto; Robert Mitchell; 8000
 
-7/2/1950; Italy; 2-0; Paraguay; Estadio do Pacaembu; Arthur Ellis
+7/2/1950; Italy; 2-0; Paraguay; Estadio do Pacaembu; Arthur Ellis; 26000
 
 Group: Group 4
 
-7/2/1950; Uruguay; 8-0; Bolivia; Estadio Independencia, Belo Horizonte; George Reader
+7/2/1950; Uruguay; 8-0; Bolivia; Estadio Independencia, Belo Horizonte; George Reader; 6000
 
 Round: Final Round
 
-7/9/1950; Uruguay; 2-2; Spain; Estadio do Pacaembu; Benjamin Griffiths
-7/9/1950; Brazil; 7-1; Sweden; Estadio do Maracana; Arthur Elis
-7/13/1950; Brazil; 6-1; Spain; Estadio do Maracana; Reginald Leafe
-7/13/1950; Uruguay; 3-2; Sweden; Estadio do Pacaembu; Giovanni Galeati
-7/16/1950; Sweden; 3-1; Spain; Estadio do Pacaembu; Karl van der Meer
-7/16/1950; Uruguay; 2-1; Brazil; Estadio do Maracana; George Reader
+7/9/1950; Uruguay; 2-2; Spain; Estadio do Pacaembu; Benjamin Griffiths; 45000
+
+7/9/1950; Brazil; 7-1; Sweden; Estadio do Maracana; Arthur Elis; 139000
+
+7/13/1950; Brazil; 6-1; Spain; Estadio do Maracana; Reginald Leafe; 153000
+
+7/13/1950; Uruguay; 3-2; Sweden; Estadio do Pacaembu; Giovanni Galeati; 8000
+
+7/16/1950; Sweden; 3-1; Spain; Estadio do Pacaembu; Karl van der Meer; 11000
+
+7/16/1950; Uruguay; 2-1; Brazil; Estadio do Maracana; George Reader; 200000
 
 
 Season: 1962
-
 BlockSource: http://en.wikipedia.org/wiki/1962_FIFA_World_Cup
 
 Round: First Round
-
 Group: Group 1
 
 5/30/1962; Uruguay; 2-1; Colombia; Estadio Carlos Dittborn; Andor Dorogi
@@ -187,16 +291,13 @@ Round: Third Place
 
 6/16/1962; Chile; 1-0; Yugoslavia; Estadio Nacional, Santiago
 
-
 Round: Final
 
 6/17/1962; Brazil; 3-1; Czechoslovakia; Estadio Nacional, Santiago; Nikolay Latyshev
 
-
 Season: 1978
 
 Round: First Round
-
 Group: Group 1
 
 6/2/1978; Italy; 2-1; France; Estadio Jose Maria Minella; Nicolae Rainea
@@ -234,7 +335,6 @@ Group: Group 4
 6/11/1978; Scotland; 3-2; Netherlands; Estadio Ciudad de Mendoza; Erich Linemayr
 
 Round: Second Round
-
 Group: Group A
 
 6/14/1978; Austria; 1-5; Netherlands; Estadio Chateau Carreras; John Gordon
@@ -252,7 +352,6 @@ Group: Group B
 6/18/1978; Argentina; 0-0; Brazil; Estadio Gigante de Arroyito; Karoly Palotai
 6/21/1978; Poland; 1-3; Brazil; Estadio Ciudad de Mendoza; Juan Silvagno Cavanna
 6/21/1978; Argentina; 6-0; Peru; Estadio Gigante de Arroyito; Robert Wurtz
-
 
 Round: Third Place Match
 
@@ -315,37 +414,58 @@ Group: Group D
 Group: Group E
 
 6/4/1986; Uruguay; 1-1; West Germany; Estadio La Corregidora; Vojtech Christov
+
 6/4/1986; Scotland; 0-1; Denmark; Estadio Neza 86; Lajos Nemeth
+
 6/8/1986; West Germany; 2-1; Scotland; Estadio La Corregidora; Ioan Igna
+
 6/8/1986; Denmark; 6-1; Uruguay; Estadio Neza 86; Antonio Marquez Ramirez
+
 6/13/1986; Denmark; 2-0; West Germany; Estadio La Corregidora; Alexis Ponnet
+
 6/13/1986; Scotland; 0-0; Uruguay; Estadio Neza 86; Joel Quiniou
 
 Group: Group F
 
 6/2/1986; Morocco; 0-0; Poland; Estadio Universitario, Monterrey; Jose Luis Martinez Bazan
+
 6/3/1986; Portugal; 1-0; England; Estadio Tecnologico; Volker Roth
+
 6/6/1986; England; 0-0; Morocco; Estadio Tecnologico; Gabriel Gonzalez
+
 6/7/1986; Poland; 1-0; Portugal; Estadio Universitario, Monterrey; Ali Bin Nassar
+
 6/11/1986; England; 3-0; Poland; Estadio Universitario, Monterrey; Andre Daina
+
 6/11/1986; Portugal; 1-3; Morocco; Estadio Tres de Marzo; Alan Snoddy
 
 Round: Round of 16
 
 6/15/1986; Mexico; 2-0; Bulgaria; Estadio Azteca; Romualdo Arppi Filho
+
 6/15/1986; Soviet Union; 3-4 (aet); Belgium; Estadio Nou Camp, Leon; Erik Fredriksson
+
 6/16/1986; Brazil; 4-0; Poland; Estadio Jalisco; Volker Roth
+
 6/16/1986; Argentina; 1-0; Uruguay; Estadio Cuauhtemoc; Luigi Agnolin
+
 6/17/1986; Italy; 0-2; France; Estadio Olimpico Universitario
+
+
 6/17/1986; Morocco; 0-1; West Germany; Estadio Universitario, Monterrey
+
 6/18/1986; England; 3-0; Paraguay; Estadio Azteca; Jamal Al Sharif
+
 6/18/1986; Denmark; 1-5; Spain; Estadio La Corregidora; Jan Keizer
 
 Round: Quarterfinals
 
 6/21/1986; Brazil; 1-1 (aet); France; Estadio Jalisco; Ioan Igna
+
 6/21/1986; West Germany; 0-0 (aet); Mexico; Estadio Universitario, Monterrey; Jesus Diaz
+
 6/22/1986; Argentina; 2-1; England; Estadio Azteca; Ali Bin Nasser
+
 6/22/1986; Spain; 1-1 (aet); Belgium; Estadio Cuauhtemoc; Siegfried Kirschen
 
 Round: Semifinals
@@ -362,10 +482,41 @@ Round: Final
 6/29/1986; Argentina; 3-2; West Germany; Estadio Azteca; Romualdo Arppi Filho
 
 
+Season: 1994
+BlockSource: http://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+
+Round: Group stage
+Group: A
+
+6/18/1994; United States; 1-1; Switzerland; Pontiac Silverdome; Francisco Oscar Lamolina; 73425
+
+6/18/1994; Colombia; 1-3; Romania; Rose Bowl; Jamal Al Sharif; 91856
+
+6/22/1994; Romania; 1-4; Switzerland; Pontiac Silverdome; Neji Jouini; 61428
+
+6/22/1994; United States; 2-1; Colombia; Rose Bowl; Fabio Baldas; 93869
+
+6/26/1994; Switzerland; 0-2; Colombia; Stanford Stadium; Peter Mikkelsen; 83401
+
+6/26/1994; United States; 0-1; Romania; Rose Bowl; Mario van der Ende; 93869
+
+Group: B
+
+6/19/1994; Cameroon; 2-2; Sweden; Rose Bowl; Alberto Tejada Noriega; 93194
+
+6/20/1994; Brazil; 2-0; Russia; Stanford Stadium; Lim Kee Chong; 81061
+
+6/24/1994; Brazil; 3-0; Cameroon; Stanford Stadium; Arturo Brizio Carter; 83401
+
+6/24/1994; Sweden; 2-1; Russia; Pontiac Silverdome; Joel Quiniou; 71528
+
+6/28/1994; 
+
+
+
 Season: 2006
 
 Round: Group Stage
-
 Group: Group A
 
 6/9/2006; Germany; 4-2; Costa Rica; Allianz Arena; Horacio Elizondo
@@ -522,13 +673,10 @@ Round: Final
 
 
 Season: 2010
-
-
+BlockSource: http://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
 
 Round: Group Stage
-
 Group: Group A
-BlockSource: http://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
 
 6/11/2010; South Africa; 1-1; Mexico; Soccer City, Johannesburg; Ravshan Irmatov; 84490
 
@@ -541,8 +689,6 @@ BlockSource: http://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
 6/22/2010; Mexico; 0-1; Uruguay; Royal Bafokeng Stadium; Viktor Kassai; 33425
 
 6/22/2010; France; 1-2; South Africa; Free State Stadium; Oscar Ruiz; 39415
-
-
 
 Group: Group B
 BlockSource: http://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_B

@@ -12,6 +12,13 @@ l = [
         },
 
     {
+        'name': 'Estadio Alfonso Lastras',
+        'opened': 2002,
+        'location': 'San Luis Potosi, Mexico',
+        'capacity': 35000,
+        },
+
+    {
         'name': 'Estadio Olimpico (Tabasco)',
         'location': 'Villahermosa, Mexico',
         },

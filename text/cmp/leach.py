@@ -169,7 +169,7 @@ def process_games_file(fn):
             else:
                 attendance = None
 
-            if attendance in (0, 1):
+            if attendance in (0, 1, 10):
                 attendance = None
                 
 

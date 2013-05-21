@@ -63,6 +63,7 @@ slugs = {
 
 
 world = {
+    'Federal Ship FC': 'Kearny Federal Ship',
     'CD Veracruz': 'Tiburones Rojos de Veracruz',
     'Vera Cruz': 'Tiburones Rojos de Veracruz',
     'Bay Area CyberRays': 'San Jose CyberRays',
@@ -1676,8 +1677,8 @@ world = {
     'CD Aguila': 'C.D. Águila',
     'CD Aguila (El Salvador)': 'C.D. Águila',
 
-    'Alianza FC': 'Alianza',
-    'Alianza - El Salvador': 'Alianza',
+    #'Alianza FC': 'Alianza',
+    'Alianza - El Salvador': 'Alianza FC',
 
     'Atletico Balboa': 'Atlético Balboa',
 
@@ -1785,7 +1786,7 @@ world = {
     'CD Marathon': 'CD Marathón',
     'Motagua': 'CD Motagua',
     'Motagua -- Honduras': 'Motagua',
-    'Olimpia': 'CD Olimpia',
+    #'Olimpia': 'CD Olimpia',
     'Olimpia (Honduras)': 'CD Olimpia',
 
     'Olympia - Honduras': 'CD Olimpia',

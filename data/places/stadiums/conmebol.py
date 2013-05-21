@@ -258,6 +258,13 @@ l = [
         'capacity': 20000,
         },
 
+    {
+        'name': 'Estádio General Santander',
+        'location': 'Cucuta, Colombia',
+        'opened': 1948,
+        'capacity': 42901,
+        },
+
 
     {
         'name': 'Estádio Parque do Sabiá',

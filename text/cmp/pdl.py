@@ -1,11 +1,13 @@
+# This is just a bad copy of text/games.py; should be merged.
+
 import datetime
 import os
 import re
 
 
 def load_pdl_games():
-    games = process_pdl_games_file('domestic/country/usa/leagues/pdl/pdl.csv')
-    games2 = process_pdl_games_file('domestic/country/usa/leagues/pdl/2012')
+    games = process_pdl_games_file('domestic/country/usa/leagues/d4/pdl/pdl.csv')
+    games2 = process_pdl_games_file('domestic/country/usa/leagues/d4/pdl/2012')
     return games + games2
 
 

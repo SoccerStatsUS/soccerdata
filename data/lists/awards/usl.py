@@ -529,6 +529,28 @@ usl_pdl = {
 
     'team_data': ['Champion'],
 
+    # playoff champions.
+    'Champion': [
+        ('1995', 'Richmond Kickers'),
+        ('1996', 'Central Coast Roadrunners'),
+        ('1997', 'Central Coast Roadrunners'),
+        ('1998', 'San Gabriel Valley Highlanders'),
+        ('1999', 'Chicago Sockers'),
+        ('2000', 'Chicago Sockers'),
+        ('2001', 'Westchester Flames'),
+        ('2002', 'Cape Cod Crusaders'),
+        ('2003', 'Cape Cod Crusaders'),
+        ('2004', 'Central Florida Kraze'),
+        ('2005', 'Des Moines Menace'),
+        ('2006', 'Michigan Bucks'),
+        ('2007', 'Laredo Heat'),
+        ('2008', 'Thunder Bay Chill'),
+        ('2009', 'Ventura County Fusion'),
+        ('2010', 'Portland Timbers U-23s'),
+        ('2011', 'Kitsap Pumas'),
+        ('2012', 'Forest City London'),
+        ],
+
     'MVP': [
         (1997, 'Lester Felicia'),
         (1998, 'Rodrigo Costa'),

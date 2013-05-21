@@ -155,7 +155,7 @@ l = [
 
     
     {
-        'name': 'Memorial Coliseum',
+        'name': 'Los Angeles Memorial Coliseum',
         'address': '3911 South Figueroa Street',
         'location': 'Los Angeles, CA',
         'opened': datetime.datetime(1923, 5, 1),
