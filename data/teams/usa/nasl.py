@@ -197,12 +197,6 @@ l = [
         'dissolved': 1996,
         'city': 'San Diego, CA',
         },
-    {
-        'name': 'San Diego Toros',
-        'founded': 1968,
-        'dissolved': 1968,
-        'city': 'San Diego, CA',
-        },
 
     {
         'name': 'St. Louis Stars',

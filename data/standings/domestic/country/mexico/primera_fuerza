@@ -109,13 +109,13 @@ Season: 1917-1918
 1;  Pachuca AC                   ; 10 ;  7 ;  2 ;  1  ; 16 ; 18 ; 9  
 2;  Real Club España             ; 10 ;  7 ;  0 ;  3  ; 14 ; 14 ; 8  
 3;  México FC                    ; 10 ;  4 ;  2 ;  4  ; 10 ; 13 ; 8  
-4;  Junior México                ; 10 ;  4 ;  1 ;  5  ;  9 ; 11 ; 11 
+4;  Junior Club                  ; 10 ;  4 ;  1 ;  5  ;  9 ; 11 ; 11 
 5;  Real Club España B           ; 10 ;  2 ;  2 ;  6  ;  6 ;  7 ; 12 
-6;  Centro Unión                 ; 10 ;  2 ;  1 ;  7  ;  5 ;  6 ; 21 
+6;  Centro Union                 ; 10 ;  2 ;  1 ;  7  ;  5 ;  6 ; 21 
 
 Season: 1918-1919 
 1;  Real Club España             ; 12 ; 10 ;  1 ;  1  ; 21 ; 19 ;  6 
-2;  Centro Unión                 ; 12 ;  7 ;  1 ;  4  ; 15 ; 17 ; 10 
+2;  Centro Union                 ; 12 ;  7 ;  1 ;  4  ; 15 ; 17 ; 10 
 3;  Tigres                       ; 12 ;  5 ;  5 ;  2  ; 15    ; 13 ; 11 
 4;  Germania FV                     ; 12 ;  3 ;  3 ;  6  ;  9 ; 13 ; 14 
 5;  Pachuca AC                   ; 12 ;  4 ;  1 ;  7  ;  9 ; 13 ; 18 
@@ -205,7 +205,7 @@ Season: 1927-1928
 * NB: Club Real Club España left the league and lost their last 4 matches by default vs. Club America, México FC, Atlante and Necaxa (0-1  each game)
 
 Season: 1928-1929
-1;  Marte FC                     ;  8 ;  7 ;  0 ;  1  ; 14; 32 ; 15 
+1;  Marte (Mexico)                     ;  8 ;  7 ;  0 ;  1  ; 14; 32 ; 15 
 2;  Real Club España             ;  8 ;  6 ;  1 ;  1  ; 13; 21 ; 15 
 3;  Club America                 ;  8 ;  5 ;  1 ;  2  ; 11; 31 ; 17 
 4;  Atlante                      ;  8 ;  5 ;  0 ;  3  ; 10; 26 ; 14 
@@ -221,7 +221,7 @@ Season: 1929-1930
 3;  Necaxa                       ; 14 ;  7 ;  3 ;  4  ; 17; 36 ; 24 
 4;  CF Asturias                  ; 14 ;  6 ;  5 ;  3  ; 17; 34 ; 22 
 5;  Atlante                      ; 14 ;  6 ;  4 ;  4  ; 16; 32 ; 25 
-6;  Marte FC                     ; 14 ;  4 ;  5 ;  5  ; 13; 22 ; 25 
+6;  Marte (Mexico)                     ; 14 ;  4 ;  5 ;  5  ; 13; 22 ; 25 
 7;  México FC                    ; 14 ;  2 ;  2 ; 10  ;  6; 15 ; 44 
 8;  Germania FV                     ; 14 ;  1 ;  3 ; 10  ;  5; 21 ; 45 
 
@@ -236,8 +236,8 @@ Season: 1931-1932
 3;  CF Asturias                  ; 14 ;  9 ;  2 ;  3  ; 20; 40 ; 34 
 4;  Club America                 ; 14 ;  5 ;  2 ;  7  ; 12; 39 ; 42 
 5;  Germania FV                  ; 14 ;  4 ;  4 ;  6  ; 12; 36 ; 45 
-6;  Sporting                     ; 14 ;  4 ;  2 ;  8  ; 10; 29 ; 34 
-7;  Marte                        ; 14 ;  2 ;  3 ;  9  ;  7; 30 ; 57 
+6;  Sporting (Mexico)            ; 14 ;  4 ;  2 ;  8  ; 10; 29 ; 34 
+7;  Marte (Mexico)                        ; 14 ;  2 ;  3 ;  9  ;  7; 30 ; 57 
 8;  Leonés                       ; 14 ;  2 ;  1 ; 11  ;  5; 25 ; 52 
 
 
@@ -253,9 +253,9 @@ Group: Group A
 Group: Group B
 6;  Leonés                       ;  8 ;  4 ;  4 ;  0  ; 12; 22 ; 14 
 7;  Germania FV                     ;  8 ;  3 ;  4 ;  1  ; 10; 24 ; 19 
-8;  Marte                        ;  8 ;  3 ;  3 ;  2  ;  9; 19 ; 14 
+8;  Marte (Mexico)                        ;  8 ;  3 ;  3 ;  2  ;  9; 19 ; 14 
 9;  México FC                    ;  8 ;  2 ;  2 ;  4  ;  6; 22 ; 27 
-1;  Sporting                     ;  8 ;  1 ;  1 ;  6  ;  3; 14 ; 27 
+1;  Sporting (Mexico)            ;  8 ;  1 ;  1 ;  6  ;  3; 14 ; 27 
 
 * NB: Before the start of the next season all the teams of  Group B were dissolved (except México FC)
 
@@ -293,7 +293,7 @@ Season: 1936-1937
 Season: 1937-1938
 1;  Necaxa                       ; 10 ;  7 ;  1 ;  2  ; 15; 30 ; 13 
 2;  CF Asturias                  ; 10 ;  7 ;  0 ;  3  ; 14; 31 ; 14 
-3;  Marte                        ; 10 ;  5 ;  0 ;  5  ; 10; 26 ; 33 
+3;  Marte (Mexico)                        ; 10 ;  5 ;  0 ;  5  ; 10; 26 ; 33 
 4;  Real Club España             ; 10 ;  3 ;  1 ;  6  ;  7; 27 ; 27 
 5;  Club America                 ; 10 ;  3 ;  1 ;  6  ;  7; 15 ; 28 
 6;  Atlante                      ; 10 ;  3 ;  1 ;  6  ;  7; 18 ; 32 
@@ -304,7 +304,7 @@ Season: 1938-1939
 3;  Real Club España             ; 12 ;  6 ;  1 ;  5  ; 13; 46 ; 33 
 4;  Club America                 ; 12 ;  5 ;  3 ;  4  ; 13; 32 ; 27 
 5;  Necaxa                       ; 12 ;  5 ;  1 ;  6  ; 12; 32 ; 32 
-6;  Marte                        ; 12 ;  4 ;  1 ;  7  ;  9; 22 ; 34 
+6;  Marte (Mexico)                        ; 12 ;  4 ;  1 ;  7  ;  9; 22 ; 34 
 7;  Atlante                      ; 12 ;  3 ;  1 ;  8  ;  7; 22 ; 42 
 
 Season: 1939-1940 
@@ -313,7 +313,7 @@ Season: 1939-1940
 3;  Atlante                      ; 15 ;  7 ;  2 ;  6  ; 16; 34 ; 37 
 4;  Club America                 ; 15 ;  5 ;  4 ;  6  ; 14; 37 ; 36 
 5;  CF Asturias                  ; 15 ;  5 ;  2 ;  8  ; 12; 32 ; 33 
-6;  Marte                        ; 15 ;  2 ;  5 ;  8  ; 9    ; 25 ; 41 
+6;  Marte (Mexico)                        ; 15 ;  2 ;  5 ;  8  ; 9    ; 25 ; 41 
 
 Season: 1940-1941
 1;  Atlante                      ; 14 ; 11 ;  0 ;  3  ; 22; 48 ; 29 
@@ -323,7 +323,7 @@ Season: 1940-1941
 5;  CF Asturias                  ; 14 ;  5 ;  2 ;  7  ; 12; 25 ; 20 
 6;  Moctezuma                    ; 14 ;  4 ;  3 ;  7  ; 11; 25 ; 37 
 7;  Club America                 ; 14 ;  4 ;  2 ;  8  ; 10; 31 ; 37 
-8;  Marte                        ; 14 ;  3 ;  1 ; 10  ;  7; 22 ; 47 
+8;  Marte (Mexico)                        ; 14 ;  3 ;  1 ; 10  ;  7; 22 ; 47 
 * NB: table takes award of 3 matches against Asturia into account
 
 Season: 1941-1942
@@ -331,13 +331,13 @@ Season: 1941-1942
 2;  Atlante                      ; 14 ;  8 ;  2 ;  4  ; 18; 44 ; 36 
 3;  Moctezuma                    ; 14 ;  8 ;  1 ;  5  ; 17; 38 ; 29 
 4;  Necaxa                       ; 14 ;  5 ;  5 ;  4  ; 15; 31 ; 30 
-5;  Marte                        ; 14 ;  6 ;  2 ;  6  ; 14; 34 ; 35 
+5;  Marte (Mexico)                        ; 14 ;  6 ;  2 ;  6  ; 14; 34 ; 35 
 6;  Selección Jalisco            ; 14 ;  4 ;  4 ;  6  ; 12; 28 ; 33 
 7;  Club America                 ; 14 ;  4 ;  1 ;  9  ;  9; 41 ; 53 
 8;  CF Asturias                  ; 14 ;  4 ;  1 ;  9  ;  9; 30 ; 42 
 
 Season: 1942-1943
-1;  Marte                        ; 14 ;  8 ;  3 ;  3  ; 19; 46 ; 28 
+1;  Marte (Mexico)                        ; 14 ;  8 ;  3 ;  3  ; 19; 46 ; 28 
 2;  Atlante                      ; 14 ;  7 ;  4 ;  3  ; 18; 36 ; 28 
 3;  Necaxa                       ; 14 ;  7 ;  3 ;  4  ; 17; 34 ; 36 
 4;  Moctezuma                    ; 14 ;  5 ;  3 ;  6  ; 13; 29 ; 33 

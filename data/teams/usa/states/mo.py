@@ -5,6 +5,21 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Sporting Kansas City',
+        'founded': 1995,
+        'city': 'Kansas City, MO',
+        },
+
+
+{ 
+        'name': 'Sporting Kansas City Reserves',
+        'city': 'Kansas City, MO',
+        },
+
+
+
     {
         'name': 'Stix, Baer and Fuller F.C.',
         'city': 'St. Louis, MO',

@@ -5,6 +5,78 @@ import datetime
 
 l = [
 
+
+
+    # Separate other Boston, Bridgeport teams from 1929, 1930.
+    {
+        'name': 'Boston Bears',
+        'founded': 1931,
+        'dissolved': 1932,
+        'city': 'Boston, MA',
+        },
+
+
+    # Need to disambiguate Fall River United, which existed in 1933-1934
+    {
+        'name': 'Fall River Rovers',
+        'founded': 1884,
+        'dissolved': 1922,
+        'city': 'Fall River, MA',
+        },
+
+
+    {
+        'name': 'Fall River Marksmen',
+        'founded': 1922,
+        'dissolved': 1931,
+        'city': 'Fall River, MA',
+        },
+
+
+    # Need to separate later New Bedford Whalers teams (there are multiple.)
+    {
+        'name': 'New Bedford Whalers',
+        'founded': 1924,
+        'dissolved': datetime.datetime(1931, 4, 19),
+        'city': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Boston Wonder Workers',
+        'founded': 1924,
+        'dissolved': 1929,
+        'city': 'Boston, MA',
+        },
+
+
+
+    {
+        'name': 'Shawsheen Indians',
+        'founded': 1923,
+        'dissolved': 1926,
+        'city': 'Andover, MA',
+        },
+
+    {
+        'name': 'Springfield Babes',
+        'founded': 1926,
+        'dissolved': 1927,
+        'city': 'Springfield, MA',
+        },
+
+    {
+        'name': 'New England Revolution',
+        'founded': 1995,
+        'city': 'Boston, MA',
+        },
+
+{ 
+        'name': 'New England Revolution Reserves',
+        'city': 'Boston, MA',
+        },
+
+
+
     {
         'name': 'Boston Bolts',
         'city': 'Boston, MA',

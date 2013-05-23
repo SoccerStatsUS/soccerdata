@@ -33,25 +33,25 @@ Round: Week 1
 ; Monterrey; 0-0; Guadalajara
 ; Cruz Azul; 2-1; Deportivo Neza
 ; Atlas; 3-0; UANL 
-; América; 2-0; Oaxtepec 
+; Club America; 2-0; Oaxtepec 
 ; Atlante; 0-0; Zacatepec 
 ; U de G; 0-3; UAG 
 ; Puebla; 3-0; Toluca 
-; Atlético Potosino; 4-2; Atlético Morelia 
-; León; 0-0; UNAM 
+; Atlético Potosino; 4-2; Atletico Morelia 
+; Club León; 0-0; UNAM 
 ; Tampico-Madero; 3-2; Necaxa 
 
 Round: Week 2
 
 ; UANL; 1-1; U de G 
 ; Necaxa; 1-2; Atlético Potosino 
-; UNAM; 1-1; América 
+; UNAM; 1-1; Club America 
 ; UAG; 1-0; Monterrey 
 ; Toluca; 3-1; Cruz Azul 
 ; Oaxtepec; 1-0; Tampico-Madero; Puebla
 ; Zacatepec; 1-1; Puebla 
-; Atlético Morelia; 1-1; Atlas 
-; Deportivo Neza; 3-0; León 
+; Atletico Morelia; 1-1; Atlas 
+; Deportivo Neza; 3-0; Club León 
 ; Guadalajara; 1-1; Atlante 
 
 Round: Week 3
@@ -60,29 +60,29 @@ Round: Week 3
 ; Atlas; 0-0; Necaxa 
 ; Monterrey; 1-1; UANL 
 ; Cruz Azul; 1-1; Zacatepec 
-; León; 0-4; América 
+; Club León; 0-4; Club America 
 ; Puebla; 2-1; Guadalajara 
 ; Deportivo Neza; 1-0; Toluca 
 ; Atlante; 4-3; UAG 
 ; Tampico-Madero; 2-0; UNAM 
-; U de G; 3-1; Atlético Morelia 
+; U de G; 3-1; Atletico Morelia 
 
 Round: Week 4
 
-; América; 2-1; Tampico-Madero
+; Club America; 2-1; Tampico-Madero
 ; UAG; 5-2; Puebla
 ; UANL; 2-1; Atlante
 ; Necaxa; 4-0; U de G
 ; Zacatepec; 1-1; Deportivo Neza
 ; Oaxtepec; 4-0; Atlas; Puebla, Mexico
 ; Guadalajara; 1-0; Cruz Azul
-; Toluca; 2-0; León
+; Toluca; 2-0; Club León
 ; UNAM; 2-0; Atlético Potosino
 ; 
 Round: Week 5
 
-; León; 0-0; Tampico-Madero
-; Atlético Potosino; 0-2; América
+; Club León; 0-0; Tampico-Madero
+; Atlético Potosino; 0-2; Club America
 ; Cruz Azul; 3-2; UAG
 ; Atlas; 2-2; UNAM
 ; Monterrey; 2-1; Necaxa
@@ -90,120 +90,120 @@ Round: Week 5
 ; U de G; 2-4; Oaxtepec
 ; Deportivo Neza; 0-1; Guadalajara
 ; Toluca; 0-0; Zacatepec
-; Atlante; 3-0; Atlético Morelia
+; Atlante; 3-0; Atletico Morelia
 
 Round: Week 6
 
-; América; 2-1; Atlas
+; Club America; 2-1; Atlas
 ; UNAM; 1-4; U de G
 ; Guadalajara; 1-0; Toluca
 ; UANL; 0-0; Cruz Azul 
 ; UAG; 0-0; Deportivo Neza 
-; Atlético Morelia; 0-0; Puebla 
+; Atletico Morelia; 0-0; Puebla 
 ; Tampico-Madero; 1-0; Atlético Potosino 
 ; Oaxtepec; 2-0; Monterrey; Puebla, Mexico
-; Zacatepec; 2-1; León
+; Zacatepec; 2-1; Club León
 ; Necaxa; 1-1; Atlante
 
 Round: Week 7
 
 ; Zacatepec; 1-1; Guadalajara
 ; Toluca; 3-0; UAG
-; León; 3-3; Atlético Potosino
+; Club León; 3-3; Atlético Potosino
 ; Monterrey; 1-2; UNAM 
-; U de G; 1-1; América 
+; U de G; 1-1; Club America 
 ; Deportivo Neza; 2-1; UANL 
-; Cruz Azul; 1-1; Atlético Morelia 
+; Cruz Azul; 1-1; Atletico Morelia 
 ; Puebla; 3-0; Necaxa 
 ; Atlante; 3-2; Oaxtepec 
 ; Atlas; 1-1; Tampico-Madero 
 
 Round: Week 8
 
-; América; 3-0; Monterrey
-; Guadalajara; 6-0; León 
+; Club America; 3-0; Monterrey
+; Guadalajara; 6-0; Club León 
 ; UANL; 1-1; Toluca 
 ; Necaxa; 2-1; Cruz Azul 
 ; Oaxtepec; 1-2; Puebla; Puebla, Mexico
 ; UAG; 2-1; Zacatepec 
-; Atlético Morelia; 0-0; Deportivo Neza
+; Atletico Morelia; 0-0; Deportivo Neza
 ; Atlético Potosino; 1-0; Atlas 
 ; Tampico-Madero; 3-2; U de G 
 ; UNAM; 1-2; Atlante 
 
 Round: Week 9
 
-; León; 2-2; Atlas 
+; Club León; 2-2; Atlas 
 ; Monterrey; 2-2; Tampico-Madero 
 ; U de G; 1-1; Atlético Potosino 
 ; Cruz Azul; 3-0; Oaxtepec 
-; Atlante; 0-1; América 
+; Atlante; 0-1; Club America 
 ; Puebla; 0-0; UNAM 
 ; Zacatepec; 2-2; UANL 
 ; Guadalajara; 1-0; UAG 
 ; Deportivo Neza; 1-1; Necaxa 
-; Toluca; 2-0; Atlético Morelia 
+; Toluca; 2-0; Atletico Morelia 
 
 Round: Week 10
 
 ; Atlético Potosino; 1-0; Monterrey
-; América; 2-0; Puebla 
-; Atlético Morelia; 3-0; Zacatepec 
+; Club America; 2-0; Puebla 
+; Atletico Morelia; 3-0; Zacatepec 
 ; Oaxtepec; 2-2; Deportivo Neza; Puebla, Mexico
 ; UANL; 1-0; Guadalajara
 ; Necaxa; 2-3; Toluca
 ; Atlas; 2-4; U de G
-; UAG; 2-1; León
+; UAG; 2-1; Club León
 ; UNAM; 1-0; Cruz Azul
 ; Tampico-Madero; 1-1; Atlante
 
 Round: Week 11
 
-; León; 1-2; U de G
-; Guadalajara; 2-1; Atlético Morelia
-; Cruz Azul; 1-1; América
+; Club León; 1-2; U de G
+; Guadalajara; 2-1; Atletico Morelia
+; Cruz Azul; 1-1; Club America
 ; Atlante; 5-0; Atlético Potosino
 ; Zacatepec; 1-2; Necaxa
 ; UAG; 2-1; UANL
 ; Toluca; 3-2; Oaxtepec
 ; Deportivo Neza; 2-5; UNAM
 ; Puebla; 2-0; Tampico-Madero
-; Monterrey; 1-0; Atlas 0
+; Monterrey; 1-0; Atlas
 
 Round: Week 12
 
 ; UNAM; 2-0; Toluca
-; UANL; 2-3; León
+; UANL; 2-3; Club León
 ; Atlético Potosino; 2-1; Puebla
 ; Atlas; 0-1; Atlante
-; América; 2-1; Deportivo Neza
+; Club America; 2-1; Deportivo Neza
 ; U de G; 1-0; Monterrey
 ; Necaxa; 0-0; Guadalajara
 ; Oaxtepec; 2-1; Zacatepec; Puebla, Mexico
-; Atlético Morelia; 3-2; UAG
+; Atletico Morelia; 3-2; UAG
 ; Tampico-Madero; 4-3; Cruz Azul
 
 Round: Week 13
 
-; León; 1-1; Monterrey
+; Club León; 1-1; Monterrey
 ; Guadalajara; 2-2; Oaxtepec
-; UANL; 3-0; Atlético Morelia
+; UANL; 3-0; Atletico Morelia
 ; Cruz Azul; 0-0; Atlético Potosino
 ; Atlante; 1-0; U de G
 ; Deportivo Neza; 3-1; Tampico-Madero
 ; Zacatepec; 2-0; UNAM
 ; Puebla; 1-2; Atlas
-; Toluca; 2-0; América
+; Toluca; 2-0; Club America
 ; UAG; 2-0; Necaxa
 
 Round: Week 14 
 
 ; Necaxa; 2-2; UANL
 ; Atlético Potosino; 1-1; Deportivo Neza
-; América; 2-1; Zacatepec
+; Club America; 2-1; Zacatepec
 ; Atlas; 4-1; Cruz Azul
 ; Monterrey; 1-1; Atlante
-; Atlético Morelia; 0-1; León
+; Atletico Morelia; 0-1; Club León
 ; UNAM; 0-1; Guadalajara
 ; Oaxtepec; 2-2; UAG; Puebla, Mexico
 ; U de G; 1-1; Puebla
@@ -211,48 +211,48 @@ Round: Week 14
 
 Round: Week 15
 
-; León; 1-2; Atlante
-; Guadalajara; 0-2; América
+; Club León; 1-2; Atlante
+; Guadalajara; 0-2; Club America
 ; UAG; 1-0; UNAM
 ; UANL; 3-2; Oaxtepec
 ; Cruz Azul; 2-0; U de G
 ; Puebla; 3-0; Monterrey
-; Atlético Morelia; 2-1; Necaxa
+; Atletico Morelia; 2-1; Necaxa
 ; Toluca; 3-0; Atlético Potosino
 ; Deportivo Neza; 1-3; Atlas
 ; Zacatepec; 0-0; Tampico-Madero
 
 Round: Week 16
 
-; Necaxa; 0-3; León
+; Necaxa; 0-3; Club León
 ; Atlante; 3-1; Puebla
 ; Atlético Potosino; 1-0; Zacatepec
 ; UNAM; 0-0; UANL
 ; Monterrey; 1-0; Cruz Azul
 ; Atlas; 1-1; Toluca
-; Oaxtepec; 4-0; Atlético Morelia; Puebla, Mexico
+; Oaxtepec; 4-0; Atletico Morelia; Puebla, Mexico
 ; U de G; 2-2; Deportivo Neza
-; América; 1-1; UAG
+; Club America; 1-1; UAG
 ; Tampico-Madero; 1-0; Guadalajara
 
 Round: Week 17
 
 ; Guadalajara; 2-1; Atlético Potosino
-; León; 2-1; Puebla
-; UANL; 0-1; América
+; Club León; 2-1; Puebla
+; UANL; 0-1; Club America
 ; Cruz Azul; 1-1; Atlante
 ; UAG; 1-0; Tampico-Madero
 ; Toluca; 1-1; U de G
-; Atlético Morelia; 1-3; UNAM
+; Atletico Morelia; 1-3; UNAM
 ; Zacatepec; 1-0; Atlas
 ; Deportivo Neza; 3-0; Monterrey
 ; Necaxa; 2-2; Oaxtepec
 
 Round: Week 18 
 
-; América; 2-1; Atlético Morelia
+; Club America; 2-1; Atletico Morelia
 ; Atlético Potosino; 2-3; UAG
-; León; 2-1; Oaxtepec
+; Club León; 2-1; Oaxtepec
 ; Atlante; 1-2; Deportivo Neza
 ; Atlas; 2-2; Guadalajara
 ; Monterrey 3-0 Toluca
@@ -265,22 +265,22 @@ Round: Week 19
 
 ; UAG; 0-1; Atlas
 ; Oaxtepec; 1-2; UNAM; Puebla, Mexico
-; Cruz Azul; 2-1; León
+; Cruz Azul; 2-1; Club León
 ; UANL; 1-4; Atlético Potosino
-; Necaxa; 1-0; América
+; Necaxa; 1-0; Club America
 ; Deportivo Neza; 1-2; Puebla
 ; Toluca; 1-1; Atlante
 ; Zacatepec; 1-0; Monterrey
-; Atlético Morelia; 2-1; Tampico-Madero
+; Atletico Morelia; 2-1; Tampico-Madero
 ; Guadalajara; 0-1; U de G
 
 Round: Week 20
 
 ; Guadalajara; 1-1; Monterrey
 ; Necaxa; 4-2; Tampico-Madero
-; UNAM; 0-1; León
-; Atlético Morelia; 1-2; Atlético Potosino
-; Oaxtepec; 0-2; América; Puebla, Mexico
+; UNAM; 0-1; Club León
+; Atletico Morelia; 1-2; Atlético Potosino
+; Oaxtepec; 0-2; Club America; Puebla, Mexico
 ; Toluca; 0-0; Puebla
 ; Zacatepec; 1-2; Atlante
 ; UANL; 2-0; Atlas
@@ -291,11 +291,11 @@ Round: Week 21
 
 ; Atlético Potosino; 3-2; Necaxa
 ; Atlante; 1-0; Guadalajara
-; Atlas; 0-1; Atlético Morelia
-; León; 2-2; Deportivo Neza
+; Atlas; 0-1; Atletico Morelia
+; Club León; 2-2; Deportivo Neza
 ; Monterrey; 0-0; UAG
 ; Cruz Azul; 0-0; Toluca
-; América; 2-0; UNAM
+; Club America; 2-0; UNAM
 ; Puebla; 0-0; Zacatepec
 ; U de G; 0-1; UANL
 ; Tampico-Madero; 1-0; Oaxtepec
@@ -303,23 +303,23 @@ Round: Week 21
 Round: Week 22
 
 ; UNAM; 1-0; Tampico-Madero
-; América; 3-1; León
+; Club America; 3-1; Club León
 ; UAG; 2-1; Atlante
 ; UANL; 2-0; Monterrey
 ; Oaxtepec; 1-2; Atlético Potosino; Puebla, Mexico
 ; Guadalajara; 0-0; Puebla
 ; Zacatepec; 0-0; Cruz Azul
-; Atlético Morelia; 2-0; U de G
+; Atletico Morelia; 2-0; U de G
 ; Necaxa; 0-2; Atlas
 ; Toluca; 3-1; Deportivo Neza
 
 Round: Week 23
 
-; Tampico-Madero; 1-2; América
+; Tampico-Madero; 1-2; Club America
 ; Atlético Potosino; 0-3; UNAM
-; Monterrey; 2-1; Atlético Morelia
+; Monterrey; 2-1; Atletico Morelia
 ; Atlas; 1-1; Oaxtepec
-; León; 3-0; Toluca
+; Club León; 3-0; Toluca
 ; Cruz Azul; 0-2; Guadalajara
 ; Puebla; 2-1; UAG
 ; Atlante; 5-0; UANL
@@ -329,24 +329,24 @@ Round: Week 23
 Round: Week 24
 
 ; Guadalajara; 2-1; Deportivo Neza
-; América; 4-0; Atlético Potosino
+; Club America; 4-0; Atlético Potosino
 ; UANL; 1-0; Puebla
 ; Necaxa; 2-2; Monterrey
-; Atlético Morelia; 1-2; Atlante
+; Atletico Morelia; 1-2; Atlante
 ; Zacatepec; 2-2; Toluca
 ; UNAM; 5-0; Atlas
-; Tampico-Madero; 1-1; León
+; Tampico-Madero; 1-1; Club León
 ; UAG; 0-0; Cruz Azul
 ; Oaxtepec; 0-3; U de G; Puebla, Mexico
 
 Round: Week 25
 
-; León; 1-0; Zacatepec
+; Club León; 1-0; Zacatepec
 ; Atlético Potosino; 3-1; Tampico-Madero
-; Atlas; 3-3; América
+; Atlas; 3-3; Club America
 ; Cruz Azul; 1-1; UANL
 ; Monterrey; 1-0; Oaxtepec
-; Puebla; 4-2; Atlético Morelia
+; Puebla; 4-2; Atletico Morelia
 ; Atlante; 1-1; Necaxa
 ; U de G; 1-0; UNAM
 ; Toluca; 3-0; Guadalajara
@@ -356,25 +356,25 @@ Round: Week 26
 
 ; Guadalajara; 1-0; Zacatepec
 ; UNAM; 3-0; Monterrey
-; América; 1-1; U de G
-; Atlético Potosino; 1-1; León
+; Club America; 1-1; U de G
+; Atlético Potosino; 1-1; Club León
 ; UANL; 2-0; Deportivo Neza
 ; Necaxa; 1-1; Puebla
 ; Oaxtepec; 1-4; Atlante; Puebla, Mexico
-; Atlético Morelia; 0-3; Cruz Azul
+; Atletico Morelia; 0-3; Cruz Azul
 ; Tampico-Madero; 0-1; Atlas
 ; UAG; 1-4; Toluca
 
 Round: Week 27
 
-; Monterrey; 2-3; América
+; Monterrey; 2-3; Club America
 ; Atlas; 0-0; Atlético Potosino
 ; Puebla; 1-1; Oaxtepec
 ; Zacatepec; 1-1; UAG
-; Deportivo Neza; 1-0; Atlético Morelia
+; Deportivo Neza; 1-0; Atletico Morelia
 ; Toluca; 1-2; UANL
 ; Cruz Azul; 1-1; Necaxa
-; León; 1-1; Guadalajara
+; Club León; 1-1; Guadalajara
 ; Atlante; 2-0; UNAM
 ; U de G; 0-0; Tampico-Madero
 
@@ -383,23 +383,23 @@ Round: Week 28
 ; Necaxa; 0-1; Deportivo Neza
 ; UNAM; 0-0; Puebla
 ; UANL; 3-0; Zacatepec
-; Atlas; 2-1; León
-; América; 1-0; Atlante
+; Atlas; 2-1; Club León
+; Club America; 1-0; Atlante
 ; Atlético Potosino; 1-1; U de G
-; Atlético Morelia; 1-0; Toluca
+; Atletico Morelia; 1-0; Toluca
 ; Tampico-Madero; 3-2; Monterrey
 ; UAG; 1-1; Guadalajara
 ; Oaxtepec; 1-0; Cruz Azul
 
 Round: Week 29
 
-; León; 1-1; UAG
+; Club León; 1-1; UAG
 ; Monterrey; 4-1; Atlético Potosino
 ; U de G; 1-0; Atlas
 ; Cruz Azul; 2-1; UNAM
-; Puebla; 2-2; América
+; Puebla; 2-2; Club America
 ; Atlante; 1-1; Tampico-Madero
-; Zacatepec; 0-0; Atlético Morelia
+; Zacatepec; 0-0; Atletico Morelia
 ; Guadalajara; 3-3; UANL
 ; Toluca; 4-2; Necaxa
 ; Deportivo Neza; 1-2; Oaxtepec
@@ -412,18 +412,18 @@ Round: Week 30
 ; UANL; 0-3; UAG
 ; Atlas; 0-1; Monterrey
 ; Oaxtepec; 1-2; Toluca
-; América; 0-0; Cruz Azul
+; Club America; 0-0; Cruz Azul
 ; Tampico-Madero; 3-1; Puebla
-; Atlético Morelia; 0-0; Guadalajara
-; U de G; 4-0; León
+; Atletico Morelia; 0-0; Guadalajara
+; U de G; 4-0; Club León
 
 Round: Week 31
 
-; León; 0-0; UANL
-; UAG; 0-1; Atlético Morelia
+; Club León; 0-0; UANL
+; UAG; 0-1; Atletico Morelia
 ; Cruz Azul; 3-0; Tampico-Madero
 ; Monterrey; 0-0; U de G
-; Deportivo Neza; 0-2; América
+; Deportivo Neza; 0-2; Club America
 ; Puebla; 2-2; Atlético Potosino
 ; Atlante; 4-2; Atlas
 ; Zacatepec; 0-1; Oaxtepec
@@ -436,20 +436,20 @@ Round: Week 32
 ; Atlético Potosino; 2-0; Cruz Azul
 ; Necaxa; 3-2; UAG
 ; Atlas; 1-1; Puebla
-; Monterrey; 2-3; León
+; Monterrey; 2-3; Club León
 ; Oaxtepec; 2-1; Guadalajara
-; América; 2-1; Toluca
+; Club America; 2-1; Toluca
 ; U de G; 3-3; Atlante
-; Atlético Morelia; 1-0; UANL
+; Atletico Morelia; 1-0; UANL
 ; Tampico-Madero; 2-1; Deportivo Neza
 
 Round: Week 33
 
-; León; 1-0; Atlético Morelia
+; Club León; 1-0; Atletico Morelia
 ; UANL; 0-0; Necaxa
 ; Cruz Azul; 4-0; Atlas
 ; UAG; 3-1; Oaxtepec
-; Zacatepec; 0-1; América
+; Zacatepec; 0-1; Club America
 ; Deportivo Neza; 3-0; Atlético Potosino
 ; Puebla; 3-0; U de G
 ; Atlante; 1-0; Monterrey
@@ -460,12 +460,12 @@ Round: Week 34
 
 ; UNAM; 5-1; UAG
 ; Atlético Potosino; 1-1; Toluca
-; Atlante; 1-3; León
+; Atlante; 1-3; Club León
 ; Monterrey; 0-0; Puebla
-; Necaxa; 1-1; Atlético Morelia
+; Necaxa; 1-1; Atletico Morelia
 ; Oaxtepec; 2-2; UANL
 ; Atlas; 3-1; Deportivo Neza
-; América; 2-0; Guadalajara
+; Club America; 2-0; Guadalajara
 ; Tampico-Madero; 1-2; Zacatepec
 ; U de G; 2-0; Cruz Azul
 
@@ -473,24 +473,24 @@ Round: Week 35
 
 ; UANL; 1-3; UNAM
 ; Guadalajara; 4-0; Tampico-Madero
-; León; 3-3; Necaxa
+; Club León; 3-3; Necaxa
 ; Cruz Azul; 2-0; Monterrey
-; UAG; 1-1; América
+; UAG; 1-1; Club America
 ; Zacatepec; 1-1; Atlético Potosino
 ; Puebla; 3-1; Atlante
-; Atlético Morelia; 2-1; Oaxtepec
+; Atletico Morelia; 2-1; Oaxtepec
 ; Toluca; 5-0; Atlas
 ; Deportivo Neza; 1-1; U de G
 
 Round: Week 36
 
-; UNAM; 3-0; Atlético Morelia
+; UNAM; 3-0; Atletico Morelia
 ; Atlético Potosino; 1-0; Guadalajara
 ; Atlante; 1-1; Cruz Azul
 ; Atlas; 0-0; Zacatepec
 ; Monterrey; 1-1; Deportivo Neza
-; América; 2-1; UANL
-; Puebla; 3-2; León
+; Club America; 2-1; UANL
+; Puebla; 3-2; Club León
 ; Oaxtepec; 1-3; Necaxa
 ; Tampico-Madero; 2-3; UAG
 ; U de G; 1-0; Toluca
@@ -500,8 +500,8 @@ Round: Week 37
 ; UAG; 1-0; Atlético Potosino
 ; Cruz Azul; 0-1; Puebla
 ; UANL; 0-0; Tampico-Madero
-; Oaxtepec; 2-2; León
-; Atlético Morelia; 2-0; América
+; Oaxtepec; 2-2; Club León
+; Atletico Morelia; 2-0; Club America
 ; Deportivo Neza; 4-1; Atlante
 ; Zacatepec; 5-1; U de G
 ; Guadalajara; 1-1; Atlas
@@ -511,13 +511,13 @@ Round: Week 37
 Round: Week 38
 
 ; Atlante; 0-2; Toluca
-; León; 3-2; Cruz Azul
-; América; 5-0; Necaxa
+; Club León; 3-2; Cruz Azul
+; Club America; 5-0; Necaxa
 ; Atlético Potosino; 1-2; UANL
 ; Monterrey; 1-1; Zacatepec
 ; Atlas; 3-1; UAG
 ; Puebla; 1-0; Deportivo Neza
-; Tampico-Madero; 3-1; Atlético Morelia
+; Tampico-Madero; 3-1; Atletico Morelia
 ; UNAM; 1-2; Oaxtepec
 ; U de G; 2-1; Guadalajara
 

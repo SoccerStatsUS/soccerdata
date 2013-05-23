@@ -8,7 +8,7 @@ After that, create canonical lists that can be used for viewing or
 imported into socceroutsider.com for better relationships, etc.
 """
 
-from load import first_load, second_load
+from load import load
 from generate import generate, generate2
 from check import check
 from merge import merge
@@ -46,7 +46,7 @@ def build():
     # Or do you want to generate afterwards so that you can filter things easier?
 
     # There should only be one load.
-    first_load()
+    load()
 
     # This is where player, team, competition, and place names are normalized.
     # Best to do this as early as possible.

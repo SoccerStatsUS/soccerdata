@@ -21,7 +21,7 @@ d = {
         ('1950-1951', 'Atlas'),
         ('1951-1952', 'Leon'),
         ('1952-1953', 'Tampico Madero'),
-        ('1953-1954', 'Marte'),
+        ('1953-1954', 'Marte (Mexico)'),
         ('1954-1955', 'Zacatepec'),
         ('1955-1956', 'Leon'),
         ('1956-1957', 'Guadalajara'),
@@ -244,7 +244,7 @@ primera_fuerza = {
         ('1925-1926', 'Club America'),
         ('1926-1927', 'Club America'),
         ('1927-1928', 'Club America'),
-        ('1928-1929', 'Marte'),
+        ('1928-1929', 'Marte (Mexico)'),
         ('1929-1930', 'Real Club Espana'),
         ('1931-1932', 'Atlante'),
         ('1932-1933', 'Necaxa'),
@@ -257,7 +257,7 @@ primera_fuerza = {
         ('1939-1940', 'Real Club Espana'),
         ('1940-1941', 'Atlante'),
         ('1941-1942', 'Real Club Espana'),
-        ('1942-1943', 'Marte'),
+        ('1942-1943', 'Marte (Mexico)'),
         ],
 
     'Golden Boot': [
@@ -316,7 +316,7 @@ campeon = {
 
     'Champion': [
         ('1942', 'Real Club Espana'),
-        ('1943', 'Marte'),
+        ('1943', 'Marte (Mexico)'),
         ('1944', 'Asturias'),
         ('1945', 'Real Club Espana'),
         ('1946', 'Veracruz'),
@@ -327,7 +327,7 @@ campeon = {
         ('1951', 'Atlas'),
         ('1952', 'Leon'),
         ('1953', 'Tampico'),
-        ('1954', 'Marte'),
+        ('1954', 'Marte (Mexico)'),
         ('1955', 'Zacatepec'),
         ('1956', 'Leon'),
         ('1957', 'Guadalajara'),

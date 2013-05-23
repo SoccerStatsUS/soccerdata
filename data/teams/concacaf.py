@@ -1235,6 +1235,93 @@ l = [
         'city': 'Tijuana, Mexico',
         },
 
+    {
+        'name': 'Cobras de Ciudad Juárez',
+        'founded': 1980,
+        'city': 'Ciudad Juarez, Mexico',
+        },
+
+    {
+        'name': 'San Sebastián de León',
+        'founded': 1944,
+        'city': 'León, México',
+        },
+
+    {
+        'name': 'C.F. La Piedad',
+        'founded': datetime.datetime(1951, 11, 12),
+        'city': 'La Piedad, Mexico',
+        },
+
+    {
+        'name': 'Club Deportivo Zamora',
+        'founded': datetime.datetime(1950, 12, 26),
+        'city': 'Zamora de Hidalgo, Mexico',
+        },
+
+    {
+        'name': 'Colibríes',
+        'founded': datetime.datetime(2002, 12, 10),
+        'city': 'Xochitepec, Morelos',
+        },
+
+    {
+        'name': 'Germania FV',
+        'founded': 1915,
+        'city': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Moctezuma de Orizaba',
+        'founded': 1932,
+        'dissolved': 1950,
+        'city': 'Orizaba, Veracruz',
+        },
+
+
+    {
+        'name': 'Cuautla FC',
+        'founded': 1952,
+        'city': 'Cuautla, Mexico',
+        },
+
+    {
+        'name': 'Orizaba AC',
+        'founded': 1898,
+        'city': 'Orizaba, Mexico',
+        },
+
+    {
+        'name': 'Ángeles de Puebla',
+        'founded': 1984,
+        'dissolved': 2001,
+        'city': 'Puebla, Mexico',
+        },
+
+    {
+        'name': 'Unión de Curtidores',
+        'founded': datetime.datetime(1928, 8, 15),
+        'city': 'Leon, Mexico',
+        },
+
+
+    {
+        'name': 'Nacional de Guadalajara',
+        'founded': 1916,
+        'city': 'Guadalajara, Mexico',
+        },
+
+    {
+        'name': 'Universidad de Guadalajara',
+        'founded': 1970,
+        'city': 'Guadalajara, Mexico',
+        },
+
+    {
+        'name': 'CF Oaxtepec',
+        'city': 'Oaxtepec, Mexico',
+        },
+
 
 
     {
@@ -1256,6 +1343,12 @@ l = [
         'city': 'Nezahualcóyotl, Mexico',
         },
 
+    {
+        'name': 'Querétaro FC',
+        'founded': 1950,
+        'city': 'Querétaro, Mexico',
+        },
+
 
     {
         'name': 'Cobras de Queretaro', # dissolved.
@@ -1271,8 +1364,44 @@ l = [
         },
 
     {
-        'name': 'Club de Fútbol Asturias',
+        'name': 'CF Asturias',
         'founded': datetime.datetime(1918, 2, 7),
+        'city': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Junior Club',
+        'founded': 1906,
+        'city': 'Mexico City, Mexico',
+        },
+
+
+    {
+        'name': 'Atlético Celaya',
+        'founded': 1994,
+        'city': 'Celaya, Mexico',
+        },
+
+    {
+        'name': 'Aurrerá',
+        'founded': 1919,
+        'city': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Real Club España',
+        'founded': datetime.datetime(1912, 3, 20),
+        'city': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Real Club España B',
+        'city': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'Rovers FC Mexico',
+        'founded': 1912,
         'city': 'Mexico City, Mexico',
         },
 
@@ -1344,6 +1473,11 @@ l = [
         'city': 'Mexico City, Mexico',
         },
 
+    {
+        'name': 'Real Sociedad de Zacatecas',
+        'founded': 1996,
+        'city': 'Zacatecas, Mexico',
+        },
 
     {
         'name': 'Indios de Ciudad Juárez',
@@ -1411,6 +1545,12 @@ l = [
         },
 
     {
+        'name': 'Nuevo León',
+        'founded': 1957,
+        'city': 'Monterrey, Mexico',
+        },
+
+    {
         'name': 'CD Oro',
         'founded': datetime.datetime(1923, 1, 5),
         'city': 'Guadalajara, Mexico',
@@ -1442,10 +1582,47 @@ l = [
         },
 
     {
+        'name': 'Torreon FC',
+        'founded': 1960,
+        'city': 'Torreon, Mexico',
+        },
+
+
+    {
+        'name': 'Laguna FC',
+        'founded': 1953,
+        'city': 'Torreon, Mexico',
+        },
+
+
+    {
+        'name': 'L\'Amicale Francaise',
+        'founded': 1911,
+        'city': 'Mexico City, Mexico',
+        },
+
+
+
+    {
         'name': 'CD Tapatio',
         'founded': datetime.datetime(1973, 11, 2),
         'city': 'Guadalajara, Mexico',
         },
+
+    {
+        'name': 'Reforma AC',
+        'founded': 1894,
+        'city': 'Mexico City, Mexico',
+        },
+
+    {
+        'name': 'British Club Mexico',
+        'founded': 1902,
+        'dissolved': 1912,
+        'city': 'Mexico City, Mexico',
+        },
+
+
 
     {
         'name': 'Tecos',

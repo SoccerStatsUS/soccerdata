@@ -5,6 +5,26 @@ import datetime
 
 l = [
 
+
+
+    # Add Gold Bugs alias, de-alias.
+    {
+        'name': 'Providence Clamdiggers',
+        'founded': 1924,
+        'dissolved': 1930,
+        'city': 'Providence, RI',
+        },
+
+
+    # This team may have lasted until 1942?
+    {
+        'name': 'Pawtucket Rangers',
+        'founded': 1919,
+        'dissolved': 1935,
+        'city': 'Pawtucket, RI',
+        },
+
+
     {
         'name': 'Rhode Island Stingrays',
         'city': 'Providence, RI',

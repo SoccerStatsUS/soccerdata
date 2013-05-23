@@ -5,6 +5,51 @@ import datetime
 
 l = [
 
+
+
+    {
+        'name': 'Los Angeles Galaxy',
+        'founded': 1995,
+        'city': 'Los Angeles, CA',
+        },
+
+
+
+
+    {
+        'name': 'Chivas USA',
+        'founded': 2004,
+        'city': 'Los Angeles, CA',
+        },
+
+
+
+    {
+        'name': 'San Jose Earthquakes',
+        'founded': datetime.datetime(1995, 4, 17),
+        'city': 'San Jose, CA',
+        },
+
+{ 
+        'name': 'Chivas USA Reserves',
+        'city': 'Los Angeles, CA',
+        },
+
+
+
+{ 
+        'name': 'Los Angeles Galaxy Reserves',
+        'city': 'Los Angeles, CA',
+        },
+
+
+
+{ 
+        'name': 'San Jose Earthquakes Reserves',
+        'city': 'San Jose, CA',
+        },
+
+
     {
         'name': 'Doxa Italia',
         'city': 'Manhattan Beach, CA',
@@ -25,11 +70,19 @@ l = [
         },
 
     {
-        'name': 'San Diego Toros',
+        'name': 'San Diego WFC SeaLions',
         'city': 'San Diego, CA',
-        'founded': 1967,
-        'dissolved': 1968,
+        'founded': 1988,
         },
+
+    {
+        'name': 'San Diego Toros',
+        'founded': 1968,
+        'dissolved': 1968,
+        'city': 'San Diego, CA',
+        },
+
+
 
     {
         'name': 'DV8 Defenders',

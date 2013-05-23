@@ -5,16 +5,94 @@ import datetime
 
 l = [
 
+
+    # Need to separate later Brooklyn Wanderers teams (there are multiple.)
     {
-        'name': 'Brooklyn Italians',
+        'name': 'Brooklyn Wanderers',
+        'founded': 1895,
+        'dissolved': 1931,
         'city': 'Brooklyn, NY',
-        'founded': 1949,
+        },
+
+
+
+    # Add Giants, Nationals alias,de-alias.
+    {
+        'name': 'Indiana Flooring',
+        'founded': 1924,
+        'dissolved': 1927,
+        'city': 'New York, NY',
+        },
+
+    # Separate earlier New York, Brooklyn Hakoah teams.
+    {
+        'name': 'Hakoah All-Stars',
+        'founded': datetime.datetime(1929, 11, 16),
+        'dissolved': 1932,
+        'city': 'New York, NY',
+        },
+
+
+    {
+        'name': 'New York Field Club',
+        'founded': 1916,
+        'dissolved': 1924,
+        'city': 'New York, NY',
+        },
+    {
+        'name': 'Todd Shipyards',
+        'founded': 1921,
+        'dissolved': 1922,
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'New York Red Bulls',
+        'founded': 1995,
+        'city': 'New York, NY',
+        },
+
+
+    # Separate from ISL New York Americans team.
+    {
+        'name': 'New York Americans',
+        'founded': 1931,
+        'dissolved': 1956,
+        'city': 'New York, NY',
+        },
+    {
+        'name': 'Queens Bohemians',
+        'founded': 1932,
+        'dissolved': 1933,
+        'city': 'Queens, NY',
+        },
+
+
+
+{ 
+        'name': 'New York Red Bulls Reserves',
+        'city': 'New York, NY',
+        },
+
+
+
+    {
+        'name': 'New York City FC',
+        'city': 'Queens, NY',
+        'founded': datetime.datetime(2013, 5, 21),
         },
 
     {
         'name': 'Western New York Flash',
         'city': 'Rochester, NY',
         'founded': 2008,
+        },
+
+
+    {
+        'name': 'Brooklyn Italians',
+        'city': 'Brooklyn, NY',
+        'founded': 1949,
         },
 
     {
@@ -87,10 +165,14 @@ l = [
         'city': 'Brooklyn, NY',
         },
 
+
     {
         'name': 'Albany Alleycats',
         'city': 'Albany, NY',
+        'founded': 1995,
+        'dissolved': 1999,
         },
+
 
     {
         'name': 'Yonkers Hollywood Inn',

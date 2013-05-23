@@ -48,7 +48,7 @@ def load_standings_standard(coll, filename, delimiter=';'):
     generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_standings_file(filename, delimiter))
 
 
-def first_load():
+def load():
     """
     Load all data.
     """
@@ -77,10 +77,20 @@ def load_drafts():
 
 
 def load_games():
-    load_pdl()
-
+    load_usl()
+    load_mls() 
+    return
+    load_uncaf()
+    load_mexico()
     load_women()
-    load_asl()
+    load_pdl()
+    load_asl()  
+    load_nasl()     
+    load_world_international()
+    load_nafbl()
+
+    load_early_cups()
+
     load_asl2()       
 
     load_mixed_confederation()
@@ -93,21 +103,17 @@ def load_games():
     load_conmebol()
     load_oceania()
 
-    load_nasl()   
-
-
-
     load_argentina()
     load_uruguay()
     load_chile()
-    load_mexico()
 
 
-    load_usl()
+
+
 
 
     load_apsl()
-    load_mls() 
+
 
 
 
@@ -118,7 +124,7 @@ def load_games():
 
     load_leach()     
 
-    load_early_cups()
+
     load_early_friendlies()
 
     
@@ -130,13 +136,13 @@ def load_games():
     load_ny()
     load_canada()
 
-    load_uncaf()
+
     load_cfu()
 
     load_conmebol_international()
     load_concacaf_international()
     #load_uncaf_international()
-    load_world_international()
+
 
 
 
@@ -154,7 +160,7 @@ def load_games():
 
     load_indoor()
 
-    load_nafbl()
+
 
 
 
@@ -234,16 +240,6 @@ def load_bios():
     generic_load(soccer_db.us_d4_bios, bios.load_all_bios) # d4?
 
 
-def second_load():
-    """
-    Load data that should not be loaded until all other data is generated.
-    e.g. wikipedia team bios based on game results.
-    Not sure we need this anymore.
-    """
-    # These provide no data to any other items.
-    #load_yaml() # Could be loaded earlier, but not really thematically
-    #load_wiki()
-
 
 def load_places():
     from text import places
@@ -260,7 +256,7 @@ def load_usmnt():
     for e in [1880, 1910, 1980, 1990, 2000, 2010]:
         load_games_standard('usa', 'international/country/usa/%s' % e)
 
-    #load_games_standard('usa', 'international/country/usa/world_cup')
+    load_games_standard('usa', 'international/country/usa/world_cup')
     load_games_standard('usa', 'international/country/usa/us_cup')
     generic_load(soccer_db.usa_awards, awards.load_hall_of_fame)
 
@@ -313,7 +309,7 @@ def load_uncaf():
 
     # Guatemala
     load_standings_standard('uncaf', 'domestic/country/guatemala3')
-    generic_load(soccer_db.uncaf_awards, awards.process_guatemala_awards)
+    #generic_load(soccer_db.uncaf_awards, awards.process_guatemala_awards)
     #load_games_standard('guatemala', 'domestic/country/guatemala/guatemala')
 
     # Honduras
@@ -321,7 +317,7 @@ def load_uncaf():
     generic_load(soccer_db.uncaf_awards, awards.process_honduras_awards)
 
     # Costa Rica
-    generic_load(soccer_db.uncaf_awards, awards.process_costa_rica_awards)
+    #generic_load(soccer_db.uncaf_awards, awards.process_costa_rica_awards)
     load_standings_standard('uncaf', 'domestic/country/costarica2')
     load_standings_standard('uncaf', 'domestic/country/costarica3')
 
@@ -409,6 +405,7 @@ def load_mls():
     load_games_standard('mls', 'domestic/country/usa/playoffs/mls')
 
     print "Loading mls bio stats.\n"
+    # Not loading 1996-2011 stats?
     generic_load(soccer_db.mls_stats, stats.process_mls_2012_stats)
 
     print "Loading MLS awards.\n"
@@ -454,11 +451,6 @@ def load_mls():
     generic_load(soccer_db['mls2_lineups'], lambda: lineups)
     """
 
-    #generic_load(soccer_db.mls_stats, mls.scrape_all_bio_stats_mlssoccer)
-    #load_soccernet_league('mls_soccernet', 'usa.1')
-    #print "Loading coach playing stats.\n"
-    # Load coach stats that are missing from mlossoccer.com
-    #generic_load(soccer_db.mls_stats, stats.process_mls_coach_stats, delete=False)
 
 
 def load_nafbl():
@@ -686,7 +678,8 @@ def load_usl():
     generic_load(soccer_db.us_d2_awards, awards.process_ussf2_awards)
     generic_load(soccer_db.us_d2_awards, awards.process_nasl2_awards)
 
-    generic_load(soccer_db.us_d2_stats, stats.process_usl_stats) #split 2 and 3?
+    generic_load(soccer_db.us_d2_stats, stats.process_usl1_stats)
+    generic_load(soccer_db.us_d2_stats, stats.process_usl2_stats)
     generic_load(soccer_db.us_d2_stats, nasl.process_stats)
 
     load_excel_standings('us_d2', 'domestic/country/usa/usl/usl0')
@@ -758,7 +751,7 @@ def load_mexico():
     load_games_standard('mexico', 'domestic/country/mexico/league/1967')
     #load_games_standard('mexico', 'domestic/country/mexico/league/1970mexico')
 
-    for e in range(1970, 1986):
+    for e in range(1970, 1996):
         load_games_standard('mexico', 'domestic/country/mexico/league/%s' % e)
 
 
@@ -791,7 +784,6 @@ def load_mexico():
     load_games_standard('mexico', 'domestic/country/mexico/friendly/universidades')
     load_games_standard('mexico', 'domestic/country/mexico/friendly/veracruz')
 
-    # load_soccernet_league('mexico', 'mex.1')
 
 
 def load_oceania():
@@ -999,15 +991,6 @@ def load_panamerican():
         load_games_standard('concacaf_i', 'international/world/panamerican/%s' % e)
 
 
-def load_soccernet_league(name, code):
-    from soccerdata.scrapers import soccernet
-    
-    games, goals, lineups = soccernet.scrape_league(code)
-
-    generic_load(soccer_db['%s_games' % name], lambda: games)
-    generic_load(soccer_db['%s_goals' % name], lambda: goals)
-    generic_load(soccer_db['%s_lineups' % name], lambda: lineups)
-
 
 def load_concacaf_international():
 
@@ -1060,7 +1043,6 @@ def load_concacaf():
     for e in '6789':
         load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/19%s0' % e)
 
-    #load_soccernet_league('concacaf', 'concacaf.champions')
 
 
 def load_ncaa():
@@ -1071,8 +1053,6 @@ def load_ncaa():
 
 def load_fifa():
     from soccerdata.scrapers import fifa
-
-
 
     generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
     generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
@@ -1094,99 +1074,6 @@ def load_fifa_competition(competition):
     generic_load(soccer_db.fifa_lineups, lambda: lineups)
 
 
-# Custom views.
-def load_modern():
-    load_mls()
-    load_apsl()
-    load_usl()
-    load_leach()    
-    load_concacaf()
-
-
-def load_early():
-    load_games_standard('usa', 'international/country/usa/1880')
-    load_games_standard('afa_cup', 'domestic/country/usa/cups/american')
-    load_melvin()
-
-
-def load_midwest():
-    for e in range(191, 202):
-        load_games_standard('open_cup', 'cups/open/%s0' % e)
-
-    load_games_standard('midwest', 'leagues/isl')
-    load_games_standard('midwest', 'teams/benmillers.txt')
-    load_games_standard('midwest', 'teams/bricklayers.txt')
-    load_games_standard('midwest', 'teams/harmarville.txt')
-    load_games_standard('midwest', 'teams/benmillers.txt')
-    load_games_standard('midwest', 'teams/morgan')
-    load_games_standard('midwest', 'teams/scullin.txt')
-    load_games_standard('midwest', 'teams/stix.txt')
-
-
-# Pretty certain this isn't used.
-def generate_cities():
-    """
-    Generate city objects from 
-    """
-
-
-    print "Generating cities."
-
-    state_code_dict = make_state_code_dict()
-
-    state_name_set = set([e['name'] for e in soccer_db.states.find()])
-    country_name_set = set([e['name'] for e in soccer_db.countries.find()])
-
-    def make_city(s):
-        """
-        Format a city based on known state and country names.
-        """
-        # This doesn't seem to be the right place for this function.
-
-        country = state = None
-
-        if ',' in s:
-            pieces = s.split(',')
-            end = pieces[-1].strip()
-
-            
-            
-            if end in state_code_dict:
-                state = state_code_dict[end]
-
-            elif end in state_name_set:
-                state = end
-
-            elif end in country_name_set:
-                country = end
-
-        if country or state:
-            name = ','.join(pieces[:-1])
-        else:
-            name = s
-
-        return {
-            'name': name,
-            'country': country,
-            'state': state,
-            }
-            
-
-    
-    cities = set()
-
-    for e in soccer_db.bios.find():
-        cities.add(e.get('birthplace'))
-        cities.add(e.get('deathplace'))
-
-
-    for e in soccer_db.games.find():
-        cities.add(e['location'])
-
-    cities.remove(None)
-    city_dicts = [make_city(e) for e in sorted(cities)]
-
-
 
 if __name__ == "__main__":
-    first_load()
+    load()

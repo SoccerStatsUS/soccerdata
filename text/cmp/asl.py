@@ -6,7 +6,7 @@ import re
 from utils import get_id
 
 games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/asl.csv'
-stats_filename = '/home/chris/www/soccerdata/data/stats/aslstats.csv'
+stats_filename = '/home/chris/www/soccerdata/data/stats/asl'
 
 
 def get_full_name_stats(team, season):

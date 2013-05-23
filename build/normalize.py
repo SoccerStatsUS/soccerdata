@@ -301,7 +301,8 @@ def normalize_stat(e):
         'yellow_cards', 
         'red_cards'
         ):
-        if e.get(k) in ('', '-', '?', None):
+        v = e.get(k) # stats should just pass back strings/None?
+        if v is None or v in ('', '-', '?', ' '):
             e[k] = None
         else:
             try:

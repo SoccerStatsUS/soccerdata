@@ -495,18 +495,4 @@ l = [
         },
 
 
-    # Egypt
-
-    {
-        'name': 'Al Ahly SC',
-        'founded': datetime.datetime(1907, 11, 4),
-        'city': 'Cairo, Egypt',
-        },
-
-    {
-        'name': 'Zamalek SC',
-        'founded': datetime.datetime(1911, 1, 5),
-        'city': 'Giza, Egypt',
-        },
-
 ]

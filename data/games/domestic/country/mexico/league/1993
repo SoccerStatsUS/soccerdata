@@ -14,13 +14,13 @@ BlockSource: http://www.rsssf.com/tablesm/mex94.html
 ** 1.- Atlante            38  19   4  15  78  59  +19  42
 ** 2.- Morelia            38  14  11  13  64  65   -2  39
 *  3.- UNAM               38  15   8  15  57  46  +11  38
-*  4.- León               38  14  10  14  47  50   -3  38
-*  5.- Querétaro          38   6  16  16  38  59  -21  28 (relegated)
+*  4.- Club León               38  14  10  14  47  50   -3  38
+*  5.- Queretaro          38   6  16  16  38  59  -21  28 (relegated)
 
 *Group 3                   P   W   T   L  GF  GA  DIF PTS
 ** 1.- Cruz Azul          38  18  12   8  62  33  +29  48
 ** 2.- Toluca             38  18  10  10  54  32  +22  46
-** 3.- América            38  17   6  15  67  51  +16  40
+** 3.- Club America            38  17   6  15  67  51  +16  40
 *  4.- Veracruz           38  12  10  16  50  65  -15  34
 *  5.- UAT                38   6  15  17  36  53  -17  27
 
@@ -33,945 +33,1385 @@ BlockSource: http://www.rsssf.com/tablesm/mex94.html
 * qualify to playoffs
 
 Round: Round 1
-[Aug 13]
-UAG          1-1 U de G
-  [Jorge Luis Gabrich 87; Vanderlei da Silva 89]
-[Aug 14]
-Veracruz     1-1 UANL
-  [Clemente Jair de Brito 30; Hugo Aparecido 51]
-Monterrey    3-1 Atlante
-  [Sergio Verdirame 17, José Juan Hernández 30, Luis Hernández 45; Luis Miguel Salvador 5pen]
-Atlas        1-2 Santos
-  [Cristian Domizzi 25; Esteve Padilla 30og, Jesús Gómez 47]
-[Aug 15]
-América      2-0 Morelia
-  [Marcelo Barticciotto 52, Germán Martellotto 80]
-UAT          0-1 UNAM
-  [Jorge Campos 60]
-León         2-1 Querétaro
-  [Milton Queiroz 1, Luis Antonio Valdez 4; Sergio Bueno 23]
-Puebla       3-5 Guadalajara
-  [Narciso Cuevas 48, 86, Amarildo Soarez 89; Misael Espinosa 26, 49, 77, Guillermo Hernández 68, 
-  Benjamín Galindo 70pen]
-Toluca       2-3 Cruz Azul
-  [Mario Ordiales 75, Marcelino Bernal 89pen; Carlos Hermosillo 21pen, 66, Ramiro Romero 38]
-[Sep 29]
-Necaxa       1-1 Toros Neza
-  [Manuel Hodilón 50og; Ricardo Díaz 77] 
+Date: 8/13/1993
 
+; UAG         ; 1-1; U de G
+  Jorge Luis Gabrich 87; Vanderlei da Silva 89
+
+Date: 8/14/1993
+
+; Veracruz    ; 1-1; UANL
+  Clemente Jair de Brito 30; Hugo Aparecido 51
+
+; Monterrey   ; 3-1; Atlante
+  Sergio Verdirame 17, José Juan Hernández 30, Luis Hernández 45; Luis Miguel Salvador (pk) 5
+
+; Atlas       ; 1-2; Santos
+  Cristian Domizzi 25; Esteve Padilla (og) 30, Jesús Gómez 47
+
+Date: 8/15/1993
+
+; Club America     ; 2-0; Morelia
+  Marcelo Barticciotto 52, Germán Martellotto 80;
+
+; UAT         ; 0-1; UNAM
+;  Jorge Campos 60
+
+; Club León        ; 2-1; Queretaro
+  Milton Queiroz 1, Luis Antonio Valdez 4; Sergio Bueno 23
+
+; Puebla      ; 3-5; Guadalajara
+  Narciso Cuevas 48, Narciso Cuevas 86, Amarildo Soarez 89; Misael Espinosa 26, Misael Espinosa 49, Misael Espinosa 77, Guillermo Hernández 68, Benjamín Galindo (pk) 70
+
+; Toluca      ; 2-3; Cruz Azul
+  Mario Ordiales 75, Marcelino Bernal (pk) 89; Carlos Hermosillo (pk) 21, Carlos Hermosillo 66, Ramiro Romero 38
+
+Date: 9/29/1993
+
+; Necaxa      ; 1-1; Toros Neza
+  Manuel Hodilón (og) 50; Ricardo Díaz 77
+ 
 Round: Round 2
-[Aug 20]
-Atlante      0-1 Toluca
-  [José Manuel Abundis 19]
-[Aug 21]
-Cruz Azul    0-0 Atlas
-Querétaro    1-3 Monterrey
-  [Graciano del Castillo 42; Sergio Verdirame 34, 46, Luis Hernández 87]
-U de G       1-0 Puebla
-  [Vanderlei da Silva 55]
-UANL         4-2 América
-  [Juan Ángel Solís 38, Marco Antonio Ruiz 57, Hugo Aparecido 69pen, Mariano Varela 85; 
-  Antonio Carlos Santos 31, Germán Martellotto 65pen]
-[Aug 22]
-Morelia      2-1 UAT
-  [Héctor Hernández 74, Jaime Vera 82; César Sosa 51pen]
-Santos       0-3 UAG
-  [Osmar Donizette 25, Mauricio Gallaga 79, Porfirio Jiménez 81]
-UNAM         5-1 Leon
-  [Jorge Campos 5, Vicente Nieto 17, Jorge Santillana 18, 36, Leonel Bolsonello 31; Milton Queiroz 76]
-[Oct 27]
-Toros Neza   3-1 Veracruz               [in Pachuca]
-  [Carlos Briseño 14, Antonio Mohamed 62 73; Humberto Roon 6]
-[Oct 28]
-Guadalajara  1-0 Necaxa
-  [Marcial Mendoza 39og]
+Date: 8/20/1993
+
+; Atlante     ; 0-1; Toluca
+;  José Manuel Abundis 19
+
+Date: 8/21/1993
+
+;Cruz Azul ;   0-0; Atlas
+
+; Queretaro   ; 1-3; Monterrey
+  Graciano del Castillo 42; Sergio Verdirame 34, Sergio Verdirame 46, Luis Hernández 87
+
+; U de G      ; 1-0; Puebla
+  Vanderlei da Silva 55;
+
+; UANL        ; 4-2; Club America
+  Juan Ángel Solís 38, Marco Antonio Ruiz 57, Hugo Aparecido (pk) 69, Mariano Varela 85; Antonio Carlos Santos 31, Germán Martellotto (pk) 65
+
+Date: 8/22/1993
+
+; Morelia     ; 2-1; UAT
+  Héctor Hernández 74, Jaime Vera 82; César Sosa (pk) 51
+
+; Santos      ; 0-3; UAG
+;  Osmar Donizette 25, Mauricio Gallaga 79, Porfirio Jiménez 81
+
+; UNAM        ; 5-1; Leon
+  Jorge Campos 5, Vicente Nieto 17, Jorge Santillana 18, Jorge Santillana 36, Leonel Bolsonello 31; Milton Queiroz 76
+
+Date: 10/27/1993
+
+; Toros Neza  ; 3-1; Veracruz        ;       Pachuca, Mexico 
+  Carlos Briseño 14, Antonio Mohamed 62, Antonio Mohamed 73; Humberto Roon 6
+
+Date: 10/28/1993
+
+; Guadalajara ; 1-0; Necaxa
+  Marcial Mendoza (og) 39;
  
 Round: Round 3
-[Aug 27]
-UAG          1-0 Cruz Azul
-  [Jorge Luis Gabrich 54]
-[Aug 28]
-Veracruz     1-3 Guadalajara
-  [Carlos Poblete 19; Ignacio Vázquez 36, 87, Misael Espinosa 72]
-Monterrey    3-2 UNAM 
-  [Luis Hernández 34, David Patiño 37, Sergio Verdirame 40; Jorge Campos 28, 59pen]
-Atlas        2-0 Atlante
-  [Eduardo Berizzo 45pen, Jorge Castañeda 88]
-[Aug 29]
-Morelia      2-0 UANL
-  [Marcial Garay 12, Héctor Hernández 77]
-Necaxa       3-2 U de G
-  [Ivo Basay 21, 29, Ricardo Peláez 31; Alberto Mariscal 7, Sergio Pérez Palomera 34]
-UAT          1-0 León
-  [César Sosa 89pen]
-Toluca       4-0 Querétaro
-  [Marcelino Bernal 24pen, Marcos Ayala 32, Jorge Rodríguez 41, Horacio Humoller 90]
-[Aug 30]
-América      2-3 Toros Neza
-  [Antonio Carlos Santos 15, Francisco Uribe 43; José Luis Malibrán 35, 89, Manuel Negrete 75pen]
-[Dec 1]
-Puebla       3-0 Santos
-  [Silmar Olindo 26, Narciso Cuevas 32, Bruno Mendoza 51]  
+Date: 8/27/1993
 
- 
+; UAG         ; 1-0; Cruz Azul
+  Jorge Luis Gabrich 54;
+
+Date: 8/28/1993
+
+; Veracruz    ; 1-3; Guadalajara
+  Carlos Poblete 19; Ignacio Vázquez 36, Ignacio Vazquez 87, Misael Espinosa 72
+
+; Monterrey   ; 3-2; UNAM 
+  Luis Hernández 34, David Patiño 37, Sergio Verdirame 40; Jorge Campos 28, Jorge Campos (pk) 59
+
+; Atlas       ; 2-0; Atlante
+  Eduardo Berizzo (pk) 45, Jorge Castañeda 88;
+
+Date: 8/29/1993
+
+; Morelia     ; 2-0; UANL
+  Marcial Garay 12, Héctor Hernández 77;
+
+; Necaxa      ; 3-2; U de G
+  Ivo Basay 21, Ivo Basay 29, Ricardo Peláez 31; Alberto Mariscal 7, Sergio Pérez Palomera 34
+
+; UAT         ; 1-0; Club León
+  César Sosa (pk) 89;
+
+; Toluca      ; 4-0; Queretaro
+  Marcelino Bernal (pk) 24, Marcos Ayala 32, Jorge Rodríguez 41, Horacio Humoller 90;
+
+Date: 8/30/1993
+
+; Club America     ; 2-3; Toros Neza
+  Antonio Carlos Santos 15, Francisco Uribe 43; José Luis Malibrán 35, Jose Luis Malibran 89, Manuel Negrete (pk) 75
+
+Date: 12/1/1993
+
+; Puebla      ; 3-0; Santos
+  Silmar Olindo 26, Narciso Cuevas 32, Bruno Mendoza 51;
+  
 Round: Round 4
-[Sep 2]
-UNAM         0-1 Toluca
-  [Jorge Rodríguez 32]
-[Sep 3]
-Atlante      0-1 UAG
-  [Jorge Luis Gabrich 19]
-[Sep 4]
-Querétaro    1-1 Atlas
-  [Guillermo Galindo 18; Juan Carlos Chávez 27]
-UANL         2-2 UAT
-  [Hugo Aparecido 19, 30pen; Fernando Sánchez Limón 11, Rubén González 88]
-Cruz Azul    1-0 Puebla
-  [Víctor Ruiz 82]
-U de G       1-0 Veracruz
-  [Luis Deraldo Marques 87]
-Santos       3-3 Necaxa
-  [Ramón Ramírez 51, Juan Antonio Flores Barrera 65, Héctor Adomaitis 88; Ivo Basay 5, 
-  Alberto García Aspe 54, 66pen]
-[Sep 5]
-Toros Neza   3-1 Morelia
-  [Víctor Ríos 55, Jaime Ramírez 74, Antonio Mohamed 84; Marcial Garay 86]
-Guadalajara  0-0 América
-León         2-2 Monterrey
-  [Milton Queiroz 50pen, Marco Antonio Benatto 84; José Juan Hernández 47, Gerardo Jiménez 70]
+Date: 9/2/1993
+
+; UNAM        ; 0-1; Toluca
+;  Jorge Rodríguez 32
+
+Date: 9/3/1993
+
+; Atlante     ; 0-1; UAG
+;  Jorge Luis Gabrich 19
+
+Date: 9/4/1993
+
+; Queretaro   ; 1-1; Atlas
+  Guillermo Galindo 18; Juan Carlos Chávez 27
+
+; UANL        ; 2-2; UAT
+  Hugo Aparecido 19, Hugo Aparecido (pk) 30; Fernando Sánchez Limón 11, Rubén González 88
+
+; Cruz Azul   ; 1-0; Puebla
+  Víctor Ruiz 82;
+
+; U de G      ; 1-0; Veracruz
+  Luis Deraldo Marques 87;
+
+; Santos      ; 3-3; Necaxa
+  Ramón Ramírez 51, Juan Antonio Flores Barrera 65, Héctor Adomaitis 88; Ivo Basay 5, Alberto García Aspe 54, Alberto Garcia Aspe (pk) 66
+
+Date: 9/5/1993
+
+; Toros Neza ;  3-1; Morelia
+Víctor Ríos 55, Jaime Ramírez 74, Antonio Mohamed 84; Marcial Garay 86
+
+;Guadalajara;  0-0; Club America
+
+;Club León    ;     2-2; Monterrey
+Milton Queiroz (pk) 50, Marco Antonio Benatto 84; José Juan Hernández 47, Gerardo Jiménez 70
 
 Round: Round 5
-[Sep 8]
-Puebla       2-2 Atlante
-  [Gerardo González 16, Narciso Cuevas 38; Wilson Graneolatti 28, Guillermo Cantú 61]
-Veracruz     3-1 Santos
-  [Pedro Osorio 59, Carlos Poblete 72, Gustavo Gaytán 80; Richard Zambrano 64]
-Toluca       1-1 León
-  [Marcos Ayala 4; Milton Queiroz 37]
-Morelia      1-2 Guadalajara
-  [Edgardo Fuentes 79; Carlos Turrubiates 53, Misael Espinosa 60]
-Necaxa       2-1 Cruz Azul
-  [Ivo Basay 48, Alberto García Aspe 60pen; Carlos Hermosillo 16]
-UAG          2-0 Querétaro
-  [Mauricio Gallaga 29, Jorge Luis Gabrich 49]
-UANL         1-1 Toros Neza
-  [Marcelo Conte 20; Manuel Negrete 72]
-UAT          1-0 Monterrey
-  [Fernando Sánchez Limón 44]
-[Sep 9]
-Atlas        3-1 UNAM
-  [Juan Carlos Chávez 27, 31, Damián Álvarez 72; Vicente Nieto 23]
-América      4-1 U de G
-  [Francisco Uribe 21, Germán Martellotto 28pen, Juan Hernández 62, Antonio Carlos Santos 85; 
-  Luis Deraldo Marques 87] 
+Date: 9/8/1993
 
+; Puebla      ; 2-2; Atlante
+  Gerardo González 16, Narciso Cuevas 38; Wilson Graneolatti 28, Guillermo Cantú 61
+
+; Veracruz    ; 3-1; Santos
+  Pedro Osorio 59, Carlos Poblete 72, Gustavo Gaytán 80; Richard Zambrano 64
+
+; Toluca      ; 1-1; Club León
+  Marcos Ayala 4; Milton Queiroz 37
+
+; Morelia     ; 1-2; Guadalajara
+  Edgardo Fuentes 79; Carlos Turrubiates 53, Misael Espinosa 60
+
+; Necaxa      ; 2-1; Cruz Azul
+  Ivo Basay 48, Alberto García Aspe (pk) 60; Carlos Hermosillo 16
+
+; UAG         ; 2-0; Queretaro
+  Mauricio Gallaga 29, Jorge Luis Gabrich 49;
+
+; UANL        ; 1-1; Toros Neza
+  Marcelo Conte 20; Manuel Negrete 72
+
+; UAT         ; 1-0; Monterrey
+  Fernando Sánchez Limón 44;
+
+Date: 9/9/1993
+
+; Atlas       ; 3-1; UNAM
+  Juan Carlos Chávez 27, Juan Carlos Chavez 31, Damián Álvarez 72; Vicente Nieto 23
+
+; Club America     ; 4-1; U de G
+  Francisco Uribe 21, Germán Martellotto (pk) 28, Juan Hernández 62, Antonio Carlos Santos 85; Luis Deraldo Marques 87
+ 
 Round: Round 6
-[Sep 11]
-Querétaro    1-1 Puebla
-  [Ángel Lemus 70; Salvador Luis Reyes 25]
-Cruz Azul    4-1 Veracruz
-  [Carlos Hermosillo 13, 65, Luis Carlos de Oliveira 57, Pedro Duana 80; Martín Yamasaki 40]
-Monterrey    1-1 Toluca
-  [Mario Jáuregui 89; Nildeson Silva de Melo 65]
-[Sep 12]
-Guadalajara  3-0 UANL
-  [Ignacio Vázquez 21, José Manuel de la Torre 35, Carlos Turrubiates 88]
-*UAT          2-1 Toros Neza
-  [Gerardo Reinoso 53, Gerardo Durón 84; Félix Cruz 55]
-*Originally scheduled to play in Ciudad Neza
-Atlante      4-1 Necaxa
-  [Luis Miguel Salvador 34, 62, 66, Guillermo Cantú 84; Gerardo Esquivel 72]
-León         2-1 Atlas
-  [Milton Queiroz 3, 62; Silvio Rudman 23]
-Santos       4-2 América
-  [Daniel Guzmán 65, 76, Ramón Ramírez 81, 89; Antonio Carlos Santos 24, Gonzalo Farfán 64]
-[Sep 13]
-UNAM         0-0 UAG
-U de G       3-2 Morelia
-  [Ederval Lourenco 6, Vanderlei da Silva 63, Salvador Mariscal 80; Jaime Vera 27, Marcial Garay 66]
+Date: 9/11/1993
+
+; Queretaro   ; 1-1; Puebla
+  Ángel Lemus 70; Salvador Luis Reyes 25
+
+; Cruz Azul   ; 4-1; Veracruz
+  Carlos Hermosillo 13, Carlos Hermosillo 65, Luis Carlos de Oliveira 57, Pedro Duana 80; Martín Yamasaki 40
+
+; Monterrey   ; 1-1; Toluca
+  Mario Jáuregui 89; Nildeson Silva de Melo 65
+
+Date: 9/12/1993
+
+; Guadalajara ; 3-0; UANL
+  Ignacio Vázquez 21, José Manuel de la Torre 35, Carlos Turrubiates 88;
+
+; UAT         ; 2-1; Toros Neza
+  Gerardo Reinoso 53, Gerardo Durón 84; Félix Cruz 55
+Notes: Originally scheduled to play in Ciudad Neza
+
+; Atlante     ; 4-1; Necaxa
+  Luis Miguel Salvador 34, Luis Miguel Salvador 62, Luis Miguel Salvador 66, Guillermo Cantú 84; Gerardo Esquivel 72
+
+; Club León        ; 2-1; Atlas
+  Milton Queiroz 3, Milton Queiroz 62; Silvio Rudman 23
+
+; Santos      ; 4-2; Club America
+  Daniel Guzmán 65, Daniel Guzman 76, Ramón Ramírez 81, Ramon Ramirez 89; Antonio Carlos Santos 24, Gonzalo Farfán 64
+
+Date: 9/13/1993
+
+;UNAM     ;    0-0; UAG
+
+; U de G      ; 3-2; Morelia
+  Ederval Lourenco 6, Vanderlei da Silva 63, Salvador Mariscal 80; Jaime Vera 27, Marcial Garay 66
 
 Round: Round 7
-[Sep 18]
-Veracruz     2-4 Atlante
-  [Clemente Jair de Brito 59, Pedro Osorio 89; Cristian Trapasso 23, Luis Miguel Salvador 31, 
-  Roberto Andrade 53, Guillermo Cantú 84]
-UANL         0-0 U de G
-Necaxa       2-0 Querétaro
-  [Luis Américo Scatolaro 46, 77]
-Atlas        1-2 Monterrey
-  [Miguel Salcedo 24; David Patiño 36, Luis Hernández 52]
-UAT          1-1 Toluca                  [in Tampico]
-  [Armando Romero 28; Mario Ordiales 14]
-[Sep 19]
-Puebla       2-1 UNAM
-  [Milton Núnhez 25pen, Narciso Cuevas 36; Jorge Campos 59]
-Morelia      1-1 Santos
-  [Camilo Romero 77; Richard Zambrano 63]
-América      0-3 Cruz Azul
-  [Ricardo Carvajal 8, Pedro Duana 28, Ramiro Romero 79]
-[Sep 20]
-Toros Neza   1-0 Guadalajara             [in Ciudad Universitaria (UNAM)]
-  [José Luis Malibrán 67]
-[Oct 13]
-UAG          2-0 León
-  [José Luis Salgado 56, Jorge Luis Gabrich 72]  
+Date: 9/18/1993
+
+; Veracruz    ; 2-4; Atlante
+  Clemente Jair de Brito 59, Pedro Osorio 89; Cristian Trapasso 23, Luis Miguel Salvador 31, Roberto Andrade 53, Guillermo Cantú 84
+
+;UANL   ;      0-0; U de G
+
+; Necaxa      ; 2-0; Queretaro
+  Luis Américo Scatolaro 46, Luis Américo Scatolaro 77;
+
+; Atlas       ; 1-2; Monterrey
+  Miguel Salcedo 24; David Patiño 36, Luis Hernández 52
+
+; UAT         ; 1-1; Toluca               ;    Tampico, Mexico
+  Armando Romero 28; Mario Ordiales 14
+
+Date: 9/19/1993
+
+; Puebla      ; 2-1; UNAM
+  Milton Núnhez (pk) 25, Narciso Cuevas 36; Jorge Campos 59
+
+; Morelia     ; 1-1; Santos
+  Camilo Romero 77; Richard Zambrano 63
+
+; Club America     ; 0-3; Cruz Azul
+;  Ricardo Carvajal 8, Pedro Duana 28, Ramiro Romero 79
+
+Date: 9/20/1993
+
+; Toros Neza  ; 1-0; Guadalajara            ; Ciudad Universitaria (UNAM)
+  José Luis Malibrán 67;
+
+Date: 10/13/1993
+
+; UAG         ; 2-0; Club León
+  José Luis Salgado 56, Jorge Luis Gabrich 72;
 
 Round: Round 8
-[Sep 24]
-Cruz Azul    1-1 Morelia
-  [Carlos Hermosillo 57pen; Jaime Vera 41]
-[Sep 25]
-Querétaro    2-2 Veracruz
-  [Ángel Lemus 44, Jaime Ríos 71; Martín Yamasaki 40, Rubén Omar Romano 64]
-UNAM         2-0 Necaxa
-  [Sandro Coelho 25, Jorge Santillana 75]
-U de G       5-2 Toros Neza
-  [Ederval Lourenco 13, 17, 34pen, 72, Humberto Romero 77pen; Martín Onofre 18, Jaime Ramírez 89]
-Monterrey    2-3 UAG
-  [Gerardo Jiménez 4, Sergio Verdirame 44pen; Jorge Luis Gabrich 18, Porfirio Jiménez 24, 
-  Osmar Donizette 53]
-Santos       0-0 UANL
-[Sep 26]
-Toluca       2-0 Atlas
-  [Martín Vázquez 30og, Rogelio Romero 89]
-Atlante      0-3 América
-  [Germán Martellotto 22pen, 48, Gonzalo Farfán 89]
-Guadalajara  4-0 UAT
-  [Alberto García 36, Benjamín Galindo 53, José Manuel De la Torre 55, Jorge Arreola 81]
-León         1-1 Puebla
-  [Milton Queiroz 12; Gerardo González 51]
+Date: 9/24/1993
+
+; Cruz Azul   ; 1-1; Morelia
+  Carlos Hermosillo (pk) 57; Jaime Vera 41
+
+Date: 9/25/1993
+
+; Queretaro   ; 2-2; Veracruz
+  Ángel Lemus 44, Jaime Ríos 71; Martín Yamasaki 40, Rubén Omar Romano 64
+
+; UNAM        ; 2-0; Necaxa
+  Sandro Coelho 25, Jorge Santillana 75;
+
+; U de G      ; 5-2; Toros Neza
+  Ederval Lourenco 13, Ederval Lourenco 17, Ederval Lourenco (pk) 34, Ederval Lourenco 72, Humberto Romero (pk) 77; Martín Onofre 18, Jaime Ramírez 89
+
+; Monterrey   ; 2-3; UAG
+  Gerardo Jiménez 4, Sergio Verdirame (pk) 44; Jorge Luis Gabrich 18, Porfirio Jiménez 24, Osmar Donizette 53
+
+;Santos ;      0-0; UANL
+
+Date: 9/26/1993
+
+; Toluca      ; 2-0; Atlas
+  Martín Vázquez (og) 30, Rogelio Romero 89;
+
+; Atlante     ; 0-3; Club America
+;  Germán Martellotto (pk) 22, German Martellotto 48, Gonzalo Farfán 89
+
+; Guadalajara ; 4-0; UAT
+  Alberto García 36, Benjamín Galindo 53, José Manuel De la Torre 55, Jorge Arreola 81;
+
+; Club León        ; 1-1; Puebla
+  Milton Queiroz 12; Gerardo González 51
 
 Round: Round 9
-[Oct 1]
-UAG          0-0 Toluca
-[Oct 2]
-Veracruz     1-4 UNAM
-  [Carlos Poblete 74; Antonio Torres Servín 33, Jorge Santillana 45, 65, Rodrigo Rodríguez 85]
-UANL         1-0 Cruz Azul
-  [Roberto Gasparini 58pen]
-[Oct 3]
-UAT          1-2 Atlas
-  [César Sosa 80; Martín Félix Ubaldi 25, Eduardo Berizzo 55]
-Guadalajara  1-1 U de G
-  [Everaldo Bejines 31; Glauco Dos Santos 39]
-Necaxa       1-1 León
-  [Alex Aguinaga 83pen; Videmar Pessoa 82]
-Puebla       1-0 Monterrey
-  [Narciso Cuevas 76]
+Date: 10/1/1993
+
+;UAG      ;    0-0; Toluca
+
+Date: 10/2/1993
+
+; Veracruz    ; 1-4; UNAM
+  Carlos Poblete 74; Antonio Torres Servín 33, Jorge Santillana 45, Jorge Santillana 65, Rodrigo Rodríguez 85
+
+; UANL        ; 1-0; Cruz Azul
+  Roberto Gasparini (pk) 58;
+
+Date: 10/3/1993
+
+; UAT         ; 1-2; Atlas
+  César Sosa 80; Martín Félix Ubaldi 25, Eduardo Berizzo 55
+
+; Guadalajara ; 1-1; U de G
+  Everaldo Bejines 31; Glauco Dos Santos 39
+
+; Necaxa      ; 1-1; Club León
+  Alex Aguinaga (pk) 83; Videmar Pessoa 82
+
+; Puebla      ; 1-0; Monterrey
+  Narciso Cuevas 76;
+
 *Toros Neza   0-2 Santos                 [awd]
 *Toros Neza coudn´t play in Estadio Neza 86', the match was not played
-Morelia      3-2 Atlante
-  [Jaime Vera 9pen, Luis Hernán Pérez 39, 75; Tomás Cruz 47, Gastón Obledo 53]
-[Oct 4]
-América      3-0 Queretaro
-  [Antonio Carlos Santos 58, Francisco Uribe 63, Germán Martellotto 74]
+
+; Morelia     ; 3-2; Atlante
+  Jaime Vera (pk) 9, Luis Hernán Pérez 39, Luis Hernan Perez 75; Tomás Cruz 47, Gastón Obledo 53
+
+Date: 10/4/1993
+
+; Club America     ; 3-0; Queretaro
+  Antonio Carlos Santos 58, Francisco Uribe 63, Germán Martellotto 74;
 
 Round: Round 10
-[Oct 7]
-Atlas        1-1 UAG
-  [Damián Álvarez 55; Claudio Morena 53]
-[Oct 8]
-Atlante      4-1 UANL
-  [Roberto Andrade 9, Luis Miguel Salvador 11pen, 65, Guillermo Cantú 82; Roberto Gasparini 88]
-[Oct 9]
-Monterrey    1-1 Necaxa
-  [David Patiño 4; Alex Aguinaga 50]
-Cruz Azul    0-1 Toros Neza
-  [Jaime Ramírez 49]
-Querétaro    2-0 Morelia
-  [Robson da Silva 9, Graciano del Castillo 51]
-U de G       2-1 UAT
-  [Ederval Lourenco 41, Luis Deraldo Marques 49oen; Gerardo Reinoso 77]
-[Oct 10]
-Toluca       3-1 Puebla
-  [Nildeson Silva 56, 59, Jorge Rodríguez 75; Aurelio Rivera 66]
-UNAM         2-3 America
-  [Jesús Olalde 62, Leonel Bolsonello 85; Germán Martelloto 28, Luis Roberto Alves 35, 52]
-León         3-0 Veracruz
-  [Luis Antonio Valdez 67, Milton Queiroz 72, Jaime López 77]
-Santos       1-2 Guadalajara
-  [Richard Zambrano 86pen; Ignacio Vázquez 9, Misael Espinosa 71]
- 
+Date: 10/7/1993
+
+; Atlas       ; 1-1; UAG
+  Damián Álvarez 55; Claudio Morena 53
+
+Date: 10/8/1993
+
+; Atlante     ; 4-1; UANL
+  Roberto Andrade 9, Luis Miguel Salvador (pk) 11, Luis Miguel Salvador 65, Guillermo Cantú 82; Roberto Gasparini 88
+
+Date: 10/9/1993
+
+; Monterrey   ; 1-1; Necaxa
+  David Patiño 4; Alex Aguinaga 50
+
+; Cruz Azul   ; 0-1; Toros Neza
+;  Jaime Ramírez 49
+
+; Queretaro   ; 2-0; Morelia
+  Robson da Silva 9, Graciano del Castillo 51;
+
+; U de G      ; 2-1; UAT
+  Ederval Lourenco 41, Luis Deraldo Marques (pk) 49; Gerardo Reinoso 77
+
+Date: 10/10/1993
+
+; Toluca      ; 3-1; Puebla
+  Nildeson Silva 56, Nildeson Silva 59, Jorge Rodríguez 75; Aurelio Rivera 66
+
+; UNAM        ; 2-3; Club America
+  Jesús Olalde 62, Leonel Bolsonello 85; Germán Martelloto 28, Luis Roberto Alves 35, Luis Roberto Alves 52
+
+; Club León        ; 3-0; Veracruz
+  Luis Antonio Valdez 67, Milton Queiroz 72, Jaime López 77;
+
+; Santos      ; 1-2; Guadalajara
+  Richard Zambrano (pk) 86; Ignacio Vázquez 9, Misael Espinosa 71
+
 Round: Round 11
-[Oct 16]
-Veracruz     4-1 Monterrey
-  [Carlos Poblete 3, Clemente Jair de Brito 50, Gustavo Gaytán 82, Rubén Omar Romano 86; 
-  Carlos Bianchezi 45] 
-UANL         2-2 Querétaro
-  [Gustavo Nápoles 37, Martín Castañeda 71; Guillermo Galindo 34, Graciano del Castillo 80] 
-Necaxa       4-1 Toluca
-  [Ivo Basay 13, 55, Ricardo Peláez 25, Alberto García Aspe 75; Roberto Depietri 56]
-U de G       1-2 Santos
-  [Glauco Dos Santos 11; Antonio Apud 3, Salvador Mariscal 55og]
-[Oct 17]
-*Toros Neza   1-0 Atlante                [in Pachuca]
-  [Carlos Briseño 45]
-*Due to problems with stadium Neza 86', Toros Neza played the rest of the season in Pachuca (Estadio Hidalgo) and changed
-its name to Toros Hidalgo
-Puebla       2-0 Atlas
-  [Aurelio Rivera 52, Dioney Carlos 72]
-Guadalajara  1-4 Cruz Azul
-  [Misael Espinosa 56; Héctor Islas 2, Carlos Hermosillo 22, 83, Hugo Santana 74]
-UAT          1-1 UAG
-  [Sergio Díaz 19; Claudio Morena 70]
-Morelia      1-4 UNAM
-  [Luis Hernán Pérez 22; Jorge Santillana 45pen, Leonel Bolsonello 83, 89, José Damasceno 87]
-América      2-0 León
-  [Oscar Ruggeri 84, Luis Roberto Alves 89]
+Date: 10/16/1993
+
+; Veracruz    ; 4-1; Monterrey
+  Carlos Poblete 3, Clemente Jair de Brito 50, Gustavo Gaytán 82, Rubén Omar Romano 86; Carlos Bianchezi 45
  
+; UANL        ; 2-2; Queretaro
+  Gustavo Nápoles 37, Martín Castañeda 71; Guillermo Galindo 34, Graciano del Castillo 80
+ 
+; Necaxa      ; 4-1; Toluca
+  Ivo Basay 13, Ivo Basay 55, Ricardo Peláez 25, Alberto García Aspe 75; Roberto Depietri 56
+
+; U de G      ; 1-2; Santos
+  Glauco Dos Santos 11; Antonio Apud 3, Salvador Mariscal (og) 55
+
+Date: 10/17/1993
+
+; Toros Neza  ; 1-0; Atlante                ; Pachuca, Mexico
+  Carlos Briseño 45;
+Notes: Due to problems with stadium Neza 86', Toros Neza played the rest of the season in Pachuca (Estadio Hidalgo) and changed its name to Toros Hidalgo
+
+; Puebla      ; 2-0; Atlas
+  Aurelio Rivera 52, Dioney Carlos 72;
+
+; Guadalajara ; 1-4; Cruz Azul
+  Misael Espinosa 56; Héctor Islas 2, Carlos Hermosillo 22, Carlos Hermosillo 83, Hugo Santana 74
+
+; UAT         ; 1-1; UAG
+  Sergio Díaz 19; Claudio Morena 70
+
+; Morelia     ; 1-4; UNAM
+  Luis Hernán Pérez 22; Jorge Santillana (pk) 45, Leonel Bolsonello 83, Leonel Bolsonello 89, José Damasceno 87
+
+; Club America     ; 2-0; Club León
+  Oscar Ruggeri 84, Luis Roberto Alves 89;
+
 Round: Round 12
-[Oct 22]
-UNAM         1-1 UANL
-  [Leonel Bolsonello 81; Alejandro Hisis 85pen]
-UAG          2-2 Puebla
-  [Claudio Morena 9, Osmar Donizette 12; Roberto Ruiz Esparza 16, Dioney Carlos 17]
-[Oct 23]
-Cruz Azul    1-1 U de G
-  [Luis Landeros 59og; Ederval Lourenco 87]
-Monterrey    1-2 América
-  [Gerardo Jiménez 58; Germán Martelloto 29, Luis Roberto Alves 80]
-Querétaro    1-1 Toros Hidalgo
-  [Carlos Alberto Seixas 33; Ángel Bernuncio 40]
-Atlas        2-1 Necaxa
-  [Damián Álvarez 8, Eduardo Berizzo 74; Alberto García Aspe 48pen]
-[Oct 24]
-Toluca       2-0 Veracruz
-  [Marcelino Bernal 45, Nildeson Silva 55]
-Atlante      3-0 Guadalajara
-  [Luis Miguel Salvador 49, 68, Guillermo Cantú 65]
-Santos       1-1 UAT
-  [Daniel Guzmán 8; César Sosa 58]
-León         2-1 Morelia
-  [Ricardo Cadena 33, José Humberto González 81; Héctor Hernández 53]
- 
+Date: 10/22/1993
+
+; UNAM        ; 1-1; UANL
+  Leonel Bolsonello 81; Alejandro Hisis (pk) 85
+
+; UAG         ; 2-2; Puebla
+  Claudio Morena 9, Osmar Donizette 12; Roberto Ruiz Esparza 16, Dioney Carlos 17
+
+Date: 10/23/1993
+
+; Cruz Azul   ; 1-1; U de G
+  Luis Landeros (og) 59; Ederval Lourenco 87
+
+; Monterrey   ; 1-2; Club America
+  Gerardo Jiménez 58; Germán Martelloto 29, Luis Roberto Alves 80
+
+; Queretaro   ; 1-1; Toros Hidalgo
+  Carlos Alberto Seixas 33; Ángel Bernuncio 40
+
+; Atlas       ; 2-1; Necaxa
+  Damián Álvarez 8, Eduardo Berizzo 74; Alberto García Aspe (pk) 48
+
+Date: 10/24/1993
+
+; Toluca      ; 2-0; Veracruz
+  Marcelino Bernal 45, Nildeson Silva 55;
+
+; Atlante     ; 3-0; Guadalajara
+  Luis Miguel Salvador 49, Luis Miguel Salvador 68, Guillermo Cantú 65;
+
+; Santos      ; 1-1; UAT
+  Daniel Guzmán 8; César Sosa 58
+
+; Club León        ; 2-1; Morelia
+  Ricardo Cadena 33, José Humberto González 81; Héctor Hernández 53
+
 Round: Round 13
-[Oct 30]
-Veracruz     1-1 Atlas
-  [Alberto Durán 89; Cristian Domizzi 5]
-UANL         0-0 León
-U de G       1-2 Atlante
-  [Rafael Gutiérrez Aldaco 77; Gastón Obledo 61, René Isidoro García 82]
-[Oct 31]
-Toros Hidalgo 1-1 UNAM
-  [Carlos Briseño 79; Leonel Bolsonello 61]
-Morelia      5-2 Monterrey
-  [Héctor Hernández 5, José Juan Morales 24, 70, Marcial Garay 34, Pedro González 60; 
-  Richard Tavares 36, Sergio Verdirame 82pen]
-Guadalajara  1-0 Querétaro
-  [Misael Espinosa 12]
-Santos       2-0 Cruz Azul
-  [Daniel Guzmán 23, Diego Silva 70]
-UAT          0-0 Puebla
-América      2-1 Toluca                     [in Estadio Azulgrana (Atlante)]
-  [Luis Roberto Alves 47, Germán Martellotto 55; Nildeson Silva 34]
-[Nov 1]
-Necaxa       0-0 UAG                        [in Estadio Azulgrana (Atlante)]                        
+Date: 10/30/1993
+
+; Veracruz    ; 1-1; Atlas
+  Alberto Durán 89; Cristian Domizzi 5
+
+;UANL    ;     0-0; Club León
+
+; U de G      ; 1-2; Atlante
+  Rafael Gutiérrez Aldaco 77; Gastón Obledo 61, René Isidoro García 82
+
+Date: 10/31/1993
+
+; Toros Hidalgo; 1-1; UNAM
+  Carlos Briseño 79; Leonel Bolsonello 61
+
+; Morelia     ; 5-2; Monterrey
+  Héctor Hernández 5, José Juan Morales 24, José Juan Morales 70, Marcial Garay 34, Pedro González 60; Richard Tavares 36, Sergio Verdirame (pk) 82
+
+; Guadalajara ; 1-0; Queretaro
+  Misael Espinosa 12;
+
+; Santos      ; 2-0; Cruz Azul
+  Daniel Guzmán 23, Diego Silva 70;
+
+;UAT      ;    0-0; Puebla
+
+; Club America     ; 2-1; Toluca                     ; Estadio Azulgrana (Atlante)
+  Luis Roberto Alves 47, Germán Martellotto 55; Nildeson Silva 34
+
+Date: 11/1/1993
+
+;Necaxa   ;    0-0; UAG                        ; Estadio Azulgrana (Atlante)
  
 Round: Round 14
-[Nov 5]
-Atlante      1-1 Santos
-  [Gastón Obledo 47; Daniel Guzmán 8]
-UAG          0-0 Veracruz
-[Nov 6]
-Querétaro    0-0 U de G
-Monterrey    1-0 UANL
-  [Sergio Verdirame 73]
-León         2-0 Toros Hidalgo
-  [Isaac Ayipei, Milton Queiroz]
-Atlas        1-2 América
-  [Martín Félix Ubaldi 55; Gonzalo Farfán 62, Luis Roberto Alves 85]
-[Nov 7]
-Cruz Azul    2-1 UAT                         [in Ciudad Cooperativa]
-  [Octavio Mora 47, Raúl Martínez Zambulá 61og; Eduardo Garduño 37]
-UNAM         0-1 Guadalajara
-  [Benjamín Galindo 46]  
-Toluca       0-1 Morelia
-  [José Juan Morales 13]
-Puebla       0-0 Necaxa
+Date: 11/5/1993
+
+; Atlante     ; 1-1; Santos
+  Gastón Obledo 47; Daniel Guzmán 8
+
+;UAG    ;      0-0; Veracruz
+
+Date: 11/6/1993
+
+;Queretaro;    0-0; U de G
+
+; Monterrey   ; 1-0; UANL
+  Sergio Verdirame 73;
+
+; Club León        ; 2-0; Toros Hidalgo
+  Isaac Ayipei, Milton Queiroz;
+
+; Atlas       ; 1-2; Club America
+  Martín Félix Ubaldi 55; Gonzalo Farfán 62, Luis Roberto Alves 85
+
+Date: 11/7/1993
+
+; Cruz Azul   ; 2-1; UAT                         ; Ciudad Cooperativa
+  Octavio Mora 47, Raúl Martínez Zambulá (og) 61; Eduardo Garduño 37
+
+; UNAM        ; 0-1; Guadalajara
+;  Benjamín Galindo 46
+  
+; Toluca      ; 0-1; Morelia
+;  José Juan Morales 13
+
+;Puebla   ;    0-0; Necaxa
  
 Round: Round 15
-[Nov 13]
-UANL         1-2 Toluca
-  [Roberto Gasparini 80pen; Nildeson Silva 24, Apolinar Cortés 79]
-Veracruz     1-1 Puebla
-  [Alberto Durán 43; Roberto Ruiz Esparza 18]
-Cruz Azul    2-1 Atlante                     [in Ciudad Cooperativa]
-  [Carlos Hermosillo 8, Luis Carlos de Oliveira 70; Roberto Andrade 83]
-U de G       0-3 UNAM
-  [Leonel Bolsonello 35, 60, 89pen]
-America      3-1 UAG                         [in Estadio Azulgrana (Atlante)]
-  [Marcelo Barticciotto 32, Gonzalo Farfán 65, Luis Roberto Alves 85; Felipe del Ángel Malibrán 89]
-UAT          2-2 Necaxa
-  [Gerardo Reinoso 8, Raúl Martínez Zambulá 80; Ricardo Peláez 3, Alberto García Aspe 46]
-Santos       2-2 Querétaro
-  [Héctor Adomaitis 49, Daniel Guzmán 70; Robson da Silva 38, 42]
-[Nov 14]
-Toros Hidalgo 1-2 Monterrey
-  [Carlos Briseño 22; David Patiño 53, Sergio Verdirame 69]
-Morelia      0-2 Atlas
-  [Camilo Romero 35og, Cristian Domizzi 80]
-Guadalajara  4-1 León
-  [Everaldo Bejines 4, Alberto García 30, José Manuel de la Torre 84, Misael Espinosa 88; 
-  Milton Queiroz 25]
- 
+Date: 11/13/1993
+
+; UANL        ; 1-2; Toluca
+  Roberto Gasparini (pk) 80; Nildeson Silva 24, Apolinar Cortés 79
+
+; Veracruz    ; 1-1; Puebla
+  Alberto Durán 43; Roberto Ruiz Esparza 18
+
+; Cruz Azul   ; 2-1; Atlante                    ; Ciudad Cooperativa
+  Carlos Hermosillo 8, Luis Carlos de Oliveira 70; Roberto Andrade 83
+
+; U de G      ; 0-3; UNAM
+;  Leonel Bolsonello 35, Leonel Bolsonello 60, Leonel Bolsonello (pk) 89
+
+; Club America     ; 3-1; UAG                         ; Estadio Azulgrana (Atlante)
+  Marcelo Barticciotto 32, Gonzalo Farfán 65, Luis Roberto Alves 85; Felipe del Ángel Malibrán 89
+
+; UAT         ; 2-2; Necaxa
+  Gerardo Reinoso 8, Raúl Martínez Zambulá 80; Ricardo Peláez 3, Alberto García Aspe 46
+
+; Santos      ; 2-2; Queretaro
+  Héctor Adomaitis 49, Daniel Guzmán 70; Robson da Silva 38, Robson da Silva 42
+
+Date: 11/14/1993
+
+; Toros Hidalgo; 1-2; Monterrey
+  Carlos Briseño 22; David Patiño 53, Sergio Verdirame 69
+
+; Morelia     ; 0-2; Atlas
+;  Camilo Romero (og) 35, Cristian Domizzi 80
+
+; Guadalajara ; 4-1; Club León
+  Everaldo Bejines 4, Alberto García 30, José Manuel de la Torre 84, Misael Espinosa 88; Milton Queiroz 25
+
 Round: Round 16
-[Nov 16]
-Atlante      1-1 UAT
-  [Christian Trapasso 62; Ricardo Chávez Medrano 57]
-[Nov 17]
-Querétaro    2-1 Cruz Azul
-  [Víctor Rodríguez 56, 89; Carlos Hermosillo 58]
-UNAM         3-1 Santos
-  [Leonel Bolsonello 30, 74, Vicente Nieto 36; José Guadalupe Rubio 89]
-Puebla       1-0 América
-  [Narciso Cuevas 53]
-Monterrey    0-1 Guadalajara
-  [Omar Arellano 46]
-UAG          2-1 Morelia
-  [Claudio Morena 12, Roberto Medina 76pen; Héctor Hernández 44]
-Toluca       1-2 Toros Hidalgo
-  [Marcelino Bernal 88; Martín Onofre 59, Antonio Mohamed 66]
-León         1-2 U de G
-  [Sergio Martínez 85; Alberto Mariscal 33, Luis Francisco García 46]
-[Nov 18]
-Atlas        2-0 UANL
-  [Martín Félix Ubaldi 73, Eduardo Berizzo 86pen]
-Necaxa       3-2 Veracruz                    [in Estadio Azulgrana (Atlante)]
-  [Alex Aguinaga 26, 41, 45; Carlos Poblete 19, Alberto Durán 49]
- 
+Date: 11/16/1993
+
+; Atlante     ; 1-1; UAT
+  Christian Trapasso 62; Ricardo Chávez Medrano 57
+
+Date: 11/17/1993
+
+; Queretaro   ; 2-1; Cruz Azul
+  Víctor Rodríguez 56, Victor Rodriguez 89; Carlos Hermosillo 58
+
+; UNAM        ; 3-1; Santos
+  Leonel Bolsonello 30, Leonel Bolsonello 74, Vicente Nieto 36; José Guadalupe Rubio 89
+
+; Puebla      ; 1-0; Club America
+  Narciso Cuevas 53;
+
+; Monterrey   ; 0-1; Guadalajara
+;  Omar Arellano 46
+
+; UAG         ; 2-1; Morelia
+  Claudio Morena 12, Roberto Medina (pk) 76; Héctor Hernández 44
+
+; Toluca      ; 1-2; Toros Hidalgo
+  Marcelino Bernal 88; Martín Onofre 59, Antonio Mohamed 66
+
+; Club León        ; 1-2; U de G
+  Sergio Martínez 85; Alberto Mariscal 33, Luis Francisco García 46
+
+Date: 11/18/1993
+
+; Atlas       ; 2-0; UANL
+  Martín Félix Ubaldi 73, Eduardo Berizzo (pk) 86;
+
+; Necaxa      ; 3-2; Veracruz                    ; Estadio Azulgrana (Atlante)
+  Alex Aguinaga 26, Alex Aguinaga 41, Alex Aguinaga 45; Carlos Poblete 19, Alberto Durán 49
+
 Round: Round 17
-[Nov 20]
-Cruz Azul    4-0 UNAM                        [in Estadio Azulgrana (Atlante)]
-  [Carlos Hermosillo 13, 89, Pedro Duana 52, 62]
-U de G       1-0 Monterrey
-  [Alberto Mariscal 59]
-[Nov 21]
-UANL         1-1 UAG
-  [Gustavo Nápoles 32; Claudio Morena 85]
-Toros Hidalgo 0-3 Atlas
-  [Luis Salazar 69, Cristian Domizzi 79, Martín Félix Ubaldi 89]
-Morelia      2-2 Puebla
-  [Héctor Hernández 8, Luis Hernán Pérez 42; Aurelio Rivera 47, Salvador Luis Reyes 64]
-Guadalajara  1-2 Toluca
-  [Benjamín Galindo 31pen; Nildeson Silva 15, Jorge Rodríguez 59]
-UAT          1-1 Veracruz                    [in Tampico]
-  [Ricardo Chávez Medrano 5; Alberto Durán 12]
-América      0-1 Necaxa                      [in Estadio Azulgrana (Atlante)]
-  [Ignacio Ambriz 73]
-Santos       1-0 León
-  [Videmar Pessoa 77og]
-[Nov 22]
-Atlante      2-0 Querétaro
-  [Raúl Gutiérrez 11, Miguel Herrera 71]
- 
+Date: 11/20/1993
+
+; Cruz Azul   ; 4-0; UNAM                        ; Estadio Azulgrana (Atlante)
+  Carlos Hermosillo 13, Carlos Hermosillo 89, Pedro Duana 52, Pedro Duana 62;
+
+; U de G      ; 1-0; Monterrey
+  Alberto Mariscal 59;
+
+Date: 11/21/1993
+
+; UANL        ; 1-1; UAG
+  Gustavo Nápoles 32; Claudio Morena 85
+
+; Toros Hidalgo; 0-3; Atlas
+;  Luis Salazar 69, Cristian Domizzi 79, Martín Félix Ubaldi 89
+
+; Morelia     ; 2-2; Puebla
+  Héctor Hernández 8, Luis Hernán Pérez 42; Aurelio Rivera 47, Salvador Luis Reyes 64
+
+; Guadalajara ; 1-2; Toluca
+  Benjamín Galindo (pk) 31; Nildeson Silva 15, Jorge Rodríguez 59
+
+; UAT         ; 1-1; Veracruz                    ;Tampico, Mexico
+  Ricardo Chávez Medrano 5; Alberto Durán 12
+
+; Club America     ; 0-1; Necaxa                      ; Estadio Azulgrana (Atlante)
+;  Ignacio Ambriz 73
+
+; Santos      ; 1-0; Club León
+  Videmar Pessoa (og) 77;
+
+Date: 11/22/1993
+
+; Atlante     ; 2-0; Queretaro
+  Raúl Gutiérrez 11, Miguel Herrera 71;
+
 Round: Round 18
-[Nov 26]
-UAG          3-0 Toros Hidalgo
-  [Jorge Luis Gabrich 48, 79, Fernando Guijarro 75]
-[Nov 27]
-Monterrey    3-0 Santos
-  [José Nieves 46, David Patiño 56, Sergio Verdirame 89]
-Necaxa       3-1 Morelia                     [in Estadio Azulgrana (Atlante)]
-  [Ricardo Peláez 47, 87, Ivo Basay 63; Jaime Vera 10]
-Veracruz     3-2 América
-  [Carlos Poblete 29, Alberto Durán 34, Rubén Omar Romano 79; Juan Hernández 64, 73]
-León         1-1 Cruz Azul
-  [Isaac Ayipei 77; Carlos Hermosillo 7]
-Atlas        1-1 Guadalajara
-  [Juan Carlos Chávez 38; Ignacio Vázquez 84]
-[Nov 28]
-Toluca       3-1 U de G
-  [Jorge Rodríguez 47, Nildeson Silva 51, Marcos Ayala 82; Francisco Javier Díaz 80]
-UAT          4-0 Querétaro
-  [Patricio McAllister 55, Ricardo Chávez Medrano 58, César Sosa 65, Fernando Sánchez Limón 88]
-Puebla       1-1 UANL
-  [Carlos Dioney 62; Javier Lozano 89]
-UNAM         3-4 Atlante
-  [Israel López 10, Jesús Olalde 28, Leonel Bolsonello 83pen; Gastón Obledo 24, Christian Trapasso 29, 67, 
-  Luis Miguel Salvador 63]
- 
+Date: 11/26/1993
+
+; UAG         ; 3-0; Toros Hidalgo
+  Jorge Luis Gabrich 48, Jorge Luis Gabrich 79, Fernando Guijarro 75;
+
+Date: 11/27/1993
+
+; Monterrey   ; 3-0; Santos
+  José Nieves 46, David Patiño 56, Sergio Verdirame 89;
+
+; Necaxa      ; 3-1; Morelia                    ; Estadio Azulgrana (Atlante)
+  Ricardo Peláez 47, Ricardo Peláez 87, Ivo Basay 63; Jaime Vera 10
+
+; Veracruz    ; 3-2; Club America
+  Carlos Poblete 29, Alberto Durán 34, Rubén Omar Romano 79; Juan Hernández 64, Juan Hernandez 73
+
+; Club León        ; 1-1; Cruz Azul
+  Isaac Ayipei 77; Carlos Hermosillo 7
+
+; Atlas       ; 1-1; Guadalajara
+  Juan Carlos Chávez 38; Ignacio Vázquez 84
+
+Date: 11/28/1993
+
+; Toluca      ; 3-1; U de G
+  Jorge Rodríguez 47, Nildeson Silva 51, Marcos Ayala 82; Francisco Javier Díaz 80
+
+; UAT         ; 4-0; Queretaro
+  Patricio McAllister 55, Ricardo Chávez Medrano 58, César Sosa 65, Fernando Sánchez Limón 88;
+
+; Puebla      ; 1-1; UANL
+  Carlos Dioney 62; Javier Lozano 89
+
+; UNAM        ; 3-4; Atlante
+  Israel López 10, Jesús Olalde 28, Leonel Bolsonello (pk) 83; Gastón Obledo 24, Christian Trapasso 29, Christian Trapasso 67, Luis Miguel Salvador 63
+
 Round: Round 19
-[Dec 4]
-U de G       0-2 Atlas
-  [Cristian Domizzi 11, 31]
-Cruz Azul    0-0 Monterrey
-UANL         0-0 Necaxa
-Querétaro    1-0 UNAM
-  [Robson da Silva 48]
-[Dec 5]
-Guadalajara  0-0 UAG
-Toros Hidalgo 1-2 Puebla
-  [Martín Onofre 53; Narciso Cuevas 65, Gerardo Mascareño 74]
-Santos       0-0 Toluca
-Morelia      1-1 Veracruz
-  [Jaime Vera 68; Humberto Roon 11]
-[Dec 6]
-América      1-0 UAT
-  [Germán Martellotto 40pen]
-[Mar 9]
-Atlante      5-0 León
-  [José Guadalupe Cruz 7, Luis Miguel Salvador 41, 89, Gastón Obledo 60, Guillermo Cantú 83]
+Date: 12/4/1993
+
+; U de G      ; 0-2; Atlas
+;  Cristian Domizzi 11, Cristian Domizzi 31
+
+; Cruz Azul  ;  0-0; Monterrey
+
+; UANL       ;  0-0; Necaxa
+
+; Queretaro   ; 1-0; UNAM
+  Robson da Silva 48;
+
+Date: 12/5/1993
+
+;Guadalajara;  0-0; UAG
+
+; Toros Hidalgo; 1-2; Puebla
+  Martín Onofre 53; Narciso Cuevas 65, Gerardo Mascareño 74
+
+;Santos    ;   0-0; Toluca
+
+; Morelia     ; 1-1; Veracruz
+  Jaime Vera 68; Humberto Roon 11
+
+Date: 12/6/1993
+
+; Club America     ; 1-0; UAT
+  Germán Martellotto (pk) 40;
+
+Date: 3/9/1994
+
+; Atlante     ; 5-0; Club León
+  José Guadalupe Cruz 7, Luis Miguel Salvador 41, Luis Miguel Salvador 89, Gastón Obledo 60, Guillermo Cantú 83;
  
 Round: Round 20
-[Dec 10]
-UNAM         2-0 UAT
-  [Eduardo Medina 22, Jesús Olalde 80]
-[Dec 11]
-Cruz Azul    0-0 Toluca              [in Estadio Azulgrana (Atlante)]
-UANL         2-1 Veracruz
-  [Hugo Aparecido 4pen, Mariano Varela 51; Rubén Omar Romano 55pen]
-U de G       0-0 UAG
-Toros Hidalgo 3-1 Necaxa
-  [Antonio Mohamed 13, 56, Jaime Ramírez 15; Alberto García Aspe 16]
-[Dec 12]
-Querétaro    2-1 León
-  [Robson da Silva 8, Sergio Rodríguez 58; Joao Vanderley 13]
-Atlante      4-1 Monterrey
-  [Cristian Trapasso 30, Miguel Herrera 73, Luis Miguel Salvador 82, 87; Sergio Verdirame 42]
-Morelia      4-3 América
-  [Jaime Vera 10, Marco Antonio Figueroa 59, Mario Juárez 77, 87; Luis Roberto Alves 21, 80, 
-  Antonio Carlos Santos 89]
-Guadalajara  2-0 Puebla
-  [Jorge Arreola 40, Ignacio Vázquez 82]
-Santos       1-0 Atlas
-  [Héctor Adomaitis 83]
+Date: 12/10/1993
+
+; UNAM        ; 2-0; UAT
+  Eduardo Medina 22, Jesús Olalde 80;
+
+Date: 12/11/1993
+
+;Cruz Azul ;   0-0; Toluca             ; Estadio Azulgrana (Atlante)
+
+; UANL        ; 2-1; Veracruz
+  Hugo Aparecido (pk) 4, Mariano Varela 51; Rubén Omar Romano (pk) 55
+
+;U de G    ;   0-0; UAG
+
+; Toros Hidalgo; 3-1; Necaxa
+  Antonio Mohamed 13, Antonio Mohamed 56, Jaime Ramírez 15; Alberto García Aspe 16
+
+Date: 12/12/1993
+
+; Queretaro   ; 2-1; Club León
+  Robson da Silva 8, Sergio Rodríguez 58; Joao Vanderley 13
+
+; Atlante     ; 4-1; Monterrey
+  Cristian Trapasso 30, Miguel Herrera 73, Luis Miguel Salvador 82, Luis Miguel Salvador 87; Sergio Verdirame 42
+
+; Morelia     ; 4-3; Club America
+  Jaime Vera 10, Marco Antonio Figueroa 59, Mario Juárez 77, Mario Juárez 87; Luis Roberto Alves 21, Luis Roberto Alves 80, Antonio Carlos Santos 89
+
+; Guadalajara ; 2-0; Puebla
+  Jorge Arreola 40, Ignacio Vázquez 82;
+
+; Santos      ; 1-0; Atlas
+  Héctor Adomaitis 83;
 
 Round: Round 21
-[Dec 17]
-UAG          4-1 Santos
-  [Jorge Luis Gabrich 35, Osmar Donizette 44, 56, Porfirio Jiménez 50; Héctor Adomaitis 83pen]
-[Dec 18]
-América      4-1 UANL
-  [Germán Martellotto 4, 66, Antonio Carlos Santos 7, Gonzalo Farfán 29; Marcelo Conte 14]
-Atlas        1-2 Cruz Azul
-  [Miguel Salcedo 49; Octavio Mora 25, Víctor Ruiz 67]
-Monterrey    3-2 Querétaro
-  [Luis Hernández 6, Mario Jáuregui 58, 62; Robson da Silva 19pen, Guillermo Galindo 39]
-Veracruz     0-0 Toros Hidalgo
-[Dec 19]
-UAT          1-1 Morelia
-  [Fernando Sánchez Limón 14; Mario Juárez 5]
-León         2-1 UNAM
-  [Videmar Pessoa 18, Isaac Ayipei 59; Jesús Olalde 39]
-Necaxa       1-0 Guadalajara
-  [Ivo Basay 34]
-Toluca       3-1 Atlante
-  [Rogelio Romero 30, José Manuel Abundis 71, Nildeson Silva de Mello 74; Roberto Andrade 85pen] 
-[Jan 26]
-Puebla       2-0 U de G
-  [Gilberto Jiménez 42, Narciso Cuevas 55]  
+Date: 12/17/1993
+
+; UAG         ; 4-1; Santos
+  Jorge Luis Gabrich 35, Osmar Donizette 44, Osmar Donizette 56, Porfirio Jiménez 50; Héctor Adomaitis (pk) 83
+
+Date: 12/18/1993
+
+; Club America     ; 4-1; UANL
+  Germán Martellotto 4, Germán Martellotto 66, Antonio Carlos Santos 7, Gonzalo Farfán 29; Marcelo Conte 14
+
+; Atlas       ; 1-2; Cruz Azul
+  Miguel Salcedo 49; Octavio Mora 25, Víctor Ruiz 67
+
+; Monterrey   ; 3-2; Queretaro
+  Luis Hernández 6, Mario Jáuregui 58, Mario Jáuregui 62; Robson da Silva (pk) 19, Guillermo Galindo 39
+
+;Veracruz  ;   0-0; Toros Hidalgo
+
+Date: 12/19/1993
+
+; UAT         ; 1-1; Morelia
+  Fernando Sánchez Limón 14; Mario Juárez 5
+
+; Club León        ; 2-1; UNAM
+  Videmar Pessoa 18, Isaac Ayipei 59; Jesús Olalde 39
+
+; Necaxa      ; 1-0; Guadalajara
+  Ivo Basay 34;
+
+; Toluca      ; 3-1; Atlante
+  Rogelio Romero 30, José Manuel Abundis 71, Nildeson Silva de Mello 74; Roberto Andrade (pk) 85
  
+Date: 1/26/1994
+
+; Puebla      ; 2-0; U de G
+  Gilberto Jiménez 42, Narciso Cuevas 55;
+
 Round: Round 22
-[Dec 28]
-Atlante      4-2 Atlas
-  [Christian Trapasso 53, 66, Cristian Domizzi 69og, Luis Miguel Salvador 89; Rodolfo Navarro 9, 
-  Cristian Domizzi 86] 
-[Dec 29]
-Cruz Azul    3-0 UAG
-  [Octavio Mora 27, Carlos Hermosillo 68pen, Pedro Duana 88]
-Querétaro    0-0 Toluca
-Santos       2-1 Puebla
-  [Rubén Martínez 56, Ramón Ramírez 88; Narciso Cuevas 89]
-UANL         2-1 Morelia
-  [Marcelo Conte 53, Alejandro Hisis 78; José Juan Morales 2]
-Toros Hidalgo 1-1 America
-  [Jaime Ramírez 63; Francisco Uribe 74]
-U de G       3-1 Necaxa
-  [Rafael Gutiérrez Aldaco 8, Rafael Bobadilla 23, José María Pedante 67; Alberto García Aspe 15]
-[Dec 30]
-Guadalajara  1-2 Veracruz
-  [Gabriel García 48; Alberto Durán 79, Carlos Poblete 85]
-León         1-0 UAT
-  [Milton Queiroz 18]
-UNAM         1-1 Monterrey
-  [Leonel Bolsonello 82; David Patiño 52]
+Date: 12/28/1993
+
+; Atlante     ; 4-2; Atlas
+  Christian Trapasso 53, Christian Trapasso 66, Cristian Domizzi (og) 69, Luis Miguel Salvador 89; Rodolfo Navarro 9, Cristian Domizzi 86
  
+Date: 12/29/1993
+
+; Cruz Azul   ; 3-0; UAG
+  Octavio Mora 27, Carlos Hermosillo (pk) 68, Pedro Duana 88;
+
+;Queretaro  ;  0-0; Toluca
+
+; Santos      ; 2-1; Puebla
+  Rubén Martínez 56, Ramón Ramírez 88; Narciso Cuevas 89
+
+; UANL        ; 2-1; Morelia
+  Marcelo Conte 53, Alejandro Hisis 78; José Juan Morales 2
+
+; Toros Hidalgo; 1-1; Club America
+  Jaime Ramírez 63; Francisco Uribe 74
+
+; U de G      ; 3-1; Necaxa
+  Rafael Gutiérrez Aldaco 8, Rafael Bobadilla 23, José María Pedante 67; Alberto García Aspe 15
+
+Date: 12/30/1993
+
+; Guadalajara ; 1-2; Veracruz
+  Gabriel García 48; Alberto Durán 79, Carlos Poblete 85
+
+; Club León        ; 1-0; UAT
+  Milton Queiroz 18;
+
+; UNAM        ; 1-1; Monterrey
+  Leonel Bolsonello 82; David Patiño 52
+
 Round: Round 23
-[Jan 4]
-Necaxa       1-2 Santos
-  [Ivo Basay 55; Antonio Apud 9, Daniel Guzmán 85]
-[Jan 5]
-América      1-0 Guadalajara
-  [Francisco Uribe 27]
-Atlas        2-1 Querétaro
-  [Juan Carlos Chávez 20, Martín Félix Ubaldi 27; Alfonso Yáñez 50]
-Morelia      2-0 Toros Hidalgo
-  [Luis Hernán Pérez 5, Marco Antonio Figueroa 16]
-UAT          2-2 UANL
-  [Eduardo Garduño 33, Ricardo Chávez Medrano 58; Marcelo Conte 46, Gustavo Nápoles 62]
-Monterrey    1-1 León
-  [José Nieves Castro 7; Milton Queiroz 59]
-Puebla       1-1 Cruz Azul
-  [Antonio Gutiérrez 81; Octavio Mora 59]
-Toluca       0-1 UNAM
-  [Leonel Bolsonello 54]
-Veracruz     2-2 U de G
-  [Alberto Durán 7, José Luis González China 53; Vanderlei da Silva 47, Alberto Mariscal 78]
-[Jan 6]
-UAG          1-2 Atlante
-  [Armando Iñiguez 33; Gastón Obledo 1, Christian Trapasso 29]
+Date: 1/4/1994
+
+; Necaxa      ; 1-2; Santos
+  Ivo Basay 55; Antonio Apud 9, Daniel Guzmán 85
+
+Date: 1/5/1994
+
+; Club America     ; 1-0; Guadalajara
+  Francisco Uribe 27;
+
+; Atlas       ; 2-1; Queretaro
+  Juan Carlos Chávez 20, Martín Félix Ubaldi 27; Alfonso Yáñez 50
+
+; Morelia     ; 2-0; Toros Hidalgo
+  Luis Hernán Pérez 5, Marco Antonio Figueroa 16;
+
+; UAT         ; 2-2; UANL
+  Eduardo Garduño 33, Ricardo Chávez Medrano 58; Marcelo Conte 46, Gustavo Nápoles 62
+
+; Monterrey   ; 1-1; Club León
+  José Nieves Castro 7; Milton Queiroz 59
+
+; Puebla      ; 1-1; Cruz Azul
+  Antonio Gutiérrez 81; Octavio Mora 59
+
+; Toluca      ; 0-1; UNAM
+;  Leonel Bolsonello 54
+
+; Veracruz    ; 2-2; U de G
+  Alberto Durán 7, José Luis González China 53; Vanderlei da Silva 47, Alberto Mariscal 78
+
+Date: 1/6/1994
+
+; UAG         ; 1-2; Atlante
+  Armando Iñiguez 33; Gastón Obledo 1, Christian Trapasso 29
 
 Round: Round 24
-[Jan 8]
-Cruz Azul    1-1 Necaxa
-  [Pedro Duana 19; Adrián Gallego 13]
-Monterrey    1-1 UAT
-  [Mario Jáuregui 81; Miguel Ángel Murillo 56]
-Toros Hidalgo 0-0 UANL
-U de G       0-0 América
-[Jan 9]
-Guadalajara  1-1 Morelia
-  [José Manuel de la Torre 64; Marco Antonio Figueroa 37]
-León         0-1 Toluca
-  [Marcelino Bernal 36]
-Querétaro    1-2 UAG
-  [Martín Dall´Orso 23; Felipe del Ángel Malibrán 5, Mauricio Gallaga 83]
-Santos       4-0 Veracruz
-  [Daniel Guzmán 32, 55, 89, Rubén Martínez 63]
-UNAM         1-2 Atlas
-  [Leonel Bolsonello 89; Martín Félix Ubaldi 7, Cristian Domizzi 21]
-[Jan 10]
-Atlante      2-0 Puebla
-  [Miguel Herrera 74pen, Guillermo Cantú 85]
+Date: 1/8/1994
+
+; Cruz Azul   ; 1-1; Necaxa
+  Pedro Duana 19; Adrián Gallego 13
+
+; Monterrey   ; 1-1; UAT
+  Mario Jáuregui 81; Miguel Ángel Murillo 56
+
+;Toros Hidalgo; 0-0; UANL
+
+;U de G ;      0-0; Club America
+
+Date: 1/9/1994
+
+; Guadalajara ; 1-1; Morelia
+  José Manuel de la Torre 64; Marco Antonio Figueroa 37
+
+; Club León        ; 0-1; Toluca
+;  Marcelino Bernal 36
+
+; Queretaro   ; 1-2; UAG
+  Martin Dall'Orso 23; Felipe del Ángel Malibrán 5, Mauricio Gallaga 83
+
+; Santos      ; 4-0; Veracruz
+  Daniel Guzmán 32, Daniel Guzmán 55, Daniel Guzmán 89, Rubén Martínez 63;
+
+; UNAM        ; 1-2; Atlas
+  Leonel Bolsonello 89; Martín Félix Ubaldi 7, Cristian Domizzi 21
+
+Date: 1/10/1994
+
+; Atlante     ; 2-0; Puebla
+  Miguel Herrera (pk) 74, Guillermo Cantú 85;
 
 Round: Round 25
-[Jan 14]
-UAG          0-0 UNAM
-[Jan 15]
-UANL         0-0 Guadalajara
-Veracruz     2-0 Cruz Azul
-  [Pedro Osorio 12, Jorge Comas 79]
-Atlas        2-1 León
-  [Ricardo Lunari 60, Juan Carlos Chávez 78; Luis Antonio Valdez 88]
-[Jan 16]
-Morelia      1-0 U de G
-  [Jorge Guerrero 14]
-Toros Hidalgo 3-1 UAT
-  [Jaime Ramírez 17, José Luis Malibrán 42, Antonio Mohamed 89; Gerardo Durón 88]
-Necaxa       3-0 Atlante
-  [Ivo Basay 6, Ricardo Peláez 64, Alex Aguinaga 79]
-Puebla       1-1 Querétaro
-  [Milton Núnhez 60; Ángel Lemus 81] 
-Toluca       1-1 Monterrey
-  [Roberto Depietri 57; Mario Jáuregui 7]
-[Jan 17]
-América      1-1 Santos
-  [Germán Martellotto 85; Pedro Muñoz 86]
+Date: 1/14/1994
+
+;UAG  ;        0-0; UNAM
+
+Date: 1/15/1994
+
+;UANL  ;       0-0; Guadalajara
+
+; Veracruz    ; 2-0; Cruz Azul
+  Pedro Osorio 12, Jorge Comas 79;
+
+; Atlas       ; 2-1; Club León
+  Ricardo Lunari 60, Juan Carlos Chávez 78; Luis Antonio Valdez 88
+
+Date: 1/16/1994
+
+; Morelia     ; 1-0; U de G
+  Jorge Guerrero 14;
+
+; Toros Hidalgo; 3-1; UAT
+  Jaime Ramírez 17, José Luis Malibrán 42, Antonio Mohamed 89; Gerardo Durón 88
+
+; Necaxa      ; 3-0; Atlante
+  Ivo Basay 6, Ricardo Peláez 64, Alex Aguinaga 79;
+
+; Puebla      ; 1-1; Queretaro
+  Milton Núnhez 60; Ángel Lemus 81
+ 
+; Toluca      ; 1-1; Monterrey
+  Roberto Depietri 57; Mario Jáuregui 7
+
+Date: 1/17/1994
+
+; Club America     ; 1-1; Santos
+  Germán Martellotto 85; Pedro Muñoz 86
 
 Round: Round 26
-[Jan 21]
-Atlante      1-2 Veracruz
-  [Gastón Obledo 45; Jorge Comas 38, 48]
-[Jan 22]
-Cruz Azul    1-0 América
-  [Julio Zamora 62]
-Monterrey    2-2 Atlas
-  [Luis Hernández 15, Sergio Verdirame 17; Ricardo Lunari 59, Cristian Domizzi 87]
-León         1-1 UAG
-  [Luis Antonio Valdez 2; Jorge Luis Gabrich 65]
-Querétaro    1-1 Necaxa
-  [Martín Dall´Orso 9; Adrián Gallego 65pen] 
-U de G       0-2 UANL
-  [Gustavo Nápoles 57, 60]
-[Jan 23]
-Guadalajara  0-0 Toros Hidalgo
-Santos       3-3 Morelia
-  [Juan Antonio Flores Barrera 59, 67, Héctor Adomaitis 79; Luis Hernán Pérez 21, 27, 
-  Marco Antonio Figueroa 40]
-Toluca       1-0 UAT
-  [Nildeson Silva de Mello 76]
-UNAM         1-1 Puebla
-  [Leonel Bolsonello 76pen; Alí Fernández 64]
+Date: 1/21/1994
+
+; Atlante     ; 1-2; Veracruz
+  Gastón Obledo 45; Jorge Comas 38, Jorge Comas 48
+
+Date: 1/22/1994
+
+; Cruz Azul   ; 1-0; Club America
+  Julio Zamora 62;
+
+; Monterrey   ; 2-2; Atlas
+  Luis Hernández 15, Sergio Verdirame 17; Ricardo Lunari 59, Cristian Domizzi 87
+
+; Club León        ; 1-1; UAG
+  Luis Antonio Valdez 2; Jorge Luis Gabrich 65
+
+; Queretaro   ; 1-1; Necaxa
+  Martin Dall'Orso 9; Adrián Gallego (pk) 65
+ 
+; U de G      ; 0-2; UANL
+;  Gustavo Nápoles 57, Gustavo Napoles 60
+
+Date: 1/23/1994
+
+;Guadalajara;  0-0; Toros Hidalgo
+
+; Santos      ; 3-3; Morelia
+  Juan Antonio Flores Barrera 59, Juan Antonio Flores Barrera 67, Héctor Adomaitis 79; Luis Hernán Pérez 21, Luis Hernán Pérez 27, Marco Antonio Figueroa 40
+
+; Toluca      ; 1-0; UAT
+  Nildeson Silva de Mello 76;
+
+; UNAM        ; 1-1; Puebla
+  Leonel Bolsonello (pk) 76; Alí Fernández 64
 
 Round: Round 27
-[Jan 28]
-UAG          1-1 Monterrey
-  [Osmar Donizette 41; José Antonio Noriega 33]
-[Jan 29]
-Atlas        2-1 Toluca
-  [Cristian Domizzi 55, Luis Salazar 87; Arnulfo Tinoco 76]
-Necaxa       1-1 UNAM
-  [Ricardo Peláez 77; Claudio Suárez 43]
-UANL         1-3 Santos
-  [Geovani Silva 64pen; Juan Carlos Ortega 30og, Daniel Guzmán 74, 83pen]
-Veracruz     0-0 Querétaro
-[Jan 30]
-América      2-3 Atlante
-  [Germán Martellotto 18, 81; Luis Miguel Salvador 37pen, Gastón Obledo 69, 82]
-Morelia      2-2 Cruz Azul
-  [Marco Antonio Figueroa 54, 60pen; Carlos Hermosillo 13, Octavio Mora 20]
-UAT          2-0 Guadalajara
-  [Ricardo Chávez Medrano 63, Eduardo Hurtado 80]
-Puebla       1-0 León
-  [Narciso Cuevas 6]
-Toros Hidalgo 3-3 U de G
-  [José Luis Malibrán 21, Antonio Mohamed 38, Carlos Briseño 71; Ederval Lourenco 10, 
-  Rafael Gutiérrez Aldaco 50, Vanderlei da Silva 84]
+Date: 1/28/1994
+
+; UAG         ; 1-1; Monterrey
+  Osmar Donizette 41; José Antonio Noriega 33
+
+Date: 1/29/1994
+
+; Atlas       ; 2-1; Toluca
+  Cristian Domizzi 55, Luis Salazar 87; Arnulfo Tinoco 76
+
+; Necaxa      ; 1-1; UNAM
+  Ricardo Peláez 77; Claudio Suárez 43
+
+; UANL        ; 1-3; Santos
+  Geovani Silva (pk) 64; Juan Carlos Ortega (og) 30, Daniel Guzmán 74, Daniel Guzman (pk) 83
+
+;Veracruz  ;   0-0; Queretaro
+
+Date: 1/30/1994
+
+; Club America     ; 2-3; Atlante
+  Germán Martellotto 18, Germán Martellotto 81; Luis Miguel Salvador (pk) 37, Gastón Obledo 69, Gaston Obledo 82
+
+; Morelia     ; 2-2; Cruz Azul
+  Marco Antonio Figueroa 54, Marco Antonio Figueroa (pk) 60; Carlos Hermosillo 13, Octavio Mora 20
+
+; UAT         ; 2-0; Guadalajara
+  Ricardo Chávez Medrano 63, Eduardo Hurtado 80;
+
+; Puebla      ; 1-0; Club León
+  Narciso Cuevas 6;
+
+; Toros Hidalgo; 3-3; U de G
+  José Luis Malibrán 21, Antonio Mohamed 38, Carlos Briseño 71; Ederval Lourenco 10, Rafael Gutiérrez Aldaco 50, Vanderlei da Silva 84
 
 Round: Round 28
-[Feb 4]
-Atlante      2-2 Morelia
-  [Luis Miguel Salvador 56, 72; Marco Antonio Figueroa 10pen, Jaime Vera 63]
-[Feb 5]
-Cruz Azul    4-0 UANL
-  [Carlos Hermosillo 16pen, 37, 63, 71]
-Monterrey    1-1 Puebla
-  [Luis Hernández 68; Silmar Olindo 20]
-Querétaro    1-1 América
-  [Martín Dall´Orso 6; Juan Hernández 85]
-Atlas        3-0 UAT
-  [Cristian Domizzi 35, 54, Juan Carlos Chávez 57]
-[Feb 6]
-U de G       1-1 Guadalajara
-  [Rafael Gutiérrez Aldaco 89; Raúl Paredes 75]
-León         1-0 Necaxa
-  [Luis Antonio Valdez 89]
-Santos       1-0 Toros Hidalgo
-  [Juan Antonio Flores Barrera 67]
-Toluca       0-1 UAG
-  [Porfirio Jiménez 78]
-UNAM         4-0 Veracruz
-  [Vicente Nieto 16, Jesús Olalde 19, David Oteo 20, Sandro Coelho 81]
+Date: 2/4/1994
+
+; Atlante     ; 2-2; Morelia
+  Luis Miguel Salvador 56, Luis Miguel Salvador 72; Marco Antonio Figueroa (pk) 10, Jaime Vera 63
+
+Date: 2/5/1994
+
+; Cruz Azul   ; 4-0; UANL
+  Carlos Hermosillo (pk) 16, Carlos Hermosillo 37, Carlos Hermosillo 63, Carlos Hermosillo 71;
+
+; Monterrey   ; 1-1; Puebla
+  Luis Hernández 68; Silmar Olindo 20
+
+; Queretaro   ; 1-1; Club America
+  Martin Dall'Orso 6; Juan Hernández 85
+
+; Atlas       ; 3-0; UAT
+  Cristian Domizzi 35, Cristian Domizzi 54, Juan Carlos Chávez 57;
+
+Date: 2/6/1994
+
+; U de G      ; 1-1; Guadalajara
+  Rafael Gutiérrez Aldaco 89; Raúl Paredes 75
+
+; Club León        ; 1-0; Necaxa
+  Luis Antonio Valdez 89;
+
+; Santos      ; 1-0; Toros Hidalgo
+  Juan Antonio Flores Barrera 67;
+
+; Toluca      ; 0-1; UAG
+;  Porfirio Jiménez 78
+
+; UNAM        ; 4-0; Veracruz
+  Vicente Nieto 16, Jesús Olalde 19, David Oteo 20, Sandro Coelho 81;
 
 Round: Round 29
-[Feb 9]
-UAT          1-0 U de G
-  [Gerardo Manuel Reinoso 68]
-Guadalajara  1-1 Santos
-  [Manuel Martínez 41; Diego Silva 4]
-Necaxa       7-0 Monterrey
-  [Alex Aguinaga 30, Ivo Basay 47, 86, Ricardo Peláez 60, 77, 89, Alberto García Aspe 78pen]
-UANL         0-1 Atlante
-  [Luis Miguel Salvador 27]
-Toros Hidalgo 2-8 Cruz Azul
-  [Martín Simental 38, 44; Carlos Hermosillo 1, 35, 88, Pedro Duana 3, Luis Carlos de Oliveira 32, 
-  Julio Zamora 50, 57, 64]
-Veracruz     3-0 León
-  [Gustavo Gaytán 71, Joaquín del Olmo 75, Carlos Poblete 79]
-Morelia      4-1 Querétaro
-  [Luis Hernán Pérez 33, José Juan Morales 38, Marco Antonio Figueroa 67, 77; Martín Dall´Orso 69pen]
-Puebla       0-4 Toluca
-  [Jorge Rodríguez 22, Arnulfo Tinoco 58, Nildeson Silva de Mello 74, 78]
-[Feb 10]
-América      1-2 UNAM
-  [Antonio Carlos Santos 23pen; Jesús Olalde 16, Leonel Bolsonello 82]
-UAG          0-0 Atlas
+Date: 2/9/1994
+
+; UAT         ; 1-0; U de G
+  Gerardo Manuel Reinoso 68;
+
+; Guadalajara ; 1-1; Santos
+  Manuel Martínez 41; Diego Silva 4
+
+; Necaxa      ; 7-0; Monterrey
+  Alex Aguinaga 30, Ivo Basay 47, Ivo Basay 86, Ricardo Peláez 60, Ricardo Peláez 77, Ricardo Peláez 89, Alberto García Aspe (pk) 78;
+
+; UANL        ; 0-1; Atlante
+;  Luis Miguel Salvador 27
+
+; Toros Hidalgo; 2-8; Cruz Azul
+  Martín Simental 38, Martín Simental 44; Carlos Hermosillo 1, Carlos Hermosillo 35, Carlos Hermosillo 88, Pedro Duana 3, Luis Carlos de Oliveira 32, Julio Zamora 50, Julio Zamora 57, Julio Zamora 64
+
+; Veracruz    ; 3-0; Club León
+  Gustavo Gaytán 71, Joaquín del Olmo 75, Carlos Poblete 79;
+
+; Morelia     ; 4-1; Queretaro
+  Luis Hernán Pérez 33, José Juan Morales 38, Marco Antonio Figueroa 67, Marco Antonio Figueroa 77; Martin Dall'Orso (pk) 69
+
+; Puebla      ; 0-4; Toluca
+;  Jorge Rodríguez 22, Arnulfo Tinoco 58, Nildeson Silva de Mello 74, Nildeson Silva de Mello 78
+
+Date: 2/10/1994
+
+; Club America     ; 1-2; UNAM
+  Antonio Carlos Santos (pk) 23; Jesús Olalde 16, Leonel Bolsonello 82
+
+;UAG   ;       0-0; Atlas
  
 Round: Round 30
-[Feb 12]
-Cruz Azul    1-1 Guadalajara
-  [Pedro Duana 34; Ignacio Vázquez 72]
-Querétaro    3-1 UANL
-  [Martín Dall´Orso 55, 60, Markus López 86; Javier Lozano 85]
-Monterrey    3-2 Veracruz
-  [Carlos Bianchezi 22, Mario Jáuregui 40, Sergio Verdirame 89; José Luis González China 46pen, 
-  Joaquín del Olmo 88]
-[Feb 13]
-Atlas        0-0 Puebla
-León         1-0 América
-  [Isaac Ayipei 21]
-Santos       3-2 U de G
-  [Daniel Guzmán 8, 54, 86; Efrén Herrera 31, Rafael Gutiérrez Aldaco 48]
-Toluca       1-1 Necaxa
-  [Marcelino Bernal 40pen; Alberto García Aspe 46pen]
-UNAM         1-3 Morelia
-  [Jesús Olalde 10; Marco Antonio Figueroa 41, 43, Jaime Vera 82]
-[Feb 14]
-Atlante      5-1 Toros Hidalgo
-  [Gastón Obledo 11, 82, Luis Miguel Salvador 15, 21pen, Pedro Massacessi 58; Antonio Mohamed 38] 
-UAG          1-0 UAT
-  [Eustacio Rizo 89]
+Date: 2/12/1994
+
+; Cruz Azul   ; 1-1; Guadalajara
+  Pedro Duana 34; Ignacio Vázquez 72
+
+; Queretaro   ; 3-1; UANL
+  Martin Dall'Orso 55, Martin Dall'Orso 60, Markus López 86; Javier Lozano 85
+
+; Monterrey   ; 3-2; Veracruz
+  Carlos Bianchezi 22, Mario Jáuregui 40, Sergio Verdirame 89; José Luis González China (pk) 46, Joaquín del Olmo 88
+
+Date: 2/13/1994
+
+;Atlas  ;      0-0; Puebla
+
+; Club León        ; 1-0; Club America
+  Isaac Ayipei 21;
+
+; Santos      ; 3-2; U de G
+  Daniel Guzmán 8, Daniel Guzmán 54, Daniel Guzmán 86; Efrén Herrera 31, Rafael Gutiérrez Aldaco 48
+
+; Toluca      ; 1-1; Necaxa
+  Marcelino Bernal (pk) 40; Alberto García Aspe (pk) 46
+
+; UNAM        ; 1-3; Morelia
+  Jesús Olalde 10; Marco Antonio Figueroa 41, Marco Antonio Figueroa 43, Jaime Vera 82
+
+Date: 2/14/1994
+
+; Atlante     ; 5-1; Toros Hidalgo
+  Gastón Obledo 11, Gastón Obledo 82, Luis Miguel Salvador 15, Luis Miguel Salvador (pk) 21, Pedro Massacessi 58; Antonio Mohamed 38
+ 
+; UAG         ; 1-0; UAT
+  Eustacio Rizo 89;
  
 Round: Round 31
-[Feb 19]
-Necaxa       1-1 Atlas
-  [Alberto García Aspe 81pen; Cristian Domizzi 32]
-UANL         1-0 UNAM
-  [Marcelo Conte 62]
-U de G       1-1 Cruz Azul
-  [Glauco Dos Santos 3; Julio Zamora 78]
-Veracruz     1-0 Toluca
-  [José Luis González China 50pen]
-[Feb 20]
-América      6-0 Monterrey
-  [Antonio Carlos Santos 7pen, 13, Germán Martelloto 40, Francisco Uribe 41, 76, Joaquín Hernández 62]
-Morelia      0-0 León
-UAT          0-0 Santos
-Guadalajara  1-2 Atlante
-  [Ignacio Vázquez 69; Luis Miguel Salvador 81, Guillermo Cantú 83]
-Puebla       0-1 UAG
-  [Osmar Donizette 51]
-Toros Hidalgo 1-1 Querétaro
-  [Víctor Hugo Macedo 21og; Ángel Lemus 44]
- 
+Date: 2/19/1994
+
+; Necaxa      ; 1-1; Atlas
+  Alberto García Aspe (pk) 81; Cristian Domizzi 32
+
+; UANL        ; 1-0; UNAM
+  Marcelo Conte 62;
+
+; U de G      ; 1-1; Cruz Azul
+  Glauco Dos Santos 3; Julio Zamora 78
+
+; Veracruz    ; 1-0; Toluca
+  José Luis González China (pk) 50;
+
+Date: 2/20/1994
+
+; Club America     ; 6-0; Monterrey
+  Antonio Carlos Santos (pk) 7, Antonio Carlos Santos 13, Germán Martelloto 40, Francisco Uribe 41, Francisco Uribe 76, Joaquín Hernández 62;
+
+;Morelia    ;  0-0; Club León
+
+;UAT     ;     0-0; Santos
+
+; Guadalajara ; 1-2; Atlante
+  Ignacio Vázquez 69; Luis Miguel Salvador 81, Guillermo Cantú 83
+
+; Puebla      ; 0-1; UAG
+;  Osmar Donizette 51
+
+; Toros Hidalgo; 1-1; Queretaro
+  Víctor Hugo Macedo (og) 21; Ángel Lemus 44
+
 Round: Round 32
-[Feb 25]
-UNAM         2-0 Toros Hidalgo
-  [Jorge Santillana 10, Jesús Olalde 21]
-UAG          4-0 Necaxa
-  [Osmar Donizette 27, Jorge Luis Gabrich 39, Marcelo Goncálvez 59, 61]
-[Feb 26]
-Cruz Azul    0-0 Santos
-Monterrey    4-4 Morelia
-  [Mario Jáuregui 40, 89, José Antonio Noriega 87, 88; Jaime Vera 12, Marco Antonio Figueroa 35, 45, 68]
-Querétaro    0-1 Guadalajara
-  [Carlos Turrubiates 62]
-Atlas        1-2 Veracruz
-  [Luis Salazar 23; Miguel Hernández 9, Marco Antonio Díaz Ávalos 33]
-León         4-1 UANL
-  [Raúl Antonio Martínez 42, 79, Isaac Ayipei 47, Luis Antonio Valdez 61; Marco Antonio Ruiz 18]
-[Feb 27]
-Atlante      4-1 U de G
-  [César Suárez 17, 54, Raúl Gutiérrez 40, Roberto Andrade 79; Alberto Mariscal 41]
-Puebla       1-1 UAT
-  [Narciso Cuevas 60; Marco Antonio Fabián 89]
-Toluca       2-1 América
-  [José Manuel Abundis 22, Marcos Ayala 27; Pedro Pineda 52]
- 
+Date: 2/25/1994
+
+; UNAM        ; 2-0; Toros Hidalgo
+  Jorge Santillana 10, Jesús Olalde 21;
+
+; UAG         ; 4-0; Necaxa
+  Osmar Donizette 27, Jorge Luis Gabrich 39, Marcelo Goncálvez 59, Marcelo Goncálvez 61;
+
+Date: 2/26/1994
+
+;Cruz Azul;    0-0; Santos
+
+; Monterrey   ; 4-4; Morelia
+  Mario Jáuregui 40, Mario Jáuregui 89, José Antonio Noriega 87, José Antonio Noriega 88; Jaime Vera 12, Marco Antonio Figueroa 35, Marco Antonio Figueroa 45, Marco Antonio Figueroa 68
+
+; Queretaro   ; 0-1; Guadalajara
+;  Carlos Turrubiates 62
+
+; Atlas       ; 1-2; Veracruz
+  Luis Salazar 23; Miguel Hernández 9, Marco Antonio Díaz Ávalos 33
+
+; Club León        ; 4-1; UANL
+  Raúl Antonio Martínez 42, Raúl Antonio Martínez 79, Isaac Ayipei 47, Luis Antonio Valdez 61; Marco Antonio Ruiz 18
+
+Date: 2/27/1994
+
+; Atlante     ; 4-1; U de G
+  César Suárez 17, César Suárez 54, Raúl Gutiérrez 40, Roberto Andrade 79; Alberto Mariscal 41
+
+; Puebla      ; 1-1; UAT
+  Narciso Cuevas 60; Marco Antonio Fabián 89
+
+; Toluca      ; 2-1; Club America
+  José Manuel Abundis 22, Marcos Ayala 27; Pedro Pineda 52
+
 Round: Round 33
-[Mar 5]
-Necaxa       2-2 Puebla
-  [Ivo Basay 60, Alberto García Aspe 73; Dioney Carlos 35, Arturo Álvarez 47]
-UANL         2-4 Monterrey
-  [Marco Antonio Ruiz 42, 81; José Nieves Castro 47, 58, Martín Hernández 22, Mario Jáuregui 59]
-U de G       1-1 Querétaro
-  [Alberto Mariscal 8; Robson da Silva 59]
-Veracruz     0-1 UAG
-  [Jorge Luis Gabrich 53]
-[Mar 6]
-América      3-1 Atlas
-  [Guillermo Naranjo 70, Gonzalo Farfán 73, Germán Martellotto 74; Cristian Domizzi 29]
-Morelia      0-2 Toluca
-  [Marcos Ayala 51, Jorge Rodríguez 73]
-UAT          0-2 Cruz Azul
-  [Carlos Hermosillo 38, Julio Zamora 67]
-Guadalajara  0-0 UNAM
-Santos       3-2 Atlante
-  [Richard Zambrano 18, Héctor Adomaitis 58, Jesús Gómez 81; Luis Miguel Salvador 29, Guillermo Cantú 57]
-Toros Hidalgo 3-2 León
-  [Martín Simental 6, 20, Mauricio Rojano 78; Luis Antonio Valdez 25, Víctor García Reza 46]
- 
+Date: 3/5/1994
+
+; Necaxa      ; 2-2; Puebla
+  Ivo Basay 60, Alberto García Aspe 73; Dioney Carlos 35, Arturo Álvarez 47
+
+; UANL        ; 2-4; Monterrey
+  Marco Antonio Ruiz 42, Marco Antonio Ruiz 81; José Nieves Castro 47, José Nieves Castro 58, Martín Hernández 22, Mario Jáuregui 59
+
+; U de G      ; 1-1; Queretaro
+  Alberto Mariscal 8; Robson da Silva 59
+
+; Veracruz    ; 0-1; UAG
+;  Jorge Luis Gabrich 53
+
+Date: 3/6/1994
+
+; Club America     ; 3-1; Atlas
+  Guillermo Naranjo 70, Gonzalo Farfán 73, Germán Martellotto 74; Cristian Domizzi 29
+
+; Morelia     ; 0-2; Toluca
+;  Marcos Ayala 51, Jorge Rodríguez 73
+
+; UAT         ; 0-2; Cruz Azul
+;  Carlos Hermosillo 38, Julio Zamora 67
+
+;Guadalajara ; 0-0; UNAM
+
+; Santos      ; 3-2; Atlante
+  Richard Zambrano 18, Héctor Adomaitis 58, Jesús Gómez 81; Luis Miguel Salvador 29, Guillermo Cantú 57
+
+; Toros Hidalgo; 3-2; Club León
+  Martín Simental 6, Martín Simental 20, Mauricio Rojano 78; Luis Antonio Valdez 25, Víctor García Reza 46
+
 Round: Round 34
-[Mar 11]
-Necaxa       2-2 UAT
-  [Ricardo Peláez 74, Ivo Basay 81; Gerardo Reinoso 12, Marco Antonio Fabián 87]
-UAG          4-0 América
-  [Raúl Rodrigo Lara 41og, Guillermo Vázquez 68pen, Osmar Donizette 78, Eustacio Rizo 88]
-[Mar 12]
-Atlas        4-0 Morelia
-  [Ricardo Lunari 15, 86, Damián Álvarez 28, Sergio Pacheco 62]
-Monterrey    2-1 Toros Hidalgo
-  [Manuel Dávila 61, José Nieves Castro 85; Víctor Ríos 79]
-UNAM         2-0 U de G
-  [Claudio Suárez 1, Sandro Coelho 82]
-Querétaro    1-1 Santos
-  [Bulmaro González 16; Héctor Adomaitis 55]
-León         0-0 Guadalajara
-[Mar 13]
-Toluca       3-0 UANL
-  [Marcelino Bernal 8, Arnulfo Tinoco 62, Sigifredo Mercado 64]
-Atlante      1-2 Cruz Azul
-  [César Suárez 61; Carlos Hermosillo 71pen, 80]
-Puebla       0-1 Veracruz
-  [Elías Ledesma 89]
+Date: 3/11/1994
+
+; Necaxa      ; 2-2; UAT
+  Ricardo Peláez 74, Ivo Basay 81; Gerardo Reinoso 12, Marco Antonio Fabián 87
+
+; UAG         ; 4-0; Club America
+  Raúl Rodrigo Lara (og) 41, Guillermo Vázquez (pk) 68, Osmar Donizette 78, Eustacio Rizo 88;
+
+Date: 3/12/1994
+
+; Atlas       ; 4-0; Morelia
+  Ricardo Lunari 15, Ricardo Lunari 86, Damián Álvarez 28, Sergio Pacheco 62;
+
+; Monterrey   ; 2-1; Toros Hidalgo
+  Manuel Dávila 61, José Nieves Castro 85; Víctor Ríos 79
+
+; UNAM        ; 2-0; U de G
+  Claudio Suárez 1, Sandro Coelho 82;
+
+; Queretaro   ; 1-1; Santos
+  Bulmaro González 16; Héctor Adomaitis 55
+
+;Club León      ;   0-0; Guadalajara
+
+Date: 3/13/1994
+
+; Toluca      ; 3-0; UANL
+  Marcelino Bernal 8, Arnulfo Tinoco 62, Sigifredo Mercado 64;
+
+; Atlante     ; 1-2; Cruz Azul
+  César Suárez 61; Carlos Hermosillo (pk) 71, Carlos Hermosillo 80
+
+; Puebla      ; 0-1; Veracruz
+;  Elías Ledesma 89
  
 Round: Round 35
-[Mar 15]
-U de G       0-3 León
-  [Mario Arteaga 45, Isaac Ayipei 81, 89]
-[Mar 16]
-Morelia      3-1 UAG
-  [Marco Antonio Figueroa 51, 82, José Juan Morales 63; Jorge Luis Gabrich 41]
-UAT          2-3 Atlante
-  [Miguel Ángel Murillo 56, 89; Gastón Obledo 12, Pedro Massacessi 47, 49]
-Cruz Azul    1-0 Querétaro
-  [Octavio Mora 88]
-Guadalajara  1-0 Monterrey
-  [Paulo César Chávez 49]
-Santos       3-1 UNAM
-  [Juan Antonio Flores Barrera 15, 27, Richard Zambrano 51; Leonel Bolsonello 24pen]
-UANL         1-1 Atlas
-  [Carlos Eduardo Muñoz 44; Eduardo Berizzo 89]
-Toros Hidalgo 2-3 Toluca
-  [Jaime Ramírez 80, Manuel Negrete 82; Marcelino Bernal 36, Nildeson Silva de Melo 58, Roberto Depietri 83]
-Veracruz     3-0 Necaxa
-  [Carlos Poblete 21, Gustavo Gaytán 74, Joaquín del Olmo 85]
-[Mar 17]
-América      2-0 Puebla
-  [Antonio Carlos Santos 56, Germán Martellotto 83]
- 
+Date: 3/15/1994
+
+; U de G      ; 0-3; Club León
+;  Mario Arteaga 45, Isaac Ayipei 81, Isaac Ayipei 89
+
+Date: 3/16/1994
+
+; Morelia     ; 3-1; UAG
+  Marco Antonio Figueroa 51, Marco Antonio Figueroa 82, José Juan Morales 63; Jorge Luis Gabrich 41
+
+; UAT         ; 2-3; Atlante
+  Miguel Ángel Murillo 56, Miguel Ángel Murillo 89; Gastón Obledo 12, Pedro Massacessi 47, Pedro Massacessi 49
+
+; Cruz Azul   ; 1-0; Queretaro
+  Octavio Mora 88;
+
+; Guadalajara ; 1-0; Monterrey
+  Paulo César Chávez 49;
+
+; Santos      ; 3-1; UNAM
+  Juan Antonio Flores Barrera 15, Juan Antonio Flores Barrera 27, Richard Zambrano 51; Leonel Bolsonello (pk) 24
+
+; UANL        ; 1-1; Atlas
+  Carlos Eduardo Muñoz 44; Eduardo Berizzo 89
+
+; Toros Hidalgo; 2-3; Toluca
+  Jaime Ramírez 80, Manuel Negrete 82; Marcelino Bernal 36, Nildeson Silva de Melo 58, Roberto Depietri 83
+
+; Veracruz    ; 3-0; Necaxa
+  Carlos Poblete 21, Gustavo Gaytán 74, Joaquín del Olmo 85;
+
+Date: 3/17/1994
+
+; Club America     ; 2-0; Puebla
+  Antonio Carlos Santos 56, Germán Martellotto 83;
+
 Round: Round 36
-[Mar 19]
-Atlas        3-0 Toros Hidalgo
-  [Sergio Pacheco 34, Juan Carlos Chávez 36, Martín Félix Ubaldi 53]
-Monterrey    3-0 U de G
-  [Luis Hernández 24, Mario Jáuregui 67, Sergio Verdirame 85]
-UNAM         1-2 Cruz Azul
-  [Jesús Olalde 63; Julio Zamora 30, 48]
-Querétaro    2-4 Atlante
-  [Robson da Silva 26, 64; Gastón Obledo 28, Wilson Graneolatti 50, Luis Miguel Salvador 66, 82]
-León         6-2 Santos
-  [Isaac Ayipei 1, Mario Arteaga 9, 66, Luis Antonio Valdez 69, Videmar Pessoa 76pen, Ricardo Cadena 86; 
-  Ramón Ramírez 24, Richard Zambrano 33]
-Veracruz     2-1 UAT
-  [Joaquín del Olmo 34, José Luis González China 64; Miguel Ángel Murillo 18]
-[Mar 20]
-UAG          0-0 UANL
-Toluca       1-2 Guadalajara
-  [Roberto Depietri 89; Alberto García 14, Ignacio Vázquez 23]
-Necaxa       1-0 América
-  [Ivo Basay 61]
-Puebla       2-3 Morelia
-  [Salvador Reyes 51, Gerardo González 52; Marco Antonio Figueroa 8, Luis Hernán Pérez 43, 
-  Héctor González Chaires 87]
- 
+Date: 3/19/1994
+
+; Atlas       ; 3-0; Toros Hidalgo
+  Sergio Pacheco 34, Juan Carlos Chávez 36, Martín Félix Ubaldi 53;
+
+; Monterrey   ; 3-0; U de G
+  Luis Hernández 24, Mario Jáuregui 67, Sergio Verdirame 85;
+
+; UNAM        ; 1-2; Cruz Azul
+  Jesús Olalde 63; Julio Zamora 30, Julio Zamora48
+
+; Queretaro   ; 2-4; Atlante
+  Robson da Silva 26, Robson da Silva 64; Gastón Obledo 28, Wilson Graneolatti 50, Luis Miguel Salvador 66, Luis Miguel Salvador 82
+
+; Club León        ; 6-2; Santos
+  Isaac Ayipei 1, Mario Arteaga 9, Mario Arteaga 66, Luis Antonio Valdez 69, Videmar Pessoa (pk) 76, Ricardo Cadena 86; Ramón Ramírez 24, Richard Zambrano 33
+
+; Veracruz    ; 2-1; UAT
+  Joaquín del Olmo 34, José Luis González China 64; Miguel Ángel Murillo 18
+
+Date: 3/20/1994
+
+;UAG    ;      0-0; UANL
+
+; Toluca      ; 1-2; Guadalajara
+  Roberto Depietri 89; Alberto García 14, Ignacio Vázquez 23
+
+; Necaxa      ; 1-0; Club America
+  Ivo Basay 61;
+
+; Puebla      ; 2-3; Morelia
+  Salvador Reyes 51, Gerardo González 52; Marco Antonio Figueroa 8, Luis Hernán Pérez 43, Héctor González Chaires 87
+
 Round: Round 37
-[Mar 25]
-Atlante      0-1 UNAM
-  [Jorge Campos 18]
-[Mar 26]
-Cruz Azul    0-1 León
-  [Isaac Ayipei 58]
-UANL         1-0 Puebla
-  [Carlos Eduardo Muñoz 75]
-Querétaro    3-0 UAT
-  [Robson da Silva 18, Martín D´Allorso 47, Jorge Ramos 89]
-U de G       0-0 Toluca
-[Mar 27]
-Guadalajara  0-0 Atlas
-América      5-1 Veracruz
-  [Cecilio de los Santos 6, Germán Martellotto 41, 84, Luis Roberto Alves 58, 88; Elías Ledesma 85]
-Morelia      2-0 Necaxa
-  [Camilo Romero 2, Marco Antonio Figueroa 59]
-Toros Hidalgo 1-1 UAG
-  [Antonio Mohamed 72; Guillermo Vázquez 83]
-Santos       3-0 Monterrey
-  [Rubén Martínez 36, Héctor Adomaitis 55, 87]
+Date: 3/25/1994
+
+; Atlante     ; 0-1; UNAM
+;  Jorge Campos 18
+
+Date: 3/26/1994
+
+; Cruz Azul   ; 0-1; Club León
+;  Isaac Ayipei 58
+
+; UANL        ; 1-0; Puebla
+  Carlos Eduardo Muñoz 75;
+
+; Queretaro   ; 3-0; UAT
+  Robson da Silva 18, Martín D´Allorso 47, Jorge Ramos 89;
+
+;U de G   ;    0-0; Toluca
+
+Date: 3/27/1994
+
+;Guadalajara ; 0-0; Atlas
+
+; Club America     ; 5-1; Veracruz
+  Cecilio de los Santos 6, Germán Martellotto 41, Germán Martellotto 84, Luis Roberto Alves 58, Luis Roberto Alves 88; Elías Ledesma 85
+
+; Morelia     ; 2-0; Necaxa
+  Camilo Romero 2, Marco Antonio Figueroa 59;
+
+; Toros Hidalgo; 1-1; UAG
+  Antonio Mohamed 72; Guillermo Vázquez 83
+
+; Santos      ; 3-0; Monterrey
+  Rubén Martínez 36, Héctor Adomaitis 55, Hector Adomaitis 87;
  
 Round: Round 38
-[Mar 30]
-UAG          2-1 Guadalajara
-  [José Luis Salgado 43, Juan Parra 83; Gabriel García 20]
-[Apr 2]
-Atlas        2-1 U de G
-  [Cristian Domizzi 64, Ricardo Lunari 78; Luis Landeros 54]  
-Monterrey    1-3 Cruz Azul
-  [Sergio Verdirame 88; Pedro Duana 2, Carlos Hermosillo 30, 76]
-León         2-1 Atlante
-  [Luis Antonio Valdez 45, Guillermo Muñoz 77; Luis Miguel Salvador 23]
-UNAM         2-1 Querétaro
-  [Jorge Santillana 46, Claudio Suárez 59; Sergio Rodríguez 87]
-Puebla       3-2 Toros Hidalgo
-  [Silmar Olindo 4, Ali Fernández 41, 83; Antonio Mohamed 47pen, Carlos Briseño 75]
-Veracruz     1-2 Morelia
-  [Carlos Poblete 7; Oscar Pantoja 60, Marco Antonio Figueroa 63]
-UAT          1-1 América
-  [Alfonso Rubio 40; Francisco Uribe 73]
-Toluca       3-0 Santos
-  [José Manuel Abundis 50, Jorge Rodríguez 55, Roberto Depietri 86]
-Necaxa       2-1 UANL
-  [Ivo Basay 38, Ignacio Ambriz 81; Marco Antonio Ruiz 2]
- 
+Date: 3/30/1994
+
+; UAG         ; 2-1; Guadalajara
+  José Luis Salgado 43, Juan Parra 83; Gabriel García 20
+
+Date: 4/2/1994
+
+; Atlas       ; 2-1; U de G
+  Cristian Domizzi 64, Ricardo Lunari 78; Luis Landeros 54
+  
+; Monterrey   ; 1-3; Cruz Azul
+  Sergio Verdirame 88; Pedro Duana 2, Carlos Hermosillo 30, Carlos Hermosillo 76
+
+; Club León        ; 2-1; Atlante
+  Luis Antonio Valdez 45, Guillermo Muñoz 77; Luis Miguel Salvador 23
+
+; UNAM        ; 2-1; Queretaro
+  Jorge Santillana 46, Claudio Suárez 59; Sergio Rodríguez 87
+
+; Puebla      ; 3-2; Toros Hidalgo
+  Silmar Olindo 4, Ali Fernández 41, Ali Fernandez 83; Antonio Mohamed (pk) 47, Carlos Briseño 75
+
+; Veracruz    ; 1-2; Morelia
+  Carlos Poblete 7; Oscar Pantoja 60, Marco Antonio Figueroa 63
+
+; UAT         ; 1-1; Club America
+  Alfonso Rubio 40; Francisco Uribe 73
+
+; Toluca      ; 3-0; Santos
+  José Manuel Abundis 50, Jorge Rodríguez 55, Roberto Depietri 86;
+
+; Necaxa      ; 2-1; UANL
+  Ivo Basay 38, Ignacio Ambriz 81; Marco Antonio Ruiz 2
+
 *Group 1                   P   W   T   L  GF  GA  DIF PTS
 ** 1.- Santos             38  16  13   9  58  56   +2  45
 ** 2.- Necaxa             38  12  15  11  54  52   +2  39
@@ -983,13 +1423,13 @@ Necaxa       2-1 UANL
 ** 1.- Atlante            38  19   4  15  78  59  +19  42
 ** 2.- Morelia            38  14  11  13  64  65   -2  39
 *  3.- UNAM               38  15   8  15  57  46  +11  38
-*  4.- León               38  14  10  14  47  50   -3  38
-*  5.- Querétaro          38   6  16  16  38  59  -21  28 (relegated)
+*  4.- Club León               38  14  10  14  47  50   -3  38
+*  5.- Queretaro          38   6  16  16  38  59  -21  28 (relegated)
 *
 *Group 3                   P   W   T   L  GF  GA  DIF PTS
 ** 1.- Cruz Azul          38  18  12   8  62  33  +29  48
 ** 2.- Toluca             38  18  10  10  54  32  +22  46
-** 3.- América            38  17   6  15  67  51  +16  40
+** 3.- Club America            38  17   6  15  67  51  +16  40
 *  4.- Veracruz           38  12  10  16  50  65  -15  34
 *  5.- UAT                38   6  15  17  36  53  -17  27
 *

@@ -5,7 +5,7 @@ BlockSource: http://www.rsssf.com/tablesm/mex79.html
 
 *Group 1                   P   W   T   L  GF  GA   PTS
 *  1.- Monterrey          38  14  12  12  52  43    40  Championship Playoff
-*  2.- América            38  14   9  15  58  49    37  Championship Playoff
+*  2.- Club America            38  14   9  15  58  49    37  Championship Playoff
 *  3.- Guadalajara        38  11  13  14  43  56    35
 *  4.- Atlante            38   9  13  16  51  56    31
 *  5.- Veracruz           38   7   9  22  35  83    23  Relegated
@@ -13,7 +13,7 @@ BlockSource: http://www.rsssf.com/tablesm/mex79.html
 *  1.- U.N.A.M.           38  17  11  10  77  57    45  Championship Playoff
 *  2.- Atlético Potosino  38  19   7  13  58  55    45  Championship Playoff
 *  3.- Tampico            38  11  13  14  59  65    35
-*  4.- León               38  13   7  18  50  67    31
+*  4.- Club León               38  13   7  18  50  67    31
 *  5.- Jalisco            38   8  12  18  49  67    28
 *Group 3                   P   W   T   L  GF  GA   PTS
 *  1.- Cruz Azul          38  19  13   6  70  32    51  Championship Playoff
@@ -30,14 +30,14 @@ BlockSource: http://www.rsssf.com/tablesm/mex79.html
 
 Round: Round 1                                       
 
-; Cruz Azul           ; 2 - 2; León                
+; Cruz Azul           ; 2 - 2; Club León                
 ; Zacatepec           ; 4 - 1; Tigres              
 ; Monterrey           ; 1 - 0; Jalisco             
 ; U.A.G.              ; 2 - 1; U.de G.             
 ; U.de Curtidores     ; 2 - 2; Atlante             
-; América             ; 2 - 1; Tampico             
-; A.Español           ; 0 - 3; Toluca              
-; Puebla              ; 1 - 0; Neza                
+; Club America             ; 2 - 1; Tampico             
+; Atletico Espanol           ; 0 - 3; Toluca              
+; Puebla              ; 1 - 0; Deportivo Neza                
 ; A.Potosino          ; 1 - 4; U.N.A.M.            
 ; Veracruz            ; 2 - 0; Guadalajara         
                                                
@@ -48,60 +48,60 @@ Round: Round 2
 ; U.de G.             ; 3 - 0; Monterrey           
 ; Tigres              ; 2 - 1; U.A.G.              
 ; Tampico             ; 0 - 0; U.de Curtidores     
-; Neza                ; 1 - 0; América             
-; Jalisco             ; 1 - 2; A.Español           
+; Deportivo Neza                ; 1 - 0; Club America             
+; Jalisco             ; 1 - 2; Atletico Espanol           
 ; Toluca              ; 3 - 0; Puebla              
-; León                ; 0 - 1; A.Potosino          
+; Club León                ; 0 - 1; A.Potosino          
 ; U.N.A.M.            ; 1 - 1; Veracruz            
                                                
 Round: Round 3                                       
 
 ; A.Potosino          ; 1 - 0; Atlante             
 ; U.A.G.              ; 1 - 1; Guadalajara         
-; A.Español           ; 1 - 2; U.de G.             
+; Atletico Espanol           ; 1 - 2; U.de G.             
 ; Monterrey           ; 0 - 0; Tigres              
 ; U.de Curtidores     ; 2 - 0; Cruz Azul           
-; Tampico             ; 0 - 1; Neza                
+; Tampico             ; 0 - 1; Deportivo Neza                
 ; Puebla              ; 3 - 1; Jalisco             
-; América             ; 2 - 0; Toluca              
-; Veracruz            ; 1 - 1; León                
+; Club America             ; 2 - 0; Toluca              
+; Veracruz            ; 1 - 1; Club León                
 ; Zacatepec           ; 2 - 2; U.N.A.M.            
                                                
 Round: Round 4                                       
 
 ; Cruz Azul           ; 4 - 0; A.Potosino          
 ; U.N.A.M.            ; 2 - 1; U.A.G.              
-; Tigres              ; 2 - 1; A.Español           
+; Tigres              ; 2 - 1; Atletico Espanol           
 ; Guadalajara         ; 2 - 1; Monterrey           
-; Neza                ; 1 - 3; U.de Curtidores     
+; Deportivo Neza                ; 1 - 3; U.de Curtidores     
 ; Toluca              ; 2 - 1; Tampico             
 ; U.de G.             ; 1 - 1; Puebla              
-; Jalisco             ; 0 - 3; América             
+; Jalisco             ; 0 - 3; Club America             
 ; Atlante             ; 2 - 1; Veracruz            
-; León                ; 1 - 2; Zacatepec           
+; Club León                ; 1 - 2; Zacatepec           
                                                
 Round: Round 5                                       
 
 ; Veracruz            ; 0 - 1; Cruz Azul           
 ; Monterrey           ; 2 - 2; U.N.A.M.            
 ; Puebla              ; 0 - 2; Tigres              
-; A.Español           ; 0 - 1; Guadalajara         
+; Atletico Espanol           ; 0 - 1; Guadalajara         
 ; U.de Curtidores     ; 2 - 3; A.Potosino          
-; Neza                ; 0 - 0; Toluca              
-; América             ; 3 - 2; U.de G.             
+; Deportivo Neza                ; 0 - 0; Toluca              
+; Club America             ; 3 - 2; U.de G.             
 ; Tampico             ; 3 - 3; Jalisco             
 ; Zacatepec           ; 2 - 2; Atlante             
-; U.A.G.              ; 6 - 1; León                
+; U.A.G.              ; 6 - 1; Club León                
                                                
 Round: Round 6                                       
 
 ; A.Potosino          ; 4 - 1; Veracruz            
-; León                ; 0 - 0; Monterrey           
+; Club León                ; 0 - 0; Monterrey           
 ; Guadalajara         ; 3 - 1; Puebla              
-; U.N.A.M.            ; 4 - 1; A.Español           
+; U.N.A.M.            ; 4 - 1; Atletico Espanol           
 ; Toluca              ; 3 - 2; U.de Curtidores     
-; Jalisco             ; 0 - 0; Neza                
-; Tigres              ; 3 - 2; América             
+; Jalisco             ; 0 - 0; Deportivo Neza                
+; Tigres              ; 3 - 2; Club America             
 ; U.de G.             ; 3 - 4; Tampico             
 ; Cruz Azul           ; 3 - 1; Zacatepec           
 ; Atlante             ; 0 - 0; U.A.G.              
@@ -109,26 +109,26 @@ Round: Round 6
 Round: Round 7                                       
 
 ; Zacatepec           ; 1 - 1; A.Potosino          
-; A.Español           ; 0 - 3; León                
-; América             ; 0 - 0; Guadalajara         
+; Atletico Espanol           ; 0 - 3; Club León                
+; Club America             ; 0 - 0; Guadalajara         
 ; Puebla              ; 1 - 1; U.N.A.M.            
 ; U.de Curtidores     ; 2 - 1; Veracruz            
 ; Toluca              ; 2 - 2; Jalisco             
 ; Tampico             ; 0 - 2; Tigres              
-; Neza                ; 2 - 1; U.de G.             
+; Deportivo Neza                ; 2 - 1; U.de G.             
 ; U.A.G.              ; 1 - 0; Cruz Azul           
 ; Monterrey           ; 3 - 1; Atlante             
                                                
 Round: Round 8                                       
 
 ; Veracruz            ; 1 - 0; Zacatepec           
-; Atlante             ; 2 - 2; A.Español           
-; U.N.A.M.            ; 2 - 0; América             
-; León                ; 2 - 1; Puebla              
+; Atlante             ; 2 - 2; Atletico Espanol           
+; U.N.A.M.            ; 2 - 0; Club America             
+; Club León                ; 2 - 1; Puebla              
 ; Jalisco             ; 2 - 0; U.de Curtidores     
 ; U.de G.             ; 0 - 3; Toluca              
 ; Guadalajara         ; 2 - 2; Tampico             
-; Tigres              ; 1 - 0; Neza                
+; Tigres              ; 1 - 0; Deportivo Neza                
 ; A.Potosino          ; 1 - 1; U.A.G.              
 ; Cruz Azul           ; 1 - 1; Monterrey           
                                                
@@ -137,130 +137,130 @@ Round: Round 9
 ; U.A.G.              ; 3 - 0; Veracruz            
 ; Puebla              ; 2 - 1; Atlante             
 ; Tampico             ; 3 - 0; U.N.A.M.            
-; América             ; 3 - 1; León                
+; Club America             ; 3 - 1; Club León                
 ; U.de Curtidores     ; 3 - 0; Zacatepec           
 ; Jalisco             ; 2 - 1; U.de G.             
-; Neza                ; 2 - 3; Guadalajara         
+; Deportivo Neza                ; 2 - 3; Guadalajara         
 ; Toluca              ; 2 - 2; Tigres              
 ; Monterrey           ; 1 - 0; A.Potosino          
-; A.Español           ; 1 - 1; Cruz Azul           
+; Atletico Espanol           ; 1 - 1; Cruz Azul           
                                                
 Round: Round 10                                       
 
 ; Zacatepec           ; 1 - 1; U.A.G.              
 ; Cruz Azul           ; 3 - 0; Puebla              
-; León                ; 4 - 4; Tampico             
-; Atlante             ; 2 - 1; América             
+; Club León                ; 4 - 4; Tampico             
+; Atlante             ; 2 - 1; Club America             
 ; U.de G.             ; 2 - 1; U.de Curtidores     
 ; Tigres              ; 2 - 2; Jalisco             
-; U.N.A.M.            ; 2 - 0; Neza                
+; U.N.A.M.            ; 2 - 0; Deportivo Neza                
 ; Guadalajara         ; 1 - 0; Toluca              
 ; Veracruz            ; 1 - 4; Monterrey           
-; A.Potosino          ; 0 - 3; A.Español           
+; A.Potosino          ; 0 - 3; Atletico Espanol           
                                                
 Round: Round 11                                       
 
 ; Monterrey           ; 0 - 2; Zacatepec           
-; América             ; 0 - 0; Cruz Azul           
-; Neza                ; 0 - 1; León                
+; Club America             ; 0 - 0; Cruz Azul           
+; Deportivo Neza                ; 0 - 1; Club León                
 ; Tampico             ; 3 - 2; Atlante             
 ; U.de Curtidores     ; 1 - 2; U.A.G.              
 ; U.de G.             ; 1 - 2; Tigres              
 ; Toluca              ; 4 - 0; U.N.A.M.            
 ; Jalisco             ; 3 - 1; Guadalajara         
-; A.Español           ; 4 - 2; Veracruz            
+; Atletico Espanol           ; 4 - 2; Veracruz            
 ; Puebla              ; 4 - 1; A.Potosino          
                                                
 Round: Round 12                                       
 
 ; U.A.G.              ; 1 - 1; Monterrey           
-; A.Potosino          ; 0 - 2; América             
-; Atlante             ; 1 - 1; Neza                
+; A.Potosino          ; 0 - 2; Club America             
+; Atlante             ; 1 - 1; Deportivo Neza                
 ; Cruz Azul           ; 2 - 1; Tampico             
 ; Tigres              ; 1 - 1; U.de Curtidores     
 ; Guadalajara         ; 2 - 2; U.de G.             
-; León                ; 2 - 3; Toluca              
+; Club León                ; 2 - 3; Toluca              
 ; U.N.A.M.            ; 3 - 1; Jalisco             
-; Zacatepec           ; 1 - 1; A.Español           
+; Zacatepec           ; 1 - 1; Atletico Espanol           
 ; Veracruz            ; 0 - 2; Puebla              
                                                
 Round: Round 13                                       
 
-; A.Español           ; 2 - 1; U.A.G.              
+; Atletico Espanol           ; 2 - 1; U.A.G.              
 ; Tampico             ; 2 - 0; A.Potosino          
 ; Toluca              ; 2 - 3; Atlante             
-; Neza                ; 1 - 0; Cruz Azul           
+; Deportivo Neza                ; 1 - 0; Cruz Azul           
 ; U.de Curtidores     ; 0 - 0; Monterrey           
 ; Tigres              ; 1 - 0; Guadalajara         
-; Jalisco             ; 1 - 2; León                
+; Jalisco             ; 1 - 2; Club León                
 ; U.de G.             ; 1 - 2; U.N.A.M.            
 ; Puebla              ; 1 - 1; Zacatepec           
-; América             ; 4 - 2; Veracruz            
+; Club America             ; 4 - 2; Veracruz            
                                                
 Round: Round 14                                       
 
-; Monterrey           ; 1 - 0; A.Español           
+; Monterrey           ; 1 - 0; Atletico Espanol           
 ; Veracruz            ; 1 - 1; Tampico             
 ; Cruz Azul           ; 3 - 2; Toluca              
-; A.Potosino          ; 3 - 1; Neza                
+; A.Potosino          ; 3 - 1; Deportivo Neza                
 ; Guadalajara         ; 2 - 0; U.de Curtidores     
 ; U.N.A.M.            ; 4 - 2; Tigres              
 ; Atlante             ; 4 - 1; Jalisco             
-; León                ; 1 - 1; U.de G.             
+; Club León                ; 1 - 1; U.de G.             
 ; U.A.G.              ; 1 - 1; Puebla              
-; Zacatepec           ; 3 - 0; América             
+; Zacatepec           ; 3 - 0; Club America             
                                                
 Round: Round 15                                       
 
 ; Puebla              ; 3 - 1; Monterrey           
-; Neza                ; 2 - 1; Veracruz            
+; Deportivo Neza                ; 2 - 1; Veracruz            
 ; Jalisco             ; 2 - 1; Cruz Azul           
 ; Toluca              ; 0 - 0; A.Potosino          
-; U.de Curtidores     ; 1 - 0; A.Español           
+; U.de Curtidores     ; 1 - 0; Atletico Espanol           
 ; Guadalajara         ; 1 - 0; U.N.A.M.            
 ; U.de G.             ; 2 - 1; Atlante             
-; Tigres              ; 2 - 1; León                
-; América             ; 1 - 2; U.A.G.              
+; Tigres              ; 2 - 1; Club León                
+; Club America             ; 1 - 2; U.A.G.              
 ; Tampico             ; 2 - 3; Zacatepec           
                                                
 Round: Round 16                                       
 
-; A.Español           ; 1 - 0; Puebla              
-; Zacatepec           ; 1 - 1; Neza                
+; Atletico Espanol           ; 1 - 0; Puebla              
+; Zacatepec           ; 1 - 1; Deportivo Neza                
 ; A.Potosino          ; 0 - 0; Jalisco             
 ; Veracruz            ; 1 - 1; Toluca              
 ; U.N.A.M.            ; 1 - 1; U.de Curtidores     
-; León                ; 2 - 1; Guadalajara         
+; Club León                ; 2 - 1; Guadalajara         
 ; Cruz Azul           ; 0 - 0; U.de G.             
 ; Atlante             ; 0 - 1; Tigres              
-; Monterrey           ; 1 - 1; América             
+; Monterrey           ; 1 - 1; Club America             
 ; U.A.G.              ; 1 - 1; Tampico             
                                                
 Round: Round 17                                       
 
-; América             ; 3 - 3; A.Español           
+; Club America             ; 3 - 3; Atletico Espanol           
 ; Toluca              ; 1 - 0; Zacatepec           
 ; U.de G.             ; 2 - 1; A.Potosino          
 ; Jalisco             ; 0 - 1; Veracruz            
 ; U.de Curtidores     ; 2 - 2; Puebla              
-; U.N.A.M.            ; 3 - 1; León                
+; U.N.A.M.            ; 3 - 1; Club León                
 ; Tigres              ; 0 - 0; Cruz Azul           
 ; Guadalajara         ; 3 - 3; Atlante             
 ; Tampico             ; 2 - 2; Monterrey           
-; Neza                ; 1 - 1; U.A.G.              
+; Deportivo Neza                ; 1 - 1; U.A.G.              
                                                
 Round: Round 18                                       
 
-; Puebla              ; 2 - 1; América             
+; Puebla              ; 2 - 1; Club America             
 ; U.A.G.              ; 1 - 2; Toluca              
 ; Veracruz            ; 0 - 2; U.de G.             
 ; Zacatepec           ; 1 - 0; Jalisco             
-; U.de Curtidores     ; 1 - 1; León                
+; U.de Curtidores     ; 1 - 1; Club León                
 ; Atlante             ; 1 - 2; U.N.A.M.            
 ; A.Potosino          ; 2 - 2; Tigres              
 ; Cruz Azul           ; 4 - 1; Guadalajara         
-; A.Español           ; 1 - 1; Tampico             
-; Monterrey           ; 1 - 0; Neza                
+; Atletico Espanol           ; 1 - 1; Tampico             
+; Monterrey           ; 1 - 0; Deportivo Neza                
                                                
 Round: Round 19                                       
 
@@ -268,36 +268,36 @@ Round: Round 19
 ; Jalisco             ; 2 - 2; U.A.G.              
 ; Tigres              ; 5 - 0; Veracruz            
 ; U.de G.             ; 2 - 1; Zacatepec           
-; América             ; 1 - 0; U.de Curtidores     
-; León                ; 0 - 2; Atlante             
+; Club America             ; 1 - 0; U.de Curtidores     
+; Club León                ; 0 - 2; Atlante             
 ; Guadalajara         ; 1 - 3; A.Potosino          
 ; U.N.A.M.            ; 1 - 1; Cruz Azul           
-; Neza                ; 2 - 1; A.Español           
+; Deportivo Neza                ; 2 - 1; Atletico Espanol           
 ; Toluca              ; 1 - 0; Monterrey           
                                                
 Round: Round 20                                       
 
-; León                ; 2 - 3; Cruz Azul           
+; Club León                ; 2 - 3; Cruz Azul           
 ; Tigres              ; 0 - 0; Zacatepec           
 ; Jalisco             ; 1 - 2; Monterrey           
 ; U.de G.             ; 4 - 1; U.A.G.              
 ; Atlante             ; 1 - 2; U.de Curtidores     
-; Tampico             ; 3 - 2; América             
-; Toluca              ; 4 - 0; A.Español           
-; Neza                ; 0 - 0; Puebla              
+; Tampico             ; 3 - 2; Club America             
+; Toluca              ; 4 - 0; Atletico Espanol           
+; Deportivo Neza                ; 0 - 0; Puebla              
 ; U.N.A.M.            ; 1 - 3; A.Potosino          
 ; Guadalajara         ; 1 - 0; Veracruz            
                                                
 Round: Round 21                                       
 
-; A.Potosino          ; 1 - 0; León                
+; A.Potosino          ; 1 - 0; Club León                
 ; U.A.G.              ; 0 - 0; Tigres              
-; A.Español           ; 1 - 1; Jalisco             
+; Atletico Espanol           ; 1 - 1; Jalisco             
 ; Monterrey           ; 4 - 1; U.de G.             
 ; Cruz Azul           ; 0 - 0; Atlante             
 ; U.de Curtidores     ; 1 - 2; Tampico             
 ; Puebla              ; 2 - 0; Toluca              
-; América             ; 6 - 1; Neza                
+; Club America             ; 6 - 1; Deportivo Neza                
 ; Veracruz            ; 1 - 1; U.N.A.M.            
 ; Zacatepec           ; 4 - 1; Guadalajara         
                                                
@@ -305,13 +305,13 @@ Round: Round 22
 
 ; Atlante             ; 4 - 1; A.Potosino          
 ; Guadalajara         ; 1 - 1; U.A.G.              
-; U.de G.             ; 1 - 0; A.Español           
+; U.de G.             ; 1 - 0; Atletico Espanol           
 ; Tigres              ; 1 - 1; Monterrey           
 ; Cruz Azul           ; 3 - 1; U.de Curtidores     
-; Neza                ; 1 - 1; Tampico             
+; Deportivo Neza                ; 1 - 1; Tampico             
 ; Jalisco             ; 0 - 1; Puebla              
-; Toluca              ; 2 - 1; América             
-; León                ; 4 - 0; Veracruz            
+; Toluca              ; 2 - 1; Club America             
+; Club León                ; 4 - 0; Veracruz            
 ; U.N.A.M.            ; 1 - 1; Zacatepec           
                                                
 Round: Round 23                                       
@@ -319,12 +319,12 @@ Round: Round 23
 ; Veracruz            ; 1 - 1; Atlante             
 ; Monterrey           ; 3 - 1; Guadalajara         
 ; Puebla              ; 3 - 2; U.de G.             
-; A.Español           ; 3 - 3; Tigres              
+; Atletico Espanol           ; 3 - 3; Tigres              
 ; A.Potosino          ; 3 - 2; Cruz Azul           
-; U.de Curtidores     ; 1 - 0; Neza                
-; América             ; 1 - 0; Jalisco             
+; U.de Curtidores     ; 1 - 0; Deportivo Neza                
+; Club America             ; 1 - 0; Jalisco             
 ; Tampico             ; 0 - 1; Toluca              
-; Zacatepec           ; 2 - 1; León                
+; Zacatepec           ; 2 - 1; Club León                
 ; U.A.G.              ; 4 - 3; U.N.A.M.            
                                                
 Round: Round 24                                       
@@ -332,77 +332,77 @@ Round: Round 24
 ; Cruz Azul           ; 5 - 0; Veracruz            
 ; U.N.A.M.            ; 2 - 0; Monterrey           
 ; Tigres              ; 1 - 1; Puebla              
-; Guadalajara         ; 1 - 1; A.Español           
+; Guadalajara         ; 1 - 1; Atletico Espanol           
 ; A.Potosino          ; 1 - 0; U.de Curtidores     
-; Toluca              ; 3 - 1; Neza                
-; U.de G.             ; 2 - 1; América             
+; Toluca              ; 3 - 1; Deportivo Neza                
+; U.de G.             ; 2 - 1; Club America             
 ; Jalisco             ; 2 - 2; Tampico             
 ; Atlante             ; 0 - 1; Zacatepec           
-; León                ; 2 - 0; U.A.G.              
+; Club León                ; 2 - 0; U.A.G.              
                                                
 Round: Round 25                                       
 
 ; Zacatepec           ; 1 - 2; Cruz Azul           
-; A.Español           ; 2 - 1; U.N.A.M.            
-; América             ; 0 - 1; Tigres              
+; Atletico Espanol           ; 2 - 1; U.N.A.M.            
+; Club America             ; 0 - 1; Tigres              
 ; Puebla              ; 1 - 1; Guadalajara         
 ; Veracruz            ; 2 - 1; A.Potosino          
 ; U.de Curtidores     ; 1 - 0; Toluca              
 ; Tampico             ; 2 - 1; U.de G.             
-; Neza                ; 1 - 1; Jalisco             
+; Deportivo Neza                ; 1 - 1; Jalisco             
 ; U.A.G.              ; 1 - 0; Atlante             
-; Monterrey           ; 0 - 1; León                
+; Monterrey           ; 0 - 1; Club León                
                                                
 Round: Round 26                                       
 
 ; A.Potosino          ; 2 - 1; Zacatepec           
-; León                ; 1 - 3; A.Español           
-; Guadalajara         ; 0 - 0; América             
+; Club León                ; 1 - 3; Atletico Espanol           
+; Guadalajara         ; 0 - 0; Club America             
 ; U.N.A.M.            ; 3 - 1; Puebla              
 ; Veracruz            ; 2 - 0; U.de Curtidores     
 ; Jalisco             ; 1 - 0; Toluca              
 ; Tigres              ; 3 - 1; Tampico             
-; U.de G.             ; 2 - 0; Neza                
+; U.de G.             ; 2 - 0; Deportivo Neza                
 ; Cruz Azul           ; 1 - 1; U.A.G.              
 ; Atlante             ; 0 - 0; Monterrey           
                                                
 Round: Round 27                                       
 
 ; U.A.G.              ; 0 - 1; A.Potosino          
-; Puebla              ; 3 - 2; León                
+; Puebla              ; 3 - 2; Club León                
 ; Tampico             ; 1 - 0; Guadalajara         
-; América             ; 0 - 3; U.N.A.M.            
+; Club America             ; 0 - 3; U.N.A.M.            
 ; Zacatepec           ; 2 - 1; Veracruz            
 ; U.de Curtidores     ; 3 - 2; Jalisco             
-; Neza                ; 2 - 1; Tigres              
+; Deportivo Neza                ; 2 - 1; Tigres              
 ; Toluca              ; 0 - 0; U.de G.             
 ; Monterrey           ; 1 - 1; Cruz Azul           
-; A.Español           ; 3 - 2; Atlante             
+; Atletico Espanol           ; 3 - 2; Atlante             
                                                
 Round: Round 28                                       
 
 ; Veracruz            ; 0 - 3; U.A.G.              
 ; Atlante             ; 1 - 1; Puebla              
 ; U.N.A.M.            ; 8 - 1; Tampico             
-; León                ; 0 - 2; América             
+; Club León                ; 0 - 2; Club America             
 ; Zacatepec           ; 3 - 1; U.de Curtidores     
 ; U.de G.             ; 3 - 0; Jalisco             
-; Guadalajara         ; 2 - 1; Neza                
+; Guadalajara         ; 2 - 1; Deportivo Neza                
 ; Tigres              ; 4 - 1; Toluca              
 ; A.Potosino          ; 2 - 1; Monterrey           
-; Cruz Azul           ; 3 - 0; A.Español           
+; Cruz Azul           ; 3 - 0; Atletico Espanol           
                                                
 Round: Round 29                                       
 
 ; Monterrey           ; 5 - 0; Veracruz            
-; América             ; 3 - 1; Atlante             
-; Neza                ; 1 - 2; U.N.A.M.            
-; Tampico             ; 7 - 1; León                
+; Club America             ; 3 - 1; Atlante             
+; Deportivo Neza                ; 1 - 2; U.N.A.M.            
+; Tampico             ; 7 - 1; Club León                
 ; U.A.G.              ; 1 - 1; Zacatepec           
 ; U.de Curtidores     ; 3 - 0; U.de G.             
 ; Toluca              ; 2 - 0; Guadalajara         
 ; Jalisco             ; 0 - 1; Tigres              
-; A.Español           ; 1 - 1; A.Potosino          
+; Atletico Espanol           ; 1 - 1; A.Potosino          
 ; Puebla              ; 0 - 0; Cruz Azul           
                                                
 Round: Round 30                                       
@@ -410,24 +410,24 @@ Round: Round 30
 ; Guadalajara         ; 1 - 1; Jalisco             
 ; Atlante             ; 2 - 1; Tampico             
 ; A.Potosino          ; 2 - 0; Puebla              
-; Cruz Azul           ; 3 - 1; América             
+; Cruz Azul           ; 3 - 1; Club America             
 ; Tigres              ; 2 - 1; U.de G.             
 ; U.A.G.              ; 3 - 1; U.de Curtidores     
-; Veracruz            ; 1 - 3; A.Español           
+; Veracruz            ; 1 - 3; Atletico Espanol           
 ; Zacatepec           ; 2 - 1; Monterrey           
 ; U.N.A.M.            ; 1 - 1; Toluca              
-; León                ; 2 - 1; Neza                
+; Club León                ; 2 - 1; Deportivo Neza                
                                                
 Round: Round 31                                       
 
 ; U.de G.             ; 2 - 2; Guadalajara         
 ; U.de Curtidores     ; 2 - 2; Tigres              
-; América             ; 1 - 1; A.Potosino          
+; Club America             ; 1 - 1; A.Potosino          
 ; Monterrey           ; 1 - 2; U.A.G.              
 ; Jalisco             ; 3 - 2; U.N.A.M.            
-; Neza                ; 2 - 1; Atlante             
-; Toluca              ; 2 - 0; León                
-; A.Español           ; 0 - 1; Zacatepec           
+; Deportivo Neza                ; 2 - 1; Atlante             
+; Toluca              ; 2 - 0; Club León                
+; Atletico Espanol           ; 0 - 1; Zacatepec           
 ; Tampico             ; 0 - 4; Cruz Azul           
 ; Puebla              ; 5 - 1; Veracruz            
                                                
@@ -436,50 +436,50 @@ Round: Round 32
 ; Guadalajara         ; 2 - 0; Tigres              
 ; Atlante             ; 2 - 0; Toluca              
 ; A.Potosino          ; 1 - 0; Tampico             
-; Cruz Azul           ; 1 - 0; Neza                
+; Cruz Azul           ; 1 - 0; Deportivo Neza                
 ; Monterrey           ; 1 - 1; U.de Curtidores     
-; U.A.G.              ; 0 - 1; A.Español           
-; León                ; 0 - 3; Jalisco             
+; U.A.G.              ; 0 - 1; Atletico Espanol           
+; Club León                ; 0 - 3; Jalisco             
 ; U.N.A.M.            ; 4 - 2; U.de G.             
-; Veracruz            ; 2 - 2; América             
+; Veracruz            ; 2 - 2; Club America             
 ; Zacatepec           ; 0 - 1; Puebla              
                                                
 Round: Round 33                                       
 
 ; U.de Curtidores     ; 1 - 0; Guadalajara         
-; América             ; 3 - 0; Zacatepec           
+; Club America             ; 3 - 0; Zacatepec           
 ; Tigres              ; 2 - 1; U.N.A.M.            
-; U.de G.             ; 0 - 1; León                
+; U.de G.             ; 0 - 1; Club León                
 ; Puebla              ; 1 - 1; U.A.G.              
-; A.Español           ; 1 - 2; Monterrey           
+; Atletico Espanol           ; 1 - 2; Monterrey           
 ; Toluca              ; 3 - 1; Cruz Azul           
-; Neza                ; 2 - 0; A.Potosino          
+; Deportivo Neza                ; 2 - 0; A.Potosino          
 ; Tampico             ; 0 - 0; Veracruz            
 ; Jalisco             ; 2 - 2; Atlante             
                                                
 Round: Round 34                                       
 
-; León                ; 1 - 0; Tigres              
+; Club León                ; 1 - 0; Tigres              
 ; A.Potosino          ; 2 - 0; Toluca              
 ; Zacatepec           ; 3 - 0; Tampico             
-; Veracruz            ; 1 - 0; Neza                
+; Veracruz            ; 1 - 0; Deportivo Neza                
 ; U.N.A.M.            ; 4 - 2; Guadalajara         
-; A.Español           ; 5 - 4; U.de Curtidores     
-; U.A.G.              ; 3 - 1; América             
+; Atletico Espanol           ; 5 - 4; U.de Curtidores     
+; U.A.G.              ; 3 - 1; Club America             
 ; Monterrey           ; 4 - 1; Puebla              
 ; Atlante             ; 1 - 2; U.de G.             
 ; Cruz Azul           ; 3 - 1; Jalisco             
                                                
 Round: Round 35                                       
 
-; Guadalajara         ; 2 - 0; León                
+; Guadalajara         ; 2 - 0; Club León                
 ; Jalisco             ; 6 - 4; A.Potosino          
-; Neza                ; 2 - 2; Zacatepec           
+; Deportivo Neza                ; 2 - 2; Zacatepec           
 ; Toluca              ; 4 - 0; Veracruz            
 ; U.de Curtidores     ; 2 - 1; U.N.A.M.            
-; Puebla              ; 3 - 0; A.Español           
+; Puebla              ; 3 - 0; Atletico Espanol           
 ; Tampico             ; 3 - 1; U.A.G.              
-; América             ; 4 - 0; Monterrey           
+; Club America             ; 4 - 0; Monterrey           
 ; Tigres              ; 0 - 0; Atlante             
 ; U.de G.             ; 1 - 1; Cruz Azul           
                                                
@@ -487,12 +487,12 @@ Round: Round 36
 
 ; Atlante             ; 2 - 0; Guadalajara         
 ; Veracruz            ; 3 - 1; Jalisco             
-; U.A.G.              ; 1 - 1; Neza                
+; U.A.G.              ; 1 - 1; Deportivo Neza                
 ; Zacatepec           ; 3 - 1; Toluca              
-; León                ; 1 - 1; U.N.A.M.            
+; Club León                ; 1 - 1; U.N.A.M.            
 ; Puebla              ; 3 - 3; U.de Curtidores     
 ; Monterrey           ; 1 - 0; Tampico             
-; A.Español           ; 1 - 0; América             
+; Atletico Espanol           ; 1 - 0; Club America             
 ; Cruz Azul           ; 3 - 0; Tigres              
 ; A.Potosino          ; 1 - 0; U.de G.             
                                                
@@ -502,10 +502,10 @@ Round: Round 37
 ; U.de G.             ; 5 - 2; Veracruz            
 ; Toluca              ; 1 - 0; U.A.G.              
 ; Jalisco             ; 1 - 1; Zacatepec           
-; León                ; 3 - 2; U.de Curtidores     
-; América             ; 0 - 0; Puebla              
-; Neza                ; 2 - 1; Monterrey           
-; Tampico             ; 1 - 1; A.Español           
+; Club León                ; 3 - 2; U.de Curtidores     
+; Club America             ; 0 - 0; Puebla              
+; Deportivo Neza                ; 2 - 1; Monterrey           
+; Tampico             ; 1 - 1; Atletico Espanol           
 ; Guadalajara         ; 0 - 0; Cruz Azul           
 ; Tigres              ; 3 - 5; A.Potosino          
                                                
@@ -515,16 +515,16 @@ Round: Round 38
 ; Zacatepec           ; 0 - 2; U.de G.             
 ; Monterrey           ; 4 - 0; Toluca              
 ; U.A.G.              ; 4 - 0; Jalisco             
-; Atlante             ; 1 - 2; León                
-; U.de Curtidores     ; 1 - 1; América             
-; A.Español           ; 4 - 1; Neza                
+; Atlante             ; 1 - 2; Club León                
+; U.de Curtidores     ; 1 - 1; Club America             
+; Atletico Espanol           ; 4 - 1; Deportivo Neza                
 ; Puebla              ; 1 - 3; Tampico             
 ; A.Potosino          ; 4 - 0; Guadalajara         
 ; Veracruz            ; 1 - 1; Tigres              
  
 *Group 1                   P   W   T   L  GF  GA   PTS
 *  1.- Monterrey          38  14  12  12  52  43    40  Championship Playoff
-*  2.- América            38  14   9  15  58  49    37  Championship Playoff
+*  2.- Club America            38  14   9  15  58  49    37  Championship Playoff
 *  3.- Guadalajara        38  11  13  14  43  56    35
 *  4.- Atlante            38   9  13  16  51  56    31
 *  5.- Veracruz           38   7   9  22  35  83    23  Relegated
@@ -532,7 +532,7 @@ Round: Round 38
 *  1.- U.N.A.M.           38  17  11  10  77  57    45  Championship Playoff
 *  2.- Atlético Potosino  38  19   7  13  58  55    45  Championship Playoff
 *  3.- Tampico            38  11  13  14  59  65    35
-*  4.- León               38  13   7  18  50  67    31
+*  4.- Club León               38  13   7  18  50  67    31
 *  5.- Jalisco            38   8  12  18  49  67    28
 *Group 3                   P   W   T   L  GF  GA   PTS
 *  1.- Cruz Azul          38  19  13   6  70  32    51  Championship Playoff

@@ -4,6 +4,35 @@
 import datetime
 
 l = [
+
+
+
+
+    {
+        'name': 'Houston Dynamo',
+        'founded': 2005,
+        'city': 'Houston, TX',
+        },
+
+    {
+        'name': 'FC Dallas',
+        'founded': 1996,
+        'city': 'Dallas, TX',
+        },
+
+
+
+{ 
+        'name': 'FC Dallas Reserves',
+        'city': 'Dallas, TX',
+        },
+
+{ 
+        'name': 'Houston Dynamo Reserves',
+        'city': 'Houston, TX',
+        },
+
+
     {
         'name': 'El Paso/Juarez Gamecocks',
         'city': 'El Paso, TX',

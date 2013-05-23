@@ -6,6 +6,18 @@ import datetime
 l = [
 
     {
+        'name': 'Colorado Rapids',
+        'founded': 1996,
+        'city': 'Denver, CO',
+        },
+
+{ 
+        'name': 'Colorado Rapids Reserves',
+        'city': 'Denver, CO',
+        },
+
+
+    {
         'name': 'Denver Cougars',
         'city': 'Denver, CO',
         'founded': 1998,

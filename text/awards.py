@@ -4,7 +4,6 @@
 DIR = '/home/chris/www/soccerdata/lists'
 
 
-
 def load_hall_of_fame():
 
     f = open('/home/chris/www/soccerdata/data/lists/awards/halloffame')
@@ -23,9 +22,6 @@ def load_hall_of_fame():
 
     return l
                 
-        
-        
-
 
 
 def process_awards(d):

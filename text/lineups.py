@@ -181,19 +181,7 @@ def load_all_games_scaryice():
         fn = "%s.csv" % key
         l.extend(get_scores(fn))
 
-    # Why was I doing this?
-    """
-    s = set()
-    for e in l:
-        s.add(tuple(sorted(e.items())))
-
-    
-    l = sorted([dict(e) for e in s])
-    """
-
     return l
-
-
     
 
 @set_cache
@@ -206,8 +194,6 @@ def load_all_goals_scaryice():
     lineups = make_lineup_dict()
     goals = correct_goal_names(l, lineups)
     return goals
-    
-    
 
 
 @set_cache
@@ -218,8 +204,6 @@ def load_all_lineups_scaryice():
         l.extend(get_lineups(fn))
 
     return l
-
-
 
 
 # This needs to have a list of all lineups to work properly.
@@ -571,8 +555,6 @@ def get_goals(filename):
 
 
 def get_lineups(filename):
-    print 'Loading %s' % filename
-
 
     def preprocess_line(lineup_text):
         """

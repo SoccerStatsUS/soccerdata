@@ -35,7 +35,7 @@ l = [
     {
         'name': 'Austria Wien',
         'founded': datetime.datetime(1911, 3, 12),
-        'city': 'Vienna, Austira',
+        'city': 'Vienna, Austria',
         },
 
     {

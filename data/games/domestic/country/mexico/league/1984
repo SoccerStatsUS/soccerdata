@@ -6,20 +6,20 @@ BlockSource: http://www.rsssf.com/tablesm/mex85.html
 Round: Week 1
 Date: 8/17/1984
 
-; América; 1-2; Atlético Potosino
+; Club America; 1-2; Atlético Potosino
 
 Date: 8/18/1984
 
 ; UANL; 1-0; Necaxa
 ; Tampico-Madero; 3-1; Zacatepec
-; UAG; 0-0; Ángeles
+; UAG; 0-0; Ángeles de Puebla
 
 Date: 8/19/1984
 
 ; Guadalajara; 0-0; Atlas
 ; Toluca; 1-1; Atlante
-; León; 3-1; Cruz Azul
-; Atlético Morelia; 1-1; Monterrey
+; Club León; 3-1; Cruz Azul
+; Atletico Morelia; 1-1; Monterrey
 ; Deportivo Neza; 2-2; U de G
 
 Date: 9/5/1984
@@ -33,17 +33,17 @@ Date: 8/24/1984
 
 Date: 8/25/1984
 
-; Ángeles; 3-2; Guadalajara
+; Ángeles de Puebla; 3-2; Guadalajara
 ; Cruz Azul; 2-1; Tampico-Madero
-; U de G; 1-1; América
+; U de G; 1-1; Club America
 ; Monterrey; 1-3; UNAM
 ; Atlas; 2-1; Deportivo Neza
 
 Date: 8/26/1984
 
-; Puebla; 1-1; León
+; Puebla; 1-1; Club León
 ; Zacatepec; 2-1; UANL
-; Atlético Potosino; 1-0; Atlético Morelia
+; Atlético Potosino; 1-0; Atletico Morelia
 ; Atlante; 0-1; UAG
 
 Round: Week 3
@@ -58,13 +58,13 @@ Date: 9/1/1984
 
 Date: 9/2/1984
 
-; América; 1-1; Atlas
-; León; 2-2; Tampico-Madero
+; Club America; 1-1; Atlas
+; Club León; 2-2; Tampico-Madero
 ; Puebla; 2-0; Monterrey
 ; Guadalajara; 1-2; Atlante
 ; Toluca; 0-0; Zacatepec
-; Deportivo Neza; 3-2; Ángeles
-; Atlético Morelia; 0-3; U de G
+; Deportivo Neza; 3-2; Ángeles de Puebla
+; Atletico Morelia; 0-3; U de G
  
 Round: Week 4
 Date: 9/7/1984
@@ -76,12 +76,12 @@ Date: 9/8/1984
 
 ; Cruz Azul; 2-1; Toluca
 ; Tampico-Madero; 2-1; UANL
-; Monterrey; 3-3; León
-; Atlas; 3-3; Atlético Morelia
+; Monterrey; 3-3; Club León
+; Atlas; 3-3; Atletico Morelia
 
 Date: 9/9/1984
 
-; Ángeles; 2-2; América
+; Ángeles de Puebla; 2-2; Club America
 ; Atlético Potosino; 0-3; Puebla
 ; Zacatepec; 2-1; UAG
 ; U de G; 0-4; UNAM
@@ -98,11 +98,11 @@ Date: 9/15/1984
 
 Date: 9/16/1984
 
-; Atlético Morelia; 3-3; Ángeles
-; América; 1-1; Atlante
+; Atletico Morelia; 3-3; Ángeles de Puebla
+; Club America; 1-1; Atlante
 ; Toluca; 1-1; Tampico-Madero
 ; Deportivo Neza; 1-3; Necaxa
-; León; 0-0; UANL
+; Club León; 0-0; UANL
 ; Puebla; 1-2; U de G
 
 Date: 9/17/1984
@@ -112,7 +112,7 @@ Date: 9/17/1984
 Round: Week 6
 Date: 9/21/1984
 
-; Atlante; 1-0; Atlético Morelia
+; Atlante; 1-0; Atletico Morelia
 
 Date: 9/22/1984
 
@@ -123,14 +123,14 @@ Date: 9/22/1984
 
 Date: 9/23/1984
 
-; Ángeles; 0-2; UNAM
-; Atlético Potosino; 0-0; León
+; Ángeles de Puebla; 0-2; UNAM
+; Atlético Potosino; 0-0; Club León
 ; Zacatepec; 1-1; Deportivo Neza
 ; Atlas; 0-0; Puebla
 
 Date: 9/24/1984
 
-; Necaxa; 0-2; América
+; Necaxa; 0-2; Club America
 
 Round: Week 7
 Date: 9/27/1984
@@ -139,19 +139,19 @@ Date: 9/27/1984
 
 Date: 9/28/1984
 
-; América; 3-1; Zacatepec
+; Club America; 3-1; Zacatepec
 
 Date: 9/29/1984
 
-; Atlético Morelia; 1-1; Necaxa
+; Atletico Morelia; 1-1; Necaxa
 ; UAG; 1-0; UANL
 ; Monterrey; 1-4; Atlas
 
 Date: 9/30/1984
 
 ; UNAM; 4-1; Atlante
-; Puebla; 3-1; Ángeles
-; León; 0-0; Toluca
+; Puebla; 3-1; Ángeles de Puebla
+; Club León; 0-0; Toluca
 ; Deportivo Neza; 2-0; Cruz Azul
 ; Atlético Potosino; 2-2; U de G
 
@@ -163,32 +163,32 @@ Date: 10/5/1984
 Date: 10/6/1984
 
 ; UANL; 0-1; Guadalajara
-; Cruz Azul; 1-0; América
-; U de G; 3-3; León
+; Cruz Azul; 1-0; Club America
+; U de G; 3-3; Club León
 ; Tampico-Madero; 2-1; Deportivo Neza
 
 Date: 10/7/1984
 
 ; Toluca; 2-1; UAG
-; Zacatepec; 1-3; Atlético Morelia
+; Zacatepec; 1-3; Atletico Morelia
 ; Atlas; 3-1; Atlético Potosino
 ; Atlante; 3-0; Puebla
-; Ángeles; 2-0; Monterrey
+; Ángeles de Puebla; 2-0; Monterrey
 
 Round: Week 9
 Date: 10/13/1984
 
 ; Monterrey; 3-2; Atlante
-; León; 1-0; UAG
+; Club León; 1-0; UAG
 ; Guadalajara; 0-0; Toluca
 ; UNAM; 1-0; Zacatepec
 
 Date: 10/14/1984
 
 ; Deportivo Neza; 0-0; UANL
-; América; 3-1; Tampico-Madero
-; Atlético Morelia; 1-1; Cruz Azul
-; Atlético Potosino; 1-0; Ángeles
+; Club America; 3-1; Tampico-Madero
+; Atletico Morelia; 1-1; Cruz Azul
+; Atlético Potosino; 1-0; Ángeles de Puebla
 ; U de G; 1-2; Atlas
 ; Puebla; 1-1; Necaxa
 
@@ -203,22 +203,22 @@ Date: 10/19/1984
 
 Date: 10/20/1984
 
-; Tampico-Madero; 4-0; Atlético Morelia
+; Tampico-Madero; 4-0; Atletico Morelia
 ; Cruz Azul; 1-1; UNAM
-; Atlas; 0-2; León
-; UANL; v; América 
+; Atlas; 0-2; Club León
+; UANL; v; Club America 
 Notes: Match abandoned at 72', UANL was winning 2-0 
 
 Date: 10/21/1984
 
-; Ángeles; 2-2; U de G
+; Ángeles de Puebla; 2-2; U de G
 ; Toluca; 3-1; Deportivo Neza
 ; Atlante; 2-1; Atlético Potosino
 ; UAG; 2-2; Guadalajara
 
 Date: 1/16/1985
 
-; UANL; 2-0; América
+; UANL; 2-0; Club America
 Minutes: 72
 Notes: Called with 18 minutes left, result stood
 
@@ -230,8 +230,8 @@ Date: 10/20/1984
 Date: 10/21/1984
 
 ; Monterrey; 0-1; Zacatepec
-; Atlas; 3-2; Ángeles
-; León; 0-1; Guadalajara
+; Atlas; 3-2; Ángeles de Puebla
+; Club León; 0-1; Guadalajara
 
 Date: 10/28/1984
 
@@ -242,11 +242,11 @@ Date: 10/28/1984
 
 Date: 11/20/1984
 
-; Atlético Morelia; 0-1; UANL
+; Atletico Morelia; 0-1; UANL
 
 Date: 11/21/1984
 
-; América; 1-0; Toluca
+; Club America; 1-0; Toluca
 
 Round: Week 12
 Date: 11/2/1984
@@ -263,12 +263,12 @@ Date: 11/4/1984
 
 ; Atlante; 0-2; Atlas
 ; Zacatepec; 3-1; Atlético Potosino
-; Toluca; 1-1; Atlético Morelia
-; Ángeles; 2-1; León
+; Toluca; 1-1; Atletico Morelia
+; Ángeles de Puebla; 2-1; Club León
 
 Date: 11/14/1984
 
-; UAG; 0-1; América
+; UAG; 0-1; Club America
 
 Date: 12/11/1984
 
@@ -277,20 +277,20 @@ Date: 12/11/1984
 Round: Week 13
 Date: 11/10/1984
 
-; León; 2-2; Deportivo Neza
+; Club León; 2-2; Deportivo Neza
 ; Monterrey; 1-1; Tampico-Madero
-; Ángeles; 1-1; Atlante
+; Ángeles de Puebla; 1-1; Atlante
 ; U de G; 3-0; Zacatepec
 
 Date: 11/11/1984
 
 ; Atlético Potosino; 4-5; Cruz Azul
 ; Atlas; 2-0; Necaxa
-; Atlético Morelia; 0-1; UAG
+; Atletico Morelia; 0-1; UAG
 
 Date: 12/11/1984
 
-; América; 0-0; Guadalajara
+; Club America; 0-0; Guadalajara
 
 Date: 12/19/1984
 
@@ -303,7 +303,7 @@ Date: 1/16/1985
 Round: Week 14
 Date: 11/16/1984
 
-; Atlante; 2-1; León
+; Atlante; 2-1; Club León
 
 Date: 11/17/1984
 
@@ -315,10 +315,10 @@ Date: 11/17/1984
 Date: 11/18/1984
 
 ; Toluca; 2-1; Puebla
-; Guadalajara; 1-1; Atlético Morelia
-; Deportivo Neza; 1-4; América
+; Guadalajara; 1-1; Atletico Morelia
+; Deportivo Neza; 1-4; Club America
 ; Zacatepec; 0-1; Atlas
-; Necaxa; 3-1; Ángeles
+; Necaxa; 3-1; Ángeles de Puebla
 
 Round: Week 15
 Date: 11/23/1984
@@ -328,26 +328,26 @@ Date: 11/23/1984
 Date: 11/24/1984
 
 ; Monterrey; 3-1; Toluca
-; León; 2-1; América
+; Club León; 2-1; Club America
 ; Atlas; 2-1; Cruz Azul
 
 Date: 11/25/1984
 
-; Ángeles; 4-2; Zacatepec
+; Ángeles de Puebla; 4-2; Zacatepec
 ; Puebla; 2-1; UAG
 ; U de G; 3-1; Tampico-Madero
 ; UNAM; 1-3; Guadalajara
-; Atlético Morelia; 0-0; Deportivo Neza
+; Atletico Morelia; 0-0; Deportivo Neza
 ; Atlético Potosino; 1-1; UANL
 
 Round: Week 16
 Date: 11/30/1984
 
-; América; 2-1; Atlético Morelia
+; Club America; 2-1; Atletico Morelia
 
 Date: 12/1/1984
 
-; Cruz Azul; 4-0; Ángeles
+; Cruz Azul; 4-0; Ángeles de Puebla
 ; UANL; 1-2; U de G
 ; Guadalajara; 1-0; Puebla
 ; Tampico-Madero; 3-2; Atlas
@@ -355,7 +355,7 @@ Date: 12/1/1984
 Date: 12/2/1984
 
 ; Toluca; 0-0; Atlético Potosino
-; Necaxa; 4-2; León
+; Necaxa; 4-2; Club León
 ; Zacatepec; 2-0; Atlante
 ; Deportivo Neza; 0-2; UNAM
 ; UAG; 5-2; Monterrey
@@ -369,13 +369,13 @@ Date: 12/8/1984
 
 ; Necaxa; 0-0; Zacatepec
 ; Monterrey; 1-1; Guadalajara
-; León; 1-1; Atlético Morelia
+; Club León; 1-1; Atletico Morelia
 ; U de G; 2-0; Toluca
-; Ángeles; 2-1; Tampico-Madero
+; Ángeles de Puebla; 2-1; Tampico-Madero
 
 Date: 12/9/1984
 
-; UNAM; 1-0; América
+; UNAM; 1-0; Club America
 ; Puebla; 2-0; Deportivo Neza
 ; Atlas; 3-1; UANL
 ; Atlético Potosino; 3-1; UAG
@@ -384,34 +384,34 @@ Round: Week 18
 Date: 12/15/1984
 
 ; Cruz Azul; 4-1; Necaxa
-; UANL; 2-1; Ángeles
-; León; 1-0; Zacatepec
+; UANL; 2-1; Ángeles de Puebla
+; Club León; 1-0; Zacatepec
 ; Guadalajara; 3-1; Atlético Potosino
 
 Date: 12/16/1984
 
 ; Deportivo Neza; 1-2; Monterrey
 ; Toluca; 2-0; Atlas
-; América; 1-0; Puebla
+; Club America; 1-0; Puebla
 ; UAG; 1-1; U de G
-; Atlético Morelia; 0-4; UNAM
+; Atletico Morelia; 0-4; UNAM
 ; Tampico-Madero; 3-4; Atlante
 
 Round: Week 19
 Date: 12/21/1984
 
-; UNAM; 2-0; León
+; UNAM; 2-0; Club León
 
 Date: 12/22/1984
 
 ; Atlas; 4-3; UAG
-; Monterrey; 1-2; América
-; Ángeles; 3-1; Toluca
+; Monterrey; 1-2; Club America
+; Ángeles de Puebla; 3-1; Toluca
 ; Atlante; 1-1; UANL
 
 Date: 12/23/1984
 
-; Puebla; 4-1; Atlético Morelia
+; Puebla; 4-1; Atletico Morelia
 ; U de G; 1-0; Guadalajara
 ; Necaxa; 1-1; Tampico-Madero
 ; Atlético Potosino; 1-0; Deportivo Neza
@@ -424,15 +424,15 @@ Date: 12/28/1984
 
 Date: 12/29/1984
 
-; Cruz Azul; 0-0; León
-; Ángeles; 0-0; UAG
-; Monterrey; 1-1; Atlético Morelia
+; Cruz Azul; 0-0; Club León
+; Ángeles de Puebla; 0-0; UAG
+; Monterrey; 1-1; Atletico Morelia
 ; U de G; 1-1; Deportivo Neza
 
 Date: 12/30/1984
 
 ; Puebla; 2-0; UNAM
-; Atlético Potosino; 3-1; América
+; Atlético Potosino; 3-1; Club America
 ; Necaxa; 1-1; UANL
 ; Zacatepec; 2-1; Tampico-Madero
 ; Atlas; 0-0; Guadalajara
@@ -440,13 +440,13 @@ Date: 12/30/1984
 Round: Week 21
 Date: 1/4/1985
 
-; América; 2-2; U de G
+; Club America; 2-2; U de G
 
 Date: 1/5/1985
 
 ; UANL; 2-0; Zacatepec
-; Guadalajara; 6-1; Ángeles
-; León; 2-0; Puebla
+; Guadalajara; 6-1; Ángeles de Puebla
+; Club León; 2-0; Puebla
 ; Tampico-Madero; 2-1; Cruz Azul
 
 Date: 1/6/1985
@@ -454,7 +454,7 @@ Date: 1/6/1985
 ; Toluca; 2-0; Necaxa
 ; UNAM; 4-2; Monterrey
 ; UAG; 1-2; Atlante
-; Atlético Morelia; 0-0; Atlético Potosino
+; Atletico Morelia; 0-0; Atlético Potosino
 ; Deportivo Neza; 0-2; Atlas
 
 Round: Week 22
@@ -466,26 +466,26 @@ Date: 1/12/1985
 
 ; Cruz Azul; 1-1; UANL
 ; Monterrey; 1-1; Puebla
-; U de G; 2-1; Atlético Morelia
+; U de G; 2-1; Atletico Morelia
 
 Date: 1/13/1985
 
 ; Atlético Potosino; 1-4; UNAM
 ; Atlante; 2-1; Guadalajara
-; Ángeles; 2-1; Deportivo Neza
+; Ángeles de Puebla; 2-1; Deportivo Neza
 ; Zacatepec; 0-0; Toluca
-; Tampico Madero; 2-1; León
-; Atlas; 0-0; América
+; Tampico Madero; 2-1; Club León
+; Atlas; 0-0; Club America
 
 Round: Week 23
 Date: 1/18/1985
 
-; América; 2-1; Ángeles
+; Club America; 2-1; Ángeles de Puebla
 
 Date: 1/19/1985
 
 ; UANL; 1-2; Tampico-Madero
-; León; 2-0; Monterrey
+; Club León; 2-0; Monterrey
 
 Date: 1/20/1985
 
@@ -495,7 +495,7 @@ Date: 1/20/1985
 ; Guadalajara; 2-0; Necaxa
 ; UAG; 2-1; Zacatepec
 ; UNAM; 1-2; U de G
-; Atlético Morelia; 0-0; Atlas
+; Atletico Morelia; 0-0; Atlas
 
 Round: Week 24
 Date: 1/25/1985
@@ -505,42 +505,42 @@ Date: 1/25/1985
 Date: 1/26/1985
 
 ; Cruz Azul; 0-2; UAG
-; UANL; 2-0; León
+; UANL; 2-0; Club León
 ; U de G; 3-1; Puebla
 
 Date: 1/27/1985
 
-; Atlante; 1-2; América
+; Atlante; 1-2; Club America
 ; Tampico-Madero; 3-0; Toluca
 ; Atlas; 1-2; UNAM
 ; Atlético Potosino; 1-2; Monterrey
 ; Zacatepec; 1-4; Guadalajara
-; Ángeles; 1-0; Atlético Morelia
+; Ángeles de Puebla; 1-0; Atletico Morelia
 
 Round: Week 25
 Date: 2/1/1985
 
-; UNAM; 2-0; Ángeles
+; UNAM; 2-0; Ángeles de Puebla
 
 Date: 2/2/1985
 
 ; Monterrey; 2-1; U de G
-; León; 5-1; Atlético Potosino
+; Club León; 5-1; Atlético Potosino
 ; UAG; 2-0; Tampico-Madero
 
 Date: 2/3/1985
 
-; América; 3-2; Necaxa
+; Club America; 3-2; Necaxa
 ; Guadalajara; 1-1; Cruz Azul
 ; Toluca; 2-0; UANL
 ; Puebla; 2-1; Atlas
 ; Deportivo Neza; 1-1; Zacatepec
-; Atlético Morelia; 1-1; Atlante
+; Atletico Morelia; 1-1; Atlante
 
 Round: Week 26
 Date: 2/8/1985
 
-; Necaxa; 2-2; Atlético Morelia
+; Necaxa; 2-2; Atletico Morelia
 
 Date: 2/9/1985
 
@@ -550,12 +550,12 @@ Date: 2/9/1985
 
 Date: 2/10/1985
 
-; Toluca; 0-2; León
-; Ángeles; 1-1; Puebla
+; Toluca; 0-2; Club León
+; Ángeles de Puebla; 1-1; Puebla
 ; Tampico-Madero; 1-0; Guadalajara
 ; U de G; 1-2; Atlético Potosino
 ; Atlante; 0-1; UNAM
-; Zacatepec; 1-0; América
+; Zacatepec; 1-0; Club America
 
 Round: Week 27
 Date: 2/15/1985
@@ -564,17 +564,17 @@ Date: 2/15/1985
 
 Date: 2/16/1985
 
-; Monterrey; 1-1; Ángeles
-; León; 0-0; U de G
+; Monterrey; 1-1; Ángeles de Puebla
+; Club León; 0-0; U de G
 ; Guadalajara; 3-1; UANL
 
 Date: 2/17/1985
 
 ; Puebla; 3-0; Atlante
 ; UAG; 3-2; Toluca
-; América; 2-2; Cruz Azul
+; Club America; 2-2; Cruz Azul
 ; Deportivo Neza; 2-1; Tampico-Madero
-; Atlético Morelia; 2-0; Zacatepec
+; Atletico Morelia; 2-0; Zacatepec
 ; Atlético Potosino; 1-1; Atlas
 
 Round: Week 28
@@ -584,29 +584,29 @@ Date: 2/22/1985
 
 Date: 2/23/1985
 
-; Cruz Azul; 2-0; Atlético Morelia
+; Cruz Azul; 2-0; Atletico Morelia
 ; UANL; 1-0; Deportivo Neza
-; UAG; 3-3; León
-; Tampico-Madero; 1-0; América
+; UAG; 3-3; Club León
+; Tampico-Madero; 1-0; Club America
 
 Date: 2/24/1985
 
 ; Toluca; 0-0; Guadalajara
 ; Atlante; 3-1; Monterrey
 ; Atlas; 0-1; U de G
-; Ángeles; 3-0; Atlético Potosino
+; Ángeles de Puebla; 3-0; Atlético Potosino
 ; Zacatepec; 0-2; UNAM
 
 Round: Week 29
 Date: 3/1/1985
 
-; América; 1-0; UANL
+; Club America; 1-0; UANL
 
 Date: 3/2/1985
 
 ; Monterrey; 2-0; Necaxa
-; León; 1-1; Atlas
-; U de G; 2-2; Ángeles
+; Club León; 1-1; Atlas
+; U de G; 2-2; Ángeles de Puebla
 
 Date: 3/3/1985
 
@@ -615,7 +615,7 @@ Date: 3/3/1985
 ; Guadalajara; 2-1; UAG
 ; Atlético Potosino; 2-0; Atlante
 ; Puebla; 0-0; Zacatepec
-; Atlético Morelia; 2-1; Tampico-Madero
+; Atletico Morelia; 2-1; Tampico-Madero
 
 Round: Week 30
 Date: 3/8/1985
@@ -625,16 +625,16 @@ Date: 3/8/1985
 Date: 3/9/1985
 
 ; Cruz Azul; 0-0; Puebla
-; Guadalajara; 0-1; León
-; UANL; 3-1; Atlético Morelia
+; Guadalajara; 0-1; Club León
+; UANL; 3-1; Atletico Morelia
 
 Date: 3/10/1985
 
-; Toluca; 0-0; América
+; Toluca; 0-0; Club America
 ; Atlante; 1-1; U de G
 ; Tampico-Madero; 4-2; UNAM
 ; UAG; 3-2; Deportivo Neza
-; Ángeles; 4-1; Atlas
+; Ángeles de Puebla; 4-1; Atlas
 ; Zacatepec; 0-1; Monterrey
 
 Round: Week 31
@@ -648,14 +648,14 @@ Date: 3/15/1985
 
 Date: 3/16/1985
 
-; León; 0-0; Ángeles
+; Club León; 0-0; Ángeles de Puebla
 ; Atlas; 0-2; Atlante
 
 Date: 3/17/1985
 
-; América; 1-0; UAG
+; Club America; 1-0; UAG
 ; U de G; 2-0; Necaxa
-; Atlético Morelia; 2-3; Toluca
+; Atletico Morelia; 2-3; Toluca
 ; Puebla; 2-0; Tampico-Madero
 
 Date: 3/18/1985
@@ -666,15 +666,15 @@ Round: Week 32
 Date: 3/23/1985
 
 ; Cruz Azul; 1-1; Atlético Potosino
-; Atlante; 0-1; Ángeles
+; Atlante; 0-1; Ángeles de Puebla
 ; UANL; 0-0; Puebla
-; UAG; 0-0; Atlético Morelia
+; UAG; 0-0; Atletico Morelia
 
 Date: 3/24/1985
 
 ; Toluca; 0-1; UNAM
-; Deportivo Neza; 2-2; León
-; Guadalajara; 0-0; América
+; Deportivo Neza; 2-2; Club León
+; Guadalajara; 0-0; Club America
 ; Necaxa; 2-0; Atlas
 ; Tampico-Madero; 4-0; Monterrey
 ; Zacatepec; 0-3; U de G
@@ -682,13 +682,13 @@ Date: 3/24/1985
 Round: Week 33
 Date: 3/29/1985
 
-; América; 0-1; Deportivo Neza
+; Club America; 0-1; Deportivo Neza
 
 Date: 3/30/1985
 
 ; Monterrey; 2-0; UANL
-; León; 2-2; Atlante
-; Ángeles; 1-1; Necaxa
+; Club León; 2-2; Atlante
+; Ángeles de Puebla; 1-1; Necaxa
 ; Atlas; 2-1; Zacatepec
 
 Date: 3/31/1985
@@ -697,12 +697,12 @@ Date: 3/31/1985
 ; Puebla; 1-1; Toluca
 ; U de G; 1-1; Cruz Azul
 ; Atlético Potosino; 0-0; Tampico-Madero
-; Atlético Morelia; 1-0; Guadalajara
+; Atletico Morelia; 1-0; Guadalajara
 
 Round: Week 34
 Date: 4/5/1985
 
-; América; 3-1; León
+; Club America; 3-1; Club León
 
 Date: 4/6/1985
 
@@ -716,8 +716,8 @@ Date: 4/7/1985
 ; Toluca; 1-0; Monterrey
 ; Guadalajara; 0-0; UNAM
 ; Necaxa; 1-2; Atlante
-; Deportivo Neza; 0-0; Atlético Morelia
-; Zacatepec; 2-1; Ángeles
+; Deportivo Neza; 0-0; Atletico Morelia
+; Zacatepec; 2-1; Ángeles de Puebla
 
 Round: Week 35
 Date: 4/12/1985
@@ -726,9 +726,9 @@ Date: 4/12/1985
 
 Date: 4/13/1985
 
-; Ángeles; 0-1; Cruz Azul
+; Ángeles de Puebla; 0-1; Cruz Azul
 ; U de G; 2-0; UANL
-; León; 2-2; Necaxa
+; Club León; 2-2; Necaxa
 ; Atlas; 5-2; Tampico-Madero
 ; Monterrey; 2-1; UAG
 
@@ -737,7 +737,7 @@ Date: 4/14/1985
 ; Puebla; 3-0; Guadalajara
 ; UNAM; 0-1; Deportivo Neza
 ; Atlético Potosino; 5-1; Toluca
-; Atlético Morelia; 2-4; América
+; Atletico Morelia; 2-4; Club America
 
 Round: Week 36
 Date: 4/20/1985
@@ -745,14 +745,14 @@ Date: 4/20/1985
 ; Cruz Azul; 0-1; Atlante
 ; UANL; 1-1; Atlas
 ; Guadalajara; 2-0; Monterrey
-; Tampico-Madero; 3-1; Ángeles
+; Tampico-Madero; 3-1; Ángeles de Puebla
 
 Date: 4/21/1985
 
 ; Toluca; 1-1; U de G
-; América; 2-2; UNAM
+; Club America; 2-2; UNAM
 ; UAG; 4-2; Atlético Potosino
-; Atlético Morelia; 2-2; León
+; Atletico Morelia; 2-2; Club León
 ; Deportivo Neza; 3-2; Puebla
 ; Zacatepec; 3-0; Necaxa
 
@@ -763,14 +763,14 @@ Date: 4/27/1985
 
 Date: 4/28/1985
 
-; Puebla; 1-1; América
-; UNAM; 0-0; Atlético Morelia
-; Ángeles; 2-0; UANL
+; Puebla; 1-1; Club America
+; UNAM; 0-0; Atletico Morelia
+; Ángeles de Puebla; 2-0; UANL
 ; Atlético Potosino; 0-0; Guadalajara
 ; Necaxa; 0-1; Cruz Azul
 ; Atlas; 2-1; Toluca
 ; Monterrey; 2-1; Deportivo Neza
-; Zacatepec; 1-2; León
+; Zacatepec; 1-2; Club León
 ; U de G; 1-2; UAG
 
 Round: Week 38
@@ -778,15 +778,15 @@ Date: 5/4/1985
 
 ; Guadalajara; 3-0; U de G
 ; Cruz Azul; 2-1; Zacatepec
-; León; 3-0; UNAM
+; Club León; 3-0; UNAM
 ; Tampico-Madero; 0-0; Necaxa
 ; UANL; 2-1; Atlante
 
 Date: 5/5/1985
 
-; Toluca; 2-1; Ángeles
-; América; 3-2; Monterrey
-; Atlético Morelia; 3-2; Puebla
+; Toluca; 2-1; Ángeles de Puebla
+; Club America; 3-2; Monterrey
+; Atletico Morelia; 3-2; Puebla
 ; Deportivo Neza; 3-3; Atlético Potosino
 ; UAG; 1-1; Atlas
 

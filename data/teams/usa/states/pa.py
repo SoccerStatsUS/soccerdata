@@ -5,6 +5,48 @@ import datetime
 
 l = [
 
+
+    # Need to separate later Philadelphia FC's.
+    {
+        'name': 'Philadelphia Field Club',
+        'founded': 1921,
+        'dissolved': 1922,
+        'city': 'Philadelphia, PA',
+        },
+
+
+    {
+        'name': 'Bethlehem Steel',
+        'founded': 1911,
+        'dissolved': 1930,
+        'city': 'Bethlehem, PA',
+        },
+
+
+
+    # amateurs?
+    {
+        'name': 'Fleisher Yarn',
+        'founded': 1921, # maybe earlier.
+        'dissolved': 1925,
+        'city': 'Philadelphia, PA',
+
+        },
+
+
+
+    {
+        'name': 'Philadelphia Union',
+        'founded': 2008,
+        'city': 'Philadelphia, PA',
+        },
+
+{ 
+        'name': 'Philadelphia Union Reserves',
+        'city': 'Philadelphia, PA',
+        },
+
+
     {
         'name': 'Beadling SC',
         'city': 'Pittsburgh, PA',

@@ -618,12 +618,6 @@ l = [
         'dissolved': 2011,
         },
 
-    {
-        'name': 'Albany Alleycats',
-        'city': 'Albany, NY',
-        'founded': 1995,
-        'dissolved': 1999,
-        },
 
     {
         'name': 'Birmingham Grasshoppers',

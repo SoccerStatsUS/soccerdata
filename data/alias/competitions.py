@@ -5,6 +5,8 @@
 aliases = {}
 
 full_alias = {
+    'FIFA World Cup Qualification': 'FIFA World Cup qualification',
+    
     'Club World Cup': 'FIFA Club World Cup',
 
     # Once competition mapping is implemented.

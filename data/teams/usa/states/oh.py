@@ -6,6 +6,19 @@ import datetime
 l = [
 
     {
+        'name': 'Columbus Crew',
+        'founded': datetime.datetime(1994, 6, 15),
+        'city': 'Columbus, OH',
+        },
+
+{ 
+        'name': 'Columbus Crew Reserves',
+        'city': 'Columbus, OH',
+        },
+
+
+
+    {
         'name': 'Dayton Dutch Lions',
         'city': 'Dayton, OH',
         'founded': 2009,

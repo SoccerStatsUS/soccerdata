@@ -6,8 +6,6 @@ from soccerdata.mongo import soccer_db
 teams = {}
 
 
-
-
 # Handle name loops before processing everything.
 def check_for_team_loops():
     errors = False
@@ -63,6 +61,49 @@ slugs = {
 
 
 world = {
+
+    'SoccerPlus CT': 'SoccerPlus Connecticut',
+
+    'San Diego SeaLions': 'San Diego WFC SeaLions',
+
+    'Toros Hidalgo': 'Toros Neza',
+    #'Neza': 'Toros Neza',
+    #'Deportivo Neza': 'Toros Neza',
+
+    'TM Gallos Blancos': 'Querétaro FC',
+
+    'Cementos Novello': 'Cementos Novella',
+
+
+
+    'Luz y Fuerza': 'Necaxa',# name map.
+    #'Tranvias': 'Necaxa', # merger
+
+    'Moctezuma': 'Moctezuma de Orizaba',
+    
+    'Oaxtepec': 'CF Oaxtepec',
+    'U.de Curtidores': 'Unión de Curtidores',
+    'La Piedad': 'C.F. La Piedad',
+
+    
+    'Jaguares Chiapas': 'Jaguares de Chiapas',
+    'Cobras': 'Cobras de Ciudad Juárez',
+    'Cobras Ciudad Juarez': 'Cobras de Ciudad Juárez',
+    'Cobras Queretaro': 'Cobras de Ciudad Juárez',
+    
+    'Bridgeport Vasco Da Gama': 'Bridgeport Vasco da Gama',
+    'Union de Curtidores': 'Unión de Curtidores',
+    'Deportivo Espanol': 'Deportivo Español',
+    'Porteno': 'Porteño',
+    'Racing Club Saint Joseph': 'Racing Club Saint-Joseph',
+    'Emigrantes Das Ilhas': 'Emigrantes das Ilhas',
+    'Vitoria FC': 'Vitória FC',
+
+    'Corinthian FC': 'Corinthian F.C.',
+    'SC Corinthians': 'Corinthians',
+
+    'Huracan Buceo': 'Huracán Buceo',
+    'Club San Luis': 'San Luis FC',
     'Federal Ship FC': 'Kearny Federal Ship',
     'CD Veracruz': 'Tiburones Rojos de Veracruz',
     'Vera Cruz': 'Tiburones Rojos de Veracruz',
@@ -120,8 +161,14 @@ world = {
     'Jaguares - Mexico': 'Jaguares de Chiapas',
     'Jaguares': 'Jaguares de Chiapas',
 
+    'Real Sociedad Zacatecas': 'Real Sociedad de Zacatecas',
+
+    'Angeles': 'Ángeles de Puebla',
+
+    'Guerra y Marina': 'Marte (Mexico)', # name map.
+
     'Botafogo São Paulo': 'Botafogo',
-    'SC Corinthians': 'Corinthians',
+
     'Sport Club Internacional': 'Internacional',
     'Deportivo la Coruna': 'Deportivo La Coruña',
     'SS Lazio': 'Lazio',
@@ -414,6 +461,7 @@ world = {
     'Western Samoa': 'Samoa',
     'Virginia Tech University': 'Virginia Tech',
     'Dorados Sinaloa': 'Dorados de Sinaloa',
+    'Dorados': 'Dorados de Sinaloa',
 
     'Uda Dukla': 'Dukla Prague',
     'Ujpest': 'Újpest FC',
@@ -470,8 +518,8 @@ world = {
     'Atlético Junior': 'Junior de Barranquilla',
     'Deportivo Canarias': 'Deportiva Canarias',
     'Santo Andre': 'Santo André',
-    'América (Cali)': 'America de Cali',
-    'América Cali': 'America de Cali',
+
+
     'Atletico-MG': 'Atlético Mineiro',
     'Deportivo Concepción': 'Deportes Concepción',
     'Colón': 'CA Colón',
@@ -639,6 +687,7 @@ world = {
     'Groningen': 'FC Groningen',
     'Zenit Leningrad': 'FC Zenit Saint Petersburg',
     'Borussia Moenchengladbach': 'Borussia Mönchengladbach',
+    'Borussia Monchengladbach': 'Borussia Mönchengladbach',
     'Inter-Bratislava': 'FK Inter Bratislava',
     'Limassol': 'AEL Limassol',
     'RSD Alcala': 'RSD Alcalá',
@@ -688,7 +737,11 @@ world = {
     #Dominican Rep>, <Team: Dominican Rep.>]
     'Galt FC': 'Galt F.C.',
     'L.D.U. Quito': 'LDU Quito',
-    'Project-40': 'Project40',
+
+    'US Pro 40': 'US Project 40',
+    'Project-40': 'Nike Project-40',
+    'Project40': 'Nike Project-40',
+    'Project 40': 'Nike Project-40',
     
     'Independencia': 'Independência',
     'Central Espanol': 'Central Español',
@@ -696,7 +749,6 @@ world = {
     'Nublense': 'Ñublense',
     'EC Vitoria': 'EC Vitória',
     #Santa Lucia>, <Team: Santa Lucía>]
-    'América Cali': 'América (Cali)',
 
     'University of Massachusetts-Amherst': 'University of Massachusetts Amherst',
 
@@ -1157,9 +1209,10 @@ world = {
     'Hannover \'96': 'Hannover 96',
     'hertha': 'Hertha BSC',
     'Hertha': 'Hertha BSC',
+
     'Karlsruhe': 'Karlsruher SC',
-    'Karlsruher SC': 'Karlsruher FV',
     'Karlsruhe FV': 'Karlsruher FV',
+
     'FC Cologne': '1. FC Köln',
     'F. C. Koln': '1. FC Köln',
     '1.FC Koln': '1. FC Köln',
@@ -1320,11 +1373,17 @@ world = {
     'Cucuta Deportivo': 'Cúcuta Deportivo',
     'Boyaca Chico': 'Boyacá Chicó',
     'Independiente Medellin': 'Independiente Medellín',
-    'América (Cali)': 'América Cali',
+
     'Atletico Nacional': 'Atlético Nacional',
     'Junior (Colombia)': 'Junior de Barranquilla',
     'Atletico Junior': 'Junior de Barranquilla',
     'Atlético Junior': 'Junior de Barranquilla',
+
+    'América Cali': 'America de Cali',
+    'América Cali': 'América (Cali)',
+    'América (Cali)': 'América Cali',
+
+    'América (Cali)': 'America de Cali',
     'America de Cali': 'América de Cali',
     'America (Cali)': 'América de Cali',
     'América Cali': 'América de Cali',
@@ -1333,7 +1392,9 @@ world = {
     'America-Cali': 'América de Cali',
     'Buenaventura - Colombia': 'Buenaventura',
     'Bueneventura (Colombia)': 'Buenaventura',
+
     'Deportivo Cali - Colombia': 'Deportivo Cali',
+
     'Millonarios - Colombia': 'Millonarios',
     'Millionarios -- Colombia': 'Millonarios',
     'Millionarios': 'Millonarios FC',
@@ -1699,9 +1760,13 @@ world = {
     'Luis Angel Firpo - El Salvador': 'Luis Angel Firpo',
     'LA Firpo': 'Luis Angel Firpo',
     'FC Firpo': 'Luis Angel Firpo',
-    'Club Deportivo Marte': 'Marte',
+    'Club Deportivo Marte': 'C.D. Atlético Marte',
+    #'Marte FC': 'C.D. Atlético Marte',
     'Marte FC': 'Marte',
-    'Marte': 'C.D. Atlético Marte',
+    #'Marte': 'C.D. Atlético Marte',
+
+
+
     'Atletico Marte': 'C.D. Atlético Marte',
     'C.D. Atletico Marte': 'C.D. Atlético Marte',
 
@@ -1798,7 +1863,8 @@ world = {
     'Platense': 'Platense F.C.',
     'CD Platense': 'Platense FC',
     'Platense F.C.': 'Platense FC',
-    'Real Espana': 'Real España',
+
+    #'Real Espana': 'Real España',
     'Real Espana-- Honduras': 'Real CD Espana',
     'Real CD Espana': 'Real C.D. España',
 
@@ -1833,14 +1899,17 @@ world = {
     #Mirador (Mexico)
     #Gray Bears (Mexico)
 
-    'CF América': 'Club América',
-    'América': 'Club América',
+    'Centro Union': 'Club América', # name map
+    #'CF América': 'Club América',
+    #'América': 'Club América',
     'Club America': 'Club América',
-    'CF América': 'Club América',
     'Club America -- Mexico': 'Club America',
+
     'Asturias': 'CF Asturias',
-    'Club de Fútbol Asturias': 'CF Asturias',
+    'Club Asturias': 'CF Asturias',
+
     'Real Club Espana': 'Real Club España',
+
     'Atlante - Mexico': 'Atlante',
     'Atlante FC': 'Atlante F.C.',
     'Atlante': 'Atlante F.C.',
@@ -1851,7 +1920,12 @@ world = {
     'F.C. Atlas': 'Atlas',
     'Atlas Academicos - Mexico': 'Atlas Academicos',
     'Atletico Espanol': 'Atlético Español',
+
     'Atletico Potosino': 'Atlético Potosino',
+    'A.Potosino': 'Atlético Potosino',
+    'A. Potosino': 'Atlético Potosino',
+
+
     'Bachilleres - Mexico': 'Bachilleres',
     'Bachilleres (Mexico)': 'Bachilleres',
     'Bachillieres (Mexico)': 'Bachilleres',
@@ -1881,22 +1955,29 @@ world = {
     'Gallos de Jalisco': 'Club Jalisco',
     'Jalisco - Mexico': 'Jalisco',
     'Jalisco': 'Club Jalisco',
-    'León': 'Club León',
+
+    'Mexico Cricket': 'Mexico Cricket Club',
+
+    #'León': 'Club León',
     'Leon': 'Club León',
     'Club Leon': 'Club León',
     'Leon -- Mexico': 'Leon',
+
     'México Country Club': 'México Cricket Club',
     'Mexico Cricket Club': 'México Cricket Club',
+
     'Morelia - Mexico': 'Morelia',
     'Morelia -- Mexico': 'Morelia',
+    'Morelia': 'Monarcas Morelia',
+
+    'Atletico Morelia': 'Monarcas Morelia',
     'Athletico Morelia': 'Monarcas Morelia',
     'Athlético Morelia': 'Monarcas Morelia',
-    'Atlético Morelia': 'Monarcas Morelia',
-    'Morelia': 'Monarcas Morelia',
     'Athlético Morelia': 'Monarcas Morelia',
     'Atlético Morelia': 'Monarcas Morelia',
-    
+
     'CA Monarcas Morelia': 'Monarcas Morelia',
+
     'Monterrey - Mexico': 'Monterrey',
     'Monterrey': 'CF Monterrey',
     'Monterrey (Mexico)': 'CF Monterrey',
@@ -1913,12 +1994,14 @@ world = {
     
     'Queretaro': 'Querétaro FC',
     'Querétaro': 'Querétaro FC',
+    'Queretaro FC': 'Querétaro FC',
 
     # Actually separate teams?
     'Atletas Campesinos': 'Querétaro FC',
     'Gallos Blancos': 'Querétaro FC',
     #'Cobras de Queretaro': 'Querétaro FC',
 
+    'A.Pachuca': 'Pachuca',
     'Club Pachuca': 'Pachuca',
     'Pachuca FC': 'Pachuca',
     'Pachuca-- Mexico': 'Pachuca',
@@ -1939,8 +2022,11 @@ world = {
     'Santos Laguna - Mexico': 'Santos Laguna',
     'Santos -- Mexico': 'Santos Laguna',
     'Club Sol - Mexico': 'Club Sol',
-    'Tampico-Madero': 'Tampico Madero',
+
+    'Tampico': 'Tampico Madero FC',
+    'Tampico-Madero': 'Tampico Madero FC',
     'Tampico Madero': 'Tampico Madero FC',
+
     'Tapatio': 'CD Tapatio',
     'Tapatios': 'CD Tapatio',
     'Tapatio - Mexico': 'CD Tapatio',
@@ -1965,11 +2051,16 @@ world = {
     'Toluca -- Mexico': 'Toluca',
     'Toluca - Mexico': 'Toluca',
     'Deportivo Toluca': 'Toluca',
-    'Torreón F.C.': 'Torreón FC',
+
+    #'Torreón F.C.': 'Torreón FC',
+    'Torreon': 'Torreón FC',
+    'Torreon FC': 'Torreón FC',
+
     'Univ. de Guadalajara - Mexico': 'Universidad de Guadalajara',
     'Univ. de Guadalajara': 'Universidad de Guadalajara',
     'Univ Guadalajara': 'Universidad de Guadalajara',
     'Universidad Guadalajara': 'Universidad de Guadalajara',
+    'U.de G.': 'Universidad de Guadalajara',
     'U de G': 'Universidad de Guadalajara',
     'U Guadalajara': 'Universidad de Guadalajara',
     'Club Tigres - Mexico': 'Tigres',
@@ -2192,13 +2283,7 @@ usa = {
 
     'St Lawrence': 'St. Lawrence',
 
-
-
     
-    # Need to make sure America is not a regional US team.
-    'America': 'América',
-
-
     # Northern New England
     'West End Polish FC': 'West End Polish Club',
     'Esmond Cortez': 'Esmond Cortex',
@@ -2239,17 +2324,20 @@ usa = {
 
     'J & J Dobson AA': 'J & J Dobson FC',
 
-    'US Pro 40': 'US Project 40',
+
 
     'St. Patricks': 'St. Patrick\'s',
     'St. George FC': 'St. George F.C.',
 
-    'Espana': 'España', # This is a Mexican team.
+
 
     'Splitdorf F.C': 'Splitdorf F.C.', #find
+
+    # Mexico
+    'Espana': 'España', # This is a Mexican team.
     'San Sebastian': 'San Sebastián',
 
-    'Angeles': 'Ángeles',
+
 
 
 

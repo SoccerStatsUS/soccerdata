@@ -9,7 +9,7 @@ Round: First Round
 
 ; Unión Española         ; 2-1; Colo Colo 
 ; Santiago Morning       ; 3-2; Universidad de Chile
-; Audax Italiano             ; 2-1; Universidad Católica             
+; Audax Italiano             ; 2-1; Universidad Catolica             
 ; Magallanes                     ; 2-0; Badminton
 ; Green Cross                        ; 4-2; Santiago National Juventus 
 
@@ -40,7 +40,7 @@ Competition: Chilean Primera Division
 * 3.Audax Italiano       18  8  5  5  51-35  21   
 * 4.Magallanes               18  7  6  5  41-37  20
 * 5.Unión Española           17  7  5  5  43-41  19
-* 6.Universidad Católica     18  9  0  9  40-49  18
+* 6.Universidad Catolica     18  9  0  9  40-49  18
 * 7.Santiago N. Juventus     18  5  4  9  36-48  14
 * 8.Green Cross              17  6  0 11  31-44  12
 * 9.Universidad de Chile     18  5  1 12  37-45  11
@@ -49,13 +49,13 @@ Competition: Chilean Primera Division
 
 Round: Round 1
 ; Green Cross            ; 2-0; Magallanes
-; Colo Colo                  ; 5-1; Universidad Católica     
+; Colo Colo                  ; 5-1; Universidad Catolica     
 ; Audax Italiano                 ; 2-3; Santiago Morning
 ; Universidad de Chile           ; 5-1; Badminton
 ; Santiago Nat. Juventus         ; 1-1; Unión Española
 
 Round: Round 2
-; Green Cross            ; 2-3; Universidad Católica
+; Green Cross            ; 2-3; Universidad Catolica
 ; Unión Española             ; 2-4; Santiago Morning
 ; Audax Italiano                 ; 4-1; Universidad de Chile                
 ; Santiago Nat. Juventus         ; 1-2; Badminton
@@ -63,13 +63,13 @@ Round: Round 2
 
 Round: Round 3
 ; Colo Colo              ; 2-2; Santiago Morning             
-; Audax Italiano             ; 6-1; Universidad Católica     
+; Audax Italiano             ; 6-1; Universidad Catolica     
 ; Magallanes                     ; 4-1; Santiago National Juventus
 ; Universidad de Chile           ; 2-4; Green Cross
 ; Unión Española                 ; 5-2; Badminton
 
 Round: Round 4
-; Universidad de Chile   ; 1-2; Universidad Católica        
+; Universidad de Chile   ; 1-2; Universidad Catolica        
 ; Green Cross   ; 5-2; Badminton
 ; Colo Colo         ; 3-0; Audax Italiano
 ; Santiago Morning  ; 2-0; Santiago National Juventus
@@ -78,7 +78,7 @@ Round: Round 4
 Round: Round 5
 ; Colo Colo              ; 2-2; Unión Española
 ; Green Cross                ; 2-3; Santiago Morning
-; Santiago Nat. Juventus     ; 3-4; Universidad Católica
+; Santiago Nat. Juventus     ; 3-4; Universidad Catolica
 ; Magallanes                 ; 4-2; Universidad de Chile
 ; Audax Italiano                 ; 3-1; Badminton  
 
@@ -87,11 +87,11 @@ Round: Round 6
 ; Green Cross                ; 2-3; Santiago National Juventus
 ; Audax Italiano                 ; 6-2; Unión Española
 ; Colo Colo                          ; 2-1; Universidad de Chile
-; Universidad Católica               ; 1-0; Badminton
+; Universidad Catolica               ; 1-0; Badminton
 
 Round: Round 7
 ; Unión Española         ; 4-1; Universidad de Chile
-; Magallanes                             ; 3-2; Universidad Católica                 
+; Magallanes                             ; 3-2; Universidad Catolica                 
 ; Colo Colo                                  ; 6-3; Santiago National Juventus
 ; Santiago Morning                           ; 2-2; Badminton
 ; Audax Italiano                                 ; 1-0; Green Cross
@@ -101,10 +101,10 @@ Round: Round 8
 ; Colo Colo                  ; 3-1; Green Cross
 ; Audax Italiano                 ; 3-1; Santiago National Juventus
 ; Magallanes                         ; 3-3; Badminton
-; Unión Española                         ; 4-2; Universidad Católica        
+; Unión Española                         ; 4-2; Universidad Catolica        
 
 Round: Round 9
-; Santiago Morning       ; 4-2; Universidad Católica                 
+; Santiago Morning       ; 4-2; Universidad Catolica                 
 ; Unión Española             ; 4-1; Green Cross
 ; Audax Italiano                 ; 2-2; Magallanes
 ; Universidad de Chile           ; 6-1; Santiago National Juventus
@@ -112,14 +112,14 @@ Round: Round 9
 
 Round: Round 10
 ; Magallanes             ; 5-1; Green Cross
-; Universidad Católica   ; 2-3; Colo Colo    
+; Universidad Catolica   ; 2-3; Colo Colo    
 ; Santiago Morning       ; 1-1; Audax Italiano
 ; Badminton                  ; 2-4; Universidad de Chile
 ; Unión Española                 ; 1-1; Santiago National Juventus  
 
 Round: Round 11
 
-; Universidad Católica   ; 1-2; Green Cross
+; Universidad Catolica   ; 1-2; Green Cross
 ; Santiago Morning       ; 3-5; Unión Española 
 ; Universidad de Chile   ; 4-3; Audax Italiano
 ; Badminton     ; 4-5; Santiago National Juventus
@@ -127,13 +127,13 @@ Round: Round 11
 
 Round: Round 12
 ; Santiago Morning       ; 0-3; Colo Colo   
-; Universidad Católica   ; 4-8; Audax Italiano               
+; Universidad Catolica   ; 4-8; Audax Italiano               
 ; Santiago Nat. Juventus ; 1-1; Magallanes                   
 ; Green Cross            ; 1-0; Universidad de Chile
 ; Badminton                  ; 2-4; Unión Española
 
 Round: Round 13
-; Universidad Católica   ; 2-3; Universidad de Chile
+; Universidad Catolica   ; 2-3; Universidad de Chile
 ; Badminton              ; 3-1; Green Cross 
 ; Audax Italiano             ; 3-3; Colo Colo                
 ; Santiago Nat. Juventus     ; 4-1; Santiago Morning         
@@ -142,7 +142,7 @@ Round: Round 13
 Round: Round 14
 ; Unión Española         ; 0-3; Colo Colo
 ; Santiago Morning       ; 2-0; Green Cross
-; Universidad Católica   ; 3-1; Santiago National Juventus  
+; Universidad Catolica   ; 3-1; Santiago National Juventus  
 ; Universidad de Chile   ; 0-1; Magallanes
 ; Badminton     ; 3-1; Audax Italiano
 
@@ -151,11 +151,11 @@ Round: Round 15
 ; Santiago Nat. Juventus ; 5-3; Green Cross
 ; Unión Española             ; 2-2; Audax Italiano
 ; Universidad de Chile       ; 2-4; Colo Colo       
-; Badminton     ; 0-1; Universidad Católica
+; Badminton     ; 0-1; Universidad Catolica
 
 Round: Round 16
 ; Universidad de Chile   ; 3-3; Unión Española      
-; Universidad Católica   ; 4-3; Magallanes                   
+; Universidad Catolica   ; 4-3; Magallanes                   
 ; Santiago Nat. Juventus ; 2-3; Colo Colo
 ; Badminton              ; 1-1; Santiago Morning    
 ; Green Cross                ; 3-2; Audax Italiano
@@ -165,10 +165,10 @@ Round: Round 17
 ; Green Cross   ; 1-5; Colo Colo         
 ; Santiago Nat. Juventus ; 1-1; Audax Italiano               
 ; Badminton              ; 1-2; Magallanes
-; Universidad Católica   ; 2-0; Unión Española
+; Universidad Catolica   ; 2-0; Unión Española
 
 Round: Round 18
-; Universidad Católica   ; 3-1; Santiago Morning
+; Universidad Catolica   ; 3-1; Santiago Morning
 ; Green Cross;             np; Unión Española
 ; Magallanes                 ; 0-3; Audax Italiano  
 ; Santiago Nat. Juventus     ; 2-1; Universidad de Chile
@@ -180,7 +180,7 @@ Round: Round 18
 * 3.Audax Italiano       18  8  5  5  51-35  21   
 * 4.Magallanes               18  7  6  5  41-37  20
 * 5.Unión Española           17  7  5  5  43-41  19
-* 6.Universidad Católica     18  9  0  9  40-49  18
+* 6.Universidad Catolica     18  9  0  9  40-49  18
 * 7.Santiago N. Juventus     18  5  4  9  36-48  14
 * 8.Green Cross              17  6  0 11  31-44  12
 * 9.Universidad de Chile     18  5  1 12  37-45  11

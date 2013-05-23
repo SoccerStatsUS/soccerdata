@@ -5,6 +5,19 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Seattle Sounders',
+        'founded': datetime.datetime(1974, 1, 23),
+        'city': 'Seattle, WA',
+        },
+
+{ 
+        'name': 'Seattle Sounders Reserves',
+        'city': 'Seattle, WA',
+        },
+
+
     {
         'name': 'Seattle Storm',
         'city': 'Seattle, WA',
@@ -30,6 +43,18 @@ l = [
     {
         'name': 'Seattle Mitre Eagles',
         'city': 'Seattle, WA',
+        },
+
+    {
+        'name': 'Spokane Shine',
+        'city': 'Spokane, WA',
+        'founded': 2010,
+        },
+
+    {
+        'name': 'Spokane Black Widows',
+        'city': 'Spokane, WA',
+        'founded': 2010,
         },
 
     {

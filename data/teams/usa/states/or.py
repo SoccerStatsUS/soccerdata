@@ -5,6 +5,19 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Portland Timbers',
+        'founded': 1975,
+        'city': 'Portland, OR',
+        },
+
+{ 
+        'name': 'Portland Timbers Reserves',
+        'city': 'Portland, OR',
+        },
+
+
     {
         'name': 'Portland Timbers U23s',
         'city': 'Portland, OR',

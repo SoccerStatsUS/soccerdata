@@ -14,7 +14,7 @@ Competition: Chilean Primera Division
 *10.Antofagasta                      34 10 12 12  42-51  32  (Antofagasta)
 *11.O'Higgins                           34 12  8 14  36-47  32  (Rancagua) 
 *12.Huachipato                             34 10 11 13  43-45  31  (Talcahuano) 
-*13.Universidad Católica                   34 13  4 17  49-51  30  
+*13.Universidad Catolica                   34 13  4 17  49-51  30  
 *14.Magallanes                             34 13  4 17  50-55  30     
 *15.Green Cross-Temuco                     34 10 10 14  45-51  30  (Temuco)            
 *16.Everton                                   34 10  9 15  43-52  29  (Viña del Mar)     
@@ -26,7 +26,7 @@ Round: Round 1
 ; Magallanes             ; 1-1; Green Cross 
 ; Unión Española             ; 0-0; Colo Colo        
 ; Universidad de Chile       ; 2-2; Unión Calera
-; Antofagasta   ; 0-3; Universidad Católica 
+; Antofagasta   ; 0-3; Universidad Catolica 
 ; Concepción        ; 1-1; La Serena 
 ; Lota Schwager         ; 0-1; Everton 
 ; Santiago Wanderers    ; 1-1; Unión San Felipe 
@@ -36,7 +36,7 @@ Round: Round 1
 Round: Round 2
 
 ; Colo Colo              ; 2-2; Santiago Wanderers
-; Universidad Católica   ; 0-1; Concepción                  
+; Universidad Catolica   ; 0-1; Concepción                  
 ; Magallanes             ; 6-0; Antofagasta                         
 ; Green Cross                ; 2-0; Audax Italiano
 ; Unión Calera                   ; 1-0; Rangers
@@ -52,7 +52,7 @@ Round: Round 3
 ; Audax Italiano         ; 2-2; Unión Calera
 ; Antofagasta                ; 3-1; Green Cross
 ; Concepción                     ; 2-1; Magallanes                  
-; Lota Schwager                      ; 3-2; Universidad Católica
+; Lota Schwager                      ; 3-2; Universidad Catolica
 ; Santiago Wanderers                 ; 1-1; Everton
 ; O'Higgins                              ; 2-2; Colo Colo
 ; Rangers                                         ; 1-0; Huachipato
@@ -60,7 +60,7 @@ Round: Round 3
 Round: Round 4
 
 ; Colo Colo              ; 2-1; Universidad de Chile        
-; Universidad Católica   ; 1-4; Unión Española
+; Universidad Catolica   ; 1-4; Unión Española
 ; Magallanes             ; 3-1; Lota Schwager
 ; Green Cross                ; 0-1; Unión Calera                    
 ; Huachipato                     ; 2-2; Audax Italiano
@@ -76,7 +76,7 @@ Round: Round 5
 ; Audax Italiano         ; 1-6; Unión San Felipe
 ; Concepción                 ; 2-1; Green Cross
 ; Lota Schwager                  ; 2-2; Antofagasta 
-; Santiago Wanderers             ; 0-3; Universidad Católica
+; Santiago Wanderers             ; 0-3; Universidad Catolica
 ; O'Higgins                          ; 1-2; La Serena
 ; Rangers                                   ; 2-3; Colo Colo
 ; Unión Calera                                  ; 5-1; Huachipato
@@ -84,7 +84,7 @@ Round: Round 5
 Round: Round 6
 
 ; Colo Colo              ; 1-1; Audax Italiano
-; Universidad Católica   ; 2-0; O'Higgins                   
+; Universidad Catolica   ; 2-0; O'Higgins                   
 ; Magallanes             ; 1-3; Santiago Wanderers
 ; Green Cross                ; 0-0; Huachipato
 ; Unión San Felipe           ; 1-4; Unión Calera
@@ -96,7 +96,7 @@ Round: Round 6
 Round: Round 7
 
 ; Unión Española         ; 0-1; Concepción
-; Universidad de Chile   ; 2-0; Universidad Católica                 
+; Universidad de Chile   ; 2-0; Universidad Catolica                 
 ; Audax Italiano         ; 0-1; Everton
 ; Lota Schwager              ; 1-1; Green Cross                     
 ; Santiago Wanderers         ; 1-1; Antofagasta
@@ -108,7 +108,7 @@ Round: Round 7
 Round: Round 8
 
 ; Magallanes             ; 0-1; Universidad de Chile
-; Universidad Católica   ; 0-0; Rangers
+; Universidad Catolica   ; 0-0; Rangers
 ; Colo Colo              ; 1-0; Huachipato
 ; Green Cross                ; 2-0; Unión San Felipe
 ; Everton                              ; 2-1; Unión Calera  
@@ -121,7 +121,7 @@ Round: Round 9
 
 ; Unión Española         ; 0-2; Green Cross          
 ; Universidad de Chile   ; 2-1; Antofagasta                         
-; Audax Italiano         ; 1-2; Universidad Católica
+; Audax Italiano         ; 1-2; Universidad Catolica
 ; Santiago Wanderers     ; 2-1; Lota Schwager
 ; O'Higgins                  ; 2-2; Concepción
 ; Rangers                                ; 0-1; Magallanes
@@ -133,7 +133,7 @@ Round: Round 10
 
 ; Magallanes             ; 2-1; Audax Italiano
 ; Unión Española             ; 3-0; Santiago Wanderers       
-; Universidad Católica       ; 1-0; Unión Calera
+; Universidad Catolica       ; 1-0; Unión Calera
 ; Green Cross                ; 2-3; Colo Colo                       
 ; Everton                             ; 2-2; Unión San Felipe       
 ; La Serena                               ; 3-2; Huachipato
@@ -150,14 +150,14 @@ Round: Round 11
 ; O'Higgins                      ; 1-1; Unión Española
 ; Rangers                                  ; 1-0; Concepción
 ; Unión Calera                                 ; 2-0; Magallanes
-; Huachipato                                       ; 2-1; Universidad Católica
+; Huachipato                                       ; 2-1; Universidad Catolica
 ; Unión San Felipe                                 ; 2-0; La Serena
 
 Round: Round 12
 
 ; Magallanes             ; 2-4; Huachipato                          
 ; Unión Española             ; 2-2; Universidad de Chile                     
-; Universidad Católica       ; 3-3; Unión San Felipe                         
+; Universidad Catolica       ; 3-3; Unión San Felipe                         
 ; Green Cross                ; 0-0; Everton
 ; La Serena                      ; 1-1; Colo Colo
 ; Antofagasta                        ; 2-4; Unión Calera
@@ -169,7 +169,7 @@ Round: Round 13
 
 ; Universidad de Chile   ; 4-1; Santiago Wanderers
 ; Audax Italiano         ; 0-0; Lota Schwager       
-; Colo Colo                  ; 2-0; Universidad Católica             
+; Colo Colo                  ; 2-0; Universidad Catolica             
 ; O'Higgins                      ; 1-0; Green Cross                  
 ; Rangers                                  ; 1-0; Unión Española
 ; Unión Calera                                 ; 1-1; Concepción
@@ -181,7 +181,7 @@ Round: Round 14
 
 ; Magallanes             ; 0-0; Colo Colo
 ; Unión Española             ; 1-1; Audax Italiano
-; Universidad Católica       ; 2-0; Everton 
+; Universidad Catolica       ; 2-0; Everton 
 ; Green Cross                ; 2-2; La Serena
 ; Antofagasta                    ; 0-0; Unión San Felipe                    
 ; Concepción                         ; 3-1; Huachipato
@@ -199,14 +199,14 @@ Round: Round 15
 ; Huachipato                                     ; 3-1; Lota Schwager
 ; Unión San Felipe                               ; 2-0; Concepción
 ; Everton                                            ; 2-2; Magallanes
-; La Serena                                              ; 0-1; Universidad Católica
+; La Serena                                              ; 0-1; Universidad Catolica
 
 Round: Round 16
 
 ; Magallanes             ; 0-1; La Serena   
 ; Unión Española             ; 1-0; Huachipato               
 ; Universidad de Chile       ; 4-0; Rangers
-; Green Cross   ; 2-1; Universidad Católica 
+; Green Cross   ; 2-1; Universidad Catolica 
 ; Antofagasta       ; 3-1; Everton
 ; Concepción            ; 2-0; Colo Colo
 ; Lota Schwager             ; 2-0; Unión San Felipe
@@ -217,7 +217,7 @@ Round: Round 17
 
 ; Audax Italiano         ; 0-1; Universidad de Chile
 ; Colo Colo                  ; 3-2; Lota Schwager   
-; Universidad Católica       ; 4-2; Magallanes               
+; Universidad Catolica       ; 4-2; Magallanes               
 ; Rangers                        ; 6-1; Green Cross
 ; Unión Calera                       ; 1-1; O'Higgins
 ; Huachipato                             ; 1-2; Santiago Wanderers
@@ -230,7 +230,7 @@ Round: Round 18
 ; Green Cross            ; 1-0; Magallanes
 ; Colo Colo                  ; 3-1; Unión Española   
 ; Unión Calera                   ; 2-2; Universidad de Chile
-; Universidad Católica           ; 2-1; Antofagasta
+; Universidad Catolica           ; 2-1; Antofagasta
 ; La Serena                      ; 2-0; Concepción
 ; Everton                                ; 1-2; Lota Schwager
 ; Unión San Felipe                       ; 1-0; Santiago Wanderers
@@ -240,7 +240,7 @@ Round: Round 18
 Round: Round 19
 
 ; Santiago Wanderers     ; 1-5; Colo Colo
-; Concepción                 ; 0-1; Universidad Católica                    
+; Concepción                 ; 0-1; Universidad Catolica                    
 ; Antofagasta                    ; 1-2; Magallanes                                  
 ; Audax Italiano                     ; 2-1; Green Cross
 ; Rangers                                      ; 1-1; Unión Calera
@@ -256,7 +256,7 @@ Round: Round 20
 ; Unión Calera               ; 1-2; Audax Italiano
 ; Green Cross                    ; 1-2; Antofagasta
 ; Magallanes                         ; 3-0; Concepción                      
-; Universidad Católica               ; 1-2; Lota Schwager
+; Universidad Catolica               ; 1-2; Lota Schwager
 ; Everton                                ; 3-2; Santiago Wanderers
 ; Colo Colo                                  ; 1-3; O'Higgins
 ; Huachipato                                     ; 2-2; Rangers
@@ -264,7 +264,7 @@ Round: Round 20
 Round: Round 21
 
 ; Universidad de Chile   ; 0-0; Colo Colo   
-; Unión Española         ; 2-1; Universidad Católica
+; Unión Española         ; 2-1; Universidad Catolica
 ; Lota Schwager              ; 2-3; Magallanes
 ; Unión Calera                   ; 2-0; Green Cross                 
 ; Audax Italiano                     ; 1-1; Huachipato
@@ -280,7 +280,7 @@ Round: Round 22
 ; Unión San Felipe                 ; 2-1; Audax Italiano
 ; Green Cross                          ; 1-2; Concepción
 ; Antofagasta                              ; 3-2; Lota Schwager     
-; Universidad Católica                     ; 2-1; Santiago Wanderers
+; Universidad Catolica                     ; 2-1; Santiago Wanderers
 ; La Serena                                ; 3-0; O'Higgins
 ; Colo Colo                                    ; 0-1; Rangers
 ; Huachipato                                       ; 3-0; Unión Calera
@@ -288,7 +288,7 @@ Round: Round 22
 Round: Round 23
 
 ; Audax Italiano         ; 0-3; Colo Colo
-; O'Higgins                  ; 1-0; Universidad Católica                    
+; O'Higgins                  ; 1-0; Universidad Catolica                    
 ; Santiago Wanderers         ; 4-0; Magallanes
 ; Huachipato                     ; 1-0; Green Cross
 ; Unión Calera                       ; 1-1; Unión San Felipe
@@ -300,7 +300,7 @@ Round: Round 23
 Round: Round 24
 
 ; Concepción             ; 1-1; Unión Española
-; Universidad Católica   ; 1-3; Universidad de Chile                 
+; Universidad Catolica   ; 1-3; Universidad de Chile                 
 ; Everton                    ; 1-0; Audax Italiano
 ; Green Cross                    ; 1-0; Lota Schwager                       
 ; Antofagasta                        ; 2-0; Santiago Wanderers
@@ -312,7 +312,7 @@ Round: Round 24
 Round: Round 25
 
 ; Universidad de Chile   ; 3-0; Magallanes
-; Rangers                ; 2-1; Universidad Católica
+; Rangers                ; 2-1; Universidad Catolica
 ; Huachipato                 ; 0-1; Colo Colo
 ; Unión San Felipe           ; 2-2; Green Cross
 ; Unión Calera                   ; 3-2; Everton     
@@ -325,7 +325,7 @@ Round: Round 26
 
 ; Green Cross            ; 1-1; Unión Española               
 ; Antofagasta                ; 0-0; Universidad de Chile                    
-; Universidad Católica       ; 1-1; Audax Italiano
+; Universidad Catolica       ; 1-1; Audax Italiano
 ; Lota Schwager                  ; 0-1; Santiago Wanderers
 ; Concepción                         ; 1-0; O'Higgins
 ; Magallanes                             ; 3-0; Rangers
@@ -337,7 +337,7 @@ Round: Round 27
 
 ; Audax Italiano         ; 1-0; Magallanes
 ; Santiago Wanderers     ; 2-0; Unión Española       
-; Unión Calera               ; 1-0; Universidad Católica
+; Unión Calera               ; 1-0; Universidad Catolica
 ; Colo Colo                      ; 2-2; Green Cross                 
 ; Unión San Felipe               ; 2-0; Everton                     
 ; Huachipato                         ; 0-0; La Serena
@@ -354,14 +354,14 @@ Round: Round 28
 ; Unión Española                               ; 4-1; O'Higgins
 ; Concepción                                       ; 2-1; Rangers
 ; Magallanes                                           ; 0-3; Unión Calera
-; Universidad Católica                                 ; 1-1; Huachipato
+; Universidad Catolica                                 ; 1-1; Huachipato
 ; La Serena                                            ; 1-2; Unión San Felipe
 
 Round: Round 29
 
 ; Huachipato             ; 2-2; Magallanes                          
 ; Universidad de Chile   ; 0-1; Unión Española                               
-; Unión San Felipe       ; 3-1; Universidad Católica                         
+; Unión San Felipe       ; 3-1; Universidad Catolica                         
 ; Everton                    ; 3-1; Green Cross
 ; Colo Colo                      ; 1-1; La Serena
 ; Unión Calera                       ; 2-0; Antofagasta
@@ -373,7 +373,7 @@ Round: Round 30
 
 ; Santiago Wanderers     ; 1-1; Universidad de Chile
 ; Lota Schwager              ; 1-2; Audax Italiano  
-; Universidad Católica       ; 2-4; Colo Colo                
+; Universidad Catolica       ; 2-4; Colo Colo                
 ; Green Cross                ; 3-1; O'Higgins                
 ; Unión Española                 ; 3-1; Rangers
 ; Concepción                         ; 2-0; Unión Calera
@@ -385,7 +385,7 @@ Round: Round 31
 
 ; Colo Colo              ; 1-2; Magallanes
 ; Audax Italiano             ; 0-0; Unión Española
-; Everton                              ; 1-2; Universidad Católica  
+; Everton                              ; 1-2; Universidad Catolica  
 ; La Serena                                ; 1-4; Green Cross
 ; Unión San Felipe                         ; 3-1; Antofagasta                       
 ; Huachipato                                   ; 1-0; Concepción
@@ -403,14 +403,14 @@ Round: Round 32
 ; Lota Schwager                          ; 1-2; Huachipato
 ; Concepción                                 ; 0-1; Unión San Felipe
 ; Magallanes                                     ; 2-1; Everton
-; Universidad Católica                           ; 5-0; La Serena
+; Universidad Catolica                           ; 5-0; La Serena
 
 Round: Round 33
 
 ; La Serena              ; 1-2; Magallanes  
 ; Huachipato                 ; 0-0; Unión Española           
 ; Rangers                              ; 2-3; Universidad de Chile
-; Universidad Católica                 ; 2-3; Green Cross 
+; Universidad Catolica                 ; 2-3; Green Cross 
 ; Everton                                  ; 2-2; Antofagasta
 ; Colo Colo                                    ; 4-1; Concepción
 ; Unión San Felipe                             ; 2-1; Lota Schwager
@@ -421,7 +421,7 @@ Round: Round 34
 
 ; Universidad de Chile   ; 5-2; Audax Italiano
 ; Lota Schwager          ; 3-1; Colo Colo   
-; Magallanes                 ; 3-0; Universidad Católica             
+; Magallanes                 ; 3-0; Universidad Catolica             
 ; Green Cross                    ; 4-2; Rangers
 ; O'Higgins                          ; 0-1; Unión Calera
 ; Santiago Wanderers                 ; 3-1; Huachipato
@@ -441,7 +441,7 @@ Round: Round 34
 *10.Antofagasta                      34 10 12 12  42-51  32  (Antofagasta)
 *11.O'Higgins                           34 12  8 14  36-47  32  (Rancagua) 
 *12.Huachipato                             34 10 11 13  43-45  31  (Talcahuano) 
-*13.Universidad Católica                   34 13  4 17  49-51  30  
+*13.Universidad Catolica                   34 13  4 17  49-51  30  
 *14.Magallanes                             34 13  4 17  50-55  30     
 *15.Green Cross-Temuco                     34 10 10 14  45-51  30  (Temuco)            
 *16.Everton                                   34 10  9 15  43-52  29  (Viña del Mar)     

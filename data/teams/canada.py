@@ -5,6 +5,44 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Toronto FC',
+        'founded': 2006,
+        'city': 'Toronto, ON',
+        },
+
+
+    {
+        'name': 'Vancouver Whitecaps',
+        'founded': datetime.datetime(1973, 12, 11),
+        'city': 'Vancouver, BC',
+        },
+
+
+{ 
+        'name': 'Montreal Impact Reserves',
+        'city': 'Montreal, QC',
+        },
+
+{ 
+        'name': 'Toronto FC Reserves',
+        'city': 'Toronto, ON',
+        },
+
+{ 
+        'name': 'Vancouver Whitecaps Reserves',
+        'city': 'Vancouver, BC',
+        },
+
+
+    {
+        'name': 'Montreal Impact',
+        'founded': 1992,
+        'city': 'Montreal, Quebec',
+        },
+
+
     {
         'name': 'Calgary Storm Select',
         'city': 'Calgary, AB',

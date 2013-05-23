@@ -6,10 +6,31 @@ import datetime
 l = [
 
     {
+        'name': 'Miami Fusion',
+        'founded': 1997,
+        'dissolved': 2001,
+        'city': 'Miami, FL',
+        },
+
+    {
+        'name': 'Tampa Bay Mutiny',
+        'founded': 1995,
+        'dissolved': 2001,
+        'city': 'Tampa, FL',
+        },
+
+
+    {
         'name': 'Miami Sharks',
         'city': 'Miami, FL',
         'founded': 1988,
         'dissolved': 1992,
+        },
+
+    {
+        'name': 'magicJack',
+        'city': 'Boca Raton, FL',
+        'founded': 2011,
         },
     {
         'name': 'Tampa Bay Rowdies',

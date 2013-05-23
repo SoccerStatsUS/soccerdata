@@ -5,6 +5,22 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Chicago Fire',
+        'founded': 1997,
+        'city': 'Chicago, IL',
+        },
+
+
+
+{ 
+        'name': 'Chicago Fire Reserves',
+        'city': 'Chicago, IL',
+        },
+
+
+
     {
         'name': 'AAC Eagles',
         'city': 'Chicago, IL',

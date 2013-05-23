@@ -24,6 +24,7 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Estadio Victor Manuel Reyna': 'Estadio Víctor Manuel Reyna',
     'Estadio Nou Camp': 'Estadio León', 
     'Invaders Complex': 'Indiana Invaders Soccer Complex',
     'Navy-Marine Corps Stadium': 'Navy–Marine Corps Memorial Stadium',

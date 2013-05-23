@@ -12,7 +12,7 @@ Competition: Chilean Primera Division
 * 5.Universidad de Chile       26 13  4  9  43-48  30     
 * 6.Green Cross    26 11  5 10  49-49  27     
 * 7.Ferrobádminton 26 11  5 10  55-56  27     
-* 8.Universidad Católica  26  9  8  9  49-43  26        
+* 8.Universidad Catolica  26  9  8  9  49-43  26        
 * 9.Santiago Wanderers    26 10  5 11  52-49  25  (Valparaíso)    
 *10.Rangers               26  9  6 11  50-52  24  (Talca)
 *11.Santiago Morning      26  9  5 12  54-67  23   
@@ -25,7 +25,7 @@ Round: Round 1
 ; Iberia                     ; 0-2; Audax Italiano   
 ; Everton                              ; 2-2; Universidad de Chile
 ; Ferrobádminton                           ; 5-1; Magallanes
-; Rangers                                        ; 4-3; Universidad Católica
+; Rangers                                        ; 4-3; Universidad Catolica
 ; Palestino                                          ; 6-1; Santiago Morning
 ; Green Cross                                            ; 1-1; Colo Colo
 
@@ -33,7 +33,7 @@ Round: Round 2
 ; Santiago Wanderers     ; 3-1; Audax Italiano
 ; Iberia                     ; 1-4; Universidad de Chile
 ; Everton                                    ; 1-0; Magallanes              
-; Ferrobádminton                                 ; 3-4; Universidad Católica
+; Ferrobádminton                                 ; 3-4; Universidad Catolica
 ; Rangers                                                        ; 2-4; Santiago Morning
 ; Palestino                                                          ; 1-2; Colo Colo
 ; Green Cross                                                        ; 2-1; Unión Española
@@ -41,7 +41,7 @@ Round: Round 2
 Round: Round 3
 ; Santiago Wanderers     ; 1-2; Universidad de Chile                 
 ; Iberia                     ; 2-3; Magallanes 
-; Everton                                   ; 0-1; Universidad Católica
+; Everton                                   ; 0-1; Universidad Catolica
 ; Ferrobádminton                                ; 3-1; Santiago Morning
 ; Rangers                                                    ; 1-2; Colo Colo
 ; Palestino                                                      ; 3-2; Green Cross
@@ -49,7 +49,7 @@ Round: Round 3
 
 Round: Round 4
 ; Santiago Wanderers     ; 4-1; Magallanes  
-; Iberia                     ; 1-4; Universidad Católica
+; Iberia                     ; 1-4; Universidad Catolica
 ; Everton                                    ; 3-0; Santiago Morning
 ; Ferrobádminton                                 ; 0-4; Colo Colo
 ; Rangers                                                 ; 2-5; Green Cross
@@ -57,7 +57,7 @@ Round: Round 4
 ; Audax Italiano                                                  ; 4-0; Universidad de Chile
 
 Round: Round 5
-; Santiago Wanderers     ; 0-2; Universidad Católica
+; Santiago Wanderers     ; 0-2; Universidad Catolica
 ; Iberia                     ; 1-4; Santiago Morning
 ; Everton                                 ; 1-2; Colo Colo
 ; Ferrobádminton                              ; 4-2; Green Cross
@@ -71,7 +71,7 @@ Round: Round 6
 ; Everton                             ; 3-0; Green Cross
 ; Ferrobádminton                          ; 3-4; Palestino
 ; Rangers                                        ; 2-3; Unión Española
-; Universidad Católica                           ; 2-2; Audax Italiano
+; Universidad Catolica                           ; 2-2; Audax Italiano
 ; Magallanes                                     ; 1-2; Universidad de Chile
 
 Round: Round 7
@@ -80,7 +80,7 @@ Round: Round 7
 ; Everton                                   ; 1-2; Palestino
 ; Ferrobádminton                                ; 2-0; Rangers
 ; Magallanes                                        ; 1-2; Unión Española
-; Universidad Católica                              ; 0-1; Universidad de Chile     
+; Universidad Catolica                              ; 0-1; Universidad de Chile     
 ; Santiago Morning                                  ; 2-2; Audax Italiano
 
 Round: Round 8
@@ -90,7 +90,7 @@ Round: Round 8
 ; Ferrobádminton                             ; 1-3; Unión Española
 ; Colo Colo                                      ; 6-0; Audax Italiano      
 ; Santiago Morning                               ; 3-2; Universidad de Chile
-; Universidad Católica                           ; 0-2; Magallanes
+; Universidad Catolica                           ; 0-2; Magallanes
 
 Round: Round 9
 ; Santiago Wanderers     ; 3-5; Palestino            
@@ -99,7 +99,7 @@ Round: Round 9
 ; Ferrobádminton                           ; 2-4; Universidad de Chile
 ; Rangers                                                  ; 2-0; Magallanes
 ; Green Cross                                                  ; 4-2; Santiago Morning
-; Colo Colo                                                        ; 5-2; Universidad Católica
+; Colo Colo                                                        ; 5-2; Universidad Catolica
 
 Round: Round 10
 ; Santiago Wanderers     ; 1-1; Rangers
@@ -108,7 +108,7 @@ Round: Round 10
 ; Palestino                                           ; 1-2; Audax Italiano
 ; Green Cross                                             ; 1-2; Universidad de Chile       
 ; Colo Colo                                                   ; 3-3; Magallanes
-; Santiago Morning                                            ; 4-2; Universidad Católica
+; Santiago Morning                                            ; 4-2; Universidad Catolica
 
 Round: Round 11
 ; Santiago Wanderers     ; 1-3; Ferrobádminton
@@ -117,13 +117,13 @@ Round: Round 11
 ; Palestino                                  ; 1-1; Universidad de Chile
 ; Green Cross                                    ; 1-1; Magallanes
 ; Colo Colo                                          ; 4-1; Santiago Morning
-; Universidad Católica                               ; 1-3; Unión Española
+; Universidad Catolica                               ; 1-3; Unión Española
 
 Round: Round 12
 ; Santiago Wanderers     ; 0-2; Everton     
 ; Ferrobádminton             ; 1-3; Audax Italiano           
 ; Rangers                              ; 2-0; Iberia         
-; Green Cross                              ; 2-2; Universidad Católica
+; Green Cross                              ; 2-2; Universidad Catolica
 ; Palestino                                    ; 4-2; Magallanes
 ; Colo Colo                                        ; 4-0; Universidad de Chile
 ; Santiago Morning                                 ; 0-2; Unión Española
@@ -132,7 +132,7 @@ Round: Round 13
 ; Santiago Wanderers     ; 2-1; Iberia
 ; Everton                    ; 2-3; Ferrobádminton  
 ; Rangers                                        ; 3-0; Universidad de Chile                 
-; Palestino                                          ; 3-3; Universidad Católica             
+; Palestino                                          ; 3-3; Universidad Catolica             
 ; Green Cross                                            ; 2-1; Audax Italiano
 ; Colo Colo                                                  ; 3-0; Unión Española
 ; Santiago Morning                                           ; 5-5; Magallanes
@@ -142,7 +142,7 @@ Round: Round 14
 ; Audax Italiano             ; 3-0; Iberia
 ; Universidad de Chile       ; 1-1; Everton 
 ; Magallanes    ; 0-2; Ferrobádminton
-; Universidad Católica   ; 1-1; Rangers
+; Universidad Catolica   ; 1-1; Rangers
 ; Santiago Morning       ; 4-5; Palestino
 ; Colo Colo                  ; 1-1; Green Cross
 
@@ -150,7 +150,7 @@ Round: Round 15
 ; Audax Italiano         ; 1-0; Santiago Wanderers
 ; Universidad de Chile   ; 3-1; Iberia
 ; Magallanes    ; 3-1; Everton
-; Universidad Católica   ; 1-1; Ferrobádminton      
+; Universidad Catolica   ; 1-1; Ferrobádminton      
 ; Santiago Morning       ; 3-5; Rangers
 ; Colo Colo                  ; 3-0; Palestino
 ; Unión Española                 ; 1-5; Green Cross
@@ -158,7 +158,7 @@ Round: Round 15
 Round: Round 16
 ; Universidad de Chile   ; 1-2; Santiago Wanderers  
 ; Magallanes    ; 4-2; Iberia             
-; Universidad Católica                 ; 4-0; Everton
+; Universidad Catolica                 ; 4-0; Everton
 ; Santiago Morning                     ; 1-1; Ferrobádminton        
 ; Colo Colo                                ; 3-2; Rangers
 ; Green Cross                                  ; 0-2; Palestino
@@ -166,7 +166,7 @@ Round: Round 16
 
 Round: Round 17
 ; Magallanes             ; 4-2; Santiago Wanderers
-; Universidad Católica   ; 2-0; Iberia   
+; Universidad Catolica   ; 2-0; Iberia   
 ; Santiago Morning       ; 1-2; Everton      
 ; Colo Colo                  ; 3-3; Ferrobádminton
 ; Green Cross                    ; 1-0; Rangers
@@ -174,7 +174,7 @@ Round: Round 17
 ; Universidad de Chile               ; 2-1; Audax Italiano
 
 Round: Round 18
-; Universidad Católica   ; 0-1; Santiago Wanderers
+; Universidad Catolica   ; 0-1; Santiago Wanderers
 ; Santiago Morning       ; 2-1; Iberia
 ; Colo Colo                  ; 3-1; Everton 
 ; Green Cross                    ; 2-2; Ferrobádminton
@@ -188,7 +188,7 @@ Round: Round 19
 ; Green Cross                    ; 0-1; Everton
 ; Palestino                          ; 3-3; Ferrobádminton  
 ; Magallanes                             ; 1-1; Rangers
-; Audax Italiano                             ; 2-1; Universidad Católica
+; Audax Italiano                             ; 2-1; Universidad Catolica
 ; Universidad de Chile                       ; 2-2; Magallanes
 
 Round: Round 20
@@ -197,7 +197,7 @@ Round: Round 20
 ; Palestino                      ; 0-1; Everton
 ; Rangers                                ; 4-0; Ferrobádminton      
 ; Unión Española                             ; 1-1; Magallanes
-; Universidad de Chile                       ; 0-4; Universidad Católica
+; Universidad de Chile                       ; 0-4; Universidad Catolica
 ; Audax Italiano                                 ; 2-2; Santiago Morning
 
 Round: Round 21
@@ -207,7 +207,7 @@ Round: Round 21
 ; Unión Española                             ; 1-2; Ferrobádminton
 ; Audax Italiano                                 ; 1-2; Colo Colo
 ; Universidad de Chile                           ; 2-1; Santiago Morning
-; Magallanes    ; 1-3; Universidad Católica
+; Magallanes    ; 1-3; Universidad Catolica
 
 Round: Round 22
 ; Palestino              ; 2-2; Santiago Wanderers
@@ -216,7 +216,7 @@ Round: Round 22
 ; Universidad de Chile           ; 0-2; Ferrobádminton
 ; Magallanes    ; 1-2; Rangers
 ; Santiago Morning  ; 0-2; Green Cross
-; Universidad Católica  ; 0-0; Colo Colo
+; Universidad Catolica  ; 0-0; Colo Colo
 
 Round: Round 23
 ; Rangers                ; 1-0; Santiago Wanderers
@@ -225,7 +225,7 @@ Round: Round 23
 ; Audax Italiano                     ; 3-2; Palestino
 ; Universidad de Chile               ; 1-0; Green Cross
 ; Magallanes    ; 3-8; Colo Colo
-; Universidad Católica   ; 2-2; Santiago Morning
+; Universidad Catolica   ; 2-2; Santiago Morning
 
 Round: Round 24
 ; Ferrobádminton         ; 3-1; Santiago Wanderers
@@ -234,13 +234,13 @@ Round: Round 24
 ; Universidad de Chile                    ; 0-1; Palestino
 ; Magallanes    ; 0-2; Green Cross
 ; Santiago Morning  ; 2-1; Colo Colo 
-; Unión Española        ; 1-2; Universidad Católica
+; Unión Española        ; 1-2; Universidad Catolica
 
 Round: Round 25
 ; Everton                ; 2-2; Santiago Wanderers           
 ; Audax Italiano             ; 2-0; Ferrobádminton           
 ; Iberia                                                  ; 1-1; Rangers
-; Universidad Católica                                    ; 1-2; Green Cross
+; Universidad Catolica                                    ; 1-2; Green Cross
 ; Magallanes                                              ; 2-3; Palestino
 ; Universidad de Chile                                    ; 1-6; Colo Colo
 ; Unión Española                                              ; 1-2; Santiago Morning
@@ -249,7 +249,7 @@ Round: Round 26
 ; Iberia                 ; 0-0; Santiago Wanderers  
 ; Ferrobádminton             ; 2-3; Everton
 ; Universidad de Chile       ; 4-2; Rangers
-; Universidad Católica       ; 2-2; Palestino
+; Universidad Catolica       ; 2-2; Palestino
 ; Audax Italiano                 ; 4-2; Green Cross
 ; Unión Española                     ; 1-3; Colo Colo
 ; Magallanes                             ; 1-4; Santiago Morning
@@ -262,7 +262,7 @@ Round: Round 26
 * 5.Universidad de Chile       26 13  4  9  43-48  30     
 * 6.Green Cross    26 11  5 10  49-49  27     
 * 7.Ferrobádminton 26 11  5 10  55-56  27     
-* 8.Universidad Católica  26  9  8  9  49-43  26        
+* 8.Universidad Catolica  26  9  8  9  49-43  26        
 * 9.Santiago Wanderers    26 10  5 11  52-49  25  (Valparaíso)    
 *10.Rangers               26  9  6 11  50-52  24  (Talca)
 *11.Santiago Morning      26  9  5 12  54-67  23   

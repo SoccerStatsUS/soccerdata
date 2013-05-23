@@ -6,7 +6,6 @@ d = {
     'competition': 'Primera División de Costa Rica',
     'team_data': ['Champion'],
 
-
     'Champion': [
         ('2012 Apertura', 'LD Alajuelense'),
         ('2012 Clausura', 'CS Herediano'),

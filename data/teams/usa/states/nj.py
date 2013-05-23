@@ -6,6 +6,58 @@ import datetime
 l = [
 
     {
+        'name': 'Holyoke Falcos',
+        'founded': 1921,
+        'dissolved': 1924,
+        'city': 'Holyoke, NJ',
+        },
+    {
+        'name': 'Jersey City Celtics',
+        'founded': 1921,
+        'dissolved': 1922,
+        'city': 'Jersey City, NJ',
+        },
+
+
+    # Need to separate later Paterson FC teams (there are multiple.)
+    {
+        'name': 'Paterson F.C.',
+        'founded': 1917,
+        'dissolved': 1923,
+        'city': 'Paterson, NJ',
+        },
+
+    {
+        'name': 'Newark Skeeters',
+        'founded': 1923,
+        'dissolved': 1929,
+        'city': 'Newark, NJ',
+        },
+
+
+
+
+
+    {
+        'name': 'Newark Americans',
+        'founded': 1930,
+        'dissolved': 1932,
+        'city': 'Newark, NJ',
+        },
+
+
+
+
+    {
+        'name': 'Harrison Erie F.C.',
+        'founded': 1919,
+        'dissolved': 1923,
+        'city': 'Harrison, NJ',
+        },
+
+
+
+    {
         'name': 'New Jersey Brewers',
         #'city': 'Brooklyn, NY',
         'founded': 1972,

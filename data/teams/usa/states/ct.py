@@ -4,6 +4,14 @@
 import datetime
 
 l = [
+
+    {
+        'name': 'Hartford Americans',
+        'founded': 1927,
+        'dissolved': 1928,
+        'city': 'Hartford, CT',
+        },
+
     {
         'name': 'Connecticut FC Azul',
         'city': 'Hamden, CT',
@@ -13,6 +21,11 @@ l = [
     {
         'name': 'Danbury United',
         'city': 'Danbury, CT',
+        },
+
+    {
+        'name': 'SoccerPlus Connecticut',
+        'city': 'New Britain, CT',
         },
 
     {

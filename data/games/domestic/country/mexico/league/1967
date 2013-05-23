@@ -28,10 +28,10 @@ Round: Round 16
 ; Atlante     ; 1-1; Oro
 ; Pachuca     ; 0-2; Necaxa
 ; Atlas       ; 2-1; Cruz Azul
-; Morelia     ; 1-1; León
+; Morelia     ; 1-1; Club León
 ; Irapuato    ; 0-0; Guadalajara
 ; Veracruz    ; 0-2; Toluca
-; Nuevo León  ; 2-1; América
+; Nuevo León  ; 2-1; Club America
  
 Round: Round 17
 
@@ -42,10 +42,10 @@ Francisco Jara; Elias Muñoz
 ; Oro         ; 1-1; Nuevo León
 Benjamín Ávila 5; Dámaso Pérez 43
 
-; León        ; 3-0; Atlas
+; Club León        ; 3-0; Atlas
 Sergio Anaya 7, Carlos Barajas 48, Roberto Rodriguez 80;
 
-; América     ; 3-0; Morelia
+; Club America     ; 3-0; Morelia
 ; Monterrey   ; 3-2; Pachuca
 ; Necaxa      ; 1-2; Veracruz
 ; Cruz Azul   ; 2-2; Irapuato
@@ -60,11 +60,11 @@ Leonel Urbina 72; Miguel Angel Perrichón 12, Berico 60
 
 ; Necaxa      ; 1-1; Toluca
 ; Nuevo León  ; 0-1; Atlante
-; Irapuato    ; 1-1; León
+; Irapuato    ; 1-1; Club León
 ; Pumas       ; 4-1; Cruz Azul
 ; Veracruz    ; 1-0; Monterrey
 
-; Atlas       ; 1-1; América
+; Atlas       ; 1-1; Club America
 José Antonio Pérez 60; Javier Fragoso
  
 Round: Round 19
@@ -74,20 +74,20 @@ Round: Round 19
 
 ; Atlante     ; 5-0; Morelia
 ; Guadalajara ; 0-0; Veracruz
-; América     ; 0-0; Irapuato
+; Club America     ; 0-0; Irapuato
 ; Monterrey   ; 0-0; Necaxa
 ; Toluca      ; 2-0; Nuevo León
 ; Cruz Azul   ; 1-0; Pachuca
-; León        ; 2-1; Pumas
+; Club León        ; 2-1; Pumas
 
 Round: Round 20
 
 ; Necaxa      ; 0-4; Guadalajara
 ; Atlas       ; 2-3; Atlante
-; Pumas       ; 0-0; América
+; Pumas       ; 0-0; Club America
 ; Irapuato    ; 3-1; Oro
 ; Veracruz    ; 1-0; Cruz Azul
-; Pachuca     ; 2-0; León
+; Pachuca     ; 2-0; Club León
 ; Morelia     ; 1-2; Nuevo León
 ; Monterrey   ; 3-2; Toluca
 
@@ -99,9 +99,9 @@ Pedro Martinez (og) 89; Jesús Ramírez 77
 ; Nuevo León  ; 2-1; Atlas
 ; Oro         ; 3-1; Pumas
 ; Toluca      ; 2-0; Morelia
-; América     ; 1-1; Pachuca
+; Club America     ; 1-1; Pachuca
 ; Atlante     ; 3-1; Irapuato
-; León        ; 0-0; Veracruz
+; Club León        ; 0-0; Veracruz
 ; Cruz Azul   ; 0-0; Necaxa
 
 Round: Round 22
@@ -109,7 +109,7 @@ Round: Round 22
 ; Guadalajara ; 0-1; Toluca
 ; Albino Morales 1
 
-; Necaxa      ; 3-1; León
+; Necaxa      ; 3-1; Club León
 ; Atlas       ; 3-0; Morelia
 José Rodríguez 28, José Delgado 32, José Antonio Pérez 40;
 
@@ -117,7 +117,7 @@ José Rodríguez 28, José Delgado 32, José Antonio Pérez 40;
 ; Pachuca     ; 3-2; Oro
 Jesús Zárate 8, José Luis Ramírez 12, Moacyr Santos 85; David Stokes 10, Benjamín Avilán 36
 
-; Veracruz    ; 2-2; América
+; Veracruz    ; 2-2; Club America
 ; Irapuato    ; 3-2; Nuevo León
 ; Monterrey   ; 1-1; Cruz Azul
 
@@ -131,16 +131,16 @@ Berico 5; Zamora 83
 ; Cruz Azul   ; 1-0; Guadalajara
 Antonio Munguía 11;
 
-; América     ; 1-0; Necaxa
+; Club America     ; 1-0; Necaxa
 ; Toluca      ; 0-0; Atlas
-; León        ; 1-0; Monterrey
+; Club León        ; 1-0; Monterrey
 ; Morelia     ; 0-3; Irapuato
 
 Round: Round 24
 
-; Monterrey   ; 1-0; América
+; Monterrey   ; 1-0; Club America
 ; Pachuca     ; 1-1; Nuevo León
-; Guadalajara ; 2-1; León
+; Guadalajara ; 2-1; Club León
 Javier Barba 9, Isidoro Díaz 87; Sergio Anaya 35
 
 ; Irapuato    ; 2-1; Atlas
@@ -159,7 +159,7 @@ Date: 12/21/1967
 ; Oro         ; 3-2; Monterrey
 Miguel Ángel Perichón 36, Miguel Ángel Perichón 49, Berico 38; Juan González 15, Raúl Chávez 47
 
-; América     ; 0-0; Guadalajara
+; Club America     ; 0-0; Guadalajara
 
 Date: 12/24/1967
 
@@ -170,7 +170,7 @@ Date: 12/24/1967
 ; Morelia     ; 2-2; Pachuca
 ; Nuevo León  ; 1-1; Veracruz
 ; Atlante     ; 3-1; Necaxa
-; León        ; 2-0; Cruz Azul
+; Club León        ; 2-0; Cruz Azul
 
 Round: Round 26
 Date: 12/28/1967
@@ -182,11 +182,11 @@ Date: 12/31/1967
 ; Pachuca     ; 0-2; Atlas
 ; José Delgado 14, José Antonio Pérez
 
-; Cruz Azul   ; 1-0; América
+; Cruz Azul   ; 1-0; Club America
 ; Veracruz    ; 3-0; Morelia
 ; Pumas       ; 2-1; Irapuato
 ; Monterrey   ; 1-2; Atlante
-; León        ; 0-4; Toluca
+; Club León        ; 0-4; Toluca
 
 Round: Round 27
 
@@ -202,7 +202,7 @@ Date: 1/7/1968
 Miguel Ángel Pericón 44; Roberto Escalante 28
 
 ; Nuevo León  ; 3-0; Monterrey
-; América     ; 1-1; León
+; Club America     ; 1-1; Club León
 ; Pachuca     ; 3-3; Irapuato
 ; Morelia     ; 0-1; Necaxa
 ; Alberto Becerra (og)
@@ -213,11 +213,11 @@ Vicente Pereda 22, Juan Dosal 81, González (og) 88;
 Round: Round 28
 Date: None
 
-; América     ; 1-1; Toluca
+; Club America     ; 1-1; Toluca
 ; Necaxa      ; 2-1; Atlas
 Javán 34, Rafael Borja 44; Rafael Gómez 7
 
-; León        ; 5-1; Oro
+; Club León        ; 5-1; Oro
 ; Pachuca     ; 1-2; Pumas
 ; Monterrey   ; 0-2; Morelia
 ; Veracruz    ; 1-0; Irapuato
@@ -230,8 +230,8 @@ Round: Round 29
 ; Pumas       ; 2-1; Veracruz
 ; Morelia     ; 1-0; Guadalajara
 Luis Marotti 23;
-; América     ; 2-1; Oro
-; Atlante     ; 0-1; León
+; Club America     ; 2-1; Oro
+; Atlante     ; 0-1; Club León
 ; Nuevo León  ; 1-1; Cruz Azul
 ; Irapuato    ; 0-0; Necaxa
 ; Pachuca     ; 1-0; Toluca
@@ -242,10 +242,10 @@ Round: Round 30
 ; Toluca      ; 1-1; Oro
 ; Cruz Azul   ; 2-0; Morelia
 ; Necaxa      ; 1-2; Pumas
-; América     ; 1-1; Atlante
+; Club America     ; 1-1; Atlante
 ; Veracruz    ; 2-1; Pachuca
 ; Monterrey   ; 0-0; Irapuato
-; León        ; 1-0; Nuevo León
+; Club León        ; 1-0; Nuevo León
 
 *                          P   W   T   L  GF  GA  GAVG PTS 
 * 1.- Toluca              30  18   8   4  56  28  2.00  44  Champions

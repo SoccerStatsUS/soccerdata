@@ -6,6 +6,20 @@ import datetime
 l = [
 
     {
+        'name': 'D.C. United',
+        'founded': 1995,
+        'city': 'Washington D.C.',
+        },
+
+
+{ 
+        'name': 'D.C. United Reserves',
+        'city': 'Washington DC',
+        },
+
+
+
+    {
         'name': 'Washington Cavaliers',
         'city': 'Washington DC',
         'founded': 1971,
@@ -16,6 +30,12 @@ l = [
         'name': 'Washington Spirit',
         'city': 'Washington DC',
         'founded': 2012,
+        },
+
+    {
+        'name': 'Washington Freedom',
+        'city': 'Washington DC',
+        'founded': 2001,
         },
 
     {

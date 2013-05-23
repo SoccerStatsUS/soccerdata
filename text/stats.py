@@ -14,17 +14,17 @@ if not os.path.exists(DIR):
 
 
 def process_mls_2012_stats():
-    return process_stats("mls.stats.2012.csv", "Major League Soccer", source='mlssoccer.com')
+    return process_stats("mls/2012", "Major League Soccer", source='mlssoccer.com')
 
 
 def process_mls_coach_stats():
-    return process_stats("mls_coaches.csv", "Major League Soccer", source='mlssoccer.com')
+    return process_stats("mls/coaches", "Major League Soccer", source='mlssoccer.com')
 
 def process_nasl_stats():
-    return process_stats("nasl.csv", format_name=False, source='nasljerseys.com')
+    return process_stats("nasl", format_name=False, source='nasljerseys.com')
 
 def process_misl_stats():
-    return process_stats("misl.csv", format_name=False, source='nasljerseys.com')
+    return process_stats("indoor/misl", format_name=False, source='nasljerseys.com')
 
 def process_pdl_stats():
     l = []
@@ -33,18 +33,20 @@ def process_pdl_stats():
     return l
 
 
-def process_usl_stats():
+def process_usl1_stats():
     l = []
+    l.extend(process_stats("usl1/19972005", "USL First Division"))
+    l.extend(process_stats("usl1/20062007", "USL First Division"))
+    l.extend(process_stats("usl1/20082009", "USL First Division"))
+    return l
 
-
-    l.extend(process_stats("usl1_19972005.csv", "USL First Division"))
-    l.extend(process_stats("usl1_20062007.csv", "USL First Division"))
-    l.extend(process_stats("usl1_20082009.csv", "USL First Division"))
-    l.extend(process_stats("psl_stats.csv", "USL Second Division"))
-    l.extend(process_stats("usl2_20052009.csv", "USL Second Division"))
+def process_usl2_stats():
+    l = []
+    l.extend(process_stats("usl2/psl", "USL Second Division"))
+    l.extend(process_stats("usl2/20052009", "USL Second Division"))
     l.extend(process_stats("usl2/2011", "USL Pro"))
+    l.extend(process_stats("usl2/2010", "USL Pro"))
     l.extend(process_stats("usl2/2012", "USL Pro"))
-    
     return l
     
 def process_name(s):
@@ -167,6 +169,3 @@ def process_stats(fn, competition=None, format_name=True, source=None):
     return [e for e in l if e]
 
 
-if __name__ == "__main__":
-    print process_mls_stats()
-    
