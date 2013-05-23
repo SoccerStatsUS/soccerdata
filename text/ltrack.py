@@ -7,7 +7,7 @@ from soccerdata.data.alias import get_team
 from soccerdata.text.standings import process_excel_standings
 
 
-DIR = '/home/chris/www/soccerdata/data/leach'
+DIR = '/home/chris/www/soccerdata/data/ltrack'
 
 
 def format_name(s):
@@ -23,13 +23,10 @@ def format_name(s):
 
 def make_team_to_competition_dict():
     # Create a dict mapping a team name and season to a competition.
-    #from soccerdata.mongo import soccer_db
 
     l = []
-    l.extend(process_excel_standings('domestic/country/usa/mls'))
-    l.extend(process_excel_standings('domestic/country/usa/apsl'))
-    l.extend(process_excel_standings('domestic/country/usa/ussf2'))
-    l.extend(process_excel_standings('domestic/country/usa/nasl2'))
+    for e in 'mls', 'apsl', 'ussf2', 'nasl2':
+        l.extend(process_excel_standings('domestic/country/usa/%s' % e))
 
     for e in '12', 'pdl', 'premier', 'pro', 'select', 'usisl', 'usl_pro':
         l.extend(process_excel_standings('domestic/country/usa/usl/%s' % e))

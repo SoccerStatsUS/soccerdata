@@ -1,6 +1,6 @@
 from soccerdata.mongo import generic_load, soccer_db
 
-from soccerdata.text.cmp import apsl, asl, copaamerica, leach, nasl
+from soccerdata.text.cmp import apsl, asl, copaamerica, ltrack, nasl
 from soccerdata.text import awards
 from soccerdata.text import bios
 from soccerdata.text import drafts
@@ -78,8 +78,9 @@ def load_drafts():
 
 def load_games():
     load_usl()
-    load_mls() 
+    load_ltrack()
     return
+    load_mls() 
     load_uncaf()
     load_mexico()
     load_women()
@@ -122,7 +123,7 @@ def load_games():
 
 
 
-    load_leach()     
+
 
 
     load_early_friendlies()
@@ -639,10 +640,10 @@ def load_indoor():
     generic_load(soccer_db.misl_stats, stats.process_misl_stats)
 
 
-def load_leach():
-    generic_load(soccer_db.leach_goals, leach.process_goals)
-    generic_load(soccer_db.leach_games, leach.process_games)
-    generic_load(soccer_db.leach_lineups, leach.process_lineups)
+def load_ltrack()
+    generic_load(soccer_db.ltrack_goals, ltrack.process_goals)
+    generic_load(soccer_db.ltrack_games, ltrack.process_games)
+    generic_load(soccer_db.ltrack_lineups, ltrack.process_lineups)
 
 
 def load_mls_lineup_db():
