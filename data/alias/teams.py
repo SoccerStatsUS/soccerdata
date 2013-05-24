@@ -738,7 +738,8 @@ world = {
     'Galt FC': 'Galt F.C.',
     'L.D.U. Quito': 'LDU Quito',
 
-    'US Pro 40': 'US Project 40',
+    'US Pro 40': 'Nike Project-40',
+    'US Project 40': 'Nike Project-40',
     'Project-40': 'Nike Project-40',
     'Project40': 'Nike Project-40',
     'Project 40': 'Nike Project-40',

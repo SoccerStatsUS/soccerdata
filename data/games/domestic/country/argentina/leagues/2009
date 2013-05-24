@@ -1,10 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesa/arg2010.html
+Competition: Liga Argentina de Football
 
-Argentina 2009/10
 
-Apertura 2009 | Clausura 2010 | Relegation Table 
-
-Torneo Cablevisión Apertura 2009
+Season: 2009 Apertura
  
 * 1.Banfield                       19  12  5  2  25-11  41  Champions
 * 2.Newell's Old Boys (Rosario)    19  12  3  4  26-15  39
@@ -28,299 +26,415 @@ Torneo Cablevisión Apertura 2009
 *20.Tigre (Victoria)               19   2  2 15  18-42   8
 
 Round: Round 1 
-[Aug 21]
-Gimnasia y Esgrima LP   0-2 Godoy Cruz
-Independiente           0-1 Newell's Old Boys       [at Lanús]
-[Aug 22]
-Rosario Central         1-0 Racing Club
-Chacarita Juniors       1-2 Tigre                   [at Vélez Sarsfield]
-Arsenal                 0-2 Estudiantes LP
-San Lorenzo de Almagro  3-1 Atl. Tucumán
-[Aug 23]
-Banfield                2-0 River Plate
-Huracán                 1-2 Lanús
-Boca Juniors            2-2 Argentinos Juniors
-Colón                   0-1 Vélez Sarsfield
+Date: 8/21/2009
+
+; Gimnasia y Esgrima LP  ; 0-2; Godoy Cruz
+; Independiente          ; 0-1; Newell's Old Boys       ; Lanús
+
+Date: 8/22/2009
+
+; Rosario Central        ; 1-0; Racing Club
+; Chacarita Juniors      ; 1-2; Tigre                   ; Vélez Sarsfield
+; Arsenal                ; 0-2; Estudiantes LP
+; San Lorenzo de Almagro ; 3-1; Atl. Tucumán
+
+Date: 8/23/2009
+
+; Banfield               ; 2-0; River Plate
+; Huracán                ; 1-2; Lanús
+; Boca Juniors           ; 2-2; Argentinos Juniors
+; Colón                  ; 0-1; Vélez Sarsfield
  
 Round: Round 2 
-[Aug 28]
-Racing Club             1-1 Colón
-Tigre                   1-2 Rosario Central
-[Aug 29]
-Argentinos Juniors      1-1 Banfield
-Estudiantes LP          3-0 Gimnasia y Esgrima LP
-Godoy Cruz              1-1 San Lorenzo de Almagro
-Vélez Sarsfield         3-1 Arsenal
-[Aug 30]
-River Plate             4-3 Chacarita Juniors
-Lanús                   1-2 Boca Juniors
-Newell's Old Boys       1-0 Huracán
-Atl. Tucumán            2-4 Independiente
+Date: 8/28/2009
+
+; Racing Club            ; 1-1; Colón
+; Tigre                  ; 1-2; Rosario Central
+
+Date: 8/29/2009
+
+; Argentinos Juniors     ; 1-1; Banfield
+; Estudiantes LP         ; 3-0; Gimnasia y Esgrima LP
+; Godoy Cruz             ; 1-1; San Lorenzo de Almagro
+; Vélez Sarsfield        ; 3-1; Arsenal
+
+Date: 8/30/2009
+
+; River Plate            ; 4-3; Chacarita Juniors
+; Lanús                  ; 1-2; Boca Juniors
+; Newell's Old Boys      ; 1-0; Huracán
+; Atl. Tucumán           ; 2-4; Independiente
  
 Round: Round 3 
-[Sep 2]
-Argentinos Juniors      0-0 Lanús
-Arsenal                 0-0 Racing Club
-San Lorenzo de Almagro  2-2 Estudiantes LP
-[Sep 3]
-Independiente           2-0 Godoy Cruz              [at Lanús]
-Huracán                 0-2 Atl. Tucumán
-Boca Juniors            1-1 Newell's Old Boys
-[Sep 4]
-Banfield                1-0 Chacarita Juniors
-Colón                   5-1 Tigre
-Gimnasia y Esgrima LP   0-1 Vélez Sarsfield
-[Sep 8]
-Rosario Central         2-1 River Plate
+Date: 9/2/2009
+
+; Argentinos Juniors     ; 0-0; Lanús
+; Arsenal                ; 0-0; Racing Club
+; San Lorenzo de Almagro ; 2-2; Estudiantes LP
+
+Date: 9/3/2009
+
+; Independiente          ; 2-0; Godoy Cruz              ; Lanús
+; Huracán                ; 0-2; Atl. Tucumán
+; Boca Juniors           ; 1-1; Newell's Old Boys
+
+Date: 9/4/2009
+
+; Banfield               ; 1-0; Chacarita Juniors
+; Colón                  ; 5-1; Tigre
+; Gimnasia y Esgrima LP  ; 0-1; Vélez Sarsfield
+
+Date: 9/8/2009
+
+; Rosario Central        ; 2-1; River Plate
 
 Round: Round 4
-[Sep 11]
-Racing Club             1-1 Gimnasia y Esgrima LP
-Newell's Old Boys       0-1 Argentinos Juniors
-[Sep 12]
-Tigre                   1-2 Arsenal
-Chacarita Juniors       0-1 Rosario Central         [at Huracán]
-Atl. Tucumán            2-0 Boca Juniors
-Vélez Sarsfield         0-0 San Lorenzo de Almagro
-[Sep 13]
-River Plate             0-0 Colón
-Lanús                   1-2 Banfield
-Godoy Cruz              1-1 Huracán
-Estudiantes LP          2-1 Independiente
+
+Date: 9/11/2009
+
+; Racing Club            ; 1-1; Gimnasia y Esgrima LP
+; Newell's Old Boys      ; 0-1; Argentinos Juniors
+
+Date: 9/12/2009
+
+; Tigre                  ; 1-2; Arsenal
+; Chacarita Juniors      ; 0-1; Rosario Central         ; Huracán
+; Atl. Tucumán           ; 2-0; Boca Juniors
+; Vélez Sarsfield        ; 0-0; San Lorenzo de Almagro
+
+Date: 9/13/2009
+
+; River Plate            ; 0-0; Colón
+; Lanús                  ; 1-2; Banfield
+; Godoy Cruz             ; 1-1; Huracán
+; Estudiantes LP         ; 2-1; Independiente
  
 Round: Round 5 
-[Sep 18]
-Huracán                 1-4 Estudiantes LP
-Rosario Central         0-0 Banfield
-[Sep 19]
-Independiente           2-2 Vélez Sarsfield         [at Lanús]
-Argentinos Juniors      2-1 Atl. Tucumán
-Colón                   3-1 Chacarita Juniors
-Gimnasia y Esgrima LP   2-0 Tigre
-[Sep 20]
-Boca Juniors            2-3 Godoy Cruz
-Lanús                   0-2 Newell's Old Boys
-Arsenal                 1-0 River Plate
-San Lorenzo de Almagro  0-0 Racing Club
+Date: 9/18/2009
+
+; Huracán                ; 1-4; Estudiantes LP
+; Rosario Central        ; 0-0; Banfield
+
+Date: 9/19/2009
+
+; Independiente          ; 2-2; Vélez Sarsfield         ; Lanús
+; Argentinos Juniors     ; 2-1; Atl. Tucumán
+; Colón                  ; 3-1; Chacarita Juniors
+; Gimnasia y Esgrima LP  ; 2-0; Tigre
+
+Date: 9/20/2009
+
+; Boca Juniors           ; 2-3; Godoy Cruz
+; Lanús                  ; 0-2; Newell's Old Boys
+; Arsenal                ; 1-0; River Plate
+; San Lorenzo de Almagro ; 0-0; Racing Club
 
 Round: Round 6
-[Sep 25]
-Banfield                2-1 Newell's Old Boys
-Godoy Cruz              2-4 Argentinos Juniors
-[Sep 26]
-Tigre                   2-3 San Lorenzo de Almagro
-Chacarita Juniors       1-0 Arsenal                 [at Argentinos Juniors]
-Rosario Central         0-1 Colón
-Estudiantes LP          2-1 Boca Juniors            [at Quilmes]
-[Sep 27]
-Racing Club             1-2 Independiente
-River Plate             2-2 Gimnasia y Esgrima LP
-Atl. Tucumán            2-2 Lanús
-Vélez Sarsfield         2-0 Huracán
+Date: 9/25/2009
+
+; Banfield               ; 2-1; Newell's Old Boys
+; Godoy Cruz             ; 2-4; Argentinos Juniors
+
+Date: 9/26/2009
+
+; Tigre                  ; 2-3; San Lorenzo de Almagro
+; Chacarita Juniors      ; 1-0; Arsenal                 ; Argentinos Juniors
+; Rosario Central        ; 0-1; Colón
+; Estudiantes LP         ; 2-1; Boca Juniors            ; Quilmes
+
+Date: 9/27/2009
+
+; Racing Club            ; 1-2; Independiente
+; River Plate            ; 2-2; Gimnasia y Esgrima LP
+; Atl. Tucumán           ; 2-2; Lanús
+; Vélez Sarsfield        ; 2-0; Huracán
    
 Round: Round 7 
-[Oct 2]
-Colón                   0-0 Banfield
-Independiente           2-1 Tigre                   [at Lanús]
-[Oct 3]
-Huracán                 3-1 Racing Club
-Argentinos Juniors      1-0 Estudiantes LP
-Newell's Old Boys       3-0 Atl. Tucumán
-Arsenal                 1-0 Rosario Central
-[Oct 4]
-Boca Juniors            3-2 Vélez Sarsfield
-Lanús                   1-0 Godoy Cruz
-Gimnasia y Esgrima LP   2-0 Chacarita Juniors
-San Lorenzo de Almagro  2-1 River Plate
+Date: 10/2/2009
+
+; Colón                  ; 0-0; Banfield
+; Independiente          ; 2-1; Tigre                   ; Lanús
+
+Date: 10/3/2009
+
+; Huracán                ; 3-1; Racing Club
+; Argentinos Juniors     ; 1-0; Estudiantes LP
+; Newell's Old Boys      ; 3-0; Atl. Tucumán
+; Arsenal                ; 1-0; Rosario Central
+
+Date: 10/4/2009
+
+; Boca Juniors           ; 3-2; Vélez Sarsfield
+; Lanús                  ; 1-0; Godoy Cruz
+; Gimnasia y Esgrima LP  ; 2-0; Chacarita Juniors
+; San Lorenzo de Almagro ; 2-1; River Plate
  
 Round: Round 8
-[Oct 7]
-Tigre                   2-2 Huracán
-Banfield                1-1 Atl. Tucumán
-Godoy Cruz              1-1 Newell's Old Boys
-[Oct 8]
-Racing Club             1-2 Boca Juniors
-Colón                   4-1 Arsenal
-Vélez Sarsfield         1-0 Argentinos Juniors
-[Oct 9]
-Chacarita Juniors       0-2 San Lorenzo de Almagro  [at Argentinos Jrs.]
-Rosario Central         1-1 Gimnasia y Esgrima LP
-Estudiantes LP          1-1 Lanús                   [at Quilmes]
-[Oct 12]
-River Plate             1-3 Independiente
+Date: 10/7/2009
+
+; Tigre                  ; 2-2; Huracán
+; Banfield               ; 1-1; Atl. Tucumán
+; Godoy Cruz             ; 1-1; Newell's Old Boys
+
+Date: 10/8/2009
+
+; Racing Club            ; 1-2; Boca Juniors
+; Colón                  ; 4-1; Arsenal
+; Vélez Sarsfield        ; 1-0; Argentinos Juniors
+
+Date: 10/9/2009
+
+; Chacarita Juniors      ; 0-2; San Lorenzo de Almagro  ; Argentinos Jrs.
+; Rosario Central        ; 1-1; Gimnasia y Esgrima LP
+; Estudiantes LP         ; 1-1; Lanús                   ; Quilmes
+
+Date: 10/12/2009
+
+; River Plate            ; 1-3; Independiente
  
 Round: Round 9 
-[Oct 16]
-Lanús                   1-1 Vélez Sarsfield
-San Lorenzo de Almagro  1-0 Rosario Central
-[Oct 17]
-Argentinos Juniors      2-0 Racing Club
-Atl. Tucumán            1-1 Godoy Cruz
-Arsenal                 1-1 Banfield
-Gimnasia y Esgrima LP   1-2 Colón
-[Oct 18]
-Independiente           1-1 Chacarita Juniors       [at Lanús]
-Huracán                 0-0 River Plate
-Boca Juniors            2-1 Tigre                   [at Velez Sarsfield]
-Newell's Old Boys       2-1 Estudiantes LP
+Date: 10/16/2009
+
+; Lanús                  ; 1-1; Vélez Sarsfield
+; San Lorenzo de Almagro ; 1-0; Rosario Central
+
+Date: 10/17/2009
+
+; Argentinos Juniors     ; 2-0; Racing Club
+; Atl. Tucumán           ; 1-1; Godoy Cruz
+; Arsenal                ; 1-1; Banfield
+; Gimnasia y Esgrima LP  ; 1-2; Colón
+
+Date: 10/18/2009
+
+; Independiente          ; 1-1; Chacarita Juniors       ; Lanús
+; Huracán                ; 0-0; River Plate
+; Boca Juniors           ; 2-1; Tigre                   ; Velez Sarsfield
+; Newell's Old Boys      ; 2-1; Estudiantes LP
  
 Round: Round 10
-[Oct 23]
-Estudiantes LP          1-0 Atl. Tucumán            [at Quilmes]
-Rosario Central         2-0 Independiente
-[Oct 24]
-Racing Club             1-1 Lanús
-Chacarita Juniors       1-0 Huracán                 [at Argentinos Jrs.]
-Banfield                3-0 Godoy Cruz
-Vélez Sarsfield         1-2 Newell's Old Boys
-[Oct 25]
-Colón                   2-1 San Lorenzo de Almagro
-Arsenal                 1-0 Gimnasia y Esgrima LP
-Tigre                   1-1 Argentinos Juniors
-River Plate             1-1 Boca Juniors
+Date: 10/23/2009
+
+; Estudiantes LP         ; 1-0; Atl. Tucumán            ; Quilmes
+; Rosario Central        ; 2-0; Independiente
+
+Date: 10/24/2009
+
+; Racing Club            ; 1-1; Lanús
+; Chacarita Juniors      ; 1-0; Huracán                 ; Argentinos Jrs.
+; Banfield               ; 3-0; Godoy Cruz
+; Vélez Sarsfield        ; 1-2; Newell's Old Boys
+
+Date: 10/25/2009
+
+; Colón                  ; 2-1; San Lorenzo de Almagro
+; Arsenal                ; 1-0; Gimnasia y Esgrima LP
+; Tigre                  ; 1-1; Argentinos Juniors
+; River Plate            ; 1-1; Boca Juniors
 
 Round: Round 11 
-[Oct 27]
-Newell's Old Boys       1-0 Racing Club
-Atl. Tucumán            1-2 Vélez Sarsfield
-Godoy Cruz              1-2 Estudiantes LP
-[Oct 28]
-Independiente           3-2 Colón
-Huracán                 1-0 Rosario Central
-Gimnasia y Esgrima LP   0-1 Banfield
-San Lorenzo de Almagro  3-2 Arsenal
-[Oct 29]
-Boca Juniors            3-0 Chacarita Juniors
-Argentinos Juniors      1-2 River Plate
-Lanús                   4-0 Tigre
+Date: 10/27/2009
+
+; Newell's Old Boys      ; 1-0; Racing Club
+; Atl. Tucumán           ; 1-2; Vélez Sarsfield
+; Godoy Cruz             ; 1-2; Estudiantes LP
+
+Date: 10/28/2009
+
+; Independiente          ; 3-2; Colón
+; Huracán                ; 1-0; Rosario Central
+; Gimnasia y Esgrima LP  ; 0-1; Banfield
+; San Lorenzo de Almagro ; 3-2; Arsenal
+
+Date: 10/29/2009
+
+; Boca Juniors           ; 3-0; Chacarita Juniors
+; Argentinos Juniors     ; 1-2; River Plate
+; Lanús                  ; 4-0; Tigre
 
 Round: Round 12
-[Oct 31]
-Racing                  4-0 Atl. Tucumán
-Gimnasia y Esgrima LP   2-2 San Lorenzo de Almagro
-Vélez Sarsfield         2-0 Godoy Cruz
-[Nov 1]
-River Plate             0-1 Lanús
-Chacarita Juniors       2-2 Argentinos Juniors      [at Argentinos Jrs.]
-Rosario Central         2-1 Boca Juniors
-Arsenal                 1-0 Independiente
-[Nov 2]
-Tigre                   1-2 Newell's Old Boys
-Banfield                2-1 Estudiantes LP
-[Nov 3]
-Colón                   3-0 Huracán
+Date: 10/31/2009
+
+; Racing                 ; 4-0; Atl. Tucumán
+; Gimnasia y Esgrima LP  ; 2-2; San Lorenzo de Almagro
+; Vélez Sarsfield        ; 2-0; Godoy Cruz
+
+Date: 11/1/2009
+
+; River Plate            ; 0-1; Lanús
+; Chacarita Juniors      ; 2-2; Argentinos Juniors      ; Argentinos Jrs.
+; Rosario Central        ; 2-1; Boca Juniors
+; Arsenal                ; 1-0; Independiente
+
+Date: 11/2/2009
+
+; Tigre                  ; 1-2; Newell's Old Boys
+; Banfield               ; 2-1; Estudiantes LP
+
+Date: 11/3/2009
+
+; Colón                  ; 3-0; Huracán
   
 Round: Round 13 
-[Nov 6]
-Independiente           1-0 Gimnasia y Esgrima LP
-Argentinos Juniors      1-1 Rosario Central
-[Nov 7]
-Lanús                   0-3 Chacarita Juniors
-Newell's Old Boys       2-1 River Plate
-Atl. Tucumán            4-2 Tigre
-Godoy Cruz              3-1 Racing Club
-[Nov 8]
-Boca Juniors            0-0 Colón
-Estudiantes LP          3-0 Vélez Sarsfield         [at Quilmes]
-San Lorenzo de Almagro  0-1 Banfield
-[Nov 9]
-Huracán                 1-1 Arsenal
+Date: 11/6/2009
+
+; Independiente          ; 1-0; Gimnasia y Esgrima LP
+; Argentinos Juniors     ; 1-1; Rosario Central
+
+Date: 11/7/2009
+
+; Lanús                  ; 0-3; Chacarita Juniors
+; Newell's Old Boys      ; 2-1; River Plate
+; Atl. Tucumán           ; 4-2; Tigre
+; Godoy Cruz             ; 3-1; Racing Club
+
+Date: 11/8/2009
+
+; Boca Juniors           ; 0-0; Colón
+; Estudiantes LP         ; 3-0; Vélez Sarsfield         ; Quilmes
+; San Lorenzo de Almagro ; 0-1; Banfield
+
+Date: 11/9/2009
+
+; Huracán                ; 1-1; Arsenal
  
 Round: Round 14
-[Nov 13]
-Tigre                   2-0 Godoy Cruz
-Chacarita Juniors       0-1 Newell's Old Boys       [at Argentinos Jrs.]
-[Nov 14]
-Banfield                3-0 Vélez Sarsfield
-Colón                   2-0 Argentinos Juniors
-[Nov 15]
-River Plate             3-1 Atl. Tucumán
-Arsenal                 1-1 Boca Juniors
-San Lorenzo de Almagro  0-3 Independiente
-[Nov 16]
-Racing Club             1-0 Estudiantes LP
-Rosario Central         0-0 Lanús
-Gimnasia y Esgrima LP   4-1 Huracán
+Date: 11/13/2009
+
+; Tigre                  ; 2-0; Godoy Cruz
+; Chacarita Juniors      ; 0-1; Newell's Old Boys       ; Argentinos Jrs.
+
+Date: 11/14/2009
+
+; Banfield               ; 3-0; Vélez Sarsfield
+; Colón                  ; 2-0; Argentinos Juniors
+
+Date: 11/15/2009
+
+; River Plate            ; 3-1; Atl. Tucumán
+; Arsenal                ; 1-1; Boca Juniors
+; San Lorenzo de Almagro ; 0-3; Independiente
+
+Date: 11/16/2009
+
+; Racing Club            ; 1-0; Estudiantes LP
+; Rosario Central        ; 0-0; Lanús
+; Gimnasia y Esgrima LP  ; 4-1; Huracán
 
 Round: Round 15 
-[Nov 20]
-Lanús                   3-0 Colón
-Estudiantes LP          3-1 Tigre                   [at Quilmes]
-[Nov 21]
-Independiente           1-2 Banfield
-Huracán                 0-2 San Lorenzo de Almagro
-Atl. Tucumán            2-1 Chacarita Juniors
-[Nov 22]
-Boca Juniors            4-0 Gimnasia y Esgrima LP
-Newell's Old Boys       2-2 Rosario Central
-Godoy Cruz              1-1 River Plate
-[Nov 23]
-Argentinos Juniors      1-1 Arsenal
-Vélez Sarsfield         4-2 Racing Club
+Date: 11/20/2009
+
+; Lanús                  ; 3-0; Colón
+; Estudiantes LP         ; 3-1; Tigre                   ; Quilmes
+
+Date: 11/21/2009
+
+; Independiente          ; 1-2; Banfield
+; Huracán                ; 0-2; San Lorenzo de Almagro
+; Atl. Tucumán           ; 2-1; Chacarita Juniors
+
+Date: 11/22/2009
+
+; Boca Juniors           ; 4-0; Gimnasia y Esgrima LP
+; Newell's Old Boys      ; 2-2; Rosario Central
+; Godoy Cruz             ; 1-1; River Plate
+
+Date: 11/23/2009
+
+; Argentinos Juniors     ; 1-1; Arsenal
+; Vélez Sarsfield        ; 4-2; Racing Club
   
 Round: Round 16 
-[Nov 27]
-Independiente           2-0 Huracán
-Rosario Central         1-1 Atl. Tucumán
-[Nov 28]
-River Plate             1-1 Estudiantes LP
-Chacarita Juniors       2-1 Godoy Cruz              [at Argentinos Jrs.]
-[Nov 29]
-Tigre                   0-3 Vélez Sarsfield
-Banfield                1-2 Racing Club
-San Lorenzo de Almagro  3-0 Boca Juniors            
-[Nov 30]
-Colón                   0-1 Newell's Old Boys
-Arsenal                 2-5 Lanús
-Gimnasia y Esgrima LP   1-2 Argentinos Juniors
+Date: 11/27/2009
+
+; Independiente          ; 2-0; Huracán
+; Rosario Central        ; 1-1; Atl. Tucumán
+
+Date: 11/28/2009
+
+; River Plate            ; 1-1; Estudiantes LP
+; Chacarita Juniors      ; 2-1; Godoy Cruz              ; Argentinos Jrs.
+
+Date: 11/29/2009
+
+; Tigre                  ; 0-3; Vélez Sarsfield
+; Banfield               ; 1-2; Racing Club
+; San Lorenzo de Almagro ; 3-0; Boca Juniors            
+
+Date: 11/30/2009
+
+; Colón                  ; 0-1; Newell's Old Boys
+; Arsenal                ; 2-5; Lanús
+; Gimnasia y Esgrima LP  ; 1-2; Argentinos Juniors
  
 Round: Round 17 
-[Dec 3]
-Estudiantes LP          0-0 Chacarita Juniors       [at Quilmes]
-[Dec 4]
-Racing Club             1-0 Tigre
-Huracán                 0-1 Banfield
-Godoy Cruz              1-1 Rosario Central 
-[Dec 5]
-Boca Juniors            1-2 Independiente
-Argentinos Juniors      2-1 San Lorenzo de Almagro
-Atl. Tucumán            2-0 Colón
-[Dec 6]
-Lanús                   2-0 Gimnasia y Esgrima LP
-Newell's Old Boys       1-2 Arsenal
-Vélez Sarsfield         3-1 River Plate
+Date: 12/3/2009
+
+; Estudiantes LP         ; 0-0; Chacarita Juniors       ; Quilmes
+
+Date: 12/4/2009
+
+; Racing Club            ; 1-0; Tigre
+; Huracán                ; 0-1; Banfield
+; Godoy Cruz             ; 1-1; Rosario Central 
+
+Date: 12/5/2009
+
+; Boca Juniors           ; 1-2; Independiente
+; Argentinos Juniors     ; 2-1; San Lorenzo de Almagro
+; Atl. Tucumán           ; 2-0; Colón
+
+Date: 12/6/2009
+
+; Lanús                  ; 2-0; Gimnasia y Esgrima LP
+; Newell's Old Boys      ; 1-2; Arsenal
+; Vélez Sarsfield        ; 3-1; River Plate
  
 Round: Round 18
-[Nov 11] 
-Rosario Central         3-0 Estudiantes LP
-[Dec 8]
-Independiente           1-1 Argentinos Juniors
-Huracán                 0-0 Boca Juniors
-Colón                   1-0 Godoy Cruz
-[Dec 9]
-Banfield                1-0 Tigre
-Gimnasia y Esgrima LP   0-2 Newell's Old Boys
-San Lorenzo de Almagro  0-1 Lanús
-[Dec 10]
-River Plate             2-0 Racing Club
-Chacarita Juniors       0-0 Vélez Sarsfield         [at Argentinos Jrs.]
-Arsenal                 2-0 Atl. Tucumán
+Date: 11/11/2009
+
+; Rosario Central        ; 3-0; Estudiantes LP
+
+Date: 12/8/2009
+
+; Independiente          ; 1-1; Argentinos Juniors
+; Huracán                ; 0-0; Boca Juniors
+; Colón                  ; 1-0; Godoy Cruz
+
+Date: 12/9/2009
+
+; Banfield               ; 1-0; Tigre
+; Gimnasia y Esgrima LP  ; 0-2; Newell's Old Boys
+; San Lorenzo de Almagro ; 0-1; Lanús
+
+Date: 12/10/2009
+
+; River Plate            ; 2-0; Racing Club
+; Chacarita Juniors      ; 0-0; Vélez Sarsfield         ; Argentinos Jrs.
+; Arsenal                ; 2-0; Atl. Tucumán
  
 Round: Round 19 
-[Nov 25]
-Estudiantes LP          0-1 Colón                   [at Quilmes]
-[Dec 12]
-Argentinos Juniors      5-1 Huracán
-Lanús                   0-0 Independiente
-[Dec 13]
-Racing Club             0-2 Chacarita Juniors
-Tigre                   0-2 River Plate
-Boca Juniors            2-0 Banfield
-Newell's Old Boys       0-2 San Lorenzo de Almagro
-Vélez Sarsfield         1-2 Rosario Central
-[Dec 14]
-Atl. Tucumán            1-0 Gimnasia y Esgrima LP
-Godoy Cruz              0-0 Arsenal
+Date: 11/25/2009
+
+; Estudiantes LP         ; 0-1; Colón                   ; Quilmes
+
+Date: 12/12/2009
+
+; Argentinos Juniors     ; 5-1; Huracán
+; Lanús                  ; 0-0; Independiente
+
+Date: 12/13/2009
+
+; Racing Club            ; 0-2; Chacarita Juniors
+; Tigre                  ; 0-2; River Plate
+; Boca Juniors           ; 2-0; Banfield
+; Newell's Old Boys      ; 0-2; San Lorenzo de Almagro
+; Vélez Sarsfield        ; 1-2; Rosario Central
+
+Date: 12/14/2009
+
+; Atl. Tucumán           ; 1-0; Gimnasia y Esgrima LP
+; Godoy Cruz             ; 0-0; Arsenal
 
 *Final Table:
 * 1.Banfield                       19  12  5  2  25-11  41  Champions
@@ -344,11 +458,9 @@ Godoy Cruz              0-0 Arsenal
 *19.Huracán (Buenos Aires)         19   2  5 12  12-34  11
 *20.Tigre (Victoria)               19   2  2 15  18-42   8
 
+Season: 2010 Clausura
+*Torneo IVECO del Bicentenario Clausura 2010
 
-Torneo IVECO del Bicentenario Clausura 2010
-
-
-*Final Table:
 * 1.Argentinos Juniors             19  12  5  2  35-23  41  Champions
 * 2.Estudiantes (La Plata)         19  12  4  3  33-14  40
 * 3.Godoy Cruz (Godoy Cruz)        19  11  4  4  28-14  37
@@ -371,300 +483,420 @@ Torneo IVECO del Bicentenario Clausura 2010
 *20.Atlético Tucumán (Tucumán)     19   1 10  8  14-26  13
  
 Round: Round 1 
-[Jan 29]
-Estudiantes LP          3-0 Arsenal                 [at Quilmes]
-Godoy Cruz              1-0 Gimnasia y Esgrima LP
-[Jan 30]
-Tigre                   0-2 Chacarita Juniors
-Racing Club             3-0 Rosario Central
-Vélez Sarsfield         1-1 Colón
-Atl. Tucumán            0-1 San Lorenzo de Almagro
-[Jan 31]
-Newell's Old Boys       0-0 Independiente
-Lanús                   3-2 Huracán
-Argentinos Juniors      2-2 Boca Juniors
-River Plate             0-1 Banfield
+Date: 1/29/2010
+
+; Estudiantes LP         ; 3-0; Arsenal                 ; Quilmes
+; Godoy Cruz             ; 1-0; Gimnasia y Esgrima LP
+
+Date: 1/30/2010
+
+; Tigre                  ; 0-2; Chacarita Juniors
+; Racing Club            ; 3-0; Rosario Central
+; Vélez Sarsfield        ; 1-1; Colón
+; Atl. Tucumán           ; 0-1; San Lorenzo de Almagro
+
+Date: 1/31/2010
+
+; Newell's Old Boys      ; 0-0; Independiente
+; Lanús                  ; 3-2; Huracán
+; Argentinos Juniors     ; 2-2; Boca Juniors
+; River Plate            ; 0-1; Banfield
  
 Round: Round 2
-[Feb 2]
-Colón                   2-1 Racing Club
-Rosario Central         0-1 Tigre
-Arsenal                 0-3 Vélez Sarsfield
-[Feb 3] 
-Banfield                abd Argentinos Juniors      [abandoned at 0-0
-Boca Juniors            3-1 Lanús                    in 7' due to rain]
-Huracán                 2-1 Newell's Old Boys
-Gimnasia y Esgrima LP   3-1 Estudiantes LP
-[Feb 4]
-Chacarita Juniors       2-3 River Plate             [at Racing Club]
-San Lorenzo de Almagro  0-1 Godoy Cruz
-Independiente           3-1 Atl. Tucumán
-[Feb 24]
-Banfield                3-0 Argentinos Juniors      [remaining 83']
+
+Date:2/2/2010
+
+; Colón                  ; 2-1; Racing Club
+; Rosario Central        ; 0-1; Tigre
+; Arsenal                ; 0-3; Vélez Sarsfield
+
+Date:2/3/2010
+
+; Banfield           ; 0-0; Argentinos Juniors      
+Notes: abandoned at 0-0 in 7' due to rain
+
+; Boca Juniors           ; 3-1; Lanús                    
+; Huracán                ; 2-1; Newell's Old Boys
+; Gimnasia y Esgrima LP  ; 3-1; Estudiantes LP
+
+Date:2/4/2010
+
+; Chacarita Juniors      ; 2-3; River Plate             ; Racing Club
+; San Lorenzo de Almagro ; 0-1; Godoy Cruz
+; Independiente          ; 3-1; Atl. Tucumán
+
+Date:2/24/2010
+
+; Banfield               ; 3-0; Argentinos Juniors      
+Notes: remaining 83'
 
 Round: Round 3 
-[Feb 6]
-Newell's Old Boys       4-2 Boca Juniors
-Lanús                   3-6 Argentinos Juniors
-Tigre                   2-2 Colón
-Vélez Sarsfield         2-1 Gimnasia y Esgrima LP
-[Feb 7]
-Chacarita Juniors       2-1 Banfield                [at Argentinos Juniors]
-River Plate             0-0 Rosario Central
-Racing Club             2-4 Arsenal
-Estudiantes LP          2-0 San Lorenzo de Almagro  [at Quilmes]
-[Feb 8]
-Godoy Cruz              0-0 Independiente
-Atl. Tucumán            0-0 Huracán
+Date:2/6/2010
+
+; Newell's Old Boys      ; 4-2; Boca Juniors
+; Lanús                  ; 3-6; Argentinos Juniors
+; Tigre                  ; 2-2; Colón
+; Vélez Sarsfield        ; 2-1; Gimnasia y Esgrima LP
+
+Date:2/7/2010
+
+; Chacarita Juniors      ; 2-1; Banfield                ; Argentinos Juniors
+; River Plate            ; 0-0; Rosario Central
+; Racing Club            ; 2-4; Arsenal
+; Estudiantes LP         ; 2-0; San Lorenzo de Almagro  ; Quilmes
+
+Date:2/8/2010
+
+; Godoy Cruz             ; 0-0; Independiente
+; Atl. Tucumán           ; 0-0; Huracán
  
 Round: Round 4 
-[Feb 12]
-Arsenal                 0-2 Tigre
-Rosario Central         1-1 Chacarita Juniors
-[Feb 13]
-Gimnasia y Esgrima LP   1-0 Racing Club
-Banfield                2-0 Lanús
-Huracán                 0-0 Godoy Cruz 
-[Feb 14]
-Colón                   1-0 River Plate
-Boca Juniors            0-0 Atl. Tucumán
-Independiente           3-2 Estudiantes LP
-San Lorenzo de Almagro  0-0 Vélez Sarsfield
-[Feb 15] 
-Argentinos Juniors      abd Newell's Old Boys       [abandoned at 0-0 in 66'
-[Mar 17]                                             due to rain]
-Argentinos Juniors      1-1 Newell's Old Boys       [remaining 24']
+Date:2/12/2010
+
+; Arsenal                ; 0-2; Tigre
+; Rosario Central        ; 1-1; Chacarita Juniors
+
+Date:2/13/2010
+
+; Gimnasia y Esgrima LP  ; 1-0; Racing Club
+; Banfield               ; 2-0; Lanús
+; Huracán                ; 0-0; Godoy Cruz 
+
+Date:2/14/2010
+
+; Colón                  ; 1-0; River Plate
+; Boca Juniors           ; 0-0; Atl. Tucumán
+; Independiente          ; 3-2; Estudiantes LP
+; San Lorenzo de Almagro ; 0-0; Vélez Sarsfield
+
+Date:2/15/2010
+
+; Argentinos Juniors   ; 0-0; Newell's Old Boys       
+Notes: abandoned at 0-0 in 66'
+
+Date: 3/17/2010
+
+; Argentinos Juniors     ; 1-1; Newell's Old Boys       
+Notes: remaining 24
 
 Round: Round 5 
-[Feb 19]
-Vélez Sarsfield         3-0 Independiente
-Chacarita Juniors       1-2 Colón                   [at Argentinos Jrs.]
-[Feb 20]
-Newell's Old Boys       1-1 Lanús
-Tigre                   1-1 Gimnasia y Esgrima LP
-Racing Club             1-0 San Lorenzo de Almagro
-[Feb 21]
-Godoy Cruz              1-1 Boca Juniors
-Atl. Tucumán            1-1 Argentinos Juniors
-Banfield                0-0 Rosario Central
-River Plate             1-1 Arsenal 
-[Feb 22]
-Estudiantes LP          2-0 Huracán                 [at Quilmes]
+Date:2/19/2010
+
+; Vélez Sarsfield        ; 3-0; Independiente
+; Chacarita Juniors      ; 1-2; Colón                   ; Argentinos Jrs.
+
+Date:2/20/2010
+
+; Newell's Old Boys      ; 1-1; Lanús
+; Tigre                  ; 1-1; Gimnasia y Esgrima LP
+; Racing Club            ; 1-0; San Lorenzo de Almagro
+
+Date:2/21/2010
+
+; Godoy Cruz             ; 1-1; Boca Juniors
+; Atl. Tucumán           ; 1-1; Argentinos Juniors
+; Banfield               ; 0-0; Rosario Central
+; River Plate            ; 1-1; Arsenal 
+
+Date:2/22/2010
+
+; Estudiantes LP         ; 2-0; Huracán                 ; Quilmes
         
 Round: Round 6  
-[Feb 26]
-Boca Juniors            1-1 Estudiantes LP
-Arsenal                 0-3 Chacarita Juniors
-[Feb 27]
-Huracán                 3-2 Vélez Sarsfield
-Independiente           1-0 Racing Club
-Colón                   1-1 Rosario Central
-[Feb 28]
-San Lorenzo de Almagro  1-0 Tigre
-Gimnasia y Esgrima LP   1-1 River Plate
-Newell's Old Boys       2-1 Banfield
-Lanús                   3-0 Atl. Tucumán
-Argentinos Juniors      1-2 Godoy Cruz 
+Date:2/26/2010
+
+; Boca Juniors           ; 1-1; Estudiantes LP
+; Arsenal                ; 0-3; Chacarita Juniors
+
+Date:2/27/2010
+
+; Huracán                ; 3-2; Vélez Sarsfield
+; Independiente          ; 1-0; Racing Club
+; Colón                  ; 1-1; Rosario Central
+
+Date:2/28/2010
+
+; San Lorenzo de Almagro ; 1-0; Tigre
+; Gimnasia y Esgrima LP  ; 1-1; River Plate
+; Newell's Old Boys      ; 2-1; Banfield
+; Lanús                  ; 3-0; Atl. Tucumán
+; Argentinos Juniors     ; 1-2; Godoy Cruz 
  
 Round: Round 7
-[Mar 2]
-Racing Club             1-1 Huracán
-Vélez Sarsfield         4-4 Boca Juniors
-Rosario Central         2-3 Arsenal 
-[Mar 3]
-Tigre                   0-1 Independiente
-Estudiantes LP          0-1 Argentinos Juniors      [at Quilmes]
-Godoy Cruz              2-1 Lanús
-[Mar 4]
-Atl. Tucumán            1-1 Newell's Old Boys
-Banfield                3-1 Colón
-Chacarita Juniors       0-1 Gimnasia y Esgrima LP   [at Argentinos Juniors]
-River Plate             1-0 San Lorenzo de Almagro
+Date: 3/2/2010
+
+; Racing Club            ; 1-1; Huracán
+; Vélez Sarsfield        ; 4-4; Boca Juniors
+; Rosario Central        ; 2-3; Arsenal 
+
+Date: 3/3/2010
+
+; Tigre                  ; 0-1; Independiente
+; Estudiantes LP         ; 0-1; Argentinos Juniors      ; Quilmes
+; Godoy Cruz             ; 2-1; Lanús
+
+Date: 3/4/2010
+
+; Atl. Tucumán           ; 1-1; Newell's Old Boys
+; Banfield               ; 3-1; Colón
+; Chacarita Juniors      ; 0-1; Gimnasia y Esgrima LP   ; Argentinos Juniors
+; River Plate            ; 1-0; San Lorenzo de Almagro
     
 Round: Round 8
-[Mar 6]
-Boca Juniors            1-2 Racing Club
-Lanús                   0-0 Estudiantes LP
-[Mar 7]
-Huracán                 2-3 Tigre
-Independiente           2-0 River Plate
-Atl. Tucumán            0-0 Banfield
-Newell's Old Boys       2-1 Godoy Cruz 
-Argentinos Juniors      1-0 Vélez Sarsfield
-[Mar 8]
-San Lorenzo de Almagro  3-1 Chacarita Juniors
-Gimnasia y Esgrima LP   1-1 Rosario Central
-Arsenal                 3-0 Colón
+Date: 3/6/2010
+
+; Boca Juniors           ; 1-2; Racing Club
+; Lanús                  ; 0-0; Estudiantes LP
+
+Date: 3/7/2010
+
+; Huracán                ; 2-3; Tigre
+; Independiente          ; 2-0; River Plate
+; Atl. Tucumán           ; 0-0; Banfield
+; Newell's Old Boys      ; 2-1; Godoy Cruz 
+; Argentinos Juniors     ; 1-0; Vélez Sarsfield
+
+Date: 3/8/2010
+
+; San Lorenzo de Almagro ; 3-1; Chacarita Juniors
+; Gimnasia y Esgrima LP  ; 1-1; Rosario Central
+; Arsenal                ; 3-0; Colón
 
 Round: Round 9 
-[Mar 12]
-Vélez Sarsfield         1-0 Lanús
-Godoy Cruz              2-1 Atl. Tucumán
-[Mar 13]
-Chacarita Juniors       0-1 Independiente           [at Argentinos Juniors]
-Estudiantes LP          2-0 Newell's Old Boys       [at Quilmes]
-Banfield                0-0 Arsenal 
-Colón                   1-1 Gimnasia y Esgrima LP
-[Mar 14]
-River Plate             2-0 Huracán
-Tigre                   3-0 Boca Juniors
-Racing Club             0-1 Argentinos Juniors
-Rosario Central         1-0 San Lorenzo de Almagro
+Date: 3/12/2010
+
+; Vélez Sarsfield        ; 1-0; Lanús
+; Godoy Cruz             ; 2-1; Atl. Tucumán
+
+Date: 3/13/2010
+
+; Chacarita Juniors      ; 0-1; Independiente           ; Argentinos Juniors
+; Estudiantes LP         ; 2-0; Newell's Old Boys       ; Quilmes
+; Banfield               ; 0-0; Arsenal 
+; Colón                  ; 1-1; Gimnasia y Esgrima LP
+
+Date: 3/14/2010
+
+; River Plate            ; 2-0; Huracán
+; Tigre                  ; 3-0; Boca Juniors
+; Racing Club            ; 0-1; Argentinos Juniors
+; Rosario Central        ; 1-0; San Lorenzo de Almagro
           
 Round: Round 10
-[Mar 19]
-Huracán                 2-0 Chacarita Juniors
-Atl. Tucumán            1-3 Estudiantes LP
-[Mar 20]
-Lanús                   1-0 Racing Club
-Newell's Old Boys       1-1 Vélez Sarsfield
-San Lorenzo de Almagro  2-2 Colón
-Argentinos Juniors      1-1 Tigre
-[Mar 21]
-Godoy Cruz              2-0 Banfield
-Gimnasia y Esgrima LP   0-2 Arsenal
-Independiente           2-0 Rosario Central
-Boca Juniors            abd River Plate             [abandoned at 0-0 in 10'
-[Mar 25]                                             due to rain]
-Boca Juniors            2-0 River Plate             [remaining 80']
+Date: 3/19/2010
+
+; Huracán                ; 2-0; Chacarita Juniors
+; Atl. Tucumán           ; 1-3; Estudiantes LP
+
+Date: 3/20/2010
+
+; Lanús                  ; 1-0; Racing Club
+; Newell's Old Boys      ; 1-1; Vélez Sarsfield
+; San Lorenzo de Almagro ; 2-2; Colón
+; Argentinos Juniors     ; 1-1; Tigre
+
+Date: 3/21/2010
+
+; Godoy Cruz             ; 2-0; Banfield
+; Gimnasia y Esgrima LP  ; 0-2; Arsenal
+; Independiente          ; 2-0; Rosario Central
+; Boca Juniors         ;0-0; River Plate             
+Notes: abandoned at 0-0 in 10'
+
+Date: 3/25/2010
+
+; Boca Juniors           ; 2-0; River Plate             
+Notes: remaining 80
    
 Round: Round 11 
-[Mar 26]
-Rosario Central         0-2 Huracán
-Estudiantes LP          2-1 Godoy Cruz              [at Quilmes] 
-[Mar 27]
-Tigre                   0-1 Lanús
-Racing Club             1-0 Newell's Old Boys
-Banfield                3-2 Gimnasia y Esgrima LP
-[Mar 28]
-Colón                   1-1 Independiente
-Chacarita Juniors       4-1 Boca Juniors            [at Huracan]
-Vélez Sarsfield         1-0 Atl. Tucumán
-Arsenal                 1-0 San Lorenzo de Almagro
-[Mar 29]
-River Plate             0-1 Argentinos Juniors
+Date: 3/26/2010
+
+; Rosario Central        ; 0-2; Huracán
+; Estudiantes LP         ; 2-1; Godoy Cruz              ; Quilmes
+
+Date: 3/27/2010
+
+; Tigre                  ; 0-1; Lanús
+; Racing Club            ; 1-0; Newell's Old Boys
+; Banfield               ; 3-2; Gimnasia y Esgrima LP
+
+Date: 3/28/2010
+
+; Colón                  ; 1-1; Independiente
+; Chacarita Juniors      ; 4-1; Boca Juniors            ; Huracan
+; Vélez Sarsfield        ; 1-0; Atl. Tucumán
+; Arsenal                ; 1-0; San Lorenzo de Almagro
+
+Date: 3/29/2010
+
+; River Plate            ; 0-1; Argentinos Juniors
  
 Round: Round 12
-[Apr 2]
-Atl. Tucumán            abd Racing Club             [abandoned at 0-0 in 22'
-Huracán                 0-0 Colón                    due to rain]
-[Apr 3] 
-Newell's Old Boys       0-2 Tigre
-Argentinos Juniors      2-1 Chacarita Juniors
-Independiente           1-0 Arsenal 
-San Lorenzo de Almagro  0-1 Gimnasia y Esgrima LP
-[Apr 4]
-Lanús                   1-0 River Plate
-Estudiantes LP          1-1 Banfield
-Boca Juniors            1-2 Rosario Central
-Godoy Cruz              2-0 Vélez Sarsfield
-[Apr 21]
-Atl. Tucumán            0-1 Racing Club             [remaining 68']
+Date: 4/2/2010
+
+; Atl. Tucumán          ; 0-0; Racing Club             
+Notes: abandoned at 0-0 in 22'due to rain
+
+; Huracán                ; 0-0; Colón                    
+
+Date: 4/3/2010
+
+; Newell's Old Boys      ; 0-2; Tigre
+; Argentinos Juniors     ; 2-1; Chacarita Juniors
+; Independiente          ; 1-0; Arsenal 
+; San Lorenzo de Almagro ; 0-1; Gimnasia y Esgrima LP
+
+Date: 4/4/2010
+
+; Lanús                  ; 1-0; River Plate
+; Estudiantes LP         ; 1-1; Banfield
+; Boca Juniors           ; 1-2; Rosario Central
+; Godoy Cruz             ; 2-0; Vélez Sarsfield
+
+Date: 4/21/2010
+
+; Atl. Tucumán           ; 0-1; Racing Club             
+Notes: remaining 68
 
 Round: Round 13 
-[Apr 6]
-Arsenal                 0-1 Huracán
-Tigre                   3-1 Atl. Tucumán
-[Apr 7]
-Gimnasia y Esgrima LP   2-1 Independiente
-Chacarita Juniors       1-2 Lanús                   [at Argentinos Jrs.]
-River Plate             0-1 Newell's Old Boys
-Banfield                2-0 San Lorenzo de Almagro
-[Apr 8]
-Colón                   3-0 Boca Juniors
-Rosario Central         0-1 Argentinos Juniors
-Racing Club             0-0 Godoy Cruz 
-Vélez Sarsfield         0-1 Estudiantes LP
+Date: 4/6/2010
+
+; Arsenal                ; 0-1; Huracán
+; Tigre                  ; 3-1; Atl. Tucumán
+
+Date: 4/7/2010
+
+; Gimnasia y Esgrima LP  ; 2-1; Independiente
+; Chacarita Juniors      ; 1-2; Lanús                   ; Argentinos Jrs.
+; River Plate            ; 0-1; Newell's Old Boys
+; Banfield               ; 2-0; San Lorenzo de Almagro
+
+Date: 4/8/2010
+
+; Colón                  ; 3-0; Boca Juniors
+; Rosario Central        ; 0-1; Argentinos Juniors
+; Racing Club            ; 0-0; Godoy Cruz 
+; Vélez Sarsfield        ; 0-1; Estudiantes LP
          
 Round: Round 14 
-[Apr 10]
-Newell's Old Boys       3-0 Chacarita Juniors
-Huracán                 3-1 Gimnasia y Esgrima LP
-Independiente           0-1 San Lorenzo de Almagro
-[Apr 11]
-Atl. Tucumán            0-0 River Plate
-Vélez Sarsfield         0-0 Banfield
-Lanús                   0-0 Rosario Central
-[Apr 12]
-Estudiantes LP          4-0 Racing Club             [at Quilmes]
-Godoy Cruz              6-2 Tigre
-Argentinos Juniors      3-1 Colón
-Boca Juniors            4-0 Arsenal 
+Date: 4/10/2010
+
+; Newell's Old Boys      ; 3-0; Chacarita Juniors
+; Huracán                ; 3-1; Gimnasia y Esgrima LP
+; Independiente          ; 0-1; San Lorenzo de Almagro
+
+Date: 4/11/2010
+
+; Atl. Tucumán           ; 0-0; River Plate
+; Vélez Sarsfield        ; 0-0; Banfield
+; Lanús                  ; 0-0; Rosario Central
+
+Date: 4/12/2010
+
+; Estudiantes LP         ; 4-0; Racing Club             ; Quilmes
+; Godoy Cruz             ; 6-2; Tigre
+; Argentinos Juniors     ; 3-1; Colón
+; Boca Juniors           ; 4-0; Arsenal 
 
 Round: Round 15
-[Apr 17] 
-Banfield                1-3 Independiente
-Chacarita Juniors       1-2 Atl. Tucumán            [at Argentinos Jrs.]
-River Plate             2-1 Godoy Cruz 
-Tigre                   1-2 Estudiantes LP
-[Apr 18]
-San Lorenzo de Almagro  3-0 Huracán
-Gimnasia y Esgrima LP   1-0 Boca Juniors
-Rosario Central         1-1 Newell's Old Boys
-Racing Club             3-1 Vélez Sarsfield
-[Apr 19]
-Arsenal                 2-2 Argentinos Juniors
-Colón                   1-1 Lanús
+Date: 4/17/2010
+
+; Banfield               ; 1-3; Independiente
+; Chacarita Juniors      ; 1-2; Atl. Tucumán            ; Argentinos Jrs.
+; River Plate            ; 2-1; Godoy Cruz 
+; Tigre                  ; 1-2; Estudiantes LP
+
+Date: 4/18/2010
+
+; San Lorenzo de Almagro ; 3-0; Huracán
+; Gimnasia y Esgrima LP  ; 1-0; Boca Juniors
+; Rosario Central        ; 1-1; Newell's Old Boys
+; Racing Club            ; 3-1; Vélez Sarsfield
+
+Date: 4/19/2010
+
+; Arsenal                ; 2-2; Argentinos Juniors
+; Colón                  ; 1-1; Lanús
 
 Round: Round 16 
-[Apr 23]
-Vélez Sarsfield         1-0 Tigre
-Godoy Cruz              1-0 Chacarita Juniors
-[Apr 24]
-Huracán                 0-0 Independiente
-Estudiantes LP          1-0 River Plate             [at Quilmes]
-Newell's Old Boys       5-0 Colón
-Lanús                   4-1 Arsenal 
-[Apr 25]
-Racing Club             2-0 Banfield
-Atl. Tucumán            2-2 Rosario Central
-Argentinos Juniors      3-1 Gimnasia y Esgrima LP
-Boca Juniors            2-0 San Lorenzo de Almagro
+Date: 4/23/2010
+
+; Vélez Sarsfield        ; 1-0; Tigre
+; Godoy Cruz             ; 1-0; Chacarita Juniors
+
+Date: 4/24/2010
+
+; Huracán                ; 0-0; Independiente
+; Estudiantes LP         ; 1-0; River Plate             ; Quilmes
+; Newell's Old Boys      ; 5-0; Colón
+; Lanús                  ; 4-1; Arsenal 
+
+Date: 4/25/2010
+
+; Racing Club            ; 2-0; Banfield
+; Atl. Tucumán           ; 2-2; Rosario Central
+; Argentinos Juniors     ; 3-1; Gimnasia y Esgrima LP
+; Boca Juniors           ; 2-0; San Lorenzo de Almagro
  
 Round: Round 17 
-[Apr 29]
-Arsenal                 0-2 Newell's Old Boys
-[Apr 30]
-Tigre                   1-2 Racing Club
-Gimnasia y Esgrima LP   0-0 Lanús
-Rosario Central         1-0 Godoy Cruz 
-River Plate             2-1 Vélez Sarsfield
-[May 2]
-Banfield                1-0 Huracán
-Independiente           2-3 Boca Juniors
-San Lorenzo de Almagro  1-2 Argentinos Juniors
-Colón                   0-0 Atl. Tucumán
-Chacarita Juniors       1-2 Estudiantes LP          [at Argentinos Jrs.]
+Date: 4/29/2010
+
+; Arsenal                ; 0-2; Newell's Old Boys
+
+Date: 4/30/2010
+
+; Tigre                  ; 1-2; Racing Club
+; Gimnasia y Esgrima LP  ; 0-0; Lanús
+; Rosario Central        ; 1-0; Godoy Cruz 
+; River Plate            ; 2-1; Vélez Sarsfield
+
+Date: 5/2/2010
+
+; Banfield               ; 1-0; Huracán
+; Independiente          ; 2-3; Boca Juniors
+; San Lorenzo de Almagro ; 1-2; Argentinos Juniors
+; Colón                  ; 0-0; Atl. Tucumán
+; Chacarita Juniors      ; 1-2; Estudiantes LP          ; Argentinos Jrs.
       
 Round: Round 18
-[May 8]
-Racing Club             0-3 River Plate
-Vélez Sarsfield         4-1 Chacarita Juniors
-Newell's Old Boys       6-0 Gimnasia y Esgrima LP
-[May 9]
-Argentinos Juniors      4-3 Independiente
-Boca Juniors            1-2 Huracán
-Tigre                   1-2 Banfield
-Estudiantes LP          0-0 Rosario Central
-Atl. Tucumán            1-1 Arsenal 
-[May 10]
-Lanús                   3-2 San Lorenzo de Almagro
-Godoy Cruz              3-0 Colón
+Date: 5/8/2010
+
+; Racing Club            ; 0-3; River Plate
+; Vélez Sarsfield        ; 4-1; Chacarita Juniors
+; Newell's Old Boys      ; 6-0; Gimnasia y Esgrima LP
+
+Date: 5/9/2010
+
+; Argentinos Juniors     ; 4-3; Independiente
+; Boca Juniors           ; 1-2; Huracán
+; Tigre                  ; 1-2; Banfield
+; Estudiantes LP         ; 0-0; Rosario Central
+; Atl. Tucumán           ; 1-1; Arsenal 
+
+Date: 5/10/2010
+
+; Lanús                  ; 3-2; San Lorenzo de Almagro
+; Godoy Cruz             ; 3-0; Colón
 
 Round: Round 19
-[May 14]
-Arsenal                 1-2 Godoy Cruz 
-San Lorenzo de Almagro  2-1 Newell's Old Boys
-Banfield                3-0 Boca Juniors
-[May 15]
-Chacarita Juniors       1-2 Racing Club
-Independiente           1-0 Lanús
-Gimnasia y Esgrima LP   3-3 Atl. Tucumán
-Rosario Central         0-0 Vélez Sarsfield
-River Plate             1-5 Tigre
-[May 16]
-Huracán                 1-2 Argentinos Juniors
-Colón                   1-4 Estudiantes LP
+Date: 5/14/2010
+
+; Arsenal                ; 1-2; Godoy Cruz 
+; San Lorenzo de Almagro ; 2-1; Newell's Old Boys
+; Banfield               ; 3-0; Boca Juniors
+
+Date: 5/15/2010
+
+; Chacarita Juniors      ; 1-2; Racing Club
+; Independiente          ; 1-0; Lanús
+; Gimnasia y Esgrima LP  ; 3-3; Atl. Tucumán
+; Rosario Central        ; 0-0; Vélez Sarsfield
+; River Plate            ; 1-5; Tigre
+
+Date: 5/16/2010
+
+; Huracán                ; 1-2; Argentinos Juniors
+; Colón                  ; 1-4; Estudiantes LP
 
 *Final Table:
 * 1.Argentinos Juniors             19  12  5  2  35-23  41  Champions
@@ -715,17 +947,21 @@ Colón                   1-4 Estudiantes LP
 *20 Chacarita Juniors                0     0    32     32   38 0.842  Relegated
 
 
-Promotion/Relegation Playoffs 1st/2nd level
+*Promotion/Relegation Playoffs 1st/2nd level
  
-First Legs [May 19]
-All Boys                1-1 Rosario Central
-Atlético de Rafaela     1-0 Gimnasia y Esgrima (LP)
+*First Legs 
+Date: 5/19/2010
+
+; All Boys               ; 1-1; Rosario Central
+; Atlético de Rafaela    ; 1-0; Gimnasia y Esgrima (LP)
  
-Second Legs [May 23]
-Rosario Central         0-3 All Boys
-Gimnasia y Esgrima (LP) 3-1 Atlético de Rafaela
+*Second Legs 
+Date: 5/23/2010
+
+; Rosario Central        ; 0-3; All Boys
+; Gimnasia y Esgrima (LP); 3-1; Atlético de Rafaela
  
-NB: All Boys promoted, Rosario Central relegated
+*NB: All Boys promoted, Rosario Central relegated
 
 
 *Prepared and maintained by Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation

@@ -18,11 +18,11 @@ full_alias = {
     'Copa Interamericana': 'Interamerican Cup',
     'Copa Intercontinental': 'Intercontinental Cup',
 
-    
+    'Liga Argentina de Football': 'Argentine Primera División',
+    'Campeonato Brasileiro Série A': 'Brasileirão',
+    'Brasileirao': 'Brasileirão',
     'Chilean Primera Division': 'Chilean Primera División', 
     'Uruguayan Primera Division': 'Uruguayan Primera División',
-
-    'Liga Argentina de Football': 'Argentine Primera División',
 
     'Merconorte Cup': 'Copa Merconorte',
 
@@ -88,11 +88,7 @@ partial_alias = {
     'Desert Diamond Cup': 'Friendly',
     'Chicago Sister Cities International Cup': 'Friendly',
 
-
-
     'U.S. Cup': 'Friendly International',
-
-
 
     'Bicentennial Cup': 'Friendly',
     'Carlsberg Cup': 'Friendly',

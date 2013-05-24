@@ -43,7 +43,7 @@ CONCACAF Giants Cup; CGC; soccer; domestic; Cup; 2; Confederation; CONCACAF
 Copa Interclubes UNCAF; UNCAF; soccer; domestic; Cup; 2; Confederation; CONCACAF
 CFU Club Championship; CFU; soccer; domestic; Cup; 2; Confederation; CONCACAF
 
-** country
+* domestic leagues.
 
 American League of Professional Football; ALPF; soccer; domestic; League; 1; Country; United States
 American Soccer League (1921-1933); ASL1; soccer; domestic; League; 1; Country; United States
@@ -55,15 +55,8 @@ National Women's Soccer League; NWSL; women; domestic; League; 1; Country; Unite
 Women's Professional Soccer; WPS; women; domestic; League; 1; Country; United States
 Women's United Soccer Association; WUSA; women; domestic; League; 1; Country; United States
 
-Women's Premier Soccer League Elite; WPSLe; women; domestic; League; 1; Country; United States
-Women's Premier Soccer League; WPSL; women; domestic; League; 2; Country; United States
-W-League; USLW; women; domestic; League; 2; Country; United States
-
-Hyundai A-League; AUS1; soccer; domestic; League; 1; Country; Australia
-Chinese Super League; CHN1; soccer; domestic; League; 1; Country; China
-J. League Division 1; JAP1; soccer; domestic; League; 1; Country; Japan
-K League; KOR1; soccer; domestic; League; 1; Country; South Korea
-
+Liga MX; MEX1; soccer; domestic; League; 1; Country; Mexico
+Primera Fuerza; LM; soccer; domestic; League; 1; Country; Mexico
 
 Liga Nacional de Guatemala; GUA1; soccer; domestic; League; 1; Country; Guatemala
 Liga Panameña de Fútbol; PAN1; soccer; domestic; League; 1; Country; Panama
@@ -79,15 +72,16 @@ TT Pro League; TRI1; soccer; domestic; League; 1; Country; Trinidad and Tobago
 Sekshon Pagá; CUW1; soccer; domestic; League; 1; Country; Curacao
 Martinique Championnat National; MTQ1; soccer; domestic; League; 1; Country; Martinique
 
-Liga MX; MEX1; soccer; domestic; League; 1; Country; Mexico
-Primera Fuerza; LM; soccer; domestic; League; 1; Country; Mexico
-
 Chilean Primera División; CHI1; soccer; domestic; League; 1; Country; Chile
 Uruguayan Primera División; URU1; soccer; domestic; League; 1; Country; Uruguay
 Argentine Primera División; ARG1; soccer; domestic; League; 1; Country; Argentina
+Brasileirão; BRA1; soccer; domestic; League; 1; Country; Brazil
+Categoría Primera A; COL1; soccer; domestic; League; 1; Country; Colombia
 
-Campeonato Paulista; CP; soccer; domestic; League; 2; State; Sao Paulo
-
+Hyundai A-League; AUS1; soccer; domestic; League; 1; Country; Australia
+Chinese Super League; CHN1; soccer; domestic; League; 1; Country; China
+J. League Division 1; JAP1; soccer; domestic; League; 1; Country; Japan
+K League; KOR1; soccer; domestic; League; 1; Country; South Korea
 
 National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
 Southern New England Soccer League; SNESL; soccer; domestic; League; 2; Country; United States
@@ -103,8 +97,19 @@ USL First Division; USL1; soccer; domestic; League; 2; Country; United States
 USSF Division 2 Professional League; USSFD2; soccer; domestic; League; 2; Country; United States
 North American Soccer League (2011-); NASL2; soccer; domestic; League; 2; Country; United States
 
+Women's Premier Soccer League Elite; WPSLe; women; domestic; League; 1; Country; United States
+Women's Premier Soccer League; WPSL; women; domestic; League; 2; Country; United States
+W-League; USLW; women; domestic; League; 2; Country; United States
 
 Canadian Soccer League; CSL; soccer; domestic; League; 2; Country; Canada
+
+Campeonato Baiano; BRA-BA; soccer; domestic; League; 2; State; Bahia
+Campeonato Carioca; BRA-RJ; soccer; domestic; League; 2; State; Rio de Janeiro
+Campeonato Gaúcho; BRA-RS; soccer; domestic; League; 2; State; Rio Grande do Sul
+Campeonato Mineiro; BRA-MG; soccer; domestic; League; 2; State; Minas Gerais
+Campeonato Paulista; BRA-SP; soccer; domestic; League; 2; State; Sao Paulo
+Campeonato Pernambucano; BRA-PE; soccer; domestic; League; 2; State; Pernambuco
+
 
 Western Soccer League; WSL; soccer; domestic; League; 3; Country; United States
 USISL Select League; USISLs; soccer; domestic; League; 3; Country; United States
