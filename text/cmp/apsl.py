@@ -285,14 +285,14 @@ class TextProcessor(object):
 def process_apsl_stats():
 
     # Real, although incomplete stats.
-    p = os.path.join(DIR, "stats", "apsl.txt")
+    p = os.path.join(DIR, "stats/d2/apsl")
     f = open(p)
     t = TextProcessor()
     for line in f:
         t.process_stat_line(line)
 
     # Just rosters.
-    p = os.path.join(DIR, "stats", "apsl_rosters.txt")
+    p = os.path.join(DIR, "rosters", "apsl")
     f = open(p)
     for line in f:
         t.process_roster_line(line)

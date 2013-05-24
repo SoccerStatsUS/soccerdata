@@ -14,40 +14,44 @@ if not os.path.exists(DIR):
 
 
 def process_mls_2012_stats():
-    return process_stats("mls/2012", "Major League Soccer", source='mlssoccer.com')
+    return process_stats("d1/2012", "Major League Soccer", source='mlssoccer.com')
 
 
 def process_mls_coach_stats():
-    return process_stats("mls/coaches", "Major League Soccer", source='mlssoccer.com')
+    return process_stats("d1/mls.coaches", "Major League Soccer", source='mlssoccer.com')
 
 def process_nasl_stats():
-    return process_stats("nasl", format_name=False, source='nasljerseys.com')
+    return process_stats("d1/nasl", format_name=False, source='nasljerseys.com')
 
 def process_misl_stats():
     return process_stats("indoor/misl", format_name=False, source='nasljerseys.com')
 
-def process_pdl_stats():
-    l = []
-    for e in range(2003, 2013):
-        l.extend(process_stats("pdl/%s" % e, "USL Premier Developmental League"))
-    return l
 
 
 def process_usl1_stats():
     l = []
-    l.extend(process_stats("usl1/19972005", "USL First Division"))
-    l.extend(process_stats("usl1/20062007", "USL First Division"))
-    l.extend(process_stats("usl1/20082009", "USL First Division"))
+    l.extend(process_stats("d2/19972005", "USL First Division"))
+
+    for e in '06', '07', '08', '09', '11', '12':
+        l.extend(process_stats("d2/20%s" % e, "USL First Division"))
+
     return l
 
 def process_usl2_stats():
     l = []
-    l.extend(process_stats("usl2/psl", "USL Second Division"))
-    l.extend(process_stats("usl2/20052009", "USL Second Division"))
-    l.extend(process_stats("usl2/2011", "USL Pro"))
-    l.extend(process_stats("usl2/2010", "USL Pro"))
-    l.extend(process_stats("usl2/2012", "USL Pro"))
+    l.extend(process_stats("d3/psl", "USL Second Division"))
+    l.extend(process_stats("d3/20052009", "USL Second Division"))
+    for e in range(2010, 2013):
+        l.extend(process_stats("d3/%s" % e, "USL Pro"))
+
     return l
+
+def process_pdl_stats():
+    l = []
+    for e in range(2003, 2013):
+        l.extend(process_stats("d4/%s" % e, "USL Premier Developmental League"))
+    return l
+
     
 def process_name(s):
 

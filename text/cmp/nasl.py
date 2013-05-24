@@ -13,7 +13,7 @@ from soccerdata.mongo import soccer_db
 
 
 nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/nasl'
-nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d2/npsl00.csv'
+nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d2/npsl.jose'
 
 foreign_map = {
     'Varzim': 'Varzim S.C.',
@@ -185,7 +185,7 @@ def process_stats():
     Process modern NASL stats taken from nasl.com
     """
 
-    NASL_STATS_DIR = '/home/chris/www/soccerdata/data/stats/nasl2'
+    NASL_STATS_DIR = '/home/chris/www/soccerdata/data/stats/d2'
 
     lst = []
     for fn in ('2011', '2012'):
