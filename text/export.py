@@ -147,7 +147,7 @@ def export_data(games_coll, goals_coll, lineups_coll, fouls_coll=None, block_sou
     #f = open(fn)
 
     if block_source:
-        print 'Block Source: %s' % block_source
+        print('Block Source: %s' % block_source)
 
 
     for game in game_list:
@@ -158,14 +158,14 @@ def export_data(games_coll, goals_coll, lineups_coll, fouls_coll=None, block_sou
 
         if c != competition:
             competition = c
-            print "\nCompetition: %s" % c
+            print("\nCompetition: %s" % c)
             
         if s != season:
             season = s
-            print "\nSeason: %s\n" % s
+            print("\nSeason: %s\n" % s)
             
 
-        print format_chunk(game, goals, lineups, block_source)
+        print(format_chunk(game, goals, lineups, block_source))
 
     import pdb; pdb.set_trace()
     x = 5

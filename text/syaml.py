@@ -14,4 +14,4 @@ def load_teams():
     return yaml.load(open(p))
 
 if __name__ == "__main__":
-    print load_teams()
+    print(load_teams())

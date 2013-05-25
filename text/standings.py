@@ -49,7 +49,7 @@ def process_excel_standings(filename):
 
         if len(fields) < 8:
             import pdb; pdb.set_trace()
-            print fields
+            print(fields)
             return {}
 
         if len(fields) == 8:
@@ -247,4 +247,4 @@ class StandingProcessor(object):
 
 
 if __name__ == "__main__":
-    print process_file("/home/chris/www/soccerdata/data/standings/domestic/country/guatemala", ';')
+    print(process_file("/home/chris/www/soccerdata/data/standings/domestic/country/guatemala", ';'))

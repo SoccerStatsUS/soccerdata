@@ -167,5 +167,5 @@ class DraftProcessor():
 
 
 if __name__ == "__main__":
-    print load_drafts()
+    print(load_drafts())
     

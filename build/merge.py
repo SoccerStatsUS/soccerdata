@@ -16,8 +16,8 @@ def timer(method):
         result = method(*args, **kw)
         te = time.time()
 
-        print '%r (%r, %r) %2.2f sec' % \
-              (method.__name__, args, kw, te-ts)
+        print('%r (%r, %r) %2.2f sec' % \
+              (method.__name__, args, kw, te-ts))
         return result
 
     return timed
@@ -311,16 +311,16 @@ def merge_games(games_lists):
                     assert t1r == orig['team1_result']
                     assert t1r == orig['team1_result']
                 except:
-                    print "Game information mismatch."
-                    #print orig
-                    #print d
+                    print("Game information mismatch.")
+                    #print(orig)
+                    #print(d)
 
                     #import pdb; pdb.set_trace()
             else:
                 if d['date'] is not None:
-                    print "Game information mismatch."
-                    print orig
-                    print d
+                    print("Game information mismatch.")
+                    print(orig)
+                    print(d)
                 
             for k, v in d.items():
                 if not orig.get(k) and v:

@@ -108,25 +108,46 @@ team_map = {
 }
     
 
+# file_mapping = {
+#     "CHI": u'Chicago Fire',
+#     "CHV": u'Chivas USA',
+#     "COL": u'Colorado Rapids',
+#     "CLB": u'Columbus Crew',
+#     "DC": u'D.C. United',
+#     "DAL": u'FC Dallas',
+#     "HOU": u'Houston Dynamo',
+#     "KC": u'Kansas City Wizards',
+#     "LA": u'Los Angeles Galaxy',
+#     "MIA": u'Miami Fusion',
+#     "NE": u'New England Revolution',
+#     "NY": u'New York Red Bulls',
+#     "PHI": u'Philadelphia Union',
+#     "RSL": u'Real Salt Lake',
+#     "SJ": u'San Jose Earthquakes',
+#     "SEA": u'Seattle Sounders',
+#     "TB": u'Tampa Bay Mutiny',
+#     "TOR": u'Toronto FC',
+#     }    
+
 file_mapping = {
-    "CHI": u'Chicago Fire',
-    "CHV": u'Chivas USA',
-    "COL": u'Colorado Rapids',
-    "CLB": u'Columbus Crew',
-    "DC": u'D.C. United',
-    "DAL": u'FC Dallas',
-    "HOU": u'Houston Dynamo',
-    "KC": u'Kansas City Wizards',
-    "LA": u'Los Angeles Galaxy',
-    "MIA": u'Miami Fusion',
-    "NE": u'New England Revolution',
-    "NY": u'New York Red Bulls',
-    "PHI": u'Philadelphia Union',
-    "RSL": u'Real Salt Lake',
-    "SJ": u'San Jose Earthquakes',
-    "SEA": u'Seattle Sounders',
-    "TB": u'Tampa Bay Mutiny',
-    "TOR": u'Toronto FC',
+    "CHI": 'Chicago Fire',
+    "CHV": 'Chivas USA',
+    "COL": 'Colorado Rapids',
+    "CLB": 'Columbus Crew',
+    "DC": 'D.C. United',
+    "DAL": 'FC Dallas',
+    "HOU": 'Houston Dynamo',
+    "KC": 'Kansas City Wizards',
+    "LA": 'Los Angeles Galaxy',
+    "MIA": 'Miami Fusion',
+    "NE": 'New England Revolution',
+    "NY": 'New York Red Bulls',
+    "PHI": 'Philadelphia Union',
+    "RSL": 'Real Salt Lake',
+    "SJ": 'San Jose Earthquakes',
+    "SEA": 'Seattle Sounders',
+    "TB": 'Tampa Bay Mutiny',
+    "TOR": 'Toronto FC',
     }    
 
 def get_competition(name):
@@ -174,7 +195,7 @@ def make_lineup_dict():
 
 
 
-@set_cache
+#@set_cache
 def load_all_games_scaryice():
     l = []
     for key in file_mapping.keys():
@@ -184,7 +205,7 @@ def load_all_games_scaryice():
     return l
     
 
-@set_cache
+#@set_cache
 def load_all_goals_scaryice():
     l = []
     for key in file_mapping.keys():
@@ -196,7 +217,7 @@ def load_all_goals_scaryice():
     return goals
 
 
-@set_cache
+#@set_cache
 def load_all_lineups_scaryice():
     l = []
     for key in file_mapping.keys():
@@ -298,18 +319,18 @@ def correct_goal_names(goal_list, lineup_dict):
                 return last
 
 
-            print key
-            print "No matches: %s" % players
-            print "%s %s\n" % (first, last)
+            print(key)
+            print("No matches: %s" % players)
+            print( "%s %s\n" % (first, last))
             return ''
         elif len(matches) > 1:
             # Gonna handle this later.
-            if set(matches) == set([u'Sean Henderson', u'Chris Henderson']):
-                return 'Henderson'
+            #if set(matches) == set([u'Sean Henderson', u'Chris Henderson']):
+            #    return 'Henderson'
 
-            print key
-            print "Too many matches: %s" % matches
-            print "%s %s\n" % (first, last)
+            print(key)
+            print("Too many matches: %s" % matches)
+            print( "%s %s\n" % (first, last))
             return ''
         else:
             return matches[0]
@@ -377,7 +398,7 @@ def get_scores(fn):
         opponent = opponent.strip()
         t = (date.year, opponent)
         if t in team_map:
-            print t
+            print(t)
             opponent = team_map.get(t)
         else:
             opponent = team_map.get(opponent, opponent)
@@ -432,7 +453,8 @@ def get_scores(fn):
             return {
                 'competition': competition,
                 'date': date,
-                'season': unicode(date.year),
+                #'season': unicode(date.year),
+                'season': str(date.year),
 
                 'team1': home_team,
                 'team2': away_team,
@@ -532,7 +554,8 @@ def get_goals(filename):
                 'competition': competition,
                 'team': team_map.get(team_name, team_name),
                 'date': date,
-                'season': unicode(date.year),
+                #'season': unicode(date.year),
+                'season': str(date.year),
                 'goal': player.strip(),
                 'minute': minute,
                 'assists': []
@@ -795,7 +818,7 @@ class LineupProcessor(object):
         
         import pdb; pdb.set_trace()
         x = 5
-        print "failed to process %s " % text
+        print("failed to process %s " % text)
         return []
 
                 
@@ -811,7 +834,8 @@ class LineupProcessor(object):
                 lineup.update({
                     'team': team_map.get(self.team, self.team),
                     'date': self.date,
-                    'season': unicode(self.date.year),
+                    #'season': unicode(self.date.year),
+                    'season': str(self.date.year),
                     'competition': self.competition,
                     'order': i,
                     'goals_for': self.goals_for,
@@ -822,7 +846,7 @@ class LineupProcessor(object):
                         
 
 if __name__ == "__main__":
-    print load_all_lineups_scaryice()
+    print(load_all_lineups_scaryice())
 
             
         

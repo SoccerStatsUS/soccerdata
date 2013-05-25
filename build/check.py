@@ -27,7 +27,7 @@ def check_standings():
         except:
             import pdb; pdb.set_trace()
         if games != games2:
-            print "Games do not match for: %s" % s
+            print("Games do not match for: %s" % s)
         
 
 
@@ -55,7 +55,7 @@ def check_games():
                 assert field in game
             except:
                 try:
-                    print "% missing fields from game %s" % game
+                    print("% missing fields from game %s" % game)
                 except:
                     import pdb; pdb.set_trace()
                     x = 5

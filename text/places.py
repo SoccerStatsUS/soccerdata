@@ -105,7 +105,7 @@ def load_state_populations():
 
 
 def load_stadiums():
-    print "Loading stadiums."
+    print("Loading stadiums.")
     p = '/home/chris/www/soccerdata/data/places/stadiums'
     pys = [e for e in list_paths(p) if e.endswith('.py')]
     l = []

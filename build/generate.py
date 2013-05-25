@@ -1,9 +1,10 @@
 
-from soccerdata.mongo import soccer_db, insert_rows, generic_load
+from collections import defaultdict
 
+
+from soccerdata.mongo import soccer_db, insert_rows, generic_load
 from standings import get_standings
 
-from collections import defaultdict
 
 
 
@@ -88,14 +89,17 @@ def generate_competition_stats():
 
     competition_generate('AFA Cup')
     competition_generate('U.S. Open Cup')
+    competition_generate('Canadian Championship')
 
     competition_generate('American League of Professional Football')
     competition_generate('Eastern Soccer League (1928-1929)')
     competition_generate('International Soccer League')
     competition_generate('USSF Division 2 Professional League')
 
-    competition_generate('Canadian Championship')
     competition_generate('Liga MX')
+
+
+
     competition_generate('Chinese Super League')
 
     competition_generate('American Soccer League (1934-1983)')
@@ -110,8 +114,6 @@ def generate_competition_stats():
 def generate_competition_standings():
     """Generate rolling standings for a given competition."""
     # Don't generate based on collection (definitely will overcount games.
-
-
 
     def sg2(competition):
         stg = generate_standings(competition)
@@ -270,7 +272,7 @@ def generate_stats(goals=[], lineups=[]):
         if t not in sd:
             name, team, season, competition = t
             if not name:
-                "Name not in tuple %s" % unicode(t)
+                #"Name not in tuple %s" % str(t)
                 return
 
             sd[t] = {
@@ -286,7 +288,7 @@ def generate_stats(goals=[], lineups=[]):
                 }
 
         if t[0] == 'Omar Bravo' and t[1] == 'UANL':
-            print sd[t]
+            print(sd[t])
 
 
         # Increment the appropriate key.
@@ -318,10 +320,10 @@ def generate_stats(goals=[], lineups=[]):
                     minutes = lineup['off'] - lineup['on']
                     add_item(t, 'minutes', minutes)
                 except TypeError:
-                    print lineup
+                    print(lineup)
             else:
                 pass
-                #print "Missing minute data for appearance."
+                #print("Missing minute data for appearance.")
         
 
     return sd

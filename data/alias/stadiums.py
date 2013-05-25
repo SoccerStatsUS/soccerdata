@@ -13,8 +13,9 @@ def get_stadium(s):
     #print s
 
     s = s.strip()
-    if type(s) == type(''):
-        s = unicode(s, 'utf-8')
+
+    #if type(s) == type(''):
+    #    s = unicode(s, 'utf-8')
 
     if s in sd:
         return get_stadium(sd[s])
@@ -544,10 +545,10 @@ stadiums = {
     'Stade Gerland': 'Stade de Gerland',
     'Oakland-Alameda County Coliseum': 'Oakland Coliseum',
 
-    u'Estadío Sylvio Cator': 'Stade Sylvio Cator',
-    u'Estadío Silvio Cator': 'Stade Sylvio Cator',
-    u'Estadio Sylvio Cator': 'Stade Sylvio Cator',
-    u'Sylvio Cator Stadium': 'Stade Sylvio Cator',
+    #u'Estadío Sylvio Cator': 'Stade Sylvio Cator',
+    #u'Estadío Silvio Cator': 'Stade Sylvio Cator',
+    #u'Estadio Sylvio Cator': 'Stade Sylvio Cator',
+    #u'Sylvio Cator Stadium': 'Stade Sylvio Cator',
 
     'Estadío Tropical': 'Estadio Pedro Marrero',
     

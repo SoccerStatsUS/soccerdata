@@ -58,11 +58,12 @@ def process_stadium_map_file(p):
                 team, stadium, start = fields
 
                 # Process date at the correct time so we don't have to do this?
-                end = unicode(datetime.date.today().year)
+                #end = unicode(datetime.date.today().year)
+                end = str(datetime.date.today().year)
             elif len(fields) == 4:
                 team, stadium, start, end = fields
             else:
-                print "Incorrect fields for stadium map: %s" % fields
+                print("Incorrect fields for stadium map: %s" % fields)
                 continue
 
 
@@ -79,4 +80,4 @@ def process_stadium_map_file(p):
 
 
 if __name__ == "__main__":
-    print load()
+    print(load())

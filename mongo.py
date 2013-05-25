@@ -23,8 +23,8 @@ def insert_rows(collection, rows):
             insert_row(collection, row)
         except:
             #import pdb; pdb.set_trace()
-            print "Insert error"
-            print row
+            print("Insert error")
+            print(row)
     
 def get_rows(collection):
     return [row for row in collection.find()]

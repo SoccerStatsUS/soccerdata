@@ -77,7 +77,7 @@ def process_asl_bios():
             try:
                 birthdate = datetime.datetime(int(byear), int(bmonth), int(bday))
             except:
-                print name, byear, bmonth, bday 
+                print(name, byear, bmonth, bday )
                 birthdate = None
         else:
             birthdate = None
@@ -86,7 +86,7 @@ def process_asl_bios():
             try:
                 deathdate = datetime.datetime(int(dyear), int(dmonth), int(dday))
             except:
-                print name, dyear, dmonth, dday 
+                print(name, dyear, dmonth, dday )
                 deathdate = None
 
         else:
@@ -293,7 +293,7 @@ def bios_yaml(p):
 
 
 if __name__ == "__main__":
-    print bios_yaml()
+    print(bios_yaml())
     
 
 

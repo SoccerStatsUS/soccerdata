@@ -1,24 +1,16 @@
 from soccerdata.mongo import generic_load, soccer_db
 
-from soccerdata.text.cmp import apsl, asl, copaamerica, ltrack, nasl
-from soccerdata.text import awards
-from soccerdata.text import bios
-from soccerdata.text import drafts
-from soccerdata.text import lineups
-from soccerdata.text import partial
-from soccerdata.text import rosters
-from soccerdata.text import salaries
-from soccerdata.text import standings
-from soccerdata.text import stats
-
+from soccerdata.data.alias.people import check_for_name_loops
+from soccerdata.data.alias.teams import check_for_team_loops
+from soccerdata.text import awards, bios, drafts, lineups, ltrack, partial, rosters, salaries, standings, stats
+from soccerdata.text.cmp import apsl, asl, copaamerica, nasl
 #from soccerdata import scrapers
 #from soccerdata.scrapers import mls
 
-from soccerdata.data.alias.people import check_for_name_loops
-from soccerdata.data.alias.teams import check_for_team_loops
-
-
 def clear_all():
+    """
+    Clear all relevant mongo tables.
+    """
     from soccerdata.settings import STAT_TABLES, SOURCES, SINGLE_SOURCES
     for e in STAT_TABLES:
         soccer_db['%s' % e].drop()
@@ -32,6 +24,9 @@ def clear_all():
 
 
 def load_games_standard(coll, fn, games_only=False):
+    """
+    Load standard data from a standard games file.
+    """
     from soccerdata.text import games
     games, goals, fouls, lineups, rosters = games.process_games_file(fn)
 
@@ -45,29 +40,64 @@ def load_games_standard(coll, fn, games_only=False):
 
 
 def load_standings_standard(coll, filename, delimiter=';'):
+    """
+    Load standard standings.
+    """
     generic_load(soccer_db['%s_standings' % coll], lambda: standings.process_standings_file(filename, delimiter))
 
 
 def load():
     """
-    Load all data.
+    Load everything.
+    
+    # House-cleaning
+    Make sure that aliases don't have any cycles.
+    Clear mongo database.
+
+    # load background data
+    - sources
+    - competitions
+    - places
+    - teams
+    - name maps (team,date->name)
+    - stadium maps (team,date->stadium)
+    - competition maps (competition,date->stadium)
+    -? organizations
+
+    # load personal info
+    - biographical data
+    - salaries
+    - job information
+    - drafts
+    -? stats
+
+    # load game data
+    - currently loading games, standings, stats mixed.
     """
+
     check_for_name_loops()
     check_for_team_loops()
     clear_all()
+
     load_sources()
-    load_bios()
     load_places()
     load_competitions()
     load_teams()
-    load_salaries()
-    load_positions()
-    #load_news()
+
     load_name_maps()
     load_stadium_maps()
     load_competition_maps()
+
+    #load_games(); return
+
+    load_bios()
+    load_salaries()
+    load_positions()
     load_drafts()
+
     load_games()
+
+    #load_news()
     #load_analysis()
 
 
@@ -75,24 +105,42 @@ def load_drafts():
     generic_load(soccer_db.drafts, drafts.load_drafts)
     generic_load(soccer_db.picks, drafts.load_picks)
 
-
 def load_games():
+    load_mls() 
+
+
+    load_uruguay()
+
+    load_mexico()
+
+
+    load_argentina()
+    load_brazil()
+    load_colombia()
+
+    load_chile()
+
+
+
+    load_modern_cups()
     load_usl()
     load_ltrack()
-    return
-    load_mls() 
-    load_uncaf()
-    load_mexico()
-    load_women()
     load_pdl()
+
+    load_women()
     load_asl()  
-    load_nasl()     
+    load_nasl() 
+    load_asl2()           
+    load_apsl()
+
+    load_uncaf()
+
+
+
     load_world_international()
     load_nafbl()
 
     load_early_cups()
-
-    load_asl2()       
 
     load_mixed_confederation()
 
@@ -104,33 +152,10 @@ def load_games():
     load_conmebol()
     load_oceania()
 
-    load_argentina()
-    load_uruguay()
-    load_chile()
 
-
-
-
-
-
-    load_apsl()
-
-
-
-
-    load_modern_cups()
     load_modern_friendlies()
 
-
-
-
-
-
     load_early_friendlies()
-
-    
-    #load_brazil()
-
 
 
     load_city()
@@ -143,9 +168,6 @@ def load_games():
     load_conmebol_international()
     load_concacaf_international()
     #load_uncaf_international()
-
-
-
 
 
     load_korea()
@@ -162,11 +184,8 @@ def load_games():
     load_indoor()
 
 
-
-
-
     #load_brazil_international()
-    #load_colombia()
+
 
     # scrapers
     #load_fifa()
@@ -214,15 +233,15 @@ def load_news():
 
 
 def load_bios():
-    print "Loading ASL Bios"
-    print soccer_db.bios.count()
+    print("Loading ASL Bios")
+    print(soccer_db.bios.count())
     generic_load(soccer_db.asl_bios, bios.process_asl_bios)
 
-    #print "Loading MLSsoccer.com player bios.\n"
+    #print("Loading MLSsoccer.com player bios.\n")
     #generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
-    #print soccer_db.bios.count()
+    #print(soccer_db.bios.count())
 
-    print "Loading chris's compiled bios."
+    print("Loading chris's compiled bios.")
 
     generic_load(soccer_db.fifa_bios, bios.process_world_cup_bios)
     generic_load(soccer_db.nasl_bios, bios.process_misl_bios)
@@ -349,7 +368,9 @@ def load_uruguay():
 
 
 def load_colombia():
-    load_standings_standard('colombia', 'domestic/country/colombia2')
+    #load_standings_standard('colombia', 'domestic/country/colombia2')
+    for e in range(2008, 2011):
+        load_games_standard('colombia', 'domestic/country/colombia/%s' % e)
 
 
 def load_chile():
@@ -375,8 +396,16 @@ def load_argentina():
     for year in range(1932, 1965):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
 
+    for year in range(2009, 2011):
+        load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
+
+
 
 def load_brazil():
+    load_games_standard('brazil', 'domestic/country/brazil/brasileiro/2010')
+    load_games_standard('brazil', 'domestic/country/brazil/brasileiro/2011')
+    load_games_standard('brazil', 'domestic/country/brazil/brasileiro/2012')
+
     for year in range(1920, 1966):
         load_games_standard('brazil', 'domestic/country/brazil/paulista/%s' % year)
 
@@ -405,14 +434,14 @@ def load_mls():
     load_excel_standings('mls', 'domestic/country/usa/mls')
     load_games_standard('mls', 'domestic/country/usa/playoffs/mls')
 
-    print "Loading mls bio stats.\n"
+    print("Loading mls bio stats.\n")
     # Not loading 1996-2011 stats?
     generic_load(soccer_db.mls_stats, stats.process_mls_2012_stats)
 
-    print "Loading MLS awards.\n"
+    print("Loading MLS awards.\n")
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
 
-    print "Loading MLS playoff data.\n"
+    print("Loading MLS playoff data.\n")
     for e in [2005, 2006, 2007, 2008, 2011, 2012, 2013]:
         load_games_standard('mls', 'domestic/country/usa/leagues/reserve/mls/%s' % e)
 
@@ -513,13 +542,13 @@ def load_modern_friendlies():
 
 def load_competitions():
     from soccerdata.text import competitions
-    print "Loading competitions.\n"
+    print("Loading competitions.\n")
     generic_load(soccer_db.competitions, competitions.load_competitions)
 
 
 def load_teams():
     from soccerdata.text import teams
-    print "Loading teams.\n"
+    print("Loading teams.\n")
     generic_load(soccer_db.teams, teams.load)
 
 
@@ -530,13 +559,13 @@ def load_salaries():
 
 def load_positions():
     from soccerdata.text.positions import process_positions
-    print "Loading positions.\n\n"
+    print("Loading positions.\n\n")
     generic_load(soccer_db.positions, process_positions)
 
 
 def load_analysis():
     from soccerdata.text import ratings
-    print "Loading ratings.\n"
+    print("Loading ratings.\n")
     generic_load(soccer_db.analysis_ratings, ratings.get_ratings)
     
 
@@ -559,14 +588,15 @@ def load_copa_america():
 def load_asl():
     load_excel_standings('asl', 'domestic/country/usa/asl')
     generic_load(soccer_db.asl_awards, awards.process_asl_awards, delete=False)
+    generic_load(soccer_db.asl_awards, awards.process_esl_awards, delete=False)
+
+    # Colin Jose data
     generic_load(soccer_db.asl_goals, asl.process_asl_goals)
     generic_load(soccer_db.asl_stats, asl.process_stats)
     generic_load(soccer_db.asl_games, asl.process_asl_games)
+
     load_games_standard('asl', 'domestic/country/usa/leagues/d1/asl')
-
     load_games_standard('asl', 'domestic/country/usa/leagues/d2/esl')
-    generic_load(soccer_db.asl_awards, awards.process_esl_awards, delete=False)
-
 
 
 def load_asl2():
@@ -581,17 +611,19 @@ def load_nasl():
     Load stats from the old nasl and misl.x
     """
 
-    print "Loading NASL data.\n"
+    print("Loading NASL data.\n")
     load_excel_standings('nasl', 'domestic/country/usa/nasl')
     load_excel_standings('nasl', 'domestic/country/usa/nasl0')
     generic_load(soccer_db.nasl_awards, awards.process_nasl_awards)
     generic_load(soccer_db.nasl_awards, awards.process_usa_awards)
     generic_load(soccer_db.nasl_awards, awards.process_npsl_awards)
 
+    load_games_standard('nasl', 'domestic/country/usa/playoffs/nasl')
 
     generic_load(soccer_db.nasl_games, nasl.process_npsl_games)
     generic_load(soccer_db.nasl_goals, nasl.process_npsl_goals)
     load_games_standard('nasl', 'domestic/country/usa/leagues/d2/usa')
+
     generic_load(soccer_db.nasl_stats, stats.process_nasl_stats)
 
     # Need to work some integrity issues on games.
@@ -606,10 +638,10 @@ def load_apsl():
     """
     from soccerdata.text import awards
 
-    print "loading apsl stats"
+    print("loading apsl stats")
     generic_load(soccer_db.us_d2_stats, apsl.process_apsl_stats)
 
-    print "loading apsl partial stats"
+    print("loading apsl partial stats")
     generic_load(soccer_db.us_d2_stats, partial.process_apsl_partial)
 
     generic_load(soccer_db.us_d2_awards, awards.process_apsl_awards)
@@ -618,7 +650,7 @@ def load_apsl():
     load_excel_standings('us_d2', 'domestic/country/usa/wsa')
     load_excel_standings('us_d2', 'domestic/country/usa/lssa')
     
-    #print "loading apsl scores"
+    #print("loading apsl scores")
     #generic_load(soccer_db.us_d2_games, apsl.process_apsl_scores)
     #load_games_standard('us_d2', 'domestic/country/usa/leagues/wsa3')
 
@@ -636,11 +668,11 @@ def load_indoor():
     """
     load_excel_standings('misl', 'indoor/all')
     load_excel_standings('misl', 'indoor/misl')
-    print "Loading MISL stats.\n"
+    print("Loading MISL stats.\n")
     generic_load(soccer_db.misl_stats, stats.process_misl_stats)
 
 
-def load_ltrack()
+def load_ltrack():
     generic_load(soccer_db.ltrack_goals, ltrack.process_goals)
     generic_load(soccer_db.ltrack_games, ltrack.process_games)
     generic_load(soccer_db.ltrack_lineups, ltrack.process_lineups)
@@ -650,13 +682,13 @@ def load_mls_lineup_db():
     # Load scaryice lineup data.
 
     # MLS lineup data 1996-2010
-    print "Loading scaryice score data.\n"
+    print("Loading scaryice score data.\n")
     generic_load(soccer_db.mls_games, lineups.load_all_games_scaryice)
 
-    print "Loading scaryice goal data.\n"
+    print("Loading scaryice goal data.\n")
     generic_load(soccer_db.mls_goals, lineups.load_all_goals_scaryice)
     
-    print "Loading scaryice lineup data.\n"
+    print( "Loading scaryice lineup data.\n")
     generic_load(soccer_db.mls_lineups, lineups.load_all_lineups_scaryice)
 
 
@@ -672,7 +704,6 @@ def load_usl():
     """
     Load usl stats and nasl stats.
     """
-    from soccerdata.text import nasl
 
     # Division 2
     generic_load(soccer_db.us_d2_awards, awards.process_usl_awards) #split 2 and 3
@@ -690,9 +721,9 @@ def load_usl():
 
     load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/usl1')
     load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/ussfd2')
-    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/2011')
-    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/2012')
-    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/2013')
+    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/nasl/2011')
+    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/nasl/2012')
+    load_games_standard('us_d2', 'domestic/country/usa/leagues/d2/nasl/2013')
 
     load_games_standard('us_d2', 'domestic/country/usa/playoffs/usl1')
     load_games_standard('us_d2', 'domestic/country/usa/playoffs/nasl2')
@@ -755,7 +786,11 @@ def load_mexico():
     for e in range(1970, 1996):
         load_games_standard('mexico', 'domestic/country/mexico/league/%s' % e)
 
+    load_games_standard('mexico', 'domestic/country/mexico/league/2009')
+    load_games_standard('mexico', 'domestic/country/mexico/league/2010')
+    load_games_standard('mexico', 'domestic/country/mexico/league/2011')
 
+    # Cups
     load_games_standard('mexico', 'domestic/country/mexico/super')
     load_games_standard('mexico', 'domestic/country/mexico/playoffs/1970')
     load_games_standard('mexico', 'domestic/country/mexico/playoffs/2000')
@@ -1047,7 +1082,7 @@ def load_concacaf():
 
 
 def load_ncaa():
-    print "Loading NCAA awards.\n"
+    print("Loading NCAA awards.\n")
     load_games_standard('ncaa', 'domestic/country/usa/college')
     generic_load(soccer_db.ncaa_awards, awards.process_ncaa_awards)
 

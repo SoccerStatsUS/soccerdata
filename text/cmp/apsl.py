@@ -233,7 +233,7 @@ class TextProcessor(object):
 
             # There remain a few lines with incomplete game data.
             if not r:
-                print line
+                print(line)
                 return {}
 
             date_string, opponent, homeaway, score, _ = r.groups()

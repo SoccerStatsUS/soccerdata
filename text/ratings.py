@@ -22,4 +22,4 @@ def get_ratings():
 
 
 if __name__ == "__main__":
-    print get_ratings()
+    print(get_ratings())

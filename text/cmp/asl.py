@@ -61,7 +61,7 @@ def get_full_name_stats(team, season):
     team_matches = [e for e in TEAM_HISTORY_TUPLES if e[0] == team]
 
     if len(team_matches) == 0:
-        #print "Fail: %s" % team
+        #print("Fail: %s" % team)
         return team
     elif len(team_matches) == 1:
         assert team_matches[0][1] == []
@@ -243,7 +243,7 @@ def get_full_name(name, competition, season):
 
     if name == 'Boston':
         import pdb; pdb.set_trace()
-    print "name match failed on %s, competition: %s (%s) " % (name, competition, season)
+    print("name match failed on %s, competition: %s (%s) " % (name, competition, season))
     return name
 
 
@@ -289,8 +289,8 @@ class GameProcessor(object):
 
         # What is field # 10?
         if len(fields) == 10:
-            print "Ten fields for some reason?"
-            print row
+            print("Ten fields for some reason?")
+            print(row)
             fields = fields[:9]
 
         if len(fields) == 9:
@@ -301,7 +301,7 @@ class GameProcessor(object):
 
         else:
             # A couple of games without scores (forfeits). (len = 7)
-            print fields
+            print(fields)
             return {}
 
         
@@ -422,7 +422,7 @@ def get_bios():
 
 
 if __name__ == "__main__":
-    print process_stats()
-    #print process_bios()
+    print(process_stats())
+    #print(process_bios())
 
 

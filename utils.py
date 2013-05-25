@@ -1,21 +1,23 @@
 import hashlib
-import leveldb
+
+#import leveldb
+#from urllib import urlencode
+#import urllib2
+#from BeautifulSoup import BeautifulSoup
+
 import os
 import random
 import time
-from urllib import urlencode
-import urllib2
 
-from BeautifulSoup import BeautifulSoup
 
-db = leveldb.LevelDB("/home/chris/leveldb/page")
+#db = leveldb.LevelDB("/home/chris/leveldb/page")
 
 # USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 5.1; rv:8.0; en_us) Gecko/20100101 Firefox/8.0'
 
 
 def get_id():
-    return hashlib.md5(str(time.time())).hexdigest()
+    return hashlib.md5(str(time.time()).encode('utf8')).hexdigest()
 
 
 class IDCounter(object):
@@ -148,7 +150,7 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5, fix_tags=False, url_d
             
             #try:
             data = db.Get(url)
-            print "pulling %s from page cache" % url
+            print("pulling %s from page cache" % url)
             #except leveldb.LevelDBError:
             #db.Delete(url)
         except KeyError:
@@ -156,7 +158,7 @@ def scrape_url(url, refresh=False, encoding=None, sleep=5, fix_tags=False, url_d
 
     if data is None:
         time.sleep(sleep)
-        print "downloading %s" % url
+        print("downloading %s" % url)
 
         # Requests is not returning correct data.
         # e.g. http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3051/report.html

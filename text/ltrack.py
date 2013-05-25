@@ -282,8 +282,8 @@ def process_lineups():
         
 
 if __name__ == "__main__":
-    print process_lineups()
-    #print process_games()
-    #print process_goals()
+    print(process_lineups())
+    #print(process_games())
+    #print(process_goals())
     
     

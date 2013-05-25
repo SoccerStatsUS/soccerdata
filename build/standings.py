@@ -1,6 +1,7 @@
 # A standings object. Used to generate standings.
 # Doing this wrong?
-
+# Where should this go?
+# Use a different database backend?
 
 def get_standings(games, competition, season):
     return Standing(games, competition, season).standings()
@@ -29,8 +30,6 @@ class Standing(object):
             d[key] = points
         return d
             
-
-
     def get_results(self, games):
         from collections import defaultdict
         wins = defaultdict(int)
@@ -92,13 +91,11 @@ class Standing(object):
         return sorted([dict(e) for e in s], key=lambda d: -d['points'])
 
     def print_standings(self):
-        print "\n\n\n"
+        print("\n\n\n")
         header = ["name", "wins", "losses", "ties", "goals_for", "goals_against", 'competition', 'season']
-        print "\t".join(header)
+        print("\t".join(header))
         for e in self.standings():
                 try:
                     "\t".join([str(a) for a in e])
                 except UnicodeEncodeError:
-                    print "CANNOT PRINT ASCII ERROR"
-
-            
+                    print("CANNOT PRINT ASCII ERROR")

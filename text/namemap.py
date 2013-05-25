@@ -69,4 +69,4 @@ def process_name_map_file(p):
 
 
 if __name__ == "__main__":
-    print load()
+    print(load())

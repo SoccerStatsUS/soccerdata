@@ -46,7 +46,7 @@ def process_awards(d):
         team_data = d.pop('team_data')
     else:
         team_data = []
-        print d
+        print(d)
 
     for award, v in d.items():
         if award in team_data:
@@ -64,7 +64,8 @@ def process_awards(d):
                 import pdb; pdb.set_trace()
             season, item = e
             try:
-                season = unicode(season)
+                #season = unicode(season)
+                season = str(season)
             except:
                 import pdb; pdb.set_trace()
             template = {
@@ -311,4 +312,4 @@ def process_world_awards():
 
 
 if __name__ == "__main__":
-    print process_world_cup_awards()
+    print(process_world_cup_awards())

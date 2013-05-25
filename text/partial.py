@@ -60,6 +60,6 @@ def process_partial_stats(p):
 
         
 if __name__ == "__main__":
-    print process_partial_stats()
+    print(process_partial_stats())
             
         

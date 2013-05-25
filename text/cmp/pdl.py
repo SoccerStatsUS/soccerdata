@@ -184,7 +184,7 @@ class GeneralProcessor(object):
                 # Eventually will indicate a blank score.
                 # We're not prepared to handle this, so leave the function.
                 if score == 'w/o':
-                    print "skipping: %s" % score
+                    print("skipping: %s" % score)
                     winner = team1
                     return
 
@@ -294,6 +294,6 @@ if __name__ == "__main__":
     for fn in os.listdir(d):
         p = os.path.join(d, fn)
         if os.path.isfile(p) and not fn.endswith("~"):
-            print process_general_file(fn)
-    #print process_general_file("harmarville.txt")
+            print(process_general_file(fn))
+    #print(process_general_file("harmarville.txt"))
     

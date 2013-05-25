@@ -2,11 +2,11 @@ import datetime
 import functools
 import hashlib
 import json
-import leveldb
 
 # Should pull this from settings.
 # Need a better place for this.
-data_cache_db = leveldb.LevelDB("/home/chris/leveldb/data")
+#import leveldb
+#data_cache_db = leveldb.LevelDB("/home/chris/leveldb/data")
 
 
 # This is how dates are formatted/unformatted, since leveldb can't store datetimes.
@@ -64,7 +64,8 @@ def cache_unformat(el):
                 d2[key] = _inner(value)
             return d2
 
-        elif type(v) in [type(''), type(u'')]:
+        #elif type(v) in [type(''), type(u'')]:
+        elif type(v) == type(''):
             try:
                 return datetime.datetime.strptime(v, format_string)
             except:
@@ -124,7 +125,7 @@ class data_cache(AbstractCache):
         # Try to retrieve from the cache.
         try:
             data = get_data_cache(key)
-            #print "Returning %s%s from data cache." % (self.func.func_name, args)
+            #print("Returning %s%s from data cache." % (self.func.func_name, args))
             return data
         except KeyError:
             # Data wasn't in the cache, so go get it.

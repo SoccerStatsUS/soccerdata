@@ -23,7 +23,7 @@ def fix_roster_name(name):
 
     # Title doesn't work with abnormal characters.
     # Maybe coerce to unicode first?
-    name = unicode(name, 'utf-8')
+    #name = unicode(name, 'utf-8')
     name_parts = name.split(' ')
 
     l = []

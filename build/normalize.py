@@ -55,9 +55,9 @@ def make_location_normalizer():
                 pass
                 """
                 try:
-                    print "mismatch:\n%s\n%s" % (location_string, city)
+                    print("mismatch:\n%s\n%s" % (location_string, city))
                 except:
-                    print "BIGFAIL %s" % str(location_string)
+                    print("BIGFAIL %s" % str(location_string))
                     """
         
         else:
@@ -284,7 +284,10 @@ def normalize_foul(e):
     return e
 
 def normalize_stat(e):
-    e['competition'] = get_competition(e['competition'])
+    try:
+        e['competition'] = get_competition(e['competition'])
+    except:
+        import pdb; pdb.set_trace()
     e['team'] = get_team(e['team'])
     e['name'] = get_name(e['name'])
 
@@ -308,7 +311,7 @@ def normalize_stat(e):
             try:
                 e[k] = int(e[k])
             except:
-                print "Failed integer coercion on %s" % e
+                print("Failed integer coercion on %s" % e)
                 import pdb; pdb.set_trace()
                 e[k] = 0
 
@@ -337,11 +340,20 @@ def normalize_lineup(e):
     except:
         import pdb; pdb.set_trace()
 
+        """
     if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
         e['on'] = e['on'][:-1]
 
     if type(e['off']) in (str, unicode) and e['off'].endswith('\''):
         e['off'] = e['off'][:-1]
+        """
+
+    if type(e['on']) == str and e['on'].endswith('\''):
+        e['on'] = e['on'][:-1]
+
+    if type(e['off']) == str and e['off'].endswith('\''):
+        e['off'] = e['off'][:-1]
+
 
     return e
 
@@ -392,14 +404,13 @@ def normalize_bio(e):
     if type(e['birthdate']) == int:
         e['birthdate'] = None
 
-    if type(e['deathdate']) == int:
+    if e.get('deathdate') and type(e['deathdate']) == int:
         e['deathdate'] = None
 
     if e['birthplace']:
-        e['birthplace'] = get_city(get_place(location_string))
+        e['birthplace'] = get_city(get_place(e['birthplace']))
 
     return e
-
     
     
 def normalize():

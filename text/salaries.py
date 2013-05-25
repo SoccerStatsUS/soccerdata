@@ -68,7 +68,7 @@ def load_new_salaries(fn, year):
             last_name, first_name = [e.strip() for e in n.split(',')]
             name = "%s %s" % (first_name, last_name)
         else:
-            print n
+            print(n)
             name = n
 
         return {

@@ -31,7 +31,7 @@ def transform():
     # Lots of complicated player name transformations that really don't work.
 
 
-    print "Transforming names."
+    print("Transforming names.")
     # Comment this out if worried about over-assigning full names.
     #generate_prerosters()
     #transform_player_names() 
@@ -84,11 +84,11 @@ def get_name_from_fragment(fragment, candidates):
     cx = [e for e in candidates if e.endswith(fragment) and e != fragment]
 
     if len(cx) == 1:
-        #print "Converting %s to % s" % (fragment, c2[0])
+        #print("Converting %s to % s" % (fragment, c2[0]))
         return cx[0]
 
     elif len(cx) > 1:
-        #print "Cannot decide between %s for %s" % (str(c2), fragment)
+        #print("Cannot decide between %s for %s" % (str(c2), fragment))
         return fragment
 
     else:
@@ -114,7 +114,7 @@ def get_name_from_fragment(fragment, candidates):
 
             # This should never happen.
             elif len(matches) > 1:
-                print fragment, matches
+                print(fragment, matches)
 
     return fragment
             
@@ -148,7 +148,7 @@ def transform_names_from_rosters():
     # transform_rosters are rosters that have been generated from stats.
 
     for source in SOURCES:
-        #print source
+        #printsource
 
 
         # Try to use independently defined rosters.
@@ -246,7 +246,7 @@ def transform_team_names_for_competition(coll_group, competition, string_format)
 
 # Rosters
 def generate_prerosters():
-    print "Generating all rosters"
+    print("Generating all rosters")
     # This is a preliminary roster since player names haven't been normalized and not all stats have been generated.
     # Not using this - it's too blunt of a tool.
     generic_load(soccer_db.prerosters, generate_all_time_rosters)

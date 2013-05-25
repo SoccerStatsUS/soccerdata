@@ -203,7 +203,7 @@ def process_stats():
                 try:
                     name, team, goals, assists, shots, sog, yc, rc, minutes = fields
                 except:
-                    print line
+                    print(line)
                     continue
 
                 sog = int(sog)
@@ -243,7 +243,7 @@ def get_full_name(name, season):
         return simple_map[name]
 
         
-    print "(NASL) failed to get name for %s" % name
+    print("(NASL) failed to get name for %s" % name)
     return name
     
 
@@ -436,9 +436,9 @@ class GameProcessor(object):
                 try:
                     name = player_from_abbreviation(appearance_code, roster)
                 except:
-                    print season, team
-                    print d
-                    print appearance_code
+                    print(season, team)
+                    print(d)
+                    print(appearance_code)
                     raise
 
                 appearance_list.append({
@@ -461,4 +461,4 @@ class GameProcessor(object):
 
 
 if __name__ == "__main__":
-    print process_games()
+    print(process_games())

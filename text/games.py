@@ -326,7 +326,7 @@ class GeneralProcessor(object):
         try:
             team1_goals, team2_goals = line.split(";")
         except ValueError:
-            print line
+            print(line)
             import pdb; pdb.set_trace()
             raise
 
@@ -430,7 +430,7 @@ class GeneralProcessor(object):
                 day = month = None
                 d = None
             except ValueError:
-                print "? problem on date", fields[0]
+                print("? problem on date", fields[0])
                 d = None
 
         else:
@@ -481,7 +481,7 @@ class GeneralProcessor(object):
         # Eventually will indicate a blank score.
         # Replace w/o with more explicit data.
         if score == 'w/o':
-            print "skipping: %s" % score
+            print("skipping: %s" % score)
             return
 
         # Parse score data.
@@ -683,7 +683,7 @@ class GeneralProcessor(object):
                         minute = int(minute)
                         sub = process_name(sub)
                     else:
-                        #print "No minute for sub %s" % s
+                        #print("No minute for sub %s" % s)
                         minute = None
                         sub = process_name(sub_items[0])
 
@@ -775,6 +775,6 @@ if __name__ == "__main__":
     for fn in os.listdir(d):
         p = os.path.join(d, fn)
         if os.path.isfile(p) and not fn.endswith("~"):
-            print process_general_file(fn)
-    #print process_general_file("harmarville.txt")
+            print(process_general_file(fn))
+    #print(process_general_file("harmarville.txt"))
     

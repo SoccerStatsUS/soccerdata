@@ -2,7 +2,7 @@ from collections import defaultdict
 from soccerdata.mongo import soccer_db, insert_rows, generic_load
 
 import os
-import cPickle
+#import cPickle
 
 
 
@@ -146,14 +146,14 @@ def denormalize():
     team_name_ungetter = make_team_name_ungetter()
     stadium_getter = make_stadium_getter()
 
-    print "Generating cities."
+    print("Generating cities.")
     generate_cities()
 
 
-    print "Denormalizing standings"
+    print("Denormalizing standings")
     # Need to change standing team names.
 
-    print "Denormalizing games"    
+    print("Denormalizing games"    )
     l = []
     for e in soccer_db.games.find():
         e['team1_original_name'] = team_name_ungetter(e['team1'], e['date'])
@@ -174,10 +174,10 @@ def denormalize():
     soccer_db.games.drop()
     insert_rows(soccer_db.games, l)
 
-    print "Denormalizing competitions"
+    print("Denormalizing competitions")
     l = []
 
-    print "Denormalizing goals"
+    print("Denormalizing goals")
     l = []
     for e in soccer_db.goals.find():
         if e['date']:
@@ -189,7 +189,7 @@ def denormalize():
     insert_rows(soccer_db.goals, l)
             
 
-    print "Denormalizing lineups\n\n"            
+    print("Denormalizing lineups\n\n")
     l = []
     for e in soccer_db.lineups.find():
 

@@ -80,7 +80,7 @@ def process_position_file(fn):
 process_positions = lambda: process_position_file(POSITIONS_PATH)
 
 if __name__ == "__main__":
-    print process_positions()
+    print(process_positions())
 
 
 

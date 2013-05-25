@@ -168,7 +168,7 @@ def test_red_card():
     assert_equal(r1['minute'], None)
     assert_equal(r1['type'], 'red')
 
-    print misconduct
+    print(misconduct)
 
     r2 = misconduct[1]
     assert_equal(r2['name'], 'Eberhard Herz')

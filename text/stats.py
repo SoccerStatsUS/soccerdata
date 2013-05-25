@@ -156,7 +156,7 @@ def process_stats(fn, competition=None, format_name=True, source=None):
                     try:
                         d[k] = int(v)
                     except ValueError:
-                        print v
+                        print(v)
 
             if 'position' in d:
                 d.pop('position')

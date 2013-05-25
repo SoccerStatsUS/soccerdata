@@ -309,4 +309,4 @@ def load_world_soccer():
 
 if __name__ == "__main__":
     for e in load():
-        print e
+        print(e)

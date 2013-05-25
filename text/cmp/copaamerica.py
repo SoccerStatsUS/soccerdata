@@ -29,7 +29,7 @@ def process_copa_files():
     misconduct = []
     appearances = []
     for fn in filenames:
-        print fn
+        print(fn)
         gmx, glx, mcx, apx = process_copa_file(fn)
         games.extend(gmx)
         goals.extend(glx)
@@ -148,7 +148,7 @@ class GeneralProcessor(object):
                 date, city, location = self.process_date_location(block[0])
             except:
                 import pdb; pdb.set_trace()
-                print block[0]
+                print(block[0])
 
             team1, team2, team1_score, team2_score = self.process_score(block[1])
             attendance, referee, linesmen = self.process_attendance_ref(block[2])
@@ -312,7 +312,7 @@ class GeneralProcessor(object):
                         minute = int(minute)
                         sub = process_name(sub)
                     else:
-                        #print "No minute for sub %s" % s
+                        #print("No minute for sub %s" % s)
                         minute = None
                         sub = process_name(sub_items[0])
 
@@ -445,4 +445,4 @@ def split_outside_parens(s, delimiters=','):
         
 if __name__ == "__main__":
     #process_copa_files()
-    print process_rosters()
+    print(process_rosters())

@@ -38,55 +38,52 @@ def reset_database():
 
 def build():
     """
-    Rebuild all site data.
+    Convert unstructured data (text and web) into structure data in a mongo database.
+    Load data, normalize it, 
     """
 
+    for func in load, normalize, transform, generate, merge, generate2, denormalize, check:
+        print(func.__name__)
+        func()
+    
+    return
+
+
     # Do you want to generate before so that you can use / merge those items normally?
-
     # Or do you want to generate afterwards so that you can filter things easier?
-
-    # There should only be one load.
     load()
 
     # This is where player, team, competition, and place names are normalized.
     # Best to do this as early as possible.
-
-    print "Normalizing"
+    print("normalize")
     normalize()
-
 
     # e.g. United States -> United States U-17
     # Transform names like Carnihan -> Bill Carnihan if possible.
-    # Transformation should happen before normalization?
-    print "Transforming"
-
+    # Split names like Arsenal (in Argentina D1) -> Arsenal de Sarandi.
+    print("transform")
     transform()
 
-
-
     # This is where things like standings and stats are generated.
-    # Should be relatively simple.
-
-    print "Generating for individual collections"
+    # Generating for individual collections
+    print("generate")
     generate()
 
-
     # Merge everything together.
-
-    print "Merging"
+    print("merge()")
     merge()
 
-    print "Generating standings, stats from merged data; generating indexes on db's."
+    # Generating standings, stats from merged data; generating indexes on db's.
+    print("generate2")
     generate2()
 
-    print "Denormalizing"
+    # Convert names like FC Dallas -> Dallas Burn, e.g. 
+    print("denormalize")
     denormalize()
     
-
-    print "Checking"
+    # Check data sanity? not heavily used.
+    print("check")
     check()
-
-
 
 
 if __name__ == "__main__":
