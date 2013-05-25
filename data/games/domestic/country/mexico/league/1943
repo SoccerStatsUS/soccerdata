@@ -2,7 +2,7 @@ Competition: Liga MX
 Season: 1943-1944
 BlockSource: http://www.rsssf.com/tablesm/mex44.html
 
-*Round 1
+Round: 1
 *[Oct 17, 1943]
 Date: 10/17/1943
 ; Real Club España; 2-3; Moctezuma
@@ -18,8 +18,7 @@ Luis Aussín; Luis García Cortina 9, Luis Garcia Cortina 39, Octavio Vial 18, O
 Agustín Medina 14, Agustin Medina 52; José Menéndez 66, Ismael Zavaleta 76, Ismael Zavaleta (pk) 84, José Noguera 79
 *Bye: Atlante, Guadalajara
 
-*Round 2
-*[Oct 21]
+Round: 2
 Date: 10/21/1943
 ; Atlante; 1-4; Guadalajara
 Martín Vantolrá 52; Pablo González 13, Pablo Gonzalez 21, Luis Reyes 33, Maximiliano Prieto 79
@@ -33,7 +32,7 @@ José Noguera, Ismael Zavaleta, Salvador Arizméndi, Salvador Arizméndi; Julio 
 
 * Bye: ADO, Atlas, Real Club España, Marte (Mexico)
 
-*Round 3
+Round: 3
 Date: 10/28/1943
 
 ; Real Club España; 6-2; Atlas
@@ -48,7 +47,7 @@ Luis Reyes 6, Maximiliano Prieto 19, Maximiliano Prieto 85, Manuel "Cosas" Lópe
 
 *Bye: Club America, CF Asturias, Moctezuma, Veracruz
 
-*Round 4
+Round: 4
 Date: 11/4/1943
 ;Club America; 1-0; Moctezuma
 Julio Orvañanos 43;
@@ -65,7 +64,7 @@ Salvador “Choco” Méndez, Salvador “Choco” Méndez, Salvador “Choco”
 
 *Bye: Guadalajara, Marte (Mexico)
 
-*Round 5
+Round: 5
 Date: 11/11/1943
 ; Marte (Mexico); 2-3; Club America
 José "Che" Gómez 9, Alberto "Caballo" Mendoza 70; Ángel Segura 33, Leopoldo Proal 47, Luis García Cortina 59
@@ -83,7 +82,7 @@ Ernesto Candia; Ismael Zavaleta, José Menéndez
 
 * Bye: Atlas, Veracruz
 
-*Round 6
+Round: 6
 Date: 11/18/1943
 
 ; Marte (Mexico); 1-1; Atlas
@@ -91,7 +90,7 @@ José Luis Borbolla 32; José Alberto Valdivieso (pk)
 
 *Bye: ADO, Club America, CF Asturias, Atlante, Real Club España, Guadalajara, Moctezuma,      Veracruz 
 
-*Round 7
+Round: 7
 Date: 11/25/1943
 
 ; Real Club España; 6-1; Club America
@@ -110,7 +109,7 @@ Guadalupe Velásquez , Guadalupe Velásquez , Roberto Zárate; Luis de la Fuente
 
 * Bye: Atlante, Moctezuma
 
-*Round 8
+Round: 8
 Date: 12/2/1943
 ; Atlante; 0-1; Moctezuma
 ; Julio Pascual Cupido 35
@@ -123,7 +122,7 @@ José Alberto Valdivieso, José Alberto Valdivieso (pk), Agustín Medina; Luis R
 Guido Matamoros 9, Leopoldo Proal 35, Luis García Cortina 53, Luis García Cortina 82; Luis de la Fuente, Luis de la Fuente, Luis de la Fuente, José Miguel Díez, Samuel Cuburu, Samuel Cuburu
 *Bye: ADO, CF Asturias, Real Club España, Marte (Mexico) 
 
-*Round 9
+Round: 9
 Date: 12/9/1943
 
 ;Real Club España; 3-2; Marte (Mexico)
@@ -141,7 +140,7 @@ Alfonso Arnaiz, Alfonso Arnaiz, Julio Pascual Cupido; Enrique Pradere
 
 * Bye: Atlas, Club America
 
-*Round 10
+Round: 10
 Date: 12/16/1943
 
 ;Club America; 3-2; Atlas
@@ -157,7 +156,7 @@ Luis Reyes 50, Own Goal (Dolores Araujo) 58, Rafael Orozco 69; Antonio Villegas 
 
 *Bye: ADO, CF Asturias, Atlante, Marte (Mexico)
 
-*Round 11
+Round: 11
 Date: 12/23/1943
 ;CF Asturias; 4-1; ADO
 Ismael Zavaleta 21, Tomás Ordóñez 54, Ignacio Cabezón 68, Salvador Arizméndi 79; Antonio Toledo 66
@@ -170,7 +169,7 @@ Manuel "Gitano" López; Luis Reyes 40, Pablo González 60
 Agustín Medina 22, Agustín Medina 80, Guadalupe Velásquez 64; Baldomero Arce 35, Adalberto "Dumbo" López 43, Adalberto "Dumbo" López 53
 *Bye: Club America, Real Club España, Moctezuma, Veracruz
 
-*Round 12
+Round: 12
 Date: 12/30/1943
 ;CF Asturias; 6-2; Veracruz
 Ismael Zavaleta 24, Ismael Zavaleta 72, Tomás Ordóñez 43, Tomás Ordóñez 47, José Noguera 60, Salvador Arizméndi 62; Samuel Cuburu 70, José Valdivia 85
@@ -180,7 +179,7 @@ Date: 1/2/1944
 Horacio Casarín 2, Martín Vantolrá (pk); Carlos Septién
 *Bye: ADO, Club America, Atlas, Guadalajara, Marte (Mexico), Moctezuma
 
-*Round 13
+Round: 13
 Date: 1/6/1944
 ; Marte (Mexico); 3-0; CF Asturias
 Alberto Mendoza 5, Alberto Mendoza 62, José Luis Borbolla 12;
@@ -196,7 +195,7 @@ José Valdivia, José Valdivia; Salvador “Choco” Méndez, Luis Aussín
 Octavio Vial 80, Florencio Cafaratti 82; Horacio Casarín, Horacio Casarín, Martín Vantolrá, Antonio Hutt, Antonio Hutt
 *Bye: Guadalajara, Real Club España
 
-*Round 14
+Round: 14
 Date: 1/16/1944
 
 ;Marte (Mexico); 4-2; Moctezuma
@@ -209,7 +208,7 @@ Justo Couto (pk), Antonio Toledo; José Iraragorri, José Iraragorri, José Irar
 Manuel "Cosas" López 2, Pablo González (pk) 47, Pablo Gonzalez 59; Florencio Cafaratti 82
 *Bye: CF Asturias, Atlante, Atlas, Veracruz
 
-*Round 15
+Round: 15
 Date: 1/23/1944
 
 ;Veracruz; 2-3; Atlas
@@ -225,7 +224,7 @@ Ernesto Candia, Alfonso Arnaiz; Antonio Hutt
 Maximiliano Prieto 79; Own Goal (Rodolfo Hidalgo) 9, Ismael Zavaleta 51, Ismael Zavaleta 63, José Menéndez 61, José Noguera 70
 *Bye: ADO, Club America
 
-*Round 16
+Round: 16
 Date: 1/27/1944
 
 ;Club America; 1-3; ADO
@@ -242,7 +241,7 @@ José Noguera; Horacio Casarín, Noriega
 Ricardo Álvarez 13; José Iraragorri 42pen, Enrique Larriñaga
 *Bye: Guadalajara, Veracruz
 
-*Round 17
+Round: 17
 Date: 2/6/1944
 
 ;Marte (Mexico); 0-2; ADO
@@ -255,7 +254,7 @@ Ernesto Candia (pk), Alfonso Arnaiz, Alfonso Arnaiz; Roberto Scarone (pk) 23
 ; Martín Vantolrá 82
 *Bye: CF Asturias, Atlas, Real Club España, Veracruz
 
-*Round 18
+Round: 18
 Date: 2/10/1944
 
 ;CF Asturias; 2-3; Atlas
@@ -273,7 +272,7 @@ Ernesto Candia, Ernesto Candia, Alfonso Arnaiz; Martín Gómez, Martín Gómez, 
 Pablo González 15, Pablo González 18, Pablo González 52, Pablo González 89, Javier de la Torre 59; José Miguel Díez 63
 *Bye: ADO, Real Club España 
 
-*Round 19
+Round: 19
 Date: 2/17/1944
 ;Real Club España; 5-1; ADO
 Isidro Lángara 44, Isidro Lángara 47, Isidro Lángara 85, Jorge Quezada 52, Enrique Larriñaga 62; Leonardo "Chanclitas" Zamudio 39
@@ -290,7 +289,7 @@ Leopoldo Proal 7, Leopoldo Proal 15, Leopoldo Proal 25, Leopoldo Proal 67, Guido
 Martín Cuburu; Ismael Zavaleta, José Noguera 86
 *Bye: Atlante, Marte (Mexico)
 
-*Round 20
+Round: 20
 Date: 2/24/1944
 
 ;Real Club España; 2-0; Atlante
@@ -304,7 +303,7 @@ Ismael Zavaleta 10, Francisco Fandiño 40, Tomás Regueiro 43, Tomás Regueiro 8
 Salvador “Choco” Méndez 35, Julio Pisapía; Julián Durán 52, Julián Durán 54, Julián Durán 61
 *Bye: Club America, Atlas, Guadalajara, Moctezuma
 
-*Round 21
+Round: 21
 Date: 3/2/1944
 ;Real Club España; 8-2; Guadalajara
 "Emilín" 16, "Emilín" 81, Jorge Quezada 18, Isidro Lángara 25, Isidro Lángara 49, Isidro Lángara 70, Enrique Larriñaga 30, Enrique Larriñaga 42; Luis Reyes 55, Luis Reyes 57
@@ -320,7 +319,7 @@ Own Goal (Pedro Vera) 16, Antonio Flores 24, Agustín Medina 74;
 ;ADO; 0-1; Atlante
 *Bye: CF Asturias, Moctezuma
 
-*Round 22
+Round: 22
 Date: 3/9/1944
 ;CF Asturias; 2-2; Moctezuma
 Ismael Zavaleta 7, José Menéndez 10; Antonio Villegas 22, Antonio Villegas 88
@@ -335,7 +334,7 @@ Julio Pisapía, Julio Pisapía, Unknown; Luis Reyes 31, Pablo González 70
 ;Veracruz; 7-2; Real Club España
 *Bye: Club America, Marte (Mexico)
 
-*Round 23
+Round: 23
 Date: 3/16/1944
 ;Club America; 2-0; Marte (Mexico)
 Leopoldo Proal 15, Miguel Ángel Segura 51;
@@ -365,7 +364,7 @@ Roberto Scarone 8, Florencio Caffarati 80;
 ;ADO; 3-4; CF Asturias
 *Bye: Moctezuma, Veracruz
 
-*Round 25
+Round: 25
 Date: 3/30/1944
 ; Atlante; 3-1; Veracruz
 
@@ -380,7 +379,7 @@ Diego Martínez 3, Diego Martínez 40, Javier de la Torre 25, Javier de la Torre
 ; Antonio Villegas 7, Antonio Villegas 77, Ricardo Álvarez 15
 *Bye: Atlas, Real Club España
 
-*Round 26
+Round: 26
 Date: 4/9/1944
 ; Atlas; 0-1; Real Club España
 ; José Iraragorri 34

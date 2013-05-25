@@ -13,7 +13,7 @@ def check_for_team_loops():
         try:
             get_team(e)
         except:
-            print e
+            print(e)
             errors = True
 
     if errors:
@@ -61,6 +61,8 @@ slugs = {
 
 
 world = {
+
+    'América': 'Testing',
 
     'SoccerPlus CT': 'SoccerPlus Connecticut',
 
@@ -134,9 +136,22 @@ world = {
     'Almagro': 'Club Almagro',
     'Talleres (RdE)': 'Talleres de Remedios de Escalada',
     'Talleres (Remedios de Escalada)': 'Talleres de Remedios de Escalada',
+
+    'Estudiantes (C)': 'Estudiantes de Caseros',
     'Estudiantes de la Plata': 'Estudiantes de La Plata',
     'Estudiantes LPG': 'Estudiantes de La Plata',
     'Estudiantes (LP)': 'Estudiantes de La Plata',
+    'Atlético Estudiantes': 'Estudiantes de Caseros',
+    'CA Estudiantes': 'Estudiantes de Caseros',
+    #'Estudiantes': 'Estudiantes de La Plata',
+    'Estudiantes LP': 'Estudiantes de La Plata',
+    'Estudiantes (Argentina)': 'Estudiantes de La Plata',
+    'Estudiantes (Venezuela)': 'Estudiantes de Mérida',
+    'Estudiantes Tecos': 'Tecos',
+    'Estudiantes UAG': 'Estudiantes Tecos',
+
+
+
     'CA Rosario Central': 'Rosario Central',
     'Ferro Carril Oeste (BA)': 'Ferro Carril Oeste',
     'Ferro Carril Oeste (BUE)': 'Ferro Carril Oeste',
@@ -145,12 +160,12 @@ world = {
     'Auckland City': 'Auckland City FC',
     'Academica Coimbra': 'Académica de Coimbra',
     'Académica Coimbra': 'Académica de Coimbra',
-    'Estudiantes (C)': 'Estudiantes de Caseros',
-    'Atlético Estudiantes': 'Estudiantes de Caseros',
+
+
     'Lomas Athletic': 'Lomas AC',
     'Lomas': 'Lomas AC',
     'Barracas Athletic': 'Barracas AC',
-    'CA Estudiantes': 'Estudiantes de Caseros',
+
     'Reformer': 'Reformer AC',
     'Gimnasia y Esgrima BA': 'Gimnasia y Esgrima Buenos Aires',
 
@@ -1365,7 +1380,7 @@ world = {
     'Italchacao': 'Deportivo Petare',
     'Deportivo Italchacao': 'Deportivo ItalChacao',
     'Deportivo ItalChacao': 'Deportivo Petare',
-    'Estudiantes (Venezuela)': 'Estudiantes de Mérida',
+
     'Maritimo (Venezuela': 'C.S. Marítimo de Venezuela',
 
 
@@ -1532,9 +1547,7 @@ world = {
     'Boca Juniors - Argentina': 'Boca Juniors',
     'CA Boca Juniors': 'Boca Juniors',
     'Deportivo Moron': 'Deportivo Morón',
-    'Estudiantes': 'Estudiantes de La Plata',
-    'Estudiantes LP': 'Estudiantes de La Plata',
-    'Estudiantes (Argentina)': 'Estudiantes de La Plata',
+
     'Huracan': 'Huracán',
     'Independiente': 'CA Independiente',
     'Independiente': 'CA Independiente',
@@ -1902,7 +1915,7 @@ world = {
 
     'Centro Union': 'Club América', # name map
     #'CF América': 'Club América',
-    #'América': 'Club América',
+
     'Club America': 'Club América',
     'Club America -- Mexico': 'Club America',
 
@@ -2036,8 +2049,6 @@ world = {
     'UAG - Mexico': 'Tecos',
     'Tecos - Mexico': 'Tecos',
     'U.A. de G.': 'Tecos',
-    'Estudiantes Tecos': 'Tecos',
-    'Estudiantes UAG': 'Estudiantes Tecos',
     'UAG': 'Tecos',
     'U.A.G.': 'Tecos',
     'UAG Tecos': 'Tecos',

@@ -1,18 +1,20 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-from django.template.defaultfilters import slugify
+#from django.template.defaultfilters import slugify
 
 
 
 def get_name(name):
-    # Check slug names.
+    # Check slug names. - forget this, it's dumb.
+    """
     try:
         slug = slugify(name)
     except:
         slug = None
     if slug in slugs:
         name = slugs[slug]
+    """
 
     return _get_name(name)
 
@@ -23,7 +25,7 @@ def _get_name(name):
     if name in names:
         nname = _get_name(names[name])
         if nname in names:
-            print nname
+            print(nname)
         return nname
     return name
 
@@ -35,7 +37,7 @@ def check_for_name_loops():
         try:
             get_name(e)
         except:
-            print e
+            print(e)
             errors = True
 
     if errors:

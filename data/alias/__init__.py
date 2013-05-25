@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 
-from teams import get_team
-from people import get_name
-from competitions import get_competition
-from places import get_place
-from stadiums import get_stadium
-from cities import get_city
+from data.alias.teams import get_team
+from data.alias.people import get_name
+from data.alias.competitions import get_competition
+from data.alias.places import get_place
+from data.alias.stadiums import get_stadium
+from data.alias.cities import get_city

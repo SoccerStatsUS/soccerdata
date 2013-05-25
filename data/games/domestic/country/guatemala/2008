@@ -19,156 +19,207 @@ Season: 2007 Apertura
 *  9.Deportivo Heredia          18  5  4  9  22-26  19
 * 10.Petapa                     18  3 10  5  20-29  19
 
-Round: Round 1
-[Jul 28]
-Jalapa         1-1 Zacapa
-[Jul 29]
-Comunicaciones 1-1 Marquense
-Suchitepéquez  1-2 Municipal
-Malacateco     3-0 Xelajú
-Heredia        2-2 Petapa
+Round: 1
 
-Round: Round 2
-[Aug 4]
-Xelajú         0-0 Comunicaciones
-[Aug 5]
-Municipal      2-0 Heredia
-Marquense      1-1 Jalapa
-Zacapa         4-1 Suchitepéquez
-Petapa         2-1 Malacateco
+Date: 6/28/2007
 
-Round: Round 3
-[Aug 11]
-Xelajú         2-1 Petapa
-[Aug 12]
-Comunicaciones 1-0 Jalapa
-Malacateco     1-2 Municipal
-Heredia        2-1 Zacapa
-Suchitepéquez  2-1 Marquense
+; Jalapa        ; 1-1; Zacapa
 
-Round: Round 4
-[Aug 18]
-Jalapa         2-2 Suchitepéquez
-[Aug 19]
-Municipal      5-0 Xelajú
-Marquense      1-1 Heredia
-Zacapa         1-0 Malacateco
-Petapa         1-4 Comunicaciones
+Date: 6/29/2007
 
-Round: Round 5 [Aug 26]
-Petapa         2-2 Municipal
-Comunicaciones 2-0 Suchitepéquez
-Malacateco     1-1 Marquense
-Xelajú         1-0 Zacapa
-Heredia        3-4 Jalapa
+; Comunicaciones; 1-1; Marquense
+; Suchitepéquez ; 1-2; Municipal
+; Malacateco    ; 3-0; Xelajú
+; Heredia       ; 2-2; Petapa
 
-Round: Round 6 [Aug 29]
-Marquense      1-1 Xelajú
-Comunicaciones 1-1 Municipal
-Jalapa         2-0 Malacateco
-Zacapa         2-2 Petapa
-Suchitepéquez  2-1 Heredia
+Round: 2
+Date: 8/4/2007
 
-Round: Round 7
-[Sep 1]
-Xelajú         2-1 Jalapa
-[Sep 2]
-Municipal      3-3 Zacapa
-Heredia        1-0 Comunicaciones
-Malacateco     2-1 Suchitepéquez
-Petapa         2-2 Marquense
+; Xelajú        ; 0-0; Comunicaciones
 
-Round: Round 8
-[Sep 15]
-Jalapa         2-2 Petapa
-[Sep 16]
-Suchitepéquez  2-0 Xelajú
-Heredia        3-0 Malacateco
-Marquense      1-0 Municipal
-Comunicaciones 3-3 Zacapa
+Date: 8/5/2007
 
-Round: Round 9
-[Sep 22]
-Municipal      2-4 Jalapa
-Xelajú         1-0 Heredia
-[Sep 23]
-Malacateco     1-0 Comunicaciones
-Zacapa         3-1 Marquense
-Petapa         1-1 Suchitepéquez
+; Municipal     ; 2-0; Heredia
+; Marquense     ; 1-1; Jalapa
+; Zacapa        ; 4-1; Suchitepéquez
+; Petapa        ; 2-1; Malacateco
 
-Round: Round 10 
-[Sep 30]
-Municipal      3-3 Suchitepéquez
-Marquense      1-0 Comunicaciones
-Zacapa         5-3 Jalapa
-Petapa         1-0 Heredia
-[Oct 14]
-Xelajú         1-0 Malacateco
+Round: 3
+Date: 8/11/2007
 
-Round: Round 11
-[Oct 3]
-Malacateco     0-1 Petapa
-Heredia        0-0 Municipal
-Comunicaciones 1-0 Xelajú
-Jalapa         3-1 Marquense
-[Oct 14]
-Suchitepéquez  7-1 Zacapa
+; Xelajú        ; 2-1; Petapa
 
-Round: Round 12
-[Oct 6]
-Jalapa         2-1 Comunicaciones
-[Oct 7]
-Marquense      2-1 Suchitepéquez
-Municipal      1-0 Malacateco
-Zacapa         3-1 Heredia
-Petapa         1-1 Xelajú
+Date: 8/12/2007
 
-Round: Round 13
-[Oct 20]
-Xelajú         1-0 Municipal
-[Oct 21]
-Comunicaciones 5-0 Petapa
-Suchitepéquez  3-1 Jalapa
-Heredia        2-0 Marquense
-Malacateco     2-1 Zacapa
+; Comunicaciones; 1-0; Jalapa
+; Malacateco    ; 1-2; Municipal
+; Heredia       ; 2-1; Zacapa
+; Suchitepéquez ; 2-1; Marquense
 
-Round: Round 14
-[Oct 26]
-Municipal      0-0 Petapa
-[Oct 27]
-Jalapa         3-0 Heredia
-Marquense      2-0 Malacateco
-[Oct 28]
-Suchitepéquez  2-2 Comunicaciones
-Zacapa         1-0 Xelajú
+Round: 4
+Date: 8/18/2007
 
-Round: Round 15 [Nov 3]
-Heredia        1-1 Suchitepéquez
-Malacateco     1-1 Jalapa
-Petapa         1-1 Zacapa
-Municipal      1-0 Comunicaciones
-Xelajú         2-1 Marquense
+; Jalapa        ; 2-2; Suchitepéquez
 
-Round: Round 16 [Nov 7]
-Comunicaciones 3-2 Heredia
-Jalapa         2-1 Xelajú
-Marquense      2-1 Petapa
-Suchitepéquez  1-2 Malacateco
-Zacapa         0-1 Municipal
+Date: 8/19/2007
 
-Round: Round 17 [Nov 11]
-Zacapa         1-1 Comunicaciones
-Xelajú         0-0 Suchitepéquez
-Malacateco     1-0 Heredia
-Petapa         0-0 Jalapa
-Municipal      6-1 Marquense
+; Municipal     ; 5-0; Xelajú
+; Marquense     ; 1-1; Heredia
+; Zacapa        ; 1-0; Malacateco
+; Petapa        ; 1-4; Comunicaciones
 
-Round: Round 18 [Nov 25]
-Comunicaciones 2-1 Malacateco
-Heredia        3-1 Xelajú
-Suchitepéquez  2-0 Petapa
-Jalapa         0-0 Municipal
-Marquense      1-0 Zacapa
+Round: 5 
+Date: 8/26/2007
+
+; Petapa        ; 2-2; Municipal
+; Comunicaciones; 2-0; Suchitepéquez
+; Malacateco    ; 1-1; Marquense
+; Xelajú        ; 1-0; Zacapa
+; Heredia       ; 3-4; Jalapa
+
+Round: 6 
+Date: 8/29/2007
+
+; Marquense     ; 1-1; Xelajú
+; Comunicaciones; 1-1; Municipal
+; Jalapa        ; 2-0; Malacateco
+; Zacapa        ; 2-2; Petapa
+; Suchitepéquez ; 2-1; Heredia
+
+Round: 7
+Date: 9/1/2007
+
+; Xelajú        ; 2-1; Jalapa
+
+Date: 9/2/2007
+
+; Municipal     ; 3-3; Zacapa
+; Heredia       ; 1-0; Comunicaciones
+; Malacateco    ; 2-1; Suchitepéquez
+; Petapa        ; 2-2; Marquense
+
+Round: 8
+Date: 9/15/2007
+
+; Jalapa        ; 2-2; Petapa
+
+Date: 9/16/2007
+
+; Suchitepéquez ; 2-0; Xelajú
+; Heredia       ; 3-0; Malacateco
+; Marquense     ; 1-0; Municipal
+; Comunicaciones; 3-3; Zacapa
+
+Round: 9
+Date: 9/22/2007
+
+; Municipal     ; 2-4; Jalapa
+; Xelajú        ; 1-0; Heredia
+
+Date: 9/23/2007
+
+; Malacateco    ; 1-0; Comunicaciones
+; Zacapa        ; 3-1; Marquense
+; Petapa        ; 1-1; Suchitepéquez
+
+Round: 10 
+Date: 9/30/2007
+
+; Municipal     ; 3-3; Suchitepéquez
+; Marquense     ; 1-0; Comunicaciones
+; Zacapa        ; 5-3; Jalapa
+; Petapa        ; 1-0; Heredia
+
+Date: 10/14/2007
+
+; Xelajú        ; 1-0; Malacateco
+
+Round: 11
+Date: 10/3/2007
+
+; Malacateco    ; 0-1; Petapa
+; Heredia       ; 0-0; Municipal
+; Comunicaciones; 1-0; Xelajú
+; Jalapa        ; 3-1; Marquense
+
+Date: 10/14/2007
+
+; Suchitepéquez ; 7-1; Zacapa
+
+Round: 12
+Date: 10/6/2007
+
+; Jalapa        ; 2-1; Comunicaciones
+
+Date: 10/7/2007
+
+; Marquense     ; 2-1; Suchitepéquez
+; Municipal     ; 1-0; Malacateco
+; Zacapa        ; 3-1; Heredia
+; Petapa        ; 1-1; Xelajú
+
+Round: 13
+Date: 10/20/2007
+
+; Xelajú        ; 1-0; Municipal
+
+Date: 10/21/2007
+
+; Comunicaciones; 5-0; Petapa
+; Suchitepéquez ; 3-1; Jalapa
+; Heredia       ; 2-0; Marquense
+; Malacateco    ; 2-1; Zacapa
+
+Round: 14
+Date: 10/26/2007
+
+; Municipal     ; 0-0; Petapa
+
+Date: 10/27/2007
+
+; Jalapa        ; 3-0; Heredia
+; Marquense     ; 2-0; Malacateco
+
+Date: 10/28/2007
+
+; Suchitepéquez ; 2-2; Comunicaciones
+; Zacapa        ; 1-0; Xelajú
+
+Round: 15 
+Date: 11/3/2007
+
+; Heredia       ; 1-1; Suchitepéquez
+; Malacateco    ; 1-1; Jalapa
+; Petapa        ; 1-1; Zacapa
+; Municipal     ; 1-0; Comunicaciones
+; Xelajú        ; 2-1; Marquense
+
+Round: 16 
+Date: 11/7/2007
+
+; Comunicaciones; 3-2; Heredia
+; Jalapa        ; 2-1; Xelajú
+; Marquense     ; 2-1; Petapa
+; Suchitepéquez ; 1-2; Malacateco
+; Zacapa        ; 0-1; Municipal
+
+Round: 17 
+Date: 11/11/2007
+
+; Zacapa        ; 1-1; Comunicaciones
+; Xelajú        ; 0-0; Suchitepéquez
+; Malacateco    ; 1-0; Heredia
+; Petapa        ; 0-0; Jalapa
+; Municipal     ; 6-1; Marquense
+
+Round: 18 
+Date: 11/25/2007
+
+; Comunicaciones; 2-1; Malacateco
+; Heredia       ; 3-1; Xelajú
+; Suchitepéquez ; 2-0; Petapa
+; Jalapa        ; 0-0; Municipal
+; Marquense     ; 1-0; Zacapa
 
 * Final Table:
 * 
@@ -185,44 +236,47 @@ Marquense      1-0 Zacapa
 *  9.Deportivo Heredia          18  5  4  9  22-26  19
 * 10.Petapa                     18  3 10  5  20-29  19
 
-Quarterfinals
+Round: Quarterfinals
 
-First Legs [Nov 28]
-Suchitepéquez  3-1 Xelajú
-Zacapa         1-1 Comunicaciones
+*First Legs 
+Date: 11/28/2007
 
-Second Legs 
-[Dec 1]
-Xelajú         1-0 Suchitepéquez
-[Dec 2]
-Comunicaciones 1-1 Zacapa                 [3-0 pen]
+; Suchitepéquez ; 3-1; Xelajú
+; Zacapa        ; 1-1; Comunicaciones
 
+*Second Legs 
 
-Semifinals
+12/1/2007; Xelajú        ; 1-0; Suchitepéquez
 
-First Legs [Dec 6]
-Suchitepéquez  1-0 Municipal
-Comunicaciones 1-0 Jalapa
-
-Second Legs
-[Dec 8]
-Jalapa         2-0 Comunicaciones
-[Dec 9]
-Municipal      1-1 Suchitepéquez
-
-Final
-
-First Leg [Dec 13]
-Suchitepéquez  1-1 Jalapa
-  [Edwin Villatoro 36; Adrián Apellaniz 78]
-
-Second Leg [Dec 15]
-Jalapa         0-0 Suchitepéquez
-
-NB: Jalapa champions on away goal
+12/2/2007; Comunicaciones; 1-1; Zacapa                 
+*[3-0 pen]
 
 
-Season: Clausura 2008
+Round: Semifinals
+
+*First Legs [Dec 6]
+12/6/2007; Suchitepéquez ; 1-0; Municipal
+12/6/2007; Comunicaciones; 1-0; Jalapa
+
+*Second Legs
+
+12/8/2007; Jalapa        ; 2-0; Comunicaciones
+
+12/9/2007; Municipal     ; 1-1; Suchitepéquez
+
+Round: Final
+
+*First Leg [Dec 13]
+12/13/2007; Suchitepéquez ; 1-1; Jalapa
+Edwin Villatoro 36; Adrián Apellaniz 78
+
+*Second Leg [Dec 15]
+12/15/2007; Jalapa        ; 0-0; Suchitepéquez
+
+*NB: Jalapa champions on away goal
+
+
+Season: 2008 Clausura
 
 * Final Table:
 * 
@@ -239,160 +293,230 @@ Season: Clausura 2008
 *  9.Deportivo Heredia          18  2  7  9  18-29  13
 * 10.Malacateco                 18  3  3 12  10-28  12
 
-Round: Round 1
-[1/ 12]
+Round: 1
+Date: 1/12/2008
 ; Comunicaciones; 2-2; Zacapa
 ; Xelajú        ; 1-0; Heredia
 ; Petapa        ; 0-3; Municipal
 ; Suchitepéquez ; 0-0; Jalapa
-[Jan 13]
+
+Date: 1/13/2008
+
 ; Malacateco    ; 2-1; Marquense
 
-Round: Round 2
-[Jan 19]
+Round: 2
+
+Date: 1/19/2008
+
 ; Jalapa        ; 0-0; Xelajú
 ; Marquense     ; 4-2; Comunicaciones
-[Jan 20]
+
+Date: 1/20/2008
+
 ; Heredia       ; 4-0; Malacateco
 ; Zacapa        ; 0-0; Petapa
 ; Municipal     ; 3-1; Suchitepéquez
 
-Round: Round 3
-[Jan 26]
+Round: 3
+
+Date: 1/26/2008
+
 ; Comunicaciones; 6-0; Heredia
 ; Xelajú        ; 0-0; Municipal
 ; Petapa        ; 1-1; Suchitepéquez
-[Jan 27]
+
+Date: 1/27/2008
+
 ; Malacateco    ; 2-1; Jalapa
 ; Zacapa        ; 1-0; Marquense
 
-Round: Round 4
-[Feb 1]
+Round: 4
+
+Date: 2/1/2008
+
 ; Municipal     ; 3-1; Malacateco
-[Feb 2]
+
+Date: 2/2/2008
+
 ; Suchitepéquez ; 1-1; Xelajú
 ; Marquense     ; 0-1; Petapa
 ; Jalapa        ; 0-1; Comunicaciones
-[Feb 3]
+
+Date: 2/3/2008
+
 ; Heredia       ; 1-1; Zacapa
 
-Round: Round 5
-[Feb 9]
+Round: 5
+
+Date: 2/9/2008
+
 ; Marquense     ; 3-2; Heredia
 ; Petapa        ; 4-3; Xelajú
-[Feb 10]
+
+Date: 2/10/2008
+
 ; Comunicaciones; 1-1; Municipal
 ; Malacateco    ; 0-0; Suchitepéquez
 ; Zacapa        ; 2-0; Jalapa
 
-Round: Round 6
-[Feb 15]
+Round: 6
+
+Date: 2/15/2008
+
 ; Municipal     ; 1-0; Zacapa  
-[Feb 16]
+
+Date: 2/16/2008
+
 ; Jalapa        ; 1-1; Marquense     
 ; Suchitepéquez ; 2-1; Comunicaciones
 ; Petapa        ; 1-0; Heredia
 ; Xelajú        ; 2-0; Malacateco     
 
-Round: Round 7 [Feb 20]
+Round: 7 
+Date: 2/20/2008
+
 ; Malacateco    ; 0-2; Petapa      
 ; Zacapa        ; 2-0; Suchitepéquez
 ; Heredia       ; 1-1; Jalapa
 ; Comunicaciones; 1-1; Xelajú
 ; Marquense     ; 1-1; Municipal
 
-Round: Round 8
-[Feb 23]
+Round: 8
+
+Date: 2/23/2008
+
 ; Petapa        ; 1-0; Jalapa
 ; Xelajú        ; 0-0; Zacapa  
 ; Suchitepéquez ; 1-0; Marquense     
-[Feb 24]
+
+Date: 2/24/2008
+
 ; Malacateco    ; 0-1; Comunicaciones
 ; Municipal     ; 1-0; Heredia
 
-Round: Round 9
-[Mar 1]
+Round: 9
+
+Date: 3/1/2008
+
 ; Marquense     ; 1-1; Xelajú   
 ; Comunicaciones; 3-0; Petapa    
 ; Jalapa        ; 1-0; Municipal
-[Mar 2]
+
+Date: 3/2/2008
+
 ; Heredia       ; 1-1; Suchitepéquez
 ; Zacapa        ; 3-2; Malacateco   
 
-Round: Round 10
-[Mar 7]
+Round: 10
+
+Date: 3/7/2008
+
 ; Municipal     ; 0-1; Petapa    
-[Mar 8]
+
+Date: 3/8/2008
+
 ; Marquense     ; 0-0; Malacateco   
 ; Jalapa        ; 2-0; Suchitepéquez
-[Mar 9]
+
+Date: 3/9/2008
+
 ; Heredia       ; 0-0; Xelajú   
 ; Zacapa        ; 1-2; Comunicaciones
 
-Round: Round 11
-[Mar 15]
+Round: 11
+
+Date: 3/15/2008
+
 ; Comunicaciones; 1-2; Marquense    
 ; Petapa        ; 3-2; Zacapa         
 ; Suchitepéquez ; 5-4; Municipal      
 ; Xelajú        ; 2-1; Jalapa        
-[Mar 16]
+
+Date: 3/16/2008
+
 ; Malacateco    ; 1-0; Heredia    
 
-Round: Round 12
-[Mar 19]
+Round: 12
+
+Date: 3/19/2008
+
 ; Heredia       ; 2-4; Comunicaciones
 ; Marquense     ; 5-1; Zacapa         
 ; Jalapa        ; 2-0; Malacateco   
 ; Suchitepéquez ; 2-1; Petapa    
-[Apr 16]
+
+Date: 4/16/2008
+
 ; Municipal     ; 2-0; Xelajú   
 
-Round: Round 13
-[Mar 29]
+Round: 13
+
+Date: 3/29/2008
+
 ; Comunicaciones; 1-1; Jalapa 
 ; Petapa        ; 1-2; Marquense
 ; Xelajú        ; 1-1; Suchitepéquez
-[Mar 30]
+
+Date: 3/30/2008
+
 ; Malacateco    ; 1-2; Municipal
 ; Zacapa        ; 2-1; Heredia
 
-Round: Round 14
-[Apr 5]
+Round: 14
+
+Date: 4/5/2008
+
 ; Jalapa        ; 2-0; Zacapa        
 ; Xelajú        ; 1-0; Petapa         
-[Apr 6]
+
+Date: 4/6/2008
+
 ; Suchitepéquez ; 1-0; Malacateco     
 ; Heredia       ; 1-0; Marquense
 ; Municipal     ; 1-1; Comunicaciones 
 
-Round: Round 15
-[Apr 12]
+Round: 15
+
+Date: 4/12/2008
+
 ; Marquense     ; 1-2; Jalapa 
-[Apr 13]
+
+Date: 4/13/2008
+
 ; Heredia       ; 1-1; Petapa         
 ; Zacapa        ; 2-3; Municipal
 ; Malacateco    ; 0-1; Xelajú         
 ; Comunicaciones; 3-1; Suchitepéquez
 
-Round: Round 16
-[Apr 19]
+Round: 16
+
+Date: 4/19/2008
+
 ; Xelajú        ; 0-3; Comunicaciones
 ; Jalapa        ; 2-2; Heredia
 ; Petapa        ; 3-0; Malacateco
-[Apr 20]
+
+Date: 4/20/2008
+
 ; Suchitepéquez ; 2-1; Zacapa
 ; Municipal     ; 1-1; Marquense
 
-Round: Round 17
-[Apr 26]
+Round: 17
+
+Date: 4/26/2008
+
 ; Marquense     ; 2-0; Suchitepéquez  
 ; Jalapa        ; 1-2; Petapa         
-[Apr 27]
+
+Date: 4/27/2008
+
 ; Heredia       ; 0-2; Municipal      
 ; Zacapa        ; 2-2; Xelajú         
 ; Comunicaciones; 1-0; Malacateco
 
-Round: Round 18 [May 4]
+Round: 18 
+Date: 5/4/2008
+
 ; Petapa        ; 0-2; Comunicaciones
 ; Municipal     ; 6-0; Jalapa         
 ; Xelajú        ; 0-0; Marquense
@@ -417,40 +541,60 @@ Round: Round 18 [May 4]
 Round: Quarterfinals
 
 * First Legs 
-[May 7]
+
+Date: 5/7/2008
+
 ; Marquense     ; 1-0; Petapa
-[May 8]
+
+Date: 5/8/2008
+
 ; Suchitepéquez ; 2-0; Xelajú
 
 * Second Legs 
-[May 10]
+
+Date: 5/10/2008
+
 ; Petapa        ; 2-0; Marquense
-[May 11]
+
+Date: 5/11/2008
+
 ; Xelajú        ; 1-0; Suchitepéquez
 
 Round: Semifinals
 
 * First Legs
-[May 14]
+
+Date: 5/14/2008
+
 ; Petapa        ; 1-0; Municipal
-[May 15]
+
+Date: 5/15/2008
+
 ; Suchitepéquez ; 0-2; Comunicaciones
 
 Second Legs
-[May 17]
+
+Date: 5/17/2008
+
 ; Comunicaciones; 1-2; Suchitepéquez 
-[May 18]
+
+Date: 5/18/2008
+
 ; Municipal     ; 3-0; Petapa
 
 Round: Final
 
-First Leg [May 22]
-* Municipal      3-1 Comunicaciones
+First Leg 
+Date: 5/22/2008
 
-Second Leg [May 25]
-* Comunicaciones 2-1 Municipal
+;  Municipal     ; 3-1; Comunicaciones
 
-NB: Municipal Clausura champions
+Second Leg 
+Date: 5/25/2008
+
+; Comunicaciones; 2-1; Municipal
+
+*NB: Municipal Clausura champions
 
 
 * Aggregate Table:
@@ -469,16 +613,22 @@ NB: Municipal Clausura champions
 * 10.Malacateco                 36  9  5 22  26-50  32  Relegated
 
 
-Promotion/Relegation Playoff
+Round: Promotion/Relegation Playoff
 
-First Legs 
-[May 28]
-Universidad    awd Heredia                [awarded 0-3, originally 3-2]
-[May 29]
+*First Legs 
+Date: 5/28/2008
+
+*Universidad    awd Heredia                [awarded 0-3, originally 3-2]
+
+Date: 5/29/2008
+
 ; Coatepeque    ; 1-0; Zacapa
 
-Second Legs [Jun 1]
-; Heredia       ; 3-2; Universidad            [3-4 pen]
+*Second Legs 
+Date: 6/1/2008
+; Heredia       ; 3-2; Universidad            
+*[3-4 pen]
+
 ; Zacapa        ; 3-1; Coatepeque
 
 * NB: Universidad promoted, Heredia relegated; however, Heredia had protested against Universidad's use ot two suspended players in the first leg and had it awarded 3-0 to them, thereby escaping relegation; they were renamed Heredia-Jaguares for 2008/09
