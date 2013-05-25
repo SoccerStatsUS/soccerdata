@@ -1175,12 +1175,6 @@ l = [
         'city': 'Montevideo, Uruguay',
         },
 
-    {
-        'name': 'Peñarol',
-        'founded': datetime.datetime(1891, 9, 28),
-        'city': 'Montevideo, Uruguay',
-        },
-
 
     {
         'name': 'CA Progreso',

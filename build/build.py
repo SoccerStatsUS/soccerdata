@@ -38,9 +38,18 @@ def reset_database():
 
 def build():
     """
+
     Convert unstructured data (text and web) into structure data in a mongo database.
     Load data, normalize it, 
     """
+
+    try:
+        unicode
+        print("Please use Python3")
+        return
+    except:
+        pass
+
 
     for func in load, normalize, transform, generate, merge, generate2, denormalize, check:
         print(func.__name__)

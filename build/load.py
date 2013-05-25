@@ -107,6 +107,7 @@ def load_drafts():
 
 def load_games():
     load_mls() 
+    return
 
 
     load_uruguay()
@@ -237,7 +238,7 @@ def load_bios():
     print(soccer_db.bios.count())
     generic_load(soccer_db.asl_bios, bios.process_asl_bios)
 
-    #print("Loading MLSsoccer.com player bios.\n")
+    #print("Loading MLSsoccer.com player bios.")
     #generic_load(soccer_db.mls_bios, mls.scrape_all_bios_mlssoccer)
     #print(soccer_db.bios.count())
 
@@ -434,14 +435,14 @@ def load_mls():
     load_excel_standings('mls', 'domestic/country/usa/mls')
     load_games_standard('mls', 'domestic/country/usa/playoffs/mls')
 
-    print("Loading mls bio stats.\n")
+    print("Loading mls bio stats.")
     # Not loading 1996-2011 stats?
     generic_load(soccer_db.mls_stats, stats.process_mls_2012_stats)
 
-    print("Loading MLS awards.\n")
+    print("Loading MLS awards.")
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
 
-    print("Loading MLS playoff data.\n")
+    print("Loading MLS playoff data.")
     for e in [2005, 2006, 2007, 2008, 2011, 2012, 2013]:
         load_games_standard('mls', 'domestic/country/usa/leagues/reserve/mls/%s' % e)
 
@@ -542,13 +543,13 @@ def load_modern_friendlies():
 
 def load_competitions():
     from soccerdata.text import competitions
-    print("Loading competitions.\n")
+    print("Loading competitions.")
     generic_load(soccer_db.competitions, competitions.load_competitions)
 
 
 def load_teams():
     from soccerdata.text import teams
-    print("Loading teams.\n")
+    print("Loading teams.")
     generic_load(soccer_db.teams, teams.load)
 
 
@@ -559,13 +560,13 @@ def load_salaries():
 
 def load_positions():
     from soccerdata.text.positions import process_positions
-    print("Loading positions.\n\n")
+    print("Loading positions.")
     generic_load(soccer_db.positions, process_positions)
 
 
 def load_analysis():
     from soccerdata.text import ratings
-    print("Loading ratings.\n")
+    print("Loading ratings.")
     generic_load(soccer_db.analysis_ratings, ratings.get_ratings)
     
 
@@ -611,7 +612,7 @@ def load_nasl():
     Load stats from the old nasl and misl.x
     """
 
-    print("Loading NASL data.\n")
+    print("Loading NASL data.")
     load_excel_standings('nasl', 'domestic/country/usa/nasl')
     load_excel_standings('nasl', 'domestic/country/usa/nasl0')
     generic_load(soccer_db.nasl_awards, awards.process_nasl_awards)
@@ -668,7 +669,7 @@ def load_indoor():
     """
     load_excel_standings('misl', 'indoor/all')
     load_excel_standings('misl', 'indoor/misl')
-    print("Loading MISL stats.\n")
+    print("Loading MISL stats.")
     generic_load(soccer_db.misl_stats, stats.process_misl_stats)
 
 
@@ -682,13 +683,13 @@ def load_mls_lineup_db():
     # Load scaryice lineup data.
 
     # MLS lineup data 1996-2010
-    print("Loading scaryice score data.\n")
+    print("Loading scaryice score data.")
     generic_load(soccer_db.mls_games, lineups.load_all_games_scaryice)
 
-    print("Loading scaryice goal data.\n")
+    print("Loading scaryice goal data.")
     generic_load(soccer_db.mls_goals, lineups.load_all_goals_scaryice)
     
-    print( "Loading scaryice lineup data.\n")
+    print( "Loading scaryice lineup data.")
     generic_load(soccer_db.mls_lineups, lineups.load_all_lineups_scaryice)
 
 
@@ -1082,7 +1083,7 @@ def load_concacaf():
 
 
 def load_ncaa():
-    print("Loading NCAA awards.\n")
+    print("Loading NCAA awards.")
     load_games_standard('ncaa', 'domestic/country/usa/college')
     generic_load(soccer_db.ncaa_awards, awards.process_ncaa_awards)
 

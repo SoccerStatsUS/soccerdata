@@ -3741,8 +3741,9 @@ basic = {
     'Joe Ngwenya': 'Joseph Ngwenya',
     'John Hayden': 'John Michael Hayden',
     'Jon Borrajo': 'Jonatahan Borrajo',
+
     'Jorge Villafana': 'Jorge Villafaña',
-    'Jorge Flores': 'Jorge Villafaña',
+    #'Jorge Flores': 'Jorge Villafaña',
     
     'Josué Martinez': 'Josué Martínez',
     'Juan Diego González Alzate': 'Juan Diego Gonzalez',

@@ -182,13 +182,6 @@ l = [
         },
 
     {
-        'name': 'Miami Toros',
-        'city': 'Miami, FL',
-        'founded': 1972,
-        'dissolved': 1976,
-        },
-
-    {
         'name': 'West Florida Fury',
         'city': 'Pensacola, FL',
         },

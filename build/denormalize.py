@@ -1,9 +1,145 @@
 from collections import defaultdict
+import datetime
+import os
+
 from soccerdata.mongo import soccer_db, insert_rows, generic_load
 
-import os
-#import cPickle
+magic_names = {
 
+    'Jorge Flores': [
+        ('Jorge Villafaña', {'team': 'Chivas USA' }),
+        ('Jorge Villafaña', {'team': 'Chivas USA Reserves' }),
+        ],
+
+    #'Chris Brown': [
+    #    'Chris Brown 1971': {'team': 'FC Dallas' }
+    }
+
+def get_magic_name(name, magic_d):
+    # Confusing.
+
+    if name not in magic_names:
+        return name
+    else:
+        names = magic_names[name]
+        for n, nd in names:
+            for k, v in nd.items():
+                if magic_d.get(k) != v:
+                    return name
+            #import pdb; pdb.set_trace()
+            #x = 5
+            return n
+    return name
+
+
+def denormalize():
+    """
+    Reverse the normalization process.
+    This consists of a couple of different processes.
+    First, we want to have correct, time-sensitive names for teams, competitions, and stadiums.
+    So Sporting Kansas City should be Kansas City Wiz for 1996, Kansas City Wizards for 1997-2009, and 
+    Sporting Kansas City for 2010-
+    Furthermore, we will need to split some players and teams who share the same name.
+    e.g. Eddie Johnson should be split into Eddie Johnson (1984) and Eddie Johnson (1988) (correct birthdates?)
+    This is done by explicitly coding enough identity information to distinguish players.
+    (Eddie Johnson (1984) played for FC Dallas, Sporting Kansas City, and Seattle Sounders)
+
+    Additionally, this is where we apply stadium information to games. If we know the home team but not the location,
+    we set the location to the team's stadium for that date if possible.
+    """
+
+    # To denormalize players, need to sort:
+    # goals/assists, lineups, stats, ...
+    denormalize_dream()
+
+    
+    team_name_ungetter = make_team_name_ungetter()
+    stadium_getter = make_stadium_getter()
+
+    print("Generating cities.")
+    generate_cities()
+
+
+    print("Denormalizing standings")
+    # Need to change standing team names.
+
+    print("Denormalizing games"    )
+    l = []
+    for e in soccer_db.games.find():
+        e['team1_original_name'] = team_name_ungetter(e['team1'], e['date'])
+        e['team2_original_name'] = team_name_ungetter(e['team2'], e['date'])
+
+        # I suspect that this is happening far too late in the process.
+        # When do stadium / city pairs get generated?
+        home_team = e.get('home_team')
+        if home_team and not e.get('stadium'):
+            stadium = stadium_getter(home_team, e['date'])
+
+            # stadium_getter returns home_team as a fallback; don't set that.
+            if stadium and stadium != home_team:
+                e['stadium'] = stadium
+
+        l.append(e)
+
+    soccer_db.games.drop()
+    insert_rows(soccer_db.games, l)
+
+    print("Denormalizing competitions")
+    l = []
+
+    print("Denormalizing goals")
+    l = []
+    for goal in soccer_db.goals.find():
+        goal['goal'] = get_magic_name(goal['goal'], goal)
+        if goal['date']:
+            goal['team_original_name'] = team_name_ungetter(goal['team'], goal['date'])
+
+        l.append(goal)
+
+    soccer_db.goals.drop()
+    insert_rows(soccer_db.goals, l)
+
+
+    print("Denormalizing stats")
+    l = []
+    for stat in soccer_db.stats.find():
+        stat['name'] = get_magic_name(stat['name'], stat)
+        l.append(stat)
+
+    soccer_db.stats.drop()
+    insert_rows(soccer_db.stats, l)
+            
+
+    print("Denormalizing lineups\n\n")
+    lineups = []
+    for lineup in soccer_db.lineups.find():
+
+        if lineup['date'] == datetime.datetime(2012, 8, 7) and lineup['team'] == 'Chivas USA Reserves' and 'Jorge' in lineup['name']:
+            import pdb; pdb.set_trace()
+
+        lineup['name'] = get_magic_name(lineup['name'], lineup)
+        lineup['team_original_name'] = team_name_ungetter(lineup['team'], lineup['date'])
+        lineups.append(lineup)
+
+    soccer_db.lineups.drop()
+    insert_rows(soccer_db.lineups, lineups)
+
+    hall_of_famers = set([e['recipient'] for e in soccer_db.awards.find({'award': 'US Soccer Hall of Fame'})])
+
+    l = []
+    for e in soccer_db.bios.find():
+        e['hall_of_fame'] = e['name'] in hall_of_famers
+        l.append(e)
+    
+    soccer_db.bios.drop()
+    insert_rows(soccer_db.bios, l)
+
+            
+
+
+
+def denormalize_dream():
+    return
 
 
 
@@ -123,99 +259,6 @@ def make_competition_name_ungetter():
     return getter
         
         
-
-
-def denormalize():
-    """
-    Reverse the normalization process.
-    This consists of a couple of different processes.
-    First, we want to have correct, time-sensitive names for teams, competitions, and stadiums.
-    So Sporting Kansas City should be Kansas City Wiz for 1996, Kansas City Wizards for 1997-2009, and 
-    Sporting Kansas City for 2010-
-    Furthermore, we will need to split some players and teams who share the same name.
-    e.g. Eddie Johnson should be split into Eddie Johnson (1984) and Eddie Johnson (1988) (correct birthdates?)
-    This is done by explicitly coding enough identity information to distinguish players.
-    (Eddie Johnson (1984) played for FC Dallas, Sporting Kansas City, and Seattle Sounders)
-
-    Additionally, this is where we apply stadium information to games. If we know the home team but not the location,
-    we set the location to the team's stadium for that date if possible.
-    """
-
-
-    
-    team_name_ungetter = make_team_name_ungetter()
-    stadium_getter = make_stadium_getter()
-
-    print("Generating cities.")
-    generate_cities()
-
-
-    print("Denormalizing standings")
-    # Need to change standing team names.
-
-    print("Denormalizing games"    )
-    l = []
-    for e in soccer_db.games.find():
-        e['team1_original_name'] = team_name_ungetter(e['team1'], e['date'])
-        e['team2_original_name'] = team_name_ungetter(e['team2'], e['date'])
-
-        # I suspect that this is happening far too late in the process.
-        # When do stadium / city pairs get generated?
-        home_team = e.get('home_team')
-        if home_team and not e.get('stadium'):
-            stadium = stadium_getter(home_team, e['date'])
-
-            # stadium_getter returns home_team as a fallback; don't set that.
-            if stadium and stadium != home_team:
-                e['stadium'] = stadium
-
-        l.append(e)
-
-    soccer_db.games.drop()
-    insert_rows(soccer_db.games, l)
-
-    print("Denormalizing competitions")
-    l = []
-
-    print("Denormalizing goals")
-    l = []
-    for e in soccer_db.goals.find():
-        if e['date']:
-            e['team_original_name'] = team_name_ungetter(e['team'], e['date'])
-
-        l.append(e)
-
-    soccer_db.goals.drop()
-    insert_rows(soccer_db.goals, l)
-            
-
-    print("Denormalizing lineups\n\n")
-    l = []
-    for e in soccer_db.lineups.find():
-
-        e['team_original_name'] = team_name_ungetter(e['team'], e['date'])
-
-
-        l.append(e)
-
-    soccer_db.lineups.drop()
-    insert_rows(soccer_db.lineups, l)
-
-    hall_of_famers = set([e['recipient'] for e in soccer_db.awards.find({'award': 'US Soccer Hall of Fame'})])
-
-    l = []
-    for e in soccer_db.bios.find():
-        e['hall_of_fame'] = e['name'] in hall_of_famers
-        l.append(e)
-    
-    soccer_db.bios.drop()
-    insert_rows(soccer_db.bios, l)
-
-            
-
-
-            
-
 def generate_cities():
 
     cities = set()
@@ -247,35 +290,4 @@ def generate_cities():
     city_dicts = [{'name': city} for city in sorted(cities)]
     
     generic_load(soccer_db.cities, lambda: city_dicts)
-    return
 
-"""
-    return city_dicts
-
-    from googlegeocoder import GoogleGeocoder
-    geocoder = GoogleGeocoder()
-
-    city_dicts = {}
-
-    CITIES_FILE_PATH = "/home/chris/www/soccerdata/data/cities_data"
-
-    if os.path.exists(CITIES_FILE_PATH):
-        city_dicts = cPickle.load(open(CITIES_FILE_PATH))
-    else:
-        city_dicts = {}
-
-    for city in sorted(cities)[:100]:
-        if city not in city_dicts:
-            try:
-                locations = geocoder.get(city)
-                location = locations[0]
-            except ValueError:
-                location = None
-
-        city_dicts[city] = location
-    
-    cPickle.dump(city_dicts, open(CITIES_FILE_PATH, 'w'))
-
-    #generic_load(soccer_db.cities, lambda: city_dicts)
-
-"""
