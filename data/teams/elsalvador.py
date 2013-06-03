@@ -62,7 +62,7 @@ l = [
         },
 
     {
-        'name': 'Alianza',
+        'name': 'Alianza F.C.',
         'founded':  1958,
         'city': 'San Salvador, El Salvador',
         },

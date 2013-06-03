@@ -18,95 +18,97 @@ BlockSource: http://www.rsssf.com/tablese/elsal2010.html
 
 Season: 2009 Apertura
 
-*Round 1
-*[Aug 15]
+Round: 1
 Date: 8/15/2009
+
 ; Vista Hermosa   ; 4-0; Nejapa
 ; Isidro Metapan  ; 0-3; FAS
 ; Luis Ángel Firpo; 3-0; Balboa
 ; Alianza         ; 2-2; Águila
-*[Aug 16]
+
 8/16/2009; Limeño          ; 2-2; Marte
 
-*Round 2
-*[Aug 22]
+Round: 2
+
 8/22/2009; FAS             ; 3-0; Limeño
 8/22/2009; Águila          ; 1-0; Luis Ángel Firpo 
-*[Aug 23]
+
 Date: 8/23/2009
+
 ; Marte           ; 1-1; Alianza
 ; Nejapa          ; 0-0; Isidro Metapan
 ; Balboa          ; 1-1; Vista Hermosa
 
-*Round 3 
-*[Aug 26]
+Round: 3 
 Date: 8/26/2009
+
 ; Limeño          ; 0-2; Nejapa
 ; Vista Hermosa   ; 1-1; Águila
 ; Alianza         ; 2-2; Luis Ángel Firpo 
-*[Aug 27]
+
 8/27/2009; Marte           ; 0-0; FAS
-*[Sep 2]
+
 9/2/2009; Isidro Metapan  ; 3-1; Balboa
 
-*Round 4
-[Aug 29]
+Round: 4
 Date: 8/29/2009
+
 ; FAS             ; 2-0; Alianza
 ; Luis Ángel Firpo; 1-1; Vista Hermosa
 ; Àguila          ; 3-1; Isidro Metapan
-*[Aug 30]
+
 8/30/2009; Nejapa          ; 1-2; Marte
 8/30/2009; Balboa          ; 3-3; Limeño  
 
-*Round 5
-*[Sep 12]
+Round: 5
 Date: 9/12/2009
+
 ; FAS             ; 4-0; Nejapa           
 ; Isidro Metapan  ; 3-1; Luis Ángel Firpo 
 ; Balboa          ; 0-3; Marte
-*[Sep 13]
+
 9/13/2009; Alianza         ; 2-1; Vista Hermosa
 9/13/2009; Limeño          ; 0-0; Àguila           
 
-*Round 6
-*[Sep 15]
+Round: 6
 Date: 9/15/2009
+
 ; Balboa          ; 1-3; FAS
 ; Nejapa          ; 0-4; Alianza
 ; Àguila          ; 0-0; Marte
-*[Sep 16]
+
 9/16/2009; Luis Ángel Firpo; 0-0; Limeño
 Minutes: 60
-* [abandoned at; 0-0; in 60' due to rain]
-*[Sep 17]
+Notes: abandoned at 0-0 after 60' due to rain
+
 9/17/2009; Luis Ángel Firpo; 1-0; Limeño           
-* [remaining 30']
-*[Oct 11]
+Notes: remaining 30' of 9/16 game.
+
 10/11/2009; Vista Hermosa   ; 3-3; Isidro Metapan
 
-*Round 7
-[Sep 19]
+Round: 7
 Date: 9/19/2009
+
 ; Alianza         ; 0-0; Isidro Metapan
 ; FAS             ; 0-1; Àguila           
-*[Sep 20]
+
 Date: 9/20/2009
+
 ; Nejapa          ; 2-2; Balboa           
 ; Limeño          ; 0-0; Vista Hermosa
 ; Marte           ; 1-2; Luis Ángel Firpo 
 
-*Round 8
-*[Sep 26]
+Round: 8
+
 9/26/2009; Luis Ángel Firpo; 1-0; FAS            
 9/26/2009; Vista Hermosa   ; 1-0; Marte
-*[Sep 27]
+
 9/27/2009; Isidro Metapan  ; 1-2; Limeño     
 9/27/2009; Alianza         ; 2-1; Balbao
-*[Sep 30]
+
 9/30/2009; Àguila          ; 1-1; Nejapa
 
-*Round 9 [Oct 3]
+Round: 9
 Date: 10/3/2009
 ; Limeño          ; 0-0; Alianza
 ; Marte           ; 1-1; Isidro Metapan
@@ -114,29 +116,30 @@ Date: 10/3/2009
 ; Balboa          ; 1-2; Águila
 ; FAS             ; 2-0; Vista Hermosa
 
-*Round 10
-*[Oct 17]
+Round: 10
+
 Date: 10/17/2009
 ; Marte           ; 2-2; Limeño   
 ; Balboa          ; 2-1; Luis Ángel Firpo
 ; FAS             ; 3-0; Isidro Metapan
 ; Águila         ; 1-0; Alianza          
-* [abandoned at 1-0 at half-time due to rain]
-*[Oct 18]                               
-10/18/2009; Nejapa          ; 1-3; Vista Hermosa
-10/18/2009; Águila          ; 1-0; Alianza          [second half]
+Notes: abandoned at 1-0 at half-time due to rain
 
-*Round 11
-*[Oct 24]
+10/18/2009; Nejapa          ; 1-3; Vista Hermosa
+10/18/2009; Águila          ; 1-0; Alianza          
+Notes: second half of 10/17 game.
+
+Round: 11
+
 Date: 10/24/2009
 ; Isidro Metapan  ; 2-1; Nejapa           
 ; Luis Ángel Firpo; 1-0; Águila           
 ; Vista Hermosa   ; 4-0; Balboa           
-*[Oct 25]
+
 10/25/2009; Alianza         ; 1-1; Marte            
 10/25/2009; Limeño          ; 0-1; FAS              
 
-*Round 12 [Oct 28]
+Round: 12
 Date: 10/28/2009
 ; Nejapa          ; 2-4; Limeño           
 ; Balboa          ; 0-2; Isidro Metapan   
@@ -144,61 +147,64 @@ Date: 10/28/2009
 ; Águila          ; 1-1; Vista Hermosa    
 ; Luis Ángel Firpo; 2-0; Alianza          
 
-*Round 13
-*[Oct 31]
+Round: 13
+
 Date: 10/31/2009
 ; Isidro Metapan  ; 0-0; Águila           
 ; Vista Hermosa   ; 1-2; Luis Ángel Firpo
 ; Marte           ; 1-0; Nejapa           
-*[Nov 1]
-11/1/2009; Limeño; 0-0; Balboa          
-* [abandoned at; 0-0; in 30' due to rain]
-11/1/2009; Alianza         ; 1-2; FAS              
-*[Nov 2]
-11/2/2009; Limeño          ; 0-0; Balboa           
-*[remaining 60']
 
-*Round 14
-*[Nov 7]
+11/1/2009; Limeño; 0-0; Balboa          
+Notes: abandoned at 0-0 after 30' due to rain
+
+11/1/2009; Alianza         ; 1-2; FAS              
+
+11/2/2009; Limeño          ; 0-0; Balboa           
+Notes: remaining 60' of 11/1 game.
+
+Round: 14
 Date: 11/7/2009
+
 ; Luis Ángel Firpo; 1-0; Isidro Metapan   
 ; Vista Hermosa   ; 2-1; Alianza          
-*[Nov 8]
+
 11/8/2009; Marte           ; 3-0; Balboa           
-[Nov 18]
+
 11/18/2009; Águila          ; 1-0; Limeño           
 11/18/2009; Nejapa          ; 1-0; FAS              
 
-*Round 15
-*[Nov 11]
+Round: 15
 Date: 11/11/2009
+
 ; Limeño          ; 1-1; Luis Ángel Firpo 
 ; Alianza         ; 0-0; Nejapa           
 ; FAS             ; 4-1; Balboa           
 ; Isidro Metapan  ; 3-1; Vista Hermosa    
-*[Nov 12]
+
 11/12/2009; Marte           ; 0-2; Águila           
 
-*Round 16
-*[Nov 14]
+Round: 16
 Date: 11/14/2009
+
 ; Águila          ; 0-1; FAS              
 ; Luis Ángel Firpo; 1-1; Marte            
 ; Isidro Metapan  ; 1-0; Alianza          
 ; Vista Hermosa   ; 4-1; Limeño           
-*[Nov 15]
+
 11/15/2009; Balboa          ; 5-0; Nejapa           
 
-*Round 17 [Nov 22]
+Round: 17
 Date: 11/22/2009
+
 ; FAS             ; 1-0; Luis Ángel Firpo 
 ; Limeño          ; 1-0; Isidro Metapan   
 ; Balboa          ; 1-1; Alianza          
 ; Nejapa          ; 0-3; Águila           
 ; Marte           ; 1-1; Vista Hermosa    
 
-*Round 18 [Nov 28]
+Round: 18
 Date: 11/28/2009
+
 ; Águila          ; 3-0; Balboa           
 ; Luis Ángel Firpo; 2-3; Nejapa           
 ; Vista Hermosa   ; 1-1; FAS              
@@ -227,12 +233,11 @@ Round: Fourth Place
 Round: Semifinals
 
 *First Legs
-*[Dec 5]
 12/5/2009; Vista Hermosa   ; 1-2; FAS
-*[Dec 6]
+
 12/6/2009; Luis Ángel Firpo; 0-2; Águila
 
-*Second Legs [Dec 12]
+*Second Legs
 12/12/2009; FAS             ; 0-0; Vista Hermosa
 12/12/2009; Águila          ; 1-0; Luis Ángel Firpo
 
@@ -256,174 +261,178 @@ Odir Flores 1, Arturo Albarrán (og) 95, Juan Carlos Moscoso 97; Nicholas Addler
 
 Season: 2010 Clausura
 
-*Round 1
-*[Jan 9]
+Round: 1
 Date: 1/9/2010
+
 ; FAS             ; 3-1; Marte
 ; Luis Ángel Firpo; 0-0; Vista Hermosa
 ; Águila          ; 3-0; Nejapa
 ; Alianza         ; 3-1; Limeño  
-*[Jan 10]
+
 1/10/2010; Balboa          ; 0-0; Isidro Metapan  
 
-*Round 2
-*[Jan 16]
+Round: 2
+
 1/16/2010; Vista Hermosa   ; 3-1; FAS              
 1/16/2010; Isidro Metapan  ; 3-1; Alianza          
-*[Jan 17]
+
 1/17/2010; Marte           ; 6-0; Balboa           
 1/17/2010; Nejapa          ; 2-3; Luis Ángel Firpo 
 1/17/2010; Limeño          ; 1-2; Águila           
 
-*Round 3
-*[Jan 23]
+Round: 3
 Date: 1/23/2010
+
 ; FAS             ; 4-1; Nejapa           
 ; Luis Ángel Firpo; 1-0; Limeño           
 ; Águila          ; 0-0; Isidro Metapan   
-*[Jan 24]
+
 1/24/2010; Marte           ; 2-2; Vista Hermosa    
 1/24/2010; Balboa          ; 3-1; Alianza          
 
-*Round 4
-*[Jan 30]
+Round: 4
 Date: 1/30/2010
+
 ; Vista Hermosa   ; 0-0; Balboa
 ; Nejapa          ; 1-1; Marte
 ; Alianza         ; 0-2; Águila
 ; Isidro Metapan  ; 1-1; Luis Ángel Firpo 
-*[Jan 31]
+
 1/31/2010; Limeño          ; 1-0; FAS
 
-*Round 5
-*[Feb 6]
+Round: 5
 Date: 2/6/2010
+
 ; Vista Hermosa   ; 2-1; Nejapa           
 ; FAS             ; 0-1; Isidro Metapan   
 ; Luis Ángel Firpo; 2-0; Alianza          
 ; Balboa          ; 0-1; Águila           
-*[Feb 7]
+
 2/7/2010; Marte           ; 0-1; Limeño           
 
-*Round 6
-*[Feb 13]
+Round: 6
 Date: 2/13/2010
+
 ; Nejapa          ; 0-0; Balboa           
 ; Isidro Metapan  ; 3-2; Marte            
 ; Alianza         ; 3-0; FAS
 ; Águila          ; 2-2; Luis Ángel Firpo 
-*[Feb 14]
+
 2/14/2010; Limeño          ; 3-3; Vista Hermosa    
 
-*Round 7 [Feb 20]
+Round: 7
 Date: 2/20/2010
+
 ; Nejapa          ; 1-1; Limeño           
 ; Vista Hermosa   ; 1-0; Isidro Metapan   
 ; Marte           ; 1-0; Alianza          
 ; FAS             ; 1-0; Águila           
 ; Balboa          ; 0-1; Luis Ángel Firpo 
 
-*Round 8
-*[Feb 27]
+Round: 8
 Date: 2/27/2010
+
 ; Luis Ángel Firpo; 2-1; FAS              
 ; Isidro Metapan  ; 3-1; Nejapa           
 ; Alianza         ; 1-1; Vista Hermosa    
 ; Águila          ; 1-1; Marte            
-*[Feb 28]
+
 2/28/2010; Balboa          ; 3-3; Limeño           
 
-*Round 9
-[Mar 6]
+Round: 9
 Date: 3/6/2010
+
 ; FAS             ; 0-0; Balboa           
 ; Nejapa          ; 0-0; Alianza          
 ; Vista Hermosa   ; 0-0; Águila           
-*[Mar 7]
+
 3/7/2010; Limeño          ; 1-1; Isidro Metapan   
 3/7/2010; Marte           ; 0-2; Luis Ángel Firpo 
 
-*Round 10
-*[Mar 13]
+Round: 10
+
 3/13/2010; Vista Hermosa   ; 1-0; Luis Ángel Firpo 
 3/13/2010; Isidro Metapan  ; 1-1; Balboa           
-*[Mar 14]
+
 3/14/2010; Limeño          ; 0-0; Alianza          
 3/14/2010; Nejapa          ; 0-4; Águila           
-*[Mar 17]
+
 3/17/2010; Marte           ; 2-2; FAS              
 
-*Round 11
-*[Mar 17]
+Round: 11
+
 3/17/2010; Águila          ; 0-0; Limeño       
-*[Mar 20]
+
 3/20/2010; FAS             ; 2-0; Vista Hermosa   
 3/20/2010; Luis Ángel Firpo; 1-0; Nejapa
-*[Mar 21]
+
 3/21/2010; Balboa          ; 2-1; Marte
 3/21/2010; Alianza         ; 7-1; Isidro Metapan  
 
-*Round 12
-*[Mar 27]
+Round: 12
 Date: 3/27/2010
+
 ; Isidro Metapan  ; 1-1; Águila           
 ; Vista Hermosa   ; 1-0; Marte            
 ; Alianza         ; 0-0; Balboa           
 ; Nejapa          ; 0-0; FAS              
-*[Mar 28]
+
 3/28/2010; Limeño          ; 1-2; Luis Ángel Firpo 
 
-*Round 13 [Mar 31]
+Round: 13
 Date: 3/31/2010
+
 ; Marte           ; 2-1; Nejapa           
 ; FAS             ; 2-0; Limeño           
 ; Luis Ángel Firpo; 2-2; Isidro Metapan   
 ; Balboa          ; 1-0; Vista Hermosa    
 ; Águila          ; 2-0; Alianza          
 
-*Round 14
-*[Apr 7]
+Round: 14
 Date: 4/7/2010
+
 ; Isidro Metapan  ; 4-0; FAS              
 ; Águila          ; 0-0; Balboa           
 ; Limeño          ; 1-1; Marte            
 ; Nejapa          ; 0-5; Vista Hermosa    
-*[Apr 14]
+
 4/14/2010; Alianza         ; 2-1; Luis Ángel Firpo 
 
-*Round 15
-*[Apr 10]
+Round: 15
+
 4/10/2010; Luis Ángel Firpo; 1-1; Águila           
 4/10/2010; FAS             ; 0-0; Alianza          
-*[Apr 11]
+
 Date: 4/11/2010
+
 ; Balboa          ; 2-1; Nejapa           
 ; Vista Hermosa   ; 5-2; Limeño           
 ; Marte           ; 1-1; Isidro Metapan   
 
-*Round 16
-*[Apr 17]
+Round: 16
 Date: 4/17/2010
+
 ; Isidro Metapan  ; 0-0; Vista Hermosa
 ; Águila          ; 2-2; FAS
 ; Luis Ángel Firpo; 1-2; Balboa
-*[Apr 18]
+
 4/18/2010; Alianza         ; 2-0; Marte
 4/18/2010; Limeño          ; 3-2; Nejapa
 
-*Round 17 [Apr 21]
+Round: 17 [Apr 21]
 Date: 4/21/2010
+
 ; FAS             ; 1-2; Luis Ángel Firpo 
 ; Vista Hermosa   ; 1-1; Alianza
 ; Marte           ; 0-0; Águila
 ; Limeño          ; 1-1; Balboa
 ; Nejapa          ; 1-2; Isidro Metapan   
 
-*Round 18
-*[Apr 24]
+Round: 18
+
 4/24/2010; Isidro Metapan  ; 0-0; Limeño           
 4/24/2010; Águila          ; 3-0; Vista Hermosa
-*[Apr 25]
+
 4/25/2010; Balboa          ; 3-0; FAS
 4/25/2010; Luis Ángel Firpo; 4-1; Marte
 4/25/2010; Alianza         ; 1-0; Nejapa
@@ -446,17 +455,14 @@ Date: 4/21/2010
 
 Round: Semifinals
 
-*First Legs [May 1]
+*First Legs
 5/1/2010; Vista Hermosa   ; 0-1; Águila
 5/1/2010; Isidro Metapan  ; 2-2; Luis Ángel Firpo 
 
 *Second Legs 
-*[May 8]
 5/8/2010; Águila          ; 0-0; Vista Hermosa   
-*[May 9]
 5/9/2010; Luis Ángel Firpo; 1-2; Isidro Metapan   
 
-*Final [May 16]
 Round: Final
 
 5/16/2010; Águila          ; 1-3; Isidro Metapan

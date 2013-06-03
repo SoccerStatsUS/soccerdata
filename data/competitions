@@ -58,6 +58,7 @@ Women's United Soccer Association; WUSA; women; domestic; League; 1; Country; Un
 Liga MX; MEX1; soccer; domestic; League; 1; Country; Mexico
 Primera Fuerza; LM; soccer; domestic; League; 1; Country; Mexico
 
+
 Liga Nacional de Guatemala; GUA1; soccer; domestic; League; 1; Country; Guatemala
 Liga Panameña de Fútbol; PAN1; soccer; domestic; League; 1; Country; Panama
 Salvadoran Primera División; SLV1; soccer; domestic; League; 1; Country; El Salvador
@@ -103,13 +104,14 @@ W-League; USLW; women; domestic; League; 2; Country; United States
 
 Canadian Soccer League; CSL; soccer; domestic; League; 2; Country; Canada
 
+
+
 Campeonato Baiano; BRA-BA; soccer; domestic; League; 2; State; Bahia
 Campeonato Carioca; BRA-RJ; soccer; domestic; League; 2; State; Rio de Janeiro
 Campeonato Gaúcho; BRA-RS; soccer; domestic; League; 2; State; Rio Grande do Sul
 Campeonato Mineiro; BRA-MG; soccer; domestic; League; 2; State; Minas Gerais
 Campeonato Paulista; BRA-SP; soccer; domestic; League; 2; State; Sao Paulo
 Campeonato Pernambucano; BRA-PE; soccer; domestic; League; 2; State; Pernambuco
-
 
 Western Soccer League; WSL; soccer; domestic; League; 3; Country; United States
 USISL Select League; USISLs; soccer; domestic; League; 3; Country; United States
@@ -148,6 +150,11 @@ North American Soccer League (2011-) Playoffs; USSFD2p; soccer; domestic; Cup; 2
 
 American Professional Soccer League Playoffs; APSLp; soccer; domestic; Cup; 2; League; American Professional Soccer League
 APSL Professional Cup; APSLPC; soccer; domestic; Cup; 2; League; American Professional Soccer League
+
+
+Liga MX Liguilla; MEX1p; soccer; domestic; Cup; 1; Country; Mexico
+
+InterLiga; IL; soccer; domestic; League; 2; Cup; Mexico
 
 Western Soccer League Playoffs; WSLp; soccer; domestic; Cup; 3; League; American Professional Soccer League
 

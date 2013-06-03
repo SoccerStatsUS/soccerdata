@@ -1,8 +1,7 @@
 BlockSource: http://rsssf.com/tablesg/guat07.html
 Competition: Liga Nacional de Guatemala
-* Season: 2006-2007
 
-Season: Apertura 2006
+Season: 2006 Apertura
 
 * Regular Stage
 * Final Table:
@@ -17,10 +16,9 @@ Season: Apertura 2006
 *  7.Petapa                     18  6  5  7  31-30  23
 *  8.Deportivo Heredia          18  5  4  9  24-36  19
 *  9.Suchitepéquez              18  5  3 10  17-29  18
-10.Mictlán                    18  3  5 10  12-31  14
+*10.Mictlán                    18  3  5 10  12-31  14
 
-Round: Round 1
-
+Round: 1
 Date: 7/29/2006
 
 ; Jalapa        ; 3-1; Marquense
@@ -32,8 +30,7 @@ Date: 7/30/2006
 ; Petapa        ; 4-1; Heredia
 ; Mictlán       ; 1-4; Municipal
 
-Round: Round 2
-
+Round: 2
 Date: 8/5/2006
 
 ; Xelajú        ; 3-0; Jalapa
@@ -45,8 +42,7 @@ Date: 8/6/2006
 ; Heredia       ; 1-0; Zacapa
 ; Suchitepéquez ; 3-2; Mictlán
   
-Round: Round 3
-
+Round: 3
 Date: 8/12/2006
 
 ; Jalapa        ; 4-1; Heredia
@@ -58,7 +54,7 @@ Date: 8/13/2006
 ; Mictlán       ; 2-1; Petapa
 ; Zacapa        ; 1-1; Municipal
 
-Round: Round 4 
+Round: 4 
 Date: 8/20/2006
 
 ; Marquense     ; 4-0; Mictlán
@@ -67,7 +63,7 @@ Date: 8/20/2006
 ; Heredia       ; 1-1; Comunicaciones
 ; Petapa        ; 5-1; Zacapa
 
-Round: Round 5
+Round: 5
 
 Date: 8/26/2006
 
@@ -80,7 +76,7 @@ Date: 8/27/2006
 ; Mictlán       ; 0-0; Zacapa
 ; Comunicaciones; 1-0; Municipal
 
-Round: Round 6 
+Round: 6 
 Date: 9/3/2006
 
 ; Municipal     ; 3-0; Suchitepéquez
@@ -89,8 +85,7 @@ Date: 9/3/2006
 ; Zacapa        ; 1-0; Jalapa
 ; Petapa        ; 2-2; Comunicaciones
 
-Round: Round 7
-
+Round: 7
 Date: 9/9/2006
 
 ; Jalapa        ; 0-0; Mictlán
@@ -102,7 +97,7 @@ Date: 9/10/2006
 ; Xelajú        ; 6-0; Heredia
 ; Suchitepéquez ; 5-2; Petapa
 
-Round: Round 8 
+Round: 8 
 Date: 9/17/2006
 
 ; Jalapa        ; 1-0; Comunicaciones
@@ -111,8 +106,7 @@ Date: 9/17/2006
 ; Mictlán       ; 1-0; Heredia
 ; Petapa        ; 0-1; Marquense
 
-Round: Round 9
-
+Round: 9
 Date: 9/23/2006
 
 ; Comunicaciones; 2-1; Mictlán
@@ -124,8 +118,7 @@ Date: 9/24/2006
 ; Heredia       ; 1-1; Municipal
 ; Suchitepéquez ; 0-2; Jalapa
 
-Round: Round 10
-
+Round: 10
 Date: 9/27/2006
 
 ; Xelajú        ; 4-1; Zacapa
@@ -135,12 +128,10 @@ Date: 10/1/2006
 ; Marquense     ; 3-0; Jalapa
 ; Municipal     ; 2-1; Mictlán
 ; Heredia       ; 3-3; Petapa
-Suchitepéquez  awd Comunicaciones      
+*Suchitepéquez  awd Comunicaciones      
 * [awarded 0-3; abandoned at 1-1 in 87',Suchitepéquez walked off]
 
-
-Round: Round 11
-
+Round: 11
 Date: 10/7/2006
 
 ; Jalapa        ; 2-1; Xelajú
@@ -158,8 +149,7 @@ Date: 11/8/2006
 
 ; Comunicaciones; 0-0; Marquense
 
-
-Round: Round 12 
+Round: 12 
 Date: 10/15/2006
 
 ; Marquense     ; 0-1; Suchitepéquez
@@ -168,8 +158,7 @@ Date: 10/15/2006
 ; Xelajú        ; 1-2; Comunicaciones
 ; Petapa        ; 1-0; Mictlán
 
-
-Round: Round 13 
+Round: 13 
 Date: 10/22/2006
 
 ; Comunicaciones; 4-0; Heredia
@@ -178,9 +167,7 @@ Date: 10/22/2006
 ; Suchitepéquez ; 1-2; Xelajú
 ; Zacapa        ; 0-2; Petapa
 
-
-Round: Round 14
-
+Round: 14
 Date: 10/28/2006
 
 ; Xelajú        ; 0-0; Marquense
@@ -192,9 +179,7 @@ Date: 10/29/2006
 ; Petapa        ; 2-1; Jalapa
 ; Municipal     ; 1-3; Comunicaciones
 
-
-Round: Round 15
-
+Round: 15
 Date: 11/1/2006
 
 ; Jalapa        ; 4-0; Zacapa
@@ -209,9 +194,7 @@ Date: 11/22/2006
 
 ; Comunicaciones; 3-2; Petapa
 
-
-Round: Round 16 
-* 
+Round: 16 
 Date: 11/12/2006
 
 ; Mictlán       ; 2-0; Jalapa 
@@ -220,9 +203,7 @@ Date: 11/12/2006
 ; Zacapa        ; 2-0; Comunicaciones 
 ; Petapa        ; 2-2; Suchitepéquez
 
-
-Round: Round 17
-
+Round: 17
 Date: 11/18/2006
 
 ; Suchitepéquez ; 1-1; Zacapa 
@@ -234,8 +215,7 @@ Date: 11/19/2006
 ; Comunicaciones; 2-0; Jalapa 
 ; Heredia       ; 5-1; Mictlán
 
-
-Round: Round 18 
+Round: 18 
 Date: 11/26/2006
 
 ; Jalapa         ; 1-2; Suchitepéquez       
@@ -312,9 +292,9 @@ Date: 12/17/2006
 * NB: Municipal winners Apertura on away goal
 
 
+
 Season: 2007 Clausura
 
-* Regular Stage
 * Final Table:
 *  1.Municipal                  18  9  5  4  43-21  32  Semifinals
 *  2.Petapa                     18  9  4  5  31-23  31  Semifinals
@@ -329,8 +309,7 @@ Season: 2007 Clausura
 * 10.Mictlán                    18  3  7  8  21-36  16
 
 
-Round: Round 1
-
+Round: 1
 Date: 1/13/2007
 
 ; Marquense     ; 2-1; Petapa 
@@ -342,8 +321,7 @@ Date: 1/14/2007
 ; Mictlán       ; 1-1; Comunicaciones 
 ; Municipal     ; 4-0; Suchitepéquez 
 
-
-Round: Round 2 
+Round: 2 
 Date: 1/17/2007
 
 ; Heredia       ; 3-2; Mictlán
@@ -352,9 +330,7 @@ Date: 1/17/2007
 ; Suchitepéquez ; 1-2; Marquense
 ; Zacapa        ; 1-4; Municipal
 
-
-Round: Round 3
-
+Round: 3
 Date: 1/20/2007
 
 ; Jalapa        ; 2-1; Municipal
@@ -372,9 +348,7 @@ Date: 4/25/2007
 ; Marquense     ; 4-4; Zacapa
 ; Comunicaciones; 0-0; Heredia
 
-
-Round: Round 4
-
+Round: 4
 Date: 1/24/2007
 
 ; Heredia       ; 1-0; Jalapa
@@ -389,9 +363,7 @@ Date: 5/2/2007
 
 ; Municipal     ; 3-1; Marquense
 
-
-Round: Round 5
-
+Round: 5
 Date: 1/27/2007
 
 ; Mictlán       ; 1-1; Zacapa
@@ -406,9 +378,7 @@ Date: 3/7/2007
 ; Xelajú        ; 2-0; Municipal
 ; Comunicaciones; 3-1; Suchitepéquez
 
-
-Round: Round 6
-
+Round: 6
 Date: 2/3/2007
 
 ; Jalapa        ; 1-0; Petapa
@@ -423,9 +393,7 @@ Date: 3/14/2007
 ; Suchitepéquez ; 1-0; Heredia
 ; Zacapa        ; 1-1; Comunicaciones
 
-
-Round: Round 7
-
+Round: 7
 Date: 2/10/2007
 
 ; Xelajú        ; 1-1; Jalapa
@@ -440,9 +408,7 @@ Date: 4/11/2007
 ; Comunicaciones; 0-2; Municipal
 ; Mictlán       ; 1-1; Marquense
 
-
-Round: Round 8
-
+Round: 8
 Date: 2/17/2007
 
 ; Xelajú        ; 2-1; Mictlán
@@ -457,9 +423,7 @@ Date: 4/18/2007
 
 ; Marquense     ; 4-0; Comunicaciones
 
-
-Round: Round 9
-
+Round: 9
 Date: 2/24/2007
 
 ; Marquense     ; 1-0; Heredia
@@ -471,9 +435,7 @@ Date: 2/25/2007
 ; Mictlán       ; 2-1; Jalapa
 ; Petapa        ; 1-1; Municipal
 
-
-Round: Round 10
-
+Round: 10
 Date: 3/3/2007
 
 ; Suchitepéquez ; 1-1; Municipal
@@ -485,9 +447,7 @@ Date: 3/4/2007
 ; Zacapa        ; 0-0; Jalapa
 ; Petapa        ; 1-0; Marquense
 
-
-Round: Round 11
-
+Round: 11
 Date: 3/10/2007
 
 ; Marquense     ; 5-2; Suchitepéquez
@@ -499,9 +459,7 @@ Date: 3/11/2007
 
 ; Municipal     ; 4-0; Zacapa
 
-
-Round: Round 12
-
+Round: 12
 Date: 3/17/2007
 
 ; Suchitepéquez ; 1-1; Xelajú
@@ -513,9 +471,7 @@ Date: 3/18/2007
 ; Petapa        ; 5-2; Mictlán
 ; Municipal     ; 7-0; Jalapa
 
-
-Round: Round 13
-
+Round: 13
 Date: 3/31/2007
 
 ; Marquense     ; 2-0; Municipal
@@ -527,9 +483,7 @@ Date: 4/1/2007
 ; Mictlán       ; 2-1; Suchitepéquez
 ; Comunicaciones; 1-1; Petapa
 
-
-Round: Round 14
-
+Round: 14
 Date: 4/3/2007
 
 ; Municipal     ; 2-1; Xelajú
@@ -544,9 +498,7 @@ Date: 4/5/2007
 
 ; Suchitepéquez ; 1-0; Comunicaciones
 
-
-Round: Round 15
-
+Round: 15
 Date: 4/14/2007
 
 ; Xelajú        ; 2-1; Marquense
@@ -558,9 +510,7 @@ Date: 4/15/2007
 ; Heredia       ; 1-1; Suchitepéquez
 ; Petapa        ; 1-0; Jalapa
 
-
-Round: Round 16
-
+Round: 16
 Date: 4/21/2007
 
 ; Marquense     ; 6-1; Mictlán
@@ -572,8 +522,7 @@ Date: 4/22/2007
 ; Zacapa        ; 2-4; Heredia
 ; Municipal     ; 1-1; Comunicaciones
 
-
-Round: Round 17 
+Round: 17 
 Date: 4/29/2007
 
 ; Suchitepéquez ; 4-2; Jalapa
@@ -582,8 +531,7 @@ Date: 4/29/2007
 ; Heredia       ; 2-1; Municipal
 ; Petapa        ; 4-0; Zacapa
 
-
-Round: Round 18 
+Round: 18 
 Date: 5/6/2007
 
 ; Municipal     ; 4-4; Petapa
@@ -593,8 +541,7 @@ Date: 5/6/2007
 ; Jalapa        ; 5-1; Mictlán
 
 
-* Final Table:
-* 
+
 *  1.Municipal                  18  9  5  4  43-21  32  Semifinals
 *  2.Petapa                     18  9  4  5  31-23  31  Semifinals
 *  3.Deportivo Marquense        18  8  5  5  35-26  29  Quarterfinals

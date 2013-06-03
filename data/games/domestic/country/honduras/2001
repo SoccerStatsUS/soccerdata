@@ -1,9 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesh/hond02.html
 
-Honduras 2001/02
 
-
-Apertura 
+Season: 2001 Apertura 
 
 * 1.Motagua         18  8  8  2 22-13 32  Qualified
 * 2.Marathón        18  8  7  3 28-22 31  Qualified
@@ -17,163 +15,221 @@ Apertura
 * 9.Universidad     18  3  6  9 20-31 15
 *10.Deportes Savio  18  1  9  8 19-32 12
 
-Round 1 
-[Sep 7]
-Victoria      2-1 Olimpia
-[Sep 8]
-Marathón      1-1 Vida
-[Sep 9]
-Comayagua     1-0 España
-Universidad   3-1 Savio
-Motagua       1-0 Platense
+Round: 1 
+Date: 9/7/2001
 
-Round 2
-[Sep 14]
-Platense      2-1 Victoria
-[Sep 15]
-España        2-0 Universidad
-Vida          2-2 Motagua
-[Sep 16]
-Savio         0-3 Marathón
-[Sep 26]
-Olimpia       2-2 Comayagua
+; Victoria     ; 2-1; Olimpia
 
-Round 3
-[Sep 19]
-Comayagua     1-0 Vida
-Motagua       3-3 España
-Victoria      4-1 Savio
-Marathón      1-1 Platense
-[Sep 20]
-Universidad   0-3 Olimpia
+Date: 9/8/2001
 
-Round 4
-[Sep 22]
-Motagua       2-0 Comayagua
-Marathón      6-3 Victoria
-Platense      1-0 Savio
-[Sep 23]
-Olimpia       0-0 España
-Vida          2-1 Universidad
+; Marathón     ; 1-1; Vida
+
+Date: 9/9/2001
+
+; Comayagua    ; 1-0; España
+; Universidad  ; 3-1; Savio
+; Motagua      ; 1-0; Platense
+
+Round: 2
+Date: 9/14/2001
+
+; Platense     ; 2-1; Victoria
+
+Date: 9/15/2001
+
+; España       ; 2-0; Universidad
+; Vida         ; 2-2; Motagua
+
+Date: 9/16/2001
+
+; Savio        ; 0-3; Marathón
+
+Date: 9/26/2001
+
+; Olimpia      ; 2-2; Comayagua
+
+Round: 3
+Date: 9/19/2001
+
+; Comayagua    ; 1-0; Vida
+; Motagua      ; 3-3; España
+; Victoria     ; 4-1; Savio
+; Marathón     ; 1-1; Platense
+
+Date: 9/20/2001
+
+; Universidad  ; 0-3; Olimpia
+
+Round: 4
+Date: 9/22/2001
+
+; Motagua      ; 2-0; Comayagua
+; Marathón     ; 6-3; Victoria
+; Platense     ; 1-0; Savio
+
+Date: 9/23/2001
+
+; Olimpia      ; 0-0; España
+; Vida         ; 2-1; Universidad
  
-Round 5 
-[Sep 29]
-España        1-1 Vida
-Victoria      1-0 Motagua   
-[Sep 30]
-Comayagua     2-2 Marathón
-Savio         0-2 Olimpia
-Universidad   0-1 Platense   
+Round: 5 
+Date: 9/29/2001
 
-Round 6
-[Oct 3]
-Platense      1-3 Olimpia
-Universidad   2-2 Comayagua
-Vida          2-2 Victoria 
-España        1-0 Savio
-[Oct 4]
-Motagua       2-1 Marathón
+; España       ; 1-1; Vida
+; Victoria     ; 1-0; Motagua   
 
-Round 7 [Oct 10]
-Comayagua     0-0 Platense
-Savio         1-1 Motagua
-Victoria      0-0 España
-Marathón      3-3 Universidad
-Olimpia       2-2 Vida
+Date: 9/30/2001
 
-Round 8
-[Oct 13]
-Universidad   1-2 Motagua
-Vida          0-0 Savio
-[Oct 14]
-Comayagua     1-1 Victoria
-Platense      1-0 España 
-Olimpia       0-1 Marathón
+; Comayagua    ; 2-2; Marathón
+; Savio        ; 0-2; Olimpia
+; Universidad  ; 0-1; Platense   
 
-Round 9
-[Oct 17]
-Savio         2-2 Comayagua
-Victoria      1-1 Universidad
-Platense      2-0 Vida
-España        0-1 Marathón
-[Oct 18]
-Olimpia       0-2 Motagua
+Round: 6
+Date: 10/3/2001
 
-Round 10
-[Oct 20]
-Vida          0-1 Marathón
-España        2-2 Comayagua
-[Oct 21]
-Savio         1-0 Universidad
-Platense      0-0 Motagua
-Olimpia       1-2 Victoria  
+; Platense     ; 1-3; Olimpia
+; Universidad  ; 2-2; Comayagua
+; Vida         ; 2-2; Victoria 
+; España       ; 1-0; Savio
 
-Round 11 
-Victoria      0-1 Platense      
-Universidad   3-3 España   
-Motagua       2-0 Vida
-Marathón      3-3 Savio
-Comayagua     0-3 Olimpia
+Date: 10/4/2001
 
-Round 12
-[Oct 31]
-España        1-1 Motagua       
-Savio         3-3 Victoria     
-Platense      0-1 Marathón     
-Olimpia       2-0 Universidad   
-[played later]
-Vida          3-3 Comayagua     
+; Motagua      ; 2-1; Marathón
 
-Round 13 
-[Nov 4,5]
-Comayagua     0-1 Motagua
-Victoria      0-2 Marathón
-España        1-0 Olimpia
-Universidad   1-1 Vida
-[Nov 14]
-Savio         1-1 Platense    
+Round: 7 
+Date: 10/10/2001
+
+; Comayagua    ; 0-0; Platense
+; Savio        ; 1-1; Motagua
+; Victoria     ; 0-0; España
+; Marathón     ; 3-3; Universidad
+; Olimpia      ; 2-2; Vida
+
+Round: 8
+Date: 10/13/2001
+
+; Universidad  ; 1-2; Motagua
+; Vida         ; 0-0; Savio
+
+Date: 10/14/2001
+
+; Comayagua    ; 1-1; Victoria
+; Platense     ; 1-0; España 
+; Olimpia      ; 0-1; Marathón
+
+Round: 9
+Date: 10/17/2001
+
+; Savio        ; 2-2; Comayagua
+; Victoria     ; 1-1; Universidad
+; Platense     ; 2-0; Vida
+; España       ; 0-1; Marathón
+
+Date: 10/18/2001
+
+; Olimpia      ; 0-2; Motagua
+
+Round: 10
+Date: 10/20/2001
+
+; Vida         ; 0-1; Marathón
+; España       ; 2-2; Comayagua
+
+Date: 10/21/2001
+
+; Savio        ; 1-0; Universidad
+; Platense     ; 0-0; Motagua
+; Olimpia      ; 1-2; Victoria  
+
+Round: 11 
+Date: 
+
+; Victoria     ; 0-1; Platense      
+; Universidad  ; 3-3; España   
+; Motagua      ; 2-0; Vida
+; Marathón     ; 3-3; Savio
+; Comayagua    ; 0-3; Olimpia
+
+Round: 12
+Date: 10/31/2001
+
+; España       ; 1-1; Motagua       
+; Savio        ; 3-3; Victoria     
+; Platense     ; 0-1; Marathón     
+; Olimpia      ; 2-0; Universidad   
+
+; Vida         ; 3-3; Comayagua     
+*[played later]
+
+Round: 13 
+Date: 11/4/2001
+* also 11/5.
+
+; Comayagua    ; 0-1; Motagua
+; Victoria     ; 0-2; Marathón
+; España       ; 1-0; Olimpia
+; Universidad  ; 1-1; Vida
+
+Date: 11/14/2001
+
+; Savio        ; 1-1; Platense    
  
-Round 14 
-[Nov 7]
-Vida          1-0 España  
-Motagua       1-1 Victoria
-Marathón      1-0 Comayagua  
-Platense      2-1 Universidad 
-[played later]
-Olimpia       3-3 Savio
+Round: 14 
+Date: 11/7/2001
 
-Round 15
-Marathón      0-0 Motagua 
-Comayagua     1-2 Universidad  
-Victoria      1-1 Vida
-Savio         1-1 España
-Olimpia       0-0 Platense 
+; Vida         ; 1-0; España  
+; Motagua      ; 1-1; Victoria
+; Marathón     ; 1-0; Comayagua  
+; Platense     ; 2-1; Universidad 
 
-Round 16
-[Nov 14]
-Vida          1-1 Olimpia
-[Nov 17]
-Platense      1-2 Comayagua
-España        0-0 Victoria
-[Nov 18]
-Universidad   0-0 Marathón
-Motagua       2-1 Savio
+; Olimpia      ; 3-3; Savio
+*[played later]
 
-Round 17
-[Nov 21]
-Motagua       0-1 Universidad 
-Savio         0-1 Vida
-Victoria      2-2 Comayagua  
-España        1-0 Platense
-[Nov 22]
-Marathón      1-2 Olimpia
+Round: 15
+Date: 
 
-Round 18 [Dec 2]
-Comayagua     1-1 Savio
-Universidad   1-4 Victoria 
-Vida          2-2 Platense
-Marathón      0-5 España 
-Motagua       0-0 Olimpia
+; Marathón     ; 0-0; Motagua 
+; Comayagua    ; 1-2; Universidad  
+; Victoria     ; 1-1; Vida
+; Savio        ; 1-1; España
+; Olimpia      ; 0-0; Platense 
+
+Round: 16
+Date: 11/14/2001
+
+; Vida         ; 1-1; Olimpia
+
+Date: 11/17/2001
+
+; Platense     ; 1-2; Comayagua
+; España       ; 0-0; Victoria
+
+Date: 11/18/2001
+
+; Universidad  ; 0-0; Marathón
+; Motagua      ; 2-1; Savio
+
+Round: 17
+
+Date: 11/21/2001
+
+; Motagua      ; 0-1; Universidad 
+; Savio        ; 0-1; Vida
+; Victoria     ; 2-2; Comayagua  
+; España       ; 1-0; Platense
+
+Date: 11/22/2001
+
+; Marathón     ; 1-2; Olimpia
+
+Round: 18 
+Date: 12/2/2001
+
+; Comayagua    ; 1-1; Savio
+; Universidad  ; 1-4; Victoria 
+; Vida         ; 2-2; Platense
+; Marathón     ; 0-5; España 
+; Motagua      ; 0-0; Olimpia
 
 * 1.Motagua         18  8  8  2 22-13 32  Qualified
 * 2.Marathón        18  8  7  3 28-22 31  Qualified
@@ -187,61 +243,59 @@ Motagua       0-0 Olimpia
 * 9.Universidad     18  3  6  9 20-31 15
 *10.Deportes Savio  18  1  9  8 19-32 12
 
-Playoffs
+*Playoffs
 
-Semifinals
+Round: Semifinals
 
-First Legs 
-[Dec 5]
-Platense      1-2 Marathón
-  [Diego Fernández 23; Ricardo Correia 5, Jimmy González 79]
-[Dec 6]
-Olimpia       1-0 Motagua
-  [Gustavo Fuentes 46]
+*First Legs 
+Date: 12/5/2001
+; Platense     ; 1-2; Marathón
+Diego Fernández 23; Ricardo Correia 5, Jimmy González 79
 
-Second Legs
-[Dec 8]
-Marathón      1-1 Platense
-  [Pompilio Cacho 58; Diego Fernández 38]
-[Dec 9]
-Motagua       4-2 Olimpia
-  [Ricky García 26, José Pacini 32, 39, Elmer Mejía 87;
-   Wílmer Velásquez 5, Denilson Costa (37] 
+Date: 12/6/2001
+; Olimpia      ; 1-0; Motagua
+Gustavo Fuentes 46;
+
+*Second Legs
+
+Date: 12/8/2001
+
+; Marathón     ; 1-1; Platense
+Pompilio Cacho 58; Diego Fernández 38
+
+Date: 12/9/2001
+
+; Motagua      ; 4-2; Olimpia
+Ricky García 26, José Pacini 32, Jose Pacini 39, Elmer Mejía 87; Wílmer Velásquez 5, Denilson Costa 37
+
+Round: Final 
+
+*First Leg 
+Date: 12/12/2001
+
+; Marathon     ; 1-0; Motagua; ; Benigno Pineda
+Jaime Rosales (pk) 69
+Marathón: Juan Pablo Centeno; Mauricio Sabillón, Jaime Rosales, Behiker Bustillo, Lenín Suárez, Nígel Zúniga; Carlos Oliva, Luis Guifarro, Mario López (72 Emil Martínez); Enrique Reneau, Pompilio Cacho. 
+Motagua: Diego Vásquez; Nínrod Medina, Víctor Bernárdez, Mario Chirinos, Júnior Izaguirre (80 Milton Reyes), Elmer Mejía; Marlon Nolasco (60 Ariel Leyes), Ramón Romero, Danilo Turcios; José Pacini, Marcelo Verón.
 
 
-Final 
+*Second Leg 
+Date: 12/15/2001
 
-First Leg [Dec 12]
-Marathón      1-0 Motagua
-  [Jaime Rosales 69pen]
-  [Marathón: Juan Pablo Centeno; Mauricio Sabillón, Jaime Rosales, Behiker Bustillo,
-     Lenín Suárez, Nígel Zúniga; Carlos Oliva, Luis Guifarro, Mario López
-     (72 Emil Martínez); Enrique Reneau, Pompilio Cacho. Técnico: Chelato Uclés.
-   Motagua: Diego Vásquez; Nínrod Medina, Víctor Bernárdez, Mario Chirinos, 
-     Júnior Izaguirre (80 Milton Reyes), Elmer Mejía; Marlon Nolasco
-     (60 Ariel Leyes), Ramón Romero, Danilo Turcios; José Pacini, Marcelo Verón.
-     Técnico: Gilberto Yearwood.
-   ref: Benigno Pineda]
+; Motagua      ; 3-2; Marathon           ; ; Oscar Bardales
+*[5-3 pen]
+José Pacini 21, Junior Izaguirre 42, Junior Izaguirre 81; Jaime Rosales 18, Carlos Oliva 81
+Motagua: Noel Valladares; Milton Reyes, Nínrod Medina, Víctor Bernárdez,
+     Junior Izaguirre; Marlon Nolasco (76 Ariel Leyes), Ramón Romero (46 Elmer Mejía), Danilo Turcios, Róbel Bernárdez; José Pacini,  Marcelo Verón
+  Marathon: Juan Pablo Centeno; Mauricio Sabillón, Jaime Rosales,    Behiker Bustillo, Lenín Suárez, Nígel Zúniga; Carlos Oliva, Luis Guifarro    (77 Mario López), Enrique Reneau (58 Emil Martínez), Ricardo Correia    (59 Jimmy González), Pompilio Cacho
+  ref: 
+*  red cards: Marcelo Verón (Motagua, 12); Lenín Suárez (Marathón, 43)]
 
-Second Leg [Dec 15]
-Motagua       3-2 Marathón           [5-3 pen]
-  [José Pacini 21, Junior Izaguirre 42, 81; Jaime Rosales 18, Carlos Oliva 81]
-  [Motagua: Noel Valladares; Milton Reyes, Nínrod Medina, Víctor Bernárdez,
-     Junior Izaguirre; Marlon Nolasco (76 Ariel Leyes), Ramón Romero
-     (46 Elmer Mejía), Danilo Turcios, Róbel Bernárdez; José Pacini,
-     Marcelo Verón. Técnico: Gilberto Yearwood. 
-  Marathón: Juan Pablo Centeno; Mauricio Sabillón, Jaime Rosales,
-    Behiker Bustillo, Lenín Suárez, Nígel Zúniga; Carlos Oliva, Luis Guifarro
-    (77 Mario López), Enrique Reneau (58 Emil Martínez), Ricardo Correia
-    (59 Jimmy González), Pompilio Cacho. Técnico: Chelato Uclés. 
-  ref: Oscar Bardales;
-  red cards: Marcelo Verón (Motagua, 12); Lenín Suárez (Marathón, 43)]
-
-Motagua champions.
+*Motagua champions.
 
 
 
-Clausura 
+Season: 2002 Clausura 
 
 
 * 1.Olimpia         18  9  6  3 31-16 33  Qualified
@@ -256,170 +310,234 @@ Clausura
 * 9.Vida            18  3 10  5 16-21 19
 *10.Real Comayagua  18  4  4 10 20-30 16
 
-Round 1 
-[Jan 19]
-España        3-0 Vida
-Victoria      0-3 Savio              [awarded? originally reported 0-0]
-[Jan 20]
-Comayagua     0-3 Olimpia
-Motagua       1-1 Marathón
-Universidad   0-0 Platense
+Round: 1 
+Date: 1/19/2002
 
-Round 2
-[Jan 26]
-Vida          1-1 Comayagua
-Marathón      4-1 Universidad
-[Jan 27]
-Savio         0-0 Motagua
-Platense      1-1 España
-[Jan 30]
-Olimpia       2-0 Victoria
+; España       ; 3-0; Vida
+; Victoria     ; 0-3; Savio         
+*     [awarded? originally reported 0-0]
 
-Round 3
-[Feb 2]
-España        0-1 Savio
-Victoria      2-0 Vida
-[Feb 3]
-Comayagua     0-1 Marathón
-Universidad   0-0 Olimpia
-Motagua       1-3 Platense
+Date: 1/20/2002
 
-Round 4
-[Feb 9]
-Marathón      3-3 Victoria
-[Feb 10]
-Savio         2-6 Platense
-Universidad   2-0 Comayagua
-[Feb 12]
-Vida          1-1 Olimpia
-Motagua       2-0 España
+; Comayagua    ; 0-3; Olimpia
+; Motagua      ; 1-1; Marathón
+; Universidad  ; 0-0; Platense
 
-Round 5
-[Feb 16]
-Vida          2-1 Savio
-España        0-0 Universidad
-[Feb 17]
-Comayagua     2-2 Motagua
-Platense      3-1 Victoria
-Olimpia       2-0 Marathón
+Round: 2
+Date: 1/26/2002
 
-Round 6
-[Feb 23]
-Victoria      2-0 Comayagua
-[Feb 24]
-Marathón      2-1 España
-Savio         2-3 Olimpia       
-Platense      0-0 Vida
-Universidad   0-0 Motagua
+; Vida         ; 1-1; Comayagua
+; Marathón     ; 4-1; Universidad
 
-Round 7
-[Mar 2]
-Vida          0-1 Marathón
-España        0-0 Olimpia
-[Mar 3]
-Motagua       0-1 Victoria
-Savio         3-0 Universidad
-Comayagua     3-1 Platense
+Date: 1/27/2002
 
-Round 8
-[Mar 9]
-Marathón      0-0 Savio
-Victoria      2-0 Universidad
-Comayagua     1-1 España
-[Mar 10]
-Motagua       1-1 Vida
-Platense      0-3 Olimpia
+; Savio        ; 0-0; Motagua
+; Platense     ; 1-1; España
 
-Round 9
-[Mar 16]
-Victoria      1-1 España
-Marathón      1-1 Platense
-[Mar 17]
-Universidad   0-0 Vida
-Savio         0-3 Comayagua
-[Mar 21]
-Olimpia       0-0 Motagua
+Date: 1/30/2002
 
-Round 10
-[Mar 23]
-Marathón      1-0 Motagua
-Vida          1-1 España
-[Mar 24]
-Savio         0-0 Victoria
-Platense      0-1 Universidad
-Olimpia       3-2 Comayagua
+; Olimpia      ; 2-0; Victoria
 
-Round 11
-[Apr 6]
-Victoria      1-1 Olimpia
-[Apr 7]
-España        2-4 Platense
-Comayagua     1-2 Vida
-Motagua       0-3 Savio
-Universidad   2-1 Marathón
+Round: 3
+Date: 2/2/2002
 
-Round 12
-[Apr 13]
-Vida          1-2 Victoria
-Marathón      3-1 Comayagua
-Olimpia       4-1 Universidad
-[Apr 14]
-Savio         0-1 España
-Motagua       1-0 Platense
+; España       ; 0-1; Savio
+; Victoria     ; 2-0; Vida
 
-Round 13
-[Mar 27]
-Olimpia       1-1 Vida
-[Apr 17]
-Comayagua     0-3 Universidad 
-Motagua       0-1 España
-Platense      3-1 Savio
-Victoria      0-2 Marathón
+Date: 2/3/2002
 
-Round 14
-[Apr 20]
-Motagua       0-1 Comayagua
-Victoria      1-3 Platense
-[Apr 21]
-Universidad   0-0 España
-Savio         1-0 Vida
-Olimpia       3-1 Marathón
+; Comayagua    ; 0-1; Marathón
+; Universidad  ; 0-0; Olimpia
+; Motagua      ; 1-3; Platense
 
-Round 15
-[date?]
-Savio         2-1 Olimpia
-[Apr 24]
-España        2-1 Marathón
-Vida          3-2 Platense
-Motagua       2-0 Universidad
-Comayagua     1-1 Victoria
+Round: 4
+Date: 2/9/2002
 
-Round 16
-[Apr 27]
-Marathón      2-2 Vida
-Victoria      1-0 Motagua
-[Apr 28]
-Universidad   1-0 Savio
-Platense      3-1 Comayagua
-[May 5]
-Olimpia       1-0 España
+; Marathón     ; 3-3; Victoria
 
-Round 17
-[May 1]
-Olimpia       2-3 Platense
-España        2-0 Comayagua
-[May 4]
-Vida          0-0 Motagua
-[May 5]
-Savio         0-2 Marathón
-Universidad   1-1 Victoria
+Date: 2/10/2002
 
-Round 18 [May 12]
-España        0-0 Victoria
-Vida          1-1 Universidad
-Comayagua     3-0 Savio
-Platense      2-1 Marathón
-Motagua       2-1 Olimpia
+; Savio        ; 2-6; Platense
+; Universidad  ; 2-0; Comayagua
+
+Date: 2/12/2002
+
+; Vida         ; 1-1; Olimpia
+; Motagua      ; 2-0; España
+
+Round: 5
+Date: 2/16/2002
+
+; Vida         ; 2-1; Savio
+; España       ; 0-0; Universidad
+
+Date: 2/17/2002
+
+; Comayagua    ; 2-2; Motagua
+; Platense     ; 3-1; Victoria
+; Olimpia      ; 2-0; Marathón
+
+Round: 6
+Date: 2/23/2002
+
+; Victoria     ; 2-0; Comayagua
+
+Date: 2/24/2002
+
+; Marathón     ; 2-1; España
+; Savio        ; 2-3; Olimpia       
+; Platense     ; 0-0; Vida
+; Universidad  ; 0-0; Motagua
+
+Round: 7
+Date: 3/2/2002
+
+; Vida         ; 0-1; Marathón
+; España       ; 0-0; Olimpia
+
+Date: 3/3/2002
+
+; Motagua      ; 0-1; Victoria
+; Savio        ; 3-0; Universidad
+; Comayagua    ; 3-1; Platense
+
+Round: 8
+Date: 3/9/2002
+
+; Marathón     ; 0-0; Savio
+; Victoria     ; 2-0; Universidad
+; Comayagua    ; 1-1; España
+
+Date: 3/10/2002
+
+; Motagua      ; 1-1; Vida
+; Platense     ; 0-3; Olimpia
+
+Round: 9
+Date: 3/16/2002
+
+; Victoria     ; 1-1; España
+; Marathón     ; 1-1; Platense
+
+Date: 3/17/2002
+
+; Universidad  ; 0-0; Vida
+; Savio        ; 0-3; Comayagua
+
+Date: 3/21/2002
+
+; Olimpia      ; 0-0; Motagua
+
+Round: 10
+Date: 3/23/2002
+
+; Marathón     ; 1-0; Motagua
+; Vida         ; 1-1; España
+
+Date: 3/24/2002
+
+; Savio        ; 0-0; Victoria
+; Platense     ; 0-1; Universidad
+; Olimpia      ; 3-2; Comayagua
+
+Round: 11
+Date: 4/6/2002
+
+; Victoria     ; 1-1; Olimpia
+
+Date: 4/7/2002
+
+; España       ; 2-4; Platense
+; Comayagua    ; 1-2; Vida
+; Motagua      ; 0-3; Savio
+; Universidad  ; 2-1; Marathón
+
+Round: 12
+Date: 4/13/2002
+
+; Vida         ; 1-2; Victoria
+; Marathón     ; 3-1; Comayagua
+; Olimpia      ; 4-1; Universidad
+
+Date: 4/14/2002
+
+; Savio        ; 0-1; España
+; Motagua      ; 1-0; Platense
+
+Round: 13
+Date: 3/27/2002
+
+; Olimpia      ; 1-1; Vida
+
+Date: 4/17/2002
+
+; Comayagua    ; 0-3; Universidad 
+; Motagua      ; 0-1; España
+; Platense     ; 3-1; Savio
+; Victoria     ; 0-2; Marathón
+
+Round: 14
+Date: 4/20/2002
+
+; Motagua      ; 0-1; Comayagua
+; Victoria     ; 1-3; Platense
+
+Date: 4/21/2002
+
+; Universidad  ; 0-0; España
+; Savio        ; 1-0; Vida
+; Olimpia      ; 3-1; Marathón
+
+Round: 15
+Date: 
+*[date?]
+; Savio        ; 2-1; Olimpia
+
+Date: 4/24/2002
+
+; España       ; 2-1; Marathón
+; Vida         ; 3-2; Platense
+; Motagua      ; 2-0; Universidad
+; Comayagua    ; 1-1; Victoria
+
+Round: 16
+Date: 4/27/2002
+
+; Marathón     ; 2-2; Vida
+; Victoria     ; 1-0; Motagua
+
+Date: 4/28/2002
+
+; Universidad  ; 1-0; Savio
+; Platense     ; 3-1; Comayagua
+
+Date: 5/5/2002
+
+; Olimpia      ; 1-0; España
+
+Round: 17
+Date: 5/1/2002
+
+; Olimpia      ; 2-3; Platense
+; España       ; 2-0; Comayagua
+
+Date: 5/4/2002
+
+; Vida         ; 0-0; Motagua
+
+Date: 5/5/2002
+
+; Savio        ; 0-2; Marathón
+; Universidad  ; 1-1; Victoria
+
+Round: 18 
+Date: 5/12/2002
+
+; España       ; 0-0; Victoria
+; Vida         ; 1-1; Universidad
+; Comayagua    ; 3-0; Savio
+; Platense     ; 2-1; Marathón
+; Motagua      ; 2-1; Olimpia
 
 * 1.Olimpia         18  9  6  3 31-16 33  Qualified
 * 2.Marathón        18  8  5  5 27-21 29  Qualified
@@ -434,32 +552,41 @@ Motagua       2-1 Olimpia
 *10.Real Comayagua  18  4  4 10 20-30 16
 
 
-Playoffs
+*Playoffs
 
-Semifinals
+Round: Semifinals
 
-First Legs
-[May 15]
-Victoria      0-1 Olimpia
-[May 16]
-Marathón      2-1 Platense
+*First Legs
 
-Second Leg [May 19]
-Olimpia       2-2 Victoria
-Platense      0-0 Marathón
+Date: 5/15/2002
 
-Final
+; Victoria     ; 0-1; Olimpia
 
-First Leg [May 23]
-Marathón      4-1 Olimpia
-  [Nigel de Zúniga 44pen, Enrique Renau 49, 52, Oscar Vargas 85;
-   Danilo Tosello 60]
+Date: 5/16/2002
 
-Second Leg [May 26]
-Olimpia       1-0 Marathón
-  [Gustavo Fuentes 7]
+; Marathón     ; 2-1; Platense
 
-Marathón champions Clausura.
+Second Leg 
+Date: 5/19/2002
+
+; Olimpia      ; 2-2; Victoria
+; Platense     ; 0-0; Marathón
+
+Round: Final
+
+*First Leg 
+Date: 5/23/2002
+
+; Marathón     ; 4-1; Olimpia
+Nigel de Zúniga 44pen, Enrique Renau 49, Enrique Renau 52, Oscar Vargas 85; Danilo Tosello 60
+
+*Second Leg 
+Date: 5/26/2002
+
+; Olimpia      ; 1-0; Marathón
+Gustavo Fuentes 7;
+
+*Marathón champions Clausura.
 
 
 *Aggregate Table:

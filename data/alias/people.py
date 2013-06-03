@@ -187,6 +187,8 @@ last_name = {
 
 
 basic = {
+    'Timothy Weaver': 'Tim Weaver',
+    'John Colan Arguedas': 'John Colan',
     'Marcio Rezende': 'Márcio Rezende',
     'Martin Dall\'Orso': 'Martín Dall\'orso',
     'Martin Dall\'ozrso': 'Martín Dall\'orso',

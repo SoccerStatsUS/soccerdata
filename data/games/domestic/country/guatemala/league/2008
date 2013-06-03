@@ -2,7 +2,7 @@ BlockSource: http://rsssf.com/tablesg/guat09.html
 Competition: Liga Nacional de Guatemala
 * Guatemala 2008/09
 
-Season: Apertura 2008
+Season: 2008 Apertura
 
 * Regular Stage
 * Final Table:
@@ -20,7 +20,6 @@ Season: Apertura 2008
 * 10.Deportivo Jalapa           18  4  6  8  17-24  18
 
 Round: 1
-
 Date: 7/26/2008
 
 ; Xelajú        ; 2-0; Marquense
@@ -33,7 +32,6 @@ Date: 7/27/2008
 ; Xinabajul     ; 2-1; Municipal
 
 Round: 2 
-
 Date: 7/30/2008
 
 ; Heredia       ; 2-2; Comunicaciones 
@@ -46,7 +44,6 @@ Date: 9/7/2008
 ; Zacapa        ; 6-0; Xinabajul
 
 Round: 3
-
 Date: 8/2/2008
 
 ; Xelajú        ; 0-0; Zacapa
@@ -59,7 +56,6 @@ Date: 8/3/2008
 ; Heredia       ; 0-1; Marquense
 
 Round: 4
-
 Date: 8/9/2008
 
 ; Marquense     ; 1-2; Comunicaciones
@@ -72,7 +68,6 @@ Date: 8/10/2008
 ; Zacapa        ; 1-0; Petapa
 
 Round: 5
-
 Date: 8/23/2008
 
 ; Marquense     ; 1-1; Municipal      
@@ -94,7 +89,6 @@ Date: 8/31/2008
 ; Zacapa        ; 3-0; Marquense      
 
 Round: 7
-
 Date: 9/13/2008
 
 ; Marquense     ; 3-2; Suchitepéquez
@@ -107,7 +101,6 @@ Date: 9/14/2008
 ; Heredia       ; 2-0; Jalapa
 
 Round: 8
-
 Date: 9/20/2008
 
 ; Jalapa        ; 3-0; Marquense      
@@ -120,7 +113,6 @@ Date: 9/21/2008
 ; Xinabajul     ; 2-1; Heredia        
 
 Round: 9
-
 Date: 9/27/2008
 
 ; Marquense     ; 1-0; Xinabajul
@@ -133,7 +125,6 @@ Date: 9/28/2008
 ; Heredia       ; 2-0; Xelajú         
 
 Round: 10
-
 Date: 10/4/2008
 
 ; Marquense     ; 3-4; Xelajú         
@@ -146,7 +137,6 @@ Date: 10/5/2008
 ; Zacapa        ; 1-0; Jalapa
 
 Round: 11
-
 Date: 10/18/2008
 
 ; Jalapa        ; 1-1; Suchitepéquez
@@ -159,7 +149,6 @@ Date: 10/19/2008
 ; Comunicaciones; 3-3; Heredia        
 
 Round: 12
-
 Date: 10/25/2008
 
 ; Marquense     ; 2-1; Heredia        
@@ -172,7 +161,6 @@ Date: 10/26/2008
 ; Municipal     ; 2-0; Petapa         
 
 Round: 13
-
 Date: 11/1/2008
 
 ; Xelajú        ; 3-2; Suchitepéquez
@@ -185,7 +173,6 @@ Date: 11/2/2008
 ; Petapa        ; 0-1; Zacapa         
 
 Round: 14
-
 Date: 11/5/2008
 
 ; Jalapa        ; 1-1; Xelajú
@@ -198,7 +185,6 @@ Date: 11/6/2008
 ; Suchitepéquez ; 3-1; Petapa
 
 Round: 15
-
 Date: 11/8/2008
 
 ; Marquense     ; 1-0; Zacapa         
@@ -211,7 +197,6 @@ Date: 11/9/2008
 ; Municipal     ; 0-0; Comunicaciones
 
 Round: 16
-
 Date: 11/22/2008
 
 ; Jalapa        ; 1-0; Heredia
@@ -267,7 +252,6 @@ Date: 12/3/2008
 * Second Legs
 
 12/6/2008; Xelajú        ; 3-3; Marquense
-
 
 12/7/2008; Zacapa        ; 0-1; Xinabajul        
 Notes: abandoned at 0-1 in 75' due to crowd trouble; result stood]
@@ -565,7 +549,7 @@ Date: 6/4/2009
 ; Jalapa        ; 1-0; Heredia
 ; Suchitepéquez ; 2-0; Municipal
 
-Second Legs 
+*Second Legs 
 Date: 6/7/2009
 
 ; Heredia       ; 2-2; Jalapa

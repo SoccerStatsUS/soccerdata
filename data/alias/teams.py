@@ -1752,8 +1752,9 @@ world = {
     'CD Aguila': 'C.D. Águila',
     'CD Aguila (El Salvador)': 'C.D. Águila',
 
-    #'Alianza FC': 'Alianza',
-    'Alianza - El Salvador': 'Alianza FC',
+    'Alianza (El Salvador)': 'Alianza F.C.',
+    'Alianza - El Salvador': 'Alianza F.C.',
+    'Alianza FC': 'Alianza F.C.',
 
     'Atletico Balboa': 'Atlético Balboa',
 
@@ -2690,7 +2691,8 @@ usa = {
     'New York Greeks': 'New York Apollo',
     'New York United': 'New York Apollo',
 
-    'Hispano': 'Brooklyn Hispano',
+    #'Hispano': 'Brooklyn Hispano',
+
     'Brooklyn Hispanos': 'Brooklyn Hispano',
     'New York Hispano': 'Brooklyn Hispano',
     'Centro-Hispano': 'Centro Hispano',
@@ -3627,7 +3629,9 @@ international = {
     'Bermuda Under-23': 'Bermuda U-23',
     'Trinidad & Tobago': 'Trinidad and Tobago',
     'Trinidad/Tobago': 'Trinidad and Tobago',
-    'España': 'Spain',
+
+    #'España': 'Spain',
+
     'Irak': 'Iraq',
     'Southafrica': 'South Africa',
     'Nueva Zealandia': 'New Zealand',

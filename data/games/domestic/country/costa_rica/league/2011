@@ -1,4 +1,5 @@
-1;2cCompetition: Costa Rican Primera División
+BlockSource: http://www.rsssf.com/tablesc/cos2012.html
+Competition: Costa Rican Primera División
 Season: 2011 Apertura
 
 * 1.CS Herediano               20  11  6  3  39-19  39  Semifinals
@@ -19,23 +20,26 @@ Season: 2011 Apertura
 Round: Semifinals
 
 *First Legs [Nov 27]
-Cartaginés    1-2 Herediano  
-Saprissa      0-1 Alajuelense  
+Date: 11/27/2011
+; Cartaginés   ; 1-2; Herediano  
+; Saprissa     ; 0-1; Alajuelense  
 
-Second Legs [Dec 4]
-Herediano     1-0 Cartaginés  
-Alajuelense   2-2 Saprissa  
+*Second Legs [Dec 4]
+Date: 12/4/2011
+; Herediano    ; 1-0; Cartaginés  
+; Alajuelense  ; 2-2; Saprissa  
 
-Final
+Round: Final
 
-First Leg [Dec 11]
-Alajuelense   1-1 Herediano 
+*First Leg [Dec 11]
+12/11/2011; Alajuelense  ; 1-1; Herediano 
 
-Second Leg [Dec 18]
-Herediano     1-1 Alajuelense    [aet, 4-5 pen]
+*Second Leg [Dec 18]
+12/18/2011; Herediano    ; 1-1 (aet); Alajuelense    
+*[aet, 4-5 pen]
 
 
-Season: 2011 Clausura
+Season: 2012 Clausura
 
 *Final Table:
 * 1.AD Municipal Pérez Zeledón 20  11  4  5  38-25  37  Semifinals
@@ -57,25 +61,25 @@ Round: Semifinals
 
 *First Legs 
 *[Apr 28] 
-Herediano     1-1 Pérez Zeledón  
+4/28/2012; Herediano    ; 1-1; Pérez Zeledón  
 *[Apr 29] 
-Saprissa      1-0 Santos  
+4/29/2012; Saprissa     ; 1-0; Santos  
 
 *Second Legs 
 *[May 5]
-Santos        1-0 Saprissa  
+5/5/2012; Santos       ; 1-0; Saprissa  
 *[May 6]
-Pérez Zeledón 0-2 Herediano 
+5/6/2012; Pérez Zeledón; 0-2; Herediano 
 
 *NB: Santos qualify on better record regular stage
  
 Round: Final
 
 *First Leg [May 12]
-Herediano     4-2 Santos 
+5/12/2012; Herediano    ; 4-2; Santos 
 
 *Second Leg [May 19]
-Santos        1-2 Herediano 
+5/19/2012; Santos       ; 1-2; Herediano 
 
 
 *Aggregate Table 2011/12 

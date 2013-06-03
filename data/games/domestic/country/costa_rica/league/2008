@@ -1,4 +1,8 @@
-Season :2008
+BlockSource: http://www.rsssf.com/tablesc/cos09.html
+Competition: Costa Rican Primera División
+
+
+Season: 2008 Apertura
 
 *Grupo A
 * 1.Deportivo Saprissa         16   8  5  3  30-15  29  Semifinals
@@ -20,167 +24,231 @@ Season :2008
 * 5.Universidad de Costa Rica  16   4  5  7  18-23  17
 * 6.CS Cartaginés              16   3  7  6  16-18  16
 
-Round 1
-[Jul 27]
-Pérez Zeledón 1-0 Liberia
-Saprissa      3-0 Puntarenas
-Cartaginés    0-0 Ramonense
-UCR           2-2 Carmelita
-[Jul 28]
-Brujas        0-2 Herediano
-[Aug 6]
-Alajuelense   1-0 San Carlos
+Round: 1
+Date: 7/27/2008
 
-Round 2 
-[Aug 2]
-Liberia       2-2 Brujas
-[Aug 3]
-Herediano     1-3 Alajuelense
-San Carlos    1-0 UCR
-Pérez Zeledón 1-0 Saprissa
-Carmelita     0-0 Cartaginés
-Ramonense     3-2 Puntarenas
+; Pérez Zeledón; 1-0; Liberia
+; Saprissa     ; 3-0; Puntarenas
+; Cartaginés   ; 0-0; Ramonense
+; UCR          ; 2-2; Carmelita
 
-Round 3 [Aug 10]
-Alajuelense   3-3 Liberia
-Cartaginés    1-2 San Carlos
-Saprissa      5-0 Ramonense
-Puntarenas    3-1 Carmelita
-Brujas        2-1 Pérez Zeledón
-UCR           3-1 Herediano
+Date: 7/28/2008
 
-Round 4 
-[Aug 15]
-San Carlos    2-3 Brujas
-[Aug 17]
-Puntarenas    2-1 Cartaginés
-Ramonense     2-3 UCR
-[Aug 18]
-Carmelita     0-0 Alajuelense
-[Aug 27]
-Liberia       2-1 Saprissa
-Herediano     1-0 Pérez Zeledón
+; Brujas       ; 0-2; Herediano
 
-Round 5
-[Aug 23]
-Brujas        2-0 Carmelita
-Liberia       2-1 Herediano
-[Aug 24]
-Alajuelense   2-0 Ramonense
-Saprissa      1-1 Cartaginés
-Pérez Zeledón 0-0 San Carlos
-UCR           0-0 Puntarenas
+Date: 8/6/2008
 
-Round 6
-[Aug 31]
-Herediano     1-1 Saprissa
-Cartaginés    2-0 UCR
-Puntarenas    1-0 Alajuelense
-Carmelita     4-4 Pérez Zeledón
-[Sep 1]
-Ramonense     0-3 Brujas
-San Carlos    3-1 Liberia
+; Alajuelense  ; 1-0; San Carlos
 
-Round 7
-[Sep 13]
-Saprissa      2-0 UCR
-Liberia       4-3 Carmelita
-[Sep 14]
-Herediano     4-1 San Carlos
-Peréz Zeledón 2-1 Ramonense
-Alajuelense   1-1 Cartaginés
-Brujas        3-1 Puntarenas
+Round: 2 
+Date: 8/2/2008
 
-Round 8 [Sep 21]
-San Carlos    3-1 Saprissa      
-Cartaginés    0-0 Brujas        
-Puntarenas    1-1 Peréz Zeledón 
-Carmelita     1-2 Herediano     
-Ramonense     4-3 Liberia       
-UCR           0-1 Alajuelense   
+; Liberia      ; 2-2; Brujas
+
+Date: 8/3/2008
+
+; Herediano    ; 1-3; Alajuelense
+; San Carlos   ; 1-0; UCR
+; Pérez Zeledón; 1-0; Saprissa
+; Carmelita    ; 0-0; Cartaginés
+; Ramonense    ; 3-2; Puntarenas
+
+Round: 3 
+Date: 8/10/2008
+
+; Alajuelense  ; 3-3; Liberia
+; Cartaginés   ; 1-2; San Carlos
+; Saprissa     ; 5-0; Ramonense
+; Puntarenas   ; 3-1; Carmelita
+; Brujas       ; 2-1; Pérez Zeledón
+; UCR          ; 3-1; Herediano
+
+Round: 4 
+Date: 8/15/2008
+
+; San Carlos   ; 2-3; Brujas
+
+Date: 8/17/2008
+
+; Puntarenas   ; 2-1; Cartaginés
+; Ramonense    ; 2-3; UCR
+
+Date: 8/18/2008
+
+; Carmelita    ; 0-0; Alajuelense
+
+Date: 8/27/2008
+
+; Liberia      ; 2-1; Saprissa
+; Herediano    ; 1-0; Pérez Zeledón
+
+Round: 5
+Date: 8/23/2008
+
+; Brujas       ; 2-0; Carmelita
+; Liberia      ; 2-1; Herediano
+
+Date: 8/24/2008
+
+; Alajuelense  ; 2-0; Ramonense
+; Saprissa     ; 1-1; Cartaginés
+; Pérez Zeledón; 0-0; San Carlos
+; UCR          ; 0-0; Puntarenas
+
+Round: 6
+Date: 8/31/2008
+
+; Herediano    ; 1-1; Saprissa
+; Cartaginés   ; 2-0; UCR
+; Puntarenas   ; 1-0; Alajuelense
+; Carmelita    ; 4-4; Pérez Zeledón
+
+Date: 9/1/2008
+
+; Ramonense    ; 0-3; Brujas
+; San Carlos   ; 3-1; Liberia
+
+Round: 7
+Date: 9/13/2008
+
+; Saprissa     ; 2-0; UCR
+; Liberia      ; 4-3; Carmelita
+
+Date: 9/14/2008
+
+; Herediano    ; 4-1; San Carlos
+; Peréz Zeledón; 2-1; Ramonense
+; Alajuelense  ; 1-1; Cartaginés
+; Brujas       ; 3-1; Puntarenas
+
+Round: 8 
+Date: 9/21/2008
+
+; San Carlos   ; 3-1; Saprissa      
+; Cartaginés   ; 0-0; Brujas        
+; Puntarenas   ; 1-1; Peréz Zeledón 
+; Carmelita    ; 1-2; Herediano     
+; Ramonense    ; 4-3; Liberia       
+; UCR          ; 0-1; Alajuelense   
               
-Round 9
-[Sep 27]
-Saprissa      2-1 Alajuelense   
-Liberia       3-1 Puntarenas
-[Sep 28]
-Herediano     0-1 Ramonense     
-Peréz Zeledón 2-1 Cartaginés    
-Brujas        1-1 UCR
-[Sep 30]
-San Carlos    4-1 Carmelita
+Round: 9
+Date: 9/27/2008
 
-Round 10
-[Oct 5]
-Alajuelense   2-1 Brujas        
-Puntarenas    2-1 Herediano     
-Ramonense     2-2 San Carlos    
-UCR           0-2 Peréz Zeledón 
-[Oct 22]
-Cartaginés    1-1 Liberia       
-[Nov 20]
-Saprissa      1-1 Carmelita     
+; Saprissa     ; 2-1; Alajuelense   
+; Liberia      ; 3-1; Puntarenas
 
-Round 11
-[Oct 18]
-San Carlos    3-1 Puntarenas    
-[Oct 19]
-Peréz Zeledón 2-2 Alajuelense   
-Herediano     2-0 Cartaginés    
-Saprissa      3-2 Brujas        
-[Oct 29]
-Liberia       3-0 UCR
-[Nov 5]
-Carmelita     1-1 Ramonense     
+Date: 9/28/2008
 
-Round 12
-[Oct 26]
-Brujas        3-0 Liberia       
-Ramonense     2-2 Carmelita     
-Alajuelense   1-1 Herediano     
-UCR           2-0 San Carlos
-Cartaginés    1-0 Peréz Zeledón 
-[Nov 12]
-Puntarenas    1-2 Saprissa      
+; Herediano    ; 0-1; Ramonense     
+; Peréz Zeledón; 2-1; Cartaginés    
+; Brujas       ; 1-1; UCR
 
-Round 13
-[Nov 1]
-Liberia       2-1 Ramonense     
-[Nov 2]
-Brujas        1-2 Saprissa      
-Carmelita     2-2 Puntarenas    
-Alajuelense   3-2 Peréz Zeledón 
-[Nov 3]
-Herediano     1-3 UCR 
-[Nov 4]
-San Carlos    1-3 Cartaginés   
+Date: 9/30/2008
 
-Round 14 [Nov 9]
-Brujas        4-2 Carmelita     
-Saprissa      5-0 Liberia       
-Puntarenas    2-0 Ramonense     
-Alajuelense   1-1 UCR 
-Cartaginés    0-1 Herediano     
-Peréz Zeledón 2-1 San Carlos    
+; San Carlos   ; 4-1; Carmelita
 
-Round 15 
-[Nov 16]
-Carmelita     1-1 Saprissa      
-Liberia       0-1 Puntarenas    
-Ramonense     2-2 Brujas        
-San Carlos    2-1 Alajuelense   
-Peréz Zeledón 0-0 Herediano     
-UCR           abd Cartaginés      [abandoned at 3-3 in 83' due to 
-[Nov 21]                           agression against referee]
-UCR           3-3 Cartaginés      [remaining 7']
+Round: 10
+Date: 10/5/2008
 
-Round 16 [Nov 23]
-Ramonense     0-0 Saprissa      
-Puntarenas    2-4 Brujas        
-Carmelita     0-2 Liberia       
-Cartaginés    1-2 Alajuelense   
-UCR           0-1 Peréz Zeledón 
-Herediano     2-2 San Carlos    
+; Alajuelense  ; 2-1; Brujas        
+; Puntarenas   ; 2-1; Herediano     
+; Ramonense    ; 2-2; San Carlos    
+; UCR          ; 0-2; Peréz Zeledón 
+
+Date: 10/22/2008
+
+; Cartaginés   ; 1-1; Liberia       
+
+Date: 11/20/2008
+
+; Saprissa     ; 1-1; Carmelita     
+
+Round: 11
+Date: 10/18/2008
+
+; San Carlos   ; 3-1; Puntarenas    
+
+Date: 10/19/2008
+
+; Peréz Zeledón; 2-2; Alajuelense   
+; Herediano    ; 2-0; Cartaginés    
+; Saprissa     ; 3-2; Brujas        
+
+Date: 10/29/2008
+
+; Liberia      ; 3-0; UCR
+
+Date: 11/5/2008
+
+; Carmelita    ; 1-1; Ramonense     
+
+Round: 12
+Date: 10/26/2008
+
+; Brujas       ; 3-0; Liberia       
+; Ramonense    ; 2-2; Carmelita     
+; Alajuelense  ; 1-1; Herediano     
+; UCR          ; 2-0; San Carlos
+; Cartaginés   ; 1-0; Peréz Zeledón 
+
+Date: 11/12/2008
+
+; Puntarenas   ; 1-2; Saprissa      
+
+Round: 13
+Date: 11/1/2008
+
+; Liberia      ; 2-1; Ramonense     
+
+Date: 11/2/2008
+
+; Brujas       ; 1-2; Saprissa      
+; Carmelita    ; 2-2; Puntarenas    
+; Alajuelense  ; 3-2; Peréz Zeledón 
+
+Date: 11/3/2008
+
+; Herediano    ; 1-3; UCR 
+
+Date: 11/4/2008
+
+; San Carlos   ; 1-3; Cartaginés   
+
+Round: 14 
+Date: 11/9/2008
+
+; Brujas       ; 4-2; Carmelita     
+; Saprissa     ; 5-0; Liberia       
+; Puntarenas   ; 2-0; Ramonense     
+; Alajuelense  ; 1-1; UCR 
+; Cartaginés   ; 0-1; Herediano     
+; Peréz Zeledón; 2-1; San Carlos    
+
+Round: 15 
+Date: 11/16/2008
+
+; Carmelita    ; 1-1; Saprissa      
+; Liberia      ; 0-1; Puntarenas    
+; Ramonense    ; 2-2; Brujas        
+; San Carlos   ; 2-1; Alajuelense   
+; Peréz Zeledón; 0-0; Herediano     
+; UCR     ; 3-3;      abd Cartaginés      
+Notes: abandoned at 3-3 in 83' due to agression against referee. 
+
+Date: 11/21/2008
+
+; UCR          ; 3-3; Cartaginés      
+Notes: remaining 7' of 11/16 ame.
+
+Round: 16 
+Date: 11/23/2008
+
+; Ramonense    ; 0-0; Saprissa      
+; Puntarenas   ; 2-4; Brujas        
+; Carmelita    ; 0-2; Liberia       
+; Cartaginés   ; 1-2; Alajuelense   
+; UCR          ; 0-1; Peréz Zeledón 
+; Herediano    ; 2-2; San Carlos    
 
 
 *Grupo A
@@ -204,41 +272,51 @@ Herediano     2-2 San Carlos
 * 6.CS Cartaginés              16   3  7  6  16-18  16
 
 
-Quarterfinals
+Round: Quarterfinals
 
-First Legs 
-[Nov 26]   
-Liberia       2-2 Pérez Zeledón
-[Nov 30]
-San Carlos    2-0 Brujas
+*First Legs 
+Date: 11/26/2008
+; Liberia      ; 2-2; Pérez Zeledón
 
-Second Legs 
-[Dec 3]
-Brujas        1-1 San Carlos
-[Dec 7]
-Pérez Zeledón 0-0 Liberia         [4-3 pen]
+Date: 11/30/2008
+; San Carlos   ; 2-0; Brujas
 
-Semifinals
+*Second Legs 
+Date: 12/3/2008
+; Brujas       ; 1-1; San Carlos
 
-First Legs
-[Dec 7]
-San Carlos    2-1 Alajuelense
-[Dec 11]
-Pérez Zeledón 1-1 Saprissa
+Date: 12/7/2008
+; Pérez Zeledón; 0-0; Liberia         
+*[4-3 pen]
 
-Second Legs [Dec 14]
-Alajuelense   3-1 San Carlos
-Saprissa      4-2 Pérez Zeledón
+Round: Semifinals
 
-Final
+*First Legs
+Date: 12/7/2008
+; San Carlos   ; 2-1; Alajuelense
 
-First Leg [Dec 17]
-Alajuelense   2-0 Saprissa
+Date: 12/11/2008
+; Pérez Zeledón; 1-1; Saprissa
 
-Second Leg [Dec 20]
-Saprissa      3-0 Alajuelense
+*Second Legs 
+Date: 12/14/2008
 
-NB: Saprissa champions Apertura 2008/09
+; Alajuelense  ; 3-1; San Carlos
+; Saprissa     ; 4-2; Pérez Zeledón
+
+Round: Final
+
+*First Leg 
+Date: 12/17/2008
+
+; Alajuelense  ; 2-0; Saprissa
+
+*Second Leg 
+Date: 12/20/2008
+
+; Saprissa     ; 3-0; Alajuelense
+
+*NB: Saprissa champions Apertura 2008/09
 
 
 Season: 2008 Clausura
@@ -263,167 +341,228 @@ Season: 2008 Clausura
 * 5.San Carlos FC              16   4  6  6  18-17  18
 * 6.Universidad de Costa Rica  16   3  1 12  11-28  10
 
-Round 1 
-[Jan 17]
-Herediano     1-0 Brujas       
-[Jan 18]
-San Carlos    2-3 Alajuelense  
-Ramonense     2-2 Cartaginés   
-Puntarenas    2-1 Saprissa    
-Carmelita     2-1 UCR      
-[Feb 18]
-Liberia       2-0 Pérez Zeledón     
+Round: 1 
+Date: 1/17/2009
 
-Round 2 
-[Jan 25]  
-UCR           0-3 San Carlos   
-Cartaginés    2-0 Carmelita   
-Puntarenas    2-1 Ramonense     
-Saprissa      2-0 Pérez Zeledón
-[Feb 25]
-Brujas        1-1 Liberia      
-Alajuelense   1-3 Herediano  
+; Herediano    ; 1-0; Brujas       
 
-Round 3 
-[Jan 30] 
-San Carlos    1-3 Cartaginés   
-[Jan 31]
-Ramonense     1-0 Saprissa     
-Herediano     2-0 UCR          
-[Feb 1]
-Carmelita     1-1 Puntarenas   
-Pérez Zeledón 1-0 Brujas  
-[Mar 3]
-Liberia       1-1 Alajuelense      
+Date: 1/18/2009
 
-Round 4 
-[Feb 4]
-Brujas        1-1 San Carlos   
-Cartaginés    1-1 Puntarenas   
-Alajuelense   0-0 Carmelita   
-UCR           0-2 Ramonense  
-[Feb 5]
-Pérez Zeledón 2-1 Herediano      
-[Mar 11] 
-Saprissa      3-0 Liberia      
+; San Carlos   ; 2-3; Alajuelense  
+; Ramonense    ; 2-2; Cartaginés   
+; Puntarenas   ; 2-1; Saprissa    
+; Carmelita    ; 2-1; UCR      
 
-Round 5 
-[Feb 8]
-Ramonense     1-0 Alajuelense 
-Carmelita     1-0 Brujas       
-Puntarenas    3-0 UCR    
-[Feb 9]
-San Carlos    1-1 Pérez Zeledón
-[Mar 18]
-Cartaginés    1-1 Saprissa     
-Herediano     4-2 Liberia             
+Date: 2/18/2009
 
-Round 6 
-[Feb 14]
-Saprissa      2-1 Herediano  
-Alajuelense   3-0 Puntarenas  
-Brujas        1-1 Ramonense   
-[Feb 15]  
-Liberia       1-1 San Carlos   
-UCR           2-1 Cartaginés   
-Pérez Zeledón 3-2 Carmelita      
+; Liberia      ; 2-0; Pérez Zeledón     
 
-Round 7 
-[Feb 21]
-San Carlos    0-0 Herediano  
-[Feb 22]  
-Cartaginés    1-0 Alajuelense  
-UCR           1-2 Saprissa     
-Ramonense     2-2 Pérez Zeledón
-Carmelita     0-2 Liberia      
-[Mar 29]
-Puntarenas    3-3 Brujas       
+Round: 2 
+Date: 1/25/2009
 
-Round 8 
-[Feb 28]
-Saprissa      1-0 San Carlos    
-Liberia       3-1 Ramonense    
-UCR           2-0 Alajuelense 
-[Mar 1]    
-Brujas        0-0 Cartaginés   
-Pérez Zeledón 2-0 Puntarenas 
-Herediano     1-0 Carmelita     
+; UCR          ; 0-3; San Carlos   
+; Cartaginés   ; 2-0; Carmelita   
+; Puntarenas   ; 2-1; Ramonense     
+; Saprissa     ; 2-0; Pérez Zeledón
 
-Round 9 
-[Mar 7]
-Alajuelense   1-2 Saprissa     
-[Mar 8]
-Carmelita     0-0 San Carlos   
-Ramonense     3-1 Herediano    
-Cartaginés    0-0 Pérez Zeledón
-UCR           1-2 Brujas       
-Puntarenas    0-0 Liberia      
+Date: 2/25/2009
 
-Round 10 
-[Mar 14]
-Liberia       1-0 Cartaginés    
-Saprissa      1-1 Carmelita    
-[Mar 15]
-Brujas        2-0 Alajuelense  
-Herediano     1-0 Puntarenas  
-San Carlos    0-0 Ramonense    
-Pérez Zeledón 1-0 UCR          
+; Brujas       ; 1-1; Liberia      
+; Alajuelense  ; 1-3; Herediano  
 
-Round 11 
-[Mar 19]
-Puntarenas    3-2 San Carlos   
-[Mar 22]
-Alajuelense   0-0 Pérez Zeledón
-Ramonense     5-3 Carmelita    
-UCR           2-0 Liberia    
-[Apr 8]
-Cartaginés    0-0 Herediano      
-[Apr 22]
-Brujas        0-2 Saprissa     
+Round: 3 
+Date: 1/30/2009
 
-Round 12 
-[Apr 4]
-Liberia       0-1 Brujas       
-Alajuelense   1-0 Puntarenas   
-[Apr 5]
-Carmelita     2-0 Ramonense    
-Herediano     2-1 Saprissa     
-San Carlos    1-0 UCR          
-Pérez Zeledón 0-1 Cartaginés   
+; San Carlos   ; 1-3; Cartaginés   
 
-Round 13 [Apr 12]
-Ramonense     0-1 Liberia      
-Alajuelense   1-2 Brujas       
-Puntarenas    2-0 Carmelita    
-UCR           1-2 Herediano    
-Cartaginés    1-0 San Carlos   
-Pérez Zeledón 2-3 Saprissa     
+Date: 1/31/2009
 
-Round 14 
-[Apr 18]
-Liberia       3-2 Alajuelense    
-UCR           1-3 Saprissa    
-[Apr 19]
-Carmelita     1-3 Brujas       
-Ramonense     1-1 Puntarenas  
-Herediano     3-0 Cartaginés   
-San Carlos    3-1 Pérez Zeledón
+; Ramonense    ; 1-0; Saprissa     
+; Herediano    ; 2-0; UCR          
 
-Round 15 [Apr 26]
-Carmelita     1-1 Alajuelense  
-Puntarenas    0-0 Liberia      
-Brujas        1-0 Ramonense    
-Saprissa      2-0 San Carlos   
-Cartaginés    0-0 UCR          
-Herediano     0-0 Pérez Zeledón
+Date: 2/1/2009
 
-Round 16 [May 3]
-Alajuelense   0-2 Ramonense    
-Brujas        4-0 Puntarenas   
-Liberia       2-0 Carmelita    
-Saprissa      0-0 Cartaginés   
-Pérez Zeledón 4-0 UCR          
-San Carlos    3-0 Herediano    
+; Carmelita    ; 1-1; Puntarenas   
+; Pérez Zeledón; 1-0; Brujas  
+
+Date: 3/3/2009
+
+; Liberia      ; 1-1; Alajuelense      
+
+Round: 4 
+Date: 2/4/2009
+
+; Brujas       ; 1-1; San Carlos   
+; Cartaginés   ; 1-1; Puntarenas   
+; Alajuelense  ; 0-0; Carmelita   
+; UCR          ; 0-2; Ramonense  
+
+Date: 2/5/2009
+
+; Pérez Zeledón; 2-1; Herediano      
+
+Date: 3/11/2009
+
+; Saprissa     ; 3-0; Liberia      
+
+Round: 5 
+Date: 2/8/2009
+
+; Ramonense    ; 1-0; Alajuelense 
+; Carmelita    ; 1-0; Brujas       
+; Puntarenas   ; 3-0; UCR    
+
+Date: 2/9/2009
+
+; San Carlos   ; 1-1; Pérez Zeledón
+
+Date: 3/18/2009
+
+; Cartaginés   ; 1-1; Saprissa     
+; Herediano    ; 4-2; Liberia             
+
+Round: 6 
+Date: 2/14/2009
+
+; Saprissa     ; 2-1; Herediano  
+; Alajuelense  ; 3-0; Puntarenas  
+; Brujas       ; 1-1; Ramonense   
+
+Date: 2/15/2009
+
+; Liberia      ; 1-1; San Carlos   
+; UCR          ; 2-1; Cartaginés   
+; Pérez Zeledón; 3-2; Carmelita      
+
+Round: 7 
+Date: 2/21/2009
+
+; San Carlos   ; 0-0; Herediano  
+
+Date: 2/22/2009
+
+; Cartaginés   ; 1-0; Alajuelense  
+; UCR          ; 1-2; Saprissa     
+; Ramonense    ; 2-2; Pérez Zeledón
+; Carmelita    ; 0-2; Liberia      
+
+Date: 3/29/2009
+
+; Puntarenas   ; 3-3; Brujas       
+
+Round: 8 
+Date: 2/28/2009
+
+; Saprissa     ; 1-0; San Carlos    
+; Liberia      ; 3-1; Ramonense    
+; UCR          ; 2-0; Alajuelense 
+
+Date: 3/1/2009
+
+; Brujas       ; 0-0; Cartaginés   
+; Pérez Zeledón; 2-0; Puntarenas 
+; Herediano    ; 1-0; Carmelita     
+
+Round: 9 
+Date: 3/7/2009
+
+; Alajuelense  ; 1-2; Saprissa     
+
+Date: 3/8/2009
+
+; Carmelita    ; 0-0; San Carlos   
+; Ramonense    ; 3-1; Herediano    
+; Cartaginés   ; 0-0; Pérez Zeledón
+; UCR          ; 1-2; Brujas       
+; Puntarenas   ; 0-0; Liberia      
+
+Round: 10 
+Date: 3/14/2009
+
+; Liberia      ; 1-0; Cartaginés    
+; Saprissa     ; 1-1; Carmelita    
+
+Date: 3/15/2009
+
+; Brujas       ; 2-0; Alajuelense  
+; Herediano    ; 1-0; Puntarenas  
+; San Carlos   ; 0-0; Ramonense    
+; Pérez Zeledón; 1-0; UCR          
+
+Round: 11 
+Date: 3/19/2009
+
+; Puntarenas   ; 3-2; San Carlos   
+
+Date: 3/22/2009
+
+; Alajuelense  ; 0-0; Pérez Zeledón
+; Ramonense    ; 5-3; Carmelita    
+; UCR          ; 2-0; Liberia    
+
+Date: 4/8/2009
+
+; Cartaginés   ; 0-0; Herediano      
+
+Date: 4/22/2009
+
+; Brujas       ; 0-2; Saprissa     
+
+Round: 12 
+Date: 4/4/2009
+
+; Liberia      ; 0-1; Brujas       
+; Alajuelense  ; 1-0; Puntarenas   
+
+Date: 4/5/2009
+
+; Carmelita    ; 2-0; Ramonense    
+; Herediano    ; 2-1; Saprissa     
+; San Carlos   ; 1-0; UCR          
+; Pérez Zeledón; 0-1; Cartaginés   
+
+Round: 13 
+Date: 4/12/2009
+
+; Ramonense    ; 0-1; Liberia      
+; Alajuelense  ; 1-2; Brujas       
+; Puntarenas   ; 2-0; Carmelita    
+; UCR          ; 1-2; Herediano    
+; Cartaginés   ; 1-0; San Carlos   
+; Pérez Zeledón; 2-3; Saprissa     
+
+Round: 14 
+Date: 4/18/2009
+
+; Liberia      ; 3-2; Alajuelense    
+; UCR          ; 1-3; Saprissa    
+
+Date: 4/19/2009
+
+; Carmelita    ; 1-3; Brujas       
+; Ramonense    ; 1-1; Puntarenas  
+; Herediano    ; 3-0; Cartaginés   
+; San Carlos   ; 3-1; Pérez Zeledón
+
+Round: 15 
+Date: 4/26/2009
+
+; Carmelita    ; 1-1; Alajuelense  
+; Puntarenas   ; 0-0; Liberia      
+; Brujas       ; 1-0; Ramonense    
+; Saprissa     ; 2-0; San Carlos   
+; Cartaginés   ; 0-0; UCR          
+; Herediano    ; 0-0; Pérez Zeledón
+
+Round: 16 
+Date: 5/3/2009
+
+; Alajuelense  ; 0-2; Ramonense    
+; Brujas       ; 4-0; Puntarenas   
+; Liberia      ; 2-0; Carmelita    
+; Saprissa     ; 0-0; Cartaginés   
+; Pérez Zeledón; 4-0; UCR          
+; San Carlos   ; 3-0; Herediano    
 
 
 *Grupo A
@@ -446,41 +585,53 @@ San Carlos    3-0 Herediano
 * 5.San Carlos FC              16   4  6  6  18-17  18
 * 6.Universidad de Costa Rica  16   3  1 12  11-28  10
 
-Quarterfinals
+Round: Quarterfinals
 
-First Legs 
-[May 6]
-Ramonense     abd Herediano       [abandoned at 0-0 at half-time due
-Pérez Zeledón 1-2 Liberia          to power failure]
-[May 7]
-Ramonense     0-1 Herediano       [second half]
+*First Legs 
+Date: 5/6/2009
+*Ramonense     abd Herediano       [abandoned at 0-0 at half-time due to power failure]
+; Pérez Zeledón; 1-2; Liberia          
 
-Second Legs [May 10]
-Herediano     2-2 Ramonense 
-Liberia       1-0 Pérez Zeledón
+Date: 5/7/2009
 
-Semifinals
+; Ramonense    ; 0-1; Herediano       
+*[second half]
 
-First Legs 
-[May 13]
-Liberia       1-1 Saprissa   
-[May 14]
-Herediano     3-1 Brujas   
+*Second Legs 
+Date: 5/10/2009
 
-Second Legs [May 17]
-Brujas        1-3 Herediano     
-Saprissa      0-1 Liberia
+; Herediano    ; 2-2; Ramonense 
+; Liberia      ; 1-0; Pérez Zeledón
 
-Final
+Round: Semifinals
 
-First Leg [May 24]
-Liberia       0-0 Herediano     
+*First Legs 
+Date: 5/13/2009
+; Liberia      ; 1-1; Saprissa   
 
-Second Legs [May 26]
-Herediano     0-3 Liberia
+Date: 5/14/2009
 
-NB: Liberia champions Clausura 2008/09
+; Herediano    ; 3-1; Brujas   
 
+*Second Legs 
+Date: 5/17/2009
+
+; Brujas       ; 1-3; Herediano     
+; Saprissa     ; 0-1; Liberia
+
+Round: Final
+
+*First Leg 
+Date: 5/24/2009
+
+; Liberia      ; 0-0; Herediano     
+
+*Second Legs 
+Date: 5/26/2009
+
+; Herediano    ; 0-3; Liberia
+
+*NB: Liberia champions Clausura 2008/09
 
 
 *Relegation Table:

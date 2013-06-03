@@ -1,8 +1,8 @@
 Competition: Salvadoran Primera División
 BlockSource: http://www.rsssf.com/tablese/elsal09.html
-Season: 2008-2009
 
-*Apertura 2008
+Season: 2008 Apertura
+
 * 1.CD Águila               18 10  4  4 39-19 34  Qualified  [San Miguel]
 * 2.CD Isidro Metapán       18  8  7  3 33-21 31  Qualified  [Metapán]
 * 3.CD FAS                  18  8  6  4 27-22 30  Qualified  [Santa Ana]
@@ -15,162 +15,176 @@ Season: 2008-2009
 * 9.Alianza FC              18  4  5  9 19-25 17  [San Salvador]
 *10.Nejapa FC               18  2  5 11 16-34 11  [Nejapa]
 
-*Round 1 [Aug 2]
+Round: 1
 Date: 8/2/2008
+
 ; J. Independiente; 0-3; Vista Hermosa   
 ; Balboa          ; 1-2; Alianza         
 ; Nejapa          ; 1-6; Águila           
 ; Firpo           ; 0-0; Isidro Metapán  
 ; FAS             ; 2-2; Chalatenango     
 
-*Round 2 [Aug 6]
+Round: 2
 Date: 8/6/2008
+
 ; Vista Hermosa   ; 1-1; Firpo            
 ; Chalatenango    ; 1-1; Balboa          
 ; Isidro Metapán  ; 2-1; Nejapa          
 ; Alianza         ; 3-1; J. Independiente
 ; Águila          ; 3-1; FAS              
 
-*Round 3 [Aug 9]
+Round: 3
 Date: 8/9/2008
+
 ; J. Independiente; 0-0; Chalatenango     
 ; Balboa          ; 1-3; Águila          
 ; Nejapa          ; 0-2; FAS             
 ; Isidro Metapán  ; 3-0; Vista Hermosa    
 ; Firpo           ; 1-2; Alianza          
 
-*Round 4 [Aug 23]
+Round: 4
 Date: 8/23/2008
+
 ; Vista Hermosa   ; 0-0; Nejapa          
 ; Chalatenango    ; 2-1; Firpo            
 ; Alianza         ; 1-1; Isidro Metapán  
 ; FAS             ; 1-1; Balboa          
 ; Águila          ;10-0; J. Independiente
 
-*Round 5 
-*[Aug 26]
+Round: 5 
+
 8/26/2009; Firpo           ; 2-3; Águila          
-*[Aug 27]
+
 Date: 8/27/2008
+
 ; Vista Hermosa   ; 4-2; Alianza         
 ; J. Independiente; 2-1; FAS              
 ; Nejapa          ; 2-1; Balboa    
-*[Sep 17]      
+
 9/17/2009; Isidro Metapán  ; 3-1; Chalatenango    
 
-*Round 6 [Aug 30]
+Round: 6
 Date: 8/30/2008
+
 ; Chalatenango    ; 2-2; Vista Hermosa   
 ; Balboa          ; 3-7; J. Independiente
 ; Alianza         ; 0-0; Nejapa          
 ; Águila          ; 1-1; Isidro Metapán   
 ; FAS             ; 2-3; Firpo            
 
-*Round 7 [Sep 13]
+Round: 7
 Date: 9/13/2008
+
 ; Vista Hermosa   ; 1-1; Águila           
 ; Nejapa          ; 1-1; J. Independiente 
 ; Alianza         ; 0-1; Chalatenango     
 ; Isidro Metapán  ; 2-2; FAS              
 ; Firpo           ; 0-0; Balboa           
 
-*Round 8 [Sep 20]
+Round: 8
 Date: 9/20/2008
+
 ; J. Independiente; 0-0; Firpo            
 ; Balboa          ; 1-0; Isidro Metapán  
 ; Nejapa          ; 3-1; Chalatenango     
 ; Águila          ; 1-0; Alianza          
 ; FAS             ; 1-0; Vista Hermosa    
 
-*Round 9 [Sep 27]
+Round: 9
 Date: 9/27/2008
+
 ; Chalatenango    ; 1-0; Águila          
 ; Alianza         ; 0-1; FAS        
 ; Vista Hermosa   ; 2-1; Balboa   
 ; Isidro Metapán  ; 4-1; J. Independiente 
 ; Firpo           ; 2-0; Nejapa          
 
-*Round 10 
-*[Oct 4]
+Round: 10 
 Date: 10/4/2008
+
 ; Chalatenango    ; 2-3; FAS             
 ; Isidro Metapán  ; 2-2; Firpo            
 ; Alianza         ; 2-3; Balboa   
-* [Oct 12]
+
 10/12/2008; Águila          ; 2-0; Nejapa            
-* [Nov 5]
+
 11/5/2008; Vista Hermosa   ; 0-2; J. Independiente       
 
-*Round 11 
-[Oct 25]
+Round: 11 
+
 10/25/2008; Vista Hermosa   ; 0-0; Isidro Metapán      
 10/25/2008; Águila          ; 1-1; Balboa       
-*[Oct 26] 
 10/26/2008; Chalatenango    ; 2-2; J. Independiente 
 10/26/2008; Alianza         ; 0-2; Firpo            
 10/26/2008; FAS             ; 2-2; Nejapa           
 
-*Round 13 
-*[Oct 29]
+Round: 13 
 Date: 10/29/2008
+
 ; Chalatenango    ; 3-2; Isidro Metapán   
 ; Balboa          ; 2-1; Nejapa           
 ; Alianza         ; 1-1; Vista Hermosa    
 ; FAS             ; 2-0; J. Independiente
-*[Nov 5]
+
 11/5/2008; Águila          ; 3-2; Firpo           
 
-*Round 12 [Nov 1]
+Round: 12
 Date: 11/1/2008
+
 ; J. Independiente; 1-2; Águila           
 ; Balboa          ; 2-2; FAS              
 ; Nejapa          ; 0-2; Vista Hermosa    
 ; Isidro Metapán  ; 2-1; Alianza          
 ; Firpo           ; 0-0; Chalatenango     
 
-* Round 14 
-*[Nov 8]
+Round: 14 
 Date: 11/8/2008
+
 ; Vista Hermosa   ; 2-0; Chalatenango       
 ; Nejapa          ; 1-2; Alianza          
 ; Isidro Metapán  ; 4-1; Águila           
 ; Firpo           ; 1-2; FAS      
-*[Nov 9]       
+
 11/9/2008; J. Independiente; 0-0; Balboa         
 
-*Round 16 [Nov 12]
+Round: 16
 Date: 11/12/2008
+
 ; J. Independiente; 2-2; Alianza          
 ; Balboa          ; 2-2; Chalatenango     
 ; Nejapa          ; 2-3; Isidro Metapán   
 ; Firpo           ; 1-0; Vista Hermosa    
 ; FAS             ; 1-0; Águila           
 
-*Round 15 [Nov 15]
+Round: 15
 Date: 11/15/2008
+
 ; Chalatenango    ; 1-0; Alianza          
 ; Balboa          ; 0-0; Firpo           
 ; J. Independiente; 1-1; Nejapa           
 ; Águila          ; 1-0; Vista Hermosa    
 ; FAS             ; 1-1; Isidro Metapán   
 
-*Round 17 
-*[Nov 23]
+Round: 17 
 Date: 11/23/2008
+
 ; Vista Hermosa   ; 1-0; FAS              
 ; Firpo           ; 0-1; J. Independiente 
 ; Isidro Metapán  ; 2-3; Balboa          
 ; Chalatenango    ; 3-1; Nejapa   
-*[Nov 26]       
+
 11/26/2008; Alianza         ; 1-1; Águila          
 
-*Round 18 [Nov 30]
+Round: 18
 Date: 11/30/2008
+
 ; Balboa          ; 0-1; Vista Hermosa   
 ; J. Independiente; 0-1; Isidro Metapán   
-; Nejapa           awd Firpo           [awarded; 0-2;; match abandoned at 0-0  
-; Águila          ; 0-1; Chalatenango     due to crowd trouble caused by
-; FAS             ; 1-0; Alianza          Firpo fans]
+; Nejapa       ; 0-2;     Firpo           
+Notes: awarded; 0-2; abandoned at 0-0 due to crowd trouble from Firpo fans
+
+; Águila          ; 0-1; Chalatenango     
+; FAS             ; 1-0; Alianza          
 
 *Final Table:
 * 1.CD Águila               18 10  4  4 39-19 34  Qualified  [San Miguel]
@@ -188,12 +202,10 @@ Date: 11/30/2008
 Round: Semifinals
 
 *First Legs
-*[Dec 6]
 12/6/2008; Isidro Metapán  ; 1-3; FAS
-*[Dec 7]
 12/7/2008; Chalatenango    ; 3-0; Águila
 
-*Second Legs [Dec 14]
+*Second Legs
 12/14/2008; FAS             ; 1-3; Isidro Metapán
 12/14/2008; Águila          ; 1-0; Chalatenango
 
@@ -207,8 +219,8 @@ Carlos Ayala 48, Lester Blanco 63, Amílcar Ramírez 100;  Dagoberto Portillo (p
 * penalties: Hermes Martínez (miss) 0-0, Dagoberto Portillo  0-1;  Amílcar Ramírez        1-1, Williams Reyes      1-2;  Carlos Ayala           2-2, Paolo Suárez (miss) 2-2;  Fredy Víchez (miss)    2-2, Álex Escobar        2-3;  José Luis Osorio       3-3, Erick Dowson Prado  3-4]
 
 
+Season: 2009 Clausura
 
-*Clausura 2009
 * 1.CD Isidro Metapán       18 10  5  3 27-14 35  Qualified  [Metapán]
 * 2.Luis Ángel Firpo        18  8  5  5 25-15 29  Qualified  [Usulután]
 * 3.CD FAS                  18  8  5  5 24-17 29  Qualified  [Santa Ana]
@@ -221,161 +233,191 @@ Carlos Ayala 48, Lester Blanco 63, Amílcar Ramírez 100;  Dagoberto Portillo (p
 * 9.Atlético Balboa         18  3  8  7 18-23 17  [La Unión]
 *10.Juventud Independiente  18  3  3 12 11-31 12  [San Juan Opico]
 
-*Round 1
-* [Jan 31]
+
+Round: 1
 Date: 1/31/2009
+
 ; Vista Hermosa   ; 0-2; FAS   
 ; Isidro Metapán  ; 2-0; Balboa
 ; Firpo           ; 2-1; Águila
-*[Feb 1]
+
 2/1/2009; Nejapa          ; 0-0; J. Independiente
 2/1/2009; Alianza         ; 1-1; Chalatenango 
 
-*Round 2
-*[Feb 7]
+Round: 2
+
 2/7/2009; Balboa          ; 1-1; Firpo  
 2/7/2009; Águila          ; 1-0; Alianza 
-*[Feb 8]
+
 Date: 2/8/2009
+
 ; FAS             ; 1-3; Isidro Metapán
 ; J. Independiente; 2-0; Vista Hermosa 
 ; Chalatenango    ; 2-3; Nejapa 
 
-*Round 3
-[Feb 14]
-Firpo            2-0 Alianza 
-Vista Hermosa    1-1 Chalatenango 
-Isidro Metapán   3-2 J. Independiente 
-Balboa           1-0 FAS    
-[Feb 15] 
-Nejapa           1-0 Águila 
+Round: 3
+Date: 2/14/2009
 
-*Round 4 [Feb 18]
+; Firpo           ; 2-0; Alianza 
+; Vista Hermosa   ; 1-1; Chalatenango 
+; Isidro Metapán  ; 3-2; J. Independiente 
+; Balboa          ; 1-0; FAS    
+
+Date: 2/15/2009
+
+; Nejapa          ; 1-0; Águila 
+
+Round: 4
 Date: 2/18/2009
-J. Independiente 4-2 Balboa  
-Chalatenango     1-1 Isidro Metapán  
-FAS              0-0 Firpo   
-Alianza          1-1 Nejapa  
-Águila           3-1 Vista Hermosa  
 
-*Round 5
-[Feb 21]
-Vista Hermosa    1-0 Alianza  
-Isidro Metapán   1-0 Águila  
-Firpo            0-1 Nejapa 
-Balboa           0-1 Chalatenango 
-[Feb 22]
-FAS              3-0 J. Independiente  
+; J. Independiente; 4-2; Balboa  
+; Chalatenango    ; 1-1; Isidro Metapán  
+; FAS             ; 0-0; Firpo   
+; Alianza         ; 1-1; Nejapa  
+; Águila          ; 3-1; Vista Hermosa  
 
-*Round 6 [Feb 25]
+Round: 5
+Date: 2/21/2009
+
+; Vista Hermosa   ; 1-0; Alianza  
+; Isidro Metapán  ; 1-0; Águila  
+; Firpo           ; 0-1; Nejapa 
+; Balboa          ; 0-1; Chalatenango 
+
+
+2/22/2009; FAS             ; 3-0; J. Independiente  
+
+Round: 6
 Date: 2/25/2009
-J. Independiente 1-1 Firpo  
-Chalatenango     3-2 FAS     
-Águila           0-0 Balboa  
-Alianza          1-1 Isidro Metapán  
-Nejapa           1-1 Vista Hermosa 
 
-*Round 7
-[Feb 28]
-Isidro Metapán   2-2 Nejapa  
-Firpo            2-1 Vista Hermosa 
-[Mar 1]
-Balboa           0-0 Alianza  
-J. Independiente 0-1 Chalatenango 
-FAS              1-1 Águila 
+; J. Independiente; 1-1; Firpo  
+; Chalatenango    ; 3-2; FAS     
+; Águila          ; 0-0; Balboa  
+; Alianza         ; 1-1; Isidro Metapán  
+; Nejapa          ; 1-1; Vista Hermosa 
 
-*Round 8 [Mar 4]
+Round: 7
+Date: 2/28/2009
+
+; Isidro Metapán  ; 2-2; Nejapa  
+; Firpo           ; 2-1; Vista Hermosa 
+
+Date: 3/1/2009
+
+; Balboa          ; 0-0; Alianza  
+; J. Independiente; 0-1; Chalatenango 
+; FAS             ; 1-1; Águila 
+
+Round: 8
 Date: 3/4/2009
-Vista Hermosa    0-1 Isidro Metapán  
-Firpo            2-0 Chalatenango  
-Águila           1-0 J. Independiente 
-Alianza          1-1 FAS     
-Nejapa           0-0 Balboa  
 
-*Round 9
-[Mar 7]
-Isidro Metapán   0-1 Firpo  
-[Mar 8] 
-FAS              1-0 Nejapa 
-Balboa           1-3 Vista Hermosa 
-Chalatenango     2-2 Águila 
-J. Independiente 0-1 Alianza 
+; Vista Hermosa   ; 0-1; Isidro Metapán  
+; Firpo           ; 2-0; Chalatenango  
+; Águila          ; 1-0; J. Independiente 
+; Alianza         ; 1-1; FAS     
+; Nejapa          ; 0-0; Balboa  
 
-*Round 10
-[Mar 21]
-FAS              2-1 Vista Hermosa 
-Águila           2-0 Firpo  
-Balboa           1-1 Isidro Metapán
-[Mar 22]
-J. Independiente 1-2 Nejapa 
-Chalatenango     1-0 Alianza 
+Round: 9
 
-*Round 11 
-[Apr 4]
-Firpo            0-0 Balboa  
-Isidro Metapán   0-0 FAS     
-Alianza          1-2 Águila 
-[Apr 5]
-Vista Hermosa    1-0 J. Independiente 
-Nejapa           2-2 Chalatenango 
+3/7/2009; Isidro Metapán  ; 0-1; Firpo  
 
-*Round 12 [Apr 8]
+Date: 3/8/2009
+
+; FAS             ; 1-0; Nejapa 
+; Balboa          ; 1-3; Vista Hermosa 
+; Chalatenango    ; 2-2; Águila 
+; J. Independiente; 0-1; Alianza 
+
+Round: 10
+Date: 3/21/2009
+
+; FAS             ; 2-1; Vista Hermosa 
+; Águila          ; 2-0; Firpo  
+; Balboa          ; 1-1; Isidro Metapán
+
+Date: 3/22/2009
+; J. Independiente; 1-2; Nejapa 
+; Chalatenango    ; 1-0; Alianza 
+
+Round: 11 
+Date: 4/4/2009
+
+; Firpo           ; 0-0; Balboa  
+; Isidro Metapán  ; 0-0; FAS     
+; Alianza         ; 1-2; Águila 
+
+Date: 4/5/2009
+
+; Vista Hermosa   ; 1-0; J. Independiente 
+; Nejapa          ; 2-2; Chalatenango 
+
+Round: 12
 Date: 4/8/2009
-FAS              1-1 Balboa  
-Águila           0-1 Nejapa 
-J. Independiente 0-2 Isidro Metapán 
-Chalatenango     2-1 Vista Hermosa  
-Alianza          1-0 Firpo  
 
-*Round 13 [Apr 15]
+; FAS             ; 1-1; Balboa  
+; Águila          ; 0-1; Nejapa 
+; J. Independiente; 0-2; Isidro Metapán 
+; Chalatenango    ; 2-1; Vista Hermosa  
+; Alianza         ; 1-0; Firpo  
+
+Round: 13
 Date: 4/15/2009
-Balboa           2-0 J. Independiente
-Vista Hermosa    3-1 Águila  
-Firpo            0-1 FAS     
-Isidro Metapán   1-0 Chalatenango  
-Nejapa           0-0 Alianza 
 
-*Round 14
-[Apr 18]
-Águila           2-4 Isidro Metapán  
-[Apr 19]
-Nejapa           2-1 Firpo  
-J. Independiente 1-0 FAS     
-Chalatenango     2-0 Balboa  
-Alianza          1-2 Vista Hermosa 
+; Balboa          ; 2-0; J. Independiente
+; Vista Hermosa   ; 3-1; Águila  
+; Firpo           ; 0-1; FAS     
+; Isidro Metapán  ; 1-0; Chalatenango  
+; Nejapa          ; 0-0; Alianza 
 
-*Round 15 [Apr 22]
+Round: 14
+Date: 4/18/2009
+
+; Águila          ; 2-4; Isidro Metapán  
+
+Date: 4/19/2009
+
+; Nejapa          ; 2-1; Firpo  
+; J. Independiente; 1-0; FAS     
+; Chalatenango    ; 2-0; Balboa  
+; Alianza         ; 1-2; Vista Hermosa 
+
+Round: 15
 Date: 4/22/2009
-Balboa           5-1 Águila  
-Vista Hermosa    1-1 Nejapa  
-Firpo            7-0 J. Independiente 
-FAS              3-0 Chalatenango  
-Isidro Metapán   0-1 Alianza 
 
-*Round 16
-[Apr 25]
-Águila           3-2 FAS     
-[Apr 26]
-Vista Hermosa    3-4 Firpo   
-Nejapa           1-2 Isidro Metapán 
-Chalatenango     0-0 J. Independiente  
-Alianza          2-2 Balboa 
+; Balboa          ; 5-1; Águila  
+; Vista Hermosa   ; 1-1; Nejapa  
+; Firpo           ; 7-0; J. Independiente 
+; FAS             ; 3-0; Chalatenango  
+; Isidro Metapán  ; 0-1; Alianza 
 
-*Round 17 [May 3]
+Round: 16
+
+4/25/2009; Águila          ; 3-2; FAS     
+
+Date: 4/26/2009
+
+; Vista Hermosa   ; 3-4; Firpo   
+; Nejapa          ; 1-2; Isidro Metapán 
+; Chalatenango    ; 0-0; J. Independiente  
+; Alianza         ; 2-2; Balboa 
+
+Round: 17
 Date: 5/3/2009
-Isidro Metapán   3-0 Vista Hermosa  
-Chalatenango     1-1 Firpo   
-J. Independiente 0-3 Águila  
-FAS              2-1 Alianza  
-Balboa           1-2 Nejapa 
 
-*Round 18 [May 10]
+; Isidro Metapán  ; 3-0; Vista Hermosa  
+; Chalatenango    ; 1-1; Firpo   
+; J. Independiente; 0-3; Águila  
+; FAS             ; 2-1; Alianza  
+; Balboa          ; 1-2; Nejapa 
+
+Round: 18
 Date: 5/10/2009
-Águila           2-1 Chalatenango  
-Alianza          2-0 J. Independiente  
-Nejapa           1-2 FAS     
-Vista Hermosa    3-1 Balboa  
-Firpo            1-0 Isidro Metapán 
+
+; Águila          ; 2-1; Chalatenango  
+; Alianza         ; 2-0; J. Independiente  
+; Nejapa          ; 1-2; FAS     
+; Vista Hermosa   ; 3-1; Balboa  
+; Firpo           ; 1-0; Isidro Metapán 
 
 * 1.CD Isidro Metapán       18 10  5  3 27-14 35  Qualified  [Metapán]
 * 2.Luis Ángel Firpo        18  8  5  5 25-15 29  Qualified  [Usulután]
@@ -391,20 +433,17 @@ Firpo            1-0 Isidro Metapán
 
 Round: Semifinals
 
-*First Legs [May 13]
+*First Legs
 5/13/2009; Firpo           ; 0-0; FAS
 5/13/2009; Isidro Metapán  ; 5-0; Nejapa
 
 *Second Legs 
-*[May 16]
 5/16/2009; FAS             ; 2-2; Firpo
-*[May 17]
 5/16/2009; Nejapa          ; 0-1; Isidro Metapán
 
 *NB: Firpo qualified on better season record
 
 Round: Final
-*Final [May 24, Estadio Cuscatlán, San Salvador]
 
 5/24/2009; Isidro Metapán  ; 1-0; Firpo; Estadio Cuscatlan
 Alexander Amaya del Cid 58;

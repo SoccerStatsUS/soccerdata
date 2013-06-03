@@ -106,24 +106,28 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-    load_mls() 
-    return
-
-
-    load_uruguay()
-
     load_mexico()
+    return
+    load_uncaf()
+
+    load_concacaf()
+    load_cfu()
+    load_colombia()
+    return
+    load_usa_cups()
+    load_mls() 
 
 
+    # load_conmebol()
+    load_uruguay()
     load_argentina()
     load_brazil()
-    load_colombia()
 
     load_chile()
 
 
 
-    load_modern_cups()
+
     load_usl()
     load_ltrack()
     load_pdl()
@@ -134,14 +138,13 @@ def load_games():
     load_asl2()           
     load_apsl()
 
-    load_uncaf()
+
 
 
 
     load_world_international()
     load_nafbl()
 
-    load_early_cups()
 
     load_mixed_confederation()
 
@@ -149,7 +152,7 @@ def load_games():
     load_world()
 
 
-    load_concacaf()
+
     load_conmebol()
     load_oceania()
 
@@ -164,7 +167,7 @@ def load_games():
     load_canada()
 
 
-    load_cfu()
+
 
     load_conmebol_international()
     load_concacaf_international()
@@ -282,23 +285,19 @@ def load_usmnt():
     generic_load(soccer_db.usa_awards, awards.load_hall_of_fame)
 
 
-def load_early_cups():
+def load_usa_cups():
 
     generic_load(soccer_db.us_cups_awards, awards.process_american_cup_awards)
     generic_load(soccer_db.us_cups_awards, awards.process_us_open_cup_awards, delete=False)
     generic_load(soccer_db.us_cups_awards, awards.process_lewis_cup_awards, delete=False)
 
-    load_games_standard('us_cups', 'domestic/country/usa/cups/american')
-    load_games_standard('us_cups', 'domestic/country/usa/cups/american2')
+    load_games_standard('us_cups', 'domestic/country/usa/cups/afa')
+    load_games_standard('us_cups', 'domestic/country/usa/cups/afa2')
     load_games_standard('us_cups', 'domestic/country/usa/cups/lewis')
+    load_games_standard('us_cups', 'domestic/country/usa/cups/duffy')
+    load_games_standard('us_cups', 'domestic/country/usa/cups/aafa')
 
-    for e in range(191, 197):
-        load_games_standard('us_cups', 'domestic/country/usa/cups/open/%s0' % e)#, games_only=True)
-
-
-def load_modern_cups():
-
-    for e in range(197, 202):
+    for e in range(191, 202):
         load_games_standard('us_cups', 'domestic/country/usa/cups/open/%s0' % e)#, games_only=True)
 
 
@@ -320,7 +319,6 @@ def load_canada():
 
 
 def load_uncaf():
-    load_standings_standard('uncaf', 'domestic/country/elsalvador2')
 
     generic_load(soccer_db.uncaf_awards, awards.process_uncaf_awards)
 
@@ -331,30 +329,43 @@ def load_uncaf():
     # Guatemala
     load_standings_standard('uncaf', 'domestic/country/guatemala3')
     #generic_load(soccer_db.uncaf_awards, awards.process_guatemala_awards)
-    #load_games_standard('guatemala', 'domestic/country/guatemala/guatemala')
+    load_games_standard('uncaf', 'domestic/country/guatemala/guatemala')
+    for e in range(2006, 2010):
+        load_games_standard('uncaf', 'domestic/country/guatemala/%s' % e)
 
     # Honduras
     load_standings_standard('uncaf', 'domestic/country/honduras')
     generic_load(soccer_db.uncaf_awards, awards.process_honduras_awards)
+    for e in range(2006, 2012):
+        load_games_standard('uncaf', 'domestic/country/honduras/%s' % e)
 
     # Costa Rica
     #generic_load(soccer_db.uncaf_awards, awards.process_costa_rica_awards)
     load_standings_standard('uncaf', 'domestic/country/costarica2')
     load_standings_standard('uncaf', 'domestic/country/costarica3')
+    for e in range(2006, 2012):
+        load_games_standard('uncaf', 'domestic/country/costa_rica/league/%s' % e)
+
 
     # Panama
     #generic_load(soccer_db.panama_awards, awards.process_panama_awards)
     load_standings_standard('uncaf', 'domestic/country/panama')
+    for e in range(2009, 2013):
+        load_games_standard('uncaf', 'domestic/country/panama/%s' % e)
 
     # Nicaragua
-    #generic_load(soccer_db.panama_awards, awards.process_panama_awards)
+    load_standings_standard('uncaf', 'domestic/country/nicaragua')
+    #generic_load(soccer_db.panama_awards, awards.process_nicaragua_awards)
 
     # El Salvador
-    #generic_load(soccer_db.panama_awards, awards.process_panama_awards)
+    #generic_load(soccer_db.panama_awards, awards.process_elsalvador_awards)
+    load_standings_standard('uncaf', 'domestic/country/elsalvador2')
+    for e in range(2006, 2013):
+        load_games_standard('uncaf', 'domestic/country/el_salvador/%s' % e)
 
     # Belize
     #load_standings_standard('uncaf', 'domestic/country/belize')
-    load_standings_standard('uncaf', 'domestic/country/nicaragua')
+
 
 
 def load_uruguay():
@@ -775,9 +786,7 @@ def load_mexico():
     load_new_standings('mexico', 'domestic/country/mexico/short', ';')
     load_new_standings('mexico', 'domestic/country/mexico/primera_fuerza')
 
-    load_games_standard('mexico', 'domestic/country/mexico/interliga')
-    load_games_standard('mexico', 'domestic/country/mexico/pre_libertadores')
-
+    # league
     load_games_standard('mexico', 'domestic/country/mexico/league/1943')
     load_games_standard('mexico', 'domestic/country/mexico/league/1963')
     load_games_standard('mexico', 'domestic/country/mexico/league/1964')
@@ -787,9 +796,13 @@ def load_mexico():
     for e in range(1970, 1996):
         load_games_standard('mexico', 'domestic/country/mexico/league/%s' % e)
 
-    load_games_standard('mexico', 'domestic/country/mexico/league/2009')
-    load_games_standard('mexico', 'domestic/country/mexico/league/2010')
-    load_games_standard('mexico', 'domestic/country/mexico/league/2011')
+    for e in range(2004, 2012):
+        load_games_standard('mexico', 'domestic/country/mexico/league/%s' % e)
+
+    return
+
+    load_games_standard('mexico', 'domestic/country/mexico/interliga')
+    load_games_standard('mexico', 'domestic/country/mexico/pre_libertadores')
 
     # Cups
     load_games_standard('mexico', 'domestic/country/mexico/super')
@@ -1077,8 +1090,13 @@ def load_concacaf():
     generic_load(soccer_db.concacaf_awards, awards.process_concacaf_awards)
 
     load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/2000')
-    for e in '6789':
-        load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/19%s0' % e)
+    
+    # Unicode problem on 1960 Champions Cup data.
+    for e in '789':
+        try:
+            load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/19%s0' % e)
+        except:
+            import pdb; pdb.set_trace()
 
 
 

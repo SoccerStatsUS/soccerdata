@@ -11,12 +11,52 @@ magic_names = {
         ('Jorge Villafaña', {'team': 'Chivas USA Reserves' }),
         ],
 
+
     #'Chris Brown': [
     #    'Chris Brown 1971': {'team': 'FC Dallas' }
     }
 
+
+# Use a partial?
+def from_competition(competition):
+    return lambda d: d['competition'] == competition
+
+magic_teams = {
+    'Olimpia': [
+        (from_competition('Liga Nacional de Honduras'), 'CD Olimpia'),
+        ],
+
+    'Necaxa': [
+        (from_competition('Liga Nacional de Honduras'), 'CD Necaxa'),
+        ],
+
+    'Santos': [
+        (from_competition('Liga MX'), 'Santos Laguna'),
+        ],
+
+    'Estudiantes': [
+        (from_competition('Liga MX'), 'Tecos'),
+        ],
+    }
+
+
+
+def get_magic_team(team, data):
+
+
+    if team not in magic_teams:
+        return team
+    else:
+        candidates = magic_teams[team]
+        for pred, nteam in candidates:
+            if pred(data):
+                return nteam
+    return team
+
+
 def get_magic_name(name, magic_d):
     # Confusing.
+    # Just pass a predicate function?
 
     if name not in magic_names:
         return name
@@ -66,6 +106,8 @@ def denormalize():
     print("Denormalizing games"    )
     l = []
     for e in soccer_db.games.find():
+        e['team1'] = get_magic_team(e['team1'], e)
+        e['team2'] = get_magic_team(e['team2'], e)
         e['team1_original_name'] = team_name_ungetter(e['team1'], e['date'])
         e['team2_original_name'] = team_name_ungetter(e['team2'], e['date'])
 
@@ -90,6 +132,7 @@ def denormalize():
     print("Denormalizing goals")
     l = []
     for goal in soccer_db.goals.find():
+        goal['team'] = get_magic_team(goal['team'], goal)
         goal['goal'] = get_magic_name(goal['goal'], goal)
         if goal['date']:
             goal['team_original_name'] = team_name_ungetter(goal['team'], goal['date'])
@@ -103,6 +146,7 @@ def denormalize():
     print("Denormalizing stats")
     l = []
     for stat in soccer_db.stats.find():
+        stat['team'] = get_magic_team(stat['team'], stat)
         stat['name'] = get_magic_name(stat['name'], stat)
         l.append(stat)
 
@@ -117,6 +161,7 @@ def denormalize():
         if lineup['date'] == datetime.datetime(2012, 8, 7) and lineup['team'] == 'Chivas USA Reserves' and 'Jorge' in lineup['name']:
             import pdb; pdb.set_trace()
 
+        lineup['team'] = get_magic_team(lineup['team'], lineup)
         lineup['name'] = get_magic_name(lineup['name'], lineup)
         lineup['team_original_name'] = team_name_ungetter(lineup['team'], lineup['date'])
         lineups.append(lineup)

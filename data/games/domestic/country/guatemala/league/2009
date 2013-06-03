@@ -18,7 +18,6 @@ Season: 2009 Apertura
 * 12.Peñarol La Mesilla         22  4  4 14  22-37  16
  
 Round: 1
-
 Date: 8/1/2009
 
 ; Marquense            ; 0-0; Comunicaciones
@@ -32,7 +31,6 @@ Date: 8/2/2009
 ; Xelajú               ; 2-4; Suchitepéquez
 
 Round: 2
-
 Date: 8/8/2009
 
 ; Comunicaciones       ; 2-0; Peñarol La Mesilla
@@ -56,7 +54,6 @@ Date: 8/12/2009
 ; Xelajú               ; 2-1; Xinabajul
 
 Round: 4
-
 Date: 8/15/2009
 
 ; Comunicaciones       ; 0-0; Municipal
@@ -70,7 +67,6 @@ Date: 8/16/2009
 ; Zacapa               ; 2-5; Xelajú
 
 Round: 5
-
 Date: 8/22/2009
 
 ; Universidad          ; 1-1; Zacapa
@@ -83,8 +79,7 @@ Date: 8/23/2009
 ; Peñarol La Mesilla   ; 2-2; Marquense
 ; Xelajú               ; 1-1; Comunicaciones
 
-Round: 4
-
+Round: 6
 Date: 8/29/2009
 
 ; Marquense            ; 4-0; Heredia
@@ -98,7 +93,6 @@ Date: 8/30/2009
 ; Comunicaciones       ; 3-2; Universidad
 
 Round: 7
-
 Date: 9/5/2009
 
 ; Universidad          ; 1-0; Jalapa
@@ -122,7 +116,6 @@ Date: 9/9/2009
 ; Marquense            ; 1-1; Xelajú                
 
 Round: 9
-
 Date: 9/12/2009
 
 ; Universidad          ; 2-4; Marquense
@@ -136,7 +129,6 @@ Date: 9/13/2009
 ; Zacapa               ; 2-1; Jalapa                
 
 Round: 10
-
 Date: 9/19/2009
 
 ; Jalapa               ; 1-0; Comunicaciones        
@@ -150,7 +142,6 @@ Date: 9/20/2009
 ; Peñarol La Mesilla   ; 1-1; Universidad           
 
 Round: 11
-
 Date: 9/26/2009
 
 ; Universidad          ; 1-1; Heredia               
@@ -164,7 +155,6 @@ Date: 9/27/2009
 ; Zacapa               ; 2-1; Marquense             
 
 Round: 12
-
 Date: 10/3/2009
 
 ; Comunicaciones       ; 2-3; Marquense             
@@ -178,7 +168,6 @@ Date: 10/4/2009
 ; Zacapa               ; 2-1; Peñarol La Mesilla    
 
 Round: 13
-
 Date: 10/10/2009
 
 ; Marquense            ; 0-0; Jalapa                
@@ -212,7 +201,6 @@ Date: 10/18/2009
 ; Universidad          ; 2-0; Xinabajul             
 
 Round: 16
-
 Date: 10/24/2009
 
 ; Marquense            ; 2-1; Peñarol La Mesilla    
@@ -226,7 +214,6 @@ Date: 10/25/2009
 ; Zacapa               ; 1-1; Universidad           
 
 Round: 17
-
 Date: 10/30/2009
 
 ; Xelajú               ; 2-0; Jalapa                
@@ -243,7 +230,6 @@ Date: 11/1/2009
 ; Municipal            ; 1-1; Juventud Retalteca    
 
 Round: 18
-
 Date: 11/6/2009
 
 ; Jalapa               ; 1-0; Universidad           
@@ -270,7 +256,6 @@ Date: 11/11/2009
 ; Xinabajul            ; 0-0; Jalapa                
 
 Round: 20
-
 Date: 11/14/2009
 
 ; Marquense            ; 1-0; Universidad           
@@ -284,7 +269,6 @@ Date: 11/15/2009
 ; Peñarol La Mesilla   ; 0-1; Xelajú                
 
 Round: 21
-
 Date: 11/21/2009
 
 ; Universidad          ; 0-0; Peñarol La Mesilla    
@@ -324,17 +308,17 @@ Date: 11/29/2009
 * 11.USAC                       22  3  9 10  18-27  18
 * 12.Peñarol La Mesilla         22  4  4 14  22-37  16
 
-Playoff Stage
+*Playoff Stage
 
-Quarterfinals
+Round: Quarterfinals
 
-First Legs 
+*First Legs 
 Date: 12/2/2009
 
 ; Comunicaciones       ; 2-0; Marquense
 ; Juventud Retalteca   ; 4-2; Heredia
 
-Second Legs
+*Second Legs
 
 Date: 12/5/2009
 
@@ -344,9 +328,9 @@ Date: 12/6/2009
 
 ; Heredia              ; 5-0; Juventud Retalteca   
 
-Semifinals
+Round: Semifinals
 
-First Legs 
+*First Legs 
 
 Date: 12/9/2009
 
@@ -356,20 +340,20 @@ Date: 12/10/2009
 
 ; Comunicaciones       ; 0-0; Xelajú
 
-Second Legs 
+*Second Legs 
 Date: 12/13/2009
 
 ; Municipal            ; 1-0; Heredia
 ; Xelajú               ; 1-1; Comunicaciones
 
-Final
+Round: Final
 
-First Leg 
+*First Leg 
 Date: 12/17/2009
 
 ; Comunicaciones       ; 0-1; Municipal
 
-Second Leg 
+*Second Leg 
 Date: 12/20/2009
 
 ; Municipal            ; 0-0; Comunicaciones
@@ -703,11 +687,11 @@ Date: 4/25/2010
 * 11.Xinabajul                  22  5  8  9  25-36  23
 * 12.Deportivo Zacapa           22  6  3 13  24-34  21
 
-Playoff Stage
+*Playoff Stage
 
-Quarterfinals
+Round: Quarterfinals
 
-First Legs
+*First Legs
 
 Date: 4/28/2010
 
@@ -717,34 +701,34 @@ Date: 4/29/2010
 
 ; Universidad          ; 3-2; Municipal             
 
-Second Legs 
+*Second Legs 
 Date: 5/2/2010
 
 ; Suchitepéquez        ; 2-1; Peñarol La Mesilla    
 ; Municipal            ; 2-0; Universidad           
 
-Semifinals
+Round: Semifinals
 
-First Legs 
+Round: First Legs 
 Date: 5/6/2010
 
 ; Suchitepéquez        ; 2-0; Xelajú
 ; Municipal            ; 2-1; Comunicaciones
 
-Second Legs 
+*Second Legs 
 Date: 5/8/2010
 
 ; Xelajú               ; 2-0; Suchitepéquez         [3-1 pen]
 ; Comunicaciones       ; 1-1; Municipal
 
-Final
+Round: Final
 
-First Leg 
+*First Leg 
 Date: 5/13/2010
 
 ; Municipal            ; 3-1; Xelajú
 
-Second Leg 
+*Second Leg 
 Date: 5/15/2010
 
 ; Xelajú               ; 0-4; Municipal      

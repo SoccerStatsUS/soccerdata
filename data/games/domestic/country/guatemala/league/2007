@@ -20,7 +20,6 @@ Season: 2007 Apertura
 * 10.Petapa                     18  3 10  5  20-29  19
 
 Round: 1
-
 Date: 6/28/2007
 
 ; Jalapa        ; 1-1; Zacapa
@@ -305,7 +304,6 @@ Date: 1/13/2008
 ; Malacateco    ; 2-1; Marquense
 
 Round: 2
-
 Date: 1/19/2008
 
 ; Jalapa        ; 0-0; Xelajú
@@ -318,7 +316,6 @@ Date: 1/20/2008
 ; Municipal     ; 3-1; Suchitepéquez
 
 Round: 3
-
 Date: 1/26/2008
 
 ; Comunicaciones; 6-0; Heredia
@@ -331,7 +328,6 @@ Date: 1/27/2008
 ; Zacapa        ; 1-0; Marquense
 
 Round: 4
-
 Date: 2/1/2008
 
 ; Municipal     ; 3-1; Malacateco
@@ -347,7 +343,6 @@ Date: 2/3/2008
 ; Heredia       ; 1-1; Zacapa
 
 Round: 5
-
 Date: 2/9/2008
 
 ; Marquense     ; 3-2; Heredia
@@ -360,7 +355,6 @@ Date: 2/10/2008
 ; Zacapa        ; 2-0; Jalapa
 
 Round: 6
-
 Date: 2/15/2008
 
 ; Municipal     ; 1-0; Zacapa  
@@ -382,7 +376,6 @@ Date: 2/20/2008
 ; Marquense     ; 1-1; Municipal
 
 Round: 8
-
 Date: 2/23/2008
 
 ; Petapa        ; 1-0; Jalapa
@@ -395,7 +388,6 @@ Date: 2/24/2008
 ; Municipal     ; 1-0; Heredia
 
 Round: 9
-
 Date: 3/1/2008
 
 ; Marquense     ; 1-1; Xelajú   
@@ -408,7 +400,6 @@ Date: 3/2/2008
 ; Zacapa        ; 3-2; Malacateco   
 
 Round: 10
-
 Date: 3/7/2008
 
 ; Municipal     ; 0-1; Petapa    
@@ -424,7 +415,6 @@ Date: 3/9/2008
 ; Zacapa        ; 1-2; Comunicaciones
 
 Round: 11
-
 Date: 3/15/2008
 
 ; Comunicaciones; 1-2; Marquense    
@@ -437,7 +427,6 @@ Date: 3/16/2008
 ; Malacateco    ; 1-0; Heredia    
 
 Round: 12
-
 Date: 3/19/2008
 
 ; Heredia       ; 2-4; Comunicaciones
@@ -450,7 +439,6 @@ Date: 4/16/2008
 ; Municipal     ; 2-0; Xelajú   
 
 Round: 13
-
 Date: 3/29/2008
 
 ; Comunicaciones; 1-1; Jalapa 
@@ -463,7 +451,6 @@ Date: 3/30/2008
 ; Zacapa        ; 2-1; Heredia
 
 Round: 14
-
 Date: 4/5/2008
 
 ; Jalapa        ; 2-0; Zacapa        
@@ -476,7 +463,6 @@ Date: 4/6/2008
 ; Municipal     ; 1-1; Comunicaciones 
 
 Round: 15
-
 Date: 4/12/2008
 
 ; Marquense     ; 1-2; Jalapa 
@@ -489,7 +475,6 @@ Date: 4/13/2008
 ; Comunicaciones; 3-1; Suchitepéquez
 
 Round: 16
-
 Date: 4/19/2008
 
 ; Xelajú        ; 0-3; Comunicaciones
@@ -502,7 +487,6 @@ Date: 4/20/2008
 ; Municipal     ; 1-1; Marquense
 
 Round: 17
-
 Date: 4/26/2008
 
 ; Marquense     ; 2-0; Suchitepéquez  
@@ -572,7 +556,7 @@ Date: 5/15/2008
 
 ; Suchitepéquez ; 0-2; Comunicaciones
 
-Second Legs
+*Second Legs
 
 Date: 5/17/2008
 
@@ -584,12 +568,12 @@ Date: 5/18/2008
 
 Round: Final
 
-First Leg 
+*First Leg 
 Date: 5/22/2008
 
 ;  Municipal     ; 3-1; Comunicaciones
 
-Second Leg 
+*Second Leg 
 Date: 5/25/2008
 
 ; Comunicaciones; 2-1; Municipal

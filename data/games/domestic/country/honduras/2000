@@ -1,7 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesh/hond01.html
 
-Honduras 2000/01
-Apertura 
+Season: 2000 Apertura 
 
 * 1.Olimpia       18 12  3  3 44-21 39 
 * 2.Motagua       18  7  8  3 20-15 29
@@ -15,166 +14,227 @@ Apertura
 * 9.Marathón      18  4  6  8 20-25 18
 *10.Broncos       18  3  6  9  9-32 15  
 
-Round 1 
-[Sep 30]
-Espana        2-0 Broncos
-Platense      0-0 Vida
-[Oct 1]
-Savio         2-2 Victoria
-[Oct 25]
-Marathon      2-3 Olimpia
-[Nov 18]
-Universidad   1-2 Motagua
+Round: 1 
+Date: 9/30/2000
 
-Round 2 
-[Oct 7]
-Vida          0-0 Marathon     
-Victoria      2-0 Universidad
-Broncos       2-0 Platense
-[Nov 19]
-Olimpia       3-0 Espana
-[Nov 22]
-Motagua       1-0 Savio
+; Espana       ; 2-0; Broncos
+; Platense     ; 0-0; Vida
 
-Round 3 
-[Oct 14]
-Marathon      2-0 Broncos
-Platense      2-1 Victoria
-[Oct 15]
-Vida          1-3 Olimpia      
-Motagua       0-0 Espana
-Savio         1-2 Universidad
+Date: 10/1/2000
 
-Round 4 [Oct 18]
-Espana        2-2 Marathon              
-Broncos       0-6 Olimpia     
-Victoria      1-1 Motagua        
-Universidad   0-1 Vida
-Platense      2-2 Savio                  
+; Savio        ; 2-2; Victoria
 
-Round 5
-[Oct 21]
-Vida          3-0 Espana
-Motagua       1-1 Broncos     
-Universidad   1-0 Platense     
-[Oct 22]
-Marathon      0-2 Savio
-Olimpia       2-1 Victoria    
+Date: 10/25/2000
+
+; Marathon     ; 2-3; Olimpia
+
+Date: 11/18/2000
+
+; Universidad  ; 1-2; Motagua
+
+Round: 2 
+Date: 10/7/2000
+
+; Vida         ; 0-0; Marathon     
+; Victoria     ; 2-0; Universidad
+; Broncos      ; 2-0; Platense
+
+Date: 11/19/2000
+
+; Olimpia      ; 3-0; Espana
+
+Date: 11/22/2000
+
+; Motagua      ; 1-0; Savio
+
+Round: 3 
+Date: 10/14/2000
+
+; Marathon     ; 2-0; Broncos
+; Platense     ; 2-1; Victoria
+
+Date: 10/15/2000
+
+; Vida         ; 1-3; Olimpia      
+; Motagua      ; 0-0; Espana
+; Savio        ; 1-2; Universidad
+
+Round: 4 
+Date: 10/18/2000
+
+; Espana       ; 2-2; Marathon              
+; Broncos      ; 0-6; Olimpia     
+; Victoria     ; 1-1; Motagua        
+; Universidad  ; 0-1; Vida
+; Platense     ; 2-2; Savio                  
+
+Round: 5
+Date: 10/21/2000
+
+; Vida         ; 3-0; Espana
+; Motagua      ; 1-1; Broncos     
+; Universidad  ; 1-0; Platense     
+
+Date: 10/22/2000
+
+; Marathon     ; 0-2; Savio
+; Olimpia      ; 2-1; Victoria    
   
-Round 6
-[Oct 28]
-Espana        0-1 Universidad
-Victoria      1-1 Vida
-Platense      2-2 Marathon
-[Oct 29]
-Savio         0-0 Broncos
-Olimpia       2-1 Motagua
+Round: 6
+Date: 10/28/2000
 
-Round 7
-[Oct 7]
-Espana        2-1 Savio
-[Nov 4]
-Marathon      0-0 Victoria
-[Nov 5]
-Broncos       0-3 Vida
-Motagua       1-1 Platense
-[Nov 22]
-Universidad   2-5 Olimpia
+; Espana       ; 0-1; Universidad
+; Victoria     ; 1-1; Vida
+; Platense     ; 2-2; Marathon
 
-Round 8 [Nov 8]
-Savio         1-2 Olimpia
-Universidad   0-0 Marathon
-Vida          0-1 Motagua
-Victoria      4-0 Broncos
-Platense      1-1 Espana
+Date: 10/29/2000
 
-Round 9
-[Nov 11]
-Espana        2-1 Victoria
-Vida          1-2 Savio
-[Nov 12] 
-Broncos       0-0 Universidad
-Olimpia       3-1 Platense
-Marathon      0-1 Motagua
+; Savio        ; 0-0; Broncos
+; Olimpia      ; 2-1; Motagua
 
-Round 10 
-[Nov 25]
-Vida          0-3 Platense
-Olimpia       4-2 Marathon
-Victoria      2-1 Savio
-[Nov 26]
-Broncos       0-2 Espana
-Motagua       0-1 Universidad
+Round: 7
+Date: 10/7/2000
 
-Round 11
-[Nov 29]
-Universidad   0-1 Victoria
-Marathon      2-4 Vida
-Platense      4-1 Broncos
-[Nov 30]
-Espana        2-1 Olimpia
-Savio         2-2 Motagua
+; Espana       ; 2-1; Savio
 
-Round 12
-[Dec 6]
-Olimpia       4-1 Vida
-Broncos       1-0 Marathon
-Espana        1-1 Motagua
-Victoria      1-3 Platense
-[Dec 7]
-Universidad   3-0 Savio
+Date: 11/4/2000
 
-Round 13 [Dec 10]
-Marathon      1-2 Espana
-Motagua       3-1 Victoria
-Olimpia       1-1 Broncos
-Vida          2-1 Universidad
-Savio         3-2 Platense
+; Marathon     ; 0-0; Victoria
 
-Round 14
-[Dec 13]
-Broncos       2-1 Motagua
-Victoria      1-2 Olimpia
-[Dec 15]
-Savio         0-1 Marathon
-Espana        2-2 Vida
-Platense      4-0 Universidad
+Date: 11/5/2000
 
-Round 15
-[Dec 20]
-Universidad   1-1 Espana
-Marathon      1-2 Platense
-Vida          0-0 Victoria
-[Dec 21]
-Broncos       0-0 Savio
-Motagua       1-0 Olimpia
+; Broncos      ; 0-3; Vida
+; Motagua      ; 1-1; Platense
 
-Round 16
-[Dec 27]
-Victoria      1-3 Marathon
-Vida          3-0 Broncos
-[Dec 28]
-Platense      1-1 Motagua
-Olimpia       1-2 Universidad
-Savio         1-0 Espana        [inferred]
+Date: 11/22/2000
 
-Round 17
-[Jan 6]
-Olimpia       2-2 Savio
-Espana        1-2 Platense
-[Jan 7]
-Marathon      1-0 Universidad
-Broncos       1-1 Victoria
-Motagua       1-0 Vida
+; Universidad  ; 2-5; Olimpia
 
-Round 18
-[Jan 12]
-Platense      0-0 Olimpia
-[Jan 13]
-Savio         4-0 Vida
-Victoria      3-1 Espana
-Universidad   2-0 Broncos
-Motagua       1-1 Marathon
+Round: 8 
+Date: 11/8/2000
+
+; Savio        ; 1-2; Olimpia
+; Universidad  ; 0-0; Marathon
+; Vida         ; 0-1; Motagua
+; Victoria     ; 4-0; Broncos
+; Platense     ; 1-1; Espana
+
+Round: 9
+Date: 11/11/2000
+
+; Espana       ; 2-1; Victoria
+; Vida         ; 1-2; Savio
+
+Date: 11/12/2000
+
+; Broncos      ; 0-0; Universidad
+; Olimpia      ; 3-1; Platense
+; Marathon     ; 0-1; Motagua
+
+Round: 10 
+Date: 11/25/2000
+
+; Vida         ; 0-3; Platense
+; Olimpia      ; 4-2; Marathon
+; Victoria     ; 2-1; Savio
+
+Date: 11/26/2000
+
+; Broncos      ; 0-2; Espana
+; Motagua      ; 0-1; Universidad
+
+Round: 11
+Date: 11/29/2000
+
+; Universidad  ; 0-1; Victoria
+; Marathon     ; 2-4; Vida
+; Platense     ; 4-1; Broncos
+
+Date: 11/30/2000
+
+; Espana       ; 2-1; Olimpia
+; Savio        ; 2-2; Motagua
+
+Round: 12
+Date: 12/6/2000
+
+; Olimpia      ; 4-1; Vida
+; Broncos      ; 1-0; Marathon
+; Espana       ; 1-1; Motagua
+; Victoria     ; 1-3; Platense
+
+Date: 12/7/2000
+
+; Universidad  ; 3-0; Savio
+
+Round: 13 
+Date: 12/10/2000
+
+; Marathon     ; 1-2; Espana
+; Motagua      ; 3-1; Victoria
+; Olimpia      ; 1-1; Broncos
+; Vida         ; 2-1; Universidad
+; Savio        ; 3-2; Platense
+
+Round: 14
+Date: 12/13/2000
+
+; Broncos      ; 2-1; Motagua
+; Victoria     ; 1-2; Olimpia
+
+Date: 12/15/2000
+
+; Savio        ; 0-1; Marathon
+; Espana       ; 2-2; Vida
+; Platense     ; 4-0; Universidad
+
+Round: 15
+Date: 12/20/2000
+
+; Universidad  ; 1-1; Espana
+; Marathon     ; 1-2; Platense
+; Vida         ; 0-0; Victoria
+
+Date: 12/21/2000
+
+; Broncos      ; 0-0; Savio
+; Motagua      ; 1-0; Olimpia
+
+Round: 16
+Date: 12/27/2000
+
+; Victoria     ; 1-3; Marathon
+; Vida         ; 3-0; Broncos
+
+Date: 12/28/2000
+
+; Platense     ; 1-1; Motagua
+; Olimpia      ; 1-2; Universidad
+; Savio        ; 1-0; Espana        [inferred]
+
+Round: 17
+Date: 1/6/2001
+
+; Olimpia      ; 2-2; Savio
+; Espana       ; 1-2; Platense
+
+Date: 1/7/2001
+
+; Marathon     ; 1-0; Universidad
+; Broncos      ; 1-1; Victoria
+; Motagua      ; 1-0; Vida
+
+Round: 18
+Date: 1/12/2001
+
+; Platense     ; 0-0; Olimpia
+
+Date: 1/13/2001
+
+; Savio        ; 4-0; Vida
+; Victoria     ; 3-1; Espana
+; Universidad  ; 2-0; Broncos
+; Motagua      ; 1-1; Marathon
 
 
 * 1.Olimpia       18 12  3  3 44-21 39 
@@ -190,51 +250,62 @@ Motagua       1-1 Marathon
 *10.Broncos       18  3  6  9  9-32 15  
 
 
-Liguilla
+*Liguilla
 
-First Round 
+Round: First Round:
 
-First Legs 
-[Jan 24]
-Universidad   2-1 Motagua
-[Jan 25]
-Vida          1-1 Olimpia
-Espana        2-2 Platense
+*First Legs 
+Date: 1/24/2001
+; Universidad  ; 2-1; Motagua
 
-Second Legs 
-[Jan 27]
-Motagua       1-1 Universidad
-[Jan 28]
-Olimpia       2-0 Vida
-Platense      0-0 Espana
-
-Espana qualified as best losers
-
-Semifinals
-
-First Legs [Feb 1]
-Universidad   1-3 Platense
-Espana        0-0 Olimpia
+Date: 1/25/2001
+; Vida         ; 1-1; Olimpia
+; Espana       ; 2-2; Platense
 
 Second Legs 
-[Feb 3]
-Platense      0-1 Universidad
-[Feb 4]
-Olimpia       2-0 Espana
+Date: 1/27/2001
+; Motagua      ; 1-1; Universidad
 
-Final
+Date: 1/28/2001
+; Olimpia      ; 2-0; Vida
+; Platense     ; 0-0; Espana
 
-First Leg [Feb 7]
-Platense      0-1 Olimpia
-  [Alex Pineda Chacón 85]
+*Espana qualified as best losers
 
-Second Leg [Feb 11]
-Olimpia       1-1 Platense      [asdet]
-  [Danilo Tosello 100pen; Rony Morales 50]
+Round: Semifinals
 
-Olimpia winners Apertura
+*First Legs 
+Date: 2/1/2001
 
-Clausura
+; Universidad  ; 1-3; Platense
+; Espana       ; 0-0; Olimpia
+
+*Second Legs 
+Date: 2/3/2001
+
+; Platense     ; 0-1; Universidad
+
+Date: 2/4/2001
+
+; Olimpia      ; 2-0; Espana
+
+Round: Final
+
+*First Leg 
+Date: 2/7/2001
+
+; Platense     ; 0-1; Olimpia
+; Alex Pineda Chacón 85
+
+Second Leg 
+Date: 2/11/2001
+
+; Olimpia      ; 1-1 (asdet); Platense  
+Danilo Tosello (pk) 100; Rony Morales 50
+
+*Olimpia winners Apertura
+
+Season: 2001 Clausura
 
 * 1.Olimpia       18 13  3  2 34-11 42
 * 2.Platense      18 11  4  3 26-13 37
@@ -248,160 +319,215 @@ Clausura
 * 9.Vida          18  4  6  8 22-31 18
 *10.Dep. Savio    18  3  6  9 14-30 15
 
-Round 1 
-[Mar 10]
-Universidad   0-2 Olimpia
-Espana        1-1 Vida
-Platense      2-0 Savio
-[Mar 11]
-Victoria      1-2 Motagua
-Broncos       0-0 Marathon
+Round: 1 
+Date: 3/10/2001
 
-Round 2 
-[Mar 17]
-Universidad   1-2 Espana
-Marathon      3-1 Olimpia
-[Mar 18]
-Savio         0-3 Victoria
-Vida          3-2 Platense
-Motagua       2-2 Broncos
+; Universidad  ; 0-2; Olimpia
+; Espana       ; 1-1; Vida
+; Platense     ; 2-0; Savio
 
-Round 3 
-[Mar 21]
-Broncos       3-1 Vida
-[Mar 22]
-Platense      1-0 Marathon
-[Apr 4]
-Olimpia       1-1 Motagua
-Victoria      1-0 Universidad
-[Apr 5]
-Real Espana   3-0 Savio
+Date: 3/11/2001
 
-Round 4 
-[Mar 24]
-Real Espana   4-2 Victoria
-[Mar 25]
-Motagua       1-3 Marathon
-Platense      3-0 Broncos
-Savio         1-1 Universidad
-Vida          3-4 Olimpia
+; Victoria     ; 1-2; Motagua
+; Broncos      ; 0-0; Marathon
 
-Round 5
-[Mar 31]
-Universidad   1-1 Motagua
-Marathon      4-2 Vida
-Olimpia       1-0 Savio
-[Apr 1]
-Victoria      0-1 Platense
-Broncos       2-1 Real Espana
+Round: 2 
+Date: 3/17/2001
 
-Round 6
-[Apr 7]
-Marathon      2-0 Universidad
-Vida          1-1 Victoria
-[Apr 8]
-Savio         1-1 Motagua
-Platense      2-0 Real Espana
-Olimpia       1-0 Broncos
+; Universidad  ; 1-2; Espana
+; Marathon     ; 3-1; Olimpia
 
-Round 7 [Apr 11]
-Universidad   1-1 Platense
-Broncos       4-1 Savio
-Real Espana   0-2 Olimpia
-Motagua       2-0 Vida
-Victoria      1-1 Marathon
+Date: 3/18/2001
 
-Round 8 [Apr 21]
-Real Espana   3-3 Motagua
-Savio         1-4 Marathon
-Broncos       1-1 Victoria
-Vida          1-1 Universidad
-Olimpia       0-0 Platense
+; Savio        ; 0-3; Victoria
+; Vida         ; 3-2; Platense
+; Motagua      ; 2-2; Broncos
 
-Round 9
-[Apr 26]
-Victoria      2-2 Olimpia
-[Apr 28]
-Universidad   1-0 Broncos
-Marathon      3-1 Real Espana
-Savio         2-1 Vida
-Motagua       1-1 Platense
+Round: 3 
+Date: 3/21/2001
 
-Round 10
-[May 1]
-Savio         0-0 Platense
-Olimpia       2-0 Universidad
-Vida          2-2 Real Espana
-Marathon      2-1 Broncos
-[May 2]
-Motagua       3-3 Victoria
+; Broncos      ; 3-1; Vida
 
-Round 11 
-[May 5]
-Real Espana   3-1 Universidad
-Olimpia       2-0 Marathon
-Victoria      2-2 Savio
-Platense      2-0 Vida
-[May 6]
-Broncos       0-0 Motagua
+Date: 3/22/2001
 
-Round 12
-[May 12]
-Universidad   1-0 Victoria
-Marathon      1-2 Platense
-Motagua       0-1 Olimpia
-Vida          3-1 Broncos
-[May 13]
-Savio         0-1 Real Espana
+; Platense     ; 1-0; Marathon
 
-Round 13 [May 16]
-Universidad   1-0 Savio
-Marathon      3-1 Motagua
-Olimpia       2-0 Vida
-Victoria      1-0 Real Espana
-Broncos       0-1 Platense
+Date: 4/4/2001
 
-Round 14
-[May 19]
-Vida          1-0 Marathon
-Real Espana   1-2 Broncos
-[May 20]
-Savio         0-3 Olimpia
-Platense      4-1 Victoria
-Motagua       1-1 Universidad
+; Olimpia      ; 1-1; Motagua
+; Victoria     ; 1-0; Universidad
 
-Round 15
-[May 24]
-Motagua       2-2 Savio
-[May 26]
-Universidad   1-1 Marathon
-Victoria      1-1 Vida
-Broncos       0-4 Olimpia
-[May 27]
-Real Espana   1-2 Platense
+Date: 4/5/2001
 
-Round 16 
-[Jun 2]
-Savio         1-1 Broncos
-[Jun 6]
-Vida          0-0 Motagua
-Marathon      3-1 Victoria
-Platense      0-3 Universidad
-Olimpia       3-0 Real Espana
+; Real Espana  ; 3-0; Savio
 
-Rounnd 17 [Jun 9]
-Universidad   1-2 Vida
-Victoria      1-1 Broncos
-Marathon      0-1 Savio
-Platense      0-2 Olimpia
-Motagua       2-2 Real Espana
+Round: 4 
+Date: 3/24/2001
 
-Round 18 [Jun 17]
-Broncos       1-0 Universidad
-Real Espana   2-0 Marathon
-Olimpia       1-2 Victoria
-Vida          0-2 Savio
-Platense      2-0 Motagua
+; Real Espana  ; 4-2; Victoria
+
+Date: 3/25/2001
+
+; Motagua      ; 1-3; Marathon
+; Platense     ; 3-0; Broncos
+; Savio        ; 1-1; Universidad
+; Vida         ; 3-4; Olimpia
+
+Round: 5
+Date: 3/31/2001
+
+; Universidad  ; 1-1; Motagua
+; Marathon     ; 4-2; Vida
+; Olimpia      ; 1-0; Savio
+
+Date: 4/1/2001
+
+; Victoria     ; 0-1; Platense
+; Broncos      ; 2-1; Real Espana
+
+Round: 6
+Date: 4/7/2001
+
+; Marathon     ; 2-0; Universidad
+; Vida         ; 1-1; Victoria
+
+Date: 4/8/2001
+
+; Savio        ; 1-1; Motagua
+; Platense     ; 2-0; Real Espana
+; Olimpia      ; 1-0; Broncos
+
+Round: 7 
+Date: 4/11/2001
+
+; Universidad  ; 1-1; Platense
+; Broncos      ; 4-1; Savio
+; Real Espana  ; 0-2; Olimpia
+; Motagua      ; 2-0; Vida
+; Victoria     ; 1-1; Marathon
+
+Round: 8 
+Date: 4/21/2001
+
+; Real Espana  ; 3-3; Motagua
+; Savio        ; 1-4; Marathon
+; Broncos      ; 1-1; Victoria
+; Vida         ; 1-1; Universidad
+; Olimpia      ; 0-0; Platense
+
+Round: 9
+Date: 4/26/2001
+
+; Victoria     ; 2-2; Olimpia
+
+Date: 4/28/2001
+
+; Universidad  ; 1-0; Broncos
+; Marathon     ; 3-1; Real Espana
+; Savio        ; 2-1; Vida
+; Motagua      ; 1-1; Platense
+
+Round: 10
+Date: 5/1/2001
+
+; Savio        ; 0-0; Platense
+; Olimpia      ; 2-0; Universidad
+; Vida         ; 2-2; Real Espana
+; Marathon     ; 2-1; Broncos
+
+Date: 5/2/2001
+
+; Motagua      ; 3-3; Victoria
+
+Round: 11 
+Date: 5/5/2001
+
+; Real Espana  ; 3-1; Universidad
+; Olimpia      ; 2-0; Marathon
+; Victoria     ; 2-2; Savio
+; Platense     ; 2-0; Vida
+
+Date: 5/6/2001
+
+; Broncos      ; 0-0; Motagua
+
+Round: 12
+Date: 5/12/2001
+
+; Universidad  ; 1-0; Victoria
+; Marathon     ; 1-2; Platense
+; Motagua      ; 0-1; Olimpia
+; Vida         ; 3-1; Broncos
+
+Date: 5/13/2001
+
+; Savio        ; 0-1; Real Espana
+
+Round: 13 
+Date: 5/16/2001
+
+; Universidad  ; 1-0; Savio
+; Marathon     ; 3-1; Motagua
+; Olimpia      ; 2-0; Vida
+; Victoria     ; 1-0; Real Espana
+; Broncos      ; 0-1; Platense
+
+Round: 14
+Date: 5/19/2001
+
+; Vida         ; 1-0; Marathon
+; Real Espana  ; 1-2; Broncos
+
+Date: 5/20/2001
+
+; Savio        ; 0-3; Olimpia
+; Platense     ; 4-1; Victoria
+; Motagua      ; 1-1; Universidad
+
+Round: 15
+Date: 5/24/2001
+
+; Motagua      ; 2-2; Savio
+
+Date: 5/26/2001
+
+; Universidad  ; 1-1; Marathon
+; Victoria     ; 1-1; Vida
+; Broncos      ; 0-4; Olimpia
+
+Date: 5/27/2001
+
+; Real Espana  ; 1-2; Platense
+
+Round: 16 
+Date: 6/2/2001
+
+; Savio        ; 1-1; Broncos
+
+Date: 6/6/2001
+
+; Vida         ; 0-0; Motagua
+; Marathon     ; 3-1; Victoria
+; Platense     ; 0-3; Universidad
+; Olimpia      ; 3-0; Real Espana
+
+Rounnd 17 
+Date: 6/9/2001
+
+; Universidad  ; 1-2; Vida
+; Victoria     ; 1-1; Broncos
+; Marathon     ; 0-1; Savio
+; Platense     ; 0-2; Olimpia
+; Motagua      ; 2-2; Real Espana
+
+Round: 18 
+Date: 6/17/2001
+
+; Broncos      ; 1-0; Universidad
+; Real Espana  ; 2-0; Marathon
+; Olimpia      ; 1-2; Victoria
+; Vida         ; 0-2; Savio
+; Platense     ; 2-0; Motagua
 
 * 1.Olimpia       18 13  3  2 34-11 42
 * 2.Platense      18 11  4  3 26-13 37
@@ -415,48 +541,60 @@ Platense      2-0 Motagua
 * 9.Vida          18  4  6  8 22-31 18
 *10.Dep. Savio    18  3  6  9 14-30 15
 
-Liguilla
+*Liguilla
 
-First Round 
+Round: First
 
-NB: Motagua qualified instead of Broncos because they had to play the
-    relegation playoff
+*NB: Motagua qualified instead of Broncos because they had to play the
+*    relegation playoff
 
-First Legs [Jul 4]
-Real Espana   1-1 Marathon    
-Motagua       1-2 Olimpia
-Victoria      1-1 Platense
+*First Legs [Jul 4]
+Date: 7/4/2001
+; Real Espana  ; 1-1; Marathon    
+; Motagua      ; 1-2; Olimpia
+; Victoria     ; 1-1; Platense
 
-Second Legs [Jul 8]
-Marathon      0-0 Real Espana  
-Olimpia       1-1 Motagua
-Platense      2-1 Victoria
+*Second Legs [Jul 8]
+Date: 7/8/2001
+; Marathon     ; 0-0; Real Espana  
+; Olimpia      ; 1-1; Motagua
+; Platense     ; 2-1; Victoria
 
-Real Espana progress as best losers
+*Real Espana progress as best losers
 
-Semifinals
+Round: Semifinals
 
-First Legs
-[Jul 11]
-Real Espana   0-0 Olimpia
-[Jul 12]
-Marathon      3-1 Platense
+*First Legs
 
-Second Legs [Jul 15]
-Olimpia       1-1 Real Espana
-Platense      3-0 Marathon
+Date: 7/11/2001
 
-Final
+; Real Espana  ; 0-0; Olimpia
 
-First Leg [Jul 19]
-Platense      1-0 Olimpia
-  [Marcelo Verón 90]
+Date: 7/12/2001
 
-Second Leg [Jul 22]
-Olimpia       1-1 Platense      [asdet]
-  [Danilo Tosello 10; Rony Morales 91]
+; Marathon     ; 3-1; Platense
 
-Platense winners Clausura
+Second Legs 
+Date: 7/15/2001
+
+; Olimpia      ; 1-1; Real Espana
+; Platense     ; 3-0; Marathon
+
+Round: Final
+
+*First Leg 
+Date: 7/19/2001
+
+; Platense     ; 1-0; Olimpia
+Marcelo Verón 90;
+
+*Second Leg 
+Date: 7/22/2001
+
+; Olimpia      ; 1-1 (asdet); Platense
+Danilo Tosello 10; Rony Morales 91
+
+*Platense winners Clausura
 
 
 *Aggregate Table:
@@ -472,10 +610,13 @@ Platense winners Clausura
 *-------------------------------------
 *10.Broncos       36  8 12 16 28-56 36  Playoff  
 
-Relegation Playoff [Jun 21, San Pedro Sula]
-Broncos       1-1 Savio             [3-4pen]
+Round: Relegation Playoff 
+Date: 6/21/2001
 
-Broncos relegated
+; Broncos      ; 1-1; Savio        ; San Pedro Sula
+     [3-4pen]
+
+*Broncos relegated
 
 
 *With thanks to Michael Parr (m.t.parr@talk21.com)

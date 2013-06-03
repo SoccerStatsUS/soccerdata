@@ -1,14 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesp/panama08.html
+Competition: Liga Panameña de Fútbol
 
-Panama 2008
 
-Torneo ANAPROF
+Season: 2008 Apertura
 
-Torneo Apertura 2008
-
-Regular Stage
-
-Overall Final Table:
 * 
 *  1.Tauro FC                13  7  2  4  21-18  23  Qualified
 *  2.San Francisco FC        13  5  7  1  19-15  22  Qualified
@@ -22,7 +17,7 @@ Overall Final Table:
 *  9.Atlético Veragüense     13  2  5  6  15-27  11
 * 10.Alianza FC              13  3  1  9  25-27  10
  
-Round: Round 1
+Round: 1
 [Feb 22]
 ; Árabe Unido     ; 0-1; Chorrillo 
   [Jhonny Ríos 10]
@@ -38,7 +33,7 @@ Round: Round 1
 ; Plaza Amador    ; 0-1; Sporting SM    
   [Luis Mendoza 65]  
 
-Round: Round 2
+Round: 2
 [Feb 29]
 ; Árabe Unido     ; 2-1; Sporting SM
   [Sergio Guzmán 2, Eduardo McTaggart 55pen; Luis Morales 9]
@@ -54,7 +49,7 @@ Round: Round 2
 ; Atl. Veragüense ; 1-1; Chorrillo 
   [Enzo Salazar; Anel Canales]
 
-Round: Round 3 
+Round: 3 
 [Mar 7]
 ; Sporting SM     ; 3-1; Alianza
   [Federico Marines 12, Luis Morales 38, Ángel Luis Rodríguez 93;
@@ -69,7 +64,7 @@ Round: Round 3
   [Armando Gun 77; Eduardo McTaggart 41, Publio Rodríguez 43]
 ; Chorrillo       ; 0-0; San Francisco
 
-Round: Round 4
+Round: 4
 [Mar 14]
 ; Sporting SM     ; 0-0; Chepo
 [Mar 15]
@@ -84,7 +79,7 @@ Round: Round 4
   [Silvio Morelo 61, Alberto Skinner 65, Anel Canales 85,
    Dereck James 87; Oscar Vargas 79]
 
-Round: Round 5
+Round: 5
 [Mar 19]
 ; Atl. Veragüense ; 0-1; Plaza Amador
   [Ricardo Buitrago 85]
@@ -100,7 +95,7 @@ Round: Round 5
 ; Árabe Unido     ; 1-0; Tauro
   [Eduardo McTaggart 34]
 
-Round: Round 6
+Round: 6
 [Mar 29]
 ; San Francisco   ; 2-2; Atl. Veragüense 
   [Rusvel Saravia 3, Manuel Torres 15; Cristian Vega 8,
@@ -115,7 +110,7 @@ Round: Round 6
 ; Tauro           ; 2-0; Sporting SM
   [Luis Moreno 11pen, Eric Quiroz 90+1]
 
-Round: Round 7
+Round: 7
 [Apr 4]
 ; Sporting SM     ; 1-2; Atl. Chiriquí 
   [Edwin Antero 80; Catalino Smith 44, Clive Trotman 52]
@@ -132,7 +127,7 @@ Round: Round 7
 ; Chorrillo       ; 2-0; Alianza
   [Julio Medina 7, 38]
 
-Round: Round 8
+Round: 8
 [Apr 11]
 ; Árabe Unido     ; 1-2; Atl. Chiriquí 
   [Andrés Copete 86; Rottman González 18, Eyber Bonagas 47pen]
@@ -147,7 +142,7 @@ Round: Round 8
 ; Chorrillo       ; 1-1; Chepo
   [Roberto Steward 36; César Aguilar 28]
 
-Round: Round 9
+Round: 9
 [Apr 16]
 ; Atl. Chiriquí   ; 2-1; Plaza Amador
   [Omar Navarro, Manuel Torres; César Blackman]
@@ -157,7 +152,7 @@ Round: Round 9
 ; Sporting SM     ; 1-1; Árabe Unido
 *Alianza          bye San Francisco  
 
-Round: Round 10 [Apr 19]
+Round: 10 [Apr 19]
 ; Atl. Veragüense ; 1-1; Atl. Chiriquí 
   [Alcibiades Rojas 41; Catalino Smith 44]
 ; Árabe Unido     ; 1-0; Chepo
@@ -168,7 +163,7 @@ Round: Round 10 [Apr 19]
    Julio Medina 45+]
 * Plaza Amador     bye Tauro
 
-Round: Round 11
+Round: 11
 [Apr 26]
 ; Atl. Chiriquí   ; 0-0; Chorrillo
 [Apr 27]
@@ -179,7 +174,7 @@ Round: Round 11
   [Delano Welch, Carlos Martínez]
 Atl. Veragüense  bye Árabe Unido    
 
-Round: Round 12
+Round: 12
 [Apr 30]
 ; Tauro           ; 2-1; Árabe Unido
   [Edwin Aguilar 10, 64; Luis Góndola 18]
@@ -193,7 +188,7 @@ Round: Round 12
   [Lucio López 33; Carlos Martínez 48, 69]
 Chorrillo        bye Sporting SM
 
-Round: Round 13
+Round: 13
 [May 2]
 ; Sporting SM     ; 2-3; Tauro
   [Luis Angel Rodríguez 46, Luis Valderrama 71; Edwin Aguilar 6, 30,
@@ -209,7 +204,7 @@ Round: Round 13
    Ricardo Buitrago 60]
 Atl. Chiriquí    bye Chepo
 
-Round: Round 14 [May 11]
+Round: 14 [May 11]
 ; Árabe Unido     ; 2-1; San Francisco
   [Publio Rodríguez 58pen, Antonio Leslie 75; Roosvelt Saravia 88]
 ; Alianza         ; 6-1; Atl. Chiriquí 
@@ -307,7 +302,7 @@ Final [May 1, Estadio Armando Dely Valdés, Colón]
 *  9.Municipal Chorrillo     18  4  6  8  18-26  18
 * 10.CD Plaza Amador         18  2  2 14   9-32   8
 
-Round: Round 1
+Round: 1
 [Jul 25]
 Sporting SM      0-0 Atl. Veragüense 
 [Jul 26]
@@ -321,7 +316,7 @@ Tauro            1-1 Chepo
 San Francisco    1-2 Alianza
   [Ángel Lombardo 18; Jair Carrasquilla 37, César Medina 43]
 
-Round: Round 2 
+Round: 2 
 [Aug 2]
 Árabe Unido      2-1 Alianza
   [Orlando Rodríguez 30, 34; Jaír Carrasquilla 2]
@@ -336,7 +331,7 @@ Chorrillo        1-1 Atl. Veragüense
 Chepo            2-0 Sporting SM
   [Delano Welch 57, 90+4]
 
-Round: Round 3
+Round: 3
 [Aug 8]
 Sporting SM      1-3 San Francisco
   [Angel Luis Rodríguez 74; Eduardo Jiménez 18, Alberto Zapata 38,
@@ -352,7 +347,7 @@ Tauro            2-0 Árabe Unido
 Chepo            1-2 Atl. Veragüense
   [Luis Jaramillo 19; Catalino Smith 35, Jhon Fredy Mosquera 89]
  
-Round: Round 4
+Round: 4
 [Aug 16]
 Alianza          0-1 Chepo
   [José Luis González 40]
@@ -368,7 +363,7 @@ Tauro            1-1 Sporting SM
 Árabe Unido      1-1 Chorrillo          [replay]
   [Manuel Mosquera 49; Julio Medina III 85]
 
-Round: Round 5
+Round: 5
 [Aug 22]
 Sporting SM      0-0 Plaza Amador
 [Aug 23]
@@ -383,7 +378,7 @@ San Francisco    3-1 Atl. Veragüense
 Chepo            1-2 Árabe Unido
   [Jorge Luis González 7; Nelson Barahona 53, Manuel Mosquera 73]
 
-Round: Round 6
+Round: 6
 [Aug 29]
 Plaza Amador     2-1 Chepo 
   [Engi Mitre 1-0, Luis De León 2-0; Luis Jaramillo 2-1]
@@ -399,7 +394,7 @@ Chorrillo        1-5 Sporting SM
 Árabe Unido      3-0 San Francisco 
  [Manuel Mosquera 50, 79, Orlando Rodríguez 72pen]
 
-Round: Round 7
+Round: 7
 [Aug 5]
 Árabe Unido      4-1 Atl. Veragüense
   [Andrés Santamaría 32, Manuel Mosquera 56, 70,
@@ -415,7 +410,7 @@ Tauro            1-0 Alianza
 San Francisco    2-1 Plaza Amador
   [Alberto Zapata 18, 20; Enrico Small 83]
 
-Round: Round 8
+Round: 8
 [Sep 12]
 San Francisco    1-0 Chorrillo 
   [Eduardo Jiménez 2]
@@ -431,7 +426,7 @@ Chepo            4-0 Atl. Chiriquí
   [Ismael Menal 36, Luis Jaramillo 41pen, José Calderón 52,
    César Aguilar 85]
 
-Round: Round 9
+Round: 9
 [Sep 17]
 Chorrillo        0-0 Alianza
 Atl. Chiriquí    2-1 Atl. Veragüense 
@@ -444,7 +439,7 @@ San Francisco    1-1 Chepo
 Plaza Amador     2-3 Tauro 
   [Julio Ruiz 34, 45; Anel Canales 14, Brunett Hay 27, Gabriel Ríos ~90]
 
-Round: Round 10
+Round: 10
 [Sep 19]
 Plaza Amador     0-1 Chorrillo 
   [Julio Medina 72]
@@ -462,7 +457,7 @@ Atl. Veragüense  1-1 Sporting SM
   [Víctor René Mendieta 27, 45, 47, Orlando Rodríguez 66, 74,
    Armando Cooper 80, Manuel Mosquera 87]
 
-Round: Round 11
+Round: 11
 [Sep 26]
 Sporting SM      1-2 Chepo 
   [Ricardo Phillips 90+1; Luis Jaramillo 22, Gerardo Barrios 85]
@@ -478,7 +473,7 @@ Tauro            4-1 San Francisco
 Alianza          1-3 Árabe Unido
   [Javier Navas; Orlando Rodríguez, Manuel Mosquera (2)]
 
-Round: Round 12 
+Round: 12 
 [Oct 3]
 Plaza Amador     3-0 Alianza 
   [Engie Alberto Mitre 6, Luis Palacios 78, Felipe Bender Borowski 83]
@@ -494,7 +489,7 @@ Atl. Veragüense  1-0 Chepo
   [Amílkar Henríquez 40, Orlando Rodríguez 68, Publio Rodríguez 71;
    Joshua Brown 0-1]
 
-Round: Round 13
+Round: 13
 [Oct 10]
 Atl. Chiriquí    1-2 San Francisco 
   [Eyber Bonaga 65; Temistocles Pérez 8, Alberto Zapata 27]
@@ -509,7 +504,7 @@ Chorrillo        1-2 Árabe Unido
 Chepo            1-1 Alianza  
   [Luis Jaramillo 23; César Medina 57]
 
-Round: Round 14
+Round: 14
 [Oct 17]
 Plaza Amador     0-3 Sporting SM     
   [Luis Mendoza 12, Miguel Vásquez 34, 70] 
@@ -523,7 +518,7 @@ Tauro            0-0 Chorrillo
 Atl. Veragüense  1-0 San Francisco
   [Jair Medina 81]
 
-Round: Round 15
+Round: 15
 [Oct 24]
 Chepo            3-0 Plaza Amador
   [César Aguilar, Carlos Martínez, Luis Jaramillo]
@@ -537,7 +532,7 @@ San Francisco    0-0 Árabe Unido
 Atl. Veragüense  1-0 Alianza 
   [Oscar Vargas 45]
 
-Round: Round 16
+Round: 16
 [Oct 31]
 Tauro            1-0 Plaza Amador     
   [Edwin Aguilar 75]
@@ -552,7 +547,7 @@ San Francisco    3-3 Chepo
 Sporting SM      1-1 Árabe Unido
   [Esteban Jaén 1-1; Publio Rodríguez 0-1]
 
-Round: Round 17 [Nov 5]
+Round: 17 [Nov 5]
 Árabe Unido      5-1 Plaza Amador
   [Eduardo McTagart 12, 45, Orlando Rodríguez 46, 73, 88;
    Enrico Small 39]
@@ -566,7 +561,7 @@ Atl. Chiriquí    1-1 Chepo
 Alianza          3-1 Sporting SM
   [César Medina (2), Gilmar Torres (pen); Esteban Jaén 36]
 
-Round: Round 18 [Nov 9]
+Round: 18 [Nov 9]
 Alianza          2-0 Tauro 
   [Yishak González de León, Francisco López]
 Sporting SM      2-4 Atl. Chiriquí 
