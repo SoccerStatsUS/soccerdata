@@ -97,8 +97,11 @@ def generate_competition_stats():
     competition_generate('USSF Division 2 Professional League')
 
     competition_generate('Liga MX')
+    competition_generate('Liga MX Liguilla')
+    competition_generate('Campeón de Campeones')
 
-
+    competition_generate('Campeonato Brasileiro Série A')
+    competition_generate('Categoría Primera A')
 
     competition_generate('Chinese Super League')
 

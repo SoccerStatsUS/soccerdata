@@ -13,6 +13,40 @@ l = [
         },
 
     {
+        'name': 'Deportivo Amatitlán', 
+        'founded': 1960,
+        'city': 'Amatitlán, Guatemala',
+        },
+
+    {
+        'name': 'Deportivo Coatepeque',
+        'city': 'Coatepeque, Guatemala',
+        'founded': 1967,
+        },
+
+    {
+        'name': 'Deportivo Chimaltenango',
+        'city': 'Chimaltenango, Guatemala',
+        },
+
+    {
+        'name': 'CSD Sacachispas',
+        'city': 'Chiquimula, Guatemala',
+        'founded': datetime.datetime(1949, 6, 15),
+        },
+
+    {
+        'name': 'Izabal',
+        'city': 'Puerto Barrios, Guatemala',
+        'founded': 1951,
+        },
+
+    {
+        'name': 'Deportivo Teculután',
+        'city': 'Teculután, Guatemala',
+        },
+
+    {
         'name': 'CD Jalapa',
         'founded': 1978,
         'city': 'Jalapa, Guatemala',
@@ -22,6 +56,12 @@ l = [
         'name': 'Deportivo Carchá',
         'founded': 1962,
         'city': 'San Pedro Carchá, Guatemala',
+        },
+
+    {
+        'name': 'Peñarol La Mesilla',
+        'city': 'Huehuetenango, Guatemala',
+        'founded': 2006,
         },
 
     {

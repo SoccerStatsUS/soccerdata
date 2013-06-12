@@ -1,10 +1,5 @@
 BlockSource: http://www.rsssf.com/tablese/ecua04.html
-
-Ecuador 2004
-
-Serie A (Copa Pilsener)
-
-First Stage (Torneo Apertura)
+Season: 2004 Apertura
 
 * 1.Aucas                  18 10  6  2 31-15 36  Qualified
 * 2.LDU de Quito           18  9  3  6 33-26 30  Qualified
@@ -18,7 +13,7 @@ First Stage (Torneo Apertura)
 * 9.Espoli                 18  3  8  7 14-23 17
 *10.Macará                 18  2  6 10 16-33 12
 
-Round 1
+Round: 1
 [Feb 6]
 LDU de Quito          3-0 Espoli
   [Geovanny ESPINOZA 32, Alfonso OBREGON 53, Juan Angel PAREDES 73]
@@ -31,7 +26,7 @@ Macará                1-0 Emelec
 Barcelona             0-2 Deportivo Quito
   [Wlater COYYETE 17, Jhonny BALDEON 53]
 
-Round 2 [Feb 15]
+Round: 2 [Feb 15]
 Deportivo Quito       3-2 Deportivo Cuenca
   [Christian CARNERO 42, Jhonny BALDEON 45+2, Marlon AYOVI 47;
    Carlos Gregorio QUIÑONEZ 19, 73]
@@ -44,7 +39,7 @@ Olmedo                0-1 LDU de Quito
 Emelec                1-0 Aucas
   [Javier INTRIAGO 59]
 
-Round 3 [Feb 18]
+Round: 3 [Feb 18]
 LDU de Quito          2-3 Aucas
   [Carlos ESPINOLA 54, Carlos VILLAGRA 90; Oscar VILLAREAL 29, 
    Gustavo FIGUEROA 35, Tilson Oswaldo MINDA 42]
@@ -57,7 +52,7 @@ Deportivo Cuenca      2-0 Emelec
   [Eduardo IACHETTI 43, John CAGUA 86]
 Macará                0-0 Espoli
 
-Round 4 [Feb 22]
+Round: 4 [Feb 22]
 Espoli                1-2 Deportivo Cuenca
   [Jorge JUSTAVINO 28; Carlos GRUEZO 80, Modesto David VALENCIA 90+1]
 Deportivo Quito       2-3 LDU de Quito
@@ -71,7 +66,7 @@ Olmedo                3-3 Macará
 Emelec                1-0 El Nacional
   [Juan TRIVIÑO 25]
 
-Round 5
+Round: 5
 [Feb 27]
 Deportivo Cuenca      1-0 Olmedo
   [Carlos GRUEZO 51]
@@ -86,7 +81,7 @@ Barcelona             5-2 LDU de Quito
   [Rodrigo TEXEIRA 6, 65, Jaime Iván KAVIEDES 38, 83, 90+1pen;
    Alexander ESCOBAR 31, Carlos VILLAGRA 45+3]
 
-Round 6
+Round: 6
 [Mar 6]
 Espoli                2-1 Deportivo Quito
   [Juan COLAMARCO 60, Fernando PIERUCCI 75; Marlon AYOVI 50pen]
@@ -100,7 +95,7 @@ Olmedo                1-3 El Nacional
 Barcelona             2-1 Emelec
   [José Manuel CHATRUC 56, Geovanny CAICEDO 79; Moisés CUERO 51]
 
-Round 7
+Round: 7
 [Mar 13]
 Deportivo Quito       1-2 Olmedo
   [Christian CARNERO 16; Héctor GONZALEZ 24, Luis CAICEDO 78]
@@ -113,7 +108,7 @@ Macará                2-1 Barcelona
 Emelec                2-0 Espoli
   [Cristian NOBOA 14, Moisés CANDELARIO 78]
 
-Round 8
+Round: 8
 [Mar 20]
 LDU de Quito          2-0 El Nacional
   [Alex AGUINAGA 16, Franklin SALAS 90+8]
@@ -126,7 +121,7 @@ Aucas                 1-0 Espoli
 Olmedo                0-1 Emelec
   [Juan AZCONZABAL 53]
 
-Round 9
+Round: 9
 [Apr 3]
 Espoli                0-2 Olmedo
   [Wilmer LAVAYEN 49, 50]
@@ -140,7 +135,7 @@ El Nacional           2-1 Barcelona
 Emelec                2-0 LDU de Quito
   [Hamilton RICARD 31, 90+3]
 
-Round 10 [Apr 11]
+Round: 10 [Apr 11]
 LDU de Quito          2-0 Emelec
   [Franklin SALAS 48, 50]
 Aucas                 2-2 Deportivo Quito
@@ -152,7 +147,7 @@ Olmedo                1-1 Espoli
 Barcelona             2-0 El Nacional
   [Danny VERA 37pen, 46pen]
 
-Round 11
+Round: 11
 [Apr 16]
 Deportivo Quito       1-1 Macará
   [Marlon AYOVI 76pen; Oscar MONJE 51pen]
@@ -165,7 +160,7 @@ Deportivo Cuenca      2-0 Barcelona
 Emelec                3-0 Olmedo
   [Javier INTRIAGO 10, Cristian NOBOA 18, Héctor CARABALI 80]
 
-Round 12
+Round: 12
 [Apr 21]
 Olmedo                4-1 Deportivo Quito
   [Fernando RODRIGUEZ 8, 13, Wilmer LAVAYEN 77pen, Christian GOMEZ 84;
@@ -181,7 +176,7 @@ Aucas                 4-2 El Nacional
   [Renan CALLE 43pen, Gustavo FIGUEROA 45, Agustín DELGADO 54, 87;
    Evelio ORDOÑEZ 19, Luis Antonio VALENCIA 39]
 
-Round 13 [Apr 25]
+Round: 13 [Apr 25]
 Deportivo Quito       2-1 Espoli
   [Jhonny BALDEON 5, Christian CARNERO 78; Hernán FERRI 60]
 Macará                1-6 LDU de Quito
@@ -194,7 +189,7 @@ Emelec                2-2 Barcelona
   [Juan TRIVIÑO 47, Wellington SANCHEZ 61pen; Danny VERA 31,
    Rodrigo TEIXEIRA 37]
 
-Round 14 [May 2]
+Round: 14 [May 2]
 Espoli                2-1 El Nacional
   [Hernán FERRI 49, Fernando PIERUCCI 78; Evelio ORDOÑEZ 6]
 Aucas                 3-1 Macará
@@ -207,7 +202,7 @@ Emelec                4-1 Deportivo Quito
   [Christian BOTTERO 3, Hamilton RICARD 44, 60pen, Moisés CANDELARIO 88;
    Marlon AYOVI 55pen]
 
-Round 15
+Round: 15
 [May 7]
 Deportivo Cuenca      2-2 Espoli
   [Raúl ANTUÑA 10, Marcelo VELAZCO 68; Pedro ESTERILLA 35, Jorge JUSTAVINO 63]
@@ -223,7 +218,7 @@ Barcelona             2-3 Aucas
   [Rodrigo TEIXEIRA 30, 74; Gustavo FIGUEROA 45, Mario LASTRA 71, 
    Tilson Oswaldo MINDA 90+2]
 
-Round 16
+Round: 16
 [May 12]
 Espoli                1-0 Macará
   [José CORTEZ 33]
@@ -238,7 +233,7 @@ Aucas                 5-1 LDU de Quito
 Olmedo                2-0 Barcelona
   [Wilmer LAVAYEN 41, Fernando RODRIGUEZ 52]
 
-Round 17
+Round: 17
 [May 15]
 Deportivo Cuenca      3-1 Deportivo Quito
   [Carlos QUIÑONEZ 15, 37, 62; Cristian CARNERO 20]
@@ -252,7 +247,7 @@ Macará                2-3 El Nacional
    Angel FERNANDEZ 63]
 Barcelona             0-0 Espoli
 
-Round 18 [May 23]
+Round: 18 [May 23]
 El Nacional           2-1 Deportivo Cuenca
   [Jorge GUAGUA 2, Luis Antonio VALENCIA 51; Marcelo VELAZCO 90+2pen]
 Espoli                0-0 LDU de Quito
@@ -280,7 +275,7 @@ Emelec                4-2 Macará
 *Top 2 qualify to Copa Sudaméricana 2004
 
 
-Second Stage (Torneo Finalización)
+Season: 2004 Finalizacion
 
 * 1.Barcelona              18 10  4  4 36-22 34  Qualified
 * 2.Olmedo                           18  8  7  3 34-25 31  Qualified
@@ -294,7 +289,7 @@ Second Stage (Torneo Finalización)
 * 9.Macará                 18  3  6  9 17-32 15
 *10.Espoli                 18  2  3 13 15-33  9
 
-Round 1
+Round: 1
 [Jun 11]
 Deportivo Cuenca      3-2 Espoli
   [Marcelo VELAZCO 14, Carlos QUIÑONEZ 44, Eduardo IACHETTI 90+1;
@@ -310,7 +305,7 @@ Macará                2-2 Emelec
 Barcelona             2-0 El Nacional
   [Jaime Iván KAVIEDES 55, Danny VERA 76]
 
-Round 2
+Round: 2
 [Jun 19]
 El Nacional           0-1 Deportivo Cuenca
   [Carlos QUIÑONEZ 11]
@@ -324,7 +319,7 @@ Espoli                0-0 Macará
 LDU de Quito          2-1 Barcelona
   [Carlos VILLAGRA 6, Alex AGUINAGA 54; Walter AYOVI 49]
 
-Round 3 [Jun 23]
+Round: 3 [Jun 23]
 Aucas                 1-1 Deportivo Quito
   [Agustín DELGADO 51, Christian CARNERO 29]
 Espoli                0-2 El Nacional
@@ -337,7 +332,7 @@ Macará                1-0 LDU de Quito
 Deportivo Cuenca      2-2 Emelec
   [Raúl ANTUÑA 12, Carlos QUIÑONEZ 66; Franklin COROZO 41, Hamilton RICARD 81]
 
-Round 4 [Jun 27]
+Round: 4 [Jun 27]
 El Nacional           1-0 Aucas
   [Evelio ORDOÑEZ 8]
 LDU de Quito          2-3 Deportivo Cuenca
@@ -351,7 +346,7 @@ Olmedo                2-0 Macará
 Emelec                1-1 Espoli
   [Hamilton RICARD 75pen; Fernando PIERUCCI 77]
 
-Round 5
+Round: 5
 [Jul 23]
 Espoli                0-2 LDU de Quito
   [Carlos CASTILLO 17, David MONTOYA 45]
@@ -364,7 +359,7 @@ Macará                1-1 Deportivo Quito
 Barcelona             2-1 Aucas
   [Jaime Iván KAVIEDES 2, 14; Renan CALLE 48pen]
 
-Round 6 [Jul 28]
+Round: 6 [Jul 28]
 Aucas                 0-0 Macará
 Deportivo Quito       3-2 Deportivo Cuenca
   [Cléber CHALA 54, Christian CARNERO 86, Marlon AYOVI 90pen; 
@@ -378,7 +373,7 @@ LDU de Quito          3-2 El Nacional
   [Alfonso OBREGON 8pen, Patricio URRUTIA 16, Carlos JUAREZ 72;
    Vicente Paúl AMBROSSI 14og, Evelio ORDOÑEZ 48pen]
 
-Round 7 [Aug 1]
+Round: 7 [Aug 1]
 El Nacional           5-2 Olmedo
   [Evelio ORDOÑEZ 20, Luis Antonio VALENCIA 26, Omar DE JESUS 29,
    Cristian LARA 33, 67; Fernando RODRIGUEZ 2, Gabriel FERNANDEZ 74]
@@ -391,7 +386,7 @@ Macará                1-1 Barcelona
 Emelec                1-0 LDU de Quito
   [Hamilton RICARD 28]
 
-Round 8 [Aug 4]
+Round: 8 [Aug 4]
 Aucas                 1-0 Espoli
   [Joffre GUERRON 12]
 Macará                0-1 El Nacional
@@ -402,7 +397,7 @@ Deportivo Quito       2-1 LDU de Quito
 Barcelona             1-0 Deportivo Cuenca
   [Ariel GRAZIANI 90+2]
 
-Round 9
+Round: 9
 [Aug 7]
 Espoli                0-4 Barcelona            [played in Esmeraldas]
   [Rodrigo TEIXEIRA 10, Leonardo SOLEDISPA 33, 58, Danny VERA 49]
@@ -417,7 +412,7 @@ LDU de Quito          1-3 Olmedo
 Emelec                1-0 Aucas
   [Leonal LIBERMAN 85pen]
 
-Round 10
+Round: 10
 [Aug 13]
 Macará                1-2 Deportivo Cuenca
   [Leorvelis MINA 20; Carlos GRUEZO 67, Marcelo VELAZCO 87]
@@ -431,7 +426,7 @@ Olmedo                2-0 LDU de Quito
   [Gabriel FERNANDEZ 48, Christian GOMEZ 70]
 Barelona              0-0 Espoli               [played in Portoviejo]
 
-Round 11 [Aug 18]
+Round: 11 [Aug 18]
 Espoli                0-2 Aucas
   [Oscar VILLAREAL 11, 32]
 El Nacional           2-1 Macará
@@ -444,7 +439,7 @@ Emelec                2-2 Olmedo
 Deportivo Cuenca      2-2 Barcelona
   [Raúl ANTUÑA 31, Carlos GRUEZO 76; Walter AYOVI 62, José GAVICA 85]
 
-Round 12 [Aug 21]
+Round: 12 [Aug 21]
 Deportivo Quito       3-2 Espoli
   [Luis SARITAMA 46, Marlon AYOVI 74pen, Christian CARNERO 83;
    Pedro ESTERILLA 49, Lenín DE JESUS 50]
@@ -458,7 +453,7 @@ Barcelona             3-1 Macará
   [Wilson CARABALI 51, Leonardo SOLEDISPA 61, Danny VERA 80;
    Lizandro TORRES 71]
 
-Round 13 [Sep 8]
+Round: 13 [Sep 8]
 Espoli                1-3 Olmedo
   [Carlos Mario CEVALLOS 55; Christian GOMEZ 29, Gabriel FERNANDEZ 45, 85]
 Macará                2-1 Aucas
@@ -471,7 +466,7 @@ Emelec                2-3 Barcelona
 Deportivo Cuenca      1-0 Deportivo Quito
   [Raúl ANTUÑA 33]
 
-Round 14
+Round: 14
 [Sep 10]
 Aucas                 2-1 Barcelona
   [Oscar VILLAREAL 37, Mario LASTRA 52; Rodrigo TEIXEIRA 34]
@@ -486,7 +481,7 @@ Olmedo                0-0 Deportivo Cuenca
 Emelec                1-0 El Nacional
   [Carlos Andrés QUIÑONEZ 17]
 
-Round 15
+Round: 15
 [Sep 18]
 Deportivo Cuenca      0-1 LDU de Quito
   [David MONTOYA 88]
@@ -502,7 +497,7 @@ Macará                1-5 Olmedo
 Barcelona             4-1 Deportivo Quito
   [Ariel GRAZIANI 70, 72, Walter AYOVI 88, 90+2; Hugo GUERRON 75]
 
-Round 16 [Sep 22]
+Round: 16 [Sep 22]
 Olmedo                2-1 Barcelona
   [Gabriel FERNANDEZ 20, Christian GOMEZ 60, Walter AYOVI 26]
 El Nacional           1-0 Espoli
@@ -515,7 +510,7 @@ LDU de Quito          2-2 Macará
 Emelec                3-1 Deportivo Cuenca
   [Moisés CUERO 27, 80, Hamilton RICARD 41; Modesto David VALENCIA 60]
 
-Round 17
+Round: 17
 [Sep 24]
 Barcelona             2-1 LDU de Quito
   [Rodrigo TEIXEIRA 14, Walter AYOVI 30; Patricio URRUTIA 69]
@@ -531,7 +526,7 @@ Aucas                 3-4 Olmedo
   [Oscar VILLAREAL 18, Vilson ROSERO 30, Joffre GUERRON 74; Luis CAICEDO 5,
    Gabriel FERNANDEZ 69, 76, 77]
 
-Round 18
+Round: 18
 [Oct 1]
 LDU de Quito          0-1 Aucas
   [Oscar VILLAREAL 45]
@@ -569,7 +564,7 @@ Liguilla Final
 * 5.Barcelona              10  3  2  5 14-16 13    [2]
 * 6.Aucas                  10  1  2  7 11-19  7    [2]
 
-Round 1
+Round: 1
 [Oct 23]
 Deportivo Cuenca      3-0 El Nacional
   [Walter CALDERON 1, Raúl NORIEGA 51pen, Carlos QUIÑONEZ 81]
@@ -579,7 +574,7 @@ Aucas                 2-1 Olmedo
 Barcelona             0-2 LDU de Quito
   [Franklin SALAS 45, Carlos ESPINOLA 78]
 
-Round 2
+Round: 2
 [Oct 30]
 LDU de Quito          1-0 Aucas
   [Patricio URRUTIA 65]
@@ -590,7 +585,7 @@ El Nacional           3-3 Barcelona
   [Luis Antonio VALENCIA 51, Evelio ORDOÑEZ 90pen, Omar DE JESUS 90+3;
    Rodrigo RIEP 14, Rodrigo TEIXEIRA 47, 52]
 
-Round 3
+Round: 3
 [Nov 3]
 Barcelona             3-1 Olmedo
   [Rodrigo TEIXEIRA 6, Ariel GRAZIANI 16, 75; Héctor GONZALEZ 66]
@@ -600,7 +595,7 @@ Deportivo Cuenca      2-1 Aucas
 LDU de Quito          1-1 El Nacional
   [Vicente Paúl AMBROSSI 87; Santiago MORALES 45]
 
-Round 4 [Nov 7]
+Round: 4 [Nov 7]
 Deportivo Cuenca      1-0 Barcelona
   [Carlos QUIÑONEZ 62pen]
 Aucas                 0-2 El Nacional
@@ -609,7 +604,7 @@ Olmedo                4-2 LDU de Quito
   [Fernando RODRIGUEZ 45, 51, 90, Gabriel FERNANDEZ 46; Franklin SALAS 32,
    Néicer REASCO 64]
 
-Round 5 [Nov 21]
+Round: 5 [Nov 21]
 LDU de Quito          1-2 Deportivo Cuenca
   [Alex AGUINAGA 12; Walter CALDERON 48, Modesto David VALENCIA 56]
 El Nacional           1-2 Olmedo
@@ -617,7 +612,7 @@ El Nacional           1-2 Olmedo
 Barcelona             2-1 Aucas
   [Danny VERA 33pen, 44; Renán CALLE 21]
 
-Round 6 [Nov 28]
+Round: 6 [Nov 28]
 Aucas                 2-2 Barcelona
   [Vilson ROSERO 50, Francisco LUZURIAGA 83; Rodrigo TEIXEIRA 45+1,
    Walter AYOVI 53]
@@ -626,7 +621,7 @@ Olmedo                2-1 El Nacional
 Deportivo Cuenca      1-1 LDU de Quito
   [Walter CALDERON 55, Vicente Paúl AMBROSSI 85]
 
-Round 7
+Round: 7
 [Dec 4]
 Barcelona             2-1 Deportivo Cuenca
   [Ariel GRAZIANI 62, Danny VERA 90; Walter CALDERON 11]
@@ -636,7 +631,7 @@ El Nacional           2-2 Aucas
 LDU de Quito          2-0 Olmedo
   [José PERLAZA 54og, Walter IZA 56]
 
-Round 8 [Dec 8]
+Round: 8 [Dec 8]
 Olmedo                1-0 Barcelona
   [Fernando RODRIGUEZ 70]
 Aucas                 2-3 Deportivo Cuenca
@@ -645,7 +640,7 @@ Aucas                 2-3 Deportivo Cuenca
 El Nacional           1-0 LDU de Quito
   [Evelio ORDOÑEZ 56]
 
-Round 9 [Dec 12]
+Round: 9 [Dec 12]
 Barcelona             2-3 El Nacional
   [Wilson CARABALI 64, Ariel GRAZIANI 73; Evelio ORDOÑEZ 17, 34, 61]
 Aucas                 0-2 LDU de Quito
@@ -653,7 +648,7 @@ Aucas                 0-2 LDU de Quito
 Deportivo Cuenca      1-3 Olmedo
   [Walter CALDERON 52; Freddy BRITO 39, Gabriel FERNANDEZ 56, 70]
 
-Round 10 [Dec 19]
+Round: 10 [Dec 19]
 El Nacional           3-1 Deportivo Cuenca
   [Otelino TENORIO 49, 56, 71; Carlos QUIÑONEZ 73]
 Olmedo                2-1 Aucas

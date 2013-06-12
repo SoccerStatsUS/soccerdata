@@ -7,7 +7,9 @@ aliases = {}
 full_alias = {
     'Interliga': 'InterLiga',
     'FIFA World Cup Qualification': 'FIFA World Cup qualification',
+
     #'Costa Rican Primera División': 'Primera División de Costa Rica',
+    'Costa Rican Primera División': 'Primera División de Costa Rica',
     
     'Club World Cup': 'FIFA Club World Cup',
 
@@ -21,8 +23,10 @@ full_alias = {
     'Copa Intercontinental': 'Intercontinental Cup',
 
     'Liga Argentina de Football': 'Argentine Primera División',
-    'Campeonato Brasileiro Série A': 'Brasileirão',
-    'Brasileirao': 'Brasileirão',
+
+    'Brasileirao': 'Campeonato Brasileiro Série A',
+    'Brasileirão': 'Campeonato Brasileiro Série A',
+
     'Chilean Primera Division': 'Chilean Primera División', 
     'Uruguayan Primera Division': 'Uruguayan Primera División',
 

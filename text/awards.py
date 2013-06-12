@@ -189,7 +189,8 @@ def process_conmebol_awards():
     from soccerdata.data.lists.awards.conmebol2 import copa_merconorte, copa_mercosur, copa_sudamericana, masters, copa_conmebol, copa_tie, copa_aldao, recopa_sudamericana
     from soccerdata.data.lists.awards.conmebol import copa_libertadores
     # + process_awards(copa_tie) 
-    return process_awards(copa_merconorte) + process_awards(copa_mercosur) + process_awards(copa_libertadores) + process_awards(copa_sudamericana) + process_awards(masters) + process_awards(copa_conmebol) + process_awards(copa_tie) + process_awards(copa_aldao) + process_awards(recopa_sudamericana)
+    #return process_awards(copa_merconorte) + 
+    return process_awards(copa_mercosur) + process_awards(copa_libertadores) + process_awards(copa_sudamericana) + process_awards(masters) + process_awards(copa_conmebol) + process_awards(copa_tie) + process_awards(copa_aldao) + process_awards(recopa_sudamericana)
 
 
 

@@ -1,362 +1,370 @@
 BlockSource: http://www.rsssf.com/tablesp/panama03.html
 Competition: Liga Panameña de Fútbol
 
+Season: 2003 Apertura
+
+* 1.Deportivo Árabe Unido 14  7  6  1  20-10  27  
+* 2.CD Plaza Amador       14  7  5  2  24-12  26  
+* 3.El Chorrillo FC       14  4  8  2  20-16  20 
+* 4.Tauro FC              14  5  5  4  17-15  20  [17-16]
+* 5.San Francisco FC      14  4  6  4  14-14  18  [15-14]
+* 6.Alianza FC            14  4  3  7  18-20  15  [17-19]
+* 7.Atlético Veragüense   14  2  8  4  19-25  14 
+* 8.Sporting Coclé        14  1  3 10  10-30   6  
+
+*NB: goal records between brackets as indicated by source
+
+Round: 1
+; Plaza Amador         ; 0-0; Tauro FC
+; El Chorrillo FC      ; 2-2; Alianza FC
+; San Francisco FC     ; 3-0; Sporting Coclé
+; Atlético Veraguense  ; 0-3; Deportivo Arabe Unido
+
+Round: 2
+; Alianza FC           ; 1-1; Tauro FC
+; Deportivo Arabe Unido; 1-1; San Francisco FC
+; El Chorrillo FC      ; 0-0; Sporting Coclé
+; Plaza Amador         ; 0-0; Atlético Veragüense
+
+Round: 3
+; Deportivo Arabe Unido; 0-0; El Chorrillo FC
+; Plaza Amador         ; 3-0; Alianza FC
+; Tauro FC             ; 0-2; Sporting Coclé
+; Atlético Veragüense  ; 2-2; San Francisco FC
+
+Round: 4
+; El Chorrillo FC      ; 2-1; San Francisco FC 
+; Alianza FC           ; 1-0; Atlético Veragüense
+; Plaza Amador         ; 3-1; Sporting Coclé        
+*[inferred]
+; Tauro FC             ; 0-1; Deportivo Arabe Unido 
+
+Round: 5
+; Alianza FC           ; 4-0; Sporting Coclé
+; El Chorrillo FC      ; 1-1; Atlético Veragüense
+; Plaza Amador         ; 2-1; Deportivo Arabe Unido
+; Tauro FC             ; 2-0; San Francisco FC      
+*[2-1?]
+
+Round: 6
+; Deportivo Arabe Unido; 1-0; Alianza FC
+; Atlético Veragüense  ; 1-0; Sporting Coclé
+; San Francisco FC     ; 0-0; Plaza Amador
+; El Chorrillo FC      ; 1-1; Tauro FC
+
+Round: 7
+; Tauro FC             ; 2-1; Atlético Veragüense
+; Plaza Amador         ; 2-0; El Chorrillo FC
+; Sporting Coclé       ; 1-3; Deportivo Arabe Unido 
+; Alianza FC           ; 2-3; San Francisco FC  
+
+Round: 8
+; Tauro FC             ; 2-0; Plaza Amador
+; Deportivo Arabe Unido; 2-2; Atlético Veragüense 
+; Sporting Coclé       ; 1-1; San Francisco FC
+; El Chorrillo FC      ; 2-1; Alianza FC
+
+Round: 9
+; Tauro FC             ; 1-2; Alianza FC
+; Atlético Veragüense  ; 2-2; Plaza Amador
+; San Francisco FC     ; 0-2; Deportivo Arabe Unido
+; El Chorrillo FC      ; 4-1; Sporting Coclé
+
+Round: 10
+; Tauro FC             ; 2-1; Sporting Coclé
+; Alianza FC           ; 1-2; Plaza Amador         
+; San Francisco FC     ; 1-1; Atlético Veragüense
+; Deportivo Arabe Unido; 1-1; El Chorrillo FC
+
+Round: 11
+; Sporting Coclé       ; 0-4; Plaza Amador
+; San Francisco FC     ; 0-0; El Chorrillo FC
+; Atlético Veragüense  ; 2-1; Alianza FC
+; Tauro FC             ; 0-1; Deportivo Arabe Unido
+
+Round: 12
+; Sporting Coclé       ; 1-2; Alianza FC
+; Deportivo Arabe Unido; 2-2; Plaza Amador
+; San Francisco FC     ; 0-1; Tauro FC
+; El Chorrillo FC      ; 4-1; Atlético Veragüense
+
+Round: 13
+; Tauro FC             ; 1-1; El Chorrillo FC
+; Plaza Amador         ; 0-1; San Francisco FC   
+; Sporting Coclé       ; 2-2; Atlético Veragüense
+; Alianza FC           ; 1-1; Deportivo Arabe Unido
+
+Round: 14 
+; El Chorrillo FC      ; 2-4; Plaza Amador
+; Atlético Veragüense  ; 4-4; Tauro FC
+; Sporting Coclé       ; 0-1; Deportivo Arabe Unido
+; San Francisco FC     ; 1-0; Alianza FC
+
+* 1.Deportivo Árabe Unido 14  7  6  1  20-10  27  
+* 2.CD Plaza Amador       14  7  5  2  24-12  26  
+* 3.El Chorrillo FC       14  4  8  2  20-16  20 
+* 4.Tauro FC              14  5  5  4  17-15  20  [17-16]
+* 5.San Francisco FC      14  4  6  4  14-14  18  [15-14]
+* 6.Alianza FC            14  4  3  7  18-20  15  [17-19]
+* 7.Atlético Veragüense   14  2  8  4  19-25  14 
+* 8.Sporting Coclé        14  1  3 10  10-30   6  
+*NB: goal records between brackets as indicated by source
 
-Panama 2003
-
-Torneo ANAPROF
-
-Torneo Apertura
-
-Table:
-
- 1.Deportivo Árabe Unido 14  7  6  1  20-10  27  
- 2.CD Plaza Amador       14  7  5  2  24-12  26  
- 3.El Chorrillo FC       14  4  8  2  20-16  20 
- 4.Tauro FC              14  5  5  4  17-15  20  [17-16]
- 5.San Francisco FC      14  4  6  4  14-14  18  [15-14]
- 6.Alianza FC            14  4  3  7  18-20  15  [17-19]
- 7.Atlético Veragüense   14  2  8  4  19-25  14 
- 8.Sporting Coclé        14  1  3 10  10-30   6  
-
-NB: goal records between brackets as indicated by source
-
-Round 1
-Plaza Amador          0-0 Tauro FC
-El Chorrillo FC       2-2 Alianza FC
-San Francisco FC      3-0 Sporting Coclé
-Atlético Veraguense   0-3 Deportivo Arabe Unido
-
-Round 2
-Alianza FC            1-1 Tauro FC
-Deportivo Arabe Unido 1-1 San Francisco FC
-El Chorrillo FC       0-0 Sporting Coclé
-Plaza Amador          0-0 Atlético Veragüense
-
-Round 3
-Deportivo Arabe Unido 0-0 El Chorrillo FC
-Plaza Amador          3-0 Alianza FC
-Tauro FC              0-2 Sporting Coclé
-Atlético Veragüense   2-2 San Francisco FC
-
-Round 4
-El Chorrillo FC       2-1 San Francisco FC 
-Alianza FC            1-0 Atlético Veragüense
-Plaza Amador          3-1 Sporting Coclé        [inferred]
-Tauro FC              0-1 Deportivo Arabe Unido 
-
-Round 5
-Alianza FC            4-0 Sporting Coclé
-El Chorrillo FC       1-1 Atlético Veragüense
-Plaza Amador          2-1 Deportivo Arabe Unido
-Tauro FC              2-0 San Francisco FC      [2-1?]
-
-Round 6
-Deportivo Arabe Unido 1-0 Alianza FC
-Atlético Veragüense   1-0 Sporting Coclé
-San Francisco FC      0-0 Plaza Amador
-El Chorrillo FC       1-1 Tauro FC
-
-Round 7
-Tauro FC              2-1 Atlético Veragüense
-Plaza Amador          2-0 El Chorrillo FC
-Sporting Coclé        1-3 Deportivo Arabe Unido 
-Alianza FC            2-3 San Francisco FC  
-
-Round 8
-Tauro FC              2-0 Plaza Amador
-Deportivo Arabe Unido 2-2 Atlético Veragüense 
-Sporting Coclé        1-1 San Francisco FC
-El Chorrillo FC       2-1 Alianza FC
-
-Round 9
-Tauro FC              1-2 Alianza FC
-Atlético Veragüense   2-2 Plaza Amador
-San Francisco FC      0-2 Deportivo Arabe Unido
-El Chorrillo FC       4-1 Sporting Coclé
-
-Round 10
-Tauro FC              2-1 Sporting Coclé
-Alianza FC            1-2 Plaza Amador         
-San Francisco FC      1-1 Atlético Veragüense
-Deportivo Arabe Unido 1-1 El Chorrillo FC
-
-Round 11
-Sporting Coclé        0-4 Plaza Amador
-San Francisco FC      0-0 El Chorrillo FC
-Atlético Veragüense   2-1 Alianza FC
-Tauro FC              0-1 Deportivo Arabe Unido
-
-Round 12
-Sporting Coclé        1-2 Alianza FC
-Deportivo Arabe Unido 2-2 Plaza Amador
-San Francisco FC      0-1 Tauro FC
-El Chorrillo FC       4-1 Atlético Veragüense
-
-Round 13
-Tauro FC              1-1 El Chorrillo FC
-Plaza Amador          0-1 San Francisco FC   
-Sporting Coclé        2-2 Atlético Veragüense
-Alianza FC            1-1 Deportivo Arabe Unido
-
-Round 14 
-El Chorrillo FC       2-4 Plaza Amador
-Atlético Veragüense   4-4 Tauro FC
-Sporting Coclé        0-1 Deportivo Arabe Unido
-San Francisco FC      1-0 Alianza FC
+*Cuadrangular Semifinal
 
-Table:
-
- 1.Deportivo Árabe Unido 14  7  6  1  20-10  27  
- 2.CD Plaza Amador       14  7  5  2  24-12  26  
- 3.El Chorrillo FC       14  4  8  2  20-16  20 
- 4.Tauro FC              14  5  5  4  17-15  20  [17-16]
- 5.San Francisco FC      14  4  6  4  14-14  18  [15-14]
- 6.Alianza FC            14  4  3  7  18-20  15  [17-19]
- 7.Atlético Veragüense   14  2  8  4  19-25  14 
- 8.Sporting Coclé        14  1  3 10  10-30   6  
-
-NB: goal records between brackets as indicated by source
-
-Cuadrangular Semifinal
-
-Table:
-
- 1.Deportivo Árabe Unido  6  3  3  0  10- 4  12
- 2.Tauro FC               6  3  1  2   7- 5  10
- 3.El Chorrillo FC        6  1  3  2   5- 7   6
- 4.CD Plaza Amador        6  0  3  3   2- 8   3
-
-Round 1
-El Chorrillo FC       0-0 Plaza Amador
-Deportivo Arabe Unido 2-0 Tauro FC
-
-Round 2
-El Chorrillo FC       2-1 Tauro FC
-Plaza Amador          1-1 Deportivo Arabe Unido
-
-Round 3
-Tauro FC              2-0 Plaza Amador
-Deportivo Arabe Unido 1-1 El Chorrillo FC
-
-Round 4
-Plaza Amador          1-1 El Chorrillo FC
-Tauro FC              1-1 Deportivo Arabe Unido
-
-Round 5
-Tauro FC              1-0 El Chorrillo FC
-Deportivo Arabe Unido 2-0 Plaza Amador
-
-Round 6
-El Chorrillo FC       1-3 Deportivo Arabe Unido
-Plaza Amador          0-2 Tauro FC
-
-Table:
-
- 1.Deportivo Árabe Unido  6  3  3  0  10- 4  12
- 2.Tauro FC               6  3  1  2   7- 5  10
- 3.El Chorrillo FC        6  1  3  2   5- 7   6
- 4.CD Plaza Amador        6  0  3  3   2- 8   3
-
-Apertura Final
-
-First Leg [Jun 15, Estadio Rommel Fernández Gutiérrez]
-Tauro FC              2-2 Deportivo Árabe Unido 
-  [Héctor Nazarith 40, Ricardo Phillips 44; Nicolás Muñoz II 13,
-   José Luis Garcés 24]
-
-Second Leg [Jun 22, Estadio Armando Javier Dely Valdés]
-Deportivo Árabe Unido 1-4 Tauro FC
-  [Nicolás Muñoz II 80; Luis Carlos Tejada 58, 90,
-   Mario Uriel Méndez 78, Alfredo Hernández II 89]
-
-Tauro FC are Apertura champions
-
-
-Torneo Clausura
-
-First Stage
-
-Table:
-
- 1.Tauro FC              14  6  7  1  28-11  25
- 2.Alianza FC            14  7  4  3  26-21  25
- 3.San Francisco FC      14  6  4  4  21-15  22
- 4.Atlético Veragüense   14  6  4  4  20-19  22
- 5.Deportivo Árabe Unido 14  5  6  3  21-10  21
- 6.CD Plaza Amador       14  4  6  4  19-18  18
- 7.El Chorrillo FC       14  3  7  4  20-23  16
- 8.Sporting Coclé        14  0  0 14   4-42   0
-
-Round 1
-[Jul 25]
-San Francisco FC      1-3 Tauro FC              
-Plaza Amador          1-1 Deportivo Arabe Unido 
-El Chorrillo FC       4-1 Alianza FC          
-[Jul 27]
-Atletico Veraguense   1-0 Sporting Coclé 
-
-Round 2
-[Aug 2]
-Sporting Coclé        0-4 El Chorrillo FC 
-[Aug 3]
-Tauro FC              1-1 Atlético Veraguense  
-Deportivo Arabe Unido 2-2 San Francisco FC      
-Alianza FC            4-2 Plaza Amador  
-
-Round 3 [Aug 6]
-Tauro FC              1-1 Deportivo Arabe Unido 
-San Francisco FC      1-2 Alianza FC           
-Plaza Amador          1-0 Sporting Coclé 
-Atlético Veraguense   4-4 El Chorrillo FC  
-
-Round 4
-[Aug 9]
-Sporting Coclé        0-4 San Francisco FC 
-[Aug 10]
-Deportivo Arabe Unido 2-1 Atlético Veraguense   
-Alianza FC            2-4 Tauro FC         
-El Chorrillo FC       0-0 Plaza Amador   
-
-Round 5 
-[Aug 16]
-Atlético Veraguense   1-0 Plaza Amador 
-[Aug 17]
-Deportivo Arabe Unido 0-1 Alianza FC   
-Tauro FC              3-0 Sporting Coclé 
-San Francisco FC      1-1 El Chorrillo FC   
-
-Round 6
-[Aug 22]
-Plaza Amador          2-0 San Francisco FC 
-[Aug 23]
-Atlético Veraguense   1-1 Alianza FC       
-Sporting Coclé        0-2 Deportivo Arabe Unido 
-[Aug 24]
-El Chorrillo FC       1-1 Tauro FC               
-
-Round 7 [Aug 27]
-Alianza FC            3-1 Sporting Coclé 
-Deportivo Arabe Unido 3-0 El Chorrillo FC 
-Tauro FC              2-0 Plaza Amador    
-San Francisco FC      2-0 Atlético Veraguense 
-
-Round 8
-[Aug 30]
-Sporting Coclé        1-3 Atlético Veraguense
-[Aug 31]
-Tauro FC              0-0 San Francisco FC 
-Deportivo Arabe Unido 0-0 Plaza Amador   
-Alianza FC            2-0 El Chorrillo FC  
-
-Round 9
-[Sep 5]
-Plaza Amador          3-3 Alianza FC       
-El Chorrillo FC       3-1 Sporting Coclé
-[Sep 6]
-Atlético Veraguense   1-0 Tauro FC  
-San Francisco FC      2-1 Deportivo Arabe Unido 
+* 1.Deportivo Árabe Unido  6  3  3  0  10- 4  12
+* 2.Tauro FC               6  3  1  2   7- 5  10
+* 3.El Chorrillo FC        6  1  3  2   5- 7   6
+* 4.CD Plaza Amador        6  0  3  3   2- 8   3
 
-Round 10
-[Sep 12]
-El Chorrillo FC       2-2 Atlético Veraguense 
-[Sep 13]
-Sporting Coclé        0-4 Plaza Amador 
-[Sep 14]
-Deportivo Arabe Unido 0-0 Tauro FC
-Alianza FC            2-3 San Francisco FC
+Round: 1
 
-Round 11
-[Sep 19]
-San Francisco FC      2-0 Sporting Coclé 
-Plaza Amador          0-0 El Chorrillo FC 
-[Sep 20]
-Atlético Veraguense   1-0 Deportivo Arabe Unido
-[Sep 21]
-Tauro FC              0-0 Alianza FC     
+; El Chorrillo FC      ; 0-0; Plaza Amador
+; Deportivo Arabe Unido; 2-0; Tauro FC
 
-Round 12
-[Sep 24]
-Alianza FC            1-1 Deportivo Arabe Unido
-Sporting Coclé        1-6 Tauro FC      
-Plaza Amador          3-2 Atlético Veraguense
-[Sep 28]
-El Chorrillo FC       1-1 San Francisco FC   
+Round: 2
 
-Round 13 [Oct 1]
-Alianza FC            3-1 Atlético Veraguense
-Deportivo Arabe Unido 5-0 Sporting Coclé  
-Tauro FC              4-0 El Chorrillo FC     
-San Francisco FC      2-0 Plaza Amador    
+; El Chorrillo FC      ; 2-1; Tauro FC
+; Plaza Amador         ; 1-1; Deportivo Arabe Unido
 
-Round 14 [Oct 5]
-Sporting Coclé        0-1 Alianza FC 
-El Chorrillo FC       0-3 Deportivo Arabe Unido
-Plaza Amador          3-3 Tauro FC    
-Atlético Veraguense   1-0 San Francisco FC  
+Round: 3
 
-Table:
+; Tauro FC             ; 2-0; Plaza Amador
+; Deportivo Arabe Unido; 1-1; El Chorrillo FC
 
- 1.Tauro FC              14  6  7  1  28-11  25
- 2.Alianza FC            14  7  4  3  26-21  25
- 3.San Francisco FC      14  6  4  4  21-15  22
- 4.Atlético Veragüense   14  6  4  4  20-19  22
- 5.Deportivo Árabe Unido 14  5  6  3  21-10  21
- 6.CD Plaza Amador       14  4  6  4  19-18  18
- 7.El Chorrillo FC       14  3  7  4  20-23  16
- 8.Sporting Coclé        14  0  0 14   4-42   0
+Round: 4
 
-Semifinals
+; Plaza Amador         ; 1-1; El Chorrillo FC
+; Tauro FC             ; 1-1; Deportivo Arabe Unido
 
-First Legs [Oct 12]
-San Francisco FC      0-1 Alianza FC
-Atlético Veraguense   1-2 Tauro FC
+Round: 5
 
-Second Legs [Oct 19]
-Alianza FC            3-2 San Francisco FC
-Tauro FC              4-2 Atlético Veraguense   
+; Tauro FC             ; 1-0; El Chorrillo FC
+; Deportivo Arabe Unido; 2-0; Plaza Amador
 
-Clausura Final [Oct 26, Estadio Rommel Fernández, Cdad. de Panamá]
-Tauro FC              5-1 Alianza FC
-  [Héctor Nazarith 3, Marco Aparicio 13, Rolando Palma 25,
-   Ricardo Phillips 39, John Jairo García 82; Alberto Zapata 14] 
+Round: 6
 
-Tauro FC are Clausura champions
+; El Chorrillo FC      ; 1-3; Deportivo Arabe Unido
+; Plaza Amador         ; 0-2; Tauro FC
 
-As winners of both Apertura and Clausura, Tauro FC are champions 2003.
+* 1.Deportivo Árabe Unido  6  3  3  0  10- 4  12
+* 2.Tauro FC               6  3  1  2   7- 5  10
+* 3.El Chorrillo FC        6  1  3  2   5- 7   6
+* 4.CD Plaza Amador        6  0  3  3   2- 8   3
 
+Round: Final
 
-Promoted: Pan de Azúcar (Panamá City) and River Plate FC (Colón)
+*First Leg
+6/15/2003; Tauro FC             ; 2-2; Deportivo Árabe Unido ; Estadio Rommel Fernandez
+Héctor Nazarith 40, Ricardo Phillips 44; Nicolás Muñoz II 13, José Luis Garcés 24
 
-Second Level:
+*Second Leg
+6/22/2003; Deportivo Árabe Unido; 1-4; Tauro FC; Estadio Armando Javier Dely Valdes
+Nicolás Muñoz II 80; Luis Carlos Tejada 58, Luis Tejada 90, Mario Uriel Méndez 78, Alfredo Hernández II 89
 
-Apertura winners: Pan de Azúcar
-Clausura winners: River Plate FC
-overall champions: River Plate FC
+*Tauro FC are Apertura champions
 
 
-2002.
+Season: 2003 Clausura
 
+* 1.Tauro FC              14  6  7  1  28-11  25
+* 2.Alianza FC            14  7  4  3  26-21  25
+* 3.San Francisco FC      14  6  4  4  21-15  22
+* 4.Atlético Veragüense   14  6  4  4  20-19  22
+* 5.Deportivo Árabe Unido 14  5  6  3  21-10  21
+* 6.CD Plaza Amador       14  4  6  4  19-18  18
+* 7.El Chorrillo FC       14  3  7  4  20-23  16
+* 8.Sporting Coclé        14  0  0 14   4-42   0
 
-2004.
+Round: 1
+Date: 7/25/2003
 
+; San Francisco FC     ; 1-3; Tauro FC              
+; Plaza Amador         ; 1-1; Deportivo Arabe Unido 
+; El Chorrillo FC      ; 4-1; Alianza FC          
 
-list of champions.
+Date: 7/27/2003
 
+; Atletico Veraguense  ; 1-0; Sporting Coclé 
 
-list of 2nd level champions.
+Round: 2
 
+Date: 8/2/2003
 
-list of topscorers.
+; Sporting Coclé       ; 0-4; El Chorrillo FC 
 
+Date: 8/3/2003
 
+; Tauro FC             ; 1-1; Atlético Veraguense  
+; Deportivo Arabe Unido; 2-2; San Francisco FC      
+; Alianza FC           ; 4-2; Plaza Amador  
 
-About this document
+Round: 3 
+Date: 8/6/2003
 
-Prepared and maintained by Adán De Gracia for the Rec.Sport.Soccer Statistics Foundation
+; Tauro FC             ; 1-1; Deportivo Arabe Unido 
+; San Francisco FC     ; 1-2; Alianza FC           
+; Plaza Amador         ; 1-0; Sporting Coclé 
+; Atlético Veraguense  ; 4-4; El Chorrillo FC  
 
-Author: Adán De Gracia (adandg@hotmail.com) 
-Last updated: 28 Nov 2006
+Round: 4
+Date: 8/9/2003
 
-(C) Copyright Adán De Gracia and RSSSF 2003/06
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+; Sporting Coclé       ; 0-4; San Francisco FC 
+
+Date: 8/10/2003
+
+; Deportivo Arabe Unido; 2-1; Atlético Veraguense   
+; Alianza FC           ; 2-4; Tauro FC         
+; El Chorrillo FC      ; 0-0; Plaza Amador   
+
+Round: 5 
+Date: 8/16/2003
+
+; Atlético Veraguense  ; 1-0; Plaza Amador 
+
+Date: 8/17/2003
+
+; Deportivo Arabe Unido; 0-1; Alianza FC   
+; Tauro FC             ; 3-0; Sporting Coclé 
+; San Francisco FC     ; 1-1; El Chorrillo FC   
+
+Round: 6
+Date: 8/22/2003
+
+; Plaza Amador         ; 2-0; San Francisco FC 
+
+Date: 8/23/2003
+
+; Atlético Veraguense  ; 1-1; Alianza FC       
+; Sporting Coclé       ; 0-2; Deportivo Arabe Unido 
+
+Date: 8/24/2003
+
+; El Chorrillo FC      ; 1-1; Tauro FC               
+
+Round: 7 
+Date: 8/27/2003
+
+; Alianza FC           ; 3-1; Sporting Coclé 
+; Deportivo Arabe Unido; 3-0; El Chorrillo FC 
+; Tauro FC             ; 2-0; Plaza Amador    
+; San Francisco FC     ; 2-0; Atlético Veraguense 
+
+Round: 8
+
+Date: 8/30/2003
+
+; Sporting Coclé       ; 1-3; Atlético Veraguense
+
+Date: 8/31/2003
+
+; Tauro FC             ; 0-0; San Francisco FC 
+; Deportivo Arabe Unido; 0-0; Plaza Amador   
+; Alianza FC           ; 2-0; El Chorrillo FC  
+
+Round: 9
+
+Date: 9/5/2003
+
+; Plaza Amador         ; 3-3; Alianza FC       
+; El Chorrillo FC      ; 3-1; Sporting Coclé
+
+Date: 9/6/2003
+
+; Atlético Veraguense  ; 1-0; Tauro FC  
+; San Francisco FC     ; 2-1; Deportivo Arabe Unido 
+
+Round: 10
+
+Date: 9/12/2003
+
+; El Chorrillo FC      ; 2-2; Atlético Veraguense 
+
+Date: 9/13/2003
+
+; Sporting Coclé       ; 0-4; Plaza Amador 
+
+Date: 9/14/2003
+
+; Deportivo Arabe Unido; 0-0; Tauro FC
+; Alianza FC           ; 2-3; San Francisco FC
+
+Round: 11
+Date: 9/19/2003
+
+; San Francisco FC     ; 2-0; Sporting Coclé 
+; Plaza Amador         ; 0-0; El Chorrillo FC 
+
+Date: 9/20/2003
+
+; Atlético Veraguense  ; 1-0; Deportivo Arabe Unido
+
+Date: 9/21/2003
+
+; Tauro FC             ; 0-0; Alianza FC     
+
+Round: 12
+Date: 9/24/2003
+
+; Alianza FC           ; 1-1; Deportivo Arabe Unido
+; Sporting Coclé       ; 1-6; Tauro FC      
+; Plaza Amador         ; 3-2; Atlético Veraguense
+
+Date: 9/28/2003
+
+; El Chorrillo FC      ; 1-1; San Francisco FC   
+
+Round: 13 
+Date: 10/1/2003
+
+; Alianza FC           ; 3-1; Atlético Veraguense
+; Deportivo Arabe Unido; 5-0; Sporting Coclé  
+; Tauro FC             ; 4-0; El Chorrillo FC     
+; San Francisco FC     ; 2-0; Plaza Amador    
+
+Round: 14 
+Date: 10/5/2003
+
+; Sporting Coclé       ; 0-1; Alianza FC 
+; El Chorrillo FC      ; 0-3; Deportivo Arabe Unido
+; Plaza Amador         ; 3-3; Tauro FC    
+; Atlético Veraguense  ; 1-0; San Francisco FC  
+
+* 1.Tauro FC              14  6  7  1  28-11  25
+* 2.Alianza FC            14  7  4  3  26-21  25
+* 3.San Francisco FC      14  6  4  4  21-15  22
+* 4.Atlético Veragüense   14  6  4  4  20-19  22
+* 5.Deportivo Árabe Unido 14  5  6  3  21-10  21
+* 6.CD Plaza Amador       14  4  6  4  19-18  18
+* 7.El Chorrillo FC       14  3  7  4  20-23  16
+* 8.Sporting Coclé        14  0  0 14   4-42   0
+
+Round: Semifinals
+
+*First Legs 
+Date: 10/12/2003
+
+; San Francisco FC     ; 0-1; Alianza FC
+; Atlético Veraguense  ; 1-2; Tauro FC
+
+*Second Legs 
+Date: 10/19/2003
+
+; Alianza FC           ; 3-2; San Francisco FC
+; Tauro FC             ; 4-2; Atlético Veraguense   
+
+*Clausura Final 
+
+10/26/2003; Tauro FC             ; 5-1; Alianza FC; Estadio Rommel Fernandez
+Héctor Nazarith 3, Marco Aparicio 13, Rolando Palma 25, Ricardo Phillips 39, John Jairo García 82; Alberto Zapata 14
+
+*Tauro FC are Clausura champions
+*As winners of both Apertura and Clausura, Tauro FC are champions 2003.
+
+
+*Prepared and maintained by Adán De Gracia for the Rec.Sport.Soccer Statistics Foundation
+*Author: Adán De Gracia (adandg@hotmail.com) 
+*Last updated: 28 Nov 2006
+*(C) Copyright Adán De Gracia and RSSSF 2003/06
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

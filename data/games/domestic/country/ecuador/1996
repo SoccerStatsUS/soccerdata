@@ -1,15 +1,10 @@
 BlockSource: http://www.rsssf.com/tablese/ecua96.html
-
-Ecuador 1996
+Season: 1996 Apertura
 
 *The season consists of a Torneo Apertura and a Torneo Clausura.  Both
 *winners qualify for the Copa Libertadores 1997.  The champion is
 *determined in a playoff between the two winners.  If one team wins
 *both, it automatically wins the championship 1996.
-
-
-Torneo Apertura
-
 
 * 1.Nacional               22 15  5  2  42-16  50   [Quito]
 * 2.Emelec                 22 14  4  4  50-19  46   [Guayaquil]
@@ -24,7 +19,7 @@ Torneo Apertura
 *11.Aucas                  22  3  6 13  16-29  15   [Quito]
 *12.LDU Portoviejo         22  4  3 15  21-53  15   [Portoviejo]
 
-Round 1
+Round: 1
 LDU Quito-Barcelona 0-1
 Nacional-Aucas 2-0
 Cuenca-Green Cross 3-0,
@@ -32,7 +27,7 @@ Olmedo-Dep Quito 0-2
 Emelec-Espoli 4-0
 LDU Portoviejo-Tecnico Univ 0-2
 
-Round 2
+Round: 2
 Barcelona-Nacional 1-0
 Espoli-Olmedo 1-1
 Aucas-LDU Portoviejo 3-1
@@ -40,7 +35,7 @@ Dep Quito-LDU Quito 2-2
 Green Cross-Emelec 0-2
 Tecnico U-Cuenca 1-1
 
-Round 3
+Round: 3
 Olmedo-Barcelona 2-1
 Espoli-Tecnico U 2-0
 Nacional-Green Cross 4-0,
@@ -48,7 +43,7 @@ Cuenca-Dep Quito 0-0
 Emelec-Aucas 2-1
 LDU Portoviejo-LDU Quito 2-4
 
-Round 4
+Round: 4
 Dep Quito-Emelec 1-2
 Green Cross-Espoli 2-1
 LDU Quito-Cuenca 0-1
@@ -56,7 +51,7 @@ Aucas-Olmedo 0-2
 Tecnico U-Nacional 0-2
 Barcelona-LDU Portoviejo 5-0
 
-Round 5
+Round: 5
 Nacional-LDU Quito 1-0
 Emelec-Tecnico U 7-0
 Olmedo-Green Cross 2-0
@@ -64,7 +59,7 @@ LDU Portoviejo-Dep Quito 3-3
 Cuenca-Barcelona 1-0
 Aucas-Espoli 1-2
 
-Round 6
+Round: 6
 Tecnico U-LDU Quito 0-2
 Dep Quito-Nacional 2-2
 Olmedo-Cuenca 0-0
@@ -72,7 +67,7 @@ Green Cross-Aucas 2-1
 Espoli-LDU Portoviejo 3-0
 Barcelona-Emelec 1-0
 
-Round 7
+Round: 7
 Cuenca-Espoli 1-0
 Dep Quito-Tecnico U 6-2
 LDU Quito-Olmedo 5-0
@@ -80,7 +75,7 @@ LDU Portoviejo-Green Cross 2-1
 Emelec-Nacional 2-1
 Aucas-Barcelona 1-1
 
-Round 8
+Round: 8
 Barcelona-Dep Quito 1-1
 Aucas-LDU Quito 1-1
 Espoli-Nacional 1-1
@@ -88,7 +83,7 @@ Olmedo-Emelec 1-0
 LDU Portoviejo-Cuenca 2-5
 Tecnico U-Green Cross 4-1
 
-Round 9
+Round: 9
 Tecnico U-Barcelona 2-0
 Nacional-Olmedo 2-1
 Espoli-Dep Quito 1-0,
@@ -96,7 +91,7 @@ Cuenca-Aucas 3-0
 Emelec-LDU Portoviejo 4-1
 Green Cross-LDU Quito 2-0
 
-Round 10
+Round: 10
 Green Cross-Barcelona 0-3
 Nacional-LDU Portoviejo 6-0
 Dep Quito-Aucas 2-1
@@ -104,7 +99,7 @@ LDU Quito-Espoli 0-1
 Olmedo-Tecnico U 2-1
 Emelec-Cuenca 2-0
 
-Round 11
+Round: 11
 Barcelona-Espoli 2-0
 LDU Quito-Emelec 4-3
 Dep Quito-Green Cross 6-0
@@ -112,7 +107,7 @@ Cuenca-Nacional 0-0
 Portoviejo-Olmedo 3-0
 Tecnico U-Aucas 2-1
 
-Round 12
+Round: 12
 Espoli-Barcelona 0-2
 Emelec-LDU Quito 5-0
 Green Cross-Dep Quito 0-1
@@ -120,7 +115,7 @@ Nacional-Cuenca 1-1
 Olmedo-LDU Portoviejo 1-0
 Aucas-Tecnico U 1-1
 
-Round 13
+Round: 13
 Barcelona-Green Cross 1-0
 LDU Portoviejo-Nacional 0-3
 Aucas-Dep Quito 0-1
@@ -128,7 +123,7 @@ Espoli-LDU Quito 0-0
 Tecnico U-Olmedo 2-1
 Cuenca-Emelec 1-1
 
-Round 14
+Round: 14
 Barcelona-Tecnico 6-1
 Olmedo-Nacional 1-2
 Dep Quito-Espoli 1-1
@@ -136,7 +131,7 @@ Aucas-Cuenca 2-0
 Portoviejo-Emelec 0-1
 LDU Quito-G Cross 1-1
 
-Round 15
+Round: 15
 Dep Quito-Barcelona 1-0
 LDU Quito-Aucas 1-0
 Nacional-Espoli 2-2
@@ -144,7 +139,7 @@ Emelec-Olmedo 3-1
 Cuenca-LDU Portoviejo 0-1
 Green Cross-Tecnico U 0-0
 
-Round 16
+Round: 16
 Espoli-Cuenca 4-1
 Tecnico U-Dep Quito 3-1
 Olmedo-LDU Quito 3-1
@@ -152,7 +147,7 @@ Green Cross-LDU Portoviejo 1-0
 Nacional-Emelec 1-0
 Barcelona-Aucas 1-1
 
-Round 17
+Round: 17
 LDU Quito-Tecnico U 2-0
 Nacional-Dep Quito 2-0
 Cuenca-Olmedo 1-1
@@ -160,7 +155,7 @@ Aucas-Green Cross 1-0
 LDU Portoviejo-Espoli 0-0
 Emelec-Barcelona 2-1
 
-Round 18
+Round: 18
 LDU Quito-Nacional 1-2
 Tecnico U-Emelec 0-3
 Green Cross-Olmedo 0-0
@@ -168,7 +163,7 @@ Dep Quito-LDU Portoviejo 3-0
 Barcelona-Cuenca 1-0
 Espoli-Aucas 1-0
 
-Round 19
+Round: 19
 Emelec-Dep Quito 1-1
 Espoli-Green Cross 2-1
 Cuenca-LDU Quito 1-0
@@ -176,7 +171,7 @@ Olmedo-Aucas 1-0
 Nacional-Tecnico U 2-1
 LDU Portoviejo-Barcelona 2-5
 
-Round 20
+Round: 20
 Barcelona-Olmedo 1-0
 Tecnico U-Espoli 2-1
 Green Cross-Nacional 1-2
@@ -184,7 +179,7 @@ Dep Quito-Cuenca 1-2
 Aucas-Emelec 1-1
 LDU Quito-LDU Portoviejo 2-0
 
-Round 21
+Round: 21
 Nacional-Barcelona 1-0
 Olmedo-Espoli 1-0
 LDU Portoviejo-Aucas 3-0
@@ -192,7 +187,7 @@ LDU Quito-Dep Quito 2-2
 Emelec-Green Cross 4-1
 Cuenca-Tecnico U 1-0
 
-Round 22
+Round: 22
 Barcelona-LDU Quito 2-1
 Aucas-Nacional 0-1
 Green Cross-Cuenca 3-0
@@ -213,9 +208,9 @@ Tecnico U-LDU Portoviejo 1-1.
 *11.Aucas                  22  3  6 13  16-29  15   [Quito]
 *12.LDU Portoviejo         22  4  3 15  21-53  15   [Portoviejo]
 
-Torneo Clausura
+Season: 1996 Clausura
 
-Round 1
+Round: 1
 Nacional     2-0 Green Cross
 Olmedo       3-2 LDU Quito
 Cuenca       1-0 Emelec
@@ -223,7 +218,7 @@ Portoviejo   1-0 Espoli
 Barcelona    2-2 Dep Quito
 Aucas        2-2 Tecnico Univ
 
-Round 2
+Round: 2
 Green Cross  1-2 Olmedo 
 Nacional     2-0 LDU Quito 
 Emelec       5-0 Portoviejo 
@@ -231,7 +226,7 @@ Espoli       1-1 Cuenca
 Aucas        1-0 Dep Quito
 Tecnico Univ 2-0 Barcelona 
 
-Round 3
+Round: 3
 LDU Quito    3-1 Green Cross 
 Olmedo       1-0 Nacional 
 Espoli       2-0 Emelec 
@@ -239,7 +234,7 @@ Cuenca       1-0 Portoviejo
 Dep Quito    3-2 Tecnico Univ
 Barcelona    4-3 Aucas 
 
-Round 4
+Round: 4
 Olmedo       1-0 Green Cross
 LDU Quito    0-3 Nacional
 Cuenca       0-0 Espoli
@@ -247,7 +242,7 @@ Portoviejo   1-2 Emelec
 Aucas        0-2 Dep Quito
 Barcelona    2-0 Tecnico Univ
 
-Round 5
+Round: 5
 Green Cross  0-0 LDU Quito
 Nacional     2-1 Olmedo
 Emelec       3-0 Espoli
@@ -255,7 +250,7 @@ Portoviejo   2-3 Cuenca
 Tecnico Univ 2-3 Dep Quito
 Aucas        0-0 Barcelona
 
-Round 6
+Round: 6
 LDU Quito    1-0 Olmedo
 Green Cross  3-2 Nacional
 Emelec       3-1 Cuenca 
@@ -263,81 +258,80 @@ Espoli       3-0 Portoviejo
 Dep Quito    1-0 Barcelona 
 Tecnico Univ 0-0 Aucas
 
-Standings 
 
-Group 1
- 1.Nacional                6  4  0  2 11- 5  12
- 2.Olmedo                  6  4  0  2  8- 6  12
------------------------------------------------
- 3.LDU Quito               6  2  1  3  6- 9   7
- 4.Green Cross             6  1  1  4  5-10   4
+*Group 1
+* 1.Nacional                6  4  0  2 11- 5  12
+* 2.Olmedo                  6  4  0  2  8- 6  12
+*-----------------------------------------------
+* 3.LDU Quito               6  2  1  3  6- 9   7
+* 4.Green Cross             6  1  1  4  5-10   4
 
-Group 2
- 1.Emelec                  6  4  0  2 13- 5  12
- 2.Deportivo Cuenca        6  3  2  1  7- 6  11
------------------------------------------------
- 3.Espoli                  6  2  2  2  6- 5   8
- 4.LDU Portoviejo          6  1  0  5  4-14   3
+*Group 2
+* 1.Emelec                  6  4  0  2 13- 5  12
+* 2.Deportivo Cuenca        6  3  2  1  7- 6  11
+*-----------------------------------------------
+* 3.Espoli                  6  2  2  2  6- 5   8
+* 4.LDU Portoviejo          6  1  0  5  4-14   3
 
-Group 3
- 1.Deportivo Quito         6  4  1  1 11- 7  13
- 2.Barcelona               6  2  2  2  8- 8   8
------------------------------------------------
- 3.Aucas                   6  1  3  2  6- 8   6
- 4.Tecnico Universitario   6  1  2  3  8-10   5
+*Group 3
+* 1.Deportivo Quito         6  4  1  1 11- 7  13
+* 2.Barcelona               6  2  2  2  8- 8   8
+*-----------------------------------------------
+* 3.Aucas                   6  1  3  2  6- 8   6
+* 4.Tecnico Universitario   6  1  2  3  8-10   5
 
-Nacional, Olmedo, Cuenca, Emelec, Barcelona and Deportivo Quito
-qualified for Hexagonal Final.
+*Nacional, Olmedo, Cuenca, Emelec, Barcelona and Deportivo Quito
+*qualified for Hexagonal Final.
 
 
 Hexagonal para Copa Libertadores de America
 ===========================================
-Round 1
+Round: 1
 Nacional     3-1 Emelec
 Barcelona    4-0 Olmedo
 Cuenca       0-0 Dep Quito
 
-Round 2
+Round: 2
 Olmedo       0-0 Nacional
 Dep Quito    4-2 Barcelona
 Emelec       5-1 Cuenca
 
-Round 3
+Round: 3
 Barcelona    1-0 Nacional
 Dep Quito    2-1 Emelec
 Cuenca       1-1 Olmedo
 
-Round 4
+Round: 4
 Nacional     3-1 Cuenca
 Olmedo       0-1 Dep Quito
 Emelec       1-0 Barcelona
 
-Round 5
+Round: 5
 Nacional     2-0 Dep Quito
 Emelec       2-2 Olmedo
 Cuenca       1-2 Barcelona
 
-Round 6
+Round: 6
 Dep Quito    2-2 Nacional
 Olmedo       1-1 Emelec
 Barcelona    2-2 Cuenca
 
-Round 7
+Round: 7
 Cuenca       2-2 Nacional
 Dep Quito    1-1 Olmedo
 Emelec       3-0 Barcelona
 
-Round 8
+Round: 8
 Nacional     0-0 Barcelona
 Olmedo       0-1 Cuenca
 Emelec       7-0 Dep Quito
 
-Round 9
+Round: 9
 Nacional     4-1 Olmedo
 Cuenca       1-0 Emelec
 Dep Quito    0-3 Barcelona
 
-Round 10
+Round: 10
 Dep Quito    3-0 Cuenca
 Olmedo       0-2 Barcelona
 Emelec       3-0 Nacional
@@ -356,65 +350,63 @@ for the championship 1996 (see below).
 
 Hexagonal para el no descenso de categoría
 
-Round 1
+Round: 1
 Tecnico Univ 2-1 Green Cross
 Portoviejo   2-2 LDU Quito
 Aucas        1-1 Espoli
 
-Round 2
+Round: 2
 Green Cross  1-1 Portoviejo
 Aucas        1-1 LDU Quito
 Tecnico Univ 1-1 Espoli
 
-Round 3
+Round: 3
 Aucas        3-0 Portoviejo
 Green Cross  1-2 Espoli
 Tecnico Univ 2-0 LDU Quito
 
-Round 4
+Round: 4
 Aucas        2-0 Green Cross
 LDU Quito    2-2 Espoli
 Portoviejo   2-0 Tecnico Univ
 
-Round 5
+Round: 5
 Espoli       2-1 Portoviejo
 Green Cross  2-1 LDU Quito
 Tecnico Univ 2-1 Aucas
 
-Round 6
+Round: 6
 Portoviejo   1-2 Espoli
 LDU Quito    4-1 Green Cross
 Aucas        3-0 Tecnico Univ
 
-Round 7
+Round: 7
 Espoli       0-0 LDU Quito
 Green Cross  2-1 Aucas
 Tecnico Univ 3-0 Portoviejo
 
-Round 8
+Round: 8
 Espoli       1-0 Green Cross
 LDU Quito    1-0 Tecnico Univ
 Portoviejo   0-0 Aucas
 
-Round 9
+Round: 9
 Aucas        0-0 LDU Quito
 Tecnico Univ 0-0 Espoli
 Portoviejo   4-1 Green Cross
 
-Round 10
+Round: 10
 Aucas        4-1 Espoli
 LDU Quito    6-0 Portoviejo
 Green Cross  1-2 Tecnico Univ
 
-Table:
-
- 1.Tecnico Universitario  10  5  2  3  12-10  17
- 2.Espoli                 10  4  5  1  12-11  17
- 3.Aucas                  10  4  4  2  16- 7  14  (-2 bonus points)
- 4.LDU Quito              10  3  5  2  17-10  14
-------------------------------------------------
- 5.Green Cross            10  2  1  7  10-20   7
- 6.LDU Portoviejo         10  2  3  5  11-20   6  (-3 bonus points)
+* 1.Tecnico Universitario  10  5  2  3  12-10  17
+* 2.Espoli                 10  4  5  1  12-11  17
+* 3.Aucas                  10  4  4  2  16- 7  14  (-2 bonus points)
+* 4.LDU Quito              10  3  5  2  17-10  14
+*------------------------------------------------
+* 5.Green Cross            10  2  1  7  10-20   7
+* 6.LDU Portoviejo         10  2  3  5  11-20   6  (-3 bonus points)
 
 Green Cross and LDU Portoviejo relegated.
 

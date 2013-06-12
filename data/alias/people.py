@@ -187,6 +187,125 @@ last_name = {
 
 
 basic = {
+
+    'Sebastiàn Abreu': 'Sebastián Abreu',
+    'Sebastian Abreu': 'Sebastián Abreu', 
+    'W. Sebastian Abreu': 'Sebastián Abreu', 
+
+    'Wilson Graneolatti': 'Wilson Graniolatti',
+    'Wilson Granneolatti': 'Wilson Graniolatti',
+
+    'Wilson Tadei': 'Wilson Taddei',
+    'Zdenko Muff': 'Zdenko Muf',
+
+
+
+    'Tomàs Banda': 'Tomás Banda',
+    'Edson Zwarics': 'Edson Zwaricz',
+    'Eliomar Marcon': 'Eliomar Marcón',
+    'Eliomar Marcòn': 'Eliomar Marcón',
+
+    'Emilio Hassam Viades': 'Emilio Hassan Viades',
+    'Emilio Hassan': 'Emilio Hassan Viades',
+    'Enzo Trosero': 'Enzo Trossero',
+
+    'Everaldo Bejines': 'Everaldo Begines',
+
+    'Fabian Pena': 'Fabian Peña',
+
+    'Facundo Abel Pereira': 'Facundo Abel Pereyra',
+
+    'Irenio Soarez': 'Irenio Soares',
+
+    'Irving Ruvirosa': 'Irving Rubirosa',
+
+    'Iván Moreno y Fabianessi': 'Iván Moreno y Fabianesi',
+
+    'Marco Antonio Bennato': 'Marco Antonio Benatto',
+
+    'Pablo Quatrocci': 'Pablo Quatrocchi',
+    'Pablo Quattrocchi': 'Pablo Quatrocchi',
+
+    'Paúl Nicolás Aguilar': 'Paúl Aguilar',
+
+    'Pedro Massachessi': 'Pedro Massacessi',
+
+    'Jahir Barranza': 'Jahir Barraza',
+    'Kalusha Bwualya': 'Kalusha Bwalya',
+
+    'Eduardo Lillingstón': 'Eduardo Lillingston',
+    'Diego De La Torre': 'Diego de la Torre',
+    'Diego Coloto': 'Diego Colotto',
+    'Dennis Caniza': 'Denis Caniza',
+    'Darío Botinelli': 'Darío Bottinelli',
+    'Walter Ervitti': 'Walter Erviti',
+    'Walter Silviani': 'Walter Silvani',
+    'Richard Nuñez': 'Richard Núñez',
+    'Reynaldo Gualdini': 'Reynaldo Güeldini',
+    'Rafael Márquez Lugo': 'Rafael Márquez',
+    'Rafael Marquez': 'Rafael Márquez',
+    'Osmar Donizette': 'Osmar Donizete ',
+    'Osmar Donizetti': 'Osmar Donizete ',
+
+    'Alberto Etcheverri': 'Alberto Etcheverry',
+
+    'Alberto Garcia Aspe': 'Alberto García Aspe',
+    'Alberto García Aspe': 'Alberto García',
+    'Alberto Garcia': 'Alberto García',
+    'Garcia Aspe': 'Alberto García',
+    'García Aspe': 'Alberto García',
+
+
+
+    
+    'Alberto Macias': 'Alberto Macías',
+    
+    'Aldo Leao Ramirez': 'Aldo Leao Ramírez',
+
+    'Alejandro Glaria': 'Alejandro Glaría',
+
+    'Alfredo Gonzalez Tahuilan': 'Alfredo González Tahuilán',
+
+    'Ali Fernandez': 'Ali Fernández',
+
+    'Almir Da Souza': 'Almir da Souza',
+    'Almir De Souza': 'Almir da Souza',
+    'Almir de Souza': 'Almir da Souza',
+
+    'Amarildo Soarez': 'Amarildo Soares',
+
+    'Andoni Hernandez': 'Andoni Hernández',
+    'Andony Hernandez': 'Andoni Hernández',
+    'Andony Hernández': 'Andoni Hernández',
+
+    'Andrés Chivita': 'Andrés Chitiva',
+
+    'Daniel Demetrio Hernández': 'Daniel Hernandez',
+    'Daniel Demetrio Hernandez': 'Daniel Hernandez',
+    'Daniel Demetrio': 'Daniel Hernandez',
+    'Daniel Hernnadez':     'Daniel Hernández',
+
+    
+    
+    'Aarón "Gansito" Padilla': 'Aarón Padilla',
+    'Abdul Thompson': 'Abdul Thompson Conteh',
+    'Abraham Dario Carreno': 'Abraham Darío Carreño',
+    'Ailton Da Silva': 'Ailton da Silva',
+
+    'Vicente Vuoso': 'Matías Vuoso',
+    'Matias Vuoso': 'Matías Vuoso',
+    'Matías Vuoso': 'Vicente Matías Vuoso',
+    'Vicente Matias Vuoso': 'Vicente Matías Vuoso',
+
+    'Jose A. Noriega': 'José Antonio Noriega',
+
+    'Mario Hernández Lash': 'Mario Hernández',
+    'Mario Hernandez Lash': 'Mario Hernández',
+    'Marinho Ledesma': 'Marinho Ledezma',
+    'Hugo Norberto Castillo': 'Hugo Castillo',
+    'Gerardo Flores Zuniga': 'Gerardo Flores',
+    'Leo Burckhardt': 'Leo Burkhardt', # not sure.
+    'Freddy Montero': 'Fredy Montero',
     'Timothy Weaver': 'Tim Weaver',
     'John Colan Arguedas': 'John Colan',
     'Marcio Rezende': 'Márcio Rezende',
@@ -238,7 +357,9 @@ basic = {
     'Fabio Luciano': 'Fábio Luciano',
     'Jesus Delgado': 'Jesús Delgado',
     'Marco Antonio': 'Marco Antônio',
+
     'Jared Borguetti': 'Jared Borgetti',
+
     'Ivan Cordoba': 'Iván Córdoba',
     'Leandro Damiao': 'Leandro Damião',
     'Kleber Chala': 'Cléber Chalá',
@@ -573,7 +694,7 @@ basic = {
     'Gabriel Cedres': 'Gabriel Cedrés',
     'Gabriel Mendez': 'Gabriel Méndez',
     'Garcia': 'García',
-    'Garcia Aspe': 'García Aspe',
+
     'Geovanny Cordoba': 'Geovanny Córdoba',
     'German Cano': 'Germán Cano',
     'German Hornos': 'Germán Hornos',
@@ -800,7 +921,10 @@ basic = {
     'Sebastian González': 'Sebastián González',
     'Sebastian Taborda': 'Sebastián Taborda',
     'Sepulveda': 'Sepúlveda',
+
     'Sergio Galvan': 'Sergio Galván',
+    'Sergio Galván': 'Sergio Galván Rey',
+
     'Sergio Junior': 'Sergio Júnior',
     'Sergio Orteman': 'Sergio Ortemán',
     'Silvio Luiz': 'Sílvio Luiz',
@@ -1028,7 +1152,8 @@ basic = {
     'Edgardo Alvarez': 'Edgardo Álvarez',
     'Oh Jang-eun': 'Oh Jang-Eun',
     'Oh Jang Eun': 'Oh Jang-Eun',
-    'Sebastian Abreu': 'Sebastián Abreu', 
+
+
     #Espindola, Espíndola
     
     'Ze Alcino': 'Zé Alcino', 
@@ -2245,7 +2370,10 @@ basic = {
     'Moises Villarroel': 'Moisés Villarroel',
     'Nelson Rodrigo Parraguez': 'Nelson Parraguez',
     'Pedro Antonio Reyes': 'Pedro Reyes',
+
     'Reinaldo Marcelino Navia': 'Reinaldo Navia',
+    'Reynaldo Navia': 'Reinaldo Navia',
+
     'René Eduardo Valenzuela': 'René Valenzuela',
     'Rene Valenzuela': 'René Valenzuela',
     'Rodrigo Patricio Ruiz': 'Rodrigo Ruiz',
@@ -2364,6 +2492,7 @@ basic = {
     'Alfonso Obregon': 'Alfonso Obregón',
     'Angel Santiago Fernández': 'Angel Fernández',
     'Ariel José Graziani': 'Ariel Graziani',
+    'Ariel Grazziani': 'Ariel Graziani',
     'Edison Vicente Méndez': 'Edison Méndez',
     'Edison Mendez': 'Edison Méndez',
     'Estiguar Eduardo Hurtado': 'Eduardo Hurtado',
@@ -4941,7 +5070,6 @@ onames = {
     'Juan Hernandez': 'Juan Hernández',
     
     'Fernando Lopez': 'Fernando López',
-    'Alberto Garcia Aspe': 'Alberto García Aspe',
     'Isaac Acuña Sanchez': 'Isaac Acuña Sánchez',
     'Rafael Marquéz Lugo': 'Rafael Márquez Lugo',
     'Jorge Rodriguez': 'Jorge Rodríguez',

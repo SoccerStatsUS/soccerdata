@@ -1,4 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesh/hond06.html
+Competition: Liga Nacional de Honduras
 
 Season: 2005 Apertura
 
@@ -341,8 +342,7 @@ Date: 1/22/2006
   Javier Portillo 74; Leonardo Morales 3
 
 ; Motagua    ; 2-0; Platense
-  Elvis Scott 21, Pedro Santana 87
-
+  Elvis Scott 21, Pedro Santana 87;
 
 Date: 2/15/2006
 
@@ -353,57 +353,47 @@ Round: 2
 Date: 1/28/2006
 
 ; Hispano    ; 0-2; Motagua
-  Elvis Scott 21, Pedro Santana 85
+;  Elvis Scott 21, Pedro Santana 85
 
 ; Platense   ; 0-2; Victoria
-  Hector Flores 60, Ronald Maradiaga 79
+;  Hector Flores 60, Ronald Maradiaga 79
 
 ; Real España; 2-0; Valencia
-  Melvin Valladares 5, Allan Lalin 35
+  Melvin Valladares 5, Allan Lalin 35;
 
 ; Vida       ; 2-1; Marathón
   Walter Martinez 81, Eduardo Bennett 90; Francisco Ramirez 87
 
-
 Date: 1/29/2006
 
 ; Olimpia    ; 2-2; Universidad
-  David Carcamo 65og, Luciano Emilio 93pen; Harold Yepes 9,
-   Cristian Martinez 20
-
+  David Carcamo 65og, Luciano Emilio (pk) 93; Harold Yepes 9, Cristian Martinez 20
 
 Round: 3
-
 Date: 2/4/2006
 
 ; Hispano    ; 2-0; Real España 
-  Ney Costa 19, 90
+  Ney Costa 19, Ney Costa 90;
 
 ; Victoria   ; 2-1; Valencia
   Jaime Rosales 60, Maximo Arzu 88; Luis Rodas 41
 
 ; Marathón   ; 4-0; Motagua
-  Carlos Oliva 25, Francisco Ramirez 74pen, Oscar Zepeda 84,
-   Pompilio Cacho 90+
-
+  Carlos Oliva 25, Francisco Ramirez (pk) 74, Oscar Zepeda 84, Pompilio Cacho 90+;
 
 Date: 2/5/2006
 
 ; Universidad; 1-1; Platense
-  Jose Burgos 28pen; Jose Pascini 16
+  Jose Burgos (pk) 28; Jose Pascini 16
 
 ; Olimpia    ; 2-2; Vida
-  Reynaldo Tilguath 12, Luciano Emilio 40; Francisco Pavon 16pen,
-   Eduardo Bennett 61
-
+  Reynaldo Tilguath 12, Luciano Emilio 40; Francisco Pavon (pk) 16, Eduardo Bennett 61
 
 Round: 4
-
 Date: 2/11/2006
 
 ; Real España; 0-2; Olimpia
-  Lluciano Emilio 58, Danilo Tosello 74pen
-
+;  Luciano Emilio 58, Danilo Tosello (pk) 74
 
 Date: 2/12/2006
 
@@ -411,43 +401,38 @@ Date: 2/12/2006
   Walter Martinez 47, Eduardo Bennett 51; Jose Arevalo 86
 
 ; Platense   ; 1-0; Marathón
-  Francisco Diaz 52
+  Francisco Diaz 52;
 
 ; Valencia   ; 1-0; Hispano
-  Luis Rodas 68
+  Luis Rodas 68;
 
 ; Motagua    ; 3-0; Victoria
-  Edy Vasquez 10, Pedro Santana 49, Marcelo Ferreira 60
-
+  Edy Vasquez 10, Pedro Santana 49, Marcelo Ferreira 60;
 
 Round: 5
-
 Date: 2/18/2006
 
 ; Hispano    ; 0-0; Platense
-Marathón    0-1 Real España
-  Jose Carlos Dias 49
+
+; Marathón   ; 0-1; Real España
+;  Jose Carlos Dias 49
 
 ; Victoria   ; 1-2; Vida
   Maximo Arzu 14; Dicktmar Hernandez 29, Eduardo Bennett 56
 
-
 Date: 2/19/2006
 
 ; Universidad; 1-2; Valencia
-  Carlos Discua 90; Leonardo Isaula 35pen, Ivis Palmer 63
+  Carlos Discua 90; Leonardo Isaula (pk) 35, Ivis Palmer 63
 
 ; Olimpia    ; 0-1; Motagua
-  Pedro Aparecido Santana 53
-
+;  Pedro Aparecido Santana 53
 
 Round: 7
-
 Date: 3/3/2006
 
 ; Vida       ; 1-1; Platense
   Jeffery Brooks 92; Vany Lozano 77
-
 
 Date: 3/4/2006
 
@@ -457,50 +442,47 @@ Date: 3/4/2006
 ; Marathón   ; 1-1; Victoria
   Luis Guifarro 92; Maximo Arzu 31
 
-
 Date: 3/5/2006
 
 ; Valencia   ; 1-2; Olimpia
-  Marco A Mejia 78; Juan Manuel Carcamo 10, Maynor Figueroa 80pen
+  Marco A Mejia 78; Juan Manuel Carcamo 10, Maynor Figueroa (pk) 80
 
 ; Motagua    ; 0-1; Real España
-  Carlos Carlinho Dias 80pen
-
+;  Carlos Carlinho Dias (pk) 80
 
 Round: 8
-
 Date: 3/11/2006
 
 ; Real España; 0-3; Platense
-  Denilson Costa 3, Cliford Laing 14, Narciso Fernández 84
+;  Denilson Costa 3, Cliford Laing 14, Narciso Fernández 84
 
 ; Vida       ; 1-2; Motagua
-  Carlos Salinas 51pen; Pedro Aparecido Santana 6, Edy Vásquez
+  Carlos Salinas (pk) 51; Pedro Aparecido Santana 6, Edy Vásquez
 
 ; Universidad; 0-0; Victoria
 
 Date: 3/12/2006
 
 ; Valencia   ; 1-0; Marathón
-  Leonardo Isaula 42pen
+  Leonardo Isaula (pk) 42;
 
 ; Olimpia    ; 2-0; Hispano
-  Luciano Emilio (2)
-
+  Luciano Emilio, Luciano Emilio;
 
 Round: 9 
 Date: 3/15/2006
 
 ; Hispano    ; 0-0; Vida
+
 ; Marathón   ; 0-0; Universidad
+
 ; Victoria   ; 0-0; Real España
+
 ; Platense   ; 2-2; Olimpia
-  Osmán Chavez 17og, Luciano Emilio 48; José Pascini 45,
-   Denilson Costa 50
+  Osmán Chavez 17og, Luciano Emilio 48; José Pascini 45, Denilson Costa 50
 
 ; Motagua    ; 1-0; Valencia
-  Pedro Santana 33pen
-
+  Pedro Santana (pk) 33;
 
 Round: 6 
 *round postponed from Feb 25,26 due to new law prohibiting sponsoring
@@ -508,35 +490,32 @@ Round: 6
 Date: 3/18/2006
 
 ; Real España; 0-0; Vida
-; Platense   ; 1-0; Valencia
-  Narciso Fernández 73
 
+; Platense   ; 1-0; Valencia
+  Narciso Fernández 73;
 
 Date: 3/19/2006
 
 ; Victoria   ; 2-0; Hispano
-  José Luis Grant 8, Jaime Rosales 10
+  José Luis Grant 8, Jaime Rosales 10;
 
 ; Universidad; 1-1; Motagua
   Cristian Martínez 24; Jerry Palacios 57
 
 ; Olimpia    ; 1-0; Marathón
-  Luciano Emilio 28
-
+  Luciano Emilio 28;
 
 Round: 10
-
 Date: 3/25/2006
 
 ; Hispano    ; 1-1; Marathón
   Oscar Vargas 57; Carlos Oliva 20
 
 ; Real España; 0-2; Universidad
-  Carlos Discua 72, 87
+;  Carlos Discua 72, Carlos Discua 87
 
 ; Platense   ; 2-1; Motagua
-  Denilson Costa 45, 72pen; Francisco de Souza 70
-
+  Denilson Costa 45, Denilson Costa (pk) 72; Francisco de Souza 70
 
 Date: 3/26/2006
 
@@ -549,24 +528,21 @@ Round: 11
 Date: 4/1/2006
 
 ; Marathón   ; 1-2; Vida
-  Luis Santamaría 61; Eduardo Bennett 69, 87pen
+  Luis Santamaría 61; Eduardo Bennett 69, Eduardo Bennett (pk) 87
 
 ; Victoria   ; 2-1; Platense
   Anthony Torres 22, Jaime Rosales 90; José Mauricio Pascini 61
 
-
 Date: 4/2/2006
 
 ; Universidad; 0-3; Olimpia
-  Wilmer Velásquez 5, Wilson Palacios 15, 80 pen
+;  Wilmer Velásquez 5, Wilson Palacios 15, Wilson Palacios (pk) 80
 
 ; Valencia   ; 1-0; Real España
-  Sebastián Martínez 72
+  Sebastián Martínez 72;
 
 ; Motagua    ; 2-2; Hispano
-  Marcelo Ferreira 8, Víctor Bernárdez 80; Meylin Soto 56pen,
-   Oscar Vargas 72
-
+  Marcelo Ferreira 8, Víctor Bernárdez 80; Meylin Soto (pk) 56, Oscar Vargas 72
 
 Round: 12
 Date: 4/8/2006
@@ -643,17 +619,17 @@ Date: 5/7/2006
 ; Universidad; 2-2; Marathón
 ; Olimpia    ; 1-0; Platense
 
-; * 1.Olimpia (Tegucigalpa)            18 10  7  1 ; 27-13;  37  Qualified
-; * 2.Victoria (Ceiba)                 18  8  7  3 ; 31-18;  31  Qualified
-; * 3.Municipal Valencia (Tegucigalpa) 18  9  3  6 ; 20-13;  30  Qualified
-; * 4.Motagua (Tegucigalpa)            18  8  5  5 ; 24-20;  29  Qualified
-; *; -; - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-; * 5.Vida (Ceiba)                     18  6  9  3 ; 21-21;  27
-; * 6.Real España (San Pedro Sula)     18  5  8  5 ; 15-17;  23
-; * 7.Platense (Puerto Cortés)         18  5  7  6 ; 19-21;  22
-; * 8.Universidad (Choluteca)          18  3  8  7 ; 15-24;  17
-; * 9.Marathón (San Pedro Sula)        18  2  5 11 ; 16-27;  11
-; *10.Hispano (Comayagua)              18  2  5 11 ; 17-31;  11
+* 1.Olimpia (Tegucigalpa)            18 10  7  1 ; 27-13;  37  Qualified
+* 2.Victoria (Ceiba)                 18  8  7  3 ; 31-18;  31  Qualified
+* 3.Municipal Valencia (Tegucigalpa) 18  9  3  6 ; 20-13;  30  Qualified
+* 4.Motagua (Tegucigalpa)            18  8  5  5 ; 24-20;  29  Qualified
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Vida (Ceiba)                     18  6  9  3 ; 21-21;  27
+* 6.Real España (San Pedro Sula)     18  5  8  5 ; 15-17;  23
+* 7.Platense (Puerto Cortés)         18  5  7  6 ; 19-21;  22
+* 8.Universidad (Choluteca)          18  3  8  7 ; 15-24;  17
+* 9.Marathón (San Pedro Sula)        18  2  5 11 ; 16-27;  11
+*10.Hispano (Comayagua)              18  2  5 11 ; 17-31;  11
 
 Round: Semifinals
 
@@ -687,17 +663,17 @@ Date: 5/28/2006
 
 
 *Aggregate Table:
-; * 1.Olimpia (Tegucigalpa)            36 21 11  4 ; 65-30;  74
-; * 2.Victoria (Ceiba)                 36 17 10  9 ; 61-45;  61
-; * 3.Municipal Valencia (Tegucigalpa) 36 14  8 14 ; 35-35;  50
-; * 4.Platense (Puerto Cortés)         36 13 10 13 ; 47-55;  49
-; * 5.Real España (San Pedro Sula)     36 11 13 12 ; 38-40;  46
-; * 6.Vida (Ceiba)                     36 10 15 11 ; 43-46;  45
-; * 7.Motagua (Tegucigalpa)            36 11 10 15 ; 40-46;  43
-; * 8.Universidad (Choluteca)          36  9 14 13 ; 34-45;  41
-; * 9.Marathón (San Pedro Sula)        36  9 13 14 ; 46-53;  40
-;; *----------------------------------------------------------
-*10.Hispano; (Comayagua)              36  7 12 17  41-55  33
+* 1.Olimpia (Tegucigalpa)            36 21 11  4 ; 65-30;  74
+* 2.Victoria (Ceiba)                 36 17 10  9 ; 61-45;  61
+* 3.Municipal Valencia (Tegucigalpa) 36 14  8 14 ; 35-35;  50
+* 4.Platense (Puerto Cortés)         36 13 10 13 ; 47-55;  49
+* 5.Real España (San Pedro Sula)     36 11 13 12 ; 38-40;  46
+* 6.Vida (Ceiba)                     36 10 15 11 ; 43-46;  45
+* 7.Motagua (Tegucigalpa)            36 11 10 15 ; 40-46;  43
+* 8.Universidad (Choluteca)          36  9 14 13 ; 34-45;  41
+* 9.Marathón (San Pedro Sula)        36  9 13 14 ; 46-53;  40
+*----------------------------------------------------------
+* 10.Hispano; (Comayagua)              36  7 12 17  41-55  33
 
 *NB: Municipal Valencia (Tegucigalpa) sold their place 2006/07 to
 *    Hispano

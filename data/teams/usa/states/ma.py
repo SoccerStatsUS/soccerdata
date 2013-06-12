@@ -24,6 +24,11 @@ l = [
         'city': 'Fall River, MA',
         },
 
+    {
+        'name': 'Fall River Oaks',
+        'city': 'Fall River, MA',
+        },
+
 
     {
         'name': 'Fall River Marksmen',

@@ -20,7 +20,7 @@ l = [
         },
 
     {
-        'name': 'A.F.C. Euro Kickers',
+        'name': 'Euro Kickers',
         'founded': 1984,
         'dissolved': 2002,
         'city': 'Panama City, Panama',
@@ -39,9 +39,15 @@ l = [
         },
 
     {
-        'name': 'CD Pan de Azucar',
+        'name': 'Pan de Azúcar',
         'founded': 1974,
         'city': 'Panama City, Panama',
+        },
+
+    {
+        'name': 'Chepo FC',
+        'founded': 1999,
+        'city': 'Chepo, Panama',
         },
 
     {
@@ -77,6 +83,11 @@ l = [
         },
 
     {
+        'name': 'Río Abajo',
+        'city': 'Panama City, Panama',
+        },
+
+    {
         'name': 'Colón River FC',
         'founded': 1994,
         'dissolved': 2005,
@@ -84,7 +95,7 @@ l = [
         },
 
     {
-        'name': 'Panamá Viejo F.C.',
+        'name': 'Panamá Viejo',
         'founded': 1978,
         'dissolved': 2001,
         'city': 'Panama Viejo, Panama',

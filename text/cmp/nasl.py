@@ -311,17 +311,19 @@ class GameProcessor(object):
         # Not played.
         if score == 'np':
             return {}
-
-        
+  
         # Process day before month.
         if day.strip():
             try:
                 day = int(day)
             except:
                 import pdb; pdb.set_trace()
+
             # Adjust month if we fall into a new month.
-            if day < self.day:
-                self.month += 1
+            if self.day is not None:
+                if day < self.day:
+                    self.month += 1
+
             self.day = day
 
         if month.strip():

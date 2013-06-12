@@ -376,6 +376,12 @@ l = [
         },
 
     {
+        'name': 'San Francisco Greek American AC',
+        'city': 'San Francisco, CA',
+        'founded': 1949,
+        },
+
+    {
         'name': 'California Cougars',
         'city': 'Stockton, CA',
         'founded': 2004,

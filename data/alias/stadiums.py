@@ -25,6 +25,10 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
+    'Estadio de la Ciudad de los Deportes': 'Estadio Azul',
+    'Estadio de la Ciudad de los Deportes, México DF': 'Estadio Azul',
+    'Estadio Azulgrana': 'Estadio Azul',
+
     'Estadio Victor Manuel Reyna': 'Estadio Víctor Manuel Reyna',
     'Estadio Nou Camp': 'Estadio León', 
     'Invaders Complex': 'Indiana Invaders Soccer Complex',
@@ -51,8 +55,11 @@ stadiums = {
     'Parque Antártica': 'Estádio Parque Antarctica',
     'Estadio Jaconi': 'Estádio Alfredo Jaconi',
     'Stadium Tecnologico': 'Estadio Tecnológico',
-    'Estadio Azulgrana': 'Estadio Azul',
+
+
     'Estadio Luis Gutierrez Dosal': 'Estadio Nemesio Díez',
+    'Estadio Luis Gutiérrez Dosal': 'Estadio Nemesio Díez',
+
     'Starfire Stadium': 'Starfire Sports Complex',
     'Maryland Soccerplex Stadium': 'Maryland SoccerPlex',
     'Yurcak Field Stadium': 'Yurcak Field',
@@ -660,7 +667,7 @@ soccernet_errors = {
     'Hasely Crawford': 'Hasely Crawford Stadium',
     'Andrés Quintana Roo': 'Estadio Quintana Roo',
     'Complexe sportif Claude-Robillard': 'Complexe Sportif Claude-Robillard',
-    'Estadio de la Ciudad de los Deportes, México DF': 'Estadio Azul',
+
 }
 sd.update(soccernet_errors)
     

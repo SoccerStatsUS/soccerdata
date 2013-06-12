@@ -1,10 +1,6 @@
 BlockSource: http://www.rsssf.com/tablese/ecua97.html
+Season: 1997 Apertura
 
-
-Ecuador 1997
-
-
-Torneo Apertura
 
 
 *Grupo A
@@ -26,7 +22,7 @@ Torneo Apertura
 *[Barcelona and LDU Quito both obtain 1 bonus point for Championship playoff]
 
 
-Round 1 [Mar 8,9]
+Round: 1 [Mar 8,9]
 Grupo A
 Barcelona     0-0 Tecnico U
 Aucas         2-1 Nacional
@@ -36,7 +32,7 @@ LDU           4-1 Emelec      [Apr 16]
 Dep Quito     3-0 Quevedo
 Olmedo        2-0 Espoli
 
-Round 2 [Mar 15,16]
+Round: 2 [Mar 15,16]
 Grupo A
 Nacional      1-1 Cuenca
 Tecnico U     2-1 Aucas
@@ -46,7 +42,7 @@ LDU           1-1 Espoli
 Olmedo        1-0 Quevedo
 Emelec        1-0 Dep Quito
 
-Round 3 [Mar 22,23]
+Round: 3 [Mar 22,23]
 Grupo A
 Nacional      2-1 Calvi       [Apr 16]   
 Aucas         2-1 Barcelona
@@ -56,7 +52,7 @@ LDU           1-1 Dep Quito
 Espoli        1-1 Quevedo
 Olmedo        1-1 Emelec
 
-Round 4 [Apr 5,6]
+Round: 4 [Apr 5,6]
 Grupo A
 Barcelona     3-0 Cuenca
 Aucas         4-0 Calvi
@@ -66,7 +62,7 @@ Dep Quito     0-1 Olmedo
 Quevedo       2-4 LDU
 Emelec        2-0 Espoli      [May 15]
 
-Round 5 [Apr 12,13]
+Round: 5 [Apr 12,13]
 Grupo A
 Cuenca        1-0 Aucas
 Calvi         2-2 Tecnico U
@@ -76,7 +72,7 @@ Espoli        2-2 Dep Quito
 LDU           1-1 Olmedo
 Emelec        1-1 Quevedo
 
-Round 6 [Apr 19,20]
+Round: 6 [Apr 19,20]
 Grupo A
 Barcelona     1-0 Nacional
 Aucas         3-2 Cuenca
@@ -86,7 +82,7 @@ Olmedo        0-2 LDU
 Dep Quito     0-1 Espoli
 Quevedo       1-1 Emelec
 
-Round 7 [May 3,4]
+Round: 7 [May 3,4]
 Grupo A
 Cuenca        2-1 Barcelona
 Calvi         0-1 Aucas
@@ -96,7 +92,7 @@ Espoli        2-1 Emelec
 Olmedo        1-0 Dep Quito
 LDU           5-0 Quevedo
 
-Round 8 [May 10,11]
+Round: 8 [May 10,11]
 Grupo A
 Nacional      5-0 Calvi
 Barcelona     2-1 Aucas
@@ -106,7 +102,7 @@ Emelec        3-0 Olmedo
 Quevedo       0-0 Espoli
 LDU           2-1 Dep Quito
 
-Round 9 [May 17,18]
+Round: 9 [May 17,18]
 Grupo A
 Aucas         2-0 Tecnico U
 Barcelona     2-1 Calvi
@@ -116,7 +112,7 @@ LDU           3-1 Espoli
 Dep Quito     2-7 Emelec
 Olmedo        1-0 Quevedo
 
-Round 10 [May 24]
+Round: 10 [May 24]
 Grupo A
 Aucas         0-2 Nacional
 Barcelona     1-0 Tecnico U
@@ -160,7 +156,7 @@ Torneo Clausura
 *11.Olmedo                 22  4  5 13  26-47  17   [Riobamba]
 *12.Deportivo Quevedo      22  0  3 19   9-62   3   [Babahoyo]
 
-Round 1 [Jul 11-13]
+Round: 1 [Jul 11-13]
 Barcelona     2-0 Quevedo
 Espoli        4-1 Calvi
 LDU           3-1 Aucas
@@ -168,7 +164,7 @@ Dep Quito     2-2 Nacional
 Cuenca        2-1 Emelec
 Tecnico U     1-0 Olmedo
 
-Round 2 [Jul 24] [inferred except Aucas v Barcelona]
+Round: 2 [Jul 24] [inferred except Aucas v Barcelona]
 Aucas         0-1 Barcelona
 Nacional      0-0 LDU 
 Emelec        3-0 Espoli
@@ -176,7 +172,7 @@ Calvi         0-1 Dep Quito
 Quevedo       0-1 Olmedo
 Tecnico U     1-1 Cuenca 
 
-Round 3 [Jul 26,27]
+Round: 3 [Jul 26,27]
 LDU           2-0 Calvi
 Olmedo        1-3 Aucas
 Dep Quito     3-0 Emelec
@@ -184,7 +180,7 @@ Espoli        6-1 Quevedo
 Cuenca        3-1 Nacional
 Barcelona     2-0 Tecnico U
 
-Round 4 [Aug 3]
+Round: 4 [Aug 3]
 Aucas         3-0 Cuenca
 Nacional      4-1 Espoli
 Emelec        1-1 Barcelona
@@ -192,7 +188,7 @@ Calvi         1-0 Olmedo
 LDU           2-0 Quevedo
 Tecnico U     1-1 Dep Quito
 
-Round 5 [Aug 8,10]
+Round: 5 [Aug 8,10]
 LDU           2-1 Tecnico U
 Cuenca        4-1 Olmedo
 Nacional      0-1 Aucas
@@ -200,7 +196,7 @@ Dep Quito     4-1 Espoli
 Calvi         3-3 Barcelona
 Emelec        3-2 Quevedo
 
-Round 6 [Aug 22,24]
+Round: 6 [Aug 22,24]
 Calvi         1-1 Emelec
 Espoli        2-0 Barcelona
 Aucas         1-2 Dep Quito
@@ -208,7 +204,7 @@ Olmedo        0-2 LDU
 Tecnico U     2-0 Nacional
 Quevedo       0-0 Cuenca
 
-Round 7 [Aug 29-31]
+Round: 7 [Aug 29-31]
 Cuenca        1-0 Espoli
 LDU           1-1 Emelec
 Aucas         1-0 Calvi
@@ -216,7 +212,7 @@ Nacional      3-0 Olmedo
 Tecnico U     5-0 Quevedo
 Barcelona     0-0 Dep Quito
 
-Round 8 [Sep 5-7]
+Round: 8 [Sep 5-7]
 Calvi         4-0 Cuenca
 Emelec        1-0 Nacional
 Dep Quito     1-1 LDU
@@ -224,7 +220,7 @@ Espoli        1-1 Tecnico U
 Olmedo        1-2 Barcelona
 Quevedo       0-2 Aucas
 
-Round 9 [Sep 12-14]
+Round: 9 [Sep 12-14]
 LDU           4-0 Espoli
 Dep Quito     5-0 Quevedo
 Aucas         1-1 Tecnico U
@@ -232,7 +228,7 @@ Olmedo        3-1 Emelec
 Barcelona     3-0 Cuenca
 Calvi         2-1 Nacional
 
-Round 10 [Sep 18]
+Round: 10 [Sep 18]
 Emelec        2-0 Tecnico U
 Aucas         1-0 Espoli
 Nacional      0-0 Barcelona
@@ -240,7 +236,7 @@ Dep Quito     3-0 Olmedo
 Cuenca        0-0 LDU
 Quevedo       0-4 Calvi
 
-Round 11 [Sep 21]
+Round: 11 [Sep 21]
 LDU           2-0 Cuenca
 Espoli        2-1 Aucas
 Calvi         1-0 Quevedo
@@ -248,7 +244,7 @@ Barcelona     4-1 Nacional
 Tecnico U     0-2 Emelec 
 Olmedo        1-1 Dep Quito
 
-Round 12 [Sep 24]
+Round: 12 [Sep 24]
 Barcelona     2-1 LDU
 Espoli        1-1 Olmedo
 Nacional      6-0 Quevedo
@@ -256,7 +252,7 @@ Cuenca        2-0 Dep Quito
 Tecnico U     1-1 Calvi
 Aucas         1-2 Emelec
 
-Round 13 [Sep 28]
+Round: 13 [Sep 28]
 Tecnico U     3-1 Aucas
 Nacional      2-1 Calvi
 Espoli        2-2 LDU
@@ -264,7 +260,7 @@ Cuenca        3-1 Barcelona
 Quevedo       0-0 Dep Quito
 Emelec        6-1 Olmedo
 
-Round 14 [Oct 5]
+Round: 14 [Oct 5]
 Espoli        3-3 Olmedo
 Calvi         1-2 Tecnico U 
 LDU           2-0 Barcelona
@@ -272,7 +268,7 @@ Dep Quito     2-1 Cuenca
 Quevedo       0-1 Nacional
 Emelec        3-1 Aucas
 
-Round 15 [Oct 19]
+Round: 15 [Oct 19]
 LDU           1-1 Dep Quito
 Barcelona     3-0 Olmedo
 Nacional      4-1 Emelec
@@ -280,7 +276,7 @@ Tecnico U     2-0 Espoli
 Aucas         1-1 Quevedo
 Cuenca        4-2 Calvi
 
-Round 16 [Oct 22]
+Round: 16 [Oct 22]
 Emelec        1-0 LDU
 Calvi         4-1 Aucas
 Olmedo        1-1 Nacional
@@ -288,7 +284,7 @@ Dep Quito     1-1 Barcelona
 Espoli        3-1 Cuenca
 Quevedo       0-1 Tecnico U
 
-Round 17 [Oct 26]
+Round: 17 [Oct 26]
 LDU           4-1 Olmedo
 Dep Quito     0-0 Aucas
 Nacional      3-0 Tecnico U
@@ -296,7 +292,7 @@ Barcelona     2-0 Espoli
 Cuenca        2-0 Quevedo
 Emelec        3-2 Calvi
 
-Round 18 [Oct 29]
+Round: 18 [Oct 29]
 Espoli        0-2 Dep Quito
 Barcelona     4-1 Calvi
 Quevedo       2-4 Emelec
@@ -304,7 +300,7 @@ Nacional      0-2 Aucas
 Tecnico U     1-2 LDU
 Olmedo        2-2 Cuenca
 
-Round 19 [Nov 1]
+Round: 19 [Nov 1]
 Espoli        2-1 Nacional
 LDU           4-1 Quevedo
 Dep Quito     4-0 Tecnico U
@@ -312,7 +308,7 @@ Barcelona     3-1 Emelec
 Olmedo        2-1 Calvi
 Cuenca        2-0 Aucas
 
-Round 20 [Nov 5]
+Round: 20 [Nov 5]
 Calvi         1-3 LDU
 Emelec        1-0 Dep Quito
 Nacional      3-1 Cuenca
@@ -320,7 +316,7 @@ Tecnico U     1-2 Barcelona
 Quevedo       1-4 Espoli
 Aucas         3-2 Olmedo
 
-Round 21 [Nov 9]
+Round: 21 [Nov 9]
 Barcelona     5-1 Aucas
 Espoli        2-1 Emelec
 Dep Quito     4-2 Calvi
@@ -328,7 +324,7 @@ LDU           1-2 Nacional
 Cuenca        0-0 Tecnico U
 Olmedo        4-0 Quevedo
 
-Round 22
+Round: 22
 Calvi         2-1 Espoli
 Emelec        3-1 Cuenca
 Aucas         3-0 LDU
@@ -384,52 +380,52 @@ Table [bonus points between square brackets]:
 
 Barcelona 1997 champions.
 
-Round 1 [Dec 7]
+Round: 1 [Dec 7]
 Nacional      1-1 LDU
 Emelec        3-0 Aucas
 Dep Quito     2-2 Barcelona 
 
-Round 2 [Dec 10]
+Round: 2 [Dec 10]
 Aucas         0-0 Dep Quito
 LDU           1-1 Emelec
 Barcelona     1-2 Nacional
 
-Round 3 [Dec 14]
+Round: 3 [Dec 14]
 Dep Quito     2-1 Nacional
 LDU           0-1 Aucas   
 Emelec        0-2 Barcelona
 
-Round 4 [Dec 21]
+Round: 4 [Dec 21]
 Dep Quito     5-1 Emelec
 Aucas         2-2 Nacional
 Barcelona     2-2 LDU             
 
-Round 5 [Dec 28,29]
+Round: 5 [Dec 28,29]
 Aucas         1-1 Barcelona  
 LDU           0-0 Dep Quito
 Emelec        2-1 Nacional
 
-Round 6 [Jan 3]
+Round: 6 [Jan 3]
 Dep Quito     3-1 LDU
 Nacional      2-1 Emelec
 Barcelona     3-1 Aucas
 
-Round 7 [Jan 10,11]
+Round: 7 [Jan 10,11]
 Nacional      4-1 Aucas
 LDU           3-2 Barcelona
 Emelec        1-0 Dep Quito
 
-Round 8 [Jan 18]
+Round: 8 [Jan 18]
 Barcelona     2-2 Emelec  
 Aucas         1-2 LDU
 Nacional      1-2 Dep Quito
 
-Round 9 [Jan 21]
+Round: 9 [Jan 21]
 Nacional      2-3 Barcelona
 Dep Quito     2-0 Aucas
 Emelec        5-3 LDU
 
-Round 10 [Jan 25]
+Round: 10 [Jan 25]
 Aucas         2-2 Emelec
 LDU           2-1 Nacional
 Barcelona     3-0 Dep Quito
@@ -454,27 +450,27 @@ Table:
  3.Deportivo Quevedo       5  1  2  2   3- 6   5
  4.Calvi                   5  0  1  4   3-11   1
 
-Round 1
+Round: 1
 Olmedo        2-0 Espoli
 Calvi         1-1 Quevedo
 
-Round 2 [Dec 7]
+Round: 2 [Dec 7]
 Quevedo       1-0 Olmedo
 Espoli        1-0 Calvi
 
-Round 3 [Dec 10]
+Round: 3 [Dec 10]
 Calvi         0-1 Olmedo
 Espoli        3-1 Quevedo
 
-Round 4 [Dec 14]
+Round: 4 [Dec 14]
 Quevedo       0-0 Espoli
 Olmedo        5-2 Calvi
 
-Round 5 [Dec 17]
+Round: 5 [Dec 17]
 Olmedo        2-0 Quevedo
 Calvi         0-3 Espoli
 
-Round 6 [Dec 21]
+Round: 6 [Dec 21]
 Calvi         n/p Quevedo
 Espoli        2-2 Olmedo
 

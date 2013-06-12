@@ -55,8 +55,19 @@ l = [
         },
 
     {
+        'name': 'Real Comayagua',
+        'city': 'Comayagua, Honduras',
+        # purchased by Real Maya 2002-2003
+        },
+
+    {
         'name': 'Municipal Valencia',
         'founded': 2002,
+        'city': 'Choluteca, Honduras',
+        },
+
+    {
+        'name': 'Broncos',
         'city': 'Choluteca, Honduras',
         },
 

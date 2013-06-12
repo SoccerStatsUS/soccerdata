@@ -42,19 +42,13 @@ l = [
         },
 
 
-    # Same Teams?
     {
         'name': 'Limón FC',
-        'founded': datetime.datetime(1961, 7, 10),
+        #'founded': datetime.datetime(1961, 7, 10),
+        'founded': 1964,
         'city': 'Limón, Costa Rica',
         },
 
-
-    {
-        'name': 'AD Limonense',
-        'founded': 1964,
-        'city': 'Limon, Costa Rica',
-        },
 
     {
         'name': 'Puntarenas FC',
@@ -91,6 +85,14 @@ l = [
         'founded': datetime.datetime(1977, 6, 7),
         'city': 'Liberia, Costa Rica',
         },
+
+    {
+        'name': 'AD Guanacasteca', # related to liberia mia?
+        'founded': 2005,
+        'city': 'Nicoya, Costa Rica',
+        },
+
+
 
     {
         'name': 'Uruguay de Coronado',

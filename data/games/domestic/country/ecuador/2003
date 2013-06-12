@@ -1,11 +1,5 @@
 BlockSource: http://www.rsssf.com/tablese/ecua03.html
-
-Ecuador 2003
-
-
-Serie A (Copa Pilsener)
-
-First Stage (Torneo Apertura)
+Season: 2003 Apertura
 
 * 1.Barcelona              18 12  2  4 41-19 38
 * 2.LDU de Quito           18 10  6  2 37-24 36
@@ -21,7 +15,7 @@ First Stage (Torneo Apertura)
 *Top 3 Qualify to Liguilla Final with 3, 2, 1 bonus points
 *Bottom 2 in aggregate table relegated to Serie B
 
-Round 1
+Round: 1
 [Feb 28]
 Deportivo Cuenca      4-1 Espoli
   [Leonardo MAS 10, Walter CALDERON 60, Christian ZERMATTEN 80,
@@ -42,7 +36,7 @@ Deportivo Quito       4-1 Barcelona    [remaining 57']
   [Marlon AYOBI 15, 66, Mariano CAMPODONICO 44pen, 75;
    Julio Marcelo FLEITAS 86]
 
-Round 2
+Round: 2
 [Mar 8]
 El Nacional           2-1 Deportivo Cuenca
   [Luis CHECA 1, Carlos GRUEZO 35; Segundo MATAMBA 8]
@@ -56,7 +50,7 @@ Manta FC              2-1 Deportivo Quito
 Barcelona             2-0 Aucas
   [Nicolás ASENCIO 3, Angel ESCOBAR 6]
 
-Round 3
+Round: 3
 [Mar 14]
 Deportivo Cuenca      2-3 LDU de Quito
   [Juan AGUINAGA 52, Segundo MATAMBA 58; Martín OJEDA 22, 55,
@@ -74,7 +68,7 @@ Aucas                 4-0 Manta FC
 Espoli                0-1 El Nacional
   [Franklin ANANGONO 50]
 
-Round 4 [Mar 23]
+Round: 4 [Mar 23]
 Deportivo Quito       1-0 Aucas
   [Raúl ANTUÑA 38]
 LDU de Quito          2-2 Espoli
@@ -88,7 +82,7 @@ Manta FC              2-1 Técnico Universitario
 Barcelona             3-0 Deportivo Cuenca
   [Nicolás ASENCIO 29, Ariel GRAZIANI 39, 88]
 
-Round 5
+Round: 5
 [Mar 28]
 Emelec                2-1 Aucas
   [Augusto POROSO 58, Oscar PACHECO 58; Gustavo FIGUEROA 80]
@@ -103,7 +97,7 @@ Espoli                3-4 Barcelona
   [Adrián GOROSTIDI 20, Alberto MONTAÑO 31, 52; Jasson ZAMBRANO 26, 41, 71,
    Daniel MINA 69]
 
-Round 6
+Round: 6
 [Apr 5]
 Deportivo Quito       2-2  Deportivo Cuenca
   [Jhonny BALDEON 7, Luis Fernando SARITAMA 88; Christian ZERMATTEN 11pen, 
@@ -118,7 +112,7 @@ Barcelona             2-0 El Nacional
 Manta FC              4-1 Espoli
   [Wilfrido VINCES 59, 84, Alex PERLAZA 62,82; Jimmy BLANDON 3pen]
 
-Round 7 
+Round: 7 
 [Apr 12]
 El Nacional           4-1 Manta FC
   [Carlos GRUESO 11,89, Kleber CHALA 42,58; Alex PERLAZA 90+1]
@@ -133,7 +127,7 @@ LDU de Quito          1-0 Barcelona
 Deportivo Cuenca      2-0 Aucas
   [Juan Francisco AGUINAGA 10, Leonardo Oscar MAS 80]
 
-Round 8 
+Round: 8 
 [Apr 19]
 Manta FC              0-2 LDU de Quito
   [Christian CARNERO 18, 90+1]
@@ -147,7 +141,7 @@ Deportivo Quito       1-4 El Nacional
 Barcelona             2-0 Emelec
   [Ariel GRAZIANI 32, Rodrigo TEXEIRA 84]
 
-Round 9 [Apr 23]
+Round: 9 [Apr 23]
 Espoli                0-2 Técnico Universitario
   [Rubén FERRER 67, Jhonny PEREZ 85]
 Barcelona             2-0 Manta FC
@@ -160,7 +154,7 @@ LDU de Quito          0-4 Deportivo Quito
 Deportivo Cuenca      1-1 Emelec
   [Christian BOTTERO 25; Otilino TENORIO 62]
 
-Round 10  [May 4]
+Round: 10  [May 4]
 Técnico Universitario 2-3 Espoli
   [Fabian CUBERO 51, Jhonny PEREZ 75; Rolando PARRALES 22,
    Mauricio RISSO 33, 40]
@@ -174,7 +168,7 @@ Emelec                2-2 Deportivo Cuenca
   [Wellington SANCHEZ 6, Moisés CUERO 29; Walter CALDERON 54,
    Christian BOTTERO 75]
 
-Round 11
+Round: 11
 [May 9]
 Deportivo Cuenca      3-1 Técnico Universitario
   [Christian BOTTERO 39, Marcelo VELAZCO 50pen, Carlos QUIÑONEZ 69;
@@ -191,7 +185,7 @@ Emelec                1-1 Barcelona
 Espoli                1-2 Aucas
   [Jimmy BLANDON 86; Petter VILLEGAS 6, Vilson ROSERO 72]
 
-Round 12 [May 14]
+Round: 12 [May 14]
 Aucas                 0-0 Deportivo Cuenca
 Deportivo Quito       2-1 Espoli
   [Jhonny BALDEON 9, Atahúlfo VALENCIA 90+1; Mauricio RISSO 1]
@@ -201,7 +195,7 @@ Técnico Universitario 1-2 Emelec
 Manta FC              2-2 El Nacional
   [Roman COELHO 9, Alex PERLAZA 67; Cristian LARA 6, Carlos GRUESO 42]
 
-Round 13 [May 18]
+Round: 13 [May 18]
 El Nacional           2-3  Barcelona
   [Carlos GRUESO 18, Ebelio ORDOÑEZ 70; Walter AYOVI 27,
    Leonardo SOLEDISPA 46, Geovanny CAICEDO 87]
@@ -214,7 +208,7 @@ Emelec                3-2 LDU de Quito
   [Carlos HIDALGO 18, Otilino TENORIO 63, 88; Luis GONZALEZ 37, 
    Geovanny ESPINOZA 82]
 
-Round 14 
+Round: 14 
 [May 23]
 Deportivo Quito       2-0 Técnico Universitario
   [Mariano CAMPODONICO 6pen, Santiago MORALES 61]
@@ -231,7 +225,7 @@ Aucas                 4-0 Emelec
 Manta FC              2-2 Deportivo Cuenca
   [Alex PERLAZA 44, Efrén MERA 74; Carlos QUIÑONEZ 21, Luis MOREIRA 56]
 
-Round 15 [May 28]
+Round: 15 [May 28]
 Espoli                0-1 LDU de Quito
   [Christian CARNERO 70]
 Aucas                 1-3 Deportivo Quito
@@ -244,7 +238,7 @@ Emelec                3-2 El Nacional
 Deportivo Cuenca      1-0 Barcelona
   [Carlos QUIÑONEZ 62]
 
-Round 16 [Jun 1]
+Round: 16 [Jun 1]
 El Nacional           2-1 Espoli
   [Felix BORJA 89, 93; Manuel COTERA 86]
 LDU de Quito          4-1 Deportivo Cuenca
@@ -256,7 +250,7 @@ Barcelona             6-0 Técnico Universitario
   [Nicolás ASENCIO 20pen, Ariel GRAZIANI 40, 46, Guillermo MORIGI 71, 
    Angel ESCOBAR 71, Rodrigo TEXEIRA 84]
 
-Round 17 [Jun 15]
+Round: 17 [Jun 15]
 Aucas                 2-1 Barcelona
   [Carlos ASPRILLA 21, Gustavo FIGUEROA 52; Nicolás ASENCIO 75]
 Técnico Universitario 3-3 LDU de Quito
@@ -270,7 +264,7 @@ Deportivo Cuenca      1-2 El Nacional
 Emelec                2-2 Espoli
   [Silvano STACIO 54, Otilino TENORIO 76; Danny VERA 24, Juan Kely GUERRON 90+]
 
-Round 18 [Jun 22]
+Round: 18 [Jun 22]
 Barcelona             2-1  Deportivo Quito
   [Angel ESCOBAR 10, Fricson GEORGE 62; Marlon AYOBI 36]
 Espoli                2-1  Deportivo Cuenca
@@ -298,8 +292,7 @@ Manta FC              1-3  Emelec
 *Top 3 Qualify to Liguilla Final with 3, 2, 1 bonus points
 *Bottom 2 in aggregate table relegated to Serie B
 
-
-Second Stage (Torneo Finalización)
+Season: 2003 Finalizacion
 
 * 1.LDU de Quito           18 10  4  4 31-15 34
 * 2.Barcelona              18  9  7  2 28-12 34
@@ -315,7 +308,7 @@ Second Stage (Torneo Finalización)
 *Top 3 Qualify to Liguilla Final with 3, 2, 1 bonus points
 *Bottom 2 in aggregate table relegated to Serie B
 
-Round 1 [Jun 29]
+Round: 1 [Jun 29]
 Aucas                 3-0 Manta FC
   [Gustavo FIGUEROA 20,58, Walter IZA 54]
 Deportivo Cuenca      0-1 LDU de Quito
@@ -328,7 +321,7 @@ Emelec                  1-3 El Nacional
   [Carlos Andrés QUIÑONEZ 74; Mario David QUIROZ 17pen, Kléber CHALA 40,
    Juan Carlos BURBANO 66]
 
-Round 2 [Jul 9]
+Round: 2 [Jul 9]
 Manta FC              1-1 Deportivo Cuenca
   [Alex PERLAZA 90; Jorge Luis DELGADO 51]
 El Nacional           3-0 Espoli
@@ -341,7 +334,7 @@ Barcelona             1-1 Aucas
 Técnico Universitario 0-1 Deportivo Quito
   [Jhonny BALDEON 45+]
 
-Round 3 [Jul 13]
+Round: 3 [Jul 13]
 Deportivo Cuenca      0-1 Barcelona
   [Rodrigo TEXEIRA 53]
 El Nacional           3-2 LDU de Quito
@@ -356,7 +349,7 @@ Espoli                4-2 Deportivo Quito
 Emelec                3-0 Manta FC
   [Otilino TENORIO 6, 9, 73]
 
-Round 4
+Round: 4
 [Jul 18]
 Deportivo Quito       2-1 Aucas
   [Luis Fernando SARITAMA 27, Jhonny BALDEON 90+1; Gustavo FIGUEROA 38]
@@ -369,7 +362,7 @@ Manta FC              0-0 El Nacional
 Barcelona             1-1 Emelec
   [Ariel GRAZIANI 39; Carlos JUAREZ 77]
 
-Round 5 [Jul 23]
+Round: 5 [Jul 23]
 Espoli                2-1 Aucas
   [Danny VERA 60, Alberto MONTAÑO 71; Jorge VARGAS 54]
 El Nacional           2-0 Barcelona
@@ -381,7 +374,7 @@ Emelec                3-0 Técnico Universitario
 Deportivo Cuenca      1-0 Deportivo Quito
   [Carlos QUIÑONEZ 9]
 
-Round 6 [Jul 27]
+Round: 6 [Jul 27]
 Aucas                 2-0 Deportivo Cuenca
   [Mario LASTRA 50, 85]
 Técnico Universitario 1-1 El Nacional
@@ -393,7 +386,7 @@ Manta FC              1-2 Espoli
 Barcelona             3-1 LDU de Quito
   [Rodrigo TEXEIRA 66, Fricson GEORGE 73, Geovanny CAICEDO 75; Tyrone MACIAS 39]
 
-Round 7 
+Round: 7 
 [Aug 2]
 Espoli                1-2 Deportivo Cuenca
   [Danny VERA 82; Leonel LIBERMAN 43, Pablo AREVALO 90+2]
@@ -407,7 +400,7 @@ Manta FC              0-3 Barcelona                      (played in Portoviejo)
 Emelec                2-1 Aucas
   [Augusto POROSO 65pen, Moisés CANDELARIO 75; Tilson Oswaldo MINDA 27]
 
-Round 8 [Aug 6]
+Round: 8 [Aug 6]
 Aucas                 2-2 El Nacional
   [Leonardo MINA 29, Mario LASTRA 57pen; Ebelio ORDOÑEZ 55,64]
 Barcelona             1-1 Espoli
@@ -418,7 +411,7 @@ Técnico Universitario 0-0 Manta FC
 Deportivo Cuenca      1-0 Emelec
   [Jorge Luis DELGADO 45]
 
-Round 9
+Round: 9
 [Aug 9]
 LDU de Quito          2-0 Aucas
   [Luis ZAMBRANO 26, Virgilio FERREIRA 54]
@@ -433,7 +426,7 @@ Manta FC              6-1 Deportivo Quito
   [Luis MEDINA 7,38, Jairon MONTAÑO 14,87, Alex PERLAZA 67,70; 
    Marlon AYOBI 63]
 
-Round 10 
+Round: 10 
 [Aug 15]
 Deportivo Cuenca      1-0 El Nacional
   [Carlos Gregorio QUIÑONEZ 86]
@@ -447,7 +440,7 @@ Aucas                 0-3 LDU de Quito
 Emelec                1-1 Espoli
   [Carlos JUAREZ 10; Danny VERA 41]
 
-Round 11
+Round: 11
 [Aug 23]
 El Nacional           1-2 Aucas
   [Cristian LARA 68; Leonardo MINA POLO 37, Vilson ROSERO 72]
@@ -460,7 +453,7 @@ Espoli                1-1 Barcelona
 Emelec                2-1 Deportivo Cuenca
   [Carlos JUAREZ 14, Moisés CANDELARIO 42; Carlos Gregorio QUIÑONEZ 21]
 
-Round 12 [Sep 14]
+Round: 12 [Sep 14]
 Aucas                 0-2 Emelec
   [Moisés CUERO 5, Jorge ROJAS 75]
 Deportivo Quito       2-1 El Nacional
@@ -471,7 +464,7 @@ Deportivo Cuenca      4-0 Espoli
 Barcelona             4-0 Manta FC
   [Ariel GRAZIANI 4,74, Rubén CAPRIA 21, Rodrigo TEXEIRA 22]
 
-Round 13 
+Round: 13 
 [Sep 19]
 El Nacional           3-1 Técnico Universitario
   [Cristian Lara 45, Ebelio ORDOÑEZ 72; Modesto David VALENCIA 88;
@@ -486,7 +479,7 @@ Emelec                2-0 Deportivo Quito
 [Sep 21]
 LDU de Quito          0-0 Barcelona
 
-Round 14 [Sep 24]
+Round: 14 [Sep 24]
 Aucas                 0-0 Espoli
 Manta FC              1-1 LDU de Quito
   [Luis Rafael ANGULO 46; Franklin SALAS 14]
@@ -498,7 +491,7 @@ Técnico Universitario 3-2 Emelec
   [Fabian CUBERO 49, Eddie ALVARADO 57, Francisco LUZURIAGA 70pen;
    Carlos JUAREZ 30,74]
 
-Round 15 [Sep 28]
+Round: 15 [Sep 28]
 Aucas                 1-0 Deportivo Quito
   [Walter IZA 87pen]
 El Nacional           5-1 Manta FC
@@ -512,7 +505,7 @@ Espoli                3-4 LDU de Quito
 Emelec                1-1 Barcelona
   [Juan TRIVIÑO 86; Rodrigo TEXEIRA 39]
 
-Round 16 
+Round: 16 
 [Oct 3]
 Deportivo Quito       2-2 Espoli
   [Marlon AYOVI 3, Lenín DE JESUS 67; Manuel COTERA 31,35]
@@ -526,7 +519,7 @@ Manta FC              0-5 Emelec
 Barcelona             1-0 Deportivo Cuenca
   [Rodrigo TEXEIRA 24]
 
-Round 17 [Oct 15]
+Round: 17 [Oct 15]
 Aucas                 1-2 Barcelona
   [Vilson ROSERO 33; Diego GARAY 42, Rodrigo TEXEIRA 55]
 Espoli                0-3 El Nacional
@@ -539,7 +532,7 @@ Emelec                0-1 LDU de Quito
 Deportivo Cuenca      3-0 Manta FC  
   [Carlos QUIÑONEZ 20,44, Walter CALDERON 28]
 
-Round 18 [Oct 12]
+Round: 18 [Oct 12]
 LDU de Quito          2-0 Deportivo Cuenca
   [Luis ZAMBRANO 2, Alberto Martín OJEDA 44]
 Barcelona             2-0 Deportivo Quito
@@ -581,7 +574,7 @@ Final Table:
 
 [bonus points between square brackets]
 
-Round 1
+Round: 1
 [Oct 17]
 Deportivo Cuenca     3-0 Deportivo Quito
   [Carlos QUIÑONEZ 2,76, Christian BOTTERO 51]
@@ -592,7 +585,7 @@ Emelec               1-4 El Nacional
   [Wellington SANCHEZ 51; Evelio ORDOÑEZ 15, Cleber CHALA 27,
    Cristian LARA 80, 88]
 
-Round 2
+Round: 2
 [Oct 24]
 Deportivo Quito      0-1 Emelec
   [Carlos JUAREZ 5]
@@ -602,7 +595,7 @@ Barcelona            2-1 Deportivo Cuenca
 El Nacional          0-1 LDU de Quito
   [Paúl AMBROSSI 51]
 
-Round 3 [Oct 29]
+Round: 3 [Oct 29]
 Deportivo Quito      1-2 El Nacional
   [Juan Carlos BURBANO 90og; Carlos GRUESO 68, Luis Antonio VALENCIA 82]
 Deportivo Cuenca     1-3 LDU de Quito
@@ -611,7 +604,7 @@ Deportivo Cuenca     1-3 LDU de Quito
 Emelec               2-1 Barcelona
   [Moisés CUERO 17, Jorge ROJAS 38; Rodrigo TEXEIRA 65]
 
-Round 4 [Nov 2]
+Round: 4 [Nov 2]
 El Nacional          1-2 Barcelona
   [Evelio ORDOÑEZ 40pen; Rodrigo TEXEIRA 81, Luis GOMEZ 90+1]
 LDU de Quito         4-2 Deportivo Quito
@@ -620,7 +613,7 @@ LDU de Quito         4-2 Deportivo Quito
 Emelec               1-1 Deportivo Cuenca
   [Carlos JUAREZ 50; Leonel LIBERMAN 54]
 
-Round 5 [Nov 23]
+Round: 5 [Nov 23]
 Deportivo Cuenca     1-2 El Nacional
   [Marcelo VELAZCO 5; Cléber CHALA 60, Angel FERNANDEZ 78]
 LDU de Quito         2-0 Emelec
@@ -628,7 +621,7 @@ LDU de Quito         2-0 Emelec
 Barcelona            3-0 Deportivo Quito
   [Rubén CAPRIA 23, Rodrigo TEXEIRA 28, Nicolás ASENCIO 49]
 
-Round 6 [Nov 30]
+Round: 6 [Nov 30]
 El Nacional          2-3 Deportivo Cuenca
   [Evelio ORDOÑEZ 38, Juan Carlos BURBANO 87; Marcelo VELAZCO 23,
    Carlos QUIÑONEZ 30, 39]
@@ -638,7 +631,7 @@ Emelec               4-1 LDU de Quito
   [Juan TRIVIÑO 14, Carlos NETTO 36, Darwin CAICEDO 45,
    Jaime CAICEDO 90; Carlos NETTO 77og]
 
-Round 7
+Round: 7
 [Dec 5]
 Deportivo Cuenca     4-1 Emelec
   [Christian BOTTERO 15, Carlos QUIÑONEZ 29, 91, Marcelo VELAZCO 57;
@@ -650,7 +643,7 @@ Barcelona            0-2 El Nacional
 Deportivo Quito      1-0 LDU de Quito
   [Marlon AYOVI 11pen]
 
-Round 8 [Dec 10]
+Round: 8 [Dec 10]
 LDU de Quito         5-0 Deportivo Cuenca
   [virgilio FERREIRA 13, 19, 47, 50, Luis ZAMBRANO 83]
 El Nacional          4-0 Deportivo Quito
@@ -658,7 +651,7 @@ El Nacional          4-0 Deportivo Quito
 Barcelona            3-0 Emelec
   [Diego GARAY 47, Rubén CAPRIA 73, Ariel GRAZIANI 85]
 
-Round 9 [Dec 14]
+Round: 9 [Dec 14]
 LDU de Quito         2-1 El Nacional
   [Patricio URRUTIA 41, Néicer REASCO 85; Felix BORJA 51]
 Deportivo Cuenca     1-4 Barcelona
@@ -666,7 +659,7 @@ Deportivo Cuenca     1-4 Barcelona
    Iván HURTADO 85pen]
 Emelec               0-0 Deportivo Quito
 
-Round 10 [Dec 21]
+Round: 10 [Dec 21]
 Deportivo Quito      6-2 Deportivo Cuenca
   [Jhonny BALDEON 10, 60, Marlon AYOVI 52pen, 68, Rolando JACOME 62,
    Santiago MORALES 82; Carlos QUIÑONEZ 17, Pablo AREVALO 89]
@@ -676,16 +669,13 @@ El Nacional          5-2 Emelec
 Barcelona            4-0 LDU de Quito
   [Ariel GRAZIANI 41, Rodrigo TEXEIRA 52, Geovanny CAICEDO 56, Luis GOMEz 90+4pen]
 
-Final Table:
-
- 1.LDU de Quito           10  7  0  3 19-13 26  [5]  Champions
- 2.Barcelona              10  6  0  4 19- 9 23  [5]  Libertadores 2004
- 3.El Nacional            10  6  0  4 21-13 20  [2]  Libertadores 2004
- 4.Emelec                 10  3  2  5 12-21 11
- 5.Deportivo Quito        10  3  1  6 11-19 10
- 6.Deportivo Cuenca       10  3  1  6 17-26 10
-
-[bonus points between square brackets]
+* 1.LDU de Quito           10  7  0  3 19-13 26  [5]  Champions
+* 2.Barcelona              10  6  0  4 19- 9 23  [5]  Libertadores 2004
+* 3.El Nacional            10  6  0  4 21-13 20  [2]  Libertadores 2004
+* 4.Emelec                 10  3  2  5 12-21 11
+* 5.Deportivo Quito        10  3  1  6 11-19 10
+* 6.Deportivo Cuenca       10  3  1  6 17-26 10
+*[bonus points between square brackets]
 
 
 *Aggregate Table:

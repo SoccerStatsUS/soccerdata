@@ -26,7 +26,7 @@ Date: 8/2/2009
 
 ; Heredia              ; 2-0; Xinabajul
 ; Juventud Retalteca   ; 5-0; Jalapa
-; Municipal            ; 2-2; Universidad
+; Municipal            ; 2-2; USAC
 ; Peñarol La Mesilla   ; 3-1; Zacapa
 ; Xelajú               ; 2-4; Suchitepéquez
 
@@ -35,7 +35,7 @@ Date: 8/8/2009
 
 ; Comunicaciones       ; 2-0; Peñarol La Mesilla
 ; Jalapa               ; 1-1; Marquense
-; Universidad          ; 0-1; Xelajú
+; USAC          ; 0-1; Xelajú
 
 Date: 8/9/2009
 
@@ -50,7 +50,7 @@ Date: 8/12/2009
 ; Juventud Retalteca   ; 2-1; Marquense
 ; Municipal            ; 2-1; Zacapa
 ; Peñarol La Mesilla   ; 1-0; Jalapa
-; Universidad          ; 3-1; Suchitepéquez
+; USAC          ; 3-1; Suchitepéquez
 ; Xelajú               ; 2-1; Xinabajul
 
 Round: 4
@@ -63,13 +63,13 @@ Date: 8/16/2009
 
 ; Jalapa               ; 2-2; Heredia
 ; Juventud Retalteca   ; 2-0; Peñarol La Mesilla
-; Xinabajul            ; 1-0; Universidad
+; Xinabajul            ; 1-0; USAC
 ; Zacapa               ; 2-5; Xelajú
 
 Round: 5
 Date: 8/22/2009
 
-; Universidad          ; 1-1; Zacapa
+; USAC          ; 1-1; Zacapa
 
 Date: 8/23/2009
 
@@ -90,12 +90,12 @@ Date: 8/30/2009
 ; Juventud Retalteca   ; 0-0; Municipal
 ; Peñarol La Mesilla   ; 0-1; Suchitepéquez    
 ; Zacapa               ; 4-1; Xinabajul
-; Comunicaciones       ; 3-2; Universidad
+; Comunicaciones       ; 3-2; USAC
 
 Round: 7
 Date: 9/5/2009
 
-; Universidad          ; 1-0; Jalapa
+; USAC          ; 1-0; Jalapa
 ; Xinabajul            ; 1-1; Comunicaciones
 
 Date: 9/6/2009
@@ -108,7 +108,7 @@ Date: 9/6/2009
 Round: 8 
 Date: 9/9/2009
 
-; Juventud Retalteca   ; 0-0; Universidad           
+; Juventud Retalteca   ; 0-0; USAC           
 ; Heredia              ; 3-0; Suchitepéquez         
 ; Peñarol La Mesilla   ; 1-2; Municipal             
 ; Comunicaciones       ; 3-0; Zacapa
@@ -118,7 +118,7 @@ Date: 9/9/2009
 Round: 9
 Date: 9/12/2009
 
-; Universidad          ; 2-4; Marquense
+; USAC          ; 2-4; Marquense
 
 Date: 9/13/2009
 
@@ -139,12 +139,12 @@ Date: 9/20/2009
 ; Heredia              ; 2-0; Xelajú                
 ; Juventud Retalteca   ; 4-0; Zacapa
 ; Municipal            ; 1-0; Suchitepéquez         
-; Peñarol La Mesilla   ; 1-1; Universidad           
+; Peñarol La Mesilla   ; 1-1; USAC           
 
 Round: 11
 Date: 9/26/2009
 
-; Universidad          ; 1-1; Heredia               
+; USAC          ; 1-1; Heredia               
 ; Comunicaciones       ; 6-2; Juventud Retalteca    
 
 Date: 9/27/2009
@@ -162,7 +162,7 @@ Date: 10/3/2009
 
 Date: 10/4/2009
 
-; Universidad          ; 1-1; Municipal             
+; USAC          ; 1-1; Municipal             
 ; Suchitepéquez        ; 2-1; Xelajú                
 ; Xinabajul            ; 1-0; Heredia               
 ; Zacapa               ; 2-1; Peñarol La Mesilla    
@@ -178,7 +178,7 @@ Date: 10/11/2009
 ; Municipal            ; 2-1; Xinabajul             
 ; Heredia              ; 6-0; Zacapa                
 ; Peñarol La Mesilla   ; 2-1; Comunicaciones        
-; Xelajú               ; 3-0; Universidad           
+; Xelajú               ; 3-0; USAC           
 
 Round: 14 
 Date: 10/14/2009
@@ -186,7 +186,7 @@ Date: 10/14/2009
 ; Comunicaciones       ; 1-2; Heredia               
 ; Jalapa               ; 1-0; Peñarol La Mesilla    
 ; Marquense            ; 1-0; Juventud Retalteca    
-; Suchitepéquez        ; 2-1; Universidad           
+; Suchitepéquez        ; 2-1; USAC           
 ; Xinabajul            ; 2-1; Xelajú                
 ; Zacapa               ; 0-2; Municipal             
 
@@ -198,7 +198,7 @@ Date: 10/18/2009
 ; Xelajú               ; 3-0; Zacapa                
 ; Heredia              ; 4-2; Jalapa                
 ; Peñarol La Mesilla   ; 1-2; Juventud Retalteca    
-; Universidad          ; 2-0; Xinabajul             
+; USAC          ; 2-0; Xinabajul             
 
 Round: 16
 Date: 10/24/2009
@@ -211,7 +211,7 @@ Date: 10/25/2009
 
 ; Comunicaciones       ; 3-0; Xelajú                
 ; Juventud Retalteca   ; 3-2; Heredia               
-; Zacapa               ; 1-1; Universidad           
+; Zacapa               ; 1-1; USAC           
 
 Round: 17
 Date: 10/30/2009
@@ -225,14 +225,14 @@ Date: 10/31/2009
 Date: 11/1/2009
 
 ; Suchitepéquez        ; 5-0; Peñarol La Mesilla    
-; Universidad          ; 0-1; Comunicaciones        
+; USAC          ; 0-1; Comunicaciones        
 ; Heredia              ; 1-1; Marquense             
 ; Municipal            ; 1-1; Juventud Retalteca    
 
 Round: 18
 Date: 11/6/2009
 
-; Jalapa               ; 1-0; Universidad           
+; Jalapa               ; 1-0; USAC           
 
 Date: 11/7/2009
 
@@ -250,7 +250,7 @@ Date: 11/11/2009
 
 ; Municipal            ; 1-0; Peñarol La Mesilla    
 ; Zacapa               ; 1-0; Comunicaciones        
-; Universidad          ; 0-0; Juventud Retalteca    
+; USAC          ; 0-0; Juventud Retalteca    
 ; Suchitepéquez        ; 1-1; Heredia               
 ; Xelajú               ; 3-1; Marquense             
 ; Xinabajul            ; 0-0; Jalapa                
@@ -258,7 +258,7 @@ Date: 11/11/2009
 Round: 20
 Date: 11/14/2009
 
-; Marquense            ; 1-0; Universidad           
+; Marquense            ; 1-0; USAC           
 ; Jalapa               ; 2-0; Zacapa                
 
 Date: 11/15/2009
@@ -271,7 +271,7 @@ Date: 11/15/2009
 Round: 21
 Date: 11/21/2009
 
-; Universidad          ; 0-0; Peñarol La Mesilla    
+; USAC          ; 0-0; Peñarol La Mesilla    
 ; Xelajú               ; 1-0; Heredia               
 ; Comunicaciones       ; 0-0; Jalapa                
 ; Xinabajul            ; 1-0; Marquense             
@@ -285,7 +285,7 @@ Round: 22
 Date: 11/29/2009
 
 ; Municipal            ; 3-1; Xelajú                
-; Heredia              ; 2-0; Universidad           
+; Heredia              ; 2-0; USAC           
 ; Jalapa               ; 3-1; Suchitepéquez         
 ; Marquense            ; 2-1; Zacapa                
 ; Juventud Retalteca   ; 4-1; Comunicaciones        
@@ -399,7 +399,7 @@ Date: 1/16/2010
 
 Date: 1/17/2010
 
-; Universidad          ; 1-1; Peñarol La Mesilla   
+; USAC          ; 1-1; Peñarol La Mesilla   
 
 Round: 2 
 Date: 1/20/2010
@@ -409,7 +409,7 @@ Date: 1/20/2010
 ; Juventud Retalteca   ; 0-0; Suchitepéquez        
 ; Heredia              ; 0-1; Comunicaciones       
 ; Xelajú               ; 3-0; Xinabajul            
-; Zacapa               ; 1-1; Universidad          
+; Zacapa               ; 1-1; USAC          
 
 Round: 3
 
@@ -423,7 +423,7 @@ Date: 1/23/2010
 
 Date: 1/24/2010
 
-; Universidad          ; 1-0; Marquense            
+; USAC          ; 1-0; Marquense            
 
 Round: 4
 
@@ -436,7 +436,7 @@ Date: 1/31/2010
 
 ; Juventud Retalteca   ; 2-0; Xinabajul
 ; Municipal            ; 2-1; Comunicaciones
-; Universidad          ; 4-0; Jalapa
+; USAC          ; 4-0; Jalapa
 
 Date: 3/10/2010
 
@@ -447,7 +447,7 @@ Date: 2/3/2010
 
 ; Xinabajul            ; 2-1; Municipal
 ; Comunicaciones       ; 2-0; Peñarol La Mesilla    
-; Suchitepéquez        ; 3-0; Universidad
+; Suchitepéquez        ; 3-0; USAC
 ; Jalapa               ; 1-1; Marquense
 ; Xelajú               ; 2-0; Juventud Retalteca    
 ; Zacapa               ; 1-0; Heredia
@@ -463,7 +463,7 @@ Date: 2/6/2010
 Date: 2/7/2010
 
 ; Juventud Retalteca   ; 0-0; Heredia
-; Universidad          ; 3-2; Comunicaciones        
+; USAC          ; 3-2; Comunicaciones        
 ; Municipal            ; 0-1; Xelajú                
 
 Round: 7
@@ -471,7 +471,7 @@ Round: 7
 Date: 2/13/2010
 
 ; Zacapa               ; 2-1; Juventud Retalteca    
-; Xinabajul            ; 0-0; Universidad           
+; Xinabajul            ; 0-0; USAC           
 ; Xelajú               ; 1-0; Peñarol La Mesilla    
 ; Suchitepéquez        ; 1-3; Jalapa                
 ; Comunicaciones       ; 5-1; Marquense             
@@ -492,7 +492,7 @@ Date: 2/17/2010
 ; Marquense            ; 1-1; Xinabajul
 ; Jalapa               ; 1-1; Comunicaciones
 ; Peñarol La Mesilla   ; 1-0; Heredia
-; Universidad          ; 0-0; Xelajú
+; USAC          ; 0-0; Xelajú
 
 Round: 9
 
@@ -506,7 +506,7 @@ Date: 2/21/2010
 ; Comunicaciones       ; 1-2; Suchitepéquez         
 ; Juventud Retalteca   ; 1-0; Peñarol La Mesilla    
 ; Zacapa               ; 0-1; Municipal             
-; Heredia              ; 1-2; Universidad           
+; Heredia              ; 1-2; USAC           
 
 Round: 10
 
@@ -520,7 +520,7 @@ Date: 2/27/2010
 Date: 2/28/2010
 
 ; Peñarol La Mesilla   ; 3-1; Municipal             
-; Universidad          ; 0-0; Juventud Retalteca    
+; USAC          ; 0-0; Juventud Retalteca    
 
 Round: 11
 
@@ -534,13 +534,13 @@ Date: 3/7/2010
 
 ; Juventud Retalteca   ; 1-0; Marquense             
 ; Heredia              ; 3-0; Jalapa                
-; Municipal            ; 0-0; Universidad           
+; Municipal            ; 0-0; USAC           
 
 Round: 12
 
 Date: 3/13/2010
 
-; Peñarol La Mesilla   ; 2-1; Universidad           
+; Peñarol La Mesilla   ; 2-1; USAC           
 ; Xelajú               ; 2-2; Comunicaciones        
 ; Zacapa               ; 3-1; Xinabajul             
 
@@ -562,12 +562,12 @@ Date: 3/20/2010
 
 Date: 3/21/2010
 
-; Universidad          ; 4-1; Zacapa                
+; USAC          ; 4-1; Zacapa                
 
 Round: 14 
 Date: 3/24/2010
 
-; Marquense            ; 1-1; Universidad           
+; Marquense            ; 1-1; USAC           
 ; Peñarol La Mesilla   ; 3-3; Jalapa                
 ; Juventud Retalteca   ; 2-0; Comunicaciones              
 ; Heredia              ; 3-1; Xinabajul             
@@ -583,7 +583,7 @@ Date: 3/26/2010
 Date: 3/27/2010
 
 ; Comunicaciones       ; 1-0; Municipal             
-; Jalapa               ; 0-0; Universidad           
+; Jalapa               ; 0-0; USAC           
 ; Xelajú               ; 1-0; Heredia               
 ; Xinabajul            ; 2-0; Juventud Retalteca    
 ; Zacapa               ; 3-1; Marquense             
@@ -592,7 +592,7 @@ Round: 16
 
 Date: 3/30/2010
 
-; Universidad          ; 2-0; Suchitepéquez         
+; USAC          ; 2-0; Suchitepéquez         
 ; Municipal            ; 2-0; Xinabajul             
 
 Date: 3/31/2010
@@ -606,7 +606,7 @@ Round: 17
 Date: 4/7/2010
 
 ; Heredia              ; 1-0; Juventud Retalteca    
-; Comunicaciones       ; 1-0; Universidad           
+; Comunicaciones       ; 1-0; USAC           
 ; Suchitepéquez        ; 2-0; Marquense             
 ; Xelajú               ; 2-1; Municipal             
 ; Xinabajul            ; 2-2; Peñarol La Mesilla    
@@ -623,7 +623,7 @@ Date: 4/11/2010
 
 ; Peñarol La Mesilla   ; 3-4; Xelajú                
 ; Juventud Retalteca   ; 1-0; Zacapa                
-; Universidad          ; 3-1; Xinabajul             
+; USAC          ; 3-1; Xinabajul             
 ; Municipal            ; 4-0; Heredia               
 
 Round: 19 
@@ -632,7 +632,7 @@ Date: 4/14/2010
 ; Juventud Retalteca   ; 2-0; Municipal
 ; Heredia              ; 2-1; Peñarol La Mesilla    
 ; Comunicaciones       ; 2-1; Jalapa
-; Xelajú               ; 3-2; Universidad           
+; Xelajú               ; 3-2; USAC           
 ; Xinabajul            ; 2-1; Marquense
 ; Zacapa               ; 0-1; Suchitepéquez         
 
@@ -647,13 +647,13 @@ Date: 4/17/2010
 Date: 4/18/2010
 
 ; Suchitepéquez        ; 2-1; Comunicaciones
-; Universidad          ; 2-0; Heredia
+; USAC          ; 2-0; Heredia
 ; Municipal            ; 1-0; Zacapa
 
 Round: 21 
 Date: 4/21/2010
 
-; Juventud Retalteca   ; 4-1; Universidad
+; Juventud Retalteca   ; 4-1; USAC
 ; Heredia              ; 2-0; Marquense
 ; Municipal            ; 1-0; Peñarol La Mesilla    
 ; Xelajú               ; 4-1; Jalapa
@@ -667,7 +667,7 @@ Date: 4/25/2010
 ; Marquense            ; 0-0; Juventud Retalteca    
 ; Peñarol La Mesilla   ; 3-0; Zacapa
 ; Suchitepéquez        ; 1-0; Xelajú
-; Universidad          ; 0-2; Municipal
+; USAC          ; 0-2; Municipal
 ; Comunicaciones       ; 3-2; Xinabajul
 
 * Final Table:
@@ -699,13 +699,13 @@ Date: 4/28/2010
 
 Date: 4/29/2010
 
-; Universidad          ; 3-2; Municipal             
+; USAC          ; 3-2; Municipal             
 
 *Second Legs 
 Date: 5/2/2010
 
 ; Suchitepéquez        ; 2-1; Peñarol La Mesilla    
-; Municipal            ; 2-0; Universidad           
+; Municipal            ; 2-0; USAC           
 
 Round: Semifinals
 
@@ -718,7 +718,8 @@ Date: 5/6/2010
 *Second Legs 
 Date: 5/8/2010
 
-; Xelajú               ; 2-0; Suchitepéquez         [3-1 pen]
+; Xelajú               ; 2-0; Suchitepéquez         
+*[3-1 pen]
 ; Comunicaciones       ; 1-1; Municipal
 
 Round: Final

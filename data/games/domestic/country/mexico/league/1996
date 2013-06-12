@@ -1,0 +1,1310 @@
+BlockSource: http://www.rsssf.com/tablesm/mex97.html
+Competition: Liga MX
+
+*Mexico 1996/97
+
+*     The 1996-97 Mexican Football League (Division 1) is
+*split into two different tournaments (Winter 1996 and Summer
+*1997).  In each tournament, a 17-game regular season will
+*be followed by a playoff to determine the champion.
+
+*     Playoff qualification for each tournament will be
+*determined by the following criteria:
+*
+* (a) The winner of every group (4 in total) goes right to the
+*     quarter-finals, that is, has a 1st-round bye.
+*
+* (b) The runner-up of every group goes to the playoffs as well.
+*     The top two runner-ups get a 1st-round bye. The third and
+*     fourth runner up (RU.3 & RU.4) might play in the 1st-round
+*     playoff against two wild card teams.
+*
+* (c) The top two teams of the remaining ten not yet considered
+*     will go to the 1st-round playoff ONLY if they have a better
+*     overall standing than that of the lowest qualified team
+*     according to (a) and (b) above.  They are tagged WC.1 and WC.2
+*     (wild cards) according to their final overall standing.
+*
+* (d) Every match-up is played in a home-to-home series with the
+*     following tie-breaker criteria:
+*
+*          (i) Aggregate score.
+*         (ii) Away goals.
+*        (iii) Final overall standing.
+*
+*     Therefore, every series (except the final) will be decided
+*     after 180 minutes of action (no extra time).  Tie-breaker
+*     (ii) and (iii) are removed for the final, allowing for the typical
+*     extra-time period plus penalty shots should it be necessary.
+
+
+Season: 1996 Winter
+
+*     GROUP 1                  G    F:A   PTS   MN
+* ---------------------------------------------------
+*     1. Atlante              17   30-11   38    *
+*     2. Puebla               17   32-22   31    *
+*     3. Neza                 17   30-36   24    *
+*     4. Cruz_Azul            17   26-26   20
+*     5. Veracruz             17   14-21   18
+
+*     GROUP 2                  G    F:A   PTS   MN
+* ---------------------------------------------------
+*     1. Necaxa               17   24-19   29    *
+*     2. Leon                 17   24-19   23    *
+*     3. America              17   24-27   17
+*     4. Pachuca              17   25-36   15
+*     5. Morelia              17   20-31   12
+* ---------------------------------------------------
+
+*     GROUP 3                  G    F:A   PTS   MN
+* ---------------------------------------------------
+*     1. Guadalajara          17   33-19   31    *
+*     2. Toluca               17   26-15   30    *
+*     3. Atlas                17   28-26   26    *
+*     4. U.N.A.M.             17   23-27   18
+
+*     GROUP 4                  G    F:A   PTS   MN
+* ---------------------------------------------------
+*     1. Santos               17   21-15   34    *
+*     2. Monterrey            17   15-21   19    *
+*     3. U.A.G.               17   20-30   18
+*     4. Celaya               17   19-33   17
+
+* MN = Magic number of points needed to clinch a play-
+*      off berth.
+*      (*) Qualified.
+
+
+Round: 1 
+*(09-11/AG/96)
+Date: 8/11/1996
+
+; U.A.G.      ; 0 - 1; Atlas        
+;   Rodolfo García 68
+
+; Cruz Azul   ; 3 - 0; Toros Neza  
+  Luis Carlos de Oliveira 9, Sergio Verdirame 30, Carlos Hermosillo 67;
+
+; Celaya; 0-0; Monterrey
+
+; Puebla      ; 2 - 1; Toluca      
+  Daniel Guzmán 39, Carlos Muñoz 74; José Manuel Abundis 85
+
+; Guadalajara ; 2 - 0; U.N.A.M.    
+  Claudio Suárez (pk) 40, Gabriel García 49;
+
+; Pachuca     ; 2 - 2; Necaxa      
+  Antonio Torres Servín (pk) 26, Guillermo López 28; Alberto García Aspe (pk) 5, Luis Hernández 36
+
+; Morelia     ; 1 - 1; Leon        
+  Marco Antonio Figueroa 41; Carlos Turrubiates 43
+
+; Atlante     ; 3 - 0; Veracruz    
+  Mario Jáuregui 7, Luis Roberto Alves 21, Luis Roberto Alves 63;
+
+; Santos      ; 1 - 0; America     
+  Jared Borguetti 89;
+
+Round: 2 
+*(16-20/AG/96)
+Date: 8/16/1996
+
+
+; Monterrey   ; 0 - 1; Santos      
+;  Benjamín Galindo (pk) 25
+
+; Toluca      ; 5 - 0; U.A.G.      
+  Carlos María Morales 29, Carlos Maria Morales 53, José Cardozo 69, Jose Cardozo 89, Marcelino Bernal (pk) 73;
+
+; Veracruz    ; 1 - 1; Celaya      
+  Daniel Fasciolli 29; Richard Zambrano (pk) 35
+
+; Necaxa      ; 1 - 2; Atlante     
+  Alberto García Aspe (pk) 79; José Damasceno 20, Martín Félix Ubaldi 45
+
+; Leon        ; 0-0; Guadalajara  
+
+; Atlas       ; 5 - 1; Pachuca     
+  Gustavo Dezzoti 36, Rodolfo García 41, Rodolfo Garcia 57, Steve Padilla 69, Steve Padilla 81; Antonio Torres Servín 59
+
+; U.N.A.M.    ; 1 - 2; Cruz Azul   
+  Jesús Olalde 54; Carlos Hermosillo 7, Miguel Ángel Carreón (og) 36
+
+; Toros Neza        ; 0 - 3; Puebla
+;  Uwe Wolf (pk) 50, Daniel Guzmán 64, Carlos Muñoz 87
+
+; America     ; 5 - 1; Morelia     
+  Francois Omam Biyik 8, Luis García (pk) 35, Luis Garcia 54, Luis Garcia 59, Luis Garcia 75; Marco Antonio Figueroa 28
+
+Round: 3 
+*(23-25/AG/96)
+Date: 8/23/1996
+
+; Monterrey   ; 2 - 1; Veracruz    
+  Luis Miguel Salvador 57, Gabriel Ruiz 76; Jair de Brito 86
+
+; U.A.G.      ; 1 - 2; Toros Neza  
+  Fabián Arias 74; Nildeson Silva 29, Nildeson Silva 40
+
+; Cruz Azul   ; 2 - 2; Leon        
+  Carlos Hermosillo (pk) 58, Sergio Verdirame (pk) 69; Milton Queiroz 53, Damián Álvarez 87
+
+; Puebla      ; 2 - 1; U.N.A.M.    
+  Gilberto Jiménez 41, Carlos Muñoz 50; Vicente Nieto 33
+
+; Celaya    ;  v; Necaxa
+* Rescheduled for W 04/SP/96
+
+; Guadalajara ; 5 - 0; America     
+  Ramón Ramírez 4, Sergio Pacheco 28, Paulo César Chávez 54, Gabriel García 67, Gabriel Garcia 78;
+
+; Pachuca     ; 3 - 0; Toluca      
+  Hernán Medford 47, Gonzalo Farfán 67, Lorenzo Sáez 75;
+
+; Atlante     ; 1 - 1; Atlas       
+  Miodrag Belodedici 76; Gerardo Mascareño 46
+
+; Santos      ; 2 - 1; Morelia     
+  Benjamín Galindo (pk) 24, Nicolás Ramírez 43; José Guadalupe Rubio (og) 74
+
+Round: 4 
+*(30/AG-01/SP/96)
+Date: 8/30/1996
+
+; U.N.A.M.    ; 1 - 2; U.A.G.      
+  Israel López 76; Christian Ramírez (og) 65, Amarildo Soarez 84
+
+; Toluca;      v; Atlante
+* (-) Rescheduled for W 11/SP/96
+
+; Veracruz    ; 0-0; Santos       
+
+8/20/1996; Necaxa      ; 3 - 0; Monterrey  
+  Alberto García Aspe 35, Sergio Zárate 56, Ricardo Peláez 65;
+
+; Leon        ; 1 - 1; Puebla      
+  Carlos Turrubiates 68; Carlos Muñoz 37
+
+; Atlas       ; 2 - 1; Celaya      
+  Omar Avilán 7, Rodolfo García 8; Richard Zambrano (pk) 63
+
+; Morelia     ; 1 - 4; Guadalajara 
+  Jafet Soto 88; Gabriel García 58, Gabriel Garcia 90, Gustavo Nápoles 84, Alberto Coyote 89
+
+; America;     v; Cruz Azul
+* (+) Rescheduled for Tu 10/SP/96
+
+; Toros Neza  ; 5 - 2; Pachuca     
+  Antonio Mohamed 15, Jesús López Meneses 35, Nildeson Silva 47, Nildeson Silva 56, Nildeson Silva 85; Hernán Medford 9, Lorenzo Sáez 43
+
+Round: 5 
+*(06-08/SP/96)
+Date: 9/6/1996
+
+; Monterrey   ; 0-0; Atlas        
+
+; Veracruz    ; 1 - 1; Necaxa      
+  José Luis González China 47; Ricardo Peláez 31
+
+; U.A.G.      ; 0 - 1; Leon        
+;  Milton Queiroz 31
+
+; Cruz Azul   ; 1 - 1; Morelia     
+  Carlos Hermosillo 60; Jafet Soto 43
+
+; Puebla      ; 1 - 0; America     
+  Carlos Muñoz 86;
+
+; Celaya      ; 0 - 1; Toluca      
+;  Marcelino Bernal (pk) 11
+
+; Pachuca     ; 0-0; U.N.A.M.     
+
+; Atlante     ; 0 - 1; Toros Neza  
+;  Antonio Mohamed 52
+
+;Santos      ; 1 - 1; Guadalajara ; Zacatecas, Mexico
+  Jared Borguetti 23; Gustavo Nápoles 85
+
+Round: 3 & 4 PENDING MATCHES 
+*(10-11/SP/96)
+Date: 9/10/1996
+
+; Celaya      ; 1 - 2; Necaxa      
+  José Miguel González 89; Alberto García Aspe (pk) 6, José Enrique García 68
+ 
+; America     ; 2 - 1; Cruz Azul   
+  Pedro Pineda (pk) 62, Javier Margas 68; Carlos Hermosillo (pk) 65
+
+; Toluca      ; 0-0; Atlante      
+
+Round: 6 
+*(14-16/SP/96)
+Date: 9/14/1996
+
+; Toluca      ; 1 - 0; Monterrey   
+  José Cardozo 70;
+
+; Morelia     ; 2 - 2; Puebla      
+  Everaldo Bejines 30, Marcelo Carracedo 64; Leopoldo Castañeda 59, Marco dos Santos 62
+
+; Necaxa;      v; Santos
+* (*) Rescheduled for W 02/OC/96
+
+; Leon        ; 2 - 2; Pachuca     
+  Roberto López Segoviano 19, Alfonso Sosa 59; Lorenzo Sáez 31, Alberto Rodríguez 90
+
+; Atlas       ; 1 - 2; Veracruz    
+  Pablo Hernán Lavallén 51; Daniel Fasciolli 21, Daniel Fasciolli 83
+
+; U.N.A.M.    ; 1 - 3; Atlante     
+  Jesús Olalde 33; Ignacio Ambríz (pk) 44, Luis Roberto Alves 59, Mario Jáuregui 89
+
+; Guadalajara; v; Cruz Azul
+* (*) Rescheduled for W 02/OC/96
+
+; Toros Neza  ; 1 - 2; Celaya      
+  Antonio Mohamed 31; José Miguel González 11, Jose Miguel Gonzalez 18
+
+; America;     v; U.A.G.
+* Rescheduled for W 09/OC/96
+
+* Did I lose this?
+* (+) Rescheduled for Th 24/OC/96
+
+Round: 7 
+*(20-25/SP/96)
+Date: 9/20/1996
+
+; U.A.G.      ; 1 - 0; Morelia     
+  Gilberto Adame 53;
+
+; Veracruz    ; 1 - 1; Toluca      
+  Daniel Fasciolli 90; José Cardozo 75
+
+; Puebla      ; 1 - 1; Guadalajara 
+  Carlos Muñoz 9; Gabriel García 79
+
+; Celaya      ; 0 - 1; U.N.A.M.    
+;  Cristian Domizzi 68
+
+; Atlante     ; 1 - 0; Leon        
+  Luis Roberto Alves 40;
+
+; Santos      ; 0 - 2; Cruz Azul   
+;  Jorge Santillana 56, Carlos Hermosillo 88
+* (*) Played on Su 15/SP/96
+
+; Necaxa      ; 0 - 2; Atlas       
+;  Gerardo Mascareño 2, Gerardo Mascareno 30
+
+; Monterrey   ; 5 - 1; Toros Neza  
+  David Patiño 16, David Patino 65, David Patino 71, Luis Miguel Salvador 26, Ramón Morales 88; Nildeson Silva 68
+
+; Pachuca     ; 2 - 2; America     
+  Lorenzo Sáez 11, Lorenzo Saez 39; Pedro Pineda 73, Pedro Pineda 77
+
+Round: 8 
+*(28-30/SP/96)
+Date: 9/28/1996
+
+; Toluca      ; 2 - 0; Necaxa      
+  José Manuel Abundis 51, Alberto Macías 83;
+
+; Cruz Azul   ; 3 - 1; Puebla      
+  Carlos Hermosillo 39, Sergio Verdirame 49, Juan Francisco Palencia 70; Sergio Almaguer 9
+
+; Leon        ; 4 - 1; Celaya      
+  Milton Queiroz 24, Milton Queiroz (pk) 63, Christian Torres 73, Christian Torres 82; José Miguel González (pk) 52
+
+; Atlas       ; 1 - 1; Santos      
+  Darío Franco 15; Christian Montesinos 89
+
+; Guadalajara ; 4 - 1; U.A.G.      
+  Alberto Coyote 11, Gustavo Nápoles 15, Gabriel García 41, Felipe de Jesús Robles 87; Sergio Gómez 16
+
+; Morelia     ; 3 - 0; Pachuca     
+  Marco Antonio Figueroa 20, Marco Antonio Figueroa 41, Marco Antonio Figueroa 77;
+
+; America     ; 1 - 2; Atlante     
+  Luis García 27; Luis Roberto Alves 32, Luis Roberto Alves 50
+
+; Toros Neza  ; 2 - 0; Veracruz    
+  Javier Saavedra 22, Germán Arangio 65;
+
+; U.N.A.M.    ; 1 - 1; Monterrey   
+  Marco de Almeida 10; Roberto Medina 61
+
+Round: 6 
+*(02/OC/96)
+
+10/2/1996;  Guadalajara; 1-0; Cruz Azul
+Gabriel García 68;
+* Pending match
+
+Round: 9 
+*(03-06/OC/96)
+Date: 10/3/1996
+
+; Monterrey   ; 1 - 0; Leon        
+  David Patiño 73;
+
+; U.A.G.      ; 1 - 1; Cruz Azul   
+  Duilio Davino 7; Carlos Hermosillo 6
+
+; Veracruz    ; 1 - 1; U.N.A.M.    
+  Lenin Becerra 44; Cristian Domizzi 4
+
+; Necaxa      ; 2 - 0; Toros Neza  
+  Ricardo Peláez 32, Sergio Zárate 49;
+
+;  Celaya ;     v; America
+* (*) Rescheduled for W 23/OC/96
+
+; Atlas       ; 1 - 1; Toluca      
+  Darío Franco 69; Marcelino Bernal 75
+
+; Pachuca     ; 0 - 2; Guadalajara 
+;  Claudio Suárez (pk) 18, Gabriel García 55
+
+; Atlante     ; 2 - 0; Morelia     
+  Mario Jáuregui 72, José Luis Malibrán 80;
+
+; Santos      ; 1 - 0; Puebla      
+  Jared Borguetti 35;
+
+Round: 6 
+Date: 10/9/1996
+*(09/OC/96)
+
+; America     ; 2 - 2; U.A.G.      
+  Luis García 27, Cuauhtemoc Blanco 88; David Embé 20, Ángel Monáres 66
+
+Round: 10 
+*(11-13/OC/96)
+Date: 10/11/1996
+
+; America     ; 2 - 0; Monterrey   
+  Pedro Pineda 78, Cuauhtemoc Blanco 84;
+
+; Toluca      ; 0 - 2; Santos      
+;  Pedro Muñoz 61, Jared Borguetti 88
+
+; Cruz Azul   ; 1 - 2; Pachuca     
+  Sergio Verdirame 48; Hernán Medford 50, Lorenzo Sáez 72
+
+; Puebla      ; 5 - 2; U.A.G.      
+  Sergio Almaguer 15, Carlos Muñoz 32, Carlos Munoz 79, Carlos Munoz 82, Carlos Munoz 88; Eustacio Rizo 41, David Embé 87
+
+; Leon        ; 2 - 1; Veracruz    
+  Martín Peña 8, Christian Torres 27; Jair de Brito 14
+
+; Guadalajara ; 1 - 0; Atlante     
+  Manuel Martínez 46;
+
+; U.N.A.M.    ; 0 - 1; Necaxa      
+;  Edson Alvarado 56
+
+; Morelia     ; 1 - 2; Celaya      
+  Andrés Garza 34; José Miguel González 14, Richard Zambrano 65
+
+; Toros Neza  ; 6 - 2; Atlas       
+  Germán Arangio 38, Antonio Mohamed 57, Antonio Mohamed 68, Guillermo Vázquez (pk) 62, Rodrigo Ruiz 73, Enrique Figueroa 90; Steve Padilla 49, Gerardo Mascareño 76
+
+Round: 11 
+*(18-20/OC/96)
+Date: 10/18/1996
+
+; Monterrey   ; 0 - 3; Morelia     
+;  Jorge Chávez 42, Jafet Soto 51, Marcelo cariacedo 86
+
+; Toluca      ; 1 - 0; Toros Neza  
+  José Cardozo (pk) 82;
+
+; Veracruz    ; 1 - 0; America     
+  Daniel Fasciolli 88;
+
+; Necaxa      ; 0-0; Leon         
+
+; Celaya      ; 3 - 0; Guadalajara 
+  José Miguel González (pk) 17, Carlos Hernández 59, Carlos Hernandez 73;
+
+; Atlas       ; 2 - 2; U.N.A.M.    
+  Miguel Larrosa 56, Héctor López 78; Marco de Almeida 11, Marco de Almeida 86
+
+; Pachuca     ; 3 - 4; Puebla      
+  Lorenzo Sáez 8, Lorenzo Saez 60, Hernán Medford 31; José Juan Hernández 24, Daniel Guzmán 67, Carlos Muñoz 70, Francisco Rotllán 83
+
+; Atlante     ; 3 - 1; Cruz Azul   
+  Ricardo Carvajal 15, José Damasceno 27, Luis Roberto Alves 55; Carlos Hermosillo (pk) 72
+
+; Santos      ; 1 - 2; U.A.G.      
+  Jared Borguetti 76; David Embé 54, Eustacio Rizo 78
+
+Round: 6 & 9 
+*(23-24/OC/96)
+Date: 10/23/1996
+
+; Celaya      ; 0 - 2; America     
+;  Cuauhtemoc Blanco 22, Francois Omam Biyik 83
+
+; Necaxa      ; 0 - 1; Santos      
+;  Jared Borguetti 66
+
+Round: 12 
+*(25-27/OC/96)
+Date: 10/25/1996
+
+; U.N.A.M.    ; 0 - 3; Toluca      
+;  Miguel Ángel Carreón 4ag, José Cardozo 72, Enrique Alfaro 74
+
+; U.A.G.      ; 1 - 1; Pachuca     
+  David Embé 35; Lorenzo Sáez 77
+
+; Cruz Azul   ; 2 - 3; Celaya      
+  Juan Francisco Palencia 30, Julio Zamora 57; Carlos Hernández 21, Carlos López 34, Carlos Lopez 52
+
+; Puebla      ; 2 - 3; Atlante     
+  Carlos Muñoz 70, Eduardo Medina (og) 86; Mario Jáuregui 53, Mario Jauregui 80, Javier Flores 78
+
+; Leon        ; 1 - 1; Atlas       
+  Milton Queiroz (pk) 42; Rodolfo García (pk) 26
+
+; Guadalajara ; 3 - 1; Monterrey   
+  Gabriel García 1, Gabriel Garcia 26, Gustavo Nápoles 29; Hugo Castillo 85
+
+; Morelia     ; 0 - 2; Veracruz    
+;  José Luis González China 23, Jose Luis Gonzalez China 53
+
+; America     ; 1 - 1; Necaxa      
+  Pedro Pineda 44; Alberto García Aspe (pk) 24
+
+; Toros Neza  ; 2 - 3; Santos      
+  Pedro Pablo Osorio 70, Antonio Mohamed 74; Jared Borguetti 30, Nicolás Ramírez 72, Benjamín Galindo 79
+
+Round: 13 
+Date: 11/1/1996
+*(01-03/NV/96)
+
+; Monterrey   ; 1 - 0; Cruz Azul   
+  Rafael Gutiérrez Aldaco (pk) 35;
+
+; Toluca      ; 2 - 3; Leon        
+  Marcelino Bernal (pk) 53, Fabián Estay 69; Sigifredo Mercado 17, Roberto López Segoviano 30, Sergio Martínez (pk) 80
+
+; Veracruz    ; 3 - 2; Guadalajara 
+  Daniel Fasciolli 15, Jair de Brito 65, José Luis González China 74; Camilo Romero 25, Ignacio Vázquez 55
+
+; Necaxa      ; 2 - 1; Morelia     
+  Octavio Becerril 15, Sergio Zárate 69; Gerardo Esquivel (og) 83
+
+; Celaya      ; 0 - 1; Puebla      
+;  Carlos Muñoz 70
+
+; Atlas       ; 2 - 1; America     
+  Omar Avilán 38, Rodolfo García 53; Francois Omam Biyik 61
+
+; Atlante     ; 1 - 0; U.A.G.      
+  Luis Roberto Alves 90;
+
+; Toros Neza  ; 2 - 6; U.N.A.M.    
+  Antonio Mohamed 44, Rodrigo Ruiz 45; Jesús Olalde 32, Jesus Olalde 57, Marco de Almeida 35, Marco de Almeida 52, Marco de Almeida 62, Cristian Domizzi 75
+
+; Santos      ; 2 - 1; Pachuca     
+  Alberto García 21, José Guadalupe Rubio 81; Salvador Aguado 42
+
+
+Round: 14 
+*(08-11/NV/96)
+Date: 11/8/1996
+
+; U.A.G.      ; 5 - 2; Celaya      
+  David Embé 11, David Embe 25, Juan Parra 25, Juan Parra 58, Markus López 71; Carlos Hernández 20, Salvador Luis Reyes 83
+
+; Cruz Azul   ; 0-0; Veracruz     
+
+; Puebla      ; 1 - 0; Monterrey   
+  Daniel Guzmán 35;
+
+; Leon        ; 2 - 3; Toros Neza  
+  Fabián Prátola 10, Roberto García Reza 72; Nildeson Silva 56, Federico Lussenhoff 83, Pedro Pablo Osorio 90
+
+; U.N.A.M.    ; 2 - 2; Santos      
+  Cristian Domizzi (pk) 30, Cristian Domizzi 89; Benjamín Galindo (pk) 47, Jared Borguetti 81
+
+; Guadalajara ; 2 - 3; Necaxa      
+  Ignacio Vázquez 33, Gabriel García 77; Sergio Zárate 15, Jesús Eduardo Córdova 26, Ricardo Peláez 83
+
+; Pachuca     ; 1 - 2; Atlante     
+  Lorenzo Sáez 89; Ricardo Carvajal 3, José Damasceno 90
+
+; Morelia     ; 1 - 2; Atlas       
+  Marco Antonio Figueroa (pk) 57; Pedro Duana (pk) 44, Omar Avilán 65
+
+; America     ; 1 - 2; Toluca      
+  Alberto Macías (og) 56; Enrique Alfaro 14, Salvador Carmona 75
+
+Round: 15 
+Date: 11/13/1996
+*(13-14/NV/96)
+
+; Santos      ; 1 - 0; Atlante     
+  Jared Borguetti 9;
+
+; Veracruz    ; 0 - 3; Puebla      
+;  Daniel Guzmán 51, Daniel Guzman 60, Daniel Guzman 80
+
+; Necaxa      ; 3 - 3; Cruz Azul   
+  Ricardo Peláez 2, Luis Hernández 82, Alex Aguinaga (pk) 90; Carlos Hermosillo (pk) 42, Carlos Hermosillo (pk) 57, Marco Garcés 85
+
+; Atlas       ; 2 - 2; Guadalajara 
+  Gerardo Mascareño 11, Pedro Duana (pk) 19; Gustavo Nápoles 43, Gabriel García 53
+
+; Monterrey   ; 2 - 1; U.A.G.      
+  David Patiño 50, Eber Moas 81; Eustacio Rizo 64
+
+; U.N.A.M.    ; 1 - 0; Leon        
+  Cristian Domizzi 82;
+
+; Toluca      ; 1 - 0; Morelia     
+  Juan Carlos Chávez (og) 14;
+
+; Toros Neza  ; 2 - 1; America     
+  Germán Arangio 50, Nildeson Silva 78; Luis García (pk) 32
+
+; Celaya      ; 3 - 2; Pachuca     
+  Luis Fernando Soto 49, Juvenal Patiño 75, Richard Zambrano 78; Hernán Medford 41, Lorenzo Sáez 43
+
+Round: 16 
+Date: 11/16/1996
+*(16-18/NV/96)
+
+; Cruz Azul   ; 4 - 1; Atlas       
+  Carlos Barra 44, Carlos Hermosillo 52, Carlos Hermosillo 64, Joahan Rodríguez 74; Pedro Duana 48
+
+; U.A.G.      ; 1 - 0; Veracruz    
+  Eustacio Rizo 55;
+
+; Puebla      ; 1 - 2; Necaxa      
+  Carlos Muñoz 70; Alberto García Aspe (pk) 34, Felipe del Ángel Malibrán 80
+
+; Leon        ; 3 - 0; Santos      
+  Milton Queiroz (pk) 18, Damián Álvarez 46, Christian Torres 85;
+
+; Guadalajara ; 2 - 1; Toluca      
+  Claudio Suárez 50, Claudio Suarez (pk) 64; José Manuel Abundis 10
+
+; Pachuca     ; 2 - 2; Monterrey   
+  Lorenzo Sáez (pk) 37, Lorenzo Saez (pk) 77; Roberto Medina (pk) 16, Rafael Gutiérrez Aldaco (pk) 47
+
+; America     ; 2 - 2; U.N.A.M.    
+  Luis García 20, Cuauhtemoc Blanco 44; Cristian Domizzi (pk) 54, Cristian Domizzi 57
+
+; Morelia     ; 2 - 1; Toros Neza  
+  Marco Antonio Figueroa (pk) 44, Emilio Mora 70; Nildeson Silva 24
+
+; Atlante     ; 6 - 0; Celaya      
+  Mario Jáuregui 10, José Damasceno 42, Juan Hernández 44, Ricardo Carvajal 50, Luis Roberto Alves 66, Luis Roberto Alves 84;
+
+Round: 17 
+Date: 11/22/1996
+*(22-24/NV/96)
+
+; Monterrey   ; 0 - 1; Atlante     
+;  Mario Jáuregui 23
+
+; Toluca      ; 4 - 0; Cruz Azul   
+  José Cardozo 12, Marcelino Bernal (pk) 31, Carlos María Morales 65, Carlos Maria Morales 78;
+
+; Veracruz    ; 0 - 1; Pachuca     
+;  Roy Myers 30
+
+; Necaxa      ; 1 - 0; U.A.G.      
+  Sergio Zárate 60;
+
+; Celaya      ; 0 - 2; Santos      
+;  Christian Montesinos 64, Pedro Muñoz 74
+
+; Leon        ; 2 - 2; America     
+  Milton Queiroz (pk) 45, Christian Torres 81; Isaac Terrazas 55, Cuauhtemoc Blanco 60
+
+; Atlas       ; 2 - 2; Puebla      
+  Darío Franco 19, Pedro Duana 70; Francisco Rotllán 59, Carlos Muñoz (pk) 74
+
+; U.N.A.M.    ; 3 - 2; Morelia     
+  Braulio Luna 45, Jesús Olalde 53, Jesus Olalde 90; Marco Antonio Figueroa 20, Andrés Garza 69
+
+; Toros Neza  ; 2 - 1; Guadalajara 
+  Rodrigo Ruiz 59, Nildeson Silva 61; Ignacio Vázquez 27
+
+
+*    OVERALL STANDING          G    W  D  L    F  A  PTS
+* ---------------------------------------------------------
+*     1. Atlante              17   12  2  3   30 11   38
+*     2. Santos               17   10  4  3   21 15   34
+*     3. Guadalajara          17    9  4  4   33 19   31
+*     4. Puebla               17    9  4  4   32 22   31
+*     5. Toluca               17    9  3  5   26 15   30
+*     6. Necaxa               17    8  5  4   24 19   29
+*     7. Atlas                17    6  8  3   28 26   26
+*     8. Neza                 17    8  0  9   30 36   24
+*     9. Leon                 17    5  8  4   24 19   23
+*    10. Cruz_Azul            17    5  5  7   26 26   20
+*    11. Monterrey            17    5  4  8   15 21   19
+*    12. U.N.A.M.             17    4  6  7   23 27   18
+*    13. Veracruz             17    4  6  7   14 21   18
+*    14. U.A.G.               17    5  3  9   20 30   18
+*    15. America              17    4  5  8   24 27   17
+*    16. Celaya               17    5  2 10   19 33   17
+*    17. Pachuca              17    3  6  8   25 36   15
+*    18. Morelia              17    3  3 11   20 31   12
+
+
+Season: 1997 Summer
+
+*     GROUP 1                  G    F:A   PTS   MN
+* ---------------------------------------------------
+*     1. Neza                 17   40-32   30   **
+*     2. Atlante              17   23-19   28   **
+*     3. Cruz_Azul            17   21-24   25
+*     4. Puebla               17   15-18   20
+*     5. Veracruz             17   17-31   10
+
+*     GROUP 2                  G    F:A   PTS   MN
+* ---------------------------------------------------
+*     1. America              17   27-12   37   **
+*     2. Necaxa               17   33-20   28   **
+*     3. Morelia              17   26-23   25    *
+*     4. Leon                 17   21-18   23
+*     5. Pachuca              17   24-32   17
+
+*     GROUP 3                  G    F:A   PTS   MN
+* ---------------------------------------------------
+*     1. Guadalajara          17   27-16   34   **
+*     2. U.N.A.M.             17   25-26   27   **
+*     3. Toluca               17   26-21   21
+*     4. Atlas                17   23-36   16
+
+*     GROUP 4                  G    F:A   PTS   MN
+* ---------------------------------------------------
+*     1. Santos               17   27-28   26   **
+*     2. U.A.G.               17   26-24   20    *
+*     3. Monterrey            17   25-38   18
+*     4. Celaya               17   20-28   12
+* MN = Magic number of points needed to clinch a play-
+*      off berth.
+*      (**) Qualified to quarterfinals
+*      (*)  Qualified to 1st round.
+ 
+Round: 1 
+*(11-13/Ja/97)
+Date: 1/11/1997
+*(Start of Summer 97 Tournament)
+
+; Toluca      ; 0-0; Puebla       
+
+; Veracruz    ; 2 - 1; Atlante     
+  Daniel Fasciolli 23, René Iván Valenciano 45; José Damasceno 46
+
+; Monterrey   ; 1 - 0; Celaya      
+  Jesús Arellano 10;
+
+; Necaxa      ; 2 - 1; Pachuca     
+  Alberto García Aspe 5, José Maria Higareda 10; Lorenzo Sáez (pk) 63
+
+; Atlas       ; 6 - 4; U.A.G.      
+  Rodolfo García (pk) 35, Rodolfo Garcia 47, Steve Padilla 64, Pablo Hernán Lavallén 76, Héctor López 88, Hector Lopez 90; Juan Parra 10, Eustacio Rizo 22, Eustacio Rizo 30, Markus López 56
+
+; Leon        ; 0-0; Morelia      
+;  Toros Neza;  v; Cruz Azul
+* (*) To be played on W 05/Fb/97
+
+; U.N.A.M.    ; 2 - 1; Guadalajara 
+  Cristian Domizzi (pk) 30, Braulio Luna 43; Paulo César Chávez 33
+
+; America     ; 2 - 1; Santos      
+  Luis García 44, Edson Astivia 90; Gabriel Caballero 30
+
+Round: 2 
+*(18-19/Ja/97)
+Date: 1/18/1997
+
+; Puebla      ; 1 - 1; Toros Neza  
+  Daniel Guzmán 58; Pedro Pablo Osorio 13
+
+; Celaya      ; 1 - 1; Veracruz    
+  David Hernández (og) 59; René Iván Valenciano 24
+
+; Pachuca     ; 1 - 0; Atlas       
+  Lorenzo Sáez 63;
+
+; Morelia     ; 1 - 1; America     
+  Marco Antonio Figueroa (pk) 85; Goran Milojevic 57
+
+; Santos      ; 1 - 2; Monterrey   
+  Christian Montesinos 61; Rafael Gutiérrez Aldaco (pk) 75, Roberto Medina (pk) 88
+
+; Atlante     ;v; Necaxa
+* (*) To be played on Tu 28/Ja/97
+
+; U.A.G.     ;v; Toluca 
+* (+) To be played on W 29/Ja/97
+
+; Cruz Azul   ;v; U.N.A.M.
+* (+) To be played on W 29/Ja/97
+
+; Guadalajara ;v; Leon    
+* (-) To be played on Th 30/Ja/97
+
+Round: 3 
+*(24-26/Ja/97)
+Date: 1/24/1997
+
+; U.N.A.M.    ; 1 - 1; Puebla      
+  Cristian Domizzi 44; Carlos Muñoz (pk) 74
+
+; Toluca      ; 1 - 1; Pachuca     
+  Marcelino Bernal 50; Lorenzo Sáez 48
+
+; Necaxa      ; 2 - 1; Celaya      
+  Sergio Vázquez 17, Alberto García Aspe 83; José Miguel González (pk) 65
+
+; Veracruz    ; 1 - 0; Monterrey   
+  José Mari Bakero 88;
+
+; Leon        ; 3 - 0; Cruz Azul   
+  Christian Torres 22, Christian Torres 68, Alfonso Sosa 72;
+
+; Atlas       ; 2 - 0; Atlante     
+  Rodolfo García (pk) 9, Miguel Larrosa 58;
+
+; America     ; 0-0; Guadalajara  
+
+; Morelia     ; 2 - 2; Santos      
+  Marco Antonio Figueroa (pk) 24, Marco Antonio Figueroa (pk) 85; Jared Borguetti 51, Gabriel Caballero 59
+
+; Toros Neza  ; 3 - 2; U.A.G.      
+  Miguel Herrera 29, Antonio Mohamed 73, Antonio Mohamed 83; Markus López 43, Eustacio Rizo 50
+
+Round: 2 RESCHEDULED MATCHES 
+*(28-30/Ja/97)
+Date: 1/28/1997
+
+; Atlante     ; 1 - 1; Necaxa      
+  Ricardo Carvajal (pk) 30; Sergio Zárate 72
+
+; U.A.G.      ; 1 - 1; Toluca      
+  Markus López (pk) 64; Fabián Estay 11
+
+; Cruz Azul   ; 0 - 1; U.N.A.M.    
+;  Cristian Domizzi (pk) 59
+
+; Guadalajara ; 1 - 1; Leon        
+  Claudio Suárez 2; Damián Álvarez 42
+  
+Round: 4 
+*(31/Ja-02/Fb/97)
+Date: 1/31/1997
+
+; U.A.G.      ; 2 - 2; U.N.A.M.    
+  Julio César Yegros 53, Julio Cesar Yegros 87; Cristian Domizzi 5, Cristian Domizzi 8
+
+; Cruz Azul   ; 2 - 1; America     
+  Carlos Hermosillo 29, Juan Francisco Palencia 33; Luis García 12
+
+; Monterrey   ; 3 - 2; Necaxa      
+  David Patiño (pk) 21, David Patino 58, Rafael Gutiérrez Aldaco (pk) 63; Sergio Zárate (pk) 30, Ricardo Peláez 35
+
+; Puebla      ; 1 - 1; Leon        
+  Carlos Muñoz 90; Cristian Colusso 48
+
+; Celaya      ; 3 - 0; Atlas       
+  Juvenal Patiño 31, Julio César Pinheiro 36, Hugo Sánchez 44;
+
+; Atlante     ; 3 - 2; Toluca      
+  Ricardo Carvajal 20, Mario Jáuregui 52, Germán Carty 68; José Cardozo 25, Jose Cardozo 70
+
+; Guadalajara ; 2 - 1; Morelia     
+  Gustavo Nápoles (pk) 61, Gabriel García 65; Juan Carlos Chávez 77
+
+; Pachuca     ; 4 - 1; Toros Neza  
+  Lorenzo Sáez 27, Lorenzo Saez 47, Hernán Medford 46, Hernan Medford 89; Carlos Briceño 28
+
+; Santos      ; 2 - 0; Veracruz    
+  Gabriel Caballero 61, Alberto García 81;
+
+Round: 1 RESCHEDULED MATCH 
+*(05/Fb/97)
+
+2/5/1997; Toros Neza  ; 1 - 2; Cruz Azul   
+  Federico Lussenhoff 80; Juan Francisco Palencia 24, Joahan Rodríguez 67
+
+Round: 5 
+*(07-09/Fb/97)
+Date: 2/7/1997
+
+; Necaxa      ; 4 - 0; Veracruz    
+  Jesús Eduardo Córdova 41, Luis Hernández 65, Edson Alvarado 84, Ricardo Peláez 85;
+
+; Toluca      ; 2 - 0; Celaya      
+  Enrique Alfaro 47, Eduardo Lillingston 73;
+
+; Morelia  ;   v; Cruz Azul   
+* (*) Rescheduled for W 19/Fb/97
+
+; Leon        ; 1 - 0; U.A.G.      
+  Amara Simba 57;
+
+; America     ; 2 - 0; Puebla      
+  Luis García 26, Ilie Dumitrescu 68;
+
+; Atlas       ; 3 - 3; Monterrey   
+  Miguel Larrosa 10, Rodolfo García 13, Gerardo Torres 75; Rafael Gutiérrez Aldaco (pk) 64, Héctor del Ángel 65, Luis Miguel Salvador 80
+
+; Guadalajara ; 1 - 1; Santos      
+  Pedro Muñoz (og) 47; Gabriel Caballero 37
+
+; Toros Neza  ; 1 - 2; Atlante     
+  Rodrigo Ruiz 73; Luis Roberto Alves 59, Ricardo Carvajal (pk) 90
+
+; U.N.A.M.    ; 2 - 1; Pachuca     
+  Cristian Domizzi (pk) 43, Jesús Olalde 73; Hernán Medford 55
+
+Round: 6 
+*(14-16/Fb/97)
+Date: 2/14/1997
+
+; U.A.G.      ; 0-0; America      
+
+; Cruz Azul   ; 1 - 1; Guadalajara 
+  Marco Garcés 7; Joel Sánchez 42
+
+; Monterrey   ; 1 - 4; Toluca      
+  David Patiño 46; Carlos María Morales 2, Marcelino Bernal (pk) 7, Eduardo Lillingston 77, Enrique Alfaro 79
+
+; Puebla      ; 2 - 1; Morelia     
+  Carlos Muñoz 2, Carlos Munoz 47; Everaldo Bejines 80
+
+; Celaya      ; 2 - 2; Toros Neza  
+  Julio César Pinheiro 18, Julio Cesar Pinheiro 49; Javier Saavedra 22, Federico Lussenhoff 71
+
+;Atlante     ; 0 - 1; U.N.A.M.    ; Irapuato, Mexico
+;  Alejandro Pérez 60
+
+; Pachuca     ; 0 - 2; Leon        
+;  Sigifredo Mercado (pk) 66, Roberto López Segoviano 77
+
+; Santos      ; 1 - 3; Necaxa      
+  Benjamín Galindo (pk) 38; Luis Hernández 36, Alberto García Aspe (pk) 67, Alberto Garcia Aspe (pk) 79
+
+; Veracruz    ; 1 - 2; Atlas       
+  Hugo Chávez 51; Pablo Hernán Lavallén 39, Miguel Salcedo 46
+
+Round: 7 
+*(22-24/Fb/97)
+Date: 2/22/1997
+
+; Toluca      ; 2 - 1; Veracruz    
+  Armando González 6, Carlos María Morales 85; René Iván Valenciano (pk) 33
+
+; Cruz Azul   ; 2 - 0; Santos      
+  José Antonio Noriega 52, Carlos Hermosillo 78;
+
+; Leon        ; 1 - 2; Atlante     
+  Amara Simba 74; Luis Roberto Alves 46, Luis Roberto Alves 88
+
+; Atlas       ; 0 - 2; Necaxa      
+;  Ricardo Peláez 30, Luis Hernández 80
+
+; Guadalajara; v; Puebla
+* (*) To be rescheduled
+
+; Morelia     ; 1 - 2; U.A.G.      
+  Juan Carlos Chávez 33; David Embé 30, Eustacio Rizo 88
+
+; Toros Neza  ; 5 - 1; Monterrey   
+  Nildeson Silva 9, Nildeson Silva 55, Rodrigo Ruiz 15, Rodrigo Ruiz 25, Germán Arangio 39; César Pantoja 69
+
+; U.N.A.M.    ; 4 - 3; Celaya      
+  Cristian Domizzi 7, Cristian Domizzi (pk) 51, Cristian Domizzi 58, Jesús Olalde 84; José Miguel González (pk) 44, Hugo Santana 81, Luis Fernando Soto 89
+
+; America     ; 1 - 0; Pachuca     
+  Goran Milojevic 85;
+
+Round: 5 RESCHEDULED MATCH 
+*(26/Fb/97)
+Date: 2/26/1997 
+
+; Morelia     ; 1 - 0; Cruz Azul   
+  Claudio da Silva 38;
+
+Round: 8 
+*(01-06/Mr/97)
+Date: 3/1/1997
+
+; Veracruz    ; 3 - 5; Toros Neza  
+  René Iván Valenciano 2, Daniel Fasciolli 7, Gustavo Gaytán 65; Germán Arangio 23, Nildeson Silva 28, Guillermo Vázquez 35, Javier Saavedra 63, Rodrigo Ruiz 78
+
+; Monterrey   ; 2 - 2; U.N.A.M.    
+  César Pantoja 8, David Patiño 15; Marco de Almeida 28, Marco de Almeida 58
+
+; Puebla      ; 1 - 0; Cruz Azul   
+  Uwe Wolf (pk) 38;
+
+; Celaya      ; 0-0; Leon         
+
+; Pachuca     ; 2 - 2; Morelia     
+  Lorenzo Sáez (pk) 11, Lorenzo Saez 54; Claudio da Silva 34, Emilio Mora 64
+
+; Santos      ; 2 - 1; Atlas       
+  Gabriel Caballero 48, Héctor Adomaitis 76; Rodolfo García 46
+
+; U.A.G.      ; 1 - 2; Guadalajara 
+  Eustacio Rizo 41; Gustavo Nápoles 33, Gustavo Napoles 61
+
+; Necaxa      ; 1 - 1; Toluca      
+  Alberto García Aspe (pk) 35; José Manuel Abundis 52
+
+; Atlante     ; 0 - 1; America     
+;  Luis García 76
+
+Round: 9 
+*(08-10/Mr/97)
+Date: 3/8/1997
+
+; Toluca      ; 4 - 0; Atlas       
+  José Cardozo 40, Carlos María Morales 66, Fabián Estay 68, Jaime Ordiales 77;
+
+; Cruz Azul   ; 0 - 3; U.A.G.      
+;  David Embé 13, David Embe 71, Eustacio Rizo 77
+
+; Puebla      ; 1 - 2; Santos      
+  Daniel Guzmán 65; Gabriel Caballero 31, Nicolás Ramírez 40
+
+; Leon        ; 0-0; Monterrey    
+
+; Guadalajara ; 2 - 0; Pachuca     
+  Ignacio Vázquez 81, Misael Espinosa 84;
+
+; Morelia     ; 1 - 1; Atlante     
+  Jafet Soto 5; Luis Roberto Alves 60
+
+; U.N.A.M.    ; 3 - 2; Veracruz    
+  Marco de Almeida 28, Cristian Domizzi 54, Antonio Sancho 62; René Iván Valenciano 1, Rene Ivan Valenciano 76
+
+; Toros Neza  ; 3 - 2; Necaxa      
+  Guillermo Vázquez (pk) 38, Carlos Briceño 88, Federico Lussenhoff 89; Ricardo Peláez 50, Felipe del Ángel Malibrán 75
+
+; America     ; 4 - 0; Celaya      
+  Isaac Terrazas 24, Goran Milojevic 61, Cuauhtemoc Blanco 77, Cuauhtemoc Blanco 82;
+
+Round: 10 
+*(15-20/Mr/97)
+Date: 3/15/1997
+
+; Veracruz    ; 0-0; Leon         
+
+; Celaya      ; 0 - 1; Morelia     
+;  Claudio da Silva 78
+
+; Santos      ; 2 - 1; Toluca      
+  Francisco Gabriel de Anda 20, Gabriel Caballero 59; Fabián Estay 64
+
+;Pachuca     ; 1 - 3; Cruz Azul   ; Ciudad Cooperativa
+  Lorenzo Sáez 21; Juan Francisco Palencia 40, Juan Francisco Palencia 66, Carlos Hermosillo 81
+
+; U.A.G.      ; 0 - 0; Puebla      
+
+; Atlante   ; 1-3; Guadalajara
+  Martín Félix Ubaldi 81; Paulo César Chávez 32, Paulo Cesar Chavez 52, Misael Espinosa 73
+
+; Atlas       ; 1 - 4; Toros Neza  
+  Pedro Duana 60; Germán Arangio 8, Rodrigo Ruiz 17, Humberto González 33, Ramiro Romero 48
+
+; Necaxa      ; 3 - 0; U.N.A.M.    
+  Sergio Vázquez 52, Ricardo Peláez 66, Luis Hernández 88;
+
+; Monterrey   ; 0 - 1; America     
+;  Luis García (pk) 30
+
+Round: 11 
+*(22-24/Mr/97)
+Date: 3/22/1997
+
+; Cruz Azul   ; 1 - 1; Atlante     
+  Marco Garcés 75; Vlada Stocic 21
+
+; Puebla      ; 1 - 0; Pachuca     
+  Carlos Muñoz 36;
+
+; U.A.G.      ; 3 - 0; Santos      
+  David Embé 33, Mauricio Gallaga (pk) 39, Mario Sánchez 83;
+
+; Guadalajara ; 3 - 2; Celaya      
+  Gabriel García 34, Joel Sánchez 77, Gustavo Nápoles 87; Sergio Prado 6, Adriano Fernández 64
+
+; Leon        ; 2 - 1; Necaxa      
+  Damián Álvarez 13, Damian Alvarez 53; Sergio Zárate 75
+
+; Morelia     ; 4 - 1; Monterrey   
+  Marco Antonio Figueroa 10, Marco Antonio Figueroa 79, Claudio da Silva 14, Claudio da Silva 90; Jesús Arellano 35
+
+; Toros Neza  ; 2 - 1; Toluca      
+  Nildeson Silva 20, Guillermo Vázquez 83; Enrique Alfaro 4
+
+; U.N.A.M.    ; 1 - 0; Atlas       
+  Cristian Domizzi 25;
+
+; America     ; 2 - 1; Veracruz    
+  Isaac Terrazas 41, Isaac Terrazas 61; Filiberto Fulgencio 25
+
+Round: 7 PENDING MATCH 
+*(26/Mr/97)
+Date: 3/26/1997
+
+; Guadalajara ; 1 - 1; Puebla      
+  Uwe Wolf (og) 50; Daniel Guzmán 34
+
+Round: 12 
+*(29/Mr-03/Ap/97)
+Date: 3/29/1997
+
+; Veracruz    ; 2 - 2; Morelia     
+  Filiberto Fulgencio 20, José Mari Bakero 90; Javier Hernández 62, Cleomar Pires 78
+
+; Monterrey   ; 1 - 2; Guadalajara 
+  David Patiño 61; Gustavo Nápoles 14, Joel Sánchez 76
+
+; Atlas       ; 1 - 1; Leon        
+  Pedro Duana (pk) 61; Rodolfo Navarro 56
+
+; Atlante     ; 1 - 0; Puebla      
+  Ignacio Ambríz 14;
+
+; Pachuca     ; 2 - 1; U.A.G.      
+  Roy Myers 36, Guillermo Rivarola 51; David Embé 26
+
+; Santos      ; 2 - 0; Toros Neza  
+  Jared Borguetti 39, Gabriel Caballero 50;
+
+; Toluca      ; 1 - 0; U.N.A.M.    
+  Carlos María Morales 3;
+
+; Necaxa      ; 1 - 2; America     
+  Sergio Zárate 48; Isaac Terrazas 11, Leonardo Rodríguez 54
+
+;  Celaya;      v; Cruz Azul
+* (*) To be played on Sa 12/Ap/97
+
+Round: 13 
+*(04-06/Ap/97)
+Date: 4/4/1997
+
+; U.N.A.M.    ; 2 - 3; Toros Neza  
+  Marco de Almeida 1, Braulio Luna 60; Rodrigo Ruiz 38, Germán Arangio 49, Javier Saavedra 58
+
+; U.A.G.      ; 1 - 2; Atlante     
+  Mauricio Gallaga 31; Juan Hernández 61, Germán Carty 81
+
+; Cruz Azul   ; 2 - 1; Monterrey   
+  Joahan Rodríguez 43, José Herrera 67; Luis Miguel Salvador (pk) 75
+
+; Puebla      ; 2 - 1; Celaya      
+  Carlos Muñoz 9, Gilberto Jiménez 31; José Miguel González 13
+
+; Leon        ; 1 - 1; Toluca      
+  Christian Torres 3; Armando González 35
+
+; America     ; 3 - 0; Atlas       
+  Cuauhtemoc Blanco 9, Luis García 76, Kalusha Bwualya 78;
+
+; Guadalajara ; 1 - 0; Veracruz    
+  Manuel Martínez 84;
+
+; Morelia     ; 2 - 1; Necaxa      
+  Claudio da Silva 43, Marco Antonio Figueroa 87; Sergio Zárate 23
+
+; Pachuca     ; 3 - 1; Santos      
+  Lorenzo Sáez 11, Guillermo Rivarola 83, Hernán Medford 89; Alberto Rodríguez (og) 40
+
+Round: 12 RESCHEDULED MATCH 
+*(12/Ap/97)
+Date: 4/12/1997
+
+; Celaya      ; 1 - 1; Cruz Azul   
+  Emilio Butragueño 12; Joahan Rodríguez 9
+
+Round: 14 
+*(09-13/Ap/97)
+Date: 8/9/1997
+
+; Toluca      ; 1 - 2; America     
+  Salvador Carmona 24; Adán Núñez (og) 60, Pedro Pineda 82
+
+; Celaya      ; 1 - 1; U.A.G.      
+  Adriano Fernández 80; David Embé 1
+
+; Atlante     ; 3 - 0; Pachuca     
+  Ignacio Ambríz (pk) 46, Germán Carty 68, José Damasceno 74;
+
+; Atlas       ; 1 - 2; Morelia     
+  Gerardo Torres 77; Claudio da Silva 31, Marco Antonio Figueroa 39
+
+; Santos      ; 2 - 0; U.N.A.M.    
+  Jared Borguetti (pk) 5, Gabriel Caballero 58;
+
+; Necaxa      ; 1 - 1; Guadalajara 
+  Sergio Vázquez 49; Gabriel García 41
+
+; Monterrey   ; 4 - 2; Puebla      
+  Miguel García 41, Jesús Arellano 70, Luis Maldonado 78, Roberto Medina (pk) 82; Uwe Wolf 43, Gilberto Jiménez 87
+
+; Toros Neza  ; 4 - 2; Leon        
+  Carlos Briseño 15, Carlos Briseno 50, Javier Saavedra 53, Rodrigo Ruiz 57; Christian Torres 10, Amara Simba 68
+
+; Veracruz ;   v; Cruz Azul 
+* (*) To be played on Sa 19/Ap/97
+
+Round: 14 RESCHEDULED MATCH 
+*(19/Ap/97)
+Date: 4/19/1997
+
+; Veracruz    ; 0 - 1; Cruz Azul   
+;  Juan Francisco Palencia 32
+ 
+Round: 15 
+*(19-24/Ap/97)
+Date: 4/19/1997
+
+; Leon        ; 2 - 1; U.N.A.M.    
+  Christian Torres (pk) 16, Christian Torres 82; Marco de Almeida 48
+
+; Pachuca     ; 1 - 3; Celaya      
+  Roy Myers 41; Adriano Fernández 19, Hugo Sánchez 50, Emilio Butragueño 88
+
+; U.A.G.      ; 3 - 0; Monterrey   
+  David Embé 24, David Embe 71, Héctor Mukuoko 67;
+
+; Atlante     ; 3 - 2; Santos      
+  Luis Roberto Alves 8, José Luis Malibrán 86, Juan Hernández 90; Christian Montesinos 19, Alberto García 22
+
+; Morelia     ; 1 - 1; Toluca      
+  Marco Antonio Figueroa (pk) 77; Marcelino Bernal (pk) 72
+
+; Puebla      ; 0-0; Veracruz     
+
+; Guadalajara ; 2 - 2; Atlas       
+  Manuel Martínez 7, Gustavo Nápoles 71; Claudio Suárez (og) 10, Pablo Hernán Lavallén 14
+
+; Cruz Azul   ; 1 - 4; Necaxa      
+  Carlos Hermosillo 62; Sergio Vázquez 15, Ricardo Peláez 32, Sergio Zárate 80, Sergio Zarate 85
+
+; America     ; 1 - 1; Toros Neza  
+  Cuauhtemoc Blanco 38; Rodrigo Ruiz (pk) 73
+
+Round: 16 
+*(26-27/Ap/97)
+Date: 4/26/1997
+
+; Veracruz    ; 1 - 2; U.A.G.      
+  Leonel Álvarez 63; Porfirio Jiménez 49, Julio César Yegros 75
+
+; Monterrey   ; 5 - 4; Pachuca     
+  Luis Miguel Salvador 13, Jesús Arellano 26, Jesus Arellano 74, Rafael Gutiérrez Aldaco 48, Hugo Castillo 66; Roy Myers 10, Lorenzo Sáez 20, Lorenzo Saez 50, Hernán Medford 63
+
+; Necaxa      ; 1 - 1; Puebla      
+  José Juan Hernández (og) 87; Daniel Guzmán 37
+
+; Celaya      ; 0-0; Atlante      
+
+; Atlas       ; 2 - 2; Cruz Azul   
+  Darío Franco 8, Dario Franco 54; Carlos Hermosillo 9, Carlos Hermosillo (pk) 13
+
+; Toluca      ; 1 - 2; Guadalajara 
+  Manuel Vidrio 4; Gustavo Nápoles 86, Guillermo Hernández 88
+
+; U.N.A.M.    ; 2 - 1; America     
+  Alejandro Pérez 11, Joaquín Beltrán 22; Pedro Pineda (pk) 81
+
+; Toros Neza  ; 4 - 2; Morelia     
+  Germán Arangio 12, Jesús López Meneses 24, Jesus Lopez Meneses 78, Nildeson Silva 70; Juan Carlos Chávez 67, Claudio da Silva 72
+
+; Santos      ; 3 - 2; Leon        
+  Gabriel Caballero (pk) 30, Gabriel Caballero 72, Daniel Deeke 75; Carlos Turrubiates 28, Christian Torres (pk) 90
+
+Round: 17
+* (03-05/My/97)
+Date: 5/3/1997
+*(End of Summer 97 Regular Season)
+
+; Cruz Azul   ; 3 - 2; Toluca      
+  Carlos Hermosillo 12, Carlos Hermosillo 53, Juan Francisco Palencia 90; Carlos María Morales 66, Fabián Estay (pk) 82
+
+; Puebla      ; 1 - 2; Atlas       
+  Francisco Rotllán 45; Omar Avilán 7, Rodolfo García 77
+
+; U.A.G.      ; 0 - 2; Necaxa      
+;  Luis Hernández 29, Mario Ordiales 36
+
+; Atlante     ; 2 - 0; Monterrey   
+  Vlada Stocic 43, Germán Carty 80;
+
+; Guadalajara ; 2 - 0; Toros Neza  
+  Gustavo Nápoles 11, Gustavo Napoles 49;
+
+; Morelia     ; 2 - 1; U.N.A.M.    
+  Marco Antonio Figueroa 6, Claudio da Silva 48; Vicente Nieto 35
+
+; Pachuca     ; 3 - 2; Veracruz    
+  Leonel Álvarez (og) 19, Hernán Medford 32, Lorenzo Sáez 40; Leonel Álvarez (pk) 27, José Mari Bakero 63
+
+; Santos      ; 3 - 2; Celaya      
+  Jared Borguetti 14, Jared Borguetti 64, Gabriel Caballero (pk) 26; Hugo Santana 80, Salvador Reyes (pk) 88
+
+; America     ; 3 - 2; Leon        ; Queretaro, Mexico
+  Isaac Terrazas 29, Luis García 73, Christian Patiño 87; Damián Álvarez 10, Cristian Colusso 32
+
+
+*    HIGHWAY TO HELL           PTGE      (PTS/GMS)    MN
+* ---------------------------------------------------------
+*     1. Guadalajara          1.25962    (131/104)     0
+*     2. Necaxa               1.22115    (127/104)     0
+*     3. America              1.21154    (126/104)     0
+*     4. Cruz_Azul            1.18269    (123/104)     0
+*     5. U.N.A.M.             1.06731    (111/104)     0
+*     6. Neza                 1.01923    (106/104)     0
+*     7. Santos               1.00962    (105/104)     0
+*     7. Atlante              1.00962    (105/104)     0
+*     9. Leon                 1.00000    (104/104)     0
+*     9. U.A.G.               1.00000    (104/104)     0
+*    11. Atlas                0.99038    (103/104)     0
+*    12. Puebla               0.96154    (100/104)     0
+*    13. Monterrey            0.94231    ( 98/104)     0
+*    14. Toluca               0.88462    ( 92/104)     0
+*    14. Veracruz             0.88462    ( 92/104)     0
+*    16. Celaya               0.88235    ( 60/ 68)     0
+*    17. Morelia              0.81731    ( 85/104)     0
+* ---------------------------------------------------------
+*    18. Pachuca              0.70588    ( 24/ 34)     R
+
+ 
+* The team with the lowest percentage (PTGE) at the end
+* of the regular season is relegated to Division 1-A.
+ 
+*   PTGE = Total of points earned from the 1994-95 through
+*          the 1996-97 season divided by the total of games
+*          played during that period.  Only regular season,
+*          Division 1 matches are considered.  Points are
+*          based on 2 points per each game won and 1 point
+*          per each game tied.
+* 
+*   MN = Magic number of points needed to avoid relegation.
+*        R := Relegated
+
+
+*Prepared and maintained by Roger Z. Rios-Mercado and Erik Francisco Lugo for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Roger Z. Rios-Mercado and Erik Francisco Lugo 
+*Last updated: 10 Jun 2011
+*(C) Copyright Roger Z. Rios-Mercado, Erik Francisco Lugo and RSSSF 1998/2011
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

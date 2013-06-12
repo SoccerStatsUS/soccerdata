@@ -187,7 +187,7 @@ Round: 13
 Date: 10/29/2005
 
 ; FAS            ; 0-1; Águila 
-  William Torres Alegría 92
+;  William Torres Alegría 92
   
 ; Vista Hermosa  ; 3-2; Balboa
   Domingo Álvarez 12, Carlos Aparicio 33, Cristian Gil 81;   Victor Fuentes 16, Franklin Webster 76
@@ -313,7 +313,7 @@ Round: 1
 Date: 1/14/2006
 
 ; Vista Hermosa  ; 3-0; Once Municipal
-Patricio Barrochez 3, Herberth Marquez (pk) 7, Patricio Barrochez 44;;
+Patricio Barrochez 3, Herberth Marquez (pk) 7, Patricio Barrochez 44;
 
 ; Isidro-Metapán;  0-0; Firpo
 
@@ -376,7 +376,7 @@ Date: 1/28/2006
 ;  William Reyes 33
 
 ; San Salvador   ; 2-4; Vista Hermosa 
-  Paulo Rodriguez 79, Fredy Vichez 84; Patricio Barrochez 49, Patricio Barrochez 52, Patricio Barrochez 68;   Yovani Romero 77
+  Paulo Rodriguez 79, Fredy Vichez 84; Patricio Barrochez 49, Patricio Barrochez 52, Patricio Barrochez 68, Yovani Romero 77
 
 Date: 1/29/2006
 
@@ -392,7 +392,7 @@ Date: 2/4/2006
 ; Vista Hermosa  ; 2-3; Águila
   Patricio Barrochez 56, Elder Figueroa 88; Alex Campos 2,   Fabio Ulloa 68, Eliseo Salamanca 87
 
-; Balbo          ; 1-1; FAS   
+; Balboa          ; 1-1; FAS   
   Victor Fuentes 72; Nelson Ayala 84
 
 Date: 2/5/2006
@@ -515,7 +515,7 @@ Date: 3/9/2006
   Nestor Ayala 14, Nestor Ayala 33; Eliseo Salamanca 9, Alex Campos 57
 
 ; Vista Hermosa  ; 1-2; Chalatenango  
-  Eduardo Campos 53; Nicolas Munoz 67,78
+  Eduardo Campos 53; Nicolas Munoz 67, Nicolas Munoz 78
 
 ; Isidro-Metapán;  1-1; San Salvador
   Marlon Godoy 51; Paulo Rodrigues 47
@@ -532,7 +532,7 @@ Date: 3/19/2006
   Eliseo Quintanilla 34, Carlos Gomez 69; Salvador Coreas 35
 
 ; Chalatenango   ; 1-0; Once Municipal
-  Victor Mafla 14
+  Victor Mafla 14;
 
 ; Águila         ; 1-0; Isidro-Metapán 
   Rudy Corrales 67;
@@ -701,7 +701,7 @@ Date: 5/21/2006
 *Second Leg 
 Date: 5/27/2006
 
-; Mpal. Limeño   ; 2-1; Chalatenango; Santa Rosa de Lima
+; Municipal Limeño   ; 2-1; Chalatenango; Santa Rosa de Lima
 
 *Chalatenango remain at 1st level
 *Promoted: Nacional 1906 

@@ -15,6 +15,12 @@ l = [
         },
 
     {
+        'name': 'Palermo',
+        'founded': 1900,
+        'city': 'Palermo, Italy',
+        },
+
+    {
         'name': 'TSV Malente',
         'city': 'Malente, Germany',
         },
@@ -163,6 +169,12 @@ l = [
         'founded': datetime.datetime(1888, 11, 16),
         'city': 'Budapest, Hungary',
         },
+
+    {
+        'name': 'Huddersfield Town',
+        'founded': datetime.datetime(1908, 8, 15),
+        'city': 'Huddersfield, England',
+        },
     {
         'name': 'Panathinaikos',
         'founded': datetime.datetime(1908, 2, 3),
@@ -244,6 +256,12 @@ l = [
         'name': 'Preussen Munster',
         'founded': datetime.datetime(1906, 4, 30),
         'city': 'Munster, Germany',
+        },
+
+    {
+        'name': 'Fortuna Düsseldorf',
+        'founded': datetime.datetime(1895, 5, 5),
+        'city': 'Dusseldorf, Germany',
         },
 
     {

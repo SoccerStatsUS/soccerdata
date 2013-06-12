@@ -65,7 +65,7 @@ Salvadoran Primera División; SLV1; soccer; domestic; League; 1; Country; El Sal
 Liga Nacional de Honduras; HON1; soccer; domestic; League; 1; Country; Honduras
 Primera División de Costa Rica; CRC1; soccer; domestic; League; 1; Country; Costa Rica
 Nicaraguan Primera División; NCA1; soccer; domestic; League; 1; Country; Nicaragua
-Belize Premier Football League; BLZ1; soccer; domestic; League; 1; Country; Nicaragua
+Belize Premier Football League; BLZ1; soccer; domestic; League; 1; Country; Belize
 
 Bermudian Premier Division; BER1; soccer; domestic; League; 1; Country; Bermuda
 Jamaica National Premier League; JAM1; soccer; domestic; League; 1; Country; Jamaica
@@ -76,8 +76,11 @@ Martinique Championnat National; MTQ1; soccer; domestic; League; 1; Country; Mar
 Chilean Primera División; CHI1; soccer; domestic; League; 1; Country; Chile
 Uruguayan Primera División; URU1; soccer; domestic; League; 1; Country; Uruguay
 Argentine Primera División; ARG1; soccer; domestic; League; 1; Country; Argentina
-Brasileirão; BRA1; soccer; domestic; League; 1; Country; Brazil
+Campeonato Brasileiro Série A; BRA1; soccer; domestic; League; 1; Country; Brazil
 Categoría Primera A; COL1; soccer; domestic; League; 1; Country; Colombia
+Ecuadorian Serie A; ECU1; soccer; domestic; League; 1; Country; Ecuador
+Liga de Fútbol Profesional Boliviano; BOL1; soccer; domestic; League; 1; Country; Bolivia
+Peruvian Primera División; PER1; soccer; domestic; League; 1; Country; Peru
 
 Hyundai A-League; AUS1; soccer; domestic; League; 1; Country; Australia
 Chinese Super League; CHN1; soccer; domestic; League; 1; Country; China

@@ -776,21 +776,6 @@ l = [
         },
 
 
-    # Guadeloupe
-
-
-    {
-        'name': 'L\'Etoile de Morne-à-l\'Eau',
-        'founded': 1958,
-        'city': 'Morne-à-l\'Eau, Guadelopue',
-        },
-
-    {
-        'name': 'La Gauloise de Basse-Terre',
-        'city': 'Basse-Terre, Guadelopue',
-        },
-
-
 
 
 
@@ -903,6 +888,7 @@ l = [
         'name': 'Xilotepelt',
         'city': 'Jinotepe, Nicaragua',
         },
+
 
     # Bermuda
 
@@ -1136,9 +1122,21 @@ l = [
         },
 
     {
+        'name': 'FC Belize',
+        'founded': 2005,
+        'city': 'Belize City, Belize',
+        },
+
+    {
         'name': 'Club Verdes',
         'founded': 1976,
         'city': 'Benque Viejo del Carmen, Belize',
+        },
+
+    {
+        'name': 'Juventus (Belize)',
+        'founded': 1978,
+        'city': 'Orange Walk, Belize',
         },
 
 
@@ -1153,6 +1151,11 @@ l = [
         'name': 'Kulture Yabra',
         'founded': 1974,
         'city': 'Belize City, Belize',
+        },
+
+    {
+        'name': 'Placencia Pirates',
+        'city': 'Placencia, Belize',
         },
 
     {
@@ -1201,6 +1204,24 @@ l = [
 
 
     # Guadeloupe
+
+
+    # Guadeloupe
+
+
+    {
+        'name': 'Zénith (Morne-à-l\'Eau)',
+        'founded': 1958,
+        'city': 'Morne-à-l\'Eau, Guadelopue',
+        },
+
+    {
+        'name': 'La Gauloise de Basse-Terre',
+        'city': 'Basse-Terre, Guadelopue',
+        },
+
+
+
 
 
     {

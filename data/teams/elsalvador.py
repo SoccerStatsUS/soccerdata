@@ -44,9 +44,27 @@ l = [
         },
 
     {
+        'name': 'ADET',
+        'city': 'La Libertad, El Salvador',
+        'founded': 1974,
+        'dissolved': 2001,
+        },
+
+    {
+        'name': 'CD Arcense',
+        'city': 'Ciudad Arce, El Salvador',
+        'founded': 1990,
+        },
+
+    {
         'name': 'CD FAS',
         'founded': datetime.datetime(1947, 2, 16),
         'city': 'Santa Ana, El Salvador',
+        },
+
+    {
+        'name': 'Nejapa',
+        'city': 'Nejapa, El Salvador',
         },
 
     {

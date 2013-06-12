@@ -111,7 +111,7 @@ class GeneralProcessor(object):
 
     DATE_RE = re.compile("(\d+)/([\d\?]+)/(\d+)")
     DATE_TIME_RE = re.compile("(\d+)/(\d+)/(\d+) (\d+)z")
-    FLAGS = ["Minigame", "Forfeit"] # Replay, Indoor
+    FLAGS = ["Minigame", "Forfeit", "Annulled", "Replay"] # Indoor
 
     def __init__(self):
         self.competition = None
@@ -155,8 +155,12 @@ class GeneralProcessor(object):
         if line.startswith("*"):
             return
 
-        if line.startswith('Replay') or line.startswith('Indoor'):
+        if line.startswith('Transform'):
             return
+
+        if line.startswith('Indoor'):
+            return
+
 
 
         # Handle flag data like Forfeit, Minigame.

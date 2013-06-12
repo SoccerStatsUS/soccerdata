@@ -1,5 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesh/hond02.html
-
+Competition: Liga Nacional de Honduras
 
 Season: 2001 Apertura 
 
@@ -26,7 +26,7 @@ Date: 9/8/2001
 
 Date: 9/9/2001
 
-; Comayagua    ; 1-0; España
+; Real Comayagua    ; 1-0; España
 ; Universidad  ; 3-1; Savio
 ; Motagua      ; 1-0; Platense
 
@@ -46,12 +46,12 @@ Date: 9/16/2001
 
 Date: 9/26/2001
 
-; Olimpia      ; 2-2; Comayagua
+; Olimpia      ; 2-2; Real Comayagua
 
 Round: 3
 Date: 9/19/2001
 
-; Comayagua    ; 1-0; Vida
+; Real Comayagua    ; 1-0; Vida
 ; Motagua      ; 3-3; España
 ; Victoria     ; 4-1; Savio
 ; Marathón     ; 1-1; Platense
@@ -63,7 +63,7 @@ Date: 9/20/2001
 Round: 4
 Date: 9/22/2001
 
-; Motagua      ; 2-0; Comayagua
+; Motagua      ; 2-0; Real Comayagua
 ; Marathón     ; 6-3; Victoria
 ; Platense     ; 1-0; Savio
 
@@ -80,7 +80,7 @@ Date: 9/29/2001
 
 Date: 9/30/2001
 
-; Comayagua    ; 2-2; Marathón
+; Real Comayagua    ; 2-2; Marathón
 ; Savio        ; 0-2; Olimpia
 ; Universidad  ; 0-1; Platense   
 
@@ -88,7 +88,7 @@ Round: 6
 Date: 10/3/2001
 
 ; Platense     ; 1-3; Olimpia
-; Universidad  ; 2-2; Comayagua
+; Universidad  ; 2-2; Real Comayagua
 ; Vida         ; 2-2; Victoria 
 ; España       ; 1-0; Savio
 
@@ -99,7 +99,7 @@ Date: 10/4/2001
 Round: 7 
 Date: 10/10/2001
 
-; Comayagua    ; 0-0; Platense
+; Real Comayagua    ; 0-0; Platense
 ; Savio        ; 1-1; Motagua
 ; Victoria     ; 0-0; España
 ; Marathón     ; 3-3; Universidad
@@ -113,14 +113,14 @@ Date: 10/13/2001
 
 Date: 10/14/2001
 
-; Comayagua    ; 1-1; Victoria
+; Real Comayagua    ; 1-1; Victoria
 ; Platense     ; 1-0; España 
 ; Olimpia      ; 0-1; Marathón
 
 Round: 9
 Date: 10/17/2001
 
-; Savio        ; 2-2; Comayagua
+; Savio        ; 2-2; Real Comayagua
 ; Victoria     ; 1-1; Universidad
 ; Platense     ; 2-0; Vida
 ; España       ; 0-1; Marathón
@@ -133,7 +133,7 @@ Round: 10
 Date: 10/20/2001
 
 ; Vida         ; 0-1; Marathón
-; España       ; 2-2; Comayagua
+; España       ; 2-2; Real Comayagua
 
 Date: 10/21/2001
 
@@ -148,7 +148,7 @@ Date:
 ; Universidad  ; 3-3; España   
 ; Motagua      ; 2-0; Vida
 ; Marathón     ; 3-3; Savio
-; Comayagua    ; 0-3; Olimpia
+; Real Comayagua    ; 0-3; Olimpia
 
 Round: 12
 Date: 10/31/2001
@@ -158,14 +158,14 @@ Date: 10/31/2001
 ; Platense     ; 0-1; Marathón     
 ; Olimpia      ; 2-0; Universidad   
 
-; Vida         ; 3-3; Comayagua     
+; Vida         ; 3-3; Real Comayagua     
 *[played later]
 
 Round: 13 
 Date: 11/4/2001
 * also 11/5.
 
-; Comayagua    ; 0-1; Motagua
+; Real Comayagua    ; 0-1; Motagua
 ; Victoria     ; 0-2; Marathón
 ; España       ; 1-0; Olimpia
 ; Universidad  ; 1-1; Vida
@@ -179,7 +179,7 @@ Date: 11/7/2001
 
 ; Vida         ; 1-0; España  
 ; Motagua      ; 1-1; Victoria
-; Marathón     ; 1-0; Comayagua  
+; Marathón     ; 1-0; Real Comayagua  
 ; Platense     ; 2-1; Universidad 
 
 ; Olimpia      ; 3-3; Savio
@@ -189,7 +189,7 @@ Round: 15
 Date: 
 
 ; Marathón     ; 0-0; Motagua 
-; Comayagua    ; 1-2; Universidad  
+; Real Comayagua    ; 1-2; Universidad  
 ; Victoria     ; 1-1; Vida
 ; Savio        ; 1-1; España
 ; Olimpia      ; 0-0; Platense 
@@ -201,7 +201,7 @@ Date: 11/14/2001
 
 Date: 11/17/2001
 
-; Platense     ; 1-2; Comayagua
+; Platense     ; 1-2; Real Comayagua
 ; España       ; 0-0; Victoria
 
 Date: 11/18/2001
@@ -215,7 +215,7 @@ Date: 11/21/2001
 
 ; Motagua      ; 0-1; Universidad 
 ; Savio        ; 0-1; Vida
-; Victoria     ; 2-2; Comayagua  
+; Victoria     ; 2-2; Real Comayagua  
 ; España       ; 1-0; Platense
 
 Date: 11/22/2001
@@ -225,7 +225,7 @@ Date: 11/22/2001
 Round: 18 
 Date: 12/2/2001
 
-; Comayagua    ; 1-1; Savio
+; Real Comayagua    ; 1-1; Savio
 ; Universidad  ; 1-4; Victoria 
 ; Vida         ; 2-2; Platense
 ; Marathón     ; 0-5; España 
@@ -239,7 +239,7 @@ Date: 12/2/2001
 * 5.Real España     18  5  9  4 21-15 24
 * 6.Victoria        18  5  9  4 28-26 24
 * 7.Vida            18  3 11  4 20-23 20
-* 8.Real Comayagua  18  3 10  5 22-27 19
+* 8.Real Real Comayagua  18  3 10  5 22-27 19
 * 9.Universidad     18  3  6  9 20-31 15
 *10.Deportes Savio  18  1  9  8 19-32 12
 
@@ -274,8 +274,8 @@ Round: Final
 Date: 12/12/2001
 
 ; Marathon     ; 1-0; Motagua; ; Benigno Pineda
-Jaime Rosales (pk) 69
-Marathón: Juan Pablo Centeno; Mauricio Sabillón, Jaime Rosales, Behiker Bustillo, Lenín Suárez, Nígel Zúniga; Carlos Oliva, Luis Guifarro, Mario López (72 Emil Martínez); Enrique Reneau, Pompilio Cacho. 
+Jaime Rosales (pk) 69;
+Marathon: Juan Pablo Centeno; Mauricio Sabillón, Jaime Rosales, Behiker Bustillo, Lenín Suárez, Nígel Zúniga; Carlos Oliva, Luis Guifarro, Mario López (72 Emil Martínez); Enrique Reneau, Pompilio Cacho. 
 Motagua: Diego Vásquez; Nínrod Medina, Víctor Bernárdez, Mario Chirinos, Júnior Izaguirre (80 Milton Reyes), Elmer Mejía; Marlon Nolasco (60 Ariel Leyes), Ramón Romero, Danilo Turcios; José Pacini, Marcelo Verón.
 
 
@@ -285,15 +285,11 @@ Date: 12/15/2001
 ; Motagua      ; 3-2; Marathon           ; ; Oscar Bardales
 *[5-3 pen]
 José Pacini 21, Junior Izaguirre 42, Junior Izaguirre 81; Jaime Rosales 18, Carlos Oliva 81
-Motagua: Noel Valladares; Milton Reyes, Nínrod Medina, Víctor Bernárdez,
-     Junior Izaguirre; Marlon Nolasco (76 Ariel Leyes), Ramón Romero (46 Elmer Mejía), Danilo Turcios, Róbel Bernárdez; José Pacini,  Marcelo Verón
-  Marathon: Juan Pablo Centeno; Mauricio Sabillón, Jaime Rosales,    Behiker Bustillo, Lenín Suárez, Nígel Zúniga; Carlos Oliva, Luis Guifarro    (77 Mario López), Enrique Reneau (58 Emil Martínez), Ricardo Correia    (59 Jimmy González), Pompilio Cacho
-  ref: 
+Motagua: Noel Valladares; Milton Reyes, Nínrod Medina, Víctor Bernárdez, Junior Izaguirre; Marlon Nolasco (76 Ariel Leyes), Ramón Romero (46 Elmer Mejía), Danilo Turcios, Róbel Bernárdez; José Pacini,  Marcelo Verón
+Marathon: Juan Pablo Centeno; Mauricio Sabillón, Jaime Rosales,    Behiker Bustillo, Lenín Suárez, Nígel Zúniga; Carlos Oliva, Luis Guifarro    (77 Mario López), Enrique Reneau (58 Emil Martínez), Ricardo Correia (59 Jimmy González), Pompilio Cacho
 *  red cards: Marcelo Verón (Motagua, 12); Lenín Suárez (Marathón, 43)]
 
 *Motagua champions.
-
-
 
 Season: 2002 Clausura 
 
@@ -308,7 +304,7 @@ Season: 2002 Clausura
 * 7.Deportes Savio  18  6  3  9 19-25 21
 * 8.Motagua         18  4  7  7 12-16 19
 * 9.Vida            18  3 10  5 16-21 19
-*10.Real Comayagua  18  4  4 10 20-30 16
+*10.Real Real Comayagua  18  4  4 10 20-30 16
 
 Round: 1 
 Date: 1/19/2002
@@ -319,14 +315,14 @@ Date: 1/19/2002
 
 Date: 1/20/2002
 
-; Comayagua    ; 0-3; Olimpia
+; Real Comayagua    ; 0-3; Olimpia
 ; Motagua      ; 1-1; Marathón
 ; Universidad  ; 0-0; Platense
 
 Round: 2
 Date: 1/26/2002
 
-; Vida         ; 1-1; Comayagua
+; Vida         ; 1-1; Real Comayagua
 ; Marathón     ; 4-1; Universidad
 
 Date: 1/27/2002
@@ -346,7 +342,7 @@ Date: 2/2/2002
 
 Date: 2/3/2002
 
-; Comayagua    ; 0-1; Marathón
+; Real Comayagua    ; 0-1; Marathón
 ; Universidad  ; 0-0; Olimpia
 ; Motagua      ; 1-3; Platense
 
@@ -358,7 +354,7 @@ Date: 2/9/2002
 Date: 2/10/2002
 
 ; Savio        ; 2-6; Platense
-; Universidad  ; 2-0; Comayagua
+; Universidad  ; 2-0; Real Comayagua
 
 Date: 2/12/2002
 
@@ -373,14 +369,14 @@ Date: 2/16/2002
 
 Date: 2/17/2002
 
-; Comayagua    ; 2-2; Motagua
+; Real Comayagua    ; 2-2; Motagua
 ; Platense     ; 3-1; Victoria
 ; Olimpia      ; 2-0; Marathón
 
 Round: 6
 Date: 2/23/2002
 
-; Victoria     ; 2-0; Comayagua
+; Victoria     ; 2-0; Real Comayagua
 
 Date: 2/24/2002
 
@@ -399,14 +395,14 @@ Date: 3/3/2002
 
 ; Motagua      ; 0-1; Victoria
 ; Savio        ; 3-0; Universidad
-; Comayagua    ; 3-1; Platense
+; Real Comayagua    ; 3-1; Platense
 
 Round: 8
 Date: 3/9/2002
 
 ; Marathón     ; 0-0; Savio
 ; Victoria     ; 2-0; Universidad
-; Comayagua    ; 1-1; España
+; Real Comayagua    ; 1-1; España
 
 Date: 3/10/2002
 
@@ -422,7 +418,7 @@ Date: 3/16/2002
 Date: 3/17/2002
 
 ; Universidad  ; 0-0; Vida
-; Savio        ; 0-3; Comayagua
+; Savio        ; 0-3; Real Comayagua
 
 Date: 3/21/2002
 
@@ -438,7 +434,7 @@ Date: 3/24/2002
 
 ; Savio        ; 0-0; Victoria
 ; Platense     ; 0-1; Universidad
-; Olimpia      ; 3-2; Comayagua
+; Olimpia      ; 3-2; Real Comayagua
 
 Round: 11
 Date: 4/6/2002
@@ -448,7 +444,7 @@ Date: 4/6/2002
 Date: 4/7/2002
 
 ; España       ; 2-4; Platense
-; Comayagua    ; 1-2; Vida
+; Real Comayagua    ; 1-2; Vida
 ; Motagua      ; 0-3; Savio
 ; Universidad  ; 2-1; Marathón
 
@@ -456,7 +452,7 @@ Round: 12
 Date: 4/13/2002
 
 ; Vida         ; 1-2; Victoria
-; Marathón     ; 3-1; Comayagua
+; Marathón     ; 3-1; Real Comayagua
 ; Olimpia      ; 4-1; Universidad
 
 Date: 4/14/2002
@@ -471,7 +467,7 @@ Date: 3/27/2002
 
 Date: 4/17/2002
 
-; Comayagua    ; 0-3; Universidad 
+; Real Comayagua    ; 0-3; Universidad 
 ; Motagua      ; 0-1; España
 ; Platense     ; 3-1; Savio
 ; Victoria     ; 0-2; Marathón
@@ -479,7 +475,7 @@ Date: 4/17/2002
 Round: 14
 Date: 4/20/2002
 
-; Motagua      ; 0-1; Comayagua
+; Motagua      ; 0-1; Real Comayagua
 ; Victoria     ; 1-3; Platense
 
 Date: 4/21/2002
@@ -498,7 +494,7 @@ Date: 4/24/2002
 ; España       ; 2-1; Marathón
 ; Vida         ; 3-2; Platense
 ; Motagua      ; 2-0; Universidad
-; Comayagua    ; 1-1; Victoria
+; Real Comayagua    ; 1-1; Victoria
 
 Round: 16
 Date: 4/27/2002
@@ -509,7 +505,7 @@ Date: 4/27/2002
 Date: 4/28/2002
 
 ; Universidad  ; 1-0; Savio
-; Platense     ; 3-1; Comayagua
+; Platense     ; 3-1; Real Comayagua
 
 Date: 5/5/2002
 
@@ -519,7 +515,7 @@ Round: 17
 Date: 5/1/2002
 
 ; Olimpia      ; 2-3; Platense
-; España       ; 2-0; Comayagua
+; España       ; 2-0; Real Comayagua
 
 Date: 5/4/2002
 
@@ -535,7 +531,7 @@ Date: 5/12/2002
 
 ; España       ; 0-0; Victoria
 ; Vida         ; 1-1; Universidad
-; Comayagua    ; 3-0; Savio
+; Real Comayagua    ; 3-0; Savio
 ; Platense     ; 2-1; Marathón
 ; Motagua      ; 2-1; Olimpia
 
@@ -549,7 +545,7 @@ Date: 5/12/2002
 * 7.Deportes Savio  18  6  3  9 19-25 21
 * 8.Motagua         18  4  7  7 12-16 19
 * 9.Vida            18  3 10  5 16-21 19
-*10.Real Comayagua  18  4  4 10 20-30 16
+*10.Real Real Comayagua  18  4  4 10 20-30 16
 
 
 *Playoffs
@@ -566,7 +562,7 @@ Date: 5/16/2002
 
 ; Marathón     ; 2-1; Platense
 
-Second Leg 
+*Second Leg 
 Date: 5/19/2002
 
 ; Olimpia      ; 2-2; Victoria

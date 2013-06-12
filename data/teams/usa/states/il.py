@@ -6,15 +6,25 @@ import datetime
 l = [
 
 
+
+
     {
         'name': 'Chicago Fire',
         'founded': 1997,
         'city': 'Chicago, IL',
         },
 
+    {
+        'name': 'Chicago Maroons',
+        'city': 'Chicago, IL',
+        },
 
+    {
+        'name': 'Chicago Croatian SC',
+        'city': 'Chicago, IL',
+        },
 
-{ 
+    { 
         'name': 'Chicago Fire Reserves',
         'city': 'Chicago, IL',
         },

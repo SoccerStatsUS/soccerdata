@@ -54,6 +54,11 @@ l = [
         },
 
     {
+        'name': 'Pittsburgh Indians',
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
         'name': 'Philadelphia Centennials',
         'city': 'Philadelphia, PA',
         },

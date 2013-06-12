@@ -87,7 +87,7 @@ Date: 8/7/2005
 ; Pumas        ; 1-0; Guadalajara
   Bruno Marioni 59;
 
-Pachuca       0-0 América
+; Pachuca      ; 0-0; América
 
 ; Tecos        ; 2-2; Veracruz 
   Daniel Ludueña 47, Nelson Pinto 65; Walter Jimenez 29,   Pablo Quatrocchi 82
@@ -230,7 +230,7 @@ Date: 9/10/2005
   Damián Alvarez 42, Omar Trujillo 45, Luis Gabriel Rey 75;   Israel López 55
 
 ; Veracruz     ; 0-5; Tigres
-;´ Andrés Silvera 18, Andres Silvera 64, Julio César Santos 61, Sixto Peralta 73,   Carlos Adrián Morales 89
+;Andrés Silvera 18, Andres Silvera 64, Julio César Santos 61, Sixto Peralta 73,   Carlos Adrián Morales 89
 
 ; Necaxa       ; 4-3; Santos Laguna
   Diego Martínez 19, Ariel López 32, Ariel Lopez 38, José Alberto Hernandez 53;   Miguel Zepeda 8, Rodrigo Ruiz 18, Matías Vuoso 88
@@ -535,7 +535,7 @@ Round: 17
 Date: 11/26/2005
 
 ; Morelia     ; 2-1; Veracruz
-  Fernando Arce 48, Osmar Aparecido 61, Oscar Emilio Rojas 68
+  Fernando Arce 48, Osmar Aparecido 61; Oscar Emilio Rojas 68
 
 ; Monterrey   ; 4-1; América
   Guillermo Franco 7, Guillermo Franco 53, Alex Fernandes 19, Alex Fernandes 53; Kléber Pereira 21
@@ -727,7 +727,7 @@ Date: 2/4/2006
   Omar Bravo 10;
 
 ; Monterrey    ; 2-3; Tecos
-  Severo Meza 13, Reinaldo Navia 16, Daniel Ludueña 39, Daniel Luduena 45, Eliomar Marcon 58
+  Severo Meza 13, Reinaldo Navia 16; Daniel Ludueña 39, Daniel Luduena 45, Eliomar Marcon 58
 
 ; Veracruz     ; 2-3; Jaguares
   Alejandro Leyva 14, Pablo Quatrocchi 37; Carlos Ochoa 9, Carlos Ochoa 68, Carlos Ochoa 89
@@ -808,7 +808,7 @@ Date: 2/18/2006
 
 Date: 2/19/2006
 
-América       2-1 Atlas
+; América      ; 2-1; Atlas
   Christian Gimenez 77, Duilio Davino 90+2; Danilo Vergne 79
 
 ; Pachuca      ; 1-0; Toluca
@@ -890,8 +890,7 @@ Date: 3/11/2006
   Diego Garay 48; Juan Carlos Cacho 58, Richard Nuñez 70
 
 ; Dorados      ; 2-2; Cruz Azul
-  Andrés Orozco 53, Bernardo Sainz 70; Francisco Fonseca 8,
-   Javier Restrepo 47
+  Andrés Orozco 53, Bernardo Sainz 70; Francisco Fonseca 8, Javier Restrepo 47
 
 ; Guadalajara  ; 1-3; San Luis
   Omar Bravo 52; Sebastiao Pereira 27, Angel Reyna 45, Israel Martinez 89
@@ -968,7 +967,7 @@ Date: 3/19/2006
   Matías Vuoso 44; Hugo Rodallega 89
 
 ; San Luis     ; 2-0; América
-  Emilio Mora 47, Ariel González 85
+  Emilio Mora 47, Ariel González 85;
 
 Round: 12
 Date: 3/25/2006
@@ -1018,7 +1017,7 @@ Date: 4/1/2006
 
 ; Tigres       ; 0-0; Tecos
 
-; Nexaca       ; 1-4; Monterrey
+; Necaxa       ; 1-4; Monterrey
   Fabián Peña 70; Reinaldo Navia 55, Luis Ernesto Pérez 58,   Hugo Rodallega 61, Felipe Baloy 73
 
 Date: 4/2/2006
@@ -1035,7 +1034,7 @@ Round: 14
 Date: 4/8/2006
 
 ; Toluca       ; 1-1; Tigres
-  Sergio Ponce 8, Walter Gaitan 90+2
+  Sergio Ponce 8; Walter Gaitan 90+2
 
 ; Jaguares     ; 1-0; Atlante
   Salvador Cabañas 39;

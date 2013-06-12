@@ -48,6 +48,18 @@ l = [
         },
 
     {
+        'name': 'Deportes Quindío',
+        'founded': datetime.datetime(1951, 1, 8),
+        'city': 'Armenia, Colombia',
+        },
+
+    {
+        'name': 'Real Cartagena',
+        'founded': 1971,
+        'city': 'Cartagena, Colombia',
+        },
+
+    {
         'name': 'Deportivo Portugués',
         'founded': 1985,
         'city': 'Caracas, Venezuela',
@@ -324,6 +336,12 @@ l = [
         },
 
     {
+        'name': 'Unión Española',
+        'founded': datetime.datetime(1897, 5, 18),
+        'city': 'Santiago, Chile',
+        },
+
+    {
         'name': 'Colo-Colo',
         'founded': datetime.datetime(1925, 4, 19),
         'city': 'Santiago, Chile',
@@ -336,11 +354,7 @@ l = [
         'city': 'Santiago, Chile',
         },
 
-    {
-        'name': 'Club Universidad de Chile',
-        'founded': datetime.datetime(1927, 5, 24),
-        'city': 'Santiago, Chile',
-        },
+
 
     {
         'name': 'Union San Felipe',
@@ -410,6 +424,12 @@ l = [
         },
 
     {
+        'name': 'Sampaio Corrêa',
+        'founded': datetime.datetime(1923, 3, 25),
+        'city': 'Sao Luis , Brazil',
+        },
+
+    {
         'name': 'La Equidad',
         'founded': datetime.datetime(1990, 10, 12),
         'city': 'Bogota, Colombia',
@@ -424,6 +444,12 @@ l = [
         'name': 'Club Universitario',
         'founded': datetime.datetime(1962, 4, 5),
         'city': 'Sucre, Bolivia',
+        },
+
+    {
+        'name': 'CD San José',
+        'founded': datetime.datetime(1942, 3, 19),
+        'city': 'Oruro, Bolivia',
         },
     {
         'name': 'Tacuary',
@@ -440,6 +466,43 @@ l = [
         'name': 'Olmedo',
         'founded': datetime.datetime(1919, 11, 11),
         'city': 'Riobamba, Ecuador',
+        },
+
+    {
+        'name': 'Imbabura',
+        'founded': datetime.datetime(1993, 1, 3),
+        'city': 'Ibarra, Ecuador',
+        },
+
+    {
+        'name': 'LDU de Portoviejo',
+        'founded': datetime.datetime(1969, 11, 15),
+        'city': 'Portoviejo, Ecuador',
+        },
+
+    {
+        'name': 'Manta',
+        'founded': datetime.datetime(1998, 7, 27),
+        'city': 'Manta, Ecuador',
+        },
+
+    {
+        'name': 'Independiente José Terán',
+        'founded': datetime.datetime(1958, 3, 1),
+        'city': 'Sangolquí, Ecuador',
+        },
+
+    {
+        'name': 'Deportivo Azogues',
+        'founded': datetime.datetime(2005, 5, 25),
+        'city': 'Azogues, Ecuador',
+        },
+
+
+    {
+        'name': 'Macará',
+        'founded': datetime.datetime(1939, 8, 25),
+        'city': 'Ambato, Ecuador',
         },
 
 
@@ -468,6 +531,18 @@ l = [
         'name': 'Real Potosí',
         'founded': 1941,
         'city': 'Potosi, Bolivia',
+        },
+
+    {
+        'name': 'Nacional Potosí',
+        'founded': datetime.datetime(1942, 3, 24),
+        'city': 'Potosi, Bolivia',
+        },
+
+    {
+        'name': 'Real Mamoré',
+        'founded': 2006,
+        'city': 'Trinidad, Bolivia',
         },
     {
         'name': 'Monagas SC',
@@ -523,6 +598,13 @@ l = [
         'city': 'La Paz, Bolivia',
         },
 
+
+    {
+        'name': 'Independiente Petrolero',
+        'founded': datetime.datetime(1932, 4, 4),
+        'city': 'Sucre, Bolivia',
+        },
+
     {
         'name': 'Alfonso Ugarte',
         'founded': datetime.datetime(1917, 8, 1),
@@ -535,9 +617,15 @@ l = [
         'city': 'Cuenca, Ecuador',
         },
 
+    {
+        'name': 'Técnico Universitario',
+        'founded': datetime.datetime(1971, 3, 26),
+        'city': 'Ambato, Ecuador',
+        },
+
 
     {
-        'name': 'Gimnasia y Esgrima',
+        'name': 'Gimnasia y Esgrima La Plata',
         'founded': datetime.datetime(1887, 6, 3),
         'city': 'La Plata, Argentina',
         },
@@ -576,7 +664,7 @@ l = [
 
 
     {
-        'name': 'Mariano Melgar',
+        'name': 'FBC Melgar',
         'founded': datetime.datetime(1915, 3, 25),
         'city': 'Arequipa, Peru',
         },
@@ -951,6 +1039,12 @@ l = [
         'city': 'Santa Cruz, Bolivia',
         },
 
+    {
+        'name': 'Real Santa Cruz',
+        'founded': datetime.datetime(1960, 5, 3),
+        'city': 'Santa Cruz, Bolivia',
+        },
+
     # Venezuela
 
     {
@@ -1084,6 +1178,12 @@ l = [
     {
         'name': 'CA Bella Vista',
         'founded': datetime.datetime(1920, 10, 4),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'IA Sud América',
+        'founded': datetime.datetime(1914, 2, 15),
         'city': 'Montevideo, Uruguay',
         },
 
@@ -1261,6 +1361,36 @@ l = [
         },
 
     {
+        'name': 'Criciúma',
+        'founded': datetime.datetime(1947, 5, 13),
+        'city': 'Criciúma, Brazil',
+        },
+
+    {
+        'name': 'Ceará',
+        'founded': datetime.datetime(1914, 6, 2),
+        'city': 'Ceará, Brazil',
+        },
+
+    {
+        'name': 'Bragantino',
+        'founded': datetime.datetime(1928, 1, 8),
+        'city': 'Bragança Paulista, Brazil',
+        },
+
+    {
+        'name': 'Centro Sportivo Alagoano',
+        'founded': 1913,
+        'city': 'Maceio, Brazil',
+        },
+
+    {
+        'name': 'Vila Nova',
+        'founded': 1943,
+        'city': 'Goiania, Brazil',
+        },
+
+    {
         'name': 'Racing Club de Avellaneda',
         'founded': datetime.datetime(1903, 3, 25),
         'city': 'Buenos Aires, Argentina',
@@ -1284,6 +1414,12 @@ l = [
         'name': 'America Rio',
         'founded': datetime.datetime(1904, 9, 18),
         'city': 'Rio de Janerio, Brazil',
+        },
+
+    {
+        'name': 'América de Natal',
+        'founded': datetime.datetime(1915, 7, 14),
+        'city': 'Natal, Brazil',
         },
 
     {
@@ -1352,8 +1488,17 @@ l = [
         'city': 'Curitiba, Brazil',
         },
 
+    {
+        'name': 'Corinthians',
+        'founded': datetime.datetime(1910, 9, 1),
+        'city': 'Sao Paulo, Brazil',
+        },
 
-
+    {
+        'name': 'Corinthians de Presidente Prudente',
+        'founded': datetime.datetime(1945, 2, 8),
+        'city': 'Sao Paulo, Brazil',
+        },
 
     {
         'name': 'Carabobo FC',

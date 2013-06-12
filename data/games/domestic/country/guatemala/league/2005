@@ -291,7 +291,7 @@ Date: 12/11/2005
 *[Municipal on better season record]
 ; Comunicaciones ; 0-1; Marquense
 
-Final
+Round: Final
 
 *First Leg 
 Date: 12/14/2005
@@ -617,15 +617,17 @@ Date: 6/7/2006
 
 Round: Promotion/Relegation Playoffs
 
-*First Legs [Jun 7]
+*First Legs
 Date: 6/7/2006
 ; Zacapa         ; 2-1; Cobán
 ; Xinabajul      ; 2-1; Petapa
 
-*Second Legs [Jun 11]
+*Second Legs
 Date: 6/11/2006
-; Cobán          ; 1-0; Zacapa         [aet, 4-5 pen]
-; Petapa         ; 1-0; Xinabajul      [aet, 5-4 pen]
+; Cobán          ; 1-0 (aet); Zacapa         
+*[aet, 4-5 pen]
+; Petapa         ; 1-0 (aet); Xinabajul      
+*[aet, 5-4 pen]
 
 *Cobán relegated, Zacapa promoted
 

@@ -1,4 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesh/hond01.html
+Competition: Liga Nacional de Honduras
 
 Season: 2000 Apertura 
 
@@ -210,7 +211,8 @@ Date: 12/28/2000
 
 ; Platense     ; 1-1; Motagua
 ; Olimpia      ; 1-2; Universidad
-; Savio        ; 1-0; Espana        [inferred]
+; Savio        ; 1-0; Espana        
+Notes: inferred
 
 Round: 17
 Date: 1/6/2001
@@ -252,7 +254,7 @@ Date: 1/13/2001
 
 *Liguilla
 
-Round: First Round:
+Round: First Round
 
 *First Legs 
 Date: 1/24/2001
@@ -262,7 +264,7 @@ Date: 1/25/2001
 ; Vida         ; 1-1; Olimpia
 ; Espana       ; 2-2; Platense
 
-Second Legs 
+*Second Legs 
 Date: 1/27/2001
 ; Motagua      ; 1-1; Universidad
 
@@ -297,7 +299,7 @@ Date: 2/7/2001
 ; Platense     ; 0-1; Olimpia
 ; Alex Pineda Chacón 85
 
-Second Leg 
+*Second Leg 
 Date: 2/11/2001
 
 ; Olimpia      ; 1-1 (asdet); Platense  
@@ -511,7 +513,7 @@ Date: 6/6/2001
 ; Platense     ; 0-3; Universidad
 ; Olimpia      ; 3-0; Real Espana
 
-Rounnd 17 
+Round: 17 
 Date: 6/9/2001
 
 ; Universidad  ; 1-2; Vida
@@ -548,13 +550,13 @@ Round: First
 *NB: Motagua qualified instead of Broncos because they had to play the
 *    relegation playoff
 
-*First Legs [Jul 4]
+*First Legs
 Date: 7/4/2001
 ; Real Espana  ; 1-1; Marathon    
 ; Motagua      ; 1-2; Olimpia
 ; Victoria     ; 1-1; Platense
 
-*Second Legs [Jul 8]
+*Second Legs
 Date: 7/8/2001
 ; Marathon     ; 0-0; Real Espana  
 ; Olimpia      ; 1-1; Motagua
@@ -574,7 +576,7 @@ Date: 7/12/2001
 
 ; Marathon     ; 3-1; Platense
 
-Second Legs 
+*Second Legs 
 Date: 7/15/2001
 
 ; Olimpia      ; 1-1; Real Espana
@@ -614,7 +616,7 @@ Round: Relegation Playoff
 Date: 6/21/2001
 
 ; Broncos      ; 1-1; Savio        ; San Pedro Sula
-     [3-4pen]
+*     [3-4pen]
 
 *Broncos relegated
 
