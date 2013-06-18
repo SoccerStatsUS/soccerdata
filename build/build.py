@@ -29,6 +29,22 @@ from transform import transform
 
 
 
+def timer(method):
+
+    import time
+
+    def timed(*args, **kw):
+        ts = time.time()
+        result = method(*args, **kw)
+        te = time.time()
+
+        print('%r (%r, %r) %2.2f sec' % \
+              (method.__name__, args, kw, te-ts))
+        return result
+
+    return timed
+
+
 def reset_database():
     # Not used.
     from soccerdata import mongo
@@ -60,39 +76,39 @@ def build():
 
     # Do you want to generate before so that you can use / merge those items normally?
     # Or do you want to generate afterwards so that you can filter things easier?
-    load()
+    timer(load())
 
     # This is where player, team, competition, and place names are normalized.
     # Best to do this as early as possible.
     print("normalize")
-    normalize()
+    timer(normalize())
 
     # e.g. United States -> United States U-17
     # Transform names like Carnihan -> Bill Carnihan if possible.
     # Split names like Arsenal (in Argentina D1) -> Arsenal de Sarandi.
     print("transform")
-    transform()
+    timer(transform())
 
-    # This is where things like standings and stats are generated.
+    # Nothing happens here anymore.
     # Generating for individual collections
-    print("generate")
-    generate()
+    #print("generate")
+    #timer(generate())
 
     # Merge everything together.
     print("merge()")
-    merge()
+    timer(merge())
 
-    # Generating standings, stats from merged data; generating indexes on db's.
-    print("generate2")
-    generate2()
+    # Generating game stats, competition standings and stats.
+    print("generate")
+    timer(generate())
 
     # Convert names like FC Dallas -> Dallas Burn, e.g. 
     print("denormalize")
-    denormalize()
+    timer(denormalize())
     
     # Check data sanity? not heavily used.
     print("check")
-    check()
+    timer(check())
 
 
 if __name__ == "__main__":

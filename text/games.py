@@ -5,8 +5,6 @@
 # Ruben Luna 3, Ruben Luna 10, Hugo Sanchez 92; Chicharito 19
 # FC Dallas: Matt Jordan, Chris Gbandi, Clarence Goodson, George John, Zach Loyd, Brek Shea, Oscar Pareja, Leonel Alvarez, Ronnie O'Brien, Jason Kreis, Carlos Ruiz
 
-# Need to add in home_team
-
 import datetime
 import os
 import re
@@ -472,7 +470,6 @@ class GeneralProcessor(object):
                 import pdb; pdb.set_trace()
                 year += self.century
             d = datetime.datetime(year, int(month), int(day))
-            
 
         result_unknown = not_played = False
 
@@ -491,7 +488,6 @@ class GeneralProcessor(object):
         if '(asdet)' in score:
             score = score.replace('(asdet)', '')
             minutes = 'asdet'
-
 
         # Eventually will indicate a blank score.
         # Replace w/o with more explicit data.
@@ -576,7 +572,10 @@ class GeneralProcessor(object):
 
         home_team, neutral = None, False
 
-        if self.home_first:
+        #if team1 == 'Chicago Croatian':
+        #    import pdb; pdb.set_trace()
+
+        if self.home_first and not location:
             home_team = team1
 
         if location in (team1, team2):
@@ -587,10 +586,6 @@ class GeneralProcessor(object):
             home_team = team2
         elif location.lower() == 'neutral':
             neutral = True
-
-        if home_team:
-            location = ''
-        
 
         g = {
             'gid': get_id(),

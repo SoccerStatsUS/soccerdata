@@ -130,18 +130,20 @@ def calculate_game_results(d):
 
 def normalize_game(e):
     e['competition'] = get_competition(e['competition'])
-    e['team1'] = get_team(e['team1'])
-    e['team2'] = get_team(e['team2'])
-
-    if e.get('round'):
-        #print(e['round'])
-        e['round'] = get_round(e['round'])
-
+    e['round'] = get_round(e.get('round', ''))
     if e.get('group'):
         if e['group'].startswith('Group'):
             e['group'] = e['group'].replace('Group', '').strip()
 
-    # This is the wrong behavior. 
+
+    e['team1'] = get_team(e['team1'])
+    e['team2'] = get_team(e['team2'])
+
+    if e.get('home_team'):
+        e['home_team'] = get_team(e['home_team'])
+
+
+    # This is the wrong behavior...huh?
     if e.get('minutes') == None:
         e['minutes'] = 90
 
@@ -150,6 +152,9 @@ def normalize_game(e):
 
     # Assign appropriate results based on score and result data.
     e['team1_result'], e['team2_result'] = calculate_game_results(e)
+
+    #if e['team1'] == 'Chicago Croatian SC':
+    #    import pdb; pdb.set_trace()
 
     # Transforming place names should happen before anything else.
     # Place transfomrations are the most conservative.
@@ -160,8 +165,6 @@ def normalize_game(e):
 
             e['stadium'], e['location'] = location_normalizer(e['location'])
 
-    if e.get('home_team'):
-        e['home_team'] = get_team(e['home_team'])
 
     if 'shootout_winner' not in e:
         e['shootout_winner'] = None
@@ -195,6 +198,7 @@ def normalize_game(e):
             import pdb; pdb.set_trace()
             x = 5
 
+
     if e.get('video'):
         url = e['video']
 
@@ -220,15 +224,8 @@ def normalize_salary(e):
     return e
 
 
-
 def normalize_team(e):
-
-
-
     e['name'] = get_team(e['name'])
-    
-
-
     return e
 
 
@@ -292,10 +289,7 @@ def normalize_foul(e):
     return e
 
 def normalize_stat(e):
-    try:
-        e['competition'] = get_competition(e['competition'])
-    except:
-        import pdb; pdb.set_trace()
+    e['competition'] = get_competition(e['competition'])
     e['team'] = get_team(e['team'])
     e['name'] = get_name(e['name'])
 
@@ -342,11 +336,7 @@ def normalize_lineup(e):
     
     e['competition'] = get_competition(e['competition'])
     e['team'] = get_team(e['team'])
-
-    try:
-        e['name'] = get_name(e['name'])
-    except:
-        import pdb; pdb.set_trace()
+    e['name'] = get_name(e['name'])
 
         """
     if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
@@ -406,7 +396,6 @@ def normalize_award(e):
 
 
 def normalize_bio(e):
-    # NB - weird naming.
     e['name'] = get_name(e['name'])
 
     if type(e['birthdate']) == int:

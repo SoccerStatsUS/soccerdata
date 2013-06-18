@@ -15,31 +15,12 @@ from standings import get_standings
 make_stat_tuple = lambda name, d: (name, d['team'], d['season'], d['competition'])
 
 
+
 def generate():
-    pass
-
-
-def generate2():
     generate_game_stats()
     generate_competition_standings()
     generate_competition_stats()
 
-    #generate_mongo_indexes()
-
-# Delete this. Not working here - moving to build.sh
-def generate_mongo_indexes():
-    from mongo import soccer_db
-    soccer_db.games.ensure_index("date")
-    
-
-def make_state_code_dict():
-
-    d = {}
-    for e in soccer_db.states.find():
-        if e['abbreviation']:
-            d[e['abbreviation']] = e['name']
-
-    return d
 
 
 def generate_game_stats():
@@ -89,78 +70,66 @@ def generate_competition_stats():
         x = generate_stats(soccer_db.goals.find({'competition': competition}), soccer_db.lineups.find({"competition": competition}))
         generic_load(soccer_db.stats, lambda: x.values())
 
-    competition_generate('FIFA Club World Cup')
+    l = [
+        'FIFA Club World Cup',
+        'Intercontinental Cup',
+        'Interamerican Cup',
+        'Recopa Sudamericana',
+        'SURUGA Bank Championship',
+        'La Copita del Mundo',
+        'FIFA World Cup',
+        'FIFA Confederations Cup',
+        'World Cup Qualifying',
+        'Olympic Games',
+        'International Friendly',
+        'Gold Cup',    
+        'CONCACAF Championship',
+        'Copa Centroamericana',
+        'Caribbean Cup',
+        'Copa America',
+        'Copa Merconorte',
+        'Copa Mercosur',
+        'CONCACAF Champions League',
+        'CONCACAF Cup Winners Cup',
+        'CONCACAF Giants Cup',
+        'North American SuperLiga',
+        'Copa Interclubes UNCAF',
+        'CFU Club Championship',
+        'Copa Libertadores',
+        'Copa Sudamericana',
+        'Copa CONMEBOL',,
+        'Copa Masters CONMEBOL',,
+        'MLS Cup Playoffs',
+        'MLS Reserve League',
+        'AFA Cup',
+        'U.S. Open Cup',
+        'Canadian Championship',
+        'American League of Professional Football',
+        'Eastern Soccer League (1928-1929)',
+        'International Soccer League',
+        'USSF Division 2 Professional League',
+        'Liga MX',
+        'Liga MX Liguilla',
+        'Campeón de Campeones',
+        'Campeonato Brasileiro Série A',
+        'Categoría Primera A',
+        'Ecuadorian Serie A',
+        'Chinese Super League',
+        'American Soccer League (1934-1983)',
+        'Mundialito',
+        'Women\'s Professional Soccer',
+        'Women\'s United Soccer Association',
+        'Liga Nacional de Guatemala',
+        'Liga Nacional de Honduras',
+        'Liga Panameña de Fútbol',
+        'Primera División de Costa Rica',
+        'Salvadoran Primera División',
+        #'North American Soccer League',
+        #'CONCACAF Champions\' Cup',
+        ]
 
-    competition_generate('Intercontinental Cup')
-    competition_generate('Interamerican Cup')
-    competition_generate('Recopa Sudamericana')
-    competition_generate('SURUGA Bank Championship')
-    competition_generate('La Copita del Mundo')
-
-    competition_generate('FIFA World Cup')
-    competition_generate('FIFA Confederations Cup')
-    competition_generate('World Cup Qualifying')
-    competition_generate('Olympic Games')
-
-    competition_generate('International Friendly')
-
-    competition_generate('Gold Cup')    
-    competition_generate('CONCACAF Championship')
-    competition_generate('Copa Centroamericana')
-    competition_generate('Caribbean Cup')
-    competition_generate('Copa America')
-    competition_generate('Copa Merconorte')
-    competition_generate('Copa Mercosur')
-
-    competition_generate('CONCACAF Champions League')
-    competition_generate('CONCACAF Cup Winners Cup')
-    competition_generate('CONCACAF Giants Cup')
-    #competition_generate('CONCACAF Champions\' Cup')
-    competition_generate('North American SuperLiga')
-    competition_generate('Copa Interclubes UNCAF')
-    competition_generate('CFU Club Championship')
-
-    competition_generate('Copa Libertadores')
-    competition_generate('Copa Sudamericana')
-    competition_generate('Copa CONMEBOL'),
-    competition_generate('Copa Masters CONMEBOL'),
-
-    competition_generate('MLS Cup Playoffs')
-    competition_generate('MLS Reserve League')
-
-    competition_generate('AFA Cup')
-    competition_generate('U.S. Open Cup')
-    competition_generate('Canadian Championship')
-
-    competition_generate('American League of Professional Football')
-    competition_generate('Eastern Soccer League (1928-1929)')
-    competition_generate('International Soccer League')
-    competition_generate('USSF Division 2 Professional League')
-
-    competition_generate('Liga MX')
-    competition_generate('Liga MX Liguilla')
-    competition_generate('Campeón de Campeones')
-
-    competition_generate('Campeonato Brasileiro Série A')
-    competition_generate('Categoría Primera A')
-    competition_generate('Ecuadorian Serie A')
-
-    competition_generate('Chinese Super League')
-
-    competition_generate('American Soccer League (1934-1983)')
-
-    competition_generate('Mundialito')
-
-    competition_generate('Women\'s Professional Soccer')
-    competition_generate('Women\'s United Soccer Association')
-    #competition_generate('North American Soccer League')
-
-    competition_generate('Liga Nacional de Guatemala')
-    competition_generate('Liga Nacional de Honduras')
-    competition_generate('Liga Panameña de Fútbol')
-    competition_generate('Primera División de Costa Rica')
-    competition_generate('Salvadoran Primera División')
-
+    for e in l:
+        competition_generate(e)
 
 
 def generate_competition_standings():
@@ -171,47 +140,42 @@ def generate_competition_standings():
         stg = generate_standings(competition)
         generic_load(soccer_db.standings, lambda: stg)
 
+    l = [
+        'FIFA Club World Cup',
+        'Intercontinental Cup',
+        'Interamerican Cup',
+        'Recopa Sudamericana',
+        'SURUGA Bank Championship',
+        'La Copita del Mundo',    
+        'Copa Libertadores',
+        'Copa Sudamericana',
+        'Copa CONMEBOL',
+        'Copa Masters CONMEBOL',
+        'CONCACAF Champions League',
+        'Copa Interclubes UNCAF',
+        'CFU Club Championship',    
+        'CONCACAF Cup Winners Cup',
+        'CONCACAF Giants Cup',
+        'North American Superliga',
+        'Women\'s Professional Soccer',
+        'National Women\'s Soccer League',
+        'Women\'s Premier Soccer League',
+        'Women\'s United Soccer Association',
+        'International Soccer League',
+        'Eastern Soccer League (1928-1929)',
+        'Major League Soccer',
+        'North American Soccer League',
+        'American Soccer League (1921-1933)',
+        'MLS Reserve League',
+        'MLS Cup Playoffs',
+        'U.S. Open Cup',
+        'Hyundai A-League',
+        'Canadian Championship',
+        'Liga MX',
+        ]
 
-    sg2('FIFA Club World Cup')
-    sg2('Intercontinental Cup')
-    sg2('Interamerican Cup')
-    sg2('Recopa Sudamericana')
-    sg2('SURUGA Bank Championship')
-    sg2('La Copita del Mundo')
-
-    sg2('Copa Libertadores')
-    sg2('Copa Sudamericana')
-    sg2('Copa CONMEBOL')
-    sg2('Copa Masters CONMEBOL')
-
-    sg2('CONCACAF Champions League')
-    sg2('Copa Interclubes UNCAF')
-    sg2('CFU Club Championship')
-    sg2('CONCACAF Cup Winners Cup')
-    sg2('CONCACAF Giants Cup')
-    sg2('North American Superliga')
-
-    sg2('Women\'s Professional Soccer')
-    sg2('National Women\'s Soccer League')
-    sg2('Women\'s Premier Soccer League Elite')
-    sg2('Women\'s Premier Soccer League')
-    sg2('Women\'s United Soccer Association')
-
-
-    sg2('International Soccer League')
-    sg2('La Copita del Mundo')
-
-
-    sg2('Eastern Soccer League (1928-1929)')
-    sg2('Major League Soccer')
-    sg2('North American Soccer League')
-    sg2('American Soccer League (1921-1933)')
-    sg2('MLS Reserve League')
-    sg2('MLS Cup Playoffs')
-    sg2('U.S. Open Cup')
-    sg2('Hyundai A-League')
-    sg2('Canadian Championship')
-    sg2('Liga MX')
+    for e in l:
+        sg2(e)
 
 
 

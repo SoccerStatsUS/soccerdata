@@ -5,6 +5,7 @@ STAT_TABLES = [
     'fouls', 
     'lineups', 
     'stats', 
+    'gstats',
     'standings', 
 
     'rosters',

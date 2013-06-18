@@ -306,7 +306,8 @@ def process_women_awards():
 def process_world_awards():
     from soccerdata.data.lists.awards import world 
     return process_awards(world.intercontinental_cup) + process_awards(world.interamerican_cup) + \
-        process_awards(world.suruga) + process_awards(world.panpacific) + process_awards(world.club_world_cup) + process_awards(world.copa_rio) + process_awards(world.copita)
+        process_awards(world.suruga) + process_awards(world.panpacific) + process_awards(world.club_world_cup) + \
+        process_awards(world.copa_rio) + process_awards(world.copita) + process_awards(world.confederations)
 
 
     

@@ -63,7 +63,6 @@ magic_teams = {
         (from_competition('Liga Panameña de Fútbol'), 'Atlético Nacional (Panama)'),
         ],
 
-
     'Sacachispas': [
         (from_competition('Liga Nacional de Guatemala'), 'CSD Sacachispas')
         ],
@@ -146,7 +145,6 @@ magic_teams = {
     }
 
 
-
 def get_magic_team(team, data):
 
 
@@ -224,17 +222,19 @@ def denormalize():
         if home_team and not e.get('stadium'):
             stadium = stadium_getter(home_team, e['date'])
 
+            #if e['team1'] == 'Chicago Croatian SC':
+            #    import pdb; pdb.set_trace()
+
             # stadium_getter returns home_team as a fallback; don't set that.
             if stadium and stadium != home_team:
                 e['stadium'] = stadium
+                e['location_inferred'] = True
 
             else:
                 city = team_city_map.get(home_team)
                 if city:
                     e['city'] = city
-                
-
-            
+                    e['location_inferred'] = True
 
         l.append(e)
 
@@ -268,7 +268,6 @@ def denormalize():
     soccer_db.stats.drop()
     insert_rows(soccer_db.stats, l)
             
-
     print("Denormalizing lineups")
     lineups = []
     for lineup in soccer_db.lineups.find():

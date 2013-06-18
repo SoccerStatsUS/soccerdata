@@ -1,4 +1,3 @@
-from soccerdata.data.alias import get_team, get_name # Pretty sure these should not be in here at all.
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row
 from soccerdata.settings import SOURCES
 
@@ -7,26 +6,10 @@ import datetime
 import random
 
 
-def timer(method):
-
-    import time
-
-    def timed(*args, **kw):
-        ts = time.time()
-        result = method(*args, **kw)
-        te = time.time()
-
-        print('%r (%r, %r) %2.2f sec' % \
-              (method.__name__, args, kw, te-ts))
-        return result
-
-    return timed
-
 
 
 # Merge should be used for avoiding duplicate elements.
 
-@timer
 def merge():
     merge_standings()
     merge_awards()
@@ -80,32 +63,7 @@ def merge_awards():
     insert_rows(soccer_db.awards, soccer_db.usa_awards.find())
 
     
-
-
-
-
-
-
     
-# Where to have this stuff?
-# Needs to be run.
-# Maybe add lineup_dict as an argument to correct_goal_names
-def make_scaryice_lineup_dict():
-    """
-    Returns a dict with key/value pairs like this:
-    ("FC Dallas", datetime.datetime(2011,8,1)): ["Kevin Hartman", "Jair Benitez"...
-    """
-    from soccerdata import mongo
-
-    d = defaultdict(list)
-
-    for l in mongo.soccer_db.mls_lineups.find():
-        key = (l['team'], l['date'])
-        v = d[key]
-        v.append(l['player'])
-
-    return d
-
 
 def merge_goals():
 
@@ -115,25 +73,22 @@ def merge_goals():
         if '_id' in d:
             d.pop("_id")
         
-        # normalize things.
-        d['team'] = get_team(d['team'])
+        # Issues here: a player scores two goals in the same minute.
+        # A player scores in a game, we don't have a minute, but we have separate sources referring.
+        # Add a source key here.
 
-        if d['goal']:
-            d['goal'] = get_name(d['goal'])
-
-        d['assists'] = [get_name(e) for e in d['assists']]
-
-        # Technically, the same player could score two goals in the
-        # same minute. If this ever comes up, I'll have to reconsider
-        # this issue.
         if d['minute']:
             key = (d['date'], d['goal'], d['minute'])
         else: 
             # For the case where a player has scored multiple goals, but we don't have a minute for any of them.
+            # random.random() -> None.
             key = (d['date'], d['goal'], random.random())
 
-        if key in dd: 
+        # source_id not implemented, but should be something simple (timestamp, counter)
+        # to distinguish different internal 'sources' - different files or scrapes, basically.
+        if key in dd: # and orig.get('source_id') != d.get('source_id'): 
             orig = dd[key]
+
             for k, v in d.items():
                 if not orig.get(k) and v:
                     orig[k] = v
@@ -190,12 +145,8 @@ def merge_lineups():
 
     def update_lineup(d):
         d.pop("_id")
-        
-        # normalize things.
-        # Do this elsewhere?
-        d['name'] = get_name(d['name'])
-        d['team'] = get_team(d['team'])
 
+        # add source_id here also.
         key = (d['name'], d['date'], d['team'])
 
         if key in dd: 
@@ -219,7 +170,6 @@ def merge_lineups():
     insert_rows(soccer_db.lineups, dd.values())
 
 
-@timer
 def merge_all_games():            
     games_coll_names = ['%s_games' % coll for coll in SOURCES]
     games_lists = [soccer_db[k].find() for k in games_coll_names]
@@ -238,7 +188,6 @@ def merge_all_rosters():
     rosters = merge_rosters(roster_lists)
     soccer_db.rosters.drop()
     insert_rows(soccer_db.rosters, rosters)
-
 
 
 def merge_rosters(roster_lists):
@@ -266,7 +215,6 @@ def merge_rosters(roster_lists):
     return roster_dict.values()
 
 
-
 def merge_games(games_lists):
     """
     Merge games to prevent overlaps, then
@@ -278,15 +226,10 @@ def merge_games(games_lists):
         if '_id' in d:
             d.pop("_id")
         
-        # normalize team order.
-        d['team1'] = get_team(d['team1'])
-        d['team2'] = get_team(d['team2'])
-
-        if d.get('home_team'):
-            d['home_team'] = get_team(d['home_team'])
 
         teams = tuple(sorted([d['team1'], d['team2']]))
 
+        # add source_id here to handle no date overlaps.
         key = (teams, d['date'], d['season'])
 
 
@@ -338,9 +281,6 @@ def merge_games(games_lists):
 
     return game_dict.values()
 
-            
-
-
 
 def merge_bios():
     """
@@ -351,25 +291,21 @@ def merge_bios():
 
 
     def update_bio(d):
-        # This will produce some bad data, eg: 
+        # This will overmerge. e.g.
         # { 'name': 'John Smith', 'birthdate': datetime.datetime(1900, 1, 1) }
-        # merged with  
-        # { 'name': 'John Smith', 'birthdate': datetime.datetime(1980, 6, 15), 
-        # 'birthplace': 'Atlanta, Georgia' } 
-        # will become 
-        # { 'name': 'John Smith', 'birthdate': datetime.datetime(1900, 1, 1), 
-        # birthplace': 'Atlannta, Georgia' }
+        # { 'name': 'John Smith', 'birthdate': datetime.datetime(1980, 6, 15), 'birthplace': 'Atlanta, Georgia' } 
+        # -> { 'name': 'John Smith', 'birthdate': datetime.datetime(1900, 1, 1), birthplace': 'Atlannta, Georgia' }
+        # Probably want to under-merge, then apply split logic.
         
-        name = get_name(d['name'])
-        d['name'] = name
+        n = d['name']
         
-        if name in bio_dict:
-            orig = bio_dict[name]
+        if n in bio_dict:
+            orig = bio_dict[n]
             for k, v in d.items():
                 if not orig.get(k) and v:
                     orig[k] = v
         else:
-            bio_dict[name] = d
+            bio_dict[n] = d
 
       
     for e in SOURCES:
@@ -401,8 +337,6 @@ def merge_stats(stats_lists):
     def update_stat(d):
         if 'team' not in d:
             import pdb; pdb.set_trace()
-        d['team'] = get_team(d['team'])
-        d['name'] = get_name(d['name'])
         t = (d['name'], d['team'], d['competition'], d['season'])
         if t in stat_dict:
             orig = stat_dict[t]
@@ -419,23 +353,6 @@ def merge_stats(stats_lists):
     for stats_list in stats_lists:
         for e in stats_list:
             update_stat(e)
-
-    return stat_dict.values()
-
-
-
-
-
-def get_scaryice_goals():
-    # Note! scaryice_lineups needs to have been generated alredady for this to work.
-    # This is not the right way to do anything.
-    from soccerdata.text import lineups
-
-
-    lineup_dict = make_scaryice_lineup_dict()
-    items = [d for d in soccer_db.mls_goals.find()]
-    return lineups.correct_goal_names(items, lineup_dict)
-
 
 
 if __name__ == "__main__":

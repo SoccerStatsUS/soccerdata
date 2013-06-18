@@ -90,7 +90,7 @@ def load():
     load_stadium_maps()
     load_competition_maps()
 
-    load_games(); return
+    #load_games(); return
 
     load_bios()
     load_salaries()
@@ -108,23 +108,33 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-    load_world_international()
-    load_world()
-
-
+    load_asl()  
     return
+    load_concacaf()
+
+    load_mls() 
+    load_usa_cups()
+    load_early_friendlies()
+    load_modern_friendlies()
+    load_usmnt()
+
+    load_nasl() 
+
+
+
     load_usl()
     load_colombia()
     load_ecuador()
     load_mexico()
 
     load_uncaf()
-    load_concacaf()
+
     load_concacaf_international()
 
     load_conmebol()
     load_conmebol_international()
-    return
+    load_world_international()
+    load_world()
 
     load_chile()
     load_peru()
@@ -133,15 +143,7 @@ def load_games():
     load_bolivia()
     load_argentina()
 
-    load_modern_friendlies()
-    load_nasl() 
-    load_mls() 
 
-    load_asl()  
-
-
-
-    load_early_friendlies()
     load_cfu()
     load_australia()    
 
@@ -167,7 +169,7 @@ def load_games():
 
     load_japan()
     load_china()
-    load_usmnt()
+
     load_oceania_international()
     load_ncaa()
     load_indoor()
@@ -447,21 +449,24 @@ def load_mls():
     load_excel_standings('mls', 'domestic/country/usa/mls')
     load_games_standard('mls', 'domestic/country/usa/playoffs/mls')
 
+    print("Loading MLS reserves data.")
+    for e in [2005, 2006, 2007, 2008, 2011, 2012, 2013]:
+        load_games_standard('mls', 'domestic/country/usa/leagues/reserve/mls/%s' % e)
+
     print("Loading mls bio stats.")
     # Not loading 1996-2011 stats?
     generic_load(soccer_db.mls_stats, stats.process_mls_2012_stats)
+    load_mls_lineup_db()
 
     print("Loading MLS awards.")
     generic_load(soccer_db.mls_awards, awards.process_mls_awards)
 
-    print("Loading MLS playoff data.")
-    for e in [2005, 2006, 2007, 2008, 2011, 2012, 2013]:
-        load_games_standard('mls', 'domestic/country/usa/leagues/reserve/mls/%s' % e)
-
     for e in ['1996.2010', '2011', '2012', '2013']:
         load_games_standard('mls', 'domestic/country/usa/leagues/d1/mls/%s' % e)
 
-    load_mls_lineup_db()
+    # Not loading playoff data?
+
+
 
     """
     from scrapers.mls2 import scrape_competition

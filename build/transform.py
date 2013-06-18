@@ -105,7 +105,7 @@ def get_name_from_fragment(fragment, candidates):
 
             # This should never happen.
             elif len(matches) > 1:
-                print(fragment, matches)
+                print("Ambiguous:", fragment, matches)
 
     return fragment
 
