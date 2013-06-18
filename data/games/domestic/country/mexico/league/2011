@@ -1,5 +1,6 @@
 BlockSource: http://rsssf.com/tablesm/mex2012.html
 Competition: Liga MX
+home-first
 
 Season: 2011 Apertura
 
@@ -32,7 +33,7 @@ Date: 7/22/2011
 
 Date: 7/23/2011
 
-; Pachuca          ; 1-4; Santos
+; Pachuca          ; 1-4; Santos Laguna
   Leobardo López (pk) 80; Oribe Peralta 11, Oribe Peralta 37, Oribe Peralta 71, Jorge Iván Estrada 43
 
 ; Tijuana          ; 1-2; Morelia
@@ -70,7 +71,7 @@ Date: 7/30/2011
 ; Monterrey        ; 4-2; Tijuana
   Sergio Santana 40, Luis Ernesto Pérez (pk) 49, Walter Ayoví 71,    César Delgado 72; Dayro Moreno 25, Joe Benny Corona 29
 
-; Santos           ; 3-0; Atlante
+; Santos Laguna           ; 3-0; Atlante
   Christian Suárez 17, Carlos Darwin Quintero 48, Carlos Ochoa 84;
 
 ; San Luis         ; 2-1; Estudiantes
@@ -116,7 +117,7 @@ Date: 9/2/2011
 ; Tijuana          ; 0-1; Guadalajara
 ;  Héctor Reynoso 39
 
-; Jaguares         ; 3-2; Santos
+; Jaguares         ; 3-2; Santos Laguna
   Franco Arizala 53, Luis Gabriel Rey 56, Luis Gabriel Rey 74; José María Cárdenas 13,   Juan Carlos Enríquez 82
  
 Date: 9/4/2011
@@ -135,7 +136,7 @@ Date: 8/6/2011
 
 ; Guadalajara      ; 0-0; Pumas
 
-; Santos           ; 1-3; Tijuana
+; Santos Laguna           ; 1-3; Tijuana
   Juan Pablo Rodríguez (pk) 32; Fernando Arce 43, José Gustavo Sand 54,    Dayro Moreno 64
 
 ; Monterrey        ; 2-0; Morelia
@@ -156,7 +157,7 @@ Date: 9/14/2011
 ; América          ; 2-2; San Luis
   Rosinei Adolfo 48, Daniel Márquez 80; Wilmer Aguirre 31, Wilmer Aguirre 90
 
-Round: Round: 5
+Round: 5
 Date: 8/12/2011
 
 ; Morelia          ; 1-2; Guadalajara
@@ -184,7 +185,7 @@ Date: 8/13/2011
 
 Date: 8/14/2011
 
-; Pumas            ; 1-1; Santos
+; Pumas            ; 1-1; Santos Laguna
   Eduardo Herrera 79; Oribe Peralta 57
 
 ; Tijuana          ; 1-1; Puebla
@@ -207,7 +208,7 @@ Date: 8/20/2011
 ; Guadalajara      ; 2-1; Monterrey
   Marco Fabián de la Mora (pk) 28, Alberto Medina 77; César Delgado 24
 
-*Santos            -  Morelia
+*Santos Laguna            -  Morelia
 *Match abandoned at 40' (0-0) due to shooting between the police and delinquents outside the stadium
 
 ; Tigres           ; 1-0; San Luis
@@ -222,11 +223,11 @@ Date: 8/21/2011
   Alan Zamora 13, DaMarcus Beasley 24; Javier Cortés 75
 
 ; América          ; 5-2; Atlas
-  Ángel Eduardo Reyna 44, Vicente Sánchez 53, Christian Benítez 69, Christian Benitez 77, Christian Benitez 90+2;    Georgie Welcome 9, Flavio Jesús Santos 81
+  Ángel Eduardo Reyna 44, Vicente Sánchez 53, Christian Benítez 69, Christian Benitez 77, Christian Benitez 90+2;    Georgie Welcome 9, Flavio Jesús Santos Laguna 81
 
 Date: 11/1/2011
 
-; Santos           ; 0-2; Morelia
+; Santos Laguna           ; 0-2; Morelia
 ;  Yasser Corona 60, Rafael Márquez Lugo 88
 Notes: 50 minutes pending of match suspended on Aug. 20
 
@@ -241,7 +242,7 @@ Date: 8/27/2011
 ; Pachuca          ; 2-0; América
   Félix Borja 14, Felix Borja 63;
 
-; Monterrey        ; 2-0; Santos
+; Monterrey        ; 2-0; Santos Laguna
   Luis Ernesto Pérez 28, Humberto Andrés Suazo 66;
 
 ; Atlas            ; 0-1; Tigres
@@ -277,7 +278,7 @@ Date: 9/10/2011
 ; Cruz Azul        ; 0-1; Morelia
 ;  Joao Robin Rojas 90+1
 
-; Santos           ; 1-1; Guadalajara
+; Santos Laguna           ; 1-1; Guadalajara
   Rafael Figueroa 51; Alberto Medina 73
 
 ; Tigres           ; 5-0; Pachuca
@@ -312,7 +313,7 @@ Date: 9/17/2011
 ; Pachuca          ; 4-2; Atlas
   Enrique Esqueda 26, Carlos Gerardo Rodríguez 32, Segundo Castillo 52, Leobardo López (pk) 90+2;    Mauricio Romero 15, Francisco Javier Torres 68
 
-; San Luis         ; 0-1; Santos
+; San Luis         ; 0-1; Santos Laguna
  ; Daniel Ludueña 11
 
 ; Atlante          ; 1-0; Tigres
@@ -355,7 +356,7 @@ Date: 9/25/2011
 ; Toluca           ; 2-1; Morelia
   Iván Alonso 37, Ivan Alonso 79; Luis Alonso Sandoval 49
 
-; Puebla           ; 1-2; Santos
+; Puebla           ; 1-2; Santos Laguna
   Duvier Orlando Riascos (pk) 57; Carlos Darwin Quintero 45, Oribe Peralta 47
 
 ; América          ; 1-1; Tijuana
@@ -377,7 +378,7 @@ Date: 10/1/2011
 
 ; Monterrey        ; 0-0; Toluca
 
-; Santos           ; 1-0; Cruz Azul
+; Santos Laguna           ; 1-0; Cruz Azul
   Oribe Peralta 21;
 
 ; Guadalajara      ; 0-1; Querétaro                 ; Estadio Jalisco
@@ -405,7 +406,7 @@ Date: 10/8/2011
 ; Cruz Azul        ; 2-0; Puebla
   Javier Orozco 73, Javier Orozco 89;
 
-; Querétaro        ; 1-3; Santos
+; Querétaro        ; 1-3; Santos Laguna
   Ricardo Michel Vázquez (pk) 25; Carlos Darwin Quintero 7, Oribe Peralta 8,    Carlos Adrián Morales 63
 
 ; Pachuca          ; 1-0; Jaguares
@@ -415,7 +416,7 @@ Date: 10/8/2011
   Lucas Lobos 18, Anselmo Vendrechovski 27, Héctor Raúl Mancilla 36,    Manuel Viniegra 39; Eduardo Herrera 82
 
 ; Atlas            ; 2-2; Tijuana
-  Ricardo Adán Jiménez 49, Flavio Jesús Santos (pk) 90+3; José Gustavo Sand 66,    Mauro Gerk 81
+  Ricardo Adán Jiménez 49, Flavio Jesús Santos Laguna (pk) 90+3; José Gustavo Sand 66,    Mauro Gerk 81
 
 ; Atlante          ; 1-1; San Luis
   Juan Ezequiel Cuevas 81; Othoniel Arce 46
@@ -447,7 +448,7 @@ Date: 10/15/2011
 ; Guadalajara      ; 5-2; Estudiantes                 ; Estadio Jalisco
   Erick Torres 7, Erick Torres 56, Marco Fabián de la Mora 32, Marco Fabian de la Mora 37, Marco Fabian de la Mora 55; Eduardo Lillingstón 53,    Mario de Luna (og) 73
 
-; Santos           ; 3-2; Toluca
+; Santos Laguna           ; 3-2; Toluca
   Oribe Peralta 28, Oribe Peralta 41, Christian Suárez 90+2; Antonio Naelson 5,    Isaac Brizuela 50
 
 ; San Luis         ; 1-1; Cruz Azul
@@ -470,7 +471,7 @@ Date: 10/22/2011
 ; Querétaro        ; 1-0; Cruz Azul
   Carlos Bueno (pk) 86;
 
-; Estudiantes      ; 5-2; Santos
+; Estudiantes      ; 5-2; Santos Laguna
   Hérculez Gómez 3, Herculez Gomez 15, Braulio Luna 83, Eduardo Lillingston 85, Rubens Sambueza 85;    Carlos Darwin Quintero 47, Jorge Iván Estrada 69
 
 ; Pachuca          ; 0-0; Pumas
@@ -513,7 +514,7 @@ Date: 10/26/2011
 ; San Luis         ; 2-1; Querétaro
   Alfredo David Moreno 57, Alfredo David Moreno 72; Carlos Bueno (pk) 81
 
-; Santos           ; 1-1; América
+; Santos Laguna           ; 1-1; América
   Carlos Darwin Quintero 3; Daniel Montenegro 7
 
 ; Pumas            ; 1-0; Atlante
@@ -534,7 +535,7 @@ Date: 10/29/2011
 ; Pachuca          ; 4-0; Monterrey
   Enrique Esqueda 14, Enrique Esqueda 48, Rogelio Chávez 32, Mauro Cejas 75;
 
-; Tigres           ; 2-1; Santos
+; Tigres           ; 2-1; Santos Laguna
   Danilo Verón 41, Alberto Acosta 65; Christian Suárez 45
 
 ; Atlas            ; 1-1; Guadalajara
@@ -573,7 +574,7 @@ Date: 11/5/2011
 ; Guadalajara      ; 2-2; Pachuca
   Marco Fabián de la Mora 21, Erick Torres 66; Enrique Esqueda (pk) 54, Enrique Esqueda 90
 
-; Santos           ; 3-0; Atlas
+; Santos Laguna           ; 3-0; Atlas
   Santiago Abel Hoyos 27, Carlos Adrian Morales 88, Oribe Peralta 90+2;
 
 ; San Luis         ; 5-1; Toluca
@@ -667,7 +668,7 @@ Date: 1/7/2012
 ; Guadalajara      ; 0-1; Atlante
  ; Michael Arroyo 44
 
-; Santos           ; 0-0; Pachuca
+; Santos Laguna           ; 0-0; Pachuca
 
 ; San Luis         ; 1-0; Pumas
   Jehú Chiapas 41;
@@ -704,7 +705,7 @@ Date: 1/14/2012
 ; Atlas            ; 0-2; Cruz Azul
 ;  Emanuel Villa 43, Christian Giménez (pk) 80
 
-; Atlante          ; 1-2; Santos
+; Atlante          ; 1-2; Santos Laguna
   Andrés Augusto Mendoza 52; Christian Suárez 12, Oribe Peralta 56
 
 Date: 1/15/2012
@@ -735,7 +736,7 @@ Date: 1/21/2012
 ; Monterrey        ; 1-1; Pumas
   Othoniel Arce 61; Juan Carlos Cacho 26
 
-; Santos           ; 1-0; Jaguares
+; Santos Laguna           ; 1-0; Jaguares
   Aarón Galindo 86;
 
 ; Guadalajara      ; 0-2; Tijuana
@@ -779,7 +780,7 @@ Date: 1/29/2012
 
 ; Pumas            ; 0-0; Guadalajara
 
-; Tijuana          ; 1-3; Santos
+; Tijuana          ; 1-3; Santos Laguna
   José Gustavo Sand (pk) 56; Carlos Darwin Quintero 36, Christian Suárez 64,    Juan Pablo Rodríguez 86
 
 Round: 5
@@ -801,7 +802,7 @@ Date: 2/4/2012
 ; Guadalajara       ; 1-2; Morelia
   Omar Arellano Riverón 38; Miguel Sabah 57, Miguel Sabah 82
 
-; Santos            ; 2-1; Pumas
+; Santos Laguna            ; 2-1; Pumas
   Christian Suárez 11, Rodolfo Salinas 64; Rodolfo Salinas (og) 75
 
 Date: 2/5/2012
@@ -818,7 +819,7 @@ Date: 2/5/2012
 Round: 6
 Date: 2/10/2012
 
-; Morelia           ; 3-1; Santos
+; Morelia           ; 3-1; Santos Laguna
   Miguel Sabah 22, Miguel Sabah 24, Edgar Gerardo Lugo 90; Adrián Aldrete (og) 28
 
 Date: 2/11/2012
@@ -864,7 +865,7 @@ Date: 2/18/2012
 
 ; Guadalajara       ; 0-0; San Luis
 
-; Santos            ; 1-1; Monterrey
+; Santos Laguna            ; 1-1; Monterrey
   Aarón Galindo 81; Luis Ernesto Pérez 52
 
 ; Tigres            ; 0-0; Atlas
@@ -893,7 +894,7 @@ Date: 2/25/2012
   Leobardo López (pk) 22; Elías Hernández 90+1
 
 ; San Luis          ; 0-1; Atlas
-;  Flavio Jesús Santos 46
+;  Flavio Jesús Santos Laguna 46
 
 ; Tijuana           ; 1-1; Toluca
   Joe Benny Corona 14; Iván Alonso 24
@@ -909,7 +910,7 @@ Date: 2/26/2012
 ; Morelia           ; 2-0; Cruz Azul
   Joao Robin Rojas 35, Miguel Sabah 81;
 
-; Guadalajara       ; 2-1; Santos
+; Guadalajara       ; 2-1; Santos Laguna
   Marco Fabián de la Mora 37, Erick Torres 57; Hérculez Gómez 77
 
 Round: 9
@@ -926,7 +927,7 @@ Date: 3/3/2012
 ; Cruz Azul         ; 4-3; Monterrey
   Christian Giménez (pk) 24, Chrisitan Gimenez 53, Omar Bravo 56, Emanuel Villa 82; Aldo de Nigris 19, umberto Andrés Suazo 72, José María Basanta 90+4
 
-; Santos            ; 5-2; San Luis
+; Santos Laguna            ; 5-2; San Luis
   Oribe Peralta 4, Oribe Peralta 17, Oribe Peralta 71, Oribe Peralta 79, Hérculez Gómez 54; Facundo Abel Pereira (pk) 27,    Wilmer Aguirre 40
 
 ; Tigres            ; 1-0; Atlante
@@ -965,7 +966,7 @@ Date: 3/10/2012
 ; Guadalajara       ; 2-1; Cruz Azul
   Erick Torres 88, Héctor Reynoso (pk) 90+4; Emanuel Villa 22
 
-; Santos            ; 3-1; Puebla
+; Santos Laguna            ; 3-1; Puebla
   Hérculez Gómez 48, Herculez Gomez 90+2, Oribe Peralta 71; DaMarcus Beasley 43
 
 ; San Luis          ; 0-0; Pachuca
@@ -985,7 +986,7 @@ Date: 3/17/2012
 
 ; Querétaro         ; 0-0; Guadalajara
 
-; Cruz Azul         ; 0-1; Santos
+; Cruz Azul         ; 0-1; Santos Laguna
 ;  Carlos Darwin Quintero 42
 
 ; Pachuca           ; 3-2; Atlante
@@ -1024,7 +1025,7 @@ Date: 3/24/2012
 ; Monterrey         ; 4-0; Estudiantes
   Humberto Andrés Suazo 1, César Delgado 13, Ángel Eduardo Reyna (pk) 65,    Aldo de Nigris 68;
 
-; Santos            ; 2-0; Querétaro
+; Santos Laguna            ; 2-0; Querétaro
   Juan Pablo Rodríguez (pk) 28, Hérculez Gómez 74;
 
 ; Guadalajara       ; 2-0; Toluca
@@ -1068,7 +1069,7 @@ Date: 3/31/2012
 
 Date: 4/1/2012
 
-; Toluca            ; 1-3; Santos
+; Toluca            ; 1-3; Santos Laguna
   Diego de la Torre 66; Oribe Peralta 19, Christian Suárez 32, Carlos Darwin Quintero 47
 
 ; América           ; 2-3; Monterrey
@@ -1087,7 +1088,7 @@ Date: 4/7/2012
 ; San Luis          ; 2-3; Jaguares
   Alfredo David Moreno (pk) 30, Alfredo David Moreno (pk) 77; Daniel Alcántar (og) 3, Edgar Andrade 57,    Luis Gabriel Rey 83
 
-; Santos            ; 1-1; Estudiantes
+; Santos Laguna            ; 1-1; Estudiantes
   Carlos Darwin Quintero 69; Fredy José Bareiro 86
 
 ; Tijuana           ; 2-1; Atlante
@@ -1120,7 +1121,7 @@ Date: 4/13/2012
 
 Date: 4/14/2012
 
-; América           ; 3-1; Santos
+; América           ; 3-1; Santos Laguna
   Christian Bermúdez 37, Christian Benítez 70, Vicente Matías Vuoso 77; Carlos Ochoa 44
 
 ; Querétaro         ; 2-2; San Luis
@@ -1160,11 +1161,11 @@ Date: 4/21/2012
 ; Querétaro         ; 2-2; Toluca
   José Israel Martínez 29, Mitchel Oviedo 33; Iván Alonso 54, Ivan Alonso 60
 
-; Santos            ; 3-0; Tigres
+; Santos Laguna            ; 3-0; Tigres
   Rodolfo Salinas 20, Carlos Darwin Quintero 23, Juan Pablo Rodríguez (pk) 66;
 
 ; Guadalajara       ; 0-1; Atlas
-;  Flavio Jesús Santos 48
+;  Flavio Jesús Santos Laguna 48
 
 ; Monterrey         ; 1-1; Pachuca
   Humberto Andrés Suazo 90+3; Daniel Arreola 14
@@ -1194,7 +1195,7 @@ Date: 4/28/2012
 ; Tigres            ; 1-2; Puebla
   Lucas Lobos 32; Luis Javier García 83, Aarón Padilla 87
 
-; Atlas             ; 1-3; Santos
+; Atlas             ; 1-3; Santos Laguna
   Leandro Cufré (pk) 20; Oribe Peralta 1, Oribe Peralta 49, Carlos Darwin Quintero 4
 
 ; Atlante           ; 0-3; Monterrey
@@ -1203,7 +1204,7 @@ Date: 4/28/2012
 
 Date: 4/29/2012
 
-; Toluca            ; 2-1; Santos
+; Toluca            ; 2-1; Santos Laguna
   Iván Alonso 25, Ivan Alonso 66; Facundo Abel Pereyra 57
 
 ; Tijuana           ; 1-1; Pumas

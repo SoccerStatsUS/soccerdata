@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesm/mex07.html
 Competition: Liga MX
+home-first
 
 Season: 2006 Apertura 
 
@@ -45,7 +46,7 @@ Date: 8/5/2006
 ; Veracruz   ; 3-0; Querétaro
   Tressor Moreno 65, Tressor Moreno 79, Luis Alonso Sandoval (pk) 72;
 
-; Santos     ; 2-2; Monterrey
+; Santos Laguna     ; 2-2; Monterrey
   Rodrigo Ruiz 26, Walter Jiménez 40; Felipe Baloy 7,    Carlos Ochoa 57
 
 ; Atlas      ; 1-0; Pumas
@@ -76,7 +77,7 @@ Date: 8/12/2006
 ; Querétaro  ; 1-2; Jaguares
   Emilio Mora 40; Oscar Emilio Rojas 33, Leonardo Medina 45
 
-; Guadalajara; 3-1; Santos
+; Guadalajara; 3-1; Santos Laguna
   Omar Bravo 32, Omar Bravo 65, Sergio Santana 64; Rodrigo Ruiz 54
 
 ; Morelia    ; 1-0; San Luis
@@ -117,7 +118,7 @@ Date: 8/19/2006
 ; Atlas      ; 2-0; América
   Andrés Guardado 25, Andres Guardado 33;
 
-; Santos     ; 2-2; Necaxa
+; Santos Laguna     ; 2-2; Necaxa
   Elgabry Rangel 50, José Antonio Olvera 82; Kléber Boas 71, Kleber Boas 85
 
 Date: 8/20/2006
@@ -131,7 +132,7 @@ Date: 8/20/2006
 Round: 4
 Date: 8/26/2006
 
-; Querétaro  ; 2-1; Santos
+; Querétaro  ; 2-1; Santos Laguna
   Mauro Gerk 42, Margarito González 93; Rodrigo Ruiz 80
 
 ; San Luis   ; 2-0; Tigres
@@ -187,7 +188,7 @@ Date: 8/30/2006
 
 Date: 8/31/2006
 
-; Santos     ; 1-1; Pumas
+; Santos Laguna     ; 1-1; Pumas
   Rodrigo Ruiz 12; Fernando Morales 83
 
 Round: 6
@@ -216,7 +217,7 @@ Date: 9/3/2006
 ; Pumas      ; 1-3; Pachuca
   José Luis López 67; Damián Ariel Álvarez 42,   Aquivaldo Mosquera 54, Juan Carlos Cacho 77
 
-; Tecos      ; 4-2; Santos
+; Tecos      ; 4-2; Santos Laguna
   Hugo Droguett 27, Francisco Bravo 37, Francisco Bravo 57, Rafael Medina 63;   Walter Jiménez 6, Rodrigo Ruiz (pk) 45
  
 ; América    ; 1-1; Toluca
@@ -251,7 +252,7 @@ Date: 9/10/2006
 ; Toluca     ; 2-1; Morelia
   Bruno Marioni 25, Antonio Naelson 39; Mariano Trujillo (pk) 76
 
-; Santos     ; 0-1; América
+; Santos Laguna     ; 0-1; América
 ;  Salvador Cabañas 33
 
 Round: 8 
@@ -280,7 +281,7 @@ Date: 9/13/2006
 ; Querétaro  ; 1-1; Guadalajara
   Jorge Francisco Almirón 80; Omar Bravo 55
 
-; Morelia    ; 3-2; Santos 
+; Morelia    ; 3-2; Santos Laguna 
   Fernando Arce 21, José Luis Villanueva 44,    Jorge Alberto Campos (og) 59; Eliomar Marcón 40, Eliomar Marcon 87
 
 Round: 9
@@ -311,7 +312,7 @@ Date: 9/16/2006
 
 Date: 9/17/2006
 
-; Santos     ; 0-0; San Luis
+; Santos Laguna     ; 0-0; San Luis
 
 Round: 10
 Date: 9/23/2006
@@ -325,7 +326,7 @@ Date: 9/23/2006
 ; Morelia    ; 4-4; Cruz Azul
   Luis Gabriel Rey 1, Fernando Arce 15, José Luis Villanueva 19, Jose Luis Villanueva 38;    Miguel Sabah 3, Miguel Sabah 14, Miguel Sabah 49, Salvador Carmona 7
 
-; Tigres     ; 2-2; Santos
+; Tigres     ; 2-2; Santos Laguna
   Jaime Lozano 29, Sebastián González (pk) 36; Francisco Javier Torres 41,   Francisco Gabriel de Anda 87
 
 ; Querétaro  ; 1-2; Atlante
@@ -373,7 +374,7 @@ Date: 10/1/2006
 ; Toluca     ; 2-3; Veracruz
   Carlos Adrián Morales (pk) 36, Miguel Almazán 54; Tressor Moreno 10,    Braulio Luna 23, Héctor Raúl Mancilla 68
 
-; Santos     ; 1-1; Atlas
+; Santos Laguna     ; 1-1; Atlas
   Elgabry Rangel 1; Manuel Pérez 23
 
 Round: 12
@@ -390,7 +391,7 @@ Date: 10/7/2006
 ; San Luis   ; 1-0; Monterrey
   Sebastiao Pereira 26;
 
-; Veracruz   ; 5-1; Santos
+; Veracruz   ; 5-1; Santos Laguna
   Héctor Raúl Mancilla 27, Tressor Moreno (pk) 53, Luis Falcón 70,    Martín Arzuaga 87, Martin Arzuaga 91; Oribe Peralta 74
 
 ; Morelia    ; 3-2; Guadalajara
@@ -440,7 +441,7 @@ Date: 10/15/2006
 ; Pumas      ; 2-0; Tecos
   Ignacio Scocco (pk) 58, Ariel López 80;
 
-; Santos     ; 0-0; Jaguares
+; Santos Laguna     ; 0-0; Jaguares
 
 Date: 11/8/2006
 
@@ -473,7 +474,7 @@ Date: 10/21/2006
 
 Date: 10/22/2006
 
-; Toluca     ; 1-0; Santos
+; Toluca     ; 1-0; Santos Laguna
   Josué Castillejos 83;
 
 ; Jaguares   ; 0-1; Pachuca
@@ -491,7 +492,7 @@ Date: 10/28/2006
 ; Querétaro  ; 2-2; San Luis
   Mauro Gerk 78, Mauro Gerk 89; Marcelo Guerrero 42, Reinaldo Navia 53
 
-; Atlante    ; 2-3; Santos
+; Atlante    ; 2-3; Santos Laguna
   Jesús Olalde 88, Horacio Cervantes 90; Rafael Figueroa 38,    Oribe Peralta 68, Oribe Peralta 91
 
 ; Cruz Azul  ; 1-0; Jaguares
@@ -541,7 +542,7 @@ Date: 11/5/2006
 ; Toluca     ; 1-1; Cruz Azul
   Erik Espinosa 47; César Delgado 65
 
-; Santos     ; 1-1; Pachuca
+; Santos Laguna     ; 1-1; Pachuca
   Elgabry Rangel 75; Juan Carlos Cacho 49
 
 Round: 17
@@ -550,7 +551,7 @@ Date: 11/11/2006
 ; Querétaro  ; 1-1; Atlas
   Mauro Gerk 64; Rafael Murguía 86
 
-; Cruz Azul  ; 1-0; Santos
+; Cruz Azul  ; 1-0; Santos Laguna
   César Delgado 50;
 
 ; Monterrey  ; 2-1; Toluca
@@ -638,7 +639,7 @@ Date: 1/20/2007
 
 ; Querétaro  ; 0-0; Veracruz
 
-; Monterrey  ; 1-0; Santos 
+; Monterrey  ; 1-0; Santos Laguna 
   Santiago Banos 90;
 
 ; Cruz Azul  ; 3-2; Pachuca
@@ -689,7 +690,7 @@ Date: 1/28/2007
 ; Toluca     ; 1-1; Necaxa
   Sergio Ponce 83; Kleber Boas 57
 
-; Santos     ; 2-3; Guadalajara 
+; Santos Laguna     ; 2-3; Guadalajara 
   Daniel Ludueña 86, Daniel Luduena 88; Alberto Medina 6, Alberto Medina 82, Omar Bravo 68
 
 Round: 3
@@ -708,7 +709,7 @@ Date: 2/3/2007
 ; Guadalajara; 0-1; Pachuca
 ;  Luis Angel Landin 90+2
 
-; Necaxa     ; 1-0; Santos 
+; Necaxa     ; 1-0; Santos Laguna 
   Gerardo Galindo 32;
 
 Date: 2/4/2007
@@ -751,7 +752,7 @@ Date: 2/11/2007
 ; Toluca     ; 2-2; Pumas
   Paulo da Silva 53, Vicente Sanchez 81; Francisco Palencia 25,   Ariel Lopez 64
 
-; Santos     ; 0-0; Querétaro
+; Santos Laguna     ; 0-0; Querétaro
 
 Round: 5 
 Date: 2/14/2007
@@ -763,7 +764,7 @@ Date: 2/14/2007
 
 ; Querétaro  ; 0-0; Pachuca
 
-; Pumas      ; 2-1; Santos
+; Pumas      ; 2-1; Santos Laguna
   Jose Luis Lopez 32, Rafael Alejandro Figueroa (og) 84; Juan Pablo Rodriguez 27
 
 ; San Luis   ; 1-0; Atlas
@@ -810,7 +811,7 @@ Date: 2/17/2007
 
 Date: 2/18/2007
 
-; Santos     ; 1-1; Tecos
+; Santos Laguna     ; 1-1; Tecos
   Juan Pablo Rodriguez 48; Emmanuel Villa 66
 
 Round: 7
@@ -839,7 +840,7 @@ Date: 2/25/2007
 ; Pumas      ; 0-1; Cruz Azul
 ;  Miguel Sabah 15
 
-; América    ; 2-0; Santos 
+; América    ; 2-0; Santos Laguna 
   German Villa 27, Cuauhtemoc Blanco 90+3;
 
 ; Tecos      ; 3-4; Pachuca
@@ -871,7 +872,7 @@ Date: 3/4/2007
 ; Toluca     ; 1-1; San Luis
   Vicente Sánchez 7; Irenio Soares 22
 
-; Santos     ; 2-1; Morelia
+; Santos Laguna     ; 2-1; Morelia
   Eliomar Marcón 71, Agustín Herrera 84; Fernando Arce 29
 
 ; Pachuca    ; 1-0; América
@@ -889,7 +890,7 @@ Date: 3/10/2007
 ; Veracruz   ; 0-1; Atlante
 ;  Christian Bermudez 47
 
-; San Luis   ; 2-3; Santos 
+; San Luis   ; 2-3; Santos Laguna 
   Angel Reyna 40, Sebastian Abreu 55; Daniel Luduena 8,   Walter Jimenez 24, Fernando Ortiz 70
 
 ; Tigres     ; 0-2; Toluca
@@ -919,7 +920,7 @@ Date: 3/14/2007
 ; Atlante    ; 3-1; Querétaro
   David Oteo 13, Gustavo Biscayzacu 39, Francisco Mendoza 72;   Marcos Antonio Garcia 18
  
-; Santos     ; 0-1; Tigres
+; Santos Laguna     ; 0-1; Tigres
 ;  John Javier Restrepo 9
 
 ; Monterrey  ; 1-0; América
@@ -960,7 +961,7 @@ Date: 3/17/2007
 ; Morelia    ; 1-0; Monterrey
   Hector Altamirano 88;
 
-; Atlas      ; 3-3; Santos
+; Atlas      ; 3-3; Santos Laguna
   Manuel Perez 9, Nicolas Olivera 66, Jair Garcia 79;   Hugo Ayala (og) 4, Denis Caniza (og) 45, Juan Pablo Rodriguez 83
 
 Date: 3/18/2007
@@ -1009,7 +1010,7 @@ Date: 3/25/2007
 
 ; Toluca     ; 0-0; Jaguares
 
-; Santos     ; 1-0; Veracruz
+; Santos Laguna     ; 1-0; Veracruz
   Fernando Ortiz 40;
 
 Round: 13
@@ -1021,7 +1022,7 @@ Date: 3/31/2007
 ; Tigres     ; 3-3; Monterrey
   Jaime Lozano 38, Jaime Lozano 45, Juan Pablo Garcia 75; Jesus Arellano 33,   Leandro Gracian 42, Walter Ervitti 64
 
-; Jaguares   ; 1-1; Santos
+; Jaguares   ; 1-1; Santos Laguna
   Oscar Rojas 8; Vicente Matias Vuoso 51
 
 ; San Luis   ; 1-0; Guadalajara
@@ -1074,7 +1075,7 @@ Date: 4/8/2007
 ; Pumas      ; 1-1; América
   Darío Verón 20; Germán Villa 54
 
-; Santos     ; 2-1; Toluca
+; Santos Laguna     ; 2-1; Toluca
   Emilio Hassam Viades (og) 17, Walter Jiménez 83; Sergio Ponce 65
  
 Round: 15
@@ -1102,7 +1103,7 @@ Date: 4/15/2007
 ; América    ; 2-1; Tecos
   Ismael Rodríguez 10, Raúl Alvin Mendoza 61; Nelson Pinto 41
  
-; Santos     ; 3-0; Atlante
+; Santos Laguna     ; 3-0; Atlante
   Walter Jiménez 55, Daniel Ludueña 64, Daniel Luduena (pk) 68;
 
 ; Toluca     ; 0-2; Pachuca
@@ -1119,7 +1120,7 @@ Date: 4/21/2007
 ; Guadalajara; 4-0; Veracruz
   Omar Bravo 14, Omar Bravo 53, Xavier Iván Báez 87, Adolfo Bautista 90;
 
-; Pachuca    ; 1-0; Santos
+; Pachuca    ; 1-0; Santos Laguna
   Aquivaldo Mosquera 23;
 
 ; Querétaro  ; 2-1; Tigres
@@ -1165,7 +1166,7 @@ Date: 4/29/2007
 ; Toluca     ; 1-0; Monterrey
   Iván Castillejos 30;
 
-; Santos     ; 2-0; Cruz Azul
+; Santos Laguna     ; 2-0; Cruz Azul
   Oribe Peralta 65, Agustín Herrera 90;
 
 ; Atlas      ; 2-0; Querétaro

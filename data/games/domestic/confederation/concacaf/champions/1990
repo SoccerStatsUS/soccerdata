@@ -1,22 +1,23 @@
 *Competition: CONCACAF Champions' Cup
 Competition: CONCACAF Champions League
 BlockSource: http://www.rsssf.com/tablesc/cacups90.html
+home-first
 
 Season: 1990
 
-Group: Northern Section
-Round: Round 1 
+Group: Northern
+Round: 1 
 
 4/28/1990; St. Petersburg Kickers; 2-0; New York Greek-American
 5/13/1990; St. Petersburg Kickers; 0-1; New York Greek-American
 
-Round: Round 2
+Round: 2
 
 6/10/1990; St. Petersburg Kickers; 0-1; Club America; Tampa, Florida
 ; Luis Roberto Alves 27
 
-Group: Central Section
-Round: Round 1
+Group: Central
+Round: 1
 
 8/21/1990; Real Espana; 5-1; Diriangen
 
@@ -41,7 +42,7 @@ Round: Round 1
 * (Jul 15 & 19)
 * Juventus                 Nic  Olimpia                  Hon      o/w       xx both matches awarded 2-0 to Olimpia by forfeit Juventus; CONCACAF site  lists Juventus' country as Belize but given the participation of two other clubs from Belize that appears out of the question
 
-Round: Round 2
+Round: 2
 
 4/13/1990; Alianza FC; 0-0; Luis Angel Firpo
 
@@ -55,7 +56,7 @@ Round: Round 2
 
 9/2/1990; CD Olimpia; 2-0; Suchitepequez; Tegucigalpa
 
-Round: Round 3
+Round: 3
 
 9/9/1990; Luis Angel Firpo; 3-0; Real Espana
 
@@ -69,14 +70,14 @@ Round: Round 3
 
 10/14/1990; CD Olimpia; 1-0; Real Espana
 
-Group: Caribbean Section
+Group: Caribbean
 Round: Preliminary Round 
 
 3/3/1990; Zenith (Guadeloupe); 1-1; Gauloise (Basse-Terre)
 
 3/10/1990; Zenith (Guadeloupe); 2-0; Gauloise (Basse-Terre)
 
-Round: Round 1
+Round: 1
 
 3/31/1990; Paradise SC; 2-0; Zenith (Guadeloupe)
 
@@ -103,7 +104,7 @@ Notes: results not known, Excelsior qualified
 
 5/25/1990; Pinar del Rio; 1-0; Deportivo Central
 
-Round: Round 2
+Round: 2
 
 7/16/1990; Paradise SC; 0-2; Transvaal
 
@@ -121,6 +122,7 @@ Notes: 2nd leg apparently not played
 * NB: further results not known, but Pinar del Rio qualified as winners of the  Caribbean section
 
 Round: Semifinal 
+Group: 
 
 11/12/1990; Club America; 3-0; CD Olimpia; San Jose, California
 Jose Enrique Rodon 54, Luis Roberto Alves 77, Marco Antonio Figueroa 79;
@@ -146,8 +148,8 @@ Pinar del Rio: Martinez, Cata, Osmin Hernandez, R.Torres (C.Torres 74), Sainz, D
 Season: 1991
 BlockSource: http://www.rsssf.com/tablesc/cacups91.html
 
-Group: Northern Zone
-Round: Round 1
+Group: Northern
+Round: 1
 
 4/13/1991; Dandy Town Hornets; 3-1; Brooklyn Italians
 
@@ -162,7 +164,7 @@ Notes: Sheridan Ming scored after 8 seconds.
 * Puebla                   Mex                                 bye
 * Universidad Guadalajara  Mex                                 bye
 
-Round: Round 2 
+Round: 2 
 
 6/1/1991; Puebla; W-L; Brooklyn Italians
 Forfeit
@@ -172,12 +174,12 @@ Notes: Brooklyn Italians withdrew
 Forfeit
 Notes: Pembroke-Hmailton withdrew.
 
-Round: Round 3
+Round: 3
 
 9/8/1991; Puebla; 2-0; Universidad Guadalajara; Puebla
 Juan Carlos Chavez 30, Carlos Poblete 69; 
 
-Group: Central Zone
+Group: Central
 
 4/7/1991; Tauro FC; 5-0; America (Nicaragua); ; Jose Vargas
 Samaniego, Samaniego, Maldonado, Maldonado, Maldonado; 
@@ -217,7 +219,7 @@ Donis, Ochoa; Eduardo "Tanque" Ramirez, Eduardo "Tanque" Ramirez, Raul Toro, Rau
 
 5/8/1991; Municipal; 1-1; Alianza
 
-Round: Round 2
+Round: 2
 
 5/22/1991; Saprissa; 3-1; Tauro FC
 Quesada, Evaristo Coronado Salas, Alexandre Borges Guimarães (pk); Samaniego
@@ -239,7 +241,7 @@ William Chachagua; Hernandez
 
 * Alajuelense              CRi  bye
 
-Round: Round 3
+Round: 3
 
 7/21/1991; Luis Angel Firpo; 1-1; Saprissa
 Diaz Arce 80; Adonis Hilario Vieira
@@ -252,7 +254,7 @@ Castillo, Aguirre;
 
 7/25/1991; Real Espana; 1-0; Alajuelense
 
-Round: Round 4
+Round: 4
 
 8/18/1991; Saprissa; 1-2; Real Espana
 Adonis Hilario Vieira 1; Gonzalez, Anariba
@@ -260,8 +262,8 @@ Adonis Hilario Vieira 1; Gonzalez, Anariba
 8/25/1991; Saprissa; 0-2; Real Espana; ; Jose C. Ortiz; 20000
 ; Ortega, Aguirre
 
-Group: Caribbean Zone
-Round: Round 1
+Group: Caribbean
+Round: 1
 
 3/20/1991; Solidarite Scolaire; 0-2; US Marinoise
 
@@ -298,7 +300,7 @@ Round: Round 1
 
 * Etoile de Morne-à-l'Eau  Gdl  bye
 
-Round: Round 2
+Round: 2
 
 5/19/1991; SV Transvaal; 0-2; Police FC
 
@@ -318,7 +320,7 @@ Round: Round 2
 
 * Olympique du Marin       Mtq  bye
 
-Round: Round 3
+Round: 3
 
 6/17/1991; Defence Force; 1-0; Police FC
 
@@ -330,7 +332,7 @@ Round: Round 3
 
 *US Marinoise             Mtq  bye
 
-Round: Round 4 
+Round: 4 
 
 7/14/1991; US Marinoise; 3-2; Police FC
 
@@ -338,7 +340,7 @@ Round: Round 4
 
 * Olympique du Marin       Mtq  bye
 
-Round: Round 5 
+Round: 5 
 
 7/28/1991; Olympique du Marin; 2-1; Police FC
 
@@ -346,6 +348,7 @@ Round: Round 5
 * CONCACAF site list 1st leg as 3-2
 
 Round: Semifinals
+Group: 
 
 9/8/1991; Real Espana; 0-0; Police FC; Estadio Francisco Morazan
 
@@ -377,8 +380,8 @@ BlockSource: http://www.rsssf.com/tablesc/cacups92.html
 
 
 * North/Central Zone
-Group: Group 1
-Round: Round 1
+Group: 1
+Round: 1
 
 2/19/1992; Comunicaciones; 1-2; Motagua
 Contreras; Seminario, F.Perez
@@ -399,7 +402,7 @@ Julio Rodas; Austin Berry, Richard Smith
 * x 2nd leg in Los Angeles, USA
 * WHICH GAME?
 
-Round: Round 2
+Round: 2
 
 4/25/1992; Alajuelense; 3-1; Motagua
 
@@ -407,15 +410,15 @@ Round: Round 2
 
 * Luis Angel Firpo         ElS  bye
 
-Round: Round 3
+Round: 3
 
 6/10/1992; Luis Angel Firpo; 0-1; Alajuelense
 
 6/24/1992; Luis Angel Firpo; 2-1; Alajuelense
 * 3-5p
 
-Group: Group 2
-Round: Round 1
+Group: 2
+Round: 1
 
 3/15/1992; La Victoria (Belize); 1-0; Diriangen
 
@@ -451,7 +454,7 @@ Piggott (pk), Own Goal (Molina);
 
 3/29/1992; Tauro FC; 5-1; Real Esteli; Panama
 
-Round: Round 2
+Round: 2
 
 4/11/1992; Dallas Rockets; 4-0; Hamilton International
 
@@ -468,7 +471,7 @@ Source: http://a-leaguearchive.tripod.com/1992/results92.htm#cup
 * Tauro FC                 Pan  bye
 * x other sources have 2nd leg as 2-1 to Hamilton
 
-Round: Round 3
+Round: 3
 
 5/16/1992; Dallas Rockets; 3-1; Tauro FC
 
@@ -482,7 +485,7 @@ Masters, Doyle, Leonetti;
 
 * America                  Mex  bye
 
-Round: Round 4
+Round: 4
 
 8/2/1992; Dallas Rockets; 1-2; Club America
 Salgado; Luis Roberto Alves, Hugo Sanchez
@@ -497,15 +500,15 @@ Eduardo Cordova 47, Hugo Sanchez 76, Hugo Sanchez (pk) 78; Peter Isaacs 53
 8/16/1992; Club America; 1-2; San Francisco Bay Blackhawks
 Hugo Sanchez (pk) 24; Joey Leonetti 5, Tim Martin 39
 
-Group: Caribbean Zone
-Group: Group 1
+Group: Caribbean
+Group: 1
 Round: Preliminary Round 
 
 3/1/1992; S. Cristobal Bancredicard; 2-1; Unique FC
 
 3/15/1992; S. Cristobal Bancredicard; 3-3; Unique FC
 
-Round: Round 1
+Round: 1
 
 2/1/1992; SV Racing Club Aruba; 3-2; Sithoc
 
@@ -523,7 +526,7 @@ Round: Round 1
 
 6/10/1992; S. Cristobal Bancredicard; 0-1; Solidarite Scolaire
 
-Round: Round 2
+Round: 2
 
 5/31/1992; Sithoc; 2-1; SV Transvaal
 
@@ -534,20 +537,20 @@ Round: Round 2
 
 7/10/1992; L'Aiglon du Lamentin; 1-1; Solidarite Scolair
 
-Round: Round 3 
+Round: 3 
 
 8/22/1992; Sithoc; 2-2; L'Aiglon du Lamentin
 8/29/1992; Sithoc; 1-1; L'Aiglon du Lamentin
 * 2-4p
 
-Group: Group 2
+Group: 2
 Round: Preliminary Round
 
 ; Rockmaster FC; W-L; Guayama
 Forfeit
 Notes: Guayama withdrew before 1st leg
 
-Round: Round 1
+Round: 1
 
 3/11/1992; ASC Geldar; 1-0; Robin Hood
 
@@ -565,7 +568,7 @@ Round: Round 1
 *Etoile de Morne-à-l'Eau  Gdl  Scholars FC              Cay      w/o       x
 * x Scholars FC withdrew before 1st leg
 
-Round: Round 2
+Round: 2
 
 6/1/1992; Robin Hood; 2-0; Mayaro United
 
@@ -575,13 +578,14 @@ Round: Round 2
 
 6/30/1992; US Robert; 0-1; Etoile de Morne-a-l'Eau
 
-Round: Round 3 
+Round: 3 
 
 8/29/1992; Etoile de Morne-a-l'Eau; 3-1; Robin Hood
 
 9/6/1992; Etoile de Morne-a-l'Eau; 0-3; Robin Hood
 
 Round: Semifinals
+Group: 
 
 10/4/1992; Club America; 7-0; Robin Hood; Estadio Corregidora, Queretaro
 Alejandro Dominguez 7, Luis Roberto Alves 29, Gonzalo Farfan 35, German Martelotto 41, German Martelotto 82, Hugo Sanchez (pk) 46, Jose Enrique Rodon 88; 
@@ -625,7 +629,7 @@ Notes: Hercules withdrew.
 
 5/30/1993; Plaza Amador; 4-0; Juventus (Nicaragua); Panama
 
-Round: Round 1
+Round: 1
 
 6/23/1993; Comunicaciones; 2-1; Alajuelense
 
@@ -654,7 +658,7 @@ Roy Myers 33; Narciso Cuevas 75
 9/2/1993; Saprissa; 0-0; Puebla; 
 * 6-5p
 
-Round: Round 2 
+Round: 2 
 
 9/19/1993; Alajuelense; 0-0; Leon
 
@@ -669,7 +673,7 @@ Alexander Viquez; Milton Queiroz, Isaac Ayipei
 
 9/22/1993; Saprissa; 1-2; Luis Angel Firpo
 
-Group: Caribbean Zone
+Group: Caribbean
 Round: First Round
 
 3/14/1993; Zion Inter; L-W; Etoile de Morne-a-l'Eau
@@ -747,6 +751,7 @@ Round: Final
 6/16/1993; L'Aiglon du Lamentin; 0-3; Robin Hood
 
 Round: Final Tournament 
+Group: 
 
 12/1/1992; Saprissa; 2-2; Leon; Estadio Mateo Flores
 Oscar Ramirez 25, Enrique Diaz 46; Milton Queiroz (pk) 36, Milton Queiroz 60
@@ -785,14 +790,14 @@ Sergio Verdirame 18, Sergio Verdirame 63, Gerardo Jimenez 67, Luis Hernandez 73;
 Season: 1994
 BlockSource: http://www.rsssf.com/tablesc/cacups94.html
 
-Group: Group 1
+Group: 1
 * North/Central Zone
 
 12/12/1993; Acros; 1-3; Comunicaciones
 
 12/22/1993; Acros; 1-2; Comunicaciones
 
-Round: Round 1
+Round: 1
 
 12/1/1993; Petrotela; 4-1; Monterrey
 Alberto Saavedra 9, Alberto Saavedra 44, Luis Enrique Calix 46, Alexis Ivan Duarte 80; Mario Jauregui 39
@@ -805,7 +810,7 @@ Alexis Ivan Duarte 27, Luis Salas 41; Luis Hernandez 18, Jose Nieves Castro 21, 
 2/2/1993;  Comunicaciones; 0-4; Cartagines
 ; Francisco Acuna Francisco Acuna, Bernal Mullins, Bernal Mullins
 
-Round: Round 2 
+Round: 2 
 
 3/16/1993; Cartagines; 1-0; Petrotela
 Cristian Mena 16; 
@@ -814,7 +819,7 @@ Cristian Mena 16;
 Cristian Mena 21; Alexis Ivan Duarte 27, Alex Bahr 68
 * 3-2pen
 
-Group: Group 2
+Group: 2
 Round: Preliminary Round 
 
 12/15/1993; Aurora; 2-2; La Victoria (Belize)
@@ -823,7 +828,7 @@ Edwin Westphal, Washington Castagnero (pk); Edmund Pandy, Norman Pipersburg
 12/19/1993; Aurora; 3-1; La Victoria (Belize)
 ; Edmund Pandy
 
-Round: Round 1
+Round: 1
 
 1/16/1993; Aurora; 4-0; Juventus (Nicaragua)
 Martin Machon, Martin Machon, Martin Machon;
@@ -842,14 +847,14 @@ Rony Archilla 55; Oscar Ulloa 78
 4/10/1993; Aurora; 1-2 (aet); Alianza
 Edwin Westphal 30; Oscar Ulloa 56, Sergio Bufarini 119
 
-Group: Group 3
+Group: 3
 
 12/8/1993; Diriangen; 0-5; Herediano
 
 12/15/1993; Diriangen; 2-4; Herediano
 Jairo Aguirre, Jairo Aguirre; 
 
-Round: Round 1
+Round: 1
 
 12/5/1993; Luis Angel Firpo; 1-4; Atlante
 Raul Toro 24; Luis M. Salvador 15, Luis M. Salvador 71, Gaston Obledo 44, Roberto Andrade 82
@@ -857,11 +862,11 @@ Raul Toro 24; Luis M. Salvador 15, Luis M. Salvador 71, Gaston Obledo 44, Robert
 12/8/1993; Luis Angel Firpo; 1-2; Atlante; Hermosillo, Sonora
 Own Goal (Miguel Herrera) 35og; Miguel Herrera 14, Rene Isidoro Garcia 50
 
-1/30/1994; Olimpia; 0-0; Herediano
+1/30/1994; CD Olimpia; 0-0; Herediano
 
-2/12/1994; Olimpia; 0-2; Herediano
+2/12/1994; CD Olimpia; 0-2; Herediano
 
-Round: Round 2 
+Round: 2 
 
 3/22/1994; Herediano; 3-3; Atlante
 Juan Carlos Chavez 15, Roger Gomez 21, Carlos Javier Angulo 89; Luis Miguel Salvador 10, Luis Miguel Salvador 33, Luis Miguel Salvador 34
@@ -869,7 +874,7 @@ Juan Carlos Chavez 15, Roger Gomez 21, Carlos Javier Angulo 89; Luis Miguel Salv
 3/31/1994; Herediano; 1-3; Atlante
 Rodinei Martins 78; Luis Miguel Salvador 25, Gaston Obledo 59, Rene Isidoro Garcia 73
 
-Group: Caribbean Zone
+Group: Caribbean
 Round: Preliminary Round
 
 12/6/1993; SV Racing Club Aruba; 2-1; Robin Hood
@@ -882,7 +887,7 @@ Raymond Davelaar, Hart Ludwig;
 12/19/1993; SV River Plate; 0-2; Leo Victor  
 ; Harvey Limon, Ruben Tobi
 
-Round: Round 1
+Round: 1
 
 12/8/1993; Club Franciscain; 4-1; Red Star (Pointe-a-Pitre)
 
@@ -921,7 +926,7 @@ Gerson Klinker, Steven Rigters; Ramon Kempenaar, Ramon Kempenaar , Etienne Remak
 * y both legs on Dutch Antilles
 * z Parham withdrew before 2nd leg, awarded 0-2 against them
 
-Round: Round 2
+Round: 2
 
 2/2/1993; Sithoc; 0-2; Suzuki Newtown United; Dutch Antilles
 
@@ -941,7 +946,7 @@ Desir Alcindor, Desir Alcindor,  Jean Michel Modestin, Jean Michel Modestin;
 5/11/1993; FC AK Regina; 1-3; US Robert
 * ? both legs on Dutch Antilles
 
-Round: Round 3
+Round: 3
 
 4/27/1993; Club Franciscain; 2-1; Jong Colombia
 
@@ -951,7 +956,7 @@ Round: Round 3
 
 6/10/1993; US Robert; 0-0; Suzuki Newtown United; Martinique
 
-Round: Round 4 
+Round: 4 
 
 9/7/1993; US Robert; 3-0; Jong Colombia
 
@@ -959,6 +964,7 @@ Round: Round 4
 
 Round: Final Tournament 
 Round: Semifinals 
+Group: 
 
 2/3/1995; Cartagines; 0-0; US Robert; Spartan Stadium
 * 5-4p
@@ -980,9 +986,9 @@ Heriberto Quiros 20, Heriberto Quiros 32, Marco Tulio Hidalgo (pk) 69; Jose Enri
 Season: 1995
 BlockSource: http://www.rsssf.com/tablesc/cacups95.html
 
-Group: North/Central Zone
-Group: Group 1
-Round: Round 1
+Group: North/Central
+Group: 1
+Round: 1
 
 3/19/1995; Acros Crystal; 2-1; Alajuelense
 Moss 44, Usher 65; Juan Carlos Arguedas 54
@@ -1003,7 +1009,7 @@ Hector Perez Hernandez 50; Erick Ortega 37
 Ivan Ramirez 25; Wilfredo Mojica 75, Gilberto Aguilar 96
    
 
-Round: Round 2 
+Round: 2 
 
 6/4/1995; Projusa (Veraguas); 0-5; UAG
 ; Agustin Garcia 29, Javier Hernandez 42, Osmar Donizette 57, Mauricio Gallaga 62, Mauricio Gallaga 80
@@ -1013,7 +1019,7 @@ Round: Round 2
 
 * Alajuelense              CRi  bye
 
-Round: Round 3 
+Round: 3 
 
 8/24/1995; UAG; 2-1; Alajuelense
 Armando Gonzalez 7, Agustin Garcia 88; Froylan Ledesma 71
@@ -1021,8 +1027,8 @@ Armando Gonzalez 7, Agustin Garcia 88; Froylan Ledesma 71
 9/3/1995; UAG; 1-3 (aet); Alajuelense
 Arturo Reyna 30; Bernard Mullins 60, Froylan Ledesma 70, Wilmer Lopez 104
 
-Group: Group 2
-Round: Round 1
+Group: 2
+Round: 1
 
 3/12/1995; Real Verdes; 0-3; Municipal
 ; Juan Jose Oficialdegui 71, Juan Carlos Plata 82, Gardiner 86
@@ -1042,7 +1048,7 @@ Raul Dolmo 5; Antonio Gonzalez 31
 5/3/1995; Real Espana; 2-6; Santos Laguna  
 Antonio Gonzalez 31, Juan Jose Balcazar 33, Juan Jose Balcazar 35, Richard Zambrano 51, Richard Zambrano (pk) 60, Rogelio Romero 89; Barahona 45, Bonilla (pk) 53
 
-Round: Round 2 
+Round: 2 
 
 7/22/1995; Deportivo FAS; 3-0; Santos Laguna
 Henbet Burgos 5, Hugo Perez 15, Fulgencio Deonel Bordon 88;
@@ -1051,7 +1057,7 @@ Henbet Burgos 5, Hugo Perez 15, Fulgencio Deonel Bordon 88;
 
 * Municipal                Gua  bye
 
-Round: Round 3 
+Round: 3 
 
 9/2/1995; Deportivo FAS; 2-2; Municipal
 Fulgencio Deonel Bordon, Hugo Perez; Edgar Everaldo Valencia, Longi
@@ -1059,8 +1065,8 @@ Fulgencio Deonel Bordon, Hugo Perez; Edgar Everaldo Valencia, Longi
 9/2/1995; Deportivo FAS; 0-2; Municipal
 ; Juan Carlos Plata, Juan Carlos Plata
 
-Group: Group 3
-Round: Round 1
+Group: 3
+Round: 1
 
 2/19/1995; Motagua; 0-1; Saprissa
 ; Rolando Fonseca Jimenez 22
@@ -1074,7 +1080,8 @@ Round: Round 1
 4/1/1995; Bautista (Nicaragua); 2-3; Alianza FC
 Cruz, Zambrano; Rene Duran, Melendez, Navarrete
 
-Round: Round 2
+Round: 2
+Group: 
 
 6/7/1995; Saprissa; 3-1; Alianza FC
 ; Rene Duran
@@ -1084,7 +1091,7 @@ Campos; Rene Duran
 
 * Caribbean Zone
 
-Round: Round 1
+Round: 1
 
 * SV Racing Club Aruba     Aru  Beacon                   Guy                x
 * x Beacon advanced; presumably RCA withdrew
@@ -1111,7 +1118,7 @@ Luis Mateo 75; Ricardeau Champagne 24
 ; David Valcourt 60
 *  2nd leg apparently not played
 
-Round: Round 2 
+Round: 2 
 
 * (May 20 & Jun 16)
 * Beacon                   Guy  L'Aiglon                 Mtq                x
@@ -1127,7 +1134,7 @@ Round: Round 2
 * AS Capoise               Hai  Topp XX                  Guy      o/w       z
 * z AS Capoise withdrew
 
-Round: Round 3
+Round: 3
 
 11/12/1995; Topp XX; 2-0; Beacon
 
@@ -1135,31 +1142,31 @@ Round: Round 3
 * 5-4p 
 * CS Moulien               Gdl  bye
 
-Round: Round 4
+Round: 4
 
 *  (Nov 23 & 26)
 * CS Moulien               Gdl  Beacon                   Guy      w/o       x
 * x Beacon withdrew, both legs awarded 2-0 to CS Moulien
 
 Round: Final Tournament
-*  (in San Jose)
+Group: 
 
-12/13/1995; Saprissa; 5-0; CS Moulien
+12/13/1995; Saprissa; 5-0; CS Moulien; San Jose, Costa Rica
 Ronald Gonzalez Brenes 26, Roy Anthony Myers Francis 39, Rolando Fonseca Jimenez 69, Gerald Drummond 78, Giancarlo Morera 81; 
 
-12/13/1995; Alajuelense; 2-3; Municipal
+12/13/1995; Alajuelense; 2-3; Municipal; San Jose, Costa Rica
 Ronald Gomez 28, Froylan Ledesma 32; Juan Manuel Funes 2, Juan Jose Oficialdegui 9, Edgar Everaldo Valencia 36
 
-12/15/1995; Alajuelense; 9-1; CS Moulien
+12/15/1995; Alajuelense; 9-1; CS Moulien; San Jose, Costa Rica
 Victor Badilla 5, Froylan Ledesma 19, Froylan Ledesma 35, Froylan Ledesma 62 Luis Marin 20, Mauricio Montero 38, Mauricio Montero 44, Bernal Mullins 47, Ronald Gomez 72; Oscar Eyobo-Makongo 56
 
-12/15/1995; Saprissa; 1-0; Municipal
+12/15/1995; Saprissa; 1-0; Municipal; San Jose, Costa Rica
 Javier Vicente Wanchope Watson 24; 
 
-12/17/1995; Alajuelense; 2-2; Saprissa
+12/17/1995; Alajuelense; 2-2; Saprissa; San Jose, Costa Rica
 Wilmer Lopez 34, Luis Diego Arnaez 53; Rolando Fonseca Jimenez 16, Rolando Fonseca Jimenez 20
 
-12/17/1995; Municipal; 10-0; CS Moulien
+12/17/1995; Municipal; 10-0; CS Moulien; San Jose, Costa Rica
 Juan Carlos Plata 8, Juan Carlos Plata 37, Juan Carlos Plata 51, Juan Carlos Plata 70, Juan Carlos Plata 72, Juan Carlos Plata 80 Sergio Ivaldi 12, Juan Manuel Funes 40, Juan Jose Oficialdegui 55, Roderico Mendez 65; 
 
 * Deportivo Saprissa 1995 winners of the Copa de Campeones y Subcampeones of CONCACAF.
@@ -1168,8 +1175,8 @@ Juan Carlos Plata 8, Juan Carlos Plata 37, Juan Carlos Plata 51, Juan Carlos Pla
 Season: 1996
 BlockSource: http://www.rsssf.com/tablesc/cacups96.htmll
 
-Group: Group 1
-Round: Round 1
+Group: 1
+Round: 1
 * North/Central Zone
 
 3/9/1996; Alajuelense; 4-2; Deportivo FAS
@@ -1190,7 +1197,7 @@ Abdul Chiari 74;
 
 * Cruz Azul                Mex                                 bye
 
-Round: Round 2 
+Round: 2 
 
 6/16/1996; Victoria; 1-0; Arabe Unido; Honduras
 
@@ -1199,7 +1206,7 @@ Round: Round 2
 * Alajuelense              CRi                                 bye
 * Cruz Azul                Mex                                 bye
 
-Round: Round 3 
+Round: 3 
 
 10/23/1996; Victoria; 1-0; Cruz Azul
 Renan Aguilera 32; 
@@ -1209,7 +1216,7 @@ Renan Aguilera 32;
 
 * Alajuelense              CRi                                 bye
 
-Round: Round 4
+Round: 4
 
 1/4/1997; Alajuelense; 0-2; Cruz Azul
 ; Carlos Hermosillo 5, Juan Reynoso 75
@@ -1217,8 +1224,8 @@ Round: Round 4
 1/8/1997; Alajuelense; 2-3; Cruz Azul
 Froylan Ledesma 66, Froylan Ledesma 73; Carlos Hermosillo 42,  Carlos Hermosillo 58, Sergio Verdirame 54
 
-Group: Group 2
-Round: Round 1 
+Group: 2
+Round: 1 
 
 3/17/1996; Saprissa; 4-0; CD Olimpia
 
@@ -1226,7 +1233,7 @@ Round: Round 1
 
 * Necaxa                   Mex                                 bye
 
-Round: Round 2 
+Round: 2 
 
 9/15/1996; Saprissa; 2-2; Necaxa
 Ronald Gonzalez 6, Ronald Gonzalez 79; Alex Aguinaga (pk) 10, Sergio Zarate 16
@@ -1234,8 +1241,8 @@ Ronald Gonzalez 6, Ronald Gonzalez 79; Alex Aguinaga (pk) 10, Sergio Zarate 16
 1/7/1997; Saprissa; 1-2; Necaxa; Queretaro
 Gerald Drummond 17; Sergio Zarate 48, Ricardo Pelaez 84
 
-Group: Group 3
-Round: Round 1
+Group: 3
+Round: 1
 
 3/10/1996; Comunciaciones; 4-0; Cosmos FC; Guatemala City
 
@@ -1249,7 +1256,7 @@ Molina 11, Lopez 29, Benzano 63; Prado 78
   
 * Juventus                 Blz  bye
 
-Round: Round 2 
+Round: 2 
 
 6/9/1996; Comunicaciones; 2-1; Sacachispas
 
@@ -1257,15 +1264,15 @@ Round: Round 2
 
 * Juventus                 Blz   bye
 
-Round: Round 3 
+Round: 3 
 
 8/18/1996; Juventus (Belize); 1-1; Comunicaciones
 
 8/25/1996; Juventus (Belize); 0-7; Comunicaciones
 Notes: other sources list 2nd leg as 0-8
 
-Group: Caribbean Zone
-Round: Round 1
+Group: Caribbean
+Round: 1
 
 ; SV Transvaal; W-L; Red Star (Pointe-a-Pitre)
 Forfeit
@@ -1277,13 +1284,14 @@ Notes: US Sinnamary withdrew after 1st leg
 6/23/1996; SV Prekash; np; US Sinnamary
 Notes: US Sinnamary withdrew after 1st leg
 
-Round: Round 2 
+Round: 2 
 
 9/25/1996; SV Transvaal; 0-0; SV Prekash
 
 10/8/1996; SV Transvaal; 1-0; SV Prekash
 
 Round: Playoff 
+Group: 
 
 6/17/1997; Seattle Sounders; 10-0; Transvaal; Seattle, WA
 Notes: played in one leg on artificial turf in Seattle
@@ -1329,7 +1337,7 @@ Season: 1997
 BlockSource: http://www.rsssf.com/tablesc/cacups97.html
 
 Round: Qualifying Rounds
-Group: Northern Zone
+Group: Northern
 
 * Guadalajara (Mexican summer champions 1996/97) bye to final round.
 * DC United (USA champions 1996) bye to final round.
@@ -1341,7 +1349,7 @@ Mauricio Cienfuegos (Cobi Jones) 64, Eduardo Hurtado (ua) 65, Martin Machon (Mau
 Los Angeles Galaxy: Jorge Campos, Danny Pena, Robin Fraser, Paul Caligiuri, Greg Vanney, Martin Machon, Guillermo Jara (Gerardo Laterza 85), Cobi Jones, Harut Karapetyan (Welton 76), Mauricio Cienfuegos, Eduardo Hurtado
 Source: MLS Lineup Database
 
-Group: Central Zone
+Group: Central
 Round: Preliminary Round 
 
 6/1/1997; Eurokickers; 4-2; Diriangen
@@ -1350,7 +1358,7 @@ Jose Ardines, Jose Ardines, Bowell (pk), Wilchard; Sergio Gago, Harry Cruz (pk)
 6/8/1997; Eurokickers; 1-4 (aet); Diriangen
 Jose Ardines; Sergio Gago, Bermudez, Gonzalez, Gonzalez
 
-Round: Round 1
+Round: 1
 
 5/3/1997; Cartagines; 5-0; Tauro FC
 Jewisson Bennett, Jewisson Bennett, Heriberto Quiros, Heriberto Quiros, Norman Gomez; 
@@ -1383,7 +1391,7 @@ Fabio de Freitas, C.Hernandez, Piggot; Wilmer Velasquez
 6/22/1997; Diriangen; 3-2; Alajuelense
 7/9/1997; Diriangen; 1-3; Alajuelense
 
-Round: Round 2
+Round: 2
 
 6/22/1997; Juventus (Belize); 0-3; Comunicaciones
 ; Rodas, Own Goal (Castro), Rigoberto Gomez
@@ -1400,8 +1408,8 @@ Posse, Mora; Raul Toro
 7/30/1997; Cartagines; 2-1; Alajuelense; San Jose
 Sergio Morales, Sergio Morales; Luis Diego Arnaez
 
-Group: Caribbean Zone
-Group: Group 1
+Group: Caribbean 
+Group: 1
 
 7/16/1997; L'Etoile Filante; 0-0; Notre Dame; Pointe-a-Pierre, Trinidad and Tobago
 
@@ -1420,7 +1428,7 @@ Babb 59; Bruno 43
 7/20/1997; United Petrotrin; 5-0; Notre Dame; Pointe-a-Pierre, Trinidad and Tobago
 Peter Prosper 5, Sherwyn Julien 44, Dexter Cyrus 48, P. Jones 64, P. Jones 89; 
 
-Group: Group 2 
+Group: 2 
 
 7/23/1997; Transvaal; 1-0; Stubborn Youth; Montego Bay, Jmaaica
 Baina;
@@ -1441,13 +1449,15 @@ Gonsalves, Charles; own goal, Fernelt, Fernelt
 7/27/1997; Seba United; 2-0; Transvaal; Montego Bay, Jmaaica
 McFarlane, Paul Davis; 
 
+Group: 
 Round: Qualifying Playoff
 
 8/2/1997; United Petrotrin; 2-1 (asdet); Seba United
 Peter Prosper 44, Philbert Jones 95; Brian Hill 56
 
-Round: Final Round
+* Final Round
 Round: Quarterfinals
+Group: 
 
 8/12/1997; Los Angeles Galaxy; 2-0; LA Firpo; Washington DC
 Welton (Martin Machon) 45, Eduardo Hurtado (Danny Pena, Greg Vanney) 78; 
@@ -1512,9 +1522,9 @@ Steve Trittschuh 45, Paul Bravo 69; Everaldo Bejines 30, Camilo Romero 38, Own G
 Colorado Rapids: Marcus Hahnemann, Sean Henderson, Peter Vermes, Steve Trittschuh, Chris Martinez, Chris Henderson, Marcelo Balboa, Paul Bravo, Ross Paule (Marquis White 70), Jason Boyce (Joey DiGiamarino 58), Wolde Harris (Waldir 60)
 Source: MLS Lineup Database
 
-Group: Central Zone
+Group: Central
 Round: First Stage
-Group: Group South-A
+Group: South-A
 
 2/8/1998; Diriangen; 0-3; Saprissa
 2/15/1998; Arabe Unido; 1-0; Diriangen
@@ -1523,7 +1533,7 @@ Group: Group South-A
 3/8/1998; Arabe Unido; 1-2; Saprissa
 3/11/1998; Saprissa; np; Arabe Unido
 
-Group: Group South-B
+Group: South-B
 
 2/8/1998; Tauro; 1-2; Alajuelense
 2/11/1998; Alajuelense; 4-0; Tauro
@@ -1531,7 +1541,7 @@ Group: Group South-B
 2/17/1998; Real Esteli; 1-3; Alajuelense; Palmares, Costa Rica
 3/8/1998; Real Esteli; np; Tauro
 
-Group: Group North-A
+Group: North-A
 
 3/18/1998; CD Olimpia; 2-0; Juventus (Belize); Guatemala City, Guatemala
 3/18/1998; Comunicaciones; 2-2; Alianza FC; Guatemala City, Guatemala
@@ -1540,7 +1550,7 @@ Group: Group North-A
 3/22/1998; Alianza FC; 1-4; CD Olimpia        ; Guatemala City, Guatemala
 3/22/1998; Comunicaciones; 8-2; Juventus (Belize); Guatemala City, Guatemala
 
-Group: Group North-B
+Group: North-B
 
 2/1/1998; Aurora; 1-2; Platense
 2/8/1998; Platense; 2-1; Aurora
@@ -1558,7 +1568,7 @@ Group: Group North-B
 4/12/1998; Platense; np; Luis Angel Firpo
 
 Round: Second Stage
-Group: Group I
+Group: I
 
 4/19/1998; Platense; 1-3; Saprissa      
 4/22/1998; Comunicaciones; 1-0; Saprissa
@@ -1567,7 +1577,7 @@ Group: Group I
 5/20/1998; Saprissa; 0-0; Platense      
 5/27/1998; Comunicaciones; 2-1; Platense
 
-Group: Group II
+Group: II
 
 * Check date
 * /1998; Alajuelense; 1-1; Luis Angel Firpo
@@ -1578,6 +1588,7 @@ Group: Group II
 5/21/1998; CD Olimpia; 1-1; Luis Angel Firpo    
 
 Round: Playoff
+Group: 
 
 7/26/1998; Alajuelense; 4-2; Comunicaciones; Estadio Alejandro Morera Soto
 7/29/1998; Alajuelense; 1-1; Comunicaciones; Estadio Mateo Flores
@@ -1586,9 +1597,10 @@ Round: Playoff
 * Since the Caribbean club championships were only played in November, the  CONCACAF, chaired by Jack Warner, invited Joe Public of Trinidad and Tobago as Caribbean representative.  Joe Public finished second behind Defence Force intheir domestic league in 1997, but Jack Warner coincidentally happens to be thechairman of Joe Public.
 
 Round: Quarterfinals
+Group: 
 
 8/11/1998; DC United; 8-0; Joe Public; RFK Stadium
-Ben Olsen 13, Ben Olsen 44, Roy Lassiter 22, Roy Lassiter 29, Roy Lassiter 67, Roy Lassiter 72, A.J.Wood 75, A.J. Wood 90+2;
+Ben Olsen 13, Ben Olsen 44, Roy Lassiter 22, Roy Lassiter 29, Roy Lassiter 67, Roy Lassiter 72, A.J. Wood 75, A.J. Wood 90+2;
 DC United: Tom Presthus, Carey Talley (A.J. Wood 65), John Harkes, Brian Kamler, Jaime Moreno (Carlos Llamosa 46), Marco Etcheverry (Mike Slivinski 50), Jeff Agoos, Ben Olsen, Roy Lassiter, Richie Williams, Eddie Pope
 Source: MLS Lineup Database
 
@@ -1647,7 +1659,7 @@ Source: http://articles.latimes.com/1999/aug/19/sports/sp-1756
 * The Panamanian teams apparently withdrew, as did the runners-up from Nicaragua (Masachapa).
 
 Round: First Stage
-Group: Group 1
+Group: 1
 
 2/17/1998; Luis Angel Firpo; 2-2; Saprissa       
 Celio Rodriguez 27, Celio Rodriguez 70; Walter Centeno 16, Marcelo Saraiva 59
@@ -1700,19 +1712,19 @@ Notes: Firpo did not show.
 
 8/15/1998; Motagua; np; Comunicaciones
 
-Group: Group 2
+Group: 2
 
 2/17/1998; Alajuelense; 6-1; Aurora       
 Johnny Cubero 12, Johnny Cubero 23, Johnny Cubero 35, Johnny Cubero 50, David Diach 40, Geovanny Hidalgo 53; Danny Aguilar 87
 
-2/17/1998; Deportivo FAS; 0-1; Olimpia    
+2/17/1998; Deportivo FAS; 0-1; CD Olimpia    
 ; Denilson Costa 68
 
 2/21/1998; Walter; 1-0; Ferreti-Acros
 Henry Urbina 14;
 Notes: Annulled.
 
-2/24/1998; Olimpia; 0-0; Aurora           
+2/24/1998; CD Olimpia; 0-0; Aurora           
 
 2/28/1998; Acros; 1-2; Alajuelense        
 David McCauley 45; Luis Jose Herra 23, Alexander Castro 71
@@ -1721,7 +1733,7 @@ David McCauley 45; Luis Jose Herra 23, Alexander Castro 71
 Jose Maria Bermudez (pk) 71, Armando Astorga 84; Miguel Mariano 35
 Notes: Annulled.
 
-3/7/1998; Alajuelense; 1-1; Olimpia       
+3/7/1998; Alajuelense; 1-1; CD Olimpia       
 Wilson Munoz 19; Enrique Reneau 49
 
 3/7/1998; Aurora; 8-0; Walter Ferreti  
@@ -1739,21 +1751,21 @@ Miguel Mariano 62; Harold Miranda 33
 
 * Walter Ferreti withdrew for financial reasons; it is assumed their matches were annulled, but there are contradictory reports on this.
 
-5/17/1998; Olimpia; 2-0; Acros          
+5/17/1998; CD Olimpia; 2-0; Acros          
 David Suazo 12, Marlon Hernandez 37; 
 
 5/19/1998; Aurora; 1-3; Deportivo FAS   
 Luis Perez 31; Vladimir Cubias 14, Marlon Medrano 18, Marlon Medrano 36
 
-7/21/1998; Olimpia; 2-1; Deportivo FAS  
+7/21/1998; CD Olimpia; 2-1; Deportivo FAS  
 
 7/21/1998; Aurora; 1-1; Alajuelense      
 
-7/25/1998; Aurora; 2-2; Olimpia          
+7/25/1998; Aurora; 2-2; CD Olimpia          
 
 7/25/1998; Alajuelense; 7-0; Acros       
 
-8/1/1998; Olimpia; 4-1; Alajuelense      
+8/1/1998; CD Olimpia; 4-1; Alajuelense      
 
 8/1/1998; Acros; 0-3; Deportivo FAS      
 
@@ -1761,11 +1773,11 @@ Luis Perez 31; Vladimir Cubias 14, Marlon Medrano 18, Marlon Medrano 36
 
 8/8/1998; Aurora; 5-0; Acros          
 
-8/15/1998; Acros; 0-1; Olimpia        
+8/15/1998; Acros; 0-1; CD Olimpia        
 
 8/15/1998; Deportivo FAS; np; Aurora 
 
-Group: Caribbean Zone
+Group: Caribbean
 Round: Quarterfinals
 
 * NB: UNCAF Club Championship 1999
@@ -1794,8 +1806,9 @@ Angus Eve 25;
 * OVERLAP HERE
 * DUPLICATE QUARTERFINALS/ONWARDS GAMES
 
+Group: 
 Round: Quarterfinals 
-* Round: Final Tournament 
+* Final Tournament 
 * Qualified: DC United, Chicago Fire, Toluca, Necaxa, Olimpia, Saprissa, Alajuelense, Joe Public.
 
 9/28/1999; Chicago Fire; 2-0; Joe Public; Sam Boyd Stadium; Victor Rodriguez, Arnufo Gonzalez, Virgilio Ruiz, Rafael Pedroza; 6521
@@ -1810,7 +1823,7 @@ Source: MLS Lineup Database
 Alajuelense: 1-Alvaro Messen Murillo; 2-Javier Delgado Prado, 5-Luis Diego Arnaez Villegaz, 6-Wilmer Lopez Arguedas, 7-Wilson Munoz Brenes (16-Leonardo Duran Naranjo 87), 9-Josef Miso, 15-Harold Wallace McDonald, 19-Sandro Alfaro Gamboa, 21-Edson Luis Valente Correa (11-Carlos Castro Mora 94), 24-Pablo Chinchilla Vega, 25-Geovanny Hidalgo Tijerino. 
 Toluca: 1-Hernan Cristante; 4-Salvador Carmona Alvarez, 5-Omar Blanco Gomez, 6-Antonio Taboada Herrera (15-Carlos Morales Maeso 70), 7-Victor Ruiz del Valle, 9-Jose Cardozo Otazu, 11-Manoel Ferreira do Santos (8-Rafael Garcia Torres 62), 13-Alberto Macias Hernandez, 18-David Rangel Torres, 19-Adrian Garcia Arias (10-Antonio Naelson Mattias 62), 23-Jose Manuel Abundis Sandoval. 
 
-9/29/1999; DC United; 1-0; Olimpia; Las Vegas
+9/29/1999; DC United; 1-0; CD Olimpia; Las Vegas
 Jaime Moreno (Carey Talley) 68; 
 DC United: Tom Presthus, Diego Sonora, Eddie Pope, Carlos Llamosa, Jeff Agoos, Ben Olsen, Richie Williams, John Maessner (Carey Talley 58), Marco Etcheverry, Jaime Moreno, Roy Lassiter
 Source: MLS Lineup Database
@@ -1866,10 +1879,10 @@ Necaxa: 1-Hugo Alejandro Pineda Vargas, 2-Salvador Cabrera Aguirre, 3-Sergio Alm
 Saprissa: 2-Vladimir Quesada Araya, (20-Gustavo Martinez Rocha 76), 3-Victor Cordero Flores, 4-Randall Dow Arias, 7-Adrian Mahia Gargantini, 8-Walter Centeno Corea, 16-Steven Bryce Valerio (10-Alonso Solis Calderon 68), 18-Jervis Drummond Johnson, 25-Jeaustin Campos Madriz, (14-Jose Torres Gonzalez 88), 26-Gerald Drummond Johnson, 35-Jose Francisco Porras Hidalgo. 
 * Yellow cards : Vigna 25', Almaguer Trevino 61' (Necaxa), Centeno Corea 61', Bryce Valerio 62' (Saprissa).
 
-9/29/1999; DC United; 1-0; Olimpia; Carlos Batres; 7127
+9/29/1999; DC United; 1-0; CD Olimpia; Carlos Batres; 7127
 Jaime Moreno (Carey Talley) 68; 
 DC United:  22-Tom Presthus; 4-Diego Sonora, 9-Jaime Moreno, 10-Marco Etcheverry, 12-Jeff Agoos, 14-Ben Olsen, 15-Roy Lassiter, 16-Richie Williams, 18-Carlos Llamosa, 20-John Maessner, (3-Carey Talley 58'), 23-Eddie Pope.
-Olimpia: 1-Carlos Enrique Prono; 3-Arnold Javier Cruz, 5-Merlyn Alexis Membreno, 6-Nahun Alberto Espinoza, 10-Alex Mauricio Pineda Chacon (25-Renaldo Antonio Tilguanih 70), 11-Wilmer Velasquez, 14-Rudy Alberto Williams, 16-Jose Gregorio Serrano (8-Jose Luis Pineda 81'), 19-Denison Costa, 21-German Enrique Renau, 22-Jorge Samuel Caballero.
+CD Olimpia: 1-Carlos Enrique Prono; 3-Arnold Javier Cruz, 5-Merlyn Alexis Membreno, 6-Nahun Alberto Espinoza, 10-Alex Mauricio Pineda Chacon (25-Renaldo Antonio Tilguanih 70), 11-Wilmer Velasquez, 14-Rudy Alberto Williams, 16-Jose Gregorio Serrano (8-Jose Luis Pineda 81'), 19-Denison Costa, 21-German Enrique Renau, 22-Jorge Samuel Caballero.
 * Yellow cards: Pope 62', Olsen 63', Presthus 91' (DC United), Pineda  Chacon 43', Renau 63' (Olimpia).
 
 Round: Semi-finals

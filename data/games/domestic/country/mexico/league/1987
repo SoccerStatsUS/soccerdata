@@ -1,9 +1,9 @@
 Competition: Liga MX
 Season: 1987-1988
 BlockSource: http://www.rsssf.com/tablesm/mex88.html
+home-first
 
-Round: Week 1
-
+Round: 1
 Date: 9/4/1987
 
 ; Atlético Potosino; 0-2; U de G
@@ -23,7 +23,7 @@ Date: 9/6/1987
 ; Atletico Morelia; 5-0; Ángeles de Puebla 
 ; Tampico Madero; 2-2; Monterrey 
 
-Round: Week 2
+Round: 2
 Date: 9/11/1987
 
 ; Atlante; 0-0; Atletico Morelia 
@@ -43,7 +43,7 @@ Date: 9/13/1987
 ; UAT; 1-1; Tampico Madero 
 ; Irapuato; 0-3; Guadalajara 
 
-Round: Week 3
+Round: 3
 Date: 9/13/1987
 
 ; UANL; 2-1; Atlante 
@@ -63,7 +63,7 @@ Date: 9/18/1987
 ; Atlético Potosino; 1-0; Irapuato 
 ; Cruz Azul; 3-1; Atlas 
 
-Round: Week 4
+Round: 4
 Date: 9/25/1987
 
 ; UNAM; 3-0; Atlético Potosino 
@@ -83,7 +83,7 @@ Date: 9/27/1987
 ; UAT; 1-0; Toluca 
 ; Irapuato; 2-1; Cruz Azul 
 
-Round: Week 5
+Round: 5
 Date: 10/2/1987
 
 ; Atlético Potosino; 0-2; Necaxa 
@@ -103,7 +103,7 @@ Date: 10/4/1987
 ; Guadalajara; 2-1; Ángeles de Puebla 
 ; Tampico Madero; 2-1; Irapuato 
 
-Round: Week 6
+Round: 6
 Date: 10/9/1987
 
 ; UNAM; 1-1; Tampico Madero 
@@ -123,7 +123,7 @@ Date: 10/11/1987
 ; Irapuato; 1-0; Club America 
 ; Atlas; 2-0; Toluca 
 
-Round: Week 7
+Round: 7
 Date: 10/16/1987
 
 ; Atlético Potosino; 0-0; Atlante 
@@ -143,7 +143,7 @@ Date: 10/18/1987
 ; UAT; 2-5; U de G 
 ; Tampico Madero; 0-0; Necaxa 
 
-Round: Week 8
+Round: 8
 Date: 10/23/1987
 
 ; UNAM; 3-1; Toluca 
@@ -163,7 +163,7 @@ Date: 10/25/1987
 ; Atletico Morelia; 3-0; Atlético Potosino 
 ; Irapuato; 1-0; Monterrey 
 
-Round: Week 9
+Round: 9
 Date: 10/30/1987
 
 ; Atlético Potosino; 0-0; UANL 
@@ -183,7 +183,7 @@ Date: 11/1/1987
 ; UAT; 2-1; Irapuato 
 ; Tampico Madero; 2-2; Atlante 
 
-Round: Week 10
+Round: 10
 Date: 11/6/1987
 
 ; UNAM; 5-0; UAT 
@@ -203,7 +203,7 @@ Date: 11/8/1987
 ; Atletico Morelia; 3-0; Tampico Madero 
 ; Irapuato; 0-1; U de G 
  
-Round: Week 11
+Round: 11
 Date: 11/13/1987
 
 ; Atlético Potosino; 3-3; UAG 
@@ -223,7 +223,7 @@ Date: 11/15/1987
 ; UAT; 3-1; Necaxa 
 ; Tampico Madero; 1-4; UANL 
 
-Round: Week 12
+Round: 12
 Date: 11/20/1987
 
 ; Atlante; 1-1; Monterrey 
@@ -243,7 +243,7 @@ Date: 11/22/1987
 ; Atletico Morelia; 0-0; Toluca 
 ; Irapuato; 1-2; Puebla 
 
-Round: Week 13
+Round: 13
 Date: 11/28/1987
 
 ; Cruz Azul; 1-2; Guadalajara 
@@ -260,7 +260,7 @@ Date: 11/29/1987
 ; Tampico Madero; 1-1; UAG 
 ; Irapuato; 0-0; UNAM 
 
-Round: Week 14
+Round: 14
 Date: 12/11/1987
 
 ; Necaxa; 2-0; Irapuato 
@@ -280,7 +280,7 @@ Date: 12/13/1987
 ; Guadalajara; 5-1; Tampico Madero 
 ; Atletico Morelia; 1-0; UAT 
 
-Round: Week 15
+Round: 15
 Date: 12/19/1987
 
 ; UNAM; 1-1; Necaxa 
@@ -297,7 +297,7 @@ Date: 12/20/1987
 ; Tampico Madero; 1-1; Atlético Potosino 
 ; Irapuato; 2-2; Ángeles de Puebla 
 
-Round: Week 16
+Round: 16
 Date: 12/24/1987
 
 ; Atlante; 4-1; Irapuato 
@@ -317,7 +317,7 @@ Date: 12/27/1987
 ; Ángeles de Puebla; 2-3; UNAM 
 ; Deportivo Neza; 2-0; UAT 
 
-Round: Week 17
+Round: 17
 Date: 12/31/1987
 
 ; Necaxa; 4-3; Ángeles de Puebla 
@@ -337,7 +337,7 @@ Date: 1/3/1988
 ; Puebla; 1-1; Tampico Madero 
 ; Irapuato; 0-0; Atletico Morelia 
 
-Round: Week 18
+Round: 18
 Date: 1/8/1988
 
 ; Atlético Potosino; 2-0; Monterrey 
@@ -357,7 +357,7 @@ Date: 1/10/1988
 ; Puebla; 2-0; Ángeles de Puebla 
 ; Deportivo Neza; 0-0; Atlas 
 
-Round: Week 19
+Round: 19
 Date: 1/15/1988
 
 ; Club America; 2-1; Puebla 
@@ -377,7 +377,7 @@ Date: 1/17/1988
 ; UAT; 0-1; Atlético Potosino 
 ; Irapuato; 1-1; Deportivo Neza 
 
-Round: Week 20
+Round: 20
 Date: 1/22/1988
 
 ; UNAM; 0-0; Deportivo Neza 
@@ -400,7 +400,7 @@ Date: 1/27/1988
 
 ; Atlas; 1-1; Guadalajara 
 
-Round: Week 21
+Round: 21
 Date: 2/5/1988
 
 ; Atlético Potosino; 1-1; Atlas 
@@ -420,7 +420,7 @@ Date: 2/7/1988
 ; Tampico Madero; 0-0; UAT 
 ; Deportivo Neza; 0-0; Necaxa 
 
-Round: Week 22
+Round: 22
 Date: 2/19/1988
 
 ; Atlante; 4-1; UANL 
@@ -440,7 +440,7 @@ Date: 2/21/1988
 ; UAT; 2-4; Club America 
 ; Irapuato; 3-1; Atlético Potosino 
 
-Round: Week 23
+Round: 23
 Date: 2/26/1988
 
 ; Atlético Potosino; 0-0; UNAM 
@@ -460,7 +460,7 @@ Date: 2/28/1988
 ; Guadalajara; 0-0; Necaxa 
 ; Tampico Madero; 1-1; Atlas 
 
-Round: Week 24
+Round: 24
 Date: 3/4/1988
 
 ; Necaxa; 2-2; Atlético Potosino 
@@ -480,7 +480,7 @@ Date: 3/6/1988
 ; UAT; 3-2; Monterrey 
 ; Irapuato; 2-1; Tampico Madero 
 
-Round: Week 25
+Round: 25
 Date: 3/11/1988
 
 ; Monterrey; 1-1; U de G 
@@ -500,7 +500,7 @@ Date: 3/13/1988
 ; UAG; 0-1; Atletico Morelia 
 ; Tampico Madero; 1-1; UNAM 
 
-Round: Week 26
+Round: 26
 Date: 3/18/1988
 
 ; Necaxa; 1-1; Tampico Madero 
@@ -520,7 +520,7 @@ Date: 3/20/1988
 ; U de G; 1-1; UAT 
 ; Irapuato; 2-0; Toluca 
 
-Round: Week 27
+Round: 27
 Date: 3/25/1988
 
 ; Atlético Potosino; 1-0; Atletico Morelia 
@@ -540,7 +540,7 @@ Date: 3/27/1988
 ; UAT; 0-0; Atlas 
 ; Tampico Madero; 4-2; Ángeles de Puebla 
 
-Round: Week 28
+Round: 28
 Date: 4/1/1988
 
 ; UNAM; 6-0; Monterrey 
@@ -563,7 +563,7 @@ Date: 4/6/1988
 
 ; Atlante; 3-1; Tampico Madero 
 
-Round: Week 29
+Round: 29
 Date: 4/8/1988
 
 ; Atlético Potosino; 1-2; Deportivo Neza 
@@ -583,7 +583,7 @@ Date: 4/1/1988
 ; UAT; 3-1; UNAM 
 ; Tampico Madero; 2-1; Atletico Morelia 
 
-Round: Week 30
+Round: 30
 Date: 4/1/1988
 
 ; Necaxa; 2-0; UAT 
@@ -603,7 +603,7 @@ Date: 4/1/1988
 ; Guadalajara; 1-0; Puebla 
 ; Irapuato; 3-1; Atlas 
 
-Round: Week 31
+Round: 31
 Date: 4/2/1988
 
 ; Atlético Potosino; 0-2; Guadalajara 
@@ -623,7 +623,7 @@ Date: 4/2/1988
 ; UAT; 2-1; Ángeles de Puebla 
 ; Tampico Madero; 4-1; Deportivo Neza 
 
-Round: Week 32
+Round: 32
 Date: 4/2/1988
 
 ; Club America; 3-0; Deportivo Neza 
@@ -643,7 +643,7 @@ Date: 5/1/1988
 ; Atletico Morelia; 0-2; Monterrey 
 ; UAT; 1-3; Atlante 
 
-Round: Week 33
+Round: 33
 Date: 5/7/1988
 
 ; Cruz Azul; 3-1; Atlético Potosino 
@@ -660,7 +660,7 @@ Date: 5/8/1988
 ; Tampico Madero; 2-2; Guadalajara 
 ; Irapuato; 1-3; Necaxa 
 
-Round: Week 34
+Round: 34
 Date: 5/12/1988
 
 ; UAG; 2-1; Toluca 
@@ -683,7 +683,7 @@ Date: 5/15/1988
 ; Atletico Morelia; 2-1; U de G 
 ; Guadalajara; 3-2; Club America 
 
-Round: Week 35
+Round: 35
 Date: 5/20/1988
 
 ; Club America; 3-0; Atlético Potosino 
@@ -703,7 +703,7 @@ Date: 5/22/1988
 ; Irapuato; 3-1; Atlante 
 ; Tampico Madero; 3-1; Cruz Azul 
 
-Round: Week 36
+Round: 36
 Date: 5/27/1988
 
 ; Atlético Potosino; 1-0; Toluca 
@@ -723,7 +723,7 @@ Date: 5/29/1988
 ; Atletico Morelia; 2-0; Irapuato 
 ; Tampico Madero; 2-2; Puebla 
 
-Round: Week 37
+Round: 37
 Date: 6/3/1988
 
 ; Club America; 1-0; Tampico Madero 
@@ -743,7 +743,7 @@ Date: 6/5/1988
 ; Atlas; 4-0; Deportivo Neza 
 ; Irapuato; 2-1; UANL 
 
-Round: Week 38
+Round: 38
 Date: 6/10/1988
 
 ; Atlético Potosino; 1-0; UAT 

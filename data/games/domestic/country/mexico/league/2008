@@ -1,4 +1,7 @@
 Competition: Liga MX
+BlockSource: http://www.rsssf.com/tablesm/mex09.html
+home-first
+
 Season: 2008 Apertura
 
 *Grupo 1
@@ -53,7 +56,7 @@ Date: 7/27/2008
 ; Pumas       ; 2-0; Necaxa
   Ismael Iñiguez 77, Dante López 84;
 
-; América     ; 3-2; Santos
+; América     ; 3-2; Santos Laguna
   Federico Insúa 15, Salvador Cabañas 47, Salvador Cabanas 85;   Juan Pablo Rodríguez 87, Agustín Enrique Herrera 92
 
 Round: 2
@@ -85,7 +88,7 @@ Date: 8/3/2008
 ; Toluca      ; 2-1; América      
   Miguel Almazán 7, Héctor Raúl Mancilla 11; Salvador Cabañas 67
 
-; Santos      ; 1-1; Pumas        
+; Santos Laguna      ; 1-1; Pumas        
   Francisco Javier Torres 68; Dante López 38
 
 Round: 3
@@ -111,7 +114,7 @@ Date: 8/9/2008
       
 Date: 8/10/2008
 
-; Puebla      ; 0-0; Santos       
+; Puebla      ; 0-0; Santos Laguna       
 
 ; Pumas       ; 2-1; Toluca
   Fernando Espinosa 59, Leandro Augusto Oldoni 89;   Héctor Raúl Mancilla 7
@@ -145,7 +148,7 @@ Date: 8/17/2008
 ; Toluca      ; 3-1; Puebla
   Héctor Raúl Mancilla 12, Edgar Dueñas 30, Diego de la Torre 52;   Jair García 8
        
-; Santos      ; 3-0; Indios  
+; Santos Laguna      ; 3-0; Indios  
   Christian Benítez 11, Fernando Arce 65, Walter Jiménez 85;
 
 Date: 11/5/2008
@@ -170,7 +173,7 @@ Date: 8/23/2008
 ; Indios      ; 1-1; Toluca
   Javier Hernán Malagueño 66; Héctor Raúl Mancilla 9
 
-; Guadalajara ; 3-5; Santos
+; Guadalajara ; 3-5; Santos Laguna
   Sergio Ávila 10, José Antonio Olvera 30, Edgar Iván Solís 44;   Christian Benítez 33, Vicente Matías Vuoso 32, Vicente Matias Vuoso 69,   Héctor Reynoso (og) 77, Daniel Ludueña 89
 
 ; Atlante     ; 2-2; Atlas
@@ -212,7 +215,7 @@ Date: 8/27/2008
 ; Pachuca     ; 2-0; Puebla
   José Francisco Torres 29, Christian Giménez 84;
 
-; Santos      ; 2-0; Tecos
+; Santos Laguna      ; 2-0; Tecos
   Christian Benítez 55, Christian Benitez 89;
 
 ; Tigres      ; 1-0; Atlante
@@ -233,7 +236,7 @@ Date: 8/30/2008
 ; Cruz Azul   ; 2-1; Necaxa
   Pablo Zeballos 54, Cristian Riveros 77; Hugo Rodallega 58
 
-; Monterrey   ; 2-0; Santos
+; Monterrey   ; 2-0; Santos Laguna
   William Paredes 16, Carlos Ochoa 62;
 
 ; Guadalajara ; 1-1; Morelia
@@ -284,13 +287,13 @@ Date: 9/14/2008
 
 ; Toluca      ; 0-0; Monterrey
 
-; Santos      ; 1-1; Necaxa
+; Santos Laguna      ; 1-1; Necaxa
   Vicente Matías Vuoso 34; Mario Pérez 55
 
 Round: 9
 Date: 9/20/2008
 
-; Cruz Azul   ; 1-1; Santos
+; Cruz Azul   ; 1-1; Santos Laguna
   Gerardo Torrado 93; Vicente Matías Vuoso 89
        
 ; Monterrey   ; 0-4; Morelia      
@@ -346,7 +349,7 @@ Date: 9/28/2008
 ; Morelia     ; 3-1; Necaxa
   Andrés Augusto Mendoza 61, Andres Augusto Mendoza  63, Elías Hernández 85;   Marvin de la Cruz 46
 
-; Toluca      ; 2-1; Santos      
+; Toluca      ; 2-1; Santos Laguna      
   Héctor Raúl Mancilla 27, Néstor Calderón 50; Christian Benítez 31
  
 ; América     ; 2-0; Cruz Azul
@@ -383,7 +386,7 @@ Date: 10/5/2008
 ; Pumas       ; 1-1; América      
   Fernando Morales 49; Alfredo David Moreno 8
 
-; Santos      ; 1-0; Morelia      
+; Santos Laguna      ; 1-0; Morelia      
   Christian Benítez 57;
 
 Round: 12
@@ -413,7 +416,7 @@ Date: 10/12/2008
 ; América     ; 1-1; Puebla
   Alfredo David Moreno 5; Fabiano Pereira 87
        
-; Pachuca     ; 2-0; Santos       
+; Pachuca     ; 2-0; Santos Laguna       
   Christian Correa 34, Juan Carlos Rojas 91;
 
 Round: 13
@@ -445,7 +448,7 @@ Date: 10/19/2008
 ; Toluca      ; 3-0; Pachuca
   Héctor Raúl Mancilla 41, Hector Raul Mancilla 72, Néstor Calderón 70;
       
-; Santos      ; 1-0; Jaguares  
+; Santos Laguna      ; 1-0; Jaguares  
   Christian Benítez 33;
    
 Round: 14
@@ -462,7 +465,7 @@ Date: 10/25/2008
 ; Tigres      ; 1-1; Necaxa
   Lucas Lobos 8; Walter Gaitán 69
        
-; Atlas       ; 2-1; Santos
+; Atlas       ; 2-1; Santos Laguna
   Darío Bottinelli 53, Edgar Iván Pacheco 70;   Darvin Francisco Chavez (og) 86
 
 Date: 10/26/2008
@@ -512,13 +515,13 @@ Date: 11/2/2008
 ; Morelia     ; 5-2; Jaguares
   Andrés Augusto Mendoza (pk) 11, Andres Augusto Mendoza 59, Andres Augusto Mendoza 65, Fernando Salazar 81,   Elías Hernández 86; Adolfo Bautista (pk) 32, Adolfo Bautista (pk) 43
      
-; Santos      ; 1-1; Tigres
+; Santos Laguna      ; 1-1; Tigres
   Fernando Arce 75; Guillermo Marino 24
        
 Round: 16
 Date: 11/8/2008
 
-; San Luis    ; 2-2; Santos       
+; San Luis    ; 2-2; Santos Laguna       
   Eduardo Coudet 39, Diego Cervantes 89; Daniel Ludueña 33,   Francisco Javier Torres 65
 
 ; Jaguares    ; 2-1; Pachuca      
@@ -576,7 +579,7 @@ Date: 11/16/2008
 ; Toluca      ; 1-0; San Luis
   Antonio Naelson 32;
 
-; Santos      ; 0-0; Atlante
+; Santos Laguna      ; 0-0; Atlante
 
 *Grupo 1
 * 1.Atlante          17   7  6  4  22-16  27  Qualified
@@ -657,7 +660,7 @@ Date: 1/18/2009
 ; Toluca      ; 3-3; Atlante
   Antonio Naelson 16, Héctor Raúl Mancilla 41, Hector Raul Mancilla 44;   Gabriel Pereyra 21, Gabriel Pereyra 49, Luis Gabriel Rey 59
 
-; Santos      ; 1-2; América
+; Santos Laguna      ; 1-2; América
   Juan Pablo Rodríguez (pk) 44; Salvador Cabañas 63, Salvador Cabanas 80
 
 ; Pachuca     ; 4-1; Tigres
@@ -689,7 +692,7 @@ Date: 1/26/2009
 ; Puebla      ; 1-0; Necaxa
   Álvaro Ortiz 4;
 
-; Pumas       ; 1-0; Santos
+; Pumas       ; 1-0; Santos Laguna
   Martín Bravo (pk) 22;
 
 ; América     ; 2-2; Toluca
@@ -723,7 +726,7 @@ Date: 2/1/2009
 ; Pachuca     ; 1-1; Atlante
   Ulises Mendívil 79; Luis Gabriel Rey 63
 
-; Santos      ; 0-0; Puebla
+; Santos Laguna      ; 0-0; Puebla
 
 ; Toluca      ; 1-0; Pumas
   Héctor Raúl Mancilla 24;
@@ -750,7 +753,7 @@ Date: 2/7/2009
 
 Date: 2/8/2009
 
-; Indios      ; 0-0; Santos
+; Indios      ; 0-0; Santos Laguna
 
 ; Puebla      ; 0-2; Toluca
 ;  Héctor Raúl Mancilla 8, Alonso Alberto Granados 87
@@ -790,7 +793,7 @@ Date: 2/15/2009
 ; Toluca      ; 1-0; Indios
   Héctor Raúl Mancilla 52;
 
-; Santos      ; 2-1; Guadalajara
+; Santos Laguna      ; 2-1; Guadalajara
   Daniel Ludueña 50, Carlos Darwin Quintero 59;   Javier Hernández Balcázar 87
 
 Round: 6 
@@ -814,7 +817,7 @@ Date: 2/18/2009
 ; Puebla      ; 2-2; Pachuca
   Ramón Núñez 71, Álvaro González 88; Christian Giménez 4,   José María Cárdenas 46
 
-; Tecos       ; 1-0; Santos
+; Tecos       ; 1-0; Santos Laguna
   Rodrigo Ruiz 75;
 
 ; Atlante     ; 1-1; Tigres
@@ -852,7 +855,7 @@ Date: 2/22/2009
 ; Necaxa      ; 2-4; Cruz Azul
   Marco Antonio Gómez 39, Alfredo David Moreno 50;   Cristian Riveros 23, Jaime Lozano 36, Luis Ángel Landín 44, Luis Angel Landin 56
  
-; Santos      ; 2-0; Monterrey
+; Santos Laguna      ; 2-0; Monterrey
   Fernando Arce 5, Juan Pablo Santiago 54;
 
 Round: 8
@@ -884,7 +887,7 @@ Date: 3/1/2009
 ; Puebla      ; 1-1; Atlas       
   Daniel Osorno 55; Hugo Ayala 64
 
-; Necaxa      ; 2-2; Santos       
+; Necaxa      ; 2-2; Santos Laguna       
   Luis Omar Hernández 22, Alfredo David Moreno 42;   Christian Benítez 6, Vicente Matías Vuoso 59
 
 Round: 9
@@ -910,7 +913,7 @@ Date: 3/7/2009
 
 Date: 3/8/2009
 
-; Santos      ; 2-2; Cruz Azul
+; Santos Laguna      ; 2-2; Cruz Azul
   Daniel Ludueña 2, Christian Benítez 53; Luis Ángel Landín 38,   Manuel Alejandro Vela 85
     
 ; Toluca      ; 1-0; Necaxa       
@@ -949,7 +952,7 @@ Date: 3/15/2009
 ; Pumas       ; 3-1; Atlante
   Martín Bravo (pk) 27, Martin Bravo 44, Marco Antonio Palacios 69;   Gabriel Pereyra 55
      
-; Santos      ; 2-2; Toluca
+; Santos Laguna      ; 2-2; Toluca
   Carlos Darwin Quintero 33, Carlos Quintero 42; Sergio Santana 68,   Néstor Calderón 74
        
 Round: 11
@@ -972,7 +975,7 @@ Date: 3/21/2009
 ; Atlante     ; 0-1; Puebla
 ;  Álvaro González 50
 
-; Morelia     ; 2-1; Santos
+; Morelia     ; 2-1; Santos Laguna
   Miguel Sabah 2, Miguel Sabah 38; Christian Benítez 6
 
 Date: 3/22/2009
@@ -1011,7 +1014,7 @@ Date: 4/5/2009
 ; Toluca      ; 2-1; Morelia
   Edgar Dueñas 34, Manuel de la Torre 62; Miguel Sabah 37
 
-; Santos      ; 2-2; Pachuca
+; Santos Laguna      ; 2-2; Pachuca
   Christian Benítez 43, Carlos Darwin Quintero 68;   Christian Giménez (pk) 60, Christian Gimenez  (pk) 67
 
 Round: 13
@@ -1020,7 +1023,7 @@ Date: 4/11/2009
 ; San Luis    ; 3-3; Tecos
   Víctor Hugo Lojero 31, José Rodolfo Reyes 43, Braulio Luna 68;   Fredy José Bareiro 46, Fredy Jose Bareiro 80, Arnhold Rivas 76
 
-; Jaguares    ; 0-2; Santos
+; Jaguares    ; 0-2; Santos Laguna
 ;  Daniel Ludueña 29, Christian Benítez 93
 
 ; Morelia     ; 1-1; Cruz Azul
@@ -1072,7 +1075,7 @@ Date: 4/19/2009
 ; Toluca      ; 1-0; Jaguares
   Edgar Dueñas 90;
 
-; Santos      ; 4-1; Atlas
+; Santos Laguna      ; 4-1; Atlas
   Walter Adrián Jiménez 13, Christian Benítez 21, Christian Benitez 93,   Ismael Fuentes (og) 67; Gonzalo Vargas 43
 
 ; Guadalajara ; 1-0; América
@@ -1092,7 +1095,7 @@ Date: 4/25/2009
 ; Pachuca     ; 3-0; Cruz Azul
   Ulises Mendívil 10, Ulises Mendivil 39, Ulises Mendivil 89;
 
-; Tigres      ; 1-1; Santos
+; Tigres      ; 1-1; Santos Laguna
   Ariel Bogado 32; Juan Pablo Rodríguez 20
 
 ; Atlas       ; 0-0; Toluca
@@ -1141,7 +1144,7 @@ Date: 5/3/2009
 ; Toluca      ; 4-1; Tigres
   Israel López 23, Héctor Raúl Mancilla 50, Hector Mancilla 71, Hector Mancilla 75;   Francisco Fonseca 55
 
-; Santos      ; 3-1; San Luis
+; Santos Laguna      ; 3-1; San Luis
   Daniel Ludueña 62, Agustín Herrera 71, Walter Jiménez 84;   Michael Orozco 82
 
 Round: 17
@@ -1159,7 +1162,7 @@ Date: 5/9/2009
 ; América     ; 1-0; Necaxa
   Fernando Ortiz 28;
 
-; Atlante     ; 2-1; Santos
+; Atlante     ; 2-1; Santos Laguna
   Luis Ángel Carrillo 3, Andrés Carevic 14; Daniel Ludueña 53
 
 ; Tigres      ; 1-1; Morelia

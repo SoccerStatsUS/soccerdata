@@ -1,6 +1,6 @@
 BlockSource: http://rsssf.com/tablesm/mex2011.html
 Competition: Liga MX
-
+home-first
 
 Season: 2010 Apertura
 
@@ -55,7 +55,7 @@ Date: 7/24/2010
 ; San Luis         ; 1-1; Monterrey
   Wilmer Aguirre (pk) 68; Humberto Andrés Suazo 63
 
-; Atlante          ; 1-4; Santos
+; Atlante          ; 1-4; Santos Laguna
   Santiago Solari (pk) 52; Christian Benítez 28, Christian Benitez 89, Daniel Ludueña 39,    Carlos Adrián Morales 86
 
 
@@ -84,7 +84,7 @@ Date: 7/31/2010
 ; Monterrey        ; 3-2; Estudiantes
   Humberto Andrés Suazo 47, Walter Ayoví 59, Sergio Santana 67;    Fredy José Bareiro 41, Jorge Damián Zamogilny 90+1
 
-; Santos           ; 4-0; Pumas
+; Santos Laguna           ; 4-0; Pumas
   Marco Antonio Palacios (og) 26, Juan Pablo Rodríguez (pk) 53,    Christian Benítez 55, Oribe Peralta 83;
 
 Date: 8/1/2010
@@ -109,7 +109,7 @@ Date: 8/7/2010
 ; Jaguares         ; 1-1; Toluca
   Danilo Verón 7; Isaac Brizuela 68
 
-; Pachuca          ; 0-3; Santos
+; Pachuca          ; 0-3; Santos Laguna
 ;  Carlos Darwin Quintero 23, Christian Benítez 57, Christian Benitez 82
 
 ; Tigres           ; 1-1; América
@@ -149,7 +149,7 @@ Date: 8/14/2010
 ; Monterrey        ; 5-2; Pumas
   Humberto Andrés Suazo 8, Humberto Andres Suazo (pk) 50, Sergio Santana 45, Oswaldo David Martínez 77,    Aldo de Nigris 90+1; Leandro Augusto Oldoni 17, Dante López 23
 
-; Santos           ; 1-0; Jaguares
+; Santos Laguna           ; 1-0; Jaguares
   Christian Benítez 46;
 
 ; San Luis         ; 1-0; Morelia
@@ -185,7 +185,7 @@ Date: 8/21/2010
 ; Pachuca          ; 2-2; Monterrey
   Darío Cvitanich 7, Daniel Arreola 90+1; Humberto Andrés Suazo 68,    Aldo de Nigris 77
 
-; Tigres           ; 1-0; Santos
+; Tigres           ; 1-0; Santos Laguna
   Anselmo Vendrechovski 8;
 
 ; Atlas            ; 0-1; Toluca
@@ -219,7 +219,7 @@ Date: 8/28/2010
 ; Monterrey        ; 1-1; Jaguares
   Humberto Andrés Suazo 28; Danilo Verón 22
 
-; Santos           ; 3-1; Atlas
+; Santos Laguna           ; 3-1; Atlas
   Carlos Adrián Morales 57, Christian Benítez 61, Daniel Ludueña 83;    Fabricio Fuentes 84
 
 ; Guadalajara      ; 0-0; Pumas
@@ -246,7 +246,7 @@ Date: 9/10/2010
 
 Date: 9/11/2010
 
-; Querétaro        ; 5-2; Santos
+; Querétaro        ; 5-2; Santos Laguna
   Joaquín Beltrán 27, Sergio Blanco 44, Sergio Blanco 69, Sergio Blanco 87, Héctor Altamirano 90+2;    Christian Benítez 4, Eder Nicolás Borelli (og) 71
 
 ; Jaguares         ; 4-0; Puebla
@@ -286,7 +286,7 @@ Date: 9/18/2010
 ; Monterrey        ; 2-0; Atlas
   Aldo de Nigris 52, Humberto Andrés Suazo 59;
 
-; Santos           ; 2-1; Necaxa
+; Santos Laguna           ; 2-1; Necaxa
   Felipe Baloy 45, Christian Benítez 90+3; Juan Carlos Mosqueda 40
 
 ; Guadalajara      ; 0-3; Jaguares
@@ -336,7 +336,7 @@ Date: 9/26/2010
 ; Tigres           ; 1-1; Guadalajara
   Francisco Javier Acuña 46; Miguel Ángel Ponce 71
 
-; América          ; 3-2; Santos
+; América          ; 3-2; Santos Laguna
   Vicente Sánchez 22, Vicente Matías Vuoso 30, Vicente Matias Vuoso 37; Christian Benítez 4,    Fernando Arce 41
 
 Round: 10
@@ -352,7 +352,7 @@ Date: 10/2/2010
 ; Monterrey        ; 2-1; Necaxa
   Humberto Andrés Suazo 12, Aldo de Nigris 26; Pablo Quattrocchi 90+1
 
-; Santos           ; 2-0; Toluca
+; Santos Laguna           ; 2-0; Toluca
   José María Cárdenas 37, Christian Benítez 43;
 
 ; Atlante          ; 1-3; Pachuca
@@ -366,7 +366,7 @@ Date: 10/3/2010
 ; Puebla           ; 2-0; Querétaro
 
 ; Guadalajara      ; 2-2; Atlas
-  Miguel Ángel Ponce 31, Néstor Vidrio (og) 90; Flavio Jesús Santos 24, Gerardo Flores 73
+  Miguel Ángel Ponce 31, Néstor Vidrio (og) 90; Flavio Jesús Santos Laguna 24, Gerardo Flores 73
 
 ; Cruz Azul        ; 1-0; América
   Christian Giménez 52;
@@ -396,7 +396,7 @@ Date: 10/9/2010
 
 Date: 10/10/2010
 
-; Morelia          ; 0-0; Santos
+; Morelia          ; 0-0; Santos Laguna
 ; Toluca           ; 0-0; Cruz Azul
 ; América          ; 0-0; Monterrey
 
@@ -404,14 +404,14 @@ Round: 12
 Date: 10/15/2010
 
 ; Estudiantes      ; 2-1; Atlas
-  Rafael Medina 18, Samuel Ochoa 80; Flavio Jesús Santos 24
+  Rafael Medina 18, Samuel Ochoa 80; Flavio Jesús Santos Laguna 24
 
 Date: 10/16/2010
 
 ; San Luis         ; 3-2; Querétaro
   Juan Carlos Medina 1, Michael Arroyo 36, César Eduardo González 80;    Julio César Nava 14, Sergio Blanco 32
 
-; Cruz Azul        ; 3-0; Santos
+; Cruz Azul        ; 3-0; Santos Laguna
   Manuel Alejandro Vela 6, Horacio Cervantes 46, Christian Giménez 88;
 
 ; Guadalajara      ; 1-0; Necaxa
@@ -448,7 +448,7 @@ Date: 10/23/2010
 ; Jaguares         ; 2-0; Pachuca
   Jorge Marcelo Rodríguez 33, Jackson Martínez 75;
 
-; Santos           ; 1-2; Monterrey
+; Santos Laguna           ; 1-2; Monterrey
   Christian Benítez 33; Humberto Andrés Suazo 4, Oswaldo David Martínez 48
 
 ; Tigres           ; 2-0; Pumas
@@ -481,7 +481,7 @@ Date: 10/27/2010
 ; Estudiantes      ; 0-2; Necaxa
 ;  Everaldo de Assis 21, Ezequiel Orozco 77
 
-; Puebla           ; 0-1; Santos
+; Puebla           ; 0-1; Santos Laguna
 ;  Jorge Iván Estrada 67
 
 ; Jaguares         ; 0-0; Morelia
@@ -508,7 +508,7 @@ Date: 10/30/2010
 ; Querétaro        ; 2-1; Pumas
   Sergio Blanco 24, Alen Skoro 90+3; Javier Cortés 89
 
-; Santos           ; 1-1; Guadalajara
+; Santos Laguna           ; 1-1; Guadalajara
   Christian Benítez 87; Omar Arellano Riverón 89
 
 ; Tigres           ; 0-0; Jaguares
@@ -541,7 +541,7 @@ Date: 11/6/2010
 ; Jaguares         ; 2-1; Atlas
   Oscar Francisco Razo 13, Jackson Martínez 74; Fabricio Fuentes 59
 
-; San Luis         ; 1-1; Santos
+; San Luis         ; 1-1; Santos Laguna
   Diego de la Torre 57; Christian Benítez 54
 
 ; Guadalajara      ; 0-0; Cruz Azul
@@ -580,7 +580,7 @@ Date: 11/13/2010
 ; Querétaro        ; 1-1; Jaguares
   Sergio Ortemán 79; Jorge Marcelo Rodríguez 81
 
-; Santos           ; 1-0; Estudiantes
+; Santos Laguna           ; 1-0; Estudiantes
   Daniel Ludueña 9;
 
 ; Atlas            ; 2-2; Tigres
@@ -637,7 +637,7 @@ Date: 11/14/2010
 * 7.Pachuca                             17   7  4  6  27-28  25
 * 8.Pumas                               17   7  4  6  23-24  25
 
-*NB: Cruz Azul, Monterrey and Santos can't play Copa Libertadores
+*NB: Cruz Azul, Monterrey and Santos Laguna can't play Copa Libertadores
 *    because they participate in the CONCACAF Champions League;
 *    América and San Luis qualified to Group Phase,
 *    Jaguares qualified to Preliminary Round:
@@ -691,7 +691,7 @@ Date: 1/8/2011
 ; Monterrey        ; 0-2; San Luis
 ;  Osmar Mares 73, Juan Carlos Medina 90+3
 
-; Santos           ; 2-1; Atlante
+; Santos Laguna           ; 2-1; Atlante
   Carlos Darwin Quintero 54, Christian Benítez 72; Fernando Navarro 81
 
 ; Atlas            ; 5-0; Morelia
@@ -738,7 +738,7 @@ Date: 1/16/2011
 ; Morelia          ; 1-1; Guadalajara
   Rafael Márquez Lugo 70; Marco Fabián de la Mora 20
 
-; Pumas            ; 2-0; Santos
+; Pumas            ; 2-0; Santos Laguna
   Juan Carlos Cacho 62, Dante López 82;
 
 Round: 3
@@ -761,7 +761,7 @@ Date: 1/22/2011
 ; Guadalajara      ; 1-1; San Luis
   Erick Torres 66; Aníbal Matellán 75
 
-; Santos           ; 1-1; Pachuca
+; Santos Laguna           ; 1-1; Pachuca
   Daniel Ludueña 43; Edgar Benítez 44
 
 Date: 1/23/2011
@@ -786,7 +786,7 @@ Date: 1/29/2011
 ; Querétaro        ; 1-0; Necaxa
   Efraín Cortés 59;
 
-; Jaguares         ; 1-2; Santos
+; Jaguares         ; 1-2; Santos Laguna
   Omar Alejandro Flores 71; Christian Benítez 37,    Carlos Darwin Quintero 47
 
 ; Pachuca          ; 0-4; Cruz Azul
@@ -819,7 +819,7 @@ Date: 2/5/2011
 ; Monterrey        ; 2-0; Pachuca
   Aldo de Nigris 26, Neri Raúl Cardozo 48;
 
-; Santos           ; 0-2; Tigres
+; Santos Laguna           ; 0-2; Tigres
 ;  Héctor Raúl Mancilla 8, Anselmo Vendrechovski 44
 
 ; Cruz Azul        ; 2-0; Chiapas
@@ -861,7 +861,7 @@ Date: 2/12/2011
 ; Tigres           ; 2-0; Cruz Azul
   Héctor Raúl Mancilla 68, Danilo Verón 90+1;
 
-; Atlas            ; 1-2; Santos
+; Atlas            ; 1-2; Santos Laguna
   Wilman Conde 56; Fernando Arce 35, Juan Pablo Rodríguez (pk) 37
 
 ; Atlante          ; 0-0; San Luis
@@ -886,11 +886,11 @@ Date: 2/18/2011
 Date: 2/19/2011
 
 ; Cruz Azul        ; 2-1; Atlas
-  Emanuel Villa 1, Isaac Romo 90+3; Flavio Jesús Santos 73
+  Emanuel Villa 1, Isaac Romo 90+3; Flavio Jesús Santos Laguna 73
 
 ; Monterrey        ; 0-0; Tigres
 
-; Santos           ; 0-2; Querétaro
+; Santos Laguna           ; 0-2; Querétaro
 ;  Isaac Acuña 2, Carlos Bueno 42
 
 ; Guadalajara      ; 4-1; Pachuca
@@ -910,7 +910,7 @@ Date: 2/20/2011
 Round: 8
 Date: 2/25/2011
 
-; Necaxa           ; 1-0; Santos
+; Necaxa           ; 1-0; Santos Laguna
   Ismael Iñiguez 75;
 
 Date: 2/26/2011
@@ -953,7 +953,7 @@ Date: 3/5/2011
 ; Monterrey        ; 2-0; Querétaro
   Abraham Darío Carreño 48, Luis Ernesto Pérez 74;
 
-; Santos           ; 2-3; América
+; Santos Laguna           ; 2-3; América
   Oribe Peralta 29, Oribe Peralta 65; Ángel Eduardo Reyna 52, Angel Eduardo Reyna 89,   Vicente Sánchez 61
 
 ; Guadalajara      ; 0-0; Tigres
@@ -992,14 +992,14 @@ Date: 3/12/2011
   Héctor Raúl Mancilla (pk) 45; Wilmer Aguirre 59
 
 ; Atlas            ; 1-1; Guadalajara
-  Flavio Jesús Santos 56; Erick Torres 11
+  Flavio Jesús Santos Laguna 56; Erick Torres 11
 
 Date: 3/13/2011
 
 ; Morelia          ; 0-1; Pumas
 ;  Juan Francisco Palencia 56
 
-; Toluca           ; 3-1; Santos
+; Toluca           ; 3-1; Santos Laguna
   Jaime Ayoví 1, Diego Novaretti 5, Emmanuel Cerda 89;   Oribe Peralta 36
 
 ; América          ; 0-2; Cruz Azul
@@ -1018,7 +1018,7 @@ Date: 3/19/2011
 ; Monterrey        ; 2-1; América
   Walter Ayoví 47, Abraham Darío Carreño 69; Ángel Eduardo Reyna (pk) 88
 
-; Santos           ; 0-1; Morelia
+; Santos Laguna           ; 0-1; Morelia
 ;  Rafael Márquez Lugo 86
 
 ; Guadalajara      ; 2-0; Querétaro
@@ -1052,7 +1052,7 @@ Date: 4/2/2011
 ; Jaguares         ; 3-1; Pumas
   Antonio Salazar 18, Antonio Salazar 24, Edgar Andrade 32; Fernando Espinosa 77
 
-; Santos           ; 3-0; Cruz Azul
+; Santos Laguna           ; 3-0; Cruz Azul
   Carlos Darwin Quintero 1, Jorge Iván Estrada 30, Juan Pablo Rodríguez (pk) 73;
 
 ; Tigres           ; 2-0; Atlante
@@ -1083,7 +1083,7 @@ Date: 4/9/2011
   Christian Giménez 10, Waldo Ponce 62; Rafael Márquez Lugo 16, Elías Hernández 55, Elias Hernandez 90+1
    
 
-; Monterrey        ; 1-1; Santos
+; Monterrey        ; 1-1; Santos Laguna
   Jesús Arellano 23; Oribe Peralta 9
 
 ; Pachuca          ; 3-0; Jaguares
@@ -1118,7 +1118,7 @@ Date: 4/12/2011
 
 Date: 4/13/2011
 
-; Santos           ; 4-0; Puebla
+; Santos Laguna           ; 4-0; Puebla
   Daniel Ludueña 16, Daniel Luduena 34, Christian Benítez 58, Jaime Toledo 66;
 
 ; Toluca           ; 1-2; Guadalajara
@@ -1156,7 +1156,7 @@ Date: 4/16/2011
 ; Atlante          ; 1-1; Necaxa
   Christian Bermúdez (pk) 76; Arturo Javier Ledesma 19
 
-; Guadalajara      ; 0-1; Santos
+; Guadalajara      ; 0-1; Santos Laguna
 ;  Felipe Baloy 90+2
 
 ; San Luis         ; 1-2; Toluca
@@ -1187,7 +1187,7 @@ Date: 4/23/2011
 ; Monterrey        ; 1-1; Puebla
   Jesús Eduardo Zavala 23; Félix Borja 6
 
-; Santos           ; 1-3; San Luis
+; Santos Laguna           ; 1-3; San Luis
   Juan Pablo Rodríguez (pk) 80; Wilmer Aguirre 29, Wilmer Aguirre 32, Wilmer Aguirre 59
 
 ; Atlas            ; 2-0; Jaguares
@@ -1207,7 +1207,7 @@ Date: 4/24/2011
 Round: 17
 Date: 4/29/2011
 
-; Estudiantes      ; 1-3; Santos
+; Estudiantes      ; 1-3; Santos Laguna
   Mauro Cejas 10; Daniel Ludueña 21, Rafael Figueroa 75, Christian Benítez 90
 
 Date: 4/30/2011

@@ -1,8 +1,8 @@
 Competition: Liga MX
 BlockSource: http://www.rsssf.com/tablesm/mex08.html
+home-first
 
 Season: 2007 Apertura
-
 
 *Group 1
 * 1.Toluca           17  10  4  3  27-16  34  Qualified
@@ -29,7 +29,6 @@ Season: 2007 Apertura
 * 6.Tigres UANL      17   4  4  9  16-22  16
 
 Round: 1
-
 Date: 8/3/2007
 
 ; Tecos       ; 1-4; Pachuca
@@ -55,7 +54,7 @@ Date: 8/5/2007
 ; Necaxa      ; 3-2; Monterrey 
   Hugo Rodallega 27, Fabiano Pereira 42, Pablo Quatrocchi 84;    Alex Fernandes 48, Carlos Ochoa 76
 
-; Santos      ; 2-0; Cruz Azul
+; Santos Laguna      ; 2-0; Cruz Azul
   Daniel Ludueña (pk) 8, Daniel Luduena 45;
   
 ; Pumas       ; 1-1; Guadalajara 
@@ -92,7 +91,7 @@ Date: 8/12/2007
 ; América     ; 6-1; Jaguares
   Salvador Cabañas 2, Salvador Cabanas 37, Hernán Rodrigo López 47, Hernan Rodrigo Lopez 66, Federico Insua (pk) 69, Duilio Davino 74; Oscar Emilio Rojas 19
 
-; Toluca      ; 2-3; Santos 
+; Toluca      ; 2-3; Santos Laguna 
   Ariel Rosada 59, Antonio Naelson 79; Christian Benítez 42, Juan Pablo Rodríguez 45,    Daniel Ludueña (pk) 72
 
 Round: 3
@@ -125,7 +124,7 @@ Date: 8/19/2007
 ; Necaxa      ; 2-1; Puebla
   Hector Gimenez 1, Miguel Acosta 76; Luis Miguel Noriega 77
 
-; Santos      ; 2-0; Veracruz
+; Santos Laguna      ; 2-0; Veracruz
   Vicente Matías Vuoso 11, Christian Benitez 30;
 
 Round: 4
@@ -145,7 +144,7 @@ Date: 8/25/2007
 ; Guadalajara ; 3-1; Atlas
   Gonzalo Pineda 3, Omar Arellano 39, Ramón Morales 43;   Bruno Marioni 34
 
-; Pachuca     ; 0-1; Santos
+; Pachuca     ; 0-1; Santos Laguna
 ;  Daniel Ludueña 32
 
 ; Atlante     ; 1-1; Morelia
@@ -165,7 +164,7 @@ Date: 8/26/2007
 Round: 5
 Date: 8/29/2007
 
-; Santos      ; 2-1; Guadalajara
+; Santos Laguna      ; 2-1; Guadalajara
   Christian Benitez 35, Vicente Matías Vuoso 83; Sergio Santana 16
 
 ; Cruz Azul   ; 3-1; Toluca
@@ -214,7 +213,7 @@ Date: 9/1/2007
 ; Pachuca     ; 4-1; San Luis
   Juan Carlos Cacho 46, Christian Gimenez 63, Paul Aguilar 71, Paul Aguilar 85;   Victor Piriz 45
 
-; Atlante     ; 2-2; Santos
+; Atlante     ; 2-2; Santos Laguna
   Giancarlo Maldonado 67, David Toledo 79; Christian Benitez 39,   Daniel Ludueña 56
 
 Date: 9/2/2007
@@ -258,7 +257,7 @@ Date: 9/9/2007
 ; Necaxa      ; 1-1; Pumas
   Héctor Gimenez 75; Esteban Solari 45
 
-; Santos      ; 4-0; América
+; Santos Laguna      ; 4-0; América
   Daniel Ludueña 32, Daniel Luduena 53, Walter Jimenez 50, Walter Jimenez 69;
 
 Round: 8
@@ -272,7 +271,7 @@ Date: 9/15/2007
 ; Jaguares    ; 1-1; Morelia
   Manuel Alejandro Vela 46; Luis Ángel Landín 44
 
-; Monterrey   ; 1-1; Santos 
+; Monterrey   ; 1-1; Santos Laguna 
   Pierre Ibarra 25; Vicente Matías Vuoso 49
 
 ; Guadalajara ; 1-0; Cruz Azul
@@ -326,7 +325,7 @@ Date: 9/23/2007
 ; Toluca      ; 1-0; Guadalajara
   Sergio Ponce 74;
 
-; Santos      ; 4-1; Puebla
+; Santos Laguna      ; 4-1; Puebla
   Vicente Matías Vuoso 22, Daniel Ludueña (pk) 30, Juan Pablo Rodríguez 48,    Walter Jiménez 78; Daniel Demetrio Hernández 62
 
 Round: 10
@@ -337,7 +336,7 @@ Date: 9/28/2007
 
 Date: 9/29/2007
 
-; Jaguares    ; 2-2; Santos
+; Jaguares    ; 2-2; Santos Laguna
   Javier Cámpora 52, Melvin Brown 86; José de Jesús Gutiérrez (og) 8,    Christian Benítez 14
 
 ; Monterrey   ; 2-3; San Luis
@@ -394,7 +393,7 @@ Date: 10/7/2007
 ; Toluca      ; 3-1; América
   Christian Eduardo Giménez 10, Paulo da Silva 57, Vicente Sánchez 76; Germán Villa 62
 
-; Santos      ; 3-2; Pumas
+; Santos Laguna      ; 3-2; Pumas
   Daniel Ludueña (pk) 45, Christian Benítez 55, Chrisitan Benitez 83; Pablo Barrera 43,    Ignacio Scocco 52
 
 Round: 12
@@ -408,7 +407,7 @@ Date: 10/10/2007
 
 Date: 10/12/2007
 
-; Tecos       ; 3-1; Santos
+; Tecos       ; 3-1; Santos Laguna
   Joel Sánchez 50, Emmanuel Villa 62, Emmanuel Villa 79; Vicente Matías Vuoso 87
 
 Date: 10/13/2007
@@ -461,7 +460,7 @@ Date: 10/21/2007
 ; Necaxa      ; 2-4; Atlas
   Hugo Rodallega 15, Hugo Rodallega 44; Bruno Marioni 23, Bruno Marioni 46, Diego Colotto 45,    Eduardo Rergis 51
 
-; Santos      ; 3-2; Morelia
+; Santos Laguna      ; 3-2; Morelia
   Vicente Matías Vuoso 2, Daniel Ludueña 41, Daniel Luduena 75; Gonzalo Gabriel Choy 54, Gonzalo Gabriel Choy 66
 
 Round: 14
@@ -483,7 +482,7 @@ Date: 10/27/2007
 ; Atlante     ; 0-2; Necaxa
 ;  Hugo Rodallega 46, Pablo Quattrocchi 70
 
-; Atlas       ; 2-5; Santos
+; Atlas       ; 2-5; Santos Laguna
   Christian Valdez 14, Ulises Mendívil 48; Walter Jiménez 15, Walter Jimenez 82,    Francisco Javier Torres 17, Oribe Peralta 19, Daniel Ludueña 58
 
 Date: 10/28/2007
@@ -505,7 +504,7 @@ Date: 10/31/2007
 ; Veracruz    ; 1-3; Jaguares
   Héctor Raúl Mancilla 23; Adolfo Bautista 8, Lenilson Batista 70, Lenilson Batista 91
 
-; Necaxa      ; 2-3; Santos
+; Necaxa      ; 2-3; Santos Laguna
   José Luis López 7, Jose Luis Lopez 78; Oribe Peralta 13, Fernando Ortiz 40,    Vicente Matías Vuoso 89
 
 ; Toluca      ; 0-0; Pumas
@@ -553,7 +552,7 @@ Date: 11/4/2007
 ; Puebla      ; 0-3; Guadalajara
 ;  Omar Bravo 9, Omar Bravo 16, Alberto Medina 90
 
-; Santos      ; 0-0; Tigres
+; Santos Laguna      ; 0-0; Tigres
 
 Round: 17
 Date: 11/9/2007
@@ -569,7 +568,7 @@ Date: 11/10/2007
 ; Monterrey   ; 0-1; América
 ;  Rodrigo Iñigo 35
 
-; San Luis    ; 2-2; Santos
+; San Luis    ; 2-2; Santos Laguna
   Alfredo David Moreno (pk) 28, Alfredo David Moreno (pk) 85; Oribe Peralta 10,    Daniel Ludueña 14
  
 ; Guadalajara ; 5-4; Jaguares
@@ -661,7 +660,7 @@ Date: 1/19/2008
 ; Monterrey   ; 1-1; Necaxa 
   Felipe Baloy 3; Walter Gaitán 81
 
-; Cruz Azul   ; 1-1; Santos
+; Cruz Azul   ; 1-1; Santos Laguna
   Cristian Riveros 52; Fernando Ortiz 44
 
 ; Guadalajara ; 3-0; Pumas
@@ -705,13 +704,13 @@ Date: 1/27/2008
 ; Pumas       ; 1-2; Atlante  
   Rubens Sambueza 47; Gabriel Pereyra (pk) 59, Christian Bermúdez 66
 
-; Santos      ; 2-2; Toluca
+; Santos Laguna      ; 2-2; Toluca
   Daniel Ludueña 57, Daniel Luduena 88; Santiago Fernández 26, Sergio Ponce 84
 
 Round: 3
 Date: 2/1/2008
 
-; Veracruz    ; 1-1; Santos
+; Veracruz    ; 1-1; Santos Laguna
   Hugo García 15; Francisco Javier Torres 56
 
 Date: 2/2/2008
@@ -772,13 +771,13 @@ Date: 2/10/2008
 ; Necaxa      ; 2-0; Cruz Azul
   Hugo Rodallega (pk) 4, Fabiano Pereira 90;
 
-; Santos      ; 2-1; Pachuca
+; Santos Laguna      ; 2-1; Pachuca
   Fernando Ortiz 10, Francisco Javier Torres 21; Gabriel Caballero 19
 
 Round: 5 
 Date: 2/13/2008
 
-; Guadalajara ; 3-2; Santos
+; Guadalajara ; 3-2; Santos Laguna
   Omar Bravo 16, Omar Bravo 85, Ramón Morales 36; Vicente Matías Vuoso 77,    Edgar Eduardo Castillo 80
 
 ; Toluca      ; 1-1; Cruz Azul
@@ -829,7 +828,7 @@ Date: 2/17/2008
 ; Pumas       ; 4-1; Jaguares
   Esteban Solari 20, Esteban Solari 48, Ismael Iñiguez 59, Ignacio Scocco 71;    Juan Pablo García 87
      
-; Santos      ; 3-0; Atlante
+; Santos Laguna      ; 3-0; Atlante
   Daniel Ludueña 5, Christian Benítez 22, Fernando Arce 74;
     
 ; Tecos       ; 3-2; Puebla
@@ -866,7 +865,7 @@ Date: 2/24/2008
 ; Puebla      ; 4-0; Morelia
   Andrés Nicolás Olivera 6, Andres Nicolas Olivera (pk) 60, Álvaro González 78,    Mario Ortiz 90;
 
-; América     ; 0-1; Santos
+; América     ; 0-1; Santos Laguna
 ;  Vicente Matías Vuoso 45
 
 Round: 8
@@ -899,7 +898,7 @@ Date: 3/2/2008
 ; Toluca      ; 0-2; Pachuca  
 ;  Fernando Salazar 57, Carlos Gerardo Rodríguez 80
 
-; Santos      ; 2-0; Monterrey 
+; Santos Laguna      ; 2-0; Monterrey 
   Christian Benítez 12, Vicente Matías Vuoso 36;
 
 Round: 9
@@ -933,7 +932,7 @@ Date: 3/9/2008
 ; América     ; 1-2; San Luis
   Oscar Adrián Rojas 6; Alfredo David Moreno 57, Octavio Valdez 69
 
-; Puebla      ; 3-3; Santos
+; Puebla      ; 3-3; Santos Laguna
   Mario Ortiz 53, Álvaro González 82, Alvaro Gonzalez 93; Francisco Javier Torres 4,    Vicente Matías Vuoso 18, Christian Benítez 90
 
 Round: 10
@@ -964,7 +963,7 @@ Date: 3/16/2008
 ; Toluca      ; 2-2; Atlante
   Manuel José Maciel 8, Diego de la Torre 30;    José María Cárdenas 38, Gabriel Pereyra 77
       
-; Santos      ; 1-3; Jaguares     
+; Santos Laguna      ; 1-3; Jaguares     
   Christian Benítez 85; Itamar Batista 19, Itamar Batista 67, Juan Pablo García 71
 
 ; Cruz Azul   ; 2-2; América      
@@ -994,7 +993,7 @@ Date: 3/22/2008
        
 Date: 3/23/2008
 
-; Pumas       ; 1-1; Santos
+; Pumas       ; 1-1; Santos Laguna
   Marco Antonio Palacios 24; Vicente Matías Vuoso 38
 
 ; Puebla      ; 1-2; San Luis
@@ -1029,7 +1028,7 @@ Date: 3/30/2008
 ; Toluca      ; 1-1; Monterrey
   Jonathan Orozco (og) 76; Jared Borguetti 38
    
-; Santos      ; 4-0; Tecos
+; Santos Laguna      ; 4-0; Tecos
   Fernando Arce 54, Fernando Arce 74, Jorge Iván Estrada 65, Vicente Matías Vuoso 66;
         
 ; Necaxa      ; 1-0; Guadalajara
@@ -1052,7 +1051,7 @@ Date: 4/5/2008
 ; Jaguares    ; 1-2; Cruz Azul 
   Adolfo Bautista 7; Cristian Riveros 25, Edgar Andrade 51
 
-; Morelia     ; 0-0; Santos
+; Morelia     ; 0-0; Santos Laguna
 
 ; Atlante     ; 1-1; Guadalajara
   Javier Muñoz Mustafá 57; Sergio Santana 85
@@ -1099,7 +1098,7 @@ Date: 4/13/2008
 ; Toluca      ; 1-1; Jaguares
   Antonio Naelson 53; Oscar Emilio Rojas 43
     
-; Santos      ; 6-1; Atlas
+; Santos Laguna      ; 6-1; Atlas
   Vicente Matías Vuoso (pk) 25, Vicene Matias Vuoso 63, Vicente Matias Vuoso 73, Christian Benítez 28, Christian Benitez 79,    Oribe Peralta 87; Eduardo García 74
 
 Round: 15
@@ -1132,7 +1131,7 @@ Date: 4/20/2008
 ; Puebla      ; 5-2; Pachuca
   Javier Cámpora 6, Javier Campora 77, Javier Campora 87, Jorge Damián Zamogilny 31,    Joaquín Velásquez 67; Christian Giménez 47, Leobardo López 60
 
-; Santos      ; 1-1; Necaxa
+; Santos Laguna      ; 1-1; Necaxa
   Walter Jiménez 25; Alonso Solís 85
 
 Round: 16
@@ -1151,7 +1150,7 @@ Date: 4/26/2008
 ; Pachuca     ; 0-1; Jaguares
 ;  Itamar Batista 61
      
-; Tigres      ; 1-2; Santos
+; Tigres      ; 1-2; Santos Laguna
   Gastón Fernández 90; Fernando Arce 81, Walter Adrián Jiménez 85
        
 ; Guadalajara ; 4-0; Puebla       
@@ -1194,7 +1193,7 @@ Date: 5/4/2008
 ; Puebla      ; 2-2; Atlante
   Andrés Nicolás Olivera (pk) 45, Javier Cámpora 62;    Christian Bermúdez 79, Giancarlo Maldonado 82
 
-; Santos      ; 4-1; San Luis
+; Santos Laguna      ; 4-1; San Luis
   Rafael Figueroa 36, Vicente Matías Vuoso 42,    Christian Benítez 82, Christian Benitez 91; Tressor Moreno 9
 
 ; América     ; 1-0; Monterrey    

@@ -5,7 +5,7 @@ Season: 2003
 
 Round: Preliminary Phase
 
-Group: Section 1 
+*Group: Section 1
 * (Argentina)
 * First Stage
 
@@ -36,11 +36,11 @@ Gustavo Savoia 89; Iarley 29
 Jonathan Fabbro (pk) 58, Franco Cangele 71; César Carignano 61
 * x 2nd leg in Salta
 
-Group: Section 2 
+*Group: Section 2
 * (Brazil)
 * First Stage
 
-Group: Group 1
+Group: 1
 
 8/13/2003; Santos; 1-1; Internacional
 Fabiano 78; Flávio 25
@@ -51,7 +51,7 @@ Jefferson Feijao 50, Jefferson Feijao 52, Jefferson Feijao 61; Zé Carlos 3
 9/3/2003; Flamengo; 0-3; Santos
 ; William 32, William 55, Leo 87
 
-Group: Group 2
+Group: 2
 
 7/30/2003; Corinthians; 0-2; Atletico-MG
 ; Michel 29, Guilherme 67
@@ -62,7 +62,7 @@ Rodolfo 55, Sorato 72;
 9/3/2003; Atletico-MG; 0-2; Fluminense
 ; Joãozinho 78, Carlos Alberto 80
 
-Group: Group 3
+Group: 3
 
 7/30/2003; Gremio; 0-4; Sao Paulo FC
 ; Fabio Simplicio 9, Fabio Simplicio 51, Kleber 44, Diego Tardelli 90
@@ -73,7 +73,7 @@ Wescley 79; Elton 37
 9/3/2003; Sao Paulo FC; 2-1; Vasco da Gama
 Rico 5, Kléber 20; Wellington Monteiro 74
 
-Group: Group 4
+Group: 4
 
 7/30/2003; Sao Caetano; 3-0; Palmeiras
 Adhemar 29, Gustavo 44, Mineiro 82;
@@ -176,7 +176,7 @@ Giovanny Espinoza 46; Jorge Agudelo 52
 10/2/2003; Atletico Nacional; 1-0; LDU Quito
 Camilo Giraldo 86;
 
-Group: Section 6 (Paraguay, Uruguay)
+*Group: Section 6 (Paraguay, Uruguay)
 
 8/14/2003; Guarani; 0-1; Libertad
 ; Fredy Bareiro (pk) 25

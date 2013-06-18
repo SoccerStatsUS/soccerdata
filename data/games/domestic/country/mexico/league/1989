@@ -1,9 +1,9 @@
 Competition: Liga MX
 Season: 1989-1990
 BlockSource: http://www.rsssf.com/tablesm/mex90.html
+home-first
 
-
-Round: Week 1
+Round: 1
 Date: 9/9/1989
 
 ; Atlante; 1-1; Irapuato 
@@ -23,7 +23,7 @@ Date: 9/10/1989
 ; UAT; 1-1; Cruz Azul 
 ; Tampico Madero; 1-0; UAG 
 
-Round: Week 2
+Round: 2
 Date: 9/15/1989
 
 ; UNAM; 2-3; Cobras 
@@ -44,7 +44,7 @@ Gonzalo Farfán 71, Raúl Vicente Amarilla 88; Daniel Guzmán 76, Humberto Romer
 ; Toluca; 1-2; Guadalajara 
 ; Irapuato; 1-1; Morelia 
 
-Round: Week 3
+Round: 3
 Date: 9/23/1989
 
 ; Atlante; 1-2; Atlas 
@@ -63,7 +63,7 @@ Concepción Rodríguez 14, Omar Arellano 27; Gonzalo Farfán 38, Juan Hernández
 ; UAT; 0-0; Puebla 
 ; Tampico Madero; 1-0; Toluca 
 
-Round: Week 4
+Round: 4
 Date: 9/29/1989
 
 ; UAG; 0-1; Necaxa 
@@ -84,7 +84,7 @@ Date: 10/1/1989
 ; Puebla; 2-1; UANL 
 ; Irapuato; 1-0; Santos Laguna 
 
-Round: Week 5
+Round: 5
 Date: 10/7/1989
 
 ; Atlante; 0-1; Club America 
@@ -103,7 +103,7 @@ Date: 10/8/1989
 ; Tampico Madero; 0-0; UNAM 
 ; Morelia; 3-2; Toluca 
 
-Round: Week 6
+Round: 6
 Date: 10/13/1989
 
 ; UNAM; 1-0; Atlante 
@@ -125,7 +125,7 @@ Raúl Vicente Amarilla (pk) 59;
 ; UAG; 4-2; Monterrey 
 ; Irapuato; 3-0; UAT 
 
-Round: Week 7
+Round: 7
 Date: 10/21/1989
 
 ; Atlante; 6-3; Veracruz 
@@ -143,7 +143,7 @@ Date: 10/22/1989
 ; Irapuato; 1-1; UAG 
 ; Santos Laguna; 0-0; Toluca
 
-Round: Week 8
+Round: 8
 Date: 10/27/1989
 
 ; Club America; 4-0; Santos Laguna 
@@ -166,7 +166,7 @@ Date: 10/29/1989
 ; UNAM; 0-2; Necaxa 
 ; Wilmar Cabrera 48, Ricardo Peláez 88
 
-Round: Week 9
+Round: 9
 Date: 11/3/1989
 
 ; UAG; 0-1; Atlas 
@@ -187,7 +187,7 @@ Date: 11/5/1989
 ; Irapuato; 0-3; Toluca 
 ; Santos Laguna; 1-0; UNAM 
 
-Round: Week 10
+Round: 10
 Date: 11/10/1989
 
 ; Club America; 1-1; Irapuato 
@@ -210,7 +210,7 @@ Manuel Negrete 85;
 
 ; U de G; 2-1; Guadalajara 
 
-Round: Week 11
+Round: 11
 Date: 11/14/1989
 
 ; Atlante; 1-0; Cobras 
@@ -231,7 +231,7 @@ Date: 11/16/1989
 ; UAG; 1-1; Club America 
 Julio César Uribe (pk) 23; Gonzalo Farfán 43
 
-Round: Week 12
+Round: 12
 Date: 11/18/1989
 
 ; Cruz Azul; 2-4; Monterrey 
@@ -251,7 +251,7 @@ Eduardo Antonio dos Santos 8;
 ; UNAM; 1-1; UAG 
 Abraham Nava 38; Néstor de la Torre 53
 
-Round: Week 13
+Round: 13
 Date: 11/24/1989
 
 ; UAG; 2-0; Veracruz 
@@ -273,7 +273,7 @@ Date: 11/26/1989
 ; Santos Laguna; 0-0; UANL 
 ; Irapuato; 0-0; Cruz Azul 
 
-Round: Week 14
+Round: 14
 Date: 12/1/1989
 
 ; Club America; 1-0; UAT 
@@ -296,7 +296,7 @@ Wilson Graniolatti (og) 83; Roberto Masciarelli 50
 ; Puebla; 3-0; Irapuato 
 ; Cobras; 0-1; Santos Laguna 
 
-Round: Week 15
+Round: 15
 Date: 12/8/1989
 
 ; Club America; 3-3; UNAM 
@@ -318,7 +318,7 @@ Date: 12/10/1989
 ; UAT; 2-0; Atlante 
 ; Irapuato; 0-0; UANL 
 
-Round: Week 16
+Round: 16
 Date: 12/12/1989
 
 ; U de G; 1-0; Monterrey 
@@ -342,7 +342,7 @@ Date: 12/14/1989
 ; Cobras; 3-2; Irapuato 
 ; Tampico Madero; 1-0; Necaxa 
 
-Round: Week 17
+Round: 17
 Date: 12/16/1989
 
 ; UNAM; 2-0; Veracruz 
@@ -367,7 +367,7 @@ Date: 12/18/1989
 ; Necaxa; 0-1; Atlante 
 ; Carlos Alberto Seixas 4
 
-Round: Week 18
+Round: 18
 Date: 12/21/1989
 
 ; U de G; 3-2; UAG 
@@ -391,7 +391,7 @@ Jorge Aravena 11, Carlos Poblete 34; Gonzalo Farfán 13, Luis Roberto Alves 46
 ; UAT; 1-3; Veracruz 
 ; Guadalajara; 0-0; Irapuato 
 
-Round: Week 19
+Round: 19
 Date: 12/28/1989
 
 ; Necaxa; 0-1; UAT 
@@ -415,7 +415,7 @@ Guillermo Vázquez (pk) 75; José Manuel de la Torre 4
 ; Monterrey; 1-0; Atlante 
 ; Atlas; 0-1; U de G 
 
-Round: Week 20
+Round: 20
 Date: 1/5/1990
 
 ; Club America; 4-0; Cobras 
@@ -439,7 +439,7 @@ Juan Carlos Vera 1, Jorge Campos 23; Carlos Eduardo Muñoz 47, Sergio Almirón 5
 ; Irapuato; 3-1; Atlante 
 ; Santos Laguna; 2-1; Necaxa 
 
-Round: Week 21
+Round: 21
 Date: 1/10/1990
 
 ; Morelia; 0-1; Irapuato 
@@ -459,7 +459,7 @@ Date: 1/11/1990
 ; Guadalajara; 0-0; Toluca 
 ; Puebla; 4-2; Cruz Azul 
 
-Round: Week 22
+Round: 22
 Date: 1/13/1990
 
 ; UNAM; 1-2; U de G 
@@ -482,7 +482,7 @@ Date: 1/15/1990
 
 ; Cruz Azul; 2-0; UANL 
 
-Round: Week 23
+Round: 23
 Date: 1/20/1990
 
 ; Atlante; 1-3; Toluca 
@@ -499,7 +499,7 @@ Date: 1/21/1990
 ; Cobras; 1-1; Cruz Azul 
 ; Santos Laguna; 2-0; Irapuato 
 
-Round: Week 24
+Round: 24
 Date: 1/26/1990
 
 ; UNAM; 0-0; Tampico Madero 
@@ -519,7 +519,7 @@ Date: 1/28/1990
 ; Puebla; 0-2; Cobras 
 ; Irapuato; 1-1; Monterrey 
 
-Round: Week 25
+Round: 25
 Date: 2/3/1990
 
 ; Atlante; 0-1; UNAM 
@@ -536,7 +536,7 @@ Date: 2/4/1990
 ; Cobras; 1-0; UANL 
 ; Santos Laguna; 0-0; Atlas 
 
-Round: Week 26
+Round: 26
 Date: 2/9/1990
 
 ; Club America; 2-2; Necaxa 
@@ -556,7 +556,7 @@ Date: 2/11/1990
 ; UNAM; 1-0; Morelia 
 ; Cobras; 1-2; UAT 
 
-Round: Week 27
+Round: 27
 Date: 2/17/1990
 
 ; Monterrey; 1-1; Toluca 
@@ -573,7 +573,7 @@ Date: 2/18/1990
 ; Irapuato; 0-0; Atlas 
 ; Santos Laguna; 2-1; Club America 
 
-Round: Week 28
+Round: 28
 Date: 2/23/1990
 
 ; Toluca; 2-2; Irapuato 
@@ -593,7 +593,7 @@ Date: 2/25/1990
 ; Atlas; 2-0; UAG 
 ; Cobras; 0-0; Guadalajara 
 
-Round: Week 29
+Round: 29
 Date: 3/3/1990
 
 ; Monterrey; 1-0; UNAM 
@@ -610,7 +610,7 @@ Date: 3/4/1990
 ; Irapuato; 1-2; Club America 
 ; Santos Laguna; 1-1; Veracruz 
 
-Round: Week 30
+Round: 30
 Date: 3/9/1990
 
 ; UNAM; 2-2; Irapuato 
@@ -630,7 +630,7 @@ Date: 3/11/1990
 ; Club America; 4-0; UAG 
 ; Guadalajara; 0-0; UAT 
 
-Round: Week 31
+Round: 31
 Date: 3/17/1990
 
 ; Monterrey; 3-3; Cruz Azul 
@@ -647,7 +647,7 @@ Date: 3/18/1990
 ; Santos Laguna; 2-1; Puebla 
 ; UAG; 1-1; UNAM 
 
-Round: Week 32
+Round: 32
 Date: 3/23/1990
 
 ; Club America; 1-0; Toluca 
@@ -667,7 +667,7 @@ Date: 3/25/1990
 ; Guadalajara; 1-0; Atlante 
 ; Cobras; 2-0; Necaxa 
 
-Round: Week 33
+Round: 33
 Date: 3/30/1990
 
 ; UAG; 3-3; Cruz Azul 
@@ -687,7 +687,7 @@ Date: 4/1/1990
 ; Irapuato; 2-1; Puebla 
 ; Santos Laguna; 0-0; Cobras 
 
-Round: Week 34
+Round: 34
 Date: 4/6/1990
 
 ; Atlante; 2-2; UAT 
@@ -707,7 +707,7 @@ Date: 4/8/1990
 ; UNAM; 1-1; Club America 
 ; Guadalajara; 0-1; Necaxa 
 
-Round: Week 35
+Round: 35
 Date: 4/14/1990
 
 ; Club America; 5-3; Veracruz 
@@ -724,7 +724,7 @@ Date: 4/15/1990
 ; Irapuato; 2-0; Cobras 
 ; Santos Laguna; 2-2; Guadalajara 
 
-Round: Week 36
+Round: 36
 Date: 4/21/1990
 
 ; Veracruz; 1-4; UNAM 
@@ -745,7 +745,7 @@ Date: 4/22/1990
 ; Guadalajara; 1-2; Monterrey 
 ; Morelia; 1-1; UAT 
 
-Round: Week 37
+Round: 37
 Date: 4/27/1990
 
 ; Necaxa; 1-2; Morelia 
@@ -769,7 +769,7 @@ Raúl Vicente Amarilla 3, Carlos Hermosillo 42; Mario Cacho 49, Arturo Cañas 59
 ; Santos Laguna; 2-1; Atlante 
 ; Irapuato; 1-4; Guadalajara 
 
-Round: Week 38
+Round: 38
 Date: 5/2/1990
 
 ; U de G; 0-0; Atlas 

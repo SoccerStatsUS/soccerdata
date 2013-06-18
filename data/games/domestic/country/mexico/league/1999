@@ -1,7 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesm/mex00.html
 Competition: Liga MX
-Season: 1999 Winter
+home-first
 
+Season: 1999 Winter
 
 *Group 1
 * 1.Toluca            17  9  5  3 40-25 32
@@ -64,7 +65,7 @@ Date: 8/15/1999
 ; America    ; 2-0; Toros Neza
   Cuauhtemoc Blanco 47, Braulio Luna 80;
 
-; Santos     ; 1-1; Atlante
+; Santos Laguna     ; 1-1; Atlante
   Jared Borguetti 5; Gustavo Nápoles 76
 
 
@@ -77,7 +78,7 @@ Date: 8/19/1999
 
 Date: 8/21/1999
 
-; Toluca     ; 2-3; Santos
+; Toluca     ; 2-3; Santos Laguna
   Carlos María Morales 20, Robert Forbes 22; Pedro Muñoz 35, Pedro Munoz 65, Joahan Rodríguez 60
 
 ; Monterrey  ; 2-0; UAG
@@ -94,7 +95,7 @@ Date: 8/22/1999
   Everaldo Bejines (pk) 35, Manuel Martínez 43; Jafet Soto 38, Martín Félix Ubaldi 80
 
 ; Toros Neza ; 1-3; Necaxa
-  Washington dos Santos 42; Sergio Vázquez 37, Sergio Vazquez 86, Ignacio Ambríz 78
+  Washington dos Santos Laguna 42; Sergio Vázquez 37, Sergio Vazquez 86, Ignacio Ambríz 78
 
 ; Atlante    ; 2-1; Morelia 
   Roberto Molina 27, Gustavo Nápoles 82; Robson Luiz 32
@@ -132,7 +133,7 @@ Date: 8/29/1999
 ; America    ; 6-0; Celaya
   Cuauhtemoc Blanco (pk) 10, Cuauhtemoc Blanco 76, Braulio Luna 57, Pavel Pardo 61, Pavel Pardo 83, Sergio Berti 63;
 
-; Santos     ; 3-2; Monterrey
+; Santos Laguna     ; 3-2; Monterrey
   Jared Borguetti 38, Jared Borguetti 51, Jared Borguetti 84; Claudio da Silva 14, Pedro Pineda 90
 
 Round: 4
@@ -146,7 +147,7 @@ Date: 9/4/1999
 ; Toluca     ; 2-0; UNAM
   José Cardozo 11, Jose Cardozo 70;
 
-; Cruz Azul  ; 1-1; Santos
+; Cruz Azul  ; 1-1; Santos Laguna
   Omar Rodríguez 13; Jared Borguetti 72
 
 ; Celaya     ; 1-3; Toros Neza
@@ -193,7 +194,7 @@ Date: 9/12/1999
 ; Toros Neza ; 2-1; Leon 
   Camilo Romero 24, José Luis Navarrete 40; Hernán Medford 33
 
-; Santos     ; 2-3; Pachuca
+; Santos Laguna     ; 2-3; Pachuca
   Martín Mariano Boasso 18, Martin Mariano Boasso 72; Gerardo Mascareño 25, Pablo Hernán Gómez 75, Alejandro Glaría 73
 
 ; America    ; 2-0; Guadalajara
@@ -202,7 +203,7 @@ Date: 9/12/1999
 Round: 6
 Date: 9/17/1999
  
-; UAG        ; 1-3; Santos     ; Estadio Jalisco
+; UAG        ; 1-3; Santos Laguna     ; Estadio Jalisco
   Zdenko Muf 90; Joahan Rodríguez 2, Gandhi Vega (og) 43, Jared Borguetti 86
 
 Date: 9/18/1999
@@ -235,7 +236,7 @@ Date: 9/19/1999
 Round: 7
 Date: 9/21/1999
 
-; Necaxa     ; 3-1; Santos
+; Necaxa     ; 3-1; Santos Laguna
   Alex Aguinaga 28, Samuel Terres 52, Salvador Cabrera 70; Hugo Marcelo Ovelar 66
 
 Date: 9/22/1999
@@ -295,7 +296,7 @@ Date: 9/26/1999
 
 Date: 9/28/1999
 
-; Santos     ; 3-4; Morelia
+; Santos Laguna     ; 3-4; Morelia
   Joahan Rodríguez 11, Joahan Rodriguez 32, Heriberto Ramón Morales (og) 78; Javier Lozano 52, Alex Fernándes 62, Miguel Ángel Carreón (og) 71, Emilio Mora 73
 
 Round: 9
@@ -315,7 +316,7 @@ Date: 10/3/1999
 ; Leon       ; 1-2; Guadalajara
   Alex Madrigal 10; Jesús Mendoza 65, Jesús Arellano 89
 
-; UNAM       ; 6-0; Santos      ; Querétaro, Mexico
+; UNAM       ; 6-0; Santos Laguna      ; Querétaro, Mexico
   Jesús Olalde 7, Jesus Olalde 37, Jesus Olalde 73, Jesus Olalde 81, Gerardo Torrado 80, Federico Lagorio 85;
 
 ; Toros Neza ; 2-2; Monterrey
@@ -362,7 +363,7 @@ Date: 10/10/1999
 ; Atlante    ; 2-1; Leon
   José Zelaya 48, Jose Zelaya 63; Hernán Medford 25
 
-; Santos     ; 1-4; Puebla
+; Santos Laguna     ; 1-4; Puebla
   Héctor Altamirano 43; Martín Félix Ubaldi 11, Martin Felix Ubaldi 79, Martin Felix Ubaldi 86, Jafet Soto 59
 
 Date: 10/12/1999
@@ -381,7 +382,7 @@ Date: 10/16/1999
 ; Necaxa     ; 3-3; UNAM
   Agustín Delgado 22, Alex Aguinaga 48, Jorge Campos (og) 88; Federico Lagorio 27, Federico Lagorio 42, Jesús Olalde 33
 
-; Tigres     ; 0-0; Santos
+; Tigres     ; 0-0; Santos Laguna
 
 ; Celaya     ; 4-0; Monterrey
   Carlos Pavón 7, Luis Fernando Soto (pk) 21, Jorge Jerez 47, José Damasceno 74;
@@ -433,7 +434,7 @@ Date: 10/24/1999
 ; Atlante    ; 0-2; Necaxa
 ;  Sergio Almaguer 67, Agustín Delgado 74
 
-; Santos     ; 0-1; America
+; Santos Laguna     ; 0-1; America
 ;  Joel Sánchez 87
 
 Round: 13 
@@ -446,7 +447,7 @@ Date: 10/30/1999
   Adrián Sánchez 5, Jafet Soto 7; Sergio Almaguer 79
 
 ; Atlante    ; 2-2; Toluca
-  Antonio Carlos Santos 37, Antonio Carlos Santos (pk) 61; Víctor Ruiz 2, Victor Ruiz 66
+  Antonio Carlos Santos Laguna 37, Antonio Carlos Santos Laguna (pk) 61; Víctor Ruiz 2, Victor Ruiz 66
 
 ; Celaya     ; 1-0; Pachuca
   Luis Miguel Salvador 58;
@@ -462,7 +463,7 @@ Date: 10/31/1999
 ; Guadalajara; 2-1; Monterrey
   Paulo César Chávez 6, Álvaro Ortiz 90; Claudio da Silva 64
 
-; Toros Neza ; 2-2; Santos  
+; Toros Neza ; 2-2; Santos Laguna  
   Camilo Romero 47, Luis Salazar 84; Marcelo Ovelar 13, Jared Borguetti 89
   
 ; America    ; 1-1; Morelia      ; Querétaro, Mexico
@@ -474,14 +475,14 @@ Date: 11/3/1999
 ; Morelia    ; 2-1; Toros Neza
   Alex Fernándes 40, José Juan Rivera 80ag; Edson Astivia 27
 
-; Santos     ; 1-3; Atlas
+; Santos Laguna     ; 1-3; Atlas
   Héctor Hernández 51; Jorge Santillana 20, Eduardo Bustos 64, Miguel Zepeda 84
 
 ; Necaxa     ; 2-1; Toluca
   Agustín Delgado 31, Sergio Almaguer 81; José Manuel Abundis 51
 
 ; Monterrey  ; 4-2; Atlante
-  Gastón Obledo 5, Gaston Obledo 77, Rodolfo García 34, Guillermo Chabrand 84; Antonio Carlos Santos 27, Gustavo Nápoles 47
+  Gastón Obledo 5, Gaston Obledo 77, Rodolfo García 34, Guillermo Chabrand 84; Antonio Carlos Santos Laguna 27, Gustavo Nápoles 47
 
 ; Puebla     ; 1-1; Tigres
   Jafet Soto 20; Claudio Núñez 6
@@ -511,7 +512,7 @@ Date: 11/6/1999
 ; Atlante    ; 2-4; Cruz Azul
   Raúl Gordillo 10, José Zelaya 90; Francisco Gabriel De Anda 9, Francisco Gabriel De Anda 20, Ángel Morales 61, Julio César Pinheiro 67
 
-; Celaya     ; 0-1; Santos
+; Celaya     ; 0-1; Santos Laguna
 ;  Carlos Augusto Gomes 9
 
 ; Atlas      ; 2-1; Morelia
@@ -544,7 +545,7 @@ Date: 11/13/1999
   Javier Saavedra 27, Raúl Llanes 37; Cuauhtemoc Blanco 19, Braulio Luna 35
 
 ; Puebla     ; 3-1; Toros Neza 
-  Jafet Soto 8, Roberto Medina 29, Alberto García Aspe 46; Washington dos Santos 37
+  Jafet Soto 8, Roberto Medina 29, Alberto García Aspe 46; Washington dos Santos Laguna 37
 
 ; UAG        ; 3-1; Guadalajara
   Roberto Palacios 25, Zdenko Muf 81, Sebastián Abreu 88; Marco Antonio Ruiz 6
@@ -560,7 +561,7 @@ Date: 11/14/1999
 ; UNAM       ; 0-1; Atlas        ; Toluca, Mexico
 ;  Hugo Castillo 66
 
-; Santos     ; 3-0; Leon
+; Santos Laguna     ; 3-0; Leon
   Carlos Augusto Gomes 8, Carlos Augusto Gomes 16, Jared Borguetti 58;
 
 
@@ -579,7 +580,7 @@ Date: 11/21/1999
 ; Atlante    ; 0-1; UAG         ; Irapuato, Mexico
 ;  Zdenko Muf 8
 
-; Guadalajara; 2-2; Santos
+; Guadalajara; 2-2; Santos Laguna
   Claudio Suárez 54, Héctor del Ángel 90; Jared Borguetti 59, Joahan Rodríguez 82
  
 ; Celaya     ; 0-2; UNAM
@@ -625,7 +626,7 @@ Date: 11/21/1999
 *           Tecos U.A.G., América, Guadalajara (best three runners-up)
   
 
-Season: 1999 Summer
+Season: 2000 Summer
 
 *Group 1
 * 1.Toluca            17 13  1  3 44-28 40
@@ -679,7 +680,7 @@ Date: 1/16/2000
 ; Toros Neza ; 0-5; America 
 ;  Marcelo da Faria 37, Marcelo da Faria 66, Marcelo da Faria 83, Fabián Estay 64, José Luis Calderón 71
 
-; Atlante    ; 1-2; Santos
+; Atlante    ; 1-2; Santos Laguna
   Juan Carlos Centurión 70; Jared Borguetti 29, Elvis Brajkovic (og) 61
 
 Date: 1/26/2000
@@ -714,7 +715,7 @@ Date: 1/23/2000
 
 ; UNAM       ; 0-0; Guadalajara  ; Querétaro, Mexico
 
-; Santos     ; 4-2; Toluca
+; Santos Laguna     ; 4-2; Toluca
   Jared Borguetti 31, Jared Borguetti (pk) 90, Rodrigo Ruiz 81, Carlos Augusto Gomes 86; José Manuel Abundis 14, Alberto Macías 33
 
 ; America    ; 4-1; Atlas
@@ -729,7 +730,7 @@ Date: 1/29/2000
 ; Cruz Azul  ; 5-1; UAG 
   Juan Francisco Palencia 13, Juan Francisco Palencia 45, Julio César Pinheiro 30, Raúl Mariscal (og) 38, Julio César Yegros 57; Sebastián Abreu 27
 
-; Monterrey  ; 0-0; Santos
+; Monterrey  ; 0-0; Santos Laguna
 
 ; Celaya     ; 3-1; America
   José Soto 12, Gustavo Nápoles 35, Armando González 90; Fabián Estay 2
@@ -773,9 +774,9 @@ Date: 2/6/2000
   Federico Lagorio 62, Antonio Sancho 74, Manuel de la Torre 83; Manuel Martínez 24, Carlos María Morales 35, Carlos Maria Morales 64, Carlos Maria Morales 68, José Cardozo 45, Antonio Naelson 66
 
 ; Toros Neza ; 4-3; Celaya
-  Jesús López Meneses 36, Roberto Molina 42, Marcos Ayala 56, Washington dos Santos 80; Gustavo Nápoles 12, Luis Fernando Soto (pk) 22, Luis Fernando Soto 59
+  Jesús López Meneses 36, Roberto Molina 42, Marcos Ayala 56, Washington dos Santos Laguna 80; Gustavo Nápoles 12, Luis Fernando Soto (pk) 22, Luis Fernando Soto 59
 
-; Santos     ; 3-1; Cruz Azul
+; Santos Laguna     ; 3-1; Cruz Azul
   Marcelo Ovelar 22, Salvador Mariscal 58, Jared Borguetti (pk) 73; Mauro Camoranesi (pk) 27
 
 ; America    ; 4-2; Leon
@@ -809,7 +810,7 @@ Date: 2/13/2000
 ; Leon       ; 1-2; Toros Neza
   Camilo Romero 39; Edson Astivia 12, Germán Arangio 42
 
-; Pachuca    ; 1-1; Santos
+; Pachuca    ; 1-1; Santos Laguna
   Marcelino Bernal (pk) 86; Marcelo Ovelar 3
 
 ; Guadalajara; 3-0; America
@@ -859,7 +860,7 @@ Date: 2/20/2000
 ; Morelia    ; 1-1; Pachuca
   Luis García (pk) 86; César Gómez 33
 
-; Santos     ; 2-0; UAG
+; Santos Laguna     ; 2-0; UAG
   Edson Alvarado 80, Héctor Hernández 85;
 
 ; America    ; 1-1; Atlante
@@ -901,7 +902,7 @@ Annulled
 
 Date: 2/27/2000
 
-; Santos     ; 2-2; Necaxa
+; Santos Laguna     ; 2-2; Necaxa
   Joahan Rodríguez 44, Joahan Rodriugez 90; Agustín Delgado 42, Agustin Delgado 79
  
 ; Atlante    ; 3-2; Toros Neza
@@ -940,7 +941,7 @@ Date: 3/5/2000
 ; UNAM       ; 2-1; UAG
   Horacio Sánchez 47, Jesús Olalde 88; Sebastián Abreu 23
 
-; Morelia    ; 0-0; Santos
+; Morelia    ; 0-0; Santos Laguna
 
 ; Toros Neza ; 0-1; Toluca
 ;  Manuel Martínez 11
@@ -965,7 +966,7 @@ Date: 3/11/2000
   Mauro Camoranesi 71, Joel Sánchez (og) 73; Pavel Pardo 3, José Luis Calderón 64, Joel Sánchez 74
 
 ; Monterrey  ; 0-3; Toros Neza
-;  Germán Arangio 53, Washington dos Santos 61, Washinton dos Santos 80
+;  Germán Arangio 53, Washington dos Santos Laguna 61, Washinton dos Santos Laguna 80
 
 Date: 3/12/2000
 
@@ -977,7 +978,7 @@ Date: 3/12/2000
 ; Pachuca    ; 1-0; Tigres
   Pablo Hernán Gómez 34;
 
-; Santos     ; 1-0; UNAM
+; Santos Laguna     ; 1-0; UNAM
   Jared Borguetti 65;
 
 ; Atlante    ; 1-1; Celaya
@@ -991,7 +992,7 @@ Date: 3/18/2000
 ; Tigres     ; 5-1; UAG
   Claudio Núñez (pk) 41, Claudio Nunez 90, Mauro Caballero 70, Luis Hernández 82, Luis Hernandez 84; Sebastián Abreu 1
 
-; Puebla     ; 3-1; Santos
+; Puebla     ; 3-1; Santos Laguna
   Alberto García Aspe 14, Sigifredo Mercado 58, Jaime Iván Kaviedes 83; Luis Romero 28
 
 ; Celaya     ; 2-3; Toluca
@@ -1041,7 +1042,7 @@ Date: 3/26/2000
 ; Pachuca    ; 0-1; Toros Neza
 ;  Germán Arangio (pk) 87
 
-; Santos     ; 5-0; Tigres
+; Santos Laguna     ; 5-0; Tigres
   Jared Borguetti 34, Jared Borguetti (pk) 58, Jared Borguetti 75, Jared Borguetti 81, Joaquín Hernández (og) 71;
 
 ; Atlante    ; 0-1; Guadalajara
@@ -1050,7 +1051,7 @@ Date: 3/26/2000
 Round: 12
 Date: 3/31/2000
 
-; America    ; 6-1; Santos
+; America    ; 6-1; Santos Laguna
   José Luis Calderón 45, Braulio Luna 47, Carlos Hermosillo 52, Carlos Hermosillo 86, Fabián Estay 75, Joel Sánchez 79; Edson Alvarado 56
 
 Date: 4/1/2000
@@ -1109,7 +1110,7 @@ Date: 4/9/2000
 ; Necaxa     ; 2-2; Puebla
   Christian Montesinos 25, Christian Montesinos 35; Joaquín Velásquez 47, Sergio Almaguer (og) 57
 
-; Santos     ; 2-2; Toros Neza
+; Santos Laguna     ; 2-2; Toros Neza
   Carlos Augusto Gomes 26, Joahan Rodríguez 32; Roberto Molina 7, Daniel Garnero 81
 
 Date: 4/26/2000
@@ -1129,7 +1130,7 @@ Date: 4/15/2000
 ; Celaya     ; 3-2; UAG
   Gustavo Nápoles 34, Armando González 53, Luis Fernando Soto 76; Zdenko Muf 36, Sebastián Abreu 37
 
-; Atlas      ; 2-2; Santos
+; Atlas      ; 2-2; Santos Laguna
   Daniel Osorno 39, Christian Cásseres 46; Luis Romero 63, Jared Borguetti 72
 
 Date: 4/16/2000
@@ -1171,7 +1172,7 @@ Date: 4/22/2000
 
 Date: 4/23/2000
 
-; Santos     ; 1-0; Celaya
+; Santos Laguna     ; 1-0; Celaya
   Rodrigo Ruiz 59;
 
 ; Pachuca    ; 2-0; Guadalajara
@@ -1183,7 +1184,7 @@ Date: 4/23/2000
 Date: 5/3/2000
 
 ; UNAM       ; 3-1; Toros Neza
-  Jaime Lozano 5, Luis Ignacio González 26, Fernando Ochoaizpur 63; Washington dos Santos 85
+  Jaime Lozano 5, Luis Ignacio González 26, Fernando Ochoaizpur 63; Washington dos Santos Laguna 85
 
 Round: 16
 Date: 4/29/2000
@@ -1207,7 +1208,7 @@ Date: 4/30/2000
 ; Guadalajara; 4-0; UAG
   Héctor del Ángel 28, Jesús Mendoza 45, Jesus Mendoza 67, Alejandro Nava 77;
 
-; Leon       ; 2-2; Santos
+; Leon       ; 2-2; Santos Laguna
   Everaldo Bejines 21, Jaime Ordiales 22; Pedro Muñoz 63, Martín Boasso 82
 
 ; Toros Neza ; 1-0; Puebla
@@ -1233,7 +1234,7 @@ Date: 5/7/2000
 ; Puebla     ; 5-2; Atlas
   Alberto García Aspe 58, Jaime Iván Kaviedes 63, Jaime Ivan Kaviedes 89, Sergio Zárate 69, Jafet Soto 73; Mario Saucedo 57, Juan Pablo Santiago 74
  
-; Santos     ; 2-0; Guadalajara
+; Santos Laguna     ; 2-0; Guadalajara
   Héctor del Ángel (og) 26, Joahan Rodríguez 44;
  
 ; Morelia    ; 0-0; Leon 

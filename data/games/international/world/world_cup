@@ -5,7 +5,7 @@ Season: 1930
 BlockSource: http://en.wikipedia.org/wiki/1930_FIFA_World_Cup
 
 Round: First round
-Group: Group 1
+Group: 1
 
 7/13/1930; France; 4-1; Mexico; Estadio Pocitos; Domingo Lombardi; 3000 
 
@@ -19,7 +19,7 @@ Group: Group 1
 
 7/22/1930; Argentina; 3-1; Chile; Estadio Centenario; John Langenus; 35000
 
-Group: Group 2
+Group: 2
 
 7/14/1930; Yugoslavia; 2-1; Brazil; Estadio Parque Central, Montevideo; Anibal Tejada; 5000
 
@@ -27,7 +27,7 @@ Group: Group 2
 
 7/20/1930; Brazil; 4-0; Bolivia; Estadio Centenario; Thomas Balvay; 1200
 
-Group: Group 3
+Group: 3
 
 7/14/1930; Romania; 3-1; Peru; Estadio Pocitos; Alberto Warnken; 300
 
@@ -35,7 +35,7 @@ Group: Group 3
 
 7/21/1930; Uruguay; 4-0; Romania; Estadio Centenario; Almeida Rego; 80000
 
-Group: Group 4
+Group: 4
 
 7/13/1930; United States; 3-0; Belgium; Estadio Parque Central, Montevideo; Jose Macias; 10000
 
@@ -44,6 +44,7 @@ Group: Group 4
 7/20/1930; Paraguay; 1-0; Belgium; Estadio Centenario; Ricardo Vallarino; 900
 
 Round: Semifinals
+Group: 
 
 7/26/1930; Argentina; 6-1; United States; Estadio Centenario; John Langenus; 72886
 
@@ -69,7 +70,7 @@ Round: First round
 
 5/27/1934; Czechoslovakia; 2-1; Romania; Stadio Littorio; John Langenus; 8000
 
-5/27/1934; Sweden; 3-2; Argentina; Stadio Littorale; Eugen Braun; 15000
+5/27/1934; Sweden; 3-2; Argentina; Stadio Littoriale; Eugen Braun; 15000
 
 5/27/1934; Austria; 3-2 (aet); France; Stadio Benito Mussolini; Johannes van Moorsel; 20000
 
@@ -77,7 +78,7 @@ Round: First round
 
 Round: Quarterfinals
 
-5/31/1934; Austria; 2-1; Hungary; Stadio Littorale; Francesco Mattea; 25000
+5/31/1934; Austria; 2-1; Hungary; Stadio Littoriale; Francesco Mattea; 25000
 
 5/31/1934; Italy; 1-1 (aet); Spain; Stadio Giovanni Berta; Louis Baert; 35000
 Notes: Replay played on 6/1/1934
@@ -168,7 +169,7 @@ Group: 1
 
 6/24/1950; Brazil; 4-0; Mexico; Estadio do Maracana; George Reader; 82000
 
-6/25/1950; Yugoslavia; 3-0; Switzerland; Estadio Independencia, Belo Horizonte; 7500
+6/25/1950; Yugoslavia; 3-0; Switzerland; Estadio Independencia, Belo Horizonte; Giovanni Galeati; 7500
 
 6/28/1950; Brazil; 2-2; Switzerland; Estadio do Pacaembu; Ramon Azon Roma; 42000
 
@@ -200,11 +201,12 @@ Group: 3
 
 7/2/1950; Italy; 2-0; Paraguay; Estadio do Pacaembu; Arthur Ellis; 26000
 
-Group: Group 4
+Group: 4
 
 7/2/1950; Uruguay; 8-0; Bolivia; Estadio Independencia, Belo Horizonte; George Reader; 6000
 
 Round: Final Round
+Group: 
 
 7/9/1950; Uruguay; 2-2; Spain; Estadio do Pacaembu; Benjamin Griffiths; 45000
 
@@ -239,14 +241,14 @@ Group: 2
 
 6/17/1954; Hungary; 9-0; South Korea; Hardturm Stadium; Raymond Vincenti; 18000
 
-6/20/1954; Hungary; 8-3; West Germany; St. Jackob Stadium; Ling; 65000
+6/20/1954; Hungary; 8-3; West Germany; St. Jakob Stadium; Ling; 65000
 
 6/20/1954; Turkey; 7-0; South Korea; Charmilles Stadium; Esteban Marino; 3000
 
 * Playoff
 6/23/1954; West Germany; 7-2; Turkey; Hardturm Stadium; Raymond Vincenti; 18000
 
-Group: Group 3
+Group: 3
 
 6/16/1954; Uruguay; 2-0; Czechoslovakia; Wankdorf Stadium; Ellis; 20500
 
@@ -256,7 +258,7 @@ Group: Group 3
 
 6/19/1954; Austria; 5-0; Czechoslovakia; Hardturm Stadium; Vasa Stefanovic; 25000
 
-Group: Group 4
+Group: 4
 
 6/17/1954; Switzerland; 2-1; Italy; Stade Olympique de la Pontaise; Mario Vianna; 43000
 
@@ -270,6 +272,7 @@ Group: Group 4
 6/23/1954; Switzerland; 4-1; Italy; St. Jakob Stadium; Benjamin Griffiths; 30000
 
 Round: Quarterfinals
+Group: 
 
 6/26/1954; Austria; 7-5; Switzerland; Stade Olympique de la Pontaise; Charlie Faultless; 35000
 
@@ -361,6 +364,7 @@ Group: 4
 6/17/1958; Soviet Union; 1-0; England; Ullevi; Dusch; 23182
 
 Round: Quarterfinals
+Group: 
 
 6/19/1958; France; 4-0; Northern Ireland; Idrottsparken; Gardeazabal; 12000
 
@@ -389,85 +393,86 @@ Season: 1962
 BlockSource: http://en.wikipedia.org/wiki/1962_FIFA_World_Cup
 
 Round: First Round
-Group: Group 1
+Group: 1
 
-5/30/1962; Uruguay; 2-1; Colombia; Estadio Carlos Dittborn; Andor Dorogi
+5/30/1962; Uruguay; 2-1; Colombia; Estadio Carlos Dittborn; Andor Dorogi; 7908
 
-5/31/1962; Soviet Union; 2-0; Yugoslavia; Estadio Carlos Dittborn; Albert Dusch
+5/31/1962; Soviet Union; 2-0; Yugoslavia; Estadio Carlos Dittborn; Albert Dusch; 15000
 
-6/2/1962; Yugoslavia; 3-1; Uruguay; Estadio Carlos Dittborn; Karol Galba
+6/2/1962; Yugoslavia; 3-1; Uruguay; Estadio Carlos Dittborn; Karol Galba; 8829
 
-6/3/1962; Soviet Union; 4-4; Colombia; Estadio Carlos Dittborn; Joao Etzel Filho
+6/3/1962; Soviet Union; 4-4; Colombia; Estadio Carlos Dittborn; Joao Etzel Filho; 8040
 
-6/6/1962; Soviet Union; 2-1; Uruguay; Estadio Carlos Dittborn; Cesare Jonni
+6/6/1962; Soviet Union; 2-1; Uruguay; Estadio Carlos Dittborn; Cesare Jonni; 9973
 
-6/7/1962; Yugoslavia; 5-0; Colombia; Estadio Carlos Dittborn; Carlos Robles
+6/7/1962; Yugoslavia; 5-0; Colombia; Estadio Carlos Dittborn; Carlos Robles; 7167
 
-Group: Group 2
+Group: 2
 
-5/30/1962; Chile; 3-1; Switzerland; Estadio Nacional, Santiago; Kenneth Aston
+5/30/1962; Chile; 3-1; Switzerland; Estadio Nacional, Santiago; Kenneth Aston; 65000
 
-5/31/1962; West Germany; 0-0; Italy; Estadio Nacional, Santiago; Robert Holley Davidson
+5/31/1962; West Germany; 0-0; Italy; Estadio Nacional, Santiago; Robert Holley Davidson; 65440
 
-6/2/1962; Chile; 2-0; Italy; Estadio Nacional, Santiago; Kenneth Aston
+6/2/1962; Chile; 2-0; Italy; Estadio Nacional, Santiago; Kenneth Aston; 66057
 
-6/3/1962; West Germany; 2-1; Switzerland; Estadio Nacional, Santiago; Leo Horn
+6/3/1962; West Germany; 2-1; Switzerland; Estadio Nacional, Santiago; Leo Horn; 64922
 
-6/6/1962; West Germany; 2-0; Chile; Estadio Nacional, Santiago; Robert Holley Davidson
+6/6/1962; West Germany; 2-0; Chile; Estadio Nacional, Santiago; Robert Holley Davidson; 67224
 
-6/7/1962; Italy; 3-0; Switzerland; Estadio Nacional, Santiago; Nikolay Latyshev
+6/7/1962; Italy; 3-0; Switzerland; Estadio Nacional, Santiago; Nikolay Latyshev; 59828
 
-Group: Group 3
+Group: 3
 
-5/30/1962; Brazil; 2-0; Mexico; Estadio Sausalito; Gottfried Dienst
+5/30/1962; Brazil; 2-0; Mexico; Estadio Sausalito; Gottfried Dienst; 10484
 
-5/31/1962; Czechoslovakia; 1-0; Spain; Estadio Sausalito; Carl Erich Steiner
+5/31/1962; Czechoslovakia; 1-0; Spain; Estadio Sausalito; Carl Erich Steiner; 12700
 
-6/2/1962; Brazil; 0-0; Czechoslovakia; Estadio Sausalito; Pierre Schwinte
+6/2/1962; Brazil; 0-0; Czechoslovakia; Estadio Sausalito; Pierre Schwinte; 14903
 
-6/3/1962; Spain; 1-0; Mexico; Estadio Sausalito; Branko Tesanic
+6/3/1962; Spain; 1-0; Mexico; Estadio Sausalito; Branko Tesanic; 11875
 
-6/6/1962; Brazil; 2-1; Spain; Estadio Sausalito; Sergio Bustamante
+6/6/1962; Brazil; 2-1; Spain; Estadio Sausalito; Sergio Bustamante; 18715
 
-6/7/1962; Mexico; 3-1; Czechoslovakia; Estadio Sausalito; Gottfried Dienst
+6/7/1962; Mexico; 3-1; Czechoslovakia; Estadio Sausalito; Gottfried Dienst; 10648
 
-Group: Group 4
+Group: 4
 
-5/30/1962; Argentina; 1-0; Bulgaria; Estadio El Teniente; Juan Gardeazabal 
+5/30/1962; Argentina; 1-0; Bulgaria; Estadio El Teniente; Juan Gardeazabal; 7134
 
-5/31/1962; Hungary; 2-1; England; Estadio El Teniente; Leo Horn
+5/31/1962; Hungary; 2-1; England; Estadio El Teniente; Leo Horn; 7938
 
-6/2/1962; England; 3-1; Argentina; Estadio El Teniente; Nikolay Latyshev
+6/2/1962; England; 3-1; Argentina; Estadio El Teniente; Nikolay Latyshev; 9794
 
-6/3/1962; Hungary; 6-1; Bulgaria; Estadio El Teniente; Juan Gardeazabal Garay
+6/3/1962; Hungary; 6-1; Bulgaria; Estadio El Teniente; Juan Gardeazabal Garay; 7442
 
-6/6/1962; Hungary; 0-0; Argentina; Estadio El Teniente; Arturo Yamasaki Maldonado
+6/6/1962; Hungary; 0-0; Argentina; Estadio El Teniente; Arturo Yamasaki Maldonado; 7945
 
-6/7/1962; England; 0-0; Bulgaria; Estadio El Teniente; Antoine Blavier
+6/7/1962; England; 0-0; Bulgaria; Estadio El Teniente; Antoine Blavier; 5700
 
 Round: Quarterfinals
+Group: 
 
-6/10/1962; Chile; 2-1; Soviet Union; Estadio Carlos Dittborn; Leo Horn
+6/10/1962; Chile; 2-1; Soviet Union; Estadio Carlos Dittborn; Leo Horn; 17268
 
-6/10/1962; Czechoslovakia; 1-0; Hungary; Estadio El Teniente; Nikolay Latyshev
+6/10/1962; Czechoslovakia; 1-0; Hungary; Estadio El Teniente; Nikolay Latyshev; 11690
 
-6/10/1962; Brazil; 3-1; England; Estadio Sausalito; 17736
+6/10/1962; Brazil; 3-1; England; Estadio Sausalito; Pierre Schwinte; 17736
 
-6/10/1962; Yugoslavia; 1-0; West Germany; Estadio Nacional, Santiago; Arturo Yamasaki Maldonado
+6/10/1962; Yugoslavia; 1-0; West Germany; Estadio Nacional, Santiago; Arturo Yamasaki Maldonado; 63324
 
 Round: Semifinals
 
-6/13/1962; Czechoslovakia; 3-1; Yugoslavia; Estadio Sausalito; Gottfried Dienst
+6/13/1962; Czechoslovakia; 3-1; Yugoslavia; Estadio Sausalito; Gottfried Dienst; 5890
 
-6/13/1962; Brazil; 4-2; Chile; Estadio Nacional, Santiago; Juan Gardeazabal Garay
+6/13/1962; Brazil; 4-2; Chile; Estadio Nacional, Santiago; Juan Gardeazabal Garay; 76500
 
 Round: Third Place
 
-6/16/1962; Chile; 1-0; Yugoslavia; Estadio Nacional, Santiago
+6/16/1962; Chile; 1-0; Yugoslavia; Estadio Nacional, Santiago; 67000
 
 Round: Final
 
-6/17/1962; Brazil; 3-1; Czechoslovakia; Estadio Nacional, Santiago; Nikolay Latyshev
+6/17/1962; Brazil; 3-1; Czechoslovakia; Estadio Nacional, Santiago; Nikolay Latyshev; 68679
 
 
 Season: 1966
@@ -476,7 +481,7 @@ BlockSource: http://en.wikipedia.org/wiki/1966_FIFA_World_Cup
 Round: First round
 Group: 1
 
-7/11/1966; England; 0-0; Uruguay; Wembey Stadium; Istvan Zsolt; 87148
+7/11/1966; England; 0-0; Uruguay; Wembley Stadium; Istvan Zsolt; 87148
 
 7/13/1966; France; 1-1; Mexico; Wembley Stadium; Menachem Ashkenazi; 69237
 
@@ -531,10 +536,11 @@ Group: 4
 7/20/1966; Soviet Union; 2-1; Chile; Roker Park; John Adair; 22000
 
 Round: Quarterfinals
+Group: 
 
 7/23/1966; Portugal; 5-3; North Korea; Goodison Park; Menachem Ashkenazi; 51780
 
-7/23/1966; West Germany; 4-0; Uruguay; Hillborough Stadium; Jim Finney; 34000
+7/23/1966; West Germany; 4-0; Uruguay; Hillsborough Stadium; Jim Finney; 34000
 
 7/23/1966; Soviet Union; 2-1; Hungary; Roker Park; Juan Gardeazabal Garay; 26844        
 
@@ -616,6 +622,7 @@ Group: 4
 6/11/1970; Morocco; 1-1; Bulgaria; Estadio Nou Camp; Antonio Ribeiro Saldanha; 12299
 
 Round: Quarterfinals
+Group: 
 
 6/14/1970; West Germany; 3-2 (aet); England; Estadio Nou Camp; Angel Norberto Coerezza; 23357
 
@@ -664,15 +671,16 @@ Group: B
 
 6/26/1974; Sweden; 0-1; Poland; Neckarstadion; Ramon Barreto; 43755
 
-6/30/1974; Poland; 2-1; Yugoslavia; Waldstadion; Rudi Glockner; 55000
+6/30/1974; Poland; 2-1; Yugoslavia; Frankfurt Waldstadion; Rudi Glockner; 55000
 
 6/30/1974; West Germany; 4-2; Sweden; Rheinstadion; Pavel Kazakov; 66500
 
-7/3/1974; Poland; 0-1; West Germany; Waldstadion; Erich Linemayr; 59000
+7/3/1974; Poland; 0-1; West Germany; Frankfurt Waldstadion; Erich Linemayr; 59000
 
 7/3/1974; Sweden; 2-1; Yugoslavia; Rheinstadion; Luis Pestarino; 4000
 
 Round: Third place
+Group: 
 
 7/6/1974; Brazil; 0-1; Poland; Olympiastadion; Aurelio Angonese; 74100
 
@@ -684,69 +692,70 @@ Round: Final
 Season: 1978
 BlockSource: http://en.wikipedia.org/wiki/1978_FIFA_World_Cup#Second_Group_Round
 
-Round: First Round
+Round: 1
 Group: 1
 
-6/2/1978; Italy; 2-1; France; Estadio Jose Maria Minella; Nicolae Rainea
-6/2/1978; Argentina; 2-1; Hungary; Estadio Monumental Antonio Vespucio Liberti; Antonio Garrido
-6/6/1978; Italy; 3-1; Hungary; Estadio Jose Maria Minella; Ramon Barreto
-6/6/1978; Argentina; 2-1; France; Estadio Monumental Antonio Vespucio Liberti; Jean Dubach
-6/10/1978; France; 3-1; Hungary; Estadio Jose Maria Minella; Arnaldo Cezar Coelho
-6/10/1978; Argentina; 0-1; Italy; Estadio Monumental Antonio Vespucio Liberti; Abraham Klein
+6/2/1978; Italy; 2-1; France; Estadio Jose Maria Minella; Nicolae Rainea; 38100
+6/2/1978; Argentina; 2-1; Hungary; Estadio Monumental Antonio Vespucio Liberti; Antonio Garrido; 71615
+6/6/1978; Italy; 3-1; Hungary; Estadio Jose Maria Minella; Ramon Barreto; 26533
+6/6/1978; Argentina; 2-1; France; Estadio Monumental Antonio Vespucio Liberti; Jean Dubach; 71666
+6/10/1978; France; 3-1; Hungary; Estadio Jose Maria Minella; Arnaldo Cezar Coelho; 23127
+6/10/1978; Argentina; 0-1; Italy; Estadio Monumental Antonio Vespucio Liberti; Abraham Klein; 71712
 
 Group: 2
 
-6/1/1978; West Germany; 0-0; Poland; Estadio Monumental Antonio Vespucio Liberti;
-6/2/1978; Tunisia; 3-1; Mexico; Estadio Gigante de Arroyito;
-6/6/1978; West Germany; 6-0; Mexico; Estadio Gigante de Arroyito;
-6/6/1978; Poland; 1-0; Tunisia; Estadio Gigante de Arroyito;
-6/10/1978; West Germany; 0-0; Tunisia; Estadio Olimpico Chateau Carreras
-6/10/1978; Poland; 3-1; Mexico; Estadio Gigante de Arroyito;
+6/1/1978; West Germany; 0-0; Poland; Estadio Monumental Antonio Vespucio Liberti; Angel Norberto Coerezza; 67579
+6/2/1978; Tunisia; 3-1; Mexico; Estadio Gigante de Arroyito; John Gordon; 17396
+6/6/1978; West Germany; 6-0; Mexico; Estadio Gigante de Arroyito; Farouk Bouzo; 35258
+6/6/1978; Poland; 1-0; Tunisia; Estadio Gigante de Arroyito; Angel Franco Martinez; 9624
+6/10/1978; West Germany; 0-0; Tunisia; Estadio Olimpico Chateau Carreras; Cesar Guerrero Orosco; 30667
+6/10/1978; Poland; 3-1; Mexico; Estadio Gigante de Arroyito; Jafar Namdar; 22651
 
 Group: 3
 
-6/3/1978; Austria; 2-1; Spain; Estadio Jose Amalfitani; Karoly Palotai
-6/3/1978; Brazil; 1-1; Sweden; Estadio Jose Maria Minella; Clive Thomas
-6/7/1978; Austria; 1-0; Sweden; Estadio Jose Amalfitani; Charles Corver
-6/7/1978; Brazil; 0-0; Spain; Estadio Jose Maria Minella; Sergio Gonella
-6/11/1978; Spain; 1-0; Sweden; Estadio Jose Amalfitani; Ferdinand Biwersi
-6/11/1978; Brazil; 1-0; Austria; Estadio Jose Maria Minella; Robert Wurtz
+6/3/1978; Austria; 2-1; Spain; Estadio Jose Amalfitani; Karoly Palotai; 40841
+6/3/1978; Brazil; 1-1; Sweden; Estadio Jose Maria Minella; Clive Thomas; 32569
+6/7/1978; Austria; 1-0; Sweden; Estadio Jose Amalfitani; Charles Corver; 41424
+6/7/1978; Brazil; 0-0; Spain; Estadio Jose Maria Minella; Sergio Gonella; 34771
+6/11/1978; Spain; 1-0; Sweden; Estadio Jose Amalfitani; Ferdinand Biwersi; 46765
+6/11/1978; Brazil; 1-0; Austria; Estadio Jose Maria Minella; Robert Wurtz; 35221
 
 Group: 4
 
-6/3/1978; Peru; 3-1; Scotland; Estadio Chateau Carreras; Ulf Eriksson
-6/3/1978; Netherlands; 3-0; Iran; Estadio Ciudad de Mendoza; Alfonso Gonzalez Archundia
-6/7/1978; Scotland; 1-1; Iran; Estadio Chateau Carreras; Youssou N'Diaye
-6/7/1978; Netherlands; 0-0; Peru; Estadio Ciudad de Mendoza; Adolf Prokop
-6/11/1978; Peru; 4-1; Iran; Estadio Chateau Carreras; Alojzy Jarguz
-6/11/1978; Scotland; 3-2; Netherlands; Estadio Ciudad de Mendoza; Erich Linemayr
+6/3/1978; Peru; 3-1; Scotland; Estadio Chateau Carreras; Ulf Eriksson; 37927
+6/3/1978; Netherlands; 3-0; Iran; Estadio Ciudad de Mendoza; Alfonso Gonzalez Archundia; 33431
+6/7/1978; Scotland; 1-1; Iran; Estadio Chateau Carreras; Youssou N'Diaye; 7938
+6/7/1978; Netherlands; 0-0; Peru; Estadio Ciudad de Mendoza; Adolf Prokop; 28125
+6/11/1978; Peru; 4-1; Iran; Estadio Chateau Carreras; Alojzy Jarguz; 21262
+6/11/1978; Scotland; 3-2; Netherlands; Estadio Ciudad de Mendoza; Erich Linemayr; 35130
 
-Round: Second Round
+Round: 2
 Group: A
 
-6/14/1978; Austria; 1-5; Netherlands; Estadio Chateau Carreras; John Gordon
-6/14/1978; Italy; 0-0; West Germany; Estadio Monumental Antonio Vespucio Liberti; Dusan Maksimovic
-6/18/1978; Netherlands; 2-2; West Germany; Estadio Chateau Carreras; Ramon Barreto
-6/18/1978; Italy; 1-0; Austria; Estadio Monumental Antonio Vespucio Liberti; Francis Rion
-6/21/1978; Austria; 3-2; West Germany; Estadio Chateau Carreras; Abraham Klein
-6/21/1978; Italy; 1-2; Netherlands; Estadio Monumental Antonio Vespucio Liberti; Angel Franco Martinez
+6/14/1978; Austria; 1-5; Netherlands; Estadio Chateau Carreras; John Gordon; 25050
+6/14/1978; Italy; 0-0; West Germany; Estadio Monumental Antonio Vespucio Liberti; Dusan Maksimovic; 67547
+6/18/1978; Netherlands; 2-2; West Germany; Estadio Chateau Carreras; Ramon Barreto; 40750
+6/18/1978; Italy; 1-0; Austria; Estadio Monumental Antonio Vespucio Liberti; Francis Rion; 66695
+6/21/1978; Austria; 3-2; West Germany; Estadio Chateau Carreras; Abraham Klein; 38318
+6/21/1978; Italy; 1-2; Netherlands; Estadio Monumental Antonio Vespucio Liberti; Angel Franco Martinez; 67433
 
 Group: B
 
-6/14/1978; Peru; 0-3; Brazil; Estadio Ciudad de Mendoza; Nicolae Rainea
-6/14/1978; Argentina; 2-0; Poland; Estadio Gigante de Arroyito; Ulf Eriksson
-6/18/1978; Peru; 0-1; Poland; Estadio Ciudad de Mendoza; Pat Partridge
-6/18/1978; Argentina; 0-0; Brazil; Estadio Gigante de Arroyito; Karoly Palotai
-6/21/1978; Poland; 1-3; Brazil; Estadio Ciudad de Mendoza; Juan Silvagno Cavanna
-6/21/1978; Argentina; 6-0; Peru; Estadio Gigante de Arroyito; Robert Wurtz
+6/14/1978; Peru; 0-3; Brazil; Estadio Ciudad de Mendoza; Nicolae Rainea; 31278
+6/14/1978; Argentina; 2-0; Poland; Estadio Gigante de Arroyito; Ulf Eriksson; 37091
+6/18/1978; Peru; 0-1; Poland; Estadio Ciudad de Mendoza; Pat Partridge; 35288
+6/18/1978; Argentina; 0-0; Brazil; Estadio Gigante de Arroyito; Karoly Palotai; 37326
+6/21/1978; Poland; 1-3; Brazil; Estadio Ciudad de Mendoza; Juan Silvagno Cavanna; 39586
+6/21/1978; Argentina; 6-0; Peru; Estadio Gigante de Arroyito; Robert Wurtz; 37315
 
 Round: Third Place
+Group: 
 
-6/24/1978; Brazil; 2-1; Italy; Estadio Monumental Antonio Vespucio Liberti; Abraham Klein
+6/24/1978; Brazil; 2-1; Italy; Estadio Monumental Antonio Vespucio Liberti; Abraham Klein; 69659
 
 Round: Final
 
-6/25/1978; Netherlands; 1-3 (aet); Argentina; Estadio Monumental Antonio Vespucio Liberti; Sergio Gonella
+6/25/1978; Netherlands; 1-3 (aet); Argentina; Estadio Monumental Antonio Vespucio Liberti; Sergio Gonella; 71483
 
 
 Season: 1982
@@ -829,7 +838,7 @@ Group: 6
 
 6/15/1982; Scotland; 5-2; New Zealand; Estadio La Rosaleda; David Socha; 36000
 
-6/18/1982; Brazil; 4-1; Scotland; Estadio Benito Vaillamarin; Luis Paulino Siles; 47379
+6/18/1982; Brazil; 4-1; Scotland; Estadio Benito Villamarin; Luis Paulino Siles; 47379
 
 6/19/1982; Soviet Union; 3-0; New Zealand; Estadio La Rosaleda; Yousef El-Ghoul; 19000
 
@@ -872,6 +881,7 @@ Group: D
 7/4/1982; Northern Ireland; 1-4; France; Estadio Vicente Calderon; Alojzy Jarguz; 37000
 
 Round: Semifinals
+Group: 
 
 7/8/1982; Poland; 0-2; Italy; Camp Nou; Juan Daniel Cardellino; 50000
 
@@ -891,128 +901,130 @@ Season: 1986
 Round: Group Stage
 Group: A
 
-5/31/1986; Bulgaria; 1-1; Italy; Estadio Azteca; Erik Fredriksson
+5/31/1986; Bulgaria; 1-1; Italy; Estadio Azteca; Erik Fredriksson; 96000
 
-6/2/1986; Argentina; 3-1; South Korea; Estadio Olimpico Universitario; Victoriano Sanchez Arminio
+6/2/1986; Argentina; 3-1; South Korea; Estadio Olimpico Universitario; Victoriano Sanchez Arminio; 60000
 
-6/5/1986; Italy; 1-1; Argentina; Estadio Cuauhtemoc; Jan Keizer
+6/5/1986; Italy; 1-1; Argentina; Estadio Cuauhtemoc; Jan Keizer; 32000
 
-6/5/1986; South Korea; 1-1; Bulgaria; Estadio Olimpico Universitario; Fallaj Al Shanar
+6/5/1986; South Korea; 1-1; Bulgaria; Estadio Olimpico Universitario; Fallaj Al Shanar; 45000
 
-6/10/1986; South Korea; 2-3; Italy; Estadio Cuauhtemoc; David Socha
+6/10/1986; South Korea; 2-3; Italy; Estadio Cuauhtemoc; David Socha; 20000
 
-6/10/1986; Argentina; 2-0; Bulgaria; Estadio Olimpico Universitario; Berny Ulloa Morera
+6/10/1986; Argentina; 2-0; Bulgaria; Estadio Olimpico Universitario; Berny Ulloa Morera; 65000
 
 Group: B
 
-6/3/1986; Belgium; 1-2; Mexico; Estadio Azteca; Carlos Esposito
+6/3/1986; Belgium; 1-2; Mexico; Estadio Azteca; Carlos Esposito; 110000
 
-6/4/1986; Paraguay; 1-0; Iraq; Estadio Nemesio Diez; Edwin Picon-Ackong
+6/4/1986; Paraguay; 1-0; Iraq; Estadio Nemesio Diez; Edwin Picon-Ackong; 24000
 
-6/7/1986; Mexico; 1-1; Paraguay; Estadio Azteca; George Courtney
+6/7/1986; Mexico; 1-1; Paraguay; Estadio Azteca; George Courtney; 14600
 
-6/8/1986; Iraq; 1-2; Belgium; Estadio Nemesio Diez; Jesus Diaz
+6/8/1986; Iraq; 1-2; Belgium; Estadio Nemesio Diez; Jesus Diaz; 20000
 
-6/11/1986; Paraguay; 2-2; Belgium; Estadio Nemesio Diez; Bogdan Dotchev
+6/11/1986; Paraguay; 2-2; Belgium; Estadio Nemesio Diez; Bogdan Dotchev; 16000
 
-6/11/1986; Iraq; 0-1; Mexico; Estadio Azteca; Zoran Petrovic
+6/11/1986; Iraq; 0-1; Mexico; Estadio Azteca; Zoran Petrovic; 103763
 
 Group: C
 
-6/1/1986; Canada; 0-1; France; Estadio Nou Camp, Leon; Hernan Silva
+6/1/1986; Canada; 0-1; France; Estadio Nou Camp, Leon; Hernan Silva; 36000
 
-6/2/1986; Soviet Union; 6-0; Hungary; Estadio Sergio Leon Chavez; Luigi Agnolin
+6/2/1986; Soviet Union; 6-0; Hungary; Estadio Sergio Leon Chavez; Luigi Agnolin; 16500
 
-6/5/1986; France; 1-1; Soviet Union; Estadio Nou Camp, Leon; Romualdo Arppi Filho
+6/5/1986; France; 1-1; Soviet Union; Estadio Nou Camp, Leon; Romualdo Arppi Filho; 36540
 
-6/6/1986; Hungary; 2-0; Canada; Estadio Sergio Leon Chavez; Jamal Al Sharif
+6/6/1986; Hungary; 2-0; Canada; Estadio Sergio Leon Chavez; Jamal Al Sharif; 13800
 
-6/9/1986; Hungary; 0-3; France; Estadio Nou Camp, Leon; Carlos Silva Valente
+6/9/1986; Hungary; 0-3; France; Estadio Nou Camp, Leon; Carlos Silva Valente; 31420
 
-6/9/1986; Soviet Union; 2-0; Canada; Estadio Sergio Leon Chavez; Idriss Traore
+6/9/1986; Soviet Union; 2-0; Canada; Estadio Sergio Leon Chavez; Idriss Traore; 14200
 
 Group: D
 
-6/1/1986; Spain; 0-1; Brazil; Estadio Jalisco; Chris Bambridge
+6/1/1986; Spain; 0-1; Brazil; Estadio Jalisco; Chris Bambridge; 35748
 
-6/3/1986; Algeria; 1-1; Northern Ireland; Estadio Tres de Marzo; Valeri Butenko
+6/3/1986; Algeria; 1-1; Northern Ireland; Estadio Tres de Marzo; Valeri Butenko; 22000
 
-6/6/1986; Brazil; 1-0; Algeria; Estadio Jalisco; Romulo Mendez
+6/6/1986; Brazil; 1-0; Algeria; Estadio Jalisco; Romulo Mendez; 48000
 
-6/7/1986; Northern Ireland; 1-2; Spain; Estadio Tres de Marzo; Horst Brummeier
+6/7/1986; Northern Ireland; 1-2; Spain; Estadio Tres de Marzo; Horst Brummeier; 28000
 
-6/12/1986; Northern Ireland; 0-3; Brazil; Estadio Jalisco; Siegfried Kirschen
+6/12/1986; Northern Ireland; 0-3; Brazil; Estadio Jalisco; Siegfried Kirschen; 51000
 
-6/12/1986; Algeria; 0-3; Spain; Estadio Tecnologico; Shizuo Takada
+6/12/1986; Algeria; 0-3; Spain; Estadio Tecnologico; Shizuo Takada; 23980
 
 Group: E
 
-6/4/1986; Uruguay; 1-1; West Germany; Estadio La Corregidora; Vojtech Christov
+6/4/1986; Uruguay; 1-1; West Germany; Estadio La Corregidora; Vojtech Christov; 30500
 
-6/4/1986; Scotland; 0-1; Denmark; Estadio Neza 86; Lajos Nemeth
+6/4/1986; Scotland; 0-1; Denmark; Estadio Neza 86; Lajos Nemeth; 18000
 
-6/8/1986; West Germany; 2-1; Scotland; Estadio La Corregidora; Ioan Igna
+6/8/1986; West Germany; 2-1; Scotland; Estadio La Corregidora; Ioan Igna; 30000
 
-6/8/1986; Denmark; 6-1; Uruguay; Estadio Neza 86; Antonio Marquez Ramirez
+6/8/1986; Denmark; 6-1; Uruguay; Estadio Neza 86; Antonio Marquez Ramirez; 26500
 
-6/13/1986; Denmark; 2-0; West Germany; Estadio La Corregidora; Alexis Ponnet
+6/13/1986; Denmark; 2-0; West Germany; Estadio La Corregidora; Alexis Ponnet; 36000
 
-6/13/1986; Scotland; 0-0; Uruguay; Estadio Neza 86; Joel Quiniou
+6/13/1986; Scotland; 0-0; Uruguay; Estadio Neza 86; Joel Quiniou; 20000
 
 Group: F
 
-6/2/1986; Morocco; 0-0; Poland; Estadio Universitario, Monterrey; Jose Luis Martinez Bazan
+6/2/1986; Morocco; 0-0; Poland; Estadio Universitario, Monterrey; Jose Luis Martinez Bazan; 19900
 
-6/3/1986; Portugal; 1-0; England; Estadio Tecnologico; Volker Roth
+6/3/1986; Portugal; 1-0; England; Estadio Tecnologico; Volker Roth; 23000
 
-6/6/1986; England; 0-0; Morocco; Estadio Tecnologico; Gabriel Gonzalez
+6/6/1986; England; 0-0; Morocco; Estadio Tecnologico; Gabriel Gonzalez; 20200
 
-6/7/1986; Poland; 1-0; Portugal; Estadio Universitario, Monterrey; Ali Bin Nassar
+6/7/1986; Poland; 1-0; Portugal; Estadio Universitario, Monterrey; Ali Bin Nassar; 19915
 
-6/11/1986; England; 3-0; Poland; Estadio Universitario, Monterrey; Andre Daina
+6/11/1986; England; 3-0; Poland; Estadio Universitario, Monterrey; Andre Daina; 22700
 
-6/11/1986; Portugal; 1-3; Morocco; Estadio Tres de Marzo; Alan Snoddy
+6/11/1986; Portugal; 1-3; Morocco; Estadio Tres de Marzo; Alan Snoddy; 28000
 
 Round: Round of 16
+Group: 
 
-6/15/1986; Mexico; 2-0; Bulgaria; Estadio Azteca; Romualdo Arppi Filho
+6/15/1986; Mexico; 2-0; Bulgaria; Estadio Azteca; Romualdo Arppi Filho; 114580
 
-6/15/1986; Soviet Union; 3-4 (aet); Belgium; Estadio Nou Camp, Leon; Erik Fredriksson
+6/15/1986; Soviet Union; 3-4 (aet); Belgium; Estadio Nou Camp, Leon; Erik Fredriksson; 32277
 
-6/16/1986; Brazil; 4-0; Poland; Estadio Jalisco; Volker Roth
+6/16/1986; Brazil; 4-0; Poland; Estadio Jalisco; Volker Roth; 45000
 
-6/16/1986; Argentina; 1-0; Uruguay; Estadio Cuauhtemoc; Luigi Agnolin
+6/16/1986; Argentina; 1-0; Uruguay; Estadio Cuauhtemoc; Luigi Agnolin; 26000
 
-6/17/1986; Italy; 0-2; France; Estadio Olimpico Universitario
+6/17/1986; Italy; 0-2; France; Estadio Olimpico Universitario; 70000
 
-6/17/1986; Morocco; 0-1; West Germany; Estadio Universitario, Monterrey
+6/17/1986; Morocco; 0-1; West Germany; Estadio Universitario, Monterrey; 19800
 
-6/18/1986; England; 3-0; Paraguay; Estadio Azteca; Jamal Al Sharif
+6/18/1986; England; 3-0; Paraguay; Estadio Azteca; Jamal Al Sharif; 98728
 
-6/18/1986; Denmark; 1-5; Spain; Estadio La Corregidora; Jan Keizer
+6/18/1986; Denmark; 1-5; Spain; Estadio La Corregidora; Jan Keizer; 38500
 
 Round: Quarterfinals
 
-6/21/1986; Brazil; 1-1 (aet); France; Estadio Jalisco; Ioan Igna
+6/21/1986; Brazil; 1-1 (aet); France; Estadio Jalisco; Ioan Igna; 65000
 
-6/21/1986; West Germany; 0-0 (aet); Mexico; Estadio Universitario, Monterrey; Jesus Diaz
+6/21/1986; West Germany; 0-0 (aet); Mexico; Estadio Universitario, Monterrey; Jesus Diaz; 41700
 
-6/22/1986; Argentina; 2-1; England; Estadio Azteca; Ali Bin Nasser
+6/22/1986; Argentina; 2-1; England; Estadio Azteca; Ali Bin Nasser; 114580
 
-6/22/1986; Spain; 1-1 (aet); Belgium; Estadio Cuauhtemoc; Siegfried Kirschen
+6/22/1986; Spain; 1-1 (aet); Belgium; Estadio Cuauhtemoc; Siegfried Kirschen; 45000
 
 Round: Semifinals
 
-6/25/1986; France; 0-2; West Germany; Estadio Jalisco; Luigi Agnolin
-6/25/1986; Argentina; 2-0; Belgium; Estadio Azteca; Antonio Marquez Ramirez
+6/25/1986; France; 0-2; West Germany; Estadio Jalisco; Luigi Agnolin; 45000
 
-Round: Third Place Match
+6/25/1986; Argentina; 2-0; Belgium; Estadio Azteca; Antonio Marquez Ramirez; 114500
 
-6/28/1986; France; 4-2 (aet); Belgium; Estadio Cuauhtemoc; George Courtney
+Round: Third Place
+
+6/28/1986; France; 4-2 (aet); Belgium; Estadio Cuauhtemoc; George Courtney; 21000
 
 Round: Final
 
-6/29/1986; Argentina; 3-2; West Germany; Estadio Azteca; Romualdo Arppi Filho
+6/29/1986; Argentina; 3-2; West Germany; Estadio Azteca; Romualdo Arppi Filho; 114600
 
 
 Season: 1990
@@ -1080,6 +1092,7 @@ Group: F
 6/21/1990; Republic of Ireland; 1-1; Netherlands; Stadio La Favorita; Michel Vautrot; 33288
 
 Round: Round of 16
+Group: 
 
 6/23/1990; Cameroon; 2-1 (aet); Colombia; Stadio San Paolo; Tullio Lanense; 50026
 
@@ -1211,6 +1224,7 @@ Group: F
 6/29/1994; Morocco; 1-2; Netherlands; Citrus Bowl; Alberto Tejada Noriega; 60578
 
 Round: Round of 16
+Group: 
 
 7/2/1994; Germany; 3-2; Belgium; Soldier Field; Kurt Rothlisberger; 60246
 
@@ -1250,7 +1264,7 @@ Round: Third place
 
 Round: Final
 
-7/17/1994; Brazil; 0-0 (aet); Rose Bowl; Sandor Puhl; 94194
+7/17/1994; Brazil; 0-0 (aet); Italy; Rose Bowl; Sandor Puhl; 94194
 
 
 Season: 1998
@@ -1263,14 +1277,114 @@ Group: A
 
 6/10/1998; Morocco; 2-2; Norway; Stade de la Mosson; Pirom Un-Prasert; 29800
 
+6/16/1998; Scotland; 1-1; Norway; Parc Lescure; Laszlo Vagner; 31800
+
+6/16/1998; Brazil; 3-0; Morocco; Stade de la Beaujoire; Nikolai Levnikov; 35500
+
+6/23/1998; Brazil; 1-2; Norway; Stade Velodrome; Esfandiar Baharmast; 55000
+
+6/23/1998; Scotland; 0-3; Morocco; Stade Geoffroy-Guichard; Ali Bujsaim; 30600
+
 Group: B
+
+6/11/1998; Italy; 2-2; Chile; Parc Lescure; Lucien Bouchardeau; 31800
+
+6/11/1998; Cameroon; 1-1; Austria; Stade de Toulouse; Epifanio Gonzalez; 33460
+
+6/17/1998; Chile; 1-1; Austria; Stade Geoffroy-Guichard; Gamal Al-Ghandour; 30600
+
+6/17/1998; Italy; 3-0; Cameroon; Stade de la Mosson; Edward Lennie; 29800
+
+6/23/1998; Italy; 2-1; Austria; Stade de France; Paul Durkin; 80000
+
+6/23/1998; Chile; 1-1; Cameroon; Stade de la Beaujoire; Laszlo Vagner; 35500
+
 Group: C
+
+6/12/1998; Saudi Arabia; 0-1; Denmark; Stade Felix Bollaert; Javier Castrilli; 38140
+
+6/12/1998; France; 3-0; South Africa; Stade Velodrome; Marcio Rezende de Freitas; 55000
+
+6/18/1998; South Africa; 1-1; Denmark; Stade de Toulouse; John Toro Rendon; 33300
+
+6/18/1998; France; 4-0; Saudi Arabia; Stade de France; Arturo Brizio Carter; 80000
+
+6/24/1998; France; 2-1; Denmark; Stade Gerland; Pierluigi Collina; 39100
+
+6/24/1998; South Africa; 2-2; Saudi Arabia; Parc Lescure; Mario Sanchez; 31800
+
 Group: D
+
+6/12/1998; Paraguay; 0-0; Bulgaria; Stade de la Mosson; Abdul Rahman Al-Zeid; 27650
+
+6/13/1998; Spain; 2-3; Nigeria; Stade de la Beaujoire; Esfandiar Baharmast; 33257
+
+6/19/1998; Nigeria; 1-0; Bulgaria; Parc des Princes; Mario Sanchez Yanten; 45500
+
+6/19/1998; Spain; 0-0; Paraguay; Stade Geoffroy-Guichard; Ian McLeod; 30600
+
+6/24/1998; Nigeria; 1-3; Paraguay; Stade de Toulouse; Pirom Un-Prasert; 33500
+
+6/24/1998; Spain; 6-1; Bulgaria; Stade Felix-Bollaert; Mario van der Ende; 38100
+
 Group: E
+
+6/13/1998; South Korea; 1-3; Mexico; Stade de Gerland; Gunter Benko; 39100
+
+6/13/1998; Netherlands; 0-0; Belgium; Stade de France; Pierluigi Collina; 75000
+
+6/20/1998; Belgium; 2-2; Mexico; Parc Lescure; Hugh Dallas; 31800
+
+6/20/1998; Netherlands; 5-0; South Korea; Stade Velodrome; Ryszard Wojcik; 55000
+
+6/25/1998; Netherlands; 2-2; Mexico; Stade Geoffroy-Guichard; Abdul Rahman Al-Zeid; 30600
+
+6/25/1998; Belgium; 1-1; South Korea; Parc des Princes; Marcio Rezende de Freitas; 45500
+
 Group: F
+
+6/14/1998; Yugoslavia; 1-0; Iran; Stade Geoffroy-Guichard; Alberto Tejada; 30392
+
+6/15/1998; Germany; 2-0; United States; Parc des Princes; Said Belqola; 43815
+
+6/21/1998; Germany; 2-2; Yugoslavia; Stade Felix-Bollaert; Kim Milton Nielsen; 38100
+
+6/21/1998; United States; 1-2; Iran; Stade de Gerland; Urs Meier; 39100
+
+6/25/1998; United States; 0-1; Yugoslavia; Stade de la Beaujoire; Gamal Al-Ghandour; 35500
+
+6/25/1998; Germany; 2-0; Iran; Stade de la Mosson; Epifanio Gonzalez; 29800
+
 Group: G
 
+6/15/1998; England; 2-0; Tunisia; Stade Velodrome; Masayoshi Okada; 54587
+
+6/15/1998; Romania; 1-0; Colombia; Stade de Gerland; Lim Kee Chong; 37572
+
+6/22/1998; Colombia; 1-0; Tunisia; Stade de la Mosson; Bernd Heynemann; 29800
+
+6/22/1998; Romania; 2-1; England; Stade de Toulouse; Marc Batta; 33500
+
+6/26/1998; England; 0-2; Colombia; Stade Felix-Bollaert; Arturo Brizio Carter; 38100
+
+6/26/1998; Romania; 1-1; Tunisia; Stade de France; Edward Lennie; 77000
+
+Group: H
+
+6/14/1998; Argentina; 1-0; Japan; Stade de Toulouse; Mario van der Ende; 33400
+
+6/14/1998; Jamaica; 1-3; Croatia; Stade Felix-Bollaert; Vitor Melo Pereira; 38058
+
+6/20/1998; Japan; 0-1; Croatia; Stade de la Beaujoire; Ramesh Ramdhan; 35500
+
+6/21/1998; Argentina; 5-0; Jamaica; Parc des Princes; Rune Pedersen; 45000
+
+6/26/1998; Argentina; 1-0; Croatia; Parc Lescure; Said Belqola; 31800
+
+6/26/1998; Japan; 1-2; Jamaica; Stade Gerland; Gunter Benko; 39100
+
 Round: Round of 16
+Group: 
 
 6/27/1998; Italy; 1-0; Norway; Stade Velodrome; Bernd Heynemann; 55000
 
@@ -1286,7 +1400,7 @@ Round: Round of 16
 
 6/30/1998; Romania; 0-1; Croatia; Parc Lescure; Javier Castrilli; 31800
 
-6/30/1998; Argentina; 2-2 (aet); England; Stade Geoffrey-Guichard; Kim Milton Nielsen; 30600
+6/30/1998; Argentina; 2-2 (aet); England; Stade Geoffroy-Guichard; Kim Milton Nielsen; 30600
 
 Round: Quarterfinals
 
@@ -1300,7 +1414,7 @@ Round: Quarterfinals
 
 Round: Semifinals
 
-7/7/1998; Brazil; 1-1 (aet); Stade Velodrome; Ali Bujsaim; 54000
+7/7/1998; Brazil; 1-1 (aet); Netherlands; Stade Velodrome; Ali Bujsaim; 54000
 
 7/8/1998; France; 2-1; Croatia; Stade de France; Jose Garcia Aranda; 76000
 
@@ -1316,7 +1430,122 @@ Round: Final
 Season: 2002
 BlockSource: http://en.wikipedia.org/wiki/2002_FIFA_World_Cup
 
+Round: Group
+Group: A
+
+5/31/2002; France; 0-1; Senegal; Seoul World Cup Stadium; Ali Bujsaim; 62561
+
+6/1/2002; Uruguay; 1-2; Denmark; Munsu Cup Stadium; Saad Mane; 30157
+
+6/6/2002; Denmark; 1-1; Senegal; Daegu World Cup Stadium; Carlos Batres; 43500
+
+6/6/2002; France; 0-0; Uruguay; Busan Asiad Main Stadium; Felipe Ramos; 38289
+
+6/11/2002; Denmark; 2-0; France; Incheon Munhak Stadium; Vitor Melo Pereira; 48100
+
+6/11/2002; Senegal; 3-3; Uruguay; Suwon World Cup Stadium; Jan Wegereef; 33681
+
+Group: B
+
+6/2/2002; Paraguay; 2-2; South Africa; Busan Asiad Main Stadium; Lubos Michel; 25186
+
+6/2/2002; Spain; 3-1; Slovenia; Gwangju World Cup Stadium; Mohamed Guezzaz; 28598
+
+6/7/2002; Spain; 3-1; Paraguay; Jeonju World Cup Stadium; Gamal Al-Ghandour; 24000
+
+6/8/2002; South Africa; 1-0; Slovenia; Daegu World Cup Stadium; Angel Sanchez; 47226
+
+6/12/2002; South Africa; 2-3; Spain; Daejeon World Cup Stadium; Saad Mane; 31024
+
+6/12/2002; Slovenia; 1-3; Paraguay; Jeju World Cup Stadium; Felipe Ramos; 30176
+
+Group: C
+
+6/3/2002; Brazil; 2-1; Turkey; Munsu Cup Stadium; Kim Young-Joo; 33842
+
+6/4/2002; China; 0-2; Costa Rica; Gwangju World Cup Stadium; Kyros Vassaras; 27217
+
+6/8/2002; Brazil; 4-0; China; Jeju World Cup Stadium; Anders Frisk; 36750
+
+6/9/2002; Costa Rica; 1-1; Turkey; Incheon Munhak Stadium; Coffi Codjia; 42299
+
+6/13/2002; Costa Rica; 2-5; Brazil; Suwon World Cup Stadium; Gamal Al-Ghandour; 38524
+
+6/13/2002; Turkey; 3-0; China; Seoul World Cup Stadium; Oscar Ruiz; 43605
+
+Group: D
+
+6/4/2002; South Korea; 2-0; Poland; Busan Asiad Main Stadium; Oscar Ruiz; 48760
+
+6/5/2002; United States; 3-2; Portugal; Suwon World Cup Stadium; Byron Moreno; 37306
+
+6/10/2002; South Korea; 1-1; United States; Daegu World Cup Stadium; Urs Meier; 60778
+
+6/10/2002; Portugal; 4-0; Poland; Jeonju World Cup Stadium; Hugh Dallas; 31000
+
+6/14/2002; Portugal; 0-1; South Korea; Incheon Munhak Stadium; Angel Sanchez; 50239
+
+6/14/2002; Poland; 3-1; United States; Daejeon World Cup Stadium; Lu Jun; 26482
+
+Group: E
+
+6/1/2002; Ireland; 1-1; Cameroon; Niigata Stadium; Toru Kamikawa; 33679
+
+6/1/2002; Germany; 8-0; Saudi Arabia; Sapporo Dome; Ubaldo Aquino; 32218
+
+6/5/2002; Germany; 1-1; Ireland; Kashima Soccer Stadium; Kim Milton Nielsen; 35854
+
+6/6/2002; Cameroon; 1-0; Saudi Arabia; Saitama Stadium; Terje Hauge; 52328
+
+6/11/2002; Cameroon; 0-2; Germany; Ecopa Stadium; Antonio Lopez Nieto; 47085
+
+6/11/2002; Saudi Arabia; 0-3; Republic of Ireland; International Stadium Yokohama; Falla N'Doye; 65320
+
+Group: F
+
+6/2/2002; Argentina; 1-0; Nigeria; Kashima Soccer Stadium; Gilles Veissiere; 34050
+
+6/2/2002; England; 1-1; Sweden; Saitama Stadium; Carlos Simon; 52721
+
+6/7/2002; Sweden; 2-1; Nigeria; Kobe Wing Stadium; Rene Ortube; 36194
+
+6/7/2002; Argentina; 0-1; England; Sapporo Dome; Pierluigi Collina; 35927
+
+6/12/2002; Sweden; 1-1; Argentina; Miyagi Stadium; Ali Bujsaim; 45777
+
+6/12/2002; Nigeria; 0-0; England; Nagai Stadium; Brian Hall; 44684
+
+Group: G
+
+6/3/2002; Croatia; 0-1; Mexico; Niigata Big Swan Stadium; Lu Jun; 32239
+
+6/3/2002; Italy; 2-0; Ecuador; Sapporo Dome; Brian Hall; 31081
+
+6/8/2002; Italy; 1-2; Croatia; Kashima Soccer Stadium; Graham Poll; 36472
+
+6/9/2002; Mexico; 2-1; Ecuador; Miyagi Stadium; Mourad Daami; 45610
+
+6/13/2002; Mexico; 1-1; Italy; Oita Big Eye Stadium; Carlos Simon; 39291
+
+6/13/2002; Ecuador; 1-0; Croatia; International Stadium Yokohama; William Mattus; 65862
+
+Group: H
+
+6/4/2002; Japan; 2-2; Belgium; Saitama Stadium; William Mattus; 55256
+
+6/5/2002; Russia; 2-0; Tunisia; Kobe Wing Stadium; Peter Prendergast; 30957
+
+6/9/2002; Japan; 1-0; Russia; International Stadium Yokohama; Markus Merk; 66108
+
+6/10/2002; Tunisia; 1-1; Belgium; Oita Big Eye Stadium; Mark Shield; 52000
+
+6/14/2002; Tunisia; 0-2; Japan; Nagai Stadium; Gilles Veissiere; 45213
+
+6/14/2002; Belgium; 3-2; Russia; Shizuoka Ecopa Stadium; Kim Milton Nielsen; 46640
+
+
 Round: Round of 16
+Group: 
 
 6/15/2002; Germany; 1-0; Paraguay; Jeju World Cup Stadium; Carlos Batres; 25176
 
@@ -1364,157 +1593,158 @@ Season: 2006
 Round: Group Stage
 Group: A
 
-6/9/2006; Germany; 4-2; Costa Rica; Allianz Arena; Horacio Elizondo
+6/9/2006; Germany; 4-2; Costa Rica; Allianz Arena; Horacio Elizondo; 66000
 
-6/9/2006; Poland; 0-2; Ecuador; Veltins-Arena; Toru Kamikawa
+6/9/2006; Poland; 0-2; Ecuador; Veltins-Arena; Toru Kamikawa; 52000
 
-6/14/2006; Germany; 1-0; Poland; Signal Iduna Park; Luis Medina Cantalejo
+6/14/2006; Germany; 1-0; Poland; Signal Iduna Park; Luis Medina Cantalejo; 65000
 
-6/15/2006; Ecuador; 3-0; Costa Rica; HSH Nordbank Arena; Coffi Codija
+6/15/2006; Ecuador; 3-0; Costa Rica; HSH Nordbank Arena; Coffi Codija; 50000
 
-6/20/2006; Ecuador; 0-3; Germany; Olympiastadion; Valentin Ivanov
+6/20/2006; Ecuador; 0-3; Germany; Olympiastadion; Valentin Ivanov; 72000
 
-6/20/2006; Costa Rica; 1-2; Poland; AWD-Arena; Shamsul Maidin
+6/20/2006; Costa Rica; 1-2; Poland; AWD-Arena; Shamsul Maidin; 43000
 
 Group: B
 
-6/10/2006; England; 1-0; Paraguay; Commerzbank-Arena; Marco Rodriguez
+6/10/2006; England; 1-0; Paraguay; Commerzbank-Arena; Marco Rodriguez; 48000
 
-6/10/2006; Trinidad and Tobago; 0-0; Sweden; Signal Iduna Park; Shamsul Maidin
+6/10/2006; Trinidad and Tobago; 0-0; Sweden; Signal Iduna Park; Shamsul Maidin; 62959
 
-6/15/2006; England; 2-0; Trinidad and Tobago; Frankenstadion; Toru Kamikawa
+6/15/2006; England; 2-0; Trinidad and Tobago; Frankenstadion; Toru Kamikawa ; 41000
 
-6/15/2006; Sweden; 1-0; Paraguay; Olympiastadion; Lubos Michel
+6/15/2006; Sweden; 1-0; Paraguay; Olympiastadion; Lubos Michel; 72000
 
-6/20/2006; Sweden; 2-2; England; RheinEnergieStadion; Massimo Busacca
+6/20/2006; Sweden; 2-2; England; RheinEnergieStadion; Massimo Busacca; 45000
 
-6/20/2006; Paraguay; 2-0; Trinidad and Tobago; Fritz Walter Stadion; Roberto Rosetti
+6/20/2006; Paraguay; 2-0; Trinidad and Tobago; Fritz Walter Stadion; Roberto Rosetti; 46000
 
 Group: C
 
-6/10/2006; Argentina; 2-1; Ivory Coast; AOL Arena; Frank De Bleeckere
+6/10/2006; Argentina; 2-1; Ivory Coast; AOL Arena; Frank De Bleeckere; 49480
 
-6/11/2006; Serbia and Montenegro; 0-1; Netherlands; Zentralstadion; Markus Merk
+6/11/2006; Serbia and Montenegro; 0-1; Netherlands; Zentralstadion; Markus Merk; 43000
 
-6/16/2006; Argentina; 6-0; Serbia and Montenegro; Veltins-Arena; Roberto Rosetti
+6/16/2006; Argentina; 6-0; Serbia and Montenegro; Veltins-Arena; Roberto Rosetti; 52000
 
-6/16/2006; Netherlands; 2-1; Ivory Coast; Gottlieb-Daimler-Stadion; Oscar Ruiz
+6/16/2006; Netherlands; 2-1; Ivory Coast; Gottlieb-Daimler-Stadion; Oscar Ruiz; 52000
 
-6/21/2006; Netherlands; 0-0; Argentina; Commerzbank-Arena; Luis Medina Cantalejo
+6/21/2006; Netherlands; 0-0; Argentina; Commerzbank-Arena; Luis Medina Cantalejo; 48000
 
-6/21/2006; Ivory Coast; 3-2; Serbia and Montenegro; Allianz Arena; Marco Rodriguez
+6/21/2006; Ivory Coast; 3-2; Serbia and Montenegro; Allianz Arena; Marco Rodriguez; 66000
 
 Group: D
 
-6/11/2006; Mexico; 3-1; Iran; Frankenstadion; Roberto Rosetti
+6/11/2006; Mexico; 3-1; Iran; Frankenstadion; Roberto Rosetti; 41000
 
-6/11/2006; Angola; 0-1; Portugal; RheinEnergieStadion; Jorge Larrionda
+6/11/2006; Angola; 0-1; Portugal; RheinEnergieStadion; Jorge Larrionda; 45000
 
-6/16/2006; Mexico; 0-0; Angola; AWD-Arena; Shamsul Maidin
+6/16/2006; Mexico; 0-0; Angola; AWD-Arena; Shamsul Maidin; 43000
 
-6/17/2006; Portugal; 2-0; Iran; Commerzbank-Arena; Eric Poulat
+6/17/2006; Portugal; 2-0; Iran; Commerzbank-Arena; Eric Poulat; 48000
 
-6/21/2006; Portugal; 2-1; Mexico; Veltins-Arena; Lubos Michel
+6/21/2006; Portugal; 2-1; Mexico; Veltins-Arena; Lubos Michel 52000
 
 6/21/2006; Iran; 1-1; Angola; Zentralstadion; Mark Shield; 38000
 
 Group: E
 
-6/12/2006; United States; 0-3; Czech Republic; Veltins-Arena; Carlos Amarilla
+6/12/2006; United States; 0-3; Czech Republic; Veltins-Arena; Carlos Amarilla; 52000
 
-6/12/2006; Italy; 2-0; Ghana; AWD-Arena; Carlos Simon
+6/12/2006; Italy; 2-0; Ghana; AWD-Arena; Carlos Simon; 43000
 
-6/17/2006; Czech Republic; 0-2; Ghana; RheinEnergieStadion
+6/17/2006; Czech Republic; 0-2; Ghana; RheinEnergieStadion; 45000
 
-6/17/2006; Italy; 1-1; United States; Fritz Walter Stadion; Jorge Larrionda
+6/17/2006; Italy; 1-1; United States; Fritz Walter Stadion; Jorge Larrionda; 46000
 
-6/22/2006; Czech Republic; 0-2; Italy; AOL Arena; Benito Archundia
+6/22/2006; Czech Republic; 0-2; Italy; AOL Arena; Benito Archundia; 50000
 
-6/22/2006; Ghana; 2-1; United States; Frankenstadion; Markus Merk
+6/22/2006; Ghana; 2-1; United States; Frankenstadion; Markus Merk; 41000
 
 Group: F
 
-6/12/2006; Australia; 3-1; Japan; Fritz Walter Stadion; Essam Abd El Fatah
+6/12/2006; Australia; 3-1; Japan; Fritz Walter Stadion; Essam Abd El Fatah; 46000
 
-6/13/2006; Brazil; 1-0; Croatia; Olympiastadion; Benito Archundia
+6/13/2006; Brazil; 1-0; Croatia; Olympiastadion; Benito Archundia; 72000
 
-6/18/2006; Japan; 0-0; Croatia; Frankenstadion; Frank De Bleeckere
+6/18/2006; Japan; 0-0; Croatia; Frankenstadion; Frank De Bleeckere; 41000
 
-6/18/2006; Brazil; 2-0; Australia; Allianz Arena; Markus Merk
+6/18/2006; Brazil; 2-0; Australia; Allianz Arena; Markus Merk; 66000
 
-6/22/2006; Japan; 1-4; Brazil; Signal Iduna Park; Eric Poulat
+6/22/2006; Japan; 1-4; Brazil; Signal Iduna Park; Eric Poulat; 65000
 
-6/22/2006; Croatia; 2-2; Australia; Gottlieb-Daimler-Stadion
+6/22/2006; Croatia; 2-2; Australia; Gottlieb-Daimler-Stadion; Graham Poll; 52000
 
 Group: G
 
-6/13/2006; South Korea; 2-1; Togo; Commerzbank-Arena; Graham Poll
+6/13/2006; South Korea; 2-1; Togo; Commerzbank-Arena; Graham Poll; 48000
 
-6/13/2006; France; 0-0; Switzerland; Gottlieb-Daimler-Stadion; Valentin Ivanov
+6/13/2006; France; 0-0; Switzerland; Gottlieb-Daimler-Stadion; Valentin Ivanov; 52000
 
-6/18/2006; France; 1-1; South Korea; Zentralstadion; Benito Archundia
+6/18/2006; France; 1-1; South Korea; Zentralstadion; Benito Archundia; 43000
 
-6/19/2006; Togo; 0-2; Switzerland; Signal Iduna Park; Carlos Amarilla
+6/19/2006; Togo; 0-2; Switzerland; Signal Iduna Park; Carlos Amarilla; 65000
 
-6/23/2006; Togo; 0-2; France; RheinEnergieStadion; Jorge Larrionda
+6/23/2006; Togo; 0-2; France; RheinEnergieStadion; Jorge Larrionda; 45000
 
-6/23/2006; Switzerland; 2-0; South Korea; AWD-Arena; Horacio Elizondo
+6/23/2006; Switzerland; 2-0; South Korea; AWD-Arena; Horacio Elizondo; 43000
 
 Group: H
 
-6/14/2006; Spain; 4-0; Ukraine; Zentralstadion; Massimo Busacca
+6/14/2006; Spain; 4-0; Ukraine; Zentralstadion; Massimo Busacca; 43000
 
-6/14/2006; Tunisia; 2-2; Saudi Arabia; Allianz Arena; Mark Shield
+6/14/2006; Tunisia; 2-2; Saudi Arabia; Allianz Arena; Mark Shield; 66000
 
-6/19/2006; Saudi Arabia; 0-4; Ukraine; AOL Arena; Graham Poll
+6/19/2006; Saudi Arabia; 0-4; Ukraine; AOL Arena; Graham Poll; 50000
 
-6/19/2006; Spain; 3-1; Tunisia; Gottlieb-Daimler-Stadion; Carlos Simon
+6/19/2006; Spain; 3-1; Tunisia; Gottlieb-Daimler-Stadion; Carlos Simon; 52000
 
-6/23/2006; Saudi Arabia; 0-1; Spain; Fritz Walter Stadion
+6/23/2006; Saudi Arabia; 0-1; Spain; Fritz Walter Stadion; 46000
 
-6/23/2006; Ukraine; 1-0; Tunisia; Olympiastadion; Carlos Amarilla
+6/23/2006; Ukraine; 1-0; Tunisia; Olympiastadion; Carlos Amarilla; 72000
 
 Round: Round of 16
+Group: 
 
-6/24/2006; Germany; 2-0; Sweden; Allianz Arena; Carlos Simon
+6/24/2006; Germany; 2-0; Sweden; Allianz Arena; Carlos Simon; 66000
 
-6/24/2006; Argentina; 2-1 (aet); Mexico; Zentralstadion; Massimo Busacca
+6/24/2006; Argentina; 2-1 (aet); Mexico; Zentralstadion; Massimo Busacca; 43000
 
-6/25/2006; England; 1-0; Ecuador; Gottlieb-Daimler-Stadion; Frank De Bleeckere
+6/25/2006; England; 1-0; Ecuador; Gottlieb-Daimler-Stadion; Frank De Bleeckere; 52000
 
-6/25/2006; Portugal; 1-0; Netherlands; Frankenstadion; Valentin Ivanov
+6/25/2006; Portugal; 1-0; Netherlands; Frankenstadion; Valentin Ivanov; 41000
 
-6/26/2006; Italy; 1-0; Australia; Fritz Walter Stadion; Luis Medina Cantalejo
+6/26/2006; Italy; 1-0; Australia; Fritz Walter Stadion; Luis Medina Cantalejo; 46000
 
-6/26/2006; Switzerland; 0-0 (aet); Ukraine; RheinEnergieStadion; Benito Archundia
+6/26/2006; Switzerland; 0-0 (aet); Ukraine; RheinEnergieStadion; Benito Archundia; 45000
 
-6/27/2006; Brazil; 3-0; Ghana; Westfalenstadion; Lubos Michel
+6/27/2006; Brazil; 3-0; Ghana; Westfalenstadion; Lubos Michel; 65000
 
-6/27/2006; Spain; 1-3; France; AWD-Arena; Roberto Rosetti
+6/27/2006; Spain; 1-3; France; AWD-Arena; Roberto Rosetti; 43000
 
 Round: Quarterfinals
 
-6/30/2006; Germany; 1-1 (aet); Argentina; Olympiastadion; Lubos Michel
+6/30/2006; Germany; 1-1 (aet); Argentina; Olympiastadion; Lubos Michel; 72000
 
-6/30/2006; Italy; 3-0; Ukraine; AOL Arena; Frank De Bleeckere
+6/30/2006; Italy; 3-0; Ukraine; AOL Arena; Frank De Bleeckere; 50000
 
-7/1/2006; England; 0-0; Portugal; Veltins-Arena; Horacio Elizondo
+7/1/2006; England; 0-0; Portugal; Veltins-Arena; Horacio Elizondo 52000
 
-7/1/2006; Brazil; 0-1; France; Commerzbank-Arena; Luis Medina Cantalejo
+7/1/2006; Brazil; 0-1; France; Commerzbank-Arena; Luis Medina Cantalejo; 48000
 
 Round: Semifinals
 
-7/4/2006; Germany; 0-2 (aet); Italy; Westfalenstadion; Benito Archundia
+7/4/2006; Germany; 0-2 (aet); Italy; Westfalenstadion; Benito Archundia; 65000
 
-7/5/2006; Portugal; 0-1; France; Allianz Arena; Jorge Larrionda
+7/5/2006; Portugal; 0-1; France; Allianz Arena; Jorge Larrionda; 66000
 
 Round: Third Place Match
 
-7/8/2006; Germany; 3-1; Portugal; Gottlieb-Daimler-Stadion; Toru Kamikawa
+7/8/2006; Germany; 3-1; Portugal; Gottlieb-Daimler-Stadion; Toru Kamikawa; 52000
 
 Round: Final
 
-7/9/2006; Italy; 1-1 (aet); France; Olympiastadion; Horacio Elizondo
+7/9/2006; Italy; 1-1 (aet); France; Olympiastadion; Horacio Elizondo; 69000
 
 
 Season: 2010
@@ -1641,6 +1871,7 @@ BlockSource: http://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_H
 6/25/2010; Switzerland; 0-0; Honduras; Free State Stadium; Hector Baldassi; 28042
 
 Round: Round of 16
+Group: 
 BlockSource: http://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
 
 6/26/2010; Uruguay; 2-1; South Korea; Nelson Mandela Bay Stadium; Wolfgang Stark; 30597

@@ -1,9 +1,9 @@
 Competition: Liga MX
 Season: 1984-1985
 BlockSource: http://www.rsssf.com/tablesm/mex85.html
+home-first
 
-
-Round: Week 1
+Round: 1
 Date: 8/17/1984
 
 ; Club America; 1-2; Atlético Potosino
@@ -26,7 +26,7 @@ Date: 9/5/1984
 
 ; UNAM; 3-2; Puebla
 
-Round: Week 2
+Round: 2
 Date: 8/24/1984
 
 ; Necaxa; 2-2; Toluca
@@ -46,7 +46,7 @@ Date: 8/26/1984
 ; Atlético Potosino; 1-0; Atletico Morelia
 ; Atlante; 0-1; UAG
 
-Round: Week 3
+Round: 3
 Date: 8/30/1984
 
 ; UNAM; 1-3; Atlético Potosino
@@ -66,7 +66,7 @@ Date: 9/2/1984
 ; Deportivo Neza; 3-2; Ángeles de Puebla
 ; Atletico Morelia; 0-3; U de G
  
-Round: Week 4
+Round: 4
 Date: 9/7/1984
 
 ; Necaxa; 1-2; Guadalajara
@@ -86,7 +86,7 @@ Date: 9/9/1984
 ; Zacatepec; 2-1; UAG
 ; U de G; 0-4; UNAM
 
-Round: Week 5
+Round: 5
 Date: 9/14/1984
 
 ; UNAM; 4-0; Atlas
@@ -109,7 +109,7 @@ Date: 9/17/1984
 
 ; UAG; 0-1; Cruz Azul
 
-Round: Week 6
+Round: 6
 Date: 9/21/1984
 
 ; Atlante; 1-0; Atletico Morelia
@@ -132,7 +132,7 @@ Date: 9/24/1984
 
 ; Necaxa; 0-2; Club America
 
-Round: Week 7
+Round: 7
 Date: 9/27/1984
 
 ; Guadalajara; 1-1; Tampico-Madero
@@ -155,7 +155,7 @@ Date: 9/30/1984
 ; Deportivo Neza; 2-0; Cruz Azul
 ; Atlético Potosino; 2-2; U de G
 
-Round: Week 8
+Round: 8
 Date: 10/5/1984
 
 ; Necaxa; 0-2; UNAM
@@ -175,7 +175,7 @@ Date: 10/7/1984
 ; Atlante; 3-0; Puebla
 ; Ángeles de Puebla; 2-0; Monterrey
 
-Round: Week 9
+Round: 9
 Date: 10/13/1984
 
 ; Monterrey; 3-2; Atlante
@@ -192,7 +192,7 @@ Date: 10/14/1984
 ; U de G; 1-2; Atlas
 ; Puebla; 1-1; Necaxa
 
-Round: Week 10
+Round: 10
 Date: 10/17/1984
 
 ; Zacatepec; 1-0; Puebla
@@ -222,7 +222,7 @@ Date: 1/16/1985
 Minutes: 72
 Notes: Called with 18 minutes left, result stood
 
-Round: Week 11
+Round: 11
 Date: 10/20/1984
 
 ; UNAM; 3-1; Tampico-Madero
@@ -248,7 +248,7 @@ Date: 11/21/1984
 
 ; Club America; 1-0; Toluca
 
-Round: Week 12
+Round: 12
 Date: 11/2/1984
 
 ; Necaxa; 1-3; U de G
@@ -274,7 +274,7 @@ Date: 12/11/1984
 
 ; UANL; 1-0; UNAM
 
-Round: Week 13
+Round: 13
 Date: 11/10/1984
 
 ; Club León; 2-2; Deportivo Neza
@@ -300,7 +300,7 @@ Date: 1/16/1985
 
 ; UNAM; 1-0; Toluca
 
-Round: Week 14
+Round: 14
 Date: 11/16/1984
 
 ; Atlante; 2-1; Club León
@@ -320,7 +320,7 @@ Date: 11/18/1984
 ; Zacatepec; 0-1; Atlas
 ; Necaxa; 3-1; Ángeles de Puebla
 
-Round: Week 15
+Round: 15
 Date: 11/23/1984
 
 ; Atlante; 1-0; Necaxa
@@ -340,7 +340,7 @@ Date: 11/25/1984
 ; Atletico Morelia; 0-0; Deportivo Neza
 ; Atlético Potosino; 1-1; UANL
 
-Round: Week 16
+Round: 16
 Date: 11/30/1984
 
 ; Club America; 2-1; Atletico Morelia
@@ -360,7 +360,7 @@ Date: 12/2/1984
 ; Deportivo Neza; 0-2; UNAM
 ; UAG; 5-2; Monterrey
 
-Round: Week 17
+Round: 17
 Date: 12/7/1984
 
 ; Atlante; 0-0; Cruz Azul
@@ -380,7 +380,7 @@ Date: 12/9/1984
 ; Atlas; 3-1; UANL
 ; Atlético Potosino; 3-1; UAG
 
-Round: Week 18
+Round: 18
 Date: 12/15/1984
 
 ; Cruz Azul; 4-1; Necaxa
@@ -397,7 +397,7 @@ Date: 12/16/1984
 ; Atletico Morelia; 0-4; UNAM
 ; Tampico-Madero; 3-4; Atlante
 
-Round: Week 19
+Round: 19
 Date: 12/21/1984
 
 ; UNAM; 2-0; Club León
@@ -417,7 +417,7 @@ Date: 12/23/1984
 ; Atlético Potosino; 1-0; Deportivo Neza
 ; Zacatepec; 0-2; Cruz Azul
 
-Round: Week 20
+Round: 20
 Date: 12/28/1984
 
 ; Atlante; 4-1; Toluca
@@ -437,7 +437,7 @@ Date: 12/30/1984
 ; Zacatepec; 2-1; Tampico-Madero
 ; Atlas; 0-0; Guadalajara
 
-Round: Week 21
+Round: 21
 Date: 1/4/1985
 
 ; Club America; 2-2; U de G
@@ -457,7 +457,7 @@ Date: 1/6/1985
 ; Atletico Morelia; 0-0; Atlético Potosino
 ; Deportivo Neza; 0-2; Atlas
 
-Round: Week 22
+Round: 22
 Date: 1/11/1985
 
 ; Necaxa; 0-0; UAG
@@ -477,7 +477,7 @@ Date: 1/13/1985
 ; Tampico Madero; 2-1; Club León
 ; Atlas; 0-0; Club America
 
-Round: Week 23
+Round: 23
 Date: 1/18/1985
 
 ; Club America; 2-1; Ángeles de Puebla
@@ -497,7 +497,7 @@ Date: 1/20/1985
 ; UNAM; 1-2; U de G
 ; Atletico Morelia; 0-0; Atlas
 
-Round: Week 24
+Round: 24
 Date: 1/25/1985
 
 ; Necaxa; 1-3; Deportivo Neza
@@ -517,7 +517,7 @@ Date: 1/27/1985
 ; Zacatepec; 1-4; Guadalajara
 ; Ángeles de Puebla; 1-0; Atletico Morelia
 
-Round: Week 25
+Round: 25
 Date: 2/1/1985
 
 ; UNAM; 2-0; Ángeles de Puebla
@@ -537,7 +537,7 @@ Date: 2/3/1985
 ; Deportivo Neza; 1-1; Zacatepec
 ; Atletico Morelia; 1-1; Atlante
 
-Round: Week 26
+Round: 26
 Date: 2/8/1985
 
 ; Necaxa; 2-2; Atletico Morelia
@@ -557,7 +557,7 @@ Date: 2/10/1985
 ; Atlante; 0-1; UNAM
 ; Zacatepec; 1-0; Club America
 
-Round: Week 27
+Round: 27
 Date: 2/15/1985
 
 ; UNAM; 2-1; Necaxa
@@ -577,7 +577,7 @@ Date: 2/17/1985
 ; Atletico Morelia; 2-0; Zacatepec
 ; Atlético Potosino; 1-1; Atlas
 
-Round: Week 28
+Round: 28
 Date: 2/22/1985
 
 ; Necaxa; 1-0; Puebla
@@ -597,7 +597,7 @@ Date: 2/24/1985
 ; Ángeles de Puebla; 3-0; Atlético Potosino
 ; Zacatepec; 0-2; UNAM
 
-Round: Week 29
+Round: 29
 Date: 3/1/1985
 
 ; Club America; 1-0; UANL
@@ -617,7 +617,7 @@ Date: 3/3/1985
 ; Puebla; 0-0; Zacatepec
 ; Atletico Morelia; 2-1; Tampico-Madero
 
-Round: Week 30
+Round: 30
 Date: 3/8/1985
 
 ; Necaxa; 0-0; Atlético Potosino
@@ -637,7 +637,7 @@ Date: 3/10/1985
 ; Ángeles de Puebla; 4-1; Atlas
 ; Zacatepec; 0-1; Monterrey
 
-Round: Week 31
+Round: 31
 Date: 3/14/1985
 
 ; Monterrey; 2-2; Cruz Azul
@@ -662,7 +662,7 @@ Date: 3/18/1985
 
 ; Atlético Potosino; 0-0; Zacatepec
 
-Round: Week 32
+Round: 32
 Date: 3/23/1985
 
 ; Cruz Azul; 1-1; Atlético Potosino
@@ -679,7 +679,7 @@ Date: 3/24/1985
 ; Tampico-Madero; 4-0; Monterrey
 ; Zacatepec; 0-3; U de G
 
-Round: Week 33
+Round: 33
 Date: 3/29/1985
 
 ; Club America; 0-1; Deportivo Neza
@@ -699,7 +699,7 @@ Date: 3/31/1985
 ; Atlético Potosino; 0-0; Tampico-Madero
 ; Atletico Morelia; 1-0; Guadalajara
 
-Round: Week 34
+Round: 34
 Date: 4/5/1985
 
 ; Club America; 3-1; Club León
@@ -719,7 +719,7 @@ Date: 4/7/1985
 ; Deportivo Neza; 0-0; Atletico Morelia
 ; Zacatepec; 2-1; Ángeles de Puebla
 
-Round: Week 35
+Round: 35
 Date: 4/12/1985
 
 ; Atlante; 2-0; Zacatepec
@@ -739,7 +739,7 @@ Date: 4/14/1985
 ; Atlético Potosino; 5-1; Toluca
 ; Atletico Morelia; 2-4; Club America
 
-Round: Week 36
+Round: 36
 Date: 4/20/1985
 
 ; Cruz Azul; 0-1; Atlante
@@ -756,7 +756,7 @@ Date: 4/21/1985
 ; Deportivo Neza; 3-2; Puebla
 ; Zacatepec; 3-0; Necaxa
 
-Round: Week 37
+Round: 37
 Date: 4/27/1985
 
 ; Atlante; 3-1; Tampico-Madero
@@ -773,7 +773,7 @@ Date: 4/28/1985
 ; Zacatepec; 1-2; Club León
 ; U de G; 1-2; UAG
 
-Round: Week 38
+Round: 38
 Date: 5/4/1985
 
 ; Guadalajara; 3-0; U de G

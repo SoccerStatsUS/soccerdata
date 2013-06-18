@@ -22,7 +22,8 @@ Round:Final
 
 Season: 1994
 
-Group: Group A
+Round: Group
+Group: A
 
 8/5/1994; CA Penarol; 1-0; SL Benfica; Ibirapuera, São Paulo, Brazil
 Minutes: 45
@@ -34,7 +35,7 @@ Minutes: 45
 8/5/1994; CA Penarol; 2-0; EC Juventude; Ibirapuera, São Paulo, Brazil
 Minutes: 45
 
-Group: Group B
+Group: B
 
 8/5/1994; Parmalat FC; 1-1; Audax CS Italiano; Parque Antártica, São Paulo, Brazil
 * [6-7 pen]
@@ -47,6 +48,7 @@ Minutes: 45
 Minutes: 45
   
 Round: Consolation
+Group: 
 
 8/7/1994; EC Juventude; 2-0; Parmalat FC; Parque Antártica, São Paulo, Brazil
 

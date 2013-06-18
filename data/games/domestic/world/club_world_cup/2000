@@ -13,7 +13,8 @@ BlockSource: http://www.rsssf.com/tablesf/fifa-wcc00-det.html
 *Tournament to be hosted in São Paulo and Rio de Janeiro, Brazil,
 *January 5-14, 2000.
 
-Group: Group A  
+Round: Group
+Group: A  
 
 1/5/2000; Al Nassr; 1-3; Real Madrid; Estadio do Morumbi; Oscar Ruiz; 12000
 Al Husseini (pk) 45; Anelka 21, Raúl 62, Sávio 69
@@ -60,7 +61,7 @@ Red Card: Daniel
 * 3.Al Nassr            3  1  0  2   5- 8   3
 * 4.Raja Casablanca     3  0  0  3   5- 9   0
 
-Group: Group B
+Group: B
 
 1/6/2000; Manchester United; 1-1; Necaxa; Maracana; Horacio Elizondo; 50000
 Yorke 81; Montecinos 14
@@ -106,6 +107,7 @@ Necaxa: Hugo Piñeda; José Higareda, Sergio Almaguer, Markus López, José Mili
 * 4.South Melbourne     3  0  0  3   1- 7   0
   
 Round: Third Place
+Group:
 
 1/14/2000; Real Madrid; 1-1; Necaxa; Estadio do Maracana; Oscar Ruiz; 35000
 Raúl 15; Delgado 58

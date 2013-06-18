@@ -1,8 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesj/jap96.html
-
-Japan 1996
-
-J-League 1996
+Season: 1996
+Competition: J. League
 
 *FINAL STANDINGS (9 November 1996)
 *Pos Prev Team                 Games  Won  Lst   GF-GA  Pnt
@@ -24,6 +22,7 @@ J-League 1996
 *16. (16) Kyoto Purple Sanga      30    8   22   22-54   24
 
 Round:  1
+
 ;Verdy Kawasaki; 1-0; Kyoto Purple Sanga        
 ;Kashima Antlers          ; 4-1; Shimizu S Pulse
 ;Urawa Red Diamonds; 2-1; Kashiwa Reysol        
@@ -34,56 +33,62 @@ Round:  1
 ;Yokohama Marinos; 1-2; Gamba Osaka             
 
 Round:  2
-;Kashiwa Reysol         ; 2-3  (OT); Nagoya Grampus Eight     
-;Yokohama Marinos       ; 0-1  (OT); Jubilo Iwata             
+
+;Kashiwa Reysol         ; 2-3  (aet); Nagoya Grampus Eight     
+;Yokohama Marinos       ; 0-1  (aet); Jubilo Iwata             
 ;Bellmare Hiratsuka     ; 0-4; Verdy Kawasaki           
 ;Shimizu S - Pulse             ; 2-1; Cerezo Osaka
 ;Kyoto Purple Sanga     ; 0-2; JEF United Ichihara      
 ;Gamba Osaka            ; 0-1; Yokohama Flugels         
-;Sanfrecce Hiroshima    ; 1-2  (OT); Kashima Antlers          
-;Avispa Fukuoka         ; 1-2  (OT); Urawa Reds               
+;Sanfrecce Hiroshima    ; 1-2  (aet); Kashima Antlers          
+;Avispa Fukuoka         ; 1-2  (aet); Urawa Reds               
 
 Round:  3
+
 ;Jubilo Iwata           ; 2-0; Gamba Osaka              
 ;Kashima Antlers        ; 5-1; Kyoto Purple Sanga       
 ;JEF United Ichihara    ; 0-2; Bellmare Hiratsuka       
-;Verdy Kawasaki         ; 2-3  (OT); Kashiwa Reysol           
-;Yokohama Flugels                ; 1-0  (OT); Shimizu S Pulse 
-;Cerezo Osaka           ; 1-2  (OT); Sanfrecce Hiroshima      
+;Verdy Kawasaki         ; 2-3  (aet); Kashiwa Reysol           
+;Yokohama Flugels                ; 1-0  (aet); Shimizu S Pulse 
+;Cerezo Osaka           ; 1-2  (aet); Sanfrecce Hiroshima      
 ;Urawa Reds             ; 2-0; Yokohama Marinos         
 ;Nagoya Grampus Eight   ; 3-1; Avispa Fukuoka           
 
 Round:  4
+
 ;Jubilo Iwata            1-1 ;(3-4); Urawa Reds               
 ;Kashiwa Reysol         ; 0-2; JEF United Ichihara      
 ;Yokohama Marinos       ; 0-1; Nagoya Grampus Eight     
-;Bellmare Hiratsuka     ; 1-0  (OT); Kashima Antlers          
+;Bellmare Hiratsuka     ; 1-0  (aet); Kashima Antlers          
 ;Kyoto Purple Sanga     ; 0-2; Cerezo Osaka             
 ;Gamba Osaka             2-2 ;(4-3); Shimizu S Pulse          
-;Sanfrecce Hiroshima    ; 0-1  (OT); Yokohama Flugels         
-;Avispa Fukuoka         ; 1-2  (OT); Verdy Kawasaki           
+;Sanfrecce Hiroshima    ; 0-1  (aet); Yokohama Flugels         
+;Avispa Fukuoka         ; 1-2  (aet); Verdy Kawasaki           
 
 Round:  5
+
 ;Kashima Antlers        ; 5-1; Kashiwa Reysol           
 ;JEF United Ichihara    ; 0-1; Avispa Fukuoka           
 ;Urawa Reds             ; 4-1; Gamba Osaka              
-;Verdy Kawasaki         ; 3-2  (OT); Yokohama Marinos         
+;Verdy Kawasaki         ; 3-2  (aet); Yokohama Marinos         
 ;Yokohama Flugels       ; 3-0; Kyoto Purple Sanga       
-;Shimizu S Pulse        ; 1-0  (OT); Sanfrecce Hiroshima      
+;Shimizu S Pulse        ; 1-0  (aet); Sanfrecce Hiroshima      
 ;Nagoya Grampus Eight   ; 1-2; Jubilo Iwata             
-;Cerezo Osaka           ; 2-3  (OT);  Bellmare Hiratsuka      
+;Cerezo Osaka           ; 2-3  (aet);  Bellmare Hiratsuka      
 
 Round:  6
+
 ;Urawa Reds             ; 0-2; Nagoya Grampus Eight     
 ;Jubilo Iwata           ; 2-1; Verdy Kawasaki           
 ;Kashiwa Reysol         ; 3-0; Cerezo Osaka             
 ;Bellmare Hiratsuka     ; 0-4; Yokohama Flugels         
 ;Kyoto Purple Sanga     ; 1-5; Shimizu S Pulse          
-;Gamba Osaka            ; 2-1  (OT); Sanfrecce Hiroshima      
+;Gamba Osaka            ; 2-1  (aet); Sanfrecce Hiroshima      
 ;Yokohama Marinos       ; 2-1; JEF United Ichihara      
 ;Avispa Fukuoka         ; 2-4; Kashima Antlers          
 
 Round:  7
+
 ;Yokohama Flugels       ; 2-1; Kashiwa Reysol           
 ;Sanfrecce Hiroshima    ; 3-0; Kyoto Purple Sanga       
 ;Kashima Antlers        ; 3-1; Yokohama Marinos         
@@ -94,19 +99,21 @@ Round:  7
 ;JEF United Ichihara    ; 2-4; Jubilo Iwata             
 
 Round:  8
-;Kashiwa Reysol         ; 2- 1  (OT); Shimizu S Pulse          
+
+;Kashiwa Reysol         ; 2- 1  (aet); Shimizu S Pulse          
 ;Urawa Reds             ; 1- 0; JEF United Ichihara      
 ;Yokohama Marinos       ; 3- 0; Cerezo Osaka             
-;Bellmare Hiratsuka     ; 0- 1  (OT); Sanfrecce Hiroshima      
+;Bellmare Hiratsuka     ; 0- 1  (aet); Sanfrecce Hiroshima      
 ;Jubilo Iwata            2- 2 ;(4-3); Kashima Antlers          
 ;Nagoya Grampus Eight   ; 3- 1; Verdy Kawasaki           
 ;Gamba Osaka            ; 4- 2; Kyoto Purple Sanga       
 ;Avispa Fukuoka         ; 3- 4; Yokohama Flugels         
 
 Round:  9
+
 ;Kashima Antlers        ; 1- 0; Urawa Reds               
 ;JEF United Ichihara    ; 3- 0; Nagoya Grampus Eight     
-;Yokohama Flugels       ; 1- 2  (OT); Yokohama Marinos         
+;Yokohama Flugels       ; 1- 2  (aet); Yokohama Marinos         
 ;Shimizu S Pulse        ; 0- 2; Avispa Fukuoka           
 ;Kyoto Purple Sanga     ; 0- 2; Bellmare Hiratsuka       
 ;Sanfrecce Hiroshima    ; 0- 1; Kashiwa Reysol           
@@ -114,66 +121,74 @@ Round:  9
 ;Verdy Kawasaki         ; 2- 3; Gamba Osaka              
 
 Round:  10
-;Cerezo Osaka           ; 3- 2  (OT); Nagoya Grampus Eight     
+
+;Cerezo Osaka           ; 3- 2  (aet); Nagoya Grampus Eight     
 ;Kashima Antlers        ; 2- 1; Verdy Kawasaki           
 ;Sanfrecce Hiroshima    ; 0- 3; Yokohama Marinos         
 ;Bellmare Hiratsuka     ; 0- 1; Kashiwa Reysol           
-;Shimizu S Pulse        ; 1- 2  (OT); Jubilo Iwata             
+;Shimizu S Pulse        ; 1- 2  (aet); Jubilo Iwata             
 ;Kyoto Purple Sanga     ; 0- 3; Avispa Fukuoka           
 ;JEF United Ichihara    ; 2- 1; Gamba Osaka              
 ;Yokohama Flugels       ; 1- 4; Urawa Reds               
 
 Round:  11
+
 ;Kashiwa Reysol         ; 2- 0; Kyoto Purple Sanga       
 ;Urawa Reds              0- 0 ;(4-5); Cerezo Osaka             
-;Verdy Kawasaki         ; 2- 1  (OT); JEF United Ichihara      
+;Verdy Kawasaki         ; 2- 1  (aet); JEF United Ichihara      
 ;Yokohama Marinos       ; 1- 2; Shimizu S Pulse          
 ;Jubilo Iwata           ; 2- 3; Yokohama Flugels         
 ;Nagoya Grampus Eight   ; 3- 1; Kashima Antlers          
-;Gamba Osaka            ; 2-1  (OT); Bellmare Hiratsuka       
+;Gamba Osaka            ; 2-1  (aet); Bellmare Hiratsuka       
 ;Avispa Fukuoka         ; 0- 2; Sanfrecce Hiroshima      
 
 Round:  12
+
 ;JEF United Ichihara    ; 3- 2; Kashima Antlers          
 ;Jubilo Iwata           ; 1- 0; Sanfrecce Hiroshima      
 ;Gamba Osaka            ; 1- 7; Kashiwa Reysol           
-;Verdy Kawasaki         ; 1- 2  (OT); Cerezo Osaka             
+;Verdy Kawasaki         ; 1- 2  (aet); Cerezo Osaka             
 ;Yokohama Marinos       ; 1- 0; Kyoto Purple Sanga       
 ;Nagoya Grampus Eight   ; 2- 3; Yokohama Flugels         
-;Urawa Reds             ; 2- 1  (OT); Shimizu S Pulse          
+;Urawa Reds             ; 2- 1  (aet); Shimizu S Pulse          
 ;Avispa Fukuoka         ; 0- 4; Bellmare Hiratsuka       
 
 Round:  13
+
 ;Cerezo Osaka           ; 2- 3; JEF United Ichihara      
 ;Kashima Antlers        ; 4- 0; Gamba Osaka              
 ;Kashiwa Reysol         ; 5- 2; Avispa Fukuoka           
-;Yokohama Flugels       ; 4- 3  (OT); Verdy Kawasaki           
+;Yokohama Flugels       ; 4- 3  (aet); Verdy Kawasaki           
 ;Shimizu S Pulse        ; 1- 4; Nagoya Grampus Eight     
 ;Sanfrecce Hiroshima    ; 1- 3; Urawa Reds               
-;Kyoto Purple Sanga     ; 1- 2  (OT); Jubilo Iwata             
+;Kyoto Purple Sanga     ; 1- 2  (aet); Jubilo Iwata             
 ;Bellmare Hiratsuka     ; 0- 2; Yokohama Marinos         
 
 Round:  14
-;Kashima Antlers        ; 1- 0  (OT)   15,213; Cerezo Osaka             
-;JEF United Ichihara    ; 4- 2         10,042; Yokohama Flugels         
-;Verdy Kawasaki         ; 5- 3         12,016; Shimizu S Pulse          
-;Yokohama Marinos       ; 1- 2          8,395; Kashiwa Reysol           
-;Jubilo Iwata           ; 3- 4         11,924; Bellmare Hiratsuka       
-;Nagoya Grampus Eight   ; 1- 2         21,303; Sanfrecce Hiroshima      
-;Gamba Osaka            ; 3- 0          5,389; Avispa Fukuoka           
-;Urawa Reds             ; 1- 0  (OT)   50,974; Kyoto Purple Sanga       
+
+;Kashima Antlers        ; 1- 0  (aet)  ; Cerezo Osaka            ; ; 15213 
+;JEF United Ichihara    ; 4- 2         ; Yokohama Flugels         ; ; 10042
+;Verdy Kawasaki         ; 5- 3         ; Shimizu S Pulse          ; ; 12016
+;Yokohama Marinos       ; 1- 2         ; Kashiwa Reysol           ; ; 8395
+;Jubilo Iwata           ; 3- 4         ; Bellmare Hiratsuka       ; ; 11924
+;Nagoya Grampus Eight   ; 1- 2         ; Sanfrecce Hiroshima      ; ; 21303
+;Gamba Osaka            ; 3- 0         ; Avispa Fukuoka           ; ; 5389
+;Urawa Reds             ; 1- 0  (aet)  ; Kyoto Purple Sanga       ; ; 50974
 
 Round:  15
-;Kashiwa Reysol         ; 4- 0         13,462; Jubilo Iwata             
-;Bellmare Hiratsuka     ; 5- 3         12,337; Urawa Reds               
-;Cerezo Osaka           ; 0- 2          9,325; Gamba Osaka              
-;Sanfrecce Hiroshima    ; 1- 3         12,124; Verdy Kawasaki           
-;Avispa Fukuoka         ; 0- 1         14,295; Yokohama Marinos         
-;Shimizu S Pulse        ; 1- 2         13,380; JEF United Ichihara      
-;Kyoto Purple Sanga     ; 2- 3          9,023; Nagoya Grampus Eight     
-;Yokohama Flugels        1- 1 ;(6-5)   45,159; Kashima Antlers          
+;Kashiwa Reysol         ; 4- 0         ; Jubilo Iwata        ; ; 13462     
+;Bellmare Hiratsuka     ; 5- 3         ; Urawa Reds          ; ; 12337      
+;Cerezo Osaka           ; 0- 2         ; Gamba Osaka              ; ; 9325
+;Sanfrecce Hiroshima    ; 1- 3         ; Verdy Kawasaki           ; ; 12124
+;Avispa Fukuoka         ; 0- 1         ; Yokohama Marinos         ; ; 14295
+;Shimizu S Pulse        ; 1- 2         ; JEF United Ichihara      ; ; 13380
+;Kyoto Purple Sanga     ; 2- 3         ; Nagoya Grampus Eight     ; ; 9023
+;Yokohama Flugels    ;    1- 1 ;   Kashima Antlers          ; ; 45159
+*(6-5)
 
-Round:  16 (28 August)
+Round:  16 
+Date: 8/28/1996
+
 ;Kashima Antlers        ; 2- 0         16,046; JEF United Ichihara      
 ;Kashiwa Reysol         ; 1- 0          6,093; Gamba Osaka              
 ;Yokohama Flugels       ; 1- 2         30,128; Nagoya Grampus Eight     
@@ -183,17 +198,20 @@ Round:  16 (28 August)
 ;Cerezo Osaka           ; 2- 4         13,069; Verdy Kawasaki           
 ;Sanfrecce Hiroshima    ; 0- 3          6,585; Jubilo Iwata             
 
-Round:  17 (31 August)
-;JEF United Ichihara    ; 1- 0   (OT)   7,469; Cerezo Osaka             
+Round:  17 
+Date: 8/31/1996
+;JEF United Ichihara    ; 1- 0   (aet)   7,469; Cerezo Osaka             
 ;Urawa Reds             ; 5- 1         20,028; Sanfrecce Hiroshima      
 ;Verdy Kawasaki         ; 3- 2         14,280; Yokohama Flugels         
 ;Yokohama Marinos       ; 2- 1         13,978; Bellmare Hiratsuka       
 ;Nagoya Grampus Eight   ; 2- 1         21,008; Shimizu S Pulse          
 ;Jubilo Iwata           ; 2- 1         12,358; Kyoto Purple Sanga       
 ;Gamba Osaka            ; 0- 1          8,665; Kashima Antlers          
-;Avispa Fukuoka         ; 4- 5   (OT)   7,174; Kashiwa Reysol           
+;Avispa Fukuoka         ; 4- 5   (aet)   7,174; Kashiwa Reysol           
 
-Round:  18 (7 September)
+Round:  18 
+Date: 9/7/1996
+
 ;Shimizu S Pulse        ; 0- 2         15,814; Verdy Kawasaki           
 ;Cerezo Osaka           ; 2- 4          6,467; Kashima Antlers          
 ;Yokohama Flugels       ; 2- 0         11,103; JEF United Ichihara      
@@ -203,57 +221,64 @@ Round:  18 (7 September)
 ;Sanfrecce Hiroshima    ; 2- 3         10,185; Nagoya Grampus Eight     
 ;Avispa Fukuoka         ; 1- 0          6,596; Gamba Osaka              
 
-Round:  19 (14 September)
+Round:  19 
+Date: 9/14/1996
+
 ;Kashima Antlers        ; 2- 1         15,435; Yokohama Flugels         
-;JEF United Ichihara    ; 0- 1   (OT)   7,848; Shimizu S Pulse          
+;JEF United Ichihara    ; 0- 1   (aet)   7,848; Shimizu S Pulse          
 ;Nagoya Grampus Eight   ; 3- 0         21,181; Kyoto Purple Sanga       
 ;Gamba Osaka            ; 2- 0          7,210; Cerezo Osaka             
 ;Urawa Reds             ; 3- 2         17,825; Bellmare Hiratsuka       
-;Jubilo Iwata           ; 2- 3   (OT)  13,163; Kashiwa Reysol           
+;Jubilo Iwata           ; 2- 3   (aet)  13,163; Kashiwa Reysol           
 ;Yokohama Marinos        0- 0  ;(3-1)  10,268; Avispa Fukuoka           
 ;Verdy Kawasaki         ; 5- 1         11,782; Sanfrecce Hiroshima      
 
-Round:  20 (21 September)
+Round:  20 
+Date: 9/21/1996
 ;Shimizu S Pulse        ; 0- 2         10,673; Kashima Antlers          
 ;Yokohama Flugels       ; 2- 1         10,644; Cerezo Osaka             
-;Gamba Osaka            ; 4- 5   (OT)   7,874; Yokohama Marinos         
+;Gamba Osaka            ; 4- 5   (aet)   7,874; Yokohama Marinos         
 ;Kashiwa Reysol         ; 0- 7         35,926; Urawa Reds               
-;Bellmare Hiratsuka     ; 2- 3   (OT)   7,537; Nagoya Grampus Eight     
+;Bellmare Hiratsuka     ; 2- 3   (aet)   7,537; Nagoya Grampus Eight     
 ;Kyoto Purple Sanga     ; 2- 0         18,058; Verdy Kawasaki           
 ;Avispa Fukuoka         ; 1- 3          8,287; Jubilo Iwata             
 ;Sanfrecce Hiroshima    ; 3- 4          7,389; JEF United Ichihara      
 
-Round:  21 (28 September)
+Round:  21 
+Date: 9/28/1996
 ;Urawa Reds              1- 1  ;(3-2)   5,611; Avispa Fukuoka           
 ;Jubilo Iwata           ; 1- 0         14,688; Yokohama Marinos         
 ;Kashima Antlers         1- 1  ;(8-9)  15,975; Sanfrecce Hiroshima      
 ;JEF United Ichihara    ; 1- 0          7,142; Kyoto Purple Sanga       
-;Nagoya Grampus Eight   ; 1- 2   (OT)  21,295; Kashiwa Reysol           
+;Nagoya Grampus Eight   ; 1- 2   (aet)  21,295; Kashiwa Reysol           
 ;Cerezo Osaka           ; 2- 3          8,043; Shimizu S Pulse          
-;Yokohama Flugels       ; 3- 2   (OT)   7,035; Gamba Osaka              
+;Yokohama Flugels       ; 3- 2   (aet)   7,035; Gamba Osaka              
 ;Verdy Kawasaki         ; 1- 0         27,001; Bellmare Hiratsuka       
 
-Round:  22 (2 October)
-;Kashiwa Reysol         ; 1- 2   (OT)  10,654; Verdy Kawasaki           
+Round:  22 
+Date: 10/2/1996
+;Kashiwa Reysol         ; 1- 2   (aet)  10,654; Verdy Kawasaki           
 ;Yokohama Marinos       ; 0- 1         11,798; Urawa Reds               
 ;Bellmare Hiratsuka     ; 0- 4          6,010; JEF United Ichihara      
 ;Shimizu S Pulse        ; 4- 2         16,788; Yokohama Flugels         
 ;Kyoto Purple Sanga     ; 1- 0          7,691; Kashima Antlers          
 ;Gamba Osaka            ; 0- 1          5,025; Jubilo Iwata             
-;Sanfrecce Hiroshima    ; 2- 1   (OT)   5,387; Cerezo Osaka             
+;Sanfrecce Hiroshima    ; 2- 1   (aet)   5,387; Cerezo Osaka             
 ;Avispa Fukuoka         ; 1- 3          7,247; Nagoya Grampus Eight     
 
-Round:  23 (5 October)
+Round:  23 
+Date: 10/5/1996
 ;Cerezo Osaka           ; 2- 1          8,236; Kyoto Purple Sanga       
 ;Kashima Antlers        ; 2- 0         15,931; Bellmare Hiratsuka       
 ;JEF United Ichihara    ; 2- 3          8,600; Kashiwa Reysol           
 ;Urawa Reds             ; 0- 2         20,044; Jubilo Iwata             
-;Verdy Kawasaki         ; 1- 2   (OT)  14,446; Avispa Fukuoka           
-;Shimizu S Pulse        ; 3- 2   (OT)  11,046; Gamba Osaka              
+;Verdy Kawasaki         ; 1- 2   (aet)  14,446; Avispa Fukuoka           
+;Shimizu S Pulse        ; 3- 2   (aet)  11,046; Gamba Osaka              
 ;Yokohama Flugels       ; 2- 0          7,111; Sanfrecce Hiroshima      
 ;Nagoya Grampus Eight   ; 2- 0         21,984; Yokohama Marinos         
 
-Round:  24 (16 October)
+Round:  24 
+Date: 10/16/1996
 ;Kashiwa Reysol         ; 1- 0         12,256; Kashima Antlers          
    [Sakai 11]
 ;Yokohama Marinos       ; 1- 3         21,870; Verdy Kawasaki           
@@ -264,14 +289,15 @@ Jubilo Iwata
    [Mochizuki 75, Durix 85]
 ;Kyoto Purple Sanga     ; 0- 1          8,227; Yokohama Flugels         
    [Yamaguchi 75]
-;Gamba Osaka            ; 1- 0   (OT)   5,254; Urawa Reds               
+;Gamba Osaka            ; 1- 0   (aet)   5,254; Urawa Reds               
    [Gillhaus 93]
 ;Sanfrecce Hiroshima    ; 2- 3          6,314; Shimizu S Pulse          
 ;   [Michlki 19,26  - JEF United Ichihara     ; 3- 2          5,309; Nagai 66, Hasegawa 86,89]
 Avispa Fukuoka         
 ;   [Ishimaru 20, Ueno 27, Maradona 49 [pen]  - Avispa Fukuoka          ; 3- 1         15,976; Jo 26,89]
  
-Round:  25 (19 October)
+Round:  25 
+Date: 10/19/1996
 Kashima Antlers        
 ;   [Masuda 43, Rodrigo 66, Manaka 73  - Yokohama Marinos        ; 1- 2         16,902; Maradona 28]
 JEF United Ichihara    
@@ -289,25 +315,35 @@ Verdy Kawasaki
 Sanfrecce Hiroshima    
    [Noh 51, Huistra 56]
  
-Round:  26 (26 October)
-;Yokohama Marinos       ; 0- 1         16,110; Kashima Antlers          
-   [Mazinho 87]
-;Jubilo Iwata           ; 2- 1         12,164; JEF United Ichihara      
-;   [Schillaci 16, Nakayama 77  - Yokohama Flugels        ; 1- 2         13,181; Hasek 29]
-Kashiwa Reysol         
-;   [Otake [og] 52  - Verdy Kawasaki          ; 1- 0         19,495; Miura 21, Evair 61]
-Urawa Reds             
-   [Okano 85]
-;Bellmare Hiratsuka     ; 3- 0          8,240; Shimizu S Pulse          
-   [Noguchi 18, Horike [og] 67, Betinho 89]
-;Kyoto Purple Sanga     ; 2- 1   (OT)   7,315; Sanfrecce Hiroshima      
-;   [Edmilson 16, Noguchi 108  - Nagoya Grampus Eight    ; 0- 3         13,517; Huistra 25]
-Gamba Osaka            
-   [Stojkovic 38, Mochizuki 60, Hirano 63]
-;Avispa Fukuoka         ; 0- 1          5,351; Cerezo Osaka             
-   [Yokoyama 84]
+Round:  26 
+Date: 10/26/1996
+;Yokohama Marinos       ; 0- 1         ; Kashima Antlers          ; 16110
+; Mazinho 87]
+
+;Jubilo Iwata           ; 2- 1         ; JEF United Ichihara      ; 12164
+Schillaci 16, Nakayama 77  ; Hasek 29
+
+Yokohama Flugels        ; 1- 2      ; Kashiwa Reysol;   13181; 
+ Otake (og) 52  ; Miura 21, Evair 61
+
+Verdy Kawasaki          ; 1- 0 ; Urawa Reds;   ;     19495
+Okano 85;
+
+;Bellmare Hiratsuka     ; 3- 0      Shimizu S Pulse          ; 8240
+Noguchi 18, Horike (og) 67, Betinho 89;
+
+;Kyoto Purple Sanga     ; 2- 1   (aet)   ; Sanfrecce Hiroshima      ; 7315
+Edmilson 16, Noguchi 108 ; Huistra 25
+
+Nagoya Grampus Eight    ; 0- 3; Gamba Osaka;         13517
+; Stojkovic 38, Mochizuki 60, Hirano 63
+
+;Avispa Fukuoka         ; 0- 1          5,351; Cerezo Osaka             ; 5351
+; Yokoyama 84
  
-Round:  27 (30 October)
+Round:  27
+Date: 10/30/1996
+
 ;Kashima Antlers         2- 2  ;(4-3)  15,823; Jubilo Iwata             
 ;   [Mazinho 40,76  - Urawa Reds              ; 1- 0          8,337; Schillaci 1, Fukunishi 55]
 JEF United Ichihara    
@@ -325,7 +361,9 @@ Cerezo Osaka
 ;Sanfrecce Hiroshima    ; 3- 2          5,037; Bellmare Hiratsuka       
 ;   [Takagi 11, Huistra 30, Kojima 52  - Cerezo Osaka            ; 3- 0         12,019; Noguchi 86]
  
-Round:  28 (2 November)
+Round:  28 
+Date: 11/2/1996
+
 Jubilo Iwata           
    [Kurata [og] 44, Schillaci 65, Fujita 75]
 ;Kashiwa Reysol         ; 3- 0          7,035; Sanfrecce Hiroshima      
@@ -360,7 +398,9 @@ Bellmare Hiratsuka
 Sanfrecce Hiroshima    
 ;   [Moriyasu 53,88  - Bellmare Hiratsuka      ; 2- 4         12,126; Yamashita 30, Major 48, Ueno 66,79]
  
-Round:  30 (9 November)
+Round:  30 
+Date: 11/9/1996
+
 Kashiwa Reysol         
 ;   [Careca 76, Date 85  - Yokohama Flugels        ; 3- 0         19,357; Antonio [og] 47, Teruo Iwamoto 48, Betinho 58 [pen],74]
 Urawa Reds             
@@ -411,10 +451,12 @@ Avispa Fukuoka
 *The semifinals were played on Wednesday 13 November 1996, right after
 *the end of the regular competition.
 
-Kashima Antlers         - Verdy Kawasaki           1- 1  (4-2)  16,081
-(h1) 9. Mazinho 1-0, (h2) 25. K.Miura 1-1. Shots: 18-13. At Kashima.
+; Kashima Antlers     ;    1-1; Verdy Kawasaki   ;Kashima, Japan ; 16081        1- 1  
+*(4-2)
+Mazinho 9; K. Miura 72
+**(h1) 9. Mazinho 1-0, (h2) 25. K.Miura 1-1. Shots: 18-13. At Kashima.
 
-Shimizu S Pulse         - Nagoya Grampus Eight     0- 0  (1-3)  15,285
+; Shimizu S Pulse       ; 0-0; Nagoya Grampus Eight ; ; 15285
 
 
 *The 1996 J.League Champions Final (Suntory Cup) was played on
@@ -437,610 +479,69 @@ Shimizu S Pulse         - Nagoya Grampus Eight     0- 0  (1-3)  15,285
 *no matter what, and it's the Antlers who will be playing in the Asian
 *Champions' Cup next season.
 
-Kashima Antlers         - Nagoya Grampus Eight     0- 1   (OT)  25,017
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-(o2) 5. Stojkovic 0-1. Shots: 17-10. At National Stadium, Tokyo.
-20 November 1996, kickoff 19:00. Referee: Leslie Mottram.
-
-Kashima Antlers - GK Furukawa, DF Naitou, Akita, Okuno, Souma,
- MF Jorginho, Honda, Masuda, Rodrigo, FW Mazinho, Manaka.
- Subs: Kurosaki (h2-31) for Masuda, Oniki (h2-39) for Rodrigo.
- Cards: Akita, Rodrigo.
-Nagoya Grampus Eight - GK Y.Itou, DF Iijima, Torres, Ooiwa, Nishigaya,
- MF Mochizuki, Durix, Nakanishi, Hirano, FW Stojkovic, Ogura.
- Subs: Okayama (h2-18) for Ogura, Moriyama (h2-35) for Hirano,
-  Kina (o2-0) for Durix.
- Cards: Ooiwa, Iijima, Nakanishi.
-
-
-
-Team promoted for 1997 competition: Vissel Kobe.
-
-
-
-The Emperor's Cup 1996
-""""""""""""""""""""""
-
-round 1      :  3 November (all J.League teams get a bye)
-round 2      : 10 November (all J.League teams get a bye)
-round 3      : 17 November (J.League teams participate; 16 matches)
-round 4      : 23 December 1996
-quarterfinals: 26 December 1996
-semifinals   : 29 December 1996
-final        :  1 January 1997
-
-First round (3 November 1996)
-
- Denso                               3 -  1 Juntendo Univ.
- Blaze Kumamoto                      2 -  1 Kwansei Gakuin Univ.
- World Blitz Oyama                   0 -  7 Vissel Kobe
- Nihon Bunri Univ.                   1 -  3 Mitsubishi Motors Mizushima
- Kaiho Club                          0 -  4 Montedio Yamagata
- Runes Gakuen Koga SC                1 -  1 Hokkaido Educ. Univ. at Hakodate
-                                     5 PK 3
- Morioka Zebra                       0 -  6 Fujitsu Kawasaki
- Fukuoka Univ.                       2 -  2 Alvileo Niigata
-                                     5 PK 4
- Kawazoe Club                        2 -  5 Ventforet Kofu
- FC Matsue                           0 -  9 Kokushikan Univ.
- Matsuyama Univ.                     0 - 11 Brummel Sendai
- Tokai Univ.                         1 -  0 Osaka Commerce Univ.
- Wakayama Univ.                      0 -  3 Consadole Sapporo
- Gonohe Town Office SC               2 -  1 Sanyo Electrics
- Fukushima FC                        2 -  1 Hitachi Shimizu
- Teihenzu                            0 -  4 Tsukuba Univ.
- NTT Kanto                           2 -  0 Doshisha Univ.
- YKK                                 0 -  5 Waseda Univ.
- MIND HOUSE                          1 -  5 Tokyo Gas
- Ueda Jenshan                        1 -  2 Kunimi FC
- Central Kobe                        0 -  3 Tosu Futures
- Sony Sendai                         2 -  1 Hiroshima Teachers Selection
- Tenri Univ.                         0 -  1 Cosmo Yokkaichi
- Prima Ham Tsuchiura                 2 -  3 Komazawa Univ.
- Tokushima Commerce High School      1 -  5 Oita F.C.
- Volca Kagoshima                     3 -  1 TDK
- Yamagata FC                         1 -  7 Otsuka F.C.
- Kochi Univ.                         8 -  1 Miyazaki Teachers Selection
- Aoyama Gakuin Univ.                 0 -  4 Honda Giken
- Toa Univ.                           3 -  4 Kagawa Shiun Club
- Maruoka High School                 0 -  4 Seino Transport
- Yonago Hogashi High School          0 -  4 Kansai Univ.
-
-Second round (10 November 1996)
-
- Denso                               3 -  1 Blaze Kumamoto
- Vissel Kobe                         4 -  2 Mitsubishi Motors Mizushima
- Montedio Yamagata                   6 -  0 Runes Gakuen Koga SC
- Fujitsu Kawasaki                    3 -  0 Fukuoka Univ.
- Ventforet Kofu                      1 -  2 Kokushikan Univ.
- Brummel Sendai                      4 -  1 Tokai Univ.
- Consadole Sapporo                   4 -  0 Gonohe Town Office SC
- Fukushima FC                        3 -  0 Tsukuba Univ.
- NTT Kanto                           1 -  0 Waseda Univ.
- Tokyo Gas                           8 -  0 Kunimi FC
- Tosu Futures                        5 -  2 Sony Sendai
- Cosmo Yokkaichi                     3 -  0 Komazawa Univ.
- Oita F.C.                           6 -  1 Volca Kagoshima
- Otsuka F.C.                         2 -  1 Kochi Univ.
- Honda Giken                         3 -  2 Kagawa Shiun Club
- Seino Transport                     1 -  2 Kansai Univ.
-
-Third Round:  (16, 17 November 1996)
-
-Cerezo Osaka            - Tokyo Gas                3- 1
-Yokohama Flugels        - Nippon Densou            4- 0
-Kyoto Purple Sanga      - Vissel Kobe              4- 3
-Gamba Osaka             - Montedio Yamagata        4- 1
-JEF United Ichihara     - Fujitsu Kawasaki         0- 0  (4-5)
-Kashiwa Reysol          - Kokushikan Univ.         1- 0
-Sanfrecce Hiroshima     - Brummel Sendai           2- 0
-Shimizu S Pulse         - Consadole Sapporo        1- 0
-Jubilo Iwata            - Fukushima FC             1- 2
-Urawa Reds              - NTT Kanto                3- 0
-Bellmare Hiratsuka      - Tosu Futures             1- 0
-Nagoya Grampus Eight    - Cosmo Yokkaichi          0- 1
-Verdy Kawasaki          - Ooita FC                 4- 0
-Yokohama Marinos        - Vortis Tokushima         1- 2   (OT)
-Avispa Fukuoka          - Honda Giken              3- 1
-Kashima Antlers         - Kwansei Univ.            2- 0
-
-Fourth Round:  (23 December 1996)
-Avispa Fukuoka          - Kashima Antlers          0- 2
-Kyoto Purple Sanga      - Yokohama Flugels         1- 0
-Sanfrecce Hiroshima     - Kashiwa Reysol           2- 1
-Fukushima FC            - Shimizu S Pulse          1- 2
-Urawa Reds              - Cerezo Osaka             4- 0
-Bellmare Hiratsuka      - Cosmo Oil                3- 1
-Verdy Kawasaki          - Vortis Tokushima         4- 0
-Fujitsu Kawasaki        - Gamba Osaka              1- 3
-
-QUARTERFINALS (played on 26 december 1996)
-Verdy Kawasaki          - Kashima Antlers          2- 1
-Gamba Osaka             - Kyoto Purple Sanga       3- 2
-Sanfrecce Hiroshima     - Shimizu S Pulse          3- 0
-Urawa Reds              - Bellmare Hiratsuka       3- 0
-
-SEMIFINALS (played on 29 December 1996)
-Gamba Osaka             - Sanfrecce Hiroshima      0- 2          8,452
-Urawa Reds              - Verdy Kawasaki           0- 3         28,994
-
-Cup Final, played on 1 January 1997.
-
-Sanfrecce Hiroshima     - Verdy Kawasaki           0- 3         38,737
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-(h1) 3. Kitazawa 0-1, 11. Y.Miura 0-2, (h2) 14. Kurihara 0-3.
-Shots at goal: 10-12. At Yoyogi National Stadium, Tokyo.
-
-Sanfrecce Hiroshima - GK Maekawa, DF Naitou, Yanagimoto, Kojima,
- MF Michiki, Moriyasu, Yoshida, Santos, Kuwabara, FW Noh, Takagi.
- Subs: Kubo (h2-26 for Naitou), Abe (h2-33 for Yoshida).
- Cards: Santos.
-Verdy Kawasaki - GK S.Kikuchi, DF T.Kikuchi, Argel, Hayashi, Nakamura,
- Sugawara, MF Y.Miura, Bismarck, Kitazawa, FW Kurihara, K.Miura.
- Subs: Ishizuka (h2-36 for Kurihara).
- Cards: Y.Miura.
-
-
-Nabisco Cup (or League Cup) 1996
-================================
-
-The J.League Cup, also known as the Nabisco Cup, started play on
-1 June and will see the final on 25 September, which is in the middle
-of the second half of the regular J.League competition.
-
-The J.League Cup is being played for the fourth time this year: the
-first time was in 1992 (that was the first J.League event, even before 
-the inaugural competition), it was also played in '93 and '94, but in
-1995 it was skipped because of the packed schedule of the J.League's
-regular competition. The first three editions were all won by Verdy
-Kawasaki. Note that the J.League Cup is not Japan's official Cup
-Competition: it is the winner of the Emperor's Cup, played
-traditionally in December, who gets to participate in the Asian Cup
-Winners' Cup.
-
-The format of the J.League Cup seems to change every year: this year
-the participants are only the regular J.League teams (in previous
-years the associate members (in the JFL) also got to participate but
-there was apparently no room in their schedule this time). The
-familiar 16 teams are divided in two groups, and get to play each
-other in a home-and-away format. The interesting thing is that the
-home and away games follow each other directly: so for instance on the 
-first day (Saturday 1 June) the Yokohama Marinos hosted Gamba Osaka,
-and on the second day (the following Wednesday, 5 June) Gamba hosted
-the Marinos. The assignment of points is also interesting: only the
-results over each two-match series count. If the series ends in a
-draw (both games ended in draws, or both teams won once and scored the 
-same number of goals) then both teams get 1 point. In all other cases, 
-the team that scored the most goals is declared the winner and gets 3
-points. The away goals rule is not applied, so a 1-0 home win followed 
-by a 1-2 away defeat counts as a draw. Obviously there is no "V-goal"
-(sudden-death) overtime, games end after 90 minutes and a draw is a
-draw.
-
-
-Group A
-......................................................................
-Urawa Reds            - Kashiwa Reysol        1- 3
-Goals: (Reds) Fukunaga, (Reysol) Watanabe, OG, Edilson
-Kashiwa Reysol        - Urawa Reds            2- 0
-Goals: (Reysol) N.Katou, Edilson
-
-Yokohama Marinos      - Gamba Osaka           2- 3
-Goals: (Marinos) Miura 2, (Gamba) Isogai 2 (1 PK), Gillhaus
-Gamba Osaka           - Yokohama Marinos      1- 1
-Goals: (Gamba) Matsuyama, (Marinos) T.Yamada
-
-Kyoto Purple Sanga    - Bellmare Hiratsuka    1- 1
-Goals: (Sanga) Raudnei, (Bellmare) Seki
-Bellmare Hiratsuka    - Kyoto Purple Sanga    3- 1
-Goals: (Bellmare) T.Iwamoto, Seki, Natsuka, (Sanga) Raudnei (PK)
-
-Sanfrecce Hiroshima   - Jubilo Iwata          1- 0
-Goals: (Sanfrecce) Huistra
-Jubilo Iwata          - Sanfrecce Hiroshima   1- 0
-Goals: (Jubilo) Nakayama
-
-Kashiwa Reysol        - Yokohama Marinos      0- 0
-Yokohama Marinos      - Kashiwa Reysol        3- 1
-Goals: (Marinos) Miura, Matsuda, Bisconti, (Reysol) Edilson
-
-Urawa Reds            - Bellmare Hiratsuka    0- 0
-Bellmare Hiratsuka    - Urawa Reds            1- 2
-Goals: (Bellmare) Bettinho, (Reds) Boli, Fukuda (PK)
-
-Kyoto Purple Sanga    - Sanfrecce Hiroshima   0- 1
-Goals: (Sanfrecce) Abe
-Sanfrecce Hiroshima   - Kyoto Purple Sanga    0- 0
-
-Jubilo Iwata          - Gamba Osaka           3- 1
-Goals: (Jubilo) Nanami, Fujita, Schillaci, (Gamba) Gillhaus
-Gamba Osaka           - Jubilo Iwata          0- 5
-Goals: (Jubilo) Vanenburg, Nakayama 2, Takeda, Ookura
-
-Kashiwa Reysol        - Jubilo Iwata          2- 1
-Goals: (Reysol) Wagner, Sakai, (Jubilo) Schillaci
-Jubilo Iwata          - Kashiwa Reysol        1- 1
-Goals: (Jubilo) Katsuya, (Reysol) Careca
-
-Bellmare Hiratsuka    - Yokohama Marinos      1- 1
-Goals: (Bellmare) Nakata, (Marinos) Bisconti
-Yokohama Marinos      - Bellmare Hiratsuka    0- 3
-Goals: (Bellmare) T.Iwamoto, Paulinho 2
-
-Kyoto Purple Sanga    - Urawa Reds            1- 1
-Goals: (Sanga) Raudnei, (Reds) Boli
-Urawa Reds            - Kyoto Purple Sanga    0- 1
-Goals: (Sanga) Yamaguchi
-
-Sanfrecce Hiroshima   - Gamba Osaka           1- 1
-Goals: (Sanfrecce) Kubo, (Gamba) Matsuyama
-Gamba Osaka           - Sanfrecce Hiroshima   0- 3
-Goals: (Sanfrecce) Moriyasu, Kubo, Michiki
-
-......................................................................
-Urawa Reds            - Yokohama Marinos      2- 1
-Goals: (Reds) Okano, Fukuda, (Marinos) Bisconti
-The first leg was won by the Marinos, don't remember the score.
-......................................................................
-Jubilo Iwata          - Bellmare Hiratsuka    2- 1
-Goals: (Jubilo) OG, Hattori (PK), (Bellmare) Paulinho
-The first game was also won by Jubilo, by a wide margin I think.
-......................................................................
-Kyoto Purple Sanga    - Gamba Osaka           1- 2
-Goals: (Sanga) Raudnei, (Gamba) Skrinjar, Matsunami
-The first game was also won by Gamba, 4-3 if I remember correctly.
-......................................................................
-Sanfrecce Hiroshima   - Kashiwa Reysol        1- 3
-Goals: (Sanfrecce) Ooki, (Reysol) Careca (2), Shimotaira
-The first game was won by Sanfrecce, but with a one-goal difference;
-Consequently, the points go to Reysol.
-......................................................................
-
-......................................................................
-Urawa Reds            - Jubilo Iwata          1- 2
-Goals: (Reds) Fukuda (PK), (Jubilo) Nakayama, Schillaci
-......................................................................
-Kyoto Purple Sanga    - Yokohama Marinos      1- 3
-Goals: (Sanga) Raudnei, (Marinos) Zapata, Nagayama, Omura (PK)
-......................................................................
-Gamba Osaka           - Kashiwa Reysol        1- 4
-Goals: (Gamba) Gillhaus, (Reysol) Date, Valdir, Arima, N.Katou
-......................................................................
-Sanfrecce Hiroshima   - Bellmare Hiratsuka    2- 3
-Goals: (Sanfrecce) Kubo, Huistra, (Bellmare) Paulinho, Seki (2)
-......................................................................
-
-......................................................................
-Yokohama Marinos      - Jubilo Iwata          2- 0
-Goals: (Marinos) T.Suzuki, Bisconti
-The Marinos also won the first game, by the same score I think.
-......................................................................
-Bellmare Hiratsuka    - Gamba Osaka           0- 0
-The first game was also a draw.
-......................................................................
-Urawa Reds             - Sanfrecce Hiroshima  0- 2
-Goals: (Sanfrecce) Santos (2)
-The first game was won by the Reds; I'm not sure, but I think
-Sanfrecce got three points out of this leg.
-......................................................................
-Kashiwa Reysol         - Kyoto Purple Sanga   3- 1
-Kyoto Purple Sanga     - Kashiwa Reysol       0- 0
-The second game was originally cancelled because of a typhoon, which
-made it the first time ever an official J.League match had to be
-postponed. It was finally played on 24 August.
-......................................................................
-
-......................................................................
-Bellmare Hiratsuka     - Kashiwa Reysol       3- 1
-Goals: (Bellmare) Nakata, Seki, Narahashi, (Reysol) Edilson
-Kashiwa Reysol         - Bellmare Hiratsuka   1- 2
-Goals: (Reysol) Sakai, (Bellmare) Seki, Noguchi
-......................................................................
-Yokohama Marinos       - Sanfrecce Hiroshima  3- 5
-Goals: (Marinos) Omura, T.Yamada, Acosta, (Sanfrecce) Santos (2),
-       Takagi, Huistra, Kubo
-Sanfrecce Hiroshima    - Yokohama Marinos     2- 2
-Goals: (Sanfrecce) Huistra (PK), Moriyasu, (Marinos) Acosta (2)
-......................................................................
-Jubilo Iwata           - Kyoto Purple Sanga   0- 0
-Kyoto Purple Sanga     - Jubilo Iwata         3- 1
-Goals: (Sanga) Carlos, Ta.Yamaguchi, Alexandre, (Jubilo) Nakayama
-......................................................................
-Gamba Osaka            - Urawa Reds           1- 1
-Goals: (Gamba) Matsuyama, (Reds) Ooshiba
-Urawa Reds             - Gamba Osaka          3- 0
-Goals: (Reds) Taguchi, Ooshiba, Okano
-......................................................................
-
-
-
-Group B
-......................................................................
-JEF United Ichihara   - Avispa Fukuoka        0- 1
-Goals: (Avispa) Troglio
-Avispa Fukuoka        - JEF United Ichihara   0- 2
-Goals: (JEF) Maslovar, Hiroyama
-
-Shimizu S Pulse       - Kashima Antlers       1- 0
-Goals: (S Pulse) Ooenoki
-Kashima Antlers       - Shimizu S Pulse       2- 2
-Goals: (Antlers) Leonardo 2 (1 PK), (S Pulse) Oriba, Hasegawa
-
-Nagoya Grampus Eight  - Yokohama Flugels      1- 1
-Goals: (Grampus) Hirano, (Flugels) Zinho
-Yokohama Flugels      - Nagoya Grampus Eight  1- 1
-Goals: (Flugels) Zinho, (Grampus) Moriyama
-
-Cerezo Osaka          - Verdy Kawasaki        0- 1
-Goals: (Verdy) Bismarck
-Verdy Kawasaki        - Cerezo Osaka          3- 0
-Goals: (Verdy) Gen 2, Nunobe
-
-Yokohama Flugels      - Shimizu S Pulse       0- 1
-Goals: (S Pulse) Nagai
-Shimizu S Pulse       - Yokohama Flugels      3- 3
-Goals: (S Pulse) Sawanobori, Hasegawa, Nagai, (Flugels) Maezono2,
-       Satsukawa
-
-Cerezo Osaka          - JEF United Ichihara   3- 3
-Goals: (Cerezo) Kawamae, Kurata, Kanda, (JEF) OG 2, Maslovar
-JEF United Ichihara   - Cerezo Osaka          2- 0
-Goals: (JEF) Hasek, Jou
-
-Avispa Fukuoka        - Kashima Antlers       0- 0
-Kashima Antlers       - Avispa Fukuoka        2- 0
-Goals: (Antlers) Yanagizawa, Leonardo
-
-Verdy Kawasaki        - Nagoya Grampus Eight  4- 0
-Goals: (Verdy) Kitazawa, Bismarck, Nunobe, Kaiko
-Nagoya Grampus Eight  - Verdy Kawasaki        0- 3
-Goals: (Verdy) Nunobe, Fujiyoshi, Ishizuka
-
-Shimizu S Pulse       - Avispa Fukuoka        3- 1
-Goals: (S Pulse) Massaro, Nagai, Oriba, (Avispa) Maradona
-Avispa Fukuoka        - Shimizu S Pulse       0- 1
-Goals: (S Pulse) Hasegawa
-
-Nagoya Grampus Eight  - JEF United Ichihara   1- 1
-Goals: (Grampus) Stojkovic (PK), (JEF) Ejiri
-JEF United Ichihara   - Nagoya Grampus Eight  1- 0
-Goals: (JEF) Hasek
-
-Yokohama Flugels      - Verdy Kawasaki        5- 1
-Goals: (Flugels) Yamaguchi, Maezono 2, Zinho, Sampaio,
-       (Verdy) Kaiko (PK)
-Verdy Kawasaki        - Yokohama Flugels      3- 1
-Goals: (Verdy) Kaiko, Kitazawa, Kurihara, (Flugels) Zinho
-
-Cerezo Osaka          - Kashima Antlers       0- 2
-Goals: (Antlers) Leonardo, Kurosaki
-Kashima Antlers       - Cerezo Osaka          0- 3
-Goals: (Cerezo) Manoel (PK), Nishizawa, Yokoyama
-
-......................................................................
-Verdy Kawasaki        - JEF United Ichihara   1- 2
-Goals: (Verdy) Nunobe, (JEF) Jou, Niimura
-The first game was won by Verdy, crushingly I think; the points go to
-Verdy.
-......................................................................
-Yokohama Flugels      - Avispa Fukuoka        4- 1
-Goals: (Flugels) Yamaguchi, Maezono, Zinho (PK), Sampaio,
-       (Avispa) Maradona (PK)
-The first game was a draw.
-......................................................................
-Nagoya Grampus Eight  - Kashima Antlers       0- 2
-Goals: (Antlers) Leonardo, Masuda
-The first game was also won by the Antlers.
-......................................................................
-Cerezo Osaka          - Shimizu S Pulse       0- 1
-Goals: (S Pulse) Sawanobori
-The first game was also won by the S Pulse.
-......................................................................
-
-......................................................................
-Yokohama Flugels      - JEF United Ichihara   2- 3
-Goals: (Flugels) Hattori, Yamaguchi, (JEF) Hasek (2), Sandro
-......................................................................
-Verdy Kawasaki        - Kashima Antlers       1- 1
-Goals: (Verdy) Ardeu, (Antlers) Ishii
-......................................................................
-Avispa Fukuoka        - Cerezo Osaka          2- 2
-Goals: (Avispa) OG, Takemoto, (Cerezo) Nishizawa, Yonekura
-......................................................................
-Shimizu S Pulse       - Nagoya Grampus Eight  2- 0
-Goals: (S Pulse) Oliva (2)
-......................................................................
-
-......................................................................
-JEF United Ichihara    - Kashima Antlers      1- 1
-Goals: (JEF) Hasek, (Antlers) Mazinho
-The first game was also a draw.
-......................................................................
-Shimizu S Pulse        - Verdy Kawasaki       0- 0
-The first game was also a draw.
-......................................................................
-Cerezo Osaka           - Yokohama Flugels     1- 1
-Goals: (Cerezo) Tsukamoto; (Flugels) Maezono
-The first game was also a draw.
-......................................................................
-Nagoya Grampus Eight   - Avispa Fukuoka       3- 3
-Goals: (Grampus) Asano, Hirano, Moriyama, (Avispa)  Yamashita,
-       Ishimaru, Troglio (PK)
-The first game was won by Avispa.
-......................................................................
-
-......................................................................
-Kashima Antlers        - Yokohama Flugels     1- 1
-Goals: (Antlers) Jorginho, (Flugels) Satsukawa
-Yokohama Flugels       - Kashima Antlers      1- 1
-Goals: (Flugels) Hattori, (Antlers) Oniki
-......................................................................
-JEF United Ichihara    - Shimizu S Pulse      3- 1
-Goals: (JEF) Nakanishi, Maslovar, Jou, (S Pulse) Sawanobori (PK)
-Shimizu S Pulse        - JEF United Ichihara  4- 0
-Goals: (S Pulse) Hasegawa (2), Oliva, Morioka
-......................................................................
-Nagoya Grampus Eight   - Cerezo Osaka         6- 1
-Goals: (Grampus) Stojkovic (2), Hirano, Ogura (2), Moriyama,
-       (Cerezo) Yonekura
-Cerezo Osaka           - Nagoya Grampus Eight 3- 1
-Goals: (Cerezo) Nishizawa, Morishima, Manoel (PK), (Grampus) Asano
-......................................................................
-Avispa Fukuoka         - Verdy Kawasaki       2- 5
-Goals: (Avispa) Maradona (2), (Verdy) Magron, Kitazawa (2), K.Miura (2)
-Verdy Kawasaki         - Avispa Fukuoka       0- 1
-Goals: (Avispa) Endou
-......................................................................
-
-
-
-FINAL STANDINGS
-
-GROUP A
-
-   Team                 Games  (W-D-L)  GF-GA  Pnt
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1. Kashiwa Reysol          15  (7-3-4)  24-16   +8
-2. Bellmare Hiratsuka      13  (6-5-3)  23-15   +8
-3. Sanfrecce Hiroshima     13  (6-3-5)  22-20   +2
-4. Yokohama Marinos        12  (5-4-5)  22-20   +2
-5. Jubilo Iwata            10  (6-3-5)  21-17   +4
-6. Gamba Osaka              7  (3-5-6)  15-30  -15
-7. Urawa Reds               6  (4-4-6)  16-20   -4
-8. Kyoto Purple Sanga       6  (3-5-7)  14-19   -5
-
-GROUP B
-
-   Team                 Games  (W-D-L)  GF-GA  Pnt
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1. Shimizu S Pulse         16  (8-4-2)  22-16   +6
-2. Verdy Kawasaki          14  (7-4-3)  25-13  +12
-3. Yokohama Flugels        12  (3-8-3)  27-20   +7
-4. JEF United Ichihara     10  (6-4-4)  20-22   -2
-5. Kashima Antlers          9  (4-8-2)  16-12   +4
-6. Cerezo Osaka             7  (3-4-7)  23-26   -3
-7. Nagoya Grampus Eight     7  (2-4-8)  19-26   -7
-8. Avispa Fukuoka           3  (3-4-7)  14-31  -17
-
-
-
-The results of the semifinals of the 1996 J.League Cup (Nabisco Cup),
-which were played on Wednesday 4 September.
-
-Kashiwa Reysol        - Verdy Kawasaki         1- 2             14,155
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-(h1) 11. Argel 0-1, (h2) 0. Magrao 0-2, 14. Arima 1-2.
-Shots at goal: 6-12. At National Stadium, Tokyo.
-
-Shimizu S Pulse       - Bellmare Hiratsuka     5- 0             13,629
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-(h1) 15. Oliva 1-0, 18. Ooenoki 2-0, 22. Oliva 3-0,
-(h2) 11. Hasegawa 4-0, 39. T.Itou 5-0.
-Shots at goal: 15-16. At Nihondaira Stadium.
-
-
-Final
-
-(Played on 25 September 1996, at National Stadium Tokyo)
-
-
-Shimizu S Pulse         - Verdy Kawasaki           3- 3  (5-4)  28,232
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-(h2) 23. Hasegawa 1-0, 36. Oliva 2-0, 42. Horiike 2-1 (OG),
-44. Argel 2-2, (o1) 0. Santos 3-2, (o2) 0. Bismarck 3-3.
-Shots at goal: 13-17. At National Stadium, Tokyo. Referee: xx.
-Penalties: K.Miura 0-1, Sawanobori 1-1, Magrao x, Santos 2-1,
-Bismarck 2-2, Ooenoki 3-2, Kitazawa 3-3, Morioka 4-3, Argel 4-4,
-Oliva 5-4.
-
-Lineups
-Shimizu S Pulse - GK Sanada, DF Andou, Saitou, Horiike, Morioka,
- MF Santos, Ooenoki, Nagai, Oliva, Sawanobori, FW Hasegawa.
- Substitutions: Shirai (o1-10, for Nagai).
- Cards: Sawanobori, Santos.
-Verdy Kawasaki - GK S.Kikuchi, DF Ishikawa, Argel, Hashiratani,
- Nakamura, Sugawara, MF Y.Miura, Bismarck, Kitazawa, FW Magrao,
- K.Miura.
- Substitutions: Gen (h2-30, for Nakamura), T.Kikuchi (h2-36, for
- Ishikawa), Nishizawa (h2-41, for Y.Miura).
- Cards: Nakamura, Magrao, Hashiratani, Argel.
-
-J.League Cup (Nabisco Cup) Top Scorers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1. Oliva               Arg?  Shimizu S Pulse         9
-2. Kouji Seki          Jpn   Bellmare Hiratsuka      8
-
-
-
-Japan 1996 Second Level (Football League)
-
-JFL Final Standings
+Round: final
+
+11/20/1996 1900; Kashima Antlers   ; 0-1 (aet); Nagoya Grampus Eight ; Tokyo National Stadium; Leslie Mottram; 25017
+; Stojkovic 5
+
+Kashima Antlers: Furukawa; Naitou, Akita, Okuno, Souma; Jorginho, Honda, Masuda (Kurosaki 76), Rodrigo (Oniki) 84; Mazinho, Manaka
+* Subs: Kurosaki (h2-31) for Masuda, Oniki (h2-39) for Rodrigo.
+* Cards: Akita, Rodrigo.
+Nagoya Grampus Eight: Y.Itou; Iijima, Torres, Ooiwa, Nishigaya; Mochizuki, Durix (90), Nakanishi, Hirano (Moriyama 80); Stojkovic, Ogura (Okayama 63)
+* Subs: Okayama (h2-18) for Ogura, Moriyama (h2-35) for Hirano, Kina (o2-0) for Durix.
+* Cards: Ooiwa, Iijima, Nakanishi.
+
+*Team promoted for 1997 competition: Vissel Kobe.
+
+
+
+
+
+
+*Japan 1996 Second Level (Football League)
+*JFL Final Standings
+*Pos. Team                Games  Win Lose (PK-Ls)  GF-GA  GDf  Pts
+*  1. Honda Giken Hamamatsu  30   25    5          83-35  +48   75
+** 2. Vissel Kobe            30   25    5          78-32  +46   75
+*  3. Tokyo Gas              30   24    6   (1)    63-28  +35   73
+** 4. Tosu Futures           30   20   10   (2)    68-43  +25   62
+** 5. Consadole Sapporo      30   20   10   (2)    60-43  +17   62
+** 6. Brummel Sendai         30   18   12   (2)    67-52  +15   56
+*  7. Vortis Tokushima       30   18   12   (1)    56-41  +15   55
+*  8. Montedio Yamagata      30   16   14   (1)    45-49   -4   49
+*  9. Fujitsu Kawasaki       30   15   15          48-45   +3   45
+* 10. Oita Trinity           30   13   17          42-52  -10   39
+* 11. Ventforet Kofu         30   11   19          50-56   -6   33
+* 12. Cosmo Oil Yokkaichi    30   11   19          31-59  -28   33
+* 13. NTT Kanto              30    7   23   (2)    36-55  -19   23
+* 14. Fukushima FC           30    7   23   (1)    30-63  -33   22
+* 15. Nippon Denso           30    5   25   (1)    40-90  -50   16
+* 16. Seino Transports       30    5   25          28-82  -54   15
+* 
+*(an asterisk marks the J.League associate members.)
+*(games go to OT and PK to decide the winner if necessary.
+* 3 points for a win, 1 point for a loss after penalty kicks)
  
-Pos. Team                Games  Win Lose (PK-Ls)  GF-GA  GDf  Pts
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  1. Honda Giken Hamamatsu  30   25    5          83-35  +48   75
-* 2. Vissel Kobe            30   25    5          78-32  +46   75
-  3. Tokyo Gas              30   24    6   (1)    63-28  +35   73
-* 4. Tosu Futures           30   20   10   (2)    68-43  +25   62
-* 5. Consadole Sapporo      30   20   10   (2)    60-43  +17   62
-* 6. Brummel Sendai         30   18   12   (2)    67-52  +15   56
-  7. Vortis Tokushima       30   18   12   (1)    56-41  +15   55
-  8. Montedio Yamagata      30   16   14   (1)    45-49   -4   49
-  9. Fujitsu Kawasaki       30   15   15          48-45   +3   45
- 10. Oita Trinity           30   13   17          42-52  -10   39
- 11. Ventforet Kofu         30   11   19          50-56   -6   33
- 12. Cosmo Oil Yokkaichi    30   11   19          31-59  -28   33
- 13. NTT Kanto              30    7   23   (2)    36-55  -19   23
- 14. Fukushima FC           30    7   23   (1)    30-63  -33   22
- 15. Nippon Denso           30    5   25   (1)    40-90  -50   16
- 16. Seino Transports       30    5   25          28-82  -54   15
- 
-(an asterisk marks the J.League associate members.)
-(games go to OT and PK to decide the winner if necessary.
- 3 points for a win, 1 point for a loss after penalty kicks)
- 
-After the 1996 season,
-- Vissel Kobe was promoted to the J.League.
-- Cosmo Oil Yokkaichi was disbanded.
-- Tosu Futures was disbanded, and a new club was formed called Sagan
-  Tosu. The club lost its J.League associate membership but retained
-  JFL status.
-- Fujitsu Kawasaki was renamed Kawasaki Frontale, and applied for
-  J.League associate membership.
-- Honda Giken Hamamatsu also applied for J.League associate membership,
-  a new name was not decided in time for the new season.
-- Prima Ham Tsuchiura and Jatco were promoted to the JFL.
-- Prima Ham Tsuchiura was relocated to Mito, and renamed Mito
-  Hollyhock.
+*After the 1996 season,
+*- Vissel Kobe was promoted to the J.League.
+*- Cosmo Oil Yokkaichi was disbanded.
+*- Tosu Futures was disbanded, and a new club was formed called Sagan
+*  Tosu. The club lost its J.League associate membership but retained
+*  JFL status.
+*- Fujitsu Kawasaki was renamed Kawasaki Frontale, and applied for
+*  J.League associate membership.
+*- Honda Giken Hamamatsu also applied for J.League associate membership,
+*  a new name was not decided in time for the new season.
+*- Prima Ham Tsuchiura and Jatco were promoted to the JFL.
+*- Prima Ham Tsuchiura was relocated to Mito, and renamed Mito
+*  Hollyhock.
 
 
 
-1995.
 
-
-1997.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-list of cup finals.
-
-
-list of super cup finals.
-
-
-About this document
-
-With thanks to Ian King
-
-Prepared and maintained by Eric Visser for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Eric Visser (ericv@gol.com) 
-Last updated: 1 Feb 2004
-
-(C) Copyright Eric Visser and RSSSF 1999/2004
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*With thanks to Ian King
+*Prepared and maintained by Eric Visser for the Rec.Sport.Soccer Statistics Foundation
+*Author: Eric Visser (ericv@gol.com) 
+*Last updated: 1 Feb 2004
+*(C) Copyright Eric Visser and RSSSF 1999/2004
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

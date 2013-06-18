@@ -1,7 +1,7 @@
 Competition: Liga MX
 Season: 1990-1991
 BlockSource: http://www.rsssf.com/tablesm/mex91.html
-
+home-first
 
 *Group 1              G   W   T   L  GF  GA  DIF  PTS
 **Club America            38  15  13  10  61  53   +8   43
@@ -32,10 +32,10 @@ BlockSource: http://www.rsssf.com/tablesm/mex91.html
 *Cobras Ciudad Juarez   38   9  14  15  38  53  -15   32
 *Qualify to Championship Playoffs
 
-Round: Week 1
+Round: 1
 Date: 9/28/1990
 
-; UNAM; 1-0; Santos 
+; UNAM; 1-0; Santos Laguna 
 ; UAG; 1-1; U de G 
 
 Date: 9/29/1990
@@ -52,7 +52,7 @@ Date: 9/30/1990
 ; Toluca; 2-3; Necaxa 
 ; Club America; 1-0; Veracruz 
 
-Round: Week 2
+Round: 2
 Date: 10/6/1990
 
 ; Cruz Azul; 1-3; Puebla 
@@ -65,11 +65,11 @@ Date: 10/7/1990
 ; Necaxa; 1-3; Guadalajara 
 ; Queretaro; 3-1; Monterrey 
 ; Club León; 1-0; Toluca 
-; Santos; 1-3; Cobras Ciudad Juarez 
+; Santos Laguna; 1-3; Cobras Ciudad Juarez 
 ; Irapuato; 0-0; UAG 
 ; U de G; 1-1; UAT 
 
-Round: Week 3
+Round: 3
 Date: 10/12/1990
 
 ; UNAM; 2-0; Veracruz 
@@ -87,12 +87,12 @@ Date: 10/14/1990
 ; Guadalajara; 1-1; Club León 
 ; Atletico Morelia; 2-0; Atlas 
 ; UAT; 0-0; Irapuato 
-; Santos; 2-0; UANL 
+; Santos Laguna; 2-0; UANL 
 
-Round: Week 4
+Round: 4
 Date: 10/20/1990
 
-; Veracruz; 2-1; Santos 
+; Veracruz; 2-1; Santos Laguna 
 ; UANL; 3-2; Cobras Ciudad Juarez 
 ; Puebla; 0-1; Monterrey 
 ; Atlas; 3-0; UNAM 
@@ -106,7 +106,7 @@ Date: 10/21/1990
 ; Irapuato; 0-0; Club America 
 ; Necaxa; 4-1; UAT 
 
-Round: Week 5
+Round: 5
 Date: 10/26/1990
 
 ; UAG; 1-1; Queretaro 
@@ -116,7 +116,7 @@ Date: 10/27/1990
 ; UNAM; 5-0; U de G 
 ; UANL; 1-1; Veracruz 
 ; Cobras Ciudad Juarez; 0-0; Monterrey 
-; Santos; 0-0; Atlas 
+; Santos Laguna; 0-0; Atlas 
 
 Date: 10/28/1990
 
@@ -126,7 +126,7 @@ Date: 10/28/1990
 ; Atletico Morelia; 3-2; Irapuato 
 ; UAT; 2-1; Club León 
 
-Round: Week 6
+Round: 6
 Date: 11/3/1990
 
 ; Veracruz; 1-1; Cobras Ciudad Juarez 
@@ -139,11 +139,11 @@ Date: 11/4/1990
 
 ; Necaxa; 2-3; Atletico Morelia 
 ; Queretaro; 1-1; UAT 
-; U de G; 2-0; Santos 
+; U de G; 2-0; Santos Laguna 
 ; Club León; 3-0; Club America 
 ; Irapuato; 1-6; UNAM 
 
-Round: Week 7
+Round: 7
 Date: 11/9/1990
 
 ; UAG; 2-1; Puebla 
@@ -160,13 +160,13 @@ Date: 11/11/1990
 ; Guadalajara; 1-1; Monterrey 
 ; UAT; 0-0; Cruz Azul 
 ; Cobras Ciudad Juarez; 1-1; Toluca 
-; Santos; 3-0; Irapuato 
+; Santos Laguna; 3-0; Irapuato 
 ; Atletico Morelia; 3-0; Club León 
 
-Round: Week 8
+Round: 8
 Date: 11/17/1990
 
-; Necaxa; 3-1; Santos 
+; Necaxa; 3-1; Santos Laguna 
 ; Monterrey; 2-1; UAG 
 ; Atlas; 0-0; Cobras Ciudad Juarez 
 
@@ -180,7 +180,7 @@ Date: 11/18/1990
 ; Club León; 1-1; UNAM 
 ; Irapuato; 3-1; UANL 
 
-Round: Week 9
+Round: 9
 Date: 11/23/1990
 
 ; UAG; 2-0; Toluca 
@@ -198,12 +198,12 @@ Date: 11/25/1990
 ; Queretaro; 4-2; UNAM 
 ; Atletico Morelia; 1-2; Cruz Azul 
 ; UAT; 0-2; Monterrey 
-; Santos; 0-1; Club León 
+; Santos Laguna; 0-1; Club León 
 
-Round: Week 10
+Round: 10
 Date: 11/28/1990
 
-; Queretaro; 1-1; Santos 
+; Queretaro; 1-1; Santos Laguna 
 ; Irapuato; 1-0; Atlas 
 ; Toluca; 5-0; UAT 
 ; Puebla; 1-1; Atletico Morelia 
@@ -217,7 +217,7 @@ Date: 11/29/1990
 ; Cruz Azul; 1-2; UNAM 
 ; U de G; 1-1; Cobras Ciudad Juarez 
 
-Round: Week 11
+Round: 11
 Date: 12/1/1990
 
 ; Veracruz; 3-0; Club León 
@@ -232,9 +232,9 @@ Date: 12/2/1990
 ; Atletico Morelia; 0-0; Monterrey 
 ; UAT; 0-1; Guadalajara 
 ; Cobras Ciudad Juarez; 2-0; UAG 
-; Santos; 1-2; Cruz Azul 
+; Santos Laguna; 1-2; Cruz Azul 
 
-Round: Week 12
+Round: 12
 Date: 12/7/1990
 
 ; UAG; 0-0; UAT 
@@ -246,7 +246,7 @@ Date: 12/8/1990
 
 Date: 12/9/1990
 
-; Puebla; 1-0; Santos 
+; Puebla; 1-0; Santos Laguna 
 ; Guadalajara; 1-1; Club America 
 ; Necaxa; 2-1; U de G 
 ; Toluca; 2-1; Atletico Morelia 
@@ -254,7 +254,7 @@ Date: 12/9/1990
 ; Irapuato; 3-0; Cobras Ciudad Juarez 
 ; Club León; 0-1; Atlas 
  
-Round: Week 13
+Round: 13
 Date: 12/14/1990
 
 ; UNAM; 2-0; Toluca 
@@ -272,14 +272,14 @@ Date: 12/15/1990
 ; Atletico Morelia; 2-1; Guadalajara 
 ; Cobras Ciudad Juarez; 1-1; UAT 
 ; Irapuato; 1-2; Necaxa 
-; Santos; 1-2; Monterrey 
+; Santos Laguna; 1-2; Monterrey 
 
-Round: Week 14
+Round: 14
 Date: 12/19/1990
 
 ; Cruz Azul; 1-1; Atlas 
 ; Puebla; 1-1; Veracruz 
-; Toluca; 1-0; Santos 
+; Toluca; 1-0; Santos Laguna 
 ; UAG; 2-1; Atletico Morelia 
 
 Date: 12/20/1990
@@ -297,7 +297,7 @@ Date: 12/23/1990
 
 ; Club León; 1-0; Irapuato 
 
-Round: Week 15
+Round: 15
 Date: 12/29/1990
 
 ; Necaxa; 0-4; Club León 
@@ -311,13 +311,13 @@ Date: 12/30/1990
 ; Cobras Ciudad Juarez; 2-2; Club America 
 ; U de G; 2-1; Cruz Azul 
 ; Atletico Morelia; 1-1; UAT 
-; Santos; 1-1; Guadalajara 
+; Santos Laguna; 1-1; Guadalajara 
 ; Irapuato; 1-0; Queretaro 
 
-Round: Week 16
+Round: 16
 Date: 1/4/1991
 
-; UAG; 4-4; Santos 
+; UAG; 4-4; Santos Laguna 
 
 Date: 1/5/1991
 
@@ -334,7 +334,7 @@ Date: 1/6/1991
 ; Club León; 3-1; Cobras Ciudad Juarez 
 ; Puebla; 0-1; U de G 
 
-Round: Week 17
+Round: 17
 Date: 1/12/1991
 
 ; Necaxa; 1-1; Cruz Azul 
@@ -349,9 +349,9 @@ Date: 1/13/1991
 ; Club León; 3-1; Queretaro 
 ; Cobras Ciudad Juarez; 0-0; Atletico Morelia 
 ; Irapuato; 3-1; Puebla 
-; Santos; 1-1; UAT 
+; Santos Laguna; 1-1; UAT 
 
-Round: Week 18
+Round: 18
 Date: 1/18/1991
 
 ; UAG; 1-0; Veracruz 
@@ -364,14 +364,14 @@ Date: 1/19/1991
 
 Date: 1/20/1991
 
-; Club America; 4-1; Santos 
+; Club America; 4-1; Santos Laguna 
 ; Guadalajara; 0-0; Atlas 
 ; Puebla; 3-1; Necaxa 
 ; Cobras Ciudad Juarez; 3-2; Queretaro 
 ; UAT; 0-0; UANL 
 ; Atletico Morelia; 2-3; UNAM 
 
-Round: Week 19
+Round: 19
 Date: 1/26/1991
 
 ; Veracruz; 2-0; UAT 
@@ -385,10 +385,10 @@ Date: 1/27/1991
 ; Necaxa; 1-2; Monterrey 
 ; Club León; 0-0; Puebla 
 ; U de G; 1-0; Guadalajara 
-; Santos; 0-0; Atletico Morelia 
+; Santos Laguna; 0-0; Atletico Morelia 
 ; Irapuato; 1-1; Toluca 
 
-Round: Week 20
+Round: 20
 Date: 2/2/1991
 
 ; Veracruz; 1-3; Club America 
@@ -402,10 +402,10 @@ Date: 2/3/1991
 ; Queretaro; 0-0; Puebla 
 ; Club León; 0-0; Monterrey 
 ; U de G; 1-0; UAG 
-; Santos; 0-0; UNAM 
+; Santos Laguna; 0-0; UNAM 
 ; Irapuato; 0-2; Guadalajara 
 
-Round: Week 21
+Round: 21
 Date: 2/8/1991
 
 ; UAG; 0-0; Irapuato 
@@ -422,15 +422,15 @@ Date: 2/10/1991
 ; Puebla; 0-1; Cruz Azul 
 ; Guadalajara; 1-1; Necaxa 
 ; Atletico Morelia; 4-3; Veracruz 
-; Cobras Ciudad Juarez; 3-0; Santos 
+; Cobras Ciudad Juarez; 3-0; Santos Laguna 
 ; UAT; 2-0; U de G 
 
-Round: Week 22
+Round: 22
 Date: 2/16/1991
 
 ; Necaxa; 1-0; UAG 
 ; Veracruz; 2-1; UNAM 
-; UANL; 3-1; Santos 
+; UANL; 3-1; Santos Laguna 
 ; Atlas; 2-0; Atletico Morelia 
 
 Date: 2/17/1991
@@ -442,7 +442,7 @@ Date: 2/17/1991
 ; Club León; 2-3; Guadalajara 
 ; Irapuato; 2-1; UAT 
 
-Round: Week 23
+Round: 23
 Date: 2/22/1991
 
 ; UAG; 1-0; Club León 
@@ -460,15 +460,15 @@ Date: 2/24/1991
 ; Atletico Morelia; 0-0; U de G 
 ; UAT; 5-3; Necaxa 
 ; Cobras Ciudad Juarez; 1-0; UANL 
-; Santos; 4-3; Veracruz 
+; Santos Laguna; 4-3; Veracruz 
 
-Round: Week 24
+Round: 24
 Date: 3/2/1991
 
 ; Veracruz; 2-1; UANL 
 ; Cruz Azul; 0-2; Guadalajara 
 ; Monterrey; 1-0; Cobras Ciudad Juarez 
-; Atlas; 0-1; Santos 
+; Atlas; 0-1; Santos Laguna 
 
 Date: 3/3/1991
 
@@ -482,7 +482,7 @@ Date: 3/5/1991
 
 ; Necaxa; 2-0; Club America 
 
-Round: Week 25
+Round: 25
 Date: 3/8/1991
 
 ; UAG; 0-0; Cruz Azul 
@@ -500,9 +500,9 @@ Date: 3/10/1991
 ; Atletico Morelia; 2-1; Necaxa 
 ; UAT; 0-3; Queretaro 
 ; Cobras Ciudad Juarez; 1-0; Veracruz 
-; Santos; 0-1; U de G 
+; Santos Laguna; 0-1; U de G 
 
-Round: Week 26
+Round: 26
 Date: 3/15/1991
 
 ; Monterrey; 2-1; Guadalajara 
@@ -520,9 +520,9 @@ Date: 3/17/1991
 ; U de G; 2-1; UANL 
 ; Club León; 2-1; Atletico Morelia 
 ; Puebla; 1-1; UAG 
-; Irapuato; 0-0; Santos 
+; Irapuato; 0-0; Santos Laguna 
 
-Round: Week 27
+Round: 27
 Date: 3/22/1991
 
 ; UAG; 0-0; Monterrey 
@@ -540,9 +540,9 @@ Date: 3/24/1991
 ; Guadalajara; 1-1; Toluca 
 ; Atletico Morelia; 1-1; Queretaro 
 ; UAT; 2-0; Puebla 
-; Santos; 1-0; Necaxa 
+; Santos Laguna; 1-0; Necaxa 
 
-Round: Week 28
+Round: 28
 Date: 3/29/1991
 
 ; UNAM; 2-0; Queretaro 
@@ -560,14 +560,14 @@ Date: 3/31/1991
 ; Necaxa; 0-1; UANL 
 ; Puebla; 1-1; Club America 
 ; Guadalajara; 0-1; Cobras Ciudad Juarez 
-; Club León; 2-0; Santos 
+; Club León; 2-0; Santos Laguna 
 
-Round: Week 29
+Round: 29
 Date: 4/3/1991
 
 ; UAT; 1-1; Toluca 
 ; Veracruz; 3-3; Necaxa 
-; Santos; 1-2; Queretaro 
+; Santos Laguna; 1-2; Queretaro 
 ; UNAM; 1-0; Cruz Azul 
 ; Cobras Ciudad Juarez; 1-0; U de G 
 ; UAG; 2-1; Guadalajara 
@@ -579,10 +579,10 @@ Date: 4/4/1991
 ; Club America; 2-2; Monterrey 
 ; Atlas; 1-2; Irapuato 
 
-Round: Week 30
+Round: 30
 Date: 4/6/1991
 
-; Cruz Azul; 1-0; Santos 
+; Cruz Azul; 1-0; Santos Laguna 
 ; UAG; 4-2; Cobras Ciudad Juarez 
 
 Date: 4/7/1991
@@ -599,7 +599,7 @@ Date: 4/8/1991
 
 ; UNAM; 0-1; Puebla 
 
-Round: Week 31
+Round: 31
 Date: 4/13/1991
 
 ; Veracruz; 3-0; Queretaro 
@@ -614,9 +614,9 @@ Date: 4/14/1991
 ; U de G; 1-1; Necaxa 
 ; Atletico Morelia; 2-2; Toluca 
 ; UAT; 2-1; UAG 
-; Santos; 0-1; Puebla 
+; Santos Laguna; 0-1; Puebla 
 
-Round: Week 32
+Round: 32
 Date: 4/19/1991
 
 ; UAG; 1-2; Club America 
@@ -624,7 +624,7 @@ Date: 4/19/1991
 Date: 4/20/1991
 
 ; Necaxa; 4-1; Irapuato 
-; Monterrey; 3-4; Santos 
+; Monterrey; 3-4; Santos Laguna 
 
 Date: 4/21/1991
 
@@ -636,7 +636,7 @@ Date: 4/21/1991
 ; Club León; 1-0; U de G 
 ; UAT; 3-2; Cobras Ciudad Juarez 
 
-Round: Week 33
+Round: 33
 Date: 4/27/1991
 
 ; Club America; 2-1; UAT 
@@ -651,9 +651,9 @@ Date: 4/28/1991
 ; U de G; 1-0; Queretaro 
 ; Atletico Morelia; 2-0; UAG 
 ; Irapuato; 3-3; Club León 
-; Santos; 1-1; Toluca 
+; Santos Laguna; 1-1; Toluca 
 
-Round: Week 34
+Round: 34
 Date: 5/3/1991
 
 ; UAG; 1-0; UNAM 
@@ -669,11 +669,11 @@ Date: 5/5/1991
 ; Club America; 2-0; Cobras Ciudad Juarez 
 ; Puebla; 2-1; Atlas 
 ; Queretaro; 1-1; Irapuato 
-; Guadalajara; 0-0; Santos 
+; Guadalajara; 0-0; Santos Laguna 
 ; Club León; 4-0; Necaxa 
 ; UAT; 3-1; Atletico Morelia 
 
-Round: Week 35
+Round: 35
 Date: 5/11/1991
 
 ; UNAM; 3-0; UAT 
@@ -687,10 +687,10 @@ Date: 5/12/1991
 ; Necaxa; 4-4; Queretaro 
 ; U de G; 0-1; Puebla 
 ; Atletico Morelia; 2-2; Club America 
-; Santos; 2-2; UAG 
+; Santos Laguna; 2-2; UAG 
 ; Irapuato; 0-0; Cruz Azul 
 
-Round: Week 36
+Round: 36
 Date: 5/17/1991
 
 ; UAG; 0-1; UANL 
@@ -707,10 +707,10 @@ Date: 5/19/1991
 ; Guadalajara; 2-1; Veracruz 
 ; Puebla; 3-1; Irapuato 
 ; Queretaro; 0-0; Club León 
-; UAT; 1-1; Santos 
+; UAT; 1-1; Santos Laguna 
 ; Atletico Morelia; 1-1; Cobras Ciudad Juarez 
 
-Round: Week 37
+Round: 37
 Date: 5/25/1991
 
 ; UNAM; 1-0; Atletico Morelia 
@@ -725,9 +725,9 @@ Date: 5/26/1991
 ; Queretaro; 2-0; Cobras Ciudad Juarez 
 ; Club León; 0-1; Cruz Azul 
 ; Irapuato; 1-4; Monterrey 
-; Santos; 1-1; Club America 
+; Santos Laguna; 1-1; Club America 
   
-Round: Week 38
+Round: 38
 Date: 5/31/1991
 
 ; Club America; 2-0; UANL 
@@ -743,7 +743,7 @@ Date: 6/1/1991
 Date: 6/2/1991
 
 ; Cruz Azul; 2-2; Queretaro 
-; Atletico Morelia; 0-0; Santos 
+; Atletico Morelia; 0-0; Santos Laguna 
 ; Puebla; 1-3; Club León 
 ; UAT; 2-0; Veracruz 
 

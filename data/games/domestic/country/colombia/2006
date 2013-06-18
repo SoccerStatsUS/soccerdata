@@ -82,7 +82,7 @@ Date: 2/12/2006
 ;  Leonardo Mina Polo 13, Leonardo Mina Polo 34
 
 ; Bucaramanga; 1-0; América
-  Andrés Sarmiento 25
+  Andrés Sarmiento 25;
 
 ; Cartagena  ; 2-2; Medellín
   Diego Toro 41, Luis Cassiani 50; Jackson Martínez 24, Jaime Castrillón 45
@@ -237,7 +237,7 @@ Date: 3/15/2006
   Alberto Reniz 7, Ever Salas 11, Háider Palacio 49, Leandro Vargas 52; Sebastián Hernández 3, Orlando Ballesteros 9, Orlando Ballesteros 84, Gabriel Fernández 23
 
 ; Once Caldas; 2-1; Pereira
-  Pablo Gaglianone 54, Mauricio Casierra 87, Jorge Bermúdez 26
+  Pablo Gaglianone 54, Mauricio Casierra 87; Jorge Bermúdez 26
 
 ; Santa Fe   ; 2-1; Cartagena
   José Largacha 27, David Montoya (pk) 70; Juan Domínguez (pk) 87
@@ -297,7 +297,7 @@ Date: 3/26/2006
   Eder Hernández 23; Hayder Romero (og) 6, Carlos Córdoba 66
 
 ; Huila      ; 1-4; Tolima
-  Carlos Castillo 47, Darwin Quintero 31, Darwin Quintero 62, John Charria 44, Rivas Chará 70
+  Carlos Castillo 47; Darwin Quintero 31, Darwin Quintero 62, John Charria 44, Rivas Chará 70
 
 ; Pereira    ; 0-0; Once Caldas
 
@@ -926,61 +926,59 @@ Round: 1
 
 Date: 11/18/2006
 
-Nacional    2-1 Pasto   
+; Nacional   ; 2-1; Pasto   
 
 Date: 11/19/2006
 
-Chicó       2-0 Tolima
-Huila       0-1 Cúcuta
-Millonarios 1-0 Medellín
+; Chicó      ; 2-0; Tolima
+; Huila      ; 0-1; Cúcuta
+; Millonarios; 1-0; Medellín
 
 Round: 2
-
 Date: 11/25/2006
 
-Tolima      1-0 Nacional
+; Tolima     ; 1-0; Nacional
 
 Date: 11/26/2006
 
-Pasto       1-1 Chicó
-Medellín    3-0 Huila
-Cúcuta      2-0 Millonarios
+; Pasto      ; 1-1; Chicó
+; Medellín   ; 3-0; Huila
+; Cúcuta     ; 2-0; Millonarios
 
 Round: 3
-
 Date: 12/2/2006
 
-Nacional    2-0 Chicó
+; Nacional   ; 2-0; Chicó
 
 Date: 12/3/2006
 
-Pasto       2-1 Tolima
-Cúcuta      2-1 Medellín
-Huila       3-2 Millonarios
+; Pasto      ; 2-1; Tolima
+; Cúcuta     ; 2-1; Medellín
+; Huila      ; 3-2; Millonarios
 
 Round: 4 
 Date: 12/6/2006
 
-Tolima      4-0 Pasto
-Chicó       1-1 Nacional
-Medellín    2-1 Cúcuta
-Millonarios 2-1 Huila
+; Tolima     ; 4-0; Pasto
+; Chicó      ; 1-1; Nacional
+; Medellín   ; 2-1; Cúcuta
+; Millonarios; 2-1; Huila
 
 Round: 5 
 Date: 12/10/2006
 
-Chicó       3-4 Pasto
-Nacional    1-2 Tolima
-Millonarios 1-0 Cúcuta
-Huila       3-2 Medellín
+; Chicó      ; 3-4; Pasto
+; Nacional   ; 1-2; Tolima
+; Millonarios; 1-0; Cúcuta
+; Huila      ; 3-2; Medellín
 
 Round: 6 
 Date: 12/13/2006
 
-Pasto       0-0 Nacional
-Tolima      2-0 Chicó
-Cúcuta      0-0 Huila
-Medellín    4-0 Millonarios
+; Pasto      ; 0-0; Nacional
+; Tolima     ; 2-0; Chicó
+; Cúcuta     ; 0-0; Huila
+; Medellín   ; 4-0; Millonarios
 
 *Grupo A
 * 1.Deportes Tolima              6   4  0  2  10- 5  12  Qualified

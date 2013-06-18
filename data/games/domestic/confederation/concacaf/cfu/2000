@@ -19,7 +19,7 @@ BlockSource: http://www.rsssf.com/tablesc/carclub00.html
 *This was to be held October 28-November 5, 2000.
 *However, in preparation of a 'dramatically enhanced' CONCACAF ('TFC') club competition, the set-up was changed completely; 4 groups with 14 teams in all were formed; the winners of which to progress to the final championship round.  Of the above 8 teams, 3, viz. Chelsea, Notre Dame, and Defence Force, were suddenly not invited - on whatever criteria.
 
-Group: Group A 
+Group: A
 
 11/1/2000; Joe Public; 2-0; Harlem Bombers; Joao Havelange Center of Excellence
 Kerwyn Jemmott 30, Adrian Narine 65;
@@ -45,7 +45,7 @@ Keyeno Thomas 31, Ranja Christian 39, Ranja Christian 54, Ranja Christian 58, Ra
 * 4.Guinness Harlem Bombers 3  0  1  2  4- 9  1  (Dominica) 
 *NB: Joe Public used ineligible players, but since none of their opponents filed a protest within 24 hours, they were not disqualified.
 
-Group: Group B 
+Group: B
 
 10/30/2000; Harbour View; 5-0; Violette AC; Jamaica
 Fabian Taylor 7, Mark Miller 15, Robert Scarlett 16, Jermaine Hue 34, Jermaine Hue 60;
@@ -70,7 +70,7 @@ Peterson Jackson 15, Rams Lespinas 55; Paul Lovell 75
 * 3.Paradise FC             3  1  0  2  2- 3  3  (Barbados)
 * 4.Roots Alley Ballers     3  0  0  3  1-11  0  (Saint Lucia) 
 
-Group: Group C 
+Group: C
 
 11/9/2000; Tivoli Gardens; 1-1; W Connection; Antigua and Barbuda
 Steve Green 48; Reynold Carrington 77
@@ -94,6 +94,7 @@ Jermaine Johnson (pk) 57, David King 61, David King 83, David King 90, Amos Isra
 * 2.Empire FC               3  1  2  0 10- 4  5  (Antigua & Barbuda)
 * 3.Tivoli Gardens FC       3  1  2  0  7- 5  5  (Jamaica)
 * 4.Café Sisserou Strikers  3  0  0  3  3-22  0  (Dominica)
+
 
 *Group: Group D (Martinique)              - cancelled
 *Original list of participants:
@@ -187,7 +188,7 @@ Forfeit
 * Roots Alley Ballers, UWS Upsetters, Club Franciscain and Empire withdrew; HBA Panthers were excluded after failing to honour the 1st leg deadline
 
 Round: Second Round 
-Group: Group A 
+Group: A
 
 9/7/2001; W Connection; 3-1; Jong Colombia; Port-au-Prince, Haiti
 Luciano Sato 24, José María Manoel 59, José María Manoel 71; Unknown
@@ -207,7 +208,7 @@ Notes: played in Martinique because match in Haiti abandoned due to rain.
 * 3.CRKSV Jong Colombia             2  0  0  2  1-10  0 
 * -.SV Transvaal                    [withdrew]
 
-Group: Group B 
+Group: B
 
 8/24/2001; SNL; 0-0; Roulado FC; Arima, Trinidad and Tobago
 
@@ -248,7 +249,7 @@ Lepson Marshall 80; Cedric Lemare 30
 Notes: Saint Joseph replaced Beacon Insurance from Grenada, who were originally drawn against US Robert, for unknown reasons
 
 Round: Final Round
-Group: Group A 
+Group: C
 
 12/4/2002; Arnett Gardens; 5-0; VSADC; Jamaica
 Denton Shedden 12, Denton Shedden 45, Cornel Chin-Sue 32, Jonathon Williams 72, Kevin Wilson 80;
@@ -263,7 +264,7 @@ Leandro Mancao 7, Peterson Jackson-Joseph 37, Maxo Sampeur Jr. 80; Marciano Prin
 * 3.VSADC (Castries)                2  0  0  2  1- 8  0
 * -.Club Franciscain (Le François)  withdrew due to participation in Coupe de France; suspended from next year's competition and fined USD 11,000
 
-Group: Group B 
+Group: D
 
 12/11/2002; Harbour View; 4-1; US Robert; Trinidad and Tobago
 Jermaine Hue 16, Fabian Taylor 52, Daniel Shaw 83, Donald Stewart 88; Marcel Gibon (pk) 9
@@ -501,7 +502,7 @@ BlockSource: http://www.rsssf.com/tablesc/cacups07.html#cfu
 *Caribbean Zone Qualifying
 *NB: Surinam clubs (champions WBC and cup winners Robinhood) do not  enter due to the change in format which introduces 4-team mini tournaments rather than home-and-away knock-out matches, citing financial reasons (tripled costs and loss of gates revenue).
 Round: First Round
-Group: Group A 
+Group: A
 
 12/1/2006; Centro Barber; 2-0; Positive Vibes; Harbour View Stadium; Lee Davis
 Oscar Molina Palomina 11, Edgar Cassiani Perez 38;
@@ -526,7 +527,7 @@ Kavin Bryan 11, Oneil Smith 57;
 * 3.Positive Vibes (US Virgin Isl.) 3  1  0  2  3- 9  3
 * 4.Aigle Noir (Port-au-Prince)     3  0  0  3  2- 6  0
 
-Group: Group B 
+Group: B
 
 12/8/2006; Waterhouse FC; 0-2; Baltimore Sportif; Emmett Park, Kingston, Jamaica; Richard Piper
 ; Jean Saint-Pierre 18, Decius Dumel 49
@@ -541,7 +542,7 @@ Damion Williams 64; Michael Stone (og) 6
 * 2.Waterhouse FC (Kingston)        2  0  1  1  1- 3  1
 * 3.Undeba (Banda'bou)              2  0  1  1  1- 5  1
 
-Group: Group C 
+Group: C
 
 12/9/2006; Puerto Rico Islanders; 3-1; Hoppers; Estadio Juan Ramon Loubriel
 Yuri Morales 7, Yuri Morales 23, Alejandro González 44; Alejandro Hernández 5
@@ -557,7 +558,7 @@ Gefferson Goulart 7, Gefferson Goulart 76, Rolando Viana 54, Rolando Viana 55, A
 * 3.Hoppers (Green Bay)             2  0  0  2  1- 8  0
 * -.Fruta Conquerors (Georgetown)   withdrew
 
-Group: Group D 
+Group: D
 
 12/10/2006; San Juan Jabloteh; 4-0; SAP; Lionel Roberts Park
 Trent Noel 21, Lester Peltier 54, Peter Prosper 81, Anthony Wolfe 89;
@@ -599,7 +600,7 @@ Andre Pacheco 11;
 Season: 2007
 BlockSource: http://www.rsssf.com/tablesc/cacups08.html#cfu
     
-Group: Group A 
+Group: A
 
 11/4/2007; SV Nacional; 1-1; Centro Barber; Hasely Crawford Stadium
 own goal 75; Edgard Cassiani (pk) 16
@@ -615,7 +616,7 @@ Peter Byers 2, Elton John 57, Gason Gregory 62, Dwayne Jack 70, Atulla Guerra 87
 * 3.Centro Barber (Dutch Antilles)  2  0  1  1  1- 6  1
 * -.Positive Vibes (US Virgin Isl.) withdrew
 
-Group: Group B
+Group: B
 
 11/4/2007; Racing Club Aruba; 1-1; South East United; Marvin Lee Stadium
 Maurice Escolana 50; Phillip Monroe 2
@@ -632,7 +633,7 @@ Kerry Baptiste 18, Kerry Baptiste 52, Kerry Baptiste 78, Lyndon Andrews 63, Kend
 *
 *NB: Helenites (Groveplace) moved to Group D after withdrawal  Newtown United
 
-Group: Group C
+Group: C
 
 11/4/2007; SAP; 3-3; Inter Moengotapoe; Manny Ramjohn Stadium
 Karanjan Mack 36, Daniel Mckel 38, Michael Murray 72; Claudio Pinas 16, Claudio Pinas 64, Ricardo Meiedjan 52
@@ -657,7 +658,7 @@ Loxley Thomas 11, Fabian Taylor 35, Fabian Taylor 55, Jermaine Hue 45, Kavin Bry
 * 3.Inter Moengotapoe (Moengo)      3  1  1  1  7- 9  4
 * 4.SAP (Bolans)                    3  0  1  2  3-23  1
 
-Group: Group D
+Group: D
 
 11/4/2007; Portmore United; 2-0; Helenites; Marvin Lee Stadium
 Anthony Modeste 2, Rudolph Austin 46;
@@ -673,7 +674,7 @@ Steven Morrissey 28, Onandi Lowe 41, Wolry Wolfe 75;
 * 3.Helenites (Groveplace)          2  0  0  2  0- 6  0
 * -.Newtown United (Basseterre)     withdrew
 
-Group: Group E
+Group: E
 
 11/4/2007; Pinar del Río; 5-1; Jong Colombia; Guaracara Park
 Yisel Gutiérrez 4, Yisel Gutiérrez 11, Reinier Núñez 24, Jiswel Izaguirre 30, Manuel Martínez 79; Djarston Torbed 22

@@ -1,9 +1,8 @@
 Competition: Liga MX
 Season: 1992-1993
 BlockSource: http://www.rsssf.com/tablesm/mex93.html
-*Mexico 1992/93
+home-first
 
-*Regular Season
 *Grupo 1                   P   W   T   L  GF  GA  DIF PTS
 ** 1.- Atlante            38  14  13  11  66  55  +11  41 (champion)
 ** 2.- Veracruz           38  14   9  15  56  55   +1  37
@@ -33,7 +32,7 @@ BlockSource: http://www.rsssf.com/tablesm/mex93.html
 *  5.- Pachuca            38  10   7  21  39  56  -17  27 (relegated)
 * qualify to playoffs
 
-Round: Week 1
+Round: 1
 Date: 8/15/1992
 
 ; UNAM       ; 4-0; Toluca
@@ -70,7 +69,7 @@ Date: 8/19/1992
 ; UAT        ; 0-1; Club America;
 ; Hugo Sánchez Márquez 77
 
-Round: Week 2
+Round: 2
 Date: 8/21/1992
 
 ; UAG        ; 1-1; Puebla;
@@ -107,7 +106,7 @@ Luis Miguel Salvador 5, Pedro Massachessi 16, Roberto Andrade 50;
 ; Santos     ; 2-1; Veracruz ;
 Eduardo Garduño 36, Martín Gerardo Durón 83; Jorge Comas 17
  
-Round: Week 3
+Round: 3
 Date: 8/29/1992
 
 ; UNAM       ; 2-1; Santos ;
@@ -141,7 +140,7 @@ Dioney Carlos 5, Sigifredo Mercado 13, Sergio Lira 43; Arturo Reyna 28
 
 ; UAT        ; 0-0; Pachuca ;
  
-Round: Week 4
+Round: 4
 Date: 9/4/1992
 
 ; UAG        ; 1-0; Veracruz ;
@@ -176,7 +175,7 @@ Martín Gerardo Durón 66; Enrique Washington Olivera 24
 ; Morelia    ; 2-2; Necaxa ;
 Humberto Roon (pk) 50, Francisco Javier Gómez 78; Alberto García Aspe (pk) 4, Ricardo Peláez 40
 
-Round: Week 5
+Round: 5
 Date: 9/12/1992
 
 ; U de G     ; 3-1; Cruz Azul ;
@@ -210,7 +209,7 @@ César Sosa 46; Roberto López Segoviano 5, Alberto Coyote 41
 ; Toluca     ; 5-0; Atlas
 Rogelio Romero 30, Jorge Rodríguez 40, Jorge Rodriguez 51, Luis Francisco García 50, Enrique Washington Olivera 63;
  
-Round: Week 6
+Round: 6
 Date: 9/18/1992
 
 ; Atlante    ; 1-2; Necaxa
@@ -244,7 +243,7 @@ Mario Juárez 63, Mario Juarez 81; Leonel Bolsonello 13, Leonel Bolsonello 43, G
 ; Club León       ; 1-0; U de G 
 Sergio Martínez (pk) 38;
 
-Round: Week 7
+Round: 7
 Date: 9/24/1992
 
 ; UNAM       ; 2-3; Club America
@@ -276,7 +275,7 @@ Eduardo de la Torre 23, Bernardo Castañeda 58, Graciano del Castillo 93;
 
 ; Santos     ; 0-0; Atlas
 
-Round: Week 8
+Round: 8
 Date: 10/2/1992
 
 ; Club America    ; 3-3; Toluca 
@@ -312,7 +311,7 @@ Jorge Guerra 9; Sergio Verdirame (pk) 30
 ; UAT        ; 3-1; U de G
 Rubén González 22, Rubén González 50, Paúl René Moreno 92; René Mendieta 45+
 
-Round: Week 9
+Round: 9
 Date: 10/10/1992
 
 ; UNAM       ; 2-1; Pachuca 
@@ -347,7 +346,7 @@ Mario Alberto Arteaga 75;
 ; Santos     ; 1-1; Morelia 
 José Guadalupe Rubio 15; Arturo Reyna 11
 
-Round: Week 10
+Round: 10
 Date: 10/16/1992
 
 ; UAG        ; 3-0; Queretaro
@@ -386,7 +385,7 @@ Date: 10/19/1992
 ; Club America    ; 2-2; Santos
 Germán Martellotto 28, Gonzalo Farfán 54; Juan Flores 35, Juan Flores 62
 
-Round: Week 11
+Round: 11
 Date: 10/24/1992
 
 ; Necaxa     ; 3-1; UAT 
@@ -421,7 +420,7 @@ Gonzalo Hernández 21; Jorge Arreola 39, Ignacio Vázquez 74
 ; Santos     ; 2-1; Atlante
 Pedro Muñoz 34, Ramón Ramírez 85; Claudio Daniel Brizuela 58
 
-Round: Week 12
+Round: 12
 Date: 10/30/1992
 
 ; Atlante    ; 1-2; Atlas
@@ -457,7 +456,7 @@ Gonzalo Farfán 6, Hugo Sánchez Márquez 70; Ignacio Ruvalcaba 89
 ; Pachuca    ; 2-0; Santos   
 Apolinar Cortés 55, Apolinar Cortes 68;
 
-Round: Week 13
+Round: 13
 Date: 11/4/1992
 
 ; UNAM       ; 3-0; UAT 
@@ -492,7 +491,7 @@ Alberto García Aspe (pk) 5, Alberto García Aspe 15, Luis Américo Scatolaro 88
 ; UAG        ; 2-0; Atlante 
 Jorge Luis Gabrich 1, Osmar Donizette 90;
    
-Round: Week 14
+Round: 14
 Date: 11/7/1992
 
 ; Cruz Azul  ; 2-0; Atlas 
@@ -527,7 +526,7 @@ Sergio Lira 46, Francisco Rotllán 63; Alex Aguinaga 35, Ivo Basay 45, Luis Amé
 ; Atlante    ; 2-0; Morelia 
 Luis Miguel Salvador (pk) 8, Luis Miguel Salvador 89;
  
-Round: Week 15
+Round: 15
 Date: 11/13/1992
 
 ; Toluca     ; 0-0; U de G 
@@ -568,7 +567,7 @@ Date: 12/27/1992
 Antonio Torres Servín 49; Ignacio Vázquez 6, Armando González 65
 
 
-Round: Week 16
+Round: 16
 Date: 11/20/1992
 
 ; Necaxa     ; 1-1; Veracruz 
@@ -605,7 +604,7 @@ Date: 11/23/1992
 
 ; Atlante    ; 0-0; Queretaro  
 
-Round: Week 17
+Round: 17
 Date: 11/27/1992
 
 ; UNAM       ; 2-3; Necaxa 
@@ -642,7 +641,7 @@ Héctor Hernández 84; Marco Antonio Benatto 43
 ; Santos     ; 1-1; U de G 
 Sergio Fabián Metini 64; Octavio Mora 43
 
-Round: Week 18
+Round: 18
 Date: 12/3/1992
 
 ; Guadalajara; 0-0; Santos 
@@ -677,7 +676,7 @@ Milton Queiroz (pk) 64; Hugo Sánchez Márquez (pk) 66
 ; U de G     ; 0-7; Atlas
 ; Joao Vanderlei 12, Joao Vanderlei 41, Joao Vanderlei 69, Joao Vanderlei (pk) 86, Alfonso Sosa (og) 27, Cristian Domizzi 49, Alberto Mariscal 57
 
-Round: Week 19
+Round: 19
 Date: 12/11/1992
 
 ; Atlante    ; 0-1; Club León 
@@ -714,7 +713,7 @@ Enrique Morales 10, Enrique Morales 45, Enrique Morales 87, Héctor Hernández 7
 ; Santos     ; 2-2; Puebla
 Pedro Muñoz 34, Juan Flores (pk) 38; Francisco Rotllan 36, Francisco Rotllan (pk) 52
 
-Round: Week 20
+Round: 20
 Date: 12/19/1992
 
 ; Cruz Azul  ; 6-0; Queretaro
@@ -751,7 +750,7 @@ Date: 12/21/1992
 ; Club America    ; 1-0; UAT
 Oscar Ruggeri 81;
 
-Round: Week 21
+Round: 21
 Date: 1/2/1993
 
 ; Veracruz   ; 3-2; Santos
@@ -788,7 +787,7 @@ Date: 1/4/1993
 ; Necaxa     ; 4-3; Atlas
 Alex Aguinaga 47, Ivo Basay (pk) 56, Ivo Basay 78, Ivo Basay (pk) 87; Cristian Domizzi 59, Cristian Domizzi 74, Cristian Domizzi 77
 
-Round: Week 22
+Round: 22
 Date: 1/8/1993
 
 ; Atlante    ; 1-0; U de G 
@@ -825,7 +824,7 @@ Giovani Ávila 32;
 Gonzalo Farfán 25, Gonzalo Farfan 75; Juan José Balcázar 68
 
 
-Round: Week 23
+Round: 23
 Date: 1/13/1993
 
 ; UNAM       ; 2-2; Atlas
@@ -860,7 +859,7 @@ Alex Aguinaga 6, Alberto García Aspe 25, Luis Américo Scatolaro 33, Luis Amér
 ; Guadalajara; 3-3; Atlante
 Jorge Salas (og) 22, Diego Silva 37, Ignacio Vázquez 57; Daniel Guzmán 1, Jorge Salas 38, Manuel Negrete 87
 
-Round: Week 24
+Round: 24
 Date: 1/16/1993
 
 ; Cruz Azul  ; 1-2; U de G
@@ -897,7 +896,7 @@ Date: 1/18/1993
 ; Club America    ; 1-0; Necaxa
 Cecilio de los Santos 32;
 
-Round: Week 25
+Round: 25
 Date: 1/23/1993
 
 ; U de G     ; 1-0; Club León 
@@ -930,7 +929,7 @@ Ivo Basay 22, Ivo Basay 75, Ivo Basay 83; Luis Miguel Salvador 14, Pedro Massach
 
 ; UAT        ; 0-0; UANL 
 
-Round: Week 26
+Round: 26
 Date: 1/29/1993
 
 ; UAG        ; 1-1; Monterrey 
@@ -967,7 +966,7 @@ Jaime Ramírez 13, Mario Juárez (pk) 31; Ernesto Enrique Corti 22, José Luis M
 ; Club America    ; 2-2; UNAM 
 Juan Hernández 67, Luis Roberto Alves 89; Jorge Campos 22, Jorge Santillana 35
 
-Round: Week 27
+Round: 27
 Date: 2/6/1993
 
 ; UNAM       ; 3-3; Atlante 
@@ -1000,7 +999,7 @@ Bruno Mendoza 85; Ricardo Rayas 7
 ; Santos     ; 1-1; UAG 
 Ramón Ramírez 52; Claudio Morena 27
 
-Round: Week 28
+Round: 28
 Date: 2/12/1993
 
 ; UAG        ; 0-2; Atlas
@@ -1039,7 +1038,7 @@ Date: 2/15/1993
 
 ; Club America    ; 0-0; Monterrey 
 
-Round: Week 29
+Round: 29
 Date: 2/20/1993
 
 ; Veracruz   ; 0-1; Club León 
@@ -1075,7 +1074,7 @@ Date: 2/22/1993
 ; Necaxa     ; 2-2; UANL 
 Ángel Ramón Bernuncio 5, Alberto García Aspe 10; Carlos Eduardo Muñoz 39, Francisco Javier Cruz 42
 
-Round: Week 30
+Round: 30
 Date: 2/26/1993
 
 ; Atlante    ; 3-1; Santos 
@@ -1111,7 +1110,7 @@ Aníbal González 69; Osmar Donizette 58
 ; UAT        ; 2-0; Necaxa 
 César Sosa 40, Gastón Obledo 51;
 
-Round: Week 31
+Round: 31
 Date: 3/5/1993
 
 ; UAG        ; 1-0; Club America 
@@ -1147,7 +1146,7 @@ Francisco Rotllán 2, Francisco Rotllán 48, Demetrio Madero (og) 66, Bruno Mend
 ; Santos     ; 2-1; Pachuca 
 José Luis Ortega 42, Juan Flores 60; Roberto Medina (pk) 28
 
-Round: Week 32
+Round: 32
 Date: 3/12/1993
 
 ; Club America    ; 2-1; Morelia 
@@ -1184,7 +1183,7 @@ Sergio Martínez 29, Humberto González 57, Rafael Chávez Carretero 76; José A
 ; UAT        ; 2-0; UNAM 
 Gastón Obledo 1, César Sosa 53;
 
-Round: Week 33
+Round: 33
 Date: 3/19/1993
 
 ; UAG        ; 3-0; Pachuca 
@@ -1220,7 +1219,7 @@ Enrique Morales 37; Wilson Graniolatti 27
 
 ; Santos     ; 0-0; Club León 
 
-Round: Week 34
+Round: 34
 Date: 3/27/1993
 
 ; UANL       ; 0-0; Santos 
@@ -1257,7 +1256,7 @@ Date: 3/29/1993
 Alex Aguinaga 8, Ivo Basay 70; Felipe del Ángel Malibrán 32
 
 
-Round: Week 35
+Round: 35
 Date: 4/2/1993
 
 ; UAG        ; 1-1; Club León 
@@ -1292,7 +1291,7 @@ Oscar Ruggeri 72, Bernardo Fernández 75;
 
 ; Santos     ; 0-0; UAT 
 
-Round: Week 36
+Round: 36
 Date: 4/16/1993
 
 ; Necaxa     ; 0-0; UNAM; Estadio Azulgrana (Atlante)
@@ -1327,7 +1326,7 @@ Date: 4/19/1993
 ; Cruz Azul  ; 1-1; Club America 
 Carlos Poblete 10; Pedro Pineda 71
 
-Round: Week 37
+Round: 37
 Date: 4/23/1993
 
 ; UNAM       ; 1-1; Veracruz 
@@ -1364,7 +1363,7 @@ Date: 4/26/1993
 Luis Roberto Alves 74, Oscar Ruggeri 78; Isaac Ayipei 36
 
 
-Round: Week 38
+Round: 38
 Date: 5/1/1993
 
 ; U de G     ; 1-1; UAG 

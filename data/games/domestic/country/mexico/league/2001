@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesm/mex02.html
 Competition: Liga MX
-
+home-first
 
 Season: 2001 Winter
 
@@ -60,7 +60,7 @@ Date: 7/22/2001
 ; Morelia      ; 3-1; Tigres 
   Dario Franco 3, Antonio Gonzalez 29, Alex Fernandez 37; Felipe Ayala 86
  
-; Santos       ; 3-1; Atlas 
+; Santos Laguna       ; 3-1; Atlas 
   Robson Luiz 29, Eduardo Lillingston 47, Hector Altamirano 57; Jose Luis Calderon 32
  
 ; America      ; 0-0; Pachuca 
@@ -126,7 +126,7 @@ Date: 8/5/2001
 ; Morelia      ; 0-3; Atlas 
 ;  Mario Mendez 27, José Luis Calderón 52, Wilmer Velázquez 85
  
-; Santos       ; 6-4; La Piedad 
+; Santos Laguna       ; 6-4; La Piedad 
   Joaquin Reyes 34, Jared Borguetti 39, Jared Borguetti 51, Jared Borguetti 90, Eduardo Lillingston 86,  Rodrigo Ruiz 88; Pedro Pineda 19, Pedro Pineda 72, Oscar Rojas 33, Rolando Fonseca 55
 
 Date: 9/1/2001
@@ -169,7 +169,7 @@ Date: 8/12/2001
 
 Date: 9/26/2001
 
-; Cruz Azul    ; 0-0; Santos 
+; Cruz Azul    ; 0-0; Santos Laguna 
 
 *Morelia       bye 
 
@@ -204,7 +204,7 @@ Date: 8/16/2001
 
 Date: 9/12/2001
 
-; Santos       ; 1-0; Pumas 
+; Santos Laguna       ; 1-0; Pumas 
   Johan Rodriguez 70;
  
 Round: 6 
@@ -232,7 +232,7 @@ Date: 8/19/2001
 ; La Piedad    ; 1-1; America 
   Pedro Pineda 60; Ivan Zamorano 52
  
-; Leon         ; 4-2; Santos 
+; Leon         ; 4-2; Santos Laguna 
   Sigifredo Mercado 50, Sigifredo Mercado 90, Dennis Caniza (og) 52, Zdenko Muff 76; Rodrigo Ruiz 27, Jared Borguetti 84
  
 ; Necaxa       ; 1-0; Tecos 
@@ -246,7 +246,7 @@ Date: 8/25/2001
 ; Atlante      ; 3-1; Leon 
   Jose Manuel Abundis 4, Jose Manuel Abundis 67, Faustino Asprilla 90; Zdenko Muff 19
  
-; Santos       ; 2-2; Necaxa 
+; Santos Laguna       ; 2-2; Necaxa 
   Joaquin Reyes 20, Eduardo Lillingston 82; Alvaro Ortiz 36, Jose Miliàn 58
  
 ; Tecos        ; 0-1; Toluca 
@@ -279,7 +279,7 @@ Date: 9/12/2001
 Round: 8
 Date: 9/8/2001
 
-; Toluca       ; 6-2; Santos 
+; Toluca       ; 6-2; Santos Laguna 
   Rafael Garcia 6, Denis Caniza (og) 18, Erick Espinoza 41, Carlos Maria Morales 63, Enrique Alfaro 80, Omar Blanco 85; Rodrigo Ruiz 8, Miguel Angel Carreón 67
  
 ; Cruz Azul    ; 3-2; Pachuca 
@@ -338,7 +338,7 @@ Date: 9/16/2001
 ; Irapuato     ; 6-1; La Piedad 
   Christian Morales 1, Christian Morales 45, Christian Morales 46, Christian Morales 65, Jesus Estrada 73, Martin Rodriguez 84; Pedro Pineda 11
  
-; Santos       ; 5-0; Monterrey 
+; Santos Laguna       ; 5-0; Monterrey 
   Hector Altamirano 54, Johan Rodriguez 64, Guto 68, Jared Borguetti 77, Jared Borguetti 82;
  
 *Atlas         bye 
@@ -358,7 +358,7 @@ Date: 9/22/2001
 ; Necaxa       ; 0-1; America 
 ;  Frankie Oviedo 30
  
-; Celaya       ; 1-3; Santos 
+; Celaya       ; 1-3; Santos Laguna 
   Luis Fernando Soto 68; Jared Borguetti 11, Jared Borguetti 63, Rodrigo Ruiz 87
  
 Date: 9/23/2001
@@ -404,7 +404,7 @@ Date: 9/30/2001
  
 ; Irapuato     ; 0-0; Pumas 
 
-; Santos       ; 0-1; Guadalajara 
+; Santos Laguna       ; 0-1; Guadalajara 
 ;  Hector Reynoso 1
  
 *La Piedad     bye 
@@ -431,7 +431,7 @@ Date: 10/6/2001
 ; Necaxa       ; 0-4; Tigres 
 ;  Antonio Sancho 56, Irenio Soarez 60, Felipe Ayala 80, Sydney Balderas 82
  
-; Tecos        ; 1-2; Santos 
+; Tecos        ; 1-2; Santos Laguna 
   Eyssy Valdez 78; Eduardo Lillingston 28, Joaquin Reyes 45
  
 ; Celaya       ; 5-2; Morelia 
@@ -465,7 +465,7 @@ Date: 10/14/2001
 ; Pachuca      ; 3-3; Monterrey 
   Alberto Rodriguez 64, Hugo Brizuela 73, Hugo Brizuela 76; Antonio De Nigris 19, Omar Avilan 37, Paulo Cesar Chavez 61
  
-; Puebla       ; 2-1; Santos 
+; Puebla       ; 2-1; Santos Laguna 
   Marco Capetillo 44, Marco Capetillo 78; Denis Caniza 56
  
 ; Irapuato     ; 2-3; Necaxa 
@@ -479,7 +479,7 @@ Date: 10/14/2001
 Round: 14 
 Date: 10/20/2001
 
-; Santos       ; 2-1; Atlante
+; Santos Laguna       ; 2-1; Atlante
   Luis Romero 61, Hector Altamirano 68; Jose Manuel Abundis 12
   
 ; Toluca       ; 1-1; Irapuato 
@@ -525,7 +525,7 @@ Date: 10/27/2001
  
 Date: 10/28/2001
 
-; Morelia      ; 3-2; Santos 
+; Morelia      ; 3-2; Santos Laguna 
   Omar Trujillo 41, Alex Fernandez 77, Mario Ruiz 89; Jared Borguetti 70, Hector Altamirano 92
  
 ; Pachuca      ; 2-1; Guadalajara 
@@ -573,7 +573,7 @@ Date: 11/4/2001
 ; Leon         ; 2-2; Cruz Azul 
   Zdenko Muf 63, Rodrigo Valenzuela 80; Miguel Zepeda 79, Marinho Ledezma 89
  
-; Santos       ; 2-3; America
+; Santos Laguna       ; 2-3; America
   Rodrigo Ruiz 20, Hector Altamirano 36; Ivan Zamorano 10, Ivan Zamorano 66, Christian Patiño 81
  
 *Toluca        bye 
@@ -598,7 +598,7 @@ Date: 11/13/2001
 ; Pumas        ; 1-1; Leon 
   Rafael Marquez 32; Rodrigo Valenzuela 36
  
-; Pachuca      ; 2-1; Santos 
+; Pachuca      ; 2-1; Santos Laguna 
   Walter Silviani 22, Gabriel Caballero 75; Eduardo Lillingston 91
  
 Date: 11/14/2001
@@ -642,7 +642,7 @@ Date: 11/18/2001
 ; Guadalajara  ; 0-3; Atlas
 ;  Daniel Osorno 36, Eduardo Bustos Montoya 45, Pablo Lavallen 83
  
-; Santos       ; 1-2; Tigres 
+; Santos Laguna       ; 1-2; Tigres 
   Carlos Augusto Gomes 86; Sydney Balderas 10, Javier Saavedra 62
  
 *Celaya        bye
@@ -668,7 +668,7 @@ Date: 11/25/2001
 ; Cruz Azul    ; 4-2; Monterrey 
   Emilio Mora 38, Emilio Mora 50, Emilio Mora 53, Miguel Zepeda 44; Omar Avilan 9, Omar Gomez 35
  
-; Irapuato     ; 1-1; Santos 
+; Irapuato     ; 1-1; Santos Laguna 
   Christian Morales 79; Luis Romero 4
  
 ; Pachuca      ; 1-0; Morelia 
@@ -751,7 +751,7 @@ Date: 1/5/2002
 ; Cruz Azul    ; 1-0; Celaya
   Sebastian Abreu 45;
 
-; Atlas        ; 3-3; Santos
+; Atlas        ; 3-3; Santos Laguna
   Fernando Salazar 31, Mario Mendez 44, Alberto Macias 89; Jared Borguetti 4, Hector Altamirano 28, Johan Rodriguez 46
 
 Date: 1/6/2002
@@ -805,7 +805,7 @@ Date: 1/13/2002
 ; America      ; 3-1; Tigres
   Javier Saavedra (og) 35, Ivan Zamorano 62, Luis Hernandez 69; Marcelo Dominguez 70
 
-*Santos        bye
+*Santos Laguna        bye
 
 Round: 3
 Date: 1/19/2002
@@ -830,7 +830,7 @@ Date: 1/20/2002
 ; Pumas        ; 2-2; Guadalajara
   Victor Muller 61, Mariano Trujillo 98; Gustavo Napoles 4, Alberto Medina 82
 
-; La Piedad    ; 1-0; Santos 
+; La Piedad    ; 1-0; Santos Laguna 
   Andres Perez 89;
 
 ; Necaxa       ; 3-1; Monterrey 
@@ -865,7 +865,7 @@ Date: 1/27/2002
 ; Puebla       ; 1-1; Tigres
   Marco Capetillo 51; Marcelo Domingues 75
 
-; Santos       ; 2-2; Cruz Azul
+; Santos Laguna       ; 2-2; Cruz Azul
   Hector Altamirano 1, Jared Borgetti 19; Sebastian Abreu 5, Pinheiro 37
 
 ; America      ; 0-1; Atlas
@@ -901,7 +901,7 @@ Date: 2/2/2002
 
 Date: 2/3/2002
 
-; Pumas        ; 3-4; Santos 
+; Pumas        ; 3-4; Santos Laguna 
   Leandro Augusto 10, Rodrigo Lemos 76, Victor Muller 88; Jared Borgetti 26, Eduardo Lillingston 41, Rodrigo Ruiz 47, Hector Altamirano 52
 
 ; Necaxa       ; 0-1; Guadalajara 
@@ -939,7 +939,7 @@ Date: 2/10/2002
 ; America      ; 2-1; La Piedad
   Marcelo Lipatin 20, Marcelo Lipatin 29; Oscar Rojas 24
 
-; Santos       ; 3-0; Leon
+; Santos Laguna       ; 3-0; Leon
   Dennis Caniza 4, Carlos Augusto Gomez 45, Carlos Augusto Gomez 60;
 
 *Pachuca       bye
@@ -972,7 +972,7 @@ Date: 2/17/2002
 ; La Piedad    ; 2-1; Pachuca
   Almir De Souza 14, Rafael Medina 62; Walter Silvani 78
 
-; Necaxa       ; 4-1; Santos
+; Necaxa       ; 4-1; Santos Laguna
   Braulio Luna 35, Zague 57, Jose Luis Montes de Oca 59, Luis Perez 85; Luis Romero 78
 
 ; Leon         ; 2-1; Atlante
@@ -1005,7 +1005,7 @@ Date: 2/24/2002
 
 ; America      ; 0-0; Pumas  
 
-; Santos       ; 0-1; Toluca 
+; Santos Laguna       ; 0-1; Toluca 
 ;  Carlos Maria Morales 10
  
 Date: 2/25/2002
@@ -1024,7 +1024,7 @@ Date: 1/31/2002
 Date: 2/27/2002
 
 ; Pumas        ; 1-1; Pachuca
-  Emerson Dos Santos 46; Gabriel Caballero 32
+  Emerson Dos Santos Laguna 46; Gabriel Caballero 32
 
 ; Toluca       ; 0-0; Atlante
 
@@ -1037,7 +1037,7 @@ Date: 2/27/2002
 ; Celaya       ; 2-0; Tecos
   Tiba 44, Luis Fernando Soto 81;
 
-; Monterrey    ; 2-3; Santos
+; Monterrey    ; 2-3; Santos Laguna
   Omar Avilan 25, Paulo Cesar Chavez 47; Hector Altamirano 12, Jared Borgetti 40, Joaquin Reyes 67
 
 ; Guadalajara  ; 4-0; Puebla
@@ -1073,7 +1073,7 @@ Date: 3/3/2002
 ; Pachuca      ; 2-1; Leon
   Walter Silvani 16, Hugo Brizuela 83; Missael Espinoza 43
 
-; Santos       ; 4-1; Celaya
+; Santos Laguna       ; 4-1; Celaya
   Jared Borgetti 14, Rodrigo Ruiz 16, Hector Altamirano 57, Luis Romero 62; Diego Latorre 72
 
 ; Tecos        ; 1-1; Guadalajara
@@ -1108,7 +1108,7 @@ Date: 3/10/2002
 ; Celaya       ; 2-1; Atlante
   Luis Fernando Soto 51, Diego Latorre 79; Roberto Trotta 93
 
-; Guadalajara  ; 0-0; Santos
+; Guadalajara  ; 0-0; Santos Laguna
 
 ; Pumas        ; 2-1; Veracruz
   Vicente Nieto 39, Mariano Trujillo 73; Adrian Sarkissián 85
@@ -1143,7 +1143,7 @@ Date: 3/17/2002
 ; Pachuca      ; 1-2; Toluca
   Francisco Gabriel de Anda 28; José Cardozo 59, Jose Cardozo 85
 
-; Santos       ; 3-2; Tecos
+; Santos Laguna       ; 3-2; Tecos
   Hector Altamirano 9, Rodrigo Ruiz 17, Jared Borgetti 37; Diego Gavilán 19, Reinaldo Navia 75
 
 ; America      ; 4-2; Monterrey 
@@ -1179,7 +1179,7 @@ Date: 3/24/2002
 ; Guadalajara  ; 0-1; Morelia
 ;  Alex Fernandez 84
 
-; Santos       ; 3-0; Puebla
+; Santos Laguna       ; 3-0; Puebla
   Jared Borgetti 29, Jared Borgetti 71, Hector Altamirano 53;
 
 ; Leon         ; 1-1; Atlas 
@@ -1195,7 +1195,7 @@ Date: 3/30/2002
 
 ; Tigres       ; 0-0; Monterrey
 
-; Atlante      ; 2-1; Santos
+; Atlante      ; 2-1; Santos Laguna
   Fabián Estay 43, Johan Rodriguez (og) 87; Héctor Altamirano 6
 
 ; Puebla       ; 2-2; Cruz Azul
@@ -1213,7 +1213,7 @@ Date: 3/31/2002
   Juan Arango 58; Nicolas Ramírez 4
 
 ; La Piedad    ; 3-1; Pumas
-  Christian Ramírez (og) 59, Alex Madrigal 63, Claudinho 81; Emerson Dos Santos 90
+  Christian Ramírez (og) 59, Alex Madrigal 63, Claudinho 81; Emerson Dos Santos Laguna 90
 
 ; America      ; 2-3; Guadalajara
   Ivan Zamorano 38, Ivan Zamorano 48; Ramón Morales 19, Hector Reynoso 59, Joel Sánchez 80
@@ -1247,7 +1247,7 @@ Date: 4/7/2002
 ; Leon         ; 2-1; La Piedad
   Missael Espinoza 47, Ulises Gonzalez 65; Almir da Souza 10
 
-; Santos       ; 4-3; Morelia
+; Santos Laguna       ; 4-3; Morelia
   Carlos Augusto Gomes 22, Jared Borgetti 47, Jared Borgetti 90, Rodrigo Ruiz 64; Diego Galván 16, Alex Fernandez 65, Jose Antonio Noriega 86
 
 *Necaxa        bye
@@ -1255,7 +1255,7 @@ Date: 4/7/2002
 Round: 16
 Date: 4/3/2002
 
-; America      ; 2-2; Santos
+; America      ; 2-2; Santos Laguna
   Hugo Castillo 54, Octavio Valdéz 61; Jared Borgetti 65, Luis Romero 90
 
 Date: 4/10/2002
@@ -1313,9 +1313,9 @@ Date: 4/14/2002
   Carlos Gonzalez 48; Marinho Ledezma 26
 
 ; Leon         ; 2-4; Pumas
-  Missael Espinoza 39, Rodrigo Valenzuela 64; Emmerson Dos Santos 12, Emmerson Dos Santos 21, Emmerson Dos Santos 76, José Luis López 81
+  Missael Espinoza 39, Rodrigo Valenzuela 64; Emmerson Dos Santos Laguna 12, Emmerson Dos Santos Laguna 21, Emmerson Dos Santos Laguna 76, José Luis López 81
 
-; Santos       ; 3-2; Pachuca
+; Santos Laguna       ; 3-2; Pachuca
   Jared Borgetti 24, Jared Borgetti 77, Pedro Jimenez 73; Francisco Gabriel 56, Sergio Santana 63
 
 Date: 4/15/2002
@@ -1331,7 +1331,7 @@ Date: 4/20/2002
 ; Veracruz     ; 2-0; Tecos
   Martin Rodriguez 11, Jesús Gutierrez 60;
 
-; Tigres       ; 2-1; Santos
+; Tigres       ; 2-1; Santos Laguna
   Marco Antonio Ruiz 9, Irenio Soares 27; Eduardo Lillingston 56
 
 ; Cruz Azul    ; 2-2; Toluca
@@ -1377,7 +1377,7 @@ Date: 4/27/2002
 ; Puebla       ; 1-2; America
   Marco Antonio Capetillo 36; Manuel Ríos 50, Christian Patiño 90
 
-; Santos       ; 5-1; Veracruz
+; Santos Laguna       ; 5-1; Veracruz
   Carlos Augusto Gomes 8, Carlos Augusto Gomes 68, Eduardo Lillingston 45, Eduardo Lillingston 69, Hector Altamirano 77; Isaac Terrazas 89
 
 ; Morelia      ; 4-1; Pachuca

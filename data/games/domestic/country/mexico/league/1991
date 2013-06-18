@@ -1,7 +1,7 @@
 Competition: Liga MX
 Season: 1991-1992
 BlockSource: http://www.rsssf.com/tablesm/mex92.html
-
+home-first
 
 *Group I
 *UNAM      38      15      14      9       53:41   +12     44 [quarterfinal]
@@ -31,7 +31,7 @@ BlockSource: http://www.rsssf.com/tablesm/mex92.html
 *A Morelia       38      10      15      13      41:47 -6        35
 *U de G         38      8       11      19    42:60     -18     27
 
-Round: Week 1
+Round: 1
 Date: 9/14/1991
 
 ; Cruz Azul; 3-1; Queretaro 
@@ -48,7 +48,7 @@ Date: 9/15/1991
 ; Club León; 1-1; Santos Laguna; Queretaro, Mexico
 ; Monterrey; 2-2; Atlante 
 
-Round: Week 2
+Round: 2
 Date: 9/20/1991
 
 ; Necaxa; 0-0; Club León 
@@ -68,7 +68,7 @@ Date: 9/22/1991
 ; UAT; 4-0; U de G 
 ; Queretaro; 2-1; Morelia 
 
-Round: Week 3
+Round: 3
 Date: 9/28/1991
 
 ; Veracruz; 2-0; UAT 
@@ -85,7 +85,7 @@ Date: 9/29/1991
 ; Guadalajara; 1-1; Atlante 
 ; Queretaro; 2-2; UANL 
 
-Round: Week 4
+Round: 4
 Date: 10/4/1991
 
 ; Necaxa; 4-0; Toluca 
@@ -105,7 +105,7 @@ Date: 10/6/1991
 ; Club León; 1-1; Monterrey; Monterrey
 ; Santos Laguna; 2-1; Guadalajara 
 
-Round: Week 5
+Round: 5
 Date: 10/12/1991
 
 ; Veracruz; 2-1; Atlante 
@@ -125,7 +125,7 @@ Date: 1/8/1992
 
 ; UNAM; 0-2; Club America 
 
-Round: Week 6
+Round: 6
 Date: 10/18/1991
 
 ; Necaxa; 3-0; U de G 
@@ -145,7 +145,7 @@ Date: 10/20/1991
 ; UAT; 1-1; Cruz Azul 
 ; Santos Laguna; 2-1; Veracruz 
 
-Round: Week 7
+Round: 7
 Date: 10/26/1991
 
 ; U de G; 0-0; Club León 
@@ -162,7 +162,7 @@ Date: 10/27/1991
 ; Queretaro; 0-0; UAT 
 ; Morelia; 1-1; Toluca 
 
-Round: Week 8
+Round: 8
 Date: 11/1/1991
 
 ; Necaxa; 1-1; UNAM 
@@ -182,7 +182,7 @@ Date: 11/3/1991
 ; Club León; 3-1; Veracruz 
 ; Toluca; 1-1; Guadalajara 
 
-Round: Week 9
+Round: 9
 Date: 11/6/1991
 
 ; Morelia; 2-0; Guadalajara 
@@ -199,7 +199,7 @@ Date: 11/7/1991
 ; U de G; 3-2; Toluca 
 ; Cruz Azul; 1-0; Santos Laguna 
 
-Round: Week 10
+Round: 10
 Date: 11/9/1991
 
 ; Club America; 1-0; Cobras 
@@ -222,7 +222,7 @@ Date: 12/10/1991
 
 ; Guadalajara; 1-1; U de G 
 
-Round: Week 11
+Round: 11
 Date: 11/15/1991
 
 ; UAG; 0-0; UAT 
@@ -242,7 +242,7 @@ Date: 11/17/1991
 ; Queretaro; 1-0; Necaxa 
 ; Puebla; 0-0; Monterrey 
 
-Round: Week 12
+Round: 12
 Date: 11/22/1991
 
 ; Necaxa; 3-2; UANL 
@@ -262,7 +262,7 @@ Date: 11/24/1991
 ; Club León; 1-0; Queretaro 
 ; Toluca; 0-2; Puebla 
 
-Round: Week 13
+Round: 13
 Date: 11/29/1991
 
 ; UAG; 2-2; Atlante 
@@ -282,7 +282,7 @@ Date: 12/1/1991
 ; UAT; 5-1; Club America 
 ; Cobras; 2-0; Necaxa 
 
-Round: Week 14
+Round: 14
 Date: 12/6/1991
 
 ; Necaxa; 1-1; Atlas 
@@ -302,7 +302,7 @@ Date: 12/8/1991
 ; Club León; 1-0; Cobras 
 ; Santos Laguna; 4-1; UAG 
 
-Round: Week 15
+Round: 15
 Date: 12/11/1991
 
 ; Puebla; 1-0; Veracruz 
@@ -319,7 +319,7 @@ Date: 12/12/1991
 ; Club America; 1-3; Atlante 
 ; UAG; 2-2; Necaxa 
 
-Round: Week 16
+Round: 16
 Date: 12/14/1991
 
 ; Veracruz; 1-0; Cruz Azul 
@@ -336,7 +336,7 @@ Date: 12/15/1991
 ; Club León; 3-1; UAG 
 ; Santos Laguna; 0-1; Club America 
  
-Round: Week 17
+Round: 17
 Date: 12/20/1991
 
 ; UAG; 4-0; Monterrey 
@@ -356,7 +356,7 @@ Date: 12/22/1991
 ; Cobras; 1-1; Guadalajara 
 ; Morelia; 0-0; Puebla 
 
-Round: Week 18
+Round: 18
 Date: 12/28/1991
 
 ; UNAM; 2-1; Queretaro 
@@ -373,7 +373,7 @@ Date: 12/29/1991
 ; Morelia; 2-2; Santos Laguna 
 ; Club León; 1-0; Club America 
 
-Round: Week 19
+Round: 19
 Date: 1/3/1992
 
 ; Atlante; 2-2; Club León 
@@ -393,7 +393,7 @@ Date: 1/5/1992
 ; Cobras; 1-1; Veracruz 
 ; Santos Laguna; 0-2; Necaxa 
 
-Round: Week 20
+Round: 20
 Date: 1/10/1992
 
 ; Necaxa; 0-0; Morelia 
@@ -413,7 +413,7 @@ Date: 1/12/1992
 ; Cobras; 1-1; UNAM 
 ; Santos Laguna; 4-1; Club León 
 
-Round: Week 21
+Round: 21
 Date: 1/18/1992
 
 ; UNAM; 2-0; Atlas 
@@ -433,7 +433,7 @@ Date: 2/27/1992
 
 ; U de G; 2-2; UAT 
 
-Round: Week 22
+Round: 22
 Date: 1/24/1992
 
 ; Necaxa; 5-1; Monterrey 
@@ -453,7 +453,7 @@ Date: 1/26/1992
 ; Cobras; 1-1; Cruz Azul 
 ; Santos Laguna; 3-1; Toluca 
 
-Round: Week 23
+Round: 23
 Date: 1/29/1992
 
 ; Toluca; 3-3; Necaxa 
@@ -470,7 +470,7 @@ Date: 1/30/1992
 ; UNAM; 0-0; UAT 
 ; U de G; 1-1; Atlante 
 
-Round: Week 24
+Round: 24
 Date: 2/1/1992
 
 ; Necaxa; 1-1; Guadalajara 
@@ -490,7 +490,7 @@ Date: 2/3/1992
 
 ; Atlante; 1-2; Veracruz 
 
-Round: Week 25
+Round: 25
 Date: 2/8/1992
 
 ; Cruz Azul; 2-2; UAT 
@@ -507,7 +507,7 @@ Date: 2/9/1992
 ; Morelia; 2-1; Cobras 
 ; Queretaro; 1-1; UAG 
 
-Round: Week 26
+Round: 26
 Date: 2/14/1992
 
 ; Necaxa; 1-1; Veracruz 
@@ -527,7 +527,7 @@ Date: 2/16/1992
 ; UAT; 0-1; Queretaro 
 ; Santos Laguna; 0-1; UNAM 
 
-Round: Week 27
+Round: 27
 Date: 2/19/1992
 
 ; Puebla; 2-2; Santos Laguna 
@@ -544,7 +544,7 @@ Date: 2/20/1992
 ; Cruz Azul; 3-1; Atlante 
 ; Guadalajara; 1-0; Toluca 
 
-Round: Week 28
+Round: 28
 Date: 2/22/1992
 
 ; Necaxa; 1-0; Puebla 
@@ -564,7 +564,7 @@ Date: 2/24/1992
 
 ; Atlante; 2-1; Queretaro 
 
-Round: Week 29
+Round: 29
 Date: 2/29/1992
 
 ; Cruz Azul; 1-4; Necaxa 
@@ -581,7 +581,7 @@ Date: 3/1/1992
 ; Morelia; 2-1; UAG 
 ; Cobras; 0-1; Club America 
  
-Round: Week 30
+Round: 30
 Date: 3/13/1992
 
 ; Necaxa; 2-2; Queretaro 
@@ -601,7 +601,7 @@ Date: 3/15/1992
 ; UAT; 0-0; UAG 
 ; Santos Laguna; 2-0; UANL 
 
-Round: Week 31
+Round: 31
 Date: 3/7/1992
 
 ; UAG; 0-1; Club America 
@@ -621,7 +621,7 @@ Date: 3/22/1992
 ; Morelia; 2-3; UAT 
 ; Cobras; 4-0; Santos Laguna 
 
-Round: Week 32
+Round: 32
 Date: 3/27/1992
 
 ; Necaxa; 3-1; Cobras 
@@ -641,7 +641,7 @@ Date: 3/29/1992
 ; Guadalajara; 1-1; Puebla 
 ; Santos Laguna; 0-0; Atlas 
 
-Round: Week 33
+Round: 33
 Date: 4/3/1992
 
 ; UAG; 1-0; Santos Laguna 
@@ -661,7 +661,7 @@ Date: 4/5/1992
 ; UNAM; 2-1; Veracruz 
 ; Cobras; 0-1; Club León 
 
-Round: Week 34
+Round: 34
 Date: 4/10/1992
 
 ; Atlante; 1-0; Club America 
@@ -681,7 +681,7 @@ Date: 4/12/1992
 ; Club León; 3-0; Atlas 
 ; Santos Laguna; 1-0; UAT 
 
-Round: Week 35
+Round: 35
 Date: 4/18/1992
 
 ; Cruz Azul; 2-1; Veracruz 
@@ -698,7 +698,7 @@ Date: 4/19/1992
 ; Cobras; 0-1; Toluca 
 ; UAT; 2-2; Necaxa 
 
-Round: Week 36
+Round: 36
 Date: 4/24/1992
 
 ; Monterrey; 2-0; UAG 
@@ -724,7 +724,7 @@ Date: 5/6/1992
 
 ; Guadalajara; 2-1; Cobras 
 
-Round: Week 37
+Round: 37
 Date: 5/1/1992
 
 ; Atlante; 1-3; Necaxa 
@@ -744,7 +744,7 @@ Date: 5/3/1992
 ; UAT; 1-0; Monterrey 
 ; Santos Laguna; 3-1; Morelia 
   
-Round: Week 38
+Round: 38
 Date: 5/9/1992
 
 ; UNAM; 1-3; UANL 

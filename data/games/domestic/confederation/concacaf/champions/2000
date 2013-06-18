@@ -1,10 +1,13 @@
+Competition: CONCACAF Champions League
+*Competition: CONCACAF Champions' Cup
+BlockSource: http://www.rsssf.com/tablesc/cacups00.html
+home-first
+
+
 * NB: o/o: both teams withdrew;
 *     w/o: team away in 1st leg withdrew;
 *     o/w: team home in 1st leg withdrew
 
-Competition: CONCACAF Champions League
-*Competition: CONCACAF Champions' Cup
-BlockSource: http://www.rsssf.com/tablesc/cacups00.html
 
 
 Season: 2000
@@ -16,10 +19,12 @@ Season: 2000
 * *not* qualified as holders: Necaxa.
 * No qualifying matches.
 
-Group: Northern Zone
-Group: Central Zone
+Group: Northern
+
+Group: Central
+
 Round: First Phase
-* Group I  
+Group: I  
 
 2/3/2000; Alajuelense; 6-0; Esteli
 Edson Valente 3, Luis Marin 39, Harold Miranda 60, Alexander Castro 73, Alejandro Alpizar 80, Pablo Izaguirre 87; 
@@ -40,7 +45,7 @@ Carlos Oliva 32; Pablo Alejandro Izaguirre 71
 ; Edgar Delgado 4, Jorge Zapata 8, Jose Maria Rolon 36, Ricardo Alcero 47, Nelson Vera 50, Nelson Vera 52, Nelson Vera 83, Cesar Obando 78
 
  
-* Group II 
+Group: II 
 
 2/10/2000; Panama Viejo; 2-0; Alianza
 Edmundo Gomez 2, Marco Aparicio 71; 
@@ -60,7 +65,7 @@ Cecilio Galeano 64; Gustavo Martinez 6pen, Steven Bryce 19
 3/2/2000; Panama Viejo; 1-0; Saprissa
 Ricardo Phillips 26; 
   
-* Group III
+Group: III
 
 1/15/2000; Sagitun; 1-1; Comunicaciones
 Oliver Hendricks 68; Ronald Gonzalez 18  
@@ -82,7 +87,7 @@ Benedict Lopez 56, Bent Burgess (pk) 68; Jaime Cadena 14,  Alberto Cerezo 44
 Minutes: 89
 Notes: game ended in 89' following a mini-riot between Sagitun's players and the police after their coach was ejected from the game
 
-* Group IV 
+Group: IV 
 
 1/20/2000; La Victoria (Belize); 0-1; Municipal
 ; Rudy Ramirez 74
@@ -90,45 +95,46 @@ Notes: game ended in 89' following a mini-riot between Sagitun's players and the
 1/27/2000; Municipal; 6-1; La Victoria (Belize)
 Guillermo Ramirez 4, Guillermo Ramirez 87, Rolando Benitez 25, Rolando Benitez 52, Rudy Ramirez (pk) 55, Rudy Ramirez (pk) 86; Cesario Rosales 85
 
-3/13/2000; La Victoria (Belize); 0-3; Olimpia
+3/13/2000; La Victoria (Belize); 0-3; CD Olimpia
 ; Christian Santamaria 8, Danilo Tosello 25, Own Goal (Elvis Nugent) 45
 * Check date.
 
-3/15/2000; Olimpia; W-L; La Victoria (Belize)
+3/15/2000; CD Olimpia; W-L; La Victoria (Belize)
 Forfeit
 Notes: La Victoria (Belize) did not show.
 
-3/23/2000; Olimpia; 2-3; Municipal
+3/23/2000; CD Olimpia; 2-3; Municipal
 Danilo Tosello (pk) 14, Eduardo Arriola 58; Rudy Ramirez 1, Carlos Gonzalez 20, Juan Carlos Plata 62
 
 * 3/30/2000; 
 * not played? 
 * Mar 30: Municipal-Olimpia                      - 
 
-Round: Second Phase
+Round: 2
+Group: 
 
 * Group A (in Ciudad de Guatemala, Aug 2-6)
-Group: Group A
+Group: A
 
 8/2/2000; Municipal; 1-1; Saprissa; Guatemala City
 Selvin Ponciano 89; Gerald Drummond 85
 
-8/2/2000; Olimpia; 5-0; Panama Viejo; Guatemala City
-Fabio Ulloa 17, Denilson Costa 48, Wilmer Velasquez 81, Wilmer Velasquez 85, Alex Pineda 89;
+8/2/2000; CD Olimpia; 5-0; Panama Viejo; Guatemala City
+Fabio Ulloa 17, Denilson Costa 48, Wilmer Velasquez 81, Wilmer Velasquez 85, Alex Pineda Chacon 89;
 
-8/4/2000; Municipal; 0-0; Olimpia; Guatemala City
+8/4/2000; Municipal; 0-0; CD Olimpia; Guatemala City
 
 8/4/2000; Saprissa; 0-1; Panama Viejo; Guatemala City
 ; Anel Canales 78]
 
-8/6/2000; Saprissa; 4-1; Olimpia; Guatemala City
+8/6/2000; Saprissa; 4-1; CD Olimpia; Guatemala City
 Jervis Drummond 22, Victor Cordero 28, Randall Row (pk) 62, Walter Centeno 82;  Danilo Tosello (pk) 10
 
 8/6/2000; Municipal; 5-0; Panama Viejo; Guatemala City
 Juan Carlos Plata 3, Juan Carlos Plata 46, Gonzalo Romero 13, Mario Acevedo 21, Rudy Ramirez 90; 
 
 * Group B (in Panama City, Aug 23-27)
-Group: Group B
+Group: B
 
 8/23/2000; Alajuelense; 2-1; Comunicaciones; Panama City, Panama
 Claudio Ciccia 69, Pablo Chinchilla 84; Rolando Fonseca 63
@@ -148,12 +154,11 @@ Javier Delgado (pk) 86;
 8/27/2000; Arabe Unido; 4-3; Comunicaciones; Panama City, Panama
 Jairo Cadena 30, Own Goal (Marcelo Saraiva) 44, Julio Medina 75, Alberto Cerezo 88; Dwight Pezzarossi 3, Dwight Pezzarossi34, Julio Rodas 77
 
- 
-Group: Caribbean Zone
+Group: Caribbean
 * Caribbean Club Championship 2000
+* Final Tournament 
 
-
-Round: Final Tournament 
+Group: 
 Round: Quarterfinals
 
 1/16/2001; CD Toluca; 0-1; CD Olimpia; Fullerton, CA
@@ -190,15 +195,15 @@ Round: Third Place Match
 
 1/21/2001; DC United; 1-2; Pachuca CF; Los Angeles, CA
 Carey Talley (unassisted) 33; Pedro Pineda 14, Omar Arellano 38
-DC United: Tom Presthus, Carey Talley, Mark Watson, Jeff Agoos, Carlos Llamosa, Eric Denton, Chino Alegria, Richie Williams, Bobby Convey, A.J.Woods, Greg Simmonds;
+DC United: Tom Presthus, Carey Talley, Mark Watson, Jeff Agoos, Carlos Llamosa, Eric Denton, Chino Alegria, Richie Williams, Bobby Convey, A.J. Wood, Greg Simmonds;
 Pachuca CF: Jesus Salvador Alfaro Coronado, Gabriel A. Martinez, Israel Velazquez, Manuel Vidrio Solis, Luis Alfonso Sosa Cisneros, Octavio Valdez Martinez, Gabriel Esteban Caballero Schiker, Cesareo Victorino, Omar Arellano, Francisco Ferreira, Pedro Pineda Deras
  
 Round: Final 
 
-1/21/2001; Los Angeles Galaxy; 3-2; Olimpia; Los Angeles, CA
+1/21/2001; Los Angeles Galaxy; 3-2; CD Olimpia; Los Angeles, CA
 Ezra Hendrickson (Alexi Lalas, Peter Vagenas) 36, Ezra Hendrickson (Mauricio Cienfuegos) 78, Cobi Jones (Alexi Lalas) 39; Danilo Tosello (pk) 34, Robert Lima 51
 Los Angeles Galaxy: Kevin Hartman, Greg Vanney, Alexi Lalas, Paul Caliguiri, Zak Ibsen, Ezra Hendrickson, Simon Elliot, Peter Vagenas, Mauricio Cienfuegos (Brian Kelly 92), Cobi Jones, Adam Frye (Sasha Victorine 60) 
-Olimpia: Donaldo Gonzalez; Gerson Vasquez, Robert Lima, Samuel Caballero, Nerlin Membreno; Alex Pineda Chacon (Arnold Cruz 82), Danilo Tosello, Jose Luis Pineda (Reynaldo Tilgauth 88), Christian Santamaria, Denilson Costa, Carlos Paes
+CD Olimpia: Donaldo Gonzalez; Gerson Vasquez, Robert Lima, Samuel Caballero, Nerlin Membreno; Alex Pineda Chacon (Arnold Cruz 82), Danilo Tosello, Jose Luis Pineda (Reynaldo Tilgauth 88), Christian Santamaria, Denilson Costa, Carlos Paes
   
 
 * With thanks to Vincent Leon and Dirk Karsdorp for additional data
@@ -217,11 +222,12 @@ BlockSource: http://www.rsssf.com/tablesc/cacups01.html
 * North American Zone
 * Selected clubs: KC Wizards (USA) Chicago Fire (USA)  Santos Laguna (Mexico) Morelia (Mexico)
 
-Group: Central American Zone
+Group: Central America
 Round: First Round 
 * NB: Belize teams apparently not included because the Belize Football League submitted the letter with entered teams one day late to the Belize FA. It is not clear why El Salvador and Nicaragua have no teams entered.
 
 * Group A (Guatemala, Aug 15-19)
+Group: A
 
 8/15/2001; Tauro; 1-1; Saprissa; Guatemala
 Hector Nazarit 6; Alvaro Saborio 56
@@ -241,21 +247,22 @@ Everaldo Valencia 36, Andres Rivera 59; Luis Rodriguez 12
 Victor Nunez 2, Walter Centeno 69; Ariel Leyes (pk) 16
 
 * Group B (Honduras, Aug 8-12)
+Group: B
 
 8/8/2001; Alajuelense; 6-1; Plaza Amador; Honduras
 Josef Miso 25, Allan Oviedo 39, Javier Delgado (pk) 43, Carlos Castro 59, Vicente Rosella 60, Mauricio Solis 66; Angel Roman 79
 
-8/8/2001; Municipal; 0-0; Olimpia; Honduras
+8/8/2001; Municipal; 0-0; CD Olimpia; Honduras
 
 8/10/2001; Municipal; 7-0; Plaza Amador; Honduras
 Juan Carlos Plata 21, Juan Carlos Plata 28, Juan Carlos Plata 83, Eduardo Barros 34, Eduardo Barros 88, Walter Estrada 71, Gonzalo Romero 90;
 
-8/10/2001; Alajuelense; 0-0; Olimpia; Honduras
+8/10/2001; Alajuelense; 0-0; CD Olimpia; Honduras
 
 8/12/2001; Municipal; 2-2; Alajuelense; Honduras
 Erick Jimenez 36, Erick Jimenez 90; Gonzalo Romero 16, Mario Acevedo 32
 
-8/12/2001; Olimpia; 6-0; Plaza Amador          
+8/12/2001; CD Olimpia; 6-0; Plaza Amador          
 Fabio Ulloa 13, Gustavo Fuentes 15, Denilson Costa 29, Denilson Costa 80, Denilson Costa 88, Reynaldo Tilgauth 41; 
   
 Round: Final Tournament 
@@ -264,10 +271,10 @@ Round: Final Tournament
 9/12/2001; Saprissa; 1-1; Municipal; Costa Rica
 Walter Centeno 62; Juan Carlos Plata 3
 
-9/12/2001; Olimpia; 2-0; Comunicaciones; Costa Rica
+9/12/2001; CD Olimpia; 2-0; Comunicaciones; Costa Rica
 Gustavo Fuentes 70, Hugo Dominguez 72; 
 
-9/14/2001; Saprissa; 3-1; Olimpia; Costa Rica
+9/14/2001; Saprissa; 3-1; CD Olimpia; Costa Rica
 Walter Centeno 52, Walter Centeno 56, Jeaustin Campos 81; Danilo Tosello 61
 
 9/14/2001; Municipal; 4-0; Comunicaciones; Costa Rica
@@ -276,10 +283,10 @@ Julio Giron 3, Eduardo Barros 55, Juan Carlos Plata (pk) 63, Carlos Ruiz 83;
 9/16/2001; Saprissa; 3-2; Comunicaciones; Costa Rica
 Walter Centeno 10, Jorge Ramirez 18, Victor Nunez 75; Jorge Estrada 37, Jorge Estrada 50
 
-9/16/2001; Olimpia; 1-2; Municipal; Costa Rica
+9/16/2001; CD Olimpia; 1-2; Municipal; Costa Rica
 Denilson Costa 40; Juan Carlos Plata 25, Carlos Ruiz 75
 
-Group: Caribbean Zone
+Group: Caribbean
 * NB: it is not clear why Jamaican clubs were not invited, the Jamaican FA was surprised
 
 7/29/2001; Fruta Conquerors; 2-1; Williams Connection FC 
@@ -310,7 +317,7 @@ Rulaine Martijns (pk) 38; Orlando Grootfaam 6, Orlando Grootfaam 26, Orlando Gro
 * b Roots Alley Ballers, UWS Upsetters, Club Franciscain and Empire withdrew; HBA Panthers were excluded after failing to honour the 1st leg deadline
 
 Round: Second Round 
-* Group A
+Group: A
 
 9/7/2001; W Connection; 3-1; Jong Colombia; Port-au-Prince, Haiti
 Luciano Sato 24, Jose Maria Manoel 59, Jose Maria Manoel 71; 
@@ -324,7 +331,7 @@ Notes: abandoned at 2-0 in 2nd half due to rain; as W Connection had to return t
 10/11/2001; W Connection; 4-0; Racing Club Haitien; Fort-de-France, Martinique
 Earl Jean 30, David Atibe Charles 42, David Atibe Charles 75, Titus Elva 85; 
 
-* Group B
+Group: B
 
 8/24/2001; SNL; 0-0; Roulado; Trinidad
 
@@ -335,6 +342,7 @@ Brent Hudson 31, Jason Scotland 39, Jason Scotland 66, Sherman Phillip 78, Sherm
 Jason Scotland 26, Brent Hudson 56, Sherman Phillip 78; Own Goal (Marlon Pierre) 7
 
 Round: Final
+Group: 
 
 10/14/2001; Defence Force; np; W Connection
 Notes: on Oct 10, the Football Confederation decided to scrap the 2001 tournament, and include all teams qualified so far plus a few other ones in the Champions' Cup 2002 tournament.
@@ -377,12 +385,12 @@ Kwesi Smith 76;
 3/27/2002; Defence Force; 0-4; Pachuca
 ; Andres Chitiva 6, Juan Arango 32, Juan Arango 88, Juan Arango 91
 
-3/13/2002; Olimpia; 0-1; San Jose Earthquakes; Miami, FL
+3/13/2002; CD Olimpia; 0-1; San Jose Earthquakes; Miami, FL
 ; Richard Mulrooney (Manny Lagos) 74
 San Jose Earthquakes: Joe Cannon, Jimmy Conrad, Troy Dayak, Jeff Agoos, Wade Barrett, Ian Russell, Ronnie Ekelund (Ariel Graziani 70), Richard Mulrooney, Manny Lagos (Ramiro Corrales 76), Dwayne De Rosario (Devin Barclay 82), Landon Donovan
 Source: MLS Lineup Database
 
-3/16/2002; Olimpia; 1-3; San Jose Earthquakes; Sacramento, CA
+3/16/2002; CD Olimpia; 1-3; San Jose Earthquakes; Sacramento, CA
 Denilson Costa 87; Landon Donovan (Jimmy Conrad) 32, Ian Russell (Landon Donovan) 40, Jeff Agoos (unassisted) 68
 San Jose Earthquakes: Joe Cannon, Jimmy Conrad, Troy Dayak, Jeff Agoos, Wade Barrett, Ian Russell, Ronnie Ekelund, Richard Mulrooney, Manny Lagos (Ramiro Corrales 54), Dwayne De Rosario (Devin Barclay 79), Landon Donovan (Ariel Graziani 71)
 Source: MLS Lineup Database
@@ -500,7 +508,7 @@ BlockSource: http://www.rsssf.com/tablesc/cacups03.html
 * Central American Zone Qualifying
 * NB: Belizean teams were suspended after the clubs withdrew from the Belize FA.
 
-Group: Group 1 
+Group: 1
 
 10/9/2002; Alianza; 4-1; Jalapa; Estadio Cuscatlan, San Salvador, El Salvador
 Elias Montes 2, Elias Montes 13, Adonay Martinez 80, Claudio Sosa 87; Edgardo Rochez 73
@@ -520,7 +528,7 @@ Blas Perez 1, Blas Perez 40, Blas Perez 87, Alfredo Anderson 8, Alfredo Anderson
 10/13/2002; FAS; 2-1; Alianza
 Jorge Rodriguez 70, Victor Velasquez 89; Elias Montes 36
 
-Group: Group 2
+Group: 2
 
 10/23/2002; Municipal; 4-0; San Marcos; Guatemala
 Jacinto Zorrilla 5, Mario Acevedo 67, Juan Carlos Plata 82, Carlos Castillo 88;
@@ -543,7 +551,7 @@ Richard Mahoney 31, Jacob Sloth Bennedsen 44;
 
 * San Marcos replaced Walter Ferreti (runners-up Nicaragua 2001/02) who were suspended for abandoning the 1999 CONCACAF Champions Cup
 
-Group: Group 3 
+Group: 3
 
 10/30/2002; Marathon; 1-2; Alajuelense; Honduras
 Elvis Scott 22; Stevn Bryce 64, Own Goal (Luis Santamaria) 86
@@ -566,6 +574,7 @@ Mario Lopez 39, Emil Martinez 79, Mauricio Sabillon 84, Oscar Vargas 88;
 * Tauro (runners-up Panama 2000/01) replace Plaza Amador (runners-up 2001) who are suspended, as Panama Viejo (champions 2000/01) disbanded.
 
 Round: Preliminary Round
+Group: 
 
 10/17/2002; George Town SC; 0-3; Harbour View
 ; Jomo Gordon 25, Jomo Gordon 45, Jermaine Hue 54
@@ -581,7 +590,7 @@ Cedric Lemare 30; Lepson Marshall 80
 * both matches in Martinique; Saint Joseph replaced Beacon Insurance from Grenada, who were originally drawn against US Robert, for unknown reasons
 
 Round: Final Round 
-Group: Group A 
+Group: A
 
 12/4/2002; Arnett Gardens; 5-0; VSADC; Jamaica
 Denton Shedden 12, Denton Shedden 45, Cornel Chin-Sue 32, Jonathon Williams 72, Kevin Wilson 80; 
@@ -592,7 +601,7 @@ Leandro Mancao 7, Peterson Jackson-Joseph 37, Maxo Sampeur Jr. 80; Marciano Prin
 12/8/2002; Arnett Gardens; 0-0; Violette; Jamaica
 * .Club Franciscain (Le François)  withdrew due to participation in Coupe de France; suspended from next year's competition and fined USD 11,000
 
-Group: Group B
+Group: B
 
 12/11/2002; Harbour View; 4-1; US Robert
 Jermaine Hue 16, Fabian Taylor 52, Daniel Shaw 83, Donald Stewart 88; Marcel Gibon (pk) 9
@@ -603,6 +612,7 @@ Earl Jean 72, Titus Elva 76; Dino Williams 82
 12/15/2002; W Connection; 2-0; US Robert
 Earl Jean 66, Titus Elva 84; 
 
+Group: 
 Round: First Round
 
 3/12/2003; Toluca; 3-2; W Connection
@@ -743,7 +753,7 @@ BlockSource: http://www.rsssf.com/tablesc/cacups04.html
 10/22/2003; Boca FC; 0-10; Alajuelense; Alajuela, Costa Rica
 ; Carlos Hernandez 10, Carlos Hernandez 19, Warren Granados 14, Warren Granados 64, Bryan Ruiz 25, Bryan Ruiz 53, Pablo Izaguirre 34, Victor Nunez 45, Victor Nunez 79, Victor Nunez 82
 
-Group: Group 1
+Group: 1
 
 10/22/2003; Real Esteli; 0-1; Saprissa; Nicaragua
 ; Alvaro Saborio 72
@@ -763,7 +773,7 @@ Kenneth Vargas 5, Kenneth Vargas 47, Jose Francisco Alfaro 12, Randall Azofeifa 
 10/25/2003; FAS; 2-1; Real Esteli; Nicaragua
 Victor Mafla 26, Marcelo Messias 46; Selvin Alvarez 51
 
-Group: Group 2 
+Group: 2
 
 10/28/2003; Comunicaciones; 4-0; Arabe Unido; Guatemala City, Guatemala
 Johnny Cubero 16, Johnny Cubero 76, Ariel Macia 44, Fredy Thompson 73;
@@ -783,9 +793,9 @@ Cristian Chaparro (pk) 36, Mauricio Risso 48, Mauricio Risso 57, Juan Carlos Pla
 11/2/2003; Comunicaciones; 3-0; San Salvador FC;  Guatemala City, Guatemala
 Maximiliano Suarez 44, Carlos Quinonez 70, Dwight Pezzarossii 73; 
 
-Group: Group 3
+Group: 3
 
-11/5/2003; Olimpia; 1-2; Alajuelense; San Pedro Sula, Honduras
+11/5/2003; CD Olimpia; 1-2; Alajuelense; San Pedro Sula, Honduras
 Juan Manuel Carcamo 50; Rolando Fonseca 4, Rolando Fonseca 11
 
 11/5/2003; Marathon; 5-0; San Francisco; San Pedro Sula, Honduras
@@ -794,9 +804,9 @@ Jose Mauricio Pacini 31, Denilson Costa 32, Denilson Costa 60, Denilson Costa 76
 11/7/2003; San Francisco; 0-1; Alajuelense; San Pedro Sula, Honduras
 ; Wilmer Lopez 83
 
-11/7/2003; Marathon; 0-0; Olimpia; San Pedro Sula, Honduras
+11/7/2003; Marathon; 0-0; CD Olimpia; San Pedro Sula, Honduras
 
-11/9/2003; Olimpia; 0-1; San Francisco; San Pedro Sula, Honduras
+11/9/2003; CD Olimpia; 0-1; San Francisco; San Pedro Sula, Honduras
 ; Donaldo Gonzalez 22
 
 11/9/2003; Marathon; 0-0; Alajuelense; San Pedro Sula, Honduras
@@ -804,6 +814,7 @@ Jose Mauricio Pacini 31, Denilson Costa 32, Denilson Costa 60, Denilson Costa 76
 * The three group winners and best second-place team advance to the Central American final Dec 17-21 at a site TBD. 
 
 Round: Final Round
+Group: 
 * [UNCAF Club Championship 2003]
 
 12/19/2003; Alajuelense; 0-1; Saprissa; Los Angeles, CA
@@ -979,7 +990,7 @@ BlockSource: http://www.rsssf.com/tablesc/cacups05.html
 * Central American Club Competitions 2004/05
 * Qualified for final tournament: DC United and Kansas City Wizards (USA; MLS 2004 finalists), Monterrey and Pumas (Mexico)
 
-Group: Central American Zone
+Group: Central American
 Round: First Round
 
 9/21/2004; Kulture Yabra; 0-0; Alianza
@@ -999,10 +1010,10 @@ Jose Justavino 61, Engin Mitre 63; Walter Cifuentes 31
 9/28/2004; Plaza Amador; 2-3; Coban Imperial
 Nobuya Osudo 48, Alfredo Hernandez 50; Jorge Dos Santos 12, Transito Montepeque 56, Transito Montepeque 59
 
-9/22/2004; Boca Juniors (S. Ignacio); 0-1; Olimpia
+9/22/2004; Boca Juniors (S. Ignacio); 0-1; CD Olimpia
 ; Marcelo Ferreira 57
 
-9/28/2004; Boca Juniors (S. Ignacio); 0-5; Olimpia
+9/28/2004; Boca Juniors (S. Ignacio); 0-5; CD Olimpia
 ; Luciano Emilio 13, Luciano Emilio 50, Luciano Emilio 54, Marcelo Ferreira 48, Rony Morales 59
 
 9/23/2004; Tauro; 0-3; Herediano
@@ -1037,10 +1048,10 @@ Alfredo Pacheco (pk) 76;
 10/28/2004; Real Esteli; 0-4; Saprissa  
 ; Evance Benwell 20, Saul Phillips (pk) 44, Saul Phillips 69, Cristian Bolanos 49
 
-10/21/2004; Herediano; 2-3; Olimpia
+10/21/2004; Herediano; 2-3; CD Olimpia
 Michael Umana 37, Cristian Oviedo 77; Wilmer Velazquez 22, Walter Lopez 55, Luciano Emilio 90+
 
-10/27/2004; Herediano; 1-0; Olimpia
+10/27/2004; Herediano; 1-0; CD Olimpia
 Kenneth Vargas 89; 
   
 Round: Final Round 
@@ -1049,9 +1060,9 @@ Round: Final Round
 12/1/2004; Municipal; 2-0; FAS; Estadio Cementos Progreso, Guatemala City
 Mario Acevedo 2, Juan Carlos Plata 64; 
 
-12/1/2004; Saprissa; 0-0; Olimpia; Estadio Cementos Progreso, Guatemala City
+12/1/2004; Saprissa; 0-0; CD Olimpia; Estadio Cementos Progreso, Guatemala City
 
-12/3/2004; Municipal; 0-1; Olimpia; Estadio Cementos Progreso, Guatemala City
+12/3/2004; Municipal; 0-1; CD Olimpia; Estadio Cementos Progreso, Guatemala City
 ; Rony Morales 44
 
 12/3/2004; Saprissa; 3-1; FAS; Estadio Cementos Progreso, Guatemala City
@@ -1060,7 +1071,7 @@ Alejandro Sequeira 24, Alejandro Sequeira 41, Alonso Solis 31; Ramon Flores 45
 12/5/2004; Municipal; 1-0; Saprissa; Estadio Cementos Progreso, Guatemala City
 Guillermo Rodriguez 77;
 
-12/5/2004; Olimpia; 1-3; FAS; Estadio Cementos Progreso, Guatemala City
+12/5/2004; CD Olimpia; 1-3; FAS; Estadio Cementos Progreso, Guatemala City
 Oscar Garcia 37; Nicolas Munoz 22, Ernesto Gochez 43, Alejandro Ventos 87
 
 Round: Caribbean Zone Qualifying
@@ -1116,10 +1127,10 @@ Craig Stewart 25, Jomo Gordon 90+; Fabian Davis 58
 Round: Final Tournament
 Round: Quarterfinals
 
-3/9/2005; Olimpia; 1-1; Pumas; Estadio Tiburcio Carias Andino; 
+3/9/2005; CD Olimpia; 1-1; Pumas; Estadio Tiburcio Carias Andino; 
 Wilson Palacios 47; Diego Alonso (pk) 78
 
-3/16/2005; Olimpia; 1-2 (aet); Pumas; Estadio Olimpico Universitario; 25200
+3/16/2005; CD Olimpia; 1-2 (aet); Pumas; Estadio Olimpico Universitario; 25200
 Jerry Palacios 30; Joaquin Botero 17, Bruno Marioni 120
 
 3/9/2005; DC United; 2-1; Harbour View; Maryland SoccerPlex; 3825
@@ -1198,10 +1209,10 @@ Luis Lara 37, Ricardo Steer 51, Windell Gabriels 65, Bill Gonzalez 90+;
 9/27/2005; Perez Zeledon; 2-2; Luis Angel Firpo  
 Luis Lara 48, Windell Gabriels 81; Jose Martinez 22, Victor Hugo Merino 42
 
-9/21/2005; Suchitepequez; 1-4; Olimpia  
+9/21/2005; Suchitepequez; 1-4; CD Olimpia  
 Cesar Trujullo (pk) 78; Wilson Palacios 15, Danilo Turcios 26, Everaldo Ferreira 46, Juan Manuel Carcamo 88
 
-9/29/2005; Suchitepequez; 0-4; Olimpia  
+9/29/2005; Suchitepequez; 0-4; CD Olimpia  
 ; Luciano Emilio 42, Luciano Emilio 49, Wilmer Velasquez 86, Rony Morales 90
 
 9/22/2005; Alajuelense; 5-2; Municipal  
@@ -1306,10 +1317,10 @@ Source: MLS Lineup Database
 New England Revolution: Matt Reis, Joe Franchino, Jay Heaps, Daniel Hernandez, James Riley, Steve Ralston (Jose Cancela 61), Tony Lochhead, Shalrie Joseph, Andy Dorman, Clint Dempsey, Taylor Twellman
 Source: MLS Lineup Database  
 
-2/22/2006; Olimpia; 0-2; Toluca; Estadio Olimpico Metropolitano; Brian Hall; 14306
+2/22/2006; CD Olimpia; 0-2; Toluca; Estadio Olimpico Metropolitano; Brian Hall; 14306
 ; Rodrigo Diaz 37, Jose Cruzalta 90+
 
-3/8/2006; Olimpia; 0-2; Toluca; Estadio Nemesio Diez; Kevin Stott
+3/8/2006; CD Olimpia; 0-2; Toluca; Estadio Nemesio Diez; Kevin Stott
 Juan Manuel Carcamo 21; Ariel Rosada 47, Carlos Esquivel 53
 
 2/23/2006; Los Angeles Galaxy; 0-0; Saprissa; Home Depot Center; Marco Rodriguez; 8103
@@ -1352,7 +1363,7 @@ BlockSource: http://www.rsssf.com/tablesc/cacups07.html
 
 Round: First Round
 
-Group: Group A
+Group: A
 
 12/1/2006; Centro Barber; 2-0; Positive Vibes; Kingston, Jamaica
 Oscar Molina Palomina 11, Edgar Cassiani Perez 38;
@@ -1372,7 +1383,7 @@ Bernard Weeklenky 85, Anselme Wedson 89; Ernest Baron 20, Collister Fahie 31, Da
 12/5/2006; Harbour View; 2-0; Centro Barber; Kingston, Jamaica
 Kavin Bryan 11, Oneil Smith 57; 
 
-Group: Group B
+Group: B
 
 12/8/2006; Waterhouse; 0-2; Baltimore Sportif Club; Kingston, Jamaica
 ; Jean Saint-Pierre 18, Decius Dumel 49
@@ -1383,7 +1394,7 @@ Decius Dumel 6, Decius Dumel 26, Decius Dumel 45, Cileus Lesca 61;
 12/2/2006; Waterhouse; 1-1; UNDEBA; Kingston, Jamaica
 Damion Williams 64; Own Goal (Michael Stone) 6
 
-Group: Group C 
+Group: C
 
 12/9/2006; Puerto Rico Islanders; 3-1; Hoppers; Bayamon, Puerto Rico
 Yuri Morales 7, Yuri Morales 23, Alejandro Gonzalez 44; Alejandro Hernandez 5
@@ -1394,7 +1405,7 @@ Gefferson Goulart 7, Gefferson Goualrt 76, Rolando Viana 54, Rolando Viana 55, A
 12/13/2006; Puerto Rico Islanders; 0-1; W Connection; Bayamon, Puerto Rico
 ; Andre Toussaint 5
 
-Group: Group D 
+Group: D
 
 12/10/2006; San Juan Jabloteh; 4-0; SAP; St. Thomas, US Virgin Islands
 Trent Noel 21, Lester Peltier 54, Peter Prosper 81, Anthony Wolfe 89; 
@@ -1413,6 +1424,7 @@ Igmard Gijsbertha 89; Okeem Challenger 8, Okeem Challenger 31, Peter Byers 12, P
 * ; Lester Peltier 2, Lester Peltier 26, Trent Noel 14, Trent Noel 23, Michael Alexis 90
 
 Round: Caribbean Semifinals 
+Group: 
 
 1/26/2007; W Connection; 3-2; Harbour View; Manny Ramjohn Stadium, Marabella
 Andre Toussaint 43, Andre Toussaint 69, Earl Jean (pk) 47; Donald Stewart 83, Fabian Taylor 89
@@ -1445,12 +1457,12 @@ Source: MLS Lineup Database
 Houston Dynamo: Zach Wells, Alejandro Moreno (Brian Ching 71), Craig Waibel, Wade Barrett, Ryan Cochrane, Kelly Gray, Paul Dalglish (Chris Wondolowski 85), Brian Mullan, Brad Davis, Ricardo Clark, Dwayne De Rosario (Kevin Goldthwaite 73)
 Source: MLS Lineup Database
 
-2/21/2007; Olimpia; 1-4; DC United; Estadio Tiburcio Carias Andino; Jorge Gasso
+2/21/2007; CD Olimpia; 1-4; DC United; Estadio Tiburcio Carias Andino; Jorge Gasso
 Juan Carcamo 36; Christian Gomez 29, Christian Gomez 60, Luciano Emilio 44, Facundo Erpen 83
 DC United: Troy Perkins, Facundo Erpen, Christian Gomez (Justin Moose), Luciano Emilio, Ben Olsen (Devon McTavish), Brian Carroll, Josh Gros, Clyde Simms, Bryan Namoff, Bobby Boswell, Jaime Moreno (Jamil Walker).
 Source: MLS Lineup Database
 
-3/1/2007; Olimpia; 2-3; DC United  ; RFK Stadium; Mauricio Navarro; 8181
+3/1/2007; CD Olimpia; 2-3; DC United  ; RFK Stadium; Mauricio Navarro; 8181
 Hendry Thomas (pk) 39, Jose Mauricio Pacini 76; Luciano Emilio 37, Luciano Emilio 83, Christian Gomez (pk) 48
 DC United: Troy Perkins (Jay Nolly 67), Bryan Namoff, Bobby Boswell, Facundo Erpen, Devon McTavish, Brian Carroll (Ben Olsen 46), Christian Gomez, Clyde Simms, Joshua Gros, Luciano Emilio, Jaime Moreno (Jamil Walker 46),
 Source: MLS Lineup Database
@@ -1508,7 +1520,7 @@ Round:  Caribbean Zone Qualifying
 *  (CFU Club Championship 2007)
 * NB: all matches played in Trinidad
     
-Group: Group A 
+Group: A
 
 11/4/2007; Nacional; 1-1; Centro Barber
 own goal 75; Edgard Cassiani (pk) 16
@@ -1519,7 +1531,7 @@ own goal 75; Edgard Cassiani (pk) 16
 11/8/2007; San Juan Jabloteh; 5-1; Nacional
 Peter Byers 2, Elton John 57, Gason Gregory 62, Dwayne Jack 70, Atulla Guerra 87; Marlison Hooi 45
 
-Group: Group B
+Group: B
 
 11/4/2007; RCA; 1-1; South East United
 Maurice Escolana 50; Phillip Monroe 2
@@ -1532,7 +1544,7 @@ Kerry Baptiste 18, Kerry Baptiste 52, Kerry Baptiste 78, Lyndon Andrews 63, Kend
 
 * NB: Helenites (Groveplace) moved to Group D after withdrawal  Newtown United
 
-Group: Group C
+Group: C
 
 11/4/2007; SAP; 3-3; Inter Monegotapoe
 Karanjan Mack 36, Daniel Mckel 38, Michael Murray 72; Claudio Pinas 16, Claudio Pinas 64, Ricardo Meiedjan 52
@@ -1553,7 +1565,7 @@ Alberto Zapata 7, Noah Delgado 14, Petter Villegas 17, Fabrice Noel 89, Alberto 
 Loxley Thomas 11, Fabian Taylor 35, Fabian Taylor 55, Jermaine Hue 45, Kavin Bryan 51, Kavin Bryan 84, Kavin Bryan 90, Richard Edwards 70, Kamar Peterkin 72, Keith Kelly 82;
 
 
-Group: Group D
+Group: D
 
 11/4/2007; Portmore United; 2-0; Helenites
 Anthony Modeste 2, Rudolph Austin 46; 
@@ -1564,7 +1576,7 @@ Anthony Modeste 2, Rudolph Austin 46;
 11/8/2007; Portmore United; 3-0; Leo Victor
 Steven Morrissey 28, Onandi Lowe 41, Wolry Wolfe 75; 
 
-Group: Group E
+Group: E
 
 11/4/2007; Pinar del Rio; 5-1; Jong Colombia
 Yisel Gutierrez 4, Yisel Gutierrez 11, Reinier Nunez 24, Jiswel Izaguirre 30, Manuel Martinez 79; Djarston Torbed 22
@@ -1607,6 +1619,7 @@ Round: Caribbean Semifinals
 ; Gregory Richardson 80
 
 Round: Final 
+Group: 
 
 11/16/2007; Joe Public; 1-2; Harbour View
 Kerry Baptiste 16; Fabian Taylor 21, Kavin Bryan 23

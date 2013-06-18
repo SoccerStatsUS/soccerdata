@@ -1,8 +1,9 @@
 Competition: Liga MX
 Season: 1988-1989
 BlockSource: http://www.rsssf.com/tablesm/mex89.html
+home-first
 
-Round: Week 1
+Round: 1
 Date: 10/15/1988
 
 ; U de G; 2-8; Atlas 
@@ -19,7 +20,7 @@ Date: 10/16/1988
 ; Tampico Madero; 3-1; Atlante 
 ; Santos Laguna; 1-1; Atletico Morelia 
 
-Round: Week 2
+Round: 2
 Date: 10/21/1988
 
 ; Necaxa; 3-0; Tampico Madero 
@@ -39,7 +40,7 @@ Date: 10/23/1988
 ; Santos Laguna; 2-1; UANL 
 ; Irapuato; 1-0; Puebla 
 
-Round: Week 3
+Round: 3
 Date: 10/28/1988
 
 ; UNAM; 3-0; Cobras 
@@ -59,7 +60,7 @@ Date: 10/30/1988
 ; Irapuato; 2-0; Monterrey 
 ; Puebla; 4-1; Atletico Morelia 
 
-Round: Week 4
+Round: 4
 Date: 11/4/1988
 
 ; Atlante; 1-0; Toluca 
@@ -79,7 +80,7 @@ Date: 11/6/1988
 ; Santos Laguna; 1-0; Guadalajara 
 ; Atletico Morelia; 4-2; UANL 
 
-Round: Week 5
+Round: 5
 Date: 11/11/1988
 
 ; Club America; 0-2; Atlante 
@@ -102,7 +103,7 @@ Date: 11/15/1988
 
 ; UNAM; 2-0; Atlas 
 
-Round: Week 6
+Round: 6
 Date: 11/18/1988
 
 ; Atlante; 2-1; UAT 
@@ -122,7 +123,7 @@ Date: 11/20/1988
 ; Santos Laguna; 2-1; Toluca 
 ; Atletico Morelia; 3-2; Guadalajara 
 
-Round: Week 7
+Round: 7
 Date: 11/25/1988
 
 ; Club America; 2-1; Santos Laguna 
@@ -142,7 +143,7 @@ Date: 11/27/1988
 ; Cobras; 0-0; UAG 
 ; Irapuato; 3-0; Atlético Potosino 
 
-Round: Week 8
+Round: 8
 Date: 12/2/1988
 
 ; Atlante; 3-1; Irapuato 
@@ -162,7 +163,7 @@ Date: 12/4/1988
 ; Santos Laguna; 1-0; UAT 
 ; Atletico Morelia; 3-3; Toluca 
 
-Round: Week 9
+Round: 9
 Date: 12/9/1988
 
 ; UAG; 3-0; Atlas 
@@ -182,7 +183,7 @@ Date: 12/11/1988
 ; Cobras; 0-0; Atlético Potosino 
 ; Irapuato; 0-0; Necaxa 
 
-Round: Week 10
+Round: 10
 
 Date: 12/16/1988
 
@@ -203,7 +204,7 @@ Date: 12/18/1988
 ; Tampico Madero; 7-2; Toluca 
 ; Atletico Morelia; 1-1; UAT 
 
-Round: Week 11
+Round: 11
 Date: 12/21/1988
 
 ; Atlas; 4-1; Atlético Potosino 
@@ -223,7 +224,7 @@ Date: 12/23/1988
 
 ; UNAM; 0-0; Atletico Morelia 
 
-Round: Week 12
+Round: 12
 Date: 12/28/1988
 
 ; Cruz Azul; 2-2; Monterrey 
@@ -243,7 +244,7 @@ Date: 12/30/1988
 ; Atlético Potosino; 2-2; Puebla 
 ; Atletico Morelia; 1-1; Irapuato 
 
-Round: Week 13
+Round: 13
 Date: 1/6/1989
 
 ; UNAM; 3-9; Tampico Madero 
@@ -263,7 +264,7 @@ Date: 1/8/1989
 ; Cobras; 1-1; Cruz Azul 
 ; Irapuato; 0-2; UANL 
 
-Round: Week 14
+Round: 14
 Date: 1/13/1989
 
 ; Necaxa; 4-9; Atlético Potosino 
@@ -289,7 +290,7 @@ Date: 1/31/1989
 
 ; Tampico Madero; 2-0; Irapuato 
 
-Round: Week 15
+Round: 15
 Date: 1/20/1989
 
 ; UNAM; 1-1; U de G 
@@ -309,7 +310,7 @@ Date: 1/22/1989
 ; Cobras; 4-1; UANL 
 ; Irapuato; 1-1; Guadalajara 
 
-Round: Week 16
+Round: 16
 Date: 1/27/1989
 
 ; Necaxa; 1-0; Puebla 
@@ -329,7 +330,7 @@ Date: 1/29/1989
 ; Tampico Madero; 3-2; Cobras 
 ; Atletico Morelia; 3-2; Atlas 
 
-Round: Week 17
+Round: 17
 Date: 2/3/1989
 
 ; UNAM; 1-2; Club America 
@@ -349,7 +350,7 @@ Date: 2/5/1989
 ; Irapuato; 1-3; Toluca 
 ; Atlético Potosino; 0-0; Atletico Morelia 
 
-Round: Week 18
+Round: 18
 Date: 2/10/1989
 
 ; Club America; 3-0; Irapuato 
@@ -369,7 +370,7 @@ Date: 2/12/1989
 ; Tampico Madero; 2-1; Atlas 
 ; Atletico Morelia; 1-0; Atlante 
 
-Round: Week 19
+Round: 19
 Date: 2/17/1989
 
 ; UNAM; 1-1; Puebla 
@@ -389,7 +390,7 @@ Date: 2/19/1989
 ; Cobras; 1-1; Toluca 
 ; Irapuato; 1-1; UAT 
 
-Round: Week 20
+Round: 20
 Date: 2/24/1989
 
 ; Atlante; 0-0; Tampico Madero 
@@ -409,7 +410,7 @@ Date: 2/26/1989
 ; Irapuato; 1-0; UNAM 
 ; Atletico Morelia; 0-0; Santos Laguna 
 
-Round: Week 21
+Round: 21
 Date: 3/1/1989
 
 ; Toluca; 2-1; Atlas 
@@ -426,7 +427,7 @@ Date: 3/2/1989
 ; Guadalajara; 2-1; Atlante 
 ; Tampico Madero; 2-1; Necaxa 
 
-Round: Week 22
+Round: 22
 Date: 3/4/1989
 
 ; Cruz Azul; 4-0; UANL 
@@ -446,7 +447,7 @@ Date: 3/8/1989
 
 ; Atlante; 2-1; U de G 
 
-Round: Week 23
+Round: 23
 Date: 3/10/1989
 
 ; Club America; 4-0; Atlético Potosino 
@@ -472,7 +473,7 @@ Sergio Lira (pk) 9, Mario Hernández 17, Eduardo Bacas 37, Reinaldo Güeldini 49
 
 ; Irapuato; 4-0; Cobras 
 
-Round: Week 24
+Round: 24
 Date: 3/17/1989
 
 ; Necaxa; 0-0; Toluca 
@@ -492,7 +493,7 @@ Date: 3/19/1989
 ; Cobras; 2-2; Monterrey 
 ; Atletico Morelia; 1-0; Tampico Madero 
 
-Round: Week 25
+Round: 25
 Date: 3/22/1989
 
 ; Club America; 0-2; Necaxa 
@@ -513,7 +514,7 @@ Date: 3/26/1989
 ; Irapuato; 1-0; Atlas 
 ; Guadalajara; 2-1; Atletico Morelia 
 
-Round: Week 26
+Round: 26
 Date: 3/31/1989
 
 ; Necaxa; 3-1; UAT 
@@ -533,7 +534,7 @@ Date: 4/2/1989
 ; Santos Laguna; 1-2; Club America 
 ; Atletico Morelia; 1-2; U de G 
 
-Round: Week 27
+Round: 27
 Date: 4/5/1989
 
 ; UAT; 0-0; Santos Laguna 
@@ -553,7 +554,7 @@ Date: 4/12/1989
 
 ; Toluca; 1-0; Atletico Morelia 
 
-Round: Week 28
+Round: 28
 Date: 4/8/1989
 
 ; Cruz Azul; 3-2; UAT 
@@ -573,7 +574,7 @@ Date: 4/10/1989
 
 ; Necaxa; 2-0; Irapuato 
 
-Round: Week 29
+Round: 29
 Date: 4/14/1989
 
 ; Club America; 4-0; UANL 
@@ -593,7 +594,7 @@ Date: 4/16/1989
 ; Irapuato; 3-2; Santos Laguna 
 ; UAT; 3-2; Atletico Morelia 
 
-Round: Week 30
+Round: 30
 Date: 4/21/1989
 
 ; Necaxa; 1-1; Cobras 
@@ -619,7 +620,7 @@ Date: 5/10/1989
 ; Tampico Madero; 2-0; Club America 
 Notes: Continuation of a game abandoned due to crow trouble on 4/22.
 
-Round: Week 31
+Round: 31
 Date: 4/28/1989
 
 ; UAG; 2-3; Necaxa 
@@ -639,7 +640,7 @@ Date: 4/30/1989
 ; UAT; 2-2; Tampico Madero 
 ; Irapuato; 1-1; Atletico Morelia 
 
-Round: Week 32
+Round: 32
 Date: 5/5/1989
 
 ; Atlante; 1-0; Atlético Potosino 
@@ -659,7 +660,7 @@ Date: 5/7/1989
 ; Santos Laguna; 1-1; UAG 
 ; Atletico Morelia; 1-1; Monterrey 
 
-Round: Week 33
+Round: 33
 Date: 5/12/1989
 
 ; UAG; 1-4; Cruz Azul 
@@ -679,7 +680,7 @@ Date: 5/14/1989
 ; UAT; 0-1; U de G 
 ; Irapuato; 1-2; Tampico Madero 
 
-Round: Week 34
+Round: 34
 Date: 5/19/1989
 
 ; Club America; 0-1; Puebla 
@@ -699,7 +700,7 @@ Date: 5/21/1989
 ; Santos Laguna; 3-1; Atlético Potosino 
 ; Atletico Morelia; 4-2; UAG 
 
-Round: Week 35
+Round: 35
 Date: 5/26/1989
 
 ; UAG; 1-1; UANL 
@@ -719,7 +720,7 @@ Date: 5/28/1989
 ; UAT; 0-0; Club America 
 ; Irapuato; 4-2; U de G 
 
-Round: Week 36
+Round: 36
 Date: 6/3/1989
 
 ; Cruz Azul; 0-3; Atlante 
@@ -736,7 +737,7 @@ Date: 6/4/1989
 ; Santos Laguna; 0-0; Necaxa 
 ; Atletico Morelia; 4-0; Atlético Potosino 
 
-Round: Week 37
+Round: 37
 Date: 6/9/1989
 
 ; UAG; 1-1; Guadalajara 
@@ -756,7 +757,7 @@ Date: 6/11/1989
 ; Irapuato; 1-1; Club America 
 ; Santos Laguna; 1-4; Puebla 
 
-Round: Week 38
+Round: 38
 Date: 6/17/1989
 
 ; Cruz Azul; 1-0; Santos Laguna 

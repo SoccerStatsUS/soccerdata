@@ -39,7 +39,7 @@ Season: 1970-1971
 Season: 1971-1972
 
 
-Group: Group 1
+Group: 1
      
 ;Comunicaciones     ;0-0; Atletico Marte
 ;Cementos Novella   ;3-3; Comunicaciones
@@ -73,7 +73,7 @@ Group: Group 1
 ;Herediano          ;2-2; Cementos Novella
 
 
-Group: Group 2
+Group: 2
         
 ;Aurora             ;0-1; Universidad
 ;Alianza            ;2-0; Puntarenas
@@ -371,7 +371,7 @@ Round: Triangular Final
 
 Season: 1979
 
-Group: Group 1
+Group: 1
 
 ;Aurora             ;1-0; Municipal
 ;Olimpia            ;1-1; Motagua
@@ -410,7 +410,7 @@ Round: Playoff
 * [abandoned at 1-1 during second half of extra time; awarded 2-0]
 
 
-Group: Group 2
+Group: 2
 
 ;Comunicaciones     ;1-0; Coban Imperial
 ;Atletico Marte     ;2-2; Deportivo FAS
@@ -560,22 +560,19 @@ Round: Final
 
 Season: 1983
 
-
-Group: Group 1
+Group: 1
       
 ;Comunicaciones     ;1-0; Once Lobos
 ;Suchitepequez      ;0-0; Once Lobos
 ;Comunicaciones     ;1-1; Suchitepequez
 
-
-Group: Group 2
+Group: 2
 
 ;Saprissa           ;1-4; Aurora
 ;Aurora             ;1-0; Independiente
 ;Saprissa           ;1-1; Independiente
 
-
-Group: Group 2
+Group: 3
        
 ;Atletico Marte     ;1-1; Herediano
 
@@ -598,14 +595,14 @@ Round: First Place Playoff
 Season: 1984
 
 
-Group: Group 1
+Group: 1
       
 ;Once Lobos         ;1-1; Comunicaciones
 ;Once Lobos         ;1-1; Independiente
 ;Comunicaciones     ;3-4; Independiente
 
        
-Group: Group 2
+Group: 2
        
 ;Suchitepequez      ;2-0; Finanzas Industriales
 ;Deportivo FAS      ;2-1; Finanzas Industriales
@@ -613,7 +610,7 @@ Group: Group 2
 
 * Suchitepequez winners, possibly after playoff
 
-Group: Group 3
+Group: 3
 
 ;Aguila             ;0-1; Aurora
 ;Aurora             ;2-0; Aguila
