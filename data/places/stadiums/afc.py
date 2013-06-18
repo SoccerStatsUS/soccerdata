@@ -51,11 +51,19 @@ l = [
         'capacity': 50000,
         },
 
+
     {
         'name': 'Home\'s Stadium Kobe',
         'location': 'Kobe, Japan',
         'opened': 2001,
-        'capacity': 3032
+        'capacity': 30132,
+        },
+
+    {
+        'name': 'Kobe Universiade Memorial Stadium',
+        'location': 'Kobe, Japan',
+        'opened': 1985,
+        'capacity': 45000,
         },
 
     {

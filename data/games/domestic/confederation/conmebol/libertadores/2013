@@ -2,7 +2,7 @@ BlockSource: http://en.wikipedia.org/wiki/2013_Copa_Libertadores_Second_Stage
 Competition: Copa Libertadores
 Season: 2013
 
-Round: First Stage
+Round: Preliminary
 
 1/22/2013; Tigre; 2-1; Deportivo Anzoategui; Estadio Jose Dellagiovanna
 1/29/2013; Deportivo Anzoategui; 0-3; Tigre; Estadio Jose Antonio Anzoategui; Martin Vazquez
@@ -22,7 +22,7 @@ Round: First Stage
 1/22/2013; Leon; 1-1; Iquique; Estadio Leon; Heber Lopes
 1/29/2013; Iquique; 1-1; Leon; Estadio Tierra de Campeones; Antonio Arias
 
-Round: Second Stage
+Round: Group
 Group: Group 1
 
 2/12/2013; Nacional; 2-2; Barcelona (Ecuador); Estadio Gran Parque Central; Enrique Osses
@@ -184,6 +184,7 @@ Group: Group 8
 4/18/2013; Fluminense; 1-0; Caracas FC; Estadio Olimpico Joao Havelange; Nestor Pitana; 12158
 
 Round: Round of 16
+Group: 
 
 5/2/2013; Sao Paulo FC; 1-2; Atletico Mineiro; Estadio do Morumbi; Antonio Arias
 5/8/2013; Atletico Mineiro; v; Sao Paulo FC; Estadio Independencia, Belo Horizonte

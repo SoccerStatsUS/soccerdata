@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/sacups/copa08.html
 Competition: Copa Libertadores
 Season: 2008
 
-Round: Preliminary Round 
+Round: Preliminary
 
 1/29/2008; Arsenal (Argentina); 2-0; Mineros de Guayana; Estadio Julio Humberto Grondona; Enrique Osses; 2431
 José Luis Calderón 41, Luciano Leguizamón 78;
@@ -41,8 +41,8 @@ Marcelo Broli 80;
 Minutes: 65
 Notes: 2nd leg abandoned at 2-3 in 65' due to crowd trouble; result stood
 
-Round: Group Stage 
-Group: Group 1
+Round: Group
+Group: 1
 
 2/12/2008; Caracas FC; 2-0; San Lorenzo; Olimpico da UCV; Albert Duarte; 12077
 Ronald Vargas 40, Rafael Castellín 70;
@@ -85,7 +85,7 @@ Gonzalo Bergessio 16, Vicente Rosales (og) 35, Andrés Silvera 78;
 * 3.Caracas FC                      6  2  1  3   6-11  7
 * 4.Real Potosí                     6  2  0  4  11-11  6
 
-Group: Group 2
+Group: 2
 
 2/12/2008; Deportivo Cuenca; 1-0; Estudiantes; Estadio Alejandro Serrano Aguilar; Ruben Selman; 12527        
 Mauricio Ferradas 45+1;
@@ -125,7 +125,7 @@ Leandro Lázzaro 11, Polo Wila (og) 87;
 * 3.Deportivo Cuenca                6  1  3  2   2- 5  6
 * 4.Danubio (Montevideo)            6  1  1  4   5- 9  4
 
-Group: Group 3 
+Group: 3 
 
 2/20/2008; UA Maracaibo; 1-1; Boca Juniors; Estadio Jose Romero; Carlos Torres; 40112
 Miguel Mea Vitali 80; Sebastián Battaglia 83
@@ -168,7 +168,7 @@ Gabriel Paletta 9, Jesús Dátolo 20, Juan Román Riquelme 73;
 * 3.Colo Colo                       6  3  1  2  11- 9 10
 * 4.Unión Atlético Maracaibo        6  0  2  4   3-13  2
 
-Group: Group 4 
+Group: 4 
 
 2/13/2008; Coronel Bolognesi; 0-0; Flamengo; Estadio Jorge Basadre; Mauricio Reinoso; 7756
 
@@ -209,7 +209,7 @@ Martín Ligüera 38, Mathías Cardaccio 54, Diego Vera 90+2;  Cristian Guevara 8
 * 3.Cienciano                       6  2  1  3   5- 9  7
 * 4.Coronel Bolognesi               6  0  2  4   0- 5  2
  
-Group: Group 5 
+Group: 5 
 
 2/13/2008; Universidad San Martín; 2-0; River Plate; Estadio Monumental, Lima; Leonardo Gaciba; 14641
 Roberto Ovelar 14, Jose Luis Diaz 90;
@@ -253,7 +253,7 @@ Sebastián Abreu 14, Sebastian Abreu 51, Sebastian Abreu 90+1, Radamel Falcao Ga
 * 3.Universidad Catolica            6  3  0  3   6- 6  9
 * 4.Universidad San Martín          6  2  0  4   4-10  6
 
-Group: Group 6 
+Group: 6 
 
 2/13/2008; Cúcuta Deportivo; 0-0; Santos; Estadio General Santander; Victor Rivera; 23269
 
@@ -294,7 +294,7 @@ Kléber Boas 68, Mariano Trípodi 88; Lin Carlos Henry 22
 * 3.Guadalajara                     6  3  0  3   8- 5  9
 * 4.San José (Oruro)                6  1  1  4   4-17  4
  
-Group: Group 7 
+Group: 7 
 
 2/19/2008; Audax Italiano; 1-2; Sportivo Luqueño; Estadio Monumental David Arellano; Heber Lopes; 2428     
 Miguel Angel Romero 11; Rober Servín 9, Luis Núñez 72
@@ -338,7 +338,7 @@ Alex Silva 38;
 * 3.Sportivo Luqueño                6  2  1  3   8-10  7
 * 4.Audax Italiano                  6  2  1  3   6- 9  7
 
-Group: Group 8  
+Group: 8  
 
 2/20/2008; Arsenal (Argentina); 1-0; Libertad; Estadio Julio Humberto Grondona; Salvio Fagundes; 1894                  Luciano Leguizamón 78;
 
@@ -378,7 +378,8 @@ Cícero 30;
 * 3.Arsenal (Buenos Aires)          6  3  0  3   6-14  9
 * 4.Libertad                        6  1  0  5   5-10  3
 
-Round: Second Round 
+Round: Round of 16
+Group: 
 
 4/29/2008; Lanus; 0-1; Atlas; Estadio Ciudad de Lanus; Victor Hugo Rivera; 6104
 ; Bruno Marioni 37

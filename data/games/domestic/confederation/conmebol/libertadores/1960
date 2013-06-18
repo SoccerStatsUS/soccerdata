@@ -1,13 +1,12 @@
 BlockSource: http://www.rsssf.com/sacups/copa60det.html
 * http://en.wikipedia.org/wiki/1960_Copa_Libertadores
-
 Competition: Copa Libertadores
 Season: 1960
 
 *Teams: Peñarol (Uruguay), Millonarios (Colombia), Olimpia (Paraguay), San Lorenzo (Argentina), Esporte Clube Bahia (Brasil), Jorge Wilstermann (Bolivia), Universidad de Chile (Chile). The champion national teams of Ecuador, Peru and Venezuela did not participate in the first edition.
  
-Round: First Round
-Group: Group A
+Round: 1
+Group: A
 * Group A (Argentina, Brasil)
 
 4/20/1960; San Lorenzo; 3-0; EC Bahia; Palacio Duco; Esteban Marino; 10000
@@ -22,7 +21,7 @@ EC Bahia: Nadinho, Leone, Henrique Santos, Beto, Flavio Santos, Nelzinho, Marito
 San Lorenzo: Vladimir Tarnawski, Cancino, Iñigo, Castillo, Reynoso, Ravecca, Hector Facundo (Benitez), Ruiz, Oscar Rossi, José Francisco Sanfilippo, Norberto Boggio.
  
 * Group B (Uruguay, Bolivia)
-Group: Group B
+Group: B
 
 4/19/1960; Penarol; 7-1; Jorge Wilstermann; Estadio Centenario; Carlos Robles; 35000
 Spencer, Spencer, Spencer, Spencer, Borges, Borges, Luis Cubilla; M. Alcólcer
@@ -35,7 +34,7 @@ Jorge Wilstermann: Zamorano, Vargas, Trujillo, Claure, Rocabado, Zabalaga, Soria
 Penarol: Maidana, William Martinez, Salvador, Pino, Nestor Goncálvez, Aguerre, Luis Cubilla, Linazza, Alberto Spencer (Leicht), Pedra, Borges.
 
 *Group C (Chile, Colombia)
-Group: Group C
+Group: C
 
 5/8/1960; Universidad de Chile; 0-6; Millonarios; Estadio Nacional, Santiago, Chile; Juan Carlos Armental; 18000
 ; Klinger, Klinger, Pizarro, Pizarro, Micheli, Larraz
@@ -48,6 +47,7 @@ Millonarios: Centurion, Moyano, Bolla, Zuluaga, J. Ramirez Gallego, R. Diaz, Orl
 Universidad de Chile: Astorga, Eyzaguirre, Villanueva, Navarro, Contreras, Sepulveda, O. Diaz, Alvarez, Campos, Leonel Sanchez, Ibarra (Musso).
  
 Round: Semifinals
+Group:
 
 5/18/1960; Penarol; 1-1; San Lorenzo; Estadio Centenario; Carlos Robles; 55000
 Linazza; Boggio

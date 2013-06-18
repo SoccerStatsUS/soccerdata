@@ -2,10 +2,10 @@ BlockSource: http://www.rsssf.com/sacups/copa82.html
 Competition: Copa Libertadores
 Season: 1982
 
-Round: First Round
+Round: 1
 * Flamengo (Rio de Janeiro) bye to the second round as holders.
 
-Group: Group 1 
+Group: 1 
 * [Argentina, Bolivia]
 
 6/30/1982; Jorge Wilstermann; 1-0; Boca Juniors      
@@ -28,7 +28,7 @@ Notes: [*] finished 1-0 to The Strongest, but points were awarded to River Plate
 * 3.Boca Juniors (Buenos Aires)     6  1  2  3  3- 5  4
 * 4.Jorge Wilstermann (Cochabamba)  6  1  2  3  5- 9  4
 
-Group: Group 2 
+Group: 2 
 * [Brazil, Uruguay]
 
 8/5/1982; Peñarol; 3-0; Defensor                    
@@ -49,7 +49,7 @@ Group: Group 2
 * 3.Grêmio (Porto Alegre)           6  1  3  2  6- 6  5
 * 4.Defensor (Montevideo)           6  1  2  3  4- 9  4
 
-Group: Group 3 
+Group: 3 
 * [Colombia, Venezuela]
 
 3/24/1982; Atlético Nacional; 0-3; Tolima            
@@ -70,7 +70,7 @@ Group: Group 3
 * 3.Estudiantes (Mérida)            6  1  2  3  3- 7  4
 * 4.Táchira (San Cristóbal)         6  0  3  3  2- 6  3
 
-Group: Group 4 
+Group: 4 
 *[Chile, Ecuador]
 
 3/7/1982; Barcelona (Ecuador); 4-1; LDU Quito                 
@@ -91,7 +91,7 @@ Group: Group 4
 * 3.LDU (Quito)                     6  1  2  3  8-12  4 
 * 4.Barcelona (Ecuador) (Guayaquil)           6  1  1  4  8-14  3
 
-Group: Group 5 
+Group: 5 
 * [Paraguay, Peru]
 
 3/13/1982; Mariano Melgar; 2-1; Deportivo Municipal  
@@ -113,7 +113,7 @@ Group: Group 5
 * 4.Deportivo Municipal (Lima)      6  0  0  6  3-12  0
 
 Round: Semi-Finals
-Group: Group 1
+Group: 1
 
 10/19/1982; Peñarol; 1-0  ; Flamengo                    
 10/22/1982; River Plate; 0-3; Flamengo                
@@ -126,7 +126,7 @@ Group: Group 1
 * 2.Flamengo (Rio de Janeiro)       4  2  0  2  7- 4  4
 * 3.River Plate (Buenos Aires)      4  0  0  4  5-13  0
 
-Group: Group 2
+Group: 2
 
 10/17/1982; Tolima; 1-0; Cobreloa                     
 10/21/1982; Tolima; 1-1; Olimpia (Paraguay)                      
@@ -140,6 +140,7 @@ Group: Group 2
 * 3.Tolima (Ibagué)                 4  1  1  2  2- 6  3
 
 Round: Final 
+Group:
 
 11/26/1982; Penarol; 0-0; Cobreloa; Centenario; Assis de Aragao; 55248
 Penarol: G. Fernández, W. Olivera, N. Gutiérrez, V. Diogo, Bossio, J.V. Morales, V. Ramos, Saralegui, F. Morena, Jair Gonçalves, W. Silva (D. Rodríguez).

@@ -15,6 +15,7 @@ def get_place(s):
 
 
 places = {
+    'Universiad Memorial Stadium, Kobe, Japan': 'Kobe Universiade Memorial Stadium',
     'Nuevo Estadio, Elche': 'Estadio Manuel Martínez Valero',
     'Estadio Universitario, Monterrey': 'Estadio Universitario de Monterrey',
     'San Juan, PR': 'San Juan, Puerto Rico',

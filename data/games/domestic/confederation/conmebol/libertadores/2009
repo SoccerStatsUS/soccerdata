@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/sacups/copa09.html
 Competition: Copa Libertadores
 Season: 2009
 
-Round: Preliminary Round 
+Round: Preliminary
 
 1/27/2009; El Nacional; 0-5; Nacional; Estadio Olimpico Atahualpa; Jose Buitrago; 6757
 ; Raúl Román 50, Jorge Núñez 55, Jorge Nunez 85, Ramón Cáceres 70, Marcos Melgarejo 87
@@ -39,10 +39,10 @@ Keirrison 3, Keirrison (pk) 20, Diego Suoza 39, Cleiton Xavier 58, Edmilson 90+1
 2/4/2009; Real Potosi; 0-2; Palmeiras; Estadio Victor Agustin Ugarte; Carlos Galeano; 3055
 ; Cleiton Xavier 29, Keirrison 74
 
-Round: Group Stage 
+Round: Group
 * (2/11-4/29) 
 
-Group: Group 1
+Group: 1
 
 2/17/2009; LDU (Quito); 3-2; Palmeiras; Estadio de LDU; Wilmar Roldan
 Walter Calderón 23, Walter Calderon 34, Damián Manso 58; Willians 28, Edmilson 46
@@ -85,7 +85,7 @@ Carlos Espínola 2, Danny Vera 41; Andrade 23, Andrade 77, Igor 58
 * 3.Colo Colo (Santiago)            6  2  1  3   9- 7  7
 * 4.LDU (Quito)                     6  1  1  4   6-13  4
 
-Group: Group 2
+Group: 2
 
 2/10/2009; Guaraní; 1-2; Deportivo Táchira; Estadio General Pablo Rojas; Diego Abal           
 Pedro Chávez 37; Gerson Chacón 41, Edgar Pérez 79
@@ -129,7 +129,7 @@ Osvaldo Díaz 54; Rodrigo Teixeira 2
 * 3.Dep. Táchira (San Cristóbal)    6  3  0  3   6- 9  9
 * 4.Guaraní (Asunción)              6  0  1  5   5-15  1
 
-Group: Group 3 
+Group: 3 
 
 2/12/2009; River Plate; 1-0; Nacional (Asunción); El Monumental; Heber Lopes; 17673
 Diego Buonanotte 90;
@@ -175,7 +175,7 @@ Gustavo Bou 17, Rubens Sambueza 41, Diego Barrado 60;
 * 3.River Plate (Buenos Aires)      6  2  1  3   7- 9  7
 * 4.Nacional (Asunción)             6  1  1  4   7-12  4
 
-Group: Group 4 
+Group: 4 
 
 2/10/2009; Defensor Sporting; 1-0; America Cali; Estadio Centenario; Enrique Osses; 12734
 Pablo Gaglianone 38;
@@ -215,7 +215,7 @@ Dagoberto 57, Dagoberto 76; Wilmer Parra 8
 * 3.Independiente Medellín          6  1  4  1   7- 7  7
 * 4.America Cali                  6  0  3  3   3- 7  3
 
-Group: Group 5 
+Group: 5 
 
 2/12/2009; Universitario (Sucre); 1-1; Deportivo Quito; Estadio Olimpico Patria; Manuel Garay    
 Marcelo Gomes 51; Mauricio Donoso 68
@@ -257,7 +257,7 @@ Léo Fortunato 14, Wágner 26;
 * 3.Deportivo Quito                 6  2  2  2   6- 9  8
 * 4.Universitario (Sucre)           6  0  2  4   2- 8  2
 
-Group: Group 6 
+Group: 6 
 
 2/11/2009; Lanús; 1-1; Guadalajara; Estadio Ciudad de Lanus; Roberto Silvera; 4885
 José Sand 90+3; Sergio Avila 33
@@ -299,7 +299,7 @@ Iván Macalik 39; Darío Figueroa 30
 * 3.Everton (Viña del Mar)          6  2  2  2   7-10  8
 * 4.Lanús (Buenos Aires)            6  0  4  2   5- 8  4
 
-Group: Group 7 
+Group: 7 
 
 2/10/2009; Aurora (Bolivia); 0-3; Boyacá Chicó; Estadio Felix Capriles; Victor Hugo Carrillo                 
 ; Anthony Tapia 44, Anthony Tapia 79, Juan Mahecha 90+1
@@ -341,7 +341,7 @@ Souza 13, Souza 17, Leo 30;
 * 3.Boyacá Chicó (Bogotá)           6  3  0  3   8- 8  9
 * 4.Aurora (Cochabamba)             6  0  0  6   3-15  0
 
-Group: Group 8  
+Group: 8  
 
 2/11/2009; San Lorenzo de Almagro; 4-1; San Luis; Estadio Pedro Bidegain; Leonardo Gaciba
 Andrés Silvera 3, Andres Silvera 16, Gonzalo Bergessio 31, Pablo Barrientos 49; Víctor Lojero 70
@@ -383,7 +383,8 @@ Ronaille Calheira (og) 21, Alejandro Gómez 24;
 * 3.Universitario (Lima)            6  2  2  2   6- 7  8
 * 4.San Lorenzo de Almagro          6  2  0  4   6- 7  6
 
-Round: Second Round 
+Round: Round of 16
+Group: 
 
 5/5/2009; Palmeiras; 1-0; Sport (Recife); Estadio Palestra Italia; Sergio Pezzotta; 23991
 José Ortigoza 74;

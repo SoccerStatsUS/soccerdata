@@ -2,10 +2,9 @@ BlockSource: http://www.rsssf.com/sacups/copa04.html
 Competition: Copa Libertadores
 Season: 2004
 
-Round:  Group Stage 
 * (2/3-4/21)
-
-Group: Group 1
+Round: Group
+Group: 1
 
 2/5/2004; São Caetano; 4-2; The Strongest           
 Somália 16, Gilberto 44, Marcinho 52, Anderson Lima 57; Francisco Ferreira 51, Limberg Méndez 70
@@ -47,7 +46,7 @@ Carlos Bueno 84, Carlos Bueno 92;
 * 3.Peñarol (Montevideo)            6  2  2  2   9- 7  8
 * 4.The Strongest (La Paz)          6  1  1  4   4-14  4
 
-Group: Group 2
+Group: 2
 
 2/10/2004; Vélez Sarsfield; 1-1 ; UA Maracaibo        
 Carlos García (og) 90; Enrique Colliard 62
@@ -90,7 +89,7 @@ Federico Guerra 44, José Carini 58; Jonathan Fabbro 69, Jonathan Fabbro 77
 * 3.Vélez Sarsfield (Buenos Aires)  6  2  1  3   7- 9  7
 * 4.Fénix (Montevideo)              6  1  2  3   6-10  5
 
-Group: Group 3
+Group: 3
 
 2/3/2004; Santos Laguna; 2-2 ; Universidad de Concepción   
 Héctor Altamirano 2, José Antonio Noriega 8; Ricardo Viveros 44, Luis Pedro Figueroa 82
@@ -133,7 +132,7 @@ Esteban Paredes 6, Esteban Paredes 14; Matías Vuoso 3, Jared Borgetti 55
 * 3.Caracas FC                      6  2  0  4   8-12  6
 * 4.Universidad de Concepción       6  0  2  4   7-16  2
 
-Group: Group 4
+Group: 4
 
 2/10/2004; Cobreloa; 0-2; LDU Quito                  
 ; Alex Aguinaga 52, Elkin Murillo 92
@@ -176,7 +175,7 @@ Elkin Murillo 8, Elkin Murillo 28, Néicer Reasco 29, Juan Angel Paredes 32, Car
 * 3.Alianza Lima                    6  3  0  3   6- 8  9
 * 4.Cobreloa (Calama)               6  0  0  6   3-15  0
 
-Group: Group 5
+Group: 5
 
 2/12/2004; El Nacional; 0-0; Nacional                
 
@@ -217,7 +216,7 @@ Alexander Medina 36, Alexander Medina (pk) 75, Luis Romero 53; Félix Borja 37, 
 * 3.Cienciano (Cuzco)               6  2  1  3  10-12  7
 * 4.El Nacional (Quito)             6  1  2  3   6- 9  5
 
-Group: Group 6
+Group: 6
 
 2/3/2004; Libertad; 0-0; Deportes Tolima            
 
@@ -258,7 +257,7 @@ Oscar Passo 6, John Charria 64, Henry Zambrano 76; Gustavo Morínigo (pk) 28, Gu
 * 3.Deportes Tolima (Ibagué)        6  1  2  3   6- 9  5
 * 4.Libertad (Asunción)             6  1  2  3   5-10  5
 
-Group: Group 7
+Group: 7
 
 2/4/2004; Guaraní; 0-0; Barcelona (Ecuador)                   
 
@@ -299,7 +298,7 @@ Dany Vera 42, Dany Vera 73;
 * 3.Guarani (Asunción)              6  1  3  2   6- 7  6
 * 4.Jorge Wilstermann (Cochabamba)  6  0  2  4   5-17  2
 
-Group: Group 8
+Group: 8
 
 2/3/2004; Colo Colo; 2-3; Deportivo Cali            
 Manuel Neira 43, Manuel Neira 87; Máyer Candelo 23, Alvaro Domínguez 41, Carlos Castillo 55
@@ -342,7 +341,7 @@ Carlos Castillo 45, Tressor Moreno 70, Oscar Diaz 75; Marco Millape 83
 * 3.Bolívar (La Paz)                6  3  0  3   7- 9  9
 * 4.Colo Colo (Santiago)            6  2  0  4   6-10  6
 
-Group: Group 9
+Group: 9
 
 2/5/2004; Olimpia (Paraguay); 0-2; Rosario Central             
 ; Gonzalo Belloso 64, Germán Herrera 78
@@ -393,7 +392,8 @@ Anderson Lima 8, Marcinho (pk) 30pen; Jairo Castillo 6, Hernán Franco 72
 4/29/2004; Barcelona (Ecuador); 6-1; UA Maracaibo
 Iván Kaviedes (pk) 38, Ivan Kaviedes 41, Ivan Kaviedes 45, Rodrigo Texeira 70, Danny Vera 78, Angel Escobar 89; Rodrigo Riep 10
 
-Round: Second Round 
+Round: 2
+Group:
 
 5/4/2004; Santos Laguna; 0-1; River Plate
 ; Cristián Tula 58

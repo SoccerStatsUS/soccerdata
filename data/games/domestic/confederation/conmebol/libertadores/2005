@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/sacups/copa05.html
 Competition: Copa Libertadores
 Season: 2005
 
-Round: Preliminary Round 
+Round: Preliminary
 
 2/1/2005; Quilmes; 0-0; Colo Colo
 
@@ -39,8 +39,8 @@ Franklin Salas 55, Roberto Palacios 67, Álex Aguinaga 81;
 2/10/2005; Penarol; 4-1; LDU Quito
 Alfonso Obregón (og) 25, Pablo Gaglianone 45, Jean Jacques Pierre 70, Marcelo Tejera 90; Edison Mendez 21
 
-Round: Group Stage 
-Group: Group 1
+Round: Group
+Group: 1
 
 2/15/2005; Independiente Medellín; 2-2; Atlético Paranaense   
 Juan Diego González 83, Neider Morantes 90; Marcão 12, Denis Marques 52
@@ -83,7 +83,7 @@ Diego Alvarez 34, David Montoya 59;
 * 3.America Cali                  6  3  0  3   7- 7  9
 * 4.Libertad (Asunción)             6  2  0  4   8-11  6
 
-Group: Group 2
+Group: 2
 
 2/16/2005; Bolívar; 4-3; Santos FC                   
 Cristián Zermatten 1, Cristian Zermatten 52, Cristian Zermatten 85, Diego Cabrera 86; Deivid 24, Deivid 56, Robinho 89
@@ -126,7 +126,7 @@ Luis Rueda 51; Manuel Iturra 23
 * 3.Danubio (Montevideo)            6  2  1  3   9- 8  7
 * 4.Bolívar (La Paz)                6  2  1  3   8-14  7
 
-Group: Group 3
+Group: 3
 
 2/22/2005; Universidad de Chile; 3-2; Quilmes        
 Marco Olea 36, Waldo Ponce 45, Christian Martínez 90+2; Nelson Vivas 35, Diego Torres 58
@@ -168,7 +168,7 @@ Luis Rueda 51; Manuel Iturra 23
 * 3.Quilmes (Buenos Aires)          6  1  2  3   8-11  5
 * 4.The Strongest (La Paz)          6  1  2  3   6-10  5
 
-Group: Group 4
+Group: 4
 
 3/2/2005; Deportivo Táchira; 1-0; Santo Andre       
 Wilfredo Alvarado 14;
@@ -210,7 +210,7 @@ Sandro Gaúcho 34, Rodrigão 54, Rodrigao 62, Romerito Mendoça 58, Leandrinho 5
 * 3.Santo André EC                  6  2  2  2  11- 6  8
 * 4.Dtvo. Táchira (San Cristobal)   6  1  0  5   3-17  3
 
-Group: Group 5
+Group: 5
 
 2/15/2005; Nacional; 0-1; Atlético Junior            
 ; Martín Arzuaga 83
@@ -253,7 +253,7 @@ Martín Arzuaga 17, Martin Arzuaga 90+1, Hayder Palacio (pk) 85; Gonzalo Castro 
 * 3.Olmedo (Riobamba)               6  2  1  3  10-11  7
 * 4.Nacional (Montevideo)           6  1  0  5   7-12  3
 
-Group: Group 6
+Group: 6
 
 2/15/2005; Alianza Lima; 0-0; Tigres UANL            
 
@@ -294,7 +294,7 @@ Pablo Fernández 18, Diego Ceballos 57, Daniel Bilos 61; Gamadiel García 78
 * 3.Alianza Lima                    6  1  2  3   4- 7  5
 * 4.Caracas FC                      6  1  1  4   8-14  4
 
-Group: Group 7
+Group: 7
 
 2/16/2005; Cobreloa; 1-3; Guadalajara                
 Juan Luis González 90; Johnny García 11, Francisco Palencia 49, Omar Bravo 60
@@ -332,7 +332,7 @@ Ramón Morales 46, Adolfo Bautista (pk) 58, Adolfo Bautista 66; José Luis Díaz
 * 3.Cobreloa (Calama)               6  2  2  2   6- 7  8
 * 4.San Lorenzo (Buenos Aires)      6  0  3  3   1- 5  3
 
-Group: Group 8
+Group: 8
 
 2/16/2005; Sporting Cristal; 2-0; Pachuca CF         
 Carlos Zegarra 56, Luis Bonnet (pk) 84;
@@ -375,6 +375,7 @@ Sergio Santana 4, Jared Borgetti 37;
 * 4.Deportivo Cuenca                6  0  3  3   4- 9  3
 
 Round: Second Round
+Group:
 
 5/17/2005; LDU Quito; 2-1; River Plate
 Patricio Urrutia (pk) 35, Patricio Urrutia 71; Jairo Patiño 40

@@ -2,10 +2,10 @@ BlockSource: http://www.rsssf.com/sacups/copa68.html
 Competition: Copa Libertadores
 Season: 1968
 
-Round: First Round
+Round: 1
 *Racing Club (Avellaneda) bye to the semifinals as holders.
 
-Group: Group 1
+Group: 1
 
 1/27/1968; Independiente; 2-4; Estudiantes    
 2/4/1968; Millonarios; 1-2; Independiente     
@@ -28,7 +28,7 @@ Group: Group 1
 * Second Place Playoff (in Lima)
 3/6/1968; Independiente; 3-2; Deportivo Cali; Lima, Peru
 
-Group: Group 2
+Group: 2
 
 1/24/1968; Always Ready; 0-3; Universitario          
 1/24/1968; Jorge Wilstermann; 0-1; Sporting Cristal  
@@ -49,7 +49,7 @@ Group: Group 2
 * 3.Jorge Wilstermann (Cochabamba)  6  2  1  3  5- 8  5
 * 4.Always Ready (La Paz)           6  0  1  5  2-18  1
 
-Group: Group 3
+Group: 3
 
 2/4/1968; Emelec; 0-0; El Nacional                  
 2/11/1968; El Nacional; 2-1; Universidad Catolica          
@@ -71,7 +71,7 @@ Group: Group 3
 * 4.Universidad de Chile (Santiago) 6  1  1  4  6-10  3
 
 *Group 4 [Paraguay, Uruguay]
-Group: Group 4
+Group: 4
 
 2/2/1968; Peñarol; 1-0; Nacional         
 2/2/1968; Guaraní; 2-0; Libertad         
@@ -91,7 +91,7 @@ Group: Group 4
 * 3.Nacional (Montevideo)           6  2  2  2  9- 5  6
 * 4.Libertad (Asunción)             6  1  1  4  2-13  3
 
-Group: Group 5
+Group: 5
 
 1/21/1968; Deportivo Galicia; 2-0; Deportivo Portugués
 1/21/1968; Náutico; 1-3; Palmeiras                   
@@ -113,7 +113,7 @@ Group: Group 5
 * 4.Deportivo Galicia (Acarigua)    6  2  0  4  5- 7  4
 
 Round: Second Round
-Group: Group 1
+Group: 1
 
 3/14/1968; Universitario; 1-0; Estudiantes           
 3/21/1968; Universitario; 0-3; Independiente         
@@ -126,7 +126,7 @@ Group: Group 1
 * 2.Independiente (Avellaneda)      4  2  0  2  7- 3  4
 * 3.Universitario (Lima)            4  1  0  3  1- 7  2
 
-Group: Group 2
+Group: 2
 
 3/16/1968; Deportivo Portugués; 0-3; Peñarol         
 3/17/1968; Emelec; 0-2; Sporting Cristal             
@@ -146,7 +146,7 @@ Group: Group 2
 * 3.Emelec (Guayaquil)              6  1  1  4  3- 7  3
 * 4.Portugues (Caracas)             6  1  1  4  3-12  3
 
-Group: Group 3
+Group: 3
 
 3/13/1968; Universidad Catolica; 4-1; Guaraní      
 3/17/1968; Guaraní; 3-1; Universidad Catolica      
@@ -160,6 +160,7 @@ Group: Group 3
 * 3.Universidad Catolica (Santiago) 4  1  0  3  6- 9  2
 
 Round: Semifinals
+Group:
 
 4/18/1968; Estudiantes (Argentina); 3-0; Racing Club (Argentina); La Plata, Argentina
 

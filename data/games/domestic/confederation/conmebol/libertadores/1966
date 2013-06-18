@@ -2,10 +2,10 @@ BlockSource: http://www.rsssf.com/sacups/copa66.html
 Competition: Copa Libertadores
 Season: 1966
 
-Round: First Round
+Round: 1
 * Independiente (Avellaneda) bye to the second round as holders.
 
-Group: Group 1
+Group: 1
 
 2/5/1966; Universitario; 2-0; Alianza Lima
 Chumpitaz, Challe;
@@ -104,7 +104,7 @@ A.H. Rojas, A.H. Rojas;
 * 5.Alianza (Lima)                 10  2  0  8  9-16  4
 * 6.Deportivo Lara (Barquisimeto)  10  1  2  7  5-17  4
 
-Group: Group 2
+Group: 2
 
 2/27/1966; Olimpia (Paraguay); 3-3; Guarani
 Apocada, Torres, A. González; G. González, G. Gonzalez, Ivaldi
@@ -150,7 +150,7 @@ G. González, R. Martínez;
 3/23/1966; Guarani; 2-1; Olimpia (Paraguay)
 G.González, G. Gonzalez; A. González
 
-Group: Group 3
+Group: 3
 
 1/30/1966; Emelec; 2-1; Nueve de Octubre
 Pulido, Lencina; C. Fernández
@@ -249,7 +249,7 @@ A. García, A. Garcia, R.López;
 * 6.Nueve de Octubre (Milagro)     10  1  0  9 13-31  2
 
 Round: Semifinals
-Group: Group 1
+Group: 1
 
 3/30/1966; Guarani; 1-3; Boca Juniors
 G. González; Menéndez, Menendez, A.C. Rojas
@@ -296,7 +296,7 @@ A.H. Rojas;
 5/10/1966; River Plate; 2-1; Independiente
 D. Onega, Cubilla; Artime
 
-Group: Group 2
+Group: 2
 
 3/30/1966; Universidad Catolica; 1-0; Penarol
 Ibañez;
@@ -321,6 +321,7 @@ Rocha, Joya;
 * 3.Nacional (Montevideo)           4  1  0  3  3- 7  2
 
 Round: Final
+Group:
 
 5/12/1966; Penarol; 2-0; River Plate; Estadio Centenario; Goicoechea; 49000
 Abbadie 75, Joya 85;

@@ -6,15 +6,6 @@
 
 
 def get_name(name):
-    # Check slug names. - forget this, it's dumb.
-    """
-    try:
-        slug = slugify(name)
-    except:
-        slug = None
-    if slug in slugs:
-        name = slugs[slug]
-    """
 
     return _get_name(name)
 
@@ -45,117 +36,35 @@ def check_for_name_loops():
         raise Exception
 
 
-slugs = {
-
-    'flavio-conceicao': 'Flávio Conçeicão',
-    'ramon-nunez': 'Ramon Nunez',
-    'gabriel-gomez': 'Gabriel Gomez',
-    'julio-giron': 'Julio Giron',
-    'victor-cordero': 'Víctor Cordero',
-    'petur-petursson': 'Peter Petursson',
-    'mcateer': 'McAteer',
-    'jorge-villafana': 'Jorge Villafana',
-    'de-robertis': 'De Robertis',
-    'diego-gutierrez': 'Diego Gutierrez',
-    'mackay': 'MacKay',
-    'daguia': 'DaGuia',
-    'kovacs': 'Kovacs',
-    'joel-sanchez': 'Joel Sánchez',
-    'carlos-rodriguez': 'Carlos Rodriguez',
-    'mario-mayen': 'Mario Mayen',
-    'martin-machon': 'Martin Machon',
-    'martin-bonjour': 'Martin Bonjour',
-    'j-hugo': 'J. Hugo',
-    'oneill': 'O\'Neill',
-    'omar-gonzalez': 'Omar Gonzalez',
-    'nicolas-suazo-velazquez': 'Nicolas Suazo Velazquez',
-    #'capt': [<Bio: capt>, <Bio: Capt.>, <Bio: capt.>]
-    'jose-flores': 'Jose Flores',
-    'spaeth': 'Spaeth',
-    'tuffy-davis': 'Tuffy Davis',
-    'oswaldo-sanchez': 'Oswaldo Sanchez',
-    'jose-villegas': 'Jose Villegas',
-    'ramon-ramirez': 'Ramon Ramirez',
-    'vicente-garcia': 'Vicente Garcia',
-    'macfarlane': 'MacFarlane',
-    'blas-perez': 'Blas Perez',
-    'jaime-castrillon': 'Jaime Castrillon',
-
-    'jose-anthony-torres': 'José Anthony Torres',
-    'ron-dambrosia': 'Ron D\'Ambrosia',
-    'da-cunha': 'da Cunha',
-    'gonzalo-farfan': 'Gonzalo Farfan',
-    'macbay': 'MacBay',
-    'bjorn-runstrom': 'Bjorn Runstrom',
-    'rodrigo-ruiz': 'Rodrigo Ruiz',
-    'german-chavarria': 'German Chavarria',
-    'olafur-kristjansson': 'Olafur Kristjansson',
-    'jose-ze-roberto-gomes-santana': 'Jose Ze Roberto Gomez Santana',
-    'da-silva': 'da Silva',
-    'kim-kallstrom': 'Kim Kallstrom',
-    'j-dos-santos': 'J. Dos Santos',
-    'juan-pablo-angel': 'Juan Pablo Ángel',
-    'macpherson': 'MacPherson',
-    'austin-berry': 'Austin Berry',
-    'j-phillips': 'J. Phillips',
-    'braithwaite': 'Braithwaite',
-    'limberg-gutierrez': 'Limberg Gutierrez',
-    'winter': 'Winter',
-    'dario-veron': 'Dario Veron',
-    'camilo-zuniga': 'Camilo Zuniga',
-    'bernard-mullins': 'Bernard Mullins',
-    'de-la-torre': 'de la Torre',
-    'miguel-lopez': 'Miguel Lopez',
-    'josue-martinez': 'Josue Martinez',
-
-    'brett-rodriguez': 'Brett Rodriguez',
-    'saer-sene': 'Saer Sene',
-    'pablo-garcia': 'Pablo Garcia',
-    'italia': 'Italia',
-    'nico-muniz': 'Nico Muniz',
-    'w-dos-santos': 'W. dos Santos',
-    'demenezes': 'DeMenezes',
-
-    'thompson': 'Thompson',
-    'slone': 'Slone',
-    'joaquin-del-olmo': 'Joaquin del Olmo',
-    'hermogenes': 'Hermogenes',
-
-    'raul-gutierrez': 'Raul Gutierrez',
-    'victor-estupinan': 'Victor Estupinan',
-
-    'jacob-lensky': 'Jacob Lensky',
-    'ivan-leon': 'Ivan Leon',
-
-    'da-cruz': 'da Cruz',
-    'christian-jimenez': 'Christian Jimenez',
-
-    'sebastian-rincon': 'Sebastian Rincon',
-    'jr-thomas-kolba': 'Thomas Kolba Jr.',
-    'abe-matamoros': 'Abe Matamoros',
-    'crescencio-gutierrez': 'Crescencio Gutierrez',
-    }
-
-
 
 names = {}
 
 nonpeople = {
 
+    '?': 'Unknown',
+    'Unknown': 'unknown',
+
+    'ua': 'unassisted',
+    'Unassisted': 'unassisted',
+
     'pk': 'penalty kick',
     'PK': 'penalty kick', 
     'Penalty Kick': 'penalty kick',
     'penalty': 'penalty kick',
+    'Penalty kick': 'penalty kick',
+
+    'Free Kick': 'free kick',
+
     'Sent Off': 'sent off',
-    '?': 'Unknown',
+
     'og': 'Own Goal',
     'o.g.': 'Own Goal',
     'Own goal': 'Own Goal',
     'own goal': 'Own Goal',
-    'Unknown': 'unknown',
-    'Unassisted': 'unassisted',
-    'Free Kick': 'free kick',
-    'Penalty kick': 'penalty kick',
+
+
+
+
 }
 
 names.update(nonpeople)
@@ -168,6 +77,7 @@ names.update(nonpeople)
 
 
 last_names = {
+
     'Aviles': 'Avilés',
     'Benitez': 'Benítez',
     'Bergara': 'Bergará',
@@ -210,10 +120,59 @@ last_names = {
     'Maldonado.': 'Maldonado',
     'Espíndola': 'Espindola',
     'Di Stéfano': 'Di Stefano',
+
+    'Solís': 'Solis',
+    'Somália': 'Somalia',
+    'Soría': 'Soria',
+    'Suárez': 'Suarez',
+    'Toró': 'Toro',
+    'Umaña': 'Umana',
+    'Valdés': 'Valdes',
+    'Valdéz': 'Valdez',
+    'Vásquez': 'Vasquez',
+    'Vázquez': 'Vazquez',
+    'Verón': 'Veron',
 }
 
 
 basic = {
+
+    'Javier "Kaliman" Guzmán': 'Javier Guzmán',
+    'John Javier Restrepo': 'John Restrepo',
+    'José Luis "Gorras" Guerrero': 'José Luis Guerrero',
+    'Juan Cacho': 'Juan Carlos Cacho',
+    'Juan F. Palencia': 'Juan Francisco Palencia', 
+    'Juan F Palencia': 'Juan Francisco Palencia', 
+    'Juan Palencia': 'Juan Francisco Palencia', 
+    'Marco Garcis': 'Marco Garces',
+    'Octavio "Centavo" Muciño': 'Octavio Muciño',
+    'Sergio Albaguer': 'Sergio Almaguer',
+    'Antonio Naelson Mattias': 'Antônio Naelson',
+    'Antonio Naleson Sinha': 'Antônio Naelson',
+    'Antonio Taboada Herrera': 'Antonio Taboada',
+    'Carlos M. Morales': 'Carlos Morales',
+    'Carlos Ma Morales': 'Carlos Morales',
+    'Carlos María Morales': 'Carlos Morales',
+    'Carlos Morales Maeso': 'Carlos Morales',
+    'Eric Espinoza': 'Erik Espinosa',
+    'Erick Espinosa': 'Erik Espinosa',
+    'Erick Espinoza': 'Erik Espinosa',
+    'Erik Espinoza': 'Erik Espinosa',
+    'Héctor Raúl Mancilla': 'Héctor Mancilla',
+    'Hector Mancilla': 'Héctor Mancilla',
+    'Jose Cardozo Otazu': 'José Cardozo',
+    'JM Abundis': 'José Manuel Abundis',
+    'Jose Cruzalta': 'José Cruzalta',
+    'José Manuel Cruzalta': 'José Cruzalta',
+    'José S. Cardozo': 'José Cardozo',
+    'Edgar Iván Solís': 'Edgar Solís',
+    'Javier Hernández Balcázar': 'Javier Hernández',
+    'Miguel Ángel Ponce': 'Miguel Ponce',
+    'Omar Arelano': 'Omar Arellano',
+    'Omar Arellano Riveron': 'Omar Arellano',
+    'Raúl "Willy" Gómez': 'Raúl Gómez',
+    'Ricardo Michel Vázquez': 'Ricardo Vásquez',
+    'Xavier Iván Báez': 'Xavier Báez',
 
     'Abdel Sattar Sabry': 'Abdel Sabry',
     'Abdelhamid Basyouny': 'Abdelhamed Basyouny',
@@ -240,6 +199,8 @@ basic = {
     'Morten Weighorst': 'Morten Wieghorst',
     'Morten Weighorst': 'Muhsin Musabbeh',
     'Pollan Ndlanya': 'Pollen Ndlanya',
+
+    'Jared Santos Borgetti': 'Jared Borgetti',
     
     
 
@@ -263,6 +224,9 @@ basic = {
     'Ibrahim Al Shahrani': 'Ibrahim Al-Shahrani',
     'Diego De Leo': 'Diego de Leo',
     'Pius N\'diefi': 'Pius N\'Diefi',
+    'Ahmed Dukhi Al-Dosari': 'Ahmed Al-Dosari',
+    'Khalid Al-Muwalid': 'Khalid Al-Muwallid',
+    'Geremi Njitap': 'Geremi',
 
     'Pahino': 'Pahiño',
     'Jose Maria Zarrage': 'José María Zárraga',
@@ -431,6 +395,9 @@ basic = {
     'Eduameth Nimbley C.': 'Eduameth Nimbley',
     'Edison Ramón Romero': 'Edison Romero',
     'Delano Welsh': 'Delano Welch',
+
+    'Duillio Davino': 'Duilio Davino',
+    'Daniel Guiza': 'Daniel Güiza',
 
     'Davis Granado': 'Davis Granados',
 
@@ -681,7 +648,10 @@ basic = {
     'Jesus Gonzalez': 'Jesús González',
     'Renan Addles': 'Renán Addles',
     'Walter Gaitàn': 'Wálter Gaitán',
-    'Ismael Valadéz': 'Ismael Valadez',
+
+    'Ismael Valadez': 'Ismael Valadéz',
+    'Ismael Valadés': 'Ismael Valadéz',
+
     'Luis Amuchástegui': 'Luis Amuchastegui',
 
     'Rándall Azofeifa': 'Randall Azofeifa',
@@ -1655,20 +1625,13 @@ basic = {
     'Sergio Junior': 'Sergio Júnior',
     'Sergio Orteman': 'Sergio Ortemán',
     'Silvio Luiz': 'Sílvio Luiz',
-    'Solis': 'Solís',
-    'Somalia': 'Somália',
-    'Soria': 'Soría',
-    'Suarez': 'Suárez',
+
     'Tomas Gonzalez': 'Tomás González',
-    'Toro': 'Toró',
+
     'Ulises De la Cruz': 'Ulises de la Cruz',
     'Ulises Mendivil': 'Ulises Mendívil',
-    'Umana': 'Umaña',
-    'Valdes': 'Valdés',
-    'Valdez': 'Valdéz',
-    'Vasquez': 'Vásquez',
-    'Vazquez': 'Vázquez',
-    'Veron': 'Verón',
+
+
     'Victor Aristizábal': 'Víctor Aristizábal',
     #'Víctor Bernárdez': 'Víctor Bernárdez',
     'Victor Cordero': 'Víctor Cordero',

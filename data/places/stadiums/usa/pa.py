@@ -313,13 +313,11 @@ l = [
         'capacity': 1000,
         },
     
-    
     {
         'name': 'Tacony Baseball Grounds',
         'location': 'Philadelphia, PA',
         },
-    
-    
+        
     {
         'name': 'Forbes Field',
         'address': '230 South Bouquet St',

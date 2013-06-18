@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/sacups/copa00.html
 Competition: Copa Libertadores
 Season: 2000
 
-Round: Preliminary Round
+Round: Preliminary
 * Qualifying Section for First Round [Mexico, Venezuela]
 
 9/29/2000; Club America; 2-0 ; Atlas                       
@@ -45,8 +45,8 @@ Miguel Angel Zepeda 51, Diego Cocca 78; Cristian Casseres 34, Cristian Casseres 
 * 3.Deportivo ItalChacao (Caracas)  6  1  5  0  9- 7  8
 * 4.Dep. Táchira (San Cristóbal)    6  1  2  3  3-13  5
 
-Round: First Round
-Group: Group 1
+Round: 1
+Group: 1
 
 2/16/2000; Alianza Lima; 0-3; Atlético Paranaense    
 ; Luizinho Netto 7, Lucas 43, Kelly 61
@@ -88,7 +88,7 @@ Moisés Candelario 54, Otilino Tenorio 67; Bratzo Gil 25, Ernesto Arakiki 44
 * 3.Alianza (Lima)                  6  1  2  3  7-12  5
 * 4.Emelec (Guayaquil)              6  0  2  4  3- 8  2
 
-Group: Group 2
+Group: 2
 
 2/22/2000; Universidad Catolica; 1-1; Peñarol        
 Francisco Fernández 35; José Franco 67
@@ -131,7 +131,7 @@ Notes:  abandoned in 65´ due to fog; result stood
 * 3.Blooming (Santa Cruz)           6  2  1  3  9-17  7
 * 4.Universidad Catolica (Santiago) 6  1  1  4 10-14  4
 
-Group: Group 3
+Group: 3
 
 2/17/2000; Club America; 2-0; Corinthians                 
 Joel Sánchez 37, Joel Sanchez 71;
@@ -174,7 +174,7 @@ Geovanny Córdoba 64, Geovanny Cordoba 78; Pavel Pardo 50, José Luis Calderón 
 * 3.Olimpia (Paraguay) (Asunción)              6  2  2  2 13-17  8
 * 4.LDU (Quito)                     6  0  2  4  3-13  2
 
-Group: Group 4
+Group: 4
  
 2/23/2000; Atlas; 1-1; River Plate                   
 Hugo Castillo 23; Juan Pablo Angel 29
@@ -216,7 +216,7 @@ Diego Rivarola 33, Rodrigo Tello 64, Eduardo Arancibia 72; Cristián Casseres 37
 * 3.Universidad de Chile (Santiago) 6  2  2  2 10-10  8
 * 4.Atlético Nacional (Medellín)    6  2  1  3 11-16  7
 
-Group: Group 5
+Group: 5
 
 2/17/2000; Cerro Porteño; 1-0; Atlético Junior       
 Carlos Espinola 10;
@@ -259,7 +259,7 @@ Pablo Michelini (og) 31, Carlos Espínola, Osvaldo Cohener 82; Carlos Moreno 44
 * 3.San Lorenzo (Buenos Aires)      6  2  2  2 10- 9  8
 * 4.Universitario (Lima)            6  1  1  4  2- 9  4
 
-Group: Group 6
+Group: 6
 
 2/22/2000; Rosario Central; 3-1; Sporting Cristal    
 Juan Antonio Pizzi 45, Rafael Maceratesi 47, Ezequiel González 64; Carlos Juárez 74
@@ -304,7 +304,7 @@ Luis Molinas 47, Aníbal Arce 85, Ismael Martínez 90; Fernando Pierucci 16, Jav
 * x play home matches in Bogotá
 * y play home matches in Ciudad del Este
 
-Group: Group 7
+Group: 7
 
 2/15/2000; Palmeiras; 4-0; The Strongest             
 Roque Junior 7, Galeano 39, Basilio 62, Pena 80;
@@ -346,7 +346,7 @@ Antonio Vidal 36; Diego Herrera 8, Diego Herrera 33, Angel Fernández 58, Ebelio
 * 3.EC Juventude (Caxias do Sul)       6  2  1  3  8-12  7
 * 4.The Strongest (La Paz)          6  2  1  3 10-15  7
 
-Group: Group 8
+Group: 8
  
 2/17/2000; Atlético Mineiro; 1-0; Bolívar            
 Ramon 28;
@@ -390,7 +390,8 @@ Jefferson Gottardy 5, Jefferson Gottardy 28, Ronald García 13, Julio César Bal
 * 4.Cobreloa (Calama)               6  1  3  2  7-15  6
 * x play home matches in Maldonado
 
-Round: Second Round 
+Round: 2
+Group: 
 
 5/2/2000; Atletico Mineiro; 1-0; Atletico Paranaense
 5/11/2000; Atletico Paranaense; 2-1; Atletico Mineiro

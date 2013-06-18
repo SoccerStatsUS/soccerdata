@@ -2,7 +2,7 @@ Competition: Copa Libertadores
 Season: 1998
 BlockSource: http://www.rsssf.com/sacups/copa98.html
 
-Round: Preliminary Round
+Round: Preliminary
 * [Note: for the first time, two Mexican teams were invited to participate in the Copa Libertadores.  América and Guadalajara were chosen; they played a preliminary match to determine who would play as Mexico's first resp. second entrant:
 
 1/15/1998; Club América; 2-0; Guadalajara                 
@@ -38,11 +38,11 @@ Rodrigo Valenzuela 27; Isaac Ramos 86
 *2.América (Ciudad de México)      4  2  1  1  5- 2  7
 *3.Caracas FC                      4  1  2  1  4- 6  5
 *4.Atlético Zulia (Maracaibo)      4  0  0  4  3-11  0
-
-Round: First Round
 * Cruzeiro (Belo Horizonte) bye to the second round as holders.
 
-Group: Group 1 
+
+Round: 1
+Group: 1 
 * [Colombia, Ecuador]
 
 2/25/1998; America Cali; 2-2; Bucaramanga                   
@@ -81,7 +81,7 @@ Gómez 38;
 *3.Atlético Bucaramanga            6  2  1  3  5- 6  7
 *4.Deportivo Quito                 6  1  2  3  3- 9  5
 
-Group: Group 2 
+Group: 2 
 * [Brazil, Mexico]
 
 3/4/1998; Guadalajara; 0-1; America Cali                   
@@ -124,7 +124,7 @@ Richardson 71; García Aspe 6
 *3.America Cali (Ciudad de México)      6  2  2  2  6- 5  8
 *4.Guadalajara                     6  2  0  4  2- 7  6
 
-Group: Group 3 
+Group: 3 
 * [Chile, Paraguay]
 
 2/25/1998; Olimpia (Paraguay); 5-1;Cerro Porteño                 
@@ -166,7 +166,7 @@ Vergara 71; Zelaya 2, Monzón (pk) 6, Franco 90
 *3.Cerro Porteño (Asunción)        6  2  1  3  6- 9  7
 *4.Universidad Catolica (Santiago) 6  2  1  3  5- 8  7
 
-Group: Group 4 
+Group: 4 
 * [Bolivia, Uruguay]
 
 2/25/1998; Bolívar; 3-2; Oriente Petrolero             
@@ -212,7 +212,7 @@ M. Nuñez 12, M. Nunez 40, Regueiro 53, Regueiro 86; Joao 30
 *3.Nacional (Montevideo)           6  2  0  4 11-12  6
 *4.Oriente Petrolero (Santa Cruz)  6  1  2  3  7-15  5
 
-Group: Group 5 
+Group: 5 
 * [Argentina, Peru]
 
 3/4/1998; Colón; 1-2; River Plate                     
@@ -257,6 +257,7 @@ Aimar 50, Figueroa 60;
 *4.Sporting Cristal (Lima)         6  1  1  4  7-11  4
 
 Round: Second Round 
+Group:
 
 4/15/1998; Cerro Porteno; 1-0; America Cali
 Paredes 75;

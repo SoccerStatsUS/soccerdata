@@ -143,6 +143,9 @@ rounds = {
     'Quarter-finals': 'quarterfinals',
     'Quarterfinal': 'quarterfinals',
     'Quarterfinals': 'quarterfinals',
+    '1/8 Final': 'quarterfinals',
+    '1/8 final': 'quarterfinals',
+
 
     'Regional Semifinals': 'quarterfinals',
     'Conference Semifinals': 'quarterfinals',
@@ -232,8 +235,6 @@ rounds = {
     'Repesca': 'repesca',
     'Triangular Final' : 'triangular final',
 
-    '1/8 Final': 'round of 8',
-    '1/8 final': 'round of 8',
 
     'Round of 64': 'round of 64',
     
@@ -242,6 +243,8 @@ rounds = {
     'Round of 16': 'round of 16',
     'Round of Sixteen': 'round of 16',
     '1/16 final': 'round of 16',
+
+
 
     'Round of 32': 'round of 32',
     'Round of 64': 'round of 64',

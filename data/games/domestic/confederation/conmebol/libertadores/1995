@@ -2,10 +2,10 @@ Competition: Copa Libertadores
 Season: 1995
 BlockSource: http://www.rsssf.com/sacups/copa95.html
 
-Round: First Round
+Round: 1
 * Vélez Sarsfield (Buenos Aires) bye to the second round as holders.
  
-Group: Group 1 
+Group: 1 
 * [Argentina, Uruguay]
 
 2/19/1995; Independiente; 1-1; River Plate           
@@ -26,7 +26,7 @@ Group: Group 1
 * 3.Independiente (Avellaneda)      6  2  1  3  5- 7  7
 * 4.Cerro (Montevideo)              6  1  1  4  5-13  4
 
-Group: Group 2 
+Group: 2 
 * [Paraguay, Venezuela]
 
 2/15/1995; Trujillanos; 1-3; Caracas F.C.            
@@ -47,7 +47,7 @@ Group: Group 2
 * 3.Caracas F.C.                    6  2  0  4  8-18  6
 * 4.Trujillanos (Valera)            6  0  1  5  8-17  1
 
-Group: Group 3
+Group: 3
 * [Chile, Colombia]
 
 2/10/1995; Universidad de Chile; 4-1; Universidad Catolica       
@@ -71,7 +71,7 @@ Group: Group 3
 * Round: Third Place Playoff
 4/12/1995; Universidad Catolica; 4-1; Universidad de Chile       
 
-Group: Group 4 
+Group: 4 
 * [Brazil, Ecuador]
 
 2/21/1995; Palmeiras; 3-2; Grêmio                    
@@ -92,7 +92,7 @@ Group: Group 4
 * 3.Emelec (Guayaquil)              6  1  2  3  8-12  5
 * 4.El Nacional (Quito)             6  1  1  4  3-14  4       
 
-Group: Group 5 
+Group: 5 
 * [Bolivia, Peru]
 
 2/8/1995; Bolívar; 2-0; Jorge Wilstermann           
@@ -113,7 +113,8 @@ Group: Group 5
 * 3.Alianza (Lima)                  6  1  2  3 10-11  5
 * 4.Jorge Wilstermann (Cochabamba)  6  1  2  3  6-19  5      
 
-Round: Second Round 
+Round: 2
+Group: 
 * Dates are approximate
 
 4/25/1995; Olimpia (Paraguay); 0-3; Gremio

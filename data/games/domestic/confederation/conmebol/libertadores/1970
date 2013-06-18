@@ -2,10 +2,10 @@ BlockSource: http://www.rsssf.com/sacups/copa70.html
 Competition: Copa Libertadores
 Season: 1970
 
-Round: First Round
+Round: 1
 *Estudiantes (La Plata) bye to the semifinals as holders.
 
-Group: Group 1
+Group: 1
 
 2/15/1970; Universitario; 2-2; Bolivar
 
@@ -36,7 +36,7 @@ Group: Group 1
 * 3.Bolívar (La Paz)                6  1  2  3  7- 9  4
 * 4.Universitario (La Paz)          6  0  2  4  2-19  2
 
-Group: Group 2
+Group: 2
 
 2/15/1970; Deportivo Galicia; 0-2; Valencia (Ecuador)
 
@@ -67,7 +67,7 @@ Group: Group 2
 * 3.Valencia (Acarigua)             6  2  1  3  9-18  5
 * 4.Deportivo Galicia (Caracas)     6  0  0  6  2-16  0
 
-Group: Group 3
+Group: 3
 
 2/11/1970; Guaraní; 1-0; Olimpia (Paraguay)                    
 2/15/1970; Guaraní; 2-0; Rangers (Chile)                    
@@ -107,7 +107,7 @@ Group: Group 3
 * 5.America Cali                 10  1  3  6 12-22  5
 * 6.Rangers (Chile) (Talca)                10  1  1  8 11-27  3
 
-Group: Group 4
+Group: 4
 
 2/14/1970; America de Quito; 1-1; Defensor Arica
 
@@ -139,7 +139,7 @@ Group: Group 4
 * 4.América (Quito)                 6  1  1  4  4-14  3
 
 Round: Second Round
-Group: Group 1
+Group: 1
 
 4/11/1970; Universitario; 1-3; Boca Juniors     
 4/14/1970; Universitario; 1-2; River Plate      
@@ -152,7 +152,7 @@ Group: Group 1
 * 2.Boca Juniors (Buenos Aires)     4  2  1  1  5- 3  5
 * 3.Universitario (Lima)            4  0  0  4  5-11  0
 
-Group: Group 2
+Group: 2
 
 4/12/1970; LDU Quito; 1-3; Peñarol      
 4/19/1970; Guaraní; 2-0; Peñarol        
@@ -165,7 +165,7 @@ Group: Group 2
 * 2.Guaraní (Asunción)              4  1  1  2  3- 3  3
 * 3.LDU Quito                       4  1  1  2  4- 6  3 
 
-Group: Group 3
+Group: 3
 
 4/15/1970; Universidad de Chile; 3-0; Nacional    
 4/25/1970; Nacional; 2-0; Universidad de Chile    
@@ -177,12 +177,16 @@ Group: Group 3
 4/28/1970; Universidad de Chile; 2-1; Nacional
 
 Round: Semifinals
+Group:
 
 5/8/1970; Universidad de Chile; 1-0; Penarol; Santiago, Chile
+
 5/12/1970; Penarol; 2-0; Universidad de Chile; Montevideo, Uruguay
+
 5/14/1970; Penarol; 2-2; Universidad de Chile; Avellaneda, Argentina
 
 5/7/1970; River Plate; 0-1; Estudiantes (Argentina); Buenos Aires, Argentina
+
 5/15/1970; Estudiantes (Argentina); 3-1; River Plate; La Plata, Argentina
 
 Round: Final

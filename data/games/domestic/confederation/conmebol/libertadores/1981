@@ -2,10 +2,10 @@ BlockSource: http://www.rsssf.com/sacups/copa81.html
 Competition: Copa Libertadores
 Season: 1981
 
-Round: First Round
+Round: 1
 * Nacional (Montevideo) bye to the second round as holders.
 
-Group: Group 1 
+Group: 1 
 * [Argentina, Colombia]
 
 3/18/1981; Rosario Central; 0-1; River Plate           
@@ -26,7 +26,7 @@ Group: Group 1
 * 3.Rosario Central                 6  3  0  3 11- 7  6
 * 4.Atlético Junior (Barranquilla)  6  1  1  4  3-14  3
 
-Group: Group 2 
+Group: 2 
 * [Chile, Peru]
 
 4/14/1981; Cobreloa; 6-1; Sporting Cristal             
@@ -47,7 +47,7 @@ Group: Group 2
 * 3.Universidad de Chile (Santiago) 6  2  2  2  8- 6  6
 * 4.Atlético Torino (Talara)        6  0  1  5  5-16  1
 
-Group: Group 3 
+Group: 3 
 * [Brazil, Paraguay]
 
 7/3/1981; Atlético Mineiro; 2-2; Flamengo             
@@ -73,7 +73,7 @@ Group: Group 3
 8/21/1981; Flamengo; 0-0; Atlético Mineiro
 Notes: Match abandoned after 35 minutes (Atlético had 6 players left after 5 sendings-off) and awarded to Flamengo
 
-Group: Group 4 
+Group: 4 
 * [Bolivia, Ecuador]
 
 3/29/1981; Jorge Wilstermann; 3-2; The Strongest       
@@ -98,7 +98,7 @@ Group: Group 4
 * (Santa Cruz)
 5/8/1981; Jorge Wilstermann; 4-1; The Strongest
 
-Group: Group 5 
+Group: 5 
 * [Uruguay, Venezuela]
 
 3/25/1981; Peñarol; 3-1; Bella Vista                   
@@ -120,7 +120,7 @@ Group: Group 5
 * 4.Portuguesa (Acarigua)           6  0  2  4  1-13  2
 
 Round: Semi-Finals
-Group: Group 1
+Group: 1
 
 10/2/1981; Deportivo Cali; 0-1; Flamengo               
 10/13/1981; Jorge Wilstermann; 1-2; Flamengo            
@@ -133,7 +133,7 @@ Group: Group 1
 * 2.Deportivo Cali                  4  1  1  2  2- 5  3
 * 3.Jorge Wilstermann (Cochabamba)  4  0  1  3  3- 8  1
 
-Group: Group 2
+Group: 2
 
 9/30/1981; Peñarol; 1-1; Nacional                      
 10/8/1981; Nacional; 1-2; Cobreloa                     
@@ -147,6 +147,7 @@ Group: Group 2
 * 3.Peñarol (Montevideo)            4  0  2  2  4- 7  2
 
 Round: Final 
+Group:
 
 11/13/1981; Flamengo; 2-1; Cobreloa; Maracana; Esposito; 93985
 Zico 12, Zico 30; Merello 65

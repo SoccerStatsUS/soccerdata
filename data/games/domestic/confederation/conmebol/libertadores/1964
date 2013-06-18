@@ -2,15 +2,15 @@ BlockSource: http://www.rsssf.com/sacups/copa64.html
 Competition: Copa Libertadores
 Season: 1964
 
-Round: Preliminary Round
+Round: Preliminary
 
 4/3/1964; Deportivo Italia; 0-0; EC Bahia; Caracas, Venezuela
 
 4/8/1964; EC Bahia; 1-2; Deportivo Italia; Caracas, Venezuela
 Veve; Jaime, Iramido
 
-Round: First Round
-Group: Group 1
+Round: 1
+Group: 1
 
 4/12/1964; Aurora (Bolivia); 2-2; Cerro Porteno; Cochabamba, Bolivia
 Herbas, Alcócer; Mora, B.Rojas
@@ -30,7 +30,7 @@ Bergara, D.Pérez;
 5/17/1964; Cerro Porteno; 7-0; Aurora (Bolivia); Asuncion, Paraguay
 P. Rojas, P. Rojas, Mora, Mora, B.Rojas, Breglia, J.C. Rojas;
 
-Group: Group 2
+Group: 2
 
 5/7/1964; Millonarios; 3-2; Alianza Lima; Bogota, Colombia
 D. Gamboa, D. Gamboa, D. Gamboa; P.León, Zegarra
@@ -53,7 +53,7 @@ Tenemas; Klinger, Gamboa
 Forfeit
 * not played due to differences between CONMEBOL and the Colombian football federations Adefútbol and Fedebol (apparently after Independiente refused to travel to Bogotá); points were awarded to Independiente (but no goals).
 
-Group: Group 3
+Group: 3
 
 5/3/1964; Barcelona (Ecuador); 0-1; Deportivo Italia; Guayaquil, Ecuador
 ; Zequinha
@@ -74,6 +74,7 @@ Jaime; Roberto, Moreno
 ; Nivaldo, Nivaldo, Helio, Geninho
 
 Round: Semifinals
+Group:
 
 7/15/1964; Santos; 2-3; Independiente; Rio de Janeiro, Brazil
 Toninho, Pepe; M.Rodríguez, Bernao, L.Suárez

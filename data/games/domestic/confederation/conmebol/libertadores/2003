@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/sacups/copa03.html
 Competition: Copa Libertadores
 Season: 2003
 
-Round: Preliminary Round
+Round: Preliminary
 * Qualifying Section for First Round [Mexico, Venezuela]
 
 10/22/2003; Estudiantes; 1-0; Pumas UNAM              
@@ -47,8 +47,8 @@ Alexander Rondón 25, José Daniel Giovany 46, Ricardo Duno (pk) 58; Jair Muñoz
 * 3.Estudiantes (Mérida)            6  2  1  3   7- 9  7
 * 4.Nacional Táchira                6  1  0  5   6-16  3
 
-Round: First Round
-Group: Group 1
+Round: 1
+Group: 1
 
 2/18/2003; Libertad; 2-2; Emelec                     
 Emilio Martínez 58, Osvaldo Cohener 79; Otilino Tenorio 9, Otilino Tenorio 43
@@ -91,7 +91,7 @@ Sergio Fernández 17;
 * 3.Libertad (Asunción)             6  2  1  3   9- 9  7
 * 4.Emelec (Guayaquil)              6  1  1  4   6-15  4
 
-Group: Group 2 
+Group: 2 
 
 2/6/2003; Cerro Porteño; 3-2; Universidad Catolica  
 Santiago Salcedo 2, Santiago Salcedo 45, Héctor Núñez 93; Alejandro Gioino 84, Pablo Lenci 87
@@ -131,7 +131,7 @@ Flavio Maestri 34, Flavio Maestri 60, Julinho 63; Patricio Ormazábal 89
 * 3.Sporting Cristal (Lima)         6  2  1  3   6- 7  7
 * 4.Universidad Catolica (Santiago) 6  1  1  4   7-12  4
 
-Group: Group 3
+Group: 3
 
 2/5/2003; 12 de Octubre; 3-1; El Nacional           
 Fredy Bareiro 38, Tomás González 45, Tomas Gonzalez 48; Carlos Grueso 71
@@ -173,7 +173,7 @@ Víctor Salinas 81; Julián Vásquez 25, Julian Vasquez 77, David Ferreira 38, L
 * 3.El Nacional (Quito)             6  1  3  2   4- 6  6
 * 4.12 de Octubre (Itaugua)         6  1  0  5   7-17  3
 
-Group: Group 4
+Group: 4
 
 2/11/2003; Alianza Lima; 1-1; Olimpia (Paraguay)                
 Jorge Soto (pk) 68; Rodrigo López 18
@@ -213,7 +213,7 @@ Rodrigo Pérez 5, Fernando Martel 7, Rodrigo Meléndez 63,  Mauricio Dinamarca 8
 * 3.Gimnasia y Esgrima (La Plata)   6  1  4  1   8- 7  7
 * 4.Alianza Lima                    6  1  2  3   6-14  5
 
-Group: Group 5
+Group: 5
 
 2/4/2003; Grêmio; 3-2; Pumas UNAM                   
 Luis Mario 30, Jaime Lozano (og) 34, Roger 90; Joaquín Beltrán 22, Leandro Augusto 75
@@ -256,7 +256,7 @@ Francisco Fonseca 54, Francisco Fonseca 77, Mariano Trujillo 82; Marcelo De Souz
 * 3.Bolívar (La Paz)                6  3  0  3   8- 9  9
 * 4.Peñarol (Montevideo)            6  2  1  3  12-14  7
 
-Group: Group 6
+Group: 6
 
 2/18/2003; Universitario; 1-1; Racing Club (Argentina)           
 Jorge Artigas 4; Fabián Pumar (og) 8
@@ -299,7 +299,7 @@ Johan Sotil 56, Paul Cominges (pk) 79; Fabián O'Neill 48,  Marcelo Guerrero 63
 * 3.Universitario (Lima)            6  1  4  1   8- 8  7
 * 4.Oriente Petrolero (Santa Cruz)  6  0  1  5   4-13  1
 
-Group: Group 7
+Group: 7
 
 2/6/2003; Barcelona (Ecuador); 2-0; Colo Colo                 
 Ariel Graziani 9, Marcelo Fleitas 51;
@@ -342,7 +342,7 @@ José Serna 4, Jose Serna 60;
 * 3.Barcelona (Ecuador) (Guayaquil)           6  1  2  3   8-10  5
 * 4.Colo Colo (Santiago)            6  1  2  3   6-10  5
 
-Group: Group 8
+Group: 8
 
 2/5/2003; Corinthians; 1-0; Cruz Azul               
 Liedson 14;
@@ -385,7 +385,8 @@ Juan Francisco Palencia 4, Gilberto Jiménez 43, Miguel Zepeda 57, Mario Ortiz 8
 * 3.Fénix (Montevideo)              6  2  0  4  10-14  6
 * 4.The Strongest (La Paz)          6  2  0  4   6-12  6
 
-Round: Second Round 
+Round: 2
+Group: 
 
 5/6/2003; Cruz Azul; 0-0; Deportivo Cali
 

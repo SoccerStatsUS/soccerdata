@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/sacups/copa2011.html
 Competition: Copa Libertadores
 Season: 2011
 
-Round: Preliminary Round
+Round: Preliminary
 
 1/25/2011; Independiente; 2-0; Deportivo Quito; Estadio Libertadores de America; Heber Lopes
 Matías Defederico 50, Patricio Rodríguez 71;
@@ -38,8 +38,8 @@ Víctor Guazá 14; Roberto Nanni 36
 
 2/3/2011; Union Espanola; 0-0; Bolivar; Estadio Santa Laura; Carlos Amarilla
 
-Round: Group Phase 
-Group: Group 1
+Round: Group
+Group: 1
 
 2/15/2011; San Luis; 1-2; Libertad; Estadio Alfonso Lastras Ramirez; Jose Buitrago                   
 Juan Manuel Cavallo 40; Nicolás Pavlovich 18, Sergio Aquino (pk) 56
@@ -83,7 +83,7 @@ Jorge González 11, Nicolás Pavlovich 17;
 *   3.Universidad San Martín (Lima)   6  2  0  4   7-11  6
 *   4.San Luis (San Luis Potosí)      6  1  2  3   6- 9  5
 
-Group: Group 2
+Group: 2
 
 2/17/2011; León de Huanuco; 1-2; Junior de Barranquilla; Estadio Heracilo Tapia; Paulo de Oliveira; 11115              
 Carlos Elías 87; John Viáfara 23, Carlos Bacca 66
@@ -122,7 +122,7 @@ Jossymar Gómez 76; Orlando Rodríguez 84
 *   3.Oriente Petrolero (Sta. Cruz)   6  2  0  4   7- 8  6
 *   4.León de Huánuco                 6  1  2  3   4- 8  5
 
-Group: Group 3
+Group: 3
 
 2/9/2011; Fluminense; 1-1; Argentinos Juniors; Estadio Olimpico Joao Havelange; Carlos Torres; 15939
 Rafael Moura 58, Rafael Moura 74; Franco Niell 44, Franco Niell 70
@@ -163,7 +163,7 @@ Santiago Salcedo (pk) 26, Gustavo Oberman 54; Julio César 18, Fred 40, Fred (pk
 *   3.Nacional (Montevideo)           6  2  2  2   3- 3  8
 *   4.Argentinos Jrs. (Buenos Aires)  6  2  1  3   9-10  7
 
-Group: Group 4
+Group: 4
 
 2/15/2011; Vélez Sarsfield; 3-0; Caracas FC; Estadio Jose Amalfitani; Enrique Osses; 7351
 Maximiliano Moralez 45, David Ramírez 61, Juan Manuel Martínez (pk) 84;
@@ -205,7 +205,7 @@ Pablo Calandria 49, Marcelo Cañete 78; Kevin Harbottle 47
 *   3.Caracas FC                      6  3  0  3   7-10  9
 *   4.Unión Española (Santiago)       6  1  1  4   7-11  4
 
-Group: Group 5
+Group: 5
 
 2/15/2011; Deportivo Táchira; 0-0; Santos; Estadio Polideportivo de Pueblo Nuevo; Carlos Vera; 30226            
 
@@ -247,7 +247,7 @@ Cristóbal Jorquera 4, Esteban Paredes 21; Jonathan Fabbro 43, Jonathan Fabbro 8
 *   3.Colo Colo (Santiago)            6  3  0  3  15-16  9
 *   4.Deportivo Táchira (San Cristóbal)    6  0  2  4   5-12  2
 
-Group: Group 6
+Group: 6
 
 2/16/2011; Emelec; 1-1; Internacional; Estadio George Capwell; Nestor Pitana; 13589
 Fernando Giménez 90; Mario Bolatti 79
@@ -289,7 +289,7 @@ Rafael Sobis 52, Leandro Damiao 84;
 *   3.Emelec (Guayaquil)              6  2  2  2   4- 5  8
 *   4.Jorge Wilstermann (Cochabamba)  6  1  1  4   3-11  4
 
-Group: Group 7
+Group: 7
 
 2/15/2011; Deportes Tolima; 1-0; Guaraní; Estadio Manuel Murillo Toro; Omar Ponce; 8021
 Danny Santoya 83;
@@ -331,7 +331,7 @@ Felipe Noguera (pk) 31; Federico Fernández 23
 *   3.Deportes Tolima (Ibagué)        6  2  2  2   5- 8  8
 *   4.Guaraní (Asunción)              6  0  0  6   2-16  0
 
-Group: Group 8
+Group: 8
 
 2/17/2011; Godoy Cruz; 2-1; LDU Quito; Estadio Malvinas Argentinas; Martin Vazquez; 19524 
 Carlos Sánchez 17, Nicolás Sánchez 60; Neicer Reasco 53
@@ -375,6 +375,7 @@ Luis Bolaños 48, Hernán Barcos 59;
 *   4.Godoy Cruz (Mendoza)            6  2  1  3   8-10  7
 
 Round: Round of 16 
+Group: 
 
 4/26/2011; Gremio; 1-2; Universidad Catolica; Estadio Olimpico Monumental (Porto Alegre); Nestor Pitana; 31559
 Douglas 59; Lucas Pratto 29, Lucas Pratto 75

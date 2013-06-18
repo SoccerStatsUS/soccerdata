@@ -25,353 +25,92 @@ def get_stadium(s):
 sd = {}
 
 stadiums = {
-    'Estadio de la Ciudad de los Deportes': 'Estadio Azul',
-    'Estadio de la Ciudad de los Deportes, México DF': 'Estadio Azul',
-    'Estadio Azulgrana': 'Estadio Azul',
-    'Estadio de Riazor': 'Estadio Riazor',
-    #'Estadio Jose Zorrilla': 'Estadio Nuevo José Zorrilla',
 
-    'Balaidos': 'Balaídos',
-    'Estadio Sarria': 'Estadi de Sarrià',
-    'Estadio San Mames': 'Estadio San Mamés',
-
-
-    'Estadio Ciudad de Mendoza': 'Estadio Malvinas Argentinas',
-
-    'Frankfurt Waldstadion': 'Commerzbank-Arena',
-    'Estadio Nacional (Brasilia)': 'Estadio Nacional de Brasilia',
-
-    'Estadio Castelao (Ceara)': 'Castelão (Ceará)',
-
-    'Oita Stadium': 'Ōita Bank Dome',
-    'Oita Big Eye Stadium': 'Ōita Bank Dome',
-    'Kobe Wing Stadium': 'Home\'s Stadium Kobe',
-
-    'AOL Arena': 'Volksparkstadion',
-    'HSH Nordbank Arena': 'Volksparkstadion',
-
-    'Estadio Victor Manuel Reyna': 'Estadio Víctor Manuel Reyna',
-    'Estadio Nou Camp': 'Estadio León', 
-    'Invaders Complex': 'Indiana Invaders Soccer Complex',
-    'Navy-Marine Corps Stadium': 'Navy–Marine Corps Memorial Stadium',
-    'Yokohama International Stadium': 'International Stadium Yokohama',
-    'Wildpark': 'Wildparkstadion',
-    'Vicente Calderon Stadium': 'Estadio Vicente Calderón',
-    'Vicente Calderon': 'Estadio Vicente Calderón',
-    'Estadio Vicente Calderon': 'Estadio Vicente Calderón',
-    'Korte Stadium': 'Ralph Korte Stadium',
-    'TD Bank Park': 'TD Bank Ballpark',
-    'The Anheuser Busch Soccer Park': 'Anheuser-Busch Soccer Park',
-
-
-    
-
-    'Rhein-Energie Stadion': 'RheinEnergieStadion',
-    'Franken-Stadion': 'Frankenstadion',
-    'Hanover FIFA World Cup Stadium': 'AWD-Arena',
-    'Zentralstadion': 'Red Bull Arena (Leipzig)',
-
-    'Olympisch Stadion': 'Amsterdam Olympic Stadium',
-    'La Doble Visera': 'Estadio Libertadores de América',
-    'El Cilindro': 'Estadio Presidente Juan Domingo Perón',
-    'Estadio da Luz': 'Estádio da Luz',
-    'Molson Stadium': 'Percival Molson Memorial Stadium',
-    'Estadio Olimpico de Caracas': 'Estadio Olímpico de la UCV',
-    'Estadio Olimpico Universitario (Caracas)': 'Estadio Olímpico de la UCV',
-    'Estadio Universitario (Caracas)': 'Estadio Olímpico de la UCV',
-    'Parque Antártica': 'Estádio Parque Antarctica',
-    'Estadio Jaconi': 'Estádio Alfredo Jaconi',
-    'Stadium Tecnologico': 'Estadio Tecnológico',
-
-    
-    'Estadio La Corregidora': 'Estadio Corregidora',
-
-    'Saitama Stadium': 'Saitama Stadium 2002',
-
-    'Estadio Luis Dosal': 'Estadio Nemesio Díez',
-    'Estadio Luis Gutierrez Dosal': 'Estadio Nemesio Díez',
-    'Estadio Luis Gutiérrez Dosal': 'Estadio Nemesio Díez',
-
-    'Neckarstadion': 'Mercedes-Benz Arena',
-
-    'Shizuoka Ecopa Stadium': 'Shizuoka Stadium',
-    'Ecopa Stadium': 'Shizuoka Stadium',
-
-    'Starfire Stadium': 'Starfire Sports Complex',
-    'Maryland Soccerplex Stadium': 'Maryland SoccerPlex',
-    'Yurcak Field Stadium': 'Yurcak Field',
-    'Estadio Jardines del Hipodromo': 'Estadio Jardines Del Hipódromo',
-    'Estadio Jardines Del Hipodromo': 'Estadio Jardines Del Hipódromo',
-    'Casa Grande Soccer Complex': 'Grande Sports World',
-    'Premier Sports Campus at Lakewood Ranch': 'Premier Sports Campus',
-    'Bayamon Soccer Complex': 'Bayamón Soccer Complex',
-    'Hal Sherbeck Field House': 'Sherbeck Field',
-    'Hal Sherbeck Field': 'Sherbeck Field',
-    'Ultimate Soccer Arena': 'Ultimate Soccer Arenas',
-    'Collins Perley Sports Complex': 'Collins Perley Sports Center',
-    'Estadio Presidente Juan Domingo Peron': 'Estadio Presidente Juan Domingo Perón',
-    'Estadio Orlando Scarpelli': 'Estádio Orlando Scarpelli',
-    'Estádio Major Antônio Couto Pereira': 'Estádio Couto Pereira',
-    'Estadio do Governo do Estadio de Goias': 'Estádio Serra Dourada',
-    'Estádio Metropolitano Roberto Santos': 'Estádio de Pituaçu',
-    'Estadio Olimpico Monumental': 'Estádio Olímpico Monumental',
-    'FFB Field': 'FFB Stadium',
-    'Ernst Happel Stadium': 'Ernst-Happel-Stadion',
-    'Durban Stadium': 'Moses Mabhida Stadium',
-    'City Island Stadium': 'Skyline Sports Complex',
-    'Chamartin Stadium': 'Estadio Chamartín',
-    'Centenario Stadium': 'Estadio Centenario',
-    'Cara McGrane Stadium': 'Cara McGrane Memorial Stadium',
-    'Calder Stadium': 'Nathan Calder Stadium',
-    'Cardinal Stadium': 'Benedetti–Wehrli Stadium',
-    'Bruce Stadium': 'Canberra Stadium',
-    'Aurora Stadium': 'York Park',
-    'Al-Nuhayyan Stadium': 'Al Nahyan Stadium',
-    'Albert/Daly Stadium': 'Albert-Daly Field',
-    'Estadio Nacional Julio Martinez Pradanos': 'Estadio Nacional Julio Martínez Prádanos',
-    'Ernst-Happel Stadion': 'Ernst-Happel-Stadion',
-    'Estadio Rommel Fernandez': 'Estadio Rommel Fernández',
-    'Kashima Stadium': 'Kashima Soccer Stadium',
-    'Niigata Stadium Big Swan': 'Tohoku Electric Power Big Swan Stadium',
-    'Stadium Espenmoos': 'Espenmoos',
-    'Easter Road Stadium': 'Easter Road',
-    'Libya National Stadium': 'June 11 Stadium',
-    'Ratina Stadium': 'Tampere Stadium',
-    'Na Stinadlech': 'Na Stínadlech',
-    'ABSA Stadium': 'Kings Park Stadium',
-    'A. Le Coq Stadium': 'A. Le Coq Arena',
-    'Valeriy Lobanovskyi Stadium': 'Valeriy Lobanovskyi Dynamo Stadium',
-    'Antalya Ataturk Stadyumu': 'Antalya Atatürk Stadium',
-    'Sports Authority Field': 'Sports Authority Field at Mile High',
-    'Khalifa Stadium': 'Khalifa International Stadium',
-    'UBC Thunderbird Stadium': 'Thunderbird Stadium',
-    'Estadio Olimpico (Caracas FC)': 'Estadio Olímpico de la UCV',
-    'Bayamon FC Soccer Complex': 'Bayamon Soccer Complex',
-    'Hubert H. Humphrey Metrodome': 'Metrodome',
-    'Balboa Park Stadium': 'Boxer Stadium',
-    'UBC Thunderbird Stadium': 'Thunderbird Stadium',
-    'Montclair St. University': 'Montclair State University',
-
-    'Foothills Park': 'Foothills Stadium',
-    'Atlanta Stadium': 'Atlanta-Fulton County Stadium',
-    'Hanson Park': 'Hanson Stadium',
-    'Rancho La Cienega Stadium': 'Rancho La Cienga Stadium',
-    'Estadio Leon': 'Estadio León',
-    'Estadio Cicero Pompeu de Toledo': 'Estádio do Morumbi',
-    'Engenhao': 'Estádio Olímpico João Havelange',
-    'Estadio Libertadores de America': 'Estadio Libertadores de América',
-    'Estadio Ciudad de Cumana': 'Estadio Ciudad de Cumaná',
-    'Estadio Parque El Teniente': 'Estadio El Teniente',
-
-    'Estadio Gran Parque Central': 'Parque Central',
-    'Estadío Parque Central': 'Parque Central',
-    'Estadio Parque Central': 'Parque Central',
-    'Gran Parque Central': 'Parque Central',
-
-    'Stadio Benito Mussolini': 'Stadio Olimpico di Torino',
-    'Stadio Giovanni Berta': 'Stadio Artemio Franchi',
-    'Stade du Fort Carre': 'Stade du Fort Carré',
-    'Orjans Vall': 'Örjans Vall',
-
-    'Stadio San Siro': 'San Siro',
-    'Stadio Nazionale PNF': 'Stadio Nazionale del PNF',
-    'Estadio Durival de Britto': 'Estádio Vila Capanema',
-
-    'Hardturm Stadium': 'Hardturm',
-    'St. Jakob Stadium': 'St. Jakob-Park',
-
-    'Behrn Arena': 'Eyravallen',
-    'Malmo Stadion': 'Malmö Stadion',
-
-    'Gottlieb-Daimler-Stadion': 'Mercedes-Benz Arena',
-
-    'Estadio Olimpico Joao Havelange': 'Estádio Olímpico João Havelange',
-    'Estadio Juan Domingo': 'Estadio Presidente Juan Domingo Perón',
-    'Palacio Duco': 'Estadio Tomás Adolfo Ducó',
-    'Pacaembu Stadium': 'Estádio do Pacaembu',
-    'Estadio Urbano Caldeira': 'Estádio Urbano Caldeira',
-    'Estadio Nacional Julio Martinez Pradanos': 'Estadio Nacional Julio Martínez Prádanos',
-    'Estadio Municipal Paulo Machado de Carvalho': 'Estádio do Pacaembu',
-    'La Bombonera': 'Estadio Alberto J. Armando',
-    'Estadio Ciudad de Lanus': 'Estadio Ciudad de Lanús',
-    'Estadio Victor Agustin Ugarte': 'Estadio Víctor Agustín Ugarte',
-    'Estadio Jose Pinheiro Borda': 'Estádio Beira-Rio',
-    'Estadio Dr. Nicolas Leoz': 'Estadio Dr. Nicolás Leoz',
-    'Arena do Gremio': 'Arena do Grêmio',
-    'Estadio Jose Antonio Anzoategui': 'Estadio José Antonio Anzoátegui',
-    'Estadio do Morumbi': 'Estádio do Morumbi',
-    'Estadio Jose Dellagiovanna': 'Estadio José Dellagiovanna',
-    'Truman Bodden Stadium': 'Truman Bodden Sports Complex',
-    'Ergilio Hato Stadium': 'Stadion Ergilio Hato',
-    'Estadio Mane Garrincha': 'Estádio Nacional de Brasília',
-    'Estádio Nacional de Brasília': 'Estadio Nacional de Brasilia',
-    'Estadio Agustin Tovar': 'Estadio Agustín Tovar',
-    'Estadio La Carolina': 'Estadio Agustín Tovar',
-    'Estadio Brigido Irarte': 'Estadio Brígido Iriarte',
-    'Estadio Nacional de Chile': 'Estadio Nacional Julio Martínez Prádanos',
-    'Estadio Nacional Julio Martinez': 'Estadio Nacional Julio Martínez Prádanos',
-    'Estadio Monumental Antonio Vespuci Liberti': 'Estadio Monumental Antonio Vespucio Liberti',
-    'Estadio Polideportivo Cachamay': 'Polideportivo Cachamay',
-    'Estadio Mane Garrincha': 'Estádio Nacional de Brasília',
-    'River Plate Stadium': 'Estadio Monumental Antonio Vespucio Liberti',
-    'Estadio Olimpico do Para': 'Mangueirão',
-    'Estádio Olímpico do Pará': 'Mangueirão',
-    'Mangueirao': 'Mangueirão',
-    'Estadio Rei Pele': 'Estádio Rei Pelé',
-    'Estadio Morumbi': 'Estádio do Morumbi',
-    'Estadio Monumental U': 'Estadio Monumental "U"',
-    'Estádio Vivaldo Lima': 'Vivaldão',
-    'Vivaldao': 'Vivaldão',
-    'Estadio Beira-Rio': 'Estádio Beira-Rio',
-    'Estadio Governador Joao Castelo': 'Estádio Governador João Castelo',
-    'Estadio Couto Pereira': 'Estádio Couto Pereira',
+    'Estadio Bella Vista': 'Estadio Bellavista',
     'Estadio Casa Blanca': 'Estadio de Liga Deportiva Universitaria',
     'Estadio Luis Loreto Lira': 'Estadio José Alberto Pérez',
     'Estadio do Arruba': 'Estádio do Arruda',
-    'Estadío Ramón Aguilera': 'Estadio Ramón Tahuichi Aguilera',
-    'Estadio Ramon Tahuichi Aguilera': 'Estadio Ramón Tahuichi Aguilera',
+    'Estadío Tropical': 'Estadio Pedro Marrero',
 
-    'Stadio Delle Alpi': 'Stadio delle Alpi',
 
-    'Estadio Defensores Del Chaco': 'Estadio Defensores del Chaco',
-    'Defensores del Chaco': 'Estadio Defensores del Chaco',
-    'Estadio de los Defensores del Chaco': 'Estadio Defensores del Chaco',
 
-    'Estadio Parque Antartica': 'Estádio Parque Antarctica',
+    'Wankdorf': 'Wankdorf Stadium',
+    'La Pontaise': 'Stade Olympique de la Pontaise',
+    'Charmilles': 'Charmilles Stadium',
+    'Comunale di Cornaredo': 'Cornaredo Stadium',
+    'St. Jacob Park': 'St. Jakob-Park',
+
+    'King Baudouin Stadium': 'Stade Roi Baudouin',
+    'Estadío Parque Espana': 'Parque Espana',
+
     'Estadío Independencia': 'Estádio Independência',
     'Estadio Independencia': 'Estádio Independência',
-    'Estadio Olimpico (Caracas)': 'Estadio Olímpico de la UCV',
+
     'Estadio Olimpico de CU': 'Estadio Olímpico Universitario',
     'Estádio Monumental David Arellano': 'Estadio Monumental David Arellano',
 
-    'Estadio Vila Belmiro': 'Estádio Urbano Caldeira',
     'Estadio Municipal de Concepcion': 'Estadio Municipal de Concepción',
     'Estadio Feliciano Caceres': 'Estadio Feliciano Cáceres',
     'Estadio Metropolitano Roberto Melendez': 'Estadio Metropolitano Roberto Meléndez',
     'Estadio Olimpico Luis Ramos': 'Estadio José Antonio Anzoátegui',
-    'Andre Kamperveen Stadion': 'André Kamperveen Stadion',
-    'Andre Kamperveen Stadium': 'André Kamperveen Stadion',
-    'Waterford National Stadium': 'Barbados National Stadium',
-    'Kingston National Stadium': 'Jamaica National Stadium',
-    #'Kasarani Stadium': 'Moi International Sports Centre',
-    'Estadio Olimpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
-    'Supachalasai Stadium': 'Thailand National Stadium',
-    'Sangam Stadium': 'Seoul World Cup Stadium',
 
+    'Estadio Francisco Morazan': 'Estadio Francisco Morazán',
+
+    'Estadio Olimpico Metropolitano': 'Estadio Olímpico Metropolitano',
+    'Estadio Jorge Calero Suarez': 'Estadio Jorge Calero Suárez',
+
+    # British Virgin Islands
     'AO Shirley Recreational Grounds': 'A.O. Shirley Recreation Ground',
-    'Arnos Vale Ground': 'Arnos Vale Stadium',
-    'Loftus Road Stadium': 'Loftus Road',
-    'Arnold Schwarzenegger Stadion': 'UPC-Arena',
+
     'Centro Epsortivo Miecimo da Silva': 'Centro Esportivo Miécimo da Silva',
     'Estadio General Severiano': 'Estádio de General Severiano',
     'Estadio General Severiano': 'Estádio General Severiano',
-    'Estadio Morumbi': 'Estádio do Morumbi',
-    'Estadio Parque do Sabia': 'Estádio Parque do Sabiá',
     'General Artigas Stadium': 'Estadio Parque Artigas',
     'Estadio Olimpico Patria': 'Estadio Olímpico Patria',
     'Estadio Monumental Rio Parapiti': 'Monumental Río Parapití',
     'Estadio Pascual Guerrero': 'Estadio Olímpico Pascual Guerrero',
     'Estadio Hernan Ramirez Villegas': 'Estadio Hernán Ramírez Villegas',
     'Estadio Elias Aguirre': 'Estadio Elías Aguirre',
-    'Estadio Olimpico de la UCV': 'Estadio Olímpico de la UCV',
+
     'Estadio Ciudad de la Plata': 'Estadio Ciudad de La Plata',
     'Estadio Brigido Iriarte': 'Estadio Brígido Iriarte',
     'Estadio Camilo Cichero': 'Estadio Alberto J. Armando',
     'Estadio Ramon Aguilera': 'Estadio Ramón Tahuichi Aguilera',
     'Estadio Olimpico Atahualpa': 'Estadio Olímpico Atahualpa',
     'Estadio Playa Ancha': 'Estadio Elías Figueroa Brander',
-    'Estadio do Arruda': 'Estádio do Arruda',
-    'Estadio Fonte Nova': 'Estádio Fonte Nova',
-    'Estadio Serra Dourada': 'Estádio Serra Dourada',
+
     'Estadio Olimpico Chateau Carreras': 'Estadio Mario Alberto Kempes',
     'Estadio Pascual Guerrero': 'Estadio Olímpico Pascual Guerrero',
     'Estadio Arequipa': 'Estadio Monumental Virgen de Chapi',
-    'Estadio La Bombonera': 'Estadio Alberto J. Armando',
 
     'Estadio Metropolitano de Futbol de Lara': 'Estadio Metropolitano de Fútbol de Lara',
     'Estadio Monumental de Maturin': 'Estadio Monumental de Maturín',
-    'Estadio Jose Pachencho Romero': 'Estadio José Pachencho Romero',
-    'Estadio Jose Panchencho Romero': 'Estadio José Pachencho Romero',
-    'Estadio Jose Panchenco Romero': 'Estadio José Pachencho Romero',
-    'Estadio Jose Pachenco Romero': 'Estadio José Pachencho Romero',
-    'Estadio Metropolitano de Merida': 'Estadio Metropolitano de Mérida',
+
     'Estadio del Bicentenario, San Juan, Argentina': 'Estadio San Juan del Bicentenario',
     'Estadio Brigadier General Estanislao Lopez': 'Estadio Brigadier General Estanislao López',
     'Estadio Jesus Bermudez': 'Estadio Jesús Bermúdez',
-    'Mineirao': 'Mineirão',
-    'Estadio Mineirao': 'Mineirão',
     'Estadio Felix Capriles': 'Estadio Félix Capriles',
     'Estadio Modelo': 'Estadio Modelo Alberto Spencer Herrera',
-    'Estadio Monumental de Nunez': 'Estadio Monumental Antonio Vespucio Liberti',
+
     'Estadio Sao Januario': 'Estádio São Januário',
     'Sportivo Barracas Stadium': 'Estadio Sportivo Barracas',
     'Estadio Gasometro': 'Estadio Gasómetro',
     'Estadio Sport de Nunoa': 'Estadio Campos de Sports de Ñuñoa',
-    'Stadío das Laranjeiras': 'Estádio das Laranjeiras',
-    'Estadio das Laranjeiras': 'Estádio das Laranjeiras',
-    'Giuseppe Meazza': 'San Siro',
-
-    'Sant Elia': 'Stadio Sant\'Elia',
-    'Friuli': 'Stadio Friuli',
-    'Geoffrey Prichard Stadium': 'Stade Geoffroy-Guichard',
-
-    'Felix Bollaert': 'Stade Félix-Bollaert',
-    'Stade Felix Bollaert': 'Stade Félix-Bollaert',
-    'Stade Felix-Bollaert': 'Stade Félix-Bollaert',
-
-    'Marc Antonio Bentegodi': 'Stadio Marc\'Antonio Bentegodi',
-
-    'Stade Chapou': 'Stade Municipal de Toulouse',
-    'Stade de Toulouse': 'Stade Municipal de Toulouse',
 
 
-    'Stade Olympique de Colombes': 'Stade Olympique Yves-du-Manoir',
 
-    'Velodrome Municipal': 'Stade Vélodrome',
-    'Stade Velodrome': 'Stade Vélodrome',
-
-    'Stadio Comunale': 'Stadio Artemio Franchi',
-    'Comunale': 'Stadio Artemio Franchi',
-    'Giovanni Berta': 'Stadio Artemio Franchi',
-    'Estadio do Pacaembu': 'Estádio do Pacaembu',
-    'Maracana': 'Estádio do Maracanã',
-    'Maracana Stadium': 'Estádio do Maracanã',
-    'Estadio do Maracana': 'Estádio do Maracanã',
-    'Estadio Ilha do Retiro': 'Estádio Ilha do Retiro',
-    'Estadio Durival Britto': 'Estádio Vila Capanema',
-    'Estádio Durival Britto e Silva': 'Estádio Vila Capanema',
     'Estadio Jose Maria Minella': 'Estadio José María Minella',
+
     'Estadio Chateau Carreras': 'Estadio Mario Alberto Kempes',
 
-
+    # Greece
     'Karaiskaki': 'Karaiskakis Stadium',
-    'City of Coventry Stadium': 'Ricoh Arena',
-    'Latrobe City Stadium': 'LaTrobe City Stadium',
-    'WIN Jubilee Oval': 'Jubilee Oval',
+
     'Jose Zorrilla': 'Estadio Nuevo José Zorrilla',
 
     'Benito Villamarin': 'Estadio Benito Villamarín',
     'Estadio Benito Villamarin': 'Estadio Benito Villamarín',
 
-
-    'Patersons Stadium': 'Subiaco Oval',
-    'Allianz Stadium': 'Sydney Football Stadium',
-    'Hunter Stadium': 'Newcastle International Sports Centre',
-    'Ausgrid Stadium': 'Newcastle International Sports Centre',
-    'AAMI Park': 'Melbourne Rectangular Stadium',
-    'Bluetongue Stadium': 'Central Coast Stadium',
-    'Skilled Park': 'Robina Stadium',
-    'Dairy Farmers Stadium': 'Willows Sports Complex',
-    'Melbourne Etihad Stadium': 'Docklands Stadium',
-    'Telstra Dome': 'Docklands Stadium',
-    'nib Stadium': 'Perth Oval',
-    'Members Equity Stadium': 'Perth Oval',
-    'ME Bank Stadium': 'Perth Oval',
-    'Aussie Stadium': 'Sydney Football Stadium',
-    'EnergyAustralia Stadium': 'Newcastle International Sports Centre',
-    'Lang Park': 'Suncorp Stadium',
-    'Stadio Ardenza': 'Stadio Armando Picchi',
-    'Stadio Fuorigrotta': 'Stadio San Paolo',
     'Mitsuzawa Stadium': 'Nippatsu Mitsuzawa Stadium',
     'Komazawa Stadium': 'Komazawa Olympic Park Stadium',
     'Chichibu Stadium': 'Chichibunomiya Rugby Stadium',
@@ -380,145 +119,7 @@ stadiums = {
     'Luis Casanova': 'Estadio de Mestalla',
     'Sarria': 'Estadi de Sarrià',
     'Luis Casanova Stadium': 'Estadio de Mestalla',
-    'Pershing Park': 'Stade Pershing',
-    'Nou Camp Stadium': 'Camp Nou',
-    'Velodrome de Vincennes': 'Vélodrome de Vincennes',
-    'Olympisch': 'Amsterdam Olympic Stadium',
-    'Olympia Stadion': 'Olympiastadion',
-    'Highbury': 'Arsenal Stadium',
-    'Pallokenttä': 'Töölön Pallokenttä',
-    'Olympic Park': 'Olympic Park Stadium',
-    'Jalisco Stadium': 'Estadío Jalisco',
 
-    'easyCredit-Stadion': 'Frankenstadion',
-    'Munsu Stadium': 'Ulsan Munsu Football Stadium',
-    'Suwon Stadium': 'Suwon World Cup Stadium',
-    'Daejeon Stadium': 'Daejeon World Cup Stadium',
-    'Jeonju Stadium': 'Jeonju World Cup Stadium',
-
-    'Munsu Football Stadium': 'Ulsan Munsu Football Stadium',
-    'Ellis Park': 'Ellis Park Stadium',
-    'Loftus Versfeld': 'Loftus Versfeld Stadium',
-    'Queens Park Oval': 'Queen\'s Park Oval',
-    'Estadio Nacional (Lima)': 'Estadio Nacional de Peru',
-    'Estadio Nacional (Peru)': 'Estadio Nacional de Peru',
-
-    'Estadío Francisco Morazán': 'Estadio Francisco Morazán',
-    'Estadio El Campin': 'Estadio El Campín',
-    'Restelo Stadium': 'Estádio do Restelo',
-    'B.C. Place': 'BC Place',
-
-    'Estadio Nacional de Tegucigalpa': 'Estadio Tiburcio Carías Andino',
-    'Tegucigalpa Estadío Nacional': 'Estadio Tiburcio Carías Andino',
-    'Estadio Tiburcio Carias Andino': 'Estadio Tiburcio Carías Andino',
-    'Estadio Nacional Tiburcio Carias': 'Estadio Tiburcio Carías Andino',
-    'Estadio Metropolitano Tiburcio Carias': 'Estadio Tiburcio Carías Andino',
-
-    'Maksimir Stadion': 'Stadion Maksimir',
-    'Estadio Zorilla': 'Estadio Nuevo José Zorrilla',
-
-    'Tokyo National Stadium': 'Tokyo National Olympic Stadium',
-    'Tokyo Olympic Stadium': 'Tokyo National Olympic Stadium',
-    'National Stadium (Tokyo)': 'Tokyo National Olympic Stadium',
-
-    'Tynecastle Park': 'Tynecastle Stadium',
-    'Ibrox Park': 'Ibrox Stadium',
-    'Trent Bridge Ground': 'Trent Bridge',
-    'Kennington Oval': 'The Oval',
-
-    'Bislet Stadium': 'Bislett Stadion',
-    'Fulton County Stadium': 'Atlanta-Fulton County Stadium',
-    'Seattle Memorial Stadium': 'Seattle High School Memorial Stadium',
-    'Allmend Stadium': 'Stadion Allmend',
-    'Soccer and Sports Center': 'Kuntz Stadium',
-    
-
-    'Stade Municipal en Camee': 'Stade Alfred Marie-Jeanne',
-    'Stade Municipal Pierre-Aliker': 'Stade Pierre-Aliker',
-    'Estadio Excelsior': 'Estadio Excélsior',
-    'Estadío Cuscatlán': 'Estadio Cuscatlán',
-    'Estadio Cuscatlan': 'Estadio Cuscatlán',
-
-    'Nep Stadium': 'Nepstadion',
-    'Willow Memorial Park Stadium': 'New Britain Veterans Stadium',
-    'Willowbrook Memorial Park': 'New Britain Veterans Stadium',
-    'Estadio Jalisco': 'Estadío Jalisco',
-    'Tuo Dong Stadium': 'Kunming Tuodong Sports Center',
-    'New York Indiana Oval': 'New York Oval',
-
-    
-    'Estadio Alejandro Morera Soto': 'Estadío Alejandro Morera Soto',
-    'Tony Glavin Complex': 'Tony Glavin Soccer Complex',
-
-    'Texas A&M Intl Univ Soccer Complex': 'TAMIU Soccer Complex',
-    'WoodForest Stadium': 'Woodforest Bank Stadium',
-    'Memorial Stadium (Seattle)': 'Seattle Memorial Stadium',
-    'Crescent Grounds': 'Crescent Athletic Club Grounds',
-    'Soldiers Field': 'Harvard Stadium',
-    'Soldier\'s Field': 'Harvard Stadium',
-    'Staten Island Cricket Club Grounds': 'Staten Island Cricket Grounds',
-    'Macomb\'s Dam Park': 'Macombs Dam Park',
-    'Montreal Stade Saputo': 'Stade Saputo',
-    'Maryland Soccerplex': 'Maryland SoccerPlex',
-    'Maryland Soccer Plex': 'Maryland SoccerPlex',
-    'RSL Training Field': 'America First Field',
-    #'Kino Veterans Memorial Stadium': 'Kino Veterans Memorial Stadium',
-    'Kino Sports Complex': 'Kino Veterans Memorial Stadium',
-
-    'Estadio Nacional Mateo Flores': 'Estadio Mateo Flores',
-    'Estadio Mateo Flores': 'Estadío Mateo Flores',
-    'A.J. Siemon Stadium': 'A.J. Simeon Stadium',
-
-    'Estadio Andres Quintana Roo': 'Estadio Quintana Roo',
-    'Estadio Agustin Muquita Sanchez': 'Estadio Agustín Sánchez',
-    'Estadio Agustin Sanchez': 'Estadio Agustín Sánchez',
-    'Estadio Armando Dely Valdes': 'Estadio Armando Dely Valdés',
-    'Estadio Nemesio Diez': 'Estadio Nemesio Díez',
-
-    'Estadio Olimpico Universitario': 'Estadio Olímpico Universitario',
-    'Estadio Olimpico Universitario Mexico 68': 'Estadio Olímpico Universitario',
-
-    'Estadio Tecnologico': 'Estadio Tecnológico',
-    'Estadio Francisco Morazan': 'Estadio Francisco Morazán',
-
-    'Estadio Olimpico Metropolitano': 'Estadio Olímpico Metropolitano',
-    'Estadio Jorge Calero Suarez': 'Estadio Jorge Calero Suárez',
-    'DSG Park': 'Dick\'s Sporting Goods Park',
-    'Lehigh Stadium': 'Taylor Field',
-    'Livestrong Sporting Park': 'Sporting Kansas City Park',
-    'Starfire Complex': 'Starfire Sports Complex',
-    'Rochester Rhinos Stadium': 'Sahlen\'s Stadium',
-    'RE/MAX Greater Atlanta Stadium': 'Atlanta Silverbacks Park',
-    'Silverbacks Stadium': 'Atlanta Silverbacks Park',
-    'Cal State Fullerton Titan Stadium': 'Titan Stadium',
-    'Fullerton Stadium': 'Titan Stadium',
-
-
-    'Legion Sports Complex': 'Legion Stadium',
-    'Krenzler Stadium': 'Krenzler Field',
-    'Belson Stadium (St. John\'s University)': 'Belson Stadium',
-    'Citibank Park': 'Bethpage Ballpark',
-    'Stony Brook University Stadium': 'Kenneth P. LaValle Stadium',
-    'Peter Johansen Stadium': 'Peter Johansen High School Stadium',
-    'Collins-Perley Sports Complex': 'Collins Perley Sports Center',
-    'Consol Energy Park': 'Falconi Field',
-    '110th & 8th Ave Park': '110th and 8th Ave Park',
-    'Ridgewood Baseball Park': 'Ridgewood Baseball Grounds',
-    'North Ends Field': 'North Ends Grounds',
-    'ONT AA Grounds': 'Clark ONT Field',
-    'Clark Field': 'Clark ONT Field',
-    'Wanderers Park': 'Wanderers Grounds',
-    'East End Grounds': 'East End Park',
-    'Visitation Oval': 'Visitation Park',
-    'Harlem Field': 'Harlem Oval',
-    'Walsh Stadium': 'Walsh Memorial Stadium',
-
-    'Wembley': 'Wembley Stadium',
-    'Niedersachsenstadion': 'AWD-Arena',
-    'Neckerstadion': 'Mercedes-Benz Arena',
-    'Santiago Bernabeu': 'Estadio Santiago Bernabéu',
-    'Bernabeu Stadium': 'Estadio Santiago Bernabéu',
-    'Estadio Santiago Bernabeu': 'Estadio Santiago Bernabéu',
 
     'Estadio de San Lazaro': 'Estadio Multiusos de San Lázaro',
 
@@ -538,214 +139,746 @@ stadiums = {
     'Mohammad Bin Zayed Stadium': 'Mohammed Bin Zayed Stadium',
     'Durival de Brito': 'Estádio Vila Capanema',
 
-    'King Fahd International Stadium': 'King Fahd Stadium',
-    'King Fahd II Stadium': 'King Fahd Stadium',
 
-    'Niigata Stadium': 'Tohoku Electric Power Big Swan Stadium',
-    'Munsu Cup Stadium': 'Ulsan Munsu Football Stadium',
 
     'Eucaliptos': 'Estádio dos Eucaliptos',
     'Estadio dos Eucaliptos': 'Estádio dos Eucaliptos',
     'Roker Park Ground': 'Roker Park',
     'White City': 'White City Stadium',
     'Parc Lescure': 'Stade Chaban-Delmas',
-    'La Corregidora': 'Estadio Corregidora',
-    'Neza': 'Estadio Neza 86',
-    'Tecnologico': 'Estadio Tecnológico',
-    'Azteca': 'Estadio Azteca',
-    'Jalisco': 'Estadio Jalisco',
-    'Cuauhtemoc': 'Estadio Cuauhtémoc',
+
+
+    'Nou Camp Stadium': 'Camp Nou',
+    'Velodrome de Vincennes': 'Vélodrome de Vincennes',
+
+    'Olympisch': 'Amsterdam Olympic Stadium',
+    'Olympia Stadion': 'Olympiastadion',
+    'Highbury': 'Arsenal Stadium',
+
+
+    'Olympic Park': 'Olympic Park Stadium',
+
+
+    'easyCredit-Stadion': 'Frankenstadion',
+    'Munsu Stadium': 'Ulsan Munsu Football Stadium',
+    'Suwon Stadium': 'Suwon World Cup Stadium',
+    'Daejeon Stadium': 'Daejeon World Cup Stadium',
+    'Jeonju Stadium': 'Jeonju World Cup Stadium',
+
+    'Munsu Football Stadium': 'Ulsan Munsu Football Stadium',
+    'Ellis Park': 'Ellis Park Stadium',
+    'Loftus Versfeld': 'Loftus Versfeld Stadium',
+    'Queens Park Oval': 'Queen\'s Park Oval',
+
+    'Estadío Francisco Morazán': 'Estadio Francisco Morazán',
+    'Estadio El Campin': 'Estadio El Campín',
+    'Restelo Stadium': 'Estádio do Restelo',
+    'B.C. Place': 'BC Place',
+
+    'Estadio Nacional de Tegucigalpa': 'Estadio Tiburcio Carías Andino',
+    'Tegucigalpa Estadío Nacional': 'Estadio Tiburcio Carías Andino',
+    'Estadio Tiburcio Carias Andino': 'Estadio Tiburcio Carías Andino',
+    'Estadio Nacional Tiburcio Carias': 'Estadio Tiburcio Carías Andino',
+    'Estadio Metropolitano Tiburcio Carias': 'Estadio Tiburcio Carías Andino',
+
+    'Maksimir Stadion': 'Stadion Maksimir',
+    'Estadio Zorilla': 'Estadio Nuevo José Zorrilla',
+
+    'Tynecastle Park': 'Tynecastle Stadium',
+    'Ibrox Park': 'Ibrox Stadium',
+    'Trent Bridge Ground': 'Trent Bridge',
+    'Kennington Oval': 'The Oval',
+
+    'Bislet Stadium': 'Bislett Stadion',
+    'Fulton County Stadium': 'Atlanta-Fulton County Stadium',
+    'Seattle Memorial Stadium': 'Seattle High School Memorial Stadium',
+    'Allmend Stadium': 'Stadion Allmend',
+    'Soccer and Sports Center': 'Kuntz Stadium',
     
-    'Estadío Cuauhtémoc': 'Estadio Cuauhtémoc',
-    'Cuauhtemoc Stadium': 'Estadío Cuauhtémoc',
-    'Estadio Cuauhtemoc': 'Estadio Cuauhtémoc',
-    'Gerland': 'Stade de Gerland',
+    'Stade Municipal en Camee': 'Stade Alfred Marie-Jeanne',
+    'Stade Municipal Pierre-Aliker': 'Stade Pierre-Aliker',
+
+    'Estadio Excelsior': 'Estadio Excélsior',
+    'Estadío Cuscatlán': 'Estadio Cuscatlán',
+    'Estadio Cuscatlan': 'Estadio Cuscatlán',
+
+    'Estadio Castelao (Ceara)': 'Castelão (Ceará)',
+
+    'Navy-Marine Corps Stadium': 'Navy–Marine Corps Memorial Stadium',
+    'Wildpark': 'Wildparkstadion',
+    'Korte Stadium': 'Ralph Korte Stadium',
+    'TD Bank Park': 'TD Bank Ballpark',
+
+    'Estadio Universidad Nacional San Agustin': 'Estadio Monumental Virgen de Chapi',
+    'Estadio Nuevo Gasometro': 'Estadio Pedro Bidegain',
+    'Estadio Manuel Murrillo Toro': 'Estadio Manuel Murillo Toro',
+    'Estadio Metropolitano de Cabudare': 'Estadio Metropolitano de Fútbol de Lara',
+    'Estadio Eduardo Jose Farah': 'Estádio Eduardo José Farah',
+    'Estadio Arquitecto Antonio Eleuterio': 'Estadio Arquitecto Antonio Eleuterio Ubilla',
+    'Estadio Aliardo Soria': 'Estadio Aliardo Soria Pérez',
+    'Estadio Leon': 'Estadio León',
+    'Estadio Ciudad de Cumana': 'Estadio Ciudad de Cumaná',
+    'Estadio Parque El Teniente': 'Estadio El Teniente',
+    'Estadio Dr. Nicolas Leoz': 'Estadio Dr. Nicolás Leoz',
+    'Estadio Jose Antonio Anzoategui': 'Estadio José Antonio Anzoátegui',
+    'Estadio Jose Dellagiovanna': 'Estadio José Dellagiovanna',
+    'Estadio Agustin Tovar': 'Estadio Agustín Tovar',
+    'Estadio La Carolina': 'Estadio Agustín Tovar',
+    'Estadio Brigido Irarte': 'Estadio Brígido Iriarte',
+    'Estadio Jose Luis Meiszner': 'Estadio Centenario Dr. José Luis Meiszner',
+
+
+    # Suriname
+    'Andre Kamperveen Stadion': 'André Kamperveen Stadion',
+    'Andre Kamperveen Stadium': 'André Kamperveen Stadion',
+
+    # Antigua
+    'Sticky Wicket Stadium': 'Stanford Cricket Ground',
+
+    # Cayman Islands
+    'Truman Bodden Stadium': 'Truman Bodden Sports Complex',
+
+    # Curacao
+    'Ergilio Hato Stadium': 'Stadion Ergilio Hato',
+
+    # Hungary
+    'Nep Stadium': 'Nepstadion',
+
+    # England
+    'Arnos Vale Ground': 'Arnos Vale Stadium',
+    'Loftus Road Stadium': 'Loftus Road',
+
+    'Wembley': 'Wembley Stadium',
+    'City of Coventry Stadium': 'Ricoh Arena',
+
     'St. George Cricket Grounds': 'St. George\'s Cricket Grounds',
     'La Beaujoire': 'Stade de la Beaujoire',
-    'Nazionale PNF': 'Stadio Nazionale del PNF',
     'Pocitos': 'Estadio Pocitos',
+
+    # Saudi Arabia
+    'King Fahd International Stadium': 'King Fahd Stadium',
+    'King Fahd II Stadium': 'King Fahd Stadium',
+
+
+    # Brazil
+    'Estadio Municipal Paulo Machado de Carvalho': 'Estádio do Pacaembu',
+    'Estadio do Pacaembu': 'Estádio do Pacaembu',
+    'Pacaembu Stadium': 'Estádio do Pacaembu',
+    'Maracana': 'Estádio do Maracanã',
+    'Maracana Stadium': 'Estádio do Maracanã',
+    'Estadio do Maracana': 'Estádio do Maracanã',
+    'Estadio Ilha do Retiro': 'Estádio Ilha do Retiro',
+    'Estadio Durival Britto': 'Estádio Vila Capanema',
+    'Estádio Durival Britto e Silva': 'Estádio Vila Capanema',
+
+    'Stadío das Laranjeiras': 'Estádio das Laranjeiras',
+    'Estadio das Laranjeiras': 'Estádio das Laranjeiras',
+
+    'Estadio Morumbi': 'Estádio do Morumbi',
+    'Estadio Parque do Sabia': 'Estádio Parque do Sabiá',
+
+    'Estadio Vila Belmiro': 'Estádio Urbano Caldeira',
+    'Estadio do Arruda': 'Estádio do Arruda',
+    'Estadio Fonte Nova': 'Estádio Fonte Nova',
+    'Mineirao': 'Mineirão',
+    'Estadio Mineirao': 'Mineirão',
+    'Estadio Serra Dourada': 'Estádio Serra Dourada',
+
+    'Estadio Cicero Pompeu de Toledo': 'Estádio do Morumbi',
+    'Engenhao': 'Estádio Olímpico João Havelange',
+    'Estadio Jose Pinheiro Borda': 'Estádio Beira-Rio',
+    'Arena do Gremio': 'Arena do Grêmio',
+    'Estadio do Morumbi': 'Estádio do Morumbi',
+    'Estadio Mane Garrincha': 'Estádio Nacional de Brasília',
+    'Estádio Nacional de Brasília': 'Estadio Nacional de Brasilia',
+    'Estadio Mane Garrincha': 'Estádio Nacional de Brasília',
+    'Estadio Durival de Britto': 'Estádio Vila Capanema',
+    'Estadio Beira Rio': 'Estádio Beira-Rio',
+    'Estadio Manoel Barradas': 'Estádio Manoel Barradas',
+    'Estadio Ressacada': 'Estádio da Ressacada',
+    'Estadio Aderbal Ramos da Silva': 'Estádio da Ressacada',
+    'Estádio Aderbal Ramos da Silva': 'Estádio da Ressacada',
+    'Estadio Major Antonio Couto Pereira': 'Estádio Couto Pereira',
+    'Estadio Metropolitano Roberto Santos': 'Estádio de Pituaçu',
+    'Estadio Orlando Scarpelli': 'Estádio Orlando Scarpelli',
+    'Estadio Nacional (Brasilia)': 'Estadio Nacional de Brasilia',
+    'Parque Antártica': 'Estádio Parque Antarctica',
+    'Estadio Parque Antartica': 'Estádio Parque Antarctica',
+    'Parque Antartica': 'Estádio Parque Antarctica',
+    'Estadio Jaconi': 'Estádio Alfredo Jaconi',
+    'Estádio Major Antônio Couto Pereira': 'Estádio Couto Pereira',
+    'Estadio do Governo do Estadio de Goias': 'Estádio Serra Dourada',
+    'Estádio Metropolitano Roberto Santos': 'Estádio de Pituaçu',
+    'Estadio Olimpico Monumental': 'Estádio Olímpico Monumental',
+    'Estadio Olimpico do Para': 'Mangueirão',
+    'Estádio Olímpico do Pará': 'Mangueirão',
+    'Mangueirao': 'Mangueirão',
+    'Estadio Rei Pele': 'Estádio Rei Pelé',
+    'Estadio Morumbi': 'Estádio do Morumbi',
+    'Estádio Vivaldo Lima': 'Vivaldão',
+    'Vivaldao': 'Vivaldão',
+    'Estadio Beira-Rio': 'Estádio Beira-Rio',
+    'Estadio Governador Joao Castelo': 'Estádio Governador João Castelo',
+    'Estadio Couto Pereira': 'Estádio Couto Pereira',
+    'Estadio Olimpico Joao Havelange': 'Estádio Olímpico João Havelange',
+    'Estadio Urbano Caldeira': 'Estádio Urbano Caldeira',
+
+    # Chile
+    'Estadio Santa Laura': 'Estadio Santa Laura-Universidad SEK',
+    'Estadio Nacional de Chile': 'Estadio Nacional Julio Martínez Prádanos',
+    'Estadio Nacional (Chile)': 'Estadio Nacional Julio Martínez Prádanos',
+    'Estadio Nacional Julio Martinez': 'Estadio Nacional Julio Martínez Prádanos',
+
+    # France
+    'Geoffrey Prichard Stadium': 'Stade Geoffroy-Guichard',
+    'Felix Bollaert': 'Stade Félix-Bollaert',
+    'Stade Felix Bollaert': 'Stade Félix-Bollaert',
+    'Stade Felix-Bollaert': 'Stade Félix-Bollaert',
+    'Stade Chapou': 'Stade Municipal de Toulouse',
+    'Stade de Toulouse': 'Stade Municipal de Toulouse',
+    'Stade Olympique de Colombes': 'Stade Olympique Yves-du-Manoir',
+    'Velodrome Municipal': 'Stade Vélodrome',
+    'Stade Velodrome': 'Stade Vélodrome',
+    'Pershing Park': 'Stade Pershing',
+    'Stade Gerland': 'Stade de Gerland',
+    'Gerland': 'Stade de Gerland',
+    'Meinau': 'Stade de la Meinau',
+    'Victor Boucquey': 'Stade Victor Boucquey',
+    'Cavee Verte': 'Stade de la Cavée verte',
+    'Stade Cavee Verte': 'Stade de la Cavée verte',
+    'Fort Carree': 'Stade du Fort Carré',
+    'Stade du Fort Carre': 'Stade du Fort Carré',
+
+
+    # Italy
+
+    'Stadio San Siro': 'San Siro',
+    'Stadio Nazionale PNF': 'Stadio Nazionale del PNF',
+    'Stadio Benito Mussolini': 'Stadio Olimpico di Torino',
+    'Stadio Giovanni Berta': 'Stadio Artemio Franchi',
+    'Nazionale PNF': 'Stadio Nazionale del PNF',
     'Benito Mussolini': 'Stadio Olimpico di Torino',
     'Giorgio Ascarelli': 'Stadio Giorgio Ascarelli',
-
+    'Stadio Ardenza': 'Stadio Armando Picchi',
+    'Stadio Fuorigrotta': 'Stadio San Paolo',
+    'Stadio Comunale': 'Stadio Artemio Franchi',
+    'Comunale': 'Stadio Artemio Franchi',
+    'Giovanni Berta': 'Stadio Artemio Franchi',
+    'Marc Antonio Bentegodi': 'Stadio Marc\'Antonio Bentegodi',
+    'Giuseppe Meazza': 'San Siro',
+    'Stadio Delle Alpi': 'Stadio delle Alpi',
+    'Sant Elia': 'Stadio Sant\'Elia',
+    'Friuli': 'Stadio Friuli',
     'Stadio La Favorita': 'Stadio Renzo Barbera',
-
     'Renato Dall Ara': 'Stadio Renato Dall\'Ara',
     'Littorale': 'Stadio Renato Dall\'Ara',
     'Stadio Littoriale': 'Stadio Renato Dall\'Ara',
     'Stadio Renato Dall\'Aria': 'Stadio Renato Dall\'Ara',
-
     'Littorio': 'Stadio Littorio',
     'Stadio Littorio': 'Stadio Giuseppe Grezar',
-
     'Luigi Ferraris': 'Stadio Luigi Ferraris',
-    'Meinau': 'Stade de la Meinau',
 
-    'Cavee Verte': 'Stade de la Cavée verte',
-    'Stade Cavee Verte': 'Stade de la Cavée verte',
+    # Spain
+    'Balaidos': 'Balaídos',
+    'Estadio Ramon Sanchez Pizjuan': 'Estadio Ramón Sánchez Pizjuán',
+    'Chamartin Stadium': 'Estadio Chamartín',
+    'Estadio Sarria': 'Estadi de Sarrià',
+    'Estadio San Mames': 'Estadio San Mamés',
+    'Estadio Ciudad de Mendoza': 'Estadio Malvinas Argentinas',
+    'Vicente Calderon Stadium': 'Estadio Vicente Calderón',
+    'Vicente Calderon': 'Estadio Vicente Calderón',
+    'Estadio Vicente Calderon': 'Estadio Vicente Calderón',
+    'Santiago Bernabeu': 'Estadio Santiago Bernabéu',
+    'Bernabeu Stadium': 'Estadio Santiago Bernabéu',
+    'Estadio Santiago Bernabeu': 'Estadio Santiago Bernabéu',
 
-    'Victor Boucquey': 'Stade Victor Boucquey',
-    'Fort Carree': 'Stade du Fort Carré',
+    # Netherlands
+    'Olympisch Stadion': 'Amsterdam Olympic Stadium',
+
+    # Portugal
+    'Estadio da Luz': 'Estádio da Luz',
+
+    # Venezuela
+    'Estadio Jose Pachencho Romero': 'Estadio José Pachencho Romero',
+    'Estadio Jose Panchencho Romero': 'Estadio José Pachencho Romero',
+    'Estadio Jose Panchenco Romero': 'Estadio José Pachencho Romero',
+    'Estadio Jose Pachenco Romero': 'Estadio José Pachencho Romero',
+    'Estadio Metropolitano de Merida': 'Estadio Metropolitano de Mérida',
+    'Estadio Olimpico de la UCV': 'Estadio Olímpico de la UCV',
+    'Estadio Olimpico (Caracas)': 'Estadio Olímpico de la UCV',
+    'Estadio Polideportivo Cachamay': 'Polideportivo Cachamay',
+    'Estadio Olimpico de Caracas': 'Estadio Olímpico de la UCV',
+    'Estadio Olimpico Universitario (Caracas)': 'Estadio Olímpico de la UCV',
+    'Estadio Universitario (Caracas)': 'Estadio Olímpico de la UCV',
+    'Estadio Olimpico (Caracas FC)': 'Estadio Olímpico de la UCV',
+
+    # China
+    'Tuo Dong Stadium': 'Kunming Tuodong Sports Center',
+
+    # Mexico
+    'Estadio Nemesio Diez': 'Estadio Nemesio Díez',
+    'Estadio Andres Quintana Roo': 'Estadio Quintana Roo',
+
+    'Estadio Tecnologico': 'Estadio Tecnológico',
+    'Estadio Jalisco': 'Estadío Jalisco',
+    'Jalisco Stadium': 'Estadío Jalisco',
+    'Estadio Olimpico Universitario': 'Estadio Olímpico Universitario',
+    'Estadio Olimpico Universitario Mexico 68': 'Estadio Olímpico Universitario',
+    'Nuevo Estadio Corona': 'Estadio TSM Corona',
+
+    'Stadium Tecnologico': 'Estadio Tecnológico',
+    'Estadio Victor Manuel Reyna': 'Estadio Víctor Manuel Reyna',
+    'Estadio Nou Camp': 'Estadio León', 
+    'La Corregidora': 'Estadio Corregidora',
+    'Neza': 'Estadio Neza 86',
+    'Tecnologico': 'Estadio Tecnológico',
+    'Azteca': 'Estadio Azteca',
+    'Azteca Stadium': 'Estadio Azteca',
+    'Jalisco': 'Estadio Jalisco',
+    'Cuauhtemoc': 'Estadio Cuauhtémoc',
+    'Estadío Cuauhtémoc': 'Estadio Cuauhtémoc',
+    'Cuauhtemoc Stadium': 'Estadío Cuauhtémoc',
+    'Estadio Cuauhtemoc': 'Estadio Cuauhtémoc',
+    'Estadio de la Ciudad de los Deportes': 'Estadio Azul',
+    'Estadio de la Ciudad de los Deportes, México DF': 'Estadio Azul',
+    'Estadio Azulgrana': 'Estadio Azul',
+    'Estadio de Riazor': 'Estadio Riazor',
+    #'Estadio Jose Zorrilla': 'Estadio Nuevo José Zorrilla',
+    'Estadio La Corregidora': 'Estadio Corregidora',
+    'Estadio Luis Dosal': 'Estadio Nemesio Díez',
+    'Estadio Luis Gutierrez Dosal': 'Estadio Nemesio Díez',
+    'Estadio Luis Gutiérrez Dosal': 'Estadio Nemesio Díez',
+
+    # South Korea
+    'Sangam Stadium': 'Seoul World Cup Stadium',
+    'Munsu Cup Stadium': 'Ulsan Munsu Football Stadium',
+
+    # Japan
+    'Yokohama International Stadium': 'International Stadium Yokohama',
+    'Tokyo National Stadium': 'Tokyo National Olympic Stadium',
+    'Tokyo Olympic Stadium': 'Tokyo National Olympic Stadium',
+    'National Stadium (Tokyo)': 'Tokyo National Olympic Stadium',
+    'Kashima Stadium': 'Kashima Soccer Stadium',
+    'Niigata Stadium Big Swan': 'Tohoku Electric Power Big Swan Stadium',
+    'Saitama Stadium': 'Saitama Stadium 2002',
+    'Shizuoka Ecopa Stadium': 'Shizuoka Stadium',
+    'Ecopa Stadium': 'Shizuoka Stadium',
+    'Oita Stadium': 'Ōita Bank Dome',
+    'Oita Big Eye Stadium': 'Ōita Bank Dome',
+    'Kobe Wing Stadium': 'Home\'s Stadium Kobe',
+    'Niigata Stadium': 'Tohoku Electric Power Big Swan Stadium',
+
+    # Barbados
+    'Waterford National Stadium': 'Barbados National Stadium',
+
+    #Jamaica 
+    'Kingston National Stadium': 'Jamaica National Stadium',
+    #'Kasarani Stadium': 'Moi International Sports Centre',
+    'Estadio Olimpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
+
+    # Thailand
+    'Supachalasai Stadium': 'Thailand National Stadium',
+
+    # Austria
+    'Arnold Schwarzenegger Stadion': 'UPC-Arena',
+    'Ernst-Happel Stadion': 'Ernst-Happel-Stadion',
+    'Ernst Happel Stadium': 'Ernst-Happel-Stadion',
+
+    # Germany
+    'Gottlieb-Daimler-Stadion': 'Mercedes-Benz Arena',
+    'Neckarstadion': 'Mercedes-Benz Arena',
+    'Frankfurt Waldstadion': 'Commerzbank-Arena',
+    'Niedersachsenstadion': 'AWD-Arena',
+    'Neckerstadion': 'Mercedes-Benz Arena',
+    'Rhein-Energie Stadion': 'RheinEnergieStadion',
+    'Franken-Stadion': 'Frankenstadion',
+    'Hanover FIFA World Cup Stadium': 'AWD-Arena',
+    'Zentralstadion': 'Red Bull Arena (Leipzig)',
+    'AOL Arena': 'Volksparkstadion',
+    'HSH Nordbank Arena': 'Volksparkstadion',
+
+    # Puerto Rico
+    'Estadio Juan Ramón Loubriel': 'Estadio Juan Ramon Loubriel',
+    'Juan Ramon Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
+    'Juan Ramón Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
+    'Bayamon Soccer Complex': 'Bayamón Soccer Complex',
+    'Bayamon FC Soccer Complex': 'Bayamon Soccer Complex',
+
+    # Uruguay
+    'Centenario': 'Estadio Centenario',
+    'Estadio Centenario': 'Estadío Centenario',
+
+    'Centenario Stadium': 'Estadio Centenario',
+    'Estadio Jardines del Hipodromo': 'Estadio Jardines Del Hipódromo',
+    'Estadio Jardines Del Hipodromo': 'Estadio Jardines Del Hipódromo',
+    'Estadio Gran Parque Central': 'Parque Central',
+    'Estadío Parque Central': 'Parque Central',
+    'Estadio Parque Central': 'Parque Central',
+    'Gran Parque Central': 'Parque Central',
+
+    # Belize
+    'FFB Field': 'FFB Stadium',
+
+    # Australia
+    'Latrobe City Stadium': 'LaTrobe City Stadium',
+    'WIN Jubilee Oval': 'Jubilee Oval',
+    'Patersons Stadium': 'Subiaco Oval',
+    'Allianz Stadium': 'Sydney Football Stadium',
+    'Hunter Stadium': 'Newcastle International Sports Centre',
+    'Ausgrid Stadium': 'Newcastle International Sports Centre',
+    'AAMI Park': 'Melbourne Rectangular Stadium',
+    'Bluetongue Stadium': 'Central Coast Stadium',
+    'Skilled Park': 'Robina Stadium',
+    'Dairy Farmers Stadium': 'Willows Sports Complex',
+    'Melbourne Etihad Stadium': 'Docklands Stadium',
+    'Telstra Dome': 'Docklands Stadium',
+    'nib Stadium': 'Perth Oval',
+    'Members Equity Stadium': 'Perth Oval',
+    'ME Bank Stadium': 'Perth Oval',
+    'Aussie Stadium': 'Sydney Football Stadium',
+    'EnergyAustralia Stadium': 'Newcastle International Sports Centre',
+    'Lang Park': 'Suncorp Stadium',
+
+    'Bruce Stadium': 'Canberra Stadium',
+    'Aurora Stadium': 'York Park',
+
+    # UAE
+    'Al-Nuhayyan Stadium': 'Al Nahyan Stadium',
+
+    # Panama
+    'Estadio Agustin Muquita Sanchez': 'Estadio Agustín Sánchez',
+    'Estadio Agustin Sanchez': 'Estadio Agustín Sánchez',
+    'Estadio Armando Dely Valdes': 'Estadio Armando Dely Valdés',
+
+    'Estadio Rommel Fernandez': 'Estadio Rommel Fernández',
+
+    # Switzerland
+    'Stadium Espenmoos': 'Espenmoos',
+    'Hardturm Stadium': 'Hardturm',
+    'St. Jakob Stadium': 'St. Jakob-Park',
+
+    # Scotland
+    'Easter Road Stadium': 'Easter Road',
+
+    # Libya
+    'Libya National Stadium': 'June 11 Stadium',
+
+    # Finland
+    'Pallokenttä': 'Töölön Pallokenttä',
+    'Ratina Stadium': 'Tampere Stadium',
+
+    # Czech Republic
+    'Na Stinadlech': 'Na Stínadlech',
+
+    # South Africa
+    'ABSA Stadium': 'Kings Park Stadium',
+    'Durban Stadium': 'Moses Mabhida Stadium',
+
+    # Estonia
+    'A. Le Coq Stadium': 'A. Le Coq Arena',
+
+    # Ukraine
+    'Valeriy Lobanovskyi Stadium': 'Valeriy Lobanovskyi Dynamo Stadium',
+
+    # Turkey
+    'Antalya Ataturk Stadyumu': 'Antalya Atatürk Stadium',
+
+    # Qatar
+    'Khalifa Stadium': 'Khalifa International Stadium',
+
+    # Sweden
     'Rasunda': 'Råsunda Stadium',
     'Jarnvallen': 'Jernvallen',
     'Nya Ullevi': 'Ullevi',
 
+    'Orjans Vall': 'Örjans Vall',
+    'Behrn Arena': 'Eyravallen',
+    'Malmo Stadion': 'Malmö Stadion',
 
-    'Wankdorf': 'Wankdorf Stadium',
-    'La Pontaise': 'Stade Olympique de la Pontaise',
-    'Charmilles': 'Charmilles Stadium',
-    'Comunale di Cornaredo': 'Cornaredo Stadium',
-    'St. Jacob Park': 'St. Jakob-Park',
+    # Chile
+    'Estadio Nacional Julio Martinez Pradanos': 'Estadio Nacional Julio Martínez Prádanos',
+    'Estadio Nacional Julio Martinez Pradanos': 'Estadio Nacional Julio Martínez Prádanos',
 
+    # Argentina
+    'La Doble Visera': 'Estadio Libertadores de América',
+    'Estadio Libertadores de America': 'Estadio Libertadores de América',
+    'El Cilindro': 'Estadio Presidente Juan Domingo Perón',
+    'Estadio Juan Domingo Peron': 'Estadio Presidente Juan Domingo Perón',
+    'Estadio Presidente Juan Domingo Peron': 'Estadio Presidente Juan Domingo Perón',
+    'Estadio Monumental Antonio Vespuci Liberti': 'Estadio Monumental Antonio Vespucio Liberti',
+    'Estadio Antonio V. Liberti': 'Estadio Monumental Antonio Vespucio Liberti',
+    'River Plate Stadium': 'Estadio Monumental Antonio Vespucio Liberti',
+    'Estadio Monumental de Nunez': 'Estadio Monumental Antonio Vespucio Liberti',
+    'Estadio Presidente Juan Domingo Peron': 'Estadio Presidente Juan Domingo Perón',
+    'Estadio Juan Domingo': 'Estadio Presidente Juan Domingo Perón',
+    'Palacio Duco': 'Estadio Tomás Adolfo Ducó',
+    'La Bombonera': 'Estadio Alberto J. Armando',
+    'Estadio La Bombonera': 'Estadio Alberto J. Armando',
+    'Estadio Ciudad de Lanus': 'Estadio Ciudad de Lanús',
 
-    'New Meadowlands Stadium': 'Giants Stadium', # Huh?
+    # Bolivia
+    'Estadio Victor Agustin Ugarte': 'Estadio Víctor Agustín Ugarte',
 
-    'Centenario': 'Estadio Centenario',
-    'Estadio Centenario': 'Estadío Centenario',
-    'King Baudouin Stadium': 'Stade Roi Baudouin',
-    'Estadío Parque Espana': 'Parque Espana',
-    'Pontiac Silverdome': 'Silverdome',
-    'Las Vegas Stadium': 'Sam Boyd Stadium',
-    'Atlanta Fulton County Stadium': 'Atlanta-Fulton County Stadium',
-    'Aquinas Stadium': 'Holleder Memorial Stadium',
-    'Robert F. Kennedy Stadium': 'Robert F. Kennedy Memorial Stadium',
-    'Edinboro University Stadium': 'Sox Harrison Stadium',
-    'Middlefield Cheese Stadium (Bedford)': 'Middlefield Cheese Stadium',
-    'Florida Citrus Bowl': 'Citrus Bowl',
-    'Richard Montgomery HS': 'Richard Montgomery High School',
+    # Paraguay
+    'Estadio Defensores Del Chaco': 'Estadio Defensores del Chaco',
+    'Defensores del Chaco': 'Estadio Defensores del Chaco',
+    'Estadio de los Defensores del Chaco': 'Estadio Defensores del Chaco',
 
-    'Seahawk Stadium': 'CenturyLink Field',
-    'Sticky Wicket Stadium': 'Stanford Cricket Ground',
+    # Peru
+    'Estadio Nacional (Lima)': 'Estadio Nacional de Peru',
+    'Estadio Nacional (Peru)': 'Estadio Nacional de Peru',
+    'Estadio Monumental U': 'Estadio Monumental "U"',
 
-    'PAETEC Park': 'Sahlen\'s Stadium',
+    # Bolivia
+    'Estadío Ramón Aguilera': 'Estadio Ramón Tahuichi Aguilera',
+    'Estadio Ramon Tahuichi Aguilera': 'Estadio Ramón Tahuichi Aguilera',
 
-    'Legion Stadium': 'Buck Hardee Field at Legion Stadium',
-    'Silverbacks Park': 'Atlanta Silverbacks Park',
-    'Soccorro Stadium': 'Socorro Stadium',
-
-    'Invesco Field': 'Sports Authority Field at Mile High',
-    'INVESCO Field': 'Sports Authority Field at Mile High',
-
-    'Paul Angelo Russo Stadium Field': 'Paul Angelo Russo Stadium',
-
-    'Estadio Juan Ramón Loubriel': 'Estadio Juan Ramon Loubriel',
-    'Juan Ramon Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
-    'Juan Ramón Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
-
-    'Carl Lewis Field': 'Carl Lewis Track & Field Stadium',
-    'Centre Claude-Robillard': 'Complexe Sportif Claude-Robillard',
-    'Claude Robillard Sports Complex': 'Complexe Sportif Claude-Robillard',
-    'Centennial Stadium': 'Centennial Park Stadium',
-    'Seahawks Stadium': 'CenturyLink Field',
-    'P & C Stadium': 'Alliance Bank Stadium',
-    'Uihlein Park': 'Uihlein Soccer Park',
-    'Kuntz Memorial Stadium': 'Kuntz Stadium',
-    'Crew Stadium': 'Columbus Crew Stadium',
-    'Stade Saputo': 'Saputo Stadium',
-    'JELD-WEN Field': 'Jeld-Wen Field',
-    'San Diego Stadium': 'Qualcomm Stadium',
-    'Portland Civic Stadium': 'Jeld-Wen Field',
-    'Civic Stadium': 'Jeld-Wen Field', # There's another Civic Stadium in Eugene, OR.
-    'BC Place Stadium': 'BC Place',
-
-
-    'Stade Gerland': 'Stade de Gerland',
-    'Oakland-Alameda County Coliseum': 'Oakland Coliseum',
-
-    #u'Estadío Sylvio Cator': 'Stade Sylvio Cator',
-    #u'Estadío Silvio Cator': 'Stade Sylvio Cator',
-    #u'Estadio Sylvio Cator': 'Stade Sylvio Cator',
-    #u'Sylvio Cator Stadium': 'Stade Sylvio Cator',
-
-    'Estadío Tropical': 'Estadio Pedro Marrero',
-    
-    'Sun Bowl (UTEP)': 'Sun Bowl Stadium',
-    'Sullivan Stadium': 'Foxboro Stadium',
-    'Al Lang Stadium': 'Progress Energy Park',
-    'Al Lang Field': 'Progress Energy Park',
-
-
-
-
+    # Costa Rica
+    'Estadio Alejandro Morera Soto': 'Estadío Alejandro Morera Soto',
     'Estadio Ricardo Saprisa': 'Estadio Ricardo Saprissa', 
     'Estadio Ricardo Saprissa Aymá': 'Estadio Ricardo Saprissa',
     'Estadio Saprissa': 'Estadio Ricardo Saprissa',
-    'Azteca Stadium': 'Estadio Azteca',
-    'Orange Bowl': 'Miami Orange Bowl',
+
+    # Canada
+    'Centre Claude-Robillard': 'Complexe Sportif Claude-Robillard',
+    'Claude Robillard Sports Complex': 'Complexe Sportif Claude-Robillard',
+
+    'BC Place Stadium': 'BC Place',
+    'Montreal Stade Saputo': 'Stade Saputo',
+    'Stade Saputo': 'Saputo Stadium',
+
+    # Guatemala
+    'Estadio Nacional Mateo Flores': 'Estadio Mateo Flores',
+    'Estadio Mateo Flores': 'Estadío Mateo Flores',
+
+    # United States
+    'Bank One Ballpark': 'Chase Field',
+    'NSC Stadium': 'National Sports Center Stadium',
+    'JFK Stadium': 'John F. Kennedy Stadium',
+    'Eagle State Street Grounds': 'Eagle Street Grounds',
+    'East State St Grounds': 'East State Street Grounds',
+    'Hermann Stadium': 'Robert R. Hermann Stadium',
+    'Kezar Field': 'Kezar Stadium',
+    'Casa Grande Soccer Complex': 'Grande Sports World',
+    'Premier Sports Campus at Lakewood Ranch': 'Premier Sports Campus',
+    'Hal Sherbeck Field House': 'Sherbeck Field',
+    'Hal Sherbeck Field': 'Sherbeck Field',
+    'Ultimate Soccer Arena': 'Ultimate Soccer Arenas',
+    'Collins Perley Sports Complex': 'Collins Perley Sports Center',
+    'Molson Stadium': 'Percival Molson Memorial Stadium',
+    'Albert/Daly Stadium': 'Albert-Daly Field',
+    'Cara McGrane Stadium': 'Cara McGrane Memorial Stadium',
+    'Calder Stadium': 'Nathan Calder Stadium',
+    'Cardinal Stadium': 'Benedetti–Wehrli Stadium',
+    'UBC Thunderbird Stadium': 'Thunderbird Stadium',
+    'Balboa Park Stadium': 'Boxer Stadium',
+    'UBC Thunderbird Stadium': 'Thunderbird Stadium',
+    'Montclair St. University': 'Montclair State University',
+    'Foothills Park': 'Foothills Stadium',
+    'Hanson Park': 'Hanson Stadium',
+    'Tony Glavin Complex': 'Tony Glavin Soccer Complex',
+    'Crescent Grounds': 'Crescent Athletic Club Grounds',
+    'Staten Island Cricket Club Grounds': 'Staten Island Cricket Grounds',
+    'Macomb\'s Dam Park': 'Macombs Dam Park',
+    'RSL Training Field': 'America First Field',
+    #'Kino Veterans Memorial Stadium': 'Kino Veterans Memorial Stadium',
+    'Kino Sports Complex': 'Kino Veterans Memorial Stadium',
+    'A.J. Siemon Stadium': 'A.J. Simeon Stadium',
+    'Lehigh Stadium': 'Taylor Field',
+    'Legion Sports Complex': 'Legion Stadium',
+    'Krenzler Stadium': 'Krenzler Field',
+    'Belson Stadium (St. John\'s University)': 'Belson Stadium',
+    'Citibank Park': 'Bethpage Ballpark',
+    'Stony Brook University Stadium': 'Kenneth P. LaValle Stadium',
+    'Peter Johansen Stadium': 'Peter Johansen High School Stadium',
+    'Collins-Perley Sports Complex': 'Collins Perley Sports Center',
+    'Consol Energy Park': 'Falconi Field',
+    'North Ends Field': 'North Ends Grounds',
+    'Wanderers Park': 'Wanderers Grounds',
+    'East End Grounds': 'East End Park',
+    'Visitation Oval': 'Visitation Park',
+    'Harlem Field': 'Harlem Oval',
+    'Walsh Stadium': 'Walsh Memorial Stadium',
+    'Aquinas Stadium': 'Holleder Memorial Stadium',
+    'Edinboro University Stadium': 'Sox Harrison Stadium',
+    'Middlefield Cheese Stadium (Bedford)': 'Middlefield Cheese Stadium',
+    'Richard Montgomery HS': 'Richard Montgomery High School',
+    'Legion Stadium': 'Buck Hardee Field at Legion Stadium',
+    'Paul Angelo Russo Stadium Field': 'Paul Angelo Russo Stadium',
+    'Carl Lewis Field': 'Carl Lewis Track & Field Stadium',
+    'Centennial Stadium': 'Centennial Park Stadium',
+    'P & C Stadium': 'Alliance Bank Stadium',
+    'Uihlein Park': 'Uihlein Soccer Park',
+    'Kuntz Memorial Stadium': 'Kuntz Stadium',
     'The Polo Grounds': 'Polo Grounds',
     'Capitoline Lake': 'Capitoline Grounds',
     'Sparta Stadium': 'Sparta Field',
-    'Marks Stadium': 'Mark\'s Stadium',
-    'Dal-Hi Stadium': 'P.C. Cobb Stadium',
-    'Gardner Park': 'Burnett Field',
-    'Fair Park Stadium': 'Cotton Bowl',
     'Blue Valley Athletic Complex': 'Blue Valley Sports Complex',
-    'Old Panther Stadium, Duncanville': 'Old Panther Field, Duncanville',
     'Chartiers Valley High School': 'Chartiers Valley Stadium',
     'Tacony Baseball Park': 'Tacony Baseball Grounds',
-    'Soccorro Stadium': 'Socorro Stadium',
-    'SAS Stadium': 'WakeMed Soccer Park',
-    'SAS Soccer Park': 'WakeMed Soccer Park',
-    'adidas Field at Pizza Hut Park': 'adidas Field',
+
     'National Sports Center': 'National Sports Center Stadium',
     'Husky Soccer Field': 'Husky Soccer Stadium',
+
+    # Michigan
+    'Pontiac Silverdome': 'Silverdome',
+
+    # Kansas
+    'Livestrong Sporting Park': 'Sporting Kansas City Park',
+    'Community America Ballpark': 'CommunityAmerica Ballpark',
+
+    # Nevada
+    'Las Vegas Stadium': 'Sam Boyd Stadium',
+
+    # Minnesota
+    'Hubert H. Humphrey Metrodome': 'Metrodome',
+
+    # Georgia
+    'RE/MAX Greater Atlanta Stadium': 'Atlanta Silverbacks Park',
+    'Silverbacks Stadium': 'Atlanta Silverbacks Park',
+    'Atlanta Stadium': 'Atlanta-Fulton County Stadium',
+    'Atlanta Fulton County Stadium': 'Atlanta-Fulton County Stadium',
+    'Silverbacks Park': 'Atlanta Silverbacks Park',
+
+    # North Carolina
+    'SAS Stadium': 'WakeMed Soccer Park',
+    'SAS Soccer Park': 'WakeMed Soccer Park',
+
+    # Colorado
+    'DSG Park': 'Dick\'s Sporting Goods Park',
+    'Sports Authority Field': 'Sports Authority Field at Mile High',
+    'Invesco Field': 'Sports Authority Field at Mile High',
+    'INVESCO Field': 'Sports Authority Field at Mile High',
+
+    # Rhode Island
+    'Marks Stadium': 'Mark\'s Stadium',
+
+    # Ohio
+    'Crew Stadium': 'Columbus Crew Stadium',
+
+    # Oregon
+    'JELD-WEN Field': 'Jeld-Wen Field',
+    'Portland Civic Stadium': 'Jeld-Wen Field',
+    'Civic Stadium': 'Jeld-Wen Field', # There's another Civic Stadium in Eugene, OR.
+
     'PGE Park': 'JELD-WEN Field',
-    'Home Depot Center Track': 'Home Depot Center Track & Field Stadium',
-    'PAETEC Park': 'Sahlen\'s Stadium',
-    'Marina Auto Stadium': 'Sahlen\'s Stadium',
-    'Marina Auto Stadium, Rochester, NY': 'Sahlen\'s Stadium',
+    
+    # Tennessee
     'Nashville Coliseum': 'LP Field',
+
+    # Florida
+    'Florida Citrus Bowl': 'Citrus Bowl',
+    'Orange Bowl': 'Miami Orange Bowl',
     'Alltel Stadium': 'EverBank Field',
-    'Estadio Bella Vista': 'Estadio Bellavista',
+    'Al Lang Stadium': 'Progress Energy Park',
+    'Al Lang Field': 'Progress Energy Park',
 
-    'Estadio Ramon Sanchez Pizjuan': 'Estadio Ramón Sánchez Pizjuán',
-
-    'Freulinghausen Ave Grounds': 'Frelinghuysen Grounds',
-    'Nuevo Estadio Corona': 'Estadio TSM Corona',
+    # Missouri
+    'The Anheuser Busch Soccer Park': 'Anheuser-Busch Soccer Park',
     'Big Arch Stadium': 'Busch Memorial Stadium',
-    'Rutgers Stadium': 'High Point Solutions Stadium',
 
-    'San Diego Sports Arena': 'Valley View Casino Center',
-    'Bank One Ballpark': 'Chase Field',
+    # Maryland
+    'Maryland Soccerplex Stadium': 'Maryland SoccerPlex',
+    'Maryland Soccerplex': 'Maryland SoccerPlex',
+    'Maryland Soccer Plex': 'Maryland SoccerPlex',
+
+    # Oklahoma
     'Skelly Field': 'Skelly Field at H. A. Chapman Stadium',
     'Skelly Stadium': 'Skelly Field at H. A. Chapman Stadium',
     'Chapman Stadium': 'Skelly Field at H. A. Chapman Stadium',
-    'NSC Stadium': 'National Sports Center Stadium',
-    'Clark\'s Athletic Field': 'Clark\'s Field',
+
+    # Washington DC
+    'Robert F. Kennedy Stadium': 'Robert F. Kennedy Memorial Stadium',
     'RFK Stadium': 'Robert F. Kennedy Memorial Stadium',
     'RFK Memorial Stadium': 'Robert F. Kennedy Memorial Stadium',
     'Robert F. Kennedy Stadium': 'Robert F. Kennedy Memorial Stadium',
     'R.F.K. Stadium': 'Robert F. Kennedy Memorial Stadium',
     'Robert F. Kennedy Memorial': 'Robert F. Kennedy Memorial Stadium',
 
+    # California
+    'Rancho La Cienega Stadium': 'Rancho La Cienga Stadium',
+    'Cal State Fullerton Titan Stadium': 'Titan Stadium',
+    'Fullerton Stadium': 'Titan Stadium',
+
+    'Oakland-Alameda County Coliseum': 'Oakland Coliseum',
+    'San Diego Stadium': 'Qualcomm Stadium',
+    'Home Depot Center Track': 'Home Depot Center Track & Field Stadium',
+    'San Diego Sports Arena': 'Valley View Casino Center',
     #'Los Angeles Memorial Coliseum': 'Memorial Coliseum (Los Angeles)',
     'Los Angeles Coliseum': 'Los Angeles Memorial Coliseum',
-
-    'Yankee Stadium': 'Yankees Stadium',
-    'JFK Stadium': 'John F. Kennedy Stadium',
-    'Philadelphia Municipal Stadium':  'John F. Kennedy Stadium',
-    'Pizza Hut Park': 'FC Dallas Stadium',
-    'Hermann Stadium': 'Robert R. Hermann Stadium',
-    'Community America Ballpark': 'CommunityAmerica Ballpark',
+    'Los Angeles Memorial Stadium': 'Los Angeles Memorial Coliseum',
     'The Home Depot Center': 'Home Depot Center',
     'Jack Murphy Stadium': 'Qualcomm Stadium',
-    'Schaefer Stadium': 'Foxboro Stadium',
+
+    # Connecticut
+    'Willow Memorial Park Stadium': 'New Britain Veterans Stadium',
+    'Willowbrook Memorial Park': 'New Britain Veterans Stadium',
+
+    # Indiana
+    'Invaders Complex': 'Indiana Invaders Soccer Complex',
+
+    # New York
+    'New York Indiana Oval': 'New York Oval',
+    '110th & 8th Ave Park': '110th and 8th Ave Park',
+    'Ridgewood Baseball Park': 'Ridgewood Baseball Grounds',
+
+    'PAETEC Park': 'Sahlen\'s Stadium',
+    'PAETEC Park': 'Sahlen\'s Stadium',
+    'Marina Auto Stadium': 'Sahlen\'s Stadium',
+    'Marina Auto Stadium, Rochester, NY': 'Sahlen\'s Stadium',
+    'Rochester Rhinos Stadium': 'Sahlen\'s Stadium',
+    'Yankee Stadium': 'Yankees Stadium',
     'Triborough Stadium': 'Downing Stadium',
     'Randall\'s Island Stadium': 'Downing Stadium',
     'Randall\s Island Stadium': 'Downing Stadium',
     'Randall\s Island': 'Downing Stadium',
+
+    # Pennsylvania
+    'City Island Stadium': 'Skyline Sports Complex',
+    'Philadelphia Municipal Stadium':  'John F. Kennedy Stadium',
     'Fedex Field': 'FedEx Field',
-    'Qwest Field': 'CenturyLink Field',
-    'Kezar Field': 'Kezar Stadium',
     'Tacony Ball Park': 'Tacony Baseball Grounds',
     'Bethlehem Steel Field': 'Steel Field',
+
+    # Texas    
+    'Soccorro Stadium': 'Socorro Stadium',
+    'Texas A&M Intl Univ Soccer Complex': 'TAMIU Soccer Complex',
+    'WoodForest Stadium': 'Woodforest Bank Stadium',
+    'Sun Bowl (UTEP)': 'Sun Bowl Stadium',
+    'Dal-Hi Stadium': 'P.C. Cobb Stadium',
+    'Fair Park Stadium': 'Cotton Bowl',
+    'Gardner Park': 'Burnett Field',
+    'Old Panther Stadium, Duncanville': 'Old Panther Field, Duncanville',
+    'adidas Field at Pizza Hut Park': 'adidas Field',
+    'Pizza Hut Park': 'FC Dallas Stadium',
+
+    # Washington
+    'Memorial Stadium (Seattle)': 'Seattle Memorial Stadium',
+    'Seahawk Stadium': 'CenturyLink Field',
+    'Starfire Complex': 'Starfire Sports Complex',
+    'Seahawks Stadium': 'CenturyLink Field',
+    'Starfire Stadium': 'Starfire Sports Complex',
+    'Qwest Field': 'CenturyLink Field',
+
+    # Massachusetts
+    'Schaefer Stadium': 'Foxboro Stadium',
+    'Sullivan Stadium': 'Foxboro Stadium',
+    'Soldiers Field': 'Harvard Stadium',
+    'Soldier\'s Field': 'Harvard Stadium',
+
+    # New Jersey
+    'ONT AA Grounds': 'Clark ONT Field',
+    'Clark Field': 'Clark ONT Field',
+    'New Meadowlands Stadium': 'Giants Stadium', # Huh?
+    'Freulinghausen Ave Grounds': 'Frelinghuysen Grounds',
+    'Yurcak Field Stadium': 'Yurcak Field',
+    'Rutgers Stadium': 'High Point Solutions Stadium',
     'ONT Grounds': 'Clark Field',
     'Clark\'s Athletic Field': 'Clark Field',
-    'Eagle State Street Grounds': 'Eagle Street Grounds',
     'Frelinghuysen Avenue Grounds': 'Frelinghuysen Grounds',
     'Frelinghuysen Avenue Ground': 'Frelinghuysen Grounds',
-    'East State St Grounds': 'East State Street Grounds',
+    'Clark\'s Athletic Field': 'Clark\'s Field',
 
-    
 }
 sd.update(stadiums)
 

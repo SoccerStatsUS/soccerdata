@@ -329,9 +329,6 @@ l = [
         },
 
 
-
-
-
     {
         'name': 'Parque Pereira',
         'location': 'Montevideo, Uruguay',
@@ -751,7 +748,16 @@ l = [
     {
         'name': 'Estadio Gasómetro',
         'location': 'Buenos Aires, Argentina',
+        'opened': datetime.datetime(1916, 5, 7),
+        'closed': 1983,
         'capacity': 75000,
+        },
+
+    {
+        'name': 'Estadio Pedro Bidegain',
+        'location': 'Buenos Aires, Argentina',
+        'opened': 1993,
+        'capacity': 43494
         },
 
     {
@@ -774,6 +780,13 @@ l = [
         'location': 'Buenos Aires, Argentina',
         'opened': datetime.datetime(2003, 12, 26),
         'capacity': 24380,
+        },
+
+    {
+        'name': 'Estadio Florencio Sola',
+        'location': 'Buenos Aires, Argentina',
+        'opened': 1940,
+        'capacity': 34901
         },
 
     {
@@ -1081,6 +1094,14 @@ l = [
         'capacity': 38095,
         }, 
 
+
+    {
+        'name': 'Estadio Centenario Dr. José Luis Meiszner',
+        'location': 'Quilmes, Argentina',
+        'opened': datetime.datetime(1995, 4, 25),
+        'capacity': 30200,
+        }, 
+
     {
         'name': 'Estadio CAP',
         'location': 'Talcahuano, Chile',
@@ -1178,6 +1199,37 @@ l = [
         'cost': 192000000,
         }, 
 
+    {
+        'name': 'Estádio Eduardo José Farah',
+        'location': 'Sao Paulo, Brazil',
+        'opened': 1982,
+        'capacity': 44414
+        }, 
+
+
+    {
+        'name': 'Estádio Manoel Barradas',
+        'location': 'Salvador, Brazil',
+        'opened': 1986,
+        'capacity': 35000,
+        }, 
+
+    {
+        'name': 'Estádio Municipal João Lamego Netto',
+        'location': 'Ipatinga, Brazil',
+        'opened': datetime.datetime(1982, 11, 23),
+        'capacity': 20500
+        }, 
+
+    {
+        'name': 'Estádio da Ressacada',
+        'location': 'Florianopolis, Brazil',
+        'opened': datetime.datetime(1983, 11, 15),
+        'capacity': 17800
+        }, 
+
+
+
 
     {
         'name': 'Estadio Roberto Bettega',
@@ -1193,7 +1245,7 @@ l = [
 
 
     {
-        'name': 'Estadio Aliardo Soria',
+        'name': 'Estadio Aliardo Soria Pérez',
         'location': 'Pucallpa, Peru',
         'opened': 2007,
         'capacity': 25000,

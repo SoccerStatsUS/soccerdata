@@ -5,7 +5,7 @@ Season: 1961
 
 * Teams: Peñarol (Uruguay), Independiente Santa Fe (Colombia), Olimpia (Paraguay), Independiente (Argentina), Palmeiras (Brasil), Jorge Wilstermann (Bolivia), Colo Colo (Chile), Universitario (Peru), Barcelona (Ecuador). The champion national team of Venezuela did not participate in this edition.
  
-Round: First Round
+Round: 1
 
 4/2/1961; Independiente Santa Fe; 3-0; Barcelona (Ecuador); Estadio El Campin; Rafael Guerrero Parker; 25000
 Panzutto, Panzutto, A. Perazzo;
@@ -18,7 +18,7 @@ Barcelona (Ecuador): Ansaldo, Arguello, Lecaro, Macias, Merizalde, Zambrano, Ca�
 Independiente Santa Fe: Pacheco, C. Rodriguez, Milne, Montero, Aponte, Silva, Campana, Castro, Panzutto, A. Perazzo, H. Gonzalez.
 
 Round: Quarterfinals
-Group: Group A
+Group: A
 
 4/9/1961; Colo Colo; 2-5; Olimpia (Paraguay); Estadio Nacional, Santiago, Chile; Esteban Marino; 17780
 Hormazabal, Toro; P. Cabral, P. Cabral, Ferreira, Ferreira, A. Gonzalez
@@ -31,7 +31,7 @@ Olimpia (Paraguay): Arias, Arevalo, Peralta, Osorio, Echague, C. Lezcano, Rodrig
 Colo Colo: Escuti, Peña, Navarro, J. Gonzalez, E. Gonzalez (Guevara), Rodriguez, L.H. Alvarez, Hormazabal, Soto, Toro, Bello.
 Red Card: P. Cabral;
  
-Group: Group B
+Group: B
 
 4/19/1961; Penarol; 5-0; Universitario; Estadio Centenario; Carlos Robles; 57630
 Spencer, Spencer, Joya, Joya, Sasia;
@@ -43,7 +43,7 @@ A. Uribe, Iwasaki;
 Universitario: Zegarra, J. Fernandez, Gutierrez, Soria, Calderon, Minaya, J. Ruiz, A. Uribe, Cruzado, Marquez, Iwasaki.
 Penarol: Maidana, W. Martinez, Cano, E. Gonzalez, Goncalves, Aguerre, Ledesma, Cabrera, Spencer, Sasia, Joya.
 
-Group: Group C
+Group: C
 
 5/4/1961; Independiente; 0-2; Palmeiras; Estadio Juan Domingo; Jose Dimas Larrosa; 25000
 ; Gildo, Zequinho
@@ -55,7 +55,7 @@ Geraldo Scotto II;
 Palmeiras: Waldir, Djalma Santos, Geraldo da Silva I, Waldemar, Zequinha, Aldemar Santos, Gildo, Julio Botelho "Julinho", Feraldo Scotto II, Chinezinho, Jose Romeiro.
 Independiente: Bernardico, Acevedo, Navarro, Rolan, Silveira, Maldonado, Cruz, Douskas, L. Suarez, D'Ascenzo, Romero.
 
-Group: Group D
+Group: D
 
 4/30/1961; Jorge Wilstermann; 3-2; Independiente Santa Fe; Estadio Felix Capriles; Carlos Robles; 35000
 R. Castro, R. Castro, C. Sanchez; Panzutto, Castro
@@ -68,7 +68,7 @@ Independiente Santa Fe: Bevilacqua, C. Rodriguez, A. Pereira da Silva, Suarez, M
 Jorge Wilstermann: Cobo, Claure, Espinosa (Salamanca), J. Trujillo, Rocabado, Camacho, C. Sanchez, M. Alcocer, Escobar, Lopez, A. Soria
 
 Round: Semifinals
-Group: Group A
+Group: A
 
 5/21/1961; Independiente Santa Fe; 2-2; Palmeiras; Estadio El Campin; Joao Etzel Filho; 35000
 A. Perazzo, Castro; Gildo, Chinezinho
@@ -80,7 +80,7 @@ Romeiro, Romeiro, Humberto Barbosa, Gildo; Mottura
 Palmeiras: Waldir, Djalma Santos, Waldemar, Aldemar Santos, Zequinha, Geraldo da Silva I, Julio Botelho "Julinho", Gildo, Geraldo Scotto II (Humberto Barbosa), Chinezinho, Jose Romeiro.
 Independiente Santa Fe: Pacheco, C. Rodriguez, Milne, Aponte, Tovar, Silva, Mottura, J. Castro, Panzutto, A. Perazzo, H. Gonzalez.
 
-Group: Group B 
+Group: B 
 
 5/21/1961; Penarol; 3-1; Olimpia (Paraguay); Estadio Centenario; Carlos Nai Foino; 42000
 Joya, Cano, Cubilla; Ferreira
@@ -95,6 +95,7 @@ Penarol: Maidana, W. Martinez, Cano, Pino (Cottiga), Matosas, Aguerre, Luis Cubi
 Red Card: C. Lezcano, V. Rodriguez;
  
 Round: Finals
+Group:
 
 6/4/1961; Penarol; 1-0; Palmeiras; Estadio Centenario; Jose Luis Praddaude; 70000
 Spencer;

@@ -61,7 +61,14 @@ slugs = {
 
 
 world = {
-
+    
+    'I.R.T. Celtics': 'IRT Celtics',
+    'Atletico Santista': 'Atlético Santista',
+    'C.A. Bella Vista': 'CA Bella Vista',
+    'Orion F.C.': 'Orión FC',
+    'Irish American FC': 'Irish-American FC',
+    'River Plate Montevideo': 'River Plate (Montevideo)',
+    'Larne F.C.': 'Larne FC',
 
     # Generics
     'Àguila': 'Aguila',
@@ -135,7 +142,6 @@ world = {
     'University of California Berkeley': 'University of California, Berkeley',
     'IA Sud America': 'IA Sud América',
     'C.U.R.C.C.': 'CURCC',
-    #[<Team: America de Cali>, <Team: América de Cali>]
     'Ceara': 'Ceará',
 
     'Reunion': 'Réunion',
@@ -287,7 +293,8 @@ world = {
     'CD Dragon': 'CD Dragón',
     'Dragon': 'CD Dragón',
 
-    'St. George Colts': 'St. George\s Colts',
+    'St. George Colts': 'St. George\'s Colts',
+  
     'Vibe CT 105 W. Connection': 'W Connection',
     'Williams Connection FC': 'W Connection',
     'Vibe CT 105 W. Connection': 'W Connection',

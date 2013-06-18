@@ -2,10 +2,10 @@ BlockSource: http://www.rsssf.com/sacups/copa74.html
 Competition: Copa Libertadores
 Season: 1974
 
-Round: First Round
+Round: 1
 * Independiente (Avellaneda) bye to the second round as holders.
 
-Group: Group 1 
+Group: 1 
 * [Argentina, Chile]
 
 2/28/1974; Rosario Central; 1-0; Huracán               
@@ -30,7 +30,7 @@ Group: Group 1
 * (Buenos Aires)
 4/11/1974; Huracán; 4-0; Rosario Central
 
-Group: Group 2 
+Group: 2 
 * [Bolivia, Brazil]
 
 3/30/1974; São Paulo; 2-0; Palmeiras                   
@@ -51,7 +51,7 @@ Group: Group 2
 * 3.Deportivo Municipal (La Paz)    6  1  2  3  9-11  4
 * 4.Jorge Wilstermann (Cochabamba)  6  2  0  4  4-13  4
 
-Group: Group 3 
+Group: 3 
 * [Colombia, Venezuela]
 
 2/6/1974; Portuguesa (Venezuela); 0-0; Valencia (Venezuela)                   
@@ -72,7 +72,7 @@ Group: Group 3
 * 3.Portuguesa (Venezuela) (Acarigua)           6  2  2  2  4- 5  6
 * 4.Valencia (Venezuela) (Acarigua)             6  0  2  4  4- 8  2
 
-Group: Group 4 
+Group: 4 
 * [Ecuador, Peru]
 
 2/17/1974; Defensor; 2-0; Sporting Cristal             
@@ -93,7 +93,7 @@ Group: Group 4
 * 3.Universidad Catolica (Quito)    6  1  2  3  2- 5  4
 * 4.Sporting Cristal (Lima)         6  1  1  4  3-11  3
 
-Group: Group 5 
+Group: 5 
 * [Paraguay, Uruguay]
 
 2/5/1974; Cerro Porteño; 1-0; Olimpia (Paraguay)                 
@@ -115,7 +115,7 @@ Group: Group 5
 * 4.Nacional (Montevideo)           6  1  2  3  6- 8  4
 
 Round: Semi-Finals
-Group: Group 1
+Group: 1
 
 9/4/1974; Huracán; 1-1; Independiente                 
 9/11/1974; Peñarol; 1-1; Huracán                       
@@ -128,7 +128,7 @@ Group: Group 1
 * 2.Peñarol (Montevideo)            4  1  2  1  7- 5  4
 * 3.Huracán (Buenos Aires)          4  0  2  2  2- 8  2
 
-Group: Group 2
+Group: 2
 
 9/8/1974; Millonarios; 0-0; São Paulo                 
 9/11/1974; Defensor; 0-1; São Paulo                    
@@ -142,6 +142,7 @@ Group: Group 2
 * 3.Defensor (Lima)                 4  0  0  4  1-10  0
 
 Round: Final 
+Group:
 
 10/12/1974; Sao Paulo; 2-1; Independiente; Estadio do Pacaembu; Perez; 50000
 Rocha 48, Mirandinha 50; Saggioratto 28

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
+
 copa_rio = {
     'competition': 'Copa Rio de Janeiro',
     'team_data': ['Champion'],
@@ -11,6 +12,34 @@ copa_rio = {
         (1952, 'Fluminense'),
         (1953, 'Vasco da Gama'),
          ]
+}
+
+
+
+confederations = {
+    'competition': 'FIFA Confederations Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1992, 'Argentina'),
+        (1995, 'Denmark'),
+        (1997, 'Brazil'),
+        (1999, 'Mexico'),
+        (2001, 'France'),
+        (2003, 'France'),
+        (2005, 'Brazil'),
+        (2009, 'Brazil'),
+         ],
+
+    'MVP': [
+        (1997, 'Denilson'),
+        (1999, 'Ronaldinho'),
+        (2001, 'Robert Pires'),
+        (2003, 'Thierry Henry'),
+        (2005, 'Adriano'),
+        (2009, 'Kaka'),
+        ]
+
 }
 
 copita = {

@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/sacups/copa02.html
 Competition: Copa Libertadores
 Season: 2002
 
-Round: Preliminary Round
+Round: Preliminary
 * Qualifying Section for First Round [Mexico, Venezuela]
 
 9/26/2002; Trujillanos; 1-0 ; Caracas FC                 
@@ -46,8 +46,8 @@ Jesús Mendoza 62;
 * 3.Caracas FC FC                      6  2  1  3   7- 7  7
 * 4.Trujillanos (Valera)            6  2  0  4   4-15  6
 
-Round: First Round 
-Group: Group 1
+Round: 1
+Group: 1
 
 2/5/2002; Alianza Lima; 0-0; Cerro Porteño          
 
@@ -89,7 +89,7 @@ Wilmer Aguirre 75; Mauricio Dinamarca 69, Osvaldo Canobbio 87
 * 3.Cerro Porteño (Asunción)        6  3  1  2   7- 6 10
 * 4.Alianza Lima                    6  0  1  5   1-16  1
 
-Group: Group 2
+Group: 2
 
 2/7/2002; Oriente Petrolero; 2-4; Grêmio            
 José Alfredo Castillo 31, Fabio Giménez 43; Rodrigo Mendes 19, Rodrigo Mendes 20, Rodrigo Mendes 73, Anderson 90
@@ -132,7 +132,7 @@ Héctor Hernández 15, César Ccahuantico 17;
 * 3.12 de Octubre (Itauguá)         6  3  0  3   5- 7  9
 * 4.Oriente Petrolero (Santa Cruz)  6  2  0  4  10-13  6
 
-Group: Group 3
+Group: 3
 
 2/5/2002; Real Potosí; 1-0; San Lorenzo de Almagro  
 Roberto Correa 19;
@@ -175,7 +175,7 @@ Diego Herrera 64, Franklin Anangonó 71;
 * 3.San Lorenzo (Buenos Aires)      6  2  0  4   6- 8  6
 * 4.Real Potosí                     6  2  0  4  10-16  6
 
-Group: Group 4 
+Group: 4 
 
 2/5/2002; Atlético Paranaense; 1-2; Bolívar         
 Alex Mineiro 36; Edgar Olivares 9, Joaquín Botero 44
@@ -218,7 +218,7 @@ David Ferreira 20, Edison Mafla 65, Edison Mafla (pk) 78, Tressor Moreno 71, Fab
 * 3.Bolívar (La Paz)                6  2  2  2  11-13  8
 * 4.Atlético Paranaense (Curitiba)  6  1  2  3  10-15  5
 
-Group: Group 5 
+Group: 5 
 
 2/5/2002; Morelia; 0-0; Vélez Sarsfield             
 
@@ -260,7 +260,7 @@ José Antonio Noriega 4, Jose Antonio Noriega (pk) 64, Alejandro Glaría 44, Ale
 * 3.Vélez Sarsfield (Buenos Aires)  6  2  2  2   8- 8  8
 * 4.Sporting Cristal (Lima)         6  0  0  6   5-14  0 
 
-Group: Group 6 
+Group: 6 
 
 2/6/2002; Montevideo Wanderers; 3-1; Emelec         
 Julio de Souza 31, Julio de Souza 46, Claudio Dadomo 47; Carlos Juárez (pk) 86
@@ -302,7 +302,7 @@ Silvio Fernández 49, Luis Zambrano (og) 84; Pavel Caicedo 56
 * 3.Santiago Wanderers (Valparaíso) 6  2  3  1   6- 6  9
 * 4.Emelec (Guayaquil)              6  0  1  5   4-10  1  
 
-Group: Group 7 
+Group: 7 
 
 2/6/2002; Club América; 2-0; Talleres                    
 Marcelo Lipatín 67, Hugo Castillo 69;
@@ -343,7 +343,7 @@ Ricardo Páez 17,Marcelo Lipatín 47, Moctezuma Serrato 64; Oscar Díaz 19, Fran
 * 3.Talleres (Córdoba)              6  1  2  3   5- 9  5
 * 4.Tuluá                           6  1  0  5   9-16  3
 
-Group: Group 8 
+Group: 8 
 
 2/6/2002; Once Caldas; 1-0; Flamengo                
 Sergio Galván Rey 48;
@@ -385,7 +385,8 @@ Daniel Pérez 29, Iván Gabrich 58, Arturo Norambuena 78; Sergio Galván 45
 * 3.Once Caldas (Manizales)         6  3  0  3  10-11  9
 * 4.Flamengo (Rio de Janeiro)       6  1  1  4   6- 9  4
 
-Round: Second Round 
+Round: 2
+Group: 
 
 4/25/2002; Universidad Catolica; 1-1; Sao Caetano
 Jorge Campos 29; Anailson 9

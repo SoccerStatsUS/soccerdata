@@ -28,6 +28,16 @@ l = [
         'architect': 'Sverdrup & Parcel',
         'capacity': 60292,
         },
+
+    {
+        'name': 'Busch Stadium',
+        'address': '700 Clark Street',
+        'location': 'St. Louis, MO',
+        'opened': datetime.datetime(2004, 1, 17),
+        'cost': 365000000,
+        'architect': 'Populous',
+        'capacity': 43975,
+        },
     
     {
         'name': 'Swope Park',

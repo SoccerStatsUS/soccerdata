@@ -1,10 +1,10 @@
 Competition: Copa Libertadores
 Season: 1986
 
-Round: First Round
+Round: 1
 * Argentinos Juniors (Buenos Aires) bye to the second round as holders.
 
-Group: Group 1 
+Group: 1 
 * [Argentina, Uruguay]
 
 7/9/1986; Peñarol; 1-3; Montevideo Wanderers                   
@@ -25,7 +25,7 @@ Group: Group 1
 * 3.Boca Juniors (Buenos Aires)     6  2  2  2  7- 8  6
 * 4.Peñarol (Montevideo)            6  0  1  5  4-12  1
 
-Group: Group 2 
+Group: 2 
 * [Chile, Colombia]
 
 3/12/1986; America Cali; 0-0; Deportivo Cali              
@@ -46,7 +46,7 @@ Group: Group 2
 * 3.Cobresal (El Salvador)          6  1  5  0  6- 5  7
 * 4.Universidad Catolica (Santiago) 6  0  1  5  5-13  1
 
-Group: Group 3 
+Group: 3 
 * [Bolivia, Peru]
 
 4/27/1986; Universitario; 2-0; U.T. Cajamarca        
@@ -67,7 +67,7 @@ Group: Group 3
 * 3.Universitario (Lima)            6  3  0  3  9-11  6
 * 4.Universidad Técnica Cajamarca   6  1  1  4  7-13  3
 
-Group: Group 4 
+Group: 4 
 * [Brazil, Ecuador]
 
 4/20/1986; Barcelona (Ecuador); 3-3; Deportivo Quito           
@@ -88,7 +88,7 @@ Group: Group 4
 * 3.Deportivo Quito                 6  2  3  1 12-11  7
 * 4.Bangu (Rio de Janeiro)          6  0  2  4  6-12  2
 
-Group: Group 5 
+Group: 5 
 * [Paraguay, Venezuela]
 
 8/7/1986; Olimpia (Paraguay); 3-1; Nacional (Paraguay)                    
@@ -99,7 +99,7 @@ Group: Group 5
 * 2.Nacional (Asunción)             2  0  0  2  2- 5  0
 
 Round: Semi-Finals
-Group: Group 1
+Group: 1
 
 9/4/1986; Argentinos Juniors; 0-0; River Plate         
 9/11/1986; Barcelona (Ecuador); 1-0; Argentinos Juniors           
@@ -116,7 +116,7 @@ Group: Group 1
 10/4/1986; River Plate; 0-0 (aet); Argentinos Juniors         
 * River Plate qualify due to better goal difference in group
 
-Group: Group 2
+Group: 2
 
 9/11/1986; Olimpia (Paraguay); 3-1; Bolívar                     
 9/16/1986; Olimpia (Paraguay); 1-1; America Cali                     
@@ -130,6 +130,7 @@ Group: Group 2
 *  3.Bolívar (La Paz)                4  1  1  2  5- 6  3
 
 Round: Final 
+Group:
 
 10/22/1986; America Cali; 1-2; River Plate
 
