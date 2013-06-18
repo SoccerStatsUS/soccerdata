@@ -6,6 +6,36 @@ import os
 import re
 
 
+def filter_brackets(s):
+    """
+    Remove data inside brackets in a string.
+    eg Doug Miller [Rochester Rhinos] (Josh Wolff [Project-40] 78) -> Doug Miller (Josh Wolff 78)
+    """
+    t = ''
+    bracketed = False
+    for char in s:
+        if char == '[':
+            if bracketed == False:
+                bracketed = True
+            else:
+                import pdb; pdb.set_trace()
+
+        if char == ']':
+            if bracketed == True:
+                bracketed = False
+            else:
+                import pdb; pdb.set_trace()
+
+        if bracketed == False and char not in '[]':
+            t += char
+
+
+    if bracketed:
+        import pdb; pdb.set_trace()
+
+    return t
+
+
  
 def fix_roster_name(name):
 
@@ -53,7 +83,6 @@ def process_rosters(fn):
     p = os.path.join('/home/chris/www/soccerdata/data/rosters/', fn)
     f = open(p)
 
-    competition = season = team = None
     rp = RosterProcessor()
     for line in f:
         rp.process_line(line)
@@ -99,6 +128,7 @@ class RosterProcessor(object):
             return
 
 
+        # 
         else:
             m = re.match("\d+(.*)", line)
             if m:
@@ -126,5 +156,65 @@ class RosterProcessor(object):
                     'team': self.team,
                     'name': player,
                     })
+
+
+
+
+def process_rosters2(fn):
+
+    l = []
+
+    p = os.path.join('/home/chris/www/soccerdata/data/rosters/', fn)
+    f = open(p)
+
+    rp = RosterProcessor2()
+    for line in f:
+        rp.process_line(line)
+
+    return rp.rosters
+            
+
+
+class RosterProcessor2(object):
+    
+    def __init__(self):
+        self.competition = None
+        self.season = None
+
+        self.rosters = []
+
+    def process_line(self, line):
+        line = line.strip()
+        if not line:
+            return
+
+        if line.startswith('*'):
+            return
+
+
+        # Set the competition.
+        if line.startswith("Competition:"):
+            self.competition = line.split("Competition:")[1].strip()
+            return
+
+        if line.startswith("Season:"):
+            self.season = line.split("Season:")[1].strip()
+            return
+
+
+
+        else:
+            try:
+                team, players = filter_brackets(line).split(':', 1)
+            except:
+                import pdb; pdb.set_trace()
+
+            for player in players.split(','):
+                self.rosters.append({
+                        'competition': self.competition,
+                        'season': self.season,
+                        'team': team.strip(),
+                        'name': player.strip(),
+                        })
 
 

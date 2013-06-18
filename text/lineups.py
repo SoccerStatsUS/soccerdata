@@ -319,16 +319,14 @@ def correct_goal_names(goal_list, lineup_dict):
                 return last
 
 
-            print(key)
-            print("No matches: %s" % players)
-            print( "%s %s\n" % (first, last))
+            print(key, "No matches: %s" % players, "%s %s" % (first, last))
             return ''
         elif len(matches) > 1:
             # Gonna handle this later.
             #if set(matches) == set([u'Sean Henderson', u'Chris Henderson']):
             #    return 'Henderson'
 
-            print("Too many matches: %s" % matches, "%s %s\n" % (first, last))
+            print("Too many matches: %s" % matches, "%s %s" % (first, last))
             return ''
         else:
             return matches[0]

@@ -43,9 +43,14 @@ magic_teams = {
         (from_competition('Liga Nacional de Honduras'), 'Municipal Valencia'),
         ],
 
+    'Victoria': [
+        (from_competition('Liga Nacional de Honduras'), 'CD Victoria'),
+        ],
+
     'Juventud': [
         (from_competition('Liga Nacional de Honduras'), 'Real Juventud'),
         ],
+
     'Universidad': [
         (from_competition('Liga Nacional de Honduras'), 'Pumas UNAH'),
         ],
@@ -74,6 +79,7 @@ magic_teams = {
 
     'Santos': [
         (from_competition('Liga MX'), 'Santos Laguna'),
+        (from_competition('Primera División de Costa Rica'), 'Santos de Guápiles'),
         ],
 
     'San Jose': [
@@ -196,10 +202,10 @@ def denormalize():
     
     team_name_ungetter = make_team_name_ungetter()
     stadium_getter = make_stadium_getter()
+    team_city_map = dict([(get_team(e['name']), e.get('city')) for e in soccer_db.teams.find()])
 
     print("Generating cities.")
     generate_cities()
-
 
     print("Denormalizing standings")
     # Need to change standing team names.
@@ -221,6 +227,14 @@ def denormalize():
             # stadium_getter returns home_team as a fallback; don't set that.
             if stadium and stadium != home_team:
                 e['stadium'] = stadium
+
+            else:
+                city = team_city_map.get(home_team)
+                if city:
+                    e['city'] = city
+                
+
+            
 
         l.append(e)
 

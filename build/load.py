@@ -28,6 +28,8 @@ def load_games_standard(coll, fn, games_only=False):
     Load standard data from a standard games file.
     """
     from soccerdata.text import games
+
+    print(fn)
     games, goals, fouls, lineups, rosters = games.process_games_file(fn)
 
     generic_load(soccer_db['%s_games' % coll], lambda: games, delete=False)
@@ -106,68 +108,60 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-    load_asl()  
-    load_brazil()
-    load_early_friendlies()
-    load_usa_cups()
-    return
+    load_world_international()
+    load_world()
 
+
+    return
+    load_usl()
     load_colombia()
     load_ecuador()
-    load_bolivia()
-    load_uncaf()
-    load_conmebol()
-    return
-    load_concacaf()
-    load_chile()
-    load_peru()
     load_mexico()
 
+    load_uncaf()
+    load_concacaf()
+    load_concacaf_international()
+
+    load_conmebol()
+    load_conmebol_international()
+    return
+
+    load_chile()
+    load_peru()
     load_uruguay()
-    return
-
-
-    load_cfu()
-
-    return
-
+    load_brazil()
+    load_bolivia()
     load_argentina()
 
-    return
-
-    load_australia()    
     load_modern_friendlies()
     load_nasl() 
-
-
-
     load_mls() 
 
+    load_asl()  
 
 
 
+    load_early_friendlies()
+    load_cfu()
+    load_australia()    
 
-    load_usl()
+
     load_ltrack()
     load_pdl()
     load_women()
 
-
     load_asl2()           
     load_apsl()
-    load_world_international()
+
     load_nafbl()
     load_mixed_confederation()
-    load_world()
-    load_conmebol()
+
     load_oceania()
 
 
     load_city()
     load_ny()
     load_canada()
-    load_conmebol_international()
-    load_concacaf_international()
     #load_uncaf_international()
     load_korea()
 
@@ -327,6 +321,8 @@ def load_uncaf():
     for e in range(1999, 2013):
         load_games_standard('uncaf', 'domestic/country/el_salvador/%s' % e)
 
+    load_games_standard('uncaf', 'domestic/country/el_salvador/torneo')
+
 
     # Honduras
     load_standings_standard('uncaf', 'domestic/country/honduras')
@@ -367,15 +363,14 @@ def load_uruguay():
     for year in range(1994, 1995):
         load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
 
-
 def load_colombia():
     #load_standings_standard('colombia', 'domestic/country/colombia2')
-    for e in range(2007, 2011):
+    for e in range(2002, 2011):
         load_games_standard('colombia', 'domestic/country/colombia/%s' % e)
 
 def load_ecuador():
     #load_standings_standard('colombia', 'domestic/country/ecuador')
-    for e in range(2007, 2011):
+    for e in range(2006, 2011):
         load_games_standard('colombia', 'domestic/country/ecuador/%s' % e)
 
 def load_bolivia():
@@ -385,7 +380,7 @@ def load_bolivia():
 
 def load_peru():
     #load_standings_standard('colombia', 'domestic/country/bolivia')
-    for e in range(2011, 2012):
+    for e in range(2011, 2011):
         load_games_standard('colombia', 'domestic/country/peru/%s' % e)
 
 def load_chile():
@@ -413,7 +408,6 @@ def load_argentina():
 
     for year in range(1976, 1976):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
-
 
     for year in range(2009, 2011):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
@@ -549,10 +543,7 @@ def load_modern_friendlies():
     load_games_standard('us_friendly', 'domestic/country/usa/friendly/1960')
     load_games_standard('us_friendly', 'domestic/country/usa/friendly/1967')
     load_games_standard('us_friendly', 'domestic/country/usa/friendly/1970')
-    load_games_standard('us_friendly', 'domestic/country/usa/friendly/1975')
-    load_games_standard('us_friendly', 'domestic/country/usa/friendly/1978')
     load_games_standard('us_friendly', 'domestic/country/usa/friendly/1980')
-    load_games_standard('us_friendly', 'domestic/country/usa/friendly/1982')
     load_games_standard('us_friendly', 'domestic/country/usa/friendly/tours/1970')
     load_games_standard('us_friendly', 'domestic/country/usa/friendly/tours/1980')
     load_games_standard('us_friendly', 'domestic/country/usa/friendly/1990')
@@ -955,6 +946,13 @@ def load_uncaf_international():
 
 def load_world_international():
 
+    generic_load(soccer_db.world_i_rosters, lambda: rosters.process_rosters2('confederations'))
+
+    confed = [1992, 1995, 1997, 1999, 2001, 2003, 2005, 2009, 2013]
+
+    for e in confed:
+        load_games_standard('world_i', 'international/world/confederations/%s' % e)
+
     generic_load(soccer_db.world_i_awards, awards.process_world_cup_awards)
     generic_load(soccer_db.world_i_awards, awards.process_olympics_awards)
 
@@ -974,6 +972,7 @@ def load_world_international():
         load_games_standard('world_i', 'international/world/olympics/%s' % e)
 
 
+
 def load_world():
 
     generic_load(soccer_db.world_awards, awards.process_world_awards)
@@ -985,10 +984,16 @@ def load_world():
 
     # International friendly club tournaments.
     # Also existed in Brazil / Argentina / Colombia?
-    load_excel_standings('world', 'domestic/country/usa/isl')
+
     generic_load(soccer_db.world_awards, awards.process_isl_awards)
 
+    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('club_world_cup'))
+    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('isl'))
+    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('copita'))
+
+    load_excel_standings('world', 'domestic/country/usa/isl')
     load_games_standard('world', 'domestic/country/usa/leagues/isl2')
+
     load_games_standard('world', 'domestic/country/mexico/friendly/palmares')
 
     load_games_standard('world', 'domestic/world/parmalat')

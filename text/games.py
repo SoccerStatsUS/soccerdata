@@ -123,6 +123,8 @@ class GeneralProcessor(object):
         self.current_game = None
         self.century = None # Manage dates like 3/23/10
 
+        self.home_first = False
+
         self.date = None
         self.date_style = 'month first'
 
@@ -132,6 +134,8 @@ class GeneralProcessor(object):
         self.misconduct = []
         self.appearances = []
         self.rosters = []
+
+        self.transforms = set()
 
 
     def process_line(self, line):
@@ -155,7 +159,9 @@ class GeneralProcessor(object):
         if line.startswith("*"):
             return
 
-        if line.startswith('Transform'):
+        if line.startswith('Transform:'):
+            t = line.split('Transform:')[1].strip()
+            self.transforms.add(t)
             return
 
         if line.startswith('Indoor'):
@@ -173,6 +179,9 @@ class GeneralProcessor(object):
             self.current_game['notes'] = tag_data(line, "Notes:")
             return
 
+        if line.strip() == 'home-first':
+            self.home_first = True
+            return
 
         if line.startswith("Date:"):
             d = line.split('Date:')[1].strip()
@@ -259,6 +268,8 @@ class GeneralProcessor(object):
             self.century = int(tag_data(line, "Century:"))
             return
 
+        if line.startswith("Cards:"):
+            return
 
         if line.startswith("Red Card:"):
             s = tag_data(line, "Red Card:")
@@ -562,8 +573,12 @@ class GeneralProcessor(object):
         team1 = team1.strip()
         team2 = team2.strip()
         location = location.strip()
-        
+
         home_team, neutral = None, False
+
+        if self.home_first:
+            home_team = team1
+
         if location in (team1, team2):
             home_team = location
         elif location.lower() == 'home':
@@ -745,6 +760,9 @@ class GeneralProcessor(object):
             if goal.strip() == '':
                 import pdb; pdb.set_trace()
 
+            if 'name-title' in self.transforms:
+                goal = goal.title()
+                assists = [e.title() for e in assists]
 
             return {
                 'gid': self.current_game['gid'],
@@ -761,7 +779,10 @@ class GeneralProcessor(object):
         goals = []
 
         for e in split_outside_parens(team1_goals):
-            goals.append(process_item(e, self.current_game['team1']))
+            try:
+                goals.append(process_item(e, self.current_game['team1']))
+            except:
+                import pdb; pdb.set_trace()
  
         for e in split_outside_parens(team2_goals):
             goals.append(process_item(e, self.current_game['team2']))

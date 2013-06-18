@@ -32,15 +32,12 @@ def transform():
     #generate_prerosters()
     #transform_player_names() 
 
+    transform_names_from_rosters()
 
     # For whatever reason this isn't working at all currently.
-    generate_rosters_from_stats('asl')
-    generate_rosters_from_stats('apsl')
-    generate_rosters_from_stats('nasl')
-
-
-    # This is really what you should be using.
-    transform_names_from_rosters()
+    #generate_rosters_from_stats('asl')
+    #generate_rosters_from_stats('apsl')
+    #generate_rosters_from_stats('nasl')
 
 
 
@@ -64,9 +61,6 @@ def generate_rosters_from_stats(source):
     tdb = soccer_db['%s_gen_rosters' % source]
 
     generic_load(tdb, rosters, delete=True)
-
-
-
 
 
 def get_name_from_fragment(fragment, candidates):
@@ -114,12 +108,6 @@ def get_name_from_fragment(fragment, candidates):
                 print(fragment, matches)
 
     return fragment
-            
-
-        
-        
-
-
 
 def make_roster_guesser(db):
     d = defaultdict(set)
@@ -135,10 +123,6 @@ def make_roster_guesser(db):
     return getter
 
 
-             
-    
-
-
 def transform_names_from_rosters():
     """
     """
@@ -147,15 +131,12 @@ def transform_names_from_rosters():
     for source in SOURCES:
         #printsource
 
-
         # Try to use independently defined rosters.
         # If that doesn't work, use rosters generated from stats
         rdb = soccer_db['%s_rosters' % source]
 
         if rdb.count() == 0:
             rdb = soccer_db['%s_gen_rosters' % source]
-
-
 
         if rdb.count():
 
@@ -164,6 +145,9 @@ def transform_names_from_rosters():
             l = []
             coll = soccer_db["%s_lineups" % source]
             for e in coll.find():
+
+                #if e['competition'] == 'FIFA Confederations Cup':
+                #    import pdb; pdb.set_trace()
 
                 e['name'] = rg(e['name'], e['team'], e['competition'], e['season'])
                 l.append(e)

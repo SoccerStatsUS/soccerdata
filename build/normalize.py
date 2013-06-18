@@ -1,7 +1,7 @@
 import datetime
 from settings import SOURCES
 
-from soccerdata.data.alias import get_team, get_name, get_competition, get_place, get_stadium, get_city
+from soccerdata.data.alias import get_team, get_name, get_competition, get_place, get_stadium, get_city, get_round
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row, soccer_db
 
 
@@ -132,6 +132,14 @@ def normalize_game(e):
     e['competition'] = get_competition(e['competition'])
     e['team1'] = get_team(e['team1'])
     e['team2'] = get_team(e['team2'])
+
+    if e.get('round'):
+        #print(e['round'])
+        e['round'] = get_round(e['round'])
+
+    if e.get('group'):
+        if e['group'].startswith('Group'):
+            e['group'] = e['group'].replace('Group', '').strip()
 
     # This is the wrong behavior. 
     if e.get('minutes') == None:
@@ -324,13 +332,13 @@ def normalize_stat(e):
 
 def normalize_lineup(e):
 
-    if e.get('goals_for') is None:
-        e['goals_for'] = None
+    #if e.get('goals_for') is None:
+    #    e['goals_for'] = None
 
-    if e.get('goals_against') is None:
-        e['goals_against'] = None
+    #if e.get('goals_against') is None:
+    #    e['goals_against'] = None
 
-    e['result'] = calculate_lineup_result(e)
+    #e['result'] = calculate_lineup_result(e)
     
     e['competition'] = get_competition(e['competition'])
     e['team'] = get_team(e['team'])

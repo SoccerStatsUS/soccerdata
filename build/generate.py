@@ -20,6 +20,7 @@ def generate():
 
 
 def generate2():
+    generate_game_stats()
     generate_competition_standings()
     generate_competition_stats()
 
@@ -40,6 +41,46 @@ def make_state_code_dict():
 
     return d
 
+
+def generate_game_stats():
+
+    stats = defaultdict(lambda: defaultdict(int))
+
+    for g in soccer_db.goals.find():
+        if g['goal']:
+            key = tuple([g[k] for k in ['goal', 'team', 'date', 'competition', 'season']])
+            stats[key]['goals'] += 1
+            stats[key]['games_played'] = 1
+            for assist in g['assists']:
+                k = tuple([assist] + [g[k] for k in ['team', 'date', 'competition', 'season']])
+                stats[k]['assists'] += 1
+
+    #for f in soccer_db.fouls.find():
+    #    key = tuple([f[k] for k in ['name', 'team', 'date', 'competition', 'season']])
+    #    stats[key]['red_cards'] += 1
+
+    for l in soccer_db.lineups.find():
+        key = tuple([l[k] for k in ['name', 'team', 'date', 'competition', 'season']])
+        #stats[key].update({ 'on': l['on'],
+        #                    'off': l['off'],
+        #                    })
+        stats[key]['games_played'] = 1
+        if l['on'] == 0:
+            stats[key]['games_started'] = 1
+
+        if type(l['on']) == int and type(l['off']) == int:
+            stats[key]['minutes'] += l['off'] - l['on']
+
+    l = []
+    for key, v in stats.items():
+        d = dict(zip(['player', 'team', 'date', 'competition', 'season'], key))
+        v.update(d)
+        v['goals'] = v['goals'] or 0
+        l.append(v)
+        
+
+    soccer_db.gstats.drop()
+    generic_load(soccer_db.gstats, lambda: l)
 
 
 def generate_competition_stats():
@@ -102,6 +143,7 @@ def generate_competition_stats():
 
     competition_generate('Campeonato Brasileiro Série A')
     competition_generate('Categoría Primera A')
+    competition_generate('Ecuadorian Serie A')
 
     competition_generate('Chinese Super League')
 
@@ -112,6 +154,13 @@ def generate_competition_stats():
     competition_generate('Women\'s Professional Soccer')
     competition_generate('Women\'s United Soccer Association')
     #competition_generate('North American Soccer League')
+
+    competition_generate('Liga Nacional de Guatemala')
+    competition_generate('Liga Nacional de Honduras')
+    competition_generate('Liga Panameña de Fútbol')
+    competition_generate('Primera División de Costa Rica')
+    competition_generate('Salvadoran Primera División')
+
 
 
 def generate_competition_standings():
@@ -150,6 +199,9 @@ def generate_competition_standings():
 
 
     sg2('International Soccer League')
+    sg2('La Copita del Mundo')
+
+
     sg2('Eastern Soccer League (1928-1929)')
     sg2('Major League Soccer')
     sg2('North American Soccer League')
@@ -160,6 +212,7 @@ def generate_competition_standings():
     sg2('Hyundai A-League')
     sg2('Canadian Championship')
     sg2('Liga MX')
+
 
 
 class Standing(object):
