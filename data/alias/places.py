@@ -15,6 +15,8 @@ def get_place(s):
 
 
 places = {
+    'Nuevo Estadio, Elche': 'Estadio Manuel Martínez Valero',
+    'Estadio Universitario, Monterrey': 'Estadio Universitario de Monterrey',
     'San Juan, PR': 'San Juan, Puerto Rico',
     'KSU Soccer Stadium, Kennesaw, GA': 'Kennesaw State University Stadium',
     'FAU Soccer Field, Boca Raton, FL': 'FAU Soccer Stadium',

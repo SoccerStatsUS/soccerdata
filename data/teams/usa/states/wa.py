@@ -31,6 +31,13 @@ l = [
         'founded': 2012,
         },
 
+    {
+        'name': 'Tacoma Stars',
+        'city': 'Tacoma, WA',
+        'founded': 1983,
+        'dissolved': 1992,
+        },
+
 
     {
         'name': 'Tacoma Tides',

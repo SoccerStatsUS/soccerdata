@@ -140,6 +140,15 @@ l = [
         'capacity': 14000,
         },
 
+
+
+    {
+        'name': 'Stade Félix-Bollaert',
+        'location': 'Lens, France',
+        'opened': 1933,
+        'capacity': 41229,
+        },
+
     {
         'name': 'Stade Municipal de Toulouse',
         'location': 'Toulouse, France',
@@ -152,14 +161,6 @@ l = [
         'location': 'Helsinki, Finland',
         'opened': 1915,
         'capacity': 4000,
-        },
-
-    {
-        'name': 'Frankenstadion',
-        'location': 'Nuremberg, Germany',
-        'opened': 1928,
-        'capacity': 48548,
-
         },
 
     {
@@ -195,6 +196,33 @@ l = [
         },
 
     {
+        'name': 'Ryavallen',
+        'location': 'Boras, Sweden',
+        'opened': 1941,
+        },
+
+    {
+        'name': 'Eyravallen',
+        'location': 'Orebro, Sweden',
+        'opened': 1923,
+        'capacity': 14500,
+        },
+
+    {
+        'name': 'Malmö Stadion',
+        'location': 'Malmo, Sweden',
+        'opened': datetime.datetime(1958, 5, 28),
+        'capacity': 26500,
+        },
+
+    {
+        'name': 'Tunavallen',
+        'location': 'Eskilstuna, Sweden',
+        'opened': 1924,
+        'capacity': 7800,
+        },
+
+    {
         'name': 'Rimnersvallen',
         'location': 'Uddevalla, Sweden',
         'opened': datetime.datetime(1923, 5, 5),
@@ -214,6 +242,13 @@ l = [
         'opened': datetime.datetime(1972, 5, 26),
         'capacity': 69250,
         'architect': 'Frei Otto',
+        },
+
+    {
+        'name': 'Westfalenstadion',
+        'location': 'Dortmund, Germany',
+        'opened': datetime.datetime(1974, 4, 2),
+        'capacity': 83000,
         },
 
     {
@@ -252,6 +287,13 @@ l = [
         },
 
     {
+        'name': 'Allianz Arena',
+        'location': 'Munich, Germany',
+        'opened': datetime.datetime(2005, 5, 30),
+        'capacity': 66000,
+        },
+
+    {
         'name': 'Volksparkstadion',
         'location': 'Hamburg, Germany',
         'opened': datetime.datetime(1953, 7, 12),
@@ -275,11 +317,27 @@ l = [
         },
 
     {
+        'name': 'Örjans Vall',
+        'location': 'Halmstad, Sweden',
+        'opened': datetime.datetime(1922, 7, 30),
+        'capacity': 15500,
+        },
+
+    {
         'name': 'Estadi de Sarrià',
         'location': 'Barcelona, Spain',
         'opened': datetime.datetime(1923, 2, 18),
         'closed': datetime.datetime(1997, 9, 20),
         'capacity': 44000,
+        },
+
+
+    {
+        'name': 'Estadio San Mamés',
+        'location': 'Bilbao, Spain',
+        'opened': datetime.datetime(1913, 8, 21),
+        'closed': datetime.datetime(2013, 6, 6),
+        'capacity': 40000,
         },
 
     {
@@ -355,13 +413,16 @@ l = [
         },
 
     {
-        'name': 'Stade de la Cavée verte',
+        'name': 'Stade de la Cavée verte',         # 'name': 'Stade Charles-Argentin',
         'location': 'Le Havre, France',
         'address': 'Rue de la Cavée Verte',
         'opened': 1918,
-        'closed': 1970,
+        'closed': 1970, # really closed?
         'capacity': 22000
         },
+
+
+
 
     
 
@@ -474,6 +535,43 @@ l = [
         'opened': datetime.datetime(1955, 8, 7),
         'capacity': 29699
         },
+    {
+        'name': 'RheinEnergieStadion',
+        'location': 'Cologne, Germany',
+        'opened': datetime.datetime(1923, 9, 16),
+        'capacity': 50000,
+        },
+
+    {
+        'name': 'Rheinstadion',
+        'location': 'Dusseldorf, Germany',
+        'opened': 1925,
+        'closed': datetime.datetime(2002, 6, 22),
+        'capacity': 54000,
+        },
+
+    {
+        'name': 'Frankenstadion',
+        'location': 'Nuremberg, Germany',
+        'opened': 1928,
+        'capacity': 48548,
+        },
+
+    {
+        'name': 'Commerzbank-Arena',
+        'location': 'Frankfurt, Germany',
+        'opened': datetime.datetime(1925, 5, 21),
+        'capacity': 51500
+        },
+
+    {
+        'name': 'Red Bull Arena (Leipzig)',
+        'location': 'Leipzig, Germany',
+        'opened': datetime.datetime(1956, 8, 4),
+        'capacity': 44345,
+        },
+
+
 
     {
         'name': 'Invicta Ground',
@@ -623,6 +721,21 @@ l = [
         'address': 'Avenida del Mundial 82',
         'opened': datetime.datetime(1982, 2, 20),
         'capacity': 26512,
+        },
+
+
+    {
+        'name': 'Estadio Ramón Sánchez Pizjuán',
+        'location': 'Seville, Spain',
+        'opened': datetime.datetime(1958, 9, 7),
+        'capacity': 45500
+        },
+
+    {
+        'name': 'Estadio Manuel Martínez Valero',
+        'location': 'Alicante, Spain',
+        'opened': datetime.datetime(1976, 9, 8),
+        'capacity': 39000,
         },
 
 
@@ -794,7 +907,7 @@ l = [
 
 
     {
-        'name': 'Stadio Littorio',
+        'name': 'Stadio Giuseppe Grezar',
         'location': 'Trieste, Italy',
         'opened': 1932,
         'closed': 1992,
@@ -802,10 +915,10 @@ l = [
         },
 
     {
-        'name': 'Stadio Renato Dall\'Ara',
-        'location': 'Bologna, Italy',
-        'opened': 1927,
-        'capacity': 38279,
+        'name': 'Stadio Renzo Barbera',
+        'location': 'Palermo, Italy',
+        'opened': datetime.datetime(1932, 1, 24),
+        'capacity': 36349,
         },
 
     {
@@ -1009,6 +1122,13 @@ l = [
         },
 
     {
+        'name': 'Estadio Carlos Tartiere',
+        'location': 'Oviedo, Spain',
+        'opened': datetime.datetime(2000, 9, 20),
+        'capacity': 30500,
+        },
+
+    {
         'name': 'Estadi de la Nova Creu Alta',
         'location': 'Sabadell, Spain',
         'opened': datetime.datetime(1967, 8, 20),
@@ -1194,6 +1314,13 @@ l = [
         'opened': datetime.datetime(1923, 5, 17),
         'closed': 1947,
         'capacity': 22500,
+        },
+
+    {
+        'name': 'Balaídos',
+        'location': 'Vigo, Spain',
+        'opened': datetime.datetime(1928, 12, 30),
+        'capacity': 31800,
         },
 
     {

@@ -19,6 +19,11 @@ l = [
         },
 
     {
+        'name': 'Eastern Connecticut State University',
+        'city': 'Willimantic, CT',
+        },
+
+    {
         'name': 'Danbury United',
         'city': 'Danbury, CT',
         },

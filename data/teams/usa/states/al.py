@@ -13,6 +13,17 @@ l = [
         },
 
     {
+        'name': 'Rocket City United',
+        'city': 'Huntsville, AL',
+        'founded': 2007,
+        },
+
+    {
+        'name': 'Marion College',
+        'city': 'Marion, AL',
+        },
+
+    {
         'name': 'Alabama Saints',
         'city': 'Birmingham, AL',
         'founded': 1997,

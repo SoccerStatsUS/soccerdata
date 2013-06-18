@@ -12,6 +12,18 @@ l = [
         },
 
     {
+        'name': 'Barra da Tijuca',
+        'founded': datetime.datetime(1993, 10, 28),
+        'city': 'Rio de Janeiro, Brazil',
+        },
+
+    {
+        'name': 'XV de Piracicaba',
+        'founded': datetime.datetime(1913, 11, 15),
+        'city': 'Piracicaba, Brazil',
+        },
+
+    {
         'name': 'Nacional Táchira',
         'founded': 1996,
         'city': 'Tachira, Venezuela',
@@ -734,6 +746,13 @@ l = [
         'name': 'Internacional',
         'founded': datetime.datetime(1909, 4, 4),
         'city': 'Porto Alegre, Brazil',
+        },
+
+    {
+        'name': 'AA das Palmeiras',
+        'founded': datetime.datetime(1902, 11, 9),
+        'dissolved': 1930,
+        'city': 'Sao Paulo, Brazil',
         },
 
     {

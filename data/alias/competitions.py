@@ -41,7 +41,10 @@ full_alias = {
     'Uruguayan Honour Cup': 'Copa Premio Honor Uruguayo',
 
     'CONCACAF Nations Cup': 'CONCACAF Championship',
+
     'Confederations Cup': 'FIFA Confederations Cup',
+    'King Fahd Cup': 'FIFA Confederations Cup',
+
     'Panamerican Games': 'Pan American Gmaes',
     'Panamerican Games Qualifying': 'Pan American Games Qualifying',
     'South American Championship': 'Copa America',

@@ -28,6 +28,27 @@ stadiums = {
     'Estadio de la Ciudad de los Deportes': 'Estadio Azul',
     'Estadio de la Ciudad de los Deportes, México DF': 'Estadio Azul',
     'Estadio Azulgrana': 'Estadio Azul',
+    'Estadio de Riazor': 'Estadio Riazor',
+    #'Estadio Jose Zorrilla': 'Estadio Nuevo José Zorrilla',
+
+    'Balaidos': 'Balaídos',
+    'Estadio Sarria': 'Estadi de Sarrià',
+    'Estadio San Mames': 'Estadio San Mamés',
+
+
+    'Estadio Ciudad de Mendoza': 'Estadio Malvinas Argentinas',
+
+    'Frankfurt Waldstadion': 'Commerzbank-Arena',
+    'Estadio Nacional (Brasilia)': 'Estadio Nacional de Brasilia',
+
+    'Estadio Castelao (Ceara)': 'Castelão (Ceará)',
+
+    'Oita Stadium': 'Ōita Bank Dome',
+    'Oita Big Eye Stadium': 'Ōita Bank Dome',
+    'Kobe Wing Stadium': 'Home\'s Stadium Kobe',
+
+    'AOL Arena': 'Volksparkstadion',
+    'HSH Nordbank Arena': 'Volksparkstadion',
 
     'Estadio Victor Manuel Reyna': 'Estadio Víctor Manuel Reyna',
     'Estadio Nou Camp': 'Estadio León', 
@@ -41,8 +62,14 @@ stadiums = {
     'Korte Stadium': 'Ralph Korte Stadium',
     'TD Bank Park': 'TD Bank Ballpark',
     'The Anheuser Busch Soccer Park': 'Anheuser-Busch Soccer Park',
+
+
     
 
+    'Rhein-Energie Stadion': 'RheinEnergieStadion',
+    'Franken-Stadion': 'Frankenstadion',
+    'Hanover FIFA World Cup Stadium': 'AWD-Arena',
+    'Zentralstadion': 'Red Bull Arena (Leipzig)',
 
     'Olympisch Stadion': 'Amsterdam Olympic Stadium',
     'La Doble Visera': 'Estadio Libertadores de América',
@@ -56,9 +83,19 @@ stadiums = {
     'Estadio Jaconi': 'Estádio Alfredo Jaconi',
     'Stadium Tecnologico': 'Estadio Tecnológico',
 
+    
+    'Estadio La Corregidora': 'Estadio Corregidora',
 
+    'Saitama Stadium': 'Saitama Stadium 2002',
+
+    'Estadio Luis Dosal': 'Estadio Nemesio Díez',
     'Estadio Luis Gutierrez Dosal': 'Estadio Nemesio Díez',
     'Estadio Luis Gutiérrez Dosal': 'Estadio Nemesio Díez',
+
+    'Neckarstadion': 'Mercedes-Benz Arena',
+
+    'Shizuoka Ecopa Stadium': 'Shizuoka Stadium',
+    'Ecopa Stadium': 'Shizuoka Stadium',
 
     'Starfire Stadium': 'Starfire Sports Complex',
     'Maryland Soccerplex Stadium': 'Maryland SoccerPlex',
@@ -125,7 +162,29 @@ stadiums = {
     'Estadio Libertadores de America': 'Estadio Libertadores de América',
     'Estadio Ciudad de Cumana': 'Estadio Ciudad de Cumaná',
     'Estadio Parque El Teniente': 'Estadio El Teniente',
-    'Estadio Gran Parque Central': 'Gran Parque Central',
+
+    'Estadio Gran Parque Central': 'Parque Central',
+    'Estadío Parque Central': 'Parque Central',
+    'Estadio Parque Central': 'Parque Central',
+    'Gran Parque Central': 'Parque Central',
+
+    'Stadio Benito Mussolini': 'Stadio Olimpico di Torino',
+    'Stadio Giovanni Berta': 'Stadio Artemio Franchi',
+    'Stade du Fort Carre': 'Stade du Fort Carré',
+    'Orjans Vall': 'Örjans Vall',
+
+    'Stadio San Siro': 'San Siro',
+    'Stadio Nazionale PNF': 'Stadio Nazionale del PNF',
+    'Estadio Durival de Britto': 'Estádio Vila Capanema',
+
+    'Hardturm Stadium': 'Hardturm',
+    'St. Jakob Stadium': 'St. Jakob-Park',
+
+    'Behrn Arena': 'Eyravallen',
+    'Malmo Stadion': 'Malmö Stadion',
+
+    'Gottlieb-Daimler-Stadion': 'Mercedes-Benz Arena',
+
     'Estadio Olimpico Joao Havelange': 'Estádio Olímpico João Havelange',
     'Estadio Juan Domingo': 'Estadio Presidente Juan Domingo Perón',
     'Palacio Duco': 'Estadio Tomás Adolfo Ducó',
@@ -171,6 +230,8 @@ stadiums = {
     'Estadio do Arruba': 'Estádio do Arruda',
     'Estadío Ramón Aguilera': 'Estadio Ramón Tahuichi Aguilera',
     'Estadio Ramon Tahuichi Aguilera': 'Estadio Ramón Tahuichi Aguilera',
+
+    'Stadio Delle Alpi': 'Stadio delle Alpi',
 
     'Estadio Defensores Del Chaco': 'Estadio Defensores del Chaco',
     'Defensores del Chaco': 'Estadio Defensores del Chaco',
@@ -249,16 +310,26 @@ stadiums = {
     'Stadío das Laranjeiras': 'Estádio das Laranjeiras',
     'Estadio das Laranjeiras': 'Estádio das Laranjeiras',
     'Giuseppe Meazza': 'San Siro',
-    'Renato Dall Ara': 'Stadio Renato Dall\'Ara',
+
     'Sant Elia': 'Stadio Sant\'Elia',
     'Friuli': 'Stadio Friuli',
     'Geoffrey Prichard Stadium': 'Stade Geoffroy-Guichard',
+
     'Felix Bollaert': 'Stade Félix-Bollaert',
+    'Stade Felix Bollaert': 'Stade Félix-Bollaert',
+    'Stade Felix-Bollaert': 'Stade Félix-Bollaert',
 
     'Marc Antonio Bentegodi': 'Stadio Marc\'Antonio Bentegodi',
+
     'Stade Chapou': 'Stade Municipal de Toulouse',
+    'Stade de Toulouse': 'Stade Municipal de Toulouse',
+
+
     'Stade Olympique de Colombes': 'Stade Olympique Yves-du-Manoir',
+
     'Velodrome Municipal': 'Stade Vélodrome',
+    'Stade Velodrome': 'Stade Vélodrome',
+
     'Stadio Comunale': 'Stadio Artemio Franchi',
     'Comunale': 'Stadio Artemio Franchi',
     'Giovanni Berta': 'Stadio Artemio Franchi',
@@ -272,12 +343,17 @@ stadiums = {
     'Estadio Jose Maria Minella': 'Estadio José María Minella',
     'Estadio Chateau Carreras': 'Estadio Mario Alberto Kempes',
 
+
     'Karaiskaki': 'Karaiskakis Stadium',
     'City of Coventry Stadium': 'Ricoh Arena',
     'Latrobe City Stadium': 'LaTrobe City Stadium',
     'WIN Jubilee Oval': 'Jubilee Oval',
     'Jose Zorrilla': 'Estadio Nuevo José Zorrilla',
+
     'Benito Villamarin': 'Estadio Benito Villamarín',
+    'Estadio Benito Villamarin': 'Estadio Benito Villamarín',
+
+
     'Patersons Stadium': 'Subiaco Oval',
     'Allianz Stadium': 'Sydney Football Stadium',
     'Hunter Stadium': 'Newcastle International Sports Centre',
@@ -318,6 +394,8 @@ stadiums = {
     'Munsu Stadium': 'Ulsan Munsu Football Stadium',
     'Suwon Stadium': 'Suwon World Cup Stadium',
     'Daejeon Stadium': 'Daejeon World Cup Stadium',
+    'Jeonju Stadium': 'Jeonju World Cup Stadium',
+
     'Munsu Football Stadium': 'Ulsan Munsu Football Stadium',
     'Ellis Park': 'Ellis Park Stadium',
     'Loftus Versfeld': 'Loftus Versfeld Stadium',
@@ -439,11 +517,14 @@ stadiums = {
     'Niedersachsenstadion': 'AWD-Arena',
     'Neckerstadion': 'Mercedes-Benz Arena',
     'Santiago Bernabeu': 'Estadio Santiago Bernabéu',
+    'Bernabeu Stadium': 'Estadio Santiago Bernabéu',
     'Estadio Santiago Bernabeu': 'Estadio Santiago Bernabéu',
 
     'Estadio de San Lazaro': 'Estadio Multiusos de San Lázaro',
 
     'Jose Rico Perez': 'Estadio José Rico Pérez',
+    'Estadio Jose Rico Perez': 'Estadio José Rico Pérez',
+
     'Riazor': 'Estadio Riazor',
     'La Rosaleda': 'Estadio La Rosaleda',
     'La Mosson': 'Stade de la Mosson',
@@ -456,7 +537,13 @@ stadiums = {
     'Zayed Sports City': 'Sheikh Zayed Stadium',
     'Mohammad Bin Zayed Stadium': 'Mohammed Bin Zayed Stadium',
     'Durival de Brito': 'Estádio Vila Capanema',
+
     'King Fahd International Stadium': 'King Fahd Stadium',
+    'King Fahd II Stadium': 'King Fahd Stadium',
+
+    'Niigata Stadium': 'Tohoku Electric Power Big Swan Stadium',
+    'Munsu Cup Stadium': 'Ulsan Munsu Football Stadium',
+
     'Eucaliptos': 'Estádio dos Eucaliptos',
     'Estadio dos Eucaliptos': 'Estádio dos Eucaliptos',
     'Roker Park Ground': 'Roker Park',
@@ -479,11 +566,23 @@ stadiums = {
     'Pocitos': 'Estadio Pocitos',
     'Benito Mussolini': 'Stadio Olimpico di Torino',
     'Giorgio Ascarelli': 'Stadio Giorgio Ascarelli',
+
+    'Stadio La Favorita': 'Stadio Renzo Barbera',
+
+    'Renato Dall Ara': 'Stadio Renato Dall\'Ara',
     'Littorale': 'Stadio Renato Dall\'Ara',
+    'Stadio Littoriale': 'Stadio Renato Dall\'Ara',
+    'Stadio Renato Dall\'Aria': 'Stadio Renato Dall\'Ara',
+
     'Littorio': 'Stadio Littorio',
+    'Stadio Littorio': 'Stadio Giuseppe Grezar',
+
     'Luigi Ferraris': 'Stadio Luigi Ferraris',
     'Meinau': 'Stade de la Meinau',
+
     'Cavee Verte': 'Stade de la Cavée verte',
+    'Stade Cavee Verte': 'Stade de la Cavée verte',
+
     'Victor Boucquey': 'Stade Victor Boucquey',
     'Fort Carree': 'Stade du Fort Carré',
     'Rasunda': 'Råsunda Stadium',
@@ -598,7 +697,7 @@ stadiums = {
     'Alltel Stadium': 'EverBank Field',
     'Estadio Bella Vista': 'Estadio Bellavista',
 
-
+    'Estadio Ramon Sanchez Pizjuan': 'Estadio Ramón Sánchez Pizjuán',
 
     'Freulinghausen Ave Grounds': 'Frelinghuysen Grounds',
     'Nuevo Estadio Corona': 'Estadio TSM Corona',

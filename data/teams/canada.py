@@ -42,6 +42,25 @@ l = [
         'city': 'Montreal, Quebec',
         },
 
+    {
+        'name': 'Montreal Carsteel',
+        'city': 'Montreal, Quebec',
+        },
+
+    {
+        'name': 'Montreal Concordia',
+        'city': 'Montreal, Quebec',
+        },
+
+    {
+        'name': 'Montreal Maroons',
+        'city': 'Montreal, Quebec',
+        },
+
+    {
+        'name': 'Montreal Scottish',
+        'city': 'Montreal, Quebec',
+        },
 
     {
         'name': 'Calgary Storm Select',

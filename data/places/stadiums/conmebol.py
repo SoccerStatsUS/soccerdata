@@ -331,12 +331,6 @@ l = [
 
 
 
-    {
-        'name': 'Parque Central',
-        'location': 'Montevideo, Uruguay',
-        'opened': 1900,
-        'capacity': 25000,
-        },
 
     {
         'name': 'Parque Pereira',
@@ -502,10 +496,7 @@ l = [
         'capacity': 39816,
         },
 
-    {
-        'name': 'Estadío Parque Central',
-        'location': 'Montevideo, Uruguay',
-        },
+
 
     {
         'name': 'Estadío Durival de Brito', 
@@ -548,6 +539,27 @@ l = [
     {
         'name': 'Estádio das Laranjeiras',
         'location': 'Rio de Janeiro, Brazil',
+        },
+
+    {
+        'name': 'Arena Pernambuco',
+        'location': 'São Lourenço da Mata, Brazil',
+        'opened': datetime.datetime(2013, 5, 22),
+        'capacity': 46154,
+        },
+
+    {
+        'name': 'Castelão (Ceará)',
+        'location': 'Fortaleza, Brazil',
+        'opened': datetime.datetime(1973, 11, 11),
+        'capacity': 63903,
+        },
+
+    {
+        'name': 'Arena Fonte Nova',
+        'location': 'Salvador, Brazil',
+        'opened': datetime.datetime(2013, 4, 7),
+        'capacity': 50000,
         },
 
     {
@@ -1053,12 +1065,14 @@ l = [
         'capacity': 60540,
         },
 
+
     {
-        'name': 'Gran Parque Central',
+        'name': 'Parque Central',
         'location': 'Montevideo, Uruguay',
         'opened': 1900,
         'capacity': 25000,
         },
+
 
     {
         'name': 'Estadio Marcelo Bielsa',
@@ -1092,6 +1106,13 @@ l = [
         'name': 'Estadio Víctor Agustín Ugarte',
         'location': 'Potosi, Bolivia',
         'capacity': 32000,
+        }, 
+
+    {
+        'name': 'Estádio Vila Capanema',
+        'location': 'Curitiba, Bolivia',
+        'opened': datetime.datetime(1947, 1, 23),
+        'capacity': 20000
         }, 
 
     {

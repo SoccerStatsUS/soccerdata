@@ -146,5 +146,12 @@ l = [
         'city': 'Chicago, IL',
         },
 
+
+
+    {
+        'name': 'Monmouth College',
+        'city': 'Monmouth, IL',
+        },
+
 ]
  

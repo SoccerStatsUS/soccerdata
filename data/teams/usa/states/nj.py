@@ -71,6 +71,19 @@ l = [
         },
 
     {
+        'name': 'Red Bull Academy',
+        'city': 'Newark, NJ',
+        'founded': 2005,
+        },
+
+    {
+        'name': 'New Jersey Rockets',
+        'city': 'East Rutherford, NJ',
+        'founded': 1981,
+        'dissolved': 1981,
+        },
+
+    {
         'name': 'Newark Portuguese',
         'city': 'Newark, NJ',
         },

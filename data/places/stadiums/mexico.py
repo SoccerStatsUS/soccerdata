@@ -182,11 +182,25 @@ l = [
         'capacity': 31500,
         },
 
+    {
+        'name': 'Estadio Tres de Marzo',
+        'location': 'Zapopan, Mexico',
+        'opened': 1971,
+        'capacity': 30015,
+        },
+
+    {
+        'name': 'Estadio Sergio Leon Chavez',
+        'location': 'Irapuato Mexico',
+        'opened': datetime.datetime(1969, 3, 23),
+        'capacity': 32784,
+        },
+
 
 
 
     {
-        'name': 'Estadío Universitario de Monterrey',
+        'name': 'Estadio Universitario de Monterrey',
         'location': 'Monterrey, Mexico',
         'opened': datetime.datetime(1967, 5, 30),
         'capacity': 42000,

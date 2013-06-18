@@ -13,6 +13,22 @@ l = [
         'capacity': 44102
         },
 
+    {
+        'name': 'Incheon Munhak Stadium',
+        'location': 'Incheon, South Korea',
+        'opened': datetime.datetime(2002, 2, 25),
+        'capacity': 49084,
+        },
+
+
+    {
+        'name': 'Shizuoka Stadium',
+        'location': 'Fukuroi, Japan',
+        'opened': 2001, 
+        'capacity': 50889,
+        },
+
+
 
     {
         'name': 'Bahrain National Stadium',
@@ -33,6 +49,20 @@ l = [
         'location': 'Osaka, Japan',
         'opened': 1964,
         'capacity': 50000,
+        },
+
+    {
+        'name': 'Home\'s Stadium Kobe',
+        'location': 'Kobe, Japan',
+        'opened': 2001,
+        'capacity': 3032
+        },
+
+    {
+        'name': 'Ōita Bank Dome',
+        'location': 'Oita, Japan',
+        'opened': 2001,
+        'capacity': 40000,
         },
 
     {
@@ -113,6 +143,21 @@ l = [
         'location': 'Saitama, Japan',
         'opened': 1960,
         'capacity': 15500,
+        },
+
+
+    {
+        'name': 'Sapporo Dome',
+        'location': 'Toyohira-ku, Japan',
+        'opened': datetime.datetime(2001, 6, 3),
+        'capacity': 41484,
+        },
+
+    {
+        'name': 'Saitama Stadium 2002',
+        'location': 'Saitama, Japan',
+        'opened': 2001,
+        'capacity': 63700
         },
 
     {
@@ -236,7 +281,7 @@ l = [
 
 
     {
-        'name': 'Jeonju Stadium',
+        'name': 'Jeonju World Cup Stadium',
         'location': 'Jeonju, South Korea',
         'opened': datetime.datetime(2001, 11, 8),
         'capacity': 43348,
@@ -256,6 +301,20 @@ l = [
         'location': 'Jeonju, South Korea',
         'opened': datetime.datetime(2001, 9, 13),
         'capacity': 40535,
+        },
+
+    {
+        'name': 'Gwangju World Cup Stadium',
+        'location': 'Gwangju, South Korea',
+        'opened': 2001,
+        'capacity': 44118,
+        },
+
+    {
+        'name': 'Miyagi Stadium',
+        'location': 'Rifu, Japan',
+        'opened': 2000,
+        'capacity': 49133,
         },
 
     {

@@ -32,6 +32,14 @@ l = [
         'city': 'Boca Raton, FL',
         'founded': 2011,
         },
+
+    {
+        'name': 'Florida ThunderCats',
+        'city': 'Fort Lauderdale, FL',
+        'founded': 1998,
+        'dissolved': 1999,
+        },
+
     {
         'name': 'Tampa Bay Rowdies',
         'city': 'Tampa Bay, FL',

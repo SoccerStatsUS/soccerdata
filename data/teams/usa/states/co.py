@@ -68,6 +68,11 @@ l = [
         },
 
     {
+        'name': 'Colorado Rush',
+        'city': 'Littleton, CO',
+        },
+
+    {
         'name': 'Colorado Rapids U-23',
         'city': 'Boulder, CO',
         'founded': 2000,

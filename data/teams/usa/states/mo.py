@@ -13,7 +13,7 @@ l = [
         },
 
 
-{ 
+    { 
         'name': 'Sporting Kansas City Reserves',
         'city': 'Kansas City, MO',
         },
@@ -31,6 +31,21 @@ l = [
         'name': 'St. Louis Kutis',
         'city': 'St. Louis, MO',
         'founded': 1947,
+        },
+
+    {
+        'name': 'St. Louis Steamers',
+        'city': 'St. Louis, MO',
+        'founded': 1979,
+        'dissolved': 1988,
+        # another steamers played from 1998-2006.
+        },
+
+    {
+        'name': 'St. Louis Storm',
+        'city': 'St. Louis, MO',
+        'founded': 1989,
+        'dissolved': 1992,
         },
 
 

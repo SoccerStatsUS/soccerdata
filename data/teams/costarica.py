@@ -22,6 +22,12 @@ l = [
         },
 
     {
+        'name': 'San Carlos',
+        'founded': 1965,
+        'city': 'Ciudad Quesada, Costa Rica',
+        },
+
+    {
         'name': 'CS Herediano',
         'founded': datetime.datetime(1921, 6, 12),
         'city': 'Heredia, Costa Rica',

@@ -12,10 +12,20 @@ l = [
         'dissolved': 1997,
         },
 
+
     {
         'name': 'Chattanooga FC',
         'city': 'Chattanooga, TN',
         'founded': 2009,
+        },
+    {
+        'name': 'Christian Brothers University',
+        'city': 'Memphis, TN',
+        },
+
+    {
+        'name': 'East Tennessee State University',
+        'city': 'Johnson City, TN',
         },
     {
         'name': 'Nashville Diamonds',

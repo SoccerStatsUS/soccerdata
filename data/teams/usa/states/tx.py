@@ -55,6 +55,13 @@ l = [
         },
 
     {
+        'name': 'Houston Summit',
+        'city': 'Houston, TX',
+        'founded': 1978,
+        'dissolved': 1980,
+        },
+
+    {
         'name': 'Regals FC',
         'city': 'Houston, TX',
         'founded': 1992,

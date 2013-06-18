@@ -290,6 +290,24 @@ l = [
         },
 
     {
+        'name': 'Salgaocar SC',
+        'founded': 1956,
+        'city': 'Vasco, India',
+        },
+
+    {
+        'name': 'Raj Pracha FC',
+        'founded': 1968,
+        #'city': 'Thailand',
+        },
+
+    {
+        'name': 'Sepahan Isfahan FC',
+        'founded': datetime.datetime(1953, 7, 2),
+        'city': 'Isfahan, Iran',
+        },
+
+    {
         'name': 'Incheon United',
         'founded': 2003,
         'city': 'Incheon, South Korea',

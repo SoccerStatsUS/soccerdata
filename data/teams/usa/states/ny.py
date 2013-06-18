@@ -52,6 +52,11 @@ l = [
         'city': 'New York, NY',
         },
 
+    {
+        'name': 'West Point',
+        'city': 'West Point, NY',
+        },
+
 
     # Separate from ISL New York Americans team.
     {

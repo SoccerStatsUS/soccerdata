@@ -110,6 +110,12 @@ l = [
         'founded': datetime.datetime(1967, 5, 28),
         'city': 'Reykjavik, Iceland',
         },
+
+    {
+        'name': 'UMF Tindastóll',
+        'founded': 1907,
+        'city': 'Sauðárkrókur, Iceland',
+        },
     {
         'name': 'Fulham F.C.',
         'founded': datetime.datetime(1879, 8, 16),
@@ -120,16 +126,56 @@ l = [
         'founded': datetime.datetime(1903, 8, 25),
         'city': 'Sundsvall, Sweden',
         },
+
+
     {
         'name': 'Viking FK',
         'founded': datetime.datetime(1899, 8, 10),
         'city': 'Stavanger, Norway',
+        },
+
+    {
+        'name': 'Stavanger IF',
+        'founded': datetime.datetime(1905, 9, 17),
+        'city': 'Stavanger, Norway',
+        },
+
+    {
+        'name': 'IK Brage',
+        'founded': 1925,
+        'city': 'Borlange, Sweden',
+        },
+
+    {
+        'name': 'Sarpsborg FK',
+        'founded': datetime.datetime(1903, 5, 8),
+        'city': 'Sarpsborg, Norway',
+        },
+
+    {
+        'name': 'Moss FK',
+        'founded': datetime.datetime(1906, 8, 28),
+        'city': 'Moss, Norway',
+        },
+
+    {
+        'name': 'Larvik Turn',
+        'founded': 1865,
+        'city': 'Larvik, Norway',
         },
     {
         'name': 'Odd Grenland',
         'founded': datetime.datetime(1894, 3, 31),
         'city': 'Skien, Norway',
         },
+
+    {
+        'name': 'SK Brann',
+        'founded': datetime.datetime(1908, 9, 26),
+        'city': 'Bergen, Norway',
+        },
+
+
     {
         'name': 'Stabæk Fotball',
         'founded': datetime.datetime(1912, 3, 16),
@@ -352,6 +398,12 @@ l = [
         'name': 'Real Oviedo',
         'founded': datetime.datetime(1926, 3, 26),
         'city': 'Oviedo, Spain',
+        },
+
+    {
+        'name': 'Athletic Bilbao',
+        'founded': 1898,
+        'city': 'Bilbao, Spain',
         },
 
     {
@@ -895,8 +947,14 @@ l = [
     
     {
         'name': 'BK Häcken',
-        'founded': datetime.datetime(194, 8, 2),
+        'founded': datetime.datetime(1940, 8, 2),
         'city': 'Gothenburg, Sweden',
+        },
+
+    {
+        'name': 'Örebro SK',
+        'founded': datetime.datetime(1908, 10, 28),
+        'city': 'Orebro, Sweden',
         },
     
     {
@@ -934,10 +992,39 @@ l = [
         'founded': 1939,
         'city': 'Naestved, Denmark',
         },
+
+    {
+        'name': 'Djurgårdens IF',
+        'founded': datetime.datetime(1891, 3, 12),
+        'city': 'Stockholm, Sweden',
+        },
+
+    {
+        'name': 'Örgryte IS',
+        'founded': 1887,
+        'city': 'Gothenburg, Sweden',
+        },
+
+    {
+        'name': 'SK Djerv 1919',
+        'founded': 1919,
+        'city': 'Haugesund, Norway',
+        },
+
+    {
+        'name': 'SK Vard Haugesund',
+        'founded': 1916,
+        'city': 'Haugesund, Norway',
+        },
     
     {
         'name': 'SV Wageningen',
-        'city': 'Wageningen,Netherlands',
+        'city': 'Wageningen, Netherlands',
+        },
+
+    {
+        'name': 'VV Steenwijk',
+        'city': 'Steenwijk, Netherlands',
         },
     
     {
@@ -1151,6 +1238,12 @@ l = [
         'name': 'Hammarby IF',
         'founded': datetime.datetime(1897, 4, 10),
         'city': 'Johanneshov, Sweden',
+        },
+
+    {
+        'name': 'GAIS',
+        'founded': datetime.datetime(1894, 3, 11),
+        'city': 'Gothenburg, Sweden',
         },
     {
         'name': 'Coventry City FC',

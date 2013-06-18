@@ -70,6 +70,12 @@ l = [
         },
 
     {
+        'name': 'Newport Mesa Soccer Club',
+        'city': 'Newport Beach, CA',
+        },
+
+
+    {
         'name': 'San Diego WFC SeaLions',
         'city': 'San Diego, CA',
         'founded': 1988,
@@ -102,8 +108,28 @@ l = [
         },
 
     {
+        'name': 'Cal Poly Pomona',
+        'city': 'Pomona, CA',
+        },
+
+    {
+        'name': 'Santa Barbara City College',
+        'city': 'Santa Barbara, CA',
+        },
+
+    {
+        'name': 'University of California, Santa Barbara',
+        'city': 'Santa Barbara, CA',
+        },
+
+    {
         'name': 'Mexico SC',
         'city': 'Fresno, CA',
+        },
+
+    {
+        'name': 'Pateadores',
+        'city': 'Costa Mesa, CA',
         },
 
     {
