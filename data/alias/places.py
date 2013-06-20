@@ -15,6 +15,24 @@ def get_place(s):
 
 
 places = {
+    'Yaounde, Cameroon': 'Yaoundé, Cameroon',
+    'Ciudad Juarez, Mexico': 'Ciudad Juárez, Mexico',
+    'Malmo, Sweden': 'Malmö, Sweden',
+    'Leon, Mexico': 'León, México',
+    'León, Mexico': 'León, México',
+    'Rio de Janeiro, Brazil': 'Río de Janeiro, Brazil',
+    'Norrkoping, Sweden': 'Norrköping, Sweden',
+    'Agawam HS': 'Agawam High School',
+    'Agawam H.S.': 'Agawam High School',
+    'Ft. Lauderdale, FL': 'Fort Lauderdale, FL',
+    'Ft Lauderdale, FL': 'Fort Lauderdale, FL',
+    'Santo Andre, Brazil': 'Santo André, Brazil',
+    'Vasteras, Sweden': 'Västerås, Sweden',
+    'Randalls Island': 'Randall\'s Island, New York',
+    'Randall\'s Island': 'Randall\'s Island, New York',
+
+
+    'Washington, D.C.': 'Washington DC',
     'Universiad Memorial Stadium, Kobe, Japan': 'Kobe Universiade Memorial Stadium',
     'Nuevo Estadio, Elche': 'Estadio Manuel Martínez Valero',
     'Estadio Universitario, Monterrey': 'Estadio Universitario de Monterrey',

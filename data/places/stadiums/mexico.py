@@ -197,8 +197,6 @@ l = [
         },
 
 
-
-
     {
         'name': 'Estadio Universitario de Monterrey',
         'location': 'Monterrey, Mexico',

@@ -31,6 +31,17 @@ l = [
         },
 
     {
+        'name': 'Akron Goodyear FC',
+        'city': 'Akron, OH',
+        },
+
+
+    {
+        'name': 'Cleveland White Motor FC',
+        'city': 'Cleveland, OH',
+        },
+
+    {
         'name': 'Cincinnati Kids',
         'city': 'Cincinnati, OH',
         'founded': 1978,

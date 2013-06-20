@@ -1,12 +1,13 @@
 Competition: Pan American Games
 Season: 1987
+BlockSource: http://www.rsssf.com/tablesp/panam87.html
 
 
 * Qualifying Tournament
-
 * United States qualified as hosts.
-
 * North America:
+
+Round: Preliminary
 
 3/29/1987; Bahamas; 0-3; Mexico; Nassau, Bahamas
 ; Eduardo De la Torre 29, Javier Hernandez 56, Sergio Lira 70
@@ -32,12 +33,8 @@ Lucio Ianeiro 1;
 Winston Anglin; Carlos Gonzalez, Lara
 
 * Cuba qualified 4-3 on aggregate.
-
 * It is unclear how Trinidad and Tobago, El Salvador, and Guatemala qualified.
-
 * South America:Argentina, Colombia, Brazil, Chile, and Paraguay qualified as the top 5 teams in the Juegos Odesur 1986.
-
-
 
 * Final Tournament
 
@@ -50,7 +47,7 @@ Winston Anglin; Carlos Gonzalez, Lara
 *  2- 8  San Jose        Mexico    3-0 Argentina
 
 
-Group: Group A
+Group: A
 
 * 1.ARGENTINA       3  3  0  0   9- 0   6
 * 2.United States             3  1  1  1   3- 3   3
@@ -64,7 +61,7 @@ Group: Group A
 8/15/1987; Argentina  ; 2-0; United States; Kuntz Stadium, Indianapolis, IN
 8/15/1987; El Salvador; 1-0; Trinidad and Tobago; Kuntz Stadium, Indianapolis, IN
 
-Group: Group B
+Group: B
 
 * 1.BRAZIL          3  2  1  0   7- 2   5
 * 2.CHILE           3  1  2  0   3- 2   4
@@ -78,7 +75,7 @@ Group: Group B
 8/16/1987; Brazil     ; 0-0; Chile; Kuntz Stadium, Indianapolis, IN
 8/16/1987; Cuba       ; 2-0; Canada; Kuntz Stadium, Indianapolis, IN
 
-Group: Group C
+Group: C
 
 * 1.MEXICO          3  3  0  0  10- 1   6
 * 2.Guatemala       3  1  1  1   3- 2   3
@@ -93,6 +90,7 @@ Group: Group C
 8/15/1987; Guatemala  ; 1-1; Paraguay; Kuntz Stadium, Indianapolis, IN  
 
 Round: Semifinals
+Group: 
 
 8/18/1987; Chile; 3-2; Argentina; Kuntz Stadium, Indianapolis, IN
 8/18/1987; Brazil; 1-0; Mexico; Kuntz Stadium, Indianapolis, IN

@@ -921,10 +921,7 @@ l = [
         'capacity': 36349,
         },
 
-    {
-        'name': 'Rasunda Stadium',
-        'location': 'Stockholm, Sweden',
-        },
+
     {
         'name': 'Frogner Stadium',
         'location': 'Oslo, Norway',

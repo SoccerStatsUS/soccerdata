@@ -23,85 +23,10 @@ def from_competition(competition):
     return lambda d: d['competition'] == competition
 
 magic_teams = {
-    'Olimpia': [
-        (from_competition('Liga Nacional de Honduras'), 'CD Olimpia'),
-        (from_competition('Copa Interclubes UNCAF'), 'CD Olimpia'),
-        (from_competition('Copa Mercosur'), 'Club Olimpia'),
-        (from_competition('Copa Libertadoers'), 'Club Olimpia'),
-
-        ],
-
-    'Necaxa': [
-        (from_competition('Liga Nacional de Honduras'), 'CD Necaxa'),
-        ],
-
-    'Salzburg': [
-        (from_competition('Liga Nacional de Honduras'), 'Honduras Salzburg'),
-        ],
-
-    'Valencia': [
-        (from_competition('Liga Nacional de Honduras'), 'Municipal Valencia'),
-        ],
-
-    'Victoria': [
-        (from_competition('Liga Nacional de Honduras'), 'CD Victoria'),
-        ],
-
-    'Juventud': [
-        (from_competition('Liga Nacional de Honduras'), 'Real Juventud'),
-        ],
-
-    'Universidad': [
-        (from_competition('Liga Nacional de Honduras'), 'Pumas UNAH'),
-        ],
-
-    'Antigua': [
-        (from_competition('Liga Nacional de Guatemala'), 'Antigua GFC')
-        ],
-
-    'Atlético Nacional': [
-        (from_competition('Liga Panameña de Fútbol'), 'Atlético Nacional (Panama)'),
-        ],
-
-    'Sacachispas': [
-        (from_competition('Liga Nacional de Guatemala'), 'CSD Sacachispas')
-        ],
-
-    'Santa Lucia': [
-        (from_competition('Liga Nacional de Guatemala'), 'Santa Lucía Cotzumalguapa'),
-        ],
-
-    'Heredia': [
-        (from_competition('Liga Nacional de Guatemala'), 'Heredia Jaguares de Peten'),
-        (from_competition('Primera División de Costa Rica'), 'CS Herediano'),
-        ],
-
-    'Santos': [
-        (from_competition('Liga MX'), 'Santos Laguna'),
-        (from_competition('Primera División de Costa Rica'), 'Santos de Guápiles'),
-        ],
-
-    'San Jose': [
-        (from_competition('Liga de Fútbol Profesional Boliviano'), 'CD San José',),
-        ],
-
-
-    'Marte': [
-        (from_competition('Salvadoran Primera División'), 'C.D. Atlético Marte'),
-        ],
-
-
-    'Sport': [
-        (from_competition('Copa Libertadores'), 'SC Recife'),
-        ],
 
     'Aguila': [
         (from_competition('Salvadoran Primera División'), 'CD Aguila'),
         (from_competition('Copa Interclubes UNCAF'), 'CD Aguila'),
-        ],
-
-    'Estudiantes': [
-        (from_competition('Copa Libertadores'), 'Estudiantes de La Plata'),
         ],
 
     'Alianza': [
@@ -112,40 +37,110 @@ magic_teams = {
     'America': [
         (from_competition('Liga MX'), 'Club America'),
         (from_competition('Liga MX Liguilla'), 'Club America'),
+        (from_competition('Categoría Primera A'), 'America de Cali')
+        ],
+
+    'Antigua': [
+        (from_competition('Liga Nacional de Guatemala'), 'Antigua GFC')
+        ],
+
+    'Atlético Nacional': [
+        (from_competition('Liga Panameña de Fútbol'), 'Atlético Nacional (Panama)'),
+        ],
+
+    'Cartagena': [
+        (from_competition('Categoría Primera A'), 'Real Cartagena'),
         ],
 
     'Estudiantes': [
         (from_competition('Liga MX'), 'Tecos'),
+        (from_competition('Copa Libertadores'), 'Estudiantes de La Plata'),
         ],
 
-    'Real Espana': [
-        (from_competition('Liga Nacional de Honduras'), 'Real C.D. España'),
-        ],
-    
-    'Nacional': [
-        (from_competition('Categoría Primera A'), 'Atlético Nacional'),
-        (from_competition('Liga Panameña de Fútbol'), 'Atlético Nacional (Panama)'),
-        ],
-
-    'Sporting': [
-        (from_competition('Liga Panameña de Fútbol'), 'Sporting San Miguelito'),
-        ],
-
-    'America': [
-        (from_competition('Categoría Primera A'), 'America de Cali')
+    'Heredia': [
+        (from_competition('Liga Nacional de Guatemala'), 'Heredia Jaguares de Peten'),
+        (from_competition('Primera División de Costa Rica'), 'CS Herediano'),
         ],
 
     'Junior': [
         (from_competition('Categoría Primera A'), 'Junior de Barranquilla'),
         ],
 
-    'Cartagena': [
-        (from_competition('Categoría Primera A'), 'Real Cartagena'),
+    'Juventud': [
+        (from_competition('Liga Nacional de Honduras'), 'Real Juventud'),
+        ],
+
+    'Marte': [
+        (from_competition('Salvadoran Primera División'), 'C.D. Atlético Marte'),
+        ],
+
+    'Nacional': [
+        (from_competition('Categoría Primera A'), 'Atlético Nacional'),
+        (from_competition('Liga Panameña de Fútbol'), 'Atlético Nacional (Panama)'),
+        ],
+
+    'Necaxa': [
+        (from_competition('Liga Nacional de Honduras'), 'CD Necaxa'),
+        ],
+
+    'Olimpia': [
+        (from_competition('Liga Nacional de Honduras'), 'CD Olimpia'),
+        (from_competition('Copa Interclubes UNCAF'), 'CD Olimpia'),
+        (from_competition('Copa Mercosur'), 'Club Olimpia'),
+        (from_competition('Copa Libertadoers'), 'Club Olimpia'),
+        ],
+
+    'Real Espana': [
+        (from_competition('Liga Nacional de Honduras'), 'Real C.D. España'),
+        ],
+
+    'Sacachispas': [
+        (from_competition('Liga Nacional de Guatemala'), 'CSD Sacachispas')
+        ],
+
+    'Salzburg': [
+        (from_competition('Liga Nacional de Honduras'), 'Honduras Salzburg'),
+        ],
+
+    'San Jose': [
+        (from_competition('Liga de Fútbol Profesional Boliviano'), 'CD San José',),
+        ],
+
+    'Santa Lucia': [
+        (from_competition('Liga Nacional de Guatemala'), 'Santa Lucía Cotzumalguapa'),
+        ],
+
+    'Santos': [
+        (from_competition('Liga MX'), 'Santos Laguna'),
+        (from_competition('Primera División de Costa Rica'), 'Santos de Guápiles'),
+        ],
+
+    'Sport': [
+        (from_competition('Copa Libertadores'), 'SC Recife'),
+        ],
+
+    'Sporting': [
+        (from_competition('Liga Panameña de Fútbol'), 'Sporting San Miguelito'),
+        ],
+
+    'Universidad': [
+        (from_competition('Liga Nacional de Honduras'), 'Pumas UNAH'),
+        ],
+
+    'Valencia': [
+        (from_competition('Liga Nacional de Honduras'), 'Municipal Valencia'),
+        ],
+
+    'Victoria': [
+        (from_competition('Liga Nacional de Honduras'), 'CD Victoria'),
         ],
     }
 
 
 def get_magic_team(team, data):
+
+    #if team == 'America':
+    #    import pdb; pdb.set_trace()
 
 
     if team not in magic_teams:
@@ -154,7 +149,7 @@ def get_magic_team(team, data):
         candidates = magic_teams[team]
         for pred, nteam in candidates:
             if pred(data):
-                return nteam
+                return get_team(nteam)
 
     return get_team(team)
 
@@ -193,10 +188,6 @@ def denormalize():
     we set the location to the team's stadium for that date if possible.
     """
 
-    # To denormalize players, need to sort:
-    # goals/assists, lineups, stats, ...
-    denormalize_dream()
-
     
     team_name_ungetter = make_team_name_ungetter()
     stadium_getter = make_stadium_getter()
@@ -205,10 +196,10 @@ def denormalize():
     print("Generating cities.")
     generate_cities()
 
-    print("Denormalizing standings")
+    #print("Denormalizing standings")
     # Need to change standing team names.
 
-    print("Denormalizing games"    )
+    #print("Denormalizing games")
     l = []
     for e in soccer_db.games.find():
         e['team1'] = get_magic_team(e['team1'], e)
@@ -241,10 +232,10 @@ def denormalize():
     soccer_db.games.drop()
     insert_rows(soccer_db.games, l)
 
-    print("Denormalizing competitions")
-    l = []
+    #print("Denormalizing competitions")
+    #l = []
 
-    print("Denormalizing goals")
+    #print("Denormalizing goals")
     l = []
     for goal in soccer_db.goals.find():
         goal['team'] = get_magic_team(goal['team'], goal)
@@ -258,7 +249,7 @@ def denormalize():
     insert_rows(soccer_db.goals, l)
 
 
-    print("Denormalizing stats")
+    #print("Denormalizing stats")
     l = []
     for stat in soccer_db.stats.find():
         stat['team'] = get_magic_team(stat['team'], stat)
@@ -268,7 +259,7 @@ def denormalize():
     soccer_db.stats.drop()
     insert_rows(soccer_db.stats, l)
             
-    print("Denormalizing lineups")
+    #print("Denormalizing lineups")
     lineups = []
     for lineup in soccer_db.lineups.find():
 
@@ -293,12 +284,12 @@ def denormalize():
     soccer_db.bios.drop()
     insert_rows(soccer_db.bios, l)
 
-    print("Denormalizing standings")
+    #print("Denormalizing standings")
     standings = []
 
     for s in soccer_db.standings.find():
 
-        s['team'] = get_magic_team(s['team'], lineup)
+        s['team'] = get_magic_team(s['team'], s)
         standings.append(s)
 
     soccer_db.standings.drop()
@@ -306,8 +297,6 @@ def denormalize():
 
 
 
-def denormalize_dream():
-    return
 
 
 

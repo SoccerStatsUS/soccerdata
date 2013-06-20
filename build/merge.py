@@ -320,10 +320,9 @@ def merge_bios():
 
 
 def merge_all_stats():            
-    stats_coll_names = ['%s_stats' % coll for coll in SOURCES]
-    stats_lists = [soccer_db[k].find() for k in stats_coll_names]
-
+    stats_lists = [soccer_db[k].find() for k in ['%s_stats' % coll for coll in SOURCES]]
     stats = merge_stats(stats_lists)
+
     soccer_db.stats.drop()
     insert_rows(soccer_db.stats, stats)
 
@@ -346,13 +345,12 @@ def merge_stats(stats_lists):
         else:
             stat_dict[t] = d
 
-
-
     stat_dict = {}
-
     for stats_list in stats_lists:
         for e in stats_list:
             update_stat(e)
+
+    return stat_dict.values()
 
 
 if __name__ == "__main__":

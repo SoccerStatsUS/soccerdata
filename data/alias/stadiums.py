@@ -26,6 +26,8 @@ sd = {}
 
 stadiums = {
 
+
+
     'Estadio Bella Vista': 'Estadio Bellavista',
     'Estadio Casa Blanca': 'Estadio de Liga Deportiva Universitaria',
     'Estadio Luis Loreto Lira': 'Estadio José Alberto Pérez',
@@ -46,7 +48,7 @@ stadiums = {
     'Estadío Independencia': 'Estádio Independência',
     'Estadio Independencia': 'Estádio Independência',
 
-    'Estadio Olimpico de CU': 'Estadio Olímpico Universitario',
+
     'Estádio Monumental David Arellano': 'Estadio Monumental David Arellano',
 
     'Estadio Municipal de Concepcion': 'Estadio Municipal de Concepción',
@@ -175,6 +177,7 @@ stadiums = {
     'Restelo Stadium': 'Estádio do Restelo',
     'B.C. Place': 'BC Place',
 
+    'Estadio Nacional Carias Andino': 'Estadio Tiburcio Carías Andino',
     'Estadio Nacional de Tegucigalpa': 'Estadio Tiburcio Carías Andino',
     'Tegucigalpa Estadío Nacional': 'Estadio Tiburcio Carías Andino',
     'Estadio Tiburcio Carias Andino': 'Estadio Tiburcio Carías Andino',
@@ -260,7 +263,12 @@ stadiums = {
     'King Fahd II Stadium': 'King Fahd Stadium',
 
 
+    # Dominican Republic
+    'Estadio Olímpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
+
     # Brazil
+    'Estadio Raimundo Sampaio': 'Estádio Independência',
+    'Centro Esportivo Miecimo da Silva': 'Centro Esportivo Miécimo da Silva',
     'Estadio Municipal Paulo Machado de Carvalho': 'Estádio do Pacaembu',
     'Estadio do Pacaembu': 'Estádio do Pacaembu',
     'Pacaembu Stadium': 'Estádio do Pacaembu',
@@ -321,6 +329,7 @@ stadiums = {
     'Estadio Governador Joao Castelo': 'Estádio Governador João Castelo',
     'Estadio Couto Pereira': 'Estádio Couto Pereira',
     'Estadio Olimpico Joao Havelange': 'Estádio Olímpico João Havelange',
+    'Estadio Joao Havelange': 'Estádio Olímpico João Havelange',
     'Estadio Urbano Caldeira': 'Estádio Urbano Caldeira',
 
     # Chile
@@ -424,6 +433,12 @@ stadiums = {
     'Jalisco Stadium': 'Estadío Jalisco',
     'Estadio Olimpico Universitario': 'Estadio Olímpico Universitario',
     'Estadio Olimpico Universitario Mexico 68': 'Estadio Olímpico Universitario',
+    'Estadio Olimpico de CU': 'Estadio Olímpico Universitario',
+    'Estadio de la Ciudad Universitaria': 'Estadio Olímpico Universitario',
+    'Estadio Monumental de la Ciudad Universitaria': 'Estadio Olímpico Universitario',
+    'Estadio Monumental de Ciudad Universitaria': 'Estadio Olímpico Universitario',
+    'Estadio Universitario (UANL)': 'Estadio Universitario de Monterrey',
+
     'Nuevo Estadio Corona': 'Estadio TSM Corona',
 
     'Stadium Tecnologico': 'Estadio Tecnológico',
@@ -485,6 +500,7 @@ stadiums = {
     'Ernst Happel Stadium': 'Ernst-Happel-Stadion',
 
     # Germany
+    'Fritz Walter Stadion': 'Fritz-Walter-Stadion',
     'Gottlieb-Daimler-Stadion': 'Mercedes-Benz Arena',
     'Neckarstadion': 'Mercedes-Benz Arena',
     'Frankfurt Waldstadion': 'Commerzbank-Arena',
@@ -587,6 +603,7 @@ stadiums = {
     'Khalifa Stadium': 'Khalifa International Stadium',
 
     # Sweden
+    'Rasunda Stadium': 'Råsunda Stadium',
     'Rasunda': 'Råsunda Stadium',
     'Jarnvallen': 'Jernvallen',
     'Nya Ullevi': 'Ullevi',
@@ -642,6 +659,7 @@ stadiums = {
     # Canada
     'Centre Claude-Robillard': 'Complexe Sportif Claude-Robillard',
     'Claude Robillard Sports Complex': 'Complexe Sportif Claude-Robillard',
+    'McMaster Stadium': 'Ron Joyce Stadium',
 
     'BC Place Stadium': 'BC Place',
     'Montreal Stade Saputo': 'Stade Saputo',

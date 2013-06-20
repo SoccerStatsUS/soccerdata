@@ -15,8 +15,10 @@ def get_city(s):
 
 
 cities = {
-    #[<City: Rancho la Cienega Stadium>, <City: Rancho La Cienega Stadium>]
-    #[<City: Randall's Island, NYC>, <City: Randalls Island, NYC>]
+    'Washington DC': 'Washington D.C.',
+    'Washington, DC': 'Washington D.C.',
+    'Washington, D.C.': 'Washington D.C.',
+
 
     'México City, Mexico': 'Mexico City, Mexico',
     'Bayamon, PR': 'Bayamón, Puerto Rico',
@@ -27,11 +29,8 @@ cities = {
     'San Martin, Argentina': 'San Martín, Argentina', # real city?
     'Medellin, Colombia': 'Medellín, Colombia',
     'Goteborg, Sweden': 'Göteborg, Sweden',
-    #[<City: Arlington Heights, IL>, <City: Arlington, Heights, IL>]
     'Colon, Panama': 'Colón, Panama',
-    #[<City: away>, <City: Away>]
     'Dublin Ireland': 'Dublin, Ireland',
-    #[<City: Miami, FL>, <City: Miami, Fl>]
 
     'Newcastle-upon-Tyne, England': 'Newcastle upon Tyne, England',
     'Queretaro': 'Querétaro, Mexico',
@@ -41,71 +40,42 @@ cities = {
     'Yaounde, Cameroon': 'Yaoundé, Cameroon',
     'Leon, Mexico': 'León, Mexico',
     'Brasilia, Brazil': 'Brasília, Brazil',
-    #[<City: Maloney's Park, Detroit, MI>, <City: Maloney’s Park, Detroit, MI>]
     'Zurich, Switzerland': 'Zürich, Switzerland',
     'San Cristobal, Venezuela': 'San Cristóbal, Venezuela',
-    #[<City: Estadio Nacional, Tegucigalpa>, <City: Estadío Nacional, Tegucigalpa>]
-    #[<City: Dragon Stadium - Round Rock>, <City: Dragon Stadium Round Rock>]
     'Port au Prince, Haiti': 'Port-au-Prince, Haiti',
     'Vancouver, B.C.': 'Vancouver, BC',
     'Sao Paulo, Brazil': 'São Paulo, Brazil',
-    #[<City: Point Fortin, Trinidad & Tobago>, <City: Point-Fortin, Trinidad & Tobago>]
     'Puerto Cortes, Honduras': 'Puerto Cortés, Honduras',
-    #[<City: Estadio Olimpico (Caracas)>, <City: Estadio Olimpico, Caracas>]
-    #[<City: Newport Beach, CA>, <City: Newport Beach , CA
+
     'San Jose, Costa Rica': 'San José, Costa Rica',
-    #[<City: Randall's Island>, <City: Randalls Island>]
-    #[<City: Winnipeg, Man>, <City: Winnipeg, Man.>]
-    #[<City: Brampton, ON>, <City: Brampton , ON>]
-    #[<City: San Jose>, <City: San José>]
-    #[<City: West Side Park, Jersey City, NJ>, <City: West Side Park, Jersey City, N.J.>]
+
     'Ciudad de Panama, Panama': 'Ciudad de Panamá, Panama',
     'Panama City, Panama': 'Ciudad de Panamá, Panama',
     'Merida, Venezuela': 'Mérida, Venezuela',
     'Bogota, Colombia': 'Bogotá, Colombia',
     'Fort de France, Martinique': 'Fort-de-France, Martinique',
-    #[<City: St. Vincent St. Mary HS>, <City: St. Vincent-St. Mary HS>]
     'Asuncion, Paraguay': 'Asunción, Paraguay',
     'Vasteras, Sweden': 'Västerås, Sweden',
     
     'Mar Del Plata, Argentina': 'Mar del Plata, Argentina',
     'Dusseldorf, Germany': 'Düsseldorf, Germany',
-    'Washington DC': 'Washington, D.C.',
-    'Washington, DC': 'Washington, D.C.',
-    #[<City: UISD - Student Activity Center>, <City: UISD Student Activity Center>]
-    #[<City: Asuncion>, <City: Asunción>]
     'Sao Luis, Brazil': 'São Luís, Brazil',
-    #[<City: Colorado College - Washburn Field>, <City: Colorado College Washburn Field>]
-    #Rio de Janeiro>, <City: Río de Janeiro>]
-    #[<City: Port of Spain, Trinidad & Tobago>, <City: Port-of-Spain, Trinidad & Tobago>]
     'Backa Topola, Serbia': 'Bačka Topola, Serbia',
-    #[<City: St Lucia>, <City: St. Lucia>]
-    #[<City: Port of Spain, Trinidad>, <City: Port-of-Spain, Trinidad>]
-    #[<City: Kearny High School Stadium, Kearny, NJ>, <City: Kearny High School Stadium, Kearny , NJ>]
     'Acandi, Colombia': 'Acandí, Colombia',
     'Goiania, Brazil': 'Goiânia, Brazil',
     'Cordoba, Argentina': 'Córdoba, Argentina',
-    #[<City: Estadio Universitario Monterrey>, <City: Estadio Universitario, Monterrey>, <City: Estadío Universitario, Monterrey>]
     'Concepcion, Chile': 'Concepción, Chile',
-    
     'Rio De Janeiro, Brazil': 'Rio de Janeiro, Brazil',
     'Rio de Janeiro': 'Rio de Janeiro, Brazil',
     'Chorzow, Poland': 'Chorzów, Poland',
-    #[<City: home>, <City: Home>]
-    #[<City: David's Stadium, Newark, NJ>, <City: Davids Stadium, Newark, NJ>]
     'Vina del Mar, Chile': 'Viña del Mar, Chile',
-    #[<City: neutral>, <City: Neutral>]
     'Valparaiso, Chile': 'Valparaíso, Chile',
-
-
     'Newcastle-upon-Tyne, England': 'Newcastle upon Tyne, England',
     'Kristiana, Norway': 'Oslo, Norway',
-
     'Rome': 'Rome, Italy',
     'Lyons, France': 'Lyon, France',
     'Glasgow': 'Glasgow, Scotland',
     'Belfast': 'Belfast, Northern Ireland',
-
     'Montreal, QUE': 'Montreal',
     'Montreal, Que': 'Montreal',
     'Toronto, Canada': 'Toronto',
@@ -118,10 +88,6 @@ cities = {
     'Paramaribo': 'Paramaribo, Suriname',
     'Antigua': 'Antigua, Antigua and Barbuda',
     'Las Vegas': 'Las Vegas, NV',
-    
-    
-   
-
     'Port-of-Spain, Trinidad & Tobago': 'Port of Spain, Trinidad and Tobago',
     'Port of Spain, Trinidad & Tobago': 'Port of Spain, Trinidad and Tobago',
     'Port of Spain, Trinidad & Tobago': 'Port of Spain, Trinidad and Tobago',
@@ -131,9 +97,6 @@ cities = {
     'Mexico City': 'Mexico City, Mexico',
     'Ciudad de México': 'Mexico City, Mexico',
     'Ciudad de México': 'Mexico City, Mexico',
-
-
-
     'Port-au-Prince': 'Port-au-Prince, Haiti',
     'Quito': 'Quito, Ecuador',
     'Riyadh': 'Riyadh, Saudi Arabia',
@@ -141,8 +104,6 @@ cities = {
     'Guadalajara': 'Guadalajara, Mexico',
     'Vienna': 'Vienna, Austria',
     'Marrakech': 'Marrakech, Morocco',
-    
-    
     'Curitiba': 'Curitiba, Brazil',
     'Belo Horizonte': 'Belo Horizonte, Brazil',
     'Recife': 'Recife, Brazil',
@@ -150,7 +111,6 @@ cities = {
     'Nantes': 'Nantes, France',
     'Ljubljana': 'Ljubljana, Slovenia',
     'Brussels': 'Brussels, Belgium',
-    
     'Warsaw': 'Warsaw, Poland',
     'Anaheim': 'Anaheim, CA',
     'Paris': 'Paris, France',
@@ -183,13 +143,9 @@ cities = {
     'Oakland': 'Oakland, CA',
     'Pasadena': 'Pasadena, CA',
     'Tokyo': 'Tokyo, Japan',
-    
-
-    
-
     'Boras': 'Borås, Sweden',
     'Malmo': 'Malmö, Sweden',
-    'Malmo, Sweden': 'Malmö, Sweden',
+
     'Stockholm': 'Stockholm, Sweden',
     'Copenhagen': 'Copenhagen, Denmark',
     'Gavle': 'Gävle, Sweden',
@@ -201,7 +157,6 @@ cities = {
     'Dusseldorf': 'Dusseldorf, Germany',
     'Frankfurt': 'Frankfurt, Germany',
     'Edinburgh': 'Edinburgh, Scotland',    
-
     
     'Dublin': 'Dublin, Ireland',
     'Amsterdam': 'Amsterdam, Netherlands',
@@ -257,9 +212,6 @@ cities = {
     'Rio De Janeiro, Brazil': 'Rio de Janeiro, Brazil',
     'Sao Paulo, Brazil': 'São Paulo, Brazil',
     'Medellin, Colombia': 'Medellín, Colombia',
-    'Washington DC': 'Washington, D.C.',
-    'Washington, DC': 'Washington, D.C.',
-    'Washington D.C.': 'Washington, D.C.',
     'Kearny NJ': 'Kearny, New Jersey',
     'Kearny, N.J.': 'Kearny, New Jersey',
     'holland': 'Holland',

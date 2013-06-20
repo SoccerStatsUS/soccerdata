@@ -319,14 +319,14 @@ def correct_goal_names(goal_list, lineup_dict):
                 return last
 
 
-            print(key, "No matches: %s" % players, "%s %s" % (first, last))
+            print("No matches for %s %s on key %s" % (first, last, key))
             return ''
         elif len(matches) > 1:
             # Gonna handle this later.
             #if set(matches) == set([u'Sean Henderson', u'Chris Henderson']):
             #    return 'Henderson'
 
-            print("Too many matches: %s" % matches, "%s %s" % (first, last))
+            print("Too many matches for %s %s %s" % (first, last, matches))
             return ''
         else:
             return matches[0]
@@ -373,7 +373,8 @@ def get_scores(fn):
     Get scores from scaryice's lineups table for a given file.
     """
 
-    # OH NO! Fucking make the scores work correctly.
+    # OH NO! Make the scores work correctly.
+    # huh?
 
     def process_line(line):
         if not line.strip():
@@ -384,17 +385,14 @@ def get_scores(fn):
 
         items = line.strip().split("\t")
         
-        try:
-            match_type, date_string, location, opponent, score, result, _, goals, lineups = items
-        except:
-            import pdb; pdb.set_trace()
+        match_type, date_string, location, opponent, score, result, _, goals, lineups = items
 
         date = get_date(date_string)
 
         opponent = opponent.strip()
         t = (date.year, opponent)
         if t in team_map:
-            print(t)
+            print("Mapping opponent from %s to %s" % (opponent, team_map.get(t)))
             opponent = team_map.get(t)
         else:
             opponent = team_map.get(opponent, opponent)

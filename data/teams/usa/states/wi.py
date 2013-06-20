@@ -34,5 +34,15 @@ l = [
         'city': 'Milwaukee, WI',
         'founded': 1929
         },
+
+    {
+        'name': 'Milwaukee Richard Rich Tigers',
+        'city': 'Milwaukee, WI',
+        },
+
+    {
+        'name': 'Milwaukee Brewers',
+        'city': 'Milwaukee, WI',
+        },
     
 ]

@@ -1,9 +1,9 @@
 Competition: Pan American Games
 Season: 1995
+BlockSource: http://www.rsssf.com/tablesp/panam95.html
 
 
-
-Group: Group A
+Group: A
 
 * 1.ARGENTINA     3  2  1  0   6- 2   7
 * 2.PARAGUAY      3  2  0  1   4- 1   6
@@ -17,7 +17,7 @@ Group: Group A
 ;USA        ; 0-4; Honduras; Mar del Plata, Argentina
 ;Argentina  ; 1-0; Paraguay; Mar del Plata, Argentina
 
-Group: Group B
+Group: B
 
 * 1.BRAZIL        3  2  1  0   5- 2   7
 * 2.COSTA RICA    3  2  0  1  10- 3   6
@@ -31,7 +31,7 @@ Group: Group B
 ;Costa Rica ; 5-0; Bermuda; Mar del Plata, Argentina
 ;Brazil     ; 1-1; Chile; Mar del Plata, Argentina
 
-Group: Group C
+Group: C
 
 * 1.MEXICO        3  3  0  0   8- 2   9
 * 2.COLOMBIA      3  2  0  1   7- 3   6
@@ -45,8 +45,8 @@ Group: Group C
 ; Ecuador    ; 4-1; Trinidad and Tobago; Mar del Plata, Argentina
 ; Mexico     ; 3-0; Colombia; Mar del Plata, Argentina
 
-
 Round: Quarterfinals
+Group: 
 
 ; Brazil; 0-0; Honduras; Mar del Plata, Argentina
 * Honduras won 8-7 on pen
@@ -58,7 +58,6 @@ Round: Quarterfinals
 
 ; Colombia;    2-0; Paraguay; Mar del Plata, Argentina
 
-
 Round: Semifinals
 
 ; Argentina; 3-2; Honduras; Mar del Plata, Argentina; Nestor Mondria; 15000
@@ -67,7 +66,7 @@ Argentina: Bossio; Zanetti, Ayala, Pez, Arruabarrena, Monteserrat, Bassedas, Cag
 Honduras: Flores; Lagos, Cruz, Castro (Oseguara), Suerra, Guevara, Lopez, Romero, Pineda, Pavon, Suazo
 
 ; Mexico; 2-1; Colombia; Mar del Plata, Argentina; Ronald Gutierrez; 5000
-Salvador, Salvador; Ricard]
+Salvador, Salvador; Ricard
 Mexico: Sanchez; Villa, Ayala, Luna, Pardo, Lara, Areliano, R. Garcia, Hernandez, Blanco, Salvador
 Colombia: Cordoba; Velez, Dinaz, Prtegon, Gonzalez, Quinones, Zapata, Valencia, Betancourt, Ricard, Alcibar
 Red Card: Arley Betancourt

@@ -23,6 +23,20 @@ l = [
         },
 
     {
+        'name': 'Centro Esportivo Miécimo da Silva',
+        'location': 'Rio de Janerio, Bolivia',
+        'opened': 1997,
+        'capacity': 4000,
+        },
+
+    {
+        'name': 'Centro de Futebol Zico',
+        'location': 'Rio de Janerio, Bolivia',
+        'opened': datetime.datetime(1996, 7, 12),
+        'capacity': 1000,
+        },
+
+    {
         'name': 'Estádio Alfredo Jaconi',
         'location': 'Caxias do Sul, Brazil',
         'opened': datetime.datetime(1975, 3, 23),

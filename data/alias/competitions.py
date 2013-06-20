@@ -97,7 +97,7 @@ partial_alias = {
     'Desert Diamond Cup': 'Friendly',
     'Chicago Sister Cities International Cup': 'Friendly',
 
-    'U.S. Cup': 'Friendly International',
+    'U.S. Cup': 'International Friendly',
 
     'Bicentennial Cup': 'Friendly',
     'Carlsberg Cup': 'Friendly',
@@ -110,17 +110,17 @@ partial_alias = {
     'Tournament of Champions': 'Friendly',
     'Trans-Atlantic Challenge Cup': 'Friendly',
 
-    'Amistad Cup': 'Friendly International',
+    'Amistad Cup': 'International Friendly',
 
-    'International Cup': 'Friendly International',
-    'Joe Robbie Cup': 'Friendly International',
-    'Kirin Cup': 'Friendly International',
+    'International Cup': 'International Friendly',
+    'Joe Robbie Cup': 'International Friendly',
+    'Kirin Cup': 'International Friendly',
     'Los Angeles Soccer Tournament': 'Friendly',
-    'Mexico City Tournament': 'Friendly International',
-    'Miami Cup': 'Friendly International',
-    'North American Nations Cup': 'Friendly International',
-    'Presidents Cup': 'Friendly International',
-    'Trinidad Tournament': 'Friendly International',
+    'Mexico City Tournament': 'International Friendly',
+    'Miami Cup': 'International Friendly',
+    'North American Nations Cup': 'International Friendly',
+    'Presidents Cup': 'International Friendly',
+    'Trinidad Tournament': 'International Friendly',
     }
 aliases.update(partial_alias)
 

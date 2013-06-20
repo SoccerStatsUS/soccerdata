@@ -338,7 +338,7 @@ def normalize_lineup(e):
     e['team'] = get_team(e['team'])
     e['name'] = get_name(e['name'])
 
-        """
+    """
     if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
         e['on'] = e['on'][:-1]
 

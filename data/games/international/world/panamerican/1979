@@ -1,8 +1,8 @@
 Competition: Pan American Games
 Season: 1979
+BlockSource: http://www.rsssf.com/tablesp/panam79.html
 
 * North American Qualifiers for the Panam Games 1979
-
 * Qualifying Group held in Hamilton, Bermuda
 
 Round: Qualifying Round
@@ -10,6 +10,7 @@ Round: Qualifying Round
 04/1/1979; United States; 2-1; Mexico; Hamilton, Bermuda
 4/1/1979; Bermuda; 3-0; Canada; Hamilton, Bermuda 
 Notes: also a qualifier for the Olympic Games 1980
+
 4/5/1979; United States; 0-0; Canada; Hamilton, Bermuda
 4/5/1979; Bermuda; 1-1; Mexico; Hamilton, Bermuda
 4/8/1979; Bermuda; 1-0; United States; Hamilton, Bermuda
@@ -21,14 +22,11 @@ Notes: also a qualifier for the Olympic Games 1980
 * 4.Mexico        3  0  1  2   4- 6   1
 
 *NB: Bermuda and United States qualified
-
 *Final Tournament
-
 *July 2 to 14
 
-Round: First Round
-
-Group: Group A
+Round: 1
+Group: A
 
 * 1.ARGENTINA     2  2  0  0   3- 0   4
 * 2.COSTA RICA    2  1  0  1   3- 2   2  
@@ -38,7 +36,7 @@ Group: Group A
 ; Argentina  ; 2-0; Bermuda; San Juan, Puerto Rico                         
 ; Costa Rica ; 3-1; Bermuda; San Juan, Puerto Rico                         
  
-Group: Group B
+Group: B
 
 * 1.BRAZIL        2  2  0  0   3- 0   4  
 * 2.CUBA          2  0  1  1   2- 3   1
@@ -48,7 +46,7 @@ Group: Group B
 ; Brazil     ; 2-0; Guatemala; San Juan, Puerto Rico                       
 ; Cuba       ; 2-2; Guatemala; San Juan, Puerto Rico                       
 
-Group: Group C
+Group: C
 
 * 1.United States           2  2  0  0   9- 1   4
 * 2.PUERTO RICO   2  1  0  1   2- 3   2
@@ -58,10 +56,8 @@ Group: Group C
 ; United States        ; 6-0; Dominican Republic; San Juan, Puerto Rico              
 ; Puerto Rico; 1-0; Dominican Republic; San Juan, Puerto Rico              
  
-
-Round: Second Round
-
-Group: Group A
+Round: 2
+Group: A
 
 * 1.BRAZIL        2  2  0  0   8- 1   4
 * 2.Costa Rica    2  1  0  1   5- 3   2
@@ -71,7 +67,7 @@ Group: Group A
 ; Brazil     ; 5-0; Puerto Rico; San Juan, Puerto Rico                     
 ; Costa Rica ; 4-0; Puerto Rico; San Juan, Puerto Rico                     
  
-Group: Group B
+Group: B
 
 * 1.CUBA          2  1  1  0   5- 0   3
 * 2.Argentina     2  1  1  0   4- 0   3
@@ -82,6 +78,7 @@ Group: Group B
 ; Argentina  ; 4-0; United States; San Juan, Puerto Rico                             
 
 Round: Fifth Place
+Group: 
 
 ; Puerto Rico; W-L; United States; San Juan, Puerto Rico           
 Forfeit

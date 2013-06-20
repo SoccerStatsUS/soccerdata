@@ -108,67 +108,59 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-    load_asl()  
-    return
-    load_concacaf()
-
-    load_mls() 
-    load_usa_cups()
-    load_early_friendlies()
-    load_modern_friendlies()
+    load_uncaf_international()
     load_usmnt()
+    load_concacaf_international()
+    load_world_international()
+    return
 
-    load_nasl() 
+    load_china()
+    load_australia()    
+    load_korea()
+    load_japan()
+    load_oceania()
 
-
-
-    load_usl()
-    load_colombia()
-    load_ecuador()
     load_mexico()
-
+    load_concacaf()
     load_uncaf()
 
-    load_concacaf_international()
 
+
+    load_world()
+    load_colombia()
+    load_ecuador()
     load_conmebol()
     load_conmebol_international()
-    load_world_international()
-    load_world()
-
     load_chile()
     load_peru()
     load_uruguay()
-    load_brazil()
     load_bolivia()
+
+    load_mixed_confederation()
+
+    load_usl()
+    load_nasl() 
+    load_usa_cups()
+    load_mls() 
+    load_asl()  
+    load_early_friendlies()
+    load_modern_friendlies()
+    load_brazil()
     load_argentina()
-
-
     load_cfu()
-    load_australia()    
-
 
     load_ltrack()
     load_pdl()
     load_women()
-
     load_asl2()           
     load_apsl()
-
     load_nafbl()
-    load_mixed_confederation()
-
-    load_oceania()
-
 
     load_city()
     load_ny()
     load_canada()
-    #load_uncaf_international()
-    load_korea()
 
-    load_japan()
-    load_china()
+
 
     load_oceania_international()
     load_ncaa()
@@ -1055,8 +1047,8 @@ def load_panamerican():
 
     generic_load(soccer_db.concacaf_i_awards, awards.process_panamerican_awards)
 
-    for e in [1955, 1959, 1963, 1967, 1971, 1975, 1979, 1983, 1987, 1991, 1995, 1999,
-              2003, 2007]:
+    for e in [1951, 1955, 1959, 1963, 1967, 1971, 1975, 1979, 1983, 1987, 
+              1991, 1995, 1999, 2003, 2007]:
         load_games_standard('concacaf_i', 'international/world/panamerican/%s' % e)
 
 

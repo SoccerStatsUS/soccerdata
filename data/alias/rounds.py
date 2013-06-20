@@ -214,7 +214,8 @@ rounds = {
     '7th': '7',
 
     'Play-in': 'play-in',
-    
+
+    'Preliminary': 'preliminary',    
     'Preliminary Round': 'preliminary',
     'Preliminary Rounds': 'preliminary',
     'Preliminary Phase': 'preliminary',

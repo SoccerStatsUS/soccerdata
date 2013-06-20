@@ -20,12 +20,33 @@ l = [
         },
 
     {
+        'name': 'Chicago Carpenters FC',
+        'city': 'Chicago, IL',
+        },
+
+    {
         'name': 'Chicago Croatian SC',
+        'city': 'Chicago, IL',
+        },
+
+
+    {
+        'name': 'Chicago Swedish American SC',
         'city': 'Chicago, IL',
         },
 
     { 
         'name': 'Chicago Fire Reserves',
+        'city': 'Chicago, IL',
+        },
+
+    { 
+        'name': 'Chicago Falcons',
+        'city': 'Chicago, IL',
+        },
+
+    { 
+        'name': 'Chicago Viking A.A.',
         'city': 'Chicago, IL',
         },
 
@@ -39,6 +60,21 @@ l = [
 
     {
         'name': 'Chicago Bricklayers',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Kickers',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Schwaben',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Slovak SC',
         'city': 'Chicago, IL',
         },
 

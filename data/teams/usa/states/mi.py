@@ -46,6 +46,20 @@ l = [
         },
 
     {
+        'name': 'Detroit Packard FC',
+        'city': 'Detroit, MI',
+        },
+    {
+        'name': 'Detroit Sons of Malta',
+        'city': 'Detroit, MI',
+        },
+    {
+        'name': 'Detroit Swedish American FC',
+        'city': 'Detroit, MI',
+        },
+
+
+    {
         'name': 'Detroit Express',
         'city': 'Pontiac, MI',
         'founded': 1979,

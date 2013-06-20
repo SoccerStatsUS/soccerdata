@@ -46,12 +46,7 @@ l = [
         },
 
     {
-        'name': 'RSL Training Field',
-        'location': 'Sandy, UT',
-        },
-
-    {
-        'name': 'America First Field',
+        'name': 'America First Field', # RSL Training Field.
         'location': 'Sandy, UT',
         'opened': 2012,
         },

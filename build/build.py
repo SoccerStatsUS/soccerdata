@@ -9,7 +9,7 @@ imported into socceroutsider.com for better relationships, etc.
 """
 
 from load import load
-from generate import generate, generate2
+from generate import generate
 from check import check
 from merge import merge
 from normalize import normalize
@@ -67,27 +67,24 @@ def build():
         pass
 
 
-    for func in load, normalize, transform, generate, merge, generate2, denormalize, check:
+    for func in load, normalize, transform, merge, generate, denormalize, check:
         print(func.__name__)
-        func()
+        timer(func)()
     
     return
 
-
     # Do you want to generate before so that you can use / merge those items normally?
     # Or do you want to generate afterwards so that you can filter things easier?
-    timer(load())
+    #timer(load())
 
     # This is where player, team, competition, and place names are normalized.
     # Best to do this as early as possible.
-    print("normalize")
-    timer(normalize())
+    #timer(normalize())
 
     # e.g. United States -> United States U-17
     # Transform names like Carnihan -> Bill Carnihan if possible.
     # Split names like Arsenal (in Argentina D1) -> Arsenal de Sarandi.
-    print("transform")
-    timer(transform())
+    #timer(transform())
 
     # Nothing happens here anymore.
     # Generating for individual collections
@@ -95,20 +92,16 @@ def build():
     #timer(generate())
 
     # Merge everything together.
-    print("merge()")
-    timer(merge())
+    #timer(merge())
 
     # Generating game stats, competition standings and stats.
-    print("generate")
-    timer(generate())
+    #timer(generate())
 
     # Convert names like FC Dallas -> Dallas Burn, e.g. 
-    print("denormalize")
-    timer(denormalize())
+    #timer(denormalize())
     
     # Check data sanity? not heavily used.
-    print("check")
-    timer(check())
+    #timer(check())
 
 
 if __name__ == "__main__":

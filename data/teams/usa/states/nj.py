@@ -28,6 +28,11 @@ l = [
         },
 
     {
+        'name': 'Paterson True Blues',
+        'city': 'Paterson, NJ',
+        },
+
+    {
         'name': 'Newark Skeeters',
         'founded': 1923,
         'dissolved': 1929,
@@ -91,6 +96,11 @@ l = [
 
     {
         'name': 'Polish Falcons',
+        'city': 'Elizabeth, NJ',
+        },
+
+    {
+        'name': 'Elizabeth SC',
         'city': 'Elizabeth, NJ',
         },
 

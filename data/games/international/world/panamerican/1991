@@ -1,6 +1,6 @@
 Competition: Pan American Games
 Season: 1991
-
+BlockSource: http://www.rsssf.com/tablesp/panam91.html
 
 * August 4 to 13
 
@@ -9,7 +9,7 @@ Season: 1991
 * 3.Haiti         3  1  1  1  13- 8   3
 * 4.Nicaragua     3  0  0  3   1-20   0
 
-Group: Group A
+Group: A
 
 ; Mexico  ;    6-1; Haiti                ; Havana, Cuba
 ; Cuba    ;    4-1; Nicaragua            ; Havana, Cuba
@@ -23,7 +23,7 @@ Group: Group A
 *3.Surinam       3  1  1  1   4- 3   3
 *4.Canada        3  0  0  3   3- 9   0
 
-Group: Group B
+Group: B
 
 ; USA        ; 1-0; Surinam ; Havana, Cuba
 ; Honduras   ; 3-1; Canada               ; Havana, Cuba
@@ -33,16 +33,14 @@ Group: Group B
 ; USA        ; 2-1; Honduras; Havana, Cuba
 
 Round: Semifinals
+Group: 
 
 ; Mexico;      6-1; Honduras; Havana, Cuba
-
 ; United States;         2-1; Cuba; Havana, Cuba
-
 
 Round: Third Place
 
 ; Cuba; 1-0; Honduras; Havana, Cuba
-
 
 Round: Final
 

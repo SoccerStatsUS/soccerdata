@@ -1,8 +1,9 @@
-
 Competition: Chinese Super League
 
 Season: 2004
+BlockSource: http://www.rsssf.com/tablesc/china04.html
 
+Round: 1
 Date: 5/15/2004
 
 ; Dalian Shide           ; 0-4;     Liaoning Zhongyu
@@ -18,6 +19,7 @@ Own Goal (Liu Yu) 24; Daniel Nannskog 88
 ; Qingdao Beilaite        ; 2-2;    Shanghai International
 Lu Feng 68, Jiang Ning 90; Li Yan 7, Li Yan 79
 
+Round: 2
 Date: 5/22/2004
 ; Shanghai International ; 1-1;     Beijing Hyundai
 Wang Yun 52; Krisztian Kenesei (pk) 60
@@ -35,6 +37,7 @@ Kovacs 20, Yang Chen 27, Lu Bofei 48;
 ; Sichuan Guancheng ; 1-1;  Tianjin Kangshifu
 Zou Yougen (pk) 22; Yu Genwei 84
 
+Round: 3
 Date: 5/26/2004
 ; Beijing Hyundai        ; 4-1;     Shenyang Ginde
 Gao Leilei 25, Yan Xiangchuang 32, Krisztian Kenesei 67, Huang Bowen 89; Yu Guijun 44
@@ -49,6 +52,7 @@ Zhang Yuning 46; Jiang Kun 61
 ; Tianjin Kangshifu  ; 2-2;   Shanghai International
 Cao Yang 8, Wang Jun 10; Qi Hong 62, Ze Alcino 71
 
+Round: 4
 Date: 5/29/2004
 ; Qingdao Beilaite       ; 3-3;     Beijing Hyundai
 Sun Xinbo 14, Sun Xinbo 42, Gao Ming 53; Branko Jelic 44, Branko Jelic 90, Krisztian Kenesei 65
@@ -65,6 +69,7 @@ Li Yan 7; Jorg Albertz (pk) 90
 ; Shenyang Ginde         ; 1-0;     Tianjin Kangshifu
 Chen Tao 58;
 
+Round: 5
 Date: 6/12/2004
 ; Dalian Shide           ; 1-1;     Shanghai International
 Wang Peng 52; Shen Han 37
@@ -79,6 +84,7 @@ Lu Jiang 16; Kovacs 27, Kovacs 72, Djima Oyawole 32, Xin Feng 35
 Li Xiaopeng 7, Song Lihui 31, Li Jinyu 39, Li Jinyu 68; Wang Xiang 70
 ; Shanghai Shenhua SVA  ; 0-0;   Shenyang Ginde
 
+Round: 6
 Date: 6/16/2004
 ; Beijing Hyundai        ; 2-0;     Tianjin Kangshifu
 Bule 48, Tao Wei 54;
@@ -94,6 +100,7 @@ Ze Alcino (pk) 67, Kwame Ayew 78; Xu Liang 49
 ; Sichuan Guancheng  ; 0-2;  Shandong Luneng Taishan
 ; Li Xiaopeng 40, Song Lihui 65
 
+Round: 7
 Date: 6/19/2004
 ; Dalian Shide           ; 0-0;     Qingdao Beilaite
 ; Shanghai Shenhua SVA   ; 2-2;     Beijing Hyundai
@@ -109,6 +116,7 @@ Ouedec 29, Ouedec 56, Li Jinyu 57, Song Lihui 86; Kwame Ayew 68, Yu Hai 90
 ; Tianjin Kangshifu; 0-2;      Shenzhen Jianlibao
 ; Zheng Zhi 64, Djima Oyawole 90
 
+Round: 8
 Date: 6/26/2004
 ; Shenyang Ginde         ; 1-1;     Shandong Luneng Taishan
 Chen Tao 8; Li Jinyu 18
@@ -125,6 +133,7 @@ Lu Gang (pk) 80; Liu Bin 22, Xu Liang 88
 ; Shanghai International   ; 1-2; Chongqing Qiche
 Ze Alcino (pk) 90; Sun Zhi 77, Wang Xiang 87
 
+Round: 9
 Date: 9/11/2004
 ; Liaoning Zhongyu       ; 1-1;     Beijing Hyundai
 Zhu Kai 90; Yang Hao 74
@@ -143,6 +152,7 @@ Date: 11/7/2004
 ; Dalian Shide           ; 0-1;     Tianjin Kangshifu
 ; Zhang Shuo 88
 
+Round: 10
 Date: 9/15/2004
 ; Beijing Hyundai        ; 1-1;     Shandong Luneng Taishan
 Gao Leilei 30; Jiao Zhe 90
@@ -163,6 +173,7 @@ Date: 11/11/2004
 ; Shanghai Shenhua SVA   ; 0-1;     Dalian Shide
 ; Zhai Yanpeng 80
 
+Round: 11
 Date: 8/26/2004
 ; Dalian Shide           ; 0-0;     Shenzhen Jianlibao
 
@@ -181,6 +192,7 @@ Date: 9/20/2004
 ; Liaoning Zhongyu       ; 5-2;     Shanghai Shenhua SVA
 Guo Hui 1, Guo Hui 39, Guo Hui 52, Xu Liang 21, Alen Avdic 90; Martinez 31, Zhang Yuning 58
 
+Round: 12
 Date: 9/25/2004
 ; Shandong Luneng Taishan; 2-1;     Shanghai Shenhua SVA
 Li Jinyu 36, Li Jinyu 81; Own Goal (Liu Jindong) 11
@@ -197,127 +209,183 @@ Savic 42; Hu Zhaojun 5, Wang Sheng 50, Zoran Jankovic 51, Ermin Siljak 87, Ermin
 
 ; Shanghai International ; 1-0;     Qingdao Beilaite
 Kwame Ayew 28;
+
 ; Shenzhen Jianlibao     ; 0-0;     Shenyang Ginde
 
+Round: 13
 Date: 9/29/2004
+
 ; Beijing Hyundai        ; 2-0;     Shanghai International
 Branko Jelic 9, Tao Wei (pk) 30;
+
 ; Dalian Shide       ; 1-0; Shandong Luneng Taishan
 Zoran Jankovic 48;
+
 ; Liaoning Zhongyu       ; 1-2;     Shenzhen Jianlibao
 Alen Avdic 46; Djima Oyawole 81, Djima Oyawole 88
+
 ; Qingdao Beilaite    ; 1-0; Shenyang Ginde
 Gao Ming 44;
+
 ; Shanghai Shenhua SVA   ; 1-1;     Chongqing Qiche
 Own Goal (Shi Ming) 9; Ivan Bulat 54
+
 ; Tianjin Kangshifu     ; 1-1;      Sichuan Guancheng
 Wang Jun 38; Sun Xiaoxuan 75
 
+Round: 14
 Date: 10/2/2004
+
 ; Chongqing Qiche        ; 0-2;     Dalian Shide
 ; Li Ming 88, Hu Zhaojun (pk) 90
+
 ; Shandong Luneng Taishan  ; 3-1;   Liaoning Zhongyu
 Li Jinyu 32, Li Jinyu 59, Li Xiaopeng (pk) 52; Alen Avdic 80
+
 ; Shanghai International; 3-0;      Tianjin Kangshifu
 Li Yan 15, Kwame Ayew 66, Ze Alcino 70;
+
 * Shenyang Ginde         awd       Beijing Hyundai             [awarded 3-0]
 *   [Wang Ruoji 42; Tao Wei 75; Beijing walked off at 1-1 in 80']
+
 ; Shenzhen Jianlibao   ; 1-0; Qingdao Beilaite
 Djima Oyawole 13;
+
 ; Sichuan Guancheng      ; 1-1;     Shanghai Shenhua SVA
 Daniel Nannskog 42; Martinez 90
 
+Round: 15
 Date: 10/16/2004
+
 ; Beijing Hyundai        ; 2-0;     Qingdao Beilaite
 Tao Wei 15, Branko Jelic 85;
+
 ; Liaoning Zhongyu    ; 3-0;        Chongqing Qiche
 Wang Xinxin 13, Alen Avdic 48, Wang Liang 63;
+
 ; Shandong Luneng Taishan ; 1-1; Shenzhen Jianlibao
 Li Jinyu 48; Zheng Zhi 38
+
 ; Tianjin Kangshifu    ; 3-0; Shenyang Ginde
 Ionel Gane 34, Ionel Gane 63, Yu Genwei 47;
 
 Date: 10/17/2004
+
 ; Dalian Shide           ; 5-1;     Sichuan Guancheng
 Ermin Siljak 2, Ermin Siljak 33, Ermin Siljak 64, Wang Peng 21, Wang Peng 52; Miodrag Pantelic 36
+
 ; Shanghai Shenhua SVA; 3-2;  Shanghai International
 Martinez 11, Martinez 30, Jorg Albertz 61; Li Yan 45, Kwame Ayew 84
 
+Round: 16
 Date: 10/20/2004
+
 ; Chongqing Qiche        ; 1-1;     Shandong Luneng Taishan
 Shi Jun 45; Zhou Haibin 30
+
 ; Qingdao Beilaite   ; 0-1;    Tianjin Kangshifu
 ; Ionel Gane 41
+
 ; Shenyang Ginde         ; 1-1;     Shanghai Shenhua SVA
 Wang Ruoji 16; Jorg Albertz (pk) 78
+
 ; Shenzhen Jianlibao       ; 2-0;   Beijing Hyundai
 Xin Feng 63, Vitakic 79;
+
 ; Sichuan Guancheng      ; 6-3;     Liaoning Zhongyu
 Wang Soulong 2, Sun Fenghao 36, Zou Yougen 47, Wang Song 50, Wang Song 77, Daniel Nannskog 90; Alen Avdic 6, Wang Xinxin 52, Zhang Yonghai 65
 
 Date: 10/21/2004
+
 ; Shanghai International ; 4-0;     Dalian Shide
 Kwame Ayew 33, Kwame Ayew 49, Kwame Ayew 63, Kwame Ayew 65;
 
+Round: 17
 Date: 10/23/2004
+
 ; Shanghai Shenhua SVA   ; 0-1;     Qingdao Beilaite
 ; Sun Xinbo 72
+
 ; Tianjin Kangshifu      ; 3-0;     Beijing Hyundai 
 Zhang Enhua 1, Yu Genwei 23, Ionel Gane 34;
 
 Date: 10/24/2004
+
 ; Chongqing Qiche        ; 1-1;     Shenzhen Jianlibao
 Domocos 63; Yin Xiaolong 81
+
 * Dalian Shide       awd      Shenyang Ginde              [awarded 0-3]
 *  [Ermin Ermin Siljak 50, Wang Sheng 63; Xi De 68, Chen Tao 85; Dalian walked off at 2-2 in 85']
+
 ; Liaoning Zhongyu; 2-1;    Shanghai International
 Guo Hui 21, Zhao Junzhe (pk) 38; Kwame Ayew 77
+
 ; Shandong Luneng Taishan   ; 1-2;    Sichuan Guancheng 
 Li Xiaopeng 54; Daniel Nannskog 6, Miodrag Pantelic 28
 
+Round: 18
 Date: 10/30/2004
+
 ; Beijing Hyundai        ; 3-0;     Shanghai Shenhua SVA
 Tao Wei (pk) 6, Tao Wei 44, Tao Wei 89;
+
 ; Qingdao Beilaite; 1-1; Dalian Shide
 Sun Xinbo 48; Ermin Siljak 50
 
 Date: 10/31/2004
+
 ; Shanghai International ; 2-1;     Shandong Luneng Taishan 
 Cheng Liang 18, Ze Alcino 51; Li Xiaopeng 90
+
 ; Shenyang Ginde    ; 1-3;       Liaoning Zhongyu 
 Chen Tao 37; Wang Xinxin 11, Zhao Junzhe 74, Alen Avdic 90
+
 ; Shenzhen Jianlibao  ; 0-1;    Tianjin Kangshifu
 ; Ionel Gane 10
+
 ; Sichuan Guancheng      ; 0-0;     Chongqing Qiche
 
+Round: 19
 Date: 11/3/2004
+
 ; Beijing Hyundai        ; 1-0;     Dalian Shide 
 Branko Jelic 36;
+
 ; Liaoning Zhongyu       ; 3-1;     Qingdao Beilaite
 Xu Liang 11, Xu Liang 67, Guo Hui 33; Yao Xia 3
+
 ; Shanghai Shenhua SVA   ; 4-4; Tianjin Kangshifu 
 Sun Ji 21, Sun Ji 75, Sun Ji 83, Wang Ke 31; Zhang Shuo 5, Zhang Shuo 17, Zhang Shuo 42, Ionel Gane 47
 
 Date: 11/4/2004
+
 ; Chongqing Qiche        ; 1-1;     Shanghai International
 Sun Zhi 55; Kwame Ayew 42
 
 ; Shandong Luneng Taishan; 4-1;     Shenyang Ginde
 Shu Chang 30, Shu Chang 80, Li Xiaopeng 59, Liu Jindong 87; Yu Guijun 54
+
 ; Sichuan Guancheng   ; 0-1;         Shenzhen Jianlibao
 ; Li Yi 38
 
+Round: 20
 Date: 11/24/2004
+
 ; Beijing Hyundai        ; 2-0;     Liaoning Zhongyu
 Gao Leilei 40, Branko Jelic 80;
+
 ; Qingdao Beilaite ; 0-2;   Shandong Luneng Taishan 
 ; Han Peng 16, Zhou Haibin 24
+
 ; Shanghai International     ; 3-2; Sichuan Guancheng
 Ze Alcino 38, Kwame Ayew 51, Kwame Ayew 86; Zou Yougen 24, Zou Yougen 68
+
 ; Shenyang Ginde       ; 2-0; Chongqing Qiche
 Chen Tao 30, Ayorinde 71;
+
 ; Shenzhen Jianlibao      ; 3-1;    Shanghai Shenhua SVA
 Li Weifeng 56, Li Yi 76, Li Yi 88; Jorg Albertz 61
+
 ; Tianjin Kangshifu; 0-4;   Dalian Shide
 ; Yan Song 18, Yan Song 89, Zhang Peng 42, Zou Jie 61
 
@@ -350,9 +418,8 @@ Li Jianhua 42, Li Ming 59; Zhang Peng 66, Zoran Jankovic (pk) 69
 Yu Genwei 56; Zhou Haibin 89
 
 
-
 Season: 2005
-
+BlockSource: http://www.rsssf.com/tablesc/china05.html
 
 Date: 4/2/2005
 ; Shandong Luneng Taishan; 2-1;     Shanghai International
@@ -657,7 +724,7 @@ Lu Feng 57;
 ; Shanghai Shenhua       ; 1-0;     Liaoning Whowin
 Zhang Yuning 13; 
 ; Tianjin Teda; 1-1;  Chongqing Lifan
-  [Mnguni 55; Wu Qing 54]
+Mnguni 55; Wu Qing 54
 
 Date: 8/27/2005
 ; Beijing Hyundai; 1-1;  Shenzhen Jianlibao
@@ -804,7 +871,7 @@ Li Yi 40, Li Yi 58; Martinez 32, Xie Hui 62
 Vincent 20, Wang Wenhua 50, Gilson 83;
 
 Date: 11/5/2005
-*Round 26 [Nov 5]
+Round: 26
 ; Chongqing Lifan        ; 3-1;     Shanghai International
 Huo Zhiyu 10, Xia Jin 40, Liu Lei 63; Wang Yun 36
 ; Dalian Shide    ; 2-1; Beijing Hyundai
@@ -822,9 +889,9 @@ Wu Weian 27, Yu Genwei 56, Wang Lei 88;
 
 
 Season: 2006
+BlockSource: http://www.rsssf.com/tablesc/china06.html
 
-*Round 1
-*[Mar 11]
+Round: 1
 Date: 3/11/2006
 
 ; Chongqing Lifan        ; 2-1;     Liaoning Whowin
@@ -838,7 +905,6 @@ Zhou Yi 75, Wang Wenhua 90;
 ; Xi'an Chanba       ; 1-1;    Shanghai United
 Ayew 63; Yang Lin 41
 
-*[Mar 12]
 Date: 3/12/2006
 
 ; Shanghai Shenhua       ; 0-0;     Changchun Yatai
@@ -849,8 +915,8 @@ Lu Bofei 42, Li Yi 45; Wang Jun 35, Li Benjian 39, Wu Weian 52
 Branko Jelic 75; Li Jinyu 24, Li Jinyu 85, Zheng Zhi 76
 *Dalian Shide    bye
 
-*Round 2
-*[Mar 18]
+Round: 2
+
 Date: 3/18/2006
 ; Dalian Shide           ; 2-0;     Liaoning Whowin
 Zoran Jankovic 58, Zou Jie 67;
@@ -858,7 +924,6 @@ Zoran Jankovic 58, Zou Jie 67;
 ; Shanghai Shenhua   ; 2-2; Xiamen Lanshi
 Jovanovic 6, Luis Alfredo Ramirez 34; Branko Jelic 13, Branko Jelic 83
 
-*[Mar 19]
 Date: 3/19/2006
 
 ; Beijing Guoan          ; 1-2;     Shanghai United
@@ -876,8 +941,7 @@ Zhang Shuo 18, Aurio 31, Cao Yang 87;
 
 *Shenyang Ginde          bye
 
-*Round 3
-*[Mar 25]
+Round: 3
 Date: 3/25/2006
 
 ; Qingdao Zhongneng      ; 1-2;     Shanghai Shenhua
@@ -886,7 +950,6 @@ Liu Jian 58; Li Weifeng 20, Jovanovic 28
 ; Shenzhen Kingway  ; 0-4;     Beijing Guoan  
 ;Gao Dawei 17, Yang Chen 26, Li Yao 78, Huang Bowen 90
 
-*[Mar 26]
 Date: 3/26/2006
 
 ; Changchun Yatai        ; 2-1;     Dalian Shide
@@ -905,9 +968,8 @@ Zou Yougen (pk) 6, Zou Yougen (pk) 42, Branko Jelic (pk) 22; Darko (pk) 17, Veli
 
 *Liaoning Whowin            bye
 
-*Round 4
-Date:3/29/2006
-*[Mar 29]
+Round: 4
+Date: 3/29/2006
 
 ; Beijing Guoan          ; 1-1;     Wuhan Guanggu
 Tao Wei 6; Zheng Bin 78
@@ -927,13 +989,11 @@ Zheng Zhi 1, Zheng Zhi 14;
 ; Xi'an Chanba   ; 3-0;     Shenyang Ginde
 Wu Chengying 29, Zhao Zuojun 30, Li Yan 44;
 
-*[Mar 30]
 3/30/2006; Shanghai Shenhua       ; 0-0;     Shanghai United
 
 *Tianjin Teda                    bye
 
-*Round 5
-*[Apr 1]
+Round: 5
 Date: 4/1/2006
 
 ; Shenyang Ginde         ; 0-1;     Beijing Guoan  
@@ -947,7 +1007,6 @@ Gilson (pk) 1; Aleksandar Zivkovic 76, Han Peng 84
 
 ; Xiamen Lanshi           ; 0-0; Liaoning Whowin
 
-*[Apr 2]
 Date: 4/2/2006
 
 ; Qingdao Zhongneng      ; 0-1;     Dalian Shide
@@ -961,7 +1020,7 @@ Xin Feng 43;
 
 *Changchun Yatai         bye
 
-*Round 6 [Apr 8]
+Round: 6
 Date: 4/8/2006
 
 ; Beijing Guoan          ; 1-1;     Tianjin Teda
@@ -986,8 +1045,7 @@ Luis Alfredo Ramirez 12, Luis Alfredo Ramirez 79, Xiao Zhanbo 49; Tan Si 51
 
 *Xi'an Chanba       bye
 
-*Round 7
-*[Apr 15]
+Round: 7
 Date: 4/15/2006
 
 ; Shanghai United        ; 1-2;     Liaoning Whowin
@@ -999,7 +1057,6 @@ Zheng Bin 6, Gilson 63; Darko 55
 ; Xi'an Chanba   ; 0-2;    Beijing Guoan  
 ; Xu Yunlong 8, Yang Xiangchuang 90
 
-*[Apr 16]
 Date: 4/16/2006
 
 ; Qingdao Zhongneng      ; 0-1;     Changchun Yatai
@@ -1016,8 +1073,7 @@ Li Jianhua 7; Zoran Jankovic (pk) 67, Zoran Jankovic 80
 
 *Xiamen Lanshi         bye
 
-*Round 8
-*[Apr 19]
+Round: 8
 Date: 4/19/2006
 
 ; Changchun Yatai        ; 2-0;     Shanghai United
@@ -1037,17 +1093,15 @@ Gao Lin 15;
 
 ; Xiamen Lanshi          ; 0-0;     Qingdao Zhongneng
 
-*[Apr 20]
 4/20/2006; Dalian Shide           ; 2-0;     Wuhan Guanggu
 Hu Zhaojun 24, Yan Song 37;
 
 *Beijing Guoan         bye
 
-*Round 9
-*[Apr 22]
+Round: 9
+
 4/22/2006; Beijing Guoan          ; 0-0;     Shandong Luneng
 
-*[Apr 23]
 Date: 4/23/2006
 ; Shanghai United        ; 1-1;     Xiamen Lanshi
 Jiang Kun 30; Branko Jelic 17
@@ -1068,8 +1122,7 @@ Gilson 85; Xu Liang 90
 
 *Qingdao Zhongneng      bye
 
-*Round 10
-*[Apr 29]
+Round: 10
 Date: 4/29/2006
 
 ; Changchun Yatai        ; 2-0;     Wuhan Guanggu
@@ -1083,7 +1136,6 @@ Qu Bo 68;
 
 ; Xiamen Lanshi          ; 0-0;     Shenzhen Kingway
 
-*[Apr 30]
 Date: 4/30/2006
 
 ; Dalian Shide           ; 2-1;     Tianjin Teda
@@ -1095,9 +1147,9 @@ Yang Shanping 90; Yang Fusheng 64
 ; Shanghai Shenhua; 0-0; Beijing Guoan  
 *Shandong Luneng      bye
 
-*Round 11
-*[May 6]
+Round: 11
 Date: 5/6/2006
+
 ; Beijing Guoan          ; 1-0;     Chongqing Lifan
 Yan Xiangchuang 58;
 
@@ -1110,8 +1162,8 @@ Li Fei 69;
 ; Wuhan Guanggu          ; 1-1;     Xiamen Lanshi
 Gilson 69; Zou Yougen 47
 
-*[May 7]
 Date: 5/7/2006
+
 ; Shandong Luneng        ; 2-1;     Shanghai Shenhua
 Li Jinyu 10, Li Jinyu 13; Zheng Kewei 21
 
@@ -1123,8 +1175,9 @@ Wu Chengying 40, Wu Chengying 48, Vicente 44, Vicente 50; Miodrag Pantelic 75, Z
 
 *Shanghai United     bye
 
-*Round 12 [May 10]
+Round: 12
 Date: 5/10/2006
+
 ; Changchun Yatai        ; 3-1;     Tianjin Teda
 Cao Tianbao 68, Cao Tianbao 84, Wang Dong 82; Wu Weian 27
 
@@ -1145,9 +1198,9 @@ Zou Yougen 65; Li Zhenhong 61, Yang Chen 79
 
 *Shanghai Shenhua  bye
 
-*Round 13
-*[May 13]
+Round: 13
 Date: 5/13/2006
+
 ; Beijing Guoan          ; 1-0;     Liaoning Whowin
 Tao Wei 37;
 
@@ -1165,23 +1218,22 @@ Wang Xiaoshi 68; Zhao Zhipeng 69
 ; Xi'an Chanba       ; 1-1;  Changchun Yatai
 Wang Yun 38; Wang Dong 34
 
-*[Jul 7]
 7/7/2006; Shenyang Ginde         ; 2-2;     Qingdao Zhongneng
 Xu Bo 37, Wang Gang 85; Jiang Ning 54, Liu Jian 90
 
 *Shenzhen Kingway  bye
 
-*Round 14
-*[May 20]
+Round: 14
 Date: 5/20/2006
+
 ; Changchun Yatai        ; 4-1;     Beijing Guoan  
 Elvis Scott 10, Tang Jing 68, Cabrero 82, Cao Tianbao 90; Zhang Shuai 63
 
 ; Shenzhen Kingway ; 1-0;  Wuhan Guanggu
 Xin Feng 50;
 
-*[May 21]
 Date: 5/21/2006
+
 ; Dalian Shide           ; 1-2;     Shanghai Shenhua
 Zou Jie 18; Du Wei 8, Luis Alfredo Ramirez 82
 
@@ -1194,14 +1246,14 @@ Bai Yi 38, Liu Jian 48, Shi Hanjun 90; Cao Yang 5, Cao Yang 56
 ; Xiamen Lanshi         ; 0-1;     Xi'an Chanba
 ; Wang Yun 89
 
-*[Aug 4]
 8/4/2006; Shanghai United        ; 1-1;     Shenyang Ginde
 Martinez 2; Wang Qiang 74
 
 *Chongqing Lifan           bye
 
-*Round 15
-*[May 24]
+Round: 15
+Date: 5/24/2006
+
 ; Beijing Guoan          ; 1-0;     Xiamen Lanshi
 Tao Wei 53;
 
@@ -1217,26 +1269,23 @@ Lu Yan 28, Lu Yan 60, Zhang Shuo 53; Martinez 25
 ; Xi'an Chanba     ; 2-1;   Qingdao Zhongneng
 Zheng Tao 27, Vicente 38; Fabiano 74
 
-*[May 25]
 5/25/2006; Shanghai Shenhua       ; 3-0;     Liaoning Whowin 
 Zhang Yuning 37, Luis Alfredo Ramirez 44, Li Weifeng 85;
 
-*[Aug 9]
 8/9/2006; Shenyang Ginde         ; 1-2;     Shenzhen Kingway
 Liu Jianye (pk) 85; Zhang Ye 43, Zheng Ye 62
 
 *Wuhan Guanggu        bye
 
-*Round 16
-*[May 27]
+Round: 16
 Date: 5/27/2006
+
 ; Shanghai United        ; 1-1;     Xi'an Chanba
 Qu Shaoyan 9; Vicente 90
 
 ; Shenyang Ginde          ; 0-1;    Wuhan Guanggu
 ; Rong Hao 9
 
-*[May 28]
 Date: 5/28/2006
 
 ; Beijing Guoan          ; 1-0;     Qingdao Zhongneng
@@ -1251,15 +1300,14 @@ Zhou Haibin 70, Li Jinyu 79;
 ; Tianjin Teda      ; 2-0;      Shenzhen Kingway
 Agbo 68, Mao Biao 79;
 
-*[May 30]
 5/30/2006; Liaoning Whowin               ; 1-0;     Chongqing Lifan
 Wang Xinxin 77;
 
 *Dalian Shide    bye
 
-*Round 17 
-*[Jul 12]
+Round: 17 
 Date: 7/12/2006
+
 ; Wuhan Guanggu          ; 3-4;     Tianjin Teda
 Li Hao 14, Gilson (pk) 63, Gilson 67; Lu Yan 23, Han Yanming 29, Wu Weian 55, Cao Yang 60
 
@@ -1277,22 +1325,20 @@ Guo Hui 28, Zhao Junzhe (pk) 60; Zhu Ting 24
 ; Shenzhen Kingway;    2-2;    Xi'an Chanba
 Xin Feng 19, Lu Bofei (pk) 88; Ivan Bulat 48, Vicente 71
 
-*[Jul 13]
 7/13/2006; Xiamen Lanshi          ; 2-1;     Shanghai Shenhua
 Zhang Tianzheng 19, Zou Yougen 81; Luis Alfredo Ramirez 88
 
 *Shenyang Ginde         bye
 
-*Round 18
-*[Jul 15]
+Round: 18
 Date: 7/15/2006
+
 ; Shandong Luneng        ; 3-1;     Shanghai United
 Zheng Zhi (pk) 4, Li Jinyu 8, Li Jinyu 15; Jiang Kun 69
 
 ; Xi'an Chanba      ; 3-0;      Wuhan Guanggu
 Wang Peng 62, Wang Yun 70, Vicente 80;
 
-*[Jul 16]
 Date: 7/16/2006
 
 ; Beijing Guoan          ; 2-0;     Shenzhen Kingway
@@ -1312,9 +1358,9 @@ Makinwa 14, Lu Yan 69;
 
 *Liaoning Whowin       bye
 
-*Round 19
-*[Jul 22]
+Round: 19
 Date: 7/22/2006
+
 ; Xiamen Lanshi          ; 1-0;     Dalian Shide
 Zou Yougen 72;
 
@@ -1327,7 +1373,6 @@ Wang Qiang 25, Liu Jianye (pk) 53; Qu Nannan 34
 ; Shanghai United        ; 1-1;     Shanghai Shenhua
 Tiago 50; Luis Alfredo Ramirez 59
 
-*[Jul 23]
 Date: 7/23/2006
 
 ; Qingdao Zhongneng      ; 1-1;     Chongqing Lifan
@@ -1341,8 +1386,7 @@ Wang Xiaoshi 80; Gao Dawei 66
 
 *Tianjin Teda            bye
 
-*Round 20
-*[Jul 26]
+Round: 20
 Date: 7/26/2006
 
 ; Dalian Shide           ; 3-1;     Qingdao Zhongneng 
@@ -1359,7 +1403,6 @@ Predrag Pazin 17, Predrag Pazin 67, Zheng Zhi (pk) 22, Li Jinyu 49, Han Peng 59;
 ; Shanghai Shenhua; 1-0;     Shenzhen Kingway
 Sun Xiang (pk) 72;
 
-*[Jul 27]
 Date: 7/27/2006
 
 ; Xi'an Chanba           ; 1-1;     Tianjin Teda     
@@ -1370,8 +1413,7 @@ Wang Peng 6; Cao Yang (pk) 82
 
 *Changchun Yatai         bye
 
-* Round 21
-* [Jul 29]
+Round: 21
 Date: 7/29/2006
 
 ; Shenyang Ginde         ; 2-7;     Shandong Luneng
@@ -1383,7 +1425,6 @@ Wang Suolong 51, Yang Fusheng 84; Li Jinyu 18, Li Jinyu 52, Li Jinyu 54, Han Pen
 ; Qingdao Zhongneng    ; 2-0;       Liaoning Whowin 
 Liu Junwei 7, Jiang Ning 50;
 
-*[Jul 30]
 Date: 7/30/2006
 
 ; Tianjin Teda           ; 0-0;     Beijing Guoan  
@@ -1395,8 +1436,7 @@ Tiago (pk) 74; Quan Lei 56
 
 *Xi'an Chanba            bye
 
-*Round 22
-*[Aug 19]
+Round: 22
 Date: 8/19/2006
 
 ; Chongqing Lifan        ; 0-2;     Wuhan Guanggu
@@ -1409,7 +1449,6 @@ Du Zhenyu 67, Du Zhenyu 72; Fabiano (pk) 89
 ; Dalian Shide           ; 5-0;     Shenzhen Kingway
 Zhang Yaokun 17, Zhu Ting 22, Zhu Ting 85, Zou Jie 50, Zoran Jankovic (pk) 68;
 
-*[Aug 20]
 Date: 8/20/2006
 
 ; Liaoning Whowin               ; 2-0;     Shanghai United 
@@ -1423,8 +1462,7 @@ Zheng Zhi 52, Zheng Zhi 65; Zolic 33
 
 *Xiamen Lanshi        bye
 
-* Round 23
-*[Aug 23]
+Round: 23
 Date: 8/23/2006
 
 ; Xi'an Chanba           ; 0-2;     Shandong Luneng
@@ -1445,14 +1483,12 @@ Zhang Ye 21, Lu Bofei 75; Yang Xu 88, Yang Xu 90
 ; Qingdao Zhongneng ; 0-1;   Xiamen Lanshi
 ; Joaquim (pk) 15
 
-*[Aug 24]
 8/24/2006; Shanghai United        ; 2-1;     Changchun Yatai
 Martinez 80, Tiago 84; Du Zhenyu 56
 
 *Beijing Guoan           bye
 
-*Round 24
-*[Aug 26]
+Round: 24
 Date: 8/26/2006
 
 ; Liaoning Whowin               ; 2-1;     Wuhan Guanggu
@@ -1461,7 +1497,6 @@ Xu Liang 10, Guo Hui 53; Li Hao 82
 ; Shanghai Shenhua       ; 1-1;     Xi'an Chanba    
 Sun Xiang 31; Vicente 46
 
-*[Aug 27]
 Date: 8/27/2006
 
 ; Dalian Shide           ; 3-1;     Shenyang Ginde
@@ -1479,8 +1514,7 @@ Wu Qing 53; Liu Wei 45
 
 *Qingdao Zhongneng       bye
 
-*Round 25
-*[Sep 9]
+Round: 25
 Date: 9/9/2006
 
 ; Beijing Guoan          ; 0-1;     Shanghai Shenhua
@@ -1489,7 +1523,6 @@ Date: 9/9/2006
 ; Shenyang Ginde         ; 1-0;     Liaoning Whowin
 Chen Tao 33;
 
-*[Sep 10]
 Date: 9/10/2006
 
 ; Xi'an Chanba           ; 2-0;     Chongqing Lifan
@@ -1508,8 +1541,7 @@ Yang Lin 49;
 
 *Shandong Luneng         bye
 
-*Round 26
-*[Sep 16]
+Round: 26
 Date: 9/16/2006
 
 ; Qingdao Zhongneng      ; 2-1;     Shenzhen Kingway
@@ -1520,7 +1552,6 @@ Own Goal (Yuan Lin) 63, Qu Bo 70; Bogdan 64
 ; Dalian Shide           ; 1-0;      Xi'an Chanba
 Zhu Ting 15;
 
-*[Sep 17]
 Date: 9/17/2006
 
 ; Xiamen Lanshi          ; 2-0;     Wuhan Guanggu
@@ -1532,15 +1563,14 @@ Wang Bo 39, Bai Lei 55;
 ; Chongqing Lifan        ; 1-1;     Beijing Guoan   
 Wu Qing 44; Du Wenhui 26
 
-*[Oct 5]
 10/5/2006; Shanghai Shenhua       ; 2-1;     Shandong Luneng   
 Jovanovic 52, Luis Alfredo Ramirez 61; Lu Zheng 3
 
 *Shanghai United          bye
 
-*Round 27
-*[Sep 23]
+Round: 27
 Date: 9/23/2006
+
 ; Xi'an Chanba           ; 2-1;     Liaoning Whowin 
 Wang Peng 26, Huang Yong 68; Chen Xing 15
 
@@ -1551,7 +1581,6 @@ Han Peng 3, Li Jinyu 32, Zheng Zhi 55, Zheng Zhi 90;
 ; Wuhan Guanggu                    ; 2-1;    Qingdao Zhongneng
 Gilson 58, Gilson 90; Qu Bo 48
 
-*[Sep 24]
 Date: 9/24/2006
 
 ; Beijing Guoan          ; 1-0;     Dalian Shide
@@ -1565,8 +1594,7 @@ Zhang Shuo 4; Jiang Pengxiang 68
 
 *Shanghai Shenhua       bye
 
-*Round 28
-*[Sep 30]
+Round: 28
 Date: 9/30/2006
 
 ; Changchun Yatai        ; 1-1;     Xi'an Chanba
@@ -1580,7 +1608,6 @@ Zou Jie 45; Zheng Zhi 9, Zheng Zhi 33, Li Jinyu 85, Han Peng 86
 
 ; Shanghai United     ; 0-0;    Wuhan Guanggu
 
-*[Oct 1]
 Date: 10/1/2006
 
 ; Qingdao Zhongneng      ; 2-1;     Shenyang Ginde
@@ -1594,7 +1621,7 @@ Deneirang 4, Huo Zhiyu 85; Ma Jianqing 1, Ma Jiangqing 82, Xie Hui 35, Li Weifen
 
 *Shenzhen Kingway  bye
 
-*Round 29 [Oct 15]
+Round: 29
 Date: 10/15/2006
 
 ; Beijing Guoan          ; 1-0;     Changchun Yatai
@@ -1620,7 +1647,7 @@ Wang Xiaoshi 28, Zheng Bin 76; Li Yi 39
 
 *Chongqing Lifan     bye
 
-*Round 30 [Oct 22]
+Round: 30
 Date: 10/22/2006
 
 ; Changchun Yatai        ; 3-2;     Shandong Luneng  
@@ -1648,10 +1675,11 @@ Zou Yougen 10, Wang Bo 61;
 
 
 Season: 2007
+BlockSource: http://www.rsssf.com/tablesc/china07.html
 
-*Round 1 
-*[Mar 3]
+Round: 1 
 Date: 3/3/2007
+
 ; Shandong Luneng           ; 5-2; Liaoning FC
 Cui Peng 13, Han Peng 21, Aleksandar Zivkovic 42, Wang Yongpo 62, Jiao Zhe 78; Zhang Shudong 34, Wang Xinxin 65
 
@@ -1666,8 +1694,8 @@ Emerson 16; Zhang Shuo 5
 
 ; Shenzhen Shangqingyin     ; 0-0; Shaanxi Baorong 
 
-*[Mar 4]
 Date: 3/4/2007
+
 ; Changsha Ginde            ; 0-1; Dalian Shide
 ; Zoran Jankovic 60
 
@@ -1676,8 +1704,7 @@ Zhang Peng 77; Du Zhenyu 42, Jiang Pengxiang 64, Jiang Pengxiang 79
 
 *Henan Jianye               bye
 
-*Round 2 
-*[Mar 10]
+Round: 2 
 Date: 3/10/2007
 
 ; Dalian Shide              ; 1-0; Changchun Yatai
@@ -1686,7 +1713,6 @@ Zou Jie 16;
 ; Tianjin Teda              ; 2-0; Shenzhen Shangqingyin
 Cao Yang 39, Hao Junmin 88;
 
-*[Mar 11]
 Date: 3/11/2007
 
 ; Qingdao Zhongneng         ; 2-0; Liaoning FC
@@ -1705,8 +1731,7 @@ Yu Tao 52;
 
 *Wuhan Guanggu              bye
 
-*Round 3 
-*[Mar 17]
+Round: 3 
 Date: 3/17/2007
 
 ; Shandong Luneng           ; 3-0; Qingdao Zhongneng
@@ -1720,7 +1745,6 @@ Eduardo Marques 12, Marcelo Rosa 60; Jiang Pengxiang 21
 ; Dalian Shide              ; 1-1; Shaanxi Baorong 
 Zhao Xuri 19; Wang Yun 4
 
-*[Mar 18]
 Date: 3/18/2007
 
 ; Liaoning FC               ; 1-0; Changsha Ginde
@@ -1733,8 +1757,7 @@ Joaquim 46; Zhang Shuo 3, Tan Wangsong 90
 
 *Shenzhen Shangqingyin      bye
 
-*Round 4 
-*[Mar 31]
+Round: 4 
 Date: 3/31/2007
 
 ; Changchun Yatai           ; 3-2; Liaoning FC
@@ -1746,7 +1769,6 @@ Ivan Bulat 16, Li Yan 51;
 ; Tianjin Teda              ; 0-1; Dalian Shide
 ; Zhao Xuri 18
 
-*[Apr 1]
 Date: 4/1/2007
 
 ; Henan Jianye              ; 1-1; Shandong Luneng
@@ -1763,8 +1785,7 @@ Martinez 60; Santos 86
 
 *Xiamen Lanshi              bye
 
-*Round 5 
-*[Apr 7]
+Round: 5 
 Date: 4/7/2007
 
 ; Shandong Luneng           ; 4-2; Changsha Ginde
@@ -1782,7 +1803,6 @@ Ryan Griffiths 45;
 ; Zhejiang Lucheng          ; 1-3; Tianjin Teda
 Jiao Fengbo 86; Mao Biao 29, Zhang Shuo 80, Vucko 90
 
-*[Apr 8]
 Date: 4/8/2007
 
 ; Wuhan Guanggu             ; 2-0; Henan Jianye
@@ -1793,8 +1813,7 @@ Branko Jelic 66; Yan Xiangchuang 3, Yan Xiangchuang 75
 
 *Dalian Shide               bye
 
-*Round 6 
-*[Apr 14]
+Round: 6 
 Date: 4/14/2007
 
 ; Changchun Yatai           ; 1-0; Changsha Ginde
@@ -1803,7 +1822,6 @@ Wang Dong 38;
 ; Tianjin Teda              ; 1-0; Liaoning FC
 Han Yanming 72;
 
-*[Apr 15]
 Date: 4/15/2007
 
 ; Henan Jianye              ; 0-0; Shenzhen Shangqingyin
@@ -1822,8 +1840,7 @@ Yan Kunpeng 59, Gilson 65, Zhou Liao 73; Li Jinyu 1, Li Jinyu 38
 
 *Zhejiang Lucheng           bye
 
-*Round 7 
-*[Apr 21]
+Round: 7 
 Date: 4/21/2007
 
 ; Shandong Luneng           ; 1-1; Changchun Yatai
@@ -1837,7 +1854,6 @@ Zhao Kun 39, Li Jianhua 59; Gilson 82
 ; Dalian Shide              ; 2-1; Shanghai Shenhua
 Wang Peng 59, Wang Peng 63; Li Weifeng 57
 
-*[Apr 22]
 Date: 4/22/2007
 
 ; Changsha Ginde            ; 0-0; Shaanxi Baorong 
@@ -1849,8 +1865,7 @@ Liu Jian 69;
 
 *Liaoning FC                bye
 
-*Round 8 
-*[Apr 28]
+Round: 8 
 Date: 4/28/2007
 
 ; Shaanxi Baorong           ; 0-1; Changchun Yatai
@@ -1859,7 +1874,6 @@ Date: 4/28/2007
 ; Tianjin Teda              ; 2-0; Changsha Ginde
 Zhang Shuo 23, Han Yanming 43;
 
-*[Apr 29]
 Date: 4/29/2007
 
 ; Wuhan Guanggu             ; 1-1; Xiamen Lanshi
@@ -1879,8 +1893,7 @@ Xiao Zhanbo 88; Wu Wei 89
 
 *Qingdao Zhongneng          bye
 
-*Round 9 
-*[May 5]
+Round: 9 
 Date: 5/5/2007
 
 ; Shandong Luneng           ; 3-0; Shaanxi Baorong 
@@ -1895,7 +1908,6 @@ Liu Jian 20, Liu Jian 40, Qu Bo 52; Zhang Shuai 90
 ; Liaoning FC               ; 1-0; Shanghai Shenhua
 Wang Xinxin 4;
 
-*[May 6]
 Date: 5/6/2007
 
 ; Xiamen Lanshi             ; 1-3; Shenzhen Shangqingyin
@@ -1907,8 +1919,7 @@ Cao Tianbao 70;
 ; Dalian Shide              ; 0-0; Wuhan Guanggu
 *Changsha Ginde             bye
 
-*Round 10 
-*[May 12]
+Round: 10 
 Date: 5/12/2007
 
 ; Tianjin Teda              ; 1-0; Shaanxi Baorong 
@@ -1917,7 +1928,6 @@ Zhang Shuo 28;
 ; Shenzhen Shangqingyin     ; 0-2; Dalian Shide
 ; Wang Peng 19, Wang Peng 64
 
-*[May 13]
 Date: 5/13/2007
 
 ; Beijing Guoan             ; 0-0; Changsha Ginde
@@ -1936,8 +1946,7 @@ Vicente de Paula Neto 16, Zheng Bin 27, Lu Bofei 77;
 
 * Changchun Yatai            bye
 
-*Round 11 
-*[May 19]
+Round: 11 
 Date: 5/19/2007
 
 ; Zhejiang Lucheng          ; 1-2; Shenzhen Shangqingyin
@@ -1951,7 +1960,6 @@ Li Chunyu (pk) 18; Diego Alonso 31
 ; Qingdao Zhongneng         ; 2-1; Henan Jianye
 Agbo 44, Jiang Ning 65; Lu Feng (pk) 62
 
-*[May 20]
 Date: 5/20/2007
 
 ; Dalian Shide              ; 0-0; Xiamen Lanshi
@@ -1959,7 +1967,6 @@ Date: 5/20/2007
 ; Liaoning FC               ; 1-2; Wuhan Guanggu
 Ryan Griffiths 77; Vicente de Paula Neto 44, Lu Bofei 82
 
-*[May 31]
 Date: 5/31/2007
 
 ; Shandong Luneng           ; 2-0; Tianjin Teda
@@ -1967,8 +1974,7 @@ Cui Peng 21, Li Jinyu 66;
 
 *Shaanxi Baorong            bye
 
-*Round 12 
-*[May 26]
+Round: 12 
 Date: 5/26/2007
 
 ; Shenzhen Shangqingyin     ; 1-2; Liaoning FC
@@ -1977,7 +1983,6 @@ Zayak 20; Lu Gang 28, Ding Jie 35
 ; Xiamen Lanshi             ; 2-1; Zhejiang Lucheng
 Li Kun 43, Zou Yougen (pk) 82; Sun Wei 9
 
-*[May 27]
 Date: 5/27/2007
 
 ; Beijing Guoan             ; 1-1; Shaanxi Baorong 
@@ -1997,8 +2002,7 @@ Zoran Jankovic (pk) 20, Zhao Xuri 26, Zhao Xuri 81; Zhou Haibin 41, Han Peng 73
 
 *Tianjin Teda               bye
 
-*Round 13 
-*[Jun 16]
+Round: 13 
 Date: 6/16/2007
 
 ; Dalian Shide              ; 1-3; Zhejiang Lucheng
@@ -2013,7 +2017,6 @@ Own Goal (Li Kun) 36, Lu Gang 51; Wei Huiping 90
 ; Changchun Yatai           ; 3-1; Henan Jianye
 Dah Zadi 50, Dah Zadi 79, Dah Zadi 83; Lu Feng 19
 
-*[Jun 17]
 Date: 6/17/2007
 
 ; Shaanxi Baorong           ; 0-2; Shanghai Shenhua
@@ -2028,8 +2031,7 @@ Abu Bakr 84;
 *Shandong Luneng            bye
 
 
-*Round 14 
-*[Jun 20]
+Round: 14 
 Date: 6/20/2007
 
 ; Zhejiang Lucheng          ; 1-3; Shandong Luneng
@@ -2048,7 +2050,6 @@ Gomez 52; Ronny 57
 ; Wuhan Guanggu             ; 3-1; Changchun Yatai
 Wang Xiaoshi 18, Vicente de Paula Neto 40, Zheng Bin (pk) 86; Dah Zadi 72
 
-*[Jun 21]
 Date: 6/21/2007
 
 ; Shanghai Shenhua          ; 3-2; Tianjin Teda
@@ -2056,13 +2057,11 @@ Blanc 37, Blanc 68, Hamilton Ricard 83; Own Goal (Du Wei) 33, Wu Weian 52
 
 *Beijing Guoan              bye
 
-*Round 15 
-*[Aug 7]
+Round: 15 
 
 8/7/2007; Changchun Yatai           ; 4-0; Shenzhen Shangqingyin
 Wang Dong 9, Du Zhenyu 19, Du Zhenyu 75, Wang Rui 71;
 
-*[Aug 8]
 Date: 8/8/2007
 
 ; Shandong Luneng           ; 1-6; Beijing Guoan
@@ -2077,15 +2076,14 @@ Zhou Haibin 26; Own Goal (Tian Ye) 22, Tao Wei 41, Tiago (pk) 45, Tiago 90, Yan 
 ; Shaanxi Baorong           ; 2-0; Wuhan Guanggu
 Ronny 11, Li Yan 84;
 
-*[Aug 9]
 8/9/2007; Qingdao Zhongneng         ; 1-2; Dalian Shide
 Agbo 37; Zoran Jankovic 41, Delinic 55
 
 *Shanghai Shenhua           bye
 
-*Round 16 
-*[Aug 11]
+Round: 16 
 Date: 8/11/2007
+
 ; Liaoning FC               ; 2-1; Shandong Luneng
 Wang Xinxin 58, Yang Yu 89; Li Jinyu 80
 
@@ -2095,8 +2093,8 @@ Han Junmin 47, Own Goal (Wang Xiaoshi) 61;
 ; Changchun Yatai           ; 2-1; Xiamen Lanshi
 Cabrero 9, Du Zhenyu 71; Zou Yougen 15
 
-*[Aug 12]
 Date: 8/12/2007
+
 ; Beijing Guoan             ; 2-3; Shanghai Shenhua
 Yan Xiangchuang 2, Tiago (pk) 76; Du Wei 56, Diego Alonso 69, Martinez 82
 
@@ -2111,8 +2109,7 @@ Ronny 60; Li Fei 70
 
 *Henan Jianye               bye
 
-*Round 17 
-*[Aug 18]
+Round: 17 
 
 ; Shandong Luneng           ; 2-1; Shanghai Shenhua
 Aleksandar Zivkovic (pk) 7, Han Peng 44; Hamilton Ricard 27
@@ -2128,17 +2125,15 @@ Elvis Scott 45; Zhang Yaokun 76, Zhang Yaokun 87
 ; Shenzhen Shangqingyin     ; 1-1; Tianjin Teda
 Kamate 37; Zhang Shuo 51
 
-*[Aug 19]
 8/19/2007; Henan Jianye              ; 1-2; Beijing Guoan
 Olivier Fauconnier 52; Own Goal (Trenchev) 41, Tiago 90
 
-*[Oct 13]
 10/13/2007; Xiamen Lanshi             ; 1-0; Shaanxi Baorong 
 Wang Bo 85;
 
 *Wuhan Guanggu              bye
 
-*Round 18 [Aug 22]
+Round: 18
 Date: 8/22/2007
 
 ; Qingdao Zhongneng         ; 0-4; Shandong Luneng
@@ -2164,14 +2159,13 @@ Majic 3, Hao Junmin 71;
 
 *Shenzhen Shangqingyin      bye
 
-*Round 19 
-*[Aug 25]
+Round: 19 
 
 8/25/2007; Qingdao Zhongneng         ; 0-1; Changsha Ginde
 ; Cardoso 11
 
-*[Aug 26]
 Date: 8/26/2007
+
 ; Shandong Luneng           ; 1-2; Henan Jianye
 Han Peng 19; Olivier Fauconnier 54, Trenchev 76
 
@@ -2191,13 +2185,13 @@ Wang Sheng 41, Zou Jie 86; Cao Yang 58, Charles 75
 
 *Xiamen Lanshi              bye
 
-*Round 20 
-*[Aug 31]
+Round: 20 
+
 8/31/2007; Changchun Yatai           ; 1-1; Qingdao Zhongneng
 Wang Rui 86; Jiang Ning 54
 
-*[Sep 1]
 Date: 9/1/2007
+
 ; Henan Jianye              ; 0-0; Wuhan Guanggu
 
 ; Shanghai Shenhua          ; 4-1; Shenzhen Shangqingyin
@@ -2211,14 +2205,14 @@ Tao Wei 16, Tao Wei 27, Yang Pu 54, Tiago 57; Le Beisi 45
 ; Tianjin Teda              ; 1-0; Zhejiang Lucheng
 Cao Yang 53;
 
-*[Sep 2]
 9/2/2007; Changsha Ginde            ; 0-2; Shandong Luneng
 ; Cui Peng 12, Han Peng 90
 
 *Dalian Shide               bye
 
-*Round 21 [Sep 5]
+Round: 21
 Date: 9/5/2007
+
 ; Shandong Luneng           ; 2-0; Wuhan Guanggu
 Li Hui 28, Li Jinyu 82;
 
@@ -2239,15 +2233,15 @@ Zhu Ting 51; Yan Xiangchuang 16
 
 *Zhejiang Lucheng           bye
 
-*Round 22
-*[Sep 8]
+Round: 22
+
 9/8/2007; Shaanxi Baorong           ; 0-0; Changsha Ginde
 
 9/8/2007; Tianjin Teda              ; 4-0; Qingdao Zhongneng
 Cao Yang 9, Santos 31, Jiang Chen 74, Jiang Chen 78;
 
-*[Sep 9]
 Date: 9/9/2007
+
 ; Beijing Guoan             ; 1-0; Zhejiang Lucheng
 Tiago 90;
 
@@ -2264,9 +2258,9 @@ Gilson 55;
 
 *Liaoning FC                bye
 
-*Round 23 
-*[Sep 15]
+Round: 23 
 Date: 9/15/2007
+
 ; Shandong Luneng           ; 5-0; Shenzhen Shangqingyin
 Li Hui 1, Li Hui 58, Lu Zheng 67, Lu Zheng 71, Han Peng 85;
 
@@ -2275,8 +2269,8 @@ Yan Song 57, Zhang Yaokun 88, Andjelkovic 90; Zhang Lu 13
 
 ; Zhejiang Lucheng          ; 0-0; Shanghai Shenhua
 
-*[Sep 16]
 Date: 9/16/2007
+
 ; Changchun Yatai           ; 1-0; Shaanxi Baorong 
 Cao Tianbao 83;
 
@@ -2291,8 +2285,7 @@ Ding Jie 32, Yu Hanchao 84; Tao Wei 10, Miodrag Pantelic 17, Yan Xiangchuang 90
 
 *Qingdao Zhongneng          bye
 
-*Round 24 
-*[Sep 21]
+Round: 24 
 
 9/21/2007; Tianjin Teda              ; 0-1; Changchun Yatai
 ; Wang Dong (pk) 31
@@ -2300,7 +2293,6 @@ Ding Jie 32, Yu Hanchao 84; Tao Wei 10, Miodrag Pantelic 17, Yan Xiangchuang 90
 9/21/2007; Wuhan Guanggu             ; 1-0; Dalian Shide
 Di You 47;
 
-*[Sep 22]
 Date: 9/22/2007
 
 ; Shaanxi Baorong           ; 0-0; Shandong Luneng
@@ -2311,7 +2303,6 @@ Zajac 42; Yang Chen 7
 ; Shanghai Shenhua          ; 1-1; Liaoning FC
 Xie Hui 75; Ding Jie 65
 
-*[Sep 23]
 9/23/2007; Henan Jianye              ; 0-1; Zhejiang Lucheng
 ; Xu Ning 8
 
@@ -2320,8 +2311,7 @@ Martinez 6, Martinez 74, Tao Wei 25;
 
 *Changsha Ginde             bye
 
-*Round 25
-*[Sep 29]
+Round: 25
 Date: 9/29/2007
 
 ; Changsha Ginde            ; 0-2; Beijing Guoan
@@ -2339,7 +2329,6 @@ Ronny 34, Ronny 66, Wang Erzhuo 52, Junior 77; Hao Junmin 83, Mao Biao 90
 ; Zhejiang Lucheng          ; 1-3; Wuhan Guanggu
 Ma Cheng 38; Wang Wenhua 36, Wang Wenhua 37, Gilson 39
 
-*[Sep 30]
 Date: 9/30/2007
 
 ; Liaoning Xiyang           ; 0-0; Henan Jianye
@@ -2349,12 +2338,11 @@ Cui Peng 54, Li Jinyu 61, Aleksandar Zivkovic 76, Lu Zheng 81;
 
 *Changchun Yatai            bye
 
-*Round 26
-*[Oct 3]
+Round: 26
+
 10/3/2007; Shenzhen Shangqingyin     ; 1-0; Zhejiang Lucheng
 Zhang Ye 44;
 
-*[Oct 4]
 Date: 10/4/2007
 
 ; Beijing Guoan             ; 0-1; Changchun Yatai   
@@ -2377,9 +2365,9 @@ Zhang Peng 76, Zou Yougen (pk) 80; Min Jin 25, Min Jin 35
 
 *Shaanxi Baorong            bye
 
-*Round 27 
-*[Oct 31]
+Round: 27 
 Date: 10/31/2007
+
 ; Zhejiang Lucheng          ; 2-1; Xiamen Lanshi
 Rong Yu 40, Tico 79; Zhang Peng 69
 
@@ -2397,13 +2385,12 @@ Liu Jian (pk) 79;
 ; Changsha Ginde            ; 2-1; Henan Jianye
 Liu Jianye 14, Liu Jianye 50; Lu Zheng 13
 
-*[Nov 1]
 11/1/2007; Shandong Luneng           ; 1-1; Dalian Shide
 Li Jinyu 62; Yan Song 60
 
 *Tianjin Teda               bye
 
-*Round 28 [Nov 4]
+Round: 28
 Date: 11/4/2007
 
 ; Wuhan Guanggu             ; 0-0; Changsha Ginde
@@ -2428,7 +2415,7 @@ Xiao Zhi 5, Olivier Fauconnier 18, Olivier Fauconnier 55; Du Zhenyu 23, Dah Zadi
 
 *Shandong Luneng            bye
 
-*Round 29 [Nov 10]
+Round: 29
 Date: 11/10/2007
 
 ; Shandong Luneng           ; 1-1; Zhejiang Lucheng
@@ -2452,7 +2439,7 @@ Dah Zadi 27, Dah Zadi 55, Elvis Scott 44, Wang Dong 83;
 
 *Beijing Guoan              bye
 
-*Round 30 [Nov 14]
+Round: 30
 Date: 11/14/2007
 
 ; Beijing Guoan             ; 1-0; Shandong Luneng
@@ -2476,9 +2463,9 @@ Kamate 25; Elvis Scott 3, Elvis Scott 45, Wang Wanpeng 29, Dah Zadi 42
 *Shanghai Shenhua           bye
 
 Season: 2008
+BlockSource: http://www.rsssf.com/tablesc/china08.html
 
-*Round 1 
-*[Mar 29]
+Round: 1 
 Date: 3/29/2008
 
 ; Chengdu Blades          ; 1-1; Liaoning Yuandong
@@ -2487,7 +2474,6 @@ Liu Cheng 75; Jefferson 65
 ; Shanghai Shenhua        ; 2-0; Shenzhen Xiangxue      
 Du Wei 20, Yu Tao 52;
 
-*[Mar 30]
 Date: 3/30/2008
 
 ; Dalian Haichang         ; 1-0; Qingdao Jonoon
@@ -2508,9 +2494,9 @@ Gustavo 12; Luis Alfredo Ramirez 3, Luis Alfredo Ramirez 89, Xu Liang 46
 ; Beijing Guoan           ; 2-0; Henan Siwu
 Martinez 36, Du Wenhui 78; 
 
-*Round 2
-*[Apr 5]
+Round: 2
 Date: 4/5/2008
+
 ; Henan Siwu              ; 3-3; Liaoning Yuandong
 Gilson (pk) 11, Emmanuel Olisadebe 26, Emmanuel Olisadebe 89; Jefferson 2, Ryan Griffiths 8, Wang Xinxin 20
 
@@ -2539,9 +2525,9 @@ Hu Zhaojun 3; Cardoso 72
 ; Shenzhen Xiangxue       ; 1-1; Guangzhou Pharmaceutical
 Yuan Lin 86; Jose Filho Duarte 62
 
-*Round 4
-*[Apr 9]
+Round: 4
 Date: 4/9/2008
+
 ; Dalian Haichang         ; 1-1; Henan Siwu  
 Zhu Ting 26; Nwaigwe 90
 
@@ -2565,13 +2551,12 @@ Date: 7/16/2008
 ; Beijing Guoan           ; 3-2; Guangzhou Pharmaceutical
 Sui Dongliang 42, Tiago 58, Tao Wei 76; Xu Liang (pk) 62, Gao Ming 86
 
-*[Sep 4]
 9/4/2008; Changchun Yatai         ; 2-2; Shandong Luneng 
 Cao Tianbao 44, Du Zhenyu 46; Alejandro Cichero 10, Wang Yongpo 78
 
-*Round 3
-*[Apr 12]
+Round: 3
 Date: 4/12/2008
+
 ; Chengdu Blades          ; 2-1; Dalian Haichang 
 Wang Song 27, Wang Song 62; Zou Jie 51
 
@@ -2584,7 +2569,6 @@ Wen Huyi 42; Xu Ning 20
 ; Shandong Luneng         ; 3-1; Liaoning Yuandong  
 Han Peng 44, Han Peng 90, Wang Yongpo 53; Ryan Griffiths 72
 
-*[Apr 13]
 Date: 4/13/2008
 
 ; Qingdao Jonoon          ; 0-0; Shanghai Shenhua        
@@ -2598,12 +2582,11 @@ Eber Luis 46; Macaba 26
 ; Henan Siwu              ; 2-0; Changchun Yatai    
 Zhang Lu 58, He Bin 62;
 
-* Round 5
-* [Apr 26]
+Round: 5
+
 4/26/2008; Henan Siwu              ; 1-0; Zhejiang Lucheng    
 Emmanuel Olisadebe 40;
 
-*[Apr 27]
 Date: 4/27/2008
 
 ; Shaanxi Zhongxin        ; 2-1; Beijing Guoan           
@@ -2627,8 +2610,7 @@ Han Peng 52, Aleksandar Zivkovic 60;
 ; Qingdao Jonoon          ; 1-0; Shenzhen Xiangxue     
 Jiang Ning 90;
 
-*Round 6
-*[May 2]
+Round: 6
 Date: 5/2/2008
 
 ; Shenzhen Xiangxue       ; 0-0; Beijing Guoan            
@@ -2636,7 +2618,6 @@ Date: 5/2/2008
 ; Tianjin Teda            ; 3-1; Chengdu Blades     
 Eber Luis 20, Eber Luis 80, Zhang Shuo (pk) 37; Wang Song 35
 
-*[May 3]
 Date: 5/3/2008
 
 ; Guangzhou Pharmaceutical; 3-2; Changchun Yatai     
@@ -2656,8 +2637,7 @@ Wang Xinxin 72; Scheidt 51, Li Yi 54
 ; Shanghai Shenhua        ; 2-0; Henan Siwu         
 Jiang Kun 38, Martinez 47;
 
-*Round 7
-*[May 10]
+Round: 7
 Date: 5/10/2008
 
 ; Chengdu Blades          ; 1-1; Qingdao Jonoon      
@@ -2682,12 +2662,10 @@ Aboubakar Oumarou 67, Wen Huyi 87; Li Hongyang 55
 ; Shandong Luneng         ; 2-1; Shanghai Shenhua 
 Han Peng 76, Own Goal (Du Wei) 87; Jiang Kun 49
 
-*[May 11]
 5/11/2008; Shaanxi Zhongxin        ; 4-3; Changchun Yatai
 Li Yan (pk) 11, Li Yi 18, Vicente de Paula Neto 38, Wang Peng 89; Samuel Caballero 1, Dah Zadi 57, Dah Zadi 84
 
-* Round 8 
-* [May 17]
+Round: 8 
 Date: 5/17/2008
 
 ; Dalian Haichang         ; 1-1; Shaanxi Zhongxin 
@@ -2712,12 +2690,12 @@ Zhang Shuo 37; Wang Yongpo 24
 * [awarded 3-0]
 Erick Scott 62; 
 
-*[May 18]
 5/18/2008; Henan Siwu              ; 2-0; Qingdao Jonoon  
 Emmanuel Olisadebe 3, Emmanuel Olisadebe 42;
 
-* Round 10 [Jun 25]
+Round: 10
 Date: 6/25/2008
+
 ; Shenzhen Xiangxue       ; 1-2; Changchun Yatai    
 Macaba 32; Dah Zadi 10, Liu Xiaodong 71
 
@@ -2741,8 +2719,7 @@ Zhang Yaokun (pk) 46, Zhang Yaokun 90; Zhao Junzhe (pk) 55
 ; Shanghai Shenhua        ; 2-0; Shaanxi Zhongxin 
 Wu Weichao 25, Jiang Kun 85;
 
-* Round 11 
-* [Jun 28]
+Round: 11 
 Date: 6/28/2008
 
 ; Guangzhou Pharmaceutical; 3-2; Qingdao Jonoon    
@@ -2760,7 +2737,6 @@ Emmanuel Olisadebe 27, Emmanuel Olisadebe 54; Sui Donglu 75
 ; Shandong Luneng         ; 2-1; Chengdu Blades    
 Lu Zheng 28, Aleksandar Zivkovic 46; Jiang Xiaoyu 68
 
-* [Jun 29]
 Date: 6/29/2008
 
 ; Wuhan Guanggu           ; 1-0; Changsha Ginde            
@@ -2773,8 +2749,7 @@ Wang Sheng 67;
 ; Changchun Yatai         ; 2-0; Dalian Haichang  
 Du Zhenyu (pk) 42, Cao Tianbao 89;
 
-* Round 12
-* [Jul 2]
+Round: 12
 Date: 7/2/2008
 
 ; Qingdao Jonoon          ; 1-3; Shaanxi Zhongxin  
@@ -2798,12 +2773,10 @@ Cheng Liang 20; Wang Xinxin 85
 * [awarded 3-0]
 Danielson 43; Xie Zhiyu 48
 
-* [Jul 3]
 7/3/2008; Changsha Ginde          ; 4-2; Guangzhou Pharmaceutical
 Aboubakar Oumarou 16, Aboubakar Oumarou 47, Zhang Chenglin 49, Yu Guijun 78; Luis Alfredo Ramirez 74, Tang Dechao 90
 
-* Round 13
-* [Jul 5]
+Round: 13
 Date: 7/5/2008
 
 ; Dalian Haichang         ; 0-0; Zhejiang Lucheng      
@@ -2833,7 +2806,7 @@ Cao Tianbao 15, Melkam 60; Marchesini 21, Hamilton Ricard (pk) 26
 7/8/2008; Shaanxi Zhongxin        ; 2-1; Changsha Ginde  
 Scheidt 45, Jiang Chen 78; Aboubakar Oumarou 47
 
-* Round 14
+Round: 14
 * [Jul 12]
 Date: 7/12/2008
 
@@ -2865,7 +2838,7 @@ Qu Bo (pk) 60, Qu Bo 75; Zhao Junzhe (pk) 38
 ; Chengdu Blades          ; 0-1; Shaanxi Zhongxin   
 ; Wang Peng 53
 
-* Round 15
+Round: 15
 * [Aug 30]
 Date: 8/30/2008
 
@@ -2896,7 +2869,7 @@ Qu Bo 17, Mitchel Brown 51; Dah Zadi 45, Cao Tianbao 62
 9/1/2008; Wuhan Guanggu           ; 0-0; Shenzhen Xiangxue         
 * [awarded 0-3]  
 
-* Round 9 
+Round: 9 
 * [Sep 6]
 Date: 9/6/2008
 
@@ -2926,7 +2899,7 @@ Han Peng 48, Han Peng 55; Zheng Long 86
 
 ; Changchun Yatai         ; 0-0; Liaoning Yuandong
 
-* Round 16
+Round: 16
 * [Sep 13]
 Date: 9/13/2008
 ; Guangzhou Pharmaceutical; 2-1; Wuhan Guanggu             
@@ -2955,7 +2928,7 @@ Liu Jian (pk) 60, Zou Zheng 66; James Chamanga 70
 ; Shenzhen Xiangxue       ; 2-0; Shanghai Shenhua     
 Macaba 30, Macaba 58;
 
-* Round 17
+Round: 17
 * [Sep 20]
 Date: 9/20/2008
 
@@ -2985,7 +2958,7 @@ Jiang Ning 34, Zheng Long 73; Yan Song 84
 ; Tianjin Teda            ; 1-1; Shanghai Shenhua     
 Cao Yang 5; Xiao Zhanbo 31
 
-* Round 18
+Round: 18
 * [Sep 27]
 Date: 9/27/2008
 
@@ -3018,7 +2991,7 @@ Martinez 22, Gao Lin 51, Hamilton Ricard 84, Hamilton Ricard 88; Zheng Long 45
 
 * NB: Wuhan Guanggu were disqualified from the league after an altercation with the FA on an 8-match ban for their player Li Weifeng; all their matches (both those played and those till scheduled) are awarded 0-3 against them.
 
-* Round 19 [Oct 2]
+Round: 19
 Date: 10/2/2008
 
 ; Changsha Ginde          ; 1-1; Shanghai Shenhua
@@ -3044,7 +3017,7 @@ Wang Xiaolong 15, Miljan Mrdakovic 45, Miljan Mrdakovic 47; Wang Dong 2
 
 * Wuhan Guanggu            n/p Liaoning Yuandong         [awarded 0-3]
 
-* Round 20 [Oct 5]
+Round: 20
 Date: 10/5/2008
 
 ; Beijing Guoan           ; 1-1; Shaanxi Zhongxin
@@ -3069,8 +3042,7 @@ Cao Yang (pk) 18, Daouda 43;
 ; Zhejiang Lucheng        ; 2-0; Henan Siwu
 Erivaldo 47, Erivaldo 75;
 
-* Round 21
-* [Oct 11]
+Round: 21
 Date: 10/11/2008
 
 * Wuhan Guanggu            n/p Dalian Haichang           [awarded 0-3]
@@ -3099,7 +3071,7 @@ Du Wenhui 35;
 10/13/2008; Shaanxi Zhongxin        ; 3-0; Liaoning Yuandong
 Xin Feng 31, Wang Peng 40, Zhu Jiawei 65;
 
-* Round 22 [Oct 18]
+Round: 22
 Date: 10/18/2008
 
 ; Dalian Haichang         ; 1-1; Guangzhou Pharmaceutical 
@@ -3124,7 +3096,7 @@ Han Yanming 21, Cao Yang 35; Zhang Lu 10
 
 * Zhejiang Lucheng         n/p Wuhan Guanggu             [awarded 3-0]
 
-* Round 23 [Oct 22]
+Round: 23
 Date: 10/22/2008
 
 ; Shaanxi Zhongxin        ; 2-0; Dalian Haichang 
@@ -3147,8 +3119,7 @@ Shu Chang 11; Han Yanming 5
 
 ; Qingdao Jonoon          ; 0-0; Henan Siwu     
 
-* Round 24
-* [Oct 25]
+Round: 24
 Date: 10/25/2008
 
 ; Chengdu Blades          ; 3-1; Shenzhen Xiangxue   
@@ -3176,8 +3147,7 @@ Huang Bowen 15, Elvis Scott 24; James Chamanga 41
 ; Shanghai Shenhua        ; 3-2; Guangzhou Pharmaceutical
 Du Wei 40, Hamilton Ricard 50, Erick Scott 59; Luis Alfredo Ramirez 17, Diego 36
 
-* Round 25
-* [Nov 1]
+Round: 25
 Date: 11/1/2008
 
 ; Shaanxi Zhongxin        ; 1-4; Shanghai Shenhua    
@@ -3203,8 +3173,7 @@ Li Yan 12, Luis Alfredo Ramirez 50, Luis Alfredo Ramirez 76, Lu Lin 84; Eber Lui
 ; Beijing Guoan           ; 1-0; Zhejiang Lucheng  
 Guo Hui 83;
 
-* Round 26
-* [Nov 8]
+Round: 26
 Date: 11/8/2008
 
 ; Dalian Haichang         ; 2-3; Changchun Yatai          
@@ -3230,7 +3199,7 @@ Mao Jianqing 35; Du Wenhui 41
 * [Nov 9]
 11/9/2008; Qingdao Jonoon          ; 0-0; Guangzhou Pharmaceutical
 
-* Round 27 [Nov 12]
+Round: 27
 Date: 11/12/2008
 
 ; Dalian Haichang         ; 2-1; Shenzhen Xiangxue        
@@ -3255,7 +3224,7 @@ Cao Tianbao 11, Dah Zadi 29; Tan Yang 26, Erivaldo (pk) 56
 ; Beijing Guoan           ; 2-2; Tianjin Teda             
 Tiago 31, Tao Wei 78; Wu Weian 4, Hao Junmin 37
 
-* Round 28 [Nov 16]
+Round: 28
 Date: 11/16/2008
 
 ; Chengdu Blades          ; 1-1; Guangzhou Pharmaceutical
@@ -3281,7 +3250,7 @@ Wu Weian 17, Eber Luis 37;
 ; Zhejiang Lucheng        ; 1-1; Dalian Haichang          
 Erivaldo 78; Georgi Chilikov (pk) 86
 
-*Round 29 [Nov 23]
+Round: 29
 Date: 11/23/2008
 
 ; Beijing Guoan           ; 1-0; Changsha Ginde           
@@ -3306,7 +3275,8 @@ Vicente de Paula Neto 4, Wang Yun 5, Wang Erzhuo 28;
 ; Zhejiang Lucheng        ; 2-3; Shenzhen Xiangxue
 Erivaldo 17, Huang Long 64; Macaba 14, Macaba 78, Felipe 74
 
-* Round 30 [Nov 30]
+Round: 30
+Date: 11/30/2008
 
 ; Beijing Guoan           ; 2-0; Chengdu Blades
 Tao Wei 56, Huang Bowen 90;
@@ -3331,6 +3301,7 @@ Mao Biao 22, Eber Luis 33, Eber Lius (pk) 35, Eber Luis 42, Eber Luis 58; Georgi
 
 
 Season: 2009
+BlockSource: http://www.rsssf.com/tablesc/china09.html
 
 Date: 3/21/2009
 ; Henan Jianye            ; 2-1; Guangzhou Pharmaceutical
@@ -3419,8 +3390,7 @@ Li Jinyu 27, Aleksandar Zivkovic (pk) 58, Own Goal (Zhang Xiaofei) 74; Samuel Ca
 ; Changsha Ginde          ; 2-1; Tianjin Teda      
 Zhang Xiaobin 6, Jefferson Feijiao 53; Tommasi 37
 
-* Round 5
-* [Apr 17]
+Round: 5
 Date: 4/17/2009
 
 ; Shandong Luneng         ; 2-2; Beijing Guoan    
@@ -3450,8 +3420,7 @@ Xu Liang 43, Luis Alfredo Ramirez 74, Tang Dechao 80; Jose Filho Duarte 19
 4/19/2009; Qingdao Jonoon          ; 2-1; Chengdu Blades   
 Carreira 50, Jiang Ning 86; Nelsen 19
 
-*Round 6
-*[Apr 25]
+Round: 6
 Date: 4/25/2009
 
 ; Jiangsu Sainty          ; 0-0; Henan Jianye             
@@ -3479,8 +3448,7 @@ Wang Erzhuo 17;
 ; Shandong Luneng         ; 1-0; Qingdao Jonoon  
 Wang Yongpo 21;
 
-* Round 7
-* [May 1]
+Round: 7
 Date: 5/1/2009
 
 ; Beijing Guoan           ; 0-0; Shanghai Shenhua         
@@ -3510,8 +3478,7 @@ Otto (pk) 26; Jose Filho Duarte 59
 5/3/2009; Dalian Shide            ; 1-0; Changsha Ginde  
 Ahn Jung-hwan 59;
 
-* Round 8
-* [May 9]
+Round: 8
 Date: 5/9/2009
 
 ; Shenzhen Ruby                ; 1-0; Chongqing Lifan   
@@ -3542,8 +3509,7 @@ Lu Feng 35; Wang Yongpo 64, Han Peng 67, Roda Antar 90
 Mao Jiangqing; Jiang Ning 71
 
 
-* Round 9
-* [May 15]
+Round: 9
 Date: 5/15/2009
 
 ; Tianjin Teda            ; 1-1; Shanghai Shenhua  
@@ -3573,9 +3539,9 @@ Ma Cheng 48, Yan Song 59, Xie Zhiyu 73, Zhang Ye 87;
 * [May 17]
 5/17/2009; Chongqing Lifan         ; 0-0; Changsha Ginde  
 
-* Round 10
-* [May 23]
+Round: 10
 Date: 5/23/2009
+
 ; Chengdu Blades          ; 2-1; Hangzhou Lucheng   
 Wang Song (pk) 60, Zou Yougen 86; Cai Chuchuan 35
 
@@ -3602,8 +3568,7 @@ Yang Hao 38, Yang Hao 63, Yan Xiangchuang 90+4; Jiang Ning 73
 ; Shanghai Shenhua        ; 2-0; Henan Jianye  
 Hernan Barcos 26, Chen Tao 39;
 
-* Round 11
-* [Jun 13]
+Round: 11
 Date: 6/13/2009
 
 ; Chongqing Lifan         ; 1-1; Chengdu Blades
@@ -3630,8 +3595,7 @@ Joel Griffiths 10;
 6/14/2009; Qingdao Jonoon          ; 2-2; Shenzhen Ruby 
 Qu Bo 13, Zheng Long 42; Yin Xiaolong 83, Mouchid 90+2
 
-*Round 12
-*[Jun 19]
+Round: 12
 Date: 6/19/2009
 
 ; Beijing Guoan           ; 0-0; Henan Jianye
@@ -3658,9 +3622,9 @@ Aleksander Rodic 10;
 6/21/2009; Shaanxi Zhongxin        ; 1-1; Hangzhou Lucheng 
 Wang Yun 45+1; Cai Chuchuan 28
 
-*Round 13
-*[Jun 27]
+Round: 13
 Date: 6/27/2009
+
 ; Chongqing Lifan         ; 0-1; Shaanxi Zhongxin 
 ; Yu Hai 23
 
@@ -3688,7 +3652,7 @@ Cai Chuchuan 87. Otto 90+4;
 ; Guangzhou Pharmaceutical; 1-1; Beijing Guoan   
 Xu Liang (pk) 64; Yan Xiangchuang 42
 
-*Round 14 [Jul 2]
+Round: 14
 Date: 7/2/2009
 
 ; Shenzhen Ruby                ; 1-0; Chengdu Blades
@@ -3712,8 +3676,7 @@ Joel Griffiths 16, Lu Jiang 84; James Chamanga 69
 
 ; Tianjin Teda            ; 0-0; Henan Jianye
 
-
-*Round 15 [Jul 5]
+Round: 15
 Date: 7/5/2009
 
 ; Dalian Shide            ; 2-0; Qingdao Jonoon
@@ -3739,7 +3702,7 @@ Ma Cheng 34, Huang Long 76; Tao Wei 81
 ; Chengdu Blades          ; 2-1; Shandong Luneng 
 Auricelio Neres Rodrigues 40, Auricelio Neres Rodrigues 45+1; Han Peng 68
 
-*Round 16 [Aug 2]
+Round: 16
 Date: 8/2/2009
 
 ; Qingdao Jonoon          ; 1-1; Hangzhou Lucheng 
@@ -3765,8 +3728,7 @@ Zhang Yuan 82, Zhang Yuan 89;
 ; Chongqing Lifan         ; 3-2; Beijing Guoan
 Johnny Woodly Lambert 33, Huang Xiyang 45, Huang Xiyang 71; Tao Wei 6, Zhou Ting 86
 
-*Round 17
-*[Aug 8]
+Round: 17
 Date: 8/8/2009
 
 ; Tianjin Teda            ; 0-0; Hangzhou Lucheng         
@@ -3794,7 +3756,7 @@ Wang Peng 47; Lu Zheng 33, Roda Antar 59
 Tao Wei 4, Tao Wei (pk) 29, Ryan Griffiths 78;
 
 
-*Round 18 [Aug 22]
+Round: 18
 Date: 8/22/2009
 
 ; Qingdao Jonoon          ; 2-1; Changsha Ginde      
@@ -3819,8 +3781,7 @@ Auricelio Neres Rodrigues 12, Brendon Santalab (pk) 75; Samuel Caballero 71
 ; Shandong Luneng         ; 1-0; Shanghai Shenhua
 Wang Yongpo 10;
 
-*Round 19
-*[Aug 26]
+Round: 19
 Date: 8/26/2009
 
 ; Dalian Shide            ; 0-0; Shenzhen Ruby        
@@ -3846,7 +3807,7 @@ Ryan Griffiths 70, Joel Griffiths 88; Agnaldo 14, Brendon Santalab 34
 8/27/2009; Henan Jianye            ; 2-0; Chongqing Lifan   
 Emmanuel Olisadebe 12, Emmanuel Olisadebe 32; 
 
-* Round 20 [Aug 30]
+Round: 20
 Date: 8/30/2009
 
 ; Beijing Guoan           ; 1-1; Shandong Luneng
@@ -3872,8 +3833,8 @@ Otto 19, Cai Chuchuan 22; Ahn Jung-hwan 63
 ; Shenzhen Ruby                ; 1-2; Shanghai Shenhua
 Zheng Bin 74; Gao Lin 33, Gao Lin 84
 
-*Round 21
-*[Sep 4]
+Round: 21
+
 9/4/2009; Beijing Guoan           ; 1-0; Shaanxi Zhongxin 
 Joel Griffiths 7;
 
@@ -3900,8 +3861,7 @@ Zhao Peng 87; Tan Si 59
 9/6/2009; Qingdao Jonoon          ; 3-1; Shandong Luneng
 Jiang Ning 25, Nikiema 32, Qu Bo 88; Alejandro Cichero 80
 
-*Round 22 
-*[Sep 12]
+Round: 22 
 Date: 9/12/2009
 
 ; Chengdu Blades          ; 3-2; Henan Jianye          
@@ -3929,8 +3889,8 @@ Vyacheslav Hleb 29; Huang Bowen 76
 9/30/2009; Chongqing Lifan         ; 2-1; Hangzhou Lucheng   
 Johnny Woodly Lambert (pk) 59, Wu Peng 86; Otto (pk) 90
 
-*Round 23
-*[Sep 15]
+Round: 23
+
 9/15/2009; Beijing Guoan           ; 0-2; Changchun Yatai
 ; Cao Tianbao (pk) 56, Melkam 84
 
@@ -3961,8 +3921,7 @@ Varbanov 88; Wang Qiang 78
 ; Huang Fengtao 65
 
 
-*Round 24
-*[Sep 19]
+Round: 24
 Date: 9/19/2009
 
 ; Shenzhen Ruby                ; 2-2; Beijing Guoan   
@@ -3994,8 +3953,7 @@ Liu Weidong 25; Jiang Ning 15
 Zhang Xiaobin 38, Wang Qiang 62; Jose Filho Duarte 86
 
 
-* Round 25
-*[Sep 26]
+Round: 25
 Date: 9/26/2009
 
 ; Dalian Shide            ; 2-0; Shandong Luneng        
@@ -4024,8 +3982,7 @@ Emmanuel Olisadebe 61, Netto (pk) 90+3;
 
 ; Changsha Ginde          ; 0-0; Shenzhen Ruby                 
 
-* Round 26
-* [Oct 5]
+Round: 26
 Date: 10/5/2009
 
 ; Changchun Yatai         ; 1-0; Henan Jianye          
@@ -4049,11 +4006,10 @@ Sun Xiang 12, Sun Xiang 53, Aleksander Rodic 82; Luis Alfredo Ramirez 61
 ; Shenzhen Ruby                ; 1-1; Qingdao Jonoon         
 Mouchid 73; Zheng Long 49
 
-*[Oct 14]
 10/14/2009; Tianjin Teda            ; 0-0; Beijing Guoan   
 
-*Round 27
-*[Oct 10]
+Round: 27
+Date: 10/10/2009
 
 ; Guangzhou Pharmaceutical; 1-1; Changchun Yatai       
 Luis Alfredo Ramirez 83; Ricardo Steer 30
@@ -4082,7 +4038,7 @@ Date: 10/11/2009
 ; Tianjin Teda            ; 3-2; Qingdao Jonoon     
 Wang Xinxin 19, Han Yanming 49, Cao Yang 54; Hussain 22, Nikiema 26
 
-* Round 28 [Oct 17]
+Round: 28
 Date: 10/17/2009
 
 ; Beijing Guoan           ; 2-0; Guangzhou Pharmaceutical    
@@ -4110,7 +4066,7 @@ Sun Ji 10; Otto 65
 Own Goal (Caillet) 63; Tadjiyev 51
 
 
-*Round 29 [Oct 24]
+Round: 29
 Date: 10/24/2009
 
 ; Dalian Shide            ; 1-2; Beijing Guoan        
@@ -4135,7 +4091,7 @@ Xiao Zhi 9, Xiao Zhi 80; He Yang 75
 
 ; Guangzhou Pharmaceutical; 0-0; Qingdao Jonoon         
 
-*Round 30 [Oct 31]
+Round: 30
 Date: 10/31/2009
 
 ; Shanghai Shenhua        ; 2-1; Changsha Ginde   
@@ -4163,6 +4119,7 @@ Wang Dong 32, Ricardo Steer 33, Ricardo Steer 57; Jose Filho Duarte 55, Jose Fil
 Vicente de Paula Neto 23, Wang Yun 31; Lu Bofei 52, Kletskov (pk) 76
 
 Season: 2010
+BlockSource: http://www.rsssf.com/tablesc/china2010.html
 
 Date: 3/27/2010
 ; Beijing Guoan           ; 2-0; Nanchang August 1st
@@ -4749,6 +4706,7 @@ Aleksandar Zivkovic 3, Aleksandar Zivkovic (pk) 82, Chris Killen 24, Chris Kille
 
 
 Season: 2012
+BlockSource: http://www.rsssf.com/tablesc/china2012.html
 
 Date: 3/10/2012
 ; Dalian Shide            ; 1-2; Changchun Yatai          

@@ -61,7 +61,13 @@ slugs = {
 
 
 world = {
-    
+
+    #[<Team: Vitoria>, <Team: Vitória>, <Team: Vitória,>]
+
+    'Fall River Canonicuts': 'Fall River Conanicuts', # inform mel smith.
+
+    'St George\'s Colts': 'St. George\'s Colts',
+
     'I.R.T. Celtics': 'IRT Celtics',
     'Atletico Santista': 'Atlético Santista',
     'C.A. Bella Vista': 'CA Bella Vista',
@@ -402,9 +408,11 @@ world = {
 
     # Haiti
     'Tempete FC': 'Tempête FC',
-
     'Racing Club de Gonaives': 'Racing des Gonaïves',
     'RC Gonaives': 'Racing des Gonaïves',
+
+    # Saint Kitts
+    'Suzuki Newtown United': 'Newtown United (Saint Kitts)',
 
     # Puerto Rico
     'River Plate PR': 'River Plate Puerto Rico',
@@ -1953,6 +1961,9 @@ world = {
     # French Guiana
     'Sport Guyanais': 'ASL Sport Guyanais',
 
+    # Guyana
+    'Topp XX': 'Bakewell Topp XX',
+
     # Bermuda
     #Vasco da Gama (Bermuda)
     #'Vasco da Gama': 'Vasco da Gama (Bermuda)',
@@ -2809,7 +2820,10 @@ usa = {
     'Pawtucket FC': 'Pawtucket F.C.',
 
     'Thornton British Hosiers': 'Thornton Rovers',
+    'Thornton British Hosieris': 'Thornton Rovers',
     'Thornton British Hosieries': 'Thornton Rovers',
+    'Thornton Hosiery Albions': 'Thornton Rovers',
+    'Thornton Rovers/Thornton British Hosieries': 'Thornton Rovers',
 
     # Florida
     #HRC Kickers (FL)
@@ -3279,7 +3293,7 @@ usa = {
     'West Hudson FC': 'West Hudson A.A.',
     'West Hudson AC': 'West Hudson A.A.',
     
-    'Elizabeth SC': 'Elizabeth S.C.',
+    'Elizabeth S.C.': 'Elizabeth SC',
 
     'Federal Ship': 'Federal Ship FC',
     'Federal Shipyard': 'Federal Ship FC',
@@ -3461,6 +3475,7 @@ usa = {
     'Bricklayers (Chicago)': 'Chicago Bricklayers',
     'Bricklayers SC': 'Chicago Bricklayers',
     'Bricklayers FC': 'Chicago Bricklayers',
+    'Bricklayers FC (Chicago)': 'Chicago Bricklayers',
 
     'RWB Adria (IL)': 'RWB Adria',
 

@@ -1224,7 +1224,7 @@ d = {
                 'John Hirst II',
                 'Harold Hoskins',
                 'Joseph Mohr',
-                'C. Earl MOore',
+                'C. Earl Moore',
                 'Frank Thomas',
                 'Milton Baron',
                 'Frank Cary',

@@ -25,6 +25,11 @@ l = [
         },
 
     {
+        'name': 'Bowenville Globes',
+        'city': 'Fall River, MA',
+        },
+
+    {
         'name': 'Fall River Oaks',
         'city': 'Fall River, MA',
         },
@@ -92,6 +97,16 @@ l = [
     {
         'name': 'Fall River Portuguese SC',
         'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Chicopee Rovers',
+        'city': 'Chicopee, MA',
+        },
+
+    {
+        'name': 'New Bedford Celtics',
+        'city': 'New Bedford, MA',
         },
 
     {
@@ -193,7 +208,7 @@ l = [
         },
 
     {
-        'name': 'Fall River Canonicuts',
+        'name': 'Fall River Conanicuts',
         'city': 'Fall River, MA',
         },
 

@@ -17,9 +17,10 @@ make_stat_tuple = lambda name, d: (name, d['team'], d['season'], d['competition'
 
 
 def generate():
-    generate_game_stats()
     generate_competition_standings()
-    generate_competition_stats()
+
+    generate_game_stats()
+    generate_competition_stats() # Use game stats to make competition stats.
 
 
 
@@ -72,13 +73,17 @@ def generate_competition_stats():
 
     l = [
         'FIFA Club World Cup',
+        'FIFA World Cup',
+        'FIFA Confederations Cup',
+        'FIFA World Cup Qualifying (CONMEBOL)',
+        'FIFA World Cup Qualifying (CONCACAF)',
+
         'Intercontinental Cup',
         'Interamerican Cup',
         'Recopa Sudamericana',
         'SURUGA Bank Championship',
         'La Copita del Mundo',
-        'FIFA World Cup',
-        'FIFA Confederations Cup',
+
         'World Cup Qualifying',
         'Olympic Games',
         'International Friendly',
@@ -92,13 +97,14 @@ def generate_competition_stats():
         'CONCACAF Champions League',
         'CONCACAF Cup Winners Cup',
         'CONCACAF Giants Cup',
+        #'CONCACAF Champions\' Cup',
         'North American SuperLiga',
         'Copa Interclubes UNCAF',
         'CFU Club Championship',
         'Copa Libertadores',
         'Copa Sudamericana',
-        'Copa CONMEBOL',,
-        'Copa Masters CONMEBOL',,
+        'Copa CONMEBOL',
+        'Copa Masters CONMEBOL',
         'MLS Cup Playoffs',
         'MLS Reserve League',
         'AFA Cup',
@@ -125,11 +131,12 @@ def generate_competition_stats():
         'Primera División de Costa Rica',
         'Salvadoran Primera División',
         #'North American Soccer League',
-        #'CONCACAF Champions\' Cup',
         ]
 
     for e in l:
         competition_generate(e)
+
+
 
 
 def generate_competition_standings():
@@ -276,9 +283,8 @@ def generate_stats(goals=[], lineups=[]):
     """
     Generate a stat dict from goals, lineups
     """
-    # Need to add:
-    # cards, 
-    # game events
+    # This duplicates game_stats functionality. Use the game_stats
+    # to generate the stats.
     
 
     sd = {}
@@ -307,8 +313,8 @@ def generate_stats(goals=[], lineups=[]):
                 'minutes': 0,
                 }
 
-        if t[0] == 'Omar Bravo' and t[1] == 'UANL':
-            print(sd[t])
+        #if t[0] == 'Omar Bravo' and t[1] == 'UANL':
+        #    print(sd[t])
 
 
         # Increment the appropriate key.

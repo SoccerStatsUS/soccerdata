@@ -15,6 +15,13 @@ l = [
         },
 
     {
+        'name': 'Estadio Olímpico Félix Sánchez',
+        'location': 'Santo Domingo, Dominican Republic',
+        'opened': 1974,
+        'capacity': 35000,
+        },
+
+    {
         'name': 'André Kamperveen Stadion',
         'location': 'Paramaribo, Suriname',
         'capacity': 6000,
