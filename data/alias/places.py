@@ -15,6 +15,11 @@ def get_place(s):
 
 
 places = {
+    'Away': 'away',
+    'Neutral': 'neutral',
+
+
+
     'Yaounde, Cameroon': 'Yaoundé, Cameroon',
     'Ciudad Juarez, Mexico': 'Ciudad Juárez, Mexico',
     'Malmo, Sweden': 'Malmö, Sweden',

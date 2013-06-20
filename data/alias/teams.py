@@ -62,6 +62,11 @@ slugs = {
 
 world = {
 
+    'Boston Aztecs': 'Boston Aztec',
+    'Aztec MA': 'Boston Aztec',
+
+    'Portland Rain FC': 'Portland Rain',
+
     #[<Team: Vitoria>, <Team: Vitória>, <Team: Vitória,>]
 
     'Fall River Canonicuts': 'Fall River Conanicuts', # inform mel smith.

@@ -108,6 +108,10 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
+    load_nasl() 
+    return 
+    load_women()
+
     load_uncaf_international()
     load_usmnt()
     load_concacaf_international()
@@ -139,7 +143,7 @@ def load_games():
     load_mixed_confederation()
 
     load_usl()
-    load_nasl() 
+
     load_usa_cups()
     load_mls() 
     load_asl()  
@@ -151,7 +155,7 @@ def load_games():
 
     load_ltrack()
     load_pdl()
-    load_women()
+
     load_asl2()           
     load_apsl()
     load_nafbl()
@@ -431,9 +435,8 @@ def load_women():
     load_games_standard('women', 'domestic/country/usa/leagues/women/wps')
     load_games_standard('women', 'domestic/country/usa/leagues/women/wpsl_elite')
 
-
-    for e in range(2007, 2013):
-        load_games_standard('women', 'domestic/country/usa/leagues/women/wpsl/%s' % e)
+    #for e in range(2007, 2013):
+    #    load_games_standard('women', 'domestic/country/usa/leagues/women/wpsl/%s' % e)
 
 
 def load_mls():

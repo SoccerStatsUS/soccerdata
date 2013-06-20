@@ -471,7 +471,7 @@ class GeneralProcessor(object):
                 year += self.century
             d = datetime.datetime(year, int(month), int(day))
 
-        result_unknown = not_played = False
+
 
         try:
             team1, score, team2 = fields[1:4]
@@ -489,16 +489,21 @@ class GeneralProcessor(object):
             score = score.replace('(asdet)', '')
             minutes = 'asdet'
 
-        # Eventually will indicate a blank score.
         # Replace w/o with more explicit data.
+        # (Still not sure exactly what it's supposed to mean)
+        result_unknown = not_played = False
+
         if score == 'w/o':
             print("skipping: %s" % score)
             return
 
         # Parse score data.
-        elif score in '?v':
+        elif score == '?':
             team1_score = team2_score = None
             result_unknown = True
+
+        elif score == 'v': 
+            team1_score = team2_score = None
 
         elif score in ('n/p', 'np'):
             team1_score = team2_score = None
