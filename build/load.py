@@ -108,16 +108,19 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-    load_nasl() 
-    return 
-    load_women()
+
+
+    load_world_international()
+
+    load_conmebol()
+
 
     load_uncaf_international()
     load_usmnt()
     load_concacaf_international()
-    load_world_international()
-    return
 
+    load_nasl() 
+    load_women()
     load_china()
     load_australia()    
     load_korea()
@@ -128,14 +131,14 @@ def load_games():
     load_concacaf()
     load_uncaf()
 
-
+    load_chile()
 
     load_world()
     load_colombia()
     load_ecuador()
-    load_conmebol()
+
     load_conmebol_international()
-    load_chile()
+
     load_peru()
     load_uruguay()
     load_bolivia()
@@ -618,7 +621,7 @@ def load_asl2():
 
 def load_nasl():
     """
-    Load stats from the old nasl and misl.x
+    Load stats from the old nasl and misl.
     """
 
     print("Loading NASL data.")
@@ -627,6 +630,8 @@ def load_nasl():
     generic_load(soccer_db.nasl_awards, awards.process_nasl_awards)
     generic_load(soccer_db.nasl_awards, awards.process_usa_awards)
     generic_load(soccer_db.nasl_awards, awards.process_npsl_awards)
+
+    generic_load(soccer_db.nasl_rosters, lambda: rosters.process_rosters2('nasl'))
 
     load_games_standard('nasl', 'domestic/country/usa/playoffs/nasl')
 
@@ -859,7 +864,7 @@ def load_mixed_confederation():
 
 def load_conmebol():
 
-    #generic_load(soccer_db.conmebol_awards, awards.process_conmebol_awards)
+    generic_load(soccer_db.conmebol_awards, awards.process_conmebol_awards)
 
     load_games_standard('conmebol', 'domestic/confederation/conmebol/aldao')
     load_games_standard('conmebol', 'domestic/confederation/conmebol/copa_ibarguren')
@@ -945,7 +950,7 @@ def load_uncaf_international():
 
 
 def load_world_international():
-
+    generic_load(soccer_db.world_i_rosters, lambda: rosters.process_rosters('international/olympics'))
     generic_load(soccer_db.world_i_rosters, lambda: rosters.process_rosters2('confederations'))
 
     confed = [1992, 1995, 1997, 1999, 2001, 2003, 2005, 2009, 2013]
@@ -957,13 +962,12 @@ def load_world_international():
     generic_load(soccer_db.world_i_awards, awards.process_olympics_awards)
 
     load_games_standard('world_i', 'international/world/world_cup')
+    load_games_standard('world_i', 'international/world/u20')
+    load_games_standard('world_i', 'international/world/u17')
 
     load_games_standard('world_i', 'international/world/artemio_franchi')
     load_games_standard('world_i', 'international/world/interallied_games')
     load_games_standard('world_i', 'international/world/mundialito')
-
-    #generic_load(soccer_db.olympics_rosters, lambda: rosters.process_rosters('international/olympics'))
-
 
     olympics = [1900, 1904, 1908, 1912, 1920, 1924, 1928, 1936, 
                 1948, 1952, 1956, 1960, 1964, 1968, 1972, 2008, 2012]

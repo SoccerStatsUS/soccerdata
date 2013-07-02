@@ -52,6 +52,10 @@ magic_teams = {
         (from_competition('Categoría Primera A'), 'Real Cartagena'),
         ],
 
+    'Central': [
+        (from_competition('Uruguayan Primera División'), 'Central Español'),
+        ],
+
     'Estudiantes': [
         (from_competition('Liga MX'), 'Tecos'),
         (from_competition('Copa Libertadores'), 'Estudiantes de La Plata'),
@@ -68,6 +72,10 @@ magic_teams = {
 
     'Juventud': [
         (from_competition('Liga Nacional de Honduras'), 'Real Juventud'),
+        ],
+
+    'Liverpool': [
+        (from_competition('Uruguayan Primera División'), 'Liverpool (Montevideo)'),
         ],
 
     'Marte': [
@@ -94,6 +102,10 @@ magic_teams = {
         (from_competition('Liga Nacional de Honduras'), 'Real C.D. España'),
         ],
 
+    'River Plate': [
+        (from_competition('Uruguayan Primera División'), 'River Plate (Montevideo)'),
+        ],
+
     'Sacachispas': [
         (from_competition('Liga Nacional de Guatemala'), 'CSD Sacachispas')
         ],
@@ -112,6 +124,7 @@ magic_teams = {
 
     'Santos': [
         (from_competition('Liga MX'), 'Santos Laguna'),
+        (from_competition('Liga MX Liguilla'), 'Santos Laguna'),
         (from_competition('Primera División de Costa Rica'), 'Santos de Guápiles'),
         ],
 
@@ -133,6 +146,10 @@ magic_teams = {
 
     'Victoria': [
         (from_competition('Liga Nacional de Honduras'), 'CD Victoria'),
+        ],
+
+    'Wanderers': [
+        (from_competition('Uruguayan Primera División'), 'Montevideo Wanderers'),
         ],
     }
 

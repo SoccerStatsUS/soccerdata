@@ -15,6 +15,91 @@ def get_city(s):
 
 
 cities = {
+#'Newell\'s Old Boys': 'Newell\'s Old Boys]',
+#'Sao Paulo': 'São Paulo',
+#'Rosario, Argentina': 'Rosario , Argentina',
+#'Uberlandia': 'Uberlândia',
+#'San Jose': 'San José',
+#'Winnipeg, Man': 'Winnipeg, Man.',
+#'Racing Club': 'Racing Club,',
+#'Churchill Park (Lautoka)': 'Churchill Park, Lautoka',
+#'Huracan': 'Huracán',
+#[<City: West Side Park, Jersey City, NJ>, <City: West Side Park, Jersey City, N.J.>]
+#[<City: Velez Sarsfield>, <City: Vélez Sarsfield>, <City: Vélez Sarsfield]>]
+#'Boca Juniors': 'Boca Juniors]',
+#'Asuncion': 'Asunción',
+#'Rio de Janeiro': 'Río de Janeiro',
+#'St Lucia': 'St. Lucia',
+#'Kearny High School Stadium, Kearny, NJ': 'Kearny High School Stadium, Kearny , NJ',
+#'Brasilia': 'Brasília',
+#'Lanus': 'Lanús',
+#'Estadio Joaquim Henrique Nogueira': 'Estadio Joaquim Henrique  Nogueira',
+#[<City: home>, <City: Home>]
+#[<City: David's Stadium, Newark, NJ>, <City: Davids Stadium, Newark, NJ>]
+
+    'San Cristobal, Venezuela': 'San Cristóbal, Venezuela',
+    'Bayamon, PR': 'Bayamón, PR',
+    'Ciudad Juarez, Mexico': 'Ciudad Juárez, Mexico',
+    'Tuxtla Gutierrez, Mexico': 'Tuxtla Gutiérrez, Mexico',
+    'Malmo, Sweden': 'Malmö, Sweden',
+    'Queretaro, Mexico': 'Querétaro, Mexico',
+    'San Martin, Argentina': 'San Martín, Argentina',
+    'Leogane, Haiti': 'Léogâne, Haiti',
+    'Cucuta, Colombia': 'Cúcuta, Colombia',
+    'Medellin, Colombia': 'Medellín, Colombia',
+    'Goteborg, Sweden': 'Göteborg, Sweden',
+    'Colon, Panama': 'Colón, Panama',
+    'Rivière-Pilote, Martinique': 'Rivière-Pilote, Martinique,',
+    'Yaounde, Cameroon': 'Yaoundé, Cameroon',
+    'Esteli, Nicaragua': 'Estelí, Nicaragua',
+    'Leon, Mexico': 'León, Mexico',
+    'Randalls Island, NY': 'Randall\'s Island, NY', 
+
+    'Cancun, Mexico': 'Cancún, Mexico',
+    'Mogi Mirim, Brazil': 'Mogi-Mirim, Brazil',
+
+    'Sao Paulo, Brazil': 'São Paulo, Brazil',
+    'Krakow, Poland': 'Kraków, Poland',
+    'Sao Caetano do Sul, Brazil': 'São Caetano do Sul, Brazil',
+    'Norrkoping, Sweden': 'Norrköping, Sweden',
+    'Culiacan, Mexico': 'Culiacán, Mexico',
+    'La Trinite, Martinique': 'La Trinité, Martinique',
+    'Santo Andre, Brazil': 'Santo André, Brazil',
+    'San Jose, Costa Rica': 'San José, Costa Rica',
+    'Belem, Brazil': 'Belém, Brazil',
+
+
+    'Merida, Venezuela': 'Mérida, Venezuela',
+    'Bogota, Colombia': 'Bogotá, Colombia',
+
+    'Zurich, Switzerland': 'Zürich, Switzerland',
+
+    'Vasteras, Sweden': 'Västerås, Sweden',
+    'Asuncion, Paraguay': 'Asunción, Paraguay',
+    'Ibague, Colombia': 'Ibagué, Colombia',
+    'Newcastle upon Tyne, England': 'Newcastle-upon-Tyne, England',
+    'Mar Del Plata, Argentina': 'Mar del Plata, Argentina', 
+    'Boras, Sweden': 'Borås, Sweden',
+    'Dusseldorf, Germany': 'Düsseldorf, Germany',
+    'San Luis Potosi, Mexico': 'San Luis Potosí, Mexico',
+    'Washington DC': 'Washington D.C.',
+    'Sao Luis , Brazil': 'São Luís, Brazil',
+    'Port of Spain, Trinidad & Tobago': 'Port-of-Spain, Trinidad & Tobago',
+    'Bandabou, Curacao': 'Bándabou, Curacao',
+    'Setubal, Portugal': 'Setúbal, Portugal',
+    'Metapan, El Salvador': 'Metapán, El Salvador',
+    'Point Fortin, Trinidad & Tobago': 'Point-Fortin, Trinidad & Tobago',
+    'Goiania, Brazil': 'Goiânia, Brazil',
+    'Cordoba, Argentina': 'Córdoba, Argentina',
+
+    'Maturin, Venezuela': 'Maturín, Venezuela',
+    'Vina del Mar, Chile': 'Viña del Mar, Chile',
+    'Concepcion, Chile': 'Concepción, Chile',
+    'Rio de Janeiro, Brazil': 'Río de Janeiro, Brazil',
+    'Chorzow, Poland': 'Chorzów, Poland',
+    'Valparaiso, Chile': 'Valparaíso, Chile',
+
+
     'Washington DC': 'Washington D.C.',
     'Washington, DC': 'Washington D.C.',
     'Washington, D.C.': 'Washington D.C.',

@@ -6,7 +6,7 @@ aliases = {}
 
 full_alias = {
     'Interliga': 'InterLiga',
-    'FIFA World Cup Qualification': 'FIFA World Cup qualification',
+
 
     #'Costa Rican Primera División': 'Primera División de Costa Rica',
     'Costa Rican Primera División': 'Primera División de Costa Rica',
@@ -45,7 +45,7 @@ full_alias = {
     'Confederations Cup': 'FIFA Confederations Cup',
     'King Fahd Cup': 'FIFA Confederations Cup',
 
-    'Panamerican Games': 'Pan American Gmaes',
+    'Panamerican Games': 'Pan American Games',
     'Panamerican Games Qualifying': 'Pan American Games Qualifying',
     'South American Championship': 'Copa America',
 
@@ -78,13 +78,28 @@ full_alias = {
 
     'Friendly International': 'International Friendly',
 
+    'Unofficial Friendly': 'Friendly',
+
     'Recopa CONCACAF': 'CONCACAF Cup Winners Cup',
     'CONCACAF Champions Cup': 'CONCACAF Champions\' Cup',
 
     'Premier Soccer Alliance': 'World Indoor Soccer League',
 
     'World Cup': 'FIFA World Cup',
-    'Confederations Cup': 'FIFA Confederations Cup',
+
+    'FIFA World Cup Qualifying (CONCACAF)': 'FIFA World Cup qualification (CONCACAF)',
+    'FIFA World Cup Qualification': 'FIFA World Cup qualification',
+
+    'CONCACAF Men\'s Olympic Qualifying Tournament': 'Olympic Games qualification (CONCACAF)',
+    'Olympic Games Qualifying': 'Olympic Games qualification',
+
+
+    # Just fix...
+    'Black Stars': 'Tournoi Black Stars',
+    '3 Nations Cup': '3 Nations Tournament',
+    'Mexico Cup': 'Mexico City Cup',
+    'UNCAF': 'Copa Centroamericana',
+
 
 }
 

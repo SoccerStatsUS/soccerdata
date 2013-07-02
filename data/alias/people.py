@@ -40,7 +40,6 @@ def check_for_name_loops():
 names = {}
 
 nonpeople = {
-
     '?': 'Unknown',
     'Unknown': 'unknown',
 
@@ -65,9 +64,98 @@ nonpeople = {
     'own goal': 'Own Goal',
 }
 
+partial = {
+#'S????': 'S',
+#'M?????': 'M?',
+#'Pol?': 'Pol',
+#'K?ist': 'Kist',
+
+'A Lopez': 'A. Lopez',
+'A. López': 'A. Lopez',
+'C Rodriguez': 'C. Rodriguez',
+'c. Rodriguez': 'C. Rodriguez',
+'C. Rodríguez': 'C. Rodriguez',
+'R. Martínez': 'R. Martinez',
+'A.González': 'A. Gonzalez',
+'A.Gonzalez': 'A. Gonzalez',
+'F. Fernández': 'F. Fernandez',
+'A. Martínez': 'A. Martinez',
+'W. Martínez': 'W. Martinez',
+'R. Rodríguez': 'R. Rodriguez',
+'A. Martín': 'A. Martin',
+'R. Gómez': 'R. Gomez',
+'J. García': 'J. Garcia',
+'H. González': 'H. Gonzalez',
+'C. Husaín': 'C. Husain',
+'R.García': 'R. Garcia',
+'R.Garcia': 'R. Garcia',
+'A. Fernández': 'A. Fernandez',
+'R. Macmahon': 'R. MacMahon',
+'J. Pérez': 'J. Perez',
+'W. Dos Santos': 'W. dos Santos',
+'R.Martínez': 'R. Martinez',
+'R.Martinez': 'R. Martinez',
+'J. Dos Santos': 'J. dos Santos',
+'J Phillips': 'J. Phillips',
+'F. De Groof': 'F. de Groof',
+'D Stewart': 'D. Stewart',
+'J. Vázquez': 'J. Vazquez',
+'C. Martín': 'C. Martin',
+'M.Rodriguez': 'M. Rodriguez',
+'M.Rodríguez': 'M. Rodriguez',
+'De La Torre': 'de la Torre',
+'W. Dasilva': 'W. DaSilva',
+'A Gonzalez': 'A. Gonzalez',
+'A. González': 'A. Gonzalez',
+'R. Pérez': 'R. Perez',
+'J. Fernández': 'J Fernandez',
+'F. Pérez': 'F. Perez',
+'D. Johnson': 'D Johnson',
+'J. Rodríguez': 'J. Rodriguez',
+'J. Hugo?': 'J. Hugo',
+'O.Ramirez': 'O. Ramirez',
+'O.Ramírez': 'O. Ramirez',
+'V. Juárez': 'V. Juarez',
+'V. Júarez': 'V. Juarez',
+'R. Ramírez': 'R. Ramirez',
+'R. Fernández': 'R. Fernandez',
+}
+
 
 
 last_names = {
+'?.Luna': 'Luna',
+'Winter?': 'Winter',
+'Baéz': 'Baez',
+'?.Herrera': 'Herrera',
+'?.Soto': 'Soto',
+'Thomson.': 'Thomson',
+'?.Vera': 'Vera',
+'? Dixon': 'Dixon',
+'?.Jiménez': 'Jimenez',
+'Jiménez': 'Jimenez',
+'Brennan?': 'Brennan',
+
+'nelson': 'Nelson',
+'. Brown': 'Brown',
+'?.Cornejo': 'Cornejo',
+'martin': 'Martin',
+'?. Solomon': 'Solomon',
+'Muñoz': 'Munoz',
+'Jones?': 'Jones',
+'Lauder?': 'Lauder',
+'?.Solorzano': 'Solorzano',
+'GERMANY': 'Germany', # huh?
+'Forrester.': 'Forrester',
+'?. Howell': 'Howell',
+'?. Estrada': 'Estrada',
+'?.Pérez': 'Perez',
+'Pérez': 'Perez',
+
+    'Mcnamara': 'McNamara',
+    'Mckee': 'McKee',
+
+
     'Avilés': 'Aviles',
     'Álvarez': 'Alvarez',
     'Aguilá': 'Aguila',
@@ -394,6 +482,27 @@ last_names = {
     }
 
 basic = {
+    'Abram Raselmane': 'Abram Raselemane',
+    'Abdullah Al-Dossari': 'Abdullah Al-Dosari',
+    'Abas Nasreldin Gaksa': 'Abas Nasreldin',
+'Hugo Pena': 'Hugo Peña',
+'Edgar Morales': 'Édgar Morales',
+'ángel Romano': 'Ángel Romano',
+'ángel Bossio': 'Ángel Bossio',
+'Jozsef Braun': 'József Braun',
+'Uéslei': 'Ueslei',
+'Sergio Méndez': 'Sergio Mendez',
+'Elson Falcão': 'Élson Falcão',
+'álvaro Gestido': 'Álvaro Gestido',
+'Efrain Loza': 'Efraín Loza',
+
+        'Éder Luis': 'Éder Luís',
+        'Eder Luis': 'Éder Luís',
+        'Eder Luís': 'Éder Luís',
+        'Ron D\'ambrosia': 'Ron D\'Ambrosia',
+        'Ron Dambrosia': 'Ron D\'Ambrosia',
+
+    'Amadeo Gaspirini': 'Amadeo Gasparini',
     'Henry López': 'Henry Lopez',
     'Nélson Gómez': 'Nelson Gomez',
     'Falcão': 'Élson Falcão',
@@ -468,6 +577,7 @@ basic = {
     'Willian Magrao': 'Willian Magrão',
     'Christian Correa': 'Christian Corrêa',
     'Semir Mesanovic': 'Semir Mešanovic',
+'Diego Armando Maradona': 'Diego Maradona',
     'Everton Costa': 'Éverton Costa',
     'Hugo Garcia': 'Hugo García',
     'German Mera': 'Germán Mera',
@@ -600,7 +710,6 @@ basic = {
     'Mario Sergio': 'Mário Sérgio',
     'Angel Segundo Médici': 'Ángel Segundo Médici',
     'Jose Maria Garcia Aranda': 'José Maria García Aranda',
-#GERMANY>, <Bio: Germany>]
     'Haider Palacios': 'Háider Palacios',
     'Alex Del Castillo': 'Alex del Castillo',
     'Enrique Gámez': 'Enrique Gamez',
@@ -657,7 +766,6 @@ basic = {
     'Héctor Carabali': 'Héctor Carabalí',
     'Hector Ramirez': 'Héctor Ramírez',
     'Jackson Ibárgüen': 'Jackson Ibargüen',
-    #'Noriega]': 'Noriega',
     'Martin Demichelis': 'Martín Demichelis',
     'Lenín De Jesus': 'Lenin de Jesus',
     'Lenin De Jesus': 'Lenin de Jesus',
@@ -769,7 +877,6 @@ basic = {
     'Sebastian Ignacio Gonzalez': 'Sebastián Ignacio González',
     'Martin Hidalgo': 'Martín Hidalgo',
     'Richard Jose Rojas': 'Richard José Rojas',
-    #'Miguel ángel Zepeda': 'Miguel Ángel Zepeda',
     'Diego Valdez': 'Diego Valdés', 
     'Diego Valdéz': 'Diego Valdés', 
     'Diego Valdes':  'Diego Valdés', 
@@ -818,7 +925,6 @@ basic = {
     'Esteban Cambiasso': 'Estebán Cambiasso',
     'Carlos Cordoba': 'Carlos Córdoba',
     'Víctor Estupiñan': 'Víctor Estupiñán',
-    #'Oscar RUiz': 'Oscar Ruiz',
     'Cagna': 'Cagña',
     'Martín Perezlindo': 'Martín Pérezlindo',
     'Martin Perezlindo': 'Martín Pérezlindo',
@@ -1942,8 +2048,6 @@ basic = {
     'Gil Marderescu': 'Gil Marderesco',
     'Gil Loza Barba': 'Gil Loza',
     'Angel Labruna': 'Ángel Amadeo Labruna',
-    #'Angel Amadeo Labruna': 'Ángel Amadeo Labruna',
-    #'Angel Hernandez Herrera': 'Angel Hernandez',
     'Claudio Marcelo Morel': 'Claudio Morel',
     'Claudio Morel': 'Claudio Morel Rodríguez',
     'Claudio Morel Rodriguez': 'Claudio Morel Rodríguez',
@@ -1966,7 +2070,6 @@ basic = {
     'Brandy Griffiths': 'Brandi Griffiths',
     'Alexis Reve': 'Alexis René-Aviles',
     'Alexis Reve-Aviles': 'Alexis René-Aviles',
-    #'Alexi Revé-Aviles': 'Alexi René-Aviles',
     'Alexis Enrique Garcia': 'Alexis García',
     'Alexis Garcia': 'Alexis García',
     'Eloy J Matos Velez': 'Eloy Matos',
@@ -2101,7 +2204,7 @@ basic = {
     'Adilson': 'Adílson',
     'Adrian Luna': 'Adrián Luna',
     'A. Garcia': 'A. García',
-    'A. Gonzalez': 'A. González',
+
     'Agustin Alayes': 'Agustín Alayés',
     'Ailton': 'Aílton',
     'Alan Bahia': 'Alan Bahía',
@@ -2155,7 +2258,6 @@ basic = {
     'Clever Chala': 'Cléver Chalá',
 
     'Cristian Alvarez': 'Cristian Álvarez',
-    #'Cristián Alvarez': 'Cristian Álvarez',
 
     'Cristian Casseres': 'Cristián Casseres',
     'Cristián Casseres': 'Cristián Cásseres',
@@ -2169,9 +2271,7 @@ basic = {
     'Cristian Traverso': 'Cristián Traverso',
     'Cristian Tula': 'Cristián Tula',
     'Cristian Zermatten': 'Cristián Zermatten',
-#c. Rodriguez
-#C. Rodriguez
-#C. Rodríguez
+
     'Damian Escudero': 'Damián Escudero',
     'Damián Rodriguez': 'Damían Rodríguez',
     'Daniel Jimenez': 'Daniel Jiménez',
@@ -2191,7 +2291,6 @@ basic = {
     'Diego De Souza': 'Diego de Souza',
     'Diego Godin': 'Diego Godín',
     'Dodo': 'Dodó',
-    #'Dominguez': 'Domínguez',
     'Dorlan Pabon': 'Dorlan Pabón',
     'D. Perez': 'D. Pérez',
     'Ebelio Ordonez': 'Ebelio Ordóñez',
@@ -2210,7 +2309,6 @@ basic = {
     'Ernesto Farias': 'Ernesto Farías',
 
     'Evelio Ordonez': 'Evelio Ordóñez',
-    #'Evelio Ordoñez': 'Evelio Ordóñez', 
 
     'Fãbao': 'Fabão',
     'Fabian Canobbio': 'Fabián Canobbio',
@@ -2223,7 +2321,6 @@ basic = {
     'Felix Borja': 'Félix Borja',
     'Fernandao': 'Fernandão',
     'Fernandez': 'Fernández',
-    #'Fernando Martinez': 'Fernando Martínez',
     'Fernando Rodriguez': 'Fernando Rodríguez',
     'Florencio Sarasibar': 'Florencio Sarasíbar',
     'Franca': 'França',
@@ -2268,7 +2365,6 @@ basic = {
     'J. Fernandez': 'J. Fernández',
     'Jherson Cordoba': 'Jherson Córdoba',
     'Jhon Viafara': 'Jhon Viáfara',
-    'Jimenez': 'Jiménez',
     'J.J. Benitez': 'J.J. Benítez',
     'Joel Sanchez': 'Joel Sánchez',
     'John Charria': 'John Charría',
@@ -2288,7 +2384,6 @@ basic = {
     'José Luis Calderon': 'José Luis Calderón',
 
     'Jose Luis Diaz': 'José Luis Díaz',
-    #'Jose Luis Díaz': 'José Luis Díaz',
 
     'José Luis Jerez': 'José Luis Jérez',
     'Jose Marcelo Gomez': 'José Marcelo Gómez',
@@ -2299,7 +2394,6 @@ basic = {
     'Juan Albin': 'Juan Albín',
     'Juan Angel Paredes': 'Juan Ángel Paredes',
     'Juan Carlos Marino': 'Juan Carlos Mariño',
-    #'Juan García': 'Juán García',
     'Juan Jose Morales': 'Juan José Morales',
     'Juan Manuel Martinez': 'Juan Manuel Martínez',
     'Juan Pablo Sorin': 'Juan Pablo Sorín',
@@ -2384,8 +2478,6 @@ basic = {
     'Monzon': 'Monzón',
     'Muller': 'Müller',
     'Munante': 'Muñante',
-    #'Munoz': 'Múñoz',
-    #'Muñoz': 'Múñoz',
     'Neicer Reasco': 'Néicer Reasco',
     'Nene': 'Nené',
     'Nestor Alvarez': 'Néstor Álvarez',
@@ -2396,7 +2488,6 @@ basic = {
     'Nicolas Nunez': 'Nicolás Núñez',
     'Nicolas Pavlovich': 'Nicolás Pavlovich',
     'Nicolas Tagliani': 'Nicolás Tagliani',
-    #'Nunez': 'Núñez',
     'O. Garcia': 'O. García',
     'O. Ramirez': 'O. Ramírez',
     'Oseas': 'Oséas',
@@ -2414,7 +2505,6 @@ basic = {
     'Pedro Chavez': 'Pedro Chávez',
     'Pedro Garcia': 'Pedro García',
     'Pena': 'Peña',
-    'Perez': 'Pérez',
     'Pierre Webo': 'Pierre Webó',
     'Podesta': 'Podestá',
     'Radamel Garcia': 'Radamel García',
@@ -2446,7 +2536,6 @@ basic = {
     'Ruben Tufiño': 'Rubén Tufiño',
     'Ruberth Moran': 'Ruberth Morán',
     'Saenz': 'Saénz',
-    #'Sanchez': 'Sánchez',
     'Santiago Garcia': 'Santiago García',
     'Sasia': 'Sasía',
     'Sebastian Battaglia': 'Sebastián Battaglia',
@@ -2469,9 +2558,7 @@ basic = {
     'Ulises De la Cruz': 'Ulises de la Cruz',
     'Ulises Mendivil': 'Ulises Mendívil',
 
-
     'Victor Aristizábal': 'Víctor Aristizábal',
-    #'Víctor Bernárdez': 'Víctor Bernárdez',
     'Victor Cordero': 'Víctor Cordero',
     'Victor Cortes': 'Víctor Cortés',
     'Victor Hugo Antelo': 'Víctor Hugo Antelo',
@@ -2488,7 +2575,6 @@ basic = {
     'Walter Calderón': 'Wálter Calderón',
     'Walter Gaitán': 'Wálter Gaitán',
     'Walter Gomez': 'Wálter Gómez',
-    #'Walter Gómez': 'Wálter Gómez',
     'Walter Ibanez': 'Walter Ibáñez',
     'Wason Renteria': 'Wason Rentería',
     'William Martinez': 'William Martínez',
@@ -2504,7 +2590,6 @@ basic = {
     'Jose Manuel Velasquez': 'José Manuel Velásquez', 
     'Teodoro Fernandez': 'Teodoro Fernández',
     'Juan Cesar Silva': 'Juan César Silva',
-    #Kazbek Tambi., Kazbek Tambi
     'Darío Husain': 'Darío Husaín', 
     'Ricardo Gonzalez': 'Ricardo González',
     'Julio Perez': 'Julio Pérez', 
@@ -2528,7 +2613,6 @@ basic = {
     'Jose Luis Villarreal': 'José Luis Villarreal',
     
     'Martin Zapata': 'Martín Zapata', 
-    #Alvaro Gutíerrez, Alvaro Gutiérrez
     
     'Alexandre Boucicaut': 'Alexándre Boucicaut', 
     'Aldo De Nigris': 'Aldo de Nigris',
@@ -2538,7 +2622,6 @@ basic = {
     'Frank O\’Hara': 'Frank O\'Hara',
     
     'Jose Manuel Ramos Delgado': 'José Manuel Ramos Delgado', 
-    #Héctor del Angel, Héctor del Ángel
     
     'David Sebastian Solorzano': 'David Sebastián Solórzano', 
     
@@ -2551,7 +2634,6 @@ basic = {
     'Jose Corona': 'José Corona', 
     
     'Enrique Cardenas': 'Enrique Cárdenas', 
-    #Colin Falvey, Colin Falvey ©
     
     'Diego Gomez': 'Diego Gómez',
     
@@ -2565,7 +2647,6 @@ basic = {
     'Manuel Rios': 'Manuel Ríos',
     
     'Luis Calderon': 'Luis Calderón', 
-    #O. Bolanos, O. BolaNos
     
     'Walter Otta': 'Wálter Otta', 
     
@@ -2594,7 +2675,6 @@ basic = {
     
     'Clemente Rodriguez': 'Clemente Rodríguez', 
     'Fawaz Al Ahmad': 'Fawaz Al-Ahmad', 
-    #D. Pérez, D. Perez
     'Juan De La Cruz': 'Juan de la Cruz', 
     'Juan de La Cruz': 'Juan de la Cruz', 
     
@@ -2608,11 +2688,8 @@ basic = {
     'Uwaldo Perez': 'Uwaldo Pérez',
     'Miguel Martinez': 'Miguel Martínez',
     'Enrique Lopez Zarza': 'Enrique López Zarza', 
-    #Canario, Canário
     'Carlos Esposito': 'Carlos Espósito',
     
-    #'Julian De Guzmán': 'Julián De Guzmán', 
-    #'Julian de Guzman': 'Julián De Guzmán', 
     'Julian De Guzman': 'Julian de Guzman',
     'Joao Paulo': 'João Paulo',
     'Jose Enrique Pena': 'José Enrique Peña',
@@ -2627,9 +2704,6 @@ basic = {
     'Leiner Orejuela': 'Léiner Orejuela',
     'Cafú': 'Cafu',
     'Juan Carlos  Giménez': 'Juan Carlos Giménez',
-    #O’Rourke, O'Rourke
-    #P. Neville, P Neville
-    #Calderón, Calderon
     'Roberto Fernandez': 'Roberto Fernández',
     
     'Victor Montano': 'Víctor Montaño', 
@@ -2642,7 +2716,6 @@ basic = {
     'Edgar Vaca': 'Édgar Vaca', 
     'Jesus Diaz': 'Jesús Díaz', 
     'Reynaldo Clavasquin': 'Reynaldo Clavasquín', 
-    #Perez, Pérez, ?.Pérez
     'Jozef Wandzik': 'Józef Wandzik',
     'Roberto Gomez Junco': 'Roberto Gómez Junco',
     'Angel  Torres': 'Angel Torres',
@@ -2671,9 +2744,6 @@ basic = {
     'Nelson Caceres': 'Nelson Cáceres',
     'Luis Guzman': 'Luis Guzmán',
     'Claudio Adao': 'Cláudio Adão',
-    #Susán, Susan
-    #Gonçálvez, Goncalvez
-    #Gonçalves, Goncalves
     
     'Victor Marulanda':'Víctor Marulanda',
     'Matt Mckay': 'Matt McKay',
@@ -2681,9 +2751,6 @@ basic = {
     'Oh Jang-eun': 'Oh Jang-Eun',
     'Oh Jang Eun': 'Oh Jang-Eun',
 
-
-    #Espindola, Espíndola
-    
     'Ze Alcino': 'Zé Alcino', 
     'Luis Sanchez': 'Luis Sánchez', 
     'Jose Basualdo': 'José Basualdo',
@@ -2697,7 +2764,6 @@ basic = {
     
     'Mynor Gonzalez': 'Mynor González', 
     'Nestor de la Torre': 'Néstor de la Torre',
-    #Itaqui, Itaquí
     'Jose Luis Elejalde': 'José Luis Elejalde', 
     'Omar Perez': 'Omar Pérez',
     'Jason DeVos': 'Jason de Vos',
@@ -2712,15 +2778,12 @@ basic = {
     'Ivan Moreno y Fabianesi': 'Iván Moreno y Fabianesi',
     
     'Victor Diogo': 'Víctor Diogo', 
-    #?.Herrera, Herrera
     
     'Neider Morantes': 'Néider Morantes', 
     
     'Emilio Alvarez': 'Emilio Álvarez', 
     
     'Segundo Medici': 'Segundo Médici', 
-    #?.Soto, Soto
-    #Júlio César, Julio César
     
     'Ezequiel Lazaro': 'Ezequiel Lázaro', 
     
@@ -2728,11 +2791,8 @@ basic = {
     'Javier Perez': 'Javier Pérez',
     
     'Arilson': 'Arílson', 
-    #'Jorge Masso.': 'Jorge Masso',
-    #Thomson, Thomson.
     'Carlos Juarez': 'Carlos Juárez',
     'Javier Martinez': 'Javier Martínez',
-    #Urdinarán, Urdinaran
     
     'Froylan Ledezma': 'Froylán Ledezma', 
     
@@ -2749,7 +2809,6 @@ basic = {
     'Derlis Florentin': 'Derlis Florentín', 
     
     'Raul Roganovich': 'Raúl Roganovich', 
-    #León, Leon
     'Aldo Ramirez': 'Aldo Ramírez',
     
     'Martin Cardetti': 'Martín Cardetti', 
@@ -2769,7 +2828,6 @@ basic = {
     'Jose Maria Bermudez': 'José María Bermúdez', 
     'Moises Calendario': 'Moisés Calendario',
     'Matias Concha': 'Matías Concha', 
-    #Maldonado, Maldonado.
     
     'Ricardo Marquez': 'Ricardo Márquez', 
     
@@ -2786,7 +2844,6 @@ basic = {
     'José Saturnino Cardozo': 'Jose Cardozo',
     'Wilmer Velázquez': 'Wílmer Velázquez',
     'Wilmer Velazquez': 'Wílmer Velázquez',
-    #D. DiCanot, D. Dicanot
     
     'Victor Ruiz': 'Víctor Ruiz', 
     'Jose del Aguila': 'José del Águila', 
@@ -2798,7 +2855,6 @@ basic = {
     'Fabián Armando Basualdo': 'Fabian Armando Basualdo', 
     
     'Nenem': 'Neném', 
-    #Díez, Diez
     'Oscar Mcfarlane': 'Oscar McFarlane',
     'Larry Mcphail': 'Larry McPhail',
     
@@ -2812,7 +2868,6 @@ basic = {
     'Cristian Bolanos': 'Cristian Bolaños', 
     
     'Edgar Benitez': 'Edgar Benítez', 
-    #GLover, Glover
     
     'Luis Renteria': 'Luis Rentería', 
     'O’Hallaran': 'O\'Hallaran',
@@ -2828,25 +2883,21 @@ basic = {
     
     'Kim Do Keun': 'Kim Do-Keun', 
     'Hector Hurtado': 'Héctor Hurtado',
-    #Ramón, Ramon
     'Arturo Fernandez': 'Arturo Fernández',
     
     'Cesar Trujillo': 'César Trujillo', 
     'Kim Seung Yong': 'Kim Seung-Yong',
     'Kim Seung-yong': 'Kim Seung-Yong',
     'Oscar Surian': 'Oscar Surián',
-    #Sérgio, Sergio
     'Ramon Barreto': 'Ramón Barreto',
     
     'Marcos Urena': 'Marcos Ureña', 
     'Eduardo Gutierrez': 'Eduardo Gutiérrez',
     
     'Victor Herrera': 'Víctor Herrera', 
-    #Dixon, ? Dixon, Dixon?
     'Franck Songo’o': 'Franck Songo\'o',
     'Frank Songo\'o': 'Franck Songo\'o',
     'Frank Songo’o': 'Franck Songo\'o',
-    #Alarcón, Alarcon
     'Cedric Avinel': 'Cédric Avinel',
     
     'Felix Mcdonald': 'Felix McDonald',
@@ -2863,38 +2914,28 @@ basic = {
     'Carlos Quinonez': 'Carlos Quiñónez', 
     
     'Julio Cesar Leon': 'Julio César León', 
-    #Pena, Peña
-    #L. Suarez, L. Suárez
     
     'Héctor Ortiz': 'Héctor Ortíz', 
     'Angel Di María': 'Ángel Di María',
     
     'DeShorn Brown': 'Deshorn Brown', 
-    #Vázquez, Vazquez
     'Manuel Perez': 'Manuel Pérez',
-    #Martínez, Martinez
     'Victor Valdes': 'Víctor Valdés',
     'Alejandro Frias': 'Alejandro Frías',
     
     'Edison Gonzalez': 'Edison González', 
-    #Le, Lê
     'Sim Jae Won': 'Sim Jae-Won', 
     'Sim Jae-won': 'Sim Jae-Won', 
     
     'Victor Samuel Turcios': 'Víctor Samuel Turcios', 
-    #?.Jiménez, Jiménez, Jimenez
-    #Brennan?, Brennan
-    #D’Agostino, D'Agostino
     
     'Gaston Monterola': 'Gastón Monterola', 
     
     'Jose Anthony Torres': 'José Anthony Torres', 
-    #José M. Henríquez, Jose M. Henríquez
     'Ruben Omar Romano': 'Rubén Omar Romano',
     'Jason Van Blerk': 'Jason van Blerk',
     
     'Reiner Alcantara': 'Reiner Alcántara', 
-    #Díaz, Diaz
     'Fidel Mino': 'Fidel Miño',
     
     'Alberto Gomez': 'Alberto Gómez', 
@@ -2903,7 +2944,6 @@ basic = {
     'William Gutíerrez': 'William Gutiérrez',
     'Cesar Bordaberry': 'César Bordaberry',
     'Jairon Leonel Zamora': 'Jairón Leonel Zamora',
-    #Sánchez, Sanchez
     
     'Randall Row': 'Rándall Row', 
     
@@ -2934,7 +2974,6 @@ basic = {
     'Luizao': 'Luizão',
     
     'Jose Luis Russo': 'José Luis Russo', 
-    #'Carl  Rose': 'Carl Rose',
     
     'Osman Danilo Chavez': 'Osman Danilo Chávez', 
     'Francisco Martinez': 'Francisco Martínez',
@@ -2945,14 +2984,11 @@ basic = {
     'Gary Van Egmond': 'Gary van Egmond',
     
     'Claudio Lezcano': 'Cláudio Lezcano', 
-    #Cufrè, Cufre
     'Victor Cordero': 'Víctor Cordero',
-    #Ramirez, Ramírez
     
     'Norberto Menendez': 'Norberto Menéndez', 
     'Steve Macdonald': 'Steve MacDonald',
     'Christian Santamaria': 'Christian Santamaría',
-    #Quiñones, Quinones
     
     'Junior Diaz': 'Junior Díaz', 
     'Raúl Rodrigo Lara': 'Raul Lara', 
@@ -2960,7 +2996,6 @@ basic = {
     'Jordan Leblanc': 'Jordan LeBlanc',
     'Alfredo De Los Santos': 'Alfredo de los Santos',
     'Johnny Leveron': 'Johnny Leverón',
-    #Jeff Hooker, Jeff HOoker
     
     'Geiner Segura': 'Géiner Segura', 
     'Oscar Julian Ruiz': 'Oscar Julián Ruiz',
@@ -2970,8 +3005,6 @@ basic = {
     'Felix Rodriguez': 'Félix Rodríguez', 
     
     'Francisco Sanchez': 'Francisco Sánchez', 
-    #José Garcés, Jose Garcés, Jose Garces
-    #Cissé, Cisse
     
     'Gustavo Barros-Schelotto': 'Gustavo Barros Schelotto', 
     
@@ -2988,11 +3021,9 @@ basic = {
     'Edgar Perez Greco': 'Edgar Pérez Greco',
     
     'Alejandro Ortiz': 'Alejandro Ortíz', 
-    #G. González, G. Gonzalez
     'RMB Orr': 'R.M.B. Orr',
     'Cesar Miguel Rebosio': 'César Miguel Rebosio',
     'Wilmer Garcia': 'Wilmer García',
-    #tate, Tate
     'Jose Mendoza': 'José Mendoza',
     
     'Hector Echeverri': 'Héctor Echeverry',
@@ -3006,55 +3037,39 @@ basic = {
     'Franco Cangele': 'Franco Cángele', 
     
     'Mahmoud El Khatib': 'Mahmoud El-Khatib', 
-    #R. Lopez, R. López
     'Victor Muller': 'Víctor Müller',
     'Raul Perez': 'Raúl Pérez',
     'Juan Pablo Angel': 'Juan Pablo Ángel',
     
     'Jesus Zavala': 'Jesús Zavala', 
-    #León Darío Muñoz, Leon Dario Muñoz, Leon Dario Munoz
     
     'Victor Rangel': 'Víctor Rangel', 
 
     
     'Lorenzo Unanue': 'Lorenzo Unanué', 
-    #Cesar García, César García, Cesar Garcia
     'Hector Gonzalez': 'Héctor González',
-    #?.Luna, Luna
     
     'Maximiliano Lopez': 'Maximiliano López', 
-    #Demarchi, DeMarchi
     
     'Kenneth Paniagua': 'Kénneth Paniagua', 
     'Kim Do Hoon': 'Kim Do-Hoon',
-    #FLeming, Fleming
     'Fabrice Reuperne': 'Fabrice Reuperné',
-    #Jose Jonny Magallon, Jose Jonny Magallón, José Jonny Magallón
     'Kevin Parsemain': 'Kévin Parsemain',
     
     'Alberto Ramirez': 'Alberto Ramírez', 
-    #Kim Bong-soo, Kim Bong Soo
     'Rolando Rodriguez': 'Rolando Rodríguez',
     
     'Reinier Alcantara': 'Reinier Alcántara', 
-    #DeVivo, Devivo
-    #Aléncar, Alencar
-    
     'Alexander Amaya': 'Alexánder Amaya', 
-    #Milton Núñez, Milton Núnez, Milton Nuñez
     
     'Ze Carlos': 'Zé Carlos', 
     'Jose Chacon': 'José Chacón',
     
-
-    
     'Luis Mejia': 'Luis Mejía', 
-    #Logan Pause C, Logan Pause c
     
     'David Mccaig': 'David McCaig', 
     
     'Choi Tae Uk': 'Choi Tae-Uk', 
-    #Miguez, Míguez
     'Róger Espinoza': 'Roger Espinoza',
     
     'Francisco Farinas': 'Francisco Fariñas', 
@@ -3070,11 +3085,9 @@ basic = {
     'David Hernandez': 'David Hernández',
     
     'Moises Aviles': 'Moisés Avilés', 
-    #Hernandez, Hernández
     
     'Hernain Arzu': 'Hernaín Arzú', 
-    #Sepúlveda, Sepulveda
-    #Ernesto De la Rosa, Ernesto De La Rosa
+
     'Jose Luis Martinez Bazan': 'José Luis Martínez Bazán',
     'Francisco Fernandez': 'Francisco Fernández',
     
@@ -3106,7 +3119,6 @@ basic = {
     'Gregory Gendrey': 'Grégory Gendrey', 
     'Magrao': 'Magrão',
     'Jorge Fernandez': 'Jorge Fernández',
-    #Gonzalez, González
     'Zé Maria': 'Zé María',
     'Juan Ramon Jara': 'Juan Ramón Jara',
     'Julian Anchico': 'Julián Anchico', 
@@ -3116,8 +3128,6 @@ basic = {
     'Nestor Gabriel Cedres': 'Néstor Gabriel Cedrés', 
     
     'Mickael Antoine-Curier': 'Mickaël Antoine-Curier', 
-    #Gutiérrez, Gutierrez
-    #Macías, Macias
     
     'Lester More': 'Léster Moré', 
     
@@ -3125,11 +3135,8 @@ basic = {
     
     'Jose de Jesus Corona': 'José de Jesús Corona', 
     'Eliphene Cadet': 'Eliphéne Cadet',
-    #Suarez, Suárez
-    #García, Garcia
     
     'Wilson De Souza': 'Wilson de Souza', 
-    #A.H. Rojas, A.H. Rojas
     
     'Asdrubal Sanchez': 'Asdrúbal Sánchez', 
     'Jose Gutierrez': 'José Gutiérrez',
@@ -3137,10 +3144,7 @@ basic = {
     'Jose Guerrero': 'José Guerrero', 
     'Ehud Ben Tovim': 'Ehud Ben-Tovim',
     'Oneil Thompson': 'O\'Neil Thompson',
-    #Jorge Calado, jorge Calado
-    #Gamboa, Gamboa
     'Jorge Perez': 'Jorge Pérez',
-    #Rincon, Rincón
     
     'Carlos Lazon': 'Carlos Lazón', 
     'Pedro Velazquez': 'Pedro Velázquez',
@@ -3148,36 +3152,27 @@ basic = {
     'Kleber': 'Kléber', 
     
     'Raul Sanchez': 'Raúl Sánchez', 
-    #Qu BO, Qu Bo
-    #Neftali Díaz, Neftalí Díaz, Neftali Diaz
     'Leonel Duarte': 'Leonel Duarté',
-    #Echevarría, Echevarria
     
     'Jose Milian': 'José Milian', 
-    #Gamez, Gámez
     
     'Adalberto Lopez': 'Adalberto López', 
     'Marvin Antonio Chávez': 'Marvin Chavez', 
     'Marvin Antonio Chavez': 'Marvin Chavez',
     'Marvin Chavez': 'Marvin Chávez',
-    #'Marvin Ch\xe1vez': 'Marvin Chavez',
 
-    
     'Wilmer Velasquez': 'Wilmer Velásquez', 
     'Park Chu Young': 'Park Chu-Young',
     'Park Chu-young': 'Park Chu-Young', 
     'Julio Cesar Franco': 'Julio César Franco',
     'Hugo Benjamin Ibarra': 'Hugo Benjamín Ibarra',
     'Maximiliano Estevez': 'Maximiliano Estévez',
-    #Rodríguez, Rodriguez
     
     'Ruben Gonzalez': 'Rubén González', 
     
     'Alfredo Gonzalez': 'Alfredo González', 
-    #Ordonez, Ordóñez
     'Jose Luis Caballero': 'José Luis Caballero',
-    #Pol?, Pol
-    #Sasía, Sasia
+
     'Ernesto Gutierrez': 'Ernesto Gutiérrez',
     
     'Moises Candelario': 'Moisés Candelario', 
@@ -3187,11 +3182,9 @@ basic = {
     
     'Porfirio Jimenez': 'Porfirio Jiménez', 
     'Jose Romero': 'José Romero',
-    #Eder, Éder
     
     'Stephane Mbia': 'Stephane M\'Bia', 
     'Ivan Garcia': 'Iván García',
-    #A. Gonzalez, A. González
     
     'Raul Martinez Sambula': 'Raúl Martinez Sambula',
     
@@ -3200,8 +3193,7 @@ basic = {
     'Jose Luis Aussin': 'José Luis Aussin',
     'Li Yi\'nan': 'Li Yinan', 
     'Li Yi’nan': 'Li Yinan', 
-    #Edu, Edú
-    #J. Fernandez, J. Fernández
+
     'Aurelien Capoue': 'Aurélien Capoue',
     'Hugo Rodriguez': 'Hugo Rodríguez',
     'Cristian Castillo': 'Cristián Castillo',
@@ -3215,8 +3207,7 @@ basic = {
     'Jose De La Cuesta': 'Jose de la Cuesta',
     
     'Hector Rodriguez': 'Héctor Rodríguez', 
-    #Ibañez, Ibáñez, Ibanez
-    #Quincy Amarikwa*, Quincy Amarikwa
+
     
     'TJ Nelson': 'T.J. Nelson', 
     'Alexis Pena': 'Alexis Peña',
@@ -3234,7 +3225,6 @@ basic = {
     
     'Elber': 'Élber', 
     'Hakan Unsal':'Hakan Ünsal', 
-    #Horak, HOrak
     
     'Jesus Rodriguez': 'Jesús Rodríguez', 
     'Angel Segura': 'Ángel Segura',
@@ -3244,15 +3234,14 @@ basic = {
     'Jose Norberto Huezo': 'José Norberto Huezo',
     
     'Jose Manuel Contreras': 'José Manuel Contreras', 
-    #Farfan, Farfán
-    #Canón, Cañón
+
     'Raul Fernandez': 'Raúl Fernández',
     
     'Jose Salvatierra': 'José Salvatierra', 
     
     'Trent Mcclenahan': 'Trent McClenahan', 
     'Freddy Garcia': 'Freddy García',
-    #nelson, Nélson, Nelson
+
     'Hector Gutierrez': 'Héctor Gutiérrez',
     
     'Jan Michael Williams': 'Jan-Michael Williams', 
@@ -3267,17 +3256,14 @@ basic = {
     'Francisco Gonzalez': 'Francisco González', 
 
     'Luis Alberto': 'Luís Alberto',
-    #Mnguni, Mnguni
     
     'Raúl Estevez': 'Raúl Estévez', 
     
     'Roberto Zarate': 'Roberto Zárate', 
-    #Vevé, Veve
     'Claudio Husain': 'Claudio Husaín',
     'Jean Victor Lavril': 'Jean-Victor Lavril',
     
     'Oscar Garcia': 'Oscar García', 
-    #Allan Moisés Lalín, Allan Moisés Lalin, Allan Moises Lalin
     'Leandro Gracian': 'Leandro Gracián',
     
     'Anthony Angely': 'Anthony Angély',
@@ -3287,22 +3273,14 @@ basic = {
     
     'Wilber Alejandro Sanchez': 'Wilber Alejandro Sánchez', 
     'Gaston Castro': 'Gastón Castro',
-    #Melendez, Meléndez
     
     'Fabian Andres Vargas': 'Fabián Andrés Vargas', 
     'Ahn Jung-hwan': 'Ahn Jung-Hwan',
     'Ahn Jung Hwan': 'Ahn Jung-Hwan',
-    #Patiño, Patino
-    #Brown, . Brown
-    #De Los Santos, De los Santos
     
     'Luis Ubina': 'Luis Ubiña', 
     'Cesar Charun': 'César Charún',
-    #Hélton, Helton
-    
-    #'Rafe\' Wolfe': 'Rafe Wolfe', 
-    
-    
+
     'David Martínez': 'David Martinez', 
     'Juan Jose Vidal': 'Juan José Vidal',
     'Andres Estrada': 'Andrés Estrada',
@@ -3313,29 +3291,27 @@ basic = {
     'Diego Garcia': 'Diego García',
     
     'Leon Jeck': 'Léon Jeck', 
-    #J. DeGuzman, J. deGuzman
     
     'Hector Tapia': 'Héctor Tapia', 
     
     'Jose Luis Ceballos': 'José Luis Ceballos', 
     
     'James O’Connor': 'James O\'Connor', 
-    #Baéz, Baez
-    #Dudú, Dudu
+
     'Juan Pedro Arremon': 'Juan Pedro Arremón',
-    #pearce, Pearce
+
     
     'Wilber Sanchez': 'Wilber Sánchez', 
-    #Angel Martínez, Angel Martinez, Ángel Martínez
+
     'Luis German Del Carmen': 'Luis Germán Del Carmen',
-    #C. Fernandez, C. Fernández
+
     
     'Jorge Davalos': 'Jorge Dávalos', 
     
     'Ivan Ramiro Cordoba': 'Iván Ramiro Córdoba', 
     
     'Orlando Rodriguez': 'Orlando Rodríguez', 
-    #Guzman, Guzmán
+
     
     'Fabian Coelho': 'Fabián Coelho', 
     
@@ -3343,20 +3319,18 @@ basic = {
     'Oscar Sánchez': 'Óscar Sánchez',
     
     'Tomas Hubschman': 'Tomas Hübschman' ,
-    #Solomon, ?. Solomon
+
     'Alex Dario Aguinaga': 'Alex Aguinaga',
     'Alex Darío Aguinaga': 'Alex Aguinaga',
     'Shane O’Neill': 'Shane O\'Neill',
     
     'Mario Cesar Rodriguez': 'Mario César Rodríguez', 
-    #Muñoz, Munoz
+
     'Choi Jin Cheul': 'Choi Jin-Cheul',
     
     'Angel Reyna': 'Ángel Reyna', 
     'Luis Filipe': 'Luís Filipe', 
-    #Jones?, Jones
-    #Franca, França
-    #Lauder?, Lauder
+
     
     'David Sanchez': 'David Sánchez', 
     'Dj Countess': 'D.J. Countess', 
@@ -3365,15 +3339,14 @@ basic = {
     'Shin Young-rok': 'Shin Young-Rok',
     'Shin Young Rok': 'Shin Young-Rok',
     'Jesús Ramon Ramírez': 'Jesús Ramón Ramírez',
-    #C Rodriguez, c. Rodriguez, C. Rodriguez
     'Rene Villavicencio': 'René Villavicencio',
     'Ki Sung Yueng': 'Ki Sung-Yueng',
     'Ki Sung-yueng': 'Ki Sung-Yueng',
-    #De la Cruz, de la Cruz, De La Cruz
+
     'David Mcguire': 'David McGuire',
     'Jaime Colome': 'Jaime Colomé', 
     'Obdulio Jacinto Varela': 'Obdulio  Jacinto Varela', 
-    #T Ingram, T. Ingram
+
     'Renan Benguche': 'Renán Benguché',
     
     'Manuel Gonzalez': 'Manuel González', 
@@ -3383,7 +3356,7 @@ basic = {
     'Jesus Rico': 'Jesús Rico', 
     
     'Fernando Garduno': 'Fernando Garduño', 
-    #Solis, Solís
+
     
     'Paolo de Ceglie': 'Paolo De Ceglie', 
     
@@ -3394,11 +3367,11 @@ basic = {
     
     'Guillermo Munoz': 'Guillermo Muñoz', 
     'Israel Sanchez': 'Israel Sánchez',
-    #Vasquez, Vásquez
+
     
     'Oscar Mas': 'Oscar Más', 
     'Claudio Cacapa': 'Claudio Caçapa',
-    #O’Shea, O'Shea
+
     'Hector Becerra': 'Héctor Becerra',
     'Carlos Alberto Juarez': 'Carlos Alberto Juárez',
     'Eduardo De la Torre': 'Eduardo de la Torre',
@@ -3430,12 +3403,12 @@ basic = {
     'Walter Ayovi': 'Walter Ayoví',
     
     'Frederic Piquionne': 'Frédéric Piquionne', 
-    #Menendez, Menéndez
+
     'Markus Lopez': 'Markus López',
-    #Djemba Djemba, Djemba-Djemba
+
     
     'Yulian Anchico': 'Yulián Anchico',
-    #Hormazábal, Hormazabal
+
     'Andrés Perez': 'Andrés Pérez',
     'Armando Gonzalez': 'Armando González',
     
@@ -3445,18 +3418,17 @@ basic = {
     'Victor Coello': 'Víctor Coello', 
     'Franklin Lopez': 'Franklin López', 
     'Jose Arana': 'José Arana',
-    #Cláudio, Claudio
+
     'Cristian Domizi': 'Cristián Domizi',
     
     'Jose Luis Zalazar': 'José Luis Zalazar', 
-    #Ricard, Ricard
-    #Yulier OLivera, Yulier Olivera
+
     
     'Jean Luc Lambourde': 'Jean-Luc Lambourde',
-    #Acuña, Acuna
+
     
     'Walter Garcia': 'Walter García', 
-    #Solorzano, ?.Solorzano
+
     
     'Victor Bernárdez': 'Víctor Bernárdez', 
     'Nilson Perez': 'Nilson Pérez',
@@ -4161,7 +4133,8 @@ basic = {
     
     'Vagner Love': 'Vágner Love',
     'Oscar Miguez': 'Oscar Míguez',
-    
+        'Oscar Omar Míguez': 'Oscar Míguez',
+        'Oscar Omar Miguez': 'Oscar Míguez',
     
     'Luis Hector Cristaldo': 'Luis Héctor Cristaldo',
     
@@ -4210,10 +4183,6 @@ basic = {
     'Ruben Marcos': 'Rubén Marcos',
     'Brandaozinho': 'Brandãozinho',
     
-    #'Flavio Conceicao': 'Flávio Conceicao',
-    #'Flávio Conceicao': 'Flavio Conceição',
-    #'Flávio Conçeicão': 'Flavio Conceição',
-    #'Flavio Conceiçao': 'Flavio Conceição',
     'Luis Suarez': 'Luis Suárez',
     'Geronimo Barbadillo': 'Gerónimo Barbadillo',
     
@@ -4352,14 +4321,13 @@ basic = {
     'Herbert Karlson': 'Herbert Carlsson',
     'Roque Maspoli': 'Roque Máspoli',
     'Oldrich Nejedly': 'Oldřich Nejedlý',
-    #capt [<Bio: Capt., <Bio: capt. <Bio: capt]
     'Emilio Butragueno': 'Emilio Butragueño',
     'Osman Chavez': 'Osman Chávez',
     'Alpay Ozalan': 'Alpay Özalan',
     'Jese': 'Jesé',
     'Hasan Sas': 'Hasan Şaş',
     'Angel Di María': 'Ángel Di María',
-    #brennan [<Bio: Brennan, <Bio: Brennan?
+
     'Jozsef Bozsik': 'József Bozsik',
     'Daniel Luduena': 'Daniel Ludueña',
     'Domingos Da Guia': 'Domingos da Guia',
@@ -4385,18 +4353,17 @@ basic = {
     'Vava': 'Vavá',
     'Eusebio': 'Eusébio',
     'Robin Van Persie': 'Robin van Persie',
-    #brown [<Bio: . Brown, <Bio: Brown
     'Yaya Toure': 'Yaya Touré',
     'Gerson': 'Gérson',
     'Marco Fabian': 'Marco Fabián',
     'Jurgen Klinsmann': 'Jürgen Klinsmann',
-    #solomon [<Bio: Solomon, <Bio: ?. Solomon
+
     'Trialist': 'trialist',
-    #jones [<Bio: Jones, <Bio: Jones?
+
     'Milutin Ivkovic': 'Milutin Ivković',
-    #lauder [<Bio: Lauder?, <Bio: Lauder
+
     'Jose Santamaria': 'José Santamaría',
-    #dixon [<Bio: Dixon, <Bio: Dixon? <Bio: ? Dixon]
+
     'Leonel Sanchez': 'Leonel Sánchez',
     'Alvaro Gestido': 'Álvaro Gestido',
     'Hernan Crespo': 'Hernán Crespo',
@@ -4732,7 +4699,7 @@ basic = {
     'Jean Pierre Tokoto': 'Jean-Pierre Tokoto',
     'Frank De Boer': 'Frank de Boer',
     'Jackie Mcnamara': 'Jackie McNamara',
-    #'Ramon Nuñez': 'Ramón Núñez',
+
     'Drew Degurian': 'Drew DeGurian',
     'Lajos Detari': 'Lajos Détári',
     'Jose Valencia': 'José Valencia',
@@ -4860,6 +4827,11 @@ basic = {
     'Alex Fernandes': 'Alex Fernandez',
     'Alex Fernándes': 'Alex Fernandez',
 
+    'Mohammed Al-Daeyea': 'Mohammed Al-Deayea',
+    'Hussein Sulimani': 'Hussein Suliamani',
+    'Erik Kwekeu': 'Eric Kwekeu',
+    'Jorg Henirich': 'Jörg Heinrich',
+
     'Derek Mackenzie': 'Derek MacKenzie', 
     'Jose Cardozo': 'José Cardozo', 
     'L Brooks Griffith': 'L. Brooks Griffith',
@@ -4917,7 +4889,7 @@ basic = {
     'Kim Byung Ji': 'Kim Byung-Ji', 
     'Ibrahim Al Harbi': 'Ibrahim Al-Harbi', 
     'Diego Lopez': 'Diego López',
-    #'Jose Ze Roberto Gomes-Santana': 'Jose Ze Roberto Gomes Santana',
+
     'Sergio Vazquez': 'Sergio Vázquez', 
     'Paul Mcstay': 'Paul McStay', 
     'Mateus Dos Anjos': 'Mateus dos Anjos', 
@@ -5461,7 +5433,7 @@ basic = {
     'Jon Borrajo': 'Jonatahan Borrajo',
 
     'Jorge Villafana': 'Jorge Villafaña',
-    #'Jorge Flores': 'Jorge Villafaña',
+
     
     'Josué Martinez': 'Josué Martínez',
     'Juan Diego González Alzate': 'Juan Diego Gonzalez',
@@ -5557,7 +5529,7 @@ basic = {
     'George Nemchick': 'George Nemchik',
     
     
-    #'Victor Estupiñan': 'Victor Estupiñán, <Bio: Víctor Estupiñán',
+
     'Victor Estupiñan': 'Victor Estupiñán',
     'Victor Estupiñan': 'Victor Estupiñán',
     'Victor Estupiñán': 'Víctor Estupiñán',
@@ -5948,9 +5920,9 @@ basic = {
     'Plato Khoutsishuili': 'Platon Khoutsishuili',
     'Fabrizi Moscateillo': 'Fabrizi Moscatiello',
     'Fernando Larossa': 'Fernando Larrosa-Marino',
-    'Fernando Ortiz-Sorta': 'Fernando Ortiz-Solis',
-    'Fernando Ortiz-Solis': 'Fernando Ortiz-Solis',
-    'Fernando Solis': 'Fernando Ortiz-Solis',
+#'Fernando Ortiz-Sorta': 'Fernando Ortiz-Solis', what is wrong here?
+#    'Fernando Ortiz-Solis': 'Fernando Ortiz-Solis',
+#'Fernando Solis': 'Fernando Ortiz-Solis', what is wrong here?
     'Franco Randozza': 'Franco Randazzo',
     'Franco Raudozza': 'Franco Randazzo',
     'Frederic Denton': 'Fred Denton',
@@ -6306,7 +6278,7 @@ basic = {
     'Javier (Francisco) Gomez': 'Francisco Gomez',
     'Javier Gomez': 'Francisco Gomez',
     'Francisco Javier Gomez': 'Francisco Javier Gómez',
-    #'Francisco G\xf3mez': 'Francisco Gomez',
+
     'Francisco Gomez': 'Francisco Gómez',
     'Francisco Gomez': 'Francisco Gómez',
     'Francisco (Javier) Gomez': 'Francisco Gomez',
@@ -6357,7 +6329,7 @@ basic = {
     
     
     }
-names.update(basic)
+
 
 ltrack = {
     'Levi M. Coleman': 'Levi Coleman',
@@ -6393,7 +6365,7 @@ ltrack = {
     'Jimmy (JC) Banks': 'Jimmy Banks',
 
     }
-names.update(ltrack)
+
 
 
 nx = {
@@ -6409,7 +6381,7 @@ nx = {
     'Cesareo Victorino': 'Cesáreo Victorino',
     'Reysander Fernandez': 'Reysander Fernández',
     'Isaac Acuña Sanchez': 'Isaac Acuña Sánchez',
-    #'Isaac Acuña Sánchez': 'Isaac Acuña Sanchez',
+
     'Ramon Nuñez': 'Ramón Núñez',
     'Diego Gutíerre': 'Diego Gutiérrez',
     'Marco Fabian De la Mora': 'Marco Fabián de la Mora',
@@ -6485,7 +6457,7 @@ nx = {
     'Freddy LeOn': 'Freddy León', # Check this.
     
     'Gabriel Gomez': 'Gabriel Gómez',    
-    #'Germán Chavarríá': 'Germán Chavarría',
+
     'Germán Chavarría': 'Germán Chavarríá',
     'German Ruano': 'Germán Ruano',
     'Greg  Vanney': 'Greg Vanney',
@@ -6633,19 +6605,10 @@ nx = {
     
     
     }
-names.update(nx)
-
-short = {
-    'Mcnamara': 'McNamara',
-    'Mckee': 'McKee',
-    'Nicolas Burdisso': 'Nicolás Burdisso',
-    
-    }
-names.update(short)
 
 
 onames = {
-    
+    'Nicolas Burdisso': 'Nicolás Burdisso',    
     
     'Nathan Agar': 'Nat Agar',
     
@@ -6848,8 +6811,10 @@ onames = {
     'Davie Brown': 'Davey Brown',
     'Robert Millar': 'Bob Millar',
     'Tom Florie': 'Tommy Florie',
+
     #'Sandy Dick': 'Alexander Dick',
     'Alec Sandy Dick': 'Sandy Dick',
+
     'Zeljko Bilecky': 'Zeljko Bilecki',
     'David Sarachan': 'Dave Sarachan',
     'Hernan Borja': 'Chico Borja',
@@ -6926,6 +6891,7 @@ onames = {
     'Iyoma (Jo Jo) Flemister': 'Iyoma Flemister',
     'Thomas (Michael) Coll': 'Michael Coll',
     
+    # ummm...
     'J Cooks': 'Judah Cooks', # Highly likely, NVA Royals game in 2000, while Judah was with DC
     'Joseph (Joe) Nick': 'Joe Nick',
     
@@ -7135,14 +7101,6 @@ onames = {
     'Francis (Fran) Morgan': 'Francis Morgan',
     
     
-    
-    
-    
-    
-    
-    
-    
-    
     # Staging
     'Scott Nilsen': 'Werner Nilsen',
     
@@ -7348,15 +7306,10 @@ onames = {
     'Alex Prampin': 'Alan Prampin',
     'Antonio De La Torre': 'Antonio de la Torre',
     'Antonio De la Torre': 'Antonio de la Torre',
-    #u'Abraham Fran\xe7ois': 'Abraham Francois',
     'Austin Da Luz': 'Austin da Luz',
     'AJ Wood': 'A.J. Wood',
     'ANDREW Mcdermott': 'Andrew McDermott',
     'Andrew Mcdermott': 'Andrew McDermott',
-    #u'\xc1lvaro Fern\xe1ndez': 'Alvaro Fernandez',
-    #u'Andr\xe9s Mendoza': 'Andres Mendoza',
-    #u'Alvaro Sabor\xedo': 'Alvaro Saborio',
-    #u'\xc1lvaro Sabor\xedo': 'Alvaro Saborio',
     'Alvaro Saborio': 'Álvaro Saborío',
     'Alexis (Pasa) Rivera': 'Alexis Rivera',
     'Alexis Rivera-Curet': 'Alexis Rivera',
@@ -7491,13 +7444,11 @@ onames = {
     'Andi Iro': 'Andy Iro',
     'Andy Gruenenbaum': 'Andy Gruenebaum',
     'AJ DeLaGarza': 'A.J. DeLaGarza',
-    #u'\xc1lvaro S\xe1nchez': 'Alvaro Sanchez',
     'Albert Celades': 'Alberto Celades',
     'A. J. Godbolt': 'A.J. Godbolt',
     'Andrew Hainault': 'André Hainault',
     'Andre Hainault': 'André Hainault',
     'Andy Mcmahon': 'Andy McMahon',
-    #u'Andr\xe9 Luiz': 'Andre Luiz',
     'Anthony Mckeon': 'Anthony McKeon',
     'Alex Pineda-Chacon': 'Alex Pineda Chacon',
     
@@ -7538,16 +7489,13 @@ onames = {
     'Colin Martin': 'Collin Martin',
     'Colin Mclocklan': 'Colin McLocklan',
     'Cristian Da Silva': 'Cristian da Silva',
-    #u'Claudio Su\xe1rez': 'Claudio Suarez',
     'Claudio Suarez': 'Claudio Suárez',
-    #u'Christian G\xf3mez': 'Christian Gomez',
     'Christian Gomez': 'Christian Gómez',
     'Chris Mcdonald': 'Chris McDonald',
     'Christopher Cortez': 'Chris Cortez',
     'Calros Hermosillo': 'Carlos Hermosillo',
     
     'Christoff Lindenmayer': 'Christof Lindenmayer',
-    #[u'Ciaran O&#039;Brien', u'Dayton O&#039;Brien', u'John O&#039;Brien', u'Leighton O&#039;Brien', u'Ronnie O&#039;Brien']
     'Ciaran O\'brien': 'Ciaran O\'Brien',
     'Chris Rodrigues': 'Chris Rodriguez',
     'Christopher Rodriguez': 'Chris Rodriguez',
@@ -7565,7 +7513,6 @@ onames = {
     'Dion Sebwe': 'Dionysus Sebwe',
     'Dillion Serna': 'Dillon Serna',
     'Damarcus Beasley': 'DaMarcus Beasley',
-    #u'Daniel Hern\xe1ndez': 'Daniel Hernandez',
     'DJ Countess': 'D.J. Countess',
     'Dedi Ben-Dayan': 'Dedi Ben Dayan',
     'David Diplacido': 'David DiPlacido',
@@ -7574,9 +7521,8 @@ onames = {
     'David Demello': 'David DeMello',
     'Drew Mcathy': 'Drew McAthy',
     'David De La Torre': 'David de la Torre',
-    #u'Diego Guti\xe9rrez': 'Diego Gutierrez',
+
     'Diego Gutierrez': 'Diego Gutiérrez',
-    #u'Danny O\u2019Rourke': 'Danny O\'Rourke',
     'Danny O’Rourke': 'Danny O\'Rourke',
     'David Xausa': 'Davide Xausa',
     'Dragan Popovic': 'Dragan Popović',
@@ -7601,14 +7547,12 @@ onames = {
     
     'Eddie Johnson': 'Edward Johnson',
     'Emilo Renteria': 'Emilio Renteria',
-    #u'Emilio Renter\xeda': 'Emilio Renteria',
     'Eric (Ricky) Lewis': 'Ricky Lewis',
     'Ernie Stewart': 'Earnie Stewart',
     
     'Fred Degand': 'Fred DeGand',
     'Francisco Naves Cobo': 'Francisco Navas Cobo',
     'Francois (Didier) Menard': 'Francois Didier Menard',
-    #u'Fabi\xe1n Esp\xedndola': 'Fabian Espindola',
 
     'Frederick (Ricky) Schramm': 'Ricky Schramm',
     'Frederico (Freddy) Juarez': 'Frederico Juarez',
@@ -7630,7 +7574,6 @@ onames = {
     'Giovanne Savarese': 'Giovanni Savarese',
     
     'Hicham Aaboubou': 'Hicham Aâboubou',
-    #u'Herculez G\xf3mez': 'Herculez Gomez',
     'Hong Myung Bo': 'Hong Myung-Bo',
     'Hercules Gomez': 'Herculez Gomez',
     'Hugo Perez': 'Hugo Pérez',
@@ -7671,7 +7614,6 @@ onames = {
     'John Menyongar': 'Johnny Menyongar',
     'Jason Hernandez': 'Jason Hernández',
     'Jason Hernandez': 'Jason Hernández',
-    #'Jason Hern\xe1ndez': 'Jason Hernandez',
     'Jamison Olave': 'Jámison Olave',
     'Joe- Max Moore': 'Joe-Max Moore',
     'Joe Max Moore': 'Joe-Max Moore',    'Joshua Tudela': 'Josh Tudela',
@@ -7693,7 +7635,6 @@ onames = {
     'Jean Phillippe Peguero': 'Jean Philippe Peguero',
     'Jurgen Sommer': 'Juergen Somme',
     'Juan Suarez': 'Juan Berthy Suarez',
-    #u'Juan Diego Gonz\xe1lez': 'Juan Diego Gonzalez',
     'Jim St Andre': 'Jim St. Andre',
     'JT Dorsey': 'J.T. Dorsey',
     'Jose Dasilva': 'Jose DaSilva',
@@ -7703,9 +7644,7 @@ onames = {
     'John Diraimondo': 'John DiRaimondo',
     'Jeff Devettori': 'Jeff DeVettori',
     'Jason Ditullio': 'Jason DiTullio',
-    #u'Juli\xe1n De Guzman': 'Julian De Guzman',
-    #u'Jos\xe9 Cancela': 'Jose Cancela',
-    #u'\xa0Jose Cancela': 'Jose Cancela',
+
     'Jose Burciaga Jr': 'Jose Burciaga Jr.',
     'Jonathan Mccurley': 'Jonathan McCurley',
     'JOHN Mccallion': 'John McCallion',
@@ -7715,14 +7654,12 @@ onames = {
     'Jerome Lee-Yaw': 'Jerome Lee Yaw',
     'James Dedeus': 'James DeDeus',
 
-    #u'J\xe1mison Olave': 'Jamison Olave',
     'JP Rodrigues': 'J.P. Rodrigues',
     'John Debrito': 'John DeBrito',
     'Joe Franchino': 'Joey Franchino',
     'Jasen Garey': 'Jason Garey',
     'Jean-Philippe Peguero': 'Jean Philippe Peguero',
     'Jeay Heaps': 'Jay Heaps',
-    #u'Jair Ben\xedtez': 'Jair Benitez',
     'Jose Torres': 'José Francisco Torres',
     
     'Keiran O\'brien': 'Keiran O\'Brien',
@@ -7736,7 +7673,6 @@ onames = {
     'Luis Angel Land\xedn': 'Luis Ángel Landín',
     'Luis Angel Landín': 'Luis Ángel Landín',
     'Leighton O\'brien': 'Leighton O\'Brien',
-    #u'Leo Gonz\xe1lez': 'Leo Gonzalez',
     'Lee Young Jin': 'Lee Young-jin',
     'Lee Young-jin': 'Raúl Lara',
     'Leonel Alvarez': 'Leonel Álvarez',
@@ -7763,7 +7699,7 @@ onames = {
     'Mike Ambersley': 'Michael Ambersley',
     'Michael Fucito': 'Mike Fucito',
     'Momcilo Gavric': 'Momcilo Gavrić',
-    #u'Michael Uma\xf1a': 'Michael Umana',
+
     'Michael* Ueltschey': 'Michael Ueltschey',
     'MICHAEL Mcfarland': 'Michael McFarland',
     'Michael Mcfarland': 'Michael McFarland',
@@ -7787,7 +7723,6 @@ onames = {
     'Maxi Viera': 'Max Viera',
     'Michael N\'doumbe': 'Michael N\'Doumbe',
     'Mike DuHaney': 'Mike Duhaney',
-    #u'Milton Rodr\xedguez': 'Milton Rodriguez',
     'Miguel Lopez': 'Miguel López',    
     'Miguel Montano': 'Miguel Montaño',
     'Martin Machon': 'Martín Machón',
@@ -7803,7 +7738,6 @@ onames = {
 
     'Nelson Gonzalez': 'Nelson González',
     'Nelson Gonzalez': 'Nelson González',
-    #'Nelson Gonz\xe1lez': 'Nelson Gonzalez',
 
     'Neil Mcnab': 'Neil McNab',
     'Nick Desantis': 'Nick De Santis',
@@ -7816,10 +7750,8 @@ onames = {
     'Omiz Namizi': 'Omid Namizi',
     'O\'neil Peart' :'O\'Neil Peart',
     'O’Brian White': 'O\'Brian White',
-    #u'O\u2019Brian White': 'O\'Brian White',
     'Orlando Perez': 'Orlando Pérez',
     'Orando Perez': 'Orlando Pérez',
-    #u'Orlando P\xe9rez': 'Orlando Perez',
     'Olukorede Aiyegbusi': 'Korede Aiyegbusi',
     'Oscar Pareja': 'Óscar Pareja',
     
@@ -7840,7 +7772,7 @@ onames = {
     'Petter Villegas-Espana': 'Petter Villegas',
     'Peter Villegas': 'Petter Villegas',
     'Paul O\'donnell': 'Paul O\'Donnell',
-    #u'Pablo Hern\xe1ndez': 'Pablo Hernandez',
+
     'Paul Decastro': 'Paul DeCastro',
     'Peter Lowry.': 'Peter Lowry',
     'Patrick Mcsorely': 'Patrick McSorely',
@@ -7863,20 +7795,16 @@ onames = {
     'Raul Diaz Arce': 'Raúl Díaz Arce',
     'Ronnie O’Brien': 'Ronnie O\'Brien',
     'Ronnie O\'brien': 'Ronnie O\'Brien',
-    #u'Ronnie O\u2019Brien': 'Ronnie O\'Brien',
     
     'Ronald Cerritos': 'Rónald Cerritos',
     'Ross Mckenzie': 'Ross McKenzie',
     'Rauwshawn McKenzie': 'Rauwshan McKenzie',
-    #u'Ram\xf3n S\xe1nchez': 'Ramon Sanchez',
     'Robert Diguardi': 'Robert DiGuardi',
     'Remiro Corrales': 'Ramiro Corrales',
     'Raimo De Vries': 'Raimo de Vries',
     'Ruben Hernandez': 'Ruben Dario Hernandez',
     'Ryan De la Fuente': 'Bryan de la Fuente',
     'Rachid El Khalifi': 'Rachid el Khalifi',
-    #u'Rodrigo L\xf3pez': 'Rodrigo Lopez',
-    #u'Rafael M\xe1rquez': 'Rafael Marquez',
     'Robbie Aristidemo': 'Robbie Aristodemo',
     'Ross Labauex': 'Ross LaBauex',
     'Sercan Guvenisik': 'Sercan Güvenışık',
@@ -7895,12 +7823,10 @@ onames = {
     'Steve Yallop': 'Frank Yallop',
     'Srdjan Djekanovic': 'Srdjan Djekanović',
     'Stefam Miglioranzi': 'Stefani Miglioranzi',
-    #u'St\xe9phane Auvray': 'Stephane Auvray',
     'Stephen DeRoux': 'Stephen deRoux',
     'Stuart Macrury': 'Stuart MacRury',
     'STUART Macrury': 'Stuart MacRury',
     'Sean Mcauley': 'Sean McAuley',
-    #u'S\xe9bastien Le Toux': 'Sebastien Le Toux',
     'Steve* Shak': 'Steve Shak',
     'Shawn Francis': 'Shaun Francis',
     'Stephen Wondolowski': 'Steve Wondolowski',
@@ -8490,7 +8416,7 @@ onames = {
     
     }
 
-names.update(onames)
+
 
 
 
@@ -8609,9 +8535,14 @@ usmnt = {
     'H.McCully': 'Henry McCully',
     'C.Spalding': 'Dick Spalding',
     }
-names.update(usmnt)
 
+names.update(nx)
+names.update(onames)
+names.update(basic)
 names.update(nonpeople)
+names.update(partial)
 names.update(last_names)
+names.update(usmnt)
+names.update(ltrack)
 
 check_for_name_loops()

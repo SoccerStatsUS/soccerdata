@@ -18,7 +18,10 @@ places = {
     'Away': 'away',
     'Neutral': 'neutral',
 
+    'Memorial Coliseum, Los Angeles': 'Los Angeles Memorial Coliseum',
+    'Central Park Stadium, Montevideo, Uruguay': 'Parque Central',
 
+    'Estadio Monumental, Lima': 'Estadio Monumental "U"',
 
     'Yaounde, Cameroon': 'Yaoundé, Cameroon',
     'Ciudad Juarez, Mexico': 'Ciudad Juárez, Mexico',
@@ -85,7 +88,10 @@ places = {
     'Independence Park, Kingston, Jamaica': 'Independence Park (Jamaica)',
     'Estadio Monumental, Guayaquil, Ecuador': 'Estadio Monumental Isidro Romero Carbo',
     'Estadio Campus Municipal, Maldonado, Uruguay':    'Estadio Suppici',
+
     'Estadio Olimpico, Caracas, Venezuela': 'Estadio Olímpico de la UCV',
+    'Estadio Olimpico, Caracas': 'Estadio Olímpico de la UCV',
+
     'Independiente Stadium, Avellaneda, Argentina': 'Estadio de Independiente',
     'Estadio Centenario, Armenia, Colombia': 'Estadio Centenario de Armenia',
     'Estadio Monumental, Buenos Aires, Argentina': 'Estadio Monumental Antonio Vespucio Liberti',
@@ -143,7 +149,7 @@ places = {
 
     
     'Layou, StVincent&amp;Grenadines': 'Layou, St. Vincent and Grenadines',
-    #'Los Angeles Memorial Coliseum': 'Memorial Coliseum, Los Angeles, CA',
+
     'Memorial Stadium Los Angeles': 'Los Angeles Memorial Coliseum',
     'Memorial Stadium, Long Beach, CA': 'Veterans Memorial Stadium, Long Beach, CA',
 

@@ -61,6 +61,10 @@ slugs = {
 
 
 world = {
+    'Dublín': 'Dublin',
+    'Santa Bárbara': 'Santa Barbara',
+    'Vitoria': 'Vitória',
+    'Thespa Kusatsu': 'Thespakusatsu Gunma',
 
     'Boston Aztecs': 'Boston Aztec',
     'Aztec MA': 'Boston Aztec',
@@ -1592,8 +1596,8 @@ world = {
     'Leeds United - England': 'Leeds United',
 
     'Leicester City - England': 'Leicester City',
-    'Liverpool': 'Liverpool F.C.',
-    'Liverpool FC': 'Liverpool F.C.',
+    'Liverpool F.C.': 'Liverpool',
+    'Liverpool FC': 'Liverpool',
 
     'Manchester City': 'Manchester City F.C.',
 
@@ -1832,16 +1836,16 @@ world = {
     'Danubio': 'Danubio FC',
     'Defensor': 'Defensor SC',
     'Defensor Sporting': 'Defensor SC',
-    'Liverpool (Montevideo)': 'Liverpool FC (Montevideo)',
-    'Liverpool (Uruguay)': 'Liverpool FC (Montevideo)',
+    'Liverpool FC (Montevideo)': 'Liverpool (Montevideo)',
+    'Liverpool (Uruguay)': 'Liverpool (Montevideo)',
     'Nacional de Montevideo': 'Nacional',
     'Club Nacional de Football': 'Nacional',
     'Nacional -- Uruguay': 'Nacional',
     'Nacional (Montevideo)': 'Nacional',
     'Nacional (Uruguay)': 'Nacional',
-    'Penarol': 'C.A. Peñarol',
-    'CA Penarol': 'C.A. Peñarol',
-    'Peñarol': 'C.A. Peñarol',
+    'Penarol': 'Peñarol',
+    'CA Penarol': 'Peñarol',
+    'C.A. Peñarol': 'Peñarol',
     'Racing (Montevideo)': 'Racing Club de Montevideo',
     'River Plate (Uruguay)': 'River Plate (Montevideo)',
 
@@ -4076,8 +4080,14 @@ international = {
     'US Virgin Islands': 'U.S. Virgin Islands',
     #Dominican Rep>, <Team: Dominican Rep.>]
     'Saint Vincent and The Grenadines': 'Saint Vincent and the Grenadines',
+    'St Vincent': 'Saint Vincent and the Grenadines',
     'Cote d\'Ivoire': 'Côte d\'Ivoire',
     'Rumania': 'Romania',
+    'Dominican Rep': 'Dominican Republic',
+    'British Virgin Isl': 'British Virgin Islands',
+    'St. Thomas': 'Saint Thomas',
+    'French St Martin': 'French Saint Martin',
+    'St. Croix': 'Saint Croix',
 
     'Saint Vincent and Grenadines': 'Saint Vincent and the Grenadines',
     'St. Vincent and Grenadines': 'Saint Vincent and the Grenadines',
@@ -4117,8 +4127,9 @@ international = {
     'Southafrica': 'South Africa',
     'Nueva Zealandia': 'New Zealand',
 
-    'Mexico': 'México',
-    'Peru': 'Perú',
+    
+    'México': 'Mexico', 
+    'Perú': 'Peru', 
 
 
     'Côte d\'Ivoire (Ivory Coast)': 'Côte d\'Ivoire',

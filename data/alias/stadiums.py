@@ -228,7 +228,7 @@ stadiums = {
     'Estadio Agustin Tovar': 'Estadio Agustín Tovar',
     'Estadio La Carolina': 'Estadio Agustín Tovar',
     'Estadio Brigido Irarte': 'Estadio Brígido Iriarte',
-    'Estadio Jose Luis Meiszner': 'Estadio Centenario Dr. José Luis Meiszner',
+
 
 
     # Suriname
@@ -267,10 +267,13 @@ stadiums = {
     'Estadio Olímpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
 
     # Brazil
+    'Vila Belmiro': 'Estádio Urbano Caldeira',
+    'Estadio Palestra Italia': 'Estádio Palestra Itália',
     'Estadio Raimundo Sampaio': 'Estádio Independência',
     'Centro Esportivo Miecimo da Silva': 'Centro Esportivo Miécimo da Silva',
     'Estadio Municipal Paulo Machado de Carvalho': 'Estádio do Pacaembu',
     'Estadio do Pacaembu': 'Estádio do Pacaembu',
+    'Estadio Pacaembu': 'Estádio do Pacaembu',
     'Pacaembu Stadium': 'Estádio do Pacaembu',
     'Maracana': 'Estádio do Maracanã',
     'Maracana Stadium': 'Estádio do Maracanã',
@@ -337,6 +340,7 @@ stadiums = {
     'Estadio Nacional de Chile': 'Estadio Nacional Julio Martínez Prádanos',
     'Estadio Nacional (Chile)': 'Estadio Nacional Julio Martínez Prádanos',
     'Estadio Nacional Julio Martinez': 'Estadio Nacional Julio Martínez Prádanos',
+    'Estadio Nacional (Santiago)': 'Estadio Nacional Julio Martínez Prádanos',
 
     # France
     'Geoffrey Prichard Stadium': 'Stade Geoffroy-Guichard',
@@ -408,12 +412,14 @@ stadiums = {
     'Estadio da Luz': 'Estádio da Luz',
 
     # Venezuela
+    'Estadio Pueblo Nuevo': 'Estadio Polideportivo de Pueblo Nuevo',
     'Estadio Jose Pachencho Romero': 'Estadio José Pachencho Romero',
     'Estadio Jose Panchencho Romero': 'Estadio José Pachencho Romero',
     'Estadio Jose Panchenco Romero': 'Estadio José Pachencho Romero',
     'Estadio Jose Pachenco Romero': 'Estadio José Pachencho Romero',
     'Estadio Metropolitano de Merida': 'Estadio Metropolitano de Mérida',
     'Estadio Olimpico de la UCV': 'Estadio Olímpico de la UCV',
+    'Estadio Olimpico UCV': 'Estadio Olímpico de la UCV',
     'Estadio Olimpico (Caracas)': 'Estadio Olímpico de la UCV',
     'Estadio Polideportivo Cachamay': 'Polideportivo Cachamay',
     'Estadio Olimpico de Caracas': 'Estadio Olímpico de la UCV',
@@ -425,6 +431,7 @@ stadiums = {
     'Tuo Dong Stadium': 'Kunming Tuodong Sports Center',
 
     # Mexico
+    'Estadio Alfonso Lastras Ramirez': 'Estadio Alfonso Lastras',
     'Estadio Nemesio Diez': 'Estadio Nemesio Díez',
     'Estadio Andres Quintana Roo': 'Estadio Quintana Roo',
 
@@ -617,11 +624,17 @@ stadiums = {
     'Estadio Nacional Julio Martinez Pradanos': 'Estadio Nacional Julio Martínez Prádanos',
 
     # Argentina
+    'Estadio Brigadier Estanislao Lopez': 'Estadio Brigadier General Estanislao López',
+    'Estadio Jose Luis Meiszner': 'Estadio Centenario Dr. José Luis Meiszner',
+    'Estadio Centenario (Quilmes)': 'Estadio Centenario Dr. José Luis Meiszner',
     'La Doble Visera': 'Estadio Libertadores de América',
     'Estadio Libertadores de America': 'Estadio Libertadores de América',
     'El Cilindro': 'Estadio Presidente Juan Domingo Perón',
     'Estadio Juan Domingo Peron': 'Estadio Presidente Juan Domingo Perón',
     'Estadio Presidente Juan Domingo Peron': 'Estadio Presidente Juan Domingo Perón',
+
+    'Estadio Monumental Nunez': 'Estadio Monumental Antonio Vespucio Liberti',
+    'El Monumental': 'Estadio Monumental Antonio Vespucio Liberti',
     'Estadio Monumental Antonio Vespuci Liberti': 'Estadio Monumental Antonio Vespucio Liberti',
     'Estadio Antonio V. Liberti': 'Estadio Monumental Antonio Vespucio Liberti',
     'River Plate Stadium': 'Estadio Monumental Antonio Vespucio Liberti',
@@ -637,11 +650,19 @@ stadiums = {
     'Estadio Victor Agustin Ugarte': 'Estadio Víctor Agustín Ugarte',
 
     # Paraguay
+    'General Pablo Rojas': 'Estadio General Pablo Rojas',
     'Estadio Defensores Del Chaco': 'Estadio Defensores del Chaco',
     'Defensores del Chaco': 'Estadio Defensores del Chaco',
     'Estadio de los Defensores del Chaco': 'Estadio Defensores del Chaco',
 
+    # Ecuador
+    'Estadio La Casa Blanca': 'Estadio de Liga Deportiva Universitaria',
+    'Estadio de LDU': 'Estadio de Liga Deportiva Universitaria',
+    
+
     # Peru
+    'Estadio Garcilaso de la Vega': 'Estadio Garcilaso',
+    'Estadio San Martin de Porres': 'Estadio Alberto Gallardo',
     'Estadio Nacional (Lima)': 'Estadio Nacional de Peru',
     'Estadio Nacional (Peru)': 'Estadio Nacional de Peru',
     'Estadio Monumental U': 'Estadio Monumental "U"',
@@ -770,6 +791,7 @@ stadiums = {
 
     # Rhode Island
     'Marks Stadium': 'Mark\'s Stadium',
+    'Coats Field': 'Coates Field',
 
     # Ohio
     'Crew Stadium': 'Columbus Crew Stadium',
