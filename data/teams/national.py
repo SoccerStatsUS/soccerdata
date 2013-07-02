@@ -3,10 +3,12 @@
 
 import datetime
 
-
-
-
-l = [
+def international(l):
+    for e in l:
+        e['international'] = True
+    return l
+        
+l = international([
     {
         'name': 'Argentina',
         'founded': datetime.datetime(1893, 2, 21),
@@ -1143,11 +1145,5 @@ l = [
         'founded': 1934,
         'country': 'Vanuatu',
         },
+])
 
-
-
-
-
-
-
-]
