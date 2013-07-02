@@ -70,41 +70,49 @@ l = [
         'city': 'London, England',
         'next': 'Corinthian-Casuals F.C.',
         },
+
     {
         'name': 'Birmingham City F.C.',
         'founded': 1875,
         'city': 'Birmingham, England',
         },
+
     {
         'name': 'Eintracht Frankfurt',
         'founded': datetime.datetime(1899, 3, 8),
         'city': 'Frankfurt,Germany',
         },
+
     {
         'name': '1. FC Nuremberg',
         'founded': datetime.datetime(1900, 5, 4),
         'city': 'Nuremberg, Germany',
         },
+
     {
         'name': 'Itzehoer SV',
         'founded': datetime.datetime(1909, 10, 3),
         'city': 'Itzehoe, Germany',
         },
+
     {
         'name': 'Stuttgart Kickers',
         'founded': datetime.datetime(1899, 9, 21),
         'city': 'Stuttgart, Germany',
         },
+
     {
         'name': 'Sheffield United',
         'founded': datetime.datetime(1889, 3, 22),
         'city': 'Sheffield, England',
         },
+
     {
         'name': 'Newcastle United',
         'founded': datetime.datetime(1892, 12, 9),
         'city': 'Newcastle, England',
         },
+
     {
         'name': 'Fylkir',
         'founded': datetime.datetime(1967, 5, 28),
@@ -116,17 +124,18 @@ l = [
         'founded': 1907,
         'city': 'Sauðárkrókur, Iceland',
         },
+
     {
         'name': 'Fulham F.C.',
         'founded': datetime.datetime(1879, 8, 16),
         'city': 'Fulham, England,'
         },
+
     {
         'name': 'GIF Sundsvall',
         'founded': datetime.datetime(1903, 8, 25),
         'city': 'Sundsvall, Sweden',
         },
-
 
     {
         'name': 'Viking FK',
@@ -416,6 +425,15 @@ l = [
     {
         'name': 'West Ham United',
         'founded': 1895,
+        'city': 'London, England',
+        },
+
+
+
+    {
+        'name': 'Upton Park F.C.',
+        'founded': 1866,
+        'dissolved': 1911,
         'city': 'London, England',
         },
 
@@ -1267,6 +1285,13 @@ l = [
         },
 
     {
+        'name': 'FC Swarovski Tirol',
+        'founded': 1986,
+        'dissolved': 1992,
+        'city': 'Innsbruck, Switzerland',
+        },
+
+    {
         'name': 'Hapoel Tel Aviv F.C.',
         'founded': datetime.datetime(1927, 5, 31),
         'city': 'Tel Aviv, Israel',
@@ -1766,11 +1791,7 @@ l = [
         'founded': datetime.datetime(1885, 6, 1),
         'city': 'Dunfermline, Scotland',
         },
-    {
-        'name': 'Eintracht Braunschwieg',
-        'founded': datetime.datetime(1895, 12, 15),
-        'city': 'Braunschweig, Germany',
-        },
+
     {
         'name': 'Dundee United',
         'founded': datetime.datetime(1909, 5, 24),
@@ -1813,11 +1834,6 @@ l = [
         'city': 'Elfsborg, Sweden',
         },
 
-    {
-        'name': 'Palermo',
-        'founded': 1900,
-        'city': 'Palermo, Italy',
-        },
     {
         'name': 'Valenciennes FC',
         'founded': 1913,

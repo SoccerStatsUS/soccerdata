@@ -11,6 +11,14 @@ l = [
         'founded': 1994,
         'dissolved': 1995,
         },
+
+    {
+        'name': 'Las Vegas Quicksilvers',
+        'city': 'Las Vegas, NV',
+        'founded': 1976,
+        'dissolved': 1978,
+        },
+
     {
         'name': 'Las Vegas Seagulls',
         'city': 'Las Vegas, NV',

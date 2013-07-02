@@ -20,7 +20,7 @@ d = {
         ('1962', 'America Rio'),
         ('1963 Section I', 'West Ham'),
         ('1963 Section II', 'Gornik Zabrze'),
-        ('1963', 'Wes Ham'),
+        ('1963', 'West Ham'),
         ('1964 Section I', 'Werder Bremen'),
         ('1964 Section II', 'Zaglebie Sosnowiec'),
         ('1964', 'Zaglebie Sosnowiec'),

@@ -140,15 +140,6 @@ l = [
         'capacity': 14000,
         },
 
-
-
-    {
-        'name': 'Stade Félix-Bollaert',
-        'location': 'Lens, France',
-        'opened': 1933,
-        'capacity': 41229,
-        },
-
     {
         'name': 'Stade Municipal de Toulouse',
         'location': 'Toulouse, France',

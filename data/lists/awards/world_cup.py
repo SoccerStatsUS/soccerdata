@@ -8,7 +8,7 @@
 # Bronze Ball awards as the second and third most outstanding players in the tournament respectively.
 
 
-d = {
+world_cup = {
     'competition': 'FIFA World Cup',
     'team_data': ['Champion'],
 
@@ -352,4 +352,92 @@ d2 = {
         ],
 
                       
+}
+
+
+u20 = {
+    'competition': 'FIFA U-20 World Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1977, 'Soviet Union'),
+        (1979, 'Argentina'),
+        (1981, 'West Germany'),
+        (1983, 'Brazil'),
+        (1985, 'Brazil'),
+        (1987, 'Yugoslavia'),
+        (1989, 'Portugal'),
+        (1991, 'Portugal'),
+        (1993, 'Brazil'),
+        (1995, 'Argentina'),
+        (1997, 'Argentina'),
+        (1999, 'Spain'),
+        (2001, 'Argentina'),
+        (2003, 'Brazil'),
+        (2005, 'Argentina'),
+        (2007, 'Argentina'),
+        (2009, 'Ghana'),
+        (2011, 'Brazil'),
+        #(2013,
+        ],
+
+    'Golden Ball': [
+        (1977, 'Volodymyr Bessonov'),
+        (1979, 'Diego Maradona'),
+        (1981, 'Romulus Gabor'),
+        (1983, 'Geovani'),
+        (1985, 'Paulo Silas'),
+        (1987, 'Robert Prosinecki'),
+        (1989, 'Bismarck'),
+        (1991, 'Emilio Peixe'),
+        (1993, 'Adriano'),
+        (1995, 'Caio'),
+        (1997, 'Nicolas Olivera'),
+        (1999, 'Seydou Keita'),
+        (2001, 'Javier Saviola'),
+        (2003, 'Ismail Matar'),
+        (2005, 'Lionel Messi'),
+        (2007, 'Sergio Aguero'),
+        (2009, 'Dominic Adiyiah'),
+        (2011, 'Henrique'),
+        ],
+}
+
+u17 = {
+    'competition': 'FIFA U-17 World Cup',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1985, 'Nigeria'),
+        (1987, 'Soviet Union'),
+        (1989, 'Saudi Arabia'),
+        (1991, 'Ghana'),
+        (1993, 'Nigeria'),
+        (1995, 'Ghana'),
+        (1997, 'Brazil'),
+        (1999, 'Brazil'),
+        (2001, 'France'),
+        (2003, 'Brazil'),
+        (2005, 'Mexico'),
+        (2007, 'Nigeria'),
+        (2009, 'Switzerland'),
+        (2011, 'Mexico'),
+        ],
+
+    'Golden Ball': [
+        (1985, 'William'),
+        (1987, 'Philip Osundu'),
+        (1989, 'James Will'),
+        (1991, 'Nii Lamptey'),
+        (1993, 'Daniel Addo'),
+        (1995, 'Mohamed Kathiri'),
+        (1997, 'Sergio Santamaria'),
+        (1999, 'Landon Donovan'),
+        (2001, 'Florent Sinama-Pongolle'),
+        (2003, 'Cesc Fabregas'),
+        (2005, 'Anderson'),
+        (2007, 'Toni Kroos'),
+        (2009, 'Sani Emmanuel'),
+        (2011, 'Julio Gomez Gonzalez'),
+        ],
 }

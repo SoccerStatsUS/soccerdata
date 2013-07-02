@@ -50,11 +50,6 @@ l = [
         'dissolved': 2001,
         },
 
-    {
-        'name': 'CD Arcense',
-        'city': 'Ciudad Arce, El Salvador',
-        'founded': 1990,
-        },
 
     {
         'name': 'CD FAS',

@@ -186,6 +186,13 @@ l = [
         'capacity': 40000,
         },
 
+    {
+        'name': 'Estadio La Independencia',
+        'location': 'Tunja, Colombia',
+        'opened': 2006,
+        'capacity': 20630,
+        },
+
 
     {
         'name': 'Estadio Malvinas Argentinas',
@@ -273,7 +280,7 @@ l = [
         },
 
     {
-        'name': 'Estádio General Santander',
+        'name': 'Estadio General Santander',
         'location': 'Cucuta, Colombia',
         'opened': 1948,
         'capacity': 42901,
@@ -544,6 +551,13 @@ l = [
         'location': 'Brasilia, Brazil',
         'opened': datetime.datetime(1974, 3, 10),
         'capacity': 42200,
+        },
+
+    {
+        'name': 'Estádio Palestra Itália',
+        'location': 'Sao Paulo, Brazil',
+        'opened': datetime.datetime(1902, 5, 3),
+        'capacity': 27650,
         },
 
 
@@ -830,9 +844,6 @@ l = [
         'opened': datetime.datetime(1940, 4, 27),
         'capacity': 40199,
         },
-
-
-
 
     {
         'name': 'Estadio Garcilaso',
@@ -1143,12 +1154,7 @@ l = [
         'capacity': 32000,
         }, 
 
-    {
-        'name': 'Estádio Vila Capanema',
-        'location': 'Curitiba, Bolivia',
-        'opened': datetime.datetime(1947, 1, 23),
-        'capacity': 20000
-        }, 
+
 
     {
         'name': 'Estadio Santa Laura-Universidad SEK',

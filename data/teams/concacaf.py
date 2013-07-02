@@ -1106,13 +1106,6 @@ l = [
         },
 
 
-
-    {
-        'name': 'Leo Victor',
-        'founded': 1934,
-        'city': 'Paramaribo, Suriname',
-        },
-
     # Belize
 
     {

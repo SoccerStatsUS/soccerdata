@@ -188,9 +188,8 @@ def process_olympics_awards():
 def process_conmebol_awards():
     from soccerdata.data.lists.awards.conmebol2 import copa_merconorte, copa_mercosur, copa_sudamericana, masters, copa_conmebol, copa_tie, copa_aldao, recopa_sudamericana
     from soccerdata.data.lists.awards.conmebol import copa_libertadores
-    # + process_awards(copa_tie) 
-    #return process_awards(copa_merconorte) + 
-    return process_awards(copa_mercosur) + process_awards(copa_libertadores) + process_awards(copa_sudamericana) + process_awards(masters) + process_awards(copa_conmebol) + process_awards(copa_tie) + process_awards(copa_aldao) + process_awards(recopa_sudamericana)
+
+    return process_awards(copa_merconorte) + process_awards(copa_mercosur) + process_awards(copa_libertadores) + process_awards(copa_sudamericana) + process_awards(masters) + process_awards(copa_conmebol) + process_awards(copa_tie) + process_awards(copa_aldao) + process_awards(recopa_sudamericana)
 
 
 
@@ -294,8 +293,8 @@ def process_pdl_awards():
     return process_awards(usl.usl_pdl)
 
 def process_world_cup_awards():
-    from soccerdata.data.lists.awards.world_cup import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards.world_cup import world_cup, u20, u17
+    return process_awards(world_cup) + process_awards(u20) + process_awards(u17)
 
 
 def process_women_awards():

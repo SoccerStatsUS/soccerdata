@@ -10,11 +10,10 @@ from utils import get_id
 from soccerdata.cache import data_cache
 from soccerdata.mongo import soccer_db
 
-
-
 nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/nasl'
 nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d2/npsl.jose'
 
+# Merge into alias?
 foreign_map = {
     'Varzim': 'Varzim S.C.',
     'varzim': 'Varzim S.C.',
@@ -61,7 +60,7 @@ simple_map = {
     'San Jose': 'San Jose Earthquakes',
     'Team America': 'Team America',
     'St. Louis': 'St. Louis Stars',
-    'Las Vegas': 'Las Vegas Quicksilver',
+    'Las Vegas': 'Las Vegas Quicksilvers',
     'New England': 'New England Tea Men',
     'San Antonio': 'San Antonio Thunder',
     'Denver': 'Denver Dynamos',
@@ -92,8 +91,6 @@ ambig_map = {
     'Philadelphia': 'Philadelphia Atoms',
     'Atlanta': 'Atlanta Chiefs',
     }
-
-
 simple_map.update(ambig_map)
 
 
@@ -141,6 +138,7 @@ season_map = {
     }
 
 
+# Put this in competition aliases?
 competition_map = {
     'NASL': 'North American Soccer League',
     'NASL Playoffs': 'North American Soccer League Playoffs',
@@ -150,7 +148,7 @@ competition_map = {
     }
 
 
-def load_appearance_rosters():
+def load_rosters():
     # For converting Colin Jose name abbreviations into actual names.
     d = {}
     season = None
@@ -158,6 +156,9 @@ def load_appearance_rosters():
     f = open(NASL_ROSTERS_DIR)
     for line in f:
         if not line.strip():
+            continue
+
+        if line.startswith('Competition'):
             continue
 
         if line.startswith('Season:'):
@@ -290,7 +291,7 @@ class GameProcessor(object):
 
         self.delimiter = delimiter
 
-        self.rosters = load_appearance_rosters()
+        self.rosters = load_rosters()
 
 
     def consume_row(self, row):

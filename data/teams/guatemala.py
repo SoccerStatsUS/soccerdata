@@ -157,10 +157,6 @@ l = [
         'city': 'Asunción Mita, Guatemala',
         },
 
-    {
-        'name': 'Deportivo Teculután',
-        'city': 'Teculután, Guatemala',
-        },
 
     {
         'name': 'Deportivo Xinabajul',

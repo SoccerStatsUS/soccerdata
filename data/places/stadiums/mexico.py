@@ -191,7 +191,7 @@ l = [
 
     {
         'name': 'Estadio Sergio Leon Chavez',
-        'location': 'Irapuato Mexico',
+        'location': 'Irapuato, Mexico',
         'opened': datetime.datetime(1969, 3, 23),
         'capacity': 32784,
         },
