@@ -108,16 +108,18 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-
-
+    load_concacaf()
     load_world_international()
-
+    load_mls() 
+    load_concacaf_international()
+    load_usmnt()
+    load_world()
     load_conmebol()
 
 
     load_uncaf_international()
-    load_usmnt()
-    load_concacaf_international()
+
+
 
     load_nasl() 
     load_women()
@@ -128,12 +130,12 @@ def load_games():
     load_oceania()
 
     load_mexico()
-    load_concacaf()
+
     load_uncaf()
 
     load_chile()
 
-    load_world()
+
     load_colombia()
     load_ecuador()
 
@@ -148,7 +150,7 @@ def load_games():
     load_usl()
 
     load_usa_cups()
-    load_mls() 
+
     load_asl()  
     load_early_friendlies()
     load_modern_friendlies()
@@ -312,7 +314,10 @@ def load_uncaf():
     # Guatemala
     load_standings_standard('uncaf', 'domestic/country/guatemala3')
     #generic_load(soccer_db.uncaf_awards, awards.process_guatemala_awards)
-    load_games_standard('uncaf', 'domestic/country/guatemala/guatemala')
+
+    # Whoops! deleted these?
+    #load_games_standard('uncaf', 'domestic/country/guatemala/guatemala')
+
     for e in range(1996, 2010):
         load_games_standard('uncaf', 'domestic/country/guatemala/league/%s' % e)
 
@@ -1104,7 +1109,8 @@ def load_concacaf():
     load_games_standard('concacaf', 'domestic/confederation/concacaf/giantscup')
     load_games_standard('concacaf', 'domestic/confederation/concacaf/recopa')
     load_games_standard('concacaf', 'domestic/confederation/concacaf/superliga')
-    load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/league')
+    for e in range(2008, 2014):
+        load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/league/%s' % e)
     generic_load(soccer_db.concacaf_awards, awards.process_concacaf_awards)
 
     load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/2000')
