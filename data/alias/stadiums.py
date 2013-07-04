@@ -24,9 +24,11 @@ def get_stadium(s):
 
 sd = {}
 
-stadiums = {
 
+misc = {
+}
 
+world = {
 
     'Estadio Bella Vista': 'Estadio Bellavista',
     'Estadio Casa Blanca': 'Estadio de Liga Deportiva Universitaria',
@@ -61,8 +63,6 @@ stadiums = {
     'Estadio Olimpico Metropolitano': 'Estadio Olímpico Metropolitano',
     'Estadio Jorge Calero Suarez': 'Estadio Jorge Calero Suárez',
 
-    # British Virgin Islands
-    'AO Shirley Recreational Grounds': 'A.O. Shirley Recreation Ground',
 
     'Centro Epsortivo Miecimo da Silva': 'Centro Esportivo Miécimo da Silva',
     'Estadio General Severiano': 'Estádio de General Severiano',
@@ -105,8 +105,7 @@ stadiums = {
 
     'Estadio Chateau Carreras': 'Estadio Mario Alberto Kempes',
 
-    # Greece
-    'Karaiskaki': 'Karaiskakis Stadium',
+
 
     'Jose Zorrilla': 'Estadio Nuevo José Zorrilla',
 
@@ -229,7 +228,16 @@ stadiums = {
     'Estadio La Carolina': 'Estadio Agustín Tovar',
     'Estadio Brigido Irarte': 'Estadio Brígido Iriarte',
 
+    'St. George Cricket Grounds': 'St. George\'s Cricket Grounds',
+    'La Beaujoire': 'Stade de la Beaujoire',
+    'Pocitos': 'Estadio Pocitos',
 
+
+    # British Virgin Islands
+    'AO Shirley Recreational Grounds': 'A.O. Shirley Recreation Ground',
+
+    # Greece
+    'Karaiskaki': 'Karaiskakis Stadium',
 
     # Suriname
     'Andre Kamperveen Stadion': 'André Kamperveen Stadion',
@@ -250,18 +258,12 @@ stadiums = {
     # England
     'Arnos Vale Ground': 'Arnos Vale Stadium',
     'Loftus Road Stadium': 'Loftus Road',
-
     'Wembley': 'Wembley Stadium',
     'City of Coventry Stadium': 'Ricoh Arena',
-
-    'St. George Cricket Grounds': 'St. George\'s Cricket Grounds',
-    'La Beaujoire': 'Stade de la Beaujoire',
-    'Pocitos': 'Estadio Pocitos',
 
     # Saudi Arabia
     'King Fahd International Stadium': 'King Fahd Stadium',
     'King Fahd II Stadium': 'King Fahd Stadium',
-
 
     # Dominican Republic
     'Estadio Olímpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
@@ -364,7 +366,6 @@ stadiums = {
 
 
     # Italy
-
     'Stadio San Siro': 'San Siro',
     'Stadio Nazionale PNF': 'Stadio Nazionale del PNF',
     'Stadio Benito Mussolini': 'Stadio Olimpico di Torino',
@@ -520,7 +521,7 @@ stadiums = {
     'AOL Arena': 'Volksparkstadion',
     'HSH Nordbank Arena': 'Volksparkstadion',
 
-    # Puerto Rico
+l    # Puerto Rico
     'Estadio Juan Ramón Loubriel': 'Estadio Juan Ramon Loubriel',
     'Juan Ramon Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
     'Juan Ramón Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
@@ -689,6 +690,9 @@ stadiums = {
     # Guatemala
     'Estadio Nacional Mateo Flores': 'Estadio Mateo Flores',
     'Estadio Mateo Flores': 'Estadío Mateo Flores',
+}
+
+united_states = {
 
     # United States
     'Bank One Ballpark': 'Chase Field',
@@ -920,7 +924,6 @@ stadiums = {
     'Clark\'s Athletic Field': 'Clark\'s Field',
 
 }
-sd.update(stadiums)
 
 
 soccernet_errors = {
@@ -941,5 +944,10 @@ soccernet_errors = {
     'Complexe sportif Claude-Robillard': 'Complexe Sportif Claude-Robillard',
 
 }
+
+sd.update(misc)
+sd.update(world)
+sd.update(united_states)
 sd.update(soccernet_errors)
+
     
