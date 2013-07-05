@@ -10,8 +10,8 @@ Season: 1951
 * Rio de Janeiro Group, CR Vasco da Gama (Brazil, 1950 Rio de Janeiro Champions), Sporting CP (Portugal, 1950/51 Champions), FK Austria (Austria, 1949/50 Champions), Nacional CF (Uruguay, 1950 Champions)
 * São Paulo Group: SE Palmeiras (Brazil, 1950 São Paulo Champions), Olympique GC Nice (France, 1950/51 Champions), FK Crvena Zvezda (Yugoslavia, 1951 Champions), FC Juventus (Italy, 1949/50 Champions)
 
-Round: Group Stage
-Group: Rio de Janeiro Group 
+Round: Group
+Group: Rio de Janeiro
    
 6/30/1951; Austria Wien ; 4-0; Nacional; Maracana
 7/1/1951; Vasco da Gama ; 5-1; Sporting CP; Maracana        
@@ -30,22 +30,19 @@ Group: São Paulo
 7/8/1951; Palmeiras ;  0-4; Juventus; Estadio do Pacaembu                        
   
 Round: Semifinals
- 
-* São Paulo semifinal
+Group:
 
 7/12/1951; Austria Wien ;  3-3; Juventus; Estadio do Pacaembu                     
 7/14/1951; Juventus ;  3-1; Austria Wien; Estadio do Pacaembu                     
-
-* Rio de Janeiro semifinal  
 
 7/12/1951; Vasco da Gama ;  1-2; Palmeiras; Estadio do Pacaembu                   
 7/15/1951; Vasco da Gama ;  0-0; Palmeiras; Estadio do Pacaembu                   
 
 Round: Finals
 
-7/18/1951; Palmeiras ;  1-0; Juventus; São Paulo
+7/18/1951; Palmeiras; 1-0; Juventus; São Paulo
 
-7/22/1951; Juventus ;  2-2; Palmeiras; Maracana; Tordjan (France), Greig (England), Papovic (Yugoslavia)
+7/22/1951; Juventus; 2-2; Palmeiras; Maracana; Tordjan (France), Greig (England), Papovic (Yugoslavia)
 Praest, Boniperti; Rodrigues, Liminha
 Palmeiras: Fábio; Salvador, Juvenal; Túlio, Luís Villa, Dema; Lima, Ponce de León, Liminha, Jair, Rodrigues
 * coach: Ventura Cambon;
@@ -93,15 +90,14 @@ Notes: First win by a Paraguayan club over a European one.
 7/19/1952; Corinthians ;  2-1; Austria Wien; Pacaembu                        
 
 Round: Semifinals
-* São Paulo semifinal
+Group: 
 
-; Corinthians ;  2-1; Penarol; Sao Paulo
+; Corinthians ;  2-1; Penarol; Sao Paulo, Brazil
 
-; Corinthians; w/o; Penarol; Sao Paulo
+; Corinthians; w/o; Penarol; Sao Paulo, Brazil
+* why not played? date?
  
-* Rio de Janeiro semifinal  
-
-7/23/1952; Fluminense ;  1-0; Austria Wien; Rio de Janeiro            
+7/23/1952; Fluminense ;  1-0; Austria Wien; Rio de Janeiro, Brazil
 Didi 73;
 
 7/27/1952; Fluminense ;  5-2; Austria Wien            
@@ -165,6 +161,7 @@ Avalos; Ernani
 Benedito; Souzinha
  
 Round: Semifinals
+Group: 
  
 6/24/1953; Vasco da Gama;  4-2; Corinthians; Maracana
 Pinga, Pinga, Maneca, Ipojucan; Baltazar, Vermelho
@@ -192,5 +189,4 @@ Pinga, Pinga; Pé de Valsa
 
 * Winners: Vasco da Gama
 * Topscorer: Pinga (Vasco da Gama) - 6 goals
-
 * The main team of Vasco da Gama was: Ernâni, Augusto, Haroldo - Eli, Danilo, Jorge - Sabará, Maneca, Ipojucan, Pinga, Dejair.  Coach: Flávio Costa

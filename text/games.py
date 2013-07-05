@@ -229,6 +229,21 @@ class GeneralProcessor(object):
                 self.group = None
             return
 
+        if line.startswith("Penalty kick:"):
+            # starting to implement
+            data = tag_data(line, "Penalty kick:")
+            try:
+                t1_pks, t2_pks = [int(e) for e in data.split('-')]
+            except ValueError:
+                try:
+                    t1_kickers, t2_kickers = [e.split(',') for e in data.split(';')]
+                except ValueError:
+                    import pdb; pdb.set_trace()
+
+            return
+
+
+
         # Zone should be group?
         if line.startswith("Zone:"):
             self.group = tag_data(line, "Zone:")

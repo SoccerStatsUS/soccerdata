@@ -10,7 +10,7 @@ Group: Group A
 
 5/12/1991; Panama; 2-0; Honduras; Panama; Ulloa; 10000
 
-5/19/1991; Honduras; 3-0; Panama; Honduras; P. Guevara; 21000
+5/18/1991; Honduras; 3-0; Panama; Honduras; P. Guevara; 21000
 
 Group: Group B
 
@@ -19,6 +19,7 @@ Group: Group B
 4/25/1991; El Salvador; 2-0; Nicaragua; El Salvador
 
 Round: Final Round
+Group: 
 
 5/26/1991; El Salvador; 0-0; Guatemala; San Jose, Costa Rica
 5/26/1991; Costa Rica; 2-0; Honduras; San Jose, Costa Rica
@@ -40,7 +41,6 @@ Astua 13, Astua 42, Rodriguez 37, Arguedas 60, Gomez 61, Gomez 78;
 
 2/19/1993; Nicaragua; 0-2; Costa Rica; Nicaragua
 ; Rodriguez 27, Paniagua 40
-
 
 Round: Final Round
 
@@ -99,8 +99,8 @@ Julio Rodas 21;
 12/3/1995; Honduras; 2-0; Guatemala; Santa Ana, El Salvador
 Suazo 47, Nunez 89;
 
-
 Round: Semifinals
+Group: 
 
 12/7/1995; Honduras; 1-1; Costa Rica; San Salvador, El Salvador
 Williams 55; Fonseca 60
@@ -130,7 +130,6 @@ Round: Preliminary Round
 ; Guevara
 
 Round: First Round
-
 Group: Group A
 
 4/16/1997; Guatemala; 1-1; Costa Rica; Estadio Mateo Flores; 16000
@@ -145,7 +144,6 @@ Nicaragua: Juan Orellana, Otoniel Olivas (Morales 85), David Taylor, Hamilton We
 
 4/20/1997; Guatemala; 6-1; Nicaragua; Estadio Mateo Flores; Nelson Calix
 Martín Machón 2, Juan Carlos Plata 5, Juan Carlos Plata (pk) 40, Edwin Westphal 13, Juan Manuel Funes 63, Oscar Samoyoa 75; Jose Maria Bermudez 31
-
 
 Group: Group B
 
@@ -167,6 +165,7 @@ El Salvador: Alvaro Alfaro, Roberto Hernández, Vladan Vicevic, Mario Meza (Guil
 Panama: Donaldo González, Rolando Palma, Daniel Gómez, Alfredo Poyatos, Jahir Serrano, Juan Cubillas, Augustin Salinas (Oswaldo Solanilla), Percival Piggott, Patricio Guevara (Radamés Avila), Neftalí Díaz, Luis Rodríguez (Augustin Castillo). 
 
 Round: Final Round
+Group: 
 
 4/23/1997; Honduras; 0-4; Costa Rica; Estadio Mateo Flores; Nery Alfaro; 15000
 ; Rolando Fonseca 5, Rolando Fonseca 8, Rolando Fonseca 71, Wilmer López 44
@@ -200,15 +199,11 @@ Guatemala: Edgar Estrada, Germán Ruano, Rolando Cedeño (Oscar Samayoa 46), Eri
 Costa Rica: Erick Lonnis, Hárold Wallace, Rónald González, Luis Marín, Mauricio Wright, Benjamín Myorga, Wilmer López, Luis Arnáez, Oscar Ramírez (Joaquín Guillén 64), Rolando Fonseca (Norman Gómez 85), Allan Oviedo (Gérald Drummond 90). 
 
 
-
-
 Season: 1999
-
 BlockSource: http://www.rsssf.com/tablesg/gold-cam99.html
 
 Round: First Round
-
-Group: Group A
+Group: A
 
 3/17/1999; Costa Rica; 7-0; Belize; Estadio Nacional, San Jose, Costa Rica; Noel Bynoe; 5200
 Paulo Wanchope 2, Rolando Fonseca 17, Rolando Fonseca 72, Froylan Ledezma 27, Froylan Ledezma 32, Jafet Soto 54, Gerald Drummond 79;
@@ -228,7 +223,7 @@ Carlos Pavón 14;
 Costa Rica: Erick Lonnis, Jervis Drummond, Reynaldo Parks, Luis Marín, Sandro Alfaro, Roy Myers (Johnny Murillo 79), Justin Campos, Mauricio Solís (Walter Centeno 46), Rolando Fonseca, Froylán Ledezma (Jafet Soto 46), Paulo Wanchope 
 Honduras: Wilmer Cruz, Iván Guerrero, Ninrod Medina, Reynaldo Clavasquín, Milton Reyes, Amado Guevara (Aminadan Laínez 74), Samuel Caballero, Róbel Bernárdez, Christian Santamaría (Juan Manuel Coello 64), Milton Núñez, Carlos Pavón (Francisco Ramírez 83) 
 
-Group: Group B
+Group: B
 
 3/17/1999; Guatemala; 1-0; Nicaragua; Estadio Nacional, San Jose, Costa Rica; Oscar Bardales; 20000
 Julio Rodas 51;
@@ -246,6 +241,7 @@ El Salvador: Misael Alfaro, William Osorio, Alexander Merino, Roberto Hernández
 Nicaragua: William Espinoza, Ramón Olivas, Ezequiel Lura, Mario Gastch, Miguel Cruz, Norman González, David Taylor (Sergio Molina 65), David Sotizano (Tyrone Acevedo 63), Hamilton West, José Bermudez, Lester Gonzalez (Oscar Blanco 74) 
 
 Round: Final Round
+Group: 
 
 3/24/1999; Costa Rica; 1-0; Guatemala; Estadio Nacional, San Jose, Costa Rica; Leon Pedro Borja
 Rolando Fonseca 34;
@@ -284,15 +280,12 @@ Honduras: Wilmer Cruz, Iván Guerrero, Ninrod Medina, César Clother, Aminadan L
 Guatemala: Edgar Estrada, José Molina (Carlos Ruíz 46), Jorge Pérez, Julio Girón, Engelvert Herrera, Claudio Rojas (Fredy García 80), Erick Miranda, Germán Ruano, Martín Machón, Julio Rodas, Guillermo Ramírez 
 
 
-
 Season: 2001
-
 *BlockSource: http://en.wikipedia.org/wiki/2001_UNCAF_Nations_Cup
 BlockSource: http://www.rsssf.com/tablesg/gold-cam01det.html
 
-Round: Group Stage
-
-Group: Group 1
+Round: Group
+Group: 1
 
 5/23/2001; Honduras; 1-2; Panama; Estadio Olimpico Metropolitano; Brian Hall, Miguel Ramos, Virgilio Ruiz, German Arredondo
 Milton Nunez 45; Jorge Dely Valdes 36, Julio Dely Valdes 67
@@ -327,7 +320,7 @@ Danilo Turcios 41; Deris Umanzor 90
 Honduras: Hugo Caballero, Ivan Guerrero, Rony Morales, Junior Izaguirre, Jaime Rosales, Danilo Turcios (Ronald Maradiaga 70), Edgar Alvarez, Marco Mejia, Carlos Pavon, Milton Nunez, Narcisco Fernandez
 El Salvador: Juan Jose Gomez, William Osorio, Marvin Benitez (Santos Cabrera 72), Jaime Cubias (Deris Umanzor 51), Jorge Rodriguez, Elmer Martinez, Hector Canjura, Rafael Barrientos, Guillermo Garcia, Rudis Corrales, Fredy Gonzalez (Francisco Ramirez 68)
 
-Group: Group 2
+Group: 2
 
 5/23/2001; Costa Rica; 4-0; Belize; Estadio Olimpico Metropolitano; Nery Alfaro, Mariano Quintero, Oscar Guevara, Oscar Bardales
 Rolando Fonseca (pk) 27, Rolando Fonseca 37, Luis Marin 58, Rolando Fonseca 85;
@@ -345,7 +338,7 @@ Costa Rica: Lester Morgan, Robert Arias, Alexander Castro, Austin Berry, Maurici
 Guatemala: Danny Ortiz, Denis Chen, Erick Miranda, Luis Swisher, Gustavo Cabrera (Israel Donis 36), Claudio Rojas, Fredy Garcia (Walter Estrada 66), Eduardo Cocherari, Uwaldo Perez, Mario Acevedo, Dwight Pezzarossi (Elmer Ponciano 46)
 
 Round: Final Round
-
+Group: 
 
 5/30/2001; Panama; 1-2; Costa Rica; Estadio Olimpico Metropolitano; German Arredondo, Miguel Ramos Rizo, Virgilio Ruiz, Mario Ramirez; 160
 Julio Dely Valdes 47; Ronald Gomez 43, Walter Centeno 85
@@ -383,7 +376,6 @@ Panama: Donaldo Gonzalez, Luis Moreno (Neftali Diaz 49), Jose Mario Torres, Feli
 
 
 Season: 2003
-
 BlockSource: http://en.wikipedia.org/wiki/2003_UNCAF_Nations_Cup
 
 Round: Final Round
@@ -428,7 +420,6 @@ Mario Mendez 29, Roberto Brown 36;
 Panama: Ricardo James, Jose Mario Anthony, Clovis Vergara, Gilberto Walter, Juan Carlos Cubilla, Mario Mendez, Gabriel Gomez (Juan Ramon Solis 16), Rodrigo Tello, Neftali Diaz (Joel Solanilla 67), Jose Justavino (Gary Ramos 82), Roberto Brown
 Guatemala: Ricardo Trigueno, Nelson Morales, Pablo Melgar (Carlos Figueroa 83), Denis Chen, Alvaro Jimenez, Fabricio Benitez (Mario Rodriguez 40), Fredy Garcia, Guillermo Ramirez (Gonzalo Romero 77), Fredy Thompson, Mario Acevedo, Carlos Ruiz
 
-
 2/18/2003; Guatemala; 5-0; Nicaragua; Estadio Rommel Fernandez; Roberto Moreno; 4000
 Carlos Ruiz 34, Carlos Ruiz 45, Carlos Ruiz 67, Fredy Garcia 78, Carlos Figueroa 82;
 Guatemala: Ricardo Trigueno, Nelson Morales, Pablo Melgar, Denis Chen, Nestor Martinez, Gonzalo Romero, Fredy Thompson, Guillermo Ramirez, Fredy Garcia (Claudio Albizuris 86), Carlos Ruiz, Cesar Alegria (Carlos Figueroa 55)
@@ -451,7 +442,6 @@ El Salvador: Juan Jose Gomez, Marvin Gonzalez, Julio Castro (William Torres 77),
 Guatemala: Ricardo Trigueno, Nelson Morales, Pablo Melgar, Denis Chen, Alvaro Jimenez, Carlos Figueroa (Claudio Albizuris 88), Gonzalo Romero, Fredy Thompson, Fredy Garcia, Cesar Alegria (Nestor Martinez 53), Mario Acevedo (Mario Rodriguez 80)
 Red Card: Fredy Thompson 89
 
-
 2/21/2003; Panama; 0-1; Nicaragua; Estadio Rommel Fernandez; Joel Aguilar; 7000
 ; Emilio Palacios 83
 Panama: Ricardo James, Joel Solanilla, Gilberto Walter (Anel Canales 32), Jose Mario Anthony, Juan Carlos Cubilla, Mario Mendez, Rodrigo Tello, Neftali Diaz, Victor Mendieta (Juan Ramon Solis 55), Jose Justavino, Roberto Brown (Emmanuel Ceballos 46)
@@ -462,7 +452,6 @@ Amado Guevara 75; Guillermo Ramirez 7, Carlos Figueroa 56
 Guatemala: Ricardo Trigueno, Nelson Morales, Pablo Melgar, Alvaro Jimenez, Denis Chen, Nestor Martinez, Carlos Figueroa (Claudio Albizuris 78), Gonzalo Romero, Guillermo Ramirez (Fabricio Benitez 88), Carlos Ruiz, Mario Acevedo (Mario Rodriguez 46)
 Honduras: Donis Escobar, Sergio Mendoza, Arnold Cruz, Rony Morales, Alex Andino (Francisco Pavon 46), Jose Martinez, Maynor Suazo, Edgar Alvarez, Julio de Leon (Jairo Martinez 46), Amado Guevara, Milton Nunez (Pompilio Cacho 63)
 
-
 2/23/2003; Panama; 0-1; Costa Rica; Estadio Rommel Fernandez; Carlos Batres; 550
 ; Alonso Solis 73
 Costa Rica: Alvaro Mesen, Jervis Drummond, Luis Marin, Carlos Castro, Leonardo Gonzalez, Pablo Chinchilla, Rodrigo Cordero (Danny Fonseca 46), Mauricio Alpizar (Alonso Solis 53), Try Bennett, Steven Bryce, Erick Scott (Alejandro Alpizar 75)
@@ -470,15 +459,12 @@ Panama: Ricardo James, Joel Solanilla (Ruben Tunon 89), Jose Mario Anthony, Gary
 Notes: Emmanuel Ceballos was a 77' sub for somebody on Panama.
 
 
-
 Season: 2005
-
 * BlockSource: http://en.wikipedia.org/wiki/2005_UNCAF_Nations_Cup
 BlockSource: http://www.rsssf.com/tablesg/gold-cam05det.html
 
-Round: First Round
-
-Group: Group A
+Round: First
+Group: A
 
 2/19/2005; Honduras; 5-1; Nicaragua; Estadio Mateo Flores; Roberto Moreno; 5306
 Milton Nunez 19, Milton Nunez 84, Wilmer Velasquez 42, Wilmer Velasquez 51, Wilmer Velasquez 73; Milton Bustos 54
@@ -510,7 +496,7 @@ Gonzalo Romero; Wilmer Velasquez
 Guatemala: Miguel Angel Klee, Nelson Morales, Gustavo Cabrera, Nestor Martinez, Angel Sanabria, Gonzalo Romero, Carlos Castillo (Carlos Figueroa 87), Guillermo Ramirez, Carlos Quinonez, Juan Carlos Plata (Edwin Villatoro 71), Hernan Sandoval
 Honduras: Victor Coello, Astor Henriquez, Darwin Pacheco, Erick Vallecillo, Mario Berrios, Hendry Thomas, Walter Lopez (Milton Reyes 46), Mario Ivan Guerrero (Elkin Gonzalez 33), Wilson Palacios (Denis Ferrera 81), Milton Nunez, Wilmer Velasquez
 
-Group: Group B
+Group: B
 
 2/19/2005; El Salvador; 0-1; Panama; Estadio Mateo Flores; Benito Archundia; 10000
 ; Juan Ramon Solis 77
@@ -529,6 +515,7 @@ Panama: Jaime Penedo, Luis Moreno, Jose Mario Anthony, Luis Henriquez, Armando G
 Costa Rica: Donny Grant, Michael Umana, Berny Pena (Junior Diaz 46), Roy Miller, Douglas Sequeira, Christian Badilla (Erick Scott 60), Geinder Segura, Jafet Soto, Roy Myrie, Jhonny Cubero, Whayne Wilson (Alonso Solis 59)
 
 Round: Semifinals
+Group: 
 
 2/25/2005; Honduras; 1-0; Panama; Estadio Mateo Flores; Rodolfo Sibrian; 11159
 Wilmer Velasquez 72;
@@ -556,10 +543,9 @@ Honduras: Victor Coello, Sergio Mendoza, Darwin Pacheco, Erick Vallecillo, Mario
 
 
 Season: 2007
-
 Round: First Round
 
-Group: Group 1
+Group: 1
 
 2/8/2007; Guatemala; 1-0; Nicaragua; Estadio Cuscatlan; Jose Pineda
 Carlos Quinonez 29;
@@ -590,7 +576,7 @@ Belize: Shane Moody-Orio, Lennox Castillo, Mark Leslie (Ryan Simpson 82), Bernar
 El Salvador: Juan Jose Gomez, Manuel Salazar, Luis Anaya, Victor Velasquez, Victor Merino, Denis Alas (Hector Avalos 87), Gilberto Murgas, Alfredo Pacheco, Eliseo Quintanilla, Alex Erazo, Juan Alberto Diaz
 Guatemala: Ricardo Trigueno, Leonel Noriega, Yonny Flores, Henry Medina, Gustavo Cabrera, Nestor Martinez, Jose Manuel Contreras (Cesar Alegria 46), Marvin Avila (Fredy Garcia 62), Hector de Mata, Carlos Quinonez, Edwin Villatoro (Elmer Ponciano 81)
 
-Group: Group 2
+Group: 2
 
 2/9/2007; Costa Rica; 3-1; Honduras; Estadio Cuscatlan; Benito Archundia
 Rolando Fonseca 4, Rolando Fonseca 70, Leonardo Gonzalez 46; Emil Martinez 58
@@ -608,12 +594,12 @@ Panama: Jaime Penedo, Carlos Rivera (Luis Henriquez 63), Jose Mario Torres, Roma
 Costa Rica: Wardy Alfaro, Jervis Drummond, Freddy Fernandez, Roberto Wong, Leonardo Gonzalez (Michael Barrantes 72), Felix Montoya, Try Benneth, Carlos Hernandez, Rolando Fonseca (Alonso Solis 58), Andy Furtado, Kurt Bernard (Walter Centeno 77)
 
 Round: Fifth Place
+Group:
 
 2/15/2007; Nicaragua; 1-9; Honduras; Estadio Cuscatlan; Joel Aguilar
 Samuel Wilson 31; Jairo Martinez 3, Wilmer Velasquez 6, Wilmer Velasquez 27, Wilmer Velasquez 37, Wilmer Velasquez (pk) 39, Saul Martinez 68, Saul Martinez 80, Saul Martinez 84, Carlos Mejia 78
 Honduras: Donis Escobar, Maynor Figueroa, Junior Izaguirre, Boniek Garcia, Emilio Izaguirre, Mario Beata (Victor Bernardez 72), Wilson Palacios, Jorge Claros, Mauricio Castro, Jairo Martinez (Carlos Mejia 46), Wilmer Velasquez (Saul Martinez 68)
 Nicaragua: Denis Espinoza, Roger Mejia (Franklin Lopez 46), Silvio Aviles, Carlos Alonso, Hevel Quintanilla, Milton Bustos, Eustace Martin (Wilber Sanchez 46), Miguel Masis, Samuel Wilson, Hamilton West (Armando Reyes 20), Emilio Palacios
-
 
 Round: Semifinals
 
@@ -634,7 +620,6 @@ Claudio Albizuris 82;
 Guatemala: Luis Pedro Molina, Leonel Noriega, Henry Medina, Gustavo Cabrera, Nestor Martinez, Claudio Albizuris, Marvin Avila (Jose Manuel Contreras 27), Fredy Thompson, Hector de Mata(Fredy Garcia 66), Edwin Villatoro, Cesar Alegria (Florencio Martinez 77)
 El Salvador: Jose Manuel Gonzalez, Manuel Salazar (Leonel Guevara 22), Luis Anaya, Victor Velasquez, Victor Merino (Josue Naun Galdamez 81), Eliseo Salamanca, Denis Alas, Alfredo Pacheco, Eliseo Quintanilla, Alex Erazo (Juan Alberto Diaz 76), Jose Orlando Martinez
 
-
 Round: Final
 
 2/18/2007; Panama; 1-1; Costa Rica; Estadio Cuscatlan; Carlos Batres
@@ -644,12 +629,10 @@ Costa Rica: Jose Francisco Porras, Jervis Drummond, Victor Cordero (Felix Montoy
 
 
 Season: 2009
-
 BlockSource: http://en.wikipedia.org/wiki/2009_UNCAF_Nations_Cup
 
-Round: First Round
-
-Group: Group A
+Round: First
+Group: A
 
 1/22/2009; El Salvador; 1-1; Nicaragua; Estadio Tiburcio Carias Andino; Carlos Batres; 20000
 Own Goal (Silvio Aviles) 18; Marlon Medina 85
@@ -684,7 +667,7 @@ Honduras: Noel Valladares, Osman Chavez, Erick Norales, Danilo Turcios (Mario Ro
 El Salvador: Miguel Angel Montes, Alexander Escobar, Marvin Gonzalez, Luis Hernandez, Alfredo Pacheco, Shawn Martin (Salvador Coreas 66, Carlos Ayala 80), Ramon Sanchez, William Romero, Eliseo Quintanilla, Christian Castillo (Edwin Miranda 89), Rudis Corrales
 * Check subs here - El Salvador
 
-Group: Group B
+Group: B
 
 1/23/2009; Costa Rica; 3-0; Panama; Estadio Tiburcio Carias Andino; Courtney Campbell; 2000
 Andy Furtado 8, Andy Furtado 15, Alvaro Sanchez 55;
@@ -703,15 +686,13 @@ Red Card: Victor Herrera 39
 Panama: Jaime Penedo, Carlos Rivera, Joel Solanilla, Jose Mario Anthony Torres (Adolfo Machado 60), Amilcar Henriquez, Armando Gun, Manuel Torres, Nelson Barahona (Ricardo Phillips 63), Victor Herrera, Alberot Zapata (Eduardo Jimenez 55), Orlando Rodriguez
 Guatemala: Ricardo Jerez, Cristian Noriega, Jaime Vides, Claudio Albizuris (Carlos Castrillo 41), Marco Papa (Edwin Villatoro 79), Jean Jonathan Marquez, Edgar Gonzalez, Edwin Enriquez, Gregory Ruiz (Wilfred Velasquez 58), Minor Lopez, Selvyn Motta
 
-
-
 Round: Fifth Place
+Group:
 
 1/29/2009; Nicaragua; 2-0; Guatemala; Estadio Tiburcio Carias Andino; Oscar Moncada, Carlos Pastrana, William Torres, Joel Aguilar; 150
 Samuel Wilson 39, Samuel Wilson 85;
 Nicaragua: Carlos Mendieta, David Solorzano, Marvin Molina, Armando Collardo, Carlos Alonso, Armando Reyes (Ledys Alvarado 73), Franklin Lopez, Marlon Medina, Wilber Sanchez (Juan Ramon Barrera 68), Samuel Wilson (Emilio Palacios 88), Feliz Zeledon
 Guatemala: Ricardo Jerez, Carlos Castrillo (Gregory Ruiz 70), Cristian Noriega, Carlos Gallardo, Wilson Lalin, Marco Papa, Jean Jonathan Marquez (Edgar Gonzalez 57), Carlos Castillo, Abner Trigueros, Minor Lopez, Selvyn Motta
-
 
 Round: Semifinals
 
@@ -729,7 +710,6 @@ Notes: El Salvador had to forfeit when the team was reduced to six players
 Honduras: Noel Valladares, Osman Chavez, Erick Morales, Danilo Turcios, Boniek Garcia, Mario Ivan Guerrero, Marvin Chavez (Carlos Pavon 55), Amado Guevara (Carlos Mejia 85), Hendry Thomas, Emil Martinez, Saul Martinez (Roger Espinoza 81)
 Panama: Jaime Penedo, Carlos Rivera, Jose Mario Anthony Torres, Amilcar Henriquez, Adolfo Machado, Armando Gun, Manuel Torres, Nelson Barahona (Luis Jaramillo 73), Ricardo Phillips (Eybir Bonagas 40), Gabriel Torres (Eduardo Jimenez 64), Orlando Rodriguez
 
-
 Round: Third Place
 
 2/1/2009; Honduras; 1-0; El Salvador; Estadio Tiburcio Carias Andino; Walter Quesada, Leonel Leal, Keyzel Corrales, Courtney Campbell; 900
@@ -745,15 +725,12 @@ Costa Rica: Ricardo Gonzalez, Freddy Fernandez, Michael Umana, Leonardo Gonzalez
 
 
 Competition: Copa Centroamericana
-
 Season: 2011
 *BlockSource: http://en.wikipedia.org/wiki/2011_Copa_Centroamericana
 BlockSource: http://www.rsssf.com/tablesg/gold-cam2011.html
 
-
-Round: Group Stage
-
-Group: Group A
+Round: Group
+Group: A
 
 1/14/2011; El Salvador; 2-0; Nicaragua; Estadio Rommel Fernandez; Walter Quesada; 2000
 Jaime Alas 70, Rafael Burgos 75;
@@ -776,7 +753,6 @@ Armando Cooper 15, Luis Renteria 80;
 Panama: Jaime Penedo; Jean Carlos Cedeño, Roman Torres, Ricardo Buitrago, Roberto Brown (Marcos Sanchez 83), Adolfo Machado, Eric Davis (Harold Cummings 75), Luis Renteria, Armando Cooper, Amilcar Henriquez, Eybir Bonaga (Gabriel Torres 68).
 Nicaragua: Denis Espinoza; Jose Abraham Quijano, Erick Jose Tellez, Feliz Dorian Rodriguez (Axel Matihas Villanueva 61), Norman Solon Eugarrios, Juan Ramon Barrera, Samuel Israel Wilson (Mcpherson Onaldo Garth 82), Felix Zeledon (Wilber Alejandro Sanchez 74), Rudel Calero, Raul Moises Leguias, David Sebastian Solorzano
 
-
 1/18/2011; Nicaragua; 1-1; Belize; Estadio Rommel Fernandez; Marco Brea; 20000
 Denis Espinoza (pk) 10; Daniel Jimenez 81
 Nicaragua: Denis Espinoza; Jose Abraham Quijano, Elvis Angel Figueroa, Manuel Salvador Gutierrez (Felix Zeledon 62), Norman Solon Eugarrios, Juan Ramon Barrera (Wilber Alejandro Sanchez 56), Milton Angel Bustos, Samuel Israel Wilson, Rudel Calero, Raul Moises Leguias (Felix Dorian Rodriguez 77), David Sebastian Solorzano
@@ -788,7 +764,7 @@ Edwin Aguilar 25, Armando Cooper 79;
 Panama: Kevin Melgar; Harold Cummings, Jean Carlos Cedeño, Roman Torres (Felipe Baloy 75), Gabriel Gomez, Gabriel Torres, Edwin Aguilar (Blas Perez 68), Adolfo Machado, Aramis Haywood, Luis Renteria, Marcos Sanchez (Armando Cooper 77).
 El Salvador: Dagoberto Portillo; Moises Xavier Garcia, Marvin Rene Gonzalez, Jose Mardoqueo Henriquez, Victor Samuel Turcios (Rafael Edgardo Burgos 75), William Osael Romero (Gilberto Arnulfo Baires 85), Jose Arturo Alvarez (Andres Alexander Flores 77), Deris Ariel Umanzor, Dennis Jonathan Alas, Jaime Enrique Alas, Mark Lester Blanco.
 
-Group: Group B
+Group: B
 
 1/14/2011; Costa Rica; 1-1; Honduras; Estadio Rommel Fernandez; Roberto Garcia Orozco; 6000
 Victor Nunez 42; Ramon Nunez 91+
@@ -806,6 +782,7 @@ Honduras: Noel Valladares; Erick Norales (Osman Danilo Chavez 59), Johnny Harold
 Guatemala: Luis Pedro Molina; Cristian Jafeth Noriega, Yoni Wilson Flores, Carlos Eduardo Gallardo, Gustavo Cabrera, Wilfred Armando Velazquez, Guillermo Ramirez, Carlos Figueroa, Manuel Antonio Leon (Gregory Lester Ruiz 46, Marco Tulio Ciani 70), Jaime Dario Vides (Mario Castellaños 46), Carlos Ruiz.
 
 Round: Fifth Place
+Group: 
 
 1/21/2011; Nicaragua; 1-2; Guatemala; Estadio Rommel Fernandez; Roberto Garcia Orozco; 5000
 Felix Rodriguez 23; Gregory Ruiz 46+, Manuel Leon 66
@@ -824,11 +801,9 @@ Blas Perez 75; Celso Borges 67
 Panama: Jaime Penedo; Jean Carlos Cedeño, Roman Torres, Gabriel Gomez, Blas Perez, Adolfo Machado, Eric Davis (Garbiel Torres 69), Luis Renteria (Edwin Aguilar 82), Armando Cooper, Amilcar Henriquez, Felipe Baloy.
 Costa Rica: Donny Grant; Dario Alejandro Delgado, Dave Andre Myrie (Heiner Mora 59), Celso Borges, Marcos Ureña, Randall Brenes (Allen Guevara 65), Cesar Elizondo Quesada (Christian Gomboa 80), Jose Miguel Cubero, Roy Miller, Dennis Amos Marshall, Victor Nuñez.
 
-
 Round: Third Place
 
 1/23/2011; El Salvador; 0-0; Panama; Estadio Rommel Fernandez; Benigno Pineda; 2000
-
 
 Round: Final
 
@@ -836,13 +811,11 @@ Round: Final
 Walter Martinez 8, Emil Martinez 53; Marco Urena 73
 
 
-
 Season: 2013
 BlockSource: http://en.wikipedia.org/wiki/2013_Copa_Centroamericana
 
-Round: Group Stage
-
-Group: Group A
+Round: Group
+Group: A
 
 1/18/2013; Guatemala; 1-1; Nicaragua; Estadio Nacional, San Jose, Costa Rica; Joel Aguilar; 200
 David Espinoza 67; Josue Quijano 41
@@ -858,7 +831,7 @@ Cristian Lagos 6, Celso Borges 88;
 1/22/2013; Nicaragua; 1-2; Belize; Estadio Nacional, San Jose, Costa Rica; Joel Aguilar; 750
 1/22/2013; Costa Rica; 1-1; Guatemala; Estadio Nacional, San Jose, Costa Rica; Hector Rodriguez; 6760
 
-Group: Group B
+Group: B
 
 1/18/2013; Honduras; 1-1; El Salvador; Estadio Nacional, San Jose, Costa Rica; Walter Lopez; 2500
 Jerry Bengtson 75; Rafael Burgos 77
@@ -867,9 +840,8 @@ Jerry Bengtson 75; Rafael Burgos 77
 
 1/22/2013; Panama; 1-1; Honduras; Estadio Nacional, San Jose, Costa Rica; Roberto Garcia; 3450
 
-
-
 Round: Fifth Place
+Group: 
 
 1/25/2013; Guatemala; 1-3; Panama; Estadio Nacional, San Jose, Costa Rica; Walter Quesada; 279
 
@@ -878,7 +850,6 @@ Round: Semifinals
 1/25/2013; Honduras; 1-0; Belize; Estadio Nacional, San Jose, Costa Rica; Walter Lopez; 1644
 
 1/25/2013; Costa Rica; 1-0; El Salvador; Estadio Nacional, San Jose, Costa Rica; Roberto Garcia; 4993
-
 
 Round: Third Place
 
