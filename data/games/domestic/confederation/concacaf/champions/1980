@@ -2,6 +2,7 @@
 Competition: CONCACAF Champions League
 BlockSource: http://www.rsssf.com/tablesc/cacups80.html
 home-first
+* home teams corrected.
 
 Season: 1980
 
@@ -9,13 +10,14 @@ Group: Northern
 Round: 1
 
 6/22/1980; UNAM; 2-0; Sacramento Gold
+Notes: results listed by CONCACAF, but there is no evidence these matches were played; presumably Sacramento Gold withdrew before the first match.
 
 6/29/1980; UNAM; 1-0; Sacramento Gold
-* results listed by CONCACAF, however there is no evidence of these mathes having played at all; presumably Sacramento Gold withdrew before the first match and the tie was awarded to U.N.A.M.  
+Notes: results listed by CONCACAF, but there is no evidence these matches were played; presumably Sacramento Gold withdrew before the first match.
 
 6/22/1980; Brooklyn Dodgers; 2-2; Hotels International
 
-6/29/1980; Brooklyn Dodgers; 1-0; Hotels International
+6/29/1980; Hotels International; 0-1; Brooklyn Dodgers; 1-0
 
 * Cruz Azul                Mex  bye
   
@@ -24,8 +26,8 @@ Round: 2
 9/10/1980; Cruz Azul; 9-1; Brooklyn Dodgers; Ciudad Cooperativa
 Jesus Ramirez 13, Daniel Astegiano 50, Daniel Astegiano 78, Daniel Astegiano 90, Adrian Camacho 61, Adrian Camacho 62, Adrian Camacho 85, Adrian Camacho 87, Guillermo Mendizabal 75; Montalto (pk) 81
 
-9/13/1980; Cruz Azul; 3-2; Brooklyn Dodgers
-Daniel Astegiano 26, Carlos Jara Saguier 78, Jose Luis Ceballos 80; Sebastiano Malignaggi 36, Edner Breton 41
+9/13/1980; Brooklyn Dodgers; 2-3; Cruz Azul
+Sebastiano Malignaggi 36, Edner Breton 41; Daniel Astegiano 26, Carlos Jara Saguier 78, Jose Luis Ceballos 80
 
 * U.N.A.M.                 Mex                                 bye
 
@@ -34,24 +36,25 @@ Round: 3
 11/6/1980; UNAM; 1-0; Cruz Azul
 Manuel Negrete 40;
 
-11/13/1980; UNAM; 3-1; Cruz Azul; Ciudad Cooperativa
-Manuel Negrete 17, Luis Flores 22, Luis Flores 51; Marco Antonio Trejo 24
+11/13/1980; Cruz Azul; 1-3; UNAM; Ciudad Cooperativa
+Marco Antonio Trejo 24; Manuel Negrete 17, Luis Flores 22, Luis Flores 51
 
 Group: Central
 Round: 1
 
+* WHich Universidad?
 5/20/1980; Coban Imperial; 2-1; Universidad
 
-6/11/1980; Coban Imperial; 0-1; Universidad
-Notes: Coban Imperial won on draw 
+6/11/1980; Universidad; 1-0; Coban Imperial
+Notes: Coban Imperial won by drawing lots; Coban withdrew for financial reasons before the next round.
 
 5/22/1980; Marathon; 3-0; Herediano
 
-5/29/1980; Marathon; 1-3; Herediano
+5/29/1980; Herediano; 3-1; Marathon
 
 6/4/1980; Comunicaciones; 2-0; Aguila
 
-6/15/1980; Comunicaciones; 3-2; Aguila
+6/15/1980; Aguila; 2-3; Comunicaciones
 
 * Santiagueno              ElS  bye                                         y
 * other sources report Cartagines (Costa Rica) as additional entrants; possibly they withdrew against Santiagueno
@@ -60,7 +63,7 @@ Round: 2
 
 9/21/1980; Comunicaciones; 1-1; Marathon
 
-9/24/1980; Comunicaciones; 0-4; Marathon
+9/24/1980; Marathon; 4-0; Comunicaciones
 Notes: Marathon withdrew after winning thie tie
 
 * Coban withdrew for financial reasons
@@ -70,7 +73,8 @@ Round: 3
 
 11/6/1980; Universidad; 2-2; Santiagueno
 
-11/13/1980; Universidad; 3-1; Santiagueno
+* check score.
+11/13/1980; Santiagueno; 1-3; Universidad
 Notes: it is not known on which grounds Universidad were reinstated in the competition after their elimination in round 1
   
 Group: Caribbean
@@ -78,17 +82,17 @@ Round: 1
 
 6/22/1980; SUBT; 2-1; Robin Hood
 
-6/29/1980; SUBT; 0-4; Robin Hood
+6/29/1980; Robin Hood; 4-0; SUBT
 
 6/22/1980; Transvaal; 3-1; Police Force
 
-6/29/1980; Transvaal; 1-1; Police Force
+6/29/1980; Police Force; 1-1; Transvaal
 
 Round: 2
 
 11/2/1980; Jong Colombia; 0-1; Transvaal
 
-11/16/1980; Jong Colombia; 0-4; Transvaal
+11/16/1980; Transvaal; 4-0; Jong Colombia
 ; Jimmy Letnom, Wilfred Miller, Ortwin Pinas, Carlo Montpellier (pk)
 
 * other fixtures unknown but Robin Hood apparently eliminated Defence Force (Trinidad) at this stage
@@ -118,15 +122,15 @@ Round: 1
 
 4/26/1981; Atletico Marte; 2-2; Juventud Retalteca
 
-5/5/1981; Atletico Marte; 3-1; Juventud Retalteca
+5/5/1981; Juventud Retalteca; 1-3; Atletico Marte; 3-1
 
 5/15/1981; Marathon; 4-0; Santiagueno
 
-5/17/1981; Marathon; 1-1; Santiagueno
+5/17/1981; Santiagueno; 1-1; Marathon; 1-1
 
 5/24/1981; Xelaju MC; 0-0; Universidad Nuevo Leon
 
-6/3/1981; Xelaju MC; 2-4; Universidad Nuevo Leon
+6/3/1981; Universidad Nuevo Leon; 4-2; Xelaju MC
 Juan Manuel Azuara 3, Tomas Boy 19, Tomas Boy 31, Tomas Boy 64; Morales 10, Miguel Perez 49
 
 6/24/1981; Real Espana; 2-1; Cruz Azul
@@ -140,14 +144,16 @@ Round: 2
 7/7/1981; UANL; 1-1; Atletico Marte
 Tomas Boy 22; Jorge Gonzalez (pk) 62
 
-9/30/1981; UANL; w/o; Atletico Marte 
-* 2nd leg not played, U.A.N.L. refused to travel to El Salvador due to political unrest; CONCACAF list the result as 1-0, probably having awarded the return to Atletico Marte
+9/30/1981; Atletico Marte; 1-0; UANL
+Forfeit
+Notes: UANL refused to travel to El Salvador due to political unrest; CONCACAF list the result as 1-0
 
 9/22/1981; Cruz Azul; 1-3; Marathon  
 Mario Diaz Perez 22; Wuiti 3, Wuiti 86, Mendoza 31
 
-9/30/1981; Cruz Azul; 1-1; Marathon  
-Baley 83; Carlos Jara Saguier 75
+* reversed goals?
+9/30/1981; Marathon; 1-1; Cruz Azul
+Carlos Jara Saguier 75; Baley 83
 
 Round: 3
 
@@ -158,11 +164,11 @@ Round: 1
 
 6/13/1981; Kentucky Memphis; 0-1; SUBT
 
-6/17/1981; Kentucky Memphis; 0-2; SUBT
+6/17/1981; SUBT; 2-0; Kentucky Memphis
 
 6/14/1981; Sithoc; 1-0; Robin Hood
 
-8/9/1981; Sithoc; 0-5; Robin Hood
+8/9/1981; Robin Hood; 5-0; Sithoc
 
 6/14/1981; Transvaal; 1-0; Defence Force
 Notes: result 2nd leg not known, Transvaal qualified
@@ -174,7 +180,7 @@ Round: 2
 
 8/9/1981; Yama Sun Oil; 0-5; SUBT
 
-8/23/1981; Yama Sun Oil; 1-2; SUBT
+8/23/1981; SUBT; 2-1; Yama Sun Oil
 Notes: other sources stat Yama are from Cayman Islands instead of Puerto Rico 
 *other fixtures not known but apparently Transvaal eliminated Robin Hood
 
@@ -182,13 +188,13 @@ Round: 3
 
 9/20/1981; SUBT; 0-1; Transvaal
 
-10/4/1981; SUBT; 0-2; Transvaal
+10/4/1981; Transvaal; 2-0; SUBT
 
 Round: Final
 
-1/30/1982; Transvaal; 1-0; Atletico Marte; Paramaribo
+1/30/1982; Transvaal; 1-0; Atletico Marte; Paramaribo, Suriname
 
-2/2/1982; Transvaal; 1-1; Atletico Marte; Paramaribo
+2/2/1982; Atletico Marte; 1-1; Transvaal; Paramaribo, Suriname
 
 
 Season: 1982
@@ -204,7 +210,7 @@ Round: 1
 
 5/9/1982; Independiente (El Salvador); 0-0; Comunicaciones
 
-5/16/1982; Independiente (El Salvador); 0-1; Comunicaciones
+5/16/1982; Comunicaciones; 1-0; Independiente (El Salvador)
 * Cruz Azul, New York Pancyprian Freedoms and Brooklyn Dodgers withdrew
 
 Round: 2
@@ -212,27 +218,27 @@ Round: 2
 4/25/1982; Vida; 2-2; UNAM
 Palma 50, Mendoza (pk) 81; Ricardo Ferreti 15, Ricardo Ferreti 25
 
-4/28/1982; Vida; 0-5; UNAM
-; Luis Flores 5, Enrique Lopez Zarza 13, Enrique Lopez Zarza 40, Jose de Jesus Ramirez 27, Manuel Negrete 38
+4/28/1982; UNAM; 5-0; Vida
+Luis Flores 5, Enrique Lopez Zarza 13, Enrique Lopez Zarza 40, Jose de Jesus Ramirez 27, Manuel Negrete 38;
   
 5/27/1982; Comunicaciones; 1-0; Xelaju MC  
 
-7/25/1982; Comunicaciones; 1-1; Xelaju MC     
+7/25/1982; Xelaju MC; 1-1; Comunicaciones
 
 Round: 3
 
 9/26/1982; Comunicaciones; 2-2; UNAM
 Ramon Ramirez 3, Own Goal (Alfonso Rubio) 29; Manuel Negrete 73, Enrique Lopez Zarza 87
 
-9/29/1982; Comunicaciones; 0-3; UNAM
-; Martin Reyna 38, Enrique Lopez Zarza 41, Rafael Amador 47
+9/29/1982; UNAM; 3-0; Comunicaciones
+Martin Reyna 38, Enrique Lopez Zarza 41, Rafael Amador 47;
    
 Group: Caribbean
 Round: 1 
 
 5/16/1982; Transvaal; 2-4; Jong Holland
 
-5/30/1982; Transvaal; 0-3; Jong Holland
+5/30/1982; Jong Holland; 3-0; Transvaal
 
 * other fixtures unknown but apparently also Don Bosco (Dominican Republic) and Palo Seco (or Trintopec?) (Trinidad) were elminated at this stage
 
@@ -240,25 +246,25 @@ Round: 2
 
 6/6/1982; SUBT; 1-0; Defence Force
 
-6/18/1982; SUBT; 0-2; Defence Force
+6/18/1982; Defence Force; 2-0; SUBT
 
 6/12/1982; Robin Hood; 1-1; Jong Holland
 
-7/7/1982; Robin Hood; 1-0; Jong Holland
+7/7/1982; Jong Holland; 0-1; Robin Hood
 
 Round: 3 
 * October
 
 ; Defence Force; 1-1; Robin Hood
 
-; Defence Force; 2-5; Robin Hood
+; Robin Hood; 5-2; Defence Force
 
 Round: Final
 
-11/14/1982; Robin Hood; 0-0; UNAM; Queretaro
+11/14/1982; Robin Hood; 0-0; UNAM; Queretaro, Mexico
 
-11/17/1982; Robin Hood; 2-3; UNAM; Mexico City
-Klinker 27, Rustemberg (pk) 44; Ricardo Ferreti 1, Ricardo Ferreti 41, Luis Flores 25
+11/17/1982; UNAM; 3-2; Robin Hood; Mexico City, Mexico
+Ricardo Ferreti 1, Ricardo Ferreti 41, Luis Flores 25; Klinker 27, Rustemberg (pk) 44
 
 
 Season: 1983
@@ -274,16 +280,16 @@ Round: 1
 3/20/1983; CD Olimpia; 0-1; Universidad Nuevo Leon
 ; Luis Fernandez 43
 
-3/20/1983; CD Olimpia; 1-2; Universidad Nuevo Leon
-Gonzalez 65; Enrique Alfaro 25, Salvador Carrillo 29
+3/20/1983; Universidad Nuevo Leon; 2-1; CD Olimpia
+Enrique Alfaro 25, Salvador Carrillo 29; Gonzalez 65
 Minutes: 72
-Notes: match abandoned in 72' when Olimpia walked off in protest to refereeing decisions; result stood
+Notes: match abandoned at 72' when Olimpia walked off in protest to refereeing decisions; result stood
 
 4/10/1983; Comunicaciones; 2-2; Atlante; Guatemala City
 Fernandez 47 Bayron Perez 64; Ruben Ayala 51, Jose Luis Gonzalez 76
 
-4/13/1983; Comunicaciones; 0-2; Atlante; Guatemala City
-; Eduardo Rergis 14, Grzegorz Lato (pk) 80
+4/13/1983; Atlante; 2-0; Comunicaciones; Guatemala City
+Eduardo Rergis 14, Grzegorz Lato (pk) 80;
   
 4/10/1983; Motagua; 2-1; NY Pancyprian Freedoms  
 
@@ -297,15 +303,15 @@ Fernandez 47 Bayron Perez 64; Ruben Ayala 51, Jose Luis Gonzalez 76
 
 Round: 2
 
-6/12/1983; NY Pancyprian Freedoms; 1-1; Atlante; New York
+6/12/1983; NY Pancyprian Freedoms; 1-1; Atlante; New York, NY
 Yotis Papademetrion 65; Mario Hernandez 38
 
-6/14/1983; NY Pancyprian Freedoms; 2-3 (aet); Atlante; New York
+6/14/1983; NY Pancyprian Freedoms; 2-3 (aet); Atlante; New York, NY
 Nicolas 30, Paraskea (pk) 73; Jose Luis Gonzalez 49, Grzegorz Lato 60, Alejandro Ramirez 118
 
 7/6/1983; Atletico Marte; 2-3; Independiente (El Salvador)
 
-7/6/1983; Atletico Marte; 0-0; Independiente (El Salvador)
+7/6/1983; Independiente (El Salvador); 0-0; Atletico Marte
 Notes: Independiente withdrew after winning tie  
  
 8/13/1983; Universidad Nuevo Leon; 1-1; Suchitepequez
@@ -316,44 +322,46 @@ Round: 3
 11/16/1983; Suchitepequez; 2-2; Atlante
 Adan Paniagua 15, Eduardo Mendez 43; Eduardo Moses 26, Javier Garcia 29
 
-11/30/1983; Suchitepequez; 0-6; Atlante
-; Alejandro Ramirez 10, Orlando Ruiz (pk) 15, Gonzalo Farfan 33, Gonzalo Farfan 45, Gonzalo Farfan 63, Oscar Andrade 72
+11/30/1983; Atlante; 6-0; Suchitepequez
+Alejandro Ramirez 10, Orlando Ruiz (pk) 15, Gonzalo Farfan 33, Gonzalo Farfan 45, Gonzalo Farfan 63, Oscar Andrade 72;
   
 Group: Caribbean
 Round: 1
 
 4/16/1983; SUBT; 5-0; Kentucky Memphis
 
-4/26/1983; SUBT; 0-4; Kentucky Memphis
+4/26/1983; Kentucky Memphis; 4-0; SUBT
 
 4/26/1983; Defence Force; 0-1; Robin Hood
 
-7/8/1983; Defence Force; 1-2; Robin Hood
+7/8/1983; Robin Hood; 2-1; Defence Force
 
+* Reversed home/away?
 7/3/1983; Leo Victor; 1-5; Dakota
 
-7/10/1983; Leo Victor; 3-0; Dakota
+7/10/1983; Dakota; 0-3; Leo Victor
 
 Round: 2 
 
 10/9/1983; Robin Hood; 5-1; Dakota
 
-10/23/1983; Robin Hood; 0-0; Dakota
+10/23/1983; Dakota; 0-0; Robin Hood
 
 * SUBT                     DAn  bye
+
 
 Round: 3 
 
 10/28/1983; SUBT; 1-2; Robin Hood
 
-12/3/1983; SUBT; 0-2; Robin Hood
+12/3/1983; Robin Hood; 2-0; SUBT
 
 Round: Final 
 
 1/22/1983; Robin Hood; 1-1; Atlante
 Andre; Gonzalo Farfan
 
-2/1/1983; Robin Hood; 0-5; Atlante
+2/1/1983; Atlante; 5-0; Robin Hood
 ; Gonzalo Farfan 4, Gonzalo Farfan 63, Ricardo Castro 9, Ricardo Castro 47, Eduardo Moses 70
 
 
@@ -367,17 +375,17 @@ Group: Northern/Central
 
 3/15/1984; Sagrada Familia; 0-0; Suchitepequez
 
-4/1/1984; Sagrada Familia; 0-0; Suchitepequez
+4/1/1984; Suchitepequez; 0-0; Sagrada Familia
 * 5-3p
 
 3/21/1984; Universidad (Honduras); 0-0; Puebla
 
-4/25/1984; Universidad (Honduras); 1-2; Puebla
+4/25/1984; Puebla; 2-1; Universidad (Honduras)
 Muricy Ramalho 30, Muricy Ramalho 66; Drummond 52
 
 3/25/1984; Comunicaciones; 1-1; Deportivo FAS
 
-4/1/1984; Comunicaciones; 2-0; Deportivo FAS
+4/1/1984; FAS; 0-2; Comunicaciones
 
 4/6/1984; NY Pancyprian Freedoms; W-L; Hotels International
 Forfeit
@@ -387,8 +395,8 @@ Notes: Hotels International withdrew
 4/8/1984; Aguila; 2-4; Guadalajara
 Bautista Gonzalez 35, Bautista Gonzalez 55; Eduardo de la Torre 60, Luis Manuel Diaz 62, Jaime Pajarito 80, Jaime Leon 84
 
-4/25/1984; Aguila; 0-3; Guadalajara
-; Ricardo Perez 10, Roberto Gomez Junco 20, Samuel Rivas 73
+4/25/1984; Guadalajara; 3-0; Aguila
+Ricardo Perez 10, Roberto Gomez Junco 20, Samuel Rivas 73;
 
 * Vida                     Hon  champions Panama         Pan      w/o       x
 * Jacksonville Tea Men     USA  runners-up Panama        Pan      w/o       x
@@ -398,9 +406,9 @@ Round: 2
 6/1/1984; Comunicaciones; W-L; Sagrada Familia
 Notes: Sagrada Familia withdrew
 
-6/17/1984; NY Pancyprian Freedoms; 0-0; Puebla; New York
+6/17/1984; NY Pancyprian Freedoms; 0-0; Puebla; New York, NY
 
-6/19/1984; NY Pancyprian Freedoms; 2-2; Puebla; New York
+6/19/1984; NY Pancyprian Freedoms; 2-2; Puebla; New York, NY
 Kisonergis 30, Christofi 95; Luis Antonio Brito 28, Enrique Lopez Zarza 110
 * 4-2p
 
@@ -412,12 +420,12 @@ Round: 3
 
 9/29/1984; NY Pancyprian Freedoms; 1-1; Vida
 
-10/2/1984; NY Pancyprian Freedoms; 2-1; Vida
+10/2/1984; Vida; 1-2; NY Pancyprian Freedoms
 
 9/30/1984; Comunicaciones; 0-0; Guadalajara
 
-10/31/1984;Comunicaciones; 1-4; Guadalajara
-Romeo Alvarez 75; Jose Manuel de la Torre 28, Nestor de la Torre 45, Nestor de la Torre 70, Javier Cardenas 47
+10/31/1984; Guadalajara; 4-1; Comunicaciones
+Jose Manuel de la Torre 28, Nestor de la Torre 45, Nestor de la Torre 70, Javier Cardenas 47; Romeo Alvarez 75
 
 Round: 4
 
@@ -429,29 +437,29 @@ Round: 1
 
 3/22/1984; Aigle Noir; 0-0; Victory Boys
 
-4/15/1984; Aigle Noir; 0-1; Victory Boys
+4/15/1984; Victory Boys; 1-0; Aigle Noir
 
 4/1/1984; SUBT; 0-0; Cygne Noir
 
-5/9/1984; SUBT; 1-1; Cygne Noir
+5/9/1984; Cygne Noir; 1-1; SUBT
 Notes: both clubs disqualified
 
 * other fixtures not known but apparently the following clubs also entered: Saint George's (Cayman Islands), CS Moulien (Guadeloupe), RC Rivière Pilote (Martinique), Guayama Cruz Azul (Puerto Rico), Defence Force (Trinidad and Tobago), Violette AC (Haiti) and ASL Sports (reportedly from Trinidad and Tobago but may be ASL Sport Guyanais from French Guyana); Robinhood and Leo Victor (both Surinam) were registered too late (it is also reported Surinam were suspended by FIFA).
 
 Round: 2 
 
-9/13/1984; Violette AC; 3-0; Victory Boys
+9/13/1984; Violette AC; 3-0; Victory Boys; Haiti
 
-9/16/1984; Violette AC; 3-0; Victory Boys
+9/16/1984; Victory Boys; 0-3; Violette AC; Haiti
 * both matches apparently played on Haiti
 * other fixtures not known
 
 Round: 3
 
 10/1/1984; ASL Sports; 0-0; Violette AC
+Notes: this result may be incorrect. Violette AC progressed
 
-10/1/1984; ASL Sports; 2-2; Violette AC
-* results 1st leg in doubt; Violette AC progressed
+10/1/1984; Violette AC; 2-2; ASL Sports
 
 Round: Final
 
@@ -469,8 +477,8 @@ Round: 1
 4/9/1985; Club America; 3-1; Guadalajara; Los Angeles, CA
 Carlos Hermosillo 13, Carlos Hermosillo 77, Eduardo Bacas 18; Fernando Quirarte 89
 
-4/23/1985; Club America; 1-1; Guadalajara; Los Angeles, CA
-Juan Antonio Luna 6; Fernando Quirarte 45+ 
+4/23/1985; Guadalajara; 1-1; Club America; Los Angeles, CA
+Fernando Quirarte 45+; Juan Antonio Luna 6
 
 4/28/1985; Chicago Croatian; 0-4; CD Olimpia; Estadio Francisco Morazan; 30000
 Chicago Croatian: Yaro Dachniwsky,John Galovic,Leo Kulinczenko,Vlado Crnjak,Dusko Budimir,Slavko Petrina,Joseph Konarsky,Tony Novacio,Joseph Malkoc,Tony Tadijanovic (George Budman 46),Zygmund Tryna
@@ -490,13 +498,13 @@ Chicago Croatian: Yaro Dachniwsky,John Galovic,Leo Kulinczenko,Vlado Crnjak,Dusk
 
 5/25/1985; Hotels International; 0-0; Aurora
 
-6/2/1985; Hotels International; 0-3; Aurora  
+6/2/1985; Aurora; 3-0; Hotels International
 
 Round: 2
 
 6/30/1985; Suchitepequez; 1-0; CD Olimpia
 
-7/17/1985; Suchitepequez; 0-1; CD Olimpia
+7/17/1985; CD Olimpia; 1-0; Suchitepequez
 * 3-4p
 
 7/23/1985; Vida; 1-0; Club America
@@ -512,8 +520,8 @@ Round: 3
 8/20/1985; CD Olimpia; 2-2; Club America
 Francisco Gonzalez 36, Juan Flores 67; Roberto Alderete 43, Daniel Alberto Brailowsky 56
 
-8/27/1985; CD Olimpia; 1-0; Club America; Queretaro
-Amilcar Lanza 21;
+8/27/1985; Club America; 0-1; CD Olimpia; Queretaro, Mexico
+; Amilcar Lanza 21
 
 * Aurora                   Gua  bye
 
@@ -521,7 +529,7 @@ Round: 4
 
 11/6/1985; Aurora; 1-0; CD Olimpia
 
-11/20/1985; Aurora; 0-2; CD Olimpia
+11/20/1985; CD Olimpia; 2-0; Aurora
 
 Group: Caribbean
 Round: 1
@@ -529,16 +537,16 @@ Round: 1
 
 4/21/1985; RC Gonaives; 0-0; Golden Star
 
-5/1/1985; RC Gonaives; 0-1; Golden Star
+5/1/1985; Golden Star; 1-0; RC Gonaives
 * Haitian club listed as Gonaïves; presumably this refers to Racing Club Gonaïves and not to town rivals Roulado
 
 5/8/1985; San Francois National; 1-2; CS Moulien
 
-5/15/1985; San Francois National; 1-2; CS Moulien
+5/15/1985; CS Moulien; 2-1; San Francois National
 
 6/2/1985; Jong Holland; 0-0; Transvaal
 
-6/16/1985; Jong Holland; 0-0; Transvaal
+6/16/1985; Transvaal; 0-0; Jong Holland
 * 4-3p
 
 * other fixtures not known; Robinhood were eliminated in this round
@@ -550,11 +558,11 @@ Notes: apparently played over 1 leg
 
 5/22/1985; Defence Force; 1-0; JSC
 
-6/5/1985; Defence Force; 1-0; JSC
+6/5/1985; JSC; 0-1; Defence Force
 
 7/7/1985; SUBT; 0-1; Jong Holland
 
-7/21/1985; SUBT; 0-2; Jong Holland
+7/21/1985; Jong Holland; 2-0; SUBT
 
 * other fixtures not known
 
@@ -562,7 +570,7 @@ Round: 3
 
 8/17/1985; USL Montjoly; 3-0; Jong Holland
 
-8/28/1985; USL Montjoly; 1-0; Jong Holland
+8/28/1985; Jong Holland; 0-1; USL Montjoly
 
 * NB: further results not known; Defence Force apparently beat Montjoly in the final round to qualify as winners of the Caribbean Section
 
@@ -571,8 +579,8 @@ Group:
 
 1/19/1986; Defence Force; 2-0; CD Olimpia
 
-1/26/1986; Defence Force; 0-1; CD Olimpia
-; Juan Carlos Espinoza
+1/26/1986; CD Olimpia; 1-0; Defence Force
+Juan Carlos Espinoza;
   
 
 Season: 1986
@@ -583,7 +591,7 @@ Round: First Round
 
 3/22/1986; Pembroke Hamilton Club; 1-0; New York Greek-Americans
 
-5/18/1986; Pembroke Hamilton Club; 0-1; New York Greek-Americans
+5/18/1986; New York Greek-Americans; 1-0; Pembroke Hamilton Club
 Notes: Pembroke HC win on penalties; according to CONCACAF site, Pembroke won both legs 1-0
 
 * Club Verdes              Blz  bye
@@ -592,18 +600,18 @@ Round: Second Round
 
 6/22/1986; Club Verdes; 2-1; Pembroke Hamilton Club
 
-6/28/1986; Club Verdes; 0-3; Pembroke Hamilton Club
+6/28/1986; Pembroke Hamilton Club; 3-0; Club Verdes
 
 Group: Central 1
 Round: 1
 
 5/4/1986; Juventud Retalteca; 1-1; Alajuelense
 
-5/18/1986; Juventud Retalteca; 0-2; Alajuelense
+5/18/1986; Alajuelense; 2-0; Juventud Retalteca
 
 5/4/1986; Marathon; 0-1; Alianza
 
-5/18/1986; Marathon; 1-0; Alianza
+5/18/1986; Alianza; 0-1; Marathon
 * 2-4pen
 Notes: according to CONCACAF site, Marathon won 2nd leg 3-2
 
@@ -612,7 +620,7 @@ Round: 2
 7/27/1986; Alajuelense; 1-1; Alianza
 Notes: according to CONCACAF site, Alajuelense won 1st leg 1-0 and drew 2nd 1-1
 
-8/10/1986; Alajuelense; 1-0; Alianza
+8/10/1986; Alianza; 0-1; Alajuelense
 Notes: according to CONCACAF site, Alajuelense won 1st leg 1-0 and drew 2nd 1-1
 
 Group: Central 2
@@ -620,28 +628,28 @@ Round: 1
 
 5/4/1986; Deportivo Saprissa; 0-3; Comunicaciones
 
-5/18/1986; Deportivo Saprissa; 2-0; Comunicaciones
+5/18/1986; Comunicaciones; 0-2; Deportivo Saprissa
 
 5/4/1986; Atletico Marte; 1-0; Motagua
 
-5/18/1986; Atletico Marte; 1-4; Motagua
+5/18/1986; Motagua; 4-1; Atletico Marte
 
 Round: 2
 
 7/27/1986; Comunicaciones; 1-1; Motagua
 
-8/10/1986; Comunicaciones; 1-2; Motagua
+8/10/1986; Motagua; 2-1; Comunicaciones
 
 Group: Caribbean North
 Round: 1
 
 3/26/1986; Olympique (Ft-de-France); 0-1; CS Moulien
 
-4/9/1986; Olympique (Ft-de-France); 0-0; CS Moulien
+4/9/1986; CS Moulien; 0-0; Olympique (Ft-de-France)
 
 3/26/1986; Sirocco; 2-2; Trintoc
 
-4/9/1986; Sirocco; 1-2; Trintoc
+4/9/1986; Trintoc; 2-1; Sirocco
 Notes: CONCACAF site lists 1st leg as 2-1 to Sirocco but does not state the tiebreaker
 
 * Seba United              Jam  bye
@@ -650,7 +658,7 @@ Round: 2
 
 4/23/1986; Trintoc; 1-1; CS Moulien
 
-5/2/1986; Trintoc; 2-1; CS Moulien
+5/2/1986; CS Moulien; 1-2; Trintoc
 
 * Seba United              Jam  bye
 
@@ -658,18 +666,18 @@ Round: 3
 
 9/24/1986; Seba United; 1-1; Trintoc
 
-10/8/1986; Seba United; 0-1; Trintoc
+10/8/1986; Trintoc; 1-0; Seba United
 
 Group: Caribbean South
 Round: 1
 
 3/26/1986; SC Kouroucien; 0-1; Transvaal
 
-4/13/1986; SC Kouroucien; 0-2; Transvaal
+4/13/1986; Transvaal; 2-0; SC Kouroucien
 
 4/21/1986; SV Juventus; 0-5; Robin Hood
 
-5/2/1986; SV Juventus; 0-4; Robin Hood
+5/2/1986; Robin Hood; 4-0; SV Juventus
 
 * Union Dep. Banda'bou     DAn  bye
 
@@ -677,7 +685,7 @@ Round: 2
 
 4/26/1986; Transvaal; 5-1; Union Dep. Banda'bou
 
-5/25/1986; Transvaal; 1-2; Union Dep. Banda'bou
+5/25/1986; Union Dep. Banda'bou; 2-1; Transvaal
 
 * Robin Hood               Sur  bye
 
@@ -686,14 +694,14 @@ Round: 3
 10/12/1986; Robin Hood; 2-2; Transvaal
 Kenneth Stjeward, Delano Righters; Wilfred Miller, Regillio Doest
 
-10/24/1986; Robin Hood; 0-1; Transvaal
+10/24/1986; Transvaal; 1-0; Robin Hood
 
 Round: Intermediate
 Group: 
 
 8/31/1986; Motagua; 3-2; Pembroke Hamilton Club
 
-9/6/1986; Motagua; 0-3; Pembroke Hamilton Club
+9/6/1986; Pembroke Hamilton Club; 3-0; Motagua
 
 * Alajuelense              CRi  bye
 * Transvaal                Sur  bye
@@ -703,13 +711,13 @@ Round: Semifinals
 
 9/21/1986; Alajuelense; 4-0; Pembroke Hamilton Club
 
-9/27/1986; Alajuelense; 0-1; Pembroke Hamilton Club
+9/27/1986; Pembroke Hamilton Club; 1-0; Alajuelense
 
 11/9/1986; Transvaal; 4-2; Trintoc
 Jimmy Lieveld, Regillio Doest, Glenn Kemble, Eric Gotlieb;
 
-11/23/1986; Transvaal; 0-2; Trintoc
-* 4-3pen
+11/23/1986; Trintoc; 2-0; Transvaal
+Penalty kicks: 3-4
 * [?, ?; Transvaal penalties scored by Wilfred Miller, Glenn Kemble, Eric Godlieb and Ricardo Peneux]
 
 Round: Final 
@@ -717,7 +725,7 @@ Round: Final
 2/7/1987; Alajuelense; 4-1; Transvaal; Alajuela, Costa Rica
 Luis Fernandez 10, Jorge Ulate 30, Jose Chavez 59, Juan Cayasso 80; Eric Godlieb 17
 
-2/11/1987; Alajuelense; 2-1; Transvaal; Alajuela, Costa Rica
+2/11/1987; Transvaal; 1-2; Alajuelense; Alajuela, Costa Rica
 ; Luis Fernandez, Juan Cayasso
 
 
@@ -731,41 +739,41 @@ Round: 1
 Forfeit
 Notes: San Pedro Yugoslavs withdrew
 
-4/29/1987; San Pedro Yugoslavs; L-W; Club America
+4/29/1987; Club America; W-L; San Pedro Yugoslavs
 Forfeit
 Notes: San Pedro Yugoslavs withdrew
 
-4/16/1987; St. Louis Kutis SC; 0-1; Monterrey
+4/16/1987; St. Louis Kutis; 0-1; Monterrey
 ; Francisco Javier Cruz 75
 
-4/21/1987; St. Louis Kutis SC; 1-3; Monterrey
+4/21/1987; Monterrey; 3-1; St. Louis Kutis
 Theodore Hertok 85; Guillermo Munoz 5, Guillermo Munoz 83, Juan Antonio Flores Barrera 26
 
 5/10/1987; Club Verdes; 0-2; Real Espana  
 
-5/13/1987; Club Verdes; 1-6; Real Espana  
+5/13/1987; Real Espana; 6-1; Club Verdes
 
 5/13/1987; CD Olimpia; 8-1; Coke Milpros
 
-5/13/1987; CD Olimpia; 1-1; Coke Milpros
+5/13/1987; Coke Milpros; 1-1; CD Olimpia
   
 * San Pedro Yugoslavs withdrew; both legs officially awarded 2-0 to America; 2nd leg was to be played in Ciudad Nezahualcoyotl
 
 Round: 2
 Group: 1 
 
-6/7/1987; Herediano; 1-1; Aguila; Tegucigalpa
+6/7/1987; Herediano; 1-1; Aguila; Tegucigalpa, Honduras
 
-6/7/1987; CD Olimpia; 1-0; Galcasa; Tegucigalpa
+6/7/1987; CD Olimpia; 1-0; Galcasa; Tegucigalpa, Honduras
 Espinoza;
 
-6/11/1987; Aguila; 4-1; Galcasa; Tegucigalpa
+6/11/1987; Aguila; 4-1; Galcasa; Tegucigalpa, Honduras
 
-6/11/1987; CD Olimpia; 0-0; Herediano; Tegucigalpa
+6/11/1987; CD Olimpia; 0-0; Herediano; Tegucigalpa, Honduras
 
-6/14/1987; Galcasa; 0-2; Herediano; Tegucigalpa
+6/14/1987; Galcasa; 0-2; Herediano; Tegucigalpa, Honduras
 
-6/14/1987; CD Olimpia; 2-1; Aguila; Tegucigalpa
+6/14/1987; CD Olimpia; 2-1; Aguila; Tegucigalpa, Honduras
 J. Flores, Norales; 
 
 Group: 2
@@ -784,20 +792,20 @@ Group: 2
        
 Round: 3
 
-6/28/1987; Herediano; 3-2; Real Espana; Estadio La Sabana, San Jose
+6/28/1987; Herediano; 3-2; Real Espana; Estadio La Sabana
 
-6/28/1987; Saprissa; 1-4; CD Olimpia; Estadio La Sabana, San Jose
+6/28/1987; Saprissa; 1-4; CD Olimpia; Estadio La Sabana
 ; Figueroa, J. Flores, Murillo, D. Flores
 
-7/1/1987; CD Olimpia; 2-0; Real Espana; Estadio La Sabana, San Jose
+7/1/1987; CD Olimpia; 2-0; Real Espana; Estadio La Sabana
 J. Flores, D. Flores;
 Notes: result listed as 1-0 by CONCACAF
 
-7/1/1987; Herediano; 1-4; Saprissa; Estadio La Sabana, San Jose
+7/1/1987; Herediano; 1-4; Saprissa; Estadio La Sabana
 
-7/5/1987; Saprissa; 2-1; Real Espana; Estadio La Sabana, San Jose
+7/5/1987; Saprissa; 2-1; Real Espana; Estadio La Sabana
 
-7/5/1987; Herediano; 2-1; CD Olimpia; Estadio La Sabana, San Jose
+7/5/1987; Herediano; 2-1; CD Olimpia; Estadio La Sabana
 Orta, Orta; J. Flores
 
 Round: Zone Semifinals
@@ -805,22 +813,22 @@ Round: Zone Semifinals
 8/23/1987; Deportivo Saprissa; 2-2; Club America
 Carlos Hidalgo 8, Delvaste Araujo 76; Carlos Hermosillo 17, Robinson Hernandez 35
 
-8/30/1987; Deportivo Saprissa; 1-2; Club America
-Carlos Hidalgo 21; Carlos Hermosillo 28, Luis Roberto Alves 72
+8/30/1987; Club America; 2-1; Deportivo Saprissa
+Carlos Hermosillo 28, Luis Roberto Alves 72; Carlos Hidalgo 21
 
 8/25/1987; CD Olimpia; 0-1; Monterrey
 ; Juan Antonio Flores Barrera 73
 
-9/2/1987; CD Olimpia; 2-2; Monterrey
-Zapata 51, Juan Carlos Espinosa 90; Francisco Javier Cruz 13, Rafael Ortega Mendez (pk) 85
+9/2/1987; Monterrey; 2-2; CD Olimpia
+Francisco Javier Cruz 13, Rafael Ortega Mendez (pk) 85; Zapata 51, Juan Carlos Espinosa 90
 
 Round: Zone Final
 
 9/23/1987; Club America; 3-3; Monterrey
 Carlos Hermosillo 17, Carlos Hermosillo 42, Robinson Hernandez 68; Mario Mota Souza 4, Francisco Javier Cruz 44, Jose Francisco Romero 46
 
-9/30/1987; Club America; 2-0; Monterrey
-Carlos Hermosillo (pk) 82, Carlos Hermosillo 89; 
+9/30/1987; Monterrey; 0-2; Club America
+; Carlos Hermosillo (pk) 82, Carlos Hermosillo 89
 
 Group: Caribbean
 Round: 1
@@ -828,24 +836,24 @@ Round: 1
 
 4/8/1987; MG Renegades; 2-0; Club Franciscain
 
-4/22/1987; MG Renegades; 1-4; Club Franciscain
+4/22/1987; Club Franciscain; 4-1; MG Renegades
 
 4/8/1987; Etoile de Morne-a-l'Eau; 3-1; Harbour View
 
-4/22/1987; Etoile de Morne-a-l'Eau; 0-2; Harbour View
+4/22/1987; Harbour View; 2-0; Etoile de Morne-a-l'Eau
 * 4-3p
 
 4/8/1987; VSADC; 5-1; Juventus de Sainte-Anne
 
-4/22/1987; VSADC; 0-2; Juventus de Sainte-Anne
+4/22/1987; Juventus de Sainte-Anne; 2-0; VSADC
 
 4/8/1987; Golden Star; 3-0; Uptown Rebels
 
-4/26/1987; Golden Star; 1-0; Uptown Rebels
+4/26/1987; Uptown Rebels; 0-1; Golden Star
 
 4/22/1987; Rick's Superstars; 1-2; Trintoc
 
-5/5/1987; Rick's Superstars; 0-3; Trintoc
+5/5/1987; Trintoc; 3-0; Rick's Superstars
 
 *Defence Force            Tri  bye
 
@@ -856,17 +864,17 @@ Notes: 2nd leg apparently not played
 
 5/6/1987; VSADC; 1-1; Etoile de Morne-a-l'Eau
 
-6/10/1987; VSADC; 1-3; Etoile de Morne-a-l'Eau
+6/10/1987; Etoile de Morne-a-l'Eau; 3-1; VSADC
 
 5/14/1987; Golden Star; 0-1; Trintoc
 
-6/10/1987; Golden Star; 0-0; Trintoc
+6/10/1987; Trintoc; 0-0; Golden Star
 
 Round: 3
 
 9/27/1987; Trintoc; 1-1; Defence Force
 
-9/30/1987; Trintoc; 1-2; Defence Force
+9/30/1987; Defence Force; 2-1; Trintoc
 Notes: Date uncertain
 
 * unclear how Etoile de Morne-à-l'Eau were eliminated
@@ -890,7 +898,7 @@ Round: 1
 3/30/1988; Morelia; 9-0; Coke Milpros
 Marco Antonio Figueroa 19, Marco Antonio Figueroa 22, Marco Antonio Figueroa 37, Marco Antonio Figueroa 44, Marco Antonio Figueroa 68, Mario Diaz (pk) 35, Jorge Guerrero 47, Ricardo Campos 57, Juan Angel Bustos 78;
 
-4/20/1988; Morelia; 2-0; Coke Milpros
+4/20/1988; Coke Milpros; 0-2; Morelia
 Jorge Tapia 61, Vicente Campos 74;
 
 3/30/1988; Leslie Verdes; 0-2; Cruz Azul  
@@ -902,7 +910,7 @@ Cano 9, Erwin Rodriguez 89; Miguel Angel Gomez 1, Miguel Angel Gomez 31, Miguel 
 6/5/1988; Plaza Amador; 0-2; LD Alajuelense
 ; Arroyo (pk), Stevanovich
 
-6/12/1988; Plaza Amador; 1-2; LD Alajuelense
+6/12/1988; LD Alajuelense; 2-1; Plaza Amador
 
 Round: 2
 Group: USA/Mexico
@@ -910,7 +918,7 @@ Group: USA/Mexico
 5/12/1988; Cruz Azul; 9-0; Seattle Mitre Eagles
 Miguel Angel Gomez 25, Porfirio Jimenez 28, Juan Morales 34, Pedro Duana 54, Martin Galvez 71, Martin Galvez 78, Martin Galvez 87, Martin Galvez 89, Ricardo Mojica 82;
 
-6/2/1988; Cruz Azul; 0-0; Seattle Mitre Eagles
+6/2/1988; Seattle Mitre Eagles; 0-0; Cruz Azul
 
 6/28/1988; Washington Diplomats; 1-2; Morelia; Washington DC
 
@@ -919,31 +927,32 @@ Leonel Suazo 34; Ricardo Campos (pk) 75, Juan Angel Bustos 90
 
 Group: 1
 
-6/26/1988; Alajuelense; 2-1; Aguila; Guatemala City; 5000
+6/26/1988; Alajuelense; 2-1; Aguila; Guatemala City, Guatemala; 5000
 Ramirez, Solano; Zapata
 
-6/26/1988; Municipal; 0-2; Marathon; Guatemala City
+6/26/1988; Municipal; 0-2; Marathon; Guatemala City, Guatemala
 ; Castillo, Castillo 80
-* match abandoned, result stood] 
+Notes: match abandoned, result stood
   
-6/29/1988; Marathon; 1-0; Aguila; Guatemala City
+6/29/1988; Marathon; 1-0; Aguila; Guatemala City, Guatemala
 Richardson Smith; 
 
-6/29/1988; Municipal; 1-1; Alajuelense; Guatemala City
+6/29/1988; Municipal; 1-1; Alajuelense; Guatemala City, Guatemala
 Perez (pk); Own Goal (Piccinini)
 
-7/3/1988; Alajuelense; 1-0; Marathon; Guatemala City
+7/3/1988; Alajuelense; 1-0; Marathon; Guatemala City, Guatemala
 Perez (pk);
 
-7/3/1988; Municipal; 3-1; Aguila; Guatemala City
+7/3/1988; Municipal; 3-1; Aguila; Guatemala City, Guatemala
 Gomez, Archila, Own Goal (Carreno); Weim (pk)
 
 Group: 2
+* Where are remaining matches?
 
-6/26/1988; Aurora; 2-0; Puntarenas; Tegucigalpa
+6/26/1988; Aurora; 2-0; Puntarenas; Tegucigalpa, Honduras
 Gonzalez, Gonzalez;
 
-6/26/1988; CD Olimpia; 3-1; Deportivo FAS; Tegucigalpa; 22000
+6/26/1988; CD Olimpia; 3-1; Deportivo FAS; Tegucigalpa, Honduras; 22000
 Rivera (pk), Espinoza, Williams;
 
 6/30/1988; Puntarenas; 2-2; Deportivo FAS
@@ -956,26 +965,26 @@ Rivera (pk), Espinoza, Williams;
 
 Round: 3
 
-8/17/1988; CD Olimpia; 0-0; Aurora; Tegucigalpa
+8/17/1988; CD Olimpia; 0-0; Aurora; Tegucigalpa, Honduras
 
-8/18/1988; Marathon; 0-2; Alajuelense; San Pedro Sula
+8/18/1988; Marathon; 0-2; Alajuelense; San Pedro Sula, Honduras
 
-8/21/1988; CD Olimpia; 1-1; Alajuelense; Tegucigalpa
+8/21/1988; CD Olimpia; 1-1; Alajuelense; Tegucigalpa, Honduras
 
-8/21/1988; Marathon; 0-0; Aurora; San Pedro Sula
+8/21/1988; Marathon; 0-0; Aurora; San Pedro Sula, Honduras
 Notes: result also reported as 2-1
 
-8/24/1988; Alajuelense; 1-1; Aurora; Tegucigalpa
+8/24/1988; Alajuelense; 1-1; Aurora; Tegucigalpa, Honduras
 
-8/24/1988; CD Olimpia; 2-0; Marathon; Tegucigalpa
+8/24/1988; CD Olimpia; 2-0; Marathon; Tegucigalpa, Honduras
 Notes: result also reported as 2-1
 
 Round: 4 
 
 10/4/1988; CD Olimpia; 0-0; Cruz Azul
 
-11/9/1988; CD Olimpia; 2-1; Cruz Azul
-Emilio Fernandez Riera, Nahun Espinosa; Narciso Cuevas 30
+11/9/1988; Cruz Azul; 1-2; CD Olimpia
+Narciso Cuevas 30; Emilio Fernandez Riera, Nahun Espinosa
 
 ; Alajuelense; W-L; Morelia
 Forfeit
@@ -985,30 +994,30 @@ Group: Caribbean
 Round: 1
 
 3/16/1988; Club Franciscain; 2-2; Defence Force
-4/6/1988; Club Franciscain; 0-2; Defence Force
+4/6/1988; Defence Force; 2-0; Club Franciscain
 
 4/30/1988; Trintoc; 1-1; Excelsior
-5/24/1988; Trintoc; 0-1; Excelsior
+5/24/1988; Excelsior; 1-0; Trintoc
 
 5/15/1988; Leo Victor; 2-1; Sport Guyanais
-6/4/1988; Leo Victor; 0-2; Sport Guyanais
+6/4/1988; Sport Guyanais; 2-0; Leo Victor
 
 5/27/1988; Centro Dominguito; 1-1; Gauloise (Basse-Terre)
-6/11/1988; Centro Dominguito; 0-2; Gauloise (Basse-Terre)
+6/11/1988; Gauloise (Basse-Terre); 2-0; Centro Dominguito
 
 6/5/1988; Seba United; 3-0; Undeba
-6/12/1988; Seba United; 2-2; Undeba
+6/12/1988; Undeba; 2-2; Seba United
 
 Round: 2
 
 5/1/1988; Cardinals; 0-1; Defence Force
-5/26/1988; Cardinals; 0-0; Defence Force
+5/26/1988; Defence Force; 0-0; Cardinals
 
 5/25/1988; Zenith; 3-1; Robin Hood
-6/12/1988; Zenith; 0-4; Robin Hood
+6/12/1988; Robin Hood; 4-0; Zenith
 
 6/19/1988; Sion Hill; 1-3; Excelsior
-6/25/1988; Sion Hill; 0-4; Excelsior
+6/25/1988; Excelsior; 4-0; Sion Hill
 
 * NB: further results not known; Sport Guyanais, Gauloise, Seba United and Excelsior were later eliminated and Robin Hood and Defence Force qualified
 
@@ -1026,10 +1035,10 @@ Round: Semifinals
 Group: 
 
 11/30/1988; CD Olimpia; 1-1; LD Alajuelense
-12/4/1988; CD Olimpia; 1-0; LD Alajuelense
+12/4/1988; LD Alajuelense; 0-1; CD Olimpia
 
 12/4/1988; Robin Hood; 0-0; Defence Force
-12/11/1988; Robin Hood; 0-2; Defence Force
+12/11/1988; Defence Force; 2-0; Robin Hood
 
 Round: Final
 
@@ -1047,54 +1056,55 @@ Group: North/Central
 Round: Preliminary Round
 
 4/16/1989; Coke Milpros; 3-0; Diriangen
-4/30/1989; Coke Milpros; 1-1; Diriangen
+4/30/1989; Diriangen; 1-1; Coke Milpros
 
 4/16/1989; America (Nicaragua); 1-1; La Previsora
-4/30/1989; America (Nicaragua); 0-2; La Previsora
+4/30/1989; La Previsora; 2-0; America (Nicaragua)
 
 Round: 1 
 Group: USA/Mexico
 
-3/14/1989; Saint Louis Busch; 0-1; Univ. de Guadalajara
+3/14/1989; Saint Louis Busch; 0-1; Universidad de Guadalajara
 ; John Johnson 82
 * CONCACAF list first leg result as 2-1; they also incorrectly listed the 2nd leg as having been played in Colima but the match was in Guadalajara
 
-4/25/1989; Saint Louis Busch; 0-8; Univ. de Guadalajara
-; Martin Vazquez 16, Martin Vazquez 48, J. Matos Ferreira 25, Octavio Mora 45, Octavio Mora 75, Jaime Reyes 62, Luis Plascencia 73, Humberto Romero 88
+4/25/1989; Universidad de Guadalajara; 8-0; Saint Louis Busch
+Martin Vazquez 16, Martin Vazquez 48, J. Matos Ferreira 25, Octavio Mora 45, Octavio Mora 75, Jaime Reyes 62, Luis Plascencia 73, Humberto Romero 88;
 
 3/22/1989; San Francisco Greek Americans; 2-2; UNAM
 Ismail Rahimipour 40, Andy Atuekbu 83; Jose Luis Salgado 25, Manuel Negrete 50
 
-4/19/1989; San Francisco Greek Americans; 1-5; UNAM; Colima
+4/19/1989; UNAM; 5-1; San Francisco Greek Americans; Colima
 Andy Atuekbu; Luis Garcia 40, Martin Galvez 57, Martin Galvez 67, Antonio Torres Servin 70,  Marcos Misdrahi 75
 * CONCACAF list 1st leg result incorrectly as 1-1   
 
 Group: Belize/Nicaragua/Panama
 
 3/28/1989; Duurly's; 0-3; La Previsora
-6/16/1989; Duurly's; 2-6; La Previsora
+6/16/1989; La Previsora; 6-2; Duurly's
 
 6/4/1989; Coke Milpros; 1-1; Plaza Amador
-6/25/1989; Coke Milpros; 1-4; Plaza Amador
+6/25/1989; Plaza Amador; 4-1; Coke Milpros
 
 Group: Central 1
+* Locations?
 
-4/8/1989; Cartagines; 1-0; Luis Angel Firpo; San Pedro Sula
-4/8/1989; Real Espana; 1-1; Aurora; San Pedro Sula
+4/8/1989; Cartagines; 1-0; Luis Angel Firpo; San Pedro Sula, Honduras
+4/8/1989; Real Espana; 1-1; Aurora; San Pedro Sula, Honduras
 
-4/12/1989; Aurora; 1-1; Luis Angel Firpo; San Pedro Sula
+4/12/1989; Aurora; 1-1; Luis Angel Firpo; San Pedro Sula, Honduras
 4/12/1989; Real Espana; 1-0; Cartagines
 
-4/15/1989; Cartagines; 3-0; Aurora; San Pedro Sula
+4/15/1989; Cartagines; 3-0; Aurora; San Pedro Sula, Honduras
 4/15/1989; Real Espana; 0-0; Luis Angel Firpo
 
 Group: Central 2 
 
-4/9/1989; Herediano; 3-2; Municipal; Tegucigalpa
-4/9/1989; CD Olimpia; 3-1; Cojutepeque; Tegucigalpa
+4/9/1989; Herediano; 3-2; Municipal; Tegucigalpa, Honduras
+4/9/1989; CD Olimpia; 3-1; Cojutepeque; Tegucigalpa, Honduras
 
-4/13/1989; Municipal; 1-1; Cojutepeque; Tegucigalpa
-4/13/1989; CD Olimpia; 2-1; Herediano; Tegucigalpa
+4/13/1989; Municipal; 1-1; Cojutepeque; Tegucigalpa, Honduras
+4/13/1989; CD Olimpia; 2-1; Herediano; Tegucigalpa, Honduras
 
 4/16/1989; Herediano; 3-1; Cojutepeque
 4/16/1989; CD Olimpia; 2-2; Municipal
@@ -1131,14 +1141,14 @@ Round: 3
 9/19/1989; CD Olimpia; 1-1; UNAM
 Danilo Galindo 73; Jorge Campos 80
 
-10/3/1989; CD Olimpia; 0-5; UNAM
+10/3/1989; UNAM; 5-0; CD Olimpia
 ; Miguel Espana 6, Jorge Campos 25, Jorge Campos 36, Manuel Negrete 45+, Luis Garcia 85
 
-10/12/1989; Herediano; 2-1; Univ. de Guadalajara  
+10/12/1989; Herediano; 2-1; Universidad de Guadalajara  
 Paulo Wanchope 74, Rivers 80; Martin Vazquez 89
 Notes: 1st leg abandoned at 45' due to rain on Oct 12, continued Oct 13;
 
-10/24/1989; Herediano; 1-1; Univ. de Guadalajara; Colima
+10/24/1989; Universidad de Guadalajara; 1-1; Herediano; Colima
 Jorge Chang 10; Fernando Quitarte 80
 
 Round: 4 
@@ -1146,22 +1156,22 @@ Round: 4
 11/1/1989; Herediano; 1-1; UNAM
 Orta 50; Guillermo Vazquez 61
 
-11/28/1989; Herediano; 1-5; UNAM
-Alvaro Izquierdo (pk) 63; Jose Luis Salgado 7, Guillermo Vazquez (pk) 9, Juan Carlos Vera 42, Jorge Campos 58, Jorge Campos 80
+11/28/1989; UNAM; 5-1; Herediano
+Jose Luis Salgado 7, Guillermo Vazquez (pk) 9, Juan Carlos Vera 42, Jorge Campos 58, Jorge Campos 80; Alvaro Izquierdo (pk) 63
    
 Group: Caribbean
 Round: 1 
 
 3/8/1989; Aigle Rouge; 1-0; Etoile de Morne-à-l'Eau
-3/22/1989; Aigle Rouge; 0-1; Etoile de Morne-à-l'Eau
+3/22/1989; Etoile de Morne-à-l'Eau; 1-0; Aigle Rouge
 * 6-7p
 
 3/8/1989; RC Rivière-Pilote; 0-0; Tempête
-3/22/1989; RC Rivière-Pilote; 2-2; Tempête
+3/22/1989; Tempête; 2-2; RC Rivière-Pilote
 * 4-3p
 
 3/8/1989; Solidarite Scolaire; 1-1; Reveil Sportif
-3/22/1989; Solidarite Scolaire; 1-3; Reveil Sportif
+3/22/1989; Reveil Sportif; 3-1; Solidarite Scolaire
 
 Round: 2 
 
@@ -1195,8 +1205,8 @@ Notes: apparently played over 1 leg
 
 Round: 4
 
-11/9/1990; RC Riviere-Pilote; 1-1; Pinar del Rio; La Habana
-11/11/1990; RC Riviere-Pilote; 1-2; Pinar del Rio; La Habana
+11/9/1990; RC Riviere-Pilote; 1-1; Pinar del Rio; La Habana, Cuba
+11/11/1990; RC Riviere-Pilote; 1-2; Pinar del Rio; La Habana, Cuba
 
 Round: Final 
 Group: 
@@ -1204,5 +1214,5 @@ Group:
 1/16/1990; Pinar del Rio; 1-1; UNAM
 Oswaldo Medina 55; Juan Carlos Vera 69
 
-2/6/1990; Pinar del Rio; 1-3; UNAM
+2/6/1990; UNAM; 3-1; Pinar del Rio
 Raimundo Garcia (pk) 45; Juan Carlos Vera 8, Jorge Campos 37, Manuel Negrete (pk) 61
