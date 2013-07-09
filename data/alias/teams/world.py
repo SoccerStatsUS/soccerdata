@@ -1,4 +1,7 @@
 world = {
+
+    'Atl. Tucumán': 'Atlético Tucumán',
+
     'Dublín': 'Dublin',
     'Santa Bárbara': 'Santa Barbara',
     'Vitoria': 'Vitória',
@@ -1760,12 +1763,13 @@ world = {
     'Universidad de Chile - Chile': 'Universidad de Chile',
     'Club Universidad de Chile': 'Universidad de Chile',
 
+    'U. Católica': 'CD Universidad Católica',
     'Universidad Catolica - Chile': 'CD Universidad Católica',
     'Universidad Catolica': 'CD Universidad Católica',
-    'Universidad Católica': 'CD Universidad Católica',
     'Uni. Católica': 'CD Universidad Católica',
     'Univ. Católica': 'CD Universidad Católica',
     'Univ. Católica': 'CD Universidad Católica',
+    'CD Universidad Católica': 'Universidad Católica',
 
     # Uruguay
 

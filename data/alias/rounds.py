@@ -214,11 +214,15 @@ rounds = {
     '7th': '7',
 
     'Play-in': 'play-in',
+    'play-in': 'pi',
 
     'Preliminary': 'preliminary',    
     'Preliminary Round': 'preliminary',
     'Preliminary Rounds': 'preliminary',
     'Preliminary Phase': 'preliminary',
+
+    'First Preliminary Round': 'pre1',
+    'Second Preliminary Round': 'pre2',
 
     'Intermediate Round': 'intermediate',
     'Intermediate': 'intermediate',

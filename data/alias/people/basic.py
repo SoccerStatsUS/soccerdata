@@ -1,5 +1,6 @@
 
 basic = {
+    'Josef Galecska': 'Josef Galeczka',
     'Chardin Delices': 'Delices Chardin',
     'Abram Raselmane': 'Abram Raselemane',
     'Abdullah Al-Dossari': 'Abdullah Al-Dosari',

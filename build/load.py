@@ -108,12 +108,23 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
+    load_mls() 
+    load_nasl() 
+    return
+
+    load_asl()  
+
+
+    load_world()
+    load_usmnt()
+
+
     load_concacaf()
     load_world_international()
-    load_mls() 
+
     load_concacaf_international()
-    load_usmnt()
-    load_world()
+
+
     load_conmebol()
 
 
@@ -121,7 +132,7 @@ def load_games():
 
 
 
-    load_nasl() 
+
     load_women()
     load_china()
     load_australia()    
@@ -151,7 +162,7 @@ def load_games():
 
     load_usa_cups()
 
-    load_asl()  
+
     load_early_friendlies()
     load_modern_friendlies()
     load_brazil()
