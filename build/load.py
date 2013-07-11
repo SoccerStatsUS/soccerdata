@@ -109,17 +109,22 @@ def load_drafts():
 
 def load_games():
     load_mls() 
-    load_nasl() 
     return
 
     load_asl()  
+    load_concacaf()
+
+
+    load_nasl() 
+
+    load_usa_cups()
 
 
     load_world()
     load_usmnt()
 
 
-    load_concacaf()
+
     load_world_international()
 
     load_concacaf_international()
@@ -160,7 +165,7 @@ def load_games():
 
     load_usl()
 
-    load_usa_cups()
+
 
 
     load_early_friendlies()
@@ -977,9 +982,11 @@ def load_world_international():
     generic_load(soccer_db.world_i_awards, awards.process_world_cup_awards)
     generic_load(soccer_db.world_i_awards, awards.process_olympics_awards)
 
-    load_games_standard('world_i', 'international/world/world_cup')
-    load_games_standard('world_i', 'international/world/u20')
-    load_games_standard('world_i', 'international/world/u17')
+    for e in [1930, 1934] + range(1950, 2014, 4):
+        load_games_standard('world_i', 'international/world/world_cup/%s' % e)
+
+    #load_games_standard('world_i', 'international/world/u20')
+    #load_games_standard('world_i', 'international/world/u17')
 
     load_games_standard('world_i', 'international/world/artemio_franchi')
     load_games_standard('world_i', 'international/world/interallied_games')

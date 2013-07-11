@@ -250,6 +250,9 @@ class Standing(object):
             
 
 def generate_standings(competition):
+    """
+    Given a competition, produce team standings for that competition.
+    """
 
     standing_dict = defaultdict(list)
 
@@ -273,6 +276,9 @@ def generate_standings(competition):
 
         generate_team_standing(game, game['team1'])
         generate_team_standing(game, game['team2'])
+
+    #if competition == 'CONCACAF Champions League':
+    #    import pdb; pdb.set_trace()
 
     standings = []
     for lst in standing_dict.values():
