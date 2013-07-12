@@ -108,20 +108,24 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-    load_concacaf()
     load_world_international()
+    load_concacaf()
+
     load_mls() 
-    load_concacaf_international()
+
     load_usmnt()
+    load_uncaf()
+    return
+
+    load_asl()  
+    load_nasl() 
+    load_usa_cups()
     load_world()
+    load_concacaf_international()
     load_conmebol()
-
-
     load_uncaf_international()
 
 
-
-    load_nasl() 
     load_women()
     load_china()
     load_australia()    
@@ -131,7 +135,7 @@ def load_games():
 
     load_mexico()
 
-    load_uncaf()
+
 
     load_chile()
 
@@ -149,9 +153,9 @@ def load_games():
 
     load_usl()
 
-    load_usa_cups()
 
-    load_asl()  
+
+
     load_early_friendlies()
     load_modern_friendlies()
     load_brazil()
@@ -966,12 +970,14 @@ def load_world_international():
     generic_load(soccer_db.world_i_awards, awards.process_world_cup_awards)
     generic_load(soccer_db.world_i_awards, awards.process_olympics_awards)
 
-    load_games_standard('world_i', 'international/world/world_cup')
-    load_games_standard('world_i', 'international/world/u20')
-    load_games_standard('world_i', 'international/world/u17')
+    for e in [1930, 1934] + list(range(1950, 2014, 4)):
+        load_games_standard('world_i', 'international/world/world_cup/%s' % e)
+
+    #load_games_standard('world_i', 'international/world/u20')
+    #load_games_standard('world_i', 'international/world/u17')
 
     load_games_standard('world_i', 'international/world/artemio_franchi')
-    load_games_standard('world_i', 'international/world/interallied_games')
+    load_games_standard('world_i', 'international/world/interallied')
     load_games_standard('world_i', 'international/world/mundialito')
 
     olympics = [1900, 1904, 1908, 1912, 1920, 1924, 1928, 1936, 
@@ -1116,7 +1122,7 @@ def load_concacaf():
     load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/2000')
     
     # Unicode problem on 1960 Champions Cup data.
-    for e in '789':
+    for e in '6789':
         try:
             load_games_standard('concacaf', 'domestic/confederation/concacaf/champions/19%s0' % e)
         except:

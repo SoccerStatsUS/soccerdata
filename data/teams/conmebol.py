@@ -96,6 +96,12 @@ l = [
         },
 
     {
+        'name': 'Atlético Tucumán',
+        'founded': datetime.datetime(1902, 9, 27),
+        'city': 'San Miguel de Tucumán, Argentina',
+        },
+
+    {
         'name': 'Paysandu',
         'founded': 1914,
         'city': 'Belem, Brazil',

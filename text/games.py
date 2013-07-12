@@ -229,9 +229,9 @@ class GeneralProcessor(object):
                 self.group = None
             return
 
-        if line.startswith("Penalty kick:"):
+        if line.startswith("Penalty kicks:"):
             # starting to implement
-            data = tag_data(line, "Penalty kick:")
+            data = tag_data(line, "Penalty kicks:")
             try:
                 t1_pks, t2_pks = [int(e) for e in data.split('-')]
             except ValueError:
@@ -288,6 +288,12 @@ class GeneralProcessor(object):
             s = tag_data(line, "Red Card:")
             self.misconduct.extend(self.process_misconduct(s))
             return 
+
+        if line.startswith("Yellow Cards:"):
+            s = tag_data(line, "Yellow Cards:")
+            self.misconduct.extend(self.process_misconduct(s))
+            return 
+
 
         if line.startswith("Shootout Win"):
             self.current_game['shootout_winner'] = tag_data(line, "Shootout Win:")

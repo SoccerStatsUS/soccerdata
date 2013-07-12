@@ -134,8 +134,21 @@ cities = {
 
     'San Jose, Costa Rica': 'San José, Costa Rica',
 
+    # El Salvador
+    
+    'Chaletenango, El Salvador': 'Chalatenango, El Salvador',
+    'Metapan, El Salvador': 'Metapán, El Salvador',
+
+    # Panama
+    
+    'Colon, Panama': 'Colón, Panama',
+
+    'Cd Panama, Panama': 'Ciudad de Panamá, Panama',
     'Ciudad de Panama, Panama': 'Ciudad de Panamá, Panama',
     'Panama City, Panama': 'Ciudad de Panamá, Panama',
+
+    'Esteli, Nicaragua': 'Estelí, Nicaragua',
+
     'Merida, Venezuela': 'Mérida, Venezuela',
     'Bogota, Colombia': 'Bogotá, Colombia',
     'Fort de France, Martinique': 'Fort-de-France, Martinique',

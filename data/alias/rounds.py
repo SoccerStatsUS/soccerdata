@@ -19,11 +19,11 @@ rounds = {
     'round of 64': '/64',
     'round of 32': '/32',
     'round of 16': '/16',
-    'semifinals': 'SF',
-    'quarterfinals': 'QF',
-    'final': 'F',
-    'finals': 'F',
-    'Championship Final': 'CF',
+    'semifinals': 'sf',
+    'quarterfinals': 'qf',
+    'final': 'f',
+    'finals': 'f',
+    'Championship Final': 'f',
 
     'qualifying': 'q',
     'preliminary': 'pre',
@@ -114,22 +114,22 @@ rounds = {
 
     '3rd Place': '3rd place',
     '3rd Place Match': '3rd place',
-    '3rd place': '3P',
+    '3rd place': '3p',
 
     'Fourth Place': '4th place',
     'Playoff for Fourth Place': '4th place',
-    '4th place': '4P',
+    '4th place': '4p',
 
     '5th Place Match': '5th place',
     '5th Place': '5th place',
     'Fifth Place': '5th place',
-    '5th place': '5P',
+    '5th place': '5p',
 
     '8th Place': '8th place',
-    '8th place': '8P',
+    '8th place': '8p',
 
     'Playoff Against Ninth Place ': '9th place',
-    '9th place': '9P',
+    '9th place': '9p',
     
     'Qualifying': 'qualifying',
     'Qualifying Matches': 'qualifying',
@@ -214,11 +214,15 @@ rounds = {
     '7th': '7',
 
     'Play-in': 'play-in',
+    'play-in': 'pi',
 
     'Preliminary': 'preliminary',    
     'Preliminary Round': 'preliminary',
     'Preliminary Rounds': 'preliminary',
     'Preliminary Phase': 'preliminary',
+
+    'First Preliminary Round': 'pre1',
+    'Second Preliminary Round': 'pre2',
 
     'Intermediate Round': 'intermediate',
     'Intermediate': 'intermediate',

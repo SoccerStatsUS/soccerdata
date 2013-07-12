@@ -269,6 +269,7 @@ world = {
 
     # Dominican Republic
     'Estadio Olímpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
+    'Estadio Olimpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
 
     # Brazil
     'Vila Belmiro': 'Estádio Urbano Caldeira',
@@ -499,7 +500,7 @@ world = {
     #Jamaica 
     'Kingston National Stadium': 'Jamaica National Stadium',
     #'Kasarani Stadium': 'Moi International Sports Centre',
-    'Estadio Olimpico Juan Pablo Duarte': 'Estadio Olímpico Félix Sánchez',
+
 
     # Thailand
     'Supachalasai Stadium': 'Thailand National Stadium',
@@ -523,7 +524,7 @@ world = {
     'AOL Arena': 'Volksparkstadion',
     'HSH Nordbank Arena': 'Volksparkstadion',
 
-l    # Puerto Rico
+    # Puerto Rico
     'Estadio Juan Ramón Loubriel': 'Estadio Juan Ramon Loubriel',
     'Juan Ramon Loubriel Stadium': 'Estadio Juan Ramon Loubriel',
     'Juan Ramón Loubriel Stadium': 'Estadio Juan Ramon Loubriel',

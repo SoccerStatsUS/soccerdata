@@ -459,6 +459,7 @@ d = {
         (2009, 'Landon Donovan', (8, 8, 2009), 'http://www.youtube.com/watch?v=qnuPei0xyNs'),
         (2010, 'Marco Pappa', (4, 10, 2010), 'http://youtu.be/Ym_ZWti0bBo?t=2m36s'),
         (2011, 'Darlington Nagbe', (7, 2, 2011), 'http://www.youtube.com/watch?v=vTzTjP1Na0o'),
+        (2012, 'Patrick Ianni', (6, 20, 2012), 'http://www.youtube.com/watch?v=lZtvCkRZ5as'),
         ],
 }
 
@@ -485,6 +486,7 @@ d2 = {
         (2009, 'Real Salt Lake'),
         (2010, 'Colorado Rapids'),
         (2011, 'Los Angeles Galaxy'),
+        (2012, 'Los Angeles Galaxy'),
         ],
 
 }

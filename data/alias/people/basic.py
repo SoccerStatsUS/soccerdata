@@ -1,5 +1,7 @@
 
 basic = {
+    'Willie Roy': 'Willy Roy',
+    'Josef Galecska': 'Josef Galeczka',
     'Chardin Delices': 'Delices Chardin',
     'Abram Raselmane': 'Abram Raselemane',
     'Abdullah Al-Dossari': 'Abdullah Al-Dosari',
@@ -4857,10 +4859,10 @@ basic = {
     'Charles E Creighton': 'Charles E. Creighton',
     'CE Creighton': 'Charles E. Creighton',
     'C.E. Creighton': 'Charles E. Creighton',
-    'Charles Creighton': 'Charles E. Creighton',
     'Charlie Creighton':'Charles E. Creighton',
     'C. E. Creighton': 'Charles E. Creighton',
     'C. Creighton': 'Charles E. Creighton',
+    'Charles E. Creighton': 'Charles Creighton',
     
     'Luis Angel Landín': 'Luis Ángel Landín',
     'Sergio Martinez': 'Sergio Martínez',

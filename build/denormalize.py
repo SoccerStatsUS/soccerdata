@@ -102,6 +102,12 @@ magic_teams = {
         (from_competition('Liga Nacional de Honduras'), 'Real C.D. España'),
         ],
 
+
+    'Racing': [
+        (from_competition('Liguilla Pre-Libertadores de América (Uruguay)'), 'Racing Club de Montevideo'),
+        (from_competition('Uruguayan Primera División'), 'Racing Club de Montevideo'),
+        ],
+
     'River Plate': [
         (from_competition('Uruguayan Primera División'), 'River Plate (Montevideo)'),
         ],
