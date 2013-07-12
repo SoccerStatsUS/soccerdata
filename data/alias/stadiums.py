@@ -30,6 +30,8 @@ misc = {
 
 world = {
 
+    'Home Depot Center': 'StubHub Center',
+
     'Estadio Bella Vista': 'Estadio Bellavista',
     'Estadio Casa Blanca': 'Estadio de Liga Deportiva Universitaria',
     'Estadio Luis Loreto Lira': 'Estadio José Alberto Pérez',

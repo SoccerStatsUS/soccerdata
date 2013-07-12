@@ -340,7 +340,7 @@ l = [
         },
     
     {
-        'name': 'Home Depot Center',
+        'name': 'StubHub Center',
         'address': '18400 Avalon Boulevard',
         'location': 'Carson, CA',
         'capacity': 27000,
