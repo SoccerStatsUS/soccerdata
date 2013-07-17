@@ -1,8 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesa/arg05.html
-
-Argentina 2004/05
-
-Torneo Apertura
+Competition: Liga Argentina de Football
+Season: 2004 Apertura
  
 * 1.Newell's Old Boys               19  10  6  3  22-11  36  Champions
 * 2.Vélez Sarsfield                 19  10  4  5  21-16  34
@@ -25,7 +23,7 @@ Torneo Apertura
 *19.Instituto (Córdoba)             19   2  8  9  16-30  14
 *20.Huracán (Tres Arroyos)          19   2  6 11  19-34  12
 
-Round: Round 1
+Round: 1
 [Aug 13]
 Racing Club              1-0 Argentinos Juniors
   [Martín Cardetti 50]
@@ -50,7 +48,7 @@ River Plate              3-2 Colón
   [Nelson Cuevas 10, Maximiliano López 47, Gabriel Pereyra 55;
    Darío Gandín 7, Giovanni Hernández 65]
  
-Round: Round 2
+Round: 2
 [Aug 20]
 Independiente            3-0 Almagro 
   [Sebastián Carrizo 5, Federico Insúa 9, Jairo Castillo 82]
@@ -76,7 +74,7 @@ Colón                    1-1 Estudiantes
 Rosario Central          0-1 Newell's Old Boys 
   [Julián Maidana 77]
 
-Round: Round 3
+Round: 3
 [Aug 24]
 Almagro                  0-0 Vélez Sarsfield 
 Lanús                    4-2 Independiente
@@ -98,7 +96,7 @@ River Plate              1-0 Argentinos Juniors
 San Lorenzo de Almagro   3-0 Gimnasia y Esgrima (LP)
   [Leandro Romagnoli 8, Walter García 45, Adrián González 84]
  
-Round: Round 4
+Round: 4
 [Aug 27]
 Vélez Sarsfield          2-1 Lanús 
   [Pablo Batalla 25, Rolando Zárate 86; Claudio Graf 60]
@@ -121,7 +119,7 @@ Instituto                0-2 River Plate
 Rosario Central          0-1 Almagro 
   [Osvaldo Miranda 88]
 
-Round: Round 5
+Round: 5
 [Sep 10]
 Olimpo                   0-1 Independiente 
   [Facundo Imboden 44og]
@@ -147,7 +145,7 @@ Quilmes                  0-1 Colón
 Racing Club              1-2 River Plate 
   [Lisandro López 68; Luis González 84, José Sand 87]
  
-Round: Round 6 [Sep 19]
+Round: 6 [Sep 19]
 Argentinos Juniors       1-2 Newell's Old Boys 
   [Leonardo Nicolás 89; Fernando Belluschi 17, Germán Ré 27]
 Banfield                 1-0 Quilmes
@@ -168,7 +166,7 @@ Rosario Central          1-0 San Lorenzo de Almagro
 Vélez Sarsfield          1-0 Olimpo 
   [Lucas Valdemarín 90]
 
-Round: Round 7
+Round: 7
 [Sep 22]
 Almagro                  0-2 Banfield 
   [Jorge Cervera 11, Daniel Bilos 58]
@@ -194,7 +192,7 @@ Newell's Old Boys        3-0 Instituto
 Racing Club              0-1 Estudiantes 
   [Hugo Pavone 67]
 
-Round: Round 8
+Round: 8
 [Sep 25]
 Argentinos Juniors       0-0 Almagro 
 Banfield                 1-1 Lanús 
@@ -217,7 +215,7 @@ Rosario Central          1-0 Boca Juniors
 Vélez Sarsfield          1-0 Gimnasia y Esgrima (LP)
   [Lucas Castroman 69]
 
-Round: Round 9
+Round: 9
 [Oct 1]
 Newell's Old Boys        1-0 Estudiantes 
   [Ariel Ortega 55pen]
@@ -242,7 +240,7 @@ Lanús                    0-0 Argentinos Juniors
 Quilmes                  2-2 River Plate 
   [Ariel López 69, 83; José Salas 60, Fernando Crosa 76]
 
-Round: Round 10
+Round: 10
 [Oct 15]
 Arsenal                  0-0 Newell's Old Boys 
 Huracán (TA)             1-2 Gimnasia y Esgrima (LP)
@@ -266,7 +264,7 @@ River Plate              0-2 Almagro
 Colón                    1-0 Boca Juniors 
   [Ismael Blanco 73]
 
-Round: Round 11
+Round: 11
 [Oct 19]
 Independiente            4-0 Huracán (TA)
   [JAiro Castillo 27, 67, Eduardo Montoya 28, Federico Insúa 73]
@@ -290,7 +288,7 @@ Gimnasia y Esgrima (LP)  2-0 Colón
 Olimpo                   1-1 Argentinos Juniors 
   [Diego Galván 13; Víctor Píriz Alvez 37]
 
-Round: Round 12
+Round: 12
 [Oct 22] 
 Huracán (TA)             0-1 Vélez Sarsfield 
   [Lucas Castroman 42
@@ -315,7 +313,7 @@ River Plate              1-2 San Lorenzo de Almagro
 Argentinos Juniors       1-0 Boca Juniors 
   [Facundo Pérez Castro 45]
 
-Round: Round 13
+Round: 13
 [Oct 29]
 Quilmes                  0-0 Racing Club 
 [Oct 30]
@@ -340,7 +338,7 @@ Olimpo                   2-3 River Plate
   [Diego Galván 32pen, Hernán Franco 84; Luis González 5, 
    Maximiliano López 15, Lucas Mareque 50] 
 
-Round: Round 14
+Round: 14
 [Nov 5]
 Argentinos Juniors       3-0 Independiente
   [Leandro Fleitas 17, 63, Gerardo Seltzer 84]
@@ -364,7 +362,7 @@ Quilmes                  1-0 Almagro
 River Plate              2-0 Boca Juniors
   [Gastón Fernández 56, Nelson Cuevas 89]
  
-Round: Round 15
+Round: 15
 [Nov 12]
 Independiente            1-1 Instituto 
   [José Oscar Flores 58; Daniel Jiménez 44]
@@ -387,7 +385,7 @@ Rosario Central          3-1 Banfield
   [Damián Ledesma 7, Emanuel Villa 82, 90; Diego Ceballos 25]
 Gimnasia y Esgrima (LP)  0-0 River Plate
 
-Round: Round 16
+Round: 16
 [Nov 19]
 Instituto                1-0 Vélez Sarsfield 
   [Daniel Jiménez 78]
@@ -413,7 +411,7 @@ River Plate              3-0 Independiente
 Arsenal                  1-0 Boca Juniors 
   [Patricio González 41]
 
-Round: Round 17
+Round: 17
 [Nov 26]
 Independiente            2-2 Estudiantes   
   [Sergio Aguero 23, Sebastián Carrizo 47; José Sosa 2,
@@ -439,7 +437,7 @@ Olimpo                   4-2 Quilmes
   [Luis Asprilla 41, Mauro Laspada 52, Carlos Estévez 58,
    Alejandro Delorte 93; Raúl González 7, Rodrigo Braña 68]
 
-Round: Round 18
+Round: 18
 [Dec 3]
 Racing Club              4-0 Banfield 
   [Lisandro López 16, Sebastián Romero 39, Diego Barrado 57,
@@ -467,7 +465,7 @@ Instituto                2-2 Huracán (TA)
 Quilmes                  0-1 Boca Juniors 
   [Franco Cángele 82]
 
-Round: Round 19
+Round: 19
 [Dec 10]
 Banfield                 0-2 Argentinos Juniors 
   [Leonardo Pisculichi 13, 19pen]
@@ -513,7 +511,7 @@ Huracan (TA)             0-0 River Plate
 *20.Huracán (Tres Arroyos)          19   2  6 11  19-34  12
 
 
-Torneo Clausura
+Season: 2005 Clausura
 
 *Final Table:
 * 1.Vélez Sarsfield                 19  11  6  2  32-14  39  Champions
@@ -540,7 +538,7 @@ Torneo Clausura
 NB: 2 more losses than wins and overall goal difference -3 due to
     award of Almagro vs Boca in round 19
  
-Round: Round 1
+Round: 1
 [Feb 11]
 Olimpo                   3-0 San Lorenzo de Almagro  
   [Diego Galvan 32, 64, Alejandro Delorte 50]
@@ -567,7 +565,7 @@ Boca Juniors             2-2 Lanús
 Banfield                 1-0 Instituto              [remaining 12']
   [Martín Ezequiel Andrizzi 86] 
 
-Round: Round 2
+Round: 2
 [Feb 18]
 Racing Club              2-0 Olimpo
   [Martin Cardetti 25, Sebastián Romero 35]
@@ -592,7 +590,7 @@ San Lorenzo              3-0 Boca Juniors
 River Plate              1-0 Banfield
   [Luis González 84]
 
-Round: Round 3
+Round: 3
 [Feb 25] 
 Vélez Sarsfield          0-0 Almagro  
 Independiente            0-1 Lanus  
@@ -616,7 +614,7 @@ Argentinos Juniors       3-3 River Plate
   [Leandro Fleitas 8, Gustavo Morínigo 40, Javier Gandolfini 64og;
    Marcelo Salas 17, 29, Ernesto Farias 57]
 
-Round: Round 4
+Round: 4
 [Mar 4]
 Lanús                    1-2 Vélez Sarsfield 
   [Rodrigo Díaz 48; Rolando Zárate 60, Juan Martínez 63]
@@ -642,7 +640,7 @@ Quilmes                  3-0 Huracan (TA)
 River Plate              3-1 Instituto 
   [Ernesto Farias 21, 33, Gaston Fernández 82; Daniel Jiménez 9]
 
-Round: Round 5
+Round: 5
 [Mar 11] 
 Argentinos Juniors       1-1 Arsenal  
   [Silvio Carrario 71; Germán Denis 89]
@@ -668,7 +666,7 @@ River Plate              1-0 Racing Club
 Gimnasia y Esgrima (LP)  0-1 Boca Juniors
   [Diego Cagna 37]
 
-Round: Round 6
+Round: 6
 [Mar 18]
 San Lorenzo              1-3 Rosario Central 
   [Pablo Michelini 56; Pablo Vitti 17, 84, Mauro Monges 76]
@@ -694,7 +692,7 @@ Almagro                  0-5 Colón
 Quilmes                  1-0 Banfield 
   [Agustin Alayes 53]
 
-Round: Round 7
+Round: 7
 [Apr 1]
 Huracán (TA)             2-2 San Lorenzo 
   [Jeremías Caggiano 44pen, Johnatan Vannieuwenhoven 70;
@@ -724,7 +722,7 @@ Vélez Sarsfield          2-0 Boca Juniors
 River Plate              2-0 Arsenal 
   [Federico Domínguez 34, Marcelo Gallardo 38]
 
-Round: Round 8 
+Round: 8 
 [Apr 8] 
 Arsenal                  0-0 Estudiantes 
 [Apr 9] 
@@ -751,7 +749,7 @@ Olimpo                   3-1 Huracán (TA)
    Jeremías Caggiano 33]
 San Lorenzo              0-0 Colón 
 
-Round: Round 9
+Round: 9
 [Apr 15]
 Rosario Central          2-1 Gimnasia y Esgrima (LP)
   [Mauro Monges 14, Santiago Gentiletti 61og; Gonzalo Vargas 90+]
@@ -777,7 +775,7 @@ Huracán (TA)             2-4 Boca Juniors
   [Jeremías Caggiano 18, 88; Rodrigo Palacio 11, Diego Cagna 25,
    Andres Guglielminpietro 35, Martin Palermo 52]
 
-Round: Round 10
+Round: 10
 [Apr 22]
 San Lorenzo              0-2 Argentinos Juniors  
   [Leonardo Pisculichi 36, Claudio Marini 86]
@@ -804,7 +802,7 @@ Almagro                  2-5 River Plate
   [Fabio Nieto 19, Cristian Ríos 72; Marcelo Gallardo 1, 38,
    Federico Domínguez 45, Ernesto Farias 51, Omar Gallardo 77og]
 
-Round: Round 11
+Round: 11
 [Apr 29] 
 Argentinos Juniors       0-0 Olimpo  
 Huracan (TA)             0-1 Independiente  
@@ -830,7 +828,7 @@ Banfield                 3-2 Boca Juniors
   [Juan Azconzábal 6, Antonio Barijho 49, Esteban Buján 52; 
    Rolando Schiavi 2, Andres Guglielminpietro 55]
 
-Round: Round 12      
+Round: 12      
 [May 6]
 Independiente            2-3 Colón 
   [Nicolás Frutos 19, Juan Eluchans 25; Esteban Fuertes 15, 46,
@@ -856,7 +854,7 @@ Almagro                  1-2 Arsenal
 Gimnasia y Esgrima (LP)  0-2 Banfield 
   [Damián Paletta 30, 60]
 
-Round: Round 13
+Round: 13
 [May 13]
 Estudiantes              0-1 San Lorenzo 
   [Jonathan Santana 52]      
@@ -883,7 +881,7 @@ Racing Club              2-1 Quilmes
 Newell's Old Boys        2-1 Almagro 
   [Iván Borghello 28, Lucio Ceresetto 84; Lucas Sparapani 17]
 
-Round: Round 14
+Round: 14
 [May 20]
 San Lorenzo              1-2 Arsenal 
   [Germán Herrera 44; Gastón Esmerado 27, 90+] 
@@ -904,7 +902,7 @@ Almagro                  2-0 Quilmes
   [Diego Figueroa 49, César González 78pen]
 Rosario Central          0-0 Colón 
 
-Round: Round 15      
+Round: 15      
 [May 27]
 Instituto                0-0 Independiente 
 [May 28]
@@ -926,7 +924,7 @@ Racing Club              1-1 Almagro
   [Lisandro López 26; Maximiliano Castaño 62]
 Quilmes                  0-0 Lanús 
 
-Round: Round 16 
+Round: 16 
 [Jun 10]
 Rosario Central          1-1 Argentinos Juniors 
   [Germán Rivarola 41; Matias Cordoba 16]
@@ -955,7 +953,7 @@ Colón                    2-2 Racing Club
   [Daniel Díaz 30, Esteban Fuertes 73; Diego Simeone 34,
    Diego Barrado 81]
 
-Round: Round 17
+Round: 17
 [Jun 17]
 Almagro                  3-1 San Lorenzo 
   [Diego Figueroa 3, David Pérez 6, Maximiliano Castaño 10;
@@ -982,7 +980,7 @@ Banfield                 0-0 Colón
 Racing Club              2-0 Lanús 
   [Marcelo Guerrero 47, Martin Cardetti 87]
 
-Round: Round 18 
+Round: 18 
 [Jun 25]
 Gimnasia y Esgrima (LP)  1-0 Newell´s Old Boys 
   [Lucas Licht 89]
@@ -1009,7 +1007,7 @@ Independiente            4-2 Arsenal
   [Nicolás Frutos 51, Federico Insúa 71, 89, Andrés Pusineri 78;
    Germán Denis 64, 76]
 
-Round: Round 19 
+Round: 19 
 [Jul 2]
 Racing Club              0-1 San Lorenzo 
   [Germán Gustavo Herrera 2]
