@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesu/uru08.html
-
+Competition: Uruguayan Primera Division
 Season: 2007 Apertura
+home-first
 
 * 1.Defensor Sporting Club        15 11  2  2  26-10  35  Apertura winners
 * 2.Danubio FC                    15  9  4  2  34-14  31
@@ -19,13 +20,18 @@ Season: 2007 Apertura
 *15.CA Progreso                   15  3  2 10  14-38  11
 *16.CA Bella Vista                15  1  3 11  14-28   6
 
-Round 1 
-[Aug 18]
+Round: 1 
+
+Date: 8/18/2007
+
 Defensor    2-1 Rampla
   [Mauro Vila 63, Álvaro Navarro 93; Jorge Cazulo 39]
 Wanderers   1-1 Tacuarembó
   [Danilo Peinado 58; Nicolás Nicolay 89pen]
-[Aug 19]
+
+
+Date: 8/19/2007
+
 River Plate 3-2 Liverpool
   [Richard Porta 22, 54pen, Fabricio Núñez 36; Juan Manuel Díaz 82, 91]
 Juventud    0-1 Danubio
@@ -36,20 +42,31 @@ Miramar     abd Progreso           [abandoned at 1-0 in 83' due to crowd
   [Marcelo Mansilla 47]             trouble]
 Fénix       1-1 Nacional
   [Maximiliano Pérez 35; Bruno Fornaroli 29]
-[Aug 29]
+
+
+Date: 8/29/2007
+
 Central     0-4 Peñarol   
   [Arnulfo Valentierra 21, José Mª Franco 25pen, 29, Fernando Correa 48]
-[Sep 5]
+
+Date: 9/5/2007
+
 Miramar     1-0 Progreso           [remaining 7']
   [Marcelo Mansilla 47] 
 
-Round 2 
-[Aug 25]
+Round: 2 
+
+
+Date: 8/25/2007
+
 Danubio     3-0 Miramar
   [Cristian Stuani 35, Cristian Bardaro 64, Ribair Rodríguez 67]
 Nacional    2-0 Wanderers
   [Bruno Fornaroli 68, Juan Pablo Pereyra 80]
-[Aug 26]
+
+
+Date: 8/26/2007
+
 Peñarol     3-6 River Plate
   [José Mª Franco 43, 65, Sergio Pérez 87; Leandro Ezquerra 9,
    Richard Porta 49, 75, 93, José Pedro Cardoso 90]
@@ -64,14 +81,18 @@ Progreso    0-1 Juventud
 Liverpool   3-0 Central
   [Héctor Acuña 5, Elías Ricardo Figueroa 50, 80]
 
-Round 3 
-[Sep 1]
+Round: 3 
+
+Date: 9/1/2007
+
 Juventud    1-1 Peñarol
   [Mauricio Pérez 87; Julio Mozzo 85]
 Miramar     1-0 Liverpool
   [Danilo Rivero 68]
 River Plate 0-0 Cerro
-[Sep 2]
+
+Date: 9/2/2007
+
 Central     3-0 Progreso
   [Ángel Gutiérrez 10, Gastón Otrera 76, Bruno De Oliveira 81]
 Fénix       0-0 Danubio
@@ -82,30 +103,40 @@ Wanderers   1-2 Rampla
 Bella Vista 1-1 Tacuarembó
   [Walt Báez 68; Franco Sosa 93]
 
-Round 4 
-[Sep 6]
+Round: 4 
+
+Date: 9/6/2007
+
 Nacional    2-2 Bella Vista
   [Deivis Barone 45, 54; Nicolás Freitas 7, José Luis Tancredi 70]
-[Sep 7]
+
+Date: 9/7/2007
+
 Peñarol     0-1 Wanderers
   [Diego Chaves 40]
 Rampla      3-1 River Plate
   [Oscar Dastés 9, Martín Peula 53, Omar Pérez 86;
    Martín Rodríguez 91]
 Defensor    0-0 Danubio   
-[Sep 8]
+
+Date: 9/8/2007
+
 Progreso    1-4 Fénix
   [Sebastián Morquio 12; Dany González 61, 
    William Ferreira 71pen, 88, Diego Ifrán 77]
-[Sep 9]
+
+Date: 9/9/2007
+
 Tacuarembó  1-0 Miramar
   [Mario Amorín 92]
 Cerro       0-0 Central
 Liverpool   1-1 Juventud
   [Héctor Acuña 44; Santiago Fosgt 63]
 
-Round 5 
-[Sep 16]
+Round: 5 
+
+Date: 9/16/2007
+
 Central     1-2 Rampla
   [Germán Hornos 86; Jorge Cazulo 58, Omar Pérez 81pen]
 Defensor    3-0 Progreso
@@ -116,23 +147,31 @@ Miramar     0-1 Nacional
   [Pablo Pereyra 84]
 River Plate 1-3 Danubio
   [Richard Porta 92pen; Cristian Stuani 30, 55pen, 71pen]
-[Sep 19]
+
+Date: 9/19/2007
+
 Fénix       2-0 Tacuarembó
   [Diego Ifrán 45, William Ferreira 87]
 Bella Vista 2-3 Peñarol
   [Cristian Yeladián 63, José Luis Tancredi 78;
    Matías Manrique 32, Antonio Pacheco 61, Ncolás Vigneri 93]
-[Sep 26]
+
+Date: 9/26/2007
+
 Juventud    0-0 Cerro
 
-Round 6 
-[Sep 22]
+Round: 6 
+
+Date: 9/22/2007
+
 Danubio     3-1 Central
   [Cristian Stuani 11, 71, 92; Damián Rodríguez 83]
 Nacional    0-0 Juventud
 Progreso    0-2 Bella Vista
   [Hernán Figueredo 20, Valentín Villazán 37]
-[Sep 23]
+
+Date: 9/23/2007
+
 Peñarol     1-0 Miramar
   [Leonardo Fabio Moreno 94]
 Rampla      0-0 Fénix
@@ -145,15 +184,19 @@ Cerro       4-3 Wanderers
    Matías Espíndola 61og, Emiliano Tellechea 76]
 Liverpool   0-0 Defensor
 
-Round 7 
-[Sep 29]
+Round: 7 
+
+Date: 9/29/2007
+
 Juventud    2-0 Tacuarembó
   [Iván Pailós 38, Ismael Espiga 59]
 Fénix       0-0 Peñarol
 Defensor    4-0 Cerro
   [Diego De Souza 2, Tabaré Viudez 55, Sebastián Fernández 64,
    Andrés Lamas 82]
-[Sep 30]
+
+Date: 9/30/2007
+
 Central     1-1 Nacional
   [Ángel Gutiérrez 71; Richard Morales 73]
 Wanderers   3-1 Danubio
@@ -169,13 +212,17 @@ River Plate 6-0 Progreso
   [Richard Porta 2, 19, Bruno Montelongo 72, Henry Giménez 81,
    Martín Rodríguez 86, Federico Puppo 89]
 
-Round 8 
-[Oct 6]
+Round: 8 
+
+Date: 10/6/2007
+
 Danubio     3-1 Peñarol            [abandoned at 3-1 in 62' due to crowd
   [Cristian Stuani 12, 14pen, 62; Julio Mozzo 26]  trouble; result stood]
 Bella Vista 1-2 Wanderers
   [José Luis Tancredi 69; Jonathan Charquero 74, Sebastián Rosano 88]
-[Oct 7]
+
+Date: 10/7/2007
+
 Juventud    3-1 Central
   [Gastón Machado 27, Ismael Espiga 55, Rodrigo Mora 91;
    Germán Hornos 9]
@@ -188,19 +235,25 @@ Liverpool   1-2 Progreso
 River Plate 2-2 Miramar
   [Richard Porta 9, Jorge Zambrana 32; Marcelo Mansilla 46pen,
    Adrián Speranza 73]
-[Oct 14]
+
+Date: 10/14/2007
+
 Defensor    3-0 Fénix
   [Álvaro Navarro 27, 91, Andrés Lamas 80]
 
-Round 9 
-[Oct 20]
+Round: 9 
+
+Date: 10/20/2007
+
 Central     3-1 River Plate
   [Germán Hornos 9, 78, Ángel Gutiérrez 72; Richard Porta 48pen]
 Nacional    0-2 Danubio
   [Cristian Bardaro 59, Daley Mena 78]
 Tacuarembó  1-0 Rampla
   [Nicolás Nicolay 72]
-[Oct 21]
+
+Date: 10/21/2007
+
 Peñarol     4-0 Liverpool
   [José Mª Franco 7, 85, Fernando Correa 51, 90]
 Fénix       0-0 Juventud
@@ -211,15 +264,19 @@ Progreso    1-1 Cerro
 Miramar     1-0 Bella Vista
   [Marcelo Mansilla 91pen]
 
-Round 10 
-[Oct 27]
+Round: 10 
+
+Date: 10/27/2007
+
 Danubio     2-2 Bella Vista
   [Cristian Bardaro 22, Daley Mena 58; Ignacio Amarilla 67og,
    Diego Gallardo 88]
 Tacuarembó  3-3 Central
   [Nicolás Nicolay 5, 39pen, Rider O'Neil 69;
    Abel Hernández 4, 14,  Ángel Gutiérrez 66]
-[Oct 28]
+
+Date: 10/28/2007
+
 Nacional    3-1 River Plate
   [Bruno Fornaroli 12, 53, Flavio Córdoba 90og; Richard Porta 17pen]
 Rampla      2-1 Juventud
@@ -232,16 +289,22 @@ Progreso    2-3 Wanderers
 Liverpool   4-0 Fénix
   [Andrés Rodales 13, Nicolás Correa 27, Emiliano Alfaro 41,
    Andrés Aparicio 55]
-[Nov 7]
+
+Date: 11/7/2007
+
 Peñarol     0-2 Defensor
   [Sebastián Fernández 46, Álvaro Navarro 92]
 
-Round 11 
-[Nov 3]
+Round: 11 
+
+Date: 11/3/2007
+
 Cerro       0-0 Peñarol
 Bella Vista 0-1 River Plate
   [Richard Porta 47pen]
-[Nov 4]
+
+Date: 11/4/2007
+
 Nacional    2-0 Liverpool
   [Bruno Fornaroli 37, Juan Pablo Pereyra 84]
 Fénix       1-2 Central
@@ -254,8 +317,10 @@ Wanderers   2-1 Miramar
 Progreso    2-1 Tacuarembó
   [Jorge Ramírez 10, Maximiliano Lombardi 48; Nicolás Nicolay 51]
 
-Round 12
-[Nov 10]
+Round: 12
+
+Date: 11/10/2007
+
 Danubio     1-2 Cerro
   [Ignacio González 94; Rodrigo Muñoz 53pen, 84pen]
 Tacuarembó  1-4 Nacional
@@ -263,7 +328,9 @@ Tacuarembó  1-4 Nacional
    Pablo Caballero 92]
 Miramar     0-1 Fénix
   [Diego Ifrán 66]
-[Nov 11]
+
+Date: 11/11/2007
+
 Peñarol     0-3 Progreso
   [Maximiliano Lombardi 16, Jorge Ramírez 49, Mathías Riquero 84]
 Central     2-0 Bella Vista
@@ -275,8 +342,10 @@ Liverpool   0-1 Rampla
 River Plate 5-1 Defensor
   [Richard Porta 13, 18pen, 43, 77, William Martínez 29og; Mauro Vila 89]
 
-Round 13 
-[Nov 24]
+Round: 13 
+
+Date: 11/24/2007
+
 Tacuarembó  0-2 Danubio
   [Cristian Stuani 21, 88]
 Wanderers   2-3 Central
@@ -288,7 +357,9 @@ Miramar     0-2 Defensor
   [Álvaro Navarro 59pen, Sebastián Fernández 75]
 River Plate 1-1 Fénix
   [Richard Porta 38pen; Federico Aguilera 84]
-[Nov 25]
+
+Date: 11/25/2007
+
 Nacional    1-1 Peñarol
   [Richard Morales 79; Antonio Pacheco 67pen]
 Progreso    2-2 Rampla
@@ -297,15 +368,19 @@ Progreso    2-2 Rampla
 Liverpool   0-1 Cerro
   [Joaquín Boghossian 80]
 
-Round 14
-[Dec 1]
+Round: 14
+
+Date: 12/1/2007
+
 Juventud    2-0 Miramar
   [Rodrigo Mora 51, Anselmo De Almeida 77]
 Fénix       2-0 Bella Vista
   [Maximiliano Pérez 20, Dany González 92]
 Progreso    0-1 Nacional
   [Nicolás Lodeiro 80]
-[Dec 2]
+
+Date: 12/2/2007
+
 Peñarol     1-1 Tacuarembó
   [Nicolás Vigneri 54; Adrián Argachá 56]
 Central     1-2 Defensor
@@ -319,14 +394,18 @@ River Plate 5-1 Wanderers
   [Edgar Martínez 19og, Leandro Silva 42, Federico Vega 44, Jorge Rodríguez 85,
    Juan Ramón Curbelo 89; Diego Chaves 46]
 
-Round 15
-[Dec 8]
+Round: 15
+
+Date: 12/8/2007
+
 Rampla      3-2 Peñarol
   [Álvaro Méndez 24, Gonzalo Garabano 79, Carlos Aguiar 87;
    Nicolás Vigneri 27, Sergio Pérez 80]
 Miramar     3-1 Central
   [Pablo Meloño 24, 36, Rodolfo López 52; Abel Hernández 17]
-[Dec 9]
+
+Date: 12/9/2007
+
 Danubio     9-1 Progreso
   [Ignacio González 2, 28, 48, 67, Cristian Stuani 7, 34, 40, 49,
    Enzo Scorza 84; Junior Aliberti 45]
@@ -380,8 +459,10 @@ Season: 2008 Clausura
 *15.CA Cerro                      15  4  2  9  14-25  14
 *16.CA Fénix                      15  3  3  9  19-25  12
 
-Round 1 
-[Feb 16]
+Round: 1 
+
+Date: 2/16/2008
+
 Rampla      1-6 Defensor
   [Oscar Dastés 64; Sebastián Fernández 53, 70, Miguel Amado 60,
    Jairo Castillo 79, Tabaré Viudez 81, William Ferreira 86]
@@ -389,7 +470,9 @@ Tacuarembó  2-0 Wanderers
   [Aldo Díaz 19, Miguel Britos 69og]
 Liverpool   0-2 River Plate 
   [Jonathan Urretavizcaya 46, Diego Silva 59]
-[Feb 17]
+
+Date: 2/17/2008
+
 Danubio     1-2 Juventud
   [Cristian Bardaro 30; Pablo Di Fiori 68, Gastón Machado 88]
 Cerro       2-3 Bella Vista
@@ -399,13 +482,17 @@ Progreso    1-0 Miramar
   [Danilo Asconegui 22]
 Peñarol     2-1 Central 
   [José María Franco 34, Antonio Pacheco 54; Abel Hernández 39pen]
-[Feb 27]
+
+Date: 2/27/2008
+
 Nacional    3-1 Fénix
   [Oscar Javier Morales 12, Nicolás Bertolo 31, Bruno Fornaroli 71;
    Andrés Márquez 58]
 
-Round 2 
-[Feb 23]
+Round: 2 
+
+Date: 2/23/2008
+
 River Plate 2-2 Peñarol   
   [Henry Giménez 78 pen, Diego Silva 93; José Mª Franco 13,
    Matías Manrique 71]
@@ -416,19 +503,25 @@ Fénix       0-1 Cerro
 Juventud    3-1 Progreso
   [Gastón Machado 3, Pablo Di Fiori 56, Gastón Bueno 82;
    Maximiliano Lombardi 19]
-[Feb 24]
+
+Date: 2/24/2008
+
 Wanderers   1-3 Nacional  
   [Manuel Abreu 55; Martín Ligüera 45+2pen, 57, Bruno Fornaroli 50]
 Bella Vista 0-0 Rampla
 Central     1-3 Liverpool  
   [Gastón Otrera 40; Paulo Pezzolano 22, 36, 62]
-[Feb 27]
+
+Date: 2/27/2008
+
 Miramar     1-4 Danubio
   [Alejo Saravia 88; Carlos María Morales 9, 43, Daley Mena 12,
    Pedro Irala 83]
 
-Round 3
-[Mar 1]
+Round: 3
+
+Date: 3/1/2008
+
 Nacional    4-0 Defensor
   [Deivis Barone 7, Richard Morales 31, Adrián Romero 65,
    Mauricio Victorino 86]
@@ -437,7 +530,9 @@ Rampla      1-3 Wanderers
 Tacuarembó  3-2 Bella Vista
   [Aldo Díaz 17pen, Franco Sosa 23, Germán Hornos 45;
    José Luis Tancredi 40, Gonzalo Fontana 58]
-[Mar 2]
+
+Date: 3/2/2008
+
 Cerro       1-4 River Plate
   [Darío Flores 22og; Jonathan Urretavizcaya 1, 12, Henry Giménez 38,
    Sergio Souza 81]
@@ -450,8 +545,10 @@ Progreso    3-1 Central
 Liverpool   2-0 Miramar
   [Héctor Acuña 59, Emiliano Alfaro 83]
 
-Round 4
-[Mar 8]
+Round: 4
+
+Date: 3/8/2008
+
 Wanderers   1-0 Peñarol 
   [Juan Álvez 47]
 Juventud    1-2 Liverpool
@@ -461,7 +558,9 @@ Miramar     4-0 Tacuarembó
 River Plate 7-0 Rampla
   [Fabricio Núñez 13, Henry Giménez 45+1pen, 57pen, Sergio Souza 48,
    Diego Silva 82, Jorge Zambrana 83, 88]
-[Mar 9]
+
+Date: 3/9/2008
+
 Danubio     4-3 Defensor
   [Ribair Rodríguez 22, Cristian Bardaro 56, Matías Pérez 61,
    Pablo Míguez 78; Jairo Castillo 11, William Ferreira 70,
@@ -473,15 +572,19 @@ Central     2-1 Cerro
 Fénix       1-2 Progreso
   [Cristian Núñez 26; Luis Almada 51, Sebastián Aset 88]
 
-Round 5
-[Mar 15]
+Round: 5
+
+Date: 3/15/2008
+
 Cerro       0-0 Juventud
 Danubio     1-5 River Plate
   [Cristian Bardaro 9pen; Sergio Souza 24, Bruno Montelongo 39,
    Jonathan Urretavizcaya 52, Henry Giménez 56, 62]
 Nacional    1-2 Miramar
   [Mauricio Victorino 88; Alejo Saravia 19, Rodolfo López 74]
-[Mar 16]
+
+Date: 3/16/2008
+
 Liverpool   1-1 Wanderers
   [Carlos Aguiar 9; Manuel Abreu 13]
 Tacauarembó 1-1 Fénix
@@ -494,13 +597,17 @@ Peñarol     6-0 Bella Vista
   [Gerardo Alcoba 8, Carlos Bueno 33pen, 45+3, 51,
    Fernando Correa 59pen, Amaranto Abascal 86og]
 
-Round 6
-[Mar 22]
+Round: 6
+
+Date: 3/22/2008
+
 Wanderers   1-0 Cerro
   [Diego Chaves 75]
 Miramar     0-2 Peñarol
   [Antonio Pacheco 49, Carlos Bueno 86]
-[Mar 23]
+
+Date: 3/23/2008
+
 Fénix       2-0 Rampla
   [Gabriel Álvez 21, Diego Ifrán 87]
 River Plate 5-0 Tacuarembó
@@ -519,15 +626,19 @@ Bella Vista 1-3 Progreso
 Central     2-0 Danubio
   [Martín Cauteruccio 33pen, 48]
 
-Round 7
-[Mar 29]
+Round: 7
+
+Date: 3/29/2008
+
 Nacional    1-0 Central
   [Bruno Fornaroli 13]
 Progreso    0-3 River Plate
   [Henry Giménez 7pen, Jonathan Urretavizcaya 62, Jorge Zambrana 66]
 Liverpool   2-2 Bella Vista
   [Héctor Acuña 25, Carlos Aguiar 85; Gonzalo Fontana 51, Jorge Álvez 78]
-[Mar 30]
+
+Date: 3/30/2008
+
 Cerro       1-2 Defensor
   [Elías Ferreira 'Zinho' 32; Álvaro Navarro 87, Pablo Gaglianone 90]
 Tacuarembó  0-1 Juventud
@@ -539,15 +650,19 @@ Danubio     4-1 Wanderers
    Danilo Peinado 60]
 Rampla      0-0 Miramar
 
-Round 8
-[Apr 5]
+Round: 8
+
+Date: 4/5/2008
+
 Peñarol     2-1 Danubio
   [Rubén Olivera 72, Antonio Pacheco 95pen; Carlos María Morales 49pen]
 Central     2-0 Juventud
   [Luis Oyarbide 15, Raúl Tarragona 86]
 Wanderers   0-2 Bella Vista
   [Alejandro Reyes Sosa 48, Nicolás Freitas 89]
-[Apr 6]
+
+Date: 4/6/2008
+
 Progreso    1-4 Liverpool
   [Máximo Lucas 52og; Héctor Acuña 20, 45, Carlos Aguiar 40,
    Eduardo Aranda 61]
@@ -561,15 +676,19 @@ Tacuarembó  0-1 Cerro
 Miramar     1-3 River
   [Pablo Meloño 3; Sergio Souza 43, 72, 76]
 
-Round 9
-[Apr 12]
+Round: 9
+
+Date: 4/12/2008
+
 Danubio     1-3 Nacional
   [Cristian Bardaro 45+1; Bruno Fornaroli 38, 63, Daniel Arismendi 87]
 Cerro       1-0 Progreso
   [Raúl Molina 61]
 Bella Vista 0-1 Miramar
   [Pablo Meloño 8]
-[Apr 13]
+
+Date: 4/13/2008
+
 Liverpool   4-3 Peñarol   
   [Maximiliano Lucas 15, Paolo Patritti 59, Paulo Pezzolano 65,
    Maximiliano Montero 80; Fabián Estoyanoff 8, Carlos Bueno 30, 53]          
@@ -583,8 +702,10 @@ Defensor    4-0 Wanderers
   [Jorge Cazulo 38, Jairo Castillo 43, Sebastián Fernández 46,
    Diego Ferreira 72]
 
-Round 10
-[Apr 19]
+Round: 10
+
+Date: 4/19/2008
+
 River Plate 3-6 Nacional
   [Jonathan Urretavizcaya 5, Adrián Romero 20og, Bruno Montelongo 34;
    Richard Morales 45+1, Bruno Fornaroli 48, Mauricio Victorino 53, 90+2,
@@ -594,7 +715,9 @@ Central     1-1 Tacuarembó
 Fénix       2-3 Liverpool
   [Diego Ifrán 5, Daniel Leites 84; Carlos Aguiar 16, Paolo Patritti 31,
    Paulo Pezzolano 71]
-[Apr 20]
+
+Date: 4/20/2008
+
 Bella Vista 3-0 Danubio
   [Jorge Álvez 39, Hernán Figueredo 80, Jesús Belase 87]
 Defensor    0-1 Peñarol   
@@ -605,8 +728,10 @@ Miramar     1-1 Cerro
 Wanderers   2-1 Progreso
   [Diego Chaves 5, Danilo Peinado 45pen; Jorge Ramírez 25]
 
-Round 11
-[Apr 26]
+Round: 11
+
+Date: 4/26/2008
+
 Danubio     2-2 Rampla
   [Raúl Ferro 22, Matías Pérez 56; Gonzalo Garavano 11,
    Oscar Dastés 52]
@@ -615,7 +740,9 @@ Miramar     2-4 Wanderers
    Danilo Peinado 86, Diego Chaves 90]
 Liverpool   1-1 Nacional
   [Héctor Acuña 21; Diego Vera 68]
-[Apr 27]
+
+Date: 4/27/2008
+
 River Plate 2-0 Bella Vista
   [Sergio Souza 26, Andreé González 60]
 Juventud    0-2 Defensor
@@ -628,15 +755,19 @@ Tacuarembó  1-3 Progreso
 Peñarol     3-0 Cerro
   [Gerardo Alcoba 63, Antonio Pacheco 84, Carlos Bueno 91]
 
-Round 12
-[May 3]
+Round: 12
+
+Date: 5/3/2008
+
 Nacional    1-2 Tacuarembó
   [Nicolás Bertolo 57; Nicolás Pereyra 20, Héctor Vázquez 24]
 Progreso    0-3 Peñarol 
   [Rubén Olivera 48, Fabián Estoyanoff 62, José María Franco 83]
 Bella Vista 1-0 Central
   [Rubén Fernández 59]
-[May 4]
+
+Date: 5/4/2008
+
 Defensor    4-3 River Plate
   [Diego De Souza 6pen, Mario Risso 60, Julio Marchant 63,
    Juan Pablo Rodríguez 80; Sergio Souza 1, Henry Giménez 47,
@@ -650,8 +781,10 @@ Fénix       2-0 Miramar
 Rampla      2-0 Liverpool
   [Gonzalo Garavano 1, Gastón Puerari 90]
 
-Round 13
-[May 10]
+Round: 13
+
+Date: 5/10/2008
+
 Central     0-1 Wanderers
   [Manuel Abreu 84]
 Fénix       1-2 River Plate
@@ -664,7 +797,9 @@ Defensor    5-3 Miramar
   [Diego De Souza 43pen, 60, 84pen, Juan Martín Parodi 75,
    Juan Pablo Rodríguez 93; Pablo Meloño 29, Adrián Speranza 32,
    Andrés Rodríguez 65]
-[May 11]
+
+Date: 5/11/2008
+
 Peñarol     4-2 Nacional
   [Antonio Pacheco 6. Rubén Olivera 21, 46, Carlos Bueno 43;
    Bruno Fornaroli 26, Nicolás Bertolo 45+3]
@@ -675,8 +810,10 @@ Rampla      4-3 Progreso
   [Gonzalo Garavano 16, 26, Javier Benia 89, Gastón Puerari 91;
    Mathías Riquero 15, 17, 61]
 
-Round 14
-[May 17]
+Round: 14
+
+Date: 5/17/2008
+
 Bella Vista 0-1 Fénix 
   [Diego Ifrán 83]
 Nacional    1-3 Progreso 
@@ -685,7 +822,9 @@ Nacional    1-3 Progreso
 Defensor    3-3 Central 
   [Alejandro Acosta 57, Federico Laens 72, Juan Martín Parodi 83;
    Abel Hernández 47pen, Nelson Semperena 87, Nicolás Gard 93]  
-[May 18]
+
+Date: 5/18/2008
+
 Miramar     0-1 Juventud 
   [Gonzalo Gutiérrez 7]  
 Tacuarembó  1-2 Peñarol 
@@ -696,8 +835,10 @@ Cerro       0-1 Rampla
 Wanderers   1-2 River Plate 
   [Jonathan Charquero 83; Fabricio Núñez 59, Robert Flores Bistolfi 60]
 
-Round 15
-[May 31]
+Round: 15
+
+Date: 5/31/2008
+
 Fénix       2-3 Wanderers
   [Diego Ifrán 51, 72; Danilo Peinado 26, 66, Diego Chaves 47]
 Progreso    2-3 Danubio
@@ -710,7 +851,9 @@ Central     1-3 Miramar
   [Abel Hernández 48; Andrés Rodríguez 45, 51, Luis Jesús Toscanini 90]
 Tacuarembó  1-4 Liverpool
   [Aldo Díaz 70; Paulo Pezzolano 40, 63, 65, 90]
-[Jun 1]
+
+Date: 6/1/2008
+
 Peñarol     5-0 Rampla
   [Carlos Bueno 8, Fabián Estoyanoff 18, 31, Diego Rodríguez Da Luz 77,
    José Mª Franco 90]
@@ -738,8 +881,9 @@ Final Table:
 15.CA Cerro                      15  4  2  9  14-25  14
 16.CA Fénix                      15  3  3  9  19-25  12
 
-Clausura Playoff [Jun 9, Estadio Centenario]
-River Plate 3-5 Peñarol
+Clausura Playoff 
+
+6/9/2008; River Plate; 3-5; Peñarol; Estadio Centenario
   [Gerardo Alcoba 8og, Pablo Tiscornia 31, Jonathan Urretavizcaya 40;
    Gerardo Alcoba 29, Fernando Correa 44, José María Franco 57, 
    Antonio Pacheco 78, Carlos Bueno 83]
