@@ -5,6 +5,7 @@ from soccerdata.mongo import soccer_db
 
 from soccerdata.data.alias.teams.international import international
 from soccerdata.data.alias.teams.college import college
+from soccerdata.data.alias.teams.generic import generic
 from soccerdata.data.alias.teams.allstar import allstar
 from soccerdata.data.alias.teams.mls import mls_abbreviations
 from soccerdata.data.alias.teams.usl import usl_abbreviations
@@ -64,6 +65,7 @@ def get_team(name, competition=None):
 teams.update(world)
 teams.update(usa)
 teams.update(college)
+teams.update(generic)
 teams.update(international)
 teams.update(allstar)
 teams.update(mls_abbreviations)

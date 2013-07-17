@@ -158,7 +158,9 @@ world = {
     'Atlético Estudiantes': 'Estudiantes de Caseros',
     'CA Estudiantes': 'Estudiantes de Caseros',
 
+    'Estudiantes (La Plata)': 'Estudiantes de La Plata',
     'Estudiantes LP': 'Estudiantes de La Plata',
+    'Estudiantes-LP': 'Estudiantes de La Plata',
     'Estudiantes (Argentina)': 'Estudiantes de La Plata',
     'Estudiantes de la Plata': 'Estudiantes de La Plata',
     'Estudiantes LPG': 'Estudiantes de La Plata',
@@ -171,6 +173,7 @@ world = {
 
     'CA Rosario Central': 'Rosario Central'
 ,
+    'Ferro Carril Oeste(BA)': 'Ferro Carril Oeste',
     'Ferro Carril Oeste (BA)': 'Ferro Carril Oeste',
     'Ferro Carril Oeste (BUE)': 'Ferro Carril Oeste',
     'Club Ferro Carril Oeste': 'Ferro Carril Oeste',
@@ -187,7 +190,7 @@ world = {
     'Barracas Athletic': 'Barracas AC',
 
     'Reformer': 'Reformer AC',
-    'Gimnasia y Esgrima BA': 'Gimnasia y Esgrima Buenos Aires',
+
 
     'Quilmes': 'Quilmes AC',
     'Quilmes Club': 'Quilmes AC',
@@ -215,7 +218,7 @@ world = {
     'SS Lazio': 'Lazio',
     'AC Sparta Prague': 'Sparta Prague',
     'Sparta Praha': 'Sparta Prague',
-    'Belgrano Athletic': 'Belgrano',
+
     'Waypoyset FC (RI)': 'Waypoyset FC',
     'Raftery Painters': 'St. Louis Raftery Painters',
     'Squantum': 'Squantum FC',
@@ -632,7 +635,12 @@ world = {
     'Danubio FC': 'Danubio F.C.',
 
     'Atletico Wanderers': 'Montevideo Wanderers', # name map.
-    'Talleres': 'Talleres de Córdoba', # Overreach.
+
+    #'Talleres': 'Talleres de Córdoba', # Overreach.
+    'Talleres Cba': 'Talleres de Córdoba',
+    'Talleres (Córdoba)': 'Talleres de Córdoba',
+
+
     'Municipal (Peru)': 'Deportivo Municipal',
     'Universitario (Bolivia)': 'Club Universitario',
 
@@ -1793,6 +1801,25 @@ world = {
 
     # Argentina
 
+    'Olimpo (BB)': 'Olimpo',
+
+    'Unión SF': 'Unión de Santa Fe',
+    'Unión (Santa Fe)':  'Unión de Santa Fe',
+
+    'Los Andes (LdZ)': 'Los Andes de Lomas de Zamora',
+
+    'San Martín (SJ)': 'San Martín de San Juan',
+    'San Martín (T)': 'San Martín de Tucumán',
+    'San Martin (T)': 'San Martín de Tucumán',
+
+    'Gimnasia y Esgrima BA': 'Gimnasia y Esgrima Buenos Aires',
+
+    'Gimnasia J': 'Gimnasia y Esgrima de Jujuy',
+    'Gimnasia y Esgrima (J)': 'Gimnasia y Esgrima de Jujuy',
+
+    'Gimnasia LP': 'Gimnasia y Esgrima La Plata',
+    'Gymnasia LP': 'Gimnasia y Esgrima La Plata',
+    'Gimnasia Esgrima (LP)': 'Gimnasia y Esgrima La Plata',
     'Gimnasia y Esgrima (LP)': 'Gimnasia y Esgrima La Plata',
     'Gimnasia y Esgrima LPG': 'Gimnasia y Esgrima La Plata',
     'Gimnasia (LP)': 'Gimnasia y Esgrima La Plata',
@@ -1809,8 +1836,12 @@ world = {
     'Colon': 'CA Colon',
     'Colón': 'CA Colon',
     'CA Colon': 'CA Colón',
+
+    'Belgrano Athletic': 'Belgrano',
     'Belgrano': 'Belgrano AC',
     'Club Atlético Belgrano': 'Belgrano AC',
+    'Belgrano Cba': 'Belgrano AC',
+
     'Boca Juniors - Argentina': 'Boca Juniors',
     'CA Boca Juniors': 'Boca Juniors',
     'Deportivo Moron': 'Deportivo Morón',
@@ -1820,6 +1851,7 @@ world = {
     'Independiente': 'CA Independiente',
     'Lanus': 'Lanús',
     'Newells Old Boys': 'Newell\'s Old Boys', 
+    'Newell’s Old Boys': 'Newell\'s Old Boys', 
 
     'Racing Avellaneda': 'Racing Club (Argentina)',
     'Racing Club (Avellaneda)': 'Racing Club (Argentina)',

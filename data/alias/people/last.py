@@ -1,5 +1,9 @@
 
 last_names = {
+'Agüero': 'Aguero',
+'Gracián': 'Gracian',
+'Cámpora': 'Campora',
+
 '?.Luna': 'Luna',
 'Winter?': 'Winter',
 'Baéz': 'Baez',
