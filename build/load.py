@@ -83,7 +83,11 @@ def load():
 
     load_sources()
     load_places()
+
     load_competitions()
+    load_seasons()
+
+
     load_teams()
 
     load_name_maps()
@@ -108,6 +112,7 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
+    return
     load_world_international()
     load_concacaf()
 
@@ -566,6 +571,13 @@ def load_competitions():
     from soccerdata.text import competitions
     print("Loading competitions.")
     generic_load(soccer_db.competitions, competitions.load_competitions)
+
+
+def load_seasons():
+    from soccerdata.text import seasons
+    print("Loading seasons.")
+    generic_load(soccer_db.seasons, seasons.load_seasons)
+
 
 
 def load_teams():
