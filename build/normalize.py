@@ -4,6 +4,8 @@ from settings import SOURCES
 from soccerdata.data.alias import get_team, get_name, get_competition, get_place, get_stadium, get_city, get_round
 from soccerdata.mongo import generic_load, soccer_db, insert_rows, insert_row, soccer_db
 
+from magic import get_magic_team, get_magic_name
+
 
 def make_location_normalizer():
     """
@@ -124,7 +126,9 @@ def calculate_game_results(d):
     x = 5
 
 
-
+def normalize_season(e):
+    e['competition'] = get_competition(e['competition'])
+    return e
 
 # Change all of these to use only a single game.
 
@@ -138,6 +142,10 @@ def normalize_game(e):
 
     e['team1'] = get_team(e['team1'])
     e['team2'] = get_team(e['team2'])
+
+    e['team1'] = get_magic_team(e['team1'], e)
+    e['team2'] = get_magic_team(e['team2'], e)
+
 
     if e.get('home_team'):
         e['home_team'] = get_team(e['home_team'])
@@ -257,6 +265,10 @@ def normalize_goal(e):
     e['team'] = get_team(e['team'])
     e['goal'] = get_name(e['goal'])
 
+    e['team'] = get_magic_team(e['team'], e)
+    e['goal'] = get_magic_name(e['goal'], e)
+
+
     if e['goal'] == 'Own Goal':
         e['own_goal'] = True
         e['goal'] = None
@@ -292,6 +304,10 @@ def normalize_stat(e):
     e['competition'] = get_competition(e['competition'])
     e['team'] = get_team(e['team'])
     e['name'] = get_name(e['name'])
+
+    e['team'] = get_magic_team(e['team'], e)
+    e['name'] = get_magic_name(e['name'], e)
+
 
     for k in (
         'games_started', 
@@ -338,6 +354,10 @@ def normalize_lineup(e):
     e['team'] = get_team(e['team'])
     e['name'] = get_name(e['name'])
 
+    e['team'] = get_magic_team(e['team'], e)
+    e['name'] = get_magic_name(e['name'], e)
+
+
     """
     if type(e['on']) in (str, unicode) and e['on'].endswith('\''):
         e['on'] = e['on'][:-1]
@@ -358,6 +378,9 @@ def normalize_lineup(e):
 
 def normalize_standing(e):
     e['competition'] = get_competition(e['competition'])
+
+    e['team'] = get_magic_team(e['team'], e)
+
     try:
         e['team'] = get_team(e['team'])
     except:
@@ -431,6 +454,7 @@ def normalize():
             normalize_single_coll(coll, func)
             
 
+    normalize_single_coll(soccer_db.seasons, normalize_season)
 
     normalize_single_coll(soccer_db.picks, normalize_pick)
     normalize_single_coll(soccer_db.salaries, normalize_salary)

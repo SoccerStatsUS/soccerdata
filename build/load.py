@@ -4,8 +4,7 @@ from soccerdata.data.alias.people import check_for_name_loops
 from soccerdata.data.alias.teams import check_for_team_loops
 from soccerdata.text import awards, bios, drafts, lineups, ltrack, partial, rosters, salaries, standings, stats
 from soccerdata.text.cmp import apsl, asl, copaamerica, nasl
-#from soccerdata import scrapers
-#from soccerdata.scrapers import mls
+
 
 def clear_all():
     """
@@ -87,7 +86,6 @@ def load():
     load_competitions()
     load_seasons()
 
-
     load_teams()
 
     load_name_maps()
@@ -112,19 +110,33 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
+    load_argentina()
+    load_mexico()
+    load_uruguay()
     return
 
-    load_argentina()
+    return
+    load_colombia()
+
+    load_chile()
+
+    load_china()
+    load_australia()    
+    return
+
+    load_japan()
+    load_korea()
+    return
+
     load_mls() 
     load_conmebol()
-    load_mexico()
     return
 
     load_oceania_international()
     load_concacaf_international()
     load_world_international()
     load_concacaf()
-    load_uruguay()
+
 
 
     load_usmnt()
@@ -140,20 +152,15 @@ def load_games():
 
 
     load_women()
-    load_china()
-    load_australia()    
-    load_korea()
-    load_japan()
+
+
+
+
     load_oceania()
 
 
 
 
-
-    load_chile()
-
-
-    load_colombia()
     load_ecuador()
 
     load_conmebol_international()
@@ -380,11 +387,21 @@ def load_uruguay():
     load_standings_standard('uruguay', 'domestic/country/uruguay')
     generic_load(soccer_db.uruguay_awards, awards.process_uruguay_awards)
     load_games_standard('uruguay', 'domestic/country/uruguay/prelibertadores')
-    for year in range(1932, 1960):
-        load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
 
     for year in range(1994, 1995):
         load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
+
+
+    #for year in range(2010, 2011):
+    #    load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
+
+
+
+    return
+
+    for year in range(1932, 1960):
+        load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
+
 
 def load_colombia():
     #load_standings_standard('colombia', 'domestic/country/colombia2')
@@ -416,9 +433,16 @@ def load_chile():
     for year in range(1971, 1979):
         load_games_standard('chile', 'domestic/country/chile/%s' % year)
 
+    #for year in range(2009, 2012):
+    #    load_games_standard('chile', 'domestic/country/chile/%s' % year)
+
+
 
 def load_argentina():
     generic_load(soccer_db.argentina_awards, awards.process_argentina_awards)
+
+    load_standings_standard('chile', 'domestic/country/argentina')
+
     load_games_standard('argentina', 'domestic/country/argentina/leagues/1891')
     load_games_standard('argentina', 'domestic/country/argentina/leagues/1893')
     load_games_standard('argentina', 'domestic/country/argentina/leagues/1896')
@@ -429,16 +453,18 @@ def load_argentina():
     for year in range(1932, 1965):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
 
-    for year in range(1976, 1976):
-        load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
+    # Metropolitan / Regional leagues.
 
     for year in range(1986, 1988):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
 
-    for year in range(1996, 1999):
+    for year in range(1989, 1990):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
 
-    for year in range(2003, 2011):
+    for year in range(1991, 1995):
+        load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
+
+    for year in range(1996, 2011):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
 
 
@@ -591,7 +617,6 @@ def load_seasons():
     from soccerdata.text import seasons
     print("Loading seasons.")
     generic_load(soccer_db.seasons, seasons.load_seasons)
-
 
 
 def load_teams():
@@ -847,7 +872,7 @@ def load_mexico():
     # Cups
 
 
-
+    return
 
     # Friendlies.
     load_games_standard('mexico', 'domestic/country/mexico/friendly/adolfo_lopez_mateos')
