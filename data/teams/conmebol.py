@@ -95,10 +95,48 @@ l = [
         'city': 'Tulua, Colombia',
         },
 
+    # Argentina
+
     {
         'name': 'Atlético Tucumán',
         'founded': datetime.datetime(1902, 9, 27),
         'city': 'San Miguel de Tucumán, Argentina',
+        },
+
+    {
+        'name': 'Temperley',
+        'founded': datetime.datetime(1912, 11, 1),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Olimpo',
+        'founded': datetime.datetime(1910, 10, 15),
+        'city': 'Bahia Blanca, Argentina',
+        },
+
+    {
+        'name': 'San Martín de Tucumán',
+        'founded': datetime.datetime(1909, 11, 2),
+        'city': 'San Miguel de Tucumán, Argentina',
+        },
+
+    {
+        'name': 'San Martín de San Juan',
+        'founded': datetime.datetime(1907, 9, 27),
+        'city': 'San Juan, Argentina',
+        },
+
+    {
+        'name': 'All Boys',
+        'founded': datetime.datetime(1913, 3, 15),
+        'city': 'Floresta, Buenos Aires',
+        },
+
+    {
+        'name': 'Nueva Chicago',
+        'founded': datetime.datetime(1911, 7, 1),
+        'city': 'Buenos Aires, Argentina',
         },
 
     {
@@ -649,6 +687,20 @@ l = [
         },
 
     {
+        'name': 'Gimnasia y Esgrima de Jujuy',
+        'founded': datetime.datetime(1931, 3, 18),
+        'city': 'San Salvador de Jujuy, Argentina',
+        },
+
+
+    {
+        'name': 'Gimnasia y Esgrima Buenos Aires',
+        'founded': datetime.datetime(1880, 11, 11),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+
+    {
         'name': 'Alianza Atlético',
         'founded': 1920,
         'city': 'Sullana, Peru',
@@ -728,6 +780,18 @@ l = [
         'name': 'Argentinos Juniors',
         'founded': datetime.datetime(1904, 8, 15),
         'city': 'Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Instituto',
+        'founded': datetime.datetime(1918, 8, 8),
+        'city': 'Cordoba, Argentina',
+        },
+
+    {
+        'name': 'Unión de Santa Fe',
+        'founded': datetime.datetime(1907, 4, 15),
+        'city': 'Santa Fe, Argentina',
         },
 
     {
@@ -873,12 +937,6 @@ l = [
     {
         'name': 'Talleres de Remedios de Escalada',
         'founded': datetime.datetime(1906, 6, 1),
-        'city': 'Buenos Aires, Argentina',
-        },
-
-    {
-        'name': 'Gimnasia y Esgrima Buenos Aires',
-        'founded': datetime.datetime(1880, 11, 11),
         'city': 'Buenos Aires, Argentina',
         },
 
@@ -1049,7 +1107,7 @@ l = [
     {
         'name': 'Tigre',
         'founded': datetime.datetime(1902, 8, 3),
-        'city': 'Buenos Airse, Argentina',
+        'city': 'Buenos Aires, Argentina',
         },
     {
         'name': 'Club Destroyers',
@@ -1469,9 +1527,6 @@ l = [
         'founded': datetime.datetime(1908, 3, 25),
         'city': 'Belo Horizonte, Brazil',
         },
-
-
-
 
     {
         'name': 'ESPOLI',

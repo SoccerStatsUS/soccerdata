@@ -186,9 +186,10 @@ class GeneralProcessor(object):
             if d and d.lower() != 'none':
                 try:
                     month, day, year = [int(e) for e in d.split('/')]
+                    self.date = datetime.datetime(year, month, day)
                 except:
                     import pdb; pdb.set_trace()
-                self.date = datetime.datetime(year, month, day)
+
             else:
                 self.date = None
 

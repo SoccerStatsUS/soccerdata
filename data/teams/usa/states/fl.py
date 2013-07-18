@@ -201,6 +201,12 @@ l = [
         },
 
     {
+        'name': 'VSI Tampa Bay FC',
+        'city': 'Plant City, FL',
+        'founded': 2011,
+        },
+
+    {
         'name': 'Tampa Bay Hawks',
         'city': 'Palm Harbor, FL',
         'founded': 2000,

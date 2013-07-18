@@ -45,6 +45,106 @@ d = {
         (1938, 'Independiente'),
         (1939, 'Independiente'),
         (1940, 'Boca Juniors'),
+        (1941, 'River Plate'),
+        (1942, 'River Plate'),
+        (1943, 'Boca Juniors'),
+        (1944, 'Boca Juniors'),
+        (1945, 'River Plate'),
+        (1946, 'San Lorenzo de Almagro'),
+        (1947, 'River Plate'),
+        (1948, 'Independiente'),
+        (1949, 'Racing Club'),
+        (1950, 'Racing Club'),
+        (1951, 'Racing Club'),
+        (1952, 'River Plate'),
+        (1953, 'River Plate'),
+        (1954, 'Boca Juniors'),
+        (1955, 'River Plate'),
+        (1956, 'River Plate'),
+        (1957, 'River Plate'),
+        (1958, 'Racing Club'),
+        (1959, 'San Lorenzo de Almagro'),
+        (1960, 'Independiente'),
+        (1961, 'Racing Club'),
+        (1962, 'Boca Juniors'),
+        (1963, 'Independiente'),
+        (1964, 'Boca Juniors'),
+        (1965, 'Boca Juniors'),
+        (1966, 'Racing Club'),
+
+        ('1985-1986', 'River Plate'),
+        ('1986-1987', 'Rosario Central'),
+        ('1987-1988', 'Newell\'s Old Boys'),
+        ('1988-1989', 'Independiente'),
+        ('1989-1990', 'River Plate'),
+        ('1990-1991', 'Newell\'s Old Boys'),
+
+        ('1991 Apertura', 'River Plate'),
+        ('1992 Clausura', 'Newell\'s Old Boys'),
+
+        ('1992 Apertura', 'Boca Juniors'),
+        ('1993 Clausura', 'Velez Sarsfield'),
+
+        ('1993 Apertura', 'River Plate'),
+        ('1994 Clausura', 'Independiente'),
+
+        ('1994 Apertura', 'River Plate'),
+        ('1995 Clausura', 'San Lorenzo de Almagro'),
+
+        ('1995 Apertura', 'Velez Sarsfield'),
+        ('1996 Clausura', 'Velez Sarsfield'),
+
+        ('1996 Apertura', 'River Plate'),
+        ('1997 Clausura', 'River Plate'),
+
+        ('1997 Apertura', 'River Plate'),
+        ('1998 Clausura', 'Velez Sarsfield'),
+
+        ('1998 Apertura', 'Boca Juniors'),
+        ('1999 Clausura', 'Boca Juniors'),
+
+        ('1999 Apertura', 'River Plate'),
+        ('2000 Clausura', 'River Plate'),
+        
+        ('2000 Apertura', 'Boca Juniors'),
+        ('2001 Clausura', 'San Lorenzo de Almagro'),
+
+        ('2001 Apertura', 'Racing Club'),
+        ('2002 Clausura', 'River Plate'),
+
+        ('2002 Apertura', 'Independiente'),
+        ('2003 Clausura', 'River Plate'),
+
+        ('2003 Apertura', 'Boca Juniors'),
+        ('2004 Clausura', 'River Plate'),
+
+        ('2004 Apertura', 'Newell\'s Old Boys'),
+        ('2005 Clausura', 'Velez Sarsfield'),
+
+        ('2005 Apertura', 'Boca Juniors'),
+        ('2006 Clausura', 'Boca Juniors'),
+
+        ('2006 Apertura', 'Estudiantes de la Plata'),
+        ('2007 Clausura', 'San Lorenzo de Almagro'),
+
+        ('2007 Apertura', 'Lanus'),
+        ('2008 Clausura', 'River Plate'),
+
+        ('2008 Apertura', 'Boca Juniors'),
+        ('2009 Clausura', 'Velez Sarsfield'),
+
+        ('2009 Apertura', 'Banfield'),
+        ('2010 Clausura', 'Argentinos Juniors'),
+
+        ('2010 Apertura', 'Estudiantes de la Plata'),
+        ('2011 Clausura', 'Velez Sarsfield'),
+
+        ('2011 Apertura', 'Boca Juniors'),
+        ('2012 Clausura', 'Arsenal de Sarandi'),
+
+        ('2012 Apertura', 'Velez Sarsfield'),
+        ('2013 Clausura', 'Newell\'s Old Boys'),
+        
          ]
 
 

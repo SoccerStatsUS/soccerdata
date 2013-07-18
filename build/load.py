@@ -108,21 +108,28 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
+    load_argentina()
+    load_mls() 
+    load_conmebol()
+    load_mexico()
+    return
+
+    load_oceania_international()
+    load_concacaf_international()
     load_world_international()
     load_concacaf()
+    load_uruguay()
 
-    load_mls() 
 
     load_usmnt()
     load_uncaf()
-    return
 
     load_asl()  
     load_nasl() 
     load_usa_cups()
     load_world()
-    load_concacaf_international()
-    load_conmebol()
+
+
     load_uncaf_international()
 
 
@@ -133,7 +140,7 @@ def load_games():
     load_japan()
     load_oceania()
 
-    load_mexico()
+
 
 
 
@@ -146,7 +153,7 @@ def load_games():
     load_conmebol_international()
 
     load_peru()
-    load_uruguay()
+
     load_bolivia()
 
     load_mixed_confederation()
@@ -159,7 +166,7 @@ def load_games():
     load_early_friendlies()
     load_modern_friendlies()
     load_brazil()
-    load_argentina()
+
     load_cfu()
 
     load_ltrack()
@@ -175,7 +182,7 @@ def load_games():
 
 
 
-    load_oceania_international()
+
     load_ncaa()
     load_indoor()
 
@@ -419,7 +426,13 @@ def load_argentina():
     for year in range(1976, 1976):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
 
-    for year in range(2009, 2011):
+    for year in range(1986, 1988):
+        load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
+
+    for year in range(1996, 1999):
+        load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
+
+    for year in range(2003, 2011):
         load_games_standard('argentina', 'domestic/country/argentina/leagues/%s' % year)
 
 
@@ -855,8 +868,7 @@ def load_oceania():
 
 
 def load_oceania_international():
-    load_games_standard('oceania_i', 'international/confederation/ofc/wcq')
-    #load_games_standard('oceania_i', 'international/confederation/ofc/wcq')
+    load_games_standard('oceania_i', 'international/confederation/ofc/wcq/2014')
     load_games_standard('oceania_i', 'international/confederation/ofc/melanesia')
     load_games_standard('oceania_i', 'international/confederation/ofc/polynesia')
     load_games_standard('oceania_i', 'international/confederation/ofc/nations')
@@ -1075,6 +1087,7 @@ def load_concacaf_international():
 
     for year in range(1994, 2015, 4):
         load_games_standard('concacaf_i', 'international/confederation/concacaf/wcq/%s' % year)
+    load_games_standard('concacaf_i', 'international/confederation/concacaf/wcq/world_cup_qualifying')
 
     for year in [2009, 2011, 2013]:
         load_games_standard('concacaf_i', 'international/confederation/concacaf/u20/%s' % year)
@@ -1091,17 +1104,20 @@ def load_concacaf_international():
     load_uncaf_international()
     load_caribbean_international()
 
-    load_games_standard('concacaf_i', 'international/confederation/concacaf/gold')
 
-    load_games_standard('concacaf_i', 'international/confederation/concacaf/championship')
-    load_games_standard('concacaf_i', 'international/confederation/concacaf/cccf')
+    for e in [1991, 1993, 1996, 1998, 2000, 2002, 2003, 2005, 2007, 2009, 2011, 2013]:
+        load_games_standard('concacaf_i', 'international/confederation/concacaf/gold/%s' % e)
+
+    load_games_standard('concacaf_i', 'international/confederation/concacaf/gold/championship')
+    load_games_standard('concacaf_i', 'international/confederation/concacaf/gold/cccf')
+
     load_games_standard('concacaf_i', 'international/confederation/concacaf/cacg')
 
     load_games_standard('concacaf_i', 'international/confederation/concacaf/martinez')
     load_games_standard('concacaf_i', 'international/confederation/concacaf/independence')
     load_games_standard('concacaf_i', 'international/confederation/concacaf/friendly')
 
-    load_games_standard('concacaf_i', 'international/confederation/concacaf/world_cup_qualifying')
+
 
     load_games_standard('canada', 'international/country/canada/1900')
     load_games_standard('canada', 'international/country/canada/2000')

@@ -114,7 +114,11 @@ def generate_competition_stats():
         'Eastern Soccer League (1928-1929)',
         'International Soccer League',
         'USSF Division 2 Professional League',
+
         'Liga MX',
+        'Argentine Primera División',
+
+
         'Liga MX Liguilla',
         'Campeón de Campeones',
         'Campeonato Brasileiro Série A',

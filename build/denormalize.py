@@ -44,6 +44,11 @@ magic_teams = {
         (from_competition('Liga Nacional de Guatemala'), 'Antigua GFC')
         ],
 
+
+    'Arsenal': [
+        (from_competition('Argentine Primera División'), 'Arsenal de Sarandi'),
+        ],
+
     'Atlético Nacional': [
         (from_competition('Liga Panameña de Fútbol'), 'Atlético Nacional (Panama)'),
         ],
@@ -59,6 +64,7 @@ magic_teams = {
     'Estudiantes': [
         (from_competition('Liga MX'), 'Tecos'),
         (from_competition('Copa Libertadores'), 'Estudiantes de La Plata'),
+        (from_competition('Argentine Primera División'), 'Estudiantes de La Plata'),
         ],
 
     'Heredia': [
@@ -106,7 +112,15 @@ magic_teams = {
     'Racing': [
         (from_competition('Liguilla Pre-Libertadores de América (Uruguay)'), 'Racing Club de Montevideo'),
         (from_competition('Uruguayan Primera División'), 'Racing Club de Montevideo'),
+        (from_competition('Argentine Primera División'), 'Racing Club de Avellaneda'),
         ],
+
+    'Racing Club': [
+        (from_competition('Liguilla Pre-Libertadores de América (Uruguay)'), 'Racing Club de Montevideo'),
+        (from_competition('Uruguayan Primera División'), 'Racing Club de Montevideo'),
+        (from_competition('Argentine Primera División'), 'Racing Club de Avellaneda'),
+        ],
+
 
     'River Plate': [
         (from_competition('Uruguayan Primera División'), 'River Plate (Montevideo)'),
@@ -144,6 +158,10 @@ magic_teams = {
 
     'Universidad': [
         (from_competition('Liga Nacional de Honduras'), 'Pumas UNAH'),
+        ],
+
+    'Union': [
+        (from_competition('Argentine Primera División'), 'Unión de Santa Fe'),
         ],
 
     'Valencia': [

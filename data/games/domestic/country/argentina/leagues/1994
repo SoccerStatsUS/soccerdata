@@ -1,8 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesa/arg95.html
-
-Argentina 1994/95
-
-Apertura 1994
+Season: 1994 Apertura
+Competition: Liga Argentina de Football
 
 
 * 1. River Plate                      19  12   7   0    6  4  0   6  3  0   31 14   31   [Champion]
@@ -28,7 +26,7 @@ Apertura 1994
 *20. Talleres (Córdoba)               19   2   7  10    1  4  4   1  3  6   18 29    9 
  
  
-Round: Round 1 
+Round: 1 
 [Sep 2]
 Lanús                   1-1     River Plate                     [at Independiente]
 [Sep 3]
@@ -43,7 +41,7 @@ Talleres (Cba.)                                                                 
 Huracán                                                                                 3-1      Dep.Mandiyú (Ctes.)
 Platense                                                                                         1-1         Dep. Español
  
-Round: Round 2 
+Round: 2 
 [Sep 9]
 San Lorenzo             0-0     Argentinos Juniors
 [Sep 10]
@@ -58,7 +56,7 @@ River Plate                     1-0    Rosario Central
 Belgrano (Cba.)                        1-1     Gimnasia y Esgrima (LP)          [at Instituto]
 Independiente                                  1-1      Ferro Carril Oeste
  
-Round: Round 3 
+Round: 3 
 [Sep 16]
 Ferro Carril Oeste      1-1     San Lorenzo
 [Sep 17]
@@ -74,7 +72,7 @@ Talleres (Cba.)                                                  1-1         Dep
 Huracán                                                                      3-0  Platense
  
  
-Round: Round 4         
+Round: 4         
 [Sep 23]
 Dep. Español            1-3     Boca Juniors                    [at Huracán]
 [Sep 24]
@@ -89,7 +87,7 @@ River Plate                     3-2     Argentinos Juniors
 Belgrano (Cba.)                         0-1        Ferro Carril Oeste           [at Córdoba]
 San Lorenzo                                        2-1   Independiente
  
-Round: Round 5         
+Round: 5         
 [Sep 30]
 Independiente           3-1     Belgrano (Cba.)
 Gimnasia y Esgrima (LP) 1-2     Banfield
@@ -104,7 +102,7 @@ Rosario Central                 0-0      Newell's Old Boys
 Vélez Sarsfield                          1-0      Dep. Español
 Boca Juniors                                      2-2  Platense
  
-Round: Round 6 
+Round: 6 
 [Oct 7]
 Racing Club             1-0     Talleres (Cba.)
 [Oct 8]
@@ -121,7 +119,7 @@ River Plate                          2-1   Independiente
 Banfield                0-1     Argentinos Juniors
 
  
-Round: Round 7         
+Round: 7         
 [Oct 14]
 Vélez Sarsfield         4-1     Huracán
 [Oct 15]
@@ -137,7 +135,7 @@ Rosario Central                          0-1   Dep. Español
 [Oct 17]
 Lanús                   0-1     Platense
  
-Round: Round 8 
+Round: 8 
 [Oct 21]
 River Plate             1-1     Belgrano (Cba.)
 [Oct 22]
@@ -153,7 +151,7 @@ Gimnasia y Esg. (Jujuy)                         0-1     San Lorenzo
 [Oct 24]
 Platense                2-0     Rosario Central
  
-Round: Round 9         
+Round: 9         
 [Oct 28]
 San Lorenzo             1-0     Banfield
 [Oct 29]
@@ -167,7 +165,7 @@ Rosario Central                        0-0      Huracán
 Lanús                                           1-1     Talleres (Cba.)
 Vélez Sarsfield                                         1-1      Boca Juniors
  
-Round: Round 10
+Round: 10
 [Nov 1]
 Gimnasia y Esg. (Jujuy) 1-2     River Plate
 Racing Club             1-0     Vélez Sarsfield
@@ -184,7 +182,7 @@ Huracán                 1-1     Gimnasia y Esgrima (LP)         [at Ferro Carri
 Boca Juniors            5-0     Lanús
 Newell's Old Boys       2-0     San Lorenzo
  
-Round: Round 11        
+Round: 11        
 [Nov 4]
 San Lorenzo             2-1     Dep.Mandiyú (Ctes.)
 [Nov 5]
@@ -199,7 +197,7 @@ Gimnasia y Esgrima (LP)                 1-1      Talleres (Cba.)
 Rosario Central                         2-1      Boca Juniors
 Lanús                                            0-0  Vélez Sarsfield
  
-Round: Round 12        
+Round: 12        
 [Nov 11]
 Vélez Sarsfield         1-3     Rosario Central
 [Nov 12]
@@ -215,7 +213,7 @@ Banfield                                                  0-0   Gimnasia y Esg. 
 [Nov 14]
 Racing Club             1-3     Lanús
  
-Round: Round 13        
+Round: 13        
 [Nov 18]
 Banfield                1-0     Racing Club
 [Nov 19]
@@ -231,7 +229,7 @@ Gimnasia y Esgrima (LP)                          3-1    Vélez Sarsfield
 [Nov 22]
 Ferro Carril Oeste      3-0     Talleres (Cba.)
  
-Round: Round 14        
+Round: 14        
 [Nov 24]
 Vélez Sarsfield         0-0     Argentinos Juniors
 [Nov 25]
@@ -246,7 +244,7 @@ Platense                                                                        
 Dep. Español                                                                        1-3      River Plate                 [at Ferro Carril Oeste]
 Dep.Mandiyú (Ctes.)                                                                 3-0      Gimnasia y Esg. (Jujuy)         [at Huracán Corrientes]
  
-Round: Round 15        
+Round: 15        
 [Nov 17]
 Ferro Carril Oeste      1-6     Vélez Sarsfield
 [Nov 29]
@@ -260,7 +258,7 @@ Independiente                                                           1-4     
 Argentinos Juniors                                                      0-0      Lanús                          [at Atlanta]
 Gimnasia y Esgrima (LP)                                                 0-0      Rosario Central
  
-Round: Round 16        
+Round: 16        
 [Dec 2]
 Racing Club             1-1     Gimnasia y Esgrima (LP)
 [Dec 3]
@@ -275,7 +273,7 @@ Dep.Mandiyú (Ctes.)                                                 0-2      Ne
 [Dec 15]
 Vélez Sarsfield         1-0     Independiente
  
-Round: Round 17
+Round: 17
 [Dec 6]
 Dep.Mandiyú (Ctes.)     0-0     Racing Club                     [at Huracán Corrientes]
 Newell's Old Boys       0-1     Dep. Español
@@ -290,7 +288,7 @@ Independiente           3-3     Lanús
 Banfield                        2-0     Platense
 
  
-Round: Round 18        
+Round: 18        
 [Dec 9]
 Racing Club             2-1     Argentinos Juniors
 [Dec 10]
@@ -305,7 +303,7 @@ Huracán                                    3-1      Banfield
 Platense                                            1-1 Newell's Old Boys
 Dep. Español                                            1-1      Dep.Mandiyú (Ctes.)
  
-Round: Round 19        
+Round: 19        
 [Dec 16]
 Dep. Español            1-1     Racing Club
 [Dec 17]
@@ -392,7 +390,7 @@ Clausura 1995
 *19. Huracán                          19   3   7   9    1  5  4   2  2  5   20 35   13
 *20. Argentinos Juniors               19   2   8   9    1  5  4   1  3  5   18 36   12 
 * 
-Round: Round 1         
+Round: 1         
 [Feb 24]        
 Banfield                0-2     Boca Juniors
 [Feb 25]
@@ -409,7 +407,7 @@ Dep. Español            0-1     Platense                        [at Ferro Carri
 [Mar 15]
 Belgrano (Cba.)         1-3     Rosario Central                 [at Córdoba]
  
-Round: Round 2
+Round: 2
 [Mar 3]
 Argentinos Juniors      2-0     San Lorenzo                     [at Ferro Carril Oeste]
 [Mar 4]
@@ -425,7 +423,7 @@ Ferro Carril Oeste 0-2                                           Independiente
 [Mar 6]
 Lanús                   3-0     Gimnasia y Esg. (Jujuy)         [at Banfield]
  
-Round: Round 3         
+Round: 3         
 [Mar 10]
 San Lorenzo             2-0     Ferro Carril Oeste
 [Mar 11]
@@ -441,7 +439,7 @@ Dep.Mandiyú (Ctes.)             0-0    Boca Juniors                     [at Lig
 [Mar 13]
 Dep. Español            2-0     Talleres (Cba.)                 [at Ferro Carril Oeste]
  
-Round: Round 4 
+Round: 4 
 [Mar 17]
 Argentinos Juniors      2-4     River Plate                     [at Ferro Carril Oeste]
 [Mar 18]
@@ -457,7 +455,7 @@ Independiente                                           0-1      San Lorenzo
 [Mar 20]
 Ferro Carril Oeste      1-0     Belgrano (Cba.)
  
-Round: Round 5         
+Round: 5         
 [Mar 24]
 Platense                2-2     Boca Juniors                    [at Vélez Sarsfield]
 [Mar 25]
@@ -473,7 +471,7 @@ Huracán                                                               1-1      
 [Mar 27]
 Banfield                1-0     Gimnasia y Esgrima (LP)
  
-Round: Round 6 
+Round: 6 
 [Mar 31]
 Boca Juniors            2-1     Huracán
 [Apr 1]
@@ -489,7 +487,7 @@ San Lorenzo                              1-0   Belgrano (Cba.)
 [Apr 3]
 Lanús                   2-0     Dep. Español
  
-Round: Round 7         
+Round: 7         
 [Apr 7]
 Racing Club             1-1     Belgrano (Cba.)
 [Apr 8]
@@ -507,7 +505,7 @@ Huracán                 0-2     Vélez Sarsfield
 [May 24]
 Gimnasia y Esg. (Jujuy) 2-0     Independiente
  
-Round: Round 8 
+Round: 8 
 [Apr 14]
 San Lorenzo             2-1     Gimnasia y Esg. (Jujuy)
 [Apr 15]
@@ -523,7 +521,7 @@ Argentinos Juniors 2-2                                  Dep.Mandiyú (Ctes.)    
 [Apr 17]
 Ferro Carril Oeste      2-1     Newell's Old Boys
  
-Round: Round 9         
+Round: 9         
 [Apr 21]
 Huracán                 2-5     Rosario Central
 [Apr 22]
@@ -539,7 +537,7 @@ Boca Juniors                     1-0                            Vélez Sarsfield
 [Apr 24]
 Dep. Español            3-0     Argentinos Juniors              [at Ferro Carril Oeste]
  
-Round: Round 10        
+Round: 10        
 [Apr 28]
 Lanús                   1-1     Boca Juniors                    [at Independiente]
 [Apr 29]
@@ -554,7 +552,7 @@ San Lorenzo                                 3-0         Newell's Old Boys
 Belgrano (Cba.)                                         2-2      Banfield                       [at Córdoba]
 River Plate                                                      0-1                            Gimnasia y Esg. (Jujuy)
  
-Round: Round 11        
+Round: 11        
 [May 5,6]
 Racing Club             0-0     Gimnasia y Esg. (Jujuy)
 Banfield                        1-1      River Plate
@@ -567,7 +565,7 @@ Talleres (Cba.)                                                                 
 Boca Juniors                                                                                                2-2      Rosario Central
 Vélez Sarsfield                                                                                                      2-1     Lanús
  
-Round: Round 12
+Round: 12
 [May 9]
 Lanús                   1-2     Racing Club
 Rosario Central                 1-1    Vélez Sarsfield
@@ -580,7 +578,7 @@ Belgrano (Cba.)                                 1-1  Dep.Mandiyú (Ctes.)       
 River Plate                                          1-0         Newell's Old Boys
 Gimnasia y Esg. (Jujuy)                              1-1         Banfield
  
-Round: Round 13        
+Round: 13        
 [May 15]        
 Boca Juniors            2-3     Argentinos Juniors
 [May 16]                
@@ -595,7 +593,7 @@ Talleres (Cba.)                                                           0-1   
 Vélez Sarsfield                                                                 1-2   Gimnasia y Esgrima (LP)
 Lanús                                                                                 1-1      Rosario Central
  
-Round: Round 14        
+Round: 14        
 [May 19]
 Ferro Carril Oeste      0-1     Boca Juniors
 [May 20]
@@ -611,7 +609,7 @@ Gimnasia y Esg. (Jujuy)                         1-1                             
 [May 22]
 Banfield                0-1     Newell's Old Boys
  
-Round: Round 15        
+Round: 15        
 [May 26]
 Platense                0-0     River Plate
 [May 27]
@@ -626,7 +624,7 @@ Vélez Sarsfield                                                          3-0   
 Lanús                                                                           0-0   Argentinos Juniors
 Rosario Central                                                                       1-1        Gimnasia y Esgrima (LP)
  
-Round: Round 16
+Round: 16
 [Jun 2]
 Independiente           2-2     Vélez Sarsfield
 [Jun 3]
@@ -641,7 +639,7 @@ Gimnasia y Esg. (Jujuy)              2-0      Platense
 Banfield   1-2  Dep. Español
 Newell's Old Boys    3-0        Dep.Mandiyú (Ctes.)
  
-Round: Round 17
+Round: 17
 [Jun 9]
 Vélez Sarsfield         1-0     San Lorenzo
 [Jun 10]
@@ -658,7 +656,7 @@ Gimnasia y Esgrima (LP)                                                         
 Platense                2-0     Banfield
 
  
-Round: Round 18        
+Round: 18        
 [Jun 16]
 Argentinos Juniors      0-1     Racing Club                     [at Huracán]
 [Jun 17]
@@ -673,7 +671,7 @@ Banfield   3-1  Huracán
 Newell's Old Boys       1-1     Platense
 Dep.Mandiyú (Ctes.)     0-0     Dep. Español                    [at Huracán Corrientes]
  
-Round: Round 19        
+Round: 19        
 [Jun 23]
 Boca Juniors            3-1     Gimnasia y Esg. (Jujuy)
 [Jun 24]

@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesa/arg02.html
 Season: 2001 Apertura
-
+Competition: Liga Argentina de Football
  
 * 1.Racing Club             19 12  6  1 34-17 42 [Apertura Champions]
 * 2.River Plate             19 12  5  2 51-16 41
@@ -24,15 +24,20 @@ Season: 2001 Apertura
 *20.Talleres (Córdoba)      19  4  1 14 18-37 13
 
 Round: 1 
-[Aug 17]
+Date: 8/17/2001
+
 Racing Club         2-1  Argentinos Juniors  
   [Arano, De Muner (o.g) - Insúa]
-[Aug 18]
+
+Date: 8/18/2001
+
 Rosario Central     2-1  Lanús 
   [Vespa, Pizzi - Bustos]
 Nueva Chicago       0-3  San Lorenzo  
   [Franco, L. Rodríguez, Benito]
-[Aug 19]
+
+Date: 8/19/2001
+
 Talleres (Cba)      1-3  River Plate  
   [La Paglia - Cardetti (2), Ayala]
 Boca Juniors        1-3  Belgrano (Cba) 
@@ -49,10 +54,14 @@ Estudiantes LP      2-2  Colón SF
   [Maggiolo, Farías - Aquino, Delgado]
 
 Round: 2 
-[Aug 24]
+
+Date: 8/24/2001
+
 Chacarita Juniors   2-2  Unión (SF) 
   [Moreno, Müller - Tilger, Ruiz]
-[Aug 25]
+
+Date: 8/25/2001
+
 Lanús               4-0  Talleres (Cba) 
   [Klimowicz (2), Bustos, Díaz]
 Argentinos Juniors  1-0  Rosario Central 
@@ -60,7 +69,9 @@ Argentinos Juniors  1-0  Rosario Central
 Colón (SF)          abd  Nueva Chicago  
   [Migliónico]
   [Abandoned 1-0 at 11' because Migliónico (CSF) injured seriously after goal]
-[Aug 26]
+
+Date: 8/26/2001
+
 River Plate         4-1  Huracán 
   [Cambiasso, Moner (o.g), Ortega, Cardetti - Morquio]
 Independiente       1-1  Racing Club  
@@ -73,13 +84,17 @@ San Lorenzo         1-0  Boca Juniors
   [Capria]
 Gimnasia (LP)       1-1  Estudiantes (LP)  
   [Sava - Sanguinetti (o.g)] 
-[Sep 12]
+
+Date: 9/12/2001
+
 Colón (SF)          3-1  Nueva Chicago  
   [Migliónico, Graf, Capurro - O. Gómez]
   [Remaining 79']
 
 Round: 3 
-[Aug 28]
+
+Date: 8/28/2001
+
 Rosario Central     0-1  Racing Club 
   [Chatruc]
 Nueva Chicago       0-0  Gimnasia (LP)  
@@ -89,7 +104,9 @@ Independiente       0-1  Newell’s Old Boys
   [Dueña]
 Huracán             1-2  Lanús 
   [Adippe - Klimowicz (pen), Díaz]
-[Aug 29]
+
+Date: 8/29/2001
+
 Estudiantes (LP)    0-3  Chacarita Juniors  
   [Müller (3)]
 Banfield            2-2  San Lorenzo  
@@ -101,15 +118,21 @@ Unión (SF)          1-1  River Plate
 Boca Juniors        0-0  Colón (SF)  
 
 Round: 4 
-[Aug 31]
+
+Date: 8/31/2001
+
 Racing Club         2-1  Newell’s Old Boys 
   [Milito (2) - Dueña]
-[Sep 1]
+
+Date: 9/1/2001
+
 Lanús               2-0  Unión (SF) 
   [Daniele, Klimowicz]
 Belgrano (Cba)      0-2  Independiente 
   [Forlán, Montenegro (pen)]
-[Sep 2]
+
+Date: 9/2/2001
+
 Chacarita Juniors   2-0  Nueva Chicago  
   [Müller, Quinteros]
 River Plate         3-0  Estudiantes (LP)  
@@ -126,15 +149,21 @@ Gimnasia LP         2-2  Boca Juniors
   [Sava, Pautasso - Delgado, Colautti] 
 
 Round: 5 
-[Sep 7]
+
+Date: 9/7/2001
+
 Vélez Sarsfield     2-2  Colón (SF) 
   [F. Domínguez (2) - Morant, Castagno Suárez]
-[Sep 8]
+
+Date: 9/8/2001
+
 Huracán             0-4  Rosario Central  
   [Pizzi (2), M. González, Delgado]
 Talleres (Cba)      0-2  Racing Club  
   [Torres, Loeschbor]
-[Sep 9]
+
+Date: 9/9/2001
+
 Boca Juniors        3-1  Chacarita Juniors 
   [Gaitán, Romero (o.g), Gmo. Barros Schelotto - Moreno (pen)]
 Banfield            2-3  Gimnasia (LP)  
@@ -150,17 +179,23 @@ Nueva Chicago       2-1  River Plate
   [Mandra, Jesús - Cambiasso] 
 
 Round: 6
-[Sep 14]
+
+Date: 9/14/2001
+
 Gimnasia LP         3-2  Vélez Sarsfield
   [Sava (pen), Herner, Enría - F. Domínguez, Fuentes]
-[Sep 15]
+
+Date: 9/15/2001
+
 Talleres (Cba)      3-3  Huracán 
   [Cuba (2), Roth - Moner, Morquio, Padra]
 San Lorenzo         3-1  Newell’s Old Boys 
   [Romeo (2), L. Rodríguez - Ponzio]
 Colón (SF)          1-0  Independiente
   [Graf]
-[Sep 16]
+
+Date: 9/16/2001
+
 Chacarita Juniors   2-0  Banfield 
   [Moreno, Quinteros]
 Lanús               1-1  Nueva Chicago  
@@ -174,15 +209,21 @@ River Plate         1-1  Boca Juniors
 Racing Club         0-0  Belgrano (Cba)  
 
 Round: 7
-[Sep 21]
+
+Date: 9/21/2001
+
 Independiente       3-2  Gimnasia LP
   [Guiñazú, Forlán, Vuoso - Sava (2)]
-[Sep 22]
+
+Date: 9/22/2001
+
 Vélez Sarsfield     1-2  Chacarita Juniors 
   [Husain - Romero, Rivero]
 Belgrano (Cba)      1-0  San Lorenzo  
   [Meta]
-[Sep 23]
+
+Date: 9/23/2001
+
 Nueva Chicago       1-3  Argentinos Juniors  
   [Kmet - Yaqué (2), Insúa]
 Boca Juniors        6-1  Lanús 
@@ -199,10 +240,14 @@ Banfield            1-1  River Plate
   [Del Río - Cavenaghi] 
 
 Round: 8
-[Sep 28]
+
+Date: 9/28/2001
+
 Huracán             2-2  Unión (SF) 
   [Morquio (2, 1 pen) - Capria, Zapata]
-[Sep 29]
+
+Date: 9/29/2001
+
 Lanús               1-0  Banfield 
   [Pagés]
 Colón (SF)          1-1  Belgrano (Cba) 
@@ -213,7 +258,9 @@ Gimnasia (LP)       4-1  Newell´s Old Boys
   [Sava (2), Messera, Enría - Rodríguez]
 Rosario Central     0-2  Nueva Chicago  
   [Mandra, Kmet]
-[Sep 30]
+
+Date: 9/30/2001
+
 River Plate         4-2  Vélez Sarsfield  
   [Cardetti, Escudero, Fuentes (o.g), D'Alessandro - Husain, Buján]
 Talleres (Cba)      0-1  Estudiantes (LP)  
@@ -224,12 +271,16 @@ Argentinos Juniors  1-3  Boca Juniors
   [Pena - Barros Schelotto (2), Delgado] 
 
 Round: 9
-[Oct 2]
+
+Date: 10/2/2001
+
 Nueva Chicago       3-1  Talleres (Cba) 
   [Mandra (2), Valli - Albornós]
 San Lorenzo         1-1  Colón (SF) 
   [Acosta - Morant]
-[Oct 3]
+
+Date: 10/3/2001
+
 Estudiantes (LP)    2-0  Huracán
   [Quatrocchi (2)]
 Independiente       0-5  River Plate  
@@ -248,17 +299,23 @@ Unión (SF)          0-2  Racing Club
   [Estévez, Bedoya] 
 
 Round: 10 
-[Oct 19]
+
+Date: 10/19/2001
+
 Argentinos Juniors  0-2  Vélez Sarsfield  
   [Nanni (2)]
-[Oct 20]
+
+Date: 10/20/2001
+
 Lanús               1-4  Independiente 
   [D. Galván - Vuoso, Forlán (2), Montenegro]
 Huracán             2-3  Nueva Chicago  
   [Morquio, González - C. Gómez, Jesús (2)]
 Unión (SF)          2-2  Estudiantes (LP)  
   [Israilevich, M. Zapata - Osorio, Farías]
-[Oct 21]
+
+Date: 10/21/2001
+
 Gimnasia (LP)       0-2  San Lorenzo
   [Zurita, Acosta]
 Chacarita Juniors   2-2  Belgrano (Cba) 
@@ -273,17 +330,23 @@ Talleres (Cba)      1-0  Boca Juniors
   [Maidana] 
 
 Round: 11
-[Oct 26]
+
+Date: 10/26/2001
+
 Independiente       1-0  Argentinos Juniors  
   [Forlán]
-[Oct 27]
+
+Date: 10/27/2001
+
 Vélez Sarsfield     3-1  Rosario Central  
   [Morigi, F. Domínguez, Husain - Pizzi (pen)]
 Newell’s Old Boys   2-0  Lanús 
   [Ponzio, M. Rodríguez]
 San Lorenzo         3-3  Chacarita Juniors  
   [Acosta, Pusineri (2) - Carrario (2), Ramos]
-[Oct 28]
+
+Date: 10/28/2001
+
 Nueva Chicago       0-3  Unión (SF) 
   [Mazzoni, Frutos (2)]
 Banfield            2-1  Talleres (Cba) 
@@ -298,15 +361,21 @@ Belgrano (Cba)      0-2  River Plate
   [Ortega, Cardetti] 
 
 Round: 12      
-[Nov 2]
+
+Date: 11/2/2001
+
 Huracán             2-1  Banfield 
   [Morquio (2) - González]
-[Nov 3]
+
+Date: 11/3/2001
+
 Talleres (Cba)      2-1  Vélez Sarsfield  
   [Roth, La Paglia - Morigi]
 Rosario Central     1-1  Independiente 
   [Delgado - Pernía]
-[Nov 4]
+
+Date: 11/4/2001
+
 Chacarita Juniors   1-1  Colón (SF) 
   [Moreno - Unali]
 Estudiantes (LP)    0-2  Nueva Chicago
@@ -322,17 +391,23 @@ Unión (SF)          2-2  Boca Juniors
   [San Martín, Tilger - Carreño, Giménez] 
 
 Round: 13 
-[Nov 9]
+
+Date: 11/9/2001
+
 Vélez Sarsfield     1-0  Huracán 
   [F. Domínguez]
-[Nov 10]
+
+Date: 11/10/2001
+
 Independiente       2-1  Talleres (Cba) 
   [Vuoso, Pernía - Roth]
 Gimnasia (LP)       0-2  Chacarita Juniors  
   [Carrario, Mas]
 San Lorenzo         0-2  Lanús 
   [Hoyos, Klimowicz]
-[Nov 11]
+
+Date: 11/11/2001
+
 Nueva Chicago       4-4  Racing Club  
   [C. Gómez (2, 1 pen), Jesús, Serrano - Herbella (o.g), Chatruc, Maceratesi, Torres]
 Banfield            0-1  Unión (SF) 
@@ -347,11 +422,15 @@ Colón (SF)          1-0  River Plate
   [Graf] 
 
 Round: 14 
-[Nov 16]
+
+Date: 11/16/2001
+
 Unión (SF)          0-1  Vélez Sarsfield  
   [F. Domínguez]
 Argentinos Juniors  0-0  San Lorenzo  
-[Nov 18]
+
+Date: 11/18/2001
+
 River Plate         4-0  Gimnasia (LP)  
   [Cardetti (2, 1 pen), Ortega, Coudet]
 Lanús               0-0  Colón (SF) 
@@ -368,18 +447,26 @@ Nueva Chicago       1-2  Boca Juniors
   [Kmet - Martínez, Riquelme]
 
 Round: 15 
-[Nov 1]
+
+Date: 11/1/2001
+
 Boca Juniors        3-1  Racing Club  
   [Barros Schelotto, Delgado, Carreño - Estévez (pen)]
-[Nov 23]
+
+Date: 11/23/2001
+
 Independiente       2-2  Unión (SF)  
   [Montenegro, Forlán - Frutos, Ruiz]
-[Nov 24]
+
+Date: 11/24/2001
+
 Vélez Sarsfield     2-2  Estudiantes (LP)  
   [Nanni, Fuentes - Farías, Fuentes (o.g)]
 Belgrano (Cba)      1-0  Talleres (Cba) 
   [Brusco]
-[Nov 25]
+
+Date: 11/25/2001
+
 Banfield            2-0  Nueva Chicago  
   [Lujambio, Del Río]
 Gimnasia (LP)       2-1  Lanús
@@ -394,16 +481,22 @@ San Lorenzo         1-0  Rosario Central
   [Cornejo]
 
 Round: 16 
-[Nov 30]
+
+Date: 11/30/2001
+
 Estudiantes (LP)    1-0  Independiente  
   [Maggiolo]
-[Dec 1]
+
+Date: 12/1/2001
+
 Lanús               0-2  Chacarita Juniors  
   [Moreno, Quinteros]
 Huracán             0-0  Belgrano (Cba) 
 Talleres (Cba)      1-3  San Lorenzo  
   [Garay - Rivarola (pen), L. Rodríguez (pen), Filomeno]
-[Dec 2]
+
+Date: 12/2/2001
+
 Nueva Chicago       1-2  Vélez Sarsfield  
   [Jesús - F. Domínguez, Husain]
 Argentinos Juniors  1-1  Gimnasia (LP)  
@@ -417,17 +510,23 @@ Boca Juniors        0-1  Banfield
   [Lucchetti (pen)]
 
 Round: 17
-[Dec 7]
+
+Date: 12/7/2001
+
 Independiente       1-0  Nueva Chicago  
   [Silvera]
-[Dec 8]
+
+Date: 12/8/2001
+
 Belgrano (Cba)      1-1  Unión (SF) 
   [López - Frutos]
 Colón (SF)          3-0  Talleres (Cba) 
   [Delgado, Graf, Castillo]
 Chacarita Juniors   0-1  Argentinos Juniors  
   [Yaqué]
-[Dec 9]
+
+Date: 12/9/2001
+
 San Lorenzo         0-1  Huracán 
   [Villa]
 Newell’s Old Boys   1-2  Estudiantes (LP)  
@@ -441,10 +540,14 @@ Vélez Sarsfield     2-2  Boca Juniors
   [Fuentes, Husain - Barijho, Barros Schelotto (pen)]
 
 Round: 18 
-[Dec 14]
+
+Date: 12/14/2001
+
 Banfield            1-1  Vélez Sarsfield  
   [Lujambio - Dudar]
-[Dec 15]
+
+Date: 12/15/2001
+
 Rosario Central     1-1  Chacarita Juniors  
   [Pizzi - Mas]
 Huracán             0-1  Colón (SF) 
@@ -453,7 +556,9 @@ Estudiantes (LP)    2-0  Belgrano (Cba)
   [Maggiolo (2)]
 Unión (SF)          1-2  San Lorenzo  
   [Wernly - Rivarola (pen), Bevaqcua]
-[Dec 16]
+
+Date: 12/16/2001
+
 Boca Juniors        5-3  Independiente 
   [Barijho, Schiavi, Riquelme (2), Barros Schelotto - Vuoso, Eluchans, Forlán]
 Nueva Chicago       3-2  Newell’s Old Boys 
@@ -466,24 +571,34 @@ Racing Club         2-0  Lanús
   [Maceratesi, Chatruc]
  
 Round: 19 
-[Dec 27]
+
+Date: 12/27/2001
+
 Vélez Sarsfield     1-1  Racing Club  
   [Chirumbolo - Loeschbor]
 River Plate         6-1  Rosario Central  
   [Cardetti (3, 1 pen), Pereyra, Ortega, Álvarez - De Bruno]
-[Feb 1]
+
+Date: 2/1/2002
+
 Chacarita Juniors   0-1  Talleres (Cba) 
   [La Paglia (pen)]
-[Feb 2]
+
+Date: 2/2/2002
+
 San Lorenzo         2-2  Estudiantes (LP)  
   [Franco, Filomeno - Maggiolo, Quatrocchi]
-[Feb 3]
+
+Date: 2/3/2002
+
 Colón (SF)          0-0  Unión (SF) 
 Gimnasia (LP)       2-2  Huracán
   [Enría, Choy - De Porras, Morquio]
 Lanús               1-0  Argentinos Juniors  
   [Romero]
-[Feb 5]
+
+Date: 2/5/2002
+
 Independiente       0-3  Banfield 
   [Lujambio (2), Bueno]
 Newell’s Old Boys   2-2  Boca Juniors  
@@ -537,15 +652,21 @@ Season: 2002 Clausura
 *20.Independiente           19  3  6 10 14-28 15
 
 Round: 1 
-[Feb 8]
+
+Date: 2/8/2002
+
 Argentinos Juniors  2-2  Racing Club
   [Cordone, Bidal - Maciel, Milito]
-[Feb 9]
+
+Date: 2/9/2002
+
 Colón (SF)          3-0  Estudiantes (LP)
   [Pereyra, Delgado, Aquino]
 San Lorenzo         4-2  Nueva Chicago
   [Acosta, Pusineri, Serrizuela, Franco - Jesús, O. Gómez]
-[Feb 10]
+
+Date: 2/10/2002
+
 Lanús               0-0  Rosario Central
 River Plate         3-1  Talleres (Cba)
   [Cavenaghi, Ortega (2, 1 pen) - Astudillo]
@@ -561,17 +682,23 @@ Belgrano (Cba)      2-3  Boca Juniors
   [Óbolo, Brusco (pen) - Crosa, Battaglia, Carreño] 
 
 Round: 2 
-[Feb 15]
+
+Date: 2/15/2002
+
 Vélez Sarsfield     2-2  Newell’s Old Boys    
   [Gracián, Morigi - Rodríguez (2)]
-[Feb 16]
+
+Date: 2/16/2002
+
 Nueva Chicago       1-0  Colón (SF)           
   [Jesús]
 Banfield            0-1  Belgrano (Cba)       
   [Óbolo]
 Unión (SF)          2-2  Chacarita Juniors    
   [Frutos, Raggio - Torales, Quinteros]
-[Feb 17]
+
+Date: 2/17/2002
+
 Talleres (Cba)      2-0  Lanús                
   [Escobar, Monrroy]
 Rosario Central     2-1  Argentinos Juniors   
@@ -585,7 +712,9 @@ Huracán             0-4  River Plate
   [Ortega (pen), Cavenaghi (2), D'Alessandro]
     
 Round: 3
-[Feb 19]
+
+Date: 2/19/2002
+
 Lanús               2-0  Huracán              
   [Pagés, Bustos]
 San Lorenzo         2-0  Banfield             
@@ -604,18 +733,26 @@ Argentinos Juniors  1-0  Talleres (Cba)
   [Liendo]
 Chacarita Juniors   2-1  Estudiantes (LP)     
   [Mignini, Quinteros - Farías (pen)]
-[Mar 6]
+
+Date: 3/6/2002
+
 Racing Club         1-0  Rosario Central 
   [Arce]
  
 Round: 4 
-[Feb 22]
+
+Date: 2/22/2002
+
 Vélez Sarsfield     2-1  San Lorenzo          
   [Nanni (2) - Acosta]
-[Feb 23]
+
+Date: 2/23/2002
+
 Huracán             3-0  Argentinos Juniors   
   [Godoy, Montenegro (2)]
-[Feb 24] 
+
+Date: 2/24/2002
+
 Unión (SF)          2-1  Lanús                
   [Ruiz, Raggio - López]
 Newell’s Old Boys   3-1  Racing Club          
@@ -630,22 +767,30 @@ Estudiantes (LP)    2-3  River Plate
   [Quatrocchi, Demichelis (o.g) - Cavenaghi (3)]
 Boca Juniors        1-1  Gimnasia (LP)        
   [Riquelme - Enría]
-[Mar 13]
+
+Date: 3/13/2002
+
 Nueva Chicago       1-1  Chacarita Juniors    
   [Argüello - Bustos Montoya]
  
 Round: 5 
-[Mar 1]
+
+Date: 3/1/2002
+
 Racing Club         3-0  Talleres (Cba)       
   [Estévez (2), Arce]
-[Mar 2]
+
+Date: 3/2/2002
+
 Colón (SF)          1-1  Vélez Sarsfield      
   [Zermattén - F. Domínguez]
 Argentinos Juniors  1-1  Unión (SF)           
   [Martelli - Ruiz]
 San Lorenzo         0-1  Independiente        
   [Insúa]
-[Mar 3]
+
+Date: 3/3/2002
+
 Gimnasia (LP)       1-1  Banfield             
   [Enría - Sinisterra]
 Belgrano (Cba)      0-1  Newell’s Old Boys     
@@ -659,17 +804,23 @@ Chacarita Juniors   1-1  Boca Juniors
 River Plate         0-0  Nueva Chicago        
 
 Round: 6
-[Mar 8]
+
+Date: 3/8/2002
+
 Independiente       0-1  Colón (SF)           
   [Graf (pen)]
-[Mar 9]
+
+Date: 3/9/2002
+
 Huracán             0-1  Talleres (Cba)       
   [La Paglia]
 Newell’s Old Boys   1-4  San Lorenzo          
   [Sacripanti - Sarría, Pusineri, Franco, Acosta]
 Vélez Sarsfield     1-2  Gimnasia (LP)        
   [Fuentes - Enría, Messera]
-[Mar 10]
+
+Date: 3/10/2002
+
 Banfield            1-0  Chacarita Juniors    
   [Lujambio]
 Nueva Chicago       1-1  Lanús                
@@ -684,16 +835,22 @@ Belgrano (Cba)      0-1  Racing Club
   [Chatruc]
 
 Round: 7 
-[Mar 15]
+
+Date: 3/15/2002
+
 San Lorenzo         0-0  Belgrano (Cba)       
-[Mar 16]
+
+Date: 3/16/2002
+
 Chacarita Juniors   1-1  Vélez Sarsfield  
   [Moreno (pen) - F. Domínguez (pen)]
 Colón (SF)          2-2  Newell’s Old Boys    
   [Aquino, Castagno Suárez - Sacripanti (2)]
 Racing Club         2-1  Huracán              
   [Estévez, Chatruc - Godoy]
-[Mar 17]
+
+Date: 3/17/2002
+
 Argentinos Juniors  1-1  Nueva Chicago        
   [Cordone - Mandra]
 Gimnasia (LP)       2-1  Independiente         
@@ -707,10 +864,14 @@ Lanús               1-0  Boca Juniors
   [Mannara]   
    
 Round: 8
-[Mar 22]
+
+Date: 3/22/2002
+
 Independiente       1-3  Chacarita Juniors    
   [Galván - Bustos Montoya, Romero, Mignini]
-[Mar 23]
+
+Date: 3/23/2002
+
 Nueva Chicago       0-1  Rosario Central      
   [De Bruno]
 San Lorenzo         0-1  Racing Club         
@@ -721,7 +882,9 @@ Belgrano (Cba)      0-1  Colón (SF)
   [Delgado]
 Newell’s Old Boys   0-1  Gimnasia (LP)       
   [Enría]
-[Mar 24]
+
+Date: 3/24/2002
+
 Estudiantes (LP)    4-0  Talleres (Cba)       
   [Osorio, Maggiolo (2), Farías]
 Banfield            2-2  Lanús                
@@ -732,9 +895,13 @@ Boca Juniors        3-2  Argentinos Juniors
   [Bracamonte (2), Battaglia - Tilger, Cordone] 
 
 Round: 9
-[Mar 26]
+
+Date: 3/26/2002
+
 Racing Club         0-0  Unión (SF)           
-[Mar 27]
+
+Date: 3/27/2002
+
 River Plate         1-0  Independiente        
   [Zelaye (o.g)]
 Rosario Central     1-3  Boca Juniors         
@@ -751,22 +918,30 @@ Gimnasia (LP)       4-3  Belgrano (Cba)
   [Sava (3, 1 pen), González - Bordicio, Zárate, Arce]
 Colón (SF)          0-1  San Lorenzo          
   [Michelini]
-[Mar 28]
+
+Date: 3/28/2002
+
 Huracán             1-6  Estudiantes (LP)     
   [Adippe - Farías (3), Quatrocchi, Maggiolo (2)] 
 
 Round: 10 
-[Mar 29]
+
+Date: 3/29/2002
+
 Colón (SF)          2-0  Racing Club          
   [Carignano, Pereyra (pen)]
-[Mar 30]
+
+Date: 3/30/2002
+
 Banfield            2-1  Rosario Central      
   [Lezcano, Lujambio - Figueroa]
 Vélez Sarsfield     0-1  Argentinos Juniors   
   [Liendo]
 Independiente       1-1  Lanús                
   [Carboni (o.g) - González]
-[Mar 31]
+
+Date: 3/31/2002
+
 Nueva Chicago       0-4  Huracán              
   [Montenegro (3), L. González]
 Estudiantes (LP)    3-2  Unión (SF)           
@@ -781,12 +956,16 @@ Newell’s Old Boys   1-0  River Plate
   [Rodríguez] 
 
 Round: 11
-[Apr 2]
+
+Date: 4/2/2002
+
 Argentinos Juniors  1-0  Independiente        
   [Cogliandro]
 Rosario Central     0-3  Vélez Sarsfield      
   [Centurión, Gracián, Valdemarín]
-[Apr 3]
+
+Date: 4/3/2002
+
 River Plate         2-1  Belgrano (Cba)       
   [Cambiasso, D'Alessandro (pen) - Óbolo]
 Talleres (Cba)      1-2  Banfield              
@@ -804,14 +983,20 @@ Gimnasia (LP)       1-0  Colón (SF)
 Racing Club         0-0  Estudiantes (LP)    
  
 Round: 12 
-[Apr 5]
+
+Date: 4/5/2002
+
 Banfield            0-0  Huracán              
-[Apr 6]
+
+Date: 4/6/2002
+
 Vélez Sarsfield     2-0  Talleres (Cba)        
   [Nanni, Dudar]
 Independiente       1-4  Rosario Central      
   [Vuoso - Figueroa (2), Cappelletti, Delgado]
-[Apr 7]
+
+Date: 4/7/2002
+
 Colón (SF)          1-1  Chacarita Juniors    
   [Carignano - Bustos Montoya]
 Belgrano (Cba)      1-0  Lanús                
@@ -827,10 +1012,14 @@ Boca Juniors        3-0  Unión (SF)
   [Delgado, Bracamonte, Riquelme]
 
 Round: 13
-[Apr 12]
+
+Date: 4/12/2002
+
 Lanús               2-2  San Lorenzo          
   [Mannara, Belloso - Erviti, Pusineri]
-[Apr 13]
+
+Date: 4/13/2002
+
 Unión (SF)          0-2  Banfield             
   [Sánchez (pen), Lujambio]
 Talleres (Cba)      0-0  Independiente        
@@ -838,7 +1027,9 @@ Argentinos Juniors  1-2  Belgrano (Cba)
   [Liendo - Zárate, Bordicio]
 Huracán             1-0  Vélez Sarsfield      
   [Montenegro (pen)]
-[Apr 14]
+
+Date: 4/14/2002
+
 Racing Club         1-0  Nueva Chicago        
   [Bastía]
 Rosario Central     0-0  Newell’s Old Boys    
@@ -850,14 +1041,18 @@ River Plate         4-2  Colón (SF)
   [Cavenaghi (2), Ortega (2) - Delgado, Castagno Suárez]
 
 Round: 14 
-[Apr 16]
+
+Date: 4/16/2002
+
 San Lorenzo         abd  Argentinos Juniors   
   [Cordone (pen)]
   [Abandoned 0-1 at 48' because of rain]
 Independiente       0-4  Huracán              
   [Montenegro (2), L. González, Moner]
   [Abandoned 0-4 at 61' because of incidents. Score allowed to stand]
-[Apr 17]
+
+Date: 4/17/2002
+
 Boca Juniors        0-0  Nueva Chicago        
 Gimnasia (LP)       0-1  River Plate         
   [Cavenaghi]
@@ -874,16 +1069,22 @@ Vélez Sarsfield     1-1  Unión (SF)
   [Nanni - Israilevich]
 Banfield            2-2  Estudiantes (LP)     
   [Jiménez, Lezcano - Quatrocchi, Farías]
-[Apr 24]
+
+Date: 4/24/2002
+
 San Lorenzo         1-1  Argentinos Juniors   
   [Franco - Cordone (pen)]
   [Remaining 42']
  
 Round: 15 
-[Apr 19]
+
+Date: 4/19/2002
+
 Estudiantes (LP)    3-2  Vélez Sarsfield      
   [Piersimone, Pavone, Farías - Nanni, Husain]
-[Apr 20]
+
+Date: 4/20/2002
+
 Huracán             0-2  Newell’s Old Boys    
   [Sacripanti, Gigena]
 Lanús               0-2  Gimnasia (LP)        
@@ -902,16 +1103,22 @@ River Plate         2-2  Chacarita Juniors
   [Husain, Coudet - Rosada (2)]
  
 Round: 16 
-[Apr 27]
+
+Date: 4/27/2002
+
 San Lorenzo         3-1  Talleres (Cba)       
   [Pusineri, Capria, Saja (pen) - Escobar]
-[Apr 28]
+
+Date: 4/28/2002
+
 Colón (SF)          2-2  Rosario Central      
   [Carignano, Graf - Figueroa, Sánchez]
 Belgrano (Cba)      0-1  Huracán             
   [Villa]
 Independiente       0-0  Estudiantes (LP)    
-[Apr 29]
+
+Date: 4/29/2002
+
 Banfield            1-0  Boca Juniors         
   [Jiménez]
 Vélez Sarsfield     2-1  Nueva Chicago        
@@ -927,16 +1134,22 @@ Newell’s Old Boys   0-2  Unión (SF)
   [Abandoned 0-2 at 90' because of incidents. Score allowed to stand]
  
 Round: 17 
-[May 3]
+
+Date: 5/3/2003
+
 Racing Club         0-0  Banfield             
-[May 4]
+
+Date: 5/4/2003
+
 Argentinos Juniors  3-2  Chacarita Juniors    
   [Mantilla, Kuhl, Cordone - Bustos Montoya, Torales]
 Unión (SF)          1-0  Belgrano (Cba)       
   [Perezlindo]
 Nueva Chicago       1-1  Independiente        
   [O. Gómez (pen) - Silvera]
-[May 5]
+
+Date: 5/5/2003
+
 Lanús               1-0  River Plate          
   [Romero]
 Estudiantes (LP)    3-3  Newell’s Old Boys    
@@ -951,7 +1164,9 @@ Boca Juniors        2-1  Vélez Sarsfield
   [Bracamonte, Giménez - Gracián]
 
 Round: 18
-[May 11]
+
+Date: 5/11/2003
+
 San Lorenzo         0-4  Unión (SF)           
   [D. Capria (o.g), Weisheim, Frutos (2)]
 Colón (SF)          2-4  Huracán              
@@ -960,7 +1175,9 @@ Lanús               2-0  Racing Club
   [Belloso, Mariño]
 Vélez Sarsfield     3-0  Banfield             
   [Nanni (2), Husain]
-[May 12]
+
+Date: 5/12/2003
+
 Independiente       1-1  Boca Juniors         
   [Insúa - Barros Schelotto (pen)]
 Newell’s Old Boys   2-0  Nueva Chicago        
@@ -974,15 +1191,21 @@ River Plate         5-1  Argentinos Juniors
   [Cambiasso, Domínguez, Cavenaghi (3) - Pisculichi]
  
 Round: 19
-[May 17] 
+
+Date: 5/17/2003
+
 Huracán             2-2  Gimnasia (LP)        
   [Garipe, Montenegro - Enría, Turienzo]
-[May 18]
+
+Date: 5/18/2003
+
 Estudiantes (LP)    4-1  San Lorenzo          
   [Carrusca, Maggiolo (2), Osorio - Piombo] 
 Racing Club         0-1  Vélez Sarsfield      
   [Dudar]
-[May 19]
+
+Date: 5/19/2003
+
 Talleres (Cba)      2-2  Chacarita Juniors    
   [Maidana (pen), Astudillo - Lillo (o.g), Bustos Montoya]
 Argentinos Juniors  0-2  Lanús                
@@ -1068,30 +1291,33 @@ Rosario Central     2-3  River Plate
 *19.Argentinos Jrs.   39    43    45   127  114  1,114  Relegated
 *20.Belgrano (Cba)    39    37    41   120  114  1,052  Relegated 
 
-(MP): Matches Played
- 
-Positions 17 and 18 will play the Third and Fourth Relegation Playoff
-Positions 19 and 20: Relegated directly  
+*(MP): Matches Played
+*Positions 17 and 18 will play the Third and Fourth Relegation Playoff
+*Positions 19 and 20: Relegated directly  
 
  
-Third and Fourth Promotion/Relegation Playoff
+*Third and Fourth Promotion/Relegation Playoff
+*First Leg
 
-First Leg
-[May 23]
-Huracán (TA)        1-2  Lanús
-  [García - Romero, López]
-Gimnasia (ER)       3-1  Unión (SF)
-  [Leguizamón, Fontana, Vendakis - Nto. Fernández]
+Date: 5/23/2003
 
-Second Leg
-[May 26]
-LANÚS               1-1  Huracán (TA)
-  [Hoyos - García]
-UNIÓN (SF)          3-0  Gimnasia (ER)
-  [Pérezlindo, Mazzoni, Israilevich]
-  [Agg: 4-3] 
+; Huracán (TA)       ; 1-2;  Lanús
+García; Romero, López
 
-No teams promoted or relegated
+; Gimnasia (ER)      ; 3-1;  Unión (SF)
+Leguizamón, Fontana, Vendakis; Nto. Fernández
+
+*Second Leg
+Date: 5/26/2003
+
+; Lanus              ; 1-1;  Huracán (TA)
+Hoyos; García
+
+; Union (SF)         ; 3-0;  Gimnasia (ER)
+Pérezlindo, Mazzoni, Israilevich;
+*  [Agg: 4-3] 
+
+*No teams promoted or relegated
 
 
 

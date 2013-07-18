@@ -639,6 +639,7 @@ world = {
     #'Talleres': 'Talleres de Córdoba', # Overreach.
     'Talleres Cba': 'Talleres de Córdoba',
     'Talleres (Córdoba)': 'Talleres de Córdoba',
+    'Tallares (Córdoba)': 'Talleres de Córdoba',
 
 
     'Municipal (Peru)': 'Deportivo Municipal',
@@ -1801,7 +1802,10 @@ world = {
 
     # Argentina
 
+    'Arg Juniors': 'Argentinos Juniors',
+
     'Olimpo (BB)': 'Olimpo',
+    'Olimpo (Bahía Blanca)': 'Olimpo',
 
     'Unión SF': 'Unión de Santa Fe',
     'Unión (Santa Fe)':  'Unión de Santa Fe',
@@ -1814,9 +1818,12 @@ world = {
 
     'Gimnasia y Esgrima BA': 'Gimnasia y Esgrima Buenos Aires',
 
+
+
     'Gimnasia J': 'Gimnasia y Esgrima de Jujuy',
     'Gimnasia y Esgrima (J)': 'Gimnasia y Esgrima de Jujuy',
 
+    'Gimnasia (La Plata)': 'Gimnasia y Esgrima La Plata',
     'Gimnasia LP': 'Gimnasia y Esgrima La Plata',
     'Gymnasia LP': 'Gimnasia y Esgrima La Plata',
     'Gimnasia Esgrima (LP)': 'Gimnasia y Esgrima La Plata',
@@ -1828,10 +1835,19 @@ world = {
     'Independiente (A)': 'CA Independiente',
     'Independiente (Avellaneda)': 'CA Independiente',
     'Independiente (Ave)': 'CA Independiente',
+
     'Velez Sarsfield': 'Vélez Sarsfield',
+    'Vélez  Sarsfield': 'Vélez Sarsfield',
+
     'Arsenal (Argentina)': 'Arsenal de Sarandí',
     'Arsenal de Sarandi': 'Arsenal de Sarandí',
+
+
     'Colon (Argentina)': 'CA Colon',
+
+    'Colón SF': 'CA Colon',
+    'Colón (Santa Fe)': 'CA Colon',
+
     'Colon (Santa Fe)': 'CA Colon',
     'Colon': 'CA Colon',
     'Colón': 'CA Colon',
@@ -1847,9 +1863,13 @@ world = {
     'Deportivo Moron': 'Deportivo Morón',
 
     'Huracan': 'Huracán',
+
+
     'Independiente': 'CA Independiente',
     'Independiente': 'CA Independiente',
     'Lanus': 'Lanús',
+
+    'Newell\'s OB': 'Newell\'s Old Boys', 
     'Newells Old Boys': 'Newell\'s Old Boys', 
     'Newell’s Old Boys': 'Newell\'s Old Boys', 
 
