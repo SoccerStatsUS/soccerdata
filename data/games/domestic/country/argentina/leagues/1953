@@ -23,7 +23,7 @@ Competition: Argentine Primera División
 *Goal-average was used as tie breaker in this season.
 *La Plata was renamed Eva Perón during 1952-1955. 
 
-Round: Round 1 
+Round: 1 
 Date: 4/5/1953
 
 ; Chacarita Juniors      ; 3-0; Newell's Old Boys
@@ -35,7 +35,7 @@ Date: 4/5/1953
 ; Rosario Central        ; 0-0; Boca Juniors
 ; San Lorenzo de Almagro ; 5-2; Vélez Sarsfield
 
-Round: Round 2 
+Round: 2 
 Date: 4/12/1953
 
 ; Banfield               ; 2-0; Chacarita Juniors
@@ -47,7 +47,7 @@ Date: 4/12/1953
 ; San Lorenzo de Almagro ; 4-1; Ferro Carril Oeste (BA)
 ; Vélez Sarsfield        ; 2-2; River Plate
 
-Round: Round 3 
+Round: 3 
 Date: 4/19/1953
 
 ; Chacarita Juniors      ; 0-0; Vélez Sarsfield
@@ -59,7 +59,7 @@ Date: 4/19/1953
 ; River Plate            ; 2-1; San Lorenzo de Almagro
 ; Rosario Central        ; 1-0; Estudiantes   
 
-Round: Round 4 
+Round: 4 
 Date: 4/26/1953
 
 ; Banfield               ; 2-0; Gimnasia y Esgrima   
@@ -71,7 +71,7 @@ Date: 4/26/1953
 ; San Lorenzo de Almagro ; 3-0; Chacarita Juniors
 ; Vélez Sarsfield        ; 3-0; Independiente    
 
-Round: Round 5 
+Round: 5 
 Date: 5/3/1953
 
 ; Chacarita Juniors      ; 1-1; River Plate
@@ -83,7 +83,7 @@ Date: 5/3/1953
 ; Platense               ; 0-0; Racing Club
 ; Rosario Central        ; 2-1; Banfield
 
-Round: Round 6 
+Round: 6 
 Date: 5/24/1953
 
 ; Banfield               ; 2-1; Lanús
@@ -95,7 +95,7 @@ Date: 5/24/1953
 ; San Lorenzo de Almagro ; 3-0; Gimnasia y Esgrima   
 ; Vélez Sarsfield        ; 2-2; Rosario Central
 
-Round: Round 7 
+Round: 7 
 Date: 5/31/1953
 
 ; Boca Juniors           ; 0-0; Estudiantes   
@@ -107,7 +107,7 @@ Date: 5/31/1953
 ; Platense               ; 1-2; Newell's Old Boys
 ; Rosario Central        ; 1-1; San Lorenzo de Almagro
 
-Round: Round 8 
+Round: 8 
 Date: 6/4/1953
 
 ; Banfield               ; 1-3; Platense     
@@ -119,7 +119,7 @@ Date: 6/4/1953
 ; San Lorenzo de Almagro ; 1-0; Lanús
 ; Vélez Sarsfield        ; 2-0; Huracán     
 
-Round: Round 9 
+Round: 9 
 Date: 6/7/1953
 
 ; Boca Juniors           ; 2-0; Banfield
@@ -131,7 +131,7 @@ Date: 6/7/1953
 ; Racing Club            ; 1-0; Newell's Old Boys
 ; Rosario Central        ; 0-0; Chacarita Juniors
 
-Round: Round 10 
+Round: 10 
 Date: 6/14/1953
 
 ; Banfield               ; 0-2; Racing Club
@@ -143,7 +143,7 @@ Date: 6/14/1953
 ; San Lorenzo de Almagro ; 5-2; Platense     
 ; Vélez Sarsfield        ; 1-1; Boca Juniors
 
-Round: Round 11 
+Round: 11 
 Date: 6/21/1953
 
 ; Boca Juniors           ; 0-1; San Lorenzo de Almagro
@@ -155,7 +155,7 @@ Date: 6/21/1953
 ; Racing Club            ; 2-2; Vélez Sarsfield
 ; Rosario Central        ; 5-2; Gimnasia y Esgrima   
 
-Round: Round 12:
+Round: 12
 Date: 6/28/1953
 
 ; Rosario Central        ; 0-2; Ferro Carril Oeste     
@@ -173,7 +173,7 @@ Date: 7/19/1953
 
 ; River Plate            ; 2-3; Boca Juniors
 
-Round: Round 13 
+Round: 13 
 Date: 7/25/1953
 
 ; Boca Juniors           ; 2-0; Chacarita Juniors
@@ -185,7 +185,7 @@ Date: 7/25/1953
 ; Platense               ; 4-0; Independiente    
 ; Racing Club            ; 1-3; River Plate
 
-Round: Round 14 
+Round: 14 
 Date: 8/2/1953
 
 ; Chacarita Juniors      ; 0-1; Racing Club
@@ -197,7 +197,7 @@ Date: 8/2/1953
 ; San Lorenzo de Almagro ; 4-0; Newell's Old Boys
 ; Vélez Sarsfield        ; 4-0; Banfield
 
-Round: Round 15 
+Round: 15 
 Date: 8/9/1953
 
 ; Banfield               ; 1-1; San Lorenzo de Almagro
@@ -209,7 +209,7 @@ Date: 8/9/1953
 ; Platense               ; 2-1; Rosario Central
 ; Racing Club            ; 3-0; Independiente    
 
-Round: Round 16 
+Round: 16 
 Date: 8/17/1953
 
 ; Banfield               ; 1-2; River Plate
@@ -221,7 +221,7 @@ Date: 8/17/1953
 ; Racing Club            ; 1-1; Gimnasia y Esgrima   
 ; Vélez Sarsfield        ; 2-1; San Lorenzo de Almagro
 
-Round: Round 17 
+Round: 17 
 Date: 8/23/1953
 
 ; Chacarita Juniors      ; 3-1; Banfield
@@ -233,7 +233,7 @@ Date: 8/23/1953
 ; River Plate            ; 2-2; Vélez Sarsfield
 ; Rosario Central        ; 1-2; Racing Club
 
-Round: Round 18 
+Round: 18 
 Date: 8/30/1953
 
 ; Banfield               ; 1-1; Independiente    
@@ -245,7 +245,7 @@ Date: 8/30/1953
 ; San Lorenzo de Almagro ; 1-4; River Plate
 ; Vélez Sarsfield        ; 0-0; Chacarita Juniors
 
-Round: Round 19 
+Round: 19 
 Date: 9/6/1953
 
 ; Chacarita Juniors      ; 1-0; San Lorenzo de Almagro
@@ -257,7 +257,7 @@ Date: 9/6/1953
 ; Platense               ; 1-0; Boca Juniors
 ; Rosario Central        ; 0-0; Newell's Old Boys
 
-Round: Round 20 
+Round: 20 
 Date: 9/13/1953
 
 ; Banfield               ; 1-1; Rosario Central
@@ -269,7 +269,7 @@ Date: 9/13/1953
 ; San Lorenzo de Almagro ; 1-1; Independiente    
 ; Vélez Sarsfield        ; 1-1; Gimnasia y Esgrima   
 
-Round: Round 21 
+Round: 21 
 Date: 9/20/1953
 
 ; Boca Juniors           ; 3-1; Racing Club
@@ -281,7 +281,7 @@ Date: 9/20/1953
 ; Platense               ; 1-2; Estudiantes   
 ; Rosario Central        ; 2-0; Vélez Sarsfield
 
-Round: Round 22 
+Round: 22 
 Date: 9/27/1953
 
 ; Banfield               ; 2-2; Huracán     
@@ -293,7 +293,7 @@ Date: 9/27/1953
 ; San Lorenzo de Almagro ; 2-3; Rosario Central
 ; Vélez Sarsfield        ; 3-2; Lanús
 
-Round: Round 23 
+Round: 23 
 Date: 10/4/1953
 
 ; Boca Juniors           ; 2-0; Newell's Old Boys
@@ -305,7 +305,7 @@ Date: 10/4/1953
 ; Racing Club            ; 3-1; Estudiantes   
 ; Rosario Central        ; 4-1; River Plate
 
-Round: Round 24 
+Round: 24 
 Date: 10/11/1953
 
 ; Banfield               ; 1-2; Boca Juniors
@@ -317,7 +317,7 @@ Date: 10/11/1953
 ; San Lorenzo de Almagro ; 3-1; Huracán     
 ; Vélez Sarsfield        ; 2-2; Platense     
 
-Round: Round 25 
+Round: 25 
 Date: 10/18/1953
 
 ; Boca Juniors           ; 1-2; Vélez Sarsfield
@@ -329,7 +329,7 @@ Date: 10/18/1953
 ; Racing Club            ; 2-1; Banfield
 ; Rosario Central        ; 4-3; Independiente    
 
-Round: Round 26 
+Round: 26 
 Date: 10/25/1953
 
 ; Banfield               ; 5-1; Estudiantes   
@@ -341,7 +341,7 @@ Date: 10/25/1953
 ; San Lorenzo de Almagro ; 2-1; Boca Juniors
 ; Vélez Sarsfield        ; 1-0; Racing Club
 
-Round: Round 27 
+Round: 27 
 Date: 11/1/1953
 
 ; Boca Juniors           ; 1-0; River Plate
@@ -353,7 +353,7 @@ Date: 11/1/1953
 ; Platense               ; 1-1; Chacarita Juniors
 ; Racing Club            ; 3-2; San Lorenzo de Almagro
 
-Round: Round 28 
+Round: 28 
 Date: 11/8/1953
 
 ; Banfield               ; 0-0; Ferro Carril Oeste     
@@ -365,7 +365,7 @@ Date: 11/8/1953
 ; San Lorenzo de Almagro ; 4-1; Estudiantes   
 ; Vélez Sarsfield        ; 2-1; Newell's Old Boys
 
-Round: Round 29 
+Round: 29 
 Date: 11/15/1953
 
 ; Banfield               ; 3-3; Vélez Sarsfield
@@ -377,7 +377,7 @@ Date: 11/15/1953
 ; Platense               ; 4-3; Gimnasia y Esgrima   
 ; Racing Club            ; 3-1; Chacarita Juniors
 
-Round: Round 30:
+Round: 30
 Date: 11/21/1953
 
 ; San Lorenzo de Almagro ; 4-0; Banfield

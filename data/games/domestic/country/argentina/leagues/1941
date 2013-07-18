@@ -21,7 +21,7 @@ Competition: Argentine Primera División
 
 *(*) Banfield was suspended during 60 days due to bribery in round 10. Then, it  had 2 points deducted by match.    
  
-Round: Round 1 
+Round: 1 
 Date: 3/30/1941
 
 ; Atlanta                 ; 0-5;  River Plate
@@ -33,7 +33,7 @@ Date: 3/30/1941
 ; Racing Club             ; 4-1;  Lanús
 ; Tigre                   ; 3-2;  Gimnasia y Esgrima LPG
                                         
-Round: Round 2 
+Round: 2 
 Date: 4/6/1941
 
 ; Boca Juniors            ; 7-2;  Atlanta
@@ -45,7 +45,7 @@ Date: 4/6/1941
 ; Rosario Central         ; 1-0;  Platense     
 ; San Lorenzo de Almagro  ; 2-4;  Racing Club
                 
-Round: Round 3 
+Round: 3 
 Date: 4/13/1941
 
 ; Atlanta                 ; 6-6;  Estudiantes LPG
@@ -57,7 +57,7 @@ Date: 4/13/1941
 ; Racing Club             ; 3-2;  River Plate
 ; Tigre                   ; 2-1;  Ferro Carril Oeste (BUE)
                                      
-Round: Round 4 
+Round: 4 
 Date: 4/20/1941
 
 ; Atlanta                 ; 1-1;  Tigre
@@ -69,7 +69,7 @@ Date: 4/20/1941
 ; Rosario Central         ; 1-2;  Ferro Carril Oeste (BUE)
 ; San Lorenzo de Almagro  ; 5-2;  Huracán (BUE)
                 
-Round: Round 5 
+Round: 5 
 Date: 4/27/1941
 
 ; Banfield                ; 3-4;  Boca Juniors    
@@ -81,7 +81,7 @@ Date: 4/27/1941
 ; Racing Club             ; 2-2;  Estudiantes LPG 
 ; Tigre                   ; 4-2;  Rosario Central 
                                               
-Round: Round 6 
+Round: 6 
 Date: 5/4/1941
 
 ; Atlanta                 ; 1-1;  Racing Club              ; San Lorenzo de Almagro
@@ -93,7 +93,7 @@ Date: 5/4/1941
 ; River Plate             ; 3-2;  Platense     
 ; San Lorenzo de Almagro  ; 3-0;  Gimnasia y Esgrima LPG
                 
-Round: Round 7 
+Round: 7 
 Date: 5/11/1941
 
 ; Banfield                ; 3-5;  Atlanta
@@ -105,7 +105,7 @@ Date: 5/11/1941
 ; Rosario Central         ; 1-1;  Lanús
 ; Tigre                   ; 0-3;  Independiente (Ave)
                                              
-Round: Round 8 
+Round: 8 
 Date: 5/18/1941
 
 ; Atlanta                 ; 2-4;  Huracán (BUE)
@@ -117,7 +117,7 @@ Date: 5/18/1941
 ; River Plate             ; 4-0;  Ferro Carril Oeste (BUE)
 ; San Lorenzo de Almagro  ; 3-1;  Rosario Central
                 
-Round: Round 9:                       
+Round: 9                       
 Date: 5/24/1941
 
 ; Gimnasia y Esgrima LPG  ; 1-2;  Estudiantes LPG
@@ -132,7 +132,7 @@ Date: 5/25/1941
 ; Rosario Central         ; 3-5;  River Plate     
 ; Tigre                   ; 1-1;  Lanús   
                                         
-Round: Round 10 
+Round: 10 
 Date: 6/1/1941
 
 ; Atlanta                 ; 3-1;  Gimnasia y Esgrima LPG  
@@ -144,7 +144,7 @@ Date: 6/1/1941
 ; River Plate             ; 2-1;  Independiente (Ave)     
 ; San Lorenzo de Almagro  ; 3-2;  Lanús   
                 
-Round: Round 11 
+Round: 11 
 Date: 6/8/1941
 
 ; Ferro Carril Oeste (BUE); 1-0;  Atlanta
@@ -156,7 +156,7 @@ Date: 6/8/1941
 ; Rosario Central         ; 2-2;  Estudiantes LPG
 ; Tigre                   ; 0-1;  San Lorenzo de Almagro
                                    
-Round: Round 12 
+Round: 12 
 Date: 6/15/1941
 
 ; Atlanta                 ; 9-1;  Rosario Central
@@ -168,7 +168,7 @@ Date: 6/15/1941
 ; Racing Club             ; 3-1;  Gimnasia y Esgrima LPG  
 ; River Plate             ; 1-2;  San Lorenzo de Almagro  
                                   
-Round: Round 13 
+Round: 13 
 Date: 6/22/1941
 
 ; Ferro Carril Oeste (BUE); 0-3;  Racing Club     
@@ -180,7 +180,7 @@ Date: 6/22/1941
 ; San Lorenzo de Almagro  ; 3-2;  Boca Juniors    
 ; Tigre                   ; 0-3;  River Plate     
                                               
-Round: Round 14 
+Round: 14 
 Date: 6/29/1941
 
 ; Atlanta                 ; 0-3;  Lanús   
@@ -193,7 +193,7 @@ Date: 6/29/1941
 ; Platense                ; 4-3;  Tigre   
 ; Racing Club             ; 4-3;  Rosario Central 
                                
-Round: Round 15 
+Round: 15 
 Date: 7/6/1941
 
 ; Ferro Carril Oeste (BUE); 0-0;  Huracán (BUE)
@@ -206,7 +206,7 @@ Date: 7/6/1941
 ; San Lorenzo de Almagro  ; 3-3;  Atlanta
 ; Tigre                   ; 1-1;  Boca Juniors
                                     
-Round: Round 16 
+Round: 16 
 Date: 7/20/1941
 
 ; Boca Juniors            ; 2-1;  Estudiantes LPG
@@ -219,7 +219,7 @@ Date: 7/20/1941
 ; Rosario Central         ; 3-2;  Huracán (BUE)   
 ; San Lorenzo de Almagro  ; 3-3;  Newell's Old Boys       
                          
-Round: Round 17 
+Round: 17 
 Date: 7/27/1941
 
 ; Atlanta                 ; 2-2;  Boca Juniors    
@@ -233,7 +233,7 @@ Date: 7/27/1941
 ; Racing Club             ; 2-1;  San Lorenzo de Almagro
 ; Tigre                   ; 0-1;  Estudiantes LPG
                                            
-Round: Round 18 
+Round: 18 
 Date: 8/3/1941
 
 ; Boca Juniors            ; 2-1;  Newell's Old Boys
@@ -246,7 +246,7 @@ Date: 8/3/1941
 ; San Lorenzo de Almagro  ; 0-2;  Banfield                 
 *[Banfield 2 points deducted]                    
                          
-Round: Round 19 
+Round: 19 
 Date: 8/10/1941
 
 ; Banfield                ; 2-4;  River Plate              ; Chacarita Juniors
@@ -259,7 +259,7 @@ Date: 8/10/1941
 ; Racing Club             ; 1-2;  Boca Juniors    
 ; Tigre                   ; 1-2;  Atlanta                 ; Boca Juniors
                                                            
-Round: Round 20 
+Round: 20 
 Date: 8/17/1941
 
 ; Atlanta                 ; 3-2;  Newell's Old Boys       
@@ -272,7 +272,7 @@ Date: 8/17/1941
 ; Rosario Central         ; 1-1;  Tigre   
 ; San Lorenzo de Almagro  ; 3-3;  Platense        
                          
-Round: Round 21 
+Round: 21 
 Date: 8/24/1941
 
 ; Banfield                ; 2-1;  Estudiantes LPG          ; Boca Juniors
@@ -285,7 +285,7 @@ Date: 8/24/1941
 ; Rosario Central         ; 1-2;  Independiente (Ave)     
 ; Tigre                   ; 2-2;  Newell's Old Boys       
                                            
-Round: Round 22 
+Round: 22 
 Date: 8/31/1941
 
 ; Atlanta                 ; 1-2;  Banfield        
@@ -297,7 +297,7 @@ Date: 8/31/1941
 ; River Plate             ; 3-3;  Gimnasia y Esgrima LPG  
 ; San Lorenzo de Almagro  ; 4-0;  Ferro Carril Oeste (BUE) ; Chacarita Juniors
                          
-Round: Round 23 
+Round: 23 
 Date: 9/7/1941
 
 ; Banfield                ; 4-3;  Newell's Old Boys       
@@ -309,7 +309,7 @@ Date: 9/7/1941
 ; Rosario Central         ; 1-1;  San Lorenzo de Almagro  
 ; Tigre                   ; 5-1;  Racing Club     
                                               
-Round: Round 24 
+Round: 24 
 Date: 9/14/1941
 
 ; Atlanta                 ; 3-3;  Platense        
@@ -321,7 +321,7 @@ Date: 9/14/1941
 ; River Plate             ; 2-1;  Rosario Central 
 ; San Lorenzo de Almagro  ; 1-0;  Independiente (Ave)      ; River Plate
                          
-Round: Round 25:                              
+Round: 25                              
 Date: 9/21/1941
 
 ; Ferro Carril Oeste (BUE); 4-2;  Estudiantes LPG 
@@ -338,7 +338,7 @@ Date: 10/15/1941
 ; Rosario Central         ; 2-0;  Boca Juniors             ; San Lorenzo de Almagro
 *                                                        remaining 20]
                                                                                 
-Round: Round 26:
+Round: 26
 Date: 9/26/1941
 
 ; River Plate             ; 4-0;  Lanús   
@@ -353,7 +353,7 @@ Date: 9/28/1941
 ; Racing Club             ; 4-1;  Platense        
 ; San Lorenzo de Almagro  ; 3-0;  Tigre   
                          
-Round: Round 27 
+Round: 27 
 Date: 10/5/1941
 
 ; Ferro Carril Oeste (BUE); 2-0;  Newell's Old Boys       
@@ -365,7 +365,7 @@ Date: 10/5/1941
 ; San Lorenzo de Almagro  ; 1-1;  River Plate     
 ; Tigre                   ; 3-1;  Huracán (BUE)   
                                               
-Round: Round 28 
+Round: 28 
 Date: 10/12/1941
 
 ; Atlanta                 ; 2-2;  Independiente (Ave)     
@@ -377,7 +377,7 @@ Date: 10/12/1941
 ; Racing Club             ; 1-2;  Ferro Carril Oeste (BUE) 
 ; River Plate             ; 2-0;  Tigre   
 
-Round: Round 29 
+Round: 29 
 Date: 10/19/1941
 
 ; Ferro Carril Oeste (BUE); 0-5;  Banfield        
@@ -389,7 +389,7 @@ Date: 10/19/1941
 ; San Lorenzo de Almagro  ; 3-1;  Estudiantes LPG 
 ; Tigre                   ; 2-2;  Platense        
                                                 
-Round: Round 30
+Round: 30
 Date: 10/26/1941
 
 ; Atlanta                 ; 2-1;  San Lorenzo de Almagro  ; Ferro Carril Oeste (BUE)

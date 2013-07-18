@@ -20,7 +20,7 @@ Competition: Liga Argentina de Football
 *15. Quilmes                 28    3    7   18    26    62   13 Relegated
 
 
-Round: Round 1 
+Round: 1 
 Date: 3/25/1962
 
 ; Argentinos Juniors     ; 2-1; Atlanta
@@ -32,7 +32,7 @@ Date: 3/25/1962
 ; Quilmes                ; 2-3; Independiente (A)
 ; Racing Club            ; 0-1; Rosario Central
 
-Round: Round 2:
+Round: 2
 Date: 4/1/1962
 
 ; Atlanta                ; 0-1; Huracán (BA)            ; River Plate
@@ -47,7 +47,7 @@ Date: 4/2/1962
 
 ; Rosario Central        ; 1-1; Ferro Carril Oeste (BA) ; Central Córdoba (R)
 
-Round: Round 3 
+Round: 3 
 Date: 4/8/1962
 
 ; Argentinos Juniors     ; 3-3; Rosario Central
@@ -59,7 +59,7 @@ Date: 4/8/1962
 ; Quilmes                ; 1-2; Atlanta
 *Racing Club             bye
 
-Round: Round 4 
+Round: 4 
 Date: 4/15/1962
 
 ; Atlanta                ; 0-1; Boca Juniors            ; Huracán (BA)
@@ -71,7 +71,7 @@ Date: 4/15/1962
 ; San Lorenzo de Almagro ; 1-0; Quilmes
 ; Vélez Sarsfield        ; 5-2; Estudiantes LP
 
-Round: Round 5 
+Round: 5 
 Date: 4/19/1962
 
 *Argentinos Juniors      bye
@@ -83,7 +83,7 @@ Date: 4/19/1962
 ; Independiente (A)      ; 2-0; River Plate
 ; Quilmes                ; 1-0; Rosario Central
 
-Round: Round 6 
+Round: 6 
 Date: 6/17/1962
 
 ; Atlanta                ; 0-0; Chacarita Juniors
@@ -95,7 +95,7 @@ Date: 6/17/1962
 ; San Lorenzo de Almagro ; 2-2; Estudiantes LP
 ; Vélez Sarsfield        ; 1-1; Independiente (A)
 
-Round: Round 7 
+Round: 7 
 Date: 6/24/1962
 
 ; Argentinos Juniors     ; 3-1; Ferro Carril Oeste (BA)
@@ -107,7 +107,7 @@ Date: 6/24/1962
 *Quilmes                 bye
 ; Vélez Sarsfield        ; 1-1; River Plate
 
-Round: Round 8 
+Round: 8 
 Date: 7/1/1962
 
 ; Atlanta                ; 1-0; Vélez Sarsfield
@@ -119,7 +119,7 @@ Date: 7/1/1962
 ; Rosario Central        ; 2-1; Chacarita Juniors
 ; San Lorenzo de Almagro ; 1-4; Independiente (A)
 
-Round: Round 9 
+Round: 9 
 Date: 7/8/1962
 
 ; Atlanta                ; 0-1; River Plate
@@ -131,7 +131,7 @@ Date: 7/8/1962
 ; Quilmes                ; 3-1; Ferro Carril Oeste (BA)
 ; Vélez Sarsfield        ; 1-3; San Lorenzo de Almagro
 
-Round: Round 10 
+Round: 10 
 Date: 7/22/1962
 
 ; Argentinos Juniors     ; 1-1; Quilmes
@@ -143,7 +143,7 @@ Date: 7/22/1962
 ; Rosario Central        ; 1-1; Vélez Sarsfield
 ; San Lorenzo de Almagro ; 3-1; Atlanta
 
-Round: Round 11 
+Round: 11 
 Date: 7/29/1962
 
 ; Atlanta                ; 1-2; Rosario Central
@@ -155,7 +155,7 @@ Date: 7/29/1962
 ; San Lorenzo de Almagro ; 1-3; River Plate
 ; Vélez Sarsfield        ; 2-2; Gimnasia y Esgrima LP
 
-Round: Round 12 
+Round: 12 
 Date: 8/5/1962
 
 ; Argentinos Juniors     ; 3-3; Estudiantes LP
@@ -167,7 +167,7 @@ Date: 8/5/1962
 ; Rosario Central        ; 3-0; San Lorenzo de Almagro
 *Vélez Sarsfield         bye
 
-Round: Round 13 
+Round: 13 
 Date: 8/12/1962
 
 ; Boca Juniors           ; 5-1; Quilmes
@@ -182,7 +182,7 @@ Date: 8/19/1962
 ; Rosario Central        ; 0-1; River Plate
 ; San Lorenzo de Almagro ; 0-0; Gimnasia y Esgrima LP
 
-Round: Round 14 
+Round: 14 
 Date: 8/26/1962
 
 ; Argentinos Juniors     ; 0-2; Independiente (A)
@@ -194,7 +194,7 @@ Date: 8/26/1962
 ; River Plate            ; 3-1; Boca Juniors
 *San Lorenzo de Almagro  byee
 
-Round: Round 15
+Round: 15
 
 Date: 8/28/1962
 
@@ -213,7 +213,7 @@ Date: 9/2/1962
 *Rosario Central         bye
 ; Vélez Sarsfield        ; 1-3; Argentinos Juniors
 
-Round: Round 16 
+Round: 16 
 Date: 9/9/1962
 
 ; Atlanta                ; 0-1; Argentinos Juniors
@@ -225,7 +225,7 @@ Date: 9/9/1962
 ; San Lorenzo de Almagro ; 3-2; Ferro Carril Oeste (BA)
 ; Vélez Sarsfield        ; 1-2; Huracán (BA)
 
-Round: Round 17
+Round: 17
 
 Date: 9/25/1962
 
@@ -241,7 +241,7 @@ Date: 9/26/1962
 ; Quilmes                ; 2-2; Vélez Sarsfield
 *River Plate             bye
 
-Round: Round 18 
+Round: 18 
 Date: 9/30/1962
 
 ; Atlanta                ; 1-0; Quilmes
@@ -253,7 +253,7 @@ Date: 9/30/1962
 ; San Lorenzo de Almagro ; 2-2; Huracán (BA)
 ; Vélez Sarsfield        ; 0-1; Boca Juniors
 
-Round: Round 19 
+Round: 19 
 Date: 10/7/1962
 
 ; Argentinos Juniors     ; 0-2; Gimnasia y Esgrima LP
@@ -265,7 +265,7 @@ Date: 10/7/1962
 ; Quilmes                ; 0-4; San Lorenzo de Almagro
 ; Racing Club            ; 2-6; River Plate
 
-Round: Round 20 
+Round: 20 
 Date: 10/12/1962
 
 *Argentinos Juniors      bye
@@ -277,7 +277,7 @@ Date: 10/12/1962
 ; San Lorenzo de Almagro ; 2-2; Boca Juniors
 ; Vélez Sarsfield        ; 0-2; Chacarita Juniors
 
-Round: Round 21 
+Round: 21 
 Date: 10/14/1962
 
 ; Argentinos Juniors     ; 0-0; Racing Club
@@ -289,7 +289,7 @@ Date: 10/14/1962
 ; Independiente (A)      ; 0-0; Vélez Sarsfield
 ; Quilmes                ; 0-2; Gimnasia y Esgrima LP
 
-Round: Round 22 
+Round: 22 
 Date: 10/21/1962
 
 ; Atlanta                ; 0-0; Independiente (A)
@@ -301,7 +301,7 @@ Date: 10/21/1962
 ; Rosario Central        ; 2-2; Estudiantes LP
 ; San Lorenzo de Almagro ; 5-2; Chacarita Juniors
 
-Round: Round 23 
+Round: 23 
 Date: 10/28/1962
 
 ; Argentinos Juniors     ; 2-3; River Plate             ; Atlanta
@@ -313,7 +313,7 @@ Date: 10/28/1962
 ; Quilmes                ; 1-1; Racing Club
 ; Vélez Sarsfield        ; 1-3; Atlanta
 
-Round: Round 24 
+Round: 24 
 Date: 11/1/1962
 
 ; Argentinos Juniors     ; 4-3; Huracán (BA)
@@ -325,7 +325,7 @@ Date: 11/1/1962
 ; Rosario Central        ; 2-0; Independiente (A)
 ; San Lorenzo de Almagro ; 2-0; Vélez Sarsfield
 
-Round: Round 25 
+Round: 25 
 Date: 11/4/1962
 
 ; Atlanta                ; 3-2; San Lorenzo de Almagro
@@ -337,7 +337,7 @@ Date: 11/4/1962
 ; Quilmes                ; 4-2; Argentinos Juniors
 ; Vélez Sarsfield        ; 0-0; Rosario Central
 
-Round: Round 26 
+Round: 26 
 Date: 11/11/1962
 
 ; Argentinos Juniors     ; 0-2; Boca Juniors            ; Atlanta
@@ -349,7 +349,7 @@ Date: 11/11/1962
 ; River Plate            ; 4-1; San Lorenzo de Almagro
 ; Rosario Central        ; 1-3; Atlanta
 
-Round: Round 27:
+Round: 27
 Date: 11/17/1962
 
 ; San Lorenzo de Almagro ; 1-1; Rosario Central
@@ -367,7 +367,7 @@ Date: 11/25/1962
 ; Quilmes                ; 0-1; River Plate
 *Vélez Sarsfield         bye
 
-Round: Round 28 
+Round: 28 
 Date: 12/2/1962
 
 ; Argentinos Juniors     ; 1-2; Chacarita Juniors
@@ -379,7 +379,7 @@ Date: 12/2/1962
 ; Racing Club            ; 2-2; Vélez Sarsfield
 ; River Plate            ; 3-1; Rosario Central
 
-Round: Round 29 
+Round: 29 
 Date: 12/9/1962
 
 ; Atlanta                ; 1-1; Racing Club
@@ -391,7 +391,7 @@ Date: 12/9/1962
 * San Lorenzo de Almagro  bye
 ; Vélez Sarsfield        ; 2-2; Ferro Carril Oeste (BA)
 
-Round: Round 30
+Round: 30
 Date: 12/12/1962
 
 ; Argentinos Juniors     ; 6-0; Vélez Sarsfield

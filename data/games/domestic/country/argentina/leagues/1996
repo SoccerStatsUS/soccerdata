@@ -27,41 +27,41 @@ home-first
 Round: 1
 
 ; Lanus        ; 0-0; Huracan BA
-; Newell's OB  ; 0-2; Velez 
-; Racing       ; 0-2; Rosario C
+; Newell's OB  ; 0-2; Velez Sarsfield 
+; Racing       ; 0-2; Rosario Central
 ; San Lorenzo  ; 0-1; Banfield 
 ; Huracan C    ; 3-6; Union 
-; Estudiantes  ; 2-3; Boca 
-; FCO          ; 0-3; Independiente 
+; Estudiantes  ; 2-3; Boca Juniors 
+; Ferro Carril Oeste          ; 0-3; Independiente 
 ; Gimnasia J   ; 1-0; Platense 
-; River        ; 0-0; Gimnasia LP
+; River Plate        ; 0-0; Gimnasia LP
 ; Colon        ; 1-1; Dep Espanol 
 
 Round: 2
 
-; Boca         ; 2-3; Colon 
+; Boca Juniors         ; 2-3; Colon 
 ; Banfield     ; 1-1; Huracan C
 ; Dep Espanol  ; 0-1; Lanus
 ; Huracan BA   ; 1-1; San Lorenzo
-; Gimnasia LP  ; 1-0; FCO
-; Gimnasia J   ; 0-0; Rosario C
+; Gimnasia LP  ; 1-0; Ferro Carril Oeste
+; Gimnasia J   ; 0-0; Rosario Central
 ; Independiente; 4-0; Newell's OB
 ; Platense     ; 2-4; Estudiantes 
-; Velez        ; 2-3; Racing
-; Union        ; 1-3; River
+; Velez Sarsfield        ; 2-3; Racing
+; Union        ; 1-3; River Plate
 
 Round: 3
 
 ; Colon        ; 1-1; Platense
-; Estudiantes  ; 0-2; Rosario C
+; Estudiantes  ; 0-2; Rosario Central
 ; Huracan C    ; 1-1; Huracan BA
-; Lanus        ; 3-1; Boca
+; Lanus        ; 3-1; Boca Juniors
 ; Newell's OB  ; 1-0; Gimnasia LP
 ; Racing       ; 0-0; Gimnasia J
-; River        ; 2-0; Banfield
+; River Plate        ; 2-0; Banfield
 ; San Lorenzo  ; 0-1; Dep Espanol
-; Velez        ; 2-3; Independiente
-; FCO          ; 2-2; Union
+; Velez Sarsfield        ; 2-3; Independiente
+; Ferro Carril Oeste          ; 2-2; Union
 
 Round: 4
 
@@ -69,39 +69,39 @@ Round: 4
 ; Boca Juniors ; 1-1; San Lorenzo
 ; Dep Espanol  ; 1-0; Huracan C
 ; Gimnasia J   ; 2-0; Estudiantes
-; Gimnasia LP  ; 1-1; Velez
+; Gimnasia LP  ; 1-1; Velez Sarsfield
 ; Huracan BA   ; 2-3; River Plate
 ; Independiente; 2-2; Racing
 ; Platense     ; 0-0; Lanus
-; Rosario C    ; 0-0; Colon
-; Banfield     ; 3-2; FCO
+; Rosario Central    ; 0-0; Colon
+; Banfield     ; 3-2; Ferro Carril Oeste
 
 Round: 5
 
 ; Boca Juniors ; 3-1; Huracan C
-; FCO          ; 4-2; Huracan BA
+; Ferro Carril Oeste          ; 4-2; Huracan BA
 ; Estudiantes  ; 1-2; Racing
 ; Independiente; 2-0; Gimnasia LP
-; Lanus        ; 2-1; Rosario C
+; Lanus        ; 2-1; Rosario Central
 *Newell's OB   Abd Banfield    
 *[abandoned at 2-0, 81'; Banfield 6 players left]
 *[apparently result after 81' stood]
 
 ; River Plate  ; 3-1; Dep Espanol              
 ; San Lorenzo  ; 1-0; Platense 
-; Velez        ; 2-0; Union    
+; Velez Sarsfield        ; 2-0; Union    
 ; Colon        ; 0-0; Gimnasia J
 
 Round: 6
 
-; Banfield     ; 1-3; Velez
+; Banfield     ; 1-3; Velez Sarsfield
 ; Boca Juniors ; 3-2; River Plate
-; Dep Espanol  ; 2-2; FCO
+; Dep Espanol  ; 2-2; Ferro Carril Oeste
 ; Colon        ; 3-2; Estudiantes
 ; Gimnasia J   ; 1-2; Lanus
 ; Huracan BA   ; 1-1; Newell's OB
 ; Racing       ; 0-1; Gimnasia LP
-; Rosario C    ; 1-2; San Lorenzo
+; Rosario Central    ; 1-2; San Lorenzo
 ; Union        ; 0-1; Independiente
 ; Huracan C    ; 1-0; Platense
 
@@ -109,26 +109,26 @@ Round: 7
 ; San Lorenzo  ; 1-0; Gimnasia J
 ; Colon        ; 0-2; Racing
 ; Lanus        ; 0-0; Estudiantes
-; Huracan C    ; 1-1; Rosario C
+; Huracan C    ; 1-1; Rosario Central
 ; River Plate  ; 4-1; Platense
-; FCO          ; 3-1; Boca Juniors
+; Ferro Carril Oeste          ; 3-1; Boca Juniors
 ; Newell's OB  ; 2-0; Dep Espanol
 ; Independiente; 1-1; Banfield
-; Velez        ; 2-1; Huracan BA
+; Velez Sarsfield        ; 2-1; Huracan BA
 ; Gimnasia LP  ; 1-1; Union
 
 Round: 8
 
-; Dep Espanol  ; 1-2; Velez
+; Dep Espanol  ; 1-2; Velez Sarsfield
 ; Gimnasia J   ; 0-0; Huracan C
 ; Colon        ; 0-1; Lanus
-; Rosario C    ; 2-5; River Plate
+; Rosario Central    ; 2-5; River Plate
 ; Banfield     ; 0-2; Gimnasia LP
 ; Racing       ; 2-1; Union 
 ; Boca Juniors ; 2-1; Newell's OB
 ; Estudiantes  ; 1-0; San Lorenzo
 ; Independiente; 1-1; Huracan BA
-; Platense     ; 1-0; FCO
+; Platense     ; 1-0; Ferro Carril Oeste
 
 Round: 9
 
@@ -139,8 +139,8 @@ Round: 9
 ; San Lorenzo  ; 4-1; Colon
 ; Huracan C    ; 2-2; Estudiantes
 ; Union        ; 3-1; Banfield
-; FCO          ; 1-3; Rosario C
-; Velez        ; 1-1; Boca Juniors
+; Ferro Carril Oeste          ; 1-3; Rosario Central
+; Velez Sarsfield        ; 1-1; Boca Juniors
 ; Newell's OB  ; 2-2; Platense
 
 Round: 10 
@@ -159,10 +159,10 @@ Date: 11/4/1996
 ; Lanus        ; 3-1; San Lorenzo
   Mena (pk) 13, Morales 81, Coyette 90; Gorosito 87
 
-; Rosario C    ; 1-1; Newell's OB
+; Rosario Central    ; 1-1; Newell's OB
   Facciutto 21; Genk 8
 
-; Platense     ; 4-4; Velez
+; Platense     ; 4-4; Velez Sarsfield
   Godoy 4, Di Carlos 33, Di Carlos 44, Di Carlos 45; Herrera 31, Morigi 37, Morigi 84, Bassedas 89
 
 ; Dep Espanol  ; 1-2; Gimnasia LP
@@ -171,7 +171,7 @@ Date: 11/4/1996
 ; Huracan      ; 3-0; Union
   Lettieri 3, Lettieri 57, N.Fernandez 53;
 
-; Gimnasia J   ; 2-2; FCO
+; Gimnasia J   ; 2-2; Ferro Carril Oeste
   Aarcon 55, V. Lopez 72; Bustos 12, Garcete 65
 
 ; Boca Juniors ; 0-1; Independiente
@@ -196,7 +196,7 @@ Date: 11/5/1996
 
 ; Gimnasia LP  ; 1-1; Boca Juniors
 
-; FCO          ; 3-2; Estudiantes
+; Ferro Carril Oeste          ; 3-2; Estudiantes
   Piaggio 18, Goncalves 71, Varga 73; Palermo 37, Ramos 79
 
 ; Union        ; 1-1; Dep Espanol
@@ -208,7 +208,7 @@ Date: 11/5/1996
 ; Newell's OB  ; 3-1; Gimnasia J
   Franco 9, Gerk 16, Liando 67; Garnier 8
 
-; Velez        ; 4-4; Rosario C
+; Velez Sarsfield        ; 4-4; Rosario Central
   Posse 29, Camps 37, Camps 86, Cardozo 52; Loeschbor 43, Da Silva 45, Da Silva (pk) 71, Maseratassi 85
 
 Round: 12 
@@ -218,7 +218,7 @@ Date: 11/11/1996
 ; Estudiantes  ; 0-5; Newell's OB
 ;  Gerk 15, Gerk 66, Gimenez (pk) 47, Gimenez 52, Dalla Libera 61
 
-; Colon        ; 1-1; FCO
+; Colon        ; 1-1; Ferro Carril Oeste
   Castagno Suarez 38; Bustos 19
 
 ; Lanus        ; 3-1; River Plate
@@ -236,10 +236,10 @@ Date: 11/11/1996
 ; Racing Club  ; 6-1; Huracan BA
   I. Gonzalez (pk) 22, I. Gonzalez (pk) 29, Fuertes 31, Capria 56, Capria 65, Galvan 61; Barrios (pk) 71
 
-; Gimnasia J   ; 1-1; Velez
+; Gimnasia J   ; 1-1; Velez Sarsfield
   Batista (pk) 87; Morigi 53
 
-; Rosario C    ; 3-1; Independiente
+; Rosario Central    ; 3-1; Independiente
   Maseratessi 14, Maseratessi 31, Da Silva 52; Calderon 26
 
 ; Dep Espanol  ; 0-0; Banfield
@@ -251,10 +251,10 @@ Date: 11/18/1996
 ; Banfield     ; 3-1; Boca Juniors
   Lemma 6, Arca 29, Alvaranga 34; Rambert (pk) 87
 
-; FCO          ; 1-2; Lanus
+; Ferro Carril Oeste          ; 1-2; Lanus
   Ruggi 74; A. Lopez 8, A. Lopez 71
 
-; Gimnasia LP  ; 1-2; Rosario C
+; Gimnasia LP  ; 1-2; Rosario Central
   Sosa 73; Carbonari 30, Cardetti 62
 
 ; Huracan BA   ; 1-0; Dep Espanol
@@ -272,7 +272,7 @@ Date: 11/18/1996
 ; Union        ; 0-1; Platense
 ;  Di Carlo 75
 
-; Velez        ; 0-2; Estudiantes
+; Velez Sarsfield        ; 0-2; Estudiantes
 ;  Cordoba (pk) 23, Nigro 39
 
 ; Newell's OB  ; 1-1; Colon
@@ -291,15 +291,15 @@ Date: 11/25/1996
 
 ; Platense     ; 2-0; Banfield
 
-; Colon        ; 2-1; Velez
+; Colon        ; 2-1; Velez Sarsfield
   M. Risso 60, M. Risso 71; C.Cordona 55
 
 ; Gimnasia J   ; 1-0; Gimnasia LP
   Morales Santos 66;
 
-; Rosario C    ; 1-3; Union
+; Rosario Central    ; 1-3; Union
 
-; San Lorenzo  ; 2-2; FCO
+; San Lorenzo  ; 2-2; Ferro Carril Oeste
   Abrau 62pen, Montenegro 76; Bustos 82, Nicotra 85pen
 
 ; Estudiantes  ; 1-0; Independiente
@@ -310,14 +310,14 @@ Date: 11/25/1996
 
 Round: 15
 
-; Banfield     ; 1-1; Rosario C
+; Banfield     ; 1-1; Rosario Central
 ; Dep Espanol  ; 1-1; Boca Juniors
 ; Huracan BA   ; 1-1; Platense
-; FCO          ; 5-1; Huracan C
+; Ferro Carril Oeste          ; 5-1; Huracan C
 ; Gimnasia LP  ; 0-0; Estudiantes
 ; Independiente; 2-1; Colon
 ; Newell's OB  ; 0-2; San Lorenzo
-; Velez        ; 2-0; Lanus
+; Velez Sarsfield        ; 2-0; Lanus
 ; Union        ; 2-0; Gimnasia J
 12/4/1996; River Plate  ; 4-3; Racing
 
@@ -329,36 +329,36 @@ Round: 16
 ; Huracan C    ; 4-1; Newell's OB
 ; Lanus        ; 1-2; Independiente
 ; Racing       ; 4-2; Boca Juniors
-; River Plate  ; 5-1; FCO
-; Rosario C    ; 1-1; Huracan BA
-; San Lorenzo  ; 1-0; Velez
+; River Plate  ; 5-1; Ferro Carril Oeste
+; Rosario Central    ; 1-1; Huracan BA
+; San Lorenzo  ; 1-0; Velez Sarsfield
 ; Platense     ; 1-1; Dep Espanol  
 
 Round: 17
 
 ; Boca Juniors ; 4-1; Platense
-; Velez        ; 0-3; Huracan C
+; Velez Sarsfield        ; 0-3; Huracan C
 ; Banfield     ; 0-4; Estudiantes
 ; Union        ; 1-1; Colon
 ; Independiente; 2-0; San Lorenzo
 ; Newell's OB  ; 1-3; River Plate
-; FCO          ; 1-1; Racing
+; Ferro Carril Oeste          ; 1-1; Racing
 ; Huracan BA   ; 2-3; Gimnasia J
-; Dep Espanol  ; 2-3; Rosario C
+; Dep Espanol  ; 2-3; Rosario Central
 ; Gimnasia LP  ; 0-0; Lanus
 
 Round: 18
 
 ; Huracan C    ; 3-2; Independiente
 ; Racing       ; 1-0; Platense
-; River Plate  ; 3-0; Velez 
-; Rosario C    ; 4-2; Boca Juniors
+; River Plate  ; 3-0; Velez Sarsfield 
+; Rosario Central    ; 4-2; Boca Juniors
 ; San Lorenzo  ; 1-2; Gimnasia LP
 ; Estudiantes  ; 3-1; Huracan BA
 ; Gimnasia J   ; 1-1; Dep Espanol
 ; Colon        ; 6-0; Banfield
 ; Lanus        ; 0-0; Union
-; FCO          ; 0-0; Newell's OB
+; Ferro Carril Oeste          ; 0-0; Newell's OB
 
 Round: 19
 
@@ -370,8 +370,8 @@ Round: 19
 ; Independiente; 3-1; River Plate
 ; Newell's OB  ; 1-0; Racing
 ; Union        ; 2-0; San Lorenzo
-; Velez        ; 0-2; FCO
-; Platense     ; 1-3; Rosario C
+; Velez Sarsfield        ; 0-2; Ferro Carril Oeste
+; Platense     ; 1-3; Rosario Central
 
 * 1.River Plate             19 15  1  3 52-22 46  Champions
 * 2.Independiente           19 11  4  4 34-22 37
@@ -422,42 +422,42 @@ Round: 1
 Date: 2/22/1997
 
 ; Huracan BA   ; 0-0; Lanus
-; Velez        ; 1-1; Newell's OB 
-; Rosario C    ; 5-0; Racing
+; Velez Sarsfield        ; 1-1; Newell's OB 
+; Rosario Central    ; 5-0; Racing
 ; Banfield     ; 1-1; San Lorenzo 
 ; Union        ; 0-0; Huracan C  
-; Boca         ; 2-1; Estudiantes 
-; Independiente; 2-2; FCO 
+; Boca Juniors         ; 2-1; Estudiantes 
+; Independiente; 2-2; Ferro Carril Oeste 
 ; Platense     ; 1-1; Gimnasia J
-; Gimnasia LP  ; 0-2; River
+; Gimnasia LP  ; 0-2; River Plate
 ; Dep Espanol  ; 1-1; Colon
 
 Round: 2 
 *[Feb 28,Mar 1,2]
 Date: 2/28/1997
 
-; Colon        ; 1-0; Boca
+; Colon        ; 1-0; Boca Juniors
 ; Lanus        ; 1-2; Dep Espanol
 ; Estudiantes  ; 1-2; Platense
-; FCO          ; 0-0; Gimnasia LP
-; Gimnasia J   ; 1-1; Rosario C
+; Ferro Carril Oeste          ; 0-0; Gimnasia LP
+; Gimnasia J   ; 1-1; Rosario Central
 ; Huracan C    ; 1-1; Banfield
 ; Newell's OB  ; 2-1; Independiente
-; Racing       ; 2-0; Velez
-; River        ; 4-0; Union
+; Racing       ; 2-0; Velez Sarsfield
+; River Plate        ; 4-0; Union
 ; San Lorenzo  ; 5-1; Huracan BA 
 
 Round: 3 
 *[Mar 4,5]
 Date: 3/4/1997
 
-; Banfield     ; 0-2; River 
+; Banfield     ; 0-2; River Plate 
 ; Gimnasia J   ; 1-2; Racing
 ; Gimnasia LP  ; 1-0; Newell's OB
-; Independiente; 0-3; Velez
-; Rosario C    ; 1-0; Estudiantes
-; Union        ; 2-1; FCO
-; Boca         ; 1-1; Lanus
+; Independiente; 0-3; Velez Sarsfield
+; Rosario Central    ; 1-0; Estudiantes
+; Union        ; 2-1; Ferro Carril Oeste
+; Boca Juniors         ; 1-1; Lanus
 ; Dep Espanol  ; 2-3; San Lorenzo
 ; Huracan BA   ; 1-1; Huracan C
 ; Platense     ; 2-2; Colon
@@ -466,29 +466,29 @@ Round: 4
 *[Mar 8,9,10]
 Date: 3/8/1997
 
-; Colon        ; 2-0; Rosario C
-; San Lorenzo  ; 4-0; Boca
-; River        ; 3-0; Huracan BA
-; FCO          ; 0-1; Banfield
+; Colon        ; 2-0; Rosario Central
+; San Lorenzo  ; 4-0; Boca Juniors
+; River Plate        ; 3-0; Huracan BA
+; Ferro Carril Oeste          ; 0-1; Banfield
 ; Estudiantes  ; 3-2; Gimnasia J
 ; Huracan C    ; 2-2; Dep Espanol
 ; Newell's OB  ; 2-1; Union
 ; Racing       ; 1-2; Independiente
-; Velez        ; 1-0; Gimnasia LP
+; Velez Sarsfield        ; 1-0; Gimnasia LP
 ; Lanus        ; 2-0; Platense
 
 Round: 5 
 *[Mar 15,16,17]
 Date: 3/15/1997
 
-; Huracan BA   ; 3-4; FCO
+; Huracan BA   ; 3-4; Ferro Carril Oeste
 ; Racing       ; 1-0; Estudiantes
 ; Platense     ; 3-1; San Lorenzo
-; Rosario C    ; 0-0; Lanus
+; Rosario Central    ; 0-0; Lanus
 ; Gimnasia J   ; 1-4; Colon
-; Union        ; 1-0; Velez
-; Dep Espanol  ; 1-1; River
-; Boca         ; 4-1; Huracan C
+; Union        ; 1-0; Velez Sarsfield
+; Dep Espanol  ; 1-1; River Plate
+; Boca Juniors         ; 4-1; Huracan C
 ; Gimnasia LP  ; 2-1; Independiente
 ; Banfield     ; 2-3; Newell's OB
 
@@ -496,29 +496,29 @@ Round: 6
 *[Mar 22,23,24]
 Date: 3/22/1997
 
-; River        ; 3-3; Boca
+; River Plate        ; 3-3; Boca Juniors
 ; Colon        ; 3-1; Estudiantes
 ; Lanus        ; 1-1; Gimnasia J
 ; Huracan C    ; 1-1; Platense
-; Velez        ; 2-1; Banfield
+; Velez Sarsfield        ; 2-1; Banfield
 ; Independiente; 4-4; Union
-; San Lorenzo  ; 3-1; Rosario C
+; San Lorenzo  ; 3-1; Rosario Central
 ; Newell's OB  ; 2-0; Huracan BA
 ; Gimnasia LP  ; 1-0; Racing
-; FCO          ; 2-1; Dep Espanol
+; Ferro Carril Oeste          ; 2-1; Dep Espanol
 
 Round: 7 
 *[Apr 5,6,7]
 Date: 4/5/1997
 
 ; Banfield     ; 0-2; Independiente
-; Boca         ; 1-1; FCO
+; Boca Juniors         ; 1-1; Ferro Carril Oeste
 ; Estudiantes  ; 0-0; Lanus
 ; Gimnasia J   ; 2-1; San Lorenzo
-; Huracan BA   ; 3-1; Velez
-; Platense     ; 1-2; River
+; Huracan BA   ; 3-1; Velez Sarsfield
+; Platense     ; 1-2; River Plate
 ; Racing       ; 1-1; Colon
-; Rosario C    ; 0-0; Huracan C
+; Rosario Central    ; 0-0; Huracan C
 ; Union        ; 2-1; Gimnasia LP
 ; Dep Espanol  ; 0-1; Newell's OB
 
@@ -530,57 +530,57 @@ Date: 4/11/1997
 ; Huracan C    ; 1-1; Gimnasia J
 ; Lanus        ; 3-4; Colon
 ; Independiente; 2-0; Huracan BA
-; Newell's OB  ; 1-1; Boca
+; Newell's OB  ; 1-1; Boca Juniors
 ; San Lorenzo  ; 0-1; Estudiantes
 ; Union        ; 1-1; Racing
-; FCO          ; 0-1; Platense
-5/22/1996; River        ; 1-1; Rosario C
+; Ferro Carril Oeste          ; 0-1; Platense
+5/22/1996; River Plate        ; 1-1; Rosario Central
 
-; Velez        ; 2-1; Dep Espanol    
+; Velez Sarsfield        ; 2-1; Dep Espanol    
 *[date unknown]
 
 Round: 9 
 *[Apr 19,20,21]
 Date: 4/19/1997
 
-; Boca         ; 1-2; Velez
+; Boca Juniors         ; 1-2; Velez Sarsfield
 ; Colon        ; 1-0; San Lorenzo
 ; Dep Espanol  ; 1-1; Independiente
 ; Estudiantes  ; 2-2; Huracan C
-; Gimnasia J   ; 1-1; River
+; Gimnasia J   ; 1-1; River Plate
 ; Huracan BA   ; 1-1; Gimnasia LP
 ; Platense     ; 1-2; Newell's OB
 ; Racing       ; 1-2; Lanus
-; Rosario C    ; 1-3; FCO
+; Rosario Central    ; 1-3; Ferro Carril Oeste
 ; Banfield     ; 1-2; Union
 
 Round: 10 
 *[May 3,4]
 Date: 5/3/1997
 
-; Independiente; 2-0; Boca 
+; Independiente; 2-0; Boca Juniors 
 ; Huracan C    ; 2-2; Colon 
-; Newell's OB  ; 0-0; Rosario C
+; Newell's OB  ; 0-0; Rosario Central
 ; San Lorenzo  ; 1-0; Lanus 
 ; Gimnasia LP  ; 0-0; Dep Espanol  
 ; Banfield     ; 1-3; Racing       
-; Velez        ; 0-0; Platense 
+; Velez Sarsfield        ; 0-0; Platense 
 ; Union        ; 5-0; Huracan BA
-; River        ; 1-4; Estudiantes 
-; FCO          ; 0-0; Gimnasia J
+; River Plate        ; 1-4; Estudiantes 
+; Ferro Carril Oeste          ; 0-0; Gimnasia J
 
 Round: 11 
 *[May 10,11]
 Date: 5/10/1997
 
-; Colon        ; 5-1; River
-; Boca         ; 6-1; Gimnasia LP
-; Rosario C    ; 0-1; Velez
+; Colon        ; 5-1; River Plate
+; Boca Juniors         ; 6-1; Gimnasia LP
+; Rosario Central    ; 0-1; Velez Sarsfield
 ; Platense     ; 0-3; Independiente
 ; Lanus        ; 1-2; Huracan C
 ; Dep Espanol  ; 2-1; Union
 ; Huracan BA   ; 1-0; Banfield
-; Estudiantes  ; 0-1; FCO
+; Estudiantes  ; 0-1; Ferro Carril Oeste
 ; Gimnasia J   ; 1-2; Newell's OB
 ; Racing       ; 2-0; San Lorenzo
 
@@ -588,29 +588,29 @@ Round: 12
 *[May 14,15]
 Date: 5/14/1997
 
-; River        ; 3-0; Lanus 
-; Union        ; 3-3; Boca 
-; Velez        ; 4-0; Gimnasia J
+; River Plate        ; 3-0; Lanus 
+; Union        ; 3-3; Boca Juniors 
+; Velez Sarsfield        ; 4-0; Gimnasia J
 ; Huracan BA   ; 2-2; Racing 
-; Independiente; 2-1; Rosario C
+; Independiente; 2-1; Rosario Central
 ; Huracan C    ; 0-2; San Lorenzo
 ; Gimnasia LP  ; 1-1; Platense  
 ; Banfield     ; 1-0; Dep Espanol
 ; Newell's OB  ; 1-0; Estudiantes 
-; FCO          ; 2-2; Colon
+; Ferro Carril Oeste          ; 2-2; Colon
 
 Round: 13 
 *[May 17,18,19]
 Date: 5/17/1997
 
-; San Lorenzo  ; 2-3; River 
+; San Lorenzo  ; 2-3; River Plate 
 ; Colon        ; 2-2; Newell's OB
 ; Racing       ; 2-0; Huracan C
-; Estudiantes  ; 0-3; Velez 
-; Lanus        ; 1-1; FCO
-; Rosario C    ; 3-3; Gimnasia LP
+; Estudiantes  ; 0-3; Velez Sarsfield 
+; Lanus        ; 1-1; Ferro Carril Oeste
+; Rosario Central    ; 3-3; Gimnasia LP
 ; Gimnasia J   ; 1-4; Independiente
-; Boca         ; 3-1; Banfield    
+; Boca Juniors         ; 3-1; Banfield    
 ; Dep Espanol  ; 0-0; Huracan BA  
 ; Platense     ; 2-0; Union
 
@@ -620,30 +620,30 @@ Date: 5/23/1997
 
 ; Newell's OB  ; 1-0; Lanus
 ; Gimnasia LP  ; 3-2; Gimnasia J
-; Union        ; 3-2; Rosario C
-; Velez        ; 1-1; Colon
+; Union        ; 3-2; Rosario Central
+; Velez Sarsfield        ; 1-1; Colon
 ; Dep Espanol  ; 0-2; Racing
 ; Independiente; 2-0; Estudiantes
-; FCO          ; 0-0; San Lorenzo 
+; Ferro Carril Oeste          ; 0-0; San Lorenzo 
 ; Banfield     ; 2-2; Platense 
-; River        ; 3-1; Huracan C    
-; Huracan BA   ; 1-1; Boca   
+; River Plate        ; 3-1; Huracan C    
+; Huracan BA   ; 1-1; Boca Juniors   
 
 Round: 15 
 *[May 31,Jun 1,2]
 Date: 5/31/1997
 
-; Boca         ; 1-3; Dep Espanol
+; Boca Juniors         ; 1-3; Dep Espanol
 ; Colon        ; 0-6; Independiente
 ; Estudiantes  ; 1-0; Gimnasia LP
 ; Gimnasia J   ; 2-0; Union
-; Huracan C    ; 2-1; FCO
-; Lanus        ; 3-1; Velez         
+; Huracan C    ; 2-1; Ferro Carril Oeste
+; Lanus        ; 3-1; Velez Sarsfield         
 *[abandoned at 3-1 in 80'] 
 ; Platense     ; 1-3; Huracan BA
-; Racing       ; 1-2; River
+; Racing       ; 1-2; River Plate
 ; San Lorenzo  ; 3-0; Newell's OB
-; Rosario C    ; 2-0; Banfield  
+; Rosario Central    ; 2-0; Banfield  
 
 ; Round: 16 
 *[Jul; 11-14]
@@ -651,12 +651,12 @@ Date: 5/31/1997
 ; Union;         3-3; Estudiantes
 ; Gimnasia LP  ; 0-1; Colon
 ; Independiente; 2-0; Lanus
-; Velez        ; 1-1; San Lorenzo
+; Velez Sarsfield        ; 1-1; San Lorenzo
 ; Newell's OB  ; 2-1; Huracan C
-; FCO          ; 0-2; River
-; Boca         ; 3-2; Racing
+; Ferro Carril Oeste          ; 0-2; River Plate
+; Boca Juniors         ; 3-2; Racing
 ; Banfield     ; 3-2; Gimnasia J
-; Huracan BA   ; 2-1; Rosario C
+; Huracan BA   ; 2-1; Rosario Central
 ; Dep Espanol  ; 0-0; Platense
 
 Round: 17 
@@ -666,13 +666,13 @@ Date: 8/6/1997
 ; Gimnasia J   ; 1-1; Huracan BA
 ; Lanus        ; 2-1; Gimnasia LP
 ; Estudiantes  ; 1-1; Banfield
-; Rosario C    ; 1-0; Dep Espanol
-; Huracan C    ; 0-1; Velez
-; Racing       ; 1-1; FCO
-; River        ; 1-0; Newell's OB
+; Rosario Central    ; 1-0; Dep Espanol
+; Huracan C    ; 0-1; Velez Sarsfield
+; Racing       ; 1-1; Ferro Carril Oeste
+; River Plate        ; 1-0; Newell's OB
 ; Colon        ; 0-0; Union
 ; San Lorenzo  ; 1-0; Independiente
-; Platense     ; 1-0; Boca
+; Platense     ; 1-0; Boca Juniors
 
 Round: 18 
 *[Aug 8,9,10]
@@ -685,9 +685,9 @@ Date: 8/8/1997
 ; Dep Espanol  ; 3-1; Gimnasia J
 ; Independiente; 2-3; Huracan C
 ; Banfield     ; 3-1; Colon
-; Newell's OB  ; 1-4; FCO
-; Velez        ; 0-2; River
-; Boca         ; 4-3; Rosario C
+; Newell's OB  ; 1-4; Ferro Carril Oeste
+; Velez Sarsfield        ; 0-2; River Plate
+; Boca Juniors         ; 4-3; Rosario Central
 
 Round: 19 
 *[Aug 13]
@@ -698,11 +698,11 @@ Date: 8/13/1997
 ; Lanus        ; 1-0; Banfield
 ; San Lorenzo  ; 4-3; Union
 ; Huracan C    ; 1-0; Gimnasia LP
-; River        ; 0-0; Independiente
-; FCO          ; 1-1; Velez
+; River Plate        ; 0-0; Independiente
+; Ferro Carril Oeste          ; 1-1; Velez Sarsfield
 ; Racing       ; 0-0; Newell's OB
-; Gimnasia J   ; 0-0; Boca
-; Rosario C    ; 1-2; Platense
+; Gimnasia J   ; 0-0; Boca Juniors
+; Rosario Central    ; 1-2; Platense
 
  * 1.River Plate             19 12  5  2; 37-20; 41  Champions
  * 2.Colón                   19  9  8  2; 36-28; 35 

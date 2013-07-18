@@ -468,6 +468,60 @@ l = [
         'founded': datetime.datetime(1905, 5, 5),
         'city': 'Santa Fe, Argentina',
         },
+
+    {
+        'name': 'Atlético de Rafaela',
+        'founded': datetime.datetime(1907, 1, 13),
+        'city': 'Rafaela, Argentina',
+        },
+
+    {
+        'name': 'Huracán de Tres Arroyos',
+        'founded': datetime.datetime(1923, 1, 3),
+        'city': 'Tres Arroyos, Argentina',
+        },
+
+    {
+        'name': 'San Martín de Mendoza',
+        'founded': datetime.datetime(1927, 12, 22),
+        'city': 'San Martin, Argentina',
+        },
+
+    {
+        'name': 'Chaco For Ever',
+        'founded': datetime.datetime(1913, 7, 27),
+        'city': 'Resistencia, Argentina',
+        },
+
+    {
+        'name': 'Club Deportivo Mandiyú',
+        'founded': datetime.datetime(1952, 12, 14),
+        'city': 'Corrientes, Argentina',
+        },
+
+    {
+        'name': 'Deportivo Armenio',
+        'founded': datetime.datetime(1962, 11, 2),
+        'city': 'Ingeniero Maschwitz, Argentina',
+        },
+
+    {
+        'name': 'Racing de Córdoba',
+        'founded': datetime.datetime(1924, 12, 14),
+        'city': 'Cordoba, Argentina',
+        },
+
+    {
+        'name': 'Sportivo Italiano',
+        'founded': datetime.datetime(1955, 5, 7),
+        'city': 'Ciudad Evita, Argentina',
+        },
+
+    {
+        'name': 'Huracán Corrientes',
+        'founded': datetime.datetime(1918, 5, 28),
+        'city': 'Corrientes, Argentina',
+        },
     {
         'name': 'Estudiantes de Mérida',
         'founded': datetime.datetime(1971, 4, 4),

@@ -21,7 +21,7 @@ Competition: Argentine Primera División
 *---------------------------------------------------------------
 *16. Ferro Carril Oeste (BUE) 30    6    3   21    29    73   15  Relegated
 
-Round: Round 1 
+Round: 1 
 Date: 4/21/1946
 
 ; Boca Juniors            ; 2-2; Atlanta
@@ -33,7 +33,7 @@ Date: 4/21/1946
 ; Rosario Central         ; 2-2; Platense
 ; Tigre                   ; 1-3; San Lorenzo de Almagro
 
-Round: Round 2 
+Round: 2 
 Date: 5/5/1946
 
 ; Chacarita Juniors       ; 3-1; Atlanta
@@ -45,7 +45,7 @@ Date: 5/5/1946
 ; San Lorenzo de Almagro  ; 3-3; Independiente (Ave)
 ; Vélez Sarsfield         ; 5-2; Tigre
 
-Round: Round 3 
+Round: 3 
 Date: 5/12/1946
 
 ; Atlanta                 ; 1-0; Racing Club              ; Ferro Carril Oeste (BUE)
@@ -57,7 +57,7 @@ Date: 5/12/1946
 ; Rosario Central         ; 1-4; San Lorenzo de Almagro
 ; Tigre                   ; 1-0; Ferro Carril Oeste (BUE) 
 
-Round: Round 4 
+Round: 4 
 Date: 5/19/1946
 
 ; Estudiantes LPG         ; 4-3; Lanús
@@ -69,7 +69,7 @@ Date: 5/19/1946
 ; Tigre                   ; 0-3; Boca Juniors
 ; Vélez Sarsfield         ; 3-0; Rosario Central
 
-Round: Round 5 
+Round: 5 
 Date: 5/26/1946
 
 ; Atlanta                 ; 5-2; Platense
@@ -81,7 +81,7 @@ Date: 5/26/1946
 ; River Plate             ; 2-1; Vélez Sarsfield
 ; Rosario Central         ; 1-1; Ferro Carril Oeste (BUE)
 
-Round: Round 6 
+Round: 6 
 Date: 6/2/1946
 
 ; Estudiantes LPG         ; 2-2; Atlanta
@@ -93,7 +93,7 @@ Date: 6/2/1946
 ; Tigre                   ; 2-3; Rosario Central
 ; Vélez Sarsfield         ; 1-1; Lanús
 
-Round: Round 7 
+Round: 7 
 Date: 6/9/1946
 
 ; Atlanta                 ; 1-3; San Lorenzo de Almagro   ; Ferro Carril Oeste (BUE)
@@ -105,7 +105,7 @@ Date: 6/9/1946
 ; River Plate             ; 1-1; Tigre
 ; Rosario Central         ; 6-0; Independiente (Ave)
 
-Round: Round 8 
+Round: 8 
 Date: 6/16/1946
 
 ; Estudiantes LPG         ; 1-0; Racing Club
@@ -117,7 +117,7 @@ Date: 6/16/1946
 ; Tigre                   ; 6-3; Lanús
 ; Vélez Sarsfield         ; 3-1; Atlanta
 
-Round: Round 9 
+Round: 9 
 Date: 6/23/1946
 
 ; Atlanta                 ; 3-2; Ferro Carril Oeste (BUE)
@@ -129,7 +129,7 @@ Date: 6/23/1946
 ; Racing Club             ; 2-2; San Lorenzo de Almagro
 ; River Plate             ; 3-1; Rosario Central
 
-Round: Round 10 
+Round: 10 
 Date: 6/30/1946
 
 ; Estudiantes LPG         ; 1-0; Platense
@@ -141,7 +141,7 @@ Date: 6/30/1946
 ; Tigre                   ; 5-2; Atlanta
 ; Vélez Sarsfield         ; 1-2; Racing Club
 
-Round: Round 11 
+Round: 11 
 Date: 7/14/1946
 
 ; Atlanta                 ; 4-2; Independiente (Ave)      ; Ferro Carril Oeste (BUE)
@@ -153,7 +153,7 @@ Date: 7/14/1946
 ; Platense                ; 0-0; San Lorenzo de Almagro
 ; Racing Club             ; 4-2; Ferro Carril Oeste (BUE) ; Independiente (Ave)
 
-Round: Round 12 
+Round: 12 
 Date: 7/21/1946
 
 ; Ferro Carril Oeste (BUE); 1-1; Newell's Old Boys
@@ -165,7 +165,7 @@ Date: 7/21/1946
 ; Tigre                   ; 3-4; Racing Club
 ; Vélez Sarsfield         ; 1-1; Platense
 
-Round: Round 13 
+Round: 13 
 Date: 7/28/1946
 
 ; Atlanta                 ; 1-5; River Plate              ; Ferro Carril Oeste (BUE)
@@ -177,7 +177,7 @@ Date: 7/28/1946
 ; Platense                ; 0-1; Ferro Carril Oeste (BUE)
 ; Racing Club             ; 1-3; Independiente (Ave)
 
-Round: Round 14: 
+Round: 14 
 Date: 8/4/1946
 
 ; Rosario Central         ; 1-3; Racing Club   
@@ -192,7 +192,7 @@ Date: 8/11/1946
 ; Tigre                   ; 2-0; Platense
 ; Vélez Sarsfield         ; 0-5; San Lorenzo de Almagro
 
-Round: Round 15 
+Round: 15 
 Date: 8/18/1946
 
 ; Atlanta                 ; 5-4; Huracán (BUE)            ; Ferro Carril Oeste (BUE)
@@ -204,7 +204,7 @@ Date: 8/18/1946
 ; Racing Club             ; 1-1; River Plate
 ; San Lorenzo de Almagro  ; 4-2; Ferro Carril Oeste (BUE)
 
-Round: Round 16 
+Round: 16 
 Date: 8/25/1946
 
 ; Atlanta                 ; 0-1; Boca Juniors             ; Ferro Carril Oeste (BUE)
@@ -216,7 +216,7 @@ Date: 8/25/1946
 ; San Lorenzo de Almagro  ; 2-0; Tigre
 ; Vélez Sarsfield         ; 0-2; Ferro Carril Oeste (BUE)
 
-Round: Round 17 
+Round: 17 
 Date: 9/1/1946
 
 ; Atlanta                 ; 1-1; Chacarita Juniors
@@ -228,7 +228,7 @@ Date: 9/1/1946
 ; Rosario Central         ; 4-0; Estudiantes LPG
 ; Tigre                   ; 0-2; Vélez Sarsfield
 
-Round: Round 18:
+Round: 18
 Date: 9/8/1946
 
 *Chacarita Juniors        abd Boca Juniors             [abandoned at 1:2 in 76]
@@ -245,7 +245,7 @@ Date: 9/17/1946
 ; Chacarita Juniors       ; 1-2; Boca Juniors             
 *[remaining 14]
 
-Round: Round 19 
+Round: 19 
 Date: 9/15/1946
 
 ; Atlanta                 ; 1-2; Newell's Old Boys
@@ -257,7 +257,7 @@ Date: 9/15/1946
 ; River Plate             ; 1-1; San Lorenzo de Almagro
 ; Rosario Central         ; 2-0; Vélez Sarsfield
 
-Round: Round 20:
+Round: 20
 Date: 9/22/1946
 
 ; Estudiantes LPG         ; 5-1; Huracán (BUE)
@@ -276,7 +276,7 @@ Date: 9/22/1946
 ; Tigre                   ; 2-4; Independiente (Ave)      
 *[remaining 21, at Boca Juniors]
                                                      
-Round: Round 21 
+Round: 21 
 Date: 9/29/1946
 
 ; Atlanta                 ; 1-2; Estudiantes LPG
@@ -288,7 +288,7 @@ Date: 9/29/1946
 ; River Plate             ; 4-1; Ferro Carril Oeste (BUE)
 ; Rosario Central         ; 2-5; Tigre
 
-Round: Round 22 
+Round: 22 
 Date: 10/6/1946
 
 ; Estudiantes LPG         ; 3-2; Chacarita Juniors
@@ -300,7 +300,7 @@ Date: 10/6/1946
 ; Tigre                   ; 1-1; River Plate              ; Chacarita Juniors
 ; Vélez Sarsfield         ; 4-0; Huracán (BUE)
 
-Round: Round 23 
+Round: 23 
 Date: 10/13/1946
 
 ; Atlanta                 ; 2-2; Vélez Sarsfield
@@ -312,7 +312,7 @@ Date: 10/13/1946
 ; Racing Club             ; 0-1; Estudiantes LPG
 ; River Plate             ; 2-0; Independiente (Ave)
 
-Round: Round 24 
+Round: 24 
 Date: 10/20/1946
 
 ; Estudiantes LPG         ; 4-1; Newell's Old Boys
@@ -324,7 +324,7 @@ Date: 10/20/1946
 ; Tigre                   ; 2-2; Huracán (BUE)            ; Chacarita Juniors
 ; Vélez Sarsfield         ; 4-1; Chacarita Juniors
 
-Round: Round 25: 
+Round: 25 
 Date: 10/27/1946
 
 ; Atlanta                 ; 3-2; Tigre
@@ -342,7 +342,7 @@ Date: 11/11/1946
 ; Newell's Old Boys       ; 2-3; San Lorenzo de Almagro   
 *[remaining 1:10, at Ferro Carril Oeste (BUE)]
 
-Round: Round 26 
+Round: 26 
 Date: 11/10/1946
 
 ; Estudiantes LPG         ; 4-1; Boca Juniors
@@ -354,7 +354,7 @@ Date: 11/10/1946
 ; Tigre                   ; 3-1; Chacarita Juniors        ; Platense
 ; Vélez Sarsfield         ; 5-2; Newell's Old Boys
 
-Round: Round 27 
+Round: 27 
 Date: 11/17/1946
 
 ; Atlanta                 ; 3-1; Rosario Central
@@ -366,7 +366,7 @@ Date: 11/17/1946
 ; Platense                ; 3-2; Vélez Sarsfield
 ; Racing Club             ; 5-2; Tigre
 
-Round: Round 28: 
+Round: 28 
 Date: 11/23/1946
 
 ; Rosario Central         ; 3-2; Chacarita Juniors
@@ -381,7 +381,7 @@ Date: 11/24/1946
 ; Tigre                   ; 2-0; Newell's Old Boys
 ; Vélez Sarsfield         ; 1-0; Estudiantes LPG
 
-Round: Round 29: 
+Round: 29 
 Date: 11/30/1946
 
 ; Estudiantes LPG         ; 3-1; Ferro Carril Oeste (BUE)
@@ -396,7 +396,7 @@ Date: 12/1/1946
 ; Racing Club             ; 4-6; Rosario Central
 ; San Lorenzo de Almagro  ; 4-1; Vélez Sarsfield
 
-Round: Round 30 
+Round: 30 
 Date: 12/8/1946
 
 ; Ferro Carril Oeste (BUE); 1-3; San Lorenzo de Almagro; Ferro Carril Oeste (BUE); José Cangaro ; 25000
