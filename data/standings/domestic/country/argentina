@@ -1,5 +1,4 @@
 Competition: Argentine Primera División
-
 BlockSource: http://www.rsssf.com/tablesa/arghist-pro1930s.html
 
 Season: 1931
@@ -295,7 +294,7 @@ Season: 1940
 Season: 1941
 BlockSource: http://www.rsssf.com/tablesa/arghist-pro1940s.html
 
- 1; RIVER PLATE                     ; 30;  19;   6;   5;  75; 35;   44
+ 1; River Plate                     ; 30;  19;   6;   5;  75; 35;   44
  2; San Lorenzo de Almagro          ; 30;  17;   6;   7;  67; 46;   40
  3; Newell's Old Boys               ; 30;  17;   4;   9;  78; 50;   38
  4; Boca Juniors                    ; 30;  16;   4;  10;  61; 52;   36
@@ -318,7 +317,7 @@ BlockSource: http://www.rsssf.com/tablesa/arghist-pro1940s.html
 
 Season: 1942
   
- 1; RIVER PLATE                     ; 30;  20;   6;   4;  79; 37;   46
+ 1; River Plate                     ; 30;  20;   6;   4;  79; 37;   46
  2; San Lorenzo de Almagro          ; 30;  16;   8;   6;  70; 50;   40
  3; Huracán (BA)                    ; 30;  14;   9;   7;  62; 49;   37
  4; Newell's Old Boys               ; 30;  15;   6;   9;  70; 43;   36
@@ -338,8 +337,7 @@ Season: 1942
 
 Season: 1943
 
-
- 1; BOCA JUNIORS                    ; 30;  18;   9;   3;  79; 42;   45
+ 1; Boca Juniors                    ; 30;  18;   9;   3;  79; 42;   45
  2; River Plate                     ; 30;  19;   6;   5;  74; 38;   44
  3; San Lorenzo de Almagro          ; 30;  14;   7;   9;  72; 53;   35
  4; Huracán (BA)                    ; 30;  13;   5;  12;  52; 51;   31
@@ -359,7 +357,7 @@ Season: 1943
 
 Season: 1944
 
- 1; BOCA JUNIORS                    ; 30;  19;   8;   3;  82; 41;   46
+ 1; Boca Juniors                    ; 30;  19;   8;   3;  82; 41;   46
  2; River Plate                     ; 30;  17;  10;   3;  68; 43;   44
  3; Estudiantes LP                  ; 30;  16;   7;   7;  66; 43;   39
  4; San Lorenzo de Almagro          ; 30;  12;  10;   8;  61; 49;   34
@@ -379,7 +377,7 @@ Season: 1944
 
 Season: 1945
 
- 1; RIVER PLATE                     ; 30;  20;   6;   4;  66; 34;   46
+ 1; River Plate                     ; 30;  20;   6;   4;  66; 34;   46
  2; Boca Juniors                    ; 30;  18;   6;   6;  71; 43;   42
  3; Independiente (A)               ; 30;  17;   7;   6;  68; 51;   41
  4; San Lorenzo de Almagro          ; 30;  15;   8;   7;  67; 45;   38
@@ -402,7 +400,7 @@ Season: 1945
 
 Season: 1946
  
- 1; SAN LORENZO DE ALMAGRO          ; 30;  20;   6;   4;  90; 37;   46
+ 1; San Lorenzo de Almagro          ; 30;  20;   6;   4;  90; 37;   46
  2; Boca Juniors                    ; 30;  19;   4;   7;  68; 38;   42
  3; River Plate                     ; 30;  17;   7;   6;  59; 34;   41
  4; Racing Club                     ; 30;  18;   3;   9;  69; 48;   39
@@ -422,7 +420,7 @@ Season: 1946
 
 Season: 1947
  
- 1; RIVER PLATE                     ; 30;  22;   4;   4;  90; 37;   48
+ 1; River Plate                     ; 30;  22;   4;   4;  90; 37;   48
  2; Boca Juniors                    ; 30;  17;   8;   5;  70; 43;   42
  3; Independiente (A)               ; 30;  17;   7;   6;  66; 42;   41
  4; Estudiantes LP                  ; 30;  15;   7;   8;  64; 35;   37
@@ -442,7 +440,7 @@ Season: 1947
 
 Season: 1948
 
- 1; INDEPENDIENTE (A)               ; 30;  17;   7;   6;  65; 42;   41
+ 1; Independiente (A)               ; 30;  17;   7;   6;  65; 42;   41
  2; River Plate                     ; 30;  12;  13;   5;  59; 48;   37
  3; Estudiantes LP                  ; 30;  16;   4;  10;  63; 45;   36
  4; Racing Club                     ; 30;  15;   6;   9;  68; 45;   32
@@ -466,7 +464,7 @@ Season: 1948
 
 Season: 1949
 
- 1; RACING CLUB                     ; 34;  21;   7;   6;  87; 47;   49
+ 1; Racing Club                     ; 34;  21;   7;   6;  87; 47;   49
  2; River Plate                     ; 34;  18;   7;   9;  71; 36;   43
  2; Platense (VL)                   ; 34;  16;  11;   7;  68; 48;   43
  4; San Lorenzo de Almagro          ; 34;  17;   8;   9;  72; 62;   42
@@ -489,7 +487,7 @@ Season: 1949
 
 Season: 1950
    
- 1; RACING CLUB                     ; 34;  23;   1;  10;  86; 48;   47
+ 1; Racing Club                     ; 34;  23;   1;  10;  86; 48;   47
  2; Boca Juniors                    ; 34;  15;   9;  10;  59; 46;   39
  2; Independiente (A)               ; 34;  18;   3;  13;  69; 55;   39
  4; River Plate                     ; 34;  15;   8;  11;  68; 57;   38
@@ -512,8 +510,8 @@ Season: 1950
 Season: 1951
 BlockSource: http://www.rsssf.com/tablesa/arghist-pro1950s.html
     
- 1; BANFIELD                        ; 32;  17;  10;   5;  63; 33;   44
- 1; RACING CLUB                     ; 32;  16;  12;   4;  60; 37;   44
+ 1; Banfield                        ; 32;  17;  10;   5;  63; 33;   44
+ 1; Racing Club                     ; 32;  16;  12;   4;  60; 37;   44
  3; River Plate                     ; 32;  16;  11;   5;  69; 42;   43
  4; Independiente (A)               ; 32;  16;   7;   9;  74; 51;   39
  5; Lanús                           ; 32;  14;   9;   9;  62; 49;   37
@@ -531,11 +529,9 @@ BlockSource: http://www.rsssf.com/tablesa/arghist-pro1950s.html
 17; Gimnasia y Esgrima LP           ; 32;   4;  13;  15;  41; 71;   21
 
 
-
 Season: 1952
 
-
- 1; RIVER PLATE                     ; 30;  17;   6;   7;  65; 48;   40
+ 1; River Plate                     ; 30;  17;   6;   7;  65; 48;   40
  2; Racing Club                     ; 30;  13;  13;   4;  50; 33;   39
  3; Independiente (A)               ; 30;  13;   9;   8;  72; 58;   35
  3; Huracán (BA)                    ; 30;  14;   7;   9;  59; 49;   35
@@ -553,10 +549,9 @@ Season: 1952
 16; Atlanta                         ; 30;   2;   6;  22;  52; 99;   10
 
 
-
 Season: 1953
 
- 1; RIVER PLATE                     ; 30;  18;   7;   5;  60; 36;   43
+ 1; River Plate                     ; 30;  18;   7;   5;  60; 36;   43
  2; Vélez Sarsfield                 ; 30;  13;  13;   4;  53; 35;   39
  2; Racing Club                     ; 30;  16;   7;   7;  53; 40;   39
  4; Independiente (A)               ; 30;  14;   7;   9;  52; 47;   35
@@ -574,11 +569,9 @@ Season: 1953
 15; Estudiantes LP                  ; 30;   9;   4;  17;  35; 56;   22
 
 
-
-
 Season: 1954
 
- 1; BOCA JUNIORS                    ; 30;  21;   3;   6;  60; 26;   45
+ 1; Boca Juniors                    ; 30;  21;   3;   6;  60; 26;   45
  2; Independiente (A)               ; 30;  15;  11;   4;  61; 29;   41
  3; River Plate                     ; 30;  16;   6;   8;  56; 37;   38
  4; Platense (VL)                   ; 30;  10;  13;   7;  54; 50;   33
@@ -596,10 +589,9 @@ Season: 1954
 16; Banfield                        ; 30;   6;   6;  18;  33; 58;   18
 
 
-
 Season: 1955
 
- 1; RIVER PLATE                     ; 30;  18;   9;   3;  53; 35;   45
+ 1; River Plate                     ; 30;  18;   9;   3;  53; 35;   45
  2; Racing Club                     ; 30;  14;  10;   6;  50; 32;   38
  3; Boca Juniors                    ; 30;  14;   9;   7;  51; 36;   37
  4; Independiente (A)               ; 30;  14;   8;   8;  48; 31;   36
@@ -617,10 +609,9 @@ Season: 1955
 16; Platense (VL)                   ; 30;   6;  10;  14;  35; 52;   22
 
 
-
 Season: 1956
 
- 1; RIVER PLATE                     ; 30;  17;   9;   4;  61; 32;   43
+ 1; River Plate                     ; 30;  17;   9;   4;  61; 32;   43
  2; Lanús                           ; 30;  15;  11;   4;  59; 37;   41
  3; Boca Juniors                    ; 30;  16;   8;   6;  56; 39;   40
  4; Racing Club                     ; 30;  14;  11;   5;  53; 32;   39
@@ -642,10 +633,9 @@ Season: 1956
 *  Tigre and Chacarita Juniors and the 5 first teams of the table.
 
 
-
 Season: 1957
 
- 1; RIVER PLATE                     ; 30;  19;   8;   3;  75; 34;   46
+ 1; River Plate                     ; 30;  19;   8;   3;  75; 34;   46
  2; San Lorenzo de Almagro          ; 30;  15;   8;   7;  66; 42;   38
  3; Racing Club                     ; 30;  15;   6;   9;  59; 41;   36
  4; Boca Juniors                    ; 30;  13;   8;   9;  45; 34;   34
@@ -665,8 +655,7 @@ Season: 1957
 
 Season: 1958
 
-
- 1; RACING CLUB                     ; 30;  16;   9;   5;  69; 38;   41
+ 1; Racing Club                     ; 30;  16;   9;   5;  69; 38;   41
  2; Boca Juniors                    ; 30;  14;  10;   6;  70; 48;   38
  2; San Lorenzo de Almagro          ; 30;  16;   6;   8;  66; 47;   38
  4; Atlanta                         ; 30;  14;   8;   8;  47; 33;   36
@@ -689,12 +678,12 @@ Season: 1958
 *. Second place playoffs:
 *  San Lorenzo de Almagro 4-3 Boca Juniors
 *            Boca Juniors 3-1 San Lorenzo de Almagro  
-*  BOCA JUNIORS won by goal average (1.20 vs 0.83).
+*  Boca Juniors won by goal average (1.20 vs 0.83).
 
 
 Season: 1959
 
- 1; SAN LORENZO DE ALMAGRO          ; 30;  21;   3;   6;  75; 42;   45
+ 1; San Lorenzo de Almagro          ; 30;  21;   3;   6;  75; 42;   45
  2; Racing Club                     ; 30;  17;   4;   9;  80; 48;   38
  3; Independiente (A)               ; 30;  11;  11;   8;  44; 37;   33
  3; Ferro Carril Oeste (BA)         ; 30;  10;  13;   7;  47; 41;   33
@@ -717,9 +706,8 @@ Season: 1959
 
 
 Season: 1960
-
   
- 1; INDEPENDIENTE (A)               ; 30;  17;   7;   6;  49; 33;   41
+ 1; Independiente (A)               ; 30;  17;   7;   6;  49; 33;   41
  2; River Plate                     ; 30;  16;   7;   7;  46; 29;   39
  2; Argentinos Juniors              ; 30;  15;   9;   6;  68; 48;   39
  4; Racing Club                     ; 30;  14;   9;   7;  72; 43;   37
@@ -740,7 +728,7 @@ Season: 1960
 BlockSource: http://www.rsssf.com/tablesa/arghist-pro1960s.html
 Season: 1961
 
- 1; RACING CLUB                     ; 30;  19;   9;   2;  68; 39;   47
+ 1; Racing Club                     ; 30;  19;   9;   2;  68; 39;   47
  2; San Lorenzo de Almagro          ; 30;  16;   8;   6;  56; 35;   40
  3; River Plate                     ; 30;  15;   8;   7;  53; 30;   38
  4; Atlanta                         ; 30;  13;  11;   6;  49; 34;   37
@@ -760,8 +748,7 @@ Season: 1961
 
 Season: 1962
 
-  
- 1; BOCA JUNIORS                    ; 28;  18;   7;   3;  45; 18;   43
+ 1; Boca Juniors                    ; 28;  18;   7;   3;  45; 18;   43
  2; River Plate                     ; 28;  18;   5;   5;  61; 28;   41
  3; Gimnasia y Esgrima LP           ; 28;  16;   6;   6;  47; 28;   38
  4; Independiente (A)               ; 28;  12;  11;   5;  41; 27;   35
@@ -780,7 +767,7 @@ Season: 1962
 
 Season: 1963
 
- 1; INDEPENDIENTE (A)               ; 26;  14;   9;   3;  53; 25;   37
+ 1; Independiente (A)               ; 26;  14;   9;   3;  53; 25;   37
  2; River Plate                     ; 26;  13;   9;   4;  48; 23;   35
  3; Racing Club                     ; 26;  11;   8;   7;  43; 32;   30
  3; Boca Juniors                    ; 26;  12;   6;   8;  30; 29;   30
@@ -798,7 +785,7 @@ Season: 1963
 
 Season: 1964
 
- 1; BOCA JUNIORS                    ; 30;  17;  10;   3;  35; 15;   44
+ 1; Boca Juniors                    ; 30;  17;  10;   3;  35; 15;   44
  2; Independiente (A)               ; 30;  15;   8;   7;  44; 26;   38
  3; River Plate                     ; 30;  13;  11;   6;  42; 30;   37
  4; San Lorenzo de Almagro          ; 30;  12;  12;   6;  46; 31;   36
@@ -818,7 +805,7 @@ Season: 1964
 
 Season: 1965
 
- 1; BOCA JUNIORS                    ; 34;  19;  12;   3;  55; 30;   50
+ 1; Boca Juniors                    ; 34;  19;  12;   3;  55; 30;   50
  2; River Plate                     ; 34;  22;   5;   7;  55; 24;   49
  3; Vélez Sarsfield                 ; 34;  14;  12;   8;  48; 32;   40
  4; Ferro Carril Oeste (BA)         ; 34;  11;  15;   8;  41; 33;   37
@@ -840,7 +827,7 @@ Season: 1965
 
 Season: 1966
 
- 1; RACING CLUB                     ; 38;  24;  13;   1;  70; 24;   61
+ 1; Racing Club                     ; 38;  24;  13;   1;  70; 24;   61
  2; River Plate                     ; 38;  22;  12;   4;  66; 26;   56
  3; Boca Juniors                    ; 38;  17;  14;   7;  51; 32;   48
  4; San Lorenzo de Almagro          ; 38;  17;  12;   9;  48; 34;   46
@@ -864,7 +851,7 @@ Season: 1966
 
 Season: 1981
 
- 1; BOCA JUNIORS                    ; 34;  20;  10;   4;  60; 27;   50
+ 1; Boca Juniors                    ; 34;  20;  10;   4;  60; 27;   50
  2; Ferro Carril Oeste (BUE)        ; 34;  18;  13;   3;  50; 20;   49
  3; Newell's Old Boys               ; 34;  14;  11;   9;  58; 44;   39
  4; River Plate                     ; 34;  14;  11;   9;  62; 50;   39
@@ -884,45 +871,42 @@ Season: 1981
 18; Colón                           ; 34;   6;   9;  19;  26; 59;   21
  
 Season: 1982
- 
-Group: Group A
+Group: A
 
- 1; ROSARIO CENTRAL                 ; 14;   7;   4;   3;  32; 20;   18
- 2; GIMNASIA Y ESGRIMA (JUJ)        ; 14;   6;   4;   4;  19; 16;   16
+ 1; Rosario Central                 ; 14;   7;   4;   3;  32; 20;   18
+ 2; Gimnasia y Esgrima (J)        ; 14;   6;   4;   4;  19; 16;   16
  3; Argentinos Juniors              ; 14;   4;   7;   3;  15; 15;   15
  4; Huracán (BUE)                   ; 14;   5;   4;   5;  20; 20;   14
  5; Belgrano                        ; 14;   5;   4;   5;  16; 16;   14
  6; Gimnasia y Esgrima (MDZ)        ; 14;   4;   6;   4;  15; 16;   14
  7; Racing Club                     ; 14;   2;   6;   6;  12; 22;   10
 
-Group: Group B
+Group: B
 
- 1; FERRO CARRIL OESTE (BUE)        ; 14;  10;   2;   2;  24; 11;   22
- 2; RIVER PLATE                     ; 14;   7;   5;   2;  26; 12;   19
+ 1; Ferro Carril Oeste (BUE)        ; 14;  10;   2;   2;  24; 11;   22
+ 2; River Plate                     ; 14;   7;   5;   2;  26; 12;   19
  3; Loma Negra                      ; 14;   7;   5;   2;  15; 10;   19
  4; Talleres (COR)                  ; 14;   2;   6;   6;   9; 16;   10
  5; Guaraní Antonio Franco          ; 14;   3;   4;   7;  16; 24;   10
  6; San Martín (TUC)                ; 14;   3;   3;   8;  17; 24;    9
  7; Sarmiento (JNI)                 ; 14;   3;   3;   8;  10; 20;    9
-
 *Note: Second place was defined by goal difference.
  
-Group: Group C
+Group: C
  
- 1; INDEPENDIENTE                   ; 14;   9;   3;   2;  29; 10;   21
- 2; VÉLEZ SARSFIELD                 ; 14;   8;   1;   5;  26; 14;   17
+ 1; Independiente                   ; 14;   9;   3;   2;  29; 10;   21
+ 2; Velez Sarsfield                 ; 14;   8;   1;   5;  26; 14;   17
  3; Atlético Racing                 ; 14;   8;   3;   3;  27; 16;   15
  4; Newell's Old Boys               ; 14;   4;   4;   6;  23; 24;   12
  5; Platense                        ; 14;   3;   6;   5;   7; 15;   12
  6; Gimnasia y Tiro                 ; 14;   1;   5;   8;   9; 26;    7
  7; Huracán (AFA)                   ; 14;   1;   5;   8;  14; 34;    7
-
 *Note: Atlético Racing (COR), 4 points deducted.
 
-Group: Group D
+Group: D
     
- 1; BOCA JUNIORS                    ; 14;   8;   3;   3;  28; 12;   19
- 2; INSTITUTO                       ; 14;   6;   4;   4;  18; 14;   16
+ 1; Boca Juniors                    ; 14;   8;   3;   3;  28; 12;   19
+ 2; Instituto                       ; 14;   6;   4;   4;  18; 14;   16
  3; Estudiantes de La Plata         ; 14;   5;   6;   3;  16; 13;   16
  4; San Lorenzo de Almagro          ; 14;   4;   6;   4;  14; 15;   14
  5; Atlético Tucumán                ; 14;   6;   2;   6;  14; 17;   14
@@ -931,12 +915,10 @@ Group: Group D
 
 
 Season: 1982
-
-   
-Group: Group A
+Group: A
         
- 1; QUILMES                         ; 16;   8;   4;   4;  32; 27;   20
- 2; INDEPENDIENTE RIVADAVIA         ; 16;   8;   4;   4;  28; 30;   20
+ 1; Quilmes                         ; 16;   8;   4;   4;  32; 27;   20
+ 2; Independiente Rivadavia         ; 16;   8;   4;   4;  28; 30;   20
  3; Newell's Old Boys               ; 16;   5;   8;   3;  29; 17;   18
  4; Instituto                       ; 16;   7;   4;   5;  28; 22;   18
  5; Sarmiento (JNI)                 ; 16;   4;   7;   5;  27; 27;   15
@@ -946,9 +928,9 @@ Group: Group A
 
 *Note: First place was defined by goal difference.
 
-Gruop: Group B
+Gruop: B
             
- 1; FERRO CARRIL OESTE (BUE)        ; 16;  13;   3;   0;  39;  9;   29
+ 1; Ferro Carril Oeste (BUE)        ; 16;  13;   3;   0;  39;  9;   29
  2; UNIÓN (SFN)                     ; 16;   8;   7;   1;  29;  9;   23
  3; Independiente                   ; 16;   9;   5;   2;  27; 19;   23
  4; Argentinos Juniors              ; 16;   5;   7;   4;  20; 22;   17
@@ -959,10 +941,10 @@ Gruop: Group B
  
 *Note: Second place was defined by goal difference.
 
-Group: Group C  
+Group: C
  
- 1; ESTUDIANTES DE LA PLATA         ; 16;   8;   7;   1;  22; 10;   23
- 2; TALLERES (COR)                  ; 16;   8;   6;   2;  36; 22;   22
+ 1; Estudiantes de la Plata         ; 16;   8;   7;   1;  22; 10;   23
+ 2; Talleres (Cor)                  ; 16;   8;   6;   2;  36; 22;   22
  3; Rosario Central                 ; 16;   8;   3;   5;  35; 16;   19
  4; Boca Juniors                    ; 16;   6;   7;   3;  26; 18;   19
  5; Gimnasia y Esgrima (MDZ)        ; 16;   7;   4;   5;  25; 20;   18
@@ -970,10 +952,10 @@ Group: Group C
  7; Central Norte                   ; 16;   5;   2;   9;  17; 28;   12
  8; Mariano Moreno                  ; 16;   0;   2;  14;  11; 53;    2
 
-Group: Group D
+Group: D
 
- 1; ATLÉTICO RACING                 ; 16;   8;   5;   3;  30; 20;   21
- 2; SAN MARTÍN (TUC)                ; 16;   8;   4;   4;  18; 11;   20
+ 1; Atletico Racing                 ; 16;   8;   5;   3;  30; 20;   21
+ 2; San Martin (Tuc)                ; 16;   8;   4;   4;  18; 11;   20
  3; Vélez Sarsfield                 ; 16;   7;   4;   5;  25; 17;   18
  4; Renato Cesarini                 ; 16;   5;   7;   4;  22; 22;   17
  5; Platense                        ; 16;   5;   6;   5;  18; 16;   16
@@ -984,8 +966,7 @@ Group: Group D
 
 Season: 1982
 
-
- 1; ESTUDIANTES DE LA PLATA         ; 36;  21;  12;   3;  50; 18;   54
+ 1; Estudiantes de la Plata         ; 36;  21;  12;   3;  50; 18;   54
  2; Independiente                   ; 36;  19;  14;   3;  64; 30;   52
  3; Boca Juniors                    ; 36;  17;  14;   5;  60; 36;   48
  4; Newell's Old Boys               ; 36;  15;  14;   7;  60; 34;   44
@@ -1008,32 +989,30 @@ Season: 1982
 
 Season: 1983
 
- 1. INDEPENDIENTE                    36  16  16   4  54- 38   48 (Avellaneda)
- 2. San Lorenzo de Almagro           36  20   7   9  69- 43   47 (Buenos Aires)
- 3. Ferro Carril Oeste (BUE)         36  16  14   6  44- 27   46 (Buenos Aires)
- 4. Vélez Sarsfield                  36  18   8  10  61- 45   44 (Buenos Aires)
- 5. Unión (SFN)                      36  14  10  12  47- 43   38 (Santa Fe)
- 6. Estudiantes de La Plata          36  13  12  11  42- 43   38 (La Plata)
- 7. Boca Juniors                     36  14   9  13  57- 61   37 (Buenos Aires)
- 8. Argentinos Juniors               36  13  10  13  44- 45   36 (Buenos Aires)
- 9. Newell's Old Boys                36  11  13  12  56- 49   35 (Rosario)
-10. Instituto                        36  12  11  13  45- 48   35 (Córdoba)
-11. Platense                         36  11  12  13  41- 44   34 (Vicente López)
-12. Temperley                        36  12   9  15  46- 51   33 (Temperley)
-13. Talleres (COR)                   36  11  11  14  41- 58   33 (Córdoba)
-14. Huracán (BUE)                    36  11  10  15  44- 47   32 (Buenos Aires)
-15. Nueva Chicago                    36  10  12  14  38- 48   32 (Buenos Aires)
-16. Rosario Central                  36  11   8  17  50- 60   30 (Rosario)
-17. Racing Club                      36  11   8  17  38- 49   30 (Avellaneda)
-18. River Plate                      36  10   9  17  37- 50   29 (Buenos Aires)
-19. Atlético Racing                  36   7  13  16  46- 51   27 (Córdoba)
-
+ 1. Independiente                    36  16  16   4  54- 38   48
+ 2. San Lorenzo de Almagro           36  20   7   9  69- 43   47
+ 3. Ferro Carril Oeste (BUE)         36  16  14   6  44- 27   46
+ 4. Vélez Sarsfield                  36  18   8  10  61- 45   44
+ 5. Unión (SFN)                      36  14  10  12  47- 43   38
+ 6. Estudiantes de La Plata          36  13  12  11  42- 43   38
+ 7. Boca Juniors                     36  14   9  13  57- 61   37
+ 8. Argentinos Juniors               36  13  10  13  44- 45   36
+ 9. Newell's Old Boys                36  11  13  12  56- 49   35
+10. Instituto                        36  12  11  13  45- 48   35
+11. Platense                         36  11  12  13  41- 44   34
+12. Temperley                        36  12   9  15  46- 51   33
+13. Talleres (COR)                   36  11  11  14  41- 58   33
+14. Huracán (BUE)                    36  11  10  15  44- 47   32
+15. Nueva Chicago                    36  10  12  14  38- 48   32
+16. Rosario Central                  36  11   8  17  50- 60   30
+17. Racing Club                      36  11   8  17  38- 49   30
+18. River Plate                      36  10   9  17  37- 50   29
+19. Atlético Racing                  36   7  13  16  46- 51   27
 
 
 Season: 1984 
 
-
- 1; ARGENTINOS JUNIORS              ; 36;  20;  11;   5;  69; 36;   51
+ 1; Argentinos Juniors              ; 36;  20;  11;   5;  69; 36;   51
  2; Ferro Carril Oeste (BUE)        ; 36;  19;  12;   5;  46; 18;   50
  3; Estudiantes de La Plata         ; 36;  21;   6;   9;  49; 27;   48
  4; River Plate                     ; 36;  15;  13;   8;  51; 38;   43

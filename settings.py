@@ -89,6 +89,7 @@ l =    [
 
 SINGLE_SOURCES = [
     'competitions',
+    'seasons',
     'bios', 
     'teams', 
     'stadiums', 

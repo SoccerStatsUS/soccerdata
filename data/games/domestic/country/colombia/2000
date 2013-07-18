@@ -1,29 +1,25 @@
-http://www.rsssf.com/tablesc/col00.html
+BlockSource: http://www.rsssf.com/tablesc/col00.html
+Competition: Categoría Primera A
+Season: 2000 I
 
-Colombia 2000
+* 1.Deportivo Cali     22 11  7  4  36-22  40  Qualified for Copa Libertadores 2001
+* 2.América            22 11  5  6  42-22  38
+* 3.Deportes Tolima    22 11  3  8  36-29  36
+* 4.CD Millonarios     22  8  9  5  32-27  33
+* 5.Atlético Nacional  22  9  5  8  35-29  32
+* 6.Atlético Júnior    22  9  5  8  33-27  32
+* 7.Corporación Tuluá  22  9  5  8  30-31  32
+* 8.Envigado FC        22  8  8  6  30-25  32
+* 9.Independ Santa Fe  22  8  7  7  32-30  31
+*10.Real Cartagena     22  7  6  9  21-23  27
+*11.Atlético Huila     22  6  9  7  21-27  27
+*12.Once Caldas        22  6  9  7  24-31  27
+*13.CD Indep Medellín  22  6  8  8  28-34  26
+*14.Deportivo Pasto    22  6  4 12  27-44  22
+*15.Atl Bucaramanga    22  5  6 11  16-28  21
+*16.Deportes Quindío   22  5  6 11  24-38  21
 
-Torneo Mustang I
-
-Final Table:
-
- 1.Deportivo Cali     22 11  7  4  36-22  40  Qualified for Copa Libertadores 2001
- 2.América            22 11  5  6  42-22  38
- 3.Deportes Tolima    22 11  3  8  36-29  36
- 4.CD Millonarios     22  8  9  5  32-27  33
- 5.Atlético Nacional  22  9  5  8  35-29  32
- 6.Atlético Júnior    22  9  5  8  33-27  32
- 7.Corporación Tuluá  22  9  5  8  30-31  32
- 8.Envigado FC        22  8  8  6  30-25  32
- 9.Independ Santa Fe  22  8  7  7  32-30  31
-10.Real Cartagena     22  7  6  9  21-23  27
-11.Atlético Huila     22  6  9  7  21-27  27
-12.Once Caldas        22  6  9  7  24-31  27
-13.CD Indep Medellín  22  6  8  8  28-34  26
-14.Deportivo Pasto    22  6  4 12  27-44  22
-15.Atl Bucaramanga    22  5  6 11  16-28  21
-16.Deportes Quindío   22  5  6 11  24-38  21
-
-Round 1
+Round: 1
 [Feb 12] 
 Envigado     0-0  Cali 
 [Feb 13] 
@@ -45,7 +41,7 @@ Santa Fé     2-5  Tolima
   [Cárdenas 62, Preciado 90; Charria 2, Becerra 54, Patiño 58, Martínez 79pen, 
    Caicedo 88]
 
-Round 2 
+Round: 2 
 [Feb 19]
 Nacional     3-1  América
   [Aristizábal 17, Mackenzie 68, España 72; Ferreira 48]
@@ -67,7 +63,7 @@ Millonarios  3-1  Huila
 Tolima       2-2  Medellín
   [Becerra 36, Caicedo 92; Valenciano 47, 79]
 
-Round 3 
+Round: 3 
 [Feb 26]
 América      2-1  Millonarios    
   [Quintana 6, Moreno 20; García 74]
@@ -86,7 +82,7 @@ Medellín     1-0  Quindío
 Tolima       3-1  Cali 
   [Arrieta 29, Martinez 35 pen, Caicedo 72; Candelo 64 pen] 
 
-Round 4 [Mar 5]
+Round: 4 [Mar 5]
 Once Caldas  3-2  Bucaramanga  
   [Galvan 2, Salcedo 11, Valentierra 26; Luna 15, Rivera 88]
 Nacional     2-1  Tuluá
@@ -104,7 +100,7 @@ Cartagena    3-2  Santa Fé
 Quindío      1-1  Envigado
   [Cuesta 67; Aguilar 21]
 
-Round 5 [Mar 12] 
+Round: 5 [Mar 12] 
 Junior       2-0  Huila
   [Ballesteros 2, Cano 17]
 Tolima       1-0  Cartagena
@@ -122,7 +118,7 @@ Tuluá        1-0  Millonarios
 Caldas       2-1  Nacional
   [Valentierra 56, Galván 62; Muñoz 55]
 
-Round 6
+Round: 6
 [Mar 18]
 Envigado     0-1  Santa Fé
   [Serrano 76]
@@ -142,7 +138,7 @@ Medellín     2-1  Pasto
 Cartagena    0-1  Cali
   [Hernández 37]
 
-Round 7 [Mar 26]
+Round: 7 [Mar 26]
 Nacional     3-0  Millonarios
   [Morantes 32, Aristizábal 69, 83]
 Santa Fe     0-1  Medellín
@@ -159,7 +155,7 @@ Júnior       3-0  Bucaramanga
 Tuluá        1-0  América
   [Rodríguez 56]
 
-Round 8 
+Round: 8 
 [Mar 30]
 América      4-0  Tuluá
   [Gonzalez 36, Moreno 50, Salazar 70, 75]
@@ -179,7 +175,7 @@ Nacional     2-2  Santa Fe
 Quindío      1-3  Cali
   [Victoria 44; Segura 25, Hernandez 70, Diaz 74]   
 
-Round 9  [Apr 9]
+Round: 9  [Apr 9]
 Bucaramanga  1-0  Junior
   [Paz 47]
 Santa Fe     1-1  Pasto
@@ -196,7 +192,7 @@ Medellín     0-2  Quindío
 Cartagena    1-1  Millonarios
   [Rojas 35; Castro 60]
 
-Round 10
+Round: 10
 [Apr 12]
 Junior       2-2  Santa Fe
   [Cardozo 5, Restrepo 87; Preciado 2, Diaz 52]
@@ -214,7 +210,7 @@ Pasto        2-1  Tuluá
   [Patiño 69, Bolívar 88; Rodríguez 18]
 Envigado     0-0  Cali
 
-Round 11  [Apr 16]
+Round: 11  [Apr 16]
 Millonarios  2-1  Quindío
   [Castro 11, Rivera 64; Palacio 70 pen]
 Cali         0-1  América
@@ -232,7 +228,7 @@ Cartagena    1-0  Huila
 Tuluá        1-2  Júnior
   [Vásquez 3; Cano 45, Restrepo 74]
 
-Round 12
+Round: 12
 [Apr 22]
 Envigado     1-0  Cartagena
   [Molina 13]
@@ -252,7 +248,7 @@ Quindío      2-1  Bucaramanga
 Nacional     2-2  Cali
   [Moreno 47, Agudelo 78; Rivas 26, Castillo 68]
 
-Round 13  [Apr 30] 
+Round: 13  [Apr 30] 
 Millonarios  2-2  Envigado 
   [Rivera 32, 60 pen; Cortes 1, Vásquez 24] 
 Tolima       1-0  Santa Fe 
@@ -271,7 +267,7 @@ Medellín     3-4  Nacional
   [Gutiérrez 8, Valenciano 68, Murillo 93; Aristizábal 23, A Palacios 29, 
    Muñoz 57, Moreno 75] 
 
-Round 14 
+Round: 14 
 [May 6] 
 Envigado     4-1  Quindío 
   [Cortés 9, 59, Vásquez 43, Leal 72; Cabrera 18] 
@@ -291,7 +287,7 @@ Santa Fe     1-0  Once Caldas
 Tuluá        1-0  Tolima 
   [Hurtado 39] 
   
-Round 15  [May 14] 
+Round: 15  [May 14] 
 Millonarios  4-3  Nacional 
   [Castro 17, 78, Rivera 72 pen, Suárez 81; Moreno 66, Agudelo 83, Cortés 84 (own goal)] 
 Cali         3-4  Santa Fe 
@@ -309,7 +305,7 @@ Huila        3-1  Envigado
 Cartagena    2-1  Pasto 
   [Banguero 25, Asprilla 40; Asprilla 16 (own goal)] 
 
-Round 16
+Round: 16
 [May 20]
 Envigado     3-0  Bucaramanga
   [Molina 48, Cortés 79, Rodríguez 89]
@@ -330,7 +326,7 @@ América      6-0  Huila
 Pasto        2-2  Millonarios 
   [Vidal 27, Moncayo 88; Mosquera 22, Fernández 80] 
 
-Round 17 
+Round: 17 
 [May 28] 
 Cali         5-2  Tolima 
   [Segura 35, Dudamel 40 pen, Salazar 74, Hernández 76, Castillo 93; 
@@ -352,7 +348,7 @@ Envigado     1-3  América
 Medellín     0-1  Tuluá 
   [Vásquez 28]
 
-Round 18 
+Round: 18 
 [Jun 7] 
 América      1-0  Bucaramanga 
   [Salazar 82] 
@@ -370,7 +366,7 @@ Once Caldas  0-0  Cali
 [Jun 8] 
 Santa Fé     0-0  Millonarios 
 
-Round 19 
+Round: 19 
 [Jun 10] 
 Envigado     3-1  Pasto 
   [Vallejo 6, Vásquez 46, 73; Patiño 68] 
@@ -390,7 +386,7 @@ Cartagena    2-0  Tolima
 Medellín     1-1  Once Caldas 
   [Murillo 29; Galván 11] 
 
-Round 20 [Jun 18]
+Round: 20 [Jun 18]
 Tolima       1-1  Millonarios
   [Da Silva 67; Toro 58]
 Santa Fe     0-0  Huila
@@ -407,7 +403,7 @@ Tuluá        1-0  Quindío
 Júnior       2-0  Envigado
   [Ballesteros 16, Marquinho 32]
 
-Round 21 
+Round: 21 
 [Jun 25] 
 Millonarios  1-1  Caldas 
   [Fernández 33; Asprilla 25] 
@@ -427,7 +423,7 @@ Bucaramanga  2-2  Medellín
 Quindío      1-3  Tolima 
   [Flavien 25; Dinas 34, 88, Orrego 59] 
 
-Round 22 
+Round: 22 
 [Jul 1] 
 Tuluá        1-1  Envigado 
   [Rodríguez 52; Vásquez 51] 
@@ -515,7 +511,7 @@ Final Table:
 15.Deportivo Cali     22  5  6 11  31-42  21
 16.Corporación Tuluá  22  3 10  9  25-39  19
 
-Round 1 [Jul 9] 
+Round: 1 [Jul 9] 
 Millonarios  1-1  Bucaramanga 
   [Jaramillo 32; Guirán 78] 
 Cartagena    2-1  Medellín 
@@ -533,7 +529,7 @@ Cali         1-1  Envigado
 Nacional     4-1  Huila 
   [Muñoz 20, Ocampo 32, Martínez 62, Aristizábal 80; Rojas 22] 
 
-Round 2 
+Round: 2 
 [Jul 20] 
 Santa Fe     2-1  Cali 
   [Villegas 47, Moreno 63; Córdoba 77] 
@@ -553,7 +549,7 @@ Bucaramanga  1-1  Tuluá
 Quindío      1-0  Cartagena 
   [Torres 10] 
 
-Round 3  [Jul 30] 
+Round: 3  [Jul 30] 
 Millonarios  1-1  América 
   [Chitiva 10; J González 16] 
 Pasto        1-0  Santa Fe 
@@ -570,7 +566,7 @@ Quindío      3-1  Medellín
 Huila        3-1  Bucaramanga 
   [Gallo 64, Alvarez 78, Mosquera 94; Rivas 91] 
 
-Round 4 
+Round: 4 
 [Jul 27] 
 Tuluá        3-2  Nacional 
   [Vásquez 3, Muñoz 37, Molina 82; Salcedo 21, Moreno 63] 
@@ -588,7 +584,7 @@ América      2-0  Huila
 Envigado     1-1  Quindío 
   [Trujillo 51; Ciciliano 9] 
 
-Round 5  [Aug 6] 
+Round: 5  [Aug 6] 
 Millonarios  2-0  Tuluá 
   [Jaramillo 7, Pérez 30pen] 
 Quindío      1-2  Santa Fe 
@@ -604,7 +600,7 @@ Envigado     1-3  Medellín
 Nacional     1-1  Caldas 
   [Muñoz 68; Moreno 20] 
 
-Round 6  [Aug 13] 
+Round: 6  [Aug 13] 
 Santa Fe     0-1  Envigado 
   [Molina 35] 
 Cali         1-1  Cartagena 
@@ -622,7 +618,7 @@ Tolima       2-1  Quindío
 Pasto        1-1  Medellín 
   [Salazar 42; Murillo 86] 
 
-Round 7 
+Round: 7 
 [Aug 19] 
 América      3-1  Tuluá 
   [Asprilla 68, Pérez 59, Enciso 91; Muñoz 50pen] 
@@ -642,7 +638,7 @@ Quindío      3-2  Cali
 Huila        0-2  Caldas 
   [Vilarete 22, Soto 93] 
 
-Round 8 [Aug 24]
+Round: 8 [Aug 24]
 Santa Fe     1-0  Nacional
   [Mafla 24]
 Medellín     1-1  Millonarios
@@ -660,7 +656,7 @@ Bucaramanga  1-2  Cartagena
 Caldas       2-1  Huila
   [Galván 59, Moreno 88; Suárez 13]
 
-Round 9  [Aug 27]
+Round: 9  [Aug 27]
 Millonarios  0-0  Cartagena
 Nacional     3-1  Tuluá
   [Muñoz 4, Grisales 12, Agudelo 74; Caicedo 61]
@@ -675,7 +671,7 @@ Huila        2-0  Cali
 Quindío      2-0  Medellín
   [Flavién 29, Ciciliano 50]
 
-Round 10 
+Round: 10 
 [Sep 3] 
 Cartagena    1-0  Quindío 
   [Bermejo 29] 
@@ -693,7 +689,7 @@ Cali         2-3  Envigado
   [Mina 74, Rodríguez 77; Vásquez 57, 86, Molina 90] 
 Santa Fe     0-0  Júnior 
 
-Round 11 
+Round: 11 
 [Sep 10] 
 Quindío      0-3  Millonarios 
   [Cruz 65, Chitiva 81, Millán 89] 
@@ -713,7 +709,7 @@ Júnior       2-2  Tuluá
 Pasto        1-1  Tolima 
   [Becerra 5; Jairo Patiño 66]
 
-Round 12 
+Round: 12 
 [Sep 14] 
 Bucaramanga  1-1  Quindío 
   [Nuñez 28; Mesa 58] 
@@ -734,7 +730,7 @@ Cali         4-2  Nacional
 Medellín     1-1  América 
   [Vásquez 39; Hurtado 12]
 
-Round 13
+Round: 13
 [Sep 16]
 América      2-1  Cartagena
   [González 24, Salazar 86; Quiñonez 26]
@@ -754,7 +750,7 @@ Huila        1-0  Quindío
 Nacional     1-2  Medellín
   [Agudelo 30; Vidal 40, 87pen]
 
-Round 14
+Round: 14
 [Sep 24]
 Millonarios  3-2  América
   [Castro 12, Millán 74, Pérez 82; Asprilla 5, Ferreira 27]
@@ -774,7 +770,7 @@ Tolima       1-0  Tuluá
 Bucaramanga  3-2  Huila
   [Núñez 18, 79, Valenciano 48; Gallo 24, Rojas 32]
 
-Round 15
+Round: 15
 [Sep 30]
 Envigado     2-0  Huila
   [Vásquez 1, Vallejo 34]
@@ -794,7 +790,7 @@ América      3-1  Quindío
 Pasto        2-0  Cartagena
   [Díaz 10, Oliveros 48og]
 
-Round 16
+Round: 16
 [Oct 7]
 Cartagena    0-2  Júnior
   [Alcázar 55, Palacios 65]
@@ -814,7 +810,7 @@ Once Caldas  1-0  Tolima
 Cali         2-2  Tuluá
   [Rivera 24, Segura 58; Victoria 74pen, Hurtado 81]
 
-Round 17
+Round: 17
 [Oct 15]
 Júnior       1-1  Millonarios
   [España 86; Castro 8]
@@ -832,7 +828,7 @@ Nacional     3-2  Huila
 América      3-2  Envigado
   [Asprilla 47, Salazar 61, Roa 75og; Molina 41, Vásquez 90]
 
-Round 18  [Oct 22]
+Round: 18  [Oct 22]
 Millonarios  1-1  Santa Fe
   [Jaramillo 49; Upegui 55]
 Cali         1-4  Once Caldas
@@ -850,7 +846,7 @@ Quindío      1-1  Júnior
 Huila        3-1  Pasto
   [Alvarez 33, Gallo 74pen, 85; Gómez 82pen]
 
-Round 19  [Oct 31]
+Round: 19  [Oct 31]
 Pasto        2-1  Envigado
   [Hurtado 28, Salazar 56; Vásquez 67]
 Santa Fe     3-0  Quindío
@@ -866,7 +862,7 @@ Nacional     0-2  América
   [Hurtado 18, González 86]
 Tuluá        0-0  Millonarios
 
-Round 20  [Nov 5]
+Round: 20  [Nov 5]
 Millonarios  3-0  Tolima
   [Castro 43, 79, Chitiva 85]
 Quindío      1-1  Tuluá
@@ -884,7 +880,7 @@ Bucaramanga  2-1  Nacional
 Huila        3-1  Santa Fe
   [Reyes 26, Alvarez 48, Caicedo 81; Moreno 91]
 
-Round 21
+Round: 21
 [Nov 17]
 Pasto        4-2  Nacional
   [Hurtado 3, G.Díaz 25, Salazar 56, Mendoza 83; Agudelo 13, Rentería 73]
@@ -903,7 +899,7 @@ Medellín     1-2  Bucaramanga
 Cali         2-1  Cartagena
   [Córdoba 36, Rodríguez 42; Arias 89]
 
-Round 22
+Round: 22
 [Nov 25]
 Envigado     1-1  Tuluá
   [Vásquez 9; Terranova 13]
@@ -1016,35 +1012,35 @@ Final Table:
  3.Deportes Tolima     6  2  1  3   5- 6   7
  4.Independ Santa Fe   6  2  1  3   9-12   7
 
-Round 1  [Nov 29]
+Round: 1  [Nov 29]
 Santa Fe     2-1  Tolima
   [López 55, Ambuila 66; Becerra 35]
 América      2-0  Júnior
   [Salazar 88, 96]
 
-Round 2  [Dec 3]
+Round: 2  [Dec 3]
 Júnior       4-3  Santa Fe
   [Ballesteros 11, 42, Restrepo 23, López 73og; Matallana 34, Ambuila 68, 82]
 Tolima       1-0  América
   [Becerra 76]
 
-Round 3  [Dec 6]
+Round: 3  [Dec 6]
 Santa Fe     1-0  América
   [Edison Mafla 45]
 Júnior       1-0  Tolima
   [Ramirez 16]
 
-Round 4  [Dec 10]
+Round: 4  [Dec 10]
 América      3-1  Santa Fe
   [Hurtado 13, González 42, Salazar 46; Cuenú 24]
 Tolima       0-0  Júnior
 
-Round 5  [Dec 13]
+Round: 5  [Dec 13]
 Júnior       0-0  América
 Tolima       3-1  Santa Fe
   [Dinas 14, López 25og, Arrieta 59; Moreno 64]
 
-Round 6  [Dec 17]
+Round: 6  [Dec 17]
 América      2-0  Tolima
   [Asprilla 13, Salazar 46]
 Santa Fe     1-1  Júnior
@@ -1145,7 +1141,7 @@ Table:
  
 First Stage (Cuadrangulares)
 
-Round 1
+Round: 1
 [Apr 2]
 Magdalena     1-1  Soledad
   [Mendoza; Valenciano]
@@ -1165,7 +1161,7 @@ Itagüí        1-2  Soacha
   [Alvarez; Viancha, Barón] 
 NB: awards due to clubs failing to follow rules on fielding youth players
 
-Round 2
+Round: 2
 [Apr 9]
 Pereira       2-0  Palmira
   [Cardona (2)]
@@ -1186,7 +1182,7 @@ Cúcuta        2-1  Magdalena
 Soacha        0-0  Bello 
 NB: award due to club failing to follow rules on fielding youth players
 
-Round 3
+Round: 3
 [Apr 16]
 Pereira       1-0  Coop Tolima
   [Palacios]
@@ -1206,7 +1202,7 @@ Sarmiento     1-0  Palmira
 Soledad       4-2  Cúcuta 
   [Rentería, Castro, Arzuaga, De Alba; Gamero, Camargo]
 
-Round 4
+Round: 4
 [Apr 23]
 Alianza       0-0  Magdalena
 Rionegro      2-1  Soacha
@@ -1225,7 +1221,7 @@ Palmira       2-1  Sarmiento
 Cúcuta        0-4 Soledad
   [Rentería (3), Valenciano] 
 
-Round 5 [Apr 30] 
+Round: 5 [Apr 30] 
 Alianza       3-1  Soledad 
   [Sinisterra, Moreno, Luna; Castro] 
 Magdalena     3-0  Cúcuta 
@@ -1243,7 +1239,7 @@ Palmira       1-1  Pereira
 Sarmiento     0-1  Coop Tolima 
   [Carabalí] 
 
-Round 6  
+Round: 6  
 [May 7] 
 Soledad       0-1  Magdalena 
   [Iturburo] 
@@ -1264,7 +1260,7 @@ Cúcuta        2-1  Alianza
 
 Second Stage [Octogonales]
 
-Round 7  
+Round: 7  
 [May 14] 
 Soledad       1-1  Itagüí 
   [Herrán; Gil] 
@@ -1284,7 +1280,7 @@ Palmira       1-0  Unión Meta
 Magdalena     1-0  Unión Soacha
   [Iturburo]
 
-Round 8 
+Round: 8 
 [May 21]
 Cúcuta        0-0  Magdalena
 Itagüí        0-0  Bello
@@ -1300,7 +1296,7 @@ Sarmiento     0-2  Palmira
 Rionegro      1-1  Alianza     
   [Otalvaro; Chavez] 
 
-Round 9 
+Round: 9 
 [May 27] 
 El Cóndor     3-2  Lanceros 
   [Andrade (2), Solano; Ferro, Bernal] 
@@ -1322,7 +1318,7 @@ Palmira       1-0  Coop Tolima
 Bello         2-1  Rionegro 
   [López (2); Moreno] 
 
-Round 10 
+Round: 10 
 [Jun 10] 
 Palmira       4-0  Lanceros 
   [Domínguez, Candelo, Guaza, Medina]
@@ -1342,7 +1338,7 @@ Unión Soacha  0-1  Alianza
 Bello         1-1  Cúcuta 
   [Suárez; Rodríguez]
 
-Round 11 [Jun 18]
+Round: 11 [Jun 18]
 Soledad       1-0  Bello
   [Hernández]
 Itagüí        1-1  Magdalena
@@ -1360,7 +1356,7 @@ Pereira       1-0  Coop Tolima
 Lanceros      2-1  Unión Meta
   [Rodríguez, Yustra; Tres Palacios]
 
-Round 12 [Jun 25] 
+Round: 12 [Jun 25] 
 Unión Soacha  1-2  Cúcuta 
   [Arroyo; Camargo, Becerra] 
 Itagüí        awd  Alianza              [awarded 2-0 to Itagüí; originally 1-1]
@@ -1378,7 +1374,7 @@ El Cóndor     2-0  Coop Tolima
 Girardot      1-0  Palmira 
   [Wittinghan] 
 
-Round 13 [Jul 2] 
+Round: 13 [Jul 2] 
 Bello FC      3-5  Unión Soacha 
   [López, Jaramillo, Saraz; Quijano (2), Viancha, Alvarez, Herrera] 
 Cúcuta        2-0  Itagüí 
@@ -1396,7 +1392,7 @@ Unión Meta    2-1  El Cóndor
 Coop Tolima   1-2  Girardot 
   [Llano; Wittingham, Castro] 
 
-Round 14 
+Round: 14 
 [Jul 9] 
 Itagüí        2-0  Soledad 
   [D Alvarez, Córdoba] 
@@ -1416,7 +1412,7 @@ Unión Meta    2-0  Palmira
 Lanceros      1-1  Coop Tolima 
   [Espíndola; Rosas] 
 
-Round 15 [Jul 16] 
+Round: 15 [Jul 16] 
 Bello FC      1-1  Itagüí 
   [López; Alvarez] 
 Soledad       3-1  Unión Soacha 
@@ -1434,7 +1430,7 @@ Girardot      4-1  Lanceros
 Coop Tolima   0-1  Unión Meta 
   [Zamora] 
 
-Round 16  [Jul 23] 
+Round: 16  [Jul 23] 
 Unión Soacha  1-2  Itagüí FC 
   [Andrés Alvarez; Diego Alvarez (2)] 
 Cúcuta        2-0  CD Soledad 
@@ -1452,7 +1448,7 @@ Unión Meta    1-2  Girardot FC
 Coop Tolima   2-2  Palmira FC 
   [Rosas, Rosero; Vacca, Gil] 
 
-Round 17  [Jul 30] 
+Round: 17  [Jul 30] 
 CD Soledad    0-3  Magdalena 
   [Iturburo (2), Buelvas] 
 Itagüí FC     2-3  Rionegro 
@@ -1470,7 +1466,7 @@ Pereira       5-0  Unión Meta
 Lanceros      2-2  Palmira FC 
   [Ramírez, Rodríguez; Valdés, Mangut] 
 
-Round 18 
+Round: 18 
 [Aug 6] 
 Palmira FC    4-1  El Cóndor 
   [Gil (2), Valdés, Cabezas; García] 
@@ -1492,7 +1488,7 @@ Bello FC      5-2  CD Soledad
   [López (2), Saraz (3); Velandia (2)] 
 NB: award due to club failing to follow rules on fielding youth players
 
-Round 19  [Aug 13] 
+Round: 19  [Aug 13] 
 Cúcuta        2-1  Unión Soacha 
   [Becerra, Contreras; González] 
 Alianza       1-2  Itagüí FC 
@@ -1510,7 +1506,7 @@ Coop Tolima   1-2  El Cóndor
 Palmira FC    5-3  Girardot FC 
   [Molina (2), Gil (2), Valderrama; Castro (2), Barbosa] 
 
-Round 20  [Aug 20]  
+Round: 20  [Aug 20]  
 Unión Soacha  1-0  Bello FC 
   [Gaviria (og)] 
 Itagüí        3-2  Cúcuta 
@@ -1565,7 +1561,7 @@ Group B [Even]
  3.Alianza Petrolera    6  1  3  2   4- 6   6
  4.Unión Meta           6  1  1  4   5-10   4
 
-Round 1 
+Round: 1 
 [Aug 26] 
 Palmira FC    0-0  Alianza 
 [Aug 27] 
@@ -1576,7 +1572,7 @@ Rionegro      2-2  Pereira
 Magdalena     1-0  Unión Meta 
   [Labastidas] 
 
-Round 2 [Sep 10] 
+Round: 2 [Sep 10] 
 Pereira       1-1  Cúcuta 
   [Castillo; Pabón] 
 Alianza       0-0  Magdalena 
@@ -1585,7 +1581,7 @@ Girardot FC   2-3  Rionegro
 Unión Meta    0-1  Palmira FC 
   [Molina]
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Girardot FC   1-2  Pereira
   [Ospina; Castillo, Franco]
 Cúcuta        0-1  Rionegro
@@ -1595,7 +1591,7 @@ Alianza       2-1  Unión Meta
 Palmira FC    1-0  Magdalena
   [Valdés]
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Pereira       1-0  Girardot FC
   [Cardona]
 Magdalena     1-0  Palmira FC
@@ -1605,7 +1601,7 @@ Rionegro      0-1  Cúcuta
 Unión Meta    2-1  Alianza
   [Muñoz, Ferreira; Luna]
 
-Round 5 [Oct 1]
+Round: 5 [Oct 1]
 Rionegro      3-2  Girardot FC
   [Sandoval (2), Rua; Wittinghan (2)]
 Cúcuta        0-0  Pereira
@@ -1614,7 +1610,7 @@ Magdalena     2-0  Alianza
 Palmira FC    1-1  Unión Meta
   [Valdes; Muñoz]
 
-Round 6
+Round: 6
 [Oct 6]
 Girardot FC   0-1  Cúcuta
   [Pabón]
@@ -1649,37 +1645,37 @@ Final Table:
  3.Palmira FC           6  2  1  3   6- 8   7
  4.Deportivo Rionegro   6  1  0  4   5-12   3
 
-Round 1  [Oct 22]
+Round: 1  [Oct 22]
 Pereira       1-0  Magdalena
   [Castillo]
 Palmira       1-0  Rionegro
   [Vaca]
 
-Round 2  [Oct 27]
+Round: 2  [Oct 27]
 Magdalena     1-0  Palmira FC
   [Zuleta 41]
 Rionegro      0-3  Pereira
   [Berrío 43, Sánchez 55, 77]
 
-Round 3  [Nov 5]
+Round: 3  [Nov 5]
 Magdalena     2-0  Rionegro
   [Iturburo 46, 79]
 Pereira       2-0  Palmira FC
   [Castillo 41, 81]
 
-Round 4  [Nov 12]
+Round: 4  [Nov 12]
 Rionegro      3-2  Magdalena
   [Rúa 11, Vallejo 15, Jaramillo 90; Mendoza 28, Zuleta 30]
 Palmira FC    1-2  Pereira
   [Casañas 49; Sánchez 31pen, Berrío 86]
 
-Round 5  [Nov 19]
+Round: 5  [Nov 19]
 Palmira FC    2-2  Magdalena
   [Pino 31, Balanta 61; Iturburo 52, 70]
 Pereira       2-1  Rionegro
   [Cardona 7, 21; Vallejo 37]
 
-Round 6  [Nov 26]
+Round: 6  [Nov 26]
 Magdalena     2-0  Pereira
   [Muñoz 29, Buelvas 71]
 Rionegro      1-2  Palmira FC
@@ -1723,23 +1719,23 @@ Group A
 4.CD Supía        1  0  0  1  0- 1  0
 5.Corpach         0  0  0  0  0- 0  0
 
-Round 1  [Nov 5]
+Round: 1  [Nov 5]
 Corsupia      0-1  Millonarios
 Cerrito       0-2  América
 
-Round 2  [Nov 6]
+Round: 2  [Nov 6]
 América        -   Corsupia
 Cerrito        -   Corpach
 
-Round 3  [Nov 8]
+Round: 3  [Nov 8]
 Corpach        -   Millonarios
 Cerrito        -   Corsupia
 
-Round 4  [Nov 9]
+Round: 4  [Nov 9]
 Corsupía       -   Corpach
 Millonarios    -   América
 
-Round 5  [Nov 11]
+Round: 5  [Nov 11]
 América        -   Corpach
 Cerrito        -   Millonarios
 
@@ -1751,37 +1747,8 @@ Top 2 teams of each group qualify to the final stage.
 Chicó FC (Bogotá) were champions of 3rd level 2000.
 
 
-
-1999.
-
-
-2001.
-
-
-list of champions.
-
-
-list of 2nd division champions.
-
-
-list of 3rd division champions.
-
-
-all-time table.
-
-
-foundation dates clubs.
-
-
-list of topscorers.
-
-
-About this document
-
-Prepared and maintained by Frank Ballesteros for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Frank Ballesteros (f-balles@uniandes.edu.co) 
-Last updated: 25 Feb 2001
-
-(C) Copyright Frank Ballesteros and RSSSF 1999/2001
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Frank Ballesteros for the Rec.Sport.Soccer Statistics Foundation
+*Author: Frank Ballesteros (f-balles@uniandes.edu.co) 
+*Last updated: 25 Feb 2001
+*(C) Copyright Frank Ballesteros and RSSSF 1999/2001
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
