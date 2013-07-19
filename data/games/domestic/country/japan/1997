@@ -1,5 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesj/jap97.html
-Competition: J. League
+Competition: J. League Division 1
 Season: 1997
 
 *First Stage
@@ -25,220 +25,226 @@ Season: 1997
 
 Round: 1
 
-Kashima Antlers      ; 5-2;  Vissel Kobe          
-Kashiwa Reysol       ; 0-1  Shimizu S Pulse      
-Yokohama Flugels     ; 3-1;  Avispa Fukuoka       
-Nagoya Grampus Eight ; 2-3;  Cerezo Osaka         
-Gamba Osaka          ; 4-1;  Bellmare Hiratsuka   
-Jubilo Iwata         ; 2-1;  Sanfrecce Hiroshima  
-Urawa Red Diamonds   ; 2-3  Yokohama Marinos   
-Verdy Kawasaki       ; 0-2;  JEF United Ichihara  
+; Kashima Antlers      ; 5-2;  Vissel Kobe          
+; Kashiwa Reysol       ; 0-1;  Shimizu S Pulse      
+; Yokohama Flugels     ; 3-1;  Avispa Fukuoka       
+; Nagoya Grampus Eight ; 2-3;  Cerezo Osaka         
+; Gamba Osaka          ; 4-1;  Bellmare Hiratsuka   
+; Jubilo Iwata         ; 2-1;  Sanfrecce Hiroshima  
+; Urawa Red Diamonds   ; 2-3;  Yokohama Marinos   
+; Verdy Kawasaki       ; 0-2;  JEF United Ichihara  
 *Kyoto Purple Sanga idle
 
 Round: 2
 
-Yokohama Marinos     ; 0-4;  Gamba Osaka          
-JEF United Ichihara  ; 2-4;  Kyoto Purple Sanga   
-Shimizu S Pulse      ; 0-1;  Urawa Red Diamonds   
-Bellmare Hiratsuka   ; 0-2;  Verdy Kawasaki       
-Cerezo Osaka         ; 0-2;  Yokohama Flugels     
-Sanfrecce Hiroshima  ; 2-3;  Kashiwa Reysol       
-Avispa Fukuoka       ; 0-1 [OT];  Jubilo Iwata         
-Vissel Kobe          ; 2-1 [OT];  Nagoya Grampus Eight 
+; Yokohama Marinos     ; 0-4;  Gamba Osaka          
+; JEF United Ichihara  ; 2-4;  Kyoto Purple Sanga   
+; Shimizu S Pulse      ; 0-1;  Urawa Red Diamonds   
+; Bellmare Hiratsuka   ; 0-2;  Verdy Kawasaki       
+; Cerezo Osaka         ; 0-2;  Yokohama Flugels     
+; Sanfrecce Hiroshima  ; 2-3;  Kashiwa Reysol       
+; Avispa Fukuoka       ; 0-1 (aet);  Jubilo Iwata         
+; Vissel Kobe          ; 2-1 (aet);  Nagoya Grampus Eight 
 *Kashima Antlers idle
 
 Round: 3
 
-Nagoya Grampus Eight ; 0-2;  Kashima Antlers      
-Yokohama Flugels     ; 3-1;  Vissel Kobe          
-Jubilo Iwata         ; 1-2;  Cerezo Osaka         
-Kashiwa Reysol       ; 2-1;  Avispa Fukuoka       
-Urawa Red Diamonds   ; 0-1;  Sanfrecce Hiroshima  
-Verdy Kawasaki       ; 2-2 [OT, 3-5 pen];  Yokohama Marinos     
-Gamba Osaka          ; 4-1;  Shimizu S Pulse      
-Kyoto Purple Sanga   ; 0-2;  Bellmare Hiratsuka   
+; Nagoya Grampus Eight ; 0-2;  Kashima Antlers      
+; Yokohama Flugels     ; 3-1;  Vissel Kobe          
+; Jubilo Iwata         ; 1-2;  Cerezo Osaka         
+; Kashiwa Reysol       ; 2-1;  Avispa Fukuoka       
+; Urawa Red Diamonds   ; 0-1;  Sanfrecce Hiroshima  
+; Verdy Kawasaki       ; 2-2 (aet);  Yokohama Marinos     
+Penalty kicks: 3-5
+; Gamba Osaka          ; 4-1;  Shimizu S Pulse      
+; Kyoto Purple Sanga   ; 0-2;  Bellmare Hiratsuka   
 *JEF United Ichihara idle
 
 Round: 4 
 Date: 4/23/1997
 
-Avispa Fukuoka       ; 0-3;  Urawa Red Diamonds   
-Kashima Antlers      ; 1-0;  Yokohama Flugels     
-Shimizu S Pulse      ; 2-1 [OT];  Verdy Kawasaki       
-Sanfrecce Hiroshima  ; 2-0;  Gamba Osaka          
-Yokohama Marinos     ; 3-1;  Kyoto Purple Sanga   
-Cerezo Osaka         ; 2-2 [OT, 5-4 pen];  Kashiwa Reysol       
-Vissel Kobe          ; 1-2;  Jubilo Iwata         
-Bellmare Hiratsuka   ; 1-0;  JEF United Ichihara  
+; Avispa Fukuoka       ; 0-3;  Urawa Red Diamonds   
+; Kashima Antlers      ; 1-0;  Yokohama Flugels     
+; Shimizu S Pulse      ; 2-1 (aet);  Verdy Kawasaki       
+; Sanfrecce Hiroshima  ; 2-0;  Gamba Osaka          
+; Yokohama Marinos     ; 3-1;  Kyoto Purple Sanga   
+; Cerezo Osaka         ; 2-2 (aet);  Kashiwa Reysol       
+Penalty kicks: 5-4
+; Vissel Kobe          ; 1-2;  Jubilo Iwata         
+; Bellmare Hiratsuka   ; 1-0;  JEF United Ichihara  
 *Nagoya Grampus Eight idle
 
 Round: 5 
 Date: 4/26/1997
 
-Jubilo Iwata         ; 1-2;  Kashima Antlers      
-Kashiwa Reysol       ; 3-1 ;  Vissel Kobe          
-JEF United Ichihara  ; 1-2;  Yokohama Marinos     
-Urawa Red Diamonds   ; 1-2;  Cerezo Osaka         
-Verdy Kawasaki       ; 1-2;  Sanfrecce Hiroshima  
-Gamba Osaka          ; 0-1;  Avispa Fukuoka       
-Kyoto Purple Sanga   ; 1-3;  Shimizu S Pulse      
-Yokohama Flugels     ; 2-0;  Nagoya Grampus Eight 
+; Jubilo Iwata         ; 1-2;  Kashima Antlers      
+; Kashiwa Reysol       ; 3-1 ;  Vissel Kobe          
+; JEF United Ichihara  ; 1-2;  Yokohama Marinos     
+; Urawa Red Diamonds   ; 1-2;  Cerezo Osaka         
+; Verdy Kawasaki       ; 1-2;  Sanfrecce Hiroshima  
+; Gamba Osaka          ; 0-1;  Avispa Fukuoka       
+; Kyoto Purple Sanga   ; 1-3;  Shimizu S Pulse      
+; Yokohama Flugels     ; 2-0;  Nagoya Grampus Eight 
 *Bellmare Hiratsuka idle
 
 Round: 6 
 Date: 5/4/1997
 
-Kashima Antlers      ; 0-4;  Kashiwa Reysol       
-Cerezo Osaka         ; 0-2;  Gamba Osaka          
-Nagoya Grampus Eight ; 0-2;  Jubilo Iwata         
-Vissel Kobe          ; 0-2;  Urawa Red Diamonds   
-Shimizu S Pulse      ; 2-1;  JEF United Ichihara  
-Sanfrecce Hiroshima  ; 1-0;  Kyoto Purple Sanga   
-Avispa Fukuoka       ; 1-2 [OT];  Verdy Kawasaki       
-Yokohama Marinos     ; 2-4;  Bellmare Hiratsuka   
+; Kashima Antlers      ; 0-4;  Kashiwa Reysol       
+; Cerezo Osaka         ; 0-2;  Gamba Osaka          
+; Nagoya Grampus Eight ; 0-2;  Jubilo Iwata         
+; Vissel Kobe          ; 0-2;  Urawa Red Diamonds   
+; Shimizu S Pulse      ; 2-1;  JEF United Ichihara  
+; Sanfrecce Hiroshima  ; 1-0;  Kyoto Purple Sanga   
+; Avispa Fukuoka       ; 1-2 (aet);  Verdy Kawasaki       
+; Yokohama Marinos     ; 2-4;  Bellmare Hiratsuka   
 *Yokohama Flugels idle
 
 Round: 7 
 Date: 5/7/1997
 
-JEF United Ichihara  ; 3-2 [OT];  Sanfrecce Hiroshima  
-Kashiwa Reysol       ; 1-0;  Nagoya Grampus Eight 
-Urawa Red Diamonds   ; 1-3;  Kashima Antlers      
-Verdy Kawasaki       ; 0-2;  Cerezo Osaka         
-Bellmare Hiratsuka   ; 1-2;  Shimizu S Pulse      
-Jubilo Iwata         ; 3-1;  Yokohama Flugels     
-Kyoto Purple Sanga   ; 1-0;  Avispa Fukuoka       
-Gamba Osaka          ; 2-3;  Vissel Kobe          
+; JEF United Ichihara  ; 3-2 (aet);  Sanfrecce Hiroshima  
+; Kashiwa Reysol       ; 1-0;  Nagoya Grampus Eight 
+; Urawa Red Diamonds   ; 1-3;  Kashima Antlers      
+; Verdy Kawasaki       ; 0-2;  Cerezo Osaka         
+; Bellmare Hiratsuka   ; 1-2;  Shimizu S Pulse      
+; Jubilo Iwata         ; 3-1;  Yokohama Flugels     
+; Kyoto Purple Sanga   ; 1-0;  Avispa Fukuoka       
+; Gamba Osaka          ; 2-3;  Vissel Kobe          
 *Yokohama Marinos idle
 
 Round: 8 
 Date: 5/10/1997
 
-Nagoya Grampus Eight ; 3-1;  Urawa Red Diamonds   
-Kashima Antlers      ; 1-2;  Gamba Osaka          
-Sanfrecce Hiroshima  ; 0-1 [OT];  Bellmare Hiratsuka   
-Shimizu S Pulse      ; 1-2 [OT];  Yokohama Marinos     
-Avispa Fukuoka       ; 2-1;  JEF United Ichihara  
-Cerezo Osaka         ; 1-2;  Kyoto Purple Sanga   
-Yokohama Flugels     ; 2-0;  Kashiwa Reysol       
-Vissel Kobe          ; 2-4;  Verdy Kawasaki       
+; Nagoya Grampus Eight ; 3-1;  Urawa Red Diamonds   
+; Kashima Antlers      ; 1-2;  Gamba Osaka          
+; Sanfrecce Hiroshima  ; 0-1 (aet);  Bellmare Hiratsuka   
+; Shimizu S Pulse      ; 1-2 (aet);  Yokohama Marinos     
+; Avispa Fukuoka       ; 2-1;  JEF United Ichihara  
+; Cerezo Osaka         ; 1-2;  Kyoto Purple Sanga   
+; Yokohama Flugels     ; 2-0;  Kashiwa Reysol       
+; Vissel Kobe          ; 2-4;  Verdy Kawasaki       
 *Jubilo Iwata idle
 
 Round: 9 
 Date: 5/17/1997
 
-Bellmare Hiratsuka   ; 2-1;  Avispa Fukuoka       
-Kashiwa Reysol       ; 2-1;  Jubilo Iwata         
-Yokohama Marinos     ; 4-2;  Sanfrecce Hiroshima  
-JEF United Ichihara  ; 3-0;  Cerezo Osaka         
-Gamba Osaka          ; 0-1;  Nagoya Grampus Eight 
-Verdy Kawasaki       ; 1-1 [OT, 2-3 pen];  Kashima Antlers      
-Kyoto Purple Sanga   ; 0-2;  Vissel Kobe          
-Urawa Red Diamonds   ; 1-3 ;  Yokohama Flugels     
+; Bellmare Hiratsuka   ; 2-1;  Avispa Fukuoka       
+; Kashiwa Reysol       ; 2-1;  Jubilo Iwata         
+; Yokohama Marinos     ; 4-2;  Sanfrecce Hiroshima  
+; JEF United Ichihara  ; 3-0;  Cerezo Osaka         
+; Gamba Osaka          ; 0-1;  Nagoya Grampus Eight 
+; Verdy Kawasaki       ; 1-1 (aet);  Kashima Antlers      
+Penalty kicks: 2-3
+; Kyoto Purple Sanga   ; 0-2;  Vissel Kobe          
+; Urawa Red Diamonds   ; 1-3 ;  Yokohama Flugels     
 *Jul 2; first abandoned at 0-1
 *Shimizu S Pulse free
 
 Round: 10 
 Date: 5/24/1997
 
-Nagoya Grampus Eight ; 1-0;  Verdy Kawasaki       
-Cerezo Osaka         ; 0-2;  Bellmare Hiratsuka   
-Vissel Kobe          ; 2-3 [OT];  JEF United Ichihara  
-Jubilo Iwata         ; 2-0;  Urawa Red Diamonds   
-Avispa Fukuoka       ; 1-3;  Yokohama Marinos     
-Sanfrecce Hiroshima  ; 1-0;  Shimizu S Pulse      
-Yokohama Flugels     ; 2-1;  Gamba Osaka          
-Kashima Antlers      ; 4-0;  Kyoto Purple Sanga   
+; Nagoya Grampus Eight ; 1-0;  Verdy Kawasaki       
+; Cerezo Osaka         ; 0-2;  Bellmare Hiratsuka   
+; Vissel Kobe          ; 2-3 (aet);  JEF United Ichihara  
+; Jubilo Iwata         ; 2-0;  Urawa Red Diamonds   
+; Avispa Fukuoka       ; 1-3;  Yokohama Marinos     
+; Sanfrecce Hiroshima  ; 1-0;  Shimizu S Pulse      
+; Yokohama Flugels     ; 2-1;  Gamba Osaka          
+; Kashima Antlers      ; 4-0;  Kyoto Purple Sanga   
 *Kashiwa Reysol idle
 
 Round: 11 
 Date: 5/28/1997
-
-Urawa Red Diamonds   ; 3-2 [OT];  Kashiwa Reysol       
-Verdy Kawasaki       ; 0-4;  Yokohama Flugels     
-Yokohama Marinos     ; 3-2 [OT];  Cerezo Osaka         
-JEF United Ichihara  ; 0-2;  Kashima Antlers      
-Shimizu S Pulse      ; 1-0;  Avispa Fukuoka       
-Bellmare Hiratsuka   ; 3-0;  Vissel Kobe          
-Gamba Osaka          ; 3-1;  Jubilo Iwata         
-Kyoto Purple Sanga   ; 1-3;  Nagoya Grampus Eight 
+ 
+; Urawa Red Diamonds   ; 3-2 (aet);  Kashiwa Reysol       
+; Verdy Kawasaki       ; 0-4;  Yokohama Flugels     
+; Yokohama Marinos     ; 3-2 (aet);  Cerezo Osaka         
+; JEF United Ichihara  ; 0-2;  Kashima Antlers      
+; Shimizu S Pulse      ; 1-0;  Avispa Fukuoka       
+; Bellmare Hiratsuka   ; 3-0;  Vissel Kobe          
+; Gamba Osaka          ; 3-1;  Jubilo Iwata         
+; Kyoto Purple Sanga   ; 1-3;  Nagoya Grampus Eight 
 *Sanfrecce Hiroshima free
 
 Round: 12 
 Date: 5/31/1997
 
-Kashima Antlers      ; 2-1;  Bellmare Hiratsuka   
-Nagoya Grampus Eight ; 3-2;  JEF United Ichihara  
-Yokohama Flugels     ; 0-1;  Kyoto Purple Sanga   
-Jubilo Iwata         ; 0-1 [OT];  Verdy Kawasaki       
-Kashiwa Reysol       ; 4-1;  Gamba Osaka          
-Cerezo Osaka         ; 1-2 [OT];  Shimizu S Pulse      
-Avispa Fukuoka       ; 0-1;  Sanfrecce Hiroshima  
-Vissel Kobe          ; 2-1;  Yokohama Marinos     
+; Kashima Antlers      ; 2-1;  Bellmare Hiratsuka   
+; Nagoya Grampus Eight ; 3-2;  JEF United Ichihara  
+; Yokohama Flugels     ; 0-1;  Kyoto Purple Sanga   
+; Jubilo Iwata         ; 0-1 (aet);  Verdy Kawasaki       
+; Kashiwa Reysol       ; 4-1;  Gamba Osaka          
+; Cerezo Osaka         ; 1-2 (aet);  Shimizu S Pulse      
+; Avispa Fukuoka       ; 0-1;  Sanfrecce Hiroshima  
+; Vissel Kobe          ; 2-1;  Yokohama Marinos     
 *Urawa Red Diamonds idle
 
 Round: 13 
 Date: 7/5/1997
 
-Bellmare Hiratsuka   ; 1-0 ;  Nagoya Grampus Eight 
+; Bellmare Hiratsuka   ; 1-0 ;  Nagoya Grampus Eight 
 *Jul 2
-JEF United Ichihara  ; 0-4;  Yokohama Flugels     
-Sanfrecce Hiroshima  ; 2-2 [OT, 3-2 pen];  Cerezo Osaka         
-Verdy Kawasaki       ; 1-3;  Kashiwa Reysol       
-Gamba Osaka          ; 1-2;  Urawa Red Diamonds   
-Yokohama Marinos     ; 0-3;  Kashima Antlers      
-Shimizu S Pulse      ; 2-4;  Vissel Kobe          
-Kyoto Purple Sanga   ; 0-6;  Jubilo Iwata         
+; JEF United Ichihara  ; 0-4;  Yokohama Flugels     
+; Sanfrecce Hiroshima  ; 2-2 (aet);  Cerezo Osaka         
+Penalty kicks: 3-2
+; Verdy Kawasaki       ; 1-3;  Kashiwa Reysol       
+; Gamba Osaka          ; 1-2;  Urawa Red Diamonds   
+; Yokohama Marinos     ; 0-3;  Kashima Antlers      
+; Shimizu S Pulse      ; 2-4;  Vissel Kobe          
+; Kyoto Purple Sanga   ; 0-6;  Jubilo Iwata         
 *Avispa Fukuoka idle
  
 Round: 14 
 Date: 7/9/1997
 
-Nagoya Grampus Eight ; 0-1;  Yokohama Marinos     
-Kashiwa Reysol       ; 3-2 [OT];  Kyoto Purple Sanga   
-Vissel Kobe          ; 0-1 [OT];  Sanfrecce Hiroshima  
-Jubilo Iwata         ; 4-1;  JEF United Ichihara  
-Kashima Antlers      ; 0-1;  Shimizu S Pulse      
-Cerezo Osaka         ; 2-0;  Avispa Fukuoka       
-Urawa Red Diamonds   ; 2-0;  Verdy Kawasaki       
-Yokohama Flugels     ; 2-1;  Bellmare Hiratsuka   
+; Nagoya Grampus Eight ; 0-1;  Yokohama Marinos     
+; Kashiwa Reysol       ; 3-2 (aet);  Kyoto Purple Sanga   
+; Vissel Kobe          ; 0-1 (aet);  Sanfrecce Hiroshima  
+; Jubilo Iwata         ; 4-1;  JEF United Ichihara  
+; Kashima Antlers      ; 0-1;  Shimizu S Pulse      
+; Cerezo Osaka         ; 2-0;  Avispa Fukuoka       
+; Urawa Red Diamonds   ; 2-0;  Verdy Kawasaki       
+; Yokohama Flugels     ; 2-1;  Bellmare Hiratsuka   
 *Gamba Osaka idle
 
 Round: 15 
-*Jul 12
-Bellmare Hiratsuka   ; 2-1 [OT];  Jubilo Iwata         
-Sanfrecce Hiroshima  ; 2-3;  Kashima Antlers      
-JEF United Ichihara  ; 1-0;  Kashiwa Reysol       
-Verdy Kawasaki       ; 0-1 ;  Gamba Osaka          
-Yokohama Marinos     ; 1-0;  Yokohama Flugels     
-Shimizu S Pulse      ; 3-1;  Nagoya Grampus Eight 
-Avispa Fukuoka       ; 0-1;  Vissel Kobe          
-Kyoto Purple Sanga   ; 1-1 [OT, 3-4 pen];  Urawa Red Diamonds   
+Date: 7/12/1997
+; Bellmare Hiratsuka   ; 2-1 (aet);  Jubilo Iwata         
+; Sanfrecce Hiroshima  ; 2-3;  Kashima Antlers      
+; JEF United Ichihara  ; 1-0;  Kashiwa Reysol       
+; Verdy Kawasaki       ; 0-1 ;  Gamba Osaka          
+; Yokohama Marinos     ; 1-0;  Yokohama Flugels     
+; Shimizu S Pulse      ; 3-1;  Nagoya Grampus Eight 
+; Avispa Fukuoka       ; 0-1;  Vissel Kobe          
+; Kyoto Purple Sanga   ; 1-1 (aet);  Urawa Red Diamonds   
+Penalty kicks: 3-4
 *Cerezo Osaka idle
 
 Round: 16 
 Date: 7/16/1997
 
-Kashima Antlers      ; 2-0;  Avispa Fukuoka       
-Nagoya Grampus Eight ; 1-0;  Sanfrecce Hiroshima  
-Yokohama Flugels     ; 4-3 [OT];  Shimizu S Pulse      
-Jubilo Iwata         ; 3-4 [OT];  Yokohama Marinos     
-Kashiwa Reysol       ; 2-0;  Bellmare Hiratsuka   
-Urawa Red Diamonds   ; 3-0;  JEF United Ichihara  
-Gamba Osaka          ; 0-3;  Kyoto Purple Sanga   
-Vissel Kobe          ; 1-2;  Cerezo Osaka         
+; Kashima Antlers      ; 2-0;  Avispa Fukuoka       
+; Nagoya Grampus Eight ; 1-0;  Sanfrecce Hiroshima  
+; Yokohama Flugels     ; 4-3 (aet);  Shimizu S Pulse      
+; Jubilo Iwata         ; 3-4 (aet);  Yokohama Marinos     
+; Kashiwa Reysol       ; 2-0;  Bellmare Hiratsuka   
+; Urawa Red Diamonds   ; 3-0;  JEF United Ichihara  
+; Gamba Osaka          ; 0-3;  Kyoto Purple Sanga   
+; Vissel Kobe          ; 1-2;  Cerezo Osaka         
 *Verdy Kawasaki idle
 
 Round: 17 
-*Jul 19
-Sanfrecce Hiroshima  ; 2-3;  Yokohama Flugels     
-Bellmare Hiratsuka   ; 3-2;  Urawa Red Diamonds   
-JEF United Ichihara  ; 1-3;  Gamba Osaka          
-Cerezo Osaka         ; 0-1;  Kashima Antlers      
-Yokohama Marinos     ; 0-3;  Kashiwa Reysol       
-Shimizu S Pulse      ; 1-2;  Jubilo Iwata         
-Avispa Fukuoka       ; 3-2;  Nagoya Grampus Eight 
-Kyoto Purple Sanga   ; 2-1;  Verdy Kawasaki       
+Date: 7/19/1997
+
+; Sanfrecce Hiroshima  ; 2-3;  Yokohama Flugels     
+; Bellmare Hiratsuka   ; 3-2;  Urawa Red Diamonds   
+; JEF United Ichihara  ; 1-3;  Gamba Osaka          
+; Cerezo Osaka         ; 0-1;  Kashima Antlers      
+; Yokohama Marinos     ; 0-3;  Kashiwa Reysol       
+; Shimizu S Pulse      ; 1-2;  Jubilo Iwata         
+; Avispa Fukuoka       ; 3-2;  Nagoya Grampus Eight 
+; Kyoto Purple Sanga   ; 2-1;  Verdy Kawasaki       
 *Vissel Kobe idle
 
 *Standings as per 19 Jul 1997 (after 17 rounds)
@@ -287,223 +293,228 @@ Kyoto Purple Sanga   ; 2-1;  Verdy Kawasaki
 Round: 1 
 Date: 7/30/1997
 
-JEF United Ichihara  1  Urawa Red Diamonds   0  [OT]
-Yokohama Marinos     1  Jubilo Iwata         4
-Bellmare Hiratsuka   7  Kashiwa Reysol       4
-Shimizu S Pulse      3  Yokohama Flugels     1
-Kyoto Purple Sanga   3  Gamba Osaka          2
-Cerezo Osaka         3  Vissel Kobe          1
-Sanfrecce Hiroshima  1  Nagoya Grampus Eight 0
-Avispa Fukuoka       1  Kashima Antlers      3
-Verdy Kawasaki idle
+; JEF United Ichihara ; 1-0  (aet);  Urawa Red Diamonds   
+; Yokohama Marinos    ; 1-4;  Jubilo Iwata         
+; Bellmare Hiratsuka  ; 7-4;  Kashiwa Reysol       
+; Shimizu S Pulse     ; 3-1;  Yokohama Flugels     
+; Kyoto Purple Sanga  ; 3-2;  Gamba Osaka          
+; Cerezo Osaka        ; 3-1;  Vissel Kobe          
+; Sanfrecce Hiroshima ; 1-0;  Nagoya Grampus Eight 
+; Avispa Fukuoka      ; 1-3;  Kashima Antlers      
+*Verdy Kawasaki idle
 
 Round: 2 
 Date: 8/2/1997
 
-JEF United Ichihara  3  Verdy Kawasaki       1
-Bellmare Hiratsuka   3  Gamba Osaka          4
-Vissel Kobe          0  Kashima Antlers      5
-Sanfrecce Hiroshima  1  Jubilo Iwata         3
-Yokohama Marinos     0  Urawa Red Diamonds   2
-Shimizu S Pulse      2  Kashiwa Reysol       3  [OT]
-Cerezo Osaka         2  Nagoya Grampus Eight 3
-Avispa Fukuoka       0  Yokohama Flugels     1  [OT]
-Kyoto Purple Sanga idle
+; JEF United Ichihara ; 3-1;  Verdy Kawasaki       
+; Bellmare Hiratsuka  ; 3-4;  Gamba Osaka          
+; Vissel Kobe         ; 0-5;  Kashima Antlers      
+; Sanfrecce Hiroshima ; 1-3;  Jubilo Iwata         
+; Yokohama Marinos    ; 0-2;  Urawa Red Diamonds   
+; Shimizu S Pulse     ; 2-3  (aet);  Kashiwa Reysol       
+; Cerezo Osaka        ; 2-3;  Nagoya Grampus Eight 
+; Avispa Fukuoka      ; 0-1  (aet);  Yokohama Flugels     
+*Kyoto Purple Sanga idle
 
 Round: 3 
 Date: 8/6/1997
 
-Urawa Red Diamonds   3  Shimizu S Pulse      4
-Verdy Kawasaki       1  Bellmare Hiratsuka   2
-Jubilo Iwata         2  Avispa Fukuoka       1
-Nagoya Grampus Eight 3  Vissel Kobe          0
-Gamba Osaka          3  Yokohama Marinos     4
-Kashiwa Reysol       2  Sanfrecce Hiroshima  1
-Yokohama Flugels     1  Cerezo Osaka         2  [OT]
-Kyoto Purple Sanga   2  JEF United Ichihara  3  [OT]
-Kashima Antlers idle
+; Urawa Red Diamonds  ; 3-4;  Shimizu S Pulse      
+; Verdy Kawasaki      ; 1-2;  Bellmare Hiratsuka   
+; Jubilo Iwata        ; 2-1;  Avispa Fukuoka       
+; Nagoya Grampus Eight; 3-0;  Vissel Kobe          
+; Gamba Osaka         ; 3-4;  Yokohama Marinos     
+; Kashiwa Reysol      ; 2-1;  Sanfrecce Hiroshima  
+; Yokohama Flugels    ; 1-2  (aet);  Cerezo Osaka         
+; Kyoto Purple Sanga  ; 2-3  (aet);  JEF United Ichihara  
+*Kashima Antlers idle
 
 Round: 4 
 Date: 8/9/1997
 
-Bellmare Hiratsuka   2  Kyoto Purple Sanga   1
-Vissel Kobe          2  Yokohama Flugels     3
-Sanfrecce Hiroshima  1  Urawa Red Diamonds   2
-Kashima Antlers      7  Nagoya Grampus Eight 0
-Yokohama Marinos     7  Verdy Kawasaki       2
-Shimizu S Pulse      1  Gamba Osaka          2
-Cerezo Osaka         1  Jubilo Iwata         4
-Avispa Fukuoka       1  Kashiwa Reysol       1  [0T, 5-3 pen]
-JEF United Ichihara idle
+; Bellmare Hiratsuka  ; 2-1;  Kyoto Purple Sanga   
+; Vissel Kobe         ; 2-3;  Yokohama Flugels     
+; Sanfrecce Hiroshima ; 1-2;  Urawa Red Diamonds   
+; Kashima Antlers     ; 7-0;  Nagoya Grampus Eight 
+; Yokohama Marinos    ; 7-2;  Verdy Kawasaki       
+; Shimizu S Pulse     ; 1-2;  Gamba Osaka          
+; Cerezo Osaka        ; 1-4;  Jubilo Iwata         
+; Avispa Fukuoka      ; 1-1  (aet);  Kashiwa Reysol       
+Penalty kicks: 5-3
+*JEF United Ichihara idle
 
 Round: 5 
-Date: 8/15,16/1997
+Date: 8/15/1997
+*Date: 8/15,16/1997
 
-Kyoto Purple Sanga   1  Yokohama Marinos     4
-JEF United Ichihara  0  Bellmare Hiratsuka   0  [OT, 5-6 pen]
-Urawa Red Diamonds   1  Avispa Fukuoka       2
-Kashiwa Reysol       0  Cerezo Osaka         1
-Verdy Kawasaki       1  Shimizu S Pulse      0  [OT]
-Yokohama Flugels     5  Kashima Antlers      3
-Jubilo Iwata         2  Vissel Kobe          1
-Gamba Osaka          3  Sanfrecce Hiroshima  0
-Nagoya Grampus Eight idle
+; Kyoto Purple Sanga  ; 1-4;  Yokohama Marinos     
+; JEF United Ichihara ; 0-0 (aet);  Bellmare Hiratsuka   
+Penalty kicks: 5-6
+; Urawa Red Diamonds  ; 1-2;  Avispa Fukuoka       
+; Kashiwa Reysol      ; 0-1;  Cerezo Osaka         
+; Verdy Kawasaki      ; 1-0  (aet);  Shimizu S Pulse      
+; Yokohama Flugels    ; 5-3;  Kashima Antlers      
+; Jubilo Iwata        ; 2-1;  Vissel Kobe          
+; Gamba Osaka         ; 3-0;  Sanfrecce Hiroshima  
+*Nagoya Grampus Eight idle
 
 Round: 6 
 Date: 8/20/1997
 
-Kashima Antlers      2  Jubilo Iwata         0
-Yokohama Marinos     2  JEF United Ichihara  1  [OT]
-Shimizu S Pulse      1  Kyoto Purple Sanga   0
-Nagoya Grampus Eight 2  Yokohama Flugels     1
-Cerezo Osaka         1  Urawa Red Diamonds   2
-Vissel Kobe          2  Kashiwa Reysol       4
-Sanfrecce Hiroshima  3  Verdy Kawasaki       1
-Avispa Fukuoka       0  Gamba Osaka          1
-Bellmare Hiratsuka idle
+; Kashima Antlers     ; 2-0;  Jubilo Iwata         
+; Yokohama Marinos    ; 2-1  (aet);  JEF United Ichihara  
+; Shimizu S Pulse     ; 1-0;  Kyoto Purple Sanga   
+; Nagoya Grampus Eight; 2-1;  Yokohama Flugels     
+; Cerezo Osaka        ; 1-2;  Urawa Red Diamonds   
+; Vissel Kobe         ; 2-4;  Kashiwa Reysol       
+; Sanfrecce Hiroshima ; 3-1;  Verdy Kawasaki       
+; Avispa Fukuoka      ; 0-1;  Gamba Osaka          
+*Bellmare Hiratsuka idle
 
 Round: 7 
 Date: 8/23/1997
 
-Bellmare Hiratsuka   1  Yokohama Marinos     3
-JEF United Ichihara  0  Shimizu S Pulse      3
-Gamba Osaka          3  Cerezo Osaka         2 [OT]
-Verdy Kawasaki       2  Avispa Fukuoka       0
-Kashiwa Reysol       3  Kashima Antlers      5
-Jubilo Iwata         1  Nagoya Grampus Eight 3
-Kyoto Purple Sanga   0  Sanfrecce Hiroshima  3
-Urawa Red Diamonds   2  Vissel Kobe          0
-Yokohama Flugels idle
+; Bellmare Hiratsuka  ; 1-3;  Yokohama Marinos     
+; JEF United Ichihara ; 0-3;  Shimizu S Pulse      
+; Gamba Osaka         ; 3-2 (aet);  Cerezo Osaka         
+; Verdy Kawasaki      ; 2-0;  Avispa Fukuoka       
+; Kashiwa Reysol      ; 3-5;  Kashima Antlers      
+; Jubilo Iwata        ; 1-3;  Nagoya Grampus Eight 
+; Kyoto Purple Sanga  ; 0-3;  Sanfrecce Hiroshima  
+; Urawa Red Diamonds  ; 2-0;  Vissel Kobe          
+*Yokohama Flugels idle
 
 Round: 8 
 Date: 8/30/1997
 
-Shimizu S Pulse      3  Bellmare Hiratsuka   1
-Kashima Antlers      1  Urawa Red Diamonds   0
-Vissel Kobe          0  Gamba Osaka          4
-Yokohama Flugels     0  Jubilo Iwata         2
-Nagoya Grampus Eight 1  Kashiwa Reysol       0
-Cerezo Osaka         5  Verdy Kawasaki       3
-Sanfrecce Hiroshima  3  JEF United Ichihara  0
-Avispa Fukuoka       4  Kyoto Purple Sanga   2
-Yokohama Marinos idle
+; Shimizu S Pulse     ; 3-1;  Bellmare Hiratsuka   
+; Kashima Antlers     ; 1-0;  Urawa Red Diamonds   
+; Vissel Kobe         ; 0-4;  Gamba Osaka          
+; Yokohama Flugels    ; 0-2;  Jubilo Iwata         
+; Nagoya Grampus Eight; 1-0;  Kashiwa Reysol       
+; Cerezo Osaka        ; 5-3;  Verdy Kawasaki       
+; Sanfrecce Hiroshima ; 3-0;  JEF United Ichihara  
+; Avispa Fukuoka      ; 4-2;  Kyoto Purple Sanga   
+*Yokohama Marinos idle
 
 Round: 9 
 Date: 9/3/1997
 
-JEF United Ichihara  2  Avispa Fukuoka       1
-Urawa Red Diamonds   3  Nagoya Grampus Eight 0
-Verdy Kawasaki       2  Vissel Kobe          0
-Yokohama Marinos     1  Shimizu S Pulse      0  [OT]
-Bellmare Hiratsuka   2  Sanfrecce Hiroshima  0
-Kyoto Purple Sanga   1  Cerezo Osaka         1  [OT, 6-7 pen]
-Gamba Osaka          2  Kashima Antlers      1  [OT]
-Kashiwa Reysol       0  Yokohama Flugels     2
-Jubilo Iwata idle
+; JEF United Ichihara ; 2-1;  Avispa Fukuoka       
+; Urawa Red Diamonds  ; 3-0;  Nagoya Grampus Eight 
+; Verdy Kawasaki      ; 2-0;  Vissel Kobe          
+; Yokohama Marinos    ; 1-0  (aet);  Shimizu S Pulse      
+; Bellmare Hiratsuka  ; 2-0;  Sanfrecce Hiroshima  
+; Kyoto Purple Sanga  ; 1-1 (aet);  Cerezo Osaka         
+Penalty kicks: 6-7
+; Gamba Osaka         ; 2-1  (aet);  Kashima Antlers      
+; Kashiwa Reysol      ; 0-2;  Yokohama Flugels     
+*Jubilo Iwata idle
 
 Round: 10 
 Date: 9/6/1997
 
-Nagoya Grampus Eight 0  Gamba Osaka          1
-Kashima Antlers      5  Verdy Kawasaki       0
-Jubilo Iwata         2  Kashiwa Reysol       1
-Sanfrecce Hiroshima  2  Yokohama Marinos     3  [OT]
-Yokohama Flugels     1  Urawa Red Diamonds   3
-Vissel Kobe          4  Kyoto Purple Sanga   2
-Avispa Fukuoka       1  Bellmare Hiratsuka   2
-Cerezo Osaka         1  JEF United Ichihara  0
-Shimizu S Pulse idle
+; Nagoya Grampus Eight; 0-1;  Gamba Osaka          
+; Kashima Antlers     ; 5-0;  Verdy Kawasaki       
+; Jubilo Iwata        ; 2-1;  Kashiwa Reysol       
+; Sanfrecce Hiroshima ; 2-3  (aet);  Yokohama Marinos     
+; Yokohama Flugels    ; 1-3;  Urawa Red Diamonds   
+; Vissel Kobe         ; 4-2;  Kyoto Purple Sanga   
+; Avispa Fukuoka      ; 1-2;  Bellmare Hiratsuka   
+; Cerezo Osaka        ; 1-0;  JEF United Ichihara  
+*Shimizu S Pulse idle
 
 Round: 11 
 Date: 9/10/1997
 
-Kashima Antlers      2  Sanfrecce Hiroshima  1  [OT]
-Kashiwa Reysol       1  JEF United Ichihara  2
-Urawa Red Diamonds   4  Kyoto Purple Sanga   1
-Jubilo Iwata         3  Bellmare Hiratsuka   1
-Nagoya Grampus Eight 2  Shimizu S Pulse      1
-Gamba Osaka          2  Verdy Kawasaki       1
-Vissel Kobe          4  Avispa Fukuoka       3  [OT]
-Yokohama Flugels     2  Yokohama Marinos     3
-Cerezo Osaka idle
+; Kashima Antlers     ; 2-1  (aet);  Sanfrecce Hiroshima  
+; Kashiwa Reysol      ; 1-2;  JEF United Ichihara  
+; Urawa Red Diamonds  ; 4-1;  Kyoto Purple Sanga   
+; Jubilo Iwata        ; 3-1;  Bellmare Hiratsuka   
+; Nagoya Grampus Eight; 2-1;  Shimizu S Pulse      
+; Gamba Osaka         ; 2-1;  Verdy Kawasaki       
+; Vissel Kobe         ; 4-3  (aet);  Avispa Fukuoka       
+; Yokohama Flugels    ; 2-3;  Yokohama Marinos     
+*Cerezo Osaka idle
 
 Round: 12 
 Date: 9/13/1997
 
-Verdy Kawasaki       2  Nagoya Grampus Eight 0
-Bellmare Hiratsuka   5  Cerezo Osaka         4  [OT]
-Shimizu S Pulse      1  Sanfrecce Hiroshima  0
-Gamba Osaka          2  Yokohama Flugels     1
-JEF United Ichihara  3  Vissel Kobe          4  [OT]
-Urawa Red Diamonds   0  Jubilo Iwata         1  [OT]
-Yokohama Marinos     4  Avispa Fukuoka       1
-Kyoto Purple Sanga   3  Kashima Antlers      2
-Kashiwa Reysol idle
+; Verdy Kawasaki      ; 2-0;  Nagoya Grampus Eight 
+; Bellmare Hiratsuka  ; 5-4  (aet);  Cerezo Osaka         
+; Shimizu S Pulse     ; 1-0;  Sanfrecce Hiroshima  
+; Gamba Osaka         ; 2-1;  Yokohama Flugels     
+; JEF United Ichihara ; 3-4  (aet);  Vissel Kobe          
+; Urawa Red Diamonds  ; 0-1  (aet);  Jubilo Iwata         
+; Yokohama Marinos    ; 4-1;  Avispa Fukuoka       
+; Kyoto Purple Sanga  ; 3-2;  Kashima Antlers      
+*Kashiwa Reysol idle
 
 Round: 13 
 Date: 9/20/1997
 
-Bellmare Hiratsuka   2  Kashima Antlers      5
-Yokohama Marinos     2  Vissel Kobe          1
-Kyoto Purple Sanga   1  Yokohama Flugels     2
-Gamba Osaka          1  Kashiwa Reysol       2
-JEF United Ichihara  1  Nagoya Grampus Eight 2
-Shimizu S Pulse      2  Cerezo Osaka         0
-Sanfrecce Hiroshima  1  Avispa Fukuoka       3
-Verdy Kawasaki       1  Jubilo Iwata         6
-Urawa Red Diamonds idle
+; Bellmare Hiratsuka  ; 2-5;  Kashima Antlers      
+; Yokohama Marinos    ; 2-1;  Vissel Kobe          
+; Kyoto Purple Sanga  ; 1-2;  Yokohama Flugels     
+; Gamba Osaka         ; 1-2;  Kashiwa Reysol       
+; JEF United Ichihara ; 1-2;  Nagoya Grampus Eight 
+; Shimizu S Pulse     ; 2-0;  Cerezo Osaka         
+; Sanfrecce Hiroshima ; 1-3;  Avispa Fukuoka       
+; Verdy Kawasaki      ; 1-6;  Jubilo Iwata         
+*Urawa Red Diamonds idle
 
 Round: 14 
 Date: 9/24/1997
 
-Kashima Antlers      2  JEF United Ichihara  1  [OT]
-Kashiwa Reysol       3  Urawa Red Diamonds   0
-Yokohama Flugels     0  Verdy Kawasaki       1
-Jubilo Iwata         1  Gamba Osaka          0  [OT]
-Nagoya Grampus Eight 1  Kyoto Purple Sanga   2
-Cerezo Osaka         2  Yokohama Marinos     3  [OT]
-Vissel Kobe          0  Bellmare Hiratsuka   1
-Avispa Fukuoka       0  Shimizu S Pulse      1  [OT]
-Sanfrecce Hiroshima idle
+; Kashima Antlers     ; 2-1  (aet);  JEF United Ichihara  
+; Kashiwa Reysol      ; 3-0;  Urawa Red Diamonds   
+; Yokohama Flugels    ; 0-1;  Verdy Kawasaki       
+; Jubilo Iwata        ; 1-0  (aet);  Gamba Osaka          
+; Nagoya Grampus Eight; 1-2;  Kyoto Purple Sanga   
+; Cerezo Osaka        ; 2-3  (aet);  Yokohama Marinos     
+; Vissel Kobe         ; 0-1;  Bellmare Hiratsuka   
+; Avispa Fukuoka      ; 0-1  (aet);  Shimizu S Pulse      
+*Sanfrecce Hiroshima idle
 
 Round: 15 
 Date: 9/27/1997
 
-Kashima Antlers      2  Yokohama Marinos     1
-Kashiwa Reysol       2  Verdy Kawasaki       1
-Jubilo Iwata         2  Kyoto Purple Sanga   1
-Nagoya Grampus Eight 2  Bellmare Hiratsuka   1
-Vissel Kobe          0  Shimizu S Pulse      3
-Cerezo Osaka         3  Sanfrecce Hiroshima  1
-Urawa Red Diamonds   1  Gamba Osaka          4
-Yokohama Flugels     1  JEF United Ichihara  2  [OT]
-Avispa Fukuoka idle
+; Kashima Antlers     ; 2-1;  Yokohama Marinos     
+; Kashiwa Reysol      ; 2-1;  Verdy Kawasaki       
+; Jubilo Iwata        ; 2-1;  Kyoto Purple Sanga   
+; Nagoya Grampus Eight; 2-1;  Bellmare Hiratsuka   
+; Vissel Kobe         ; 0-3;  Shimizu S Pulse      
+; Cerezo Osaka        ; 3-1;  Sanfrecce Hiroshima  
+; Urawa Red Diamonds  ; 1-4;  Gamba Osaka          
+; Yokohama Flugels    ; 1-2  (aet);  JEF United Ichihara  
+*Avispa Fukuoka idle
 
 Round: 16 
 Date: 10/1/1997
 
-Yokohama Marinos     1  Nagoya Grampus Eight 2
-Sanfrecce Hiroshima  2  Vissel Kobe          0
-Shimizu S Pulse      2  Kashima Antlers      0
-Kyoto Purple Sanga   0  Kashiwa Reysol       1
-JEF United Ichihara  0  Jubilo Iwata         5
-Verdy Kawasaki       1  Urawa Red Diamonds   2
-Bellmare Hiratsuka   0  Yokohama Flugels     0  [OT, 4-5 pen]
-Avispa Fukuoka       0  Cerezo Osaka         2
-Gamba Osaka idle
+; Yokohama Marinos    ; 1-2;  Nagoya Grampus Eight 
+; Sanfrecce Hiroshima ; 2-0;  Vissel Kobe          
+; Shimizu S Pulse     ; 2-0;  Kashima Antlers      
+; Kyoto Purple Sanga  ; 0-1;  Kashiwa Reysol       
+; JEF United Ichihara ; 0-5;  Jubilo Iwata         
+; Verdy Kawasaki      ; 1-2;  Urawa Red Diamonds   
+; Bellmare Hiratsuka  ; 0-0  (aet);  Yokohama Flugels     
+Penalty kicks: 4-5
+; Avispa Fukuoka      ; 0-2;  Cerezo Osaka         
+*Gamba Osaka idle
 
 Round: 17 
 Date: 10/4/1997
 
-Kashima Antlers      1  Cerezo Osaka         2
-Kashiwa Reysol       2  Yokohama Marinos     3
-Urawa Red Diamonds   1  Bellmare Hiratsuka   0  [OT]
-Verdy Kawasaki       2  Kyoto Purple Sanga   1  [OT]
-Yokohama Flugels     2  Sanfrecce Hiroshima  1
-Jubilo Iwata         2  Shimizu S Pulse      0
-Nagoya Grampus Eight 2  Avispa Fukuoka       0
-Gamba Osaka          4  JEF United Ichihara  3
-Vissel Kobe idle
+; Kashima Antlers     ; 1-2;  Cerezo Osaka         
+; Kashiwa Reysol      ; 2-3;  Yokohama Marinos     
+; Urawa Red Diamonds  ; 1-0  (aet);  Bellmare Hiratsuka   
+; Verdy Kawasaki      ; 2-1  (aet);  Kyoto Purple Sanga   
+; Yokohama Flugels    ; 2-1;  Sanfrecce Hiroshima  
+; Jubilo Iwata        ; 2-0;  Shimizu S Pulse      
+; Nagoya Grampus Eight; 2-0;  Avispa Fukuoka       
+; Gamba Osaka         ; 4-3;  JEF United Ichihara  
+*Vissel Kobe idle
 
 *Pos Prev Team                  Gm Wn(OT/PK) Ls(OT/PK) GF- GA  Dif Pnt
 *^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

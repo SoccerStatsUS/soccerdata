@@ -1,5 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesj/jap00.html
-Competition: J. League
+Competition: J. League Division 1
 Season: 2000
 
 *                               W/OT  D  L/OT
@@ -20,159 +20,186 @@ Season: 2000
 *15.Kawasaki Frontale       15   2/1  2 10/0  14-29 10
 *16.Kyoto Purple Sanga      15   2/0  1  8/4  16-36  7
   
-Round 1 [Mar 11]
-Kashima Antlers       1-0 Nagoya Grampus Eight
-Jubilo Iwata          0-1 Kashiwa Reysol         [asdet]
-JEF United Ichihara   6-1 Kyoto Purple Sanga
-Vissel Kobe           1-0 Sanfrecce Hiroshima
-Avispa Fukuoka        2-1 Kawasaki Frontale
-Shimizu S-Pulse       3-2 Cerezo Osaka
-Verdy Kawasaki        2-1 Gamba Osaka
-Yokohama F. Marinos   0-1 FC Tokyo
+Round: 1 
+Date: 3/11/2000
 
-Round 2 [Mar 18]
-Shimizu               1-2 Yokohama
-Kashiwa               1-0 V.Kawasaki
-Nagoya                0-1 Iwata
-Hiroshima             1-1 Ichihara               [asdet]
-G.Osaka               1-1 Kobe                   [asdet]
-Kyoto                 1-3 C.Osaka
-Kawasaki F.           0-1 Kashima
-Tokyo                 2-0 Fukuoka
+; Kashima Antlers      ; 1-0; Nagoya Grampus Eight
+; Jubilo Iwata         ; 0-1 (asdet); Kashiwa Reysol     
+; JEF United Ichihara  ; 6-1; Kyoto Purple Sanga
+; Vissel Kobe          ; 1-0; Sanfrecce Hiroshima
+; Avispa Fukuoka       ; 2-1; Kawasaki Frontale
+; Shimizu S-Pulse;       3-2; Cerezo Osaka
+; Verdy Kawasaki       ; 2-1; Gamba Osaka
+; Yokohama F. Marinos  ; 0-1; FC Tokyo
+
+Round: 2 
+Date: 3/18/2000
+
+; Shimizu              ; 1-2; Yokohama
+; Kashiwa              ; 1-0; V.Kawasaki
+; Nagoya               ; 0-1; Iwata
+; Hiroshima            ; 1-1 (asdet); Ichihara           
+; G.Osaka              ; 1-1 (asdet); Kobe               
+; Kyoto                ; 1-3; C.Osaka
+; Kawasaki F.          ; 0-1; Kashima
+; Tokyo                ; 2-0; Fukuoka
  
-Round 3 [Mar 25]
-Kawasaki F.           0-1 Hiroshima
-Kyoto                 1-0 G.Osaka
-C.Osaka               5-2 V.Kawasaki
-Shimizu               2-1 Kashiwa                [asdet]
-Yokohama              1-3 Iwata
-Fukuoka               0-1 Kashima                [asdet]
-Ichihara              1-6 Kobe
-Tokyo                 2-1 Nagoya                 [asdet]
+Round: 3 
+Date: 3/25/2000
 
-Round 4 [Apr 1]
-Verdy Kawasaki        0-1 JEF United Ichihara
-Sanfrecce Hiroshima   2-0 Kyoto Purple Sanga
-Kashiwa Reysol        3-2 FC Tokyo               [asdet]
-Nagoya Grampus Eight  1-2 Avispa Fukuoka         [asdet]
-Gamba Osaka           0-1 Shimizu S-Pulse
-Kashima Antlers       2-3 Yokohama F. Marinos
-Jubilo Iwata          3-1 Cerezo Osaka
-Vissel Kobe           0-1 Kawasaki Frontale
+; Kawasaki F.          ; 0-1; Hiroshima
+; Kyoto                ; 1-0; G.Osaka
+; C.Osaka              ; 5-2; V.Kawasaki
+; Shimizu              ; 2-1 (asdet); Kashiwa            
+; Yokohama             ; 1-3; Iwata
+; Fukuoka              ; 0-1 (asdet); Kashima            
+; Ichihara             ; 1-6; Kobe
+; Tokyo                ; 2-1 (asdet); Nagoya             
 
-Round 5 [Apr 5]
-FC Tokyo              3-2 Jubilo Iwata
-Kawasaki Frontale     2-2 Gamba Osaka            [asdet]
-Yokohama F. Marinos   1-0 Vissel Kobe
-Shimizu S-Pulse       2-1 Kashima Antlers
-Kyoto Purple Sanga    0-1 Nagoya Grampus Eight
-Cerezo Osaka          2-1 JEF United Ichihara    [asdet]
-Sanfrecce Hiroshima   1-2 Kashiwa Reysol
-Avispa Fukuoka        0-2 Verdy Kawasaki
+Round: 4 
+Date: 4/1/2000
+
+; Verdy Kawasaki       ; 0-1; JEF United Ichihara
+; Sanfrecce Hiroshima  ; 2-0; Kyoto Purple Sanga
+; Kashiwa Reysol       ; 3-2 (asdet); FC Tokyo           
+; Nagoya Grampus Eight ; 1-2 (asdet); Avispa Fukuoka     
+; Gamba Osaka          ; 0-1; Shimizu S-Pulse
+; Kashima Antlers      ; 2-3; Yokohama F. Marinos
+; Jubilo Iwata         ; 3-1; Cerezo Osaka
+; Vissel Kobe          ; 0-1; Kawasaki Frontale
+
+Round: 5 
+Date: 4/5/2000
+
+; FC Tokyo             ; 3-2; Jubilo Iwata
+; Kawasaki Frontale    ; 2-2 (asdet); Gamba Osaka        
+; Yokohama F. Marinos  ; 1-0; Vissel Kobe
+; Shimizu S-Pulse;       2-1; Kashima Antlers
+; Kyoto Purple Sanga   ; 0-1; Nagoya Grampus Eight
+; Cerezo Osaka         ; 2-1 (asdet); JEF United Ichihara 
+; Sanfrecce Hiroshima  ; 1-2; Kashiwa Reysol
+; Avispa Fukuoka       ; 0-2; Verdy Kawasaki
  
-Round 6 [Apr 8]
-Nagoya Grampus Eight  1-0 Shimizu S-Pulse
-JEF United Ichihara   1-0 Kawasaki Frontale
-Kashima Antlers       2-1 FC Tokyo
-Gamba Osaka           1-2 Sanfrecce Hiroshima    [asdet]
-Vissel Kobe           1-2 Cerezo Osaka
-Jubilo Iwata          2-1 Avispa Fukuoka
-Kashiwa Reysol        2-1 Kyoto Purple Sanga     [asdet]
-Verdy Kawasaki        1-3 Yokohama F. Marinos
+Round: 6 
+Date: 4/8/2000
+
+; Nagoya Grampus Eight ; 1-0; Shimizu S-Pulse
+; JEF United Ichihara  ; 1-0; Kawasaki Frontale
+; Kashima Antlers      ; 2-1; FC Tokyo
+; Gamba Osaka          ; 1-2 (asdet); Sanfrecce Hiroshima  
+; Vissel Kobe          ; 1-2; Cerezo Osaka
+; Jubilo Iwata         ; 2-1; Avispa Fukuoka
+; Kashiwa Reysol       ; 2-1 (asdet); Kyoto Purple Sanga   
+; Verdy Kawasaki       ; 1-3; Yokohama F. Marinos
      
-Round 7 
-[Apr 15]
-JEF United Ichihara   2-3 Jubilo Iwata
-FC Tokyo              1-3 Gamba Osaka
-Yokohama F. Marinos   2-0 Nagoya Grampus Eight
-Cerezo Osaka          2-1 Kashima Antlers
-Kawasaki Frontale     2-1 Kyoto Purple Sanga
-Vissel Kobe           1-2 Verdy Kawasaki         [asdet]
-Avispa Fukuoka        2-0 Kashiwa Reysol
-[May 24]
-Shimizu S-Pulse       1-0 Sanfrecce Hiroshima
+Round: 7 
+Date: 4/15/2000
 
-Round 8
-[Apr 22]
-Verdy Kawasaki        2-0 Kawasaki Frontale
-Nagoya Grampus Eight  3-1 Cerezo Osaka
-Kashima Antlers       0-1 JEF United Ichihara
-Kashiwa Reysol        3-2 Yokohama F. Marinos    [asdet]
-Kyoto Purple Sanga    1-2 Shimizu S-Pulse        [asdet]
-Sanfrecce Hiroshima   0-1 FC Tokyo
-Gamba Osaka           4-0 Avispa Fukuoka
-[May 24]
-Jubilo Iwata          1-0 Vissel Kobe
+; JEF United Ichihara  ; 2-3; Jubilo Iwata
+; FC Tokyo             ; 1-3; Gamba Osaka
+; Yokohama F. Marinos  ; 2-0; Nagoya Grampus Eight
+; Cerezo Osaka         ; 2-1; Kashima Antlers
+; Kawasaki Frontale    ; 2-1; Kyoto Purple Sanga
+; Vissel Kobe          ; 1-2 (asdet); Verdy Kawasaki        
+; Avispa Fukuoka       ; 2-0; Kashiwa Reysol
 
-Round 9 [Apr 29]
-JEF United Ichihara   0-1 Nagoya Grampus Eight   [asdet]
-FC Tokyo              3-0 Kyoto Purple Sanga
-Verdy Kawasaki        2-3 Jubilo Iwata           [asdet]
-Yokohama F. Marinos   4-1 Gamba Osaka
-Vissel Kobe           0-3 Kashima Antlers
-Avispa Fukuoka        1-0 Sanfrecce Hiroshima    [asdet]
-Cerezo Osaka          4-1 Kashiwa Reysol
-Kawasaki Frontale     0-2 Shimizu S-Pulse
+5/24/2000; Shimizu S-Pulse;       1-0; Sanfrecce Hiroshima
 
-Round 10 [May 3]
-Kashima Antlers       0-3 Verdy Kawasaki
-Kawasaki Frontale     1-5 Jubilo Iwata
-Nagoya Grampus Eight  1-2 Vissel Kobe
-Kyoto Purple Sanga    3-4 Avispa Fukuoka         [asdet]
-Gamba Osaka           2-1 Cerezo Osaka
-Shimizu S-Pulse       2-1 FC Tokyo
-Sanfrecce Hiroshima   2-0 Yokohama F. Marinos
-Kashiwa Reysol        2-1 JEF United Ichihara
+Round: 8
+Date: 4/22/2000
 
-Round 11 [May 6]
-FC Tokyo              2-1 Kawasaki Frontale
-Verdy Kawasaki        2-3 Nagoya Grampus Eight   [asdet]
-JEF United Ichihara   3-0 Gamba Osaka
-Yokohama F. Marinos   2-1 Kyoto Purple Sanga
-Jubilo Iwata          2-3 Kashima Antlers        [asdet]
-Cerezo Osaka          1-0 Sanfrecce Hiroshima
-Vissel Kobe           2-0 Kashiwa Reysol
-Avispa Fukuoka        3-0 Shimizu S-Pulse
+; Verdy Kawasaki       ; 2-0; Kawasaki Frontale
+; Nagoya Grampus Eight ; 3-1; Cerezo Osaka
+; Kashima Antlers      ; 0-1; JEF United Ichihara
+; Kashiwa Reysol       ; 3-2 (asdet); Yokohama F. Marinos   
+; Kyoto Purple Sanga   ; 1-2 (asdet); Shimizu S-Pulse       
+; Sanfrecce Hiroshima  ; 0-1; FC Tokyo
+; Gamba Osaka          ; 4-0; Avispa Fukuoka
+5/24/2000; Jubilo Iwata         ; 1-0; Vissel Kobe
 
-Round 12 [May 13]
-Kawasaki Frontale     1-1 Nagoya Grampus Eight
-Kashiwa Reysol        1-2 Kashima Antlers
-FC Tokyo              1-2 Cerezo Osaka
-Gamba Osaka           2-1 Jubilo Iwata
-Sanfrecce Hiroshima   2-1 Verdy Kawasaki         [asdet]
-Avispa Fukuoka        2-4 Yokohama F. Marinos
-Shimizu S-Pulse       1-0 JEF United Ichihara
-Kyoto Purple Sanga    3-2 Vissel Kobe
+Round: 9 
+Date: 4/29/2000
 
-Round 13 [May 17]
-Kashima Antlers       0-1 Gamba Osaka
-JEF United Ichihara   1-3 FC Tokyo
-Verdy Kawasaki        1-1 Kyoto Purple Sanga     [asdet]
-Yokohama F. Marinos   4-1 Kawasaki Frontale
-Jubilo Iwata          3-4 Sanfrecce Hiroshima    [asdet]
-Nagoya Grampus Eight  0-2 Kashiwa Reysol
-Cerezo Osaka          4-2 Avispa Fukuoka
-Vissel Kobe           2-0 Shimizu S-Pulse
+; JEF United Ichihara  ; 0-1 (asdet); Nagoya Grampus Eight  
+; FC Tokyo             ; 3-0; Kyoto Purple Sanga
+; Verdy Kawasaki       ; 2-3 (asdet); Jubilo Iwata          
+; Yokohama F. Marinos  ; 4-1; Gamba Osaka
+; Vissel Kobe          ; 0-3; Kashima Antlers
+; Avispa Fukuoka       ; 1-0 (asdet); Sanfrecce Hiroshima   
+; Cerezo Osaka         ; 4-1; Kashiwa Reysol
+; Kawasaki Frontale    ; 0-2; Shimizu S-Pulse
 
-Round 14 [May 20]
-FC Tokyo              1-2 Vissel Kobe
-Shimizu S-Pulse       2-3 Verdy Kawasaki         [asdet]
-Sanfrecce Hiroshima   1-0 Kashima Antlers
-Kawasaki Frontale     2-4 Kashiwa Reysol
-Avispa Fukuoka        0-3 JEF United Ichihara
-Yokohama F. Marinos   2-3 Cerezo Osaka
-Kyoto Purple Sanga    2-3 Jubilo Iwata           [asdet]
-Gamba Osaka           1-2 Nagoya Grampus Eight   [asdet]
+Round: 10 
+Date: 5/3/2000
+
+; Kashima Antlers      ; 0-3; Verdy Kawasaki
+; Kawasaki Frontale    ; 1-5; Jubilo Iwata
+; Nagoya Grampus Eight ; 1-2; Vissel Kobe
+; Kyoto Purple Sanga   ; 3-4 (asdet); Avispa Fukuoka        
+; Gamba Osaka          ; 2-1; Cerezo Osaka
+; Shimizu S-Pulse;       2-1; FC Tokyo
+; Sanfrecce Hiroshima  ; 2-0; Yokohama F. Marinos
+; Kashiwa Reysol       ; 2-1; JEF United Ichihara
+
+Round: 11 
+Date: 5/6/2000
+
+; FC Tokyo             ; 2-1; Kawasaki Frontale
+; Verdy Kawasaki       ; 2-3 (asdet); Nagoya Grampus Eight  
+; JEF United Ichihara  ; 3-0; Gamba Osaka
+; Yokohama F. Marinos  ; 2-1; Kyoto Purple Sanga
+; Jubilo Iwata         ; 2-3 (asdet); Kashima Antlers       
+; Cerezo Osaka         ; 1-0; Sanfrecce Hiroshima
+; Vissel Kobe          ; 2-0; Kashiwa Reysol
+; Avispa Fukuoka       ; 3-0; Shimizu S-Pulse
+
+Round: 12 
+Date: 5/13/2000
+
+; Kawasaki Frontale    ; 1-1; Nagoya Grampus Eight
+; Kashiwa Reysol       ; 1-2; Kashima Antlers
+; FC Tokyo             ; 1-2; Cerezo Osaka
+; Gamba Osaka          ; 2-1; Jubilo Iwata
+; Sanfrecce Hiroshima  ; 2-1 (asdet); Verdy Kawasaki        
+; Avispa Fukuoka       ; 2-4; Yokohama F. Marinos
+; Shimizu S-Pulse;       1-0; JEF United Ichihara
+; Kyoto Purple Sanga   ; 3-2; Vissel Kobe
+
+Round: 13 
+Date: 5/17/2000
+
+; Kashima Antlers      ; 0-1; Gamba Osaka
+; JEF United Ichihara  ; 1-3; FC Tokyo
+; Verdy Kawasaki       ; 1-1 (asdet); Kyoto Purple Sanga    
+; Yokohama F. Marinos  ; 4-1; Kawasaki Frontale
+; Jubilo Iwata         ; 3-4 (asdet); Sanfrecce Hiroshima   
+; Nagoya Grampus Eight ; 0-2; Kashiwa Reysol
+; Cerezo Osaka         ; 4-2; Avispa Fukuoka
+; Vissel Kobe          ; 2-0; Shimizu S-Pulse
+
+Round: 14 
+Date: 5/20/2000
+
+; FC Tokyo             ; 1-2; Vissel Kobe
+; Shimizu S-Pulse;       2-3 (asdet); Verdy Kawasaki        
+; Sanfrecce Hiroshima  ; 1-0; Kashima Antlers
+; Kawasaki Frontale    ; 2-4; Kashiwa Reysol
+; Avispa Fukuoka       ; 0-3; JEF United Ichihara
+; Yokohama F. Marinos  ; 2-3; Cerezo Osaka
+; Kyoto Purple Sanga   ; 2-3 (asdet); Jubilo Iwata          
+; Gamba Osaka          ; 1-2 (asdet); Nagoya Grampus Eight  
   
-Round 15 [May 27]
-Kashima Antlers       3-0 Kyoto Purple Sanga 
-JEF United Ichihara   0-2 Yokohama F. Marinos 
-Kashiwa Reysol        2-1 Gamba Osaka 
-Verdy Kawasaki        3-0 FC Tokyo 
-Jubilo Iwata          0-2 Shimizu S-Pulse 
-Nagoya Grampus Eight  2-1 Sanfrecce Hiroshima 
-Cerezo Osaka          1-2 Kawasaki Frontale        [asdet] 
-Vissel Kobe           1-0 Avispa Fukuoka 
+Round: 15 
+Date: 5/27/2000
+
+; Kashima Antlers      ; 3-0; Kyoto Purple Sanga 
+; JEF United Ichihara  ; 0-2; Yokohama F. Marinos 
+; Kashiwa Reysol       ; 2-1; Gamba Osaka 
+; Verdy Kawasaki       ; 3-0; FC Tokyo 
+; Jubilo Iwata         ; 0-2; Shimizu S-Pulse 
+; Nagoya Grampus Eight ; 2-1; Sanfrecce Hiroshima 
+; Cerezo Osaka         ; 1-2 (asdet); Kawasaki Frontale     
+; Vissel Kobe          ; 1-0; Avispa Fukuoka 
 
 *                               W/OT  D  L/OT
 * 1.Yokohama F. Marinos     15  10/0  0  4/1  32-21 30  Winners First Stage 
@@ -215,155 +242,185 @@ Vissel Kobe           1-0 Avispa Fukuoka
 *15.Kawasaki Frontale       15   1/3  2  9/0  12-27 11 
 *16.JEF United Ichihara     15   2/1  1  8/3  15-27  9 
 
-Round 1 [Jun 24] 
-Kawasaki Frontale     0-1 Avispa Fukuoka 
-Nagoya Grampus Eight  0-3 Kashima Antlers 
-Gamba Osaka           2-1 Verdy Kawasaki 
-Sanfrecce Hiroshima   1-0 Vissel Kobe 
-FC Tokyo              3-0 Yokohama F. Marinos 
-Kashiwa Reysol        2-1 Jubilo Iwata 
-Kyoto Purple Sanga    3-2 JEF United Ichihara 
-Cerezo Osaka          3-1 Shimizu S-Pulse 
+Round: 1 
+Date: 6/24/2000
 
-Round 2 [Jul 1] 
-Verdy Kawasaki        1-0 Kashiwa Reysol 
-Jubilo Iwata          5-1 Nagoya Grampus Eight 
-Kashima Antlers       4-0 Kawasaki Frontale 
-JEF United Ichihara   2-2 Sanfrecce Hiroshima 
-Yokohama F. Marinos   0-1 Shimizu S-Pulse 
-Cerezo Osaka          2-0 Kyoto Purple Sanga 
-Vissel Kobe           1-3 Gamba Osaka 
-Avispa Fukuoka        1-2 FC Tokyo               [asdet] 
+; Kawasaki Frontale    ; 0-1; Avispa Fukuoka 
+; Nagoya Grampus Eight ; 0-3; Kashima Antlers 
+; Gamba Osaka          ; 2-1; Verdy Kawasaki 
+; Sanfrecce Hiroshima  ; 1-0; Vissel Kobe 
+; FC Tokyo             ; 3-0; Yokohama F. Marinos 
+; Kashiwa Reysol       ; 2-1; Jubilo Iwata 
+; Kyoto Purple Sanga   ; 3-2; JEF United Ichihara 
+; Cerezo Osaka         ; 3-1; Shimizu S-Pulse 
 
-Round 3 [Jul 8] 
-Kashima Antlers       2-1 Jubilo Iwata 
-Shimizu S-Pulse       0-1 Avispa Fukuoka 
-Kawasaki Frontale     0-3 FC Tokyo 
-Kyoto Purple Sanga    1-3 Yokohama F. Marinos 
-Kashiwa Reysol        3-2 Vissel Kobe            [asdet] 
-Nagoya Grampus Eight  2-2 Verdy Kawasaki 
-Gamba Osaka           1-0 JEF United Ichihara 
-Sanfrecce Hiroshima   3-1 Cerezo Osaka 
+Round: 2 
+Date: 7/1/2000
 
-Round 4 [Jul 15] 
-FC Tokyo              2-0 Shimizu S-Pulse 
-Jubilo Iwata          3-1 Kawasaki Frontale 
-JEF United Ichihara   1-0 Kashiwa Reysol 
-Verdy Kawasaki        0-2 Kashima Antlers 
-Yokohama F. Marinos   4-2 Sanfrecce Hiroshima 
-Cerezo Osaka          0-1 Gamba Osaka 
-Vissel Kobe           1-3 Nagoya Grampus Eight 
-Avispa Fukuoka        2-3 Kyoto Purple Sanga     [asdet] 
+; Verdy Kawasaki       ; 1-0; Kashiwa Reysol 
+; Jubilo Iwata         ; 5-1; Nagoya Grampus Eight 
+; Kashima Antlers      ; 4-0; Kawasaki Frontale 
+; JEF United Ichihara  ; 2-2; Sanfrecce Hiroshima 
+; Yokohama F. Marinos  ; 0-1; Shimizu S-Pulse 
+; Cerezo Osaka         ; 2-0; Kyoto Purple Sanga 
+; Vissel Kobe          ; 1-3; Gamba Osaka 
+; Avispa Fukuoka       ; 1-2 (asdet); FC Tokyo   
 
-Round 5 [Jul 22] 
-Kashima Antlers       3-0 Vissel Kobe 
-Kashiwa Reysol        4-0 Cerezo Osaka 
-Shimizu S-Pulse       2-2 Kawasaki Frontale 
-Jubilo Iwata          2-0 Verdy Kawasaki 
-Nagoya Grampus Eight  2-0 JEF United Ichihara 
-Kyoto Purple Sanga    0-3 FC Tokyo 
-Gamba Osaka           2-1 Yokohama F. Marinos 
-Sanfrecce Hiroshima   1-2 Avispa Fukuoka 
+Round: 3 
+Date: 7/8/2000
 
-Round 6 [Jul 26] 
-JEF United Ichihara   1-2 Kashima Antlers 
-FC Tokyo              1-2 Sanfrecce Hiroshima 
-Kawasaki Frontale     0-0 Verdy Kawasaki 
-Yokohama F. Marinos   1-0 Kashiwa Reysol 
-Shimizu S-Pulse       1-1 Kyoto Purple Sanga 
-Cerezo Osaka          0-3 Nagoya Grampus Eight 
-Vissel Kobe           2-3 Jubilo Iwata 
-Avispa Fukuoka        2-1 Gamba Osaka 
+; Kashima Antlers      ; 2-1; Jubilo Iwata 
+; Shimizu S-Pulse;       0-1; Avispa Fukuoka 
+; Kawasaki Frontale    ; 0-3; FC Tokyo 
+; Kyoto Purple Sanga   ; 1-3; Yokohama F. Marinos 
+; Kashiwa Reysol       ; 3-2 (asdet); Vissel Kobe
+; Nagoya Grampus Eight ; 2-2; Verdy Kawasaki 
+; Gamba Osaka          ; 1-0; JEF United Ichihara 
+; Sanfrecce Hiroshima  ; 3-1; Cerezo Osaka 
 
-Round 7 [Jul 29] 
-Kashima Antlers       0-1 Cerezo Osaka           [asdet] 
-Kashiwa Reysol        1-0 Avispa Fukuoka 
-Verdy Kawasaki        1-2 Vissel Kobe 
-Jubilo Iwata          3-1 JEF United Ichihara 
-Nagoya Grampus Eight  3-2 Yokohama F. Marinos 
-Kyoto Purple Sanga    3-1 Kawasaki Frontale 
-Gamba Osaka           2-1 FC Tokyo               [asdet] 
-Sanfrecce Hiroshima   1-0 Shimizu S-Pulse 
+Round: 4 
+Date: 7/15/2000
 
-Round 8 [Aug 5] 
-FC Tokyo              0-2 Kashiwa Reysol 
-JEF United Ichihara   1-4 Verdy Kawasaki 
-Kawasaki Frontale     2-1 Vissel Kobe 
-Yokohama F. Marinos   1-1 Kashima Antlers 
-Shimizu S-Pulse       2-1 Gamba Osaka            [asdet] 
-Kyoto Purple Sanga    3-1 Sanfrecce Hiroshima 
-Cerezo Osaka          3-0 Jubilo Iwata 
-Avispa Fukuoka        3-2 Nagoya Grampus Eight   [asdet] 
+; FC Tokyo             ; 2-0; Shimizu S-Pulse 
+; Jubilo Iwata         ; 3-1; Kawasaki Frontale 
+; JEF United Ichihara  ; 1-0; Kashiwa Reysol 
+; Verdy Kawasaki       ; 0-2; Kashima Antlers 
+; Yokohama F. Marinos  ; 4-2; Sanfrecce Hiroshima 
+; Cerezo Osaka         ; 0-1; Gamba Osaka 
+; Vissel Kobe          ; 1-3; Nagoya Grampus Eight 
+; Avispa Fukuoka       ; 2-3 (asdet); Kyoto Purple Sanga   
 
-Round 9 [Aug 12] 
-Kashima Antlers       1-1 Avispa Fukuoka 
-Kashiwa Reysol        1-0 Shimizu S-Pulse 
-Verdy Kawasaki        1-0 Cerezo Osaka 
-Jubilo Iwata          4-0 Yokohama F. Marinos 
-Nagoya Grampus Eight  4-1 FC Tokyo 
-Gamba Osaka           3-0 Kyoto Purple Sanga 
-Vissel Kobe           2-1 JEF United Ichihara 
-Sanfrecce Hiroshima   0-1 Kawasaki Frontale      [asdet] 
+Round: 5 
+Date: 7/22/2000
 
-Round 10 [Aug 19] 
-FC Tokyo              1-1 Kashima Antlers 
-Kawasaki Frontale     0-1 JEF United Ichihara 
-Yokohama F. Marinos   3-2 Verdy Kawasaki 
-Shimizu S-Pulse       1-2 Nagoya Grampus Eight 
-Kyoto Purple Sanga    1-2 Kashiwa Reysol 
-Cerezo Osaka          3-2 Vissel Kobe 
-Sanfrecce Hiroshima   2-3 Gamba Osaka 
-Avispa Fukuoka        2-1 Jubilo Iwata 
+; Kashima Antlers      ; 3-0; Vissel Kobe 
+; Kashiwa Reysol       ; 4-0; Cerezo Osaka 
+; Shimizu S-Pulse;       2-2; Kawasaki Frontale 
+; Jubilo Iwata         ; 2-0; Verdy Kawasaki 
+; Nagoya Grampus Eight ; 2-0; JEF United Ichihara 
+; Kyoto Purple Sanga   ; 0-3; FC Tokyo 
+; Gamba Osaka          ; 2-1; Yokohama F. Marinos 
+; Sanfrecce Hiroshima  ; 1-2; Avispa Fukuoka 
 
-Round 11 [Nov 8] 
-Kashima Antlers       2-1 Shimizu S-Pulse 
-JEF United Ichihara   0-1 Cerezo Osaka           [asdet] 
-Kashiwa Reysol        2-1 Sanfrecce Hiroshima    [asdet] 
-Verdy Kawasaki        0-0 Avispa Fukuoka 
-Jubilo Iwata          2-0 FC Tokyo 
-Nagoya Grampus Eight  0-1 Kyoto Purple Sanga 
-Gamba Osaka           4-0 Kawasaki Frontale 
-Vissel Kobe           2-4 Yokohama F. Marinos 
+Round: 6 
+Date: 7/26/2000
 
-Round 12 [Nov 11] 
-FC Tokyo              2-3 Verdy Kawasaki 
-Yokohama F. Marinos   1-0 JEF United Ichihara 
-Shimizu S-Pulse       1-0 Jubilo Iwata           [asdet] 
-Kyoto Purple Sanga    1-3 Kashima Antlers 
-Gamba Osaka           1-3 Kashiwa Reysol 
-Sanfrecce Hiroshima   4-0 Nagoya Grampus Eight 
-Kawasaki Frontale     4-3 Cerezo Osaka           [asdet] 
-Avispa Fukuoka        3-1 Vissel Kobe 
+; JEF United Ichihara  ; 1-2; Kashima Antlers 
+; FC Tokyo             ; 1-2; Sanfrecce Hiroshima 
+; Kawasaki Frontale    ; 0-0; Verdy Kawasaki 
+; Yokohama F. Marinos  ; 1-0; Kashiwa Reysol 
+; Shimizu S-Pulse;       1-1; Kyoto Purple Sanga 
+; Cerezo Osaka         ; 0-3; Nagoya Grampus Eight 
+; Vissel Kobe          ; 2-3; Jubilo Iwata 
+; Avispa Fukuoka       ; 2-1; Gamba Osaka 
 
-Round 13 [Nov 18] 
-Kashima Antlers       2-1 Sanfrecce Hiroshima    [asdet] 
-Verdy Kawasaki        2-0 Shimizu S-Pulse 
-Nagoya Grampus Eight  1-2 Gamba Osaka            [asdet] 
-Cerezo Osaka          1-2 Yokohama F. Marinos 
-JEF United Ichihara   4-3 Avispa Fukuoka         [asdet] 
-Jubilo Iwata          3-2 Kyoto Purple Sanga 
-Vissel Kobe           1-0 FC Tokyo 
-Kashiwa Reysol        1-0 Kawasaki Frontale 
+Round: 7 
+Date: 7/29/2000
 
-Round 14 [Nov 23] 
-Kashiwa Reysol        2-1 Nagoya Grampus Eight 
-FC Tokyo              1-0 JEF United Ichihara    [asdet] 
-Kawasaki Frontale     1-0 Yokohama F. Marinos    [asdet] 
-Shimizu S-Pulse       1-0 Vissel Kobe 
-Kyoto Purple Sanga    3-2 Verdy Kawasaki 
-Gamba Osaka           1-2 Kashima Antlers 
-Sanfrecce Hiroshima   0-3 Jubilo Iwata 
-Avispa Fukuoka        0-1 Cerezo Osaka 
+; Kashima Antlers      ; 0-1 (asdet); Cerezo Osaka         
+; Kashiwa Reysol       ; 1-0; Avispa Fukuoka 
+; Verdy Kawasaki       ; 1-2; Vissel Kobe 
+; Jubilo Iwata         ; 3-1; JEF United Ichihara 
+; Nagoya Grampus Eight ; 3-2; Yokohama F. Marinos 
+; Kyoto Purple Sanga   ; 3-1; Kawasaki Frontale 
+; Gamba Osaka          ; 2-1 (asdet); FC Tokyo             
+; Sanfrecce Hiroshima  ; 1-0; Shimizu S-Pulse 
 
-Round 15 [Nov 26] 
-Kashima Antlers       0-0 Kashiwa Reysol 
-JEF United Ichihara   1-2 Shimizu S-Pulse        [asdet] 
-Verdy Kawasaki        1-2 Sanfrecce Hiroshima    [asdet] 
-Yokohama F. Marinos   2-1 Avispa Fukuoka         [asdet] 
-Jubilo Iwata          4-0 Gamba Osaka 
-Nagoya Grampus Eight  1-0 Kawasaki Frontale 
-Cerezo Osaka          1-3 FC Tokyo 
-Vissel Kobe           2-1 Kyoto Purple Sanga     [asdet] 
+Round: 8 
+Date: 8/5/2000
+
+; FC Tokyo             ; 0-2; Kashiwa Reysol 
+; JEF United Ichihara  ; 1-4; Verdy Kawasaki 
+; Kawasaki Frontale    ; 2-1; Vissel Kobe 
+; Yokohama F. Marinos  ; 1-1; Kashima Antlers 
+; Shimizu S-Pulse;       2-1 (asdet); Gamba Osaka          
+; Kyoto Purple Sanga   ; 3-1; Sanfrecce Hiroshima 
+; Cerezo Osaka         ; 3-0; Jubilo Iwata 
+; Avispa Fukuoka       ; 3-2 (asdet); Nagoya Grampus Eight 
+
+Round: 9 
+Date: 8/12/2000
+
+; Kashima Antlers      ; 1-1; Avispa Fukuoka 
+; Kashiwa Reysol       ; 1-0; Shimizu S-Pulse 
+; Verdy Kawasaki       ; 1-0; Cerezo Osaka 
+; Jubilo Iwata         ; 4-0; Yokohama F. Marinos 
+; Nagoya Grampus Eight ; 4-1; FC Tokyo 
+; Gamba Osaka          ; 3-0; Kyoto Purple Sanga 
+; Vissel Kobe          ; 2-1; JEF United Ichihara 
+; Sanfrecce Hiroshima  ; 0-1 (asdet); Kawasaki Frontale    
+
+Round: 10 
+Date: 8/19/2000
+
+; FC Tokyo             ; 1-1; Kashima Antlers 
+; Kawasaki Frontale    ; 0-1; JEF United Ichihara 
+; Yokohama F. Marinos  ; 3-2; Verdy Kawasaki 
+; Shimizu S-Pulse;       1-2; Nagoya Grampus Eight 
+; Kyoto Purple Sanga   ; 1-2; Kashiwa Reysol 
+; Cerezo Osaka         ; 3-2; Vissel Kobe 
+; Sanfrecce Hiroshima  ; 2-3; Gamba Osaka 
+; Avispa Fukuoka       ; 2-1; Jubilo Iwata 
+
+Round: 11 
+Date: 11/8/2000
+
+; Kashima Antlers      ; 2-1; Shimizu S-Pulse 
+; JEF United Ichihara  ; 0-1 (asdet); Cerezo Osaka         
+; Kashiwa Reysol       ; 2-1 (asdet); Sanfrecce Hiroshima  
+; Verdy Kawasaki       ; 0-0; Avispa Fukuoka 
+; Jubilo Iwata         ; 2-0; FC Tokyo 
+; Nagoya Grampus Eight ; 0-1; Kyoto Purple Sanga 
+; Gamba Osaka          ; 4-0; Kawasaki Frontale 
+; Vissel Kobe          ; 2-4; Yokohama F. Marinos 
+
+Round: 12 
+Date: 11/11/2000
+
+; FC Tokyo             ; 2-3; Verdy Kawasaki 
+; Yokohama F. Marinos  ; 1-0; JEF United Ichihara 
+; Shimizu S-Pulse;       1-0 (asdet); Jubilo Iwata         
+; Kyoto Purple Sanga   ; 1-3; Kashima Antlers 
+; Gamba Osaka          ; 1-3; Kashiwa Reysol 
+; Sanfrecce Hiroshima  ; 4-0; Nagoya Grampus Eight 
+; Kawasaki Frontale    ; 4-3 (asdet); Cerezo Osaka         
+; Avispa Fukuoka       ; 3-1; Vissel Kobe 
+
+Round: 13 
+Date: 11/18/2000
+
+; Kashima Antlers      ; 2-1 (asdet); Sanfrecce Hiroshima  
+; Verdy Kawasaki       ; 2-0; Shimizu S-Pulse 
+; Nagoya Grampus Eight ; 1-2 (asdet); Gamba Osaka          
+; Cerezo Osaka         ; 1-2; Yokohama F. Marinos 
+; JEF United Ichihara  ; 4-3 (asdet); Avispa Fukuoka       
+; Jubilo Iwata         ; 3-2; Kyoto Purple Sanga 
+; Vissel Kobe          ; 1-0; FC Tokyo 
+; Kashiwa Reysol       ; 1-0; Kawasaki Frontale 
+
+Round: 14 
+Date: 11/23/2000
+
+; Kashiwa Reysol       ; 2-1; Nagoya Grampus Eight 
+; FC Tokyo             ; 1-0 (asdet); JEF United Ichihara  
+; Kawasaki Frontale    ; 1-0 (asdet); Yokohama F. Marinos  
+; Shimizu S-Pulse;       1-0; Vissel Kobe 
+; Kyoto Purple Sanga   ; 3-2; Verdy Kawasaki 
+; Gamba Osaka          ; 1-2; Kashima Antlers 
+; Sanfrecce Hiroshima  ; 0-3; Jubilo Iwata 
+; Avispa Fukuoka       ; 0-1; Cerezo Osaka 
+
+Round: 15 
+Date: 11/26/2000
+
+; Kashima Antlers      ; 0-0; Kashiwa Reysol 
+; JEF United Ichihara  ; 1-2 (asdet); Shimizu S-Pulse       
+; Verdy Kawasaki       ; 1-2 (asdet); Sanfrecce Hiroshima   
+; Yokohama F. Marinos  ; 2-1 (asdet); Avispa Fukuoka        
+; Jubilo Iwata         ; 4-0; Gamba Osaka 
+; Nagoya Grampus Eight ; 1-0; Kawasaki Frontale 
+; Cerezo Osaka         ; 1-3; FC Tokyo 
+; Vissel Kobe          ; 2-1 (asdet); Kyoto Purple Sanga    
 
 *                               W/OT  D  L/OT 
 * 1.Kashima Antlers         15   9/1  4  0/1  28-10 33  Winners Second Stage 
@@ -406,16 +463,17 @@ Vissel Kobe           2-1 Kyoto Purple Sanga     [asdet]
 *16.Kawasaki Frontale       30   3/4  4 19/0  26-56 21  Relegated
 
 
-Championship Playoff 
+Round: Final
+*Championship Playoff 
 
-First Leg [Dec 2, International Stadium Yokohama] 
-Yokohama F. Marinos   0-0 Kashima Antlers 
+*First Leg
+12/2/2000; Yokohama F. Marinos  ; 0-0; Kashima Antlers ; International Stadium Yokohama
 
-Second Leg [Dec 9, Tokyo National Stadium]
-Kashima Antlers       3-0 Yokohama F. Marinos   
-  [Takayuki SUZUKI 24, Akira NARAHASHI 39, Koji NAKATA 44]
+*Second Leg
+12/9/2000; Kashima Antlers      ; 3-0; Yokohama F. Marinos   ; Tokyo National Stadium
+Takayuki SUZUKI 24, Akira NARAHASHI 39, Koji NAKATA 44;
 
-Kashima Antlers champions 2000
+*Kashima Antlers champions 2000
 
 
 *Prepared and maintained by Atsushi Fujioka for the Rec.Sport.Soccer Statistics Foundation

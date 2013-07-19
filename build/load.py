@@ -110,23 +110,21 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-    load_argentina()
-    load_mexico()
-    load_uruguay()
-    return
-
-    return
-    load_colombia()
-
-    load_chile()
-
-    load_china()
-    load_australia()    
-    return
 
     load_japan()
+    load_uruguay()
+    load_china()
+    load_australia()    
     load_korea()
     return
+
+    load_argentina()
+    load_mexico()
+
+    load_colombia()
+    load_chile()
+
+
 
     load_mls() 
     load_conmebol()
@@ -136,9 +134,6 @@ def load_games():
     load_concacaf_international()
     load_world_international()
     load_concacaf()
-
-
-
     load_usmnt()
     load_uncaf()
 
@@ -147,17 +142,11 @@ def load_games():
     load_usa_cups()
     load_world()
 
-
     load_uncaf_international()
-
 
     load_women()
 
-
-
-
     load_oceania()
-
 
 
 
@@ -172,9 +161,6 @@ def load_games():
     load_mixed_confederation()
 
     load_usl()
-
-
-
 
     load_early_friendlies()
     load_modern_friendlies()
@@ -193,17 +179,10 @@ def load_games():
     load_ny()
     load_canada()
 
-
-
-
     load_ncaa()
     load_indoor()
 
     #load_brazil_international()
-    # scrapers
-    #load_fifa()
-    #load_mediotiempo()
-
 
 
 def load_excel_standings(coll, fn):
@@ -391,13 +370,8 @@ def load_uruguay():
     for year in range(1994, 1995):
         load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
 
-
-    #for year in range(2010, 2011):
-    #    load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
-
-
-
-    return
+    for year in range(2010, 2011):
+        load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
 
     for year in range(1932, 1960):
         load_games_standard('uruguay', 'domestic/country/uruguay/%s' % year)
@@ -821,13 +795,29 @@ def load_china():
     load_standings_standard('china', 'domestic/country/china')
     generic_load(soccer_db.china_awards, awards.process_china_awards)
 
+    for e in range(2004, 2011):
+        load_games_standard('china', 'domestic/country/china/league/%s' % e)
+
+    load_games_standard('china', 'domestic/country/china/league/2012')
+
+
 
 def load_japan():
     load_standings_standard('japan', 'domestic/country/japan')
+    
+    for e in range(1997, 2003):
+        load_games_standard('japan', 'domestic/country/japan/%s' % e)
+
+    for e in range(2010, 2011):
+        load_games_standard('japan', 'domestic/country/japan/%s' % e)
 
 
 def load_korea():
     load_standings_standard('korea', 'domestic/country/korea')
+
+    for e in range(2008, 2011):
+        load_games_standard('korea', 'domestic/country/korea/%s' % e)
+
 
 
 def load_australia():
@@ -836,10 +826,6 @@ def load_australia():
     load_games_standard('australia', 'domestic/country/australia/playoffs')
     generic_load(soccer_db.australia_awards, awards.process_australia_awards)
 
-
-def load_mediotiempo():
-    from scrapers import mediotiempo2
-    generic_load(soccer_db.mediotiempo_games, lambda: mediotiempo2.scrape_games(range(6700, 9000)))
 
 def load_mexico():
 
@@ -1198,10 +1184,12 @@ def load_fifa():
     generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
 
     load_fifa_competition('FIFA U-17 World Cup')
+    load_fifa_competition('FIFA U-20 World Cup')
+
     load_fifa_competition('Olympic Games')
     load_fifa_competition('FIFA Club World Cup')
     load_fifa_competition('FIFA Confederations Cup')
-    load_fifa_competition('FIFA U-20 World Cup')
+
 
 
 

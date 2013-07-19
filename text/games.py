@@ -290,6 +290,12 @@ class GeneralProcessor(object):
             self.misconduct.extend(self.process_misconduct(s))
             return 
 
+        if line.startswith("Red Cards:"):
+            s = tag_data(line, "Red Cards:")
+            self.misconduct.extend(self.process_misconduct(s))
+            return 
+
+
         if line.startswith("Yellow Cards:"):
             s = tag_data(line, "Yellow Cards:")
             self.misconduct.extend(self.process_misconduct(s))
