@@ -3400,7 +3400,7 @@ NASL; 1978; New England; ; 26; Washington; a; 2,1; ; Flanagan, Wit; 8360; abcghi
 NASL; 1978; New England; ; 30; Tulsa; h; 2,1; ; Abrahams, Gibbins; 9639; abcf*ghiklmnoq*s*
 NASL; 1978; New England; ; 2; Detroit; h; 0,1; ; ; 24696; abcgijklmnoq*
 NASL; 1978; New England; ; 5; Memphis; a; 3,2; +; Powell, Abrahams 2; 12128; abcgjklmnoq
-NASL Playoffs; 1978; New England; ; 9; Fort Lauderdale; h; 1,3; ; Own Goal, Ingram 2; 18672; abcfghi*klmnoq*
+NASL Playoffs; 1978; New England; ; 9; Fort Lauderdale; h; 1,3; ; Own Goal; 18672; abcfghi*klmnoq*
 NASL; 1978; New York; 4; 2; Fort Lauderdale; h; 7,0; ; Bogicevic, Chinaglia 3, Hunt 3; 44442; abcdef*ghijklm*n
 NASL; 1978; New York; ; 9; Los Angeles; a; 1,0; ; Chinaglia; 23681; abdef*ghijklno*
 NASL; 1978; New York; ; 16; Tulsa; h; 1,0; ; Beckenbauer; 41216; acdefghijkno*p*
@@ -3758,7 +3758,7 @@ NASL; 1978; Tulsa; ; 22; Colorado; a; 1,2; ; Earle; 5268; adeijlnqr*s234*
 NASL; 1978; Tulsa; ; 27; Houston; h; 4,0; ; Caskey, Zec, Redfern, Earle; 19898; ade*jklnqrs*x12
 NASL; 1978; Tulsa; ; 30; New England; a; 1,2; ; Own Goal; 9639; adi*jklnqrs*x123*
 NASL; 1978; Tulsa; ; 4; Los Angeles; a; 1,2; ; Earle; 3822; adi*jklm*qrx123*4
-NASL Playoffs; 1978; Tulsa; ; 10; Minnesota; a; 1,3; ; ; 36478; adejklmqs*x123*
+NASL Playoffs; 1978; Tulsa; ; 10; Minnesota; a; 1,3; ; Caskey ; 36478; adejklmqs*x123*
 NASL; 1978; Vancouver; 4; 2; San Diego; h; 1,4; ; Hector; 11425; abcdefghijk
 NASL; 1978; Vancouver; ; 9; Seattle; h; 3,0; ; R. Lenarduzzi, Hector, Hinton; 11232; abcdghijklmn*o*
 NASL; 1978; Vancouver; ; 16; Rochester; h; 4,1; ; Craven, Parsons, Possee, Hector; 9266; abcdghijklm
@@ -3949,7 +3949,7 @@ NASL; 1979; Dallas; ; 1; Tulsa; h; 4,3; ; Zequinha, Gomez 3; 7852; acd*eh*imorsu
 NASL; 1979; Dallas; ; 3; Tampa Bay; a; 2,1; ; Zequinha, Lippins; 31136; abcehimorsv
 NASL; 1979; Dallas; ; 8; New England; h; 3,0; ; Zequinha, Lippins, Pesa; 8691; abce*h*imop*rsuvw
 NASL; 1979; Dallas; ; 11; Houston; a; 1,3; ; Kewley; 12315; acefg*h*jmp*rsuvw
-NASL Playoffs; 1979; Dallas; ; 5; Vancouver; h; 2,3; ; Kewley, Zequinha; 8829; abcef*h*imorsuv
+NASL Playoffs; 1979; Dallas; ; 15; Vancouver; h; 2,3; ; Kewley, Zequinha; 8829; abcef*h*imorsuv
 NASL Playoffs; 1979; Dallas; ; 18; Vancouver; a; 1,2; ; Pecher; 30328; abcfh*imorsuv
 NASL; 1979; Detroit; 3; 24; Dallas; a; 0,1; ; ; 9039; abcdefg*hijklm*
 NASL; 1979; Detroit; ; 8; Edmonton; a; 0,1; ; ; 13537; bcdefhijklm*n
@@ -4043,7 +4043,7 @@ NASL; 1979; Fort Lauderdale; ; 1; Rochester; h; 1,2; ; Walker; 13057; abdefg*h*k
 NASL; 1979; Fort Lauderdale; ; 4; New England; a; 4,3; ; Irving, Walker 3; 6129; abdefkp*vwxy1
 NASL; 1979; Fort Lauderdale; ; 8; Chicago; a; 0,2; ; ; 8612; adefg*h*kpvwxy1
 NASL; 1979; Fort Lauderdale; ; 10; Philadelphia; h; 4,1; ; Park, Cubillas 2, Muller; 14285; ab*degkl*npvwxy1*
-NASL Playoffs; 1979; Fort Lauderdale; ; 1; Chicago; a; 0,2; ; ; 10019; adefklnpv*wxy
+NASL Playoffs; 1979; Fort Lauderdale; ; 15; Chicago; a; 0,2; ; ; 10019; adefklnpv*wxy
 NASL Playoffs; 1979; Fort Lauderdale; ; 18; Chicago; h; 0,1; ; ; 13691; acdefg*kl*np*vwxy
 NASL; 1979; Houston; 3; 31; Toronto; h; 2,1; *; Haaskivi; 8589; abcdefghi*jklm*
 NASL; 1979; Houston; ; 7; Dallas; a; 1,0; ; Haaskivi; 8564; abcdefgijklm*n*
@@ -5277,8 +5277,8 @@ NASL; 1980; Seattle; ; 9; New York; h; 0,1; ; ; 49606; abcdefh*ijkmqr*
 NASL; 1980; Seattle; ; 16; Chicago; a; 3,1; ; Peters 3; 16196; abcefijknrs
 NASL; 1980; Seattle; ; 22; Edmonton; a; 1,3; ; Nish; 13421; abceijkmnqr*s
 NASL Playoffs; 1980; Seattle; ; 27; Vancouver; a; 2,1; +; Peterson, Davies; 27231; ab*cefijkmnqs
-NASL Playoffs; 1980; Seattle; ; 30; Vancouver; h; 3,2; ; Nish, Peterson, Hutchinson; 35254; acefijkmnqs
-NASL Playoffs; 1980; Seattle; ; 4; Los Angeles; a; 0,3; ; ; 13466; ab*cefhikmno*qr*s
+NASL Playoffs; 1980; Seattle; ; 30; Vancouver; h; 3,1; ; Nish, Peterson, Hutchinson; 35254; acefijkmnqs
+NASL Playoffs; 1980; Seattle; ; 3; Los Angeles; a; 0,3; ; ; 13466; ab*cefhikmno*qr*s
 NASL Playoffs; 1980; Seattle; ; 5; Los Angeles; h; 4,0; ; Greave, Buttle, Peterson 2; 32564; ab*cefijkmno*qr*s
 NASL Playoffs; 1980; Seattle; ; SO-M; Los Angeles; h; 1,2; *; Davies; ; ab*cefijkmnqr*s
 NASL; 1980; Tampa Bay; 3; 29; Washington; h; 3,2; *; Kozic, Roberts; 31085; abcdefghijk
@@ -5730,7 +5730,7 @@ NASL; 1981; Jacksonville; ; 11; Fort Lauderdale; h; 2,1; +; Green 2; 18088; abce
 NASL; 1981; Jacksonville; ; 16; Atlanta; a; 2,1; ; Marasco, Cantillo; 5107; ab*cefhijlmnor
 NASL; 1981; Jacksonville; ; 19; Edmonton; a; 5,0; ; Berrio, Brown, Zec, Green 2; 5748; abcefgij*lmop*q*r
 NASL Playoffs; 1981; Jacksonville; ; 23; Atlanta; h; 3,2; +; Green 2, Newton; 9287; abcefgh*ij*lmn*or
-NASL Playoffs; 1981; Jacksonville; ; 26; Atlanta; a; 2,1; ; Green 2; 6572; abcefghlmn*or
+NASL Playoffs; 1981; Jacksonville; ; 25; Atlanta; a; 2,1; ; Green 2; 6572; abcefghlmn*or
 NASL Playoffs; 1981; Jacksonville; ; 2; San Diego; h; 2,1; +; Green, Newton; 12252; abcefghi*jlmn*q*r
 NASL Playoffs; 1981; Jacksonville; ; 6; San Diego; a; 1,2; ; Newton; 14428; abcefghi*jlmn*q*r
 NASL Playoffs; 1981; Jacksonville; ; 9; San Diego; a; 1,3; ; Marasco; 14015; afghij*lmnoqr
@@ -5804,7 +5804,7 @@ NASL; 1981; Minnesota; ; 19; Dallas; h; 2,1; ; Alonso, Hamilton; 18635; abcdfjmo
 NASL Playoffs; 1981; Minnesota; ; 22; Tulsa; a; 3,1; ; Futcher 2, Alonso; 16205; abcdflmopqt
 NASL Playoffs; 1981; Minnesota; ; 26; Tulsa; h; 1,0; *; ; 10722; abcdfg*lmopqt
 NASL Playoffs; 1981; Minnesota; ; 2; Fort Lauderdale; h; 0,3; ; ; 11918; abcde*fh*lmopqr*t
-NASL Playoffs; 1981; Minnesota; ; 5; Fort Lauderdale; a; 0,3; ; ; 10278; abdefh*k*lmopqt
+NASL Playoffs; 1981; Minnesota; ; 6; Fort Lauderdale; a; 0,3; ; ; 10278; abdefh*k*lmopqt
 NASL; 1981; Montreal; 4; 11; Washington; a; 0,1; ; ; 12593; abcd*efghijk*lm
 NASL; 1981; Montreal; ; 18; Toronto; h; 2,1; ; Parkinson 2; 27060; abcdehijlmno*
 NASL; 1981; Montreal; ; 25; Dallas; a; 3,1; ; O'Brien 2, Vosmaer; 5809; abcdeg*hijlmnp*
@@ -5842,7 +5842,7 @@ NASL Playoffs; 1981; Montreal; ; 27; Los Angeles; a; 2,3; ; Hill, Willey; 7529; 
 NASL Playoffs; 1981; Montreal; ; 30; Los Angeles; a; 2,1; +; O'Brien, Hill; 8812; acdhijk*lmnps
 NASL Playoffs; 1981; Montreal; ; 2; Chicago; h; 3,2; ; Hill, Sutevski, Willey; 58542; acdhijlmnps
 NASL Playoffs; 1981; Montreal; ; 5; Chicago; a; 2,4; ; Willey, Parkinson; 24648; acde*g*hijk*lmnps
-NASL Playoffs; 1981; Montreal; ; 9; Chicago; a; 2,4; ; Parkinson, Hill; 27489; acdeg*hijmnpq*s
+NASL Playoffs; 1981; Montreal; ; 10; Chicago; a; 2,4; ; Parkinson, Hill; 27489; acdeg*hijmnpq*s
 NASL; 1981; New York; 3; 29; San Jose; a; 3,0; ; Chinaglia 2, Cabanas; 20671; abcdefghijkl*
 NASL; 1981; New York; ; 4; Jacksonville; a; 1,2; *; Chinaglia; 12140; abcdfghijklm*
 NASL; 1981; New York; ; 12; Minnesota; h; 3,1; ; Chinaglia 3; 40378; abcde*fghijk*ln
@@ -6398,7 +6398,7 @@ NASL Playoffs; 1982; New York; ; 25; Tulsa; h; 5,0; ; Chinaglia 2, Bogicevic, Bu
 NASL Playoffs; 1982; New York; ; 28; Tulsa; a; 0,1; ; ; 15817; bcd*e*hjnpstuvw
 NASL Playoffs; 1982; New York; ; 1; Tulsa; h; 1,0; ; Hunt; 24209; cdghjm*npstuv
 NASL Playoffs; 1982; New York; ; 5; San Diego; h; 2,1; ; Cabanas, Durgan; 34653; cde*ghjm*npstuv
-NASL Playoffs; 1982; New York; ; 8; San Diego; a; 2,1; ; Cabanas, Chinaglia; 13074; abcdehilnqs*v
+NASL Playoffs; 1982; New York; ; 13; San Diego; a; 2,1; ; Cabanas, Chinaglia; 13074; abcdehilnqs*v
 NASL Playoffs; 1982; New York; ; 18; Seattle; San Diego; 1,0; ; Chinaglia; 22634; abcdeghj*lnsv
 NASL; 1982; Portland; 4; 9; Seattle; a; 1,0; ; Bain; 14286; abcdefghijk
 NASL; 1982; Portland; ; 17; Chicago; a; 2,1; *; Mitchell; 13243; abcdefghijkl*m*
@@ -6675,7 +6675,7 @@ NASL; 1982; Vancouver; ; 14; Edmonton; a; 0,1; ; ; 2631; bfgijkln*o*pqst
 NASL; 1982; Vancouver; ; 18; Seattle; a; 2,1; ; Lorimer, Valentine; 29488; bfgijklmn*o*pqt
 NASL; 1982; Vancouver; ; 21; San Diego; h; 1,2; *; Yorath; 27103; bdfgjklmn*pqt
 NASL Playoffs; 1982; Vancouver; ; 25; San Diego; a; 1,5; ; Lorimer; 7267; bdfgijlmn*pqt
-NASL Playoffs; 1982; Vancouver; ; 28; San Diego; h; 1,0; ; Hankin; 18253; bf*gijkmno*pqst
+NASL Playoffs; 1982; Vancouver; ; 29; San Diego; h; 1,0; ; Hankin; 18253; bf*gijkmno*pqst
 NASL Playoffs; 1982; Vancouver; ; 2; San Diego; a; 1,2; ; Taylor; 8857; bf*gijklmn*opqt
 NASL; 1983; Team America; 4; 23; Seattle; a; 1,0; *; ; 16736; abcdefghijk*l
 NASL; 1983; Team America; ; 8; Tulsa; h; 1,0; ; Green; 14211; abcdefghijk*lm*
@@ -6841,7 +6841,7 @@ NASL Playoffs; 1983; Montreal; ; 6; New York; a; 4,2; ; Towers, Willey, Quinn 2;
 NASL Playoffs; 1983; Montreal; ; 12; New York; h; 1,0; *; ; 20726; bcefghijk*mpr*s
 NASL Playoffs; 1983; Montreal; ; 18; Tulsa; a; 1,2; *; Mitchell; 10625; bcefghijk*mpr*s
 NASL Playoffs; 1983; Montreal; ; 26; Tulsa; h; 1,0; ; Lodeweges; 16185; bcefghijkl*mp
-NASL Playoffs; 1983; Montreal; ; 28; Tulsa; a; 0,2; ; ; 18090; bcefghijkl*mpr*s
+NASL Playoffs; 1983; Montreal; ; 28; Tulsa; a; 0,3; ; ; 18090; bcefghijkl*mpr*s
 NASL; 1983; New York; 4; 24; Toronto; a; 1,2; ; Chinaglia; 25375; abcdefg*hijkl
 NASL; 1983; New York; ; 1; Montreal; h; 6,0; ; Romero 3, Cabanas, Chinaglia 2; 41946; abcdef*g*hijklm
 NASL; 1983; New York; ; 4; Fort Lauderdale; a; 1,4; ; Chinaglia; 13741; abc*efg*ijklmno
