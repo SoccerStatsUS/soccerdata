@@ -5,6 +5,14 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'Milwaukee Wave',
+        'founded': 1984,
+        'city': 'Milwaukee, WI',
+        },
+
+
     {
         'name': 'Wisconsin Rebels',
         'city': 'Menasha, WI',

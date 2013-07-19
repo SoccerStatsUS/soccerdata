@@ -5,6 +5,16 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Arizona Sandsharks',
+        'city': 'Phoenix, AZ',
+        'founded': 1992,
+        'dissolved': 1997,
+        },
+
+
     {
         'name': 'Arizona Condors',
         'city': 'Mesa, AZ',

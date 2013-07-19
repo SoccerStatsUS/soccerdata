@@ -6,6 +6,9 @@ import datetime
 l = [
 
 
+    # division 1
+
+
     # Need to separate later Philadelphia FC's.
     {
         'name': 'Philadelphia Field Club',
@@ -23,6 +26,70 @@ l = [
         },
 
 
+    {
+        'name': 'Philadelphia Atoms',
+        'founded': 1973,
+        'dissolved': 1976,
+        'city': 'Philadelphia, PA',
+        },
+
+
+    {
+        'name': 'Philadelphia Union',
+        'founded': 2008,
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Union Reserves',
+        'city': 'Philadelphia, PA',
+        },
+
+
+    # USL
+
+    {
+        'name': 'Pittsburgh Riverhounds',
+        'city': 'Pittsburgh, PA',
+        'founded': 1999,
+        },
+
+    {
+        'name': 'Lehigh Valley Steam',
+        'city': 'Lehigh Valley, PA',
+        'founded': 1999,
+        'dissolved': 1999,
+        },
+
+
+    {
+        'name': 'Hershey Wildcats',
+        'city': 'Hershey, PA',
+        'founded': 1997,
+        'dissolved': 2001,
+        },
+
+
+
+
+
+    # indoor
+
+    {
+        'name': 'Pittsburgh Stingers',
+        'founded': 1994,
+        'dissolved': 1995,
+        'city': 'Pittsburgh, PA',
+        },
+
+    {
+        'name': 'Philadelphia Kixx',
+        'city': 'Philadelphia, PA
+        'founded': 1995,
+        'dissolved': 2010,
+        },
+
+
 
     # amateurs?
     {
@@ -36,21 +103,23 @@ l = [
 
 
     {
-        'name': 'Philadelphia Union',
-        'founded': 2008,
-        'city': 'Philadelphia, PA',
-        },
-
-{ 
-        'name': 'Philadelphia Union Reserves',
-        'city': 'Philadelphia, PA',
-        },
-
-
-    {
         'name': 'Beadling SC',
         'city': 'Pittsburgh, PA',
         'founded': 1898,
+        },
+
+    {
+        'name': 'Philadelphia Charge',
+        'city': 'Phildadelphia, PA',
+        'founded': 2001,
+        'dissolved': 2003,
+        },
+
+    {
+        'name': 'Philadelphia Charge',
+        'city': 'Phildadelphia, PA',
+        'founded': 2009,
+        'dissolved': 2012,
         },
 
     {

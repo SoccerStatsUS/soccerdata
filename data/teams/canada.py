@@ -5,6 +5,61 @@ import datetime
 
 l = [
 
+    # division 1
+
+
+
+    {
+        'name': 'Calgary Boomers',
+        'founded': 1981,
+        'dissolved': 1981,
+        'city': 'Calgary, AB',
+        },
+
+
+    {
+        'name': 'Edmonton Drillers',
+        'founded': 1979,
+        'dissolved': 1982,
+        'city': 'Edmonton, AB',
+        },
+
+    {
+        'name': 'Montreal Olympique',
+        'founded': 1971,
+        'dissolved': 1973,
+        'city': 'Montreal, QC',
+        },
+
+    {
+        'name': 'Montreal Manic',
+        'founded': 1981,
+        'dissolved': 1983,
+        'city': 'Monteal, QC',
+        },
+
+
+
+
+    {
+        'name': 'Toronto Falcons',
+        'founded': 1967,
+        'dissolved': 1968,
+        'city': 'Toronto, ON',
+        },
+    {
+        'name': 'Toronto Blizzard',
+        'founded': 1971,
+        'dissolved': 1984,
+        'city': 'Toronto, ON',
+        },
+
+    {
+        'name': 'Vancouver Royals',
+        'founded': 1967,
+        'dissolved': 1968,
+        'city': 'Vancouver, BC',
+        },
 
     {
         'name': 'Toronto FC',
@@ -12,35 +67,40 @@ l = [
         'city': 'Toronto, ON',
         },
 
-
     {
         'name': 'Vancouver Whitecaps',
         'founded': datetime.datetime(1973, 12, 11),
         'city': 'Vancouver, BC',
         },
 
-
-{ 
-        'name': 'Montreal Impact Reserves',
-        'city': 'Montreal, QC',
-        },
-
-{ 
-        'name': 'Toronto FC Reserves',
-        'city': 'Toronto, ON',
-        },
-
-{ 
-        'name': 'Vancouver Whitecaps Reserves',
-        'city': 'Vancouver, BC',
-        },
-
-
     {
         'name': 'Montreal Impact',
         'founded': 1992,
         'city': 'Montreal, Quebec',
         },
+
+    { 
+        'name': 'Montreal Impact Reserves',
+        'city': 'Montreal, QC',
+        },
+
+    { 
+        'name': 'Toronto FC Reserves',
+        'city': 'Toronto, ON',
+        },
+
+    { 
+        'name': 'Toronto Greenbacks',
+        'city': 'Toronto, ON',
+        },
+
+    { 
+        'name': 'Vancouver Whitecaps Reserves',
+        'city': 'Vancouver, BC',
+        },
+
+
+
 
     {
         'name': 'Montreal Carsteel',

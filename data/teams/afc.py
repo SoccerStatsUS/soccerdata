@@ -228,9 +228,15 @@ l = [
         },
 
     {
-        'name': 'Sangju Sangmu Phoenix',
+        'name': 'Sangju Sangmu',
         'founded': 1984,
         'city': 'Sangju, South Korea',
+        },
+
+    {
+        'name': 'Gwangju FC',
+        'founded': 2010,
+        'city': 'Gwangju, South Korea',
         },
 
     {

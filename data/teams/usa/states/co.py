@@ -5,6 +5,15 @@ import datetime
 
 l = [
 
+    # women
+
+    {
+        'name': 'Real Colorado Cougars',
+        'city': 'Highlands Ranch, CO',
+        'founded': 2003,
+        },
+
+
     {
         'name': 'Colorado Rapids',
         'founded': 1996,

@@ -5,6 +5,26 @@ import datetime
 
 l = [
 
+    # Division 1
+
+    {
+        'name': 'Atlanta Apollos',
+        'founded': 1967, 
+        'dissolved': 1981,
+        'city': 'Atlanta, GA',
+        },
+
+    # USL
+
+
+    {
+        'name': 'Atlanta Silverbacks',
+        'city': 'Atlanta, GA',
+        'founded': 1998,
+        },
+
+
+
     {
         'name': 'Atlanta Blackhawks',
         'city': 'Atlanta, GA',

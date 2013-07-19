@@ -5,12 +5,17 @@ import datetime
 
 l = [
 
+    # indoor
+
     {
-        'name': 'Las Vegas Quicksilver',
-        'city': 'Las Vegas, NV',
-        'founded': 1994,
+        'name': 'Las Vegas Dustdevils',
+        'founded': datetime.datetime(1992, 12, 1),
         'dissolved': 1995,
+        'city': 'Las Vegas, NV',
         },
+
+    # division 1
+
 
     {
         'name': 'Las Vegas Quicksilvers',
@@ -18,6 +23,25 @@ l = [
         'founded': 1976,
         'dissolved': 1978,
         },
+
+    {
+        'name': 'Las Vegas Quicksilver',
+        'city': 'Las Vegas, NV',
+        'founded': 1994,
+        'dissolved': 1995,
+        },
+
+
+    # usl
+
+
+    {
+        'name': 'Reno Rattlers',
+        'city': 'Reno, NV',
+        'founded': 1994,
+        'dissolved': 1998,
+        },
+
 
     {
         'name': 'Las Vegas Seagulls',

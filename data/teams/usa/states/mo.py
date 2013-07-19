@@ -5,6 +5,21 @@ import datetime
 
 l = [
 
+    # division 1
+
+    {
+        'name': 'Kansas City Spurs',
+        'founded': 1968,
+        'dissolved': 1970,
+        'city': 'Kansas City, MO',
+        },
+
+    {
+        'name': 'St. Louis Stars',
+        'founded': 1967,
+        'dissolved': 1977,
+        'city': 'St. Louis, MO',
+        },
 
     {
         'name': 'Sporting Kansas City',
@@ -16,6 +31,44 @@ l = [
     { 
         'name': 'Sporting Kansas City Reserves',
         'city': 'Kansas City, MO',
+        },
+
+
+    # indoor
+
+    {
+        'name': 'St. Louis Ambush',
+        'founded': 1991,
+        'dissolved': 2000,
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'Kansas City Comets',
+        'founded': 1989,
+        'dissolved': 2005,
+        'city': 'Kansas City, MO',
+        },
+
+
+    {
+        'name': 'Missouri Comets',
+        'city': 'Independence, MO',
+        'founded': 2010,
+        },
+
+    # women
+
+    { 
+        'name': 'Saint Louis Athletica',
+        'city': 'St. Louis, MO',
+        'founded': 2008,
+        'dissolved': 2010,
+        },
+
+    { 
+        'name': 'Christian Brothers College',
+        'city': 'St. Louis, MO',
         },
 
 

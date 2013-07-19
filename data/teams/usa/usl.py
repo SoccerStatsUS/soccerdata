@@ -5,53 +5,11 @@ import datetime
 
 l = [
 
-    {
-        'name': 'Northern Virginia Royals',
-        'city': 'Manassas, VA',
-        'founded': 1998,
-        },
-    {
-        'name': 'Real Maryland Monarchs',
-        'city': 'Rockville, MD',
-        'founded': 2007,
-        },
-    {
-        'name': 'Virginia Beach Piranhas',
-        'city': 'Virginia Beach, VA',
-        'founded': 2006,
-        },
-    {
-        'name': 'Fredericksburg Hotspur',
-        'city': 'Fredericksburg, VA',
-        'founded': 2010,
-        },
-    {
-        'name': 'Laredo Heat',
-        'city': 'Laredo, TX',
-        'founded': 2004,
-        },
-    {
-        'name': 'Baton Rouge Capitals',
-        'city': 'Baton Rouge, LA',
-        'founded': 2007,
-        },
-    {
-        'name': 'West Texas United Sockers',
-        'city': 'Midland, TX',
-        'founded': 2008
-        },
 
     {
         'name': 'Mississippi Brilla',
         'city': 'Jackson, MI',
         'founded': 2006,
-        },
-
-    {
-        'name': 'Reno Rattlers',
-        'city': 'Reno, NV',
-        'founded': 1994,
-        'dissolved': 1998,
         },
 
     {
@@ -96,15 +54,6 @@ l = [
         'city': 'Raleigh, NC',
         },
 
-    {
-        'name': 'Richmond Kickers',
-        'city': 'Richmond, VA',
-        },
-
-    {
-        'name': 'Virginia Beach Mariners',
-        'city': 'Virginia Beach, VA',
-        },
 
     {
         'name': 'Los Angeles Salsa',
@@ -134,7 +83,7 @@ l = [
 
     {
         'name': 'New Orleans Riverboat Gamblers',
-        'city': 'New Orleans, MO',
+        'city': 'New Orleans, LA',
         },
 
     {
@@ -169,60 +118,12 @@ l = [
         },
 
 
-    {
-        'name': 'New York Centaurs',
-        'city': 'New York, NY',
-        'founded': 1995,
-        'dissolved': 1995,
-        # Technically, the Centaurs absorbed the Fever.
-        },
-
-
-    {
-        'name': 'New York Fever',
-        'city': 'New York, NY',
-        'founded': 1994,
-        'dissolved': 1996,
-        },
 
     {
         'name': 'Myrtle Beach Boyz',
         'city': 'Myrtle Beach, SC',
         'founded': 1995,
         'dissolved': 1995,
-        },
-
-    {
-        'name': 'Pittsburgh Riverhounds',
-        'city': 'Pittsburgh, PA',
-        'founded': 1999,
-        },
-
-    {
-        'name': 'Lehigh Valley Steam',
-        'city': 'Lehigh Valley, PA',
-        'founded': 1999,
-        'dissolved': 1999,
-        },
-
-    {
-        'name': 'Minnesota Thunder',
-        'city': 'Blaine, MN',
-        'founded': 1990,
-        'dissolved': 2009,
-        },
-
-    {
-        'name': 'Orange County Blue Star', 
-        'city': 'Irvine, CA',
-        'founded': 1997,
-        },
-
-    {
-        'name': 'Twin Cities Tornado',
-        'city': 'Blaine, MN',
-        'founded': 1997,
-        'dissolved': 2001,
         },
 
 
@@ -241,12 +142,6 @@ l = [
         'dissolved': 2004,
         },
 
-    {
-        'name': 'Staten Island Vipers',
-        'city': 'Staten Island, NY',
-        'founded': 1998,
-        'dissolved': 1999,
-        },
 
     {
         'name': 'San Francisco Seals',
@@ -256,37 +151,12 @@ l = [
         },
 
     {
-        'name': 'Rochester Rhinos',
-        'city': 'Rochester, NY',
-        'founded': 1996,
-        },
-    {
         'name': 'Spokane Shadow',
         'city': 'Spokane, WA',
         'founded': 1996,
         'dissolved': 2005,
         },
 
-
-    {
-        'name': 'Hershey Wildcats',
-        'city': 'Hershey, PA',
-        'founded': 1997,
-        'dissolved': 2001,
-        },
-
-
-    {
-        'name': 'Michigan Bucks',
-        'city': 'Pontiac, MI',
-        'founded': 1995,
-        },
-
-    {
-        'name': 'Westchester Flames',
-        'city': 'New Rochelle, NY',
-        'founded': 1999,
-        },
 
     {
         'name': 'Central Coast Roadrunners',
@@ -302,19 +172,8 @@ l = [
         'dissolved': 2001,
         },
 
-    {
-        'name': 'Brooklyn Knights',
-        'city': 'Brooklyn, NY',
-        'founded': 1999,
-        },
 
 
-    {
-        'name': 'Austin Aztex',
-        'city': 'Austin, TX',
-        'founded': 1998,
-        'dissolved': 2010,
-        },
 
     {
         'name': 'Delaware Wizards',
@@ -356,11 +215,6 @@ l = [
         'dissolved': 1997,
         },
 
-    {
-        'name': 'El Paso Patriots',
-        'city': 'El Paso, TX',
-        'founded': 1989,
-        },
 
     {
         'name': 'South Carolina Shamrocks',
@@ -398,12 +252,6 @@ l = [
         },
 
 
-    {
-        'name': 'Austin Lone Stars',
-        'city': 'Austin, TX',
-        'founded': 1987,
-        'dissolved': 2000,
-        },
 
 
     {
@@ -420,7 +268,6 @@ l = [
         'founded': 1997,
         'dissolved': 1999,
         },
-
 
 
     {
@@ -458,12 +305,6 @@ l = [
         'dissolved': 2004,
         },
 
-    {
-        'name': 'Syracuse Salty Dogs',
-        'city': 'Syracuse, NY',
-        'founded': 2003,
-        'dissolved': 2004,
-        },
 
     {
         'name': 'Milwaukee Wave United',
@@ -489,12 +330,6 @@ l = [
         },
 
 
-
-    {
-        'name': 'Atlanta Silverbacks',
-        'city': 'Atlanta, GA',
-        'founded': 1998,
-        },
 
 
 
@@ -538,11 +373,6 @@ l = [
         'founded': 2001,
         },
 
-    {
-        'name': 'Richmond Kickers Future',
-        'city': 'Richmond, VA',
-        'founded': 2002,
-        },
 
     {
         'name': 'Raleigh CASL Elite',
@@ -556,12 +386,6 @@ l = [
         'founded': 2003,
         },
 
-    {
-        'name': 'Virginia Legacy',
-        'city': 'Williamsburg, VA',
-        'founded': 2001,
-        'dissolved': 2009,
-        },
 
     {
         'name': 'Chesapeake Dragons',
@@ -585,13 +409,6 @@ l = [
         },
 
     {
-        'name': 'Albany Admirals',
-        'city': 'Albany, NY',
-        'founded': 2003,
-        'dissolved': 2010,
-        },
-
-    {
         'name': 'Colorado Springs Blizzard',
         'city': 'Colorado Springs, CO',
         'founded': 2004,
@@ -605,11 +422,6 @@ l = [
         'dissolved': 2010,
         },
 
-    {
-        'name': 'San Antonio Scorpions',
-        'city': 'San Antonio, TX',
-        'founded': 2010,
-        },
 
     {
         'name': 'AC St. Louis',
@@ -656,18 +468,13 @@ l = [
         },
 
 
-
     {
         'name': 'San Diego Flash',
         'city': 'San Diego, CA',
         'founded': 1998,
         },
 
-    {
-        'name': 'Minnesota United FC',
-        'city': 'Blaine, MN',
-        'founded': 2010,
-        },
+
     {
         'name': 'Jersey Shore Boca',
         'city': 'Ocean County, NJ',
@@ -707,11 +514,7 @@ l = [
         'city': 'Wilmington, NC',
         'founded': 1996,
         },
-    {
-        'name': 'Harrisburg City Islanders',
-        'city': 'Harrisburg, PA',
-        'founded': 2004,
-        },
+
     {
         'name': 'Cleveland City Stars',
         'city': 'Cleveland, OH',

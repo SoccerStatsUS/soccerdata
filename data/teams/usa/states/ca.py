@@ -5,7 +5,43 @@ import datetime
 
 l = [
 
+    # division 1
 
+    {
+        'name': 'Los Angeles Wolves',
+        'founded': 1966,
+        'dissolved': 1968,
+        'city': 'Los Angeles, CA',
+        },
+
+    {
+        'name': 'Los Angeles Aztecs',
+        'founded': 1974,
+        'dissolved': 1981,
+        'city': 'Los Angeles, CA',
+        },
+
+    {
+        'name': 'Oakland Clippers',
+        'founded': 1967,
+        'dissolved': 1969,
+        'city': 'Oakland, CA',
+        },
+
+    {
+        'name': 'California Surf',
+        'founded': 1978,
+        'dissolved': 1981,
+        'city': 'Anaheim, CA',
+        },
+
+
+    {
+        'name': 'San Diego Sockers',
+        'founded': 1978,
+        'dissolved': 1996,
+        'city': 'San Diego, CA',
+        },
 
     {
         'name': 'Los Angeles Galaxy',
@@ -13,16 +49,11 @@ l = [
         'city': 'Los Angeles, CA',
         },
 
-
-
-
     {
         'name': 'Chivas USA',
         'founded': 2004,
         'city': 'Los Angeles, CA',
         },
-
-
 
     {
         'name': 'San Jose Earthquakes',
@@ -30,24 +61,92 @@ l = [
         'city': 'San Jose, CA',
         },
 
-{ 
+    { 
         'name': 'Chivas USA Reserves',
         'city': 'Los Angeles, CA',
         },
 
-
-
-{ 
+    { 
         'name': 'Los Angeles Galaxy Reserves',
         'city': 'Los Angeles, CA',
         },
 
-
-
-{ 
+    { 
         'name': 'San Jose Earthquakes Reserves',
         'city': 'San Jose, CA',
         },
+
+    # USL
+
+    {
+        'name': 'Orange County Blue Star', 
+        'city': 'Irvine, CA',
+        'founded': 1997,
+        },
+
+
+
+    # women
+
+    {
+        'name': 'FC Gold Pride',
+        'city': 'Santa Clara, CA',
+        'founded': datetime.datetime(2008, 9, 3),
+        'dissolved': datetime.datetime(2010, 11, 16),
+        },
+
+    {
+        'name': 'San Diego Spirit',
+        'city': 'San Diego, CA',
+        'founded': 2001,
+        'dissolved': 2003,
+        },
+
+    # indoor
+
+
+    {
+        'name': 'Sacramento Knights',
+        'founded': 1993,
+        'dissolved': 2001,
+        'city': 'Sacramento, CA',
+        },
+
+
+    {
+        'name': 'Anaheim Splash',
+        'founded': 1994,
+        'dissolved': 1997,
+        'city': 'Anaheim, CA',
+        },
+
+
+    {
+        'name': 'San Jose Grizzlies',
+        'founded': datetime.datetime(1993, 11, 24),
+        'dissolved': 1995,
+        'city': 'San Jose, CA',
+        },
+
+
+    {
+        'name': 'Los Angeles Lazers',
+        'city': 'Inglewood, CA',
+        'founded': 1982,
+        'dissolved': 1989,
+        },
+
+
+    # division 2
+
+
+    {
+        'name': 'Oakland Buccaneers',
+        'city': 'Oakland, CA',
+        'founded': 1976,
+        'dissolved': 1976,
+        },
+
 
 
     {
@@ -56,12 +155,6 @@ l = [
         'founded': 1997,
         },
 
-    {
-        'name': 'Oakland Buccaneers',
-        'city': 'Oakland, CA',
-        'founded': 1976,
-        'dissolved': 1976,
-        },
 
     {
         'name': 'Cal FC',

@@ -5,6 +5,17 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'New Jersey Ironmen',
+        'city': 'Newark, NJ',
+        'founded': 2007,
+        'dissolved': 2009,
+        },
+
+
+
     {
         'name': 'Holyoke Falcos',
         'founded': 1921,
@@ -33,15 +44,16 @@ l = [
         },
 
     {
+        'name': 'Haledon Thistles',
+        'city': 'Haledon, NJ',
+        },
+
+    {
         'name': 'Newark Skeeters',
         'founded': 1923,
         'dissolved': 1929,
         'city': 'Newark, NJ',
         },
-
-
-
-
 
     {
         'name': 'Newark Americans',
@@ -49,9 +61,6 @@ l = [
         'dissolved': 1932,
         'city': 'Newark, NJ',
         },
-
-
-
 
     {
         'name': 'Harrison Erie F.C.',

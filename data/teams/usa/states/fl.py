@@ -5,6 +5,15 @@ import datetime
 
 l = [
 
+    # division 1 
+
+    {
+        'name': 'Jacksonville Tea Men',
+        'founded': 1980,
+        'dissolved': 1984,
+        'city': 'Jacksonville, FL',
+        },
+
     {
         'name': 'Miami Fusion',
         'founded': 1997,
@@ -18,6 +27,16 @@ l = [
         'dissolved': 2001,
         'city': 'Tampa, FL',
         },
+
+    # indoor
+
+    {
+        'name': 'Tampa Bay Terror',
+        'founded': 1995,
+        'dissolved': 1997,
+        'city': 'Tampa Bay, FL',
+        },
+
 
 
     {

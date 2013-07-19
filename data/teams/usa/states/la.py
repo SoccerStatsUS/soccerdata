@@ -5,6 +5,14 @@ import datetime
 
 l = [
 
+    # USL
+
+    {
+        'name': 'Baton Rouge Capitals',
+        'city': 'Baton Rouge, LA',
+        'founded': 2007,
+        },
+
     {
         'name': 'Lafayette Swamp Cats',
         'city': 'Lafayette, LA',

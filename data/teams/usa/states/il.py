@@ -5,14 +5,40 @@ import datetime
 
 l = [
 
+    # division 1
 
+    {
+        'name': 'Chicago Mustangs',
+        'founded': 1967,
+        'dissolved': 1968,
+        'city': 'Chicago, IL',
+        },
 
+    {
+        'name': 'Chicago Sting',
+        'founded': 1974,
+        'dissolved': 1988,
+        'city': 'Chicago, IL',
+        },
 
     {
         'name': 'Chicago Fire',
         'founded': 1997,
         'city': 'Chicago, IL',
         },
+
+
+
+    # indoor
+
+    {
+        'name': 'Chicago Storm',
+        'city': 'Melrose Park, IL',
+        'founded': 2004,
+        'dissolved': 2010,
+        },
+
+
 
     {
         'name': 'Chicago Maroons',

@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'FC Indiana',
+        'city': 'Indianapolis, IN',
+        'founded': 2000,
+        },
+
+    {
         'name': 'Indiana Tigers',
         'city': 'Gary, IN',
         'founded': 1973,

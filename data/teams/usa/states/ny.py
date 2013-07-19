@@ -5,6 +5,42 @@ import datetime
 
 l = [
 
+    # division 1
+
+    {
+        'name': 'New York Generals',
+        'founded': 1967,
+        'dissolved': 1968,
+        'city': 'New York, NY',
+        },
+    {
+        'name': 'New York Cosmos',
+        'founded': datetime.datetime(1971, 2, 4),
+        'dissolved': 1985,
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'Rochester Lancers',
+        'founded': 1967,
+        'dissolved': 1980,
+        'city': 'Rochester, NY',
+        },
+
+
+    {
+        'name': 'New York Red Bulls',
+        'founded': 1995,
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York City FC',
+        'city': 'Queens, NY',
+        'founded': datetime.datetime(2013, 5, 21),
+        },
+
+
 
     # Need to separate later Brooklyn Wanderers teams (there are multiple.)
     {
@@ -46,16 +82,74 @@ l = [
         'city': 'Brooklyn, NY',
         },
 
+    # USL
+
     {
-        'name': 'New York Red Bulls',
-        'founded': 1995,
+        'name': 'New York Centaurs',
         'city': 'New York, NY',
+        'founded': 1995,
+        'dissolved': 1995,
+        # Technically, the Centaurs absorbed the Fever.
+        },
+
+
+    {
+        'name': 'New York Fever',
+        'city': 'New York, NY',
+        'founded': 1994,
+        'dissolved': 1996,
         },
 
     {
-        'name': 'West Point',
-        'city': 'West Point, NY',
+        'name': 'Staten Island Vipers',
+        'city': 'Staten Island, NY',
+        'founded': 1998,
+        'dissolved': 1999,
         },
+
+
+    {
+        'name': 'Rochester Rhinos',
+        'city': 'Rochester, NY',
+        'founded': 1996,
+        },
+
+
+    {
+        'name': 'Westchester Flames',
+        'city': 'New Rochelle, NY',
+        'founded': 1999,
+        },
+
+    {
+        'name': 'Brooklyn Knights',
+        'city': 'Brooklyn, NY',
+        'founded': 1999,
+        },
+
+    {
+        'name': 'Syracuse Salty Dogs',
+        'city': 'Syracuse, NY',
+        'founded': 2003,
+        'dissolved': 2004,
+        },
+
+    {
+        'name': 'Albany Admirals',
+        'city': 'Albany, NY',
+        'founded': 2003,
+        'dissolved': 2010,
+        },
+
+
+    # indoor
+    {
+        'name': 'Buffalo Blizzard',
+        'city': 'Buffalo, NY',
+        'founded': 1992,
+        'dissolved': 2001,
+        },
+
 
 
     # Separate from ISL New York Americans team.
@@ -72,25 +166,37 @@ l = [
         'city': 'Queens, NY',
         },
 
-
-
-{ 
+    { 
         'name': 'New York Red Bulls Reserves',
         'city': 'New York, NY',
         },
 
+    # women
 
+    { 
+        'name': 'New York Power',
+        'city': 'Uniondale, NY',
+        'founded': 2000,
+        'dissolved': 2003,
+        },
 
-    {
-        'name': 'New York City FC',
-        'city': 'Queens, NY',
-        'founded': datetime.datetime(2013, 5, 21),
+    { 
+        'name': 'New York Fury',
+        'city': 'New York, NY',
+        'founded': 2011,
         },
 
     {
         'name': 'Western New York Flash',
         'city': 'Rochester, NY',
         'founded': 2008,
+        },
+
+    # misc
+
+    {
+        'name': 'West Point',
+        'city': 'West Point, NY',
         },
 
 

@@ -12,7 +12,7 @@ l = [
         'city': 'Seattle, WA',
         },
 
-{ 
+    { 
         'name': 'Seattle Sounders Reserves',
         'city': 'Seattle, WA',
         },
@@ -45,6 +45,14 @@ l = [
         'founded': 1976,
         'dissolved': 1976,
         },
+
+    {
+        'name': 'Seattle SeaDogs',
+        'founded': 1995,
+        'dissolved': 1997,
+        'city': 'Seattle, WA',
+        },
+
 
 
     {
