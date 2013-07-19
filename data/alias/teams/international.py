@@ -14,6 +14,8 @@ international = {
 
     # CONCACAF
 
+    'British Honduras': 'Belize',
+
 
     'Haití': 'Haiti',
     'US Virgin Islands': 'U.S. Virgin Islands',

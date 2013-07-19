@@ -206,7 +206,14 @@ world = {
 
     # Korea
     'Kookmin Bank': 'Goyang KB Kookmin Bank FC',
+
     'Sangmu': 'Sangju Sangmu Phoenix',
+    'Gwangju Sangmu Phoenix': 'Sangju Sangmu Phoenix',
+    'Sangju Sangmu Phoenix': 'Sangju Sangmu',
+    'Sangju Sangmu FC': 'Sangju Sangmu',
+    'Gwangju Sangmu': 'Sangju Sangmu',
+
+
     'Puchon SK': 'Bucheon SK',
     'Puchon Yukong': 'Bucheon SK',
     'Ilhwa Chunma': 'Seongnam Ilhwa Chunma',
@@ -219,7 +226,7 @@ world = {
     'Daewoo': 'Busan IPark',
     'Daewoo Royals': 'Busan IPark',
     'Pusan Daewoo Royals': 'Busan IPark',
-    'Gwangju Sangmu Phoenix': 'Sangju Sangmu Phoenix',
+
     'Jeju United': 'Jeju United FC',
     'Chonbuk Dinos': 'Jeonbuk Hyundai Motors',
     'Chonbuk Hyundai Dinos': 'Jeonbuk Hyundai Motors',

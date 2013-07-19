@@ -12,6 +12,7 @@ from soccerdata.mongo import soccer_db
 
 nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/nasl'
 nasl0_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d2/npsl.jose'
+NASL_ROSTERS_DIR = '/home/chris/www/soccerdata/data/rosters/domestic/nasl'
 
 # Merge into alias?
 foreign_map = {
@@ -152,7 +153,7 @@ def load_rosters():
     # For converting Colin Jose name abbreviations into actual names.
     d = {}
     season = None
-    NASL_ROSTERS_DIR = '/home/chris/www/soccerdata/data/rosters/nasl'
+
     f = open(NASL_ROSTERS_DIR)
     for line in f:
         if not line.strip():

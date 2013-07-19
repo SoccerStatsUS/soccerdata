@@ -7,8 +7,11 @@ aliases = {}
 full_alias = {
     'Interliga': 'InterLiga',
 
+    'K-League': 'K League',
 
-    #'Costa Rican Primera División': 'Primera División de Costa Rica',
+    'FIFA World Youth Championship': 'FIFA U-20 World Cup',
+
+
     'Costa Rican Primera División': 'Primera División de Costa Rica',
     
     'Club World Cup': 'FIFA Club World Cup',

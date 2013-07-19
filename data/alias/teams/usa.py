@@ -740,6 +740,7 @@ usa = {
 
     'Newark Germans': 'Paterson F.C.',
 
+    'West Hudson': 'West Hudson A.A.',
     'West Hudson AA': 'West Hudson A.A.',
     'West Hudson A.A': 'West Hudson A.A.',
     'West Hudson FC': 'West Hudson A.A.',
@@ -783,9 +784,10 @@ usa = {
     'Celtics of New Jersey': 'Celtics FC (New Jersey)',
     'Newark SC': 'Newark S.C.',
 
+
     'Clark A.A': 'Clark A.A.',
     'Clark A.A.': 'Kearney Clarks ONT',
-    'East Newark Clark AA': 'East Newark Clark A.A.',
+    'East Newark Clark A.A.': 'Kearney Clarks ONT',
     'East Newark Clark AA': 'Kearney Clarks ONT',
     'Clark O.N.T.': 'Kearney Clarks ONT',
     'Clark ONT': 'Kearney Clarks ONT',

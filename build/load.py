@@ -111,52 +111,52 @@ def load_drafts():
 
 def load_games():
 
-    load_japan()
-    load_uruguay()
-    load_china()
-    load_australia()    
-    load_korea()
+    load_nasl() 
     return
+
+
+    load_nafbl()
+
+    load_usmnt()
+    load_world_international()
+    load_oceania()
+
+    load_world()
+
+    load_apsl()
+
+    load_asl2()           
+
+
+
+
+    load_australia()    
+    load_china()
+    load_korea()
+    load_women()
+
+
 
     load_argentina()
     load_mexico()
-
-    load_colombia()
-    load_chile()
-
-
-
     load_mls() 
     load_conmebol()
-    return
+
+    load_pdl()
+
+    load_concacaf()
+    load_uncaf()
+
 
     load_oceania_international()
     load_concacaf_international()
-    load_world_international()
-    load_concacaf()
-    load_usmnt()
-    load_uncaf()
-
-    load_asl()  
-    load_nasl() 
-    load_usa_cups()
-    load_world()
-
     load_uncaf_international()
-
-    load_women()
-
-    load_oceania()
-
-
-
-    load_ecuador()
-
     load_conmebol_international()
 
-    load_peru()
 
-    load_bolivia()
+    load_asl()  
+
+    load_usa_cups()
 
     load_mixed_confederation()
 
@@ -164,16 +164,11 @@ def load_games():
 
     load_early_friendlies()
     load_modern_friendlies()
-    load_brazil()
+
 
     load_cfu()
 
     load_ltrack()
-    load_pdl()
-
-    load_asl2()           
-    load_apsl()
-    load_nafbl()
 
     load_city()
     load_ny()
@@ -181,6 +176,18 @@ def load_games():
 
     load_ncaa()
     load_indoor()
+
+
+    # Clean up.
+    load_brazil()
+    load_japan()
+    load_colombia()
+    load_chile()
+    load_uruguay()
+    load_ecuador()
+    load_peru()
+    load_bolivia()
+
 
     #load_brazil_international()
 
@@ -665,7 +672,7 @@ def load_nasl():
     generic_load(soccer_db.nasl_awards, awards.process_usa_awards)
     generic_load(soccer_db.nasl_awards, awards.process_npsl_awards)
 
-    generic_load(soccer_db.nasl_rosters, lambda: rosters.process_rosters2('nasl'))
+    generic_load(soccer_db.nasl_rosters, lambda: rosters.process_rosters2('domestic/nasl'))
 
     load_games_standard('nasl', 'domestic/country/usa/playoffs/nasl')
 
@@ -791,7 +798,6 @@ def load_usl():
 
 
 def load_china():
-    load_games_standard('china', 'domestic/country/china/leaguea')
     load_standings_standard('china', 'domestic/country/china')
     generic_load(soccer_db.china_awards, awards.process_china_awards)
 
@@ -814,6 +820,9 @@ def load_japan():
 
 def load_korea():
     load_standings_standard('korea', 'domestic/country/korea')
+
+    for e in range(1983, 1991):
+        load_games_standard('korea', 'domestic/country/korea/%s' % e)
 
     for e in range(2008, 2011):
         load_games_standard('korea', 'domestic/country/korea/%s' % e)
@@ -995,8 +1004,9 @@ def load_uncaf_international():
 
 
 def load_world_international():
+
     generic_load(soccer_db.world_i_rosters, lambda: rosters.process_rosters('international/olympics'))
-    generic_load(soccer_db.world_i_rosters, lambda: rosters.process_rosters2('confederations'))
+    generic_load(soccer_db.world_i_rosters, lambda: rosters.process_rosters2('international/confederations'))
 
     confed = [1992, 1995, 1997, 1999, 2001, 2003, 2005, 2009, 2013]
 
@@ -1009,7 +1019,7 @@ def load_world_international():
     for e in [1930, 1934] + list(range(1950, 2014, 4)):
         load_games_standard('world_i', 'international/world/world_cup/%s' % e)
 
-    #load_games_standard('world_i', 'international/world/u20')
+
     #load_games_standard('world_i', 'international/world/u17')
 
     load_games_standard('world_i', 'international/world/artemio_franchi')
@@ -1021,6 +1031,9 @@ def load_world_international():
 
     for e in olympics:
         load_games_standard('world_i', 'international/world/olympics/%s' % e)
+
+    for e in range(1977, 2014, 2):
+        load_games_standard('world_i', 'international/world/u20/%s' % e)
 
 
 
@@ -1038,9 +1051,9 @@ def load_world():
 
     generic_load(soccer_db.world_awards, awards.process_isl_awards)
 
-    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('club_world_cup'))
-    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('isl'))
-    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('copita'))
+    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('domestic/club_world_cup'))
+    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('domestic/isl'))
+    generic_load(soccer_db.world_rosters, lambda: rosters.process_rosters2('domestic/copita'))
 
     load_excel_standings('world', 'domestic/country/usa/isl')
     load_games_standard('world', 'domestic/country/usa/leagues/isl2')
@@ -1147,7 +1160,7 @@ def load_concacaf_international():
     load_games_standard('canada', 'international/country/canada/2000')
     load_games_standard('mexico', 'international/country/mexico/alltime')
 
-    load_panamerican()
+    #load_panamerican()
 
 
 def load_concacaf():

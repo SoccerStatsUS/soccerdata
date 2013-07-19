@@ -409,6 +409,67 @@ Daegu FC                 ; 28;  5;  8; 15;  20; 45; 23
 *at lower league level are not documented here.
 
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+Season: 2010
+
+1 ;  FC Seoul                   ; 28     ; 20  ; 2      ; 6      ; 58     ; 26          ; 62   
+2 ;  Jeju United                ; 28     ; 17  ; 8      ; 3      ; 54     ; 25          ; 59
+3 ;  Jeonbuk Hyundai Motors     ; 28     ; 15  ; 6      ; 7      ; 54     ; 36          ; 51  
+4 ;  Ulsan Hyundai              ; 28     ; 15  ; 5      ; 8      ; 47     ; 30          ; 50
+5 ;  Seongnam Ilhwa Chunma      ; 28     ; 13  ; 9      ; 6      ; 46     ; 26          ; 48
+6 ;  Gyeongnam FC               ; 28     ; 13  ; 9      ; 6      ; 41     ; 32          ; 48
+7 ;  Suwon Samsung Bluewings    ; 28     ; 12  ; 5      ; 11     ; 39     ; 44          ; 41  
+8 ;  Busan I'Park               ; 28     ; 8   ; 9      ; 11     ; 36     ; 37          ; 33
+9 ;  Pohang Steelers            ; 28     ; 8   ; 9      ; 11     ; 39     ; 48          ; 33
+10;  Chunnam Dragons            ; 28     ; 8   ; 8      ; 12     ; 40     ; 49          ; 32
+11;  Incheon United             ; 28     ; 8   ; 7      ; 13     ; 42     ; 51          ; 31
+12;  Gangwon FC                 ; 28     ; 8   ; 6      ; 14     ; 36     ; 50          ; 30
+13;  Daejeon Citizen            ; 28     ; 5   ; 7      ; 16     ; 27     ; 50          ; 22
+14;  Gwangju Sangmu             ; 28     ; 3   ; 10     ; 15     ; 17     ; 43          ; 19
+15;  Daegu FC                   ; 28     ; 5   ; 4      ; 19     ; 28     ; 57          ; 19
+
+
+Season: 2011
+
+1 ;   Jeonbuk Hyundai Motors    ; 30  ; 18     ; 9      ; 3      ; 67     ; 32          ; 63 
+2 ;   Pohang Steelers           ; 30  ; 17     ; 8      ; 5      ; 59     ; 33          ; 59    
+3 ;   FC Seoul                  ; 30  ; 16     ; 7      ; 7      ; 56     ; 38          ; 55     
+4 ;   Suwon Samsung Bluewings   ; 30  ; 17     ; 4      ; 9      ; 51     ; 33          ; 55
+5 ;   Busan I'Park              ; 30  ; 13     ; 7      ; 10     ; 49     ; 43          ; 46
+6 ;   Ulsan Hyundai             ; 30  ; 13     ; 7      ; 10     ; 33     ; 29          ; 46
+7 ;   Chunnam Dragons           ; 30  ; 11     ; 10     ; 9      ; 33     ; 29          ; 43      
+8 ;   Gyeongnam FC              ; 30  ; 12     ; 6      ; 12     ; 41     ; 40          ; 42
+9 ;   Jeju United               ; 30  ; 10     ; 10     ; 10     ; 44     ; 45          ; 40
+10;   Seongnam Ilhwa Chunma     ; 30  ; 9      ; 8      ; 13     ; 43     ; 47          ; 35   
+11;   Gwangju FC                ; 30  ; 9      ; 8      ; 13     ; 32     ; 43          ; 35      
+12;   Daegu FC                  ; 30  ; 8      ; 9      ; 13     ; 35     ; 46          ; 33
+13;   Incheon United            ; 30  ; 6      ; 14     ; 10     ; 31     ; 40          ; 32
+14;   Sangju Sangmu FC          ; 30  ; 7      ; 8      ; 15     ; 36     ; 53          ; 29
+15;   Daejeon Citizen           ; 30  ; 6      ; 9      ; 15     ; 31     ; 59          ; 27
+16;   Gangwon FC                ; 30  ; 3      ; 6      ; 21     ; 14     ; 45          ; 15
+
+
+Season: 2012
+
+1 ;      FC Seoul               ; 44  ;    29  ;    9   ;    6   ;    76  ;    42       ;    96      
+2 ;      Jeonbuk Hyundai Motors ; 44  ;    22  ;    13  ;    9   ;    82  ;    49       ;    79
+3 ;      Pohang Steelers        ; 44  ;    23  ;    8   ;    13  ;    72  ;    47       ;    77
+4 ;      Suwon Samsung Bluewings; 44  ;    20  ;    13  ;    11  ;    61  ;    51       ;    73
+5 ;      Ulsan Hyundai          ; 44  ;    18  ;    14  ;    12  ;    60  ;    52       ;    68
+6 ;      Jeju United            ; 44  ;    16  ;    15  ;    13  ;    71  ;    56       ;    63
+7 ;      Busan IPark            ; 44  ;    13  ;    14  ;    17  ;    40  ;    51       ;    53
+8 ;      Gyeongnam FC           ; 44  ;    14  ;    8   ;    22  ;    50  ;    60       ;    50
+9 ;      Incheon United         ; 44  ;    17  ;    16  ;    11  ;    46  ;    40       ;    67
+10;      Daegu FC               ; 44  ;    16  ;    13  ;    15  ;    55  ;    56       ;    61
+11;      Chunnam Dragons        ; 44  ;    13  ;    14  ;    17  ;    47  ;    60       ;    53
+12;      Seongnam Ilhwa Chunma  ; 44  ;    14  ;    10  ;    20  ;    47  ;    56       ;    52
+13;      Daejeon Citizen        ; 44  ;    13  ;    11  ;    20  ;    46  ;    67       ;    50
+14;      Gangwon FC             ; 44  ;    14  ;    7   ;    23  ;    57  ;    68       ;    49
+15;      Gwangju FC             ; 44  ;    10  ;    15  ;    19  ;    57  ;    67       ;    45     
+16;      Sangju Sangmu FC       ; 44  ;    7   ;    6   ;    31  ;    29  ;    74       ;    27 
+
+
+
 *About this document
 *Prepared and maintained by Seungsoo Lee and Mark Trevena for the Rec.Sport.Soccer Statistics Foundation
 *Authors: Seungsoo Lee (pinkstep@hotmail.com) and Mark Trevena (holyjoe_afc@hotmail.com) 

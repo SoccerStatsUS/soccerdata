@@ -84,7 +84,7 @@ l = [
 
     {
         'name': 'Philadelphia Kixx',
-        'city': 'Philadelphia, PA
+        'city': 'Philadelphia, PA',
         'founded': 1995,
         'dissolved': 2010,
         },
