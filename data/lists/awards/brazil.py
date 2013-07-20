@@ -64,7 +64,7 @@ brasileirao = {
         ],
 
 
-campeonato_mineiro = {
+mineiro = {
     'competition': 'Campeonato Mineiro',
 
     'Champion': [
@@ -170,7 +170,169 @@ campeonato_mineiro = {
         ]
 }
 
-campeonato_gaucho = {
+carioca = {
+    'competition': 'Campeonato Carioca',
+        
+    'champion': [
+        (1941, 'Fluminense'),
+        (1942, 'Flamengo'),
+        (1943, 'Flamengo'),
+        (1944, 'Flamengo'),
+        (1945, 'Vasco da Gama'),
+        (1946, 'Fluminense'),
+        (1947, 'Vasco da Gama'),
+        (1948, 'Botafogo'),
+        (1949, 'Vasco da Gama'),
+        (1950, 'Vasco da Gama'),
+        (1951, 'Fluminense'),
+        (1952, 'Vasco da Gama'),
+        (1953, 'Flamengo'),
+        (1954, 'Flamengo'),
+        (1955, 'Flamengo'),
+        (1956, 'Vasco da Gama'),
+        (1957, 'Botafogo'),
+        (1958, 'Vasco da Gama'),
+        (1959, 'Fluminense'),
+        (1960, 'America'),
+        (1961, 'Botafogo'),
+        (1962, 'Botafogo'),
+        (1963, 'Flamengo'),
+        (1964, 'Fluminense'),
+        (1965, 'Flamengo'),
+        (1966, 'Bangu'),
+        (1967, 'Botafogo'),
+        (1968, 'Botafogo'),
+        (1969, 'Fluminense'),
+        (1970, 'Vasco da Gama'),
+        (1971, 'Fluminense'),
+        (1972, 'Flamengo'),
+        (1973, 'Fluminense'),
+        (1974, 'Flamengo'),
+        (1975, 'Fluminense'),
+        (1976, 'Fluminense'),
+        (1977, 'Vasco da Gama'),
+        (1978, 'Flamengo'),
+        (1979, 'Flamengo'),
+        ('1979 extra', 'Flamengo'),
+        (1980, 'Fluminense'),
+        (1981, 'Flamengo'),
+        (1982, 'Vasco da Gama'),
+        (1983, 'Fluminense'),
+        (1984, 'Fluminense'),
+        (1985, 'Fluminense'),
+        (1986, 'Flamengo'),
+        (1987, 'Vasco da Gama'),
+        (1988, 'Vasco da Gama'),
+        (1989, 'Botafogo'),
+        (1990, 'Botafogo'),
+        (1991, 'Flamengo'),
+        (1992, 'Vasco da Gama'),
+        (1993, 'Vasco da Gama'),
+        (1994, 'Vasco da Gama'),
+        (1995, 'Fluminense'),
+        (1996, 'Flamengo'),
+        (1997, 'Botafogo'),
+        (1998, 'Vasco da Gama'),
+        (1999, 'Flamengo'),
+        (2000, 'Flamengo'),
+        (2001, 'Flamengo'),
+        (2002, 'Fluminense'),
+        (2003, 'Vasco da Gama'),
+        (2004, 'Flamengo'),
+        (2005, 'Fluminense'),
+        (2006, 'Botafogo'),
+        (2007, 'Flamengo'),
+        (2008, 'Flamengo'),
+        (2009, 'Flamengo'),
+        (2010, 'Botafogo'),
+        (2011, 'Flamengo'),
+        (2012, 'Fluminense'),
+        (2013, 'Botafogo'),
+         ],
+}
+
+paulista = {
+    'competition': 'Campeonato Paulista',
+        
+    'champion': [
+        (1941, 'Corinthians'),
+        (1942, 'Palmeiras'),
+        (1943, 'Sao Paulo'),
+        (1944, 'Palmeiras'),
+        (1945, 'Sao Paulo'),
+        (1946, 'Sao Paulo'),
+        (1947, 'Palmeiras'),
+        (1948, 'Sao Paulo'),
+        (1949, 'Sao Paulo'),
+        (1950, 'Palmeiras'),
+        (1951, 'Corinthians'),
+        (1952, 'Corinthians'),
+        (1953, 'Sao Paulo'),
+        (1954, 'Corinthians'),
+        (1955, 'Santos'),
+        (1956, 'Santos'),
+        (1957, 'Sao Paulo'),
+        (1958, 'Santos'),
+        (1959, 'Palmeiras'),
+        (1960, 'Santos'),
+        (1961, 'Santos'),
+        (1962, 'Santos'),
+        (1963, 'Palmeiras'),
+        (1964, 'Santos'),
+        (1965, 'Santos'),
+        (1966, 'Palmeiras'),
+        (1967, 'Santos'),
+        (1968, 'Santos'),
+        (1969, 'Santos'),
+        (1970, 'Sao Paulo'),
+        (1971, 'Sao Paulo'),
+        (1972, 'Palmeiras'),
+        (1973, 'Santos'),
+        (1973, 'Portuguesa'),
+        (1974, 'Palmeiras'),
+        (1975, 'Sao Paulo'),
+        (1976, 'Palmeiras'),
+        (1977, 'Corinthians'),
+        (1978, 'Santos'),
+        (1979, 'Corinthians'),
+        (1980, 'Sao Paulo'),
+        (1981, 'Sao Paulo'),
+        (1982, 'Corinthians'),
+        (1983, 'Corinthians'),
+        (1984, 'Santos'),
+        (1985, 'Sao Paulo'),
+        (1986, 'Internacional de Limeira'),
+        (1987, 'Sao Paulo'),
+        (1988, 'Corinthians'),
+        (1989, 'Sao Paulo'),
+        (1990, 'Bragantino'),
+        (1991, 'Sao Paulo'),
+        (1992, 'Sao Paulo'),
+        (1993, 'Palmeiras'),
+        (1994, 'Palmeiras'),
+        (1995, 'Corinthians'),
+        (1996, 'Palmeiras'),
+        (1997, 'Corinthians'),
+        (1998, 'Sao Paulo'),
+        (1999, 'Corinthians'),
+        (2000, 'Sao Paulo'),
+        (2001, 'Corinthians'),
+        (2002, 'Ituano'),
+        (2003, 'Corinthians'),
+        (2004, 'Sao Caetano'),
+        (2005, 'Sao Paulo'),
+        (2006, 'Santos'),
+        (2007, 'Santos'),
+        (2008, 'Palmeiras'),
+        (2009, 'Corinthians'),
+        (2010, 'Santos'),
+        (2011, 'Santos'),
+        (2012, 'Santos'),
+        (2013, 'Corinthians'),
+        ],
+}
+
+gaucho = {
     'competition': 'Campeonato Gaúcho',
         
     'champion': [
@@ -267,7 +429,11 @@ campeonato_gaucho = {
 }
 
 
-campeonato_baiano = [
+baiano = { 
+
+    'competition': 'Campeonato Gaúcho',
+        
+    'champion': [
     (1905, 'Clube Internacional de Cricket'),
     (1906, 'São Salvador'),
     (1907, 'São Salvador'),
@@ -369,20 +535,6 @@ campeonato_baiano = [
     (2011, 'Bahia'),
     ]
 }
-
-
-
-
-
-
-
-    
-
-
-
-    
-    
-
 
 
 

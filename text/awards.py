@@ -120,6 +120,10 @@ def process_argentina_awards():
     from soccerdata.data.lists.awards.argentina import d
     return process_awards(d)
 
+def process_brazil_awards():
+    from soccerdata.data.lists.awards.argentina import brasileirao, mineiro, carioca, paulista, gaucho, baiano
+    return process_awards(brasileirao) + process_awards(mineiro) + process_awards(carioca) + process_awards(paulista) + process_awards(gaucho) + process_awards(baiano)
+
 
 def process_uncaf_international_awards():
     from soccerdata.data.lists.awards.uncaf import d
