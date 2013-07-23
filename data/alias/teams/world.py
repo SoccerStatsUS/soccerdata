@@ -1,5 +1,10 @@
 world = {
 
+    'Portuguesa-SP': 'Portuguesa (Sao Paulo)',
+    'Palestra Itália': 'Palmeiras',
+    'Palestra Italia': 'Palmeiras',
+    'O Independência/Sant\'Anna': 'Independência/Sant\'Anna',
+    
 
     # US
     'Polish Falcons (NJ)': 'Polish Falcons',
@@ -29,21 +34,6 @@ world = {
     'Kearny Clarks ONT 2nds': 'Kearney Clarks ONT 2nds',
 
 
-    # Generics
-    'Santa Bárbara': 'Santa Barbara',
-    'Vitória': 'Vitoria',
-    'Àguila': 'Aguila',
-    'Águila': 'Aguila',
-
-    'Júnior': 'Junior',
-
-    'Alianza FC': 'Alianza',
-    'Alianza F.C.': 'Alianza',
-
-    'Dragón': 'Dragon',
-    'San José': 'San Jose',
-    'América': 'America',
-    'Real España': 'Real Espana',
 
     'Marte FC': 'Marte',
 

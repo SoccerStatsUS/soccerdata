@@ -110,9 +110,31 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
+    load_brazil_international()
+    load_brazil()
 
-    load_nasl() 
     return
+
+    load_asl()  
+    load_usa_cups()
+    return
+
+    load_concacaf()
+    load_mls() 
+
+
+    load_usl()
+
+    return
+    load_nasl() 
+
+
+    return
+
+    load_indoor()
+
+
+
 
 
     load_nafbl()
@@ -122,10 +144,10 @@ def load_games():
     load_oceania()
 
     load_world()
-
+    load_asl2()           
     load_apsl()
 
-    load_asl2()           
+
 
 
 
@@ -139,12 +161,12 @@ def load_games():
 
     load_argentina()
     load_mexico()
-    load_mls() 
+
     load_conmebol()
 
     load_pdl()
 
-    load_concacaf()
+
     load_uncaf()
 
 
@@ -154,13 +176,13 @@ def load_games():
     load_conmebol_international()
 
 
-    load_asl()  
 
-    load_usa_cups()
+
+
 
     load_mixed_confederation()
 
-    load_usl()
+
 
     load_early_friendlies()
     load_modern_friendlies()
@@ -175,11 +197,11 @@ def load_games():
     load_canada()
 
     load_ncaa()
-    load_indoor()
+
 
 
     # Clean up.
-    load_brazil()
+
     load_japan()
     load_colombia()
     load_chile()
@@ -189,7 +211,7 @@ def load_games():
     load_bolivia()
 
 
-    #load_brazil_international()
+
 
 
 def load_excel_standings(coll, fn):
@@ -451,17 +473,40 @@ def load_argentina():
 
 
 def load_brazil():
+
+    generic_load(soccer_db.brazil_awards, awards.process_brazil_awards)
+
     for e in range(2005, 2013):
         load_games_standard('brazil', 'domestic/country/brazil/brasileiro/%s' % e)
 
-
+    # Sao Paulo
     for year in range(1920, 1966):
         load_games_standard('brazil', 'domestic/country/brazil/paulista/%s' % year)
 
+    # Rio de Janeiro
+    for year in range(1946, 1952):
+        load_games_standard('brazil', 'domestic/country/brazil/carioca/%s' % year)
+
+    for year in range(1958, 1961):
+        load_games_standard('brazil', 'domestic/country/brazil/carioca/%s' % year)
+
+    for year in range(1970, 1976):
+        load_games_standard('brazil', 'domestic/country/brazil/carioca/%s' % year)
+
+    # Minas Gerais
+
+
+    for year in range(1950, 1951):
+        load_games_standard('brazil', 'domestic/country/brazil/minas_gerais/%s' % year)
+
+
+
 
 def load_brazil_international():
-    load_games_standard('brazil', 'international/country/brazil/1914')
-    load_games_standard('brazil', 'international/country/brazil/1923')
+
+    for e in ['1906', '1914', '1923', '1934', '1939',
+              ]:
+        load_games_standard('brazil', 'international/country/brazil/%s' % e)
 
 
 def load_women():
@@ -722,10 +767,10 @@ def load_indoor():
     """
     Load stats and games from the MISL, standings from MISL, APSL and WSA.
     """
-    load_excel_standings('misl', 'indoor/all')
-    load_excel_standings('misl', 'indoor/misl')
+    load_excel_standings('indoor', 'indoor/all')
+    load_excel_standings('indoor', 'indoor/misl')
     print("Loading MISL stats.")
-    generic_load(soccer_db.misl_stats, stats.process_misl_stats)
+    generic_load(soccer_db.indoor_stats, stats.process_misl_stats)
 
 
 def load_ltrack():

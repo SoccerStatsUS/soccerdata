@@ -19,7 +19,6 @@ STAT_TABLES = [
 SOURCES = [
 
     'world_i',
-    #'world_cup',
     'fifa',
 
     'concacaf_i',
@@ -40,8 +39,7 @@ SOURCES = [
 
     'nafbl',
     'asl2',
-    #'indoor',
-    #'misl',
+
 
     'us_d2',
     'us_d3',
@@ -73,18 +71,9 @@ SOURCES = [
     'australia',
 
 
-    #'mediotiempo',
+    'indoor',
         ]
 
-# Skipping these.
-l =    [ 
-        'uslsoccer',
-        'wiki',
-        'kicker',
-        'mediotiempo',
-        'cnnsi',
-        'eufootball',
-        ]
 
 
 SINGLE_SOURCES = [

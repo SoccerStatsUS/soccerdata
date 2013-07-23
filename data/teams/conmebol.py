@@ -11,6 +11,20 @@ l = [
         'city': 'Salvador, Brazil',
         },
 
+
+    {
+        'name': 'Portuguesa (Sao Paulo)',
+        'founded': datetime.datetime(1920, 8, 14),
+        'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Sportivo Barracas',
+        'founded': datetime.datetime(1913, 10, 30),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+
     {
         'name': 'Barra da Tijuca',
         'founded': datetime.datetime(1993, 10, 28),

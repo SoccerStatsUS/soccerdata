@@ -9,6 +9,12 @@ l = [
         'founded': 1878,
         'city': 'Manchester, England',
         },
+
+    {
+        'name': 'Exeter City',
+        'founded': 1904,
+        'city': 'Exeter, England',
+        },
     {
         'name': 'Fayal SC',
         'city': 'Faial, Spain',

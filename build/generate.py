@@ -18,13 +18,17 @@ make_stat_tuple = lambda name, d: (name, d['team'], d['season'], d['competition'
 
 def generate():
     generate_competition_standings()
-
     generate_game_stats()
     generate_competition_stats() # Use game stats to make competition stats.
 
 
 
 def generate_game_stats():
+    """
+    Generate player statistics for individual games.
+    Like the stuff you see on uslsoccer.com.
+    """
+    # Consider scraping actual game stats from mlssoccer.com, uslsoccer.com, etc.
 
     stats = defaultdict(lambda: defaultdict(int))
 
@@ -281,12 +285,14 @@ def generate_standings(competition):
         generate_team_standing(game, game['team1'])
         generate_team_standing(game, game['team2'])
 
-    #if competition == 'CONCACAF Champions League':
-    #    import pdb; pdb.set_trace()
 
     standings = []
     for lst in standing_dict.values():
         standings.extend([e.to_dict() for e in lst])
+
+
+
+
     return standings
 
 

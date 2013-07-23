@@ -55,6 +55,12 @@ l = [
         },
 
     {
+        'name': 'Harrisburg City Islanders',
+        'city': 'Harrisburg, PA',
+        'founded': 2004,
+        },
+
+    {
         'name': 'Lehigh Valley Steam',
         'city': 'Lehigh Valley, PA',
         'founded': 1999,

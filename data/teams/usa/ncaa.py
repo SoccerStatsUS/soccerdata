@@ -13,6 +13,27 @@ l = [
         },
 
     {
+        'name': 'Roberts Wesleyan College',
+        'city': 'Rochester, NY',
+        },
+
+    {
+        'name': 'Vanier College',
+        'city': 'Montreal, QC',
+        },
+
+    {
+        'name': 'University of Maryland Baltimore County',
+        'city': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Judson University',
+        'city': 'Elgin, IL',
+        },
+
+
+    {
         'name': 'West Chester University of Pennsylvania',
         'city': 'West Chester, PA',
         },
@@ -90,6 +111,11 @@ l = [
 
     {
         'name': 'Butler University',
+        'city': 'Indianapolis, IN',
+        },
+
+    {
+        'name': 'Indiana University-Purdue University Indianapolis',
         'city': 'Indianapolis, IN',
         },
 
@@ -1383,6 +1409,11 @@ l = [
         'name': 'Colorado College',
         'city': 'Colorado Springs, CO',
        },
+
+    {
+        'name': 'University of Colorado at Colorado Springs',
+        'city': 'Colorado Springs, CO',
+       },
     {
         'name': 'Lock Haven University',
         'city': 'Lock Haven, PA',
@@ -1486,6 +1517,11 @@ l = [
         'name': 'Whittier College',
         'city': 'Whittier, PA',
        },
+
+    {
+        'name': 'Wheaton College (MA)',
+        'city': 'Norton, MA',
+       },
     {
         'name': 'Gettysburg College',
         'city': 'Gettysburg, PA',
@@ -1523,7 +1559,10 @@ l = [
         'city': 'St. Leo, FL',
        },
 
-
+    {
+        'name': 'University of California, Irvine',
+        'city': 'Irvine, CA',
+       },
 
     {
         'name': 'University of Nebraska Omaha',

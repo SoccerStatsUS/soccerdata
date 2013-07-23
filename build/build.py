@@ -67,7 +67,15 @@ def build():
         pass
 
 
-    for func in load, normalize, transform, merge, generate, denormalize, check:
+    for func in [
+        load, 
+        normalize, 
+        transform, 
+        merge, 
+        generate, 
+        denormalize, 
+        check
+        ]:
         print(func.__name__)
         timer(func)()
     

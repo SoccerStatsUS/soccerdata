@@ -1,5 +1,17 @@
 
 usa = {
+    
+    'Wayposet FC': 'Waypoyset FC',
+
+    'Weiboldt Wonderbolts': 'Wieboldt Wonderbolts',
+    'Fall River Pan-American': 'Fall River Pan Americans',
+    
+    'IUPUI': 'Indiana University-Purdue University Indianapolis',
+    'University of Colorado Colorado Springs': 'University of Colorado at Colorado Springs',
+    'UC Riverside': 'University of California, Riverside',
+    'UC Irvine': 'University of California, Irvine',
+    'Roberts Wesleyan': 'Roberts Wesleyan College',
+    'Foothill Community College': 'Foothill College',
 
     # Accurate?
     'Philadelphia 1928-1929': 'Philadelphia Field Club',

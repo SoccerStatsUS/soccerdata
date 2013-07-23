@@ -3,6 +3,8 @@
 
 brasileirao = {
     'competition': 'Brasileirão',
+    'team_data': ['Champion'],
+
     'Champion': [
         # Split out tournaments correctly.
         (1959, 'Bahia'),
@@ -62,10 +64,11 @@ brasileirao = {
 
 
         ],
-
+}
 
 mineiro = {
     'competition': 'Campeonato Mineiro',
+    'team_data': ['Champion'],
 
     'Champion': [
         (1915, 'Atlético Mineiro'),
@@ -155,7 +158,7 @@ mineiro = {
         (1997, 'Cruzeiro'),
         (1998, 'Cruzeiro'),
         (2000, 'Atlético Mineiro'),        
-        (2001, 'América Mineiro'),,        
+        (2001, 'América Mineiro'),        
         (2002, 'Caldense'),
         (2002, 'Cruzeiro'),
         (2003, 'Cruzeiro'),
@@ -172,6 +175,7 @@ mineiro = {
 
 carioca = {
     'competition': 'Campeonato Carioca',
+    'team_data': ['Champion'],
         
     'champion': [
         (1941, 'Fluminense'),
@@ -253,6 +257,7 @@ carioca = {
 
 paulista = {
     'competition': 'Campeonato Paulista',
+    'team_data': ['Champion'],
         
     'champion': [
         (1941, 'Corinthians'),
@@ -334,6 +339,7 @@ paulista = {
 
 gaucho = {
     'competition': 'Campeonato Gaúcho',
+    'team_data': ['Champion'],
         
     'champion': [
         (1919, 'Brasil de Pelotas'),
@@ -413,7 +419,7 @@ gaucho = {
         (1997, 'Internacional'), 
         (1998, 'Juventude'),
         (1999, 'Grêmio'),        
-        (2000, 'Caxias')
+        (2000, 'Caxias'),
         (2001, 'Grêmio'),        
         (2002, 'Internacional'), 
         (2003, 'Internacional'), 
@@ -430,8 +436,8 @@ gaucho = {
 
 
 baiano = { 
-
-    'competition': 'Campeonato Gaúcho',
+    'competition': 'Campeonato Baiano',
+    'team_data': ['Champion'],
         
     'champion': [
     (1905, 'Clube Internacional de Cricket'),
@@ -650,8 +656,8 @@ bola_de_prata = {
         'Mário Sérgio (VIT)', 
         'Zico (FLA)', 
         'Osni (VIT)', 
-        'Luisinho (AFC) e Lula (INT)','
-]',
+        'Luisinho (AFC) e Lula (INT)',
+],
 
  1975: [
         'Waldir Peres (SPA)', 
@@ -736,7 +742,7 @@ bola_de_prata = {
         'Botelho (Desportiva Capixaba)', 
         'Baltazar (GRE)',
         'Mário Sérgio (INT)',
-]
+],
  1981: [
         'Benitez (INT)', 
         'Perivaldo (BOT)', 
@@ -777,7 +783,7 @@ bola_de_prata = {
         'Jorginho (PAL)', 
         'Reinaldo (ATM)', 
         'Éder (ATM)',
-]
+],
  1984: [
 
         'Roberto Costa (VAS)', 
@@ -1210,4 +1216,4 @@ artilheiro = [
             (2008, 'Washington (FLU), Keirrison (CFC), Kléber Pereira (SAN)', 21),
             (2009, 'Diego Tardelli (CAM) e Adriano (FLA)', 19),
             (2010, 'Jonas[1] (GRE)', 23),
-            ]'
+            ]

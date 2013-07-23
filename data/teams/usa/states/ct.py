@@ -19,6 +19,13 @@ l = [
         },
 
     {
+        'name': 'Newtown Pride FC',
+        'city': 'Newtown, CT',
+        #'founded': 2011,
+        # exhibition team.
+        },
+
+    {
         'name': 'Eastern Connecticut State University',
         'city': 'Willimantic, CT',
         },
