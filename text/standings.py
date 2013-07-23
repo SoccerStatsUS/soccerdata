@@ -9,7 +9,6 @@
 
 import codecs
 import os
-from soccerdata.cache import data_cache
 
 DIR = '/home/chris/www/soccerdata/data/'
 

@@ -1,6 +1,9 @@
 
 international = {
 
+    'USSR U-20': 'U.S.S.R. U-20',
+    'USSR U-17': 'U.S.S.R. U-17',
+
     'US Maccabi': 'United States Maccabi',
     'US Olympic': 'United States Olympic',
 

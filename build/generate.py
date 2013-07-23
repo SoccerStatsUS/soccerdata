@@ -1,11 +1,7 @@
-
 from collections import defaultdict
-
 
 from soccerdata.mongo import soccer_db, insert_rows, generic_load
 from standings import get_standings
-
-
 
 
 # I think I should just generate standings directly from soccer_db.games.
@@ -78,6 +74,8 @@ def generate_competition_stats():
     l = [
         'FIFA Club World Cup',
         'FIFA World Cup',
+        'FIFA U-20 World Cup',
+        'FIFA U-17 World Cup',
         'FIFA Confederations Cup',
         'FIFA World Cup qualification (CONCACAF)',
         'FIFA World Cup qualification (CONMEBOL)',

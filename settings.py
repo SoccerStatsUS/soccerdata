@@ -36,6 +36,7 @@ SOURCES = [
     'asl',
     'nasl',
     'mls',
+    'mls2',
 
     'nafbl',
     'asl2',

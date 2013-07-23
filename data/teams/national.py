@@ -4,9 +4,19 @@
 import datetime
 
 def international(l):
-    for e in l:
-        e['international'] = True
-    return l
+    nl = []
+    for team in l:
+        team['international'] = True
+        u20 = team.copy()
+        u20['name'] = team['name'] + ' U-20'
+        u17 = team.copy()
+        u17['name'] = team['name'] + ' U-17'
+        olympic = team.copy()
+        olympic['name'] = team['name'] + ' Olympic'
+
+        nl.extend([team, u20, u17, olympic])
+
+    return nl
         
 l = international([
     {
@@ -549,7 +559,7 @@ l = international([
         },
 
     {
-        'name': 'USSR',
+        'name': 'U.S.S.R',
         'founded': datetime.datetime(1934, 12, 27),
         'dissolved': 1992,
         'country': 'USSR',

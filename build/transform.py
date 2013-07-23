@@ -20,9 +20,11 @@ def transform():
     # e.g. United States -> United States U-17.
     transform_team_names_for_competition('fifa', 'FIFA U-17 World Cup', '%s U-17')
     transform_team_names_for_competition('fifa', 'FIFA U-20 World Cup', '%s U-20')
+    transform_team_names_for_competition('olympic', 'Olympic Games', '%s Olympic')
 
     transform_team_names_for_competition('world_i', 'FIFA U-17 World Cup', '%s U-17')
     transform_team_names_for_competition('world_i', 'FIFA U-20 World Cup', '%s U-20')
+    transform_team_names_for_competition('world_i', 'Olympic Games', '%s Olympic')
 
     transform_team_names_for_competition('concacaf_i', 'CONCACAF U-17 Championship', '%s U-17')
     transform_team_names_for_competition('concacaf_i', 'CONCACAF U-20 Championship', '%s U-20')

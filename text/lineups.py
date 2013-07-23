@@ -46,7 +46,6 @@ import os
 import re
 import sys
 
-from soccerdata.cache import data_cache, set_cache
 
 
 
@@ -195,7 +194,7 @@ def make_lineup_dict():
 
 
 
-#@set_cache
+
 def load_all_games_scaryice():
     l = []
     for key in file_mapping.keys():
@@ -205,7 +204,7 @@ def load_all_games_scaryice():
     return l
     
 
-#@set_cache
+
 def load_all_goals_scaryice():
     l = []
     for key in file_mapping.keys():
@@ -217,7 +216,7 @@ def load_all_goals_scaryice():
     return goals
 
 
-#@set_cache
+
 def load_all_lineups_scaryice():
     l = []
     for key in file_mapping.keys():

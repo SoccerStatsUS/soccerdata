@@ -7,7 +7,6 @@ import re
 
 from utils import get_id
 
-from soccerdata.cache import data_cache
 from soccerdata.mongo import soccer_db
 
 nasl_games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/nasl'

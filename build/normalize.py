@@ -133,6 +133,10 @@ def normalize_season(e):
 # Change all of these to use only a single game.
 
 def normalize_game(e):
+
+    if 'competition' not in e:
+        import pdb; pdb.set_trace()
+
     e['competition'] = get_competition(e['competition'])
     e['round'] = get_round(e.get('round', ''))
     if e.get('group'):
