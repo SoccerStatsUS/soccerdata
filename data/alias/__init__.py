@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 
-from data.alias.teams import get_team
-from data.alias.people import get_name
-from data.alias.competitions import get_competition
-from data.alias.places import get_place
-from data.alias.stadiums import get_stadium
-from data.alias.cities import get_city
-from data.alias.rounds import get_round
+from soccerdata.data.alias.teams import get_team
+from soccerdata.data.alias.people import get_name
+from soccerdata.data.alias.competitions import get_competition
+from soccerdata.data.alias.places import get_place
+from soccerdata.data.alias.stadiums import get_stadium
+from soccerdata.data.alias.cities import get_city
+from soccerdata.data.alias.rounds import get_round

@@ -134,9 +134,6 @@ def normalize_season(e):
 
 def normalize_game(e):
 
-    if 'competition' not in e:
-        import pdb; pdb.set_trace()
-
     e['competition'] = get_competition(e['competition'])
     e['round'] = get_round(e.get('round', ''))
     if e.get('group'):
@@ -237,7 +234,11 @@ def normalize_salary(e):
 
 
 def normalize_team(e):
+
     e['name'] = get_team(e['name'])
+    if e['city']:
+        e['city'] = get_city(e['city'])
+
     return e
 
 
@@ -431,8 +432,12 @@ def normalize_bio(e):
     if e.get('deathdate') and type(e['deathdate']) == int:
         e['deathdate'] = None
 
-    if e['birthplace']:
+    if e.get('birthplace'):
         e['birthplace'] = get_city(get_place(e['birthplace']))
+
+    if e.get('eathplace'):
+        e['deathplace'] = get_city(get_place(e['deathplace']))
+
 
     return e
     
@@ -463,12 +468,13 @@ def normalize():
     normalize_single_coll(soccer_db.picks, normalize_pick)
     normalize_single_coll(soccer_db.salaries, normalize_salary)
     normalize_single_coll(soccer_db.stadiums, normalize_stadium)
-    normalize_single_coll(soccer_db.bios, normalize_bio)
+
     normalize_single_coll(soccer_db.teams, normalize_team)
 
 
     # Not normalizing fouls, rosters...
     # Bios only as a group.
+    normalize_multiple_colls('bios', normalize_bio)
     normalize_multiple_colls('games', normalize_game)
     normalize_multiple_colls('goals', normalize_goal)
     normalize_multiple_colls('lineups', normalize_lineup)

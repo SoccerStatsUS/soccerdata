@@ -110,37 +110,45 @@ def load_drafts():
     generic_load(soccer_db.picks, drafts.load_picks)
 
 def load_games():
-    load_brazil_international()
-    load_brazil()
+    load_oceania_international()
 
-    return
+    load_conmebol()
 
-    load_asl()  
-    load_usa_cups()
-    return
+    load_australia()    
 
-    load_concacaf()
+    load_women()
     load_mls() 
-
-
-    load_usl()
-
-    return
-    load_nasl() 
-
-
-    return
-
-    load_indoor()
-
-
-
-
-
-    load_nafbl()
 
     load_usmnt()
     load_world_international()
+    load_concacaf_international()
+
+    load_usl()
+    load_ltrack()
+
+    load_fifa()
+
+
+    load_brazil_international()
+    load_brazil()
+
+    load_asl()  
+    load_usa_cups()
+
+    load_concacaf()
+
+
+
+
+
+    load_nasl() 
+
+    load_indoor()
+
+    load_nafbl()
+
+
+
     load_oceania()
 
     load_world()
@@ -149,20 +157,14 @@ def load_games():
 
 
 
-
-
-
-    load_australia()    
     load_china()
     load_korea()
-    load_women()
-
 
 
     load_argentina()
     load_mexico()
 
-    load_conmebol()
+
 
     load_pdl()
 
@@ -170,15 +172,10 @@ def load_games():
     load_uncaf()
 
 
-    load_oceania_international()
-    load_concacaf_international()
+
+
     load_uncaf_international()
     load_conmebol_international()
-
-
-
-
-
 
     load_mixed_confederation()
 
@@ -190,7 +187,7 @@ def load_games():
 
     load_cfu()
 
-    load_ltrack()
+
 
     load_city()
     load_ny()
@@ -522,6 +519,18 @@ def load_women():
     #    load_games_standard('women', 'domestic/country/usa/leagues/women/wpsl/%s' % e)
 
 
+def load_mlssoccer_season(url, competition):
+
+    from foulds.sites.mlssoccer import scrape_competition
+    # MLS League 2012
+    #url = 'http://www.mlssoccer.com/schedule?month=all&year=2012&club=all&competition_type=46&broadcast_type=all&op=Search&form_id=mls_schedule_form'
+    games, goals, lineups = scrape_competition(url, competition)#'Major League Soccer')
+
+    generic_load(soccer_db['mls2_games'], lambda: [e for e in games if e not in [{}, None]])
+    generic_load(soccer_db['mls2_goals'], lambda: [e for e in goals if e not in [{}, None]])
+    generic_load(soccer_db['mls2_lineups'], lambda: [e for e in lineups if e not in [{}, None]])
+
+
 def load_mls():
 
     load_excel_standings('mls', 'domestic/country/usa/mls')
@@ -542,40 +551,16 @@ def load_mls():
     for e in ['1996.2010', '2011', '2012', '2013']:
         load_games_standard('mls', 'domestic/country/usa/leagues/d1/mls/%s' % e)
 
-    # Not loading playoff data?
 
+    for e in (2011, 2012, 2013):
+        season_url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=46&broadcast_type=all&op=Search&form_id=mls_schedule_form'
+        load_mlssoccer_season(season_url % e, 'Major League Soccer')
 
+        playoff_url= 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=45&broadcast_type=all&op=Search&form_id=mls_schedule_form'
+        load_mlssoccer_season(playoff_url % e, 'MLS Cup Playoffs')
 
-    """
-    from scrapers.mls2 import scrape_competition
-
-    # MLS League 2012
-    url = 'http://www.mlssoccer.com/schedule?month=all&year=2012&club=all&competition_type=46&broadcast_type=all&op=Search&form_id=mls_schedule_form'
-    games, goals, lineups = scrape_competition(url, 'Major League Soccer')
-
-    # Need to fix some stuff here, obvs.
-    generic_load(soccer_db['mls2_games'], lambda: games)
-    generic_load(soccer_db['mls2_goals'], lambda: goals)
-    generic_load(soccer_db['mls2_lineups'], lambda: lineups)
-
-    # MLS Playoffs 2012
-    url = 'http://www.mlssoccer.com/schedule?month=all&year=2012&club=all&competition_type=45&broadcast_type=all&op=Search&form_id=mls_schedule_form'
-    games, goals, lineups = scrape_competition(url, 'MLS Cup Playoffs')
-
-    # We're getting null values for some lineups here. Not sure why.
-
-    generic_load(soccer_db['mls2_games'], lambda: games)
-    generic_load(soccer_db['mls2_goals'], lambda: goals)
-    generic_load(soccer_db['mls2_lineups'], lambda: lineups)
-
-    # MLS Cup 2012
-    url = 'http://www.mlssoccer.com/schedule?month=all&year=2012&club=all&competition_type=44&broadcast_type=all&op=Search&form_id=mls_schedule_form'
-    games, goals, lineups = scrape_competition(url, 'MLS Cup Playoffs')
-
-    generic_load(soccer_db['mls2_games'], lambda: games)
-    generic_load(soccer_db['mls2_goals'], lambda: goals)
-    generic_load(soccer_db['mls2_lineups'], lambda: lineups)
-    """
+        cup_url = 'http://www.mlssoccer.com/schedule?month=all&year=%s&club=all&competition_type=44&broadcast_type=all&op=Search&form_id=mls_schedule_form'
+        load_mlssoccer_season(cup_url % e, 'MLS Cup Playoffs')
 
 
 
@@ -875,10 +860,20 @@ def load_korea():
 
 
 def load_australia():
+    from foulds.sites.australia import scrape_aleague
+
     load_standings_standard('australia', 'domestic/country/australia')
     load_games_standard('australia', 'domestic/country/australia/league/australia')
     load_games_standard('australia', 'domestic/country/australia/playoffs')
     generic_load(soccer_db.australia_awards, awards.process_australia_awards)
+
+    return
+
+    games, goals, lineups = scrape_aleague()
+    generic_load(soccer_db['australia_games'], lambda: [e for e in games if e not in [{}, None]])
+    generic_load(soccer_db['australia_goals'], lambda: [e for e in goals if e not in [{}, None]])
+    generic_load(soccer_db['australia_lineups'], lambda: [e for e in lineups if e not in [{}, None]])
+
 
 
 def load_mexico():
@@ -946,10 +941,14 @@ def load_oceania():
 
 
 def load_oceania_international():
-    load_games_standard('oceania_i', 'international/confederation/ofc/wcq/2014')
+
+    for e in range(1986, 2018, 4):
+        load_games_standard('oceania_i', 'international/confederation/ofc/wcq/%s' % e)
+
     load_games_standard('oceania_i', 'international/confederation/ofc/melanesia')
     load_games_standard('oceania_i', 'international/confederation/ofc/polynesia')
     load_games_standard('oceania_i', 'international/confederation/ofc/nations')
+
 
 def load_mixed_confederation():
 
@@ -1074,8 +1073,9 @@ def load_world_international():
     olympics = [1900, 1904, 1908, 1912, 1920, 1924, 1928, 1936, 
                 1948, 1952, 1956, 1960, 1964, 1968, 1972, 2008, 2012]
 
+    # Merge olympic data.
     for e in olympics:
-        load_games_standard('world_i', 'international/world/olympics/%s' % e)
+        load_games_standard('world_i', 'international/world/olympics/%s' % e, games_only=True)
 
     for e in range(1977, 2014, 2):
         load_games_standard('world_i', 'international/world/u20/%s' % e)
@@ -1235,24 +1235,28 @@ def load_ncaa():
 
 
 def load_fifa():
-    from soccerdata.scrapers import fifa
+    from foulds.sites import fifa
 
     generic_load(soccer_db.fifa_games, fifa.scrape_all_world_cup_games)
     generic_load(soccer_db.fifa_goals, fifa.scrape_all_world_cup_goals)
     generic_load(soccer_db.fifa_lineups, fifa.scrape_all_world_cup_lineups)
 
-    load_fifa_competition('FIFA U-17 World Cup')
     load_fifa_competition('FIFA U-20 World Cup')
-
-    load_fifa_competition('Olympic Games')
-    load_fifa_competition('FIFA Club World Cup')
+    load_fifa_competition('FIFA U-17 World Cup')
     load_fifa_competition('FIFA Confederations Cup')
+    load_fifa_competition('Olympic Games')
+    return
+
+
+
+    load_fifa_competition('FIFA Club World Cup')
+    
 
 
 
 
 def load_fifa_competition(competition):
-    from soccerdata.scrapers import fifa
+    from foulds.sites import fifa
     games, goals, lineups = fifa.scrape_everything(competition)
     generic_load(soccer_db.fifa_games, lambda: games)
     generic_load(soccer_db.fifa_goals, lambda: goals)

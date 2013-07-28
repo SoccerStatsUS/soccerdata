@@ -15,70 +15,104 @@ def get_place(s):
 
 
 places = {
+
+    # Generic
     'Away': 'away',
     'Neutral': 'neutral',
+    'Home': 'home',
 
-    'Memorial Coliseum, Los Angeles': 'Los Angeles Memorial Coliseum',
+    # Countries
+    'Trinidad': 'Trinidad and Tobago',
+    'USA': 'United States',
+    'holland': 'Netherlands',
+    'Holland': 'Netherlands',
+    'St. Lucia': 'Saint Lucia',
+
+
+    # England
+    'Griffin Park (Brentford), London': 'Griffin Park',
+    'Griffin Park Brentford, London': 'Griffin Park',
+
+    # Uruguay
     'Central Park Stadium, Montevideo, Uruguay': 'Parque Central',
 
+    # Peru
+    'Estadio Nacional, Lima': 'Estadio Nacional de Peru',
     'Estadio Monumental, Lima': 'Estadio Monumental "U"',
 
-    'Yaounde, Cameroon': 'Yaoundé, Cameroon',
-    'Ciudad Juarez, Mexico': 'Ciudad Juárez, Mexico',
-    'Malmo, Sweden': 'Malmö, Sweden',
-    'Leon, Mexico': 'León, México',
-    'León, Mexico': 'León, México',
-    'Rio de Janeiro, Brazil': 'Río de Janeiro, Brazil',
-    'Norrkoping, Sweden': 'Norrköping, Sweden',
     'Agawam HS': 'Agawam High School',
     'Agawam H.S.': 'Agawam High School',
-    'Ft. Lauderdale, FL': 'Fort Lauderdale, FL',
-    'Ft Lauderdale, FL': 'Fort Lauderdale, FL',
-    'Santo Andre, Brazil': 'Santo André, Brazil',
-    'Vasteras, Sweden': 'Västerås, Sweden',
     'Randalls Island': 'Randall\'s Island, New York',
     'Randall\'s Island': 'Randall\'s Island, New York',
 
 
-    'Washington, D.C.': 'Washington DC',
-    'Universiad Memorial Stadium, Kobe, Japan': 'Kobe Universiade Memorial Stadium',
-    'Nuevo Estadio, Elche': 'Estadio Manuel Martínez Valero',
-    'Estadio Universitario, Monterrey': 'Estadio Universitario de Monterrey',
-    'San Juan, PR': 'San Juan, Puerto Rico',
+    'David\'s Stadium, Newark, NJ': 'Ruppert Stadium, Newark, NJ',
+    'Davids Stadium, Newark, NJ':' Ruppert Stadium, Newark, NJ',
+
+    'Memorial Coliseum, Los Angeles': 'Los Angeles Memorial Coliseum',
+
     'KSU Soccer Stadium, Kennesaw, GA': 'Kennesaw State University Stadium',
     'FAU Soccer Field, Boca Raton, FL': 'FAU Soccer Stadium',
     'Memorial Stadium, Everett, MA': 'Everett Memorial Stadium',
+    'Memorial Stadium, Portland, ME': 'Memorial Stadium (Maine)',
 
+    # Spain
+    'Nuevo Estadio, Elche': 'Estadio Manuel Martínez Valero',
+
+    # Japan
+    'Universiad Memorial Stadium, Kobe, Japan': 'Kobe Universiade Memorial Stadium',
     'Olympic Stadium, Tokyo': 'Tokyo National Olympic Stadium',
     'National Stadium, Tokyo, Japan': 'Tokyo National Olympic Stadium',
 
+    # Mexico
+
+    'Estadio Universitario, Monterrey': 'Estadio Universitario de Monterrey',
     'Estadio Olimpico, Villahermosa, México': 'Estadio Olimpico (Tabasco)',
     'Estadio Nou Camp, Leon, Guanajuato': 'Estadio León',
     'Stadium Universitario, Monterrey, Mexico': 'El Volcan',
     'Estadio Universitario, San Nicolas': 'El Volcan',
+    'Estadio Universitario, San Nicolas de los Garza': 'El Volcan',
+
+    # Italy
     'Stadio Municipal, L\'Aquíla': 'Stadio Tommaso Fattori',
     'Stadio Municipal, L\'Aquila': 'Stadio Tommaso Fattori',
 
+    # Brazil
     'Estadio Olimpico Monumental (Porto Alegre)': 'Estádio Olímpico Monumental',
     'Estadio Olimpico Monumental, Porto Alegre': 'Estádio Olímpico Monumental',
     'Estadio Olimpico (Porto Alegre)': 'Estádio Olímpico Monumental',
     'Estadio Olimpico, Porto Alegre': 'Estádio Olímpico Monumental',
-    'Memorial Stadium, Portland, ME': 'Memorial Stadium (Maine)',
-    'Enschede Stadium, Enschede': 'De Grolsch Veste',
-    'Dunfermlime, Scotland': 'Dunfermline, Scotland',
-    'Dinamo Stadium, Moscow': 'Moscow Dinamo Stadium',
-    'Dinamo Stadium, Minsk': 'Dynama Stadium',
-    'Randall\'s Island, NYC': 'Downing Stadium',
-    'Estadio Nacional, San Jose, Costa Rica': 'Estadio Nacional de Costa Rica',
-    'Estadio Independencia, Esteli': 'Estadio Independencia (Esteli)',
-    'Estadio Universitario, San Nicolas de los Garza': 'El Volcan',
-    'Estadio Nacional, Lima': 'Estadio Nacional de Peru',
-    'Ciudad de Panamá, Panama': 'Panama City, Panama',
-    'Centre of Excellence, Port of Spain, Trinidad and Tobago': 'Dr. João Havelange Centre of Excellence',
     'Estadio Independencia, Belo Horizonte, Brazil': 'Estádio Independência',
+
+    # Netherlands
+    'Enschede Stadium, Enschede': 'De Grolsch Veste',
+
+    # Russia
+    'Dinamo Stadium, Moscow': 'Moscow Dinamo Stadium',
+
+    # Belarus
+    'Dinamo Stadium, Minsk': 'Dynama Stadium',
+
+    # Costa Rica
+    'Estadio Nacional, San Jose, Costa Rica': 'Estadio Nacional de Costa Rica',
+
+    # Nicaragua
+    'Estadio Independencia, Esteli': 'Estadio Independencia (Esteli)',
+
+
+    # Trinidad
+    'Centre of Excellence, Port of Spain, Trinidad and Tobago': 'Dr. João Havelange Centre of Excellence',
+
+    # Argentina
     'Estadio Monumental, Buenos Aires': 'Estadio Monumental Antonio Vespucio Liberti',
+
+    # Lima
     'Estadio Miguel Grau, Piura, Peru': 'Estadio Miguel Grau (Piura)',
+
+    # Argentina
     'Estadio del Bicentenario, San Juan, Argentina': 'Estadio San Juan del Bicentenario',
+
+
     'Stade Dillon, Fort-de-France, Martinique': 'Stade Pierre-Aliker',
     'Estadio Pueblo Nuevo, San Cristobal, Venezuela': 'Estadio Polideportivo de Pueblo Nuevo',
     'Toyota Arena, Prague, Czech Republic': 'Generali Arena',
@@ -105,11 +139,10 @@ places = {
     'Stade Municipal, Toulouse': 'Stade Municipal de Toulouse',
     'San Paolo, Naples': 'Stadio San Paolo',
     'Estadio Nacional, Santiago': 'Estadio Nacional Julio Martínez Prádanos',
-    'Newport Beach , CA': 'Newport Beach, CA',
-    'San Jose, Costa Rica': 'San José, Costa Rica',
-    'Vancouver, B.C.': ' Vancouver, BC',
+
     'Olympic Park, Melbourne, Australia': 'Olympic Park Stadium',
-    'Dublin Ireland': 'Dublin, Ireland',
+
+    'Randall\'s Island, NYC': 'Downing Stadium',
     'Stade Olympique, Colombes, Paris': 'Stade Olympique Colombes',
     'Republican Stadium, Kiev': 'Kiev Olympic Stadium',
     'Lenin Stadium, Moscow': 'Luzhniki Stadium',
@@ -141,14 +174,8 @@ places = {
 
     'Compton Ave Park': 'Compton Avenue Park',
     'Capitoline Lake': 'Capitoline Grounds',
-    'Trinidad': 'Trinidad and Tobago',
     'Cal State Fullerton': 'Titan Stadium, Fullerton, CA',
     'Richmond City Stadium': 'City Stadium, Richmond, VA',
-    'USA': 'United States',
-
-
-    
-    'Layou, StVincent&amp;Grenadines': 'Layou, St. Vincent and Grenadines',
 
     'Memorial Stadium Los Angeles': 'Los Angeles Memorial Coliseum',
     'Memorial Stadium, Long Beach, CA': 'Veterans Memorial Stadium, Long Beach, CA',
@@ -163,8 +190,6 @@ places = {
 
     'SAS Stadium, Cary, NC': 'WakeMed Soccer Park',
     'SAS Soccer Park, Cary, NC': 'WakeMed Soccer Park',
-
-
 
     'Dudley Stadium, El Paso, TX': 'Dudley Field',
     'Douglas Stadium, San Diego, CA': 'Merrill Douglas Stadium',

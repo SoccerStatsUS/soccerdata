@@ -13,6 +13,16 @@ l = [
         },
 
     {
+        'name': 'Houston Baptist University',
+        'city': 'Houston, TX',
+        },
+
+    {
+        'name': 'San Jacinto College',
+        'city': 'Pasadena, TX',
+        },
+
+    {
         'name': 'Roberts Wesleyan College',
         'city': 'Rochester, NY',
         },
@@ -1220,6 +1230,11 @@ l = [
     {
         'name': 'University of Memphis',
         'city': 'Memphis, TN',
+       },
+
+    {
+        'name': 'Hawaii Pacific University',
+        'city': 'Honolulu, HI',
        },
 
     {

@@ -35,6 +35,7 @@ rounds = {
     'Group Stage': 'group',
     'Group stage': 'group',
     'Group Phase': 'group',
+    'Group': 'group',
     'group': 'G',
 
     'repesca': 'repechaje',

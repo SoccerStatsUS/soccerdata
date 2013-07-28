@@ -1,5 +1,15 @@
 
 usa = {
+    'UIC Flames': 'University of Illinois at Chicago',
+    'Memphis University': 'University of Memphis',
+
+    'Macara': 'Macará',
+    'German American League XI': 'German-American League XI',
+
+    'Deportivo La Coruna': 'Deportivo La Coruña',
+    'Atletico Racing': 'Atlético Racing',
+    'Flor de Cana': 'Flor de Caña',
+    'Shimizu S Pulse': 'Shimizu S-Pulse',
     
     'Wayposet FC': 'Waypoyset FC',
 

@@ -11,6 +11,18 @@ l = [
         },
 
     {
+        'name': 'Braga',
+        'founded': datetime.datetime(1921, 1, 19),
+        'city': 'Braga, Portugal',
+        },
+
+    {
+        'name': 'TSV 1860 Rosenheim',
+        'founded': 1860,
+        'city': 'Rosenheim, Germany',
+        },
+
+    {
         'name': 'Exeter City',
         'founded': 1904,
         'city': 'Exeter, England',
@@ -349,6 +361,11 @@ l = [
         'name': 'FC Locarno',
         'founded': 1906,
         'city': 'Locarno, Switzerland',
+        },
+
+    {
+        'name': 'FC Stade Lausanne',
+        'city': 'Lausanne, Switzerland',
         },
 
     {
@@ -1174,6 +1191,12 @@ l = [
         'founded': datetime.datetime(1944, 9, 23),
         'city': 'Lille, France',
         },
+
+    {
+        'name': 'FC Sochaux',
+        'founded': 1928,
+        'city': 'Montbeliard, France',
+        },
     {
         'name': 'C.F. Os Belenenses',
         'founded': datetime.datetime(1919, 9, 23),
@@ -1224,6 +1247,12 @@ l = [
         'name': 'Arsenal',
         'founded': 1886,
         'city': 'London, England',
+        },
+
+    {
+        'name': 'Plymouth Argyle F.C.',
+        'founded': 1886,
+        'city': 'Plymouth, England',
         },
 
 
@@ -1742,9 +1771,27 @@ l = [
         },
 
     {
+        'name': 'Lyn Oslo',
+        'founded': datetime.datetime(1896, 3, 3),
+        'city': 'Oslo, Norway',
+        },
+
+    {
         'name': 'Rosenborg BK',
         'founded': datetime.datetime(1917, 5, 19),
         'city': 'Trondheim, Norway',
+        },
+
+    {
+        'name': 'Fredrikstad FK',
+        'founded': datetime.datetime(1903, 4, 7),
+        'city': 'Fredrikstad, Norway',
+        },
+
+    {
+        'name': 'Mjøndalen IF',
+        'founded': datetime.datetime(1910, 8, 22),
+        'city': 'Mjøndalen, Norway',
         },
 
     {
@@ -1806,6 +1853,12 @@ l = [
     {
         'name': 'FK Inter Bratislava',
         'founded': datetime.datetime(1940, 7, 1),
+        'city': 'Bratislava, Slovakia',
+        },
+
+    {
+        'name': 'ŠK Slovan Bratislava',
+        'founded': datetime.datetime(1919, 5, 3),
         'city': 'Bratislava, Slovakia',
         },
     {

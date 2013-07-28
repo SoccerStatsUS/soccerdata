@@ -334,7 +334,7 @@ l = [
 
                 {
         'name': 'Hillhurst Park',
-        'location': 'Calgary',
+        'location': 'Calgary, AB',
         },
 
 

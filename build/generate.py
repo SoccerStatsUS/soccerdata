@@ -120,6 +120,7 @@ def generate_competition_stats():
         'Liga MX',
         'Argentine Primera División',
 
+        'Hyundai A-League',
 
         'Liga MX Liguilla',
         'Campeón de Campeones',

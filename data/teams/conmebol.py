@@ -11,6 +11,19 @@ l = [
         'city': 'Salvador, Brazil',
         },
 
+    {
+        'name': 'XV de Piracicaba',
+        'founded': datetime.datetime(1913, 11, 15),
+        'city': 'Piracicaba, Brazil',
+        },
+
+
+    {
+        'name': 'Ferroviária',
+        'founded': 1950,
+        'city': 'Araquara, Brazil',
+        },
+
 
     {
         'name': 'Portuguesa (Sao Paulo)',
@@ -35,6 +48,12 @@ l = [
         'name': 'XV de Piracicaba',
         'founded': datetime.datetime(1913, 11, 15),
         'city': 'Piracicaba, Brazil',
+        },
+
+    {
+        'name': 'XV de Jaú',
+        'founded': 1924,
+        'city': 'Jau, Brazil',
         },
 
     {
@@ -550,7 +569,7 @@ l = [
     {
         'name': 'Sampaio Corrêa',
         'founded': datetime.datetime(1923, 3, 25),
-        'city': 'Sao Luis , Brazil',
+        'city': 'Sao Luis, Brazil',
         },
 
     {

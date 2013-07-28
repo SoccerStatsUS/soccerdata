@@ -207,6 +207,15 @@ l = [
         'location': 'Jersey City, NJ',
         },
 
+    
+    {
+        'name': 'Ruppert Stadium',
+        'location': 'Newark, NJ',
+        'opened': 1926,
+        'closed': 1967,
+        'capacity': 12000,
+        },
+
     {
         'name': 'Ryle Park',
         'location': 'Paterson, NJ',

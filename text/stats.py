@@ -14,11 +14,11 @@ if not os.path.exists(DIR):
 
 
 def process_mls_2012_stats():
-    return process_stats("d1/2012", "Major League Soccer", source='mlssoccer.com')
+    return process_stats("d1/2012", "Major League Soccer", source='MLSSoccer.com')
 
 
 def process_mls_coach_stats():
-    return process_stats("d1/mls.coaches", "Major League Soccer", source='mlssoccer.com')
+    return process_stats("d1/mls.coaches", "Major League Soccer", source='MLSSoccer.com')
 
 def process_nasl_stats():
     return process_stats("d1/nasl", format_name=False, source='nasljerseys.com')

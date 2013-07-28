@@ -147,7 +147,7 @@ l = [
         },
 
     {
-        'name': 'Kalamazoo Kangaros',
+        'name': 'Kalamazoo Kangaroos',
         'city': 'Kalamazoo, MI',
         'founded': 1984,
         'dissolved': 1986,

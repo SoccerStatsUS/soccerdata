@@ -1181,12 +1181,6 @@ l = [
         'capacity': 36230,
         },
 
-    {
-        'name': 'Griffin Park',
-        'location': 'London, England',
-        'opened': 1904,
-        'capacity': 12763,
-        },
 
     {
         'name': 'Roker Park',

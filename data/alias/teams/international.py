@@ -1,8 +1,16 @@
 
 international = {
+    'Bosnia-Hercegov.': 'Bosnia and Herzegovina',
+    'St Croix': 'St. Croix',
+    'United States Maccabiah': 'United States Maccabi',
+    'USSR Olympic Team': 'USSR Olympic',
+    'U.S.S.R Olympic': 'USSR Olympic',
+    'U.S.S.R. Olympic': 'USSR Olympic',
+    'U.S.S.R U-20': 'U.S.S.R. U-20',
 
     'USSR U-20': 'U.S.S.R. U-20',
     'USSR U-17': 'U.S.S.R. U-17',
+    'U.S.S.R U-17': 'U.S.S.R. U-17',
 
     'US Maccabi': 'United States Maccabi',
     'US Olympic': 'United States Olympic',
