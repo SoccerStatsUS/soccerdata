@@ -1,7 +1,6 @@
 import datetime
 import re
 
-from soccerdata.data.alias import get_team, get_name
 
 # Need to add in new positions.
 POSITIONS_PATH = '/home/chris/www/soccerdata/data/transactions/positions'
@@ -61,12 +60,12 @@ class PositionParser(object):
         if position:
             self.position = position
         if team:
-            self.team = get_team(team)
+            self.team = team
 
         return {
-            'person': get_name(self.person),
+            'person': self.person,
             'name': self.position,
-            'team': get_team(self.team),
+            'team': self.team,
             'start': start,
             'end': end,
             }
