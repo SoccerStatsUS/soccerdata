@@ -1,5 +1,5 @@
-# This is for the New NASL!!!
-# This should be split off into a separate file!!!
+import os
+
 def process_stats():
     """
     Process modern NASL stats taken from nasl.com
@@ -45,4 +45,3 @@ def process_stats():
                     })
                 
     return lst
-

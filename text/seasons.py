@@ -19,6 +19,8 @@ SEASONS = [
     'argentina',
     'uruguay',
     'chile',
+
+    'nasl2',
     ]
 
 def load_seasons():

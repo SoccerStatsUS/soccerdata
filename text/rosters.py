@@ -160,11 +160,9 @@ class RosterProcessor(object):
 
 
 
-def process_rosters2(fn):
+def process_rosters2(p):
 
-    l = []
-
-    p = os.path.join('/home/chris/www/soccerdata/data/rosters/', fn)
+    #p = os.path.join('/home/chris/www/soccerdata/data/rosters/', fn)
     f = open(p)
 
     rp = RosterProcessor2()

@@ -303,83 +303,86 @@ Date: 6/16/2013
 1900;  CFC Azul ; 0-0;              Seacoast United Phantoms;  Portsmouth High School        
 
 Date: 6/17/2013
-1830;  Ocala Stampede   ; v;      Fort Lauderdale Schulz Academy ; Lynn University 
-2000;  Springfield Demize       ; v;   Kansas City Brass; Overland Park Soccer Complex     
-2230; North Sound SeaWolves FC ; v;   Washington Crossfire ;      Redmond High School     
+1830;  Ocala Stampede   ; 4-1;      Fort Lauderdale Schulz Academy ; Lynn University 
+2000;  Springfield Demize       ; 1-1;   Kansas City Brass; Overland Park Soccer Complex     
+2230; North Sound SeaWolves FC ; 1-0;   Washington Crossfire ;      Redmond High School     
 
 Date: 6/18/2013
-1900;  IMG Academy Bradenton    ; v;      VSI Tampa Bay FC ;       Plant City Stadium      
-1900;  West Virginia Chaos      ; v;      Southern West Virginia King's Warriors  ;        YMCA Beckley WV 
-2030;  Austin Aztex ; v;          Houston Dutch Lions ;  WoodForest Stadium                
+1900;  IMG Academy Bradenton    ; 0-0;      VSI Tampa Bay FC ;       Plant City Stadium      
+*1900;  West Virginia Chaos      ; v;      Southern West Virginia King's Warriors  ;        YMCA Beckley WV 
+2030;  Austin Aztex ; 3-0;          Houston Dutch Lions ;  WoodForest Stadium                
 
 Date: 6/19/2013
-1400;  River City Rovers; v;      Chicago Fire  ;  Toyota Park     
-1900;  Carolina Dynamo  ; v;      Virginia Beach Piranhas ;        Virginia Beach Sportsplex       
-1900;  Vermont Voltage  ; v;      Ottawa Fury;    Algonquin College Soccer Complex                 
-1900;  SW Florida Adrenaline    ; v;     Orlando City U23;  Seminole Soccer Complex                
-1900;  Western Mass Pioneers    ; v;     Real Boston Rams;  Muscato Stadium 
-1900;  Ocean City Nor'easters   ; v;     Long Island Rough Riders ; Cy Donnelly Stadium    
-1930;  Chicago Inferno          ; v;     Michigan Bucks   ; Ultimate Soccer Arenas         
-2200; Ventura County Fusion    ; v;     Southern California Seahorses  ;   Biola University       
+1400;  River City Rovers; 3-2;      Chicago Fire  ;  Toyota Park     
+1900;  Carolina Dynamo  ; 0-1;      Virginia Beach Piranhas ;        Virginia Beach Sportsplex       
+1900;  Vermont Voltage  ; 0-0;      Ottawa Fury;    Algonquin College Soccer Complex                 
+1900;  SW Florida Adrenaline    ; 1-2;     Orlando City U23;  Seminole Soccer Complex                
+1900;  Western Mass Pioneers    ; 4-1;     Real Boston Rams;  Muscato Stadium 
+1900;  Ocean City Nor'easters   ; 3-1;     Long Island Rough Riders ; Cy Donnelly Stadium    
+1930;  Chicago Inferno          ; 0-5;     Michigan Bucks   ; Ultimate Soccer Arenas         
+2200; Ventura County Fusion    ; 1-0;     Southern California Seahorses  ;   Biola University       
 
 Date: 6/20/2013
-1900;  Panama City Beach Pirates; v;      Ocala Stampede;  Trinity Catholic High School    
-2000;  Real Colorado Foxes      ; v;      Kansas City Brass ;      Overland Park Soccer Complex    
-2200; OC Blues Strikers FC     ; v;      Fresno Fuego       ;     Chukchansi Park      
+1900;  Panama City Beach Pirates; 0-2;      Ocala Stampede;  Trinity Catholic High School    
+2000;  Real Colorado Foxes      ; 2-3;      Kansas City Brass ;      Overland Park Soccer Complex    
+2200; OC Blues Strikers FC     ; 0-2;      Fresno Fuego       ;     Chukchansi Park      
 
 Date: 6/21/2013
-1900;  Mississippi Brilla       ; v;      VSI Tampa Bay FC   ;     Plant City Stadium      
-1900;  Central Jersey Spartans  ; v;      Bermuda Hogges     ;     Bermuda Athletic Association    
-1900;  West Virginia Chaos      ; v;      Northern Virginia Royals;        Fairfax High School     
-1900;  SC United Bantams        ; v;      Southern West Virginia King's Warriors ; YMCA Beckley WV 
-1930;  Springfield Demize       ; v;      Thunder Bay Chill    ;  Chapples Park    
-1930;  Reading United AC        ; v;      NJ LUSO Rangers FC   ;  Drew University  
-2000;  K-W United FC ; v;         Forest City London   ;   German Club 
-2115;  Houston Dutch Lions      ; v;     Laredo Heat   ;   Texas A&M Intl Univ Soccer Complex      
-2200; Sounders FC U23          ; v;     Vancouver Whitecaps FC U-23   ;  UBC Thunderbird Stadium  
-2200; Kitsap Pumas             ; v;     Portland Timbers U-23s; Alder Creek Middle School         
-2230; Victoria Highlanders FC  ; v;     North Sound SeaWolves FC ;    Edmonds Woodway HS          
+1900;  Mississippi Brilla       ; 0-1;      VSI Tampa Bay FC   ;     Plant City Stadium      
+*1900;  Central Jersey Spartans  ; v;      Bermuda Hogges     ;     Bermuda Athletic Association    
+1900;  West Virginia Chaos      ; 0-2;      Northern Virginia Royals;        Fairfax High School     
+1900;  SC United Bantams        ; 2-3;      Southern West Virginia King's Warriors ; YMCA Beckley WV 
+1930;  Springfield Demize       ; 0-1;      Thunder Bay Chill    ;  Chapples Park    
+1930;  Reading United AC        ; 2-0;      NJ LUSO Rangers FC   ;  Drew University  
+2000;  K-W United FC ; 0-2;         Forest City London   ;   German Club 
+2115;  Houston Dutch Lions      ; 0-5;     Laredo Heat   ;   Texas A&M Intl Univ Soccer Complex      
+2200; Sounders FC U23          ; 2-4;     Vancouver Whitecaps FC U-23   ;  UBC Thunderbird Stadium  
+2200; Kitsap Pumas             ; 0-1;     Portland Timbers U-23s; Alder Creek Middle School         
+2230; Victoria Highlanders FC  ; 2-0;     North Sound SeaWolves FC ;    Edmonds Woodway HS          
 
 Date: 6/22/2013
-1800;  Real Colorado Foxes      ; v;      St. Louis Lions; Tony Glavin Complex     
-1900;  Panama City Beach Pirates; v;      Orlando City U23;     Seminole Soccer Complex    
-1900;  GPS Portland Phoenix     ; v;      Real Boston Rams ;    Muscato Stadium 
-1900;  F.A. Euro - New York Magic       ; v;   Baltimore Bohemians ;    Loyola University Soccer Park      
-1900;  SC United Bantams   ; v;           Carolina Dynamo          ;    Macpherson Stadium       
-1900;  Fort Lauderdale Schulz Academy   ; v;       Ocala Stampede  ;    Trinity Catholic High School       
-1900;  Michigan Bucks ; v;     River City Rovers  ; Shelby County Athletic Complex       
-1930;  Seacoast United Phantoms    ; v;   CFC Azul; Central Connecticut State University 
-1930;  Springfield Demize          ; v;   Thunder Bay Chill   ;         Chapples Park    
-1930;  Vermont Voltage             ; v;   Western Mass Pioneers ;       Lusitano Stadium 
-2000;  West Virginia Chaos         ; v;   Virginia Beach Piranhas;      Virginia Beach Sportsplex  
-2030;  Kansas City Brass           ; v;   Des Moines Menace      ;      Valley Stadium 
-2030;  Austin Aztex                ; v;   Oklahoma City FC       ;      Stars Field    
-2130;  West Texas Sockers          ; v;   El Paso Patriots        ;     Student Activities Complex 
-2200; OC Blues Strikers FC        ; v;   Ventura County Fusion   ;     Ventura College    
-2200; LA Misioneros FC ; v;         Southern California Seahorses;     Maranatha High School      
-2200; FC Tucson    ; v;  Fresno Fuego     ;   Chukchansi Park          
+1600;  Panama City Beach Pirates; 0-1;      Orlando City U23;     Seminole Soccer Complex    
+1800;  Real Colorado Foxes      ; 0-1;      St. Louis Lions; Tony Glavin Complex     
+1900;  GPS Portland Phoenix     ; 2-1;      Real Boston Rams ;    Muscato Stadium 
+1900;  F.A. Euro - New York Magic       ; 1-4;   Baltimore Bohemians ;    Loyola University Soccer Park      
+1900;  SC United Bantams   ; 2-4;           Carolina Dynamo          ;    Macpherson Stadium       
+1900;  Fort Lauderdale Schulz Academy   ; 0-7;       Ocala Stampede  ;    Trinity Catholic High School       
+1900;  Michigan Bucks ; 4-1;     River City Rovers  ; Shelby County Athletic Complex       
+1930;  Seacoast United Phantoms    ; 1-1;   CFC Azul; Central Connecticut State University 
+1930;  Springfield Demize          ; 2-5;   Thunder Bay Chill   ;         Chapples Park    
+1930;  Vermont Voltage             ; 1-2;   Western Mass Pioneers ;       Lusitano Stadium 
+2000;  West Virginia Chaos         ; 1-1;   Virginia Beach Piranhas;      Virginia Beach Sportsplex  
+2030;  Kansas City Brass           ; 0-1;   Des Moines Menace      ;      Valley Stadium 
+2030;  Austin Aztex                ; 0-0;   Oklahoma City FC       ;      Stars Field    
+2130;  West Texas Sockers          ; 8-0;   El Paso Patriots        ;     Student Activities Complex 
+2200; OC Blues Strikers FC        ; 2-3;   Ventura County Fusion   ;     Ventura College    
+2200; LA Misioneros FC ; 1-0;         Southern California Seahorses;     Maranatha High School      
+2200; FC Tucson    ; 1-3;  Fresno Fuego     ;   Chukchansi Park          
 
 Date: 6/23/2013
-1600;  Victoria Highlanders FC  ; v;      Kitsap Pumas ;   Gordon Park Field       
-1600;  K-W United FC       ; v;   Toronto Lynx;   Centennial Park Stadium          
-1630;  Mississippi Brilla  ; v;   IMG Academy Bradenton ;    IMG Soccer Academy    
-1700;  Westchester Flames  ; v;   NJ LUSO Rangers FC     ;   Drew University       
-1700;  Long Island Rough Riders ; v; Bermuda Hogges      ;   Bermuda Athletic Association  
-1900;  Jersey Express   ; v;      Ocean City Nor'easters;    Carey Stadium    
+1600;  Victoria Highlanders FC  ; 2-1;      Kitsap Pumas ;   Gordon Park Field       
+1600;  K-W United FC       ; 2-3;   Toronto Lynx;   Centennial Park Stadium          
+1630;  Mississippi Brilla  ; 1-3;   IMG Academy Bradenton ;    IMG Soccer Academy    
+1700;  Westchester Flames  ; -1;   NJ LUSO Rangers FC     ;   Drew University       
+*1700;  Long Island Rough Riders ; v; Bermuda Hogges      ;   Bermuda Athletic Association  
+1900;  Jersey Express   ; 2-0;      Ocean City Nor'easters;    Carey Stadium    
 
 Date: 6/25/2013
-2030;  Forest City London       ; v;      Chicago Inferno; Wheaton College 
-2030;  Mississippi Brilla       ; v;      Panama City Beach Pirates;       Gavlak Stadium  
+1930; Central Jersey Spartans; 0-1; Long Island Rough Riders; Cy Donnelly Stadium
+1930; SW Florida Adrenaline; 2-2; VSI Tampa Bay FC; Plant City Stadium
+2030;  Forest City London       ; 1-1;      Chicago Inferno; Wheaton College 
+2030;  Mississippi Brilla       ; 1-2;      Panama City Beach Pirates;       Gavlak Stadium  
 
 Date: 6/26/2013
-1900;  Vermont Voltage  ; v;      Ottawa Fury    ; Algonquin College Soccer Complex        
-1930;  Reading United AC; v;      Westchester Flames ;       City Park Stadium             
+1900;  Vermont Voltage  ; 0-5;      Ottawa Fury    ; Algonquin College Soccer Complex        
+1900; West Virginia Chaos; 1-3; Southern West Virginia King's Warriors; YMCA Beckley WV
+1930;  Reading United AC; 4-1;      Westchester Flames ;       City Park Stadium             
 
 Date: 6/27/2013
-1400;  Forest City London       ; v;      Chicago Fire;    Toyota Park     
-1930;  Toronto Lynx             ; v;      Michigan Bucks ; Ultimate Soccer Arenas  
-2030;  Laredo Heat              ; v;      West Texas Sockers ;      Grande Communications Stadium  
-2200; BYU Cougars              ; v;      Southern California Seahorses ;  Biola University        
+1400;  Forest City London       ; 0-1;      Chicago Fire;    Toyota Park     
+1930;  Toronto Lynx             ; 1-1;      Michigan Bucks ; Ultimate Soccer Arenas  
+2030;  Laredo Heat              ; 1-1;      West Texas Sockers ;      Grande Communications Stadium  
+2200; BYU Cougars              ; 2-0;      Southern California Seahorses ;  Biola University        
 
 Date: 6/28/2013
 1900;  Baltimore Bohemians      ; v;      Bermuda Hogges;  Bermuda Athletic Association    
