@@ -8,6 +8,13 @@ l = [
 
     # division 1
 
+    {
+        'name': 'Philadelphia Phillies',
+        'founded': 1894,
+        'dissolved': 1894,
+        'city': 'Philadelphia, PA',
+        },
+
 
     # Need to separate later Philadelphia FC's.
     {

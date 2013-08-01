@@ -7,12 +7,29 @@ l = [
 
     # division 1
 
+    
+
+    {
+        'name': 'Brooklyn Bridegrooms',
+        'founded': 1894,
+        'dissolved': 1894,
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'New York Giants (1894)',
+        'founded': 1894,
+        'dissolved': 1894,
+        'city': 'New York, NY',
+        },
+
     {
         'name': 'New York Generals',
         'founded': 1967,
         'dissolved': 1968,
         'city': 'New York, NY',
         },
+
     {
         'name': 'New York Cosmos',
         'founded': datetime.datetime(1971, 2, 4),
@@ -49,8 +66,6 @@ l = [
         'dissolved': 1931,
         'city': 'Brooklyn, NY',
         },
-
-
 
     # Add Giants, Nationals alias,de-alias.
     {

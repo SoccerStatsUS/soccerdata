@@ -9,6 +9,13 @@ l = [
 
 
     {
+        'name': 'Boston Beaneaters',
+        'founded': 1894,
+        'dissolved': 1894,
+        'city': 'Boston, MA',
+        },
+
+    {
         'name': 'Fall River Marksmen',
         'founded': 1922,
         'dissolved': 1931,

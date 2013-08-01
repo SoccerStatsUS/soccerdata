@@ -8,11 +8,19 @@ l = [
     # Division 1
 
     {
+        'name': 'Baltimore Orioles',
+        'founded': 1894,
+        'dissolved': 1894,
+        'city': 'Baltimore, MD',
+        },
+
+    {
         'name': 'Baltimore Bays',
         'founded': 1967,
         'dissolved': 1969,
         'city': 'Baltimore, MD',
         },
+
 
     # USL
 

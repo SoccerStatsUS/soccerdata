@@ -7,6 +7,13 @@ l = [
 
     # division 1
 
+    {
+        'name': 'Washington Senators',
+        'founded': 1894,
+        'dissolved': 1894,
+        'city': 'Washington DC',
+        },
+
 
     {
         'name': 'Team America',
