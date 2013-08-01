@@ -1,9 +1,39 @@
+Competition: North American Soccer League (2011-)
+Season: 2011
+BlockSource: http://en.wikipedia.org/wiki/2011_North_American_Soccer_League_season
 
-Carolina Railhawks	North American Soccer League (2011-)	2011		28	17	3	8	54	50	26			
-Puerto Rico Islanders	North American Soccer League (2011-)	2011		28	15	7	6	52	41	32			
-FC Tampa Bay	North American Soccer League (2011-)	2011		28	11	8	9	41	41	36			
-Fort Lauderdale Strikers	North American Soccer League (2011-)	2011		28	9	11	8	38	35	36			
-FC Edmonton	North American Soccer League (2011-)	2011		28	10	6	12	36	35	40			
-NSC Minnesota Stars	North American Soccer League (2011-)	2011		28	9	9	10	36	30	32			
-Montreal Impact	North American Soccer League (2011-)	2011		28	9	8	11	35	35	27			
-Atlanta Silverbacks	North American Soccer League (2011-)	2011		28	4	4	20	16	25	63			
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+1   ; Carolina RailHawks       ;  28   ;   17  ;    3    ;   8   ;    50   ;   26  ;    +24   ;  54  
+2   ; Puerto Rico Islanders    ;  28   ;   15  ;    7    ;   6   ;    41   ;   32  ;    +9    ;  52
+3   ; Tampa Bay Rowdies        ;  28   ;   11  ;    8    ;   9   ;    41   ;   36  ;    +5    ;  41  
+4   ; Fort Lauderdale Strikers ;  28   ;   9   ;    11   ;   8   ;    35   ;   36  ;    −1    ;  38
+5   ; FC Edmonton              ;  28   ;   10  ;    6    ;   12  ;    35   ;   40  ;    −5    ;  36
+6   ; NSC Minnesota Stars      ;  28   ;   9   ;    9    ;   10  ;    30   ;   32  ;    −2    ;  36
+7   ; Montreal Impact          ;  28   ;   9   ;    8    ;   11  ;    35   ;   27  ;    +8    ;  35      
+8   ; Atlanta Silverbacks      ;  28   ;   4   ;    4    ;   20  ;    25   ;   63  ;    −38   ;  16
+
+
+Season: 2012
+
+1     ;  San Antonio Scorpions         ;  28   ;   13   ;   8   ;    7    ;   46  ;    27  ;    +19  ;   47 
+2     ;  Tampa Bay Rowdies             ;  28   ;   12   ;   9   ;    7    ;   37  ;    30  ;    +7   ;   45
+3     ;  Puerto Rico Islanders         ;  28   ;   11   ;   8   ;    9    ;   32  ;    30  ;    +2   ;   41      
+4     ;  Carolina RailHawks            ;  28   ;   10   ;   10  ;    8    ;   44  ;    46  ;    −2   ;   40
+5     ;  Fort Lauderdale Strikers      ;  28   ;   9    ;   9   ;    10   ;   40  ;    46  ;    −6   ;   36
+6     ;  Minnesota United              ;  28   ;   8    ;   11  ;    9    ;   34  ;    33  ;    +1   ;   35
+7     ;  Atlanta Silverbacks           ;  28   ;   7    ;   9   ;    12   ;   35  ;    46  ;    −11  ;   30
+8     ;  Edmonton                      ;  28   ;   5    ;   10  ;    13   ;   26  ;    36  ;    −10  ;   25
+
+
+Season: 2013 Spring
+
+1      ; Atlanta Silverbacks     ; 12    ;  6   ;    3   ;    3   ;    20   ;   15   ;   +5  ;    21  
+2      ; Carolina RailHawks      ; 12    ;  5   ;    5   ;    2   ;    20   ;   16   ;   +4  ;    20
+3      ; San Antonio Scorpions   ; 12    ;  6   ;    2   ;    4   ;    19   ;   15   ;   +4  ;    20
+4      ; Tampa Bay Rowdies       ; 12    ;  5   ;    3   ;    4   ;    21   ;   16   ;   +5  ;    18
+5      ; Edmonton                ; 12    ;  3   ;    5   ;    4   ;    13   ;   12   ;   +1  ;    14
+6      ; Minnesota United        ; 12    ;  4   ;    2   ;    6   ;    18   ;   23   ;   −5  ;    14
+7      ; Fort Lauderdale Strikers; 12    ;  2   ;    2   ;    8   ;    10   ;   24   ;   −14 ;    8
+
+
