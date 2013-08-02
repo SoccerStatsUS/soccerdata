@@ -435,19 +435,22 @@ Competition: International Friendly
 10/01/1988; Guatemala;   1-0      ; United States                ; Guatemala          
 06/01/1988; Guatemala;   1-2      ; Costa Rica         ; Guatemala          
 
-Season: 1987
+Season: 1988
 Competition: Olympic Games Qualifying
 25/10/1987; Guatemala;   3-0      ; Guyana             ; Guatemala          ;  8000
 18/10/1987; Guatemala;   6-0      ; Guyana             ; Guatemala          ;  5000
 
 Competition: International Friendly
+Season: 1987
 07/10/1987; Guatemala;   0-1      ; El Salvador        ; United States                
 
 Competition: Olympic Games Qualifying
+Season: 1988
 31/05/1987; Guatemala;   2-2      ; Honduras           ; Guatemala          
 17/05/1987; Guatemala;   2-1      ; Honduras           ; Honduras           
 
 Competition: International Friendly
+Season: 1987
 22/03/1987; Guatemala;   2-0      ; El Salvador        ; Guatemala          
 
 Season: 1985
@@ -477,12 +480,14 @@ Competition: Presidents Cup
 * Presidents Rd 1 ???
 03/06/1984; Guatemala;   0-0      ; South Korea        ; South Korea        ; 30000 
 
-Season: 1983
+Season: 1984
 Competition: Olympic Games Qualifying
+
 30/10/1983; Guatemala;   1-1      ; Costa Rica         ; Guatemala          
 23/10/1983; Guatemala;   0-1      ; Costa Rica         ; Costa Rica         
 
 Competition: Panamerican Games
+Season: 1983
 19/08/1983; Guatemala;   1-1      ; Cuba               ; Canada             
 
 Competition: Los Angeles Tournament
@@ -491,10 +496,12 @@ Competition: Los Angeles Tournament
 * (5-3p)
 
 Competition: Olympic Games Qualifying
+Season: 1984
 15/05/1983; Guatemala;   4-1      ; El Salvador        ; Guatemala          
 08/05/1983; Guatemala;   2-0      ; El Salvador        ; El Salvador        
 
 Competition: International Friendly
+Season: 1983
 05/04/1983; Guatemala;   0-2      ; Mexico             ; United States                
 
 Season: 1982
@@ -533,6 +540,7 @@ Competition: International Friendly
 
 Season: 1982
 Competition: Olympic Games Qualifying
+
 26/08/1979; Guatemala;   0-1      ; Costa Rica         ; El Salvador       
 05/08/1979; Guatemala;   0-1      ; Costa Rica         ; Guatemala         
 25/07/1979; Guatemala;   2-1      ; Costa Rica         ; Costa Rica        
@@ -542,6 +550,7 @@ Competition: Panamerican Games
 04/07/1979; Guatemala;   2-2      ; Cuba               ; Puerto Rico        
 
 Competition: Olympic Games Qualifying
+Season: 1982
 20/05/1979; Guatemala;   0-1      ; El Salvador        ; El Salvador        
 13/05/1979; Guatemala;   2-0      ; El Salvador        ; Guatemala          
 
@@ -588,6 +597,7 @@ Competition: International Friendly
 01/08/1975; Guatemala;   0-2      ; Panama             ; Panama             
 
 Competition: Olympic Games Qualifying
+Season: 1976
 27/04/1975; Guatemala;   2-0      ; Honduras           ; Guatemala          
 20/04/1975; Guatemala;   0-0      ; Honduras           ; Honduras           
 
@@ -625,6 +635,7 @@ Competition: CONCACAF Championship Qualifying
 04/10/1971; Guatemala;   0-1      ; Honduras           ; Honduras           
 
 Competition: Olympic Games Qualifying
+Season: 1972
 15/08/1971; Guatemala;   1-0      ; Surinam            ; Surinam            
 25/07/1971; Guatemala;   4-1      ; Panama             ; Guatemala          
 18/07/1971; Guatemala;   2-2      ; Surinam            ; Guatemala          
@@ -664,11 +675,12 @@ Competition: Olympic Games Qualifying
 Competition: International Friendly
 07/05/1968; Guatemala;  0-3       ; El Salvador        ; El Salvador        
 
-Season: 1967
+Season: 1968
 Competition: Olympic Games Qualifying
 09/12/1967; Guatemala;  3-1       ; Bermuda            ; Bermuda            
 02/12/1967; Guatemala;  1-1       ; Bermuda            ; Guatemala          
 
+Season: 1967
 Competition: International Friendly
 05/11/1967; Guatemala;  3-1       ; El Salvador        ; El Salvador        
 22/10/1967; Guatemala;  1-0       ; El Salvador        ; El Salvador        
