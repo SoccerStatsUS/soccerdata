@@ -3,7 +3,7 @@ Season: 2010
 BlockSource: http://en.wikipedia.org/wiki/USSF_Division_2_Professional_League
 
 
-Key: position; team; points; games_played; wins; losses; ties; goals_for; goals_against
+Key: position; team; points; games; wins; losses; ties; goals_for; goals_against
 
 1        ;    Carolina RailHawks       ;  47    ;  30  ;    13  ;    9    ;   8   ;    44  ;    32   
 2        ;    Vancouver Whitecaps      ;  45    ;  30  ;    10  ;    5    ;   15  ;    32  ;    22   
