@@ -79,6 +79,13 @@ l = [
         },        
 
         {
+        'name': 'Frank Clair Stadium',
+        'location': 'Ottawa, ON',
+        'capacity': 28826,
+        'opened': 1908,
+        },        
+
+        {
         'name': 'Centennial Park Stadium',
         'location': 'Etobicoke, ON',
         },        

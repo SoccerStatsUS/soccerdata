@@ -48,6 +48,28 @@ l = [
         'opened': datetime.datetime(1955, 3, 6),
         'capacity': 55000,
         },
+
+    {
+        'name': 'Cairo International Stadium',
+        'location': 'Cairo, Egypt',
+        'opened': 1960,
+        'capacity': 100500,
+        },
+
+    {
+        'name': 'Mubarak International Stadium',
+        'location': 'Suez, Egypt',
+        'opened': 2009,
+        'capacity': 45000,
+        },
+
+    {
+        'name': 'Port Said Stadium',
+        'location': 'Port Said, Egypt',
+        'opened': 1955,
+        'capacity': 18000,
+        },
+
     {
         'name': 'Green Point Stadium',
         'location': 'Cape Town, South Africa',
