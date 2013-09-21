@@ -79,71 +79,71 @@ d = {
         ('1989-1990', 'River Plate'),
         ('1990-1991', 'Newell\'s Old Boys'),
 
-        ('1991 Apertura', 'River Plate'),
-        ('1992 Clausura', 'Newell\'s Old Boys'),
+        ('1991-1992 Apertura', 'River Plate'),
+        ('1991-1992 Clausura', 'Newell\'s Old Boys'),
 
-        ('1992 Apertura', 'Boca Juniors'),
-        ('1993 Clausura', 'Velez Sarsfield'),
+        ('1992-1993 Apertura', 'Boca Juniors'),
+        ('1992-1993 Clausura', 'Velez Sarsfield'),
 
-        ('1993 Apertura', 'River Plate'),
-        ('1994 Clausura', 'Independiente'),
+        ('1993-1994 Apertura', 'River Plate'),
+        ('1993-1994 Clausura', 'Independiente'),
 
-        ('1994 Apertura', 'River Plate'),
-        ('1995 Clausura', 'San Lorenzo de Almagro'),
+        ('1994-1995 Apertura', 'River Plate'),
+        ('1994-1995 Clausura', 'San Lorenzo de Almagro'),
 
-        ('1995 Apertura', 'Velez Sarsfield'),
-        ('1996 Clausura', 'Velez Sarsfield'),
+        ('1995-1996 Apertura', 'Velez Sarsfield'),
+        ('1995-1996 Clausura', 'Velez Sarsfield'),
 
-        ('1996 Apertura', 'River Plate'),
-        ('1997 Clausura', 'River Plate'),
+        ('1996-1997 Apertura', 'River Plate'),
+        ('1996-1997 Clausura', 'River Plate'),
 
-        ('1997 Apertura', 'River Plate'),
-        ('1998 Clausura', 'Velez Sarsfield'),
+        ('1997-1998 Apertura', 'River Plate'),
+        ('1997-1998 Clausura', 'Velez Sarsfield'),
 
-        ('1998 Apertura', 'Boca Juniors'),
-        ('1999 Clausura', 'Boca Juniors'),
+        ('1998-1999 Apertura', 'Boca Juniors'),
+        ('1998-1999 Clausura', 'Boca Juniors'),
 
-        ('1999 Apertura', 'River Plate'),
-        ('2000 Clausura', 'River Plate'),
+        ('1999-2000 Apertura', 'River Plate'),
+        ('1999-2000 Clausura', 'River Plate'),
         
-        ('2000 Apertura', 'Boca Juniors'),
-        ('2001 Clausura', 'San Lorenzo de Almagro'),
+        ('2000-2001 Apertura', 'Boca Juniors'),
+        ('2000-2001 Clausura', 'San Lorenzo de Almagro'),
 
-        ('2001 Apertura', 'Racing Club'),
-        ('2002 Clausura', 'River Plate'),
+        ('2001-2002 Apertura', 'Racing Club'),
+        ('2001-2002 Clausura', 'River Plate'),
 
-        ('2002 Apertura', 'Independiente'),
-        ('2003 Clausura', 'River Plate'),
+        ('2002-2003 Apertura', 'Independiente'),
+        ('2002-2003 Clausura', 'River Plate'),
 
-        ('2003 Apertura', 'Boca Juniors'),
-        ('2004 Clausura', 'River Plate'),
+        ('2003-2004 Apertura', 'Boca Juniors'),
+        ('2003-2004 Clausura', 'River Plate'),
 
-        ('2004 Apertura', 'Newell\'s Old Boys'),
-        ('2005 Clausura', 'Velez Sarsfield'),
+        ('2004-2005 Apertura', 'Newell\'s Old Boys'),
+        ('2004-2005 Clausura', 'Velez Sarsfield'),
 
-        ('2005 Apertura', 'Boca Juniors'),
-        ('2006 Clausura', 'Boca Juniors'),
+        ('2005-2006 Apertura', 'Boca Juniors'),
+        ('2005-2006 Clausura', 'Boca Juniors'),
 
-        ('2006 Apertura', 'Estudiantes de la Plata'),
-        ('2007 Clausura', 'San Lorenzo de Almagro'),
+        ('2006-2007 Apertura', 'Estudiantes de la Plata'),
+        ('2006-2007 Clausura', 'San Lorenzo de Almagro'),
 
-        ('2007 Apertura', 'Lanus'),
-        ('2008 Clausura', 'River Plate'),
+        ('2007-2008 Apertura', 'Lanus'),
+        ('2007-2008 Clausura', 'River Plate'),
 
-        ('2008 Apertura', 'Boca Juniors'),
-        ('2009 Clausura', 'Velez Sarsfield'),
+        ('2008-2009 Apertura', 'Boca Juniors'),
+        ('2008-2009 Clausura', 'Velez Sarsfield'),
 
-        ('2009 Apertura', 'Banfield'),
-        ('2010 Clausura', 'Argentinos Juniors'),
+        ('2009-2010 Apertura', 'Banfield'),
+        ('2009-2010 Clausura', 'Argentinos Juniors'),
 
-        ('2010 Apertura', 'Estudiantes de la Plata'),
-        ('2011 Clausura', 'Velez Sarsfield'),
+        ('2010-2011 Apertura', 'Estudiantes de la Plata'),
+        ('2010-2011 Clausura', 'Velez Sarsfield'),
 
-        ('2011 Apertura', 'Boca Juniors'),
-        ('2012 Clausura', 'Arsenal de Sarandi'),
+        ('2011-2012 Apertura', 'Boca Juniors'),
+        ('2011-2012 Clausura', 'Arsenal de Sarandi'),
 
-        ('2012 Apertura', 'Velez Sarsfield'),
-        ('2013 Clausura', 'Newell\'s Old Boys'),
+        ('2012-2013 Apertura', 'Velez Sarsfield'),
+        ('2012-2013 Clausura', 'Newell\'s Old Boys'),
         
          ]
 
