@@ -35,10 +35,14 @@ def process_awards(d):
     
     competition = d.pop('competition')
 
+
+    champion_name = mvp_name = None
+
     if 'champion' in d:
         champion_name = d.pop('champion')
-    else:
-        champion_name = None
+
+    if 'mvp' in d:
+        mvp_name = d.pop('mvp')
     
 
     # Which awards are given to teams rather than people
@@ -56,6 +60,8 @@ def process_awards(d):
 
         if award == champion_name or award == 'Champion':
             award_type = 'champion'
+        elif award == mvp_name or award == 'MVP':
+            award_type = 'mvp'
         else:
             award_type = ''
 
@@ -114,6 +120,11 @@ def process_uruguay_awards():
 def process_chile_awards():
     from soccerdata.data.lists.awards.chile import d
     return process_awards(d)
+
+def process_england_awards():
+    from soccerdata.data.lists.awards.england import d
+    return process_awards(d)
+
 
 
 def process_argentina_awards():
