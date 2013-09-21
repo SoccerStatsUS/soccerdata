@@ -121,16 +121,10 @@ l = [
         'founded': 1898,
         },
 
-    {
-        'name': 'Philadelphia Charge',
-        'city': 'Phildadelphia, PA',
-        'founded': 2001,
-        'dissolved': 2003,
-        },
 
     {
         'name': 'Philadelphia Charge',
-        'city': 'Phildadelphia, PA',
+        'city': 'Philadelphia, PA',
         'founded': 2009,
         'dissolved': 2012,
         },

@@ -1683,6 +1683,12 @@ l = [
         'founded': datetime.datetime(1895, 11, 17),
         'city': 'Rio de Janerio, Brazil',
         },
+
+    {
+        'name': 'AA Flamengo',
+        'founded': datetime.datetime(1954, 6, 1),
+        'city': 'Guarulhos, Brazil',
+        },
     {
         'name': 'Figueirense',
         'founded': datetime.datetime(1921, 6, 12),
@@ -1717,6 +1723,12 @@ l = [
         'name': 'Santos FC',
         'founded': datetime.datetime(1912, 4, 14),
         'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Portuguesa Santista',
+        'founded': datetime.datetime(1917, 11, 20),
+        'city': 'Santos, Brazil',
         },
 
     {
