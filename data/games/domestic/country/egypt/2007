@@ -20,7 +20,7 @@ Competition: Egyptian Premier League
 *15.Baladiyyat Al-Mehalla        30  5 10 15  23-40  25  Relegated
 *16.Asmant Suez                  30  5  7 18  27-57  22  Relegated  [aka Suez Cement]
 
-Round 1
+Round: 1
 [Aug 13]
 Ismaily       1-0 Zamalek
 Masry         2-2 Ahly
@@ -33,7 +33,7 @@ Mokawloon     2-3 B Mehalla
 Suez Cement   0-1 Jaish
 Itesalat      0-1 Aluminium
 
-Round 2
+Round: 2
 [Aug 24]
 Petrojet      2-0 Itesalat 
 ENPPI         3-2 Haras Hodoud
@@ -45,7 +45,7 @@ Jaish         1-0 Masry
 Ittihad       1-2 Mokawloon
 Aluminium     2-2 Suez Cement
 
-Round 3
+Round: 3
 [Aug 28]
 Haras Hodoud  1-2 Ahly
 Itesalat      1-4 Ismaily 
@@ -58,7 +58,7 @@ Petrojet      3-0 Aluminium
 Masry         2-0 Suez Cement
 Mokawloon     1-1 ENPPI
 
-Round 4
+Round: 4
 [Sep 12]
 Jaish         2-1 Haras Hodoud
 Aluminium     2-1 Masry
@@ -71,7 +71,7 @@ Suez Cement   0-1 G Mehalla
 B Mehalla     0-2 Itesalat
 Ittihad       1-1 Tersana
 
-Round 5
+Round: 5
 [Sep 17]
 Zamalek       0-1 Ahly
 Ismaily       1-1 Aluminium   
@@ -85,7 +85,7 @@ Haras Hodoud  1-1 Suez Cement
 G Mehalla     1-0 Masry
 Mokawloon     0-2 Jaish
 
-Round 6
+Round: 6
 [Sep 25]
 Ittihad       0-0 Petrojet
 ENPPI         0-1 Itesalat
@@ -99,7 +99,7 @@ Ahly          1-0 Tersana
 [Nov 6]
 B Mehalla     0-2 Ismaily 
 
-Round 7
+Round: 7
 [Oct 1]
 Ismaily       4-4 Ittihad
 Itesalat      1-2 Ahly
@@ -113,7 +113,7 @@ Haras Hodoud  1-1 G Mehalla
 Tersana       1-2 Jaish
 Mokawloon     0-0 Masry
 
-Round 8
+Round: 8
 [Oct 26]
 Ittihad       0-2 B Mehalla
 Aluminium     1-2 Haras Hodoud
@@ -126,7 +126,7 @@ ENPPI         1-1 Ismaily
 [Dec 10]
 Ahly          2-0 Petrojet
 
-Round 9
+Round: 9
 [Oct 31]
 Petrojet      2-1 Jaish
 Itesalat      3-2 Suez Cement
@@ -139,7 +139,7 @@ Ismaily       1-1 Ahly
 Mokawleen     0-2 Haras Hodoud
 B Mehalla     1-1 ENPPI
  
-Round 10
+Round: 10
 [Nov 5]
 G Mehalla     1-1 Tersana
 [Nov 6]
@@ -154,7 +154,7 @@ Ahly          1-0 B Mehalla
 [Apr 22]
 Jaish         1-0 Ismaily 
 
-Round 11
+Round: 11
 [Nov 21]
 B Mehalla     0-0 Jaish
 [Nov 28]
@@ -166,7 +166,7 @@ Ittihad       0-2 Ahly
 Ismaily       3-0 Suez Cement
 Zamalek       1-0 Mokawloon
 
-Round 12
+Round: 12
 [Dec 2]
 Aluminium     2-2 Zamalek
 Haras Hodoud  1-1 Itesalat
@@ -178,7 +178,7 @@ Mokawleen     1-1 Tersana
 Suez Cement   2-1 B Mehalla
 Masry         2-1 Ismaily
 
-Round 13
+Round: 13
 [Dec 6]
 ENPPI         0-0 Jaish
 Petrojet      2-3 Haras Hodoud
@@ -190,7 +190,7 @@ Ittihad       1-0 Suez Cement
 Itesalat      0-4 Mokawloon
 Tersana       0-3 Zamalek
 
-Round 14
+Round: 14
 [Dec 14]
 Suez Cement   1-1 ENPPI   
 Masry         2-2 Ittihad   
@@ -202,7 +202,7 @@ Tersana       1-0 Aluminium
 Mokawloon     2-2 Petrojet   
 Zamalek       3-0 Itesalat   
 
-Round 15
+Round: 15
 [Dec 18]
 B Mehalla     2-2 Haras Hodoud
 ENPPI         0-0 Masry
@@ -214,7 +214,7 @@ Aluminium     0-1 Jaish
 Petrojet      1-0 Zamalek
 Itesalat      0-2 Tersana 
 
-Round 16
+Round: 16
 [Feb 8]
 Jaish         0-1 Suez Cement
 [Feb 20]
@@ -226,7 +226,7 @@ ENPPI         2-0 G Mehalla
 Ismaily       1-0 Zamalek
 Petrojet      4-0 Tersana
 
-Round 17
+Round: 17
 [Feb 23]
 Suez Cement   1-0 Aluminium
 G Mehalla     0-1 Ahly
@@ -238,7 +238,7 @@ Tersana       0-0 Ismaily
 Haras Hodoud  2-0 ENPPI
 Itesalat      1-0 Petrojet
 
-Round 18
+Round: 18
 [Feb 27]
 Suez Cement   1-0 Masry
 Ittihad       1-1 Zamalek
@@ -250,7 +250,7 @@ Aluminium     1-0 Petrojet
 Ismaily       2-0 Itesalat
 Ahly          2-0 Haras Hodoud
 
-Round 19
+Round: 19
 [Mar 9]
 Haras Hodoud  0-0 Jaish
 Itesalat      1-1 B Mehalla
@@ -262,7 +262,7 @@ G Mehalla     4-0 Suez Cement
 Masry         1-1 Aluminium
 Zamalek       1-0 ENPPI
 
-Round 20
+Round: 20
 [Mar 13]
 B Mehalla     1-2 Petrojet
 Ittihad       1-0 Itesalat
@@ -275,7 +275,7 @@ Aluminium     1-1 Ismaily
 Masry         3-1 G Mehalla
 ENPPI         3-1 Tersana
 
-Round 21
+Round: 21
 [Mar 29]
 Zamalek       2-1 Jaish
 G Mehalla     4-2 Aluminium
@@ -287,7 +287,7 @@ Ismaily       0-0 B Mehalla
 Itesalat      1-1 ENPPI
 Petrojet      0-1 Ittihad
 
-Round 22
+Round: 22
 [Apr 4]
 Masry         1-1 Mokawloon    
 Aluminium     2-2 B Mehalla 
@@ -301,7 +301,7 @@ G Mehalla     0-1 Haras Hodoud
 [Apr 14]
 Suez Cement   3-4 Zamalek       
 
-Round 23
+Round: 23
 [Apr 9]
 Tersana       1-1 Suez Cement
 B Mehalla     1-1 Ittihad
@@ -313,7 +313,7 @@ Petrojet      1-3 Ahly
 Itesalat      0-3 Jaish
 Zamalek       1-2 Masry
 
-Round 24
+Round: 24
 [Apr 16]
 Masry         1-0 Tersana
 Aluminium     2-0 Ittihad
@@ -326,7 +326,7 @@ Ahly          1-1 Ismaily
 [Apr 18]
 Jaish         0-0 Petrojet
 
-Round 25
+Round: 25
 [Apr 21]
 B Mehalla     0-0 Ahly          
 Itesalat      1-1 Masry         
@@ -339,7 +339,7 @@ Ittihad       0-0 ENPPI
 [May 10]
 Ismaily       4-2 Jaish         
 
-Round 26
+Round: 26
 [Apr 27]
 Masry         2-1 Petrojet      
 Jaish         1-0 B Mehalla     
@@ -352,7 +352,7 @@ Ahly          0-2 Ittihad
 Haras Hodoud  1-1 Tersana       
 Mokawloon     1-1 Zamalek       
 
-Round 27
+Round: 27
 [May 5]
 Zamalek       5-1 Aluminium     
 Itesalat      0-2 Haras Hodoud  
@@ -364,7 +364,7 @@ Ismaily       2-0 Masry
 ENPPI         3-0 Ahly          
 Tersana       2-1 Mokawloon     
 
-Round 28 [May 15]
+Round: 28 [May 15]
 Masry         0-1 B Mehalla
 Aluminium     1-2 Ahly
 Mokawloon     0-1 Itesalat
@@ -374,7 +374,7 @@ Zamalek       1-0 Tersana
 G Mehalla     2-0 Ismaily
 Suez Cement   1-2 Ittihad
 
-Round 29 [May 19]
+Round: 29 [May 19]
 Ahly          0-0 Jaish
 Itesalat      3-2 Zamalek
 ENPPI         2-0 Suez Cement
@@ -384,7 +384,7 @@ Petrojet      1-0 Mokawloon
 Ismaily       1-0 Haras Hodoud
 B Mehalla     0-2 G Mehalla
 
-Round 30 [May 22]
+Round: 30 [May 22]
 Zamalek       1-3 Petrojet
 Jaish         2-0 Aluminium
 G Mehalla     3-0 Ittihad

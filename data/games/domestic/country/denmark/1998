@@ -18,7 +18,7 @@ Competition: Superligaen
 *11. Aarhus Fremad       33    7    8   18    51    73   29  Relegated
 *12. B 93                33    3    3   27    22    80   12  Relegated
 
-Round 1 [Jul 26]:
+Round: 1 [Jul 26]:
 B 93          1-5 Brøndby IF
 Vejle BK      1-3 FC København
 Lyngby FC     0-0 Silkeborg IF
@@ -26,7 +26,7 @@ AaB           4-0 AGF
 Aarhus Fremad 1-4 AB
 Viborg FF     0-3 Herfølge BK
 
-Round 2:
+Round: 2:
 [Aug 2]
 Herfølge BK   3-1 B 93
 AB            1-1 AaB
@@ -36,7 +36,7 @@ FC København  3-2 Viborg FF
 [Aug 3]
 Brøndby IF    2-0 Aarhus Fremad
 
-Round 3:
+Round: 3:
 [Aug 7]
 AaB           1-0 Brøndby IF
 Viborg FF     2-1 Silkeborg IF
@@ -46,7 +46,7 @@ Aarhus Fremad 2-0 B 93
 Lyngby FC     0-3 AB
 FC København  0-3 Herfølge BK
 
-Round 4 [Aug 16]:
+Round: 4 [Aug 16]:
 Herfølge BK   3-1 Aarhus Fremad
 B 93          1-5 AaB
 Brøndby IF    2-3 Lyngby FC
@@ -54,7 +54,7 @@ AB            0-1 Vejle BK
 AGF           3-2 Viborg FF
 Silkeborg IF  3-3 FC København
 
-Round 5:
+Round: 5:
 [Aug 21]
 Brøndby IF    3-0 Silkeborg IF
 AaB           5-2 Vejle BK
@@ -64,7 +64,7 @@ Aarhus Fremad 3-1 Viborg FF
 B 93          0-0 FC København
 AB            1-1 AGF
 
-Round 6 [Aug 30]:
+Round: 6 [Aug 30]:
 FC København  1-0 Brøndby IF
 Viborg FF     5-0 B 93
 Vejle BK      4-2 Aarhus Fremad
@@ -72,7 +72,7 @@ Lyngby FC     2-2 AaB
 Silkeborg IF  1-2 AB
 Herfølge BK   1-1 AGF
 
-Round 7
+Round: 7
 [Sep 11]
 AGF           2-3 Silkeborg IF
 B 93          0-1 Vejle BK
@@ -82,7 +82,7 @@ Aarhus Fremad 1-2 Lyngby FC
 AB            4-1 FC København
 Herfølge BK   0-0 AaB
 
-Round 8 [Sep 20]:
+Round: 8 [Sep 20]:
 Vejle BK      1-2 Brøndby IF
 Lyngby FC     2-1 B 93
 AaB           3-1 Aarhus Fremad
@@ -90,7 +90,7 @@ FC København  0-2 AGF
 Viborg FF     0-1 AB
 Silkeborg IF  0-1 Herfølge BK
 
-Round 9:
+Round: 9:
 [Sep 25]
 AGF           1-3 Brøndby IF
 Silkeborg IF  2-0 B 93
@@ -100,7 +100,7 @@ AB            1-0 Herfølge BK
 FC København  2-2 Aarhus Fremad
 Viborg FF     1-2 AaB
 
-Round 10 [Oct 4]:
+Round: 10 [Oct 4]:
 Herfølge BK   2-2 Vejle BK
 Lyngby FC     2-3 Viborg FF
 AaB           3-3 FC København
@@ -108,7 +108,7 @@ Aarhus Fremad 2-2 Silkeborg IF
 B 93          1-2 AGF
 Brøndby IF    0-1 AB
 
-Round 11:
+Round: 11:
 [Oct 16]
 Brøndby IF    5-1 Herfølge BK
 [Oct 18]
@@ -118,7 +118,7 @@ Silkeborg IF  0-0 AaB
 FC København  5-1 Lyngby FC
 Vejle BK      4-0 Viborg FF
 
-Round 12:
+Round: 12:
 [Oct 25]
 Viborg FF     2-4 Aarhus Fremad
 B 93          1-0 Brøndby IF
@@ -129,7 +129,7 @@ Lyngby FC     3-2 AB
 [Nov 24]
 AGF           2-3 Silkeborg IF
 
-Round 13:
+Round: 13:
 [Oct 30]
 Brøndby IF    2-1 Viborg FF
 [Nov 1] 
@@ -140,7 +140,7 @@ Vejle BK      2-0 B 93
 [Nov 18]
 AB            1-0 Aarhus Fremad 
 
-Round 14 [Nov 8]:
+Round: 14 [Nov 8]:
 Herfølge BK   0-0 AGF
 AB            0-4 Brøndby IF
 Viborg FF     0-1 Vejle BK
@@ -148,7 +148,7 @@ B 93          1-2 FC København
 AaB           2-4 Silkeborg IF
 Aarhus Fremad 2-4 Lyngby FC
 
-Round 15 [Nov 15]:
+Round: 15 [Nov 15]:
 Lyngby FC     1-3 Herfølge BK
 Silkeborg IF  2-2 B 93
 FC København  4-2 Viborg FF
@@ -157,7 +157,7 @@ Brøndby IF    1-1 Aarhus Fremad
 [Mar 7]
 AGF           1-0 AaB
 
-Round 16 [Nov 22]: 
+Round: 16 [Nov 22]: 
 Silkeborg IF  1-1 AB
 FC København  3-0 Aarhus Fremad
 [Mar 7]
@@ -169,7 +169,7 @@ Lyngby FC     1-1 AaB                 [Mar 10 abandoned at 0-0 in 20' due to sno
 [Apr 14]
 AGF           0-0 Viborg FF
 
-Round 17 [Nov 29]:
+Round: 17 [Nov 29]:
 B 93          4-2 AGF
 AaB           1-1 Herfølge BK
 Aarhus Fremad 3-3 Vejle BK
@@ -177,7 +177,7 @@ AB            0-0 FC København
 Viborg FF     3-3 Silkeborg
 Brøndby IF    6-0 Lyngby FC
 
-Round 18 
+Round: 18 
 [Mar 14]:
 Viborg FF     1-0 Herfølge BK
 B 93          0-3 AaB
@@ -187,7 +187,7 @@ Vejle BK      1-2 Lyngby FC
 [Mar 16]:
 AB            1-0 AGF
 
-Round 19 
+Round: 19 
 [Mar 19]:
 FC København  0-1 Vejle BK
 [Mar 21]:
@@ -198,7 +198,7 @@ AGF           1-1 Aarhus Fremad
 [Mar 22]
 Silkeborg IF  1-2 Brøndby IF
 
-Round 20 [Apr 1]:
+Round: 20 [Apr 1]:
 Brøndby IF    4-1 AGF
 Aarhus Fremad 0-1 Herfølge BK
 AB            0-1 AaB
@@ -206,7 +206,7 @@ Viborg FF     5-1 B 93
 Vejle BK      4-1 Silkeborg IF
 FC København  2-0 Lyngby FC
 
-Round 21 [Apr 5]:
+Round: 21 [Apr 5]:
 Lyngby FC     3-1 Viborg FF
 B 93          0-1 AB
 AaB           3-2 Aarhus Fremad
@@ -214,7 +214,7 @@ Herfølge BK   1-2 Brøndby IF
 AGF           2-1 Vejle BK
 Silkeborg IF  2-2 FC København
 
-Round 22: 
+Round: 22: 
 [Apr 9]
 FC København  1-1 AGF
 [Apr 11]
@@ -225,7 +225,7 @@ Silkeborg IF  1-1 Lyngby FC
 [Apr 12]
 Brøndby IF    1-2 AaB
 
-Round 23:
+Round: 23:
 [Apr 18]
 Herfølge BK   0-2 Lyngby FC
 B 93          0-1 Silkeborg IF
@@ -235,7 +235,7 @@ Aarhus Fremad 1-3 Brøndby IF
 [Apr 19]
 AaB           2-1 AGF
 
-Round 24: 
+Round: 24: 
 [Apr 23]
 Silkeborg IF  0-0 AaB
 [Apr 25]
@@ -246,7 +246,7 @@ FC København  1-0 B 93
 [Apr 26]
 Lyngby FC     1-1 Aarhus Fremad
 
-Round 25: 
+Round: 25: 
 [Apr 30]
 AaB           4-3 FC København
 Aarhus Fremad 1-3 AB   
@@ -256,7 +256,7 @@ Herfølge BK   1-1 Silkeborg IF
 B 93          0-2 Vejle BK
 Viborg FF     2-0 Brøndby IF
 
-Round 26 [May 5]:
+Round: 26 [May 5]:
 AB            1-3 Lyngby FC
 Aarhus Fremad 3-2 Viborg FF
 Brøndby IF    4-1 B 93
@@ -264,7 +264,7 @@ Vejle BK      0-1 AaB
 FC København  0-1 Herfølge BK
 Silkeborg IF  2-0 AGF
 
-Round 27:
+Round: 27:
 [May 9]
 AGF           2-1 FC København
 Herfølge BK   2-0 Vejle BK
@@ -274,7 +274,7 @@ Lyngby FC     2-2 Silkeborg IF
 [May 10]
 AaB           0-0 Brøndby IF
 
-Round 28:
+Round: 28:
 [May 14]
 Vejle BK      2-2 AGF
 [May 16]
@@ -285,7 +285,7 @@ FC København  2-2 Silkeborg IF
 [May 17]
 Brøndby IF    1-0 Herfølge BK
 
-Round 29 [May 20]:
+Round: 29 [May 20]:
 AGF           3-3 Brøndby IF
 Herfølge BK   2-2 Aarhus Fremad
 AaB           2-0 AB
@@ -293,7 +293,7 @@ B 93          0-5 Viborg FF
 Silkeborg IF  4-3 Vejle BK
 Lyngby FC     3-1 FC København
 
-Round 30 [May 24]:
+Round: 30 [May 24]:
 B 93          1-3 Lyngby FC
 Viborg FF     0-0 AaB
 AB            2-1 Herfølge BK
@@ -301,7 +301,7 @@ Aarhus Fremad 2-1 AGF
 Brøndby IF    3-0 Silkeborg IF
 Vejle BK      1-0 FC København
 
-Round 31:
+Round: 31:
 [May 30]
 Herfølge BK   4-1 Viborg FF
 AaB           2-0 B 93
@@ -311,7 +311,7 @@ Lyngby FC     2-0 Vejle BK
 [May 31]
 AGF           3-1 AB
 
-Round 32 [Jun 13]:
+Round: 32 [Jun 13]:
 AaB           3-3 Lyngby FC
 B 93          1-2 Herfølge BK
 Viborg FF     3-1 AGF
@@ -319,7 +319,7 @@ AB            4-2 Silkeborg IF
 Aarhus Fremad 3-3 FC København
 Brøndby IF    1-2 Vejle BK
 
-Round 33 [Jun 16]:
+Round: 33 [Jun 16]:
 AGF           2-1 B 93
 Herfølge BK   3-2 AaB
 Vejle BK      4-1 Aarhus Fremad

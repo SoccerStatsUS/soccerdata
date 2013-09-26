@@ -23,7 +23,7 @@ Season: 1999-2000
 *17.Göztepe SK Izmir           34  7  5 22 26-54 26  Relegated
 *18.Vanspor K                  34  4  6 24 38-78 18  Relegated
 
-Round 1
+Round: 1
 [Aug 6]
 Galatasaray     1-2 Gaziantep
    [13' Hagi - 23', 86' Desire]
@@ -47,7 +47,7 @@ Göztepe         0-0 Kocaeli
 [Vanspor and Antalyaspor had their matches awarded 0-3 against them for
  failing to list a player born in 1979 or later in their 18-player squad]
 
-Round 2
+Round: 2
 [Aug 13]
 Altay           0-0 Göztepe
 [Aug 14]
@@ -68,7 +68,7 @@ Besiktas        4-0 Samsun
   [20', 43', 82' Ahmet, 86' Münch]
 Ankaragücü      0-0 Adana
 
-Round 3
+Round: 3
 Antalya         0-2 Trabzon
   [68' Vugrinec, 90' Hami]
 Galatasaray     5-0 Ankaragücü
@@ -88,7 +88,7 @@ Bursa           0-1 Gaziantep
 Samsun          2-1 Adana
   [12' Serkan, 53' Tümer, 58' Cafer]
 
-Round 4
+Round: 4
 [Sep 17]
 Adana           3-4 Galatasaray
   [Cafer 27, 57, Ali Asim 48; Tugay 6, Hakan Sükür 36, 88, Ahmet 69]
@@ -111,7 +111,7 @@ Denizli         4-1 Samsun
 Ankaragücü      1-3 Antalya
   [Gökmen Yildiran 82; Zafer 5, Fazli 44, Olgun 66]
 
-Round 5
+Round: 5
 [Sep 24]
 Samsun          0-1 Galatasaray
   [Hagi 66-p]
@@ -131,7 +131,7 @@ Göztepe         1-1 Trabzon
 Antalya         2-2 Adana
   [Guintchev 39, Olgun 53; Volkan 78, Cenk 90-p]
 
-Round 6
+Round: 6
 [Oct 15]
 Galatasaray     2-0 Antalya
   [Arif 7, Capone 75]
@@ -153,7 +153,7 @@ Altay           2-2 Besiktas
 Istanbul        3-1 Gençlerbirligi
   [Sertan 40, 65, Mithat 53; Marakshi 14]
 
-Round 7
+Round: 7
 [Oct 22]
 Bursa           0-0 Galatasaray 
 [Oct 23]
@@ -175,7 +175,7 @@ Denizli         2-1 Altay
 Samsun          0-1 Antalya
   [Fazli 32]
 
-Round 8
+Round: 8
 [Oct 29]
 Galatasaray     2-0 Göztepe
   [Popescu 5, Hakan Sükür 48]
@@ -197,7 +197,7 @@ Antalya         1-1 Bursa
 Trabzon         1-2 Gençlerbirligi  
   [Hami 83; Metin 24p, Phiri 73]
 
-Round 9
+Round: 9
 [Nov 19]
 Denizli         1-0 Gaziantep
   [Bülent Akin 66]
@@ -221,7 +221,7 @@ Samsun          1-0 Bursa
 Fenerbahçe      1-2 Galatasaray
   [Dinu Viorel Moldovan 50; Hasan Sas 19, Mandinga Dos Santos Marcio 30]
 
-Round 10
+Round: 10
 [Nov 26]
 Ankaragücü      2-3 Besiktas
   [Cafer Aydin 10, 64; Ahmet Dursun 76, 85, Ersen Martin 79]
@@ -245,7 +245,7 @@ Trabzon         1-1 Denizli
 Galatasaray     4-1 Erzurum         
   [Okan Buruk 43, 58, Emre Belözoglu 70, Hakan Sükür 77; Zafer Demir 81]
 
-Round 11
+Round: 11
 [Dec 3]
 Gençlerbirligi  1-1 Galatasaray
   [Hakan Sükür 13; Maimane Alfred Phiri 75]
@@ -267,7 +267,7 @@ Denizli         1-1 Ankaragücü
 Fenerbahçe      2-2 Bursa
   [Elvir Bolic 32, Dinu Viorel Moldovan 42; Mohamed El Badraoui 60, Murat Sözkesen 80]
 
-Round 12 
+Round: 12 
 [Dec 10]
 Adana           3-2 Denizli
   [Alban Bushi 60, 62, 70; Mehmet Ali Kocaoglu 12, Yusuf Simsek 49]
@@ -290,7 +290,7 @@ Gaziantep       1-0 Altay
 Galatasaray     1-0 Besiktas
   [Okan Buruk 28]
 
-Round 13
+Round: 13
 [Dec 17]
 Samsun          1-1 Fenerbahçe
   [Serkan Aykut 80; Elvir Bolic 56]
@@ -313,7 +313,7 @@ Altay           3-1 Trabzon
 Besiktas        4-0 Antalya
   [Markus Armin Münch 18, Ertugrul Saglam 28, 79, Mehmet Özdilek 71]
 
-Round 14
+Round: 14
 [Dec 24]
 Bursa           0-1 Besiktas
   [Ahmet Dursun 78]
@@ -343,7 +343,7 @@ Göztepe         3-2 Gençlerbirligi
 Galatasaray     2-1 Van
   [Okan Buruk 34, Arif Erdem 57; Kubilay Toptas 35]
 
-Round 15
+Round: 15
 [Jan 7]
 Besiktas        2-1 Göztepe   
   [Tayfur Havutçu 35, Ertugrul Saglam 82; Atilla Sahin 51]
@@ -366,7 +366,7 @@ Istanbul        2-6 Ankaragücü
 Kocaeli         1-2 Galatasaray
  [Dobrowski 85; Gheorghe Hagi 35, Okan Buruk 65]
 
-Round 16
+Round: 16
 [Jan 14]
 Samsun          0-0 Trabzon    
 [Jan 15]
@@ -390,7 +390,7 @@ Göztepe         2-4 Denizli
 Fenerbahçe      2-1 Besiktas
   [Dinu Viorel Moldovan 20, Elvir Bolic 32; Ayhan Akman 53]
 
-Round 17
+Round: 17
 [Jan 21]
 Denizli         1-1 Fenerbahçe
   [Ümit Bozkurt 40; Dinu Viorel Moldovan 14]
@@ -413,7 +413,7 @@ Kocaeli         3-2 Bursa
 Van             1-0 Göztepe
   [Mutlu Sezer 77-p]
 
-Round 18
+Round: 18
 [Jan 28]
 Van             1-2 Fenerbahçe
   [Muammer Sürmeli 16; Elvir Bolic 54-p, Ogün Temizkanoglu 82]
@@ -436,7 +436,7 @@ Altay           1-2 Bursa
 Gaziantep       0-1 Galatasaray
   [Hakan Sükür 45]
 
-Round 19
+Round: 19
 [Feb 4]
 Samsun          0-2 Besiktas
   [Ertugrul Saglam 47, Nihat Kahveci 76]
@@ -458,7 +458,7 @@ Adana           2-2 Ankaragücü
 Galatasaray     2-0 Trabzon
   [Okan Buruk 44, Hakan Sükür 49]
 
-Round 20
+Round: 20
 [Feb 11]
 Denizli         0-2 Besiktas
   [Mehmet Özdilek 32, Ersen Martin 44]
@@ -484,7 +484,7 @@ Istanbul        3-0 Göztepe
 Ankaragücü      0-2 Galatasaray
   [Gheorghe Hagi 24, Yasin Çelik 46-og]
 
-Round 21
+Round: 21
 [Feb 18]
 Besiktas        2-1 Van
   [Bayram Kadir Bektas 22, Ahmet Dursun 24; Mutlu Sezer 47]
@@ -506,7 +506,7 @@ Antalya         0-0 Ankaragücü
 Galatasaray     4-0 Adana
   [Hakan Sükür 30, 55, Gheorghe Popescu 52, Arif Erdem 75]
 
-Round 22
+Round: 22
 [Feb 25]
 Galatasaray     3-1 Samsun
   [Hakan Sükür 22, Ali Riza Sergen Yalcin 37, Suat Kaya 70; Ismet Tasdemir 72]
@@ -529,7 +529,7 @@ Istanbul        1-1 Erzurum
 Gaziantep       5-1 Fenerbahçe
   [Oktay Derelioglu 16, 46, 52, 79, Ibrahim Üzülmez 50; Dinu Viorel Moldovan-pen 74]
 
-Round 23
+Round: 23
 [Mar 3]
 Besiktas        3-0 Altay
   [Ahmet Dursun-p 13, Ertugrul Saglam 40, Nihat Kahveci 88]
@@ -552,7 +552,7 @@ Bursa           3-1 Adana
 Antalya         1-3 Galatasaray    
   [Kamil Çakir 44; Hakan Sükür 23, Arif Erdem 34, 45]
 
-Round 24
+Round: 24
 [Mar 10]
 Trabzon         2-0 Erzurum
   [Erman Özgür 31, Tamer Tuna 45]
@@ -577,7 +577,7 @@ Galatasaray     6-0 Bursa
   [Mandinga Dos Santos Marcio 9, 41, Hakan Sükür 21-p, 
    Ali Riza Sergen Yalçin 36, Ergün Penbe 72, Ahmet Yildirim 85]
 
-Round 25
+Round: 25
 [Mar 17]
 Fenerbahçe      2-4 Adana
   [Fehmi Alpay Özalan 9, Samuel Johnson 24; Cenk Isler 8, 91, Ali Asim
@@ -603,7 +603,7 @@ Göztepe         0-2 Galatasaray
   [Ali Riza Sergen Yalçin 5, Gheorghe Hagi 42]
      
 
-Round 26
+Round: 26
 [Mar 24]
 Gaziantep       0-0 Denizli
 [Mar 25]
@@ -623,7 +623,7 @@ Kocaeli         2-1 Altay
 Galatasaray     0-1 Fenerbahçe 
   [Samuel Johnson 82]   
 
-Round 27
+Round: 27
 [Mar 31]
 Denizli         0-2 Trabzon
   [Hami Mandirali 10, Abdülkadir Demirci 56]
@@ -646,7 +646,7 @@ Kocaeli         2-1 Istanbul
 Samsun          1-0 Altay
   [Serkan Aykut 87-p]
 
-Round 28
+Round: 28
 [Apr 7]
 Bursa           2-1 Fenerbahçe  
   [Okan Yilmaz 82, Emmanuel Tetteh 83; Fehmi Alpay Özalan 60]
@@ -672,7 +672,7 @@ Antalya         1-2 Erzurum
 Ankaragücü      3-1 Denizli
   [Tarik Dasgün 9, 56, Hakan Keles 71; Ali Tandogan 24]
 
-Round 29
+Round: 29
 [Apr 14]
 Besiktas        1-1 Galatsaray
   [Mehmet Özdilek 29; Sead Dost-aka Halilagic (og) 79]
@@ -699,7 +699,7 @@ Erzurum         4-1 Bursa
 Van             2-3 Ankaragücü 
   [Serkan Turhan 5, Seyit Cem Ünsal 45; Cafer Aydin 65, 68, Tarik Dasgün 76]
 
-Round 30
+Round: 30
 [Apr 21]
 Fenerbahçe      1-0 Samsun
   [Dinu Viorel Moldovan 27]
@@ -727,7 +727,7 @@ Galatasaray     2-2 Denizli
   [Gheorghe Hagi 46, Mandinga Dos Santos Marcio 92; Dontcho Donev 71, 
    Mohamed Ali Kurtulus 82]
 
-Round 31 
+Round: 31 
 [Apr 28]
 Besiktas        5-1 Bursa
   [Tayfur Havutçu 42, Ayhan Akman 46, 75, Markus Armin Münch69-p,
@@ -753,7 +753,7 @@ Erzurum         1-5 Fenerbahçe
   [Muzaffer Bilazer 2; Souleymane Qulare 14, 66, John Lesiba Mosheu 46,
    Eyüp Saka 56-og, Ali Riza Salci 85-og]
 
-Round 32
+Round: 32
 [May 5]
 Fenerbahçe      1-3 Gençlerbirligi
   [Dinu Viorel Moldovan 26; Umit Ozat 12, Umit Karan 18, Andre Kona N'Gole 58]
@@ -777,7 +777,7 @@ Antalya         4-1 Van
 Galatasaray     5-0 Kocaeli
   [Okan Buruk 28, Mandinga Dos Santos Marcio 51, 75, Hakan Sükür 70, Hakan Ünsal 90]
 
-Round 33
+Round: 33
 [May 12]
 Altay           1-0 Galatasaray
   [Telat Özden 25]
@@ -800,7 +800,7 @@ Trabzon         3-2 Samsun
 Besiktas        1-3 Fenerbahçe 
   [Markus Armin Münch 12-p; Yaw Preko 42, 64, Dinu Viorel Moldovan 83]
 
-Round 34 
+Round: 34 
 [May 19]
 Samsun          1-2 Gençlerbirligi 
   [Serkan Aykut 49; Andre Kona N'Gole 33, Ümit Karan 80]

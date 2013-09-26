@@ -23,7 +23,7 @@ Competition: Egyptian Premier League
 *16.Minya              30  5  8 17  26-49  23  Relegated
 *[*] new name for Ittihad Othman
 
-Round 1 [Sep 26,27]
+Round: 1 [Sep 26,27]
 Ahly        4-1 Shams
 Mansoura    2-2 Zamalek    
 Canal       1-6 Ismaily     
@@ -33,7 +33,7 @@ Ghazl Suez  0-1 Mokawloon
 Aswan       2-1 Gh Mahalla 
 Baladeya M  3-1 Minya
 
-Round 2 [Sep 30,Oct 1]
+Round: 2 [Sep 30,Oct 1]
 Shams       0-1 Ghazl Suez
 Masry       0-1 Ahly
 Gh Mahalla  2-0 Canal
@@ -43,7 +43,7 @@ Suez        1-0 Mansoura
 Zamalek     2-0 Itt Alex
 Mokawloon   4-0 Aswan
 
-Round 3 [Oct 4,5]
+Round: 3 [Oct 4,5]
 Ghazl Suez  0-1 Ahly
 Aswan       2-1 Shams
 Canal       0-0 Mokawloon
@@ -53,7 +53,7 @@ Mansoura    3-1 Minya
 Itt Alex    4-0 Suez
 Zamalek     2-0 Masry
 
-Round 4 [Oct 10,12]
+Round: 4 [Oct 10,12]
 Aswan       2-3 Ahly
 Shams       4-1 Canal
 Masry       1-0 Ghazl Suez
@@ -63,7 +63,7 @@ Mokawloon   0-0 Baladeya M
 Ismaily     3-3 Mansoura         [Nov 5]
 Suez        0-1 Zamalek          [played later]
 
-Round 5 [Oct 17,18]
+Round: 5 [Oct 17,18]
 Canal       1-0 Ahly
 Itt Alex    2-2 Ismaily    
 Baladeya M  0-0 Shams
@@ -73,7 +73,7 @@ Itt Othman  0-7 Mokawloon
 Minya       0-2 Zamalek   
 Mansoura    2-1 Gh Mahalla
 
-Round 6 [Oct 22,23]
+Round: 6 [Oct 22,23]
 Itt Alex    1-0 Gh Mahalla
 Masry       3-0 Aswan
 Minya       0-0 Suez
@@ -83,7 +83,7 @@ Baladeya M  0-0 Ahly
 Mokawloon   1-0 Mansoura         [Nov 14]
 Zamalek     0-0 Ismaily          [played later]
 
-Round 7 [Nov 2,4]
+Round: 7 [Nov 2,4]
 Zamalek     0-0 Gh Mahalla
 Itt Alex    1-1 Mokawloon
 Baladeya M  3-1 Ghazl Suez
@@ -93,7 +93,7 @@ Canal       2-0 Aswan
 Suez        1-1 Ismaily    
 Itt Othman  1-2 Ahly
 
-Round 8 [Nov 9,10]
+Round: 8 [Nov 9,10]
 Ahly        4-1 Mansoura
 Gh Mahalla  1-0 Suez
 Masry       1-0 Canal
@@ -103,7 +103,7 @@ Ghazl Suez  3-1 Itt Othman
 Mokawloon   3-0 Zamalek   
 Minya       0-3 Ismaily   
 
-Round 9 [Nov 28,29]
+Round: 9 [Nov 28,29]
 Itt Alex    0-3 Ahly
 Suez        2-1 Mokawloon
 Baladeya M  0-2 Canal
@@ -113,7 +113,7 @@ Minya       1-0 Gh Mahalla
 Ismaily     5-0 Masry
 Zamalek     4-0 Shams
 
-Round 10 [Dec 10,12]
+Round: 10 [Dec 10,12]
 Mokawloon   1-1 Minya
 Shams       2-1 Suez
 Ahly        0-0 Zamalek
@@ -123,7 +123,7 @@ Canal       0-4 Itt Othman
 Aswan       1-1 Mansoura
 Ghazl Suez  0-0 Itt Alex
 
-Round 11 [Dec 28]
+Round: 11 [Dec 28]
 Suez        1-2 Ahly
 Zamalek     1-1 Ghazl Suez
 Ismaily     1-0 Mokawloon
@@ -133,7 +133,7 @@ Mansoura    1-0 Canal
 Itt Othman  2-1 Baladeya M
 Minya       1-1 Shams
 
-Round 12 [Jan 2]
+Round: 12 [Jan 2]
 Ahly        2-0 Minya
 Aswan       2-2 Zamalek
 Mokawloon   6-1 Gh Mahalla
@@ -143,7 +143,7 @@ Canal       0-2 Itt Alex
 Baladeya M  1-0 Mansoura
 Shams       2-4 Ismaily
 
-Round 13 [Jan 9]
+Round: 13 [Jan 9]
 Ismaily     0-0 Ahly
 Zamalek     0-0 Canal
 Itt Alex    3-1 Baladeya M
@@ -153,7 +153,7 @@ Mansoura    0-0 Itt Othman
 Minya       0-1 Ghazl Suez
 Suez        0-0 Aswan
 
-Round 14 [Jan 16]
+Round: 14 [Jan 16]
 Zamalek     3-1 Baladeya M
 Ahly        1-0 Gh Mahalla
 Ghazl Suez  1-1 Ismaily
@@ -163,7 +163,7 @@ Canal       0-2 Suez
 Mansoura    0-1 Masry
 Aswan       1-1 Minya
 
-Round 15 [Jan 17-19]
+Round: 15 [Jan 17-19]
 Ahly        1-0 Mokawloon 
 Zamalek     3-1 Itt Othman
 Ismaily     3-1 Aswan
@@ -173,7 +173,7 @@ Itt Alex    0-1 Mansoura
 Minya       2-1 Canal
 Suez        1-0 Baladeya M
 
-Round 16 [Mar 7,8]
+Round: 16 [Mar 7,8]
 Zamalek     4-1 Mansoura
 Ahly        2-0 Shams
 Masry       0-0 Itt Alex
@@ -183,7 +183,7 @@ Mokawloon   3-1 Ghazl Suez
 Itt Othman  1-2 Suez
 Minya       1-0 Baladeya M  
 
-Round 17 [Mar 13,14]
+Round: 17 [Mar 13,14]
 Ahly        1-1 Masry
 Zamalek     1-0 Itt Alex
 Gh Mahalla  1-0 Canal
@@ -193,7 +193,7 @@ Mokawloon   1-0 Aswan
 Itt Othman  3-1 Minya
 Mansoura    1-0 Suez   
 
-Round 18 [Mar 20]
+Round: 18 [Mar 20]
 Ahly        1-0 Ghazl Suez       [Mar 16]
 Shams       2-1 Aswan
 Mansoura    2-1 Minya
@@ -203,7 +203,7 @@ Gh Mahalla  1-0 Baladeya M
 Itt Othman  3-0 Ismaily          [played later]
 Zamalek     0-0 Masry            [Mar 30]
 
-Round 19 [Mar 27,28]
+Round: 19 [Mar 27,28]
 Zamalek     2-0 Suez     
 Mansoura    1-0 Ismaily    
 Masry       1-0 Ghazl Suez
@@ -213,7 +213,7 @@ Itt Alex    2-1 Minya
 Gh Mahalla  0-1 Itt Othman       [corrected from 1-0]
 Ahly        0-2 Aswan
 
-Round 20 [Apr 3]
+Round: 20 [Apr 3]
 Ghazl Suez  2-0 Aswan
 Shams       1-0 Baladeya M
 Mokawloon   1-0 Itt Othman
@@ -223,7 +223,7 @@ Zamalek     2-0 Minya            [Apr 15]
 Ismaily     0-0 Itt Alex         [Apr 15]
 Ahly        3-1 Canal            [Apr 15]
 
-Round 21 [Apr 10,11]
+Round: 21 [Apr 10,11]
 Aswan       2-2 Masry  
 Canal       1-0 Ghazl Suez       [corrected from 0-0]
 Itt Othman  1-1 Shams
@@ -233,7 +233,7 @@ Mansoura    3-1 Mokawloon
 Zamalek     2-1 Ismaily
 Ahly        2-0 Baladeya M
 
-Round 22 [Apr 18,19]
+Round: 22 [Apr 18,19]
 Mokawloon   2-0 Itt Alex 
 Ahly        4-1 Itt Othman
 Zamalek     2-0 Gh Mahalla 
@@ -243,7 +243,7 @@ Ghazl Suez  1-1 Baladeya M
 Masry       2-0 Minya
 Ismaily     3-0 Suez
 
-Round 23 [Apr 24]
+Round: 23 [Apr 24]
 Itt Alex    2-1 Shams
 Minya       1-0 Ismaily
 Baladeya M  2-2 Aswan
@@ -253,7 +253,7 @@ Mansoura    1-1 Ahly
 Canal       2-2 Masry  
 Zamalek     1-1 Mokawloon
 
-Round 24 [May 1,2]
+Round: 24 [May 1,2]
 Itt Alex    1-2 Ahly
 Masry       1-0 Ismaily
 Canal       1-0 Baladeya M
@@ -263,7 +263,7 @@ Aswan       1-1 Itt Othman
 Shams       1-4 Zamalek 
 Mokawloon   1-0 Suez
 
-Round 25 [May 15]
+Round: 25 [May 15]
 Zamalek     0-2 Ahly
 Ismaily     0-0 Gh Mahalla
 Itt Othman  2-0 Canal
@@ -273,7 +273,7 @@ Mansoura    3-0 Aswan
 Baladeya M  2-1 Masry
 Itt Alex    2-0 Ghazl Suez
 
-Round 26 [May 19]
+Round: 26 [May 19]
 Ahly        2-0 Suez
 Ghazl Suez  0-2 Zamalek
 Baladeya M  1-0 Itt Othman
@@ -283,7 +283,7 @@ Shams       1-1 Minya
 Mokawloon   1-1 Ismaily
 Masry       2-0 Gh Mahalla
 
-Round 27 [May 24]
+Round: 27 [May 24]
 Minya       1-2 Ahly
 Zamalek     2-2 Aswan   
 Ismaily     6-1 Shams  
@@ -293,7 +293,7 @@ Mansoura    1-0 Baladeya M
 Gh Mahalla  1-2 Mokawloon    
 Itt Othman  1-1 Masry
 
-Round 28 [May 29]
+Round: 28 [May 29]
 Ahly        0-0 Ismaily
 Canal       1-2 Zamalek
 Itt Othman  1-0 Mansoura
@@ -303,7 +303,7 @@ Ghazl Suez  2-1 Minya
 Shams       1-1 Gh Mahalla
 Masry       0-0 Mokawloon    
 
-Round 29 [Jun 2]
+Round: 29 [Jun 2]
 Gh Mahalla  0-0 Ahly
 Zamalek     2-2 Baladeya M
 Mokawloon   4-1 Shams  
@@ -313,7 +313,7 @@ Suez        1-2 Canal
 Itt Alex    2-2 Itt Othman
 Masry       3-0 Mansoura
 
-Round 20 [Jun 9]
+Round: 20 [Jun 9]
 Ahly        2-2 Mokawloon    
 Itt Othman  0-2 Zamalek
 Mansoura    0-0 Itt Alex  

@@ -16,7 +16,7 @@ Season: 2005-2006
 *11.SønderjyskE         33  6  8 19 41-72 26  Relegated
 *12.AGF                 33  4 10 19 36-63 22  Relegated
 
-Round 1
+Round: 1
 [Jul 19]
 Esbjerg      2-2 OB
   [Jan Kristiansen 8, Fredrik Berglund 22; Soren Berg 51,
@@ -33,7 +33,7 @@ AaB          0-1 København
 Brøndby      3-0 Midtjylland 
   [Morten Skoubo 10, 40, Per Nielsen 67]
 
-Round 2
+Round: 2
 [Jul 23]
 Brøndby      2-0 Silkeborg
   [Kasper Lorenzen 33, Morten Skoubo 88]
@@ -49,7 +49,7 @@ Viborg       3-1 Nordsjælland
 København    2-0 Horsens
   [Lars Jacobsen 31pen, Alvaro Marcio Santos 90]
 
-Round 3
+Round: 3
 [Jul 30]
 AaB          1-1 Midtjylland
   [Simon Bræmer 71; Razak Pimpong 51]
@@ -66,7 +66,7 @@ Silkeborg    3-2 SønderjyskE
 Esbjerg      2-3 Brøndby
   [Fredrik Berglund 5, 84; Mads Jørgensen 11, Kim Christensen 69, 72]
 
-Round 4 
+Round: 4 
 [Aug 6]
 Brøndby      3-1 AaB
   [Martin Retov 51, Mads Jorgensen 63, Jonas Kamper 90; Poul Hubertz 15]
@@ -82,7 +82,7 @@ Viborg       3-1 SønderjyskE
 Esbjerg      4-0 Silkeborg
   [Mickael Murcy 17, 49, Jan Kristiansen 37, Fredrik Berglund 53]
 
-Round 5 
+Round: 5 
 [Aug 13] 
 AGF          0-4 OB
   [Mwape Miti 7, 80, Martin Borre 50, Søren Berg 78]
@@ -98,7 +98,7 @@ SønderjyskE  0-1 København
   [Andre Bergdølmo 41]
 Horsens      0-0 Brøndby
 
-Round 6
+Round: 6
 [Aug 20] 
 Brøndby      2-1 Nordsjælland 
   [Johan Elmander 39, Kasper Lorentzen 84; Mads Junker 23] 
@@ -116,7 +116,7 @@ OB           2-3 SønderjyskE
 København    2-1 Viborg
   [Lars Jacobsen 29, Peter Ijeh 86; Thomas Frandsen 85]
 
-Round 7
+Round: 7
 [Aug 27] 
 Viborg       1-2 OB 
   [Martin Aaslund 89; Jesper Andersen 15og, Ulrik Vinzents 48]
@@ -132,7 +132,7 @@ København    2-0 Silkeborg
 AGF          3-0 Brøndby 
   [Jonny Hanssen 6, Morten Duncan Rasmussen 56, 70]
 
-Round 8
+Round: 8
 [Sep 10]
 Brøndby      3-0 SønderjyskE 
   [Morten Skoubo 31, 42, Dan Anton Johansen 59]
@@ -148,7 +148,7 @@ Midtjylland  1-1 Viborg
 OB           0-2 København
   [Marcus Allbäck 58, 65]
 
-Round 9
+Round: 9
 [Sep 17] 
 AGF          2-4 AaB 
   [Christer George 34, Morten Duncan Rasmussen 82; Martin Ericsson 42,
@@ -165,7 +165,7 @@ Viborg       3-1 Brøndby
 København    3-1 Midtjylland
   [Álvaro Marcio Santos 3, 20, Peter Møller 34; David Nielsen 90]
 
-Round 10 [Sep 21]
+Round: 10 [Sep 21]
 AaB          3-2 SønderjyskE
   [Martin Ericsson 43, Mattias Lindström 45, Simon Bræmer 88;
    Jacob Olesen 50, 67] 
@@ -181,7 +181,7 @@ Midtjylland  0-1 OB
 Silkeborg    1-1 Nordsjælland   
   [Thomas Olsen 88; Tommy Olsen 7]
 
-Round 11
+Round: 11
 [Sep 24]
 OB           1-3 Brøndby
   [Esben Hansen 16; Morten Skoubo 10, 22, Johan Elmander 31]
@@ -198,7 +198,7 @@ SønderjyskE  1-3 Horsens
 Viborg       2-0 AaB        
   [Steffen Højer 30, 58]  
 
-Round 12
+Round: 12
 [Oct 1]
 Nordsjælland 2-2 Silkeborg
   [Tommy Olsen 8, Mads Junker 40; Peter Degn 69pen, Bajram Fetai 80] 
@@ -216,7 +216,7 @@ Brøndby      4-1 Horsens
   [Johan Elmander 13, 54, Kim Daugaard 27, Thomas Hansen 42;
    Per Nielsen 35og]
 
-Round 13 
+Round: 13 
 [Oct 15]
 Midtjylland  0-1 Viborg  
   [Jose Roberto Rodrigues Mota 19]  
@@ -232,7 +232,7 @@ Silkeborg    0-3 København
 SønderjyskE  1-2 Brøndby
   [Jacob Stolberg 76; Trond Andersen 42, Thomas Rasmussen 56]
 
-Round 14 
+Round: 14 
 [Oct 22] 
 København    1-0 Horsens
   [Peter Møller 90] 
@@ -249,7 +249,7 @@ Viborg       1-0 Esbjerg
 Brøndby      5-0 Midtjylland
   [Johan Elmander 12, 71pen, 77, Kasper Lorentzen 42, 63]
 
-Round 15 [Oct 26]
+Round: 15 [Oct 26]
 Horsens      0-0 Silkeborg
 AGF          3-3 Viborg
   [Christer George 7, John Alvbåge 75og, Tobias Grahn 85; 
@@ -263,7 +263,7 @@ SønderjyskE  1-4 København
    Elrio van Heerden 59, Peter Møller 86]  
 Esbjerg      0-0 Brøndby
 
-Round 16
+Round: 16
 [Oct 29]
 Viborg       2-0 AaB
   [Christopher Poulsen 36, Jose Roberto Mota 82]  
@@ -279,7 +279,7 @@ Silkeborg    0-1 SønderjyskE
 København    2-0 Midtjylland
   [Peter Møller 54, 90]
 
-Round 17 
+Round: 17 
 [Nov 5]
 Esbjerg      3-1 København
   [Jakob Poulsen 27, Jan Kristiansen 31, Fredrik Berglund 52;
@@ -296,7 +296,7 @@ SønderjyskE  1-1 Horsens
 AaB          3-0 Brøndby  
   [Artim Sakiri 43, 53, Martin Ericsson 67]
 
-Round 18
+Round: 18
 [Nov 19] 
 Brøndby      1-0 Viborg
   [Morten Skoubo 33]  
@@ -314,7 +314,7 @@ Horsens      3-4 Midtjylland
 København    1-1 AGF
   [Alvaro Santos 20; Jonny Hanssen 80]
 
-Round 19
+Round: 19
 [Nov 26]
 OB           0-1 Brøndby 
   [Thomas Rasmussen 9]   
@@ -332,7 +332,7 @@ Midtjylland  2-2 SønderjyskE
 AaB          0-2 København
   [Andre Bergdølmo 24pen, Marcus Allbäck 25] 
 
-Round 20
+Round: 20
 [Dec 3]
 Midtjylland  1-2 OB
   [Dennis Sørensen 3; Søren Berg 15, Jose Luis Junior 49]
@@ -348,7 +348,7 @@ Horsens      2-1 AGF
 Nordsjælland 0-2 Brøndby
   [Kasper Lorentzen 28, Per Nielsen 44]
 
-Round 21 
+Round: 21 
 [Mar 11]
 AGF          1-1 SønderjyskE 
   [Peter Graulund 11; Dennis Danry 90]
@@ -365,7 +365,7 @@ Esbjerg      2-0 Midtjylland
 AaB          2-2 Horsens
   [Fredrik Winsnes 37, Rasmus Würtz 88pen; Besart Berisha 58, 84]
  
-Round 22 
+Round: 22 
 [Mar 18]
 Silkeborg    2-0 Brøndby 
   [Hördur Sveinsson 12, 45]
@@ -384,7 +384,7 @@ Horsens      3-1 Viborg
   [Besart Berisha 30, Charles Akonnor 36, Niels Lodberg 51;
    Jose Roberto Mota 80] 
 
-Round 23 
+Round: 23 
 [Mar 25]
 Esbjerg      1-0 OB 
   [Michaël Murcy 65]
@@ -401,7 +401,7 @@ AaB          2-2 SønderjyskE
 Nordsjælland 1-1 København 
   [Joseph Kamwendo 25; Michael Silberbauer 69]
 
-Round 24 [Mar 29] 
+Round: 24 [Mar 29] 
 København    1-0 AaB 
   [Tobias Linderoth 90] 
 Brøndby      1-0 OB 
@@ -415,7 +415,7 @@ SønderjyskE  0-2 Midtjylland
 Horsens      1-0 Esbjerg 
   [Niels Lodberg 44]
  
-Round 25
+Round: 25
 [Apr 1]
 AGF          0-4 København 
   [Marcus Allbäck 47, 88, Thomas Hansen 65og, Atiba Hutchinson 74]
@@ -431,7 +431,7 @@ AaB          2-4 Nordsjælland
    Michael Ribers 75, Heath Pearce 80]
 Midtjylland  0-0 Horsens 
 
-Round 26
+Round: 26
 [Apr 8]
 Brøndby      4-3 AaB 
   [Allan Olesen 12og, Joseph Elanga 17, Martin Ericsson 45,
@@ -448,7 +448,7 @@ Nordsjælland 3-1 AGF
 Horsens      2-0 SønderjyskE 
   [Joel Tchami 2, Besart Berisha 54]
  
-Round 27 [Apr 13] 
+Round: 27 [Apr 13] 
 OB           3-0 Horsens 
   [Esben Hansen 78, Jose Luis Junior 80, Chris Sørensen 88] 
 AGF          0-1 Brøndby 
@@ -462,7 +462,7 @@ Midtjylland  1-3 København
 SønderjyskE  2-0 Silkeborg 
   [Peter Sand 5, Simon A. Pedersen 16]
  
-Round 28
+Round: 28
 [Apr 16]
 Silkeborg    2-1 Horsens 
   [Hordur Sveinsson 18, Dennis Flinta 43; Miki Rasmussen 90]
@@ -495,7 +495,7 @@ Midtjylland  2-0 Brøndby
 SønderjyskE  2-2 Nordsjælland 
   [Peter Sand 56, 90; Danny Olsen 15, Jukka Santala 44] 
  
-Round 30 
+Round: 30 
 [Apr 29]
 SønderjyskE  1-0 AGF 
   [Simon A. Pedersen 60]
@@ -510,7 +510,7 @@ Nordsjælland 0-3 OB
 Horsens      0-1 AaB 
   [Poul Hübertz 79] 
  
-Round 31 [May 4] 
+Round: 31 [May 4] 
 OB           0-1 Midtjylland 
   [Frank Kristensen 73] 
 AGF          0-1 Horsens 

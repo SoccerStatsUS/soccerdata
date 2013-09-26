@@ -15,7 +15,7 @@ Competition: Swiss Super League
 *-------------------------------------------------
 *10.FC Schaffhausen         36  4 13 19  27-58  25  Relegated
 
-Round 1 [Jul 19]
+Round: 1 [Jul 19]
 Grasshoppers  0-0 Sion
 Young Boys    1-1 Basel
   [Carlos Varela 38; Ivan Ergic 45]
@@ -26,7 +26,7 @@ Aarau         1-1 Thun
 Luzern        0-3 Zürich
   [Alhassane Keita 5, 45, Clederson ‘César’ de Souza 38]
 
-Round 2
+Round: 2
 [Jul 22]
 Basel         3-0 Schaffhausen
   [Mile Sterjovksi 4, Scott Chipperfield 81, Mladen Petric 90+]
@@ -40,7 +40,7 @@ Sion          3-2 Luzern
 [Jul 25]
 Sankt Gallen  0-0 Grasshoppers
 
-Round 3
+Round: 3
 [Jul 29]
 Schaffhausen  0-2 Zürich
   [‘Rafael’ Caetano De Araujo 12, Almen Abdi 90+]
@@ -57,7 +57,7 @@ Young Boys    3-2 Luzern
    Daniel ‘Joao Paulo’ 78; Michael Diethelm 49,
    Anderson Luiz Pinheiro ‘Paquito’ 81]
 
-Round 4
+Round: 4
 [Aug 5]
 Luzern        2-1 Aarau
   [Mario Cantaluppi 36pen, Anderson Luiz Pinheiro ‘Paquito’ 84;
@@ -75,7 +75,7 @@ Sion          4-0 Sankt Gallen
   [Carlos Alberto Alves Garcia ‘Carlitos’ 47, Sanel Kuljic 57pen, 76,
    Mohammed Diallo 84]
 
-Round 5
+Round: 5
 [Aug 12]
 Sankt Gallen  3-1 Zürich
   [Alexander Tachie-Mensah 35, 46, Jiri Koubsky 45;
@@ -91,7 +91,7 @@ Basel         4-1 Thun
   [Ivan Ergic 27, Mladen Petric 29, Zdravko Kuzmanovic 32,
    Scott Chipperfield 45; Armand Deumi 73]
 
-Round 6
+Round: 6
 [Aug 19]
 Zürich        2-1 Grasshoppers
   [Clederson ‘César’ de Souza 40pen, Xavier Margairaz 48;
@@ -108,7 +108,7 @@ Aarau         0-1 Young Boys
 Thun          0-2 Sankt Gallen
   [Alexander Tachie-Mensah 2, 45]
 
-Round 7
+Round: 7
 [Sep 9]
 Grasshoppers  3-1 Aarau
   [Diego Leon 30, Eduardo Ribeiro 35, David Blumer 85;
@@ -123,7 +123,7 @@ Thun          0-1 Sion
 Basel         2-1 Zürich
   [Mladen Petric 2, 47; ‘Rafael’ Caetano De Araujo 20]
 
-Round 8
+Round: 8
 [Sep 16]
 Zürich        5-0 Thun
   [Alexandre Alphonse 6, 58, Alain Portmann 33og, Hannu Tihinen 65,
@@ -139,7 +139,7 @@ Young Boys    1-3 Grasshoppers
 Luzern        2-0 Basel
   [Koji Nakata 62og, Anderson Luiz Pinheiro ‘Paquito’ 78]
 
-Round 9
+Round: 9
 [Sep 23]
 Sion          2-2 Zürich
   [Goran Obradovic 36, Alvaro Saborio 90+;
@@ -157,7 +157,7 @@ Sankt Gallen  2-1 Young Boys
   [Alexander Tachie-Mensah 40, Francisco Aguirre 86pen;
    Thomas Häberli 44]
 
-Round 10
+Round: 10
 [Oct 3]
 Thun          2-1 Aarau
   [Milaim Rama 50, Hector Tapia 60; Goran Antic) 62] 
@@ -176,7 +176,7 @@ Basel         2-2 Young Boys
   [Felipe Salvador  Caicedo 62, ‘Cristiano’ dos Santos Rodrigues 86;
    Jun  Shi 54, Marcos Roberto Pereira dos Santos ‘Marquinhos’ 56]
 
-Round 11
+Round: 11
 [Oct 14]
 Aarau         0-4 Zürich
   [‘Rafael’ Caetano  De Araujo 27, 51, 57, Xavier Margairaz 77]
@@ -192,7 +192,7 @@ Schaffhausen  4-2 Basel
 Young Boys    5-0 Thun
   [Daniel ‘Joao Paulo’ 27, Mario Raimondi 45, 73, Thomas Häberli 54, 66]
 
-Round 12
+Round: 12
 [Oct 21]
 Zürich        0-1 Schaffhausen
   [Adrian Fernandez 76]
@@ -206,7 +206,7 @@ Luzern        3-1 Young Boys
 Basel         2-1 Sankt Gallen
   [Ivan Rakitic 30, Ivan Ergic 60; Francisco Aguirre 73pen]
 
-Round 13
+Round: 13
 [Oct 28]
 Grasshoppers  1-2 Basel
   [Matthias Langkamp 67; Mladen Petric 10, Zdravko Kuzmanovic 25]
@@ -221,7 +221,7 @@ Aarau         0-1 Luzern
 [Nov 8]
 Schaffhausen  0-0 Thun
 
-Round 14
+Round: 14
 [Nov 4]
 Zürich        2-1 Sankt Gallen
   [Xavier Margairaz 45, Christian Pouga 88; Alexander Tachie-Mensah 64]
@@ -236,7 +236,7 @@ Thun          1-1 Basel
 Luzern        0-1 Grasshoppers
   [‘Eduardo’ Ribeiro dos Santos 80]
 
-Round 15
+Round: 15
 [Nov 18]
 Grasshoppers  0-1 Zürich
   [‘Eudis’ Silva Da Souza 12]
@@ -251,7 +251,7 @@ Young Boys    2-1 Aarau
 Sankt Gallen  1-2 Thun
   [Francisco Aguirre 27; Selver Hodzic 35, Nelson Ferreira 55]
 
-Round 16
+Round: 16
 [Nov 25]
 Young Boys    3-2 Schaffhausen
   [Hakan Yakin 67, 83, Daniel ‘Joao Paulo’ 73; Daniel Tarone 72,
@@ -268,7 +268,7 @@ Zürich        3-2 Basel
   [‘Eudis’ Silva Da Souza 44, Blerim Dzemaili 45, Xavier Margairaz 71;
    Mile Sterjovski 69, Felipe Caicedo 73]
 
-Round 17
+Round: 17
 [Dec 2]
 Thun          0-2 Zürich
   [Blerim Dzemaili 12, Gökhan Inler 90+]
@@ -283,7 +283,7 @@ Sion          2-2 Schaffhausen
 Basel         3-0 Luzern
   [Ivan Ergic 2, Ivan Rakitic 55, Scott Chipperfield 71]
 
-Round 18
+Round: 18
 [Dec 9]
 Young Boys    3-0 Sankt Gallen
   [Hakan Yakin 10pen, Thomas Häberli 14, David Chiumiento 33]  
@@ -299,7 +299,7 @@ Aarau         2-3 Basel
 Luzern        2-1 Thun          
   [Jean-Michel Tchouga 64, 82; Leandro Fonseca 7]
 
-Round 19
+Round: 19
 [Feb 10]
 Sankt Gallen  1-0 Aarau
 Grasshoppers  0-0 Zürich
@@ -308,7 +308,7 @@ Young Boys    0-3 Basel
 Schaffhausen  1-2 Thun
 Luzern        2-0 Sion
 
-Round 20
+Round: 20
 [Feb 17]
 Zürich        1-0 Young Boys
 Thun          0-2 Grasshoppers
@@ -317,7 +317,7 @@ Basel         1-0 Luzern
 Aarau         3-2 Schaffhausen
 Sion          0-2 Sankt Gallen
 
-Round 21
+Round: 21
 [Feb 24]
 Grasshoppers  1-0 Aarau
 Luzern        2-0 Zürich
@@ -326,7 +326,7 @@ Schaffhausen  0-1 Sankt Gallen
 Young Boys    3-1 Thun
 Sion          0-0 Basel
 
-Round 22
+Round: 22
 [Mar 3]
 Sankt Gallen  0-0 Luzern
 Young Boys    2-0 Sion
@@ -335,7 +335,7 @@ Aarau         0-0 Thun
 Grasshoppers  1-5 Basel
 Schaffhausen  0-4 Zürich
 
-Round 23
+Round: 23
 [Mar 10]
 Zürich        2-2 Aarau
 Thun          3-1 Sankt Gallen
@@ -344,7 +344,7 @@ Basel         0-0 Schaffhausen
 Luzern        1-1 Young Boys
 Sion          1-1 Grasshoppers
 
-Round 24
+Round: 24
 [Mar 17]
 Grasshoppers  5-0 Luzern
 Thun          0-1 Zürich
@@ -353,7 +353,7 @@ Schaffhausen  0-1 Sion
 Aarau         0-1 Basel
 Sankt Gallen  1-1 Young Boys
 
-Round 25
+Round: 25
 [Mar 31]
 Luzern        0-0 Schaffhausen
 Young Boys    1-0 Grasshoppers
@@ -362,7 +362,7 @@ Zürich        awd Sankt Gallen           [awarded 3-0, originally 0-0;
 Sion          1-1 Aarau                   Sankt Gallen fielded suspended player]
 Basel         4-1 Thun
 
-Round 26
+Round: 26
 [Apr 7]
 Schaffhausen  0-1 Young Boys
 Sankt Gallen  0-0 Grasshoppers
@@ -371,7 +371,7 @@ Thun          1-3 Sion
 Aarau         4-1 Luzern
 Zürich        0-1 Basel
 
-Round 27
+Round: 27
 [Apr 14]
 Luzern        1-2 Thun
 Young Boys    1-1 Aarau
@@ -380,7 +380,7 @@ Basel         3-3 Sankt Gallen
 Grasshoppers  1-2 Schaffhausen
 Sion          1-2 Zürich
 
-Round 28
+Round: 28
 [Apr 17]
 Sankt Gallen  0-0 Basel
 [Apr 18]
@@ -389,7 +389,7 @@ Aarau         1-1 Young Boys
 Schaffhausen  1-1 Grasshoppers
 Thun          2-1 Luzern
 
-Round 29
+Round: 29
 [Apr 21]
 Grasshoppers  1-1 Sankt Gallen
 Young Boys    2-0 Schaffhausen
@@ -398,7 +398,7 @@ Basel         4-2 Zürich
 Luzern        1-0 Aarau
 Sion          2-1 Thun
 
-Round 30
+Round: 30
 [Apr 28]
 Grasshoppers  1-2 Young Boys
 Aarau         0-2 Sion
@@ -407,7 +407,7 @@ Thun          0-2 Basel
 Schaffhausen  0-0 Luzern
 Sankt Gallen  2-2 Zürich
 
-Round 31
+Round: 31
 [May 5]
 Basel         2-0 Aarau
 Zürich        0-0 Thun
@@ -416,14 +416,14 @@ Luzern        1-6 Grasshoppers
 Sion          3-0 Schaffhausen
 Young Boys    1-1 Sankt Gallen
 
-Round 32 [May 9]
+Round: 32 [May 9]
 Aarau         0-3 Zürich
 Grasshoppers  0-0 Sion
 Schaffhausen  2-2 Basel
 Sankt Gallen  2-0 Thun
 Young Boys    3-1 Luzern
 
-Round 33
+Round: 33
 [May 12]
 Sion          2-0 Young Boys
 Zürich        0-0 Schaffhausen
@@ -432,14 +432,14 @@ Thun          1-0 Aarau
 Basel         3-0 Grasshoppers
 Luzern        1-1 Sankt Gallen
 
-Round 34 [May 16]
+Round: 34 [May 16]
 Thun          0-1 Young Boys
 Sankt Gallen  1-1 Schaffhausen
 Basel         2-0 Sion
 Aarau         0-0 Grasshoppers
 Zürich        2-0 Luzern
 
-Round 35
+Round: 35
 [May 19]
 Young Boys    2-3 Zürich
 Luzern        0-3 Basel
@@ -448,7 +448,7 @@ Grasshoppers  0-3 Thun
 [May 20]
 Schaffhausen  0-2 Aarau
 
-Round 36 [May 24]
+Round: 36 [May 24]
 Zürich        2-0 Grasshoppers
 Aarau         1-1 Sankt Gallen
 Thun          2-0 Schaffhausen

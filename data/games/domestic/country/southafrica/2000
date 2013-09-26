@@ -24,7 +24,7 @@ Competition: Premier Soccer League
 
 *NB: Bloemfontein Celtic deducted three points for fielding illegible player. 
 
-Round 1
+Round: 1
 [Aug 8]
 Rangers       2-2 Supersport
 [Aug 9]
@@ -38,7 +38,7 @@ Santos        1-1 Golden Arrows
 [Nov 19]    
 Sundowns      0-1 Bucks
 
-Round 2
+Round: 2
 [Aug 12]
 Supersport    1-1 Classic
 [Aug 13]
@@ -54,7 +54,7 @@ Sundowns      3-2 Hellenic
 [Jan 31]
 Pirates       3-0 Free State
 
-Round 3
+Round: 3
 [Aug 18]
 Santos        2-0 Bucks
 [Aug 19]
@@ -70,7 +70,7 @@ Sundowns      0-0 Supersport
 [Nov 7]
 Chiefs        2-0 Hellenic   
 
-Round 4
+Round: 4
 [Aug 23]
 Wanderers     1-6 Cosmos  
 Celtic        2-2 Golden Arrows 
@@ -85,7 +85,7 @@ Pirates       1-2 Classic
 [Nov 29]
 Ria Stars     2-5 Sundowns   
 
-Round 5
+Round: 5
 [Aug 25]
 Wits          2-2 Hellenic    
 [Aug 26]
@@ -102,7 +102,7 @@ Chiefs        1-0 Ria Stars
 [May 16] 
 Sundowns      0-0 Pirates
 
-Round 6
+Round: 6
 [Sep 1]
 Hellenic      1-2 Golden Arrows        
 Ria Stars     0-0 Santos                
@@ -118,7 +118,7 @@ Ajax          2-1 Sundowns
 [Nov 29]
 Pirates       1-1 Chiefs
 
-Round 7 
+Round: 7 
 [Sep 13]
 Celtic        0-1 Hellenic          
 Classic       2-1 Wanderers        
@@ -131,7 +131,7 @@ Wits          2-0 Ria Stars
 [Oct 18]
 Chiefs        0-0 Ajax
 
-Round 8
+Round: 8
 [Sep 16]
 Ajax          1-2 Santos 
 Hellenic      2-1 Bucks 
@@ -146,7 +146,7 @@ Free State    0-1 Classic
 [Dec 20]
 Swallows      0-0 Chiefs
 
-Round 9 
+Round: 9 
 [Sep 20]
 Celtic        2-2 Ria Stars 
 Classic       0-2 Rangers
@@ -159,7 +159,7 @@ Wits          3-1 Ajax
 [Nov 2]
 Chiefs        0-0 Wanderers
 
-Round 10
+Round: 10
 [Sep 30]
 Rangers       0-2 Sundowns 
 Pirates       3-1 Celtic  
@@ -172,7 +172,7 @@ Free State    1-1 Chiefs
 Swallows      0-0 Wits 
 Ria Stars     0-0 Bucks 
 
-Round 11
+Round: 11
 [Oct 8]
 Cosmos        3-0 Supersport
 Chiefs        2-1 Rangers
@@ -187,7 +187,7 @@ Golden Arrows 2-0 Swallows
 [Dec 6]
 Sundowns      2-0 Classic
 
-Round 12 
+Round: 12 
 [Oct 14]
 Pirates       1-1 Hellenic
 Rangers       3-5 Santos
@@ -201,7 +201,7 @@ Ria Stars     0-0 Supersport
 [Jan 14]
 Sundowns      0-1 Cosmos
 
-Round 13 
+Round: 13 
 [Oct 25]
 Celtic        0-0 Wanderers  
 Bucks         2-2 Swallows  
@@ -215,7 +215,7 @@ Sundowns      1-2 Chiefs
 [Feb 14]
 Hellenic      3-0 Ajax
 
-Round 14
+Round: 14
 [Oct 28]
 Free State    2-2 Celtic  
 Rangers       0-2 Golden Arrows  
@@ -229,7 +229,7 @@ Pirates       2-0 Ria Stars
 [Nov 15]
 Sundowns      0-2 Santos 
 
-Round 15
+Round: 15
 [Nov 19]
 Classic       1-0 Celtic  
 Cosmos        1-2 Santos 
@@ -246,7 +246,7 @@ Chiefs        1-0 Wits
 [Dec 20]
 Free State    1-0 Hellenic
 
-Round 16
+Round: 16
 [Nov 8]
 Supersport    2-1 Swallows 
 [Nov 11]
@@ -261,7 +261,7 @@ Santos        1-1 Chiefs
 [Dec 20]
 Wits          0-3 Sundowns
 
-Round 17
+Round: 17
 [Nov 21]
 Supersport    0-1 Free State  
 Wits          1-0 Santos        
@@ -277,7 +277,7 @@ Cosmos        0-2 Ajax
 [Jan 16]
 Pirates       1-0 Swallows
 
-Round 18
+Round: 18
 [Dec 2]
 Hellenic      0-0 Classic  
 Supersport    3-1 Rangers  
@@ -293,7 +293,7 @@ Ajax          2-1 Swallows
 [Feb 28]
 Pirates       3-0 Wanderers
 
-Round 19
+Round: 19
 [Dec 8]
 Rangers       1-2 Ria Stars 
 Santos        1-1 Celtic 
@@ -308,7 +308,7 @@ Wanderers     1-1 Ajax
 [Feb 14]
 Free State    0-1 Pirates
 
-Round 20
+Round: 20
 [Dec 17]
 Bucks         1-1 Santos
 Swallows      0-0 Wanderers
@@ -322,7 +322,7 @@ Pirates       3-3 Rangers
 [Feb 7]
 Ajax          1-1 Free State 
 
-Round 21
+Round: 21
 [Jan 5]
 Wits          2-2 Bucks     
 Rangers       3-0 Ajax
@@ -337,7 +337,7 @@ Sundowns      1-1 Ria Stars
 [Jan 8]
 Santos        0-1 Hellenic 
 
-Round 22 
+Round: 22 
 [Jan 20]
 Pirates       1-2 Sundowns
 Hellenic      0-1 Wits
@@ -350,7 +350,7 @@ Celtic        0-1 Cosmos
 Classic       3-2 Ajax
 Ria Stars     1-4 Chiefs
 
-Round 23 
+Round: 23 
 [Jan 28]
 Celtic        1-0 Swallows   
 Hellenic      2-1 Pirates  
@@ -363,7 +363,7 @@ Wits          0-0 Free State
 [Jan 30]
 Chiefs        1-1 Classic
 
-Round 24
+Round: 24
 [Feb 2]
 Hellenic      2-1 Celtic
 [Feb 3]
@@ -377,7 +377,7 @@ Free State    3-1 Rangers
 Swallows      1-1 Sundowns
 Ajax          3-2 Chiefs
 
-Round 25
+Round: 25
 [Feb 9]
 Cosmos        0-1 Rangers
 [Feb 10]
@@ -391,7 +391,7 @@ Golden Arrows 2-2 Ria Stars
 Sundowns      1-0 Wanderers  
 Santos        0-1 Ajax 
 
-Round 26
+Round: 26
 [Feb 16]
 Rangers       1-0 Classic 
 [Feb 17]
@@ -409,7 +409,7 @@ Free State    1-2 Sundowns
 [Apr 11]
 Swallows      3-1 Santos
 
-Round 27
+Round: 27
 [Feb 23]
 Wits          1-1 Swallows
 [Feb 24]
@@ -425,7 +425,7 @@ Santos        1-0 Wanderers
 [May 17]
 Chiefs        0-1 Free State
  
-Round 28
+Round: 28
 [Mar 10]
 Supersport    0-0 Cosmos
 [Mar 11]
@@ -441,7 +441,7 @@ Ajax          3-3 Celtic
 [May 30]
 Rangers       0-1 Chiefs   
 
-Round 29
+Round: 29
 [Mar 21]
 Rangers       5-0 Wanderers
 [Mar 23]
@@ -461,7 +461,7 @@ Santos        1-0 Ria Stars
 [Jun 9 - played following Bob Save Superbowl final]
 Chiefs        1-0 Pirates
 
-Round 30
+Round: 30
 [Mar 30]
 Rangers       3-2 Wits
 [Mar 31]
@@ -477,7 +477,7 @@ Ajax          2-2 Hellenic
 [May 6]
 Chiefs        1-0 Sundowns   
 
-Round 31
+Round: 31
 [Apr 6]
 Santos        2-2 Sundowns  
 Hellenic      1-1 Swallows  
@@ -492,7 +492,7 @@ Golden Arrows 0-1 Rangers
 [Apr 28]
 Supersport    1-0 Ajax
 
-Round 32
+Round: 32
 [Feb 28]
 Chiefs        1-1 Santos
 [Mar 7]
@@ -510,7 +510,7 @@ Cosmos        1-1 Pirates
 [May 2]
 Ajax          4-0 Ria Stars       [4-1?]
 
-Round 33
+Round: 33
 [May 2]
 Golden Arrows 1-2 Sundowns
 [May 11]
@@ -526,7 +526,7 @@ Pirates       3-0 Ajax
 Santos        1-0 Cosmos
 Wits          1-2 Chiefs 
 
-Round 34
+Round: 34
 [May 18]
 Rangers       0-0 Hellenic
 Santos        2-1 Wits

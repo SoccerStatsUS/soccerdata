@@ -30,7 +30,7 @@ Competition: Super Lig
 *    by the TFF of a merger between the two clubs;
 *    all (4) played and remaining matches are awarded 0-3 against them
 
-Round 1
+Round: 1
 [Aug 7]
 İstanbul BB          1-1 Beşiktaş             
 [Aug 8]
@@ -44,7 +44,7 @@ Gaziantepspor        2-3 Galatasaray
 Gençlerbirliği       0-0 Kayserispor          
 Manisaspor           0-0 Eskişehirspor        
 
-Round 2
+Round: 2
 [Aug 15]
 Ankaragücü           1-1 Manisaspor           
 Galatasaray          4-1 Denizlispor          
@@ -58,7 +58,7 @@ Kayserispor          1-1 Gaziantepspor
 [Aug 17]
 Beşiktaş             2-0 Antalyaspor          
 
-Round 3
+Round: 3
 [Aug 22]
 Bursaspor            1-0 Ankaragücü           
 Gençlerbirliği       0-0 Beşiktaş             
@@ -73,7 +73,7 @@ Diyarbakır           1-3 Fenerbahçe
 [Sep 16]
 Denizlispor          1-1 Sivasspor               
 
-Round 4
+Round: 4
 [Aug 28]
 Beşiktaş             0-0 Gaziantepspor  
 [Aug 29]
@@ -91,7 +91,7 @@ Ankaraspor           awd Galatasaray          [awarded 0-3, originally 0-2]
 NB: Ankaraspor excluded from the league; all played and remaining
     matches awarded 0-3 against them
 
-Round 5
+Round: 5
 [Sep 12]
 Denizlispor          0-0 Diyarbakır
 Galatasaray          3-0 Beşiktaş             
@@ -104,7 +104,7 @@ Gaziantepspor        1-0 Kasımpaşa
 Gençlerbirliği       2-2 Eskişehirspor        
 İstanbul BB          1-6 Trabzonspor          
 
-Round 6
+Round: 6
 [Sep 18]
 Trabzonspor          3-1 Antalyaspor      
 [Sep 19]
@@ -119,7 +119,7 @@ Fenerbahçe           1-0 İstanbul BB
 [Sep 21]
 Kasımpaşa            1-3 Galatasaray          
 
-Round 7
+Round: 7
 [Sep 25]
 Ankaraspor           awd Beşiktaş             [awarded 0-3]
 Gençlerbirliği       2-2 Trabzonspor          
@@ -133,7 +133,7 @@ Denizlispor          1-1 Manisaspor
 Galatasaray          1-1 Eskişehirspor        
 Kayserispor          0-0 Kasımpaşa            
 
-Round 8
+Round: 8
 [Oct 2]
 Trabzonspor          0-0 Gaziantepspor        
 [Oct 3]
@@ -147,7 +147,7 @@ Eskişehirspor        0-1 Kayserispor
 Ankaragücü           3-0 Galatasaray          
 Fenerbahçe           3-0 Gençlerbirliği       
 
-Round 9
+Round: 9
 [Oct 17]
 Denizlispor          2-3 Bursaspor            
 Beşiktaş             2-1 Kasımpaşa            
@@ -160,7 +160,7 @@ Gaziantepspor        2-1 Fenerbahçe
 Antalyaspor          4-1 Diyarbakır           
 Galatasaray          4-3 Trabzonspor          
 
-Round 10
+Round: 10
 [Oct 23]
 Trabzonspor          2-1 Kayserispor          
 [Oct 24]
@@ -174,7 +174,7 @@ Kasımpaşa            3-1 Denizlispor
 Manisaspor           1-2 Antalyaspor          
 Sivasspor            3-0 Gaziantepspor        
 
-Round 11
+Round: 11
 [Oct 31]
 Antalyaspor          1-1 Bursaspor            
 Beşiktaş             1-0 Ankaragücü           
@@ -187,7 +187,7 @@ Kasımpaşa            1-1 Eskişehirspor
 Galatasaray          2-0 Sivasspor            
 Kayserispor          1-1 Fenerbahçe           
 
-Round 12
+Round: 12
 [Nov 6]
 Bursaspor            1-2 Gençlerbirliği       
 [Nov 7]
@@ -201,7 +201,7 @@ Eskişehirspor        2-0 Denizlispor
 Sivasspor            2-4 Kayserispor          
 Diyarbakır           1-2 Galatasaray          
 
-Round 13
+Round: 13
 [Nov 21]
 Gaziantepspor        0-1 Bursaspor            
 Beşiktaş             3-0 Fenerbahçe           
@@ -214,7 +214,7 @@ Denizlispor          1-1 Antalyaspor
 Kasımpaşa            3-1 Trabzonspor          
 Galatasaray          1-1 Manisaspor           
 
-Round 14
+Round: 14
 [Nov 27]
 Bursaspor            1-0 Galatasaray          
 [Nov 28]
@@ -228,7 +228,7 @@ Manisaspor           0-1 Kayserispor
 Trabzonspor          2-1 Eskişehirspor        
 Sivasspor            0-1 Beşiktaş             
 
-Round 15
+Round: 15
 [Dec 4]
 Beşiktaş             0-0 Diyarbakır           
 [Dec 5]
@@ -242,7 +242,7 @@ Kayserispor          3-0 Bursaspor
 Trabzonspor          3-0 Ankaragücü           
 Galatasaray          1-1 İstanbul BB          
 
-Round 16
+Round: 16
 [Dec 11]
 Antalyaspor          2-3 Galatasaray          
 [Dec 12]
@@ -256,7 +256,7 @@ Sivasspor            2-1 Eskişehirspor
 Denizlispor          0-1 Trabzonspor          
 Manisaspor           1-1 Beşiktaş             
 
-Round 17
+Round: 17
 [Dec 18]
 Beşiktaş             2-3 Bursaspor            
 [Dec 19]
@@ -270,7 +270,7 @@ Galatasaray          1-0 Gençlerbirliği
 Ankaraspor           awd İstanbul BB          [awarded 0-3]
 Trabzonspor          0-1 Fenerbahçe           
 
-Round 18
+Round: 18
 [Jan 22]
 Fenerbahçe           3-1 Denizlispor          
 [Jan 23]
@@ -285,7 +285,7 @@ Galatasaray          1-0 Gaziantepspor
 Kasımpaşa            0-2 Bursaspor            
 Beşiktaş             2-0 İstanbul BB          
 
-Round 19
+Round: 19
 [Jan 29]
 Antalyaspor          0-1 Beşiktaş             
 [Jan 30]
@@ -299,7 +299,7 @@ Gaziantepspor        0-1 Kayserispor
 Sivasspor            1-5 Fenerbahçe           
 Denizlispor          1-2 Galatasaray          
 
-Round 20
+Round: 20
 [Feb 5]
 Beşiktaş             4-1 Gençlerbirliği       
 [Feb 6]
@@ -313,7 +313,7 @@ Ankaragücü           0-0 Bursaspor
 Trabzonspor          3-0 Manisaspor           
 Fenerbahçe           1-1 Diyarbakır           
 
-Round 21
+Round: 21
 [Feb 13]
 Diyarbakır           1-1 Sivasspor            
 Gaziantepspor        2-0 Beşiktaş             
@@ -327,7 +327,7 @@ Galatasaray          awd Ankaraspor           [awarded 3-0]
 [Feb 15]
 Bursaspor            1-1 Trabzonspor          
 
-Round 22
+Round: 22
 [Feb 20]
 Sivasspor            1-0 Manisaspor           
 Eskişehirspor        0-0 Gençlerbirliği       
@@ -341,7 +341,7 @@ Beşiktaş             1-1 Galatasaray
 [Feb 22]
 Fenerbahçe           2-3 Bursaspor            
 
-Round 23
+Round: 23
 [Feb 26]
 Antalyaspor          1-1 Trabzonspor          
 [Feb 27]
@@ -355,7 +355,7 @@ Denizlispor          awd Ankaraspor           [awarded 3-0]
 İstanbul BB          2-1 Fenerbahçe           
 Galatasaray          4-1 Kasımpaşa            
 
-Round 24
+Round: 24
 [Mar 6]
 Sivasspor            0-1 İstanbul BB          
 Kasımpaşa            2-2 Kayserispor          
@@ -369,7 +369,7 @@ Fenerbahçe           1-0 Antalyaspor
 [Mar 8]
 Eskişehirspor        2-1 Galatasaray          
 
-Round 25
+Round: 25
 [Mar 12]
 Gaziantepspor        1-1 Trabzonspor          
 [Mar 13]
@@ -384,7 +384,7 @@ Galatasaray          3-0 Ankaragücü
 [Mar 15]
 Denizlispor          0-1 Beşiktaş             
 
-Round 26
+Round: 26
 [Mar 19]
 Kasımpaşa            2-2 Beşiktaş             
 [Mar 20]
@@ -399,7 +399,7 @@ Trabzonspor          1-0 Galatasaray
 [Mar 22]
 Bursaspor            2-1 Denizlispor          
 
-Round 27
+Round: 27
 [Mar 26]
 İstanbul BB          2-1 Bursaspor            
 [Mar 27]
@@ -414,7 +414,7 @@ Galatasaray          0-1 Fenerbahçe
 [Mar 29]
 Kayserispor          1-0 Trabzonspor          
 
-Round 28
+Round: 28
 [Apr 2]
 Ankaragücü           0-0 Beşiktaş             
 [Apr 3]
@@ -429,7 +429,7 @@ Fenerbahçe           2-0 Kayserispor
 [Apr 5]
 Sivasspor            1-1 Galatasaray          
 
-Round 29
+Round: 29
 [Apr 9]
 Gaziantepspor        0-0 Manisaspor           
 [Apr 10]
@@ -444,7 +444,7 @@ Ankaraspor           awd Fenerbahçe           [awarded 0-3]
 [Apr 12]
 Kayserispor          2-2 Sivasspor            
 
-Round 30
+Round: 30
 [Apr 16]
 Bursaspor            2-0 Gaziantepspor        
 [Apr 17]
@@ -459,7 +459,7 @@ Fenerbahçe           1-0 Beşiktaş
 [Apr 19]
 Trabzonspor          2-0 Kasımpaşa            
 
-Round 31
+Round: 31
 [Apr 24]
 Beşiktaş             2-2 Sivasspor            
 Kayserispor          1-2 Manisaspor           
@@ -473,7 +473,7 @@ Galatasaray          0-0 Bursaspor
 [Apr 26]
 Eskişehirspor        1-0 Trabzonspor          
 
-Round 32
+Round: 32
 [May 1]
 Ankaragücü           1-0 Trabzonspor          
 Fenerbahçe           2-0 Eskişehirspor        
@@ -486,7 +486,7 @@ Antalyaspor          1-0 Gaziantepspor
 Sivasspor            1-1 Kasımpaşa            
 Diyarbakır           1-3 Beşiktaş             
 
-Round 33
+Round: 33
 [May 7]
 Beşiktaş             2-0 Manisaspor           
 [May 8]
@@ -501,7 +501,7 @@ Eskişehirspor        1-1 Sivasspor
 [May 10]
 Trabzonspor          2-1 Denizlispor          
 
-Round 34
+Round: 34
 [May 15]
 Denizlispor          1-1 Gaziantepspor        
 Diyarbakır           0-2 Eskişehirspor        

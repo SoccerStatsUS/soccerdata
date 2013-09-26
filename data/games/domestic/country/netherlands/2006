@@ -27,7 +27,7 @@ Competition: Eredivisie
 *------------------------------------------------------
 *18.ADO Den Haag                 34  3  8 23  40-72  17  Relegated
 
-Round 1
+Round: 1
 [Aug 18]
 Sparta          1-2 Vitesse
   [D.Schenkel 74; D.Lazovic 2, R.Knol 32]
@@ -51,7 +51,7 @@ Heracles Almelo 3-0 FC Twente
 PSV             3-1 NEC
   [P.Cocu 44, Alex 47, J.Vennegoor of Hesselink 57; R.Worm 89]
 
-Round 2
+Round: 2
 [Aug 25]
 Roda JC         1-0 ADO Den Haag
   [Vandamme 77]
@@ -73,7 +73,7 @@ NAC Breda       1-2 Ajax
 NEC             1-1 FC Groningen
   [Denneboom 8; Salmon 34]
 
-Round 3
+Round: 3
 [Sep 8]
 ADO Den Haag    0-2 NAC Breda
   [Leonardo 1, De Graaf 79pen]
@@ -96,7 +96,7 @@ NEC             0-2 AZ
 Sparta          1-4 Feyenoord
   [Anastasiou 17pen; Hofs 10, 14, Lucius 85pen, Boussaboun 88]
 
-Round 4
+Round: 4
 [Sep 15]
 RKC Waalwijk    1-0 ADO Den Haag
   [Tim Janssen 85]
@@ -119,7 +119,7 @@ Roda JC         2-0 Ajax
 Sparta          0-1 FC Groningen
   [Seedorf 87]
 
-Round 5
+Round: 5
 [Sep 22]
 NAC Breda       0-0 Willem II
 [Sep 23]
@@ -141,7 +141,7 @@ Feyenoord       1-0 Excelsior
 Roda JC         0-2 AZ
   [Arveladze 68, Dembele 78]
 
-Round 6
+Round: 6
 [Sep 29]
 NEC             2-0 Heracles Almelo
   [Boutahar 10, 73]
@@ -165,7 +165,7 @@ Feyenoord       3-2 NAC Breda
   [Buijs 33, Hofs 45, Van Hooijdonk 63; Rigters 13, Zonneveld 37]
 SC Heerenveen   0-0 PSV
 
-Round 7
+Round: 7
 [Oct 13]
 ADO Den Haag    1-2 FC Twente
   [Mols 38; N’Kufo 57pen, Bakircioglu 74]
@@ -188,7 +188,7 @@ PSV             4-1 Roda JC
 RKC Waalwijk    2-2 Feyenoord
   [Van Diemen 21, Reuser 28; Boussaboun 38, Lucius 45pen]
 
-Round 8
+Round: 8
 [Oct 20]
 Willem II       2-0 Heracles Almelo
   [Kerekes 57pen, Den Ouden 87]
@@ -211,7 +211,7 @@ SC Heerenveen   4-2 FC Groningen
 NEC             1-0 Vitesse
   [El Akchaoui 93]
 
-Round 9
+Round: 9
 [Oct 25]
 Ajax            2-0 ADO Den Haag
   [Gabri 29, Sneijder 32]
@@ -233,7 +233,7 @@ Willem II       0-4 AZ
 Vitesse         1-3 SC Heerenveen
   [Benson 24; Alves 55, 59, 76pen]
 
-Round 10
+Round: 10
 [Oct 28]
 ADO Den Haag    2-0 Heracles Almelo
   [Kolk 56, Elia 88]
@@ -255,7 +255,7 @@ Roda JC         1-2 Feyenoord
 Sparta          1-0 Willem II
   [Cvetkov 70]
 
-Round 11
+Round: 11
 [Nov 3]
 NEC             1-2 Willem II
   [Holman 30; Bobson 34, Assou-Ekotto 76]
@@ -277,7 +277,7 @@ Heracles Almelo 0-3 Ajax
 RKC Waalwijk    0-2 AZ
   [Dembele 6, Koevermans 31]
 
-Round 12
+Round: 12
 [Nov 10]
 NAC Breda       1-1 SC Heerenveen
   [De Graaf 81; Alves 5]
@@ -303,7 +303,7 @@ Willem II       3-5 Feyenoord
   [Baelum 55, Redan 59, Hadouir 77pen; Huysegems 9, Buijs 32, 73,
    Kolkka 54, 61]
 
-Round 13
+Round: 13
 [Nov 17]
 Heracles Almelo 2-0 NAC Breda
   [Everton 13, Tanghe 89]
@@ -326,7 +326,7 @@ FC Groningen    4-1 Willem II
 FC Utrecht      2-0 Roda JC
   [Kruys 25, G.van Dijk 69pen]
 
-Round 14
+Round: 14
 [Nov 24]
 FC Twente       2-0 Vitesse
   [Bakircioglu 33, N’Kufo 89]
@@ -351,7 +351,7 @@ Roda JC         3-2 NAC Breda
 Sparta          3-0 Ajax
   [Rose 34, Polak 59pen, Medunjanin 83]
 
-Round 15
+Round: 15
 [Dec 1]
 RKC Waalwijk    2-1 Sparta
   [Ikedia 26, Mulder 85; Vlug 38]
@@ -373,7 +373,7 @@ FC Utrecht      3-0 FC Groningen
 Feyenoord       4-3 SC Heerenveen
   [Huysegems 44, 50, Lucius 64pen, De Guzman 83; Alves 23, Friend 74, 79]
 
-Round 16
+Round: 16
 [Dec 8]
 SC Heerenveen   1-0 Roda JC
   [Tarvajarvi 86]
@@ -396,7 +396,7 @@ Vitesse         3-1 RKC Waalwijk
 Willem II       1-3 FC Twente
   [Bobson 45; N’Kufo 30, 42, 67]
 
-Round 17
+Round: 17
 [Dec 15]
 PSV             3-0 Heracles Almelo
   [Simons 25pen, Cocu 51, Kluivert 63]
@@ -419,7 +419,7 @@ RKC Waalwijk    0-1 NEC
 AZ              2-0 FC Groningen
   [Luirink 26, Koevermans 40pen]
 
-Round 18
+Round: 18
 [Dec 22]
 Heracles Almelo 0-1 FC Groningen
   [Lovre 62]
@@ -441,7 +441,7 @@ Roda JC         2-0 FC Twente
 Vitesse         4-2 Ajax
   [Lazovic 48, Junker 50, Benson 89, Hersi 92; Grygera 3, De Mul 34]
 
-Round 19
+Round: 19
 [Dec 26]
 FC Groningen    0-1 Sparta
   [Van Bueren 63]
@@ -462,7 +462,7 @@ NEC             0-2 SC Heerenveen
 NAC Breda       2-1 Vitesse
   [Slot 33, Sikora 88; Verhaegh 10]
 
-Round 20
+Round: 20
 [Dec 29]
 Excelsior       1-3 Feyenoord
   [Voskamp 80; Buijs 31, Hofs 40, Huysegems 50]
@@ -484,7 +484,7 @@ Heracles Almelo 2-2 Vitesse
 Willem II       0-2 NAC Breda
   [Salmon 84, Zonneveld 91]
 
-Round 21
+Round: 21
 [Jan 19]
 ADO Den Haag    1-3 AZ
   [Rankovic 71; Mendes da Silva 45pen, Koevermans 56, Martens 84]
@@ -506,7 +506,7 @@ Sparta          2-1 Excelsior
 Vitesse         3-2 FC Groningen
   [Kaya 8, Lazovic 48pen, Benson 50; Suarez 31, 62]
 
-Round 22
+Round: 22
 [Jan 26]
 SC Heerenveen   5-1 Heracles Almelo
   [Nilsson 2, Alves 39, 43, Pranjic 63, Friend 77; Quansah 51]
@@ -528,7 +528,7 @@ Feyenoord       3-1 RKC Waalwijk
 Roda JC         2-0 PSV
   [Saeijs 22, Oper 85]
 
-Round 23
+Round: 23
 [Feb 2]
 FC Groningen    1-1 SC Heerenveen
   [Van der Linden 61; Alves 70]
@@ -551,7 +551,7 @@ Sparta          2-2 Roda JC
 Vitesse         1-1 NEC
   [Junker 74; Beerens 53]
 
-Round 24
+Round: 24
 [Feb 9]
 Excelsior       0-2 FC Groningen
   [Lovre 23, Suarez 68]
@@ -573,7 +573,7 @@ FC Utrecht      1-0 NAC Breda
 Sparta          1-1 PSV
   [Medunjanin 76; Culina 46]
 
-Round 25
+Round: 25
 [Feb 16]
 NAC Breda       3-1 Sparta
   [Salmon 31, De Graaf 54, Rigters 77; Polak 80pen]
@@ -595,7 +595,7 @@ Feyenoord       2-0 FC Utrecht
 SC Heerenveen   1-2 FC Twente
   [Hansson 66; N’Kufo 14, Bakircioglu 33]
 
-Round 26
+Round: 26
 [Feb 23]
 FC Utrecht      3-0 NEC
   [Somers 45, Rossini 48, Caluwe 62]
@@ -616,7 +616,7 @@ Excelsior       0-2 NAC Breda
 RKC Waalwijk    3-1 Vitesse
   [Vertonghen 35, Van de Haar 74, Janssen 85; Lazovic 19pen]    
 
-Round 27
+Round: 27
 [Mar 2]
 NEC             0-3 FC Twente
   [Bakircioglu 48, Touma  4, 69]
@@ -638,7 +638,7 @@ Feyenoord       1-1 Roda JC
 Heracles Almelo 3-1 ADO Den Haag
   [Maas 35pen, Gluscevic 77, Bridji 83; Mols 68]
 
-Round 28
+Round: 28
 [Mar 9]
 Roda JC         0-0 FC Utrecht
 [Mar 10]
@@ -658,7 +658,7 @@ FC Twente       1-4 Ajax
 Vitesse         2-2 ADO Den Haag
   [Junker 15, Benson 90; Kolk 11, 37pen]
 
-Round 29
+Round: 29
 [Mar 16]
 RKC Waalwijk    3-2 Roda JC
   [De Fauw 16og, Berger 34, Van den Bergh 71; Ramzi 31, Vandamme 60]
@@ -679,7 +679,7 @@ Feyenoord       0-0 Willem II
 PSV             1-5 Ajax
   [Kluivert 67; Huntelaar 17, 72, Sneijder 43, Gabri 73, Perez 89]
 
-Round 30
+Round: 30
 [Mar 30]
 Roda JC         0-1 FC Groningen
   [Lovre 37]
@@ -702,7 +702,7 @@ Sparta          2-2 SC Heerenveen
 Vitesse         0-1 Feyenoord
   [Van Hooijdonk 78]
 
-Round 31                
+Round: 31                
 [Apr 6]
 Vitesse         3-0 Sparta
   [Lazovic 3pen, 83, Verhaegh 20]
@@ -725,7 +725,7 @@ Feyenoord       0-4 FC Groningen
 NAC Breda       1-4 AZ
   [Penders 46, Koevermans 27, 79, Penders 54og, Martens 68pen]
 
-Round 32
+Round: 32
 [Apr 13]
 Sparta          1-1 FC Utrecht
   [Roberts 25; George 67]
@@ -748,7 +748,7 @@ Heracles Almelo 4-1 Feyenoord
 Willem II       1-3 SC Heerenveen
   [Cristiano 50; Alves 49, 51, 68]
 
-Round 33 
+Round: 33 
 [Apr 22]
 ADO Den Haag    abd FC Groningen            [abandoned at 0-3 in 49' due to
   [Nevland 10, 45, Lovre 24]                 crowd trouble]
@@ -773,7 +773,7 @@ Vitesse         1-1 FC Twente
 ADO Den Haag    1-3 FC Groningen            [remaining 41'; in Emmen, behind
   [Delorge 85; Nevland 10, 45, Lovre 24]     closed doors]
 
-Round 34 [Apr 29]
+Round: 34 [Apr 29]
 Excelsior       3-2 AZ
   [Bruins 21pen, H. Drost 59, Voskamp 94; Cziommer 24, Koevermans 70]
 FC Groningen    0-2 FC Utrecht

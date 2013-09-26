@@ -23,7 +23,7 @@ Competition: Premier Soccer League
 *Promoted : Santos and African Wanderers
 
 
-Round 1
+Round: 1
 Bloemfontein Celtic - Qwa Qwa Stars          0-1
 Cape Town Spurs - Hellenic                   0-0
 Jomo Cosmos - Kaizer Chiefs                  0-1
@@ -34,7 +34,7 @@ Real Rovers - Mamelodi Sundowns              1-0
 Vaal Professionals - Wits University         0-0
 Witbank Aces - Supersport United             0-0
 
-Round 2
+Round: 2
 Amazulu - Jomo Cosmos                        1-1
 Hellenic - Real Rovers                       3-0
 Kaizer Chiefs - Bloemfontein Celtic          2-0
@@ -45,7 +45,7 @@ Qwa Qwa Stars - Umtata Bucks                 1-1
 Supersport United - Cape Town Spurs          2-0
 Wits University - Orlando Pirates            2-0
 
-Round 3
+Round: 3
 Bloemfontein Celtic - Jomo Cosmos            0-2
 Cape Town Spurs - Michau Warriors            1-1
 Manning Rangers - Wits University            1-0
@@ -56,7 +56,7 @@ Umtata Bucks - Kaizer Chiefs                 0-1
 Vaal Professionals - Hellenic                3-0
 Witbank Aces - Qwa Qwa Stars                 0-1
 
-Round 4
+Round: 4
 Amazulu - Bloemfontein Celtic                1-2
 Hellenic - Orlando Pirates
 Jomo Cosmos - Umtata Bucks                   0-3
@@ -67,7 +67,7 @@ Qwa Qwa Stars - Cape Town Spurs              1-2
 Supersport United - Vaal Professionals
 Wits University - Moroka Swallows            0-1
 
-Round 5
+Round: 5
 Cape Town Spurs - Kaizer Chiefs              1-4
 Manning Rangers - Hellenic                   1-0
 Moroka Swallows - Mamelodi Sundowns          0-0
@@ -78,7 +78,7 @@ Vaal Professionals - Michau Warriors         3-0
 Witbank Aces - Jomo Cosmos                   0-2
 Wits University - Amazulu                    2-2
 
-Round 6
+Round: 6
 Amazulu - Vaal Professionals                 2-1
 Bloemfontein Celtic - Mamelodi Sundowns      0-1
 Cape Town Spurs - Manning Rangers            0-1
@@ -89,7 +89,7 @@ Real Rovers - Orlando Pirates                3-0
 Umtata Bucks - Wits University               1-0
 Witbank Aces - Moroka Swallows               0-2
 
-Round 7
+Round: 7
 Amazulu - Umtata Bucks                       0-2
 Bloemfontein Celtic - Witbank Aces           0-0
 Hellenic - Moroka Swallows                   1-0
@@ -100,7 +100,7 @@ Michau Warriors - Orlando Pirates            1-3
 Qwa Qwa Stars - Vaal Professionals           4-1
 Supersport United - Manning Rangers          0-2
 
-Round 8
+Round: 8
 Cape Town Spurs - Bloemfontein Celtic        1-0
 Mamelodi Sundowns - Amazulu                  3-0
 Manning Rangers - Michau Warriors            0-0
@@ -111,7 +111,7 @@ Vaal Professionals - Kaizer Chiefs           0-2
 Witbank Aces - Umtata Bucks                  0-0
 Wits University - Hellenic                   1-2
 
-Round 9
+Round: 9
 Cape Town Spurs - Witbank Aces               3-0
 Hellenic - Amazulu                           1-1
 Mamelodi Sundowns - Supersport United        3-2
@@ -122,7 +122,7 @@ Real Rovers - Umtata Bucks                   1-0
 Vaal Professionals - Bloemfontein Celtic     1-0
 Wits University - Michau Warriors            1-0
 
-Round 10
+Round: 10
 Amazulu - Cape Town Spurs                    0-1
 Bloemfontein Celtic - Orlando Pirates        1-0
 Jomo Cosmos - Manning Rangers                1-4
@@ -133,7 +133,7 @@ Supersport United - Hellenic                 1-0
 Umtata Bucks - Vaal Professionals            3-1
 Witbank Aces - Real Rovers                   1-1
 
-Round 11
+Round: 11
              Hellenic 1 - 0 Michau Warriors      (Fri, 13/12/96)
     Supersport United 1 - 0 Amazulu              (Fri, 13/12/96)
       Manning Rangers 3 - 2 Bloemfontein Celtic  (Fri, 13/12/96)
@@ -145,7 +145,7 @@ Round 11
    Vaal Professionals   -   Witbank Aces         (Sun, 15/12/96)
                             (Games postponed due to waterlogged pitches)
 
-Round 14
+Round: 14
              Hellenic 0 - 0 Mamelodi Sundowns    (Fri, 17/01/97)
     Supersport United 0 - 0 Wits University      (Fri, 17/01/97)
         Kaizer Chiefs 0 - 1 Orlando Pirates      (Sat, 18/01/97)
@@ -156,7 +156,7 @@ Round 14
         Qwa Qwa Stars 0 - 1 Manning Rangers      (Sun, 19/01/97)
       Michau Warriors 1 - 2 Moroka Swallows      (Sun, 19/01/97)
 
-Round 16
+Round: 16
                   Kaizer Chiefs 2 - 1 Qwa Qwa Stars        (Sat, 25/01/97)
                         Amazulu 1 - 1 Orlando Pirates      (Sat, 25/01/97)
                     Jomo Cosmos 0 - 1 Michau Warriors      (Sat, 26/01/97)
@@ -167,7 +167,7 @@ Round 16
              Vaal Professionals 0 - 1 Manning Rangers      (Sun, 26/01/97)
                    Witbank Aces 0 - 4 Mamelodi Sundowns    (Sun, 26/01/97)
 
-Round 17
+Round: 17
            Hellenic 2 - 1 Witbank Aces         (Fri, 31/01/97)
     Manning Rangers 2 - 2 Orlando Pirates      (Fri, 31/01/97)
     Wits University 0 - 0 Real Rovers          (Fri, 31/01/97)
@@ -178,7 +178,7 @@ Round 17
   Mamelodi Sundowns 0 - 1 Cape Town Spurs      (Sun, 02/02/97)
     Michau Warriors 2 - 3 Bloemfontein Celtic  (Sun, 02/02/97)
 
-Round 18
+Round: 18
            Hellenic 3 - 0 Cape Town Spurs      (Fri, 07/02/97)
     Wits University 0 - 0 Vaal Professionals   (Fri, 07/02/97)
   Supersport United 4 - 0 Witbank Aces         (Fri, 07/02/97)
@@ -189,7 +189,7 @@ Round 18
   Mamelodi Sundowns 2 - 2 Real Rovers          (Sun, 09/02/97)
     Moroka Swallows 0 - 1 Orlando Pirates      (Sun, 09/02/97)
 
-ROUND 19
+Round: 19
            Manning Rangers 2 - 1 Moroka Swallows      (Fri, 14/02/97)
            Cape Town Spurs 1 - 1 Supersport United    (Fri, 14/02/97)
                Jomo Cosmos 3 - 1 Amazulu              (Sat, 15/02/97)
@@ -201,7 +201,7 @@ ROUND 19
               Witbank Aces 2 - 0 Michau Warriors      (Sun, 16/02/97)
 * (Game abandoned after 40 minutes due to crowd trouble)
 
-ROUND 20
+Round: 20
                Hellenic 2 - 0 Vaal Professionals   (Fri, 21/02/97)
       Supersport United 0 - 0 Real Rovers          (Fri, 21/02/97)
         Wits University 1 - 3 Manning Rangers      (Sat, 22/02/97)
@@ -212,7 +212,7 @@ ROUND 20
       Mamelodi Sundowns 1 - 0 Orlando Pirates      (Sun, 23/02/97)
         Michau Warriors 1 - 2 Cape Town Spurs      (Sun, 23/02/97)
 
-ROUND 21
+Round: 21
         Manning Rangers 0 - 1 Mamelodi Sundowns    (Fri, 28/02/97)
         Cape Town Spurs 3 - 2 Qwa Qwa Stars        (Fri, 28/02/97)
         Moroka Swallows 2 - 0 Wits University      (Sat, 01/03/97)
@@ -223,14 +223,14 @@ ROUND 21
      Vaal Professionals 1 - 1 Supersport United    (Sun, 02/03/97)
            Witbank Aces 0 - 1 Kaizer Chiefs        (Sun, 02/03/97)
  
-ROUND 22
+Round: 22
                 Hellenic 2 - 0 Manning Rangers      (Fri, 07/03/97)
            Kaizer Chiefs 1 - 2 Cape Town Spurs      (Sat, 08/03/97)
                  Amazulu 0 - 1 Wits University      (Sun, 09/03/97)
            Qwa Qwa Stars 3 - 0 Real Rovers          (Sun, 09/03/97)
          Michau Warriors 2 - 0 Vaal Professionals   (Sun, 09/03/97)
 
-ROUND 23
+Round: 23
              Wits University 2 - 0 Mamelodi Sundowns    (Fri, 14/03/97)
              Orlando Pirates 2 - 1 Michau Warriors      (Sat, 15/03/97)
                 Umtata Bucks 0 - 0 Amazulu              (Sun, 16/03/97)
@@ -241,7 +241,7 @@ ROUND 23
              Manning Rangers 2 - 2 Supersport United    (Sun, 16/03/97)
              Cape Town Spurs 1 - 3 Jomo Cosmos          (Mon, 17/03/97)
  
-ROUND 24
+Round: 24
                     Hellenic 0 - 1 Wits University      (Fri, 21/03/97)
            Supersport United 1 - 1 Moroka Swallows      (Sat, 22/03/97)
                Kaizer Chiefs 1 - 1 Vaal Professionals   (Sun, 23/03/97)
@@ -249,7 +249,7 @@ ROUND 24
          Bloemfontein Celtic 3 - 1 Cape Town Spurs      (Sun, 23/03/97)
              Michau Warriors 2 - 3 Manning Rangers      (Sun, 23/03/97)
 
-ROUND 25
+Round: 25
           Manning Rangers 2 - 1 Cape Town Spurs      (Fri, 28/03/97)
        Vaal Professionals 1 - 2 Amazulu              (Fri, 28/03/97)
           Wits University 0 - 1 Umtata Bucks         (Fri, 28/03/97)
@@ -260,7 +260,7 @@ ROUND 25
                  Hellenic 1 - 0 Jomo Cosmos          (Fri, 28/03/97)
           Michau Warriors 3 - 0 Qwa Qwa Stars        (Fri, 28/03/97)
 
-ROUND 26
+Round: 26
           Michau Warriors 1 - 0 Wits University      (Mon, 31/03/97)
              Witbank Aces 2 - 1 Cape Town Spurs      (Mon, 31/03/97)
                   Amazulu 0 - 1 Hellenic             (Mon, 31/03/97)
@@ -271,7 +271,7 @@ ROUND 26
             Qwa Qwa Stars 1 - 1 Moroka Swallows      (Mon, 31/03/97)
         Supersport United 1 - 1 Mamelodi Sundowns    (Mon, 31/03/97)
  
-ROUND 27
+Round: 27
                   Hellenic 1 - 0 Supersport United    (Fri, 11/04/97)
            Manning Rangers 0 - 1 Jomo Cosmos          (Fri, 11/04/97)
            Wits University 2 - 0 Qwa Qwa Stars        (Fri, 11/04/97)
@@ -282,7 +282,7 @@ ROUND 27
          Mamelodi Sundowns 0 - 0 Michau Warriors      (Sun, 13/04/97)
         Vaal Professionals 1 - 2 Umtata Bucks         (Sun, 13/04/97)
 
-ROUND 28
+Round: 28
       Cape Town Spurs 0 - 2 Real Rovers          (Fri, 18/04/97) 
               Amazulu 2 - 1 Supersport United    (Sat, 19/04/97)
         Kaizer Chiefs 0 - 1 Wits University      (Sat, 19/04/97)
@@ -293,7 +293,7 @@ ROUND 28
       Michau Warriors 2 - 1 Hellenic             (Sun, 20/04/97)
          Witbank Aces 1 - 0 Vaal Professionals   (Sun, 20/04/97)
  
-ROUND 33
+Round: 33
                    Hellenic 1 - 1 Umtata Bucks         (Fri, 23/05/97)
             Manning Rangers 2 - 0 Vaal Professionals   (Fri, 23/05/97)
             Wits University 0 - 1 Cape Town Spurs      (Fri, 23/05/97)

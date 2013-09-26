@@ -22,7 +22,7 @@ Competition: Super Lig
 *17.Erzurumspor K              34  5  6 23 36-80 21  Relegated
 *18.Adanaspor AS               34  2 10 22 51-91 16  Relegated  
 
-Round 1
+Round: 1
 [Aug 11]
 Kocaeli         0-4 Fenerbahce 
   [Ogün Temizkanoglu 13, Kenneth Andersson 21, Lazetic 53pen, Haim Revivo 75]
@@ -45,7 +45,7 @@ Samsun          3-0 Ankaragucu
 Denizli         0-1 Galatasaray  
   [Gheorghe Hagi 32]
 
-Round 2
+Round: 2
 [Aug 18]
 Antalya         1-2 Besiktas
   [Maurizio Gaudino 74; Pascal Olivier Nouma 65, Markus Armin Münch 85]
@@ -69,7 +69,7 @@ Gaziantep       4-0 Samsun
 Trabzon         2-1 Bursa
   [Rune Lange 30, Zarko Serafimovski 49; Ion Angelo Lupescu 90]
 
-Round 3
+Round: 3
 [Aug 25]
 Samsun          1-1 Trabzon 
   [Ertugrul Saglam 14; Tamer Tuna 18]
@@ -92,7 +92,7 @@ Istanbul        0-2 Ankaragucu
 Bursa           0-2 Galatasaray
   [Serkan Aykut 37, Mario Ribeiro Jardel 62]
 
-Round 4
+Round: 4
 [Sep 8]
 Adana           1-1 Besiktas
   [Cenk Isler 3pen; Pascal Olivier Nouma 94]
@@ -115,7 +115,7 @@ Erzurum         5-0 Bursa
 Gaziantep       0-0 Istanbul
 Yozgat          0-0 Rize 
 
-Round 5
+Round: 5
 [Sep 15]
 Kocaeli         1-4 Galatasaray
   [Vladimir Matsigora 28; Gheorghe Hagi 26, 90, Mario Jardel 62, Ahmet Yildirim 84]
@@ -138,7 +138,7 @@ Antalya         2-1 Rize
 Genclerbirligi  2-0 Gaziantep
   [Thomas G.Zdebel 82, Gökhan Ünal 90]
 
-Round 6
+Round: 6
 [Sep 22]
 Ankaragucu      1-5 Besiktas
   [Ohene Kennedy 57; Miroslav Karhan 7, Pascal Olivier Nouma 41, Mehmet Özdilek 81pen, 83,
@@ -161,7 +161,7 @@ Erzurum         1-0 Kocaeli
 Trabzon         2-0 Genclerbirligi
   [Ali Riza Sergen Yalçin 49, Hami Mandirali 73pen]
 
-Round 7
+Round: 7
 [Sep 29]
 Denizli         3-1 Samsun
   [Timuçin Beyazit 5, Mohammed Youssef 14, Veysel Cihan 42; Gilvan Santos Souza 31]
@@ -183,7 +183,7 @@ Adana           1-0 Rize
 Antalya         0-1 Fenerbahce
   [Alozia Uche Okechukwu 51]
 
-Round 8 
+Round: 8 
 [Oct 13]
 Adana           2-3 Denizli
   [Mohammed El-Badraoui 6, Atakan Sancarbarlaz 88; Coskun Birdal 39, Muzaffer Bilazer 67,
@@ -207,7 +207,7 @@ Ankaragucu      1-1 Antalya
 Fenerbahce      1-0 Rize
   [Milan Rapajic 52]
 
-Round 9
+Round: 9
 [Oct 19]
 Antalya         2-2 Gaziantep
   [Maurizio Gaudino 4, Selahattin Kinali 37pen; Fatih Tekke 14, 23]
@@ -229,7 +229,7 @@ Rize            1-1 Ankaragucu
 Besiktas        3-1 Galatasaray
   [Pascal Olivier Nouma 14, Ahmet Dursun 86, 87; Ümit Davala 33]
 
-Round 10
+Round: 10
 [Oct 27]
 Fenerbahce      5-2 Denizli
   [Bernt Kennet Anderson 23, Ogün Temizkanoglu 51, Milan Rapajic 52, Elvir Baliç 55,
@@ -253,7 +253,7 @@ Kocaeli         1-1 Istanbul
 Samsun          1-2 Genclerbirligi 
   [Tümer Metin 59; Andre Kona N'Gole 12pen, Thomas Gregor Zdebel 89]
 
-Round 11
+Round: 11
 [Nov 3]
 Rize            2-1 Trabzon
   [Emmanuel Tetteh 48, Mutlu Sezer 88; Erman Özgür 80]
@@ -276,7 +276,7 @@ Fenerbahce      5-1 Ankaragucu
 [Dec 20]
 Antalya         0-1 Galatasaray
 
-Round 12
+Round: 12
 [Nov 10]
 Gaziantep       2-1 Fenerbahce
   [Ramazan Tunç 20, Mert Korkmaz 24; Serhat Akin 86]
@@ -302,7 +302,7 @@ Trabzon         3-3 Adana
   [Zafer Demiray 69, 79, Gökdeniz Karadeniz 77pen; Evren Nuri Turhan 45,
    Cenk Isler 59, Altan Aksoy 61]
 
-Round 13
+Round: 13
 [Nov 17]
 Besiktas        3-2 Kocaelispor
   [Mehmet Özdilek 25, Fazli Ulusal 30, Pascal Olivier Nouma 76; Roman Dobrowski 63,
@@ -326,7 +326,7 @@ Fenerbahce      5-2 Trabzon
   [Bernt Kennet Andersson 6, 18, Elvir Baliç 37, 71, Nikola Lazetiç 79pen;
    Rune Lange 59, 84]
 
-Round 14
+Round: 14
 [Nov 24]
 Trabzon         2-2 Ankaragucu 
   [Rune Lange 26, Abdulkadir Demirci 43; Ohene Kennedy 56, Vincent Dumisa N'Gobe 65]
@@ -349,7 +349,7 @@ Bursa           2-1 Rize
   [Okan Yilmaz 57pen, 87; Ümit Ozan Kazmaz 69]
 Galatasaray     0-0 Fenerbahce 
 
-Round 15
+Round: 15
 [Dec 1]
 Ankaragucu      1-3 Galatasaray
   [Niyazi Güney 36; Hasan Sas 8, Emre Belözoglu 11, Mario Jardel 90]     
@@ -374,7 +374,7 @@ Fenerbahce      4-2 Erzurum
   [Samuel Johnson 33, Milan Rapajic 45, Bernt Kennet Anderson 48,
    Alozia Uche Ukechukwu 89; Alexandr Bogdanovic 31, Alozia Uche Ukechukwu 76og]
 
-Round 16
+Round: 16
 [Dec 8]
 Denizli         2-0 Trabzon
   [Fernand Coulibaly 65, 78]
@@ -397,7 +397,7 @@ Genclerbirligi  2-1 Yozgat
 Galatasaray     2-0 Gaziantep
   [Mario Jardel 29, Arif Erdem 73]
 
-Round 17
+Round: 17
 [Dec 15]
 Fenerbahce      2-1 Samsun
   [Nikola Lazetic 25pen, 33pen; Mehmet Hakki Hocaoglu 70]
@@ -422,7 +422,7 @@ Adana           4-4 Kocaeli
   [Cenk Isler 14, 90pen, Atakan Sancarbarlaz 44, Mehmet Ali Honca 66;
    Tomislav Erceg 28, 89, Nuri Çolak 38, Zdravko Ivanov Lazerov 49]
 
-Round 18
+Round: 18
 [Dec 21]
 Trabzon         3-0 Erzurum
   [Zafer Demiray 21, Abdülkadir Demirci 69, Orhan Çikirikçi 85]
@@ -445,7 +445,7 @@ Antalya         1-3 Siirt Jet-PA
 Galatasaray     1-2 Denizli
   [Serkan Aykut 9; Bülent Korkmaz 72og, Veysel Cihan 90]
 
-Round 19
+Round: 19
 [Feb 2]
 Samsun          3-3 Gaziantep
   [Tümer Metin 35, Ilhan Mansiz 67, 76pen; Erhan Albayrak 8, Ercan Kologlu 15og,
@@ -472,7 +472,7 @@ Bursa           4-2 Trabzon
 Istanbul        1-2 Fenerbahce
   [Alban Bushi 33; Niyazi Serhat Akin 48, 57]
 
-Round 20
+Round: 20
 [Feb 9]
 Trabzon         3-2 Samsun
   [Oktay Derelioglu 32, 43, Hami Mandirali 50pen; Ertugrul Saglam 63, 
@@ -496,7 +496,7 @@ Antalya         1-1 Yozgat
 Fenerbahce      3-0 Genclerbirligi 
   [Samuel Johnson 11, Haim Michael Revivo 49, Ogün Temizkanoglu 75]
 
-Round 21
+Round: 21
 [Feb 16]
 Istanbul        0-1 Gaziantep
   [Kemal Aslan 11]
@@ -521,7 +521,7 @@ Bursa           6-0 Erzurum
 Besiktas        2-1 Adana
   [Bayram Kadir Bektas 51, Ahmet Dursun 60; Altan Aksoy 42]
 
-Round 22
+Round: 22
 [Feb 23]
 Gaziantep       1-0 Gençlerbirligi
   [Mert Korkmaz 90]
@@ -546,7 +546,7 @@ Erzurum         1-2 Samsun
 Galatasaray     2-3 Kocaeli
   [Serkan Aykut 64, 76; Serdar Topraktepe 52, Engin Öztonga 62, 88]
 
-Round 23
+Round: 23
 [Mar 2]
 Genclerbirligi  0-2 Trabzon            
   [Gökdeniz Karadeniz 61, 75]
@@ -571,7 +571,7 @@ Istanbul        3-5 Galatasaray
   [Sertan Eser 9, Alban Bushi 13, Murat Erdogan 74; Arif Erdem 10, 85, 
    Serkan Aykut 15, 21, 31]
 
-Round 24
+Round: 24
 [Mar 9]
 Gaziantep       3-1 Besiktas 
   [Hasan Özer 12, 60, Mustafa Sahintürk 77; Ahmet Dursun 13]
@@ -596,7 +596,7 @@ Ankaragucu      4-0 Yozgat
 Fenerbahce      2-1 Antalya
   [Haim Michael Revivo 8, Ogün Temizkanoglu 73; Ugur Yasan 15]
 
-Round 25
+Round: 25
 [Mar 16]
 Kocaeli         1-0 Samsun
   [Serdar Topraktepe 67]
@@ -622,7 +622,7 @@ Denizli         4-2 Adana
 Besiktas        3-1 Trabzon
   [Miroslav Karhan 18, Bayram Bektas 53, Ibrahim Üzülmez 90; Hami Mandirali 62pen]
 
-Round 26
+Round: 26
 [Mar 30]
 Kocaeli         4-2 Denizli
   [Zdravko Ivanov Lazerov 2, 49, Serdar Topraktepe 33, Tomislav Erceg 73pen;
@@ -646,7 +646,7 @@ Trabzon         1-1 Yozgat
 Fenerbahce      4-0 Adana
   [Milan Rapajc 15pen, 49, Ali Günes 29, 88]
 
-Round 27
+Round: 27
 [Apr 6]
 Rize            2-1 Gaziantep
   [Devran Ayhan 6, Emmanuel Tetteh 76; Hasan Özer 69]
@@ -671,7 +671,7 @@ Istanbul        1-1 Kocaeli
 Besiktas        2-0 Erzurum
   [Ahmet Dursun 14, Bayram Kadir Bektas 27]
 
-Round 28
+Round: 28
 [Apr 13]
 Bursa           0-1 Besiktas
   [Ayhan Akman 89]
@@ -696,7 +696,7 @@ Erzurum         1-2 Yozgat
 Ankaragucu      2-1 Fenerbahce
   [Cafer Aydin 45, 57; Ogün Temizkanoglu 70]
 
-Round 29
+Round: 29
 [Apr 20]
 Besiktas        0-0 Samsun
 [Apr 21]
@@ -722,7 +722,7 @@ Genclerbirligi  3-0 Istanbul
 Antalya         1-0 Erzurum
   [Senol Yavas 44]
 
-Round 30
+Round: 30
 [Apr 27]
 Gaziantep       2-1 Ankaragucu 
   [Hasan Özer 54pen, 78; Ohene Kennedy 90]
@@ -745,7 +745,7 @@ Genclerbirligi  2-4 Denizli
 Trabzon         1-0 Fenerbahce 
   [Hami Mandirali 30]
 
-Round 31
+Round: 31
 [May 4]
 Ankaragucu      2-4 Trabzon
   [Yilmaz Özlem 55, Cafer Aydin 81; Gökdeniz Karadeniz 18, Tamer Tuna 27, 
@@ -770,7 +770,7 @@ Fenerbahce      2-1 Galatasaray
 Denizli         2-3 Gaziantep
   [Veysel Cihan 63, Dogan Seyfi Atli 75; Erhan Albayrak 7, Fatih Tekke 30, 70]
 
-Round 32
+Round: 32
 [May 12]
 Kocaeli         5-0 Antalya
   [Tomislav Erceg 1, 37, Serdar Topraktepe 61, Zdravko Ivanov Lazerov 63,
@@ -794,7 +794,7 @@ Galatasaray     1-2 Ankaragucu
 Gaziantep       1-1 Trabzon
   [Hasan Özer 12; Oktay Derelioglu 21]
 
-Round 33
+Round: 33
 [May 19]
 Besiktas        5-1 Siirt Jet-PA
   [Markus Armin Münch 9, Pascal Olivier Nouma 17, Ibrahim Üzülmez 24, 
@@ -819,7 +819,7 @@ Trabzon         1-0 Denizli
 Gaziantep       0-2 Galatasaray 
   [Serkan Aykut 31, Hasan Gökhan Sas 70]
 
-Round 34
+Round: 34
 [May 25]
 Erzurum         0-2 Gaziantep
   [Hasan Özer 38pen, Hasan Yigit 71]

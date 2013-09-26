@@ -21,7 +21,7 @@ Competition: Premier Soccer League
 *---------------------------------------------------
 *16.Bay United                30  5  6 19  26-56  21  Relegated
 
-Round 1
+Round: 1
 [Aug 27]
 Ajax Cape Town            1-1 Maritzburg United
   [Mabhuti Khanyeza 65; Brice Aka 69]
@@ -42,7 +42,7 @@ Bloemfontein Celtic       0-1 Mamelodi Sundowns
 AmaZulu                   0-1 Platinum Stars
   [Luis Robinson Renteria 19]
 
-Round 2
+Round: 2
 [Sep 12]
 Orlando Pirates           0-0 Bidvest Wits       
 Santos                    3-0 Bay United
@@ -66,7 +66,7 @@ Platinum Stars            1-3 SuperSport United
 Mamelodi Sundowns         3-0 AmaZulu      
   [Katlego Mphela 38, Dario Monteiro 66, Collins Mbesuma 89]
 
-Round 3
+Round: 3
 [Sep 24]
 Santos                    0-3 Moroka Swallows           
   [David Radebe 1, Sibusiso Themba 86, Shaun Haschick 90+1]
@@ -86,7 +86,7 @@ Bay United                2-0 Orlando Pirates
   [Abeyoni Adebayo 48, Luntu Mazana 90+2]      
 Bloemfontein Celtic       0-0 Maritzburg United         
 
-Round 4
+Round: 4
 [Oct 1]
 Ajax Cape Town            2-0 Bloemfontein Celtic   
   [Mabhuti Khanyeza 44pen, Eduardo Ferreira 59]
@@ -109,7 +109,7 @@ Thanda Royal Zulu         1-2 SuperSport United
 Moroka Swallows           2-0 Kaizer Chiefs
   [Phumelele Bhengu 21, 32]
 
-Round 5 [Oct 29]
+Round: 5 [Oct 29]
 AmaZulu                   2-0 Ajax Cape Town            
   [Sthembiso Dlamini 45, Collins Chabalala 45+2]
 Bloemfontein Celtic       0-1 Kaizer Chiefs
@@ -127,7 +127,7 @@ Santos                    2-0 Free State Stars
 SuperSport United         5-0 Maritzburg United         
   [Masibusane Zongo 22, Anthony Laffor 42, 77, 85, Ricardo Katza 47]
 
-Round 6
+Round: 6
 [Nov 1]
 Free State Stars          1-1 Orlando Pirates           
   [Saitjheni Tsotetsi 90+2; Dikgang Mabalane 10]
@@ -153,7 +153,7 @@ Platinum Stars            4-1 Santos                    [remaining 65']
   [Henrico Botes 69, Marumo 77, 89pen, Tshepo Ramokala 81; 
    Irwin Isaacs 53]
 
-Round 7 [Nov 12]
+Round: 7 [Nov 12]
 Amazulu                   1-0 Bloemfontein Celtic
   [Dumisani Ngwenya 61]
 Lamontville Golden Arrows 4-0 Ajax Cape Town
@@ -171,7 +171,7 @@ Bay United                1-2 Thanda Royal Zulu
 Free State Stars          1-2 Moroka Swallows
   [Matome Madimabe 24; David Radebe 19, Eltern Morelato 35]
 
-Round 8
+Round: 8
 [Nov 15]
 AmaZulu                   3-1 Bay United 
   [Nhlanhla Zwane 28, Dumisani Ngwenya 33, Mohamed Issiah 84;
@@ -192,7 +192,7 @@ Moroka Swallows           0-1 Lamontville Golden Arrows
 Mamelodi Sundowns         2-0 Thanda Royal Zulu  
   [Dario Monteiro 5, Katlhego Mphela 15]                      
 
-Round 9
+Round: 9
 [Nov 21]
 Santos                    2-0 Maritzburg United   
   [Romano Scott 43, Erwin Isaacs 80]                     
@@ -215,7 +215,7 @@ Bay United                1-3 Ajax Cape Town
    Mkhanyiseli Siwahla 90]                          
 Moroka Swallows           0-0 Platinum Stars            
 
-Round 10 [Nov 26]
+Round: 10 [Nov 26]
 Bloemfontein Celtic       0-0 SuperSport United 
 Maritzburg United         2-1 Bay United
   [Tony Tsabedze 50, Bryce Aka 58; Abeyoni Adebayo 56]               
@@ -230,7 +230,7 @@ Kaizer Chiefs             1-0 Lamontville Golden Arrows
 Platinum Stars            0-0 Free State Stars
 Mamelodi Sundowns         0-0 Orlando Pirates
 
-Round 11
+Round: 11
 [Dec 5]
 Bidvest Wits              2-3 AmaZulu      
   [Jan Sillo 17og, David De Oliveira 32; Dumisani Ngwenya 14,
@@ -252,7 +252,7 @@ Bay United                1-1 Bloemfontein Celtic
 Mamelodi Sundowns         0-1 Moroka Swallows
   [David Radebe 11]               
 
-Round 12
+Round: 12
 [Dec 10]
 AmaZulu                   2-0 Lamontville Golden Arrows
 [Dec 14]
@@ -268,7 +268,7 @@ Ajax Cape Town            1-1 Santos
 Orlando Pirates           2-1 Maritzburg United 
   [Lucas Thwala 13pen, Katlego Mashego 37; Fanyana Dhladhla 63]
 
-Round 13 [Dec 17]
+Round: 13 [Dec 17]
 Platinum Stars            1-1 Ajax Cape Town
 Orlando Pirates           3-0 Bloemfontein Celtic
 Free State Stars          2-0 Kaizer Chiefs 
@@ -278,7 +278,7 @@ Bidvest Wits              0-2 Lamontville Golden Arrows
 Mamelodi Sundowns         3-0 Maritzburg United
 Thanda Royal Zulu         4-2 Moroka Swallows    
 
-Round 14
+Round: 14
 [Dec 20]
 Lamontville Golden Arrows 1-2 Bay United 
   [Thokozani Mshengu 32; Gareth Ncaca 26, Cyril Nzama 81]
@@ -298,7 +298,7 @@ AmaZulu                   0-0 Orlando Pirates
 Maritzburg United         0-2 Thanda Royal Zulu 
   [Felix Obada 62, Nkosinathi Nhleko 86]
 
-Round 15
+Round: 15
 [Jan 10]
 Free State Stars          3-2 AmaZulu
   [Sthembiso Ngcobo 12, 55, John Mensah 55; Dumisani Ngwenya 41,
@@ -320,7 +320,7 @@ Moroka Swallows           2-1 Maritzburg United
 Santos                    0-3 Lamontville Golden Arrows 
   [Siyabonga Sangweni 22, Philani Shange 72, Richard Henyekane 90+1]
 
-Round 16
+Round: 16
 [Jan 14]
 Platinum Stars            3-2 AmaZulu
   [Henrico Botes 3, Bradley Grobler 16, Jabu Pule Mahlangu 85pen;
@@ -344,7 +344,7 @@ Bay United                1-1 Moroka Swallows
 Thanda Royal Zulu         1-2 Kaizer Chiefs
   [Musa Nyatama 4; Kaizer Motaung Jnr 27, Arthur Zwane 84]
 
-Round 17
+Round: 17
 [Jan 21]
 Lamontville Golden Arrows 1-1 Free State Stars
   [Siyabonga Vezi 73; Sthembiso Ngcobo 54]
@@ -366,7 +366,7 @@ Bloemfontein Celtic       6-1 Thanda Royl Zulu
 Bay United                0-1 Santos
   [Erwin Isaacs 89]
 
-Round 18 
+Round: 18 
 [Jan 28]
 Maritzburg United         3-1 Bloemfontein Celtic      
   [Thabo Nthethe 2og, Fadlu Davids 20pen, Tony Tsabedze 67;
@@ -392,7 +392,7 @@ Platinum Stars            0-6 Lamontville Golden Arrows
 Mamelodi Sundowns         1-4 SuperSport United 
   [Collins Mbesuma 87; Anthony Laffor 22, 64, 77, Daine Klate 27]
 
-Round 19
+Round: 19
 [Feb 7]
 Bidvest Wits              1-0 Platinum Stars
   [Samuel Ramasoeu 54]
@@ -412,7 +412,7 @@ Bay United                0-1 Free State Stars
 Bloemfontein Celtic       2-1 Ajax Cape Town
   [Moses Spandeel 21, Gert Schalkwyk 51; Mabhuti Khenyeza 90+4]
 
-Round 20
+Round: 20
 [Jan 21]
 Maritzburg United         1-3 SuperSport United 
 [Feb 14]
@@ -432,7 +432,7 @@ Thanda Royal Zulu         2-2 Lamontville Golden Arrows
   [Nkosinathi Nhleko 7, Phillip Evans 62; Richard Henyekane 12pen,
    Francis Kombe 80]
 
-Round 21
+Round: 21
 [Feb 18]
 Bloemfontein Celtic       4-1 Moroka Swallows   
   [Petrus Mahlatsi 50, Gert Schalkwyk 72, Tlou Segolela 85, 87;
@@ -457,7 +457,7 @@ Bay United                2-0 Mamelodi Sundowns
   [Cyril Nzama 23, Jimmy Zakazaka 76]   
 AmaZulu                   0-0 Kaizer Chiefs             
 
-Round 22
+Round: 22
 [Feb 28]
 Mamelodi Sundowns         2-1 Santos
   [Sibusiso Zuma 73, Surprise Moriri 90+1; Eleazar Rodgers 72]
@@ -478,7 +478,7 @@ Moroka Swallows           0-2 Free State Stars
 [Mar 24]
 Maritzburg United         2-1 Bidvest Wits
 
-Round 23 [Mar 4]
+Round: 23 [Mar 4]
 Santos                    2-1 Thanda Royal Zulu
   [Ryan Chapman 30, 45; Clifford Mulenga 68]
 Free State Stars          0-0 Platinum Stars
@@ -495,7 +495,7 @@ Moroka Swallows           0-1 AmaZulu
 Bay United                1-2 Maritzburg United
   [Linos Chalwe 80; Fanyana Dhladhla 59, John Arwuah 88]
 
-Round 24
+Round: 24
 [Feb 25]
 Ajax Cape Town            4-1 Bay United
   [Sameehg Doutie 11, Mabhuti Khenyeza 33, 63, 75; Martin Carelse 89og]
@@ -515,7 +515,7 @@ Moroka Swallows           1-2 Platinum Stars
 Bloemfontein Celtic       1-0 Lamontville Golden Arrows
   [Darrel Smith 47]
 
-Round 25
+Round: 25
 [Feb 4]
 Maritzburg United         0-3 Mamelodi Sundowns 
   [Surprise Moriri 7pen, 53pen, 76]
@@ -536,7 +536,7 @@ AmaZulu                   1-0 Santos
 [Apr 29]
 Ajax Cape Town            1-1 Platinum Stars
 
-Round 26 [Apr 8]
+Round: 26 [Apr 8]
 Lamontville Golden Arrows 0-1 AmaZulu          
   [Bradley Ritson 43]         
 Free State Stars          2-0 Thanda Royal Zulu     
@@ -553,7 +553,7 @@ SuperSport United         2-0 Moroka Swallows
 Bidvest Wits              1-1 Bloemfontein Celtic      
   [Tebogo Langerman 27; Moses Spandeel 13]               
 
-Round 27
+Round: 27
 [Apr 14]
 Free State Stars          3-0 Ajax Cape Town  
   [Tebelo Mofokeng 34, Saitjeni Tsotetsi 84, Sanele Mabaso 90]          
@@ -574,7 +574,7 @@ Platinum Stars            4-0 Maritzburg United
 Orlando Pirates           2-1 Kaizer Chiefs     
   [Katlego Mashego 70, 84; Lucas Thwala 76og]          
 
-Round 28
+Round: 28
 [Apr 23]
 Ajax Cape Town            5-2 Thanda Royal Zulu  
   [Mabhuti Khenyeza 39, 49, 90+1, Thulani Serero 56, 85;
@@ -597,7 +597,7 @@ Bloemfontein Celtic       2-0 Platinum Stars
 Lamontville Golden Arrows 3-1 Santos
   [Richard Henyekane 29, 90+2, Nhlanhla Zothwane 40; Mogogi Gabonamong 82]  
 
-Round 29 [May 6]
+Round: 29 [May 6]
 Ajax Cape Town            1-1 Orlando Pirates
   [Thulani Serero 84; Lucas Thwala 49]  
 AmaZulu                   0-0 Bidvest Wits
@@ -613,7 +613,7 @@ SuperSport United         1-2 Lamontville Golden Arrows
 Thanda Royal Zulu         2-1 Platinum Stars
   [Sibusiso Hadebe 52, Clifford Mulenga 87; Godfrey Sapula 41]  
 
-Round 30 [May 9]
+Round: 30 [May 9]
 Mamelodi Sundowns         0-2 Ajax Cape Town   
   [Mkhanyiseli Siwahla 37, Thulani Serero 90+1]
 Thanda Royal Zulu         0-0 Maritzburg United      

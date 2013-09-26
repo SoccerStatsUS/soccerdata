@@ -19,7 +19,7 @@ Competition: Egyptian Premier League
 *14.Sohag                     26  1 12 13  23-53  15  Relegated
 *[*] Al-Ma'aden (aka Metals) changed name to Goldy
 
-Round 1 
+Round: 1 
 [Sep 21]
 G Mehalla 3-1 Masry
   [Ekrami Abdulaziz 26, 45, Ramadan Ragab 75; Ahmed Abdulmonhem 89]
@@ -40,7 +40,7 @@ Ismaily   2-0 Tersana
 Zamalek   3-0 Goldy
   [Tamer Abdulhamid 34, Hossam Hassan 44pen, 75]
 
-Round 2
+Round: 2
 [Sep 29]
 Qanat     2-1 G Suez
   [Ahmed Al-Agouz 44, Mohamed Abdulrahman 85; Hamdi Abdulal 64]
@@ -58,7 +58,7 @@ Tersana   1-1 G Mehalla
 Mansoura  1-2 Zamalek
   [Mohamed Mahmoud 63; Hossam Hassan 86, 91]
 
-Round 3
+Round: 3
 [Oct 5]
 Ittihad   2-2 Qanat
   [Ayman Al-Gamal 61, 70; Mohamed Abdulrahman 69, Ayman Fathi 83]
@@ -75,7 +75,7 @@ G Mehalla 1-1 Goldy
 Ahly      2-0 Mansoura
   [Mohamed Farouq 53, Khaled Bibo 70]
 
-Round 4
+Round: 4
 [Oct 14]
 Zamalek   3-0 G Mehalla
   [Karam Jaber 25og, Mohamed Abdulwahed 43, Hossam Abdulmonhem 66]
@@ -94,7 +94,7 @@ Ahly      1-0 Qanat
 Goldy     2-2 Sohag
   [Hassan Awwad 4, Nabil Abou-Zeid 14; Adel Abdullah 73, Oussama Hamed 80]
 
-Round 5
+Round: 5
 [Oct 19]
 Sohag     3-3 Zamalek
   [Walid Saad 45pen, Harbi Toufiq 48, 68; Hossam Hassan 21, 72,
@@ -113,7 +113,7 @@ Ittihad   0-0 Masry
 Ahly      2-0 B Mehalla
   [Ahmed Abou-Moslem 62, Khaled Bibo 90]
 
-Round 6
+Round: 6
 [Oct 26]
 Masry     1-1 Ahly
   [Mazhar Abdulrahman 92pen; Cherno Mansarai 51]
@@ -132,7 +132,7 @@ Mokawloon 1-3 Zamalek
 Mansoura  0-1 G Mehalla
   [Ashraf Kabounga 39]
 
-Round 7
+Round: 7
 [Nov 2]
 Ismaily   2-0 Mokawloon
   [Abdulhamid Bassiouni 24, Abdulrazzaq  Ekimi Yoko 85]
@@ -147,7 +147,7 @@ Qanat     0-0 Masry
 Ahly      2-0 Tersana
   [Ibrahim Saeed 32pen, Ala'a Ibrahim 90]
 
-Round 8 
+Round: 8 
 [Nov 19]
 Ittihad   0-4 Zamalek
   [Hossam Hassan 57, Hazem Emam 75, 90, Tareq Al-Sayyed 78]
@@ -165,7 +165,7 @@ Mokawloon 0-0 G Mehalla
 Goldy     0-1 Ahly
   [Wael Goma'a 67]
 
-Round 9
+Round: 9
 [Nov 23]
 Ahly      1-2 Zamalek
   [Ala'a Ibrahim 89; Hazem Emam 21pen, 55]
@@ -180,7 +180,7 @@ Qanat     2-2 Goldy
   [Hassan Moussa 23, Mohamed Hankash 54; Sidi Camara 8og, Tareq Mustapha 87]
 Masry     0-0 Mansoura
 
-Round 10
+Round: 10
 [Nov 30]
 Tersana   3-0 Masry
   [Mohannad Al-Boushi 17, Moemen Abdulghaffar 59, Imad Ayyoub 89]
@@ -200,7 +200,7 @@ Mansoura  1-1 Mokawloon
 Ismaily   1-1 Ahly
   [Amro Fahim 4; Galletro 39]
 
-Round 11
+Round: 11
 [Dec 6]
 Tersana   3-1 Mansoura
   [Mohamed Abou-Tarikah 47, 84, Ahmed Aabdulzaher 58; Ashraf Khamis 28]
@@ -220,7 +220,7 @@ Ittihad   1-1 Sohag
 Ahly      1-0 G Mehalla
   [Khaled Bibo 66]
 
-Round 12
+Round: 12
 [Dec 13]
 Goldy     1-2 Tersana
   [Denis Abramovic 21; Imad Ayyoub 12, 15]
@@ -238,7 +238,7 @@ Zamalek   4-2 Masry
   [Hossam Hassan 17, 30, Tareq Al-Sayyed 53, 80; 
    Walid Abou Al-Ila 77, Abdullah Ragab 89]
 
-Round 13
+Round: 13
 [Dec 22]
 Qanat     5-2 Sohag
   [Hassan Moussa 13, 55, Ahmed Ayyoub 31, Mohamed Abdulrahman 40, Ahmed Al-Agouz 76;
@@ -259,7 +259,7 @@ Masry     0-1 Ismaily
 Ahly      1-0 Mokawloon
   [Khaled Bibo 45]
 
-Round 14
+Round: 14
 [Mar 1]
 Zamalek   2-1 Goldy
   [Hazem Emam 6, Hossam Hassan 55pen; Wael Al-Qabbani 69og]
@@ -277,7 +277,7 @@ Ahly      2-0 G Suez
 B Mehalla 1-0 Sohag
   [Mohamed Salam 4]
 
-Round 15
+Round: 15
 [Mar 16]
 G Suez    2-1 Qanat
   [Hamdi Abdulal 60, Sameh Adlan 89; Mohamed Abou Al-Ezz 41]
@@ -296,7 +296,7 @@ Tersana   0-1 G Mehalla
 Ittihad   1-2 Ahly
   [Ayman Saeed 62; Ahmed Bilal 37, Mohamed Abonde 79]
 
-Round 16
+Round: 16
 [Mar 29]
 B Mehalla 5-1 G Suez
   [Akram Abdulmajid 30, Talhat Ragheb 33, 84, Mohamed Salem 68, Sami Qomsan 90;
@@ -316,7 +316,7 @@ Mansoura  0-1 Ahly
 Masry     1-0 Mokawloon
   [Ahmed "Koshari" Abdulmonhem 52]
 
-Round 17
+Round: 17
 [Apr 2]
 Sohag     0-0 Goldy
 Ittihad   0-0 B Mehalla
@@ -332,7 +332,7 @@ G Suez    1-0 Masry
 Tersana   2-2 Mokawloon
   [Imad Ayyoub 34, Hossam Mabrouk 83; Ahmed Fekri Al-Saghir 38, Sameh Youssouf 52]
 
-Round 18
+Round: 18
 [Apr 7]
 Ismaily   1-0 G Mehalla
   [Mohamed Salah Abou-Greyshah 8]
@@ -348,7 +348,7 @@ Mansoura  2-2 Qanat
 Masry     1-0 Ittihad
   [Yasser Mohamed 42]
 
-Round 19
+Round: 19
 [Apr 19]
 G Suez    0-1 Goldy
   [Samuel Eto 40]
@@ -367,7 +367,7 @@ Qanat     1-2 B Mehalla
 Ahly      1-0 Masry
  [Ahmed Bilal 5]
 
-Round 20
+Round: 20
 [May 2]
 Mokawloon 0-1 Ismaily   
   [Abdulhamid Bassiouni 69]
@@ -385,7 +385,7 @@ Tersana   0-5 Ahly
 G Suez    0-2 Zamalek
   [Ahmed Felix Aboagye 58, Hossam Hassan 87pen]
 
-Round 21 [May 11]
+Round: 21 [May 11]
 G Suez    1-1 Ismaily
   [Hani Kamel 33pen; Ahmed Fathi 70]
 B Mehalla 0-0 Masry
@@ -399,7 +399,7 @@ Mokawloon 4-2 G Mehalla
   [Ali Ashour 10, 50, Sameh Youssouf 74, 77; Ekrami Abdulaziz 45,
    Oussama Nabih 89pen]
 
-Round 22
+Round: 22
 [May 15]
 Ismaily   3-0 Ittihad
   [Islam Al-Shater 9pen, Mohamed Salah Abou-Greyshah 90, Atiyya Saber 90]
@@ -420,7 +420,7 @@ Zamalek   1-6 Ahly
   [Hossam Hassan 41; Ridha Shehata 4, Ibrahim Saeed 28,
    Khaled Bibo 38, 64, 73, 90]
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Ahly      4-4 Ismaily
   [Ahmed Bilal 39, 76, Mohamed Farouq 45, Ala'a Ibrahim 88pen;
    Mohamed Barakat 30, Amrou Fahim 42, Islam Al-Shater 63pen, Atiyya Saber 90pen]
@@ -437,7 +437,7 @@ G Suez    6-0 Sohag
 Masry     2-0 Tersana
   [Mohamed Shawqi 76, Yasser Mohamed 82]
 
-Round 24 [May 24]
+Round: 24 [May 24]
 Qanat     1-2 Ismaily 
   [Moatassem Bellah 27; Mohamed Salah Abou-Greyshah 35, Imad Al-Nahhas 77]
 G Mehalla 1-1 Ahly
@@ -452,7 +452,7 @@ Goldy     1-1 Masry
 Mokawloon 1-0 G Suez
   [Rami Saeed 36]
 
-Round 25 [May 28]
+Round: 25 [May 28]
 B Mehalla 0-3 Ismaily
   [Mohamed Salah Abou-Greyshah 23, 79, Abdulhamid Bassiouni 69]
 Ahly      4-0 Sohag
@@ -465,7 +465,7 @@ Ittihad   2-4 Mokawloon
 Qanat     2-4 G Mehalla
 Tersana   0-1 Goldy
 
-Round 26
+Round: 26
 Sohag     3-2 Qanat
   [Hammam Ahmed (2), A.El-Sayed; Ahmed El-Agouz (2)]
 G Mehalla 0-0 B Mehalla

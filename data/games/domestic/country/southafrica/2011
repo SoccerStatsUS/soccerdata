@@ -21,7 +21,7 @@ Competition: Premier Soccer League
 *----------------------------------------------------
 *16.Jomo Cosmos               30   2 13 15  24-46  19  Relegated
 
-Round 1
+Round: 1
 [Aug 12]
 Black Leopards            0-2 Orlando Pirates           
 Santos                    1-3 Moroka Swallows           
@@ -34,7 +34,7 @@ Platinum Stars            2-0 Ajax Cape Town
 Mamelodi Sundowns         0-0 AmaZulu                   
 Maritzburg United         2-2 Wits University           
 
-Round 2
+Round: 2
 [Aug 16]
 Bloemfontein Celtic       2-0 Black Leopards            
 Orlando Pirates           1-0 Platinum Stars            
@@ -46,7 +46,7 @@ Jomo Cosmos               0-2 Mamelodi Sundowns
 Moroka Swallows           0-2 Kaizer Chiefs             
 SuperSport United         2-1 Lamontville Golden Arrows 
 
-Round 3 [Aug 24] 
+Round: 3 [Aug 24] 
 AmaZulu                   1-2 SuperSport United         
 Black Leopards            2-0 Lamontville Golden Arrows 
 Free State Stars          1-0 Jomo Cosmos               
@@ -56,7 +56,7 @@ Maritzburg United         2-1 Orlando Pirates
 Platinum Stars            2-1 Bloemfontein Celtic       
 Santos                    0-1 Ajax Cape Town            
 
-Round 4
+Round: 4
 [Sep 13]
 Wits University           2-3 Mamelodi Sundowns         
 Jomo Cosmos               0-0 AmaZulu                   
@@ -68,7 +68,7 @@ Moroka Swallows           2-1 Free State Stars
 Orlando Pirates           1-0 Santos                    
 SuperSport United         3-0 Black Leopards            
 
-Round 5
+Round: 5
 [Sep 17]
 AmaZulu                   0-1 Moroka Swallows           
 Jomo Cosmos               2-2 SuperSport United         
@@ -80,7 +80,7 @@ Free State Stars          0-0 Wits University
 Mamelodi Sundowns         2-3 Ajax Cape Town            
 Maritzburg United         2-0 Lamontville Golden Arrows 
 
-Round 6
+Round: 6
 [Sep 23]
 Ajax Cape Town            3-1 Free State Stars          
 [Sep 24]
@@ -93,7 +93,7 @@ Orlando Pirates           0-0 Mamelodi Sundowns
 Moroka Swallows           2-0 Jomo Cosmos               
 SuperSport United         2-0 Platinum Stars            
 
-Round 7
+Round: 7
 [Sep 27]
 AmaZulu                   4-0 Ajax Cape Town            
 Mamelodi Sundowns         2-1 Bloemfontein Celtic       
@@ -105,7 +105,7 @@ Maritzburg United         2-1 Platinum Stars
 Moroka Swallows           1-1 SuperSport United         
 Santos                    1-1 Black Leopards            
 
-Round 8
+Round: 8
 [Oct 14]
 Ajax Cape Town            1-1 Jomo Cosmos               
 SuperSport United         7-0 Maritzburg United         
@@ -118,7 +118,7 @@ Platinum Stars            4-1 Santos
 Black Leopards            0-2 Kaizer Chiefs             
 Bloemfontein Celtic       1-0 Free State Stars          
 
-Round 9
+Round: 9
 [Oct 28]
 Moroka Swallows           3-2 Ajax Cape Town            
 Santos                    2-1 Maritzburg United         
@@ -131,7 +131,7 @@ Kaizer Chiefs             1-0 Platinum Stars
 Jomo Cosmos               1-2 Orlando Pirates           
 Mamelodi Sundowns         5-1 Black Leopards            
 
-Round 10
+Round: 10
 [Nov 1]
 Maritzburg United         0-0 Kaizer Chiefs             
 SuperSport United         1-0 Santos                    
@@ -143,7 +143,7 @@ Lamontville Golden Arrows 1-2 AmaZulu
 Orlando Pirates           1-1 Moroka Swallows           
 Platinum Stars            0-0 Mamelodi Sundowns         
 
-Round 11
+Round: 11
 [Nov 18]
 Ajax Cape Town            0-0 SuperSport United         
 Moroka Swallows           0-0 Bloemfontein Celtic       
@@ -156,7 +156,7 @@ Kaizer Chiefs             0-0 Santos
 AmaZulu                   0-1 Black Leopards            
 Mamelodi Sundowns         1-0 Maritzburg United         
 
-Round 12
+Round: 12
 [Nov 29]
 Black Leopards            1-1 Jomo Cosmos               
 [Nov 30]
@@ -168,7 +168,7 @@ Platinum Stars            0-1 AmaZulu
 Santos                    2-5 Mamelodi Sundowns         
 SuperSport United         2-0 Kaizer Chiefs             
 
-Round 13
+Round: 13
 [Dec 3]
 Wits University           2-2 Lamontville Golden Arrows 
 Free State Stars          2-0 Santos                    
@@ -180,7 +180,7 @@ Ajax Cape Town            2-0 Bloemfontein Celtic
 AmaZulu                   0-0 Maritzburg United         
 Mamelodi Sundowns         0-1 Kaizer Chiefs             
 
-Round 14
+Round: 14
 [Dec 16]
 Santos                    1-2 AmaZulu                   
 SuperSport United         1-3 Mamelodi Sundowns         
@@ -193,7 +193,7 @@ Platinum Stars            0-0 Moroka Swallows
 Black Leopards            1-2 Wits University           
 Bloemfontein Celtic       1-0 Orlando Pirates           
 
-Round 15
+Round: 15
 [Dec 20]
 AmaZulu                   0-0 Kaizer Chiefs             
 Jomo Cosmos               2-2 Santos                    
@@ -205,7 +205,7 @@ Moroka Swallows           2-2 Maritzburg United
 Orlando Pirates           2-0 Lamontville Golden Arrows 
 SuperSport United         0-1 Bloemfontein Celtic       
 
-Round 16 [Feb 15]
+Round: 16 [Feb 15]
 Ajax Cape Town            3-2 Platinum Stars            
 AmaZulu                   0-1 Mamelodi Sundowns         
 Wits University           0-0 Maritzburg United         
@@ -215,7 +215,7 @@ Moroka Swallows           3-2 Santos
 Orlando Pirates           1-0 Black Leopards            
 SuperSport United         1-1 Free State Stars          
 
-Round 17
+Round: 17
 [Feb 18]
 Free State Stars          2-1 AmaZulu                   
 Lamontville Golden Arrows 1-2 SuperSport United         
@@ -228,7 +228,7 @@ Maritzburg United         0-2 Ajax Cape Town
 Black Leopards            2-2 Bloemfontein Celtic       
 Platinum Stars            3-4 Orlando Pirates           
 
-Round 18
+Round: 18
 [Feb 24]
 Moroka Swallows           2-2 Mamelodi Sundowns         
 [Feb 25]
@@ -242,7 +242,7 @@ Orlando Pirates           1-0 Maritzburg United
 [Mar 7]
 Lamontville Golden Arrows 4-2 Black Leopards            
 
-Round 19
+Round: 19
 [Mar 13]
 Black Leopards            1-0 SuperSport United         
 Mamelodi Sundowns         1-1 Wits University           
@@ -255,7 +255,7 @@ Santos                    3-0 Orlando Pirates
 AmaZulu                   0-0 Jomo Cosmos               
 Kaizer Chiefs             2-0 Ajax Cape Town            
 
-Round 20
+Round: 20
 [Mar 17]
 Ajax Cape Town            0-3 Mamelodi Sundowns         
 Wits University           1-3 Free State Stars          
@@ -267,7 +267,7 @@ SuperSport United         0-0 Jomo Cosmos
 Black Leopards            2-3 Platinum Stars            
 Bloemfontein Celtic       2-0 Santos                    
 
-Round 21
+Round: 21
 [Mar 20]
 AmaZulu                   2-0 Wits University           
 Jomo Cosmos               0-2 Moroka Swallows           
@@ -279,7 +279,7 @@ Maritzburg United         0-1 Black Leopards
 Platinum Stars            0-0 SuperSport United         
 Santos                    1-2 Lamontville Golden Arrows 
 
-Round 22 [Mar 28]
+Round: 22 [Mar 28]
 Ajax Cape Town            2-4 AmaZulu                   
 Wits University           0-1 Jomo Cosmos               
 Black Leopards            2-1 Santos                    
@@ -289,7 +289,7 @@ Orlando Pirates           3-1 Free State Stars
 Platinum Stars            1-1 Maritzburg United         
 SuperSport United         0-0 Moroka Swallows           
 
-Round 23
+Round: 23
 [Apr 3]
 Kaizer Chiefs             0-1 Black Leopards            
 [Apr 4]
@@ -301,7 +301,7 @@ Maritzburg United         0-0 SuperSport United
 Moroka Swallows           3-0 Wits University           
 Santos                    1-2 Platinum Stars            
 
-Round 24
+Round: 24
 [Apr 7]
 Ajax Cape Town            2-2 Moroka Swallows           
 Lamontville Golden Arrows 2-0 Free State Stars          
@@ -315,7 +315,7 @@ Orlando Pirates           2-1 Jomo Cosmos
 [Apr 11]
 Black Leopards            1-2 Mamelodi Sundowns         
 
-Round 25
+Round: 25
 [Apr 17]
 Kaizer Chiefs             0-1 Maritzburg United         
 [Apr 18]
@@ -327,7 +327,7 @@ Mamelodi Sundowns         1-2 Platinum Stars
 Moroka Swallows           0-0 Orlando Pirates           
 Santos                    0-1 SuperSport United         
 
-Round 26
+Round: 26
 [Apr 21]
 Lamontville Golden Arrows 3-1 Jomo Cosmos               
 Maritzburg United         1-0 Mamelodi Sundowns         
@@ -339,7 +339,7 @@ Black Leopards            1-4 AmaZulu
 Bloemfontein Celtic       1-1 Moroka Swallows           
 Santos                    2-1 Kaizer Chiefs             
 
-Round 27
+Round: 27
 [Apr 27]
 Ajax Cape Town            1-1 Orlando Pirates           
 [Apr 28]
@@ -353,7 +353,7 @@ Moroka Swallows           3-2 Lamontville Golden Arrows
 [May 16] 
 Jomo Cosmos               2-2 Black Leopards            
 
-Round 28
+Round: 28
 [May 1]
 Maritzburg United         1-1 AmaZulu                   
 SuperSport United         1-2 Orlando Pirates           
@@ -366,7 +366,7 @@ Santos                    0-1 Free State Stars
 [May 4]
 Black Leopards            2-5 Moroka Swallows           
 
-Round 29
+Round: 29
 [May 8]
 Wits University           0-0 Black Leopards            
 [May 12]
@@ -378,7 +378,7 @@ Mamelodi Sundowns         0-1 SuperSport United
 Moroka Swallows           2-1 Platinum Stars            
 Orlando Pirates           2-1 Bloemfontein Celtic       
 
-Round 30 [May 19]
+Round: 30 [May 19]
 Black Leopards            3-1 Ajax Cape Town            
 Bloemfontein Celtic       1-2 SuperSport United         
 Lamontville Golden Arrows 2-4 Orlando Pirates           

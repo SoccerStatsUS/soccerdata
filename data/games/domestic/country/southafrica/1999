@@ -22,7 +22,7 @@ Competition: Premier Soccer League
 *17.Amazulu               34  9  9 16  32-44  36  Relegated
 *18.Mother City           34  2  4 28  22-85  10  Relegated
 
-Round 1 
+Round: 1 
 [Jul 30]
 Rangers       1-0 Hellenic
 Santos        2-1 Celtic
@@ -37,7 +37,7 @@ Wits          3-1 Ajax
 Swallows      1-1 Pirates       
 Supersport    1-4 Sundowns
 
-Round 2
+Round: 2
 [Aug 5]
 Wanderers     1-4 Rangers
 [Aug 6]
@@ -52,7 +52,7 @@ Wits          0-0 Chiefs
 [Aug 20]
 Mother City   4-1 Bucks
 
-Round 3
+Round: 3
 [Aug 7]
 Amazulu       0-0 Pirates
 Rangers       1-0 Cosmos
@@ -66,7 +66,7 @@ Classic       3-1 Celtic
 [Aug 10]
 Chiefs        2-1 Free State St
 
-Round 4
+Round: 4
 [Aug 14]
 Hellenic      6-0 Classic
 Pirates       5-0 Rangers
@@ -79,7 +79,7 @@ Sundowns      1-0 Ajax
 Mother City   1-1 Chiefs
 Wits          0-0 Amazulu
 
-Round 5
+Round: 5
 [Aug 20]
 Amazulu       1-1 Free State St
 Santos        2-1 Rangers
@@ -93,7 +93,7 @@ Swallows      2-0 Mother City
 Classic       3-1 Wanderers
 Wits          0-0 Pirates
 
-Round 6
+Round: 6
 [Sep 3]
 Rangers       2-2 Supersport
 Mother City   0-0 Amazulu
@@ -108,7 +108,7 @@ Sundowns      4-0 Swallows
 [Oct 20]
 Pirates       3-3 Santos
 
-Round 7
+Round: 7
 [Sep 17]
 Supersport    1-1 Santos
 [Sep 18]
@@ -125,7 +125,7 @@ Chiefs        0-0 Hellenic
 Amazulu       0-1 Sundowns
 Free State    0-0 Pirates
 
-Round 8
+Round: 8
 [Sep 22]
 Cosmos        2-0 Ajax
 Rangers       2-1 Bucks
@@ -139,7 +139,7 @@ Mother City   0-0 Free State St
 [Nov 10]
 Pirates       3-2 Supersport
 
-Round 9
+Round: 9
 [Sep 25]
 Ajax          1-1 Rangers
 Bucks         3-1 Santos
@@ -154,7 +154,7 @@ Wits          1-1 Celtic
 [Dec 15]
 Mother City   0-2 Pirates
 
-Round 10
+Round: 10
 [Oct 5]
 Pirates       3-0 Classic
 [Oct 8]
@@ -169,7 +169,7 @@ Celtic        1-0 Free State
 Rangers       0-1 Chiefs
 Sundowns      3-1 Mother City
 
-Round 11
+Round: 11
 [Oct 22]
 Wits          1-0 Wanderers
 [Oct 23]
@@ -185,7 +185,7 @@ Mother City   3-1 Celtic
 [Jun 3]
 Pirates       0-3 Sundowns
 
-Round 12
+Round: 12
 [Oct 29]
 Santos        1-1 Swallows
 [Oct 30]
@@ -202,7 +202,7 @@ Supersport    0-1 Chiefs
 [Dec 15]
 Rangers       1-1 Amazulu
 
-Round 13
+Round: 13
 [Nov 5]
 Ajax          2-0 Bucks
 Chiefs        4-0 Classic
@@ -216,7 +216,7 @@ Free St Stars 0-0 Cosmos
 Sundowns      4-2 Hellenic
 Swallows      2-1 Supersport
 
-Round 14
+Round: 14
 [Oct 15]
 Supersport    1-0 Amazulu
 [Nov 13]
@@ -233,7 +233,7 @@ Cosmos        2-1 Mother City
 [Apr 12]
 Wanderers     0-2 Sundowns
 
-Round 15 
+Round: 15 
 [Nov 16]
 Amazulu       1-0 Classic
 Celtic        3-1 Wanderers
@@ -246,7 +246,7 @@ Wits          0-0 Supersport
 [Jan 19]
 Free State    1-1 Santos
 
-Round 16
+Round: 16
 [Nov 20]
 Pirates       1-0 Chiefs
 Supersport    2-2 Free State
@@ -262,7 +262,7 @@ Cosmos        3-0 Celtic
 [Mar 1]
 Rangers       0-1 Sundowns
 
-Round 17
+Round: 17
 [Oct 13]
 Pirates       2-1 Wanderers
 [Nov 26]
@@ -278,7 +278,7 @@ Sundowns      1-1 Santos
 [Mar 8]
 Wits          2-1 Bucks
 
-Round 18
+Round: 18
 [Dec 2]
 Mother City   1-2 Classic
 [Dec 3]
@@ -295,7 +295,7 @@ Hellenic      4-3 Rangers
 [May 17]
 Bucks         2-2 Free State
 
-Round 19
+Round: 19
 [Dec 8]
 Bucks         2-1 Mother City
 Cosmos        1-3 Pirates
@@ -310,7 +310,7 @@ Classic       2-2 Sundowns
 [May 21]
 Rangers       2-2 Wanderers
 
-Round 20
+Round: 20
 [Dec 11]
 Ajax          2-0 Mother City
 Wits          1-0 Swallows
@@ -327,7 +327,7 @@ Cosmos        1-2 Rangers
 [Mar 1]
 Pirates       1-0 Amazulu
 
-Round 21
+Round: 21
 [Dec 17]
 Santos        2-2 Cosmos
 Supersport    0-1 Wanderers
@@ -341,7 +341,7 @@ Bucks         1-0 Celtic
 Rangers       0-1 Pirates
 Swallows      2-1 Free State 
 
-Round 22 
+Round: 22 
 [Dec 22]
 Wanderers     3-1 Classic
 Celtic        1-1 Ajax
@@ -354,7 +354,7 @@ Bucks         1-1 Hellenic
 [Apr 30]
 Free State    1-1 Amazulu
 
-Round 23
+Round: 23
 [Mar 29]
 Bucks         4-1 Wanderers
 [Apr 9]
@@ -370,7 +370,7 @@ Santos        0-0 Pirates
 [May 21]
 Swallows      1-0 Sundowns
 
-Round 24
+Round: 24
 [Dec 12]
 Cosmos        0-0 Bucks
 [Mar 8]
@@ -388,7 +388,7 @@ Hellenic      0-1 Chiefs
 [Apr 30]
 Ajax          2-1 Wanderers
 
-Round 25
+Round: 25
 [Jan 8]
 Ajax          1-1 Cosmos
 Chiefs        2-1 Wanderers
@@ -402,7 +402,7 @@ Bucks         2-1 Rangers
 [Jan 10]
 Classic       1-0 Santos
 
-Round 26
+Round: 26
 [Jan 14]
 Celtic        3-3 Wits
 Rangers       1-2 Ajax
@@ -419,7 +419,7 @@ Chiefs        1-1 Cosmos
 [Apr 26]
 Pirates       6-1 Mother City
        
-Round 27
+Round: 27
 [Mar 3]
 Mother City   0-1 Sundowns
 Classic       0-3 Pirates
@@ -433,7 +433,7 @@ Free State    1-1 Celtic
 [Mar 15]
 Swallows      2-2 Cosmos
  
-Round 28
+Round: 28
 [Mar 10]
 Rangers       1-1 Swallows
 [Mar 11]
@@ -450,7 +450,7 @@ Celtic        6-0 Mother City
 [May 15]
 Hellenic      1-1 Free State
 
-Round 29
+Round: 29
 [Feb 17]
 Mother City   1-3 Hellenic
 Wits          0-0 Cosmos
@@ -466,7 +466,7 @@ Sundowns      4-1 Celtic
 [Jun 17]
 Chiefs        1-2 Supersport
  
-Round 30
+Round: 30
 [Mar 17]
 Rangers       1-2 Wits
 [Mar 18]
@@ -483,7 +483,7 @@ Supersport    3-2 Swallows
 [Apr 23]
 Classic       0-0 Chiefs
      
-Round 31
+Round: 31
 [Mar 31]
 Wits          0-1 Santos
 [Apr 2]
@@ -501,7 +501,7 @@ Ajax          2-2 Pirates
 [May 30]
 Chiefs        0-0 Bucks
 
-Round 32
+Round: 32
 [Apr 26]
 Cosmos        2-0 Sundowns
 [Apr 30]
@@ -517,7 +517,7 @@ Wanderers     0-1 Celtic
 Classic       0-1 Amazulu  
 Bucks         5-1 Swallows  
 
-Round 33
+Round: 33
 [Apr 23]
 Amazulu       4-2 Bucks
 Celtic        1-1 Cosmos
@@ -533,7 +533,7 @@ Wits          1-1 Classic
 [Jun 13]
 Chiefs        2-2 Pirates
 
-Round 34
+Round: 34
 [Apr 1]
 Wanderers     4-3 Pirates
 [Apr 30]

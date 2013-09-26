@@ -20,7 +20,7 @@ Competition: Ekstraklasa
 *15.ŁKS Łódź                     30  7  7 16  29- 42  28  Relegated
 *16.Lech Poznań                  30  6  7 17  34- 57  25  Relegated
 
-Round 1
+Round: 1
 [Jul 16]
 Legia         0-0 ŁKS
 [Jul 17]
@@ -41,7 +41,7 @@ Odra W        0-3 Wisła
 Widzew        1-1 Polonia
   [Radosław Michalski 34; Jacek Dąbrowski 87]
 
-Round 2
+Round: 2
 [Jul 24]
 Górnik        2-2 Legia
   [Piotr Rocki 2, Robert Kolasa 25; Bartosz Karwan 16, Maciej Sawicki 61]
@@ -65,7 +65,7 @@ Wisła         3-1 Petrochemia
 Polonia       4-1 Ruch R
   [Tomasz Moskal 24, 66pen, Emmanuel Olisadebe 33, 90; Robert Sierka 44]
 
-Round 3 [Jul 31]
+Round: 3 [Jul 31]
 Widzew        3-4 Wisła
   [Dariusz Gęsior 19, Artur Wichniarek 40pen, 89; Marek Zając 4,
    Olgierd Moskalewicz 27, Tomasz Frankowski 50, 73]
@@ -86,7 +86,7 @@ Groclin       0-1 Polonia
 Pogoń         3-0 Stomil
   [Rafał Piotrowski 55, Robert Dymkowski 78pen, Leszek Pokładowski 90]
 
-Round 4
+Round: 4
 [Aug 6]
 Wisła         2-0 Ruch R
   [Marek Zając 10, Tomasz Frankowski 56]
@@ -110,7 +110,7 @@ Zagłębie L    1-0 Odra W
   [Zbigniew Wyciszkiewicz 41, Tomasz Wieszczycki 90; Tomasz Kiełbowicz 8, 25,
    Marcin Zając 83]
 
-Round 5
+Round: 5
 [Aug 14]
 Odra W        0-2 Amica
   [Tomasz Sokołowski II 76, Paweł Kryszałowicz 86]
@@ -129,7 +129,7 @@ Legia         1-1 Lech
 Widzew        1-1 Górnik
   [Rafał Pawlak 32; Piotr Gierczak 78]
 
-Round 6
+Round: 6
 [Aug 21]
 Legia         1-1 Odra W
   [Tomasz Sokołowski I 7; Przemysław Pluta 57]
@@ -150,7 +150,7 @@ Ruch C        3-0 Stomil
 Wisła         1-1 Pogoń
   [Olgierd Moskalewicz 50; Rafał Piotrowski 79]
 
-Round 7
+Round: 7
 [Aug 28]
 Stomil        1-1 Wisła
   [Bartosz Jurkowski 64pen; Mariusz Jop 85]
@@ -171,7 +171,7 @@ Widzew        3-2 Amica
   [Artur Wichniarek 4pen, 89pen, Daniel Bogusz 53;
    Tomasz Dawidowski 73, 83pen]
 
-Round 8
+Round: 8
 [Sep 11]
 ŁKS           1-1 Stomil
   [Robert Górski 45; Bartosz Jurkowski 83pen]
@@ -193,7 +193,7 @@ Górnik        2-2 Pogoń
 Lech          1-2 Ruch C
   [Krzysztof Piskuła 28pen; Sławomir Paluch 18, Krzysztof Bizacki 68]
 
-Round 9
+Round: 9
 [Sep 18]
 Ruch C        1-1 Wisła
   [Krzysztof Bizacki 89; Grzegorz Pater 65]
@@ -213,7 +213,7 @@ Ruch R        1-1 Legia
 Widzew        1-1 Odra W
   [Dariusz Gęsior 80; Łukasz Sosin 9]
 
-Round 10
+Round: 10
 [Sep 25]
 Amica         2-2 Pogoń
   [Dmytro Koszakow 18, Dariusz Jackiewicz 54; Robert Dymkowski 31,
@@ -233,7 +233,7 @@ Lech          4-1 Wisła
 Legia         5-0 Groclin
   [Sylwester Czereszewski 13, 16pen, 50, Bartosz Karwan 84, Jacek Bednarz 90]
 
-Round 11
+Round: 11
 [Oct 2]
 Polonia       1-1 Zagłębie L
   [Mariusz Lewandowski 4og; Jacek Manuszewski 88]
@@ -255,7 +255,7 @@ Widzew        2-2 Lech
   [Sławomir Gula 15, Artur Wichniarek 51; Jarosław Maækiewicz 28,
    Krzysztof Piskuła 66]
 
-Round 12
+Round: 12
 [Oct 16]
 Amica         5-0 Polonia
   [Dariusz Jackiewicz 47, Paweł Kryszałowicz 74, Mariusz Kukiełka 77pen,
@@ -276,7 +276,7 @@ Zagłębie L    0-0 Ruch C
 Widzew        2-1 Ruch R
   [Dariusz Gęsior 39, Artur Wichniarek 59; Marian Janoszka 67]
 
-Round 13
+Round: 13
 [Oct 23]
 Ruch R        4-1 Lech
   [Marian Janoszka 43, Rafał Jarosz 55, Wojciech Grzyb 67, 69;
@@ -298,7 +298,7 @@ Wisła         4-0 Zagłębie L
   [Cristiano Pereira da Souza "Brasília" 5, Kazimierz Moskal 54,
    Tomasz Kulawik 88, Mariusz Jop 89]
 
-Round 14
+Round: 14
 [Oct 30]
 Lech          1-1 Górnik
   [Jacek Kubicki 19; Piotr Gierczak 86]
@@ -317,7 +317,7 @@ Ruch R        2-0 Groclin
 Zagłębie L    1-0 ŁKS
   [Jacek Manuszewski 30]
 
-Round 15
+Round: 15
 [Nov 5]
 Górnik        0-0 Zagłębie L
 [Nov 6]
@@ -339,7 +339,7 @@ Wisła         1-1 Legia
   [Zbigniew Wyciszkiewicz 28, Tomasz Wieszczycki 45,
    Sérgio Leândro Santos Seixtos "Batata" 90]
 
-Round 16 [Mar 3-5]
+Round: 16 [Mar 3-5]
 ŁKS           1-1 Legia
   [Zbigniew Wyciszkiewicz 29; Tomasz Sokołowski I 18]
 Stomil        1-0 Ruch R
@@ -358,7 +358,7 @@ Polonia       1-0 Widzew
 Pogoń         1-0 Groclin
   [Dariusz Szubert 3]
 
-Round 17
+Round: 17
 [Mar 11]
 Ruch R        0-2 Polonia
   [Emmanuel Olisadebe 13, Tomasz Kiełbowicz 68]
@@ -380,7 +380,7 @@ Widzew        1-0 Ruch C
 Amica         1-1 Zagłębie L
   [Dariusz Jackiewicz 12; Jerzy Podbrożny 25pen]
 
-Round 18 [Mar 15]
+Round: 18 [Mar 15]
 Lech          2-1 Amica
   [Sławomir Suchomski 64pen, Bartosz Ślusarski 85; Paweł Kryszałowicz 25]
 Zagłębie L    2-3 Legia
@@ -400,7 +400,7 @@ Polonia       1-0 Groclin
 Stomil        1-1 Pogoń
   [Paweł Holc 2; Dariusz Dźwigała 29]
 
-Round 19
+Round: 19
 [Mar 18]
 Stomil        1-1 Lech
   [Paweł Holc 9; Paweł Bocian 57]
@@ -421,7 +421,7 @@ Legia         2-0 Amica
 Widzew        2-0 ŁKS
   [Robertas Poškus 21, 33]
 
-Round 20
+Round: 20
 [Mar 25]
 Polonia       2-0 Stomil
   [Tomasz Wieszczycki 59pen, 67]
@@ -443,7 +443,7 @@ Lech          1-2 Legia
 Zagłębie L    5-0 Petrochemia
   [Rafał Majka 8, Jerzy Podbrożny 33, 54, Daniel Dubicki 36, Dariusz Żuraw 61]
 
-Round 21 [Apr 1]
+Round: 21 [Apr 1]
 Pogoń         3-3 Wisła
   [Robert Dymkowski 17, Paweł Drumlak 56, Maciej Faltyński 63;
    Olgierd Moskalewicz 15, Radosław Kałużny 49, Tomasz Frankowski 76]
@@ -461,7 +461,7 @@ Groclin       2-1 ŁKS
 Widzew        2-1 Zagłębie L
   [Rafał Pawlak 2, 87pen; Daniel Dubicki 5]
 
-Round 22
+Round: 22
 [Apr 7]
 Amica         2-0 Widzew
   [Remigiusz Sobociński 50, Grzegorz Król 64]
@@ -485,7 +485,7 @@ Zagłębie L    3-3 Ruch R
   [Jerzy Podbrożny 6, 90, Zbigniew Grzybowski 73; Rafał Jarosz 3, 10,
    Krzysztof Markowski 36]
 
-Round 23
+Round: 23
 [Apr 15]
 Petrochemia   0-1 Odra W
   [Mirosław Staniek 90]
@@ -506,7 +506,7 @@ Polonia       2-1 Wisła
 Groclin       1-0 Zagłębie L
   [Jacek Kacprzak 5]
 
-Round 24
+Round: 24
 [Apr 21]
 Zagłębie L    3-1 Pogoń
   [Daniel Dubicki 42, Dariusz Żuraw 54, 69; Robert Dymkowski 26]
@@ -528,7 +528,7 @@ Wisła         4-0 Ruch C
 Lech          1-0 Petrochemia
   [Jarosław Maækiewicz 71]
 
-Round 25
+Round: 25
 [Apr 29]
 Wisła         2-0 Lech
   [Tomasz Kulawik 43, Marek Zając 48]
@@ -550,7 +550,7 @@ Widzew        4-3 Petrochemia
   [Jacek Magiera 41, Rafał Kaczmarczyk 54, Dariusz Gęsior 66,
    Arteras Steško 90; Mariusz Nosal 60, 64pen, Aboy Emeka 67]
 
-Round 26
+Round: 26
 [May 6]
 Zagłębie L    2-1 Polonia
   [Zbigniew Grzybowski 19, Paweł Pasik 73; Tomasz Wieszczycki 90]
@@ -574,7 +574,7 @@ Legia         5-1 Pogoń
    Sylwester Czereszewski 82pen, Mariusz Piekarski 86;
    Paweł Drumlak 41]
 
-Round 27
+Round: 27
 [May 13]
 Ruch C        0-2 Zagłębie L
   [Arkadiusz Klimek 40, Bogusław Lizak 88]
@@ -596,7 +596,7 @@ Groclin       3-1 Petrochemia
   [Jacek Kacprzak 4, Dmytro Koszakow 65, Piotr Piechniak 70;
    Mirosław Budka 14]
 
-Round 28
+Round: 28
 [May 19]
 Amica         1-4 Ruch C
   [Maxwell Kalu 72; Piotr Włodarczyk 21, 58, 75, Sławomir Paluch 28]
@@ -617,7 +617,7 @@ Zagłębie L    3-2 Wisła
 Górnik        3-1 ŁKS
   [Adam Kompała 13, 42, Piotr Gierczak 35; Marcin Krysiński 72]
 
-Round 29 [May 24]
+Round: 29 [May 24]
 Groclin       2-1 Ruch R
   [Dmytro Koszakow 16, Jacek Kacprzak 43; Józef Żymańczyk 45]
 Pogoń         2-3 Widzew
@@ -639,7 +639,7 @@ Wisła         1-1 Amica
 Górnik        4-0 Lech
   [Robert Kolasa 29, Piotr Gierczak 55, Adam Kompała 75, 90pen]
 
-Round 30 [May 28]
+Round: 30 [May 28]
 Lech          0-0 Groclin
 Ruch R        1-0 Pogoń
   [Tomasz Fornalik 35]

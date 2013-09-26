@@ -22,7 +22,7 @@ Competition: Ekstraklasa
 *16.Ruch Radzionków              30  9  4 17 29-51 31  [2 1 0 1 5-7 3] Relegated  
 *[*] Petrochemia Plock changed name to Orlen Plock before the season
 
-Round 1
+Round: 1
 [Jul 22]
 Orlen         1-0 Groclin 
 Amica         1-0 Polonia 
@@ -34,7 +34,7 @@ Stomil        3-1 Odra W
 [Jul 23]
 Katowice      0-0 Pogon 
  
-Round 2 [Jul 29]
+Round: 2 [Jul 29]
 Zaglebie L    3-2 Amica 
 Widzew        3-2 Orlen 
 Gornik        4-1 Ruch C
@@ -44,7 +44,7 @@ Polonia       4-1 Stomil
 Ruch R        0-1 Legia 
 Groclin       0-3 Wisla 
 
-Round 3
+Round: 3
 [Aug 5]
 Zaglebie L    3-1 Ruch R
 Slask         2-2 Odra W
@@ -56,7 +56,7 @@ Ruch C        0-1 Pogon
 Orlen         1-0 Gornik 
 Katowice      0-0 Polonia 
 
-Round 4
+Round: 4
 [Aug 12]
 Stomil        1-0 Katowice  
 Pogon         3-2 Orlen 
@@ -68,7 +68,7 @@ Polonia       3-1 Slask
 Gornik        1-2 Wisla 
 Odra W        2-1 Ruch C
 
-Round 5 [Aug 19]
+Round: 5 [Aug 19]
 Wisla         1-2 Pogon 
 Zaglebie L    4-2 Widzew 
 Ruch R        2-1 Groclin 
@@ -78,7 +78,7 @@ Ruch C        0-3 Polonia
 Orlen         1-2 Odra W
 Legia         1-1 Gornik 
 
-Round 6
+Round: 6
 [Aug 26]
 Pogon         1-1 Legia 
 Gornik        1-1 Zaglebie L 
@@ -90,7 +90,7 @@ Odra W        0-2 Wisla
 Stomil        0-0 Ruch C
 Amica         2-2 Groclin
 
-Round 7 [Sep 9,10]
+Round: 7 [Sep 9,10]
 Zaglebie L    0-1 Pogon 
 Groclin       1-1 Widzew 
 Ruch R        3-1 Gornik
@@ -100,7 +100,7 @@ Orlen         1-2 Stomil
 Legia         2-0 Odra W
 Wisla         4-0 Polonia
 
-Round 8 [Sep 16,17]
+Round: 8 [Sep 16,17]
 Pogon         1-0 Ruch R
 Odra W        0-1 Zaglebie L
 Katowice      0-0 Orlen 
@@ -110,7 +110,7 @@ Slask         3-2 Ruch C
 Stomil        0-3 Wisla 
 Amica         3-1 Widzew 
 
-Round 9
+Round: 9
 [Sep 30]
 Groclin       2-1 Pogon
 Ruch R        0-1 Odra W
@@ -122,7 +122,7 @@ Wisla         3-1 Katowice
 Zaglebie L    0-1 Polonia
 Ruch C        3-1 Amica 
 
-Round 10
+Round: 10
 [Oct 14]
 Polonia       2-1 Ruch R
 Stomil        1-3 Zaglebie L
@@ -134,7 +134,7 @@ Amica         3-0 Gornik
 [Oct 15]
 Slask         0-1 Wisla 
 
-Round 11
+Round: 11
 [Oct 21]
 Ruch R        0-0 Stomil 
 Groclin       0-0 Polonia 
@@ -146,7 +146,7 @@ Wisla         2-0 Ruch C
 Zaglebie L    1-0 Katowice 
 Widzew        4-1 Odra W
 
-Round 12
+Round: 12
 [Oct 28]
 Polonia       3-1 Widzew
 Slask         2-1 Zaglebie L
@@ -158,7 +158,7 @@ Katowice      3-0 Ruch R
 Orlen         0-5 Wisla
 Amica         1-2 Pogon 
 
-Round 13
+Round: 13
 [Nov 3]
 Gornik        2-1 Polonia 
 [Nov 4]
@@ -171,7 +171,7 @@ Ruch R        2-0 Slask
 Groclin       1-0 Katowice
 Zaglebie L    0-2 Ruch C
 
-Round 14
+Round: 14
 [Nov 11]
 Slask         1-1 Groclin 
 Polonia       1-2 Pogon 
@@ -183,7 +183,7 @@ Wisla         3-3 Legia
 Orlen         1-3 Zaglebie L
 Amica         4-0 Odra W
 
-Round 15
+Round: 15
 [Nov 18]
 Groclin       0-2 Ruch C
 Odra W        2-0 Polonia
@@ -195,7 +195,7 @@ Legia         3-0 Amica
 [Nov 19]
 Zaglebie L    4-2 Wisla 
 
-Round 16
+Round: 16
 [Mar 10]
 Polonia       3-0 Amica
 Ruch R        0-2 Wisla 
@@ -207,7 +207,7 @@ Gornik        2-0 Slask
 [Mar 11]
 Zaglebie L    3-1 Legia 
 
-Round 17
+Round: 17
 [Mar 17]
 Stomil        0-3 Polonia 
 Katowice      2-2 Odra W
@@ -219,7 +219,7 @@ Amica         1-1 Zaglebie L
 [Mar 18]
 Slask         1-0 Pogon 
 
-Round 18
+Round: 18
 [Mar 30]
 Widzew        3-0 Wisla 
 [Mar 31]
@@ -232,7 +232,7 @@ Gornik        1-0 Orlen
 [Apr 1]
 Polonia       1-1 Katowice 
 
-Round 19
+Round: 19
 [Apr 6]
 Legia         0-0 Widzew
 [Apr 7]
@@ -245,7 +245,7 @@ Orlen         1-4 Pogon
 [Apr 8]
 Wisla         3-0 Gornik 
 
-Round 20 [Apr 14]
+Round: 20 [Apr 14]
 Katowice      4-1 Amica 
 Gornik        1-0 Legia 
 Odra W        4-0 Orlen 
@@ -255,7 +255,7 @@ Stomil        1-2 Slask
 Pogon         0-0 Wisla 
 Widzew        1-0 Zaglebie L
 
-Round 21
+Round: 21
 [Apr 20]
 Legia         3-2 Pogon 
 [Apr 21]
@@ -268,7 +268,7 @@ Slask         0-1 Katowice
 [Apr 22]
 Groclin       1-1 Amica
 
-Round 22
+Round: 22
 [Apr 27]
 Katowice      1-1 Ruch C
 [Apr 28]
@@ -281,7 +281,7 @@ Gornik        0-1 Ruch R
 [Apr 29]
 Polonia       0-2 Wisla
 
-Round 23 [May 2]
+Round: 23 [May 2]
 Widzew        0-1 Amica
 Groclin       2-1 Gornik 
 Zaglebie L    1-0 Odra W
@@ -291,7 +291,7 @@ Ruch C        3-1 Slask
 Wisla         2-0 Stomil
 Orlen         0-0 Katowice 
 
-Round 24
+Round: 24
 [May 5]
 Stomil        2-1 Legia 
 Pogon         2-0 Groclin 
@@ -303,7 +303,7 @@ Gornik        0-2 Widzew
 [May 6]
 Katowice      0-3 Wisla 
 
-Round 25
+Round: 25
 [May 9]
 Wisla         2-2 Slask
 Legia         0-2 Katowice  
@@ -315,7 +315,7 @@ Zaglebie L    2-0 Stomil
 [Jun 2]
 Gornik        1-0 Amica 
 
-Round 26
+Round: 26
 [May 12]
 Pogon         2-1 Gornik 
 Polonia       1-1 Groclin 
@@ -327,7 +327,7 @@ Katowice      0-2 Zaglebie L
 [May 13]
 Stomil        1-0 Ruch R
 
-Round 27
+Round: 27
 [May 18]
 Legia         1-0 Ruch C
 [May 19]
@@ -340,7 +340,7 @@ Groclin       1-0 Stomil
 [May 20]
 Ruch R        0-1 Katowice 
 
-Round 28 [May 23]
+Round: 28 [May 23]
 Ruch C        1-2 Zaglebie L
 Polonia       0-2 Gornik 
 Katowice      1-1 Groclin 
@@ -350,7 +350,7 @@ Stomil        1-0 Widzew
 Orlen         1-0 Legia 
 Amica         2-1 Wisla 
 
-Round 29 [Jun 9]
+Round: 29 [Jun 9]
 Ruch R        2-3 Ruch C
 Widzew        0-0 Katowice 
 Legia         1-2 Wisla 
@@ -360,7 +360,7 @@ Pogon         3-4 Polonia
 Odra W        2-1 Amica
 Groclin       1-2 Slask 
 
-Round 30 [Jun 13]
+Round: 30 [Jun 13]
 Katowice      1-1 Gornik 
 Stomil        0-1 Pogon 
 Wisla         3-0 Zaglebie L

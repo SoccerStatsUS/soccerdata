@@ -25,7 +25,7 @@ Competition: Ekstraklasa
 *[*2] GKS Katowice took the name Dospel Katowice after their 
 *     new sponsor on Oct 14, 2002.
 
-Round 1
+Round: 1
 [Aug 2]
 Lech          2-0 Ostrowiec
   [Przysiuda 5, 15]
@@ -44,7 +44,7 @@ Wisla P       1-1 Katowice
 Garbarnia     1-1 Wisla K
   [Kozubek 43; Zurawski 45]
 
-Round 2
+Round: 2
 [Aug 9]
 Wisla K       5-2 Ruch C
   [Zurawski 4pen, 26, 59, Kosowski 62, 90; Wos 8, 65]
@@ -65,7 +65,7 @@ Amica         1-1 Legia
 Katowice      1-0 Widzew
   [Muszalik 36]
 
-Round 3
+Round: 3
 [Aug 16]
 Lech          0-1 Katowice
   [Wrobel 33]
@@ -85,7 +85,7 @@ Widzew        3-2 Polonia
 Zaglebie L    1-4 Wisla K
   [Grzybowski 21pen; Paszulewicz 26, Zurawski 66pen, 72pen, 77]
 
-Round 4
+Round: 4
 [Aug 23]
 Górnik        2-3 Legia
   [Niedzielan 28, Kompala 56pen; Majewski 23, Svitlica 26, Magiera 78]
@@ -105,7 +105,7 @@ Wisla K       1-1 Groclin
 [Aug 25]
 Polonia       0-0 Lech
 
-Round 5
+Round: 5
 [Aug 30]
 Ruch C        2-0 Katowice
   [Gorawski 61, Krzysztof Bizacki 66]
@@ -127,7 +127,7 @@ Legia         3-2 Wisla K
 Widzew        1-1 Amica
   [Dymkowski 66; Dembinski 89]
 
-Round 6
+Round: 6
 [Sep 13]
 Widzew        2-2 Lech
   [Batata 19, Wlodraczyk 80; Piskula 23pen, michalski 49]
@@ -147,7 +147,7 @@ Wisla P       2-1 Garbarnia
 Ostrowiec     1-1 Legia
   [Grebowski 75; Svitlica 56]
 
-Round 7
+Round: 7
 [Sep 20]
 Pogon         4-1 Ostrowiec
   [Pawlak 36, 65, Chifon 77, Saranovic 88; Popiela 28]
@@ -166,7 +166,7 @@ Zaglebie L    3-1 Polonia
 Górnik        1-2 Wisla K
   [Kompala 64pen; Kuzba 38, 40]
 
-Round 8
+Round: 8
 [Sep 27]
 Amica         1-1 Wisla K
   [Gesior 77; Zurawski 90]
@@ -187,7 +187,7 @@ Lech          2-2 Garbarnia
 Widzew        2-0 Ruch C
   [Giuliano 30, Batata 64pen]
 
-Round 9
+Round: 9
 [Oct 4]
 Górnik        4-0 Odra W
   [Niedzielan 7, 57, 60, Gierczak 80]
@@ -207,7 +207,7 @@ Wisla K       4-1 Ostrowiec
 Legia         4-1 Polonia
   [Svitlica 35pen, Kucharski 42, Surma 76, Dudek 87; A.Bak 66]
 
-Round 10
+Round: 10
 [Oct 18]
 Katowice      2-0 Górnik
   [Gajtkowski 32, Bojarski 70]
@@ -228,7 +228,7 @@ Amica         5-1 Ostrowiec
 Odra W        3-2 Wisla K
   [Jarosz 8, Subik 14pen, Ziarkowski 41; Moskal 50, Kuzba 75]
 
-Round 11
+Round: 11
 [Oct 25]
 Legia         2-0 Widzew
   [Svitlica 48, 89]
@@ -247,7 +247,7 @@ Ruch C        1-0 Amica
 Górnik        0-0 Polonia
 Zaglebie L    0-0 Garbarnia
 
-Round 12 [Nov 3]
+Round: 12 [Nov 3]
 Polonia       0-4 Wisla K
   [Kuzba 14, 49, Jop 49, Zurawski 65]
 Garbarnia     2-4 Groclin
@@ -263,7 +263,7 @@ Katowice      2-1 Ostrowiec
   [Sierka 41, Gajtkowski 54; Budka 56]
 Lech          0-0 Legia
 
-Round 13
+Round: 13
 [Nov 7]
 Ostrowiec     2-1 Polonia
   [Krawiec 25, Popiela 90+5; Kus 79]
@@ -285,7 +285,7 @@ Legia         2-1 Garbarnia
 Odra W        0-3 Katowice
   [Bala 58, Gajtkowski 87, Huszalik 90]
 
-Round 14
+Round: 14
 [Nov 15]
 Amica         0-1 Katowice
   [Bojarski 30]
@@ -305,7 +305,7 @@ Ruch C        1-0 Legia
   [Jamroz 84pen]
 Widzew        2-4 Wisla K
 
-Round 15
+Round: 15
 [Nov 22]
 Ostrowiec     0-0 Widzew
 [Nov 23]
@@ -325,7 +325,7 @@ Wisla K       3-2 Lech
 Groclin       1-2 Amica
   [Wieszczycki 22; Zienczuk 32, 89]
 
-Round 17 
+Round: 17 
 [Mar 14]
 Legia         4-3 Amica
   [Svitlice 5pen, 17, Jarzebowski 32, Kucharsky 44; Zienczuk 18, 51, A.Bak 26]
@@ -346,7 +346,7 @@ Zaglebie L    1-1 Górnik
 Ruch C        0-3 Wisla K
   [Kuzba 40, 41, 79]
 
-Round 16 [postponed from Mar 7,8]
+Round: 16 [postponed from Mar 7,8]
 [Mar 18]
 Legia         0-2 Groclin
   [Zajac 25, Piechniak 50]
@@ -365,7 +365,7 @@ Wisla K       2-2 Garbarnia
   [Zurawski 7pen, Kalu 85; Knezevic 2, 25pen]
 Górnik        0-0 Ruch C
 
-Round 18
+Round: 18
 [Mar 22]
 Polonia       1-0 Widzew
   [Scherfchen 13og]
@@ -384,7 +384,7 @@ Katowice      1-0 Lech
 [Mar 23]
 Górnik        0-0 Groclin
 
-Round 19
+Round: 19
 [Apr 5]
 Garbarnia     0-1 Katowice
   [Zadylak 47og]
@@ -403,7 +403,7 @@ Zaglebie L    2-0 Ostrowiec
 Lech          4-1 Polonia
   [Piskula 5, Slusarski 51, 75, Lasocki 73; Szwed 18]
 
-Round 20
+Round: 20
 [Apr 8]
 Katowice      1-0 Ruch C
   [Kowalczyk 30]
@@ -423,7 +423,7 @@ Amica         1-0 Widzew
 Wisla K       2-1 Legia
   [Kalu 29, Zurawksi 61; Svitlica 9]
 
-Round 21
+Round: 21
 [Apr 12]
 Garbarnia     2-0 Wisla P
   [Przytula 18, Kapcinski 48]
@@ -442,7 +442,7 @@ Zaglebie L    2-0 Katowice
 Groclin       3-0 Odra W
   [Koziol 38, Niedzielan 60, Wieszycki 83]
 
-Round 22 [Apr 19]
+Round: 22 [Apr 19]
 Odra W        2-1 Legia
   [Grzyb 40, Chalbinski 45; Surma 27]
 Wisla K       4-0 Górnik
@@ -460,7 +460,7 @@ Polonia       2-1 Zaglebie L
 Katowice      0-1 Groclin
   [Pawlak 56pen]
 
-Round 23
+Round: 23
 [Apr 25]
 Legia         3-0 Katowice
   [Saganowski 31, 60, Jarzebowski 85]
@@ -482,7 +482,7 @@ Garbarnia     1-2 Lech
 Groclin       2-0 Polonia
   [Niedzielan 28, Sobolewski 45]
 
-Round 24
+Round: 24
 [May 3]
 Odra W        1-3 Górnik
   [Ziarkowski 10; Kaczmarczyk 38pen, Kompala 61, Piegzik 83]
@@ -501,7 +501,7 @@ Amica         1-2 Garbarnia
 Polonia       0-1 Legia
   [Saganowski 68]
 
-Round 25
+Round: 25
 [May 9]
 Groclin       1-1 Widzew
   [Zajac 25; Wlodarczyk 79]
@@ -522,7 +522,7 @@ Legia         awd Wisla P          [awarded 3-0, originally 1-0; Wisla
 Górnik        1-3 Katowice
   [Sikora 50; Bojarski 36, 71pen, Sierka 85]
 
-Round 26
+Round: 26
 [May 16]
 Lech          2-3 Groclin
   [Reiss 40, 57; Mila 34, Niedzielan 50, Rasiak 89]
@@ -543,7 +543,7 @@ Wisla P       2-1 Pogon
 Katowice      1-0 Wisla K
   [Adamczyk 69]
 
-Round 27
+Round: 27
 [May 20]
 Odra W        0-3 Amica
   [Dawidowski 13, 90, Sokolowski 70]
@@ -563,7 +563,7 @@ Groclin       5-0 Garbarnia
 Legia         2-0 Lech
   [Svitlica 46, 75pen]
 
-Round 28
+Round: 28
 [May 24]
 Polonia       2-1 Ostrowiec
   [Nuckowski 48, Kus 90; Sunday 41]
@@ -583,7 +583,7 @@ Wisla P       0-3 Wisla K
 Garbarnia     1-1 Legia
   [Czerwiec 50; Svitlica 53]
 
-Round 29 [May 31]
+Round: 29 [May 31]
 Wisla K       1-0 Widzew
   [Zurawski 50]
 Katowice      1-1 Amica
@@ -600,7 +600,7 @@ Górnik        0-0 Lech
 Ostrowiec     0-2 Wisla P
   [Mikulenas 47, Gevorgian 83]
 
-Round 30 [Jun 3]
+Round: 30 [Jun 3]
 Lech          2-4 Wisla K
   [Slusarski 7, Czereszewski 83; Pater 58, 90, Zurawski 67, Frankowski 78]
 Polonia       1-1 Katowice

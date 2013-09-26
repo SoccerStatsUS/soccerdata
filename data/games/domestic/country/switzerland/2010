@@ -15,7 +15,7 @@ Competitoin: Swiss Super League
 *-------------------------------------------------
 *10.FC Sankt Gallen         36  8  7 21  34-67  31  Relegated
 
-Round 1
+Round: 1
 [Jul 17]
 Grasshoppers  1-1 Xamax         
   [Vincenzo Rennella 76; Sanel Kuljic 80]
@@ -31,7 +31,7 @@ Basel         3-2 Zürich
   [Alexander Frei 18, 80, Jacques Zoua 45; Jorge Teixeira,
    Dusan Djuric 36]
 
-Round 2
+Round: 2
 [Jul 24]
 Sion          1-2 Basel        
   [Michael Dingsdag 19; Alexander Frei 14, David Abraham 90+] 
@@ -47,7 +47,7 @@ Xamax         2-3 Thun
 Zürich        2-0 Grasshoppers  
   [Jorge Teixeira 21, Stjepan Kukuruzovic 77]
 
-Round 3
+Round: 3
 [Jul 31]
 Bellinzona    2-1 Young Boys    
   [Mauro Lustrinelli 6, Frank Feltscher 40; Emmanuel Mayuka 83]   
@@ -63,7 +63,7 @@ Thun          2-2 Grasshoppers
   [Ezequiel Scarione 55, Glarner Stefan 90+;
    Boris Smiljanic 36pen, 90+pen]
 
-Round 4
+Round: 4
 [Aug 7]
 Bellinzona    1-0 Basel    
   [Mauro Lustrinelli 52]      
@@ -80,7 +80,7 @@ Luzern        2-3 Sion
 Thun          3-0 Sankt Gallen  
   [Nick Proschwitz 15, Stefan  Glarner 22, Tim Bakens 66og] 
 
-Round 5
+Round: 5
 [Aug 14]
 Basel         1-4 Luzern  
   [Fwayo Tembo 90; Daniel Gygax 13, Hakan  Yakin 33, 55pen,
@@ -96,7 +96,7 @@ Sion          1-1 Thun
 Sankt Gallen  1-2 Grasshoppers  
   [Lukas Schenkel 21; Veroljub Salatic 3, Nzuzi Bundebele 65]
 
-Round 6
+Round: 6
 [Aug 21]
 Sankt Gallen  1-1 Sion          
   [Nico  Abegglen 9; Giovanni Sio 2]
@@ -110,7 +110,7 @@ Xamax         1-2 Bellinzona
 Young Boys    1-0 Zürich        
   [Degen David 65]
 
-Round 7
+Round: 7
 [Aug 28]
 Basel         4-1 Xamax         
   [Marco Streller 26, Alexander Frei 36, 53, 65pen; Gohou Bi Goua 41]
@@ -124,7 +124,7 @@ Luzern        1-1 Thun
 Sion          2-0 Young Boys    
   [Goran Obradovic 21, Giovanni Sio 76]
 
-Round 8
+Round: 8
 [Sep 11]
 Thun          1-3 Zürich        
   [Timm Klose 56; Admir Mehmedi 18, Xavier Margairaz 38pen,
@@ -141,7 +141,7 @@ Young Boys    2-2 Basel
 [Nov 10]
 Grasshoppers  0-4 Sion          
 
-Round 9
+Round: 9
 [Sep 22]
 Basel         2-2 Grasshoppers
   [David Angel Abraham 34, Marco Streller 44; Paulo Menezes 8,
@@ -158,7 +158,7 @@ Sion          1-2 Xamax
 Zürich        2-2 Luzern        
   [Zouaghi Chaker 3, Alexandre Alphonse 44; Paiva 10, Daniel Gygax 78]
 
-Round 10
+Round: 10
 [Sep 25]
 Zürich        1-4 Basel    
   [Xavier Margairaz 51; Samuel Inkoom 10, Marco Streller 44, 67,
@@ -174,7 +174,7 @@ Young Boys    2-2 Thun
 Xamax         1-1 Grasshoppers  
   [Bastien Geiger 13; Innocent Emeghara 59]
 
-Round 11
+Round: 11
 [Oct 1]
 Bellinzona    1-3 Sankt Gallen  
   [Mark Edusei 48; Mario Frick 30, Raso Angelo75og,
@@ -190,7 +190,7 @@ Grasshoppers  1-2 Zürich
 Basel         1-1 Sion         
   [Valentin Stocker 67; Arnaud Bühler 43] 
 
-Round 12
+Round: 12
 [Oct 23]
 Xamax         2-1 Luzern     
   [Gohou Bi Goua 57, Ismaeel Omar 59; Paiva 81]     
@@ -202,7 +202,7 @@ Young Boys    1-1 Bellinzona
   [Senad Lulic 33; Mikael Mattila Sakari 42]
 Grasshoppers  0-0 Thun          
 
-Round 13
+Round: 13
 [Oct 30]
 Basel         3-1 Bellinzona                                               
   [Scott Chipperfield 30, 54, Federico Almerares 41;
@@ -219,7 +219,7 @@ Young Boys    1-0 Grasshoppers
 Sankt Gallen  2-1 Thun          
   [Lukas Schenkel 30, 68; Morello Giuseppe 45]
 
-Round 14 
+Round: 14 
 [Nov 6]
 Bellinzona    1-2 Zürich        
   [Mauro Lustrinelli 78; Amine Chermiti 57, 64]
@@ -234,7 +234,7 @@ Xamax         2-4 Young Boys
 Grasshoppers  2-0 Sankt Gallen  
   [Amir Abrashi 13, Steven Zuber 73]
  
-Round 15 
+Round: 15 
 [Nov 13]
 Basel         1-3 Thun           
   [Scott Chipperfield 61; Ezequiel Oscar Scarione 6,
@@ -252,7 +252,7 @@ Zürich        2-2 Young Boys
   [Alexandre  Alphonse 38, Marco  Schönbächler 45;
    Emmanuel Mayuka 78, Henri Bienvenu 87]
 
-Round 16
+Round: 16
 [Nov 27]                
 Thun          1-1 Luzern     
   [Oscar Scarione Ezequiel 29; Yakin Hakan 25pen]   
@@ -267,7 +267,7 @@ Sankt Gallen  0-3 Zürich
 Xamax         1-2 Basel  
   [Raphael Nuzzolo 43; Federico Almerares 63, Valentin Stocker 79]          
 
-Round 17
+Round: 17
 [Dec 4]                 
 Basel         3-1 Young Boys  
   [Alexander Frei 52, 77, Xherdan Shaqiri 68; Moussé Doubai Tapé 41]     
@@ -280,7 +280,7 @@ Sion          2-0 Grasshoppers
   [Giovanni Sio 75, Dragan Mrdja 90+]   
 Zürich        0-0 Thun           
 
-Round 18 
+Round: 18 
 [Dec 11]
 Luzern        1-1 Zürich        
   [Tomislav Puljic 82; Alexandre Alphonse 80]
@@ -293,7 +293,7 @@ Xamax         0-3 Sion
 Young Boys    1-1 Sankt Gallen  
   [Alain Nef 89; Fabian Frei 83]
 
-Round 19
+Round: 19
 [Feb 5]
 Bellinzona    1-5 Young Boys    
   [Andrea Conti 39; Henri Bienvenu 18, 48, Senad Lulic 58,
@@ -310,7 +310,7 @@ Thun          2-3 Basel
   [Ezequiel Oscar Scarione 19, Dario Lezcano 90+;
    Valentin Stocker 50, David Abraham 57, Alexander Frei 71]
  
-Round 20
+Round: 20
 [Feb 12]
 Basel         3-0 Sankt Gallen  
   [Benjamin Huggel 11, Alexander Frei 40, David Abraham 86]
@@ -324,7 +324,7 @@ Young Boys    4-2 Zürich
   [Jorge Teixeira 5og, Alexander Farnerud 43, 55,
    Mario Raimondi 90+; Silvan Aegerter 25, Eric Hassli 85pen]
  
-Round 21
+Round: 21
 [Feb 19]
 Xamax         0-0 Grasshoppers  
 Zürich        3-1 Sankt Gallen  
@@ -338,7 +338,7 @@ Bellinzona    2-0 Luzern
 Thun          1-1 Young Boys    
   [Ifet Taljevic 11; Ammar Jemal 90+]
  
-Round 22
+Round: 22
 [Feb 26]
 Sion          2-0 Grasshoppers  
   [Dragan Mrdja 13pen, Karim Yoda 66]                   
@@ -354,7 +354,7 @@ Young Boys    3-2 Xamax
   [Henri Bienvenu 7, 75, Emmanuel Mayuka 73;
    Federico Almerares 4, Frédéric Page 45]                     
 
-Round 23
+Round: 23
 [Mar 5]
 Grasshoppers  3-2 Young Boys    
   [Vincenzo Rennella 19, 43, Izet Hajrovic 76;
@@ -371,7 +371,7 @@ Thun          3-3 Luzern
   [Timm Klose 35, Nick Proschwitz 39, Ifet Taljevic 45;
    Tomislav Puljic 4, Michel Renggli 51pen, Daniel Gygax 60]
 
-Round 24
+Round: 24
 [Mar 12]
 Luzern        1-0 Grasshoppers  
   [Hakan Yakin 76]                 
@@ -385,7 +385,7 @@ Sankt Gallen  0-2 Young Boys
 Thun          1-0 Xamax            
   [Nick Proschwitz 66]
 
-Round 25
+Round: 25
 [Mar 19]
 Xamax         1-2 Zürich        
   [Marcos Gelabert 62; Jorge Teixeira 49, Mathieu Beda 79]                     
@@ -399,7 +399,7 @@ Sion          1-0 Thun
 Young Boys    3-1 Luzern        
   [Alain Nef  23, 53,  Alexande Farnerud 58; Nico Siegrist 25]
 
-Round 26
+Round: 26
 [Apr 2]
 Basel         1-0 Xamax         
   [Alexander Frei 38]               
@@ -415,7 +415,7 @@ Thun          2-3 Zürich
   [Markus Neumayr 49, Timm Klose 81; Amine Chermiti 5,
    Ludovic Magnin 17, Adrian Nikci 61]
 
-Round 27
+Round: 27
 [Apr 9]
 Bellinzona    1-1 Thun          
   [Mauro Lustrinelli 54; Stipe Matic 30pen]    
@@ -430,7 +430,7 @@ Young Boys    3-3 Basel
 Zürich        1-0 Grasshoppers  
   [Chaker Zouaghi 90]
 
-Round 28
+Round: 28
 [Apr 16]
 Young Boys    4-0 Bellinzona    
   [Ammar Jemal 23, Alexander Farnerud 33, 56, Emmanuel Mayuka 64]       
@@ -444,7 +444,7 @@ Xamax         2-1 Luzern
   [Federico Almerares 36, 71; Michel Renggli 7]         
 Thun          0-0 Sankt Gallen  
 
-Round 29
+Round: 29
 [Apr 19]
 Bellinzona    2-2 Sion          
   [Mauro Lustrinelli 5, Axel Konan Haouliais 24; Fabrizio Zambrella 27,
@@ -461,7 +461,7 @@ Xamax         2-2 Basel
   [Ibrahima Niasse Baye 45, Raphael Nuzzolo 90+; Valentin Stocker 25,
    Alexander Frei 73]
 
-Round 30
+Round: 30
 [Apr 23]
 Luzern        3-2 Bellinzona    
   [Tomislav Puljic 5, Nelson Ferreira 36,Matteo Gritti 74og;
@@ -477,7 +477,7 @@ Thun          0-1 Grasshoppers
 Zürich        3-0 Xamax         
   [Ricardo Rodriguez 12, Florian Stahel 48, Marco Schönbächler 90+]
  
-Round 31
+Round: 31
 [Apr 30]
 Grasshoppers  2-1 Luzern        
   [Boris Smiljanic 25pen, Steven Zuber 38; Roman Bürki 67og]                  
@@ -491,7 +491,7 @@ Xamax         2-1 Sankt Gallen
 Sion          3-0 Basel         
   [Aleksandar Prijovic 26, 47, Giovanni Sio 28]
 
-Round 32
+Round: 32
 [May 7]
 Grasshoppers  3-1 Xamax         
   [Izet Hajrovic 51, Steven Zuber 56, Endogan Adili 72; Sander Keller 77]            
@@ -506,7 +506,7 @@ Basel         2-0 Bellinzona
 Sankt Gallen  2-2 Zürich        
   [Brice Owona 2, Philipp Muntwiler 87; Adrian Nikci 81, Dusan Djuric 90+]
  
-Round 33
+Round: 33
 [May 10]
 Sion          3-2 Luzern        
   ["Adaílton" José dos Santos 22, Alvaro Dominguez 68pen,
@@ -524,7 +524,7 @@ Xamax         1-4 Thun
 Zürich        2-2 Basel         
   [Dusan Djuric 43, Adrian Nikci 75; Alexander Frei 69, 77]
 
-Round 34
+Round: 34
 [May 14]
 Bellinzona    1-1 Xamax         
   [Andrea Conti 61; Gohou Bi Goua 85]                    
@@ -539,7 +539,7 @@ Grasshoppers  3-1 Zürich
 Young Boys    1-1 Sion              
   [Marco Schneuwly 56; Giovanni Sio 74]
 
-Round 35 [May 22]
+Round: 35 [May 22]
 Grasshoppers  2-0 Sion              
   [Izet Hajrovic 11, Innocent Emeghara 37] 
 Luzern        0-5 Zürich        
@@ -551,7 +551,7 @@ Sankt Gallen  0-0 Basel
 Thun          3-1 Bellinzona    
   [Sekou Sanogo 21, Markus Neumayr 38, Ifet Taljevic 65; Roland Bättig 63og]
 
-Round 36 [May 25]
+Round: 36 [May 25]
 Basel         3-0 Luzern        
   [Alexander Frei 6, Xherdan Shaqiri 45, Jacques Zoua 54]
 Bellinzona    2-0 Grasshoppers      

@@ -16,7 +16,7 @@ Competition: Superligaen
 *11.Herfølge BK         33  6  7 20 29-71 25  Relegated
 *12.Randers FC          33  5  9 19 30-64 24  Relegated
 
-Round 1
+Round: 1
 [Jul 24]
 Silkeborg    2-2 København
   [Rajko Lekic 70, Thomas Poulsen 88; Michael Silberbauer 28, 
@@ -34,7 +34,7 @@ Brøndby      1-2 OB
 Randers      1-1 Esbjerg 
   [Mikkel Rask 24; Fredrik Berglund 77]
 
-Round 2
+Round: 2
 [Jul 31]
 Midtjylland  2-1 OB
   [Mohamed Zidan 79, Frank Kristensen 88; Steffen Højer Højer 11] 
@@ -50,7 +50,7 @@ Randers      0-1 Herfølge
 København    2-2 Esbjerg
   [Kolja Afriyie 62og, Ole Tobiasen 89; Kolja Afriyie 26, Fredrik Berglund 51]
 
-Round 3
+Round: 3
 [Aug 7]
 Viborg       3-2 København 
   [Klaus Kærgård 58, Imants Bleidelis 64, 83; Jesper Bech 18,
@@ -68,7 +68,7 @@ OB           5-1 Randers
    Mwape Miti 89, 90; Lars Larsen 84]
 AGF          0-0 Brøndby  
 
-Round 4
+Round: 4
 [Aug 14]
 Randers      0-3 AGF
   [Leon Andreasen 45, Helgi Sigurdsson 52, Brian Steen Nielsen 81]   
@@ -84,7 +84,7 @@ Silkeborg    2-1 Esbjerg
 København    1-1 OB 
   [Magne Hoseth 64; Thomas Lindrup 62]
  
-Round 5 [Aug 29]
+Round: 5 [Aug 29]
 Viborg       0-1 Nordsjælland 
   [Mads Junker 89]
 Esbjerg      7-2 Herfølge 
@@ -101,7 +101,7 @@ København    3-2 AaB
 OB           0-2 AGF 
   [Jeffrey Aubynn 15, Tobias Grahn 67]
 
-Round 6
+Round: 6
 [Sep 11]
 Randers      0-0 København
 [Sep 12]
@@ -116,7 +116,7 @@ Silkeborg    1-2 OB
 AaB          1-1 Brøndby 
   [Thomas Augustinussen 46; Morten Skoubo 26]
 
-Round 7
+Round: 7
 [Sep 18]
 Midtjylland  2-1 Silkeborg 
   [Frank Kristensen 40, Mohamed Zidan 69; Iddi Alkhag 54]
@@ -132,7 +132,7 @@ Viborg       0-1 Randers
 København    1-3 Brøndby 
   [Hjalte Nørregaard 88pen; Morten Skoubo 8), 36, Johan Absalonsen 85]
 
-Round 8 [Sep 22]
+Round: 8 [Sep 22]
 AaB          3-0 Randers
   [Martin Ericsson 26, Rasmus Würtz 74, Martin Pedersen 88]
 Brøndby      0-0 Nordsjælland 
@@ -147,7 +147,7 @@ Silkeborg    2-4 Herfølge
   [Anders Clausen 3, Martin Ørnskov Nielsen 46; Paul Hübertz 30,
    Ebrima Sowe 56, Sune Heilbo 65, 77]
 
-Round 9
+Round: 9
 [Sep 25]
 Herfølge     1-4 Brøndby  
   [Ebrima Sowe 49; Asbjørn Sennels 10, Thomas Kahlenberg 31, 83, 
@@ -165,7 +165,7 @@ Viborg       2-0 Esbjerg
 Nordsjælland 1-2 København 
   [Mads Junker 68; Magne Hoseth 6, Alvaro Marcio Santos 88]
         
-Round 10
+Round: 10
 [Oct 2]
 København    2-0 Herfølge
   [Hjalte Nørregaard 45, Sibusiso Zuma 78]
@@ -181,7 +181,7 @@ OB           0-2 Viborg
 Brøndby      2-0 Randers 
   [Jonas Kamper 21, Morten Skoubo 49]
 
-Round 11
+Round: 11
 [Oct 16]
 Brøndby      2-1 OB
   [Thomas Kahlenberg 54, Daniel Agger 85; Fernando Derveld 76]
@@ -200,7 +200,7 @@ Viborg       2-1 Midtjylland
 Silkeborg    4-1 København
   [Iddi Alkhag 37, 45, Henrik Schnedler 52, Peter Degn 88; Magne Hoseth 75]
 
-Round 12
+Round: 12
 [Oct 23]
 Randers      0-2 Brøndby 
   [Morten Skoubo 32, Dan Anton Johansen 79pen]
@@ -215,7 +215,7 @@ OB           3-0 Silkeborg
   [Søren Berg 2, 18, Peter Degn 67og]
 København    0-0 Viborg      [abandoned at 0-0 following the fatal
                                  fall of a supporter; result stood]
-Round 13
+Round: 13
 [Oct 30]
 AGF          2-2 Midtjylland 
   [Jeffrey Aubynn 19, Danilo Arrieta 87; Razak Pimpong 25,
@@ -233,7 +233,7 @@ Viborg       1-0 OB
 Silkeborg    0-1 Brøndby 
   [Ruben Bagger 56]
  
-Round 14 [Nov 3]
+Round: 14 [Nov 3]
 AGF          2-1 AaB 
   [Stig Tøfting 14, Helgi Sigurdsson 82; Tulio De Melo 88]
 Esbjerg      2-2 Brøndby 
@@ -247,7 +247,7 @@ OB           5-0 Herfølge
 Viborg       1-1 Silkeborg 
   [Thomas Andie 84pen; Peter Degn 11pen]
 
-Round 15 
+Round: 15 
 [Nov 6]
 Brøndby      1-0 Viborg 
   [Johan Elmander 67]
@@ -266,7 +266,7 @@ København    2-3 AGF
   [Hjalte Nørregaard 68, Ole Tobiasen 85; Helgi Sigurdsson 78,
    Thomas Thorninger 83, Morten Rasmussen 88]
 
-Round 16
+Round: 16
 [Nov 13]
 AaB          2-1 Midtjylland 
   [David Nielsen 15, Allan Gaarde 60; Jesper Mikkelsen 61]
@@ -283,7 +283,7 @@ Herfølge     0-1 København
 Nordsjælland 0-1 Brøndby 
   [Johan Elmander 4]
 
-Round 17
+Round: 17
 [Nov 20]
 OB           2-0 Herfølge
   [Mwape Miti 35, 45]
@@ -302,7 +302,7 @@ Randers      2-2 Viborg
 Silkeborg    2-1 Nordsjælland
   [Jens Berthel Askou 12, Iddi Alkhag 77; Denni Conteh 73]
  
-Round 18
+Round: 18
 [Nov 27]
 Esbjerg      1-1 København
   [Søren Barslund 44; Ole Tobiasen 50]
@@ -318,7 +318,7 @@ Nordsjælland 3-2 Viborg
 Herfølge     1-2 Brøndby 
   [Peter Gravesen 88; Johan Elmander 4, 72]
 
-Round 19
+Round: 19
 [Mar 12]
 Viborg       2-1 AGF
   [Klaus Kærgård 20, Jose Mota 44; Shane Cansdell-Sherriff 24] 
@@ -336,7 +336,7 @@ Silkeborg    3-0 Herfølge
 Randers      2-1 Nordsjælland
   [Karsten Johansen 22, Christian Lundberg 25; Peter Benjaminsen 20]
 
-Round 20 [Mar 20]           
+Round: 20 [Mar 20]           
 Herfølge     1-1 Viborg    
   [Peter Gravesen 56; Jose Mota 80]
 AaB          3-1 Silkeborg
@@ -348,7 +348,7 @@ Esbjerg      0-0 Brøndby
 AGF          2-1 Nordsjælland  
   [Christer George 60, Mads Frost 82; Thomas Andreasen 57] 
 
-Round 21
+Round: 21
 [Apr 2]
 Brøndby      0-1 Midtjylland 
   [David Nielsen 67]
@@ -363,7 +363,7 @@ Viborg       2-1 AaB
 OB           1-2 København
   [Mwape Miti 43; Michael Silberbauer 65, 88]
 
-Round 22
+Round: 22
 [Apr 9]
 AaB          2-0 Nordsjælland
   [Mattias Lindström 26, Thomas Augustinussen 65]
@@ -379,7 +379,7 @@ Randers      1-1 OB
 København    3-0 Brøndby
   [Sibusiso Zuma 14, Hjalte Nørregaard 18, Magne Hoset 64]
 
-Round 23
+Round: 23
 [Apr 16]
 Viborg       0-2 Brøndby 
   [Morten Skoubo 15, Thomas Kahlenberg 90]    
@@ -393,7 +393,7 @@ Silkeborg    2-2 Randers
 AGF          1-2 København
   [Morten Rasmussen 42; Alvaro Marcio Santos 14, Hjalte Nørregaard 22]
 
-Round 24
+Round: 24
 [Apr 23]
 København    2-0 Nordsjælland 
   [Peter Møller 79, Alvaro Santos 88]       
@@ -408,7 +408,7 @@ Randers      0-4 AaB
   [Michael Jakobsen 15, 58, Martin Ericsson 60, Tulio De Melo 89]      
 Brøndby      0-0 Silkeborg 
 
-Round 25
+Round: 25
 [Apr 30]    
 Brøndby      2-0 Randers
   [Thomas Kahlenberg 70, Johan Elmander 89]
@@ -426,7 +426,7 @@ Silkeborg    4-2 OB
 Viborg       0-2 København        
   [Peter Møller 56, Alvaro Marcio Santos 38]
 
-Round 26  
+Round: 26  
 [May 7]  
 AaB          3-1 AGF          
   [Simon Bræmer 9, 53, Mattias Lindström 60; Christer George 74]         
@@ -443,7 +443,7 @@ Randers      1-1 Herfølge
 OB           1-1 Brøndby
   [Alexander Aas 13; Johan Elmander 1]     
 
-Round 27 
+Round: 27 
 [May 15]   
 Silkeborg    0-1 Midtjylland  
   [Razak Pimpong 40]        
@@ -461,7 +461,7 @@ Viborg       2-2 Esbjerg
   [Kenneth Fabricius 4, Jose Roberto Mota 44; Jan Kristiansen 59, 
    Mickaël Murcy 77]
          
-Round 28 [May 19]    
+Round: 28 [May 19]    
 AGF          4-0 Randers          
   [Morten Rasmussen 9, 76, Leon Andreasen 83, Jonny Hanssen 88]        
 Esbjerg      4-0 Silkeborg          
@@ -476,7 +476,7 @@ AaB          5-3 Viborg
   [Allan Gaarde 7, Simon Bræmer 12, 37, 39, Martin Ericsson 89;
    Christian Keller 61, Kenneth Fabricius 80, Michael Gravgaard 83]
 
-Round 29 [May 22]
+Round: 29 [May 22]
 Nordsjælland 2-1 AGF
   [Tommy Olsen 2, 17; Søren Pedersen 35]      
 OB           3-1 Midtjylland
@@ -492,7 +492,7 @@ Brøndby      4-0 Esbjerg
   [Jonas Kamper 23, Thomas Kahlenberg 39, Johan Elmander 49,
    Morten Skoubo 73]        
     
-Round 30
+Round: 30
 [May 28]
 AaB          3-3 Brøndby   
   [Simon Bræmer 19, 69, Allan Gaarde 39; Martin Retov 20, 
@@ -510,7 +510,7 @@ Nordsjælland 2-0 Randers
 Midtjylland  1-0 København 
   [Frank Kristensen 3]     
          
-Round 31 
+Round: 31 
 [Jun 11]    
 Brøndby      7-0 Herfølge
   [Johan Elmander 14, Thomas Kahlenberg 20pen, 52, Per Nielsen 36,
@@ -527,7 +527,7 @@ Silkeborg    1-1 AGF
 Viborg       1-2 Nordsjælland        
   [Stefan Bidstrup 82; Michael Gravgaard 50og, Thomas Kristensen 55]
 
-Round 32 [Jun 15]
+Round: 32 [Jun 15]
 Viborg       2-1 Randers 
   [Jose Roberto Mota 13, Søren Frederiksen 77; Svenne Poulsen 84pen]      
 Nordsjælland 2-3 Silkeborg
@@ -541,7 +541,7 @@ Herfølge     2-3 OB
 AaB          1-1 København 
   [Allan Gaarde 76; Sibusiso Zuma 53]    
 
-Round 33 [Jun 19]
+Round: 33 [Jun 19]
 Brøndby      2-0 Nordsjælland 
   [Mads Jørgensen 29, Martin Retov 52]
 København    1-1 Herfølge 

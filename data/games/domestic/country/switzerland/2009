@@ -15,7 +15,7 @@ Competition: Swiss Super League
 *-------------------------------------------------
 *10.FC Aarau                36  6  5 25  32-88  23  Relegated
 
-Round 1
+Round: 1
 [Jul 11]
 Aarau         1-0 Grasshoppers
 [Jul 12]
@@ -26,7 +26,7 @@ Zürich        2-3 Young Boys
 [Jul 22]
 Sion          3-1 Luzern
 
-Round 2
+Round: 2
 [Jul 18]
 Xamax         3-0 Zürich
 Young Boys    1-1 Sankt Gallen
@@ -35,7 +35,7 @@ Basel         2-1 Aarau
 Bellinzona    1-2 Luzern
 Grasshoppers  3-1 Sion
 
-Round 3
+Round: 3
 [Jul 25]
 Sankt Gallen  1-1 Xamax
 Zürich        4-1 Bellinzona
@@ -44,7 +44,7 @@ Aarau         0-3 Young Boys
 Luzern        2-1 Grasshoppers
 Sion          1-2 Basel
 
-Round 4
+Round: 4
 [Jul 22]
 Zürich        1-0 Sankt Gallen
 [Aug 1]
@@ -54,7 +54,7 @@ Xamax         1-3 Sion
 Basel         1-1 Luzern
 Young Boys    2-0 Grasshoppers
 
-Round 5
+Round: 5
 [Aug 8]
 Grasshoppers  1-3 Sankt Gallen
 Sion          1-1 Aarau
@@ -63,7 +63,7 @@ Basel         1-1 Zürich
 Luzern        2-1 Xamax
 Young Boys    4-2 Bellinzona
 
-Round 6
+Round: 6
 [Aug 15]
 Sankt Gallen  1-1 Bellinzona
 Sion          3-3 Zürich
@@ -72,7 +72,7 @@ Aarau         0-4 Xamax
 Grasshoppers  3-1 Basel
 Luzern        1-2 Young Boys
 
-Round 7
+Round: 7
 [Aug 22]
 Sankt Gallen  1-0 Aarau
 Zürich        4-0 Luzern
@@ -81,7 +81,7 @@ Bellinzona    0-0 Grasshoppers
 Xamax         2-2 Basel
 Young Boys    3-1 Sion
 
-Round 8
+Round: 8
 [Aug 29]
 Aarau         1-1 Zürich
 Luzern        3-1 Sankt Gallen
@@ -91,7 +91,7 @@ Sion          3-1 Bellinzona
 [Aug 31]
 Grasshoppers  1-3 Xamax
 
-Round 9
+Round: 9
 [Sep 12]
 Sankt Gallen  1-1 Sion          
 Zürich        4-3 Grasshoppers  
@@ -100,7 +100,7 @@ Aarau         2-4 Luzern
 Bellinzona    2-3 Basel        
 Xamax         3-0 Young Boys
 
-Round 10
+Round: 10
 [Sep 23]
 Basel         4-0 Sankt Gallen
 Grasshoppers  4-0 Aarau
@@ -109,7 +109,7 @@ Young Boys    3-0 Zürich
 Luzern        1-2 Sion
 Xamax         4-1 Bellinzona
 
-Round 11
+Round: 11
 [Sep 26]
 Aarau         0-2 Basel         
 Sankt Gallen  2-3 Young Boys    
@@ -118,7 +118,7 @@ Luzern        2-0 Bellinzona
 Sion          2-3 Grasshoppers  
 Zürich        1-2 Xamax         
 
-Round 12
+Round: 12
 [Oct 3]
 Grasshoppers  0-0 Luzern        
 Xamax         4-2 Sankt Gallen
@@ -127,7 +127,7 @@ Basel         5-0 Sion
 Bellinzona    3-2 Zürich
 Young Boys    4-0 Aarau         
 
-Round 13
+Round: 13
 [Oct 24]
 Aarau         1-2 Bellinzona    
 Grasshoppers  2-1 Young Boys    
@@ -136,7 +136,7 @@ Luzern        4-5 Basel
 Sankt Gallen  1-3 Zürich
 Sion          1-0 Xamax         
 
-Round 14
+Round: 14
 [Oct 28]
 Aarau         0-0 Sion          
 Sankt Gallen  1-0 Grasshoppers  
@@ -145,7 +145,7 @@ Zürich        2-2 Basel
 Bellinzona    1-7 Young Boys    
 Xamax         1-1 Luzern        
 
-Round 15
+Round: 15
 [Oct 31]
 Basel         3-1 Grasshoppers  
 Zürich        1-1 Sion          
@@ -154,7 +154,7 @@ Bellinzona    0-5 Sankt Gallen
 Xamax         3-3 Aarau         
 Young Boys    1-1 Luzern        
 
-Round 16
+Round: 16
 [Nov 7]
 Aarau         0-2 Sankt Gallen  
 Grasshoppers  7-0 Bellinzona    
@@ -164,7 +164,7 @@ Sion          3-1 Young Boys
 [Nov 9]
 Basel         4-1 Xamax         
 
-Round 17
+Round: 17
 [Nov 28]
 Sankt Gallen  1-1 Luzern        
 Xamax         0-1 Grasshoppers  
@@ -173,7 +173,7 @@ Bellinzona    3-1 Sion
 Young Boys    2-0 Basel         
 Zürich        2-0 Aarau         
 
-Round 18
+Round: 18
 [Dec 5]
 Grasshoppers  1-0 Zürich
 Sion          2-1 Sankt Gallen
@@ -182,7 +182,7 @@ Basel         3-2 Bellinzona
 Luzern        6-0 Aarau
 Young Boys    1-0 Xamax
 
-Round 19
+Round: 19
 [Feb 6]
 Sankt Gallen  1-0 Sion          
 Zürich        0-0 Xamax
@@ -191,7 +191,7 @@ Aarau         6-3 Bellinzona
 Basel         4-0 Young Boys    
 Luzern        4-2 Grasshoppers  
 
-Round 20
+Round: 20
 [Feb 13]
 Young Boys    2-1 Luzern        
 [Feb 14]
@@ -201,7 +201,7 @@ Xamax         1-3 Basel
 Bellinzona    0-2 Sankt Gallen  
 Grasshoppers  2-0 Aarau
 
-Round 21
+Round: 21
 [Feb 20]
 Basel         2-1 Aarau 
 [Feb 21]
@@ -211,7 +211,7 @@ Sankt Gallen  1-2 Young Boys
 [Apr 5]
 Zürich        3-2 Grasshoppers    
 
-Round 22
+Round: 22
 [Feb 27]
 Young Boys    2-1 Zürich
 [Feb 28]
@@ -221,7 +221,7 @@ Xamax         0-3 Sankt Gallen
 [Mar 17]
 Grasshoppers  2-0 Sion
 
-Round 23
+Round: 23
 [Mar 6]
 Basel         1-2 Grasshoppers
 Sion          2-1 Bellinzona
@@ -230,7 +230,7 @@ Sankt Gallen  2-2 Aarau
 Xamax         1-0 Young Boys
 Zürich        1-0 Luzern
 
-Round 24
+Round: 24
 [Mar 13]
 Aarau         1-3 Zürich
 Bellinzona    3-2 Xamax
@@ -239,7 +239,7 @@ Grasshoppers  2-1 Sankt Gallen
 Luzern        0-1 Basel
 Young Boys    1-0 Sion
 
-Round 25
+Round: 25
 [Mar 20]
 Sion          5-2 Luzern        
 Young Boys    4-0 Grasshoppers  
@@ -248,7 +248,7 @@ Sankt Gallen  2-4 Basel
 Xamax         2-1 Aarau         
 Zürich        2-0 Bellinzona    
 
-Round 26
+Round: 26
 [Mar 24]
 Aarau         0-3 Sion          
 Basel         4-1 Zürich        
@@ -257,7 +257,7 @@ Luzern        2-3 Sankt Gallen
 Bellinzona    1-3 Young Boys    
 Grasshoppers  2-1 Xamax         
 
-Round 27
+Round: 27
 [Mar 27]
 Sankt Gallen  1-0 Zürich        
 Sion          2-2 Basel         
@@ -266,7 +266,7 @@ Grasshoppers  2-0 Bellinzona
 Xamax         1-2 Luzern        
 Young Boys    3-1 Aarau         
 
-Round 28
+Round: 28
 [Apr 1]
 Basel         4-3 Sion          
 Bellinzona    1-2 Grasshoppers  
@@ -275,7 +275,7 @@ Zürich        1-1 Sankt Gallen
 Aarau         1-5 Young Boys    
 Luzern        2-1 Xamax         
 
-Round 29
+Round: 29
 [Apr 10]
 Sion          4-0 Aarau         
 Xamax         0-1 Grasshoppers  
@@ -284,7 +284,7 @@ Young Boys    2-1 Bellinzona
 Sankt Gallen  3-1 Luzern        
 Zürich        1-2 Basel         
 
-Round 30
+Round: 30
 [Apr 13]
 Aarau         1-0 Xamax         
 Grasshoppers  2-1 Young Boys    
@@ -293,7 +293,7 @@ Basel         3-2 Sankt Gallen
 Bellinzona    1-4 Zürich        
 Luzern        1-1 Sion          
 
-Round 31
+Round: 31
 [Apr 17]
 Xamax         2-0 Bellinzona
 Zürich        0-1 Aarau
@@ -302,7 +302,7 @@ Basel         5-0 Luzern
 Sankt Gallen  0-1 Grasshoppers
 Sion          4-1 Young Boys
 
-Round 32
+Round: 32
 [Apr 24]
 Aarau         2-0 Sankt Gallen  
 Luzern        4-1 Zürich        
@@ -311,7 +311,7 @@ Bellinzona    2-1 Sion
 Grasshoppers  4-0 Basel         
 Young Boys    4-1 Xamax         
 
-Round 33
+Round: 33
 [May 1]
 Sion          1-0 Grasshoppers  
 Sankt Gallen  2-1 Xamax         
@@ -320,7 +320,7 @@ Basel         4-0 Bellinzona
 Luzern        4-0 Aarau         
 Zürich        0-2 Young Boys    
 
-Round 34
+Round: 34
 [May 5]
 Aarau         0-3 Basel
 Young Boys    2-1 Sankt Gallen
@@ -329,14 +329,14 @@ Bellinzona    0-0 Luzern
 Grasshoppers  4-0 Zürich
 Xamax         4-1 Sion
 
-Round 35 [May 13]
+Round: 35 [May 13]
 Aarau         1-4 Grasshoppers
 Basel         3-0 Xamax
 Luzern        5-1 Young Boys
 Sankt Gallen  1-2 Bellinzona
 Zürich        2-0 Sion
 
-Round 36 [May 16]
+Round: 36 [May 16]
 Bellinzona    1-2 Aarau
 Grasshoppers  0-1 Luzern
 Sion          5-1 Sankt Gallen

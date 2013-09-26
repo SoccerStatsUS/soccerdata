@@ -26,7 +26,7 @@ Competition: Ekstraklasa
 *[!] Łódzki KS failed to obtain license for next season, are
 *      ranked last and relegated
 
-Round 1
+Round: 1
 [Aug 8]
 Legia        2-2 Polonia W    
 Lech         2-3 Bełchatów    
@@ -39,7 +39,7 @@ Wisła        1-0 Polonia B
 Górnik       0-0 Ruch         
 Arka         1-1 Jagiellonia  
 
-Round 2
+Round: 2
 [Aug 15]
 Cracovia     2-0 ŁKS          
 Arka         1-0 Górnik       
@@ -52,7 +52,7 @@ Polonia B    1-1 Śląsk
 Jagiellonia  0-3 Lech         
 Odra W       2-0 Legia        
 
-Round 3
+Round: 3
 [Aug 22]
 Ruch         2-1 Polonia B    
 Wisła        2-1 Bełchatów    
@@ -65,7 +65,7 @@ Piast        1-2 Arka
 Legia        2-0 Jagiellonia  
 Lechia       2-0 Cracovia     
 
-Round 4
+Round: 4
 [Aug 29]
 Polonia W    3-0 Śląsk        
 Bełchatów    0-2 ŁKS          
@@ -78,7 +78,7 @@ Cracovia     1-1 Wisła
 Górnik       0-3 Legia        
 Arka         2-1 Lech         
 
-Round 5
+Round: 5
 [Sep 12]
 ŁKS          1-0 Jagiellonia
 Ruch         2-0 Cracovia  
@@ -91,7 +91,7 @@ Polonia B    0-4 Polonia W
 Górnik       1-0 Piast
 Wisła        1-4 Lech
 
-Round 6
+Round: 6
 [Sep 19]
 Cracovia     0-3 Legia        
 Górnik       1-2 Śląsk        
@@ -104,7 +104,7 @@ Lech         1-0 Piast
 Arka         4-0 ŁKS          
 Jagiellonia  0-2 Wisła        
 
-Round 7
+Round: 7
 [Sep 26]
 Polonia B    2-0 Górnik       
 Lechia       0-0 Polonia W
@@ -117,7 +117,7 @@ Ruch         0-0 Jagiellonia
 Śląsk        1-1 Cracovia  
 ŁKS          0-3 Lech         
 
-Round 8
+Round: 8
 [Oct 3]
 Arka         0-1 Lechia       
 Cracovia     0-1 Polonia B    
@@ -130,7 +130,7 @@ Polonia W    2-0 Odra W
 Górnik       1-1 Wisła        
 Lech         0-0 Legia        
 
-Round 9
+Round: 9
 [Oct 17]
 Odra W       1-1 Jagiellonia  
 Polonia W    1-1 Cracovia     
@@ -143,7 +143,7 @@ Wisła        2-0 Piast
 Lechia       1-0 Górnik       
 Ruch         2-0 Lech         
 
-Round 10
+Round: 10
 [Oct 24]
 Piast        0-0 Ruch         
 Bełchatów    1-2 Polonia W    
@@ -156,7 +156,7 @@ Arka         1-3 Polonia B
 [Oct 26]
 Legia        2-1 Wisła        
 
-Round 11
+Round: 11
 [Oct 31]
 Piast        1-0 Polonia B    
 Arka         0-1 Polonia W    
@@ -168,7 +168,7 @@ Jagiellonia  2-0 Cracovia
 Wisła        2-0 Ruch
 Legia        3-0 Lechia       
 
-Round 12
+Round: 12
 [Nov 7]
 Bełchatów    3-0 Cracovia     
 Polonia B    1-0 Legia        
@@ -181,7 +181,7 @@ Ruch         0-0 Arka
 Odra W       0-0 Górnik       
 Lechia       0-3 Lech         
 
-Round 13
+Round: 13
 [Nov 11]
 Cracovia     0-0 Arka         
 Polonia W    1-0 Piast        
@@ -193,7 +193,7 @@ Lechia       2-1 ŁKS
 Odra W       0-2 Wisła        
 Jagiellonia  1-0 Górnik       
 
-Round 14
+Round: 14
 [Nov 14]
 Arka         2-0 Bełchatów    
 Legia        4-0 Śląsk        
@@ -206,7 +206,7 @@ Wisła        3-0 Lechia
 Lech         2-0 Polonia W    
 Górnik       0-2 Cracovia     
 
-Round 15
+Round: 15
 [Nov 21]
 Polonia B    2-3 ŁKS          
 Ruch         0-1 Legia        
@@ -219,7 +219,7 @@ Cracovia     0-1 Lech
 Lechia       0-0 Piast        
 Śląsk        2-1 Wisła        
 
-Round 16
+Round: 16
 [Nov 28]
 Bełchatów    1-0 Górnik
 Lechia       2-3 Legia
@@ -232,7 +232,7 @@ Ruch         1-0 Wisła
 Polonia W    0-0 Arka
 Odra W       0-1 Lech
 
-Round 17
+Round: 17
 [Dec 5]
 ŁKS          2-1 Lechia
 Wisła        3-1 Odra W
@@ -245,7 +245,7 @@ Górnik       1-0 Jagiellonia
 Arka         2-1 Cracovia
 Lech         3-0 Polonia B
 
-Round 18
+Round: 18
 [Feb 27]
 Polonia B    1-1 Wisła        
 Polonia W    0-0 Legia        
@@ -258,7 +258,7 @@ Jagiellonia  3-0 Arka
 Odra W       0-1 ŁKS          
 Bełchatów    2-3 Lech         
 
-Round 19
+Round: 19
 [Mar 6]
 ŁKS          4-3 Cracovia     
 Górnik       2-2 Arka         
@@ -271,7 +271,7 @@ Wisła        2-1 Polonia W
 Legia        4-0 Odra W       
 Lech         1-0 Jagiellonia  
 
-Round 20
+Round: 20
 [Mar 13]
 Polonia W    1-3 ŁKS          
 Jagiellonia  2-1 Legia        
@@ -284,7 +284,7 @@ Polonia B    0-3 Ruch
 Arka         0-1 Piast        
 Górnik       1-1 Lech         
 
-Round 21
+Round: 21
 [Mar 20]
 Piast        1-1 Jagiellonia
 Legia        0-0 Górnik
@@ -297,7 +297,7 @@ Lech         0-0 Arka
 Lechia       0-1 Polonia B
 Wisła        4-1 Cracovia
 
-Round 22
+Round: 22
 [Apr 3]
 Piast        1-0 Górnik
 Bełchatów    2-1 Śląsk 
@@ -310,7 +310,7 @@ Polonia W    1-0 Polonia B
 Jagiellonia  4-0 ŁKS          
 Lech         1-1 Wisła        
 
-Round 23
+Round: 23
 [Apr 9]
 Polonia B    1-1 Odra W       
 Śląsk        1-1 Górnik       
@@ -322,7 +322,7 @@ Wisła        1-0 Jagiellonia
 Piast        1-2 Lech         
 Legia        4-0 Cracovia     
 
-Round 24
+Round: 24
 [Apr 17]
 Cracovia     1-1 Śląsk        
 Piast        0-1 Legia        
@@ -335,7 +335,7 @@ Polonia W    1-1 Lechia
 Jagiellonia  1-0 Ruch         
 Arka         0-1 Wisła        
 
-Round 25
+Round: 25
 [Apr 24]
 Polonia B    1-0 Cracovia     
 Wisła        3-1 Górnik       
@@ -348,7 +348,7 @@ Odra W       1-1 Polonia W
 ŁKS          0-1 Piast        
 Legia        1-1 Lech         
 
-Round 26
+Round: 26
 [May 1]
 Bełchatów    3-1 Polonia B    
 Piast        1-1 Wisła        
@@ -361,7 +361,7 @@ Górnik       2-0 Lechia
 Cracovia     1-0 Polonia W    
 Lech         1-1 Ruch         
 
-Round 27
+Round: 27
 [May 8]
 Lechia       3-1 Jagiellonia
 Polonia B    2-1 Arka
@@ -374,7 +374,7 @@ Odra W       2-1 Cracovia
 Ruch         0-0 Piast
 Wisła        1-0 Legia
 
-Round 28
+Round: 28
 [May 15]
 Arka         1-2 Ruch
 Lech         1-0 Lechia
@@ -387,7 +387,7 @@ Cracovia     1-0 Bełchatów
 Piast        0-1 Śląsk  
 ŁKS          0-4 Wisła   
 
-Round 29 [May 23]
+Round: 29 [May 23]
 Lechia       2-4 Wisła  
 Śląsk        1-1 Legia
 Odra W       0-2 Piast
@@ -397,7 +397,7 @@ Bełchatów    1-1 Arka
 Polonia B    1-0 Jagiellonia
 Ruch         2-0 ŁKS         
 
-Round 30 [May 30]
+Round: 30 [May 30]
 Lech         2-2 Cracovia
 Jagiellonia  0-2 Bełchatów  
 Górnik       0-1 Polonia W

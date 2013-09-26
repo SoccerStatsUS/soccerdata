@@ -22,7 +22,7 @@ Competition: Egyptian Premier League
 
 *NB: ENPPI = ENgineering for the Petroleum and Process Industries
 
-Round 1
+Round: 1
 [Aug 6]
 Mansoura      2-2 Ismaily
 Mokawloon     1-1 Jaish
@@ -34,7 +34,7 @@ Haras Hodoud  1-1 Shorta
 Intag Harby   2-0 Masry
 ENPPI         1-3 Zamalek
 
-Round 2
+Round: 2
 [Aug 19]
 Intag Harby   0-0 Assyut Petrol
 Gouna         1-1 Mansoura
@@ -46,7 +46,7 @@ Shorta        1-2 Ahly
 Ismaily       2-3 ENPPI
 Zamalek       1-2 Petrojet
 
-Round 3
+Round: 3
 [Aug 23]
 Mansoura      1-1 Intag Harby
 Assyut Petrol 0-0 G Mehalla
@@ -59,7 +59,7 @@ Mokawloon     2-2 Zamalek
 [Aug 25]
 ENPPI         2-1 Gouna
   
-Round 4
+Round: 4
 [Sep 10]
 G Mehalla     1-0 Mansoura      
 Zamalek       1-0 Ittihad       
@@ -73,7 +73,7 @@ Haras Hodoud  2-2 Masry
 [Oct 30]
 Intag Harby   3-1 ENPPI        
 
-Round 5
+Round: 5
 [Sep 16]
 Mokawloon     2-0 Gouna    
 Mansoura      2-0 Shorta  
@@ -86,7 +86,7 @@ Zamalek       0-1 Jaish
 Assyut Petrol 0-1 Haras Hodoud 
 ENPPI         2-2 G Mehalla
 
-Round 6
+Round: 6
 [Sep 22]
 G Mehalla     1-3 Petrojet
 Intag Harby   3-1 Mokawloon
@@ -98,7 +98,7 @@ Gouna         2-1 Ittihad
 Haras Hodoud  2-1 Mansoura
 Shorta        0-0 ENPPI
 
-Round 7
+Round: 7
 [Oct 19]
 Assyut Petrol 1-2 Masry
 Mokawloon     1-1 G Mehalla
@@ -111,7 +111,7 @@ Zamalek       1-1 Gouna
 [Oct 22]
 ENPPI         2-1 Haras Hodoud 
 
-Round 8
+Round: 8
 [Oct 23]
 G Mehalla     0-0 Ittihad       
 Masry         0-0 Mansoura      
@@ -124,7 +124,7 @@ Intag Harby   2-3 Zamalek
 Haras Hodoud  1-3 Petrojet      
 Ahly          2-0 ENPPI         
 
-Round 9
+Round: 9
 [Nov 24]
 Gouna         1-1 Jaish
 Ismaily       2-1 Intag Harby
@@ -136,7 +136,7 @@ Mansoura      4-0 Assyut Petrol
 Mokawloon     2-0 Haras Hodoud
 Zamalek       0-1 G Mehalla
 
-Round 10 [Nov 29]
+Round: 10 [Nov 29]
 Assyut Petrol 1-1 ENPPI
 Masry         0-1 Petrojet
 Intag Harby   2-0 Gouna 
@@ -146,7 +146,7 @@ G Mehalla     0-1 Ismaily
 Shorta        2-0 Zamalek
 Ahly          2-0 Mokawloon
 
-Round 11 [Dec 3]
+Round: 11 [Dec 3]
 Gouna         awd G Mehalla     [awarded 0-2; originally 1-0,
 Petrojet      1-1 Assyut Petrol  Gouna fielded suspended player]
 Ismaily       1-0 Shorta
@@ -156,7 +156,7 @@ ENPPI         1-0 Mansoura
 Ittihad       1-1 Ahly
 Zamalek       1-2 Haras Hodoud
 
-Round 12
+Round: 12
 [Dec 7]
 Assyut Petrol 0-1 Mokawloon
 Shorta        1-0 Gouna 
@@ -168,7 +168,7 @@ Jaish         2-0 ENPPI
 [Dec 8]
 Ahly          0-0 Zamalek
 
-Round 13
+Round: 13
 [Dec 11]
 Gouna         2-0 Haras Hodoud
 Petrojet      0-0 ENPPI
@@ -180,7 +180,7 @@ Intag Harby   1-1 Shorta
 Ismaily       1-1 Ahly
 Zamalek       3-0 Masry
 
-Round 14
+Round: 14
 [Dec 15]
 Shorta        4-0 G Mehalla
 Haras Hodoud  2-3 Intag Harby
@@ -192,7 +192,7 @@ Petrojet      2-1 Jaish
 Masry         1-2 Ismaily
 Ahly          1-0 Gouna 
 
-Round 15
+Round: 15
 [Dec 19]
 Ittihad       1-1 ENPPI
 G Mehalla     0-0 Haras Hodoud
@@ -204,7 +204,7 @@ Jaish         2-2 Shorta
 Intag Harby   0-1 Ahly
 Zamalek       1-0 Mansoura
 
-Round 16
+Round: 16
 [Feb 7]
 Ismaily       2-1 Mansoura
 Ittihad       1-0 Petrojet      
@@ -216,7 +216,7 @@ Jaish         2-1 Mokawloon
 Masry         2-1 Intag Harby   
 Zamalek       2-0 ENPPI
 
-Round 17
+Round: 17
 [Feb 12]
 Assyut Petrol 0-1 Intag Harby   
 Mansoura      0-2 Gouna         
@@ -228,7 +228,7 @@ Ahly          4-2 Shorta
 ENPPI         1-1 Ismaily       
 Petrojet      2-3 Zamalek       
 
-Round 18
+Round: 18
 [Feb 17]
 Shorta        1-1 Masry
 Gouna         0-1 ENPPI
@@ -240,7 +240,7 @@ Haras Hodoud  1-1 Ahly
 Intag Harby   0-0 Mansoura 
 Ismaily       1-3 Petrojet
 
-Round 19
+Round: 19
 [Feb 22]
 Assyut Petrol 1-2 Shorta        
 Ittihad       1-2 Zamalek       
@@ -252,7 +252,7 @@ Mansoura      1-0 G Mehalla
 Masry         1-1 Haras Hodoud  
 Ahly          2-2 Jaish         
 
-Round 20
+Round: 20
 [Mar 10]
 Gouna         3-2 Mokawloon     
 Shorta        1-0 Mansoura      
@@ -264,7 +264,7 @@ Ismaily       3-0 Ittihad
 G Mehalla     1-0 ENPPI
 Jaish         0-1 Zamalek       
 
-Round 21 [Mar 15]
+Round: 21 [Mar 15]
 Assyut Petrol 1-2 Ahly          
 Petrojet      1-0 G Mehalla     
 Mansoura      1-2 Haras Hodoud  
@@ -274,7 +274,7 @@ ENPPI         1-0 Shorta
 Ittihad       2-0 Gouna         
 Mokawloon     0-0 Intag Harby   
 
-Round 22
+Round: 22
 [Mar 19]
 Gouna         0-1 Zamalek       
 G Mehalla     2-1 Mokawloon     
@@ -286,7 +286,7 @@ Haras Hodoud  4-0 ENPPI
 Jaish         1-1 Ismaily       
 Ahly          3-0 Mansoura      
 
-Round 23
+Round: 23
 [Mar 24]
 Assyut Petrol 3-3 Jaish         
 Ittihad       1-0 G Mehalla     
@@ -298,7 +298,7 @@ Ismaily       1-2 Gouna
 Petrojet      1-4 Haras Hodoud  
 ENPPI         1-2 Ahly          
 
-Round 24 [Mar 29]
+Round: 24 [Mar 29]
 Assyut Petrol 3-2 Mansoura      
 Shorta        2-0 Ittihad       
 G Mehalla     0-1 Zamalek       
@@ -308,7 +308,7 @@ Jaish         1-2 Gouna
 Masry         0-0 ENPPI         
 Ahly          2-1 Petrojet      
 
-Round 25
+Round: 25
 [Apr 7]
 Gouna         2-0 Intag Harby   
 Mansoura      0-0 Jaish         
@@ -320,7 +320,7 @@ Zamalek       1-1 Shorta
 Ismaily       2-0 G Mehalla     
 Petrojet      0-0 Masry         
 
-Round 26
+Round: 26
 [Apr 11]
 Haras Hodoud  2-1 Zamalek       
 Jaish         1-1 Intag Harby   
@@ -332,7 +332,7 @@ G Mehalla     0-0 Gouna
 Masry         0-0 Mokawloon     
 Shorta        0-0 Ismaily       
 
-Round 27 
+Round: 27 
 [Apr 16]
 Gouna         0-1 Shorta        
 Ismaily       0-0 Haras Hodoud  
@@ -344,7 +344,7 @@ Zamalek       3-3 Ahly
 [Apr 24]
 ENPPI         0-0 Jaish         
 
-Round 28 [May 3]
+Round: 28 [May 3]
 Assyut Petrol 4-2 Ittihad
 Jaish         0-0 G Mehalla
 Mansoura      1-1 Mokawloon
@@ -354,7 +354,7 @@ Masry         1-3 Zamalek
 ENPII         0-0 Petrojet
 Ahly          1-1 Ismaily
 
-Round 29 [May 13]
+Round: 29 [May 13]
 Zamalek       4-1 Assyut Petrol
 G Mehalla     0-0 Shorta
 Gouna         0-0 Ahly
@@ -364,7 +364,7 @@ Ittihad       1-1 Mansoura
 Jaish         3-2 Petrojet
 Intag Harby   0-2 Haras Hodoud
 
-Round 30 [May 17]
+Round: 30 [May 17]
 Ahly          1-0 Intag Harby
 Mansoura      0-0 Zamalek
 Masry         1-1 Gouna

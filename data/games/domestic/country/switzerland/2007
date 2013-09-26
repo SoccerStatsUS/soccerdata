@@ -15,7 +15,7 @@ Competition: Swiss Super League
 *-------------------------------------------------
 *10.FC Thun                 36  6  9 21  30-70  27  Relegated
 
-Round 1 
+Round: 1 
 [Jul 18]
 Grasshoppers  2-0 Sankt Gallen
 [Jul 21]
@@ -26,7 +26,7 @@ Basel         1-0 Zürich
 [Aug 7]
 Thun          0-1 Sion
 
-Round 2
+Round: 2
 [Jul 25]
 Sion          3-0 Aarau
 Sankt Gallen  0-3 Basel
@@ -35,7 +35,7 @@ Young Boys    3-2 Grasshoppers
 Zürich        4-1 Luzern
 Neuchâtel     1-1 Thun
 
-Round 3
+Round: 3
 [Jul 28]
 Basel         1-1 Aarau
 Grasshoppers  0-1 Sion
@@ -45,7 +45,7 @@ Neuchâtel     1-1 Zürich
 [Jul 31]
 Thun          1-0 Sankt Gallen
 
-Round 4
+Round: 4
 [Aug 4]
 Sion          1-1 Neuchâtel     
 Sankt Gallen  1-2 Luzern       
@@ -54,7 +54,7 @@ Zürich        3-1 Thun
 Aarau         2-2 Grasshoppers       
 Young Boys    5-1 Basel 
 
-Round 5
+Round: 5
 [Aug 10]
 Zürich        3-1 Sankt Gallen
 [Aug 11]
@@ -64,7 +64,7 @@ Basel         3-2 Sion
 Thun          2-5 Aarau
 Luzern        3-3 Grasshoppers  
 
-Round 6
+Round: 6
 [Aug 18]
 Sankt Gallen  2-1 Neuchâtel     
 Aarau         0-0 Luzern          
@@ -73,7 +73,7 @@ Sion          0-5 Zürich
 Grasshoppers  2-0 Basel       
 Young Boys    0-0 Thun   
 
-Round 7
+Round: 7
 [Aug 25]
 Zürich        5-1 Young Boys
 Neuchâtel     2-1 Aarau
@@ -82,7 +82,7 @@ Luzern        2-4 Basel
 Thun          1-0 Grasshoppers
 Sankt Gallen  1-0 Sion
 
-Round 8
+Round: 8
 [Sep 1]
 Grasshoppers  1-2 Neuchâtel
 Aarau         1-1 Zürich
@@ -92,7 +92,7 @@ Basel         2-1 Thun
 [Sep 3]
 Luzern        1-1 Sion
 
-Round 9
+Round: 9
 [Sep 22]
 Thun          0-1 Luzern       
 Sankt Gallen  1-1 Aarau        
@@ -101,7 +101,7 @@ Zürich        4-0 Grasshoppers
 Neuchâtel     0-3 Basel         
 Sion          1-2 Young Boys   
 
-Round 10
+Round: 10
 [Sep 26]
 Young Boys    4-1 Aarau         
 Sankt Gallen  5-3 Grasshoppers  
@@ -110,7 +110,7 @@ Zürich        2-2 Basel
 [Sep 27]
 Sion          2-1 Thun         
 
-Round 11
+Round: 11
 [Sep 29]
 Luzern        2-2 Zürich       
 Grasshoppers  3-3 Young Boys   
@@ -119,7 +119,7 @@ Aarau         2-0 Sion
 Basel         3-0 Sankt Gallen 
 Thun          1-1 Neuchâtel     
 
-Round 12
+Round: 12
 [Oct 6]
 Young Boys    6-1 Luzern       
 Sankt Gallen  0-4 Thun         
@@ -128,7 +128,7 @@ Aarau         0-3 Basel
 Zürich        1-0 Neuchâtel    
 Sion          0-1 Grasshoppers 
 
-Round 13
+Round: 13
 [Oct 27]
 Grasshoppers  1-1 Aarau         
 Luzern        1-1 Sankt Gallen  
@@ -137,7 +137,7 @@ Neuchâtel     1-3 Sion
 Thun          1-1 Zürich
 Basel         4-0 Young Boys   
 
-Round 14
+Round: 14
 [Oct 31]
 Grasshoppers  1-1 Luzern
 Sion          1-1 Basel
@@ -146,7 +146,7 @@ Sankt Gallen  2-3 Zürich
 Aarau         5-0 Thun
 Young Boys    3-2 Neuchâtel
 
-Round 15
+Round: 15
 [Nov 3]
 Basel         2-0 Grasshoppers   
 Zürich        4-1 Sion   
@@ -155,7 +155,7 @@ Luzern        0-0 Aarau
 Thun          0-0 Young Boys   
 Neuchâtel     1-1 Sankt Gallen 
 
-Round 16
+Round: 16
 [Nov 10]
 Grasshoppers  2-1 Thun   
 Sion          5-1 Sankt Gallen 
@@ -164,7 +164,7 @@ Aarau         3-2 Neuchâtel
 Basel         3-2 Luzern   
 Young Boys    1-1 Zürich
 
-Round 17
+Round: 17
 [Dec 1]
 Sion          0-0 Luzern   
 Sankt Gallen  2-7 Young Boys   
@@ -173,7 +173,7 @@ Neuchâtel     4-1 Grasshoppers
 Zürich        0-1 Aarau   
 Thun          0-2 Basel   
 
-Round 18
+Round: 18
 [Dec 8]
 Aarau         2-2 Sankt Gallen 
 Luzern        1-2 Thun   
@@ -182,7 +182,7 @@ Basel         0-1 Neuchâtel
 Grasshoppers  2-1 Zürich
 Young Boys    1-0 Sion   
 
-Round 19
+Round: 19
 [Feb 2]
 Zürich        1-0 Thun
 Sion          0-2 Grasshoppers
@@ -191,7 +191,7 @@ Aarau         3-1 Sankt Gallen
 Neuchâtel     0-1 Luzern
 Young Boys    2-0 Basel
 
-Round 20
+Round: 20
 [Feb 9]
 Basel         3-0 Neuchâtel
 Sankt Gallen  1-0 Zürich
@@ -200,7 +200,7 @@ Thun          2-2 Sion
 Luzern        2-0 Aarau
 Grasshoppers  3-3 Young Boys
 
-Round 21
+Round: 21
 [Feb 16]
 Thun          0-1 Luzern        
 Sion          1-2 Sankt Gallen 
@@ -209,7 +209,7 @@ Zürich        1-1 Basel
 Neuchâtel     3-1 Young Boys
 Aarau         1-2 Grasshoppers 
 
-Round 22
+Round: 22
 [Feb 23]
 Sankt Gallen  3-0 Thun         
 Grasshoppers  2-0 Neuchâtel
@@ -218,7 +218,7 @@ Young Boys    3-1 Sion
 Luzern        2-1 Zürich
 Basel         2-1 Aarau
 
-Round 23
+Round: 23
 [Mar 1]
 Sankt Gallen  2-1 Luzern     
 Aarau         0-2 Young Boys 
@@ -227,7 +227,7 @@ Sion          2-0 Neuchâtel
 Zürich        1-0 Grasshoppers 
 Thun          1-3 Basel     
 
-Round 24
+Round: 24
 [Mar 8]
 Luzern        1-1 Sion
 Grasshoppers  4-0 Thun         
@@ -236,7 +236,7 @@ Young Boys    3-0 Zürich
 Neuchâtel     1-2 Aarau
 Basel         2-1 Sankt Gallen  
 
-Round 25
+Round: 25
 [Mar 14]
 Young Boys    3-0 Sankt Gallen  
 [Mar 15]
@@ -246,7 +246,7 @@ Grasshoppers  2-0 Luzern
 Sion          4-2 Basel         
 Aarau         1-0 Zürich
 
-Round 26
+Round: 26
 [Mar 18]
 Sankt Gallen  0-0 Neuchâtel     
 Luzern        0-3 Young Boys    
@@ -255,14 +255,14 @@ Zürich        2-1 Sion
 Thun          1-1 Aarau
 Basel         2-1 Grasshoppers  
 
-Round 27 [Mar 22]
+Round: 27 [Mar 22]
 Young Boys    4-2 Thun     
 Neuchâtel     3-1 Zürich
 Grasshoppers  2-3 Sankt Gallen  
 Basel         1-0 Luzern        
 Aarau         2-0 Sion
 
-Round 28
+Round: 28
 [Mar 29]
 Sankt Gallen  0-2 Grasshoppers  
 Luzern        1-0 Basel         
@@ -271,7 +271,7 @@ Thun          0-4 Young Boys
 Zürich        2-1 Neuchâtel     
 Sion          1-0 Aarau         
 
-Round 29
+Round: 29
 [Apr 2]
 Grasshoppers  1-1 Basel         
 [Apr 4]
@@ -281,7 +281,7 @@ Aarau         3-0 Thun
 [Apr 24]
 Young Boys    0-1 Luzern        
 
-Round 30
+Round: 30
 [Apr 12]
 Thun          2-1 Neuchâtel     
 Sankt Gallen  2-0 Young Boys    
@@ -290,7 +290,7 @@ Zürich        0-0 Aarau
 Luzern        0-0 Grasshoppers  
 Basel         1-1 Sion
 
-Round 31
+Round: 31
 [Apr 16]
 Sankt Gallen  1-4 Basel
 Sion          0-0 Luzern
@@ -299,7 +299,7 @@ Thun          0-2 Grasshoppers
 Zürich        1-2 Young Boys
 Aarau         2-2 Neuchâtel
 
-Round 32
+Round: 32
 [Apr 19]
 Luzern        1-0 Sankt Gallen  
 Basel         3-1 Thun          
@@ -308,7 +308,7 @@ Neuchâtel     1-1 Sion
 Young Boys    4-0 Aarau         
 Grasshoppers  1-1 Zürich        
 
-Round 33
+Round: 33
 [Apr 25]
 Thun          1-1 Sankt Gallen  
 [Apr 26]
@@ -318,7 +318,7 @@ Neuchâtel     1-3 Grasshoppers
 Zürich        1-0 Luzern
 Sion          1-2 Young Boys
 
-Round 34
+Round: 34
 [May 2]
 Young Boys    1-3 Neuchâtel
 Basel         4-0 Zürich        
@@ -327,14 +327,14 @@ Sankt Gallen  1-2 Sion
 Grasshoppers  2-0 Aarau         
 Luzern        4-0 Thun          
 
-Round 35 [May 6]
+Round: 35 [May 6]
 Aarau         2-1 Luzern
 Neuchâtel     2-2 Basel
 Sion          5-0 Thun
 Young Boys    2-0 Grasshoppers
 Zürich        1-0 Sankt Gallen
 
-Round 36 [May 10]
+Round: 36 [May 10]
 Basel         2-0 Young Boys
 Grasshoppers  2-0 Sion
 Luzern        0-2 Neuchâtel

@@ -22,7 +22,7 @@ Competition: Belgian Pro League
 *17.K. Sint-Truiden VV            34  6  9 19  32-58  27  Relegated
 *18.FC Brussels                   34  4  7 23  27-66  19  Relegated
 
-Round 1
+Round: 1
 [Aug 3]
 KV Mechelen  0-1 Anderlecht
   [Wasilewski 89]
@@ -45,7 +45,7 @@ Mouscron     1-4 Gent
 Zulte-W.     1-4 Standard
   [Jelavic 34; Fellaini 37, Onyewu 48, De Camargo 50, Witsel 83]
 
-Round 2
+Round: 2
 [Aug 10]
 Westerlo     1-0 Charleroi
   [Evens 11]
@@ -68,7 +68,7 @@ Sint-Truiden 0-2 Mouscron
 G. Beerschot 0-1 Club Brugge
   [Leko 78pen]
 
-Round 3
+Round: 3
 [Aug 17]
 Club Brugge  3-2 Sint-Truiden
   [Alcaraz 7, Geraerts 46, Leko 70pen; Chimedza 19, Coulibaly 32]
@@ -89,7 +89,7 @@ Mouscron     3-1 Mons
 Standard     4-1 Cerc. Brugge
   [Mbokani 2, 44, Fellaini 23, Witsel 56; Iachtchouk 38]
 
-Round 4
+Round: 4
 [Aug 25]
 G. Beerschot 1-2 Genk
   [Losada 89; Alex 20, Barda 89]
@@ -112,7 +112,7 @@ Sint-Truiden 1-3 Charleroi
 KV Mechelen  1-1 Club Brugge
   [Bajevski 48; Clement 2]
 
-Round 5
+Round: 5
 [Aug 31]
 Charleroi    3-1 Mons
   [Oulmers 23, Smolders 60, Habibou 82; Mirri 44]
@@ -134,7 +134,7 @@ Mouscron     1-2 Anderlecht
 Standard     2-1 Club Brugge
   [Jovanovic 65, Mbokani 69; Vermant 66]
 
-Round 6
+Round: 6
 [Sep 15]
 KV Mechelen  2-2 Mouscron
   [Bajevski 87, Ivens 90+4pen; Niçoise 15, Custovic 68]
@@ -155,7 +155,7 @@ Gent         1-1 Standard
 Sint-Truiden 1-2 Genk
   [Hartog 7; Vrancken 14, Barda 25]
 
-Round 7
+Round: 7
 [Sep 22]
 Zulte-W.     2-0 KV Mechelen
   [D'Haemers 73, Roelandts 80]
@@ -178,7 +178,7 @@ Genk         1-1 Anderlecht
 Standard     2-1 Westerlo
   [Toama 1, 78; Dirar 19]
 
-Round 8
+Round: 8
 [Sep 28]
 Mons         1-1 Genk
   [Dalmat 72; Vandooren 5]
@@ -200,7 +200,7 @@ KV Mechelen  2-2 Dender EH
 G. Beerschot 2-2 Gent
   [Losada 75pen, Ederson 87; Ruiz 20, Maric 40]
 
-Round 9
+Round: 9
 [Oct 5]
 Charleroi    1-3 Mouscron
   [Akpala 2; Tomou 39, Grondin 68, Fellahi 83]
@@ -223,7 +223,7 @@ Brussels     1-3 Club Brugge
 Roeselare    2-2 Anderlecht
   [Dissa 30, 61; Polak 78, Frutos 89pen]
 
-Round 10
+Round: 10
 [Oct 20]
 Club Brugge  2-0 Dender EH
   [Sonck 57, Geraerts 69]
@@ -245,7 +245,7 @@ Mons         1-1 Standard
 Anderlecht   2-1 Gent
   [Legaer 14, Frutos 44; Ruiz 46]
 
-Round 11
+Round: 11
 [Oct 26]
 Gent         2-0 Mons
   [Azofeifa 15, Foley 34]
@@ -267,7 +267,7 @@ Cerc. Brugge 0-0 Anderlecht
 Genk         1-2 Club Brugge
   [Barda 49; Leko 39pen, Djokic 56]
 
-Round 12
+Round: 12
 [Nov 2]
 Mouscron     0-0 Standard
 [Nov 3]
@@ -289,7 +289,7 @@ KV Mechelen  4-0 Brussels
 Lokeren      1-1 Genk
   [Carevic 3; Barda 83]
 
-Round 13
+Round: 13
 [Nov 9]
 Cerc. Brugge 1-2 Club Brugge
   [De Sutter 45; Blondel 41, Sterchele 53]
@@ -313,7 +313,7 @@ G. Beerschot 2-0 Anderlecht
 Roeselare    4-3 Mons
   [Tanghe 20, Joseph-Augustin 34, Dissa 78, Akgül 82; Zoko 16, Smits 60og, Cordaro 73]
 
-Round 14
+Round: 14
 [Nov 30]
 Anderlecht   0-0 Standard
 [Dec 1]
@@ -334,7 +334,7 @@ Dender EH    2-0 Genk
   [Iribarren 41, De Pever 63]
 Club Brugge  0-0 Gent
 
-Round 15
+Round: 15
 [Dec 7]
 Standard     5-1 Charleroi
   [Witsel 23pen, De Camargo 27, 56, Camozzato 36, Jovanovic 48; Mujangi Bia 65]
@@ -356,7 +356,7 @@ Roeselare    1-2 Club Brugge
 Sint-Truiden 4-3 Anderlecht
   [R.Peeters 25, Van Houdt 38, Sishuba 85, Coulibaly 90; Hassan 29, 44pen, Van Damme 32]
 
-Round 16
+Round: 16
 [Dec 14]
 Genk         5-2 Zulte-W.
   [Barda 7, 61, 65pen, Vossen 47, Vrancken 74; Sankaré 33, Matthys 44]
@@ -377,7 +377,7 @@ Club Brugge  1-0 Anderlecht
 Charleroi    1-2 Gent
   [Habibou 80; Foley 17, Grncarov 54]
 
-Round 17
+Round: 17
 [Dec 22]
 Anderlecht   3-2 Mons
   [Odjidja Ofoe 15, Hassan 34, Zoko 55og; Zoko 20, Nibombe 40]
@@ -398,7 +398,7 @@ Standard     3-1 Genk
 Westerlo     0-0 Club Brugge
 Roeselare    1-1 Lokeren
 
-Round 18
+Round: 18
 [Jan 18]
 Mons         0-1 Club Brugge
   [Simaeys 53]
@@ -422,7 +422,7 @@ Gent         2-0 Mouscron
 Cerc. Brugge 5-1 Genk
   [De Sutter 40, 70, Iachtchouk 50, De Smet 60, 67; Haroun 64]
 
-Round 19
+Round: 19
 [Jan 25]
 Zulte-W.     0-3 Cerc. Brugge
   [Portier 37, Iachtchouk 42, Serebrennikov 49]
@@ -443,7 +443,7 @@ Lokeren      0-0 Anderlecht
 Brussels     0-1 Standard
   [Mbokani 35]
 
-Round 20
+Round: 20
 [Feb 2]
 Roeselare    0-0 Genk
 Westerlo     1-1 Zulte-W.
@@ -463,7 +463,7 @@ G. Beerschot 1-1 Lokeren
   [Dheedene 51pen; Golan 33]
 Cerc. Brugge 0-0 Standard
 
-Round 21
+Round: 21
 [Feb 9]
 Brussels     2-4 Anderlecht
   [Guterstam 43, Landu Tubi 82; Van Damme 2, Gillet 26, 49,
@@ -486,7 +486,7 @@ Zulte-W.     2-1 Gent
 Genk         1-3 G. Beerschot
   [Soetaers 64; Ederson 62, Malki 74, Losada 81]
 
-Round 22
+Round: 22
 [Feb 15]
 Gent         3-2 Cerc. Brugge
   [Olufade 29, 54, Maric 89; De Smet 69, Snelders 90]
@@ -507,7 +507,7 @@ Club Brugge  1-2 Standard
 Anderlecht   2-1 Mouscron
   [Polak 13, Pieroni 20; Tomou 89]
 
-Round 23
+Round: 23
 [Feb 22]
 Genk         0-1 Sint-Truiden
   [Coulibaly 67]
@@ -527,7 +527,7 @@ Lokeren      0-1 Club Brugge
 Zulte-W.     1-0 Anderlecht
   [Leye 14]
 
-Round 24
+Round: 24
 [Feb 29]
 Club Brugge  0-2 Charleroi
   [Smolders 48, Théréau 90]
@@ -549,7 +549,7 @@ G. Beerschot 3-0 Cerc. Brugge
 Anderlecht   1-0 Genk
   [Vlcek 4]
 
-Round 25
+Round: 25
 [Mar 7]
 Standard     2-1 Sint-Truiden
   [Mbokani 31, De Camargo 44; R.Peeters 42]
@@ -572,7 +572,7 @@ Gent         2-1 G. Beerschot
 Charleroi    0-2 Anderlecht
   [Hassan 26, Boussoufa 39]
 
-Round 26
+Round: 26
 [Mar 14]
 G. Beerschot 1-2 Standard
   [Losada 62; Jovanovic 15, Fellaini 40]
@@ -594,7 +594,7 @@ Anderlecht   5-0 Roeselare
 KV Mechelen  2-2 Genk
   [Van Hoevelen 11, Nong 70; Bosnjak 6, Itzhaki 78]
 
-Round 27
+Round: 27
 [Mar 21]
 Genk         3-1 Mouscron
   [Barda 22, Toth 88, Haroun 89; Basseggio 36]
@@ -617,7 +617,7 @@ Gent         2-3 Anderlecht
 Standard     2-0 Mons
   [Mbokani 53, Goreux 78]
 
-Round 28
+Round: 28
 [Mar 29]
 KV Mechelen  0-1 Standard
   [Jovanovic 78]
@@ -638,7 +638,7 @@ Anderlecht   3-1 Cerc. Brugge
 Club Brugge  2-6 Genk
   [Sterchele 23, 49; Itzhaki 5, Haroun 6, Barda 25, 88, Vrancken 29, De Decker 68]
 
-Round 29
+Round: 29
 [Apr 4]
 Gent         2-3 Sint-Truiden
   [Thijs 19, Olufade 48, 61pen; Buvens 11, R.Peeters 88]
@@ -660,7 +660,7 @@ Standard     1-0 Mouscron
 Westerlo     0-2 Anderlecht
   [Gillet 14, Frutos 35]
 
-Round 30
+Round: 30
 [Apr 11]
 Lokeren      0-0 Standard
 [Apr 12]
@@ -682,7 +682,7 @@ Club Brugge  1-0 Cerc. Brugge
 Anderlecht   2-0 G. Beerschot
   [Vlcek 60, Frutos 65]
 
-Round 31
+Round: 31
 [Apr 18]
 Cerc. Brugge 3-2 Lokeren
   [De Smet 30, Sergeant 64, Boi 67; Mbayo 17, Maazou 80]
@@ -703,7 +703,7 @@ Gent         0-0 Club Brugge
 Standard     2-0 Anderlecht
   [Mbokani 54, 77]
 
-Round 32
+Round: 32
 [Apr 25]
 Lokeren      1-1 Gent
   [Golan 78; Olufade 70pen]
@@ -725,7 +725,7 @@ Charleroi    2-1 Standard
 Club Brugge  1-0 Roeselare
   [Salou 32]
 
-Round 33
+Round: 33
 [May 2]
 Zulte-W.     2-2 Genk
   [Coppin 77, Leye 85pen; Haroun 11, Matoukou 15]
@@ -746,7 +746,7 @@ Roeselare    2-1 Mouscron
 Standard     3-0 Dender EH
   [Mbokani 33, 80, Jovanovic 40]
 
-Round 34
+Round: 34
 [May 9]
 Brussels     1-2 Zulte-W.
   [Gueye 89; Coppin 4, Leye 24]

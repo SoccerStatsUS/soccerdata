@@ -23,7 +23,7 @@ Competition: Super Lig
 *17.Dardanel AS Çanakkale      34  8  8 18 35-49 32  Relegated
 *18.Kardemir DÇ Karabükspor K  34  5  8 21 26-64 23  Relegated
 
-Round 1
+Round: 1
 [Aug 7]
 C. Dardanel    0-0 Fenerbahce  
 [Aug 8]
@@ -43,7 +43,7 @@ Bursaspor      1-2 D.C. Karabuk
 Besiktas       4-1 Ankaragucu 
   [Hikmet 39, Oktay 56, 78, Ohen 85 / Cengizhan 22 (p)]
 
-Round 2
+Round: 2
 [Aug 14]
 Antalyaspor    0-3 Besiktas   
   [Ohen 5, Mehmet 83, Oktay 84]
@@ -66,7 +66,7 @@ Altay          2-5 Trabzonspor
 Kocaelispor    2-0 D.C. Karabuk
   [Nuri 4, Orhan 77]
 
-Round 3 
+Round: 3 
 [Aug 21]
 Adanaspor      0-3 Fenerbahce  
   [Balic 289, Kemalettin 69, Sergio 77]
@@ -88,7 +88,7 @@ Sakaryaspor    1-2 Altay
 Besiktas       1-1 Gaziantepspor
   [Mehmet 64 / Preko 49]
 
-Round 4 
+Round: 4 
 [Aug 28]
 Altay          0-1 Besiktas
   [Ohen 6]
@@ -111,7 +111,7 @@ Antalyaspor    2-0 C. Dardanel
 Bursaspor      2-1 Sakaryaspor
   [Murat 15, Harazi 30 (p) / Mehmet 39]
 
-Round 5 
+Round: 5 
 [Sep 11]
 Trabzonspor    0-0 Istanbulspor  
 [Sep 12]
@@ -133,7 +133,7 @@ Antalyaspor    3-1 Gaziantepspor
 C. Dardanel    0-1 Adanaspor
   [Hamdi Aslan 88]
 
-Round 6
+Round: 6
 [Aug 18]
 Bursaspor      4-0 Ankaragucu
   [Murat 15, 51, Osman 29, Mustafa 88]
@@ -155,7 +155,7 @@ Gaziantepspor  1-0 C. Dardanel
 Kocaelispor    0-2 Besiktas       
   [Nihat 65, 87]
 
-Round 7
+Round: 7
 [Aug 25]
 Trabzonspor    1-0 Fenerbahce  
   [Campbell 2]
@@ -176,7 +176,7 @@ D.C. Karabuk   2-0 Adanaspor
 Sakaryaspor    1-1 Erzurumspor
   [Sergio  38 / Coskun 32]
 
-Round 8
+Round: 8
 [Oct 16]
 Kocaelispor    2-1 Antalyaspor 
   [Orhan 4, Ahmet 84 / Nuri (p) 72]
@@ -199,7 +199,7 @@ Bursaspor      2-1 Gaziantepspor
 Fenerbahce     3-0 Sakaryaspor
   [Faruk 42, 59, Högh 44]
 
-Round 9
+Round: 9
 [Oct 23]
 Trabzonspor    2-0 Adanaspor
   [Vugrinec 63, Campbell 90]
@@ -221,7 +221,7 @@ C. Dardanel    0-0 D.C. Karabuk
 Besiktas       3-2 Fenerbahce  
   [Amokachi 22, 59 (p), Mehmet 89 / Moshoeu 14, Dimas 72]
 
-Round 10
+Round: 10
 [Oct 30]
 Samsunspor     2-1 Trabzonspor
   [Cenk 8, 26 / Selahattin 57]
@@ -243,7 +243,7 @@ Bursaspor      2-0 C. Dardanel
 Genclerbirligi 0-1 Besiktas
   [Oktay 30]
 
-Round 11
+Round: 11
 [Nov 6]
 Antalyaspor    1-0 Fenerbahce
   [Uche Okechukwu 64 (og)]
@@ -266,7 +266,7 @@ C. Dardanel    0-5 Galatasaray
 Besiktas       2-0 Adanaspor
   [Ayhan 53, Ohen 80]
 
-Round 12
+Round: 12
 [Nov 13]
 Kocaelispor    2-0 C. Dardanel    
   [Evren 77, Dobrowski (p) 86]
@@ -289,7 +289,7 @@ Samsunspor     0-3 Besiktas
 Galatasaray    3-5 Trabzonspor
   [Ogun (og) 15, Bulent 45, Burak 88 / Campbell 6, 34, 90, Selahattin 65, Orhan 89]
 
-Round 13
+Round: 13
 [Nov 20]
 Altay          0-4 Fenerbahce
   [Moshoeu 34, Balic 79, Bolic 81, 86]
@@ -311,7 +311,7 @@ Bursaspor      6-1 Erzurumspor
 Besiktas       1-1 D.C. Karabuk
   [Ohen 39 / Halilovic 60]
 
-Round 14
+Round: 14
 [Nov 27]
 Adanaspor      3-1 Gaziantepspor
   [Ali 29, Hamdi 39, Altan 59 / Mustafa 60]
@@ -334,7 +334,7 @@ Fenerbahce     4-1 Bursaspor
 Galatasaray    2-0 Besiktas
   [Fatih 13, Emre 89]
 
-Round 15
+Round: 15
 [Dec 4]
 Kocaelispor    0-3 Fenerbahce  
   [Moshoeu 54, Balic 68, Metin Diyadin 90]
@@ -358,7 +358,7 @@ Besiktas       2-0 Trabzonspor
 Ankaragucu     2-2 Galatasaray
   [Tarik 62 (p), Hakan Keles 69 / Hakan Sukur 20, Okan 27]
 
-Round 16
+Round: 16
 [Dec 11]
 Genclerbirligi 1-1 Kocaelispor
   [Umit Karan 44 / Soner 55]
@@ -380,7 +380,7 @@ Fenerbahce     2-0 Istanbulspor
 Trabzonspor    1-0 Ankaragucu
   [Vugrinec 47]
 
-Round 17
+Round: 17
 [Dec 18]
 Bursaspor      2-3 Samsunspor
   [Sinan 37 (p), Murat 76 / Ilhan 28, Serkan 45, 90]
@@ -401,7 +401,7 @@ Gaziantepspor  1-2 Galatasaray
   [Cem 64 / Hakan Sukur 29, Suat 87]
 Besiktas       0-0 C. Dardanel
 
-Round 18
+Round: 18
 [Jan 29]
 Ankaragucu     0-1 Besiktas
   [Ertugrul 13]
@@ -424,7 +424,7 @@ Istanbulspor   6-0 Adanaspor
 Altay          0-2 Galatasaray
   [Hagi 35, Arif 54]
 
-Round 19
+Round: 19
 [Feb 5]
 Besiktas       2-1 Antalyaspor
 [Feb 6]
@@ -438,7 +438,7 @@ Sakaryaspor    6-2 Gaziantepspor
 Samsunspor     0-1 Istanbulspor  
 Trabzonspor    0-3 Altay
 
-Round 20
+Round: 20
 [Feb 12]
 Kocaelispor    1-2 Galatasaray
 [Feb 13]
@@ -452,7 +452,7 @@ Genclerbirligi 0-0 C. Dardanel
 Bursaspor      0-1 Trabzonspor
 Fenerbahce     6-0 Adanaspor
 
-Round 21
+Round: 21
 [Feb 19]
 Samsunspor     1-1 Fenerbahce
 [Feb 20]
@@ -466,7 +466,7 @@ C. Dardanel    2-0 Antalyaspor
 D.C. Karabuk   1-1 Erzurumspor
 Galatasaray    3-3 Istanbulspor
 
-Round 22
+Round: 22
 [Feb 26]
 Kocaelispor    0-1 Sakaryaspor
 [Feb 27]
@@ -480,7 +480,7 @@ Adanaspor      3-0 C. Dardanel
 Genclerbirligi 3-0 Samsunspor
 D.C. Karabuk   0-0 Fenerbahce
 
-Round 23
+Round: 23
 [Mar 5]
 Trabzonspor    3-1 Erzurumspor
 [Mar 6]
@@ -494,7 +494,7 @@ Galatasaray    2-0 Fenerbahce
 D.C. Karabuk   1-6 Genclerbirligi
 Samsunspor     2-0 Adanaspor
 
-Round 24
+Round: 24
 [Mar 12]
 Bursaspor      1-0 Antalyaspor
 [Mar 13]
@@ -508,7 +508,7 @@ Kocaelispor    0-1 Ankaragucu
 Samsunspor     2-1 C. Dardanel
 Genclerbirligi 1-2 Galatasaray
 
-Round 25
+Round: 25
 [Mar 19]
 Galatasaray    1-1 Adanaspor
 [Mar 20]
@@ -522,7 +522,7 @@ C. Dardanel    4-1 Altay
 Antalyaspor    2-1 Kocaelispor
 Besiktas       2-1 Erzurumspor  
 
-Round 26
+Round: 26
 [Apr 2]
 Adanaspor      0-2 Trabzonspor
 [Apr 3]
@@ -536,7 +536,7 @@ Kocaelispor    1-1 Gaziantepspor
 Bursaspor      2-0 Altay
 Fenerbahce     1-2 Besiktas
 
-Round 27
+Round: 27
 [Apr 9]
 Besiktas       2-0 Genclerbirligi
 [Apr 10]
@@ -550,7 +550,7 @@ Gaziantepspor  2-1 Istanbulspor
 Sakaryaspor    0-0 Adanaspor
 Trabzonspor    3-1 Samsunspor
 
-Round 28
+Round: 28
 [Apr 15]
 D.C. Karabuk   0-0 Trabzonspor
 [Apr 16]
@@ -564,7 +564,7 @@ Genclerbirligi 3-1 Ankaragucu
 Kocaelispor    awd Bursaspor      [awarded 3-0, originally 4-0]
 Galatasaray    5-2 C. Dardanel
 
-Round 29
+Round: 29
 [Apr 23]
 Besiktas       0-0 Samsunspor
 [Apr 24]
@@ -578,7 +578,7 @@ C. Dardanel    3-1 Kocaelispor
 Sakaryaspor    4-0 D.C. Karabuk
 Trabzonspor    0-3 Galatasaray
 
-Round 30
+Round: 30
 [Apr 30]
 Galatasaray    3-0 Sakaryaspor
 [May 1]
@@ -592,7 +592,7 @@ Samsunspor     0-0 Ankaragucu
 Trabzonspor    2-1 C. Dardanel
 Fenerbahce     5-0 Altay
 
-Round 31
+Round: 31
 [May 7]
 Antalyaspor    1-2 Samsunspor
 [May 8]
@@ -606,7 +606,7 @@ Gaziantepspor  3-1 Adanaspor
 Altay          0-0 Genclerbirligi
 Besiktas       1-1 Galatasaray
 
-Round 32
+Round: 32
 [May 14]
 Galatasaray    2-1 Ankaragucu
 [May 16]
@@ -619,7 +619,7 @@ Samsunspor     2-1 Gaziantepspor
 Istanbulspor   0-2 Erzurumspor
 Trabzonspor    1-2 Besiktas
 
-Round 33
+Round: 33
 [May 21]
 Kocaelispor    awd Genclerbirligi [awarded 3-0, originally 2-0]
 [May 22]
@@ -634,7 +634,7 @@ Besiktas       3-0 Sakaryaspor
 Altay          2-0 Samsunspor
   [Telat 26, Bayram 64]
 
-Round 34
+Round: 34
 [May 28]
 C. Dardanel    1-3 Besiktas
 [May 29]

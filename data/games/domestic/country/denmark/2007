@@ -16,7 +16,7 @@ Season: 2007-2008
 *11.Viborg FF           33  5  5 23 29-68 20  Relegated
 *12.Lyngby BK           33  3  9 21 33-69 18  Relegated
 
-Round 1
+Round: 1
 [Jul 18]
 Randers      2-0 Viborg
 Nordsjælland 1-0 København
@@ -27,7 +27,7 @@ OB           1-1 Lyngby
 [Aug 8]
 Midtjylland  2-1 AaB
 
-Round 2
+Round: 2
 [Jul 21]
 Brøndby      2-2 Nordsjælland
 [Jul 22]
@@ -39,7 +39,7 @@ Horsens      2-1 Midtjylland
 [Jul 25]
 AaB          1-1 København
 
-Round 3
+Round: 3
 [Jul 28]
 København    3-1 Viborg
 [Jul 29]
@@ -51,7 +51,7 @@ Esbjerg      2-2 AGF
 [Aug 1]
 Randers      5-0 AaB
 
-Round 4
+Round: 4
 [Aug 4]
 AGF          0-1 København    
 [Aug 5]
@@ -62,7 +62,7 @@ Brøndby      3-0 Lyngby
 [Aug 6]
 OB           3-0 Nordsjælland       
 
-Round 5
+Round: 5
 [Aug 11]
 København    5-2 Esbjerg
 [Aug 12]
@@ -73,7 +73,7 @@ AaB          2-0 AGF
 [Aug 13]
 Viborg       1-1 Brøndby 
    
-Round 6
+Round: 6
 [Aug 18]
 Brøndby      0-1 AGF 
 [Aug 19]
@@ -84,7 +84,7 @@ København    0-0 Midtjylland
 [Aug 20]
 Lyngby       1-6 Esbjerg   
 
-Round 7
+Round: 7
 [Aug 25]
 OB           0-0 København 
 [Aug 26]
@@ -95,7 +95,7 @@ Horsens      4-2 Brøndby
 [Aug 27]
 AGF          0-0 Lyngby
 
-Round 8
+Round: 8
 [Sep 1]
 Viborg       2-0 AGF
 [Sep 2]
@@ -106,7 +106,7 @@ Brøndby      1-1 OB
 [Sep 3]
 AaB          2-1 Nordsjælland
 
-Round 9
+Round: 9
 [Sep 15]
 København    1-0 Horsens     
 [Sep 16]
@@ -117,7 +117,7 @@ AaB          3-0 Brøndby
 [Sep 17]
 Nordsjælland 3-1 Esbjerg     
 
-Round 10
+Round: 10
 [Sep 22]
 AGF          1-2 Nordsjælland
 [Sep 23]
@@ -128,7 +128,7 @@ Esbjerg      2-0 Midtjylland
 [Sep 24]
 OB           4-0 Viborg      
 
-Round 11
+Round: 11
 [Sep 29]
 København    2-0 Lyngby      
 [Sep 30]
@@ -139,7 +139,7 @@ Brøndby      1-1 Randers
 [Oct 1]
 Nordsjælland 0-0 Horsens      
 
-Round 12
+Round: 12
 [Oct 6]
 Viborg       1-2 Brøndby     
 [Oct 7]
@@ -150,7 +150,7 @@ København    1-1 Nordsjælland
 [Oct 8]
 AGF          3-5 AaB         
 
-Round 13
+Round: 13
 [Oct 20]
 AaB          0-0 København    
 [Oct 21]
@@ -161,7 +161,7 @@ Brøndby      2-1 AGF
 [Oct 22]
 Midtjylland  2-2 Esbjerg     
 
-Round 14
+Round: 14
 [Oct 27]
 Lyngby       1-3 AGF         
 [Oct 28]
@@ -172,7 +172,7 @@ OB           0-0 Brøndby
 [Oct 29]
 AaB          2-0 Esbjerg     
 
-Round 15
+Round: 15
 [Nov 3]
 AGF          0-2 København 
 [Nov 4]
@@ -183,7 +183,7 @@ Brøndby      3-0 Lyngby
 [Nov 5]
 Viborg       0-2 OB   
 
-Round 16
+Round: 16
 [Nov 10]
 Brøndby      3-0 Horsens   
 [Nov 11]
@@ -194,7 +194,7 @@ Midtjylland  2-2 København
 [Nov 12]
 Viborg       0-2 AGF   
 
-Round 17
+Round: 17
 [Nov 24]
 København    2-1 OB   
 [Nov 25]
@@ -205,7 +205,7 @@ Esbjerg      3-2 Brøndby
 [Nov 29]
 AGF          3-3 Nordsjælland   
 
-Round 18
+Round: 18
 [Dec 1]
 Randers      0-2 Viborg   
 [Dec 2]
@@ -216,7 +216,7 @@ København    1-1 Brøndby
 [Dec 3]
 Esbjerg      1-3 Horsens   
 
-Round 19
+Round: 19
 [Mar 15]
 OB           1-1 AaB
 [Mar 16]
@@ -227,7 +227,7 @@ Brøndby      3-1 Randers
 [Mar 17]
 Midtjylland  1-0 Nordsjælland 
 
-Round 20
+Round: 20
 [Mar 19]
 Horsens      1-2 AaB
 Esbjerg      2-1 København   
@@ -238,7 +238,7 @@ Brøndby      2-1 Midtjylland
 [Apr 2]
 Lyngby       0-3 OB
 
-Round 21
+Round: 21
 [Mar 22]
 København    1-0 Horsens   
 [Mar 23]
@@ -248,7 +248,7 @@ AaB          2-0 Viborg
 Nordsjælland 1-0 Brøndby
 OB           2-0 AGF
 
-Round 22
+Round: 22
 [Mar 29]
 OB           0-1 Midtjylland  
 [Mar 30]
@@ -259,7 +259,7 @@ Brøndby      0-1 AaB
 [Mar 31]
 Viborg       2-3 København     
 
-Round 23
+Round: 23
 [Apr 5]
 Horsens      1-3 Brøndby
 [Apr 6]
@@ -270,7 +270,7 @@ København    0-2 Midtjylland
 [Apr 7]
 AGF          0-0 Viborg   
 
-Round 24
+Round: 24
 [Apr 12]
 Brøndby      2-1 Esbjerg   
 [Apr 13]
@@ -281,7 +281,7 @@ OB           0-0 København
 [Apr 14]
 Viborg       1-3 Horsens   
 
-Round 25
+Round: 25
 [Apr 19]
 Randers      2-1 København    
 [Apr 20]
@@ -292,7 +292,7 @@ Brøndby      0-2 OB
 [Apr 21]
 Esbjerg      1-1 AaB
 
-Round 26
+Round: 26
 [Apr 23]
 Lyngby       2-2 Brøndby      
 OB           1-0 Viborg       
@@ -302,7 +302,7 @@ København    1-1 AGF
 Nordsjælland 3-2 Esbjerg      
 AaB          3-0 Randers      
 
-Round 27
+Round: 27
 [Apr 26]
 Midtjylland  1-1 Brøndby      
 [Apr 27]
@@ -313,7 +313,7 @@ København    2-1 Esbjerg
 [Apr 28]
 AaB          1-0 Horsens      
 
-Round 28
+Round: 28
 [May 3]
 AGF          0-2 OB
 [May 4]
@@ -324,7 +324,7 @@ Viborg       0-1 AaB
 [May 5]
 Horsens      3-2 København    
 
-Round 29
+Round: 29
 [May 7]
 Midtjylland  2-1 Randers
 OB           1-1 Esbjerg
@@ -334,7 +334,7 @@ AaB          3-1 AGF
 Lyngby       4-1 Horsens
 Nordsjælland 1-2 København    
 
-Round 30
+Round: 30
 [May 11]
 Horsens      2-2 OB
 AGF          1-1 Brøndby 
@@ -344,7 +344,7 @@ Esbjerg      3-2 Midtjylland
 Viborg       3-2 Lyngby
 København    4-0 AaB
 
-Round 31 [May 15]
+Round: 31 [May 15]
 Midtjylland  3-1 OB
 København    3-0 Viborg
 Nordsjælland 0-0 Lyngby
@@ -352,7 +352,7 @@ Randers      0-0 Horsens
 Esbjerg      0-1 AGF
 AaB          2-0 Brøndby 
 
-Round 32 [May 18]
+Round: 32 [May 18]
 OB           1-1 Nordsjælland 
 Viborg       0-1 Randers
 Horsens      3-1 Esbjerg
@@ -360,7 +360,7 @@ Midtjylland  3-2 AGF
 Lyngby       0-2 AaB
 Brøndby      2-1 København  
 
-Round 33 [May 24]
+Round: 33 [May 24]
 København    3-1 Lyngby
 Esbjerg      2-1 Viborg 
 Nordsjælland 0-3 Midtjylland

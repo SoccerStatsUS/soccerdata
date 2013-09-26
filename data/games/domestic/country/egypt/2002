@@ -2,30 +2,26 @@ Competition: Egyptian Premier League
 Season: 2002-2003
 BlockSource: http://rsssf.com/tablese/egy03.html
 
-Egypt 2002/03
+* 1.Zamalek (Cairo)              26 21  4  1  57-10  67  Champions
+* 2.Al Ahly (Cairo)              26 21  3  2  53-13  66
+* 3.Ismaily (Ismailiya)          26 13  7  6  35-22  46
+* 4.ENPPI (Cairo)                26 11  9  6  33-19  42  [Petroleum]
+* 5.Haras Al-Hodoud (Alexandria) 26 11  8  7  30-21  41  [aka Border Guards]
+* 6.Al Masry (Port Said)         26  9  6 11  22-26  33
+* 7.Ghazl Al-Mehalla             26  7 10  9  22-25  31
+* 8.Baladiyyat Al-Mehalla        26  8  7 11  21-29  31
+* 9.Ittihad (Alexandria)         26  9  4 13  24-36  31
+*10.Al Tersana (Cairo)           26  8  6 12  32-43  30  [aka Arsenal]
+*11.Mansoura (Mansoura)          26  7  8 11  20-26  29
+*------------------------------------------------------
+*12.Mokawloon al-Arab (Cairo)    26  5 13  8  23-25  28  Relegated  [aka Arab Contractors]
+*13.Goldy (Fayoom)               26  4  4 18  19-43  16  Relegated
+*14.Aswan                        26  2  3 21  15-68   9  Relegation Playoff
 
-Final Table:
+*NB: Aswan will play Sohag (best 2nd level team from Upper Egypt) to
+*    decide the Upper Egypt representative 2003/04.
 
- 1.Zamalek (Cairo)              26 21  4  1  57-10  67  Champions
- 2.Al Ahly (Cairo)              26 21  3  2  53-13  66
- 3.Ismaily (Ismailiya)          26 13  7  6  35-22  46
- 4.ENPPI (Cairo)                26 11  9  6  33-19  42  [Petroleum]
- 5.Haras Al-Hodoud (Alexandria) 26 11  8  7  30-21  41  [aka Border Guards]
- 6.Al Masry (Port Said)         26  9  6 11  22-26  33
- 7.Ghazl Al-Mehalla             26  7 10  9  22-25  31
- 8.Baladiyyat Al-Mehalla        26  8  7 11  21-29  31
- 9.Ittihad (Alexandria)         26  9  4 13  24-36  31
-10.Al Tersana (Cairo)           26  8  6 12  32-43  30  [aka Arsenal]
-11.Mansoura (Mansoura)          26  7  8 11  20-26  29
-------------------------------------------------------
-12.Mokawloon al-Arab (Cairo)    26  5 13  8  23-25  28  Relegated  [aka Arab Contractors]
-13.Goldy (Fayoom)               26  4  4 18  19-43  16  Relegated
-14.Aswan                        26  2  3 21  15-68   9  Relegation Playoff
-
-NB: Aswan will play Sohag (best 2nd level team from Upper Egypt) to
-    decide the Upper Egypt representative 2003/04.
-
-Round 1 [Sep 23]
+Round: 1 [Sep 23]
 Zamalek     3-0 Masry
   [Abdulhalim Ali 43, 47, Mohamed Abdulwahed 88]
 Tersana     1-2 Ismaily 
@@ -41,7 +37,7 @@ H Hodoud    0-1 Ahly
 Aswan       0-3 G Mehalla 
   [Hossam Abdulal 20, Tamer Abdulhakim 30, Ekrami Abdulaziz 90]
 
-Round 2
+Round: 2
 [Sep 27]
 Ittihad     0-1 Zamalek
   [Hossam Hassan 29]
@@ -58,7 +54,7 @@ Masry       1-1 Tersana
 Ismaily     3-0 Aswan
   [Islam Al-Shater 38pen, Mohamed Barakat 52, Amrou Fahim 60]
 
-Round 3 
+Round: 3 
 [Oct 10]
 B Mehalla   1-0 Ismaily
   [Abdulaziz Ragab 90]
@@ -76,7 +72,7 @@ Mansoura    1-1 Mokawloon
 Ahly        1-0 Ittihad
   [Khaled Bibo 70]
 
-Round 4
+Round: 4
 [Oct 17]
 Ismaily     1-0 ENPPI
   [Mohamed Salah Abou-Greyshah 25]
@@ -95,7 +91,7 @@ Masry       1-0 B Mehalla
 Zamalek     5-0 Aswan
   [Hossam Hassan 8, 59, Abdulhalim Ali 11, 90, Walid Abdullatif 73]
 
-Round 5
+Round: 5
 [Oct 22]
 Ahly        2-0 Goldy
   [Ala'a Ibrahim 40, Ahmed Bilal 63]
@@ -113,7 +109,7 @@ Aswan       2-5 Tersana
 Mansoura    0-0 G Mehalla
 Mokawloon   0-0 Ittihad
 
-Round 6
+Round: 6
 [Nov 1]
 Ismaily     0-0 Mansoura
 Goldy       0-2 Mokawloon
@@ -132,7 +128,7 @@ G Mehalla   2-3 Ahly
 [Dec 26]
 Zamalek     1-1 ENPPI
 
-Round 7
+Round: 7
 [Nov 7]
 ENPPI       5-1 Tersana
   [Sayyed Abdulnahim 21, Magdi Abdulati 45, 82, Samir Sabry 71, 
@@ -150,7 +146,7 @@ B Mehalla   2-0 Aswan
 Mansoura    1-2 Masry 
   [Omar Fathi 32; Hassan Moussa 45, Mohamed Shawqi 60]
 
-Round 8
+Round: 8
 [Nov 12]
 Tersana     1-0 H Hodoud
 Aswan       1-4 ENPPI
@@ -161,7 +157,7 @@ Ismaily     2-1 Mokawloon
 [Jan 25]
 Zamalek     3-0 Mansoura
 
-Round 9
+Round: 9
 [Nov 24]
 ENPPI       4-0 B Mehalla
 [Nov 28]
@@ -174,7 +170,7 @@ H Hodoud    2-0 Aswan
 [Jan 30]
 Ahly        2-2 Zamalek
 
-Round 10
+Round: 10
 [Dec 5]
 Tersana     0-4 Ahly
 [Dec 6]
@@ -186,7 +182,7 @@ Aswan       0-1 Mansoura
 [Feb 24]
 Zamalek     2-0 Mokawloon
 
-Round 11
+Round: 11
 [Dec 30]
 Goldy       0-2 Zamalek
 [Jan 2]
@@ -198,7 +194,7 @@ Ismaily     2-0 Ittihad
 Mokawloon   2-0 Tersana
 Ahly        1-0 Aswan
 
-Round 12
+Round: 12
 [Jan 6]
 ENPPI       1-1 Mansoura
 H Hodoud    2-1 Ittihad
@@ -209,7 +205,7 @@ Tersana     3-0 Goldy
 Aswan       0-2 Mokawloon
 B Mehalla   0-4 Ahly
 
-Round 13
+Round: 13
 [Jan 10]
 Goldy       3-0 Aswan
 Ittihad     2-1 Masry
@@ -220,7 +216,7 @@ Mokawloon   1-1 B Mehalla
 [Jan 11]
 Ismaily     1-3 Zamalek
 
-Round 14 [Feb 3]
+Round: 14 [Feb 3]
 Goldy       1-1 B Mehalla
 Masry       0-1 Zamalek
 Ismaily     2-0 Tersana
@@ -229,7 +225,7 @@ Mokawloon   0-1 ENPPI
 Ittihad     2-1 Mansoura
 Ahly        1-0 H Hodoud
 
-Round 15
+Round: 15
 [Feb 7]
 Tersana     1-0 Masry
 B Mehalla   0-1 G Mehalla
@@ -240,7 +236,7 @@ Mansoura    0-1 Ahly
 [Mar 17]
 Zamalek     5-0 Ittihad
 
-Round 16 [Feb 16]
+Round: 16 [Feb 16]
 Zamalek     1-0 Tersana
 Masry       2-0 Aswan
 Ismaily     4-1 B Mehalla
@@ -249,7 +245,7 @@ Goldy       0-1 H Hodoud
 Mokawloon   0-0 Mansoura
 Ittihad     0-3 Ahly
 
-Round 17
+Round: 17
 [Feb 20]
 Ahly        0-0 Mokawloon
 Aswan       0-3 Zamalek
@@ -260,7 +256,7 @@ ENPPI       1-2 Ismaily
 H Hodoud    1-1 G Mehalla
 Mansoura    1-0 Goldy
 
-Round 18
+Round: 18
 [Feb 27]
 Ismaily     2-0 H Hodoud
 G Mehalla   1-0 Mansoura
@@ -271,7 +267,7 @@ Masry       1-0 ENPPI
 Ittihad     0-0 Mokawloon
 Goldy       0-2 Ahly
 
-Round 19
+Round: 19
 [Mar 3]
 Mansoura    0-0 Ismaily
 [Mar 4]
@@ -283,7 +279,7 @@ ENPPI       0-0 Zamalek
 [Mar 5]
 Mokawloon   3-0 Goldy
 
-Round 20
+Round: 20
 [Mar 8]
 Tersana     0-0 ENPPI
 Aswan       1-0 B Mehalla
@@ -294,7 +290,7 @@ Zamalek     1-1 H Hodoud
 G Mehalla   0-0 Mokawloon
 Ittihad     2-0 Goldy
 
-Round 21
+Round: 21
 [Mar 13]
 Mansoura    0-1 Zamalek
 B Mehalla   0-2 Ittihad
@@ -305,7 +301,7 @@ Goldy       1-1 G Mehalla
 H Hodoud    6-2 Tersana
 Ahly        2-0 Masry
 
-Round 22 [Apr 19]
+Round: 22 [Apr 19]
 B Mehalla   1-1 ENPPI
 Tersana     1-2 Mansoura 
 Ismaily     2-2 Goldy 
@@ -314,7 +310,7 @@ Masry       1-0 Mokawloon
 Ittihad     1-0 G Mehalla 
 Zamalek     3-1 Ahly 
 
-Round 23 [May 4]
+Round: 23 [May 4]
 Mokawloon   0-3 Zamalek
 Goldy       2-0 Masry
 ENPPI       1-0 Ittihad
@@ -323,7 +319,7 @@ H Hodoud    0-0 B Mehalla
 Ahly        2-0 Tersana
 G Mehalla   0-1 Ismaily
 
-Round 24 [May 8]
+Round: 24 [May 8]
 Masry       0-1 G Mehalla
 Zamalek     4-2 Goldy
 Tersana     2-2 Mokawloon
@@ -332,7 +328,7 @@ ENPPI       1-0 H Hodoud
 Ittihad     4-1 Ismaily
 Aswan       0-5 Ahly
 
-Round 25 [May 12]
+Round: 25 [May 12]
 Ahly        1-0 B Mehalla
 Ismaily     3-2 Masry
 G Mehalla   0-3 Zamalek
@@ -341,7 +337,7 @@ Mokawloon   5-0 Aswan
 Mansoura    2-1 ENPPI
 Ittihad     3-1 H Hodoud
 
-Round 26 [May 23]
+Round: 26 [May 23]
 Masry       0-1 Ittihad
 Zamalek     1-0 Ismaily
 Tersana     1-0 G Mehalla
@@ -350,114 +346,28 @@ B Mehalla   4-1 Mokawloon
 ENPPI       1-0 Ahly
 H Hodoud    2-0 Mansoura
 
-Final Table:
+* 1.Zamalek (Cairo)              26 21  4  1  57-10  67  Champions
+* 2.Al Ahly (Cairo)              26 21  3  2  53-13  66
+* 3.Ismaily (Ismailiya)          26 13  7  6  35-22  46
+* 4.ENPPI (Cairo)                26 11  9  6  33-19  42  [Petroleum]
+* 5.Haras Al-Hodoud (Alexandria) 26 11  8  7  30-21  41  [aka Border Guards]
+* 6.Al Masry (Port Said)         26  9  6 11  22-26  33
+* 7.Ghazl Al-Mehalla             26  7 10  9  22-25  31
+* 8.Baladiyyat Al-Mehalla        26  8  7 11  21-29  31
+* 9.Ittihad (Alexandria)         26  9  4 13  24-36  31
+*10.Al Tersana (Cairo)           26  8  6 12  32-43  30  [aka Arsenal]
+*11.Mansoura (Mansoura)          26  7  8 11  20-26  29
+*------------------------------------------------------
+*12.Mokawloon al-Arab (Cairo)    26  5 13  8  23-25  28  Relegated  [aka Arab Contractors]
+*13.Goldy (Fayoom)               26  4  4 18  19-43  16  Relegated
+*14.Aswan                        26  2  3 21  15-68   9  Relegation Playoff
 
- 1.Zamalek (Cairo)              26 21  4  1  57-10  67  Champions
- 2.Al Ahly (Cairo)              26 21  3  2  53-13  66
- 3.Ismaily (Ismailiya)          26 13  7  6  35-22  46
- 4.ENPPI (Cairo)                26 11  9  6  33-19  42  [Petroleum]
- 5.Haras Al-Hodoud (Alexandria) 26 11  8  7  30-21  41  [aka Border Guards]
- 6.Al Masry (Port Said)         26  9  6 11  22-26  33
- 7.Ghazl Al-Mehalla             26  7 10  9  22-25  31
- 8.Baladiyyat Al-Mehalla        26  8  7 11  21-29  31
- 9.Ittihad (Alexandria)         26  9  4 13  24-36  31
-10.Al Tersana (Cairo)           26  8  6 12  32-43  30  [aka Arsenal]
-11.Mansoura (Mansoura)          26  7  8 11  20-26  29
-------------------------------------------------------
-12.Mokawloon al-Arab (Cairo)    26  5 13  8  23-25  28  Relegated  [aka Arab Contractors]
-13.Goldy (Fayoom)               26  4  4 18  19-43  16  Relegated
-14.Aswan                        26  2  3 21  15-68   9  Relegation Playoff
-
-NB: Aswan will play Sohag (best 2nd level team from Upper Egypt) to
-    decide the Upper Egypt representative 2003/04.
-
-Relegation Playoff
-
-First Leg
-Sohag       0-1 Aswan
-
-Second Leg
-Aswan       3-0 Sohag
-
-Aswan remain at 1st level
+*NB: Aswan will play Sohag (best 2nd level team from Upper Egypt) to
+*    decide the Upper Egypt representative 2003/04.
 
 
-Cup 2002/03
-
-
-Round 1
-Ismaily             1-1 2-1 Sohag
-Domiat              1-1 1-0 Aswan
-Abou Kebeer YC      0-0 1-2 Tersana
-Desouk              0-5 0-0 Mansoura
-Menouf              0-1 0-2 Goldy
-Koroum              0-0 2-1 Sharquia
-Shams               1-1 0-1 Ghazl Mehalla
-Zamalek             0-0 3-2 Banha
-Baladia Mehalla     4-1 w/o Menyet El-Nasr
-Petrojet            0-2 1-1 Masry
-ENPPI               4-1 3-0 Sekka
-Itesalat            0-0 0-1 Mokawloon
-Ittihad             1-0 1-0 Bani Ebaid
-Bani Suef           1-5 2-5 H Hodoud
-Tanta               3-0 1-1 Damanhour
-Ahly                1-0 5-0 Olympic
-
-Round 2 [Jan 15,16 and 20,21]
-Domiat              2-2 0-2 Ismaily
-Mansoura            1-2 1-3 Tersana
-Koroum              2-2 1-3 Goldy
-Zamalek             1-0 3-2 Ghazl Mehalla
-Masry               0-1 0-1 Baladia Mehalla
-Mokawloon           0-1 0-0 ENPPI
-H Hodoud            1-1 0-0 Ittihad
-Ahly                1-1 4-0 Tanta
-
-Quarterfinals 
-[May 26]
-Goldy                 2-2   Zamalek            [aet, 4-2 pen; in Alexandria]
-Baladia Mehalla       1-0   ENPPI              [in Banha]
-[May 27]
-Ismaily               1-0   Tersana            [in Mansoura]
-Ittihad               0-1   Ahly               [in Mehalla]
-
-Semifinals 
-[Jun 25]
-Ismaily               3-0   Goldy
-  [Mohamed Muhsin Abou-Greyshah 15, 75, Hamam Ibrahim 82]
-[Jun 26]
-Baladia Mehalla       0-2   Ahly
-  [Ahmed Bilal 79pen, Gilberto Santos 90]
-
-Final [Jun 30, Cairo Stadium]
-Ismaily               1-1   Ahly               [aet, 3-4 pen]
-  [Mohamed Muhsin Abou-Greyshah 116; Khaled Bebo 114]
-
-
-Super Cup [Aug 28]
-Ahly                  0-0   Zamalek            [3-1 pen]
-
-
-
-2001/02
-
-
-2003/04
-
-
-list of champions
-
-
-list of cup winners
-
-
-
-About this document
-
-Prepared and maintained by Mohamed S. Chbaro and Tarek Said for the Rec.Sport.Soccer Statistics Foundation
-
-Authors: Mohamed S. Chbaro (sp_editor@terra.net.lb) and Tarek Said (tsaid3@yahoo.com) 
-Last updated: 7 Sep 2007
-
-(C) Copyright Mohamed S. Chbaro, Tarek Said and RSSSF 2002/07
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.
+*Prepared and maintained by Mohamed S. Chbaro and Tarek Said for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Mohamed S. Chbaro (sp_editor@terra.net.lb) and Tarek Said (tsaid3@yahoo.com) 
+*Last updated: 7 Sep 2007
+*(C) Copyright Mohamed S. Chbaro, Tarek Said and RSSSF 2002/07
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

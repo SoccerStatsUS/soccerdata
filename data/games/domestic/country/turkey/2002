@@ -22,7 +22,7 @@ Competition: Super Lig
 *17.Göztepe SHTAS Izmir        34  5 11 18 32-57 26  Relegated
 *18.Kocaelispor K Izmit        34  6  4 24 32-66 22  Relegated
 
-Round 1
+Round: 1
 [Aug 9]
 Trabzonspor       0-0 Fenerbahçe
 [Aug 10]
@@ -44,7 +44,7 @@ Gaziantepspor     1-1 Denizli
 Kocaelispor       1-3 Gençlerbirligi
   [Alexander Alexandrov 60; Tomasz Zdebel 21-pen, Mustafa Gürsel 44,69]
 
-Round 2
+Round: 2
 [Aug 16]
 Denizli          1-3 Galatasaray
   [Mustafa Özkan 88; Arif Erdem 46,83, Adama Sarr 86]
@@ -70,7 +70,7 @@ Altay            4-2 Göztepe
 Fenerbahçe       1-0 Ankaragücü
   [Washington 41]
 
-Round 3
+Round: 3
 [Aug 24]
 Göztepe          1-4 Adanaspor
   [Zafer Biryol 84; Senol Yavas 43-own, Necati Ates 68,82, Murat Bölükbas 89]
@@ -92,7 +92,7 @@ Galatasaray      2-0 Bursaspor
 [Sep 11]
 Gaziantepspor    3-3 Fenerbahçe 
 
-Round 4
+Round: 4
 [Aug 30]
 Besiktas         2-0 Diyarbakirspor
   [Daniel Pancu 37, Tayfur Havutçu 60]
@@ -116,7 +116,7 @@ Gençlerbirligi   3-1 Göztepe
 Samsunspor       1-2 Istanbulspor
   [Celil Sagir 17; Uche Okechukwu 75, Cenk Isler 86]
 
-Round 5
+Round: 5
 [Sep 13]
 Galatasaray      2-0 Kocaelispor
   [Arif Erdem 6, Felipe 30]
@@ -139,7 +139,7 @@ Gaziantepspor    2-1 Altay
 Göztepe          2-2 Besiktas
   [Ercan Agaçe 24, Zafer Biryol 72; Ahmet Dursun 9, Sergen Yalcin 44]
 
-Round 6
+Round: 6
 [Sep 21]
 Elazigspor       2-1 Malatyaspor
   [Hüseyin Yenikan 70, 84; Sertan Eser 52]
@@ -159,7 +159,7 @@ Kocaelispor    0-1 Istanbulspor
 [Nov 6]
 Fenerbahçe       6-0 Galatasaray
 
-Round 7
+Round: 7
 [Sep 27]
 Galatasaray      2-0 Istanbulspor
   [Bülent Korkmaz 15, Ümit Karan 37]
@@ -184,7 +184,7 @@ Fenerbahçe        4-2 Elazigspor
 Gaziantepspor      2-0 Gençlerbirligi
   [Maxim Romaschenko 37, 74]
 
-Round 8
+Round: 8
 [Oct 5]
 Elazigspor       0-0 Galatasaray
 Istanbulspor     1-0 Diyarbakirspor
@@ -197,7 +197,7 @@ Gençlerbirligi   0-0 Denizli
 Kocaeli          1-3 Göztepe
 Samsunspor       1-0 Ankaragücü
 
-Round 9
+Round: 9
 [Oct 18]
 Fenerbahçe       1-1 Adanaspor
 [Oct 19]
@@ -211,7 +211,7 @@ Ankaragücü       4-0 Bursaspor
 Denizli          1-2 Besiktas
 Trabzonspor      2-0 Kocaelispor
 
-Round 10
+Round: 10
 [Oct 25]
 Besiktas         3-0 Malatyaspor
 [Oct 26]
@@ -225,7 +225,7 @@ Bursaspor        1-1 Gaziantepspor
 Diyarbakirspor   1-0 Göztepe
 Gençlerbirligi   1-1 Fenerbahçe
 
-Round 11
+Round: 11
 [Nov 1]
 Trabzonspor      3-0 Diyarbakirspor
 [Nov 2]
@@ -240,7 +240,7 @@ Denizli          2-2 Bursaspor
 [Feb 2]
 Fenerbahçe       0-1 Besiktas
 
-Round 12
+Round: 12
 [Nov 8]
 Besiktas         3-1 Elazigspor
 [Nov 9]
@@ -254,7 +254,7 @@ Gençlerbirligi   1-0 Altay
 Kocaelispor      2-1 Denizli
 Samsunspor       1-3 Fenerbahçe  
 
-Round 13
+Round: 13
 [Nov 16]
 Adanaspor        2-7 Gençlerbirligi 
 Ankaragücü       1-0 Göztepe
@@ -267,7 +267,7 @@ Malatyaspor      2-1 Kocaelispor
 Altay            0-1 Besiktas
 Fenerbahçe       7-1 Bursaspor
 
-Round 14
+Round: 14
 [Nov 23]
 Diyarbakirspor   0-0 Denizli
 Istanbulspor     0-0 Malatyaspor
@@ -280,7 +280,7 @@ Bursaspor        1-1 Elazigspor
 Samsunspor       2-4 Altay
 Gençlerbirligi   1-0 Galatasaray
 
-Round 15
+Round: 15
 [Nov 29]
 Fenerbahçe       2-0 Istanbulspor
 [Nov 30]
@@ -294,7 +294,7 @@ Adanaspor        1-1 Samsunspor
 Besiktas         1-1 Gençlerbirligi
 Denizli          0-0 Göztepe
 
-Round 16
+Round: 16
 [Dec 7]
 Kocaelispor      3-0 Altay
 Istanbulspor     2-1 Elazigspor
@@ -307,7 +307,7 @@ Samsunspor       2-7 Gençlerbirligi
 Bursaspor        3-0 Adanaspor
 Galatasaray      0-1 Besiktas          
 
-Round 17
+Round: 17
 [Dec 13]
 Gaziantepspor    1-2 Galatasaray
 [Dec 14]
@@ -322,7 +322,7 @@ Besiktas         2-0 Samsunspor
 [Jan 28]
 Denizli          2-1 Ankaragücü
 
-Round 18
+Round: 18
 [Dec 21]
 Adanaspor        0-3 Istanbulspor
 Besiktas         1-0 Bursaspor
@@ -336,7 +336,7 @@ Denizli          1-0 Gaziantepspor
 Elazigspor       0-0 Göztepe
 Malatyaspor      3-1 Ankaragücü
 
-Round 19 
+Round: 19 
 [Feb 8]
 Gaziantepspor    3-0 Malatyaspor
 Göztepe          0-2 Altay
@@ -350,7 +350,7 @@ Trabzonspor      1-1 Elazigspor
 [Mar 19]
 Galatasaray      0-1 Denizli
 
-Round 20
+Round: 20
 [Feb 15]
 Malatyaspor      2-1 Denizli
 Samsunspor       1-0 Kocaelispor
@@ -363,7 +363,7 @@ Altay            1-4 Trabzonspor
 Besiktas         2-1 Istanbulspor
 Bursaspor        0-4 Galatasaray
 
-Round 21
+Round: 21
 [Feb 22]
 Göztepe          0-0 Gençlerbirligi  
 Trabzonspor      3-1 Adanaspor
@@ -378,7 +378,7 @@ Kocaelispor      0-0 Bursaspor
 Diyarbakirspor   1-0 Besiktas
 Denizli          1-1 Fenerbahçe
 
-Round 22
+Round: 22
 [Feb 28]
 Fenerbahçe       2-0 Malatyaspor
 [Mar 1]
@@ -392,7 +392,7 @@ Elazigspor       0-2 Denizli
 Samsunspor       3-1 Diyarbakirspor
 Besiktas         7-3 Göztepe
 
-Round 23
+Round: 23
 [Mar 7]
 Gaziantepspor    1-1 Adanaspor
 [Mar 8]
@@ -406,7 +406,7 @@ Istanbulspor     2-1 Kocaelispor
 Ankaragücü       0-1 Gençlerbirligi 
 Trabzonspor      1-1 Besiktas
 
-Round 24
+Round: 24
 [Mar 14]
 Gençlerbirligi   2-1 Gaziantepspor
 [Mar 15]
@@ -420,7 +420,7 @@ Bursaspor        1-0 Göztepe
 Kocaelispor      1-1 Diyarbakirspor
 Besiktas         1-0 Ankaragücü
 
-Round 25
+Round: 25
 [Mar 22]
 Ankaragücü       3-2 Samsunspor
 Diyarbakirspor   1-1 Istanbulspor
@@ -433,7 +433,7 @@ Trabzonspor      3-0 Bursaspor
 Gaziantepspor    1-1 Besiktas
 Galatasaray      3-0 Elazigspor
 
-Round 26
+Round: 26
 [Apr 5]
 Gençlerbirligi   3-0 Malatyaspor
 Kocaelispor      2-2 Trabzonspor
@@ -446,7 +446,7 @@ Istanbulspor     3-1 Göztepe
 Diyarbakirspor   1-3 Galatasaray
 Adanaspor        3-1 Fenerbahçe   
 
-Round 27
+Round: 27
 [Apr 11]
 Galatasaray      5-0 Altay
 [Apr 12]
@@ -460,7 +460,7 @@ Gaziantepspor    2-1 Bursaspor
 Trabzonspor      0-0 Istanbulspor
 Fenerbahçe       3-3 Gençlerbirligi 
 
-Round 28
+Round: 28
 [Apr 18]
 Göztepe          0-1 Galatasaray
 [Apr 19]
@@ -474,7 +474,7 @@ Bursaspor        2-0 Denizli
 Kocaelispor      0-3 Gaziantepspor
 Besiktas         2-0 Fenerbahçe
 
-Round 29
+Round: 29
 [Apr 26]
 Elazigspor       0-1 Besiktas
 Ankaragücü       3-1 Diyarbakirspor
@@ -487,7 +487,7 @@ Malatyaspor      4-2 Bursaspor
 Trabzonspor      0-0 Göztepe
 Galatasaray      2-2 Adanaspor
 
-Round 30
+Round: 30
 [May 3]
 Bursaspor        2-1 Fenerbahçe 
 Gençlerbirligi   0-2 Adanaspor
@@ -500,7 +500,7 @@ Göztepe          0-1 Ankaragücü
 Kocaelispor      2-3 Malatyaspor
 Trabzonspor      1-2 Galatasaray
 
-Round 31
+Round: 31
 [May 9]
 Fenerbahçe       1-0 Kocaelispor
 [May 10]
@@ -514,7 +514,7 @@ Gaziantepspor    3-1 Göztepe
 Malatyaspor      1-2 Istanbulspor
 Galatasaray      1-1 Gençlerbirligi  
 
-Round 32
+Round: 32
 [May 16]
 Trabzonspor      2-1 Gaziantepspor
 [May 17]
@@ -527,7 +527,7 @@ Galatasaray      3-0 Ankaragücü
 Diyarbakirspor   1-1 Malatyaspor
 Gençlerbirligi   1-2 Besiktas
 
-Round 33 [May 25]
+Round: 33 [May 25]
 Adanaspor        2-2 Bursaspor
 Altay            5-0 Kocaelispor
 Denizli          1-1 Trabzonspor
@@ -538,7 +538,7 @@ Gençlerbirligi   1-1 Samsunspor
 Malatyaspor      4-1 Göztepe
 Besiktas         1-0 Galatasaray
 
-Round 34
+Round: 34
 [May 30]
 Galatasaray      2-1 Gaziantepspor
 [May 31]

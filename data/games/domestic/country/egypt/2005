@@ -18,7 +18,7 @@ Competition: Egyptian Premier League
 *13.Aluminium (Naja Hammadi)     26  6  7 13  16-36  25  Relegated
 *14.Koroum (Alexandria)          26  5  5 16  22-41  20  Relegated
 
-Round 1
+Round: 1
 [Aug 12]
 Assiut Cement 1-1 ENPPI 
   [Amr Allam 37; Magdi Abdel Aaty 45]
@@ -35,7 +35,7 @@ H Hodoud      0-0 Masry
 Ahly          2-0 Koroum  
  [Gilberto Sebastiao 45+4, Emad Moteab 68]
 
-Round 2
+Round: 2
 [Aug 25]
 Suez Cement   1-3 Zamalek 
   [Walid Aboul Ela 60; Tarek El-Sayed 33, Ahmed El-Bakry 72, Hazem Emam 90]
@@ -52,7 +52,7 @@ Jaish         2-0 Koroum
 Ahly          1-0 Assiut Cement  
   [Mohamed Aboutraika 59]
 
-Round 3 [Aug 30]
+Round: 3 [Aug 30]
 H Hodoud      1-1 Suez Cement 
   [Abdel Salam Farag 67; Yasser Ali 43]
 Assiut Cement 1-0 Jaish 
@@ -70,7 +70,7 @@ Ismaily       2-0 Ittihad
 ENPPI         2-1 Aluminium 
   [Amr Zaki 43, Mohamed Thabet Saroukh 67; Ashraf Abdel Wahab 75]
 
-Round 4
+Round: 4
 [Sep 15]
 Aluminium     0-2 Zamalek
   [El-Motaz Bellah Eano 16, 56]
@@ -88,7 +88,7 @@ Jaish         0-1 G Mehalla
 Mokawleen     1-2 H Hodoud
   [Amir Salah Zaki 23pen; Ahmed Ayoub 28pen, Abdel Salam Nagah 62]
 
-Round 5
+Round: 5
 [Sep 19]
 Ahly          1-0 Aluminium
   [Emad Moteab 45+2]
@@ -106,7 +106,7 @@ Koroum        3-0 Suez Cement
 Assiut Cement 1-0 Ittihad 
   [Mohamed Mahmoud 39]
 
-Round 6
+Round: 6
 [Oct 20]
 Ittihad       1-0 G Mehalla
   [Cherno Mansaria 88pen]
@@ -125,7 +125,7 @@ Zamalek       2-1 Ismaily
   [Moustafa Gaafar 6, El-Motaz Bellah Mohamed "Eano" 27; 
    Mohamed Abd Rabbou "Felix" 22]
 
-Round 7
+Round: 7
 [Oct 24]
 Koroum        0-3 Zamalek
   [Ibrahim Said 67, Moustafa Gaafar 79, Edson Rolando Silva Sousa 90+3]
@@ -145,7 +145,7 @@ ENPPI         1-1 Ittihad
 Ahly          2-0 Masry
   [Ahmed Aboumesallem 28; Osama Hosni 41]
 
-Round 8 
+Round: 8 
 [Nov 3]
 H Hodoud      2-0 Koroum
   [Mohamed Halim 43, Abdel Hamid Bassiouny 60]
@@ -164,7 +164,7 @@ Mokawloon     3-0 G Mehalla
 Aluminium     3-0 Ismaily
   [Moustafa Abbas 8, Ismail Francois 45, Ossama Ezz El-Din 75]
 
-Round 9
+Round: 9
 [Nov 11]
 Koroum        1-0 Ismaily
   [assem Abdel Sattar 83]
@@ -183,7 +183,7 @@ G Mehalla     0-1 Zamalek
 Ahly          4-0 Suez Cement
   [Emad El-Nahhas 15, Osama Hosni 23, Mohamed Barakat 52, 60pen]
 
-Round 10
+Round: 10
 [Nov 25]
 Suez Cement   0-4 Jaish
   [Walid Aslan 41, Gomaa Mashhour 78, Anwar Massoud 80, 90]
@@ -203,7 +203,7 @@ Mokawloon     1-3 Ahly
 Ismaily       4-0 Assiut Cement
   [El-Moatasem Salem 5, 64, Omar Gamal 38, Ahmed Fathi 76]
 
-Round 11
+Round: 11
 [Dec 2]
 G Mehalla     1-0 Ismaily
   [Ahmed Mohamadi 4]
@@ -220,7 +220,7 @@ Masry         2-2 Suez Cement
 [Mar 4]
 Ahly          0-0 Zamalek 
 
-Round 12
+Round: 12
 [Dec 8]
 Suez Cement   0-0 Ittihad
 Mokawloon     5-2 Masry
@@ -238,7 +238,7 @@ Zamalek       1-1 Jaish
 H Hodoud      0-1 Ahly
   [Mohamed Barakat 35]
 
-Round 13
+Round: 13
 [Dec 15]
 Jaish         2-0 H Hodoud
   [Hossam Abdel Al 41, Anwar Massoud 80]
@@ -259,7 +259,7 @@ Masry         3-1 Zamalek
 Ahly          2-0 Ismaily
   [Emad El-Nahhas 45pen, Wael Gomaa 90+1]
 
-Round 14 
+Round: 14 
 [Feb 18]
 Koroum        0-3 Ahly
   [Mohamed Abdel Wahab 7, Mohamed Aboutraika 78, 90]
@@ -277,7 +277,7 @@ ENPPI         1-0 Assiut Cement
 Masry         1-1 H Hodoud
   [Ossama Ragab 70; Morsi Abdel Latif 85]
 
-Round 15 
+Round: 15 
 [Feb 23]
 Zamalek       4-1 Suez Cement
   [Abdel Halim Ali 13, 18, 80, Youssef Hamdi 53; Adel Moustafa 60]
@@ -297,7 +297,7 @@ G Mehalla     2-2 ENPPI
 Assiut Cement 0-3 Ahly
   [Mohamed Aboutraika 48, 88, Hossam Ashour 90+3]
 
-Round 16 [Feb 28]
+Round: 16 [Feb 28]
 Suez Cement   0-4 H Hodoud
   [Hani Said 15, Ahmed Eid Abdel Malek 19, 33, Ahmed Abdel Ghani 23]
 Jaish         2-1 Assiut Cement
@@ -313,7 +313,7 @@ Aluminium     0-3 ENPPI
 Ahly          2-2 G Mehalla
   [Mohamed Aboutraika 54pen, 83pen; Ahmed Mohammadi 29, Hani Aboul Fadl 78]
 
-Round 17 
+Round: 17 
 [Mar 8]
 Zamalek       5-0 Aluminium
   [Gamal Hamza 7, Abdel Halim Ali 39, 81, Moustafa Gaafar 61,
@@ -332,7 +332,7 @@ ENPPI         0-1 Ahly
 Ismaily       2-0 Suez Cement
   [Youssef Gamal 89, 90+2]
 
-Round 18
+Round: 18
 [Mar 22]
 Zamalek       1-0 H Hodoud
   [El-Motaz Bellah Mohamed "Eano" 36]
@@ -351,7 +351,7 @@ Ittihad       1-0 Assiut Cement
 Aluminium     0-2 Ahly
   [Emad El-Nahhas 33pen, Mohamed Aboutraika 66]
 
-Round 19
+Round: 19
 [Mar 27]
 H Hodoud      2-0 Aluminium
   [bdel Hamid Bassiouny 18, Mohamed Mekki 69]
@@ -368,7 +368,7 @@ Koroum        3-1 Mokawloon
 ENPPI         3-0 Masry 
   [Magdi Atwa 45, Magdi Abdel Aaty 59pen, Foad Salama 90+3]
 
-Round 20
+Round: 20
 [Apr 7]
 Aluminium     1-1 Jaish
   [Ahmed Hassan 20; Anwar Massoud 55]
@@ -386,7 +386,7 @@ H Hodoud      2-1 Ismaily
 [May 1]
 Ittihad       0-0 ENPPI
 
-Round 21 
+Round: 21 
 [Apr 12]
 Assiut Cement 2-3 Zamalek
   [Amr Allam 29, Popa Mensoah 37; Gamal Hamza 16pen, Youssef Hamdi 22,
@@ -405,7 +405,7 @@ Koroum        2-1 H Hodoud
 Ismaily       2-0 Aluminium
   [Mohamed Salah Abougreshia 72, Mohamed Hommos 85]
 
-Round 22
+Round: 22
 [Apr 27]
 Ismaily       1-0 Koroum
   [Mohamed Hommos 49]
@@ -421,7 +421,7 @@ Ittihad       2-1 Jaish
 [Apr 28]
 Suez Cement   0-0 Ahly
 
-Round 23
+Round: 23
 [May 1]
 G Mehalla     2-0 H Hodoud
   [Reda Metwali 32, Ikrami Abdel Aziz 45]
@@ -440,7 +440,7 @@ Ahly          2-0 Mokawloon
 ENPPI         0-1 Zamalek
   [Mahmoud Mahmoud 40]
 
-Round 24 [May 14]
+Round: 24 [May 14]
 Ismaily       1-0 G Mehalla
   [Abdullah El-Said 74]
 H Hodoud      0-0 ENPPI
@@ -455,7 +455,7 @@ Suez Cement   1-0 Masry
 Zamalek       0-2 Ahly
   [Emad Moteab 7, Mohamed Aboutraika 10]
 
-Round 25 [May 18]
+Round: 25 [May 18]
 Jaish         1-4 Zamalek
   [Hossam Abdel Al 61; Wael El-Quabbani 37pen, Tarek El-Sayed 42,
    Gamal Hamza 54, Abdel Halim Ali 90]
@@ -473,7 +473,7 @@ Ahly          4-2 H Hodoud
   [Emad El-Nahhas 19pen, Mohamed Aboutraika 33, Emad Moteab 62,
    Hassan Moustafa 77; Abdel Hamid Bassiouny 45, Ahmed Abdel Ghani 60]
  
-Round 26 [May 22]
+Round: 26 [May 22]
 H Hodoud      3-2 Jaish
   [Abdel Hamid Bassiouny 4, Mohamed Mekki 21, Jefferson Carlos 87;
    Mamdouh Abdel Hai 89, 90]

@@ -19,7 +19,7 @@ Competition: Ekstraklasa
 *13.Lukullus/Swit Nowy Dwór      26  5  7 14 21-42 22  Relegated
 *14.Widzew Lódz                  26  4  7 15 25-52 19  Relegated
 
-Round 1
+Round: 1
 [Aug 8]
 Katowice      0-4 Groclin
   [Radoslaw Sobolewski 7, Sebastian Mila 45, Piotr Rocki 74,
@@ -41,7 +41,7 @@ Lech          1-2 Górnik Z
 Odra W        1-1 Legia
   [Marcin Nowacki 12; Tomasz Sokolowski I 43]
 
-Round 2
+Round: 2
 [Aug 15]
 Amica         1-0 Lech
   [Jacek Dembinski 90+2]
@@ -59,7 +59,7 @@ Groclin       4-0 Odra W
   [Radoslaw Sobolewski 19, Sebastian Mila 68, Andrzej Niedzelan 86pen,
    Grzegorz Rasiak 90]
 
-Round 3
+Round: 3
 [Aug 22]
 Wisla K       2-0 Górnik Z
   [Maciej Zurawski 66pen, Tomasz Frankowski 74]
@@ -78,7 +78,7 @@ Lech          4-1 Wisla P
 Polonia       0-1 Legia
   [Aleksandar Vukovic 73]
 
-Round 4
+Round: 4
 [Aug 29]
 Legia         2-1 Lech
   [Marek Saganowski 60, Kielbowicz 62; Artur Boruc 74og]
@@ -97,7 +97,7 @@ Groclin       2-2 Polonia
   [Andrzej Niedzielan 19, Wojciech Szymanek 24og; Dariusz Dzwigala 23,
    Maciej Nuckowski 69]
 
-Round 5
+Round: 5
 [Sep 12]
 Górnik P      0-0 Legia
 [Sep 13]
@@ -117,7 +117,7 @@ Górnik L      4-1 Katowice
   [Miroslaw Bugala 26, Grzegorz Skwara 35, Sylwester Czereszewski 51,
    Miroslaw Budka 88; Marcin Bojarski 85]
 
-Round 6
+Round: 6
 [Sep 19]
 Legia         4-1 Wisla K
   [Aleksandar Vukovic 52, Stanko Svitlica 53, Jacek Magiera 76, 
@@ -136,7 +136,7 @@ Odra W        2-0 Górnik L
 [Sep 21]
 Widzew        1-1 Lech
 
-Round 7
+Round: 7
 [Sep 26]
 Górnik Z      2-2 Legia
   [Krzysztof Bukalski 20pen, Adrian Sikora 50; Stanko Svitlica 7, 90]
@@ -156,7 +156,7 @@ Wisla K       3-2 Groclin
 Polonia       1-0 Odra W
   [Bartosz Tarachulski 38pen]
 
-Round 8
+Round: 8
 [Oct 3]
 Legia         3-1 Amica
   [Stanko Svitlica 77, 89, Marek Saganowski 90; Marek Zienczuk 34]
@@ -175,7 +175,7 @@ Górnik L      2-1 Polonia
 [Oct 5]
 Groclin       0-0 Górnik Z
 
-Round 9
+Round: 9
 [Oct 17]
 Lech          5-1 Górnik L
   [Piotr Reis 12pen, 37, 61, Bartosz Slusarski 89, Krzysztof Piskula 90;
@@ -199,7 +199,7 @@ Wisla K       5-0 Katowice
 Polonia       1-0 Swit
   [Maciej Nuckowski 53]
 
-Round 10
+Round: 10
 [Oct 24]
 Odra W        3-2 Wisla K
   [Mariusz Nosal 14, Radim Sablik 25, Marek Sokolowski 37; Piotr Brozek 54,
@@ -220,7 +220,7 @@ Swit          1-3 Legia
   [Marek Golebiewski 88; Marek Saganowski 4, Lukasz Surma 50,
    Stanko Svitlica 70]
 
-Round 11
+Round: 11
 [Oct 29]
 Górnik Z      3-1 Odra W
   [Dimitar Makriew 25, Adrian Sikora 53, Aco Stojkov 60; Lukasz Maslowski 63]
@@ -240,7 +240,7 @@ Wisla K       4-0 Górnik L
   [Mariusz Jop 6, Maciej Zurawski 33, Pawel Brozek 86,
    Cristiano Pereira da Souza Brasilia 89]
 
-Round 12
+Round: 12
 [Nov 7]
 Widzew        0-1 Legia
   [Stanko Svitlica 69]
@@ -261,7 +261,7 @@ Polonia       2-5 Wisla K
   [Wojciech Szymanek 62, Jaroslaw Mazurkiewicz 90; Maciej Stolarczyk 11,
    Pawel Brozek 23, Maciej Zurawski 29, 35pen, Mauro Cantoro 88]
 
-Round 13
+Round: 13
 [Nov 22]
 Legia         1-0 Katowice
   [Dariusz Dudek 7]
@@ -280,7 +280,7 @@ Wisla K       4-2 Lech
 Amica         3-2 Górnik L
   [Pawel Kryszalowicz 70, 73, 80; Piotr Soczewka 61, Grzegorz Skwara 83]
 
-Round 14
+Round: 14
 [Mar 12]
 Legia         2-1 Odra W
   [Saganowski 4pen, Magiera 77; Kwiek 82pen]
@@ -297,7 +297,7 @@ Groclin       6-0 Katowice
 [Mar 24]
 Górnik Z      0-0 Lech
 
-Round 15
+Round: 15
 [Mar 19]
 Lech          0-0 Amica
 [Mar 20]
@@ -315,7 +315,7 @@ Odra W        0-2 Groclin
 Górnik L      0-3 Legia
   [Wlodarczyk 5, Saganowski 57, 85]
 
-Round 16
+Round: 16
 [Mar 27]
 Legia         7-2 Polonia
   [Marek Saganowski 12, 20, 35, Piotr Wlodarczyk 15, Lukasz Surma 23,
@@ -339,7 +339,7 @@ Groclin       4-0 Górnik L
   [Tomasz Moskala 35, Marcin Zajac 45, Grzegorz Rasiak 62,
    Bartosz Slusarski 77]
 
-Round 17
+Round: 17
 [Apr 3]
 Lech          0-1 Legia
   [Piotr Wlodarczyk 54]
@@ -357,7 +357,7 @@ Odra W        1-0 Katowice
 Wisla K       2-1 Amica 
   [Tomasz Frankowski 88, Tomasz Klos 90+3; Marek Zienczuk 78]
 
-Round 18
+Round: 18
 [Apr 8]
 Legia         3-0 Górnik P
   [Marek Saganowski 11, Piotr Wlodarczyk 82, Lukasz Surma 89]
@@ -377,7 +377,7 @@ Wisla P       4-4 Wisla K
 Amica         2-0 Górnik Z
   [Remigiusz Sobocinski 24, Pawel Kryszalowicz 37]
 
-Round 19 
+Round: 19 
 [Apr 16]
 Górnik P      0-3 Groclin
   [Tomasz Moskala 15, Miroslav Drobnjak 38, Radim Sablik 54]
@@ -397,7 +397,7 @@ Górnik L      0-1 Odra W
 Lech          1-1 Widzew
   [Zbigniew Zakrzewski 40; Bartosz Lawa 42]
 
-Round 20 
+Round: 20 
 [Apr 23]
 Groclin       1-6 Wisla K
   [Miroslav Drobnjak 8; Tomasz Frankowski 3, 69, 73, Damian Gorawski 31,
@@ -418,7 +418,7 @@ Widzew        2-0 Górnik P
 Legia         2-0 Górnik Z
   [Tomasz Sokolowski I 12, Marek Saganowski 72]
 
-Round 21 
+Round: 21 
 [May 2]
 Wisla K       3-1 Widzew
   [Kalu Uche 47, Marcin Baszczynski 66, Piotr Brozek 90;
@@ -436,7 +436,7 @@ Lech          2-0 Odra W
 Polonia       3-0 Górnik L
   [Pawel Sobczak 20, Bartosz Tarachulski 24, Pawel Glowacki 89]
 
-Round 22
+Round: 22
 [May 7]
 Groclin       1-1 Amica
   [Bartosz Slusarski 34; Marek Zienczuk 75]
@@ -455,7 +455,7 @@ Legia         2-0 Wisla P
 Katowice      0-2 Wisla K
   [Damian Gorawski 5, Mauro Cantoro 90]
 
-Round 23
+Round: 23
 [May 14]
 Legia         3-1 Swit
   [Piotr Wlodarczyk 27, 73, 89pen; Branko Rasic 29]
@@ -475,7 +475,7 @@ Górnik P      2-0 Górnik L
 Wisla K       2-1 Odra W
   [Tomasz Frankowski 74, 77; Arkadiusz Glowacki (87og]
 
-Round 24
+Round: 24
 [May 21]
 Górnik L      0-1 Wisla K
   [Maciej Stolarczyk 45]
@@ -493,7 +493,7 @@ Groclin       2-2 Legia
 Widzew        2-1 Wisla P 
   [Radoslaw Becalik 27, Lukasz Maslowski 78; Klaudiusz Zabecki 20]
 
-Round 25 [Jun 8]
+Round: 25 [Jun 8]
 Groclin       3-1 Swit
   [Adrian Sikora 34, 43, Sebastian Mila 52; Karol Bilski 89]
 Legia         6-0 Widzew 
@@ -511,7 +511,7 @@ Wisla K       4-1 Polonia
 Górnik P      0-2 Lech
   [Zbigniew Wójcik 77, B.Telichowski 84]
 
-Round 26
+Round: 26
 [May 30]
 Odra W        1-2 Wisla P
   [Roman Madej 75; Ireneusz Jelen 17, 85]
