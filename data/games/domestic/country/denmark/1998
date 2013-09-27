@@ -1,5 +1,5 @@
 BlockSource: http://rsssf.com/tablesd/den99.html
-Season: 1998-199
+Season: 1998-1999
 Competition: Superligaen
 
 *No. Team                 G    W    D    L    Gf    Ga    P
@@ -18,314 +18,421 @@ Competition: Superligaen
 *11. Aarhus Fremad       33    7    8   18    51    73   29  Relegated
 *12. B 93                33    3    3   27    22    80   12  Relegated
 
-Round: 1 [Jul 26]:
-B 93          1-5 Brøndby IF
-Vejle BK      1-3 FC København
-Lyngby FC     0-0 Silkeborg IF
-AaB           4-0 AGF
-Aarhus Fremad 1-4 AB
-Viborg FF     0-3 Herfølge BK
+Round: 1 
+Dat: 7/26/1998
 
-Round: 2:
-[Aug 2]
-Herfølge BK   3-1 B 93
-AB            1-1 AaB
-AGF           1-0 Lyngby FC
-Silkeborg IF  1-0 Vejle BK
-FC København  3-2 Viborg FF
-[Aug 3]
-Brøndby IF    2-0 Aarhus Fremad
+; B 93         ; 1-5; Brøndby IF
+; Vejle BK     ; 1-3; FC København
+; Lyngby FC    ; 0-0; Silkeborg IF
+; AaB          ; 4-0; AGF
+; Aarhus Fremad; 1-4; AB
+; Viborg FF    ; 0-3; Herfølge BK
 
-Round: 3:
-[Aug 7]
-AaB           1-0 Brøndby IF
-Viborg FF     2-1 Silkeborg IF
-Vejle BK      3-0 AGF
-[Aug 9] (*)
-Aarhus Fremad 2-0 B 93
-Lyngby FC     0-3 AB
-FC København  0-3 Herfølge BK
+Round: 2
 
-Round: 4 [Aug 16]:
-Herfølge BK   3-1 Aarhus Fremad
-B 93          1-5 AaB
-Brøndby IF    2-3 Lyngby FC
-AB            0-1 Vejle BK
-AGF           3-2 Viborg FF
-Silkeborg IF  3-3 FC København
+Date: 8/2/1998
 
-Round: 5:
-[Aug 21]
-Brøndby IF    3-0 Silkeborg IF
-AaB           5-2 Vejle BK
-[Aug 23] 
-Lyngby FC     0-0 Herfølge BK
-Aarhus Fremad 3-1 Viborg FF
-B 93          0-0 FC København
-AB            1-1 AGF
+; Herfølge BK  ; 3-1; B 93
+; AB           ; 1-1; AaB
+; AGF          ; 1-0; Lyngby FC
+; Silkeborg IF ; 1-0; Vejle BK
+; FC København ; 3-2; Viborg FF
 
-Round: 6 [Aug 30]:
-FC København  1-0 Brøndby IF
-Viborg FF     5-0 B 93
-Vejle BK      4-2 Aarhus Fremad
-Lyngby FC     2-2 AaB
-Silkeborg IF  1-2 AB
-Herfølge BK   1-1 AGF
+Date: 8/3/1998
+
+; Brøndby IF   ; 2-0; Aarhus Fremad
+
+Round: 3
+Date: 8/7/1998
+
+; AaB          ; 1-0; Brøndby IF
+; Viborg FF    ; 2-1; Silkeborg IF
+; Vejle BK     ; 3-0; AGF
+
+Date: 8/9/1998
+
+; Aarhus Fremad; 2-0; B 93
+; Lyngby FC    ; 0-3; AB
+; FC København ; 0-3; Herfølge BK
+
+Round: 4 
+Date: 8/16/1998
+
+; Herfølge BK  ; 3-1; Aarhus Fremad
+; B 93         ; 1-5; AaB
+; Brøndby IF   ; 2-3; Lyngby FC
+; AB           ; 0-1; Vejle BK
+; AGF          ; 3-2; Viborg FF
+; Silkeborg IF ; 3-3; FC København
+
+Round: 5
+Date: 8/21/1998
+
+; Brøndby IF   ; 3-0; Silkeborg IF
+; AaB          ; 5-2; Vejle BK
+
+Date: 8/23/1998
+
+; Lyngby FC    ; 0-0; Herfølge BK
+; Aarhus Fremad; 3-1; Viborg FF
+; B 93         ; 0-0; FC København
+; AB           ; 1-1; AGF
+
+Round: 6 
+Date: 8/30/1998
+
+; FC København ; 1-0; Brøndby IF
+; Viborg FF    ; 5-0; B 93
+; Vejle BK     ; 4-2; Aarhus Fremad
+; Lyngby FC    ; 2-2; AaB
+; Silkeborg IF ; 1-2; AB
+; Herfølge BK  ; 1-1; AGF
 
 Round: 7
-[Sep 11]
-AGF           2-3 Silkeborg IF
-B 93          0-1 Vejle BK
-Brøndby IF    2-5 Viborg FF
-[Sep 13]
-Aarhus Fremad 1-2 Lyngby FC
-AB            4-1 FC København
-Herfølge BK   0-0 AaB
+Date: 9/11/1998
 
-Round: 8 [Sep 20]:
-Vejle BK      1-2 Brøndby IF
-Lyngby FC     2-1 B 93
-AaB           3-1 Aarhus Fremad
-FC København  0-2 AGF
-Viborg FF     0-1 AB
-Silkeborg IF  0-1 Herfølge BK
+; AGF          ; 2-3; Silkeborg IF
+; B 93         ; 0-1; Vejle BK
+; Brøndby IF   ; 2-5; Viborg FF
 
-Round: 9:
-[Sep 25]
-AGF           1-3 Brøndby IF
-Silkeborg IF  2-0 B 93
-Vejle BK      1-2 Lyngby FC
-[Sep 27]
-AB            1-0 Herfølge BK
-FC København  2-2 Aarhus Fremad
-Viborg FF     1-2 AaB
+Date: 9/13/1998
 
-Round: 10 [Oct 4]:
-Herfølge BK   2-2 Vejle BK
-Lyngby FC     2-3 Viborg FF
-AaB           3-3 FC København
-Aarhus Fremad 2-2 Silkeborg IF
-B 93          1-2 AGF
-Brøndby IF    0-1 AB
+; Aarhus Fremad; 1-2; Lyngby FC
+; AB           ; 4-1; FC København
+; Herfølge BK  ; 0-0; AaB
 
-Round: 11:
-[Oct 16]
-Brøndby IF    5-1 Herfølge BK
-[Oct 18]
-AB            7-0 B 93
-AGF           3-2 Aarhus Fremad
-Silkeborg IF  0-0 AaB
-FC København  5-1 Lyngby FC
-Vejle BK      4-0 Viborg FF
+Round: 8 
+Date: 9/20/1998
 
-Round: 12:
-[Oct 25]
-Viborg FF     2-4 Aarhus Fremad
-B 93          1-0 Brøndby IF
-AaB           4-2 Vejle BK
-Herfølge BK   2-3 FC København
-[Nov 3]
-Lyngby FC     3-2 AB
-[Nov 24]
-AGF           2-3 Silkeborg IF
+; Vejle BK     ; 1-2; Brøndby IF
+; Lyngby FC    ; 2-1; B 93
+; AaB          ; 3-1; Aarhus Fremad
+; FC København ; 0-2; AGF
+; Viborg FF    ; 0-1; AB
+; Silkeborg IF ; 0-1; Herfølge BK
 
-Round: 13:
-[Oct 30]
-Brøndby IF    2-1 Viborg FF
-[Nov 1] 
-Lyngby FC     1-1 AGF
-Silkeborg IF  1-1 Herfølge BK
-FC København  2-2 AaB
-Vejle BK      2-0 B 93
-[Nov 18]
-AB            1-0 Aarhus Fremad 
+Round: 9
+Date: 9/25/1998
 
-Round: 14 [Nov 8]:
-Herfølge BK   0-0 AGF
-AB            0-4 Brøndby IF
-Viborg FF     0-1 Vejle BK
-B 93          1-2 FC København
-AaB           2-4 Silkeborg IF
-Aarhus Fremad 2-4 Lyngby FC
+; AGF          ; 1-3; Brøndby IF
+; Silkeborg IF ; 2-0; B 93
+; Vejle BK     ; 1-2; Lyngby FC
 
-Round: 15 [Nov 15]:
-Lyngby FC     1-3 Herfølge BK
-Silkeborg IF  2-2 B 93
-FC København  4-2 Viborg FF
-Vejle BK      0-2 AB
-Brøndby IF    1-1 Aarhus Fremad
-[Mar 7]
-AGF           1-0 AaB
+Date: 9/27/1998
 
-Round: 16 [Nov 22]: 
-Silkeborg IF  1-1 AB
-FC København  3-0 Aarhus Fremad
-[Mar 7]
-Vejle BK      0-0 Brøndby IF
-[Mar 17]
-Herfølge BK   0-0 B 93
-[Mar 29]
-Lyngby FC     1-1 AaB                 [Mar 10 abandoned at 0-0 in 20' due to snowstorm]
-[Apr 14]
-AGF           0-0 Viborg FF
+; AB           ; 1-0; Herfølge BK
+; FC København ; 2-2; Aarhus Fremad
+; Viborg FF    ; 1-2; AaB
 
-Round: 17 [Nov 29]:
-B 93          4-2 AGF
-AaB           1-1 Herfølge BK
-Aarhus Fremad 3-3 Vejle BK
-AB            0-0 FC København
-Viborg FF     3-3 Silkeborg
-Brøndby IF    6-0 Lyngby FC
+Round: 10 
+Date: 10/4/1998
+
+; Herfølge BK  ; 2-2; Vejle BK
+; Lyngby FC    ; 2-3; Viborg FF
+; AaB          ; 3-3; FC København
+; Aarhus Fremad; 2-2; Silkeborg IF
+; B 93         ; 1-2; AGF
+; Brøndby IF   ; 0-1; AB
+
+Round: 11
+Date: 10/16/1998
+
+; Brøndby IF   ; 5-1; Herfølge BK
+
+Date: 10/18/1998
+
+; AB           ; 7-0; B 93
+; AGF          ; 3-2; Aarhus Fremad
+; Silkeborg IF ; 0-0; AaB
+; FC København ; 5-1; Lyngby FC
+; Vejle BK     ; 4-0; Viborg FF
+
+Round: 12
+Date: 10/25/1998
+
+; Viborg FF    ; 2-4; Aarhus Fremad
+; B 93         ; 1-0; Brøndby IF
+; AaB          ; 4-2; Vejle BK
+; Herfølge BK  ; 2-3; FC København
+
+Date: 11/3/1998
+
+; Lyngby FC    ; 3-2; AB
+
+Date: 11/24/1998
+
+; AGF          ; 2-3; Silkeborg IF
+
+Round: 13
+Date: 10/30/1998
+
+; Brøndby IF   ; 2-1; Viborg FF
+
+Date: 11/1/1998
+
+; Lyngby FC    ; 1-1; AGF
+; Silkeborg IF ; 1-1; Herfølge BK
+; FC København ; 2-2; AaB
+; Vejle BK     ; 2-0; B 93
+
+Date: 11/18/1998
+
+; AB           ; 1-0; Aarhus Fremad 
+
+Round: 14 
+Date: 11/8/1998
+
+; Herfølge BK  ; 0-0; AGF
+; AB           ; 0-4; Brøndby IF
+; Viborg FF    ; 0-1; Vejle BK
+; B 93         ; 1-2; FC København
+; AaB          ; 2-4; Silkeborg IF
+; Aarhus Fremad; 2-4; Lyngby FC
+
+Round: 15 
+Date: 11/15/1998
+
+; Lyngby FC    ; 1-3; Herfølge BK
+; Silkeborg IF ; 2-2; B 93
+; FC København ; 4-2; Viborg FF
+; Vejle BK     ; 0-2; AB
+; Brøndby IF   ; 1-1; Aarhus Fremad
+
+Date: 3/7/1999
+
+; AGF          ; 1-0; AaB
+
+Round: 16 
+Date: 11/22/1998
+
+; Silkeborg IF ; 1-1; AB
+; FC København ; 3-0; Aarhus Fremad
+
+Date: 3/7/1999
+
+; Vejle BK     ; 0-0; Brøndby IF
+
+Date: 3/17/1999
+
+; Herfølge BK  ; 0-0; B 93
+
+Date: 3/29/1999
+
+; Lyngby FC    ; 1-1; AaB                 
+*; Date: 3/10 abandoned at; 0-0; in 20' due to snowstorm/1999
+
+Date: 4/14/1999
+
+; AGF          ; 0-0; Viborg FF
+
+Round: 17 
+Date: 11/29/1998
+
+; B 93         ; 4-2; AGF
+; AaB          ; 1-1; Herfølge BK
+; Aarhus Fremad; 3-3; Vejle BK
+; AB           ; 0-0; FC København
+; Viborg FF    ; 3-3; Silkeborg
+; Brøndby IF   ; 6-0; Lyngby FC
 
 Round: 18 
-[Mar 14]:
-Viborg FF     1-0 Herfølge BK
-B 93          0-3 AaB
-Brøndby IF    3-2 FC København
-Aarhus Fremad 0-1 Silkeborg IF
-Vejle BK      1-2 Lyngby FC
-[Mar 16]:
-AB            1-0 AGF
+Date: 3/14/1999
+
+; Viborg FF    ; 1-0; Herfølge BK
+; B 93         ; 0-3; AaB
+; Brøndby IF   ; 3-2; FC København
+; Aarhus Fremad; 0-1; Silkeborg IF
+; Vejle BK     ; 1-2; Lyngby FC
+
+Date: 3/16/1999
+
+; AB           ; 1-0; AGF
 
 Round: 19 
-[Mar 19]:
-FC København  0-1 Vejle BK
-[Mar 21]:
-Lyngby FC     1-0 B 93
-AaB           1-1 Viborg FF
-Herfølge BK   0-1 AB
-AGF           1-1 Aarhus Fremad
-[Mar 22]
-Silkeborg IF  1-2 Brøndby IF
+Date: 3/19/1999
 
-Round: 20 [Apr 1]:
-Brøndby IF    4-1 AGF
-Aarhus Fremad 0-1 Herfølge BK
-AB            0-1 AaB
-Viborg FF     5-1 B 93
-Vejle BK      4-1 Silkeborg IF
-FC København  2-0 Lyngby FC
+; FC København ; 0-1; Vejle BK
 
-Round: 21 [Apr 5]:
-Lyngby FC     3-1 Viborg FF
-B 93          0-1 AB
-AaB           3-2 Aarhus Fremad
-Herfølge BK   1-2 Brøndby IF
-AGF           2-1 Vejle BK
-Silkeborg IF  2-2 FC København
+Date: 3/21/1999
 
-Round: 22: 
-[Apr 9]
-FC København  1-1 AGF
-[Apr 11]
-Vejle BK      1-1 Herfølge BK
-Aarhus Fremad 2-0 B 93
-AB            1-1 Viborg FF
-Silkeborg IF  1-1 Lyngby FC
-[Apr 12]
-Brøndby IF    1-2 AaB
+; Lyngby FC    ; 1-0; B 93
+; AaB          ; 1-1; Viborg FF
+; Herfølge BK  ; 0-1; AB
+; AGF          ; 1-1; Aarhus Fremad
 
-Round: 23:
-[Apr 18]
-Herfølge BK   0-2 Lyngby FC
-B 93          0-1 Silkeborg IF
-Viborg FF     1-0 FC København
-AB            2-0 Vejle BK
-Aarhus Fremad 1-3 Brøndby IF
-[Apr 19]
-AaB           2-1 AGF
+Date: 3/22/1999
 
-Round: 24: 
-[Apr 23]
-Silkeborg IF  0-0 AaB
-[Apr 25]
-AGF           2-1 Herfølge BK
-Brøndby IF    3-0 AB
-Vejle BK      4-1 Viborg FF
-FC København  1-0 B 93
-[Apr 26]
-Lyngby FC     1-1 Aarhus Fremad
+; Silkeborg IF ; 1-2; Brøndby IF
 
-Round: 25: 
-[Apr 30]
-AaB           4-3 FC København
-Aarhus Fremad 1-3 AB   
-[May 2]
-AGF           1-1 Lyngby FC
-Herfølge BK   1-1 Silkeborg IF
-B 93          0-2 Vejle BK
-Viborg FF     2-0 Brøndby IF
+Round: 20 
+Date: 4/1/1999
 
-Round: 26 [May 5]:
-AB            1-3 Lyngby FC
-Aarhus Fremad 3-2 Viborg FF
-Brøndby IF    4-1 B 93
-Vejle BK      0-1 AaB
-FC København  0-1 Herfølge BK
-Silkeborg IF  2-0 AGF
+; Brøndby IF   ; 4-1; AGF
+; Aarhus Fremad; 0-1; Herfølge BK
+; AB           ; 0-1; AaB
+; Viborg FF    ; 5-1; B 93
+; Vejle BK     ; 4-1; Silkeborg IF
+; FC København ; 2-0; Lyngby FC
 
-Round: 27:
-[May 9]
-AGF           2-1 FC København
-Herfølge BK   2-0 Vejle BK
-B 93          1-3 Aarhus Fremad
-Viborg FF     1-0 AB
-Lyngby FC     2-2 Silkeborg IF
-[May 10]
-AaB           0-0 Brøndby IF
+Round: 21 
+Date: 4/5/1999
 
-Round: 28:
-[May 14]
-Vejle BK      2-2 AGF
-[May 16]
-Viborg FF     5-2 Lyngby FC
-AB            1-3 B 93
-Aarhus Fremad 1-3 AaB
-FC København  2-2 Silkeborg IF
-[May 17]
-Brøndby IF    1-0 Herfølge BK
+; Lyngby FC    ; 3-1; Viborg FF
+; B 93         ; 0-1; AB
+; AaB          ; 3-2; Aarhus Fremad
+; Herfølge BK  ; 1-2; Brøndby IF
+; AGF          ; 2-1; Vejle BK
+; Silkeborg IF ; 2-2; FC København
 
-Round: 29 [May 20]:
-AGF           3-3 Brøndby IF
-Herfølge BK   2-2 Aarhus Fremad
-AaB           2-0 AB
-B 93          0-5 Viborg FF
-Silkeborg IF  4-3 Vejle BK
-Lyngby FC     3-1 FC København
+Round: 22
+Date: 4/9/1999
 
-Round: 30 [May 24]:
-B 93          1-3 Lyngby FC
-Viborg FF     0-0 AaB
-AB            2-1 Herfølge BK
-Aarhus Fremad 2-1 AGF
-Brøndby IF    3-0 Silkeborg IF
-Vejle BK      1-0 FC København
+; FC København ; 1-1; AGF
 
-Round: 31:
-[May 30]
-Herfølge BK   4-1 Viborg FF
-AaB           2-0 B 93
-FC København  1-0 Brøndby IF
-Silkeborg IF  4-1 Aarhus Fremad
-Lyngby FC     2-0 Vejle BK
-[May 31]
-AGF           3-1 AB
+Date: 4/11/1999
 
-Round: 32 [Jun 13]:
-AaB           3-3 Lyngby FC
-B 93          1-2 Herfølge BK
-Viborg FF     3-1 AGF
-AB            4-2 Silkeborg IF
-Aarhus Fremad 3-3 FC København
-Brøndby IF    1-2 Vejle BK
+; Vejle BK     ; 1-1; Herfølge BK
+; Aarhus Fremad; 2-0; B 93
+; AB           ; 1-1; Viborg FF
+; Silkeborg IF ; 1-1; Lyngby FC
 
-Round: 33 [Jun 16]:
-AGF           2-1 B 93
-Herfølge BK   3-2 AaB
-Vejle BK      4-1 Aarhus Fremad
-FC København  1-0 AB
-Silkeborg IF  1-2 Viborg FF
-Lyngby FC     2-6 Brøndby IF
+Date: 4/12/1999
+
+; Brøndby IF   ; 1-2; AaB
+
+Round: 23
+Date: 4/18/1999
+
+; Herfølge BK  ; 0-2; Lyngby FC
+; B 93         ; 0-1; Silkeborg IF
+; Viborg FF    ; 1-0; FC København
+; AB           ; 2-0; Vejle BK
+; Aarhus Fremad; 1-3; Brøndby IF
+
+Date: 4/19/1999
+
+; AaB          ; 2-1; AGF
+
+Round: 24
+Date: 4/23/1999
+
+; Silkeborg IF ; 0-0; AaB
+
+Date: 4/25/1999
+
+; AGF          ; 2-1; Herfølge BK
+; Brøndby IF   ; 3-0; AB
+; Vejle BK     ; 4-1; Viborg FF
+; FC København ; 1-0; B 93
+
+Date: 4/26/1999
+
+; Lyngby FC    ; 1-1; Aarhus Fremad
+
+Round: 25
+Date: 4/30/1999
+
+; AaB          ; 4-3; FC København
+; Aarhus Fremad; 1-3; AB   
+
+Date: 5/2/1999
+
+; AGF          ; 1-1; Lyngby FC
+; Herfølge BK  ; 1-1; Silkeborg IF
+; B 93         ; 0-2; Vejle BK
+; Viborg FF    ; 2-0; Brøndby IF
+
+Round: 26 
+Date: 5/5/1999
+
+; AB           ; 1-3; Lyngby FC
+; Aarhus Fremad; 3-2; Viborg FF
+; Brøndby IF   ; 4-1; B 93
+; Vejle BK     ; 0-1; AaB
+; FC København ; 0-1; Herfølge BK
+; Silkeborg IF ; 2-0; AGF
+
+Round: 27
+Date: 5/9/1999
+
+; AGF          ; 2-1; FC København
+; Herfølge BK  ; 2-0; Vejle BK
+; B 93         ; 1-3; Aarhus Fremad
+; Viborg FF    ; 1-0; AB
+; Lyngby FC    ; 2-2; Silkeborg IF
+
+Date: 5/10/1999
+
+; AaB          ; 0-0; Brøndby IF
+
+Round: 28
+Date: 5/14/1999
+
+; Vejle BK     ; 2-2; AGF
+
+Date: 5/16/1999
+
+; Viborg FF    ; 5-2; Lyngby FC
+; AB           ; 1-3; B 93
+; Aarhus Fremad; 1-3; AaB
+; FC København ; 2-2; Silkeborg IF
+
+Date: 5/17/1999
+
+; Brøndby IF   ; 1-0; Herfølge BK
+
+Round: 29 
+Date: 5/20/1999
+
+; AGF          ; 3-3; Brøndby IF
+; Herfølge BK  ; 2-2; Aarhus Fremad
+; AaB          ; 2-0; AB
+; B 93         ; 0-5; Viborg FF
+; Silkeborg IF ; 4-3; Vejle BK
+; Lyngby FC    ; 3-1; FC København
+
+Round: 30 
+Date: 5/24/1999
+
+; B 93         ; 1-3; Lyngby FC
+; Viborg FF    ; 0-0; AaB
+; AB           ; 2-1; Herfølge BK
+; Aarhus Fremad; 2-1; AGF
+; Brøndby IF   ; 3-0; Silkeborg IF
+; Vejle BK     ; 1-0; FC København
+
+Round: 31
+Date: 5/30/1999
+
+; Herfølge BK  ; 4-1; Viborg FF
+; AaB          ; 2-0; B 93
+; FC København ; 1-0; Brøndby IF
+; Silkeborg IF ; 4-1; Aarhus Fremad
+; Lyngby FC    ; 2-0; Vejle BK
+
+Date: 5/31/1999
+
+; AGF          ; 3-1; AB
+
+Round: 32 
+Date: 6/13/1999
+
+; AaB          ; 3-3; Lyngby FC
+; B 93         ; 1-2; Herfølge BK
+; Viborg FF    ; 3-1; AGF
+; AB           ; 4-2; Silkeborg IF
+; Aarhus Fremad; 3-3; FC København
+; Brøndby IF   ; 1-2; Vejle BK
+
+Round: 33 
+Date: 6/16/1999
+
+; AGF          ; 2-1; B 93
+; Herfølge BK  ; 3-2; AaB
+; Vejle BK     ; 4-1; Aarhus Fremad
+; FC København ; 1-0; AB
+; Silkeborg IF ; 1-2; Viborg FF
+; Lyngby FC    ; 2-6; Brøndby IF
 
 
 *No. Team                 G    W    D    L    Gf    Ga    P
