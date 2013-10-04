@@ -1,5 +1,6 @@
 Competition: Bundesliga
 Season: 2001-2002
+Competition: 1.Bundesliga
 
 * 1.BV 09 Borussia Dortmund      34 21  7  6  62-33  70  Champions
 * 2.Bayer 04 Leverkusen          34 21  6  7  77-38  69
@@ -21,7 +22,7 @@ Season: 2001-2002
 *17.1.FC Köln                    34  7  8 19  26-61  29  Relegated
 *18.FC Sankt Pauli               34  4 10 20  37-70  22  Relegated
 
-Round 1
+Round: 1
 [Jul 28]
 1860           0-4 Kaiserslautern
   [Strasser 54, Marschall 60, Pettersson 76, H. Koch 83 pen]
@@ -42,7 +43,7 @@ St Pauli       0-0 Hertha
 Schalke        3-1 Hansa
   [Jakobsson 9 og, Agali 60, Böhme 89 pen]
 
-Round 2
+Round: 2
 [Aug 4]
 Bayern         3-0 Schalke
   [Pizarro 6, Scholl 13, N. Kovac 39]
@@ -64,7 +65,7 @@ Nürnberg       2-0 Freiburg
 Kaiserslautern 3-2 Borussia MG
   [Basler 67, H. Koch 89 pen, Ramzy 90+4; van Lent 52, 61]
 
-Round 3
+Round: 3
 [Aug 11]
 Leverkusen     1-1 Bayern
   [Kirsten 69; Elber 79]
@@ -84,7 +85,7 @@ Borussia MG    0-0 Schalke
 St Pauli       0-1 Hansa
   [Beierle 20]
 
-Round 4
+Round: 4
 [Aug 18]
 Bayern         2-0 St Pauli
   [Sforza 13, Elber 45]
@@ -106,7 +107,7 @@ Hertha         2-3 Energie
 Köln           0-2 Borussia MG
   [Korzynietz 47, van Lent 90+1]
 
-Round 5
+Round: 5
 [Sep 8]
 1860           1-0 Nürnberg
   [Riseth 76]
@@ -127,7 +128,7 @@ Kaiserslautern 2-1 Werder
 Köln           2-1 HSV
   [Lottner 67, 90+2; Cullmann 21 og]
 
-Round 6 
+Round: 6 
 [Sep 15]
 Bayern         1-0 Freiburg
   [Elber 89]
@@ -148,7 +149,7 @@ Hertha         2-1 1860
   [Tapalovic 59 og, Preetz 79; Agostino 45]
 Hansa          0-0 Energie
 
-Round 7
+Round: 7
 [Sep 22]
 Stuttgart      2-1 Hansa
   [Balakov 55 pen, Ganea 85; Jakobsson 11]
@@ -170,7 +171,7 @@ Kaiserslautern 4-1 Hertha
 Borussia MG    2-2 St Pauli
   [van Lent 51 pen, van Houdt 90+2; Bajramovic 60, Meggle 90+3]
 
-Round 8
+Round: 8
 [Sep 29]
 Hansa          2-2 1860
   [Wibran 23, 61; Max 3, Baumgart 85 og]
@@ -191,7 +192,7 @@ Bayern         4-0 Stuttgart
 Leverkusen     4-1 Freiburg
   [Bastürk 10, Ballack 23, 42, Neuville 60; Sellimi 25]
 
-Round 9
+Round: 9
 [Oct 13]
 1860           1-5 Bayern
   [Bierofka 9; Santa Cruz 28, Fink 44, Salihamidzic 57, Elber 80]
@@ -213,7 +214,7 @@ Werder         3-0 Nürnberg
 Köln           0-4 Wolfsburg
   [Petrov 2, 50 pen, Ponte 7, Karhan 61]
 
-Round 10
+Round: 10
 [Oct 20]
 Bayern         4-1 Kaiserslautern
   [Santa Cruz 16, Salihamidzic 23, 29 pen, Pizarro 90+1; H. Koch 82 pen]
@@ -235,7 +236,7 @@ Borussia D     0-2 Freiburg
 Wolfsburg      0-1 HSV
   [Hoogma 57]
 
-Round 11
+Round: 11
 [Oct 27]
 1860           1-4 Leverkusen
   [Häßler 31; T. Hoffmann 33 og, Placente 78, Schneider 84, Neuville 90 pen]
@@ -256,7 +257,7 @@ Nürnberg       1-3 Hertha
 HSV            0-1 Hansa
   [Beierle 42]
 
-Round 12
+Round: 12
 [Nov 3]
 Leverkusen     2-1 Kaiserslautern
   [Ballack 34, 50 pen; Strasser 18]
@@ -278,7 +279,7 @@ Hertha         3-0 Borussia MG
 Freiburg       3-1 Energie 
   [Iaschwili 32, Zkitischwili 61, But 76; Kobylanski 43]
 
-Round 13
+Round: 13
 [Nov 17]
 1860           1-3 Borussia D
   [Häßler 78; Ewerthon 61, Koller 70, Amoroso 81 pen]
@@ -298,7 +299,7 @@ Nürnberg       2-0 Hansa
   [Michalke 51, Maul 86 og]
 Bourssia MG    0-0 Energie
 
-Round 14
+Round: 14
 [Nov 24]
 Bayern         0-0 Nürnberg
 Wolfsburg      3-1 Borussia MG
@@ -318,7 +319,7 @@ Freiburg       1-3 1860
 Borussia D     3-0 Kaiserslautern
   [Ewerthon 77, Amoroso 86 pen, 90]
 
-Round 15
+Round: 15
 [Dec 1]
 1860           1-0 Energie
   [Max 71]
@@ -340,7 +341,7 @@ Hertha         2-1 Bayern
 HSV            4-3 St Pauli
   [Meijer 4, Fukal 8, Benjamin 45, Barbarez 52; Meggle 47, Trulsen 79, 83 pen]
 
-Round 16
+Round: 16
 [Dec 8]
 Bayern         3-3 Wolfsburg
   [Pizarro 11, 56, Elber 17; Maric 44, 70, Kühbauer 52]
@@ -360,7 +361,7 @@ Borussia MG    0-2 Hansa
 Freiburg       0-0 Köln
 Schalke        0-0 Hertha
 
-Round 17
+Round: 17
 [Dec 15]
 1860           2-2 Borussia MG
   [Max 23, 42; Korzynietz 22, van Lent 26]
@@ -380,7 +381,7 @@ Wolfsburg      3-1 Schalke
 Kaiserslautern 2-2 Stuttgart
   [Ratinho 4, Lokvenc 63; Meißner 32, Kuranyi 85]
 
-Round 18
+Round: 18
 [Dec 18]
 Bayern         0-0 Borussia MG
 Hertha         2-2 St Pauli
@@ -400,7 +401,7 @@ Hansa          1-3 Schalke
 Wolfsburg      3-1 Leverkusen
   [Ponte 40, T. Maric 56, 77; Neuville 87]
 
-Round 19
+Round: 19
 [Jan 26]
 Schalke        5-1 Bayern
   [Mpenza 34, Sand 35, Böhme 54, van Hoogdalem 75, Oude Kamphuis 90+1; Scholl 49]
@@ -422,7 +423,7 @@ Borussia D     3-1 Hertha
 Energie        2-1 Werder
   [Mátyus 41, Topic 49; Ailton 28]
  
-Round 20
+Round: 20
 [Feb 2]
 HSV            2-1 1860
   [Präger 60, Romeo 81; Weissenberger 89]
@@ -444,7 +445,7 @@ Hansa          1-0 St Pauli
 Bayern         2-0 Leverkusen
   [Elber 67, Effenberg 71 pen]
 
-Round 21
+Round: 21
 [Feb 5]
 1860           3-1 Werder
   [Agostino 18, Max 68, Häßler 74 pen; Lisztes 24]
@@ -465,7 +466,7 @@ Leverkusen     0-1 Schalke
 Kaiserslautern 2-2 HSV
   [Basler 4, Klose 76; Romeo 11, Heinz 80]
 
-Round 22
+Round: 22
 [Feb 9]
 Werder         1-0 Kaiserslautern
   [Ailton 51]
@@ -487,7 +488,7 @@ Nürnberg       2-1 1860
 HSV            4-0 Köln
   [Fukal 34, Sichone 63, Barbarez 67, Romeo 83]
 
-Round 23
+Round: 23
 [Feb 16]
 Freiburg       0-2 Bayern
   [Lizarazu 32, Elber 41]
@@ -508,7 +509,7 @@ Energie        3-0 Hansa
   [Beeck 31, Miriuta 33, Topic 68]
 Köln           0-0 Werder
 
-Round 24
+Round: 24
 [Feb 23]
 Wolfsburg      1-3 1860
   [Biliskov 53; Tyce 54, Max 59, Weissenberger 90+1]
@@ -530,7 +531,7 @@ Leverkusen     4-0 Borussia D
 Werder         0-1 HSV
   [Romeo 74]
 
-Round 25
+Round: 25
 [Mar 2]
 Stuttgart      0-2 Bayern
   [Santa Cruz 32, Scholl 39]
@@ -552,7 +553,7 @@ Borussia D     1-1 St Pauli
 Kaiserslautern 3-2 Wolfsburg
   [Hristov 64, Klose 74, Lokvenc 84; Hristov 49 og, Munteanu 72]
 
-Round 26
+Round: 26
 [Mar 9]
 Bayern         2-1 1860
   [Sergio 72, Fink 90; Stranzl 75]
@@ -574,7 +575,7 @@ Hertha         6-0 HSV
 Schalke        2-1 Stuttgart
   [Waldoch 60, Sand 90; Adhemar 78]
 
-Round 27
+Round: 27
 [Mar 16]
 Köln           4-2 Hansa
   [Lottner 46, Kurth 51, Springer 76, Scherz 90+1; Arvidsson 6, 32]
@@ -595,7 +596,7 @@ Freiburg       1-5 Borussia D
 1860           1-2 Schalke
  [Agostino 81; Asamoah 3, Sand 83]
 
-Round 28
+Round: 28
 [Mar 23]
 Bayern         3-0 Köln
   [Elber 64, 88, Salihamidzic 83 pen]
@@ -617,7 +618,7 @@ Borussia D     3-0 Energie
 Wolfsburg      2-0 Werder
   [Klimowicz 64, Petrov 78]
 
-Round 29
+Round: 29
 [Mar 30]
 1860           4-2 St Pauli
   [Weissenberger 44, Max 64, 66, 76; Rahn 38, Patschinski 55]
@@ -638,7 +639,7 @@ Köln           1-1 Schalke
 Werder         4-3 Hansa
   [Ailton 3, 90+2 pen, Frings 47, Rost 90; Rydlewicz 24 pen, di Salvo 30, Schröder 49]
 
-Round 30
+Round: 30
 [Apr 6]
 Wolfsburg      1-3 Hertha
   [Klimowicz 36; Hartmann 25, Preetz 28, Marx 48]
@@ -660,7 +661,7 @@ Borussia D     2-1 1860
 Freiburg       0-2 Stuttgart
   [Meira 79, Handschuh 87]
 
-Round 31
+Round: 31
 [Apr 13]
 Nürnberg       1-2 Bayern
   [Krzynowek 73 pen; Elber 11, Pizarro 41]
@@ -681,7 +682,7 @@ Stuttgart      0-0 Energie
 Kaiserslautern 1-0 Borussia D
   [Pettersson 48]
 
-Round 32
+Round: 32
 [Apr 19]
 St Pauli       0-4 HSV
   [Romeo 19, 58, Groth 45, Hoogma 49]
@@ -704,7 +705,7 @@ Borussia MG    2-2 Stuttgart
 Freiburg       3-1 Kaiserslautern
   [Kobiaschwili 47 pen, Sellimi 78, Männer 81; Klose 84]
 
-Round 33 [Apr 27]
+Round: 33 [Apr 27]
 Wolfsburg      0-1 Bayern
   [Biliskov 33 og]
 1860           3-3 Stuttgart
@@ -724,7 +725,7 @@ Hertha         2-0 Schalke
 Hansa          1-1 Borussia MG
   [Hill 9; Demo 17]
 
-Round 34 [May 4]
+Round: 34 [May 4]
 Borussia MG    2-4 1860
   [Demo 6, van Lent 66; Bierofka 25, 46, Suker 64, 69]
 Schalke        1-2 Wolfsburg
@@ -744,28 +745,25 @@ Stuttgart      4-3 Kaiserslautern
 Bayern         3-2 Hansa
   [Baumgart 39 og, Scholl 55, Elber 81; Hansen 82, Lantz 89]
 
-Final Table:
-
- 1.BV 09 Borussia Dortmund      34 21  7  6  62-33  70  Champions
- 2.Bayer 04 Leverkusen          34 21  6  7  77-38  69
- 3.FC Bayern München            34 20  8  6  65-25  68
- 4.Hertha BSC                   34 18  7  9  61-38  61
- 5.FC Schalke 04                34 18  7  9  52-36  61
- 6.SV Werder Bremen             34 17  5 12  54-43  56
- 7.1.FC Kaiserslautern          34 17  5 12  62-53  56
- 8.VfB Stuttgart                34 13 11 10  47-43  50
- 9.TSV 1860 München             34 15  5 14  59-59  50
-10.VfL Wolfsburg                34 13  7 14  57-49  46
-11.Hamburger SV                 34 10 10 14  51-57  40
-12.VfL Borussia Mönchengladbach 34  9 12 13  41-53  39
-13.FC Energie Cottbus           34  9  8 17  36-60  35
-14.FC Hansa Rostock             34  9  7 18  35-54  34
-15.1.FC Nürnberg                34 10  4 20  34-57  34
-------------------------------------------------------
-16.SC Freiburg                  34  7  9 18  37-64  30  Relegated
-17.1.FC Köln                    34  7  8 19  26-61  29  Relegated
-18.FC Sankt Pauli               34  4 10 20  37-70  22  Relegated
-
+* 1.BV 09 Borussia Dortmund      34 21  7  6  62-33  70  Champions
+* 2.Bayer 04 Leverkusen          34 21  6  7  77-38  69
+* 3.FC Bayern München            34 20  8  6  65-25  68
+* 4.Hertha BSC                   34 18  7  9  61-38  61
+* 5.FC Schalke 04                34 18  7  9  52-36  61
+* 6.SV Werder Bremen             34 17  5 12  54-43  56
+* 7.1.FC Kaiserslautern          34 17  5 12  62-53  56
+* 8.VfB Stuttgart                34 13 11 10  47-43  50
+* 9.TSV 1860 München             34 15  5 14  59-59  50
+*10.VfL Wolfsburg                34 13  7 14  57-49  46
+*11.Hamburger SV                 34 10 10 14  51-57  40
+*12.VfL Borussia Mönchengladbach 34  9 12 13  41-53  39
+*13.FC Energie Cottbus           34  9  8 17  36-60  35
+*14.FC Hansa Rostock             34  9  7 18  35-54  34
+*15.1.FC Nürnberg                34 10  4 20  34-57  34
+*------------------------------------------------------
+*16.SC Freiburg                  34  7  9 18  37-64  30  Relegated
+*17.1.FC Köln                    34  7  8 19  26-61  29  Relegated
+*18.FC Sankt Pauli               34  4 10 20  37-70  22  Relegated
 
 
 *Prepared and maintained by Karel Stokkermans and Pierre Winkler for the Rec.Sport.Soccer Statistics Foundation

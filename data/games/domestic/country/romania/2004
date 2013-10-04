@@ -1,33 +1,29 @@
 BlockSource: http://rsssf.com/tablesr/roem05.html
+Season: 2004-2005
+Competition: Liga I
 
-Romania 2004/05
+* 1.FC Steaua Bucuresti          30 19  6  5  47-18 63  Champions
+* 2.FC Dinamo Bucuresti          30 20  2  8  60-30 62
+* 3.AFC Rapid Bucuresti          30 16  9  5  51-27 57  [2 1 1 0 6-3 4]
+* 4.FC National Bucuresti        30 17  6  7  50-33 57  [2 0 1 1 3-6 1]
+* 5.FC Farul Constanta           30 15  7  8  42-28 52
+* 6.Politehnica Timisoara        30 13  6 11  37-34 45  [2 1 1 0 2-0 4]  [*]
+* 7.Sportul Studentesc Bucuresti 30 12  9  9  37-27 45  [2 0 1 1 0-2 1]
+* 8.Otelul Galati                30 12  4 14  31-32 40
+* 9.Poli Unirea Iasi             30 10  8 12  28-41 38
+*10.FC Arges Pitesti             30  8 12 10  32-37 36  [2 1 1 0 3-1 4]
+*11.CFR Ecomax Cluj              30  9  9 12  33-44 36  [2 0 1 1 1-3 1]
+*12.FCM Bacau                    30  8  9 13  20-28 33
+*13.Gloria Bistrita              30  9  5 16  38-46 32
+*-----------------------------------------------------
+*14.Apulum Alba-Iulia            30  6  8 16  28-62 26  Relegated
+*15.FC Brasov                    30  5  6 19  28-45 21  Relegated
+*16.Universitatea Craiova        30  4  8 18  24-54 20  Relegated
 
-Divizia A 
+*[*] Politehnica AEK Timisoara dropped the AEK in the winter break 
+*    after being bought by the Balkan Petroleum concern.
 
-Final Table:
-
- 1.FC Steaua Bucuresti          30 19  6  5  47-18 63  Champions
- 2.FC Dinamo Bucuresti          30 20  2  8  60-30 62
- 3.AFC Rapid Bucuresti          30 16  9  5  51-27 57  [2 1 1 0 6-3 4]
- 4.FC National Bucuresti        30 17  6  7  50-33 57  [2 0 1 1 3-6 1]
- 5.FC Farul Constanta           30 15  7  8  42-28 52
- 6.Politehnica Timisoara        30 13  6 11  37-34 45  [2 1 1 0 2-0 4]  [*]
- 7.Sportul Studentesc Bucuresti 30 12  9  9  37-27 45  [2 0 1 1 0-2 1]
- 8.Otelul Galati                30 12  4 14  31-32 40
- 9.Poli Unirea Iasi             30 10  8 12  28-41 38
-10.FC Arges Pitesti             30  8 12 10  32-37 36  [2 1 1 0 3-1 4]
-11.CFR Ecomax Cluj              30  9  9 12  33-44 36  [2 0 1 1 1-3 1]
-12.FCM Bacau                    30  8  9 13  20-28 33
-13.Gloria Bistrita              30  9  5 16  38-46 32
------------------------------------------------------
-14.Apulum Alba-Iulia            30  6  8 16  28-62 26  Relegated
-15.FC Brasov                    30  5  6 19  28-45 21  Relegated
-16.Universitatea Craiova        30  4  8 18  24-54 20  Relegated
-
-[*] Politehnica AEK Timisoara dropped the AEK in the winter break 
-    after being bought by the Balkan Petroleum concern.
-
-Round 1
+Round: 1
 [Jul 30]
 CFR Cluj       2-1 Poli Timisoara
   [Sead Bruncevic 18, Ionut Angheluta 80og; Sabin Cosmin Goia 34og]
@@ -48,7 +44,7 @@ Steaua         2-0 Gloria
 Bacau          1-0 Otelul 
   [Marian Tanasa 59]
 
-Round 2
+Round: 2
 [Aug 6]
 Brasov         0-0 Bacau
 Apulum         2-1 Poli Iasi  
@@ -68,7 +64,7 @@ Gloria         2-0 CFR Cluj
 Rapid          2-1 Steaua
   [Sabin Ilie 17pen, 25; Nicolae Marius Dica 34]
 
-Round 3
+Round: 3
 [Aug 11]
 CFR Cluj       1-1 Rapid
   [Adrian Gheorghe Anca 21; Daniel George Niculae 26]
@@ -89,7 +85,7 @@ Brasov         2-1 Otelul
 Steaua         3-0 Apulum 
   [Andrei Cristea 50, Adrian Neaga 52, Laurentiu Dinita 90+1]
 
-Round 4
+Round: 4
 [Aug 20]
 Arges          2-2 Sportul
   [Ilie Nico Baicu 57, Alin Cosmin Nastasie 85pen;
@@ -111,7 +107,7 @@ Poli Timisoara 2-1 Brasov
 Dinamo         0-1 Steaua
   [Andrei Cristea 84]
 
-Round 5
+Round: 5
 [Aug 27]
 Sportul        1-1 Farul
   [Gheorghe Bucur 22pen; Dinu Marius Todoran 73]
@@ -136,7 +132,7 @@ Steaua         5-0 Universitatea
 Poli Timisoara 2-1 Otelul
   [Irinel Constantin Voicu 4, Ilie Poenaru 50; Bogdan Aurelian Aldea 85]
 
-Round 6
+Round: 6
 [Sep 10]
 Apulum         0-0 Bacau
 Farul          2-1 Poli Iasi  
@@ -157,7 +153,7 @@ Arges          2-2 Steaua
 Dinamo         0-1 National
   [Gabriel Caramarin 81pen]
 
-Round 7
+Round: 7
 [Sep 17]
 CFR Cluj       1-1 Arges
   [Sead Bruncevic 89; Cornel Dobre 31]
@@ -180,7 +176,7 @@ Steaua         3-1 Farul
   [Florin Lovin 56, Andrei Cristea 59, George Cristian Ogararu 62;
    Mihai Gurita 90]
 
-Round 8
+Round: 8
 [Sep 24]
 Apulum         2-1 Poli Timisoara
   [Ovidiu Maier    33, Alin Vasile Paleacu 70pen; Banel Nicolita 18]
@@ -203,7 +199,7 @@ Dinamo         3-1 Brasov
   [Claudiu Iulian Niculescu 53, Stefan Costel Grigorie 56,
    Ionel Daniel Danciulescu 59pen; Vasile Ghindaru 34]
 
-Round 9
+Round: 9
 [Oct 1]
 Gloria         6-1 Apulum 
   [Cristian Coroian 21, 51, Sergiu Viorel Ioan Costin 35, Sandu Negrean 39,
@@ -226,7 +222,7 @@ Poli Timisoara 2-3 Dinamo
 Steaua         0-1 Poli Iasi  
   [Adrian Cristea 65]
 
-Round 10
+Round: 10
 [Oct 16]
 Poli Iasi      0-0 CFR Cluj
 Sportul        1-0 National 
@@ -246,7 +242,7 @@ Arges          0-1 Brasov
 Steaua         1-0 Otelul
   [Adrian C-tin Neaga 70]
 
-Round 11
+Round: 11
 [Oct 22]
 National       6-0 Poli Iasi  
   [Octavian Chihaia 50, 58, Slaviša Mitrovic 52, 56, 65, Gabriel Popescu 79]
@@ -268,7 +264,7 @@ CFR Cluj       0-2 Steaua
 Rapid          2-1 Dinamo
   [Robert Ilyes 70, Lucian Burdujan 81; Ionel Daniel Danciulescu 43]
 
-Round 12
+Round: 12
 [Oct 30]
 Poli Iasi      1-0 Bacau
   [Dorel Bernard 9]
@@ -291,7 +287,7 @@ Steaua         5-1 National
   [Adrian C-tin Neaga 34pen, 64, Daniel Ionel Oprita 35,
    Andrei Cristea 76, 77; Gabriel Caramarin 79]
 
-Round 13
+Round: 13
 [Nov 6]
 Otelul         2-0 Dinamo
   [Victoras Constantin Iacob 27, Ionut Badea 83og]
@@ -315,7 +311,7 @@ Bacau          2-2 Steaua
 Poli Timisoara 2-0 Sportul 
   [Banel Nicolita 58, Mircea Oprea 61pen]
 
-Round 14
+Round: 14
 [Nov 20]
 CFR Cluj       2-0 Bacau
   [Cristian Turcu 39, Vasile Jula 40pen]
@@ -336,7 +332,7 @@ Sportul        1-0 Gloria
 Universitatea  0-1 Dinamo
   [Silviu Andrei Margaritescu 57]
 
-Round 15
+Round: 15
 [Nov 26]
 Brasov         2-2 CFR Cluj
   [Mugurel Mihai Buga 7, Miroslav Matea Giuchici 32;
@@ -359,7 +355,7 @@ Dinamo         4-0 Arges
 Poli Timisoara 1-1 Steaua
   [Mansour Gueye 57; Gabriel Bostina 35]
 
-Round 16
+Round: 16
 [Mar 11]
 Brasov         1–1 National
   [Romeo C-tin Surdu 24pen, Adrian Olah 30]
@@ -380,7 +376,7 @@ Dinamo         2-0 Farul
 [Apr 6]
 Gloria         0-2 Steaua
 
-Round 17
+Round: 17
 [Mar 18]
 Bacau          0-0 Brasov
 [Mar 19]
@@ -401,7 +397,7 @@ Poli Iasi      1-0 Apulum
 [Apr 13]
 Steaua         0-0 Rapid
 
-Round 18
+Round: 18
 [Apr 1]
 Arges          1-1 Farul
   [Ciprian Ion Tanasa 45; Claudiu Voiculet 58]
@@ -422,7 +418,7 @@ Otelul         1-1 Brasov
 Rapid          3-0 CFR Cluj
   [Flavius Lucian Moldovan 17, Valentin Negru 40, Mugurel Mihai Buga 89]
 
-Round 19
+Round: 19
 [Apr 8]
 Poli Iasi      1-0 Universitatea
   [Dorel Bernard 39]
@@ -443,7 +439,7 @@ Bacau          3-0 Gloria
 Steaua         1-0 Dinamo
   [Nicolae Marius Dica 10]
 
-Round 20
+Round: 20
 [Apr 15]
 Arges          3-0 Poli Iasi
   [Marius Ioan Bilasco 16, Ciprian Ion Tanasa 26, 59]
@@ -464,7 +460,7 @@ Rapid          2-0 Bacau
 Universitatea  0-1 Steaua
   [Nicolae Marius Dica 35]
 
-Round 21
+Round: 21
 [Apr 22]
 Brasov         0-1 Rapid
   [Robert Ilyes 81]
@@ -488,7 +484,7 @@ National       5-1 Dinamo
   [Adrian Olah 6, Sergiu Marian Radu 16, 67, Ionut Cristian Savu 57,
    Elías Iván Bazzi 92; Stefan Costel Grigorie 10]
 
-Round 22 [Apr 27]
+Round: 22 [Apr 27]
 Sportul        1-1 Poli Iasi
   [Marius Nae 19; Mihai Bâlba 69]
 Apulum         1-0 Brasov
@@ -506,7 +502,7 @@ Universitatea  3-0 National
 Rapid          0-3 Poli Timisoara
   [Gigel Coman 14, 16, Flavius Bad 45+1]
 
-Round 23 [Apr 30]
+Round: 23 [Apr 30]
 Gloria         0-2 Rapid
   [Nicolae Grigore 71, Ionel Tersinio Gane 75]
 Brasov         1-1 Dinamo 
@@ -523,7 +519,7 @@ National       2-1 Arges
 Poli Timisoara 1-1 Apulum 
   [Flavius Lucian Bad 7; Constantin Dan Galdean 49]
 
-Round 24 [May 4]
+Round: 24 [May 4]
 Poli Iasi      0-0 Steaua
 Apulum         1-1 Gloria
   [Adrian Constantin Popescu 15; Sergiu Sebastian Mândrean 40]
@@ -540,7 +536,7 @@ Dinamo         1-0 Poli Timisoara
 Rapid          3-0 Otelul
   [Mugurel Mihai Buga 12, Lucian Burdujan 13, Ionut Cristian Stancu 86]
 
-Round 25
+Round: 25
 [May 7]
 National       2-1 Sportul
   [Hristu Chiacu 23, Sergiu Marian Radu 85; Gheorghe Bucur 45]
@@ -561,7 +557,7 @@ Rapid          2-2 Apulum
   [Mugurel Mihai Buga 38, Valentin Emanoil Badoi 88;
    Vasile Jercalau 7, Constantin Dan Galdean 86]
 
-Round 26
+Round: 26
 [May 13]
 Apulum         0-4 Otelul
   [Victoras Constantin Iacob 11, 22, 53, Danut Stelian Oprea 72]
@@ -584,7 +580,7 @@ Dinamo         2-2 Rapid
   [Claudiu Iulian Niculescu 12, 62; Ciprian Vasilache 56,
    Lucian Burdujan 90]
 
-Round 27 [May 18]
+Round: 27 [May 18]
 Otelul         1-2 CFR Cluj
   [Silviu Izvoreanu 40; Vasile Jula 45pen, Adrian Anca 77]
 Gloria         3-0 Arges
@@ -600,7 +596,7 @@ Bacau          0-1 Poli Iasi
 National       1-0 Steaua
 Rapid          4-0 Universitatea
 
-Round 28 [May 21]
+Round: 28 [May 21]
 Sportul        0-0 Poli Timisoara
 Arges          0-0 Rapid
 Farul          1-0 Gloria
@@ -618,7 +614,7 @@ Dinamo         4-0 Otelul
   [Alexandru Pacurar 16, Alexandru Baltoi 21, 
    Claudiu Iulian Niculescu 45, 52]
 
-Round 29 [May 28]
+Round: 29 [May 28]
 Dinamo         5-0 Universitatea
   [Stefan Grigorie 39, 48, Ianis Zicu 74, 80, Claudiu Niculescu 89]
 Apulum         1-3 Arges
@@ -637,7 +633,7 @@ Bacau          2-0 CFR Cluj
 Otelul         0-2 National
   [Sergiu Radu 36, Catalin Lita 84]
  
-Round 30 [Jun 11]
+Round: 30 [Jun 11]
 Steaua         2-1 Poli Timisoara   
   [Andrei Cristea 35, Nicolae Dica 49; Mansour Gueye 26]
 Arges          0-1 Dinamo
@@ -685,7 +681,7 @@ Cup 2004/05
 
 NB: results in early rounds include penalty shoot-outs
 
-Round 2 [Jul 21]
+Round: 2 [Jul 21]
 AS Soimii Bucovina Suceava  w/o CS Soimii Bucovina Suceava 
 ASA Ecologistul Botosani    4-5 CFR Moldova Iasi               
 AS Mister Vicol Iasi        0-2 CFR Pascani                    
@@ -751,7 +747,7 @@ Samobil Satu Mare           1-0 Somesul Satu Mare
 Gloria Renel Baia Mare      3-2 FC Baia Mare           
 Gloria II Bistrita          3-0 Somes Gaz Beclean      
 
-Round 3 [Aug 19]
+Round: 3 [Aug 19]
 AS Soimii Bucovia Suceava   5-3 CFR Pascani                   
 Inter Garcina               4-5 CFR Moldova Iasi              
 FC Willy Bacau              3-1 FCM Husi                 
@@ -785,7 +781,7 @@ Lotus Felix Sanmartin       2-0 Minerul Stei
 Gloria II Bistrita          1-0 Olimpia Gherla           
 Samobil Satu Mare           2-1 Gloria Renel Baia Mare     
 
-Round 4 [Aug 31]
+Round: 4 [Aug 31]
 FC Willy Bacau              5-4 CFR Moldova Iasi     
 Soimii Bucovina Suceava     0-2 FCM II Bacau         
 Oil Terminal Constanta      2-0 Petrolul Braila       
@@ -803,7 +799,7 @@ Lacu Ursu Mobila Sovata     2-3 Gaz Metan Targu Mures
 Lotus Felix Sanmartin       5-0 Minerul Sarmasag      
 Samobil Satu Mare           0-1 Gloria II Bistrita        
 
-Round 5 [Sep 14-15]
+Round: 5 [Sep 14-15]
 FC Botosani                 1-0 Ceahlaul Piatra Neamt          
 FC Willy Bacau              0-3 Laminorul Roman                
 FCM II Bacau                7-1 Petrolul Moinesti              
@@ -837,7 +833,7 @@ Lotus Felix Sanmartin       3-1 CF Liberty Oradea
 Armatura Zalau              3-1 FC Oradea                      
 Oasul Negresti Oas          0-1 Olimpia Satu Mare              
 
-Round 6 
+Round: 6 
 [Sep 28]
 FCM II Bacau                3-0 Laminorul Roman                
 Faur Bucuresti              0-1 Dacia Unirea Braila            
@@ -857,7 +853,7 @@ Industria Sarmei Cm.Turzii  1-2 Universitatea Cluj
 Unirea Sannicolau Mare      0-1 UT Arad                        
 CS Deva                     2-1 Jiul Petrosani                 
 
-Round 7 [Oct 13]
+Round: 7 [Oct 13]
 FC Botosani                 0-1 Otelul Galati                  
 Callatis Mangalia           0-1 Apulum Unirea Alba Iulia      
 Armatura Zalau              0-2 Universitatea Craiova          
@@ -932,7 +928,7 @@ Divizia B
 
 seria 1
 
-Round 1 [Aug 21]
+Round: 1 [Aug 21]
 Vaslui         3-0 Midia
 DU Braila      3-0 Focsani
 Callatis       0-3 Ceahlaul
@@ -943,7 +939,7 @@ Botosani       2-0 Roman
 [Aug 22]
 Dunarea Galati 2-0 Moinesti
 
-Round 2 [Aug 28]
+Round: 2 [Aug 28]
 Ceahlaul       0-0 Poli Timisoara
 Moinesti       0-0 DU Braila
 Roman          0-0 Dunarea Galati
@@ -953,7 +949,7 @@ Focsani        1-2 Ghimbav
 Altay          2-0 Botosani
 Sacele         2-2 Callatis
 
-Round 3 [Sep 4]
+Round: 3 [Sep 4]
 Vaslui         1-0 Ceahlaul
 DU Braila      2-1 Roman
 Midia          3-1 Altay
@@ -963,7 +959,7 @@ Poli Timisoara 0-2 Sacele
 Ghimbav        5-0 Moinesti
 Dunarea Galati 2-0 Botosani
 
-Round 4 [Sep 11]
+Round: 4 [Sep 11]
 Ceahlaul       1-0 Buzau
 Moinesti       1-1 Callatis
 Roman          1-0 Ghimbav
@@ -973,7 +969,7 @@ Altay          2-2 Dunarea Galati
 Sacele         2-1 Vaslui
 Botosani       1-0 DU Braila
 
-Round 5 [Sep 18]
+Round: 5 [Sep 18]
 Vaslui         0-0 Focsani
 DU Braila      9-2 Dunarea Galati
 Targoviste     2-1 Altay
@@ -983,7 +979,7 @@ Buzau          0-0 Sacele
 Poli Timisoara 1-0 Moinesti
 Ghimbav        0-2 Botosani
 
-Round 6 [Sep 25]
+Round: 6 [Sep 25]
 Ceahlaul       0-1 Targoviste
 Moinesti       1-2 Vaslui
 Roman          2-1 Poli Timisoara
@@ -993,7 +989,7 @@ Sacele         1-0 Midia
 Botosani       0-1 Callatis
 Dunarea Galati 1-0 Ghimbav
 
-Round 7 [Oct 2]
+Round: 7 [Oct 2]
 Ceahlaul       3-1 Altay
 Vaslui         1-0 Roman          
 Targoviste     0-0 Sacele         
@@ -1003,7 +999,7 @@ Buzau          1-1 Moinesti
 Poli Timisoara 1-2 Botosani       
 Ghimbav        0-0 Braila         
 
-Round 8 [Oct 9]
+Round: 8 [Oct 9]
 Braila         3-0 Callatis       
 Moinesti       3-0 Midia          
 Roman          1-0 Buzau          
@@ -1013,7 +1009,7 @@ Sacele         0-0 Ceahlaul
 Botosani       1-1 Vaslui         
 Dunarea Galati 2-1 Poli Timisoara 
 
-Round 9 [Oct 16]
+Round: 9 [Oct 16]
 Ceahlaul       0-0 Focsani        
 Vaslui         1-0 Dunarea Galati 
 Targoviste     0-3 Moinesti       
@@ -1023,7 +1019,7 @@ Altay          2-1 Sacele
 Buzau          2-1 Botosani       
 Poli Timisoara 1-0 Braila         
 
-Round 10 [Oct 23]
+Round: 10 [Oct 23]
 Braila         0-0 Vaslui         
 Moinesti       0-1 Ceahlaul       
 Roman          0-0 Targoviste     
@@ -1033,7 +1029,7 @@ Ghimbav        2-0 Poli Timisoara
 Botosani       2-0 Midia          
 Dunarea Galati 0-0 Buzau          
 
-Round 11 [Oct 30]
+Round: 11 [Oct 30]
 Ceahlaul       3-1 Roman          
 Vaslui         2-0 Ghimbav        
 Targoviste     1-0 Botosani       
@@ -1043,7 +1039,7 @@ Sacele         1-0 Moinesti
 Buzau          0-0 Braila         
 Poli Timisoara 2-3 Callatis       
 
-Round 12 [Nov 6]
+Round: 12 [Nov 6]
 Braila         1-0 Midia
 Moinesti       0-0 Focsani
 Roman          1-1 Sacele
@@ -1053,7 +1049,7 @@ Ghimbav        1-1 Buzau
 Botosani       1-0 Ceahlaul
 Dunarea Galati 2-1 Targoviste
 
-Round 13 [Nov 13]
+Round: 13 [Nov 13]
 Ceahlaul       3-0 Dunarea Galati
 Vaslui         6-2 Poli Timisoara
 Targoviste     3-1 Braila
@@ -1063,7 +1059,7 @@ Altay          0-2 Moinesti
 Sacele         0-0 Botosani
 Buzau          1-1 Callatis
 
-Round 14 [Nov 20]
+Round: 14 [Nov 20]
 Vaslui         1-0 Altay
 Braila         1-2 Ceahlaul       
 Roman          2-0 Moinesti       
@@ -1073,7 +1069,7 @@ Ghimbav        0-0 Targoviste
 Botosani       0-0 Focsani        
 Dunarea Galati 2-0 Sacele         
 
-Round 15 [Nov 27]
+Round: 15 [Nov 27]
 Ceahlaul       1-1 Ghimbav        
 Moinesti       1-0 Botosani       
 Targoviste     1-1 Callatis       
@@ -1083,7 +1079,7 @@ Altay          0-0 Roman
 Sacele         0-1 Braila         
 Buzau          0-2 Vaslui         
 
-Round 16 [Mar 12]
+Round: 16 [Mar 12]
 Ceahlaul       1-0 Callatis
 Moinesti       1-0 Dunarea Galati
 Roman          2-1 Botosani
@@ -1093,7 +1089,7 @@ Focsani        0-1 Braila
 Altay          2-1 Buzau
 Sacele         2-0 Ghimbav
 
-Round 17 [Mar 19]
+Round: 17 [Mar 19]
 Vaslui         4-0 Targoviste
 Braila         2-1 Moinesti
 Callatis       2-0 Sacele
@@ -1103,7 +1099,7 @@ Ghimbav        0-1 Focsani
 Botosani       2-1 Altay
 Dunarea Galati 2-0 Roman
 
-Round 18 [Mar 26]
+Round: 18 [Mar 26]
 Ceahlaul       0-1 Vaslui
 Moinesti       2-0 Ghimbav
 Roman          1-2 Braila
@@ -1113,7 +1109,7 @@ Altay          0-0 Midia
 Sacele         1-0 Poli Timisoara
 Botosani       1-2 Dunarea Galati
 
-Round 19 [Apr 2]
+Round: 19 [Apr 2]
 Vaslui         1-0 Sacele
 Braila         1-0 Botosani
 Midia          1-1 Targoviste
@@ -1123,7 +1119,7 @@ Poli Timisoara 0-2 Focsani
 Ghimbav        1-1 Roman
 Dunarea Galati 1-1 Altay
 
-Round 20 [Apr 9]
+Round: 20 [Apr 9]
 Ceahlaul       1-1 Midia          
 Moinesti       3-0 Poli Timisoara 
 Roman          0-1 Callatis       
@@ -1133,7 +1129,7 @@ Sacele         1-2 Buzau
 Botosani       4-1 Ghimbav        
 Dunarea Galati 1-0 Braila         
 
-Round 21 [Apr 16]
+Round: 21 [Apr 16]
 Vaslui         1-1 Moinesti
 Braila         0-0 Altay
 Targoviste     2-0 Ceahlaul
@@ -1143,7 +1139,7 @@ Buzau          1-0 Focsani
 Poli Timisoara 0-6 Roman
 Ghimbav        0-2 Dunarea Galati
 
-Round 22 [Apr 23]
+Round: 22 [Apr 23]
 Braila         5-0 Ghimbav
 Moinesti       0-0 Buzau
 Roman          1-1 Vaslui
@@ -1154,7 +1150,7 @@ Dunarea Galati 4-1 Callatis
 Focsani        0-3 Midia [awd]
  [Unirea Focsani suspended by FRF for late transfer payments]
 
-Round 23 [Apr 30]
+Round: 23 [Apr 30]
 Ceahlaul       0-0 Sacele
 Vaslui         1-0 Botosani
 Midia          2-0 Moinesti
@@ -1166,7 +1162,7 @@ Targoviste     3-0 Focsani [awd]
  [second suspension for Unirea Focsani]
  [the team will be excluded from the league]
 
-Round 24 [May 7]
+Round: 24 [May 7]
 Braila         2-0 Poli Timisoara 
 Moinesti       2-0 Targoviste     
 Roman          2-3 Midia          
@@ -1176,7 +1172,7 @@ Ghimbav        1-1 Callatis
 Botosani       1-0 Buzau          
 Dunarea Galati 0-3 Vaslui         
 
-Round 25 [May 11]
+Round: 25 [May 11]
 Ceahlaul       3-1 Moinesti
 Vaslui         2-1 Braila
 Targoviste     1-0 Roman
@@ -1186,7 +1182,7 @@ Sacele         3-0 Focsani [awd]
 Buzau          2-1 Dunarea Galati
 Poli Timisoara 0-3 Ghimbav
 
-Round 26 [May 14]
+Round: 26 [May 14]
 Braila         0-1 Buzau          
 Moinesti       2-1 Sacele         
 Roman          1-0 Ceahlaul       
@@ -1196,7 +1192,7 @@ Ghimbav        0-2 Vaslui
 Botosani       1-0 Targoviste     
 Dunarea Galati 0-0 Midia          
 
-Round 27 [May 21]
+Round: 27 [May 21]
 Ceahlaul       0-0 Botosani
 Vaslui         0-1 Callatis
 Targoviste     1-3 Dunarea Galati
@@ -1206,7 +1202,7 @@ Altay          3-1 Poli Timisoara
 Sacele         3-0 Roman
 Buzau          3-0 Ghimbav
 
-Round 28 [May 28]
+Round: 28 [May 28]
 Braila         4-0 Targoviste
 Moinesti       4-0 Altay
 Callatis       0-2 Buzau
@@ -1217,7 +1213,7 @@ Roman          3-0 Focsani [awd]
 Ghimbav        0-3 Midia [awd]
  [Ghimbav suspended by FRF]
 
-Round 29 [Jun 4]
+Round: 29 [Jun 4]
 Ceahlaul       1-0 Braila         
 Moinesti       1-0 Roman          
 Targoviste     2-2 Ghimbav        
@@ -1227,7 +1223,7 @@ Altay          2-1 Vaslui
 Sacele         0-0 Dunarea Galati 
 Buzau          5-1 Poli Timisoara 
 
-Round 30 [Jun 11]
+Round: 30 [Jun 11]
 Vaslui         3-2 Buzau          
 Braila         1-0 Sacele         
 Roman          2-0 Altay
@@ -1283,7 +1279,7 @@ Poli Timisoara  1-3 1-2 2-1 1-0 0-4 0-3 1-0 2-3 1-2 0-2 1-3 2-0 0-6 0-3 0-2 xxx
 
 seria 2
 
-Round 1 [Aug 21]
+Round: 1 [Aug 21]
 Ploiesti       5-1 Urziceni
 Inter-Gaz      1-1 Dinamo II
 Caracal        2-2 Inter Pitesti
@@ -1293,7 +1289,7 @@ Otopeni        0-0 Tg.Jiu
 Slatina        1-1 Alexandria
 Sibiu          4-0 Juventus
 
-Round 2 [Aug 28]
+Round: 2 [Aug 28]
 Tg.Jiu         4-0 Motru
 Mioveni        0-4 Otopeni
 Juventus       5-0 E-magnetica
@@ -1303,7 +1299,7 @@ Inter Pitesti  1-0 Sibiu
 Alexandria     0-0 Caracal
 Turnu Severin  1-0 Inter-Gaz
 
-Round 3 [Sep 4]
+Round: 3 [Sep 4]
 Ploiesti       3-0 Turnu Severin
 Mioveni        1-0 Tg.Jiu
 Inter-Gaz      0-2 Motru
@@ -1313,7 +1309,7 @@ Otopeni        1-0 Juventus
 Slatina        1-2 Dinamo II
 Sibiu          3-0 Alexandria
 
-Round 4 [Sep 11]
+Round: 4 [Sep 11]
 Tg.Jiu         1-0 Inter-Gaz
 Juventus       1-0 Mioveni
 Dinamo II      0-0 Caracal
@@ -1323,7 +1319,7 @@ Motru          0-5 Ploiesti
 Alexandria     1-2 E-magnetica
 Turnu Severin  2-2 Slatina
 
-Round 5 [Sep 18]
+Round: 5 [Sep 18]
 Ploiesti       4-0 Inter-Gaz
 Mioveni        4-1 Inter Pitesti
 Juventus       0-0 Tg.Jiu
@@ -1333,7 +1329,7 @@ Otopeni        1-0 Alexandria
 Slatina        2-1 Motru
 Sibiu          2-0 Dinamo II
 
-Round 6 [Sep 25]
+Round: 6 [Sep 25]
 Tg.Jiu         1-0 Ploiesti
 Inter-Gaz      1-0 Slatina
 Dinamo II      3-1 E-magnetica
@@ -1343,7 +1339,7 @@ Motru          2-2 Caracal
 Alexandria     1-0 Mioveni
 Turnu Severin  1-2 Sibiu
 
-Round 7 
+Round: 7 
 [Oct 2]
 Mioveni        3-0 Urziceni       
 Juventus       2-1 Alexandria     
@@ -1355,7 +1351,7 @@ Sibiu          2-0 Motru
 [Oct 3]
 Otopeni        1-0 Dinamo II
 
-Round 8 [Oct 9]
+Round: 8 [Oct 9]
 Ploiesti       1-0 Caracal        
 Tg.Jiu         4-0 Slatina        
 Dinamo II      7-3 Mioveni        
@@ -1365,7 +1361,7 @@ Alexandria     0-0 Inter Pitesti
 Turnu Severin  1-1 Otopeni        
 Inter-Gaz      ppd Sibiu
 
-Round 9 [Oct 16]
+Round: 9 [Oct 16]
 Tg.Jiu         4-0 Alexandria     
 Mioveni        1-0 Turnu Severin
 Juventus       1-0 Dinamo II      
@@ -1375,7 +1371,7 @@ E-magnetica    1-1 Inter-Gaz
 Otopeni        1-0 Motru          
 Sibiu          1-0 Ploiesti
 
-Round 10 [Oct 23]
+Round: 10 [Oct 23]
 Ploiesti       2-2 E-magnetica    
 Inter-Gaz      0-1 Otopeni        
 Dinamo II      3-1 Inter Pitesti  
@@ -1385,7 +1381,7 @@ Motru          2-0 Mioveni
 Turnu Severin  0-0 Juventus       
 Slatina        1-2 Sibiu          
 
-Round 11 [Oct 30]
+Round: 11 [Oct 30]
 Tg.Jiu         2-1 Urziceni       
 Mioveni        4-3 Inter-Gaz      
 Juventus       0-3 Motru          
@@ -1395,7 +1391,7 @@ E-magnetica    1-1 Slatina
 Otopeni        3-0 Ploiesti
 Sibiu          1-0 Caracal        
 
-Round 12 [Nov 6]
+Round: 12 [Nov 6]
 Ploiesti       1-1 Mioveni
 Inter-Gaz      8-2 Juventus
 Dinamo II      3-2 Urziceni
@@ -1405,7 +1401,7 @@ Turnu Severin  2-0 Alexandria
 Slatina        1-2 Otopeni
 Sibiu          1-0 Tg.Jiu
 
-Round 13 
+Round: 13 
 [Nov 13]
 Tg.Jiu         2-1 Dinamo II
 Mioveni        3-0 Slatina
@@ -1417,7 +1413,7 @@ Otopeni        0-1 Caracal
 [Dec 5]
 Inter Pitesti  3-2 Inter-Gaz
 
-Round 14 [Nov 20]
+Round: 14 [Nov 20]
 Ploiesti       2-1 Inter Pitesti  
 Inter-Gaz      0-0 Alexandria     
 Caracal        2-3 Mioveni        
@@ -1427,7 +1423,7 @@ E-magnetica    2-2 Tg.Jiu
 Slatina        2-0 Juventus       
 Sibiu          1-0 Otopeni        
 
-Round 15 [Nov 27]
+Round: 15 [Nov 27]
 Tg.Jiu         1-1 Turnu Severin
 Mioveni        5-5 Sibiu          
 Juventus       1-3 Caracal        
@@ -1437,7 +1433,7 @@ Inter Pitesti  0-0 Slatina
 Alexandria     0-1 Ploiesti
 Otopeni        2-2 E-magnetica    
 
-Round 16 [Mar 12]
+Round: 16 [Mar 12]
 Tg.Jiu         1-0 Otopeni
 Mioveni        2-2 E-magnetica
 Juventus       0-0 Sibiu
@@ -1447,7 +1443,7 @@ Inter Pitesti  0-1 Caracal
 Alexandria     0-0 Slatina
 Turnu Severin  3-1 Motru
 
-Round 17 [Mar 19]
+Round: 17 [Mar 19]
 Ploiesti       2-0 Dinamo II
 Inter-Gaz      0-0 Turnu Severin
 Caracal        1-0 Alexandria
@@ -1457,7 +1453,7 @@ Otopeni        2-1 Mioveni
 Slatina        1-2 Urziceni
 Sibiu          3-2 Inter Pitesti
 
-Round 18 [Mar 26]
+Round: 18 [Mar 26]
 Tg.Jiu         2-1 Mioveni
 Juventus       1-1 Otopeni
 Dinamo II      2-0 Slatina
@@ -1467,7 +1463,7 @@ Motru          1-1 Inter-Gaz
 Alexandria     1-3 Sibiu
 Turnu Severin  0-0 Ploiesti
 
-Round 19 [Apr 2]
+Round: 19 [Apr 2]
 Ploiesti       4-0 Motru
 Mioveni        2-0 Juventus
 Inter-Gaz      0-0 Tg.Jiu
@@ -1477,7 +1473,7 @@ Otopeni        2-0 Inter Pitesti
 Slatina        0-0 Turnu Severin
 Sibiu          3-2 Urziceni
 
-Round 20 [Apr 9]
+Round: 20 [Apr 9]
 Tg.Jiu         3-0 Juventus       
 Inter-Gaz      0-2 Ploiesti
 Dinamo II      1-1 Sibiu          
@@ -1487,7 +1483,7 @@ Motru          0-0 Slatina
 Alexandria     1-4 Otopeni        
 Turnu Severin  1-0 Caracal        
 
-Round 21 [Apr 16]
+Round: 21 [Apr 16]
 Ploiesti       2-0 Tg.Jiu
 Mioveni        1-0 Alexandria
 Juventus       2-1 Inter Pitesti
@@ -1497,7 +1493,7 @@ Otopeni        6-1 Urziceni
 Slatina        1-0 Inter-Gaz
 Sibiu          1-0 Turnu Severin
 
-Round 22 [Apr 23]
+Round: 22 [Apr 23]
 Ploiesti       4-0 Slatina
 Tg.Jiu         2-0 Inter Pitesti
 Inter-Gaz      2-1 Caracal
@@ -1507,7 +1503,7 @@ Motru          1-0 Sibiu
 Alexandria     1-2 Juventus
 Turnu Severin  1-2 E-magnetica
 
-Round 23 [Apr 30]
+Round: 23 [Apr 30]
 Mioveni        3-0 Dinamo II
 Juventus       1-4 Urziceni
 Caracal        0-1 Ploiesti
@@ -1517,7 +1513,7 @@ Otopeni        3-2 Turnu Severin
 Slatina        0-0 Tg.Jiu
 Sibiu          2-2 Inter-Gaz
 
-Round 24 [May 7]
+Round: 24 [May 7]
 Ploiesti       1-1 Sibiu          
  [match interrupted by pitch invasion]
  [most likely to be awarded 3-0 to Sibiu]
@@ -1529,7 +1525,7 @@ Alexandria     0-4 Tg.Jiu
 Turnu Severin  3-0 Mioveni        
 Slatina        0-2 Caracal        
 
-Round 25 [May 11]
+Round: 25 [May 11]
 Tg.Jiu         2-1 Caracal
 Mioveni        3-0 Motru
 Juventus       3-1 Turnu Severin
@@ -1539,7 +1535,7 @@ E-magnetica    0-6 Ploiesti
 Otopeni        5-0 Inter-Gaz
 Sibiu          1-0 Slatina
 
-Round 26 [May 14]
+Round: 26 [May 14]
 Ploiesti       0-2 Otopeni        
 Inter-Gaz      3-1 Mioveni        
 Dinamo II      3-0 Alexandria     
@@ -1549,7 +1545,7 @@ Motru          1-0 Juventus
 Turnu Severin  0-0 Inter Pitesti  
 Slatina        1-0 E-magnetica    
 
-Round 27 [May 21]
+Round: 27 [May 21]
 Tg.Jiu         1-0 Sibiu
 Mioveni        2-2 Ploiesti
 Juventus       2-1 Inter-Gaz
@@ -1559,7 +1555,7 @@ Alexandria     2-0 Turnu Severin
 E-magnetica    1-1 Caracal
 Otopeni        1-0 Slatina
 
-Round 28 [May 28]
+Round: 28 [May 28]
 Ploiesti       2-0 Juventus
 Inter-Gaz      1-2 Inter Pitesti
 Dinamo II      0-0 Tg.Jiu
@@ -1569,7 +1565,7 @@ Turnu Severin  2-3 Urziceni
 Slatina        1-0 Mioveni
 Sibiu          2-1 E-magnetica
 
-Round 29 [Jun 4]
+Round: 29 [Jun 4]
 Tg.Jiu         3-1 E-magnetica    
 Mioveni        1-0 Caracal        
 Juventus       0-1 Slatina        
@@ -1579,7 +1575,7 @@ Inter Pitesti  2-1 Ploiesti
 Alexandria     0-2 Inter-Gaz      
 Otopeni        1-2 Sibiu          
 
-Round 30 [Jun 11]
+Round: 30 [Jun 11]
 Ploiesti       4-0 Alexandria     
 Inter-Gaz      2-1 Urziceni       
 Caracal        1-0 Juventus       
@@ -1636,7 +1632,7 @@ Alexandria      0-4 1-3 1-4 0-1 1-4 1-2 1-0 2-2 0-0 0-0 0-2 1-2 0-0 2-0 0-0 xxx
 
 seria 3
 
-Round 1 [Aug 21]
+Round: 1 [Aug 21]
 Oradea         1-1 Liberty
 Olimpia        1-0 Oas
 Medias         1-0 Jiul
@@ -1646,7 +1642,7 @@ ACU Arad       0-2 Campia Turzii
 Sannicolau     1-1 Corvinul
 Dej            0-3 UTA [awarded, host team did not show up !]
 
-Round 2 [Aug 28]
+Round: 2 [Aug 28]
 Jiul           3-2 Deva
 Liberty        1-0 ACU Arad
 UTA            1-3 Medias
@@ -1656,7 +1652,7 @@ Oas            2-0 Dej
 Campia Turzii  2-1 Sannicolau
 Corvinul       3-0 Ineu
 
-Round 3 [Sep 4]
+Round: 3 [Sep 4]
 Jiul           3-2 U Cluj
 Olimpia        2-0 Corvinul
 Medias         1-0 Oas
@@ -1666,7 +1662,7 @@ ACU Arad       0-4 Oradea
 Sannicolau     2-1 Liberty
 Dej            1-1 Zalau
 
-Round 4 [Sep 11]
+Round: 4 [Sep 11]
 Oradea         2-1 Sannicolau
 Liberty        1-1 Ineu
 UTA            0-3 Jiul
@@ -1676,7 +1672,7 @@ Oas            0-1 Deva
 Campia Turzii  1-0 Olimpia
 Corvinul       0-1 Dej
 
-Round 5 [Sep 18]
+Round: 5 [Sep 18]
 Jiul           3-1 Oas
 Olimpia        1-0 Liberty
 Medias         4-1 Corvinul
@@ -1686,7 +1682,7 @@ Deva           0-3 Zalau
 Sannicolau     0-0 ACU Arad
 Dej            1-1 Campia Turzii
 
-Round 6 
+Round: 6 
 [Sep 25]
 Oradea         0-0 Olimpia
 Liberty        2-0 Dej
@@ -1700,7 +1696,7 @@ ACU Arad       2-2 Ineu
 * Originally awarded to Ineu, as ACU was suspended by FRF.
   Later on, the suspension was lifted and the game replayed.
 
-Round 7 [Oct 2]
+Round: 7 [Oct 2]
 Jiul           4-0 Corvinul       
 Olimpia        2-0 ACU Arad
 Medias         2-1 Liberty        
@@ -1710,7 +1706,7 @@ Ineu           2-1 Sannicolau
 Deva           1-1 Campia Turzii  
 Dej            0-4 Oradea         
 
-Round 8 [Oct 9]
+Round: 8 [Oct 9]
 Oradea         3-1 Medias         
 Liberty        2-1 Deva
 U Cluj         2-1 Ineu           
@@ -1720,7 +1716,7 @@ Corvinul       0-2 UTA
 ACU Arad       2-2 Dej            
 Sannicolau     1-0 Olimpia        
 
-Round 9 [Oct 16]
+Round: 9 [Oct 16]
 Jiul           5-0 Liberty        
 Olimpia        5-2 Ineu           
 Medias         3-1 ACU Arad
@@ -1730,7 +1726,7 @@ Oas            1-1 Corvinul
 Deva           0-3 Oradea         
 Dej            0-2 Sannicolau     
 
-Round 10 [Oct 23]
+Round: 10 [Oct 23]
 Oradea         0-3 Jiul           
 Olimpia        3-1 U Cluj         
 Liberty        2-1 UTA            
@@ -1740,7 +1736,7 @@ Corvinul       1-2 Zalau
 ACU Arad       2-0 Deva
 Sannicolau     0-0 Medias         
 
-Round 11 [Oct 30]
+Round: 11 [Oct 30]
 Jiul           3-0 ACU Arad
 Medias         1-0 Ineu           
 UTA            1-0 Oradea         
@@ -1750,7 +1746,7 @@ Oas            2-1 Liberty
 Deva           3-0 Sannicolau     
 Dej            0-1 Olimpia        
 
-Round 12 [Nov 6]
+Round: 12 [Nov 6]
 Oradea         2-1 Oas
 Olimpia        0-1 Medias
 Liberty        1-1 Zalau
@@ -1760,7 +1756,7 @@ ACU Arad       0-0 UTA
 Sannicolau     0-2 Jiul
 Dej            1-2 U Cluj
 
-Round 13 [Nov 13]
+Round: 13 [Nov 13]
 Jiul           3-1 Ineu
 Medias         4-0 Dej
 UTA            2-1 Sannicolau
@@ -1773,7 +1769,7 @@ Corvinul       0-3 Liberty **
    Bordean, Nelu Mitrica, Alin Rus, Marin Caprarescu and former coach 
    Virgil Stoica.]
 
-Round 14 [Nov 20]
+Round: 14 [Nov 20]
 Oradea         3-0 Corvinul       [awd, Corvinul suspended by FRF]
 Olimpia        2-1 Jiul           
 Medias         2-1 U Cluj         
@@ -1783,7 +1779,7 @@ ACU Arad       0-0 Zalau
 Sannicolau     2-1 Oas            
 Dej            1-3 Deva
 
-Round 15 [Nov 27]
+Round: 15 [Nov 27]
 Jiul           4-1 Dej            
 UTA            0-0 Olimpia        
 U Cluj         1-2 Liberty        
@@ -1795,7 +1791,7 @@ Corvinul       0-3 ACU Arad       [awd]
   [Corvinul is suspended by FRF and were excluded, with all
    results cancelled]
 
-Round 16 [Mar 12]
+Round: 16 [Mar 12]
 Jiul           1-0 Medias
 Liberty        0-0 Oradea
 UTA            0-1 Dej
@@ -1804,7 +1800,7 @@ Zalau          1-0 Ineu
 Oas            0-5 Olimpia
 Campia Turzii  0-0 ACU Arad
 
-Round 17 [Mar 19]
+Round: 17 [Mar 19]
 Oradea         0-0 U Cluj
 Olimpia        1-1 Zalau
 Medias         1-1 UTA
@@ -1813,7 +1809,7 @@ ACU Arad       2-3 Liberty
 Sannicolau     0-0 Campia Turzii
 Dej            3-0 Oas
 
-Round 18 [Mar 26]
+Round: 18 [Mar 26]
 Oradea         2-0 ACU Arad
 Liberty        1-1 Sannicolau
 UTA            1-0 Deva
@@ -1822,7 +1818,7 @@ Zalau          1-1 Dej
 Oas            0-3 Medias
 Campia Turzii  2-3 Ineu
 
-Round 19 [Apr 2]
+Round: 19 [Apr 2]
 Jiul           2-0 UTA
 Olimpia        2-1 Campia Turzii
 Medias         2-1 Zalau
@@ -1830,7 +1826,7 @@ Ineu           0-4 Liberty
 ACU Arad       1-2 U Cluj
 Sannicolau     0-0 Oradea
 
-Round 20 [Apr 9]
+Round: 20 [Apr 9]
 Oradea         1-0 Ineu           
 Liberty        0-3 Olimpia        
 U Cluj         1-3 UTA            
@@ -1839,7 +1835,7 @@ Oas            0-2 Jiul
 Campia Turzii  1-0 Dej            
 ACU Arad       0-1 Sannicolau     
 
-Round 21 [Apr 16]
+Round: 21 [Apr 16]
 Jiul           3-3 Zalau
 Olimpia        1-0 Oradea
 Medias         5-0 Campia Turzii
@@ -1848,7 +1844,7 @@ Ineu           2-2 ACU Arad
 Sannicolau     0-0 U Cluj
 Dej            0-1 Liberty
 
-Round 22 [Apr 23]
+Round: 22 [Apr 23]
 Oradea         4-0 Dej
 Liberty        1-3 Medias
 U Cluj         4-0 Oas
@@ -1857,7 +1853,7 @@ Campia Turzii  3-1 Deva
 ACU Arad       0-0 Olimpia
 Sannicolau     4-0 Ineu
 
-Round 23 [Apr 30]
+Round: 23 [Apr 30]
 Jiul           3-0 Campia Turzii
 Olimpia        3-0 Sannicolau
 Medias         2-1 Oradea
@@ -1866,7 +1862,7 @@ Ineu           1-2 U Cluj
 Deva           1-1 Liberty
 Dej            2-0 ACU Arad
 
-Round 24 [May 7]
+Round: 24 [May 7]
 Oradea         3-1 Deva
 Liberty        0-0 Jiul           
 Zalau          2-0 U Cluj         
@@ -1875,7 +1871,7 @@ Campia Turzii  2-1 UTA
 ACU Arad       1-1 Medias         
 Sannicolau     0-1 Dej 
            
-Round 25 [May 11]
+Round: 25 [May 11]
 Jiul           1-2 Oradea
 Medias         2-0 Sannicolau
 UTA            1-1 Liberty
@@ -1884,7 +1880,7 @@ Oas            1-0 Campia Turzii
 Deva           1-0 ACU Arad
 Dej            3-0 Ineu
 
-Round 26 [May 14]
+Round: 26 [May 14]
 Oradea         2-1 UTA            
 Olimpia        1-0 Dej            
 Liberty        4-1 Oas            
@@ -1893,7 +1889,7 @@ Campia Turzii  1-0 Zalau
 ACU Arad       0-1 Jiul           
 Sannicolau     2-0 Deva
 
-Round 27 [May 21]
+Round: 27 [May 21]
 Jiul           5-1 Sannicolau
 Medias         2-0 Olimpia
 UTA            1-1 ACU Arad
@@ -1902,7 +1898,7 @@ Zalau          0-2 Liberty
 Oas            2-3 Oradea
 Deva           3-1 Ineu
 
-Round 28 [May 28]
+Round: 28 [May 28]
 Oradea         0-1 Zalau
 Olimpia        2-1 Deva
 Ineu           0-5 Jiul
@@ -1911,7 +1907,7 @@ ACU Arad       2-3 Oas
 Sannicolau     5-2 UTA
 Dej            0-2 Medias
 
-Round 29 [Jun 4]
+Round: 29 [Jun 4]
 Jiul           2-1 Olimpia        
 UTA            3-2 Ineu           
 U Cluj         0-1 Medias         
@@ -1920,7 +1916,7 @@ Oas            1-2 Sannicolau
 Campia Turzii  2-1 Liberty        
 Deva           0-2 Dej            
 
-Round 30 [Jun 11]
+Round: 30 [Jun 11]
 Oradea         3-0 Campia Turzii  
 Olimpia        2-0 UTA            
 Medias         2-1 Deva
@@ -1986,7 +1982,7 @@ Divizia C
 
 Seria 1
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Suceava        2-1 Husi           
 Ceahlaul II    2-1 Bicaz          
 Poli Iasi II   1-3 Bacau II
@@ -1994,7 +1990,7 @@ CFR Pascani    4-2 Balan
 Pambac         1-1 Aerostar       
 Vatra Dornei   2-1 Barlad         
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 Husi           1-1 Vatra Dornei   
 Bicaz          1-0 Suceava        
 Bacau II       2-0 Ceahlaul II    
@@ -2002,7 +1998,7 @@ Balan          1-0 Poli Iasi II
 CFR Iasi       1-1 CFR Pascani    
 Barlad         2-1 Pambac         
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Suceava        1-0 Bacau II
 Ceahlaul II    1-3 Balan          
 Bicaz          1-0 Husi           
@@ -2010,7 +2006,7 @@ Poli Iasi II   3-0 CFR Iasi
 CFR Pascani    0-1 Aerostar       
 Pambac         2-1 Vatra Dornei   
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Husi           4-2 Pambac         
 Bacau II       3-0 Bicaz          
 Balan          0-3 Suceava        
@@ -2018,7 +2014,7 @@ CFR Iasi       2-1 Ceahlaul II
 Aerostar       3-1 Poli Iasi II   
 Barlad         3-1 CFR Pascani    
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Suceava        3-0 CFR Iasi       
 Ceahlaul II    1-3 Aerostar       
 Bicaz          1-3 Balan          
@@ -2026,7 +2022,7 @@ Poli Iasi II   0-0 Barlad
 Bacau II       2-0 Husi           
 CFR Pascani    0-0 Vatra Dornei   
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 Balan          1-0 Bacau II
 CFR Iasi       1-2 Bicaz          
 Pambac         3-0 CFR Pascani    
@@ -2034,7 +2030,7 @@ Aerostar       3-0 Suceava
 Vatra Dornei   3-2 Poli Iasi II   
 Barlad         2-1 Ceahlaul II    
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Suceava        3-1 Barlad         
 Husi           4-0 Balan          
 Ceahlaul II    3-1 Vatra Dornei   
@@ -2042,7 +2038,7 @@ Bicaz          0-0 Aerostar
 Poli Iasi II   0-2 Pambac         
 Bacau II       4-1 CFR Iasi       
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 CFR Pascani    4-0 Husi           
 CFR Iasi       2-0 Balan          
 Pambac         1-0 Ceahlaul II    
@@ -2050,7 +2046,7 @@ Aerostar       1-1 Bacau II
 Vatra Dornei   1-2 Suceava        
 Barlad         2-0 Bicaz          
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 Suceava        2-2 Pambac         
 Husi           2-0 CFR Iasi       
 Bicaz          0-2 Vatra Dornei   
@@ -2058,7 +2054,7 @@ Poli Iasi II   3-0 CFR Pascani
 Bacau II       4-0 Barlad         
 Balan          2-1 Aerostar       
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 Poli Iasi II   3-2 Husi           
 CFR Pascani    1-0 Ceahlaul II    
 Pambac         2-0 Bicaz          
@@ -2066,7 +2062,7 @@ Aerostar       6-0 CFR Iasi
 Vatra Dornei   2-0 Bacau II
 Barlad         3-0 Balan          
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 Suceava        2-1 CFR Pascani    
 Husi           0-1 Aerostar       
 Ceahlaul II    0-1 Poli Iasi II   
@@ -2074,7 +2070,7 @@ Bacau II       3-1 Pambac
 Balan          1-0 Vatra Dornei   
 CFR Iasi       2-0 Barlad         
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 Ceahlaul II    2-1 Husi           
 Poli Iasi II   1-0 Suceava        
 CFR Pascani    1-0 Bicaz          
@@ -2082,7 +2078,7 @@ Pambac         2-2 Balan
 Vatra Dornei   3-1 CFR Iasi       
 Barlad         0-2 Aerostar       
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 Suceava        1-0 Ceahlaul II    
 Husi           0-1 Barlad         
 Bicaz          1-6 Poli Iasi II   
@@ -2090,7 +2086,7 @@ Bacau II       4-1 CFR Pascani
 CFR Iasi       2-1 Pambac         
 Aerostar       2-0 Vatra Dornei   
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 Husi           1-1 Suceava        
 Bicaz          2-1 Ceahlaul II    
 Bacau II       0-0 Poli Iasi II   
@@ -2098,7 +2094,7 @@ Balan          2-0 CFR Pascani
 Aerostar       1-1 Pambac         
 Barlad         2-1 Vatra Dornei   
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Suceava        1-0 Bicaz          
 Ceahlaul II    0-1 Bacau II
 Poli Iasi II   1-0 Balan          
@@ -2106,7 +2102,7 @@ CFR Pascani    1-2 CFR Iasi
 Pambac         0-0 Barlad         
 Vatra Dornei   3-0 Husi           
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 Husi           2-0 Bicaz          
 Bacau II       0-0 Suceava        
 Balan          2-1 Ceahlaul II    
@@ -2114,7 +2110,7 @@ CFR Iasi       0-4 Poli Iasi II
 Aerostar       2-0 CFR Pascani    
 Vatra Dornei   1-3 Pambac         
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Suceava        3-2 Balan          
 Ceahlaul II    0-3 CFR Iasi       
 Bicaz          0-2 Bacau II
@@ -2122,7 +2118,7 @@ Poli Iasi II   1-0 Aerostar
 CFR Pascani    2-1 Barlad         
 Pambac         3-0 Husi           
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 Husi           0-2 Bacau II
 Balan          1-2 Bicaz          
 CFR Iasi       1-4 Suceava        
@@ -2130,7 +2126,7 @@ Aerostar       3-0 Ceahlaul II
 Vatra Dornei   2-1 CFR Pascani    
 Barlad         4-0 Poli Iasi II   
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Suceava        1-0 Aerostar       
 Ceahlaul II    0-0 Barlad         
 Bicaz          1-0 CFR Iasi       
@@ -2138,7 +2134,7 @@ Poli Iasi II   6-1 Vatra Dornei
 Bacau II       1-0 Balan          
 CFR Pascani    3-0 Pambac         
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 Balan          4-1 Husi           
 CFR Iasi       0-0 Bacau II
 Pambac         3-2 Poli Iasi II   
@@ -2146,7 +2142,7 @@ Aerostar       2-0 Bicaz
 Vatra Dornei   2-0 Ceahlaul II    
 Barlad         1-3 Suceava        
 
-Round 21 [May 6]
+Round: 21 [May 6]
 Suceava        3-0 Vatra Dornei   
 Husi           0-1 CFR Pascani    
 Ceahlaul II    0-0 Pambac         
@@ -2154,7 +2150,7 @@ Bicaz          2-0 Barlad
 Bacau II       0-0 Aerostar       
 Balan          1-0 CFR Iasi       
 
-Round 22 [May 13]
+Round: 22 [May 13]
 CFR Pascani    2-2 Poli Iasi II   
 CFR Iasi       1-0 Husi           
 Pambac         2-3 Suceava        
@@ -2162,7 +2158,7 @@ Aerostar       4-0 Balan
 Vatra Dornei   2-1 Bicaz          
 Barlad         1-0 Bacau II
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Husi           1-1 Poli Iasi II   
 Ceahlaul II    0-0 CFR Pascani    
 Bicaz          1-0 Pambac         
@@ -2170,7 +2166,7 @@ Bacau II       4-1 Vatra Dornei
 Balan          2-1 Barlad         
 CFR Iasi       2-1 Aerostar       
 
-Round 24 [May 27]
+Round: 24 [May 27]
 Poli Iasi II   5-0 Ceahlaul II    
 CFR Pascani    2-0 Suceava        
 Pambac         1-3 Bacau II
@@ -2178,7 +2174,7 @@ Aerostar       3-0 Husi
 Vatra Dornei   2-0 Balan          
 Barlad         1-0 CFR Iasi       
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 Suceava        2-0 Poli Iasi II   
 Husi           0-2 Ceahlaul II    
 Bicaz          2-2 CFR Pascani    
@@ -2186,7 +2182,7 @@ Balan          0-1 Pambac
 CFR Iasi       4-0 Vatra Dornei   
 Aerostar       6-1 Barlad         
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 Ceahlaul II    1-1 Suceava        
 Poli Iasi II   1-0 Bicaz          
 CFR Pascani    0-3 Bacau II
@@ -2234,7 +2230,7 @@ Radauti          -   -   -   -   -   -   -   -   -   -   -   -   -  xxx
 
 Seria 2
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Movila Miresei 0-5 Calarasi       
 Vulturu        2-0 Rm.Sarat       
 Farul II       3-2 Oil Terminal   
@@ -2243,7 +2239,7 @@ Nehoiu         0-3 Portul
 Slobozia       2-0 Medgidia       
 Junkers        0-0 Berca          
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 Calarasi       4-4 Junkers        
 Rm.Sarat       5-0 Movila Miresei 
 Oil Terminal   1-1 Vulturu        
@@ -2252,7 +2248,7 @@ Portul         3-0 23 August
 Medgidia       0-0 Nehoiu         
 Berca          3-1 Slobozia       
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Movila Miresei 1-1 Oil Terminal   
 Vulturu        0-2 Petr.Braila
 Rm.Sarat       0-0 Calarasi       
@@ -2261,7 +2257,7 @@ Farul II       0-2 Portul
 Nehoiu         0-2 Berca          
 Slobozia       1-0 Junkers        
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Calarasi       0-1 Slobozia       
 Oil Terminal   1-1 Rm.Sarat       
 Petr.Braila    5-0 Movila Miresei 
@@ -2270,7 +2266,7 @@ Medgidia       0-1 Farul II
 Junkers        6-0 Nehoiu         
 Berca          1-0 23 August      
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Movila Miresei 0-4 Portul         
 Vulturu        2-0 Medgidia       
 Rm.Sarat       2-2 Petr.Braila
@@ -2279,7 +2275,7 @@ Oil Terminal   1-6 Calarasi
 23 August      3-2 Junkers        
 Nehoiu         3-1 Slobozia       
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 Calarasi       4-1 Nehoiu         
 Petr.Braila    3-0 Oil Terminal   
 Portul         3-0 Rm.Sarat       
@@ -2288,7 +2284,7 @@ Medgidia       3-0 Movila Miresei
 Junkers        2-0 Farul II       
 Berca          2-0 Vulturu        
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Movila Miresei 1-2 Berca          
 Calarasi       1-0 Petr.Braila
 Vulturu        2-0 Junkers        
@@ -2297,7 +2293,7 @@ Farul II       0-0 Slobozia
 Oil Terminal   1-3 Portul         
 23 August      3-0 Nehoiu         
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 23 August      0-0 Calarasi       
 Nehoiu         3-2 Farul II       
 Portul         2-2 Petr.Braila
@@ -2306,7 +2302,7 @@ Medgidia       2-0 Oil Terminal
 Junkers        2-0 Movila Miresei 
 Berca          2-1 Rm.Sarat       
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 Movila Miresei 1-2 Slobozia       
 Calarasi       0-0 Portul         
 Vulturu        3-0 Nehoiu         
@@ -2315,7 +2311,7 @@ Farul II       1-2 23 August
 Oil Terminal   3-1 Berca          
 Petr.Braila    4-2 Medgidia       
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 Farul II       1-0 Calarasi       
 23 August      3-0 Vulturu        
 Nehoiu         4-1 Movila Miresei 
@@ -2324,7 +2320,7 @@ Medgidia       0-1 Portul
 Junkers        1-0 Oil Terminal   
 Berca          0-2 Petr.Braila
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 Movila Miresei 0-3 23 August      
 Calarasi       4-2 Medgidia       
 Vulturu        0-1 Farul II       
@@ -2333,7 +2329,7 @@ Oil Terminal   3-0 Slobozia
 Petr.Braila    1-1 Junkers        
 Portul         1-1 Berca          
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 Vulturu        0-2 Calarasi       
 Farul II       8-0 Movila Miresei 
 23 August      0-2 Rm.Sarat       
@@ -2342,7 +2338,7 @@ Slobozia       2-2 Petr.Braila
 Junkers        2-1 Portul         
 Berca          5-0 Medgidia       
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 Movila Miresei 0-1 Vulturu        
 Calarasi       3-0 Berca          
 Rm.Sarat       2-1 Farul II       
@@ -2354,7 +2350,7 @@ Medgidia       0-1 Junkers
 * Movila Miresei and Slobozia withdraw, forfeit remaining games 0-3.
 * Head to head game Slobozia vs Movila Miresei (round 22) not recorded.
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 Calarasi       3-0 Movila Miresei 
 Rm.Sarat       1-0 Vulturu        
 Oil Terminal   2-0 Farul II       
@@ -2363,7 +2359,7 @@ Portul         6-0 Nehoiu
 Medgidia       3-0 Slobozia       
 Berca          3-0 Junkers        
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Movila Miresei 0-3 Rm.Sarat       
 Vulturu        2-2 Oil Terminal   
 Farul II       1-0 Petr.Braila
@@ -2372,7 +2368,7 @@ Nehoiu         0-0 Medgidia
 Slobozia       0-3 Berca          
 Junkers        2-0 Calarasi       
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 Calarasi       1-1 Rm.Sarat       
 Oil Terminal   3-0 Movila Miresei 
 Petr.Braila    2-0 Vulturu        
@@ -2381,7 +2377,7 @@ Medgidia       0-1 23 August
 Junkers        3-0 Slobozia       
 Berca          2-2 Nehoiu         
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Movila Miresei 0-3 Petr.Braila
 Vulturu        1-0 Portul         
 Rm.Sarat       0-0 Oil Terminal   
@@ -2390,17 +2386,17 @@ Farul II       2-1 Medgidia
 Nehoiu         0-1 Junkers        
 Slobozia       0-3 Calarasi       
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 Calarasi       3-0 Oil Terminal   
 Petr.Braila    0-1 Rm.Sarat       
 Portul         2-1 Movila Miresei 
 Slobozia       0-3 Nehoiu         
 Junkers        4-1 23 August      
 Berca          1-0 Farul II       
-Round 18 [Apr 16]
+Round: 18 [Apr 16]
 Medgidia       0-0 Vulturu        
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Movila Miresei 0-3 Medgidia       
 Vulturu        0-1 Berca          
 Rm.Sarat       0-1 Portul         
@@ -2409,7 +2405,7 @@ Oil Terminal   2-1 Petr.Braila
 23 August      3-0 Slobozia       
 Nehoiu         0-1 Calarasi       
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 Petr.Braila    3-2 Calarasi       
 Nehoiu         2-3 23 August      
 Portul         4-2 Oil Terminal   
@@ -2418,7 +2414,7 @@ Medgidia       1-2 Rm.Sarat
 Junkers        1-0 Vulturu        
 Berca          3-0 Movila Miresei 
 
-Round 21 [May 6]
+Round: 21 [May 6]
 Movila Miresei 0-3 Junkers        
 Calarasi       5-0 23 August      
 Vulturu        3-0 Slobozia       
@@ -2427,7 +2423,7 @@ Farul II       2-3 Nehoiu
 Oil Terminal   1-0 Medgidia       
 Petr.Braila    2-0 Portul         
 
-Round 22 [May 13]
+Round: 22 [May 13]
 23 August      0-1 Farul II       
 Nehoiu         3-0 Vulturu        
 Portul         3-2 Calarasi       
@@ -2435,17 +2431,17 @@ Medgidia       3-0 Petr.Braila
 Junkers        2-0 Rm.Sarat       
 Berca          1-0 Oil Terminal   
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Movila Miresei 0-3 Nehoiu         
 Vulturu        1-0 23 August      
 Rm.Sarat       3-0 Slobozia       
 Oil Terminal   2-0 Junkers        
 Petr.Braila    2-0 Berca          
 Portul         4-0 Medgidia       
-Round 23 [May 21]
+Round: 23 [May 21]
 Calarasi       5-2 Farul II       
 
-Round 24 [May 27]
+Round: 24 [May 27]
 Farul II       6-1 Vulturu        
 23 August      3-0 Movila Miresei 
 Nehoiu         0-2 Rm.Sarat       
@@ -2454,7 +2450,7 @@ Medgidia       0-1 Calarasi
 Junkers        2-2 Petr.Braila
 Berca          0-2 Portul         
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 Movila Miresei 0-3 Farul II       
 Calarasi       4-0 Vulturu        
 Rm.Sarat       4-1 23 August      
@@ -2463,7 +2459,7 @@ Petr.Braila    3-0 Slobozia
 Portul         3-0 Junkers        
 Medgidia       2-0 Berca          
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 Vulturu        3-0 Movila Miresei 
 Farul II       0-0 Rm.Sarat       
 23 August      0-1 Oil Terminal   
@@ -2510,7 +2506,7 @@ Movila Miresei  0-4 0-3 0-5 1-2 0-3 0-3 1-1 0-3 0-3 0-1 0-3 0-3 1-2 xxx
 
 Seria 3
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Steaua II      1-0 Faur           
 Mogosoaia      0-0 Zimnicea       
 Snagov         0-1 Bolintin       
@@ -2519,7 +2515,7 @@ Videle         0-2 Rosiori
 Chitila        3-0 Turnu Magurele 
 Oltenita       1-0 Aversa         
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 Faur           0-1 Oltenita       
 Zimnicea       3-5 Steaua II      
 Bolintin       0-1 Mogosoaia      
@@ -2528,7 +2524,7 @@ Rosiori        1-0 Tigar
 Aversa         2-4 Chitila        
 Turnu Magurele 1-0 Videle         
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Steaua II      2-0 Bolintin       
 Mogosoaia      1-2 Giurgiu        
 Zimnicea       1-2 Faur           
@@ -2537,7 +2533,7 @@ Tigar          0-0 Turnu Magurele
 Videle         1-0 Aversa         
 Chitila        2-2 Oltenita       
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Faur           0-2 Chitila        
 Bolintin       3-0 Zimnicea       
 Giurgiu        2-2 Steaua II      
@@ -2546,7 +2542,7 @@ Oltenita       1-0 Videle
 Aversa         0-1 Tigar          
 Turnu Magurele 2-1 Snagov         
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Steaua II      0-1 Rosiori        
 Mogosoaia      4-1 Turnu Magurele 
 Zimnicea       0-1 Giurgiu        
@@ -2555,7 +2551,7 @@ Bolintin       0-0 Faur
 Tigar          2-0 Oltenita       
 Videle         3-2 Chitila        
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 Faur           1-2 Videle         
 Giurgiu        1-0 Bolintin       
 Rosiori        1-1 Zimnicea       
@@ -2564,7 +2560,7 @@ Oltenita       3-3 Snagov
 Aversa         3-3 Mogosoaia      
 Turnu Magurele 1-1 Steaua II      
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Faur           0-2 Giurgiu        
 Mogosoaia      2-1 Oltenita       
 Zimnicea       1-1 Turnu Magurele 
@@ -2574,7 +2570,7 @@ Tigar          1-1 Videle
 [Oct 18]
 Steaua II      3-0 Aversa         
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 Tigar          1-1 Faur           
 Videle         0-1 Snagov         
 Rosiori        1-1 Giurgiu        
@@ -2583,7 +2579,7 @@ Oltenita       2-0 Steaua II
 Aversa         1-1 Zimnicea       
 Turnu Magurele 0-0 Bolintin       
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 Steaua II      1-2 Chitila        
 Faur           1-3 Rosiori        
 Mogosoaia      3-0 Videle         
@@ -2592,7 +2588,7 @@ Snagov         5-2 Tigar
 Bolintin       1-1 Aversa         
 Giurgiu        2-0 Turnu Magurele 
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 Snagov         2-0 Faur           
 Tigar          0-3 Mogosoaia      
 Videle         2-0 Steaua II      
@@ -2601,7 +2597,7 @@ Oltenita       0-1 Bolintin
 Aversa         0-1 Giurgiu        
 Turnu Magurele 1-1 Rosiori        
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 Steaua II      1-1 Tigar          
 Faur           3-2 Turnu Magurele 
 Mogosoaia      1-0 Snagov         
@@ -2610,7 +2606,7 @@ Bolintin       1-2 Chitila
 Giurgiu        5-1 Oltenita       
 Rosiori        0-0 Aversa         
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 Mogosoaia      2-0 Faur           
 Snagov         5-1 Steaua II      
 Tigar          1-2 Zimnicea       
@@ -2619,7 +2615,7 @@ Chitila        1-2 Giurgiu
 Oltenita       2-0 Rosiori        
 Aversa         0-2 Turnu Magurele 
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 Steaua II      1-0 Mogosoaia      
 Faur           1-0 Aversa         
 Zimnicea       2-4 Snagov         
@@ -2630,7 +2626,7 @@ Turnu Magurele 2-1 Oltenita
 
 * Zimnicea withdraws, forfeits remaining games 0-3.
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 Faur           0-2 Steaua II      
 Zimnicea       0-3 Mogosoaia      
 Bolintin       1-1 Snagov         
@@ -2639,7 +2635,7 @@ Rosiori        3-0 Videle
 Aversa         1-2 Oltenita       
 Turnu Magurele 0-1 Chitila        
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Steaua II      3-0 Zimnicea       
 Mogosoaia      3-1 Bolintin       
 Snagov         1-1 Giurgiu        
@@ -2648,7 +2644,7 @@ Videle         0-1 Turnu Magurele
 Chitila        1-0 Aversa         
 Oltenita       2-0 Faur           
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 Faur           3-0 Zimnicea       
 Bolintin       2-2 Steaua II      
 Giurgiu        3-2 Mogosoaia      
@@ -2657,7 +2653,7 @@ Oltenita       1-1 Chitila
 Aversa         1-1 Videle         
 Turnu Magurele 2-2 Tigar          
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Steaua II      1-2 Giurgiu        
 Mogosoaia      1-1 Rosiori        
 Zimnicea       0-3 Bolintin       
@@ -2666,7 +2662,7 @@ Tigar          1-0 Aversa
 Videle         3-1 Oltenita       
 Chitila        2-2 Faur           
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 Faur           1-1 Bolintin       
 Giurgiu        3-0 Zimnicea       
 Rosiori        1-0 Steaua II      
@@ -2675,7 +2671,7 @@ Oltenita       1-1 Tigar
 Aversa         0-1 Snagov         
 Turnu Magurele 0-0 Mogosoaia      
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Steaua II      1-0 Turnu Magurele 
 Mogosoaia      5-0 Aversa         
 Zimnicea       0-3 Rosiori        
@@ -2684,7 +2680,7 @@ Bolintin       0-2 Giurgiu
 Tigar          2-0 Chitila        
 Videle         4-3 Faur           
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 Giurgiu        3-0 Faur           
 Videle         5-1 Tigar          
 Rosiori        2-0 Bolintin       
@@ -2693,7 +2689,7 @@ Oltenita       1-0 Mogosoaia
 Aversa         1-4 Steaua II      
 Turnu Magurele 3-0 Zimnicea       
 
-Round 21 [May 6]
+Round: 21 [May 6]
 Steaua II      0-1 Oltenita       
 Faur           3-4 Tigar          
 Mogosoaia      3-0 Chitila        
@@ -2702,7 +2698,7 @@ Snagov         0-0 Videle
 Bolintin       2-1 Turnu Magurele 
 Giurgiu        3-0 Rosiori        
 
-Round 22 [May 13]
+Round: 22 [May 13]
 Tigar          4-1 Snagov         
 Videle         3-2 Mogosoaia      
 Rosiori        4-2 Faur           
@@ -2711,7 +2707,7 @@ Oltenita       3-0 Zimnicea
 Aversa         1-0 Bolintin       
 Turnu Magurele 0-3 Giurgiu        
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Steaua II      0-2 Videle         
 Faur           1-1 Snagov         
 Mogosoaia      2-0 Tigar          
@@ -2720,7 +2716,7 @@ Bolintin       1-0 Oltenita
 Giurgiu        3-0 Aversa         
 Rosiori        0-1 Turnu Magurele 
 
-Round 24 [May 27]
+Round: 24 [May 27]
 Snagov         2-0 Mogosoaia      
 Tigar          2-0 Steaua II      
 Videle         3-0 Zimnicea       
@@ -2729,7 +2725,7 @@ Oltenita       1-4 Giurgiu
 Aversa         3-1 Rosiori        
 Turnu Magurele 2-0 Faur           
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 Steaua II      2-0 Snagov         
 Faur           3-3 Mogosoaia      
 Zimnicea       0-3 Tigar          
@@ -2738,7 +2734,7 @@ Giurgiu        4-1 Chitila
 Rosiori        2-3 Oltenita       
 Turnu Magurele 1-1 Aversa         
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 Mogosoaia      1-0 Steaua II      
 Snagov         3-0 Zimnicea       
 Tigar          3-0 Bolintin       
@@ -2785,7 +2781,7 @@ Zimnicea        0-1 0-3 0-3 0-3 2-4 1-0 2-1 0-3 1-1 3-5 0-3 0-3 1-2 xxx
 
 Seria 4
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Sinaia         1-0 Moreni         
 Boldesti       3-0 Pet.Targoviste 
 Arpechim       2-2 Brazi          
@@ -2793,7 +2789,7 @@ Gaesti         1-1 Titu
 Conpet         1-1 Breaza         
 Poiana         2-1 Targoviste II
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 Pet.Targoviste 3-0 Sinaia         
 Brazi          1-1 Boldesti       
 Titu           4-0 Arpechim       
@@ -2801,7 +2797,7 @@ Breaza         4-1 Gaesti
 Targoviste II  2-1 Conpet         
 Fieni          1-0 Poiana         
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Sinaia         3-1 Brazi          
 Boldesti       2-1 Titu           
 Pet.Targoviste 0-0 Moreni         
@@ -2809,7 +2805,7 @@ Arpechim       1-2 Breaza
 Gaesti         2-0 Targoviste II
 Conpet         0-0 Fieni          
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Moreni         0-3 Poiana         
 Brazi          2-0 Pet.Targoviste 
 Titu           2-0 Sinaia         
@@ -2817,7 +2813,7 @@ Breaza         0-0 Boldesti
 Targoviste II  2-0 Arpechim       
 Fieni          1-0 Gaesti         
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Sinaia         1-1 Breaza         
 Boldesti       2-0 Targoviste II
 Pet.Targoviste 1-0 Titu           
@@ -2825,7 +2821,7 @@ Arpechim       0-1 Fieni
 Brazi          2-1 Moreni         
 Conpet         2-0 Poiana         
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 Moreni         0-1 Conpet         
 Titu           2-0 Brazi          
 Breaza         0-0 Pet.Targoviste 
@@ -2833,7 +2829,7 @@ Poiana         5-0 Gaesti
 Targoviste II  2-0 Sinaia         
 Fieni          1-1 Boldesti       
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Sinaia         1-1 Fieni          
 Moreni         0-0 Titu           
 Pet.Targoviste 1-0 Targoviste II
@@ -2841,7 +2837,7 @@ Arpechim       1-1 Poiana
 Brazi          2-1 Breaza         
 Gaesti         1-2 Conpet         
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 Gaesti         3-0 Moreni         
 Conpet         2-1 Arpechim       
 Breaza         3-0 Titu           
@@ -2849,7 +2845,7 @@ Poiana         0-0 Boldesti
 Targoviste II  2-3 Brazi          
 Fieni          0-1 Pet.Targoviste 
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 Sinaia         0-3 Poiana         [wo: no medical assistance provided by hosts]
 Moreni         1-2 Breaza         
 Boldesti       3-2 Conpet         
@@ -2857,7 +2853,7 @@ Arpechim       1-4 Gaesti
 Brazi          2-0 Fieni          
 Titu           0-1 Targoviste II
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 Arpechim       3-3 Moreni         
 Gaesti         0-0 Boldesti       
 Conpet         3-0 Sinaia         
@@ -2865,7 +2861,7 @@ Poiana         4-2 Pet.Targoviste
 Targoviste II  1-0 Breaza         
 Fieni          0-2 Titu           
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 Sinaia         3-0 Gaesti         
 Moreni         1-1 Targoviste II
 Boldesti       3-0 Arpechim       
@@ -2873,7 +2869,7 @@ Pet.Targoviste 0-2 Conpet
 Brazi          1-0 Poiana         
 Breaza         3-0 Fieni          
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 Boldesti       1-3 Moreni         
 Arpechim       1-1 Sinaia         
 Gaesti         1-1 Pet.Targoviste 
@@ -2881,7 +2877,7 @@ Conpet         1-1 Brazi
 Poiana         1-0 Titu           
 Fieni          3-0 Targoviste II
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 Sinaia         3-0 Boldesti       
 Moreni         2-2 Fieni          
 Pet.Targoviste 2-0 Arpechim       
@@ -2889,7 +2885,7 @@ Brazi          1-1 Gaesti
 Titu           0-1 Conpet         
 Breaza         0-0 Poiana         
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 Moreni         2-0 Sinaia         
 Pet.Targoviste 2-0 Boldesti       
 Brazi          2-0 Arpechim       
@@ -2897,7 +2893,7 @@ Titu           1-0 Gaesti
 Breaza         1-0 Conpet         
 Targoviste II  0-1 Poiana         
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Sinaia         1-0 Pet.Targoviste 
 Boldesti       0-1 Brazi          
 Arpechim       1-0 Titu           
@@ -2905,7 +2901,7 @@ Gaesti         0-0 Breaza
 Conpet         2-1 Targoviste II
 Poiana         3-2 Fieni          
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 Moreni         1-2 Pet.Targoviste 
 Brazi          2-0 Sinaia         
 Titu           0-0 Boldesti       
@@ -2913,7 +2909,7 @@ Breaza         1-0 Arpechim
 Targoviste II  1-0 Gaesti         
 Fieni          5-3 Conpet         
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Sinaia         2-1 Titu           
 Boldesti       0-0 Breaza         
 Pet.Targoviste 1-0 Brazi          
@@ -2921,7 +2917,7 @@ Arpechim       2-1 Targoviste II
 Gaesti         1-0 Fieni          
 Poiana         4-0 Moreni         
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 Moreni         0-1 Brazi          
 Titu           2-0 Pet.Targoviste 
 Breaza         3-0 Sinaia         
@@ -2929,7 +2925,7 @@ Poiana         0-1 Conpet
 Targoviste II  1-2 Boldesti       
 Fieni          5-1 Arpechim       
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Sinaia         1-1 Targoviste II
 Boldesti       0-2 Fieni          
 Pet.Targoviste 1-1 Breaza         
@@ -2937,7 +2933,7 @@ Brazi          2-1 Titu
 Gaesti         0-4 Poiana         
 Conpet         1-1 Moreni         
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 Titu           3-0 Moreni         
 Conpet         3-2 Gaesti         
 Breaza         0-0 Brazi          
@@ -2945,7 +2941,7 @@ Poiana         2-1 Arpechim
 Targoviste II  1-0 Pet.Targoviste 
 Fieni          3-1 Sinaia         
 
-Round 21 [May 6]
+Round: 21 [May 6]
 Moreni         3-2 Gaesti         
 Boldesti       1-0 Poiana         
 Pet.Targoviste 0-2 Fieni          
@@ -2953,7 +2949,7 @@ Arpechim       2-0 Conpet
 Brazi          0-1 Targoviste II
 Titu           2-1 Breaza         
 
-Round 22 [May 13]
+Round: 22 [May 13]
 Gaesti         1-2 Arpechim       
 Conpet         3-0 Boldesti       
 Breaza         0-1 Moreni         
@@ -2961,7 +2957,7 @@ Poiana         4-1 Sinaia
 Targoviste II  1-0 Titu           
 Fieni          0-4 Brazi          
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Sinaia         2-0 Conpet         
 Moreni         2-0 Arpechim       
 Boldesti       0-2 Gaesti         
@@ -2969,7 +2965,7 @@ Pet.Targoviste 2-4 Poiana
 Titu           1-3 Fieni          
 Breaza         1-0 Targoviste II
 
-Round 24 [May 27]
+Round: 24 [May 27]
 Arpechim       1-0 Boldesti       
 Gaesti         1-0 Sinaia         
 Conpet         1-3 Pet.Targoviste 
@@ -2977,7 +2973,7 @@ Poiana         4-0 Brazi
 Targoviste II  0-1 Moreni         
 Fieni          5-0 Breaza         
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 Sinaia         0-0 Arpechim       
 Moreni         4-1 Boldesti       
 Pet.Targoviste 1-2 Gaesti         
@@ -2985,7 +2981,7 @@ Brazi          3-1 Conpet
 Titu           2-1 Poiana         
 Targoviste II  1-1 Fieni          
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 Boldesti       4-0 Sinaia         
 Arpechim       0-0 Pet.Targoviste 
 Gaesti         5-2 Brazi          
@@ -3033,166 +3029,166 @@ ARO              -   -   -   -   -   -   -   -   -   -   -   -   -  xxx
 
 Seria 5
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Scornicesti    0-0 Ticleni        
 Petrom Craiova 3-2 Armata Craiova 
 CFR Craiova    1-2 Resita         
 Gica Popescu   1-2 Oltchim        
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 Ticleni        0-1 Corabia        
 Resita         0-2 Petrom Craiova 
 Oltchim        2-0 Novaci         
 Rm.Valcea      4-0 Scornicesti    
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Scornicesti    4-3 Armata Craiova 
 CFR Craiova    1-1 Oltchim        
 Gica Popescu   0-1 Corabia        
 Rm.Valcea      1-0 Ticleni        
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Ticleni        0-1 Gica Popescu
 Armata Craiova 1-3 Rm.Valcea      
 Resita         4-0 Scornicesti    
 Oltchim        1-2 Petrom Craiova 
 Corabia        2-0 Novaci         
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Armata Craiova 2-0 Ticleni        
 CFR Craiova    3-0 Corabia        
 Rm.Valcea      1-6 Resita         
 Novaci         1-0 Gica Popescu
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 Ticleni        1-3 Novaci         
 Resita         0-0 Armata Craiova 
 Gica Popescu   2-2 CFR Craiova    
 Oltchim        1-1 Scornicesti    
 Corabia        1-3 Petrom Craiova 
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Ticleni        2-5 Resita         
 Petrom Craiova 2-1 Gica Popescu
 CFR Craiova    2-1 Novaci         
 Rm.Valcea      1-0 Oltchim        
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 CFR Craiova    0-1 Ticleni        
 Oltchim        3-2 Armata Craiova 
 Corabia        2-1 Scornicesti    
 Novaci         3-0 Petrom Craiova 
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 Scornicesti    1-2 Gica Popescu
 Petrom Craiova 1-3 CFR Craiova    
 Resita         2-1 Oltchim        
 Rm.Valcea      6-1 Corabia        
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 Petrom Craiova 6-1 Ticleni        
 Gica Popescu   0-3 Rm.Valcea      
 Corabia        1-2 Armata Craiova 
 Novaci         1-1 Scornicesti    
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 Scornicesti    1-0 CFR Craiova    
 Ticleni        1-0 Oltchim        
 Armata Craiova 1-0 Gica Popescu
 Resita         1-1 Corabia        
 Rm.Valcea      3-0 Novaci         
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 Petrom Craiova 10-0 Scornicesti    
 CFR Craiova    1-1 Rm.Valcea      
 Gica Popescu   0-2 Resita         
 Novaci         0-0 Armata Craiova 
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 Armata Craiova 1-2 CFR Craiova    
 Resita         2-0 Novaci         
 Oltchim        3-1 Corabia        
 Rm.Valcea      3-1 Petrom Craiova 
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 Ticleni        3-0 Scornicesti    
 Resita         1-0 CFR Craiova    
 Oltchim        1-3 Gica Popescu
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Scornicesti    1-1 Rm.Valcea      
 Petrom Craiova 2-3 Resita         
 Corabia        2-1 Ticleni        
 Novaci         1-1 Oltchim        
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 Ticleni        0-1 Rm.Valcea      
 Armata Craiova 1-0 Scornicesti    
 Oltchim        2-1 CFR Craiova    
 Corabia        0-0 Gica Popescu
 
-Round 14 [Apr 4]
+Round: 14 [Apr 4]
 Armata Craiova 2-1 Petrom Craiova 
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Scornicesti    1-3 Resita         
 Petrom Craiova 1-0 Oltchim        
 Gica Popescu   1-0 Ticleni        
 Rm.Valcea      0-0 Armata Craiova 
 Novaci         0-2 Corabia        
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 Ticleni        0-3 Armata Craiova 
 Resita         0-0 Rm.Valcea      
 Gica Popescu   2-1 Novaci         
 Corabia        2-0 CFR Craiova    
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Scornicesti    1-1 Oltchim        
 Petrom Craiova 2-1 Corabia        
 Armata Craiova 1-0 Resita         
 CFR Craiova    0-1 Gica Popescu
 Novaci         1-0 Ticleni        
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 Resita         1-1 Ticleni        
 Gica Popescu   4-1 Petrom Craiova 
 Oltchim        0-2 Rm.Valcea      
 Novaci         0-1 CFR Craiova    
 
-Round 21 [May 6]
+Round: 21 [May 6]
 Scornicesti    3-0 Corabia        
 Ticleni        0-0 CFR Craiova    
 Petrom Craiova 0-0 Novaci         
 Armata Craiova 3-0 Oltchim        
 
-Round 22 [May 13]
+Round: 22 [May 13]
 CFR Craiova    0-1 Petrom Craiova 
 Gica Popescu   2-0 Scornicesti    
 Oltchim        2-0 Resita         
 Corabia        0-1 Rm.Valcea      
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Scornicesti    5-2 Novaci         
 Ticleni        1-4 Petrom Craiova 
 Armata Craiova 3-0 Corabia        
 Rm.Valcea      2-0 Gica Popescu
 
-Round 24 [May 27]
+Round: 24 [May 27]
 CFR Craiova    1-3 Scornicesti    
 Oltchim        0-0 Ticleni        
 Corabia        2-0 Resita         
 Novaci         0-0 Rm.Valcea      
-Round 24 [May 28]
+Round: 24 [May 28]
 Gica Popescu   2-0 Armata Craiova 
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 Scornicesti    3-1 Petrom Craiova 
 Armata Craiova 3-1 Novaci         
 Resita         0-0 Gica Popescu
 Rm.Valcea      3-0 CFR Craiova    
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 Petrom Craiova 0-0 Rm.Valcea      
 CFR Craiova    1-1 Armata Craiova 
 Corabia        3-0 Oltchim        
@@ -3238,7 +3234,7 @@ T.Rm.Valcea      -   -   -   -   -   -   -   -   -   -   -   -   -  xxx
 
 Seria 6
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Hexe           2-0 Gloria Resita  
 Univ.Resita    2-1 Severnav       
 Matasari       0-3 CFR Timisoara  
@@ -3246,7 +3242,7 @@ Rovinari       2-0 Moldova Noua
 Arsenal Motru  0-0 UMT            
 Auxerre        2-1 Mehedinti      
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 CFR Timisoara  2-1 Jimbolia       
 UMT            2-0 Rovinari       
 Gloria Resita  3-1 Arsenal Motru
@@ -3254,7 +3250,7 @@ Moldova Noua   1-2 Univ.Resita
 Mehedinti      1-0 Hexe           
 Severnav       4-1 Matasari       
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Univ.Resita    1-1 UMT            
 Matasari       2-0 Moldova Noua   
 Rovinari       1-0 Arsenal Motru
@@ -3262,7 +3258,7 @@ Mehedinti      5-1 Gloria Resita
 Jimbolia       0-0 Severnav       
 Auxerre        1-4 CFR Timisoara  
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 CFR Timisoara  2-1 Hexe           
 UMT            2-0 Matasari       
 Gloria Resita  1-1 Rovinari       
@@ -3270,7 +3266,7 @@ Moldova Noua   1-1 Jimbolia
 Severnav       0-1 Auxerre        
 Arsenal Motru  1-0 Univ.Resita    
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Hexe           1-0 Severnav       
 Univ.Resita    2-1 Rovinari       
 Matasari       2-0 Arsenal Motru
@@ -3278,7 +3274,7 @@ Mehedinti      2-1 CFR Timisoara
 Jimbolia       0-0 UMT            
 Auxerre        0-0 Moldova Noua   
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 UMT            2-1 Auxerre        
 Gloria Resita  0-3 Univ.Resita    
 Moldova Noua   1-0 Hexe           
@@ -3286,7 +3282,7 @@ Rovinari       2-1 Matasari
 Severnav       0-1 Mehedinti      
 Arsenal Motru  2-1 Jimbolia       
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Hexe           0-2 UMT            
 Gloria Resita  0-4 CFR Timisoara  
 Matasari       1-1 Univ.Resita    
@@ -3294,7 +3290,7 @@ Mehedinti      1-0 Moldova Noua
 Jimbolia       2-0 Rovinari       
 Auxerre        1-0 Arsenal Motru
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 UMT            3-0 Mehedinti      
 Univ.Resita    2-2 Jimbolia       
 Matasari       6-0 Gloria Resita  
@@ -3302,7 +3298,7 @@ Rovinari       1-0 Auxerre
 Severnav       2-1 CFR Timisoara  
 Arsenal Motru  2-0 Hexe           
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 CFR Timisoara  1-0 Moldova Noua   
 Hexe           0-0 Rovinari       
 Gloria Resita  2-0 Severnav       
@@ -3310,7 +3306,7 @@ Mehedinti      0-1 Arsenal Motru
 Jimbolia       1-0 Matasari       
 Auxerre        1-3 Univ.Resita    
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 UMT            2-4 CFR Timisoara  
 Univ.Resita    1-1 Hexe           
 Moldova Noua   1-2 Severnav       
@@ -3318,7 +3314,7 @@ Matasari       1-2 Auxerre
 Rovinari       1-0 Mehedinti      
 Jimbolia       1-0 Gloria Resita  
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 CFR Timisoara  3-0 Arsenal Motru
 Hexe           0-0 Matasari       
 Gloria Resita  2-0 Moldova Noua   
@@ -3326,7 +3322,7 @@ Mehedinti      1-1 Univ.Resita
 Severnav       4-2 UMT            
 Auxerre        2-1 Jimbolia       
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 UMT            1-0 Moldova Noua   
 Matasari       0-0 Mehedinti      
 Rovinari       1-3 CFR Timisoara  
@@ -3334,7 +3330,7 @@ Jimbolia       1-0 Hexe
 Arsenal Motru  4-2 Severnav       
 Auxerre        2-1 Gloria Resita  
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 CFR Timisoara  3-1 Univ.Resita    
 Hexe           1-2 Auxerre        
 Gloria Resita  1-1 UMT            
@@ -3342,7 +3338,7 @@ Moldova Noua   1-0 Arsenal Motru
 Mehedinti      1-2 Jimbolia       
 Severnav       0-2 Rovinari       
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 CFR Timisoara  1-0 Matasari       
 UMT            1-0 Arsenal Motru
 Gloria Resita  1-0 Hexe           
@@ -3350,7 +3346,7 @@ Moldova Noua   1-0 Rovinari
 Mehedinti      0-0 Auxerre        
 Severnav       3-1 Univ.Resita    
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Hexe           5-0 Mehedinti      
 Univ.Resita    1-0 Moldova Noua   
 Matasari       1-0 Severnav       
@@ -3358,7 +3354,7 @@ Rovinari       1-0 UMT
 Jimbolia       0-0 CFR Timisoara  
 Arsenal Motru  1-2 Gloria Resita  
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 CFR Timisoara  3-2 Auxerre        
 UMT            0-0 Univ.Resita    
 Gloria Resita  1-1 Mehedinti      
@@ -3366,7 +3362,7 @@ Moldova Noua   1-0 Matasari
 Severnav       1-0 Jimbolia       
 Arsenal Motru  1-1 Rovinari       
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Hexe           1-0 CFR Timisoara  
 Univ.Resita    4-0 Arsenal Motru
 Matasari       0-0 UMT            
@@ -3374,7 +3370,7 @@ Rovinari       2-1 Gloria Resita
 Jimbolia       3-1 Moldova Noua   
 Auxerre        1-3 Severnav       
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 CFR Timisoara  2-1 Mehedinti      
 UMT            1-0 Jimbolia       
 Moldova Noua   0-0 Auxerre        
@@ -3382,7 +3378,7 @@ Rovinari       2-0 Univ.Resita
 Severnav       0-1 Hexe           
 Arsenal Motru  1-0 Matasari       
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Hexe           3-2 Moldova Noua   
 Univ.Resita    1-0 Gloria Resita  
 Matasari       4-2 Rovinari       
@@ -3390,7 +3386,7 @@ Mehedinti      3-1 Severnav
 Jimbolia       4-0 Arsenal Motru
 Auxerre        1-0 UMT            
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 CFR Timisoara  4-1 Gloria Resita  
 UMT            3-2 Hexe           
 Univ.Resita    4-0 Matasari       
@@ -3398,7 +3394,7 @@ Moldova Noua   0-0 Mehedinti
 Rovinari       1-2 Jimbolia       
 Arsenal Motru  2-2 Auxerre        
 
-Round 21 [May 6]
+Round: 21 [May 6]
 CFR Timisoara  5-1 Severnav       
 Hexe           3-0 Arsenal Motru
 Gloria Resita  0-0 Matasari       
@@ -3406,7 +3402,7 @@ Mehedinti      2-1 UMT
 Jimbolia       1-1 Univ.Resita    
 Auxerre        0-0 Rovinari       
 
-Round 22 [May 13]
+Round: 22 [May 13]
 Univ.Resita    0-0 Auxerre        
 Moldova Noua   1-1 CFR Timisoara  
 Matasari       3-1 Jimbolia       
@@ -3414,7 +3410,7 @@ Rovinari       2-1 Hexe
 Severnav       2-2 Gloria Resita  
 Arsenal Motru  1-2 Mehedinti      
 
-Round 23 [May 20]
+Round: 23 [May 20]
 CFR Timisoara  5-4 UMT            
 Hexe           4-0 Univ.Resita    
 Gloria Resita  3-0 Jimbolia       
@@ -3422,7 +3418,7 @@ Mehedinti      2-0 Rovinari
 Severnav       1-0 Moldova Noua   
 Auxerre        1-0 Matasari       
 
-Round 24 [May 27]
+Round: 24 [May 27]
 UMT            2-2 Severnav       
 Univ.Resita    2-1 Mehedinti      
 Moldova Noua   2-0 Gloria Resita  
@@ -3430,7 +3426,7 @@ Matasari       1-0 Hexe
 Jimbolia       1-1 Auxerre        
 Arsenal Motru  1-1 CFR Timisoara  
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 CFR Timisoara  4-2 Rovinari       
 Hexe           3-1 Jimbolia       
 Gloria Resita  0-0 Auxerre        
@@ -3438,7 +3434,7 @@ Moldova Noua   1-0 UMT
 Mehedinti      3-4 Matasari       
 Severnav       3-1 Arsenal Motru
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 UMT            6-0 Gloria Resita  
 Univ.Resita    1-1 CFR Timisoara  
 Rovinari       5-2 Severnav       
@@ -3480,7 +3476,7 @@ Moldova Noua    1-1 1-2 1-0 1-0 0-0 0-0 1-0 1-1 1-2 1-0 1-0 2-0 xxx
 
 Seria 7
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Telecom Arad   0-1 Vulcan         
 Nadlac         1-1 Ocna-Mures     
 Petrila        0-1 U Sibiu        
@@ -3488,7 +3484,7 @@ Sparta Medias  3-1 Curtici
 Blaj           1-2 Lupeni         
 Deva II        2-1 Brad           
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 Vulcan         1-1 Aiud           
 Ocna-Mures     0-2 Telecom Arad   
 U Sibiu        1-1 Nadlac         
@@ -3496,7 +3492,7 @@ Curtici        0-1 Petrila
 Lupeni         3-1 Sparta Medias
 Brad           1-1 Blaj           
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Telecom Arad   0-1 U Sibiu        
 Nadlac         4-0 Curtici        
 Petrila        1-3 Lupeni         
@@ -3504,7 +3500,7 @@ Sparta Medias  0-0 Brad
 Blaj           2-0 Deva II        
 Aiud           2-1 Ocna-Mures     
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Ocna-Mures     3-0 Vulcan         
 U Sibiu        2-4 Aiud           
 Curtici        2-1 Telecom Arad   
@@ -3512,7 +3508,7 @@ Lupeni         1-0 Nadlac
 Deva II        5-0 Sparta Medias
 Brad           2-0 Petrila        
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Telecom Arad   2-0 Lupeni         
 Vulcan         0-0 U Sibiu        
 Nadlac         3-0 Brad           
@@ -3520,7 +3516,7 @@ Petrila        0-2 Deva II
 Sparta Medias  1-2 Blaj           
 Aiud           2-1 Curtici        
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 U Sibiu        0-2 Ocna-Mures     
 Curtici        0-2 Vulcan         
 Blaj           0-1 Petrila        
@@ -3528,7 +3524,7 @@ Lupeni         0-0 Aiud
 Deva II        2-0 Nadlac         
 Brad           2-1 Telecom Arad   
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Telecom Arad   0-0 Deva II        
 Vulcan         0-1 Lupeni         
 Nadlac         3-1 Blaj           
@@ -3536,7 +3532,7 @@ Ocna-Mures     1-0 Curtici
 Petrila        0-4 Sparta Medias
 Aiud           2-0 Brad           
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 Sparta Medias  1-1 Nadlac         
 Curtici        2-2 U Sibiu        
 Blaj           0-1 Telecom Arad   
@@ -3544,7 +3540,7 @@ Lupeni         4-0 Ocna-Mures
 Deva II        2-0 Aiud           
 Brad           2-0 Vulcan         
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 Telecom Arad   2-1 Sparta Medias
 Vulcan         1-0 Deva II        
 Nadlac         2-0 Petrila        
@@ -3552,7 +3548,7 @@ Ocna-Mures     1-1 Brad
 U Sibiu        1-3 Lupeni         
 Aiud           3-2 Blaj           
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 Petrila        0-1 Telecom Arad   
 Sparta Medias  1-2 Aiud           
 Blaj           2-2 Vulcan         
@@ -3560,7 +3556,7 @@ Lupeni         4-0 Curtici
 Deva II        2-0 Ocna-Mures     
 Brad           4-0 U Sibiu        
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 Telecom Arad   0-1 Nadlac         
 Vulcan         3-0 Sparta Medias
 Ocna-Mures     2-2 Blaj           
@@ -3568,7 +3564,7 @@ U Sibiu        1-1 Deva II
 Curtici        0-0 Brad           
 Aiud           3-0 Petrila        
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 Nadlac         1-0 Aiud           
 Petrila        3-0 Vulcan         
 Sparta Medias  0-0 Ocna-Mures     
@@ -3576,7 +3572,7 @@ Blaj           3-3 U Sibiu
 Deva II        8-0 Curtici        
 Brad           1-2 Lupeni         
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 Vulcan         1-0 Nadlac         
 Ocna-Mures     2-1 Petrila        
 U Sibiu        3-0 Sparta Medias
@@ -3584,7 +3580,7 @@ Curtici        2-1 Blaj
 Lupeni         2-0 Deva II        
 Aiud           4-0 Telecom Arad   
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 Vulcan         1-0 Telecom Arad   
 Ocna-Mures     1-0 Nadlac         
 U Sibiu        5-0 Petrila        
@@ -3592,7 +3588,7 @@ Curtici        0-0 Sparta Medias
 Lupeni         3-1 Blaj           
 Brad           2-1 Deva II        
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Telecom Arad   1-0 Ocna-Mures     
 Nadlac         0-0 U Sibiu        
 Petrila        2-0 Curtici        
@@ -3600,7 +3596,7 @@ Sparta Medias  2-0 Lupeni
 Blaj           3-0 Brad           
 Aiud           0-0 Vulcan         
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 Ocna-Mures     1-0 Aiud           
 U Sibiu        2-3 Telecom Arad   
 Curtici        1-0 Nadlac         
@@ -3608,7 +3604,7 @@ Lupeni         2-0 Petrila
 Deva II        1-2 Blaj           
 Brad           1-0 Sparta Medias
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Telecom Arad   4-0 Curtici        
 Vulcan         1-1 Ocna-Mures     
 Nadlac         0-1 Lupeni         
@@ -3616,16 +3612,16 @@ Petrila        1-1 Brad
 Sparta Medias  4-0 Deva II        
 Aiud           1-1 U Sibiu        
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 U Sibiu        0-1 Vulcan         
 Curtici        0-4 Aiud           
 Blaj           2-2 Sparta Medias
 Deva II        2-0 Petrila        
 Brad           5-1 Nadlac         
-Round 18 [Apr 16]
+Round: 18 [Apr 16]
 Lupeni         1-0 Telecom Arad   
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Telecom Arad   3-0 Brad           
 Vulcan         8-1 Curtici        
 Nadlac         1-0 Deva II        
@@ -3633,7 +3629,7 @@ Ocna-Mures     1-0 U Sibiu
 Petrila        1-3 Blaj           
 Aiud           2-0 Lupeni         
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 Sparta Medias  4-0 Petrila        
 Curtici        1-1 Ocna-Mures     
 Blaj           2-0 Nadlac         
@@ -3641,7 +3637,7 @@ Lupeni         2-0 Vulcan
 Deva II        1-0 Telecom Arad   
 Brad           1-0 Aiud           
 
-Round 21 [May 6]
+Round: 21 [May 6]
 Telecom Arad   1-1 Blaj           
 Vulcan         2-0 Brad           
 Nadlac         0-1 Sparta Medias
@@ -3649,7 +3645,7 @@ Ocna-Mures     1-1 Lupeni
 U Sibiu        4-0 Curtici        
 Aiud           3-1 Deva II        
 
-Round 22 [May 13]
+Round: 22 [May 13]
 Petrila        0-2 Nadlac         
 Sparta Medias  1-0 Telecom Arad   
 Blaj           3-0 Aiud           
@@ -3657,7 +3653,7 @@ Lupeni         2-0 U Sibiu
 Deva II        1-0 Vulcan         
 Brad           2-1 Ocna-Mures     
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Telecom Arad   6-0 Petrila        
 Vulcan         1-0 Blaj           
 Ocna-Mures     2-1 Deva II        
@@ -3665,7 +3661,7 @@ U Sibiu        2-2 Brad
 Curtici        1-3 Lupeni         
 Aiud           2-3 Sparta Medias
 
-Round 24 [May 27]
+Round: 24 [May 27]
 Nadlac         2-1 Telecom Arad   
 Petrila        1-2 Aiud           
 Sparta Medias  2-1 Vulcan         
@@ -3673,7 +3669,7 @@ Blaj           1-2 Ocna-Mures
 Deva II        3-0 U Sibiu        
 Brad           2-2 Curtici        
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 Vulcan         5-1 Petrila        
 Ocna-Mures     1-0 Sparta Medias
 U Sibiu        1-1 Blaj           
@@ -3681,7 +3677,7 @@ Curtici        1-5 Deva II
 Lupeni         4-0 Brad           
 Aiud           0-1 Nadlac         
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 Telecom Arad   3-0 Aiud           
 Nadlac         1-0 Vulcan         
 Petrila        1-2 Ocna-Mures     
@@ -3727,7 +3723,7 @@ Petresti         -   -   -   -   -   -   -   -   -   -   -   -   -  xxx
 
 Seria 8
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Bod            1-2 Fagaras
 Tractorul      3-0 Ungheni        
 Gaz Metan      3-2 Predeal        
@@ -3736,7 +3732,7 @@ Reghin         2-1 ASA
 Sovata         2-2 Forex          
 Tg.Secuiesc    0-1 Tarnaveni      
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 Fagaras        3-0 Tg.Secuiesc    
 Ungheni        3-1 Bod            
 Predeal        2-0 Tractorul      
@@ -3745,7 +3741,7 @@ ASA            3-2 Ludus
 Forex          1-0 Reghin         
 Tarnaveni      0-0 Sovata         
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Bod            1-0 Predeal        
 Tractorul      2-1 Sf.Gheorghe    
 Ungheni        1-0 Fagaras
@@ -3754,7 +3750,7 @@ Ludus          0-1 Forex
 Reghin         0-1 Tarnaveni      
 Sovata         4-1 Tg.Secuiesc    
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Fagaras        1-0 Sovata         
 Predeal        1-0 Ungheni        
 Sf.Gheorghe    1-0 Bod            
@@ -3762,7 +3758,7 @@ Forex          3-0 Gaz Metan
 Tg.Secuiesc    0-4 Reghin         
 Tarnaveni      3-0 Ludus          
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Bod            2-3 ASA            
 Tractorul      1-0 Forex          
 Ungheni        2-0 Sf.Gheorghe    
@@ -3771,7 +3767,7 @@ Predeal        3-0 Fagaras
 Ludus          3-0 Tg.Secuiesc    
 Reghin         1-0 Sovata         
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 Fagaras        1-1 Reghin         
 Sf.Gheorghe    0-0 Predeal        
 ASA            0-0 Ungheni        
@@ -3780,7 +3776,7 @@ Forex          7-0 Bod
 Tg.Secuiesc    0-1 Gaz Metan      
 Tarnaveni      1-3 Tractorul      
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Bod            0-0 Tarnaveni      
 Fagaras        0-0 Sf.Gheorghe    
 Tractorul      3-0 Tg.Secuiesc    
@@ -3789,7 +3785,7 @@ Gaz Metan      3-2 Sovata
 Predeal        0-1 ASA            
 Ludus          2-1 Reghin         
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 Ludus          1-0 Fagaras
 Reghin         1-2 Gaz Metan      
 ASA            0-0 Sf.Gheorghe    
@@ -3798,7 +3794,7 @@ Forex          1-0 Predeal
 Tg.Secuiesc    2-3 Bod            
 Tarnaveni      7-0 Ungheni        
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 Bod            2-2 Sovata         
 Fagaras        2-0 ASA            
 Tractorul      1-1 Reghin         
@@ -3807,7 +3803,7 @@ Gaz Metan      1-1 Ludus
 Predeal        0-0 Tarnaveni      
 Sf.Gheorghe    2-0 Forex          
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 Gaz Metan      3-1 Fagaras
 Ludus          1-1 Tractorul      
 Reghin         1-0 Bod            
@@ -3816,7 +3812,7 @@ Forex          0-0 ASA
 Tg.Secuiesc    1-4 Predeal        
 Tarnaveni      2-0 Sf.Gheorghe    
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 Bod            0-3 Ludus          
 Fagaras        2-1 Forex          
 Tractorul      3-1 Gaz Metan      
@@ -3825,7 +3821,7 @@ Predeal        1-0 Sovata
 Sf.Gheorghe    2-0 Tg.Secuiesc    
 ASA            3-0 Tarnaveni      
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 Tractorul      4-1 Fagaras
 Gaz Metan      1-2 Bod            
 Ludus          0-0 Ungheni        
@@ -3834,7 +3830,7 @@ Sovata         1-0 Sf.Gheorghe
 Tg.Secuiesc    0-3 ASA            [awd, originally 1-1]
 Tarnaveni      1-1 Forex          
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 Bod            0-2 Tractorul      
 Fagaras        4-2 Tarnaveni      
 Ungheni        1-1 Gaz Metan      
@@ -3843,7 +3839,7 @@ Sf.Gheorghe    2-0 Reghin
 ASA            4-0 Sovata         
 Forex          3-1 Tg.Secuiesc    
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 Fagaras        2-0 Bod            
 Ungheni        0-2 Tractorul      
 Predeal        0-0 Gaz Metan      
@@ -3852,7 +3848,7 @@ ASA            1-0 Reghin
 Forex          4-0 Sovata         
 Tarnaveni      2-0 Tg.Secuiesc    
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Bod            1-0 Ungheni        
 Tractorul      1-1 Predeal        
 Gaz Metan      2-0 Sf.Gheorghe    
@@ -3861,7 +3857,7 @@ Reghin         0-2 Forex
 Sovata         2-0 Tarnaveni      
 Tg.Secuiesc    2-1 Fagaras
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 Fagaras        2-1 Ungheni        
 Predeal        3-2 Bod            
 Sf.Gheorghe    2-0 Tractorul      
@@ -3870,7 +3866,7 @@ Forex          4-0 Ludus
 Tg.Secuiesc    0-0 Sovata         
 Tarnaveni      3-0 Reghin         
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Bod            1-1 Sf.Gheorghe    
 Tractorul      1-2 ASA            
 Ungheni        3-0 Predeal        
@@ -3879,7 +3875,7 @@ Ludus          2-1 Tarnaveni
 Reghin         2-0 Tg.Secuiesc    
 Sovata         0-0 Fagaras
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 Fagaras        1-1 Predeal        
 Sf.Gheorghe    3-0 Ungheni        
 ASA            2-1 Bod            
@@ -3888,7 +3884,7 @@ Forex          2-1 Tractorul
 Tg.Secuiesc    1-0 Ludus          
 Tarnaveni      1-1 Gaz Metan      
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Bod            0-1 Forex          
 Tractorul      2-1 Tarnaveni      
 Ungheni        1-3 ASA            
@@ -3897,7 +3893,7 @@ Predeal        0-0 Sf.Gheorghe
 Ludus          1-1 Sovata         
 Reghin         3-0 Fagaras
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 Sf.Gheorghe    1-0 Fagaras
 Reghin         0-1 Ludus          
 ASA            2-0 Predeal        
@@ -3906,7 +3902,7 @@ Forex          8-0 Ungheni
 Tg.Secuiesc    0-0 Tractorul      
 Tarnaveni      1-0 Bod            
 
-Round 21 [May 6]
+Round: 21 [May 6]
 Bod            1-0 Tg.Secuiesc    
 Fagaras        0-0 Ludus          
 Tractorul      5-1 Sovata         
@@ -3915,7 +3911,7 @@ Gaz Metan      0-1 Reghin
 Predeal        0-1 Forex          
 Sf.Gheorghe    3-3 ASA            
 
-Round 22 [May 13]
+Round: 22 [May 13]
 Ludus          1-0 Gaz Metan      
 Reghin         2-0 Tractorul      
 ASA            3-1 Fagaras
@@ -3924,7 +3920,7 @@ Forex          2-1 Sf.Gheorghe
 Tg.Secuiesc    0-1 Ungheni        
 Tarnaveni      1-0 Predeal        
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Bod            0-1 Reghin         
 Fagaras        2-0 Gaz Metan      
 Tractorul      0-2 Ludus          
@@ -3933,10 +3929,10 @@ Predeal        4-1 Tg.Secuiesc
 Sf.Gheorghe    1-1 Tarnaveni      
 ASA            0-2 Forex          
 
-Round 4 [May 24]
+Round: 4 [May 24]
 ASA            3-0 Tractorul      [awd, originally 1-1]
 
-Round 24 [May 27]
+Round: 24 [May 27]
 Gaz Metan      3-2 Tractorul      
 Ludus          2-1 Bod            
 Reghin         2-1 Ungheni        
@@ -3945,7 +3941,7 @@ Forex          1-0 Fagaras
 Tg.Secuiesc    0-2 Sf.Gheorghe    
 Tarnaveni      3-2 ASA            
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 Bod            1-3 Gaz Metan      
 Fagaras        3-1 Tractorul      
 Ungheni        2-0 Ludus          
@@ -3954,7 +3950,7 @@ Sf.Gheorghe    1-0 Sovata
 ASA            2-1 Tg.Secuiesc    
 Forex          1-0 Tarnaveni      
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 Tractorul      1-0 Bod            
 Gaz Metan      0-0 Ungheni        
 Ludus          1-0 Predeal        
@@ -3999,7 +3995,7 @@ Tg.Secuiesc     1-2 0-3 1-0 0-0 0-1 0-4 0-2 0-0 0-1 0-1 2-1 1-4 2-3 xxx
 
 Seria 9
 
-Round 1 [Sep 3]
+Round: 1 [Sep 3]
 Beius          1-0 Beclean        
 Stiinta Cluj   1-4 Gherla         
 Suciu de Sus   0-1 Somesul        
@@ -4007,7 +4003,7 @@ Renel          1-3 Bistrita II
 Odoreu         0-0 Baia Mare      
 Carei          2-0 Turda          
 
-Round 2 [Sep 10]
+Round: 2 [Sep 10]
 Beclean        0-3 Carei          [awd, originally 1-0]
 Somesul        3-0 Stiinta Cluj   
 Bistrita II    5-0 Suciu de Sus   
@@ -4015,7 +4011,7 @@ Baia Mare      5-0 Renel
 Turda          1-2 Odoreu         
 Sarmasag       1-1 Beius          
 
-Round 3 [Sep 17]
+Round: 3 [Sep 17]
 Beius          0-1 Gherla         
 Stiinta Cluj   2-5 Bistrita II    
 Suciu de Sus   1-0 Baia Mare      
@@ -4023,7 +4019,7 @@ Renel          2-3 Turda
 Odoreu         1-0 Carei          
 Sarmasag       3-1 Beclean        
 
-Round 4 [Sep 24]
+Round: 4 [Sep 24]
 Beclean        1-1 Odoreu         
 Gherla         3-2 Sarmasag       
 Somesul        6-1 Beius          
@@ -4031,7 +4027,7 @@ Baia Mare      4-0 Stiinta Cluj
 Carei          4-1 Renel          
 Turda          5-1 Suciu de Sus   
 
-Round 5 [Oct 2]
+Round: 5 [Oct 2]
 Beius          1-0 Bistrita II    
 Stiinta Cluj   1-2 Turda          
 Gherla         1-0 Beclean        
@@ -4039,7 +4035,7 @@ Suciu de Sus   1-1 Carei
 Renel          1-2 Odoreu         
 Sarmasag       2-1 Somesul        
 
-Round 6 [Oct 8]
+Round: 6 [Oct 8]
 Beclean        3-0 Renel          
 Somesul        1-1 Gherla         
 Bistrita II    3-0 Sarmasag       
@@ -4047,7 +4043,7 @@ Odoreu         2-2 Suciu de Sus
 Baia Mare      1-1 Beius          
 Carei          7-0 Stiinta Cluj   
 
-Round 7 [Oct 15]
+Round: 7 [Oct 15]
 Beius          1-0 Turda          
 Beclean        1-0 Somesul        
 Stiinta Cluj   3-4 Odoreu         
@@ -4055,7 +4051,7 @@ Gherla         1-0 Bistrita II
 Suciu de Sus   4-0 Renel          
 Sarmasag       0-0 Baia Mare      
 
-Round 8 [Oct 22]
+Round: 8 [Oct 22]
 Suciu de Sus   1-1 Beclean        
 Renel          1-2 Stiinta Cluj   
 Bistrita II    1-0 Somesul        
@@ -4063,7 +4059,7 @@ Baia Mare      3-0 Gherla
 Carei          2-0 Beius          
 Turda          4-2 Sarmasag       
 
-Round 9 [Oct 29]
+Round: 9 [Oct 29]
 Beius          2-0 Odoreu         
 Beclean        0-2 Bistrita II    
 Stiinta Cluj   3-1 Suciu de Sus   
@@ -4071,7 +4067,7 @@ Gherla         1-0 Turda
 Somesul        0-2 Baia Mare      
 Sarmasag       1-0 Carei          
 
-Round 10 [Nov 5]
+Round: 10 [Nov 5]
 Stiinta Cluj   0-1 Beclean        
 Renel          0-3 Beius          
 Odoreu         2-1 Sarmasag       
@@ -4079,7 +4075,7 @@ Baia Mare      0-1 Bistrita II
 Carei          3-1 Gherla         
 Turda          2-3 Somesul        
 
-Round 11 [Nov 12]
+Round: 11 [Nov 12]
 Beius          1-0 Suciu de Sus   
 Beclean        4-0 Baia Mare      
 Gherla         1-0 Odoreu         
@@ -4087,7 +4083,7 @@ Somesul        3-1 Carei
 Bistrita II    1-0 Turda          
 Sarmasag       7-1 Renel          
 
-Round 12 [Nov 19]
+Round: 12 [Nov 19]
 Stiinta Cluj   0-2 Beius          
 Suciu de Sus   3-1 Sarmasag       
 Renel          0-2 Gherla         
@@ -4095,7 +4091,7 @@ Odoreu         0-3 Somesul
 Carei          0-1 Bistrita II    
 Turda          2-1 Baia Mare      
 
-Round 13 [Nov 26]
+Round: 13 [Nov 26]
 Beclean        6-3 Turda          
 Gherla         3-0 Suciu de Sus   
 Somesul        1-0 Renel          
@@ -4105,7 +4101,7 @@ Sarmasag       1-1 Stiinta Cluj
 
 * Renel withdraws, forfeits remaining games 0-3
 
-Round 14 [Mar 18]
+Round: 14 [Mar 18]
 Beclean        2-0 Beius          
 Gherla         5-3 Stiinta Cluj   
 Somesul        4-1 Suciu de Sus   
@@ -4113,7 +4109,7 @@ Bistrita II    3-0 Renel
 Baia Mare      0-0 Odoreu         
 Turda          3-0 Carei          
 
-Round 15 [Mar 25]
+Round: 15 [Mar 25]
 Beius          0-0 Sarmasag       
 Stiinta Cluj   2-5 Somesul        
 Suciu de Sus   0-0 Bistrita II    
@@ -4121,7 +4117,7 @@ Renel          0-3 Baia Mare
 Odoreu         1-2 Turda          
 Carei          3-2 Beclean        
 
-Round 16 [Apr 1]
+Round: 16 [Apr 1]
 Beclean        1-0 Sarmasag       
 Gherla         0-0 Beius          
 Bistrita II    5-0 Stiinta Cluj   
@@ -4129,7 +4125,7 @@ Baia Mare      3-0 Suciu de Sus
 Carei          0-0 Odoreu         
 Turda          3-0 Renel          
 
-Round 17 [Apr 8]
+Round: 17 [Apr 8]
 Beius          2-0 Somesul        
 Stiinta Cluj   0-1 Baia Mare      
 Suciu de Sus   0-1 Turda          
@@ -4137,7 +4133,7 @@ Renel          0-3 Carei
 Odoreu         1-4 Beclean        
 Sarmasag       1-0 Gherla         
 
-Round 18 [Apr 15]
+Round: 18 [Apr 15]
 Beclean        1-0 Gherla         
 Somesul        1-0 Sarmasag       
 Bistrita II    2-1 Beius          
@@ -4145,7 +4141,7 @@ Odoreu         3-0 Renel
 Carei          3-0 Suciu de Sus   
 Turda          5-1 Stiinta Cluj   
 
-Round 19 [Apr 22]
+Round: 19 [Apr 22]
 Beius          0-1 Baia Mare      
 Stiinta Cluj   0-3 Carei          
 Gherla         3-1 Somesul        
@@ -4153,7 +4149,7 @@ Suciu de Sus   1-1 Odoreu
 Renel          0-3 Beclean        
 Sarmasag       1-3 Bistrita II    
 
-Round 20 [Apr 29]
+Round: 20 [Apr 29]
 Somesul        2-1 Beclean        
 Renel          0-3 Suciu de Sus   
 Bistrita II    1-0 Gherla         
@@ -4161,7 +4157,7 @@ Odoreu         5-0 Stiinta Cluj
 Baia Mare      2-1 Sarmasag       
 Turda          2-0 Beius          
 
-Round 21 [May 6]
+Round: 21 [May 6]
 Beius          3-0 Carei          
 Beclean        4-1 Suciu de Sus   
 Stiinta Cluj   3-0 Renel          
@@ -4169,14 +4165,14 @@ Gherla         0-2 Baia Mare
 Somesul        0-2 Bistrita II    
 Sarmasag       2-0 Turda          
 
-Round 22 [May 13]
+Round: 22 [May 13]
 Bistrita II    1-1 Beclean        
 Odoreu         1-0 Beius          
 Baia Mare      1-1 Somesul        
 Carei          5-1 Sarmasag       
 Turda          2-1 Gherla         
 
-Round 23 [May 20]
+Round: 23 [May 20]
 Beius          3-0 Renel          
 Beclean        6-0 Stiinta Cluj   
 Gherla         0-2 Carei          
@@ -4184,10 +4180,10 @@ Somesul        2-3 Turda
 Bistrita II    1-0 Baia Mare      
 Sarmasag       3-2 Odoreu         
 
-Round 22 [May 24]
+Round: 22 [May 24]
 Suciu de Sus   0-3 Stiinta Cluj   [awd]
 
-Round 24 [May 27]
+Round: 24 [May 27]
 Suciu de Sus   0-3 Beius          
 Renel          0-3 Sarmasag       
 Odoreu         0-4 Gherla         
@@ -4195,7 +4191,7 @@ Baia Mare      3-0 Beclean
 Carei          3-1 Somesul        
 Turda          1-0 Bistrita II    
 
-Round 25 [Jun 3]
+Round: 25 [Jun 3]
 Beius          3-0 Stiinta Cluj   
 Gherla         3-0 Renel          
 Somesul        1-2 Odoreu         
@@ -4203,7 +4199,7 @@ Bistrita II    2-0 Carei
 Baia Mare      2-1 Turda          
 Sarmasag       3-0 Suciu de Sus   
 
-Round 26 [Jun 10]
+Round: 26 [Jun 10]
 Stiinta Cluj   2-1 Sarmasag       
 Suciu de Sus   0-3 Gherla         
 Renel          0-3 Somesul        

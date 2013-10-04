@@ -20,306 +20,425 @@ Competition: Tippeligaen
 *14.Sandefjord Fotball 26  4  4 18  26-53  16  Relegated
 
 Round: 1
-[Apr 9]
-Strømsgodset      2-1 Odd Grenland     
-Aalesund          2-4 Start
-Lillestrøm        3-0 Fredrikstad      
-Tromsø            1-0 Vålerenga        
-Lyn Oslo          3-0 Sandefjord       
-Viking            1-1 Rosenborg          
-[Apr 10]
-Stabæk            0-1 Brann
+Date: 4/9/2007
+
+; Strømsgodset     ; 2-1; Odd Grenland     
+; Aalesund         ; 2-4; Start
+; Lillestrøm       ; 3-0; Fredrikstad      
+; Tromsø           ; 1-0; Vålerenga        
+; Lyn Oslo         ; 3-0; Sandefjord       
+; Viking           ; 1-1; Rosenborg          
+
+Date: 4/10/2007
+
+; Stabæk           ; 0-1; Brann
 
 Round: 2
-[Apr 14]
-Fredrikstad       3-1 Lyn Oslo
-[Apr 15]
-Odd Grenland      0-1 Lillestrøm       
-Sandefjord        3-0 Aalesund         
-Rosenborg         4-3 Tromsø           
-Vålerenga         1-1 Stabæk           
-Start             1-1 Viking
-[Apr 16]
-Brann             3-1 Strømsgodset        
+Date: 4/14/2007
+
+; Fredrikstad      ; 3-1; Lyn Oslo
+
+Date: 4/15/2007
+
+; Odd Grenland     ; 0-1; Lillestrøm       
+; Sandefjord       ; 3-0; Aalesund         
+; Rosenborg        ; 4-3; Tromsø           
+; Vålerenga        ; 1-1; Stabæk           
+; Start            ; 1-1; Viking
+
+Date: 4/16/2007
+
+; Brann            ; 3-1; Strømsgodset        
 
 Round: 3
-[Apr 21]
-Stabæk            2-1 Rosenborg        
-[Apr 22]
-Lyn Oslo          3-1 Odd Grenland     
-Viking            0-0 Sandefjord       
-Aalesund          3-3 Fredrikstad      
-Tromsø            1-1 Start
-Brann             4-1 Vålerenga        
-[Apr 23]
-Strømsgodset      1-1 Lillestrøm       
+Date: 4/21/2007
+
+; Stabæk           ; 2-1; Rosenborg        
+
+Date: 4/22/2007
+
+; Lyn Oslo         ; 3-1; Odd Grenland     
+; Viking           ; 0-0; Sandefjord       
+; Aalesund         ; 3-3; Fredrikstad      
+; Tromsø           ; 1-1; Start
+; Brann            ; 4-1; Vålerenga        
+
+Date: 4/23/2007
+
+; Strømsgodset     ; 1-1; Lillestrøm       
 
 Round: 4
-[Apr 28]
-Vålerenga         0-0 Strømsgodset 
-[Apr 29]
-Fredrikstad       2-0 Viking
-Odd Grenland      3-0 Aalesund
-Start             1-1 Stabæk
-Sandefjord        2-1 Tromsø 
-Rosenborg         3-0 Brann
-[Apr 30]
-Lillestrøm        3-1 Lyn Oslo
+Date: 4/28/2007
+
+; Vålerenga        ; 0-0; Strømsgodset 
+
+Date: 4/29/2007
+
+; Fredrikstad      ; 2-0; Viking
+; Odd Grenland     ; 3-0; Aalesund
+; Start            ; 1-1; Stabæk
+; Sandefjord       ; 2-1; Tromsø 
+; Rosenborg        ; 3-0; Brann
+
+Date: 4/30/2007
+
+; Lillestrøm       ; 3-1; Lyn Oslo
 
 Round: 5
-[May 5]
-Brann             2-2 Start
-[May 6]
-Stabæk            1-1 Sandefjord
-Strømsgodset      1-1 Lyn Oslo
-Viking            2-1 Odd Grenland
-Tromsø            4-1 Fredrikstad
-Vålerenga         2-1 Rosenborg
-[May 7]
-Aalesund          1-3 Lillestrøm     
+Date: 5/5/2007
+
+; Brann            ; 2-2; Start
+
+Date: 5/6/2007
+
+; Stabæk           ; 1-1; Sandefjord
+; Strømsgodset     ; 1-1; Lyn Oslo
+; Viking           ; 2-1; Odd Grenland
+; Tromsø           ; 4-1; Fredrikstad
+; Vålerenga        ; 2-1; Rosenborg
+
+Date: 5/7/2007
+
+; Aalesund         ; 1-3; Lillestrøm     
 
 Round: 6
-[May 10]
-Start             1-0 Vålerenga    
-[May 12]
-Sandefjord        2-3 Brann
-[May 13]
-Lyn Oslo          0-0 Aalesund
-Odd Grenland      0-1 Tromsø
-Fredrikstad       1-2 Stabæk
-Rosenborg         1-2 Strømsgodset
-Lillestrøm        4-1 Viking
+Date: 5/10/2007
 
-Round: 7 [May 16]
-Viking            4-2 Lyn Oslo
-Tromsø            2-1 Lillestrøm  
-Strømsgodset      0-4 Aalesund
-Stabæk            1-0 Odd Grenland
-Brann             2-2 Fredrikstad
-Vålerenga         2-0 Sandefjord
-Rosenborg         4-1 Start
+; Start            ; 1-0; Vålerenga    
+
+Date: 5/12/2007
+
+; Sandefjord       ; 2-3; Brann
+
+Date: 5/13/2007
+
+; Lyn Oslo         ; 0-0; Aalesund
+; Odd Grenland     ; 0-1; Tromsø
+; Fredrikstad      ; 1-2; Stabæk
+; Rosenborg        ; 1-2; Strømsgodset
+; Lillestrøm       ; 4-1; Viking
+
+Round: 7 
+Date: 5/16/2007
+
+; Viking           ; 4-2; Lyn Oslo
+; Tromsø           ; 2-1; Lillestrøm  
+; Strømsgodset     ; 0-4; Aalesund
+; Stabæk           ; 1-0; Odd Grenland
+; Brann            ; 2-2; Fredrikstad
+; Vålerenga        ; 2-0; Sandefjord
+; Rosenborg        ; 4-1; Start
 
 Round: 8
-[May 25]
-Start             2-3 Strømsgodset   
-[May 26]
-Fredrikstad       1-0 Vålerenga
-[May 27]
-Sandefjord        1-2 Rosenborg
-[May 28]
-Lyn Oslo          4-3 Tromsø
-Aalesund          0-2 Viking
-Odd Grenland      0-2 Brann
-Lillestrøm        1-1 Stabæk         
+Date: 5/25/2007
+
+; Start            ; 2-3; Strømsgodset   
+
+Date: 5/26/2007
+
+; Fredrikstad      ; 1-0; Vålerenga
+
+Date: 5/27/2007
+
+; Sandefjord       ; 1-2; Rosenborg
+
+Date: 5/28/2007
+
+; Lyn Oslo         ; 4-3; Tromsø
+; Aalesund         ; 0-2; Viking
+; Odd Grenland     ; 0-2; Brann
+; Lillestrøm       ; 1-1; Stabæk         
 
 Round: 9
-[Jun 9]
-Strømsgodset      1-2 Viking
-[Jun 10]
-Rosenborg         1-1 Fredrikstad
-Stabæk            3-2 Lyn Oslo
-Tromsø            0-2 Aalesund
-Vålerenga         1-1 Odd Grenland
-Brann             3-1 Lillestrøm 
-[Jun 11]
-Start             3-1 Sandefjord
+Date: 6/9/2007
+
+; Strømsgodset     ; 1-2; Viking
+
+Date: 6/10/2007
+
+; Rosenborg        ; 1-1; Fredrikstad
+; Stabæk           ; 3-2; Lyn Oslo
+; Tromsø           ; 0-2; Aalesund
+; Vålerenga        ; 1-1; Odd Grenland
+; Brann            ; 3-1; Lillestrøm 
+
+Date: 6/11/2007
+
+; Start            ; 3-1; Sandefjord
 
 Round: 10
-[Jun 16]
-Lyn Oslo          6-0 Brann
-[Jun 17]
-Viking            3-1 Tromsø  
-Sandefjord        0-1 Strømsgodset  
-Fredrikstad       3-0 Start
-Aalesund          1-4 Stabæk
-Lillestrøm        0-1 Vålerenga 
-[Jun 18]
-Odd Grenland      1-2 Rosenborg
+Date: 6/16/2007
+
+; Lyn Oslo         ; 6-0; Brann
+
+Date: 6/17/2007
+
+; Viking           ; 3-1; Tromsø  
+; Sandefjord       ; 0-1; Strømsgodset  
+; Fredrikstad      ; 3-0; Start
+; Aalesund         ; 1-4; Stabæk
+; Lillestrøm       ; 0-1; Vålerenga 
+
+Date: 6/18/2007
+
+; Odd Grenland     ; 1-2; Rosenborg
 
 Round: 11
-[Jun 20]
-Strømsgodset      1-2 Tromsø
-Sandefjord        2-2 Fredrikstad
-Brann             2-1 Aalesund
-Stabæk            2-1 Viking
-Vålerenga         0-0 Lyn Oslo
-[Jun 21]
-Start             1-2 Odd Grenland
-Rosenborg         1-1 Lillestrøm 
+Date: 6/20/2007
+
+; Strømsgodset     ; 1-2; Tromsø
+; Sandefjord       ; 2-2; Fredrikstad
+; Brann            ; 2-1; Aalesund
+; Stabæk           ; 2-1; Viking
+; Vålerenga        ; 0-0; Lyn Oslo
+
+Date: 6/21/2007
+
+; Start            ; 1-2; Odd Grenland
+; Rosenborg        ; 1-1; Lillestrøm 
 
 Round: 12
-[Jun 23]
-Aalesund          1-0 Vålerenga    
-[Jun 24]
-Lillestrøm        1-0 Start
-Odd Grenland      4-0 Sandefjord
-Strømsgodset      2-1 Fredrikstad
-Tromsø            0-1 Stabæk 
-Viking            3-1 Brann
-[Jun 25]
-Lyn Oslo          2-1 Rosenborg
+Date: 6/23/2007
+
+; Aalesund         ; 1-0; Vålerenga    
+
+Date: 6/24/2007
+
+; Lillestrøm       ; 1-0; Start
+; Odd Grenland     ; 4-0; Sandefjord
+; Strømsgodset     ; 2-1; Fredrikstad
+; Tromsø           ; 0-1; Stabæk 
+; Viking           ; 3-1; Brann
+
+Date: 6/25/2007
+
+; Lyn Oslo         ; 2-1; Rosenborg
 
 Round: 13
-[Jun 30]
-Vålerenga         1-3 Viking
-[Jul 1]
-Fredrikstad       1-1 Odd Grenland
-Sandefjord        0-2 Lillestrøm
-Stabæk            3-2 Strømsgodset
-Start             0-1 Lyn Oslo
-Brann             2-1 Tromsø
-[Jul 2]
-Rosenborg         2-2 Aalesund
+Date: 6/30/2007
+
+; Vålerenga        ; 1-3; Viking
+
+Date: 7/1/2007
+
+; Fredrikstad      ; 1-1; Odd Grenland
+; Sandefjord       ; 0-2; Lillestrøm
+; Stabæk           ; 3-2; Strømsgodset
+; Start            ; 0-1; Lyn Oslo
+; Brann            ; 2-1; Tromsø
+
+Date: 7/2/2007
+
+; Rosenborg        ; 2-2; Aalesund
 
 Round: 14
-[Jul 21]
-Sandefjord        3-1 Lyn Oslo
-[Jul 22]
-Start             1-2 Aalesund
-Odd Grenland      0-1 Strømsgodset
-Brann             3-0 Stabæk     
-Fredrikstad       0-0 Lillestrøm
-Rosenborg         4-2 Viking
-[Jul 23]
-Vålerenga         2-2 Tromsø
+Date: 7/21/2007
+
+; Sandefjord       ; 3-1; Lyn Oslo
+
+Date: 7/22/2007
+
+; Start            ; 1-2; Aalesund
+; Odd Grenland     ; 0-1; Strømsgodset
+; Brann            ; 3-0; Stabæk     
+; Fredrikstad      ; 0-0; Lillestrøm
+; Rosenborg        ; 4-2; Viking
+
+Date: 7/23/2007
+
+; Vålerenga        ; 2-2; Tromsø
 
 Round: 15
-[Jul 28]
-Lillestrøm        1-1 Odd Grenland
-Tromsø            2-1 Rosenborg
-[Jul 29]
-Aalesund          4-1 Sandefjord
-Viking            2-0 Start
-Strømsgodset      2-4 Brann
-Stabæk            2-2 Vålerenga      
-[Jul 30]
-Lyn Oslo          0-0 Fredrikstad
+Date: 7/28/2007
+
+; Lillestrøm       ; 1-1; Odd Grenland
+; Tromsø           ; 2-1; Rosenborg
+
+Date: 7/29/2007
+
+; Aalesund         ; 4-1; Sandefjord
+; Viking           ; 2-0; Start
+; Strømsgodset     ; 2-4; Brann
+; Stabæk           ; 2-2; Vålerenga      
+
+Date: 7/30/2007
+
+; Lyn Oslo         ; 0-0; Fredrikstad
 
 Round: 16
-[Aug 4]
-Rosenborg         3-0 Stabæk   
-[Aug 5]
-Sandefjord        4-1 Viking       
-Odd Grenland      2-0 Lyn Oslo 
-Start             1-1 Tromsø       
-Fredrikstad       2-1 Aalesund       
-Vålerenga         2-0 Brann    
-[Aug 6]
-Lillestrøm        2-0 Strømsgodset  
+Date: 8/4/2007
+
+; Rosenborg        ; 3-0; Stabæk   
+
+Date: 8/5/2007
+
+; Sandefjord       ; 4-1; Viking       
+; Odd Grenland     ; 2-0; Lyn Oslo 
+; Start            ; 1-1; Tromsø       
+; Fredrikstad      ; 2-1; Aalesund       
+; Vålerenga        ; 2-0; Brann    
+
+Date: 8/6/2007
+
+; Lillestrøm       ; 2-0; Strømsgodset  
 
 Round: 17
-[Aug 11]
-Brann             3-2 Rosenborg  
-[Aug 12]
-Tromsø            2-1 Sandefjord       
-Viking            2-2 Fredrikstad       
-Strømsgodset      1-2 Vålerenga       
-Aalesund          2-1 Odd Grenland       
-Lyn Oslo          0-4 Lillestrøm       
-[Aug 13]
-Stabæk            1-1 Start       
+Date: 8/11/2007
+
+; Brann            ; 3-2; Rosenborg  
+
+Date: 8/12/2007
+
+; Tromsø           ; 2-1; Sandefjord       
+; Viking           ; 2-2; Fredrikstad       
+; Strømsgodset     ; 1-2; Vålerenga       
+; Aalesund         ; 2-1; Odd Grenland       
+; Lyn Oslo         ; 0-4; Lillestrøm       
+
+Date: 8/13/2007
+
+; Stabæk           ; 1-1; Start       
 
 Round: 18
-[Aug 25]
-Rosenborg         2-0 Vålerenga       
-[Aug 26]
-Lillestrøm        7-0 Aalesund
-Lyn Oslo          1-0 Strømsgodset
-Fredrikstad       2-1 Tromsø
-Odd Grenland      1-3 Viking
-Start             1-1 Brann
-[Aug 27]
-Sandefjord        2-3 Stabæk
+Date: 8/25/2007
+
+; Rosenborg        ; 2-0; Vålerenga       
+
+Date: 8/26/2007
+
+; Lillestrøm       ; 7-0; Aalesund
+; Lyn Oslo         ; 1-0; Strømsgodset
+; Fredrikstad      ; 2-1; Tromsø
+; Odd Grenland     ; 1-3; Viking
+; Start            ; 1-1; Brann
+
+Date: 8/27/2007
+
+; Sandefjord       ; 2-3; Stabæk
 
 Round: 19
-[Sep 1]
-Strømsgodset      1-1 Rosenborg
-[Sep 2]
-Tromsø            2-4 Odd Grenland
-Vålerenga         3-2 Start   
-Brann             1-0 Sandefjord   
-Aalesund          3-1 Lyn
-Viking            1-1 Lillestrøm
-[Sep 3]
-Stabæk            0-2 Fredrikstad
+Date: 9/1/2007
+
+; Strømsgodset     ; 1-1; Rosenborg
+
+Date: 9/2/2007
+
+; Tromsø           ; 2-4; Odd Grenland
+; Vålerenga        ; 3-2; Start   
+; Brann            ; 1-0; Sandefjord   
+; Aalesund         ; 3-1; Lyn
+; Viking           ; 1-1; Lillestrøm
+
+Date: 9/3/2007
+
+; Stabæk           ; 0-2; Fredrikstad
 
 Round: 20
-[Sep 15]
-Start             2-1 Rosenborg 
-[Sep 16]
-Odd Grenland      1-5 Stabæk
-Fredrikstad       0-4 Brann
-Sandefjord        1-3 Vålerenga 
-Lyn Oslo          2-3 Viking 
-Lillestrøm        0-3 Tromsø 
-[Sep 17]
-Aalesund          3-2 Strømsgodset
+Date: 9/15/2007
+
+; Start            ; 2-1; Rosenborg 
+
+Date: 9/16/2007
+
+; Odd Grenland     ; 1-5; Stabæk
+; Fredrikstad      ; 0-4; Brann
+; Sandefjord       ; 1-3; Vålerenga 
+; Lyn Oslo         ; 2-3; Viking 
+; Lillestrøm       ; 0-3; Tromsø 
+
+Date: 9/17/2007
+
+; Aalesund         ; 3-2; Strømsgodset
 
 Round: 21
-[Sep 22]
-Viking            3-0 Aalesund
-[Sep 23]
-Rosenborg         2-0 Sandefjord
-Brann             4-0 Odd Grenland
-Stabæk            3-1 Lillestrøm 
-Tromsø            2-1 Lyn Oslo 
-Strømsgodset      3-2 Start 
-[Sep 24]
-Vålerenga         2-0 Fredrikstad
+Date: 9/22/2007
+
+; Viking           ; 3-0; Aalesund
+
+Date: 9/23/2007
+
+; Rosenborg        ; 2-0; Sandefjord
+; Brann            ; 4-0; Odd Grenland
+; Stabæk           ; 3-1; Lillestrøm 
+; Tromsø           ; 2-1; Lyn Oslo 
+; Strømsgodset     ; 3-2; Start 
+
+Date: 9/24/2007
+
+; Vålerenga        ; 2-0; Fredrikstad
 
 Round: 22
-[Sep 29]
-Viking            3-0 Strømsgodset
-[Sep 30]
-Lyn Oslo          3-2 Stabæk 
-Lillestrøm        1-5 Brann 
-Odd Grenland      1-4 Vålerenga
-Fredrikstad       4-3 Rosenborg 
-Aalesund          2-3 Tromsø 
-[Oct 1]
-Sandefjord        1-3 Start
+Date: 9/29/2007
+
+; Viking           ; 3-0; Strømsgodset
+
+Date: 9/30/2007
+
+; Lyn Oslo         ; 3-2; Stabæk 
+; Lillestrøm       ; 1-5; Brann 
+; Odd Grenland     ; 1-4; Vålerenga
+; Fredrikstad      ; 4-3; Rosenborg 
+; Aalesund         ; 2-3; Tromsø 
+
+Date: 10/1/2007
+
+; Sandefjord       ; 1-3; Start
 
 Round: 23
-[Oct 6]
-Start             3-1 Fredrikstad
-[Oct 7]
-Rosenborg         4-1 Odd Grenland
-Vålerenga         1-3 Lillestrøm 
-Stabæk            4-2 Aalesund 
-Tromsø            2-1 Viking 
-Strømsgodset      4-0 Sandefjord 
-[Oct 8]
-Brann             3-1 Lyn Oslo
+Date: 10/6/2007
+
+; Start            ; 3-1; Fredrikstad
+
+Date: 10/7/2007
+
+; Rosenborg        ; 4-1; Odd Grenland
+; Vålerenga        ; 1-3; Lillestrøm 
+; Stabæk           ; 4-2; Aalesund 
+; Tromsø           ; 2-1; Viking 
+; Strømsgodset     ; 4-0; Sandefjord 
+
+Date: 10/8/2007
+
+; Brann            ; 3-1; Lyn Oslo
 
 Round: 24
-[Oct 20]
-Aalesund          2-1 Brann
-[Oct 21]
-Lyn Oslo          3-1 Vålerenga
-Lillestrøm        4-1 Rosenborg
-Odd Grenland      2-0 Start
-Fredrikstad       2-0 Sandefjord
-Tromsø            2-2 Strømsgodset
-[Oct 22]
-Viking            2-1 Stabæk
+Date: 10/20/2007
 
-Round: 25 [Oct 28]
-Sandefjord        0-2 Odd Grenland
-Start             0-0 Lillestrøm
-Rosenborg         3-0 Lyn Oslo
-Vålerenga         2-1 Aalesund
-Brann             5-2 Viking
-Stabæk            5-0 Tromsø
-Fredrikstad       1-1 Strømsgodset 
+; Aalesund         ; 2-1; Brann
 
-Round: 26 [Nov 3]
-Tromsø            3-0 Brann
-Viking            2-1 Vålerenga    
-Aalesund          1-2 Rosenborg  
-Lyn Oslo          4-1 Start    
-Lillestrøm        1-1 Sandefjord
-Odd Grenland      2-0 Fredrikstad    
-Strømsgodset      0-5 Stabæk
+Date: 10/21/2007
+
+; Lyn Oslo         ; 3-1; Vålerenga
+; Lillestrøm       ; 4-1; Rosenborg
+; Odd Grenland     ; 2-0; Start
+; Fredrikstad      ; 2-0; Sandefjord
+; Tromsø           ; 2-2; Strømsgodset
+
+Date: 10/22/2007
+
+; Viking           ; 2-1; Stabæk
+
+Round: 25 
+Date: 10/28/2007
+
+; Sandefjord       ; 0-2; Odd Grenland
+; Start            ; 0-0; Lillestrøm
+; Rosenborg        ; 3-0; Lyn Oslo
+; Vålerenga        ; 2-1; Aalesund
+; Brann            ; 5-2; Viking
+; Stabæk           ; 5-0; Tromsø
+; Fredrikstad      ; 1-1; Strømsgodset 
+
+Round: 26 
+Date: 11/3/2007
+
+; Tromsø           ; 3-0; Brann
+; Viking           ; 2-1; Vålerenga    
+; Aalesund         ; 1-2; Rosenborg  
+; Lyn Oslo         ; 4-1; Start    
+; Lillestrøm       ; 1-1; Sandefjord
+; Odd Grenland     ; 2-0; Fredrikstad    
+; Strømsgodset     ; 0-5; Stabæk
 
 * 1.SK Brann           26 17  3  6  59-39  54  Champions
 * 2.Stabæk Fotball     26 14  6  6  53-35  48

@@ -1,35 +1,29 @@
 BlockSource: http://rsssf.com/tablesd/duit01.html
+Season: 2000-2001
 
-Germany 2000/01
+Competition: 1. Bundesliga
 
-NB: this file contains 1st to 3rd level; there is also a file on the
-    4th level 2000/01.
+* 1.FC Bayern München            34 19  6  9  62-37  63  Champions
+* 2.FC Schalke 04                34 18  8  8  65-35  62  Champions' League
+* 3.BV 09 Borussia Dortmund      34 16 10  8  62-42  58  CL Qualifying
+* 4.Bayer 04 Leverkusen          34 17  6 11  54-40  57  CL Qualifying
+* 5.Hertha BSC                   34 18  2 14  58-52  56  UEFA Cup
+* 6.SC Freiburg                  34 15 10  9  54-37  55  UEFA Cup
+* 7.SV Werder Bremen             34 15  8 11  53-48  53  Intertoto
+* 8.1.FC Kaiserslautern          34 15  5 14  49-54  50
+* 9.VfL Wolfsburg                34 12 11 11  60-45  47  Intertoto
+*10.1.FC Köln                    34 12 10 12  59-52  46
+*11.TSV 1860 München             34 12  8 14  43-55  44  Intertoto
+*12.FC Hansa Rostock             34 12  7 15  34-47  43
+*13.Hamburger SV                 34 10 11 13  58-58  41
+*14.FC Energie Cottbus           34 12  3 19  38-52  39
+*15.VfB Stuttgart                34  9 11 14  42-49  38
+*------------------------------------------------------
+*16.SpVgg Unterhaching           34  8 11 15  35-59  35  Relegated
+*17.SG Eintracht Frankfurt       34 10  5 19  41-68  35  Relegated
+*18.VfL Bochum                   34  7  6 21  30-67  27  Relegated
 
-1.Bundesliga
-
-Final Table:
-
- 1.FC Bayern München            34 19  6  9  62-37  63  Champions
- 2.FC Schalke 04                34 18  8  8  65-35  62  Champions' League
- 3.BV 09 Borussia Dortmund      34 16 10  8  62-42  58  CL Qualifying
- 4.Bayer 04 Leverkusen          34 17  6 11  54-40  57  CL Qualifying
- 5.Hertha BSC                   34 18  2 14  58-52  56  UEFA Cup
- 6.SC Freiburg                  34 15 10  9  54-37  55  UEFA Cup
- 7.SV Werder Bremen             34 15  8 11  53-48  53  Intertoto
- 8.1.FC Kaiserslautern          34 15  5 14  49-54  50
- 9.VfL Wolfsburg                34 12 11 11  60-45  47  Intertoto
-10.1.FC Köln                    34 12 10 12  59-52  46
-11.TSV 1860 München             34 12  8 14  43-55  44  Intertoto
-12.FC Hansa Rostock             34 12  7 15  34-47  43
-13.Hamburger SV                 34 10 11 13  58-58  41
-14.FC Energie Cottbus           34 12  3 19  38-52  39
-15.VfB Stuttgart                34  9 11 14  42-49  38
-------------------------------------------------------
-16.SpVgg Unterhaching           34  8 11 15  35-59  35  Relegated
-17.SG Eintracht Frankfurt       34 10  5 19  41-68  35  Relegated
-18.VfL Bochum                   34  7  6 21  30-67  27  Relegated
-
-Round 1
+Round: 1
 [Aug 11]
 Borussia D     1-0 Hansa
   [Heiko Herrlich 61]
@@ -53,7 +47,7 @@ Eintracht F    3-0 Unterhaching
 Schalke        2-1 Köln
   [Ebbe Sand 12, Emile Mpenza 37; Tomasz Hajto 88og]
 
-Round 2
+Round: 2
 [Aug 18]
 Energie        1-4 Borussia D
   [Vasile Miriuta 68pen; Evanilson 9, Miroslav Stevic 59, Heiko Herrlich 64, 81]
@@ -77,7 +71,7 @@ Köln           4-1 Eintracht F
 Hansa          0-4 Schalke
   [Emile Mpenza 25, 30, 51, Ebbe Sand 40]
 
-Round 3
+Round: 3
 [Sep 5]
 Freiburg       0-0 Köln    
 Kaiserslautern 1-0 Stuttgart
@@ -98,7 +92,7 @@ Borussia D     2-3 1860
 Hertha         4-0 Bochum
   [Michael Preetz 20, 60, Alex Alves 35, Michael Hartmann 42]
 
-Round 4
+Round: 4
 [Sep 8]
 Unterhaching   0-0 Kaiserslautern
 [Sep 9]
@@ -119,7 +113,7 @@ Hansa          0-0 Freiburg
 Energie        2-0 Eintracht F
   [Antun Labak 72, Sebastian Helbig 90]
 
-Round 5
+Round: 5
 [Sep 15]
 Kaiserslautern 3-1 Köln
   [Youri Djorkaeff 9, Hani Ramzy 88, Slobodan Komljenovic 90; Christian Timm 18]
@@ -142,7 +136,7 @@ Schalke        1-1 Werder
 Hertha         2-0 Stuttgart
   [Ali Daei 77, Alex Alves 79]
 
-Round 6
+Round: 6
 [Sep 22]
 1860           3-1 Freiburg
   [Paul Agostina 75, 85, Martin Max 90; Stefan Mueller 35]
@@ -167,7 +161,7 @@ Unterhaching   5-2 Hertha
   [Andre Breitenreiter 34, 44, 48, Altin Rraklli 50, Oliver Straube 84;
    Stefan Beinlich 22, Jan Seifert 88og] 
 
-Round 7
+Round: 7
 [Sep 29]
 Eintracht F    1-1 Borussia D
   [Gerd Wimmer 21; Fredi Bobic 70]
@@ -190,7 +184,7 @@ Freiburg       0-1 Werder
 Wolfsburg      2-2 Stuttgart
   [Jonathan Akpoborie 30, Dorinel Munteanu 73; Marcel Maltritz 6og, Krisztian Lisztes 75]
 
-Round 8
+Round: 8
 [Oct 13]
 Borussia D     1-0 Freiburg
   [Joerg Heinrich 83]
@@ -214,7 +208,7 @@ Hansa          0-2 Hertha
 Unterhaching   0-3 Wolfsburg
   [Dietmar Kühbauer 39, Andrzej Juskowiak 54, Jonathan Akpoborie 63]
 
-Round 9
+Round: 9
 [Oct 20]
 Kaiserslautern 2-0 Werder
   [Jorgen Pettersson 14, Miroslav Klose 85]
@@ -238,7 +232,7 @@ Freiburg       3-1 Schalke
 Bochum         1-2 Hansa
   [Achim Weber 56; Magnus Arvidsson 67, Kreso Kovacek 79]
 
-Round 10
+Round: 10
 [Oct 27]
 Energie        2-0 Bochum
   [Toni Micevski 29, Vasile Miriuta 44]
@@ -260,7 +254,7 @@ Schalke        0-0 Leverkusen
 Köln           3-2 Stuttgart
   [Christian Springer 31, 36, Dirk Lottner 75; Ioan Viorel Ganea 28, Pablo Thiam 41]
 
-Round 11
+Round: 11
 [Nov 3]
 Leverkusen     1-0 Eintracht F
   [Michael Ballack 79]
@@ -283,7 +277,7 @@ Unterhaching   0-0 Köln
 Wolfsburg      1-1 Energie
   [Dietmar Kühbauer 60; Rudi Vata 38]
 
-Round 12
+Round: 12
 [Nov 10]
 Borussia D     2-0 Hertha
   [Lars Ricken 3, Guisepppe Reina 72]
@@ -307,7 +301,7 @@ Eintracht F    3-1 Kaiserslautern
 Energie        2-1 Stuttgart
   [Vasile Miriuta 34, Janos Matyus 86; Zvonimir Soldo 16]
 
-Round 13
+Round: 13
 [Nov 17]
 Stuttgart      2-2 1860
   [Pablo Thiam 19, Ioan Viorel Ganea 71; Paul Agostino 64, Thomas Haessler 80]
@@ -331,7 +325,7 @@ Unterhaching   2-1 Energie
 Bochum         1-1 Borussia D
   [Zdravko Drincic 75; Joerg Heinrich 87]
 
-Round 14
+Round: 14
 [Nov 24]
 Schalke        2-1 Bochum
   [Youri Mulder 37, Ebbe Sand 64; Marijo Maric 48]
@@ -355,7 +349,7 @@ Leverkusen     4-2 Kaiserslautern
   [Oliver Neuville 30, 86, Ulf Kirsten 37, Michael Ballack 69pen; 
    Marian Hristov 35, Jose Manuel Dominguez 66]
 
-Round 15
+Round: 15
 [Dec 2]
 Köln           4-0 1860
   [Markus Kurth 42, Archil Arveladse 65, Dirk Lottner 67, Christian Springer 76]
@@ -377,7 +371,7 @@ Energie        1-0 Hansa
 [Dec 20]
 Unterhaching   0-0 Werder
 
-Round 16
+Round: 16
 [Dec 8]
 Eintracht F    1-2 Wolfsburg
   [Marco Gebhardt 11; Andrzej Juskowiak 52, Tomislav Maric 74]
@@ -399,7 +393,7 @@ Werder         2-1 Köln
 HSV            2-1 Energie
   [Sergej Barbarez 72, Marek Heinz 78; Laurentiu-Aurelian Reghecampf 41]
 
-Round 17
+Round: 17
 [Dec 12]
 Unterhaching   0-2 Schalke
   [Ebbe Sand 26, Marco van Hoogdalem 60]
@@ -424,7 +418,7 @@ Energie        2-3 1860
   [Andrzej Kobylanski 7, Vasile Miriuta 9; Thomas Haessler 54, Vidar Riseth 58,
    Paul Agostino 67]
 
-Round 18
+Round: 18
 [Dec 15]
 Unterhaching   2-0 Eintracht F
   [Dietmar Hirsch 19, Andre Breitenreiter 86]
@@ -446,7 +440,7 @@ Hertha         1-3 Bayern
 Energie        3-1 Werder
   [Andrzej Kobylanski 4, Sebastian Helbig 44, Janos Matyus 68; Ailton 38pen]
 
-Round 19 
+Round: 19 
 [Jan 26]
 Schalke        2-0 Hansa
   [Joerg Boehme 4, Jiri Nemec 66]
@@ -469,7 +463,7 @@ Leverkusen     4-0 Stuttgart
 HSV            1-2 Hertha
   [Hans-Joerg Butt 29pen; Michael Preetz 63, 81]
 
-Round 20
+Round: 20
 [Feb 2]
 1860           1-0 Borussia D
   [Thomas Haessler 53pen]
@@ -493,7 +487,7 @@ Unterhaching   1-2 Leverkusen
 Hansa          0-2 Eintracht F
   [Pawel Krysalowicz 30, Marco Gebhardt 45]
 
-Round 21
+Round: 21
 [Feb 9]
 Eintracht F    1-0 Energie
   [Horst Heldt 65]
@@ -514,7 +508,7 @@ Leverkusen     4-1 Köln
 Freiburg       0-0 Hansa
 Borussia D     0-0 Werder 
 
-Round 22
+Round: 22
 [Feb 16]
 1860           2-2 Eintracht F
   [Martin Max 72, Thomas Haessler 81pen; Chen Yang 22, Pawel Kryszalowicz 59]
@@ -537,7 +531,7 @@ Köln           0-1 Kaiserslautern
 Stuttgart      0-1 Hertha 
   [Michael Preetz 77]
 
-Round 23
+Round: 23
 [Feb 23]
 Leverkusen     1-3 Energie
   [Ze Roberto 74; Vasile Miriuta 33, 52, Antun Labak 42]
@@ -560,7 +554,7 @@ Bochum         0-0 Stuttgart
 Hertha         2-1 Unterhaching
   [Pal Dardai 57, Dick van Burik 67; Matthias Zimmermann 52]
 
-Round 24
+Round: 24
 [Mar 2]
 Borussia D     6-1 Eintracht F
   [Christian Woerns 30, Lars Ricken 64, 67, Fredi Bobic 71, 90, Otto Addo 79;
@@ -585,7 +579,7 @@ Köln           1-0 Hertha
 Schalke        0-1 HSV 
   [Erik Meijer 86]
 
-Round 25
+Round: 25
 [Mar 9]
 Leverkusen     3-0 Werder
   [Lucio 12, Oliver Neuville 54, Thomas Brdaric 62]
@@ -610,7 +604,7 @@ Kaiserslautern 3-2 1860
 HSV            2-2 Stuttgart
   [Sergej Barbarez 11, 45; Pablo Thiam 18, Ioan Viorel Ganea 80]
 
-Round 26
+Round: 26
 [Mar 16]
 Köln           0-0 Wolfsburg
 [Mar 17]
@@ -630,7 +624,7 @@ Werder         1-2 Kaiserslautern
   [Andreas Herzog 58; Vratislav Lokvenc 11, 39]
 Unterhaching   0-0 Stuttgart
 
-Round 27
+Round: 27
 [Mar 30]
 Wolfsburg      2-1 Hansa
   [Dietmar Kuehbauer 14, 60; Slawomir Majak 66]
@@ -655,7 +649,7 @@ Kaiserslautern 1-4 Borussia D
 Bochum         1-0 Energie
   [Thomas Reis 75]
 
-Round 28
+Round: 28
 [Apr 6]
 Energie        0-0 Wolfsburg
 [Apr 7]
@@ -677,7 +671,7 @@ Schalke        5-1 Kaiserslautern
 Hansa          1-1 Stuttgart
   [Rene Rydlewicz 89pen; Krasimir Balakov 72pen]
 
-Round 29
+Round: 29
 [Apr 12]
 Stuttgart      1-0 Energie
   [Krasimir Balakov 72pen]
@@ -701,7 +695,7 @@ Unterhaching   1-1 Hansa
 HSV            1-1 Köln
   [Sergej Barbarez 76; Miroslav Baranek 20]
 
-Round 30
+Round: 30
 [Apr 20]
 Borussia D     5-0 Bochum
   [Lars Ricken 18, Joerg Heinrich 29, Giuseppe Reina 58, 65, Miroslav Stevic 89pen]
@@ -726,7 +720,7 @@ Freiburg       5-2 Kaiserslautern
 1860           2-1 Stuttgart 
   [Martin Max 12, Markus Beierle 56; Krassimir Balakov 28pen]
 
-Round 31
+Round: 31
 [Apr 27]
 Wolfsburg      1-1 Borussia D
   [Andrzej Juskowiak 10; Joerg Heinrich 22]
@@ -750,7 +744,7 @@ Unterhaching   3-2 1860
 HSV            2-1 Hansa
   [Marek Heinz 46, Marinus Bester 90; Bachirou Salou 3]
 
-Round 32
+Round: 32
 [May 4]
 Borussia D     0-0 Stuttgart
 [May 5]
@@ -771,7 +765,7 @@ Werder         0-0 Unterhaching
 Freiburg       1-0 Hertha
   [Abder Ramdane 80]
 
-Round 33 [May 12]
+Round: 33 [May 12]
 Hansa          0-0 1860
 Bayern         2-1 Kaiserslautern
   [Carsten Jancker 55, Alexander Zickler 90; Vratislav Lokvenc 5]
@@ -791,7 +785,7 @@ Energie        4-2 HSV
   [Faruk Hujdurovic 1, Antun Labak 23, Vasile Miriuta 51pen, Franklin 62;
    Sergej Barbarez 40, 55]
 
-Round 34 [May 19]
+Round: 34 [May 19]
 HSV            1-1 Bayern
   [Sergej Barbarez 90; Patrik Andersson 94] 
 Werder         3-0 Hansa
@@ -814,842 +808,29 @@ Kaiserslautern 0-1 Hertha
 1860           0-1 Energie
   [Antun Labak 25]
 
-Final Table:
-
- 1.FC Bayern München            34 19  6  9  62-37  63  Champions
- 2.FC Schalke 04                34 18  8  8  65-35  62  Champions' League
- 3.BV 09 Borussia Dortmund      34 16 10  8  62-42  58  CL Qualifying
- 4.Bayer 04 Leverkusen          34 17  6 11  54-40  57  CL Qualifying
- 5.Hertha BSC                   34 18  2 14  58-52  56  UEFA Cup
- 6.SC Freiburg                  34 15 10  9  54-37  55  UEFA Cup
- 7.SV Werder Bremen             34 15  8 11  53-48  53  Intertoto
- 8.1.FC Kaiserslautern          34 15  5 14  49-54  50
- 9.VfL Wolfsburg                34 12 11 11  60-45  47  Intertoto
-10.1.FC Köln                    34 12 10 12  59-52  46
-11.TSV 1860 München             34 12  8 14  43-55  44  Intertoto
-12.FC Hansa Rostock             34 12  7 15  34-47  43
-13.Hamburger SV                 34 10 11 13  58-58  41
-14.FC Energie Cottbus           34 12  3 19  38-52  39
-15.VfB Stuttgart                34  9 11 14  42-49  38
-------------------------------------------------------
-16.SpVgg Unterhaching           34  8 11 15  35-59  35  Relegated
-17.SG Eintracht Frankfurt       34 10  5 19  41-68  35  Relegated
-18.VfL Bochum                   34  7  6 21  30-67  27  Relegated
-
-Topscorers:
-
-Sergej Barbarez (HSV)       22
-Ebbe Sand (Schalke 04)      22
-
-
-Germany Cup (DFB Pokal) 2000/01
-
-Round 1
-[Aug 25]
-Rot-Weiß Erfurt      0-2 SSV Ulm
-Karlsruher SC        2-1 Chemnitzer FC
-Hlaberg-Brebach      0-5 1.FC Nürnberg
-VfL Osnabrück        0-1 Hannover 1896
-Bayer Leverkusen Am. 1-2 FC Sankt Pauli
-Tennis-Borussia      1-3 DSC Arminia Bielefeld
-Kickers Emden        0-1 FSV Mainz
-[Aug 26]
-TuS Dassendorf       0-5 Spvgg. Unterhaching
-SSV Reutlingen       2-3 Hertha BSC                   [aet]
-SV Babelsberg 03     1-6 Vfl Bochum
-SV Werder Bremen Am. 0-1 VfL Wolfsburg
-Wuppertaler SV       1-3 VfB Stuttgart
-FC Schönberg         0-4 FC Bayern München
-Tennis-Borussia II   0-2 SV Werder Bremen
-VfB Stuttgart Amat.  6-1 Eintracht Frankfurt
-FC Ismaning          0-4 Borussia Dortmund
-1.FC Saarbrücken     0-1 Spvgg. Greuther Fürth
-LR Ahlen             1-2 Borussia Mönchengladbach
-Karlsruher SC II     0-2 TSV Alemannia Aachen
-Teningen             0-3 MSV Duisburg
-1.FC Union Berlin    2-0 Rot-Wei&slig; Oberhausen
-SV Wehen             2-1 Stuttgarter Kickers
-[Aug 27]
-1.FC Magdeburg       5-2 1.FC Köln
-TSV Rain/Lech        0-7 Schalke 04
-VfB Lübeck           2-2 SV Waldhof Mannheim          [aet, 3-2 pen]
-VfL Hamm             0-6 FC Energie Cottbus
-SC Pfullendorf       1-3 SC Freiburg
-Erzgebirge Aue       0-3 Hamburger SV
-SC Fortuna Köln      0-4 Bayer Leverkusen
-TSG Pfeddersheim     0-7 TSV 1860 München
-SC Paderborn 07      1-2 FC Hansa Rostock
-[Aug 28]
-OFC Kickers          0-4 1.FC Kaiserslautern
- 
-Round 2 
-[Oct 31]
-SC Freiburg          1-0 SV Werder Bremen
-TSV Alemannia Aachen 1-2 Bayer Leverkusen
-Arminia Bielefeld    0-4 VfL Bochum
-SV Wehen             0-1 BV Borussia Dortmund         [aet]
-Karlsruher SC        1-0 Hamburger SV
-1.FC Nürnberg        4-0 FSV Mainz 05
-[Nov 1]
-Spvgg. Unterhaching  1-2 TSV 1860 München             [aet]
-VfL Wolfsburg        3-1 Hertha BSC
-SSV Ulm              2-0 FC Energie Cottbus
-Hannover 1896        2-1 FC Hansa Rostock
-FC Sankt Pauli       1-3 FC Schalke 04                [aet]
-Borussia M'gladbach  5-1 1.FC Kaiserslautern
-VfB Stuttgart Amat.  0-3 VfB Stuttgart
-1.FC Magdeburg       1-1 FC Bayern München            [aet, 4-2 pen]
-VfB Lübeck           1-1 MSV Duisburg                 [aet, 3-5 pen]
-1.FC Union Berlin    1-0 Spvgg. Greuther Fürth
-
-Round 3 
-[Nov 28]
-1.FC Magdeburg       5-3 Karlsruher SC                [aet]
-VfL Wolfsburg        1-1 MSV Duisburg                 [aet, 3-4 pen]
-1.FC Union Berlin    4-2 SSV Ulm
-[Nov 29]
-VfB Stuttgart        2-1 Hannover 1896
-FC Schalke 04        2-1 BV Borussia Dortmund
-Borussia M'gladbach  1-0 1.FC Nürnberg
-SC Freiburg          3-2 Bayer Leverkusen
-TSV 1860 München     0-5 VfL Bochum
-
-Quarterfinals [Dec 20]
-VfB Stuttgart        2-1 SC Freiburg                  [aet]
-  [Krassimir Balakov 29, Ioan Viorel Ganea 96; Sebastian Kehl 31]
-MSV Duisburg         0-1 Borussia Mönchengladbach
-  [Arie van Lent 67pen]
-1.FC Magdeburg       0-1 FC Schalke 04
-  [Jörg Böhme 34pen]
-1.FC Union Berlin    1-0 VfL Bochum
-  [Daniel Ernemann 90]
-
-Semifinals 
-[Feb 6]
-1.FC Union Berlin    2-2 Borussia Mönchengladbach     [aet, 4-2 pen]
-  [Bozo Durkovic 27, Steffen Menze 80; Arie van Lent 61, 67]
-[Feb 7]
-VfB Stuttgart        0-3 FC Schalke 04
-  [Ebbe Sand 3, Gerald Asamoah 6, Emile Mpenza 18]
-
-Final [May 26, Berlin; att: 73,011]
-1.FC Union Berlin    0-2 FC Schalke 04 
-  [Jörg Böhme 53, 58pen]
-  [Schalke 04: 1-Oliver Reck; 6-Tomasz Hajto, 20-Jiri Nemec (10-Olaf Thon 85), 
-     2-Nico Van Kerckhoven (19-Michael Büskens 88), 14-Gerald Asamoah (3-Radoslav
-     Latal 80), 18-Niels Oude Kamphuis, 12-Marco van Hoogdalem, 8-Jörg Böhme, 
-     7-Andreas Möller, 11-Ebbe Sand, 21-Emile Mpenza 
-   Union Berlin: 26-Sven Beuckert; 18-Jens Tschiedel (5-Marko Tredup 81), 
-     33-Tom Persich, 11-Daniel Ernemann (25-Daniel Teixeira 55), 24-Emil Kremenliev,
-     4-Steffen Menze, 6-Chibuike Okeke, 16-Hristo Koilov, 3-Ronny Nikol, 
-     7-Harun Isa (9-Michael Zechner 70), 22-Bozo Durkovic 
-   ref: Hermann Albrecht] 
-
-
-2.Bundesliga
-
-Final Table:
-
- 1.1.FC Nürnberg                34 20  5  9  58-35  65  Champions, Promoted
- 2.VfL Borussia Mönchengladbach 34 17 11  6  62-31  62  Promoted
- 3.FC Sankt Pauli               34 17  9  8  70-52  60  Promoted 
-------------------------------------------------------
- 4.SV Waldhof Mannheim          34 17  8  9  57-42  59
- 5.SpVgg. Greuther Fürth        34 15  9 10  55-38  54
- 6.LR Ahlen                     34 15  9 10  61-53  54
- 7.SSV Reutlingen               34 15  8 11  64-52  53
- 8.1.FC Saarbrücken             34 14  8 12  48-59  50
- 9.Hannover 96                  34 12 10 12  52-45  46
-10.Alemannia Aachen             34 13  7 14  42-60  46
-11.MSV Duisburg                 34 12  9 13  46-40  45
-12.SC Rot-Weiß Oberhausen       34 13  6 15  45-50  45
-13.DSC Arminia Bielefeld        34 10 11 13  53-46  41
-14.FSV Mainz 05                 34 10 10 14  37-45  40
-------------------------------------------------------     
-15.VfL Osnabrück                34  9 10 15  40-52  37  Relegated
-16.SSV Ulm 1846                 34  9  7 18  42-58  34  Relegated
-17.Stuttgarter Kickers          34  8 10 16  31-51  34  Relegated
-18.Chemnitzer FC                34  3  7 24  24-78  16  Relegated
-
-Round 1
-[Aug 11]
-Stuttgarter K  1-0 RW Oberhausen
-Hannover       1-1 Nürnberg
-[Aug 12]
-Ahlen          3-6 St Pauli
-Borussia MG    0-0 Saarbrücken
-[Aug 13]
-Arminia        3-1 Osnabrück
-Reutlingen     3-2 Mainz
-Waldhof        3-0 Alemannia
-Greuther Fürth 4-1 Chemnitz
-[Aug 14]
-MSV            1-2 Ulm
-
-Round 2
-[Aug 18]
-Chemnitz       0-2 Hannover
-St Pauli       5-0 Waldhof
-[Aug 19]
-Alemannia      4-1 Reutlingen
-Osnabrück      1-3 Borussia MG
-[Aug 20]
-Nürnberg       2-0 Ahlen
-Mainz          2-2 Stuttgarter K
-RW Oberhausen  1-0 MSV
-Saarbrücken    2-1 Greuther Fürth
-[Aug 21]
-Ulm            0-1 Arminia
-
-Round 3
-[Sep 4]
-Borussia MG    5-0 Ulm
-[Sep 5]
-Arminia        2-0 RW Oberhausen
-MSV            0-0 Mainz
-Reutlingen     2-0 St Pauli
-Chemnitz       1-3 Saarbrücken
-Hannover       1-1 Ahlen
-[Sep 6]
-Greuther Fürth 2-0 Osnabrück
-Stuttgarter K  0-3 Alemannia
-Waldhof        1-4 Nürnberg
-
-Round 4 
-[Sep 8]
-Mainz          2-4 Arminia
-Saarbrücken    2-1 Hannover
-[Sep 9]
-Nürnberg       2-0 Reutlingen
-Ahlen          1-2 Waldhof
-[Sep 10]
-RW Oberhausen  1-1 Borussia MG
-Ulm            2-2 Greuther Fürth
-Osnabrück      1-1 Chemnitz
-St Pauli       4-0 Stuttgarter K
-[Sep 11]
-Alemannia      1-0 MSV
-
-Round 5
-[Sep 15]
-MSV            4-1 St Pauli
-Hannover       3-0 Waldhof
-[Sep 16]
-Borussia MG    1-1 Mainz
-Reutlingen     5-1 Ahlen
-[Sep 17]
-Greuther Fürth 1-2 RW Oberhausen
-Stuttgarter K  0-2 Nürnberg
-Saarbrücken    2-1 Osnabrück
-Chemnitz       1-0 Ulm
-[Sep 18]
-Arminia        1-1 Alemannia
-
-Round 6
-[Sep 22]
-Nürnberg       3-1 MSV
-Ulm            3-1 Saarbrücken
-[Sep 23]
-Waldhof        1-1 Reutlingen
-St Pauli       2-0 Arminia
-[Sep 24]
-Mainz          1-0 Greuther Fürth
-RW Oberhausen  4-1 Chemnitz
-Osnabrück      0-1 Hannover
-Ahlen          1-1 Stuttgarter K
-[Sep 25]
-Alemannia      1-1 Borussia MG
-
-Round 7
-[Sep 29]
-Saarbrücken    3-2 RW Oberhausen
-MSV            3-3 Ahlen
-[Sep 30]
-Borussia MG    4-2 St Pauli
-Stuttgarter K  2-2 Waldhof
-[Oct 1]
-Hannover       5-1 Reutlingen
-Osnabrück      2-1 Ulm
-Greuther Fürth 3-0 Alemannia
-Chemnitz       0-2 Mainz
-[Oct 2]
-Arminia        1-2 Nürnberg
-
-Round 8
-[Oct 13]
-Alemannia      1-2 Chemnitz  
-Waldhof        1-0 MSV 
-[Oct 14]
-Mainz          1-0 Saarbrücken  
-Ahlen          1-1 Arminia 
-[Oct 15]
-RW Oberhausen  5-2 Osnabrück  
-Ulm            3-3 Hannover  
-Reutlingen     1-0 Stuttgarter K
-St Pauli       3-3 Greuther Fürth  
-[Oct 16]
-Nürnberg       2-1 Borussia MG
-
-Round 9
-[Oct 20]
-Arminia        0-0 Waldhof
-Chemnitz       1-3 St Pauli
-[Oct 21]
-Greuther Fürth 0-0 Nürnberg
-Hannover       1-0 Stuttgarter K
-[Oct 22]
-MSV            4-3 Reutlingen
-Ulm            0-1 RW Oberhausen
-Osnabrück      2-1 Mainz
-Saarbrücken    1-3 Alemannia
-[Oct 23]
-Borussia MG    1-2 Ahlen 
-
-Round 10
-[Oct 27]
-Nürnberg       3-1 Chemnitz
-Reutlingen     3-2 Arminia
-[Oct 28]
-Aachen         0-0 Osnabrück
-Mainz          0-3 Ulm
-[Oct 29]
-RW Oberhausen  0-0 Hannover
-Stuttgarter K  0-0 MSV
-Waldhof        4-0 Borussia MG
-Ahlen          2-0 Greuther Fürth
-St Pauli       2-2 Saarbrücken
-
-Round 11
-[Nov 3]
-Arminia        0-0 Stuttgarter K
-Chemnitz       2-2 Ahlen
-[Nov 4]
-RW Oberhausen  1-0 Mainz
-Hannover       0-2 MSV
-[Nov 5]
-Greuther Fürth 2-1 Waldhof
-Borussia MG    1-1 Reutlingen
-Ulm            3-1 Alemannia
-Osnabrück      0-0 St Pauli
-[Nov 6]
-Saarbrücken    2-2 Nürnberg
-
-Round 12
-[Nov 10]
-Waldhof        0-0 Chemnitz
-MSV            2-1 Arminia
-[Nov 11]
-Mainz          0-2 Hannover
-St Pauli       1-0 Ulm 
-[Nov 12]
-Alemannia      3-1 RW Oberhausen
-Reutlingen     2-2 Greuther Fürth
-Ahlen          2-0 Saarbrücken
-Stuttgarter K  1-1 Borussia MG
-[Nov 13]
-Nürnberg       3-1 Osnabrück
-
-Round 13
-[Nov 17]
-Mainz          1-1 Alemannia
-Ulm            0-1 Nürnberg
-[Nov 18]
-Osnabrück      1-1 Ahlen
-[Nov 19]
-Greuther Fürth 2-0 Stuttgarter K
-Borussia MG    1-1 MSV
-RW Oberhausen  2-3 St Pauli
-Chemnitz       1-3 Reutlingen
-[Nov 20]
-Saarbrücken    3-3 Waldhof
-Hannover       4-2 Arminia
-
-Round 14
-[Nov 24]
-Alemannia      0-4 Hannover
-MSV            0-0 Greuther Fürth
-[Nov 25]
-Arminia        1-2 Borussia MG
-Ahlen          1-0 Ulm
-[Nov 26]
-Nürnberg       2-1 RW Oberhausen
-Stuttgarter K  4-0 Chemnitz
-Reutlingen     8-2 Saarbrücken
-Waldhof        2-0 Osnabrück
-[Nov 27]
-St Pauli       2-2 Mainz
-
-Round 15
-[Dec 1]
-Greuther Fürth 1-0 Arminia
-Chemnitz       1-3 MSV
-[Dec 2]
-Osnabrück      0-2 Reutlingen
-Saarbrücken    1-0 Stuttgarter K
-[Dec 3]
-Mainz          2-0 Nürnberg
-RW Oberhausen  1-0 Ahlen
-Ulm            1-0 Waldhof
-St Pauli       3-3 Alemannia
-[Dec 4]
-Borussia MG    2-0 Hannover
-
-Round 16
-[Dec 8]
-MSV            2-1 Saarbrücken
-Reutlingen     2-2 Ulm
-[Dec 9]
-Arminia        5-1 Chemnitz
-Stuttgarter K  2-1 Osnabrück
-[Dec 10]
-Nürnberg       6-1 Alemannia
-Borussia MG    3-1 Greuther Fürth
-Waldhof        5-0 RW Oberhausen
-Ahlen          1-0 Mainz
-[Dec 11]
-Hannover       1-1 St Pauli
-
-Round 17
-[Dec 12]
-Ulm            1-1 Stuttgarter K
-Osnabrück      1-3 MSV
-Saarbrücken    1-0 Arminia
-[Dec 13]
-Alemannia      4-3 Ahlen
-Mainz          0-1 Waldhof
-RW Oberhausen  2-0 Reutlingen
-Chemnitz       0-3 Borussia MG
-[Dec 14]
-Greuther Fürth 2-1 Hannover
-St Pauli       1-0 Nürnberg
-
-Round 18
-[Dec 15]
-Osnabrück      1-0 Arminia
-Ulm            1-3 MSV
-[Dec 16]
-RW Oberhausen  1-3 Stuttgarter K
-Mainz          1-1 Reutlingen
-[Dec 17]
-Nürnberg       4-2 Hannover
-St Pauli       3-2 Ahlen   
-Saarbrücken    0-4 Borussia MG
-Chemnitz       0-2 Greuther Fürth
-[Dec 18]
-Alemannia      0-1 Waldhof
-
-Round 19
-[Jan 26]
-Hannover       0-0 Chemnitz
-Waldhof        2-1 St Pauli
-[Jan 27]
-Reutlingen     3-1 Alemannia
-Borussia MG    0-0 Osnabrück
-[Jan 28]
-MSV            1-2 RW Oberhausen
-Ahlen          0-1 Nürnberg
-Stuttgarter K  0-0 Mainz
-Greuther Fürth 0-1 Saarbrücken
-[Jan 29]
-Arminia        1-1 Ulm
-
-Round 20
-[Feb 2]
-Nürnberg       1-0 Waldhof
-Ahlen          2-1 Hannover
-[Feb 4]
-Osnabrück      2-1 Greuther Fürth
-[Feb 14]
-Ulm            2-4 Borussia MG
-RW Oberhausen  0-0 Arminia
-Saarbrücken    4-1 Chemnitz
-[Feb 28]
-Mainz          1-0 MSV
-Alemannia      3-0 Stuttgarter K
-[Mar 1]
-St Pauli       1-0 Reutlingen
-
-Round 21
-[Feb 9]
-Hannover       3-0 Saarbrücken  
-Stuttgarter K  0-2 St Pauli  
-[Feb 10]
-Borussia MG    1-0 RW Oberhausen 
-Chemnitz       1-2 Osnabrück 
-[Feb 11]
-Reutlingen     3-2 Nürnberg  
-Arminia        4-1 Mainz 
-Greuther Fürth 1-0 Ulm  
-Waldhof        0-3 Ahlen  
-[Feb 12]
-MSV            4-0 Alemannia 
-
-Round 22
-[Feb 16]
-Nürnberg       2-1 Stuttgarter K
-Waldhof        2-1 Hannover
-[Feb 17]
-RW Oberhausen  2-2 Greuther Fürth
-Mainz          0-1 Borussia MG
-[Feb 18]
-St Pauli       1-0 MSV
-Ahlen          3-1 Reutlingen
-Osnabrück      2-2 Saarbrücken
-Ulm            3-0 Chemnitz
-[Feb 19]
-Alemannia      1-0 Arminia
-
-Round 23
-[Feb 23]
-MSV            3-2 Nürnberg 
-Saarbrücken    1-1 Ulm 
-[Feb 24]
-Borussia MG    6-1 Alemannia
-Arminia        3-3 St Pauli
-[Feb 25]
-Greuther Fürth 3-1 Mainz  
-Reutlingen     1-1 Waldhof
-[Feb 26]
-Hannover       1-1 Osnabrück  
-[Mar 21]
-Chemnitz       0-1 RW Oberhausen
-Stuttgarter K  1-1 Ahlen
-
-Round 24
-[Mar 2]
-Ulm            1-1 Osnabrück
-[Mar 3]
-Nürnberg       2-1 Arminia 
-Mainz          3-1 Chemnitz 
-[Mar 4]
-Alemannia      0-0 Greuther Fürth 
-Ahlen          3-2 MSV
-Waldhof        4-2 Stuttgarter K 
-Reutlingen     3-0 Hannover 
-[Mar 5]
-St Pauli       0-2 Borussia MG
-[Apr 11]
-RW Oberhausen  4-1 Saarbrücken
-
-Round 25
-[Mar 9]
-Osnabrück      0-0 RW Oberhausen 
-MSV            0-1 Waldhof 
-[Mar 10]
-Saarbrücken    1-1 Mainz
-Arminia        1-1 Ahlen 
-[Mar 11]
-Chemnitz       2-3 Alemannia 
-Hannover       2-0 Ulm 
-Stuttgarter K  1-0 Reutlingen 
-Greuther Fürth 5-1 St Pauli 
-[Mar 12] 
-Borussia MG    1-1 Nürnberg
-
-Round 26
-[Mar 16]
-Alemannia      1-0 Saarbrücken
-Stuttgarter K  2-0 Hannover 
-[Mar 17]
-Nürnberg       0-1 Greuther Fürth
-RW Oberhausen  3-1 Ulm 
-[Mar 18]
-Ahlen          2-1 Borussia MG
-Reutlingen     0-1 MSV 
-Mainz          2-0 Osnabrück
-St Pauli       3-0 Chemnitz
-[Mar 19]
-Waldhof        3-3 Arminia
-
-Round 27
-[Mar 30]
-Chemnitz       1-1 Nürnberg  
-Saarbrücken    1-0 St Pauli  
-[Mar 31]
-Hannover       3-0 RW Oberhausen 
-Arminia        3-1 Reutlingen
-[Apr 1]
-Osnabrück      5-1 Alemannia 
-Ulm            0-2 Mainz
-MSV            0-0 Stuttgarter K
-Greuther Fürth 2-4 Ahlen
-[Apr 2]
-Borussia MG    3-0 Waldhof 
-
-Round 28
-[Apr 6]
-Nürnberg       0-1 Saarbrücken
-MSV            2-1 Hannover
-[Apr 7]
-Waldhof        2-1 Greuther Fürth
-Ahlen          5-2 Chemnitz
-[Apr 8]
-Stuttgarter K  2-1 Arminia
-Mainz          1-0 RW Oberhausen
-Alemannia      1-0 Ulm
-St Pauli       2-4 Osnabrück
-[Apr 9]
-Reutlingen     3-1 Borussia MG
-
-Round 29
-[Apr 12]
-Arminia        1-1 MSV
-Chemnitz       0-0 Waldhof
-[Apr 14]
-RW Oberhausen  3-0 Alemannia
-Hannover       2-4 Mainz
-[Apr 15]
-Borussia MG    1-0 Stuttgarter K
-Greuther Fürth 1-0 Reutlingen
-Ulm            1-4 St Pauli
-[Apr 16]
-Osnabrück      2-1 Nürnberg
-[Apr 25]
-Saarbrücken    1-2 Ahlen
-
-Round 30
-[Apr 20]
-Alemannia      1-0 Mainz 
-Waldhof        2-3 Saarbrücken
-[Apr 21]
-St Pauli       4-1 RW Oberhausen
-[Apr 22]
-Stuttgarter K  0-5 Greuther Fürth
-Nürnberg       1-2 Ulm
-Ahlen          1-0 Osnabrück 
-Arminia        5-2 Hannover
-[Apr 23]
-MSV            0-2 Borussia MG
-[Apr 25]
-Reutlingen     2-0 Chemnitz 
-
-Round 31
-[Apr 27]
-Hannover       0-0 Alemannia 
-Borussia MG    0-1 Arminia
-[Apr 28]
-Chemnitz       0-2 Stuttgarter K
-Mainz          1-1 St Pauli 
-[Apr 29]
-RW Oberhausen  1-2 Nürnberg 
-Saarbrücken    2-2 Reutlingen
-Osnabrück      0-2 Waldhof
-Ulm            2-0 Ahlen
-[Apr 30] 
-Greuther Fürth 1-0 MSV 
-
-Round 32
-[May 4]
-Stuttgarter K  0-1 Saarbrücken
-MSV            1-1 Chemnitz 
-[May 5]
-Alemannia      0-1 St Pauli 
-[May 6]
-Arminia        1-1 Greuther Fürth
-Nürnberg       1-0 Mainz
-Reutlingen     2-0 Osnabrück
-[May 7]
-Hannover       0-0 Borussia MG
-[May 9]
-Waldhof        5-0 SSV Ulm 
-Ahlen          4-1 RW Oberhausen
-
-Round 33 [May 13]
-Alemannia      0-1 Nürnberg
-Greuther Fürth 2-2 Borussia MG
-Chemnitz       1-0 Arminia
-Saarbrücken    1-0 MSV
-Osnabrück      4-1 Stuttgarter K
-Ulm            2-3 Reutlingen 
-RW Oberhausen  1-2 Waldhof 
-Mainz          2-2 Ahlen 
-St Pauli       2-2 Hannover 
-
-Round 34 [May 20]
-Hannover       2-1 Greuther Fürth
-Ahlen          1-2 Alemannia
-Waldhof        4-0 Mainz
-Reutlingen     1-1 RW Oberhausen
-Stuttgarter K  2-4 Ulm 
-MSV            2-2 Osnabrück
-Arminia        4-2 Saarbrücken 
-Borussia MG    3-0 Chemnitz 
-Nürnberg       1-2 St Pauli 
-
-Final Table:
-
- 1.1.FC Nürnberg                34 20  5  9  58-35  65  Champions, Promoted
- 2.VfL Borussia Mönchengladbach 34 17 11  6  62-31  62  Promoted
- 3.FC Sankt Pauli               34 17  9  8  70-52  60  Promoted 
-------------------------------------------------------
- 4.SV Waldhof Mannheim          34 17  8  9  57-42  59
- 5.SpVgg. Greuther Fürth        34 15  9 10  55-38  54
- 6.LR Ahlen                     34 15  9 10  61-53  54
- 7.SSV Reutlingen               34 15  8 11  64-52  53
- 8.1.FC Saarbrücken             34 14  8 12  48-59  50
- 9.Hannover 96                  34 12 10 12  52-45  46
-10.Alemannia Aachen             34 13  7 14  42-60  46
-11.MSV Duisburg                 34 12  9 13  46-40  45
-12.SC Rot-Weiß Oberhausen       34 13  6 15  45-50  45
-13.DSC Arminia Bielefeld        34 10 11 13  53-46  41
-14.FSV Mainz 05                 34 10 10 14  37-45  40
-------------------------------------------------------     
-15.VfL Osnabrück                34  9 10 15  40-52  37  Relegated
-16.SSV Ulm 1846                 34  9  7 18  42-58  34  Relegated
-17.Stuttgarter Kickers          34  8 10 16  31-51  34  Relegated
-18.Chemnitzer FC                34  3  7 24  24-78  16  Relegated
-
-
-Regionalliga
-
-Final Tables:
-
-Regionalliga Nord
-
- 1.1.FC Union Berlin            36 21 10  5  62-23  73  Promoted
- 2.SV Babelsberg 03             36 19 11  6  57-41  68  Promoted
-------------------------------------------------------
- 3.VfB Lübeck                   36 18  8 10  69-43  62
- 4.Fortuna Köln                 36 18  8 10  58-42  62
- 5.Preußen Münster              36 17 10  9  66-50  61
- 6.SC Verl                      36 15 10 11  53-46  55
- 7.Erzgebirge Aue               36 16  6 14  39-48  54
- 8.Eintracht Braunschweig       36 13 10 13  55-43  49
- 9.Dresdner SC                  36 13 10 13  38-41  49
-10.SV Wilhelmshaven             36 12 12 12  55-55  48
-11.SG Wattenscheid 09           36 12 12 12  65-66  48
-12.KFC Uerdingen 05             36 14  6 16  50-62  48
-13.Rot-Weiß Essen               36 13  8 15  45-54  47
-14.Sachsen Leipzig              36 11 12 13  42-43  45
-------------------------------------------------------
-15.Werder Bremen Amateure       36 12  9 15  49-53  45  Relegated
-16.Fortuna Düsseldorf           36 13  3 20  46-52  42  Relegated
-17.Lüneburger SK                36  9  6 21  52-73  33  Relegated
-18.Borussia Dortmund Amateure   36  6 12 18  36-55  30  Relegated
-19.Tennis Borussia Berlin       36  6  5 25  33-80  23  Relegated
-
-Regionalliga Süd
-
- 1.Karlsruher SC                34 17 10  7  48-25  61  Promoted
- 2.VfB Stuttgart Amateure       34 16 10  8  57-38  58  [ineligible for promotion]
-------------------------------------------------------
- 3.1.FC Schweinfurt 05          34 16  9  9  57-43  57  Promoted
- 4.Eintracht Trier              34 16  9  9  48-34  57
- 5.SV Darmstadt 98              34 15  8 11  46-39  53
- 6.Sportfreunde Siegen          34 14  8 12  45-45  50
- 7.VfR Aalen                    34 12 13  9  45-37  49
- 8.VfR Mannheim                 34 12  9 13  50-45  45
- 9.Bayern München Amateure      34 12  8 14  52-55  44
-10.Kickers Offenbach            34 11 11 12  39-43  44
-11.SV Wehen                     34 12  8 14  41-49  44
-12.Jahn Regensburg              34 12  7 15  57-62  43
-13.Wacker Burghausen            34 10 13 11  46-52  43
-14.SV 07 Elversberg             34 11 10 13  40-58  43
-------------------------------------------------------
-15.Rot-Weiß Erfurt              34 10  9 15  40-47  39  Relegated
-16.TSV München 1860 Amateure    34  8 13 13  49-63  37  Relegated
-17.SC Pfullendorf               34  9  9 16  42-49  36  Relegated
-18.Carl Zeiss Jena              34  7  8 19  39-57  29  Relegated
-
-NB: the following teams have been refused a license for 2001/02:
-    SSV Ulm (relegated from 2nd Bundesliga)
-    Sachsen Leipzig (RL Nord)
-    SV Wilhelmshaven (RL Nord)
-
-Their places are taken, respectively, by:
-    Rot-Weiß Erfurt
-    SV Werder Bremen Amateure    
-    Fortuna Düsseldorf
-
-
-Promoted teams from Oberliga's:
-
-SC Göttingen 05              (Niedersachsen/Bremen) 
-  [after playoff against
-   Holstein Kiel             (Hamburg/Schleswig-Holstein);
-   SC Göttingen did however not obtain a license, and their place
-   is taken by Holstein Kiel]
-Bayer Leverkusen Amateure    (Nordrhein) 
-SC Paderborn 07              (Westfalen)
-Berliner FC Dynamo           (NOFV Nord)
-1.FC Magdeburg               (NOFV Süd)
-1.FC Kaiserslautern Amateure (Südwest)
-Borussia Fulda               (Hessen)
-TSG Hoffenheim               (Baden-Württemberg)
-SpVgg Ansbach                (Bayern)
-
-
-
-
-1999/00
-
-
-2000/01 (4th level)
-
-
-2001/02
-
-
-list of champions
-
-
-all-time table
-
-
-list of 2nd level champions
-
-
-list of amateur champions
-
-
-oberliga berlin 1945-1963
-
-
-oberliga nord 1945-1963
-
-
-oberliga süd 1945-1963
-
-
-oberliga südwest 1945-1963
-
-
-oberliga südwest süd 1945-1950
-
-
-oberliga west 1945-1963
-
-
-regionalliga nord 63-74
-
-
-regionalliga süd 63-74
-
-
-regionalliga west 63-74
-
-
-list of cup finals
-
-
-list of super and league cup finals
-
-
-list of topscorers
-
-
-list of 2nd level topscorers
-
-
-list of foundation dates
-
-
-About this document
-
-Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Karel Stokkermans (karel@rsssf.com) 
-Last updated: 21 Feb 2002
-
-(C) Copyright Karel Stokkermans and RSSSF 2000/02
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+* 1.FC Bayern München            34 19  6  9  62-37  63  Champions
+* 2.FC Schalke 04                34 18  8  8  65-35  62  Champions' League
+* 3.BV 09 Borussia Dortmund      34 16 10  8  62-42  58  CL Qualifying
+* 4.Bayer 04 Leverkusen          34 17  6 11  54-40  57  CL Qualifying
+* 5.Hertha BSC                   34 18  2 14  58-52  56  UEFA Cup
+* 6.SC Freiburg                  34 15 10  9  54-37  55  UEFA Cup
+* 7.SV Werder Bremen             34 15  8 11  53-48  53  Intertoto
+* 8.1.FC Kaiserslautern          34 15  5 14  49-54  50
+* 9.VfL Wolfsburg                34 12 11 11  60-45  47  Intertoto
+*10.1.FC Köln                    34 12 10 12  59-52  46
+*11.TSV 1860 München             34 12  8 14  43-55  44  Intertoto
+*12.FC Hansa Rostock             34 12  7 15  34-47  43
+*13.Hamburger SV                 34 10 11 13  58-58  41
+*14.FC Energie Cottbus           34 12  3 19  38-52  39
+*15.VfB Stuttgart                34  9 11 14  42-49  38
+*------------------------------------------------------
+*16.SpVgg Unterhaching           34  8 11 15  35-59  35  Relegated
+*17.SG Eintracht Frankfurt       34 10  5 19  41-68  35  Relegated
+*18.VfL Bochum                   34  7  6 21  30-67  27  Relegated
+
+
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans (karel@rsssf.com) 
+*Last updated: 21 Feb 2002
+*(C) Copyright Karel Stokkermans and RSSSF 2000/02
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

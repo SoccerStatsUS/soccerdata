@@ -37,8 +37,7 @@ Round: 1
 Date: 7/31/2009
 
 ; Standard     ; 2-2; Sint-Truiden
-  De Camargo 37, 55; Chimedza 23, Euvrard 72
-
+  De Camargo 37, De Camargo 55; Chimedza 23, Euvrard 72
 
 Date: 8/1/2009
 
@@ -46,16 +45,17 @@ Date: 8/1/2009
   Smajic 8; Meert 82
 
 ; KV Mechelen  ; 4-1; Westerlo
-  Nong 15, Destorme 27, 71, Gorius 65pen; Tomou 84
+  Nong 15, Destorme 27, Destorme 71, Gorius (pk) 65; Tomou 84
 
-; Genk         ; 1-2; Mouscron      [annulled]
-  Carlos 90; Jaycee 3, 76
+; Genk         ; 1-2; Mouscron      
+  Carlos 90; Jaycee 3, Jaycee 76
+*[annulled]
 
 ; Roeselare    ; 1-1; G. Beerschot
   Dissa 81; Cruz 90+2
 
 ; Kortrijk     ; 0-2; Anderlecht
-  Boussoufa 7, Wasilewski 70
+;  Boussoufa 7, Wasilewski 70
 
 Date: 8/2/2009
 
@@ -75,12 +75,12 @@ Date: 8/7/2009
 Date: 8/8/2009
 
 ; Anderlecht   ; 3-2; Cercle Brugge 
-  Suarez 12, Boi 42og, Boussoufa 63; Portier 27, Buffel 73
+  Suarez 12, Boi (og) 42, Boussoufa 63; Portier 27, Buffel 73
 
 ;; Sint-Truiden;  0-0 SC Charleroi
 
 ;; Zulte-Waregem; 2-2 Genk
-  D'Haene 20, Chevalier 50; Tözser 11, 77pen
+  D'Haene 20, Chevalier 50; Tözser 11, Tozser (pk) 77
 
 ; Mouscron     ; 0-0; Roeselare     
 *[annulled]
@@ -92,23 +92,22 @@ Date: 8/8/2009
 Date: 8/9/2009
 
 ; Gent         ; 2-1; KV Mechelen
-  Azofeifa 62, 76; Destorme 56
+  Azofeifa 62, Azofeifa 76; Destorme 56
 
 ; Club Brugge  ; 2-0; Lokeren
-  Geraerts 89, Chavez 90+2
+  Geraerts 89, Chavez 90+2;
 
 Round: 3
 Date: 8/15/2009
 
 ; Anderlecht   ; 3-0; Westerlo
-  Van Damme 28, Suarez 45, Boussoufa 73
+  Van Damme 28, Suarez 45, Boussoufa 73;
 
 ; KV Mechelen  ; 2-1; Club Brugge   
-  Ivens 42, Gorius 53pen; Akpala 48
+  Ivens 42, Gorius (pk) 53; Akpala 48
 
 ; Roeselare    ; 1-5; Standard
-  El Gaaouiri 21; Jovanovic 20pen, 49, 64, Carcela-Gonzalez 29, 
-   Mbokani 40
+  El Gaaouiri 21; Jovanovic (pk) 20, Jovanovic 49, Jovanovic 64, Carcela-Gonzalez 29, Mbokani 40
 
 ; Lokeren      ; 1-2; Sint-Truiden
   Mbayo 63; Sidibe 49, Chimedza 88
@@ -117,15 +116,15 @@ Date: 8/15/2009
   Koita 7; Ljubijankic 53
 
 ; Cercle Brugge; 2-2; Zulte-Waregem
-  Iachtchouk 72pen, Foley 90+1; Chevalier 5, Berrier 62
+  Iachtchouk (pk) 72, Foley 90+1; Chevalier 5, Berrier 62
 
 Date: 8/16/2009
 
 ; Kortrijk     ; 2-2; Mouscron      [annulled]
-  Benko 70pen, Belhocine 72; Jaycee 47, 89
+  Benko (pk) 70, Belhocine 72; Jaycee 47, Jaycee 89
 
 ; SC Charleroi ; 1-0; G. Beerschot
-  Théréau 90+3
+  Théréau 90+3;
 
 Round: 4
 Date: 8/21/2009
@@ -186,7 +185,8 @@ Date: 9/18/2009
 
 Date: 9/19/2009
 
-;; Zulte-Waregem; 3-1 Mouscron      [annulled]
+;; Zulte-Waregem; 3-1 Mouscron      
+*[annulled]
 ; Cercle Brugge; 1-2; G. Beerschot
 ; Lokeren      ; 1-3; Standard
 ; KV Mechelen  ; 3-2; Roeselare     
@@ -213,7 +213,8 @@ Date: 9/23/2009
 
 Date: 9/24/2009
 
-; Mouscron     ; 1-2; Anderlecht    [annulled]
+; Mouscron     ; 1-2; Anderlecht    
+*[annulled]
 
 Round: 9
 Date: 9/26/2009
@@ -227,7 +228,8 @@ Date: 9/26/2009
 Date: 9/27/2009
 
 ; Anderlecht   ; 1-0; G. Beerschot  
-; Mouscron     ; 1-1; Club Brugge   [annulled]   
+; Mouscron     ; 1-1; Club Brugge   
+*[annulled]   
 
 Date: 9/28/2009
 
@@ -236,7 +238,8 @@ Date: 9/28/2009
 Round: 10
 Date: 10/2/2009
 
-; Gent         ; 1-1; Mouscron      [annulled]      
+; Gent         ; 1-1; Mouscron      
+*[annulled]      
 
 Date: 10/3/2009
 
@@ -255,7 +258,8 @@ Round: 11
 Date: 10/17/2009
 
 ;; Zulte-Waregem; 4-0 G. Beerschot  
-; Mouscron     ; 2-1; Sint-Truiden  [annulled]  
+; Mouscron     ; 2-1; Sint-Truiden  
+*[annulled]  
 ; Anderlecht   ; 2-0; SC Charleroi  
 ; Westerlo     ; 2-0; Standard      
 ; Lokeren      ; 1-1; Cercle Brugge 
@@ -277,7 +281,8 @@ Date: 10/24/2009
 ;; Sint-Truiden;  1-2 Gent          
 ; Cercle Brugge; 1-1; Kortrijk      
 ; SC Charleroi ; 1-1; Westerlo      
-; G. Beerschot ; 3-2; Mouscron      [annulled]            
+; G. Beerschot ; 3-2; Mouscron      
+*[annulled]            
 
 Date: 10/25/2009
 
@@ -287,7 +292,8 @@ Date: 10/25/2009
 Round: 13
 Date: 10/30/2009
 
-; Mouscron     ; 0-0; Standard      [annulled]            
+; Mouscron     ; 0-0; Standard      
+*[annulled]            
 
 Date: 10/31/2009
 
@@ -315,7 +321,8 @@ Date: 11/7/2009
 ; Lokeren      ; 0-0; Kortrijk      
 ; Cercle Brugge; 2-1; Westerlo      
 ; Roeselare    ; 2-0; Zulte-Waregem 
-; KV Mechelen  ; 0-1; Mouscron      [annulled]                
+; KV Mechelen  ; 0-1; Mouscron      
+*[annulled]                
 ; G. Beerschot ; 4-1; Sint-Truiden  
 
 Date: 11/8/2009
@@ -330,7 +337,8 @@ Date: 11/21/2009
 ; Westerlo     ; 1-0; Lokeren       
 ;; Sint-Truiden;  1-1 Cercle Brugge 
 ; Anderlecht   ; 3-1; Roeselare     
-; Mouscron     ; 4-1; SC Charleroi  [annulled]        
+; Mouscron     ; 4-1; SC Charleroi  
+*[annulled]        
 ; Club Brugge  ; 1-2; G. Beerschot  
 
 Date: 11/22/2009
@@ -348,7 +356,8 @@ Date: 11/28/2009
 ; Club Brugge  ; 1-0; SC Charleroi  
 ; Gent         ; 3-1; Cercle Brugge 
 ; G. Beerschot ; 3-0; Roeselare     
-; Mouscron     ; 2-0; Genk          [annulled]
+; Mouscron     ; 2-0; Genk          
+*[annulled]
 ; Westerlo     ; 2-0; KV Mechelen   
 
 Date: 11/29/2009
@@ -367,7 +376,8 @@ Date: 12/5/2009
 ; Standard     ; 2-2; G. Beerschot  
 ; Kortrijk     ; 1-0; Zulte-Waregem
 ; Genk         ; 0-0; Westerlo
-; Roeselare    ; 1-2; Mouscron      [annulled]
+; Roeselare    ; 1-2; Mouscron      
+*[annulled]
 
 Date: 12/6/2009
 
@@ -382,7 +392,8 @@ Date: 12/11/2009
 Date: 12/12/2009
 
 ; Standard     ; 0-1; Roeselare
-; Mouscron     ; 0-5; Lokeren       [annulled]
+; Mouscron     ; 0-5; Lokeren       
+*[annulled]
 ;; Sint-Truiden;  0-2 Kortrijk
 ; Club Brugge  ; 1-1; KV Mechelen
 ; G. Beerschot ; 0-0; SC Charleroi

@@ -54,7 +54,7 @@ Date: 8/25/2007
 
 ; Willem II      ; 2-2; Sparta
 ; PSV            ; 5-0; NEC
-;; VVV-Venlo;       3-1 Excelsior
+; VVV-Venlo;       3-1; Excelsior
 ; Vitesse        ; 1-0; AZ
 
 Date: 8/26/2007
@@ -78,7 +78,7 @@ Date: 9/1/2007
 
 Date: 9/2/2007
 
-;; VVV-Venlo;       3-5 Roda JC
+; VVV-Venlo;       3-5; Roda JC
 ; Vitesse        ; 1-0; NEC
 ; Utrecht        ; 2-2; De Graafschap
 ; Ajax           ; 2-2; Groningen
@@ -105,7 +105,7 @@ Date: 9/16/2007
 Round: 5
 Date: 9/21/2007
 
-;; VVV-Venlo;       1-3 NAC Breda      
+; VVV-Venlo;       1-3; NAC Breda      
 
 Date: 9/22/2007
 
@@ -140,7 +140,7 @@ Date: 9/30/2007
 Round: 7
 Date: 10/5/2007
 
-;; VVV-Venlo;       1-2 Utrecht         
+; VVV-Venlo;       1-2; Utrecht         
 
 Date: 10/6/2007
 
@@ -183,7 +183,7 @@ Date: 10/26/2007
 Date: 10/27/2007
 
 ; Roda JC        ; 1-0; De Graafschap  
-;; VVV-Venlo;       0-4 Heerenveen      
+; VVV-Venlo;       0-4; Heerenveen      
 ; Excelsior      ; 1-1; Heracles       
 ; Twente         ; 2-0; Feyenoord      
 
@@ -220,7 +220,7 @@ Date: 11/9/2007
 
 Date: 11/10/2007
 
-;; VVV-Venlo;       2-0 Sparta
+; VVV-Venlo;       2-0; Sparta
 ; Willem II      ; 1-4; Utrecht   
 ; De Graafschap  ; 1-1; Excelsior   
 ; Twente         ; 1-1; NAC Breda   
@@ -284,7 +284,7 @@ Date: 12/8/2007
 
 Date: 12/9/2007
 
-;; VVV-Venlo;       0-0 Feyenoord   
+; VVV-Venlo;       0-0; Feyenoord   
 ; AZ             ; 2-1; Utrecht   
 ; Heerenveen     ; 4-2; Groningen   
 ; Sparta         ; 1-0; NEC 
@@ -324,7 +324,7 @@ Date: 12/22/2007
 
 Date: 12/23/2007
 
-;; VVV-Venlo;       2-0 Vitesse
+; VVV-Venlo;       2-0; Vitesse
 ; NEC            ; 0-2; Feyenoord
 ; Excelsior      ; 2-1; Ajax
 ; AZ             ; 1-1; Roda JC
@@ -359,7 +359,7 @@ Date: 12/29/2007
 
 Date: 12/30/2007
 
-;; VVV-Venlo;       2-2 Ajax
+; VVV-Venlo;       2-2; Ajax
 ; Willem II      ; 3-0; NEC
 ; Vitesse        ; 2-2; Utrecht
 ; Twente         ; 2-0; De Graafschap
@@ -401,7 +401,7 @@ Date: 1/19/2008
 
 Date: 1/20/2008
 
-;; VVV-Venlo;       1-1 PSV
+; VVV-Venlo;       1-1; PSV
 ; NEC            ; 1-1; Ajax
 ; Twente         ; 3-1; Groningen
 ; Sparta         ; 6-1; De Graafschap
@@ -438,7 +438,7 @@ Date: 1/26/2008
 
 Date: 1/27/2008
 
-;; VVV-Venlo;       0-5 Heracles
+; VVV-Venlo;       0-5; Heracles
 ; Vitesse        ; 2-2; Ajax
 ; NEC            ; 2-0; Utrecht
 ; Twente         ; 1-2; Sparta
@@ -477,7 +477,7 @@ Date: 2/9/2007
 
 Date: 2/10/2007
 
-;; VVV-Venlo;       1-1 Willem II
+; VVV-Venlo;       1-1; Willem II
 ; Roda JC        ; 2-1; Ajax
 ; Sparta         ; 0-1; Excelsior
 ; NEC            ; 5-2; AZ
@@ -515,7 +515,7 @@ Date: 2/23/2007
 
 Date: 2/24/2007
 
-;; VVV-Venlo;       2-5 Groningen
+; VVV-Venlo;       2-5; Groningen
 ; NAC            ; 2-3; Ajax
 ; PSV            ; 4-1; De Graafschap 
 ; Heerenveen     ; 2-3; NEC
@@ -557,7 +557,7 @@ Date: 3/9/2007
 
 Date: 3/11/2007
 
-;; VVV-Venlo;       0-2 Twente      
+; VVV-Venlo;       0-2; Twente      
 
 Date: 3/12/2007
 
@@ -600,7 +600,7 @@ Date: 3/22/2007
 
 Date: 3/23/2007
 
-;; VVV-Venlo;       1-2 NEC
+; VVV-Venlo;       1-2; NEC
 ; Willem II      ; 2-1; Heracles        
 ; Twente         ; 2-1; Ajax
 ; Sparta         ; 3-2; Feyenoord
@@ -637,7 +637,7 @@ Date: 4/5/2007
 
 Date: 4/6/2007
 
-;; VVV-Venlo;       2-3 AZ
+; VVV-Venlo;       2-3; AZ
 ; Groningen      ; 1-2; NAC
 ; Feyenoord      ; 3-1; Utrecht
 ; Ajax           ; 4-1; De Graafschap 
@@ -670,7 +670,7 @@ Date: 4/20/2007
 ; Utrecht        ; 1-0; Groningen
 ; Vitesse        ; 0-1; PSV
 ; AZ             ; 1-0; Sparta
-;; VVV-Venlo;       3-0 De Graafschap
+; VVV-Venlo;       3-0; De Graafschap
 
 * 1.PSV (Eindhoven)              34 21  9  4  65-24  72  Champions
 * - - - - - - - - - - - - - - - - - - - - - - - - - - -

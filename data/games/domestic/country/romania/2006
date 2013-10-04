@@ -1,41 +1,36 @@
 BlockSource: http://rsssf.com/tablesr/roem07.html
+Season: 2006-2007
+Competition: Liga I
 
-Romania 2006/07
+* 1.FC Dinamo Bucureşti          34 23  8  3  63-24 77  Champions
+* 2.FC Steaua Bucureşti          34 21  8  5  61-22 71
+* 3.CFR 1907 Cluj                34 21  6  7  59-32 69
+* 4.AFC Rapid Bucureşti          34 16 11  7  63-39 59
+* 5.Oţelul Galaţi                34 17  5 12  60-56 56
+* 6.Gloria Bistriţa              34 16  6 12  42-35 54
+* 7.FCU Politehnica Timişoara    34 15  8 11  37-33 53
+* 8.FC Vaslui                    34 13 11 10  41-44 50
+* 9.Universitatea Craiova        34 12 12 10  39-43 48
+*10.Unirea Valahorum Urziceni    34 13  8 13  30-29 47
+*11.Pandurii Lignitul Târgu Jiu  34 13  5 16  26-35 44
+*12.FCM UTA Arad                 34 11  8 15  28-39 41  [*]
+*13.Politehnica Iaşi             34 10 10 14  34-41 40
+*14.FC Farul Constanţa           34  8 13 13  31-35 37
+*-----------------------------------------------------
+*15.Ceahlăul Piatra Neamţ        34  8  7 19  27-53 31  Relegated
+*16.FC Naţional Bucureşti        34  6  6 22  27-52 24  [2 1 0 1 3-2 3]  Relegated
+*17.FC Argeş Piteşti             34  5  9 20  23-47 24  [2 1 0 1 2-3 3]  Relegated
+*18.Jiul Petroşani               34  5  5 24  15-47 20  Relegated
+*[*] newly promoted CF Liberty Salonta sold their place to UTA Arad
 
-Liga 1
+*NB: Sportul Studenţesc Bucureşti were excluded for debts to 
+*    the state of 300,000 Euro; due to this, Pandurii remained 
+*    at the first level; Sportul have filed a complaint at the CAS 
+*    in Lausanne, who rejected their application, apparently based on 
+*    regulations by FRF which were installed after Sportul filed their 
+*    complaint.
 
-Final Table:
-
- 1.FC Dinamo Bucureşti          34 23  8  3  63-24 77  Champions
- 2.FC Steaua Bucureşti          34 21  8  5  61-22 71
- 3.CFR 1907 Cluj                34 21  6  7  59-32 69
- 4.AFC Rapid Bucureşti          34 16 11  7  63-39 59
- 5.Oţelul Galaţi                34 17  5 12  60-56 56
- 6.Gloria Bistriţa              34 16  6 12  42-35 54
- 7.FCU Politehnica Timişoara    34 15  8 11  37-33 53
- 8.FC Vaslui                    34 13 11 10  41-44 50
- 9.Universitatea Craiova        34 12 12 10  39-43 48
-10.Unirea Valahorum Urziceni    34 13  8 13  30-29 47
-11.Pandurii Lignitul Târgu Jiu  34 13  5 16  26-35 44
-12.FCM UTA Arad                 34 11  8 15  28-39 41  [*]
-13.Politehnica Iaşi             34 10 10 14  34-41 40
-14.FC Farul Constanţa           34  8 13 13  31-35 37
------------------------------------------------------
-15.Ceahlăul Piatra Neamţ        34  8  7 19  27-53 31  Relegated
-16.FC Naţional Bucureşti        34  6  6 22  27-52 24  [2 1 0 1 3-2 3]  Relegated
-17.FC Argeş Piteşti             34  5  9 20  23-47 24  [2 1 0 1 2-3 3]  Relegated
-18.Jiul Petroşani               34  5  5 24  15-47 20  Relegated
-
-[*] newly promoted CF Liberty Salonta sold their place to UTA Arad
-
-NB: Sportul Studenţesc Bucureşti were excluded for debts to 
-    the state of 300,000 Euro; due to this, Pandurii remained 
-    at the first level; Sportul have filed a complaint at the CAS 
-    in Lausanne, who rejected their application, apparently based on 
-    regulations by FRF which were installed after Sportul filed their 
-    complaint.
-
-Round 1
+Round: 1
 [Jul 28]
 UTA            1-1 Farul
   [Valentin Simion 81; Iulian Apostol 48pen]
@@ -56,7 +51,7 @@ Jiul           0-1 Argeş               [in Alba-Iulia]
 Naţional       1-2 Dinamo
   [Mihai Panc 74pen; Adrian Cristea 16, Cătălin Munteanu 23]
 
-Round 2
+Round: 2
 [Aug 4]
 Gloria         2-0 Naţional 
   [Adrian Nalaţi 30pen, Dorel Zaharia 75]
@@ -80,7 +75,7 @@ CFR Cluj       4-0 Unirea
 Dinamo         1-0 Pandurii
   [Claudiu Niculescu 59]
 
-Round 3
+Round: 3
 [Aug 11]
 Unirea         1-0 Oţelul 
   [Bogdan Aldea 67]
@@ -105,7 +100,7 @@ Jiul           0-1 Dinamo
   [Ionel Dănciulescu 32]
 Poli Timişoara 0-0 Rapid
 
-Round 4
+Round: 4
 [Aug 18]
 Gloria         0-0 Jiul
 Farul          0-1 Unirea
@@ -128,7 +123,7 @@ Dinamo         3-1 Poli Timişoara
   [Claudiu Niculescu 42, Ionel Ganea 62, Ionel Dănciulescu 65;
    Andrei Cristea 12]
 
-Round 5
+Round: 5
 [Aug 25]
 Ceahlăul       2-1 Unirea
   [Angelo Alistar 10, Mircea Ilie 69pen; Alex Leandro 4]
@@ -152,7 +147,7 @@ Naţional       1-3 Oţelul
 Universitatea  0-4 Dinamo
   [Ionel Ganea 34, 65, 70, 83]
 
-Round 6
+Round: 6
 [Sep 8]
 Farul          0-1 Ceahlăul 
   [Radu Doicaru 70]
@@ -175,7 +170,7 @@ Unirea         2-0 Naţional
 Dinamo         2-0 UTA 
   [Ionel Danciulescu 65, 88]
 
-Round 7
+Round: 7
 [Sep 15]
 UTA            0-1 Gloria
   [Gabriel Muresan 18]
@@ -200,7 +195,7 @@ Steaua         1-1 Rapid
 Naţional       2-0 Ceahlăul 
   [Roberto Iancu 78, Claudiu Dragan 90]
 
-Round 8
+Round: 8
 [Sep 19]
 Poli Iaşi      1-0 UTA
   [Martin Šarić]
@@ -224,7 +219,7 @@ Farul          1-1 Naţional
 Rapid          2-1 Argeş 
   [Viorel Moldovan 3, Valentin Bădoi 35; Ciprian Tănasă 18]
 
-Round 9
+Round: 9
 [Sep 23]
 UTA            1-0 CFR Cluj
   [Cristian Dănălache 74]
@@ -247,7 +242,7 @@ Rapid          3-2 Farul
   [Ianis Zicu 45, Artavazd Karamian 62, Ionuţ Săpunaru 76;
    Mihai Guriţă 25, Tibor Moldovan 61]
 
-Round 10
+Round: 10
 [Sep 29]
 Oţelul         2-1 UTA
   [Emil Jula 13, Ramses Gado 66; Sabin Ilie 83]
@@ -271,7 +266,7 @@ Dinamo         3-1 Rapid
   [Ionel Ganea 60, Zé Kalanga 70, Claudiu Niculescu 78;
    Valentin Bădoi 3pen]
 
-Round 11
+Round: 11
 [Oct 12]
 Rapid          4-0 Gloria                 
 [Oct 13]
@@ -286,7 +281,7 @@ Vaslui         3-1 Oţelul
 Argeş          0-2 Poli Iaşi                     
 Poli Timişoara 1-1 Naţional        
 
-Round 12
+Round: 12
 [Oct 20]
 Unirea         1-0 Vaslui                            
 Farul          0-0 Jiul                      
@@ -300,7 +295,7 @@ Poli Iaşi      0-0 Rapid
 Oţelul         2-1 Steaua                  
 Ceahlăul       2-1 UTA                  
 
-Round 13
+Round: 13
 [Oct 27]
 Universitatea  2-2 Pandurii            [in Caracal]   
   [Michael Baird 4, Mircea Bornescu 88pen; Vojislav Vranjković 18, 92]
@@ -326,7 +321,7 @@ Poli Timişoara 1-0 Jiul
 Rapid          3-1 CFR Cluj 
   [Costin Lazăr 34, Ianis Zicu 41, Lucian Burdujan 93; Romeo Surdu 45]
     
-Round 14
+Round: 14
 [Nov 3]
 Unirea         0-0 Argeş                  
 Poli Iaşi      0-1 Gloria 
@@ -348,7 +343,7 @@ CFR Cluj       2-1 Dinamo
   [Romeo Surdu 20, 88; Radu Ştefan 22]
 Ceahlăul       0-0 Steaua                  
 
-Round 15
+Round: 15
 [Nov 11] 
 UTA            3-0 Jiul      
   [Bogdan Mara 29, Bogdan Apostu 75, Cristian Dănălache 80]
@@ -372,7 +367,7 @@ Steaua         6-0 Naţional
   [Vasilică Cristocea 28, Cyril Théréau 31, 41, 45, Mirel Rădoi 82pen,
    Stelian Stancu 93]
  
-Round 16
+Round: 16
 [Nov 17]
 Oţelul         1-1 Gloria
 Naţional       0-2 Argeş 
@@ -386,7 +381,7 @@ Poli Timişoara 2-0 UTA
 Jiul           1-3 Vaslui
 Ceahlăul       0-3 Rapid
 
-Round 17
+Round: 17
 [Nov 24]
 Gloria         0-0 Unirea
 Poli Iaşi      1-1 Oţelul 
@@ -407,7 +402,7 @@ Rapid          2-1 Naţional
 Steaua         3-0 Jiul
   [Valentin Badea 24, Cyril Théréau 62, 88]
 
-Round 18
+Round: 18
 [Dec 1]
 Gloria         2-1 Ceahlăul
 Poli Iaşi      1-3 Unirea
@@ -422,7 +417,7 @@ Rapid          1-1 Pandurii
 [Dec 4]
 Dinamo         1-0 Naţional  
 
-Round 19
+Round: 19
 [Dec 8]
 UTA            0-1 Vaslui
 Ceahlăul       0-4 Poli Iaşi 
@@ -436,7 +431,7 @@ Unirea         0-0 CFR Cluj
 Pandurii       0-3 Dinamo
 Universitatea  0-0 Steaua
 
-Round 20
+Round: 20
 [Feb 23]
 Oţelul         3-2 Unirea 
 Poli Iaşi      1-1 Naţional
@@ -451,7 +446,7 @@ Rapid          2-0 Poli Timişoara      [in Craiova]
 [Feb 26]
 Dinamo         1-0 Jiul 
 
-Round 21
+Round: 21
 [Mar 2]
 Jiul           0-1 Gloria
 [Mar 3]
@@ -465,7 +460,7 @@ Pandurii       1-0 Poli Iaşi
 Vaslui         1-0 Steaua
 Poli Timişoara 1-1 Dinamo 
 
-Round 22
+Round: 22
 [Mar 9]
 Oţelul         5-2 Naţional
 Poli Iaşi      4-0 Jiul
@@ -479,7 +474,7 @@ Unirea         2-0 Ceahlăul
 Rapid          4-0 UTA 
 Dinamo         0-0 Universitatea
 
-Round 23
+Round: 23
 [Mar 16]
 Pandurii       2-1 Oţelul
 Ceahlăul       0-0 Farul 
@@ -493,7 +488,7 @@ UTA            1-1 Dinamo
 Universitatea  1-2 Gloria              [in Bucureşti, Lia Manoliu]
 Naţional       0-2 Unirea 
 
-Round 24
+Round: 24
 [Mar 30]
 Ceahlăul       1-1 Naţional
 [Mar 31]
@@ -507,7 +502,7 @@ CFR Cluj       2-1 Poli Timişoara
 Rapid          2-3 Steaua 
 Farul          1-1 Argeş 
 
-Round 25
+Round: 25
 [Apr 5]
 UTA            0-0 Poli Iaşi     
 Pandurii       1-0 Ceahlăul      
@@ -521,7 +516,7 @@ Universitatea  0-1 CFR Cluj
 Argeş          1-2 Rapid
 Steaua         2-4 Dinamo
 
-Round 26
+Round: 26
 [Apr 13]
 Unirea         2-0 Poli Timişoara
 Naţional       0-1 Pandurii      
@@ -535,7 +530,7 @@ Dinamo         2-1 Argeş
 Poli Iaşi      2-0 Vaslui
 Ceahlăul       1-0 Jiul
 
-Round 27
+Round: 27
 [Apr 20]
 Jiul           2-0 Naţional      
 [Apr 21]
@@ -549,7 +544,7 @@ Pandurii       1-0 Farul
 Poli Timişoara 2-0 Ceahlăul      
 Rapid          1-4 Dinamo
 
-Round 28
+Round: 28
 [Apr 24]
 Poli Iaşi      1-0 Argeş
 [Apr 25]
@@ -563,7 +558,7 @@ Farul          1-1 Dinamo
 CFR Cluj       1-2 Steaua
 Gloria         3-3 Rapid
 
-Round 29
+Round: 29
 [Apr 28]
 Vaslui         0-0 Unirea
 Universitatea  1-0 Naţional 
@@ -577,7 +572,7 @@ Steaua         3-0 Oţelul
 [Apr 30]
 Rapid          3-0 Poli Iaşi
 
-Round 30
+Round: 30
 [May 4]
 Pandurii       0-2 Universitatea
 [May 5]
@@ -591,7 +586,7 @@ Farul          0-0 Gloria
 Ceahlăul       3-2 Vaslui
 Naţional       1-2 UTA
 
-Round 31
+Round: 31
 [May 8]
 Universitatea  2-0 Jiul
 Dinamo         1-0 CFR Cluj
@@ -605,7 +600,7 @@ Steaua         2-0 Ceahlăul
 [May 10]
 Gloria         1-0 Poli Iaşi 
 
-Round 32
+Round: 32
 [May 12]
 Oţelul         2-1 Dinamo
 Pandurii       1-2 Vaslui
@@ -619,7 +614,7 @@ Poli Iaşi      0-2 Farul
 [May 14]
 CFR Cluj       2-1 Gloria
 
-Round 33
+Round: 33
 [May 18]
 UTA            2-1 Poli Timişoara 
 Gloria         1-2 Oţelul   
@@ -633,7 +628,7 @@ Steaua         1-0 Pandurii
 [May 20]
 Farul          0-0 Universitatea
 
-Round 34 [May 23]
+Round: 34 [May 23]
 Oţelul         3-1 Poli Iaşi
 Universitatea  2-1 UTA
 Unirea         0-1 Gloria
@@ -679,7 +674,7 @@ NB: Sportul Studenţesc Bucureşti were excluded for debts to
 Cup 2006/07
 
 
-Round 3
+Round: 3
 152 teams from Liga 3 and lower.
 Single elimination game. Home team is in a lower or same division as visitors.
 [Aug 15]
@@ -760,8 +755,8 @@ Oaşul Negreşti - Someşul 2002 Satu Mare 3-4 aet
 Florenţa Still Odoreu - Olimpia Satu Mare 3-1
 CS Fink Fenster Petreşti - Victoria Carei 2-1 aet
 
-Round 4
-112 teams: 76 winners of Round 3 and the 36 teams from Liga 2.
+Round: 4
+112 teams: 76 winners of Round: 3 and the 36 teams from Liga 2.
 Single elimination game. Home team is in a lower or same division as visitors.
 [Aug 29]
 Politehnica II Iaşi - FC Botoşani 1-1 aet, 6-5pk
@@ -874,7 +869,7 @@ Florenţa Odoreu - Someşul Satu Mare 0-3
 [Sep 5]
 AS Municipal Constanţa - FC Farul II Constanţa
 
-Round 5
+Round: 5
 [Sep 12]
 Politehnica II Iaşi   0-1 Cetatea Suceava
   [Dicher 70]
@@ -931,7 +926,7 @@ Someş Gaz Beclean     3-4 FC Baia Mare 3-4 (1-2)
 Fink Fenster Petreşti 1-6 Someşul Satu Mare 
   [Goia 70; Şuteu 17, Iuhas 39, 70, Cuciula 49, Petcuţ 82, Marinaş 89]
 
-Round 6 [Oct 3]
+Round: 6 [Oct 3]
 FCM II Bacău          1-0 Dunărea Galaţi
   [Moroşan 15]
 Cetatea Suceava       0-2 FCM Bacău  
@@ -1015,9 +1010,9 @@ Timişoara      FCU Poli Timişoara    0-2 Rapid Bucureşti
 
 
 
-Additional Details Round 7 to Final:
+Additional Details Round: 7 to Final:
 
-Round 7
+Round: 7
 [Oct 24]
 @Săcele
 Farul Constanţa - Gloria Buzău  4-1 (1-0)
@@ -1067,7 +1062,7 @@ Rapid Bucureşti - CSM Râmnicu Vâlcea  4-0 (3-0)
 Steaua Bucureşti - Forex Braşov  3-0 (0-0)
   [Opriţa 48, Lovin 73, Boştină 84]
 
-Round 8
+Round: 8
 [Nov 7]
 @Alexandria ("Municipal")
 FC Naţional - FC Caracal  3-2 (1-0,2-2) aet
@@ -1142,7 +1137,7 @@ Liga 2
 
 Seria 1
 
-Round 1 
+Round: 1 
 [Aug 11]
 Petrolul       1-0 Suceava        
   [Hadnagy 45]
@@ -1164,7 +1159,7 @@ Snagov         1-2 Dunărea Galaţi
 Tulcea         1-2 Otopeni        
   [D.Petre 81pen; Cristean 49, Petrea 65]
 
-Round 2 [Aug 19]
+Round: 2 [Aug 19]
 Bacău          0-0 Petrolul
 Forex          2-1 FC Braşov         
   [Coman 72, 87; I.Gheorghe 40]
@@ -1182,7 +1177,7 @@ Dunărea Galaţi 1-3 Modelu
 Sportul Stud.  4-1 Brazi          
   [Oae 24, Curelea 44, Ferfelea 45+1, Varga 88; Patriche 66 og]
 
-Round 3 [Aug 23]
+Round: 3 [Aug 23]
 FC Braşov      1-0 Câmpina
   [Vidojevic 76]
 Petrolul       2-3 Botoşani       
@@ -1202,7 +1197,7 @@ Snagov         1-2 Bacău
 Tulcea         3-1 Dunărea Galaţi 
   [Grigorov 63, Ciobanu 75, Pantelie 90+1; Milea 88]
 
-Round 4 [Aug 26]
+Round: 4 [Aug 26]
 Bacău          1-0 Modelu         
   [Verdeş 14]
 Forex          3-0 Petrolul
@@ -1220,7 +1215,7 @@ Dunărea Galaţi 0-1 Săcele
 Sportul Stud.  2-1 FC Braşov
   [S.Stancu 46, Gheorghe 77; I.Gheorghe 85pen]
 
-Round 5 
+Round: 5 
 [Sep 2]
 Braşov         2-2 Giurgiu
   [Dedu 9, Adam 39pen; Lăscărache 24, Petrache 90+1]
@@ -1239,7 +1234,7 @@ Tulcea         2-1 Bacău
 [Sep 20]
 Buzău          6-0 Sportul Stud.
 
-Round 6 
+Round: 6 
 [Sep 8]
 Bacău          0-0 Săcele
 [Sep 9]
@@ -1260,7 +1255,7 @@ Sportul Stud.  2-0 Petrolul
 Brazi          1-2 Braşov
   [Dinu 17; Turcu 21, V.Gheorghe 83]
 
-Round 7 [Sep 16]
+Round: 7 [Sep 16]
 Braşov         4-0 Brăila
   [Turcu 5, 68, Gheorghe 60pen, 71]
 Petrolul       2-0 Giurgiu
@@ -1278,7 +1273,7 @@ Snagov         1-1 Sportul Stud.
 Tulcea         3-1 Forex
   [L.Ştefan 2, Câju 12, Nanu 63; Marton 36]
 
-Round 8 
+Round: 8 
 [Sep 22]
 Bacău          0-0 Suceava
 [Sep 23]
@@ -1298,7 +1293,7 @@ Sportul Stud.  0-5 Modelu
 Brazi          1-2 Petrolul
   [Dinu 80; Hadnagy 59, Sagna 62]
 
-Round 9 
+Round: 9 
 [Sep 30]
 Bacău          1-0 Otopeni
 Petrolul       1-0 Brăila
@@ -1318,7 +1313,7 @@ Tulcea         2-0 Sportul Stud.
 [Oct 11]
 Modelu         2-1 Giurgiu
 
-Round 10 
+Round: 10 
 [Oct 7]
 Forex          0-0 Suceava
 Braşov         1-2 Petrolul
@@ -1336,7 +1331,7 @@ Brazi          0-2 Modelu
 [Oct 18]
 Giurgiu        3-3 Tulcea
 
-Round 11 [Oct 13]
+Round: 11 [Oct 13]
 Bacău          1-0 Forex
   [S.Trofin 64]
 Petrolul       3-1 Buzău
@@ -1356,7 +1351,7 @@ Snagov         1-1 Braşov
 Tulcea         2-0 Brazi
   [E.Nanu 14, 85]
 
-Round 12 [Oct 21]
+Round: 12 [Oct 21]
 Forex          4-0 Botoşani
   [Onciu 41, 66, Manea 44, Marton 90]
 Braşov         0-0 Modelu
@@ -1375,7 +1370,7 @@ Sportul Stud.  1-0 Suceava
 Brazi          4-1 Săcele
   [V.Dinu 6, C.Nica 38, M.Dan 40. M.Oprea 67; Foca 24]
 
-Round 13 
+Round: 13 
 [Oct 27]
 Bacău          1-0 Sportul Stud.
   [Tănase 59]
@@ -1396,7 +1391,7 @@ Snagov         2-1 Petrolul
   [Rădulescu 48, Florea 80; Sagna 72]
 Tulcea         0-0 Braşov
 
-Round 14 
+Round: 14 
 [Nov 3]
 Petrolul       3-2 Modelu
 [Nov 4]
@@ -1416,7 +1411,7 @@ Brazi          2-1 Suceava
 Snagov         0-2 Otopeni
   [Dicu 70pen, 80]
 
-Round 15 
+Round: 15 
 [Nov 10]
 Bacău          1-0 Brazi
   [Tănase 7]
@@ -1437,7 +1432,7 @@ Modelu         3-0 Snagov
 Tulcea         3-3 Petrolul
   [D.Petre 46, Grigorov 60, E.Nanu 72; Sagna 24, L.Marinescu 47, Zahiu 83]
 
-Round 16 
+Round: 16 
 [Nov 17]
 Petrolul       3-0 Săcele
   [Sagna 45, Hadnagy 73, Puchea 82]
@@ -1459,7 +1454,7 @@ Brazi          2-0 Botoşani
 Snagov         2-2 Tulcea
   [M.Ilie 37, Bogdanovic 57; E.Nanu 67, Ciobanu 90+5]
 
-Round 17 [Nov 24]
+Round: 17 [Nov 24]
 Bacău          1-2 Braşov
   [Spiridon 92; Şandor 44, V.Gheorghe 64pen]
 [Nov 25]
@@ -1478,7 +1473,7 @@ Dunărea Galaţi 1-1 Petrolul
 Tulcea         2-0 Modelu
   [Câju 16, E.Nanu 41]
 
-Round 18 [Mar 3]
+Round: 18 [Mar 3]
 Bacău          0-1 Buzău
   [Cl.Ionescu 19]
 Forex          1-0 Brăila
@@ -1497,7 +1492,7 @@ Dunărea Galaţi 0-0 Snagov
 Sportul Stud.  1-0 Giurgiu
   [Varga 69]
 
-Round 19 [Mar 10]
+Round: 19 [Mar 10]
 Braşov         0-0 Forex
 Petrolul       1-1 Bacău
   [Bozga 90; Verdeş 75]
@@ -1515,7 +1510,7 @@ Snagov         1-0 Suceava
 Tulcea         1-3 Săcele
   [L.Ştefan 35; Lupaşcu 49, 77, Petrescu 69]
 
-Round 20 [Mar 17]
+Round: 20 [Mar 17]
 Bacău          4-1 Snagov
   [Tănasă 9, Dobârceanu 36, Verdeş 31, Cojocaru 62; Bucuroaia 14]
 Forex          0-0 Buzău
@@ -1533,7 +1528,7 @@ Dunărea Galaţi 1-0 Tulcea
 Sportul Stud.  1-1 Brăila
   [Varga 78; Berceanu 61]
 
-Round 21 [Mar 24]
+Round: 21 [Mar 24]
 FC Braşov      1-1 Sportul Stud.
   [Sburlea 57; Raţiu 48]
 Petrolul       2-1 Forex
@@ -1552,7 +1547,7 @@ Snagov         1-0 Botoşani
 Tulcea         2-1 Suceava
   [L.Ştefan 17pen, Lucan 78; Streinu 76]
 
-Round 22 
+Round: 22 
 [Mar 31]
 Bacău          3-0 Tulcea
   [Tănasă 13pen, Verdeş 71pen, Boghian 85]
@@ -1573,7 +1568,7 @@ Brazi          2-2 Brăila
 [Apr 18]
 Câmpina        1-2 Petrolul
 
-Round 23 [Apr 7]
+Round: 23 [Apr 7]
 FC Braşov      2-0 Brazi
   [Diaz 35, Cristescu 70]
 Petrolul       1-1 Sportul Stud.
@@ -1592,7 +1587,7 @@ Snagov         0-1 Câmpina
 Tulcea         1-1 Botoşani
   [S.Ciobanu 5; Matei 60]
 
-Round 24 [Apr 14]
+Round: 24 [Apr 14]
 Bacău          1-1 Dunărea Galaţi
   [Spiridon 76; S.Ilie 24]
 Forex          0-1 Tulcea
@@ -1612,7 +1607,7 @@ Sportul Stud.  4-1 Snagov
 Brazi          1-3 Buzău
   [Iacob 49; Vlaicu 16, 69, Jaber 63]
 
-Round 25 [Apr 21]
+Round: 25 [Apr 21]
 FC Braşov      1-1 Otopeni
   [Simic 14; Petrea 87]
 Petrolul       4-2 Brazi
@@ -1631,7 +1626,7 @@ Snagov         1-1 Giurgiu
 Tulcea         2-0 Câmpina
   [Ciobanu 57, E.Nanu 62]
 
-Round 26 [Apr 25]
+Round: 26 [Apr 25]
 Forex          2-0 Dunărea Galaţi
   [Popa 34, Marton 55]
 FC Braşov      0-0 Buzău
@@ -1650,7 +1645,7 @@ Sportul Stud.  1-1 Tulcea
 Brazi          3-0 Snagov
   [Ştreangă 56, Irimescu 57, Biţică 71]
 
-Round 27 [Apr 28]
+Round: 27 [Apr 28]
 Bacău          1-0 Botoşani
   [Vraciu 2]
 Petrolul       1-1 FC Braşov
@@ -1669,7 +1664,7 @@ Snagov         1-0 Brăila
 Tulcea         1-0 Giurgiu
   [Ciobanu 24]
 
-Round 28 [May 5]
+Round: 28 [May 5]
 Forex          1-1 Bacău
   [Ungureanu 64; Spiridon 80]
 FC Braşov      7-2 Snagov
@@ -1690,7 +1685,7 @@ Sportul Stud.  3-0 Dunărea Galaţi
 Brazi          0-2 Tulcea
   [Câju 20, E.Nanu 43]
 
-Round 29 [May 9]
+Round: 29 [May 9]
 Bacău          4-2 Câmpina
   [Pamfil 10og, Tanasa 17, Ichim 37og, Spiridon 72; Viţelaru 11pen, Elisei 90+3]
 Petrolul       2-0 Otopeni
@@ -1710,7 +1705,7 @@ Snagov         1-0 Buzău
 Tulcea         6-0 Brăila
   [Ciobanu 9, 51, E.Nanu 45, 50, 54, Câju 65]
 
-Round 30 [May 12]
+Round: 30 [May 12]
 FC Braşov      2-3 Tulcea
   [Diaz 30, 90+3; Coconaşu 27, E.Nanu 60, Câju 70]
 Otopeni        1-2 Forex
@@ -1730,7 +1725,7 @@ Sportul Stud.  1-2 Bacău
 Brazi          1-0 Dunărea Galaţi
   [Fărcăşanu 34]
 
-Round 31 [May 19]
+Round: 31 [May 19]
 Bacău          1-0 Giurgiu
   [Botezatu 18]
 Forex          1-0 Câmpina
@@ -1749,7 +1744,7 @@ Modelu         0-0 Petrolul
 Tulcea         7-1 Buzău
   [Creţu 4, Câju 11, Ciobanu 26pen, 62, Horovei 70, Pantelie 86, Nanu 89; Bunică 45+1]
 
-Round 32 [May 26]
+Round: 32 [May 26]
 FC Braşov      1-0 Dunărea Galaţi
   [Cristescu 42]
 Petrolul       0-2 Tulcea
@@ -1769,7 +1764,7 @@ Brazi          0-3 Bacău
 Snagov         4-6 Modelu
   [Spânu 13, Florea 40, Ioniţă 74, Luca 80; Jianu 11, 16, 66, Sătmar 33, 63, Stere 70]
 
-Round 33 [Jun 2]
+Round: 33 [Jun 2]
 Bacău          3-0 Brăila
   [Botezatu 5, Boghian 41, Spiridon 84]
 Forex          3-0 Giurgiu
@@ -1789,7 +1784,7 @@ Dunărea Galaţi 1-2 Buzău
 Tulcea         6-0 Snagov
   [E.Nanu 43pen, Coconaşu 46, Şt.Ciobanu 50, 90, Horovei 54, Câju 81]
 
-Round 34 [Jun 9]
+Round: 34 [Jun 9]
 FC Braşov      0-1 Bacău
   [Spiridon 56]
 Petrolul       4-2 Dunărea Galaţi
@@ -1838,7 +1833,7 @@ Final Table:
 
 Seria 2
 
-Round 1 
+Round: 1 
 [Aug 12]
 Târgovişte     1-0 Rm.Vâlcea      
   [Ciolca 90pen]
@@ -1859,7 +1854,7 @@ Baia Mare      1-2 U Cluj
 Poli Timişoara 3-1 Mediaş
   [Luchin 9, M.Oprea 10, Popovici 61; Sanda 87]
 
-Round 2 
+Round: 2 
 [Aug 19]
 Oradea         1-0 Vânju Mare
   [Lukacs 61]
@@ -1879,7 +1874,7 @@ Câmpia Turzii  2-0 Dej
 [Sep 20]
 Mediaş         0-1 Lupeni
 
-Round 3 [Aug 23]
+Round: 3 [Aug 23]
 Târgovişte     3-0 Corvinul       
   [Mondea 2og, Ichim 36, Păştin 81]
 Oradea         1-1 Câmpia Turzii  
@@ -1898,7 +1893,7 @@ Auxerre        1-0 Rm.Vâlcea
 Baia Mare      1-1 Mediaş         
   [Hodor 55; Gheju 15]
 
-Round 4 [Aug 26]
+Round: 4 [Aug 26]
 U Cluj         1-0 Auxerre        
   [Sabo 6]
 Mediaş         0-0 Târgovişte
@@ -1917,7 +1912,7 @@ Dej            1-2 Lupeni
 Câmpia Turzii  0-1 Timişoara II
   [Turcu 68]
 
-Round 5 [Sep 2]
+Round: 5 [Sep 2]
 Târgovişte     1-2 Mioveni
   [G.Preda 90; A.Oprea 45, Olteanu 90+4]
 Oradea         1-1 FCM Reşiţa
@@ -1936,7 +1931,7 @@ Auxerre        1-1 Corvinul
 Baia Mare      2-1 Dej
   [Negrea 4, 48; Ştreangă 14]
 
-Round 6 [Sep 9]
+Round: 6 [Sep 9]
 U Cluj         1-0 Vânju Mare
   [Stoianof 34]
 Mediaş         3-1 Auxerre
@@ -1953,7 +1948,7 @@ Câmpia Turzii  0-2 Lupeni
 Poli Timişoara 2-0 Baia Mare
   [Străuţ 14, V.Rada 82]
 
-Round 7 [Sep 16]
+Round: 7 [Sep 16]
 Târgovişte     1-0 Poli Timişoara
   [Raicu 5pen]
 Oradea         0-1 U Cluj
@@ -1972,7 +1967,7 @@ Auxerre        0-1 Mioveni
 Baia Mare      2-1 Lupeni
   [Fabian 4, Bichiri 53; Vezan 34]
 
-Round 8 [Sep 23]
+Round: 8 [Sep 23]
 U Cluj         2-1 CFR Timişoara
   [R.Sabo 55pen, 67pen; Gheju 30]
 Mediaş         3-0 Vânju Mare
@@ -1991,7 +1986,7 @@ Lupeni         2-1 Târgovişte
 Poli Timişoara 0-1 Alba Iulia
   [Manea 2]
 
-Round 9 [Sep 30]
+Round: 9 [Sep 30]
 Târgovişte     2-1 Baia Mare
   [R.Dobre 86, 90; Bota 69pen]
 Oradea         4-0 Mediaş
@@ -2009,7 +2004,7 @@ Alba Iulia     0-2 Lupeni
 Auxerre        1-1 Poli Timişoara
   [Pecarov 1; Buş 53pen]
 
-Round 10 [Oct 7]
+Round: 10 [Oct 7]
 U Cluj         1-1 Rm.Vâlcea
   [M.Popescu 75; Budean 31]
 Mediaş         2-0 CFR Timişoara
@@ -2029,7 +2024,7 @@ Poli Timişoara 2-1 Caracal
 Baia Mare      1-1 Alba Iulia
   [Fabian 72; Opriceană 64]
 
-Round 11 [Oct 14]
+Round: 11 [Oct 14]
 Oradea         1-1 Dej
   [Lupuţ 22 pen; Zelencz 81]
 U Cluj         3-0 Câmpia Turzii
@@ -2048,7 +2043,7 @@ Alba Iulia     1-0 Târgovişte
 Auxerre        1-0 Baia Mare
   [B.Petre 6]
 
-Round 12 [Oct 21]
+Round: 12 [Oct 21]
 Târgovişte     1-0 Auxerre
   [A.Niţă 15]
 Mediaş         0-0 Rm.Vâlcea
@@ -2066,7 +2061,7 @@ Poli Timişoara  4-0 Oradea
 Baia Mare      1-1 Caracal
   [Petrovan 13; S.Popescu 49]
 
-Round 13 [Oct 28]
+Round: 13 [Oct 28]
 Oradea         3-2 Lupeni
   [Iacob 48, 59, Miculescu 77; Vezan 62, Diaconescu 72]
 U Cluj         2-0 Mediaş
@@ -2086,7 +2081,7 @@ Vânju Mare     0-3 Baia Mare
 Auxerre        1-1 Alba Iulia
   [Nicolin 52; C.Cristea 13]
 
-Round 14 [Nov 4]
+Round: 14 [Nov 4]
 Târgovişte     2-1 Vânju Mare
   [L.Nicolae 54, Pastin 87; Zamfir 51]
 Mediaş         3-1 Corvinul
@@ -2105,7 +2100,7 @@ Auxerre        1-1 Câmpia Turzii
   [Miculescu 87; Fetiţa 7]
 Baia Mare      0-0 Oradea
 
-Round 15 
+Round: 15 
 [Nov 11]
 Oradea         0-1 Târgovişte
   [Dobre 46]
@@ -2126,7 +2121,7 @@ Câmpia Turzii  3-1 Mediaş
 Vânju Mare     2-1 Alba Iulia
   [Şerban 42, 66; Cazan 75]
 
-Round 16 [Nov 18]
+Round: 16 [Nov 18]
 Târgovişte     0-0 CFR Timişoara
 Mioveni        1-0 Mediaş
   [Drăghici 40]
@@ -2143,7 +2138,7 @@ Auxerre        0-0 Vânju Mare
 Baia Mare      1-0 FCM Reşiţa
   [Bota 25pen]
 
-Round 17 [Nov 25]
+Round: 17 [Nov 25]
 Oradea         3-1 Auxerre
   [Oros 13, Lupaşcu 50, Foro 53; Pecarov 71]
 U Cluj         3-1 Lupeni
@@ -2162,7 +2157,7 @@ Câmpia Turzii  3-1 Mioveni
 Vânju Mare     3-0 Caracal
   [Gheorghe 34, Şerban 42, Gădăleanu 49]
 
-Round 18 [Mar 3]
+Round: 18 [Mar 3]
 Oradea         2-1 Caracal
   [Iacob 31, 65; Şerban 77]
 U Cluj         3-0 Baia Mare
@@ -2180,7 +2175,7 @@ CFR Timişoara  0-0 Auxerre
 Câmpia Turzii  2-0 Vânju Mare
   [Gheţi 44, Dâmbean 62pen]
 
-Round 19 [Mar 10]
+Round: 19 [Mar 10]
 Târgovişte     1-0 U Cluj
   [Cazacu 84]
 Caracal        1-1 CFR Timişoara
@@ -2199,7 +2194,7 @@ Auxerre        0-1 FCM Reşiţa
   [Nădăban 72]
 Baia Mare      0-0 Corvinul
 
-Round 20 [Mar 17]
+Round: 20 [Mar 17]
 U Cluj         1-1 Alba Iulia
   [Sabo 41; Cristea 21]
 Mediaş         4-0 Baia Mare
@@ -2217,7 +2212,7 @@ Dej            3-2 Timişoara II
   [Bota 19pen, Hotico 29, 70; Axente 60, Torje 73pen]
 Câmpia Turzii  0-0 Oradea
 
-Round 21 [Mar 24]
+Round: 21 [Mar 24]
 Târgovişte     1-0 Mediaş
   [Raicu 14pen]
 Oradea         1-0 CFR Timişoara
@@ -2237,7 +2232,7 @@ Auxerre        0-1 U Cluj
 Baia Mare      0-1 Mioveni
   [Nedelea 90+2]
 
-Round 22 [Mar 31]
+Round: 22 [Mar 31]
 U Cluj         1-0 Caracal
   [A.Savu 51]
 Mediaş         1-0 Alba Iulia
@@ -2255,7 +2250,7 @@ Câmpia Turzii  1-0 CFR Timişoara
 Timişoara II   2-1 Lupeni
   [Poparadu 12, Pătraş 60; Vezan 17]
 
-Round 23 [Apr 7]
+Round: 23 [Apr 7]
 Târgovişte     3-1 Dej
   [R.Dobre 21, 85, Raicu 39; Dacin 25]
 Oradea         1-2 Rm.Vâlcea
@@ -2275,7 +2270,7 @@ Auxerre        1-2 Mediaş
 Baia Mare      2-1 Timişoara II
   [Iaţu 37, Hodor 69; Axinte 18]
 
-Round 24 [Apr 14]
+Round: 24 [Apr 14]
 U Cluj         1-0 Oradea
   [Savu 52]
 Mediaş         2-0 Caracal
@@ -2295,7 +2290,7 @@ Lupeni         4-0 Baia Mare
 Timişoara II   6-1 Târgovişte
   [Rada 43, Scutaru 55, Străuţ 58, Daminuţă 72, Oprea 75, Axente 90pen; Dobre 87]
 
-Round 25 [Apr 21]
+Round: 25 [Apr 21]
 Târgovişte     0-0 Lupeni
 Oradea         2-2 Corvinul
   [Radu 38, Iacob 47pen; Pribac 26, Furdean 39]
@@ -2314,7 +2309,7 @@ Auxerre        1-1 Dej
 Baia Mare      1-0 Câmpia Turzii
   [Simao 77]
 
-Round 26 [Apr 25]
+Round: 26 [Apr 25]
 U Cluj         2-1 Reşiţa
   [Goga 47, Stoianof 75; Mihalcea 82 ]
 Mediaş         0-2 Oradea
@@ -2333,7 +2328,7 @@ Timişoara II   1-4 Auxerre
 Baia Mare      1-0 Târgovişte
   [Simao 54]
 
-Round 27 [Apr 28]
+Round: 27 [Apr 28]
 Târgovişte     3-0 Câmpia Turzii
   [Batota 9, Raicu 21 pen, Ciolca 79]
 Oradea         2-0 Mioveni
@@ -2351,7 +2346,7 @@ Alba Iulia     3-0 Baia Mare
   [Zăgrean 24, Dâlbea 34, 76]
 Auxerre        0-0 Lupeni
 
-Round 28 [May 5]
+Round: 28 [May 5]
 Târgovişte     1-3 Alba Iulia
   [Raicu 44pen; Manea 18, Cristea 85, Voiculeţ 90+3]
 Mediaş         5-0 Reşiţa
@@ -2370,7 +2365,7 @@ Timişoara II   0-0 Vânju Mare
 Baia Mare      2-0 Auxerre
   [B.Pereş 60, Negrea 70]
 
-Round 29 [May 9]
+Round: 29 [May 9]
 Oradea         1-3 Timişoara II
   [R.Iacob 16; Dochiţa 5, Soporan 26, M.Oprea 69]
 U Cluj         1-0 Corvinul
@@ -2390,7 +2385,7 @@ Alba Iulia     1-0 Câmpia Turzii
 Auxerre        1-0 Târgovişte
   [Marchiş 31]
 
-Round 30 [May 12]
+Round: 30 [May 12]
 Târgovişte     0-0 Caracal
 Mediaş         0-0 U Cluj
 Mioveni        2-0 Rm.Vâlcea
@@ -2408,7 +2403,7 @@ Timişoara II   2-0 CFR Timişoara
 Baia Mare      1-1 Vânju Mare
   [Iaţu 37; Gădăleanu 84]
 
-Round 31 [May 19]
+Round: 31 [May 19]
 Oradea         1-0 Baia Mare
   [Szeles 57]
 U Cluj         0-0 Mioveni
@@ -2427,7 +2422,7 @@ Câmpia Turzii  1-0 Auxerre
 Vânju Mare     2-1 Târgovişte
   [Gheorghe 54, Ciucu 72; Gădăleanu 23og]
 
-Round 32 [May 26]
+Round: 32 [May 26]
 Mioveni        3-0 Corvinul     [awd, Corvinul suspended by FRF]
 Târgovişte     1-1 Oradea
   [Oană 54; Lukacs 84]
@@ -2446,7 +2441,7 @@ Auxerre        0-3 Caracal
 Baia Mare      0-2 CFR Timişoara
   [Gheju 4pen, 11]
 
-Round 33 [Jun 1]
+Round: 33 [Jun 1]
 U Cluj         4-1 Timişoara II
   [Şomcherechi 3, A.Savu 76, Vădana 83, D.Goga 85; Ad.Popa 75]
 [Jun 2]
@@ -2467,7 +2462,7 @@ Câmpia Turzii  2-1 Caracal
 Vânju Mare     3-1 Auxerre
   [Şerban 31, Făget 35, Gădăleanu 61; Petrişor 15]
 
-Round 34 [Jun 9]
+Round: 34 [Jun 9]
 Târgovişte     0-0 Reşiţa
 Mioveni        2-0 Câmpia Turzii
   [Cl.Ionescu 56, 85]
@@ -2523,7 +2518,7 @@ Liga 3
 
 Seria 1
 
-Round 1 
+Round: 1 
 [Aug 11]
 Bacău II       2-0 Poli Iaşi II
   [Moroşanu 75, Pitaru 84]
@@ -2543,7 +2538,7 @@ Willy          4-0 Moineşti
 Fălticeni      2-3 Roman
 Sf.Gheorghe    0-0 Poli Galaţi
 
-Round 2 
+Round: 2 
 [Aug 18]
 Moineşti       1-1 Leonard
   [Onisei 76, Tobă 74]
@@ -2563,7 +2558,7 @@ Tg.Secuiesc    1-0 Sf.Gheorghe
 [Aug 19]
 Focşani        7-2 Odorhei
 
-Round 3 [Aug 22]
+Round: 3 [Aug 22]
 Bacău II       4-1 Leonard        
   [Moroşanu 39, Cojocaru 44, Botezatu 74, 86; Botez 77]
 CFR Paşcani    1-0 Moineşti       
@@ -2583,7 +2578,7 @@ Sf.Gheorghe    2-1 Roman
 Willy          2-2 Aerostar       
   [Căpuşă 35, Hurdubei 70; Movileanu 50, Tuciuc 85]
 
-Round 4 
+Round: 4 
 [Aug 25]
 Moineşti       1-0 Bacău II
   [Grumega 43]
@@ -2602,7 +2597,7 @@ Tg.Secuiesc    3-1 Odorhei
 Focşani        1-0 Willy          
 Poli Galaţi    1-1 Ceahlăul II
 
-Round 5 
+Round: 5 
 [Sep 1]
 CFR Paşcani    0-0 Focşani
 Aerostar       3-0 Moineşti
@@ -2621,7 +2616,7 @@ Willy          5-1 Poli Galaţi
 Juve Fălticeni 0-2 Bacău II
 Sf.Gheorghe    0-1 Pambac
 
-Round 6 
+Round: 6 
 [Sep 8]
 Moineşti       0-1 Juve Fălticeni
   [Ailenei 25]
@@ -2641,7 +2636,7 @@ Bacău II       1-1 Rm.Sărat
 Poli Galaţi    3-1 CFR Paşcani
   [Codreanu 59, Sereanu 77, Bârlădeanu 88; Pintilie 10]
 
-Round 7 
+Round: 7 
 [Sep 15]
 Aerostar       1-2 Poli Galaţi
   [Movileanu 47; Muha 14, Stoian 62]
@@ -2663,7 +2658,7 @@ CFR Paşcani    2-0 Tg.Secuiesc
 Sf.Gheorghe    3-2 Bacău II
   [Vaida 8, Dobriţă 26, Suciu 40; Moroşanu 34, Brătescu 44]
 
-Round 8 
+Round: 8 
 [Sep 22]
 Poli Iaşi II   2-1 Willy
   [Plugaru 32, Ştiubei 50pen; Căpuşă 30]
@@ -2685,7 +2680,7 @@ Juve Fălticeni 2-1 Sf.Gheorghe
 Poli Galaţi    3-2 Focşani
   [Codrean 38, Pardos 66, Zain 68; Bucătaru 40, Râţcu 57]
 
-Round 9 
+Round: 9 
 [Sep 29]
 CFR Paşcani    1-0 Poli Iaşi II
   [Ceopraga 89]
@@ -2707,7 +2702,7 @@ Poli Galaţi    3-0 Moineşti
 Sf.Gheorghe    1-0 Rm.Sărat
   [Dobrică 55]
 
-Round 10 
+Round: 10 
 [Oct 6]
 Moineşti       0-1 Sf.Gheorghe
   [Dobriţa 83]
@@ -2729,7 +2724,7 @@ Roman          1-2 Focşani
 Juve Fălticeni 3-1 Odorhei
   [Pânzariu 44, Ailenei 62, Vasiliu 68; Bereş 20]
 
-Round 11 
+Round: 11 
 [Oct 13]
 CFR Paşcani    1-1 Leonard
   [Pintilie 58; Mungu 72]
@@ -2751,7 +2746,7 @@ Focşani        1-0 Poli Iaşi II
 Poli Galaţi    5-1 Roman
   [Bârlădeanu 55, Serian 57, 75, Codreanu 78, Stoian 82; Vlaicu 87]
 
-Round 12 
+Round: 12 
 [Oct 20]
 Moineşti       0-3 Oţelul II
   [Pruteanu  5og, Tismănaru  17pen, Niculaie 78]
@@ -2770,7 +2765,7 @@ Roman          0-0 Tg.Secuiesc
 Juve Fălticeni 2-1 Willy
 Sf.Gheorghe    4-1 Odorhei
 
-Round 13 
+Round: 13 
 [Oct 27]
 CFR Paşcani    0-0 Juve Fălticeni
 Focşani        3-1 Leonard
@@ -2791,7 +2786,7 @@ Aerostar       0-1 Bacău II
 Poli Galaţi    1-2 Pambac
   [Serean 65; Câmpanu 14, 86]
 
-Round 14 
+Round: 14 
 [Nov 3]
 Poli Iaşi II   1-2 Roman
   [Plugaru 34; Codreanu 20, Paraschiv 77]
@@ -2812,7 +2807,7 @@ Juve Fălticeni 7-2 Aerostar
 Sf.Gheorghe    1-2 Willy
   [Chirciu 25; Wei 4, Vameşu 10]
 
-Round 15 
+Round: 15 
 [Nov 10]
 Moineşti       1-1 Poli Iaşi II
   [Paşcanu 35; Ştiubei 2]
@@ -2834,7 +2829,7 @@ Poli Galaţi    1-2 Bacău II
 Willy          2-2 Oţelul II
   [Voicu 85, Wey 90; Elec 58, 70]
 
-Round 16 
+Round: 16 
 [Nov 17]
 Bacău II       1-0 Tg.Secuiesc
   [Vrânceanu 15]
@@ -2855,7 +2850,7 @@ Sf.Gheorghe    1-0 Aerostar
 [Nov 18]
 Juve Fălticeni 1-0 Poli Galaţi
 
-Round 17 
+Round: 17 
 [Nov 24]
 Poli Iaşi II   6-1 Leonard
   [Suc 23, Croitoru 44, 53, Cl.Ionescu 60 pen, 68, Bălănescu 72; Jipa 10]
@@ -2874,7 +2869,7 @@ Moineşti       0-1 Pambac
 Roman          2-1 Bacău II
 Poli Galaţi    1-0 Rm.Sărat
 
-Round 18 
+Round: 18 
 [Mar 2]
 Moineşti       0-1 Willy
   [Mărăşteanu 90]
@@ -2896,7 +2891,7 @@ Roman          1-0 Juve Fălticeni
 Poli Galaţi    2-1 Sf.Gheorghe
   [Iosif 30, Bârlădeanu 70; Kurtury 3]
 
-Round 19 
+Round: 19 
 [Mar 9]
 Bacău II       0-0 Pambac
 Leonard        0-0 Moineşti
@@ -2914,7 +2909,7 @@ Sf.Gheorghe    3-0 Tg.Secuiesc
   [Kurtury 50, Bende 60, Suciu 75pen]
 Rm.Sărat       3-0 Roman                   [awarded]
 
-Round 20 
+Round: 20 
 [Mar 16]
 Poli Iaşi II   1-0 Rm.Sărat
   [Buhuşi 40]
@@ -2935,7 +2930,7 @@ Roman          4-0 Sf.Gheorghe
 Poli Galaţi    7-0 Odorhei
   [Tobă 17, Iosif 20, Baston 43, Cramer 51, 90, Alexa 66, Bârlădeanu 85]
 
-Round 21 
+Round: 21 
 [Mar 23]
 Bacău II       2-1 Moineşti
   [Botezatu 31, Huiban 60; Nicolae 77]
@@ -2955,7 +2950,7 @@ Odorhei        2-1 Tg.Secuiesc
 Sf.Gheorghe    2-1 Poli Iaşi II
   [Szakucy 20 Dobriţa 68; Buhuşi 50]
 
-Round 22 
+Round: 22 
 [Mar 30]
 Poli Iaşi II   1-2 Oţelul II
   [Pandele 65; Şerbănescu 2, Cârjan 38]
@@ -2977,7 +2972,7 @@ Roman          2-1 Odorhei
 Moineşti       1-2 Aerostar
   [Trofin 30; Movileanu 25, Petrea 41pen]
 
-Round 23 
+Round: 23 
 [Apr 6]
 CFR Paşcani    3-0 Poli Galaţi
   [Dăscălescu 18, Micu 67, Ancuţa 75pen]
@@ -2999,7 +2994,7 @@ Odorhei        0-3 Poli Iaşi II
 Sf.Gheorghe    3-0 Leonard
   [Kiss 17, Fodor 30, Ruja 80]
 
-Round 24 
+Round: 24 
 [Apr 13]
 Poli Iaşi II   0-0 Ceahlăul II
 Bacău II       1-0 Sf.Gheorghe
@@ -3017,7 +3012,7 @@ Moineşti       1-2 Focşani
 Roman          3-0 Willy
 Juve Fălticeni 3-2 Rm.Sărat
 
-Round 25 
+Round: 25 
 [Apr 20]
 CFR Paşcani    3-4 Roman
   [Dăscălescu 27, 52, Micu 64; Marin 8, Ţapu 22, 90, Codreanu 66pen]
@@ -3038,7 +3033,7 @@ Odorhei        2-1 Leonard
 Sf.Gheorghe    1-1 Juve Fălticeni
   [Szakacs 50; Ailenei 35pen]
 
-Round 26 [Apr 24]
+Round: 26 [Apr 24]
 Moineşti       1-0 Poli Galaţi
   [Dobrovăţ 3]
 Roman          1-4 Aerostar
@@ -3057,7 +3052,7 @@ Juve Fălticeni 3-0 Oţelul II
   [Munteanu 26, Şuleru 65, Homniac 75]
 Tg.Secuiesc    0-3 Focşani                 [awarded, no medical assistance]
 
-Round 27 
+Round: 27 
 [Apr 27]
 CFR Paşcani    2-0 Pambac
   [Dăscălescu 24, 84]
@@ -3077,7 +3072,7 @@ Focşani        1-0 Roman
 Poli Galaţi    4-1 Tg.Secuiesc
 Odorhei        0-2 Juve Fălticeni
 
-Round 28 
+Round: 28 
 [May 4]
 Moineşti       2-0 Tg.Secuiesc
   [Vasilache 7, 25]
@@ -3098,7 +3093,7 @@ Juve Fălticeni 2-0 Ceahlăul II
 Leonard        1-0 CFR Paşcani
   [Solomon 80]
 
-Round 29 [May 8]
+Round: 29 [May 8]
 CFR Paşcani    1-1 Bacău II
   [Dăscălescu 5; Dornescu 55]
 Aerostar       1-1 Leonard
@@ -3118,7 +3113,7 @@ Odorhei        3-1 Sf.Gheorghe
 Willy          1-0 Juve Fălticeni
   [Lupu 88]
 
-Round 30 
+Round: 30 
 [May 11]
 Moineşti       3-1 Roman
   [Vasilache 11, Darie 40, Jipa 89pen; Andrei 15]
@@ -3140,7 +3135,7 @@ Rm.Sărat       4-3 Willy
 Juve Fălticeni 2-0 CFR Paşcani
   [Şuleru 26, 60]
 
-Round 31 
+Round: 31 
 [May 18]
 Moineşti       7-0 Odorhei
   [Dobrovăţ 1, Vasilache 3, Darie 41, Lungu 42, 56pen, Jipa 47, Ceangău 75]
@@ -3161,7 +3156,7 @@ Aerostar       4-3 Juve Fălticeni
   [Miron 30, Carp 45, 55, Petrea 75; Suleru 73, 85, Ailenei 80]
 Poli Galaţi    3-0 Leonard       [awd]
 
-Round 32 
+Round: 32 
 [May 25]
 Poli Iaşi II   1-0 Moineşti
   [Vespan 87]
@@ -3183,7 +3178,7 @@ Rm.Sărat       4-1 Aerostar
 Juve Fălticeni 1-2 Focşani
   [Pantea 37; Râşcu 7, Curteanu 73]
 
-Round 33 
+Round: 33 
 [Jun 1]
 Moineşti       4-0 Ceahlăul II
   [Darie 26, 34, Neculai 73, Jipa 89pen]
@@ -3205,7 +3200,7 @@ CFR Paşcani    3-0 Oţelul II
 Poli Galaţi    2-0 Juve Fălticeni
   [Ungureanu 70, 85]
 
-Round 34 [Jun 8]
+Round: 34 [Jun 8]
 Juve Fălticeni 3-0 Tg.Secuiesc          [awarded]
 Bacău II       3-0 Roman
   [Huiban 10, Dobârceanu 35pen, Carnariu 75]
@@ -3254,7 +3249,7 @@ Final Table:
 
 Seria 2
 
-Round 1 [Aug 11]
+Round: 1 [Aug 11]
 Aurora         2-3 Portul         
   [Ferenţi 15, Răguşilă 32; Buraş 4, Prodan 40, Stere 81]
 Farul II       2-1 Petr.Brăila
@@ -3274,7 +3269,7 @@ Ulmu           1-1 Slobozia
 Dodu           1-0 Chitila        
   [Roşca 32]
 
-Round 2 
+Round: 2 
 [Aug 18]
 Callatis       1-5 Dinamo II      
   [Bardu 20pen; L.Ganea 51, Lemnaru 70, 90+2, Vizitiu 88, Cozac 89]
@@ -3293,7 +3288,7 @@ Timişoara      1-0 Ulmu
 [Aug 19]
 Inter-Gaz      0-1 Rocar          
 
-Round 3 [Aug 22]
+Round: 3 [Aug 22]
 Aurora         5-1 Timişoara
   [Drăgoi 15, Onofrei 20, Croitoru 55, Bujanski 60, Stoian 88; Sabin 85]
 Farul II       3-0 Slobozia       
@@ -3312,7 +3307,7 @@ Ulmu           2-2 Călăraşi
 Dodu           3-0 Portul         
   [Dulcă 17, Orlando 20, 26]
 
-Round 4
+Round: 4
 [Aug 25]
 Callatis       3-0 Ovidiu         
   [Petcu 38, Zgube 70, Enis 78]
@@ -3334,7 +3329,7 @@ Timişoara      2-5 Farul II
 Dinamo II      5-2 Însurăţei
   [D.Simion 13, 44, L.Ganea 63, Lemnaru 76, Damaschin 78; ?]
 
-Round 5 
+Round: 5 
 [Sep 1]
 Aurora         2-1 Steaua II
   [Stoian 55, Drăgoi 90; Martinescu 85]
@@ -3355,7 +3350,7 @@ Inter-Gaz      6-0 Petr.Brăila
 [Sep 3]
 Farul II       0-3 Călăraşi
 
-Round 6 [Sep 8]
+Round: 6 [Sep 8]
 Callatis       0-3 Însurăţei
   [Chioreanu 27, Vicol 40, 55]
 Portul         2-0 Inter-Gaz
@@ -3374,7 +3369,7 @@ Timişoara II   2-1 Oil Terminal
 Ovidiu         1-0 Ulmu
   [Steriu 90]
 
-Round 7 
+Round: 7 
 [Sep 15]
 Aurora         1-2 Ovidiu
   [Curumi 30; Ciobanu 60, 90+2]
@@ -3395,7 +3390,7 @@ Dodu           3-1 Steaua II
 [Sep 16]
 Inter-Gaz      1-2 Slobozia
 
-Round 8 [Sep 22]
+Round: 8 [Sep 22]
 Callatis       6-0 Ulmu
   [Enis Cogali 29, 80, Erdinci Cogali 51, 61, Boloc 55, Zgubea 86]
 Portul         0-0 Petr.Brăila
@@ -3414,7 +3409,7 @@ Ovidiu         1-0 Farul II
 Însurăţei      3-0 Aurora
   [C.Dobre 15, Vicol 73, 90]
 
-Round 9 
+Round: 9 
 [Sep 29]
 Portul         0-2 Callatis
   [Zgubea 20, Voicu 71]
@@ -3434,7 +3429,7 @@ Inter-Gaz      2-1 Călăraşi
 [Oct 17]
 Rocar ANEFS    2-1 Steaua II
 
-Round 10 
+Round: 10 
 [Oct 6]
 Callatis       4-1 Aurora
   [Avram 5pen, Zgubea 15, 65, Cristea 87; Culeafă 30]
@@ -3454,7 +3449,7 @@ Ulmu           0-2 Farul II
 [Oct 7]
 Slobozia       2-1 Portul
 
-Round 11 
+Round: 11 
 [Oct 13]
 Portul         5-0 Timişoara II
   [Anghel 10, Boraş 15, Măciucă 38, Prodan 52, 65]
@@ -3475,7 +3470,7 @@ Inter-Gaz      4-0 Dinamo II
   [B.Nicu 6, 85, Voicu 46, C.Petre 90]
 Farul II       3-0 Aurora
 
-Round 12 
+Round: 12 
 [Oct 20]
 Callatis       1-1 Farul II
   [D.Cogali 47; Neaga 80]
@@ -3493,7 +3488,7 @@ Ulmu           0-0 Oil Terminal
 [Oct 21]
 Însurăţei      1-2 Rocar
 
-Round 13 
+Round: 13 
 [Oct 27]
 Portul         1-1 Steaua II
   [Boras 3; I.Mihai 60]
@@ -3513,7 +3508,7 @@ Slobozia       2-0 Călăraşi
 Inter-Gaz      2-1 Însurăţei
   [Boiciuc 49, Novac 87; C.Dobre 23]
 
-Round 14 [Nov 3]
+Round: 14 [Nov 3]
 Farul II       4-2 Oil Terminal
   [Boghiţoiu 10pen, Soare 25, 30, Neaga 74; Iacobuţ 38, Mihuţ 81]
 Dinamo II      5-1 Portul
@@ -3532,7 +3527,7 @@ Dodu           1-0 Callatis
   [Ad.Cristea 65pen]
 Aurora         0-3 Rocar ANEFS             [awarded]
 
-Round 15 
+Round: 15 
 [Nov 10]
 Callatis       2-1 Călăraşi
   [Enis Cogali 35, Erdinci Cogali 70; Cotea 71]
@@ -3553,7 +3548,7 @@ Slobozia       1-4 Dinamo II
 Inter-Gaz      3-1 Aurora
   [Ghirie 1, 70, Bârsan 76; Ferenţi 58]
 
-Round 16 [Nov 17]
+Round: 16 [Nov 17]
 Aurora         0-0 Chitila
 Farul II       0-1 Inter-Gaz
   [Bârsan 63]
@@ -3569,7 +3564,7 @@ Ulmu           1-0 Petr.Brăila
 Dodu           1-0 Rocar
   [Fodor 26]
 
-Round 17 
+Round: 17 
 [Nov 24]
 Callatis       1-2 Steaua II
   [E.Cogali 43; Trandafir 82, Ochiroşii 90]
@@ -3591,7 +3586,7 @@ Slobozia       2-2 Însurăţei
 Inter-Gaz      1-0 Dodu
   [Boiciuc 6]
 
-Round 18
+Round: 18
 [Mar 2]
 Callatis       1-1 Rocar
   [Avram 25pen; Stăncioiu 75]
@@ -3611,7 +3606,7 @@ Timişoara      0-4 Însurăţei
 Slobozia       2-0 Ulmu
   [Moraru 75, L.Costache 84]
 
-Round 19 
+Round: 19 
 [Mar 9]
 Oil Terminal   0-1 Chitila
   [Pristolian 65]
@@ -3633,7 +3628,7 @@ Aurora         1-1 Slobozia
 Farul II       0-3 Portul
   [C.Anghel 5, Boraş 55, Grămoşteanu 85pen]
 
-Round 20 
+Round: 20 
 [Mar 16]
 Callatis       0-2 Inter-Gaz
   [Novac 20, Drăgan 85]
@@ -3654,7 +3649,7 @@ Timişoara      2-3 Aurora
 Slobozia       6-0 Farul II
   [Chiorcău 10, L.Costache 40, Mihălcescu 55, 60, Rusen 80, Toma 85]
 
-Round 21 
+Round: 21 
 [Mar 23]
 Farul II       5-0 Timişoara
   [Soare 15, D.Florea 21, 34, 42, Pascale 87]
@@ -3676,7 +3671,7 @@ Aurora         2-1 Călăraşi
 Dodu           1-1 Slobozia
   [M.Ene 25; C.Chiorcău 65]
 
-Round 22 
+Round: 22 
 [Mar 30]
 Callatis       2-3 Chitila
   [Stoian 44, Zgubea 60; Pristolian 2, 12, 28]
@@ -3697,7 +3692,7 @@ Slobozia       2-2 Oil Terminal
 [date?]
 Timişoara      0-3 Dodu
 
-Round 23 
+Round: 23 
 [Apr 6]
 Farul II       2-2 Steaua II
   [Florea 12, 32; Iancu 49, 75]
@@ -3718,7 +3713,7 @@ Dodu           0-0 Călăraşi
 [Apr 17]
 Aurora         0-3 Dinamo II
 
-Round 24 
+Round: 24 
 [Apr 13]
 Callatis       5-0 Petr.Brăila
   [Avram 25pen, Erdinci Cogali 40, Bardu 45, Zgubea 56, Tănase 87]
@@ -3739,7 +3734,7 @@ Ovidiu         2-0 Aurora
 Slobozia       1-3 Inter-Gaz
   [Toma 1; C.Ioan 38, Dumitrescu 40, Bârsan 55]
 
-Round 25 
+Round: 25 
 [Apr 20]
 Farul II       1-1 Ovidiu
   [Ţarălungă 31; Salih 20]
@@ -3761,7 +3756,7 @@ Aurora         2-1 Însurăţei
 Dodu           2-5 Dinamo II
   [Petre 8, Manea 30; Crăciun 7, Păun 17, 54, Lemnaru 81, 85]
 
-Round 26 [Apr 24]
+Round: 26 [Apr 24]
 Callatis       1-0 Portul
   [Bucur 85]
 Slobozia       3-1 Petr.Brăila
@@ -3781,7 +3776,7 @@ Ovidiu         1-3 Dodu
 Ulmu           1-2 Aurora
   [Popa 34; Jalbă 49, 72]
 
-Round 27 
+Round: 27 
 [Apr 27]
 Portul         3-1 Slobozia
   [Curumi 23, Comboianu 39, Bagnoti 44; Şerban 6]
@@ -3802,7 +3797,7 @@ Aurora         1-0 Callatis
 Dodu           1-0 Însurăţei
   [Fodor 37]
 
-Round 28 
+Round: 28 
 [May 4]
 Ulmu           0-3 Dodu                    [awarded]
 Callatis       0-0 Slobozia
@@ -3822,7 +3817,7 @@ Ovidiu         0-1 Rocar
 Aurora         2-5 Farul II
   [Onofrei 22, Drăgoi 35; Flore 18, Voicu 32, L.Mihai 41, Larie 63, Soare 75]
 
-Round 29 
+Round: 29 
 [May 8]
 Oil Terminal   3-0 Ulmu                    [awarded]
 Slobozia       3-0 Timişoara               [awarded]
@@ -3841,7 +3836,7 @@ Dodu           4-1 Aurora
 Chitila        2-4 Dinamo II
   [Tararache 41, Diaconeasa 72; Lemnaru 1, 40, L.Ganea 30, Păun 90+3]
 
-Round 30 
+Round: 30 
 [May 11]
 Ulmu           0-3 Rocar                   [awarded]
 Callatis      10-2 Timişoara
@@ -3862,7 +3857,7 @@ Ovidiu         0-0 Chitila
 Aurora         2-1 Oil Terminal
   [Onofrei 48, Drălgoi 90; Agafiţei 32]
 
-Round 31 
+Round: 31 
 [May 18]
 Inter-Gaz      3-0 Ulmu                    [awarded]
 Callatis       1-2 Dodu
@@ -3883,7 +3878,7 @@ Timişoara      0-2 Călăraşi
 Slobozia       0-3 Steaua II
   [Rusu 32, Măgureanu 56, Avram 82]
 
-Round 32
+Round: 32
 [May 25]
 Ulmu           0-3 Chitila                 [awarded]
 Farul II       1-2 Rocar
@@ -3904,7 +3899,7 @@ Aurora         2-0 Inter-Gaz
 Dodu           2-1 Oil Terminal
   [Manea 60, Dunca 75; Chiperi 30]
 
-Round 33 
+Round: 33 
 [Jun 1]
 Petr.Brăila    3-0 Ulmu                    [awarded]
 Callatis       1-0 Oil Terminal
@@ -3925,7 +3920,7 @@ Timişoara      0-4 Dinamo II
 Slobozia       2-1 Ovidiu
   [C.Toma 48, Rusen 50; Caramişin 52]
 
-Round 34 [Jun 8]
+Round: 34 [Jun 8]
 Ulmu           0-3 Portul                  [awarded]
 Aurora         0-0 Petr.Brăila
 Farul II       0-1 Chitila
@@ -3975,7 +3970,7 @@ Final Table:
 
 Seria 3
 
-Round 1 
+Round: 1 
 [Aug 11]
 Juventus       3-0 Moreni         
   [Antal 31, 34, Mănescu 60]
@@ -3996,7 +3991,7 @@ Mărăcineni     0-3 Conpet             [annulled]
 [Aug 12]
 Mâneciu        1-2 Rapid II
 
-Round 2 
+Round: 2 
 [Aug 18]
 Rapid II       0-0 Juventus       
 Ghimbav        2-0 Mâneciu        
@@ -4013,7 +4008,7 @@ Moreni         2-1 Breaza
 [Aug 19]
 Concordia      7-0 Clinceni       
 
-Round 3 [Aug 22]
+Round: 3 [Aug 22]
 Juventus       3-0 Ghimbav        
   [Mănescu 55, 89, Drăgulici 90]
 Predeal        5-0 Clinceni       
@@ -4033,7 +4028,7 @@ Mâneciu        1-2 Titu
 Mărăcineni     0-3 Moreni             [annulled]
   [Ciornohac 20, Mihăescu 75, Vlădescu 80]
 
-Round 4 
+Round: 4 
 [Aug 25]
 Astra          3-1 Conpet         
   [Păun 28, 79, 85, Moise 27]
@@ -4051,7 +4046,7 @@ Moreni         2-1 Pet.Târgovişte
 [Aug 26]
 Concordia      4-2 Predeal        
 
-Round 5 
+Round: 5 
 [Sep 1]
 Juventus       0-1 Buftea
   [Novac 34]
@@ -4069,7 +4064,7 @@ Aversa         3-1 Predeal
 [Sep 2]
 Mâneciu        1-3 Petrolul II
 
-Round 6 
+Round: 6 
 [Sep 8]
 Rapid II       3-0 Conpet
   [Barbu 36, Stoica 61, Răduţă 89]
@@ -4088,7 +4083,7 @@ Moreni         0-2 Astra
 [Sep 9]
 Concordia      2-0 Aversa 
 
-Round 7 
+Round: 7 
 [Sep 15]
 Juventus       1-0 Clinceni
   [Grigore 50]
@@ -4107,7 +4102,7 @@ Pet.Târgovişte 0-0 Titu
 Mâneciu        0-1 Predeal
   [Nedelea 46]
 
-Round 8 
+Round: 8 
 [Sep 22]
 Rapid II       0-0 Moreni
 Ghimbav        2-4 Astra
@@ -4125,7 +4120,7 @@ Aversa         2-0 Mâneciu
 Concordia      1-1 1 Decembrie
   [Ţermure 85; Neagu 11og]
 
-Round 9 
+Round: 9 
 [Sep 29]
 Rapid II       1-3 Concordia
   [Pistol 30; Pătru 70, Ciochină 80, Mihalache 90+1]
@@ -4145,7 +4140,7 @@ Pet.Târgovişte 1-2 Petrolul II
 Mâneciu        1-2 1 Decembrie
   [Paraschivoiu 18; Fluierică 14, Nica 54]
 
-Round 10 
+Round: 10 
 [Oct 6]
 Ghimbav        0-1 Rapid II
   [Barbu 48]
@@ -4165,7 +4160,7 @@ Aversa         1-0 Breaza
 Concordia      6-0 Mâneciu
   [Ţermure 16, Ciochină 24, Pena 41, 82, C.Marin 70, Pătru 76]
 
-Round 11 [Oct 13]
+Round: 11 [Oct 13]
 Rapid II       2-0 Titu
   [Creţu 41, Barbu 49]
 Juventus       6-0 Mâneciu
@@ -4183,7 +4178,7 @@ Moreni         2-1 Buftea
 Pet.Târgovişte 1-0 Predeal
   [Godinac 64]
 
-Round 12 
+Round: 12 
 [Oct 20]
 Predeal        1-0 Conpet
   [Fodor 7]
@@ -4200,7 +4195,7 @@ Aversa         2-1 Pet.Târgovişte
 Concordia      1-1 Juventus
 Mâneciu        1-1 Breaza
 
-Round 13 [Oct 27]
+Round: 13 [Oct 27]
 Rapid II       0-0 Petrolul II
 Astra          2-1 Predeal
   [Marinescu 24, Nedelea 84og; Iancu 89]
@@ -4216,7 +4211,7 @@ Moreni         0-1 Clinceni
   [Ene 86]
 Pet.Târgovişte 0-0 1 Decembrie
 
-Round 14 
+Round: 14 
 [Nov 3]
 Predeal        6-1 Moreni
   [Cojocaru 12, Ciolănel 18, 38, Nedelea 40, Harap 75, Boghiu 81; P.Vasile 14]
@@ -4235,7 +4230,7 @@ Aversa         2-2 Astra
 [Nov 4]
 Mâneciu        1-2 Pet.Târgovişte
 
-Round 15 
+Round: 15 
 [Nov 10]
 Rapid II       0-1 Predeal
   [Ursu 35]
@@ -4255,7 +4250,7 @@ Pet.Târgovişte 0-3 Juventus
 Concordia      2-0 Buftea
   [Bălaşa 20 Ciochină 71]
 
-Round 16 
+Round: 16 
 [Nov 17]
 Juventus       1-0 Conpet
   [Zamfirescu 58]
@@ -4272,7 +4267,7 @@ Aversa         1-0 Rapid II
 [Nov 18]
 Mâneciu        1-0 Astra
 
-Round 17 
+Round: 17 
 [Nov 24]
 Rapid II       0-2 1 Decembrie
   [Bucă 60, Fluierică 75]
@@ -4290,7 +4285,7 @@ Moreni         3-1 Mâneciu
 [Nov 25]
 Concordia      8-2 Petrolul II
 
-Round 18 
+Round: 18 
 [Mar 2]
 Rapid II       2-0 Mâneciu
   [Creţu 9, 33]
@@ -4310,7 +4305,7 @@ Moreni         0-1 Juventus
 Concordia      3-2 Pet.Târgovişte
   [Movilă 17, Mihalache 22, Pena 28; Popa 15, Godinac 42]
 
-Round 19 
+Round: 19 
 [Mar 9]
 Juventus       0-1 Rapid II
   [Păun 85]
@@ -4330,7 +4325,7 @@ Mâneciu        0-2 Ghimbav
 Predeal        1-0 Petrolul II
   [Harap 75]
 
-Round 20 
+Round: 20 
 [Mar 16]
 Rapid II       0-0 Breaza
 Astra          1-0 Pet.Târgovişte
@@ -4348,7 +4343,7 @@ Clinceni       0-0 Predeal
 Concordia      2-0 Conpet
   [Mihalache 43, Pena 78]
 
-Round 21 
+Round: 21 
 [Mar 23]
 Juventus       2-1 Titu
   [Zeciu 11, Drăghici 32; Alexandru 15]
@@ -4367,7 +4362,7 @@ Mâneciu        2-3 Buftea
 [Apr 17,18?]
 Predeal        3-4 Concordia
 
-Round 22 
+Round: 22 
 [Mar 30]
 Rapid II       0-0 Pet.Târgovişte
 Predeal        0-1 Aversa
@@ -4385,7 +4380,7 @@ Moreni         0-1 Conpet
 Concordia      2-0 Astra
   [Pena 32, 79]
 
-Round 23 
+Round: 23 
 [Apr 6]
 Juventus       3-1 Petrolul II
   [Rotaru 8, 16, Antal 41; Chiriţă 85]
@@ -4405,7 +4400,7 @@ Breaza         1-0 Buftea
 Mâneciu        2-2 Clinceni
   [Cernea 37pen, C.Stoian 47; Willy 75, E.Daniel 80]
 
-Round 24 
+Round: 24 
 [Apr 13]
 Rapid II       2-2 Astra
   [Pivniceru 25, Răduţă 27; Târşoreanu 52, Păuna 59]
@@ -4423,7 +4418,7 @@ Aversa         1-1 1 Decembrie
 Concordia      4-2 Moreni
   [Pena 20pen, 35pen, Păun 56, Ciochină 65; Enache 72pen, Dumitrache 82]
 
-Round 25 
+Round: 25 
 [Apr 20]
 Juventus       3-0 Predeal
   [Cl.Tudor 11, Rodaru 36, Antal 66]
@@ -4443,7 +4438,7 @@ Mâneciu        1-5 Aversa
 Breaza         1-1 Clinceni
   [Turiac 66pen; Mincu 78]
 
-Round 26 [Apr 24]
+Round: 26 [Apr 24]
 Ghimbav        2-0 Moreni
   [Gall 15, Mită 32]
 Predeal        0-1 Breaza
@@ -4461,7 +4456,7 @@ Concordia      1-1 Rapid II
 Aversa         2-3 Juventus
   [Ioniţă 17, Sârbu 60; Tudor 3, 30, Rusen 63]
 
-Round 27 
+Round: 27 
 [Apr 27]
 Rapid II       1-2 Ghimbav
   [Păun 65pen; Dragoş 37, Strătilă 71]
@@ -4480,7 +4475,7 @@ Mâneciu        0-5 Concordia
 Breaza         3-1 Aversa
   [Răuţă 10, Turian 30 pen, Vasilescu 80; Voicu 78]
 
-Round 28 
+Round: 28 
 [May 4]
 Predeal        3-0 Pet.Târgovişte
   [Kaicsa 7, Sima 60, Fodor 85]
@@ -4500,7 +4495,7 @@ Mâneciu        1-2 Juventus
 Concordia      4-1 Ghimbav
   [D.Movilă 25, 30, 37, Pena 41; Strătilă 79]
 
-Round 29 [May 8]
+Round: 29 [May 8]
 Rapid II       0-0 Buftea
 Juventus       2-1 Concordia
   [T.Paul 78, Preda 90+4; I.Nae 90+3]
@@ -4517,7 +4512,7 @@ Moreni         0-1 Petrolul II
 Pet.Târgovişte 1-3 Aversa
   [Kallai 70; Gabor 25, Zaharia 48, Stârpici 83]
 
-Round 30 
+Round: 30 
 [May 11]
 Juventus       3-0 Breaza
   [Feleaga 10pen, Zamfirescu 53, Cl.Tudor 81]
@@ -4537,7 +4532,7 @@ Concordia      4-1 Titu
 Aversa         1-0 Conpet
   [Stârpici 17]
 
-Round 31 
+Round: 31 
 [May 18]
 Rapid II       1-0 Clinceni
   [T.Alin 68pen]
@@ -4557,7 +4552,7 @@ Pet.Târgovişte 0-1 Mâneciu
 Concordia      5-2 Breaza
   [Ciochină 30, 41, Pena 10, Marin 60, Movilă 86; Răuţă 75, Vasilescu 80]
 
-Round 32 [May 25]
+Round: 32 [May 25]
 Juventus       3-1 Pet.Târgovişte
   [Cl.Tudor 16, 75, Zamfirescu 42; Stoica 30]
 Predeal        0-1 Rapid II
@@ -4574,7 +4569,7 @@ Aversa         5-1 Moreni
   [Zaharia 41, Ioniţă 43, Goga 55, 85, Stancu 80; G.Petre 65]
 Mâneciu        0-0 Conpet
 
-Round 33 
+Round: 33 
 [Jun 1]
 Rapid II       3-3 Aversa
   [Răduţă 25, Crăciun 65pen, Creţu 77; Vlada 30, Surugiu 35, Stârpici 50]
@@ -4594,7 +4589,7 @@ Pet.Târgovişte 0-1 Breaza
 Buftea         3-0 Petrolul II
   [Chiţu 53, Popa 70, Păun 79]
 
-Round 34 [Jun 8]
+Round: 34 [Jun 8]
 Juventus       1-1 Astra
   [Zamfirescu 33; G.Radu 73]
 Predeal        4-0 Titu
@@ -4642,7 +4637,7 @@ Final Table:
 
 Seria 4
 
-Round 1 
+Round: 1 
 [Aug 11]
 Armata Craiova 1-0 Mătăsari       
   [Mandea 57]
@@ -4662,7 +4657,7 @@ Costeşti       2-1 Alro
 Roşiori        0-2 Motru          
 Florea Voicilă 0-1 Vulcan         
 
-Round 2 
+Round: 2 
 [Aug 18]
 Vulcan         1-0 Ţicleni        
   [Epure 32]
@@ -4680,7 +4675,7 @@ Alro           2-1 Armata Craiova
 Mătăsari       2-1 Mehedinţi      
 Severnav       4-1 Chimia Craiova 
 
-Round 3 [Aug 22]
+Round: 3 [Aug 22]
 Mehedinţi      0-1 Armata Craiova 
   [Mandea 44pen]
 Chimia Craiova 3-0 Motru          
@@ -4700,7 +4695,7 @@ Florea Voicilă 1-0 Mătăsari
 Costeşti       0-1 Severnav       
   [Ignat 87pen]
 
-Round 4
+Round: 4
 [Aug 25]
 Armata Craiova 2-1 Florea Voicilă
   [Răduţ 1, Mandea 40; I.Voicilă 65]
@@ -4717,7 +4712,7 @@ Alro           0-2 Mehedinţi
 Mătăsari       2-0 Ţicleni
 Severnav       2-1 Calafat        
 
-Round 5
+Round: 5
 [Sep 1]
 Chimia Craiova 1-3 Corabia
   [Coancă 42; M.Dima 8, C.Frunză 12, Tache 79]
@@ -4735,7 +4730,7 @@ Roşiori        2-0 Uricani
 Severnav       1-0 Alro Slatina
 Florea Voicilă 1-2 Mehedinţi
 
-Round 6 
+Round: 6 
 [Sep 8]
 Armata Craiova 2-1 Podari
   [Mandea 65, 77; Epure 90+1]
@@ -4751,7 +4746,7 @@ Motru          4-1 Severnav
 Alro Slatina   1-0 Florea Voicilă
 Mătăsari       1-0 Roşiori
 
-Round 7 
+Round: 7 
 [Sep 15]
 Chimia Craiova 3-1 Uricani
   [S.Chivu 13, 17, 74; Istvan 57]
@@ -4772,7 +4767,7 @@ Severnav       1-2 Rovinari
 Podari         2-0 Mehedinţi
   [Epure 45, Niţă 65]
 
-Round 8 
+Round: 8 
 [Sep 22]
 Armata Craiova 1-1 Oltul Slatina
   [Iubis 25; E.Barbu 90pen]
@@ -4794,7 +4789,7 @@ Mătăsari       1-0 Chimia Craiova
 Florea Voicilă 1-0 Podari
   [I.Voicilă 50]
 
-Round 9 
+Round: 9 
 [Sep 29]
 Chimia Craiova 1-4 Armata Craiova
   [A.Popa 58; Răduţ 3, Mandea 14, Stamin 42, Turcilă 47]
@@ -4816,7 +4811,7 @@ Roşiori        1-0 Florea Voicilă
 Severnav       1-0 Vulcan
   [Bilavu 75pen]
 
-Round 10 
+Round: 10 
 [Oct 6]
 Armata Craiova 1-1 Costeşti
   [Turcilă 86; B.Marin 75]
@@ -4838,7 +4833,7 @@ Mătăsari       1-0 Calafat
 Florea Voicilă 2-1 Oltul Slatina
   [Pârzolea 60, D.Voicilă 80pen; Sterie 10]
 
-Round 11 
+Round: 11 
 [Oct 13]
 Chimia Craiova 2-1 Florea Voicilă
   [Cârciumaru 9, Gh.Ilie 69; Voicilă 76]
@@ -4861,7 +4856,7 @@ Roşiori        0-1 Podari
 Severnav       2-0 Mătăsari
   [Jenaru 30, 65]
 
-Round 12 
+Round: 12 
 [Oct 20]
 Armata Craiova 3-4 Severnav
   [Burada 63, Stănculescu 71, Răduţ 90+1; Almani 8, 10, Ignat 35, Moraru 87]
@@ -4880,7 +4875,7 @@ Alro Slatina   0-0 Roşiori
 Mătăsari       0-2 Motru
 Florea Voicilă 3-2 Costeşti
 
-Round 13 
+Round: 13 
 [Oct 27]
 Vulcan         0-1 Alro Slatina
   [Calotescu 80]
@@ -4902,7 +4897,7 @@ Rovinari       0-2 Mătăsari
 Severnav       1-2 Mehedinţi
   [V.Moraru 77; Hardău 6, 55]
 
-Round 14 
+Round: 14 
 [Nov 3]
 Armata Craiova 1-0 Rovinari
   [Arcanu 37og]
@@ -4923,7 +4918,7 @@ Mehedinţi      1-0 Motru
 Mătăsari       1-0 Corabia
   [Dincă 9]
 
-Round 15 
+Round: 15 
 [Nov 10]
 Vulcan         1-1 Mătăsari
   [Konycsa 87; Iovan 90+1]
@@ -4943,7 +4938,7 @@ Severnav       4-1 Ţicleni
   [Tufar 32, 83, Jenaru 35, 48; Moşmonea 76]
 Costeşti       0-0 Roşiori
 
-Round 16 
+Round: 16 
 [Nov 17]
 Armata Craiova awd Vulcan             [awarded 3-0, originally 3-1]
   [Burada 25, B.Florin 26, Mandea 65; Plăiaşu 58]
@@ -4964,7 +4959,7 @@ Mătăsari       3-1 Uricani
 Florea Voicilă 0-1 Rovinari
   [Vidakovic 79]
 
-Round 17 
+Round: 17 
 [Nov 24]
 Vulcan         1-1 Mehedinţi
   [Konycska 86; Troacă 80]
@@ -4985,7 +4980,7 @@ Severnav       4-2 Roşiori
   [Jenaru 30, 47, Moraru 55, 59; Ţugurel 15, Olteanu 70]
 Costeşti       0-0 Chimia Craiova
 
-Round 18 
+Round: 18 
 [Mar 2]
 Vulcan         1-1 Florea Voicilă
   [Miculescu 75pen; I.Mihai 78]
@@ -5007,7 +5002,7 @@ Mătăsari       2-0 Armata Craiova
 Severnav       2-0 Oltul Slatina
   [L.Stroescu 69pen, Manolache 76og]
 
-Round 19 
+Round: 19 
 [Mar 9]
 Armata Craiova 2-0 Alro Slatina
   [Fl.Bogdan 55, Bobonete 80]
@@ -5028,7 +5023,7 @@ Podari         1-0 Corabia
 Florea Voicilă 1-1 Uricani
   [Voicilă 75; Stancu 86]
 
-Round 20 
+Round: 20 
 [Mar 16]
 Armata Craiova 0-0 Mehedinţi
 Vulcan         1-0 Podari
@@ -5048,7 +5043,7 @@ Mătăsari       2-1 Florea Voicilă
 Severnav       4-0 Costeşti
   [Bilavu 13pen, Bruca 21, Uşurelu 34, Almani 85]
 
-Round 21 
+Round: 21 
 [Mar 23]
 Mehedinţi      1-0 Alro Slatina
   [Galbenu 18]
@@ -5069,7 +5064,7 @@ Podari         3-1 Uricani
 Florea Voicilă 1-0 Armata Craiova
   [Mihai 53]
 
-Round 22 
+Round: 22 
 [Mar 30]
 Armata Craiova 0-0 Ţicleni
 Vulcan         2-0 Oltul Slatina
@@ -5089,7 +5084,7 @@ Alro Slatina   1-0 Severnav
 Mătăsari       2-0 Podari
   [Lupşoiu 20, Lăcătuşu 36-pen]
 
-Round 23 
+Round: 23 
 [Apr 6]
 Chimia Craiova 1-0 Vulcan
   [S.Chivu 56]
@@ -5108,7 +5103,7 @@ Severnav       0-0 Motru
 Podari         3-1 Armata Craiova
 Florea Voicilă 0-0 Alro Slatina
 
-Round 24 
+Round: 24 
 [Apr 13]
 Armata Craiova 0-3 Roşiori
   [Onuţ 11, 48, Corcoveanu 30]
@@ -5130,7 +5125,7 @@ Mătăsari       1-0 Oltul Slatina
 Florea Voicilă 5-0 Ţicleni
   [I.Voicilă 10, I.Mihai 14, Priminescu 35, Lucan 45, Mihalache 75]
 
-Round 25 
+Round: 25 
 [Apr 20]
 Chimia Craiova awd Mătăsari           [awarded 0-3, originally 3-1]
   [Dincă 9og, Băluţoiu 47, Dragomir 65; Lătaşu 90pen]
@@ -5152,7 +5147,7 @@ Severnav       2-1 Corabia
 Podari         2-2 Florea Voicilă
   [Turculeţ 3, Rioşeanu 80; David 15, I.Mihai 70]
 
-Round 26 [Apr 24]
+Round: 26 [Apr 24]
 Alro Slatina   1-0 Rovinari
   [Gâlcă 68]
 Armata Craiova 3-1 Chimia Craiova
@@ -5169,7 +5164,7 @@ Mătăsari       4-0 Costeşti
   [Roncea 30, Roman 40; Niţă 20]
 Florea Voicilă 0-0 Roşiori
 
-Round 27 
+Round: 27 
 [Apr 27]
 Chimia Craiova 0-2 Mehedinţi
   [Boboescu 23, 49]
@@ -5191,7 +5186,7 @@ Severnav       5-0 Uricani
 Podari         1-1 Alro Slatina
   [Epure 75; Gâlcă 82]
 
-Round 28 
+Round: 28 
 [May 4]
 Armata Craiova 0-0 Calafat
 Vulcan         1-3 Rovinari
@@ -5210,7 +5205,7 @@ Florea Voicilă 1-2 Chimia Craiova
   [David 70; Coancă 17, Irimescu 25]
 Ţicleni        0-3 Oltul Slatina      [awarded]
 
-Round 29 [May 8]
+Round: 29 [May 8]
 Motru          5-0 Mătăsari
   [Nueleanu 7, Apostol 14, Soo 35, Istinie 63, Ioniţă 72]
 Chimia Craiova 2-1 Ţicleni
@@ -5229,7 +5224,7 @@ Severnav       1-0 Armata Craiova
   [Bilavu 49]
 Costeşti       0-0 Florea Voicilă
 
-Round 30
+Round: 30
 [May 11]
 Armata Craiova 1-0 Motru
   [Stănculescu 52]
@@ -5250,7 +5245,7 @@ Podari         1-0 Chimia Craiova
 Florea Voicilă awd Calafat            [awarded 3-0, originally 1-4]
   [I.Mihai 80; Sârbu 28, 35, 40, E.Iancu 58]
 
-Round 31 
+Round: 31 
 [May 18]
 Vulcan         1-0 Uricani
   [Miculescu 80]
@@ -5272,7 +5267,7 @@ Alro Slatina   4-0 Oltul Slatina
 Severnav       4-2 Florea Voicilă
   [Ivan 20, Stroescu 22pen, Jenaru 33, Moraru 72; Voicilă 78, Mihalache 88]
 
-Round 32
+Round: 32
 [May 25]
 Armata Craiova 2-0 Corabia
   [Turcilă 31, Bobonete 84]
@@ -5294,7 +5289,7 @@ Mătăsari       2-0 Vulcan
 Podari         4-1 Calafat
   [Turculeţ 15, Epure 40, Anuţa 63, Oprea 76; Al.Sârbu 28]
 
-Round 33 
+Round: 33 
 [Jun 1]
 Vulcan         1-0 Armata Craiova
   [Miculescu 12]
@@ -5316,7 +5311,7 @@ Alro Slatina   2-0 Chimia Craiova
 Severnav       2-0 Podari
   [Uşurelu 43, Stroescu 84pen]
 
-Round 34 [Jun 8]
+Round: 34 [Jun 8]
 Armata Craiova 9-0 Uricani
   [Burada 24, Bobonete 25, 36, Turcilă 45, Marinică 56, 64, S.Bogdan 67, Răduţ 73, 90]
 Mehedinţi      3-0 Vulcan
@@ -5364,7 +5359,7 @@ Final Table:
 
 Seria 5
 
-Round 1 
+Round: 1 
 [Aug 11]
 Oltchim        1-3 Turda          
   [C.Popa 40; Albinaru 15, Luca 50, Stancu 90]
@@ -5385,7 +5380,7 @@ Reghin         0-0 Sparta Mediaş
 Ocna-Mureş     4-1 Beclean
   [Periat 7, Popa 43, Bean 64, Râşniţă 77; Drian 27]
 
-Round 2 [Aug 18]
+Round: 2 [Aug 18]
 FC Sibiu       0-1 Atletic Sibiu  
   [Ad.Popa 54pen]
 SSP Cluj       0-1 Ocna-Mureş
@@ -5405,7 +5400,7 @@ Deva           1-0 Blaj
 Maris TgM      1-1 Reghin         
   [L.Pop 75; Orban 34]
 
-Round 3 [Aug 22]
+Round: 3 [Aug 22]
 Oltchim        4-0 Beclean        
   [Preda 34, 59, 82, Creangă 40]
 Ocna-Mureş     1-0 Blaj           
@@ -5423,7 +5418,7 @@ Orăştie        1-2 Sebeş
   [Buciuman 73pen; Poienar 20, Benga 37]
 U Cluj II      0-0 Sparta Mediaş
 
-Round 4 [Aug 25]
+Round: 4 [Aug 25]
 FC Sibiu       1-2 Bistriţa II    
   [Purima 75; V.Florea 40, Borş 80]
 SSP Cluj       1-2 Oltchim        
@@ -5442,7 +5437,7 @@ Deva           1-0 Ocna-Mureş
   [Bichiş 52pen]
 Maris TgM      0-0 U Cluj II
 
-Round 5 
+Round: 5 
 [Sep 1]
 Oltchim        1-0 Blaj
   [Preda 5]
@@ -5463,7 +5458,7 @@ U Cluj II      1-0 FC Sibiu
 [Sep 2]
 Reghin         2-0 Sebeş
 
-Round 6 [Sep 8]
+Round: 6 [Sep 8]
 FC Sibiu       3-0 Sovata
   [B.Pop 4, Viţea 12, Cozma 65]
 Ocna-Mureş     1-0 Oltchim
@@ -5483,7 +5478,7 @@ Deva           3-0 Trans-Sil
 Maris          1-1 Sparta
   [Turcu 65; Paina 39]
 
-Round 7 
+Round: 7 
 [Sep 15]
 Oltchim        2-1 Trans-Sil
   [Preda 50, Creangă 70; Puşcaş 15]
@@ -5502,7 +5497,7 @@ U Cluj II      2-1 Sebeş
 [Sep 16]
 Reghin         2-0 SSP Cluj
 
-Round 8 [Sep 22]
+Round: 8 [Sep 22]
 FC Sibiu       0-3 Maris
   [Rus 47, Astafei 71, 90]
 Ocna-Mureş     2-1 Atletic Sibiu
@@ -5522,7 +5517,7 @@ Blaj           2-0 Reghin
 Deva           4-0 Oltchim
   [Bichiş 17, Lintaru 20, 66, Velea 70]
 
-Round 9 [Sep 29]
+Round: 9 [Sep 29]
 FC Sibiu       0-0 Deva
 Bistriţa II    1-1 Blaj
   [Cărjan 85; Dulcea 86]
@@ -5538,7 +5533,7 @@ Orăştie        1-1 Oltchim
 U Cluj II      1-2 SSP Cluj
   [I.Szilagyi 30; Nicula 24, Ghişa 85]
 
-Round 10 [Oct 6]
+Round: 10 [Oct 6]
 Oltchim        0-1 Atletic Sibiu
   [Păpuşoi 32]
 Ocna-Mureş     1-1 Bistriţa II
@@ -5557,7 +5552,7 @@ Blaj           1-0 U Cluj II
 Deva           3-0 Orăştie
   [Lintaru 12, Ciocaina 31, Bichiş 40]
 
-Round 11 [Oct 13]
+Round: 11 [Oct 13]
 FC Sibiu       1-1 Sebeş
   [Grădinaru 11 pen; Pienariu 61]
 Bistriţa II    0-0 Trans-Sil
@@ -5575,7 +5570,7 @@ Atletic Sibiu  2-0 Orăştie
 U Cluj II      3-0 Ocna-Mureş
   [Gherman 15, Timoce 31, Petrescu 61]
 
-Round 12 [Oct 20]
+Round: 12 [Oct 20]
 Oltchim        1-1 Bistriţa II
   [Preda 70; Bozeşan 9]
 Ocna-Mureş     6-0 Sovata
@@ -5594,7 +5589,7 @@ Deva           1-0 Atletic Sibiu
 Orăştie        3-5 Reghin
   [Noja 2, 44, Bozde 7; Moldovan 9, 13, Buzatu 27og, Orban 75, Truţă 81]
 
-Round 13 [Oct 27]
+Round: 13 [Oct 27]
 FC Sibiu       3-0 SSP Cluj
   [Purima 3, Grădinar 10, B.Pop 23]
 Bistriţa II    1-0 Orăştie
@@ -5614,7 +5609,7 @@ U Cluj 1919    1-1 Oltchim
 Turda          6-0 Beclean
   [Dida 2, 69, Andone 61, Noaţă 79, Luca 83, 85]
 
-Round 14 [Nov 3]
+Round: 14 [Nov 3]
 Oltchim        0-1 Sovata
   [Vancea 5]
 Ocna-Mureş     2-1 Maris
@@ -5633,7 +5628,7 @@ Orăştie        2-2 U Cluj 1919
 Beclean        2-2 Sebeş
   [Bojan 25, Pop 87; Bunceag 33, Şuteu 85]
 
-Round 15 [Nov 10]
+Round: 15 [Nov 10]
 FC Sibiu       1-1 Ocna-Mureş
   [Grădinar 8; Maier 14]
 Bistriţa II    1-0 Reghin
@@ -5652,7 +5647,7 @@ U Cluj 1919    0-0 Atletic Sibiu
 Deva           5-0 Beclean
   [Lintaru 16, 26, 37, Ceauşu 39, 78]
 
-Round 16 [Nov 17]
+Round: 16 [Nov 17]
 Oltchim        1-1 Maris
   [Preda 21; Astafei 60]
 Ocna-Mureş     1-1 Turda
@@ -5672,7 +5667,7 @@ Atletic Sibiu  1-3 Sovata
 Orăştie        2-1 Sparta
   [Blaga 27pen, Boyte 60; Biro 20]
 
-Round 17 [Nov 24]
+Round: 17 [Nov 24]
 Beclean        3-3 Blaj
   [Brumă 3, Fl.Pop 19, 89; Briciu 24pen, 44, Micu 60]
 Sebeş          0-0 Ocna-Mureş
@@ -5689,7 +5684,7 @@ U Cluj 1919    0-2 Bistriţa II
   [V.Florea 60, Cârjan 87]
 FC Sibiu       1-2 Oltchim
 
-Round 18 [Mar 2]
+Round: 18 [Mar 2]
 FC Sibiu       1-3 Orăştie
   [Tănase 18; A.Roja 53, 83, Danciu 82]
 SSP Cluj       2-0 Blaj
@@ -5707,7 +5702,7 @@ Maris          2-1 Atletic Sibiu
   [Astasei 35, Ignat 77; Galea 40]
 Sebeş          5-3 Trans-Sil
 
-Round 19 [Mar 9]
+Round: 19 [Mar 9]
 Oltchim        1-0 Sebeş
   [Medescu 32]
 Ocna-Mureş     2-1 SSP Cluj
@@ -5727,7 +5722,7 @@ Orăştie        0-2 Turda
 U Cluj 1919    1-0 Sovata
   [Szilaghy 58]
 
-Round 20 [Mar 16]
+Round: 20 [Mar 16]
 FC Sibiu       2-1 Reghin
   [R.Dan 44og, Mila 90; Moldovan 75]
 SSP Cluj       2-2 Trans-Sil
@@ -5746,7 +5741,7 @@ Deva           1-0 Sovata
   [Zaiaţi 33]
 Maris          0-0 Bistriţa II
 
-Round 21 [Mar 23]
+Round: 21 [Mar 23]
 Oltchim        6-0 SSP Cluj
   [Negrescu 7, Glăvan 14pen, Medescu 25, Preda 35, Creangă 58, Nicolici 75]
 Ocna-Mureş     1-1 Deva
@@ -5765,7 +5760,7 @@ Orăştie        2-3 Beclean
 U Cluj 1919    1-1 Maris
   [Gabor 48; Nagy 10pen]
 
-Round 22 [Mar 30]
+Round: 22 [Mar 30]
 FC Sibiu       1-2 U Cluj 1919
   [Anca 89; Mănăşturean 22, Făţan 75]
 Ocna-Mureş     1-1 Trans-Sil
@@ -5785,7 +5780,7 @@ Deva           2-0 Sparta
 Maris          2-0 Sovata
   [Şanta 34, Astafei 80]
 
-Round 23 [Apr 6]
+Round: 23 [Apr 6]
 Oltchim        1-0 Ocna-Mureş
   [Negrescu 55]
 Bistriţa II    2-1 Sebeş
@@ -5804,7 +5799,7 @@ Orăştie        1-2 Blaj
 U Cluj 1919    0-2 Turda
   [Albinaru 6, Didă 45pen]
 
-Round 24 [Apr 13]
+Round: 24 [Apr 13]
 FC Sibiu       0-2 Sparta Mediaş
   [Bunea 33, Rău 88]
 Ocna-Mureş     2-0 Orăştie
@@ -5823,7 +5818,7 @@ Blaj           1-0 Atletic Sibiu
 Deva           4-1 Maris
   [Vârtic 8, Lintaru 27, Szemely 45, Biţiş 67; Ignat 39]
 
-Round 25 [Apr 20]
+Round: 25 [Apr 20]
 Oltchim        0-0 Deva
 Bistriţa II    2-3 SSP Cluj
   [Kaiser 54, Curtuiuş 86; Gabor 5, Nicula 40, Gaşpar 90]
@@ -5840,7 +5835,7 @@ Orăştie        0-1 Trans-Sil
 U Cluj 1919    3-0 Beclean
   [Faur 30, Szilaghy 55, Dimicher 90]
 
-Round 26 [Apr 24]
+Round: 26 [Apr 24]
 Oltchim        4-0 Orăştie
   [Glăvan 5, Preda 10, 15, Şorega 67]
 Ocna-Mureş     1-0 Reghin
@@ -5860,7 +5855,7 @@ Blaj           4-0 Bistriţa II
 Deva           7-0 FC Sibiu
   [Biţiş 3, 10, 13, 68, 71, 78, Vălăşutean 36]
 
-Round 27 [Apr 27]
+Round: 27 [Apr 27]
 FC Sibiu       0-5 Turda
   [Luca 28, Cl.Balaci 30pen, 35, 72, Tarcea 58]
 Bistriţa II    1-1 Ocna-Mureş
@@ -5880,7 +5875,7 @@ Orăştie        1-0 Deva
 U Cluj 1919    3-1 Blaj
   [Moldovan 5, Turbuţan 35, Kim 78; Gorga 55]
 
-Round 28 [May 4]
+Round: 28 [May 4]
 Oltchim        2-0 Reghin
   [Creangă 60, Şorega 85]
 Ocna-Mureş     1-0 U Cluj 1919
@@ -5898,7 +5893,7 @@ Deva           0-0 Turda
 Orăştie        2-1 Atletic Sibiu
   [Boite 30, Manole 90; Fânăţean 10]
 
-Round 29 
+Round: 29 
 [May 8]
 Bistriţa II    0-0 Oltchim
 Sparta Mediaş  4-1 Blaj
@@ -5917,7 +5912,7 @@ U Cluj 1919    3-0 Trans-Sil
   [Şuşman 7, Silaghi 38, Moldovan 55]
 FC Sibiu       3-0 Beclean            [awarded]
 
-Round 30 [May 11]
+Round: 30 [May 11]
 Oltchim        3-2 U Cluj 1919
   [Preda 5, 43, Pană 38; Faur 23, Turbuţan 84]
 Ocna-Mureş     1-0 Sparta Mediaş
@@ -5937,7 +5932,7 @@ Atletic Sibiu  0-1 Reghin
 Orăştie        3-1 Bistriţa II
   [Buciuman 22, 50, Manolea 71; Curtuiuş 60 ]
 
-Round 31 [May 18]
+Round: 31 [May 18]
 FC Sibiu       1-4 Blaj
   [Tănase 80; Iorga 55, 59, Muscă 58, 65]
 Bistriţa II    0-0 Atletic Sibiu
@@ -5956,7 +5951,7 @@ Maris          2-1 Ocna-Mureş
 U Cluj 1919    4-1 Orăştie
   [Silaghi 35, 88, Faur 55, Moldovan 78; Manole 90]
 
-Round 32 [May 25]
+Round: 32 [May 25]
 Oltchim        0-0 Sparta Mediaş
 Ocna-Mureş     2-0 FC Sibiu
   [Neagu 25, Pereat 48]
@@ -5975,7 +5970,7 @@ Atletic Sibiu  0-2 U Cluj 1919
 Orăştie        1-2 Sovata
   [Danciu 81; Vancea 38, 80]
 
-Round 33 [Jun 1]
+Round: 33 [Jun 1]
 Beclean        0-3 SSP Cluj           [awarded]
 FC Sibiu       3-3 Trans-Sil
   [Micu 50, Făţan 52, Hadar 55; Stoica 20, Breaz 68, Puşcaş 85]
@@ -5992,7 +5987,7 @@ Maris          2-0 Oltchim
   [Nistor 2, R.Pop 76]
 U Cluj 1919    0-0 Reghin
 
-Round 34 [Jun 8]
+Round: 34 [Jun 8]
 Blaj           3-0 Beclean            [awarded]
 Oltchim        4-0 FC Sibiu
   [Şorega 2, 19, 61, 85]
@@ -6041,7 +6036,7 @@ Final Table:
 
 Seria 6
 
-Round 1 [Aug 11]
+Round: 1 [Aug 11]
 UMT            1-2 Beiuş          
   [Asultanei 85; Oroş 20, Bălan 67]
 Giroc          0-0 Olimpia        
@@ -6060,7 +6055,7 @@ Albina         3-1 Petreşti
 ACU Arad       0-1 Calor          
   [Meszaros 24]
 
-Round 2 
+Round: 2 
 [Aug 18]
 Olimpia        2-0 Someşul        
   [Ţuţuraş 44, Puţi 90]
@@ -6079,7 +6074,7 @@ Liberty        2-1 Giroc
 Carei          1-1 Albina         
 Petreşti       0-0 ACU Arad
 
-Round 3 [Aug 22]
+Round: 3 [Aug 22]
 Sânnicolau     3-2 Gloria Arad    
   [Bura 61, Radu 67, Ignea 84; Ignea 17og, Talpeş 20]
 UMT            3-1 Ineu
@@ -6099,7 +6094,7 @@ Albina         2-0 Olimpia
 ACU Arad       0-1 Carei          
   [Dascăl 4]
 
-Round 4 
+Round: 4 
 [Aug 25]
 Olimpia        3-0 ACU Arad
   [Solomeş 8, Puţ 35, 50]
@@ -6118,7 +6113,7 @@ Liberty        1-1 Albina
 Carei          0-0 Nădlac
 Petreşti       1-5 Macea
 
-Round 5 
+Round: 5 
 [Sep 1]
 Sânnicolau     0-0 Petreşti
 Giroc          3-2 Ineu
@@ -6137,7 +6132,7 @@ Albina         4-1 Beiuş
 [Sep 2]
 ACU Arad       0-0 Liberty
 
-Round 6 
+Round: 6 
 [Sep 7]
 Ineu           1-2 Someşul
   [Almăşan 21pen; Petcuţ 1, Varga 63]
@@ -6159,7 +6154,7 @@ Carei          1-2 Sânnicolau
   [Dascăl 45; Bura 30, Bogdan 90]
 Petreşti       0-0 Calor
 
-Round 7 
+Round: 7 
 [Sep 15]
 Sânnicolau     0-0 Olimpia
 Giroc          1-1 Felix
@@ -6178,7 +6173,7 @@ ACU Arad       1-0 Odoreu
 Petreşti       1-2 Gloria Arad
   [? 40pen; B.Drecin 15, A.Mihai 72pen]
 
-Round 8 
+Round: 8 
 [Sep 22]
 Olimpia        0-0 Calor
 Odoreu         2-1 Nădlac
@@ -6199,7 +6194,7 @@ Liberty        1-2 Sânnicolau
 Carei          3-1 Petreşti
   [Fofor 77, 88, Szabo 80; Tempfli 68]
 
-Round 9 
+Round: 9 
 [Sep 29]
 Sânnicolau     5-1 Beiuş
   [Bura 40, Hormei 65, Radu 71, Bota 74, Bogdan 83; Oraş 24]
@@ -6219,7 +6214,7 @@ Petreşti       0-0 Olimpia
 ACU Arad       0-2 UMT
   [Drăghici 16, 88]
 
-Round 10 [Oct 6]
+Round: 10 [Oct 6]
 Olimpia        1-1 Carei
   [Puţi 58; Lung 46og]
 Odoreu         1-1 Sânnicolau
@@ -6239,7 +6234,7 @@ Gloria Arad    3-4 Someşul
 Liberty        4-0 Petreşti
   [Aquino 7, Bud 45, Petrescu 65, Coca 75]
 
-Round 11
+Round: 11
 [Oct 13]
 Olimpia        3-1 Gloria Arad
   [Soporan 13, 47, Puţi 84; Negru 37]
@@ -6261,7 +6256,7 @@ Petreşti       2-1 Beiuş
 ACU Arad       2-0 Giroc
   [Iancu 42, Bogoşel 70 pen]
 
-Round 12 [Oct 20]
+Round: 12 [Oct 20]
 Odoreu         0-2 Petreşti
   [Tempfli 72, Avram 76]
 UMT            0-0 Sânnicolau
@@ -6279,7 +6274,7 @@ Gloria Arad    0-1 Albina
   [Vulpescu 90+1]
 Liberty        5-0 Olimpia
 
-Round 13 
+Round: 13 
 [Oct 27]
 Sânnicolau     2-0 Felix
   [Tulcan 25, Bura 70]
@@ -6301,7 +6296,7 @@ Carei          1-0 Odoreu
 Petreşti       0-1 Ineu
   [Gligor 75]
 
-Round 14 
+Round: 14 
 [Nov 3]
 UMT            3-1 Petreşti
   [Drăghici 5, 20, Asoltanei 60; Salai 65]
@@ -6321,7 +6316,7 @@ Odoreu         2-3 Olimpia
 [Nov 4]
 ACU Arad       0-3 Gloria Arad
 
-Round 15 
+Round: 15 
 [Nov 10]
 Sânnicolau     1-2 Someşul
   [Tulcan 90; Pintecuş 67, Beliu 74]
@@ -6340,7 +6335,7 @@ Olimpia        0-0 Ineu
 Carei          1-2 UMT
 Petreşti       0-2 Felix
 
-Round 16 [Nov 17]
+Round: 16 [Nov 17]
 Odoreu         awd Beiuş              [awarded 3-0, originally 0-2]
   [Suciu 8, Mangra 20]
 UMT            6-0 Olimpia
@@ -6360,7 +6355,7 @@ Albina         1-1 Sânnicolau
 ACU Arad       1-1 Macea
   [Păşcălău 68pen; Pavel 15]
 
-Round 17 
+Round: 17 
 [Nov 24]
 Olimpia        1-1 Felix
   [Horvath 22; Morna 90+5]
@@ -6380,7 +6375,7 @@ Macea          3-0 Nădlac
 Carei          3-1 Giroc
 Petreşti       0-1 Someşul
 
-Round 18 
+Round: 18 
 [Mar 2]
 Sânnicolau     1-0 Nădlac
   [Tulcan 49]
@@ -6402,7 +6397,7 @@ Olimpia        1-1 Giroc
 Petreşti       0-3 Albina
   [Bota 29, Luca 39, Luţaş 78pen]
 
-Round 19
+Round: 19
 [Mar 9]
 UMT            3-1 Odoreu
   [Fecior 13og, Hecsko 35, Tegea 85og; Demian 70]
@@ -6424,7 +6419,7 @@ Ineu           2-1 Gloria Arad
 ACU Arad       6-0 Petreşti
   [Miţiţi 18, 37, Cenan 24, Roşca 75, Furcaş 78, Stoian 90]
 
-Round 20 
+Round: 20 
 [Mar 16]
 Odoreu         1-1 Felix
   [Mihovici 35; Fercuţa 4]
@@ -6445,7 +6440,7 @@ Ineu           1-1 UMT
 Petreşti       0-1 Nădlac
   [Pavel 11]
 
-Round 21 
+Round: 21 
 [Mar 23]
 Sânnicolau     2-0 Calor
   [Miculescu 30, Utfineanţ 60]
@@ -6465,7 +6460,7 @@ Albina         0-1 Liberty
 [date?]
 ACU Arad       4-1 Olimpia       
 
-Round 22 
+Round: 22 
 [Mar 30]
 Odoreu         0-3 Someşul      [wo, Odoreu withrew from the league]
 UMT            2-0 Felix
@@ -6486,7 +6481,7 @@ Ineu           2-3 Giroc
 Petreşti       1-4 Sânnicolau
   [Preg 47; Miculescu 14, 23, 78, C.Radu 81]
 
-Round 23 
+Round: 23 
 [Apr 6]
 Sânnicolau     1-0 Carei
   [Tulcan 33]
@@ -6505,7 +6500,7 @@ Albina         3-0 Odoreu             [awarded]
 [Apr 7]
 ACU Arad       2-0 Beiuş
 
-Round 24 
+Round: 24 
 [Apr 13]
 Odoreu         0-3 ACU Arad           [awarded]
 UMT            2-0 Someşul
@@ -6524,7 +6519,7 @@ Liberty        2-1 Macea
 Olimpia        2-1 Sânnicolau
 Ineu           0-1 Albina
 
-Round 25 
+Round: 25 
 [Apr 20]
 Nădlac         3-0 Odoreu             [awarded]
 Petreşti       0-3 Carei              [awarded]
@@ -6544,7 +6539,7 @@ Albina         2-0 UMT
 ACU Arad       2-1 Ineu
   [Iancu 46, Turcas 63 ; Radut 14]
 
-Round 26 [Apr 24]
+Round: 26 [Apr 24]
 Odoreu         0-3 Macea              [awarded]
 Olimpia        2-0 Petreşti
   [Dănilă 38, 65]
@@ -6562,7 +6557,7 @@ Gloria Arad    0-0 Carei
 Liberty        2-1 Calor
   [Ianc 34pen, Bud 65pen; Staicu 25]
 
-Round 27 
+Round: 27 
 [Apr 27]
 Sânnicolau     3-0 Odoreu             [awarded]
 Carei          2-2 Olimpia
@@ -6581,7 +6576,7 @@ Albina         1-0 Giroc
 Petreşti       0-9 Liberty
 ACU Arad       0-0 Felix
 
-Round 28 
+Round: 28 
 [May 4]
 Odoreu         0-3 Calor              [awarded]
 Felix          1-0 Nădlac
@@ -6601,7 +6596,7 @@ Liberty        3-0 Carei
 Ineu           2-1 Sânnicolau
   [Grozav 43pen, Drăguţ 78; Utfineanţ 53]
 
-Round 29 [May 8]
+Round: 29 [May 8]
 Petreşti       3-0 Odoreu             [awarded]
 Olimpia        2-2 Liberty
   [Mihovici 5, Teghe 42; Chiş 15, Iambor 23]
@@ -6620,7 +6615,7 @@ Albina         2-0 Gloria Arad
 ACU Arad       2-1 Someşul
   [Miţiţi 15, 56; Deliu 41]
 
-Round 30 
+Round: 30 
 [May 11]
 Odoreu         0-3 Carei              [awarded]
 UMT            1-2 Calor
@@ -6640,7 +6635,7 @@ Albina         2-1 ACU Arad
 [May 12]
 Ineu           3-0 Petreşti           [awarded]
 
-Round 31 
+Round: 31 
 [May 18]
 Olimpia        3-0 Odoreu             [awarded]
 Sânnicolau     2-0 Giroc
@@ -6661,7 +6656,7 @@ Macea          1-1 Someşul
 Petreşti       0-8 UMT
   [Drăghici (6), Trandu, Steop]
 
-Round 32 
+Round: 32 
 [May 25]
 Odoreu         0-3 Liberty            [awarded]
 UMT            1-3 Carei
@@ -6681,7 +6676,7 @@ Albina         2-0 Macea
 ACU Arad       2-1 Nădlac
   [Stoian 25, Botea 51; Kukuscka 63]
 
-Round 33 
+Round: 33 
 [Jun 1]
 Beiuş          3-0 Odoreu             [awarded]
 Sânnicolau     3-1 Albina
@@ -6700,7 +6695,7 @@ Olimpia        0-1 UMT
   [Drăghici 51]
 Petreşti       0-7 Giroc
 
-Round 34 [Jun 8]
+Round: 34 [Jun 8]
 Odoreu         awd Gloria Arad        [awarded]
 UMT            2-0 Liberty
 Giroc          3-2 Carei

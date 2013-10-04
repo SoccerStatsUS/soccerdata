@@ -1,6 +1,6 @@
 BlockSource: http://rsssf.com/tablesp/port2012.html
 Season: 2011-2012
-Competitoin: Primeira Liga
+Competition: Primeira Liga
 
 
 * 1.FC do Porto                  30  23  6  1  69-19  75  Champions
@@ -21,7 +21,7 @@ Competitoin: Primeira Liga
 *15.CD Feirense                  30   5  9 16  27-49  24  Relegated
 *16.União de Leiria              30   5  4 21  25-56  19  Relegated
 
-Round 1
+Round: 1
 Date: 8/12/2011
 
 ; Gil Vicente       ; 2-2;    Benfica
@@ -42,7 +42,7 @@ Date: 8/15/2011
 
 ; UD Leiria         ; 1-2;    Académica
 
-Round 2
+Round: 2
 Date: 8/19/2011
 
 ; FC Porto          ; 3-1;    Gil Vicente
@@ -66,7 +66,7 @@ Date: 9/4/2011
 
 ; Nacional          ; 1-4;    Vitoria Guimarães
 
-Round 3
+Round: 3
 Date: 8/27/2011
 
 ; Gil Vicente       ; 2-0;    Académica
@@ -87,7 +87,7 @@ Date: 9/6/2011
 
 ; UD Leiria         ; 2-5;    FC Porto
 
-Round 4
+Round: 4
 Date: 9/9/2011
 
 ; FC Porto          ; 3-0;    Vitoria Setúbal
@@ -108,7 +108,7 @@ Date: 9/12/2011
 
 ; Académica         ; 4-0;    Nacional
 
-Round 5
+Round: 5
 Date: 9/16/2011
 
 ; Gil Vicente       ; 1-1;    Olhanense
@@ -129,7 +129,7 @@ Date: 9/19/2011
 ; Vitoria Guimarães ; 1-1;    SC Braga
 ; Rio Ave           ; 2-3;    Sporting
 
-Round 6
+Round: 6
 Date: 9/23/2011
 
 ; FC Porto          ; 2-2;    Benfica
@@ -150,7 +150,7 @@ Date: 9/26/2011
 
 ; Académica         ; 4-0;    Feirense
 
-Round 7
+Round: 7
 Date: 9/30/2011
 
 ; Vitoria Setúbal   ; 2-1;    Rio Ave
@@ -171,7 +171,7 @@ Date: 10/3/2011
 
 ; Gil Vicente       ; 0-0;    Beira-Mar
 
-Round 8
+Round: 8
 Date: 10/21/2011
 
 ; Paços Ferreira    ; 2-0;    Académica
@@ -192,7 +192,7 @@ Date: 10/24/2011
 
 ; Sporting          ; 6-1;    Gil Vicente
 
-Round 9
+Round: 9
 Date: 10/28/2011
 
 ; FC Porto          ; 3-0;    Paços Ferreira
@@ -213,7 +213,7 @@ Date: 10/31/2011
 
 ; Gil Vicente       ; 0-0;    Maritimo
 
-Round 10
+Round: 10
 Date: 11/4/2011
 
 ; Paços Ferreira    ; 1-5;    Vitoria Guimarães
@@ -231,7 +231,7 @@ Date: 11/6/2011
 ; SC Braga          ; 1-1;    Benfica
 ; Beira-Mar;          2-1;    Feirense
 
-Round 11
+Round: 11
 Date: 11/25/2011
 
 ; Académica         ; 0-1;    Beira-Mar
@@ -252,7 +252,7 @@ Date: 11/28/2011
 
 ; Vitoria Guimarães ; 3-0;    Vitoria Setúbal
 
-Round 12
+Round: 12
 Date: 12/9/2011
 
 ; SC Braga          ; 5-2;    Paços Ferreira
@@ -273,7 +273,7 @@ Date: 12/12/2011
 
 ; Olhanense         ; 0-2;    Académica
 
-Round 13
+Round: 13
 Date: 12/16/2011
 
 ; Benfica           ; 5-1;    Rio Ave
@@ -294,7 +294,7 @@ Date: 12/19/2011
 
 ; Olhanense         ; 3-4;    SC Braga
 
-Round 14
+Round: 14
 Date: 1/6/2012
 
 ; Vitoria Setúbal   ; 1-1;    Académica
@@ -314,7 +314,7 @@ Date: 1/8/2012
 Date: 1/9/2012
 
 ; Beira-Mar;          1-2;    SC Braga
-Final Table:
+
 
 * 1.FC do Porto                  30  23  6  1  69-19  75  Champions
 * 2.SL Benfica                   30  21  6  3  66-27  69
