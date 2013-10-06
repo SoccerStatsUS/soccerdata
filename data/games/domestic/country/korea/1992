@@ -21,7 +21,7 @@ Competition: K-League
  
 Date: 03/28/1992
 
-; Hyundai; Horang-i;    3-1  Yukong Elephants
+; Hyundai Horang-i;    3-1;  Yukong Elephants
   Kim Hyeon-Seok 35, Kim Hyeon-Seok 89, Sin Yeon-Ho 55; Oh Seung-In 82
 
 ; POSCO Atoms        ; 0-0;  Daewoo Royals
@@ -40,7 +40,7 @@ Date: 04/04/1992
  
 Date: 04/11/1992
 
-; Hyundai; Horang-i;    2-2  Daewoo Royals
+; Hyundai Horang-i;    2-2;  Daewoo Royals
   Kim Hyeon-Seok (pk) 18, Kim Hyeon-Seok 89; An Seong-Il 8, An Seong-Il 12
 
 ; POSCO Atoms        ; 1-2;  LG Cheetahs
@@ -66,7 +66,7 @@ Date: 04/18/1992
  
 Date: 04/25/1992
 
-; Hyundai; Horang-i;    1-0  POSCO Atoms
+; Hyundai Horang-i;    1-0;  POSCO Atoms
   Sin Hong-Gi 89;
 
 ; Yukong Elephants   ; 2-1;  LG Cheetahs
@@ -88,7 +88,7 @@ Date: 05/02/1992
 
 Date: 05/09/1992
 
-; Hyundai; Horang-i;    1-1  Ilhwa Chunma                 ; Samcheok
+; Hyundai Horang-i;    1-1;  Ilhwa Chunma                 ; Samcheok
   Gang Jae-Sun 54; Kim I-Ju 56
 
 ; POSCO Atoms        ; 1-0;  Yukong Elephants
@@ -108,11 +108,11 @@ Date: 05/16/1992
 
 Date: 05/20/1992
 
-; Hyundai; Horang-i;    2-1  LG Cheetahs
+; Hyundai Horang-i;    2-1;  LG Cheetahs
   Kim Jong-Geon 22, Jo Geung-Yeon 89; Lim Geun-Jae (pk) 90+
 
 ; Yukong Elephants   ; 1-1;  Daewoo Royals
-  Lee Gwang-Jong 71, Jo Deok-Je 59
+  Lee Gwang-Jong 71; Jo Deok-Je 59
 
 ; POSCO Atoms        ; 0-0;  Ilhwa Chunma
  
@@ -129,7 +129,7 @@ Date: 05/30/1992
 
 Date: 06/06/1992
 
-; Hyundai; Horang-i;    2-1  Yukong Elephants
+; Hyundai Horang-i;    2-1;  Yukong Elephants
   Lee Su-Cheol 47, Sin Hong-Gi; Lee Gwang-Jong 90
 
 ; POSCO Atoms        ; 1-1;  Daewoo Royals
@@ -150,7 +150,7 @@ Date: 06/13/1992
 
 Date: 06/20/1992
 
-; Hyundai; Horang-i;    4-0  Daewoo Royals
+; Hyundai Horang-i;    4-0;  Daewoo Royals
   Song Ju-Seok 4, Song Ju-Seok 21, Lim Jae-Seon 10, Lee Su-Cheol 90;
 
 ; Ilhwa Chunma       ; 1-1;  Yukong Elephants
@@ -172,7 +172,7 @@ Date: 06/27/1992
 
 Date: 07/04/1992
 
-; Hyundai; Horang-i;    0-1  POSCO Atoms
+; Hyundai Horang-i;    0-1;  POSCO Atoms
 ;  Choi Mun-Sik 33
 
 ; Yukong Elephants   ; 4-1;  LG Cheetahs
@@ -194,7 +194,7 @@ Date: 07/11/1992
 
 Date: 07/18/1992
 
-; Hyundai; Horang-i;    2-0  Ilhwa Chunma
+; Hyundai Horang-i;    2-0;  Ilhwa Chunma
   Sin Hong-Gi 19, Sin Yeon-Ho 38;
 
 ; POSCO Atoms        ; 3-0;  Yukong Elephants
@@ -205,7 +205,7 @@ Date: 07/18/1992
 
 Date: 09/05/1992
 
-; Hyundai; Horang-i;    0-2  Yukong Elephants
+; Hyundai Horang-i;    0-2;  Yukong Elephants
 ;  Hwangbo Gwan 41, Hwangbo Gwan 67
 
 ; POSCO Atoms        ; 0-0;  Daewoo Royals
@@ -231,7 +231,7 @@ Date: 09/23/1992
  
 Date: 09/26/1992
 
-; Hyundai; Horang-i;    1-0  Daewoo Royals
+; Hyundai Horang-i;    1-0;  Daewoo Royals
   Gang Jae-Sun 70;
 
 ; Ilhwa Chunma       ; 1-0;  Yukong Elephants
@@ -253,7 +253,7 @@ Date: 10/03/1992
 
 Date: 10/10/1992
 
-; Hyundai; Horang-i;    1-2  POSCO Atoms
+; Hyundai Horang-i;    1-2;  POSCO Atoms
   Song Ju-Seok 76; Rade Bogdanovic 13, Rade Bogdanovic 74
 
 ; Yukong Elephants   ; 1-1;  LG Cheetahs
@@ -275,7 +275,7 @@ Date: 10/17/1992
 
 Date: 10/24/1992
 
-; Hyundai; Horang-i;    0-1  Ilhwa Chunma
+; Hyundai Horang-i;    0-1;  Ilhwa Chunma
 ;  Lee Sang-Yun 67
 
 ; POSCO Atoms        ; 0-0;  Yukong Elephants
@@ -293,8 +293,8 @@ Date: 10/31/1992
  
 Date: 11/07/1992
 
-; Hyundai; Horang-i;    1-1  LG Cheetahs
-  Jo Min-Guk (og) 55, Seo Jeong-Won 55
+; Hyundai Horang-i;    1-1;  LG Cheetahs
+  Jo Min-Guk (og) 55; Seo Jeong-Won 55
 
 ; POSCO Atoms        ; 0-0;  Ilhwa Chunma
 
@@ -317,14 +317,14 @@ Date: 11/14/1992
   Hong Myeong-Bo 88;
 
 ; LG Cheetahs        ; 0-3;  Yukong Elephants
-;;  Cha Seok-Jun 53, Lee Gwang-Jong 56, Jo Jeong-Hyeon 86
+;  Cha Seok-Jun 53, Lee Gwang-Jong 56, Jo Jeong-Hyeon 86
 
 ; Ilhwa Chunma       ; 1-1;  Daewoo Royals
   Go Jeong-Un 2; Kim Jeong-Hyeok 24
 
 Date: 11/18/1992
 
-; Hyundai; Horang-i;    2-1  LG Cheetahs
+; Hyundai Horang-i;    2-1;  LG Cheetahs
   Sin Hong-Gi 51, Sin Hong-Gi 81; Lim Geun-Jae 74
 
 ; Yukong Elephants   ; 0-0;  Daewoo Royals

@@ -42,7 +42,7 @@ Date: 04/06/1991
 
 Date: 04/07/1991
 
-; Hyundai; Horang-i;    1-2  Daewoo Royals                ; Pohang
+; Hyundai Horang-i;    1-2;  Daewoo Royals                ; Pohang
   Han Chang-U 41; Ha Seok-Ju 13, Yoo Su-Sang 46
 
 
@@ -56,7 +56,7 @@ Date: 04/13/1991
 
 Date: 04/14/1991
 
-; Hyundai; Horang-i;    0-0  Yukong Elephants             ; Busan
+; Hyundai Horang-i;    0-0;  Yukong Elephants             ; Busan
 
 Date: 04/20/1991
 
@@ -94,7 +94,7 @@ Date: 05/04/1991
   
 Ha Seong-Jun (og) 84; Lee Sang-Yun 80
 
-; Hyundai; Horang-i;    1-0  POSCO Atoms
+; Hyundai Horang-i;    1-0;  POSCO Atoms
   Kim Hyeon-Seok 25;
 
 Date: 05/08/1991
@@ -109,7 +109,7 @@ Date: 05/08/1991
 
 Date: 05/11/1991
 
-; Hyundai; Horang-i;    3-2  LG Cheetahs
+; Hyundai Horang-i;    3-2;  LG Cheetahs
   Choi Gang-Hui 12, Choi Gang-Hui 50, Kim Hyeon-Seok 67; Lee Yeong-Jin (pk) 79, Hwang Yeong-U 90+
 
 ; Ilhwa Chunma       ; 0-2;  Daewoo Royals
@@ -125,7 +125,7 @@ Date: 05/15/1991
 
 ; Yukong Elephants   ; 0-0;  Daewoo Royals                ; Incheon
 
-; Hyundai; Horang-i;    2-0  Ilhwa Chunma
+; Hyundai Horang-i;    2-0;  Ilhwa Chunma
   Gang Jae-Sun 77, Choi Gang-Hui 84;
 
 Date: 05/29/1991
@@ -153,14 +153,14 @@ Date: 06/22/1991
   Kim I-Ju 72; Jentoi 83
 
 ; Yukong Elephants   ; 1-2;  Hyundai Horang-i
-  Ted 37;  Choi Yun-Gyeom (og) 45; Lim Jae-Seon 75
+  Ted 37;  Choi Yun-Gyeom (og) 45, Lim Jae-Seon 75
 
 ; POSCO Atoms        ; 0-2;  Daewoo Royals
 ;  Yeo Beom-Gyu 51, Kim Ju-Seong 89
 
 Date: 06/26/1991
 
-; Hyundai; Horang-i;    0-0  Daewoo Royals
+; Hyundai Horang-i;    0-0;  Daewoo Royals
 
 ; LG Cheetahs        ; 1-0;  Yukong Elephants
   Kim Sang-Jin 67;
@@ -172,7 +172,7 @@ Date: 06/29/1991
 ; Ilhwa Chunma       ; 2-1;  Yukong Elephants
   Jo U-Seok 17, Go Jeong-Un 34; Kim Eun-Cheol 39 PK
 
-; Hyundai; Horang-i;    1-1  POSCO Atoms
+; Hyundai Horang-i;    1-1;  POSCO Atoms
   Han Chang-U 56; Lee Won-Cheol 36
 
 ; Daewoo Royals      ; 1-0;  LG Cheetahs
@@ -199,7 +199,7 @@ Date: 07/06/1991
 
 Date: 07/07/1991
 
-; Hyundai; Horang-i;    1-3  Ilhwa Chunma
+; Hyundai Horang-i;    1-3;  Ilhwa Chunma
   Kim Hyeon-Seok 80; Lee Sang-Yun (pk) 59, Lee Sang-Yun61, Go Jeong-Un 75
 
 
@@ -219,10 +219,9 @@ Date: 07/13/1991
   Jeong Yong-Hwan 89;
 
 ; Ilhwa Chunma       ; 1-3;  LG Cheetahs
-  Park Jong-Dae 38; Yun Sang-Cheol 10, Park Jeong-Bae 23, Lee Yeong-Jin 
-73
+  Park Jong-Dae 38; Yun Sang-Cheol 10, Park Jeong-Bae 23, Lee Yeong-Jin 73
 
-; Hyundai; Horang-i;    0-0  Yukong Elephants
+; Hyundai Horang-i;    0-0;  Yukong Elephants
 
 Date: 07/17/1991
 
@@ -232,7 +231,7 @@ Date: 07/17/1991
 ; Yukong Elephants   ; 2-4;  Ilhwa Chunma
   No Su-Jin (pk 52, Ted 84; Jo U-Seok 3, Jo U-Seok 41, Go Jeong-Un 14, Kim I-Ju 59
 
-; Hyundai; Horang-i;    1-1  POSCO Atoms
+; Hyundai Horang-i;    1-1;  POSCO Atoms
   Gang Deuk-Su 33; Lee Won-Cheol 52
 
 Date: 07/20/1991
@@ -270,21 +269,21 @@ Date: 08/14/1991
 ; Yukong Elephants   ; 2-3;  POSCO Atoms
   Ted 71, Sin Dong-Cheol (pk) 81; Lee Gi-Geun 21, Lee Gi-Geun 45, Park Gyeong-Hun 43
 
-; Hyundai; Horang-i;    1-0  LG Cheetahs
+; Hyundai Horang-i;    1-0;  LG Cheetahs
   Gang Jae-Sun 52;
 
 Date: 08/17/1991
 
 ; Yukong Elephants   ; 0-0;  Daewoo Royals
 
-; Hyundai; Horang-i;    0-0  Ilhwa Chunma
+; Hyundai Horang-i;    0-0;  Ilhwa Chunma
 
 ; LG Cheetahs        ; 2-2;  POSCO Atoms                  ; Gongju
   Lee Yeong-Jin 43, Hwang Yeong-U 51; Lee Gi-Geun 27, Lee Won-Cheol 57
 
 Date: 08/21/1991
 
-; Hyundai; Horang-i;    0-1  LG Cheetahs
+; Hyundai Horang-i;    0-1;  LG Cheetahs
 ;  Choi Tae-Jin (pk) 51
 
 ; Ilhwa Chunma       ; 0-3;  Daewoo Royals
@@ -330,7 +329,7 @@ Date: 09/04/1991
 ; Yukong Elephants   ; 0-1;  LG Cheetahs
 ;  Gu Sang-Beom 41
 
-; Hyundai; Horang-i;    2-1  Daewoo Royals
+; Hyundai Horang-i;    2-1;  Daewoo Royals
   Kim Hyeon-Seok (pk) 61, Kim Hyeon-Seok 84; Park Hyeon-Yong 80
 
 Date: 09/07/1991
@@ -352,7 +351,7 @@ Date: 09/11/1991
 ; Ilhwa Chunma       ; 1-3;  LG Cheetahs
   Lee Sang-Yun (pk) 44; Kim Sang-Hun 25, Kim Sang-Jin 27, Gu Sang-Beom 89
 
-; Hyundai; Horang-i;    1-1  Yukong Elephants
+; Hyundai Horang-i;    1-1;  Yukong Elephants
   Gang Jae-Sun 65; Choi Jin-Han 25
 
 Date: 09/14/1991
@@ -363,7 +362,7 @@ Date: 09/14/1991
 ; Ilhwa Chunma       ; 2-1;  Yukong Elephants
   Go Jeong-Un 7, Kim I-Ju 73; Choi Jin-Han 81
 
-; Hyundai; Horang-i;    2-2  POSCO Atoms
+; Hyundai Horang-i;    2-2;  POSCO Atoms
   Choi Gang-Hui 44, Gwon Hyeong-Jeong (og) 14; Park Gyeong-Hun 68, Lee Won-Cheol 74
 
 Date: 09/18/1991
@@ -384,13 +383,13 @@ Date: 09/25/1991
 ; LG Cheetahs        ; 1-2;  POSCO Atoms
   Kim Sang-Hun 75; Lee Gi-Geun 36, Park Tae-Ha 69
 
-; Hyundai; Horang-i;    1-2  Ilhwa Chunma
+; Hyundai Horang-i;    1-2;  Ilhwa Chunma
   Byeon Byeong-Ju 15; Go Jeong-Un 17, Oh Dong-Cheon 69
 
 Date: 09/28/1991
 
-; Hyundai; Horang-i;    2-1  LG Cheetahs
-  Kim Hyeon-Seok (pk) 15, 46; Jo Min-Guk 47
+; Hyundai Horang-i;    2-1;  LG Cheetahs
+  Kim Hyeon-Seok (pk) 15, Kim Hyeon-Seok 46; Jo Min-Guk 47
 
 ; Ilhwa Chunma       ; 0-0;  Daewoo Royals
 
@@ -440,14 +439,14 @@ Date: 10/19/1991
 
 Date: 10/23/1991
 
-; Hyundai; Horang-i;    0-0  Yukong Elephants
+; Hyundai Horang-i;    0-0;  Yukong Elephants
 
 Date: 10/26/1991
 
 ; Yukong Elephants   ; 2-1;  LG Cheetahs
   Choi Jin-Han 33, Choi Jin-Han 53; Hwang Yeong-U 44
 
-; Hyundai; Horang-i;    1-1  Daewoo Royals
+; Hyundai Horang-i;    1-1;  Daewoo Royals
   Song Ju-Seok 38; Jeong Yong-Hwan 88
 
 ; POSCO Atoms        ; 1-1;  Ilhwa Chunma
@@ -487,7 +486,7 @@ Date: 11/03/1991
 
 *1991 Korean League All Star Game
 *================================
-Date: 11/10 Dongdaemun Stadium, Seoul/*1991
+*Date: 11/10 Dongdaemun Stadium, Seoul/*1991
 
 *
 *Blue Team           3-1  White Team

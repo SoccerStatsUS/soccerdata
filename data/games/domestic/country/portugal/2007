@@ -30,18 +30,18 @@ Round: 1
 Date: 8/17/2007
 
 ; Sporting         ; 4-1; Académica  
-  Derlei 26, Liedson 45, Tonel 69, João Moutinho 89pen; Gyánó 83
+  Derlei 26, Liedson 45, Tonel 69, João Moutinho (pk) 89; Gyánó 83
 
 
 Date: 8/18/2007
 
 ; Marítimo         ; 3-1; Paços de Ferreira 
-  Makukula 15, 40, Ediglê 25; Dedé 49
+  Makukula 15, Makukula 40, Ediglê 25; Dedé 49
 
 ; Nacional         ; 0-0; E. Amadora       
 
 ; Braga            ; 1-2; Porto    
-  João Pinto 48; Quaresma 32, 88
+  João Pinto 48; Quaresma 32, Quaresma 88
    
 ; Leixões          ; 1-1; Benfica  
   Nwoko 93; Petit 89
@@ -66,13 +66,13 @@ Date: 8/25/2007
 ; Benfica          ; 0-0; Guimarães
 
 ; Belenenses       ; 0-2; Braga
-  César Peixoto 24pen, Vandinho 58
+;  César Peixoto (pk) 24, Vandinho 58
 
 
 Date: 8/26/2007
 
 ; Académica        ; 1-1; U. Leiria
-  Joeano 62pen; João Paulo 47
+  Joeano (pk) 62; João Paulo 47
 
 ; Paços de Ferreira; 1-1; Leixões
   Edson 50; Marco Cadete 76
@@ -83,7 +83,7 @@ Date: 8/26/2007
 ; Boavista         ; 0-2; Marítimo 
 
 ; Porto            ; 1-0; Sporting 
-  Raúl Meireles 53
+  Raúl Meireles 53;
 
 
 Date: 8/27/2007
@@ -96,8 +96,7 @@ Round: 3
 Date: 8/31/2007
 
 ; Leixões          ; 2-2; Guimarães 
-  Paulo Machado 6; Vieirinha 36; Fajardo 20, 78
-
+  Paulo Machado 6, Vieirinha 36; Fajardo 20, Fajardo 78
 
 Date: 9/1/2007
 
@@ -111,18 +110,18 @@ Date: 9/1/2007
 Date: 9/2/2007
 
 ; Marítimo         ; 2-0; Académica 
-  Makukula 3, Bruno 65
+  Makukula 3, Bruno 65;
 
 ; Naval            ; 0-0; Setúbal 
 
 ; Sporting         ; 1-0; Belenenses 
-  Liedson 80
+  Liedson 80;
 
 ; Nacional         ; 0-3; Benfica 
-  Cardozo 18, 76pen, Rui Costa 69
+;  Cardozo 18, Cardozo (pk) 76, Rui Costa 69
 
 ; U. Leiria        ; 0-3; Porto 
-  Sektioui 37, Lisandro López 49, João Paulo 65
+;  Sektioui 37, Lisandro López 49, João Paulo 65
 
 
 Round: 4
@@ -130,7 +129,7 @@ Round: 4
 Date: 9/14/2007
 
 ; Setúbal          ; 3-1; Braga 
-  Matheus 12, Elias 57, Edinho 82; César Peixoto 68pen
+  Matheus 12, Elias 57, Edinho 82; César Peixoto (pk) 68
 
 
 Date: 9/15/2007
@@ -138,18 +137,18 @@ Date: 9/15/2007
 ; Boavista         ; 0-0; Leixões
 
 ; Porto            ; 1-0; Marítimo
-  Lisandro López 56
+  Lisandro López 56;
 
 ; Benfica          ; 3-0; Naval 
-  Cristian Rodríguez 23, Rui Costa 35, Nuno Gomes 52
+  Cristian Rodríguez 23, Rui Costa 35, Nuno Gomes 52;
 
 Date: 9/16/2007
 
 ; Académica        ; 1-0; Paços de Ferreira
-  Hélder Barbosa 86
+  Hélder Barbosa 86;
 
 ; E. Amadora       ; 0-2; Sporting
-  Liedson 8, Vuksevic 29
+;  Liedson 8, Vuksevic 29
 
 ; Belenenses       ; 2-1; U. Leiria
   Evandro Paulista 52, Hugo Alcântara 71; João Paulo 12
@@ -158,16 +157,14 @@ Date: 9/16/2007
 Date: 9/17/2007
 
 ; Guimarães        ; 1-0; Nacional 
-  Targino 81
+  Targino 81;
 
 
 Round: 5
-
 Date: 9/21/2007
 
 ; Naval            ; 1-4; Guimarães 
-  Paulão 12; Flávio Meireles 31, Fajardo 32, Mrdakovic 47, 
-   Ghilas 77
+  Paulão 12; Flávio Meireles 31, Fajardo 32, Mrdakovic 47, Ghilas 77
 
 
 Date: 9/23/2007
@@ -178,15 +175,15 @@ Date: 9/23/2007
 ; Braga            ; 0-0; Benfica
 
 ; Marítimo         ; 2-0; Belenenses
-  Kanu 20, Makukula 91
+  Kanu 20, Makukula 91;
 
 ; Paços de Ferreira; 0-2; Porto 
-  Lisandro López 10, 67
+;  Lisandro López 10, Lisandro Lopez 67
 
 ; U. Leiria        ; 0-0; E. Amadora 
 
 ; Sporting         ; 2-2; Setúbal
-  João Moutinho 64pen, Purovic 85; Elias 41, Matheus 77
+  João Moutinho (pk) 64, Purovic 85; Elias 41, Matheus 77
 
 
 Date: 9/24/2007
@@ -199,7 +196,7 @@ Date: 9/29/2007
 ; Benfica          ; 0-0; Sporting
 
 ; Porto            ; 2-0; Boavista
-  Lisandro López 15, 75
+  Lisandro López 15, Lisandro Lopez 75;
 
 
 Date: 9/30/2007
@@ -208,72 +205,65 @@ Date: 9/30/2007
   Tiago Gomes 47; Fernando 58
 
 ; Setúbal          ; 2-0; U. Leiria 
-  Matheus 61, Edinho 94
+  Matheus 61, Edinho 94;
 
 ; Nacional         ; 2-0; Naval
-  Fellype Gabriel 50, Cássio 91
+  Fellype Gabriel 50, Cássio 91;
 
 ; Belenenses       ; 1-0; Paços de Ferreira
-  Roncatto 42
+  Roncatto 42;
 
 ; Guimarães        ; 1-0; Braga 
-
- Geromel 51
+ Geromel 51;
 
 Date: 10/1/2007
 
 ; Académica        ; 1-1; Leixões 
   Lito 77; Hugo Morais 63
 
-
 Round: 7
-
 Date: 10/6/2007
 
 ; Sporting         ; 3-0; Guimarães
-  Izmailov 60, 68, Tonel 85
-
+  Izmailov 60, Izmailov 68, Tonel 85;
 
 Date: 10/7/2007
 
 ; Leixões          ; 0-1; Naval
-  Marcelinho 17pen
+;  Marcelinho (pk) 17
 
 ; Marítimo         ; 0-0; Setúbal 
 
 ; U. Leiria        ; 1-2; Benfica
-  Cadú da Silva 2; Nuno Gomes 16, 64
+  Cadú da Silva 2; Nuno Gomes 16, Nuno Gomes 64
 
 ; Académica        ; 0-1; Porto 
-  Lucho González 28pen
+;  Lucho González (pk) 28
 
 
 Date: 10/8/2007
 
 ; Braga            ; 1-0; Nacional 
-  Linz 85pen
+  Linz (pk) 85;
 
 ; Paços de Ferreira; 2-1; E. Amadora 
   Furtado 72, Renato Queirós 75; Anselmo 86
 
 ; Boavista         ; 2-4; Belenenses 
-  Marcelão 30, 68; Zé Pedro 27pen, 92, Silas 51, Gabriel Gómez 70
-
+  Marcelão 30, Marcelao 68; Zé Pedro (pk) 27, Ze Pedro 92, Silas 51, Gabriel Gómez 70
 
 Round: 8
-
 Date: 10/26/2007
 
 ; Guimarães        ; 2-1; U. Leiria
   Mrdakovic 46, Rabiola 94; João Paulo 15
-
 
 Date: 10/27/2007
 
 ; Belenenses       ; 0-0; Académica
 
 ; Setúbal          ; 3-1; Paços de Ferreira
-  Auri 26, Edinho 67, Bruno Gama 80; Luiz Carlos 61pen
+  Auri 26, Edinho 67, Bruno Gama 80; Luiz Carlos (pk) 61
 
 ; Nacional         ; 0-0; Sporting 
 
@@ -282,39 +272,34 @@ Date: 10/28/2007
 ; E. Amadora       ; 0-0; Boavista
 
 ; Benfica          ; 2-1; Marítimo
-  Cardozo 18pen, Freddy Adu 18; Kanu 9
-
+  Cardozo (pk) 18, Freddy Adu 18; Kanu 9
 
 Date: 10/29/2007
 
 ; Naval            ; 1-1; Braga 
-  Saulo 1; Linz 57pen
+  Saulo 1; Linz (pk) 57
 
 ; Porto            ; 3-0; Leixões 
-  Lisandro López 6, 80, Sektioui 8
-
+  Lisandro López 6, Lisandro Lopez 80, Sektioui 8;
 
 Round: 9
-
 Date: 11/2/2007
 
 ; Porto            ; 1-1; Belenenses   
   Hélder Postiga 21; Zé Pedro 50
 
-
 Date: 11/3/2007
 
 ; Leixões          ; 3-0; Braga   
-  Roberto 36, Bruno China 45, Jorge Gonçalves 73
+  Roberto 36, Bruno China 45, Jorge Gonçalves 73;
 
 ; Paços de Ferreira; 1-2; Benfica   
   Tiago Valente 29; Cristian Rodríguez 21, Katsouranis 86
 
-
 Date: 11/4/2007
 
 ; Académica        ; 3-3; E. Amadora   
-  Lito 26, 47, 57; Maurício 36, Anselmo 60, Wagnão 88
+  Lito 26, Lito 47, Lito 57; Maurício 36, Anselmo 60, Wagnão 88
 
 ; Boavista         ; 3-3; Setúbal   
   Fleurival 19, Jorge Ribeiro 24, Marcelão 71; Pitbull 45, Auri 57, Edinho 61
@@ -323,17 +308,14 @@ Date: 11/4/2007
   Paulo César 89; Juliano Spadacio 7, Juninho 52, Fellype Gabriel 83
  
 ; Sporting         ; 4-1; Naval   
-  João Moutinho 10, Liedson 62, Vuksevic 85, Gladstone 94; Diego Âng
-elo 28
+  João Moutinho 10, Liedson 62, Vuksevic 85, Gladstone 94; Diego Ângelo 28
 
 Date: 11/5/2007
 
 ; Marítimo         ; 0-1; Guimarães       
-  Ghilas 71
-
+;  Ghilas 71
 
 Round: 10
-
 Date: 11/9/2007
 
 ; Belenenses       ; 1-1; Leixões
@@ -347,86 +329,77 @@ Date: 11/10/2007
 Date: 11/11/2007
 
 ; Naval            ; 1-0; U. Leiria   
-  Marcelinho 58
+  Marcelinho 58;
 
 ; Setúbal          ; 3-1; Académica   
-  Matheus 18, Elias 19, Pitbull 54pen; N’Doye 52
+  Matheus 18, Elias 19, Pitbull (pk) 54; N’Doye 52
 
 ; Benfica          ; 6-1; Boavista   
-  Cardozo 18, Maxi Pereira 61, Cristian Rodríguez 66, Ricardo Silva 80og,
-   Nuno Gomes 85pen, 89; Jorge Ribeiro 58
+  Cardozo 18, Maxi Pereira 61, Cristian Rodríguez 66, Ricardo Silva (og) 80, Nuno Gomes (pk) 85, Nuno Gomes 89; Jorge Ribeiro 58
 
 ; Braga            ; 3-0; Sporting CP   
-  Frechaut 26, Linz 63, Jorginho 65
+  Frechaut 26, Linz 63, Jorginho 65;
 
 ; E. Amadora       ; 2-2; Porto   
-  Maurício 85, Mateus 90pen; Lisandro López 24, Raúl Meireles 49
-
+  Maurício 85, Mateus (pk) 90; Lisandro López 24, Raúl Meireles 49
 
 Date: 11/12/2007
 
 ; Nacional         ; 0-2; Marítimo   
-  Makukula 26, Wénio 65
-
+;  Makukula 26, Wénio 65
 
 Round: 11
-
 Date: 11/23/2007
 
 ; U. Leiria        ; 0-0; Braga   
 
 Date: 11/24/2007
 
-Leixões           1-1 Sporting CP  
-  Abel 13og; Purovic 88
+; Leixões          ; 1-1; Sporting CP  
+  Abel (og) 13; Purovic 88
  
 ; Académica        ; 1-3; Benfica   
   Lito 24; Rui Costa 33, Luisão 86, Freddy Adu 93
 
-
 Date: 11/25/2007
 
 ; Marítimo         ; 0-1; Naval   
-  Mossoró 4og
+;  Mossoró (og) 4
 
 ; Paços de Ferreira; 1-0; Nacional
-  Wesley 6
+  Wesley 6;
    
 ; Porto            ; 2-0; Setúbal   
-  Lisandro López 6, Quaresma 86
+  Lisandro López 6, Quaresma 86;
 
 ; Belenenses       ; 0-0; E. Amadora   
 
 Date: 11/26/2007
 
 ; Boavista         ; 3-2; Guimarães       
-  Fary 2, Radanovic 13og, Ricardo Silva 81; Felipe 29, Targino 67
-
+  Fary 2, Radanovic (og) 13, Ricardo Silva 81; Felipe 29, Targino 67
 
 Round: 12
-
 Date: 11/30/2007
 
 ; Setúbal          ; 1-1; Belenenses
-  Rúben Amorim 12og; Weldon 4
-
+  Rúben Amorim (og) 12; Weldon 4
 
 Date: 12/1/2007
 
 ; Benfica          ; 0-1; Porto 
-  Quaresma 41
-
+;  Quaresma 41
 
 Date: 12/2/2007
 
 ; Nacional         ; 2-0; Boavista
-  José Vítor 
-56, Lipatin 68
+  José Vítor 56, Lipatin 68;
+
 ; Naval            ; 2-1; Paços de Ferreira
-  Elivelton 66, João Ribeiro 80; Paulão 88og
+  Elivelton 66, João Ribeiro 80; Paulão (og) 88
 
 ; E. Amadora       ; 2-0; Leixões
-  Mateus 52, 59
+  Mateus 52, Mateus 59;
 
 ; Sporting         ; 1-1; U. Leiria
   Izmailov 52; Toñito 81
@@ -434,73 +407,66 @@ Date: 12/2/2007
 ; Braga            ; 2-1; Marítimo
   Wender 56, Linz 92; Makukula 46
 
-
 Date: 12/3/2007
 
 ; Guimarães        ; 2-1; Académica 
   Ghilas 51, Mrdakovic 69; Pavlovic 22
 
-
 Round: 13
-
 Date: 12/14/2007
 
 ; Paços de Ferreira; 0-2; Braga   
-  Linz 34, Vandinho 59
+;  Linz 34, Vandinho 59
 
 
 Date: 12/15/2007
 
 ; Belenenses       ; 1-0; Benfica  
-  Weldon 71
+  Weldon 71;
  
 ; Porto            ; 2-0; Guimarães 
-  Sektioui 54, Lisandro López 73
+  Sektioui 54, Lisandro López 73;
 
 
 Date: 12/16/2007
 
 ; Académica        ; 1-0; Nacional   
-  Cris 84
+  Cris 84;
 
 ; E. Amadora       ; 0-1; Setúbal   
-  Edinho 56
+;  Edinho 56
   
 ; Boavista         ; 2-0; Naval   
-  Fary 20, Grzelak 35
+  Fary 20, Grzelak 35;
 
 ; Leixões          ; 2-1; U. Leiria   
   Roberto 3, Diogo Valente 26; João Paulo 93
 
 ; Marítimo         ; 1-2; Sporting
-  Bruno Fogaça 60; Vuksevic 72, 88
-
+  Bruno Fogaça 60; Vuksevic 72, Vuksevic 88
 
 Round: 14
-
 Date: 12/20/2007
 
 ; Benfica          ; 3-0; E. Amadora
-  Cristian Rodríguez 51, Cardozo 70pen, Nuno Gomes 90
-
+  Cristian Rodríguez 51, Cardozo (pk) 70, Nuno Gomes 90;
 
 Date: 12/21/2007
 
 ; Nacional         ; 1-0; Porto
-  Lipatin 58
+  Lipatin 58;
 
 
 Date: 12/22/2007
 
 ; Naval            ; 0-1; Académica
-  Cris 48
+;  Cris 48
 
 ; Guimarães        ; 1-0; Belenenses
-  Ghilas 28
+  Ghilas 28;
 
 ; Sporting         ; 2-1; Paços de Ferreira
-  Vuksevic 18, Romagnoli 65pen; Edson 10
-
+  Vuksevic 18, Romagnoli (pk) 65; Edson 10
 
 Date: 12/23/2007
 
@@ -517,8 +483,7 @@ Round: 15
 Date: 1/4/2008
 
 ; Académica        ; 3-3; Braga
-  Hélder Barbosa 43, Tiero 57, Joeano 93; Linz 21, 69, Jorginho 60
-
+  Hélder Barbosa 43, Tiero 57, Joeano 93; Linz 21, Linz 69, Jorginho 60
 
 Date: 1/5/2008
 
@@ -526,45 +491,39 @@ Date: 1/5/2008
   Edinho 88; Mantorras 72
 
 ; Boavista         ; 2-0; Sporting
-  Marcelão 39, Jorge Ribeiro 83
-
+  Marcelão 39, Jorge Ribeiro 83;
 
 Date: 1/6/2008
 
 ; Marítimo         ; 2-1; Leixões 
-  Bruno Fogaça 2, Gregory 22; Ricardo Esteves 4og
+  Bruno Fogaça 2, Gregory 22; Ricardo Esteves (og) 4
 
 ; Paços de Ferreira; 2-1; U. Leiria
-  Wesley 55, 68; João Paulo 78
+  Wesley 55, Wesley 68; João Paulo 78
 
 ; E. Amadora       ; 4-1; Guimarães   
-  Nuno Viveiros 52, Geromel 61og, Hélder Cabral 71, Pedro Pereira 84;
-   Mrdakovic 36
+  Nuno Viveiros 52, Geromel (og) 61, Hélder Cabral 71, Pedro Pereira 84; Mrdakovic 36
 
 ; Porto            ; 1-0; Naval
-  Raúl Meireles 58
-
+  Raúl Meireles 58;
 
 Date: 1/7/2008
 
 ; Belenenses       ; 1-1; Nacional
   Roncatto 50; Lipatín 63
 
-
 Round: 16
-
 Date: 1/11/2008
 
 ; Paços de Ferreira; 3-1; Marítimo
-  Edson 9, Wesley 35, 44; Mossoró 27
-
+  Edson 9, Wesley 35, Wesley 44; Mossoró 27
 
 Date: 1/12/2008
 
 ; Benfica          ; 0-0; Leixões 
-; Porto            ; 4-0; Braga
-  Lisandro López 5, 82, Raúl Meireles 17, Farías 93
 
+; Porto            ; 4-0; Braga
+  Lisandro López 5, Lisandro Lopez 82, Raúl Meireles 17, Farías 93;
 
 Date: 1/13/2008
 
@@ -572,19 +531,19 @@ Date: 1/13/2008
   Marcelão 58, Jorge Ribeiro 76, Fary 84; João Paulo 14
 
 ; E. Amadora       ; 0-1; Nacional
-  Alonso 52
+;  Alonso 52
 
 ; Académica        ; 1-1; Sporting
   Pavlovic 94; Tonel 81
 
 *Belenenses        awd Naval              [awarded 0-3; originally 2-1; 
-*  [Roncatto 11, Meyong 75pen;             Meyong Zé had already played
+*  [Roncatto 11, Meyong (pk) 75;             Meyong Zé had already played
 *   Marcelinho 75]                         for Levante and Albacete
 
 Date: 1/14/2008
 
 ; Setúbal          ; 0-1; Guimarães        
-  Mrdakovic 58
+;  Mrdakovic 58
 
 Round: 17
 Date: 1/25/2008

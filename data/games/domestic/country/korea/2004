@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tabless/skor04.html
 Season: 2004
+Competition: K-League
 
 
 
@@ -81,7 +82,7 @@ Date: 04/10/2004
   Ze Carlos 45, Goran Petreski 85; Miodrag Andjelkovic 53
 
 ; Chonbuk  ; 1-1;  Suwon         ;  11135
-  Gwak Hui-Ju (og) 24, Nadson Rodrigues de Souza 69
+  Gwak Hui-Ju (og) 24; Nadson Rodrigues de Souza 69
 
 *Seoul     bye
  
@@ -132,7 +133,7 @@ Date: 05/05/2004
   Miodrag Andjelkovic 42, Lee Sang-Heon 54; Yoo Gyeong-Ryul 37, Ricardo Lucas 'Dodo' (pk) 48, Ricardo Lucas 58
 
 ; Daejeon  ; 2-0;  Busan          ; 31126
-  Tiago Cipestre Pereira 13, Tiago Cipestre Pereira (pk) 37
+  Tiago Cipestre Pereira 13, Tiago Cipestre Pereira (pk) 37;
 
 ; Gwangju  ; 0-1;  Seoul          ; 22135
 ;  Kim Eun-Jung 80
@@ -249,7 +250,7 @@ Date: 05/30/2004
   Sin Byeong-Ho (pk) 38, Sin Byeong-Ho 41; Marcel Augusto Ortolan 32, Kim Dae-Ui 68
 
 ; Bucheon  ; 0-3;  Chonbuk         ; 4443
-  Eduardo Salles 62, Paulo Merabet 'Roma' (pk) 71, Paulo Merabet 78
+;  Eduardo Salles 62, Paulo Merabet 'Roma' (pk) 71, Paulo Merabet 78
 
 ; Seoul    ; 1-1;  Pohang         ; 26741
   Kim Eun-Jung 20; Woo Seong-Yong 12

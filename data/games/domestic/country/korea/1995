@@ -47,7 +47,7 @@ Date: 05/10/1995
 ; Yukong Elephants   ; 1-3;  Pohang Atoms
   Hwangbo Gwan 84; Jo Jin-Ho 22, Hong Myeong-Bo 50, Seo Hyo-Won 88
 
-; Hyundai; Horang-i;    4-1  LG Cheetahs
+; Hyundai Horang-i;    4-1;  LG Cheetahs
   Kang Jae-Sun 23, Kim Hyeon-Seok 45, Yoo Sang-Cheol 46, Lim Jae-Seon 72; Kim Dong-Hae 80
 
 ; Daewoo Royals      ; 3-2;  Chunnam Dragons
@@ -80,7 +80,7 @@ Date: 06/17/1995
 ; Yukong Elephants   ; 0-1;  Daewoo Royals
 ;  Amir 64
 
-; Hyundai; Horang-i;    3-0  Chonbuk Dinos
+; Hyundai Horang-i;    3-0;  Chonbuk Dinos
   Song Ju-Seok 47, Kim Hyeon-Seok 63, Jeong Jeong-Su 75;
 
 ; LG Cheetahs        ; 1-2;  Chunnam Dragons
@@ -89,7 +89,7 @@ Date: 06/17/1995
 Round: 5
 Date: 06/21/1995
 
-; Hyundai; Horang-i;    1-0  Chunnam Dragons
+; Hyundai Horang-i;    1-0;  Chunnam Dragons
   Kim Hyeon-Seok 90;
 
 ; Daewoo Royals      ; 1-3;  Ilhwa Chunma
@@ -127,7 +127,7 @@ Date: 06/28/1995
 ; Ilhwa Chunma       ; 2-1;  Chunnam Dragons
   Hwang Yeon-Seok 6, Choi Seong-Ho 70; Hwang In-Seong 81
 
-; Hyundai; Horang-i;    1-2  Daewoo Royals
+; Hyundai Horang-i;    1-2;  Daewoo Royals
   Kim Hyeon-Seok 49; Ha Seok-Ju 63, Sasa Drakulic 87
 
 Round: 8
@@ -168,11 +168,11 @@ Date: 07/08/1995
 ; Pohang Atoms       ; 3-1;  Chunnam Dragons
   Rade Bogdanovic 26, Rade Bogdanovic 87, Seo Hyo-Won 49; Roh Sang-Rae (pk) 76
 
-; Hyundai; Horang-i;    3-2  Yukong Elephants
+; Hyundai Horang-i;    3-2;  Yukong Elephants
   Kim Jong-Geon 11, Kim Jong-Geon 54, Song Ju-Seok 35; Lee Gwang-Hong 58, Heo Gi-Tae 62
 
 ; Daewoo Royals      ; 1-0;  Chonbuk Dinos
-  Sasa Drakulic (fk) 32
+  Sasa Drakulic (fk) 32;
 
 Round: 11
 Date: 07/11/1995
@@ -218,13 +218,13 @@ Date: 07/22/1995
 ; Yukong Elephants   ; 0-3;  Chunnam Dragons
 ;  Kim Hyeon-Su 16, Oh Gyeong-Seok 55, Roh Sang-Rae (pk) 73
 
-; Hyundai; Horang-i;    1-1  Ilhwa Chunma
+; Hyundai Horang-i;    1-1;  Ilhwa Chunma
   Sin Hong-Gi 74; Lee Tae-Hong 67
 
 Round: 14
 Date: 07/29/1995
 
-; Hyundai; Horang-i;    0-1  Pohang Atoms
+; Hyundai Horang-i;    0-1;  Pohang Atoms
 ;  Gu Sang-Beom 25
 
 ; Yukong Eoephants   ; 0-1;  Ilhwa Chunma
@@ -259,7 +259,7 @@ Date: 07/29/1995
 Round: 1
 Date: 08/19/1995
 
-; Hyundai; Horang-i;    1-1  Pohang Atoms
+; Hyundai Horang-i;    1-1;  Pohang Atoms
   Kim Hyeon-Seok 90+; Hwang Seon-Hong 4
 
 ; Daewoo Royals      ; 3-1;  LG Cheetahs
@@ -315,7 +315,7 @@ Round: 4
 Date: 08/30/1995
 
 ; Pohang Atoms       ; 3-1;  Yukong Elephants
-  Sin Seong-Hwan 46, Hwang Seon-Hong 89; Yun Jeong-Chun 23; Jeong Yeon-Ho (og) 67
+  Sin Seong-Hwan 46, Hwang Seon-Hong 89, Yun Jeong-Chun 23; Jeong Yeon-Ho (og) 67
 
 ; LG Cheetahs        ; 1-1;  Hyundai Horang-i        ; Suwon
   Kim Pan-Geun (pk) 90; Kim Jong-Geon 37
@@ -355,7 +355,7 @@ Date: 09/06/1995
 ; Yukong Elephants   ; 2-1;  Chunnam Dragons
   Yun Jeong-Hwan 41, Heo Gi-Tae 57; Roh Sang-Rae 51
 
-; Hyundai; Horang-i;    0-2  Ilhwa Chunma
+; Hyundai Horang-i;    0-2;  Ilhwa Chunma
 ;  Go Jeong-Un 17, Hwang Yeon-Seok 90+
 
 Round: 7
@@ -398,7 +398,7 @@ Date: 09/27/1995
 ; Yukong Elephants   ; 1-0;  Daewoo Royals
   Jo Jeong-Hyeon 55;
 
-; Hyundai; Horang-i;    2-1  Chonbuk Dinos
+; Hyundai Horang-i;    2-1;  Chonbuk Dinos
   Song Ju-Seok 34, Choi Yeong-Jun 59; Zanko Savov 90+
 
 ; LG Cheetahs        ; 1-2;  Chunnam Dragons
@@ -414,7 +414,7 @@ Date: 10/25/1995
 ; Pohang Atoms       ; 3-2;  Chunnam Dragons
   Lee Won-Cheol 40, Lee Won-Cheol 53, Park Sang-In 83; Kim Bong-Gil 59, Roh Sang-Rae 64
 
-; Hyundai; Horang-i;    1-1  Yukong Elephants
+; Hyundai Horang-i;    1-1;  Yukong Elephants
   Cebero 75; Kim Yun-Geun 5
 
 ; Ilhwa Chunma       ; 1-3;  LG Cheetahs
@@ -426,7 +426,7 @@ Date: 10/07/1995
 ; Yukong Elephants   ; 1-1;  Pohang Atoms
   Heo Gi-Tae 57; Lee Yeong-Sang (pk) 81
 
-; Hyundai; Horang-i;    1-1  LG Cheetahs
+; Hyundai Horang-i;    1-1;  LG Cheetahs
   Kim Hyeon-Seok 34; Kim Dae-Seong 81
 
 ; Daewoo Royals      ; 2-1;  Chunnam Dragons
@@ -442,7 +442,7 @@ Date: 10/10/1995
   Ha Seok-Ju 41; Sin Tae-Yong 39
 
 Date: 10/11/1995
-; Hyundai; Horang-i;    2-1  Chunnam Dragons
+; Hyundai Horang-i;    2-1;  Chunnam Dragons
   Kim Hyeon-Seok 51, Kim Hyeon-Seok 70; Kim Sang-Ho 16
 
 ; Chonbuk Dinos      ; 2-1;  Pohang Atoms
@@ -479,7 +479,7 @@ Date: 10/21/1995
 ; Ilhwa Chunma       ; 1-1;  Chunnam Dragons         ; Cheongju
   Park Nam-Yeol 38; Andrei 84
 
-; Hyundai; Horang-i;    3-1  Daewoo Royals
+; Hyundai Horang-i;    3-1;  Daewoo Royals
   Cebero 22, Cebero 75, Sin Hong-Gi 52; Kim Sang-Mun 64
 
  

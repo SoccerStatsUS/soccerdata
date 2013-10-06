@@ -1,4 +1,4 @@
-sBlockSource: http://www.rsssf.com/tabless/skor94.html
+BlockSource: http://www.rsssf.com/tabless/skor94.html
 Season: 1994
 Competition: K-League
 
@@ -28,7 +28,7 @@ Date: 03/26/1994
  
 Date: 03/27/1994
 
-; Hyundai; Horang-i;    2-2  Daewoo Royals
+; Hyundai Horang-i;    2-2;  Daewoo Royals
   Kim Jong-Gwon 4 PK, Jeong Jeong-Su 16; Ha Seok-Ju 21, Kim Gwi-Hwa 44
 
 ; LG Cheetahs        ; 1-2;  Ilhwa Chunma            ; Changwon
@@ -39,8 +39,9 @@ Date: 03/30/1994
 ; POSCO Atoms        ; 1-0;  Ilhwa Chunma
   Rade Bogdanovic 47;
 
-; Hyundai; Horang-i;    2-0  LG Cheetahs
+; Hyundai Horang-i;    2-0;  LG Cheetahs
   Ronaldo 75, Ronaldo 87;
+
 ; Yukong Elephants   ; 2-0;  Chonbuk Buffalo
   Hwangbo Gwan 49, Hwangbo Gwan (pk) 80;
  
@@ -80,7 +81,7 @@ Date: 04/09/1994
  
 Date: 04/13/1994
 
-; Hyundai; Horang-i;    3-1  Chonbuk Buffalo
+; Hyundai Horang-i;    3-1;  Chonbuk Buffalo
   Kim Jong-Geon 24, Kim Seong-Gu 66, Jeong Jeong-Su 84; Lee Gyeong-Chun 67
 
 ; LG Cheetahs        ; 0-2;  POSCO Atoms             ; Suwon
@@ -97,7 +98,7 @@ Date: 04/16/1994
 ; Daewoo Royals      ; 0-0;  LG Cheetahs
 
 ; Yukong Elephants   ; 0-1;  Hyundai Horang-i        ; Suncheon
-  Ronaldo (fk) 63
+;  Ronaldo (fk) 63
 
 Date: 04/20/1994
 
@@ -112,10 +113,10 @@ Date: 04/20/1994
 
 Date: 04/23/1994
 
-; Hyundai; Horang-i;    0-0  Yukong Elephants
+; Hyundai Horang-i;    0-0;  Yukong Elephants
 
 ; Ilhwa Chunma       ; 1-0;  Chonbuk Buffalo         ; Mokdong Stadium, Seoul
-  Park Nam-Yeol 59 PK
+  Park Nam-Yeol (pk) 59;
 
 ; LG Cheetahs        ; 2-2;  Daewoo Royals           ; Gumi
   Gwon Jung-Hwa 28, Park Cheol 62; Kim Gwi-Hwa 16, Yun Seong-Hyo 43
@@ -126,10 +127,10 @@ Date: 04/27/1994
   Jo Jeong-Hyeon 12, Kim Sang-Mun 55; Yun Seong-Hyo 86
 
 ; Chonbuk Buffalo    ; 1-1;  Hyundai Horang-i
-  Mun Yeong-Rae 64 PK; Lim Jae-Seon 10
+  Mun Yeong-Rae (pk) 64; Lim Jae-Seon 10
 
 ; POSCO Atoms        ; 1-1;  LG Cheetahs
-  Lee Yeong-Sang 18 PK; Yun Sang-Cheol 48
+  Lee Yeong-Sang (pk) 18; Yun Sang-Cheol 48
  
 Date: 04/30/1994
 
@@ -139,7 +140,7 @@ Date: 04/30/1994
 ; Daewoo Royals      ; 1-2;  Chonbuk Buffalo
   Lee Gi-Geun 33; Kim Gyeong-Rae, Lee Ju-Yeong 64
 
-; Hyundai; Horang-i;    2-2  POSCO Atoms
+; Hyundai Horang-i;    2-2;  POSCO Atoms
   Yoo Sang-Cheol (pk) 28, Choi Dong-Ho 86; Park Chang-Hyeon 14, Kim Gi-Nam 44
 
  
@@ -172,7 +173,7 @@ Date: 05/11/1994
 ; LG Cheetahs        ; 5-2;  Chonbuk Buffalo
   Lee In-Jae 7, Lim Geun-Jae 17, Choi Yong-Su 44, Yun Sang-Cheol (pk) 68 , Yun Sang-Cheol 87; Mun Yeong-Rae (pk) 75, Yoo Seung-Gwan 81
 
-; Hyundai; Horang-i;    0-0  Ilhwa Chunma
+; Hyundai Horang-i;    0-0;  Ilhwa Chunma
 
 Date: 07/23/1994
 
@@ -182,19 +183,19 @@ Date: 07/23/1994
 ; POSCO Atoms        ; 1-1;  Yukong Elephants        ; Gwangyang
   Hong Myeong-Bo (pk) 69; Gu Bon-Seok (pk) 84
 
-; Hyundai; Horang-i;    2-2  Daewoo Royals
+; Hyundai Horang-i;    2-2;  Daewoo Royals
   Ronaldo 22, Jeong Jeong-Su 59; Kim Gwi-Hwa 29, No Gyeong-Hwan 61
 
 Date: 07/27/1994
 
-; Hyundai; Horang-i;    0-0  Ilhwa Chunma
+; Hyundai Horang-i;    0-0;  Ilhwa Chunma
  
 Date: 07/30/1994
 
 ; LG Cheetahs        ; 2-5;  POSCO Atoms
   Yun Sang-Cheol (pk) 15, Yun Sang-Cheol 56; Hwang Seon-Hong 2, Rade Bogdanovic 13, Rade Bogdanovic 14, Rade Bogdanovic 53, Rade Bogdanovic 61
 
-; Hyundai; Horang-i;    1-1  Chonbuk Buffalo
+; Hyundai Horang-i;    1-1;  Chonbuk Buffalo
   Kim Jong-Geon 72; Kim Gyeong-Rae 64
 
 ; Daewoo Royals      ; 1-0;  Yukong Elephants
@@ -209,7 +210,7 @@ Date: 08/06/1994
 ; POSCO Atoms        ; 2-3;  Ilhwa Chunma
   Hwang Seon-Hong 31, Choi Mun-Sik 43; Lee Yeong-Jin 21, Kim I-Ju 45, Go Jeong-Un 87
 
-; Hyundai; Horang-i;    1-2  LG Cheetahs
+; Hyundai Horang-i;    1-2;  LG Cheetahs
   Kim Jong-Geon 80; Kim Dong-Hae 76, Yun Sang-Cheol 88
 
 Date: 08/13/1994
@@ -229,7 +230,7 @@ Date: 08/14/1994
 Date: 08/20/1994
 
 ; Chonbuk Buffalo    ; 4-3;  Daewoo Royals
-  Baek Song 3, Baek Song 40, Kim Gyeong-Rae 22, Kim Seong-Ho 26; Kim Gwi-Hwa 19, Ha Seok-Ju 43, 53
+  Baek Song 3, Baek Song 40, Kim Gyeong-Rae 22, Kim Seong-Ho 26; Kim Gwi-Hwa 19, Ha Seok-Ju 43, Ha Seok-Ju 53
 
 ; Yukong Elephants   ; 1-1;  Ilhwa Chunma
   Gu Bon-Seok 20 PK; An Ik-Su 63
@@ -310,7 +311,7 @@ Date: 09/14/1994
 ; Daewoo Royals      ; 3-2;  Chonbuk Buffalo
   No Gyeong-Hwan 5, Kim Tae-Jin 86, Amir 89; Kim Seong-Ho 14, Kim Gyeong-Rae (pk) 60
 
-; Hyundai; Horang-i;    0-0  POSCO Atoms
+; Hyundai Horang-i;    0-0;  POSCO Atoms
  
 Date: 09/24/1994
 
@@ -326,7 +327,7 @@ Date: 09/24/1994
  
 Date: 09/28/1994
 
-; Hyundai; Horang-i;    0-2  Yukong Elephants
+; Hyundai Horang-i;    0-2;  Yukong Elephants
 ;  Hwangbo Gwan 7, Somogyi Jozsef 21
 
  
@@ -343,7 +344,7 @@ Date: 10/15/1994
 
 Date: 10/19/1994
 
-; Hyundai; Horang-i;    0-1  Daewoo Royals
+; Hyundai Horang-i;    0-1;  Daewoo Royals
 ;  No Gyeong-Hwan 6
 
 ; POSCO Atoms        ; 2-4;  Yukong Elephants
@@ -355,7 +356,7 @@ Date: 10/22/1994
 ; PSOCO Atoms        ; 2-2;  Ilhwa Chunma            ; Gwangyang
   Jo Jin-Ho 24, Lee Won-Cheol 40; Kim I-Ju 47, Kim I-Ju 71
 
-; Hyundai; Horang-i;    2-2  LG Cheetahs
+; Hyundai Horang-i;    2-2;  LG Cheetahs
   Song Ju-Seok 45, Yoo Sang-Cheol 48; Nam Gi-Seol 2, Yun Sang-Cheol 88
 
 ; Yukong Elephants   ; 4-1;  Chonbuk Buffalo
@@ -396,18 +397,16 @@ Date: 11/02/1994
 ; Chonbuk Buffalo    ; 0-2;  Daewoo Royals
 ;  Ham Sang-Heon 16, No Gyeong-Hwan 60
 
- 
 Date: 11/05/1994
 
 ; LG Cheetahs        ; 3-4;  POSCO Atoms
   Yun Sang-Cheol 7, Yun Sang-Cheol (pk) 52, Yun Sang-Cheol 66; Rade Bogdanovic (pk) 29, Rade Bogdanovic (pk) 40, Rade Bogdanovic 51, Rade Bogdanovic 82
 
-; Hyundai; Horang-i;    1-0  Chonbuk Buffalo
+; Hyundai Horang-i;    1-0;  Chonbuk Buffalo
   Kim Jong-Geon 73;
 
 ; Daewoo Royals      ; 0-3;  Yukong Elephants
-;  Lee Gwang-Jong 46, Lee Gwang-Jong 81; Jo Jeong-Hyeon 72
-
+;  Lee Gwang-Jong 46, Lee Gwang-Jong 81, Jo Jeong-Hyeon 72
  
 Date: 11/09/1994
 
