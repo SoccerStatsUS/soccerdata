@@ -198,6 +198,10 @@ def process_japan_awards():
     from soccerdata.data.lists.awards.japan import d
     return process_awards(d)
 
+def process_korea_awards():
+    from soccerdata.data.lists.awards.korea import d
+    return process_awards(d)
+
 
 
 def process_olympics_awards():

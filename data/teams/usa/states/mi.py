@@ -104,7 +104,6 @@ l = [
         'dissolved': 1981,
         },
 
-
     {
         'name': 'West Michigan Edge',
         'city': 'Grand Rapids, MI',
