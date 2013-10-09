@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg08.html
 Competition: Liga Argentina de Football
-Season: 2007 Apertura
+Season: 2007-2008 Apertura
+home-first
 
 * 1.Lanús                          19  11  5  3  34-21  38  Champions  [Buenos Aires]
 * 2.Tigre (Victoria)               19  10  4  5  28-20  34  [Buenos Aires]
@@ -751,7 +752,7 @@ Date: 12/9/2007
 *20.Rosario Central                19   2  8  9  21-33  14  [Santa Fe]
 
 
-Season: 2008 Clausura
+Season: 2007-2008 Clausura
 
 *Final Table:
 * 1.River Plate                    19  13  4  2  29-13  43  Clausura Champions  [Buenos Aires]
@@ -1117,7 +1118,7 @@ Date: 4/11/2008
   Juan Sebastián Verón 86;
 
 ; Newell's Old Boys      ; 2-0; Argentinos Juniors
-  Germán Re 44, Alejandro Da Silva 49
+  Germán Re 44, Alejandro Da Silva 49;
 
 Date: 4/23/2008
 
@@ -1233,8 +1234,7 @@ Date: 5/3/2008
   Germán Denis 32, German Denis 37, Guillermo Rodríguez 45;
 
 ; Colón                  ; 3-2; Banfield         
-  Leonardo Prediger 1, Rubén Ramírez 49, Ruben Ramirez 72; Sebastián Blazquez (og) 23,
-   Darío Cvitanich 88
+  Leonardo Prediger 1, Rubén Ramírez 49, Ruben Ramirez 72; Sebastián Blazquez (og) 23, Darío Cvitanich 88
       
 ; San Martín (SJ)        ; 0-1; Olimpo          
 ;  Leandro González 45
@@ -1559,4 +1559,4 @@ Date: 6/29/2008
 *Author: Juan Pablo Andrés (jpandres@tutopia.com)
 *Last updated: 11 Jul 2008
 *(C) Copyright Juan Pablo Andrés and RSSSF 2007/08
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

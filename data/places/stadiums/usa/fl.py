@@ -96,8 +96,11 @@ l = [
         },    
 
     {
-        'name': 'Bayfront Stadium',
-        'location': 'Tampa, FL',
+        'name': 'Bayfront Center',
+        'location': 'St. Petersburg, FL',
+        'opened': 1965,
+        'closed': 2004,
+        'capacity': 7500,
         },    
     
     {

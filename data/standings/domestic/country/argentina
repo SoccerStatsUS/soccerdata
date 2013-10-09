@@ -1,6 +1,8 @@
 Competition: Argentine Primera División
 BlockSource: http://www.rsssf.com/tablesa/arghist-pro1930s.html
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
 Season: 1931
 
  1; Boca Juniors                    ; 34;  22;   6;   6;  85; 49;   50
@@ -299,7 +301,7 @@ BlockSource: http://www.rsssf.com/tablesa/arghist-pro1940s.html
  3; Newell's Old Boys               ; 30;  17;   4;   9;  78; 50;   38
  4; Boca Juniors                    ; 30;  16;   4;  10;  61; 52;   36
  5; Independiente (A)               ; 30;  15;   4;  11;  67; 53;   34
-  ; Huracán (BA)                    ; 30;  14;   6;  10;  57; 48;   34
+ 5; Huracán (BA)                    ; 30;  14;   6;  10;  57; 48;   34
  7; Racing Club                     ; 30;  15;   3;  12;  64; 54;   33
  8; Estudiantes LP                  ; 30;  13;   6;  11;  77; 64;   32
  9; Ferro Carril Oeste (BA)         ; 30;  13;   4;  13;  44; 54;   30
@@ -739,11 +741,12 @@ Season: 1961
  9; Gimnasia y Esgrima LP           ; 30;  12;   4;  14;  56; 53;   28
 10; Huracán (BA)                    ; 30;   7;  11;  12;  43; 51;   25
 11; Argentinos Juniors              ; 30;  10;   4;  16;  42; 56;   24
-11;  Lanús                          ;  3;0   ;7  1;0  1;3  3;: 5;9   2
+11; Lanús                           ; 30;   7;  10;  13;  36; 59;   24
 13; Rosario Central                 ; 30;   7;   9;  14;  54; 69;   23
 14; Estudiantes LP                  ; 30;   4;  14;  12;  29; 47;   22
 15; Ferro Carril Oeste (BA)         ; 30;   8;   5;  17;  38; 55;   21
-15;  Los Andes (LdZ)                ;  3;0  1;0   ;1  1;9  3;: 6;5   2
+15; Los Andes (LdZ)                 ; 30;  10;   1;  19;  38; 65;   21
+
   
 
 Season: 1962
@@ -928,7 +931,7 @@ Group: A
 
 *Note: First place was defined by goal difference.
 
-Gruop: B
+Group: B
             
  1; Ferro Carril Oeste (BUE)        ; 16;  13;   3;   0;  39;  9;   29
  2; UNIÓN (SFN)                     ; 16;   8;   7;   1;  29;  9;   23
@@ -989,25 +992,25 @@ Season: 1982
 
 Season: 1983
 
- 1. Independiente                    36  16  16   4  54- 38   48
- 2. San Lorenzo de Almagro           36  20   7   9  69- 43   47
- 3. Ferro Carril Oeste (BUE)         36  16  14   6  44- 27   46
- 4. Vélez Sarsfield                  36  18   8  10  61- 45   44
- 5. Unión (SFN)                      36  14  10  12  47- 43   38
- 6. Estudiantes de La Plata          36  13  12  11  42- 43   38
- 7. Boca Juniors                     36  14   9  13  57- 61   37
- 8. Argentinos Juniors               36  13  10  13  44- 45   36
- 9. Newell's Old Boys                36  11  13  12  56- 49   35
-10. Instituto                        36  12  11  13  45- 48   35
-11. Platense                         36  11  12  13  41- 44   34
-12. Temperley                        36  12   9  15  46- 51   33
-13. Talleres (COR)                   36  11  11  14  41- 58   33
-14. Huracán (BUE)                    36  11  10  15  44- 47   32
-15. Nueva Chicago                    36  10  12  14  38- 48   32
-16. Rosario Central                  36  11   8  17  50- 60   30
-17. Racing Club                      36  11   8  17  38- 49   30
-18. River Plate                      36  10   9  17  37- 50   29
-19. Atlético Racing                  36   7  13  16  46- 51   27
+ 1; Independiente                 ;   36;  16;  16;   4;  54; 38;   48
+ 2; San Lorenzo de Almagro        ;   36;  20;   7;   9;  69; 43;   47
+ 3; Ferro Carril Oeste (BUE)      ;   36;  16;  14;   6;  44; 27;   46
+ 4; Vélez Sarsfield               ;   36;  18;   8;  10;  61; 45;   44
+ 5; Unión (SFN)                   ;   36;  14;  10;  12;  47; 43;   38
+ 6; Estudiantes de La Plata       ;   36;  13;  12;  11;  42; 43;   38
+ 7; Boca Juniors                  ;   36;  14;   9;  13;  57; 61;   37
+ 8; Argentinos Juniors            ;   36;  13;  10;  13;  44; 45;   36
+ 9; Newell's Old Boys             ;   36;  11;  13;  12;  56; 49;   35
+10; Instituto                     ;   36;  12;  11;  13;  45; 48;   35
+11; Platense                      ;   36;  11;  12;  13;  41; 44;   34
+12; Temperley                     ;   36;  12;   9;  15;  46; 51;   33
+13; Talleres (COR)                ;   36;  11;  11;  14;  41; 58;   33
+14; Huracán (BUE)                 ;   36;  11;  10;  15;  44; 47;   32
+15; Nueva Chicago                 ;   36;  10;  12;  14;  38; 48;   32
+16; Rosario Central               ;   36;  11;   8;  17;  50; 60;   30
+17; Racing Club                   ;   36;  11;   8;  17;  38; 49;   30
+18; River Plate                   ;   36;  10;   9;  17;  37; 50;   29
+19; Atlético Racing               ;   36;   7;  13;  16;  46; 51;   27
 
 
 Season: 1984 

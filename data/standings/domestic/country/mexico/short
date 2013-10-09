@@ -2,39 +2,39 @@ Competition: Liga MX
 
 Key: position; team; games; wins; ties; losses; points; goals_for; goals_against
 
-Season: 1996 Apertura
+Season: 1996-1997 Winter
 
-     1; Atlante             ; 17;   12;  2;  3;   38;   30; 11
-     2; Santos Laguna              ; 17;   10;  4;  3;   34;   21; 15
-     3; Guadalajara         ; 17;    9;  4;  4;   31;   33; 19
-     4; Puebla              ; 17;    9;  4;  4;   31;   32; 22
-     5; Toluca              ; 17;    9;  3;  5;   30;   26; 15
-     6; Necaxa              ; 17;    8;  5;  4;   29;   24; 19
-     7; Atlas               ; 17;    6;  8;  3;   26;   28; 26
-     8; Toros Neza                ; 17;    8;  0;  9;   24;   30; 36
-     9; Leon                ; 17;    5;  8;  4;   23;   24; 19
-    10; Cruz Azul           ; 17;    5;  5;  7;   20;   26; 26
-    11; Monterrey           ; 17;    5;  4;  8;   19;   15; 21
-    12; U.N.A.M.            ; 17;    4;  6;  7;   18;   23; 27
-    13; Veracruz            ; 17;    4;  6;  7;   18;   14; 21
-    14; U.A.G.              ; 17;    5;  3;  9;   18;   20; 30
-    15; Club America             ; 17;    4;  5;  8;   17;   24; 27
-    16; Celaya              ; 17;    5;  2; 10;   17;   19; 33
-    17; Pachuca             ; 17;    3;  6;  8;   15;   25; 36
-    18; Morelia             ; 17;    3;  3; 11;   12;   20; 31
+ 1; Atlante             ; 17;   12;  2;  3;   38;   30; 11
+ 2; Santos Laguna       ; 17;   10;  4;  3;   34;   21; 15
+ 3; Guadalajara         ; 17;    9;  4;  4;   31;   33; 19
+ 4; Puebla              ; 17;    9;  4;  4;   31;   32; 22
+ 5; Toluca              ; 17;    9;  3;  5;   30;   26; 15
+ 6; Necaxa              ; 17;    8;  5;  4;   29;   24; 19
+ 7; Atlas               ; 17;    6;  8;  3;   26;   28; 26
+ 8; Toros Neza          ; 17;    8;  0;  9;   24;   30; 36
+ 9; Leon                ; 17;    5;  8;  4;   23;   24; 19
+10; Cruz Azul           ; 17;    5;  5;  7;   20;   26; 26
+11; Monterrey           ; 17;    5;  4;  8;   19;   15; 21
+12; U.N.A.M.            ; 17;    4;  6;  7;   18;   23; 27
+13; Veracruz            ; 17;    4;  6;  7;   18;   14; 21
+14; U.A.G.              ; 17;    5;  3;  9;   18;   20; 30
+15; Club America        ; 17;    4;  5;  8;   17;   24; 27
+16; Celaya              ; 17;    5;  2; 10;   17;   19; 33
+17; Pachuca             ; 17;    3;  6;  8;   15;   25; 36
+18; Morelia             ; 17;    3;  3; 11;   12;   20; 31
 
 
-Season: 1997 Apertura
+Season: 1997-1998 Winter
 
-Group: Group 1
+Group: 1
 
- 1;  Club León         ; 17;  9;  5;  3; 32; 30; 22
+ 1; Club León    ; 17;  9;  5;  3; 32; 30; 22
  2; Atlante      ; 17;  8;  6;  3; 30; 26; 17
  3; Veracruz     ; 17;  5;  6;  6; 21; 19; 25
  4; Celaya       ; 17;  5;  5;  7; 20; 21; 26
  5; Puebla       ; 17;  5;  4;  8; 19; 20; 27
 
-Group: Group 2
+Group: 2
 
  1; Cruz Azul    ; 17;  8;  7;  2; 31; 29; 16
  2; Guadalajara  ; 17;  8;  5;  4; 29; 28; 24
@@ -42,32 +42,32 @@ Group: Group 2
  4; Toluca       ; 17;  5;  4;  8; 19; 21; 21
  5; Tigres       ; 17;  5;  3;  9; 18; 20; 26
 
-Group: Group 3
+Group: 3
  
  1; Morelia      ; 17;  7;  7;  3; 28; 25; 19
- 2; Toros Neza         ; 17;  6;  5;  6; 23; 29; 29
+ 2; Toros Neza   ; 17;  6;  5;  6; 23; 29; 29
  3; U.N.A.M.     ; 17;  3;  7;  7; 16; 26; 30
- 4; Santos Laguna       ; 17;  3;  7;  7; 16; 22; 31
+ 4; Santos Laguna; 17;  3;  7;  7; 16; 22; 31
 
-Group: Group 4
+Group: 4
 
- 1; Club America      ; 17;  8;  5;  4; 29; 27; 19
+ 1; Club America ; 17;  8;  5;  4; 29; 27; 19
  2; Atlas        ; 17;  6;  5;  6; 23; 28; 26
  3; Necaxa       ; 17;  4;  6;  7; 18; 26; 31
  4; U.A.G.       ; 17;  3;  7;  7; 16; 19; 27
 
 
-Season: 1998 Clausura
+Season: 1997-1998 Spring
 
-Group: Group 1
+Group: 1
 
  1; Atlante      ; 17;  5;  8;  4; 23  ; 19; 18
  2; Puebla       ; 17;  4;  6;  7; 18; 24; 32
- 3;  Club León         ; 17;  4;  5;  8; 17; 20; 32
+ 3;  Club León   ; 17;  4;  5;  8; 17; 20; 32
  4; Celaya       ; 17;  3;  6;  8; 15; 13; 23
  5; Veracruz     ; 17;  3;  5;  9; 14; 20; 29
 
-Group: Group 2
+Group: 2
 
  1; Toluca       ; 17; 10;  3;  4; 33  ; 39; 25
  2; Cruz Azul    ; 17;  8;  6;  3; 30  ; 32; 18
@@ -75,47 +75,47 @@ Group: Group 2
  4; Guadalajara  ; 17;  5;  4;  8; 19; 19; 17
  5; Monterrey    ; 17;  4;  6;  7; 18; 20; 25
 
-Group: Group 3
+Group: 3
 
- 1; Santos Laguna       ; 17;  8;  2;  7; 26; 24; 22
- 2; Toros Neza         ; 17;  7;  3;  7; 24; 21; 24
+ 1; Santos Laguna; 17;  8;  2;  7; 26; 24; 22
+ 2; Toros Neza   ; 17;  7;  3;  7; 24; 21; 24
  3; Morelia      ; 17;  5;  6;  6; 21; 26; 30
  4; U.N.A.M.     ; 17;  6;  3;  8; 21; 25; 29
 
-Group: Group 4
+Group: 4
 
  1; Necaxa       ; 17; 10;  2;  5; 32  ; 34; 18
  2; Atlas        ; 17;  9;  3;  5; 30  ; 29; 23
  3; U.A.G.       ; 17;  9;  3;  5; 30; 23; 21
- 4; Club America      ; 17;  7;  5;  5; 26; 27; 22
+ 4; Club America ; 17;  7;  5;  5; 26; 27; 22
 
 
-Season: 1998 Apertura
+Season: 1998-1999 Winter
 
-Group: Group 1
+Group: 1
 
  1;Cruz Azul        ; 17; 12;  4;  1; 40; 41; 14
  2;Guadalajara      ; 17; 10;  4;  3; 34; 34; 25
  3;Atlético Celaya  ; 17;  6;  4;  7; 22; 28; 29
- 4; Club León             ; 17;  4;  4;  9; 16; 25; 34
+ 4; Club León       ; 17;  4;  4;  9; 16; 25; 34
  5;Puebla           ; 17;  2;  3; 12;  9; 13; 41
 
-Group: Group 2
+Group: 2
 
  1;Atletico Morelia ; 17;  8;  3;  6; 27; 28; 28
  2;Pumas U.N.A.M.   ; 17;  7;  5;  5; 26; 26; 20
- 3;Club America          ; 17;  6;  4;  7; 22; 30; 31
+ 3;Club America     ; 17;  6;  4;  7; 22; 30; 31
  4;Pachuca          ; 17;  5;  1; 11; 16; 28; 39
  5;Toros Neza       ; 17;  2;  3; 12;  9; 18; 36
 
-Group: Group 3
+Group: 3
  
  1;Necaxa           ; 17; 10;  2;  5; 32; 36; 22
  2;Tecos U.A.G.     ; 17;  9;  4;  4; 31; 31; 23
  3;Atlante          ; 17;  5;  4;  8; 19; 22; 30
  4;Monterrey        ; 17;  4;  7;  6; 19; 20; 30
 
-Group: Group 4
+Group: 4
 
  1;Toluca           ; 17; 10;  6;  1; 36; 39; 14
  2;Atlas            ; 17;  8;  2;  7; 26; 34; 28
@@ -123,31 +123,31 @@ Group: Group 4
  4;Santos Laguna    ; 17;  4;  5;  8; 17; 22; 33
 
 
-Season: 1999 Clausura
+Season: 1998-1999 Spring
 
-Group: Group 1
+Group: 1
 
  1;Cruz Azul        ; 17;  9;  4;  4; 31; 30; 24
  2;Guadalajara      ; 17;  7;  5;  5; 26; 24; 21
  3;Atlético Celaya  ; 17;  6;  6;  5; 24; 29; 26
- 4; Club León             ; 17;  5;  1; 11; 16; 19; 33
+ 4; Club León       ; 17;  5;  1; 11; 16; 19; 33
  5;Puebla           ; 17;  3;  4; 10; 13; 15; 30
 
-Group: Group 2
+Group: 2
 
- 1;Club America          ; 17;  9;  4;  4; 31; 30; 25
+ 1;Club America     ; 17;  9;  4;  4; 31; 30; 25
  2;Atletico Morelia ; 17;  8;  1;  8; 25; 23; 23
  3;Pachuca          ; 17;  6;  6;  5; 24; 23; 22
  4;Pumas U.N.A.M.   ; 17;  6;  3;  8; 21; 19; 27
  5;Toros Neza       ; 17;  4;  5;  8; 17; 21; 29
 
-Group: Group 3
+Group: 3
  1;Necaxa           ; 17;  5;  7;  5; 22; 30; 25
  2;Tecos U.A.G.     ; 17;  6;  1; 10; 19; 21; 28
  3;Atlante          ; 17;  4;  6;  7; 18; 31; 34
  4;Monterrey        ; 17;  4;  2; 11; 14; 25; 38
 
-Group: Group 4
+Group: 4
 
  1;Toluca           ; 17; 12;  3;  2; 39; 50; 23
  2;Atlas            ; 17; 10;  4;  3; 34; 34; 22
@@ -155,17 +155,17 @@ Group: Group 4
  4;Tigres           ; 17;  7;  2;  8; 23; 34; 32
 
 
-Season: 1999 Apertura
+Season: 1999-2000 Winter
 
-Group: Group 1
+Group: 1
 
  1;Toluca           ; 17;  9;  5;  3; 32; 40; 25
  2;Tecos U.A.G.     ; 17;  7;  2;  8; 23; 26; 35
  3;Pumas U.N.A.M.   ; 17;  6;  3;  8; 21; 28; 32
- 4; Club León             ; 17;  5;  3;  9; 18; 22; 32
+ 4; Club León       ; 17;  5;  3;  9; 18; 22; 32
  5;Toros Neza       ; 17;  3;  3; 11; 12; 19; 41
 
-Group: Group 2
+Group: 2
 
  1;Cruz Azul        ; 17;  7;  6;  4; 27; 25; 16
  2;Atletico Morelia ; 17;  6;  4;  7; 22; 26; 26
@@ -173,14 +173,14 @@ Group: Group 2
  4;Monterrey        ; 17;  6;  2;  9; 20; 29; 35
  5;Atlético Celaya  ; 17;  5;  4;  8; 19; 19; 27
 
-Group: Group 3
+Group: 3
 
  1;Atlas            ; 17; 11;  5;  1; 38; 40; 16
- 2;Club America          ; 17;  8;  4;  5; 28; 31; 18
+ 2;Club America     ; 17;  8;  4;  5; 28; 31; 18
  3;Santos Laguna    ; 17;  5;  5;  7; 20; 27; 35
  4;Atlante          ; 17;  3;  7;  7; 16; 20; 29
 
-Group: Group 4
+Group: 4
 
  1;Necaxa           ; 17;  9;  3;  5; 30; 32; 22
  2;Guadalajara      ; 17;  8;  4;  5; 28; 20; 19
@@ -188,18 +188,17 @@ Group: Group 4
  4;Tigres           ; 17;  5;  7;  5; 22; 27; 23
 
 
-Season: 2000 Clausura
+Season: 1999-2000 Spring
 
-
-Group: Group 1
+Group: 1
 
  1;Toluca           ; 17; 13;  1;  3; 40; 44; 28
  2;Pumas U.N.A.M.   ; 17;  8;  4;  5; 28; 29; 22
  3;Toros Neza       ; 17;  6;  2;  9; 20; 25; 37
  4;Tecos U.A.G.     ; 17;  6;  1; 10; 19; 22; 33
- 5; Club León             ; 17;  3;  6;  8; 15; 23; 30
+ 5; Club León       ; 17;  3;  6;  8; 15; 23; 30
 
-Group: Group 2
+Group: 2
 
  1;Atletico Morelia ; 17;  5;  9;  3; 24; 28; 21
  2;Puebla           ; 17;  6;  6;  5; 24; 30; 28
@@ -207,14 +206,14 @@ Group: Group 2
  4;Monterrey        ; 17;  5;  6;  6; 21; 20; 31
  5;Atlético Celaya  ; 17;  4;  7;  6; 19; 23; 28
 
-Group: Group 3
+Group: 3
 
  1;Santos Laguna    ; 17;  8;  7;  2; 31; 31; 22
  2;Atlas            ; 17;  7;  5;  5; 26; 32; 29
- 3;Club America          ; 17;  6;  5;  6; 23; 35; 31
+ 3;Club America     ; 17;  6;  5;  6; 23; 35; 31
  4;Atlante          ; 17;  2;  5; 10; 11; 16; 34
 
-Group: Group 4
+Group: 4
 
  1;Guadalajara      ; 17;  7;  6;  4; 29; 25; 17
  2;Necaxa           ; 17;  6;  7;  4; 25 ; 27; 21
@@ -223,17 +222,17 @@ Group: Group 4
 
 
 
-Season: 2000 Apertura
+Season: 2000-2001 Winter
 
-Group: Group 1
+Group: 1
 
  1;Cruz Azul        ; 17; 10;  3;  4; 33; 34; 21
  2;Toluca           ; 17;  9;  3;  5; 30; 32; 26
  3;Atletico Morelia ; 17;  7;  6;  4; 27; 29; 24
- 4; Club León             ; 17;  4;  6;  7; 18; 27; 33
+ 4; Club León       ; 17;  4;  6;  7; 18; 27; 33
  5;Atlante          ; 17;  3;  8;  6; 17; 24; 28
 
-Group: Group 2
+Group: 2
 
  1;Atlas            ; 17;  6;  7;  4; 25; 35; 29
  2;Irapuato         ; 17;  6;  7;  4; 25; 28; 26
@@ -241,34 +240,34 @@ Group: Group 2
  4;Pumas U.N.A.M.   ; 17;  5;  4;  8; 19; 24; 29
  5;Atlético Celaya  ; 17;  3;  4; 10; 13; 21; 27
  
-Group: Group 3
+Group: 3
 
  1;Necaxa           ; 17;  8;  4;  5; 28; 29; 22
  2;Santos Laguna    ; 17;  7;  5;  5; 26; 32; 29
  3;Monterrey        ; 17;  5;  5;  7; 20; 23; 30
  4;Puebla           ; 17;  4;  4;  9; 16; 18; 29
  
-Group: Group 4
+Group: 4
 
  1;Pachuca          ; 17;  8;  4;  5; 28; 24; 18
- 2;Club America          ; 17;  7;  5;  5; 26; 26; 23
+ 2;Club America     ; 17;  7;  5;  5; 26; 26; 23
  3;Tecos U.A.G.     ; 17;  7;  4;  6; 25; 33; 36
  4;Guadalajara      ; 17;  3;  5;  9; 14; 18; 27
 
 
-Season: 2001 Clausura
+Season: 2000-2001 Spring
 
-Group: Group 1
+Group: 1
 
  1;Atlante          ; 17;  6;  5;  6; 23; 16;16
- 2; Club León             ; 17;  6;  5;  6; 23; 17;22
+ 2; Club León       ; 17;  6;  5;  6; 23; 17;22
  3;Atletico Morelia ; 17;  6;  5;  6; 23; 21;27
  4;Cruz Azul        ; 17;  6;  4;  7; 22; 25;27
  5;Toluca           ; 17;  3;  8;  6; 17; 28;33
 
 * NB: as Atlante enter the relegation playoff, they cannot play the championship playoffs
 
-Group: Group 2
+Group: 2
 
  1;Tigres           ; 17;  7;  6;  4; 27; 23;13
  2;Atlas            ; 17;  6;  4;  7; 22; 32;33
@@ -276,136 +275,152 @@ Group: Group 2
  4;Atlético Celaya  ; 17;  5;  3;  9; 18; 25;27
  5;Irapuato         ; 17;  3;  4; 10; 13; 27;38
 
-Group: Group 3
+Group: 3
 
  1;Santos Laguna    ; 17;  8;  4;  5; 28; 35;27
  2;Monterrey        ; 17;  7;  7;  3; 28; 25;18
  3;Puebla           ; 17;  7;  6;  4; 27; 21;17
  4;Necaxa           ; 17;  5;  4;  8; 19; 20;25
 
-Group: Group 4
+Group: 4
 
- 1;Club America          ; 17;  7;  7;  3; 28; 25;15
+ 1;Club America     ; 17;  7;  7;  3; 28; 25;15
  2;Pachuca          ; 17;  7;  4;  6; 25; 22;22
  3;Tecos U.A.G.     ; 17;  7;  4;  6; 25; 24;27
  4;Guadalajara      ; 17;  5;  7;  5; 22; 21;17
 
 
 
-Season: 2001 Apertura
+Season: 2001-2002 Winter
 
-Group: Group 1
+Group: 1
+
  1; Cruz Azul         ; 18 ; 8 ; 6 ; 4 ;30;33; 24 
  2; Guadalajara       ; 18 ; 6 ; 8 ; 4 ;26;20; 20 
  3; Atlas             ; 18 ; 6 ; 3 ; 9 ;21;25; 29 
  4; Monterrey         ; 18 ; 4 ; 8 ; 6 ;20;23; 31 
  5; Celaya            ; 18 ; 5 ; 4 ; 9 ;19;27; 33 
 
-Group: Group 2 
+Group: 2 
+
  1; Toluca            ; 18 ; 8 ; 8 ; 2 ;32;33; 22 
  2; Santos Laguna     ; 18 ; 7 ; 3 ; 8 ;24;36; 34 
  3; Irapuato          ; 18 ; 4 ; 7 ; 7 ;19;27; 26 
  4; Morelia           ; 18 ; 5 ; 5 ; 8 ;19 ;24; 30 
  5; La Piedad         ; 18 ; 4 ; 7 ; 7 ;19;28; 40 
 
-Group: Group 3: 
+Group: 3
+
  1; Necaxa            ; 18 ; 6 ; 9 ; 3 ;27;21; 20 
  2; Atlante           ; 18 ; 6 ; 8 ; 4 ;26;24; 22 
- 3; Club America           ; 18 ; 6 ; 6 ; 6 ;24;21; 21 
+ 3; Club America      ; 18 ; 6 ; 6 ; 6 ;24;21; 21 
  4; Tecos UAG         ; 18 ; 4 ; 7 ; 7 ;19 ;21; 23 
- 5;  Club León              ; 18 ; 4 ; 7 ; 7 ;19;25; 31 
+ 5;  Club León        ; 18 ; 4 ; 7 ; 7 ;19;25; 31 
 
-Group: Group 4
+Group: 4
+
  1; Tigres            ; 18 ;11 ; 3 ; 4 ;36;26; 12 
  2; Pachuca           ; 18 ; 9 ; 5 ; 4 ;32;29; 24 
  3; Puebla            ; 18 ; 5 ; 8 ; 5 ;23;22; 22 
  4; Pumas             ; 18 ; 3 ; 8 ; 7 ;17 ;21; 22 
 
-Season: 2002 Clausura
+Season: 2001-2002 Spring
 
-Group: Group 1
+Group: 1
+
  1; Atlas             ; 18 ; 8 ; 6 ; 4 ;30 ;30; 28 
  2; Cruz Azul         ; 18 ; 7 ; 6 ; 5 ;27 ;32; 29 
  3; Guadalajara       ; 18 ; 5 ; 7 ; 6 ;22;22; 21 
  4; Monterrey         ; 18 ; 5 ; 5 ; 8 ;20;21; 28 
  5; Celaya            ; 18 ; 5 ; 5 ; 8 ;20;19; 29 
 
-Group: Group 2 
+Group: 2 
+
  1; La Piedad         ; 18 ;12 ; 1 ; 5 ;37 ;35; 17 
  2; Toluca            ; 18 ;10 ; 5 ; 3 ;35 ;35; 17 
  3; Santos Laguna     ; 18 ; 9 ; 4 ; 5 ;31 ;42; 31 
  4; Morelia           ; 18 ; 8 ; 5 ; 5 ;29 ;34; 25 
  5; Veracruz          ; 18 ; 7 ; 3 ; 8 ;24;22; 30 
 
-Group: Group 3: 
+Group: 3: 
+
  1; Necaxa            ; 18 ; 7 ; 6 ; 5 ;27 ;34; 23 
- 2; Club America           ; 18 ; 7 ; 6 ; 5 ;27 ;27; 23 
+ 2; Club America      ; 18 ; 7 ; 6 ; 5 ;27 ;27; 23 
  3; Atlante           ; 18 ; 5 ; 5 ; 8 ;20;23; 29 
  4; Tecos UAG         ; 18 ; 2 ; 8 ; 8 ;14;25; 34 
- 5;  Club León              ; 18 ; 2 ; 4 ;12 ;10;17; 36 
+ 5;  Club León        ; 18 ; 2 ; 4 ;12 ;10;17; 36 
 
-Group: Group 4
+Group: 4
+
  1; Pumas             ; 18 ; 9 ; 5 ; 4 ;32 ;30; 22 
  2; Tigres            ; 18 ; 7 ; 6 ; 5 ;27 ;25; 23 
  3; Pachuca           ; 18 ; 6 ; 4 ; 8 ;22;26; 33 
  4; Puebla            ; 18 ; 2 ; 5 ;11 ;11;24; 45 
 
 
-Season: 2002 Apertura
+Season: 2002-2003 Apertura
 
-Group: Group 1
- 1; Club America           ; 19 ;13 ; 4 ; 2 ;43;34; 14 
+Group: 1
+
+ 1; Club America      ; 19 ;13 ; 4 ; 2 ;43;34; 14 
  2; Toluca            ; 19 ;12 ; 5 ; 2 ;41;55; 25 
  3; Atlas             ; 19 ; 7 ; 1 ;11 ;22;28; 31 
  4; Puebla            ; 19 ; 6 ; 4 ; 9 ;22;23; 29 
  5; Celaya            ; 19 ; 5 ; 6 ; 8 ;21;24; 32 
 
-Group: Group 2 
+Group: 2 
+
  1; Pumas             ; 19 ;10 ; 3 ; 6 ;33;39; 35 
  2; Tecos UAG         ; 19 ; 8 ; 5 ; 6 ;29;26; 29 
  3; Tigres            ; 19 ; 6 ; 5 ; 8 ;23;32; 33 
  4; Monterrey         ; 19 ; 5 ; 7 ; 7 ;22;18; 20 
  5; Pachuca           ; 19 ; 2 ; 9 ; 8 ;15;21; 35 
  
-Group: Group 3
+Group: 3
+
  1; Morelia           ; 19 ; 9 ; 5 ; 5 ;32;35; 23 
  2; Cruz Azul         ; 19 ; 7 ; 7 ; 5 ;28;30; 26 
  3; Necaxa            ; 19 ; 8 ; 2 ; 9 ;26;28; 32 
  4; San Luis          ; 19 ; 6 ; 6 ; 7 ;24;31; 28 
  5; Jaguares Chiapas  ; 19 ; 3 ; 7 ; 9 ;16;19; 34 
 
-Group: Group 4
+Group: 4
+
  1; Guadalajara       ; 19 ; 6 ; 9 ; 4 ;27;28; 29 
  2; Santos Laguna     ; 19 ; 7 ; 5 ; 7 ;26;30; 28 
  3; Atlante           ; 19 ; 6 ; 7 ; 6 ;25 ;31; 33 
  4; Gallos Blancos    ; 19 ; 6 ; 5 ; 8 ;23 ;28; 34 
  5; Veracruz          ; 19 ; 4 ; 6 ; 9 ;18;30; 40 
 
-Season: 2002 Clausura
 
+Season: 2002-2003 Clausura
 
-Group: Group 1
+Group: 1
+
  1; Toluca            ; 19 ;10 ; 3 ; 6 ;33;40; 30 
  2; Atlas             ; 19 ; 8 ; 8 ; 3 ;32;29; 20 
- 3; Club America           ; 19 ; 8 ; 5 ; 6 ;29;29; 20 
+ 3; Club America      ; 19 ; 8 ; 5 ; 6 ;29;29; 20 
  4; Colibríes         ; 19 ; 6 ; 5 ; 8 ;23;24; 27 
  5; Puebla            ; 19 ; 4 ; 4 ;11 ;16;15; 31 
 
-Group: Group 2 
+Group: 2 
+
  1; Monterrey         ; 19 ; 9 ; 7 ; 3 ;34;31; 22 
  2; Tigres            ; 19 ;10 ; 4 ; 5 ;34;25; 22 
  3; Pachuca           ; 19 ; 4 ; 9 ; 6 ;21;21; 23 
  4; Pumas             ; 19 ; 4 ; 8 ; 7 ;20;25; 35 
  5; Tecos UAG         ; 19 ; 1 ; 4 ;14 ; 7;15; 37 
  
-Group: Group 3
+Group: 3
+
  1; Morelia           ; 19 ;10 ; 5 ; 4 ;35;34; 20 
  2; Cruz Azul         ; 19 ; 5 ; 9 ; 5 ;24;24; 24 
  3; Necaxa            ; 19 ; 6 ; 5 ; 8 ;23;25; 24 
  4; San Luis          ; 19 ; 5 ; 5 ; 9 ;20;25; 38 
  5; Jaguares Chiapas  ; 19 ; 5 ; 4 ;10 ;19;15; 26 
 
-Group: Group 4
+Group: 4
+
  1; Atlante           ; 19 ;10 ; 4 ; 5 ;34;39; 26 
  2; Veracruz          ; 19 ; 9 ; 5 ; 5 ;32;23; 18 
  3; Guadalajara       ; 19 ; 8 ; 7 ; 4 ;31;32; 24 
@@ -413,60 +428,69 @@ Group: Group 4
  5; Gallos Blancos    ; 19 ; 3 ; 8 ; 8 ;17;13; 23 
 
 
-Season: 2003 Apertura
+Season: 2003-2004 Apertura
 
-Group: Group 1
+Group: 1
+
  1; Pachuca           ;  19; 10;  6;  3; 36; 28; 19
  2; Toluca            ;  19;  8;  3;  8; 27; 33; 24
  3; Monterrey         ;  19;  5;  7;  7; 22; 29; 29
  4; Puebla            ;  19;  5;  5;  9; 20; 23; 30
  5; Atlas             ;  19;  5;  4; 10; 19; 29; 32
 
-Group: Group 2 
+Group: 2 
+
  1; Tigres            ;  19; 11;  4;  4; 38; 38; 20
  2; Cruz Azul         ;  19;  7;  6;  6; 27; 30; 30
  3; Morelia           ;  19;  7;  5;  7; 25; 25; 29
  4; Jaguares Chiapas  ;  19;  5;  6;  8; 21; 21; 34
  5; San Luis          ;  19;  2;  5; 12; 11; 20; 39
  
-Group: Group 3
+Group: 3
+
  1; Pumas             ;  19; 11;  5;  3; 38; 34; 23
  2; Santos Laguna     ;  19;  8;  7;  4; 31; 41; 29
  3; Tecos UAG         ;  19;  9;  4;  6; 31; 31; 29
- 4; Club America           ;  19;  8;  4;  7; 28; 34; 26
+ 4; Club America      ;  19;  8;  4;  7; 28; 34; 26
  5; Gallos Blancos    ;  19;  1;  4; 14;  7; 16; 44
 
-Group: Group 4
+Group: 4
+
  1; Atlante           ;  19;  8;  7;  4; 32; 32; 21
  2; Necaxa            ;  19;  7;  9;  3; 30; 23; 18
  3; Guadalajara       ;  19;  9;  2;  8; 29; 30; 28
  4; Veracruz          ;  19;  8;  3;  8; 27; 34; 38
  5; Irapuato          ;  19;  6;  4;  9; 22; 23; 32
 
-Season: 2004 Clausura
 
-Group: Group 1
+Season: 2003-2004 Clausura
+
+Group: 1
+
  1; Toluca            ;  19;  8;  6;  5; 30 ; 31; 25
  2; Atlas             ;  19;  6;  9;  4; 27 ; 28; 25
  3; Pachuca           ;  19;  6;  8;  5; 26 ; 32; 33
  4; Puebla            ;  19;  5;  5;  9; 20; 27; 29
  5; Monterrey         ;  19;  2; 12;  5; 18; 28; 30
 
-Group: Group 2 
+Group: 2 
+
  1; Jaguares Chiapas  ;  19; 12;  6;  1; 42 ; 35; 20
  2; Cruz Azul         ;  19;  6;  5;  8; 23 ; 36; 34
  3; Tigres            ;  19;  6;  5;  8; 23 ; 37; 39
  4; Morelia           ;  19;  6;  4;  9; 22; 25; 35
  5; San Luis          ;  19;  4;  6;  9; 18; 23; 35
  
-Group: Group 3
+Group: 3
+
  1; Pumas             ;  19; 12;  5;  2; 41 ; 42; 19
- 2; Club America           ;  19;  9;  5;  5; 32 ; 34; 27
+ 2; Club America      ;  19;  9;  5;  5; 32 ; 34; 27
  3; Gallos Blancos    ;  19;  5;  9;  5; 24 ; 24; 27
  4; Santos Laguna     ;  19;  6;  3; 10; 21 ; 31; 30
  5; Tecos UAG         ;  19;  5;  3; 11; 18 ; 32; 40
 
-Group: Group 4
+Group: 4
+
  1; Guadalajara       ;  19; 10;  4;  5; 34 ; 30; 23
  2; Atlante           ;  19;  7;  6;  6; 27 ; 29; 26
  3; Irapuato          ;  19;  6;  8;  5; 26; 23; 30
@@ -474,19 +498,21 @@ Group: Group 4
  5; Veracruz          ;  19;  4;  5; 10; 17; 25; 41
 
 
-Season: 2004 Apertura
+Season: 2004-2005 Apertura
 
 * NB: for 2004/05 the league is reduced to 18 clubs; Gallos Blancos and Irapuato were excluded, after a vote among the club owners which was survived by Puebla and Santos Laguna (the other two candidates for exclusion).  Queretaro will play at the 2nd level 2004/05 while Irapuato (who were also robbed of their franchise at the end of 2000/01 when their team was moved to Veracruz) will not play at all next season. 
 
-Group: Group 1
+Group: 1
+
  1; Atlante         ; 17   ;7  ;3  ;7  ; 24;27; 33 
  2; Pumas           ; 17   ;7  ;2  ;8  ; 23;25; 31 
  3; Morelia         ; 17   ;6  ;4  ;7  ; 22;29; 30 
- 4; Club America         ; 17   ;5  ;5  ;7  ; 20;17; 23 
+ 4; Club America    ; 17   ;5  ;5  ;7  ; 20;17; 23 
  5; Dorados         ; 17   ;4  ;4  ;9  ; 16;25; 32 
  6; Tecos           ; 17   ;4  ;4  ;9  ;17; 29 ; 16
  
-Group: Group 2
+Group: 2
+
  1; Toluca          ; 17  ;10  ;2  ;5  ; 32;27; 15 
  2; Atlas           ; 17   ;9  ;4  ;4  ; 31;34; 24 
  3; Guadalajara     ; 17   ;8  ;5  ;4  ; 29;34; 22 
@@ -494,26 +520,29 @@ Group: Group 2
  5; Puebla          ; 17   ;5  ;6  ;6  ; 21;17; 23 
  6; Cruz Azul       ; 17   ;4  ;4  ;9  ;30; 37 ; 16
  
-Group: Group 3
+Group: 3
+
  1; Veracruz        ; 17  ;11  ;2  ;4  ; 35;27; 25 
  2; Pachuca         ; 17   ;9  ;5  ;3  ; 32;30; 19 
  3; Monterrey       ; 17   ;8  ;3  ;6  ; 27;36; 34 
  4; Necaxa          ; 17   ;6  ;3  ;8  ; 21;27; 26 
  5; Santos Laguna   ; 17   ;5  ;3  ;9  ; 18;22; 22 
- 6; Jaguares Chiapas        ; 17   ;4  ;6  ;7  ;20; 29 ; 18
+ 6; Jaguares Chiapas; 17   ;4  ;6  ;7  ;20; 29 ; 18
 
 
-Season: 2005 Clausura 
+Season: 2004-2005 Clausura 
 
-Group: Group 1
+Group: 1
+
  1; Morelia         ; 17  ;11  ;2  ;4  ; 35;27; 16 
- 2; Club America         ; 17   ;7  ;9  ;1  ; 30;38; 27 
+ 2; Club Americ     ; 17   ;7  ;9  ;1  ; 30;38; 27 
  3; Tecos           ; 17   ;8  ;5  ;4  ; 29;31; 21 
  4; Dorados         ; 17   ;7  ;5  ;5  ; 26;23; 19 
  5; Atlante         ; 17   ;5  ;5  ;7  ; 20;24; 21 
  6; Pumas           ; 17   ;4  ;2 ;11  ;19; 28 ; 14
  
-Group: Group 2
+Group: 2
+
  1; Cruz Azul       ; 17   ;9  ;4  ;4  ; 31;36; 19 
  2; Tigres          ; 17   ;6  ;6  ;5  ; 24;25; 19 
  3; Guadalajara     ; 17   ;6  ;5  ;6  ; 23;29; 31 
@@ -521,28 +550,29 @@ Group: Group 2
  5; Puebla          ; 17   ;4  ;4  ;9  ; 16;19; 29 
  6; Atlas           ; 17   ;2  ;5 ;10  ; 11;21; 35 
  
-Group: Group 3
+Group: 3
+
  1; Necaxa          ; 17   ;9  ;1  ;7  ; 28;28; 20 
  2; Santos Laguna   ; 17   ;9  ;1  ;7  ; 28;31; 31 
  3; Monterrey       ; 17   ;8  ;3  ;6  ; 27;24; 25 
- 4; Jaguares Chiapas        ; 17   ;6  ;4  ;7  ; 22;19; 23 
+ 4; Jaguares Chiapas; 17   ;6  ;4  ;7  ; 22;19; 23 
  5; Pachuca         ; 17   ;5  ;5  ;7  ; 20;20; 27 
  6; Veracruz        ; 17   ;3  ;5  ;9  ; 14;15; 33 
 
 
+Season: 2005-2006 Apertura
 
+Group: 1
 
-Season: 2005 Apertura
-
-Group: Group 1
- 1; Club America         ; 17;  12;  2 ; 3 ;  38; 34; 22
+ 1; Club America    ; 17;  12;  2 ; 3 ;  38; 34; 22
  2; Necaxa          ; 17;   9;  4 ; 4 ;  31; 35; 31
  3; Tecos           ; 17;   7;  3 ; 7 ;  24; 27; 28
  4; Morelia         ; 17;   6;  2 ; 9 ;  20; 27; 29
  5; San Luis        ; 17;   4;  4 ; 9 ;  16; 18; 25
  6; Atlante         ; 17;   4;  3 ;10 ;  15; 29; 37
  
-Group: Group 2
+Group: 2
+
  1; Toluca          ; 17;   9;  3 ; 5 ;  30; 27; 21
  2; Pachuca         ; 17;   7;  7 ; 3 ;  28; 26; 18
  3; Santos Laguna   ; 17;   5;  5 ; 7 ;  20; 31; 31
@@ -550,27 +580,30 @@ Group: Group 2
  5; Pumas           ; 17;   4;  4 ; 9 ;  16; 17; 34
  6; Veracruz        ; 17;   3;  6 ; 8 ;  15; 24; 34
  
-Group: Group 3
+Group: 3
+
  1; Monterrey       ; 17;  10;  5 ; 2 ;  35; 32; 20
  2; Cruz Azul       ; 17;   9;  3 ; 5 ;  30; 34; 20
  3; Tigres          ; 17;   6;  4 ; 7 ;  22; 30; 25
  4; Atlas           ; 17;   6;  3 ; 8 ;  21; 22; 24
- 5; Jaguares Chiapas        ; 17;   5;  8 ; 4 ;  20; 30; 27
+ 5; Jaguares Chiapas; 17;   5;  8 ; 4 ;  20; 30; 27
 *   [-3]
  6; Guadalajara     ; 17;   4;  7 ; 6 ;  19; 16; 22
 
 
-Season: 2006 Clausura 
+Season: 2005-2006 Clausura 
 
-Group: Group 1
+Group: 1
+
  1; Atlante         ; 17;   8;  3 ; 6 ;  27; 19; 15
  2; San Luis        ; 17;   7;  4 ; 6 ;  25; 23; 19
  3; Morelia         ; 17;   5;  7 ; 5 ;  22; 19; 20
  4; Tecos           ; 17;   6;  4 ; 7 ;  22; 18; 29
- 5; Club America         ; 17;   6;  3 ; 8 ;  21; 20; 23
+ 5; Club America    ; 17;   6;  3 ; 8 ;  21; 20; 23
  6; Necaxa          ; 17;   5;  3 ; 9 ;  18; 19; 28
  
-Group: Group 2
+Group: 2
+
  1; Pachuca         ; 17;   9;  4 ; 4 ;  31; 33; 19
  2; Toluca          ; 17;   7;  3 ; 7 ;  24; 22; 19
  3; Dorados         ; 17;   4; 10 ; 3 ;  22; 24; 24
@@ -578,8 +611,9 @@ Group: Group 2
  5; Veracruz        ; 17;   5;  5 ; 7 ;  20; 16; 19
  6; Santos Laguna   ; 17;   3;  9 ; 5 ;  18; 20; 25
  
-Group: Group 3
- 1; Jaguares Chiapas        ; 17;   9;  3 ; 5 ;  30; 28; 18
+Group: 3
+
+ 1; Jaguares Chiapas; 17;   9;  3 ; 5 ;  30; 28; 18
  2; Cruz Azul       ; 17;   9;  3 ; 5 ;  30; 29; 20
  3; Guadalajara     ; 17;   6;  5 ; 6 ;  23; 19; 26
  4; Tigres          ; 17;   4;  9 ; 4 ;  21; 15; 15
@@ -587,18 +621,20 @@ Group: Group 3
  6; Monterrey       ; 17;   5;  3 ; 9 ;  18; 17; 21
 
 
-Season: 2006 Apertura
+Season: 2006-2007 Apertura
 
-Group: Group 1
+Group: 1
+
  1; Cruz Azul      ;  17 ;  9 ; 3 ; 5 ; 30; 27; 20 
  2; Atlas          ;  17 ;  7 ; 6 ; 4 ; 27; 25; 19 
  3; Guadalajara    ;  17 ;  7 ; 5 ; 5 ; 26; 26; 18 
- 4; Jaguares Chiapas       ;  17 ;  6 ; 5 ; 6 ; 23; 19; 16 
+ 4; Jaguares Chiapas  ;  17 ;  6 ; 5 ; 6 ; 23; 19; 16 
  5; Queretaro FC      ;  17 ;  5 ; 6 ; 6 ; 18; 20; 25 
 *   [-3]  [aka Gallos Blancos]
  6; Necaxa         ;  17 ;  4 ; 5 ; 8 ; 17; 18; 26 
 
-Group: Group 2
+Group: 2
+
  1; Monterrey      ;  17 ;  7 ; 6 ; 4 ; 27; 27; 21 
  2; Pachuca        ;  17 ;  7 ; 5 ; 5 ; 26; 32; 22 
  3; Veracruz       ;  17 ;  8 ; 2 ; 7 ; 26; 26; 31 
@@ -607,9 +643,10 @@ Group: Group 2
 *   [-3]
  6; Tecos UAG      ;  17 ;  3 ; 4 ;10 ; 13; 22; 35 
 
-Group: Group 3 
+Group: 3 
+
  1; Pumas UNAM     ;  17 ;  8 ; 5 ; 4 ; 29; 21; 11 
- 2; Club America        ;  17 ;  8 ; 5 ; 4 ; 29; 21; 15 
+ 2; Club America   ;  17 ;  8 ; 5 ; 4 ; 29; 21; 15 
  3; Toluca         ;  17 ;  7 ; 6 ; 4 ; 27; 27; 16 
  4; Morelia        ;  17 ;  7 ; 2 ; 8 ; 23; 24; 26 
  5; Tigres UANL    ;  17 ;  3 ; 5 ; 9 ; 14; 14; 37 
@@ -617,19 +654,20 @@ Group: Group 3
 
 
 
-Season: 2007 Clausura
+Season: 2006-2007 Clausura
 
+Group: 1
 
-Group: Group 1
  1; Guadalajara    ;  16 ;  9 ; 4 ; 3 ; 31; 27; 13 
  2; Cruz Azul      ;  16 ;  8 ; 4 ; 4 ; 28; 22; 15 
  3; Atlas          ;  16 ;  6 ; 4 ; 6 ; 22; 18; 17 
- 4; Queretaro FC      ;  16 ;  4 ; 7 ; 5 ; 19  ; 15; 18 
+ 4; Queretaro FC   ;  16 ;  4 ; 7 ; 5 ; 19  ; 15; 18 
 * [aka Gallos Blancos]
  5; Necaxa         ;  16 ;  4 ; 5 ; 7 ; 17; 18; 25 
  6; Jaguares Chiapas       ;  16 ;  4 ; 4 ; 8 ; 16; 15; 26 
 
-Group: Group 2
+Group: 2
+
  1; Pachuca        ;  16 ; 11 ; 3 ; 2 ; 36; 32; 11 
  2; San Luis       ;  16 ;  7 ; 3 ; 6 ; 24; 21; 21 
  3; Tecos UAG      ;  16 ;  5 ; 7 ; 4 ; 22; 28; 23 
@@ -637,8 +675,9 @@ Group: Group 2
  5; Monterrey      ;  16 ;  5 ; 4 ; 7 ; 19; 17; 22 
  6; Veracruz       ;  16 ;  3 ; 2 ;11 ; 11; 10; 32 
 
-Group: Group 3 
- 1; Club America        ;  16 ;  9 ; 3 ; 4 ; 30; 25; 13 
+Group: 3 
+
+ 1; Club America   ;  16 ;  9 ; 3 ; 4 ; 30; 25; 13 
  2; Tigres UANL    ;  16 ;  6 ; 4 ; 6 ; 22; 16; 19 
  3; Pumas UNAM     ;  16 ;  3 ;10 ; 3 ; 19; 18; 17 
  4; Santos Laguna  ;  16 ;  5 ; 4 ; 7 ; 19; 19; 20 
@@ -647,9 +686,10 @@ Group: Group 3
 
 
 
-Season: 2007 Apertura
+Season: 2007-2008 Apertura
 
-Group: Group 1
+Group: 1
+
  1; Toluca         ;  17 ; 10 ; 4 ; 3 ; 34 ; 27; 16 
  2; Pumas UNAM     ;  17 ;  6 ; 6 ; 5 ; 24 ; 32; 19 
  3; Pachuca        ;  17 ;  7 ; 3 ; 7 ; 24 ; 26; 23 
@@ -657,15 +697,17 @@ Group: Group 1
  5; Puebla         ;  17 ;  4 ; 5 ; 8 ; 17; 16; 24 
  6; Tecos UAG      ;  17 ;  5 ; 2 ;10 ; 17; 24; 38 
 
-Group: Group 2
+Group: 2
+
  1; Santos Laguna  ;  17 ; 11 ; 5 ; 1 ; 38; 40; 22 
  2; Atlante        ;  17 ;  9 ; 6 ; 2 ; 33; 32; 19 
- 3; Club America        ;  17 ;  7 ; 5 ; 5 ; 26; 26; 22 
+ 3; Club America   ;  17 ;  7 ; 5 ; 5 ; 26; 26; 22 
  4; Veracruz       ;  17 ;  5 ; 3 ; 9 ; 18; 20; 35 
  5; Monterrey      ;  17 ;  3 ; 5 ; 9 ; 14; 18; 25 
  6; Atlas          ;  17 ;  3 ; 3 ;11 ; 12; 23; 33 
 
-Group: Group 3 
+Group: 3 
+
  1; Guadalajara    ;  17 ;  9 ; 4 ; 4 ; 31; 28; 16 
  2; San Luis       ;  17 ;  8 ; 5 ; 4 ; 29; 31; 30 
  3; Cruz Azul      ;  17 ;  7 ; 4 ; 6 ; 25; 27; 22 
@@ -674,9 +716,10 @@ Group: Group 3
  6; Tigres UANL    ;  17 ;  4 ; 4 ; 9 ; 16; 16; 22 
 
 
-Season: 2008 Clausura
+Season: 2007-2008 Clausura
 
-Group: Group 1
+Group: 1
+
  1; Toluca         ;  17 ;  7 ; 6 ; 4 ; 27; 23; 19 
  2; Jaguares Chiapas       ;  17 ;  7 ; 5 ; 5 ; 26; 23; 19 
  3; Pachuca        ;  17 ;  6 ; 4 ; 7 ; 22; 27; 25 
@@ -684,15 +727,17 @@ Group: Group 1
  5; Pumas UNAM     ;  17 ;  5 ; 5 ; 7 ; 20; 21; 26 
  6; Tecos UAG      ;  17 ;  4 ; 5 ; 8 ; 17; 17; 29 
 
-Group: Group 2
+Group: 2
+
  1; Santos Laguna  ;  17 ;  8 ; 7 ; 2 ; 31; 36; 19 
  2; Monterrey      ;  17 ;  6 ; 6 ; 5 ; 24; 27; 22 
  3; Atlas          ;  17 ;  6 ; 5 ; 6 ; 23; 21; 24 
  4; Atlante        ;  17 ;  3 ; 8 ; 6 ; 17; 24; 30 
  5; Veracruz       ;  17 ;  4 ; 5 ; 8 ; 17; 22; 29 
- 6; Club America        ;  17 ;  3 ; 2 ;12 ; 11; 12; 27 
+ 6; Club America   ;  17 ;  3 ; 2 ;12 ; 11; 12; 27 
 
-Group: Group 3 
+Group: 3 
+
  1; Guadalajara    ;  17 ;  9 ; 6 ; 2 ; 33; 32; 14 
  2; Cruz Azul      ;  17 ;  9 ; 4 ; 4 ; 31; 27; 17 
  3; San Luis       ;  17 ;  8 ; 6 ; 3 ; 30; 25; 23 
@@ -701,9 +746,10 @@ Group: Group 3
  6; Morelia        ;  17 ;  5 ; 3 ; 9 ; 18; 11; 25 
 
 
-Season: 2008 Apertura
+Season: 2008-2009 Apertura
 
-Group: Group 1
+Group: 1
+
  1; Atlante        ;  17 ;  7 ; 6 ; 4 ; 27; 22; 16 
  2; Santos Laguna  ;  17 ;  5 ; 7 ; 5 ; 22; 22; 20 
  3; Pachuca        ;  17 ;  5 ; 6 ; 6 ; 21; 25; 25 
@@ -711,15 +757,17 @@ Group: Group 1
  5; Monterrey      ;  17 ;  5 ; 4 ; 8 ; 19; 18; 26 
  6; Puebla         ;  17 ;  2 ; 9 ; 6 ; 15; 12; 21 
 
-Group: Group 2
+Group: 2
+
  1; Pumas UNAM     ;  17 ;  7 ; 5 ; 5 ; 26; 22; 13 
  2; Cruz Azul      ;  17 ;  7 ; 5 ; 5 ; 26; 29; 23 
  3; Tecos UAG      ;  17 ;  7 ; 4 ; 6 ; 25; 30; 28 
  4; Guadalajara    ;  17 ;  6 ; 7 ; 4 ; 25; 23; 23 
  5; Morelia        ;  17 ;  6 ; 6 ; 5 ; 24; 27; 20 
- 6; Club America        ;  17 ;  5 ; 6 ; 6 ; 21; 22; 23 
+ 6; Club America   ;  17 ;  5 ; 6 ; 6 ; 21; 22; 23 
 
-Group: Group 3
+Group: 3
+
  1; San Luis       ;  17 ;  8 ; 5 ; 4 ; 29; 24; 20 
  2; Toluca         ;  17 ;  7 ; 6 ; 4 ; 27; 25; 16 
  3; Tigres UANL    ;  17 ;  7 ; 5 ; 5 ; 26; 22; 16 
@@ -729,9 +777,10 @@ Group: Group 3
 
 
 
-Season: 2009 Clausura
+Season: 2008-2009 Clausura
 
-Group: Group 1
+Group: 1
+
  1; Pachuca        ;  17 ; 11 ; 3 ; 3 ; 36; 42; 23 
  2; Monterrey      ;  17 ;  7 ; 5 ; 5 ; 26; 28; 22 
  3; Puebla         ;  17 ;  7 ; 5 ; 5 ; 26; 21; 24 
@@ -739,15 +788,17 @@ Group: Group 1
  5; Santos Laguna  ;  17 ;  5 ; 7 ; 5 ; 22; 25; 20 
  6; Atlante        ;  17 ;  3 ; 8 ; 6 ; 17; 18; 21 
 
-Group: Group 2
+Group: 2
+
  1; Pumas UNAM     ;  17 ;  8 ; 4 ; 5 ; 28; 23; 17 
  2; Tecos UAG      ;  17 ;  6 ; 7 ; 4 ; 25; 21; 17 
- 3; Club America        ;  17 ;  6 ; 5 ; 6 ; 23; 25; 27 
+ 3; Club America   ;  17 ;  6 ; 5 ; 6 ; 23; 25; 27 
  4; Morelia        ;  17 ;  5 ; 7 ; 5 ; 22; 19; 20 
  5; Guadalajara    ;  17 ;  5 ; 6 ; 6 ; 21; 21; 20 
  6; Cruz Azul      ;  17 ;  2 ; 7 ; 8 ; 13; 26; 33 
 
-Group: Group 3
+Group: 3
+
  1; Toluca         ;  17 ; 10 ; 6 ; 1 ; 36; 34; 19 
  2; Jaguares Chiapas       ;  17 ;  5 ; 6 ; 6 ; 21; 22; 24 
  3; Atlas          ;  17 ;  5 ; 6 ; 6 ; 21; 22; 29 
@@ -756,134 +807,139 @@ Group: Group 3
  6; Necaxa         ;  17 ;  3 ; 5 ; 9 ; 14; 17; 30 
 
 
+Season: 2009-2010 Apertura
 
-Season: 2009 Apertura
+Group: 1
 
-Group: Group 1
  1; Toluca                           ;   17 ; 11 ; 2 ; 4 ; 35; 32; 19 
  2; San Luis                         ;   17 ;  5 ; 6 ; 6 ; 21; 21; 24 
  3; Guadalajara                      ;   17 ;  5 ; 4 ; 8 ; 19; 23; 29 
  4; Atlas                            ;   17 ;  5 ; 3 ; 9 ; 18; 14; 25 
- 5; Queretaro FC                        ;   17 ;  5 ; 3 ; 9 ; 18; 17; 29 
+ 5; Queretaro FC                     ;   17 ;  5 ; 3 ; 9 ; 18; 17; 29 
  6; Indios                           ;   17 ;  0 ; 6 ;11 ;  6;  7; 26 
 
-Group: Group 2
+Group: 2
+
  1; Morelia                          ;   17 ; 10 ; 3 ; 4 ; 33; 31; 15 
- 2; Club America                          ;   17 ;  8 ; 6 ; 3 ; 30; 29; 16 
+ 2; Club America                     ;   17 ;  8 ; 6 ; 3 ; 30; 29; 16 
  3; Monterrey                        ;   17 ;  9 ; 3 ; 5 ; 30; 27; 16 
  4; Puebla                           ;   17 ;  6 ; 8 ; 3 ; 26; 19; 19 
  5; Pachuca                          ;   17 ;  7 ; 3 ; 7 ; 24; 24; 29 
- 6; Jaguares Chiapas                         ;   17 ;  5 ; 4 ; 8 ; 19; 17; 22 
+ 6; Jaguares Chiapas                 ;   17 ;  5 ; 4 ; 8 ; 19; 17; 22 
 
-Group: Group 3
+Group: 3
+
  1; Cruz Azul                        ;   17 ; 11 ; 0 ; 6 ; 33; 35; 19 
  2; Santos Laguna                    ;   17 ;  7 ; 6 ; 4 ; 27; 29; 24 
  3; Atlante                          ;   17 ;  7 ; 2 ; 8 ; 23; 18; 23 
  4; Tigres UANL                      ;   17 ;  5 ; 7 ; 5 ; 22; 23; 18 
- 5; Tecos                      ;   17 ;  5 ; 5 ; 7 ; 20; 23; 29 
+ 5; Tecos                            ;   17 ;  5 ; 5 ; 7 ; 20; 23; 29 
  6; Pumas UNAM                       ;   17 ;  4 ; 5 ; 8 ; 17; 16; 23 
 
 
 
-Season: 2010 Clausura
-
+Season: 2009-2010 Clausura
 * NB: official name Torneo Bicentenario 2010, celebrating the 200th anniversary of the start of the Independence War against Spain
 
-Group: Group 1
+Group: 1
+
  1; Guadalajara                      ;   17 ; 10 ; 2 ; 5 ; 32; 28; 21 
  2; Toluca                           ;   17 ;  8 ; 6 ; 3 ; 30; 27; 15 
  3; Atlas                            ;   17 ;  7 ; 3 ; 7 ; 24; 26; 23 
- 4; Queretaro FC                        ;   17 ;  6 ; 3 ; 8 ; 21; 13; 25 
+ 4; Queretaro FC                     ;   17 ;  6 ; 3 ; 8 ; 21; 13; 25 
  5; Indios                           ;   17 ;  4 ; 3 ;10 ; 15; 10; 29 
  6; San Luis                         ;   17 ;  3 ; 5 ; 9 ; 14; 18; 29 
 
-Group: Group 2
+Group: 2
+
  1; Monterrey                        ;   17 ; 10 ; 6 ; 1 ; 36; 30; 15 
- 2; Club America                          ;   17 ;  7 ; 4 ; 6 ; 25; 29; 20 
+ 2; Club America                     ;   17 ;  7 ; 4 ; 6 ; 25; 29; 20 
  3; Morelia                          ;   17 ;  7 ; 4 ; 6 ; 25; 22; 13 
  4; Pachuca                          ;   17 ;  7 ; 4 ; 6 ; 25; 27; 26 
- 5; Jaguares Chiapas                         ;   17 ;  4 ; 7 ; 6 ; 19; 22; 24 
+ 5; Jaguares Chiapas                 ;   17 ;  4 ; 7 ; 6 ; 19; 22; 24 
  6; Puebla                           ;   17 ;  5 ; 4 ; 8 ; 19; 28; 31 
 
-Group: Group 3
+Group: 3
+
  1; Pumas UNAM                       ;   17 ;  7 ; 7 ; 3 ; 28; 20; 10 
  2; Santos Laguna                    ;   17 ;  8 ; 4 ; 5 ; 28; 27; 25 
  3; Cruz Azul                        ;   17 ;  7 ; 4 ; 6 ; 25; 20; 20 
- 4; Tecos                      ;   17 ;  5 ; 4 ; 8 ; 19; 26; 32 
+ 4; Tecos                            ;   17 ;  5 ; 4 ; 8 ; 19; 26; 32 
  5; Tigres UANL                      ;   17 ;  5 ; 4 ; 8 ; 19; 19; 26 
  6; Atlante                          ;   17 ;  4 ; 4 ; 9 ; 16; 21; 29 
 
 
+Season: 2010-2011 Apertura
 
-Season: 2010 Apertura
+Group: 1
 
-Group: Group 1
  1; Monterrey                        ;   17 ;  9 ; 5 ; 3 ; 32 ; 29; 20 
  2; Santos Laguna                    ;   17 ;  9 ; 3 ; 5 ; 30 ; 28; 19 
  3; Tigres                           ;   17 ;  6 ; 6 ; 5 ; 24; 24; 16 
  4; Guadalajara                      ;   17 ;  4 ;10 ; 3 ; 22; 16; 15 
  5; Necaxa                           ;   17 ;  4 ; 4 ; 9 ; 16; 14; 21 
- 6; Tecos                  ;   17 ;  4 ; 3 ;10 ; 15; 18; 36 
+ 6; Tecos                            ;   17 ;  4 ; 3 ;10 ; 15; 18; 36 
  
-Group: Group 2
- 1; Club America                          ;   17 ;  7 ; 6 ; 4 ; 27 ; 22; 16 
+Group: 2
+
+ 1; Club America                     ;   17 ;  7 ; 6 ; 4 ; 27 ; 22; 16 
  2; San Luis                         ;   17 ;  8 ; 2 ; 7 ; 26 ; 21; 19 
  3; Pachuca                          ;   17 ;  7 ; 4 ; 6 ; 25 ; 27; 28 
  4; Toluca                           ;   17 ;  5 ; 7 ; 5 ; 22; 18; 20 
  5; Atlante                          ;   17 ;  4 ; 4 ; 9 ; 16; 17; 27 
  6; Atlas                            ;   17 ;  3 ; 4 ;10 ; 13; 18; 27 
 
-Group: Group 3
+Group: 3
+
  1; Cruz Azul                        ;   17 ; 12 ; 3 ; 2 ; 39 ; 33; 13 
- 2; Jaguares Chiapas                         ;   17 ;  6 ; 7 ; 4 ; 25 ; 21; 14 
+ 2; Jaguares Chiapas                 ;   17 ;  6 ; 7 ; 4 ; 25 ; 21; 14 
  3; Pumas                            ;   17 ;  7 ; 4 ; 6 ; 25 ; 23; 24 
  4; Morelia                          ;   17 ;  5 ; 6 ; 6 ; 21; 17; 16 
  5; Puebla                           ;   17 ;  5 ; 4 ; 8 ; 19; 21; 26 
- 6; Queretaro FC                        ;   17 ;  5 ; 4 ; 8 ; 19; 18; 28 
+ 6; Queretaro FC                     ;   17 ;  5 ; 4 ; 8 ; 19; 18; 28 
 
 
+Season: 2010-2011 Clausura
 
-Season: 2011 Clausura
+Group: 1
 
-Group: Group 1
  1; Tigres                           ;   17 ; 10 ; 5 ; 2 ; 35; 26;  9 
  2; Monterrey                        ;   17 ;  7 ; 5 ; 5 ; 26; 23; 20 
  3; Guadalajara                      ;   17 ;  6 ; 7 ; 4 ; 25; 23; 15 
  4; Santos Laguna                    ;   17 ;  7 ; 2 ; 8 ; 21; 23; 23 
- 5; Tecos                  ;   17 ;  4 ; 5 ; 8 ; 17; 21; 34 
+ 5; Tecos                            ;   17 ;  4 ; 5 ; 8 ; 17; 21; 34 
  6; Necaxa                           ;   17 ;  3 ; 6 ; 8 ; 15; 10; 15 
  
-Group: Group 2
+Group: 2
+
  1; Atlante                          ;   17 ;  8 ; 3 ; 6 ; 27; 28; 17 
- 2; Club America                          ;   17 ;  8 ; 2 ; 7 ; 26; 31; 28 
+ 2; Club America                     ;   17 ;  8 ; 2 ; 7 ; 26; 31; 28 
  3; Atlas                            ;   17 ;  6 ; 5 ; 6 ; 23; 19; 19 
  4; San Luis                         ;   17 ;  4 ; 9 ; 4 ; 21  ; 20; 18 
  5; Toluca                           ;   17 ;  5 ; 6 ; 6 ; 21; 28; 27 
  6; Pachuca                          ;   17 ;  4 ; 6 ; 7 ; 18  ; 16; 25 
  
-Group: Group 3
+Group: 3
+
  1; Pumas                            ;   17 ; 10 ; 5 ; 2 ; 35 ; 27; 13 
  2; Morelia                          ;   17 ;  9 ; 4 ; 4 ; 31 ; 31; 24 
  3; Cruz Azul                        ;   17 ;  7 ; 5 ; 5 ; 26; 25; 20 
  4; Puebla                           ;   17 ;  5 ; 3 ; 9 ; 18; 16; 26 
- 5; Queretaro FC                        ;   17 ;  4 ; 4 ; 9 ; 16; 16; 35 
- 6; Jaguares Chiapas                         ;   17 ;  4 ; 2 ;11 ; 14  ; 15; 30 
+ 5; Queretaro FC                     ;   17 ;  4 ; 4 ; 9 ; 16; 16; 35 
+ 6; Jaguares Chiapas                 ;   17 ;  4 ; 2 ;11 ; 14  ; 15; 30 
 
 
-
-
-Season: 2011 Apertura
-
+Season: 2011-2012 Apertura
 * NB: For this season the groups are abolished
 
  1; Guadalajara                      ;   17 ;  8 ; 6 ; 3 ;  30; 24; 18 
  2; Cruz Azul                        ;   17 ;  8 ; 5 ; 4 ;  29; 21; 14 
  3; Tigres                           ;   17 ;  7 ; 7 ; 3 ;  28; 22; 13 
  4; Santos Laguna                    ;   17 ;  8 ; 3 ; 6 ;  27; 29; 25 
- 5; Jaguares Chiapas                         ;   17 ;  7 ; 5 ; 5 ;  26; 28; 23 
+ 5; Jaguares Chiapas                 ;   17 ;  7 ; 5 ; 5 ;  26; 28; 23 
  6; Pachuca                          ;   17 ;  7 ; 5 ; 5 ;  26; 28; 25 
  7; Morelia                          ;   17 ;  7 ; 5 ; 5 ;  26; 25; 22 
- 8; Queretaro FC                        ;   17 ;  8 ; 2 ; 7 ;  26; 24; 21 
+ 8; Queretaro FC                     ;   17 ;  8 ; 2 ; 7 ;  26; 24; 21 
  9; Pumas                            ;   17 ;  7 ; 4 ; 6 ;  25  ; 19; 25 
 10; San Luis                         ;   17 ;  6 ; 6 ; 5 ;  24  ; 23; 20 
 11; Monterrey                        ;   17 ;  7 ; 3 ; 7 ;  24  ; 27; 26 
@@ -891,23 +947,21 @@ Season: 2011 Apertura
 13; Toluca                           ;   17 ;  4 ; 8 ; 5 ;  20; 19; 27 
 14; Atlante                          ;   17 ;  5 ; 4 ; 8 ;  19; 24; 28 
 15; Tijuana                          ;   17 ;  3 ; 9 ; 5 ;  18; 21; 23 
-16; Tecos                  ;   17 ;  6 ; 0 ;11 ;  18; 24; 30 
-17; Club America                          ;   17 ;  3 ; 6 ; 8 ;  15  ; 26; 31 
+16; Tecos                            ;   17 ;  6 ; 0 ;11 ;  18; 24; 30 
+17; Club America                     ;   17 ;  3 ; 6 ; 8 ;  15  ; 26; 31 
 18; Atlas                            ;   17 ;  2 ; 6 ; 9 ;  12; 20; 30 
 
 
-
-
-Season: 2012 Clausura
+Season: 2011-2012 Clausura
 
  1; Santos Laguna                    ;   17 ;  11; 3 ; 3 ;  36; 33; 18 
  2; Monterrey                        ;   17 ;  9 ; 5 ; 3 ;  32; 32; 15 
- 3; Club America                          ;   17 ;  9 ; 5 ; 3 ;  32; 30; 18 
+ 3; Club America                     ;   17 ;  9 ; 5 ; 3 ;  32; 30; 18 
  4; Morelia                          ;   17 ;  9 ; 4 ; 4 ;  31; 25; 18 
  5; Tigres                           ;   17 ;  9 ; 4 ; 4 ;  31; 22; 16 
  6; Pachuca                          ;   17 ;  7 ; 7 ; 3 ;  28; 24; 17 
  7; Tijuana                          ;   17 ;  7 ; 7 ; 3 ;  28; 18; 11 
- 8; Jaguares Chiapas                         ;   17 ;  8 ; 3 ; 6 ;  27; 26; 20 
+ 8; Jaguares Chiapas                 ;   17 ;  8 ; 3 ; 6 ;  27; 26; 20 
  9; Cruz Azul                        ;   17 ;  6 ; 7 ; 4 ;  25  ; 29; 21 
 10; Toluca                           ;   17 ;  6 ; 4 ; 7 ;  22; 24; 27 
 11; Atlas                            ;   17 ;  4 ; 8 ; 5 ;  20;  7; 13 
@@ -916,5 +970,5 @@ Season: 2012 Clausura
 14; Atlante                          ;   17 ;  4 ; 4 ; 9 ;  16; 20; 31 
 15; Guadalajara                      ;   17 ;  4 ; 3 ;10 ;  15 ; 12; 21 
 16; San Luis                         ;   17 ;  3 ; 3 ;11 ;  12  ; 15; 30 
-17; Queretaro FC                        ;   17 ;  2 ; 6 ; 9 ;  12 ; 14; 30 
-18; Tecos                  ;   17 ;  2 ; 6 ; 9 ;  12; 12; 28 
+17; Queretaro FC                     ;   17 ;  2 ; 6 ; 9 ;  12 ; 14; 30 
+18; Tecos                            ;   17 ;  2 ; 6 ; 9 ;  12; 12; 28 

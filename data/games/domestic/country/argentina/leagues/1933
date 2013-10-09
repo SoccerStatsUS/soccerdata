@@ -25,7 +25,7 @@ Competition: Liga Argentina de Football
 *17. Atlanta                           34    9    5   20    46:   70   23  Relegated
 *18. Tigre                             34    9    4   21    44:   96   22  Relegated
 
-Round: Round 1
+Round: 1
 Date: 3/12/1933
 
 ; Boca Juniors                      ; 0-1;  Racing Club (Argentina)
@@ -38,7 +38,7 @@ Date: 3/12/1933
 ; Talleres (Remedios de Escalada)   ; 2-2;  Huracán (Buenos Aires)
 ; Vélez Sarsfield                   ; 4-0;  Argentinos Juniors
 
-Round: Round 2
+Round: 2
 Date: 3/19/1933
 
 ; Argentinos Juniors                ; 3-0;  Tigre
@@ -51,7 +51,7 @@ Date: 3/19/1933
 ; Racing Club (Argentina)                       ; 2-1;  Independiente (Avellaneda)
 ; River Plate                       ; 7-1;  San Lorenzo de Almagro
 
-Round: Round 3 
+Round: 3 
 Date: 3/26/1933
 
 ; Boca Juniors                      ; 4-0;  Quilmes
@@ -64,7 +64,7 @@ Date: 3/26/1933
 ; Tigre                             ; 2-3;  Gimnasia y Esgrima La Plata 
 ; Vélez Sarsfield                   ; 1-1;  Ferro Carril Oeste (Buenos Aires)  
 
-Round: Round 4 
+Round: 4 
 Date: 4/2/1933
 
 ; Atlanta                           ; 1-3;  Vélez Sarsfield 
@@ -77,7 +77,7 @@ Date: 4/2/1933
 ; River Plate                       ; 0-1;  Chacarita Juniors
 ; Talleres (Remedios de Escalada)   ; 1-1;  Estudiantes de La Plata
 
-Round: Round 5 
+Round: 5 
 Date: 4/9/1933
 
 ; Argentinos Juniors                ; 1-0;  Ferro Carril Oeste (Buenos Aires)
@@ -90,7 +90,7 @@ Date: 4/9/1933
 ; Tigre                             ; 5-2;  Atlanta 
 ; Vélez Sarsfield                   ; 3-1;  Talleres (Remedios de Escalada) 
 
-Round: Round 6 
+Round: 6 
 Date: 4/16/1933
 
 ; Atlanta                           ; 3-1;  Argentinos Juniors 
@@ -103,7 +103,7 @@ Date: 4/16/1933
 ; Racing Club (Argentina)                       ; 0-0;  Chacarita Juniors 
 ; Talleres (Remedios de Escalada)   ; 2-1;  Tigre
 
-Round: Round 7 
+Round: 7 
 Date: 4/23/1933
 
 ; Argentinos Juniors                ; 1-4;  Talleres (Remedios de Escalada); Platense
@@ -116,7 +116,7 @@ Date: 4/23/1933
 ; Tigre                             ; 1-6;  Boca Juniors 
 ; Vélez Sarsfield                   ; 2-0;  Independiente (Avellaneda) 
 
-Round: Round 8 
+Round: 8 
 Date: 4/30/1933
 
 ; Atlanta                           ; 2-0;  Ferro Carril Oeste (Buenos Aires)  
@@ -129,7 +129,7 @@ Date: 4/30/1933
 ; Talleres (Remedios de Escalada)   ; 2-5;  Gimnasia y Esgrima La Plata 
 ; Vélez Sarsfield                   ; 1-1;  San Lorenzo de Almagro 
 
-Round: Round 9 
+Round: 9 
 Date: 5/7/1933
 
 ; Argentinos Juniors                ; 1-0;  Independiente (Avellaneda) 
@@ -142,7 +142,7 @@ Date: 5/7/1933
 ; River Plate                       ; 1-0;  Estudiantes de La Plata 
 ; Tigre                             ; 0-1;  San Lorenzo de Almagro 
 
-Round: Round 10 
+Round: 10 
 Date: 5/14/1933
 
 ; Boca Juniors                      ; 4-1;  Ferro Carril Oeste (Buenos Aires)  
@@ -155,7 +155,7 @@ Date: 5/14/1933
 ; Tigre                             ; 2-2;  Lanús
 ; Vélez Sarsfield                   ; 0-0;  River Plate
 
-Round: Round 11 
+Round: 11 
 Date: 5/21/1933
 
 ; Argentinos Juniors                ; 2-3;  Lanús
@@ -168,7 +168,7 @@ Date: 5/21/1933
 ; River Plate                       ; 5-0;  Tigre
 ; Talleres (Remedios de Escalada)   ; 3-2;  Chacarita Juniors
 
-Round: Round 12
+Round: 12
 Date: 5/28/1933
 
 ; Argentinos Juniors                ; 1-2;  River Plate
@@ -187,7 +187,7 @@ Date: 6/1/1933
 
 ; San Lorenzo de Almagro            ; 3-1;  Ferro Carril Oeste (Buenos Aires)
 
-Round: Round 13 
+Round: 13 
 Date: 6/4/1933
 
 ; Atlanta                           ; 1-2;  San Lorenzo de Almagro 
@@ -200,7 +200,7 @@ Date: 6/4/1933
 ; Racing Club (Argentina)                       ; 1-0;  Argentinos Juniors
 ; Talleres (Remedios de Escalada)   ; 3-0;  Independiente (Avellaneda)
 
-Round: Round 14 
+Round: 14 
 Date: 6/11/1933
 
 ; Argentinos Juniors                ; 2-0;  Huracán (Buenos Aires)
@@ -213,7 +213,7 @@ Date: 6/11/1933
 ; Tigre                             ; 5-1;  Quilmes
 ; Vélez Sarsfield                   ; 2-0;  Platense
 
-Round: Round 15 
+Round: 15 
 Date: 6/18/1933
 
 ; Atlanta                           ; 1-2;  River Plate
@@ -226,7 +226,7 @@ Date: 6/18/1933
 ; Quilmes                           ; 0-0;  Argentinos Juniors
 ; Talleres (Remedios de Escalada)   ; 2-2;  Lanús
 
-Round: Round 16 
+Round: 16 
 Date: 6/25/1933
 
 ; Argentinos Juniors                ; 2-2;  Platense
@@ -239,7 +239,7 @@ Date: 6/25/1933
 ; San Lorenzo de Almagro            ; 2-0;  Independiente (Avellaneda)
 ; Tigre                             ; 1-4;  Estudiantes de La Plata
 
-Round: Round 17 
+Round: 17 
 Date: 7/2/1933
 
 ; Atlanta                           ; 0-0;  Huracán (Buenos Aires) 
@@ -252,7 +252,7 @@ Date: 7/2/1933
 ; Talleres (Remedios de Escalada)   ; 1-1;  Racing Club (Argentina) 
 ; Vélez Sarsfield                   ; 6-0;  Tigre 
 
-Round: Round 18
+Round: 18
 Date: 7/9/1933
 
 ; Racing Club (Argentina)                       ; 1-0;  Boca Juniors
@@ -268,7 +268,7 @@ Date: 7/16/1933
 ; River Plate                       ; 1-1;  Independiente (Avellaneda) 
 ; Tigre                             ; 2-0;  Chacarita Juniors 
 
-Round: Round 19 
+Round: 19 
 Date: 7/23/1933
 
 ; Boca Juniors                      ; 3-2;  Huracán (Buenos Aires) 
@@ -281,7 +281,7 @@ Date: 7/23/1933
 ; Tigre                             ; 1-1;  Argentinos Juniors 
 ; Vélez Sarsfield                   ; 2-0;  Gimnasia y Esgrima La Plata 
 
-Round: Round 20 
+Round: 20 
 Date: 7/30/1933
 
 ; Argentinos Juniors                ; 2-2;  Chacarita Juniors 
@@ -294,7 +294,7 @@ Date: 7/30/1933
 ; River Plate                       ; 5-3;  Lanús
 ; Talleres (Remedios de Escalada)   ; 2-3;  Platense
 
-Round: Round 21
+Round: 21
 Date: 8/6/1933
 
 ; Argentinos Juniors                ; 2-1;  Gimnasia y Esgrima La Plata
@@ -307,7 +307,7 @@ Date: 8/6/1933
 ; Tigre                             ; 0-3;  Ferro Carril Oeste (Buenos Aires)
 ; Vélez Sarsfield                   ; 2-1;  Atlanta
 
-Round: Round 22 
+Round: 22 
 Date: 8/13/1933
 
 ; Atlanta                           ; 4-2;  Tigre
@@ -320,7 +320,7 @@ Date: 8/13/1933
 ; Racing Club (Argentina)                       ; 3-0;  River Plate
 ; Talleres (Remedios de Escalada)   ; 0-1;  Vélez Sarsfield
 
-Round: Round 23 
+Round: 23 
 Date: 8/20/1933
 
 ; Argentinos Juniors                ; 2-1;  Atlanta
@@ -333,7 +333,7 @@ Date: 8/20/1933
 ; Tigre                             ; 1-0;  Talleres (Remedios de Escalada)
 ; Vélez Sarsfield                   ; 2-4;  Boca Juniors
 
-Round: Round 24 
+Round: 24 
 Date: 8/27/1933
 
 ; Atlanta                           ; 2-1;  Gimnasia y Esgrima La Plata
@@ -346,7 +346,7 @@ Date: 8/27/1933
 ; Quilmes                           ; 0-2;  River Plate
 ; Talleres (Remedios de Escalada)   ; 2-2;  Argentinos Juniors
 
-Round: Round 25 
+Round: 25 
 Date: 9/3/1933
 
 ; Argentinos Juniors                ; 2-3;  Boca Juniors 
@@ -359,7 +359,7 @@ Date: 9/3/1933
 ; San Lorenzo de Almagro            ; 4-2;  Vélez Sarsfield 
 ; Tigre                             ; 1-3;  Independiente (Avellaneda) 
 
-Round: Round 26
+Round: 26
 Date: 9/10/1933
 
 ; Estudiantes de La Plata           ; 2-3;  River Plate 
@@ -375,7 +375,7 @@ Date: 9/24/1933
 ; San Lorenzo de Almagro            ; 5-2;  Tigre
 ; Vélez Sarsfield                   ; 2-0;  Lanús
 
-Round: Round 27 
+Round: 27 
 Date: 10/1/1933
 
 ; Argentinos Juniors                ; 2-3;  San Lorenzo de Almagro 
@@ -388,7 +388,7 @@ Date: 10/1/1933
 ; Racing Club (Argentina)                       ; 4-2;  Estudiantes de La Plata 
 ; River Plate                       ; 3-0;  Vélez Sarsfield 
 
-Round: Round 28 
+Round: 28 
 Date: 10/8/1933
 
 ; Boca Juniors                      ; 3-1;  Atlanta 
@@ -401,7 +401,7 @@ Date: 10/8/1933
 ; Tigre                             ; 2-1;  River Plate
 ; Vélez Sarsfield                   ; 1-1;  Racing Club (Argentina)
 
-Round: Round 29 
+Round: 29 
 Date: 10/15/1933
 
 ; Atlanta                           ; 0-2;  Independiente (Avellaneda)
@@ -414,7 +414,7 @@ Date: 10/15/1933
 ; River Plate                       ; 2-0;  Argentinos Juniors 
 ; Talleres (Remedios de Escalada)   ; 0-3;  Boca Juniors 
 
-Round: Round 30-
+Round: 30-
 Date: 10/22/1933
 
 * Argentinos Juniors                 abd  Racing Club (Argentina)                       [abandoned at 1-0 in 33]
@@ -432,7 +432,7 @@ Date: 11/2/1933
 ; Argentinos Juniors                ; 1-1;  Racing Club (Argentina)                      
 *  [57 minutes remaining]
 
-Round: Round 31 
+Round: 31 
 Date: 10/29/1933
 
 ; Atlanta                           ; 2-1;  Lanús 
@@ -445,7 +445,7 @@ Date: 10/29/1933
 ; Racing Club (Argentina)                       ; 4-1;  Gimnasia y Esgrima La Plata 
 ; Talleres (Remedios de Escalada)   ; 1-3;  San Lorenzo de Almagro 
 
-Round: Round 32 
+Round: 32 
 Date: 11/5/1933
 
 ; Argentinos Juniors                ; 2-1;  Quilmes 
@@ -458,7 +458,7 @@ Date: 11/5/1933
 ; Tigre                             ; 4-1;  Platense 
 ; Vélez Sarsfield                   ; 3-0;  Estudiantes de La Plata 
 
-Round: Round 33
+Round: 33
 Date: 11/12/1933
 
 ; Atlanta                           ; 1-2;  Racing Club (Argentina) 
@@ -471,7 +471,7 @@ Date: 11/12/1933
 ; Talleres (Remedios de Escalada)   ; 0-3;  River Plate 
 ; Vélez Sarsfield                   ; 1-2;  Chacarita Juniors 
 
-Round: Round 34
+Round: 34
 Date: 11/19/1933
 
 ; Argentinos Juniors                ; 2-1;  Estudiantes de La Plata

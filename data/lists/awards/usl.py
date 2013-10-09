@@ -10,26 +10,31 @@ usl_pro = {
     'MVP': [
         (2011, 'Yordany Alvarez'),
         (2012, 'Kevin Molino'),
+        (2013, 'Jose Angulo'),
         ],
        
     'Rookie of the Year': [
         (2011, 'Luke Mulholland'),
         (2012, 'Jose Cuevas'),
+        (2013, 'Nate Robinson'),
         ],
 
     'Coach of the Year': [
         (2011, 'Adrian Heath'),
         (2012, 'Adrian Heath'),
+        (2013, 'Leigh Cowlishaw'),
         ],
 
     'Defender of the Year': [
         (2011, 'Rob Valentino'),
         (2012, 'Troy Roberts'),
+        (2013, 'Colin Falvey'),
         ],
 
     'Goalkeeper of the Year': [
         (2011, 'Miguel Gallardo'),
         (2012, 'Kristian Nicht'),
+        (2013, 'Andrew Dykstra'),
         ],
 
     'All-League First Team': [
@@ -59,6 +64,20 @@ usl_pro = {
                 'Dennis Chin',
                 'Jose Cuevas',
                 'Corey Hertzog',
+                ]),
+
+        (2013, [
+                'Andrew Dykstra',
+                'Colin Falvey',
+                'Henry Kalungi',
+                'Rob Valentino',
+                'William Yomby',
+                'Matt Dallman',
+                'Joseph Ngwenya',
+                'Jamie Watson',
+                'Jose Angulo',
+                'Dom Dwyer',
+                'Sainey Touray',
                 ]),
 
         ],
@@ -91,6 +110,20 @@ usl_pro = {
                 'Bryce Taylor',
                 'Bright Dike',
                 'Matt Luzunaris',
+                'Lucky Mkosana',
+                ]),
+
+        (2013, [
+                'Nick Noble',
+                'Danny Earls',
+                'Jose Rife',
+                'Andrew Marshall',
+                'Daniel Steres',
+                'Michael Azira',
+                'George Davis IV',
+                'Jorge Herrera',
+                'Gibson Beardsley',
+                'Matt Fondy',
                 'Lucky Mkosana',
                 ]),
 

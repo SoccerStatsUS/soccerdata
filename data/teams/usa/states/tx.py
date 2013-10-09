@@ -5,8 +5,28 @@ import datetime
 
 l = [
 
+    # division 1
 
+    {
+        'name': 'Dallas Tornado',
+        'founded': 1967,
+        'dissolved': 1981,
+        'city': 'Dallas, TX',
+        },
 
+    {
+        'name': 'Houston Stars',
+        'founded': 1967,
+        'dissolved': 1968,
+        'city': 'Houston, TX',
+        },
+
+    {
+        'name': 'Houston Hurricane',
+        'founded': 1978,
+        'dissolved': 1980,
+        'city': 'Houston, TX',
+        },
 
     {
         'name': 'Houston Dynamo',
@@ -20,18 +40,75 @@ l = [
         'city': 'Dallas, TX',
         },
 
-
-
-{ 
+    { 
         'name': 'FC Dallas Reserves',
         'city': 'Dallas, TX',
         },
 
-{ 
+    { 
         'name': 'Houston Dynamo Reserves',
         'city': 'Houston, TX',
         },
 
+    # USL
+
+    {
+        'name': 'Laredo Heat',
+        'city': 'Laredo, TX',
+        'founded': 2004,
+        },
+
+    {
+        'name': 'West Texas United Sockers',
+        'city': 'Midland, TX',
+        'founded': 2008
+        },
+
+    {
+        'name': 'Austin Aztex',
+        'city': 'Austin, TX',
+        'founded': 1998,
+        'dissolved': 2010,
+        },
+
+    {
+        'name': 'El Paso Patriots',
+        'city': 'El Paso, TX',
+        'founded': 1989,
+        },
+
+    {
+        'name': 'Austin Lone Stars',
+        'city': 'Austin, TX',
+        'founded': 1987,
+        'dissolved': 2000,
+        },
+
+    {
+        'name': 'San Antonio Scorpions',
+        'city': 'San Antonio, TX',
+        'founded': 2010,
+        },
+
+
+
+    # indoor
+
+    {
+        'name': 'Dallas Sidekicks',
+        'founded': 1984,
+        'dissolved': 2004,
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Houston Hotshots',
+        'city': 'Houston, TX',
+        'founded': 1994,
+        'dissolved': 2000,
+        },
+
+    # ?
 
     {
         'name': 'El Paso/Juarez Gamecocks',

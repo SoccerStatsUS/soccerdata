@@ -1,7 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg2011.html
 Competition: Liga Argentina de Football
-*Argentina 2010/11
-Season: 2010 Apertura
+Season: 2010-2011 Apertura
+home-first
 
 *Torneo IVECO del Bicentenario Apertura 2010
 
@@ -26,8 +26,7 @@ Season: 2010 Apertura
 *19.Gimnasia y Esgrima (La Plata)         19   3  6 10  13-23  15
 *20.Independiente                         19   2  8  9  13-26  14
 
-Round: Round 1
-
+Round: 1
 Date: 8/6/2010
 
 ; Arsenal                ; 1-2; Lanús                   
@@ -45,9 +44,9 @@ Date: 8/8/2010
 ; Godoy Cruz             ; 1-1; Boca Juniors            
 ; River Plate            ; 1-0; Tigre                   
 ; Vélez Sarsfield        ; 1-0; Independiente           
-; Gimnasia y Esgrima     ; 0-0; San Lorenzo de Almagro  
+; Gimnasia y Esgrima (LP)     ; 0-0; San Lorenzo de Almagro  
 
-Round: Round 2
+Round: 2
 
 Date: 8/13/2010
 
@@ -64,14 +63,14 @@ Date: 8/15/2010
 
 ; Huracán                ; 0-1; River Plate             
 ; All Boys               ; 1-2; Vélez Sarsfield         
-; Olimpo                 ; 1-0; Gimnasia y Esgrima      
+; Olimpo                 ; 1-0; Gimnasia y Esgrima (LP)      
 ; Estudiantes            ; 2-0; Quilmes                 ; Quilmes
 
 Date: 8/16/2010
 
 ; Independiente          ; 1-1; Argentinos Juniors      
 
-Round: Round 3
+Round: 3
 
 Date: 8/20/2010
 
@@ -90,9 +89,9 @@ Date: 8/22/2010
 ; All Boys               ; 2-0; Boca Juniors            ; Huracán 
 ; River Plate            ; 3-2; Independiente           
 ; Arsenal                ; 2-0; Huracán                 
-; Gimnasia y Esgrima     ; 0-0; Colón                   
+; Gimnasia y Esgrima (LP)     ; 0-0; Colón                   
 
-Round: Round 4
+Round: 4
 
 Date: 8/27/2010
 
@@ -114,9 +113,9 @@ Date: 8/29/2010
 
 Date: 9/29/2010
 
-; Estudiantes            ; 2-0; Gimnasia y Esgrima      ; Quilmes       
+; Estudiantes            ; 2-0; Gimnasia y Esgrima (LP)      ; Quilmes       
  
-Round: Round 5
+Round: 5
 
 Date: 9/3/2010
 
@@ -135,12 +134,12 @@ Date: 9/5/2010
 ; Vélez Sarsfield        ; 2-1; River Plate             
 ; Quilmes                ; 1-2; Huracán                 
 ; Banfield               ; 1-1; Tigre                   
-; Gimnasia y Esgrima     ; 0-2; Lanús                   
+; Gimnasia y Esgrima (LP)     ; 0-2; Lanús                   
  
-Round: Round 6
+Round: 6
 Date: 9/10/2010
 
-; Tigre                  ; 2-0; Gimnasia y Esgrima 
+; Tigre                  ; 2-0; Gimnasia y Esgrima (LP) 
 ; Colón                  ; 1-1; All Boys 
 
 Date: 9/11/2010
@@ -157,12 +156,12 @@ Date: 9/12/2010
 ; River Plate            ; 1-0; Arsenal 
 ; Olimpo                 ; 1-3; Boca Juniors 
 
-Round: Round 7
+Round: 7
 
 Date: 9/17/2010
 
 ; Racing Club            ; 4-0; Lanús
-; Gimnasia y Esgrima     ; 3-0; Huracán
+; Gimnasia y Esgrima (LP)     ; 3-0; Huracán
 
 Date: 9/18/2010
 
@@ -178,12 +177,12 @@ Date: 9/19/2010
 ; Newell's Old Boys      ; 1-0; River Plate 
 ; Boca Juniors           ; 3-1; Colón                   
 
-Round: Round 8
+Round: 8
 
 Date: 9/24/2010
 
 ; Vélez Sarsfield        ; 3-0; Olimpo                  
-; Independiente          ; 1-0; Gimnasia y Esgrima      
+; Independiente          ; 1-0; Gimnasia y Esgrima (LP)      
 
 Date: 9/25/2010
 
@@ -199,7 +198,7 @@ Date: 9/26/2010
 ; Arsenal                ; 0-0; Newell's Old Boys       
 ; Tigre                  ; 0-0; Racing Club             
  
-Round: Round 9
+Round: 9
 Date: 10/1/2010
 
 ; Newell's Old Boys      ; 2-0; Vélez Sarsfield         
@@ -210,7 +209,7 @@ Date: 10/2/2010
 ; Racing Club            ; 3-0; Huracán                 
 ; All Boys               ; 3-3; Tigre                   
 ; Godoy Cruz             ; 4-1; Independiente           
-; Gimnasia y Esgrima     ; 2-4; Argentinos Juniors      
+; Gimnasia y Esgrima (LP)     ; 2-4; Argentinos Juniors      
 
 Date: 10/3/2010
 
@@ -219,7 +218,7 @@ Date: 10/3/2010
 ; Olimpo                 ; 2-3; Colón                   
 ; Banfield               ; 2-2; River Plate             
 
-Round: Round 10 
+Round: 10 
 Date: 10/8/2010
 
 ; Estudiantes            ; 2-0; Olimpo                  ; Quilmes
@@ -240,9 +239,9 @@ Date: 10/10/2010
 
 Date: 10/11/2010
 
-; River Plate            ; 0-0; Gimnasia y Esgrima 
+; River Plate            ; 0-0; Gimnasia y Esgrima (LP) 
  
-Round: Round 11
+Round: 11
 
 Date: 10/15/2010
 
@@ -254,7 +253,7 @@ Date: 10/16/2010
 ; All Boys               ; 3-1; Independiente 
 ; Colón                  ; 1-1; Estudiantes 
 ; Banfield               ; 0-0; Newell's Old Boys 
-; Gimnasia y Esgrima     ; 2-3; Arsenal 
+; Gimnasia y Esgrima (LP)     ; 2-3; Arsenal 
 
 Date: 10/17/2010
 
@@ -263,7 +262,7 @@ Date: 10/17/2010
 ; Boca Juniors           ; 2-0; Huracán 
 ; Olimpo                 ; 1-0; Lanús 
  
-Round: Round 12
+Round: 12
 Date: 10/22/2010
 
 ; Vélez Sarsfield        ; 0-0; Estudiantes 
@@ -280,10 +279,10 @@ Date: 10/24/2010
 
 ; Huracán                ; 3-0; San Lorenzo de Almagro 
 ; Independiente          ; 0-0; Boca Juniors 
-; Newell's Old Boys      ; 1-0; Gimnasia y Esgrima 
+; Newell's Old Boys      ; 1-0; Gimnasia y Esgrima (LP) 
 ; Tigre                  ; 3-2; Olimpo 
  
-Round: Round 13 
+Round: 13 
 Date: 11/5/2010
 
 ; Olimpo                 ; 4-0; Huracán 
@@ -294,7 +293,7 @@ Date: 11/6/2010
 ; Godoy Cruz             ; 0-0; Newell's Old Boys 
 ; Racing Club            ; 2-2; Arsenal 
 ; Boca Juniors           ; 0-2; Argentinos Juniors 
-; Gimnasia y Esgrima     ; 1-0; Quilmes 
+; Gimnasia y Esgrima (LP)     ; 1-0; Quilmes 
 
 Date: 11/7/2010
 
@@ -303,11 +302,11 @@ Date: 11/7/2010
 ; Colón                  ; 1-0; Tigre 
 ; Banfield               ; 2-3; Vélez Sarsfield 
  
-Round: Round 14 
+Round: 14 
 Date: 11/12/2010
 
 ; Huracán                ; 1-2; Colón 
-; Banfield               ; 0-0; Gimnasia y Esgrima 
+; Banfield               ; 0-0; Gimnasia y Esgrima (LP) 
 
 Date: 11/13/2010
 
@@ -327,7 +326,7 @@ Date: 11/16/2010
 
 ; River Plate            ; 1-0; Boca Juniors 
  
-Round: Round 15 
+Round: 15 
 Date: 11/19/2010
 
 ; Godoy Cruz             ; 2-1; Banfield 
@@ -342,7 +341,7 @@ Date: 11/21/2010
 ; Racing Club            ; 1-1; Quilmes 
 ; Boca Juniors           ; 2-1; Arsenal 
 ; San Lorenzo de Almagro ; 0-0; River Plate 
-; Gimnasia y Esgrima     ; 0-0; Vélez Sarsfield 
+; Gimnasia y Esgrima (LP)     ; 0-0; Vélez Sarsfield 
 
 Date: 11/22/2010
 
@@ -350,11 +349,11 @@ Date: 11/22/2010
 ; Colón                  ; 1-1; Independiente 
 ; Lanús                  ; 2-0; Tigre 
  
-Round: Round 16 
+Round: 16 
 Date: 11/26/2010
 
 ; Arsenal                ; 2-1; San Lorenzo de Almagro 
-; Gimnasia y Esgrima     ; 1-3; Godoy Cruz 
+; Gimnasia y Esgrima (LP)     ; 1-3; Godoy Cruz 
 
 Date: 11/27/2010
 
@@ -376,14 +375,14 @@ Date: 11/30/2010
 
 ; Vélez Sarsfield        ; 2-1; Tigre 
 
-Round: Round 17 
+Round: 17 
 Date: 12/1/2010
 
 ; Olimpo                 ; 1-1; Arsenal 
 
 Date: 12/3/2010
 
-; Racing Club            ; 2-0; Gimnasia y Esgrima 
+; Racing Club            ; 2-0; Gimnasia y Esgrima (LP) 
 ; All Boys               ; 2-1; Banfield 
 
 Date: 12/4/2010
@@ -399,11 +398,11 @@ Date: 12/5/2010
 ; Lanús                  ; 0-0; Independiente 
 ; Tigre                  ; 3-1; Huracán 
  
-Round: Round 18 
+Round: 18 
 Date: 12/7/2010
 
 ; Arsenal                ; 2-1; Colón 
-; Gimnasia y Esgrima     ; 3-1; All Boys 
+; Gimnasia y Esgrima (LP)     ; 3-1; All Boys 
 
 Date: 12/8/2010
 
@@ -418,11 +417,11 @@ Date: 12/9/2010
 ; Quilmes                ; 1-0; San Lorenzo de Almagro 
 ; Banfield               ; 0-0; Boca Juniors 
 
-Date: 2/6/2010
+Date: 2/6/2011
 
 ; Independiente          ; 0-1; Tigre 
  
-Round: Round 19 
+Round: 19 
 Date: 12/11/2010
 
 ; All Boys               ; 2-2; Godoy Cruz 
@@ -437,7 +436,7 @@ Date: 12/12/2010
 Date: 12/13/2010
 
 ; Huracán                ; 1-0; Independiente 
-; Boca Juniors           ; 1-1; Gimnasia y Esgrima 
+; Boca Juniors           ; 1-1; Gimnasia y Esgrima (LP) 
 ; Olimpo                 ; 0-1; Quilmes 
 ; Lanús                  ; 1-4; River Plate 
 ; Tigre                  ; 1-1; Argentinos Juniors
@@ -461,7 +460,7 @@ Date: 12/13/2010
 *16.Quilmes                               19   4  7  8  14-23  19
 *17.Olimpo (Bahía Blanca)                 19   5  3 11  18-26  18
 *18.Huracán                               19   4  4 11  16-33  16
-*19.Gimnasia y Esgrima (La Plata)         19   3  6 10  13-23  15
+*19.Gimnasia y Esgrima (LP) (La Plata)         19   3  6 10  13-23  15
 *20.Independiente                         19   2  8  9  13-26  14
 *Torneo "Néstor Kirchner Clausura 2011-Copa Malvinas Argentinas"
 
@@ -483,12 +482,12 @@ Date: 12/13/2010
 *15.Racing Club                           19   7  2 10  25-26  23
 *16.Colón (Santa Fe)                      19   6  3 10  20-27  21
 *17.Quilmes                               19   5  5  9  24-27  20
-*18.Gimnasia y Esgrima (La Plata)         19   3  9  7  19-25  18
+*18.Gimnasia y Esgrima (LP) (La Plata)         19   3  9  7  19-25  18
 *19.Newell's Old Boys (Rosario)           19   4  4 11  16-32  16
 *20.Huracán                               19   3  5 11  18-42  14
 
-Season: 2011 Clausura
-Round: Round 1
+Season: 2010-2011 Clausura
+Round: 1
 
 Date: 2/11/2011
 
@@ -498,7 +497,7 @@ Date: 2/11/2011
 Date: 2/12/2011
 
 ; Colón                  ; 2-0; Quilmes                 
-; San Lorenzo de Almagro ; 1-1; Gimnasia y Esgrima      
+; San Lorenzo de Almagro ; 1-1; Gimnasia y Esgrima (LP)      
 ; Olimpo                 ; 2-1; Banfield                
 
 Date: 2/13/2011
@@ -512,10 +511,10 @@ Date: 2/14/2011
 ; Lanús                  ; 3-1; Arsenal                 
 ; Huracán                ; 1-1; Argentinos Juniors      
  
-Round: Round 2
+Round: 2
 Date: 2/18/2011
 
-; Gimnasia y Esgrima     ; 1-3; Olimpo                  
+; Gimnasia y Esgrima (LP)     ; 1-3; Olimpo                  
 ; Banfield               ; 1-1; Colón                   
 
 Date: 2/19/2011
@@ -535,11 +534,11 @@ Date: 2/21/2011
 ; Godoy Cruz             ; 0-2; San Lorenzo de Almagro               
 ; Arsenal                ; 2-0; Tigre                    
  
-Round: Round 3
+Round: 3
 Date: 2/25/2011
 
 ; Olimpo                 ; 3-3; Godoy Cruz               
-; Colón                  ; 1-3; Gimnasia y Esgrima      
+; Colón                  ; 1-3; Gimnasia y Esgrima (LP)      
 
 Date: 2/26/2011
 
@@ -558,7 +557,7 @@ Date: 2/28/2011
 ; Huracán                ; 1-1; Arsenal                 
 ; Tigre                  ; 1-0; Newell's Old Boys       
  
-Round: Round 4
+Round: 4
 Date: 3/4/2011
 
 ; All Boys               ; 0-3; San Lorenzo de Almagro    
@@ -567,7 +566,7 @@ Date: 3/5/2011
 
 ; Newell's Old Boys      ; 3-3; Huracán                 
 ; Racing Club            ; 4-3; Olimpo                  
-; Gimnasia y Esgrima     ; 0-2; Estudiantes             
+; Gimnasia y Esgrima (LP)     ; 0-2; Estudiantes             
 
 Date: 3/6/2011
 
@@ -581,7 +580,7 @@ Date: 3/7/2011
 
 ; Arsenal                ; 3-0; Independiente           
     
-Round: Round 5
+Round: 5
 Date: 3/11/2011
 
 ; Olimpo                 ; 1-0; All Boys                    
@@ -591,7 +590,7 @@ Date: 3/12/2011
 
 ; San Lorenzo de Almagro ; 1-0; Boca Juniors            
 ; Argentinos Juniors     ; 1-0; Arsenal                 
-; Lanús                  ; 0-0; Gimnasia y Esgrima      
+; Lanús                  ; 0-0; Gimnasia y Esgrima (LP)      
 
 Date: 3/13/2011
 
@@ -604,7 +603,7 @@ Date: 3/14/2011
 ; Independiente          ; 4-0; Newell's Old Boys       
 ; Huracán                ; 2-1; Quilmes                 
    
-Round: Round 6
+Round: 6
 
 Date: 3/19/2011
 
@@ -623,7 +622,7 @@ Notes: abandoned at 0-0 in 10
 
 Date: 3/21/2011
 
-; Gimnasia y Esgrima     ; 2-1; Tigre                                  
+; Gimnasia y Esgrima (LP)     ; 2-1; Tigre                                  
 ; Banfield               ; 2-2; Huracán                 
 
 Date: 4/20/2011
@@ -631,7 +630,7 @@ Date: 4/20/2011
 ; Vélez Sarsfield        ; 2-0; San Lorenzo de Almagro  
 Notes: remaining 80', at Boca Juniors
 
-Round: Round 7
+Round: 7
 
 Date: 3/25/2011
 
@@ -642,7 +641,7 @@ Date: 3/26/2011
 
 ; Lanús                  ; 4-1; Racing Club             
 ; River Plate            ; 2-1; Newell's Old Boys       
-; Huracán                ; 2-0; Gimnasia y Esgrima      
+; Huracán                ; 2-0; Gimnasia y Esgrima (LP)      
 ; Olimpo                 ; 0-1; San Lorenzo de Almagro  
 
 Date: 3/27/2011
@@ -652,10 +651,10 @@ Date: 3/27/2011
 ; Vélez Sarsfield        ; 3-0; Arsenal                 
 ; Independiente          ; 1-1; Banfield                
  
-Round: Round 8
+Round: 8
 Date: 4/1/2011
 
-; Gimnasia y Esgrima     ; 1-2; Independiente           
+; Gimnasia y Esgrima (LP)     ; 1-2; Independiente           
 ; Banfield               ; 0-2; Argentinos Juniors      
 
 Date: 4/2/2011
@@ -672,7 +671,7 @@ Date: 4/3/2011
 ; Godoy Cruz             ; 3-1; Huracán                 
 ; San Lorenzo de Almagro ; 1-2; Colón                   
  
-Round: Round 9
+Round: 9
 Date: 4/8/2011
 
 ; Independiente          ; 3-0; Godoy Cruz              
@@ -687,12 +686,12 @@ Date: 4/9/2011
 
 Date: 4/10/2011
 
-; Argentinos Juniors     ; 1-1; Gimnasia y Esgrima      
+; Argentinos Juniors     ; 1-1; Gimnasia y Esgrima (LP)      
 ; Tigre                  ; 0-1; All Boys                
 ; Vélez Sarsfield        ; 2-0; Newell's Old Boys       
 ; Lanús                  ; 2-0; Boca Juniors            
  
-Round: Round 10
+Round: 10
 Date: 4/15/2011
 
 ; Quilmes                ; 3-1; Newell's Old Boys       
@@ -707,7 +706,7 @@ Date: 4/16/2011
 Date: 4/17/2011
 
 ; Olimpo                 ; 2-2; Estudiantes             
-; Gimnasia y Esgrima     ; 0-0; River Plate             
+; Gimnasia y Esgrima (LP)     ; 0-0; River Plate             
 ; Colón                  ; 1-1; Vélez Sarsfield         
 ; Boca Juniors           ; 3-3; Tigre                   
 
@@ -715,7 +714,7 @@ Date: 4/18/2011
 
 ; Banfield               ; 1-0; Arsenal                 
  
-Round: Round 11
+Round: 11
 Date: 4/23/2011
 
 ; Vélez Sarsfield        ; 2-3; Quilmes                 
@@ -729,16 +728,16 @@ Date: 4/24/2011
 ; Argentinos Juniors     ; 2-1; Racing Club             
 ; Huracán                ; 0-3; Boca Juniors            
 ; Tigre                  ; 1-0; San Lorenzo de Almagro  
-; Arsenal                ; 1-1; Gimnasia y Esgrima      
+; Arsenal                ; 1-1; Gimnasia y Esgrima (LP)      
 
 Date: 4/25/2011
 
 ; Lanús                  ; 1-1; Olimpo                  
  
-Round: Round 12
+Round: 12
 Date: 4/29/2011
 
-; Gimnasia y Esgrima     ; 1-2; Newell's Old Boys       
+; Gimnasia y Esgrima (LP)     ; 1-2; Newell's Old Boys       
 ; Banfield               ; 3-4; Quilmes                 
 
 Date: 4/30/2011
@@ -757,14 +756,14 @@ Date: 5/2/2011
 ; Olimpo                 ; 2-2; Tigre                   
 ; Boca Juniors           ; 1-1; Independiente           
  
-Round: Round 13
+Round: 13
 Date: 5/6/2011
 
 ; Newell's Old Boys      ; 1-3; Godoy Cruz              
 
 Date: 5/7/2011
 
-; Quilmes                ; 2-2; Gimnasia y Esgrima      
+; Quilmes                ; 2-2; Gimnasia y Esgrima (LP)      
 ; Tigre                  ; 3-0; Colón                   
 ; Huracán                ; 1-2; Olimpo                  
 ; Arsenal                ; 1-2; Racing Club             
@@ -780,7 +779,7 @@ Date: 5/9/2011
 
 ; Vélez Sarsfield        ; 2-0; Banfield                
  
-Round: Round 14
+Round: 14
 Date: 5/13/2011
 
 ; Colón                  ; 3-0; Huracán                 
@@ -788,7 +787,7 @@ Date: 5/13/2011
 
 Date: 5/14/2011
 
-; Gimnasia y Esgrima     ; 2-0; Banfield                
+; Gimnasia y Esgrima (LP)     ; 2-0; Banfield                
 ; San Lorenzo de Almagro ; 1-2; Argentinos Juniors      
 ; All Boys               ; 1-0; Arsenal                 
 ; Racing Club            ; 3-0; Newell's Old Boys       
@@ -800,7 +799,7 @@ Date: 5/15/2011
 ; Boca Juniors           ; 2-0; River Plate             
 ; Estudiantes            ; 2-2; Tigre                   
  
-Round: Round 15
+Round: 15
 Date: 5/20/2011
 
 ; Newell's Old Boys      ; 1-0; All Boys                
@@ -818,7 +817,7 @@ Notes: abandoned at 0-2 in 32
 
 Date: 5/22/2011
 
-; Vélez Sarsfield        ; 2-0; Gimnasia y Esgrima      
+; Vélez Sarsfield        ; 2-0; Gimnasia y Esgrima (LP)      
 ; River Plate            ; 1-1; San Lorenzo de Almagro  
 ; Quilmes                ; 2-0; Racing Club             
 ; Arsenal                ; 2-2; Boca Juniors            
@@ -828,7 +827,7 @@ Date: 6/2/2011
 ; Huracán                ; 0-3; Estudiantes             
 Notes: remaining 58
  
-Round: Round 16
+Round: 16
 Date: 5/28/2011
 
 ; Colón                  ; 1-2; Argentinos Juniors      
@@ -846,9 +845,9 @@ Date: 5/29/2011
 Date: 5/30/2011
 
 ; Lanús                  ; 3-0; Huracán                 
-; Godoy Cruz             ; 2-2; Gimnasia y Esgrima      
+; Godoy Cruz             ; 2-2; Gimnasia y Esgrima (LP)      
  
-Round: Round 17
+Round: 17
 Date: 6/3/2011
 
 ; Arsenal                ; 2-0; Olimpo                  
@@ -859,7 +858,7 @@ Date: 6/4/2011
 
 Date: 6/5/2011
 
-; Gimnasia y Esgrima     ; 0-0; Racing Club             
+; Gimnasia y Esgrima (LP)     ; 0-0; Racing Club             
 ; Huracán                ; 3-2; Tigre                   
 ; River Plate            ; 1-1; Colón                   
 ; Quilmes                ; 2-2; Boca Juniors            
@@ -874,7 +873,7 @@ Date: 6/15/2011
 
 ; Newell's Old Boys      ; 0-0; San Lorenzo de Almagro  
  
-Round: Round 18
+Round: 18
 
 Date: 6/10/2011
 
@@ -885,7 +884,7 @@ Date: 6/11/2011
 ; Colón                  ; 0-1; Arsenal                 
 ; Tigre                  ; 0-0; Independiente           
 ; San Lorenzo de Almagro ; 0-2; Quilmes                 
-; All Boys               ; 1-0; Gimnasia y Esgrima      
+; All Boys               ; 1-0; Gimnasia y Esgrima (LP)      
 
 Date: 6/12/2011
 
@@ -898,13 +897,13 @@ Date: 6/13/2011
 
 ; Racing Club            ; 2-3; Godoy Cruz              
  
-Round: Round 19 
+Round: 19 
 
 Date: 6/18/2011
 
 ; Godoy Cruz             ; 1-0; All Boys                
 ; Independiente          ; 5-1; Huracán                 
-; Gimnasia y Esgrima     ; 2-2; Boca Juniors            
+; Gimnasia y Esgrima (LP)     ; 2-2; Boca Juniors            
 ; Quilmes                ; 0-1; Olimpo                  
 ; River Plate            ; 1-2; Lanús                   
 ; Argentinos Juniors     ; 1-1; Tigre                   
@@ -934,7 +933,7 @@ Date: 6/19/2011
 *15.Racing Club                           19   7  2 10  25-26  23
 *16.Colón (Santa Fe)                      19   6  3 10  20-27  21
 *17.Quilmes                               19   5  5  9  24-27  20
-*18.Gimnasia y Esgrima (La Plata)         19   3  9  7  19-25  18
+*18.Gimnasia y Esgrima (LP) (La Plata)         19   3  9  7  19-25  18
 *19.Newell's Old Boys (Rosario)           19   4  4 11  16-32  16
 *20.Huracán                               19   3  5 11  18-42  14
 
@@ -958,7 +957,7 @@ Date: 6/19/2011
 *16 Olimpo                           0     0    48     48   38 1.263
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 *17 River Plate                     41    43    57    141  114 1.237  Relegation Playoff
-*18 Gimnasia y Esgrima (La Plata)   55    37    33    125  114 1.096  Playoff Against 19th Place
+*18 Gimnasia y Esgrima (LP) (La Plata)   55    37    33    125  114 1.096  Playoff Against 19th Place
 *-------------------------------------------------------------------
 *19 Huracán (Buenos Aires)          58    37    30    125  114 1.096  Playoff Against 19th Place
 *20 Quilmes                          0     0    39     39   38 1.026  Relegated
@@ -966,9 +965,9 @@ Date: 6/19/2011
 
 *Date: 6/22 at Boca Juniors/2011
 
-6/22/2011; Huracán          ;       0-2; Gimnasia y Esgrima
+6/22/2011; Huracán          ;       0-2; Gimnasia y Esgrima (LP)
 
-*NB: Huracán relegated; Gimnasia y Esgrima to Relegation Playoff
+*NB: Huracán relegated; Gimnasia y Esgrima (LP) to Relegation Playoff
 *Promotion/Relegation Playoffs 1st/2nd level
  
 *First Legs

@@ -31,7 +31,7 @@ Season: 1950
 *16. Huracán (BUE)                2    2    0    0     8:    2    4 
 *17. Tigre                        2    0    0    2     2:    8    0 (Relegated)
  
-Round: Round 1 
+Round: 1 
 Date: 4/2/1950
 
 ; Atlanta                    ; 3-3; San Lorenzo de Almagro
@@ -44,7 +44,7 @@ Date: 4/2/1950
 ; Quilmes                    ; 2-2; Independiente (Avellaneda)  ; Boca Juniors
 ; Racing Club                ; 2-0; Boca Juniors                ; Independiente (Avellaneda)
 
-Round: Round 2 
+Round: 2 
 Date: 4/9/1950
 
 ; Boca Juniors               ; 5-1; Rosario Central
@@ -57,7 +57,7 @@ Date: 4/9/1950
 ; Tigre                      ; 1-0; Atlanta
 ; Vélez Sarsfield            ; 4-1; Huracán (BUE)               ; Ferro Carril Oeste (BUE)
 
-Round: Round 3 
+Round: 3 
 Date: 4/16/1950
 
 ; Atlanta                    ; 3-2; Independiente (Avellaneda)
@@ -70,7 +70,7 @@ Date: 4/16/1950
 ; Racing Club                ; 2-1; Chacarita Juniors           ; Independiente (Avellaneda)
 ; Rosario Central            ; 1-2; Gimnasia y Esgrima La Plata
 
-Round: Round 4 
+Round: 4 
 Date: 4/30/1950
 
 ; Chacarita Juniors          ; 1-3; Rosario Central
@@ -83,7 +83,7 @@ Date: 4/30/1950
 ; Tigre                      ; 1-1; Huracán (BUE)
 ; Vélez Sarsfield            ; 3-4; Racing Club                 ; Ferro Carril Oeste (BUE)
 
-Round: Round 5 
+Round: 5 
 Date: 5/7/1950
 
 ; Atlanta                    ; 0-4; Newell's Old Boys
@@ -96,7 +96,7 @@ Date: 5/7/1950
 ; Racing Club                ; 2-2; San Lorenzo de Almagro      ; Independiente (Avellaneda)
 ; Rosario Central            ; 0-0; Vélez Sarsfield
 
-Round: Round 6:
+Round: 6
 Date: 5/14/1950
 
 ; Newell's Old Boys          ; 3-1; Ferro Carril Oeste (BUE)
@@ -112,7 +112,7 @@ Date: 5/18/1950
 ; Tigre                      ; 0-4; Racing Club
 ; Vélez Sarsfield            ; 2-4; Boca Juniors                ; Ferro Carril Oeste (BUE)
 
-Round: Round 7 
+Round: 7 
 Date: 5/21/1950
 
 ; Atlanta                    ; 2-3; Estudiantes de La Plata
@@ -125,7 +125,7 @@ Date: 5/21/1950
 ; Racing Club                ; 3-1; Independiente (Avellaneda)  ; San Lorenzo de Almagro
 ; Rosario Central            ; 5-1; Tigre
 
-Round: Round 8 
+Round: 8 
 Date: 5/28/1950
 
 ; Atlanta                    ; 2-2; Platense
@@ -138,7 +138,7 @@ Date: 5/28/1950
 ; Tigre                      ; 0-1; Boca Juniors
 ; Vélez Sarsfield            ; 4-2; Chacarita Juniors           ; Ferro Carril Oeste (BUE)
 
-Round: Round 9 
+Round: 9 
 Date: 6/4/1950
 
 ; Banfield                   ; 5-0; Quilmes
@@ -151,7 +151,7 @@ Date: 6/4/1950
 ; Racing Club                ; 0-2; Newell's Old Boys           ; Independiente (Avellaneda)
 ; Rosario Central            ; 2-3; River Plate
 
-Round: Round 10 
+Round: 10 
 Date: 6/11/1950
 
 ; Atlanta                    ; 1-2; Huracán (BUE)
@@ -164,7 +164,7 @@ Date: 6/11/1950
 ; San Lorenzo del Almagro    ; 3-1; Vélez Sarsfield
 ; Tigre                      ; 1-0; Chacarita Juniors
 
-Round: Round 11 
+Round: 11 
 Date: 6/18/1950
 
 ; Banfield                   ; 3-0; Atlanta
@@ -177,7 +177,7 @@ Date: 6/18/1950
 ; Rosario Central            ; 2-1; Quilmes
 ; Vélez Sarsfield            ; 2-3; Tigre                       ; Ferro Carril Oeste (BUE)
 
-Round: Round 12 
+Round: 12 
 Date: 6/25/1950
 
 ; Atlanta                    ; 2-1; Racing Club
@@ -190,7 +190,7 @@ Date: 6/25/1950
 ; River Plate                ; 0-0; Chacarita Juniors
 ; Tigre                      ; 1-5; San Lorenzo de Almagro
 
-Round: Round 13 
+Round: 13 
 Date: 7/2/1950
 
 ; Banfield                   ; 3-2; Huracán (BUE)
@@ -203,7 +203,7 @@ Date: 7/2/1950
 ; San Lorenzo del Almagro    ; 2-2; Independiente (Avellaneda)
 ; Vélez Sarsfield            ; 3-2; River Plate                 ; Ferro Carril Oeste (BUE)
 
-Round: Round 14 
+Round: 14 
 Date: 7/16/1950
 
 ; Atlanta                    ; 2-2; Boca Juniors
@@ -216,7 +216,7 @@ Date: 7/16/1950
 ; Quilmes                    ; 2-2; Chacarita Juniors
 ; River Plate                ; 2-1; San Lorenzo de Almagro
 
-Round: Round 15 
+Round: 15 
 Date: 7/23/1950
 
 ; Boca Juniors               ; 1-0; Ferro Carril Oeste (BUE)
@@ -229,7 +229,7 @@ Date: 7/23/1950
 ; Tigre                      ; 2-2; River Plate
 ; Vélez Sarsfield            ; 1-1; Quilmes                     ; Ferro Carril Oeste (BUE)
 
-Round: Round 16 
+Round: 16 
 Date: 7/30/1950
 
 ; Atlanta                    ; 1-0; Chacarita Juniors
@@ -242,7 +242,7 @@ Date: 7/30/1950
 ; Racing Club                ; 3-5; Platense                    ; Independiente (Avellaneda)
 ; River Plate                ; 0-1; Independiente (Avellaneda)
 
-Round: Round 17 
+Round: 17 
 Date: 8/6/1950
 
 ; Boca Juniors               ; 4-2; Banfield
@@ -255,7 +255,7 @@ Date: 8/6/1950
 ; Tigre                      ; 2-0; Quilmes
 ; Vélez Sarsfield            ; 0-1; Atlanta                     ; Ferro Carril Oeste (BUE)
 
-Round: Round 18 
+Round: 18 
 Date: 8/13/1950
 
 ; Boca Juniors               ; 1-0; Racing Club
@@ -268,7 +268,7 @@ Date: 8/13/1950
 ; Tigre                      ; 1-1; Estudiantes de La Plata
 ; Vélez Sarsfield            ; 2-1; Ferro Carril Oeste (BUE)    ; Huracán (BUE)
 
-Round: Round 19
+Round: 19
 Date: 8/19/1950
 
 ; Quilmes                    ; 0-2; River Plate
@@ -284,7 +284,7 @@ Date: 8/20/1950
 ; Racing Club                ; 3-2; Gimnasia y Esgrima La Plata ; Independiente (Avellaneda)
 ; Rosario Central            ; 1-2; Boca Juniors
 
-Round: Round 20 
+Round: 20 
 Date: 8/27/1950
 
 ; Boca Juniors               ; 0-0; Platense
@@ -297,7 +297,7 @@ Date: 8/27/1950
 ; Tigre                      ; 1-1; Ferro Carril Oeste (BUE)
 ; Vélez Sarsfield            ; 0-2; Banfield                    ; Ferro Carril Oeste (BUE)
 
-Round: Round 21 
+Round: 21 
 Date: 9/3/1950
 
 ; Atlanta                    ; 1-4; River Plate
@@ -310,7 +310,7 @@ Date: 9/3/1950
 ; Racing Club                ; 1-0; Vélez Sarsfield
 ; Rosario Central            ; 1-2; Chacarita Juniors
 
-Round: Round 22 
+Round: 22 
 Date: 9/10/1950
 
 ; Chacarita Juniors          ; 1-4; Boca Juniors
@@ -323,7 +323,7 @@ Date: 9/10/1950
 ; Tigre                      ; 3-0; Banfield
 ; Vélez Sarsfield            ; 1-0; Rosario Central             ; Ferro Carril Oeste (BUE)
 
-Round: Round 23 
+Round: 23 
 Date: 9/17/1950
 
 ; Atlanta                    ; 1-3; Quilmes
@@ -336,7 +336,7 @@ Date: 9/17/1950
 ; Racing Club                ; 4-1; Tigre
 ; Rosario Central            ; 2-1; San Lorenzo de Almagro
 
-Round: Round 24 
+Round: 24 
 Date: 9/24/1950
 
 ; Chacarita Juniors          ; 7-2; Platense
@@ -349,7 +349,7 @@ Date: 9/24/1950
 ; Tigre                      ; 2-2; Rosario Central
 ; Vélez Sarsfield            ; 1-4; Gimnasia y Esgrima La Plata ; Ferro Carril Oeste (BUE)
 
-Round: Round 25 
+Round: 25 
 Date: 10/1/1950
 
 ; Banfield                   ; 3-0; Newell's Old Boys
@@ -362,7 +362,7 @@ Date: 10/1/1950
 ; Racing Club                ; 5-3; River Plate
 ; Rosario Central            ; 2-4; Independiente (Avellaneda)
 
-Round: Round 26 
+Round: 26 
 Date: 10/8/1950
 
 ; Atlanta                    ; 5-1; Ferro Carril Oeste (BUE)
@@ -375,7 +375,7 @@ Date: 10/8/1950
 ; Tigre                      ; 3-2; Gimnasia y Esgrima La Plata
 ; Vélez Sarsfield            ; 1-0; Platense
 
-Round: Round 27 
+Round: 27 
 Date: 10/12/1950
 
 ; Banfield                   ; 2-2; Estudiantes de La Plata
@@ -388,7 +388,7 @@ Date: 10/12/1950
 ; Rosario Central            ; 1-1; Newell's Old Boys
 ; Vélez Sarsfield            ; 1-4; San Lorenzo de Almagro      ; Ferro Carril Oeste (BUE)
 
-Round: Round 28 
+Round: 28 
 Date: 10/15/1950
 
 ; Atlanta                    ; 1-0; Banfield
@@ -401,7 +401,7 @@ Date: 10/15/1950
 ; San Lorenzo del Almagro    ; 2-0; Platense
 ; Tigre                      ; 0-1; Vélez Sarsfield
 
-Round: Round 29 
+Round: 29 
 Date: 10/22/1950
 
 ; Banfield                   ; 1-1; Ferro Carril Oeste (BUE)
@@ -414,7 +414,7 @@ Date: 10/22/1950
 ; San Lorenzo del Almagro    ; 4-1; Tigre
 ; Vélez Sarsfield            ; 1-0; Independiente (Avellaneda)  ; Ferro Carril Oeste (BUE)
 
-Round: Round 30:
+Round: 30
 Date: 10/28/1950
 
 ; Newell's Old Boys          ; 0-1; Chacarita Juniors
@@ -430,7 +430,7 @@ Date: 10/29/1950
 ; River Plate                ; 0-0; Vélez Sarsfield
 ; Tigre                      ; 5-3; Platense
 
-Round: Round 31 
+Round: 31 
 Date: 11/5/1950
 
 ; Boca Juniors               ; 3-3; Atlanta
@@ -443,7 +443,7 @@ Date: 11/5/1950
 ; Tigre                      ; 2-3; Independiente (Avellaneda)
 ; Vélez Sarsfield            ; 3-2; Newell's Old Boys           ; Ferro Carril Oeste (BUE)
  
-Round: Round 32: 
+Round: 32 
 Date: 11/11/1950
 
 ; Newell's Old Boys          ; 2-1; San Lorenzo de Almagro
@@ -466,7 +466,7 @@ Racing Club: Rodríguez; García, García Pérez; Fernández, Rastelli, Gutiérr
 ; River Plate                ; 6-2; Tigre
 
 
-Round: Round 33 
+Round: 33 
 Date: 11/19/1950
 
 ; Boca Juniors               ; 0-1; Huracán (BUE)
@@ -479,7 +479,7 @@ Date: 11/19/1950
 ; Tigre                      ; 4-2; Newell's Old Boys
 ; Vélez Sarsfield            ; 1-4; Estudiantes LP              ; Ferro Carril Oeste (BUE)
 
-Round: Round 34 
+Round: 34 
 Date: 11/26/1950
 
 ; Atlanta                    ; 3-1; Vélez Sarsfield

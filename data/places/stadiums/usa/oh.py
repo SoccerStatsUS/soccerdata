@@ -9,7 +9,7 @@ l = [
 
 
     {
-        'name': 'Cleveland Browns Stadium',
+        'name': 'FirstEnergyStadium',
         'address': '100 Alfred Lerner Way',
         'location': 'Cleveland, OH',
         'opened': datetime.datetime(1999, 9, 12),

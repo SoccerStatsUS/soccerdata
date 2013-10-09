@@ -9,6 +9,37 @@ l = [
         'founded': 1878,
         'city': 'Manchester, England',
         },
+
+    {
+        'name': 'Oldham Athletic',
+        'founded': 1895,
+        'city': 'Oldham, England',
+        },
+
+    {
+        'name': 'Braga',
+        'founded': datetime.datetime(1921, 1, 19),
+        'city': 'Braga, Portugal',
+        },
+
+    {
+        'name': 'TSV 1860 Rosenheim',
+        'founded': 1860,
+        'city': 'Rosenheim, Germany',
+        },
+
+    {
+        'name': 'Exeter City',
+        'founded': 1904,
+        'city': 'Exeter, England',
+        },
+
+    {
+        'name': 'Bradford City',
+        'founded': 1903,
+        'city': 'Bradford, England',
+        },
+
     {
         'name': 'Fayal SC',
         'city': 'Faial, Spain',
@@ -54,6 +85,12 @@ l = [
         'name': 'S.C. Caldas',
         'founded': 1916,
         'city': 'Caldas da Rainha, Portugal',
+        },
+
+    {
+        'name': 'Cardiff City',
+        'founded': 1889,
+        'city': 'Cardiff, Wales',
         },
 
     {
@@ -346,6 +383,11 @@ l = [
         },
 
     {
+        'name': 'FC Stade Lausanne',
+        'city': 'Lausanne, Switzerland',
+        },
+
+    {
         'name': 'Norwich City F.C.',
         'founded': datetime.datetime(1902, 6, 17),
         'city': 'Norwich, England',
@@ -468,6 +510,12 @@ l = [
         'name': 'Macclesfield Town F.C.',
         'founded': 1874,
         'city': 'Macclesfield, England',
+        },
+
+    {
+        'name': 'Charlton Athletic',
+        'founded': 1905,
+        'city': 'London, England',
         },
 
 
@@ -894,6 +942,12 @@ l = [
         },
 
     {
+        'name': 'Barnsley',
+        'founded': 1887,
+        'city': 'Barnsley, England',
+        },
+
+    {
         'name': 'Amica Wronki',
         'founded': 1992,
         'city': 'Warsaw, Poland',
@@ -1004,6 +1058,12 @@ l = [
         'founded': 1912,
         'city': 'Swansea, England',
         },
+
+    {
+        'name': 'Reading',
+        'founded': 1871,
+        'city': 'Reading, England',
+        },
     
     {
         'name': 'Næstved BK',
@@ -1100,6 +1160,12 @@ l = [
         },
 
     {
+        'name': 'Watford',
+        'founded': 1881,
+        'city': 'Hertfordshire, England',
+        },
+
+    {
         'name': 'MVV Maastricht',
         'founded': datetime.datetime(1902, 4, 2),
         'city': 'Maastricht, Netherlands',
@@ -1168,6 +1234,12 @@ l = [
         'founded': datetime.datetime(1944, 9, 23),
         'city': 'Lille, France',
         },
+
+    {
+        'name': 'FC Sochaux',
+        'founded': 1928,
+        'city': 'Montbeliard, France',
+        },
     {
         'name': 'C.F. Os Belenenses',
         'founded': datetime.datetime(1919, 9, 23),
@@ -1218,6 +1290,12 @@ l = [
         'name': 'Arsenal',
         'founded': 1886,
         'city': 'London, England',
+        },
+
+    {
+        'name': 'Plymouth Argyle F.C.',
+        'founded': 1886,
+        'city': 'Plymouth, England',
         },
 
 
@@ -1650,6 +1728,12 @@ l = [
         },
 
     {
+        'name': 'Wimbledon FC',
+        'founded': 1889,
+        'city': 'Wimbledon, England',
+        },
+
+    {
         'name': 'King\'s Lynn F.C.',
         'founded': 1879,
         'dissolved': datetime.datetime(2009, 11, 25),
@@ -1736,9 +1820,27 @@ l = [
         },
 
     {
+        'name': 'Lyn Oslo',
+        'founded': datetime.datetime(1896, 3, 3),
+        'city': 'Oslo, Norway',
+        },
+
+    {
         'name': 'Rosenborg BK',
         'founded': datetime.datetime(1917, 5, 19),
         'city': 'Trondheim, Norway',
+        },
+
+    {
+        'name': 'Fredrikstad FK',
+        'founded': datetime.datetime(1903, 4, 7),
+        'city': 'Fredrikstad, Norway',
+        },
+
+    {
+        'name': 'Mjøndalen IF',
+        'founded': datetime.datetime(1910, 8, 22),
+        'city': 'Mjøndalen, Norway',
         },
 
     {
@@ -1802,6 +1904,12 @@ l = [
         'founded': datetime.datetime(1940, 7, 1),
         'city': 'Bratislava, Slovakia',
         },
+
+    {
+        'name': 'ŠK Slovan Bratislava',
+        'founded': datetime.datetime(1919, 5, 3),
+        'city': 'Bratislava, Slovakia',
+        },
     {
         'name': 'FC Zenit Saint Petersburg',
         'founded': 1924,
@@ -1838,6 +1946,13 @@ l = [
         'name': 'Valenciennes FC',
         'founded': 1913,
         'city': 'Valenciennes, France',
+        },
+
+
+    {
+        'name': 'Swindon Town',
+        'founded': 1879,
+        'city': 'Swindon, England',
         },
 
     ]

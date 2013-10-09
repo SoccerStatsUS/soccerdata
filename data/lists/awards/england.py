@@ -2,14 +2,139 @@
 # -*- coding: utf-8 -*-
 
 d = {
-    'England',
+
+    'competition': 'Premier League',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+    'mvp': 'Player of the Season',
+
+    'Champion': [
+        ('1992-1993', 'Manchester United'),
+        ('1993-1994', 'Manchester United'),
+        ('1994-1995', 'Blackburn Rovers'),
+        ('1995-1996', 'Manchester United'),
+        ('1996-1997', 'Manchester United'),
+        ('1997-1998', 'Arsenal'),
+        ('1998-1999', 'Manchester United'),
+        ('1999-2000', 'Manchester United'),
+        ('2000-2001', 'Manchester United'),
+        ('2001-2002', 'Arsenal'),
+        ('2002-2003', 'Manchester United'),
+        ('2003-2004', 'Arsenal'),
+        ('2004-2005', 'Chelsea'),
+        ('2005-2006', 'Chelsea'),
+        ('2006-2007', 'Manchester United'),
+        ('2007-2008', 'Manchester United'),
+        ('2008-2009', 'Manchester United'),
+        ('2009-2010', 'Chelsea'),
+        ('2010-2011', 'Manchester United'),
+        ('2011-2012', 'Manchester City'),
+        ('2012-2013', 'Manchester United'),
+        ],
+
+    'Player of the Season': [
+        ('1994-1995', 'Alan Shearer'),
+        ('1995-1996', 'Peter Schmeichel'),
+        ('1996-1997', 'Juninho Paulista'),
+        ('1997-1998', 'Michael Owen'),
+        ('1998-1999', 'Dwight Yorke'),
+        ('1999-2000', 'Kevin Phillips'),
+        ('2000-2001', 'Patrick Vieira'),
+        ('2001-2002', 'Freddie Ljungberg'),
+        ('2002-2003', 'Ruud van Nistelrooy'),
+        ('2003-2004', 'Thierry Henry'),
+        ('2004-2005', 'Frank Lampard'),
+        ('2005-2006', 'Frank Lampard'),
+        ('2006-2007', 'Cristiano Ronaldo'),
+        ('2007-2008', 'Cristiano Ronaldo'),
+        ('2008-2009', 'Nemanja Vidic'),
+        ('2009-2010', 'Wayne Rooney'),
+        ('2010-2011', 'Nemanja Vidic'),
+        ('2011-2012', 'Vincent Kompany'),
+        ('2012-2013', 'Gareth Bale'),
+        ],
+
+    'Golden Glove': [
+        ('2004-2005', 'Petr Cech'),
+        ('2005-2006', 'Pepe Reina'),
+        ('2006-2007', 'Pepe Reina'),
+        ('2007-2008', 'Pepe Reina'),
+        ('2008-2009', 'Edwin van der Sar'),
+        ('2009-2010', 'Petr Cech'),
+        ('2010-2011', 'Joe Hart'),
+        ('2011-2012', 'Joe Hart'),
+        ('2012-2013', 'Joe Hart'),
+        ],
+
+    'Manager of the Season': [
+        ('1993-1994', 'Alex Ferguson'),
+        ('1994-1995', 'Kenny Dalglish'),
+        ('1995-1996', 'Alex Ferguson'),
+        ('1996-1997', 'Alex Ferguson'),
+        ('1997-1998', 'Arsene Wenger'),
+        ('1998-1999', 'Alex Ferguson'),
+        ('1999-2000', 'Alex Ferguson'),
+        ('2000-2001', 'George Burley'),
+        ('2001-2002', 'Arsene Wenger'),
+        ('2002-2003', 'Alex Ferguson'),
+        ('2003-2004', 'Arsene Wenger'),
+        ('2004-2005', 'Jose Mourinho'),
+        ('2005-2006', 'Jose Mourinho'),
+        ('2006-2007', 'Alex Ferguson'),
+        ('2007-2008', 'Alex Ferguson'),
+        ('2008-2009', 'Alex Ferguson'),
+        ('2009-2010', 'Harry Redknapp'),
+        ('2010-2011', 'Alex Ferguson'),
+        ('2011-2012', 'Alan Pardew'),
+        ('2012-2013', 'Alex Ferguson'),
+        ],
+
+    'Golden Boot': [
+        ('1992-1993', 'Teddy Sheringham'),
+        ('1993-1994', 'Andrew Cole'),
+        ('1994-1995', 'Alan Shearer'),
+        ('1995-1996', 'Alan Shearer'),
+        ('1996-1997', 'Alan Shearer'),
+        ('1997-1998', 'Chris Sutton'),
+        ('1997-1998', 'Michael Owen'),
+        ('1997-1998', 'Dion Dublin'),
+
+        ('1998-1999', 'Dwight Yorke'),
+        ('1998-1999', 'Michael Owen'),
+        ('1998-1999', 'Jimmy Floyd Hasselbaink'),
+
+        ('1999-2000', 'Kevin Phillips'),
+        ('2000-2001', 'Jimmy Floyd Hasselbaink'),
+        ('2001-2002', 'Thierry Henry'),
+        ('2002-2003', 'Ruud van Nistelrooy'),
+        ('2003-2004', 'Thierry Henry'),
+        ('2004-2005', 'Thierry Henry'),
+        ('2005-2006', 'Thierry Henry'),
+        ('2006-2007', 'Didier Drogba'),
+        ('2007-2008', 'Cristiano Ronaldo'),
+        ('2008-2009', 'Nicolas Anelka'),
+        ('2009-2010', 'Didier Drogba'),
+        ('2010-2011', 'Carlos Tevez'),
+        ('2010-2011', 'Dimitar Berbatov'),
+        ('2011-2012', 'Robin van Persie'),
+        ('2012-2013', 'Robin van Persie'),
+        ],
+
+
+
     
-    'Goal of the Season': [
+}
+
+"""
+'Goal of the Season': [
         ('2001-2002', 'Dennis Bergkamp', (3, 2, 2002), 'http://www.youtube.com/watch?v=paVv3J58grs&feature=related'),
         ('1997-1998', 'Dennis Bergkamp', (8, 27, 1997), ''),
         ('2007-2008', 'Emmanuel Adebayor', (9, 15, 2007), 'http://www.youtube.com/watch?v=06GBPZlmvjM'),
         ('2002-2003', 'Thierry Henry', (11, 16, 2002), 'http://www.youtube.com/watch?v=QUXKtf1rdaY'),
         ('1998-1999', 'Ryan Giggs', (4, 14, 1999), 'http://www.youtube.com/watch?v=-9PyoJS7yaA'),
+        ],
+"""
+
 
 
 # Football League 100 Legends

@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/tablesa/arg35.html
 Season: 1935
 Competition: Liga Argentina de Football
 
-Round: 1st Round    
+Round: 1
 Date: 3/17/1935
 
 ; Platense          ; 1-2; River Plate         
@@ -15,7 +15,7 @@ Date: 3/17/1935
 ; Ferro Carril Oeste; 1-1; Quilmes             
 ; Estudiantes (LP)  ; 3-2; Racing Club (Argentina)         
     
-Round: 2nd Round    
+Round: 2
 Date: 3/24/1935
 
 ; Racing Club (Argentina)       ; 1-3; Ferro Carril Oeste  
@@ -31,7 +31,7 @@ Date: 3/31/1935
 ; Atlanta           ; 1-3; Platense            
 ; Argentinos Juniors; 2-1; Chacarita Juniors   
     
-Round: 3rd Round    
+Round: 3
 Date: 4/7/1935
 
 ; San Lorenzo       ; 2-2; Gimnasia (LP)       
@@ -44,7 +44,7 @@ Date: 4/7/1935
 ; Estudiantes (LP)  ; 9-1; Lanús               
 ; Chacarita Juniors ; 0-0; Racing Club (Argentina)         
     
-Round: 4th Round    
+Round: 4
 Date: 4/14/1935
 
 ; Vélez Sarsfield   ; 3-2; San Lorenzo         
@@ -57,7 +57,7 @@ Date: 4/14/1935
 ; Huracán (BA)      ; 1-1; Talleres (RdE)      
 ; Argentinos Juniors; 2-3; Independiente       
     
-Round: 5th Round    
+Round: 5
 Date: 4/21/1935
 
 ; Boca Juniors      ; 1-0; River Plate         
@@ -70,7 +70,7 @@ Date: 4/21/1935
 ; Tigre             ; 1-2; Quilmes            ; Argentinos Juniors  
 ; Chacarita Juniors ; 0-1; Lanús               
     
-Round: 6th Round    
+Round: 6
 Date: 4/28/1935
 
 ; Racing Club (Argentina)       ; 1-1; Tigre             ; Independiente       
@@ -83,7 +83,7 @@ Date: 4/28/1935
 ; Ferro Carril Oeste; 1-0; Talleres (RdE)      
 ; River Plate       ; 4-3; Independiente      ; San Lorenzo         
     
-Round: 7th Round    
+Round: 7
 Date: 5/5/1935
 
 ; Independiente     ; 5-1; Lanús               
@@ -96,7 +96,7 @@ Date: 5/5/1935
 ; San Lorenzo       ; 5-2; Racing Club (Argentina)         
 ; Vélez Sarsfield   ; 4-3; River Plate         
     
-Round: 8th Round    
+Round: 8
 Date: 5/12/1935
 
 ; River Plate       ; 1-2; San Lorenzo         
@@ -109,7 +109,7 @@ Date: 5/12/1935
 ; Lanús             ; 3-2; Tigre               
 ; Estudiantes (LP)  ; 5-1; Talleres (RdE)      
     
-Round: 9th Round    
+Round: 9
 Date: 5/19/1935
 
 ; Boca Juniors      ; 3-0; Huracán (BA)        
@@ -122,7 +122,7 @@ Date: 5/19/1935
 ; Vélez Sarsfield   ; 4-1; Quilmes             
 ; San Lorenzo       ; 3-2; Lanús               
     
-Round: 10th Round    
+Round: 10
 Date: 5/26/1935
 
 ; River Plate       ; 3-0; Gimnasia (LP)       
@@ -135,7 +135,7 @@ Date: 5/26/1935
 ; Racing Club (Argentina)       ; 2-2; Vélez Sarsfield     
 ; Ferro Carril Oeste; 4-0; Tigre               
     
-Round: 11th Round    
+Round: 11
 Date: 5/30/1935
 
 ; Boca Juniors      ; 3-0; Estudiantes (LP)    
@@ -151,7 +151,7 @@ Date: 6/2/1935
 ; Tigre             ; 1-3; Chacarita Juniors ; River Plate         
 ; Talleres (RdE)    ; 1-4; River Plate         
     
-Round: 12th Round    
+Round: 12
 Date: 6/9/1935
 
 ; Racing Club (Argentina)       ; 5-1; Argentinos Juniors  
@@ -164,7 +164,7 @@ Date: 6/9/1935
 ; Huracán (BA)      ; 2-1; San Lorenzo         
 ; Ferro Carril Oeste; 4-4; Boca Juniors        
     
-Round: 13th Round    
+Round: 13
 Date: 6/16/1935
 
 ; Gimnasia (LP)     ; 2-0; Ferro Carril Oeste  
@@ -177,7 +177,7 @@ Date: 6/16/1935
 ; River Plate       ; 2-0; Quilmes             
 ; Boca Juniors      ; 3-0; Chacarita Juniors   
     
-Round: 14th Round    
+Round: 14
 Date: 6/23/1935
 
 ; Platense          ; 0-2; Boca Juniors        
@@ -190,7 +190,7 @@ Date: 6/23/1935
 ; Huracán (BA)      ; 4-0; Gimnasia (LP)       
 ; Estudiantes (LP)  ; 4-4; San Lorenzo         
     
-Round: 15th Round    
+Round: 15
 Date: 6/30/1935
 
 ; Boca Juniors      ; 1-2; Independiente       
@@ -203,7 +203,7 @@ Date: 6/30/1935
 ; San Lorenzo       ; 2-1; Tigre               
 ; Vélez Sarsfield   ; 2-1; Chacarita Juniors   
     
-Round: 16th Round    
+Round: 16
 Date: 7/21/1935
 
 ; Independiente     ; 1-1; Talleres (RdE)      
@@ -216,7 +216,7 @@ Date: 7/21/1935
 ; Lanús             ; 0-2; River Plate         
 ; Quilmes           ; 3-1; Racing Club (Argentina)         
     
-Round: 17th Round    
+Round: 17
 Date: 7/28/1935
 
 ; Atlanta           ; 1-1; Estudiantes (LP)    
@@ -229,7 +229,7 @@ Date: 7/28/1935
 ; Talleres (RdE)    ; 2-2; Boca Juniors        
 ; San Lorenzo       ; 4-0; Independiente       
     
-Round: 18th Round    
+Round: 18
 Date: 8/4/1935
 
 ; Vélez Sarsfield   ; 3-0; Boca Juniors        
@@ -242,7 +242,7 @@ Date: 8/4/1935
 ; Racing Club (Argentina)       ; 2-5; Estudiantes (LP)    
 ; Lanús             ; 0-5; Huracán (BA)        
     
-Round: 19th Round    
+Round: 19
 Date: 8/11/1935
 
 ; Huracán (BA)      ; 2-0; Quilmes             
@@ -255,7 +255,7 @@ Date: 8/11/1935
 ; Boca Juniors      ; 4-3; San Lorenzo         
 ; Talleres (RdE)    ; 2-2; Lanús               
     
-Round: 20th Round    
+Round: 20
 Date: 8/18/1935
 
 ; Huracán (BA)      ; 2-0; Ferro Carril Oeste  
@@ -268,7 +268,7 @@ Date: 8/18/1935
 ; Vélez Sarsfield   ; 3-1; Talleres (RdE)      
 ; Atlanta           ; 0-3; Independiente       
     
-Round: 21st Round    
+Round: 21
 Date: 8/25/1935
 
 ; Boca Juniors      ; 4-0; Gimnasia (LP)       
@@ -281,7 +281,7 @@ Date: 8/25/1935
 ; Talleres (RdE)    ; 3-2; Huracán (BA)        
 ; Independiente     ; 6-0; Argentinos Juniors  
     
-Round: 22nd Round    
+Round: 22
 Date: 9/1/1935
 
 ; River Plate       ; 1-1; Boca Juniors        
@@ -294,7 +294,7 @@ Date: 9/1/1935
 ; Ferro Carril Oeste; 5-4; Estudiantes (LP)    
 ; Lanús             ; 2-1; Chacarita Juniors   
     
-Round: 23rd Round    
+Round: 23
 Date: 9/8/1935
 
 ; Independiente     ; 1-1; River Plate         
@@ -307,7 +307,7 @@ Date: 9/8/1935
 ; San Lorenzo       ; 4-0; Argentinos Juniors  
 ; Boca Juniors      ; 8-0; Atlanta             
     
-Round: 24th Round    
+Round: 24
 Date: 9/15/1935
 
 ; Racing Club (Argentina)       ; 1-3; San Lorenzo         
@@ -320,7 +320,7 @@ Date: 9/15/1935
 ; Atlanta           ; 2-2; Gimnasia (LP)       
 ; Huracán (BA)      ; 3-1; Tigre               
     
-Round: 25th Round    
+Round: 25
 Date: 9/22/1935
 
 ; Boca Juniors      ; 3-2; Racing Club (Argentina)         
@@ -333,7 +333,7 @@ Date: 9/22/1935
 ; Platense          ; 3-4; Ferro Carril Oeste  
 ; Gimnasia (LP)     ; 4-1; Argentinos Juniors  
     
-Round: 26th Round    
+Round: 26
 Date: 10/6/1935
 
 ; Quilmes           ; 0-2; Vélez Sarsfield     
@@ -346,7 +346,7 @@ Date: 10/6/1935
 ; Platense          ; 1-3; Chacarita Juniors   
 ; River Plate       ; 4-1; Argentinos Juniors  
     
-Round: 27th Round    
+Round: 27
 Date: None
 
 ; Argentinos Juniors; 0-0; Atlanta             
@@ -359,7 +359,7 @@ Date: None
 ; Chacarita Juniors ; 1-1; Estudiantes (LP)    
 ; Gimnasia (LP)     ; 6-4; River Plate         
     
-Round: 28th Round    
+Round: 28
 Date: 10/20/1935
 
 ; Ferro Carril Oeste; 0-1; San Lorenzo         
@@ -372,7 +372,7 @@ Date: 10/20/1935
 ; Chacarita Juniors ; 1-1; Tigre               
 ; Estudiantes (LP)  ; 1-5; Boca Juniors        
     
-Round: 29th Round    
+Round: 29
 Date: 10/27/1935
 
 ; Talleres (RdE)    ; 2-2; Chacarita Juniors   
@@ -385,7 +385,7 @@ Date: 10/27/1935
 ; Tigre             ; 1-4; Platense           ; River Plate         
 ; Independiente     ; 5-2; Estudiantes (LP)    
     
-Round: 30th Round    
+Round: 30
 Date: 11/10/1935
 
 ; Quilmes           ; 0-1; River Plate         
@@ -401,7 +401,7 @@ Date: 11/24/1935
 ; Platense          ; 2-6; San Lorenzo         
 ; Huracán (BA)      ; 5-0; Argentinos Juniors  
     
-Round: 31st Round    
+Round: 31
 Date: 12/1/1935
 
 ; San Lorenzo       ; 1-1; Estudiantes (LP)   ; Chacarita Juniors   
@@ -414,7 +414,7 @@ Date: 12/1/1935
 ; Talleres (RdE)    ; 5-1; Tigre               
 ; Vélez Sarsfield   ; 7-0; Ferro Carril Oeste  
     
-Round: 32nd Round    
+Round: 32
 Date: 12/8/1935
 
 ; Ferro Carril Oeste; 3-0; Atlanta             
@@ -427,7 +427,7 @@ Date: 12/8/1935
 ; Tigre             ; 2-3; San Lorenzo        ; Argentinos Juniors  
 ; Quilmes           ; 1-2; Talleres (RdE)      
     
-Round: 33rd Round    
+Round: 33
 Date: 12/15/1935
 
 ; San Lorenzo       ; 4-0; Chacarita Juniors   
@@ -460,7 +460,7 @@ Date: 12/19/1935
 ; Gimnasia (LP)     ; 2-1; Estudiantes (LP)    
     
     
-Round: 34th Round    
+Round: 34
 Date: 12/21/1935
 
 ; Tigre             ; 2-5; Vélez Sarsfield    ; Chacarita Juniors   

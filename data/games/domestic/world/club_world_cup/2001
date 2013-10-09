@@ -39,12 +39,12 @@ Group: A
 * 3.Wollongong Wolves   0  0  0  0   0- 0   0
 * 4.Zamalek             0  0  0  0   0- 0   0
 
-7/28/2001; Boca Juniors      ; np;  Deportivo; Estadio Riazor
+7/28/2001; Boca Juniors      ; np;  Deportivo La Coruna; Estadio Riazor
 7/29/2001; Wollongong Wolves        ; np;  Zamalek; Estadio Riazor
-8/1/2001; Deportivo         ; np;  Wollongong Wolves; Estadio Riazor
+8/1/2001; Deportivo La Coruna        ; np;  Wollongong Wolves; Estadio Riazor
 8/1/2001; Boca Juniors      ; np;  Zamalek; Estadio Riazor
 8/4/2001; Boca Juniors      ; np;  Wollongong Wolves      ; Estadio de San Lazaro
-8/4/2001; Deportivo         ; np;  Zamalek; Estadio Riazor
+8/4/2001; Deportivo La Coruna        ; np;  Zamalek; Estadio Riazor
 
 Group: B 
 
@@ -53,15 +53,14 @@ Group: B
 * 3.Olimpia             0  0  0  0   0- 0   0
 * 4.Palmeiras           0  0  0  0   0- 0   0
 
-7/29/2001; Palmeiras         ; np;  Olimpia; Estadio Vicente Calderon
-7/30/2001; Galatasaray       ; np;  Hilal; Estadio Vicente Calderon
-8/2/2001; Olimpia           ; np;  Galatasaray; Estadio Vicente Calderon
-8/2/2001; Palmeiras         ; np;  Hilal; Estadio Vicente Calderon
+7/29/2001; Palmeiras         ; np;  CD Olimpia; Estadio Vicente Calderon
+7/30/2001; Galatasaray       ; np;  Al Hilal; Estadio Vicente Calderon
+8/2/2001; CD Olimpia           ; np;  Galatasaray; Estadio Vicente Calderon
+8/2/2001; Palmeiras         ; np;  Al Hilal; Estadio Vicente Calderon
 8/5/2001; Palmeiras         ; np;  Galatasaray; Estadio Vicente Calderon
-8/5/2001; Olimpia           ; np;  Hilal      ; Estadio Santiago Bernabeu
+8/5/2001; CD Olimpia           ; np;  Al Hilal      ; Estadio Santiago Bernabeu
 
 Group: C 
-*(Santiago Bernabéu, Madrid)
  
 * 1.Hearts of Oak       0  0  0  0   0- 0   0
 * 2.Jubilo Iwata        0  0  0  0   0- 0   0

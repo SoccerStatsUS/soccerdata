@@ -28,7 +28,7 @@ Competition: Liga Argentina de Football
 * 2. River Plate                        1   0   1   0   3:  3    1 (Runner-up)
 * 3. Huracán (Buenos Aires)             1   0   1   0   3:  3    1 (Runner-up)
 
-Round: Round 1 
+Round: 1 
 Date: 3/19/1939
 
 ;Boca Juniors                      ; 0- 2; Independiente (Avellaneda)        ; Ferro Carril Oeste (Buenos Aires)
@@ -41,7 +41,7 @@ Date: 3/19/1939
 ;Racing Club                       ; 2- 2; Ferro Carril Oeste (Buenos Aires)
 ;Vélez Sarsfield                   ; 5- 1; Gimnasia y Esgrima La Plata
 
-Round: Round 2 
+Round: 2 
 Date: 3/26/1939
 
 ;Argentino de Quilmes              ; 0- 2; Boca Juniors                      ; Lanús
@@ -54,7 +54,7 @@ Date: 3/26/1939
 ;San Lorenzo de Almagro            ; 4- 1; Platense
 ;Tigre                             ; 3- 3; Newell's Old Boys
 
-Round: Round 3 
+Round: 3 
 Date: 4/2/1939
 
 ;Boca Juniors                      ; 2- 2; San Lorenzo de Almagro            ; Ferro Carril Oeste (Buenos Aires)
@@ -67,7 +67,7 @@ Date: 4/2/1939
 ;River Plate                       ; 2- 2; Gimnasia y Esgrima La Plata
 ;Vélez Sarsfield                   ; 5- 2; Argentino de Quilmes
 
-Round: Round 4 
+Round: 4 
 Date: 4/9/1939
 
 ;Argentino de Quilmes              ; 0- 3; Racing Club
@@ -80,7 +80,7 @@ Date: 4/9/1939
 ;San Lorenzo de Almagro            ; 4- 2; Estudiantes de La Plata
 ;Tigre                             ; 0- 1; Boca Juniors
 
-Round: Round 5 
+Round: 5 
 Date: 4/16/1939
 
 ;Boca Juniors                      ; 1- 1; Platense                          ; Ferro Carril Oeste (Buenos Aires)
@@ -93,7 +93,7 @@ Date: 4/16/1939
 ;Rosario Central                   ; 5- 0; Ferro Carril Oeste (Buenos Aires)
 ;Vélez Sarsfield                   ; 3- 2; Tigre
 
-Round: Round 6 
+Round: 6 
 Date: 4/23/1939
 
 ;Argentino de Quilmes              ; 1- 2; Huracán (Buenos Aires)
@@ -106,7 +106,7 @@ Date: 4/23/1939
 ;San Lorenzo de Almagro            ; 0- 2; Lanús
 ;Tigre                             ; 2- 0; Racing Club
 
-Round: Round 7 
+Round: 7 
 Date: 4/30/1939
 
 ;Boca Juniors                      ; 4- 2; Estudiantes de La Plata           ; Ferro Carril Oeste (Buenos Aires)
@@ -119,7 +119,7 @@ Date: 4/30/1939
 ;Rosario Central                   ; 0- 2; Independiente (Avellaneda)
 ;Vélez Sarsfield                   ; 3- 1; Atlanta
 
-Round: Round 8:
+Round: 8
 Date: 5/6/1939
 
 ;Estudiantes de La Plata           ; 2- 2; Chacarita Juniors
@@ -135,7 +135,7 @@ Date: 5/7/1939
 ;San Lorenzo de Almagro            ; 1- 1; Vélez Sarsfield
 ;Tigre                             ; 1- 2; Huracán (Buenos Aires)
 
-Round: Round 9 
+Round: 9 
 Date: 5/14/1939
 
 ;Chacarita Juniors                 ; 1- 0; Argentino de Quilmes
@@ -148,7 +148,7 @@ Date: 5/14/1939
 ;Rosario Central                   ; 0- 0; San Lorenzo de Almagro
 ;Vélez Sarsfield                   ; 0- 0; Newell's Old Boys
 
-Round: Round 10 
+Round: 10 
 Date: 5/21/1939
 
 ;Argentino de Quilmes              ; 2- 6; Ferro Carril Oeste (Buenos Aires)
@@ -161,7 +161,7 @@ Date: 5/21/1939
 ;San Lorenzo de Almagro            ; 4- 2; River Plate
 ;Tigre                             ; 2- 0; Rosario Central
 
-Round: Round 11 
+Round: 11 
 Date: 5/28/1939
 
 ;Argentino de Quilmes              ; 3- 3; Tigre
@@ -174,7 +174,7 @@ Date: 5/28/1939
 ;Rosario Central                   ; 4- 1; Platense
 ;Vélez Sarsfield                   ; 1- 2; Boca Juniors
 
-Round: Round 12 
+Round: 12 
 Date: 6/4/1939
 
 ;Atlanta                           ; 0- 1; Rosario Central
@@ -187,7 +187,7 @@ Date: 6/4/1939
 ;San Lorenzo de Almagro            ; 4- 1; Gimnasia y Esgrima La Plata
 ;Tigre                             ; 4- 1; Ferro Carril Oeste (Buenos Aires)
 
-Round: Round 13 
+Round: 13 
 Date: 6/11/1939
 
 ;Argentino de Quilmes              ; 2- 3; Atlanta
@@ -200,7 +200,7 @@ Date: 6/11/1939
 ;Rosario Central                   ; 4- 1; Estudiantes de La Plata
 ;Vélez Sarsfield                   ; 4- 3; Racing Club
 
-Round: Round 14:
+Round: 14
 
 Date: 6/18/1939
 
@@ -217,7 +217,7 @@ Date: 6/20/1939
 
 ;San Lorenzo de Almagro            ; 7- 1; Argentino de Quilmes
 
-Round: Round 15 
+Round: 15 
 Date: 6/25/1939
 
 ;Argentino de Quilmes              ; 0- 3; Newell's Old Boys
@@ -230,7 +230,7 @@ Date: 6/25/1939
 ;Rosario Central                   ; 3- 1; Lanús
 ;Tigre                             ; 2- 0; Atlanta
 
-Round: Round 16 
+Round: 16 
 Date: 7/2/1939
 
 ;Atlanta                           ; 2- 5; Independiente (Avellaneda)
@@ -244,7 +244,7 @@ Date: 7/2/1939
 ;Vélez Sarsfield                   ; 2- 1; Chacarita Juniors
 
 
-Round: Round 17 
+Round: 17 
 Date: 7/16/1939
 
 ;Argentino de Quilmes              ; 1- 2; Estudiantes de La Plata
@@ -260,7 +260,7 @@ Date: 7/16/1939
 *First stage winner playoff [Dec 10, 1939]:
 ;Huracán (Buenos Aires)            ; 2- 1; Independiente (Avellaneda)        ; San Lorenzo de Almagro
                                       
-Round: Round 18 
+Round: 18 
 Date: 7/23/1939
 
 ;Argentino de Quilmes              ; 2- 8; Lanús
@@ -273,7 +273,7 @@ Date: 7/23/1939
 ;San Lorenzo de Almagro            ; 2- 4; Newell's Old Boys
 ;Tigre                             ; 2- 1; Estudiantes de La Plata
 
-Round: Round 19 
+Round: 19 
 Date: 7/30/1939
 
 ;Boca Juniors                      ; 7- 1; Argentino de Quilmes              ; Ferro Carril Oeste (Buenos Aires)
@@ -286,7 +286,7 @@ Date: 7/30/1939
 ;Racing Club                       ; 1- 1; Gimnasia y Esgrima La Plata
 ;Vélez Sarsfield                   ; 1- 1; Rosario Central
 
-Round: Round 20 
+Round: 20 
 Date: 8/6/1939
 
 ;Argentino de Quilmes              ; 1- 4; Vélez Sarsfield
@@ -299,7 +299,7 @@ Date: 8/6/1939
 ;San Lorenzo de Almagro            ; 1- 0; Boca Juniors
 ;Tigre                             ; 1- 0; Lanús
 
-Round: Round 21
+Round: 21
 
 Date: 8/13/1939
 
@@ -316,7 +316,7 @@ Date: 8/20/1939
 ;River Plate                       ; 6- 0; Rosario Central
 ;Vélez Sarsfield                   ; 1- 1; Ferro Carril Oeste (Buenos Aires)
 
-Round: Round 22:
+Round: 22
 
 Date: 8/27/1939
 
@@ -333,7 +333,7 @@ Date: 9/3/1939
 ;San Lorenzo de Almagro            ; 4- 0; Racing Club
 ;Tigre                             ; 2- 0; Vélez Sarsfield
 
-Round: Round 23 
+Round: 23 
 Date: 9/24/1939
 
 ;Boca Juniors                      ; 3- 0; Atlanta                           ; Ferro Carril Oeste (Buenos Aires)
@@ -346,7 +346,7 @@ Date: 9/24/1939
 ;Rosario Central                   ; 4- 1; Gimnasia y Esgrima La Plata
 ;Vélez Sarsfield                   ; 1- 3; Independiente (Avellaneda)
 
-Round: Round 24 
+Round: 24 
 Date: 10/1/1939
 
 ;Argentino de Quilmes              ; 0- 0; Gimnasia y Esgrima La Plata
@@ -359,7 +359,7 @@ Date: 10/1/1939
 ;San Lorenzo de Almagro            ; 2- 5; Huracán (Buenos Aires)
 ;Tigre                             ; 1- 3; River Plate
 
-Round: Round 25:
+Round: 25
 
 Date: 10/9/1939
 
@@ -376,7 +376,7 @@ Date: 10/12/1939
 ;River Plate                       ; 2- 3; Independiente (Avellaneda)
 ;Vélez Sarsfield                   ; 0- 4; San Lorenzo de Almagro
 
-Round: Round 26 
+Round: 26 
 Date: 10/15/1939
 
 ;Argentino de Quilmes              ; 1- 5; Chacarita Juniors
@@ -389,7 +389,7 @@ Date: 10/15/1939
 ;San Lorenzo de Almagro            ; 3- 0; Rosario Central
 ;Tigre                             ; 2- 1; Gimnasia y Esgrima La Plata
 
-Round: Round 27 
+Round: 27 
 Date: 10/22/1939
 
 ;Chacarita Juniors                 ; 1- 1; Boca Juniors
@@ -402,7 +402,7 @@ Date: 10/22/1939
 ;Rosario Central                   ; 1- 2; Tigre
 ;Vélez Sarsfield                   ; 2- 1; Platense
 
-Round: Round 28 
+Round: 28 
 Date: 10/29/1939
 
 ;Atlanta                           ; 3- 0; Gimnasia y Esgrima La Plata
@@ -415,7 +415,7 @@ Date: 10/29/1939
 ;San Lorenzo de Almagro            ; 5- 1; Ferro Carril Oeste (Buenos Aires)
 ;Tigre                             ; 3- 2; Argentino de Quilmes
 
-Round: Round 29 
+Round: 29 
 Date: 11/1/1939
 
 ;Argentino de Quilmes              ; 1- 3; Independiente (Avellaneda)
@@ -428,7 +428,7 @@ Date: 11/1/1939
 ;Rosario Central                   ; 6- 1; Atlanta
 ;Vélez Sarsfield                   ; 1- 0; Estudiantes de La Plata
 
-Round: Round 30 
+Round: 30 
 Date: 11/5/1939
 
 ;Atlanta                           ; 5- 2; Argentino de Quilmes
@@ -441,7 +441,7 @@ Date: 11/5/1939
 ;San Lorenzo de Almagro            ; 0- 3; Independiente (Avellaneda)
 ;Tigre                             ; 2- 1; Chacarita Juniors
 
-Round: Round 31 
+Round: 31 
 Date: 11/12/1939
 
 ;Argentino de Quilmes              ; 1- 7; San Lorenzo de Almagro            ; Chacarita Juniors
@@ -454,7 +454,7 @@ Date: 11/12/1939
 ;Rosario Central                   ; 1- 1; Newell's Old Boys
 ;Vélez Sarsfield                   ; 3- 1; Lanús
 
-Round: Round 32:
+Round: 32
 Date: 11/18/1939
 
 ;Estudiantes de La Plata           ; 3- 3; Ferro Carril Oeste (Buenos Aires)
@@ -476,7 +476,7 @@ Notes: Independiente (Avellaneda) won the championship in this round with the fo
 ;San Lorenzo de Almagro            ; 5- 1; Chacarita Juniors
 ;Vélez Sarsfield                   ; 3- 3; Huracán (Buenos Aires)
 
-Round: Round 33:
+Round: 33
 Date: 11/25/1939
 
 ;Rosario Central                   ; 1- 0; Boca Juniors
@@ -492,7 +492,7 @@ Date: 11/26/1939
 ;River Plate                       ; 5- 2; Lanús                             ; Chacarita Juniors
 ;Tigre                             ; 0- 1; San Lorenzo de Almagro
 
-Round: Round 34:
+Round: 34
 Date: 12/2/1939
 
 ;Newell's Old Boys                 ; 1- 0; Independiente (Avellaneda)

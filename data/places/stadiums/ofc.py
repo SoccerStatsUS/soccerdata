@@ -15,6 +15,13 @@ l = [
         },
 
     {
+        'name': 'Queensland Sport and Athletics Centre',
+        'location': 'Brisbane, Australia',
+        'opened': 1975,
+        'capacity': 49000,
+        },
+
+    {
         'name': 'York Park',
         'location': 'Launceton, Australia',
         'opened': 1921,
@@ -131,6 +138,29 @@ l = [
         'location': 'Adelaide, Australia',
         'opened': 1960,
         'capacity': 17000,
+        },
+
+    {
+        'name': 'Football Park',
+        'location': 'Adelaide, Australia',
+        'opened': 1974,
+        'capacity': 51240,
+        },
+
+    {
+        'name': 'Sydney Sports Ground',
+        'location': 'Sydney, Australia',
+        'opened': 1911,
+        'closed': 1986,
+        'capacity': 35000,
+        },
+
+
+    {
+        'name': 'Sydney Cricket Ground',
+        'location': 'Sydney, Australia',
+        'opened': 1848,
+        'capacity': 36000,
         },
 
     {

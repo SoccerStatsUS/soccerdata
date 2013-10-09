@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/tablesa/arg43.html
 Season: 1943
 Competition: Argentine Primera División
 
-Round: Round 1. 1                              
+Round: 1. 1                              
 Date: 4/18/1943
 
 ; Banfield               ; 5-3;       Estudiantes LP          
@@ -14,7 +14,7 @@ Date: 4/18/1943
 ; Rosario Central        ; 2-0;       Atlanta                 
 ; San Lorenzo de Almagro ; 4-2;       Independiente (A)       
                         
-Round: Round 1. 2                              
+Round: 1. 2                              
 Date: 4/25/1943
 
 ; Atlanta                ; 2-1;       Chacarita Juniors       
@@ -26,7 +26,7 @@ Date: 4/25/1943
 ; Newell's Old Boys      ; 2-1;       San Lorenzo de Almagro  
 ; Platense (VL)          ; 3-1;       Racing Club             
                                          
-Round: Round 1. 3                              
+Round: 1. 3                              
 Date: 5/2/1943
 
 ; Banfield               ; 1-2;       Huracán (BA)            
@@ -38,7 +38,7 @@ Date: 5/2/1943
 ; Rosario Central        ; 1-1;       Platense (VL)           
 ; San Lorenzo de Almagro ; 2-3;       Atlanta                 
                         
-Round: Round 1. 4                              
+Round: 1. 4                              
 Date: 5/9/1943
 
 ; Atlanta                ; 3-1;       River Plate             ; Chacarita Juniors      
@@ -50,7 +50,7 @@ Date: 5/9/1943
 ; Newell's Old Boys      ; 0-2;       Estudiantes LP          
 ; Platense (VL)          ; 4-1;       Chacarita Juniors       ; River Plate            
                                             
-Round: Round 1. 5                              
+Round: 1. 5                              
 Date: 5/16/1943
 
 ; Banfield               ; 2-4;       Independiente (A)       
@@ -62,7 +62,7 @@ Date: 5/16/1943
 ; Rosario Central        ; 3-1;       Gimnasia y Esgrima LP   
 ; San Lorenzo de Almagro ; 1-2;       Platense (VL)           
                         
-Round: Round 1. 6                              
+Round: 1. 6                              
 Date: 5/23/1943
 
 ; Atlanta                ; 2-2;       Huracán (BA)            
@@ -74,7 +74,7 @@ Date: 5/23/1943
 ; Platense (VL)          ; 0-1;       River Plate             ; San Lorenzo de Almagro
 ; Racing Club            ; 1-3;       Banfield                
                                                           
-Round: Round 1. 7                              
+Round: 1. 7                              
 Date: 5/30/1943
 
 ; Banfield               ; 1-1;       Newell's Old Boys       
@@ -86,7 +86,7 @@ Date: 5/30/1943
 ; Rosario Central        ; 2-0;       Racing Club             
 ; San Lorenzo de Almagro ; 4-1;       Gimnasia y Esgrima LP   
                         
-Round: Round 1. 8                              
+Round: 1. 8                              
 Date: 6/6/1943
 
 ; Atlanta                ; 3-0;       Newell's Old Boys       
@@ -98,7 +98,7 @@ Date: 6/6/1943
 ; Racing Club            ; 2-2;       Chacarita Juniors       
 ; Rosario Central        ; 1-0;       Banfield                
                                                           
-Round: Round 1. 9                              
+Round: 1. 9                              
 Date: 6/13/1943
 
 ; Banfield               ; 0-0;       Atlanta                 
@@ -110,7 +110,7 @@ Date: 6/13/1943
 ; River Plate            ; 3-1;       Ferro Carril Oeste (BA)
 ; San Lorenzo de Almagro ; 2-1;       Racing Club            
                 
-Round: Round 1.10                       
+Round: 1.10                       
 Date: 6/20/1943
 
 ; Boca Juniors           ; 3-1;       Atlanta                
@@ -122,7 +122,7 @@ Date: 6/20/1943
 ; Racing Club            ; 0-0;       River Plate            
 ; Rosario Central        ; 2-0;       San Lorenzo de Almagro
                                    
-Round: Round 1.11                              
+Round: 1.11                              
 Date: 6/27/1943
 
 ; Atlanta                ; 0-4;       Platense (VL)           
@@ -134,7 +134,7 @@ Date: 6/27/1943
 ; River Plate            ; 4-2;       Rosario Central         
 ; San Lorenzo de Almagro ; 3-1;       Chacarita Juniors       
                         
-Round: Round 1.12                              
+Round: 1.12                              
 Date: 7/4/1943
 
 ; Chacarita Juniors      ; 1-1;       River Plate             
@@ -146,7 +146,7 @@ Date: 7/4/1943
 ; Rosario Central        ; 1-2;       Estudiantes LP          
 ; San Lorenzo de Almagro ; 2-0;       Banfield                
                         
-Round: Round 1.13                              
+Round: 1.13                              
 Date: 7/25/1943
 
 ; Newell's Old Boys      ; 3-2;       Ferro Carril Oeste (BA) 
@@ -161,7 +161,7 @@ Date: 8/1/1943
 ; Independiente (A)      ; 1-2;       Racing Club             
 ; River Plate            ; 5-2;       San Lorenzo de Almagro
                                    
-Round: Round 1.14                       
+Round: 1.14                       
 Date: 8/8/1943
 
 ; Chacarita Juniors      ; 1-0;       Huracán (BA)           
@@ -173,7 +173,7 @@ Date: 8/8/1943
 ; Rosario Central        ; 2-2;       Independiente (A)      
 ; San Lorenzo de Almagro ; 4-1;       Estudiantes LP         
                 
-Round: Round 1.15                       
+Round: 1.15                       
 Date: 8/15/1943
 
 ; Atlanta                ; 1-1;       Racing Club            
@@ -185,7 +185,7 @@ Date: 8/15/1943
 ; Newell's Old Boys      ; 0-1;       Rosario Central         
 ; Platense (VL)          ; 4-2;       Gimnasia y Esgrima LP   
                                            
-Round: Round 2. 1                              
+Round: 2. 1                              
 Date: 8/22/1943
 
 ; Atlanta                ; 3-2;       Rosario Central         
@@ -197,7 +197,7 @@ Date: 8/22/1943
 ; Newell's Old Boys      ; 3-1;       Chacarita Juniors      
 ; Platense (VL)          ; 1-0;       Ferro Carril Oeste (BA)
                                    
-Round: Round 2. 2                       
+Round: 2. 2                       
 Date: 8/29/1943
 
 ; Banfield               ; 1-1;       Gimnasia y Esgrima LP
@@ -209,7 +209,7 @@ Date: 8/29/1943
 ; Rosario Central        ; 2-2;       Boca Juniors            
 ; San Lorenzo de Almagro ; 3-1;       Newell's Old Boys      
                 
-Round: Round 2. 3                       
+Round: 2. 3                       
 Date: 9/5/1943
 
 ; Atlanta                ; 4-3;       San Lorenzo de Almagro  ; Chacarita Juniors      
@@ -221,7 +221,7 @@ Date: 9/5/1943
 ; Newell's Old Boys      ; 2-2;       River Plate             
 ; Platense (VL)          ; 3-1;       Rosario Central         
                                           
-Round: Round 2. 4                              
+Round: 2. 4                              
 Date: 9/12/1943
 
 ; Rosario Central        ; 3-1;       Lanús                   
@@ -236,7 +236,7 @@ Date: 9/19/1943
 ; River Plate            ; 3-0;       Atlanta                 
 ; San Lorenzo de Almagro ; 4-6;       Boca Juniors                    
 
-Round: Round 2. 5                              
+Round: 2. 5                              
 Date: 9/27/1943
 
 ; Atlanta                ; 4-1;       Estudiantes LP          
@@ -248,7 +248,7 @@ Date: 9/27/1943
 ; Newell's Old Boys      ; 0-1;       Huracán (BA)            
 ; Platense (VL)          ; 0-2;       San Lorenzo de Almagro  
                                       
-Round: Round 2. 6                              
+Round: 2. 6                              
 Date: 10/3/1943
 
 ; Banfield               ; 2-1;       Racing Club             
@@ -260,7 +260,7 @@ Date: 10/3/1943
 ; Rosario Central        ; 2-3;       Ferro Carril Oeste (BA) 
 ; San Lorenzo de Almagro ; 2-2;       Lanús                   
                          
-Round: Round 2. 7                              
+Round: 2. 7                              
 Date: 10/10/1943
 
 ; Atlanta                ; 3-7;       Independiente (A)       
@@ -272,7 +272,7 @@ Date: 10/10/1943
 ; Platense (VL)          ; 0-4;       Estudiantes LP          
 ; Racing Club            ; 5-4;       Rosario Central         
                                           
-Round: Round 2. 8                              
+Round: 2. 8                              
 Date: 10/17/1943
 
 ; Banfield               ; 3-2;       Rosario Central         
@@ -284,7 +284,7 @@ Date: 10/17/1943
 ; River Plate            ; 3-1;       Gimnasia y Esgrima LP   
 ; San Lorenzo de Almagro ; 3-3;       Ferro Carril Oeste (BA) 
                         
-Round: Round 2. 9                              
+Round: 2. 9                              
 Date: 10/24/1943
 
 ; Atlanta                ; 7-3;       Banfield                
@@ -296,7 +296,7 @@ Date: 10/24/1943
 ; Racing Club            ; 3-1;       San Lorenzo de Almagro  
 ; Rosario Central        ; 0-1;       Chacarita Juniors       
                                             
-Round: Round 2.10                              
+Round: 2.10                              
 Date: 10/31/1943
 
 ; Atlanta                ; 1-1;       Boca Juniors            ; Chacarita Juniors      
@@ -308,7 +308,7 @@ Date: 10/31/1943
 ; River Plate            ; 5-0;       Racing Club             
 ; San Lorenzo de Almagro ; 3-3;       Rosario Central         
                         
-Round: Round 2.11                              
+Round: 2.11                              
 Date: 11/7/1943
 
 ; Boca Juniors           ; 3-1;       Banfield                
@@ -320,7 +320,7 @@ Date: 11/7/1943
 ; Racing Club            ; 3-2;       Estudiantes LP          ; Independiente
 ; Rosario Central        ; 1-1;       River Plate             
                                         
-Round: Round 2.12                              
+Round: 2.12                              
 Date: 11/13/1943
 
 ; Estudiantes LP         ; 1-1;       Rosario Central         ; Chacarita Juniors      
@@ -338,7 +338,7 @@ Date: 11/17/1943
 
 ; Newell's Old Boys      ; 4-1;       Gimnasia y Esgrima LP   
                                   
-Round: Round 2.13                              
+Round: 2.13                              
 Date: 11/20/1943
 
 ; Chacarita Juniors      ; 2-2;       Estudiantes LP         
@@ -353,7 +353,7 @@ Date: 11/21/1943
 ; Rosario Central        ; 4-0;       Huracán (BA)           
 ; San Lorenzo de Almagro ; 1-1;       River Plate            
                 
-Round: Round 2.14                       
+Round: 2.14                       
 Date: 11/28/1943
 
 ; Atlanta                ; 2-2;       Ferro Carril Oeste (BA)
@@ -365,7 +365,7 @@ Date: 11/28/1943
 ; Newell's Old Boys      ; 1-0;       Racing Club             
 ; Platense (VL)          ; 2-4;       Lanús                   
                                                           
-Round: Round 2.15                              
+Round: 2.15                              
 Date: 12/4/1943
 
 ; Rosario Central        ; 1-1;       Newell's Old Boys       

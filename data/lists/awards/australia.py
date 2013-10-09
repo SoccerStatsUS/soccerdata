@@ -15,6 +15,7 @@ d = {
         ('2009-2010', 'Sydney FC'),
         ('2010-2011', 'Brisbane Roar'),
         ('2011-2012', 'Brisbane Roar'),
+        ('2012-2013', 'Central Coast Mariners'),
         ],
 
     'MVP': [
@@ -25,9 +26,11 @@ d = {
         ('2009-2010', 'Carlos Hernández'),
         ('2010-2011', 'Marcos Flores'),
         ('2011-2012', 'Thomas Broich'),
+        ('2012-2013', 'Marco Rojas'),
     ],
 
-    'Joe Marston Medal': [
+    # Final MVP
+    'Joe Marston Medal': [ 
         ('2005-2006', 'Dwight Yorke'),
         ('2006-2007', 'Archie Thompson'),
         ('2007-2008', 'Andrew Durante'),
@@ -45,6 +48,7 @@ d = {
         ('2009-2010', 'Tommy Oar'),
         ('2010-2011', 'Matthew Ryan'),
         ('2011-2012', 'Matthew Ryan'),
+        ('2012-2013', 'Marco Rojas'),
     ],
 
 
@@ -56,25 +60,24 @@ d = {
         ('2009-2010', 'Eugene Galeković'),
         ('2010-2011', 'Michael Theoklitos'),
         ('2011-2012', 'Matthew Ryan'),
+        ('2012-2013', 'Ante Covic'),
         ],
 
 
     'Manager of the Year': [
-    ('2005-2006', 'Lawrie McKinna'),
-    ('2006-2007', 'Ernie Merrick'),
-    ('2007-2008', 'Gary van Egmond'),
-    ('2008-2009', 'Aurelio Vidmar'),
-    ('2009-2010', 'Ernie Merrick'),
-    ('2010-2011', 'Ange Postecoglou'),
-    ('2011-2012', 'Graham Arnold'),
+        ('2005-2006', 'Lawrie McKinna'),
+        ('2006-2007', 'Ernie Merrick'),
+        ('2007-2008', 'Gary van Egmond'),
+        ('2008-2009', 'Aurelio Vidmar'),
+        ('2009-2010', 'Ernie Merrick'),
+        ('2010-2011', 'Ange Postecoglou'),
+        ('2011-2012', 'Graham Arnold'),
+        ('2012-2013', 'Tony Popovic'),
     ],
     
 
 }
 
-#johnny_warren_medal = MVP
-
-# Final MVP
 
 
 

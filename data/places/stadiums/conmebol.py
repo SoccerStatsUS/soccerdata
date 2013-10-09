@@ -29,6 +29,7 @@ l = [
         'capacity': 4000,
         },
 
+
     {
         'name': 'Centro de Futebol Zico',
         'location': 'Rio de Janerio, Bolivia',
@@ -172,6 +173,13 @@ l = [
 
 
     {
+        'name': 'Estadio Jaime Morón León',
+        'location': 'Cartagena, Colombia',
+        'opened': 1958,
+        'capacity': 16068,
+        },
+
+    {
         'name': 'Estadio Alberto J. Armando',
         'location': 'Buenos Aires, Argentina',
         'opened': datetime.datetime(1940, 5, 25),
@@ -313,6 +321,21 @@ l = [
         'opened': datetime.datetime(1962, 9, 16),
         'capacity': 29000,
         },
+
+    {
+        'name': 'Hrazdan Stadium',
+        'location': 'Yerevan, Armenia',
+        'opened': datetime.datetime(1970, 11, 29),
+        'capacity': 54208,
+        },
+
+    {
+        'name': 'Tofiq Bahramov Stadium',
+        'location': 'Baku, Azerbaijan',
+        'opened': datetime.datetime(1951, 9, 16),
+        'capacity': 31200,
+        },
+
 
 
 
@@ -602,6 +625,13 @@ l = [
         'location': 'Viña del Mar, Chile',
         'opened': 1929,
         'capacity': 18037,
+        },
+
+    {
+        'name': 'Estadio Regional de Antofagasta',
+        'location': 'Antofagasta, Chile',
+        'opened': 1964,
+        'capacity': 21178,
         },
 
     {

@@ -378,7 +378,7 @@ u20 = {
         (2007, 'Argentina'),
         (2009, 'Ghana'),
         (2011, 'Brazil'),
-        #(2013,
+        (2013, 'France'),
         ],
 
     'Golden Ball': [
@@ -400,6 +400,7 @@ u20 = {
         (2007, 'Sergio Aguero'),
         (2009, 'Dominic Adiyiah'),
         (2011, 'Henrique'),
+        (2013, 'Paul Pogba'),
         ],
 }
 

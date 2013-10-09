@@ -1,5 +1,5 @@
 Competition: Campeonato Brasileiro Série A
-http://www.rsssfbrasil.com/tablesae/br1999.htm
+BlockSource: http://www.rsssfbrasil.com/tablesae/br1999.htm
 Season: 1999
 
 * 1.Corinthians     21 14  2  5 49-31 44  Qualified
@@ -29,7 +29,7 @@ Season: 1999
 *[NB: Vasco-Paraná of Aug 19 included]
 *[NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1]
 
-Round 1
+Round: 1
 [Jul 24]
 Palmeiras     3-1 Juventude
    [Evair (3) ; Maurílio]
@@ -52,7 +52,7 @@ Gama          2-4 Corinthians
 [Jul 28]
 Cruzeiro      4-1 Botafogo/RJ
   
-Round 2
+Round: 2
 [Jul 28]
 Santos        3-2 São Paulo
 [Jul 31]
@@ -71,7 +71,7 @@ Moved Matches [Aug 4]
 São Paulo     6-1 Botafogo/RJ          [awarded 0-1 (player Hiroshi ineligible)]
 Guarani       0-2 Corinthians
 
-Round 3
+Round: 3
 [Aug 7]
 Ponte Preta   1-1 Botafogo/RJ
 Santos        0-0 Vitória
@@ -91,7 +91,7 @@ Atlético/MG   2-0 Palmeiras
    [Guilherme, ?]
 Internacional 1-2 Flamengo
 
-Round 4
+Round: 4
 [Aug 14]
 Atlético/PR   3-0 Santos
 Vitória       0-2 Grêmio
@@ -104,7 +104,7 @@ Portuguesa    2-1 São Paulo
 Guarani       1-0 Juventude
 Coritiba      2-2 Cruzeiro
 
-Round 5 [Aug 18]
+Round: 5 [Aug 18]
 Cruzeiro      2-1 São Paulo
 Grêmio        0-0 Vasco da Gama
 Flamengo      2-1 Coritiba
@@ -117,7 +117,7 @@ Botafogo/SP   1-1 Palmeiras
 Ponte Preta   0-0 Guarani
 Paraná        2-2 Juventude  
 
-Round 6
+Round: 6
 [Aug 21]
 Botafogo/RJ   2-4 Corinthians
 Sport         0-1 Flamengo
@@ -139,7 +139,7 @@ Botafogo/SP   0-1 Ponte Preta
 Atlético/PR   1-2 Internacional
    [Adriano, ? ; ?]
   
-Round 7
+Round: 7
 [Aug 28]
 Ponte Preta   1-2 Palmeiras
 Santos        1-1 Vasco da Gama
@@ -160,7 +160,7 @@ Grêmio        3-4 Botafogo/SP
 Guarani       2-3 São Paulo
 Corinthians   1-2 Flamengo
 
-Round 8
+Round: 8
 [Sep 2]
 Atlético/PR   1-0 Gama
 [Sep 4]
@@ -181,7 +181,7 @@ Botafogo/SP   1-4 Atlético/MG
 Vitória       1-0 Gama
 Internacional 1-0 Portuguesa
 
-Round 9
+Round: 9
 [Sep 11]
 Santos        2-0 Botafogo/SP
 Gama          1-1 Flamengo
@@ -194,7 +194,7 @@ Sport         3-2 Guarani
 Corinthians   1-4 Palmeiras
 Grêmio        1-0 Internacional
 
-Round 10 
+Round: 10 
 [Sep 15]
 Flamengo      1-0 São Paulo
 Guarani       1-0 Vasco da Gama
@@ -208,7 +208,7 @@ Ponte Preta   2-0 Coritiba
 [Sep 22]
 Gama          2-1 Grêmio 
 
-Round 11
+Round: 11
 [Aug 18]
 Santos        0-1 Botafogo/RJ
 Portuguesa    1-1 Grêmio   
@@ -227,7 +227,7 @@ Paraná        0-1 Palmeiras
 Corinthians   2-4 Vasco da Gama
 Botafogo/RJ   0-1 Juventude
 
-Round 12
+Round: 12
 [Sep 25]
 Sport         0-0 Corinthians
 Coritiba      3-2 Botafogo/RJ
@@ -242,7 +242,7 @@ Botafogo/SP   2-0 Paraná
 Grêmio        2-3 Guarani
 Juventude     1-3 Atlético/PR
 
-Round 13
+Round: 13
 [Sep 29]
 Vasco da Gama 1-2 São Paulo
 Atlético/MG   3-0 Flamengo
@@ -257,7 +257,7 @@ Grêmio        1-1 Paraná
 [Sep 30]
 Botafogo/RJ   1-0 Botafogo/SP
 
-Round 14
+Round: 14
 [Oct 2]
 Internacional 1-2 Santos
    [Celso ; Élson, Dodô]
@@ -284,7 +284,7 @@ Paraná        2-3 Botafogo/RJ
 Atlético/MG   2-0 Santos
    [Robert (2)]
 
-Round 15
+Round: 15
 [Oct 9]
 Ponte Preta   2-0 Santos
    [Piá, Vaguinho]
@@ -308,7 +308,7 @@ Guarani       1-1 Botafogo/SP
 Botafogo/RJ   2-1 Flamengo 
    [Sandro, Valdir ; Caio]
 
-Round 16
+Round: 16
 [Oct 13]
 Santos        1-4 Corinthians
    [Dodô ; Nenê, Luizão, Ricardinho, Kleber]
@@ -329,7 +329,7 @@ Atlético/PR   4-1 São Paulo
 Paraná        4-1 Atlético/MG   
    [Washington 2, Hilton e Gallo]
 
-Round 17
+Round: 17
 [Oct 16]
 Vasco da Gama 2-1 Palmeiras
    [Viola, Gilberto ; Alex]
@@ -363,7 +363,7 @@ Portuguesa    1-1 Vasco da Gama
 Flamengo      1-1 Palmeiras
    [Juan og ; Caio]
 
-Round 18
+Round: 18
 [Oct 23]
 Atlético/PR   2-2 Corinthians
    [Kleber, Adriano ; Marcelinho Carioca (2)]
@@ -391,7 +391,7 @@ Coritiba      2-1 Palmeiras
 Portuguesa    2-3 Flamengo
    [Da Silva, Dimba ; Romário, Romário pen, Luiz Alberto]
 
-Round 19
+Round: 19
 [Oct 30]
 Paraná        1-2 São Paulo
    [Washington ; Wilson, França]
@@ -423,7 +423,7 @@ Cruzeiro      2-1 Vasco da Gama
 Corinthians   1-2 Ponte Preta
    [Luizão, Narcísio e Vander]
 
-Round 20
+Round: 20
 [Nov 3]
 São Paulo     1-0 Ponte Preta
    [Rogério Ceni]
@@ -449,7 +449,7 @@ Sport         1-1 Vitória
 Coritiba      1-1 Juventude
    [Basílio ; Maurílio]
 
-Round 21 [Nov 10]
+Round: 21 [Nov 10]
 Juventude     3-1 Flamengo 
    [Mário Tilico (2), Mabília ; Romário]
 Botafogo/RJ   1-0 Guarani
@@ -504,7 +504,7 @@ Table:
 
 Championship Playoff
 
-First Round
+First Round:
 
 First Legs [Nov 14]
 Guarani       0-0 Corinthians
@@ -532,7 +532,7 @@ Vasco da Gama 1-1 Vitória
    [Mauro Galvão ; Baiano]
 Ponte Preta   2-3 São Paulo
 
-Second Round
+Second Round:
 
 First Legs [Nov 28]
 São Paulo     2-3 Corinthians
@@ -669,7 +669,7 @@ Second Leg [Nov 16]
 Portuguesa    3-0 Sport
   [Leandro (3)]
  
-First Round 
+First Round: 
  
 First Legs 
 [Nov 13]
@@ -695,7 +695,7 @@ Coritiba      3-1 Botafogo/RJ
 Atlético/PR   2-0 Portuguesa
   [Gustavo, Lucas (pen)]
  
-Second Round
+Second Round:
 [winners first round and losers first round championship playoff]
  
 First Legs
@@ -725,7 +725,7 @@ Vasco da Gama 2-1 Ponte Preta      [Vasco da Gama qualified on season record]
 Cruzeiro      3-0 Guarani   
   [Marcelo Ramos, Valdo, Paulo Isidoro]
  
-Third Round
+Third Round:
  
 First Legs
 [Dec 1]
@@ -743,7 +743,7 @@ Atlético/PR   2-1 Internacional
 Cruzeiro      4-2 Vasco da Gama
   [Valdo, Müller, Ricardinho, Paulo Isidoro ; Viola, Alex Oliveira]
  
-Fourth Round
+Fourth Round:
  
 First Legs [Dec 11]
 Atlético/PR   4-2 São Paulo

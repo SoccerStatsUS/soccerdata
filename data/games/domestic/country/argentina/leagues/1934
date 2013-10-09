@@ -18,7 +18,7 @@ Competition: Liga Argentina de Football
 *14. Argentinos Juniors          39    2    5   32    38   113    9
 
 
-Round: Round 1 
+Round: 1 
 Date: 3/18/1934
 
 ; Gimnasia y Esgrima La Plata ; 8-2;  Club Ferro Carril Oeste     ; Estudiantes de La Plata
@@ -29,7 +29,7 @@ Date: 3/18/1934
 ; Unión Talleres-Lanús        ; 3-4;  Racing Club (Argentina)                 ; Talleres (Remedios de Escalada)
 ; Vélez Sarsfield             ; 1-1;  Estudiantes de La Plata
  
-Round: Round 2
+Round: 2
 Date: 3/25/1934
 
 ; Club Ferro Carril Oeste     ; 4-2;  Unión Talleres-Lanús
@@ -43,7 +43,7 @@ Date: 4/1/1934
 ; Gimnasia y Esgrima La Plata ; 1-1;  River Plate
 ; Racing Club (Argentina)                 ; 0-1;  Independiente (Avellaneda)
 
-Round: Round 3 
+Round: 3 
 Date: 4/8/1934
 
 ; Boca Juniors                ; 3-2;  Chacarita Juniors
@@ -54,7 +54,7 @@ Date: 4/8/1934
 ; Unión Talleres-Lanús        ; 1-3;  River Plate                 ; Lanús
 ; Vélez Sarsfield             ; 1-3;  Platense
 
-Round: Round 4 
+Round: 4 
 Date: 4/15/1934
 
 ; Chacarita Juniors           ; 0-2;  Vélez Sarsfield
@@ -65,7 +65,7 @@ Date: 4/15/1934
 ; San Lorenzo de Almagro      ; 2-2;  Boca Juniors
 ; Unión Talleres-Lanús        ; 4-1;  Atlanta-Argentinos Juniors  ; Talleres (Remedios de Escalada)
 
-Round: Round 5 
+Round: 5 
 Date: 4/22/1934
 
 ; Boca Juniors                ; 3-0;  Gimnasia y Esgrima La Plata
@@ -76,7 +76,7 @@ Date: 4/22/1934
 ; Platense                    ; 3-1;  Club Ferro Carril Oeste
 ; Vélez Sarsfield             ; 3-1;  Racing Club (Argentina)
 
-Round: Round 6 
+Round: 6 
 Date: 4/29/1934
 
 ; Club Ferro Carril Oeste     ; 2-1;  Racing Club (Argentina)
@@ -87,7 +87,7 @@ Date: 4/29/1934
 ; Atlanta-Argentinos Juniors  ; 1-1;  Estudiantes de La Plata     ; Atlanta
 ; Unión Talleres-Lanús        ; 2-1;  Boca Juniors                ; Lanús
 
-Round: Round 7 
+Round: 7 
 Date: 5/6/1934
 
 ; Boca Juniors                ; 2-2;  Independiente (Avellaneda)
@@ -98,7 +98,7 @@ Date: 5/6/1934
 ; San Lorenzo de Almagro      ; 2-1;  Gimnasia y Esgrima La Plata
 ; Vélez Sarsfield             ; 2-0;  Club Ferro Carril Oeste
 
-Round: Round 8 
+Round: 8 
 Date: 5/13/1934
 
 ; Estudiantes de La Plata     ; 3-3;  Boca Juniors
@@ -109,7 +109,7 @@ Date: 5/13/1934
 ; Unión Talleres-Lanús        ; 2-1;  San Lorenzo de Almagro      ; Talleres (Remedios de Escalada)
 ; Vélez Sarsfield             ; 4-2;  Gimnasia y Esgrima La Plata
 
-Round: Round 9 
+Round: 9 
 Date: 5/20/1934
 
 ; Chacarita Juniors           ; 3-2;  Estudiantes de La Plata
@@ -120,7 +120,7 @@ Date: 5/20/1934
 ; River Plate                 ; 2-1;  Vélez Sarsfield
 ; San Lorenzo de Almagro      ; 1-2;  Independiente (Avellaneda)
 
-Round: Round 10:
+Round: 10:
 Date: 5/25/1934
 
 ; Boca Juniors                ; 0-3;  Racing Club (Argentina)
@@ -134,7 +134,7 @@ Date: 5/27/1934
 ; Estudiantes de La Plata     ; 2-3;  San Lorenzo de Almagro
 ; Vélez Sarsfield             ; 3-2;  Unión Talleres-Lanús
 
-Round: Round 11 
+Round: 11 
 Date: 6/10/1934
 
 ; Club Ferro Carril Oeste     ; 1-3;  Boca Juniors
@@ -149,7 +149,7 @@ Date: 6/10/1934
 *Gimnasia y Esgrima La Plata wp:lp Estudiantes de La Plata     [awarded]
 *Racing Club (Argentina)                  1:2  Chacarita Juniors           [awarded]
 
-Round: Round 12 
+Round: 12 
 Date: 6/17/1934
 
 ; Boca Juniors                ; 4-1;  River Plate
@@ -160,7 +160,7 @@ Date: 6/17/1934
 ; Racing Club (Argentina)                 ; 4-1;  San Lorenzo de Almagro
 ; Vélez Sarsfield             ; 2-1;  Independiente (Avellaneda)
 
-Round: Round 13 
+Round: 13 
 Date: 6/24/1934
 
 ; Club Ferro Carril Oeste     ; 0-1;  San Lorenzo de Almagro
@@ -171,7 +171,7 @@ Date: 6/24/1934
 ; Atlanta-Argentinos Juniors  ; 2-6;  Boca Juniors                ; Atlanta
 ; Unión Talleres-Lanús        ; 2-2;  Platense                    ; Talleres (Remedios de Escalada)
 
-Round: Round 14 
+Round: 14 
 Date: 7/1/1934
 
 ; Boca Juniors                ; 2-0;  Huracán (Buenos Aires)
@@ -182,7 +182,7 @@ Date: 7/1/1934
 ; Racing Club (Argentina)                 ; 3-0;  Unión Talleres-Lanús        ; River Plate
 ; San Lorenzo de Almagro      ; 2-0;  River Plate
 
-Round: Round 15 
+Round: 15 
 Date: 7/8/1934
 
 ; Estudiantes de La Plata     ; 4-1;  Platense
@@ -193,7 +193,7 @@ Date: 7/8/1934
 ; Unión Talleres-Lanús        ; 3-3;  Club Ferro Carril Oeste     ; Lanús
 ; Vélez Sarsfield             ; 2-2;  Boca Juniors
 
-Round: Round 16 
+Round: 16 
 Date: 7/15/1934
 
 ; Chacarita Juniors           ; 2-2;  Boca Juniors
@@ -204,7 +204,7 @@ Date: 7/15/1934
 ; River Plate                 ; 6-0;  Unión Talleres-Lanús
 ; San Lorenzo de Almagro      ; 5-1;  Huracán (Buenos Aires)
 
-Round: Round 17 
+Round: 17 
 Date: 7/22/1934
 
 ; Boca Juniors                ; 3-5;  San Lorenzo de Almagro
@@ -215,7 +215,7 @@ Date: 7/22/1934
 ; Atlanta-Argentinos Juniors  ; 0-2;  Unión Talleres-Lanús        ; Atlanta
 ; Vélez Sarsfield             ; 1-3;  Chacarita Juniors
 
-Round: Round 18 
+Round: 18 
 Date: 7/29/1934
 
 ; Club Ferro Carril Oeste     ; 1-2;  Platense
@@ -226,7 +226,7 @@ Date: 7/29/1934
 ; Atlanta-Argentinos Juniors  ; 0-1;  Independiente (Avellaneda)  ; Atlanta
 ; Unión Talleres-Lanús        ; 1-1;  Huracán (Buenos Aires)      ; Talleres (Remedios de Escalada)
 
-Round: Round 19 
+Round: 19 
 Date: 8/5/1934
 
 ; Boca Juniors                ; 2-0;  Unión Talleres-Lanús
@@ -237,7 +237,7 @@ Date: 8/5/1934
 ; Racing Club (Argentina)                 ; 1-1;  Club Ferro Carril Oeste
 ; Vélez Sarsfield             ; 0-0;  San Lorenzo de Almagro
 
-Round: Round 20 
+Round: 20 
 Date: 8/12/1934
 
 ; Club Ferro Carril Oeste     ; 0-2;  Vélez Sarsfield
@@ -248,7 +248,7 @@ Date: 8/12/1934
 ; Atlanta-Argentinos Juniors  ; 1-2;  Platense                    ; Atlanta
 ; Unión Talleres-Lanús        ; 3-0;  Chacarita Juniors           ; Lanús
 
-Round: Round 21:
+Round: 21:
 Date: 8/19/1934
 
 ; Boca Juniors                ; 4-2;  Estudiantes de La Plata
@@ -262,7 +262,7 @@ Date: 8/22/1934
 ; Gimnasia y Esgrima La Plata ; 6-2;  Vélez Sarsfield
 ; Racing Club (Argentina)                 ; 3-1;  Atlanta-Argentinos Juniors
 
-Round: Round 22 
+Round: 22 
 Date: 8/26/1934
 
 ; Boca Juniors                ; 3-0;  Platense
@@ -273,7 +273,7 @@ Date: 8/26/1934
 ; Unión Talleres-Lanús        ; 2-1;  Gimnasia y Esgrima La Plata ; Talleres (Remedios de Escalada)
 ; Vélez Sarsfield             ; 1-0;  River Plate
 
-Round: Round 23 
+Round: 23 
 Date: 9/2/1934
 
 ; Chacarita Juniors           ; 0-2;  Platense
@@ -284,7 +284,7 @@ Date: 9/2/1934
 ; San Lorenzo de Almagro      ; 4-2;  Estudiantes de La Plata
 ; Unión Talleres-Lanús        ; 1-3;  Vélez Sarsfield             ; Lanús
 
-Round: Round 24 
+Round: 24 
 Date: 9/9/1934
 
 ; Boca Juniors                ; 4-2;  Club Ferro Carril Oeste
@@ -295,7 +295,7 @@ Date: 9/9/1934
 ; Platense                    ; 3-0;  San Lorenzo de Almagro
 ; Vélez Sarsfield             ; 6-1;  Atlanta-Argentinos Juniors
 
-Round: Round 25 
+Round: 25 
 Date: 9/16/1934
 
 ; Club Ferro Carril Oeste     ; 2-3;  Chacarita Juniors
@@ -310,7 +310,7 @@ Date: 9/19/1934
 
 *Atlanta-Argentinos Juniors was replaced by Argentinos Juniors due to adminitrative issues found in Atlanta.
 
-Round: Round 26 
+Round: 26 
 Date: 9/23/1934
 
 ; Boca Juniors                ; 3-2;  Argentinos Juniors          
@@ -323,7 +323,7 @@ Date: 9/23/1934
 ; San Lorenzo de Almagro      ; 3-2;  Club Ferro Carril Oeste
 ; Vélez Sarsfield             ; 2-2;  Huracán (Buenos Aires)
 
-Round: Round 27 
+Round: 27 
 Date: 9/30/1934
 
 ; Chacarita Juniors           ; 1-3;  Boca Juniors
@@ -334,7 +334,7 @@ Date: 9/30/1934
 ; San Lorenzo de Almagro      ; 2-2;  Estudiantes de La Plata
 ; Unión Talleres-Lanús        ; 0-0;  Vélez Sarsfield             ; Talleres (Remedios de Escalada)
 
-Round: Round 28:
+Round: 28:
 Date: 10/7/1934
 
 ; Argentinos Juniors          ; 0-3;  San Lorenzo de Almagro      ; River Plate
@@ -348,7 +348,7 @@ Date: 10/14/1934
 
 ; Independiente (Avellaneda)  ; 4-2;  Chacarita Juniors 
 
-Round: Round 29 
+Round: 29 
 Date: 10/21/1934
 
 ; Chacarita Juniors           ; 3-1;  Vélez Sarsfield
@@ -359,7 +359,7 @@ Date: 10/21/1934
 ; San Lorenzo de Almagro      ; 0-4;  Independiente (Avellaneda)
 ; Unión Talleres-Lanús        ; 1-1;  Argentinos Juniors          ; Lanús
 
-Round: Round 30 
+Round: 30 
 Date: 10/28/1934
 
 ; Argentinos Juniors          ; 0-2;  Club Ferro Carril Oeste
@@ -370,7 +370,7 @@ Date: 10/28/1934
 ; Platense                    ; 3-3;  Chacarita Juniors
 ; Vélez Sarsfield             ; 0-1;  River Plate
 
-Round: Round 31 
+Round: 31 
 Date: 11/1/1934
 
 ; Chacarita Juniors           ; 1-2;  Huracán (Buenos Aires)
@@ -384,7 +384,7 @@ Date: 11/1/1934
 Date: 11/3/1934
 *Asociación Argentina de Football and Liga Argentina de Football were merged in Asociación del Football Argentino [Argentine Football Association].
 
-Round: Round 32 
+Round: 32 
 Date: 11/4/1934
 
 ; Argentinos Juniors          ; 1-3;  Chacarita Juniors
@@ -395,7 +395,7 @@ Date: 11/4/1934
 ; Platense                    ; 2-2;  Unión Talleres-Lanús
 ; Vélez Sarsfield             ; 6-0;  Club Ferro Carril Oeste
 
-Round: Round 33 
+Round: 33 
 Date: 11/11/1934
 
 ; Boca Juniors                ; 4-2;  Argentinos Juniors
@@ -406,7 +406,7 @@ Date: 11/11/1934
 ; Racing Club (Argentina)                 ; 3-1;  River Plate
 ; San Lorenzo de Almagro      ; 3-2;  Vélez Sarsfield             ; River Plate
 
-Round: Round 34 
+Round: 34 
 Date: 11/18/1934
 
 ; Argentinos Juniors          ; 1-4;  Platense
@@ -417,7 +417,7 @@ Date: 11/18/1934
 ; Unión Talleres-Lanús        ; 3-1;  Racing Club (Argentina)                 ; Lanús
 ; Vélez Sarsfield             ; 1-2;  Estudiantes de La Plata
 
-Round: Round 35 
+Round: 35 
 Date: 11/25/1934
 
 ; Boca Juniors                ; 3-1;  Vélez Sarsfield
@@ -428,7 +428,7 @@ Date: 11/25/1934
 ; Platense                    ; 1-0;  Independiente (Avellaneda)  ; Chacarita Juniors
 ; Racing Club (Argentina)                 ; 2-2;  San Lorenzo de Almagro
 
-Round: Round 36:
+Round: 36:
 Date: 12/2/1934
 
 *Chacarita Juniors            abd  Racing Club (Argentina)                 [abandoned at 2:2 in 53]
@@ -444,7 +444,7 @@ Date: 12/5/1934
 ; Chacarita Juniors           ; 2-2;  Racing Club (Argentina)                 
 *[remained 37]
 
-Round: Round 37 
+Round: 37 
 Date: 12/9/1934
 
 ; Argentinos Juniors          ; 1-5;  Independiente (Avellaneda)
@@ -455,7 +455,7 @@ Date: 12/9/1934
 ; Racing Club (Argentina)                 ; 2-1;  Boca Juniors                ; San Lorenzo de Almagro
 ; River Plate                 ; 5-0;  Unión Talleres-Lanús
 
-Round: Round 38 
+Round: 38 
 Date: 12/16/1934
 
 ; Boca Juniors                ; 5-1;  Platense; ; José Bartolomé Macías; 11000
@@ -471,7 +471,7 @@ Notes: Boca Juniors won the championship in this round with the following line-u
 ; San Lorenzo de Almagro      ; 2-1;  River Plate
 ; Vélez Sarsfield             ; 4-2;  Argentinos Juniors
 
-Round: Round 39 
+Round: 39 
 Date: 12/23/1934
 
 ; Argentinos Juniors          ; 0-0;  Estudiantes de La Plata

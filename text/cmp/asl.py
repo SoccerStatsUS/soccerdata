@@ -187,66 +187,6 @@ def load_stat(line):
     return l
 
 
-def get_standings_dict():
-    """
-    Get a dict of all standings.
-    """
-    # This is used for mapping team names, but is probably not a good idea.
-
-    from soccerdata.mongo import soccer_db
-
-    d = {}
-    for e in soccer_db.standings.find():
-        key = (e['competition'], e['season'])
-        if key not in d:
-            d[key] = [e['team']]
-        else:
-            d[key].append(e['team'])
-    return d
-
-
-STANDINGS_DICT = get_standings_dict()
-
-def get_full_name(name, competition, season):
-    """
-    Get the relevant team name based on the competition and season a team played in.
-    e.g., convert New York to New York Giants
-    """
-    
-    name = name.strip()
-
-    # Check direct mapping first.
-    if name in team_map:
-        return team_map.get(name, name)
-
-    # Get teams that played in a given season.
-    ncompetition = competition.replace("Playoffs", '').strip()
-
-    try:
-        names = STANDINGS_DICT[(ncompetition, nseason)]
-    except:
-        names = []
-    
-    for e in names:
-        if e.startswith(name):
-            return e
-
-    if nseason == '1927-1928':
-        return get_full_name(name, competition, '1927-1928 First Half')
-
-
-    # Need to figure out how to handle these? Bummer.
-    # Seems like I'm using the wrong season.
-    if nseason == '1929 Fall':
-        return get_full_name(name, competition, '1928-1929 First Half')
-
-
-    if name == 'Boston':
-        import pdb; pdb.set_trace()
-    print("name match failed on %s, competition: %s (%s) " % (name, competition, season))
-    return name
-
-
 def process_asl_games():
     return process_games()[0]
 

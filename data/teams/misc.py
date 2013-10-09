@@ -93,18 +93,6 @@ l = [
         'name': 'Victoria XI',
         'city': 'Victoria, BC',
         },
-    {
-        'name': 'Edmonton XI',
-        'city': 'Edmonton, AB',
-        },
-    {
-        'name': 'Edmonton XI',
-        'city': 'Edmonton, AB',
-        },
-    {
-        'name': 'Edmonton XI',
-        'city': 'Edmonton, AB',
-        },
 
     {
         'name': 'Stockholm XI',

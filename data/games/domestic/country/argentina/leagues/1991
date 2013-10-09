@@ -1,8 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg92.html
-
-Argentina 1991/92
-
-Apertura 1991
+Competition: Liga Argentina de Football
+*Argentina 1991/92
+Season: 1991-1992 Apertura
 
  
 * 1. River Plate                      19  14   3   2    8  0  1   6  3  1   33 11   31  [Champion]
@@ -27,295 +26,354 @@ Apertura 1991
 *19. Unión (Santa Fe)                 19   3   8   8    2  5  3   1  3  5   13 21   14
 *20. Quilmes                          19   1   8  10    1  5  4   0  3  6    9 25   10 
  
+Round: 1
+Date: 9/10/1991
+
+; Platense               ; 1-0;     Independiente
+; Quilmes                                ; 0-1;     Newell's Old Boys
+; Gimnasia y Esgrima (LP)                ; 1-0;     Dep. Español
+; Rosario Central                        ; 0-0;     Huracán
+; Unión (Sta Fe)                                 ; 1-2;     River Plate
+; Argentinos Juniors                             ; 0-0;     Estudiantes (LP)                ; Atlanta
+
+Date: 9/11/1991
+
+; Racing Club            ; 2-3;     Dep.Mandiyú (Ctes.)
+
+Date: 9/18/1991
+
+; Belgrano (Cba.)                ; 1-1;     Ferro Carril Oeste              ; Córdoba
+; San Lorenzo                            ; 1-1;   Talleres (Cba.)                   ; Ferro Carril Oeste
+
+Date: 9/19/1991
+
+; Boca Juniors           ; 3-2;     Vélez Sarsfield
+ 
+Round: 2
+Date: 8/29/1991
+
+; River Plate            ; 2-1;     Rosario Central
+
+Date: 9/1/1991
+
+; San Lorenzo            ; 0-0;     Boca Juniors                    ; Vélez Sarsfield
+; Talleres (Cba.)                ; 2-0;  Argentinos Juniors
+; Estudiantes (LP)               ; 0-0;  Platense
+; Independiente                       ; 2-0;        Quilmes
+; Newell's Old Boys                   ; 0-0;        Unión (Sta Fe)
+; Huracán                             ; 1-1;        Racing Club
+; Dep.Mandiyú (Ctes.)                 ; 0-0;        Gimnasia y Esgrima (LP)         ; Huracán Corrientes
+; Dep. Español                                   ; 1-0;      Belgrano (Cba.)
+; Ferro Carril Oeste                             ; 1-0;      Vélez Sarsfield
+ 
+Round: 3
+Date: 9/13/1991
+
+; Boca Juniors           ; 1-0;     Ferro Carril Oeste
+
+Date: 9/15/1991
+
+; Vélez Sarsfield        ; 1-0;     Dep. Español
+; Belgrano (Cba.)                ; 0-0;  Dep.Mandiyú (Ctes.)                ; Córdoba
+; Gimnasia y Esgrima (LP)        ; 0-0;  Huracán
+; Racing Club                    ; 0-0;  River Plate                        
+*[Suspended at 73' for the agression to River's goalkeeper]
+*[River won the points; (0-1)]
+; Rosario Central                                                                                     ; 1-0; Newell's Old Boys
+; Unión (Sta Fe)                                                                                          ; 0-0;      Independiente
+; Quilmes                                                                                                          ; 0-0;   Estudiantes (LP)
+; Platense                                                                                                               ; 1-2;         Talleres (Cba.)
+; Argentinos Juniors                                                                                                     ; 0-0;         San Lorenzo   ; Atlanta
+ 
+Round: 4 
+Date: 9/21/1991
+
+; River Plate            ; 3-0;     Gimnasia y Esgrima (LP)
+
+Date: 9/22/1991
+
+; Argentinos Juniors     ; 3-1;     Boca Juniors                    ; Vélez Sarsfield
+; San Lorenzo                    ; 1-1;  Platense                             ; Ferro Carril Oeste
+; Talleres (Cba.)                     ; 2-1;                                  Quilmes
+; Estudiantes (LP)                    ; 1-1;                                  Unión (Sta Fe)
+; Independiente                                                            ; 0-0;   Rosario Central
+; Newell's Old Boys                                                        ; 0-0;   Racing Club
+; Huracán                                                                  ; 1-1;   Belgrano (Cba.)
+; Dep.Mandiyú (Ctes.)                                                      ; 0-0;   Vélez Sarsfield                 ; Huracán Corrientes
+; Dep. Español                                                                   ; 1-0;   Ferro Carril Oeste
+ 
+Round: 5
+Date: 9/28/1991
+
+; Vélez Sarsfield        ; 5-0;     Huracán
+
+Date: 9/29/1991
+
+; Boca Juniors           ; 3-3;     Dep. Español
+; Ferro Carril Oeste     ; 1-0;     Dep.Mandiyú (Ctes.)
+; Belgrano (Cba.)                ; 0-3;         River Plate                 ; Córdoba
+; Gimnasia y Esgrima (LP)        ; 1-0;         Newell's Old Boys
+; Racing Club                    ; 0-0;         Independiente
+; Rosario Central                            ; 2-0; Estudiantes (LP)
+; Unión (Sta Fe)                                 ; 0-0;         Talleres (Cba.)
+; Quilmes                                                    ; 0-0;      San Lorenzo
+; Platense                                                            ; 0-0; Argentinos Juniors
+ 
+Round: 6 
+Date: 10/4/1991
+
+; San Lorenzo            ; 1-2;     Unión (Sta Fe)                  ; Ferro Carril Oeste
+
+Date: 10/6/1991
+
+; Platense               ; 0-2;     Boca Juniors                    ; Vélez Sarsfield
+; Argentinos Juniors     ; 1-0;     Quilmes                                         ; Ferro Carril Oeste
+; Talleres (Cba.)                ; 3-1;                                             Rosario Central
+; Estudiantes (LP)               ; 1-0;                                             Racing Club
+; Independiente                                                                  ; 2-3;    Gimnasia y Esgrima (LP)
+; Newell's Old Boys                                                              ; 0-1;    Belgrano (Cba.)
+; River Plate                                                                    ; 1-0;    Vélez Sarsfield
+; Huracán                                                                                     ; 2-1;        Ferro Carril Oeste
+; Dep.Mandiyú (Ctes.)                                                                         ; 2-1;        Dep. Español     ; Huracán Corrientes
+ 
+Round: 7 
+Date: 10/12/1991
+
+; Racing Club            ; 1-2;     Talleres (Cba.)
+
+Date: 10/13/1991
+
+; Boca Juniors           ; 2-0;     Dep.Mandiyú (Ctes.)
+; Dep. Español                   ; 1-0;         Huracán
+; Ferro Carril Oeste             ; 0-1;         River Plate
+; Vélez Sarsfield                            ; 4-1;   Newell's Old Boys
+; Belgrano (Cba.)                                  ; 0-1;      Independiente                        ; Córdoba
+; Gimnasia y Esgrima (LP)                          ; 2-0;      Estudiantes (LP)
+; Rosario Central                                  ; 0-1;      San Lorenzo
+; Unión (Sta Fe)                                            ; 2-1; Argentinos Juniors
+; Quilmes                                                       ; 1-0;        Platense
+ 
+Round: 8
+Date: 10/18/1991
+
+; Quilmes                ; 1-2;     Boca Juniors                    ; Independiente
+
+Date: 10/20/1991
+
+; Platense               ; 2-2;     Unión (Sta Fe)
+; Argentinos Juniors     ; 2-2;     Rosario Central                 ; Deportivo Español
+; San Lorenzo                    ; 0-0;     Racing Club                           ; Ferro Carril Oeste
+; Talleres (Cba.)                        ; 1-0;    Gimnasia y Esgrima (LP)
+; Estudiantes (LP)                       ; 1-1;    Belgrano (Cba.)
+; Independiente                                 ; 1-2;      Vélez Sarsfield
+; Newell's Old Boys                             ; 2-2;      Ferro Carril Oeste
+; River Plate                                   ; 2-1;      Dep. Español
+; Huracán                                                     ; 3-2;        Dep.Mandiyú (Ctes.)
+ 
+Round: 9 
+Date: 10/25/1991
+
+; Racing Club            ; 0-0;     Argentinos Juniors
+
+Date: 10/26/1991
+
+; Rosario Central        ; 1-3;     Platense
+; Unión (Sta Fe)                 ; 0-0;     Quilmes
+
+Date: 10/27/1991
+
+; Boca Juniors           ; 1-1;     Huracán
+; Dep. Español                   ; 1-0;     Newell's Old Boys
+; Ferro Carril Oeste             ; 2-3;     Independiente
+; Vélez Sarsfield                        ; 1-0;     Estudiantes (LP)
+; Belgrano (Cba.)                                ; 3-0;         Talleres (Cba.)                     ; Córdoba
+; Gimnasia y Esgrima (LP)                        ; 0-2;         San Lorenzo
+
+Date: 12/5/1991
+
+; Dep.Mandiyú (Ctes.)    ; 0-0;     River Plate                     ; Huracán Corrientes
+ 
+Round: 10
+Date: 11/1/1991
+
+; Independiente          ; 1-0;     Dep. Español
+
+Date: 11/3/1991
+
+; Unión (Sta Fe)         ; 0-0;     Boca Juniors
+; Quilmes                        ; 0-0;  Rosario Central
+; Platense                            ; 2-1;     Racing Club
+; Argentinos Juniors                  ; 0-0;     Gimnasia y Esgrima (LP)            ; Vélez Sarsfield
+; San Lorenzo                                 ; 1-1;      Belgrano (Cba.)                     ; Ferro Carril Oeste
+; Talleres (Cba.)                                      ; 1-0;      Vélez Sarsfield                      
+*[Suspended in 88'; not continued]
+; Estudiantes (LP)                                     ; 0-1;      Ferro Carril Oeste
+; Newell's Old Boys                                    ; 0-1;      Dep.Mandiyú (Ctes.)
+; River Plate                                          ; 1-0;      Huracán
+ 
+Round: 11
+Date: 11/8/1991
+
+; Vélez Sarsfield        ; 1-1;     San Lorenzo
+
+Date: 11/10/1991
+
+; Boca Juniors           ; 0-0;     River Plate
+; Huracán                              ; 1-1;       Newell's Old Boys
+; Dep.Mandiyú (Ctes.)                  ; 1-1;       Independiente                   ; Huracán Corrientes
+; Dep. Español                                   ; 3-3;                             Estudiantes (LP)
+; Ferro Carril Oeste                             ; 1-0;                             Talleres (Cba.)
+; Belgrano (Cba.)                                                                ; 1-1;      Argentinos Juniors             ; Córdoba
+; Gimnasia y Esgrima (LP)                                                        ; 0-0;      Platense
+; Racing Club                                                                    ; 1-1;      Quilmes
+; Rosario Central                                                                         ; 1-0;    Unión (Sta Fe)
+ 
+Round: 12
+Date: 11/15/1991
+
+; Independiente          ; 2-0;     Huracán
+
+Date: 11/17/1991
+
+; Boca Juniors           ; 1-1;     Rosario Central
+; Unión (Sta Fe)                 ; 0-1;     Racing Club
+; Quilmes                                ; 1-1;    Gimnasia y Esgrima (LP)
+; Platense                                      ; 0-0;      Belgrano (Cba.)
+; Argentinos Juniors                            ; 1-1;      Vélez Sarsfield                 ; Ferro Carril Oeste
+; San Lorenzo                                            ; 0-0;   Ferro Carril Oeste            ; Huracán
+; Talleres (Cba.)                                              ; 0-0;   Dep. Español
+; Estudiantes (LP)                                             ; 3-0;   Dep.Mandiyú (Ctes.)
+; Newell's Old Boys                                            ; 0-1;   River Plate
+ 
+Round: 13
+Date: 11/22/1991
+
+; Racing Club            ; 1-1;     Rosario Central
+
+Date: 11/24/1991
+
+; Newell's Old Boys      ; 1-1;     Boca Juniors
+
+Date: 11/25/1991
+
+; River Plate            ; 3-1;     Independiente
+; Huracán                                ; 2-0;     Estudiantes (LP)
+; Dep.Mandiyú (Ctes.)                    ; 2-1;     Talleres (Cba.)                 ; Huracán Corrientes
+; Dep. Español                                   ; 1-1;      San Lorenzo
+; Ferro Carril Oeste                             ; 1-1;      Argentinos Juniors
+; Vélez Sarsfield                                         ; 2-2;        Platense
+; Belgrano (Cba.)                                                    ; 0-0; Quilmes                         ; Córdoba
+; Gimnasia y Esgrima (LP)                                            ; 3-1; Unión (Sta Fe)
+ 
+Round: 14
+Date: 11/27/1991
+
+; Boca Juniors           ; 0-0;     Racing Club
+; Rosario Central                ; 0-0;    Gimnasia y Esgrima (LP)
+; Unión (Sta Fe)                        ; 1-2;      Belgrano (Cba.)
+
+Date: 11/28/1991
+
+; Quilmes                ; 1-2;     Vélez Sarsfield
+; Platense                       ; 0-0;   Ferro Carril Oeste
+; Argentinos Juniors             ; 5-2;   Dep. Español              ; Huracán
+; San Lorenzo                          ; 2-2;  Dep.Mandiyú (Ctes.)      ; Ferro Carril Oeste
+; Talleres (Cba.)                           ; 1-1;         Huracán
+; Independiente                                         ; 0-3;      Newell's Old Boys
+
+Date: 12/18/1991
+
+; Estudiantes (LP)       ; 2-2;     River Plate                     ; Independiente
+ 
+Round: 15
+Date: 12/1/1991
+
+; Independiente          ; 1-1;     Boca Juniors
+; Newell's Old Boys      ; 3-0;     Estudiantes (LP)
+; River Plate            ; 5-1;     Talleres (Cba.)
+; Huracán                                 ; 2-2;    San Lorenzo
+; Dep.Mandiyú (Ctes.)                     ; 3-0;    Argentinos Juniors              ; Huracán Corrientes
+; Dep. Español                                   ; 1-1;        Platense
+; Ferro Carril Oeste                             ; 1-0;        Quilmes
+; Vélez Sarsfield                                           ; 2-0;  Unión (Sta Fe)
+; Belgrano (Cba.)                                                ; 1-1;   Rosario Central                   ; Córdoba
+; Gimnasia y Esgrima (LP)                                        ; 1-1;   Racing Club
+ 
+Round: 16
+Date: 12/7/1991
+
+; Unión (Sta Fe)         ; 0-0;     Ferro Carril Oeste
+
+Date: 12/8/1991
+
+; Boca Juniors           ; 3-1;     Gimnasia y Esgrima (LP)
+; Racing Club                    ; 2-1;      Belgrano (Cba.)
+; Rosario Central                         ; 0-2;      Vélez Sarsfield
+; Quilmes                                          ; 2-4;   Dep. Español
+; Platense                                               ; 2-0;  Dep.Mandiyú (Ctes.)                ; Estudiantes Bs.As.
+; Argentinos Juniors                                     ; 0-1;  Huracán                                            ; Ferro Carril Oeste
+; San Lorenzo                                                 ; 2-0;                                                River Plate        ; Vélez Sarsfield
+; Talleres (Cba.)                                                                                                ; 0-0;   Newell's Old Boys
+; Estudiantes (LP)                                                                                               ; 1-0;   Independiente
+ 
+Round: 17
+Date: 12/12/1991
+
+; Estudiantes (LP)       ; 1-0;     Boca Juniors
+; Independiente                  ; 2-1;  Talleres (Cba.)
+; Newell's Old Boys              ; 1-1;  San Lorenzo
+; River Plate                    ; 0-1;  Argentinos Juniors
+; Huracán                                        ; 0-1;     Platense
+; Dep.Mandiyú (Ctes.)                            ; 3-0;     Quilmes                         ; Huracán Corrientes
+; Dep. Español                                           ; 2-1;                             Unión (Sta Fe)
+; Ferro Carril Oeste                                     ; 1-3;                             Rosario Central
+; Vélez Sarsfield                                                                        ; 0-2;     Racing Club
+; Belgrano (Cba.)                                                                                ; 0-1;    Gimnasia y Esgrima (LP)  ; Córdoba
  
  
  
-Round: Round 1
-[Sep 10]
-Platense                1-0     Independiente
-Quilmes                                 0-1     Newell's Old Boys
-Gimnasia y Esgrima (LP)                 1-0     Dep. Español
-Rosario Central                         0-0     Huracán
-Unión (Sta Fe)                                  1-2     River Plate
-Argentinos Juniors                              0-0     Estudiantes (LP)                [at Atlanta]
-[Sep 11]
-Racing Club             2-3     Dep.Mandiyú (Ctes.)
-[Sep 18]                
-Belgrano (Cba.)                 1-1     Ferro Carril Oeste              [at Córdoba]
-San Lorenzo                             1-1   Talleres (Cba.)                   [at Ferro Carril Oeste]
-[Sep 19]
-Boca Juniors            3-2     Vélez Sarsfield
+*River Plate won the championship in this round with the following line- ups:
+*River Plate:            A.Comizzo (J.Miguel); F.Basualdo (J.Gordillo), N.Higuaín, G.Rivarola, C.Enrique;
+*                                  J.Toresani, G.Zapata, H.Díaz, S.Berti; R.Medina Bello, W.Silvani.
+*                                                        Coach: Daniel Alberto Passarella.
+*Argentinos Juniors:                                     C.Goyén; F.Batista (J.Gómez), Cejas, O.Rodríguez, C.Mac Allister; 
+*                                                                 C.Netto, F.Cáceres, L.Gancedo, D.Cagna; A.Vidal González (Ramallo), Trapasso.
+*                                                                                     Coach: José Yudica.
+*Goal:                   60' D.Cagna.
+*Referee:                    Guillermo Marconi.
+*Tickets:                              27.833.-
+
+Round: 18
+Date: 12/14/1991
+
+; Platense               ; 0-1;     River Plate                     ; Independiente
+
+Date: 12/15/1991
+
+; Boca Juniors           ; 0-0;     Belgrano (Cba.)
+; Gimnasia y Esgrima (LP); 1-0;     Vélez Sarsfield
+; Racing Club            ; 0-0;     Ferro Carril Oeste
+; Rosario Central                ; 1-1;   Dep. Español
+; Unión (Sta Fe)                       ; 1-0;  Dep.Mandiyú (Ctes.)
+; Quilmes                                   ; 0-0;         Huracán
+; Argentinos Juniors                        ; 1-1;         Newell's Old Boys                ; Deportivo Español
+; San Lorenzo                                           ; 2-2;      Independiente                         ; Ferro Carril Oeste
+; Talleres (Cba.)                                                ; 1-1;                                   Estudiantes (LP)
  
-Round: Round 2
-[Aug 29]
-River Plate             2-1     Rosario Central
-[Sep 1]
-San Lorenzo             0-0     Boca Juniors                    [at Vélez Sarsfield]
-Talleres (Cba.)                 2-0  Argentinos Juniors
-Estudiantes (LP)                0-0  Platense
-Independiente                        2-0        Quilmes
-Newell's Old Boys                    0-0        Unión (Sta Fe)
-Huracán                              1-1        Racing Club
-Dep.Mandiyú (Ctes.)                  0-0        Gimnasia y Esgrima (LP)         [at Huracán Corrientes]
-Dep. Español                                    1-0      Belgrano (Cba.)
-Ferro Carril Oeste                              1-0      Vélez Sarsfield
- 
-Round: Round 3
-[Sep 13]
-Boca Juniors            1-0     Ferro Carril Oeste
-[Sep 15]
-Vélez Sarsfield         1-0     Dep. Español
-Belgrano (Cba.)                 0-0  Dep.Mandiyú (Ctes.)                [at Córdoba]
-Gimnasia y Esgrima (LP)         0-0  Huracán
-Racing Club                     0-0  River Plate                        [Suspended at 73' for the agression to River's goalkeeper]
-                                                                                              [River won the points (0-1)]
-Rosario Central                                                                                      1-0 Newell's Old Boys
-Unión (Sta Fe)                                                                                           0-0      Independiente
-Quilmes                                                                                                           0-0   Estudiantes (LP)
-Platense                                                                                                                1-2         Talleres (Cba.)
-Argentinos Juniors                                                                                                      0-0         San Lorenzo   [at Atlanta]
- 
- 
-Round: Round 4 
-[Sep 21]
-River Plate             3-0     Gimnasia y Esgrima (LP)
-[Sep 22]
-Argentinos Juniors      3-1     Boca Juniors                    [at Vélez Sarsfield]
-San Lorenzo                     1-1  Platense                             [at Ferro Carril Oeste]
-Talleres (Cba.)                      2-1                                  Quilmes
-Estudiantes (LP)                     1-1                                  Unión (Sta Fe)
-Independiente                                                             0-0   Rosario Central
-Newell's Old Boys                                                         0-0   Racing Club
-Huracán                                                                   1-1   Belgrano (Cba.)
-Dep.Mandiyú (Ctes.)                                                       0-0   Vélez Sarsfield                 [at Huracán Corrientes]
-Dep. Español                                                                    1-0   Ferro Carril Oeste
- 
-Round: Round 5
-[Sep 28]
-Vélez Sarsfield         5-0     Huracán
-[Sep 29]
-Boca Juniors            3-3     Dep. Español
-Ferro Carril Oeste      1-0     Dep.Mandiyú (Ctes.)
-Belgrano (Cba.)                 0-3         River Plate                 [at Córdoba]
-Gimnasia y Esgrima (LP)         1-0         Newell's Old Boys
-Racing Club                     0-0         Independiente
-Rosario Central                             2-0 Estudiantes (LP)
-Unión (Sta Fe)                                  0-0         Talleres (Cba.)
-Quilmes                                                     0-0      San Lorenzo
-Platense                                                             0-0 Argentinos Juniors
- 
-Round: Round 6 
-[Oct 4]
-San Lorenzo             1-2     Unión (Sta Fe)                  [at Ferro Carril Oeste]
-[Oct 6]
-Platense                0-2     Boca Juniors                    [at Vélez Sarsfield]
-Argentinos Juniors      1-0     Quilmes                                         [at Ferro Carril Oeste]
-Talleres (Cba.)                 3-1                                             Rosario Central
-Estudiantes (LP)                1-0                                             Racing Club
-Independiente                                                                   2-3    Gimnasia y Esgrima (LP)
-Newell's Old Boys                                                               0-1    Belgrano (Cba.)
-River Plate                                                                     1-0    Vélez Sarsfield
-Huracán                                                                                      2-1        Ferro Carril Oeste
-Dep.Mandiyú (Ctes.)                                                                          2-1        Dep. Español     [at Huracán Corrientes]
- 
-Round: Round 7 
-[Oct 12]
-Racing Club             1-2     Talleres (Cba.)
-[Oct 13]
-Boca Juniors            2-0     Dep.Mandiyú (Ctes.)
-Dep. Español                    1-0         Huracán
-Ferro Carril Oeste              0-1         River Plate
-Vélez Sarsfield                             4-1   Newell's Old Boys
-Belgrano (Cba.)                                   0-1      Independiente                        [at Córdoba]
-Gimnasia y Esgrima (LP)                           2-0      Estudiantes (LP)
-Rosario Central                                   0-1      San Lorenzo
-Unión (Sta Fe)                                             2-1 Argentinos Juniors
-Quilmes                                                        1-0        Platense
- 
-Round: Round 8
-[Oct 18]
-Quilmes                 1-2     Boca Juniors                    [at Independiente]
-[Oct 20]
-Platense                2-2     Unión (Sta Fe)
-Argentinos Juniors      2-2     Rosario Central                 [at Deportivo Español]
-San Lorenzo                     0-0     Racing Club                           [at Ferro Carril Oeste]
-Talleres (Cba.)                         1-0    Gimnasia y Esgrima (LP)
-Estudiantes (LP)                        1-1    Belgrano (Cba.)
-Independiente                                  1-2      Vélez Sarsfield
-Newell's Old Boys                              2-2      Ferro Carril Oeste
-River Plate                                    2-1      Dep. Español
-Huracán                                                      3-2        Dep.Mandiyú (Ctes.)
- 
-Round: Round 9 
-[Oct 25]
-Racing Club             0-0     Argentinos Juniors
-[Oct 26]
-Rosario Central         1-3     Platense
-Unión (Sta Fe)                  0-0     Quilmes
-[Oct 27]
-Boca Juniors            1-1     Huracán
-Dep. Español                    1-0     Newell's Old Boys
-Ferro Carril Oeste              2-3     Independiente
-Vélez Sarsfield                         1-0     Estudiantes (LP)
-Belgrano (Cba.)                                 3-0         Talleres (Cba.)                     [at Córdoba]
-Gimnasia y Esgrima (LP)                         0-2         San Lorenzo
-[Dec 5]
-Dep.Mandiyú (Ctes.)     0-0     River Plate                     [at Huracán Corrientes]
- 
-Round: Round 10
-[Nov 1]
-Independiente           1-0     Dep. Español
-[Nov 3]
-Unión (Sta Fe)          0-0     Boca Juniors
-Quilmes                         0-0  Rosario Central
-Platense                             2-1     Racing Club
-Argentinos Juniors                   0-0     Gimnasia y Esgrima (LP)            [at Vélez Sarsfield]
-San Lorenzo                                  1-1      Belgrano (Cba.)                     [at Ferro Carril Oeste]
-Talleres (Cba.)                                       1-0      Vélez Sarsfield                      [Suspended in 88'; not continued]
-Estudiantes (LP)                                      0-1      Ferro Carril Oeste
-Newell's Old Boys                                     0-1      Dep.Mandiyú (Ctes.)
-River Plate                                           1-0      Huracán
- 
-Round: Round 11
-[Nov 8]
-Vélez Sarsfield         1-1     San Lorenzo
-[Nov 10]
-Boca Juniors            0-0     River Plate
-Huracán                               1-1       Newell's Old Boys
-Dep.Mandiyú (Ctes.)                   1-1       Independiente                   [at Huracán Corrientes]
-Dep. Español                                    3-3                             Estudiantes (LP)
-Ferro Carril Oeste                              1-0                             Talleres (Cba.)
-Belgrano (Cba.)                                                                 1-1      Argentinos Juniors             [at Córdoba]
-Gimnasia y Esgrima (LP)                                                         0-0      Platense
-Racing Club                                                                     1-1      Quilmes
-Rosario Central                                                                          1-0    Unión (Sta Fe)
- 
-Round: Round 12
-[Nov 15]
-Independiente           2-0     Huracán
-[Nov 17]
-Boca Juniors            1-1     Rosario Central
-Unión (Sta Fe)                  0-1     Racing Club
-Quilmes                                 1-1    Gimnasia y Esgrima (LP)
-Platense                                       0-0      Belgrano (Cba.)
-Argentinos Juniors                             1-1      Vélez Sarsfield                 [at Ferro Carril Oeste]
-San Lorenzo                                             0-0   Ferro Carril Oeste            [at Huracán]
-Talleres (Cba.)                                               0-0   Dep. Español
-Estudiantes (LP)                                              3-0   Dep.Mandiyú (Ctes.)
-Newell's Old Boys                                             0-1   River Plate
- 
-Round: Round 13
-[Nov 22]
-Racing Club             1-1     Rosario Central
-[Nov 24]
-Newell's Old Boys       1-1     Boca Juniors
-[Nov 25]
-River Plate             3-1     Independiente
-Huracán                                 2-0     Estudiantes (LP)
-Dep.Mandiyú (Ctes.)                     2-1     Talleres (Cba.)                 [at Huracán Corrientes]
-Dep. Español                                    1-1      San Lorenzo
-Ferro Carril Oeste                              1-1      Argentinos Juniors
-Vélez Sarsfield                                          2-2        Platense
-Belgrano (Cba.)                                                     0-0 Quilmes                         [at Córdoba]
-Gimnasia y Esgrima (LP)                                             3-1 Unión (Sta Fe)
- 
-Round: Round 14
-[Nov 27]
-Boca Juniors            0-0     Racing Club
-Rosario Central                 0-0    Gimnasia y Esgrima (LP)
-Unión (Sta Fe)                         1-2      Belgrano (Cba.)
-[Nov 28]
-Quilmes                 1-2     Vélez Sarsfield
-Platense                        0-0   Ferro Carril Oeste
-Argentinos Juniors              5-2   Dep. Español              [at Huracán]
-San Lorenzo                           2-2  Dep.Mandiyú (Ctes.)      [at Ferro Carril Oeste]
-Talleres (Cba.)                            1-1         Huracán
-Independiente                                          0-3      Newell's Old Boys
-[Dec 18]
-Estudiantes (LP)        2-2     River Plate                     [at Independiente]
- 
-Round: Round 15
-[Dec 1]
-Independiente           1-1     Boca Juniors
-Newell's Old Boys       3-0     Estudiantes (LP)
-River Plate             5-1     Talleres (Cba.)
-Huracán                                  2-2    San Lorenzo
-Dep.Mandiyú (Ctes.)                      3-0    Argentinos Juniors              [at Huracán Corrientes]
-Dep. Español                                    1-1        Platense
-Ferro Carril Oeste                              1-0        Quilmes
-Vélez Sarsfield                                            2-0  Unión (Sta Fe)
-Belgrano (Cba.)                                                 1-1   Rosario Central                   [at Córdoba]
-Gimnasia y Esgrima (LP)                                         1-1   Racing Club
- 
-Round: Round 16
-[Dec 7]
-Unión (Sta Fe)          0-0     Ferro Carril Oeste
-[Dec 8]
-Boca Juniors            3-1     Gimnasia y Esgrima (LP)
-Racing Club                     2-1      Belgrano (Cba.)
-Rosario Central                          0-2      Vélez Sarsfield
-Quilmes                                           2-4   Dep. Español
-Platense                                                2-0  Dep.Mandiyú (Ctes.)                [at Estudiantes Bs.As.]
-Argentinos Juniors                                      0-1  Huracán                                            [at Ferro Carril Oeste]
-San Lorenzo                                                  2-0                                                River Plate        [at Vélez Sarsfield]
-Talleres (Cba.)                                                                                                 0-0   Newell's Old Boys
-Estudiantes (LP)                                                                                                1-0   Independiente
- 
-Round: Round 17
-[Dec 12]
-Estudiantes (LP)        1-0     Boca Juniors
-Independiente                   2-1  Talleres (Cba.)
-Newell's Old Boys               1-1  San Lorenzo
-River Plate                     0-1  Argentinos Juniors
-Huracán                                         0-1     Platense
-Dep.Mandiyú (Ctes.)                             3-0     Quilmes                         [at Huracán Corrientes]
-Dep. Español                                            2-1                             Unión (Sta Fe)
-Ferro Carril Oeste                                      1-3                             Rosario Central
-Vélez Sarsfield                                                                         0-2     Racing Club
-Belgrano (Cba.)                                                                                 0-1    Gimnasia y Esgrima (LP)  [at Córdoba]
- 
- 
- 
-River Plate won the championship in this round with the following line- ups:
- 
- 
-River Plate:            A.Comizzo (J.Miguel); F.Basualdo (J.Gordillo), N.Higuaín, G.Rivarola, C.Enrique;
-                                  J.Toresani, G.Zapata, H.Díaz, S.Berti; R.Medina Bello, W.Silvani.
-                                                        Coach: Daniel Alberto Passarella.
-Argentinos Juniors:                                     C.Goyén; F.Batista (J.Gómez), Cejas, O.Rodríguez, C.Mac Allister; 
-                                                                 C.Netto, F.Cáceres, L.Gancedo, D.Cagna; A.Vidal González (Ramallo), Trapasso.
-                                                                                     Coach: José Yudica.
- 
-Goal:                   60' D.Cagna.
-Referee:                    Guillermo Marconi.
-Tickets:                              27.833.-
- 
-Round: Round 18
-[Dec 14]
-Platense                0-1     River Plate                     [at Independiente]
-[Dec 15]
-Boca Juniors            0-0     Belgrano (Cba.)
-Gimnasia y Esgrima (LP) 1-0     Vélez Sarsfield
-Racing Club             0-0     Ferro Carril Oeste
-Rosario Central                 1-1   Dep. Español
-Unión (Sta Fe)                        1-0  Dep.Mandiyú (Ctes.)
-Quilmes                                    0-0         Huracán
-Argentinos Juniors                         1-1         Newell's Old Boys                [at Deportivo Español]
-San Lorenzo                                            2-2      Independiente                         [at Ferro Carril Oeste]
-Talleres (Cba.)                                                 1-1                                   Estudiantes (LP)
- 
-Round: Round 19
-[Dec 22]
-Talleres (Cba.)         0-1     Boca Juniors                    [at Córdoba]
-Estudiantes (LP)        0-2     San Lorenzo
-Independiente                   1-1 Argentinos Juniors
-Newell's Old Boys               0-0 Platense
-River Plate                     5-1 Quilmes
-Huracán                                 3-1     Unión (Sta Fe)
-Dep.Mandiyú (Ctes.)                     3-1     Rosario Central                 [at Huracán Corrientes]
-Dep. Español                                    0-1     Racing Club
-Ferro Carril Oeste                              3-1     Gimnasia y Esgrima (LP)         [at Boca Juniors]
-Vélez Sarsfield                                         2-2      Belgrano (Cba.)
+Round: 19
+Date: 12/22/1991
+
+; Talleres (Cba.)        ; 0-1;     Boca Juniors                    ; Córdoba
+; Estudiantes (LP)       ; 0-2;     San Lorenzo
+; Independiente                  ; 1-1; Argentinos Juniors
+; Newell's Old Boys              ; 0-0; Platense
+; River Plate                    ; 5-1; Quilmes
+; Huracán                                ; 3-1;     Unión (Sta Fe)
+; Dep.Mandiyú (Ctes.)                    ; 3-1;     Rosario Central                 ; Huracán Corrientes
+; Dep. Español                                   ; 0-1;     Racing Club
+; Ferro Carril Oeste                             ; 3-1;     Gimnasia y Esgrima (LP)         ; Boca Juniors
+; Vélez Sarsfield                                        ; 2-2;      Belgrano (Cba.)
+
  
 * 1. River Plate                      19  14   3   2    8  0  1   6  3  1   33 11   31  [Champion]
 *--------------------------------------------------------------------------------------
@@ -338,9 +396,9 @@ Vélez Sarsfield                                         2-2      Belgrano (Cba.
 *18. Newell's Old Boys                19   3   9   7    1  6  3   2  3  4   14 16   15
 *19. Unión (Santa Fe)                 19   3   8   8    2  5  3   1  3  5   13 21   14
 *20. Quilmes                          19   1   8  10    1  5  4   0  3  6    9 25   10 
- 
-Clausura 1992
 
+ 
+Season: 1991-1992 Clausura
 
 * 1. Newell's Old Boys                19  11   7   1    6  3  0   5  4  1   27  8   29  [Champion]
 *--------------------------------------------------------------------------------------
@@ -363,300 +421,364 @@ Clausura 1992
 *18. Deportivo Mandiyú (Corrientes)   19   3   7   9    3  4  3   0  3  6   16 30   13
 *19. San Lorenzo                    19   3   6  10    1  4  4   2  2  6   11 25   12
 *20. Quilmes                          19   4   3  12    4  3  2   0  0 10   14 32    9  [Relegated; worst average]
+*Note:
+*. Quilmes: 2 points deducted.
  
  
-Note:
-. Quilmes: 2 points deducted.
+Round: 1 
+Date: 2/21/1992
+
+; River Plate            ; 2-1;     Unión (Sta Fe)
+
+Date: 2/23/1992
+
+; Vélez Sarsfield        ; 1-0;     Boca Juniors
+; Ferro Carril Oeste     ; 2-1;     Belgrano (Cba.)
+; Dep. Español           ; 2-1;     Gimnasia y Esgrima (LP)
+; Dep.Mandiyú (Ctes.)    ; 1-2;     Racing Club                     ; Huracán Corrientes
+; Huracán                        ; 2-0;    Rosario Central
+; Newell's Old Boys              ; 2-0;    Quilmes
+; Independiente                         ; 2-1;      Platense
+; Estudiantes (LP)                      ; 2-2;      Argentinos Juniors
+; Talleres (Cba.)                                ; 2-0;        San Lorenzo                  ; Córdoba
+ 
+Round: 2
+Date: 2/28/1992
+
+; Racing Club            ; 0-0;     Huracán
+
+Date: 2/29/1992
+
+; Unión (Sta Fe)         ; 0-0;     Newell's Old Boys
+
+Date: 3/1/1992
+
+; Boca Juniors           ; 2-0;     San Lorenzo
+; Argentinos Juniors     ; 0-1;     Talleres (Cba.)                 ; Ferro Carril Oeste
+; Platense               ; 5-1;     Estudiantes (LP)
+; Quilmes                                    ; 2-0; Independiente
+; Rosario Central                                ; 1-4;     River Plate
+; Gimnasia y Esgrima (LP)                        ; 3-3;     Dep.Mandiyú (Ctes.)
+; Belgrano (Cba.)                                ; 0-1;     Dep. Español
+; Vélez Sarsfield                                        ; 1-1;  Ferro Carril Oeste
+ 
+Round: 3
+Date: 3/6/1992
+
+; Independiente          ; 1-1;     Unión (Sta Fe)
+
+Date: 3/8/1992
+
+; Ferro Carril Oeste     ; 0-1;     Boca Juniors
+; Dep. Español           ; 1-1;     Vélez Sarsfield
+; Dep.Mandiyú (Ctes.)    ; 1-0;     Belgrano (Cba.)                 ; Huracán Corrientes
+; Huracán                        ; 3-2;      Gimnasia y Esgrima (LP)
+; River Plate                             ; 1-1;      Racing Club
+; Newell's Old Boys                       ; 1-0;      Rosario Central                       
+*[Suspended in 88'; not continued]
+; Estudiantes (LP)                        ; 5-1;      Quilmes
+; Talleres (Cba.)                                  ; 0-0;   Platense
+; San Lorenzo                                            ; 0-2;     Argentinos Juniors              ; Vélez Sarsfield
+ 
+Round: 4 
+Date: 3/13/1992
+
+; Boca Juniors           ; 1-0;     Argentinos Juniors
+
+Date: 3/15/1992
+
+; Platense               ; 1-0;     San Lorenzo
+; Quilmes                            ; 2-0; Talleres (Cba.)
+; Unión (Sta Fe)                         ; 1-1;      Estudiantes (LP)
+; Rosario Central                                 ; 0-3;         Independiente
+; Racing Club                                                 ; 0-1;        Newell's Old Boys
+; Gimnasia y Esgrima (LP)                                     ; 2-3;        River Plate
+; Belgrano (Cba.)                                             ; 2-0;        Huracán
+; Vélez Sarsfield                                                        ; 4-1;     Dep.Mandiyú (Ctes.)
+; Ferro Carril Oeste                                                     ; 1-1;     Dep. Español
+ 
+Round: 5 
+Date: 3/20/1992
+
+; River Plate            ; 2-2;     Belgrano (Cba.)
+
+Date: 3/22/1992
+
+; Dep. Español           ; 1-1;     Boca Juniors                    ; Vélez Sarsfield
+; Dep.Mandiyú (Ctes.)    ; 0-4;     Ferro Carril Oeste                  ; Huracán Corrientes
+; Huracán                        ; 2-1;   Vélez Sarsfield
+; Newell's Old Boys              ; 1-0;   Gimnasia y Esgrima (LP)
+; Independiente                        ; 0-0;      Racing Club
+; Estudiantes (LP)                     ; 0-3;      Rosario Central
+; Talleres (Cba.)                               ; 0-0;     Unión (Sta Fe)                   ; Córdoba
+; San Lorenzo                                           ; 1-0;   Quilmes                                    ; Ferro Carril Oeste
+; Argentinos Juniors                                    ; 0-1;   Platense                                             ; Atlanta
+ 
+Round: 6
+Date: 3/27/1992
+
+; Racing Club            ; 1-1;     Estudiantes (LP)
+
+Date: 3/29/1992
+
+; Boca Juniors           ; 2-0;     Platense
+; Quilmes                                ; 2-2;     Argentinos Juniors
+; Unión (Sta Fe)                                 ; 2-0;        San Lorenzo
+; Rosario Central                                           ; 1-0; Talleres (Cba.)
+; Gimnasia y Esgrima (LP)                                   ; 1-1; Independiente
+; Belgrano (Cba.)                                           ; 1-3; Newell's Old Boys
+; Vélez Sarsfield                                               ; 1-1;      River Plate
+; Ferro Carril Oeste                                            ; 0-0;      Huracán
+; Dep. Español                                                  ; 4-0;      Dep.Mandiyú (Ctes.)
+ 
+Round: 7 
+Date: 4/3/1992
+
+; San Lorenzo            ; 1-3;     Rosario Central                 ; Ferro Carril Oeste
+
+Date: 4/5/1992
+
+; Dep.Mandiyú (Ctes.)    ; 0-1;     Boca Juniors                    ; Huracán Corrientes
+; Huracán                        ; 0-0;  Dep. Español
+; River Plate                         ; 1-1;  Ferro Carril Oeste
+; Newell's Old Boys                   ; 2-2;  Vélez Sarsfield
+; Independiente                            ; 1-2;   Belgrano (Cba.)
+; Estudiantes (LP)                         ; 0-1;   Gimnasia y Esgrima (LP)
+; Talleres (Cba.)                                ; 1-1;      Racing Club                    ; Córdoba
+; Argentinos Juniors                             ; 0-0;      Unión (Sta Fe)                         ; Deportivo Español
+; Platense                                       ; 3-1;      Quilmes
+ 
+Round: 8 
+Date: 4/10/1992
+
+; Vélez Sarsfield        ; 2-2;     Independiente
+
+Date: 4/12/1992
+
+; Boca Juniors           ; 1-0;     Quilmes
+; Unión (Sta Fe)                 ; 0-2;     Platense
+; Rosario Central                        ; 3-0;     Argentinos Juniors
+; Racing Club                                    ; 1-2;        San Lorenzo
+; Gimnasia y Esgrima (LP)                        ; 2-0;        Talleres (Cba.)
+; Belgrano (Cba.)                                ; 3-0;        Estudiantes (LP)
+; Ferro Carril Oeste                             ; 0-1;        Newell's Old Boys
+; Dep. Español                                   ; 0-2;        River Plate                  ; Vélez Sarsfield
+; Dep.Mandiyú (Ctes.)                            ; 0-0;        Huracán                                      ; Huracán Corrientes
+ 
+Round: 9 
+Date: 4/17/1992
+
+; River Plate            ; 2-0;     Dep.Mandiyú (Ctes.)
+
+Date: 4/19/1992
+
+; Huracán                ; 0-2;     Boca Juniors
+; Newell's Old Boys      ; 1-1;     Dep. Español
+; Independiente                  ; 1-0;  Ferro Carril Oeste
+; Estudiantes (LP)               ; 1-1;  Vélez Sarsfield
+; Talleres (Cba.)                     ; 1-2;   Belgrano (Cba.)                      ; Córdoba
+; San Lorenzo                               ; 0-0;      Gimnasia y Esgrima (LP)         ; Ferro Carril Oeste
+; Argentinos Juniors                        ; 0-0;      Racing Club                         ; Vélez Sarsfield
+; Platense                                  ; 5-0;      Rosario Central
+; Quilmes                                                    ; 2-1; Unión (Sta Fe)
+ 
+Round: 10
+Date: 4/24/1992
+
+; Boca Juniors           ; 2-1;     Unión (Sta Fe)
+
+Date: 4/26/1992
+
+; Rosario Central        ; 1-0;     Quilmes
+; Racing Club                    ; 0-1;     Platense
+; Gimnasia y Esgrima (LP)        ; 3-2;     Argentinos Juniors
+; Belgrano (Cba.)                ; 1-1;     San Lorenzo                     ; Córdoba
+; Vélez Sarsfield                        ; 1-0; Talleres (Cba.)
+; Ferro Carril Oeste                     ; 1-0; Estudiantes (LP)
+; Dep. Español                           ; 1-0; Independiente
+; Dep.Mandiyú (Ctes.)                    ; 0-0; Newell's Old Boys           ; Huracán Corrientes
+; Huracán                                    ; 1-1;      River Plate
+ 
+Round: 11
+Date: 5/2/1992
+
+; San Lorenzo            ; 2-3;     Vélez Sarsfield                 ; Ferro Carril Oeste
+
+Date: 5/3/1992
+
+; River Plate            ; 2-2;     Boca Juniors
+; Newell's Old Boys      ; 2-1;     Huracán
+; Independiente                  ; 0-0;     Dep.Mandiyú (Ctes.)
+; Estudiantes (LP)               ; 1-1;     Dep. Español
+; Talleres (Cba.)                        ; 0-0;  Ferro Carril Oeste
+; Argentinos Juniors                     ; 0-1;  Belgrano (Cba.)                    ; Atlanta
+; Platense                               ; 0-0;  Gimnasia y Esgrima (LP)
+; Quilmes                                              ; 0-2;       Racing Club
+; Unión (Sta Fe)                                                 ; 0-0;    Rosario Central
+ 
+Round: 12
+Date: 5/10/1992
+
+; Rosario Central        ; 3-0;     Boca Juniors
+; Racing Club                    ; 0-0;  Unión (Sta Fe)
+; Gimnasia y Esgrima (LP)        ; 3-0;  Quilmes
+; Belgrano (Cba.)                ; 1-1;  Platense
+; Vélez Sarsfield                     ; 1-0;        Argentinos Juniors
+; Ferro Carril Oeste                  ; 1-0;        San Lorenzo
+; Dep. Español                        ; 1-1;        Talleres (Cba.)
+; Dep.Mandiyú (Ctes.)                 ; 0-0;        Estudiantes (LP)                ; Huracán Corrientes
+; Huracán                                        ; 0-2;         Independiente
+; River Plate                                                ; 0-5; Newell's Old Boys
+ 
+Round: 13
+Date: 5/17/1992
+
+; Boca Juniors           ; 1-1;     Newell's Old Boys
+; Independiente                  ; 1-1;      River Plate
+; Estudiantes (LP)               ; 0-0;      Huracán
+; San Lorenzo                    ; 1-1;      Dep. Español                   ; Ferro Carril Oeste
+; Argentinos Juniors             ; 4-1;      Ferro Carril Oeste                 ; Atlanta
+; Platense                       ; 0-2;      Vélez Sarsfield
+; Quilmes                                       ; 0-0;      Belgrano (Cba.)
+; Unión (Sta Fe)                                         ; 0-0;      Gimnasia y Esgrima (LP)
+; Rosario Central                                                 ; 0-1;      Racing Club
+
+Date: 5/18/1992
+
+; Talleres (Cba.)        ; 2-2;     Dep.Mandiyú (Ctes.)
+ 
+Round: 14
+Date: 5/22/1992
+
+; River Plate            ; 2-1;     Estudiantes (LP)
+
+Date: 5/23/1992
+
+; Gimnasia y Esgrima (LP); 1-0;     Rosario Central
+; Belgrano (Cba.)        ; 0-2;     Unión (Sta Fe)
+; Vélez Sarsfield                ; 2-0;   Quilmes
+; Ferro Carril Oeste             ; 0-1;   Platense
+; Dep. Español                   ; 2-0;   Argentinos Juniors
+; Dep.Mandiyú (Ctes.)            ; 1-0;   San Lorenzo                       ; Huracán Corrientes
+; Huracán                              ; 2-3; Talleres (Cba.)
+; Newell's Old Boys                    ; 1-0; Independiente
+
+Date: 6/10/1992
+
+; Racing Club            ; 0-0;     Boca Juniors
+ 
+Round: 15
+Date: 6/5/1992
+
+; San Lorenzo            ; 2-2;     Huracán                         ; Vélez Sarsfield
+
+Date: 6/6/1992
+
+; Boca Juniors           ; 2-1;     Independiente
+; Estudiantes (LP)       ; 1-0;     Newell's Old Boys
+; Talleres (Cba.)                ; 0-0;      River Plate                    ; Córdoba
+; Argentinos Juniors             ; 1-0;      Dep.Mandiyú (Ctes.)                ; Atlanta
+; Platense                       ; 0-1;      Dep. Español
+; Quilmes                                      ; 0-0;       Ferro Carril Oeste              
+*[Suspended in 82'; continued Jun 24]
+; Unión (Sta Fe)                                         ; 0-1;   Vélez Sarsfield
+; Rosario Central                                              ; 1-0;   Belgrano (Cba.)
+; Racing Club                                                        ; 2-1;      Gimnasia y Esgrima (LP)
+
+Date: 6/24/1992
+
+; Quilmes                ; 0-0;     Ferro Carril Oeste
+ 
+Round: 16
+Date: 6/12/1992
+
+; Independiente          ; 0-0;     Estudiantes (LP)
+
+Date: 6/14/1992
+
+; Gimnasia y Esgrima (LP); 0-0;     Boca Juniors                    ; Independiente
+; Belgrano (Cba.)        ; 0-0;     Racing Club                             ; Córdoba
+; Vélez Sarsfield                ; 2-0;    Rosario Central
+; Ferro Carril Oeste             ; 0-0;    Unión (Sta Fe)
+; Dep. Español                   ; 3-0;    Quilmes
+; Dep.Mandiyú (Ctes.)            ; 1-1;    Platense                 ; Huracán Corrientes
+; Huracán                               ; 1-1;                      Argentinos Juniors
+; River Plate                                                    ; 0-1;        San Lorenzo
+
+Date: 6/24/1992
+
+; Newell's Old Boys      ; 2-0;     Talleres (Cba.)
+ 
+Round: 17
+Date: 6/20/1992
+
+; Racing Club            ; 1-0;     Vélez Sarsfield
+
+Date: 6/21/1992
+
+; Boca Juniors           ; 2-0;     Estudiantes (LP)
+; Talleres (Cba.)                ; 1-1;         Independiente                       ; Córdoba
+; San Lorenzo                                ; 0-3;                                 Newell's Old Boys               ; Ferro Carril Oeste
+; Argentinos Juniors                         ; 1-0;                                 River Plate                         ; Atlanta
+; Platense                                   ; 0-0;                                 Huracán
+; Quilmes                                                                                ; 3-1;     Dep.Mandiyú (Ctes.)
+; Unión (Sta Fe)                                                                                 ; 1-2;         Dep. Español
+; Rosario Central                                                                                            ; 0-1;  Ferro Carril Oeste
+; Gimnasia y Esgrima (LP)                                                                                    ; 1-1;  Belgrano (Cba.)
+ 
+Round: 18
+Date: 6/26/1992
+
+; River Plate            ; 4-0;     Platense
+
+Date: 6/28/1992
+
+; Belgrano (Cba.)        ; 1-0;     Boca Juniors                    ; Córdoba
+; Dep.Mandiyú (Ctes.)    ; 3-0;     Unión (Sta Fe)                          ; Huracán Corrientes
+; Newell's Old Boys      ; 0-0;     Argentinos Juniors
+; Independiente                  ; 0-0;        San Lorenzo
+; Estudiantes (LP)               ; 0-2;        Talleres (Cba.)
+
+Date: 6/29/1992
+
+; Dep. Español           ; 1-0;     Rosario Central
+; Huracán                                ; 2-0;     Quilmes
+
+Date: 6/30/1992
+
+; Vélez Sarsfield        ; 2-2;     Gimnasia y Esgrima (LP)
+; Ferro Carril Oeste     ; 0-0;     Racing Club
+ 
+Round: 19
+Date: 7/3/1992
+
+; Racing Club            ; 0-0;     Dep. Español
+
+Date: 7/5/1992
+
+; Boca Juniors           ; 0-0;     Talleres (Cba.)
+; San Lorenzo                    ; 0-0;      Estudiantes (LP)               ; Ferro Carril Oeste
+; Argentinos Juniors             ; 1-0;      Independiente                            ; Huracán
+; Platense                       ; 1-1;      Newell's Old Boys
+; Quilmes                                          ; 1-3; River Plate
+; Unión (Sta Fe)                                       ; 1-2;   Huracán
+; Rosario Central                                            ; 3-2; Dep.Mandiyú (Ctes.)
+; Gimnasia y Esgrima (LP)                                    ; 2-0; Ferro Carril Oeste
+; Belgrano (Cba.)                                            ; 0-1; Vélez Sarsfield
  
  
-Round: Round 1 
-[Feb 21]
-River Plate             2-1     Unión (Sta Fe)
-[Feb 23]
-Vélez Sarsfield         1-0     Boca Juniors
-Ferro Carril Oeste      2-1     Belgrano (Cba.)
-Dep. Español            2-1     Gimnasia y Esgrima (LP)
-Dep.Mandiyú (Ctes.)     1-2     Racing Club                     [at Huracán Corrientes]
-Huracán                         2-0    Rosario Central
-Newell's Old Boys               2-0    Quilmes
-Independiente                          2-1      Platense
-Estudiantes (LP)                       2-2      Argentinos Juniors
-Talleres (Cba.)                                 2-0        San Lorenzo                  [at Córdoba]
- 
-Round: Round 2
-[Feb 28]
-Racing Club             0-0     Huracán
-[Feb 29]
-Unión (Sta Fe)          0-0     Newell's Old Boys
-[Mar 1]
-Boca Juniors            2-0     San Lorenzo
-Argentinos Juniors      0-1     Talleres (Cba.)                 [at Ferro Carril Oeste]
-Platense                5-1     Estudiantes (LP)
-Quilmes                                     2-0 Independiente
-Rosario Central                                 1-4     River Plate
-Gimnasia y Esgrima (LP)                         3-3     Dep.Mandiyú (Ctes.)
-Belgrano (Cba.)                                 0-1     Dep. Español
-Vélez Sarsfield                                         1-1  Ferro Carril Oeste
- 
-Round: Round 3
-[Mar 6]
-Independiente           1-1     Unión (Sta Fe)
-[Mar 8]
-Ferro Carril Oeste      0-1     Boca Juniors
-Dep. Español            1-1     Vélez Sarsfield
-Dep.Mandiyú (Ctes.)     1-0     Belgrano (Cba.)                 [at Huracán Corrientes]
-Huracán                         3-2      Gimnasia y Esgrima (LP)
-River Plate                              1-1      Racing Club
-Newell's Old Boys                        1-0      Rosario Central                       [Suspended in 88'; not continued]
-Estudiantes (LP)                         5-1      Quilmes
-Talleres (Cba.)                                   0-0   Platense
-San Lorenzo                                             0-2     Argentinos Juniors              [at Vélez Sarsfield]
- 
-Round: Round 4 
-[Mar 13]
-Boca Juniors            1-0     Argentinos Juniors
-[Mar 15]
-Platense                1-0     San Lorenzo
-Quilmes                             2-0 Talleres (Cba.)
-Unión (Sta Fe)                          1-1      Estudiantes (LP)
-Rosario Central                                  0-3         Independiente
-Racing Club                                                  0-1        Newell's Old Boys
-Gimnasia y Esgrima (LP)                                      2-3        River Plate
-Belgrano (Cba.)                                              2-0        Huracán
-Vélez Sarsfield                                                         4-1     Dep.Mandiyú (Ctes.)
-Ferro Carril Oeste                                                      1-1     Dep. Español
- 
-Round: Round 5 
-[Mar 20]
-River Plate             2-2     Belgrano (Cba.)
-[Mar 22]
-Dep. Español            1-1     Boca Juniors                    [at Vélez Sarsfield]
-Dep.Mandiyú (Ctes.)     0-4     Ferro Carril Oeste                  [at Huracán Corrientes]
-Huracán                         2-1   Vélez Sarsfield
-Newell's Old Boys               1-0   Gimnasia y Esgrima (LP)
-Independiente                         0-0      Racing Club
-Estudiantes (LP)                      0-3      Rosario Central
-Talleres (Cba.)                                0-0     Unión (Sta Fe)                   [at Córdoba]
-San Lorenzo                                            1-0   Quilmes                                    [at Ferro Carril Oeste]
-Argentinos Juniors                                     0-1   Platense                                             [at Atlanta]
- 
-Round: Round 6
-[Mar 27]
-Racing Club             1-1     Estudiantes (LP)
-[Mar 29]
-Boca Juniors            2-0     Platense
-Quilmes                                 2-2     Argentinos Juniors
-Unión (Sta Fe)                                  2-0        San Lorenzo
-Rosario Central                                            1-0 Talleres (Cba.)
-Gimnasia y Esgrima (LP)                                    1-1 Independiente
-Belgrano (Cba.)                                            1-3 Newell's Old Boys
-Vélez Sarsfield                                                1-1      River Plate
-Ferro Carril Oeste                                             0-0      Huracán
-Dep. Español                                                   4-0      Dep.Mandiyú (Ctes.)
- 
-Round: Round 7 
-[Apr 3] 
-San Lorenzo             1-3     Rosario Central                 [at Ferro Carril Oeste]
-[Apr 5]
-Dep.Mandiyú (Ctes.)     0-1     Boca Juniors                    [at Huracán Corrientes]
-Huracán                         0-0  Dep. Español
-River Plate                          1-1  Ferro Carril Oeste
-Newell's Old Boys                    2-2  Vélez Sarsfield
-Independiente                             1-2   Belgrano (Cba.)
-Estudiantes (LP)                          0-1   Gimnasia y Esgrima (LP)
-Talleres (Cba.)                                 1-1      Racing Club                    [at Córdoba]
-Argentinos Juniors                              0-0      Unión (Sta Fe)                         [at Deportivo Español]
-Platense                                        3-1      Quilmes
- 
-Round: Round 8 
-[Apr 10]
-Vélez Sarsfield         2-2     Independiente
-[Apr 12]
-Boca Juniors            1-0     Quilmes
-Unión (Sta Fe)                  0-2     Platense
-Rosario Central                         3-0     Argentinos Juniors
-Racing Club                                     1-2        San Lorenzo
-Gimnasia y Esgrima (LP)                         2-0        Talleres (Cba.)
-Belgrano (Cba.)                                 3-0        Estudiantes (LP)
-Ferro Carril Oeste                              0-1        Newell's Old Boys
-Dep. Español                                    0-2        River Plate                  [at Vélez Sarsfield]
-Dep.Mandiyú (Ctes.)                             0-0        Huracán                                      [at Huracán Corrientes]
- 
-Round: Round 9 
-[Apr 17]
-River Plate             2-0     Dep.Mandiyú (Ctes.)
-[Apr 19]
-Huracán                 0-2     Boca Juniors
-Newell's Old Boys       1-1     Dep. Español
-Independiente                   1-0  Ferro Carril Oeste
-Estudiantes (LP)                1-1  Vélez Sarsfield
-Talleres (Cba.)                      1-2   Belgrano (Cba.)                      [at Córdoba]
-San Lorenzo                                0-0      Gimnasia y Esgrima (LP)         [at Ferro Carril Oeste]
-Argentinos Juniors                         0-0      Racing Club                         [at Vélez Sarsfield]
-Platense                                   5-0      Rosario Central
-Quilmes                                                     2-1 Unión (Sta Fe)
- 
-Round: Round 10
-[Apr 24]
-Boca Juniors            2-1     Unión (Sta Fe)
-[Apr 26]
-Rosario Central         1-0     Quilmes
-Racing Club                     0-1     Platense
-Gimnasia y Esgrima (LP)         3-2     Argentinos Juniors
-Belgrano (Cba.)                 1-1     San Lorenzo                     [at Córdoba]
-Vélez Sarsfield                         1-0 Talleres (Cba.)
-Ferro Carril Oeste                      1-0 Estudiantes (LP)
-Dep. Español                            1-0 Independiente
-Dep.Mandiyú (Ctes.)                     0-0 Newell's Old Boys           [at Huracán Corrientes]
-Huracán                                     1-1      River Plate
- 
-Round: Round 11
-[May 2]
-San Lorenzo             2-3     Vélez Sarsfield                 [at Ferro Carril Oeste]
-[May 3]
-River Plate             2-2     Boca Juniors
-Newell's Old Boys       2-1     Huracán
-Independiente                   0-0     Dep.Mandiyú (Ctes.)
-Estudiantes (LP)                1-1     Dep. Español
-Talleres (Cba.)                         0-0  Ferro Carril Oeste
-Argentinos Juniors                      0-1  Belgrano (Cba.)                    [at Atlanta]
-Platense                                0-0  Gimnasia y Esgrima (LP)
-Quilmes                                               0-2       Racing Club
-Unión (Sta Fe)                                                  0-0    Rosario Central
- 
-Round: Round 12
-[May 10]
-Rosario Central         3-0     Boca Juniors
-Racing Club                     0-0  Unión (Sta Fe)
-Gimnasia y Esgrima (LP)         3-0  Quilmes
-Belgrano (Cba.)                 1-1  Platense
-Vélez Sarsfield                      1-0        Argentinos Juniors
-Ferro Carril Oeste                   1-0        San Lorenzo
-Dep. Español                         1-1        Talleres (Cba.)
-Dep.Mandiyú (Ctes.)                  0-0        Estudiantes (LP)                [at Huracán Corrientes]
-Huracán                                         0-2         Independiente
-River Plate                                                 0-5 Newell's Old Boys
- 
-Round: Round 13
-[May 17]
-Boca Juniors            1-1     Newell's Old Boys
-Independiente                   1-1      River Plate
-Estudiantes (LP)                0-0      Huracán
-San Lorenzo                     1-1      Dep. Español                   [at Ferro Carril Oeste]
-Argentinos Juniors              4-1      Ferro Carril Oeste                 [at Atlanta]
-Platense                        0-2      Vélez Sarsfield
-Quilmes                                        0-0      Belgrano (Cba.)
-Unión (Sta Fe)                                          0-0      Gimnasia y Esgrima (LP)
-Rosario Central                                                  0-1      Racing Club
-[May 18]
-Talleres (Cba.)         2-2     Dep.Mandiyú (Ctes.)
- 
-Round: Round 14
-[May 22]        
-River Plate             2-1     Estudiantes (LP)
-[May 23]
-Gimnasia y Esgrima (LP) 1-0     Rosario Central
-Belgrano (Cba.)         0-2     Unión (Sta Fe)
-Vélez Sarsfield                 2-0   Quilmes
-Ferro Carril Oeste              0-1   Platense
-Dep. Español                    2-0   Argentinos Juniors
-Dep.Mandiyú (Ctes.)             1-0   San Lorenzo                       [at Huracán Corrientes]
-Huracán                               2-3 Talleres (Cba.)
-Newell's Old Boys                     1-0 Independiente
-[Jun 10]
-Racing Club             0-0     Boca Juniors
- 
-Round: Round 15
-[Jun 5]
-San Lorenzo             2-2     Huracán                         [at Vélez Sarsfield]
-[Jun 6]
-Boca Juniors            2-1     Independiente
-Estudiantes (LP)        1-0     Newell's Old Boys
-Talleres (Cba.)                 0-0      River Plate                    [at Córdoba]
-Argentinos Juniors              1-0      Dep.Mandiyú (Ctes.)                [at Atlanta]
-Platense                        0-1      Dep. Español
-Quilmes                                       0-0       Ferro Carril Oeste              [Suspended in 82'; continued Jun 24]
-Unión (Sta Fe)                                          0-1   Vélez Sarsfield
-Rosario Central                                               1-0   Belgrano (Cba.)
-Racing Club                                                         2-1      Gimnasia y Esgrima (LP)
-[Jun 24]
-Quilmes                 0-0     Ferro Carril Oeste
- 
- 
-Round: Round 16
-[Jun 12]
-Independiente           0-0     Estudiantes (LP)
-[Jun 14]
-Gimnasia y Esgrima (LP) 0-0     Boca Juniors                    [at Independiente]
-Belgrano (Cba.)         0-0     Racing Club                             [at Córdoba]
-Vélez Sarsfield                 2-0    Rosario Central
-Ferro Carril Oeste              0-0    Unión (Sta Fe)
-Dep. Español                    3-0    Quilmes
-Dep.Mandiyú (Ctes.)             1-1    Platense                 [at Huracán Corrientes]
-Huracán                                1-1                      Argentinos Juniors
-River Plate                                                     0-1        San Lorenzo
-[Jun 24]
-Newell's Old Boys       2-0     Talleres (Cba.)
- 
-Round: Round 17
-[Jun 20]
-Racing Club             1-0     Vélez Sarsfield
-[Jun 21]
-Boca Juniors            2-0     Estudiantes (LP)
-Talleres (Cba.)                 1-1         Independiente                       [at Córdoba]
-San Lorenzo                                 0-3                                 Newell's Old Boys               [at Ferro Carril Oeste]
-Argentinos Juniors                          1-0                                 River Plate                         [at Atlanta]
-Platense                                    0-0                                 Huracán
-Quilmes                                                                                 3-1     Dep.Mandiyú (Ctes.)
-Unión (Sta Fe)                                                                                  1-2         Dep. Español
-Rosario Central                                                                                             0-1  Ferro Carril Oeste
-Gimnasia y Esgrima (LP)                                                                                     1-1  Belgrano (Cba.)
- 
-Round: Round 18
-[Jun 26]
-River Plate             4-0     Platense
-[Jun 28]
-Belgrano (Cba.)         1-0     Boca Juniors                    [at Córdoba]
-Dep.Mandiyú (Ctes.)     3-0     Unión (Sta Fe)                          [at Huracán Corrientes]
-Newell's Old Boys       0-0     Argentinos Juniors
-Independiente                   0-0        San Lorenzo
-Estudiantes (LP)                0-2        Talleres (Cba.)
-[Jun 29]
-Dep. Español            1-0     Rosario Central
-Huracán                                 2-0     Quilmes
-[Jun 30]
-Vélez Sarsfield         2-2     Gimnasia y Esgrima (LP)
-Ferro Carril Oeste      0-0     Racing Club
- 
-Round: Round 19
-[Jul 3]
-Racing Club             0-0     Dep. Español
-[Jul 5]
-Boca Juniors            0-0     Talleres (Cba.)
-San Lorenzo                     0-0      Estudiantes (LP)               [at Ferro Carril Oeste]
-Argentinos Juniors              1-0      Independiente                            [at Huracán]
-Platense                        1-1      Newell's Old Boys
-Quilmes                                           1-3 River Plate
-Unión (Sta Fe)                                        1-2   Huracán
-Rosario Central                                             3-2 Dep.Mandiyú (Ctes.)
-Gimnasia y Esgrima (LP)                                     2-0 Ferro Carril Oeste
-Belgrano (Cba.)                                             0-1 Vélez Sarsfield
- 
- 
-Newell's Old Boys won the championship in this round with the following line- ups:
- 
- 
-Platense:       L.Aguirre; F.Bellini, J.Baena, A.Orellano, Broggi; 
-                           Romagnoli, A.Cascini, Cravero, Dalla Líbera; Scotto (D.Díaz), Rufini.
-                                      Coach: Jorge P.Marchetta.
-Newell's O.B.:                        Scoponi; Raggio (Soria), Gamboa, Llop, M.Pochettino; 
-                                      Saldaña, Berizzo, A.Berti; Zamora, Domizzi (Lunari), A.Mendoza.
-                                               Coach: Marcelo Bielsa.
- 
-Goals:          37' Llop (o/g); 80' Lunari.
-Expulsion:      35' Lunari.
-Referee:        Vigliano.
-Tickets:        9.603.- 
+*Newell's Old Boys won the championship in this round with the following line- ups:
+*Platense:       L.Aguirre; F.Bellini, J.Baena, A.Orellano, Broggi; 
+*                           Romagnoli, A.Cascini, Cravero, Dalla Líbera; Scotto (D.Díaz), Rufini.
+*                                      Coach: Jorge P.Marchetta.
+*Newell's O.B.:                        Scoponi; Raggio (Soria), Gamboa, Llop, M.Pochettino; 
+*                                      Saldaña, Berizzo, A.Berti; Zamora, Domizzi (Lunari), A.Mendoza.
+*                                               Coach: Marcelo Bielsa.
+* 
+*Goals:          37' Llop (o/g); 80' Lunari.
+*Expulsion:      35' Lunari.
+*Referee:        Vigliano.
+*Tickets:        9.603.- 
  
  
  
@@ -681,101 +803,109 @@ Tickets:        9.603.-
 *18. Deportivo Mandiyú (Corrientes)   19   3   7   9    3  4  3   0  3  6   16 30   13
 *19. San Lorenzo                    19   3   6  10    1  4  4   2  2  6   11 25   12
 *20. Quilmes                          19   4   3  12    4  3  2   0  0 10   14 32    9  [Relegated; worst average]
- 
- 
-Note:
-. Quilmes: 2 points deducted.
- 
- 
- 
- 
-Note:
-. Relegation was defined by the 2 worst averages (points/matches) of the last
-  three seasons:
+*Note:
+*. Quilmes: 2 points deducted.
+*Note:
+*. Relegation was defined by the 2 worst averages (points/matches) of the last
+*  three seasons:
 
-Relegation Table (Apertura + Clausura):
-    
-    Teams                          89/90    90/91   91/92   Pts.    MP.    Average
------------------------------------------------------------------------------------
- 1. River Plate                     53       45      55     153    114      1,342
- 2. Boca Juniors      50     144         114      1,263
- 3. Vélez Sarsfield        45                 48      135        114      1,184
- 4. Newell's Old Boys          36                  48      44        128     114     1,123
- 5. Independiente       36     122    114     1,070
- 6. Racing Club             39      40             39     118    114     1,035
- 7. Huracán                                            --      40             38      78     76     1,026
- 8. Rosario Central                                                43              39      34           116    114     1,018
- 9. Ferro Carril Oeste               39       38           37            114    114     1,000
-10. San Lorenzo                                   35            45            34            114    114     1,000
-11. Gimnasia y Esgrima LP                             39             33            41           113           114     0,991
-12. Platense               36                              35             42           113         114            0,991
-13. Argentinos Juniors                                         38              36           35         109           114     0,956
-14. Deportivo Mandiyú (Corrientes)  36                              38              33          107       114            0,939
-15. Belgrano (Córdoba)                                                  --       --      35      35     38                   0,921
-16. Deportivo Español              31       28      45                         104    114     0,912
-17. Estudiantes LP                29            102    114     0,895
-18. Talleres (Córdoba)   36                          29            37            102    114     0,895
------------------------------------------------------------------------------------
-19. Unión (Santa Fe)     36       31      27      94    114      0,825  [Relegated]
-20. Quilmes          --       --      19             19     38          0,500  [Relegated]
-   
-Liguilla Pre Libertadores tournament - 1991/1992
-Champions:
+*Relegation Table (Apertura + Clausura):
+*    Teams                          89/90    90/91   91/92   Pts.    MP.    Average
+*-----------------------------------------------------------------------------------
+* 1. River Plate                     53       45      55     153    114      1,342
+* 2. Boca Juniors      50     144         114      1,263
+* 3. Vélez Sarsfield        45                 48      135        114      1,184
+* 4. Newell's Old Boys          36                  48      44        128     114     1,123
+* 5. Independiente       36     122    114     1,070
+* 6. Racing Club             39      40             39     118    114     1,035
+* 7. Huracán                                            --      40             38      78     76     1,026
+* 8. Rosario Central                                                43              39      34           116    114     1,018
+* 9. Ferro Carril Oeste               39       38           37            114    114     1,000
+*10. San Lorenzo                                   35            45            34            114    114     1,000
+*11. Gimnasia y Esgrima LP                             39             33            41           113           114     0,991
+*12. Platense               36                              35             42           113         114            0,991
+*13. Argentinos Juniors                                         38              36           35         109           114     0,956
+*14. Deportivo Mandiyú (Corrientes)  36                              38              33          107       114            0,939
+*15. Belgrano (Córdoba)                                                  --       --      35      35     38                   0,921
+*16. Deportivo Español              31       28      45                         104    114     0,912
+*17. Estudiantes LP                29            102    114     0,895
+*18. Talleres (Córdoba)   36                          29            37            102    114     0,895
+*-----------------------------------------------------------------------------------
+*19. Unión (Santa Fe)     36       31      27      94    114      0,825  [Relegated]
+*20. Quilmes          --       --      19             19     38          0,500  [Relegated]
 
-1st. leg:
-[Jul 12]
-Newell's Old Boys       0-0   River Plate                       [at Rosario Central]
- 
-2nd. leg: 
-[Jul 19]
-River Plate             1-0   Newell's Old Boys   
-  [Medina Bello]
- 
-3rd. leg:
-[Jul 26]
-River Plate             3-2   Newell's Old Boys                 [at Córdoba]
-  [Medina Bello(2), R.Díaz]     [Martino, Lunari]
- 
- 
-Octogonal tournament:
-Quarterfinals: 
-[Jul 10]
-Deportivo Español       1-0   Racing Club                       [at Huracán]
-  [Rodriguez]
-[Jul 12]
-Boca Juniors            2-0   San Lorenzo                       [at Huracán]
-  [Latorre(2)]         (aet)
-Platense                0-1   Gimnasia y Esgrima LP             [at Independiente]
-                                [Barros Schelotto]
-Vélez Sarsfield                 1-0   Huracán                           [at Ferro Carril Oeste]
-  [Rinaldi o/g]
- 
-Semifinals: 
-[Jul 18]
-Boca Juniors            0-1   Gimnasia y Esgrima LP             [at Vélez Sarsfield]
-                                      [Guerra]
-[Jul 19]
-Vélez Sarsfield      [4]1-1[2]   Deportivo Español              [at Ferro Carril Oeste]
-  [Ortega Sánchez]              [Rodriguez]
-                       
- 
-Final: 
-[Jul 26]
-Vélez Sarsfield         3-0   Gimnasia y Esgrima(LP)            [at River Plate]
-  [Mancuso, Flores(2)]
-   
- 
-Final between loser champion and octogonal winner:
-
-[Aug 2]   
-Newell's Old Boys       1-0   Vélez Sarsfield                   [at Rosario Central]
-  [Saldaña]
- 
- 
- 
-Libertadores cup 1993: River Plate and Newell's Old Boys.
-Conmebol cup 1992: Boca Juniors, Gimnasia y Esgrima(LP) and Vélez Sarsfield.
-                   Later, Boca Juniors resigned to play and was replaced by Deportivo Español.
+*Liguilla Pre Libertadores tournament - 1991/1992
+*Champions:
+*
+*1st. leg:
+*
+*Date: 7/12/1992
+*
+*Newell's Old Boys       0-0   River Plate                       ; Rosario Central]
+* 
+*2nd. leg: 
+*
+*Date: 7/19/1992
+*
+*River Plate             1-0   Newell's Old Boys   
+*  [Medina Bello]
+* 
+*3rd. leg:
+*
+*Date: 7/26/1992
+*
+*River Plate             3-2   Newell's Old Boys                 ; Córdoba]
+*  [Medina Bello(2), R.Díaz]     [Martino, Lunari]
+* 
+* 
+*Octogonal tournament:
+*Quarterfinals: 
+*
+*Date: 7/10/1992
+*
+*Deportivo Español       1-0   Racing Club                       ; Huracán]
+*  [Rodriguez]
+*
+*Date: 7/12/1992
+*
+*Boca Juniors            2-0   San Lorenzo                       ; Huracán]
+*  [Latorre(2)]         (aet)
+*Platense                0-1   Gimnasia y Esgrima LP             ; Independiente]
+*                                [Barros Schelotto]
+*Vélez Sarsfield                 1-0   Huracán                           ; Ferro Carril Oeste]
+*  [Rinaldi o/g]
+* 
+*Semifinals: 
+*
+*Date: 7/18/1992
+*
+*Boca Juniors            0-1   Gimnasia y Esgrima LP             ; Vélez Sarsfield]
+*                                      [Guerra]
+*
+*Date: 7/19/1992
+*
+*Vélez Sarsfield      [4]1-1[2]   Deportivo Español              ; Ferro Carril Oeste]
+*  [Ortega Sánchez]              [Rodriguez]
+*                       
+* 
+*Final: 
+*
+*Date: 7/26/1992
+*
+*Vélez Sarsfield         3-0   Gimnasia y Esgrima(LP)            ; River Plate]
+*  [Mancuso, Flores(2)]
+*   
+* 
+*Final between loser champion and octogonal winner:
+*
+*8/2/1992; Newell's Old Boys      ; 1-0;   Vélez Sarsfield                   ; Rosario Central]
+*  [Saldaña]
+* 
+* 
+* 
+*Libertadores cup 1993: River Plate and Newell's Old Boys.
+*Conmebol cup 1992: Boca Juniors, Gimnasia y Esgrima(LP) and Vélez Sarsfield.
+*                   Later, Boca Juniors resigned to play and was replaced by Deportivo Español.
  
 
 *Sources: Newspaper: La Nación; Magazine: El Gráfico.

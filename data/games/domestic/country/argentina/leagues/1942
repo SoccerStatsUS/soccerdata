@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/tablesa/arg42.html
 Season: 1942
 Competition: Argentine Primera División
 
-Round: Round 1. 1                              
+Round: 1. 1                              
 Date: 4/3/1942
 
 ; Atlanta                ; 2-4;       River Plate             ; San Lorenzo de Almagro
@@ -17,7 +17,7 @@ Date: 4/5/1942
 ; Platense (VL)          ; 1-1;       Chacarita Juniors       
 ; Tigre                  ; 1-2;       Lanús   
                                                 
-Round: Round 1. 2                              
+Round: 1. 2                              
 Date: 4/18/1942
 
 ; Banfield               ; 6-4;       Tigre
@@ -29,7 +29,7 @@ Date: 4/18/1942
 ; River Plate            ; 5-0;       Lanús
 ; San Lorenzo de Almagro ; 2-1;       Huracán (BA)
                 
-Round: Round 1. 3                       
+Round: 1. 3                       
 Date: 4/25/1942
 
 ; Estudiantes LP         ; 4-1;       Ferro Carril Oeste (BA)
@@ -44,7 +44,7 @@ Date: 4/26/1942
 ; Huracán (BA)           ; 3-1;       Racing Club
 ; Platense (VL)          ; 2-0;       Banfield
                                    
-Round: Round 1. 4                       
+Round: 1. 4                       
 Date: 5/3/1942
 
 ; Banfield               ; 1-2;       Estudiantes LP
@@ -56,7 +56,7 @@ Date: 5/3/1942
 ; Racing Club            ; 1-2;       Independiente (A)
 ; San Lorenzo de Almagro ; 3-0;       Atlanta
                 
-Round: Round 1. 5                              
+Round: 1. 5                              
 Date: 5/10/1942
 
 ; Atlanta                ; 3-1;       Racing Club     
@@ -68,7 +68,7 @@ Date: 5/10/1942
 ; River Plate            ; 4-1;       Newell's Old Boys       
 ; Tigre                  ; 2-1;       Gimnasia y Esgrima LP   
                                              
-Round: Round 1. 6                              
+Round: 1. 6                              
 Date: 5/17/1942
 
 ; Banfield               ; 1-2;       Huracán (BA)    
@@ -80,7 +80,7 @@ Date: 5/17/1942
 ; Racing Club            ; 0-1;       Lanús
 ; San Lorenzo de Almagro ; 1-2;       River Plate
                 
-Round: Round 1. 7                       
+Round: 1. 7                       
 Date: 5/24/1942
 
 ; Atlanta                ; 1-2;       Ferro Carril Oeste (BA)
@@ -92,7 +92,7 @@ Date: 5/24/1942
 ; River Plate            ; 2-0;       Racing Club
 ; Tigre                  ; 3-7;       Newell's Old Boys
                                                
-Round: Round 1. 8                               
+Round: 1. 8                               
 Date: 6/7/1942
 
 ; Banfield               ; 2-2;       Atlanta 
@@ -104,7 +104,7 @@ Date: 6/7/1942
 ; Racing Club            ; 3-3;       Gimnasia y Esgrima LP   
 ; San Lorenzo de Almagro ; 3-1;       Newell's Old Boys       
                         
-Round: Round 1. 9                              
+Round: 1. 9                              
 Date: 6/14/1942
 
 ; Atlanta                ; 5-0;       Platense (VL)   
@@ -116,7 +116,7 @@ Date: 6/14/1942
 ; River Plate            ; 1-2;       Ferro Carril Oeste (BA)
 ; Tigre                  ; 2-0;       San Lorenzo de Almagro
                                        
-Round: Round 1.10                       
+Round: 1.10                       
 Date: 6/21/1942
 
 ; Banfield               ; 0-4;       River Plate
@@ -128,7 +128,7 @@ Date: 6/21/1942
 ; Platense (VL)          ; 2-0;       Lanús
 ; Racing Club            ; 2-3;       San Lorenzo de Almagro  
                                       
-Round: Round 1.11                              
+Round: 1.11                              
 Date: 6/28/1942
 
 ; Atlanta                ; 1-2;       Boca Juniors    
@@ -140,7 +140,7 @@ Date: 6/28/1942
 ; San Lorenzo de Almagro ; 4-0;       Chacarita Juniors       
 ; Tigre                  ; 2-2;       Racing Club     
                                                   
-Round: Round 1.12                              
+Round: 1.12                              
 Date: 7/5/1942
 
 ; Banfield               ; 1-3;       Newell's Old Boys       ; Lanús
@@ -152,7 +152,7 @@ Date: 7/5/1942
 ; Independiente (A)      ; 3-1;       Tigre
 ; Platense (VL)          ; 1-1;       Gimnasia y Esgrima LP
                                    
-Round: Round 1.13                       
+Round: 1.13                       
 Date: 7/19/1942
 
 ; Atlanta                ; 4-2;       Independiente (A)
@@ -164,7 +164,7 @@ Date: 7/19/1942
 ; San Lorenzo de Almagro ; 1-3;       Banfield        
 ; Tigre                  ; 1-1;       Chacarita Juniors       
                                                           
-Round: Round 1.14                              
+Round: 1.14                              
 Date: 7/26/1942
 
 ; Atlanta                ; 2-3;       Tigre   
@@ -176,7 +176,7 @@ Date: 7/26/1942
 ; Independiente (A)      ; 1-1;       Lanús   
 ; Platense (VL)          ; 1-1;       San Lorenzo de Almagro  
                                       
-Round: Round 1.15                              
+Round: 1.15                              
 Date: 8/9/1942
 
 ; Chacarita Juniors      ; 2-2;       Banfield
@@ -188,7 +188,7 @@ Date: 8/9/1942
 ; San Lorenzo de Almagro ; 2-3;       Estudiantes LP
 ; Tigre                  ; 1-1;       Ferro Carril Oeste (BA)
                                          
-Round: Round 2. 1                       
+Round: 2. 1                       
 Date: 8/16/1942
 
 ; Chacarita Juniors      ; 4-2;       Platense (VL)
@@ -200,7 +200,7 @@ Date: 8/16/1942
 ; River Plate            ; 3-1;       Atlanta
 ; San Lorenzo de Almagro ; 2-0;       Boca Juniors
                 
-Round: Round 2. 2                       
+Round: 2. 2                       
 Date: 8/23/1942
 
 ; Atlanta                ; 7-2;       Gimnasia y Esgrima LP
@@ -212,7 +212,7 @@ Date: 8/23/1942
 ; Platense (VL)          ; 1-2;       Ferro Carril Oeste (BA)
 ; Tigre                  ; 1-5;       Banfield
                                          
-Round: Round 2. 3                       
+Round: 2. 3                       
 Date: 8/30/1942
 
 ; Banfield               ; 2-2;       Platense (VL)
@@ -224,7 +224,7 @@ Date: 8/30/1942
 ; River Plate            ; 2-1;       Tigre
 ; San Lorenzo de Almagro ; 2-2;       Independiente (A)
                 
-Round: Round 2. 4                       
+Round: 2. 4                       
 Date: 9/6/1942
 
 ; Atlanta                ; 4-4;       San Lorenzo de Almagro
@@ -236,7 +236,7 @@ Date: 9/6/1942
 ; River Plate            ; 4-4;       Gimnasia y Esgrima LP
 ; Tigre                  ; 3-0;       Platense (VL)
                                             
-Round: Round 2. 5                       
+Round: 2. 5                       
 Date: 9/13/1942
 
 ; Banfield               ; 0-1;       Boca Juniors
@@ -248,7 +248,7 @@ Date: 9/13/1942
 ; Racing Club            ; 5-2;       Atlanta
 ; San Lorenzo de Almagro ; 3-0;       Lanús
                 
-Round: Round 2. 6                       
+Round: 2. 6                       
 Date: 9/20/1942
 
 ; Atlanta                ; 3-1;       Chacarita Juniors
@@ -260,7 +260,7 @@ Date: 9/20/1942
 ; River Plate            ; 1-1;       San Lorenzo de Almagro
 ; Tigre                  ; 3-4;       Estudiantes LP
                                                
-Round: Round 2. 7                       
+Round: 2. 7                       
 Date: 9/27/1942
 
 ; Banfield               ; 2-2;       Independiente (A)
@@ -272,7 +272,7 @@ Date: 9/27/1942
 ; Racing Club            ; 6-1;       River Plate
 ; San Lorenzo de Almagro ; 3-2;       Gimnasia y Esgrima LP
                 
-Round: Round 2. 8                       
+Round: 2. 8                       
 Date: 10/4/1942
 
 ; Atlanta                ; 3-1;       Banfield
@@ -284,7 +284,7 @@ Date: 10/4/1942
 ; River Plate            ; 4-0;       Chacarita Juniors
 ; Tigre                  ; 2-1;       Boca Juniors
                                         
-Round: Round 2. 9                       
+Round: 2. 9                       
 Date: 10/11/1942
 
 ; Banfield               ; 1-0;       Lanús
@@ -296,7 +296,7 @@ Date: 10/11/1942
 ; Racing Club            ; 1-1;       Newell's Old Boys
 ; San Lorenzo de Almagro ; 2-2;       Tigre
                 
-Round: Round 2.10                       
+Round: 2.10                       
 Date: 10/18/1942
 
 ; Atlanta                ; 4-2;       Estudiantes LP
@@ -308,7 +308,7 @@ Date: 10/18/1942
 ; San Lorenzo de Almagro ; 3-0;       Racing Club
 ; Tigre                  ; 1-1;       Huracán (BA)
                                            
-Round: Round 2.11                       
+Round: 2.11                       
 Date: 10/25/1942
 
 ; Banfield               ; 2-1;       Gimnasia y Esgrima LP
@@ -320,7 +320,7 @@ Date: 10/25/1942
 ; Platense (VL)          ; 2-3;       River Plate
 ; Racing Club            ; 5-2;       Tigre   
                                           
-Round: Round 2.12                              
+Round: 2.12                              
 Date: 11/1/1942
 
 ; Atlanta                ; 2-3;       Huracán (BA)    
@@ -332,7 +332,7 @@ Date: 11/1/1942
 ; San Lorenzo de Almagro ; 1-1;       Ferro Carril Oeste (BA) 
 ; Tigre                  ; 1-3;       Independiente (A)       
                                                           
-Round: Round 2.13                              
+Round: 2.13                              
 Date: 11/8/1942
 
 ; Banfield               ; 3-1;       San Lorenzo de Almagro  
@@ -350,7 +350,7 @@ Notes: River Plate won the championship in this round
 ; Independiente (A)      ; 3-2;       Atlanta                 ; Racing Club
 ; Platense (VL)          ; 1-0;       Newell's Old Boys       
 
-Round: Round 2.14                              
+Round: 2.14                              
 Date: 11/14/1942
 
 ; Chacarita Juniors      ; 2-2;       Ferro Carril Oeste (BA) 
@@ -365,7 +365,7 @@ Date: 11/15/1942
 ; River Plate            ; 1-2;       Huracán (BA)    
 ; Tigre                  ; 2-1;       Atlanta                 ; San Lorenzo de Almagro
                                                               
-Round: Round 2.15                              
+Round: 2.15                              
 Date: 11/21/1942
 
 ; Boca Juniors           ; 2-2;       Newell's Old Boys       ; San Lorenzo de Almagro

@@ -19,6 +19,14 @@ l = [
         },
 
     {
+        'name': 'Wichita Wings',
+        'founded': 1979,
+        'dissolved': 2001,
+        'city': 'Wichita, KS',
+        },
+
+
+    {
         'name': 'Wichita Blue',
         'city': 'Wichita, KS',
         'founded': 1989,

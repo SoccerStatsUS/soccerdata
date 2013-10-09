@@ -1,6 +1,8 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
+
+
 import datetime
 
 l = [
@@ -9,6 +11,37 @@ l = [
         'name': 'Saint Louis University',
         'city': 'St. Louis, MO',
         },
+
+    {
+        'name': 'Houston Baptist University',
+        'city': 'Houston, TX',
+        },
+
+    {
+        'name': 'San Jacinto College',
+        'city': 'Pasadena, TX',
+        },
+
+    {
+        'name': 'Roberts Wesleyan College',
+        'city': 'Rochester, NY',
+        },
+
+    {
+        'name': 'Vanier College',
+        'city': 'Montreal, QC',
+        },
+
+    {
+        'name': 'University of Maryland Baltimore County',
+        'city': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Judson University',
+        'city': 'Elgin, IL',
+        },
+
 
     {
         'name': 'West Chester University of Pennsylvania',
@@ -88,6 +121,11 @@ l = [
 
     {
         'name': 'Butler University',
+        'city': 'Indianapolis, IN',
+        },
+
+    {
+        'name': 'Indiana University-Purdue University Indianapolis',
         'city': 'Indianapolis, IN',
         },
 
@@ -1195,6 +1233,11 @@ l = [
        },
 
     {
+        'name': 'Hawaii Pacific University',
+        'city': 'Honolulu, HI',
+       },
+
+    {
         'name': 'Embry-Riddle',
         'city': 'Daytona Beach, FL',
        },
@@ -1381,6 +1424,11 @@ l = [
         'name': 'Colorado College',
         'city': 'Colorado Springs, CO',
        },
+
+    {
+        'name': 'University of Colorado at Colorado Springs',
+        'city': 'Colorado Springs, CO',
+       },
     {
         'name': 'Lock Haven University',
         'city': 'Lock Haven, PA',
@@ -1484,6 +1532,11 @@ l = [
         'name': 'Whittier College',
         'city': 'Whittier, PA',
        },
+
+    {
+        'name': 'Wheaton College (MA)',
+        'city': 'Norton, MA',
+       },
     {
         'name': 'Gettysburg College',
         'city': 'Gettysburg, PA',
@@ -1521,7 +1574,10 @@ l = [
         'city': 'St. Leo, FL',
        },
 
-
+    {
+        'name': 'University of California, Irvine',
+        'city': 'Irvine, CA',
+       },
 
     {
         'name': 'University of Nebraska Omaha',

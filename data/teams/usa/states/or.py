@@ -12,7 +12,7 @@ l = [
         'city': 'Portland, OR',
         },
 
-{ 
+    { 
         'name': 'Portland Timbers Reserves',
         'city': 'Portland, OR',
         },
@@ -29,6 +29,15 @@ l = [
         'city': 'Portland, OR',
         'founded': 2012,
         },
+
+
+    {
+        'name': 'Portland Pride',
+        'founded': 1993,
+        'dissolved': 1997,
+        'city': 'Portland, OR',
+        },
+
 
 
     {

@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesj/jap96.html
 Season: 1996
-Competition: J. League
+Competition: J. League Division 1
 
 *FINAL STANDINGS (9 November 1996)
 *Pos Prev Team                 Games  Won  Lst   GF-GA  Pnt
@@ -56,12 +56,14 @@ Round:  3
 
 Round:  4
 
-;Jubilo Iwata            1-1 ;(3-4); Urawa Reds               
+;Jubilo Iwata           ; 1-1 ; Urawa Reds               
+Penalty kicks: 3-4
 ;Kashiwa Reysol         ; 0-2; JEF United Ichihara      
 ;Yokohama Marinos       ; 0-1; Nagoya Grampus Eight     
 ;Bellmare Hiratsuka     ; 1-0  (aet); Kashima Antlers          
 ;Kyoto Purple Sanga     ; 0-2; Cerezo Osaka             
-;Gamba Osaka             2-2 ;(4-3); Shimizu S Pulse          
+;Gamba Osaka            ; 2-2 ; Shimizu S Pulse          
+Penalty kicks: 4-3
 ;Sanfrecce Hiroshima    ; 0-1  (aet); Yokohama Flugels         
 ;Avispa Fukuoka         ; 1-2  (aet); Verdy Kawasaki           
 
@@ -104,7 +106,8 @@ Round:  8
 ;Urawa Reds             ; 1- 0; JEF United Ichihara      
 ;Yokohama Marinos       ; 3- 0; Cerezo Osaka             
 ;Bellmare Hiratsuka     ; 0- 1  (aet); Sanfrecce Hiroshima      
-;Jubilo Iwata            2- 2 ;(4-3); Kashima Antlers          
+;Jubilo Iwata           ; 2- 2 ; Kashima Antlers          
+Penalty kicks: 4-3
 ;Nagoya Grampus Eight   ; 3- 1; Verdy Kawasaki           
 ;Gamba Osaka            ; 4- 2; Kyoto Purple Sanga       
 ;Avispa Fukuoka         ; 3- 4; Yokohama Flugels         
@@ -134,7 +137,8 @@ Round:  10
 Round:  11
 
 ;Kashiwa Reysol         ; 2- 0; Kyoto Purple Sanga       
-;Urawa Reds              0- 0 ;(4-5); Cerezo Osaka             
+;Urawa Reds             ; 0- 0 ; Cerezo Osaka             
+Penalty kicks: 4-5
 ;Verdy Kawasaki         ; 2- 1  (aet); JEF United Ichihara      
 ;Yokohama Marinos       ; 1- 2; Shimizu S Pulse          
 ;Jubilo Iwata           ; 2- 3; Yokohama Flugels         
@@ -176,6 +180,7 @@ Round:  14
 ;Urawa Reds             ; 1- 0  (aet)  ; Kyoto Purple Sanga       ; ; 50974
 
 Round:  15
+
 ;Kashiwa Reysol         ; 4- 0         ; Jubilo Iwata        ; ; 13462     
 ;Bellmare Hiratsuka     ; 5- 3         ; Urawa Reds          ; ; 12337      
 ;Cerezo Osaka           ; 0- 2         ; Gamba Osaka              ; ; 9325
@@ -189,100 +194,109 @@ Round:  15
 Round:  16 
 Date: 8/28/1996
 
-;Kashima Antlers        ; 2- 0         16,046; JEF United Ichihara      
-;Kashiwa Reysol         ; 1- 0          6,093; Gamba Osaka              
-;Yokohama Flugels       ; 1- 2         30,128; Nagoya Grampus Eight     
-;Bellmare Hiratsuka     ; 1- 4          5,539; Avispa Fukuoka           
-;Shimizu S Pulse        ; 2- 3         10,151; Urawa Reds               
-;Kyoto Purple Sanga     ; 0- 3         13,848; Yokohama Marinos         
-;Cerezo Osaka           ; 2- 4         13,069; Verdy Kawasaki           
-;Sanfrecce Hiroshima    ; 0- 3          6,585; Jubilo Iwata             
+;Kashima Antlers        ; 2- 0 ; JEF United Ichihara             16046; 
+;Kashiwa Reysol         ; 1- 0 ; Gamba Osaka                      6093; 
+;Yokohama Flugels       ; 1- 2 ; Nagoya Grampus Eight            30128; 
+;Bellmare Hiratsuka     ; 1- 4 ; Avispa Fukuoka                   5539; 
+;Shimizu S Pulse        ; 2- 3 ; Urawa Reds                      10151; 
+;Kyoto Purple Sanga     ; 0- 3 ; Yokohama Marinos                13848; 
+;Cerezo Osaka           ; 2- 4 ; Verdy Kawasaki                  13069; 
+;Sanfrecce Hiroshima    ; 0- 3 ; Jubilo Iwata                     6585; 
 
 Round:  17 
 Date: 8/31/1996
-;JEF United Ichihara    ; 1- 0   (aet)   7,469; Cerezo Osaka             
-;Urawa Reds             ; 5- 1         20,028; Sanfrecce Hiroshima      
-;Verdy Kawasaki         ; 3- 2         14,280; Yokohama Flugels         
-;Yokohama Marinos       ; 2- 1         13,978; Bellmare Hiratsuka       
-;Nagoya Grampus Eight   ; 2- 1         21,008; Shimizu S Pulse          
-;Jubilo Iwata           ; 2- 1         12,358; Kyoto Purple Sanga       
-;Gamba Osaka            ; 0- 1          8,665; Kashima Antlers          
-;Avispa Fukuoka         ; 4- 5   (aet)   7,174; Kashiwa Reysol           
+
+;JEF United Ichihara    ; 1- 0   (aet) ; Cerezo Osaka              7469; 
+;Urawa Reds             ; 5- 1         ;Sanfrecce Hiroshima      20028; 
+;Verdy Kawasaki         ; 3- 2         ;Yokohama Flugels         14280; 
+;Yokohama Marinos       ; 2- 1         ;Bellmare Hiratsuka       13978; 
+;Nagoya Grampus Eight   ; 2- 1         ;Shimizu S Pulse          21008; 
+;Jubilo Iwata           ; 2- 1         ;Kyoto Purple Sanga       12358; 
+;Gamba Osaka            ; 0- 1         ; Kashima Antlers          8665; 
+;Avispa Fukuoka         ; 4- 5   (aet) ; Kashiwa Reysol            7174; 
 
 Round:  18 
 Date: 9/7/1996
 
-;Shimizu S Pulse        ; 0- 2         15,814; Verdy Kawasaki           
-;Cerezo Osaka           ; 2- 4          6,467; Kashima Antlers          
-;Yokohama Flugels       ; 2- 0         11,103; JEF United Ichihara      
-;Bellmare Hiratsuka     ; 3- 0          8,015; Jubilo Iwata             
-;Kashiwa Reysol         ; 4- 0         11,883; Yokohama Marinos         
-;Kyoto Purple Sanga     ; 1- 0         10,088; Urawa Reds               
-;Sanfrecce Hiroshima    ; 2- 3         10,185; Nagoya Grampus Eight     
-;Avispa Fukuoka         ; 1- 0          6,596; Gamba Osaka              
+;Shimizu S Pulse        ; 0- 2     ; Verdy Kawasaki              15814; 
+;Cerezo Osaka           ; 2- 4     ; Kashima Antlers              6467; 
+;Yokohama Flugels       ; 2- 0     ; JEF United Ichihara         11103; 
+;Bellmare Hiratsuka     ; 3- 0     ; Jubilo Iwata                 8015; 
+;Kashiwa Reysol         ; 4- 0     ; Yokohama Marinos            11883; 
+;Kyoto Purple Sanga     ; 1- 0     ; Urawa Reds                  10088; 
+;Sanfrecce Hiroshima    ; 2- 3     ; Nagoya Grampus Eight        10185; 
+;Avispa Fukuoka         ; 1- 0     ; Gamba Osaka                  6596; 
 
 Round:  19 
 Date: 9/14/1996
 
-;Kashima Antlers        ; 2- 1         15,435; Yokohama Flugels         
-;JEF United Ichihara    ; 0- 1   (aet)   7,848; Shimizu S Pulse          
-;Nagoya Grampus Eight   ; 3- 0         21,181; Kyoto Purple Sanga       
-;Gamba Osaka            ; 2- 0          7,210; Cerezo Osaka             
-;Urawa Reds             ; 3- 2         17,825; Bellmare Hiratsuka       
-;Jubilo Iwata           ; 2- 3   (aet)  13,163; Kashiwa Reysol           
-;Yokohama Marinos        0- 0  ;(3-1)  10,268; Avispa Fukuoka           
-;Verdy Kawasaki         ; 5- 1         11,782; Sanfrecce Hiroshima      
+;Kashima Antlers        ; 2- 1        ; Yokohama Flugels         15435; 
+;JEF United Ichihara    ; 0- 1   (aet); Shimizu S Pulse            7848; 
+;Nagoya Grampus Eight   ; 3- 0        ; Kyoto Purple Sanga       21181; 
+;Gamba Osaka            ; 2- 0        ; Cerezo Osaka              7210; 
+;Urawa Reds             ; 3- 2        ; Bellmare Hiratsuka       17825; 
+;Jubilo Iwata           ; 2- 3   (aet); Kashiwa Reysol            13163; 
+;Yokohama Marinos       ; 0- 0  ; Avispa Fukuoka           10268; 
+Penalty kicks: 3-1
+;Verdy Kawasaki         ; 5- 1        ; Sanfrecce Hiroshima      11782; 
 
 Round:  20 
 Date: 9/21/1996
-;Shimizu S Pulse        ; 0- 2         10,673; Kashima Antlers          
-;Yokohama Flugels       ; 2- 1         10,644; Cerezo Osaka             
-;Gamba Osaka            ; 4- 5   (aet)   7,874; Yokohama Marinos         
-;Kashiwa Reysol         ; 0- 7         35,926; Urawa Reds               
-;Bellmare Hiratsuka     ; 2- 3   (aet)   7,537; Nagoya Grampus Eight     
-;Kyoto Purple Sanga     ; 2- 0         18,058; Verdy Kawasaki           
-;Avispa Fukuoka         ; 1- 3          8,287; Jubilo Iwata             
-;Sanfrecce Hiroshima    ; 3- 4          7,389; JEF United Ichihara      
+
+;Shimizu S Pulse        ; 0- 2        ; Kashima Antlers          10673; 
+;Yokohama Flugels       ; 2- 1        ; Cerezo Osaka             10644; 
+;Gamba Osaka            ; 4- 5   (aet); Yokohama Marinos           7874; 
+;Kashiwa Reysol         ; 0- 7        ; Urawa Reds               35926; 
+;Bellmare Hiratsuka     ; 2- 3   (aet); Nagoya Grampus Eight       7537; 
+;Kyoto Purple Sanga     ; 2- 0        ; Verdy Kawasaki           18058; 
+;Avispa Fukuoka         ; 1- 3        ; Jubilo Iwata              8287; 
+;Sanfrecce Hiroshima    ; 3- 4        ; JEF United Ichihara       7389; 
 
 Round:  21 
 Date: 9/28/1996
-;Urawa Reds              1- 1  ;(3-2)   5,611; Avispa Fukuoka           
-;Jubilo Iwata           ; 1- 0         14,688; Yokohama Marinos         
-;Kashima Antlers         1- 1  ;(8-9)  15,975; Sanfrecce Hiroshima      
-;JEF United Ichihara    ; 1- 0          7,142; Kyoto Purple Sanga       
-;Nagoya Grampus Eight   ; 1- 2   (aet)  21,295; Kashiwa Reysol           
-;Cerezo Osaka           ; 2- 3          8,043; Shimizu S Pulse          
-;Yokohama Flugels       ; 3- 2   (aet)   7,035; Gamba Osaka              
-;Verdy Kawasaki         ; 1- 0         27,001; Bellmare Hiratsuka       
+
+;Urawa Reds             ; 1- 1  ; Avispa Fukuoka            5611; 
+Penalty kicks: 3-2
+;Jubilo Iwata           ; 1- 0        ; Yokohama Marinos         14688; 
+;Kashima Antlers       ;  1- 1  ; Sanfrecce Hiroshima      15975; 
+Penalty kicks: 8-9
+;JEF United Ichihara    ; 1- 0        ; Kyoto Purple Sanga        7142; 
+;Nagoya Grampus Eight   ; 1- 2   (aet); Kashiwa Reysol            21295; 
+;Cerezo Osaka           ; 2- 3        ; Shimizu S Pulse           8043; 
+;Yokohama Flugels       ; 3- 2   (aet); Gamba Osaka                7035; 
+;Verdy Kawasaki         ; 1- 0        ; Bellmare Hiratsuka       27001; 
 
 Round:  22 
 Date: 10/2/1996
-;Kashiwa Reysol         ; 1- 2   (aet)  10,654; Verdy Kawasaki           
-;Yokohama Marinos       ; 0- 1         11,798; Urawa Reds               
-;Bellmare Hiratsuka     ; 0- 4          6,010; JEF United Ichihara      
-;Shimizu S Pulse        ; 4- 2         16,788; Yokohama Flugels         
-;Kyoto Purple Sanga     ; 1- 0          7,691; Kashima Antlers          
-;Gamba Osaka            ; 0- 1          5,025; Jubilo Iwata             
-;Sanfrecce Hiroshima    ; 2- 1   (aet)   5,387; Cerezo Osaka             
-;Avispa Fukuoka         ; 1- 3          7,247; Nagoya Grampus Eight     
+
+;Kashiwa Reysol         ; 1- 2   (aet); Verdy Kawasaki            10654; 
+;Yokohama Marinos       ; 0- 1        ; Urawa Reds               11798; 
+;Bellmare Hiratsuka     ; 0- 4        ; JEF United Ichihara       6010; 
+;Shimizu S Pulse        ; 4- 2        ; Yokohama Flugels         16788; 
+;Kyoto Purple Sanga     ; 1- 0        ; Kashima Antlers           7691; 
+;Gamba Osaka            ; 0- 1        ; Jubilo Iwata              5025; 
+;Sanfrecce Hiroshima    ; 2- 1   (aet); Cerezo Osaka               5387; 
+;Avispa Fukuoka         ; 1- 3        ; Nagoya Grampus Eight      7247; 
 
 Round:  23 
 Date: 10/5/1996
-;Cerezo Osaka           ; 2- 1          8,236; Kyoto Purple Sanga       
-;Kashima Antlers        ; 2- 0         15,931; Bellmare Hiratsuka       
-;JEF United Ichihara    ; 2- 3          8,600; Kashiwa Reysol           
-;Urawa Reds             ; 0- 2         20,044; Jubilo Iwata             
-;Verdy Kawasaki         ; 1- 2   (aet)  14,446; Avispa Fukuoka           
-;Shimizu S Pulse        ; 3- 2   (aet)  11,046; Gamba Osaka              
-;Yokohama Flugels       ; 2- 0          7,111; Sanfrecce Hiroshima      
-;Nagoya Grampus Eight   ; 2- 0         21,984; Yokohama Marinos         
+
+;Cerezo Osaka           ; 2- 1        ; Kyoto Purple Sanga        8236; 
+;Kashima Antlers        ; 2- 0        ; Bellmare Hiratsuka       15931; 
+;JEF United Ichihara    ; 2- 3        ; Kashiwa Reysol            8600; 
+;Urawa Reds             ; 0- 2        ; Jubilo Iwata             20044; 
+;Verdy Kawasaki         ; 1- 2   (aet); Avispa Fukuoka            14446; 
+;Shimizu S Pulse        ; 3- 2   (aet); Gamba Osaka               11046; 
+;Yokohama Flugels       ; 2- 0        ; Sanfrecce Hiroshima       7111; 
+;Nagoya Grampus Eight   ; 2- 0        ; Yokohama Marinos         21984; 
 
 Round:  24 
 Date: 10/16/1996
-;Kashiwa Reysol         ; 1- 0         12,256; Kashima Antlers          
-   [Sakai 11]
+;Kashiwa Reysol         ; 1- 0     ; Kashima Antlers             12256; 
+Sakai 11;
+
 ;Yokohama Marinos       ; 1- 3         21,870; Verdy Kawasaki           
-;   [Acosta 43  - Cerezo Osaka            ; 3- 1          5,365; Magrao 22, Bismarck 71, Kazuyoshi Miura 80]
+Acosta 43  - Cerezo Osaka            ; 3- 1          5,365; Magrao 22, Bismarck 71, Kazuyoshi Miura 80]
 Bellmare Hiratsuka     
 ;   [Noguchi 35,54 Seki 72  - Nagoya Grampus Eight    ; 0- 2         13,512; Nishizawa 49]
 Jubilo Iwata           

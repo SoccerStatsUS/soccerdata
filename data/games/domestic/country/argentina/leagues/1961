@@ -19,7 +19,7 @@ Competition: Liga Argentina de Football
 *15. Ferro Carril Oeste (BUE) 30    8    5   17    38    55   21
 *16. Los Andes (LdZ)          30   10    1   19    38    65   21 Relegated
 
-Round: Round 1 
+Round: 1 
 Date: 4/16/1961
 
 ; Atlanta                 ; 2-0; Chacarita Juniors
@@ -31,7 +31,7 @@ Date: 4/16/1961
 ; San Lorenzo de Almagro  ; 5-2; Huracán (BUE)
 ; Vélez Sarsfield         ; 0-0; Estudiantes LPG
 
-Round: Round 2 
+Round: 2 
 Date: 4/23/1961
 
 ; Argentinos Juniors      ; 1-1; Gimnasia y Esgrima LPG
@@ -43,7 +43,7 @@ Date: 4/23/1961
 ; Independiente (Ave)     ; 3-3; Lanús                    ; Racing Club
 ; Los Andes (LdZ)         ; 0-0; Rosario Central          ; Quilmes
 
-Round: Round 3 
+Round: 3 
 Date: 4/30/1961
 
 ; Atlanta                 ; 4-2; Huracán (BUE)
@@ -55,7 +55,7 @@ Date: 4/30/1961
 ; San Lorenzo de Almagro  ; 1-4; Argentinos Juniors
 ; Vélez Sarsfield         ; 2-2; Ferro Carril Oeste (BUE)
 
-Round: Round 4 
+Round: 4 
 Date: 5/7/1961
 
 ; Argentinos Juniors      ; 2-5; Rosario Central
@@ -67,7 +67,7 @@ Date: 5/7/1961
 ; Independiente (Ave)     ; 1-1; River Plate              ; Racing Club
 ; Lanús                   ; 0-1; Atlanta
 
-Round: Round 5 
+Round: 5 
 Date: 5/14/1961
 
 ; Atlanta                 ; 1-1; River Plate
@@ -79,7 +79,7 @@ Date: 5/14/1961
 ; San Lorenzo de Almagro  ; 1-0; Chacarita Juniors
 ; Vélez Sarsfield         ; 3-1; Lanús
 
-Round: Round 6 
+Round: 6 
 Date: 5/21/1961
 
 ; Argentinos Juniors      ; 0-3; Boca Juniors             ; Atlanta
@@ -91,7 +91,7 @@ Date: 5/21/1961
 ; Lanús                   ; 2-2; San Lorenzo de Almagro
 ; River Plate             ; 1-0; Vélez Sarsfield
 
-Round: Round 7 
+Round: 7 
 Date: 5/28/1961
 
 ; Argentinos Juniors      ; 0-1; Independiente (Ave)
@@ -103,7 +103,7 @@ Date: 5/28/1961
 ; San Lorenzo de Almagro  ; 1-3; River Plate
 ; Vélez Sarsfield         ; 1-3; Atlanta
 
-Round: Round 8 
+Round: 8 
 Date: 6/8/1961
 
 ; Atlanta                 ; 1-2; San Lorenzo de Almagro
@@ -115,7 +115,7 @@ Date: 6/8/1961
 ; Lanús                   ; 1-4; Racing Club
 ; River Plate             ; 0-1; Gimnasia y Esgrima LPG
 
-Round: Round 9 
+Round: 9 
 Date: 7/16/1961
 
 ; Argentinos Juniors      ; 2-1; Huracán (BUE)
@@ -127,7 +127,7 @@ Date: 7/16/1961
 ; Rosario Central         ; 1-1; Lanús
 ; San Lorenzo de Almagro  ; 3-1; Vélez Sarsfield
 
-Round: Round 10 
+Round: 10 
 Date: 7/23/1961
 
 ; Atlanta                 ; 1-1; Racing Club
@@ -139,7 +139,7 @@ Date: 7/23/1961
 ; River Plate             ; 4-2; Rosario Central
 ; Vélez Sarsfield         ; 1-1; Gimnasia y Esgrima LPG
 
-Round: Round 11 
+Round: 11 
 Date: 7/30/1961
 
 ; Argentinos Juniors      ; 0-1; Chacarita Juniors
@@ -151,7 +151,7 @@ Date: 7/30/1961
 ; Racing Club             ; 1-1; Vélez Sarsfield
 ; Rosario Central         ; 1-3; Atlanta
 
-Round: Round 12 
+Round: 12 
 Date: 8/6/1961
 
 ; Atlanta                 ; 4-0; Los Andes (LdZ)
@@ -163,7 +163,7 @@ Date: 8/6/1961
 ; San Lorenzo de Almagro  ; 2-2; Racing Club
 ; Vélez Sarsfield         ; 2-2; Rosario Central
 
-Round: Round 13 
+Round: 13 
 Date: 8/13/1961
 
 ; Argentinos Juniors      ; 1-1; River Plate              ; Atlanta
@@ -175,7 +175,7 @@ Date: 8/13/1961
 ; Racing Club             ; 1-0; Gimnasia y Esgrima LPG
 ; Rosario Central         ; 4-0; San Lorenzo de Almagro
 
-Round: Round 14 
+Round: 14 
 Date: 8/20/1961
 
 ; Atlanta                 ; 1-2; Argentinos Juniors
@@ -187,7 +187,7 @@ Date: 8/20/1961
 ; San Lorenzo de Almagro  ; 2-1; Los Andes (LdZ)
 ; Vélez Sarsfield         ; 1-1; Boca Juniors
 
-Round: Round 15:
+Round: 15
 Date: 8/15/1961
 
 ; Huracán (BUE)           ; 0-0; River Plate
@@ -202,7 +202,7 @@ Date: 8/27/1961
 ; Los Andes (LdZ)         ; 2-1; Gimnasia y Esgrima LPG   ; Banfield
 ; Rosario Central         ; 3-3; Racing Club
 
-Round: Round 16 
+Round: 16 
 Date: 9/3/1961
 
 ; Argentinos Juniors      ; 0-3; San Lorenzo de Almagro
@@ -214,7 +214,7 @@ Date: 9/3/1961
 ; Independiente (Ave)     ; 3-2; Rosario Central
 ; Los Andes (LdZ)         ; 0-3; Racing Club              ; Banfield
 
-Round: Round 17 
+Round: 17 
 Date: 9/10/1961
 
 ; Atlanta                 ; 1-1; Estudiantes LPG
@@ -226,7 +226,7 @@ Date: 9/10/1961
 ; San Lorenzo de Almagro  ; 2-1; Ferro Carril Oeste (BUE)
 ; Vélez Sarsfield         ; 0-1; Huracán (BUE)
 
-Round: Round 18 
+Round: 18 
 Date: 9/17/1961
 
 ; Argentinos Juniors      ; 0-1; Racing Club              ; Atlanta
@@ -238,7 +238,7 @@ Date: 9/17/1961
 ; Independiente (Ave)     ; 2-1; Los Andes (LdZ)
 ; Lanús                   ; 1-1; River Plate
 
-Round: Round 19 
+Round: 19 
 Date: 9/24/1961
 
 ; Atlanta                 ; 3-2; Lanús
@@ -250,7 +250,7 @@ Date: 9/24/1961
 ; San Lorenzo de Almagro  ; 3-0; Estudiantes LPG
 ; Vélez Sarsfield         ; 3-0; Chacarita Juniors
 
-Round: Round 20 
+Round: 20 
 Date: 10/1/1961
 
 ; Argentinos Juniors      ; 2-1; Los Andes (LdZ)
@@ -262,7 +262,7 @@ Date: 10/1/1961
 ; Lanús                   ; 1-0; Vélez Sarsfield
 ; River Plate             ; 1-1; Atlanta
 
-Round: Round 21 
+Round: 21 
 Date: 10/8/1961
 
 ; Atlanta                 ; 4-2; Independiente (Ave)
@@ -274,7 +274,7 @@ Date: 10/8/1961
 ; San Lorenzo de Almagro  ; 3-0; Lanús
 ; Vélez Sarsfield         ; 2-1; River Plate
 
-Round: Round 22 
+Round: 22 
 Date: 10/15/1961
 
 ; Atlanta                 ; 2-2; Vélez Sarsfield
@@ -286,7 +286,7 @@ Date: 10/15/1961
 ; Lanús                   ; 3-1; Gimnasia y Esgrima LPG
 ; River Plate             ; 0-1; San Lorenzo de Almagro
 
-Round: Round 23 
+Round: 23 
 Date: 10/22/1961
 
 ; Argentinos Juniors      ; 1-3; Ferro Carril Oeste (BUE)
@@ -298,7 +298,7 @@ Date: 10/22/1961
 ; San Lorenzo de Almagro  ; 0-0; Atlanta
 ; Vélez Sarsfield         ; 3-1; Independiente (Ave)
 
-Round: Round 24: 
+Round: 24 
 Date: 10/29/1961
 
 *; Atlanta                  abd Gimnasia y Esgrima LPG   
@@ -316,7 +316,7 @@ Date: 11/10/1961
 ; Atlanta                 ; 2-1; Gimnasia y Esgrima LPG   
 *[remaining 33] 
 
-Round: Round 25
+Round: 25
 Date: 10/31/1961
 
 ; Boca Juniors            ; 6-0; Chacarita Juniors
@@ -331,7 +331,7 @@ Date: 11/1/1961
 ; Rosario Central         ; 2-4; River Plate
 ; San Lorenzo de Almagro  ; 0-1; Independiente (Ave)
  
-Round: Round 26 
+Round: 26 
 Date: 11/5/1961
 
 ; Atlanta                 ; 3-1; Rosario Central
@@ -343,7 +343,7 @@ Date: 11/5/1961
 ; San Lorenzo de Almagro  ; 4-1; Gimnasia y Esgrima LPG
 ; Vélez Sarsfield         ; 0-1; Racing Club
 
-Round: Round 27 
+Round: 27 
 Date: 11/12/1961
 
 ; Argentinos Juniors      ; 5-2; Lanús
@@ -363,7 +363,7 @@ San Lorenzo de Almagro: Vladimir Tarnawsky; Humberto Indalecio Cancino, Silvio R
 Notes: Racing Club won the championship in this round
 
 
-Round: Round 28:
+Round: 28
 Date: 11/21/1961
 
 ; River Plate            ; 3-0; Argentinos Juniors
@@ -378,7 +378,7 @@ Date: 11/22/1961
 ; San Lorenzo de Almagro ; 4-1; Rosario Central
 ; Vélez Sarsfield        ; 3-1; Los Andes (LdZ)
 
-Round: Round 29 
+Round: 29 
 Date: 11/26/1961
 
 ; Argentinos Juniors     ; 1-1; Atlanta
@@ -390,7 +390,7 @@ Date: 11/26/1961
 ; Racing Club            ; 1-1; Independiente (Ave)
 ; Rosario Central        ; 4-3; Gimnasia y Esgrima LPG
 
-Round: Round 30:
+Round: 30
 Date: 12/1/1961
 
 ; River Plate            ; 1-0; Huracán (BUE)

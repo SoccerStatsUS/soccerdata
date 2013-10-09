@@ -8,7 +8,11 @@ def load_competitions():
 
     def helper(line):
         fields = [e.strip() for e in line.split(';')]
-        name, abbreviation, code, international, ctype, level, scope, area = fields
+
+        try:
+            name, abbreviation, code, international, ctype, level, scope, area = fields
+        except:
+            print(line)
 
         ib =  (international.strip() == 'international')
 

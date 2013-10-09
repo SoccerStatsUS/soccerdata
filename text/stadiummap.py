@@ -1,12 +1,6 @@
 import datetime
 import os
 
-
-
-# This is not exactly the right place to have this.
-# But not sure I should put it somewhere else.
-from data.alias import get_stadium, get_team
-
 p = '/home/chris/www/soccerdata/data/mappings/team_stadium'
 
 
@@ -71,8 +65,8 @@ def process_stadium_map_file(p):
             end = correct_date(end, start=False)
 
             nm.append({
-                    'team': get_team(team),
-                    'stadium': get_stadium(stadium.strip()),
+                    'team': team,
+                    'stadium': stadium.strip(),
                     'start': start,
                     'end': end,
                     })

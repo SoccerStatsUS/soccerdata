@@ -292,7 +292,7 @@ def process_apsl_stats():
         t.process_stat_line(line)
 
     # Just rosters.
-    p = os.path.join(DIR, "rosters", "apsl")
+    p = os.path.join(DIR, "rosters/domestic/apsl")
     f = open(p)
     for line in f:
         t.process_roster_line(line)

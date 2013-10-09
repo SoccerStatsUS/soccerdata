@@ -1,8 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesa/arg06.html
 Competition: Liga Argentina de Football
-Season: 2005 Apertura
-*Torneo Apertura "Gillette Prestobarba Excel" 2005
- 
+Season: 2005-2006 Apertura
+home-first
+
+*Torneo Apertura "Gillette Prestobarba Excel" 2005 
 * 1.Boca Juniors                   19  12  4  3  36-17  40  (Buenos Aires)
 * 2.Gimnasia y Esgrima (La Plata)  19  11  4  4  28-19  37  (Buenos Aires)
 * 3.Vélez Sarsfield                19  10  3  6  26-16  33  (Buenos Aires)
@@ -129,7 +130,7 @@ Date: 8/21/2005
 ; San Lorenzo de Almagro ; 1-1; Independiente
   Montillo; Frutos
 
-; Instituto ´            ; 0-0; Olimpo
+; Instituto  ; 0-0; Olimpo
 
 Round: 4
 Date: 8/26/2005
@@ -211,7 +212,7 @@ Date: 9/9/2005
 Date: 9/10/2005
 
 ; Rosario Central        ; 0-4; San Lorenzo de Almagro
-;  Ariel Pereyra, Ariel Pereyra; José Cardozo, Jose Cardozo
+;  Ariel Pereyra, Ariel Pereyra, José Cardozo, Jose Cardozo
 
 ; Vélez Sarsfield        ; 1-0; Tiro Federal
   Lucas Castromán;
@@ -313,7 +314,8 @@ Date: 9/25/2005
   Víctor Píriz Álvez; Gastón Galván
 
 Round: 9
-Date: 9/31/2005
+*Date: 9/31/2005
+Date: 9/30/2005
 
 ; Newell's Old Boys      ; 3-2; Estudiantes 
   Fernando Belluschi, Fernando Belluschi, Ignacio Scocco; Mariano Pavone, José Calderón
@@ -680,13 +682,13 @@ Date: 12/11/2005
 ; Gimnasia y Esgrima (LP); 0-0; Newell's Old Boys
 
 ; Boca Juniors           ; 2-0; Independiente
-  Martín Palermo; Federico Insúa;
+  Martín Palermo, Federico Insúa;
 
 Round: 19
 Date: 12/9/2005
 
 ; Vélez Sarsfield        ; 2-2; Instituto
-  Mauro Zárate; Leandro Somoza (pk); Gastón Caprari, Hugo Barrientos
+  Mauro Zárate, Leandro Somoza (pk); Gastón Caprari, Hugo Barrientos
 
 Date: 12/10/2005
 
@@ -770,7 +772,7 @@ Date: 12/14/2005
 
 
 *Torneo Clausura "Gillette Prestobarba Excel" 2006
-Season: 2006 Clausura
+Season: 2005-2006 Clausura
  
 *Final Table:
 * 1.Boca Juniors                   19  13  4  2  37-12  43  (Buenos Aires)
@@ -870,7 +872,7 @@ Round: 3
 Date: 2/3/2006
 
 ; Estudiantes            ; 2-2; Argentinos Juniors
-  Mariano Pavone, José Calderón; Franco Niell, Agustin Alayes-og
+  Mariano Pavone, José Calderón; Franco Niell, Agustin Alayes (og)
 
 ; Vélez Sarsfield        ; 2-1; Gimnasia y Esgrima (LP)
   Claudio Enría, Leandro Somoza; Roberto Cornejo
@@ -1017,8 +1019,7 @@ Round: 7
 Date: 2/28/2006
 
 ; Colón                  ; 4-2; Banfield
-  Germán Denis, German Denis, Franco Cángele, Cristian Zurita; Gastón Galván,
-   José Sand
+  Germán Denis, German Denis, Franco Cángele, Cristian Zurita; Gastón Galván, José Sand
 
 ; Olimpo                 ; 3-0; Racing Club
   Javier Páez, Ezequiel Maggiolo, Jesús Méndez;

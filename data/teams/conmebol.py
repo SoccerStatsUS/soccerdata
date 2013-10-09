@@ -12,6 +12,33 @@ l = [
         },
 
     {
+        'name': 'XV de Piracicaba',
+        'founded': datetime.datetime(1913, 11, 15),
+        'city': 'Piracicaba, Brazil',
+        },
+
+
+    {
+        'name': 'Ferroviária',
+        'founded': 1950,
+        'city': 'Araquara, Brazil',
+        },
+
+
+    {
+        'name': 'Portuguesa (Sao Paulo)',
+        'founded': datetime.datetime(1920, 8, 14),
+        'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Sportivo Barracas',
+        'founded': datetime.datetime(1913, 10, 30),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+
+    {
         'name': 'Barra da Tijuca',
         'founded': datetime.datetime(1993, 10, 28),
         'city': 'Rio de Janeiro, Brazil',
@@ -21,6 +48,12 @@ l = [
         'name': 'XV de Piracicaba',
         'founded': datetime.datetime(1913, 11, 15),
         'city': 'Piracicaba, Brazil',
+        },
+
+    {
+        'name': 'XV de Jaú',
+        'founded': 1924,
+        'city': 'Jau, Brazil',
         },
 
     {
@@ -95,10 +128,48 @@ l = [
         'city': 'Tulua, Colombia',
         },
 
+    # Argentina
+
     {
         'name': 'Atlético Tucumán',
         'founded': datetime.datetime(1902, 9, 27),
         'city': 'San Miguel de Tucumán, Argentina',
+        },
+
+    {
+        'name': 'Temperley',
+        'founded': datetime.datetime(1912, 11, 1),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Olimpo',
+        'founded': datetime.datetime(1910, 10, 15),
+        'city': 'Bahia Blanca, Argentina',
+        },
+
+    {
+        'name': 'San Martín de Tucumán',
+        'founded': datetime.datetime(1909, 11, 2),
+        'city': 'San Miguel de Tucumán, Argentina',
+        },
+
+    {
+        'name': 'San Martín de San Juan',
+        'founded': datetime.datetime(1907, 9, 27),
+        'city': 'San Juan, Argentina',
+        },
+
+    {
+        'name': 'All Boys',
+        'founded': datetime.datetime(1913, 3, 15),
+        'city': 'Floresta, Buenos Aires',
+        },
+
+    {
+        'name': 'Nueva Chicago',
+        'founded': datetime.datetime(1911, 7, 1),
+        'city': 'Buenos Aires, Argentina',
         },
 
     {
@@ -430,6 +501,60 @@ l = [
         'founded': datetime.datetime(1905, 5, 5),
         'city': 'Santa Fe, Argentina',
         },
+
+    {
+        'name': 'Atlético de Rafaela',
+        'founded': datetime.datetime(1907, 1, 13),
+        'city': 'Rafaela, Argentina',
+        },
+
+    {
+        'name': 'Huracán de Tres Arroyos',
+        'founded': datetime.datetime(1923, 1, 3),
+        'city': 'Tres Arroyos, Argentina',
+        },
+
+    {
+        'name': 'San Martín de Mendoza',
+        'founded': datetime.datetime(1927, 12, 22),
+        'city': 'San Martin, Argentina',
+        },
+
+    {
+        'name': 'Chaco For Ever',
+        'founded': datetime.datetime(1913, 7, 27),
+        'city': 'Resistencia, Argentina',
+        },
+
+    {
+        'name': 'Club Deportivo Mandiyú',
+        'founded': datetime.datetime(1952, 12, 14),
+        'city': 'Corrientes, Argentina',
+        },
+
+    {
+        'name': 'Deportivo Armenio',
+        'founded': datetime.datetime(1962, 11, 2),
+        'city': 'Ingeniero Maschwitz, Argentina',
+        },
+
+    {
+        'name': 'Racing de Córdoba',
+        'founded': datetime.datetime(1924, 12, 14),
+        'city': 'Cordoba, Argentina',
+        },
+
+    {
+        'name': 'Sportivo Italiano',
+        'founded': datetime.datetime(1955, 5, 7),
+        'city': 'Ciudad Evita, Argentina',
+        },
+
+    {
+        'name': 'Huracán Corrientes',
+        'founded': datetime.datetime(1918, 5, 28),
+        'city': 'Corrientes, Argentina',
+        },
     {
         'name': 'Estudiantes de Mérida',
         'founded': datetime.datetime(1971, 4, 4),
@@ -444,7 +569,7 @@ l = [
     {
         'name': 'Sampaio Corrêa',
         'founded': datetime.datetime(1923, 3, 25),
-        'city': 'Sao Luis , Brazil',
+        'city': 'Sao Luis, Brazil',
         },
 
     {
@@ -649,6 +774,20 @@ l = [
         },
 
     {
+        'name': 'Gimnasia y Esgrima de Jujuy',
+        'founded': datetime.datetime(1931, 3, 18),
+        'city': 'San Salvador de Jujuy, Argentina',
+        },
+
+
+    {
+        'name': 'Gimnasia y Esgrima Buenos Aires',
+        'founded': datetime.datetime(1880, 11, 11),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+
+    {
         'name': 'Alianza Atlético',
         'founded': 1920,
         'city': 'Sullana, Peru',
@@ -728,6 +867,18 @@ l = [
         'name': 'Argentinos Juniors',
         'founded': datetime.datetime(1904, 8, 15),
         'city': 'Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Instituto',
+        'founded': datetime.datetime(1918, 8, 8),
+        'city': 'Cordoba, Argentina',
+        },
+
+    {
+        'name': 'Unión de Santa Fe',
+        'founded': datetime.datetime(1907, 4, 15),
+        'city': 'Santa Fe, Argentina',
         },
 
     {
@@ -873,12 +1024,6 @@ l = [
     {
         'name': 'Talleres de Remedios de Escalada',
         'founded': datetime.datetime(1906, 6, 1),
-        'city': 'Buenos Aires, Argentina',
-        },
-
-    {
-        'name': 'Gimnasia y Esgrima Buenos Aires',
-        'founded': datetime.datetime(1880, 11, 11),
         'city': 'Buenos Aires, Argentina',
         },
 
@@ -1049,7 +1194,7 @@ l = [
     {
         'name': 'Tigre',
         'founded': datetime.datetime(1902, 8, 3),
-        'city': 'Buenos Airse, Argentina',
+        'city': 'Buenos Aires, Argentina',
         },
     {
         'name': 'Club Destroyers',
@@ -1470,9 +1615,6 @@ l = [
         'city': 'Belo Horizonte, Brazil',
         },
 
-
-
-
     {
         'name': 'ESPOLI',
         'founded': datetime.datetime(1986, 2, 5),
@@ -1541,6 +1683,12 @@ l = [
         'founded': datetime.datetime(1895, 11, 17),
         'city': 'Rio de Janerio, Brazil',
         },
+
+    {
+        'name': 'AA Flamengo',
+        'founded': datetime.datetime(1954, 6, 1),
+        'city': 'Guarulhos, Brazil',
+        },
     {
         'name': 'Figueirense',
         'founded': datetime.datetime(1921, 6, 12),
@@ -1575,6 +1723,12 @@ l = [
         'name': 'Santos FC',
         'founded': datetime.datetime(1912, 4, 14),
         'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Portuguesa Santista',
+        'founded': datetime.datetime(1917, 11, 20),
+        'city': 'Santos, Brazil',
         },
 
     {

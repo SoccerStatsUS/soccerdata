@@ -5,35 +5,15 @@ import datetime
 
 l = [
 
+    # Division 1
 
 
-    # Separate other Boston, Bridgeport teams from 1929, 1930.
     {
-        'name': 'Boston Bears',
-        'founded': 1931,
-        'dissolved': 1932,
+        'name': 'Boston Beaneaters',
+        'founded': 1894,
+        'dissolved': 1894,
         'city': 'Boston, MA',
         },
-
-
-    # Need to disambiguate Fall River United, which existed in 1933-1934
-    {
-        'name': 'Fall River Rovers',
-        'founded': 1884,
-        'dissolved': 1922,
-        'city': 'Fall River, MA',
-        },
-
-    {
-        'name': 'Bowenville Globes',
-        'city': 'Fall River, MA',
-        },
-
-    {
-        'name': 'Fall River Oaks',
-        'city': 'Fall River, MA',
-        },
-
 
     {
         'name': 'Fall River Marksmen',
@@ -58,8 +38,6 @@ l = [
         'city': 'Boston, MA',
         },
 
-
-
     {
         'name': 'Shawsheen Indians',
         'founded': 1923,
@@ -74,6 +52,24 @@ l = [
         'city': 'Springfield, MA',
         },
 
+
+
+    {
+        'name': 'Boston Beacons',
+        'founded': 1968,
+        'dissolved': 1968,
+        'city': 'Boston, MA',
+        },
+
+
+
+    {
+        'name': 'Boston Minutemen',
+        'founded': 1974,
+        'dissolved': 1976,
+        'city': 'Boston, MA',
+        },
+
     {
         'name': 'New England Revolution',
         'founded': 1995,
@@ -83,6 +79,44 @@ l = [
 { 
         'name': 'New England Revolution Reserves',
         'city': 'Boston, MA',
+        },
+
+
+
+
+
+    # Separate other Boston, Bridgeport teams from 1929, 1930.
+    {
+        'name': 'Boston Bears',
+        'founded': 1931,
+        'dissolved': 1932,
+        'city': 'Boston, MA',
+        },
+
+
+    # Need to disambiguate Fall River United, which existed in 1933-1934
+    {
+        'name': 'Fall River Rovers',
+        'founded': 1884,
+        'dissolved': 1922,
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Bowenville Globes',
+        'city': 'Fall River, MA',
+        },
+
+    # women
+    {
+        'name': 'New England Mutiny',
+        'city': 'Agawam, MA',
+        'founded': 1999,
+        },
+
+    {
+        'name': 'Fall River Oaks',
+        'city': 'Fall River, MA',
         },
 
 
@@ -127,6 +161,16 @@ l = [
     {
         'name': 'Abbot Worsted',
         'city': 'Forge Village, MA',
+        },
+
+    {
+        'name': 'Fore River Rovers',
+        'city': 'Fore River, MA',
+        },
+
+    {
+        'name': 'Fall River Pan Americans',
+        'city': 'Fall River, MA',
         },
 
     {

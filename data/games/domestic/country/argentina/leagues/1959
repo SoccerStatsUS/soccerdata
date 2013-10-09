@@ -19,7 +19,7 @@ Competition: Liga Argentina de Football
 *15. Rosario Central         30    8    7   15    38    50   23
 *16. Central Córdoba (R)     30    7    7   16    32    66   21
 
-Round: Round 1 
+Round: 1 
 Date: 5/3/1959
 
 ; Atlanta                 ; 3-1;  Racing Club
@@ -31,7 +31,7 @@ Date: 5/3/1959
 ; Lanús                   ; 2-2;  River Plate
 ; Rosario Central         ; 0-0;  Newell's Old Boys
 
-Round: Round 2:
+Round: 2
 Date: 5/9/1959
 
 ; Central Córdoba (R)     ; 2-1;  Gimnasia y Esgrima LP
@@ -55,7 +55,7 @@ Date: 5/13/1959
 ; Racing Club             ; 4-0;  Ferro Carril Oeste (BA)
 ; Vélez Sarsfield         ; 1-0;  Atlanta
 
-Round: Round 3:
+Round: 3
 Date: 5/17/1959
 
 ; Rosario Central         ; 2-1;  Estudiantes LP
@@ -76,7 +76,7 @@ Date: 5/20/1959
 ; Lanús                   ; 4-1;  Argentinos Juniors
 ; Vélez Sarsfield         ; 0-1;  Racing Club
 
-Round: Round 4 
+Round: 4 
 Date: 5/24/1959
 
 ; Argentinos Juniors      ; 5-0;  Rosario Central
@@ -88,7 +88,7 @@ Date: 5/24/1959
 ; River Plate             ; 2-1;  Gimnasia y Esgrima LP
 ; San Lorenzo de Almagro  ; 1-0;  Vélez Sarsfield
 
-Round: Round 5:
+Round: 5
 Date: 5/28/1959
 
 ; Atlanta                 ; 1-0;  Newell's Old Boys
@@ -105,7 +105,7 @@ Date: 5/28/1959
 ; Gimnasia y Esgrima LP   ; 1-2;  Estudiantes LP          ; Quilmes
 Notes: remaining 60
 
-Round: Round 6 
+Round: 6 
 Date: 5/31/1959
 
 ; Argentinos Juniors      ; 1-1;  Gimnasia y Esgrima LP
@@ -117,7 +117,7 @@ Date: 5/31/1959
 ; Racing Club             ; 3-1;  Lanús
 ; River Plate             ; 1-0;  Atlanta
 
-Round: Round 7 
+Round: 7 
 Date: 6/7/1959
 
 ; Atlanta                 ; 2-0;  Estudiantes LP
@@ -129,7 +129,7 @@ Date: 6/7/1959
 ; San Lorenzo de Almagro  ; 2-1;  Newell's Old Boys
 ; Vélez Sarsfield         ; 1-2;  River Plate
 
-Round: Round 8 
+Round: 8 
 Date: 6/14/1959
 
 ; Argentinos Juniors      ; 2-2;  Atlanta
@@ -141,7 +141,7 @@ Date: 6/14/1959
 ; Racing Club             ; 4-0;  Rosario Central
 ; River Plate             ; 1-2;  San Lorenzo de Almagro
 
-Round: Round 9:
+Round: 9
 Date: 6/20/1959
 
 ; Newell's Old Boys       ; 1-0;  Racing Club
@@ -159,7 +159,7 @@ Date: 6/24/1959
 
 ; Central Córdoba (R)     ; 1-0;  River Plate             ; Newell's Old Boys
 
-Round: Round 10 
+Round: 10 
 Date: 6/28/1959
 
 ; Argentinos Juniors      ; 3-1;  San Lorenzo de Almagro  ; Boca Juniors
@@ -171,7 +171,7 @@ Date: 6/28/1959
 ; River Plate             ; 1-2;  Newell's Old Boys
 ; Rosario Central         ; 6-2;  Gimnasia y Esgrima LP
 
-Round: Round 11:
+Round: 11
 Date: 7/4/1959
 
 ; Central Córdoba (R)     ; 0-0;  Argentinos Juniors
@@ -186,7 +186,7 @@ Date: 7/5/1959
 ; San Lorenzo de Almagro  ; 5-3;  Ferro Carril Oeste (BA)
 ; Vélez Sarsfield         ; 1-2;  Huracán (BA)
 
-Round: Round 12:
+Round: 12
 Date: 7/19/1959
 
 ; Rosario Central         ; 0-0;  Atlanta
@@ -201,7 +201,7 @@ Date: 7/26/1959
 ; Lanús                   ; 2-2;  Vélez Sarsfield
 ; Racing Club             ; 2-3;  Gimnasia y Esgrima LP
 
-Round: Round 13:
+Round: 13
 Date: 8/1/1959
 
 ; Newell's Old Boys       ; 2-2;  Ferro Carril Oeste (BA)
@@ -216,7 +216,7 @@ Date: 8/2/1959
 ; San Lorenzo de Almagro  ; 4-2;  Lanús
 ; Vélez Sarsfield         ; 4-2;  Rosario Central
 
-Round: Round 14 
+Round: 14 
 Date: 8/9/1959
 
 ; Argentinos Juniors      ; 3-1;  Estudiantes LP
@@ -228,7 +228,7 @@ Date: 8/9/1959
 ; Racing Club             ; 1-3;  Independiente (A)
 ; Rosario Central         ; 1-1;  San Lorenzo de Almagro
 
-Round: Round 15:
+Round: 15
 Date: 8/16/1959
 
 ; Estudiantes LP          ; 2-4;  Ferro Carril Oeste (BA)
@@ -243,7 +243,7 @@ Date: 8/17/1959
 ; Atlanta                 ; 1-1;  Independiente (A)       ; Huracán (BA)
 ; Central Córdoba (R)     ; 2-1;  Rosario Central
 
-Round: Round 16 
+Round: 16 
 Date: 8/23/1959
 
 ; Argentinos Juniors      ; 0-1;  Ferro Carril Oeste (BA)
@@ -255,7 +255,7 @@ Date: 8/23/1959
 ; San Lorenzo de Almagro  ; 3-2;  Gimnasia y Esgrima LP
 ; Vélez Sarsfield         ; 1-1;  Independiente (A)
 
-Round: Round 17 
+Round: 17 
 Date: 8/30/1959
 
 ; Atlanta                 ; 2-1;  Vélez Sarsfield         ; River Plate
@@ -267,7 +267,7 @@ Date: 8/30/1959
 ; Lanús                   ; 2-3;  Estudiantes LP
 ; Rosario Central         ; 1-2;  River Plate
 
-Round: Round 18:
+Round: 18
 Date: 9/5/1959
 
 ; Newell's Old Boys       ; 3-0;  Gimnasia y Esgrima LP
@@ -282,7 +282,7 @@ Date: 9/6/1959
 ; River Plate             ; 2-3;  Boca Juniors
 ; San Lorenzo de Almagro  ; 1-0;  Atlanta
 
-Round: Round 19 
+Round: 19 
 Date: 9/13/1959
 
 ; Atlanta                 ; 3-2;  Central Córdoba (R)     ; Platense (VL)
@@ -294,7 +294,7 @@ Date: 9/13/1959
 ; Rosario Central         ; 2-0;  Argentinos Juniors
 ; Vélez Sarsfield         ; 1-1;  San Lorenzo de Almagro
 
-Round: Round 20 
+Round: 20 
 Date: 9/20/1959
 
 ; Argentinos Juniors      ; 3-1;  Boca Juniors
@@ -306,7 +306,7 @@ Date: 9/20/1959
 ; Racing Club             ; 2-1;  San Lorenzo de Almagro
 ; River Plate             ; 1-0;  Independiente (A)
 
-Round: Round 21 
+Round: 21 
 Date: 9/27/1959
 
 ; Atlanta                 ; 1-0;  River Plate             ; Huracán (BA)
@@ -318,7 +318,7 @@ Date: 9/27/1959
 ; San Lorenzo de Almagro  ; 4-0;  Central Córdoba (R)
 ; Vélez Sarsfield         ; 2-2;  Newell's Old Boys
 
-Round: Round 22 
+Round: 22 
 Date: 10/4/1959
 
 ; Argentinos Juniors      ; 1-1;  Independiente (A)
@@ -330,7 +330,7 @@ Date: 10/4/1959
 ; Racing Club             ; 6-2;  Central Córdoba (R)
 ; River Plate             ; 3-2;  Vélez Sarsfield
 
-Round: Round 23:
+Round: 23
 Date: 10/11/1959
 
 ; Central Córdoba (R)     ; 2-1;  Newell's Old Boys
@@ -348,7 +348,7 @@ Date: 10/15/1959
 ; Atlanta                 ; 2-0;  Argentinos Juniors      ; Huracán (BA)
 ; Vélez Sarsfield         ; 1-1;  Estudiantes LP
 
-Round: Round 24:
+Round: 24
 Date: 10/17/1959
 
 ; Rosario Central         ; 2-1;  Boca Juniors
@@ -363,7 +363,7 @@ Date: 10/18/1959
 ; Racing Club             ; 4-2;  Newell's Old Boys
 ; River Plate             ; 2-0;  Central Córdoba (R)
  
-Round: Round 25:
+Round: 25
 Date: 10/24/1959
 
 ; Gimnasia y Esgrima LP   ; 3-1;  Rosario Central
@@ -387,7 +387,7 @@ Date: 10/28/1959
 ; Independiente (A)       ; 1-1;  Lanús
 ; San Lorenzo de Almagro  ; 2-1;  Argentinos Juniors
 
-Round: Round 26:
+Round: 26
 Date: 10/31/1959
 
 ; Rosario Central         ; 4-0;  Independiente (A)
@@ -407,7 +407,7 @@ Ferro Carril Oeste (BA): Antonio Roma; Alberto Pedro Mogaburu, Silvio Marzolini;
 San Lorenzo de Almagro:  José Carrillo; Humberto Indalecio Cancino, David Carmelo Iñigo; Raúl Martina, Guillermo César Reynoso, Norberto Anildo Schiro; Héctor Osvaldo Facundo, Miguel Ángel Ruiz, Omar Higinio García, José Francisco Sanfilippo, Norberto Constante Boggio.
 Notes: abandoned at 3:0 in 81; San Lorenzo de Almagro won the championship in this round
 
-Round: Round 27:
+Round: 27
 Date: 11/8/1959
 
 ; Atlanta                 ; 2-1;  Rosario Central        ;  Huracán (BA)
@@ -421,7 +421,7 @@ Notes: abandoned at 6:3 in ?
 
 ; Vélez Sarsfield         ; 2-3;  Lanús
 
-Round: Round 28 
+Round: 28 
 Date: 11/11/1959
 
 ; Argentinos Juniors      ; 1-1;  River Plate
@@ -433,7 +433,7 @@ Date: 11/11/1959
 ; Racing Club             ; 6-1;  Estudiantes LP
 ; Rosario Central         ; 0-0;  Vélez Sarsfield
 
-Round: Round 29:
+Round: 29
 Date: 11/15/1959
 
 ; Atlanta                 ; 0-0;  Gimnasia y Esgrima LP   ; Huracán (BA)
@@ -449,7 +449,7 @@ Date: 11/15/1959
 
 *Newell's Old Boys       lp:wp Huracán (BA)            [awarded (goals counted as 1:1)]
 
-Round: Round 30:
+Round: 30
 Date: 11/20/1959
 
 ; Huracán (BA)            ; 1-1;  River Plate

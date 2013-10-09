@@ -5,6 +5,44 @@ import datetime
 
 l = [
 
+    # division 1
+
+    {
+        'name': 'Detroit Cougars',
+        'founded': 1967,
+        'dissolved': 1968,
+        'city': 'Detroit, MI',
+        },
+
+    # USL
+
+
+    {
+        'name': 'Michigan Bucks',
+        'city': 'Pontiac, MI',
+        'founded': 1995,
+        },
+
+
+
+    # indoor
+
+    {
+        'name': 'Detroit Safari',
+        'founded': 1994,
+        'dissolved': 1997,
+        'city': 'Auburn Hills, MI',
+        },
+
+
+
+    {
+        'name': 'Detroit Ignition',
+        'city': 'Plymouth, MI',
+        'founded': 2006,
+        'dissolved': 2009,
+        },
+
     {
         'name': 'Kalamazoo Kingdom',
         'city': 'Kalamazoo, MI',
@@ -66,7 +104,6 @@ l = [
         'dissolved': 1981,
         },
 
-
     {
         'name': 'West Michigan Edge',
         'city': 'Grand Rapids, MI',
@@ -109,7 +146,7 @@ l = [
         },
 
     {
-        'name': 'Kalamazoo Kangaros',
+        'name': 'Kalamazoo Kangaroos',
         'city': 'Kalamazoo, MI',
         'founded': 1984,
         'dissolved': 1986,

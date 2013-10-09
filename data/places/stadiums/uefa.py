@@ -43,6 +43,21 @@ l = [
         'capacity': 65647
         },
 
+    {
+        'name': 'Estádio das Antas',
+        'location': 'Porto, Portugal',
+        'opened': datetime.datetime(1952, 5, 28),
+        'closed': 2004,
+        'capacity': 50000,
+        },
+
+    {
+        'name': 'Estádio D. Afonso Henriques',
+        'location': 'Guimaraes, Portugal',
+        'opened': 1965,
+        'capacity': 30165
+        },
+
 
     {
         'name': 'Stadio Renato Dall\'Ara',
@@ -165,6 +180,39 @@ l = [
         'location': 'Solna, Stockholm, Sweden',
         'capacity': 36608,
         'opened': datetime.datetime(1937, 5, 17),
+        },
+
+    {
+        'name': 'Råsunda Idrottplats',
+        'location': 'Solna, Stockholm, Sweden',
+        'opened': datetime.datetime(1910, 9, 18),
+        },
+
+    {
+        'name': 'Traneberg Idrottplats',
+        'location': 'Traneberg, Stockholm, Sweden',
+        'opened': 1911,
+        'closed': 1935
+        },
+
+    {
+        'name': 'Bosuilstadion',
+        'location': 'Antwerp, Belgium',
+        'opened': datetime.datetime(1923, 11, 1),
+        'capacity': 16649
+        },
+
+    {
+        'name': 'Stedelijk Olympisch Stadion',
+        'location': 'Antwerp, Belgium',
+        'capacity': 12388,
+        },
+
+    {
+        'name': 'Olympic Stadion',
+        'location': 'Stockholm, Sweden',
+        'opened': 1912,
+        'capacity': 13145,
         },
 
     {
@@ -345,12 +393,83 @@ l = [
         'capacity': 85454,
         },
 
+    {
+        'name': 'Stade Bergeyre',
+        'location': 'Paris, France',
+        'opened': 1918,
+        'closed': 1926,
+        },
+
 
     {
         'name': 'Estadio Vicente Calderón',
         'location': 'Madrid, Spain',
         'opened': datetime.datetime(1966, 10, 2),
         'capacity': 54960,
+        },
+
+    {
+        'name': 'Antalya Atatürk Stadium',
+        'location': 'Antalya, Turkey',
+        'capacity': 11137,
+        },
+
+    {
+        'name': 'Ali Sami Yen Stadium',
+        'location': 'Istanbul, Turkey',
+        'capacity': 23477,
+        'opened': 1945,
+        'closed': datetime.datetime(2011, 1, 11)
+        },
+
+
+    {
+        'name': 'Kadir Has Stadium',
+        'location': 'Kayseri, Turkey',
+        'capacity': 32864,
+        'opened': datetime.datetime(2009, 3, 8),
+        },
+
+    {
+        'name': 'Kamil Ocak Stadium',
+        'location': 'Gaziantep, Turkey',
+        'capacity': 16981,
+        'opened': 1974,
+        },
+
+    {
+        'name': 'Hüseyin Avni Aker Stadium',
+        'location': 'Trabzon, Turkey',
+        'capacity': 24169,
+        'opened': 1951,
+        },
+
+    {
+        'name': 'Bursa Atatürk Stadium',
+        'location': 'Bursa, Turkey',
+        'capacity': 25213,
+        'opened': 1979,
+        },
+
+    {
+        'name': 'Asim Ferhatović Hase Stadium',
+        'location': 'Sarajevo, Bosnia and Herzegovina',
+        'capacity': 37500,
+        'opened': 1947,
+        },
+
+    {
+        'name': 'Türk Telekom Arena',
+        'location': 'Istanbul, Turkey',
+        'capacity': 52652,
+        'opened': datetime.datetime(2011, 1, 15),
+        },
+
+    {
+        'name': 'Akdeniz University Stadium',
+        'location': 'Antalya, Turkey',
+        'capacity': 7100,
+        'opened': 2012,
         },
 
     {
@@ -423,6 +542,13 @@ l = [
         'location': 'Utrecht, Netherlands',
         'opened': datetime.datetime(2004, 8, 22),
         'capacity': 24426,
+        },
+
+    {
+        'name': 'Univé Stadion',
+        'location': 'Emmen, Netherlands',
+        'opened': datetime.datetime(1977, 8, 27),
+        'capacity': 8600,
         },
 
     {
@@ -1181,12 +1307,6 @@ l = [
         'capacity': 36230,
         },
 
-    {
-        'name': 'Griffin Park',
-        'location': 'London, England',
-        'opened': 1904,
-        'capacity': 12763,
-        },
 
     {
         'name': 'Roker Park',

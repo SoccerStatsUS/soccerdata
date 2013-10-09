@@ -28,6 +28,26 @@ l = [
         'capacity': 50889,
         },
 
+    {
+        'name': 'Utama Negeri Stadium',
+        'location': 'Kangar, Malaysia',
+        },
+
+    {
+        'name': 'Sarawak Stadium',
+        'location': 'Kuching, Malaysia',
+        'opened': 1997,
+        'capacity': 40000,
+        },
+
+
+    {
+        'name': 'Shah Alam Stadium',
+        'location': 'Shah Alam, Malaysia',
+        'opened': datetime.datetime(1994, 7, 16),
+        'capacity': 80000,
+        },
+
 
 
     {
@@ -131,6 +151,8 @@ l = [
         'opened': 1947,
         'capacity': 27188,
         },
+
+
 
     {
         'name': 'Komazawa Olympic Park Stadium',
@@ -265,10 +287,20 @@ l = [
         },
 
     {
-        'name': 'Antalya Atatürk Stadium',
-        'location': 'Antalya, Turkey',
-        'capacity': 11137,
+        'name': 'Stade El Menzah',
+        'location': 'Tunis, Tunisia',
+        'opened': 1967,
+        'capacity': 45000,
         },
+
+    {
+        'name': 'Stade Chedli Zouiten',
+        'location': 'Tunis, Tunisia',
+        #'opened': 
+        'capacity': 20000,
+        },
+
+
 
 
     {

@@ -5,6 +5,16 @@ import datetime
 
 l = [
 
+    # division 1
+
+    {
+        'name': 'Memphis Rogues',
+        'founded': 1978,
+        'dissolved': 1980,
+        'city': 'Memphis, TN',
+        },
+
+
     {
         'name': 'Chattanooga Express',
         'city': 'Chattanooga, TN',

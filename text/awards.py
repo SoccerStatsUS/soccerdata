@@ -35,10 +35,14 @@ def process_awards(d):
     
     competition = d.pop('competition')
 
+
+    champion_name = mvp_name = None
+
     if 'champion' in d:
         champion_name = d.pop('champion')
-    else:
-        champion_name = None
+
+    if 'mvp' in d:
+        mvp_name = d.pop('mvp')
     
 
     # Which awards are given to teams rather than people
@@ -56,6 +60,8 @@ def process_awards(d):
 
         if award == champion_name or award == 'Champion':
             award_type = 'champion'
+        elif award == mvp_name or award == 'MVP':
+            award_type = 'mvp'
         else:
             award_type = ''
 
@@ -115,10 +121,19 @@ def process_chile_awards():
     from soccerdata.data.lists.awards.chile import d
     return process_awards(d)
 
+def process_england_awards():
+    from soccerdata.data.lists.awards.england import d
+    return process_awards(d)
+
+
 
 def process_argentina_awards():
     from soccerdata.data.lists.awards.argentina import d
     return process_awards(d)
+
+def process_brazil_awards():
+    from soccerdata.data.lists.awards.brazil import brasileirao, mineiro, carioca, paulista, gaucho, baiano
+    return process_awards(brasileirao) + process_awards(mineiro) + process_awards(carioca) + process_awards(paulista) + process_awards(gaucho) + process_awards(baiano)
 
 
 def process_uncaf_international_awards():
@@ -174,14 +189,23 @@ def process_australia_awards():
     return process_awards(d)
 
 
+
 def process_china_awards():
     from soccerdata.data.lists.awards.china import d
+    return process_awards(d)
+
+def process_japan_awards():
+    from soccerdata.data.lists.awards.japan import d
+    return process_awards(d)
+
+def process_korea_awards():
+    from soccerdata.data.lists.awards.korea import d
     return process_awards(d)
 
 
 
 def process_olympics_awards():
-    from soccerdata.data.lists.olympics import d
+    from soccerdata.data.lists.awards.olympics import d
     return process_awards(d)
 
 

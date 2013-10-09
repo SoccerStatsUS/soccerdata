@@ -5,6 +5,15 @@ import datetime
 
 l = [
 
+    # division 1
+
+    {
+        'name': 'Tulsa Roughnecks',
+        'founded': 1978,
+        'dissolved': 1984,
+        'city': 'Tulsa, OK',
+        },
+
     {
         'name': 'Oklahoma City Spirit',
         'city': 'Oklahoma City, OK',

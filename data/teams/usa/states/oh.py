@@ -5,16 +5,70 @@ import datetime
 
 l = [
 
+    # division 1
+
+
+    {
+        'name': 'Cleveland Stokers',
+        'founded': 1967,
+        'dissolved': 1967,
+        'city': 'Cleveland, OH',
+        },
+
+
+
     {
         'name': 'Columbus Crew',
         'founded': datetime.datetime(1994, 6, 15),
         'city': 'Columbus, OH',
         },
 
-{ 
+    { 
         'name': 'Columbus Crew Reserves',
         'city': 'Columbus, OH',
         },
+
+
+    # indoor
+
+    {
+        'name': 'Cincinnati Silverbacks',
+        'founded': 1995,
+        'dissolved': 1998,
+        'city': 'Cincinnati, OH',
+        },
+
+
+    {
+        'name': 'Canton Invaders',
+        'founded': 1984,
+        'dissolved': 1997,
+        'city': 'Canton, OH',
+        },
+
+    {
+        'name': 'Cleveland Crunch',
+        'founded': 1989,
+        'dissolved': 2005,
+        'city': 'Cleveland, OH',
+        },
+
+
+    {
+        'name': 'Dayton Dynamo',
+        'city': 'Dayton, OH',
+        'founded': 198,
+        'dissolved': 1998,
+        },
+
+
+    {
+        'name': 'Cleveland Force',
+        'city': 'Cleveland, OH',
+        'founded': 1978,
+        'dissolved': 1988,
+        },
+
 
 
 
