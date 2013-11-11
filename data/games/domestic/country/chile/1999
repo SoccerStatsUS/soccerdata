@@ -1,4 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesc/chile99.html
+Competition: Chilean Primera Division
 Season: 1999
 
 * 1.Universidad de Chile   30 23  6  1  66-27  75
@@ -20,362 +21,454 @@ Season: 1999
 *16.Deportes La Serena     30  4 12 14  30-59  24
 
 Round: 1 
-(Feb 27)
-Dep. Iquique     1-1 Colo Colo
-Audax Italiano   0-1 Huachipato
-Dep. La Serena   2-2 Puerto Montt
-Dep. Concepcion  2-0 Palestino
-(Feb 28)
-U. Catolica      2-1 O'Higgins
-U. de Chile      2-1 Cobreloa
-Cobresal         4-0 Coquimbo Unido
-Rangers          0-1 Stgo. Morning
+Date: 2/27/1999
+
+; Dep. Iquique    ; 1-1; Colo Colo
+; Audax Italiano  ; 0-1; Huachipato
+; Dep. La Serena  ; 2-2; Puerto Montt
+; Dep. Concepcion ; 2-0; Palestino
+
+Date: 2/28/1999
+
+; U. Catolica     ; 2-1; O'Higgins
+; U. de Chile     ; 2-1; Cobreloa
+; Cobresal        ; 4-0; Coquimbo Unido
+; Rangers         ; 0-1; Stgo. Morning
 
 Round: 2
-(Mar 6)
-Cobreloa         3-1 Cobresal
-Coquimbo Unido   1-0 Dep. Concepcion
-Puerto Montt     3-0 Dep. Iquique
-Stgo. Morning    1-0 A. Italiano
-Palestino        4-2 O'Higgins
-(Mar 7)
-Rangers          1-6 U. Catolica
-Colo Colo        5-2 U. de Chile 
-Huachipato       2-2 Dep. La Serena
+Date: 3/6/1999
+
+; Cobreloa        ; 3-1; Cobresal
+; Coquimbo Unido  ; 1-0; Dep. Concepcion
+; Puerto Montt    ; 3-0; Dep. Iquique
+; Stgo. Morning   ; 1-0; A. Italiano
+; Palestino       ; 4-2; O'Higgins
+
+Date: 3/7/1999
+
+; Rangers         ; 1-6; U. Catolica
+; Colo Colo       ; 5-2; U. de Chile 
+; Huachipato      ; 2-2; Dep. La Serena
 
 Round: 3
-(Mar 13)
-Cobresal         2-2 Colo Colo
-U. de Chile      3-0 Puerto Montt
-Dep. La Serena   2-3 Stgo. Morning
-O'Higgins        3-1 Coquimbo Unido
-Dep. Iquique     1-3 Huachipato 
-(Mar 14)
-U. Catolica      1-2 Palestino
-Dep. Concepcion  1-1 Cobreloa
-Audax Italiano   2-2 Rangers  
+Date: 3/13/1999
+
+; Cobresal        ; 2-2; Colo Colo
+; U. de Chile     ; 3-0; Puerto Montt
+; Dep. La Serena  ; 2-3; Stgo. Morning
+; O'Higgins       ; 3-1; Coquimbo Unido
+; Dep. Iquique    ; 1-3; Huachipato 
+
+Date: 3/14/1999
+
+; U. Catolica     ; 1-2; Palestino
+; Dep. Concepcion ; 1-1; Cobreloa
+; Audax Italiano  ; 2-2; Rangers  
 
 Round: 4 
-(Mar 20)
-Colo Colo        1-0 Dep. Concepcion
-Huachipato       1-1 U. de Chile
-Puerto Montt     0-1 Cobresal
-(Mar 21)
-Audax Italiano   1-1 U. Catolica
-Rangers          1-1 Dep. La Serena
-Stgo. Morning    0-0 Dep. Iquique
-Cobreloa         6-0 O'Higgins
-Coquimbo Unido   1-5 Palestino
+Date: 3/20/1999
+
+; Colo Colo       ; 1-0; Dep. Concepcion
+; Huachipato      ; 1-1; U. de Chile
+; Puerto Montt    ; 0-1; Cobresal
+
+Date: 3/21/1999
+
+; Audax Italiano  ; 1-1; U. Catolica
+; Rangers         ; 1-1; Dep. La Serena
+; Stgo. Morning   ; 0-0; Dep. Iquique
+; Cobreloa        ; 6-0; O'Higgins
+; Coquimbo Unido  ; 1-5; Palestino
 
 Round: 5 
-(Mar 27)
-U. Catolica      1-1 Coquimbo U.
-Palestino        1-1 Cobreloa
-Dep. La Serena   1-0 A. Italiano
-(Mar 28)
-Dep. Iquique     3-1 Rangers
-U. de Chile      2-1 Stgo. Morning
-O'Higgins        1-2 Colo Colo
-Dep. Concepcion  1-1 Puerto Montt
-Cobresal         3-2 Huachipato
+Date: 3/27/1999
+
+; U. Catolica     ; 1-1; Coquimbo U.
+; Palestino       ; 1-1; Cobreloa
+; Dep. La Serena  ; 1-0; A. Italiano
+
+Date: 3/28/1999
+
+; Dep. Iquique    ; 3-1; Rangers
+; U. de Chile     ; 2-1; Stgo. Morning
+; O'Higgins       ; 1-2; Colo Colo
+; Dep. Concepcion ; 1-1; Puerto Montt
+; Cobresal        ; 3-2; Huachipato
 
 Round: 6
-(Apr 3)
-Dep. La Serena   1-5 U. Catolica
-Rangers          1-1 U. de Chile
-(Apr 4)
-Colo Colo        1-0 Palestino
-Cobreloa         9-1 Coquimbo Unido
-Stgo. Morning    1-3 Cobresal
-A. Italiano      0-0 Dep. Iquique
-Puerto Montt     1-1 O'Higgins
-Huachipato       1-3 Dep. Concepcion
+Date: 4/3/1999
+
+; Dep. La Serena  ; 1-5; U. Catolica
+; Rangers         ; 1-1; U. de Chile
+
+Date: 4/4/1999
+
+; Colo Colo       ; 1-0; Palestino
+; Cobreloa        ; 9-1; Coquimbo Unido
+; Stgo. Morning   ; 1-3; Cobresal
+; A. Italiano     ; 0-0; Dep. Iquique
+; Puerto Montt    ; 1-1; O'Higgins
+; Huachipato      ; 1-3; Dep. Concepcion
 
 Round: 7 
-(Apr 10)
-Palestino        2-3 Puerto Montt
-Coquimbo Unido   1-3 Colo Colo
-O'Higgins        0-1 Huachipato
-(Apr 11)
-U. Catolica      1-2 Cobreloa
-Dep. Concepcion  1-0 Stgo. Morning
-Cobresal         2-1 Rangers
-U. de Chile      2-1 Audax Italiano
-Dep. Iquique     2-0 Dep. La Serena
+Date: 4/10/1999
+
+; Palestino       ; 2-3; Puerto Montt
+; Coquimbo Unido  ; 1-3; Colo Colo
+; O'Higgins       ; 0-1; Huachipato
+
+Date: 4/11/1999
+
+; U. Catolica     ; 1-2; Cobreloa
+; Dep. Concepcion ; 1-0; Stgo. Morning
+; Cobresal        ; 2-1; Rangers
+; U. de Chile     ; 2-1; Audax Italiano
+; Dep. Iquique    ; 2-0; Dep. La Serena
 
 Round: 8 
-(Apr 17) 
-Dep. Iquique     2-0 U. Catolica
-Dep. La Serena   0-2 U. de Chile  
-Stgo. Morning    3-2 O'Higgins
-(Apr 18) 
-Colo Colo        0-1 Cobreloa
-A. Italiano      1-0 Cobresal
-Rangers          1-0 Dep. Concepcion
-Puerto Montt     2-4 Coquimbo U.
-Huachipato       3-2 Palestino
+Date: 4/17/1999
+
+; Dep. Iquique    ; 2-0; U. Catolica
+; Dep. La Serena  ; 0-2; U. de Chile  
+; Stgo. Morning   ; 3-2; O'Higgins
+
+Date: 4/18/1999
+
+; Colo Colo       ; 0-1; Cobreloa
+; A. Italiano     ; 1-0; Cobresal
+; Rangers         ; 1-0; Dep. Concepcion
+; Puerto Montt    ; 2-4; Coquimbo U.
+; Huachipato      ; 3-2; Palestino
 
 Round: 9 
-(Apr 24) 
-Stgo. Morning    1-2 Palestino     
-Dep. Concepcion  3-3 A. Italiano 
-O'Higgins        2-0 Rangers           
-(Apr 25) 
-U. Catolica      2-1 Colo Colo
-U. de Chile      2-1 Dep. Iquique    
-Cobreloa         2-2 Puerto Montt
-Coquimbo U.      1-1 Huachipato
-Cobresal         3-1 Dep. La Serena
+Date: 4/24/1999
+
+; Stgo. Morning   ; 1-2; Palestino     
+; Dep. Concepcion ; 3-3; A. Italiano 
+; O'Higgins       ; 2-0; Rangers           
+
+Date: 4/25/1999
+
+; U. Catolica     ; 2-1; Colo Colo
+; U. de Chile     ; 2-1; Dep. Iquique    
+; Cobreloa        ; 2-2; Puerto Montt
+; Coquimbo U.     ; 1-1; Huachipato
+; Cobresal        ; 3-1; Dep. La Serena
 
 Round: 10 
-(May 1)
-Puerto Montt     2-0 Colo Colo
-Stgo. Morning    5-0 Coquimbo Unido
-(May 2)
-U. de Chile      0-0 U. Catolica
-Dep. Iquique     2-0 Cobresal
-Dep. La Serena   1-1 Dep. Concepcion
-Audax Italiano   0-2 O'Higgins
-Rangers          2-1 Palestino
-Huachipato       1-3 Cobreloa
+Date: 5/1/1999
+
+; Puerto Montt    ; 2-0; Colo Colo
+; Stgo. Morning   ; 5-0; Coquimbo Unido
+
+Date: 5/2/1999
+
+; U. de Chile     ; 0-0; U. Catolica
+; Dep. Iquique    ; 2-0; Cobresal
+; Dep. La Serena  ; 1-1; Dep. Concepcion
+; Audax Italiano  ; 0-2; O'Higgins
+; Rangers         ; 2-1; Palestino
+; Huachipato      ; 1-3; Cobreloa
 
 Round: 11
-(May 8)
-U. Catolica      3-0 Puerto Montt
-Cobresal         3-3 U. de Chile
-Palestino        0-1 Audax Italiano
-(May 9)
-Colo Colo        3-2 Huachipato
-Cobreloa         4-0 Stgo. Morning
-Dep. Concepcion  2-0 Dep. Iquique
-Coquimbo Unido   4-0 Rangers
-O'Higgins        1-3 Dep. La Serena
+Date: 5/8/1999
+
+; U. Catolica     ; 3-0; Puerto Montt
+; Cobresal        ; 3-3; U. de Chile
+; Palestino       ; 0-1; Audax Italiano
+
+Date: 5/9/1999
+
+; Colo Colo       ; 3-2; Huachipato
+; Cobreloa        ; 4-0; Stgo. Morning
+; Dep. Concepcion ; 2-0; Dep. Iquique
+; Coquimbo Unido  ; 4-0; Rangers
+; O'Higgins       ; 1-3; Dep. La Serena
 
 Round: 12 
-(May 15)
-Cobresal         3-3 U. Catolica
-Dep. Iquique     2-2 O'Higgins
-Audax Italiano   4-2 Coquimbo Unido
-(May 16)
-U. de Chile      5-2 Dep. Concepcion
-Dep. La Serena   4-4 Palestino
-Rangers          3-3 Cobreloa
-Stgo. Morning    2-1 Colo Colo
-Huachipato       1-1 Puerto Montt
+Date: 5/15/1999
 
-Round: 13 (May 19)
-U. Catolica      3-2 Huachipato
-Colo Colo        1-0 Rangers
-O'Higgins        0-3 U. de Chile
-Cobreloa         1-0 A. Italiano        
-Palestino        2-1 Dep. Iquique
-Puerto Montt     2-0 Stgo. Morning  
-Dep. Concepcion  2-0 Cobresal
-Coquimbo U.      3-3 Dep. La Serena  
+; Cobresal        ; 3-3; U. Catolica
+; Dep. Iquique    ; 2-2; O'Higgins
+; Audax Italiano  ; 4-2; Coquimbo Unido
+
+Date: 5/16/1999
+
+; U. de Chile     ; 5-2; Dep. Concepcion
+; Dep. La Serena  ; 4-4; Palestino
+; Rangers         ; 3-3; Cobreloa
+; Stgo. Morning   ; 2-1; Colo Colo
+; Huachipato      ; 1-1; Puerto Montt
+
+Round: 13 
+Date: 5/19/1999
+
+; U. Catolica     ; 3-2; Huachipato
+; Colo Colo       ; 1-0; Rangers
+; O'Higgins       ; 0-3; U. de Chile
+; Cobreloa        ; 1-0; A. Italiano        
+; Palestino       ; 2-1; Dep. Iquique
+; Puerto Montt    ; 2-0; Stgo. Morning  
+; Dep. Concepcion ; 2-0; Cobresal
+; Coquimbo U.     ; 3-3; Dep. La Serena  
 
 Round: 14 
-(May 22) 
-Dep. Concepcion  0-2 U. Catolica 
-Dep. La Serena   0-0 Cobreloa     
-(May 23) 
-A. Italiano      1-3 Colo Colo
-U. de Chile      2-0 Palestino
-Stgo. Morning    1-1 Huachipato    
-Rangers          1-3 Puerto Montt
-Cobresal         4-0 O'Higgins
-Dep. Iquique     3-3 Coquimbo U.
+Date: 5/22/1999
+
+; Dep. Concepcion ; 0-2; U. Catolica 
+; Dep. La Serena  ; 0-0; Cobreloa     
+
+Date: 5/23/1999
+
+; A. Italiano     ; 1-3; Colo Colo
+; U. de Chile     ; 2-0; Palestino
+; Stgo. Morning   ; 1-1; Huachipato    
+; Rangers         ; 1-3; Puerto Montt
+; Cobresal        ; 4-0; O'Higgins
+; Dep. Iquique    ; 3-3; Coquimbo U.
 
 Round: 15 
-(Jun 5) 
-U. Catolica      0-0 Stgo. Morning   
-Coquimbo U.      0-2 U. de Chile     
-Cobreloa         2-0 Dep. Iquique       
-Puerto Montt     0-2 A. Italiano    
-O'Higgins        1-3 Dep. Concepcion   
-Huachipato       1-0 Rangers          
-(Jun 6) 
-Colo Colo        2-2 Dep. La Serena    
-Palestino        2-1 Cobresal          
+Date: 6/5/1999
+
+; U. Catolica     ; 0-0; Stgo. Morning   
+; Coquimbo U.     ; 0-2; U. de Chile     
+; Cobreloa        ; 2-0; Dep. Iquique       
+; Puerto Montt    ; 0-2; A. Italiano    
+; O'Higgins       ; 1-3; Dep. Concepcion   
+; Huachipato      ; 1-0; Rangers          
+
+Date: 6/6/1999
+
+; Colo Colo       ; 2-2; Dep. La Serena    
+; Palestino       ; 2-1; Cobresal          
  
-Round: 16 (Jun 9)
-Colo Colo        0-0 Dep. Iquique      
-Cobreloa         0-1 U. de Chile    
-O'Higgins        2-5 U. Catolica
-Puerto Montt     3-0 Dep. La Serena
-Palestino        2-1 Dep. Concepcion
-Huachipato       1-1 A. Italiano
-Stgo. Morning    1-0 Rangers
-Coquimbo U.      2-1 Cobresal
+Round: 16 
+Date: 6/9/1999
+
+; Colo Colo       ; 0-0; Dep. Iquique      
+; Cobreloa        ; 0-1; U. de Chile    
+; O'Higgins       ; 2-5; U. Catolica
+; Puerto Montt    ; 3-0; Dep. La Serena
+; Palestino       ; 2-1; Dep. Concepcion
+; Huachipato      ; 1-1; A. Italiano
+; Stgo. Morning   ; 1-0; Rangers
+; Coquimbo U.     ; 2-1; Cobresal
 
 Round: 17 
-(Jun 12) 
-U. de Chile      3-0 Colo Colo
-O'Higgins        1-4 Palestino
-(Jun 13)
-U. Catolica      3-1 Rangers
-Cobresal         2-2 Cobreloa
-A. Italiano      2-2 Stgo. Morning
-Dep. Concepcion  3-3 Coquimbo U.
-Dep. Iquique     5-3 Puerto Montt
-Dep. La Serena   0-3 Huachipato
+Date: 6/12/1999
 
-Round: 18 (Jul 21)
-Huachipato       1-2 Dep. Iquique
-Rangers          0-2 A. Italiano
-Coquimbo U.      0-0 O'Higgins
-Stgo. Morning    3-1 Dep. La Serena
-Palestino        1-4 U. Catolica
-Cobreloa         2-0 Dep. Concepcion
-Colo Colo        3-0 Cobresal
-Puerto Montt     1-2 U. de Chile
+; U. de Chile     ; 3-0; Colo Colo
+; O'Higgins       ; 1-4; Palestino
+
+Date: 6/13/1999
+
+; U. Catolica     ; 3-1; Rangers
+; Cobresal        ; 2-2; Cobreloa
+; A. Italiano     ; 2-2; Stgo. Morning
+; Dep. Concepcion ; 3-3; Coquimbo U.
+; Dep. Iquique    ; 5-3; Puerto Montt
+; Dep. La Serena  ; 0-3; Huachipato
+
+Round: 18 
+Date: 7/21/1999
+
+; Huachipato      ; 1-2; Dep. Iquique
+; Rangers         ; 0-2; A. Italiano
+; Coquimbo U.     ; 0-0; O'Higgins
+; Stgo. Morning   ; 3-1; Dep. La Serena
+; Palestino       ; 1-4; U. Catolica
+; Cobreloa        ; 2-0; Dep. Concepcion
+; Colo Colo       ; 3-0; Cobresal
+; Puerto Montt    ; 1-2; U. de Chile
  
 Round: 19
-(Jul 24)
-U. de Chile      2-0 Huachipato
-Dep. Concepcion  0-1 Colo Colo
-(Jul 25)
-Dep. La Serena   0-0 Rangers
-Palestino        2-2 Coquimbo U.
-O'Higgins        2-1 Cobreloa
-Cobresal         2-1 Puerto Montt
-Dep. Iquique     1-0 Stgo. Morning
-U. Catolica      1-0 A. Italiano
+Date: 7/24/1999
+; U. de Chile     ; 2-0; Huachipato
+; Dep. Concepcion ; 0-1; Colo Colo
+
+Date: 7/25/1999
+
+; Dep. La Serena  ; 0-0; Rangers
+; Palestino       ; 2-2; Coquimbo U.
+; O'Higgins       ; 2-1; Cobreloa
+; Cobresal        ; 2-1; Puerto Montt
+; Dep. Iquique    ; 1-0; Stgo. Morning
+; U. Catolica     ; 1-0; A. Italiano
 
 Round: 20 
-(Jul 31) 
-Coquimbo         2-3 U. Catolica            
-Rangers          2-1 Dep. Iquique
-(Aug 1)
-Colo Colo        0-0 O'Higgins
-Stgo. Morning    1-2 U. de Chile
-A. Italiano      2-0 Dep. La Serena
-Cobreloa         3-2 Palestino
-Puerto Montt     1-1 Dep. Concepcion
-Huachipato       1-1 Cobresal 
+Date: 7/31/1999
+; Coquimbo        ; 2-3; U. Catolica            
+; Rangers         ; 2-1; Dep. Iquique
+
+Date: 8/1/1999
+
+; Colo Colo       ; 0-0; O'Higgins
+; Stgo. Morning   ; 1-2; U. de Chile
+; A. Italiano     ; 2-0; Dep. La Serena
+; Cobreloa        ; 3-2; Palestino
+; Puerto Montt    ; 1-1; Dep. Concepcion
+; Huachipato      ; 1-1; Cobresal 
 
 Round: 21 
-(Aug 7)
-Palestino        1-1 Colo Colo
-Coquimbo U.      0-0 Cobreloa
-Dep. Iquique     1-1 A. Italiano
-(Aug 8)
-U. Catolica      2-0 Dep. La Serena
-O'Higgins        2-2 Puerto Montt
-Cobresal         0-2 Stgo. Morning
-Dep. Concepcion  1-3 Huachipato
-U. de Chile      1-0 Rangers
+Date: 8/7/1999
+
+; Palestino       ; 1-1; Colo Colo
+; Coquimbo U.     ; 0-0; Cobreloa
+; Dep. Iquique    ; 1-1; A. Italiano
+
+Date: 8/8/1999
+
+; U. Catolica     ; 2-0; Dep. La Serena
+; O'Higgins       ; 2-2; Puerto Montt
+; Cobresal        ; 0-2; Stgo. Morning
+; Dep. Concepcion ; 1-3; Huachipato
+; U. de Chile     ; 1-0; Rangers
 
 Round: 22
-(Aug 14)
-Cobreloa         0-2 U. Catolica
-Rangers          2-0 Cobresal 
-Santiago Morning 2-4 Concepcion
-(Aug 15)
-Colo Colo        2-1 Coquimbo  
-Audax Italiano   1-2 U. de Chile 
-Puerto Montt     1-3 Palestino 
-Huachipato       2-1 O'Higgins 
-La Serena        2-0 Iquique 
+Date: 8/14/1999
+
+; Cobreloa        ; 0-2; U. Catolica
+; Rangers         ; 2-0; Cobresal 
+; Santiago Morning; 2-4; Concepcion
+
+Date: 8/15/1999
+
+; Colo Colo       ; 2-1; Coquimbo  
+; Audax Italiano  ; 1-2; U. de Chile 
+; Puerto Montt    ; 1-3; Palestino 
+; Huachipato      ; 2-1; O'Higgins 
+; La Serena       ; 2-0; Iquique 
 
 Round: 23 
-(Aug 21) 
-Cobreloa         1-1 Colo Colo
-U. de Chile      3-0 Dep. La Serena
-Dep. Concepcion  2-1 Rangers
-(Aug 22)
-U. Catolica      4-1 Dep. Iquique
-Cobresal         0-0 A. Italiano
-Palestino        0-1 Huachipato
-O'Higgins        1-0 Stgo. Morning
-Coquimbo U.      4-3 Puerto Montt
+Date: 8/21/1999
+
+; Cobreloa        ; 1-1; Colo Colo
+; U. de Chile     ; 3-0; Dep. La Serena
+; Dep. Concepcion ; 2-1; Rangers
+
+Date: 8/22/1999
+
+; U. Catolica     ; 4-1; Dep. Iquique
+; Cobresal        ; 0-0; A. Italiano
+; Palestino       ; 0-1; Huachipato
+; O'Higgins       ; 1-0; Stgo. Morning
+; Coquimbo U.     ; 4-3; Puerto Montt
 
 Round: 24 
-(Aug 28) 
-Palestino        0-3 Stgo. Morning
-Dep. Iquique     1-2 U. de Chile
-Rangers          0-2 O'Higgins
-Puerto Montt     4-1 Cobreloa
-Dep. La Serena   1-0 Cobresal
-(Aug 29) 
-A. Italiano      2-1 Dep. Concepcion 
-Huachipato       4-2 Coquimbo U.
-Colo Colo        0-2 U. Catolica
+Date: 8/28/1999
+
+; Palestino       ; 0-3; Stgo. Morning
+; Dep. Iquique    ; 1-2; U. de Chile
+; Rangers         ; 0-2; O'Higgins
+; Puerto Montt    ; 4-1; Cobreloa
+; Dep. La Serena  ; 1-0; Cobresal
+
+Date: 8/29/1999
+
+; A. Italiano     ; 2-1; Dep. Concepcion 
+; Huachipato      ; 4-2; Coquimbo U.
+; Colo Colo       ; 0-2; U. Catolica
   
-Round: 25 (Sep 1)
-Palestino        3-1 Rangers
-Cobreloa         3-0 Huachipato
-Cobresal         1-1 Dep. Iquique
-O'Higgins        5-3 A. Italiano
-U. Catolica      1-1 U. de Chile
-Colo Colo        3-2 Puerto Montt
-Coquimbo U.      0-0 Stgo. Morning   
-Dep. Concepcion  2-0 Dep. La Serena 
+Round: 25 
+Date: 9/1/1999
+
+; Palestino       ; 3-1; Rangers
+; Cobreloa        ; 3-0; Huachipato
+; Cobresal        ; 1-1; Dep. Iquique
+; O'Higgins       ; 5-3; A. Italiano
+; U. Catolica     ; 1-1; U. de Chile
+; Colo Colo       ; 3-2; Puerto Montt
+; Coquimbo U.     ; 0-0; Stgo. Morning   
+; Dep. Concepcion ; 2-0; Dep. La Serena 
   
 Round: 26 
-(Sep 4)  
-Huachipato       2-0 Colo Colo
-Puerto Montt     2-0 U. Catolica 
-(Sep 5)
-Stgo. Morning    0-1 Cobreloa
-Dep. La Serena   0-4 O'Higgins
-A. Italiano      3-1 Palestino
-U. de Chile      2-0 Cobresal
-Dep. Iquique     2-0 Dep. Concepcion
-(Sep 29)
-Rangers          2-1 Coquimbo U.   
+Date: 9/4/1999
+
+; Huachipato      ; 2-0; Colo Colo
+; Puerto Montt    ; 2-0; U. Catolica 
+
+Date: 9/5/1999
+
+; Stgo. Morning   ; 0-1; Cobreloa
+; Dep. La Serena  ; 0-4; O'Higgins
+; A. Italiano     ; 3-1; Palestino
+; U. de Chile     ; 2-0; Cobresal
+; Dep. Iquique    ; 2-0; Dep. Concepcion
+
+Date: 9/29/1999
+; Rangers         ; 2-1; Coquimbo U.   
  
 Round: 27
-(Sep 11)
-Coquimbo U.      0-1 A. Italiano
-U. Catolica      4-1 Cobresal
-(Sep 12)
-Dep. Concepcion  1-1 U. de Chile
-Cobreloa         2-0 Rangers
-(Sep 22)
-Palestino        0-0 Dep. La Serena
-(Sep 28)
-O'Higgins        3-2 Dep. Iquique
-(Sep 29)
-Colo Colo        3-3 Stgo. Morning
-Puerto Montt     2-0 Huachipato
+Date: 9/11/1999
+
+; Coquimbo U.     ; 0-1; A. Italiano
+; U. Catolica     ; 4-1; Cobresal
+
+Date: 9/12/1999
+
+; Dep. Concepcion ; 1-1; U. de Chile
+; Cobreloa        ; 2-0; Rangers
+
+Date: 9/22/1999
+
+; Palestino       ; 0-0; Dep. La Serena
+
+Date: 9/28/1999
+
+; O'Higgins       ; 3-2; Dep. Iquique
+
+Date: 9/29/1999
+
+; Colo Colo       ; 3-3; Stgo. Morning
+; Puerto Montt    ; 2-0; Huachipato
 
 Round: 28 
-(Sep 17) 
-Dep. Iquique     1-2 Palestino 
-(Sep 18)
-Dep. La Serena   2-2 Coquimbo U.
-A. Italiano      1-0 Cobreloa
-Huachipato       2-4 U. Catolica 
-(Sep 19) 
-Cobresal         1-0 Dep. Concepcion 
-Stgo. Morning    2-2 Puerto Montt
-Rangers          1-1 Colo Colo
-(Sep 20)
-U. de Chile      5-4 O'Higgins
+
+9/17/1999; Dep. Iquique    ; 1-2; Palestino 
+
+Date: 9/18/1999
+
+; Dep. La Serena  ; 2-2; Coquimbo U.
+; A. Italiano     ; 1-0; Cobreloa
+; Huachipato      ; 2-4; U. Catolica 
+
+Date: 9/19/1999
+
+; Cobresal        ; 1-0; Dep. Concepcion 
+; Stgo. Morning   ; 2-2; Puerto Montt
+; Rangers         ; 1-1; Colo Colo
+
+9/20/1999; U. de Chile     ; 5-4; O'Higgins
 
 Round: 29
-(Sep 25)
-Colo Colo        3-1 A. Italiano
-O'Higgins        1-0 Cobresal
-Coquimbo U.      1-0 Dep. Iquique
-Puerto Montt     2-1 Rangers
-Huachipato       3-3 Stgo. Morning
-(Sep 26)
-U. Catolica      1-1 Dep. Concepcion
-Palestino        0-5 U. de Chile
-Cobreloa         3-0 Dep. La Serena
+Date: 9/25/1999
+
+; Colo Colo       ; 3-1; A. Italiano
+; O'Higgins       ; 1-0; Cobresal
+; Coquimbo U.     ; 1-0; Dep. Iquique
+; Puerto Montt    ; 2-1; Rangers
+; Huachipato      ; 3-3; Stgo. Morning
+
+Date: 9/26/1999
+
+; U. Catolica     ; 1-1; Dep. Concepcion
+; Palestino       ; 0-5; U. de Chile
+; Cobreloa        ; 3-0; Dep. La Serena
 
 Round: 30 
-(Oct 2)
-Dep. La Serena   1-1 Colo Colo  
-Dep. Concepcion  0-1 O'Higgins  
-A. Italiano      6-1 Puerto Montt  
-Cobresal         0-0 Palestino   
-(Oct 3)
-U. de Chile      2-1 Coquimbo U.  
-Stgo. Morning    0-1 U. Catolica  
-Rangers          1-0 Huachipato  
-Dep. Iquique     1-4 Cobreloa    
+Date: 10/2/1999
+
+; Dep. La Serena  ; 1-1; Colo Colo  
+; Dep. Concepcion ; 0-1; O'Higgins  
+; A. Italiano     ; 6-1; Puerto Montt  
+; Cobresal        ; 0-0; Palestino   
+
+Date: 10/3/1999
+
+; U. de Chile     ; 2-1; Coquimbo U.  
+; Stgo. Morning   ; 0-1; U. Catolica  
+; Rangers         ; 1-0; Huachipato  
+; Dep. Iquique    ; 1-4; Cobreloa    
 
 * 1.Universidad de Chile   30 23  6  1  66-27  75
 * 2.Universidad Catolica   30 19  7  4  67-31  64
@@ -411,117 +504,177 @@ Dep. Iquique     1-4 Cobreloa
 * 8.Huachipato             14  2  4  8  62-79  20  [10]
 
 Round: 1 
-(Oct 9)
+
+Date: 10/9/1999
+
 Huachipato       0-2 Stgo. Morning   
-(Oct 10)
+
+Date: 10/10/1999
+
 A. Italiano      1-2 Cobreloa      
 Colo Colo        1-3 Palestino
 U. Catolica      1-1 U. de Chile 
 
 Round: 2  
-(Oct 13) 
+
+Date: 10/13/1999
+
 U. de Chile      4-2 A. Italiano
 Cobreloa         3-0 Huachipato
-(Oct 14) 
+
+Date: 10/14/1999
+
 U. Catolica      1-0 Colo Colo
 Stgo. Morning    1-2 Palestino
 
 Round: 3
-(Oct 16) 
+
+Date: 10/16/1999
+
 Colo Colo        3-3 Stgo. Morning
 Huachipato       1-2 U. de Chile
-(Oct 17) 
+
+Date: 10/17/1999
+
 A. Italiano      2-2 U. Catolica
 Palestino        1-0 Cobreloa
 
 Round: 4 
-(Oct 23)
+
+Date: 10/23/1999
+
 U. Catolica      6-1 Huachipato
 Cobreloa         1-3 Stgo. Morning
-(Oct 24)
+
+Date: 10/24/1999
+
 A. Italiano      0-1 Colo Colo
 U. de Chile      3-1 Palestino
 
 Round: 5  
-(Oct 30)
+
+Date: 10/30/1999
+
 Huachipato       0-0 A. Italiano
 Stgo. Morning    0-0 U. de Chile
-(Oct 31)
+
+Date: 10/31/1999
+
 Palestino        2-2 U. Catolica    
 Colo Colo        3-1 Cobreloa
 
 Round: 6 
-(Nov 2)
+
+Date: 11/2/1999
+
 U. Catolica      1-1 Stgo. Morning
-(Nov 3)
+
+Date: 11/3/1999
+
 A. Italiano      1-1 Palestino
 U. de Chile      1-3 Cobreloa
 Huachipato       3-0 Colo Colo
 
 Round: 7 
-(Nov 6)
+
+Date: 11/6/1999
+
 Colo Colo        0-1 U. de Chile
 Cobreloa         2-1 U. Catolica
-(Nov 7)
+
+Date: 11/7/1999
+
 Palestino        3-2 Huachipato
 Stgo. Morning    2-2 A. Italiano
 
 Round: 8 
-(Nov 13)
+
+Date: 11/13/1999
+
 Stgo. Morning    2-2 Huachipato
 Cobreloa         1-0 A. Italiano
-(Nov 14)
+
+Date: 11/14/1999
+
 Palestino        1-1 Colo Colo
 U. de Chile      3-2 U. Catolica
 
 Round: 9
-(Nov 17)
+
+Date: 11/17/1999
+
 A. Italiano      0-2 U. de Chile
 Colo Colo        0-1 U. Catolica
-(Nov 18)
+
+Date: 11/18/1999
+
 Huachipato       1-1 Cobreloa
 Palestino        2-4 Stgo. Morning   
 
 Round: 10 
-(Nov 20)
+
+Date: 11/20/1999
+
 Stgo. Morning    0-2 Colo Colo
-(Nov 21)
+
+Date: 11/21/1999
+
 Cobreloa         7-2 Palestino
 U. Catolica      3-1 A. Italiano
-(Nov 22)
+
+Date: 11/22/1999
+
 U. de Chile      3-1 Huachipato
 
 Round: 11 
-(Nov 27)
+
+Date: 11/27/1999
+
 Stgo. Morning    3-5 Cobreloa
 Huachipato       0-4 U. Catolica
-(Nov 28)
+
+Date: 11/28/1999
+
 Colo Colo        2-1 A. Italiano
 Palestino        1-3 U. de Chile  
 
 Round: 12
-(Dec 4)
+
+Date: 12/4/1999
+
 U. de Chile      0-0 Stgo. Morning
 Cobreloa         4-0 Colo Colo
-(Dec 5)
+
+Date: 12/5/1999
+
 A. Italiano      3-1 Huachipato
 U. Catolica      5-3 Palestino
 
 Round: 13 
-(Dec 8)
+
+Date: 12/8/1999
+
 Stgo. Morning    2-3 U. Catolica
-(Dec 9)
+
+Date: 12/9/1999
+
 Palestino        1-2 A. Italiano
 Colo Colo        1-1 Huachipato
 Cobreloa         1-1 U. de Chile
 
 Round: 14 
-(Dec 14) 
+
+Date: 12/14/1999
+
 A. Italiano      2-1 Stgo. Morning 
-(Dec 15) 
+
+Date: 12/15/1999
+
 U. de Chile      0-3 Colo Colo  
 U. Catolica      3-1 Cobreloa   
-(Dec 16) 
+
+Date: 12/16/1999
+
 Huachipato       3-2 Palestino  
 
 * 1.Universidad de Chile   14  8  4  2  90-43  47  [19]  Champions
@@ -550,111 +703,167 @@ Huachipato       3-2 Palestino
 *15.Rangers                44 10  8 26  52-78  38  Relegated
 *16.Deportes La Serena     44  7 12 25  53-97  33  Relegated
 
-Round: 1 (Oct 9) 
+Round: 1 
+Date: 10/9/1999
+
 Cobresal         2-3 Dep. Iquique
 Dep. La Serena   0-1 Dep. Concepcion 
 O'Higgins        1-3 Coquimbo U.
 Puerto Montt     3-3 Rangers
   
 Round: 2 
-(Oct 12) 
+
+Date: 10/12/1999
+
 Rangers          4-0 Dep. La Serena
 Coquimbo U.      2-2 Dep. Iquique    
 Puerto Montt     1-1 Cobresal
-(Nov 11)
+
+Date: 11/11/1999
+
 Dep. Concepcion  1-1 O'Higgins
 
 Round: 3
-(Oct 15) 
+
+Date: 10/15/1999
+
 Dep. Iquique     1-1 Dep. Concepcion
-(Oct 16) 
+
+Date: 10/16/1999
+
 O'Higgins        2-1 Rangers 
-(Oct 17) 
+
+Date: 10/17/1999
+
 Cobresal         3-1 Coquimbo U.
 Dep. La Serena   1-2 Puerto Montt 
 
 Round: 4
-(Oct 23)
+
+Date: 10/23/1999
+
 Puerto Montt     1-1 O'Higgins
 Rangers          3-0 Dep. Iquique
-(Oct 24)
+
+Date: 10/24/1999
+
 Dep. La Serena   2-3 Cobresal
-(Oct 25)
+
+Date: 10/25/1999
+
 Dep. Concepcion  2-2 Coquimbo U.
 
 Round: 5     
-(Oct 29)    
+
+Date: 10/29/1999
+
 Dep. Iquique     4-0 Puerto Montt
-(Oct 30) 
+
+Date: 10/30/1999
+
 O'Higgins        3-1 Dep. La Serena
 Cobresal         4-2 Dep. Concepcion
 Coquimbo U.      3-1 Rangers
 
-Round: 6 (Nov 3)
+Round: 6 
+Date: 11/3/1999
+
 Dep. La Serena   5-3 Dep. Iquique 
 Puerto Montt     0-1 Coquimbo U. 
 Rangers          1-2 Dep. Concepcion
 O'Higgins        2-1 Cobresal 
 
 Round: 7  
-(Nov 5)
+
+Date: 11/5/1999
+
 Dep. Concepcion  0-1 Puerto Montt
-(Nov 7)
+
+Date: 11/7/1999
+
 Cobresal         0-1 Rangers
 Dep. Iquique     3-1 O'Higgins
 Coquimbo U.      2-1 Dep. La Serena  
   
 Round: 8  
-(Nov 13) 
+
+Date: 11/13/1999
+
 Rangers          5-1 Puerto Montt
 Coquimbo         4-0 O'Higgins
 Dep. Concepcion  1-0 Dep. La Serena 
-(Nov 14)
+
+Date: 11/14/1999
+
 Dep. Iquique     0-0 Cobresal
 
 Round: 9
-(Nov 17)
+
+Date: 11/17/1999
+
 Cobresal         2-2 Puerto Montt
 Dep. La Serena   4-1 Rangers
 Dep. Iquique     1-1 Coquimbo U.
-(Dec 1)
+
+Date: 12/1/1999
+
 O'Higgins        0-1 Dep. Concepcion
 
 Round: 10 
-(Nov 20)
+
+Date: 11/20/1999
+
 Dep. Concepcion  1-0 Dep. Iquique
-(Nov 21)
+
+Date: 11/21/1999
+
 Puerto Montt     1-3 Dep. La Serena
 Rangers          2-2 O'Higgins
 Coquimbo U.      6-0 Cobresal  
 
 Round: 11
-(Nov 26)
+
+Date: 11/26/1999
+
 Dep. Iquique     3-2 Rangers
-(Nov 27)
+
+Date: 11/27/1999
+
 O'Higgins        3-2 Puerto Montt
 Coquimbo U.      3-3 Dep. Concepcion
-(Nov 28)
+
+Date: 11/28/1999
+
 Cobresal         5-3 Dep. La Serena
 
 Round: 12
-(Dec 4) 
+
+Date: 12/4/1999
+
 Dep. La Serena   4-6 O'Higgins
 Rangers          0-2 Coquimbo U.
 Puerto Montt     2-1 Dep. Iquique
-(Dec 5) 
+
+Date: 12/5/1999
+
 Dep. Concepcion  3-1 Cobresal
 
 Round: 13
-(Dec 8)
+
+Date: 12/8/1999
+
 Dep. Concepcion  2-1 Rangers
 Dep. Iquique     5-0 Dep. La Serena
 Coquimbo U.      2-0 Puerto Montt
-(Dec 9)
+
+Date: 12/9/1999
+
 Cobresal         1-3 O'Higgins
 
 Round: 14
-(Dec 15)
+
+Date: 12/15/1999
+
 Rangers          1-2 Cobresal
 O'Higgins        5-2 Dep. Iquique
 Dep. La Serena   0-1 Coquimbo U.
@@ -674,14 +883,14 @@ Puerto Montt     3-2 Dep. Concepcion
 
 Round: Promotion/Relegation
 
-*First Legs (Dec 19)
-Prov. Osorno     4-3 Cobresal
-Everton          1-0 Dep. Iquique
+*First Legs 
+12/19/1999; Prov. Osorno    ; 4-3; Cobresal
+12/19/1999; Everton         ; 1-0; Dep. Iquique
 
 *Second Legs
 Date: 
-Cobresal         2-3 Prov. Osorno 
-Dep. Iquique     0-1 Everton
+; Cobresal        ; 2-3; Prov. Osorno 
+; Dep. Iquique    ; 0-1; Everton
 
 *Cobresal and Deportes Iquique relegated.
 

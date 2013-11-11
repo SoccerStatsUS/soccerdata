@@ -7,12 +7,24 @@ l = [
 
 
     { 'name': 'Santa Teresita FC',   },
+    { 'name': 'AD Belemita', },
 
 
     {
         'name': 'L.D. Alajuelense',
         'founded': datetime.datetime(1919, 6, 18),
         'city': 'Alajuela, Costa Rica',
+        },
+
+    {
+        'name': 'Juventud (Mata Redonda)',
+        'city': 'Mata Redonda, Costa Rica',
+        },
+
+    {
+        'name': 'Turrialba F.C.',
+        'founded': datetime.datetime(1940, 9, 28), # facebook.
+        'city': 'Turrialba, Costa Rica',
         },
 
     {
@@ -93,6 +105,13 @@ l = [
         },
 
     {
+        'name': 'UD Moravia',
+        'founded': datetime.datetime(1922, 11, 23),
+        'dissolved': 1989,
+        'city': 'Moravia Costa Rica',
+        },
+
+    {
         'name': 'AD Guanacasteca', # related to liberia mia?
         'founded': 2005,
         'city': 'Nicoya, Costa Rica',
@@ -152,6 +171,12 @@ l = [
         'name': 'Once Tigres',
         'founded': 1924,
         'city': 'Cartago, Costa Rica',
+        },
+
+    {
+        'name': 'Municipal Osa',
+        'founded': datetime.datetime(1983, 6, 6),
+        'city': 'Osa, Costa Rica',
         },
 
     {

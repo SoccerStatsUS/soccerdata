@@ -4,7 +4,7 @@
 import datetime
 
 
-d = {
+copa_centroamericana = {
     'competition': 'Copa Centroamericana',
     'team_data': ['Champion'],
     'champion': 'Champion',
@@ -117,8 +117,8 @@ interclubes = {
 
     'Champion': [
 
-        (1971, 'Comunicaciones'),
-        (1972, 'Saprissa'),
+        ('1970-1971', 'Comunicaciones'),
+        ('1971-1972', 'Saprissa'),
         (1973, 'Saprissa'),
         (1974, 'Municipal'),
         (1975, 'CD Platense'),
@@ -133,7 +133,7 @@ interclubes = {
 
         (1996, 'Alajuelense'),
         (1997, 'Alianza FC'),
-        (1998, 'Saprissa'),
+        ('1997-1998', 'Saprissa'),
 
         (1999, 'CD Olimpia'),
         (2000, 'CD Olimpia'),

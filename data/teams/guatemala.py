@@ -36,7 +36,7 @@ l = [
         },
 
     {
-        'name': 'Izabal',
+        'name': 'Izabal JC',
         'city': 'Puerto Barrios, Guatemala',
         'founded': 1951,
         },
@@ -44,6 +44,21 @@ l = [
     {
         'name': 'Deportivo Teculután',
         'city': 'Teculután, Guatemala',
+        },
+
+    {
+        'name': 'Tally Juca',
+        'city': 'Puerto Barrios, Guatemala',
+        },
+
+    {
+        'name': 'Santa Lucía Cotzumalguapa',
+        'city': 'Santa Lucía Cotzumalguapa, Guatemala',
+        },
+
+    {
+        'name': 'Deportivo Escuintla',
+        'city': 'Escuintla, Guatemala',
         },
 
     {

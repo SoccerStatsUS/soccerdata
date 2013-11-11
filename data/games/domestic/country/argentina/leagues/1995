@@ -5,34 +5,33 @@ Competition: Liga Argentina de Football
 Round: 1
 Date: 8/4/1995
 
-; Racing Club             ; 2-0;  Argentinos Juniors         [played at Ferro Carril Oeste]
-Carrario 8, Carrario 88
-
-
+; Racing Club             ; 2-0;  Argentinos Juniors         ; Ferro Carril Oeste
+Carrario 8, Carrario 88;
 
 Date: 8/5/1995
+
 ; Rosario Central          0-0  Belgrano (C)
 
 Date: 8/6/1995
 ; Huracán (BA)            ; 2-2;  Newell's Old Boys
-  4' N.A. Fernández, 39' Conti-44' Raggio, 58' Escudero
+  N.A. Fernández 4, Conti 39; Raggio 44, Escudero 58
 
-; Deportivo Español       ; 1-1;  Gimnasia y Esgrima LP      [played at Atlanta]
-  7' H.N. Castillo-63' F.D. Fernández
+; Deportivo Español       ; 1-1;  Gimnasia y Esgrima LP      ; Atlanta
+H.N. Castillo 7; F.D. Fernández 63
 
 ; Banfield                ; 0-1;  Vélez Sarsfield
-  69' Trotta (p)
+;Trotta (pk) 69
 
 ; Ferro Carril Oeste (BA) ; 1-1;  Independiente (A)
-  33' Khumalo-48' Mazzoni
+Khumalo 33; Mazzoni 48
 
 ; River Plate             ; 2-1;  San Lorenzo de Almagro
-  50' Cedrés, 77' Ortega-84' Ruggeri
+Cedrés 50, Ortega 77; Ruggeri 84
 
 Date: 8/7/1995
 
 ; Platense (VL)           ; 0-1;  Lanús
-  80' Simionato (p)
+; Simionato (pk) 80
 
 Date: 8/23/1995
 
@@ -41,110 +40,158 @@ Date: 8/23/1995
 Date: 10/ 18/1995
 
 ; Gimnasia y Esgrima J    ; 1-2;  Boca Juniors
-  52' Mac Allister (o.g.)-42' Scotto, 65' R.A. Peralta
+Mac Allister (og) 52; Scotto 42, R.A. Peralta 65
 
 Round: 2
 Date: 8/11/1995
 
-Independiente (A)        1-1  Banfield
-  [90' Mazzoni-74' Jara (o.g.)]
+; Independiente (A)       ; 1-1;  Banfield
+Mazzoni 90; Jara (og) 74
+
 Date: 8/12/1995
-Belgrano (C)             0-2  River Plate                [played at Estadio Córdoba]
-  [63' and 72' Crespo]
+; Belgrano (C)            ; 0-2;  River Plate                ; Estadio Córdoba
+; Crespo 63, Crespo 72
+
 Date: 8/13/1995
-Newell's Old Boys        1-1  Platense (VL)
-  [65' Loyola (o.g.)-14' Dalla Líbera (p)]
-Boca Juniors             2-1  Huracán (BA)
-  [27' S.D. Martínez, 89' Scotto-77' H.R. Guerra]
-San Lorenzo de Almagro   1-0  Racing Club
-  [87' Ortega Sánchez]
-Vélez Sarsfield          1-0  Rosario Central
-  [20' Camps]
-Gimnasia y Esgrima LP    1-1  Gimnasia y Esgrima J
-  [70' Dopazo (p)-65' Barella]
-Argentinos Juniors       0-0  Estudiantes LP             [played at Atlanta]
+; Newell's Old Boys       ; 1-1;  Platense (VL)
+Loyola (og) 65; Dalla Líbera (pk) 14
+
+; Boca Juniors            ; 2-1;  Huracán (BA)
+S.D. Martínez 27,Scotto 89; H.R. Guerra 77
+
+; San Lorenzo de Almagro  ; 1-0;  Racing Club
+Ortega Sánchez 87;
+
+; Vélez Sarsfield         ; 1-0;  Rosario Central
+Camps 20;
+
+; Gimnasia y Esgrima LP   ; 1-1;  Gimnasia y Esgrima J
+Dopazo (pk) 70; Barella 65
+
+; Argentinos Juniors      ; 0-0;  Estudiantes LP             ; Atlanta
+
 Date: 8/14/1995
-Lanús                    1-1  Ferro Carril Oeste (BA)
-  [74' A.M. López-49' Sava]
-Date: 8/30/1995
-Colón                    0-0  Deportivo Español
+; Lanús                   ; 1-1;  Ferro Carril Oeste (BA)
+A.M. López 74; Sava 49
+
+8/30/1995; Colón                   ; 0-0;  Deportivo Español
 
 Round: 3
 Date: 8/18/1995
-Platense (VL)            0-1  Boca Juniors               [played at Vélez Sarsfield]
-  [70' Tchami]
+
+; Platense (VL)           ; 0-1;  Boca Juniors               ; Vélez Sarsfield
+; Tchami 70
+
 Date: 8/19/1995
-Rosario Central          1-1  Banfield
-  [36' R.E. Gordillo-67' J.J. Rossi (p)]
+
+; Rosario Central         ; 1-1;  Banfield
+R.E. Gordillo 36; J.J. Rossi (pk) 67
+
 Date: 8/20/1995
-Huracán (BA)             1-1  Gimnasia y Esgrima LP
-  [7' Gauna-89' Morant]
-Gimnasia y Esgrima J     1-0  Colón
-  [8' Cuffaro Russo]
-Racing Club              1-0  Belgrano (C)               [played at Vélez Sarsfield]
-  [57' Carrario]
-Ferro Carril Oeste (BA)  1-2  Newell's Old Boys
-  [63' S.G. Sánchez-58' Gabrich, 76' G.A. Cáceres]
-Lanús                    2-1  Independiente (A)
-  [9' Di Carlo, 77' A.M. López-15' Mazzoni]
-River Plate              1-1  Vélez Sarsfield
-  [3' C.R. Ayala-44' O.A. Asad]
+
+; Huracán (BA)            ; 1-1;  Gimnasia y Esgrima LP
+Gauna 7; Morant 89
+
+; Gimnasia y Esgrima J    ; 1-0;  Colón
+Cuffaro Russo 8;
+
+; Racing Club             ; 1-0;  Belgrano (C)               ; Vélez Sarsfield
+Carrario 57;
+
+; Ferro Carril Oeste (BA) ; 1-2;  Newell's Old Boys
+S.G. Sánchez 63; Gabrich 58, G.A. Cáceres 76
+
+; Lanús                   ; 2-1;  Independiente (A)
+Di Carlo 9, A.M. López 77; Mazzoni 15
+
+; River Plate             ; 1-1;  Vélez Sarsfield
+C.R. Ayala 3; O.A. Asad 44
+
 Date: 8/21/1995
-Deportivo Español        0-0  Argentinos Juniors         [played at Ferro Carril Oeste]
+
+; Deportivo Español       ; 0-0;  Argentinos Juniors         ; Ferro Carril Oeste
+
 Date: 8/30/1995
-Estudiantes LP           1-1  San Lorenzo de Almagro
-  [11' J.L. Calderón-7' R. Rojas (o.g.)]
+
+; Estudiantes LP          ; 1-1;  San Lorenzo de Almagro
+J.L. Calderón 11; R. Rojas (og) 7
 
 Round: 4
 Date: 8/25/1995
-Independiente (A)        1-1  Rosario Central
-  [63' Mazzoni-84' Coudet]
+
+; Independiente (A)       ; 1-1;  Rosario Central
+Mazzoni 63; Coudet 84
+
 Date: 8/26/1995
-Colón                    3-0  Huracán (BA)
-  [55' Uliambre, 59' Saralegui, 90' C.O. García]
+
+; Colón                   ; 3-0;  Huracán (BA)
+Uliambre 55, Saralegui 59, C.O. García 90
+
 Date: 8/27/1995
-Boca Juniors             2-2  Ferro Carril Oeste (BA)
-  [44' Tchami, 68' Vivas-18' Mandrini, 82' Vargas]
-Gimnasia y Esgrima LP    0-1  Platense (VL)
-  [71' Ruffini]
-San Lorenzo de Almagro   1-0  Deportivo Español
-  [85' Ruggeri]
-Belgrano (C)             1-1  Estudiantes LP             [played at Instituto]
-  [53' Spallina-82' J.L. Calderón]
-Vélez Sarsfield          3-2  Racing Club
-  [3' Trotta, 23' Asad, 67' Trotta (p)-16' Capria, 73' Fleita]
-Banfield                 1-2  River Plate
-  [43' Kraff-46' Gallardo, 58' Ortega]
-Newell's Old Boys        0-1  Lanús
-  [50' Simionato]
+
+; Boca Juniors            ; 2-2;  Ferro Carril Oeste (BA)
+Tchami 44, Vivas 68; Mandrini 18, Vargas 82
+
+; Gimnasia y Esgrima LP   ; 0-1;  Platense (VL)
+; Ruffini 71
+
+; San Lorenzo de Almagro  ; 1-0;  Deportivo Español
+ Ruggeri 85;
+
+; Belgrano (C)            ; 1-1;  Estudiantes LP             ; Instituto
+ Spallina 53; J.L. Calderón 82
+
+; Vélez Sarsfield         ; 3-2;  Racing Club
+Trotta 3, Asad 23, Trotta (pk) 67; Capria 16, Fleita 73
+
+; Banfield                ; 1-2;  River Plate
+Kraff 43; Gallardo 46, Ortega 58
+
+; Newell's Old Boys       ; 0-1;  Lanús
+; Simionato 50
+
 Date: 8/28/1995
-Argentinos Juniors       4-0  Gimnasia y Esgrima J       [played at Ferro Carril Oeste]
-  [11' Bennett, 67' V.H. Ferreyra, 76' and 78' (p) Gancedo]
+
+; Argentinos Juniors      ; 4-0;  Gimnasia y Esgrima J       ; Ferro Carril Oeste
+Bennett 11, V.H. Ferreyra 67 , Gancedo 76, Gancedo (pk) 78;
 
 Round: 5
 Date: 9/1/1995
-River Plate              0-0  Rosario Central
+
+; River Plate             ; 0-0;  Rosario Central
+
 Date: 9/2/1995
-Estudiantes LP           0-1  Vélez Sarsfield
-  [84' Zandoná]
+
+; Estudiantes LP          ; 0-1;  Vélez Sarsfield
+; Zandoná 84
+
 Date: 9/3/1995
-Lanús                    1-1  Boca Juniors               [played at Independiente]
-  [68' Gamboa (o.g.)-59' Fabbri]
-Ferro Carril Oeste (BA)  0-1  Gimnasia y Esgrima LP
-  [88' Morant]
-Huracán (BA)             0-1  Argentinos Juniors
-  [13' Mas]
+; Lanús                   ; 1-1;  Boca Juniors               ; Independiente
+ Gamboa (og) 68; Fabbri 59
+
+; Ferro Carril Oeste (BA) ; 0-1;  Gimnasia y Esgrima LP
+; Morant 88
+
+; Huracán (BA)            ; 0-1;  Argentinos Juniors
+; Mas 13
+
 Gimnasia y Esgrima J     4-3  San Lorenzo de Almagro
-  [15' Trimarchi (p), 43' Piaggio, 70' Trimarchi, 83' Piaggio-3' Biaggio, 29' and 88' (p) Netto]
-Deportivo Español        0-0  Belgrano (C)               [played at Nueva Chicago]
-Racing Club              1-0  Banfield                   [played at Vélez Sarsfield]
-  [58' P.A. Paz (o.g.)]
+Trimarchi (pk) 15, Piaggio 43, Trimarchi 70, Piaggio 83; Biaggio 3, Netto 29, Netto (pk) 88
+
+; Deportivo Español       ; 0-0;  Belgrano (C)               ; Nueva Chicago
+
+; Racing Club             ; 1-0;  Banfield                   ; Vélez Sarsfield
+ P.A. Paz (og) 58;
+
 Date: 9/4/1995
-Platense (VL)            1-0  Colón
-  [87' Maisterra]
+
+; Platense (VL)           ; 1-0;  Colón
+ Maisterra 87;
+
 Date: 12/14/1995
-Newell's Old Boys        1-0  Independiente (A)          [played at Rosario Central]
-  [26' Fagiani]
+
+; Newell's Old Boys       ; 1-0;  Independiente (A)          ; Rosario Central
+ Fagiani 26;
 
 Round: 6
 Date: 9/8/1995
@@ -156,10 +203,10 @@ Rosario Central          1-3  Racing Club
 Date: 9/10/1995
 Boca Juniors             1-1  Newell's Old Boys
   [24' Caniggia-79' Gabrich]
-Belgrano (C)             0-3  Gimnasia y Esgrima J       [played at Instituto]
+Belgrano (C)             0-3  Gimnasia y Esgrima J       ; Instituto
   [68' Cuffaro Russo, 80' and 88' Gorostidi]
 Independiente (A)        0-0  River Plate
-Argentinos Juniors       2-3  Platense (VL)              [played at Atlanta]
+Argentinos Juniors       2-3  Platense (VL)              ; Atlanta
   [27' Gancedo (p), 64' F.A. Batista-53' Fuertes, 56' Erbín, 89' Pena (o.g.)]
 Banfield                 1-0  Estudiantes LP
   [86' J.R. Cruz]
@@ -186,13 +233,13 @@ Lanús                    1-1  Colón
   [80' H.A. Morales-79' Toresani]
 Newell's Old Boys        1-1  Gimnasia y Esgrima LP
   [7' A.J. Berti (p)-17' Dopazo (p)]
-Racing Club              1-1  River Plate                [played at Independiente]
+Racing Club              1-1  River Plate                ; Independiente
   [25' M.A. Delgado-55' Almeyda]
 Estudiantes LP           1-2  Rosario Central
   [35' J.L. Calderón-48' P.A. Sánchez, 52' Falaschi]
 Ferro Carril Oeste (BA)  0-0  Argentinos Juniors
 Date: 9/25/1995
-Deportivo Español        2-2  Banfield                   [played at Ferro Carril Oeste]
+Deportivo Español        2-2  Banfield                   ; Ferro Carril Oeste
   [62' Núñez, 79' Agoglia-30' J.J. Rossi, 90' Meske (o.g.)]
 
 Round: 8
@@ -211,21 +258,21 @@ River Plate              2-2  Estudiantes LP
   [57' Amato, 74' Silvani-62' J.S. Ferreira, 66' J.L. Calderón]
 Colón                    1-1  Newell's Old Boys
   [75' Risso-41' M.A. Escudero]
-Belgrano (C)             0-0  Platense (VL)              [played at Instituto]
-Argentinos Juniors       0-3  Lanús                      [played at Atlanta]
+Belgrano (C)             0-0  Platense (VL)              ; Instituto
+Argentinos Juniors       0-3  Lanús                      ; Atlanta
   [44' Peinado, 59' Ibazaga, 78' Di Carlo]
 Date: 10/ 2/1995
 Banfield                 2-2  Gimnasia y Esgrima J
   [15' Graff, 52' Alvarenga (p)-18' Gorostidi, 65' R.F. González]
 Date: 11/ 11/1995
-Gimnasia y Esgrima LP    0-1  Boca Juniors               [played at Vélez Sarsfield]
+Gimnasia y Esgrima LP    0-1  Boca Juniors               ; Vélez Sarsfield
   [37' Scotto]
 
 Round: 9
 Date: 10/ 6/1995
 Ferro Carril Oeste (BA)  4-2  Belgrano (C)
   [12' S.G. Sánchez, 13' Duré, 36' Sava, 42' Duré (p)-21' Spallina (p), 89' Mercado]
-Deportivo Español        0-1  River Plate                [played at Vélez Sarsfield]
+Deportivo Español        0-1  River Plate                ; Vélez Sarsfield
   [18' Francescoli]
 Date: 10/ 7/1995
 Boca Juniors             1-0  Colón
@@ -244,7 +291,7 @@ Date: 10/ 9/1995
 Huracán (BA)             2-0  Banfield
   [11' Guerra, 88' Pineda]
 Date: 10/ 10/1995
-Estudiantes LP           2-3  Racing Club                [played at Vélez Sarsfield]
+Estudiantes LP           2-3  Racing Club                ; Vélez Sarsfield
   [26' and 89' (p) J.L. Calderón-48' Capria (p), 55' C.J. López, 64' Capria]
 
 Round: 10
@@ -255,13 +302,13 @@ Date: 10/ 14/1995
 Estudiantes LP           1-2  Independiente (A)
   [66' Arzeno-14' Arzeno, 31' J.C. Ramírez]
 Date: 10/ 15/1995
-Argentinos Juniors       0-1  Boca Juniors               [played at Vélez Sarsfield]
+Argentinos Juniors       0-1  Boca Juniors               ; Vélez Sarsfield
   [70' Maradona]
 River Plate              1-0  Gimnasia y Esgrima J
   [86' Francescoli (p)]
-Belgrano (C)             1-1  Lanús                      [played at Instituto]
+Belgrano (C)             1-1  Lanús                      ; Instituto
   [32' Cattáneo-44' Loza]
-Racing Club              0-1  Deportivo Español          [played at Huracán (BA)]
+Racing Club              0-1  Deportivo Español          ; Huracán (BA)
   [71' S.R. Castillo]
 Colón                    4-1  Gimnasia y Esgrima LP
   [45' Saralegui, 64' A.V. González, 89' Saralegui, 90' Muller-87' G.O. Sanguinetti]
@@ -293,7 +340,7 @@ Huracán (BA)             2-0  River Plate
 Ferro Carril Oeste (BA)  3-3  Banfield
   [29' and 63' C.M. Vidal, 74' Mandrini-38' Alvarenga (p), 43' and 72' Alegre]
 Date: 10/ 23/1995
-Deportivo Español        1-0  Estudiantes LP             [played at Ferro Carril Oeste]
+Deportivo Español        1-0  Estudiantes LP             ; Ferro Carril Oeste
   [82' Agoglia]
 
 Round: 12
@@ -301,7 +348,7 @@ Date: 10/ 27/1995
 San Lorenzo de Almagro   0-2  Gimnasia y Esgrima LP
   [7' Gmo. Barrios Schelotto, 88' Saccone]
 Date: 10/ 28/1995
-Belgrano (C)             0-1  Boca Juniors               [played at Estadio Córdoba]
+Belgrano (C)             0-1  Boca Juniors               ; Estadio Córdoba
   [32' S.D. Martínez]
 Date: 10/ 29/1995
 Estudiantes LP           4-1  Gimnasia y Esgrima J
@@ -312,14 +359,14 @@ River Plate              1-1  Platense (VL)
   [7' G.O. Amato-46' Fuertes]
 Banfield                 0-2  Lanús
   [58' and 88' A.M. López]
-Deportivo Español        0-1  Independiente (A)          [played at Ferro Carril Oeste]
+Deportivo Español        0-1  Independiente (A)          ; Ferro Carril Oeste
   [46' Casartelli]
 Rosario Central          2-0  Ferro Carril Oeste (BA)
   [11' Ordóñez, 66' Carbonari]
 Vélez Sarsfield          3-1  Newell's Old Boys
   [4' Posse, 9' Moriggi, 14' H.M. Herrera-88' I.C. Gabrich (p)]
 Date: 10/ 30/1995
-Argentinos Juniors       2-0  Colón                      [played at Atlanta]
+Argentinos Juniors       2-0  Colón                      ; Atlanta
   [55' Bennett, 79' O.R. Acosta]
 
 Round: 13
@@ -355,7 +402,7 @@ Date: 11/ 11/1995
 Gimnasia y Esgrima J     1-0  Independiente (A)
   [69' Gorostidi]
 Date: 11/ 12/1995
-Banfield                 0-2  Boca Juniors               [played at Independiente]
+Banfield                 0-2  Boca Juniors               ; Independiente
   [25' Scotto, 73' Caniggia]
 River Plate 0-1 Lanús
   [68' Ibazaga]
@@ -363,8 +410,8 @@ San Lorenzo de Almagro   0-2  Argentinos Juniors
   [38'' V.H. Ferreyra, 44' Zermattén (p)
 Rosario Central          2-0  Newell's Old Boys
   [27' Carbonari, 63' Palma]
-Belgrano (C)             0-0  Colón                      [played at Estadio Córdoba]
-Deportivo Español        0-4  Huracán (BA)               [played at Ferro Carril Oeste]
+Belgrano (C)             0-0  Colón                      ; Estadio Córdoba
+Deportivo Español        0-4  Huracán (BA)               ; Ferro Carril Oeste
   [63' Guerra, 67' Marini, 79' Guerra, 84' Pelletti]
 Vélez Sarsfield          2-0  Gimnasia y Esgrima LP
   [2' Trotta (p), 50' J.O. Flores]
@@ -376,7 +423,7 @@ Round: 15
 Date: 11/ 17/1995
 Boca Juniors             0-0  Rosario Central
 Date: 11/ 18/1995
-Newell's Old Boys        3-1  River Plate                [played at Rosario Central]
+Newell's Old Boys        3-1  River Plate                ; Rosario Central
   [42' Raggio, 44' Baldivieso, 55' Iotov-38' Amato]
 Gimnasia y Esgrima LP    2-1  Banfield
   [34' Lagorio, 39' Yllana-8' Alvarenga]
@@ -386,7 +433,7 @@ Lanús                    0-3  Racing Club
   [38' M.A. Delgado, 54' Capria, 57' C.J. López]
 Colón                    1-2  Vélez Sarsfield
   [43' Gambier-16' Ibarra (o.g.), 46' Pandolfi]
-Argentinos Juniors       1-2  Belgrano (C)               [played at Atlanta]
+Argentinos Juniors       1-2  Belgrano (C)               ; Atlanta
   [65' Bennett-37' Tosello, 65' Artime]
 Ferro Carril Oeste (BA)  1-4  Estudiantes LP
   [84' Vidal-14' J.S. Verón, 36' A.D. Peralta (o.g.), 38' Palermo, 71' Maciel]
@@ -401,7 +448,7 @@ Date: 11/ 24/1995
 Vélez Sarsfield          2-0  Argentinos Juniors
   [34' Bassedas, 59' Pellegrino]
 Date: 11/ 25/1995
-Belgrano (C)             1-2  San Lorenzo de Almagro     [played at Estadio Córdoba]
+Belgrano (C)             1-2  San Lorenzo de Almagro     ; Estadio Córdoba
   [30' M.A. Flores-44' E.F. González, 82' Netto (p)]
 Date: 11/ 26/1995
 River Plate              0-0  Boca Juniors
@@ -419,7 +466,7 @@ Gimnasia y Esgrima J     4-3  Platense (VL)
   [35' Trimarchi, 55' J.A. Batista (p), 70' Gorostidi, 77' Trimarchi (p)-27' A.A. Morales,
    79' Romagnoli, 81' A.A. Morales]
 Date: 11/ 27/1995
-Deportivo Español        0-1  Ferro Carril Oeste (BA)    [played at Atlanta]
+Deportivo Español        0-1  Ferro Carril Oeste (BA)    ; Atlanta
   [57' Lorenzo]
 
 Round: 17
@@ -443,10 +490,10 @@ Ferro Carril Oeste (BA)  1-1  Gimnasia y Esgrima J
   [75' Samso (p)-26' Barrella]
 Platense (VL)            1-2  Huracán (BA)
   [39' Dalla Líbera (p)-9' Pelletti, 72' Marini]
-Newell's Old Boys        1-2  Estudiantes LP             [played at Rosario Central]
+Newell's Old Boys        1-2  Estudiantes LP             ; Rosario Central
   [28' Raggio (p)-23' Palermo, 63' Mazzucco]
 Date: 12/4/1995
-Argentinos Juniors       0-1  Banfield                   [played at Atlanta]
+Argentinos Juniors       0-1  Banfield                   ; Atlanta
   [41' J.R. Cruz]
 
 Round: 18
@@ -454,7 +501,7 @@ Date: 12/8/1995
 River Plate              3-2  Colón
   [22' Amato, 36' (p) and 66' Gallardo-74' Gambier, 88' Risso]
 Date: 12/9/1995
-Estudiantes LP           2-1  Boca Juniors               [played at Independiente]
+Estudiantes LP           2-1  Boca Juniors               ; Independiente
   [44' Práttola, 88' S.S. Maciel-33' Fabbri]
 Date: 12/10/1995
 Platense (VL)            2-2  Independiente (A)
@@ -465,7 +512,7 @@ Racing Club              2-0  Gimnasia y Esgrima LP
   [20' R.O. Capria, 30' De Vicente]
 Banfield                 2-5  San Lorenzo de Almagro
   [57' J.R. Arce, 71' Alvarenga-17' and 24' Biaggio, 42' E.F. González, 54' Biaggio, 66' Netto (p)]
-Deportivo Español        3-3  Newell's Old Boys          [played at Ferro Carril Oeste]
+Deportivo Español        3-3  Newell's Old Boys          ; Ferro Carril Oeste
   [25' Odriozola (p), 62' A. Benítez, 70' Odriozola (p)-2', 11' and 47' Gabrich]
 Vélez Sarsfield          2-0  Belgrano (C)
   [48' and 89' J.O. Flores]
@@ -484,16 +531,16 @@ Boca Juniors             2-2  Deportivo Español
 Date: 12/17/1995
 Colón                    5-1  Racing Club
 [61' Saralegui, 70' Risso, 74' Saralegui, 78' Gambier, 82' Saralegui-16' C.J. López]
-Newell's Old Boys        0-0  Gimnasia y Esgrima J       [played at Rosario Central]
+Newell's Old Boys        0-0  Gimnasia y Esgrima J       ; Rosario Central
 Independiente (A)        0-3  Vélez Sarsfield
 [5' Trotta (p), 61' Camps, 81' J.H. Basualdo]
 Lanús                    1-0  Huracán (BA)
 [33' Schurrer]
 Gimnasia y Esgrima LP    0-3  Estudiantes LP
 [56' J.L. Calderón, 75' Catán, 78' J.L. Calderón]
-Argentinos Juniors       3-1  River Plate                [played at Atlanta]
+Argentinos Juniors       3-1  River Plate                ; Atlanta
 [34' R.A. Bernuncio, 38' R. Quinteros, 49' R.A. Bernuncio-88' Amato]
-Belgrano (C)             0-0  Banfield                   [played at Instituto]
+Belgrano (C)             0-0  Banfield                   ; Instituto
 Date: 12/18/1995
 Ferro Carril Oeste (BA)  1-4  Platense (VL)
 [69' V.M. López-1' Fuertes, 35' Saraiba, 40' (p) and 47' Mena]
@@ -538,37 +585,37 @@ Season: 1995-1996 Clausura
 *Goals scored by penalty kicks are indicated in parenthesis.
 
 Round: 1
-[Mar 8, 1996]
-Boca Juniors             4-0  Gimnasia y Esgrima J       [played at Vélez Sarsfield]
+[Mar 8/1996
+Boca Juniors             4-0  Gimnasia y Esgrima J       ; Vélez Sarsfield
   [3' Maradona (p), 5' R.A. Peralta, 64' S.D. Martínez, 78' Vivas]
-[Mar 9, 1996]
-Newell's Old Boys        1-1  Huracán (BA)               [played at Rosario Central]
+[Mar 9/1996
+Newell's Old Boys        1-1  Huracán (BA)               ; Rosario Central
   [73' Gabrich-57' Pineda]
-[Mar 10, 1996]
+[Mar 10/1996
 Gimnasia y Esgrima LP    0-0  Deportivo Español
 Colón                    2-1  Estudiantes LP
   [42' H.I. Rodríguez, 71' Risso-38' Palermo]
-Argentinos Juniors       1-3  Racing Club                [played at Huracán (BA)]
+Argentinos Juniors       1-3  Racing Club                ; Huracán (BA)
   [86' Cardinal (p)-28' R.O. Capria (p), 42' Carrario, 90' C.J. López]
 San Lorenzo de Almagro   3-1  River Plate
   [25' G.D. Quinteros, 44' Carranza, 89' Rivadero-33' Cedrés]
-Belgrano (C)             1-1  Rosario Central            [played at Estadio Córdoba]
+Belgrano (C)             1-1  Rosario Central            ; Estadio Córdoba
   [10' Artime-61' R.F. Da Silva]
 Vélez Sarsfield          3-2  Banfield
   [21' J.O. Flores, 29' M.H. Herrera, 78' Trotta (p)-54' F.L. Alegre, 69' J.R. Cruz]
 Independiente (A)        0-2  Ferro Carril Oeste (BA)
   [85' Lorenzo, 89' C.G. Torres]
-[Mar 11, 1996]
+[Mar 11/1996
 Lanús                    1-0  Platense (VL)
   [1' A.M. López]
 
 Round: 2
-[Mar 15, 1996]
+[Mar 15/1996
 Banfield                 0-1  Independiente (A)
   [54' Mazzoni]
-[Mar 16, 1996]
+[Mar 16/1996
 Rosario Central          0-0  Vélez Sarsfield
-[Mar 17, 1996]
+[Mar 17/1996
 Huracán (BA)             1-1  Boca Juniors
   [89' H.R. Guerra-85' J.S. Verón]
 River Plate              3-0  Belgrano (C)
@@ -577,51 +624,51 @@ Racing Club              1-0  San Lorenzo de Almagro
   [49' Carrario]
 Platense (VL)            3-2  Newell's Old Boys
   [52' Coria, 63' Mena, 78' Coria-32' and 74' Gabrich]
-Deportivo Español        1-0  Colón                      [played at Atlanta]
+Deportivo Español        1-0  Colón                      ; Atlanta
   [37' C.S. Galván]
 Estudiantes LP           2-0  Argentinos Juniors
   [14' Craviotto, 53' S.S. Maciel]
 Gimnasia y Esgrima J     2-1  Gimnasia y Esgrima LP
   [32' and 39' H.M. Lobo-80' Guglielmipietro]
-[Mar 18, 1996]
+[Mar 18/1996
 Ferro Carril Oeste (BA)  1-1  Lanús
   [68' M.A. Vargas-73' Cravero]
 
 Round: 3
-[Mar 22, 1996]
+[Mar 22/1996
 Vélez Sarsfield          3-2  River Plate
   [48' Pandolfi, 62' Chilavert, 90' H.M. Herrera-30' J.A. Gómez, 86' Crespo]
-[Mar 23, 1996]
+[Mar 23/1996
 Gimnasia y Esgrima LP    2-0  Huracán (BA)
   [31' and 76' (p) Márcico]
-[Mar 24, 1996]
-Boca Juniors             1-0  Platense (VL)              [played at Vélez Sarsfield]
+[Mar 24/1996
+Boca Juniors             1-0  Platense (VL)              ; Vélez Sarsfield
   [16' Caniggia]
 Colón                    0-2  Gimnasia y Esgrima J
   [50' Piaggio, 80' M.H. Lobo]
-Belgrano (C)             2-2  Racing Club                [played at Estadio Córdoba]
+Belgrano (C)             2-2  Racing Club                ; Estadio Córdoba
   [47' Tosello, 50' Brusco-23' C.J. López, 90' Delgado]
 San Lorenzo de Almagro   0-2  Estudiantes LP
   [2' and 88' S.S. Maciel]
-Newell's Old Boys        1-1  Ferro Carril Oeste (BA)    [played at Rosario Central]
+Newell's Old Boys        1-1  Ferro Carril Oeste (BA)    ; Rosario Central
   [74' H.D.C. Franco-71' Duré]
 Independiente (A)        0-2  Lanús
   [43' Simionato (p), 71' A.M. López]
 Banfield                 2-1  Rosario Central
   [1' F.L. Alegre (p), 82' J.R. Cruz-6' R.F. Da Silva]
-[Mar 25, 1996]
-Argentinos Juniors       1-3  Deportivo Español          [played at Atlanta]
+[Mar 25/1996
+Argentinos Juniors       1-3  Deportivo Español          ; Atlanta
   [74' J.M. Fernández-43' Grondona, 81' and 85' H.N. Castillo]
   
 Round 4
-[Mar 29, 1996]
-Deportivo Español        2-0  San Lorenzo de Almagro     [played at Atlanta]
+[Mar 29/1996
+Deportivo Español        2-0  San Lorenzo de Almagro     ; Atlanta
   [58' and 82' H.N. Castillo]
-[Mar 30, 1996]
+[Mar 30/1996
 Rosario Central          3-1  Independiente (A)
   [15' J.C. Ramírez (o.g.), 80' Cardetti, 85' Bustos Montoya-56' Domizi]
-[Mar 31, 1996]
-Ferro Carril Oeste (BA)  1-2  Boca Juniors               [played at Vélez Sarsfield]
+[Mar 31/1996
+Ferro Carril Oeste (BA)  1-2  Boca Juniors               ; Vélez Sarsfield
   [47' Navarro Montoya (o.g.)-11' Caniggia, 33' C.A. González]
 Platense (VL)            2-3  Gimnasia y Esgrima LP
   [30' Coria, 36' G.O. Sanguinetti (o.g.)-43' Albornoz, 64' and 73 (p) Márcico]
@@ -635,19 +682,19 @@ River Plate              2-1  Banfield
   [32' Francescoli, 63' Ortega-18' P.A. Paz]
 Lanús                    4-1  Newell's Old Boys
   [7 Schurrer, 46' Enría, 51' Cejas (o.g.), 52' Enría-89' B. Giménez]
-[Apr 1, 1996]
+[Apr 1/1996
 Estudiantes LP           2-1  Belgrano (C)
   [15' Mazzucco, 84' M.S. Aguilar-89' Tosello (p)]
 
 Round 5
-[Apr 5, 1996]
+[Apr 5/1996
 Vélez Sarsfield          1-2  Estudiantes LP
   [63' Camps-49' Mazzucco, 90' L.A. Ramos (p)]
-[Apr 6, 1996]
+[Apr 6/1996
 Rosario Central          2-1  River Plate
   [63' and 71' Cardetti-84' Ortega]
-[Apr 7, 1996]
-Boca Juniors             2-1  Lanús                      [played at Vélez Sarsfield]
+[Apr 7/1996
+Boca Juniors             2-1  Lanús                      ; Vélez Sarsfield
   [20' and 70' Caniggia-62' Ibazaga]
 Banfield                 0-1  Racing Club
   [35' R.O. Capria (p)]
@@ -657,29 +704,29 @@ Gimnasia y Esgrima LP    1-0  Ferro Carril Oeste (BA)
   [65' Márcico]
 Colón                    0-1  Platense (VL)
   [81' Mena]
-Belgrano (C)             1-1  Deportivo Español          [played at Estadio Córdoba]
+Belgrano (C)             1-1  Deportivo Español          ; Estadio Córdoba
   [77' Spallina-71' S.F. Ojeda]
-[Apr 8, 1996]
-Argentinos Juniors       0-3  Huracán (BA)               [played at Atlanta]
+[Apr 8/1996
+Argentinos Juniors       0-3  Huracán (BA)               ; Atlanta
   [69' N.A. Fernández, 75' P.D. Barrios (p), 87' Marini]
   [The match was suspended at 89' due to crowd trouble]
-[Jun 11, 1996]
+[Jun 11/1996
 Independiente (A)        3-2  Newell's Old Boys
   [58' Calderón, 62' Arzeno, 66' Mazzoni-76' Iotov, 90' Liendo]
 
 Round 6
-[Apr 12, 1996]
+[Apr 12/1996
 Racing Club              0-1  Rosario Central
   [62' R.E. Gordillo]
-[Apr 13, 1996]
-Newell's Old Boys        1-0  Boca Juniors               [played at Rosario Central]
+[Apr 13/1996
+Newell's Old Boys        1-0  Boca Juniors               ; Rosario Central
   [24' H.D.C. Franco]
-[Apr 14, 1996]
+[Apr 14/1996
 River Plate              1-4  Independiente (A)
   [16' Cedres-3' Burruchaga, 38' and 55' Alvez, 87' Dorta]
 Huracán (BA)             1-1  San Lorenzo de Almagro
   [79' Guerra-61' Carranza (p)]
-Deportivo Español        1-2  Vélez Sarsfield            [played at Ferro Carril Oeste]
+Deportivo Español        1-2  Vélez Sarsfield            ; Ferro Carril Oeste
   [1' Chilavert (o.g.)-36' Bassedas, 64' Camps]
 Platense (VL)            3-0  Argentinos Juniors
   [73' Calcaterra, 83' Romagnoli, 87' Coria]
@@ -690,17 +737,17 @@ Estudiantes LP           2-2  Banfield
   [7' París, 48' S.S. Maciel-56' Glaría, 75' F.L. Alegre (p)]
 Gimnasia y Esgrima J     0-2  Belgrano (C)
   [51' and 63' (p) Tosello]
-[Apr 15, 1996]
+[Apr 15/1996
 Ferro Carril Oeste (BA)  0-0  Colón
 
 Round 7
-[Apr 26, 1996]
+[Apr 26/1996
 San Lorenzo de Almagro   1-0  Platense (VL)
   [11' Silas]
-[Apr 27, 1996]
-Belgrano (C)             0-1  Huracán (BA)               [played at Estadio Córdoba]
+[Apr 27/1996
+Belgrano (C)             0-1  Huracán (BA)               ; Estadio Córdoba
   [49' Guerra]
-[Apr 28, 1996]
+[Apr 28/1996
 Independiente (A)        1-1  Boca Juniors
   [59' Facciutto-43' J.L. Calderón]
 River Plate              4-2  Racing Club
@@ -709,23 +756,23 @@ Vélez Sarsfield          4-0  Gimnasia y Esgrima J
   [43' Camps, 48' J.O. Flores, 62' Camps, 66' J.O. Flores]
 Colón                    1-1  Lanús
   [31' Toresani-16' A.M. López]
-Argentinos Juniors       0-2  Ferro Carril Oeste (BA)    [played at Atlanta]
+Argentinos Juniors       0-2  Ferro Carril Oeste (BA)    ; Atlanta
   [73' Sava, 90' V.M. López
 Rosario Central          2-3  Estudiantes LP 
   [3' Cardetti, 89' Pobersnik-2' Prátola, 7' y 70' Palermo]
 Gimnasia y Esgrima LP    4-2  Newell's Old Boys
   [43' Gvo. Barrios Schelotto, 44' Márcico, 77' Morant, 88' Albornoz-30' Iotov, 82' Siviero]
-[Apr 29, 1996]
+[Apr 29/1996
 Banfield                 0-0  Deportivo Español
 
 Round 8
-[May 3, 1996]
+[May 3/1996
 Huracán (BA)             2-2  Vélez Sarsfield
   [29' P.D. Barrios, 75' Guerra-65' H.M. Herrera, 84' Zandoná]
-[May 4, 1996]
+[May 4/1996
 Gimnasia y Esgrima J     0-3  Banfield
   [16' J.R. Cruz (p), 22' Malvestitti, 85' Delfino]
-[May 5, 1996]
+[May 5/1996
 Boca Juniors             0-6  Gimnasia y Esgrima LP
   [2' and 13' Gmo. Barrios Schelotto, 40' Albornoz, 44' Gmo. Barrios Schelotto, 51' Márcico (p),
    79' Saccone]
@@ -734,24 +781,24 @@ Estudiantes LP           3-1  River Plate
 Racing Club              1-1  Independiente (A)
   [59' Facciutto-43' Calderón]
 Ferro Carril Oeste (BA)  0-0  San Lorenzo de Almagro
-Newell's Old Boys        1-1  Colón                      [played at Rosario Central]
+Newell's Old Boys        1-1  Colón                      ; Rosario Central
   [39' Aquino-67' Gambier]
 Lanús                    3-0  Argentinos Juniors
   [2' and 30' A.M. López, 74' N.O. González]
 Platense (VL)            2-1  Belgrano (C)
   [37' Calcaterra, 42' Romagnoli-22' Brusco]
-[May 6, 1996]
-Deportivo Español        1-1  Rosario Central            [played at Atlanta]
+[May 6/1996
+Deportivo Español        1-1  Rosario Central            ; Atlanta
   [21' W. Núñez-13' Coudet]
 
 Round 9
-[May 10, 1996]
+[May 10/1996
 Vélez Sarsfield          4-3  Platense (VL)
   [2' Trotta (p), 7' Camps, 40' H.M. Herrera, 67' Trotta (p)-3' and 59' Coria, 63' Fuertes]
-[May 11, 1996]
+[May 11/1996
 Colón                    1-0  Boca Juniors
   [85' Saralegui]
-[May 12, 1996]
+[May 12/1996
 River Plate              2-0  Deportivo Español
   [62' J.A. Gómez, 84' J. Rossi]
 Gimnasia y Esgrima LP    3-2  Independiente (A)
@@ -764,22 +811,22 @@ San Lorenzo de Almagro   2-3  Lanús
 Banfield 0-0 Huracán (BA)
 Rosario Central          1-1  Gimnasia y Esgrima J
   [5' R.F. Da Silva-27' M.H. Lobo]
-Belgrano (C)             3-1  Ferro Carril Oeste (BA)    [played at Estadio Córdoba]
+Belgrano (C)             3-1  Ferro Carril Oeste (BA)    ; Estadio Córdoba
   [16' Oste, 37' and 70' Tosello-72' Nicotra]
-[May 13, 1996]
-Argentinos Juniors       1-1  Newell's Old Boys          [played at Atlanta]
+[May 13/1996
+Argentinos Juniors       1-1  Newell's Old Boys          ; Atlanta
   [62' Cardinal (p)-23' Gabrich]
 
 Round 10
-[May 17, 1996]
-Deportivo Español        1-2  Racing Club                [played at Huracán (BA)]
+[May 17/1996
+Deportivo Español        1-2  Racing Club                ; Huracán (BA)
   [64' Odriozola (p)-38' Quiroz, 88' Fleita]
-[May 18, 1996]
-Newell's Old Boys        1-1  San Lorenzo de Almagro     [played at Rosario Central]
+[May 18/1996
+Newell's Old Boys        1-1  San Lorenzo de Almagro     ; Rosario Central
   [80' Raggio (p)-12' R.A. Bernuncio]
 Gimnasia y Esgrima J     1-4  River Plate
   [70' Gorostidi-7' Cedrés, 20' G.O. Amato, 52' and 60' Ortega]
-[May 19, 1996]
+[May 19/1996
 Boca Juniors             4-1  Argentinos Juniors
   [22' Fabbri, 30' J.S. Verón, 60' Caniggia, 71' S.D. Martínez-63' Cardinal (p)]
 Independiente (A)        0-0  Estudiantes LP
@@ -790,43 +837,43 @@ Lanús                    4-2  Belgrano (C)
 Gimnasia y Esgrima LP    3-1  Colón
   [44' Albornoz, 77' Saccone, 88' Albornoz-53' Gambier]
 Ferro Carril Oeste (BA)  0-0  Vélez Sarsfield
-[May 20, 1996]
+[May 20/1996
 Platense (VL)            0-5  Banfield
   [65' and 69' J.R. Cruz, 71' F.L. Alegre, 82' Glaría, 87' Malvestitti]
 
 Round 11
-[May 24, 1996]
+[May 24/1996
 Racing Club              4-1  Gimnasia y Esgrima J
   [14' M.L. Lobo (o.g.), 18' Fleita, 44' R.O. Capria (p), 88' Fleita-27' R.F. González]
-[May 25, 1996]
+[May 25/1996
 Colón                    3-1  Independiente (A)
   [5' C.O. García, 25' Muller, 39' Saralegui-63' Mazzoni]
-[May 26, 1996]
+[May 26/1996
 San Lorenzo de Almagro   1-2  Boca Juniors
   [6' Silas-16' C.A. González, 44' J.S. Verón]
 River Plate              4-0  Huracán (BA)
   [40' Francescoli, 58' Crespo, 66' Francescoli, 69' Ortega]
 Vélez Sarsfield          5-1  Lanús
   [21' H.M. Herrera, 28' Posse, 42' Chilavert (p), 46' Posse, 51' Cardozo-37' A.M. López]
-Argentinos Juniors       1-2  Gimnasia y Esgrima LP      [played at Atlanta]
+Argentinos Juniors       1-2  Gimnasia y Esgrima LP      ; Atlanta
   [84' Lauría Calvo-23' Albornoz, 44' Márcico (p)]
 Rosario Central          2-1  Platense (VL)
   [84' Falaschi, 90' Carbonari-56' Carracedo]
-Belgrano (C)             3-1  Newell's Old Boys          [played at Estadio Córdoba]
+Belgrano (C)             3-1  Newell's Old Boys          ; Estadio Córdoba
   [13' Tosello, 53' Spallina, 79' Artime-58' Gabrich]
 Estudiantes LP           3-2  Deportivo Español
   [10' S.S. Maciel (p), 55' G.F. Córdoba, 82' Craviotto-20' A. Benítez, 75' Alfonso]
-[May 27, 1996]
+[May 27/1996
 Banfield                 0-0  Ferro Carril Oeste (BA)
 
 Round 12
-[Jun 7, 1996]
+[Jun 7/1996
 Independiente (A)        1-1  Deportivo Español
   [13' Burruchaga (p)-41' Odriozola (p)]
-[Jun 8, 1996]
-Newell's Old Boys        0-1  Vélez Sarsfield            [played at Rosario Central]
+[Jun 8/1996
+Newell's Old Boys        0-1  Vélez Sarsfield            ; Rosario Central
   [77' J.O. Flores]
-[Jun 9, 1996]
+[Jun 9/1996
 Ferro Carril Oeste (BA)  0-5  Rosario Central
   [17' Boasso, 36' R.F. Da Silva, 40' Coudet, 64' P.A. Sánchez, 65' R.E. Gordillo]
 Huracán (BA)             2-2  Racing Club
@@ -841,21 +888,21 @@ Boca Juniors             2-0  Belgrano (C)
   [80' S.D. Martínez, 89' Maradona]
 Platense (VL)            2-1  River Plate
   [78' and 81' Fuertes-83' Gallardo (p)]
-[Jun 10, 1996]
+[Jun 10/1996
 Lanús                    4-0  Banfield
   [13' H.A. Morales, 45' Enría, 56' H.A. Morales, 70' Ibazaga]
 
 Round 13 
-[Jun 14, 1996]
+[Jun 14/1996
 San Lorenzo de Almagro   0-0  Colón
-[Jun 15, 1996]
+[Jun 15/1996
 Estudiantes LP           5-2  Huracán (BA)
   [13' Palermo, 21' Craviotto, 23' F.G. Córdoba, 60' Palermo, 84' Maciel (p)-70' Barijho,
    78' Barrios (p)]
-[Jun 16, 1996]
-Belgrano (C)             2-1  Gimnasia y Esgrima LP      [played at Estadio Córdoba]
+[Jun 16/1996
+Belgrano (C)             2-1  Gimnasia y Esgrima LP      ; Estadio Córdoba
   [25' Spallina, 53' L.C. Torres-72' Márcico]
-Argentinos Juniors       0-0  Independiente (A)          [played at Atlanta]
+Argentinos Juniors       0-0  Independiente (A)          ; Atlanta
 Vélez Sarsfield          5-1  Boca Juniors
   [20' Camps, 40' and 43' (p) Chilavert, 79' Gamboa (o.g.), 87' J.O. Flores-15' Caniggia]
 Banfield                 1-1 Newell's Old Boys
@@ -866,18 +913,18 @@ River Plate              2-3  Ferro Carril Oeste (BA)
   [72' Gallardo (p), 78' S.H. Solari-31' Duré (p), 50' Sava, 82' Nicotra (p)]
 Racing Club              1-0  Platense (VL)
   [25' R.O. Capria]
-[Jun 17, 1996]
+[Jun 17/1996
 Deportivo Español        2-2  Gimnasia y Esgrima J
   [14' Potenzoni, 71' W. Núñez-16' Trimarchi, 84' A.S. González]
 
 Round 14
-[Jun 21, 1996]
+[Jun 21/1996
 Independiente (A)        3-2  Gimnasia y Esgrima J
   [34' Alvez, 64' and 85' Burruchaga (p)-47' Trimarchi, 56' C.L. Morales]
-[Jun 22, 1996]
-Argentinos Juniors       2-0  San Lorenzo de Almagro     [played at Atlanta]
+[Jun 22/1996
+Argentinos Juniors       2-0  San Lorenzo de Almagro     ; Atlanta
   [48' Lauría Calvo, 82' J.R. Quinteros]
-[Jun 23, 1996]
+[Jun 23/1996
 Boca Juniors             3-2  Banfield
   [55' Caniggia, 58' and 88' Tchami-67' J.R. Cruz, 81' Baena]
 Ferro Carril Oeste (BA)  0-3  Racing Club
@@ -886,84 +933,85 @@ Gimnasia y Esgrima LP    1-1  Vélez Sarsfield
   [73' G.O. Sanguinetti-83' Posse]
 Colón                    2-1  Belgrano (C)
   [34' Cuberas, 90' Gambier (p)-88' Tosello (p)]
-Newell's Old Boys        2-0  Rosario Central            [played at Rosario Central]
+Newell's Old Boys        2-0  Rosario Central            ; Rosario Central
   [27' Gabrich, 52' B. Jiménez]
   [Suspended at 64' due to crowd trouble with a penalty awarded to Newell's Old Boys]
 Huracán (BA)             2-0  Deportivo Español
   [16' R.G. Flores, 61' Barijho]
-[Jun 24, 1996]
+[Jun 24/1996
 Platense (VL)            2-2  Estudiantes LP
   [35' and 89' Coria-1' Craviotto, 46' Palermo]
-[Jul 6, 1996]
+[Jul 6/1996
 Lanús                    2-2  River Plate
   [68' Simionato (p), 72' Di Carlo-29' Altamirano, 50' Medina Bello]
 
 Round 15
-[Jun 28, 1996]
+[Jun 28/1996
 San Lorenzo de Almagro   0-2  Independiente (A)
   [87' R.M. Acuña, 90' Alvez]
-[Jun 29, 1996]
+[Jun 29/1996
 Rosario Central          0-1  Boca Juniors
   [67' Fabbri]
 River Plate              0-0  Newell's Old Boys
 Vélez Sarsfield          2-0  Colón
   [32' Román (o.g.), 84' H.M. Herrera]
-[Jun 30, 1996]
+[Jun 30/1996
 Racing Club              0-1  Lanús
   [86' Di Carlo]
 Gimnasia y Esgrima J     2-4  Huracán (BA)
   [12' C.L. Morales, 80' M.A. Guerrero-33' Guerra, 51' Fabbro, 77' Barijho, 87' N.A. Fernández]
-Belgrano (C)             1-0  Argentinos Juniors         [played at Estadio Córdoba]
+Belgrano (C)             1-0  Argentinos Juniors         ; Estadio Córdoba
   [22' Artime]
 Estudiantes LP           0-0  Ferro Carril Oeste (BA)
 Banfield                 1-2  Gimnasia y Esgrima LP
   [9' J.R. Cruz-26' F.D. Fernández, 82' Gmo. Barrios Schelotto]
-[Jul 1, 1996]
-Deportivo Español        1-0  Platense (VL)              [played at Ferro Carril Oeste]
+[Jul 1/1996
+Deportivo Español        1-0  Platense (VL)              ; Ferro Carril Oeste
   [67' G.H. Grondona]
 
 Round 16
-[Jul 12, 1996]
+[Jul 12/1996
 San Lorenzo de Almagro   1-0  Belgrano (C)
   [28' Almandoz]
 Colón                    2-0  Banfield
   [38' Kuzemka, 53' Agoglia]
-[Jul 13, 1996]
-Newell's Old Boys        1-0  Racing Club                [played at Rosario Central]
+[Jul 13/1996
+Newell's Old Boys        1-0  Racing Club                ; Rosario Central
   [13' B. Jiménez]
-[Jul 14, 1996]
+[Jul 14/1996
 Boca Juniors             4-1  River Plate
   [43' Basualdo, 50', 66' and 75' Caniggia-87' Amato]
 Independiente (A)        1-4  Huracán (BA)
   [62' Burruchaga-49' Barijho, 57' P.D. Barrios (p), 75' R.G. Flores, 90' Guerra]
-Argentinos Juniors       0-0  Vélez Sarsfield            [played at Ferro Carril Oeste]
+Argentinos Juniors       0-0  Vélez Sarsfield            ; Ferro Carril Oeste
 Lanús                    1-0  Estudiantes LP
   [45' Schurrer]
 Gimnasia y Esgrima LP    4-0  Rosario Central
   [28' J.F. Albornoz (p), 42' G.O. Sanguinetti, 57' F.D. Fernández, 68' A.G. Pereyra]
 Platense (VL)            1-0  Gimnasia y Esgrima J
   [82'Coria]
-[Jul 15, 1996]
+[Jul 15/1996
 Ferro Carril Oeste (BA)  1-1  Deportivo Español
   [2' Lorenzo-52' S.R. Castillo]
 
 Round 17
-Date: 8/5, 1996]
+Date: 8/5/1996
 River Plate              1-2  Gimnasia y Esgrima LP
   [27'Francescoli (p)-3' R.C. Sosa, 21' Gmo. Barrios Schelotto]
-Belgrano (C)             0-0  Independiente (A)          [played at Estadio Córdoba]
+Belgrano (C)             0-0  Independiente (A)          ; Estadio Córdoba
 Banfield                 0-1  Argentinos Juniors
   [27' Lauría Calvo]
-Date: 8/6, 1996]
+Date: 8/6/1996
 Vélez Sarsfield          4-1  San Lorenzo de Almagro
   [27' Pellegrino, 38' M.H. Herrera, 47' Almandoz (o.g.), 75' J.O. Flores-58' Arbarello]
 Huracán (BA)             2-2  Platense (VL)
   [11' N.A. Fernández, 35' Fabbro-21' and 53' Mena]
-Deportivo Español        1-0  Lanús                      [played at San Lorenzo]
+Deportivo Español        1-0  Lanús                      ; San Lorenzo
   [77' Núñez]
 Gimnasia y Esgrima J     0-1  Ferro Carril Oeste (BA)
   [39' D.D. Bustos]
-Date: 8/7, 1996]
+
+Date: 8/7/1996
 Racing Club              1-0  Boca Juniors
   [82' C.J. López]
 Estudiantes LP           2-2  Newell's Old Boys
@@ -972,203 +1020,188 @@ Rosario Central          1-1  Colón
   [80' Bustos Montoya-56' R.N. Díaz]
 
 Round 18
-Date: 8/9, 1996]
+Date: 8/9/1996
 Independiente (A)        1-1  Platense (VL)
   [75' J.D. Martínez-60' Coria (p)]
-Date: 8/10, 1996]
+Date: 8/10/1996
 Gimnasia y Esgrima LP    6-0  Racing Club
   [14' R.C. Sosa, 22' J.F. Albornoz (p), 43' and 59' R.C. Sosa, 66' G.O. Sanguinetti,
    70' Morant]
-Date: 8/11, 1996]
+Date: 8/11/1996
 Boca Juniors             1-2  Estudiantes LP
   [14' J.S. Verón-22' and 72' Palermo]
 Colón                    1-0  River Plate
   [14' Muller]
 Ferro Carril Oeste (BA)  2-1  Huracán (BA)
   [79' Cordon, 90' D.D. Bustos-18' P.D. Barrios]
-Argentinos Juniors       1-6  Rosario Central            [played at Atlanta]
+Argentinos Juniors       1-6  Rosario Central            ; Atlanta
   [45' J.R. Quinteros-47' Da Silva, 50' Pobersnik, 54' and 73' Bustos Montoya,
    75' and 79' (p) Da Silva]
-Belgrano (C)             1-2  Vélez Sarsfield            [played at Estadio Córdoba]
+Belgrano (C)             1-2  Vélez Sarsfield            ; Estadio Córdoba
   [23' Tosello-54' Posse, 87' Camps]
 Lanús                    1-1  Gimnasia y Esgrima J
   [43' A.M. López-1' Morales Santos]
-Newell's Old Boys        0-0  Deportivo Español          [played at Rosario Central]
-Date: 8/12, 1996]
+Newell's Old Boys        0-0  Deportivo Español          ; Rosario Central
+Date: 8/12/1996
 San Lorenzo de Almagro   0-1  Banfield
   [43' Malvestitti]
 
 Round 19
-Date: 8/16, 1996]
-River Plate              0-0  Argentinos Juniors
-Date: 8/17, 1996]
-Rosario Central          3-1  San Lorenzo de Almagro
-  [23' and 51' Carbonari, 80' Coudet-11' Arbarello]
-Date: 8/18, 1996]
-Deportivo Español        1-1  Boca Juniors
-  [88' Odriozola-57' C.A. González]
-Vélez Sarsfield          0-0  Independiente (A)
-Racing Club              1-2  Colón
-  [67' Mandra-77' H.I. Rodríguez, 85' Cuberas]
-Huracán (BA)             2-1  Lanús
-  [36' Guerra, 79' Corbalán-86' J.J. Serrizuela]
-Estudiantes LP           1-1  Gimnasia y Esgrima LP
-  [24' París-62' R.C. Sosa]
-Banfield                 0-2  Belgrano (C)
-  [35' Artime, 67' Avalos]
-Gimnasia y Esgrima J     2-0  Newell's Old Boys
-  [54' Crosa (o.g.), 75' R.F. González]
-Date: 8/19, 1996]
-Platense (VL)            0-1  Ferro Carril Oeste (BA)
-  [34' Fiorentini]
+Date: 8/16/1996
+
+; River Plate             ; 0-0;  Argentinos Juniors
+
+Date: 8/17/1996
+
+; Rosario Central         ; 3-1;  San Lorenzo de Almagro
+Carbonari 23, Carbonari 51, Coudet 80; Arbarello 11
+
+Date: 8/18/1996
+
+; Deportivo Español       ; 1-1;  Boca Juniors
+ Odriozola 88; C.A. González 57
+
+; Vélez Sarsfield         ; 0-0;  Independiente (A)
+
+; Racing Club             ; 1-2;  Colón
+ Mandra 67; H.I. Rodríguez 77, Cuberas 85
+
+; Huracán (BA)            ; 2-1;  Lanús
+Guerra 36, Corbalán 79; J.J. Serrizuela 86
+
+; Estudiantes LP          ; 1-1;  Gimnasia y Esgrima LP
+ París 24; R.C. Sosa 62
+
+; Banfield                ; 0-2;  Belgrano (C)
+; Artime 35, Avalos 67
+
+; Gimnasia y Esgrima J    ; 2-0;  Newell's Old Boys
+Crosa (og) 54, R.F. González 75;
+
+Date: 8/19/1996
+
+; Platense (VL)           ; 0-1;  Ferro Carril Oeste (BA)
+; Fiorentini 34
   
-Vélez Sarsfield won the championship in this round with the following line-ups: 
+*Vélez Sarsfield won the championship in this round with the following line-ups: 
+*
+*Vélez Sarsfield: Chilavert; Zandoná, Banegas, Pellegrino and R.E. Cardozo; H.M. Herrera,
+*                 M.A. Gómez and Bassedas (64' Pandolfi); Camps; Posse (88' Moriggi) and
+*                 J.O. Flores (87' C.D. Husain). DT: O. Piazza. 
+*Independiente: Mondragón; C.J. Bustos; Rotchen and Arzeno; J.D. Martínez, Dorta (88' C.D. Díaz)
+*               and Páez; R.A. Molina (77' F.G. Guerrero) and Burruchaga; Real and J.L. Calderón
+*               (64' Alvez). DT: H.H. Grondona. 
+*Incidents: 61' Chilavert (V) deflected a penalty executed by Burruchaga. 
+*Referee: Hay.
 
-Vélez Sarsfield: Chilavert; Zandoná, Banegas, Pellegrino and R.E. Cardozo; H.M. Herrera,
-                 M.A. Gómez and Bassedas (64' Pandolfi); Camps; Posse (88' Moriggi) and
-                 J.O. Flores (87' C.D. Husain). DT: O. Piazza. 
-Independiente: Mondragón; C.J. Bustos; Rotchen and Arzeno; J.D. Martínez, Dorta (88' C.D. Díaz)
-               and Páez; R.A. Molina (77' F.G. Guerrero) and Burruchaga; Real and J.L. Calderón
-               (64' Alvez). DT: H.H. Grondona. 
-Incidents: 61' Chilavert (V) deflected a penalty executed by Burruchaga. 
-Referee: Hay.
-No. Team                      G   W   D   L   Gf  Ga    P
-----------------------------------------------------------------------
- 1  Vélez Sarsfield          19  11   7   1   40  18   40  [Champion]  
-----------------------------------------------------------------------
- 2  Gimnasia y Esgrima LP    19  12   3   4   44  21   39
- 3  Lanús                    19  10   4   5   35  24   34
- 3  Estudiantes LP           19   9   7   3   33  22   34
- 5  Boca Juniors             19  10   3   6   30  26   33
- 6  Rosario Central          19   8   6   5   33  23   30
- 7  Huracán (BA)             19   7   8   4   32  29   29
- 7  Racing Club              19   8   5   6   26  25   29
- 9  Colón                    19   7   5   7   20  21   26
- 9  Ferro Carril Oeste (BA)  19   6   8   5   16  20   26
-11  Deportivo Español        19   5   9   5   19  19   24
-12  Independiente (A)        19   5   8   6   22  26   23
-13  Belgrano (C)             19   6   4   9   23  26   22
-14  River Plate              19   6   3  10   32  33   21
-14  Platense (VL)            19   6   3  10   23  29   21
-14  Gimnasia y Esgrima J     19   6   3  10   22  37   21
-17  Newell's Old Boys        19   3   9   7   20  28   18
-18  Banfield                 19   4   5  10   20  25   17
-19  San Lorenzo de Almagro   19   4   4  11   15  29   16
-20  Argentinos Juniors       19   3   4  12   12  36   13
-----------------------------------------------------------------------
-Relegated: Belgrano (C) and Argentinos Juniors
-Promoted: Huracán Corrientes and Unión SF
+*No. Team                      G   W   D   L   Gf  Ga    P
+*----------------------------------------------------------------------
+* 1  Vélez Sarsfield          19  11   7   1   40  18   40  [Champion]  
+*----------------------------------------------------------------------
+* 2  Gimnasia y Esgrima LP    19  12   3   4   44  21   39
+* 3  Lanús                    19  10   4   5   35  24   34
+* 3  Estudiantes LP           19   9   7   3   33  22   34
+* 5  Boca Juniors             19  10   3   6   30  26   33
+* 6  Rosario Central          19   8   6   5   33  23   30
+* 7  Huracán (BA)             19   7   8   4   32  29   29
+* 7  Racing Club              19   8   5   6   26  25   29
+* 9  Colón                    19   7   5   7   20  21   26
+* 9  Ferro Carril Oeste (BA)  19   6   8   5   16  20   26
+*11  Deportivo Español        19   5   9   5   19  19   24
+*12  Independiente (A)        19   5   8   6   22  26   23
+*13  Belgrano (C)             19   6   4   9   23  26   22
+*14  River Plate              19   6   3  10   32  33   21
+*14  Platense (VL)            19   6   3  10   23  29   21
+*14  Gimnasia y Esgrima J     19   6   3  10   22  37   21
+*17  Newell's Old Boys        19   3   9   7   20  28   18
+*18  Banfield                 19   4   5  10   20  25   17
+*19  San Lorenzo de Almagro   19   4   4  11   15  29   16
+*20  Argentinos Juniors       19   3   4  12   12  36   13
+*----------------------------------------------------------------------
+*Relegated: Belgrano (C) and Argentinos Juniors
+*Promoted: Huracán Corrientes and Unión SF
 
-Note:
-Relegation was defined by the 2 worst averages (points/matches) of the last three seasons,
-below is the table for the last 6 teams. Although the 3 points-per-win system was implemented
-since this season, for the sake of compatibility with earlier seasons 2 points were awarded
-per win for computing averages.
+*Note:
+*Relegation was defined by the 2 worst averages (points/matches) of the last three seasons,
+*below is the table for the last 6 teams. Although the 3 points-per-win system was implemented
+*since this season, for the sake of compatibility with earlier seasons 2 points were awarded
+*per win for computing averages.
 
-Team                          G     P     Ave
------------------------------------------------------------
-Deportivo Español           114   101   0.886
-Banfield                    114   101   0.886
-Ferro Carril Oeste (BA)     114   101   0.886
-Gimnasia y Esgrima J         76    67   0.882
-Belgrano (C)                114    98   0.860    RELEGATED
-Argentinos Juniors          114    94   0.825    RELEGATED
------------------------------------------------------------
+*Team                          G     P     Ave
+*-----------------------------------------------------------
+*Deportivo Español           114   101   0.886
+*Banfield                    114   101   0.886
+*Ferro Carril Oeste (BA)     114   101   0.886
+*Gimnasia y Esgrima J         76    67   0.882
+*Belgrano (C)                114    98   0.860    RELEGATED
+*Argentinos Juniors          114    94   0.825    RELEGATED
 
-Top scorers:
 
-Player             Team                   Goals
---------------------------------------------------
-A.M. López         Lanús                   12
-M. Palermo         Estudiantes LP          11
-C. Caniggia        Boca Juniors            10
-A. N. Coria        Platense (VL)           10 (1)
-A. J. Márcico      Gimnasia y Esgrima LP   10 (4)
-Albornoz           Gimnasia y Esgrima LP    9 (2)
-D. Tossello        Belgrano (C)             9 (3)
---------------------------------------------------
-Goals obtained by penalty kicks are indicated in parenthesis.
 
-Goals: 517
-Cumulative table 1995/96:
+*No. Team                      G   W   D   L  Gf  Ga   P
+*--------------------------------------------------------
+* 1  Vélez Sarsfield          38  24   9   5  69  31  81
+* 2  Lanús                    38  20   9   9  60  40  69
+* 3  Boca Juniors             38  19  11   8  53  42  68
+* 4  Racing Club              38  18  10  10  61  49  64
+* 5  Huracán (BA)             38  16  13   9  57  51  61
+* 6  Gimnasia y Esgrima LP    38  17   9  12  58  46  60
+* 7  Estudiantes LP           38  15  14   9  62  45  59
+* 8  Rosario Central          38  13  15  10  51  43  54
+* 9  River Plate              38  13  11  14  53  53  50
+*10  Gimnasia y Esgrima J     38  14   7  17  50  67  49
+*11  San Lorenzo de Almagro   38  13   9  16  50  53  48
+*12  Colón                    38  12  11  15  42  41  47
+*13  Platense (VL)            38  11  11  16  48  53  44
+*13  Independiente (A)        38   9  17  12  37  44  44
+*15  Ferro Carril Oeste (BA)  38   9  16  13  37  49  43
+*16  Deportivo Español        38   8  17  13  37  45  41
+*16  Newell's Old Boys        38   8  17  13  46  60  41
+*18  Belgrano (C)             38   8  11  19  35  49  35
+*19  Argentinos Juniors       38   8   8  22  30  58  32
+*20  Banfield                 38   6  13  19  37  54  31
 
-No. Team                      G   W   D   L  Gf  Ga   P
---------------------------------------------------------
- 1  Vélez Sarsfield          38  24   9   5  69  31  81
- 2  Lanús                    38  20   9   9  60  40  69
- 3  Boca Juniors             38  19  11   8  53  42  68
- 4  Racing Club              38  18  10  10  61  49  64
- 5  Huracán (BA)             38  16  13   9  57  51  61
- 6  Gimnasia y Esgrima LP    38  17   9  12  58  46  60
- 7  Estudiantes LP           38  15  14   9  62  45  59
- 8  Rosario Central          38  13  15  10  51  43  54
- 9  River Plate              38  13  11  14  53  53  50
-10  Gimnasia y Esgrima J     38  14   7  17  50  67  49
-11  San Lorenzo de Almagro   38  13   9  16  50  53  48
-12  Colón                    38  12  11  15  42  41  47
-13  Platense (VL)            38  11  11  16  48  53  44
-13  Independiente (A)        38   9  17  12  37  44  44
-15  Ferro Carril Oeste (BA)  38   9  16  13  37  49  43
-16  Deportivo Español        38   8  17  13  37  45  41
-16  Newell's Old Boys        38   8  17  13  46  60  41
-18  Belgrano (C)             38   8  11  19  35  49  35
-19  Argentinos Juniors       38   8   8  22  30  58  32
-20  Banfield                 38   6  13  19  37  54  31
---------------------------------------------------------
 
-Goals in 1995/96: 973
 
-Top scorers 95/96:
+*There was a play-off between Apertura and Clausura runner-ups since Vélez won both,
+*leaving a vacant second slot:
 
-Player             Team                   Goals
-------------------------------------------------
-A.M. López         Lanús)                  20
-Calderón           Estudiantes LP and      17
-                   Independiente
-Palermo            Estudiantes LP)         17
-C.J. López         Racing Club)            16
-Qualification for international cups
+Date: 8/22/1996
+8/22/1996; Racing Club             ; 1-0 (aet);  Gimnasia y Esgrima LP; River Plate
+M.A. Delgado 95;
 
-There was a play-off between Apertura and Clausura runner-ups since Vélez won both,
-leaving a vacant second slot:
+*Libertadores 1997: Vélez Sarsfield and Racing Club
+*Conmebol 1996:     Lanús and Rosario Central (Conmebol 1995 champion)
+*Second Level 1995/96
 
-Date: 8/22, 1996]
-Racing Club              1-0  Gimnasia y Esgrima LP      [played at River Plate]
-  [95' M.A. Delgado]
-  [In extra time as the match ended 0-0 in regular time]
+*Nacional B
+*APERTURA TOURNAMENT
 
-Libertadores 1997: Vélez Sarsfield and Racing Club
-Conmebol 1996:     Lanús and Rosario Central (Conmebol 1995 champion)
-Second Level 1995/96
-
-Nacional B
-APERTURA TOURNAMENT
-
-No. Team                      G   W   D   L  Gf  Ga   P
-----------------------------------------------------------------------
- 1  Huracán Corrientes       21  12   6   3  37  23  42 [To play-off]
-----------------------------------------------------------------------
- 2  Atlético Tucumán         21  11   4   6  30  19  37
- 3  Atlético Rafaela         21  10   6   5  33  23  36
- 4  Talleres (C)             21  11   2   8  31  21  35
- 5  Quilmes                  21   9   7   5  30  21  34
- 5  Godoy Cruz A. Tomba      21   9   7   5  29  24  34
- 7  Instituto                21   9   6   6  34  30  33
- 7  San Martín (San Juan)    21   9   6   6  27  23  33
- 9  Atlanta                  21   9   5   7  26  26  32
-10  Nueva Chicago            21   8   7   6  29  24  31
-11  Gimnasia y Tiro          21   8   5   8  31  25  29
-12  Douglas Haig             21   7   7   7  21  21  28
-13  Unión (SF)               21   7   6   8  25  27  27
-14  Chacarita Juniors        21   7   5   9  22  25  26
-15  All Boys                 21   6   7   8  19  28  25
-16  Deportivo Morón          21   6   6   9  24  30  24
-17  San Martín (T)           21   5   8   8  26  34  23
-18  Almirante Brown          21   5   7   9  18  31  22
-19  Arsenal                  21   4   9   8  13  22  21
-20  Central Córdoba (R)      21   5   5  11  22  28  20
-21  Los Andes (LdZ)          21   3   9   9  18  26  18
-22  Tigre                    21   3   6  12  19  33  15
+*No. Team                      G   W   D   L  Gf  Ga   P
+*----------------------------------------------------------------------
+* 1  Huracán Corrientes       21  12   6   3  37  23  42 [To play-off]
+*----------------------------------------------------------------------
+* 2  Atlético Tucumán         21  11   4   6  30  19  37
+* 3  Atlético Rafaela         21  10   6   5  33  23  36
+* 4  Talleres (C)             21  11   2   8  31  21  35
+* 5  Quilmes                  21   9   7   5  30  21  34
+* 5  Godoy Cruz A. Tomba      21   9   7   5  29  24  34
+* 7  Instituto                21   9   6   6  34  30  33
+* 7  San Martín (San Juan)    21   9   6   6  27  23  33
+* 9  Atlanta                  21   9   5   7  26  26  32
+*10  Nueva Chicago            21   8   7   6  29  24  31
+*11  Gimnasia y Tiro          21   8   5   8  31  25  29
+*12  Douglas Haig             21   7   7   7  21  21  28
+*13  Unión (SF)               21   7   6   8  25  27  27
+*14  Chacarita Juniors        21   7   5   9  22  25  26
+*15  All Boys                 21   6   7   8  19  28  25
+*16  Deportivo Morón          21   6   6   9  24  30  24
+*17  San Martín (T)           21   5   8   8  26  34  23
+*18  Almirante Brown          21   5   7   9  18  31  22
+*19  Arsenal                  21   4   9   8  13  22  21
+*20  Central Córdoba (R)      21   5   5  11  22  28  20
+*21  Los Andes (LdZ)          21   3   9   9  18  26  18
+*22  Tigre                    21   3   6  12  19  33  15
 
 
 *CLAUSURA TOURNAMENT
@@ -1200,44 +1233,46 @@ No. Team                      G   W   D   L  Gf  Ga   P
 *(*) 3 points were deducted
 *Play-off to decide the first promotion
 
-[May 25, 1996]
-Huracán Corrientes       2-2  Talleres (C)
-[June 1, 1996]
-Talleres (C)             1-4  Huracán Corrientes
+
+5/25/1996; Huracán Corrientes      ; 2-2;  Talleres (C)
+
+6/1/1996; Talleres (C)            ; 1-4;  Huracán Corrientes
 
 *The loser (Talleres) joined an elimination tournament ("Octogonal") comprising the 6 runner-ups of the accumulated table
 *for the season and Deportivo Italiano, winner of the Primera B. The winner was Unión SF, which clinched the second
 *promotion berth.
 
-Quarterfinals
-[June 8, 1996]
-Unión SF                 3-0  Godoy Cruz A. Tomba
-Instituto                1-1  Douglas Haig
-[June 9, 1996]
-Deportivo Italiano       1-1  Talleres (C)
-San Martín (SJ)          1-1  Atlético Tucumán
-[June 15, 1996]
-Godoy Cruz A. Tomba      1-3  Unión SF
-Talleres (C)             1-0  Deportivo Italiano
-[June 16, 1996]
-Atlético Tucumán         2-1  San Martín (SJ)
-Douglas Haig             0-1  Instituto
+Round: Quarterfinals
 
-Semifinals
-[June 22, 1996]
-Unión SF                 3-1  Talleres (C)
-[June 23, 1996]
-Instituto                1-1  Atlético Tucumán
-[June 29, 1996]
-Talleres (C)             1-3  Unión SF
-[June 30, 1996]
-Atlético Tucumán         1-3  Instituto
+7/8/1996; Unión SF                ; 3-0;  Godoy Cruz A. Tomba
+7/8/1996; Instituto               ; 1-1;  Douglas Haig
 
-Finals
-[July 6, 1996]
-Unión SF                 3-1  Instituto
-[July 13, 1996]
-Instituto                1-0  Unión SF
+7/9/1996; Deportivo Italiano      ; 1-1;  Talleres (C)
+7/9/1996; San Martín (SJ)         ; 1-1;  Atlético Tucumán
+
+7/15/1996; Godoy Cruz A. Tomba     ; 1-3;  Unión SF
+7/15/1996; Talleres (C)            ; 1-0;  Deportivo Italiano
+
+7/16/1996; Atlético Tucumán        ; 2-1;  San Martín (SJ)
+7/16/1996; Douglas Haig            ; 0-1;  Instituto
+
+Round: Semifinals
+
+
+7/22/1996; Unión SF                ; 3-1;  Talleres (C)
+
+7/23/1996; Instituto               ; 1-1;  Atlético Tucumán
+
+7/29/1996; Talleres (C)            ; 1-3;  Unión SF
+
+7/30/1996; Atlético Tucumán        ; 1-3;  Instituto
+
+Round: Finals
+
+
+7/6/1996; Unión SF                ; 3-1;  Instituto
+
+7/13/1996; Instituto               ; 1-0;  Unión SF
 
 
 *Sources: [CIHF-], El Gráfico, La Nación, DyN, Olé.

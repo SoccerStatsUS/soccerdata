@@ -1263,113 +1263,103 @@ Comercial      4-1  Paysandu
 Santos         1-0  São Paulo
   [Pelé]
 
-Group 1
+*Group 1
+* 1-América-MG           14   9   5   4   0  14   6   8
+* 2-Flamengo             11   9   5   1   3  13  10   3
+* 3-Cruzeiro             11   9   4   3   2  13  10   3
+* 4-Vasco da Gama        11   9   4   3   2   9   7   2
+* 5-Atlético-MG          10   9   4   2   3  13  11   2
+* 6-Olaria                8   9   2   4   3  12  13  -1
+* 7-Botafogo              7   9   2   3   4   8  10  -2
+* 8-Fluminense            7   9   2   3   4   7   9  -2
+* 9-Figueirense           6   9   1   4   4   4  13  -9
+*10-América-GB            5   9   2   1   6  11  15  -4
 
-Table
- 1-América-MG           14   9   5   4   0  14   6   8
- 2-Flamengo             11   9   5   1   3  13  10   3
- 3-Cruzeiro             11   9   4   3   2  13  10   3
- 4-Vasco da Gama        11   9   4   3   2   9   7   2
- 5-Atlético-MG          10   9   4   2   3  13  11   2
- 6-Olaria                8   9   2   4   3  12  13  -1
- 7-Botafogo              7   9   2   3   4   8  10  -2
- 8-Fluminense            7   9   2   3   4   7   9  -2
- 9-Figueirense           6   9   1   4   4   4  13  -9
-10-América-GB            5   9   2   1   6  11  15  -4
+*Group 2
+* 1-Santos               13   9   5   3   1  12   4   8
+* 2-Palmeiras            11   9   5   1   3  10   7   3
+* 3-Guarani              11   9   4   3   2  10   6   4
+* 4-Grêmio               11   9   4   3   2   5   7  -2
+* 5-São Paulo            10   9   2   6   1   7   6   1
+* 6-Coritiba              9   9   4   1   4  10   9   1
+* 7-Internacional         8   9   2   4   3   7   9  -2
+* 8-Corinthians           6   9   1   4   4   8  11  -3
+* 9-Atlético-PR           6   9   1   4   4   6   9  -3
+*10-Portuguesa            5   9   1   3   5   4  11  -7
 
-Group 2
+*Group 3
+* 1-Ceará                13   9   5   3   1  14   7   7
+* 2-Vitória              13   9   5   3   1   7   2   5
+* 3-Fortaleza            12   9   3   6   0  11   4   7
+* 4-Tiradentes           11   9   4   3   2   9   7   2
+* 5-América-RN            9   9   4   1   4  11   8   3
+* 6-CRB                   9   9   3   3   3  11  15  -4
+* 7-Bahia                 8   9   3   2   4  12  11   1
+* 8-Nacional              7   9   3   1   5  11  15  -4
+* 9-Rio Negro             5   9   1   3   5   3   7  -4
+*10-Sergipe               3   9   1   1   7   5  18 -13
 
-Table
- 1-Santos               13   9   5   3   1  12   4   8
- 2-Palmeiras            11   9   5   1   3  10   7   3
- 3-Guarani              11   9   4   3   2  10   6   4
- 4-Grêmio               11   9   4   3   2   5   7  -2
- 5-São Paulo            10   9   2   6   1   7   6   1
- 6-Coritiba              9   9   4   1   4  10   9   1
- 7-Internacional         8   9   2   4   3   7   9  -2
- 8-Corinthians           6   9   1   4   4   8  11  -3
- 9-Atlético-PR           6   9   1   4   4   6   9  -3
-10-Portuguesa            5   9   1   3   5   4  11  -7
-
-
-Group 3
-
-Table
- 1-Ceará                13   9   5   3   1  14   7   7
- 2-Vitória              13   9   5   3   1   7   2   5
- 3-Fortaleza            12   9   3   6   0  11   4   7
- 4-Tiradentes           11   9   4   3   2   9   7   2
- 5-América-RN            9   9   4   1   4  11   8   3
- 6-CRB                   9   9   3   3   3  11  15  -4
- 7-Bahia                 8   9   3   2   4  12  11   1
- 8-Nacional              7   9   3   1   5  11  15  -4
- 9-Rio Negro             5   9   1   3   5   3   7  -4
-10-Sergipe               3   9   1   1   7   5  18 -13
-
-
-Group 4
-
-Table
- 1-Remo                 12   9   4   4   1  15   7   8
- 2-Santa Cruz           12   9   4   4   1  15   8   7
- 3-Comercial            10   9   4   2   3  14  11   3
- 4-Goiás                10   9   3   4   2   8   5   3
- 5-Desportiva            9   9   3   3   3   8   8   0
- 6-Sport                 9   9   2   5   2   8   8   0
- 7-CEUB                  8   9   3   2   4   8  13  -5
- 8-Náutico               8   9   2   4   3   5   7  -2
- 9-Paysandu              8   9   2   4   3   7  10  -3
-10-Moto Clube            4   9   0   4   5   4  15 -11
+*Group 4
+* 1-Remo                 12   9   4   4   1  15   7   8
+* 2-Santa Cruz           12   9   4   4   1  15   8   7
+* 3-Comercial            10   9   4   2   3  14  11   3
+* 4-Goiás                10   9   3   4   2   8   5   3
+* 5-Desportiva            9   9   3   3   3   8   8   0
+* 6-Sport                 9   9   2   5   2   8   8   0
+* 7-CEUB                  8   9   3   2   4   8  13  -5
+* 8-Náutico               8   9   2   4   3   5   7  -2
+* 9-Paysandu              8   9   2   4   3   7  10  -3
+*10-Moto Clube            4   9   0   4   5   4  15 -11
 
 
-Overall Table (summing both stages)
- 1-Palmeiras        28 18  7  3  34-11  43  Qualified
- 2-Grêmio           28 15 10  3  28-13  40  Qualified
- 3-Cruzeiro         28 13 10  5  34-22  36  Qualified
- 4-Santos           28 13  9  6  39-20  35  Qualified
- 5-América-MG       28 11 13  4  30-16  35  Qualified
- 6-São Paulo        28 10 15  3  29-16  35  Qualified
- 7-Fortaleza        28 10 15  3  32-19  35  Qualified
- 8-Goiás            28 12 10  6  32-16  34  Qualified
- 9-Vitória          28 12 10  6  23-14  34  Qualified
-10-Coritiba         28 14  5  9  33-20  33  Qualified
-11-Internacional    28 12  9  7  26-20  33  Qualified
-12-Guarani          28 10 13  5  34-24  33  Qualified
-13-Botafogo         28 10 11  7  29-20  31  Qualified
-14-Vasco da Gama    28 10 11  7  27-20  31  Qualified
-15-Corinthians      28 10 11  7  29-24  31  Qualified
-16-Ceará            28  9 13  6  26-23  31  Qualified
-17-Bahia            28 10 10  8  29-22  30  Qualified
-18-Tiradentes       28 10 10  8  21-19  30  Qualified
-19-Santa Cruz       28  9 12  7  30-33  30  Qualified
-20-Atlético-MG      28 10  9  9  34-29  29  Qualified
-------------------------------------------
-21-Nacional         28  7 14  7  28-30  28
-22-Remo             28 11  5 12  25-28  27
-23-Fluminense       28  9  9 10  25-25  27
-24-Flamengo         28 11  4 13  31-34  26
-25-América-RN       28  9  8 11  33-36  26
-26-Comercial        28  9  8 11  30-36  26
-27-Desportiva       28  8  9 11  20-22  25
-28-Atlético-PR      28  8  9 11  20-24  25
-29-Portuguesa       28  7 11 10  33-31  25
-30-Rio Negro        28  7 10 11  20-21  24
-31-Olaria           28  7 10 11  27-29  24
-32-Sport            28  7  9 12  24-36  23
-33-CEUB             28  8  6 14  23-33  22
-34-Náutico          28  7  8 13  20-33  22
-35-Figueirense      28  5 12 11  15-29  22
-36-CRB              28  6  7 15  23-43  19
-37-América-GB       28  5  9 14  22-34  19
-38-Paysandu         28  3  8 17  18-42  14
-39-Moto Clube       28  1 12 15  11-43  14
-40-Sergipe          28  4  5 19  11-48  13
+*Overall Table (summing both stages)
+* 1-Palmeiras        28 18  7  3  34-11  43  Qualified
+* 2-Grêmio           28 15 10  3  28-13  40  Qualified
+* 3-Cruzeiro         28 13 10  5  34-22  36  Qualified
+* 4-Santos           28 13  9  6  39-20  35  Qualified
+* 5-América-MG       28 11 13  4  30-16  35  Qualified
+* 6-São Paulo        28 10 15  3  29-16  35  Qualified
+* 7-Fortaleza        28 10 15  3  32-19  35  Qualified
+* 8-Goiás            28 12 10  6  32-16  34  Qualified
+* 9-Vitória          28 12 10  6  23-14  34  Qualified
+*10-Coritiba         28 14  5  9  33-20  33  Qualified
+*11-Internacional    28 12  9  7  26-20  33  Qualified
+*12-Guarani          28 10 13  5  34-24  33  Qualified
+*13-Botafogo         28 10 11  7  29-20  31  Qualified
+*14-Vasco da Gama    28 10 11  7  27-20  31  Qualified
+*15-Corinthians      28 10 11  7  29-24  31  Qualified
+*16-Ceará            28  9 13  6  26-23  31  Qualified
+*17-Bahia            28 10 10  8  29-22  30  Qualified
+*18-Tiradentes       28 10 10  8  21-19  30  Qualified
+*19-Santa Cruz       28  9 12  7  30-33  30  Qualified
+*20-Atlético-MG      28 10  9  9  34-29  29  Qualified
+*------------------------------------------
+*21-Nacional         28  7 14  7  28-30  28
+*22-Remo             28 11  5 12  25-28  27
+*23-Fluminense       28  9  9 10  25-25  27
+*24-Flamengo         28 11  4 13  31-34  26
+*25-América-RN       28  9  8 11  33-36  26
+*26-Comercial        28  9  8 11  30-36  26
+*27-Desportiva       28  8  9 11  20-22  25
+*28-Atlético-PR      28  8  9 11  20-24  25
+*29-Portuguesa       28  7 11 10  33-31  25
+*30-Rio Negro        28  7 10 11  20-21  24
+*31-Olaria           28  7 10 11  27-29  24
+*32-Sport            28  7  9 12  24-36  23
+*33-CEUB             28  8  6 14  23-33  22
+*34-Náutico          28  7  8 13  20-33  22
+*35-Figueirense      28  5 12 11  15-29  22
+*36-CRB              28  6  7 15  23-43  19
+*37-América-GB       28  5  9 14  22-34  19
+*38-Paysandu         28  3  8 17  18-42  14
+*39-Moto Clube       28  1 12 15  11-43  14
+*40-Sergipe          28  4  5 19  11-48  13
 
 Second Phase
 
 Group 1
 
-Round 1
+Round: 1
 [Jan 12/74]
 Corinthians    2-2  Bahia
   [Roberto, Vaguinho; Douglas (2)]
@@ -1381,7 +1371,7 @@ Vasco da Gama  1-2  América-MG
 Ceará          0-2  Tiradentes
   [Joel, Marinho]
 
-Round 2
+Round: 2
 [Jan 16/74]
 Bahia          0-0  Palmeiras
 América-MG     4-1  Ceará
@@ -1393,7 +1383,7 @@ Tiradentes     0-0  Atlético-MG
 Vasco da Gama  1-2  Internacional
   [Luís Carlos; Alfinete (own goal), Claudiomiro]
   
-Round 3
+Round: 3
 [Jan 19/74]
 Bahia          2-1  Ceará
   [Natal, Everaldo; Samuel]
@@ -1405,7 +1395,7 @@ Atlético-MG    2-0  Corinthians
 Tiradentes     0-2  América-MG
   [Cândido (2)]
 
-Round 4
+Round: 4
 [Jan 23/74]
 Palmeiras      3-1  América-MG
   [Leivinha (2), César; Cândido]
@@ -1418,7 +1408,7 @@ Internacional  2-1  Tiradentes
 Corinthians    1-1  Vasco da Gama
   [Paulo Borges; Roberto Dinamite]
   
-Round 5
+Round: 5
 [Jan 26/74]
 América-MG     1-2  Atlético-MG
   [Juca Show; Romeu, Reinaldo]
@@ -1430,7 +1420,7 @@ Ceará          1-1  Internacional
 Coritiba       1-1  Bahia
   [Negreiros; Tírson]
   
-Round 6
+Round: 6
 [Jan 30/74]
 Vasco da Gama  1-1  Atlético-MG
   [Roberto Dinamite; Romeu]
@@ -1442,7 +1432,7 @@ Coritiba       1-0  Internacional
 Palmeiras      3-0  Ceará
   [Leivinha (2), Nei]
   
-Round 7
+Round: 7
 [Feb 2/74]
 Atlético-MG    2-1  Coritiba
   [Reinaldo, Cláudio; Paquito]
@@ -1456,7 +1446,7 @@ Bahia          1-2  Vasco da Gama
 Internacional  1-0  América-MG
   [Escurinho]
   
-Round 8
+Round: 8
 [Feb 6/74]
 América-MG     0-1  Coritiba
   [Nei]
@@ -1470,7 +1460,7 @@ Corinthians    3-0  Tiradentes
 Palmeiras      3-0  Atlético-MG
   [Leivinha (2), César]
   
-Round 9
+Round: 9
 [Feb 10/74]
 Vasco da Gama  0-1  Palmeiras
   [Ronaldo]
@@ -1481,22 +1471,22 @@ Atlético-MG    2-0  Ceará
 Bahia          2-2  América-MG
   [Dendê, Baiaco; Cândido, Mário]
 
-Table
- 1-Palmeiras         9  5  4  0  15- 1  14  Qualified
- 2-Internacional     9  4  4  1   8- 5  12  Qualified
-------------------------------------------
- 3-Atlético-MG       9  4  4  1   9- 6  12
- 4-Coritiba          9  3  4  2   8- 6  10
- 5-Corinthians       9  3  4  2   8- 6  10
- 6-América-MG        9  4  1  4  13-11   9
- 7-Vasco da Gama     9  3  3  3  10- 8   9
- 8-Bahia             9  1  6  2   9-10   8
- 9-Tiradentes        9  1  3  5   3-14   5
-10-Ceará             9  0  1  8   5-21   1
+*Table
+* 1-Palmeiras         9  5  4  0  15- 1  14  Qualified
+* 2-Internacional     9  4  4  1   8- 5  12  Qualified
+*------------------------------------------
+* 3-Atlético-MG       9  4  4  1   9- 6  12
+* 4-Coritiba          9  3  4  2   8- 6  10
+* 5-Corinthians       9  3  4  2   8- 6  10
+* 6-América-MG        9  4  1  4  13-11   9
+* 7-Vasco da Gama     9  3  3  3  10- 8   9
+* 8-Bahia             9  1  6  2   9-10   8
+* 9-Tiradentes        9  1  3  5   3-14   5
+*10-Ceará             9  0  1  8   5-21   1
 
 Group 2
 
-Round 1
+Round: 1
 [Jan 12/74]
 Cruzeiro       1-0  Fortaleza
   [Lima]
@@ -1510,7 +1500,7 @@ Goiás          2-2  São Paulo
 Santa Cruz     1-1  Santos
   [Wílton; Brecha]
 
-Round 2
+Round: 2
 [Jan 16/74]
 Guarani        1-1  Vitória
   [Clayton; André]
@@ -1524,7 +1514,7 @@ Botafogo       4-1  Santa Cruz
 Santos         1-2  São Paulo
   [Pelé; Silva, Mirandinha]
 
-Round 3
+Round: 3
 [Jan 19/74]
 Cruzeiro       0-0  Santa Cruz
 [Jan 20/74]
@@ -1537,7 +1527,7 @@ Guarani        1-1  Goiás
 Vitória        2-1  Fortaleza
   [André (2); Amílton Rocha]
 
-Round 4
+Round: 4
 [Jan 23/74]
 São Paulo      3-0  Guarani
   [Mirandinha (3)]
@@ -1551,7 +1541,7 @@ Cruzeiro       1-1  Botafogo
 Vitória        2-1  Santa Cruz
   [André, Osni; Ramón]
 
-Round 5
+Round: 5
 [Jan 26/74]
 Grêmio         1-0  Santos
   [Carlinhos]
@@ -1564,7 +1554,7 @@ Cruzeiro       6-1  Vitória
 Fortaleza      1-2  Guarani
   [Zé Roberto; Darci, Bezerra]
 
-Round 6
+Round: 6
 [Jan 30/74]
 Grêmio         1-1  Cruzeiro
   [Tarciso; Nelinho]
@@ -1578,7 +1568,7 @@ Santos         1-0  Vitória
 Botafogo       2-1  Guarani
   [Carlos Roberto, Ferretti; Afrânio]
 
-Round 7
+Round: 7
 [Feb 2/74]
 Fortaleza      2-3  Santa Cruz
   [Lucinho, Louro; Luciano (2), Ramón]
@@ -1592,7 +1582,7 @@ Santos         2-0  Guarani
 Goiás          1-2  Vitória
   [Paghetti; Didi, Osni]
 
-Round 8
+Round: 8
 [Feb 6/74]
 Santos         4-4  Goiás
   [Nenê (3), Emílio (own goal); Paghetti (3), Lucinho]
@@ -1606,7 +1596,7 @@ Botafogo       6-1  Fortaleza
 Guarani        1-2  Cruzeiro
   [Ednaldo; Palhinha, Baiano]
 
-Round 9
+Round: 9
 [Feb 9/74]
 São Paulo      0-0  Botafogo
 Grêmio         1-0  Vitória
@@ -1617,48 +1607,48 @@ Santa Cruz     2-1  Guarani
   [Ramón (2); Sérgio Luís]
 Fortaleza      0-0  Goiás
 
-Table
- 1-São Paulo         9  6  2  1  13- 4  14  Qualified
- 2-Cruzeiro          9  5  4  0  13- 4  14  Qualified
-------------------------------------------
- 3-Botafogo          9  5  2  2  18-10  12
- 4-Grêmio            9  5  1  3   6- 6  11
- 5-Santos            9  4  3  2  17- 9  11
- 6-Santa Cruz        9  3  2  4   9-13   8
- 7-Vitória           9  3  1  5   9-16   7
- 8-Guarani           9  2  2  5   8-14   6
- 9-Goiás             9  1  4  4  10-12   6
-10-Fortaleza         9  0  1  8   6-21   1
+*Table
+* 1-São Paulo         9  6  2  1  13- 4  14  Qualified
+* 2-Cruzeiro          9  5  4  0  13- 4  14  Qualified
+*------------------------------------------
+* 3-Botafogo          9  5  2  2  18-10  12
+* 4-Grêmio            9  5  1  3   6- 6  11
+* 5-Santos            9  4  3  2  17- 9  11
+* 6-Santa Cruz        9  3  2  4   9-13   8
+* 7-Vitória           9  3  1  5   9-16   7
+* 8-Guarani           9  2  2  5   8-14   6
+* 9-Goiás             9  1  4  4  10-12   6
+*10-Fortaleza         9  0  1  8   6-21   1
 
 Final Playoff
 
-Round 1
+Round: 1
 [Feb 13/74]
 São Paulo      4-1  Internacional
   [Mirandinha (2), Pedro Rocha, Piau; Claudiomiro]
 Cruzeiro       0-1  Palmeiras
   [Edu]
 
-Round 2
+Round: 2
 [Feb 17/74]
 Palmeiras      2-1  Internacional
   [Ronaldo, Luís Pereira; Figueroa]
 Cruzeiro       1-0  São Paulo
   [Palhinha]
 
-Round 3
+Round: 3
 [Feb 20/74]
 Internacional  1-0  Cruzeiro
   [Escurinho]
 Palmeiras      0-0  São Paulo
 
-Table
- 1-Palmeiras         3  2  1  0   3- 1   5  Champions
- 2-São Paulo         3  1  1  1   4- 2   3
- 3-Cruzeiro          3  1  0  2   1- 2   2
- 4-Internacional     3  1  0  2   3- 6   2
+*Table
+* 1-Palmeiras         3  2  1  0   3- 1   5  Champions
+* 2-São Paulo         3  1  1  1   4- 2   3
+* 3-Cruzeiro          3  1  0  2   1- 2   2
+* 4-Internacional     3  1  0  2   3- 6   2
 
-Decision Match details
+*Decision Match details
 Palmeiras 0-0 São Paulo
 Venue: Morumbi (São Paulo)
 Attendance: 66.549

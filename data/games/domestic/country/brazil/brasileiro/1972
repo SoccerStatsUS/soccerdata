@@ -16,9 +16,9 @@ Season: 1972
 *CR Flamengo (Rio de Janeiro-GB)        CR Vasco da Gama (Rio de Janeiro-GB)
 *Fluminense FC (Rio de Janeiro-GB)      EC Vitória (Salvador-BA)
 
-First Phase
+*First Phase
  
-Round 1
+Round: 1
 [Sep 9]
 Botafogo       1-1  Santos
   [Marinho Chagas; Edu]
@@ -45,7 +45,7 @@ Flamengo       1-1  América-GB
 Internacional  5-1  Portuguesa
   [Paulo César (3), Marciano, Valdomiro; Didi]
 
-Round 2
+Round: 2
 [Sep 13]
 ABC            0-3  São Paulo
   [Pedro Rocha (2), Paulo]
@@ -70,7 +70,7 @@ Portuguesa     0-1  Santa Cruz
 Vitória        0-3  Palmeiras
   [Fedato, Ronaldo, Edu]
 
-Round 3
+Round: 3
 [Sep 16]
 Náutico        0-1  Fluminense
   [Cafuringa]
@@ -100,7 +100,7 @@ Remo           1-0  Flamengo
 Nacional       1-3  Vasco da Gama
   [Campos; Tostão (2), Alcir]
 
-Round 4
+Round: 4
 [Sep 20]
 Vasco da Gama  3-0  América-GB
   [Roberto Dinamite (2), Buglê]
@@ -125,7 +125,7 @@ América-MG     0-0  Fluminense
 Flamengo       1-0  Atlético-MG
   [Doval]
 
-Round 5
+Round: 5
 [Sep 23]
 Vasco da Gama  1-2  Internacional
   [Jorge Carvoeiro; Cláudio, Valdomiro]
@@ -151,7 +151,7 @@ Náutico        1-1  América-GB
 Remo           1-1  Botafogo
   [Alcino; Ferretti]
 
-Round 6
+Round: 6
 [Sep 27]
 Palmeiras      1-1  Internacional
   [Madurga; Valdomiro]
@@ -181,7 +181,7 @@ Santos         1-0  São Paulo
 Santa Cruz     2-0  Vasco da Gama
   [Erb, Fernando Santana]
 
-Round 7
+Round: 7
 [Sep 30]
 Bahia          0-0  Grêmio
 Náutico        1-2  Palmeiras
@@ -209,7 +209,7 @@ Ceará          1-3  Flamengo
 Remo           0-1  São Paulo
   [Zé Carlos]
 
-Round 8
+Round: 8
 [Oct 4]
 Cruzeiro       4-0  Vitória
   [Roberto Batata, Lima, Válter (own goal), Piazza]
@@ -236,7 +236,7 @@ ABC            0-0  Flamengo
 Santa Cruz     3-3  Corinthians
   [Cabral, Betinho, Erb; Rivelino, Louro (own goal), Sicupira]
 
-Round 9
+Round: 9
 [Oct 7]
 Remo           0-1  América-GB
   [Alex]
@@ -264,7 +264,7 @@ Santa Cruz     1-2  Fluminense
 CRB            3-2  Botafogo
   [Édson Torpedo (2), Silva; Ferretti (2)]
 
-Round 10
+Round: 10
 [Oct 11]
 Cruzeiro       2-0  Santos
   [Orlando (own goal), Roberto Batata]
@@ -289,7 +289,7 @@ Fluminense     0-1  Palmeiras
   [Leivinha]
 Bahia          0-0  Internacional
 
-Round 11
+Round: 11
 [Oct 14]
 Cruzeiro       2-0  América-GB
   [Roberto Batata, Lima]
@@ -316,7 +316,7 @@ ABC            0-1  Remo
 Coritiba       4-0  São Paulo
   [Zé Roberto (2), Flecha, Cláudio]
 
-Round 12
+Round: 12
 [Oct 18]
 Grêmio         1-1  Cruzeiro
   [Oberti; Lima]
@@ -343,7 +343,7 @@ Internacional  0-0  Botafogo
 América-GB     0-2  Santos
   [Alcindo, Nenê]
 
-Round 13
+Round: 13
 [Oct 21]
 Atlético-MG    1-0  Portuguesa
   [Romeu]
@@ -371,7 +371,7 @@ Vasco da Gama  1-1  Santos
   [Alfinete; Alcindo]
 Náutico        0-0  Bahia
 
-Round 14
+Round: 14
 [Oct 25]
 Internacional  0-0  Flamengo
 Remo           0-0  Coritiba
@@ -399,7 +399,7 @@ Bahia          1-0  Fluminense
 Náutico        3-0  Atlético-MG
   [Dedeu (2), Elói]
 
-Round 15
+Round: 15
 [Oct 28]
 Náutico        1-1  Grêmio
   [Elói; Catarina]
@@ -427,7 +427,7 @@ Remo           0-0  América-MG
 CRB            1-1  Atlético-MG
   [Normandes; Dario]
 
-Round 16
+Round: 16
 [Nov 1]
 Corinthians    1-0  Palmeiras
   [Marco Antônio]
@@ -456,7 +456,7 @@ Portuguesa     0-1  Flamengo
 São Paulo      2-1  Atlético-MG
   [Pedro Rocha (2); Dias (own goal)]
 
-Round 17
+Round: 17
 [Nov 5]
 Flamengo       1-0  Vitória
   [Paulo César]
@@ -484,7 +484,7 @@ CRB            2-3  Internacional
 Bahia          2-1  América-MG
   [Afonsinho, Odair; Cândido]
 
-Round 18
+Round: 18
 [Nov 8]
 Corinthians    1-0  Grêmio
   [Lance]
@@ -513,7 +513,7 @@ Náutico        0-1  Internacional
 Vitória        2-0  Vasco da Gama
   [Humberto, Osni]
 
-Round 19
+Round: 19
 [Nov 11]
 América-MG     2-0  Flamengo
   [Tião, Eli]
@@ -539,7 +539,7 @@ Náutico        2-2  Remo
 Ceará          2-2  CRB
   [Jorge Costa, Élcio; Mano, Silva]
 
-Round 20
+Round: 20
 [Nov 15]
 Flamengo       0-6  Botafogo
   [Jairzinho (3), Fischer (2), Ferretti]
@@ -568,7 +568,7 @@ São Paulo      2-1  América-MG
 Palmeiras      2-0  América-GB
   [Pio, Zeca]
 
-Round 21
+Round: 21
 [Nov 18]
 Vasco da Gama  3-1  Portuguesa
   [Silva (2), Tostão; Dicá]
@@ -597,7 +597,7 @@ Santa Cruz     2-4  Santos
 Nacional       2-3  Náutico
   [Campos, Ismael; Paulinho (2), Vasconcelos]
 
-Round 22
+Round: 22
 [Nov 22]
 Palmeiras      0-0  São Paulo
 ABC            0-3  Corinthians
@@ -621,7 +621,7 @@ Fluminense     0-0  Internacional
 Vitória        0-0  Portuguesa
 Santos         0-0  Flamengo
 
-Round 23
+Round: 23
 [Nov 25]
 Palmeiras      4-1  Bahia
   [Edu, Madurga, Roberto Rebouças (own goal), Nei; Roberto Rebouças]
@@ -649,13 +649,13 @@ Sergipe        1-1  Portuguesa
 Santa Cruz     1-1  Ceará
   [Fernando Santana; Louro (own goal)]
 
-(*) O ABC colocou três jogadores irregulares, Rildo suspenso pelo Tribunal
-Especial da CBD/CBF por dois jogos, só havia cumprindo um. Nílson também
-suspenso por um mês e finalmente Marcílio transferido do Madureira, mas que
-não cumpriu o prazo legal de 48 horas depois do registro, como exigia a
-CBD/CBF.
+*(*) O ABC colocou três jogadores irregulares, Rildo suspenso pelo Tribunal
+*Especial da CBD/CBF por dois jogos, só havia cumprindo um. Nílson também
+*suspenso por um mês e finalmente Marcílio transferido do Madureira, mas que
+*não cumpriu o prazo legal de 48 horas depois do registro, como exigia a
+*CBD/CBF.
 
-Round 24
+Round: 24
 [Nov 29]
 Ceará          0-3  Palmeiras
   [Nei, Edu, Fedato]
@@ -681,7 +681,7 @@ Grêmio         0-0  América-GB
 Portuguesa     1-1  Botafogo
   [Feitosa; Ferretti]
 
-Round 25
+Round: 25
 [Dec 2]
 Náutico        1-2  Vasco da Gama
   [Paraguaio; Alcir, Silva]
@@ -712,49 +712,47 @@ São Paulo      5-2  Vitória
 Remo           2-2  Cruzeiro
   [Tito, Roberto; Eduardo, Zé Carlos]
 
-Tables
+*Group A
+* 1.Internacional    25 11 12  2  34-20  34  Qualified
+* 2.Vasco da Gama    25 10 10  5  23-15  30  Qualified
+* 3.São Paulo        25 11  6  8  45-31  28  Qualified
+* 4.América-GB       25  8 10  7  19-21  26  Qualified
+*------------------------------------------
+* 5.Bahia            25  6 11  8  16-23  23
+* 6.Sergipe          25  2  5 18  14-41   9
 
-Group A
- 1.Internacional    25 11 12  2  34-20  34  Qualified
- 2.Vasco da Gama    25 10 10  5  23-15  30  Qualified
- 3.São Paulo        25 11  6  8  45-31  28  Qualified
- 4.América-GB       25  8 10  7  19-21  26  Qualified
-------------------------------------------
- 5.Bahia            25  6 11  8  16-23  23
- 6.Sergipe          25  2  5 18  14-41   9
+*Group B
+* 1.Palmeiras        25 14  8  3  39-15  36  Qualified
+* 2.Coritiba         25 12  9  4  34-17  33  Qualified
+* 3.Cruzeiro         25 12  9  4  37-20  33  Qualified
+* 4.Flamengo         25 10  8  7  21-20  28  Qualified
+*------------------------------------------
+* 5.Remo             25  5 15  5  21-20  25
+* 6.Náutico          25  7  8 10  30-34  22
+* 7.ABC              25  4  7 12  20-33  15
 
-Group B
- 1.Palmeiras        25 14  8  3  39-15  36  Qualified
- 2.Coritiba         25 12  9  4  34-17  33  Qualified
- 3.Cruzeiro         25 12  9  4  37-20  33  Qualified
- 4.Flamengo         25 10  8  7  21-20  28  Qualified
-------------------------------------------
- 5.Remo             25  5 15  5  21-20  25
- 6.Náutico          25  7  8 10  30-34  22
- 7.ABC              25  4  7 12  20-33  15
+*Group C
+* 1.Corinthians      25 11 10  4  29-24  32  Qualified
+* 2.Atlético-MG      25 10  6  9  31-26  26  Qualified
+* 3.Botafogo         25  7 11  7  30-30  25  Qualified
+* 4.Santa Cruz       25  7  9  9  31-36  23  Qualified
+*------------------------------------------
+* 5.Nacional         25  4 10 11  23-31  18
+* 6.Portuguesa       25  4  9 12  25-37  17
 
-Group C
- 1.Corinthians      25 11 10  4  29-24  32  Qualified
- 2.Atlético-MG      25 10  6  9  31-26  26  Qualified
- 3.Botafogo         25  7 11  7  30-30  25  Qualified
- 4.Santa Cruz       25  7  9  9  31-36  23  Qualified
-------------------------------------------
- 5.Nacional         25  4 10 11  23-31  18
- 6.Portuguesa       25  4  9 12  25-37  17
+*Group D
+* 1.Santos           25 11  9  5  31-19  31  Qualified
+* 2.Grêmio           25 10  8  7  22-16  28  Qualified
+* 3.Ceará            25  8 12  5  27-25  28  Qualified
+* 4.Fluminense       25  9  9  7  21-19  27  Qualified
+*------------------------------------------
+* 5.Vitória          25  6 10  9  13-26  22
+* 6.América-MG       25  3 12 10  18-28  18
+* 7.CRB              25  1 11 13  18-45  13
 
-Group D
- 1.Santos           25 11  9  5  31-19  31  Qualified
- 2.Grêmio           25 10  8  7  22-16  28  Qualified
- 3.Ceará            25  8 12  5  27-25  28  Qualified
- 4.Fluminense       25  9  9  7  21-19  27  Qualified
-------------------------------------------
- 5.Vitória          25  6 10  9  13-26  22
- 6.América-MG       25  3 12 10  18-28  18
- 7.CRB              25  1 11 13  18-45  13
+*Second Phase
 
-Second Phase
-
-Round 1
+Round: 1
 
 Group 1
 [Dec 10]
@@ -763,7 +761,7 @@ Vasco da Gama  1-1  Flamengo
 Internacional  3-2  Cruzeiro
   [Claudiomiro, Escurinho, Valdomiro; Dirceu Lopes (2)]
 
-Round 2
+Round: 2
 Group 1
 [Dec 14]
 Flamengo       1-3  Internacional
@@ -771,7 +769,7 @@ Flamengo       1-3  Internacional
 Vasco da Gama  3-1  Cruzeiro
   [Silva, Gílson Nunes, Jorge Carvoeiro; Paulo César (own goal)]
 
-Round 3
+Round: 3
 Group 1
 [Dec 18]
 Internacional  1-1  Vasco da Gama
@@ -788,21 +786,21 @@ Table
  
 Group 2
 
-Round 1
+Round: 1
 [Dec 10]
 Coritiba       2-1  América-GB
   [Zé Roberto (2); Edu]
 São Paulo      2-0  Palmeiras
   [Dias, Terto]
 
-Round 2
+Round: 2
 [Dec 13]
 São Paulo      2-0  Coritiba
   [Paulo, Édson]
 Palmeiras      3-1  América-GB
   [Ademir, Ronaldo, Leivinha; Mauro]
 
-Round 3
+Round: 3
 [Dec 16]
 América-GB     1-0  São Paulo
   [Mauro]
@@ -818,13 +816,13 @@ Table
 
 Group 3
 
-Round 1
+Round: 1
 [Dec 9]
 Fluminense     0-0  Ceará
 [Dec 10]
 Atlético-MG    0-0  Corinthians
 
-Round 2
+Round: 2
 [Dec 13]
 Fluminense     2-3  Atlético-MG
   [Lula, Marco Antônio; Bibi, Dario, Guará]
@@ -832,7 +830,7 @@ Fluminense     2-3  Atlético-MG
 Corinthians    1-0  Ceará
   [Sicupira]
 
-Round 3
+Round: 3
 [Dec 18]
 Ceará          1-1  Atlético-MG
   [Jorge Costa; Romeu]
@@ -866,11 +864,11 @@ Botafogo       2-1  Santos
 Santa Cruz     2-1  Grêmio
   [Luciano, Betinho; Oberti]
 
-Table
- 1.Botafogo          3  2  1  0   6- 2   5  Qualified
-------------------------------------------
- 2.Grêmio            3  1  1  1   2- 2   3
- 3.Santos            3  1  0  2   3- 3   2
+*Table
+* 1.Botafogo          3  2  1  0   6- 2   5  Qualified
+*------------------------------------------
+* 2.Grêmio            3  1  1  1   2- 2   3
+* 3.Santos            3  1  0  2   3- 3   2
  4.Santa Cruz        3  1  0  2   3- 7   2
 
 Semifinals
@@ -892,7 +890,7 @@ Palmeiras: Leão, Eurico, Luís Pereira, Alfredo, Zeca; Dudu (Zé Carlos), Ademi
 Botafogo: Cao, Waltencir, Brito, Osmar, Marinho Chagas; Carlos Roberto, Nei Conceição; Zequinha, Jairzinho, Fischer,
           Ademir Vicente (Ferretti). Téc.: Sebastião Leônidas
 
-SE Palmeiras wins due to better season record
+*SE Palmeiras wins due to better season record
 
 *Final Table
 * 1.Palmeiras        30 16 10  4  46-19  42  Qualified to Copa Libertadores 1973

@@ -3,7 +3,7 @@ Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
 
 BlockSource: http://www.rsssf.com/tablesn/nica05.html
 
-Season: 2004 Apertura
+Season: 2004-2005 Apertura
 
  1; Diriangen FC            ; 18; 14;  2;  2; 54; 14; 44
  2; Real Esteli                     ; 18; 12;  3;  3; 41;  9; 39
@@ -17,7 +17,7 @@ Season: 2004 Apertura
 10; Deportivo Masachapa ; 17;  1;  2; 14; 12; 54;  5
 
 
-Season: 2005 Clausura
+Season: 2004-2005 Clausura
 
  1; Real Esteli                      ; 9 ; 6 ; 2 ; 1 ;32;  5 ;20
  2; Deportivo Masatepe               ; 9 ; 5 ; 2 ; 2 ;21; 10 ;17
@@ -34,7 +34,7 @@ Season: 2005 Clausura
 
 BlockSource: http://www.rsssf.com/tablesn/nica06.html
 
-Season: 2005 Apertura
+Season: 2005-2006 Apertura
 
  1; Real Esteli                     ; 18; 14;  3;  1; 39;  5; 45
  2; Diriangen FC            ; 18; 12;  3;  3; 40; 15; 39
@@ -48,7 +48,7 @@ Season: 2005 Apertura
 10; Atlético Estelí                    ; 18;  1;  3; 14; 14; 46;  6
 
 
-Season: 2006 Clausura
+Season: 2005-2006 Clausura
 
 
  1; Diriangen FC             ; 9 ; 6 ; 1 ; 2 ;21; 12 ;19
@@ -66,7 +66,7 @@ Season: 2006 Clausura
 
 BlockSource: http://www.rsssf.com/tablesn/nica07.html
 
-Season: 2006 Apertura
+Season: 2006-2007 Apertura
 
 
  1; Real Esteli            ; 18; 13;  4;  1; 59; 12; 43
@@ -81,7 +81,7 @@ Season: 2006 Apertura
 10; America Managua                  ; 18;  4;  4; 10; 20; 32; 16
 
 
-Season: 2007 Clausura
+Season: 2006-2007 Clausura
 
  1; Real Esteli             ; 9 ; 5 ; 3 ; 1 ;31;  5 ;18
  2; Diriangen FC             ; 9 ; 5 ; 2 ; 2 ;24; 13 ;17
@@ -97,7 +97,7 @@ Season: 2007 Clausura
 
 BlockSource: http://www.rsssf.com/tablesn/nica08.html
 
-Season: 2007 Apertura
+Season: 2007-2008 Apertura
 
  1; Real Esteli            ; 18; 14;  3;  1; 51; 19; 45
  2; Diriangen FC            ; 18; 10;  7;  1; 36; 19; 37
@@ -111,7 +111,7 @@ Season: 2007 Apertura
 10; Deportivo Ocotal                   ; 18;  1;  6; 11; 12; 40;  9
 
 
-Season: 2008 Clausura
+Season: 2007-2008 Clausura
 
  1; Diriangen FC            ; 18; 11;  6;  1; 30; 10; 39
  2; Deportivo Ocotal                   ; 18; 12;  2;  4; 43; 12; 38
@@ -127,7 +127,7 @@ Season: 2008 Clausura
 
 BlockSource: http://www.rsssf.com/tablesn/nica09.html
 
-Season: 2008 Apertura
+Season: 2008-2009 Apertura
 
  1; Real Esteli            ; 18; 13;  2;  3; 33; 13; 41
  2; Deportivo Ocotal                   ; 18; 11;  4;  3; 34; 21; 37
@@ -141,7 +141,7 @@ Season: 2008 Apertura
 10; Deportivo Bluefields  ; 18;  0;  2; 16; 13; 58;  2
 
 
-Season: 2009 Clausura
+Season: 2008-2009 Clausura
 
  1; Real Esteli             ; 9 ; 6 ; 1 ; 2 ;15;  6 ;19
  2; Xilotepelt (Jinotepe)               ; 9 ; 5 ; 3 ; 1 ;15; 11 ;18
@@ -156,7 +156,7 @@ Season: 2009 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesn/nica2010.html
-Season: 2009 Apertura
+Season: 2009-2010 Apertura
 
 Round: Regular Stage
 
@@ -177,7 +177,7 @@ Round: Semifinal Stage
  4; VCP Chinandega                      ; 6 ; 0 ; 2 ; 4 ; 0; 11 ; 2
 
 
-Season: 2010 Clausura
+Season: 2009-2010 Clausura
 
 Round: Regular Stage
 
@@ -202,7 +202,7 @@ Round: Semifinal Stage
 
 
 BlockSource: http://www.rsssf.com/tablesn/nica2011.html
-Season: 2010 Apertura
+Season: 2010-2011 Apertura
 
 Round: Regular Stage
 
@@ -223,7 +223,7 @@ Round: Semifinal Stage
  4; Real Madriz             ; 6 ; 0 ; 0 ; 6 ; 0; 18 ; 0
 
 
-Season: 2011 Clausura
+Season: 2010-2011 Clausura
 
 Round: Regular Stage
 
@@ -245,7 +245,7 @@ Round: Semifinal Stage
  4; Deportivo Ocotal                    ; 6 ; 1 ; 2 ; 3 ; 4;  9 ; 5
 
 BlockSource: http://www.rsssf.com/tablesn/nica2012.html
-Season: 2011 Apertura
+Season: 2011-2012 Apertura
 
 Round: Regular Stage
 
@@ -258,7 +258,6 @@ Round: Regular Stage
  7; Real Madriz            ; 14;   3;  1; 10;  20; 33;  10
  8; Deportivo Ocotal                   ; 14;   2;  3;  9;  17; 31;   9
 
-
 Round: Semifinal Stage
 
  1; Real Esteli             ; 6 ;  4 ; 1 ; 1 ;  8;  3 ; 13
@@ -267,8 +266,7 @@ Round: Semifinal Stage
  4; Chinandega FC                       ; 6 ;  1 ; 1 ; 4 ;  6; 11 ;  4
 
 
-Season: 2012 Clausura
-
+Season: 2011-2012 Clausura
 
 Round: Regular Stage
 
@@ -280,8 +278,6 @@ Round: Regular Stage
  6; Juventus Managua                 ; 14;   4;  3;  7;  19; 22;  15
  7; Real Madriz            ; 14;   4;  3;  7;  18; 23;  15
  8; Chinandega FC                      ; 14;   1;  5;  8;  11; 30;   8
-
- 
 
 Round: Semifinal Stage
 

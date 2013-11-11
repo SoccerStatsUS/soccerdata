@@ -792,6 +792,11 @@ l = [
         'city': 'Esteli, Nicaragua',
         },
 
+    {
+        'name': 'Atlético Estelí',
+        'city': 'Esteli, Nicaragua',
+        },
+
 
     {
         'name': 'Juventus Managua',

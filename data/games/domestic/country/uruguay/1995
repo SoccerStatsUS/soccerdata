@@ -1,10 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru95.html
 Competition: Uruguayan Primera Division
-Season: 1995
+Season: 1995 Apertura
 
 
 *Torneo Apertura 
-*Final Table:
 * 1.Penarol            12  8  3  1 29- 9 25  [*] 
 * 2.Liverpool          12  8  1  3 23- 9 25 
 * 3.Nacional           12  8  2  2 24-16 24  [*] 
@@ -161,6 +160,8 @@ Pacheco 73, D.Silva 83;
 *Penarol winners Apertura 1995
 
 
+Season: 1995 Clausura
+
 *Clausura
 *Final Table:
 * 1.Nacional           12  8  3  1 29-13 27 
@@ -179,6 +180,8 @@ Pacheco 73, D.Silva 83;
 
 Round: Round 1 
 *[Aug 5,6]
+Date: 8/5/1995
+
 ; Basanez           ; 0-0; Central Espanol
 Red Card: Arriola [Basanez] 90
 
@@ -201,6 +204,7 @@ Red Card: Silva Cantera [Defensor] 44
  
 Round: Round 2 
 *[Aug 12,13]
+Date: 8/12/1995
 
 ; Danubio          ; 2-2; River Plate
 Vecino 59, Vanzini 82; Rosello 5, Otero 87
@@ -224,6 +228,7 @@ Red Card: Romero [Penarol] 84
  
 Round: Round 3
 * [Aug 19,20]
+Date: 8/19/1995
 
 ; Central Espanol  ; 2-2; Cerro
 Quagliatta 3, De Souza 58; Luzardo 21, Homman (pk) 68
@@ -251,6 +256,7 @@ Red Card: Barragan [Wanderers] 68
  
 Round: Round 4
 *  [Aug 26,27]
+Date: 8/26/1995
 
 ; Central Espanol  ; 0-1; Rampla Juniors
 ; C.Rodriguez 2
@@ -276,6 +282,7 @@ Otero 52, Silvera 70, Silvera 80, Leri 89
 Red Card: Barrios 60, Amndarain [both Wanderers] 66
 
 Round: Round 5 
+Date: 
 
 ; Cerro    ; 1-3;        Rampla Juniors    
 ; Defensor Sporting; 1-1; Danubio          

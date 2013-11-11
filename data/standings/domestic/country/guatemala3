@@ -116,7 +116,7 @@ Round: Liguilla de Decenso
 
 
 BlockSource: http://www.rsssf.com/tablesg/guat00.html
-Season: 1999 Apertura
+Season: 1999-2000 Apertura
 
  1; Municipal                ;  22; 14;  6;  2;  60; 16;  48
  2; Comunicaciones           ;  22; 14;  2;  6;  43; 20;  44
@@ -132,7 +132,7 @@ Season: 1999 Apertura
 12; Deportivo Suchitepequez  ;  22;  3;  5; 14;  19; 43;  14
 
 
-Season: 2000 Clausura
+Season: 1999-2000 Clausura
 
  1; Comunicaciones           ;  22; 15;  4;  3;  49; 21;  49
  2; Municipal                ;  22; 13;  7;  2;  47; 28;  46
@@ -149,7 +149,7 @@ Season: 2000 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesg/guat01.html
-Season: 2000 Apertura
+Season: 2000-2001 Apertura
 
  1; Comunicaciones            ; 22; 15;  6;  1;  52; 15;  51
  2; Municipal                 ; 22; 12;  3;  7;  45; 23;  39
@@ -165,7 +165,7 @@ Season: 2000 Apertura
 12; Santa Lucía Cotzumalguapa ; 22;  2;  5; 15;  28; 66;  11
 
 
-Season: 2001 Clausura
+Season: 2000-2001 Clausura
 
  1; Comunicaciones           ;  22; 15;  5;  2;  53; 21;  50
  2; Municipal                ;  22; 12;  6;  4;  43; 19;  42
@@ -183,7 +183,7 @@ Season: 2001 Clausura
 
 BlockSource: http://www.rsssf.com/tablesg/guat02.html
 * Campeonato de Reordenamiento 2001
-Season: 2001 Apertura
+Season: 2001-2002 Apertura
 
  1; Municipal               ;   22; 15;  3;  4;  49; 18;  48
  2; Cobán Imperial          ;   22; 13;  4;  5;  43; 25;  43
@@ -199,7 +199,7 @@ Season: 2001 Apertura
 12; Universidad (USAC)      ;   22;  4;  2; 16;  20; 50;  14
 
 
-Season: 2002 Clausura
+Season: 2001-2002 Clausura
 
  1; Municipal              ;    18; 16;  2;  0;  61; 11;  50
  2; Comunicaciones         ;    18; 10;  2;  6;  33; 28;  32
@@ -214,7 +214,7 @@ Season: 2002 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesg/guat03.html
-Season: 2002 Apertura
+Season: 2002-2003 Apertura
 
  1; Municipal              ;    18; 13;  4;  1;  32; 14;  43
  2; Comunicaciones         ;    18; 12;  3;  3;  43; 16;  39
@@ -228,7 +228,7 @@ Season: 2002 Apertura
 10; Juventud Retalteca     ;    18;  4;  4; 10;  19; 33;  16 
 
 
-Season: 2003 Clausura
+Season: 2002-2003 Clausura
 
  1; Comunicaciones          ;   18; 13;  2;  3;  37; 14;  41
  2; Cobán Imperial          ;   18;  8;  6;  4;  26; 18;  30
@@ -244,7 +244,7 @@ Season: 2003 Clausura
 
 BlockSource: http://www.rsssf.com/tablesg/guat04.html
 
-Season: 2003 Apertura
+Season: 2003-2004 Apertura
 
  1; Comunicaciones           ;  18; 10;  6;  2;  38; 21;  36
  2; Municipal                ;  18; 10;  4;  4;  36; 24;  34
@@ -258,7 +258,7 @@ Season: 2003 Apertura
 10; Deportivo Marquense      ;  18;  5;  4;  9;  23; 35;  19
 
 
-Season: 2004 Clausura
+Season: 2003-2004 Clausura
 
  1; Municipal                ;  18; 10;  5;  3;  42; 28;  35
  2; Cobán Imperial           ;  18;  9;  4;  5;  25; 23;  31
@@ -274,7 +274,7 @@ Season: 2004 Clausura
 
 BlockSource: http://www.rsssf.com/tablesg/guat05.html
 
-Season: 2004 Apertura
+Season: 2004-2005 Apertura
 
  1; Municipal               ;   18;  9;  4;  5;  38; 22;  31
  2; Comunicaciones          ;   18;  9;  4;  5;  34; 20;  31
@@ -288,7 +288,7 @@ Season: 2004 Apertura
 10; Aurora FC               ;   18;  3;  5; 10;  18; 35;  14
 
 
-Season: 2005 Clausura
+Season: 2004-2005 Clausura
 
  1; Municipal                ;  18; 11;  6;  1;  35; 16;  39
  2; Suchitepequez            ;  18; 10;  2;  6;  27; 19;  32
@@ -304,7 +304,7 @@ Season: 2005 Clausura
 
 BlockSource: http://www.rsssf.com/tablesg/guat06.html
 
-Season: 2005 Apertura
+Season: 2005-2006 Apertura
 
  1; Municipal                 ; 18; 11;  5;  2;  35; 14;  38 
  2; Comunicaciones            ; 18; 10;  5;  3;  38; 28;  35 
@@ -318,7 +318,7 @@ Season: 2005 Apertura
 10; Cobán Imperial            ; 18;  2;  6; 10;  18; 28;  12
 
 
-Season: 2006 Clausura
+Season: 2005-2006 Clausura
 
  1; Municipal                 ; 18; 11;  6;  1;  41; 14;  39 
  2; Deportivo Marquense       ; 18; 10;  3;  5;  33; 23;  33 
@@ -334,7 +334,7 @@ Season: 2006 Clausura
 
 BlockSource: http://www.rsssf.com/tablesg/guat07.html
 
-Season: 2006 Apertura
+Season: 2006-2007 Apertura
 
  1; Comunicaciones            ; 18; 12;  4;  2;  31; 13;  40 
  2; Xelajú MC                 ; 18; 10;  2;  6;  35; 16;  32 
@@ -348,7 +348,7 @@ Season: 2006 Apertura
 10; Mictlan                   ; 18;  3;  5; 10;  12; 31;  14
 
 
-Season: 2007 Clausura
+Season: 2006-2007 Clausura
 
  1; Municipal                 ; 18;  9;  5;  4;  43; 21;  32 
  2; Petapa                    ; 18;  9;  4;  5;  31; 23;  31 
@@ -363,7 +363,7 @@ Season: 2007 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesg/guat08.html
-Season: 2007 Apertura
+Season: 2007-2008 Apertura
 
  1; Municipal                 ; 18;  8;  7;  3;  31; 18;  31
  2; Deportivo Jalapa          ; 18;  7;  7;  4;  32; 26;  28
@@ -377,7 +377,7 @@ Season: 2007 Apertura
 10; Petapa                    ; 18;  3; 10;  5;  20; 29;  19
 
 
-Season: 2008 Clausura
+Season: 2007-2008 Clausura
 
  1; Comunicaciones            ; 18; 10;  5;  3;  36; 18;  35 
  2; Municipal                 ; 18; 10;  5;  3;  34; 16;  35 
@@ -392,7 +392,7 @@ Season: 2008 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesg/guat09.html
-Season: 2008 Apertura
+Season: 2008-2009 Apertura
 
  1; Municipal                 ; 18;  7;  8;  3;  29; 18;  29  
  2; Comunicaciones            ; 18;  7;  8;  3;  27; 23;  29  
@@ -406,7 +406,7 @@ Season: 2008 Apertura
 10; Deportivo Jalapa          ; 18;  4;  6;  8;  17; 24;  18
 
 
-Season: 2009 Clausura
+Season: 2008-2009 Clausura
 
  1; Municipal                 ; 18;  9;  5;  4;  26; 13;  32  
  2; Heredia-Jaguares          ; 18;  9;  2;  7;  26; 24;  29  

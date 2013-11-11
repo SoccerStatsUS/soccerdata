@@ -2,10 +2,67 @@ Competition: Major League Soccer
 BlockSource: http://homepages.sover.net/~spectrum/mls.html
 
 
+Season: 2013
+Key: position; team; points; games; wins; losses; ties; goals_for; goals_against; gd
+
+*Eastern Conference
+
+1   ;          New York Red Bulls     ; 59       ; 34     ; 17     ; 9      ; 8      ; 58     ; 41     ; +17 
+2   ;          Sporting Kansas City   ; 58       ; 34     ; 17     ; 10     ; 7      ; 47     ; 30     ; +17
+3   ;          New England Revolution ; 51       ; 34     ; 14     ; 11     ; 9      ; 49     ; 38     ; +11
+4   ;          Houston Dynamo         ; 51       ; 34     ; 14     ; 11     ; 9      ; 41     ; 41     ; 0 
+5   ;          Montreal Impact        ; 49       ; 34     ; 14     ; 13     ; 7      ; 50     ; 49     ; +1
+6   ;          Chicago Fire           ; 49       ; 34     ; 14     ; 13     ; 7      ; 47     ; 52     ; −5
+7   ;          Philadelphia Union     ; 46       ; 34     ; 12     ; 12     ; 10     ; 42     ; 44     ; −2
+8   ;          Columbus Crew          ; 41       ; 34     ; 12     ; 17     ; 5      ; 42     ; 46     ; −4
+9   ;          Toronto FC             ; 29       ; 34     ; 6      ; 17     ; 11     ; 30     ; 47     ; −17
+10  ;          D.C. United            ; 16       ; 34     ; 3      ; 24     ; 7      ; 22     ; 59     ; −37
+
+
+*Western Conference
+
+1   ;          Portland Timbers     ; 57     ; 34     ; 14     ; 5      ; 15     ; 54     ; 33     ; +21  
+2   ;          Real Salt Lake       ; 56     ; 34     ; 16     ; 10     ; 8      ; 57     ; 41     ; +16
+3   ;          Los Angeles Galaxy   ; 53     ; 34     ; 15     ; 11     ; 8      ; 53     ; 38     ; +15
+4   ;          Seattle Sounders FC  ; 52     ; 34     ; 15     ; 12     ; 7      ; 42     ; 42     ; 0    
+5   ;          Colorado Rapids      ; 51     ; 34     ; 14     ; 11     ; 9      ; 45     ; 38     ; +7
+6   ;          San Jose Earthquakes ; 51     ; 34     ; 14     ; 11     ; 9      ; 35     ; 42     ; −7
+7   ;          Vancouver Whitecaps  ; 48     ; 34     ; 13     ; 12     ; 9      ; 53     ; 45     ; +8
+8   ;          FC Dallas            ; 44     ; 34     ; 11     ; 12     ; 11     ; 48     ; 52     ; −4
+9   ;          Chivas USA           ; 26     ; 34     ; 6      ; 20     ; 8      ; 30     ; 67     ; −37
+
+
+Season: 2012
+
+*Eastern Conference
+1   ;          Sporting Kansas City  ; 63  ; 34     ; 18     ; 7      ; 9      ; 42     ; 27     ; +15 
+2   ;          D.C. United           ; 58  ; 34     ; 17     ; 10     ; 7      ; 53     ; 43     ; +10
+3   ;          New York Red Bulls    ; 57  ; 34     ; 16     ; 9      ; 9      ; 57     ; 46     ; +11
+4   ;          Chicago Fire          ; 57  ; 34     ; 17     ; 11     ; 6      ; 46     ; 41     ; +5    
+5   ;          Houston Dynamo        ; 53  ; 34     ; 14     ; 9      ; 11     ; 48     ; 41     ; +7
+6   ;          Columbus Crew         ; 52  ; 34     ; 15     ; 12     ; 7      ; 44     ; 44     ; 0
+7   ;          Montreal Impact       ; 42  ; 34     ; 12     ; 16     ; 6      ; 45     ; 51     ; −6
+8   ;          Philadelphia Union    ; 36  ; 34     ; 10     ; 18     ; 6      ; 37     ; 45     ; −8
+9   ;          New England Revolution; 35  ; 34     ; 9      ; 17     ; 8      ; 39     ; 44     ; −5
+10  ;          Toronto FC            ; 23  ; 34     ; 5      ; 21     ; 8      ; 36     ; 62     ; −26
+
+*Western Conference
+
+1   ;          San Jose Earthquakes  ; 66  ; 34     ; 19     ; 6      ; 9      ; 72     ; 43     ; +29 
+2   ;          Real Salt Lake        ; 57  ; 34     ; 17     ; 11     ; 6      ; 46     ; 35     ; +11
+3   ;          Seattle Sounders FC   ; 56  ; 34     ; 15     ; 8      ; 11     ; 51     ; 33     ; +18
+4   ;          Los Angeles Galaxy    ; 54  ; 34     ; 16     ; 12     ; 6      ; 59     ; 47     ; +12 
+5   ;          Vancouver Whitecaps FC; 43  ; 34     ; 11     ; 13     ; 10     ; 35     ; 41     ; −6
+6   ;          FC Dallas             ; 39  ; 34     ; 9      ; 13     ; 12     ; 42     ; 47     ; −5
+7   ;          Colorado Rapids       ; 37  ; 34     ; 11     ; 19     ; 4      ; 44     ; 50     ; −6
+8   ;          Portland Timbers      ; 34  ; 34     ; 8      ; 16     ; 10     ; 34     ; 56     ; −22
+9   ;          Chivas USA            ; 30  ; 34     ; 7      ; 18     ; 9      ; 24     ; 58     ; −34
+
+
 
 Season: 2011
 
-Key: team; games_played; wins; losses; ties; goals_for; points
+Key: team; games; wins; losses; ties; goals_for; goals_against; points
 
 *     Eastern Division
 Sporting Kansas City      ; 34 ; 16 ;  9 ; 12 ;  50 ; 40 ;  51 
@@ -253,7 +310,7 @@ San Jose Earthquakes      ; 32 ;  7 ;  8 ; 17 ;  35 ; 50 ;  29
 
 Season: 1999
 
-Key: team; games_played; wins; shootout_wins; shootout_losses; losses; goals_for; goals_against; points
+Key: team; games; wins; shootout_wins; shootout_losses; losses; goals_for; goals_against; points
 
  
 *      Eastern Conference

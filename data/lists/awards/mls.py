@@ -28,6 +28,7 @@ d = {
         (2010, 'Los Angeles Galaxy'),
         (2011, 'Los Angeles Galaxy'),
         (2012, 'San Jose Earthquakes'),
+        (2013, 'New York Red Bulls'),
         ],
 
 

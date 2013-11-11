@@ -2,9 +2,7 @@ Competition: Liga Nacional de Honduras
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
 
 BlockSource: http://www.rsssf.com/tablesh/hond03.html
-
-
-Season: 2002 Apertura
+Season: 2002-2003 Apertura
 
  1; CD Platense    ; 18; 12;  5;  1; 42; 14; 41
  2; CD Olimpia       ; 18;  7; 10;  1; 25; 17; 31
@@ -23,7 +21,7 @@ Season: 2002 Apertura
 
 
 
-Season: 2003 Clausura
+Season: 2002-2003 Clausura
 
  1; CD Olimpia       ; 18; 10;  5;  3; 32; 19; 35
  2; CD Marathon   ; 18; 10;  3;  5; 33; 17; 33
@@ -41,7 +39,7 @@ Season: 2003 Clausura
 BlockSource: http://www.rsssf.com/tablesh/hond04.html
 
 
-Season: 2003 Apertura
+Season: 2003-2004 Apertura
 
  1; CD Olimpia         ; 18; 13;  4;  1;  40;  7;  43
  2; Real CD Espana  ; 18; 10;  5;  3;  36; 23;  35
@@ -55,7 +53,7 @@ Season: 2003 Apertura
 10; Real Patepluma; 18;  2;  4; 12;  15; 40;  10
 
 
-Season: 2004 Clausura
+Season: 2003-2004 Clausura
 
  1; CD Olimpia         ; 16; 11;  4;  1;  33; 15;  37
  2; CD Victoria              ; 16;  9;  2;  5;  26; 20;  29
@@ -70,7 +68,7 @@ Season: 2004 Clausura
 
 BlockSource: http://www.rsssf.com/tablesh/hond05.html
 
-Season: 2004 Apertura
+Season: 2004-2005 Apertura
 
  1; CD Olimpia           ; 18; 12;  3;  3;  39; 17;  39 
  2; CD Marathon       ; 18; 10;  4;  4;  23; 17;  34 
@@ -85,7 +83,7 @@ Season: 2004 Apertura
 
 
 
-Season: 2005 Clausura
+Season: 2004-2005 Clausura
 
  1; CD Olimpia           ; 17; 10;  5;  2;  26; 12;  35
  2; CD Marathon       ; 17;  7;  6;  4;  23; 20;  27
@@ -103,7 +101,7 @@ Season: 2005 Clausura
 
 BlockSource: http://www.rsssf.com/tablesh/hond06.html
 
-Season: 2005 Apertura
+Season: 2005-2006 Apertura
 
  1; CD Olimpia           ; 18; 11;  4;  3;  38; 17;  37 
  2; CD Victoria                ; 18;  9;  3;  6;  30; 27;  30 
@@ -117,7 +115,7 @@ Season: 2005 Apertura
 10; CD Motagua           ; 18;  3;  5; 10;  16; 26;  14
 
 
-Season: 2006 Clausura
+Season: 2005-2006 Clausura
 
  1; CD Olimpia           ; 18; 10;  7;  1;  27; 13;  37 
  2; CD Victoria                ; 18;  8;  7;  3;  31; 18;  31 
@@ -135,7 +133,7 @@ Season: 2006 Clausura
 
 BlockSource: http://www.rsssf.com/tablesh/hond07.html
 
-Season: 2006 Apertura
+Season: 2006-2007 Apertura
 
  1; CD Olimpia           ; 18; 10;  5;  3;  26; 14;  35 
  2; CD Motagua           ; 18;  9;  4;  5;  27; 22;  31 
@@ -148,11 +146,11 @@ Season: 2006 Apertura
  9; Universidad (Choluteca)         ; 18;  3;  5; 10;  17; 26;  14
 10; CDS Vida                    ; 18;  3;  2; 13;  17; 39;  11
 
-*] Hispano bought the place of Municipal Valencia
+* Hispano bought the place of Municipal Valencia
 
 
 
-Season: 2007 Apertura
+Season: 2006-2007 Apertura
 
  1; Real CD Espana    ; 18; 12;  4;  2;  29;  8;  40  
  2; CD Marathon       ; 18; 11;  3;  4;  32; 16;  36  
@@ -166,12 +164,8 @@ Season: 2007 Apertura
 10; Universidad (Choluteca)         ; 17;  0;  6; 11;   7; 39;   6
 
 
-
-
 BlockSource: http://www.rsssf.com/tablesh/hond08.html
-
-Season: 2007 Apertura
-
+Season: 2007-2008 Apertura
 
  1; CD Marathon       ; 18; 10;  5;  3;  27; 16;  35
  2; CD Motagua           ; 18;  9;  5;  4;  28; 19;  32
@@ -184,9 +178,7 @@ Season: 2007 Apertura
  9; CD Platense        ; 18;  3;  6;  9;  17; 28;  15
 10; Atletico Olanchano  ; 18;  3;  4; 11;  15; 29;  13
 
-
-
-Season: 2008 Clausura
+Season: 2007-2008 Clausura
 
  1; CD Olimpia           ; 18;  9;  6;  3;  28; 13;  33
  2; CD Marathon       ; 18;  9;  3;  6;  30; 23;  30
@@ -200,11 +192,8 @@ Season: 2008 Clausura
 10; CDS Vida                    ; 18;  4;  6;  8;  18; 29;  18
 
 
-
-
 BlockSource: http://www.rsssf.com/tablesh/hond09.html
-
-Season: 2008 Apertura
+Season: 2008-2009 Apertura
 
  1; Real CD Espana    ; 18; 10;  6;  2;  33; 18;  38
  2; CD Marathon       ; 18;  9;  5;  4;  26; 20;  32
@@ -217,11 +206,9 @@ Season: 2008 Apertura
  9; Real Juventud   ; 18;  3;  3; 12;  13; 24;  12
 10; CDS Vida                    ; 18;  1;  6; 11;  10; 25;   9
 
-
 * NB: on Aug 12, España obtained 2 additional points and Savio had 1 deducted for fielding an ineligible player in round 1; the  goal records of both clubs remain unchanged
 
-
-Season: 2009 Clausura
+Season: 2008-2009 Clausura
 
  1; CD Olimpia           ; 18; 11;  4;  3;  24; 10;  37
  2; CD Marathon       ; 18; 10;  4;  4;  42; 23;  34
@@ -235,11 +222,8 @@ Season: 2009 Clausura
 10; Hispano (Comayagua)             ; 17;  3;  2; 12;  18; 37;  11
 
 
-
-
 BlockSource: http://www.rsssf.com/tablesh/hond2010.html#1aper
-
-Season: 2009 Apertura
+Season: 2009-2010 Apertura
 
  1; CD Marathon       ; 18; 11;  5;  2;  32; 16;  38 
  2; CD Motagua           ; 18; 10;  5;  3;  31; 14;  35 
@@ -253,8 +237,7 @@ Season: 2009 Apertura
 10; Real Juventud   ; 18;  3;  4; 11;  19; 32;  13
 * Real Juventud merged with promoted side Atlético Gualala (Santa Bárbara) and remained at the first level under the name Real Juventud 
     
-    
-Season: 2010 Clausura
+Season: 2009-2010 Clausura
 
  1; CD Motagua           ; 18; 11;  3;  4;  28; 15;  36
  2; CD Olimpia           ; 18;  8;  8;  2;  26; 11;  32
@@ -270,11 +253,8 @@ Season: 2010 Clausura
 * NB: Real Juventud had 3 points deducted (those won on Apr 15 on) for failing to settle debts to former players by Apr 12;  Juventud have appealed against this penalty
 
 
-
-
-
 BlockSource: http://www.rsssf.com/tablesh/hond2011.html#1aper
-Season: 2010 Apertura
+Season: 2010-2011 Apertura
 
  1; CD Victoria             ; 18;  10;  2;  6;  26; 24;  32 
  2; CD Marathon       ; 18;   8;  7;  3;  26; 18;  31 
@@ -287,7 +267,7 @@ Season: 2010 Apertura
  9; CD Necaxa            ; 18;   5;  4;  9;  18; 19;  19
 10; Hispano (Comayagua)             ; 18;   3;  4; 11;  17; 31 ; 13
 
-Season: 2011 Clausura
+Season: 2010-2011 Clausura
 
  1; CD Olimpia           ; 18;   9;  6;  3;  24; 11;  33 
  2; CD Motagua           ; 18;   8;  7;  3;  25; 17;  31 
@@ -303,7 +283,7 @@ Season: 2011 Clausura
 
 
 BlockSource: http://www.rsssf.com/tablesh/hond2012.html#1aper
-Season: 2011 Apertura
+Season: 2011-2012 Apertura
 
  1; Real CD Espana    ; 18;   9;  7;  2;  25; 13;  34 
  2; CD Marathon       ; 18;   9;  4;  5;  32; 19;  31 
@@ -317,7 +297,7 @@ Season: 2011 Apertura
 10; Atletico Choloma  ; 18;   3;  9;  6;  18; 27;  18
 
 
-Season: 2012 Clausura
+Season: 2011-2012 Clausura
 
  1; CD Olimpia           ; 18;  10;  5;  3;  32; 14;  35
  2; CD Motagua           ; 18;   7; 11;  0;  22; 10;  32
@@ -331,11 +311,8 @@ Season: 2012 Clausura
 10; CD Platense        ; 18;   1;  8;  9;  14; 32;  11
 
 
-
-
 BlockSource: http://www.rsssf.com/tablesh/hond2013.html#1clau
-
-Season: 2012 Apertura
+Season: 2012-2013 Apertura
 
  1; CD Olimpia           ; 18;  11;  6;  1;  32; 10;  39
  2; CD Victoria             ; 18;   8;  7;  3;  22; 12;  31
