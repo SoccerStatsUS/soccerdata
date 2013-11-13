@@ -172,11 +172,6 @@ l = [
         'city': 'Buenos Aires, Argentina',
         },
 
-    {
-        'name': 'Paysandu',
-        'founded': 1914,
-        'city': 'Belem, Brazil',
-        },
 
 
 
@@ -217,6 +212,20 @@ l = [
         'name': 'Ñublense',
         'founded': datetime.datetime(1916, 8, 20),
         'city': 'Chillán, Chile',
+        },
+
+
+
+    {
+        'name': 'Deportes Puerto Montt',
+        'founded': datetime.datetime(1983, 5, 6),
+        'city': 'Puerto Montt, Chile',
+        },
+
+    {
+        'name': 'Deportivo Maldonado',
+        'founded': datetime.datetime(1928, 8, 25),
+        'city': 'Maldonado Chile',
         },
 
     {
@@ -276,12 +285,6 @@ l = [
         },
 
 
-    {
-        'name': 'Coquimbo Unido',
-        'founded': datetime.datetime(1957, 8, 15),
-        'city': 'Coqumibo, Chile',
-        },
-
 
     {
         'name': 'Deportes Temuco',
@@ -305,6 +308,12 @@ l = [
         'name': 'Deportes Naval',
         'founded': datetime.datetime(1972, 8, 27),
         'city': 'Talcahuano, Chile',
+        },
+
+    {
+        'name': 'Deportes Temuco',
+        'founded': 1960,
+        'city': 'Temuco, Chile',
         },
 
     {
@@ -344,6 +353,17 @@ l = [
         'city': 'Calama, Chile',
         },
 
+    {
+        'name': 'Coquimbo Unido',
+        'founded': datetime.datetime(1957, 8, 15),
+        'city': 'Coquimbo, Chile',
+        },
+
+    {
+        'name': 'Curicó Unido',
+        'founded': 1973
+        'city': 'Curico, Chile',
+        },
 
     {
         'name': 'Deportes Ovalle',
@@ -461,6 +481,12 @@ l = [
         'name': 'Deportes Iquique',
         'founded': datetime.datetime(1978, 5, 21),
         'city': 'Iquique, Chile',
+        },
+
+    {
+        'name': 'Deportes Copiapó',
+        'founded': datetime.datetime(1999, 3, 9),
+        'city': 'Copiapo, Chile',
         },
     {
         'name': 'Universidad de Concepción',
@@ -1352,6 +1378,36 @@ l = [
         },
 
     {
+        'name': 'Paysandú Bella Vista',
+        'founded': datetime.datetime(1939, 1, 11),
+        'city': 'Paysandu, Uruguay',
+        },
+
+    {
+        'name': 'Tacuarembó',
+        'founded': datetime.datetime(1999, 1, 3),
+        'city': 'Tacuarembó, Uruguay',
+        },
+
+    {
+        'name': 'Villa Espanola',
+        'founded': datetime.datetime(1940, 8, 18),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Plaza Colonia',
+        'founded': datetime.datetime(1917, 4, 22),
+        'city': 'Colonia, Uruguay',
+        },
+
+    {
+        'name': 'Deportivo Colonia',
+        'founded': datetime.datetime(1999, 10, 16),
+        'city': 'Colonia, Uruguay',
+        },
+
+    {
         'name': 'IA Sud América',
         'founded': datetime.datetime(1914, 2, 15),
         'city': 'Montevideo, Uruguay',
@@ -1772,6 +1828,14 @@ l = [
         'founded': datetime.datetime(1914, 2, 2),
         'city': 'Belem, Brazil',
         },
+
+    {
+        'name': 'Paysandu',
+        'founded': 1914,
+        'city': 'Belem, Brazil',
+        },
+
+
     {
         'name': 'Deportes Tolima',
         'founded': 1954,
