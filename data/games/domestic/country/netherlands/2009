@@ -530,8 +530,10 @@ Date: 3/19/2010
 
 Date: 3/20/2010
 
-; Feyenoord       abd Vitesse         [abandoned at; 1-1; at half-time
-; Heracles       ; 3-0; NAC              due to unplayable pitch]
+*; Feyenoord       abd Vitesse         
+*[abandoned at; 1-1; at half-time due to unplayable pitch]
+
+; Heracles       ; 3-0; NAC              
 ; PSV            ; 1-1; Twente          
 ; Willem II      ; 0-3; Utrecht         
 
@@ -544,7 +546,8 @@ Date: 3/21/2010
 
 Date: 3/31/2010
 
-; Feyenoord      ; 2-1; Vitesse         [second half]
+; Feyenoord      ; 2-1; Vitesse         
+*[second half]
 
 Round: 29
 Date: 3/26/2010

@@ -257,7 +257,7 @@ Date: 10/4/2003
   Marcelo Carioca 62, Alan 96; Liedson 23
 
 ; Moreirense       ; 1-4; Benfica
-  Manoel 70; Simão 26, (pk) 55, Fehér 45, Roger 92
+  Manoel 70; Simão 26, Simao (pk) 55, Fehér 45, Roger 92
 
 Date: 10/5/2003
 
@@ -382,7 +382,7 @@ Date: 11/2/2003
   Silva 84; Evandro 45
  
 ; U. Leiria        ; 2-1; Alverca 
-  Gabriel 3; Paulo Gomes 29; Zeferino 46
+  Gabriel 3, Paulo Gomes 29; Zeferino 46
 
 ; Académica        ; 2-1; Gil Vicente 
   Delmer 52, Delmer 90; Paulo Alves (pk) 92
@@ -413,10 +413,10 @@ Date: 11/8/2003
 Date: 11/9/2003
 
 ; Rio Ave          ; 3-0; U. Leiria 
-  Evandro (pk) 43, (pk) 88, Ronny 71;
+  Evandro (pk) 43, Evandro (pk) 88, Ronny 71;
 
 ; Beira-Mar;         2-2; Guimarães  
-  Wijnhard 52, 67; João Tomás 74, Guga 93
+  Wijnhard 52, Wijnhard 67; João Tomás 74, Guga 93
 
 ; Alverca          ; 0-3; Benfica 
 ;  Tiago 13, Tiago 82, Geovanni 73
@@ -537,7 +537,7 @@ Round: 15
 Date: 12/19/2003
 
 ; Boavista         ; 0-3; Gil Vicente
-;  Edinho 45; Luís Loureiro (pk) 63, Ferreira II 90
+;  Edinho 45, Luís Loureiro (pk) 63, Ferreira II 90
 
 Date: 12/20/2003
 
@@ -681,7 +681,7 @@ Date: 1/23/2004
 Date: 1/24/2004
 
 ; Porto            ; 2-0; E. Amadora 
-  McCarthy 30, McCarthy 45
+  McCarthy 30, McCarthy 45;
 
 ; Belenenses       ; 1-3; Sporting 
   Marco Paulo 30; Sá Pinto 33, João Pinto 67, Liedson 93
@@ -760,7 +760,7 @@ Round: 21
 Date: 2/6/2004
 
 ; Gil Vicente      ; 1-0; Braga
-  Ferreira 43
+  Ferreira 43;
 
 
 Date: 2/7/2004
@@ -903,7 +903,7 @@ Round: 25
 Date: 3/5/2004
 
 ; Porto            ; 4-1; Belenenses 
-  McCarthy 45, (pk) 51, Ricardo Costa 64, Deco 83; Brasília 89
+  McCarthy 45, McCarthy (pk) 51, Ricardo Costa 64, Deco 83; Brasília 89
 
 Date: 3/6/2004
 
@@ -1030,10 +1030,10 @@ Date: 3/28/2004
 ; U. Leiria        ; 1-1; Rio Ave  
   Douala 66; Jaime 14
 
-; ; Guimarães        ; 2-0; Beira-Mar;  
+; Guimarães        ; 2-0; Beira-Mar;  
   Medeiros 17, Kata (og) 58;
 
-; Porto            ; 1-0;; Moreirense 
+; Porto            ; 1-0; Moreirense 
   Carlos Alberto 89;
 
 ; Benfica          ; 2-0; Alverca  
@@ -1107,7 +1107,7 @@ Date: 4/10/2004
   Nuno Gomes 47, Geovanni 87; Zé Manuel 66
 
 ; Sporting         ; 4-0; E. Amadora 
-  Liedson 33, Liedson 58, Liedson 82, Niculae 78
+  Liedson 33, Liedson 58, Liedson 82, Niculae 78;
 
 Date: 4/12/2004
 
