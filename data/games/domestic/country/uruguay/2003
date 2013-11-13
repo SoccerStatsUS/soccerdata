@@ -85,7 +85,7 @@ Date: 3/1/2003
 Date: 3/2/2003
 
 ; Miramar Misiones    ; 4-0; Deportivo Colonia
-  Víctor Hugo Pedrozo 10, Martín Crossa 16, Martin Crossa 20, Martin Crossa (pk) 65
+  Víctor Hugo Pedrozo 10, Martín Crossa 16, Martin Crossa 20, Martin Crossa (pk) 65;
 
 ; Liverpool           ; 0-3; Tacuarembó
 ;  Víctor Píriz 40, Luis Cor (pk) 46+, Juan Carlos Reyes 66
@@ -422,7 +422,7 @@ Date: 5/17/2003
   Sebastián Abreu 23, Gabriel Álvez 81;
 
 ; Villa Española      ; 3-0; River Plate
-  Nicolás Nicolay 57, Nicolas Nicolay 69, Nicolas Nicolay 75
+  Nicolás Nicolay 57, Nicolas Nicolay 69, Nicolas Nicolay 75;
 
 Date: 5/18/2003
 
@@ -681,7 +681,7 @@ Date: 7/20/2003
   José Di Conza 57; Germán Pérez (pk) 7, Alberto Ortega 55
 
 ; Plaza Colonia       ; 2-2; Fénix
-  Diego Saint-Pastourz 9, Osvaldo Carro (pk) 90; Martín Ligüera (pk) 23, (pk) 91
+  Diego Saint-Pastourz 9, Osvaldo Carro (pk) 90; Martín Ligüera (pk) 23, Martin Liguera (pk) 91
 
 ; Defensor Sporting   ; 0-2; Peñarol         
 ;  Carlos Bueno 7, Carlos Bueno 90
@@ -924,7 +924,7 @@ Date: 9/28/2003
   Marcelo Sosa 49, Ignacio González 85; Pablo Granoche 55
 
 ; Defensor            ; 4-0; Tacuarembó           
-  Paulo Henrique 44, Nicanor Leal (og) 51, Gonzalo Vargas 68, Edvaldo 84
+  Paulo Henrique 44, Nicanor Leal (og) 51, Gonzalo Vargas 68, Edvaldo 84;
 
 ; Deportivo Maldonado ; 0-0; Bella Vista          
 
@@ -1062,7 +1062,7 @@ Date: 10/26/2003
 Date: 10/30/2003
 
 ; Nacional            ; 2-0; Central Español      
-  Horacio Peralta (pk) 54, Miguel Mansilla (og) 92
+  Horacio Peralta (pk) 54, Miguel Mansilla (og) 92;
 
 Round: 13
 Date: 11/1/2003
@@ -1225,7 +1225,7 @@ Date: 11/30/2003
   Edvaldo 21;
 
 
-; * 1.CA Peñarol                    17 12  3  2 ; 30-13;  39  Clausura winners
+* 1.CA Peñarol                    17 12  3  2 ; 30-13;  39  Clausura winners
 * 2.Liverpool FC                  17  9  4  4  23-15  31
 * 3.CA Fénix                      17  8  5  4  21-16  29
 * 4.Defensor Sporting Club        17  8  4  5  30-20  28
@@ -1279,40 +1279,35 @@ Date: 11/30/2003
 *    table will be relegated.
 
 
-Championship Playoff
+Season: 2003 Championship Playoff
 
-Semifinal (Apertura/Clausura Playoff) 
-Date: 12/4, Estadio Centenario; att: 40.000/2003
+Round: Semifinal 
+*(Apertura/Clausura Playoff) 
 
-; Peñarol             ; 1-0; Nacional
-  Joe Emerson Bizera 45+3
+12/4/2003; Peñarol             ; 1-0; Nacional; Estadio Centenario; Gustavo Méndez, Edgardo Acosta, Marcelo Costa; 40000
+  Joe Emerson Bizera 45+3;
+Peñarol: José Luis Chilavert; Marcelo De Souza, Joe Bizera, Alejandro Lago; Edgard Álvarez (Leonel Philipauskas 52), Cristian Rodríguez; Nicolás Rotundo, Fabián Césaro (Luiz Nunes 43), Gabriel Cedrés; Fabián Estoyanoff (Martín García 65), Carlos Bueno; 
+Bench: Adrián Berbia, José Herrera, Pablo Bengoechea, Daniel Jiménez;
+Nacional: Jorge Bava; Angbwa Benoit, Carlos Valdez, Alejandro Curbelo, Daniel Leites; Sebastián Eguren (Diego Scotti 80), Gustavo Méndez, Oscar Morales, Sergio Vázquez (Horacio Peralta 50); Marcelo Guerrero, Julio Dely Valdés (Alejandro Mello 70); 
+Bench: Leonardo Romay, Carlos Camejo, Ruben Sosa, Fabián Coelho;
+*   Red Cards:
+*     Peñarol: Nicolás Rotundo 49; 
+*     Nacional: Angbwa Benoit 10, Leonardo Romay 45+4 (bench), Fabián
+*               Coelho 45+4, Daniel Carreño 45+4, Alejandro Mello 82,
+*               Oscar Morales 90+5;
+*   Yellow cards:
+*     Peñarol: Nicolás Rotundo 21, Edgard Álvarez 29, Marcelo De Souza 42,
+*              José Luis Chilavert 45, Alejandro Lago 88;
+*     Nacional: Angbwa Benoit 6, Gustavo Méndez 7, Sebastián Eguren 45,
+*               Julio César Dely Valdés 56, Carlos Valdez 60;
 
-  [Peñarol: José Luis Chilavert; Marcelo De Souza, Joe Bizera, Alejandro
-     Lago; Edgard Álvarez (Leonel Philipauskas 52), Cristian Rodríguez;
-     Nicolás Rotundo, Fabián Césaro (Luiz Nunes 43), Gabriel Cedrés;
-     Fabián Estoyanoff (Martín García 65), Carlos Bueno; DT: Diego Aguirre; 
-     Bench: Adrián Berbia, José Herrera, Pablo Bengoechea, Daniel Jiménez;
-   Nacional: Jorge Bava; Angbwa Benoit, Carlos Valdez, Alejandro Curbelo,
-     Daniel Leites; Sebastián Eguren (Diego Scotti 80), Gustavo Méndez,
-     Oscar Morales, Sergio Vázquez (Horacio Peralta 50); Marcelo Guerrero,
-     Julio Dely Valdés (Alejandro Mello 70); DT: Daniel Carreño; Bench:
-     Leonardo Romay, Carlos Camejo, Ruben Sosa, Fabián Coelho;
-   Red Cards:
-     Peñarol: Nicolás Rotundo 49; 
-     Nacional: Angbwa Benoit 10, Leonardo Romay 45+4 (bench), Fabián
-               Coelho 45+4, Daniel Carreño 45+4, Alejandro Mello 82,
-               Oscar Morales 90+5;
-   Yellow cards:
-     Peñarol: Nicolás Rotundo 21, Edgard Álvarez 29, Marcelo De Souza 42,
-              José Luis Chilavert 45, Alejandro Lago 88;
-     Nacional: Angbwa Benoit 6, Gustavo Méndez 7, Sebastián Eguren 45,
-               Julio César Dely Valdés 56, Carlos Valdez 60;
-   ref: Gustavo Méndez; Edgardo Acosta, Marcelo Costa]
 
-Final (Aggregate Table winners/Semifinal winners) 
+Round: Final 
+*(Aggregate Table winners/Semifinal winners) 
 
-As Peñarol won both the aggregate table and the Dec 4 semifinal, they
-are champions without the need for another match
+; Penarol; np; Penarol
+
+Notes: As Peñarol won both the aggregate table and the Dec 4 semifinal, they are champions without the need for another match
 
 
 

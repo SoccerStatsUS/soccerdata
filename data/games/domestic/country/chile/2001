@@ -2,7 +2,6 @@ BlockSource: http://www.rsssf.com/tablesc/chile01.html
 Competition: Chilean Primera Division
 Season: 2001
 
-
 * 1.Santiago Wanderers    30 20  6  4 65-32 66  [*3]  Champions
 * 2.Universidad Catolica  30 18  6  6 60-29 60  [*2]  Copa Libertadores
 * 3.Universidad de Chile  30 17  6  7 53-33 57  [*1]  Liguilla
@@ -52,7 +51,6 @@ Date: 3/3/2001
 
 ; San Felipe         ; 1-1; Cobreloa
   Fuentes (pk) 78; Cornejo 81
-
 
 Date: 3/4/2001
 
@@ -143,7 +141,7 @@ Date: 3/31/2001
 Date: 4/1/2001
 
 ; Puerto Montt       ; 2-5; U. Católica
-  Quiroga (pk) 32, Quiroga (pk) 57; Diaz 24, Arrue 46, Arrue 59; Monje 50, Ponce 73
+  Quiroga (pk) 32, Quiroga (pk) 57; Diaz 24, Arrue 46, Arrue 59, Monje 50, Ponce 73
 
 ; Huachipato         ; 3-4; Stgo. Wanderers
   Reynero 43, Goinio 58, Salgado 71; Nuñez 20, Barra 41, Robles 80, Robles 88
@@ -193,7 +191,7 @@ Date: 4/14/2001
   Corrales 65;
 
 ; Palestino          ; 1-0; A. Italiano 
-  Caro (pk) 90
+  Caro (pk) 90;
 
 ; Rangers            ; 0-0; U. Católica 
 
@@ -240,9 +238,7 @@ Date: 4/29/2001
 ; S. Wanderers       ; 2-0; Palestino 
   Fernández (pk) 21, Robles 77;
 
-
 Round: 8 
-
 Date: 5/5/2001
 
 ; U. Española        ; 3-3; Colo Colo 
@@ -283,7 +279,6 @@ Date: 5/12/2001
 ; Stgo. Morning      ; 1-2; Dep. Concepción 
   Biscayzacú 31; Zapata 28, Montecinos 70
 
-
 Date: 5/13/2001
 
 ; Colo Colo          ; 0-0; Coquimbo U. 
@@ -299,7 +294,6 @@ Date: 5/13/2001
 ; Stgo. Wanderers    ; 2-0; U. San Felipe 
   Fernández 20, Soto 84;
  
-
 Round: 10 
 Date: 5/19/2001
 
@@ -403,8 +397,8 @@ Date: 6/16/2001
 ; U. Católica        ; 2-0; Dep. Concepción 
   Núñez 47, Díaz 77;
  
-
 Date: 6/17/2001
+
 ; U. de Chile        ; 1-1; Cobreloa 
   P. González 74; Tagliani 81
 
@@ -434,7 +428,6 @@ Date: 6/23/2001
 
 ; Cobreloa           ; 3-1; Palestino 
   Fuentes 5, Baldivieso (pk) 68, Dinamarca 89; Rojas 40
-
 
 Date: 6/24/2001
 
@@ -517,7 +510,6 @@ Date: 8/18/2001
 ; U. Española        ; 1-1; Cobreloa 
   Medina (pk) 89; Galaz 85
 
-
 Date: 8/19/2001
 
 ; Stgo. Wanderers    ; 1-3; U. Católica 
@@ -538,14 +530,13 @@ Round: 18
 Date: 8/25/2001
 
 ; U. Católica        ; 4-0; O'Higgins 
-  Norambuena 42, Norambuena 65, Díaz 63, Núñez 69
+  Norambuena 42, Norambuena 65, Díaz 63, Núñez 69;
 
 ; Cobreloa           ; 3-2; Coquimbo U. 
   Madrid 23, Cornejo 59, Pérez 74; Ahumada (pk) 34, Pereira 85
 
 ; Palestino          ; 1-0; Dep. Concepción 
   Segalla (pk) 13;
-
 
 Date: 8/26/2001
 
@@ -555,13 +546,11 @@ Date: 8/26/2001
 ; Puerto Montt       ; 3-3; Stgo. Wanderers 
   Oyarzún 11, Zambrano 67, Fuentes 80; Fernández 17, Rojas 38, Neveu 75
  
-
 Date: 8/29/2001
 
 ; U. de Chile        ; 0-1; Stgo. Morning
 ;  Reyes 28
  
-
 Date: 8/31/2001
 
 ; U. San Felipe      ; 3-0; U. Española 
@@ -710,7 +699,7 @@ Date: 10/14/2001
   Gioino 36, Gioino 49; Muena (pk) 51
 
 ; Santiago Wanderers ; 3-0; Cobreloa 
-  Fernández 23, Fuentes (og) 81, Fuentes (og) 86
+  Fernández 23, Fuentes (og) 81, Fuentes (og) 86;
 
 Round: 24 
 Date: 10/20/2001
@@ -750,7 +739,6 @@ Date: 10/27/2001
 
 ; Rangers            ; 0-2; Univ. de Chile 
 ;  P. González 5, Von Schwedler 20
-
 
 Date: 10/28/2001
 
@@ -903,7 +891,7 @@ Date: 12/8/2001
   Verdugo 28, Verdugo 80, Vargas 44; Viveros 16, Ceballos (pk) 59, Castilla 88
 
 ; Stgo. Morning      ; 4-1; Puerto Montt 
-  Reyes 39, Biscayzacú (pk) 43, 49, Zanello 59; Pesce 15
+  Reyes 39, Biscayzacú (pk) 43, Biscayzacu 49, Zanello 59; Pesce 15
 
 ; Cobreloa           ; 2-0; O'Higgins 
   Núñez 62, Celedón 74;
@@ -950,49 +938,43 @@ Date: 12/9/2001
 *     third period behind S. Wanderers and U. Católica
 
 
-Liguilla Pre-Libertadores
+Season: 2001 Liguilla Pre-Libertadores
 
-Semifinals
-
+Round: Semifinals
 *First Legs
-Date: 12/11/2001
 
-*Palestino           abd U. de Chile           [abandoned at 1-0 in 51']
-*  [Segalla 42]
+12/11/2001; Palestino; 1-0; U. de Chile
+Segalla 42;
+Notes: abandoned at 1-0 after 51'
 
-; Huachipato         ; 3-2; Cobreloa 
+12/11/2001; Huachipato         ; 3-2; Cobreloa 
   Melendez (og) 63, Ceballos 67, Torrico 75; Cornejo 30, López (og) 60
-
 
 Date: 12/12/2001
 
 ; Palestino          ; 1-0; U. de Chile           
   Segalla 42;
+Notes: remaining 39 minutes of 12/1 game.
 *[remaining 39']
 
-
 *Second Legs 
-Date: 12/14/2001
 
-; U. de Chile        ; 3-1; Palestino 
+12/14/2001; U. de Chile        ; 3-1; Palestino 
   Barrera (pk) 19, Barrera (pk) 55, Maestri 87; Caro 58
 
-; Cobreloa           ; 3-0; Huachipato 
+12/14/2001; Cobreloa           ; 3-0; Huachipato 
   Madrid 40, Pérez 53, Cornejo 60;
 
-
-Final
+Round: Final
 
 *First Leg 
-Date: 12/18/2001
 
-; Cobreloa           ; 4-4; U. de Chile
+12/18/2001; Cobreloa           ; 4-4; U. de Chile
   Cornejo (pk) 15, Dinamarca 47, Vergara 54, Galaz 59; Barrera 41, P. González 75, Rivarola (pk) 78, Pérez (og) 86
 
 *Second Leg 
-Date: 12/20/2001
 
-; U. de Chile        ; 1-2 (aet); Cobreloa              [aet]
+12/20/2001; U. de Chile        ; 1-2 (aet); Cobreloa       
    Maestri 87; Madrid 45, Cornejo 107
 
 

@@ -210,7 +210,7 @@ Date: 2/17/2008
   Héctor Pericás 13; Javier Menghini 52, Ezequiel Miralles 61
  
 ; Ñublense           ; 2-0; Dep. Melipilla      ; Linares
-  Luis Flores Abarca 59, Luis Flores Abarca (pk) 69
+  Luis Flores Abarca 59, Luis Flores Abarca (pk) 69;
 
 ; Univ. de Chile     ; 2-0; Unión Española      ; Valparaiso
   Rafael Olarra 5, Manuel Villalobos 61;
@@ -600,7 +600,7 @@ Date: 4/20/2008
   Daud Gazale 8, Francisco Castillo 58, Daniel Pereira 90+2; Darío Gigena 18, Francisco Sánchez 40
 
 ; Univ. de Chile     ; 2-0; Audax Italiano
-  Sebastián Roco (og) (og) 38, Leonardo Mas 90+3;
+  Sebastián Roco (og) 38, Leonardo Mas 90+3;
 
 ; Huachipato         ; 2-1; Unión Española
   César Cortés 28, Leonardo Monje 73; Cristián Sepúlveda 66
@@ -637,7 +637,7 @@ Date: 4/26/2008
 Date: 4/27/2008
 
 ; Univ. Católica     ; 2-0; Univ. de Chile     ; Nacional Stadium (Chile)
-  Roberto Gutiérrez 10, Gary Medel 41
+  Roberto Gutiérrez 10, Gary Medel 41;
 
 ; Dep. Melipilla     ; 0-1; Antofagasta
 ;  Vladimir Guerrero 69
@@ -689,9 +689,7 @@ Date: 4/30/2008
 ; Antofagasta        ; 2-1; Dep. Concepción
   Héctor Suazo 29, Rubén Aguilera 89; Patricio Almendra (pk) 46
 
-
 Round: 19
-
 Date: 5/3/2008
 
 ; Cobresal           ; 3-2; Colo Colo          ; Calama
@@ -758,13 +756,16 @@ Date: 5/4/2008
 *NB: Deportes Concepción 6 points deducted for using ineligible
 *    player in round 2
 
-*Repechaje 
+
+Season: 2008 Apertura Liguilla
+
+Round: Repechaje 
 Date: 5/7/2008
 *, El Salvador
 
 ; Cobresal           ; 2-2; Cobreloa            
 Julio César Laffatigue 29, Rodrigo Núñez 55; Luis Fuentes 59, Elvis Marecos 90+3
-*[2-4 pen]
+Penalty kicks: 2-4
 
 Round: Quarterfinals
 
@@ -797,8 +798,8 @@ Date: 5/14/2008
 ; O'Higgins          ; 1-2; Univ. de Chile
   Hans Gómez 28; Manuel Villalobos 47, Raúl Estévez 56
 
-; Audax Italiano     ; 1-4; Everton             [at Colo Colo]
-  Carlos Garrido 69; Cristián Canío (pk) 20, 72, Ezequiel Miralles 56, Cristián Oviedo 90+1
+; Audax Italiano     ; 1-4; Everton             ; Colo Colo
+  Carlos Garrido 69; Cristián Canío (pk) 20, Cristian Canio 72, Ezequiel Miralles 56, Cristián Oviedo 90+1
 
 Date: 5/15/2008
 
@@ -835,16 +836,16 @@ Round: Final
 Date: 5/28/2008
 
 ; Colo Colo          ; 2-0; Everton; Estadio Monumental; Pablo Pozo; 35000
-  Lucas Barrios 86, Gonzalo Fierro 90+2
+  Lucas Barrios 86, Gonzalo Fierro 90+2;
 
 Colo Colo: Cristián Muñoz; Luis Mena, Jorge Carrasco, Ricardo Rojas, Domingo Salcedo; Arturo Sanhueza, Rodrigo Meléndez, Gonzalo Fierro, Daniel González (Gustavo Biscayzacú 69); Lucas Barrios, Rodolfo Moya.
 Everton: Johnny Herrera; Fernando Saavedra, Cristián Oviedo, Adrián Rojas, Mauricio Arias; Juan Luis González, Marcos Velásquez, Francisco Sánchez, Jaime Riveros (Roberto Reyes 81); Ezequiel Miralles, Cristián Canío.
 *Yellow Cards: Rojas, Fierro (C); Arias, Canío, Riveros, Velásquez (E)
 *Red Card: Arias (58)
 
-*Second Leg , Sausalito, Viña del Mar, att: 15.000, ref: Rubén Selman]
+*Second Leg
 
-6/3/2008; Everton            ; 3-0; Colo Colo
+6/3/2008; Everton            ; 3-0; Colo Colo; Estadio Sausalito; Ruben Selman; 15000
 Ezequiel Miralles 47, Ezequiel Miralles 76, Jaime Riveros 72;
 Everton: Johnny Herrera; Benjamín Ruiz, Cristián Oviedo, Adrián Rojas, Fernando Saavedra; Leandro Delgado, Juan González, Jaime Riveros (Cristián Uribe 88), Cristián Canio; Darío Gigena (Marco Velásquez 82), Ezequiel Miralles (Francisco Sánchez 90+2).
 Colo Colo: Cristián Muñoz; Luis Mena (Gustavo Biscayzacú 79), Ricardo Rojas, Jorge Carrasco, José Salcedo (Miguel Riffo 90); Arturo Sanhueza, Rodrigo Meléndez, Gonzalo Fierro, Daniel González (Cristóbal Jorquera 65); Rodolfo Moya, Lucas Barrios.
@@ -932,10 +933,10 @@ Marcelo Teuber 14, Mario Núñez 21, Mario Nunez 54; Gamadiel García 12
 Date: 6/29/2008
 
 ; Dep. Melipilla     ; 0-2; Colo Colo          
-  Daud Gazale 24, Cristóbal Jorquera 52
+;  Daud Gazale 24, Cristóbal Jorquera 52
 
 ; Rangers            ; 2-1; Dep. La Serena  
- Gastón Cellerino 63, 83; Angel Carreño 48
+ Gastón Cellerino 63, Gaston Cellerino 83; Angel Carreño 48
 
 ; Cobreloa           ; 1-1; Cobresal
   Luis Fuentes 25; Marco Olea 35
@@ -949,11 +950,10 @@ Round: 3
 Date: 7/5/2008
 
 ; Unión Española     ; 1-4; Univ. Católica     
-  Nicolás Canales 43; Luis Núñez (pk) 33, Nelson López (og) 61,
-   Julio Gutiérrez 72, Marcos González 87
+  Nicolás Canales 43; Luis Núñez (pk) 33, Nelson López (og) 61, Julio Gutiérrez 72, Marcos González 87
 
 ; O'Higgins          ; 1-0; Cobreloa
-  Jean Beausejour 75
+  Jean Beausejour 75;
 
 
 *  [Martín Gianfelice 25]
@@ -964,8 +964,7 @@ Date: 7/5/2008
 Date: 7/6/2008
 
 ; Prov. Osorno       ; 4-1; Ñublense   
-  Samuel Teuber 42; Mario Núñez 66, 85, Carlos Verdugo 90;
-   Ever Cantero (pk) 80
+  Samuel Teuber 42, Mario Núñez 66, Mario Nunez 85, Carlos Verdugo 90; Ever Cantero (pk) 80
 
 ; Huachipato         ; 1-1; Stgo. Morning
   Gamadiel García (pk) 41; Felipe Díaz 36
@@ -987,7 +986,7 @@ Date: 7/12/2008
   Cristián Vilchez 43; Felipe Díaz 56
 
 ; O'Higgins          ; 3-0; Cobresal
-  Néstor Bareiro 26, 90+2, Jean Beausejour 90
+  Néstor Bareiro 26, Nestor Bareiro 90+2, Jean Beausejour 90;
 
 ; Univ. de Chile     ; 1-2; Everton
   Raúl Estévez 66; Cristián Canío 82, Mauricio Arias 85
@@ -1001,17 +1000,16 @@ Date: 7/13/2008
   Julio Gutiérrez 3; Angel Carreño 14
 
 ; Univ. de Concepción; 1-2; Colo Colo
-  Fernando Meneses (pk) 80; Gonzalo Fierro 1, (pk) 62
+  Fernando Meneses (pk) 80; Gonzalo Fierro 1, Gonzalo Fierro (pk) 62
 
 ; Audax Italiano     ; 2-2; Dep. Melipilla
-  Rubén Gigena 25, Fabián Orellana 54, Norberto Arrieta 16,
-   Héctor Berríos 52
+  Rubén Gigena 25, Fabián Orellana 54; Norberto Arrieta 16, Héctor Berríos 52
 
 ; Rangers            ; 1-0; Prov. Osorno
-  Gastón Cellerino 66
+  Gastón Cellerino 66;
 
 ; Antofagasta        ; 0-2; Huachipato
-  Miguel Aceval 45, Nelson Rebolledo 65
+;  Miguel Aceval 45, Nelson Rebolledo 65
 
 *Ñublense            bye
 
@@ -1022,22 +1020,18 @@ Date: 7/19/2008
   Leonardo Monje 68; Roberto Ordenes (pk) 81
 
 ; Everton            ; 0-1; Palestino
-  Rodolfo Madrid 58
+;  Rodolfo Madrid 58
 
-; Unión Española     ; 1-4; Univ. de Chile      [at Nacional Stadium]
-  Manuel Neira 54; Nelson Pinto 38, Marcelo Salas 48,
-   Rafael Olarra (pk) 79, Manuel Villalobos 87
+; Unión Española     ; 1-4; Univ. de Chile      ; Nacional Stadium (Chile)
+  Manuel Neira 54; Nelson Pinto 38, Marcelo Salas 48, Rafael Olarra (pk) 79, Manuel Villalobos 87
  
 ; Dep. La Serena     ; 6-2; Cobreloa
-  Jorge Sotomayor 2, Pablo Bolados 25, 41, Roberto Castillo 73,
-   Iván Guillauma (og) 80, Juan Quiroga 88; Gustavo Savoia 26,
-   Luis Fuentes 56
+  Jorge Sotomayor 2, Pablo Bolados 25, Pablo Bolados 41, Roberto Castillo 73, Iván Guillauma (og) 80, Juan Quiroga 88; Gustavo Savoia 26, Luis Fuentes 56
 
 Date: 7/20/2008
 
 ; Colo Colo          ; 2-3; Rangers
-  Daud Gazale 24, Luis Pedro Figueroa 90; Rodrigo Barra 45,
-   Gastón Cellerino 52, 82
+  Daud Gazale 24, Luis Pedro Figueroa 90; Rodrigo Barra 45, Gastón Cellerino 52, Gaston Cellerino 82
 
 ; Stgo. Morning      ; 2-1; Antofagasta
   Felipe Díaz 52, Miguel Hernández 54; Richard Olivares 40
@@ -1049,8 +1043,7 @@ Date: 7/20/2008
   Rodrigo Núñez 58; Cristián Reynero 8, Braulio Leal 66
 
 ; Prov. Osorno       ; 2-4; Univ. Católica  
-  Mario Núñez 9, Samuel Teuber 36; Marcos González 40,
-   Luis Núñez 45, Julio Gutiérrez 55, Gary Medel 60
+  Mario Núñez 9, Samuel Teuber 36; Marcos González 40, Luis Núñez 45, Julio Gutiérrez 55, Gary Medel 60
 
 *O'Higgins           bye
 
@@ -1061,36 +1054,30 @@ Date: 7/26/2008
   Luis Angel Vildozo 55; Diego Silva (pk) 61
 
 ; Univ. de Concepción; 4-1; Prov. Osorno  
-  Julio César Laffatigue 26, José Pablo Burtovoy (og) 42,
-   Diego Díaz 65, Ricardo Viveros 90; Fernando Brandán 52
+  Julio César Laffatigue 26, José Pablo Burtovoy (og) 42, Diego Díaz 65, Ricardo Viveros 90; Fernando Brandán 52
 
 ; O'Higgins          ; 4-1; Stgo. Morning 
-  Néstor Bareiro 22, 37, José Pedro Fuenzalida 46, 56;
-   Diego Rivarola (pk) 88
+  Néstor Bareiro 22, Nestor Bareiro 37, José Pedro Fuenzalida 46, Jose Pedro Fuenzalida 56; Diego Rivarola (pk) 88
 
 ; Everton            ; 5-5; Dep. La Serena  
-  Sebastián Tagliabúe 3, 40, 76, Adrián Rojas 19,
-   Cristián Canío 29; Gustavo Canales 20, 68, (pk) 84,
-   Martín Gianfelice (pk) 27, Luis Peña 34
+  Sebastián Tagliabúe 3, Sebastián Tagliabúe 40, Sebastián Tagliabúe 76, Adrián Rojas 19, Cristián Canío 29; Gustavo Canales 20, Gustavo Canales 68, Gustavo Canales (pk) 84, Martín Gianfelice (pk) 27, Luis Peña 34
 
 ; Univ. de Chile     ; 4-1; Dep. Melipilla  
-  Raúl Estévez 39, 50, Walter Montillo 71, Manuel Villalobos 90+2;
-   Jorge Lagunas 70
-
+  Raúl Estévez 39, Raul Estevez 50, Walter Montillo 71, Manuel Villalobos 90+2; Jorge Lagunas 70
 
 Date: 7/27/2008
 
 ; Rangers            ; 1-1; Palestino
   Gastón Cellerino 77; Víctor Aquino 66
 
-; Ñublense           ; 1-2; Colo Colo           [in Concepción]
-  Ever Cantero 69; Lucas Barrios 1, 63
+; Ñublense           ; 1-2; Colo Colo           ; Concepción
+  Ever Cantero 69; Lucas Barrios 1, Lucas Barrios 63
 
 ; Cobreloa           ; 1-2; Antofagasta
   Iván Guillauma 30; Eduardo Martínez 14, Kevin Harbottle 81
 
-; Audax Italiano     ; 0-3; Huachipato          [at Colo Colo]
-  Víctor Sarabia 18, Gamadiel García 62, 89
+; Audax Italiano     ; 0-3; Huachipato          ; Colo Colo
+;  Víctor Sarabia 18, Gamadiel García 62, Gamadiel Garcia 89
 
 *Univ. Católica      bye
 
@@ -1098,35 +1085,33 @@ Round: 7
 Date: 8/2/2008
 
 ; Palestino          ; 3-1; Univ. de Concepción 
-  Héctor Pericás (pk) 49, Francisco Ibáñez 66, Fernando Solís (og) 86;
-   Daniel Pereira 41
+  Héctor Pericás (pk) 49, Francisco Ibáñez 66, Fernando Solís (og) 86; Daniel Pereira 41
 
-; Audax Italiano     ; 2-1; Everton             [at Colo Colo]   
+; Audax Italiano     ; 2-1; Everton             ; Colo Colo
   Cristián Reynero 37, Braulio Leal 90+2; Francisco Sánchez 74
     
 ; Univ. de Chile     ; 3-1; Cobreloa         
-  Nelson Pinto 38, 79, Rafael Olarra 48; Oscar Cornejo 80
+  Nelson Pinto 38, Nelson Pinto 79, Rafael Olarra 48; Oscar Cornejo 80
    
-; Huachipato         ; 1-2; Rangers             [in Concepción]
+; Huachipato         ; 1-2; Rangers            ; Concepción
   Leonardo Monje 45; Enzo Gutiérrez 14, Gastón Cellerino 18
   
 Date: 8/3/2008
 
 ; Dep. Melipilla     ; 3-1; Prov. Osorno    
-  Hernán Pagés 25, César Díaz 43, Iván Alvarez 74;
-   Fernando Brandán 4
+  Hernán Pagés 25, César Díaz 43, Iván Alvarez 74; Fernando Brandán 4
     
 ; Stgo. Morning      ; 1-2; Unión Española     
   Francisco Huaiquipán 3; Felipe Flores (pk) 9, Aníbal Domenighini 26
  
-; Univ. Católica     ; 1-0; Colo Colo           [at Nacional Stadium]
-  Jeremías Caggiano 36
+; Univ. Católica     ; 1-0; Colo Colo           ; Nacional Stadium (Chile)
+  Jeremías Caggiano 36;
 
 ; Antofagasta        ; 2-1; O'Higgins  
   Richard Olivares 86, José Pedrozo 90+2; Jean Beausejour 59
          
 ; Cobresal           ; 1-0; Ñublense    
-  Patricio Lira 49
+  Patricio Lira 49;
         
 *Dep. La Serena      bye
 
@@ -1134,18 +1119,16 @@ Round: 8
 Date: 8/9/2008
 
 ; Prov. Osorno       ; 0-1; Antofagasta         
-  Julio Rodríguez 77
+;  Julio Rodríguez 77
 
 ; Colo Colo          ; 1-1; Audax Italiano 
   Luis Pedro Figueroa 35; Rubén Darío Gigena 28
      
 ; Dep. La Serena     ; 2-2; Univ. de Chile 
-  Luis Peña 47, Cristián Verón 60; Sebastián Pardo 24,
-   Cristián Milla 75
+  Luis Peña 47, Cristián Verón 60; Sebastián Pardo 24, Cristián Milla 75
      
-; Univ. de Concepción; 2-2; Stgo. Morning       [in Talcahuano]  
-  Leonel Mena 5, Julio César Laffatigue 85; Esteban Paredes 1,
-   Alejandro Kruchowsk 32
+; Univ. de Concepción; 2-2; Stgo. Morning       ; Talcahuano
+  Leonel Mena 5, Julio César Laffatigue 85; Esteban Paredes 1, Alejandro Kruchowsk 32
 
 Date: 8/10/2008
 
@@ -1153,14 +1136,13 @@ Date: 8/10/2008
   Facundo Imboden 26; Hans Gómez 59
   
 ; Cobreloa           ; 3-0; Rangers   
-  Gustavo Savoia 4, Daniel González 25, Rafael Celedón 88
+  Gustavo Savoia 4, Daniel González 25, Rafael Celedón 88;
           
 ; Cobresal           ; 2-2; Huachipato     
-  Diego Silva 5, Diego Guidi 59; Víctor Saravia 42, 
-   Leonardo Monje 86
+  Diego Silva 5, Diego Guidi 59; Víctor Saravia 42, Leonardo Monje 86
      
 ; Ñublense           ; 2-1; Palestino     
-  Fernando Martel 42, 60; Alejandro Carrasco 29
+  Fernando Martel 42, Fernando Martel 60; Alejandro Carrasco 29
       
 ; Everton            ; 2-1; Dep. Melipilla    
   Adrían Rojas 69, Sebastián Tagliabué 83; Héctor Berríos 87
@@ -1170,13 +1152,12 @@ Date: 8/10/2008
 Round: 9
 Date: 8/14/2008
 
-; Palestino          ; 0-3; Univ. de Chile      [at Nacional Stadium]
-  Nelson Pinto 14, Marco Estrada 61, Cristián Milla 68
-
+; Palestino          ; 0-3; Univ. de Chile      ; Nacional Stadium (Chile)
+;  Nelson Pinto 14, Marco Estrada 61, Cristián Milla 68
 
 Date: 8/15/2008
 
-; Univ. de Concepción; 1-1; Audax Italiano      [in Talcahuano]
+; Univ. de Concepción; 1-1; Audax Italiano      ; Talcahuano
   Daniel Pereira 20; Rubén Gigena 12
 
 *Colo Colo           abd Unión Española      [abandoned at 0-0 in 18']
@@ -1184,23 +1165,21 @@ Date: 8/15/2008
 Date: 8/16/2008
 
 ; Prov. Osorno       ; 0-3; Cobresal          
-  Marco Olea 10, 45, Cristian Ríos 90
+;  Marco Olea 10, Marco Olea 45, Cristian Ríos 90
   
 Date: 8/17/2008
 
 ; Univ. Católica     ; 0-4; Huachipato         
-  Nelson Rebolledo 23, Gamadiel García 47, Leonardo Monje 55,
-   César Cortés 90
+;  Nelson Rebolledo 23, Gamadiel García 47, Leonardo Monje 55, César Cortés 90
  
 ; Dep. La Serena     ; 2-0; Antofagasta   
-  Pablo Bolados 53, Martín Gianfelice 83
+  Pablo Bolados 53, Martín Gianfelice 83;
       
 ; Stgo. Morning      ; 2-2; Ñublense    
-  Diego Rivarola 79, Roque Arancibia 90+2; Juan José Ribera 4,
-   Bruno Martelotto 57
+  Diego Rivarola 79, Roque Arancibia 90+2; Juan José Ribera 4, Bruno Martelotto 57
         
 ; Rangers            ; 2-0; Everton       
-  Enzo Gutiérrez 34, Gastón Cellerino 69
+  Enzo Gutiérrez 34, Gastón Cellerino 69;
       
 Date: 8/20/2008
 
@@ -1210,7 +1189,8 @@ Date: 8/20/2008
 
 Date: 8/27/2008
 
-; Colo Colo          ; 2-1; Unión Española      [remaining 72']
+; Colo Colo          ; 2-1; Unión Española      
+*[remaining 72']
   Rodrigo Millar 74, Macnelly Torres 82; Joel Pérez 55
     
 *Cobreloa            bye
@@ -1218,26 +1198,25 @@ Date: 8/27/2008
 Round: 10
 Date: 8/23/2008
 
-; Huachipato         ; 1-2; Palestino           [in Concepción]
+; Huachipato         ; 1-2; Palestino           ; Concepción
   Leonardo Monje 21; Héctor Pericás 36, Francisco Ibáñez 44
 
 ; Univ. de Chile     ; 1-1; Univ. de Concepción 
   Emilio Hernández 79; Fernando Giménez 55
 
-; Audax Italiano     ; 1-2; Prov. Osorno        [at Colo Colo]
+; Audax Italiano     ; 1-2; Prov. Osorno        ; Colo Colo
   Renzo Yáñez 75; Ricardo Parada 30, Mario Núñez 83
    
 Date: 8/24/2008
 
 ; O'Higgins          ; 0-3; Colo Colo    
-  Gonzalo Fierro 9, Cristóbal Jorquera 14, Macnelly Torres 86
+;  Gonzalo Fierro 9, Cristóbal Jorquera 14, Macnelly Torres 86
        
 ; Antofagasta        ; 2-3; Univ. Católica    
-  Eric Pino 66, David Portillo 69; Luis Núñez 37,
-   Julio Gutiérrez 73, Rodrigo Valenzuela 79
+  Eric Pino 66, David Portillo 69; Luis Núñez 37, Julio Gutiérrez 73, Rodrigo Valenzuela 79
   
 ; Everton            ; 2-0; Unión Española     
-  Sebastián Tagliabúe 72, Ezequiel Miralles 90+4
+  Sebastián Tagliabúe 72, Ezequiel Miralles 90+4;
  
 ; Ñublense           ; 1-1; Cobreloa         
   Juan Francisco Viveros 37; Gustavo Savoia 85
@@ -1254,17 +1233,15 @@ Round: 11
 Date: 8/30/2008
 
 ; Palestino          ; 3-4; Cobreloa       
-  Víctor Aquino 8, Francisco Ibáñez 47, 75; Daniel González 31,
-   Eduardo Vargas 32, 80, Charles Aránguiz 34
+  Víctor Aquino 8, Francisco Ibáñez 47, Francisco Ibanez 75; Daniel González 31, Eduardo Vargas 32, Eduardo Vargas 80, Charles Aránguiz 34
      
 ; Colo Colo          ; 2-1; Stgo. Morning      
-  Lucas Barrios 42, 63; Esteban Paredes 78
+  Lucas Barrios 42, Lucas Barrios 63; Esteban Paredes 78
  
 Date: 8/31/2008
 
 ; Unión Española     ; 2-3; Dep. La Serena     
-  Manuel Neira 20, 32; Roberto Castillo 3, Gustavo Canales 42,
-   Carlos Alzamora 87
+  Manuel Neira 20, Manuel Neira 32; Roberto Castillo 3, Gustavo Canales 42, Carlos Alzamora 87
  
 ; Prov. Osorno       ; 1-2; Univ. de Chile    
   Jaime Barrientos 62; Marcelo Salas (pk) 73, Marco Estrada 89
@@ -1276,15 +1253,13 @@ Date: 8/31/2008
   Jorge Lagunas 59; Patricio Lira 24, Marco Olea 34
       
 ; Rangers            ; 3-1; O'Higgins     
-  Gastón Cellerino 18, Andrés Oroz 44, Juan Manuel Cavallo 52; 
-   Jean Beausejour 90
+  Gastón Cellerino 18, Andrés Oroz 44, Juan Manuel Cavallo 52; Jean Beausejour 90
       
 ; Ñublense           ; 2-0; Antofagasta         
-  Jonathan Cisternas 58, 61
+  Jonathan Cisternas 58, Jonathan Cisternas 61;
 
 ; Univ. Católica     ; 2-4; Audax Italiano  
-  Milovan Mirosevic 13, Nicolás Gianni 89; Fabián Orellana 40,
-   Cristián Reynero 54, Renzo Yáñez 61, 90
+  Milovan Mirosevic 13, Nicolás Gianni 89; Fabián Orellana 40, Cristián Reynero 54, Renzo Yáñez 61, Renzo Yanez 90
     
 *Univ. de Concepción bye
 
@@ -1292,14 +1267,13 @@ Round: 12
 Date: 9/13/2008
 
 ; Cobresal           ; 3-1; Univ. Católica   
-  Cristian Ríos 42, Pedro Muñoz 48, Rodrigo Núñez 76; 
-   Julio Gutiérrez 79
+  Cristian Ríos 42, Pedro Muñoz 48, Rodrigo Núñez 76; Julio Gutiérrez 79
 
-; Audax Italiano     ; 3-0; Rangers             [at Colo Colo]
-  Braulio Leal (pk) 6, (pk) 63, Cristián Reynero 44
+; Audax Italiano     ; 3-0; Rangers             ; Colo Colo
+  Braulio Leal (pk) 6, Braulio Leal (pk) 63, Cristián Reynero 44;
 
 ; O'Higgins          ; 2-2; Ñublense      
-  Néstor Bareiro 37, 84; Patricio Galaz (pk) 29, Cristian Morán 63
+  Néstor Bareiro 37, Nestor Bareiro 84; Patricio Galaz (pk) 29, Cristian Morán 63
 
 ; Dep. La Serena     ; 2-1; Univ. de Concepción
   Gustavo Canales 22, Carlos Alzamora 75; Juan Cabral 78
@@ -1307,20 +1281,19 @@ Date: 9/13/2008
 Date: 9/14/2008
 
 ; Unión Española     ; 1-3; Palestino
-  Miguel Orellana 86; Héctor Pericás 25, (pk) 60, Carlos Pérez 74
+  Miguel Orellana 86; Héctor Pericás 25, Hector Pericas (pk) 60, Carlos Pérez 74
 
 ; Everton            ; 0-1; Stgo. Morning  
-  Esteban Paredes 23
+;  Esteban Paredes 23
    
 ; Antofagasta        ; 1-0; Colo Colo
-  José Pedrozo 76
+  José Pedrozo 76;
 
 ; Cobreloa           ; 2-0; Dep. Melipilla   
-  Gustavo Savoia 20, Eduardo Vargas 78
+  Gustavo Savoia 20, Eduardo Vargas 78;
 
 ; Univ. de Chile     ; 1-3; Huachipato
-  Marcelo Salas 79; Víctor Sarabia 16, Nelson Rebolledo 42,
-   Leonardo Monje 64
+  Marcelo Salas 79; Víctor Sarabia 16, Nelson Rebolledo 42, Leonardo Monje 64
 
 *Prov. Osorno        bye
 
@@ -1328,13 +1301,13 @@ Round: 13
 Date: 9/20/2008
 
 ; Univ. de Concepción; 2-0; Cobreloa
-  Julio César Laffatigue 44, Ricardo Viveros 84
+  Julio César Laffatigue 44, Ricardo Viveros 84;
 
 ; Prov. Osorno       ; 1-1; O'Higgins
   José Pedro Fuenzalida 9; Mario Núñez (pk) 84
 
 ; Palestino          ; 1-0; Audax Italiano
-  Rodolfo Madrid 73
+  Rodolfo Madrid 73;
 
 ; Rangers            ; 2-1; Cobresal
   Juan Manuel Cavallo 5, Gastón Cellerino 30; Marco Olea 51
@@ -1342,22 +1315,19 @@ Date: 9/20/2008
 ; Antofagasta        ; 1-1; Unión Española
   José Pedroso 51; Gerardo Cortés 41
 
-; Stgo. Morning      ; 0-3; Univ. de Chile      [at Colo Colo]
-  Nelson Pinto 29, José Contreras 41, Cristián Milla 90+2
+; Stgo. Morning      ; 0-3; Univ. de Chile      ; Colo Colo
+;  Nelson Pinto 29, José Contreras 41, Cristián Milla 90+2
 
 Date: 9/21/2008
 
 ; Dep. Melipilla     ; 3-5; Univ. Católica
-  Iván Alvarez 48, 67, César Díaz (pk) 61; Julio Gutiérrez (pk) 25, 
-   Milovan Mirosevic 52,  Gary Medel 66, Rodrigo Toloza 82, 
-   Iván Vásquez 88
+  Iván Alvarez 48, Ivan Alvarez 67, César Díaz (pk) 61; Julio Gutiérrez (pk) 25, Milovan Mirosevic 52,  Gary Medel 66, Rodrigo Toloza 82, Iván Vásquez 88
 
 ; Ñublense           ; 1-0; Everton
-  Patricio Galaz 39
+  Patricio Galaz 39;
 
-; Huachipato         ; 4-1; Dep. La Serena      [in Concepción]
-  César Cortés 20, Víctor Saravia 26, Miguel Aceval 62,
-   Leonardo Monje 77; Carlos Labrín (og) 60
+; Huachipato         ; 4-1; Dep. La Serena      ; Concepción
+  César Cortés 20, Víctor Saravia 26, Miguel Aceval 62, Leonardo Monje 77; Carlos Labrín (og) 60
 
 *Colo Colo           bye
  
@@ -1365,39 +1335,33 @@ Round: 14
 Date: 9/27/2008
 
 ; Unión Española     ; 3-1; Univ. de Concepción
-  Manuel Neira 18, Jaime Rubilar 34, Rodrigo Pérez 76;
-   Roberto Ordenes (pk) 40
+  Manuel Neira 18, Jaime Rubilar 34, Rodrigo Pérez 76; Roberto Ordenes (pk) 40
 
-; Audax Italiano     ; 1-0; O'Higgins           [at Colo Colo]
-  Renzo Yáñez 16
+; Audax Italiano     ; 1-0; O'Higgins          ; Colo Colo
+  Renzo Yáñez 16;
 
 ; Dep. La Serena     ; 3-3; Ñublense  
-  Gustavo Canales 5, Luis Peña 12, Martín Gianfelice 48;
-   Fernando Martel 40, 52, Ever Cantero 82
+  Gustavo Canales 5, Luis Peña 12, Martín Gianfelice 48; Fernando Martel 40, Fernando Martel 52, Ever Cantero 82
 
 ; Dep. Melipilla     ; 0-1; Rangers
-  Gastón Cellerino 7
-
+;  Gastón Cellerino 7
 
 Date: 9/28/2008
 
 ; Univ. Católica     ; 1-2; Palestino
-  Julio Gutiérrez 62; Francisco Ibáñez 23, 51
+  Julio Gutiérrez 62; Francisco Ibáñez 23, Francisco Ibanez 51
 
 ; Everton            ; 3-1; Colo Colo
-  Ezequiel Miralles 76, 87, Fernando Saavedra 90+1;
-   Luis Pedro Figueroa 54
+  Ezequiel Miralles 76, Ezequiel Miralles 87, Fernando Saavedra 90+1; Luis Pedro Figueroa 54
 
 ; Cobresal           ; 4-1; Stgo. Morning 
-  Pedro Muñoz 13, Rodrigo Núñez 44, Marco Olea 55, 
-   Víctor Oyarzún 81; Diego Rivarola (pk) 40
+  Pedro Muñoz 13, Rodrigo Núñez 44, Marco Olea 55, Víctor Oyarzún 81; Diego Rivarola (pk) 40
       
 ; Cobreloa           ; 4-0; Prov. Osorno  
-  Daniel González (pk) 49, 75, Claudio Delgado 66,
-   Charles Aránguiz 90+1
+  Daniel González (pk) 49, Daniel Gonzalez 75, Claudio Delgado 66, Charles Aránguiz 90+1;
 
 ; Univ. de Chile     ; 3-0; Antofagasta    
-  Raúl Estevez 19, 42, Cristián Milla 57
+  Raúl Estevez 19, Raul Estevez 42, Cristián Milla 57;
 
 *Huachipato          bye
 
@@ -1405,38 +1369,33 @@ Round: 15
 Date: 10/4/2008
 
 ; Palestino          ; 3-1; Cobresal
-  Cristián Vilches 28, Víctor Aquino 78, Francisco Ibáñez 86;
-   Rodrigo Núñez 57
+  Cristián Vilches 28, Víctor Aquino 78, Francisco Ibáñez 86; Rodrigo Núñez 57
 
-; Huachipato         ; 2-1; Dep. Melipilla      [in Concepción]
-  Leonardo Monje 43, 63; César Díaz 50
+; Huachipato         ; 2-1; Dep. Melipilla    ; Concepción
+  Leonardo Monje 43, Leonardo Monje 63; César Díaz 50
 
 ; O'Higgins          ; 4-3; Everton
-  Rodrigo Ramírez 5, Ailton da Silva (pk) 63, 70, Néstor Bareiro 74;
-   Jaime Riveros 8, 10, Ezequiel Miralles 21
-
+  Rodrigo Ramírez 5, Ailton da Silva (pk) 63, Ailton da Silva 70, Néstor Bareiro 74; Jaime Riveros 8, Jaime Riveros 10, Ezequiel Miralles 21
 
 Date: 10/5/2008
 
 ; Univ. de Concepción; 3-5; Univ. Católica
-  Fernando Meneses 10, Gabriel Vargas 14, (pk) 83; Hans Martínez 8,
-   Gary Medel 41, Sebastián Barrientos 47, 89, Milovan Mirosevic 74
+  Fernando Meneses 10, Gabriel Vargas 14, Gabriel Vargas (pk) 83; Hans Martínez 8, Gary Medel 41, Sebastián Barrientos 47, Sebastian Barrientos 89, Milovan Mirosevic 74
 
 ; Prov. Osorno       ; 1-2; Dep. La Serena
   Mario Núñez (pk) 86; Gustavo Canales 44, Martin Gianfelicce 67
 
 ; Stgo. Morning      ; 3-1; Cobreloa
-  Luis Fuentes (og) 13, Esteban Paredes 36, Francisco Huaquipán 77;
-   Claudio Delgado 16
+  Luis Fuentes (og) 13, Esteban Paredes 36, Francisco Huaquipán 77; Claudio Delgado 16
 
 ; Colo Colo          ; 2-0; Univ. de Chile
-  Lucas Barrios 35, 74
+  Lucas Barrios 35, Lucas Barrios 74;
 
 ; Antofagasta        ; 3-0; Audax Italiano
-  Eduardo Martínez 14, Osmán Huerta 74, Gerson Acevedo 85
+  Eduardo Martínez 14, Osmán Huerta 74, Gerson Acevedo 85;
 
 ; Ñublense           ; 0-3; Unión Española
-  Gerardo Cortés 32, 74, Clarence Acuña 84
+;  Gerardo Cortés 32, Gerardo Cortes 74, Clarence Acuña 84
 
 *Rangers             bye
 
@@ -1444,35 +1403,32 @@ Round: 16
 Date: 10/18/2008
 
 ; Univ. Católica     ; 2-0; Rangers
-  Julio Gutiérrrez (pk) 24, Rodrigo Toloza 90+1
+  Julio Gutiérrrez (pk) 24, Rodrigo Toloza 90+1;
 
 ; Dep. La Serena     ; 1-3; O'Higgins
-  Pablo Bolados (pk) 85; Jean Beausejour 41, Néstor Bareiro 47,
-   Ailton (pk) 75
+  Pablo Bolados (pk) 85; Jean Beausejour 41, Néstor Bareiro 47, Ailton (pk) 75
 
 ; Univ. de Concepción; 1-1; Ñublense
   Gabriel Vargas 76; Ever Cantero 85
 
 ; Dep. Melipilla     ; 0-2; Palestino
-  Héctor Pericás 33, Jean Paul Pineda 79
+;  Héctor Pericás 33, Jean Paul Pineda 79
 
 Date: 10/19/2008
 
 ; Unión Española     ; 3-2; Huachipato
-  Gerardo Cortés 21, Aníbal Domeneghini 69, José Luis Sierra (pk) 80;
-   Dagoberto Currimilla 40, Gamadiel García 61
+  Gerardo Cortés 21, Aníbal Domeneghini 69, José Luis Sierra (pk) 80; Dagoberto Currimilla 40, Gamadiel García 61
 
 ; Prov. Osorno       ; 0-1; Stgo. Morning
-  Jaime Grondona 25
+;  Jaime Grondona 25
 
 ; Cobresal           ; 0-0; Antofagasta
 
 ; Cobreloa           ; 4-3; Colo Colo
-  Gustavo Savoia 17, 42, Daniel González (pk) 32, Rodrigo Mannara 38;
-   Macnelly Torres 45, Lucas Barrios (pk) 60, 65
+  Gustavo Savoia 17, Gustavo Savoia 42, Daniel González (pk) 32, Rodrigo Mannara 38; Macnelly Torres 45, Lucas Barrios (pk) 60, Lucas Barrios 65
 
-; Audax Italiano     ; 0-1; Univ. de Chile      [at Nacional Stadium]
-  Walter Montillo 49
+; Audax Italiano     ; 0-1; Univ. de Chile      ; Nacional Stadium (Chile)
+;  Walter Montillo 49
 
 *Everton             bye
  
@@ -1480,35 +1436,30 @@ Round: 17
 Date: 10/24/2008
 
 ; Colo Colo          ; 3-0; Dep. La Serena 
-  Lucas Barrios 8, 16, 88
+  Lucas Barrios 8, Lucas Barrios 16, Lucas Barrios 88;
 
 ; O'Higgins          ; 5-3; Unión Española  
-  Jean Beausejour 7, 35, Ailton 47, Néstor Bareiro (pk) 50, 60;
-   Clarence Acuña 55, Aníbal Domeneghini 84, Mario Aravena 90+1
+  Jean Beausejour 7, Jean Beausejour 35, Ailton 47, Néstor Bareiro (pk) 50, Nestor Bareiro 60; Clarence Acuña 55, Aníbal Domeneghini 84, Mario Aravena 90+1
   
 Date: 10/25/2008
 
 ; Palestino          ; 1-0; Prov. Osorno    
-  Francisco Ibáñez 33
+  Francisco Ibáñez 33;
     
 ; Ñublense           ; 0-1; Huachipato
-  Gamadiel García 69
+;  Gamadiel García 69
 
 ; Rangers            ; 2-3; Univ. de Concepción 
-  Gastón Cellerino (pk) 19, (pk) 77; Ricardo Viveros 32,
-   Gabriel Vargas (pk) 89, Roberto Ordenes 90
+  Gastón Cellerino (pk) 19, Gaston Cellerino (pk) 77; Ricardo Viveros 32, Gabriel Vargas (pk) 89, Roberto Ordenes 90
 
 ; Cobreloa           ; 2-0; Everton            
-  Rodrigo Mannara 25, 47
+  Rodrigo Mannara 25, Rodrigo Mannara 47;
  
 ; Stgo. Morning      ; 3-5; Audax Italiano 
-  Jaime Grondona 22, 86, Esteban Paredes (pk) 83;
-   Braulio Leal (pk) 39, (pk) 69, Fabián Orellana 57, Mauricio Salazar 74,
-   Renzo Yáñez 81
+  Jaime Grondona 22, Jaime Grondona 86, Esteban Paredes (pk) 83; Braulio Leal (pk) 39, Braulio Leal (pk) 69, Fabián Orellana 57, Mauricio Salazar 74, Renzo Yáñez 81
      
 ; Antofagasta        ; 4-2; Dep. Melipilla  
-  Eduardo Martínez 14, Cristián Rojas 35, Richard Olivares 61,
-   Kevin Harbottle 69; Luis Jiménez 24, Norberto Arrieta 57
+  Eduardo Martínez 14, Cristián Rojas 35, Richard Olivares 61, Kevin Harbottle 69; Luis Jiménez 24, Norberto Arrieta 57
     
 Date: 10/28/2008
 
@@ -1521,41 +1472,35 @@ Round: 18
 Date: 10/31/2008
 
 ; Dep. Melipilla     ; 1-5; Stgo. Morning
-  Jorge Lagunas 71; Esteban Paredes 2, Diego Rivarola 8, 18, 
-   Jaime Grondona 27, Felipe Díaz 42
+  Jorge Lagunas 71; Esteban Paredes 2, Diego Rivarola 8, Diego Rivarola 18, Jaime Grondona 27, Felipe Díaz 42
 
 Date: 11/1/2008
 
 ; Everton            ; 3-1; Prov. Osorno    
-  Jaime Riveros 22, Cristián Canío (pk) 57, Santiago Gentiletti (og) 77;
-   Samuel Teuber 48
+  Jaime Riveros 22, Cristián Canío (pk) 57, Santiago Gentiletti (og) 77; Samuel Teuber 48
     
 ; Dep. La Serena     ; 3-0; Palestino
-  Carlos Alzamora 1, Gustavo Canales 30, 84
+  Carlos Alzamora 1, Gustavo Canales 30, Gustavo Canales 84;
 
-; Audax Italiano     ; 1-1; Ñublense            [at Colo Colo]
+; Audax Italiano     ; 1-1; Ñublense           ; Colo Colo
   Fabián Orellana 19; Patricio Galaz 85
 
 ; Univ. Católica     ; 4-3; Cobreloa 
-  Francisco Pizarro 11, Luis Núñez (pk) 33, Milovan Mirosevic 42, 
-   Rodrigo Toloza 67; Gustavo Savoia 8, Daniel González 14, 46
+  Francisco Pizarro 11, Luis Núñez (pk) 33, Milovan Mirosevic 42, Rodrigo Toloza 67; Gustavo Savoia 8, Daniel González 14, Daniel Gonzalez 46
 
 Date: 11/2/2008
 
 ; Cobresal           ; 1-3; Univ. de Concepción 
-  Cristóbal Aliste 87; Gabriel Vargas (pk) 12,
-   Julio César Laffatigue 86, Fernando Giménez 90+3
+  Cristóbal Aliste 87; Gabriel Vargas (pk) 12, Julio César Laffatigue 86, Fernando Giménez 90+3
 
 ; Unión Española     ; 2-1; Rangers
   Gerardo Cortés 26, José Luis Sierra 90; Rodrigo Barra 29
 
-; Huachipato         ; 0-2; Colo Colo           [in Concepción]
-  Daúd Gazale 39, 87
+; Huachipato         ; 0-2; Colo Colo           ; Concepción
+;  Daúd Gazale 39, Daud Gazale 87
 
 ; Univ. de Chile     ; 5-3; O'Higgins   
-  Federico Martorell (og) 18, Cristóbal González (og) 33, 
-   Emilio Hernández 67, 76, Cristián Milla (pk) 90+3; Néstor Bareiro 39,
-   Ailton 45+1, Jean Beausejour 79
+  Federico Martorell (og) 18, Cristóbal González (og) 33, Emilio Hernández 67, Emilio Hernandez 76, Cristián Milla (pk) 90+3; Néstor Bareiro 39, Ailton 45+1, Jean Beausejour 79
         
 *Antofagasta         bye
 
@@ -1563,7 +1508,7 @@ Round: 19
 Date: 11/8/2008
 
 ; Univ. de Concepción; 0-1; Dep. Melipilla   
-  César Díaz (pk) 49
+;  César Díaz (pk) 49
    
 ; Colo Colo          ; 1-1; Cobresal 
   Rodrigo Millar 21; Marco Olea 72
@@ -1574,24 +1519,22 @@ Date: 11/9/2008
   Jorge Aguilar 75; José Luis Sierra (pk) 6, Mario Aravena 77
    
 ; Cobreloa           ; 2-1; Audax Italiano 
-  Rodrigo Mannara 78, 85; Fabián Orellana 10
+  Rodrigo Mannara 78, Rodrigo Mannara 85; Fabián Orellana 10
      
 ; Antofagasta        ; 0-1; Everton       
-  Jaime Riveros 57
+;  Jaime Riveros 57
       
 ; Stgo. Morning      ; 3-2; Dep. La Serena  
-  Néstor Contreras 42, Felipe Díaz 87, Jorge Sotomayor (og) 90+3;
-   Roberto Castillo 90, Gustavo Canales 90+2
+  Néstor Contreras 42, Felipe Díaz 87, Jorge Sotomayor (og) 90+3; Roberto Castillo 90, Gustavo Canales 90+2
     
 ; Rangers            ; 1-0; Univ. de Chile    
-  Gastón Cellerino 23
+  Gastón Cellerino 23;
   
 ; O'Higgins          ; 3-2; Huachipato       
-  Néstor Bareiro 65, Hans Gómez 69, José Pedro Fuenzalida 81;
-   Leonardo Monje 28, Nelson Rebolledo 57
+  Néstor Bareiro 65, Hans Gómez 69, José Pedro Fuenzalida 81; Leonardo Monje 28, Nelson Rebolledo 57
    
-; Ñublense           ; 0-2; Univ. Católica      [in Concepción]
-  Julio Gutiérrez (pk) 20, Albert Acevedo 48
+; Ñublense           ; 0-2; Univ. Católica     ; Concepción
+;  Julio Gutiérrez (pk) 20, Albert Acevedo 48
      
 *Palestino           bye
 
@@ -1625,15 +1568,14 @@ Date: 11/9/2008
 * 5.Cobresal                   18   5  6  7  24-26  21
 
 *NB: Universidad de Chile qualified for Copa Libertadores 2009 as "Chile 3", as best team of regular stage of Clausura
- 
-*Playoffs
- 
-*Repechaje 
-*Date: 11/12 in Viña del Mar/2008
 
-; Everton            ; 0-3; Cobreloa
-  Gustavo Savoia 10, Oscar Cornejo 45, Rodrigo Mannara 71
 
+Season: 2008 Clausura Liguilla
+ 
+Round: Repechaje 
+
+11/12/2008; Everton            ; 0-3; Cobreloa; Vina del Mar
+;  Gustavo Savoia 10, Oscar Cornejo 45, Rodrigo Mannara 71
 
 Round: Quarterfinals
 
@@ -1641,28 +1583,25 @@ Round: Quarterfinals
 
 Date: 11/15/2008
 
-; Huachipato         ; 1-1; Colo Colo           [in Concepción]
+; Huachipato         ; 1-1; Colo Colo        ; Concepción
   Gamadiel García (pk) 45; Lucas Barrios 36
      
 ; O'Higgins          ; 2-2; Palestino
-  Néstor Bareiro 8, José Pedro Fuenzalida 22; Víctor Aquino 13,
-   Héctor Pericás (pk) 27
+  Néstor Bareiro 8, José Pedro Fuenzalida 22; Víctor Aquino 13, Héctor Pericás (pk) 27
 
 ; Cobreloa           ; 3-0; Univ. de Chile  
-  Rodrigo Mannara 30, Oscar Cornejo 53, Daniel González 76
+  Rodrigo Mannara 30, Oscar Cornejo 53, Daniel González 76;
     
 Date: 11/16/2008
 
 ; Univ. Católica     ; 3-3; Rangers      
-  Julio Gutiérrez 28, 58, Gary Medel 60; Rodrigo Barra 4,
-   Andrés Oroz 46, Gastón Cellerino 87
+  Julio Gutiérrez 28, Julio Gutierrez 58, Gary Medel 60; Rodrigo Barra 4, Andrés Oroz 46, Gastón Cellerino 87
        
-Second Legs
+*Second Legs
 Date: 11/22/2008
 
 ; Colo Colo          ; 4-2; Huachipato  
-  Daúd Gazale 13, Lucas Barrios 54, 68, Luis Pedro Figueroa 88;
-   Nelson Rebolledo 40, César Cortés 82
+  Daúd Gazale 13, Lucas Barrios 54, Lucas Barrios 68, Luis Pedro Figueroa 88; Nelson Rebolledo 40, César Cortés 82
         
 ; Palestino          ; 2-1; O'Higgins           
   Cristóbal González (og) 43, Víctor Aquino 64; Ailton (pk) 90+3
@@ -1670,8 +1609,7 @@ Date: 11/22/2008
 Date: 11/23/2008
 
 ; Univ. de Chile     ; 3-2; Cobreloa   
-  Walter Montillo 15, Marcelo Salas 34, 55; Daniel González 16,
-   Rodrigo Mannara 46
+  Walter Montillo 15, Marcelo Salas 34, Marcelo Salas 55; Daniel González 16, Rodrigo Mannara 46
          
 ; Rangers            ; 1-1; Univ. Católica      
   Alvaro Saravia 57; Marco González 88
@@ -1683,70 +1621,48 @@ Round: Semifinals
 Date: 11/29/2008
 
 ; Cobreloa           ; 3-3; Colo Colo
-  Fabián Benítez 20, Gustavo Savoia 35, 75; Rodolfo Moya 8,
-   Macnelly Torres 43, Daúd Gazale 69
+  Fabián Benítez 20, Gustavo Savoia 35, Gustavo Savoia 75; Rodolfo Moya 8, Macnelly Torres 43, Daúd Gazale 69
 
 Date: 11/30/2008
 
 ; Rangers            ; 2-2; Palestino
-  Marcelo Lucero 40, Juan Manuel Cavallo 45+1; Francisco Ibáñez 57,
-   Jean Paul Pineda 90+3
+  Marcelo Lucero 40, Juan Manuel Cavallo 45+1; Francisco Ibáñez 57, Jean Paul Pineda 90+3
 
- 
 *Second Legs 
 Date: 12/6/2008
 
 ; Colo Colo          ; 2-2; Cobreloa
-  Lucas Barrios 44, 46; Rodrigo Mannara 15, Daniel González (pk) 71
+  Lucas Barrios 44, Lucas Barrios 46; Rodrigo Mannara 15, Daniel González (pk) 71
 
-; Palestino          ; 0-0; Rangers             [at Santiago Morning]
+; Palestino          ; 0-0; Rangers             ; Santiago Morning
  
 Round: Final
 
 *First Leg 
-*Date: 12/14, Nacional, Santiago, att: 30.000, ref: Rubén Selman/2008
 
-; Palestino          ; 1-1; Colo Colo
+12/14/2008; Palestino          ; 1-1; Colo Colo; Estadio Nacional (Chile); Ruben Selman; 30000
   Francisco Ibáñez 79; Lucas Barrios (pk) 28
-
-Palestino: Felipe Núñez; Nelson Saavedra, José Luis Zelaye, Cristian Vilches,
-  Roberto Bishara; Luis Pavez, Rodolfo Madrid, Boris Sagredo (Luis Rogel 27),
-  Alejandro Carrasco (Diego Díaz 62); Víctor Aquino (Roberto Avalos 64),
-  Francisco Ibáñez. Coach: Luis Musrri.  
-Colo Colo: Cristian Muñoz; Luis Pedro Figueroa, Luis Mena, Miguel Riffo,
-  Domingo Salcedo; Rodrigo Meléndez (Daúd Gazale 62), Arturo Sanhueza,
-  Rodrigo Millar, Macnelly Torres (Cristóbal Jorquera 77); Rodolfo Moya,
-  Lucas Barrios. Coach: Marcelo Barticciotto.
-Yellow Cards: Sagredo, Bishara (P); Gazale (CC).
-Red Card: Núñez (27), Bishara (49)
+Palestino: Felipe Núñez; Nelson Saavedra, José Luis Zelaye, Cristian Vilches, Roberto Bishara; Luis Pavez, Rodolfo Madrid, Boris Sagredo (Luis Rogel 27), Alejandro Carrasco (Diego Díaz 62); Víctor Aquino (Roberto Avalos 64), Francisco Ibáñez
+Colo Colo: Cristian Muñoz; Luis Pedro Figueroa, Luis Mena, Miguel Riffo, Domingo Salcedo; Rodrigo Meléndez (Daúd Gazale 62), Arturo Sanhueza, Rodrigo Millar, Macnelly Torres (Cristóbal Jorquera 77); Rodolfo Moya, Lucas Barrios
+*Yellow Cards: Sagredo, Bishara (P); Gazale (CC).
+*Red Card: Núñez (27), Bishara (49)
 
 *Second Leg 
-Date: 12/20, Monumental, Santiago, att: 45.000, ref: Carlos Chandía/2008
-
-; Colo Colo          ; 3-1; Palestino
- Lucas Barrios 28, Daud Gazale 51, Rodrigo Millar 62;
-   Luis Pavez 38
-
-Colo Colo: Cristian Muñoz; Luis Pedro Figueroa, Luis Mena, Miguel Riffo,
-  Domingo Salcedo; Rodrigo Millar, Rodrigo Meléndez, Arturo Sanhueza;
-  Macnelly Torres (Moises Villarroel 86); Lucas Barrios (Roberto Cereceda 90+2),
-  Daúd Gazale (Rodolfo Moya 72). Coach: Marcelo Barticciotto.
-Palestino: Luis Rogel; Nelson Saavedra, José Luis Zelaye, Cristian Vilches,
-  Rodolfo Madrid; Roberto Avalos, Luis Pavez (Héctor Pericás 60 (Esteban Sáez 68)),
-  Diego Díaz; Alejandro Carrasco; Víctor Aquino, Francisco Ibáñez
-  (Jean Paul Pineda 68). Coach: Luis Musrri.  
-Yellow Cards: Melendez, Millar, Sanhueza (C); Ibáñez, Avalos, Madrid, Pineda (P)  
-Red Card: Pineda (75)
+12/20/2008; Colo Colo          ; 3-1; Palestino; Estadio Monumental (Santiago); Carlos Chandia; 45000
+ Lucas Barrios 28, Daud Gazale 51, Rodrigo Millar 62; Luis Pavez 38
+Colo Colo: Cristian Muñoz; Luis Pedro Figueroa, Luis Mena, Miguel Riffo, Domingo Salcedo; Rodrigo Millar, Rodrigo Meléndez, Arturo Sanhueza; Macnelly Torres (Moises Villarroel 86); Lucas Barrios (Roberto Cereceda 90+2), Daúd Gazale (Rodolfo Moya 72)
+Palestino: Luis Rogel; Nelson Saavedra, José Luis Zelaye, Cristian Vilches, Rodolfo Madrid; Roberto Avalos, Luis Pavez (Héctor Pericás 60, Esteban Sáez 68), Diego Díaz; Alejandro Carrasco; Víctor Aquino, Francisco Ibáñez (Jean Paul Pineda 68)
+*Yellow Cards: Melendez, Millar, Sanhueza (C); Ibáñez, Avalos, Madrid, Pineda (P)  
+*Red Card: Pineda (75)
  
 
- 
-Round: Promotion/Relegation Playoff
+Season: 2008 Promotion/Relegation Playoff
  
 *First Legs 
 Date: 11/13/2008
 
 ; Coquimbo Unido     ; 0-2; Univ. de Concepción
-  Julio César Laffatigue 22, Gabriel Vargas 32
+;  Julio César Laffatigue 22, Gabriel Vargas 32
 
 ; Puerto Montt       ; 1-2; Unión Española
   Aníbal Carvallo (pk) 35; Manuel Neira 48, Gerardo Cortés 80
@@ -1755,12 +1671,10 @@ Date: 11/13/2008
 Date: 11/16/2008
 
 ; Univ. de Concepción; 3-1; Coquimbo Unido
-  Julio César Laffatigue 21, Fernando Meneses 43, Gabriel Vargas 47;
-   Alfredo Calderón 86
+  Julio César Laffatigue 21, Fernando Meneses 43, Gabriel Vargas 47; Alfredo Calderón 86
 
 ; Unión Española     ; 3-3; Puerto Montt
-  Gerardo Cortés 58, 80, Manuel Neira 65; Claudio Latorre 3,
-   Pablo Pereira 12, 49
+  Gerardo Cortés 58, Gerardo Cortes 80, Manuel Neira 65; Claudio Latorre 3, Pablo Pereira 12, Pablo Pereira 49
 
 *Univ. de Concepción and Unión Española remain in First Level.
 

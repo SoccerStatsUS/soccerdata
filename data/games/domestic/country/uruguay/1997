@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesu/uru97.html
-Season: 1997
-*Torneo Apertura
+Competition: Uruguayan Primera Division
+Season: 1997 Apertura
 
 * 1.Nacional          11  8  1  2  26-11  25 
 * 2.River Plate       11  6  4  1  24-14  22
@@ -151,6 +151,7 @@ Date: 5/24/1997
 *12.Rácing            11  1  4  6   8-18   7
 *Nacional win Apertura 1997.
 
+Season: 1997 Clausura
 
 *Torneo Clausura
 
@@ -177,7 +178,7 @@ Date: 7/26/1997
 ; Rentistas  ; 2-1; Wanderers
 ; Cerro      ; 5-1; Racing
 *Penarol     awd Rampla      
-; *[abandoned at; 0-0; in 48'; awarded 2-0 to Rampla]
+*[abandoned at 0-0 in 48'; awarded 2-0 to Rampla]
 
 Round: Round 2 
 Date: 8/2/1997
@@ -269,7 +270,7 @@ Date: 10/18/1997
 
 Round: Round 10 
 Date: 10/25/1997
-; *[Oct; 25-27]
+*[Oct; 25-27]
 
 River; Plate 1-0 Huracan      
 *[moved forward]

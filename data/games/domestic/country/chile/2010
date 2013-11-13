@@ -129,7 +129,7 @@ Date: 2/3/2010
 Date: 2/4/2010
 
 ; Colo Colo           ; 3-0; Stgo. Wanderers
-  Ezequiel Miralles 45+1, Ezequiel Miralles 82, Ezequiel Miralles 87
+  Ezequiel Miralles 45+1, Ezequiel Miralles 82, Ezequiel Miralles 87;
 
 Round: 4
 Date: 2/5/2010
@@ -472,7 +472,7 @@ Date: 4/25/2010
   Ezequiel Miralles 12;
 
 ; Cobreloa            ; 4-0; Dep. La Serena
-  Aníbal Domeneghini 4, Anibal Domeneghini 89, Francisco Castro 13, Juan José Ribera (og) 25
+  Aníbal Domeneghini 4, Anibal Domeneghini 89, Francisco Castro 13, Juan José Ribera (og) 25;
 
 ; Univ. Católica      ; 2-1; U. San Felipe
   Milovan Mirosevic 20, Francisco Pizarro 82; Jonathan Domínguez 19
@@ -603,7 +603,7 @@ Date: 7/25/2010
   Pablo Calandria 70, Pablo Calandria 74; Carlos Muñoz 60
 
 ; Cobreloa            ; 5-0; San Luis
-  Ever Cantero 3, Ever Cantero (pk) 60, Marco Lazaga 33, José Luis Jerez 36, Francisco Silva 48
+  Ever Cantero 3, Ever Cantero (pk) 60, Marco Lazaga 33, José Luis Jerez 36, Francisco Silva 48;
 
 ; Cobresal            ; 1-0; Unión Española 
   Alvaro Pintos 4;
@@ -743,7 +743,7 @@ Date: 8/22/2010
   Carlos Herrera 39, Nicolás Canales (pk) 66;
  
 ; Dep. La Serena      ; 4-0; Stgo. Wanderers      
-  Jaime Grondona 23, Sebastián Jaime 35, Mauricio Salazar 60, Alexis Blanco 90+1
+  Jaime Grondona 23, Sebastián Jaime 35, Mauricio Salazar 60, Alexis Blanco 90+1;
  
 ; Cobreloa            ; 1-1; Audax Italiano       
   Ever Cantero 45+2; Marco Medel 34
@@ -1231,7 +1231,7 @@ Date: 12/9/2010
 
 ; Unión Española      ; 0-0; Universidad de Chile 
  
-Second Legs 
+*Second Legs 
 Date: 12/12/2010
 
 ; Audax Italiano      ; 2-0; Huachipato
@@ -1248,7 +1248,7 @@ Date: 12/15/2010
 ; Unión Española      ; 2-1; Audax Italiano
 Braulio Leal 17, Gustavo Canales (pk) 90+4; Sebastian Pinto 73
  
-Second Leg 
+*Second Leg 
 Date: 12/19/2010
 
 ; Audax Italiano      ; 1-1; Unión Española

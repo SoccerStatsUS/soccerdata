@@ -99,7 +99,7 @@ Round: 3
 Date: 2/15/2002
 
 ; Paysandú BV    ; 3-0; Montevideo Wanderers
-  Juan Carlos Reyes 18, Leonardo Rodríguez (pk) 71, Leonardo Rodriguez 88
+  Juan Carlos Reyes 18, Leonardo Rodríguez (pk) 71, Leonardo Rodriguez 88;
 
 Date: 2/16/2002
 
@@ -506,7 +506,8 @@ Round: 15
 Date: 5/3/2002
 
 ; Defensor Sp.   ; 1-1; Bella Vista  
-  Eliomar Marcón 27, Maximiliano Castro 50
+  Eliomar Marcón 27; Maximiliano Castro 50
+* check scorer teams.
 
 Date: 5/4/2002
 
@@ -726,7 +727,7 @@ Date: 7/27/2002
 Date: 7/28/2002
 
 ; Nacional       ; 2-0; Plaza Colonia
-  Richard Morales (pk) 42, Richard Morales 90
+  Richard Morales (pk) 42, Richard Morales 90;
 
 ; Danubio        ; 4-1; Villa Española
   Diego Perrone 1, Juan Olivera 42, Juan Olivera 46, Juan Olivera 60; Daniel Hernández 70
@@ -781,12 +782,12 @@ Round: 6
 Date: 8/17/2002
 
 ; Dep. Maldonado ; 0-7; Fénix
-  Martín Ligüera 8, Martin Liguera 22, Javier Cámpora 11, Javier Campora 83, Germán Hornos 18, German Hornos 35, German Hornos 85
+;  Martín Ligüera 8, Martin Liguera 22, Javier Cámpora 11, Javier Campora 83, Germán Hornos 18, German Hornos 35, German Hornos 85
 
 Date: 8/18/2002
 
 ; Peñarol        ; 4-0; Villa Española
-  Daniel Jiménez 2, Daniel Jimenez 56, Fabián Canobbio 57, Pablo Bengoechea (pk) 82
+  Daniel Jiménez 2, Daniel Jimenez 56, Fabián Canobbio 57, Pablo Bengoechea (pk) 82;
 
 ; Danubio        ; 1-0; Central Español
   Omar Pouso 55;
@@ -1102,48 +1103,29 @@ Date: 12/1/2002
 *    a match against Danubio during the Clausura 2001
 
 
-Championship Playoff
+Season: 2002 Championship Playoff
 
-First Leg 
-Date: 12/4, Jardines del Hipódromo; att: 10,000/2002
+*First Leg 
+12/4/2002; Danubio        ; 1-2; Nacional  ; Jardines del Hipodromo; Martín Vázquez, Fernando Cresci, Álvaro Sacarello; 10000
+Claudio Biaggio 48; Marco Vanzini 51, Horacio Peralta 90
+*Danubio: Ignacio Bordad; Jadson Viera, Máximo Lucas, Walt Báez; Jorge Anchén [Diego Rariz 88], Marcelo Sosa, Omar Pouso, Ruben Da Silva [Ignacio González 61], Pablo Lima; Diego Perrone, Claudio Biaggio [Juan Manuel Olivera 79]
+*Bench: Joaquín Hernández [GK], Darwin Quintana, Cristian Callejas, Bruno Silva.
+*Nacional: Gustavo Munúa; Martín Del Campo, Andrés Scotti, Alejandro Lembo, Daniel Leites; Gustavo Méndez, Marco Vanzini [Carlos Camejo 88], Oscar Morales, Cassiano Méndes [Julio Rodríguez 60]; Pierre Webo [Horacio Peralta 68], Richard Morales. DT: Daniel Carreño. 
+*Bench:  Leonardo Romay [GK], Fernando Machado, Fabián Coelho, Alvaro Méndez.
+*   Yellow Cards: Gustavo Méndez 1, Claudio Biaggio 18, Daniel Leites 26, Omar
+*                 Pouso 42, Máximo Lucas 55, Gustavo Munúa 65, Pablo Lima 69.
 
-Danubio         1-2 Nacional  
-  [Claudio Biaggio 48; Marco Vanzini 51, Horacio Peralta 90]
-  [Danubio: Ignacio Bordad; Jadson Viera, Máximo Lucas, Walt Báez; Jorge 
-            Anchén [Diego Rariz 88], Marcelo Sosa, Omar Pouso, Ruben Da Silva
-            [Ignacio González 61], Pablo Lima; Diego Perrone, Claudio Biaggio 
-            [Juan Manuel Olivera 79]. DT: Jorge Fossati. Bench: Joaquín 
-            Hernández [GK], Darwin Quintana, Cristian Callejas, Bruno Silva.
-   Nacional: Gustavo Munúa; Martín Del Campo, Andrés Scotti, Alejandro Lembo,
-             Daniel Leites; Gustavo Méndez, Marco Vanzini [Carlos Camejo 88],
-             Oscar Morales, Cassiano Méndes [Julio Rodríguez 60]; Pierre Webo
-             [Horacio Peralta 68], Richard Morales. DT: Daniel Carreño. Bench: 
-             Leonardo Romay [GK], Fernando Machado, Fabián Coelho, Alvaro
-             Méndez.
-   Yellow Cards: Gustavo Méndez 1, Claudio Biaggio 18, Daniel Leites 26, Omar
-                 Pouso 42, Máximo Lucas 55, Gustavo Munúa 65, Pablo Lima 69.
-   Referees: Martín Vázquez: Fernando Cresci, Álvaro Sacarello.]
+*Second Leg 
+12/8/2002; Nacional       ; 2-1; Danubio   ; Estadio Centenario; Gustavo Méndez, Marcelo Gadea, Mauricio Espinosa; 60000
+Andrés Scotti 16, Richard Morales 88; Diego Perrone 63
+Nacional: Gustavo Munúa; Martín Del Campo, Andrés Scotti, Alejandro Lembo, Daniel Leites [Carlos Camejo 64]; Gustavo Méndez, Marco Vanzini, Oscar Morales, Cassiano Méndes [Julio Rodríguez 73]; Pierre Webo [Horacio Peralta 59], Richard Morales. 
+*Bench: Leonardo Romay [GK], Alejandro Curbelo, Fernando Machado, Fabián Coelho.
+Danubio: Ignacio Bordad; Jadson Viera, Máximo Lucas, Walt Báez; Jorge Anchén, Pablo Lima [Fernando Cañarte 67], Marcelo Sosa, Omar Pouso, Ignacio González [Ruben Da Silva 46]; Diego Perrone, Claudio Biaggio [Juan Manuel Olivera 6]. 
+*Bench: Joaquín Hernández [GK], Bruno Silva, Darwin Quintana, Diego Raríz.
+Red Card: Máximo Lucas 90
+ 
 
-Second Leg 
-Date: 12/8, Estadio Centenario; att: 60,000/2002
-
-Nacional        2-1 Danubio   
-  [Andrés Scotti 16, Richard Morales 88; Diego Perrone 63]
-  [Nacional: Gustavo Munúa; Martín Del Campo, Andrés Scotti, Alejandro Lembo,
-             Daniel Leites [Carlos Camejo 64]; Gustavo Méndez, Marco Vanzini, 
-             Oscar Morales, Cassiano Méndes [Julio Rodríguez 73]; Pierre Webo 
-             [Horacio Peralta 59], Richard Morales. DT: Daniel Carreño. Bench:
-             Leonardo Romay [GK], Alejandro Curbelo, Fernando Machado, Fabián 
-             Coelho.
-   Danubio: Ignacio Bordad; Jadson Viera, Máximo Lucas, Walt Báez; Jorge Anchén,
-            Pablo Lima [Fernando Cañarte 67], Marcelo Sosa, Omar Pouso, Ignacio
-            González [Ruben Da Silva 46]; Diego Perrone, Claudio Biaggio [Juan
-            Manuel Olivera 6]. DT: Jorge Fossati. Bench: Joaquín Hernández [GK],
-            Bruno Silva, Darwin Quintana, Diego Raríz.
-   Red Card: Máximo Lucas, 90.
-   Referees: Gustavo Méndez; Marcelo Gadea, Mauricio Espinosa.]
-
-Nacional champions of Uruguay 2002.
+*Nacional champions of Uruguay 2002.
 
 
 

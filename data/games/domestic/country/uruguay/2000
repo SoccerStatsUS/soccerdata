@@ -334,7 +334,7 @@ Date: 4/29/2000
 
 Date: 4/30/2000
 
-Maldonado   2-1 Juventud
+; Maldonado  ; 2-1; Juventud
   Paulo Medina 28, Paulo Medina 85; Adrián Colombo 90
 
 ; Rentistas  ; 1-1; River
@@ -709,7 +709,8 @@ Date: 8/12/2000
 ;  Eliomar Marcón 1, Eliomar Marcon 7, Marcelo Tejera 75
  
 ; Maldonado  ; 1-2; Bella Vista
-  Miguel Ximénez 5, Álvaro González 41, Rodrigo Lemos (pk) 68
+  Miguel Ximénez 5; Álvaro González 41, Rodrigo Lemos (pk) 68
+* check scorer teams
 
 ; Tacuarembo ; 4-0; Frontera
   Aldo Díaz 16, Michel Tatap 30, Vicente Sánchez 33, Nicanor Leal 69;
@@ -971,7 +972,7 @@ Date: 10/21/2000
 Date: 10/22/2000
 
 ; Nacional   ; 3-0; Racing
-  Mario Regueiro 17, Sergio Martínez 49, Sergio Martinez (pk) 68
+  Mario Regueiro 17, Sergio Martínez 49, Sergio Martinez (pk) 68;
 
 ; Danubio    ; 1-1; Juventud 
   Walt Báez 76; Adrián Colombo 61
@@ -1248,9 +1249,7 @@ Date: 12/3/2000
 Round: Championship Final
 
 *First Leg 
-Date: 12/7/2000
-
-; Peñarol    ; 0-1; Nacional ; Estadio Centenario; Jorge Larrionda; 35000
+12/7/2000; Peñarol    ; 0-1; Nacional ; Estadio Centenario; Jorge Larrionda; 35000
 ; Sergio Martínez (pk) 69
 Peñarol: Sergio Martínez (Adrián Berbia 45), Marcelo De Los Santos, Nelson Olveira, Joe Bizera, Ruben Dos Santos (Andreé González 68), Marcelo Romero, Guillermo Giacomazzi (Mario Leguizamón 77), Nicolás Rotundo, Serafín García, Pablo Bengoechea, Carlos Bueno
 Nacional: Leonardo Romay, Martín Del Campo, Alejandro Lembo, Damián Rodríguez, Adalto Batista, Carlos Camejo, Diego Scotti (Pablo Islas 54), Oscar Morales, Fabián Coelho, Gustavo Varela (Federico Bergara 81), Sergio Martínez (Ruben Sosa 70)
@@ -1260,9 +1259,7 @@ Nacional: Leonardo Romay, Martín Del Campo, Alejandro Lembo, Damián Rodríguez
 *   red cards: 40' Nelson Olveira (P), 90' Pablo Islas (N)] 
 
 *Second Leg 
-Date: 12/10/2000
-
-; Nacional   ; 1-1; Peñarol; ; Gustavo Mendez
+12/10/2000; Nacional   ; 1-1; Peñarol; ; Gustavo Mendez
   Sergio Martínez (pk) 25; Joe Bizera 32
 Nacional: Leonardo Romay; Martín Del Campo, Alejandro Lembo, Damián Rodríguez, Adalto Batista (Diego Scotti 85); Marco Vanzini, Carlos Camejo, Oscar Morales, Gustavo Varela; Sergio Martínez (Fabián Coelho 64), Mario Regueiro (Alvaro Meneses 73)
 Peñarol: Adrián Berbia; Cafú, Marcelo De Los Santos (Oscar Aguirregaray 84), Nicolás Rotundo (Andreé González 70), Joe Bizera; Marcelo Romero, Guillermo Giacomazzi (Marcelo De Souza 70), Pablo Bengoechea, Serafín García; José Franco, Carlos Bueno

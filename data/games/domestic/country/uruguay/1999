@@ -1,9 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesu/uru99.html
 Competition: Uruguayan Primera Division
-
 Season: 1999 Apertura
 
-*Apertura
 * 1.Nacional                   14 11  1  2 35-10 34  Apertura Champions
 * 2.Defensor Sporting          14 10  3  1 40-16 33
 * 3.Danubio                    14  8  2  4 39-24 26
@@ -32,15 +30,12 @@ Date: 3/7/1999
 ;  Antonio Pacheco 38, Edgardo Adinolfi 76
 
 ; Paysandú   ; 1-7; Danubio
-  Carlos Jaime 78;  Gabriel Migliónico 13, Gabriel Migliónico 21,
-    Julio De Souza 37,  Julio De Souza 44,  Martín Ojeda 64, 
-    Federico Rariz 65, Martín Ojeda 87
+  Carlos Jaime 78;  Gabriel Migliónico 13, Gabriel Migliónico 21, Julio De Souza 37,  Julio De Souza 44,  Martín Ojeda 64, Federico Rariz 65, Martín Ojeda 87
 
 ; River      ; 0-0; Rampla
 
 ; Cerro      ; 2-5; Defensor
-   Luis Jonne 73, : H. Pintos 89;  Ederson Fofonka 4,  Ederson Fofonka 12,
-    Santiago Ostolaza 52,  Eliomar 59, Eliomar 74
+   Luis Jonne 73, : H. Pintos 89;  Ederson Fofonka 4,  Ederson Fofonka 12, Santiago Ostolaza 52, Eliomar 59, Eliomar 74
 
 ; Liverpool  ; 0-0; Tacuarembó
 
@@ -58,9 +53,7 @@ Date: 3/13/1999
   Gabriel Cedrés 54; Carlos Silva 49
 
 ; Danubio    ; 6-2; Rampla
-   Gabriel Migliónico 15,  Federico Rariz 22,  Julio De Souza 48, 
-    Gabriel Migliónico 51,  Martín Ojeda 89, Federico Rariz 90;
-    Fernando Garracino 7, Beto 12
+   Gabriel Migliónico 15,  Federico Rariz 22,  Julio De Souza 48, Gabriel Migliónico 51,  Martín Ojeda 89, Federico Rariz 90;Fernando Garracino 7, Beto 12
 
 ; H.Buceo    ; 0-0; Bella Vista
 
@@ -120,17 +113,16 @@ Date: 3/27/1999
   ; Gabriel Alvez 36
 
 ; River      ; 2-4; Maldonado
-   Iván Alonso 43, Jair Vásquez 50;  Carlos Márcora 5,  Mario Orta 38,
-    Pablo Cuello 83, Diego Meijide 92
+   Iván Alonso 43, Jair Vásquez 50;  Carlos Márcora 5,  Mario Orta 38, Pablo Cuello 83, Diego Meijide 92
 
 ; Rampla     ; 1-2; Frontera
-  Flavio Piñero 8,  Gilson Madruga 15, Álvaro González 88
+  Flavio Piñero 8;  Gilson Madruga 15, Álvaro González 88
+* check scorer teams.
 
 Date: 3/31/1999
 
 ; H.Buceo    ; 1-5; Cerro
-  Uriel Pérez 69;  José Di Conza 9,  Álvaro Pintos 45, 
-    Marco Antonio Da Silva 55,  Marco Antonio Da Silva 62, Álvaro Pintos 84
+  Uriel Pérez 69;  José Di Conza 9,  Álvaro Pintos 45, Marco Antonio Da Silva 55,  Marco Antonio Da Silva 62, Álvaro Pintos 84
 
 *bye: Tacuarembó
 
@@ -149,8 +141,7 @@ Date: 4/4/1999
   Delmar Scotto 89; Luis Ortiz 21, Guillermo Giacomazzi 90
 
 ; Defensor   ; 6-2; H.Buceo  
-   Ederson Fofonka 42,  Danilo Tossello 49,  Marcelo Lipatín 50,  Eliomar 57,
-    Eliomar 72, Ederson Fofonk 77;  Alfredo Carve 45, Nicolás Nicolay 74
+Ederson Fofonka 42, Danilo Tossello 49, Marcelo Lipatín 50, Eliomar 57, Eliomar 72, Ederson Fofonk 77;  Alfredo Carve 45, Nicolás Nicolay 74
 
 ; Rampla     ; 1-0; Maldonado   
   Flavio Piñero 40;
@@ -189,7 +180,7 @@ Date: 4/11/1999
   Ruben Sosa 21,  Walter Coelho 29, Gabriel Álvez 52;  Alejandro Lembo 50,  Martín García 72, Facundo Garecca 80
 
 ; Defensor   ; 5-0; Liverpool
-   Danilo Tossello 50,  Eliomar 55, Danilo Tossello 72,  Eliomar 81, Gustavo Biscayzacú 87
+   Danilo Tossello 50, Eliomar 55, Danilo Tossello 72,  Eliomar 81, Gustavo Biscayzacú 87;
 
 *bye: H.Buceo
 
@@ -217,7 +208,7 @@ Date: 4/18/1999
 ;   Juan Ravera 34
 
 ; Maldonado  ; 1-3; Danubio
-  Carlos Márcora 12;  Martín Ojeda (ARG)  6,  Richard Núñez 41, Julio De Souza 68
+  Carlos Márcora 12;  Martín Ojeda 6,  Richard Núñez 41, Julio De Souza 68
 
 *bye: Cerro
 
@@ -271,7 +262,7 @@ Date: 5/5/1999
   Boris Acuña 84; Walter Pandiani 8
 
 ; Danubio    ; 2-1; Bella Vista
-   Martín Ojeda 2;  Martín Ojeda 23; Guillermo Giacomazzi 34
+   Martín Ojeda 2,  Martín Ojeda 23; Guillermo Giacomazzi 34
 
 ; Rentistas  ; 1-1; Defensor
   Gustavo Da Silva 56; Gustavo Bizcayzacú 87
@@ -351,8 +342,7 @@ Date: 5/22/1999
   Milton Núñez 79;
 
 ; Defensor   ; 5-1; Danubio
-  Andrés Fleurquin 16,  Eliomar Marcón 50,  Ederson Fofonka 55, 
-    Eliomar Marcón 58, Marcelo Lipatín 71; Martín Ojeda 63
+  Andrés Fleurquin 16,  Eliomar Marcón 50,  Ederson Fofonka 55, Eliomar Marcón 58, Marcelo Lipatín 71; Martín Ojeda 63
 
 ; Liverpool  ; 0-0; River
 
@@ -403,8 +393,7 @@ Date: 6/6/1999
 ; Liverpool  ; 0-0; Paysandú
 
 ; Cerro      ; 2-4; Maldonado
-   Adrián Romero 80, Germán Pérez 90;  Paulo Medina 21,  Paulo Medina 45+,
-    Mario Orta 60, Mario Orta (pk) 72
+   Adrián Romero 80, Germán Pérez 90;  Paulo Medina 21,  Paulo Medina 45+, Mario Orta 60, Mario Orta (pk) 72
 
 ; Defensor   ; 2-1; Frontera 
    Danilo Tosello 50, Danilo Tosello (pk) 67; Álvaro González 58
@@ -432,8 +421,7 @@ Date: 6/13/1999
    Luis Cor 8,  Christian Castellanos 14, Christian Castellanos 17; Mario Regueiro 12
 
 ; Danubio    ; 2-3; H.Buceo  
-   Martín Ojeda (pk) 26, Richard Núñez 89;  Eduardo Jaume 46, 
-    Gastón Curbelo 67, Fernando Cardozo 90
+   Martín Ojeda (pk) 26, Richard Núñez 89;  Eduardo Jaume 46, Gastón Curbelo 67, Fernando Cardozo 90
 
 ; Paysandú   ; 0-1; Tacuarembó
   ; Ángel León 77
@@ -462,8 +450,7 @@ Date: 6/13/1999
 *15.Liverpool                  14  0  8  6  5-22  8
      
 
-
-Season: 2009 Clausura
+Season: 1999 Clausura
 
 * 1.Peñarol                    14 12  2  0 47-12 38  Clausura Champions
 * 2.Nacional                   14  9  2  3 30-17 29
@@ -549,8 +536,7 @@ Date: 8/6/1999
 Date: 8/7/1999
 
 ; Frontera   ; 2-4; Peñarol
-   Álvaro González 21, Marcelo Velazco 90;  Pablo Bengochea (pk) 32,
-    Antonio Pacheco 54,  Carlos Aguilera 61, Antonio Pacheco 77
+   Álvaro González 21, Marcelo Velazco 90;  Pablo Bengochea (pk) 32, Antonio Pacheco 54,  Carlos Aguilera 61, Antonio Pacheco 77
 
 
 Date: 8/8/1999
@@ -748,7 +734,7 @@ Date: 9/19/1999
    Marcelo Velazco (pk) 73, Marcelo Velazco (pk) 81; Ruben Alzueta 88
 
 ; River Plate; 3-0; Bella Vista
-   Marcelo Suárez 22,  Diego Tito (pk) 65, Marcelo Suárez 76
+   Marcelo Suárez 22,  Diego Tito (pk) 65, Marcelo Suárez 76;
 
 *bye: Rampla
 
@@ -770,7 +756,7 @@ Date: 9/22/1999
   Alejandro Lembo 80; Javier Chevantón 50
 
 ; Nacional   ; 4-0; Paysandu  
-   Mario Regueiro 4,  Mario Regueiro 15,  Mario Regueiro 46, Gustavo Varela 60
+   Mario Regueiro 4,  Mario Regueiro 15,  Mario Regueiro 46, Gustavo Varela 60;
 
 Date: 9/23/1999
 
@@ -974,15 +960,15 @@ Date: 10/24/1999
 *15.Deportivo Tacuarembó       28  4  5 19 20-43 17
      
 
-Round: Championship Playoff
+Season: 1999 Championship Playoff
 
-*First Leg [Nov 3, Estadio Centenario]
+*First Leg
 11/3/1999; Peñarol    ; 1-1; Nacional ; Estadio Centenario
  Marcelo Romero 55; Gabriel Álvez 64
 
-*Second Leg [Nov 7, Estadio Centenario, att: 50,990]
-11/7/1999; Nacional   ; 1-1; Peñarol
-Gabriel Álvez (pk) 3; Pablo Bengochea 20; Estadio Centenario; Gustavo Méndez; linesmen: Fernando Cresci and Marcelo Costa; 50990
+*Second Leg
+11/7/1999; Nacional   ; 1-1; Peñarol; Estadio Centenario; Gustavo Méndez, Fernando Cresci, Marcelo Costa; 50990
+Gabriel Álvez (pk) 3; Pablo Bengochea 20
 *  [yellow cards:
 *   Nacional: Fabián Coelho, Ruben Sosa, Javier Morales, Héctor Rodríguez, Mario Regueiro;
 *   Peñarol: Antonio Pacheco, Marcelo De Souza, Joe Bizera, Marcelo Romero;
@@ -990,8 +976,8 @@ Gabriel Álvez (pk) 3; Pablo Bengochea 20; Estadio Centenario; Gustavo Méndez; 
 *   Nacional: Jorge Delgado, Carlos Camejo;
 *   Peñarol: Marcelo De Souza, Joe Bizera, Luciano "Cafú" Barboza.]
 
-*Third and Final leg [Nov 13, Estadio Centenario]
-11/13/1999; Peñarol    ; 2-1; Nacional; Estadio Centenario ; Sergio Komjetán; linesmen: Ruben Meneses and William Martínez
+*Third and Final leg
+11/13/1999; Peñarol    ; 2-1; Nacional; Estadio Centenario ; Sergio Komjetán, Ruben Meneses, William Martínez
  Darío Rodríguez 33, Walter Pandiani 35; Gabriel Álvez (pk) 19
 *  [yellow cards:
 *   Peñarol: Marcelo Romero, José Cancela, Nicolás Rotundo, Martín García;

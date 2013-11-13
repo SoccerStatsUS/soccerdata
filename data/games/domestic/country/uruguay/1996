@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesu/uru96.html
-Season: 1996
+Competition: Uruguayan Primera Division
+Season: 1996 Apertura
 
 * 1.Peñarol           11  7  2  2  21-11  23 
 * 2.Defensor Sporting 11  6  4  1  17- 8  22 
@@ -15,7 +16,7 @@ Season: 1996
 *12.Central Español   11  1  3  7   8-15   6 
 *(*) 5 points deducted because of incidents in second round match vs Nacional 
 
-Round: Round 1 
+Round: 1 
 
 ; Peñarol    ; 4-1; Sud América 
 Tais 1, Magallanes 12, Pacheco 56, Pereira 63; Piaggio 4
@@ -32,7 +33,7 @@ Tais 1, Magallanes 12, Pacheco 56, Pereira 63; Piaggio 4
 
 ; Huracán    ; 0-0; Rampla 
 
-Round: Round 2 
+Round: 2 
 
 ; Nacional   ; 2-2; Cerro 
 Lemos 46, Recoba 18; González 4, Jonne 53
@@ -50,7 +51,7 @@ Da Silva 40; Orta (pk) 75
 ; Huracán    ; 2-1; Wanderers 
 Adippe 6, Larrosa 90; Rosa 4
 
-Round: Round 3 
+Round: 3 
 
 ; Danubio    ; 0-4; Nacional 
 ; Correa 39, Correa 54, Correa 60, Lemos 63
@@ -59,7 +60,7 @@ Round: Round 3
 Bianchi (pk) 61, Cortazzo 77;
 
 ; Cerro      ; 4-0; Sud América 
-Gonzalez 12, González 57, Romero 41, Fernández 65
+Gonzalez 12, González 57, Romero 41, Fernández 65;
 
 ; Liverpool  ; 1-0; River Plate 
 Simovic 69;
@@ -68,9 +69,9 @@ Simovic 69;
 Barragán 48;
 
 ; Peñarol    ; 2-0; Defensor 
-Pacheco 11, G. De los Santos 45
+Pacheco 11, G. De los Santos 45;
 
-Round: Round 4 
+Round: 4 
 
 ; Nacional   ; 4-1; River Plate 
 Abeijón 35, J. Gonzalez 66, J. González 80, Correa 72; Díaz 64
@@ -85,12 +86,12 @@ Sena 20;
 Fernández 4, Luzardo 77; Gutiérrez 15, Sosa 60, Sosa 75, Aguilera 79
 
 ; Defensor   ; 1-1; Huracán 
-(60' S.Abreu; 77' Canals (p)) 
+S.Abreu 60; Canals (pk) 77
 
 ; Liverpool  ; 1-1; Danubio 
 Messones 33; Cartagena 65
 
-Round: Round 5 
+Round: 5 
 
 ; Central    ; 1-1; River Plate 
 Castro 63; Silvera 51
@@ -108,7 +109,7 @@ Duarte 78; Romero 20
 ; Rampla     ; 2-1; Liverpool 
 Bianchi 52, Bianchi 58; Farto 76
 
-Round: Round 6 
+Round: 6 
 
 ; Huracán    ; 2-3; Peñarol 
 Alzueta 49, Barragán 61; Tais 23, L. Romero (pk) 32, Sosa 69
@@ -127,7 +128,7 @@ Sum 3, S. Abreu 12, Tejera 29, Vidal González 46; Regueiro 43
 ; Liverpool  ; 0-3; Nacional 
 ; Lemos 9, Lemos 48, Puglia 64
 
-Round: Round 7 
+Round: 7 
 
 ; Sud América; 1-1; Central 
 Torres 29; J. De Souza 17
@@ -147,7 +148,7 @@ Tolosa 48, Umpiérrez 53; Legris 13, Díaz 75
 ; Cerro      ; 0-3; Huracán 
 ; Adippe 48, Canals (p) 78, Pappa 88
 
-Round: Round 8 
+Round: 8 
 
 ; Peñarol    ; 2-2; Liverpool 
 Lima 5, Bengoechea 72; Ductter 16, Farto 50
@@ -167,7 +168,7 @@ Da Silva 82;
 ; River Plate; 4-1; Sud América 
 R. López 22, Díaz 55, Vidal 77, Gaglianone 85; Piaggio 65
 
-Round: Round 9 
+Round: 9 
 
 ; Peñarol    ; 1-0; Rampla 
 Aguirregaray 53;
@@ -186,13 +187,13 @@ Pedrozo 74;
 ; Central    ; 0-2; Cerro 
 ; De los Santos 26, G. Pérez 70
 
-Round: Round 10 
+Round: 10 
 
 ; Wanderers  ; 0-2; Peñarol 
 ; Baltierra 41, Lima 54
 
 ; Defensor   ; 2-0; Rampla 
-Fleurquin 46, S. Abreu 50
+Fleurquin 46, S. Abreu 50;
 
 ; Sud América; 1-0; Liverpool 
 Vesino 30;
@@ -207,7 +208,7 @@ Migliónico 72, Delgado 84; Fernández 12
 *(moved forward) 
 Barragán 23; Recoba 41, J. González 67, Correa 90
 
-Round: Round 11 
+Round: 11 
 
 ; Peñarol    ; 1-3; Central 
 L. Romero 89; Da Silva 40, Fernández 72, Correa 90
@@ -215,7 +216,7 @@ L. Romero 89; Da Silva 40, Fernández 72, Correa 90
 ; Cerro      ; 1-0; Rampla 
 Morán 8;
 
-; Sud América; 0-2; Danubio       (played in Paysandu) 
+; Sud América; 0-2; Danubio       ; Paysandu
 Zalayeta 14, Zalayeta 90;
 
 ; Liverpool  ; 0-2; Defensor 
@@ -244,6 +245,7 @@ Recoba 43, Lemos 61, Lemos (pk) 81, J. Gonzalez 65, J. Gonzalez 79; Delgado (pk)
 *(*) 5 points deducted because of incidents in second round match vs Nacional 
 
   
+Season: 1996 Clausura
 
 *Torneo Clausura 
 *=============== 
@@ -262,7 +264,7 @@ Recoba 43, Lemos 61, Lemos (pk) 81, J. Gonzalez 65, J. Gonzalez 79; Delgado (pk)
 *12.Sud América       11  0  0 11   0-25   0  [*] 
 *[*] Sud América withdrew after three rounds; all subsequent matches are awarded 0-2 against them.  They also will be relegated automatically. 
 
-Round: Round 1 
+Round: 1 
 
 ; Sud América; 0-3; Peñarol 
 ; Baltierra 48, L. Romero 61, Sosa 72
@@ -283,7 +285,7 @@ Delgado 5, Delgado 9, Miglionico 45, Podesta 61; De Leon 50
 ; Rampla     ; 1-1; Huracán 
 Celli 70; Adippe 52
 
-Round: Round 2 
+Round: 2 
 
 ; Sud América; 0-3; Defensor 
 ; S. Abreu 8, S. Abreu 67, Da Silva 64
@@ -300,7 +302,7 @@ Round: Round 2
 ; Peñarol    ; 1-1; River Plate 
 L. Romero 76; G. Díaz 26
 
-Round: Round 3 
+Round: 3 
 
 ; Nacional   ; 2-1; Danubio 
 J. Gonzalez 66, J. Gonzalez 75; Zalayeta 19
@@ -320,7 +322,7 @@ Gaglianone 54; Ductter 89
 ; Central    ; 0-1; Huracán 
 ; Carballo 88
 
-Round: Round 4 
+Round: 4 
 
 ; Cerro      ; 1-5; Peñarol 
 Lemos (pk) 17; L. Romero 1, L. Romero (pk) 84, L. Romero 89, Aguilera 55, G. De los Santos 69
@@ -338,7 +340,7 @@ Zalayeta 21, Zalayeta 54, Delgado 33, Ferraro 68; Luzardo (pk) 29, Messones 84
 ; Huracán    ; 1-0; Defensor 
 Cabrera 88;
 
-Round: Round 5 
+Round: 5 
 
 ; Nacional   ; 2-1; Peñarol 
 Badell 77, Abeijón 79; Bengoechea 52
@@ -356,7 +358,7 @@ Fleurquin 35, Da Silva 54; Delgado 11
 
 *Huracán     Awd Sud América [2-0 to Huracán] 
 
-Round: Round 6 
+Round: 6 
 
 ; Peñarol    ; 1-1; Huracán 
 Pacheco 15; Carballo 36
@@ -374,20 +376,25 @@ Recoba 26, Recoba 45, Recoba 66, J. Gonzalez 72, Abeijon 87; Luzardo (pk) 41, Ar
 ; River Plate; 4-1; Danubio 
 Dos Santos 3, Salazar 5, Benzo 19, Silvera 78; Zalayeta 83
 
-Round: Round 7 
+Round: 7 
 
-Defensor    3-1 Nacional 
-(1' Romero, 33' De Lima, 85' Dos Santos; 21' Ravera) 
-River Plate 1-1 Rampla 
-(80' Gaglianone (p); 41' Saravia) 
-Liverpool   1-1 Wanderers 
-(76' Seoane; 59' Del Campo) 
-Huracán     0-0 Cerro 
-Peñarol     3-1 Danubio 
-(46' Gutiérrez, 61' & 89' Aguilera; 32' Rivas) 
-Central     Awd Sud América  [2-0 to Central] 
+; Defensor   ; 3-1; Nacional 
+Romero 1, De Lima 33, Dos Santos 85; Ravera 21
 
-Round: Round 8 
+; River Plate; 1-1; Rampla 
+Gaglianone (pk) 80; Saravia 41
+
+; Liverpool  ; 1-1; Wanderers 
+Seoane 76; Del Campo 59
+
+; Huracán    ; 0-0; Cerro 
+
+; Peñarol    ; 3-1; Danubio 
+Gutiérrez 46, Aguilera 61, Aguilera 89; Rivas 32
+
+*Central     Awd Sud América  [2-0 to Central] 
+
+Round: 8 
 
 ; Liverpool  ; 1-0; Peñarol 
 Aguirregaray (og) 40;
@@ -405,7 +412,7 @@ Silva 36, Abeijon 55;
 
 *Sud América Awd River Plate  [0-2 to River] 
 
-Round: Round 9 
+Round: 9 
 
 ; Rampla     ; 4-1; Peñarol 
 Noble 5, Noble (pk) 33, Cortazzo 56, Cortazzo 66; Lima 7
@@ -423,11 +430,11 @@ Alzueta 58, Alzueta 78; Luzardo 7
 Fernandez 51; Bartora 76
 
 ; River Plate; 3-0; Wanderers 
-Rosello 5, Gaglianone 18, Paredes 89
+Rosello 5, Gaglianone 18, Paredes 89;
 
 *Nacional    Awd Sud América  [2-0 to Nacional] 
 
-Round: Round 10 
+Round: 10 
 
 ; Peñarol    ; 0-1; Wanderers 
 ; M. Menendez 71
@@ -443,9 +450,9 @@ Varela 73, Aguerre 81;
 ; Lemos 85
 
 ; Nacional   ; 1-1; Huracán 
-Parodi 55, Hernandez 11
+Parodi 55; Hernandez 11
 
-Round: Round 11 
+Round: 11 
 
 ; Wanderers  ; 1-0; Nacional 
 Duarte 71;

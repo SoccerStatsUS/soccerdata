@@ -44,7 +44,6 @@ Date: 2/16/2002
 ; Cobreloa            ; 1-3; Palestino 
   Rodrigo Pérez 87; Nelson Lizana 2, Esteban Valencia 32, Angel Carreño 58
 
-
 Date: 2/17/2002
 
 ; Rangers             ; 2-0; Universidad de Chile 
@@ -111,7 +110,6 @@ Date: 3/2/2002
 ; Santiago Morning    ; 0-1; Coquimbo Unido
 ;  Italo Díaz 20
 
-
 Date: 3/3/2002
 
 ; Santiago Wanderers  ; 1-1; Universidad Catolica
@@ -134,7 +132,6 @@ Date: 3/9/2002
 
 ; Unión Española      ; 3-1; Unión San Felipe 
   Pedro Acevedo 20, Freddy Vilches 53, Juan Pablo Úbeda 89; Paolo Vivar 6
-
 
 Date: 3/10/2002
 
@@ -260,7 +257,6 @@ Date: 4/7/2002
  
 ; Coquimbo Unido      ; 0-2; Universidad de Chile 
 ;  Darío Cabrol 72, Marcelo Corrales 90
-
 
 Date: 4/8/2002
 
@@ -391,7 +387,6 @@ Date: 5/11/2002
 ; Universidad de Chile; 0-3; Colo Colo
 ;  Ignacio Quinteros 9, Francisco Huaiquipán 54, Francisco Huaiquipan 88
 
-
 Date: 5/12/2002
 
 ; Audax Italiano      ; 1-2; Universidad Catolica
@@ -426,7 +421,6 @@ Date: 5/18/2002
 ; Colo Colo           ; 2-0; Cobresal
   Ignacio Quinteros 50, Ignacio Quinteros 91;
 
-
 Date: 5/19/2002
 
 ; Palestino           ; 2-4; Universidad Catolica
@@ -457,7 +451,6 @@ Date: 5/26/2002
 ; Deportes Temuco     ; 5-0; Unión San Felipe 
   Rubén Ferrer 44, Juan Quiroga (pk) 49, Juan Quiroga (pk) 80, Eduardo Díaz 70, Iván Álvarez 75;
 
-
 Date: 5/27/2002
 
 ; Audax Italiano      ; 2-3; Palestino 
@@ -475,7 +468,7 @@ Date: 5/28/2002
   Marcelo Corrales 63, Waldo Ponce 80; Francisco Cañete 38
 
 *Group A 
-; * 1.Santiago Wanderers         15  7  4  4; 24-20; 25  Qualified
+* 1.Santiago Wanderers         15  7  4  4 24-20 25  Qualified
 * 2.Huachipato                 15  4  4  7 24-31 16  Qualified
 * 3.Santiago Morning           15  4  3  8 23-25 15  Qualified
 * 4.Cobresal                   15  3  3  9 19-36 12
@@ -502,15 +495,14 @@ Date: 5/28/2002
 *    (as winners aggregate table)
 
 
-Apertura Playoffs
+Season: 2002 Apertura Playoffs
 
-First Round:
+Round: 1
 
-First Legs
-
+*First Legs
 Date: 6/1/2002
 
-Huachipato           1-0 Universidad Catolica
+; Huachipato          ; 1-0; Universidad Catolica
   Luis Medina 83;
 
 ; Coquimbo Unido      ; 0-2; Palestino
@@ -531,14 +523,13 @@ Date: 6/2/2002
   Juan Quiroga (pk) 12; Rubén Vallejos 26, Marcio Dos Santos 73
 
 
-Second Legs 
-
+*Second Legs 
 Date: 6/8/2002
 
-; Universidad de Chile; 6-1; Unión San Felipe            [asdet]
+; Universidad de Chile; 6-1 (asdet); Unión San Felipe
   Gamadiel García 5, Luis Rueda 25, Luis Rueda 27, Luis Rueda 50, Luis Rueda 106, Mauricio Pinilla 68; Carlos Barraza 19
 
-; Rangers             ; 2-2; Deportes Temuco             [asdet]
+; Rangers             ; 2-2 (asdet); Deportes Temuco 
   Mauricio Risso 45, Luis Díaz 96; Iván Álvarez 9, Juan Quiroga (pk) 42
 
 ; Colo Colo           ; 6-2; Santiago Morning
@@ -548,10 +539,11 @@ Date: 6/8/2002
 
 Date: 6/9/2002
 
-; Universidad Catolica; 3-0; Huachipato                  [asdet]
+; Universidad Catolica; 3-0 (asdet); Huachipato
   Milovan Mirosevic 39, Rodrigo Barrera 71, Iván Gabrich 109;
 
-; Santiago Wanderers  ; 3-1; Cobreloa                    [asdet, 3-4 pen]
+; Santiago Wanderers  ; 3-1 (asdet); Cobreloa                    
+Penalty kicks: 3-4
   Silvio Fernández (pk) 39, Jaime Riveros 55, Joel Soto 67; Osvaldo Canobbio 6
 
 *NB: goal difference irrelevant, if both teams win one match, sudden death
@@ -584,7 +576,7 @@ Date: 6/13/2002
 Date: 6/15/2002
 
 ; Palestino           ; 1-1; Rangers
-  Oscar Díaz 35; Luis Díaz (pk) 45; 
+  Oscar Díaz 35; Luis Díaz (pk) 45
 *Rangers on away goal
 
 ; Universidad Catolica; 2-2; Deportes Temuco
@@ -601,70 +593,47 @@ Date: 6/16/2002
 Round: Semifinals 
 
 *First Legs
-Date: 6/19/2002
 
-*Rangers              abd Colo Colo                   [abandoned at 1-0 in 45'
-*  [Rubén Vallejos 14]                                 due to fog]
+6/19/2002; Rangers; 1-0; Colo Colo
+Rubén Vallejos 14;
+Notes: abandoned after 45' due to fog
 
-Date: 6/20/2002
-
-; Rangers             ; 2-1; Colo Colo                   
+6/20/2002; Rangers             ; 2-1; Colo Colo                   
   Rubén Vallejos 14, Luis Díaz 49; Sebastián González 79
 *[remaining 45']         
 
-; Universidad de Chile; 3-3; Universidad Catolica
+6/20/2002; Universidad de Chile; 3-3; Universidad Catolica
   Luis Rueda 30, Luis Rueda 50, Darío Cabrol (pk) 58; Miguel Ramírez (pk) 13, Iván Gabrich 76, Patricio Ormazábal 87
 
 *Second Legs
-Date: 6/22/2002
 
-; Colo Colo           ; 2-2; Rangers
+6/22/2002; Colo Colo           ; 2-2; Rangers
   Francisco Huaiquipán 12, Sebastián González 94; Luis Díaz 1, Mauricio Risso 65
 
-Date: 6/23/2002
-
-; Universidad Catolica; 2-1; Universidad de Chile
+6/23/2002; Universidad Catolica; 2-1; Universidad de Chile
   Jorge Campos 6, Jorge Campos 87; Pedro González 45
 
 
 Round: Final 
 
 *First Leg 
-Date: 6/26/2002
 
-; Rangers             ; 1-1; Universidad Catolica
+7/26/2002; Rangers             ; 1-1; Universidad Catolica; Estadio Fiscal de Talca; Guido Aros; 14000
   Mauricio Risso 90; Daniel Pérez 57
+Rangers: Nicolás Peric; Gustavo Semino, Gonzalo Favre, Marco González,  Darwin Pérez, Boris González, Juan Beltrand (Mauricio Risso 63),  Marcio Dos Santos (Fabián Ibarra 55), Matías Guerrero, Rubén Vallejos, Luis Díaz
+Universidad Catolica: Jonny Walker; Cristián Álvarez, Pablo Lenci, Miguel Ramírez, Jorge Acuña; Eduardo Arancibia (Milovan Mirosevic 52), Mauricio Segovia, Patricio Ormazábal, Jorge Campos (Rodrigo Barrera 76); Iván Gabrich (Daniel Pérez 46), Arturo Norambuena
+*   Yellow Cards: Mirosevic (UC), Acuña (UC)]
 
-  [Stadium: Fiscal, Talca; Attendance: 14.000; Referee: Guido Aros
-   RANGERS: Nicolás Peric; Gustavo Semino, Gonzalo Favre, Marco González,
-     Darwin Pérez, Boris González, Juan Beltrand (63' Mauricio Risso),
-     Marcio Dos Santos (55' Fabián Ibarra), Matías Guerrero, Rubén Vallejos,
-     Luis Díaz. Coach: Oscar del Solar.
-   U. CATÓLICA: Jonny Walker; Cristián Álvarez, Pablo Lenci, Miguel Ramírez,
-     Jorge Acuña; Eduardo Arancibia (52' Milovan Mirosevic), Mauricio Segovia,
-     Patricio Ormazábal, Jorge Campos (76' Rodrigo Barrera); Iván Gabrich 
-     (46' Daniel Pérez), Arturo Norambuena. Coach: Juvenal Olmos.
-   Yellow Cards: Mirosevic (UC), Acuña (UC)]
-
-Second Leg 
+*Second Leg 
 Date: 6/30/2002
 
-; Universidad Catolica; 4-0; Rangers
-  Arturo Norambuena 45, 46, Daniel Pérez 62, Milovan Mirosevic 73
+; Universidad Catolica; 4-0; Rangers; Estadio San Carlos de Apoquindo; Carlos Chandia; 18000
+  Arturo Norambuena 45, Arturo Norambuena 46, Daniel Pérez 62, Milovan Mirosevic 73;
+Universidad Catolica: Jonathan Walker; Cristian Alvarez, Pablo Lenci, Miguel Ramírez; Patricio Ormazábal (Rodrigo Barrera 76), Mauricio Segovia, Jorge Acuña (Eduardo Arancibia 64), Jorge Campos; Milovan Mirosevic; Daniel Pérez (Iván Gabrich 77), Arturo Norambuena
+Rangers: Nicolás Peric; Darwin Pérez, Gustavo Semino, Gonzalo Favre, Marcos González, Manuel Avendaño (Marcio dos Santos 46); Boris González ( Luis Guajardo 61), Juan Beltrand, Matías Guerrero; Mauricio Risso, Luis Díaz (Rubén Vallejos 52)
+*   Yellow Cards: Norambuena, Pérez; González, Avendaño, Guajardo, Risso]
 
-  [Stadium: San Carlos de Apoquindo, Santiago; Attendance: 18.000; 
-   Referee: Carlos Chandía
-   UNIVERSIDAD CATÓLICA: Jonathan Walker; Cristian Alvarez, Pablo Lenci, 
-     Miguel Ramírez; Patricio Ormazábal (76' Rodrigo Barrera), Mauricio Segovia,
-     Jorge Acuña (64' Eduardo Arancibia), Jorge Campos; Milovan Mirosevic;
-     Daniel Pérez (77' Iván Gabrich), Arturo Norambuena. Coach: Juvenal Olmos.
-   RANGERS: Nicolás Peric; Darwin Pérez, Gustavo Semino, Gonzalo Favre,
-     Marcos González, Manuel Avendaño (46' Marcio dos Santos); Boris González
-     (61' Luis Guajardo), Juan Beltrand, Matías Guerrero; Mauricio Risso,
-     Luis Díaz (52' Rubén Vallejos). Coach: Oscar del Solar.
-   Yellow Cards: Norambuena, Pérez; González, Avendaño, Guajardo, Risso]
-
-Universidad Catolica Apertura winners 2002; qualify to Copa Libertadores 2003
+*Universidad Catolica Apertura winners 2002; qualify to Copa Libertadores 2003
 
 
 
@@ -705,7 +674,6 @@ Date: 8/3/2002
 
 ; Coquimbo Unido      ; 0-1; Colo Colo
 ;  David Henríquez 84
-
 
 Date: 8/4/2002
 
@@ -842,7 +810,6 @@ Date: 9/15/2002
 ; Cobreloa            ; 2-0; Santiago Wanderers
   Cortés 44, Martínez 64;
 
-
 Date: 10/31/2002
 
 ; Deportes Concepción ; 2-4; Colo Colo               
@@ -956,7 +923,6 @@ Date: 10/12/2002
 ; Universidad Catolica; 1-1; Universidad de Chile
   Patricio Ormazábal 35; Pedro González 13
 
-
 Date: 10/13/2002
 
 ; Unión Española      ; 2-0; Audax Italiano
@@ -1040,7 +1006,6 @@ Date: 11/2/2002
 ; Unión San Felipe    ; 1-1; Santiago Morning
   Francis Ferrero 50; Bruno Pesce 56
 
-
 Date: 11/3/2002
 
 ; Huachipato          ; 0-0; Colo Colo
@@ -1068,7 +1033,6 @@ Date: 11/9/2002
 ; Deportes Concepción ; 1-1; Cobresal
   Jorge Torres 34; Pedro Rivera 68
 
-
 Date: 11/10/2002
 
 ; Colo Colo           ; 0-0; Universidad de Chile
@@ -1082,7 +1046,6 @@ Date: 11/10/2002
   José Luis Díaz (pk) 11;
 
 Round: 14
-
 Date: 11/16/2002
 
 ; Universidad Catolica; 2-0; Palestino
@@ -1197,7 +1160,7 @@ Date: 11/30/2002
   Arturo Norambuena 30, Jaime González 39;
 
 ; Santiago Wanderers  ; 5-0 (asdet); Huachipato
-  Mauricio Rojas 53, Silvio Fernández 58, Silvio Fernandez (pk) 111, Emiliano Romay 67, Moises Villarroel 83
+  Mauricio Rojas 53, Silvio Fernández 58, Silvio Fernandez (pk) 111, Emiliano Romay 67, Moises Villarroel 83;
 
 Date: 12/1/2002
 
@@ -1257,7 +1220,6 @@ Date: 12/8/2002
   Mauricio Pinilla 86; Luis Ceballos 91
 *; Universidad on away goals
 
-
 Round: Semifinals 
 
 *First Legs
@@ -1284,58 +1246,39 @@ Round: Final
 *First Leg 
 Date: 12/18/2002
 
-; Colo Colo           ; 2-0; Universidad Catolica
+; Colo Colo           ; 2-0; Universidad Catolica; Estadio Monumental (Santiago); Guido Aros; 40000
   Marcelo Espina 47, Ignacio Quinteros 86;
-
-  [Stadium: Monumental, Santiago; Attendance: 40.000; Referee: Guido Aros
-   COLO COLO: Eduardo Lobos; Luis Mena, David Henríquez, Miguel Aceval; Marco
-     Millape, Braulio Leal, Raúl Muñoz, Gonzalo Fierro (63' Alonzo Zuñiga),
-     Marcelo Espina (87' Francisco Huaiquipán); Ignacio Quinteros, Manuel 
-     Neira. Coach: Jaime Pizarro
-   U. CATÓLICA: Jonathan Walker; Jorge Acuña, Pablo Lenci, Miguel Ramírez;
-     Cristián Álvarez, Patricio Ormazábal, Mauricio Segovia, Miguel Ponce 
-     (81' Iván Gabrich), Daniel Pérez (24' Carlos Verdugo), Jorge Campos 
-     (62' Jaime González); Arturo Norambuena. Coach: Juvenal Olmos.
-   Yellow Cards: Espina (CC); Ponce (UC)
-   Red Card: Ramírez (UC)]
+Colo Colo: Eduardo Lobos; Luis Mena, David Henríquez, Miguel Aceval; Marco Millape, Braulio Leal, Raúl Muñoz, Gonzalo Fierro (Alonzo Zuñiga 63), Marcelo Espina (Francisco Huaiquipán 87); Ignacio Quinteros, Manuel Neira
+Universidad Catolica: Jonathan Walker; Jorge Acuña, Pablo Lenci, Miguel Ramírez; Cristián Álvarez, Patricio Ormazábal, Mauricio Segovia, Miguel Ponce (Iván Gabrich 81), Daniel Pérez (Carlos Verdugo 24), Jorge Campos (Jaime González 62); Arturo Norambuena
+*   Yellow Cards: Espina (CC); Ponce (UC)
+*   Red Card: Ramírez (UC)]
 
 *Second Leg 
 Date: 12/22/2002
 
-; Universidad Catolica; 2-3; Colo Colo
+; Universidad Catolica; 2-3; Colo Colo; Estadio Nacional (Chile); Carlos Chandia; 45540
   Pablo Lenci 10, Albert Acevedo 86; Marcelo Espina (pk) 15, Manuel Neira 67, Manuel Neira 73
-
-  [Stadium: Nacional, Santiago; Attendance: 45.540; Referee: Carlos Chandía
-   U. CATÓLICA: Jonathan Walker; Cristián Álvarez, Pablo Lenci, Mauricio
-     Segovia; Jorge Acuña, Patricio Ormazábal, Carlos Verdugo (46' Albert  
-     Acevedo), Miguel Ponce (61' Iván Gabrich); Daniel Pérez, Jorge Campos 
-     (46' Milovan Mirosevic), Arturo Norambuena. Coach: Juvenal Olmos.
-   COLO COLO: Eduardo Lobos; Luis Mena, David Henríquez, Miguel Aceval; Marco
-     Millape (80' Francisco Huaiquipán), Braulio Leal, Raúl Muñoz, Rodolfo 
-     Madrid (85' Gonzalo Fierro), Marcelo Espina; Ignacio Quinteros, Manuel
-     Neira. Coach: Jaime Pizarro
-   Yellow Cards: Segovia (UC), Acevedo (UC); Aceval (CC)
-   Red Card: Acuña (UC), Pérez (UC)]
+Universidad Catolica: Jonathan Walker; Cristián Álvarez, Pablo Lenci, Mauricio Segovia; Jorge Acuña, Patricio Ormazábal, Carlos Verdugo (Albert Acevedo 46), Miguel Ponce (Iván Gabrich 61); Daniel Pérez, Jorge Campos (Milovan Mirosevic 46), Arturo Norambuena
+Colo Colo: Eduardo Lobos; Luis Mena, David Henríquez, Miguel Aceval; Marco Millape (Francisco Huaiquipán 80), Braulio Leal, Raúl Muñoz, Rodolfo Madrid (Gonzalo Fierro 85), Marcelo Espina; Ignacio Quinteros, Manuel Neira
+*   Yellow Cards: Segovia (UC), Acevedo (UC); Aceval (CC)
+*   Red Card: Acuña (UC), Pérez (UC)]
 
 *Colo Colo champions
 *NB: Colo Colo qualified for Copa Libertadores as they either win the
 *    Clausura or Católica win both Apertura and Clausura in which case
 *    Colo Colo are best runners-up.
-  
+
+Round: Third Place  
 *Playoff for Third Place Libertadores
 *  [between best classified team regular phase Apertura (Palestino, after
 *   Colo Colo and Católica) and Clausura (Cobreloa)]
 
 *First Leg 
-Date: 12/21/2002
-
-; Palestino           ; 1-2; Cobreloa
+12/21/2002; Palestino           ; 1-2; Cobreloa
   Jaime Rubilar 39; Juan Carlos Madrid 10, Juan Carlos Madrid 17
 
 *Second Leg 
-Date: 12/28/2002
-
-; Cobreloa            ; 0-0; Palestino
+12/28/2002; Cobreloa            ; 0-0; Palestino
 
 *Cobreloa qualified.
 

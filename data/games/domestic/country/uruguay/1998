@@ -1,6 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesu/uru98.html
 Competition: Uruguayan Primera Division
-*Uruguay 1998
 Season: 1998 Apertura
 
 * 1.Nacional          11  9  0  2  32-14  27
@@ -16,7 +15,7 @@ Season: 1998 Apertura
 *11.Danubio           11  3  2  6  11-18  11
 *12.Liverpool         11  2  4  5   7-14  10
 
-Round 1 
+Round: 1 
 *[Mar 14,15]
 Date: 3/14/1998
 
@@ -27,7 +26,7 @@ Date: 3/14/1998
 ; Liverpool  ; 0-0; Rentistas
 4/8/1998; Nacional   ; 7-1; Danubio         
 
-Round 2 
+Round: 2 
 *[Mar 21,22]
 Date: 3/21/1998
 
@@ -38,7 +37,7 @@ Date: 3/21/1998
 ; Wanderers  ; 3-1; Rentistas
 ; Villa Esp. ; 0-1; Bella Vista
 
-Round 3 
+Round: 3 
 *[Mar 28,29]
 Date: 3/28/1998
 
@@ -49,7 +48,7 @@ Date: 3/28/1998
 ; Wanderers  ; 1-1; Bella Vista
 5/2/1998; Liverpool  ; 1-5; Peñarol         
 
-Round 4 
+Round: 4 
 *[Apr 4,5]
 Date: 4/4/1998
 
@@ -60,7 +59,7 @@ Date: 4/4/1998
 ; Rentistas  ; 1-1; Bella Vista
 5/3/1998; Nacional   ; 3-1; Rampla Jrs.     
 
-Round 5 
+Round: 5 
 *[Apr 11,12]
 Date: 4/11/1998
 
@@ -71,7 +70,7 @@ Date: 4/11/1998
 ; River Plate; 1-3; Defensor Sp.
 ; Liverpool  ; 2-1; Danubio
 
-Round 6 
+Round: 6 
 *[Apr 18,19]
 Date: 4/18/1998
 
@@ -82,7 +81,7 @@ Date: 4/18/1998
 ; River Plate; 1-2; Liverpool
 ; Defensor Sp; 1-3; Danubio
 
-Round 7 
+Round: 7 
 *[Apr 25,26]
 Date: 4/25/1998
 
@@ -94,7 +93,7 @@ Date: 4/25/1998
 ; Rentistas  ; 0-0; Defensor Sp.
 ; Danubio    ; 2-1; Villa Esp.
 
-Round 8 
+Round: 8 
 *[May 10]
 Date: 5/10/1998
 
@@ -105,7 +104,7 @@ Date: 5/10/1998
 ; River Plate; 2-3; Bella Vista
 ; Wanderers  ; 0-0; Liverpool
 
-Round 9 
+Round: 9 
 *[May 17]
 Date: 5/17/1998
 
@@ -116,7 +115,7 @@ Date: 5/17/1998
 ; Defensor Sp; 1-0; Wanderers
 ; Liverpool  ; 0-1; Villa Esp.
 
-Round 10 
+Round: 10 
 *[May 30,31]
 Date: 5/30/1998
 
@@ -127,7 +126,7 @@ Date: 5/30/1998
 ; Wanderers  ; 0-0; Danubio
 ; Bella Vista; 1-0; Defensor Sp.
 
-Round 11 
+Round: 11 
 *[Jun 6,7]
 Date: 6/6/1998
 
@@ -168,7 +167,7 @@ Season: 1998 Clausura
 *11.Villa Española    11  2  4  5  13-18  10
 *12.Wanderers         11  0  3  8   8-24   3
 
-Round 1
+Round: 1
 Date: 8/1/1998
 
 ; Defensor Sp; 1-1; Peñarol   
@@ -181,7 +180,7 @@ Date: 8/2/1998
 ; Rampla Jrs.; 1-0; Wanderers  
 ; Rentistas  ; 1-1; Liverpool  
 
-Round 2
+Round: 2
 Date: 8/8/1998
 
 ; Penarol    ; 2-1; Danubio
@@ -194,7 +193,7 @@ Date: 8/9/1998
 ; Rampla Jrs.; 2-0; Liverpool
 ; Rentistas  ; 1-0; Wanderers
 
-Round 3
+Round: 3
 Date: 8/15/1998
 
 ; River Plate; 0-1; Nacional
@@ -207,7 +206,7 @@ Date: 8/16/1998
 ; Danubio    ; 2-2; Huracan B.
 ; Rentistas  ; 1-0; Villa Esp.
 
-Round 4
+Round: 4
 Date: 8/23/1998
 
 ; Rampla Jrs.; 1-2; Nacional
@@ -220,7 +219,7 @@ Date: 8/25/1998
 
 ; Huracan B. ; 2-4; Penarol
 
-Round 5
+Round: 5
 Date: 8/29/1998
 
 ; Nacional   ; 4-1; Wanderers
@@ -233,7 +232,7 @@ Date: 8/30/1998
 ; Danubio    ; 1-0; Liverpool
 ; Defensor Sp; 1-1; River Plate
 
-Round 6 
+Round: 6 
 Date: 9/6/1998
 
 ; Penarol    ; 0-3; Villa Espanola
@@ -246,7 +245,7 @@ Date: 9/7/1998
 ; Danubio    ; 0-0; Defensor Sp
 ; Liverpool  ; 0-3; River Plate
 
-Round 7
+Round: 7
 Date: 9/12/1998
 
 ; Bella Vista; 1-1; Nacional
@@ -259,7 +258,7 @@ Date: 9/13/1998
 ; Huracan B. ; 0-2; Liverpool
 ; Wanderers  ; 1-2; Penarol
 
-Round 8 
+Round: 8 
 Date: 9/19/1998
 
 ; Penarol    ; 0-1; Rentistas 
@@ -269,7 +268,7 @@ Date: 9/19/1998
 ; Liverpool  ; 0-0; Wanderers
 ; Nacional   ; 3-0; Villa Espanola
 
-Round 9 
+Round: 9 
 Date: 9/27/1998
 
 ; Penarol    ; 2-4; Nacional
@@ -279,7 +278,7 @@ Date: 9/27/1998
 ; Bella Vista; 0-1; Danubio
 ; Wanderers  ; 2-2; Defensor Sp
 
-Round 10
+Round: 10
 Date: 10/10/1998
 
 ; Nacional   ; 0-0; Liverpool
@@ -292,7 +291,7 @@ Date: 10/11/1998
 ; Rampla Jrs.; 3-0; Villa Espanola
 ; Defensor Sp; 1-1; Bella Vista
 
-Round 11 
+Round: 11 
 Date: 10/17/1998
 
 ; Penarol    ; 5-0; Rampla Jrs.
@@ -354,25 +353,20 @@ Date: 10/18/1998
 * 2.Peñarol                    82     37    119
 * 1.Nacional                   86     50    136
 
-*Promotion/Relegation Playoffs
-*
+Season: 1998 Promotion/Relegation Playoffs
+
 *First Leg 
-Date: 11/14/1998
+11/14/1998; Maldonado  ; 2-3; Rampla Juniors
+P.Cuello, M.Barceló; F.Fajardo, F. Fajardo, D.Pereira
 
-*Maldonado   2-3 Rampla Juniors
-*  [F.Fajardo(RJ,2), D.Pereira(RJ), P.Cuello(DM), M.Barceló(DM)]
-*
 *Second Leg 
-Date: 11/18/1998
+11/18/1998; Rampla Jrs.; 1-3; Deportivo Maldonado
+G.Matosas; M.Barceló, M.Cortés, M.Affonso
 
-*Rampla Jrs. 1-3 Deportivo Maldonado
-*  [G.Matosas(RJ), M.Barceló(DM), M.Cortés(DM), M.Affonso(DM)]
-*
 *Playoff 
-Date: 11/21, Estadio Centenario/1998
-
-*Rampla Jrs. 1-1 Deportivo Maldonado    [6-5 pen]
-*  [M.Barceló(DM), R.Aguerre(RJ)]
+11/21/1998; Rampla Jrs.; 1-1; Deportivo Maldonado; Estadio Centenerio
+R.Aguerre(RJ); M.Barceló
+Penalty kicks: 6-5
 *  [penalties: 
 *   Pereira, Badell, Pappa, Perdomo, Kanapkis, Aguerre scored for Rampla.
 *   Márcora, Cortés, Giménez, Aldao, Affonso scored for Deportivo.
