@@ -1,10 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesp/peru00.html
-
-Peru 2000
-
-Primera División
-
-Apertura
+Competition: Peruvian Primera División
+Season: 2000 Apertura
 
 * 1. Universitario          22 13  7  2  39-20  46  Apertura Winners
 * 2. Sport Boys             22 11  6  5  36-25  39
@@ -19,19 +15,23 @@ Apertura
 *11. U.P.A.O.               22  4  7 11  24-39  19
 *12. Deportivo Municipal    22  2  6 14  24-48  12
 
-[*] before the season, Deportivo Pesquero moved from Chimbote to Huancayo in order
-    to improve attendances; as this was successful, the team were renamed Deportivo
-    Wanka during the season, to identify with the new location
-  
-Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
+*[*] before the season, Deportivo Pesquero moved from Chimbote to Huancayo in order
+*    to improve attendances; as this was successful, the team were renamed Deportivo
+*    Wanka during the season, to identify with the new location
+*  
+*Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
 
-Round 1 
-[Feb 5]
+Round: 1 
+
+Date: 2/5/2000
+
 Deportivo Municipal 0-1 Cienciano 
   [Luis Molina 77]
 Sporting Cristal    3-1 Alianza Atlético 
   [Julinho 33, Aldo Olcese 79, Carlos Juárez 87; Andrés Gonzales 64]
-[Feb 6] 
+
+Date: 2/6/2000
+
 Melgar FBC          0-0 Universitario
 Unión Minas         2-0 Sport Boys
   [Sergio Godoy 20, 69]
@@ -40,8 +40,10 @@ Deportivo U.P.A.O.  1-1 Juan Aurich
 Alianza Lima        2-2 Deportivo Wanka   
   [David Chévez 10, Paul Cominges 48; Rafael Gallardo 28, 87]
 
-Round 2
-[Feb 13]
+Round: 2
+
+Date: 2/13/2000
+
 Sport Boys          1-0 Sporting Cristal 
   [Germán Muñoz 2]
 Alianza Atlético    2-3 Universitario
@@ -55,29 +57,39 @@ Deportivo Wanka     1-0 Deportivo U.P.A.O.
 Juan Aurich         3-2 Melgar FBC
   [Willy Soto 12, 35, Martín Reyes 44; Jorge Reyes 67, Ernesto Zapata 72pen]
 
-Round 3
-[Feb 18]
+Round: 3
+
+Date: 2/18/2000
+
 Sporting Cristal    2-1 Deportivo Municipal
   [Aldo Olcese 28, Carlos Juárez 80; Nilson Alvarez 11]
 Universitario       2-2 Sport Boys
   [Eduardo Esidio 7, Paolo Maldonado 49; Gustavo Tempone 29, Juan Guzmán 78]
-[Feb 19]
+
+Date: 2/19/2000
+
 Melgar FBC          3-0 Deportivo Wanka   
   [Jorge Reyes 74, 81, Alexis Aguirre 51]
-[Feb 20]
+
+Date: 2/20/2000
+
 Deportivo U.P.A.O.  0-1 Cienciano
   [Pedro Prado 80]
 Juan Aurich         0-0 Alianza Atlético
 Alianza Lima        2-0 Unión Minas 
   [Héctor Sánchez 51pen, 76]
 
-Round 4 
-[Feb 26]
+Round: 4 
+
+Date: 2/26/2000
+
 Deportivo Municipal 1-4 Melgar FBC
   [Carlos Guido 30; Alfredo Carmona 3pen, 67, Aldo Cavero 62, Luis Bello 84]
 Sport Boys          4-0 Alianza Lima
   [Gustavo Tempone 29, James Angulo 60, 72, 77]
-[Feb 27]
+
+Date: 2/27/2000
+
 Alianza Atlético    3-1 Deportivo U.P.A.O.
   [Pedro García 23, 63 Jorge Ramírez 49; Vicente Mesías 28]
 Sporting Cristal    1-1 Juan Aurich
@@ -87,11 +99,15 @@ Universitario       2-1 Cienciano
 Deportivo Wanka     1-1 Unión Minas
   [Ricardo Bravo 53pen; Sergio Godoy 57]
 
-Round 5 
-[Mar 4]
+Round: 5 
+
+Date: 3/4/2000
+
 UPAO                1-0 Sporting Cristal
   [Alberto Ramírez 64]
-[Mar 5]
+
+Date: 3/5/2000
+
 Alianza Lima        0-2 Universitario
   [Paolo Maldonado 29, Eduardo Esidio 59pen]
 Deportivo Municipal 1-1 Juan Aurich
@@ -104,11 +120,15 @@ Union Minas         4-2 FBC Melgar
 Cienciano           2-1 Alianza Atletico
   [Carlos Cumapa 28, William Matamba 53pk; Alejandro Cipriano 82]
 
-Round 6 
-[Mar 11] 
+Round: 6 
+
+Date: 3/11/2000
+
 FBC Melgar          3-1 Sporting Cristal
   [(Aldo Cavero 27, Luis Bello 39, 79; Roberto Holsen 71]
-[Mar 12] 
+
+Date: 3/12/2000
+
 Universitario       2-1 UPAO
   [Carlos Yaqué 16, Fernando del Solar 78; Pedro Ascoy 42]
 Juan Aurich         2-2 Alianza Lima
@@ -121,14 +141,18 @@ Cienciano           1-1 Sport Boys
 Deportivo Wanka     1-0 Deportivo Municipal
   [Luis Hoyos 82]
 
-Round 7 
-[Mar 18]
+Round: 7 
+
+Date: 3/18/2000
+
 Alianza Lima        1-1 FBC Melgar
   [Juan Bazalar 39; Henry Quinteros 41]
 Sporting Cristal    3-0 Union Minas
   [Carlos Juárez 25, 42, 77]
 Universitario       0-0 Deportivo Wanka   
-[Mar 19]
+
+Date: 3/19/2000
+
 Juan Aurich         2-2 Cienciano 
   [Martín Reyes 16, Willy Soto 89; Juan Montenegro 31, Pedro Prado 66]
 Alianza Atletico    2-1 Sport Boys
@@ -137,12 +161,16 @@ UPAO                4-2 Deportivo Municipal
   [Alberto Ramírez 5, Gabriel Rodríguez 47, 68pen, Marco Rivera 71; 
    Alex Magallanes 6 Carlos Guido 18pen]
 
-Round 8 
-[Mar 25]
+Round: 8 
+
+Date: 3/25/2000
+
 Deportivo Municipal 1-5 Universitario
   [Juan Saavedra 50; Gustavo Grondona 36, Carlos Yaqué 51, 70, César Casas 75, 
    Piero Alva 87]
-[Mar 26]
+
+Date: 3/26/2000
+
 Sporting Cristal    0-1 Alianza Lima
   [Héctor Sánchez]
 Sport Boys          1-0 Juan Aurich
@@ -154,13 +182,17 @@ Cienciano           1-2 FBC Melgar
 Deportivo Wanka     1-2 Alianza Atletico
   [Ricardo Bravo 56; Ricardo Zegarra 44, Alejandro Cipriano 52]
 
-Round 9 
-[Apr 1]
+Round: 9 
+
+Date: 4/1/2000
+
 Cienciano           2-2 Sporting Cristal
   [Herly Alcazar 39, 56; Roberto Holsen 7, Carlos Juárez 78]
 UPAO                1-1 Alianza Lima
   [Gabriel Rodríguez 81/ Aristides Rojas 12]
-[Apr 2]
+
+Date: 4/2/2000
+
 Universitario       abd Union Minas         [abd in 18´ at 1-0 after fan got killed
   [Carlos Yaqué 15]                          through rocket thrown by other fan]
 Juan Aurich         1-1 Deportivo Wanka   
@@ -170,15 +202,21 @@ Alianza Atletico    6-2 Deportivo Municipal
    Pedro García 72; Nilson Alvarez 45, 75]
 FBC Melgar          4-0 Sport Boys
   [Aldo Cavero 18, Luis Bello 41, 51, Juan Bazalar 69]
-[Apr 5]
+
+Date: 4/5/2000
+
 Universitario       2-0 Union Minas         [remaining 72 minutes]
   [Eduardo Esidio 54]
 
-Round 10 
-[Apr 7]
+Round: 10 
+
+Date: 4/7/2000
+
 FBC Melgar          2-0 Alianza Atletico
   [Luis Bello 34, 46]
-[Apr 8]
+
+Date: 4/8/2000
+
 Alianza Lima        2-0 Deportivo Municipal
   [Héctor Sánchez 17, Claudio Spontón 35]
 Sport Boys          3-3 UPAO
@@ -186,14 +224,18 @@ Sport Boys          3-3 UPAO
    Fabián Arias 89]
 Union Minas         1-0 Juan Aurich
   [Marco Morachimo 45]
-[Apr 12]
+
+Date: 4/12/2000
+
 Sporting Cristal    3-3 Universitario
   [Manuel Marengo 15, Jorge Soto 19, Roberto Holsen 49; Marko Ciurlizza 3, 
   Eduardo Esidio 34pen, 45]
 Deportivo Wanka     1-3 Cienciano
   [Ricardo Zegarra 10; Carlos Cumapa 11, Herly Alcázar 53, Martín García 68]
 
-Round 11 [Apr 16]
+Round: 11 
+Date: 4/16/2000
+
 Sporting Cristal    3-0 Deportivo Wanka   
   [Carlos Juárez 35, 58, Roberto Holsen 45]
 Deportivo Municipal 0-0 Sport Boys
@@ -206,11 +248,15 @@ Union Minas         2-0 Cienciano
 UPAO                2-1 FBC Melgar
   [Gabriel Rodríguez 67, 75pen; Vladimir Ambuila 23]
 
-Round 12 
-[Apr 22]
+Round: 12 
+
+Date: 4/22/2000
+
 Sport Boys          1-0 Union Minas
   [Johan Fano 43]
-[Apr 23]
+
+Date: 4/23/2000
+
 Universitario       4-2 FBC Melgar
   [Piero Alva 32, Carlos Yaquí 36, Eduardo Esidio 74, 90; Aldo Cavero 52, Jorge Reyes 85]
 Alianza Atletico    1-1 Sporting Cristal
@@ -223,7 +269,7 @@ Alianza Lima        1-0 Deportivo Wanka
 Juan Aurich         1-1 UPAO
   [Martín Reyes 44; Jorge Varillas 55]
 
-Round 13
+Round: 13
 Deportivo Municipal 2-2 Union Minas 
   [Juan Saavedra 53pen, Paulo Zabárbulo 58; Nifflin Bermúdez 1, Nelson Gómez 14]
 Sporting Cristal    0-1 Sport Boys 
@@ -237,13 +283,17 @@ Melgar              3-0 Juan Aurich
 Deportivo UPAO      1-1 Deportivo Wanka    
   [Ricardo Ronceros 35/ Rodrigo Gauna 28]
  
-Round 14
-[May 6]
+Round: 14
+
+Date: 5/6/2000
+
 Deportivo Municipal 0-4 Spirting Cristal
   [Santiago Salazar 25, Carlos Juarez 45, Aldo Olcese 60, 69]
 Union Minas         0-1 Alianza Lima        
   [Ernesto Arakaki 23]
-[May 7]
+
+Date: 5/7/2000
+
 Sport Boys          1-1 Universitario       
   [Germán Munoz 26; Eduardo Esidio 6]
 Alianza Atletico    0-1 Juan Aurich
@@ -253,8 +303,10 @@ Deportivo Wanka     4-2 Melgar
 Cienciano           2-1 UPAO 
   [Oscar Olvera 43, Herly Alcazar 55; Gabriel Rodriguez 62] 
 
-Round 15
-[May 13] 
+Round: 15
+
+Date: 5/13/2000
+
 Cienciano           2-1 Universitario
   [Herly Alcázar 55, Luis Molina 77; Gustavo Grondona 44]
 Alianza Lima        1-0 Sport Boys 
@@ -264,18 +316,24 @@ Deportivo UPAO      1-0 Alianza Atlético
 Melgar              3-2 Deportivo Municipal
   [Jorge Reyes 20, Walter Zeballos 52, Alfredo Carmona 55pen; Jose Valle 35,
    Anthony Matellini 39]
-[May 14]
+
+Date: 5/14/2000
+
 Unión Minas         2-0 Deportivo Wanka    
   [Héctor Valoyes 1, 4]
 Juan Aurich         3-3 Sporting Cristal 
   [Chiquinho 30pen, 57, Hansel Arriaga 45; Marko Okuma 1og, Jorge Soto 46, 
    Aldo Olcese 73pen]
 
-Round 16
-[May 20]
+Round: 16
+
+Date: 5/20/2000
+
 Universitario       2-0 Alianza Lima  
   [Eduardo Esidio 3, Fernando del Solar 61]
-[May 21]
+
+Date: 5/21/2000
+
 Sporting Cristal    8-3 Deportivo UPAO 
   [Carlos Juárez 4, 81 AldoOlcese 9pen, Roberto Holsen 24, Jorge Soto 42, 88pen, 
   Jean Ferrari 48, Daniel Noriega 90; Pedro Ascoy 26, Alberto Ramírez 40pen, 65pen]
@@ -289,7 +347,9 @@ Deportivo Wanka     0-1 Sport Boys
 Juan Aurich         1-0 Deportivo Municipal  
   [Adrián Torres 69]
   
-Round 17 [May 27]
+Round: 17 
+Date: 5/27/2000
+
 UPAO                0-0 Universitario 
 Cristal             0-0 Melgar 
 Alianza Lima        3-1 Juan Aurich 
@@ -301,7 +361,9 @@ Municipal           3-1 Wanka
 Unión Minas         2-0 Alianza Atlético 
   [Wilkin Cavero 46, Jorge Lazo 87]
  
-Round 18 [Jun 11]
+Round: 18 
+Date: 6/11/2000
+
 Deportivo Wanka     1-0 Universitario 
   [Sergio Ibarra 44]
 Melgar              2-0 Alianza Lima
@@ -315,13 +377,17 @@ Cienciano           1-0 Juan Aurich
 Deportivo Municipal 2-0 Deportivo UPAO 
   [Roberto Dolorier 22, Jorge Valle 71]
  
-Round 19
-[Jun 17]
+Round: 19
+
+Date: 6/17/2000
+
 Alianza Lima        0-0 Sporting Cristal
 Deportivo UPAO      0-2 Unión Minas  
   [Rodolfo Miñán 48, Sergio Godoy 67] 
 Melgar              0-0 Cienciano 
-[Jun 18]
+
+Date: 6/18/2000
+
 Alianza Atlético    1-1 Deportivo Wanka     
   [Freddy Medina 18pen; Sergio Ibarra 70pen]
 Universitario       2-1 Deportivo Municipal 
@@ -329,11 +395,15 @@ Universitario       2-1 Deportivo Municipal
 Juan Aurich         0-2 Sport Boys 
   [James Angulo 55, Carlos Flores 83pen]
 
-Round 20 
-[Jun 24]
+Round: 20 
+
+Date: 6/24/2000
+
 Sport Boys          4-2 Melgar 
   [James Angulo 30, 62, 82, Carlos Lobaton 35; Alfredo Carmona 52, Aldo Cavero 69]
-[Jun 25]
+
+Date: 6/25/2000
+
 Union Minas         1-2 Universitario
   [Wilkin Cavero 52; Luis Carranza 86, 90]    
 Sporting Cristal    4-0 Cienciano 
@@ -345,7 +415,9 @@ Deportivo Municipal 1-1 Alianza Atletico
 Deportivo Wanka     1-0 Juan Aurich 
   [Sandro Cavero 29]
  
-Round 21 [Jul 2]
+Round: 21 
+Date: 7/2/2000
+
 Universitario       2-0 Sporting Cristal 
   [Eduardo Esidio 4, Piero Alva 45]
 Deportivo Municipal 1-1 Alianza Lima       
@@ -358,11 +430,15 @@ Juan Aurich         1-1 Union Minas
 UPAO                1-4 Sport Boys        
   [Pedro Ascoy 50; Gustavo Tempone 19, 90, German Muñoz 30, Johan Fano 48]
  
-Round 22
-[Jul 8]
+Round: 22
+
+Date: 7/8/2000
+
 Universitario       1-1 Juan Aurich  
   [Luis Alberto Carranza 12pen; Chiquinho 40pen]
-[Jul 9]
+
+Date: 7/9/2000
+
 Deportivo Wanka     3-1 Sporting Cristal 
   [Ricardo Zegarra 41, Rafael Gallardo 50, Sergio Ibarra 90; Julinho 32]
 Alianza Lima        0-1 Alianza Atletico 
@@ -373,30 +449,28 @@ Cienciano           1-0 Union Minas
   [Carlos Cumapa]
 Melgar              0-0 Deportivo UPAO
  
-Table:
-
- 1. Universitario          22 13  7  2  39-20  46  Apertura Winners
- 2. Sport Boys             22 11  6  5  36-25  39
- 3. Melgar                 22 10  6  6  39-27  36
- 4. Cienciano              22 10  6  6  31-30  36
- 5. Alianza Lima           22  9  7  6  23-22  34
- 6. Unión Minas            22 10  3  9  28-23  33
- 7. Alianza Atlético       22  8  6  8  28-27  30
- 8. Sporting Cristal       22  7  7  8  40-31  28
- 9. Deportivo Wanka        22  6  6 10  21-32  24  [*]
-10. Juan Aurich            22  3 11  8  21-30  20
-11. U.P.A.O.               22  4  7 11  24-39  19
-12. Deportivo Municipal    22  2  6 14  24-48  12
-
-[*] before the season, Deportivo Pesquero moved from Chimbote to Huancayo in order
-    to improve attendances; as this was successful, the team were renamed Deportivo
-    Wanka during the season, to identify with the new location
-
-Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
-
-
-Clausura
-
+* 1. Universitario          22 13  7  2  39-20  46  Apertura Winners
+* 2. Sport Boys             22 11  6  5  36-25  39
+* 3. Melgar                 22 10  6  6  39-27  36
+* 4. Cienciano              22 10  6  6  31-30  36
+* 5. Alianza Lima           22  9  7  6  23-22  34
+* 6. Unión Minas            22 10  3  9  28-23  33
+* 7. Alianza Atlético       22  8  6  8  28-27  30
+* 8. Sporting Cristal       22  7  7  8  40-31  28
+* 9. Deportivo Wanka        22  6  6 10  21-32  24  [*]
+*10. Juan Aurich            22  3 11  8  21-30  20
+*11. U.P.A.O.               22  4  7 11  24-39  19
+*12. Deportivo Municipal    22  2  6 14  24-48  12
+*
+*[*] before the season, Deportivo Pesquero moved from Chimbote to Huancayo in order
+*    to improve attendances; as this was successful, the team were renamed Deportivo
+*    Wanka during the season, to identify with the new location
+*
+*Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
+*
+*
+*Season: 2000 Clausura
+*
 * 1. Universitario          22 17  3  2  55-23  54  Clausura Winners
 * 2. Sporting Cristal       22 15  5  2  48-24  50
 * 3. Cienciano              22 10  5  7  47-28  35
@@ -416,7 +490,9 @@ Clausura
 
 Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
 
-Round 1 [Jul 23]
+Round: 1 
+Date: 7/23/2000
+
 Cristal             1-1 Alianza Atletico 
   [Roberto Silva 90; Carlos Zegarra 69]
 Municipal           1-1 Cienciano 
@@ -430,7 +506,9 @@ Union Minas         2-2 Sport Boys
 UPAO                1-1 Juan Aurich 
   [Fabian Arias 57; Christian Sotomayor 71]
 
-Round 2 [Jul 30]
+Round: 2 
+Date: 7/30/2000
+
 Cienciano           2-0 Alianza Lima  
   [Luis Bonnet 11, 32]
 Deportivo Wanka     2-0 UPAO 
@@ -444,13 +522,17 @@ Sport Boys          0-1 Sporting Cristal
 Alianza Atletico    1-1 Universitario  
   [Andres Gonzalez 81; Eduardo Esidio 37pen]
 
-Round 3 
-[Aug 5]
+Round: 3 
+
+Date: 8/5/2000
+
 Sporting Cristal    3-2 Municipal
   [Jorge Soto 26, Palinha 44, Erick Torres 67; Gabriel Rodriguez 60, Anthony Matellini 78]
 Universitario       3-1 Sport Boys
   [Eduardo Esidio 11, 86, Piero Alva 62; Gustavo Tempone 47]
-[Aug 6] 
+
+Date: 8/6/2000
+
 Juan Aurich         1-5 Alianza Atlético
   [Luis Carpio 35; Carlos Zegarra 27, 36, Alejandro Cipriano 30, Pedro García 59, 
    Marco Salinas 68]
@@ -461,13 +543,17 @@ Melgar              4-0 Deportivo Wanka
 UPAO                0-2 Cienciano  
   [Luis Bonnet 20, 24] 
 
-Round 4 
-[Aug 12]
+Round: 4 
+
+Date: 8/12/2000
+
 Universitario       2-1 Cienciano 
   [Eduardo Esidio 23, 40; Luis Bonnet 35]
 Sport Boys          2-2 Alianza Lima 
   [Guillermo Salas 48, James Angulo 51; Roberto Holsen 38, 58]
-[Aug 13]
+
+Date: 8/13/2000
+
 Sporting Cristal    1-0 Juan Aurich  
   [Javier Soria 44]
 Alianza Atletico    1-2 UPAO 
@@ -476,11 +562,15 @@ Deportivo Municipal 1-0 Melgar
   [Edward Mafla 14]
 Deportivo Wanka     0-0 Union Minas 
 
-Round 5 
-[Aug 19]
+Round: 5 
+
+Date: 8/19/2000
+
 Universitario       1-0 Alianza Lima 
   [Eduardo Esidio 63]
-[Aug 20]
+
+Date: 8/20/2000
+
 Sporting Cristal    1-0 UPAO 
   [Roberto Silva 37]
 Cienciano           5-0 Alianza Atletico 
@@ -492,7 +582,9 @@ Deportivo Municipal 1-3 Aurich
 Sport Boys          2-0 Deportivo Wanka
   [Gustavo Tempone 42, Johny Vegas 65pen]
 
-Round 6 [Aug 27]
+Round: 6 
+Date: 8/27/2000
+
 Universitario       5-0 UPAO 
   [Eduardo Esidio 3pen, 46, 88 Piero Alva 74, 85]
 Melgar              1-2 Sporting Cristal  
@@ -507,24 +599,32 @@ Deportivo Wanka     4-1 Deportivo Municipal
   [Rafael Gallardo 34, Ricardo Zegarra 52, Sergio Ibarra 56, Miguel Ortega 86;
    Roberto Valenzuela 17]
  
-Round 7
-[Sep 2]
+Round: 7
+
+Date: 9/2/2000
+
 Juan Aurich         0-0 Cienciano
 Alianza Lima        4-1 Melgar
   [Roberto Holsen 17pen, 89, Jackson 62, David Chévez 68; Paulo César Cruvinel 81]
-[Sep 6]
+
+Date: 9/6/2000
+
 Alianza Atletico    2-1 Sport Boys 
   [Alejandro Cipriano 47, Alex Becerra 72; Alonso Alcíbar 23]
 Sporting Cristal    4-2 Union Minas 
   [Waldir Sáenz 11, 73, 81, Erick Torres 34; Pedro Ascoy 74, Nelson Gómez 84]
 UPAO                0-0 Deportivo Municipal 
-[Sep 8]
+
+Date: 9/8/2000
+
 Universitario       6-2 Deportivo Wanka
   [Bica 1, Gregorio Bernales 22, Marko Ciurlizza 45, Piero Alva 47, 69, 80;
    Sergio Ibarra 34, Sandro Cavero 50] 
 
-Round 8
-[Sep 10]
+Round: 8
+
+Date: 9/10/2000
+
 Sport Boys          2-1 Juan Aurich  
   [Alonso Alcibar 11, James Angulo 32; Chiquinho 4]
 Sporting Cristal    1-1 Alianza Lima  
@@ -535,11 +635,15 @@ Deportivo Wanka     2-0 Alianza Atlético
   [Sergio Ibarra 54, 68]
 Cienciano           5-2 Melgar
   [Luis Bonnet 1, 45, 46, 55, 62; Paulo Cruvinel 50pen, 90pen]
-[Sep 13]
+
+Date: 9/13/2000
+
 Deportivo Municipal 1-2 Universitario  
   [Edward Mafla 27; Gregorio Bernales 21, Eduardo Esidio 82pen]
  
-Round 9 [Sep 17]
+Round: 9 
+Date: 9/17/2000
+
 Alianza Atlético    3-2 Deportivo Municipal  
   [Alejandro Cipriano 5, 12, Pedro Garcia 55; Roberto Valenzuela 25pen, Ernesto Zapata 52] 
 Unión Minas         2-1 Universitario  
@@ -553,12 +657,16 @@ Cienciano           3-1 Sporting Cristal
 UPAO                1-5 Alianza Lima
   [Adrian Torres 80; Roberto Holsen 36, 50, 76, Luis Hernandez 41, Henry Quinteros 58]
  
-Round 10
-[Sep 23]
+Round: 10
+
+Date: 9/23/2000
+
 Alianza Lima        0-0 Deportivo Municipal 
 Sport Boys          4-0 UPAO
   [German Muñoz 22, James Angulo 53, Gustavo Tempone 71, Johan Fano 87]
-[Sep 24]
+
+Date: 9/24/2000
+
 Sporting Cristal    2-2 Universitario 
   [Waldir Saenz 35, Frank Rojas 50; Eduardo Esidio 38, Piero Alva 45]
 Union Minas         3-1 Juan Aurich
@@ -568,7 +676,9 @@ Melgar              3-1 Alianza Atletico
 Deportivo Wanka     2-0 Cienciano 
   [Sergio Ibarra 17, Miguel Ortega 43]
  
-Round 11 [Sep 30, Oct 1]
+Round: 11 
+Date: 9/30, Oct 1/2000
+
 Alianza Atletico    3-2 Alianza Lima 
   [Ronald Martinez 42, Andres Gonzales 49, Carlos Zegarra 73; Walter Rojas 75,
    Roberto Holsen 76]
@@ -582,7 +692,9 @@ Union Minas         1-1 Cienciano
 Sporting Cristal    1-0 Deportivo Wanka
   [Jorge Huaman 91]
 
-Round 12 [Oct 10,11]
+Round: 12 
+Date: 10/10,11/2000
+
 Alianza Atletico    1-2 Sporting Cristal
   [Andres Gonzales 70; Roberto Silva 52, Roberto Silva 74]
 Cienciano           4-0 Municipal
@@ -598,7 +710,7 @@ Sport Boys          awd Union Minas
   [awarded 2-0; abandoned at 1-1 in 44' after protests against decision to retake (missed)
    penalty Sport Boys resulted in 3 red cards for Minas, who walked off]
 
-Round 13
+Round: 13
 Alianza Lima        2-1 Cienciano 
   [Roberto Holsen 44, Anthony Jackson 56; Roger Serrano 81]
 UPAO                3-1 Deportivo Wanka  
@@ -613,11 +725,15 @@ Sporting Cristal    2-1 Sport Boys
 Universitario       2-0 Alianza Atletico
   [Eduardo Esidio 17, 67]
 
-Round 14 
-[Oct 21]
+Round: 14 
+
+Date: 10/21/2000
+
 Municipal           0-4 Sporting Cristal
   [Roberto Silva 2, 40, Jorge soto 6, David Soria 84]
-[Oct 22]
+
+Date: 10/22/2000
+
 Sport Boys          0-2 Universitario     
   [Jorge Araujo 10, Giuliano Portilla 65]
 Alianza Atletico    2-1 Juan Aurich  
@@ -630,12 +746,16 @@ Cienciano           2-0 UPAO
 Deportivo Wanka     1-0 Melgar
   [Miguel Ortega 51]
 
-Round 15
-[Oct 28]
+Round: 15
+
+Date: 10/28/2000
+
 Alianza Lima        0-0 Sport Boys
 Melgar              1-0 Municipal
   [Gerson Paz 50]
-[Oct 29]
+
+Date: 10/29/2000
+
 Juan Aurich         0-7 Sporting Cristal
   [Palinha 3, 12, 27, Roberto Silva 34, Daniel Noriega 74, 75, Jorge Soto 79]
 Cienciano           2-3 Universitario
@@ -645,7 +765,9 @@ Union Minas         0-1 Deportivo Wanka
 UPAO                2-4 Alianza Atletico
   [Fabián Arias 61, Ricardo Lara 84; Pedro Garcia 29, 68, 92, Jorge Ramírez 75]
 
-Round 16 [Nov 1]
+Round: 16 
+Date: 11/1/2000
+
 Universitario       4-1 Alianza Lima
   [Gustavo Grondona 28, Eduardo Esidio 34, 75, Piero Alva 42; Henry Quinteros 45]
 Juan Aurich         3-2 Municipal
@@ -660,7 +782,9 @@ Sporting Cristal    4-2 UPAO
   [David Soria 56, 70, Roberto Silva 66, Jorge Soto 86; Vicente Mesias 63,
    Humberto Delgado 90]
 
-Round 17 [Nov 4,5]
+Round: 17 
+Date: 11/4,5/2000
+
 Sporting Cristal    1-1 Melgar  
   [Roberto Silva 30; Paulo Cruvinel 79]
 Deportivo Municipal 5-4 Deportivo Wanka 
@@ -676,7 +800,9 @@ UPAO                2-3 Universitario
   [Fabian Arias 50, Rodrigo Saraz 61; Gustavo Grondona 12, Edson Domínguez 31, 
    Gregorio Bernales 48]
 
-Round 18 [Nov 11,12]
+Round: 18 
+Date: 11/11,12/2000
+
 Union Minas         1-2 Sporting Cristal 
    [Pedro Ascoy 81; Jean Ferrari 45, Jorge Soto 72]
 Universitario       0-0 Deportivo Wanka
@@ -689,7 +815,9 @@ Cienciano           7-1 Juan Aurich
 Melgar              2-0 Alianza Lima 
   [Alfonso Dulanto 7, Gerson Paz 82]
 
-Round 19 [Nov 18,19]
+Round: 19 
+Date: 11/18,19/2000
+
 Universitario       3-1 Municipal  
   [Gustavo Grondona 30, 73, Gregorio Bernales 85; Nilson Alvarez 48]
 Juan Aurich         0-1 Sport Boys
@@ -703,7 +831,9 @@ Alianza Lima        1-2 Sporting Cristal
 UPAO                3-2 Union Minas 
   [Fabian Arias 50, 54, Juan Saavedra 78; Jose Luque 26, Pedro Ascoy 56]
 
-Round 20 [Nov 25,26]
+Round: 20 
+Date: 11/25,26/2000
+
 Universitario       2-0 Union Minas 
   [Eduardo Esidio 45, 56]
 Sporting Cristal    3-2 Cienciano 
@@ -717,7 +847,9 @@ Deportivo Wanka     4-0 Juan Aurich
 Alianza Lima        1-1 UPAO 
   [Roberto Holsen 45; Humberto Delgado 13]
 
-Round 21 [Dec 2,3]
+Round: 21 
+Date: 12/2,3/2000
+
 Universitario       3-2 Sporting Cristal  
   [Eduardo Esidio 4, Gregorio Bernales 14, Giuliano Portilla 84; Martín Hidalgo 51,
    Frank Rojas 90]
@@ -733,7 +865,9 @@ Juan Aurich         4-2 Union Minas
 UPAO                0-3 Sport Boys      
   [Alonso Alcíbar 39, 55, Carlos Lobaton 58]
 
-Round 22 [Dec 8]
+Round: 22 
+Date: 12/8/2000
+
 Sport Boys          0-0 Municipal
 Melgar              2-1 UPAO
   [Leonardo Uehara 86, Marco Valencia 90; Juan Saavedra 29]
@@ -790,11 +924,15 @@ Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
  
 Universitario champions 2000 by both winning Apertura and Clausura
 
-Second Place Playoff [Dec 12]
+Second Place Playoff 
+Date: 12/12/2000
+
 Sporting Cristal    2-1 Sport Boys
   [Roberto Silva, Martin Hidalgo; Carlos Lobaton]
 
-Promotion/Relegation Playoff [Dec 13]
+Promotion/Relegation Playoff 
+Date: 12/13/2000
+
 UPAO                3-1 Aviación F.A.P.
   [Rodrigo Saraz 31, Nestor Mordini 76; Jerry Tamashiro 78]
 

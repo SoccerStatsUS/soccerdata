@@ -1,9 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesb/bol00.html
-
-Bolivia 2000
-
-
-Torneo Apertura 
+Competition: Liga de Fútbol Profesional Boliviano
+Season: 2000 Apertura
 
 * 1.Jorge Wilstermann       22 14  2  6 36-20 44  Apertura Winners
 * 2.Guabirá                 22 12  2  8 39-35 38 
@@ -18,7 +15,7 @@ Torneo Apertura
 *11.Real Santa Cruz         22  5  5 12 31-43 20
 *12.Unión Central           22  4  7 11 19-28 19
 
-Round 1 
+Round: 1 
 [Feb 5] 
 Blooming                1-0 Atletico Pompeya 
   [J. Blandon 81] 
@@ -35,7 +32,7 @@ Union Central           0-2 Bolivar
 Wilstermann             2-0 Oriente Petrolero
   [G. Galindo 29, 39]
   
-Round 2 
+Round: 2 
 [Feb 12] 
 Mariscal Braun          2-2 Oriente Petrolero
   [F. De Oliveira 19, S. Netto 26; J. Vaca 47, R. Suarez 61] 
@@ -51,7 +48,7 @@ Bolivar                 1-4 Independiente Petrolero
 Guabira                 4-0 Real Potosi
   [S. Castillo 33, M. Ceballos 55, 66, L. Paz 72] 
   
-Round 3 
+Round: 3 
 [Feb 16]
 Atletico Pompeya        0-0 Real Santa Cruz
 Blooming                5-2 Mariscal Braun
@@ -67,7 +64,7 @@ Bolivar                 2-1 Guabira
 Independiente Petrolero 2-2 The Strongest
   [D. Sanchez 36, 79; D. Delfino 52, J. Rios 90]
 
-Round 4 
+Round: 4 
 [Feb 19]
 The Strongest           4-0 Guabira 
   [D. Delfino 55, R. Gutierrez 64, O. Sanchez 74, V. Gonzales 87]
@@ -83,7 +80,7 @@ Union Central           0-1 Blooming
 Wilstermann             3-0 Mariscal Braun
   [J. Gonzales 58, L. Ramos 71, G. Galindo 87]
 
-Round 5 
+Round: 5 
 [Feb 26]
 Real Santa Cruz         5-1 Mariscal Braun
   [E. Monteiro 7, 62, A. Audamas 34, R. Paniagua 42, W. Añez 48; M. Cominges 90]
@@ -99,7 +96,7 @@ Guabira                 2-2 Oriente Petrolero
 Union Central           1-1 Wilstermann
   [F. Calustro 90; D. Eterovic 8]
 
-Round 6 
+Round: 6 
 [Mar 11]
 Mariscal Braun          4-1 Guabira
   [F. De Oliveira 28, 82, C. Alves 32, R. Torrico 45; F. Vieira 69]
@@ -117,7 +114,7 @@ Independiente Petrolero 4-3 Union Central
   [D. Sanchez 3, 81, R. Castro 33, M. Tomas 86; M. Angulo 31, 73,
    R. Santana 90]
 
-Round 7
+Round: 7
 [Mar 18]
 Bolivar                 3-0 Mariscal Braun
   [J. Botero 13, J. Baldivieso 24, L. Ribeiro 89]
@@ -135,7 +132,7 @@ Independiente Petrolero 0-1 Wilstermann
 Blooming                1-3 The Strongest
   [G. Paredes 82; D. Delfino 50, V. Gonzales 68, R. Rojas 86]
 
-Round 8 
+Round: 8 
 [Apr 1]
 Mariscal Braun          5-1 Atletico Pompeya
   [C. Alves 7, 62, M. Blanco 45, F. De Oliveira 80, H. Soliz 87; A. Cuellar 85]
@@ -150,7 +147,7 @@ The Strongest           3-1 Union Central
 Real Potosi             1-0 Independiente Petrolero
   [A. Jara 32]
 
-Round 9 
+Round: 9 
 [Apr 8]
 Mariscal Braun          2-1 Union Central
   [F. De Oliveira 7, R. Torrico 90; J. Albornoz 42]
@@ -168,7 +165,7 @@ Wilstermann             2-1 Bolivar
 The Strongest           4-0 Real Potosi
   [P. Colque 48, 57, B. Suarez 51, 76]
                      
-Round 10 
+Round: 10 
 [Apr 15]
 Atletico Pompeya        4-1 Bolivar 
   [N. Rivero 44, E. Silva 46, D. Sanchez 71, H. Ruiz 81; D. Peña 26]
@@ -182,7 +179,7 @@ Blooming                0-0 Guabira
 The Strongest           0-1 Wilstermann
   [C. Cardenas 9]  [protest of Strongest against fielding of Tito Ortiz by Wilstermann]
 
-Round 11
+Round: 11
 [Apr 29]
 Real Santa Cruz         2-1 Independiente Petrolero
   [H. Chiorazzo 54, 73; J. Farah 62]
@@ -198,7 +195,7 @@ Guabira                 1-0 Union Central
 Oriente Petrolero       3-2 The Strongest
   [R. Suarez 4, M. Coimbra 40, W. Escalante 70; B. Suarez 29, D. Delfino 41]
 
-Round 12
+Round: 12
 [May 3]
 Atletico Pompeya        2-2 Blooming
   [N. Rivero 27, Y. Rocha 80; V. Antelo 21, 50]
@@ -215,7 +212,7 @@ Real Santa Cruz         3-0 Real Potosi
 Bolivar                 3-2 Union Central
   [I. Castillo 35, 37, J. Botero 63; F. Calustro 53, L. Vargas 58]
 
-Round 13 [May 7]
+Round: 13 [May 7]
 Wilstermann             4-1 Blooming
   [C. Cardenas 7, 69, R. Alves 40, J. Ortiz 75; R. Gutierrez 24]
 Union Central           1-1 Atletico Pompeya
@@ -229,7 +226,7 @@ The Strongest           5-0 Real Santa Cruz
 Oriente Petrolero       1-0 Mariscal Braun
   [M. Coimbra 23]
 
-Round 14 
+Round: 14 
 [May 10]
 Mariscal Braun          1-2 Wilstermann
   [F. De Oliveira 46; C. Cardenas 6, 36]
@@ -247,7 +244,7 @@ Bolivar                 1-2 Real Potosi
   [A. Lozano 22; A. Jara 74, 84]  [protest of Bolivar due to Potosi fielding 5
    foreigners after substitution]
                  
-Round 15 
+Round: 15 
 [May 13]
 Mariscal Braun          3-1 Real Santa Cruz
   [F. De Oliveira 10, 46, 73; O. Ozzan 90]
@@ -263,7 +260,7 @@ The Strongest           1-3 Bolivar
 Oriente Petrolero       3-0 Guabira
   [L. Camacho 3, M. Coimbra 42, 50]
 
-Round 16 
+Round: 16 
 [May 17]
 Atletico Pompeya        1-0 The Strongest   
   [A. Cuellar 10] 
@@ -280,7 +277,7 @@ Union Central           0-0 Independiente
 Bolivar                 3-0 Oriente Petrolero
   [J. Botero 46, 90, R. Garcia 61]
 
-Round 17
+Round: 17
 [May 20]
 Mariscal Braun          2-1 Bolivar  
   [S. Netto 62, F. De Oliveira 81; D. Cuellar 2]
@@ -296,7 +293,7 @@ The Strongest           3-1 Blooming
 Wilstermann             4-0 Independiente
   [R. Alves 30, G. Galindo 48, 54, S. Lima 58]
 
-Round 18
+Round: 18
 [May 24]
 Atletico Pompeya        0-1 Mariscal Braun
   [F. De Oliveira 40]
@@ -312,7 +309,7 @@ Independiente Petrolero 3-0 Real Potosi
 Bolivar                 4-2 Real Santa Cruz
   [J. Botero 7, 45, M. Mercado 52, A. Peña 62; J. Mendez 20, O. Ozzan 87]
                         
-Round 19
+Round: 19
 [Jun 10]
 Mariscal Braun          4-0 Blooming
   [F. De Oliveira 15, 24, S. Netto 33, M. Cominges 88]
@@ -327,7 +324,7 @@ The Strongest           1-2 Independiente
 Wilstermann             1-0 Real Potosi 
   [W. Arevalo 60]
 
-Round 20 
+Round: 20 
 [Jun 17]
 Independiente Petrolero 3-2 Oriente Petrolero
   [O. Gonzales 21, 39, J. Villarroel 90; M. Coimbra 59, R. Uriona 89]
@@ -343,7 +340,7 @@ Union Central           1-0 Mariscal Braun
 Real Potosi             1-1 The Strongest
   [N. Calderon 23; B. Vaca o.g. 12]
 
-Round 21 
+Round: 21 
 [Jul 1]
 Mariscal Braun          3-1 Independiente Petrolero
   [R. Torrico 14, E. Peña 33, W. Cortez 60; J. Villarroel 75]
@@ -358,7 +355,7 @@ Guabira                 3-1 Blooming
 Bolivar                 4-0 Atletico Pompeya
   [R. Cueto 9, 90, A. Peña 50, A. Lozano 55] 
 
-Round 22
+Round: 22
 [Jun 25]
 Independiente Petrolero 2-0 Real Santa Cruz  
   [T. Gutierrez 35, Nene 38]
@@ -389,8 +386,7 @@ The Strongest           5-1 Oriente Petrolero
 *12.Unión Central           22  4  7 11 19-28 19
 
 
-
-Torneo Clausura 
+Season: 2000 Clausura
 
 * 1.Oriente Petrolero       22 14  3  5 42-24 45  Clausura Winners
 * 2.The Strongest           22 14  1  7 45-30 43  Copa Libertadores Playoff
@@ -405,7 +401,7 @@ Torneo Clausura
 *11.Independiente Petrolero 22  6  3 13 32-48 21
 *12.Atlético Pompeya        22  5  2 15 19-46 17
 
-Round 1 
+Round: 1 
 [Aug 5] 
 Oriente Petrolero       2-3 Guabira
   [L. Libermann 76, J. Castillo 78; S. Castillo 38, M. Ceballos 40, 58]
@@ -423,7 +419,7 @@ Wilstermann             4-3 Bolivar
   [C. Cardenas 16, 83, G. Galindo 28, E. Olivares 40; 
    R. Cueto 33, 58, J. Baldivieso 90] 
 
-Round 2
+Round: 2
 [Aug 19]
 Real Santa Cruz         2-0 Atletico Pompeya
   [W. Añez (2)] 
@@ -440,7 +436,7 @@ Real Potosi             2-1 Mariscal Braun
 Wilstermann             2-2 Oriente 
   [P. Guiberguis 55, W. Arevalo 64; G. Merlo 38, R. Torrez 57] 
 
-Round 3
+Round: 3
 [Aug 23]
 Atletico Pompeya        2-0 Bolivar
   [A. Cuellar 72, 90] 
@@ -456,7 +452,7 @@ Union Central           2-0 Wilstermann
 Mariscal Braun          4-1 Real Santa Cruz
   [F. De Oliveira 35, G. Romanello 54, 62, G. Diaz 88; H. Chiorazzo 31]
 
-Round 4
+Round: 4
 [Sep 5]
 Blooming                3-0 Independiente      
   [C. Couceiro, J. Loayza, R. Correa] 
@@ -472,7 +468,7 @@ Union Central           2-2 Oriente
 Wilstermann             3-0 Atletico Pompeya   
   [R. Galindo 2, C. Cardenas]
 
-Round 5
+Round: 5
 [Sep 9]
 Mariscal Braun          3-1 Wilstermann 
   [D. Bengolea o.g., S. Netto 2; P. Guiberguis]
@@ -487,7 +483,7 @@ Oriente                 3-1 Blooming
 The Strongest           2-0 Bolivar 
   [D. Delfino, R. Rojas]
 
-Round 6 [Sep 17]
+Round: 6 [Sep 17]
 Atletico Pompeya        1-3 Oriente   
   [H. Ruiz; J. Vaca, R. Suarez 2]
 Bolivar                 2-0 Guabira    
@@ -501,7 +497,7 @@ Union Central           2-0 Mariscal Braun
 Wilstermann             2-0 The Strongest 
   [E. Olivares, C. Cardenas]
 
-Round 7 
+Round: 7 
 [Sep 20]
 Guabira                 2-0 Wilstermann 
   [M. Ceballos, L. Paz]
@@ -517,7 +513,7 @@ Blooming                2-0 Real Santa Cruz
 The Strongest           3-0 Union Central 
   [H. Chavez, V. Gonzales, D. Delfino]
 
-Round 8 
+Round: 8 
 [Sep 23]
 Mariscal Braun          3-1 Oriente    
   [W. Cortez, G. Romanello 2; W. Escalante]
@@ -533,7 +529,7 @@ Union Central           1-0 Guabira
 Wilstermann             3-1 Independiente     
   [D. Bengolea, C. Angulo, R. Medeiros; J. Grass]                        
 
-Round 9 [Oct 15]
+Round: 9 [Oct 15]
 Blooming                1-0 Wilstermann     
   [D. Cabrera] 
 Guabira                 4-1 Atletico Pompeya  
@@ -546,7 +542,7 @@ Real Potosi             3-0 Bolivar
 The Strongest           2-1 Mariscal Braun
   [C. Duran, D. Delfino; F. Zabala]
 
-Round 10
+Round: 10
 [Oct 18]
 Atletico Pompeya        7-1 Independiente
   [E. Parada, R. Rivera, Y. Rocha, E. Silva, A. Quinteros, A. Cuellar,
@@ -562,7 +558,7 @@ Wilstermann             2-1 Real Potosi
 Real Santa Cruz         1-0 Bolivar 
   [J. Zapata]
 
-Round 11 [Oct 22]
+Round: 11 [Oct 22]
 Atletico Pompeya        0-1 Blooming
   [R. Ribera] 
 Bolivar                 0-2 Oriente 
@@ -576,7 +572,7 @@ Real Potosi             4-1 Union Central
 Real Santa Cruz         2-1 Wilstermann 
   [H. Chiorazzo 2; M. Soria]
 
-Round 12
+Round: 12
 [Oct 25]
 Blooming                1-0 Mariscal Braun
   [L. Gutierrez] 
@@ -592,7 +588,7 @@ Real Potosi             3-0 Atletico Pompeya
 Real Santa Cruz         0-3 Union Central 
   [M. Ardaya, F. Farah 2]
 
-Round 13
+Round: 13
 [Oct 28]
 Mariscal Braun          1-1 Real Potosi
   [G. Romanello; A. Jara]
@@ -607,7 +603,7 @@ The Strongest           1-0 Blooming
 Union Central           1-2 Bolivar 
   [R. Santana; R. Cueto, J. Botero]
 
-Round 14
+Round: 14
 [Nov 1]
 Blooming                2-2 Guabira 
   [L. Gutierrez 2; M. Ceballos, L. Paz]
@@ -623,7 +619,7 @@ Wilstermann             4-2 Union Central
 Real Santa Cruz         4-1 Mariscal Braun 
   [E. Monteiro, H. Chiorazzo 3; G. Romanello]
                         
-Round 15
+Round: 15
 [Nov 4]
 Mariscal Braun          2-2 Bolivar
   [S. Netto, F. De Oliveira; M. Sandy, R. Cueto] 
@@ -639,7 +635,7 @@ Oriente                 3-1 Union Central
 The Strongest           5-2 Real Santa Cruz 
   [D. Delfino, O. Sanchez, V. Gonzales, D. Vaca, A. Alvarez; H. Chiorazzo 2]
 
-Round 16
+Round: 16
 [Nov 18]
 Real Santa Cruz         2-2 Guabira
   [J. Mendez, E. Monteiro; M. Ribeiro; L. Paz]
@@ -655,7 +651,7 @@ Union Central           2-0 Atletico Pompeya
 Wilstermann             4-0 Mariscal Braun   
   [C. Cardenas 2, M. Carballo, L. Ramos]
 
-Round 17
+Round: 17
 [Nov 22]
 Blooming                4-0 Real Potosi
   [S. Joao 2, L. Gutierrez, D. Cabrera] 
@@ -671,7 +667,7 @@ Oriente                 3-0 Atletico Pompeya
 The Strongest           3-1 Wilstermann 
   [D. Delfino, V. Gonzales 2; M. Carballo]
                         
-Round 18 [Nov 26]
+Round: 18 [Nov 26]
 Atletico Pompeya        0-0 Mariscal Braun 
 Bolivar                 3-1 Independiente 
   [A. Lozano, R. Cueto, J. Botero; O. Gonzales]
@@ -684,7 +680,7 @@ Union Central           1-2 The Strongest
 Wilstermann             2-1 Guabira 
   [C. Cardenas, G. Galindo; M. Ceballos]
                          
-Round 19 [Dec 3]
+Round: 19 [Dec 3]
 Blooming                2-0 Bolivar
   [C. Couceiro, J. Loayza] 
 Guabira                 7-0 Union Central
@@ -698,7 +694,7 @@ Real Potosi             2-0 Real Santa Cruz
 The Strongest           4-0 Atletico Pompeya 
   [D. Vaca 2, D. Delfino 2]
 
-Round 20 [Dec 6]
+Round: 20 [Dec 6]
 Atletico Pompeya        0-1 Guabira 
   [M. Ribeiro]
 Bolivar                 2-1 Real Potosi 
@@ -712,7 +708,7 @@ Union Central           2-0 Independiente
 Wilstermann             1-0 Blooming 
   [M. Soria]
 
-Round 21
+Round: 21
 [Dec 9]
 Mariscal Braun          6-2 Guabira 
   [R. Torrico, S. Netto 4, C. Alves; M. Ligori, F. Alba]
@@ -729,7 +725,7 @@ Blooming                2-3 Union Central
 Oriente                 1-0 The Strongest 
   [L. Camacho]
 
-Round 22 
+Round: 22 
 [Dec 14]
 Mariscal Braun          1-0 Independiente 
   [S. Netto]

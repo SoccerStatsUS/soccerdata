@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesb/bol06.html
-
-Bolivia 2006
+Competition: Liga de Fútbol Profesional Boliviano
+Season: 2006 Apertura
 
 *NB: originally a Clausura 2006 as part of the 2005/06 season was
 *    planned for the first half of 2006 but eventually Bolivia
@@ -23,7 +23,7 @@ Bolivia 2006
 *11.Aurora                     22  3  8 11 22-40 17
 *12.La Paz FC                  22  3  6 13 24-42 15
 
-Round 1 
+Round: 1 
 [Feb 11]
 Destroyers             1-1 Jorge Wilstermann
   [Carlos Eduardo Vargas 76; Ze Carlos Gomes 80]
@@ -43,7 +43,7 @@ La Paz FC              4-3 Unión Central
   [Adhemar Arias 41pen, 59, William Edgar Viscarra 61,
    Raul Bernardo Aguirre 89; Gustavo Adolfo Paz 24, Ruben Gonzalez 33, 51]
 
-Round 2 
+Round: 2 
 [Feb 18]
 Real Potosí            4-0 Blooming
   [Carlos Eduardo Monteiro 29, 36, Christiano Alfredo Jara 49,
@@ -63,7 +63,7 @@ Oriente Petrolero      3-3 Jorge Wilstermann
 Unión Central          1-1 The Strongest
   [Daniel Cicogna 2; Diego Cabrera 40]
 
-Round 3
+Round: 3
 [Mar 4]
 The Strongest          0-2 Universitario Sucre
   [Ezequiel Rodriguez 42, Marcelo Gomez 90]
@@ -81,7 +81,7 @@ Blooming               3-1 Aurora
   [German Real 8, Dimas Roberto Da Silva 57, Joselito Vaca 88;
    Limberg Morejon 53pen]
 
-Round 4 
+Round: 4 
 [Mar 11]
 Universitario Sucre    2-2 Jorge Wilstermann
   [Alberto Rodriguez 6, Marcelo Ramon Ceballos 90; Ivan Alvarez 51,
@@ -99,7 +99,7 @@ Bolívar                2-0 The Strongest
 Unión Central          1-2 Oriente Petrolero
   [Isidro Ramon Candia 18; Miguel Angel Hoyos 85, Thiago Leitao 90]
 
-Round 5 
+Round: 5 
 [Mar 18]
 Oriente Petrolero      0-0 Universitario Sucre
 [Mar 19]
@@ -119,7 +119,7 @@ San José               4-1 Blooming
    Alejandro Rene Bejarano 70, Mauricio Saucedo 80;
    Lisandro Oscar Sacripanti 34]
 
-Round 6 
+Round: 6 
 [Mar 25]
 San José               2-0 Destroyers
   [Gonzalo Gabriel Zabala 48, Mauricio Saucedo 69]
@@ -137,7 +137,7 @@ Universitario Sucre    1-0 Unión Central
 Bolívar                1-1 Oriente Petrolero
   [Carmelo Angulo 24; Richard Sandro Uriona 26]
 
-Round 7 
+Round: 7 
 [Apr 1]
 La Paz FC              1-2 San José
   [Raul Bernardo Aguirre 56; Santos Amador 29, Christian Jesus Reynaldo 72]
@@ -156,7 +156,7 @@ The Strongest          6-1 Blooming
   [Lider Paz 14, Diego Aroldo Cabrera 34, 48, 57, Pedro Adrian Rocabado 66,
    Jaime Cardozo 79; Juan Eduardo Fierro 89]
 
-Round 8 [Apr 9]
+Round: 8 [Apr 9]
 La Paz FC              4-2 Destroyers
   [Adhemar Arias 17pen, Iver Ivan Pereira 18, Raul Bernardo Aguirre 78,
    Ivan Sabino Castillo 87; Fabio Miguel Gimenez 20pen, Gilberto Ayala 46]
@@ -173,7 +173,7 @@ Bolívar                5-1 Universitario Sucre
   [Limberg Gutierrez 11, Carlos Edgar Alvarenga 25og,
    Jose Martin Menacho 31, 52, Carmelo Angulo 43; Ronald Rivero 45]
 
-Round 9 
+Round: 9 
 [Mar 22]
 Destroyers             0-1 Bolívar
   [Jose Martin Menacho 66]
@@ -193,7 +193,7 @@ Oriente Petrolero      1-4 Blooming
   [Jose Alfredo Castillo 81; Gualberto Mojica 34pen, 40, 59pen,
    Dimas Roberto Da Silva 49]
 
-Round 10 
+Round: 10 
 [Apr 15]
 The Strongest          0-0 Destroyers
 [Apr 16]
@@ -212,7 +212,7 @@ Real Potosí            4-2 Bolívar
   [Gerson Luis Garcia 2, Edward Mafla 25, Carlos Eduardo Monteiro 71,
    Darwin Peña 88; Leonel Alfredo Reyes 58, Miguel Angel Cuellar 63]
 
-Round 11
+Round: 11
 [Mar 23]
 Jorge Wilstermann      2-0 The Strongest
   [Nelson Sosa 48, Ivan Alvarez 55]
@@ -231,7 +231,7 @@ Oriente Petrolero      2-0 La Paz FC
 Bolívar                2-0 Aurora
   [Limberg Gutierrez 38, Carmelo Angulo 90]
 
-Round 12
+Round: 12
 [Apr 22]
 Universitario Sucre    1-2 San José
   [Juan Daniel Salaberry 18; Walter Alberto Flores 8, Enrique Parada 31]
@@ -248,7 +248,7 @@ Bolívar                2-1 Blooming
 Real Potosí            2-0 Aurora
   [Carlos Edgar Gareca 10, Carlos Eduardo Monteiro 81]
 
-Round 13
+Round: 13
 [Apr 26]
 Blooming               1-1 Real Potosí  
   [Gualberto Mojica 80; Miguel Osvaldo Loayza 57]
@@ -266,7 +266,7 @@ Jorge Wilstermann      5-1 Oriente Petrolero
    Javier Alejandro Guzman 30, 53, Pablo Antonio Salinas 90; 
    Jose Alfredo Castillo 87]
 
-Round 14
+Round: 14
 [Apr 29]
 Aurora                 0-1 Blooming
   [Raul Gutierrez 47]
@@ -283,7 +283,7 @@ Bolívar                2-0 La Paz FC
 Real Potosí            2-1 San José
   [Edemir Rodriguez 21, Nicolas Suarez 44; Jorge Gary Paz 28]
 
-Round 15
+Round: 15
 [May 2]
 Destroyers             1-4 Blooming
   [Isaias Viruez 27; Gualberto Mojica 15, Lisandro Oscar Sacripanti 46,
@@ -303,7 +303,7 @@ San José               5-0 Aurora
 The Strongest          0-2 Bolívar
   [Jose Martin Menacho 21, Aldo Mores 80]
 
-Round 16
+Round: 16
 [May 6]
 Real Potosí            3-1 The Strongest
   [Cristino Alfredo Jara 27, 65, Miguel Osvaldo Loayza 41;
@@ -320,7 +320,7 @@ Bolívar                2-1 Jorge Wilstermann
   [Aldo Mores 12, Limberg Gutierrez 39; Edgar Rolando Olivares 90]
 Blooming               0-0 San José
 
-Round 17
+Round: 17
 [May 17]
 Destroyers             3-1 San José
   [Eduardo Jiguchi 38, Pablo Frances 82, Isaias Viruez 89;
@@ -337,7 +337,7 @@ Unión Central          0-1 Universitario Sucre
 Oriente Petrolero      1-0 Bolívar
   [Jose Alfredo Castillo 59pen]
 
-Round 18
+Round: 18
 [May 20]
 San José               0-0 La Paz FC
 [May 21]
@@ -352,7 +352,7 @@ Real Potosí            3-0 Oriente Petrolero
 Blooming               3-0 The Strongest
   [Lisandro Oscar Sacripanti 4, Joselito Vaca 10, Gualberto Mojica 43]
 
-Round 19
+Round: 19
 [May 24]
 Jorge Wilstermann      0-1 Blooming
   [Lisandro Oscar Sacripanti 16]
@@ -370,7 +370,7 @@ Destroyers             6-0 La Paz FC
   [Pablo Frances 25, Carlos Suarez 29, Oscar Mario Arauz 40, 60,
    Damir Miranda 65, Eduardo Castedo 87]
 
-Round 20 [May 28]
+Round: 20 [May 28]
 Bolívar                3-0 Destroyers
   [Miguel Angel Cuellar 61, Danner Jesus Pachi 63,
    Jose Martin Menacho 87]
@@ -387,7 +387,7 @@ La Paz FC              2-3 The Strongest
 Blooming               1-1 Oriente Petrolero
   [Dimas Roberto Da Silva 3; Carlos Saucedo 39]
 
-Round 21
+Round: 21
 [May 31]
 Destroyers             3-2 The Strongest
   [Alain Niño de Guzman 3, Eduardo Castedo 25, 50; Ronald Gutierrez 46,
@@ -405,7 +405,7 @@ Oriente Petrolero      1-1 San José
 Bolívar                1-1 Real Potosí
   [Miguel Angel Cuellar 57; Carlos Eduardo Monteiro 85]
 
-Round 22 [Jun 4]
+Round: 22 [Jun 4]
 The Strongest          2-1 Jorge Wilstermann
   [Sergio Enrique Fernandez 77, 90; Hugo Suarez 49]
 Blooming               1-1 Universitario Sucre
@@ -438,8 +438,8 @@ Aurora                 2-4 Bolívar
 *12.La Paz FC                  22  3  6 13 24-42 15
 
 
-*Torneo Clausura 
-*
+Season: 2006 Clausura
+
 *Clasificación
 *
 *Final Tables:
@@ -461,7 +461,7 @@ Aurora                 2-4 Bolívar
 * 6.Unión Central              12  2  3  7  6-18  9
 *Top-3 of both groups of Clasificación qualify for Hexagonal Final
 
-Round 1 
+Round: 1 
 [Jul 29]
 Aurora                 0-2 Bolívar
   [Gabriel Alejandro Viglianti 53, Jose Martin Menacho 61]
@@ -476,7 +476,7 @@ Universitario Sucre    1-1 San José
   [Adalberto Cuellar 16; Fabio Miguel Gimenez 12]
 Oriente Petrolero      0-0 Unión Central
 
-Round 2 
+Round: 2 
 [Aug 2]
 La Paz                 3-0 Destroyers
   [Marco Leonard Aguilera 45pen, Augusto Andaveris 46,
@@ -493,7 +493,7 @@ Bolívar                2-0 San José
 Oriente Petrolero      1-0 Universitario Sucre
   [Juan Doyle Vaca 70]
 
-Round 3 
+Round: 3 
 [Aug 6]
 San José               1-1 Unión Central
   [Santos Amador 86; Gustavo Adolfo Paz 37]
@@ -513,7 +513,7 @@ Aurora                 0-2 Oriente Petrolero
 Destroyers             1-0 Jorge Wilstermann
   [Carlos Eduardo Vargas 2]
 
-Round 4 (inter-serie)
+Round: 4 (inter-serie)
 [Aug 12] 
 La Paz FC              2-1 San José
   [Daison de Jesus Guale 68, Julio Cesar Cortez 79; Rolando Ribera 42]
@@ -531,7 +531,7 @@ Oriente Petrolero      4-1 Blooming
   [Carlos Saucedo 16, 64, Thiago Leitao 41pen, Juan Carlos Arce 73;
    Eduardo Alberto Escobar 84]
 
-Round 5 
+Round: 5 
 [Aug 19] 
 The Strongest          2-1 Destroyers
   [Jaime Cardozo 38pen, Ruben Dario Aguilera 75pen; Limberg Cespedes 81]
@@ -546,7 +546,7 @@ Unión Central          0-2 Bolívar
 Oriente Petrolero      2-2 San José
   [Juan Doyle Vaca 9, Thiago Leitao 19; Miguel Angel Mercado 65, 88]
 
-Round 6 
+Round: 6 
 [Aug 26] 
 Jorge Wilstermann      2-1 La Paz FC
   [Jose Augusto Carioca 16, Daniel Alejandro Juarez 89;
@@ -561,7 +561,7 @@ Bolívar                    0-0 Oriente Petrolero
 Blooming                          1-0 The Strongest
   [Roberto Galindo 35]
 
-Round 7
+Round: 7
 [Sep 2]
 Bolívar                4-1 Aurora
   [Miguel Angel Cuellar 45, 52, Gabriel Alejandro Viglianti 47, 76;
@@ -580,7 +580,7 @@ Jorge Wilstermann      4-0 The Strongest
   [Daniel Alejandro Juarez 21, Gonzalo German Galindo 54,
    Marcelo Antonio Carballo 65, Horacio Jose Chiorazzo 89]
 
-Round 8 [Sep 10]
+Round: 8 [Sep 10]
 The Strongest          1-1 Real Potosí
   [Victor Nazareno Godoy 10; Cristino Alfredo Jara 67]
 Destroyers             3-1 La Paz FC
@@ -598,7 +598,7 @@ San José               2-1 Bolívar
   [Luis Mario Palacios 7, Christian Jesus Reynaldo 28;
    Gabriel Alejandro Viglianti 33]
 
-Round 9 [Sep 17] (inter-serie)
+Round: 9 [Sep 17] (inter-serie)
 Aurora                 1-1 Jorge Wilstermann 
   [Luis Vicente Maceda 90; Julio Cesar Junco 19]
 Blooming               1-1 Oriente Petrolero 
@@ -613,7 +613,7 @@ Universitario Sucre    4-1 Real Potosí
   [Jesus Ronald Gallegos 36, Juan Daniel Salaberry 48, 60pen,
    Franz Alvaro Calustro 87; Cristino Alfredo Jara 23]
 
-Round 10
+Round: 10
 [Sep 22]
 Oriente Petrolero      4-0 Aurora
   [Pablo Ceballos 28, 36, 80, Luis Javier Mendez 90]
@@ -632,7 +632,7 @@ Jorge Wilstermann      3-1 Destroyers
   [Pablo Antonio Salinas 4, 35, Gonzalo German Galindo 42;
    Isaias Viruez 8]
 
-Round 11
+Round: 11
 [Sep 27]
 Bolívar                6-0 Unión Central
   [Carlos Osvaldo Camacho 9, Carmelo Angulo Mendoza 24, 69,
@@ -652,7 +652,7 @@ Jorge Wilstermann      2-1 Real Potosí
 San José               2-0 Oriente Petrolero
   [Jose Mauricio Suarez 8, Fabio Miguel Gimenez 87]
 
-Round 12 [Oct 1]
+Round: 12 [Oct 1]
 Aurora                 3-1 San José
   [Ronald Justiniano 31, Gustavo Aguirre 65, Alex Rodrigo Da Rosa 74;
    Mauricio Saucedo 87]
@@ -702,7 +702,7 @@ Unión Central          1-1 Universitario Sucre
 *NB: Jorge Wilstermann and Bolívar 1 bonus point for winning group in 
 *    Clasificación
 
-Round 1
+Round: 1
 [Oct 7]
 Universitario Sucre    0-0 Jorge Wilstermann
 [Oct 8]
@@ -712,7 +712,7 @@ Real Potosí            2-2 Oriente Petrolero
 Blooming               2-0 Bolívar
   [Diego Aroldo Cabrera 58, 65]
 
-Round 2
+Round: 2
 [Oct 14]
 Oriente Petrolero      2-1 Universitario Sucre
   [Pablo Eduardo Ceballos 25, Juan Carlos Arce 33;
@@ -724,7 +724,7 @@ Bolívar                2-2 Real Potosí
 Jorge Wilstermann      2-0 Blooming    
   [Jose Augusto Carioca 44, Julio Cesar Junco 66]
 
-Round 3 [Oct 22]
+Round: 3 [Oct 22]
 Bolívar                1-1 Jorge Wilstermann
   [Gabriel Alejandro Viglianti 44; Julio Cesar Junco 39]
 Real Potosí            3-2 Universitario Sucre
@@ -733,7 +733,7 @@ Real Potosí            3-2 Universitario Sucre
 Blooming               1-1 Oriente Petrolero
   [Alexandre De Oliveira 86pen; Martin Adrian Palavicini 70]
 
-Round 4
+Round: 4
 [Oct 25]
 Jorge Wilstermann      3-1 Oriente Petrolero
   [Nelson Sossa 1, 40, Horacio Jose Chiorazzo 71;
@@ -745,7 +745,7 @@ Blooming               2-1 Real Potosí
 Bolívar                0-1 Universitario Sucre
   [Marcelo Ramon Gomez 14]
 
-Round 5 [Oct 29]
+Round: 5 [Oct 29]
 Real Potosí            2-1 Jorge Wilstermann
   [Cristino Alfredo Jara 52, Fernando Brandan 89;
    Horacio Jose Chiorazzo 12]
@@ -755,7 +755,7 @@ Universitario Sucre    2-2 Blooming
 Oriente Petrolero      1-1 Bolívar
   [Juan Cristiano De Souza 37; Elvis Israel Marecos 56]
 
-Round 6 [Nov 5]
+Round: 6 [Nov 5]
 Jorge Wilstermann      2-0 Bolívar
   [Nelson Sossa 55, Limbert Mendez 78]
 Universitario Sucre    1-0 Real Potosí
@@ -763,7 +763,7 @@ Universitario Sucre    1-0 Real Potosí
 Oriente Petrolero      1-1 Blooming
   [Pablo Eduardo Ceballos 47; Alexandre De Oliveira 54]
 
-Round 7 
+Round: 7 
 [Nov 18]
 Real Potosí            4-2 Bolivar
   [Alfredo Jara  63, 76, Fernando Brandan 73, Nicolas Suarez 87;
@@ -775,7 +775,7 @@ Blooming               1-2 Jorge Wilstermann
 Universitario Sucre    1-2 Oriente Petrolero
   [Ernesto Ariel Juarez 2; Pablo Eduardo Ceballos 8, Thiago Leitao 37]
 
-Round 8 
+Round: 8 
 [Nov 22]
 Real Potosí            2-1 Blooming
   [Nicolas Suarez 15, Cristino Alfredo Jara 65; Julio Cesar Hurtado 46]
@@ -785,7 +785,7 @@ Oriente Petrolero      2-1 Jorge Wilstermann
 Universitario Sucre    2-0 Bolívar
   [Jesus Ronald Gallegos 5, Juan Daniel Salaberry 90]
 
-Round 9 [Nov 26]
+Round: 9 [Nov 26]
 Bolívar                2-2 Blooming
   [Elvis Israel Marecos 9, 75pen; Joselito Vaca 70, 
    Jesus Alejandro Gomez 83pen]
@@ -794,7 +794,7 @@ Jorge Wilstermann      2-0 Universitario Sucre
 Oriente Petrolero      0-3 Real Potosí
   [Carlos Eduardo Monteiro 14pen, 15, Cristino Alfredo Jara 68]
 
-Round 10
+Round: 10
 [Nov 29]
 Bolívar                7-1 Oriente Petrolero
   [Luis Gatti Ribeiro 5, Miguel Angel Cuellar 20, 34,

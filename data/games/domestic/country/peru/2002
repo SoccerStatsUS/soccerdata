@@ -1,12 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesp/peru02.html
-
-Peru 2002
-
-Primera División
-
-Apertura
-
-Final Table:
+Competition: Peruvian Primera División
+Season: 2002 Apertura
 
 * 1.Alianza Lima            22 14  5  3  43-23  47  Apertura Playoff
 * 2.Universitario           22 15  2  5  30-17  47  Apertura Playoff
@@ -21,14 +15,14 @@ Final Table:
 *11.Estudiantes de Medicina 22  4  7 11  25-38  19
 *12.Deportivo Wanka         22  5  4 13  23-40  19
 
-NB: Deportivo Bolito (winners Copa Perú 2001 and promoted) yielded their top level 
-    place to Coronel Bolognesi (Bolito were founded 1998 as youth squad for Bolognesi,
-    but in 2001 the president, Elena Martorell, decided to field a strong team,
-    eliminated Bolognesi in the Tacna league, won the Copa Perú, but yielded their
-    first level place to Bolognesi as they will draw higher attendances; Bolognesi's
-    president is Fernando Martorell, Elena's brother
+*NB: Deportivo Bolito (winners Copa Perú 2001 and promoted) yielded their top level 
+*    place to Coronel Bolognesi (Bolito were founded 1998 as youth squad for Bolognesi,
+*    but in 2001 the president, Elena Martorell, decided to field a strong team,
+*    eliminated Bolognesi in the Tacna league, won the Copa Perú, but yielded their
+*    first level place to Bolognesi as they will draw higher attendances; Bolognesi's
+*    president is Fernando Martorell, Elena's brother
 
-Round 1 
+Round: 1 
 [Feb 22]
 Alianza Lima            0-1 Coopsol  
   [Oscar Dertycia 92]
@@ -46,7 +40,7 @@ Deportivo Wanka         2-1 Melgar
 Juan Aurich             1-2 Universitario 
   [Carlos Flores 66pen; Martín Vilallonga 88pen, José del Solar 92] 
 
-Round 2
+Round: 2
 [Mar 2]
 Alianza Atletico        0-1 Sporting Cristal 
   [Flavio Maestri 36]
@@ -62,7 +56,7 @@ Cienciano               2-1 Alianza Lima
 Melgar                  3-2 Coronel Bolognesi 
   [Luis Artime (3); Pedro Prado, Miguel Mosto]
 
-Round 3
+Round: 3
 [Mar 9]
 Sport Boys              0-1 Universitario
   [Martín Vilallonga 3]
@@ -78,7 +72,7 @@ Alianza Lima            2-1 Melgar
 Estudiantes de Medicina 1-0 Deportivo Wanka
   [Javier Toledo 83]
 
-Round 4
+Round: 4
 [Mar 16]
 Juan Aurich             1-2 Estudiantes de Medicina
   [Andrés Gonzáles 14; Manuel López 1, Christian Salvatierra 16]
@@ -96,7 +90,7 @@ Universitario           0-1 Alianza Lima
 Cienciano               3-2 Coopsol 
   [Rómulo Fernández 58, 88, Alessandro Morán 66; Rodrigo Saraz 10, Pedro Ascoy 92]
 
-Round 5
+Round: 5
 [Mar 23]
 Coronel Bolognesi       0-0 Universitario
 [Mar 24]
@@ -109,7 +103,7 @@ Sport Boys              1-0 Juan Aurich
 Estudiantes de Medicina 0-0 Sporting Cristal
 Coopsol Trujillo        0-0 Melgar
 
-Round 6
+Round: 6
 [Mar 30]
 Sporting Cristal        4-0 Coronel Bolognesi
   [Jorge Soto 8, Luis Bonnet 75, 79, Renzo Sheput 86]
@@ -126,7 +120,7 @@ Melgar                  1-0 Sport Boys
 Juan Aurich             2-2 Alianza Lima
   [Carlos Flores 66pen, Abel Lobatón 70; Wenceslao Fernández 19, Roberto Farfán 88]
 
-Round 7
+Round: 7
 [Apr 6]
 Sport Boys              3-2 Cienciano
   [Gustavo Tempone 33, Alfredo Carmona 45, Antonio Serrano 60; Julio García 19, 
@@ -144,7 +138,7 @@ Estudiantes de Medicina 4-0 Melgar
 Coronel Bolognesi       3-2 Juan Aurich
   [Frank Rojas 49, Pedro Prado 71, Mario Flores 78; James Angulo 29, Carlos Flores 89pen]
 
-Round 8
+Round: 8
 [Apr 13]
 Juan Aurich             2-0 Cienciano
   [César Sánchez 5, Carlos Flores 13]
@@ -159,7 +153,7 @@ Sporting Cristal        4-0 Melgar
 Estudiantes de Medicina 2-0 Coopsol Trujillo
   [Javier Toledo 41, Pedro Miranda 38]
 
-Round 9 
+Round: 9 
 [Apr 20]
 Cienciano               2-0 Universitario
   [Ernesto Zapata 16, Oscar Olvera 34]
@@ -174,7 +168,7 @@ Deportivo Wanka         1-1 Sporting Cristal
   [Bica 74pen; Maestri 53pen]
 Melgar                  0-0 Juan Aurich
 
-Round 10 
+Round: 10 
 [Apr 27]
 Universitario           3-4 Sporting Cristal
   [Martín Vilallonga 4, José del Solar 8, 55pen;
@@ -193,7 +187,7 @@ Alianza Atlético        3-2 Coopsol Trujillo
   [Francisco Hernández 39, Martín Vásquez 53, Juan Arango 83; Pedro Ascoy 25, 
    Miguel Huertas 68]
 
-Round 11 
+Round: 11 
 [May 1]
 Estudiantes de Medicina 2-2 Sport Boys
   [Christian Salvatierra 1, Manuel López 52; Antonio Serrano, José Chacón]
@@ -209,7 +203,7 @@ Melgar                  1-0 Universitario
 Deportivo Wanka         2-3 Cienciano
   [Bica 37pen, 43pen; Ernesto Zapata 16pen, 71, Gerardo Fernández 77]
 
-Round 12
+Round: 12
 [May 4]
 Universitario           1-0 Juan Aurich
   [Carlos Orejuela 87]
@@ -226,7 +220,7 @@ Melgar                  1-0 Deportivo Wanka
 Cienciano               1-0 Sporting Cristal  
   [Ramón Rodríguez 69]
 
-Round 13
+Round: 13
 [May 11]
 Estudiantes de Medicina 0-1 Universitario
   [Santiago Acasiete 31]
@@ -244,7 +238,7 @@ Juan Aurich             1-1 Coopsol Trujillo
 Deportivo Wanka         3-0 Sport Boys
   [Bica 7, 16, Sandro Cavero 85]
 
-Round 14 [May 15]
+Round: 14 [May 15]
 Universitario           2-1 Sport Boys
   [César García 20, Martín Vilallonga 50; Antonio Serrano 54]
 Cienciano               2-1 Coronel Bolognesi  
@@ -259,7 +253,7 @@ Melgar                  2-3 Alianza Lima
 Deportivo Wanka         2-0 Estudiantes de Medicina 
   [Víctor Larrahondo 20, Rafael Gallardo 90]
 
-Round 15
+Round: 15
 [May 18]
 Sport Boys              1-0 Sporting Cristal
   [Johny Vegas 31pen]
@@ -274,7 +268,7 @@ Coopsol Trujillo        0-0 Cienciano
 Alianza Atlético        3-3 Melgar
   [Sergio Ibarra 27, 55, René Kloker 74og; Luis Artime 46, 86, Luis Bello 91]
 
-Round 16 [May 22]
+Round: 16 [May 22]
 Juan Aurich             3-1 Sport Boys
   [Oswaldo Carrión 20, Renato Brasilia 71, Darío Muchotrigo 86; Johny Vegas 38]
 Deportivo Wanka         0-0 Alianza Lima
@@ -287,7 +281,7 @@ Cienciano               1-0 Alianza Atlético
 Universitario           1-0 Coronel Bolognesi
   [José Del Solar 48]
 
-Round 17 [May 26]
+Round: 17 [May 26]
 Coronel Bolognesi       1-3 Cristal
   [Pedro Prado 50; Alex Magallanes 61, José Moisela 67, Renzo Sheput 93]
 Coopsol                 0-3 Universitario
@@ -301,7 +295,7 @@ Alianza Atlético        5-0 Deportivo Wanka
 Alianza Lima            1-1 Juan Aurich
   [José Soto 76pen; Sergio Ubillús 29]
 
-Round 18
+Round: 18
 [Jun 1]
 Sporting Cristal        2-4 Alianza Lima
   [Renzo Sheput 46, Luis Bonnet 58; Carlos Barrionuevo 30, Roberto Holsen 55, 
@@ -317,7 +311,7 @@ Cienciano               3-0 Sport Boys
   [Gerardo Fernández 3, Julio García 28, Germán Carty 64]
 Deportivo Wanka         0-0 Sport Coopsol
 
-Round 19
+Round: 19
 [Jun 5]
 Alianza Atlético        0-2 Sport Boys
   [Antonio Serrano 52, 69]
@@ -332,7 +326,7 @@ Alianza Lima            2-0 Coronel Bolognesi
 Coopsol Trujillo        3-0 Estudiantes de Medicina
   [Oscar Dertycia 17, Pedro Ascoy 29, David Díaz 85]
 
-Round 20 [Jun 9]
+Round: 20 [Jun 9]
 Sporting Cristal        2-1 Deportivo Wanka
   [Roberto Palacios 32, Luis Bonnet 78; Víctor Larrahondo 36]
 Sport Boys              1-3 Coopsol Trujillo
@@ -347,7 +341,7 @@ Universitario           1-0 Cienciano
 Estudiantes de Medicina 1-1 Alianza Lima
   [David Chévez 83; José Soto 92]
 
-Round 21
+Round: 21
 [Jun 15]
 Sporting Cristal        0-1 Universitario
   [Rubén Díaz 14]
@@ -367,7 +361,7 @@ Melgar                  3-3 Cienciano
   [Alexis Aguirre 42, Luis Artime 61pen, Dante Chumpitaz 80;
    Cesar Charún 22pen, Gerardo Fernández 37, German Carty 45]
 
-Round 22 [Jun 23]
+Round: 22 [Jun 23]
 Sport Boys              3-0 Estudiantes de Medicina
   [Antonio Serrano 45, 76, Johny Vegas 60pen]
 Juan Aurich             2-1 Sporting Cristal
@@ -419,27 +413,25 @@ Alianza Lima            0-0 Universitario
 Universitario win Apertura and qualify to Copa Libertadores 2003
 
 
-Clausura
+Season: 2002 Clausura
 
-Final Table:
+* 1.Sporting Cristal        22 13  7  2  46-18  46  Clausura Winners
+* 2.Alianza Lima            22 13  6  3  40-18  42  [-3]
+* 3.Alianza Atlético        22 11  6  5  34-26  36  [-3]
+* 4.Cienciano               22 11  3  8  50-44  36
+* 5.Estudiantes de Medicina 22  9  5  8  36-29  32
+* 6.Sport Boys              22  7  8  7  28-24  29
+* 7.Deportivo Wanka         22  7  8  7  30-35  29
+* 8.Coronel Bolognesi       22  8  4 10  24-29  28
+* 9.Melgar                  22  6  7  9  25-33  25
+*10.Juan Aurich             22  5  5 12  20-35  20
+*11.Universitario           22  4  7 11  27-36  19
+*12.Coopsol Trujillo        22  3  4 15  18-51  13
+*
+*NB: both Alianza Lima and Alianza Atlético had 3 points deducted for
+*    failing to carry out doping tests in round 22 of the Apertura
 
- 1.Sporting Cristal        22 13  7  2  46-18  46  Clausura Winners
- 2.Alianza Lima            22 13  6  3  40-18  42  [-3]
- 3.Alianza Atlético        22 11  6  5  34-26  36  [-3]
- 4.Cienciano               22 11  3  8  50-44  36
- 5.Estudiantes de Medicina 22  9  5  8  36-29  32
- 6.Sport Boys              22  7  8  7  28-24  29
- 7.Deportivo Wanka         22  7  8  7  30-35  29
- 8.Coronel Bolognesi       22  8  4 10  24-29  28
- 9.Melgar                  22  6  7  9  25-33  25
-10.Juan Aurich             22  5  5 12  20-35  20
-11.Universitario           22  4  7 11  27-36  19
-12.Coopsol Trujillo        22  3  4 15  18-51  13
-
-NB: both Alianza Lima and Alianza Atlético had 3 points deducted for
-    failing to carry out doping tests in round 22 of the Apertura
-
-Round 1 [Jul 14]
+Round: 1 [Jul 14]
 Sporting Cristal        5-0 Cienciano
   [Renzo Sheput 7, Martín García 12og, Luis Bonnet 17, José Moisela 41,
    Jorge Soto 44]
@@ -454,7 +446,7 @@ Alianza Lima            3-1 Coopsol Trujillo
 Estudiantes de Medicina 2-0 Alianza Atlético
   [Gabriel Viguetti 30, Juan Flores 90pen]
 
-Round 2 [Jul 21]
+Round: 2 [Jul 21]
 Alianza Atlético        0-3 Sporting Cristal
   [Angel Villalta 2, José Moisela 19, Luis Bonnet 67]
 Sport Boys              2-2 Deportivo Wanka
@@ -468,7 +460,7 @@ Melgar                  1-1 Coronel Bolognesi
 Coopsol Trujillo        1-0 Juan Aurich
   [Oscar Dertycia 91]
 
-Round 3
+Round: 3
 [Jul 27]
 Coopsol Trujillo        0-3 Sporting Cristal
   [Luis Bonnet 11, 76, Flavio Maestri 37]
@@ -484,7 +476,7 @@ Alianza Lima            3-1 Melgar
 Estudiantes de Medicina 1-1 Deportivo Wanka
   [Frank Aguirre 9; Víctor Larrahondo 72]
 
-Round 4 [Aug 4]
+Round: 4 [Aug 4]
 Sporting Cristal        2-0 Sport Boys
   [Alberto Rodríguez 54, Luis Bonnet 81]
 Juan Aurich             0-1 Estudiantes de Medicina
@@ -498,7 +490,7 @@ Cienciano               1-1 Coopsol Trujillo
 Deportivo Wanka         1-0 Coronel Bolognesi
   [Edilberto Salazar 37]
 
-Round 5
+Round: 5
 [Aug 10]
 Alianza Lima            0-0 Deportivo Wanka
 [Aug 11]
@@ -513,7 +505,7 @@ Estudiantes de Medicina 1-1 Sporting Cristal
 Coopsol Trujillo        1-1 Melgar
   [Rodrigo Saraz 53pen; Luis Artime 20]
 
-Round 6
+Round: 6
 [Aug 17]
 Sporting Cristal        5-1 Coronel Bolognesi
   [Luis Bonnet 5, 12, 85, Carlos Zegarra 82, José Moisela 88; Miguel Mosto 52]
@@ -530,7 +522,7 @@ Deportivo Wanka         1-1 Alianza Atlético
 Cienciano               3-0 Estudiantes de Medicina
   [Germán Carty 9, 47, 89]
 
-Round 7 [Aug 25]
+Round: 7 [Aug 25]
 Sport Boys              2-1 Cienciano
   [Rómulo Fernández 43, Carlos Flores 68; Jean Ferrari 38]
 Alianza Atlético        2-1 Universitario
@@ -543,7 +535,7 @@ Estudiantes de Medicina 3-0 Melgar
 Coopsol Trujillo        0-1 Deportivo Wanka
   [Jair Vásquez 36]
 
-Round 8
+Round: 8
 [Aug 30]
 Universitario           4-1 Deportivo Wanka
   [Paul Cominges 34, Johan Sotil 41, 58, Carlos Lobatón 55; Martín Reyes 84]
@@ -560,7 +552,7 @@ Estudiantes de Medicina 9-1 Coopsol Trujillo
 Juan Aurich             2-1 Cienciano
   [Antonio Meza Cuadra 7, Juan Gutiérrez 66; César Charún 62]
 
-Round 9 [Sep 8]
+Round: 9 [Sep 8]
 Alianza Atlético        1-0 Coronel Bolognesi
   [Juan Arango 29]
 Alianza Lima            1-0 Estudiantes de Medicina
@@ -573,7 +565,7 @@ Coopsol Trujillo        1-0 Sport Boys
   [Pedro Ascoy 83]
 Melgar                  0-0 Juan Aurich
 
-Round 10
+Round: 10
 [Sep 15]
 Alianza Atlético        2-0 Coopsol Trujillo
   [Juan Arango 72, Sergio Ibarra 77]
@@ -590,7 +582,7 @@ Juan Aurich             0-2 Deportivo Wanka
 Sport Boys              1-0 Alianza Lima
   [Alfredo Carmona 78]
 
-Round 11
+Round: 11
 [Sep 21]
 Sporting Cristal        3-0 Juan Aurich
   [Denis 40, Luis Bonnet 75, Sergio Junior 88]
@@ -607,7 +599,7 @@ Deportivo Wanka         3-3 Cienciano
 Coopsol Trujillo        0-4 Coronel Bolognesi
   [Jorge Ramírez 21, 43, Miguel Zagaceta 71pen, Joel Herrera 89]
 
-Round 12
+Round: 12
 [Sep 29]
 Universitario           0-0 Juan Aurich
 Alianza Atlético        1-0 Estudiantes de Medicina
@@ -623,7 +615,7 @@ Melgar                  2-0 Deportivo Wanka
 Coopsol Trujillo        0-3 Alianza Lima 
   [Christian García 38, Juan Bazalar 63, Henry Quinteros 93]
 
-Round 13
+Round: 13
 [Oct 5]
 Sporting Cristal        2-0 Alianza Atlético
   [Sergio Junior 53, Luis Bonnet 82]
@@ -641,7 +633,7 @@ Coronel Bolognesi       1-0 Melgar
 Juan Aurich             3-1 Coopsol Trujillo
   [Antonio Meza Cuadra 30, 87, César Sánchez 81; Rodrigo Saraz 59]
 
-Round 14
+Round: 14
 [Oct 12]
 Sporting Cristal        2-0 Coopsol Trujillo
   [Julinho 50, David Soria 78]
@@ -658,7 +650,7 @@ Cienciano               2-1 Coronel Bolognesi
 Juan Aurich             0-1 Alianza Atlético
   [Martín Vásquez 55]
 
-Round 15
+Round: 15
 [Oct 19]
 Coronel Bolognesi       1-0 Deportivo Wanka
   [Jorge Reyes 57]
@@ -676,7 +668,7 @@ Coopsol Trujillo        2-2 Cienciano
 Alianza Lima            3-2 Universitario 
   [Luis Romero 10, Roberto Holsen 30, 56; César García 50, Paul Cominges 85pen]
 
-Round 16
+Round: 16
 [Oct 26]
 Sporting Cristal        4-1 Medicina
   [José Moisela 14, Jorge Soto 69, 94, Luis Bonnet 83; Javier Toledo 59]
@@ -692,7 +684,7 @@ Cienciano               4-1 Alianza Atlético
   [Jean Ferrari 3, Germán Carty 58, 80, Gustavo Tempone 79; 
    Carlos Maldonado 50og]
 
-Round 17 [Nov 3]
+Round: 17 [Nov 3]
 Sport Boys              2-2 Melgar
   [Rómulo Fernández 28, Johny Vegas 68pen; Manuel López 19, 42]
 Alianza Atlético        4-0 Deportivo Wanka
@@ -708,7 +700,7 @@ Estudiantes de Medicina 4-2 Cienciano
   [Renzo Gonzáles 26pen, Gabriel Vigetti 53, 68, Darío Muchotrigo 92;
    Germán Carty 55, Jean Ferrari 76]
 
-Round 18
+Round: 18
 [Nov 9]
 Universitario           0-0 Alianza Atlético
 [Nov 10]
@@ -724,7 +716,7 @@ Cienciano               3-1 Sport Boys
 Deportivo Wanka         3-2 Coopsol Trujillo
   [Bica 46, 71, Edilberto Salazar 67; Rodrigo Saraz 80, Wilmer Ricardi 87]
 
-Round 19
+Round: 19
 [Nov 15]
 Melgar                  2-2 Sporting Cristal
   [Luis Artime 26, Gabriel Varillas 92; Jorge Soto 25, 74]
@@ -741,7 +733,7 @@ Coopsol Trujillo        2-3 Estudiantes de Medicina
 Alianza Lima            3-0 Coronel Bolognesi
   [Juan Jayo 24, Aldo Olcese 50, Roberto Holsen 53]
 
-Round 20
+Round: 20
 [Nov 24]
 Sport Boys              2-1 Coopsol Trujillo
   [Rafael Villanueva 36, 59; Rodrigo Saraz 23]
@@ -758,7 +750,7 @@ Coronel Bolognesi       3-2 Alianza Atlético
 Sporting Cristal        2-0 Deportivo Wanka
   [Denis 34, Jorge Soto 92]
 
-Round 21
+Round: 21
 [Dec 1]
 Deportivo Wanka         1-1 Juan Aurich
   [Bica 22; Marco Salinas 18]
@@ -775,7 +767,7 @@ Sporting Cristal        1-1 Universitario
 Alianza Lima            1-1 Sport Boys
   [José Soto 55; Antonio Serrano 38]
 
-Round 22 [Dec 8]
+Round: 22 [Dec 8]
 Alianza Atlético        2-2 Alianza Lima 
   [Pedro García 41, Sergio Ibarra 49; Jefferson Farfán 8, Aldo Olcese 24]
 Juan Aurich             5-2 Sporting Cristal

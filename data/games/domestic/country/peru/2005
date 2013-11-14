@@ -1,17 +1,13 @@
-BlockSOurce: http://www.rsssf.com/tablesp/peru05.html
+BlockSource: http://www.rsssf.com/tablesp/peru05.html
+Competition: Peruvian Primera División
+Season: 2005 Apertura
 
-Peru 2005
-
-Primera División
-
-NB: Apertura and Clausura champions play off for championship,
-      provided they finish in the top-6 of both tournaments;
-    third spot in Copa Libertadores 2006 to best team in aggregate
-      table (other than Apertura and Clausura champions);
-    relegation decided by points average over 2003, 2004 and 2005
-      (two clubs to be relegated)
-
-Apertura
+*NB: Apertura and Clausura champions play off for championship,
+*      provided they finish in the top-6 of both tournaments;
+*    third spot in Copa Libertadores 2006 to best team in aggregate
+*      table (other than Apertura and Clausura champions);
+*    relegation decided by points average over 2003, 2004 and 2005
+*      (two clubs to be relegated)
 
 * 1.Cienciano (Cuzco)                        24 16  3  5  37-21  51  Apertura Champions
 * 2.Universitario (Lima)                     24 13  9  2  40-20  48
@@ -27,7 +23,7 @@ Apertura
 *12.Unión Huaral (Huaral)                    24  4  9 11  24-32  21
 *13.Alianza Atlético (Sullana)               24  3 10 11  29-47  19
 
-Round 3 
+Round: 3 
 [Mar 5]
 Atlético Universidad 1-1 Cienciano    
   [Ysrael Zúñiga 59; Sergio Ibarra 65pen]          
@@ -44,7 +40,7 @@ César Vallejo        3-3 Alianza Atlético
    Gustavo Buena 73]   
 Unión Huaral         bye
 
-Round 4 
+Round: 4 
 [Mar 11]
 Universitario        1-0 César Vallejo        
   [Leonardo Lemos 73]
@@ -62,7 +58,7 @@ Alianza Atlético     0-2 San Martín
   [Enrique Ismodes 55, Fernando García 90]
 Sport Boys           bye
 
-Round 5 [Mar 16]
+Round: 5 [Mar 16]
 Sport Áncash         0-1 Sporting Cristal      
   [Gustavo Figueroa 40]
 Sport Boys           2-1 Melgar                
@@ -78,7 +74,7 @@ Alianza Lima         5-0 Alianza Atlético
    Carlos Fernández 79, Wilmer Aguirre 85]
 Atlético Universidad bye
 
-Round 6 
+Round: 6 
 [Mar 19]  
 Atlético Universidad 1-0 Coronel Bolognesi    
   [Paul Cominges 14]
@@ -96,7 +92,7 @@ Universitario        2-2 Alianza Lima
   [Alex Magallanes 17, Javier Molina 36pen; Aldo Olcese 20, Juan Jayo 53]    
 Melgar               bye
 
-Round 7 
+Round: 7 
 [Apr 1]
 Alianza Lima         6-2 Cienciano   
   [Diego González Vigil 18, 70, 81, 91, Kohji Aparicio 55, 66pen;
@@ -116,7 +112,7 @@ César Vallejo        3-2 Atlético Universidad
    Ysrael Zúñiga 46]
 Coronel Bolognesi    bye
 
-Round 8 
+Round: 8 
 [Apr 9]      
 Atlético Universidad 1-0 San Martín     
   [Juan Pajuelo 79]         
@@ -134,7 +130,7 @@ Universitario        4-1 Sport Boys
    Pedro Plaza 38]
 Sporting Cristal     bye
 
-Round 9 
+Round: 9 
 [Apr 15]
 Sport Boys           1-0 Cienciano  
   [Gustavo Vasallo 23] 
@@ -152,7 +148,7 @@ Sporting Cristal     1-1 Alianza Atlético
   [Henry Quinteros 89; Roberto Jiménez 34]   
 César Vallejo        bye
 
-Round 10 [Apr 20]
+Round: 10 [Apr 20]
 Cienciano            1-0 Melgar        
   [Ramón Rodríguez 82]        
 Unión Huaral         1-0 Sport Boys    
@@ -167,7 +163,7 @@ Universitario        1-0 Sporting Cristal
   [Mauricio Mendoza 92]  
 Alianza Atlético     bye
 
-Round 11 
+Round: 11 
 [Apr 23]
 Sporting Cristal     1-2 Cienciano    
   [Luis Bonnet 89; Ramón Rodríguez 30, Arnulfo Valentierra 82]          
@@ -185,7 +181,7 @@ Alianza Lima         3-1 César Vallejo
    Francisco Hernández 61]     
 San Martín           bye
 
-Round 12 
+Round: 12 
 [Apr 30]
 Unión Huaral         1-2 Sporting Cristal 
   [Ryan Salazar 71; Luis Bonnet 4, Gustavo Figueroa 29]    
@@ -202,7 +198,7 @@ César Vallejo        1-1 Sport Áncash
   [Manuel Corrales 6; Sebastián Viera 39]      
 Universitario        bye
 
-Round 13 
+Round: 13 
 [May 7]
 Sport Boys           2-1 César Vallejo         
   [Gustavo Vasallo 28pen, Cristian Jeandet 93; Raúl Robles 31]
@@ -219,7 +215,7 @@ Alianza Atlético     1-1 Unión Huaral
   [Víctor Miranda 61; Daniel Maldonado 50]     
 Alianza Lima         bye
 
-Round 14 [May 11]
+Round: 14 [May 11]
 Universitario        1-2 Unión Huaral          
   [Mauricio Mendoza 25; Walter Reyes 18, César Goya 37]
 Alianza Atlético     5-1 Atlético Universidad  
@@ -237,7 +233,7 @@ Sport Áncash         4-1 Alianza Lima
    Diego Gonzáles Vigil 35]         
 Cienciano            bye
 
-Round 15 [May 15]
+Round: 15 [May 15]
 Unión Huaral         0-1 Cienciano   
   [Roberto Silva 65]           
 Alianza Lima         2-1 Sport Boys        
@@ -251,7 +247,7 @@ Atlético Universidad 1-1 Universitario
   [Ysrael Zúñiga 42; Piero Alva 78]
 Sport Áncash         bye
 
-Round 16 
+Round: 16 
 [Jun 11]
 Universitario        1-1 Coronel Bolognesi     
   [Juan Flores 75pen; Junior Ross 1]
@@ -271,7 +267,7 @@ Melgar               2-6 Alianza Lima
    José Soto 54pen, Wilmer Aguirre 55, 84, Jesús Chávez 88]
 Unión Huaral         bye
 
-Round 17 
+Round: 17 
 [Jun 15]
 Coronel Bolognesi    0-0 Cienciano              
 Atlético Universidad 0-0 Unión Huaral          
@@ -286,7 +282,7 @@ César Vallejo        0-2 Universitario
   [Alex Magallanes 35, Luis Tonelotto 80]
 Sport Boys           bye
 
-Round 18 
+Round: 18 
 [Jun 18]
 Universitario        2-1 San Martín 
   [Donny Neyra 29, Alex Magallanes 47; Pedro García 51pen]           
@@ -303,7 +299,7 @@ Alianza Atlético     0-2 Alianza Lima
   [Carlos Fernández 48, 70]       
 Atlético Universidad bye
 
-Round 19
+Round: 19
 [Jun 25]
 San Martín           2-0 Cienciano 
   [Hernán Rengifo 60, Roller Cambindo 70]             
@@ -320,7 +316,7 @@ Sport Áncash         3-2 Alianza Atlético
    John Jailer Moreno 66, 89]     
 Melgar               bye
 
-Round 20 [Jun 29]
+Round: 20 [Jun 29]
 Universitario        2-1 Sport Áncash        
   [Javier Pereyra 9, Juan Flores 43pen; Ismael Regalado 30]  
 Alianza Atlético     0-3 Sport Boys     
@@ -336,7 +332,7 @@ Cienciano            3-1 Alianza Lima
   [Sergio Ibarra 10, 31, 85; Juan Jayo 64]     
 Coronel Bolognesi    bye
 
-Round 21 [Jul 3]
+Round: 21 [Jul 3]
 Sport Áncash         2-1 Cienciano       
   [Martín Menacho 57, Renzo Benavides 91; Carlos Orejuela 16]       
 Alianza Lima         0-0 Unión Huaral          
@@ -352,7 +348,7 @@ Sport Boys           1-1 Universitario
   [Henry Colán 10; Luis Tonelotto 21]       
 Sporting Cristal     bye
 
-Round 22 
+Round: 22 
 [Jul 9]
 Universitario        4-0 Melgar  
   [Luis Tonelotto 58, 84, Piero Alva 77, José Pereda 88]              
@@ -368,7 +364,7 @@ Alianza Atlético     1-3 Sporting Cristal
   [Víctor Miranda 51pen; Luis Bonnet 22pen, Sergio Leal 29, David Soria 55] 
 César Vallejo        bye 
 
-Round 23 [Jul 13]
+Round: 23 [Jul 13]
 Melgar               0-1 Cienciano   
   [Miguel Mostto 80]           
 Sport Boys           2-1 Unión Huaral 
@@ -382,7 +378,7 @@ Sporting Cristal     2-2 Universitario
   [Luis Bonnet 22, 80; Luis Tonelotto 62, Leonardo Lemos 91]
 Alianza Atlético     bye
 
-Round 24 
+Round: 24 
 [Jul 16]
 Coronel Bolognesi    2-1 Sport Áncash        
   [Roberto Demus 5, 39; Ismael Regalado 82]  
@@ -401,7 +397,7 @@ César Vallejo        1-1 Alianza Lima
   [Manuel Corrales 64; Wilmer Aguirre 58]      
 San Martín           bye
 
-Round 25 [Jul 20]
+Round: 25 [Jul 20]
 Alianza Atlético     1-1 Cienciano
   [Henry Ramírez 14; Miguel Mostto 53]
 Sporting Cristal     3-2 Unión Huaral
@@ -417,7 +413,7 @@ Alianza Lima         1-1 San Martín
   [Johan Fano 5; Hernán Rengifo 52]
 Universitario        bye 
 
-Round 26 
+Round: 26 
 [Jul 23]
 Coronel Bolognesi    3-1 Melgar                
   [Roberto Demus 5, Norbil Romero 62, Johan Vásquez 83; Diego Bustamante 65]
@@ -435,7 +431,7 @@ Cienciano            2-0 Universitario
   [Sergio Ibarra 46, Roberto Silva 85]
 Alianza Lima         bye
 
-Round 2 [Jul 27 (ppd from Feb 27)] 
+Round: 2 [Jul 27 (ppd from Feb 27)] 
 Cienciano            1-0 Unión Huaral         
   [Miguel Mostto 27] 
 Sport Boys           1-0 Alianza Lima         
@@ -451,7 +447,7 @@ Universitario        3-2 Atlético Universidad
    Paul Cominges 17, Cristian Zúñiga 68]
 Sport Áncash         bye
 
-Round 1 [Jul 31 (ppd from Feb 19,20)]
+Round: 1 [Jul 31 (ppd from Feb 19,20)]
 Alianza Lima         4-0 Sport Áncash           
   [Oscar Vilchez 20, 43, Juan Gonzales Vigil 27, Jose Soto 43]
 Coronel Bolognesi    0-0 Sporting Cristal       
@@ -466,23 +462,21 @@ San Martín           3-2 Sport Boys
    Victor Rossel 7, Henry Colan 50]
 Cienciano            bye
   
-Final Table:
+* 1.Cienciano (Cuzco)                        24 16  3  5  37-21  51  Apertura Champions
+* 2.Universitario (Lima)                     24 13  9  2  40-20  48
+* 3.Alianza Lima (Lima)                      24  9 11  4  43-25  38
+* 4.Sporting Cristal (Lima)                  24  9  9  6  34-28  36
+* 5.Coronel Bolognesi (Tacna)                24  8 11  5  25-20  35
+* 6.Sport Áncash (Huaraz)                    24 10  4 10  28-33  34
+* 7.Universidad San Martín de Porres (Lima)  24  8  7  9  28-26  31
+* 8.Sport Boys (Callao)                      24  8  7  9  31-34  31
+* 9.FBC Melgar (Arequipa)                    24  7  6 11  32-42  27
+*10.Atlético Universidad Nacional (Arequipa) 24  5  8 11  26-40  23
+*11.Universidad César Vallejo (Trujillo)     24  4 10 10  27-36  22
+*12.Unión Huaral (Huaral)                    24  4  9 11  24-32  21
+*13.Alianza Atlético (Sullana)               24  3 10 11  29-47  19
 
- 1.Cienciano (Cuzco)                        24 16  3  5  37-21  51  Apertura Champions
- 2.Universitario (Lima)                     24 13  9  2  40-20  48
- 3.Alianza Lima (Lima)                      24  9 11  4  43-25  38
- 4.Sporting Cristal (Lima)                  24  9  9  6  34-28  36
- 5.Coronel Bolognesi (Tacna)                24  8 11  5  25-20  35
- 6.Sport Áncash (Huaraz)                    24 10  4 10  28-33  34
- 7.Universidad San Martín de Porres (Lima)  24  8  7  9  28-26  31
- 8.Sport Boys (Callao)                      24  8  7  9  31-34  31
- 9.FBC Melgar (Arequipa)                    24  7  6 11  32-42  27
-10.Atlético Universidad Nacional (Arequipa) 24  5  8 11  26-40  23
-11.Universidad César Vallejo (Trujillo)     24  4 10 10  27-36  22
-12.Unión Huaral (Huaral)                    24  4  9 11  24-32  21
-13.Alianza Atlético (Sullana)               24  3 10 11  29-47  19
-
-Clausura
+Season: 2005 Clausura
 
 * 1.Sporting Cristal (Lima)                  24 15  7  2  37-13  52  Clausura Champions
 * 2.Universidad San Martín de Porres (Lima)  24 14  6  4  40-20  48
@@ -498,7 +492,7 @@ Clausura
 *12.Universidad César Vallejo (Trujillo)     24  5  7 12  31-39  22
 *13.Unión Huaral (Huaral)                    24  4  4 16  16-38  16
 
-Round 1 
+Round: 1 
 [Aug 6]
 Coronel Bolognesi    3-0 FBC. Melgar            
   [Junior Ross 40, Roberto Demus 63, Carlos Marczuk 70]
@@ -513,7 +507,7 @@ Atl. Universidad     3-1 Universitario
 Sport Áncash         0-0 Sporting Cristal        
 Alianza Lima         bye
 
-Round 2 
+Round: 2 
 [Aug 10]
 Cienciano            1-2 Sport Áncash
   [M.Mostto 47; S.Viera 20, J.Menacho 85]
@@ -529,7 +523,7 @@ Alianza Atlético     3-1 Atl. Universidad
   [R.Jimenez 54, I.Ponte 73, 77; C.Zuñiga 89]
 Universitario        bye
 
-Round 3 
+Round: 3 
 [Aug 13]
 Univ. César Vallejo  1-0 Alianza Lima
   [J.Moreno 40]
@@ -547,7 +541,7 @@ Sport Boys           1-1 Cienciano
   [G.Carty 75; M.Mostto 16]
 Coronel Bolognesi    bye
 
-Round 4 
+Round: 4 
 [Aug 20]
 Alianza Lima         0-0 Univ. San Martín       
 Universitario        0-1 Sporting Cristal       
@@ -562,7 +556,7 @@ Coronel Bolognesi    2-1 Univ. César Vallejo
 FBC. Melgar          0-0 Sport Áncash           
 Alianza Atlético     bye
 
-Round 5 [Aug 27]
+Round: 5 [Aug 27]
 Universitario        4-0 Cienciano              
   [P.Alva 28, D.Maldonado 30, 82, J.Molina 50]
 Alianza Atlético     0-0 Sporting Cristal       
@@ -576,7 +570,7 @@ Atl. Universidad     2-0 Unión Huaral
   [C.Calcina 58, C.Sanchez 81]
 Univ. César Vallejo  bye
 
-Round 6 
+Round: 6 
 [Aug 30]
 Alianza Lima         2-0 Sport Boys             
   [J.Soto 29, J.Viza 60]
@@ -593,7 +587,7 @@ Cienciano            3-1 Alianza Atlético
   [M.Mostto 67, S.Ibarra 71, G.Portilla 76; R.Jimenez 1]  
 Sporting Cristal     bye
 
-Round 7 
+Round: 7 
 [Sep 10]
 Atl. Universidad     1-0 Alianza Lima           
   [M.Montes 78]
@@ -610,7 +604,7 @@ Sport Boys           1-0 Coronel Bolognesi
   [V.Rossel 86]
 Univ. San Martín     bye
 
-Round 8 
+Round: 8 
 [Sep 17]
 Univ. San Martín     4-0 Sport Áncash 
   [J.Moisela 33, J.Huaman 47, P.Luguercio 58, P.Garcia 66]
@@ -625,7 +619,7 @@ FBC. Melgar          2-0 Alianza Atlético
   [J.Herrera 44, R.Diaz 73]
 Cienciano            bye
 
-Round 9
+Round: 9
 [Sep 24]
 Sporting Cristal     4-0 FBC. Melgar
   [L.Bonnet 11,15, Y.Zuñiga 83, J.Soto 88]
@@ -643,7 +637,7 @@ Cienciano            2-1 Unión Huaral
   [S.Ibarra 18, J.Garcia 42; R.Gauna 73]
 Sport Áncash         bye
 
-Round 10
+Round: 10
 [Sep 28]
 FBC. Melgar          3-0 Cienciano              
   [J.Herrera 33, 81, A.Serrano 51]
@@ -658,7 +652,7 @@ Coronel Bolognesi    2-0 Alianza Atlético
   [R.Saraz 5, J.Ross 64]
 Unión Huaral         bye
 
-Round 11
+Round: 11
 [Oct 1]
 Sporting Cristal     2-0 Coronel Bolognesi      
   [S.Leal 53, A.Prado 67]
@@ -676,7 +670,7 @@ Atl. Universidad     2-0 Sport Áncash
   [N.Raimondi 77, P.Cominges 92]
 Sport Boys           bye
 
-Round 12
+Round: 12
 [Oct 15]
 Alianza Lima         0-1 Unión Huaral           
   [J.La Torre 69]
@@ -693,7 +687,7 @@ Coronel Bolognesi    2-1 Cienciano
   [R.Demus 58pen, L.Ramirez 78; M.Mostto 49]
 FBC. Melgar          bye
 
-Round 13 
+Round: 13 
 [Oct 22]
 Sporting Cristal     2-2 Univ. San Martín       
   [Y.Zuñiga 19, C.Zegarra 75; P.Garcia 48, 85]
@@ -710,7 +704,7 @@ Unión Huaral         1-2 Coronel Bolognesi
   [R.Gauna 11pen; R.Saraz 5, J.Ross 38pen]
 Atl. Universidad     bye
 
-Round 14
+Round: 14
 [Oct 26]
 Alianza Atlético     4-3 Sport Boys             
   [R.Jimenez 29, 41, R.Villanueva 75, I.Ponte 77; A.Carmona 33pen,
@@ -727,7 +721,7 @@ Universitario        1-0 Atl. Universidad
   [M.Cevasco 83]
 Alianza Lima         bye
 
-Round 15
+Round: 15
 [Oct 29]
 Coronel Bolognesi    3-2 Alianza Lima           
   [J.Ross 12, M.Marengo 69, R.Demus; R.Holsen 42, J.Fano 71]
@@ -744,7 +738,7 @@ Sport Boys           0-1 Sporting Cristal
   [C.Lobaton 78]
 Universitario        bye
 
-Round 16 [Nov 2]
+Round: 16 [Nov 2]
 Alianza Atlético     0-1 Universitario          
   [L.Tonelotto 38]
 Alianza Lima         0-1 Univ. César Vallejo    
@@ -760,7 +754,7 @@ Sporting Cristal     2-0 Atl. Universidad
   [W.Chiroque 30, D.Soria 79]
 Coronel Bolognesi    bye
 
-Round 17
+Round: 17
 [Nov 5]
 Sporting Cristal     2-1 Universitario          
   [S.Leal 60, A.Rodriguez 91; L.Hernandez 56]
@@ -776,7 +770,7 @@ Sport Áncash         2-2 FBC. Melgar
   [J.Figueroa 15, P.Ramos 38; A.Serrano 22, H.Salas 90]
 Alianza Atlético     bye
 
-Round 18
+Round: 18
 [Nov 12]
 FBC. Melgar          1-0 Sport Boys             
   [G.Casas 55]
@@ -793,7 +787,7 @@ Unión Huaral         1-2 Atl. Universidad
   [L.Cordero 49; L.Yañez 30, M.Montes 70]
 Univ. Cesar Vallejo  bye
 
-Round 19 [Nov 16]
+Round: 19 [Nov 16]
 Alianza Atlético     1-0 Cienciano              
   [M.Casas 47]
 Univ. San Martín     0-0 Univ. Cesar Vallejo    
@@ -807,7 +801,7 @@ Atl. Universidad     0-3 FBC. Melgar
   [A.Serrano 14, 54, J.Guevara 73]
 Sporting Cristal     bye
 
-Round 20 
+Round: 20 
 [Nov 19]
 Univ. César Vallejo  2-2 Sport Áncash           
   [F.Lagorio 11pen, F.Hernandez 92; F.Mendoza 36, R.Benavides 65]
@@ -825,7 +819,7 @@ Coronel Bolognesi    2-2 Sport Boys
   [L.Ramirez 50, C.Vicente 89; P.Plaza 30, V.Rossel 61]
 Univ. San Martín     bye
 
-Round 21
+Round: 21
 [Nov 26]
 Sport Boys           3-2 Univ. Cesar Vallejo    
   [H.Colan 29pen, G.Vasallo 62, J.Corcuera 90; F.Ferreyra 39, 
@@ -843,7 +837,7 @@ Universitario        2-1 Alianza Lima
   [P.Alva 9, M.Mendoza 76; W.Aguirre 70]
 Cienciano            bye
 
-Round 22
+Round: 22
 [Dec 3]
 Alianza Lima         4-1 Alianza Atlético       
   [I.Furios 12, W.Aguirre 58, 68, J.Fano 79; G.Buena 66]
@@ -859,7 +853,7 @@ FBC. Melgar          0-2 Sporting Cristal
 Unión Huaral         0-0 Cienciano  
 Sport Ancash         bye
 
-Round 23 [Dec 7]
+Round: 23 [Dec 7]
 Alianza Atlético     1-2 Coronel Bolognesi      
   [R.Jimenez 59; M.Marengo 70, C.Vicente 85]
 Cienciano            4-0 FBC. Melgar            
@@ -873,7 +867,7 @@ Atl. Universidad     3-1 Univ. San Martín
 Sporting Cristal     0-0 Alianza Lima           
 Unión Huaral         bye
 
-Round 24
+Round: 24
 [Dec 10]
 Sport Ancash         3-2 Atl. Universidad       
   [F.Mendoza 28, N.Portillo 45, W.Bernui 67; P.Cominges 46, C.Zuñiga 67]
@@ -890,7 +884,7 @@ Univ. San Martín     1-0 Universitario
 [P.Garcia 60pen]
 Sport Boys           bye
 
-Round 25 [Dec 14]
+Round: 25 [Dec 14]
 Sporting Cristal     1-1 Univ. Cesar Vallejo    
   [M.Sawa 46; J.Moreno 38]
 Alianza Atlético     1-4 Univ. San Martín       
@@ -905,7 +899,7 @@ Unión Huaral         0-2 Alianza Lima
   [W.Aguirre 38, J.Viza 84]
 FBC. Melgar          bye
 
-Round 26
+Round: 26
 [Dec 17]
 Sport Ancash         1-0 Alianza Atlético       
   [R.Benavides 89]
@@ -921,21 +915,19 @@ Coronel Bolognesi    2-2 Unión Huaral
 Sport Boys           0-0 Universitario 
 Atl. Universidad     bye
 
-Final Table:
-
- 1.Sporting Cristal (Lima)                  24 15  7  2  37-13  52  Clausura Champions
- 2.Universidad San Martín de Porres (Lima)  24 14  6  4  40-20  48
- 3.Coronel Bolognesi (Tacna)                24 14  2  8  38-32  44
- 4.Universitario (Lima)                     24 11  7  6  31-20  40
- 5.Cienciano (Cuzco)                        24  9  6  9  33-30  33
- 6.Sport Áncash (Huaraz)                    24  9  5 10  27-32  32
- 7.FBC Melgar (Arequipa)                    24  9  5 10  26-37  32
- 8.Atlético Universidad Nacional (Arequipa) 24  9  4 11  35-39  31
- 9.Alianza Atlético (Sullana)               24  9  3 12  29-39  30
-10.Sport Boys (Callao)                      24  7  7 10  23-30  28
-11.Alianza Lima (Lima)                      24  7  5 12  26-23  26
-12.Universidad César Vallejo (Trujillo)     24  5  7 12  31-39  22
-13.Unión Huaral (Huaral)                    24  4  4 16  16-38  16
+* 1.Sporting Cristal (Lima)                  24 15  7  2  37-13  52  Clausura Champions
+* 2.Universidad San Martín de Porres (Lima)  24 14  6  4  40-20  48
+* 3.Coronel Bolognesi (Tacna)                24 14  2  8  38-32  44
+* 4.Universitario (Lima)                     24 11  7  6  31-20  40
+* 5.Cienciano (Cuzco)                        24  9  6  9  33-30  33
+* 6.Sport Áncash (Huaraz)                    24  9  5 10  27-32  32
+* 7.FBC Melgar (Arequipa)                    24  9  5 10  26-37  32
+* 8.Atlético Universidad Nacional (Arequipa) 24  9  4 11  35-39  31
+* 9.Alianza Atlético (Sullana)               24  9  3 12  29-39  30
+*10.Sport Boys (Callao)                      24  7  7 10  23-30  28
+*11.Alianza Lima (Lima)                      24  7  5 12  26-23  26
+*12.Universidad César Vallejo (Trujillo)     24  5  7 12  31-39  22
+*13.Unión Huaral (Huaral)                    24  4  4 16  16-38  16
 
 
 

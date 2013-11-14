@@ -1,10 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesp/peru01.html
-
-Peru 2001
-
-Primera División
-
-Apertura
+Competition: Peruvian Primera División
+Season: 2001 Apertura
 
 * 1.Sporting Cristal        22 13  7  2  46-18  46
 * 2.Alianza Lima            22 13  7  2  42-19  46
@@ -19,12 +15,12 @@ Apertura
 *11.Estudiantes de Medicina 22  5  5 12  25-53  20
 *12.Deportivo Wanka         22  4  6 12  27-36  18
 
-[*] U.P.O.A., in financial difficulties, was saved by the enterprise
-    Coopsol and the team renamed Coopsol Trujillo; the second division
-    team Deportivo Coopsol is renamed Sport Coopsol and plays as their
-    B-team.
+*[*] U.P.O.A., in financial difficulties, was saved by the enterprise
+*    Coopsol and the team renamed Coopsol Trujillo; the second division
+*    team Deportivo Coopsol is renamed Sport Coopsol and plays as their
+*    B-team.
 
-Round 1 
+Round: 1 
 [Feb 17]
 Cristal       2-1 Cienciano
   [Gastón Córdoba 80pen, David Soria 90pen; Santiago Salazar 92og]
@@ -42,7 +38,7 @@ Sport Boys    3-2 Coopsol
   [Germán Muñoz 47, Gustavo Tempone 69, Rómulo Fernández 73;
    Farley Hoyos 4, Juan Saavedra 55]
 
-Round 2 
+Round: 2 
 [Feb 24]
 Aurich        3-1 Sport Boys  
   [Pedro Ascoy 28, 46, Juan Figueroa 86; Rómulo Fernández 64]
@@ -59,7 +55,7 @@ Wanka         1-3 Minas
 Universitario 2-0 Alianza Atl 
   [Carlos Zegarra 27og, Víctor Yllescas 83]
 
-Round 3 
+Round: 3 
 [Mar 3]
 Melgar        6-0 Alianza Atl
   [Alexis Aguirre 8, 17, 46, Francisco Pizarro 35, Carlos Castillo 57,
@@ -77,7 +73,7 @@ Alianza Lima  2-1 Cristal
 Minas         1-0 Coopsol 
   [Wilmer Ricardi 41] 
 
-Round 4 
+Round: 4 
 [Mar 9] 
 Sport Boys    3-1 Melgar 
   [Rómulo Fernández 17, 55, Rivelino Carassa 60; Alfonso Dulanto 70]
@@ -94,7 +90,7 @@ Estudiantes   1-2 Juan Aurich
 Alianza Lima  2-0 Minas 
   [Roberto Holsen 14, 75pen]
 
-Round 5
+Round: 5
 [Mar 17] 
 Melgar        1-0 Wanka 
   [Aldo Cavero 55]
@@ -111,7 +107,7 @@ Unión Minas   3-0 Sport Boys
 Cristal       5-0 Alianza Atl
   [Luis Bonnet 35, 46, Gastón Córdoba 60pen, Jorge Soto 62, Piero Alva 68]
 
-Round 6 
+Round: 6 
 [Mar 25]
 Estudiantes   2-2 Melgar
   [Ruben Diaz 55pen, Paul Cominges 87; Nelson Gomez 57, 93pen]
@@ -126,7 +122,7 @@ Wanka         1-2 Cienciano
 Universitario 2-2 Alianza Lima
   [Gregorio Bernales 57, Fernando del Solar 76; Waldir Saenz 15, Palinha 72]
 
-Round 7
+Round: 7
 [Mar 31]
 Cristal       2-1 Wanka 
   [Roberto Silva 16, 76; Jorge Ramírez 39]
@@ -144,7 +140,7 @@ Coopsol       2-1 Cienciano
 Alianza Lima  1-0 Melgar 
   [Palinha 40]
 
-Round 8
+Round: 8
 [Apr 6]
 Coopsol       1-1 Alianza Lima 
   [Rodrigo Saraz 76; Palinha 54pen]
@@ -162,7 +158,7 @@ Estudiantes   1-1 Sport Boys
 Universitario 1-2 Juan Aurich 
   [Sergio Ibarra 67; José Guevara 34, Néstor Rivera 80]
 
-Round 9
+Round: 9
 [Apr 14]
 Alianza Lima  4-0 Alianza Atletico
   [Palinha 43, Henry Quinteros 64, Waldir Sáenz 74, Luis Hernández 88]
@@ -178,7 +174,7 @@ Estudiantes   3-2 Coopsol
 Juan Aurich   0-2 Cristal
   [Piero Alva 14, Julinho 88]
 
-Round 10 
+Round: 10 
 [Apr 20]
 Alianza Lima  3-1 Sport Boys 
   [Roberto Farfan 73, 90, Roberto Holsen 86; Gustavo Tempone 75]
@@ -196,7 +192,7 @@ Juan Aurich   4-2 Union Minas
 Cristal       1-2 Universitario 
   [Manuel Marengo 50; Sergio Ibarra 48, Gustavo Grondona 88]
 
-Round 11
+Round: 11
 [Apr 27]
 Sport Boys    2-1 Alianza Atl 
   [Julio Penalillo 56, Martín Fúriga 70; Dagoberto Goyzueta 87]
@@ -215,7 +211,7 @@ Cienciano     5-2 Juan Aurich
   [Nilson Alvarez 13, 68, 88, Jair Vásquez 21pen, Miguel Ortega 46;
    Johnny Mujica 63, Lino Morán 92pen]
 
-Round 12
+Round: 12
 [May 1]
 Wanka         1-1 Alianza Lima 
   [Carlos Ibarra 14; Edu Esidio pen]
@@ -232,7 +228,7 @@ Cienciano     1-1 Cristal
 Coopsol       1-1 Sport Boys 
   [Juan Saavedra 15; Gustavo Tempone 93]
 
-Round 13
+Round: 13
 [May 6]
 Alianza Atl   0-1 Universitario 
   [Milton Marquillo]
@@ -250,7 +246,7 @@ Sport Boys    3-0 Juan Aurich
 Alianza Lima  3-1 Cienciano
   [Eduardo Esidio 27, 55, Waldir Sáenz 39; Pedro Prado 77]
 
-Round 14 
+Round: 14 
 [May 12]
 Sport Boys    3-2 Cienciano
   [Rómulo Fernández 29, Sandro Gamarra 65, Gustavo Tempone 86; Rogeiro 23, 55]
@@ -266,7 +262,7 @@ Wanka         1-1 Juan Aurich
 Coopsol       2-1 Union Minas 
   [Farley Hoyos 24, Rodrigo Saraz 76; Johan Fano 35]
 
-Round 15
+Round: 15
 [May 19]
 Universitario 2-0 Wanka
   [Fernando Martínez 38, Abel Lobatón 85]
@@ -283,7 +279,7 @@ Cienciano     2-0 Alianza Atl
 Union Minas   1-3 Alianza Lima
   [Carlos Cáceda 54; José Soto 16, Luis Hernández 55, Roberto Holsen 70]
 
-Round 16 
+Round: 16 
 [May 23] 
 Alianza Atl   1-1 Cristal
   [Luis Bello 20; Jean Ferrari 40]
@@ -300,7 +296,7 @@ Coopsol       2-2 Universitario
 Wanka         1-1 Melgar
   [Marcio Dos Santos 36; Juan Gutiérrez 32]
 
-Round 17 [May 27] 
+Round: 17 [May 27] 
 Cienciano     4-2 Wanka
   [Roberto Martínez 9, Miguel Ortega 22, Pedro Prado 43, Mauricio Martínez 78;
    Jorge Ramírez 52pen, Rafael Arnao 68]
@@ -316,7 +312,7 @@ Coopsol       3-2 Juan Aurich
 Alianza Lima  1-0 Universitario
   [Juan Carlos Bazalar 26]
 
-Round 18 [Jun 6] 
+Round: 18 [Jun 6] 
 Universitario 3-2 Sport Boys 
   [Abel Lobatón 9, Jorge Araújo 63, Sergio Ibarra 93; Gustavo Tempone 21, 
    Rómulo Fernández 49]
@@ -332,7 +328,7 @@ Estudiantes   2-3 Unión Minas
   [Paul Cominges 7, Wilfredo Begazo 46; Victor Larrahondo 37, 89,
    Daniel Porras 76] 
 
-Round 19 [Jun 10]
+Round: 19 [Jun 10]
 Cristal       2-2 Melgar  
   [Jorge Soto 49, Gastón Córdoba 74; Leonardo Uehara 29, Carlos Castillo 90]
 Juan Aurich   1-1 Universitario 
@@ -346,7 +342,7 @@ Union Minas   0-1 Cienciano
 Alianza Atl   3-1 Wanka
   [Luis Bello 15, Alex Becerra 29, Carlos Zegarra 51; Ismael Zegarra ?]
 
-Round 20 
+Round: 20 
 [Jun 16] 
 Melgar        4-2 Union Minas
   [Alexis Aguirre 16, 25, Alfonso Dulanto 60, Carlos Castillo 80;
@@ -364,7 +360,7 @@ Wanka         4-0 Sport Boys
 Alianza Atl   2-2 Alianza Lima
   [Ismael Habrahamshon 47, Marco Salinas 77; Luis Hernández 21, Waldir Sáenz 31]
 
-Round 21 [Jun 24]
+Round: 21 [Jun 24]
 Universitario 1-2 Cristal 
   [Sergio Ibarra 73; Roberto Silva 29, Piero Alva 64]
 Sport Boys    3-0 Alianza Lima 
@@ -376,7 +372,7 @@ Union Minas   0-0 Juan Aurich
 Cienciano     1-2 Melgar 
   [Luis Molina 85pen; Paulo Cruvinel 43, Walter Zeballos 83]
 
-Round 22 
+Round: 22 
 [Jun 27] 
 Alianza Atl   1-0 Sport Boys
   [Ismael Habrahamshon 75]
@@ -419,24 +415,22 @@ Alianza Lima  2-1 Cristal
 Alianza Lima Apertura winners 2001.
 
 
-Clausura
+Season: 2001 Clausura
 
-Final Table:
+* 1.Cienciano               22 14  3  5  39-30  45
+* 2.Estudiantes de Medicina 22 14  3  5  35-26  45
+* 3.Sporting Cristal        22 14  2  6  44-25  44
+* 4.Alianza Atlético        22 11  3  8  25-24  36
+* 5.Sport Boys              22  9  5  8  29-31  32
+* 6.Universitario           22  8  7  7  29-24  31
+* 7.Deportivo Wanka         22  8  4 10  22-27  28
+* 8.Melgar                  22  8  2 12  30-31  26
+* 9.Coopsol Trujillo        22  6  7  9  35-35  25
+*10.Alianza Lima            22  4  9  9  25-28  21
+*11.Unión Minas             22  5  5 12  27-42  20
+*12.Juan Aurich             22  3  6 13  22-39  15
 
- 1.Cienciano               22 14  3  5  39-30  45
- 2.Estudiantes de Medicina 22 14  3  5  35-26  45
- 3.Sporting Cristal        22 14  2  6  44-25  44
- 4.Alianza Atlético        22 11  3  8  25-24  36
- 5.Sport Boys              22  9  5  8  29-31  32
- 6.Universitario           22  8  7  7  29-24  31
- 7.Deportivo Wanka         22  8  4 10  22-27  28
- 8.Melgar                  22  8  2 12  30-31  26
- 9.Coopsol Trujillo        22  6  7  9  35-35  25
-10.Alianza Lima            22  4  9  9  25-28  21
-11.Unión Minas             22  5  5 12  27-42  20
-12.Juan Aurich             22  3  6 13  22-39  15
-
-Round 1
+Round: 1
 [Jul 28]
 Melgar        2-0 Juan Aurich 
   [Nelson Gómez 26, Carlos Castillo 73]
@@ -454,7 +448,7 @@ Union Minas   1-0 Universitario
 Sport Boys    2-1 Coopsol 
   [German Muñoz 24, Romulo Fernandez 50; Juan Saavedra 39pen]
 
-Round 2
+Round: 2
 [Aug 4]
 Universitario 1-0 Alianza Atletico 
   [Fernando del Solar 31]
@@ -472,7 +466,7 @@ Cienciano     4-2 Alianza Lima
 Estudiantes   1-2 Cristal 
   [Paul Cominges 72; Piero Alva 15, Herly Alcazar 54]
 
-Round 3 
+Round: 3 
 [Aug 11]
 Cristal       1-0 Alianza Lima 
   [Jorge Soto 78]
@@ -487,7 +481,7 @@ Juan Aurich   0-0 Wanka
 Universitario 1-1 Estudiantes 
   [Martín Vilallonga (pen); Víctor Reyes]
 
-Round 4
+Round: 4
 [Aug 18] 
 Alianza Lima  1-0 Union Minas 
   [Henry Quinteros 47] 
@@ -503,7 +497,7 @@ Wanka         2-0 Universitario
 Sport Boys    1-0 Melgar 
   [Miguel Zagaceta 67] 
 
-Round 5 [Aug 26] 
+Round: 5 [Aug 26] 
 Universitario 2-0 Coopsol 
   [Sergio Ibarra 84, Martín Vilallonga 86] 
 Cristal       3-0 Alianza Atlético 
@@ -519,7 +513,7 @@ Cienciano     4-1 Estudiantes
   [Ernesto Zapata 37, Frank Palomino 46, Mauricio Martínez 59,
    Jean Garrafa 86; Paul Cominges 53]
 
-Round 6 
+Round: 6 
 [Aug 30] 
 Sport Boys    1-0 Cristal 
   [Johan Fano 36] 
@@ -537,7 +531,7 @@ Estudiantes   1-2 Melgar
 Juan Aurich   1-1 Coopsol 
   [Lino Morán 54; Wilkin Cavero 90]
 
-Round 7
+Round: 7
 [Sep 8] 
 Sport Boys    2-2 Universitario 
   [Jair Iglesias 15, Johan Fano 69; Sergio Ibarra 21, Fernando del Solar 89]
@@ -553,7 +547,7 @@ Minas         1-3 Estudiantes
 Coopsol       4-0 Cienciano 
   [Juan Saavedra 6, Amilton Prado 30, Rodrigo Saraz 53, 81]
 
-Round 8 
+Round: 8 
 [Sep 15] 
 Coopsol       0-0 Alianza Lima 
 [Sep 16]
@@ -569,7 +563,7 @@ Cienciano     2-1 Union Minas
 Wanka         1-0 Alianza Atletico 
   [Roberto Dolorier 12]
 
-Round 9 
+Round: 9 
 [Sep 22] 
 Sport Boys    4-1 Wanka 
   [Rafael Villanueva 26, 46, 77, Bratzo Gil 53; Marcio 15]
@@ -585,7 +579,7 @@ Estudiantes   1-0 Coopsol
 Union Minas   1-1 Melgar 
   [Miguel Magallanes 40; Leonardo Enciso 90pen]
 
-Round 10
+Round: 10
 [Sep 26] 
 Alianza Atl.  0-0 Coopsol 
 Juan Aurich   4-2 Minas 
@@ -601,7 +595,7 @@ Cristal       1-0 Universitario
 Alianza Lima  2-0 Sport Boys 
   [Roberto Farfan 17, Henry Quinteros 69]
 
-Round 11 
+Round: 11 
 [Sep 29] 
 Coopsol       0-0 Wanka 
 Sport Boys    2-0 Alianza Atletico 
@@ -616,7 +610,7 @@ Estudiantes   2-2 Alianza Lima
 Unión Minas   1-3 Cristal 
   [Carlos Dueñas 82; Jorge Soto 7, José Moisella 85, Roberto Palacios 89]
 
-Round 12
+Round: 12
 [Oct 7]
 Juan Aurich   0-1 Melgar
   [Gabriel Varillas 56]
@@ -633,7 +627,7 @@ Wanka         0-0 Alianza Lima
 Universitario 2-0 Unión Minas
   [Martin Vilallonga 16pen, Jorge Araujo 58]
 
-Round 13 
+Round: 13 
 [Oct 13] 
 Melgar        1-2 Coopsol 
   [Alexis Aguirre 10; Rodrigo Saraz 12, Manuel Lopez 92pen] 
@@ -647,7 +641,7 @@ Alianza Atl   0-0 Universitario
 Union Minas   1-1 Wanka 
   [Julio Garcia 5; Jorge Ramirez 61]
 
-Round 14 
+Round: 14 
 [Oct 20]
 Coopsol       5-2 Union Minas 
   [Amilton Prado 20, Félix Otoya 40, Oscar Dertycia 52, 73, Martín Reyes 68;
@@ -664,7 +658,7 @@ Alianza Atl   2-1 Melgar
 Wanka         3-0 Juan Aurich 
   [Jorge Ramirez 42pen, 85, Santiago Acasiete 82]
 
-Round 15 
+Round: 15 
 [Oct 27]
 Juan Aurich   2-3 Estudiantes
   [Renato Brasilia 25, Jose Guevara 61pen; German Carty 31, Frank Aguirre 50,
@@ -681,7 +675,7 @@ Melgar        1-2 Sport Boys
 Union Minas   1-0 Alianza Lima 
   [Wilfredo Begazo 41]
 
-Round 16 
+Round: 16 
 [Nov 1]
 Coopsol       2-2 Universitario
   [Amilton Prado 29, Rodrigo Saraz 59; Fernando del Solar 19, Sergio Ibarra 65]
@@ -698,7 +692,7 @@ Estudiantes   2-1 Cienciano
 Wanka         1-0 Melgar
   [Dante Chumpitaz 75]
 
-Round 17
+Round: 17
 [Nov 10]
 Coopsol       2-2 Juan Aurich 
   [Oscar Dertycia 16, Amilton Prado 70; Rodolfo Miñan 33, Angel Villalta 88]
@@ -715,7 +709,7 @@ Cristal       4-2 Sport Boys
   [José Moisella 18pen, Julinho 49, Jorge Soto 60, Piero Alva 77;
    José Chacón 45, Carlos Lobatón 85]
 
-Round 18
+Round: 18
 [Nov 17] 
 Wanka         1-0 Cristal 
   [Dante Chumpitaz 56] 
@@ -732,7 +726,7 @@ Melgar        4-4 Alianza Lima
 Juan Aurich   2-3 Alianza Atlético 
   [José Guevara 28, 68pen; Carlos Zegarra 58, 66, Pedro García 87]
 
-Round 19
+Round: 19
 [Nov 24]
 Cristal       4-3 Melgar 
   [Jean Ferrari 45, Herly Alcazar 69, Julinho 71, Gaston Cordoba 78pen;
@@ -749,7 +743,7 @@ Alianza Lima  2-2 Coopsol
 Juan Aurich   1-1 Universitario 
   [José Guevara 97pen; José del Solar 45]
 
-Round 20 
+Round: 20 
 [Dec 1]
 Universitario 4-1 Cienciano 
   [Abel Lobatón 54, Mario Gómez 67, Carlos Orejuela 74, Paolo Maldonado 91; 
@@ -767,7 +761,7 @@ Wanka         2-1 Sport Boys
 Melgar        1-2 Union Minas 
   [Héctor Arenas 18; Wilfredo Begazo 32, Victor Larrahondo]
 
-Round 21 
+Round: 21 
 [Dec 8]
 Sport Boys    1-1 Alianza Lima 
   [Johny Vegas 85pen; Waldir Sáenz 20]
@@ -783,7 +777,7 @@ Coopsol       0-1 Alianza Atletico
 Union Minas   2-2 Juan Aurich 
   [David Chévez 21, 63pen; Carlos Lugo 34pen, Nilson Alvarez 83]
 
-Round 22 
+Round: 22 
 [Dec 12]
 Alianza Atl   3-1 Sport Boys
   [Carlos Zegarra 8, Pedro Garcia 48, Alex Becerra 93; Carlos Lobaton 6]

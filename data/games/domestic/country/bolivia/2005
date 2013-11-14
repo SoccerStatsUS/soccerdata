@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesb/bol05.html
-
-Bolivia 2005
+Competition: Liga de Fútbol Profesional Boliviano
+Season: 2005 Adecuacion
 
 *Torneo Adecuación 2005
 *
@@ -22,7 +22,7 @@ Bolivia 2005
 *11.Unión Central              22  5  4 13 20-42 19
 *12.Univ. Iberoamericana       22  1  5 16 11-45  8
 
-Round 1
+Round: 1
 [Mar 5]
 La Paz FC               3-1 Blooming
   [Julio Cesar Cortez 14, 23, Marco Leonard Aguilera 69;
@@ -42,7 +42,7 @@ Oriente Petrolero       2-0 Iberoamericana
 Real Potosí             1-0 Jorge Wilstermann     
   [Christiano Alfredo Jara 83]
 
-Round 2
+Round: 2
 [Mar 13]
 Iberoamericana          3-1 Destroyers
   [Ramiro Ariel Berrios 66, 88, Jorge Fernando Garzon 70; 
@@ -62,7 +62,7 @@ Blooming                2-1 Oriente Petrolero
 Unión Central           0-2 The Strongest
   [Hugo Ranulfo Sosa 4, Pablo Alberto Cubas 75]
 
-Round 3
+Round: 3
 [Mar 19]
 The Strongest           0-1 Aurora
   [Raul Gutierrez 48]
@@ -79,7 +79,7 @@ Oriente Petrolero     1-1 San José
 Destroyers                  1-4 Blooming 
   [German Mendez 23; Juan Eduardo Fierro 1, 28, 36, Carlos Cardenas 52]
 
-Round 4
+Round: 4
 [Apr 2]
 San José                7-2 Destroyers
   [Santos Amador 6, Ruben Dario Aguilera 29, 39, 
@@ -98,7 +98,7 @@ Unión Central       0-1 Oriente Petrolero
   [Erwin Sanchez 62]
 Blooming         0-0 Jorge Wilstermann
 
-Round 5
+Round: 5
 [Apr 5]
 Destroyers              3-1 Unión Central
   [Carlos Eduardo Monteiro 33, 66, Oscar Mario Arauz 61;
@@ -118,7 +118,7 @@ Bolívar                 5-0 Blooming
   [Danner Jesus Pachi 5, Julio Cesar Ferreira 14, 59,
    Diego Aroldo Cabrera 49, Oscar Carmelo Sanchez 76pen]
 
-Round 6
+Round: 6
 [Apr 9]
 La Paz FC               0-1 Real Potosí
   [Christiano Alfredo Jara 35]
@@ -138,7 +138,7 @@ Blooming               3-2 Iberoamericana
   [Juan Eduardo Fierro 18, Gualberto Mojica 24, 79;
    Dimas Martin Flores 62, Clemilson Da Silva 70]
 
-Round 7
+Round: 7
 [Apr 16]
 Oriente Petrolero       2-1 La Paz FC
   [Reginaldo Soares 4, 57; Marco Leonard Aguilera 85] 
@@ -155,7 +155,7 @@ Destroyers           2-3 The Strongest
   [Hector Fabian Hernandez 56, Armando Ibañez 76;
    Hugo Ranulfo Sosa 54, 79, Gilberto Ayala 78og] 
 
-Round 8
+Round: 8
 [Apr 23]
 La Paz FC               6-1 Destroyers
   [Adrian Marcelo Romero 39, Marco Leonard Aguilera 48, 67pen, 77,
@@ -174,7 +174,7 @@ Oriente Petrolero   3-1 Real Potosí
   [Carlos Wilson Villagra 47, Ronald Arana 50pen,
    Martin Adrian Palavicini 63; Domingo Orlando Cardozo 26] 
 
-Round 9
+Round: 9
 [Apr 30]
 Real Potosi             3-3 San José
   [Christiano Alfredo Jara 28, 48, Roberto Carlos Correa 60;
@@ -194,7 +194,7 @@ Blooming            3-2 Unión Central
   [Vanderley Dos Santos 18, Alexandre Dos Santos 52, Gualberto Mojica 72; 
    Edgar Gareca 48, Diego Martin Osorio 79] 
 
-Round 10
+Round: 10
 [May 7]
 The Strongest           3-1 Iberoamericana
   [Ruben Dario Tufiño 23, Pablo Daniel Escobar 72, Zackary Flores 84;
@@ -214,7 +214,7 @@ Oriente Petrolero   0-3 Jorge Wilstermann
 Unión Central           1-0 San José
   [Luis Gustavo Romanello 16]
 
-Round 11
+Round: 11
 [May 14]
 San José                6-0 Aurora
   [Ruben Dario Aguilera 38, 45, 59, Gabriel Alejandro Viglianti 51,
@@ -232,7 +232,7 @@ Bolívar          3-0 Oriente Petrolero
 Blooming               1-0 The Strongest
   [Alexandre De Souza 10] 
 
-Round 12
+Round: 12
 [May 22]
 Iberoamericana          0-0 Oriente Petrolero
 San Jose                    1-1 The Strongest
@@ -248,7 +248,7 @@ Blooming        1-0 La Paz FC
 Jorge Wilstermann       2-0 Real Potosi
   [Luis Hernan Sillero 85, 90]
 
-Round 13
+Round: 13
 [May 28]
 Real Potosi             1-0 Aurora
   [Marcelo Angulo 78pen]
@@ -269,7 +269,7 @@ Destroyers              2-0 Iberoamericana
 The Strongest           2-0 Union Central
   [Lider Paz 35, Juan Doyle Vaca 66]
 
-Round 14
+Round: 14
 [Jun 18]
 Iberoamericana          0-0 Jorge Wilstermann
 [Jun 19]
@@ -288,7 +288,7 @@ Aurora                  2-0 The Strongest
 Blooming                1-0 Destroyers 
   [Dimas Roberto Da Silva 68]
 
-Round 15
+Round: 15
 [Jun 25]
 Oriente Petrolero       5-1 Union Central
   [Oscar Alcides Espinola 2, Murilo Luis Casagrande 70, 78,
@@ -309,7 +309,7 @@ Destroyers              4-3 San Jose
   [Ernesto Cabello 23, Carlos Eduardo Monteiro 37, Herlan Sanchez 65, 86;
    Gabriel Alejandro Viglianti 10, 42, Ruben Dario Aguilera 76]
 
-Round 16
+Round: 16
 [Jun 29]
 Iberoamericana          1-1 Real Potosi
   [Faustino Abraham Garcia 64; Jose Loayza 84]
@@ -326,7 +326,7 @@ Union Central           0-0 Destroyers
 Blooming                0-2 Bolivar
   [Marco Antonio Sandy 41, Limbert Percy Pizarro 90]
 
-Round 17
+Round: 17
 [Jul 2]
 Destroyers              2-3 Aurora
   [Ernesto Cabello 30, 34; Adhemar Arias 45, Juliano Morel 53,
@@ -344,7 +344,7 @@ Bolivar                 2-0 San Jose
 Oriente Peterolero      1-0 The Strongest
   [Oscar Alcides Espinola 26pen]
 
-Round 18 [Jul 10]
+Round: 18 [Jul 10]
 La Paz FC               1-3 Oriente Petrolero
   [Daison De Jesus Guale 33; Juan Carlos Arce 35, 73, Erwin Sanchez 56]
 San Jose                2-1 Iberoamericana
@@ -360,7 +360,7 @@ Union Central           2-2 Bolivar
 Blooming                1-0 Real Potosi           
   [Vanderley Dos Santos 32]
 
-Round 19
+Round: 19
 [Jul 13]
 Iberoamericana          1-1 Union Central
   [Faustino Abraham Garcia 73; Weimar Peterson 65]
@@ -377,7 +377,7 @@ Bolivar                 4-3 Aurora
   [Limberg Gutierrez 2, 30, Juan Matias Fischer 43, Luis Anibal Torrico 49;
    Hugo Ruiz 13, 35, Limberg Morejon 51]
 
-Round 20
+Round: 20
 [Jul 16]
 La Paz FC               1-1 Jorge Wilstermann
   [Julio Cesar Cortez 70; Luis Hernan Sillero 27] 
@@ -394,7 +394,7 @@ Union Central           0-0 Blooming
 Oriente Petrolero       1-1 Destroyers
   [Erwin Sanchez 53; Isaias Viruez 9]
 
-Round 21
+Round: 21
 [Jul 20]
 Bolivar                 0-1 La Paz FC
   [Daison De Jesus Guale 84]
@@ -412,7 +412,7 @@ Iberoamericana          0-4 The Strongest
 Blooming                2-0 Aurora
   [Dimas Roberto Da Silva 67, Raymundo Barbosa 81]
 
-Round 22 [Jul 24]
+Round: 22 [Jul 24]
 La Paz FC               2-0 Iberoamericana
   [Daison De Jesus Guale 9, Jaime Robles 65]
 Union Central           4-0 Real Potosí
@@ -463,7 +463,8 @@ Oriente Petrolero       2-1 Bolivar
 *Apertura 2005; 1 team directly relegated, 1 to play-off.
 
 
-Torneo Apertura 2005
+
+Season: 2005 Apertura
 
 *NB: was supposed to be first half of 2005/06 season but eventually
 *    Bolivia decided to stick to the calendar year season
@@ -488,7 +489,7 @@ Torneo Apertura 2005
 * 5.Aurora                     12  2  4  6 11-15 10 
 * 6.Unión Central              12  3  1  8 14-30 10
 
-Round 1 
+Round: 1 
 [Aug 20]
 La Paz FC              1-1 Union Central 
   [Daison De Jesus Guale 88; Edgar Soliz 15]
@@ -507,7 +508,7 @@ San Jose               5-1 Blooming
    Daniel Coracini 45]
 Jorge Wilstermann      0-0 The Strongest 
 
-Round 2 
+Round: 2 
 [Aug 27]
 Aurora                 1-1 Real Potosí
   [Raul Gutierrez 15; Marcelo Angulo 37pen]
@@ -527,7 +528,7 @@ Blooming              10-0 Iberoamericana
    Dimas Roberto Da Silva 25, 86, Joselito Vaca 30, Raymundo Barbosa 54,
    Herman Soliz 76, German Real 80, 85]
 
-Round 3 
+Round: 3 
 [Sep 10]
 Iberoamericana         0-1 The Strongest
   [Hugo Ranulfo Sosa 43]
@@ -546,7 +547,7 @@ Oriente Petrolero      4-1 La Paz FC
   [Roger Suarez 8pen, Ruben Melgar 23, Gustavo Gois De Lira 45og,
    Carlos Wilson Villagra 63; Diomedes Peña 60pen]
 
-Round 4 (inter-serie)
+Round: 4 (inter-serie)
 [Sep 18]
 Iberoamericana         1-2 La Paz FC
   [Nelson Gustavo Nuñez 55; Daison De Jesus Guale 39, Roberto Galindo 88]
@@ -562,7 +563,7 @@ Bolivar                3-0 The Strongest
 Oriente Petrolero      1-1 Blooming
   [Juan Carlos Arce 68; Jorge Flavio Zapata 30]
 
-Round 5
+Round: 5
 [Sep 24]
 The Strongest          0-1 Blooming
   [Gualberto Mojica 13]
@@ -580,7 +581,7 @@ Union Central          4-2 Real Potosi
 Oriente Petrolero      1-2 Bolivar
   [Carlos Wilson Villagra 68; Juan Matias Fischer 39, Augusto Andaveris 62]
 
-Round 6
+Round: 6
 [Sep 29]
 Blooming               2-3 Jorge Wilstermann
   [German Real 37, Jorge Flavio Zapata 42; Julio Cesar Baldivieso 9,
@@ -599,7 +600,7 @@ Aurora                 1-1 Oriente Petrolero
 Destroyers             3-1 The Strongest
   [Isaias Viruez 11, 24, Carlos Eduardo Monteiro 84pen; Jose Luis Berdugo 38]
 
-Round 7
+Round: 7
 [Oct 15]
 Iberoamericana         1-3 Destroyers
   [Faustino Abraham Garcia 1; Carlos Eduardo Monteiro 15pen, Gilberto Ayala 23,
@@ -616,7 +617,7 @@ Real Potosi            1-1 Oriente Petrolero
 Union Central          1-2 La Paz FC
   [Mauro Moraga 49; Julio Cesar Hurtado 15, Daison De Jesus Guale 32]
 
-Round 8 (Inter-serie)
+Round: 8 (Inter-serie)
 [Oct 22]
 La Paz FC              3-1 Iberoamericana
   [Roberto Galindo 2, Jaime Robles 27, Daison De Jesus Guale 57;
@@ -634,7 +635,7 @@ Union Central          3-1 Destroyers
 Blooming               2-1 Oriente Petrolero
   [Joselito Vaca 74, Gualberto Mojica 86; Juan Carlos Arce 12] 
 
-Round 9
+Round: 9
 [Oct 26]
 San Jose               0-3 The Strongest
   [Pablo Daniel Escobar 51, Richard Jose Rojas 58, Lider Paz 79] 
@@ -652,7 +653,7 @@ Bolivar                3-1 La Paz FC
 Oriente Petrolero      2-1 Union Central
   [Richard Zandro Uriona 41, Juan Carlos Arce 52; Mauro Moraga 43] 
 
-Round 10
+Round: 10
 [Oct 29]
 The Strongest          6-1 Iberoamericana
   [Ronald Gutierrez 6, Lider Paz 20, 72, Wilder Arevalo 25,
@@ -670,7 +671,7 @@ La Paz FC              3-0 Oriente Petrolero
 Union Central          1-2 Aurora
   [Adrian Cucaro 8; Hector Mario Nuñez 7, Carlos Sosa 27]
 
-Round 11
+Round: 11
 [Nov 2]
 Destroyers             3-2 San Jose
   [Carlos Eduardo Monteiro 12, 40, Ricardo Moreno 48; Jose Luis Ortiz 83, 85]
@@ -687,7 +688,7 @@ Iberoamericana         0-6 Jorge Wilstermann
    Fernando Romero 23]
 Blooming               0-0 The Strongest
 
-Round 12
+Round: 12
 [Nov 5]
 San Jose               4-0 Iberoamericana
   [Jorge Gary Paz 4, 39, Enrique Parada 57, Mike Montaño 87]
@@ -725,6 +726,9 @@ Oriente Petrolero      1-0 Aurora
 *Top-3 of both groups of Clasificación qualify for Hexagonal Final
 
 
+
+Season: 2005 Hexagonal
+
 *Hexagonal Final
 *
 *Final Table:
@@ -737,7 +741,7 @@ Oriente Petrolero      1-0 Aurora
 * 6.San José                   10  2  4  4 12-11 10
 *NB: Bolívar 3 points deducted for failing to pay former coach Gustavo Huerta.
 
-Round 1
+Round: 1
 [Nov 12]
 San Jose               1-1 Blooming
   [Ruben Dario Aguilera 81; Dimas Roberto Da Silva 90]
@@ -747,7 +751,7 @@ The Strongest          1-2 La Paz FC
 Oriente Petrolero      2-1 Bolivar
   [Carlos Wilson Villagra 41, 67; Oscar Carmelo Sanchez 90]
 
-Round 2
+Round: 2
 [Nov 16]
 La Paz FC              3-1 Oriente Petrolero
   [Daison De Jesus Guale 30, 65, Diomedes Peña 90;
@@ -759,7 +763,7 @@ Blooming               4-1 The Strongest
 Bolivar                1-1 San Jose
   [Limberg Gutierrez 78; Gabriel Alejandro Viglianti 89pen]
 
-Round 3
+Round: 3
 [Nov 19]
 The Strongest          3-2 San Jose
   [Lider Paz 39, Pablo Daniel Escobar 53, Ronald Gutierrez 77;
@@ -770,7 +774,7 @@ La Paz FC              1-2 Bolivar
 Blooming               1-0 Oriente Petrolero
   [Dimas Roberto Da Silva 49] 
 
-Round 4
+Round: 4
 [Nov 23]
 Bolivar                4-2 Blooming
   [Danner Jesus Pachi 10, 50, Carmelo Angulo 18, Juan Matias Fischer 28;
@@ -781,7 +785,7 @@ Oriente Petrolero      1-1 The Strongest
 La Paz FC              1-1 San Jose
   [Roberto Galindo 41; Enrique Parada 49]
 
-Round 5 [Nov 27]
+Round: 5 [Nov 27]
 The Strongest          1-3 Bolivar
   [Luis Hector Cristaldo 2; Juan Matias Fischer 30, Miguel Angel Mercado 53,
    Percy Colque 67]
@@ -791,7 +795,7 @@ San Jose               5-1 Oriente Petrolero
 Blooming               2-1 La Paz FC
   [Joselito Vaca 1, Lisandro Sacripanti 10; Jose Da Silva 44]
 
-Round 6
+Round: 6
 [Nov 30]
 La Paz FC              1-1 The Strongest
   [Roberto Galindo 61; Ruben Dario Tufiño 20] 
@@ -802,7 +806,7 @@ Blooming               2-1 San Jose
 Bolivar                3-0 Oriente Petrolero
   [Juan Matias Fischer 26, 43, Miguel Angel Mercado 89] 
 
-Round 7 [Dec 4]
+Round: 7 [Dec 4]
 Bolivar                4-3 La Paz FC
   [Miguel Angel Mercado 31, 44, Juan Matias Fischer 47, 67;
    Rosauro Rivero 23, Daison De Jesus Guale 77, Ricardo Modesto Da Silva 81]
@@ -812,7 +816,7 @@ Oriente Petrolero      3-1 Blooming
   [Murilo Luis Casagrande 1, Eduardo Melgar 28, Carlos Alberto Duran 77;
    Joselito Vaca 21]
 
-Round 8
+Round: 8
 [Dec 7]
 San Jose               0-0 La Paz FC
 The Strongest          1-0 Oriente Petrolero
@@ -822,7 +826,7 @@ Blooming               4-2 Bolivar
   [Gualberto Mojica 35, 51, Dimas Roberto Da Silva 42, 62;
    Juan Matias Fischer 20, Danner Jesus Pachi 83] 
 
-Round 9
+Round: 9
 [Dec 10]
 La Paz FC              5-0 Blooming
   [Jaime Robles 10, Daison De Jesus Guale 44, 50, Ivan Sabino Castillo 58, 90]
@@ -833,7 +837,7 @@ Bolivar                2-2 The Strongest
 Oriente Petrolero      1-0 San Jose
   [Marcio Araujo Dos Santos 71] 
 
-Round 10 [Dec 14]
+Round: 10 [Dec 14]
 Oriente Petrolero      2-0 La Paz FC
   [Marcio Araujo Dos Santos 41, Juan Carlos Arce 45] 
 San Jose               1-0 Bolivar

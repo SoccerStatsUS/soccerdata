@@ -1,7 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesb/bol01.html
+Competition: Liga de Fútbol Profesional Boliviano
 
-Bolivia 2001
-
+Season: 2001 Apertura
 
 *Torneo Apertura 
 * 1.Bolívar                 22 12  6  4 53-28 42  Playoff
@@ -17,7 +17,7 @@ Bolivia 2001
 *11.Iberoamericana          22  5  5 12 37-47 20 
 *12.Real Santa Cruz         22  5  5 12 23-43 20
 
-Round 1 
+Round: 1 
 [Mar 3]
 Mariscal Braun          1-1 Real Potosi
   [J. Mendez; M. Ardaya]
@@ -34,7 +34,7 @@ Wilstermann             2-0 Union Central
 Oriente Petrolero       2-2 Bolivar
   [V. Gonzales, F. Calustro; H. Chiorazzo, M. Mercado]
 
-Round 2
+Round: 2
 [Mar 10]
 Guabira                 3-1 Independiente 
   [R. Justiniano, M. Aguilera 2; C. Angulo)
@@ -50,7 +50,7 @@ Real Potosi             2-1 Real Santa Cruz
 Wilstermann             2-2 Oriente 
   [C. Cardenas 2; R. Lunari, J. Castillo]
 
-Round 3 
+Round: 3 
 [Mar 14]
 The Strongest           1-1 Guabira
   [M. Ceballos; D. Sanchez]
@@ -66,7 +66,7 @@ Mariscal Braun          0-1 Oriente
 Real Santa Cruz         1-4 Bolivar
   [V. Antelo; J. Botero, H. Chiorazzo, L. Libermann, L. Ribeiro]
 
-Round 4
+Round: 4
 [Mar 17]
 Iberoamericana          1-1 Blooming
   [A. Andaveris; R. Menacho]
@@ -82,7 +82,7 @@ Guabira                 3-0 Union Central
 Oriente                 3-1 Real Santa Cruz
   [M. Etcheverry, J. Castillo, M. Coimbra; V. Antelo]
 
-Round 5
+Round: 5
 [Mar 31]
 Iberoamericana          2-2 Wilstermann
   [A. Andaveris, D. Cuellar; A. Jara 2]
@@ -98,7 +98,7 @@ Union Central           1-1 Real Potosi
 Real Santa Cruz         1-1 Mariscal Braun
   [V. Antelo; G. Diaz]
 
-Round 6
+Round: 6
 [Apr 7]
 Mariscal Braun          0-1 Independiente
   [H. Ruiz]
@@ -114,7 +114,7 @@ Guabira                 3-2 Iberoamericana
 Oriente                 2-0 The Strongest
   [V. Gonzales, J. Castillo]
 
-Round 7
+Round: 7
 [Mar 7]
 The Strongest           1-3 Mariscal Braun     
   [J. Suarez; E. Mostajo, F. Divico, G. Diaz]
@@ -130,7 +130,7 @@ Iberoamericana          3-4 Real Potosi
 Blooming                3-2 Bolivar
   [J. Cortez, W. Otta, D. Cabrera; H. Chiorazzo (2)]
 
-Round 8
+Round: 8
 [Apr 14]
 Wilstermann             2-0 Independiente
   [A. Jara, P. Guiberguis]
@@ -147,7 +147,7 @@ Oriente                 2-2 Blooming
 Real Santa Cruz         2-1 The Strongest
   [C. Suarez, H. Arandia; D. Delfino]
 
-Round 9 
+Round: 9 
 [Apr 28]
 Iberoamericano          3-2 Oriente
   [F. Garzon, R. Vaca, D. Cuellar; V. Gonzales (2)]
@@ -163,7 +163,7 @@ Guabira                 1-0 Bolivar
 Blooming                3-2 Mariscal Braun
   [W. Otta (2), D. Cabrera; C. Algarañaz (2)]
 
-Round 10 [May 6]
+Round: 10 [May 6]
 Mariscal Braun          2-1 Iberoamericana
   [R. Alaca, Alex; A. Andaveris]
 Bolivar                 1-1 Real Potosi
@@ -177,7 +177,7 @@ Real Santa Cruz         2-2 Blooming
 Oriente                 3-1 Guabira
   [F. Calustro, V. Gonzales, J. Castillo; R. Dos Santos]
 
-Round 11 
+Round: 11 
 [May 9]
 Real Potosi             0-5 Oriente
   [R. Suarez, M. Blanco (2), M. Coimbra (2)]
@@ -193,7 +193,7 @@ Blooming                2-2 Independiente
 Bolivar                 6-1 Jorge Wilstermann
   [H. Chiorazzo (2), Nene, J. Botero (3); E. Olivares]
 
-Round 12
+Round: 12
 [May 12]
 Real Santa Cruz         2-1 Real Potosi
   [P. Suarez, R. Martinez; G. Rivero]
@@ -209,7 +209,7 @@ Union Central           1-0 Blooming
 Oriente                 5-1 Jorge Wilstermann
   [R. Suarez, R. Lunari, M. Coimbra, J. Castillo, M. Ramos; P. Guiberguis]
 
-Round 13 [May 16]
+Round: 13 [May 16]
 Iberoamericana          0-0 Union Central
 Bolivar                 6-0 Real Santa Cruz
   [L. Ribeiro, M. Sandy, H. Chiorazzo, R. Garcia, J. Botero, Nene]
@@ -221,7 +221,7 @@ Oriente                 1-2 Mariscal Braun
 Guabira                 1-0 The Strongest
   [R. Dos Santos]
 
-Round 14
+Round: 14
 [May 19]
 Blooming                5-0 Iberoamericana
   [W. Otta (2), P. Gil, J. Denis, D. Cabrera]
@@ -237,7 +237,7 @@ Union Central           1-0 Guabira
 Real Santa Cruz         1-2 Oriente
   [E. Monteiro; M. Coimbra, W. Escalante]
 
-Round 15
+Round: 15
 [May 23]
 Jorge Wilstermann       6-2 Iberoamericana
   [A. Jara (4), C. Cardenas, R, Galindo; A. Andaveris, J. Garzon]
@@ -253,7 +253,7 @@ Oriente                 3-2 Independiente
 Mariscal Braun          6-2 Real Santa Cruz
   [R. Alaca, G. Diaz, Alex (2), C. Algarañaz, O. Montes; C. Suarez (2)]
 
-Round 16 [May 27]
+Round: 16 [May 27]
 Iberoamericana          3-0 Guabira
   [E. Romero, A. Andaveris, D. Cuellar]
 Independiente           4-2 Mariscal Braun
@@ -267,7 +267,7 @@ Union Central           1-0 Bolivar
 Blooming                1-0 Real Potosi
   [J. Mendez]
 
-Round 17
+Round: 17
 [Jun 6]
 Mariscal Braun          0-1 The Strongest
   [M. Ceballos]
@@ -283,7 +283,7 @@ Bolivar                 0-0 Blooming
 Oriente                 2-1 Union Central
   [V. Gonzales (2); J. Vallejos]
 
-Round 18
+Round: 18
 [Jun 9]
 The Strongest           2-0 Real Santa Cruz
   [P. Colque, C. Reynaldo]
@@ -299,7 +299,7 @@ Guabira                 1-1 Real Potosi
 Blooming                1-0 Oriente
   [D. Cabrera]
 
-Round 19
+Round: 19
 [Jun 13]
 Jorge Wilstermann       0-0 Real Potosi
 Independiente           2-2 The Strongest
@@ -320,7 +320,7 @@ Oriente                 3-1 Iberoamericana
 Mariscal Braun          2-2 Blooming
   [F. Divico, G. Diaz; W. Otta, D. Cabrera]
 
-Round 20 [Jun 17]
+Round: 20 [Jun 17]
 Blooming                1-1 Real Santa Cruz 
   [R. Ribera; J. Fernandez]
 Guabira                 0-1 Oriente 
@@ -334,7 +334,7 @@ The Strongest           2-4 Wilstermann
 Union Central           2-0 Independiente 
   [J. Rios, J. Paz]
 
-Round 21
+Round: 21
 [Jun 20]
 Mariscal Braun          3-0 Guabira
   [J. Avedaño, Alex, C. Algarañaz]
@@ -351,7 +351,7 @@ Real Santa Cruz         1-0 Iberoamericana
 Oriente                 2-1 Real Potosi
   [M. Coimbra, J. Castillo; D. Callau]
 
-Round 22 [Jun 24]
+Round: 22 [Jun 24]
 Real Potosi             1-1 Mariscal Braun
   [D. Callau; A. Gutierrez]
 Guabira                 0-0 Real Santa Cruz
@@ -383,7 +383,8 @@ Bolivar                 1-0 Oriente
   [M. Sandy]
 
 
-*Torneo Clausura
+Season: 2001 Clausura
+
 *First Stage
 *Tables:
 
@@ -410,7 +411,7 @@ played in 2 groups of 4, 2 of each qualifying for the final group
 
 Place of Real Santa Cruz (in relegation playoff) goes to Independiente.
 
-Round 1 
+Round: 1 
 [Jul 31]
 The Strongest           5-1 Real Potosi 
   [S. Coelho, G. Cuartas, R. Arteaga, R. Gutierrez, C. Reynaldo; H. Sanchez)
@@ -426,7 +427,7 @@ Independiente           0-3 Bolivar
 Wilstermann             1-2 Mariscal Braun 
   [M. Menacho; G. Diaz 2]
 
-Round 2
+Round: 2
 [Aug 4]
 Iberoamericana          3-1 Guabira 
   [A. Andaveris 3; M. Aguilera]
@@ -442,7 +443,7 @@ Real Potosi             3-0 Oriente
 Union Central           0-1 The Strongest 
   [G. Cuartas]
 
-Round 3 [Aug 8] 
+Round: 3 [Aug 8] 
 Guabira                 4-0 Real Potosi
   [S. Castillo, M. Cardona 2, S. Lopez o.g.]
 Independiente           0-0 Real Santa Cruz
@@ -454,7 +455,7 @@ The Strongest           0-0 Iberoamericana
 Wilstermann             2-1 Blooming
   [M. Menacho, E. Olivares; P. Gil]
 
-Round 4 (inter-group)
+Round: 4 (inter-group)
 [Aug 18] 
 Iberoamericana          2-2 Mariscal Braun
   [D. Heredia, J. Peña Carabali; A. Peña, G. Diaz]
@@ -471,7 +472,7 @@ Union Central           1-1 Wilstermann
 Blooming                1-0 Oriente
   [D. Cabrera]
 
-Round 5
+Round: 5
 [Aug 16] 
 Bolivar                 3-2 Blooming
   [Nene, J. Botero, L. Libermann; W. Otta 2]
@@ -487,7 +488,7 @@ Wilstermann             2-1 Real Santa Cruz
 [Aug 23] 
 Oriente                 0-0 The Strongest
 
-Round 6
+Round: 6
 [Aug 25]
 Blooming                2-1 Mariscal Braun
   [R. Tufiño, J. Mendez; Alex]
@@ -503,7 +504,7 @@ The Strongest           7-0 Guabira
 Union Central           3-5 Real Potosi
   [P. Fernandez, J. Rios 2; R. Correa 2, D. Callau 2, H. Sanchez]
 
-Round 7
+Round: 7
 [Aug 28]
 Real Santa Cruz         1-0 Blooming
   [M. Rimba]
@@ -520,7 +521,7 @@ Union Central           4-1 Iberoamericana
 Mariscal Braun          0-3 Wilstermann
   [A. Jara, G. Galindo 2]
 
-Round 8 [Sep 9]
+Round: 8 [Sep 9]
 Guabira                 1-0 Iberoamericana
   [M. Aguilera]
 Independiente           3-1 Blooming
@@ -534,7 +535,7 @@ The Strongest           3-2 Union Central
 Wilstermann             1-3 Bolivar
   [S. Lima; Nene 2, I. Castillo]
 
-Round 9
+Round: 9
 [Sep 12] 
 Blooming                1-1 Wilstermann
   [D. Cabrera; V. Marin]
@@ -549,7 +550,7 @@ Bolivar                 3-1 Mariscal Braun
 Real Santa Cruz         5-2 Independiente
   [E. Monteiro 2, O. Ozzan, J. Callau 2; R. Cueto, C. Angulo]
 
-Round 10 (inter-group)
+Round: 10 (inter-group)
 [Sep 16] 
 Guabira                 0-0 Real Santa Cruz
 Independiente           0-0 Real Potosi
@@ -564,7 +565,7 @@ Mariscal Braun          3-2 Iberoamericana
 Wilstermann             2-1 Union Central
   [G. Galindo, A. Jara; J. Vallejos]
 
-Round 11
+Round: 11
 [Sep 22]
 Bolivar                 4-0 Real Santa Cruz
   [H. Chiorazzo, L. Libermann, L. Ribeiro, J. Botero]
@@ -580,7 +581,7 @@ Real Potosi             3-0 Union Central
 Wilstermann             4-2 Independiente
   [M. Menacho 2, G. Mojica, S. Lima; H. Ruiz, E. Torrez]
 
-Round 12 
+Round: 12 
 [Sep 26] 
 Blooming                2-1 Bolivar
   [R. Tufiño, C. Couceiro; H. Chiorazzo]
@@ -678,7 +679,7 @@ Iberoamericana win 7-3 on aggregate and remain at 1st level
 
 Top-2 of each group qualify for semifinals
 
-Round 1
+Round: 1
 [Oct 13]
 The Strongest           0-3 Oriente 
   [J. Castillo 3]
@@ -690,7 +691,7 @@ Mariscal Braun          2-1 Bolivar
 Real Potosi             3-2 Guabira 
   [R. Cardozo, R. Correa 2; R. Melgar, R. Velasco]
 
-Round 2 [Oct 17]
+Round: 2 [Oct 17]
 Bolivar                 3-1 Real Potosi 
   [Nene, L. Libermann, H. Chiorazzo; R. Vaca]
 Guabira                 1-0 Mariscal Braun 
@@ -700,7 +701,7 @@ Oriente                 4-1 Independiente
 Wilstermann             4-1 The Strongest 
   [A. Jara 2, C. Cardenas, E. Olivares; R. Rojas]
 
-Round 3 [Oct 21]
+Round: 3 [Oct 21]
 Guabira                 1-3 Bolivar 
   [N. Suarez; M. Ligori, L. Ribeiro, J. Botero]
 Oriente                 2-1 Wilstermann 
@@ -710,7 +711,7 @@ Real Potosi             3-0 Mariscal Braun
 The Strongest           2-2 Independiente 
   [V. Lorenzon, J. Cantero; W. Roca o.g., J. Biaggini]
 
-Round 4 
+Round: 4 
 [Oct 24] 
 Independiente           0-4 Oriente 
   [J. Castillo 3, M. Coimbra]
@@ -722,7 +723,7 @@ The Strongest           2-0 Wilstermann
 Mariscal Braun          4-0 Guabira 
   [A. Peña, F. Mostajo, Alex, L. Morales]
 
-Round 5 [Oct 28]
+Round: 5 [Oct 28]
 Bolivar                 3-0 Mariscal Braun 
   [J. Botero 3]
 Guabira                 2-2 Real Potosi 
@@ -732,7 +733,7 @@ Oriente                 1-2 The Strongest
 Wilstermann             2-0 Independiente 
   [M. Menacho, C. Cardenas]
  
-Round 6 [Oct 31]
+Round: 6 [Oct 31]
 Bolivar                 4-1 Guabira 
   [J. Botero 2, L. Libermann, A. Ribeiro; S. Castillo)]
 Independiente           1-0 The Strongest 
@@ -767,35 +768,35 @@ Top-2 of each group qualify for semifinals
 * 3.Bolívar                  6  1  3  2  8- 9  6
 * 4.Jorge Wilstermann        6  1  2  3  7- 9  5
 
-Round 1 [Nov 18]
+Round: 1 [Nov 18]
 Bolivar                 2-3 Oriente
   [H. Chiorazzo 2; J. Castillo 3]
 Jorge Wilstermann       5-3 Real Potosi
   [M. Soria, A. Jara 3, V. Marin; D. Peña, M. Ardaya, H. Sanchez]
 
-Round 2 [Nov 21]
+Round: 2 [Nov 21]
 Oriente                 0-0 Jorge Wilstermann
 Real Potosi             2-2 Bolivar
   [D. Callau, R. Correa; Nene, M. Mercado]
 
-Round 3 [Nov 25]
+Round: 3 [Nov 25]
 Bolivar                 0-0 Jorge Wilstermann
 Oriente                 5-1 Real Potosi
   [F. Jimenez 2, J. Castillo 2, R. Torrez; D. Callau]
 
-Round 4 [Dec 2]
+Round: 4 [Dec 2]
 Real Potosi             5-2 Oriente
   [S. Lopez, J. Grass 2, R. Correa 2; R. Suarez, V. Gonzales]
 Jorge Wilstermann       1-3 Bolivar
   [C. Cardenas; I. Castillo, J. Botero 2]
 
-Round 5 [Dec 5]
+Round: 5 [Dec 5]
 Bolivar                 1-1 Real Potosi 
   [H. Chiorazzo; H. Sanchez]
 Jorge Wilstermann       1-2 Oriente 
   [A. Jara; J. Castillo 2]
 
-Round 6 [Dec 9]
+Round: 6 [Dec 9]
 Real Potosi             1-0 Jorge Wilstermann
   [R. Corrra]
 Oriente                 2-0 Bolivar

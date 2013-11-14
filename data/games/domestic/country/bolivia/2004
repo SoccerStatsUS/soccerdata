@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesb/bol04.html
-
-Bolivia 2004
+Competition: Liga de Fútbol Profesional Boliviano
+Season: 2004 Apertura
 
 *Torneo Apertura 
 * 1.Bolívar                    22 17  2  3 51-21 53  Champions
@@ -17,7 +17,7 @@ Bolivia 2004
 *12.Universidad Iberoamericana 22  5  3 14 23-41 18
 *NB: played as double round robin; winners qualify for Copa Libertadores 2005
 
-Round 1
+Round: 1
 [Feb 14]
 Iberoamericana    1-3 Real Santa Cruz
   [Edgar Viscarra 36; Miguel Hurtado 14, 85, Carlos Eduardo Monteiro 84]
@@ -36,7 +36,7 @@ San José          2-3 Jorge Wilstermann
   [Hugo Sossa 34, Herlan Sanchez 79; Javier Guzman 10, Hector Nuñez 62,
    Thiago Leitao 64pen]
 
-Round 2
+Round: 2
 [Feb 22]
 Jorge Wilstermann 5-1 La Paz FC
   [Hector Nuñez 30, 40, Limberg Morejon 41, Thiago Leitao 52, 80;
@@ -57,7 +57,7 @@ Real Santa Cruz   3–1 Aurora
 Blooming          1-1 Oriente 
   [Jorge Antonio Ortiz 72; Murillo Luis Casagrande 76]
 
-Round 3 
+Round: 3 
 [Feb 28]
 La Paz FC         0-2 Bolívar
   [Jose Alfredo Castillo 27, Miguel Angel Mercado 71]
@@ -74,7 +74,7 @@ San José          2-1 Blooming
 Unión Central     2-1 Jorge Wilstermann
   [Marcelo Ramon Ceballos 8, Marco Antonio Morinigo 65; Tulio Pereira 60]
 
-Round 4 
+Round: 4 
 [Mar 6]
 Iberoamericana    1-4 The Strongest  
   [Jaime Cardozo 40; Francisco Flaminio Ferreira 42, Pedro Adrian Rocabado 45,
@@ -93,7 +93,7 @@ Aurora            1-3 Unión Central
   [Carmelo Angulo 24; Marco Antonio Morinigo 11, Luis Mario Palacios 21,
    Luis Sillero 62]
 
-Round 5
+Round: 5
 [Mar 10]
 Jorge Wilstermann 6-2 Blooming      
   [Hector Mario Nuñez 28, Thiago Leitao 36, 61, Carlos Suarez 82, 85,
@@ -114,7 +114,7 @@ La Paz FC         2-1 Real Potosí
   [Edwin Alberto Muñoz 69, Marco Leonard Aguilera 86;
    Jose Martin Menacho 2]
 
-Round 6 
+Round: 6 
 [Mar 13]
 Iberoamericano    1-0 San José
   [Jose Mauricio Pinilla 33pen]
@@ -134,7 +134,7 @@ Real Santa Cruz   1-3 La Paz FC
 The Strongest     1-1 Unión Central
   [Victor Hugo Angola 28; Jose Luis Gawlik 67]
 
-Round 7
+Round: 7
 [Apr 3]
 Bolivar           2-1 Real Potosi 
   [Marco Antonio Sandy 38, Miguel Angel Mercado 76; Nicolas Suarez 27]
@@ -153,7 +153,7 @@ Wilstermann       4-2 Real Santa Cruz
   [Miguel Paco Prado 4, Hector Mano Nuñez 16, 82, Carlos Cardenas 90;
    Ronald Justiniano 33, Jose Mendez 79]
 
-Round 8
+Round: 8
 [Apr 7]
 Oriente           3-0 Union Central 
   [Gilmar De Oliveira 28, 38, Federico Astudillo 23]
@@ -172,7 +172,7 @@ The Strongest     4-1 San Jose
   [Gabriel Hernan Caifa 39, 43, Diego Sebastian Villalba 65,
    Johnny Nay 78; Gabriel Hernan Cela 21]
 
-Round 9
+Round: 9
 [Apr 17]
 San Jose          3-1 Oriente 
   [Gilberto Ayala 3, Hugo Ranulfo Sosa 65, Gabriel Hernan Cela 88;
@@ -193,7 +193,7 @@ Wilstermann       2-3 Aurora
   [Vladimir Marin 29, Alexander Zabala 36; Nicolas Damian Yañez 68,
    Carmelo Angulo 89pen, Roberto Nicolas Saucedo 90]
 
-Round 10 
+Round: 10 
 [Apr 24]
 Iberoamericano    2-0 Blooming      
   [Jorge Eduardo Carmona 31, William Edgar Viscarra 40]
@@ -211,7 +211,7 @@ Oriente           3-1 La Paz
   [Federico Astudillo 11, 29, Luis Alberto Gutierrez 28;
    Wellington Martins 66]
 
-Round 11
+Round: 11
 [Apr 28]
 Wilstermann       1-0 Oriente
   [Carlos Cardenas 58]
@@ -228,7 +228,7 @@ La Paz            3-2 San Jose
   [Cosme Canamari 55, Daison De Jesus Guale 68, 88;
    Gerson Luis Garcia 28, Gabriel Hernan Cela 90]
 
-Round 12 
+Round: 12 
 [May 1]
 Wilstermann       0-0 San Jose
 [May 2]
@@ -246,7 +246,7 @@ Blooming          2-1 The Strongest
 La Paz            1-1 Union Central
   [Luis Hernan Sillero 27; Julio Cesar Cortez 62]
 
-Round 13
+Round: 13
 [May 5]
 Union Central     2-0 Iberoamericana
   [Bernardo Rea 64pen, Luis Hernan Sillero 79]
@@ -263,7 +263,7 @@ Oriente           4-2 Blooming
   [Federico Astudillo 30, 76, Richard Zandro Uriona 37,
    Rolando Campos 72; Christian Jesus Reynaldo 64, Raul Gutierrez 81]
 
-Round 14 
+Round: 14 
 [May 8]
 Wilstermann       2-0 Union Central 
   [Hector Mario Nuñez 32, Edgar Rolando Olivares 83]
@@ -282,7 +282,7 @@ Iberoamericana    1-1 Aurora
 Blooming          2-1 San Jose
   [Jorge Antonio Ortiz 40, Panfilo Ramon Escobar 87; Jaime Robles 36]
 
-Round 15
+Round: 15
 [May 12]
 La Paz            2-0 Blooming       
   [Daison De Jesus Guale 60, Marco Leonard Aguilera 81]
@@ -301,7 +301,7 @@ Union Central     3-1 Aurora
 Wilstermann       1-2 Bolivar 
   [Carlos Cardenas 65; Limberg Gutierrez 1, Roger Suarez 30]
 
-Round 16 [May 16]
+Round: 16 [May 16]
 Aurora            3-0 The Strongest 
   [Roberto Galindo 37, Sebastian Bartolini 47, Carmelo Angulo 84]
 Blooming          2-2 Wilstermann 
@@ -319,7 +319,7 @@ Real Potosi       3-1 La Paz
 Real Santa Cruz   0-1 San Jose 
   [Herlan Sanchez 78]
 
-Round 17
+Round: 17
 [May 19]
 Bolivar           4-0 Blooming       
   [Jose Alfredo Castillo 5, Ruben Dario Tufiño 43,
@@ -339,7 +339,7 @@ Oriente           4-1 Aurora
 San Jose          2-0 Iberoamericana 
   [Herlan Sanchez 27, Gabriel Hernan Cela 48pen]
 
-Round 18
+Round: 18
 [Jun 9]
 Aurora            1-1 San Jose 
   [Bernardo Aguirre 10; Hugo Ruiz 20]
@@ -359,7 +359,7 @@ Blooming          5-2 Union Central
 Real Potosi       0-1 Bolivar 
   [Limberg Gutierrez 37pen]
 
-Round 19
+Round: 19
 [Jun 12]
 La Paz            0-0 Aurora 
 Wilstermann       1-0 Iberoamericana 
@@ -375,7 +375,7 @@ San Jose          1-1 The Strongest
 Union Central     2-1 Oriente 
   [Delio Asuncion Arce 8, Carlos Edgar Gareca 90; Fabio Miguel Gimenez 30]
 
-Round 20
+Round: 20
 [Jun 16]
 Real Santa Cruz   3-1 Blooming      
   [Carlos Eduardo Monteiro 26pen, Martin Adrian Palavicini 47, 90;
@@ -394,7 +394,7 @@ Iberoamericana    2-3 Bolivar
    Limberg Gutierrez 55, Pedro Alberto Guiberguis 63,
    Miguel Angel Mercado 86]
 
-Round 21 
+Round: 21 
 [Jun 20]
 Blooming          0-0 Iberoamericana 
 Bolivar           2-0 Aurora 
@@ -409,7 +409,7 @@ Wilstermann       3-2 The Strongest
 La Paz            2-0 Oriente
   [Julio Cesar Cortez 85, Fabricio Cardoso 90]
 
-Round 22
+Round: 22
 [Jun 23]
 Iberoamericana    1-2 Real Potosi 
   [Jose Mauricio Pinilla 45pen; Jose Martin Menacho 14pen, 
@@ -457,8 +457,8 @@ The Strongest     3-0 Bolivar
 *    for Copa sudamericana 2004
 
 
-*Torneo Clausura
-*
+Season: 2004 Clausura
+
 *First Stage
 *
 *NB: played as double round robin; top-4 of both groups qualify
@@ -484,7 +484,7 @@ The Strongest     3-0 Bolivar
 * 5.Aurora                     10  3  3  4 10-16 12
 * 6.Real Santa Cruz            10  2  2  6 14-19  8
 
-Round 1
+Round: 1
 [Jul 24]
 La Paz            0-2 The Strongest
   [Eduardo Jiguchi 2, Richard Jose Rojas 48]
@@ -503,7 +503,7 @@ San Jose          3-0 Real Potosi
 Bolivar           1-1 Iberoamericana     
   [Miguel Angel Mercado 41; Jose Elio Sanchez 34]
 
-Round 2
+Round: 2
 [Jul 31]
 Iberoamericana    0-4 San Jose
   [Enrique Parada 28, Pablo Daniel Escobar 43, 45, 50]
@@ -520,7 +520,7 @@ Real Potosi       2-0 The Strongest
 Union Central     1-0 Oriente Petrolero
   [Marcelo Ramon Ceballos 58]
 
-Round 3
+Round: 3
 [Aug 8]
 Oriente Petrolero 4-0 Aurora
   [Juan Carlos Arce 30, 74, Lorgio Alvarez 34, Marcelo Martins 83]
@@ -536,7 +536,7 @@ Real Santa Cruz   2-2 Blooming
   [Ricardo Moreno 82, Neil Rivero 90; Leonardo Sebastian Luppino 2,
    Renny Ribera 57]
 
-Round 4 
+Round: 4 
 [Aug 14]
 Real Santa Cruz   2-1 Wilstermann
   [Carlos Eduardo Monteiro 21pen, Martin Adrian Palavicini 61;
@@ -555,7 +555,7 @@ San Jose          2-2 La Paz FC
   [Pablo Daniel Escobar 15pen, 43 pen; Bismark Egüez 26,
    Daison de Jesus Guale 90]
 
-Round 5 [Aug 22]
+Round: 5 [Aug 22]
 La Paz            1-2 Iberoamericana 
   [Daison de Jesus Guale 37; Ramiro Ariel Berrios 28, 85]
 Oriente           1-1 Real Santa Cruz 
@@ -569,7 +569,7 @@ Union Central     0-2 Blooming
 Wilstermann       1-0 Aurora 
   [Luciano De Souza 56]
 
-Round 6
+Round: 6
 [Aug 25]
 Oriente           1-1 Wilstermann 
   [Erwin Sanchez 89; Carlos Cardenas 80]
@@ -585,7 +585,7 @@ Iberoamericana    0-1 Bolivar
 The Strongest     2-0 La Paz 
   [Richard Jose Rojas 41, Diego Aroldo Cabrera 83]
 
-Round 7
+Round: 7
 [Aug 28]
 The Strongest     2-6 Real Potosi 
   [Christian Gaston Zermatten 54pen, Herman Soliz 87; 
@@ -606,7 +606,7 @@ Wilstermann       2-3 Blooming
   [Carlos Cardenas 17, 51; Gualberto Mojica 28,
    Leonardo Sebastian Luppino 49, Christian Gabriel Torrez 54]
 
-Round 8
+Round: 8
 [Sep 11]
 Iberoamericana    0-1 The Strongest 
   [Richard Jose Rojas 14]
@@ -623,7 +623,7 @@ Real Potosi       1-1 La Paz
 Union Central     1-1 Wilstermann 
   [Luis Mario Palacios 59; Roberto Adrian Cuadrado 38]
 
-Round 9 [Sep 19]
+Round: 9 [Sep 19]
 La Paz            1-2 San Jose 
   [Daison De Jesus Guale 10; Hugo Ranulfo Sosa 64, David Oscar Depascual 85]
 Oriente           1-3 Blooming       
@@ -639,7 +639,7 @@ Wilstermann       1-2 Real Santa Cruz
   [Sergio Rogelio Castillo 20; Martin Adrian Palavicini 37pen,
    Jorge Flavio Zapata 87]
 
-Round 10 [Sep 26]
+Round: 10 [Sep 26]
 Aurora            1-1 Wilstermann 
   [Juliano Morel 34; Joaquin Alberto Montoya 70]
 Blooming          1-2 Union Central 
@@ -695,7 +695,7 @@ San Jose          4-0 The Strongest
 *    were rejected; this was of course after the championship play-off between
 *    Oriente and The Strongest had been played.
 
-Round 1 
+Round: 1 
 [Oct 16]
 San Jose          2-2 Bolivar
   [Herlan Sanchez 34, Hugo Ranulfo Sosa 63;
@@ -709,7 +709,7 @@ The Strongest     4-1 Union Central
   [Christian Gaston Zermatten 4, 51, Gabriel Hernan Caifa 35,
    Sandro Coelho 75; Gabriel Alejandro Viglianti 50]
 
-Round 2
+Round: 2
 [Oct 23]
 Union Central     0-0 Wilstermann
 [Oct 24]
@@ -722,7 +722,7 @@ The Strongest     3-0 San Jose
   [Christian Gaston Zermatten 54pen, Diego Aroldo Cabrera 57,
    Gabriel Hernan Caifa 59]
 
-Round 3
+Round: 3
 [Oct 27]
 Oriente           2-0 Union Central
   [Celso Modesto Pereira 46, Ronald Arana 76]
@@ -737,7 +737,7 @@ Bolivar           6-2 Blooming
    Horacio Jose Chiorazzo 48, 62; Christian Gabriel Torrez 39pen,
    Leonardo Sebastian Luppino 74]
 
-Round 4 [Oct 31]
+Round: 4 [Oct 31]
 Blooming          4-2 Real Potosi
   [Dimas Roberto Da Silva 26, Christian Gabriel Torrez 39, 44,
    Leonardo Sebastian Luppino 76; Gustavo Adolfo Paz 20,
@@ -750,7 +750,7 @@ Union Central     2-3 Bolivar
 Wilstermann       1-2 San Jose
   [Edgar Rolando Olivares 67; Pablo Daniel Escobar 19, Hugo Ranulfo Sosa 77]
 
-Round 5 
+Round: 5 
 [Nov 6]
 San Jose          2-1 Blooming
   [Hugo Ranulfo Sosa 73, Gerson Luis Garcia 79;
@@ -765,7 +765,7 @@ Real Potosi       3-1 Union Central
   [Juan Pablo Grass 33, Gustavo Adolfo Paz 56, Frignar Daniel Yarari 81;
    Luis Mario Palacios 73]
 
-Round 6
+Round: 6
 [Nov 20]
 The Strongest     2-1 Real Potosi
   [Gabriel Hernan Caiafa 35, Christian Gaston Zermatten 37;
@@ -780,7 +780,7 @@ Oriente           3-2 San Jose
 Wilstermann       1-0 Bolivar
   [Raul Christian Chaparro 90]
 
-Round 7 
+Round: 7 
 [Nov 24]
 Blooming          1-0 The Strongest
   [Christian Gabriel Torrez 45pen]
@@ -792,7 +792,7 @@ San Jose          2-2 Union Central
 Bolivar           1-2 Oriente
   [Rodrigo Daniel Apaza 70; Fabio Miguel Gimenez 15, Celso Modesto Pereira 83]
 
-Round 8
+Round: 8
 [Nov 27]
 Real Potosi       3-2 Oriente 
   [Jose Martin Menacho 15, Gustavo Adolfo Paz 20,
@@ -806,7 +806,7 @@ Bolivar           0-1 San Jose
 Union Central     1-2 The Strongest 
   [Luis Hernan Sillero 84; Diego Aroldo Cabrera 48, Lider Paz 72]
 
-Round 9 [Dec 1]
+Round: 9 [Dec 1]
 Blooming          2-0 Bolivar 
   [Leonardo Sebastian Luppino 65, Christian Jesus Reynaldo 85]
 Real Potosi       5-2 San Jose 
@@ -818,7 +818,7 @@ Union Central     2-3 Oriente
   [Luis Hernan Sillero 12, Carlos Edgar Gareca 55; Rolando Campos 30, 
    Augusto Andaveris 33, Elvis Erazo 41og]
 
-Round 10
+Round: 10
 [Dec 3]
 Wilstermann       2-2 Union Central 
   [Vladimir Marin 27, 64; Gabriel Alejandro Viglianti 25, 46]
@@ -832,7 +832,7 @@ San Jose          3-4 The Strongest
    Luis Ivo Mercado 62; Juan Ignacio Brown 49, Juan Doyle Vaca 52,
    Limberg Mendez 59, 68]
  
-Round 11 [Dec 9]
+Round: 11 [Dec 9]
 Blooming          1-2 San José  
   [Juan Eduardo Fierro 50; Enrique Parada 13, Pablo Daniel Escobar 57]
 Unión Central     0-3 Real Potosí  
@@ -843,7 +843,7 @@ The Strongest     7-0 Bolívar
   [Christian Gaston Zermatten 28, 35, Sandro Coelho 55,
    Diego Aroldo Cabrera 62, 74, 76, Victor Hugo Andrada 81]
 
-Round 12 
+Round: 12 
 [Dec 11]
 Bolívar           3-1 Unión Central  
   [Percy Colque 7, 54, Roger Suarez 34; Carlos Edgar Gareca 84]
@@ -857,7 +857,7 @@ Real Potosí       4-3 Blooming
 Oriente           0-1 The Strongest 
   [Diego Aroldo Cabrera 43]
 
-Round 13 [Dec 15]
+Round: 13 [Dec 15]
 Oriente           9-0 Bolívar  
   [Nestor Rolando Espinoza 5, 11, 31, 39, Jose Luis Ortiz 21, 41, 69,
    Pablo Alejandro Goberville 56, Jose Leandro Padilla 68]
@@ -868,7 +868,7 @@ Wilstermann       1-1 Real Potosí
 The Strongest     1-0 Blooming 
   [Gabriel Hernan Caiafa 179
 
-Round 14 [Dec 19]
+Round: 14 [Dec 19]
 Blooming          3-4 Unión Central  
   [Gualberto Mojica 6pen, Juan Eduardo Fierro 30, 73; Ramon Marcelo Gomez 24,
    Luis Hernan Sillero 28, Ronald Segovia 65, Rodrigo Danny Vasco 80]

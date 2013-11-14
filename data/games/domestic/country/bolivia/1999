@@ -1,7 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesb/bol99.html
+Competition: Liga de Fútbol Profesional Boliviano
+Season: 1999 Apertura
 
-Bolivia 1999
-Torneo Apertura 
 
 *[played as a standard double round-robin]
 * 1.Blooming                22 14  2  6 47-20 44  Apertura Champions
@@ -17,7 +17,7 @@ Torneo Apertura
 *11.The Strongest           22  7  4 11 33-35 25
 *12.Destroyers              22  5  4 13 33-56 19
 
-Round 1 
+Round: 1 
 [Feb 6]
 Santa Cruz     2-2 Guabira
   [A. Ibañez, E. Monteiro; C. Santiesteban, R. Cruz]
@@ -33,7 +33,7 @@ Union Central  3-0 Destroyers
 Wilstermann    0-1 Real Potosi
   [L. De Oliveira]
 
-Round 2 
+Round: 2 
 [Feb 10]
 Blooming       2-0 San Jose
   [L. Gutierrez, J. Cortez]
@@ -49,7 +49,7 @@ Wilstermann    3-2 Independiente
 Destroyers     1-1 Santa Cruz
   [G. Paredes; W. Añez]
 
-Round 3 
+Round: 3 
 [Feb 17]
 Bolivar        5-0 Destroyers    
   [G. Gomes 2, J. Botero, V. Soria 2]
@@ -65,7 +65,7 @@ Oriente        2-1 Wilstermann
 Union Central  2-2 Real Potosi 
   [E. Espindola, N. Kekes; E. Sanchez, S. Lopez]
 
-Round 4
+Round: 4
 [Feb 20]
 Destroyers     1-0 San Jose
   [J. Leal]
@@ -81,7 +81,7 @@ Wilstermann    2-2 Union Central
 Oriente        4-0 Independiente 
   [M. Coimbra 2, A. Farfan, R. Suarez]
 
-Round 5 
+Round: 5 
 [Feb 27]
 Santa Cruz     3-0 Wilstermann  
   [A. Jara 2, M. Rocha]
@@ -97,7 +97,7 @@ San Jose       1-0 Strongest
 Union Central  2-1 Oriente 
   [G. Romanello, N. Kekes; B. Suarez]
 
-Round 6 
+Round: 6 
 [Mar 6]
 Real Potosi    2-0 San Jose
   [D. Gutierrez, L. De Oliveira]
@@ -114,7 +114,7 @@ Wilstermann    2-2 Bolivar
 Strongest      2-0 Blooming
   [V. Gonzale, R. Cueto]
 
-Round 7
+Round: 7
 [Mar 10]
 Independiente  5-0 Destroyers
   [D. Sanchez 2, J. Fernandez, R. Alvarez 2]
@@ -132,7 +132,7 @@ Bolivar        1-0 Oriente
 San Jose       2-1 Wilstermann
   [S. Netto 2; C. Cardenas]
 
-Round 8 
+Round: 8 
 [Mar 13]
 Union Central  0-2 Bolivar  
   [J. Botero, A. Lozano]
@@ -149,7 +149,7 @@ Oriente        2-1 San Jose
 Wilstermann    2-1 Blooming   
   [G. Galindo, S. Joao; R. Tufiño]
 
-Round 9 
+Round: 9 
 [Mar 20]
 Guabira        3-2 Wilstermann
   [J. Baldivieso, M. Ceballos 2; G. Galindo, S. Joao]
@@ -166,7 +166,7 @@ San Jose       2-1 Union Central
 Destroyers     4-0 Real Potosi    
   [T. Ortiz, J. Leal, J. Etcheverry, F. Takeo]
 
-Round 10
+Round: 10
 [Mar 27]
 Santa Cruz     4-1 San Jose
   [A. Ibañez, A. Jara, H. Chiorazzo 2; R. Paniagua]
@@ -183,7 +183,7 @@ Real Potosi    1-0 Strongest
 Union Central  0-2 Blooming
   [J. Coucero, L. Gutierrez]
 
-Round 11
+Round: 11
 [Apr 3]
 Strongest      1-1 Wilstermann
   [V. Gonzales; G. Galindo]
@@ -199,7 +199,7 @@ Destroyers     1-2 Oriente
 Blooming       4-1 Santa Cruz
   [R. Gutierrez, R. Tufiño, J. Cortez, V. Antelo; A. Ibañez]
 
-Round 12
+Round: 12
 [Apr 10]
 Strongest      3-0 Oriente
   [S. Coelho, L. Mendez, V. Gonzales]
@@ -216,7 +216,7 @@ San Jose       2-3 Independiente
 Blooming       1-1 Bolivar  
   [V. Antelo; M. Mercado]
 
-Round 13
+Round: 13
 [Apr 14]
 Bolivar        1-3 Guabira
   [G. Gomes; M. Ligori, L. Paz, R. Cespedes]
@@ -238,7 +238,7 @@ Independiente  1-2 Wilstermann
 San Jose       1-0 Blooming
   [S. Netto]
 
-Round 14
+Round: 14
 [Apr 17]
 Guabira        2-1 San Jose
   [R. Cruz, M. Cardona;  C. Alves]
@@ -254,7 +254,7 @@ Strongest      2-1 Santa Cruz
 Wilstermann    4-3 Oriente
   [G. Reinoso, C. Cardenas, G. Galindo; J. Vaca, M. Coimbra, F. Apuri]
 
-Round 15
+Round: 15
 [Apr 24]
 Bolivar        3-2 Strongest
   [M. Mercado 2, L. Liendo; M. Angulo, V. Gonzales]
@@ -270,7 +270,7 @@ San Jose       4-1 Destroyers
 Union Central  3-0 Wilstermann
   [L. Libermann 2, G. Romanello]
 
-Round 16
+Round: 16
 [May 1]
 Destroyers     1-2 Blooming
   [M. Aguilera; O. Ozzan, L. Da Silva o.g.]
@@ -286,7 +286,7 @@ Strongest      4-3 San Jose
 Wilstermann    5-2 Santa Cruz
   [J. Rios 2, S. Joao 2, M. Sozzani; A. Jara, H. Chiorazzo]
 
-Round 17
+Round: 17
 [May 7]
 Guabira        2-2 Destroyers
   [J. Amarilla, R. Cruz;  A. Garcia, E. Viviani]
@@ -303,7 +303,7 @@ Bolivar        2-1 Wilstermann
 Independiente  2-3 Union Central
   [M. Blanco, E. Villegas; F. Calustro 2, P. Serrano]
 
-Round 18
+Round: 18
 [May 12]
 Real Potosi    2-0 Blooming
   [E. Sanchez 2]
@@ -319,7 +319,7 @@ Wilstermann    1-0 San Jose
 Destroyers     4-3 Independiente
   [J. Etcheverry 2, F. Takeo 2; M. Blanco 2, P. Fernandez]
 
-Round 19
+Round: 19
 [May 15]
 Bolivar        1-1 Union Central
   [J. Botero; L. Libermann]
@@ -336,7 +336,7 @@ San Jose       3-1 Oriente
 Blooming       4-0 Wilstermann
   [V. Antelo 2, O. Ozzan 2]
 
-Round 20
+Round: 20
 [May 23]
 Santa Cruz     2-1 Bolivar
   [W. Añez, H. Chiorazzo; G. Gomes]
@@ -352,7 +352,7 @@ Strongest      1-1 Independiente
 Union Central  1-1 San Jose
   [L. Libermann; D. Angola]
 
-Round 21
+Round: 21
 [May 29]
 Destroyers     2-1 Wilstermann 
   [G. Paredes, F. Takeo; O. Guzman]
@@ -367,7 +367,7 @@ San Jose       3-2 Santa Cruz
 Strongest      3-1 Real Potosi  
   [V. Gonzales 2, R. Cueto; L. Selenzo]
 
-Round 22
+Round: 22
 [Jun 5]
 Bolivar        4-1 San Jose
   [J. Botero 4; F. Cossio]
@@ -412,7 +412,7 @@ Wilstermann    2-1 Strongest
 *the first half of the year.
 
 
-Clausura
+Season: 1999 Clausura
 
 
 *will be played in two groups of six, all teams playing the other teams
@@ -439,7 +439,7 @@ Clausura
 * 6.San José                12  3  1  8 12-23 10
 *Top-3 qualify for Hexagonal of Clausura.
 
-Round 1 
+Round: 1 
 [Aug 7]
 Real Potosi    2-1 Blooming
   [L. Selenzo, M. Barrios; V. Antelo]
@@ -457,7 +457,7 @@ Real Sta Cruz  awd Bolivar               [awarded to Santa Cruz (originally 0-0)
                                           already played for Always Raedy in
                                           the La Paz league]
 
-Round 2
+Round: 2
 [Aug 11]
 Destroyers     1-4 Blooming 
   [M. Aguilera; M. Menacho 2, V. Antelo, L. Gutierrez]
@@ -473,7 +473,7 @@ Wilstermann    2-1 Guabira
 Oriente        1-0 Real Sta Cruz 
   [R. Suarez]
 
-Round 3 
+Round: 3 
 [Aug 15]
 Blooming       1-0 Wilstermann
   [L. Gutierrez]
@@ -490,7 +490,7 @@ Real Potosi    3-1 Destroyers
 Real Sta Cruz  2-0 San Jose
   [W. Añez, A. Ibañez]
 
-Round 4
+Round: 4
 [Aug 21]
 Union Central  2-0 Destroyers
   [D. Delfino 2]
@@ -505,7 +505,7 @@ San Jose       5-3 Wilstermann
 The Strongest  2-2 Bolivar
   [A. Peña, S. Coelho; M. Mercado, D. Flores]
 
-Round 5 
+Round: 5 
 [Aug 28]
 Independiente  2-1 Real Sta Cruz
   [A. Murillo, D. Goyoaga; H. Chiorazzo]
@@ -520,7 +520,7 @@ Union Central  4-0 San Jose
 Wilstermann    8-0 Destroyers
   [C. Cardenas, A. Quizena, E. Tenorio, D. Bengolea, J. Villarroel 2, C. Camargo 2]
 
-Round 6 
+Round: 6 
 [Sep 4]
 Destroyers     1-3 The Strongest 
   [A. Garcia; V. Gonzales 2, A. Peña]
@@ -536,7 +536,7 @@ Real Sta Cruz  1-2 Union Central
 [Sep 6]
 Blooming       0-0 Guabira
 
-Round 7
+Round: 7
 [Sep 11]
 Bolivar        2-0 Real Sta Cruz
   [D. Flores, J. Botero]
@@ -553,7 +553,7 @@ Wilstermann    1-2 The Strongest
 Destroyers     2-0 Guabira 
   [M. Aguilera, F. Gutierrez]
 
-Round 8
+Round: 8
 [Sep 18]
 Blooming       3-3 Destroyers
   [R. Gutierrez 2, V. Antelo; M. Aguilera, J. Etcheverry 2]
@@ -570,7 +570,7 @@ Real Sta Cruz  1-1 Oriente
 Real Potosi    1-2 The Strongest
   [D. Peña; A. Peña, S. Coelho]
 
-Round 9
+Round: 9
 [Sep 25]
 The Strongest  2-1 Guabira
   [V. Gonzales, D. Callau; R. Arana o.g.]
@@ -587,7 +587,7 @@ Wilstermann    1-1 Blooming
 Oriente        0-1 Independiente
   [P. Fernandez]
 
-Round 10
+Round: 10
 [Oct 2]
 Wilstermann    2-0 San Jose
   [A. Quisena, F. Guiran]
@@ -605,7 +605,7 @@ Destroyers     2-4 Union Central
   [M. Aguilera, J. Etcheverry; F. Calustro, D. Delfino, R. Espindola, 
    L. Libermann]
 
-Round 11
+Round: 11
 [Oct 9]
 Real Sta Cruz  5-0 Independiente
   [H. Chiorazzo 2, E. Monteiro 2, A. Jara]
@@ -622,7 +622,7 @@ San Jose       2-1 Union Central
 Blooming       2-0 The Strongest
   [V. Antelo 2]
 
-Round 12 [Oct 17]
+Round: 12 [Oct 17]
 Guabira        0-2 Blooming
   [V. Antelo, H. Arandia]
 Independiente  1-2 Bolivar
@@ -665,7 +665,7 @@ Wilstermann    4-1 Real Potosi
 * 5.Real Potosí             10  2  2  6  8-16  8
 * 6.Independiente Petrolero 10  1  2  7 12-24  5
 
-Round 1 [Oct 24]
+Round: 1 [Oct 24]
 Blooming       4-1 Independiente   
   [H. Arandia, V. Antelo 2, L. Gutierrez; D. Vaca]
 Bolivar        2-0 Real Potosi
@@ -673,7 +673,7 @@ Bolivar        2-0 Real Potosi
 Union Central  2-1 The Strongest   
   [N. Kekes, L. Libermann; V. Gonzales]
 
-Round 2
+Round: 2
 [Oct 27]
 Bolivar        3-0 Union Central
   [A. Lozano, J. Botero, J. Ferreira]
@@ -683,7 +683,7 @@ Real Potosi    3-1 Blooming
 Independiente  2-2 The Strongest   
   [A. Illanes, R. Arteaga; A. Peña, V. Gonzales]
 
-Round 3 [Oct 31]
+Round: 3 [Oct 31]
 Blooming       1-0 Bolivar
   [V. Antelo]
 The Strongest  2-1 Real Potosi
@@ -691,13 +691,13 @@ The Strongest  2-1 Real Potosi
 Union Central  2-1 Independiente
   [L. Libermann 2; M. Blanco]
 
-Round 4 [Nov 7]
+Round: 4 [Nov 7]
 Blooming       3-0 Union Central
   [V. Antelo 2, J. Couceiro]
 Bolivar        0-0 The Strongest
 Real Potosi    0-0 Independiente
 
-Round 5 [Nov 14]
+Round: 5 [Nov 14]
 Independiente  1-4 Bolivar
   [P. Fernandez; J. Botero 3, M. Mercado]
 The Strongest  3-1 Blooming
@@ -705,7 +705,7 @@ The Strongest  3-1 Blooming
 Union Central  1-0 Real Potosi
   [D. Delfino]
 
-Round 6 [Nov 21]
+Round: 6 [Nov 21]
 Independiente  1-2 Blooming
   [D. Sanchez; V. Antelo, R. Gutierrez]
 Real Potosi    1-0 Bolivar
@@ -713,7 +713,7 @@ Real Potosi    1-0 Bolivar
 The Strongest  3-1 Union Central
   [V. Gonzales 2, R. Rojas; C. Angulo]
 
-Round 7 [Nov 24]
+Round: 7 [Nov 24]
 Blooming       4-0 Real Potosi
   [L. Gutierrez, G. Paredes, V. Antelo 2]
 The Strongest  2-1 Independiente
@@ -721,7 +721,7 @@ The Strongest  2-1 Independiente
 Union Central  0-1 Bolivar
   [M. Mercado]
 
-Round 8 [Nov 28]
+Round: 8 [Nov 28]
 Bolivar        3-0 Blooming
   [W. Sanchez, M. Mercado, L. Ribeiro]
 Independiente  2-5 Union Central
@@ -729,7 +729,7 @@ Independiente  2-5 Union Central
 Real Potosi    1-2 The Strongest
   [D. Peña; A. Peña, J. Peña]
 
-Round 9
+Round: 9
 [Dec 3]
 Union Central  1-0 Blooming
   [N. Kekes]
@@ -739,7 +739,7 @@ Independiente  3-1 Real Potosi
 The Strongest  1-0 Bolivar
   [V. Gonzales]
 
-Round 10 [Dec 12]
+Round: 10 [Dec 12]
 Blooming       1-1 The Strongest
   [M. Menacho; F. Garcia]
 Bolivar        2-0 Independiente

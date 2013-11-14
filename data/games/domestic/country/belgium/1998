@@ -1,34 +1,29 @@
 BlockSource: http://rsssf.com/tablesb/belg99.html
+Competition: Belgian Pro League
+Season: 1998-1999
 
-Belgium 1998/99
+* 1.RC Genk            34 22  7  5  74-38  73  Champions
+* - - - - - - - - - - - - - - - - - - - - - - 
+* 2.FC Brugge          34 22  5  7  65-38  71
+* 3.RSC Anderlecht     34 21  7  6  76-39  70
+* 4.Excelsior Mouscron 34 19  9  6  76-47  66
+* 5.KSC Lokeren        34 17  6 11  69-61  57
+* 6.Standard CL        34 17  3 14  55-47  54
+* 7.Lierse SK          34 16  6 12  72-47  54
+* 8.AA Gent            34 14 10 10  55-59  52
+* 9.Sint Truidense VV  34 14  9 11  52-46  51
+*10.Germinal Ekeren    34 14  7 13  48-46  49
+*11.RC Harelbeke       34 10 11 13  44-46  41
+*12.VC Westerlo        34 11  7 16  56-62  40
+*13.Eendracht Aalst    34  9  8 17  48-66  35
+*14.RSC Charleroi      34  7 11 16  40-54  32
+*15.SK Beveren Waas    34  8  6 20  33-60  30
+*16.Lommel SK          34  7  7 20  33-56  28
+*--------------------------------------------
+*17.KV Kortrijk        34  6  7 21  49-81  25  Relegated
+*18.KV Oostende        34  4 10 20  27-79  22  Relegated
 
-
-Eerste Klasse
-
-Table:
-
- 1.RC Genk            34 22  7  5  74-38  73  Champions
- - - - - - - - - - - - - - - - - - - - - - - 
- 2.FC Brugge          34 22  5  7  65-38  71
- 3.RSC Anderlecht     34 21  7  6  76-39  70
- 4.Excelsior Mouscron 34 19  9  6  76-47  66
- 5.KSC Lokeren        34 17  6 11  69-61  57
- 6.Standard CL        34 17  3 14  55-47  54
- 7.Lierse SK          34 16  6 12  72-47  54
- 8.AA Gent            34 14 10 10  55-59  52
- 9.Sint Truidense VV  34 14  9 11  52-46  51
-10.Germinal Ekeren    34 14  7 13  48-46  49
-11.RC Harelbeke       34 10 11 13  44-46  41
-12.VC Westerlo        34 11  7 16  56-62  40
-13.Eendracht Aalst    34  9  8 17  48-66  35
-14.RSC Charleroi      34  7 11 16  40-54  32
-15.SK Beveren Waas    34  8  6 20  33-60  30
-16.Lommel SK          34  7  7 20  33-56  28
---------------------------------------------
-17.KV Kortrijk        34  6  7 21  49-81  25  Relegated
-18.KV Oostende        34  4 10 20  27-79  22  Relegated
-
-Round 1
+Round: 1
 [Aug 21]
 Oostende     2-1 Standard
 St Truiden   0-2 Mouscron
@@ -42,7 +37,7 @@ Lierse       1-2 Gent
 [Aug 23]
 Harelbeke    1-0 Kortrijk
 
-Round 2
+Round: 2
 [Aug 29]
 Standard     3-0 Aalst
 Gent         1-1 Oostende
@@ -55,7 +50,7 @@ Genk         3-1 Lierse
 Charleroi    2-1 Harelbeke
 Kortrijk     0-6 Lokeren
 
-Round 3
+Round: 3
 [Sep 1]
 Anderlecht   1-1 Mouscron
 [Sep 2]
@@ -69,7 +64,7 @@ Aalst        5-0 Germinal
 [Sep 23]
 Oostende     1-1 Genk
 
-Round 4
+Round: 4
 [Sep 5]
 Germinal     1-0 St Truiden
 Gent         2-2 Aalst
@@ -83,7 +78,7 @@ Kortrijk     2-0 Oostende
 Brugge       0-1 Lommel
 Charleroi    awd Lierse            [abandoned in 80' at 2-1, awarded 5-0]
 
-Round 5 [Sep 9]
+Round: 5 [Sep 9]
 Oostende     0-0 Charleroi
 Standard     2-1 Kortrijk
 Gent         0-1 Genk
@@ -94,7 +89,7 @@ Lokeren      0-0 Mouscron
 Lierse       3-0 Beveren
 Aalst        1-3 St Truiden
 
-Round 6
+Round: 6
 [Sep 12]
 Germinal     0-3 Anderlecht
 St Truiden   2-1 Lommel
@@ -107,7 +102,7 @@ Brugge       1-0 Harelbeke
 Kortrijk     3-4 Gent
 Charleroi    1-0 Standard
 
-Round 7
+Round: 7
 [Sep 18]
 Harelbeke    0-4 Germinal
 Lokeren      2-0 Brugge
@@ -121,7 +116,7 @@ Anderlecht   1-1 St Truiden
 Aalst        3-1 Lommel
 Genk         3-1 Kortrijk
 
-Round 8
+Round: 8
 [Sep 25]
 Mouscron     1-5 Standard
 [Sep 26]
@@ -135,7 +130,7 @@ Lommel       2-2 Anderlecht
 [Sep 27]
 Kortrijk     3-4 Aalst
 
-Round 9
+Round: 9
 [Oct 2]
 Gent         3-0 Mouscron
 [Oct 3]
@@ -149,7 +144,7 @@ Harelbeke    1-1 Lommel
 Kortrijk     2-2 Charleroi
 Genk         1-0 Beveren
 
-Round 10
+Round: 10
 [Oct 10]
 Brugge       1-1 Standard
 Germinal     2-2 Oostende
@@ -162,7 +157,7 @@ Westerlo     3-3 Gent
 [Oct 11]
 Mouscron     3-5 Genk
 
-Round 11
+Round: 11
 [Oct 23]
 Lokeren      2-3 Anderlecht
 [Oct 24]
@@ -176,7 +171,7 @@ Kortrijk     2-2 Mouscron
 Aalst        2-2 Harelbeke
 Genk         3-0 Westerlo
 
-Round 12
+Round: 12
 [Oct 30]
 Mouscron     3-2 Charleroi
 Brugge       2-0 Genk
@@ -189,7 +184,7 @@ Anderlecht   2-0 Lierse
 Lommel       3-0 Oostende
 Beveren      0-2 Aalst
 
-Round 13
+Round: 13
 [Nov 7]
 Beveren      1-4 Mouscron
 Charleroi    1-3 Westerlo
@@ -202,7 +197,7 @@ Genk         3-2 Germinal
 Kortrijk     2-4 Brugge
 Aalst        3-3 Lokeren
 
-Round 14
+Round: 14
 [Nov 14]
 St Truiden   2-2 Genk
 Westerlo     0-0 Beveren  
@@ -215,7 +210,7 @@ Germinal     2-1 Kortrijk
 Harelbeke    2-1 Oostende
 Anderlecht   0-1 Standard
 
-Round 15
+Round: 15
 [Nov 21]
 Beveren      1-2 Brugge
 Mouscron     2-1 Westerlo
@@ -228,7 +223,7 @@ Charleroi    2-2 Germinal
 Kortrijk     2-2 St Truiden
 Aalst        1-4 Lierse
 
-Round 16
+Round: 16
 [Nov 27]
 Lokeren      4-1 Standard
 [Nov 28]
@@ -242,7 +237,7 @@ Aalst        3-2 Westerlo
 Brugge       0-0 Mouscron
 Germinal     1-0 Beveren    
 
-Round 17
+Round: 17
 [Dec 4]
 Westerlo     1-2 Brugge
 [Dec 5]
@@ -258,7 +253,7 @@ Standard     2-2 Lierse
 [Feb 6]
 Beveren      0-1 St Truiden
 
-Round 18
+Round: 18
 [Dec 12]
 Standard     3-0 Oostende
 Westerlo     2-4 Germinal
@@ -272,7 +267,7 @@ Genk         3-1 Lokeren
 [Apr 9]
 Charleroi    0-2 Anderlecht
 
-Round 19
+Round: 19
 [Dec 18]
 Lierse       1-1 Genk
 [Dec 19]
@@ -286,7 +281,7 @@ Germinal     2-0 Brugge
 Harelbeke    1-1 Charleroi 
 Aalst        1-0 Standard     
 
-Round 20
+Round: 20
 [Jan 15]
 Mouscron     2-3 Anderlecht
 [Jan 16]
@@ -301,7 +296,7 @@ Brugge       3-2 St Truiden
 [Jan 18]
 Genk         3-0 Oostende
 
-Round 21
+Round: 21
 [Jan 23]
 Lommel       2-1 Brugge
 St Truiden   2-0 Germinal
@@ -315,7 +310,7 @@ Harelbeke    0-4 Mouscron
 [Jan 27]
 Standard     2-4 Genk
 
-Round 22
+Round: 22
 [Jan 29]
 Brugge       2-0 Anderlecht
 [Jan 30]
@@ -329,7 +324,7 @@ Genk         1-0 Gent
 Kortrijk     1-3 Standard
 Germinal     1-0 Lommel
 
-Round 23
+Round: 23
 [Feb 12]
 Lierse       1-2 Mouscron
 [Feb 13]
@@ -345,7 +340,7 @@ Anderlecht   2-0 Germinal
 [Mar 10]
 Lokeren      3-0 Westerlo
 
-Round 24
+Round: 24
 [Feb 26]
 Brugge       4-0 Lokeren
 [Feb 27]
@@ -360,7 +355,7 @@ Germinal     0-2 Harelbeke
 [Mar 10]
 Kortrijk     1-3 Genk
 
-Round 25
+Round: 25
 [Mar 5]
 Standard     2-0 Mouscron
 [Mar 6]
@@ -374,7 +369,7 @@ Aalst        1-1 Kortrijk
 Harelbeke    1-1 St Truiden
 Lierse       5-2 Brugge
 
-Round 26
+Round: 26
 [Mar 12]
 Mouscron     7-1 Gent
 [Mar 13]
@@ -388,7 +383,7 @@ Beveren      1-0 Genk
 [Mar 14]
 Brugge       2-0 Oostende
 
-Round 27
+Round: 27
 [Mar 19]
 Standard     3-0 Brugge
 [Mar 20]
@@ -402,7 +397,7 @@ Harelbeke    1-2 Anderlecht
 Aalst        2-2 Charleroi
 Kortrijk     1-0 Beveren
 
-Round 28
+Round: 28
 [Apr 2]
 Anderlecht   1-1 Lokeren
 [Apr 3]
@@ -415,7 +410,7 @@ Harelbeke    5-1 Aalst
 Brugge       1-0 Gent
 Germinal     0-1 Standard
 
-Round 29
+Round: 29
 [Apr 17]
 Gent         1-3 Germinal
 Charleroi    1-3 Mouscron
@@ -428,7 +423,7 @@ Kortrijk     4-2 Westerlo
 Oostende     1-1 Lommel
 Genk         1-1 Brugge
 
-Round 30
+Round: 30
 [Apr 24]
 Anderlecht   3-0 Oostende
 Lokeren      6-2 Aalst
@@ -441,7 +436,7 @@ Westerlo     1-0 Charleroi
 Brugge       3-0 Kortrijk
 Harelbeke    3-1 Lierse
 
-Round 31 
+Round: 31 
 [Apr 30]
 Charleroi    1-2 Brugge
 [May 1]
@@ -455,7 +450,7 @@ Aalst        1-4 Mouscron
 Standard     0-6 Anderlecht
 Genk         4-1 St Truiden
 
-Round 32 
+Round: 32 
 [Apr 11]
 Sint Truiden 2-2 Kortrijk
 [May 5]
@@ -468,7 +463,7 @@ Lierse       3-1 Aalst
 Harelbeke    1-1 Standard
 Lokeren      1-2 Oostende
 
-Round 33
+Round: 33
 [May 8]
 Westerlo     1-1 Aalst
 [May 9]
@@ -481,7 +476,7 @@ Kortrijk     4-1 Lommel
 Charleroi    2-1 St Truiden
 Beveren      2-1 Germinal
 
-Round 34 [May 16]
+Round: 34 [May 16]
 Aalst        4-0 Oostende
 Lommel       2-1 Charleroi
 Germinal     1-1 Mouscron
@@ -599,7 +594,7 @@ Belgian League Cup 1998/99
 
 [Second edition]
 
-Second Round 
+Second Round: 
 [Dec 2]
 Lokeren          1-2 Lommel
 Lierse           0-0 Harelbeke         [5-3 pen]
@@ -659,7 +654,7 @@ Final Table:
 17. SV Waregem...............  34  6  8 20 26  45- 71  -26 D   
 18. Sint Niklaas.............  34  5  9 20 24  43- 83  -40 D   
 
-Round  1: 
+Round:  1: 
 [19 aug 98]
 Cercle Brugge          1-2  Kapellen                                          
 Denderleeuw            1-0  FC Herentals                                      
@@ -671,7 +666,7 @@ FC Turnhout            3-5  SK Roeselare
 Verbroedering Geel     1-1  FC Antwerp                                        
 CS Vise                1-1  Dessel Sport                                      
                                                                                
-Round  2: 
+Round:  2: 
 [26 aug 98]
 FC Antwerp             5-2  Cercle Brugge                                     
 Dessel Sport           1-1  AA La Louviere                                    
@@ -683,7 +678,7 @@ SK Roeselare           2-3  Verbroedering Geel
 RWDM                   0-0  FC Turnhout                                       
 SV Waregem             0-3  Denderleeuw                                       
                                                                                
-Round  3: 
+Round:  3: 
 [05 sep 98]
 Cercle Brugge          3-2  SK Roeselare                                      
 AA La Louviere         2-2  FC Herentals                                      
@@ -697,7 +692,7 @@ CS Vise                1-1  SV Waregem
 [07 okt 98]
 Maasland Maasmechelen  0-3  KV Mechelen                                       
                                                                                
-Round  4: 
+Round:  4: 
 [12 sep 98]
 FC Antwerp             0-0  RTFC Liege                                        
 Dessel Sport           2-4  Verbroedering Geel                                
@@ -710,7 +705,7 @@ FC Herentals           0-5  FC Turnhout
 SK Roeselare           2-1  Kapellen                                          
 SV Waregem             2-2  AA La Louviere                                    
                                                                                
-Round  5: 
+Round:  5: 
 [19 sep 98]
 FC Antwerp             3-3  SK Roeselare                                      
 AA La Louviere         0-2  KMSK Deinze                                       
@@ -723,7 +718,7 @@ FC Turnhout            0-2  SV Waregem
 Denderleeuw            5-0  Sint Niklaas                                      
 CS Vise                1-3  KV Mechelen                                       
                                                                                
-Round  6: 
+Round:  6: 
 [26 sep 98]
 Dessel Sport           1-2  Kapellen                                          
 KMSK Deinze            1-2  FC Turnhout                                       
@@ -736,7 +731,7 @@ FC Herentals           1-1  Cercle Brugge
 Sint Niklaas           1-1  CS Vise                                           
 SV Waregem             0-1  Verbroedering Geel                                
                                                                                
-Round  7: 
+Round:  7: 
 [03 okt 98]
 FC Antwerp             0-2  Dessel Sport                                      
 AA La Louviere         4-0  Sint Niklaas                                      
@@ -749,7 +744,7 @@ FC Turnhout            1-0  KV Mechelen
 Kapellen               1-2  FC Herentals                                      
 CS Vise                1-1  Maasland Maasmechelen                             
                                                                                
-Round  8: 
+Round:  8: 
 [10 okt 98]
 Dessel Sport           4-4  SK Roeselare                                      
 FC Herentals           5-0  FC Antwerp                                        
@@ -762,7 +757,7 @@ SV Waregem             0-1  Kapellen
 Denderleeuw            2-2  CS Vise                                           
 RWDM                   3-4  RTFC Liege                                        
                                                                                
-Round  9: 
+Round:  9: 
 [24 okt 98]
 FC Antwerp             2-0  SV Waregem                                        
 AA La Louviere         2-0  Denderleeuw                                       
@@ -775,7 +770,7 @@ Kapellen               1-3  KMSK Deinze
 FC Turnhout            1-1  Maasland Maasmechelen                             
 Cercle Brugge          1-5  KV Mechelen                                       
                                                                                
-Round 10: 
+Round: 10: 
 [31 okt 98]
 Dessel Sport           1-0  RTFC Liege                                        
 KV Mechelen            3-1  Kapellen                                          
@@ -789,7 +784,7 @@ FC Herentals           2-3  RWDM
 [11 nov 98]
 Sint Niklaas           1-3  Cercle Brugge                                     
                                                                                
-Round 11: 
+Round: 11: 
 [07 nov 98]
 FC Antwerp             2-1  KV Mechelen                                       
 Dessel Sport           1-0  FC Herentals                                      
@@ -802,7 +797,7 @@ Kapellen               0-2  Sint Niklaas
 FC Turnhout            8-0  CS Vise                                           
 RTFC Liege             0-4  AA La Louviere                                    
                                                                                
-Round 12: 
+Round: 12: 
 [14 nov 98]
 KMSK Deinze            0-1  RWDM                                              
 AA La Louviere         1-1  FC Turnhout                                       
@@ -816,7 +811,7 @@ SV Waregem             0-0  Dessel Sport
 [09 jan 99]
 Maasland Maasmechelen  3-1  Kapellen                                          
                                                                                
-Round 13: 
+Round: 13: 
 [21 nov 98]
 FC Antwerp             2-1  Maasland Maasmechelen                             
 Dessel Sport           1-1  KMSK Deinze                                       
@@ -829,7 +824,7 @@ SK Roeselare           1-1  Sint Niklaas
 Cercle Brugge          2-2  CS Vise                                           
 FC Herentals           4-1  SV Waregem                                        
                                                                                
-Round 14: 
+Round: 14: 
 [28 nov 98]
 KMSK Deinze            3-1  FC Herentals                                      
 AA La Louviere         2-0  Cercle Brugge                                     
@@ -842,7 +837,7 @@ FC Turnhout            6-1  Verbroedering Geel
 CS Vise                3-0  Kapellen                                          
 SV Waregem             1-2  RTFC Liege                                        
                                                                                
-Round 15: 
+Round: 15: 
 [02 apr 99]
 FC Antwerp             3-1  CS Vise                                           
 SK Roeselare           1-1  Denderleeuw                                       
@@ -856,7 +851,7 @@ SV Waregem             4-4  KMSK Deinze
 [05 apr 99]
 Cercle Brugge          1-2  FC Turnhout                                       
                                                                                
-Round 16: 
+Round: 16: 
 [12 dec 98]
 AA La Louviere         1-1  FC Antwerp                                        
 Maasland Maasmechelen  1-3  Dessel Sport                                      
@@ -869,7 +864,7 @@ FC Turnhout            2-1  Kapellen
 RTFC Liege             2-1  KMSK Deinze                                       
 CS Vise                1-6  SK Roeselare                                      
                                                                                
-Round 17: 
+Round: 17: 
 [19 dec 98]
 FC Antwerp             1-0  FC Turnhout                                       
 Dessel Sport           0-4  Denderleeuw                                       
@@ -882,7 +877,7 @@ SK Roeselare           5-0  AA La Louviere
 Cercle Brugge          0-0  RTFC Liege                                        
 SV Waregem             3-4  Sint Niklaas                                      
                                                                                
-Round 18: 
+Round: 18: 
 [16 jan 99]
 FC Antwerp             2-2  Verbroedering Geel                                
 Dessel Sport           0-1  CS Vise                                           
@@ -895,7 +890,7 @@ SK Roeselare           1-3  FC Turnhout
 FC Herentals           5-0  Denderleeuw                                       
 SV Waregem             2-1  Maasland Maasmechelen                             
                                                                                
-Round 19: 
+Round: 19: 
 [23 jan 99]
 AA La Louviere         2-0  Dessel Sport                                      
 Maasland Maasmechelen  2-2  KMSK Deinze                                       
@@ -909,7 +904,7 @@ FC Turnhout            1-0  RWDM
 RTFC Liege             0-5  Kapellen                                          
 CS Vise                1-1  FC Herentals                                      
                                                                                
-Round 20: 
+Round: 20: 
 [30 jan 99]
 FC Antwerp             4-1  Kapellen                                          
 Dessel Sport           0-1  FC Turnhout                                       
@@ -922,7 +917,7 @@ FC Herentals           1-4  AA La Louviere
 SK Roeselare           1-1  Cercle Brugge                                     
 SV Waregem             5-1  CS Vise                                           
                                                                                
-Round 21: 
+Round: 21: 
 [06 feb 99]
 AA La Louviere         3-1  SV Waregem                                        
 Maasland Maasmechelen  1-0  Sint Niklaas                                      
@@ -937,7 +932,7 @@ Denderleeuw            1-1  KV Mechelen
 CS Vise                5-0  KMSK Deinze                                       
  (awarded, KMSK Deinze fielded an ineligible player, original result 1-3)
                                                                                
-Round 22: 
+Round: 22: 
 [13 feb 99]
 KMSK Deinze            2-2  AA La Louviere                                    
 [14 feb 99]
@@ -953,7 +948,7 @@ Maasland Maasmechelen  3-2  RTFC Liege
 KV Mechelen            3-0  CS Vise                                           
 RWDM                   2-1  Kapellen                                          
                                                                                
-Round 23: 
+Round: 23: 
 [20 feb 99]
 FC Antwerp             1-0  RWDM                                              
 AA La Louviere         3-0  KV Mechelen                                       
@@ -966,7 +961,7 @@ FC Turnhout            2-2  KMSK Deinze
 Denderleeuw            3-2  Maasland Maasmechelen                             
 CS Vise                4-2  Sint Niklaas                                      
                                                                                
-Round 24: 
+Round: 24: 
 [27 feb 99]
 Dessel Sport           2-1  FC Antwerp                                        
 KMSK Deinze            1-2  Verbroedering Geel                                
@@ -979,7 +974,7 @@ FC Herentals           3-0  Kapellen
 Denderleeuw            2-1  RTFC Liege                                        
 SV Waregem             1-1  Cercle Brugge                                     
                                                                                
-Round 25: 
+Round: 25: 
 [06 maa 99]
 FC Antwerp             1-0  FC Herentals                                      
 AA La Louviere         2-0  Maasland Maasmechelen                             
@@ -993,7 +988,7 @@ Kapellen               5-1  SV Waregem
 [25 maa 99]
 CS Vise                0-0  Denderleeuw                                       
                                                                                
-Round 26: 
+Round: 26: 
 [13 maa 99]
 Dessel Sport           0-2  RWDM                                              
 KMSK Deinze            1-3  Kapellen                                          
@@ -1006,7 +1001,7 @@ Sint Niklaas           0-0  Verbroedering Geel
 CS Vise                0-3  RTFC Liege                                        
 SV Waregem             0-1  FC Antwerp                                        
                                                                                
-Round 27: 
+Round: 27: 
 [20 maa 99]
 FC Antwerp             1-0  KMSK Deinze                                       
 AA La Louviere         4-0  CS Vise                                           
@@ -1019,7 +1014,7 @@ Kapellen               0-4  KV Mechelen
 FC Turnhout            1-1  Denderleeuw                                       
 Cercle Brugge          2-1  Sint Niklaas                                      
                                                                                
-Round 28: 
+Round: 28: 
 [26 maa 99]
 AA La Louviere         2-0  RTFC Liege                                        
 [28 maa 99]
@@ -1032,7 +1027,7 @@ Sint Niklaas           1-3  Kapellen
 CS Vise                1-0  FC Turnhout                                       
 SV Waregem             1-2  RWDM                                              
                                                                                
-Round 29: 
+Round: 29: 
 [10 apr 99]
 FC Antwerp             6-2  Sint Niklaas                                      
 Dessel Sport           1-0  SV Waregem                                        
@@ -1045,7 +1040,7 @@ Cercle Brugge          1-2  Denderleeuw
 FC Turnhout            2-2  AA La Louviere                                    
 Kapellen               2-2  Maasland Maasmechelen                             
                                                                                
-Round 30: 
+Round: 30: 
 [14 apr 99]
 Denderleeuw            2-2  Kapellen                                          
 KMSK Deinze            0-1  Dessel Sport                                      
@@ -1057,7 +1052,7 @@ FC Turnhout            2-0  RTFC Liege
 CS Vise                3-1  Cercle Brugge                                     
 SV Waregem             5-3  FC Herentals                                      
                                                                                
-Round 31: 
+Round: 31: 
 [17 apr 99]
 FC Antwerp             0-0  Denderleeuw                                       
 Dessel Sport           0-1  KV Mechelen                                       
@@ -1070,7 +1065,7 @@ SK Roeselare           3-0  Maasland Maasmechelen
 FC Herentals           1-2  KMSK Deinze                                       
 Kapellen               0-0  CS Vise                                           
                                                                                
-Round 32: 
+Round: 32: 
 [24 apr 99]
 AA La Louviere         2-1  Kapellen                                          
 KV Mechelen            6-0  FC Herentals                                      
@@ -1083,7 +1078,7 @@ FC Turnhout            3-0  Cercle Brugge
 Maasland Maasmechelen  0-0  RWDM                                              
 KMSK Deinze            2-1  SV Waregem                                        
                                                                                
-Round 33: 
+Round: 33: 
 [02 mei 99]
 FC Antwerp             0-0  AA La Louviere                                    
 Cercle Brugge          1-2  Verbroedering Geel                                
@@ -1095,7 +1090,7 @@ SK Roeselare           4-1  CS Vise
 RWDM                   2-1  Denderleeuw                                       
 SV Waregem             1-4  KV Mechelen                                       
                                                                                
-Round 34: 
+Round: 34: 
 [09 mei 99]
 Denderleeuw            1-1  Dessel Sport                                      
 AA La Louviere         0-1  SK Roeselare                                      
@@ -1217,7 +1212,7 @@ Third Level (Derde Klasse)
 Belgie 3e klasse A 98/9       
 -----------------------
 
-Round  1: 
+Round:  1: 
 [05 sep 98]
 KSV Ingelmunster       1-1  SV Zottegem                                       
 RC Tournai             2-1  RC Lebbeke                                        
@@ -1229,7 +1224,7 @@ Stade Wetteren         3-5  Eendr. Hekelgem
 RC Heirnis Gent        3-2  Wallonia Walhain                                  
 Union St. Gilloise     1-1  FC Strombeek                                      
                                                                                
-Round  2: 
+Round:  2: 
 [12 sep 98]
 Eendr. Hekelgem        3-1  VW Hamme                                          
 AEC Mons               2-1  Union St. Gilloise                                
@@ -1241,7 +1236,7 @@ RC Lebbeke             0-2  KSV Ingelmunster
 Wallonia Walhain       1-0  FC Roeselare                                      
 SV Zottegem            2-1  RC Heirnis Gent                                   
                                                                                
-Round  3: 
+Round:  3: 
 [19 sep 98]
 Olympique Charleroi    1-1  AEC Mons                                          
 KM Torhout 1992        3-1  Eendr. Hekelgem                                   
@@ -1253,7 +1248,7 @@ RC Heirnis Gent        3-0  RC Lebbeke
 VW Hamme               3-1  Verbr. Denderhoutem                               
 Union St. Gilloise     4-2  Wallonia Walhain                                  
                                                                                
-Round  4: 
+Round:  4: 
 [26 sep 98]
 Eendr. Hekelgem        0-2  RC Tournai                                        
 KSV Ingelmunster      11-0  RC Heirnis Gent                                   
@@ -1265,7 +1260,7 @@ FC Strombeek           1-1  VW Hamme
 Wallonia Walhain       1-1  Olympique Charleroi                               
 SV Zottegem            0-3  Union St. Gilloise                                
                                                                                
-Round  5: 
+Round:  5: 
 [04 okt 98]
 VW Hamme               2-2  AEC Mons                                          
 Eendr. Hekelgem        1-4  Verbr. Denderhoutem                               
@@ -1276,7 +1271,7 @@ KM Torhout 1992        2-1  FC Strombeek
 RC Tournai             1-1  RC Heirnis Gent                                   
 Union St. Gilloise     3-0  RC Lebbeke                                        
                                                                                
-Round  6: 
+Round:  6: 
 [10 okt 98]
 KSV Ingelmunster       3-0  Union St. Gilloise                                
 AEC Mons               2-0  KM Torhout 1992                                   
@@ -1288,7 +1283,7 @@ FC Strombeek           2-3  Eendr. Hekelgem
 Wallonia Walhain       1-1  VW Hamme                                          
 Verbr. Denderhoutem    5-1  RC Tournai                                        
                                                                                
-Round  7: 
+Round:  7: 
 [24 okt 98]
 KM Torhout 1992        0-3  Wallonia Walhain                                  
 RC Tournai             6-0  FC Roeselare                                      
@@ -1301,7 +1296,7 @@ Union St. Gilloise     1-1  RC Heirnis Gent
 [11 nov 98]
 Eendr. Hekelgem        2-2  AEC Mons                                          
                                                                                
-Round  8: 
+Round:  8: 
 [17 okt 98]
 RC Lebbeke             2-1  VW Hamme                                          
 [18 okt 98]
@@ -1315,7 +1310,7 @@ FC Strombeek           1-2  RC Tournai
 FC Roeselare           0-2  Union St. Gilloise                                
 SV Zottegem            0-3  KM Torhout 1992                                   
                                                                                
-Round  9: 
+Round:  9: 
 [07 nov 98]
 Eendr. Hekelgem        2-1  SV Zottegem                                       
 KM Torhout 1992        4-2  RC Lebbeke                                        
@@ -1327,7 +1322,7 @@ FC Strombeek           0-1  AEC Mons
 VW Hamme               0-4  KSV Ingelmunster                                  
 Verbr. Denderhoutem    2-3  Wallonia Walhain                                  
                                                                                
-Round 10: 
+Round: 10: 
 [15 nov 98]
 RC Heirnis Gent        2-1  VW Hamme                                          
 KSV Ingelmunster       4-2  KM Torhout 1992                                   
@@ -1338,7 +1333,7 @@ Union St. Gilloise     1-1  Olympique Charleroi
 Wallonia Walhain       2-1  FC Strombeek                                      
 SV Zottegem            1-0  Verbr. Denderhoutem                               
                                                                                
-Round 11: 
+Round: 11: 
 [21 nov 98]
 Eendr. Hekelgem        1-0  KSV Ingelmunster                                  
 AEC Mons               2-0  Wallonia Walhain                                  
@@ -1350,7 +1345,7 @@ FC Strombeek           4-1  SV Zottegem
 Verbr. Denderhoutem    2-0  RC Lebbeke                                        
 VW Hamme               2-0  FC Roeselare                                      
                                                                                
-Round 12: 
+Round: 12: 
 [28 nov 98]
 KSV Ingelmunster       1-0  Verbr. Denderhoutem                               
 Olympique Charleroi    2-0  Stade Wetteren                                    
@@ -1362,7 +1357,7 @@ Union St. Gilloise     1-3  VW Hamme
 Wallonia Walhain       3-1  RC Tournai                                        
 SV Zottegem            0-3  AEC Mons                                          
                                                                                
-Round 13: 
+Round: 13: 
 [02 apr 99]
 Verbr. Denderhoutem    0-1  RC Heirnis Gent                                   
 Eendr. Hekelgem        3-1  FC Roeselare                                      
@@ -1374,7 +1369,7 @@ KM Torhout 1992        1-1  Union St. Gilloise
 VW Hamme               4-2  Olympique Charleroi                               
 Wallonia Walhain       0-3  SV Zottegem                                       
                                                                                
-Round 14: 
+Round: 14: 
 [12 dec 98]
 KSV Ingelmunster       2-2  AEC Mons                                          
 Olympique Charleroi    3-2  KM Torhout 1992                                   
@@ -1386,7 +1381,7 @@ Stade Wetteren         6-0  VW Hamme
 RC Tournai             1-1  SV Zottegem                                       
 Union St. Gilloise     3-1  Eendr. Hekelgem                                   
                                                                                
-Round 15: 
+Round: 15: 
 [19 dec 98]
 Eendr. Hekelgem        3-2  Olympique Charleroi                               
 AEC Mons               0-0  RC Heirnis Gent                                   
@@ -1398,7 +1393,7 @@ Verbr. Denderhoutem    1-1  Union St. Gilloise
 Wallonia Walhain       0-4  KSV Ingelmunster                                  
 SV Zottegem            4-1  RC Lebbeke                                        
                                                                                
-Round 16: 
+Round: 16: 
 [16 jan 99]
 Eendr. Hekelgem        4-0  Stade Wetteren                                    
 AEC Mons               4-1  FC Roeselare                                      
@@ -1410,7 +1405,7 @@ RC Lebbeke             3-2  RC Tournai
 Wallonia Walhain       1-3  RC Heirnis Gent                                   
 SV Zottegem            1-1  KSV Ingelmunster                                  
                                                                                
-Round 17: 
+Round: 17: 
 [23 jan 99]
 KSV Ingelmunster       4-0  RC Lebbeke                                        
 Olympique Charleroi    0-0  FC Strombeek                                      
@@ -1422,7 +1417,7 @@ Stade Wetteren         0-1  Verbr. Denderhoutem
 VW Hamme               3-0  Eendr. Hekelgem                                   
 Union St. Gilloise     0-0  AEC Mons                                          
                                                                                
-Round 18: 
+Round: 18: 
 [30 jan 99]
 Eendr. Hekelgem        4-1  KM Torhout 1992                                   
 KSV Ingelmunster       3-2  RC Tournai                                        
@@ -1434,7 +1429,7 @@ FC Strombeek           1-5  Stade Wetteren
 Wallonia Walhain       5-0  Union St. Gilloise                                
 SV Zottegem            3-1  FC Roeselare                                      
                                                                                
-Round 19: 
+Round: 19: 
 [06 feb 99]
 Olympique Charleroi    0-1  Wallonia Walhain                                  
 KM Torhout 1992        0-0  Verbr. Denderhoutem                               
@@ -1446,7 +1441,7 @@ RC Heirnis Gent        1-2  KSV Ingelmunster
 VW Hamme               2-0  FC Strombeek                                      
 Union St. Gilloise     1-3  SV Zottegem                                       
                                                                                
-Round 20: 
+Round: 20: 
 [05 apr 99]
 Verbr. Denderhoutem    1-1  Eendr. Hekelgem                                   
 RC Heirnis Gent        4-0  RC Tournai                                        
@@ -1457,7 +1452,7 @@ FC Strombeek           0-0  KM Torhout 1992
 Wallonia Walhain       0-0  Stade Wetteren                                    
 SV Zottegem            1-3  Olympique Charleroi                               
                                                                                
-Round 21: 
+Round: 21: 
 [20 feb 99]
 Eendr. Hekelgem        0-1  FC Strombeek                                      
 Olympique Charleroi    2-0  RC Lebbeke                                        
@@ -1470,7 +1465,7 @@ FC Roeselare           1-1  RC Heirnis Gent
 [18 apr 99]
 Union St. Gilloise     3-2  KSV Ingelmunster                                  
                                                                                
-Round 22: 
+Round: 22: 
 [27 feb 99]
 KSV Ingelmunster       2-0  Olympique Charleroi                               
 AEC Mons               3-5  Eendr. Hekelgem                                   
@@ -1482,7 +1477,7 @@ FC Strombeek           1-1  Verbr. Denderhoutem
 Wallonia Walhain       1-1  KM Torhout 1992                                   
 SV Zottegem            1-1  VW Hamme                                          
                                                                                
-Round 23: 
+Round: 23: 
 [06 maa 99]
 Eendr. Hekelgem        1-1  Wallonia Walhain                                  
 Olympique Charleroi    2-0  RC Heirnis Gent                                   
@@ -1494,7 +1489,7 @@ Verbr. Denderhoutem    2-3  AEC Mons
 VW Hamme               3-2  RC Lebbeke                                        
 Union St. Gilloise     3-0  FC Roeselare                                      
                                                                                
-Round 24: 
+Round: 24: 
 [13 maa 99]
 KSV Ingelmunster       2-1  VW Hamme                                          
 AEC Mons               1-0  FC Strombeek                                      
@@ -1506,7 +1501,7 @@ Union St. Gilloise     1-2  RC Tournai
 Wallonia Walhain       1-1  Verbr. Denderhoutem                               
 SV Zottegem            1-3  Eendr. Hekelgem                                   
                                                                                
-Round 25: 
+Round: 25: 
 [20 maa 99]
 Eendr. Hekelgem        0-2  RC Lebbeke                                        
 Olympique Charleroi    0-0  Union St. Gilloise                                
@@ -1518,7 +1513,7 @@ FC Strombeek           1-1  Wallonia Walhain
 Verbr. Denderhoutem    3-0  SV Zottegem                                       
 VW Hamme               1-0  RC Heirnis Gent                                   
                                                                                
-Round 26: 
+Round: 26: 
 [27 maa 99]
 Olympique Charleroi    3-4  RC Tournai                                        
 [28 maa 99]
@@ -1530,7 +1525,7 @@ Union St. Gilloise     0-0  Stade Wetteren
 Wallonia Walhain       3-1  AEC Mons                                          
 SV Zottegem            2-2  FC Strombeek                                      
                                                                                
-Round 27: 
+Round: 27: 
 [10 apr 99]
 Eendr. Hekelgem        2-0  RC Heirnis Gent                                   
 AEC Mons               4-1  SV Zottegem                                       
@@ -1542,7 +1537,7 @@ FC Strombeek           4-0  RC Lebbeke
 Verbr. Denderhoutem    2-3  KSV Ingelmunster                                  
 VW Hamme               1-1  Union St. Gilloise                                
                                                                                
-Round 28: 
+Round: 28: 
 [18 apr 99]
 Stade Wetteren         2-1  RC Tournai                                        
 [24 apr 99]
@@ -1555,7 +1550,7 @@ RC Lebbeke             0-2  AEC Mons
 Union St. Gilloise     0-0  KM Torhout 1992                                   
 SV Zottegem            1-1  Wallonia Walhain                                  
                                                                                
-Round 29: 
+Round: 29: 
 [02 mei 99]
 Verbr. Denderhoutem    2-2  FC Roeselare                                      
 VW Hamme               0-2  Stade Wetteren                                    
@@ -1566,7 +1561,7 @@ KM Torhout 1992        1-3  Olympique Charleroi
 Wallonia Walhain       4-2  RC Lebbeke                                        
 SV Zottegem            3-0  RC Tournai                                        
                                                                                
-Round 30: 
+Round: 30: 
 [09 mei 99]
 RC Heirnis Gent        2-2  AEC Mons                                          
 KSV Ingelmunster       0-3  Wallonia Walhain                                  
@@ -1600,7 +1595,7 @@ Union St. Gilloise     2-3  Verbr. Denderhoutem
 Belgie 3e klasse B 98/9       
 -----------------------
 
-Round  1: 
+Round:  1: 
 [05 sep 98]
 Heusden                3-3  UR Namur                                          
 Hoogstraten VV         0-1  AS Eupen                                          
@@ -1612,7 +1607,7 @@ VO Aarschot            1-1  KTH Diest
 CS Verviers            2-0  Sprimont                                          
 FC Schoten             4-0  FC Rita Berlaar                                   
                                                                                
-Round  2: 
+Round:  2: 
 [12 sep 98]
 Beerschot VAC          0-0  FC Schoten                                        
 AS Eupen               2-1  Exc. SC Virton                                    
@@ -1623,7 +1618,7 @@ FC Rita Berlaar        0-3  CS Verviers
 Sprimont               1-3  Heusden                                           
 VK Tienen              4-0  SK Tongeren                                       
                                                                                
-Round  3: 
+Round:  3: 
 [19 sep 98]
 Heusden                1-2  FC Rita Berlaar                                   
 Hoogstraten VV         1-1  UR Namur                                          
@@ -1635,7 +1630,7 @@ Exc. SC Virton         3-1  KTH Diest
 CS Verviers            2-0  Beerschot VAC                                     
 VO Aarschot            1-1  Sprimont                                          
                                                                                
-Round  4: 
+Round:  4: 
 [26 sep 98]
 Beerschot VAC          1-2  Heusden                                           
 AS Eupen               1-3  VK Tienen                                         
@@ -1646,7 +1641,7 @@ FC Rita Berlaar        2-1  VO Aarschot
 FC Schoten             3-0  CS Verviers                                       
 Sprimont               1-1  Hoogstraten VV                                    
                                                                                
-Round  5: 
+Round:  5: 
 [04 okt 98]
 VO Aarschot            0-1  Beerschot VAC                                     
 Heusden                1-0  FC Schoten                                        
@@ -1657,7 +1652,7 @@ VK Tienen              2-1  KTH Diest
 SK Tongeren            0-1  CS Verviers                                       
 Exc. SC Virton         0-0  Sprimont                                          
                                                                                
-Round  6: 
+Round:  6: 
 [10 okt 98]
 Beerschot VAC          0-1  Hoogstraten VV                                    
 AS Eupen               2-2  SK Tongeren                                       
@@ -1669,7 +1664,7 @@ Sprimont               1-0  RC Mechelen
 FC Schoten             1-1  VO Aarschot                                       
 CS Verviers            0-0  Heusden                                           
                                                                                
-Round  7: 
+Round:  7: 
 [18 okt 98]
 Hoogstraten VV         3-3  FC Schoten                                        
 [24 okt 98]
@@ -1682,7 +1677,7 @@ Exc. SC Virton         1-0  Beerschot VAC
 VO Aarschot            0-3  CS Verviers                                       
 VK Tienen              1-0  Sprimont                                          
                                                                                
-Round  8: 
+Round:  8: 
 [31 okt 98]
 Beerschot VAC          0-0  RC Mechelen                                       
 Heusden                4-1  VO Aarschot                                       
@@ -1695,7 +1690,7 @@ CS Verviers            0-0  Hoogstraten VV
 [11 nov 98]
 FC Rita Berlaar        1-2  VK Tienen                                         
                                                                                
-Round  9: 
+Round:  9: 
 [06 nov 98]
 AS Eupen               2-1  Sprimont                                          
 [07 nov 98]
@@ -1708,7 +1703,7 @@ Exc. SC Virton         0-2  CS Verviers
 [08 nov 98]
 VK Tienen              1-1  Beerschot VAC                                     
                                                                                
-Round 10: 
+Round: 10: 
 [15 nov 98]
 VO Aarschot            1-6  Hoogstraten VV                                    
 Beerschot VAC          1-2  Kermt                                             
@@ -1720,7 +1715,7 @@ CS Verviers            0-2  RC Mechelen
 [17 apr 99]
 FC Rita Berlaar        0-3  AS Eupen                                          
                                                                                
-Round 11: 
+Round: 11: 
 [21 nov 98]
 AS Eupen               6-0  Beerschot VAC                                     
 Kermt                  0-3  FC Schoten                                        
@@ -1732,7 +1727,7 @@ Exc. SC Virton         4-0  VO Aarschot
 UR Namur               4-0  Sprimont                                          
 VK Tienen              2-2  CS Verviers                                       
                                                                                
-Round 12: 
+Round: 12: 
 [28 nov 98]
 Beerschot VAC          0-2  KTH Diest                                         
 Heusden                0-1  VK Tienen                                         
@@ -1745,7 +1740,7 @@ CS Verviers            4-0  Kermt
 [09 jan 99]
 VO Aarschot            0-6  RC Mechelen                                       
                                                                                
-Round 13: 
+Round: 13: 
 [02 apr 99]
 UR Namur               3-0  Beerschot VAC                                     
 [03 apr 99]
@@ -1757,7 +1752,7 @@ Sprimont               3-1  FC Rita Berlaar
 VK Tienen              3-0  VO Aarschot                                       
 SK Tongeren            1-0  Exc. SC Virton                                    
                                                                                
-Round 14: 
+Round: 14: 
 [13 dec 98]
 VO Aarschot            1-1  Kermt                                             
 Beerschot VAC          1-0  Sprimont                                          
@@ -1768,7 +1763,7 @@ SK Tongeren            2-2  FC Rita Berlaar
 CS Verviers            2-2  KTH Diest                                         
 Exc. SC Virton         2-3  RC Mechelen                                       
                                                                                
-Round 15: 
+Round: 15: 
 [19 dec 98]
 AS Eupen               7-2  VO Aarschot                                       
 Kermt                  2-0  Hoogstraten VV                                    
@@ -1779,7 +1774,7 @@ FC Rita Berlaar        2-2  Beerschot VAC
 Sprimont               0-2  FC Schoten                                        
 VK Tienen              0-2  Exc. SC Virton                                    
                                                                                
-Round 16: 
+Round: 16: 
 [16 jan 99]
 Beerschot VAC          1-3  SK Tongeren                                       
 AS Eupen               2-2  Hoogstraten VV                                    
@@ -1793,7 +1788,7 @@ FC Rita Berlaar        1-2  FC Schoten
 [18 apr 99]
 Kermt                  1-2  Exc. SC Virton                                    
                                                                                
-Round 17: 
+Round: 17: 
 [23 jan 99]
 Heusden                4-1  Sprimont                                          
 Hoogstraten VV         2-2  KTH Diest                                         
@@ -1805,7 +1800,7 @@ VO Aarschot            1-4  UR Namur
 CS Verviers            3-0  FC Rita Berlaar                                   
 FC Schoten             1-0  Beerschot VAC                                     
                                                                                
-Round 18: 
+Round: 18: 
 [30 jan 99]
 Beerschot VAC          0-2  CS Verviers                                       
 AS Eupen               1-0  RC Mechelen                                       
@@ -1817,7 +1812,7 @@ Sprimont               3-0  VO Aarschot
 [31 jan 99]
 FC Schoten             3-0  SK Tongeren                                       
                                                                                
-Round 19: 
+Round: 19: 
 [06 feb 99]
 Heusden                4-0  Beerschot VAC                                     
 Hoogstraten VV         4-1  Sprimont                                          
@@ -1830,7 +1825,7 @@ VO Aarschot            0-2  FC Rita Berlaar
 [31 maa 99]
 VK Tienen              1-2  AS Eupen                                          
                                                                                
-Round 20: 
+Round: 20: 
 [05 apr 99]
 Beerschot VAC          3-0  VO Aarschot                                       
 AS Eupen               1-0  Kermt                                             
@@ -1844,7 +1839,7 @@ FC Schoten             0-5  Heusden
   due to this decision VK Tienen won the 2nd periode instead of FC Schoten,
   resulting in UR Namur taking part in the play-off instead of Schoten).
                                                                                
-Round 21: 
+Round: 21: 
 [20 feb 99]
 Heusden                1-1  CS Verviers                                       
 Hoogstraten VV         4-1  Beerschot VAC                                     
@@ -1857,7 +1852,7 @@ VK Tienen              2-2  UR Namur
 [31 maa 99]
 Kermt                  1-2  KTH Diest                                         
                                                                                
-Round 22: 
+Round: 22: 
 [27 feb 99]
 Beerschot VAC          0-1  Exc. SC Virton                                    
 Heusden                3-1  SK Tongeren                                       
@@ -1869,7 +1864,7 @@ Sprimont               3-0  VK Tienen
 FC Schoten             2-0  Hoogstraten VV                                    
 CS Verviers            2-1  VO Aarschot                                       
                                                                                
-Round 23: 
+Round: 23: 
 [06 maa 99]
 AS Eupen               1-1  UR Namur                                          
 Hoogstraten VV         5-4  CS Verviers                                       
@@ -1881,7 +1876,7 @@ Exc. SC Virton         2-0  FC Schoten
 [07 maa 99]
 VO Aarschot            1-5  Heusden                                           
                                                                                
-Round 24: 
+Round: 24: 
 [13 maa 99]
 Beerschot VAC          0-2  VK Tienen                                         
 Heusden                2-2  Hoogstraten VV                                    
@@ -1893,7 +1888,7 @@ FC Schoten             2-1  RC Mechelen
 VO Aarschot            2-2  SK Tongeren                                       
 CS Verviers            0-0  Exc. SC Virton                                    
                                                                                
-Round 25: 
+Round: 25: 
 [20 maa 99]
 AS Eupen               1-2  FC Rita Berlaar                                   
 Hoogstraten VV         2-0  VO Aarschot                                       
@@ -1904,7 +1899,7 @@ VK Tienen              0-2  FC Schoten
 SK Tongeren            1-2  UR Namur                                          
 Exc. SC Virton         1-2  Heusden                                           
                                                                                
-Round 26: 
+Round: 26: 
 [27 maa 99]
 FC Rita Berlaar        0-0  KTH Diest                                         
 [28 maa 99]
@@ -1916,7 +1911,7 @@ FC Schoten             1-0  Kermt
 Sprimont               0-3  UR Namur                                          
 CS Verviers            1-3  VK Tienen                                         
                                                                                
-Round 27: 
+Round: 27: 
 [10 apr 99]
 AS Eupen               1-1  FC Schoten                                        
 Kermt                  1-1  CS Verviers                                       
@@ -1927,7 +1922,7 @@ VK Tienen              1-1  Heusden
 SK Tongeren            0-1  Sprimont                                          
 Exc. SC Virton         3-0  Hoogstraten VV                                    
                                                                                
-Round 28: 
+Round: 28: 
 [24 apr 99]
 Beerschot VAC          0-5  UR Namur                                          
 Heusden                1-0  Kermt                                             
@@ -1939,7 +1934,7 @@ FC Schoten             0-1  KTH Diest
 CS Verviers            1-2  AS Eupen                                          
 VO Aarschot            1-3  VK Tienen                                         
                                                                                
-Round 29: 
+Round: 29: 
 [02 mei 99]
 AS Eupen               2-3  Heusden                                           
 Kermt                  9-1  VO Aarschot                                       
@@ -1950,7 +1945,7 @@ FC Rita Berlaar        0-1  SK Tongeren
 Sprimont               4-3  Beerschot VAC                                     
 VK Tienen              3-0  Hoogstraten VV                                    
                                                                                
-Round 30: 
+Round: 30: 
 [09 mei 99]
 VO Aarschot            0-9  AS Eupen                                          
 Beerschot VAC          1-2  FC Rita Berlaar                                   
@@ -2064,7 +2059,7 @@ Fourth Level (Vierde Klasse)
 Belgie 4e klasse A 98/99      
 ------------------------
 
-Round  1: 
+Round:  1: 
 [05 sep 98]
 SK Gullegem            1-0  SV Wevelgem City                                  
 SK Maldegem            0-4  VK Ninove                                         
@@ -2076,7 +2071,7 @@ SK Eernegem            2-1  SVD Handzame
 SK Ronse               0-4  US Tournai                                        
 Zultse VV              0-1  FC Ath                                            
                                                                                
-Round  2: 
+Round:  2: 
 [12 sep 98]
 FC Eeklo               1-3  SK Eernegem                                       
 SVD Handzame           1-2  SK Maldegem                                       
@@ -2088,7 +2083,7 @@ Oosterzele             0-2  Lovendegem
 US Tournai             1-1  SC Lombeek                                        
 SV Wevelgem City       2-1  SK Ronse                                          
                                                                                
-Round  3: 
+Round:  3: 
 [19 sep 98]
 SK Maldegem            3-1  FC Eeklo                                          
 Meulebeke              3-2  FC Ath                                            
@@ -2100,7 +2095,7 @@ VV Eendr. Aalter       1-3  VK Ninove
 SK Eernegem            4-0  Oosterzele                                        
 Zultse VV              2-2  SVD Handzame                                      
                                                                                
-Round  4: 
+Round:  4: 
 [27 sep 98]
 FC Ath                 3-4  SK Gullegem                                       
 FC Eeklo               4-0  Zultse VV                                         
@@ -2111,7 +2106,7 @@ SK Ronse               2-4  SC Lombeek
 US Tournai             1-2  SK Eernegem                                       
 SV Wevelgem City       2-0  Lovendegem                                        
                                                                                
-Round  5: 
+Round:  5: 
 [04 okt 98]
 FC Ath                 0-2  VK Ninove                                         
 VV Eendr. Aalter       0-0  FC Eeklo                                          
@@ -2122,7 +2117,7 @@ SK Maldegem            3-1  US Tournai
 Meulebeke              0-0  SVD Handzame                                      
 Zultse VV              3-2  Oosterzele                                        
                                                                                
-Round  6: 
+Round:  6: 
 [11 okt 98]
 FC Eeklo               3-2  Meulebeke                                         
 SVD Handzame           4-0  FC Ath                                            
@@ -2133,7 +2128,7 @@ SK Ronse               1-5  SK Eernegem
 US Tournai             0-1  Zultse VV                                         
 SV Wevelgem City       5-1  SK Maldegem                                       
                                                                                
-Round  7: 
+Round:  7: 
 [24 okt 98]
 SK Maldegem            3-1  SK Ronse                                          
 Meulebeke              4-0  Oosterzele                                        
@@ -2145,7 +2140,7 @@ VV Eendr. Aalter       3-1  US Tournai
 VK Ninove              1-0  SVD Handzame                                      
 Zultse VV              2-0  SV Wevelgem City                                  
                                                                                
-Round  8: 
+Round:  8: 
 [18 okt 98]
 Lovendegem             2-3  SK Eernegem                                       
 [01 nov 98]
@@ -2157,7 +2152,7 @@ SK Ronse               1-1  Zultse VV
 US Tournai             2-0  Meulebeke                                         
 SV Wevelgem City       1-0  VV Eendr. Aalter                                  
                                                                                
-Round  9: 
+Round:  9: 
 [07 nov 98]
 SK Maldegem            1-2  Lovendegem                                        
 Meulebeke              4-0  SV Wevelgem City                                  
@@ -2169,7 +2164,7 @@ VV Eendr. Aalter       3-1  SK Ronse
 VK Ninove              6-2  Oosterzele                                        
 Zultse VV              1-0  SC Lombeek                                        
                                                                                
-Round 10: 
+Round: 10: 
 [15 nov 98]
 FC Eeklo               1-1  SK Gullegem                                       
 SK Eernegem            3-1  SK Maldegem                                       
@@ -2180,7 +2175,7 @@ SK Ronse               1-1  Meulebeke
 US Tournai             3-1  VK Ninove                                         
 SV Wevelgem City       2-1  FC Ath                                            
                                                                                
-Round 11: 
+Round: 11: 
 [21 nov 98]
 Meulebeke              0-0  SC Lombeek                                        
 [22 nov 98]
@@ -2193,7 +2188,7 @@ Zultse VV              2-1  SK Eernegem
 [05 apr 99]
 SVD Handzame           1-1  US Tournai                                        
                                                                                
-Round 12: 
+Round: 12: 
 [28 nov 98]
 SK Maldegem            5-0  Zultse VV                                         
 [29 nov 98]
@@ -2205,7 +2200,7 @@ SK Ronse               1-3  VK Ninove
 US Tournai             2-1  FC Eeklo                                          
 SV Wevelgem City       3-2  SVD Handzame                                      
                                                                                
-Round 13: 
+Round: 13: 
 [07 maa 99]
 FC Ath                 0-1  Lovendegem                                        
 FC Eeklo               1-1  SV Wevelgem City                                  
@@ -2216,7 +2211,7 @@ Meulebeke              1-1  SK Eernegem
 VK Ninove              2-0  SC Lombeek                                        
 Oosterzele             1-2  US Tournai                                        
                                                                                
-Round 14: 
+Round: 14: 
 [12 dec 98]
 SK Maldegem            4-0  Meulebeke                                         
 [13 dec 98]
@@ -2228,7 +2223,7 @@ SK Ronse               2-2  FC Eeklo
 SV Wevelgem City       3-3  Oosterzele                                        
 Zultse VV              2-0  VV Eendr. Aalter                                  
                                                                                
-Round 15: 
+Round: 15: 
 [18 dec 98]
 Meulebeke              1-6  Zultse VV                                         
 [19 dec 98]
@@ -2241,7 +2236,7 @@ VK Ninove              1-1  SK Eernegem
 Oosterzele             1-3  SK Ronse                                          
 US Tournai             1-1  SV Wevelgem City                                  
                                                                                
-Round 16: 
+Round: 16: 
 [26 dec 98]
 SV Wevelgem City       1-5  SK Gullegem                                       
 [09 jan 99]
@@ -2254,7 +2249,7 @@ Oosterzele             1-3  SC Lombeek
 US Tournai             1-1  SK Ronse                                          
 FC Eeklo               1-1  Lovendegem                                        
                                                                                
-Round 17: 
+Round: 17: 
 [17 jan 99]
 VV Eendr. Aalter       3-2  FC Ath                                            
 SK Eernegem            0-0  FC Eeklo                                          
@@ -2265,7 +2260,7 @@ SK Maldegem            2-1  SVD Handzame
 SK Ronse               2-1  SV Wevelgem City                                  
 Zultse VV              5-0  VK Ninove                                         
                                                                                
-Round 18: 
+Round: 18: 
 [24 jan 99]
 FC Ath                 1-2  Meulebeke                                         
 FC Eeklo               2-1  SK Maldegem                                       
@@ -2276,7 +2271,7 @@ SK Ronse               1-1  SK Gullegem
 US Tournai             1-2  Lovendegem                                        
 SV Wevelgem City       0-2  SC Lombeek                                        
                                                                                
-Round 19: 
+Round: 19: 
 [30 jan 99]
 VV Eendr. Aalter       0-0  SVD Handzame                                      
 SK Eernegem            5-3  US Tournai                                        
@@ -2288,7 +2283,7 @@ SK Maldegem            3-0  Oosterzele
 SK Gullegem            1-1  FC Ath                                            
 Zultse VV              3-1  FC Eeklo                                          
                                                                                
-Round 20: 
+Round: 20: 
 [06 feb 99]
 FC Eeklo               0-0  VV Eendr. Aalter                                  
 [07 feb 99]
@@ -2300,7 +2295,7 @@ SK Ronse               3-1  Lovendegem
 US Tournai             0-0  SK Maldegem                                       
 SV Wevelgem City       6-3  SK Eernegem                                       
                                                                                
-Round 21: 
+Round: 21: 
 [02 apr 99]
 VV Eendr. Aalter       4-0  Oosterzele                                        
 [03 apr 99]
@@ -2314,7 +2309,7 @@ SK Gullegem            3-4  VK Ninove
 [05 apr 99]
 SK Eernegem            2-2  SK Ronse                                          
                                                                                
-Round 22: 
+Round: 22: 
 [21 feb 99]
 FC Eeklo               5-2  FC Ath                                            
 SVD Handzame           1-1  VK Ninove                                         
@@ -2325,7 +2320,7 @@ SK Ronse               1-2  SK Maldegem
 US Tournai             2-3  VV Eendr. Aalter                                  
 SV Wevelgem City       2-2  Zultse VV                                         
                                                                                
-Round 23: 
+Round: 23: 
 [27 feb 99]
 SK Maldegem            2-1  SC Lombeek                                        
 Meulebeke              2-0  US Tournai                                        
@@ -2337,7 +2332,7 @@ VV Eendr. Aalter       1-4  SV Wevelgem City
 SK Eernegem            2-0  Lovendegem                                        
 SK Gullegem            1-1  SVD Handzame                                      
                                                                                
-Round 24: 
+Round: 24: 
 [14 maa 99]
 FC Eeklo               2-0  SVD Handzame                                      
 SK Eernegem            2-0  SK Gullegem                                       
@@ -2348,7 +2343,7 @@ SK Ronse               1-0  VV Eendr. Aalter
 US Tournai             3-0  FC Ath                                            
 SV Wevelgem City       5-3  Meulebeke                                         
                                                                                
-Round 25: 
+Round: 25: 
 [20 maa 99]
 SK Maldegem            2-2  SK Eernegem                                       
 Meulebeke              5-3  SK Ronse                                          
@@ -2360,7 +2355,7 @@ VV Eendr. Aalter       1-1  SC Lombeek
 VK Ninove              0-0  US Tournai                                        
 Zultse VV              3-1  Lovendegem                                        
                                                                                
-Round 26: 
+Round: 26: 
 [28 maa 99]
 SK Eernegem            1-4  Zultse VV                                         
 SC Lombeek             1-0  Meulebeke                                         
@@ -2371,7 +2366,7 @@ SK Ronse               1-1  FC Ath
 US Tournai             0-2  SVD Handzame                                      
 SV Wevelgem City       0-0  VK Ninove                                         
                                                                                
-Round 27: 
+Round: 27: 
 [10 apr 99]
 Meulebeke              2-1  Lovendegem                                        
 [11 apr 99]
@@ -2383,7 +2378,7 @@ FC Ath                 0-1  SC Lombeek
 VK Ninove              3-0  SK Ronse                                          
 Zultse VV              3-2  SK Maldegem                                       
                                                                                
-Round 28: 
+Round: 28: 
 [17 apr 99]
 SK Eernegem            1-0  Meulebeke                                         
 SK Maldegem            2-2  VV Eendr. Aalter                                  
@@ -2395,7 +2390,7 @@ US Tournai             0-1  Oosterzele
 SV Wevelgem City       2-1  FC Eeklo                                          
 Zultse VV              3-1  SK Gullegem                                       
                                                                                
-Round 29: 
+Round: 29: 
 [25 apr 99]
 FC Ath                 0-3  SK Eernegem                                       
 FC Eeklo               1-2  SK Ronse                                          
@@ -2406,7 +2401,7 @@ VK Ninove              2-3  Lovendegem
 Oosterzele             1-3  SV Wevelgem City                                  
 US Tournai             2-1  SK Gullegem                                       
                                                                                
-Round 30: 
+Round: 30: 
 [02 mei 99]
 SK Eernegem            3-0  VK Ninove                                         
 SK Gullegem            2-0  VV Eendr. Aalter                                  
@@ -2440,7 +2435,7 @@ Zultse VV              4-3  Meulebeke
 Belgie 4e klasse B 98/99      
 ------------------------
 
-Round  1: 
+Round:  1: 
 [05 sep 98]
 KAV Dendermonde        2-3  TK Meldert                                        
 Verbr. Hemiksem        0-0  Bornem                                            
@@ -2452,7 +2447,7 @@ Lyra TSV               0-1  Oud-Heverlee
 Eendr. Meldert         0-1  Zwarte Leeuw                                      
 SC Grimbergen          3-0  KSK Heist                                         
                                                                                
-Round  2: 
+Round:  2: 
 [12 sep 98]
 FCSV Nijlen            2-1  Eendr. Meldert                                    
 Zwarte Leeuw           6-1  SC Grimbergen                                     
@@ -2464,7 +2459,7 @@ Oud-Heverlee           2-0  Willebroek
 FCO Wilrijk            4-0  Lyra TSV                                          
 Diegem Sport           4-1  Stade Leuven                                      
                                                                                
-Round  3: 
+Round:  3: 
 [19 sep 98]
 KAV Dendermonde        1-0  Zwarte Leeuw                                      
 Verbr. Hemiksem        0-6  KSK Heist                                         
@@ -2476,7 +2471,7 @@ Berchem Sport          2-1  TK Meldert
 Diegem Sport           1-1  Bornem                                            
 Willebroek             0-2  FCO Wilrijk                                       
                                                                                
-Round  4: 
+Round:  4: 
 [26 sep 98]
 FCSV Nijlen            1-1  KAV Dendermonde                                   
 Zwarte Leeuw           1-2  Verbr. Hemiksem                                   
@@ -2488,7 +2483,7 @@ Oud-Heverlee           3-2  SC Grimbergen
 FCO Wilrijk            2-5  Eendr. Meldert                                    
 KSK Heist              1-1  Berchem Sport                                     
                                                                                
-Round  5: 
+Round:  5: 
 [04 okt 98]
 Berchem Sport          0-1  Zwarte Leeuw                                      
 Bornem                 2-2  TK Meldert                                        
@@ -2499,7 +2494,7 @@ SC Grimbergen          2-2  FCO Wilrijk
 Verbr. Hemiksem        0-2  FCSV Nijlen                                       
 Stade Leuven           0-0  Willebroek                                        
                                                                                
-Round  6: 
+Round:  6: 
 [10 okt 98]
 FCSV Nijlen            2-1  Berchem Sport                                     
 Zwarte Leeuw           2-2  Diegem Sport                                      
@@ -2511,7 +2506,7 @@ Willebroek             2-2  Eendr. Meldert
 FCO Wilrijk            0-2  KAV Dendermonde                                   
 Lyra TSV               3-1  SC Grimbergen                                     
                                                                                
-Round  7: 
+Round:  7: 
 [24 okt 98]
 Verbr. Hemiksem        0-1  FCO Wilrijk                                       
 Stade Leuven           2-2  Eendr. Meldert                                    
@@ -2523,7 +2518,7 @@ Berchem Sport          1-1  Oud-Heverlee
 TK Meldert             6-1  KSK Heist                                         
 Bornem                 0-1  Zwarte Leeuw                                      
                                                                                
-Round  8: 
+Round:  8: 
 [31 okt 98]
 Eendr. Meldert         2-2  SC Grimbergen                                     
 FCSV Nijlen            1-3  Bornem                                            
@@ -2535,7 +2530,7 @@ Willebroek             1-3  KAV Dendermonde
 FCO Wilrijk            1-1  Berchem Sport                                     
 Lyra TSV               1-0  Verbr. Hemiksem                                   
                                                                                
-Round  9: 
+Round:  9: 
 [07 nov 98]
 KAV Dendermonde        3-0  Eendr. Meldert                                    
 Verbr. Hemiksem        0-7  Willebroek                                        
@@ -2547,7 +2542,7 @@ Bornem                 1-5  Oud-Heverlee
 TK Meldert             1-1  FCSV Nijlen                                       
 Berchem Sport          3-0  Lyra TSV                                          
                                                                                
-Round 10: 
+Round: 10: 
 [14 nov 98]
 Zwarte Leeuw           5-1  Stade Leuven                                      
 [15 nov 98]
@@ -2559,7 +2554,7 @@ Willebroek             1-4  Berchem Sport
 FCO Wilrijk            1-5  Bornem                                            
 Eendr. Meldert         2-1  Verbr. Hemiksem                                   
                                                                                
-Round 11: 
+Round: 11: 
 [21 nov 98]
 Verbr. Hemiksem        1-0  SC Grimbergen                                     
 Stade Leuven           0-1  KAV Dendermonde                                   
@@ -2571,7 +2566,7 @@ TK Meldert             1-0  FCO Wilrijk
 Bornem                 0-2  Lyra TSV                                          
 Diegem Sport           1-2  Willebroek                                        
                                                                                
-Round 12: 
+Round: 12: 
 [28 nov 98]
 FCSV Nijlen            3-9  Stade Leuven                                      
 [29 nov 98]
@@ -2583,7 +2578,7 @@ Oud-Heverlee           0-3  Zwarte Leeuw
 Willebroek             1-3  Bornem                                            
 FCO Wilrijk            0-0  KSK Heist                                         
                                                                                
-Round 13: 
+Round: 13: 
 [06 maa 99]
 FCSV Nijlen            0-3  Oud-Heverlee                                      
 Zwarte Leeuw           3-2  FCO Wilrijk                                       
@@ -2596,7 +2591,7 @@ Bornem                 2-5  Eendr. Meldert
 Diegem Sport           5-0  SC Grimbergen                                     
  (awarded, SC Grimbergen fielded an ineligible player, original result 2-2)
                                                                                
-Round 14: 
+Round: 14: 
 [13 dec 98]
 KAV Dendermonde        1-0  Diegem Sport                                      
 Eendr. Meldert         1-2  TK Meldert                                        
@@ -2607,7 +2602,7 @@ Stade Leuven           1-2  Oud-Heverlee
 Willebroek             1-0  KSK Heist                                         
 FCO Wilrijk            0-0  FCSV Nijlen                                       
                                                                                
-Round 15: 
+Round: 15: 
 [19 dec 98]
 FCSV Nijlen            1-2  Lyra TSV                                          
 Zwarte Leeuw           1-2  Willebroek                                        
@@ -2619,7 +2614,7 @@ Berchem Sport          2-0  Stade Leuven
 Oud-Heverlee           2-0  FCO Wilrijk                                       
 Bornem                 1-3  KAV Dendermonde                                   
                                                                                
-Round 16: 
+Round: 16: 
 [09 jan 99]
 FCSV Nijlen            0-0  Willebroek                                        
 Zwarte Leeuw           2-1  Eendr. Meldert                                    
@@ -2631,7 +2626,7 @@ Oud-Heverlee           0-3  Lyra TSV
 FCO Wilrijk            2-2  Stade Leuven                                      
 Diegem Sport           2-4  Berchem Sport                                     
                                                                                
-Round 17: 
+Round: 17: 
 [16 jan 99]
 Verbr. Hemiksem        0-3  TK Meldert                                        
 Stade Leuven           1-1  Diegem Sport                                      
@@ -2643,7 +2638,7 @@ Lyra TSV               3-3  FCO Wilrijk
 KAV Dendermonde        0-0  KSK Heist                                         
 Willebroek             0-2  Oud-Heverlee                                      
                                                                                
-Round 18: 
+Round: 18: 
 [23 jan 99]
 FCSV Nijlen            4-0  SC Grimbergen                                     
 Zwarte Leeuw           2-1  KAV Dendermonde                                   
@@ -2655,7 +2650,7 @@ Oud-Heverlee           1-2  Eendr. Meldert
 FCO Wilrijk            2-0  Willebroek                                        
 KSK Heist              1-2  Verbr. Hemiksem                                   
                                                                                
-Round 19: 
+Round: 19: 
 [30 jan 99]
 Verbr. Hemiksem        0-1  Zwarte Leeuw                                      
 Stade Leuven           1-1  Bornem                                            
@@ -2667,7 +2662,7 @@ Berchem Sport          2-3  KSK Heist
 KAV Dendermonde        2-1  FCSV Nijlen                                       
 Willebroek             1-1  Lyra TSV                                          
                                                                                
-Round 20: 
+Round: 20: 
 [06 feb 99]
 FCSV Nijlen            5-1  Verbr. Hemiksem                                   
 Zwarte Leeuw           1-4  Berchem Sport                                     
@@ -2680,7 +2675,7 @@ Lyra TSV               1-1  Eendr. Meldert
 Oud-Heverlee           0-3  KAV Dendermonde                                   
 Willebroek             2-1  Stade Leuven                                      
                                                                                
-Round 21: 
+Round: 21: 
 [02 apr 99]
 KAV Dendermonde        3-1  FCO Wilrijk                                       
 Eendr. Meldert         2-2  Willebroek                                        
@@ -2693,7 +2688,7 @@ Stade Leuven           3-0  TK Meldert
 [04 apr 99]
 Berchem Sport          1-2  FCSV Nijlen                                       
                                                                                
-Round 22: 
+Round: 22: 
 [20 feb 99]
 FCSV Nijlen            0-0  Diegem Sport                                      
 Zwarte Leeuw           0-0  Bornem                                            
@@ -2705,7 +2700,7 @@ Willebroek             2-1  SC Grimbergen
 FCO Wilrijk            2-2  Verbr. Hemiksem                                   
 KSK Heist              1-0  TK Meldert                                        
                                                                                
-Round 23: 
+Round: 23: 
 [27 feb 99]
 KAV Dendermonde        0-0  Willebroek                                        
 Verbr. Hemiksem        1-4  Lyra TSV                                          
@@ -2717,7 +2712,7 @@ Bornem                 1-0  FCSV Nijlen
 TK Meldert             1-2  Zwarte Leeuw                                      
 Berchem Sport          2-0  FCO Wilrijk                                       
                                                                                
-Round 24: 
+Round: 24: 
 [13 maa 99]
 Eendr. Meldert         3-0  KAV Dendermonde                                   
 FCSV Nijlen            1-0  TK Meldert                                        
@@ -2729,7 +2724,7 @@ Willebroek             2-1  Verbr. Hemiksem
 FCO Wilrijk            2-0  Diegem Sport                                      
 Lyra TSV               1-3  Berchem Sport                                     
                                                                                
-Round 25: 
+Round: 25: 
 [20 maa 99]
 Verbr. Hemiksem        1-1  Eendr. Meldert                                    
 Stade Leuven           1-0  Zwarte Leeuw                                      
@@ -2741,7 +2736,7 @@ Berchem Sport          1-1  Willebroek
 TK Meldert             1-2  Oud-Heverlee                                      
 Bornem                 0-2  FCO Wilrijk                                       
                                                                                
-Round 26: 
+Round: 26: 
 [28 maa 99]
 KAV Dendermonde        2-2  Stade Leuven                                      
 Eendr. Meldert         0-1  Berchem Sport                                     
@@ -2752,7 +2747,7 @@ Oud-Heverlee           2-3  KSK Heist
 Willebroek             0-0  Diegem Sport                                      
 FCO Wilrijk            3-2  TK Meldert                                        
                                                                                
-Round 27: 
+Round: 27: 
 [10 apr 99]
 Verbr. Hemiksem        0-3  KAV Dendermonde                                   
 Stade Leuven           4-0  FCSV Nijlen                                       
@@ -2764,7 +2759,7 @@ TK Meldert             0-0  Lyra TSV
 Bornem                 2-4  Willebroek                                        
 Diegem Sport           3-1  Eendr. Meldert                                    
                                                                                
-Round 28: 
+Round: 28: 
 [17 apr 99]
 Eendr. Meldert         1-2  Bornem                                            
 Verbr. Hemiksem        1-1  Stade Leuven                                      
@@ -2776,7 +2771,7 @@ Oud-Heverlee           3-3  FCSV Nijlen
 Willebroek             2-2  TK Meldert                                        
 FCO Wilrijk            0-2  Zwarte Leeuw                                      
                                                                                
-Round 29: 
+Round: 29: 
 [25 apr 99]
 Berchem Sport          2-0  Verbr. Hemiksem                                   
 Bornem                 5-0  SC Grimbergen                                     
@@ -2787,7 +2782,7 @@ FCSV Nijlen            0-1  FCO Wilrijk
 Oud-Heverlee           0-2  Stade Leuven                                      
 Zwarte Leeuw           0-1  Lyra TSV                                          
                                                                                
-Round 30: 
+Round: 30: 
 [02 mei 99]
 KAV Dendermonde        3-0  Bornem                                            
 Eendr. Meldert         0-1  KSK Heist                                         
@@ -2821,7 +2816,7 @@ FCO Wilrijk            4-1  Oud-Heverlee
 Belgie 4e klasse C 98/99      
 ------------------------
 
-Round  1: 
+Round:  1: 
 [05 sep 98]
 Prayon FC              1-3  Wezel Sport FC                                    
 [06 sep 98]
@@ -2833,7 +2828,7 @@ Neeroeteren FC         0-4  VVH Dilsen
 FC Beringen            2-2  Montegnee                                         
 Seraing RUL            0-1  SV Mol                                            
                                                                                
-Round  2: 
+Round:  2: 
 [12 sep 98]
 VV Overpelt Fabr.      4-0  Comblain Sport                                    
 [13 sep 98]
@@ -2845,7 +2840,7 @@ VVH Dilsen             2-1  FC Beringen
 Vigor Beringen         1-3  Exc. Heppen                                       
 Wezel Sport FC         1-0  Seraing RUL                                       
                                                                                
-Round  3: 
+Round:  3: 
 [19 sep 98]
 FC Beringen            4-0  Kelmis                                            
 [20 sep 98]
@@ -2858,7 +2853,7 @@ Prayon FC              1-0  VVH Dilsen
 [18 okt 98]
 Seraing RUL            6-1  Montegnee                                         
                                                                                
-Round  4: 
+Round:  4: 
 [26 sep 98]
 Neeroeteren FC         1-3  FC Beringen                                       
 VV Overpelt Fabr.      1-0  FCH Lille                                         
@@ -2870,7 +2865,7 @@ Kelmis                 0-2  Prayon FC
 Vigor Beringen         1-0  V. Meerhout                                       
 Wezel Sport FC         5-1  Comblain Sport                                    
                                                                                
-Round  5: 
+Round:  5: 
 [04 okt 98]
 VV Bocholt             2-1  VVH Dilsen                                        
 Comblain Sport         0-2  Montegnee                                         
@@ -2881,7 +2876,7 @@ Prayon FC              2-2  Neeroeteren FC
 Seraing RUL            0-0  Kelmis                                            
 Vigor Beringen         0-2  VV Overpelt Fabr.                                 
                                                                                
-Round  6: 
+Round:  6: 
 [10 okt 98]
 FC Beringen            0-0  Prayon FC                                         
 SV Mol                 0-1  Vigor Beringen                                    
@@ -2893,7 +2888,7 @@ Kelmis                 1-2  VV Bocholt
 VVH Dilsen             1-0  Comblain Sport                                    
 Wezel Sport FC         3-0  FCH Lille                                         
                                                                                
-Round  7: 
+Round:  7: 
 [24 okt 98]
 VV Overpelt Fabr.      2-1  SV Mol                                            
 [25 okt 98]
@@ -2905,7 +2900,7 @@ VV Bocholt             3-4  Neeroeteren FC
 Seraing RUL            1-4  FC Beringen                                       
 Vigor Beringen         2-1  Wezel Sport FC                                    
                                                                                
-Round  8: 
+Round:  8: 
 [31 okt 98]
 SV Mol                 4-0  V. Meerhout                                       
 Neeroeteren FC         0-2  Comblain Sport                                    
@@ -2918,7 +2913,7 @@ Wezel Sport FC         2-1  VV Overpelt Fabr.
 [11 nov 98]
 Prayon FC              0-0  Seraing RUL                                       
                                                                                
-Round  9: 
+Round:  9: 
 [07 nov 98]
 SV Mol                 0-2  Wezel Sport FC                                    
 [08 nov 98]
@@ -2930,7 +2925,7 @@ VV Bocholt             2-0  Prayon FC
 VV Overpelt Fabr.      0-2  Montegnee                                         
 Vigor Beringen         2-3  VVH Dilsen                                        
                                                                                
-Round 10: 
+Round: 10: 
 [14 nov 98]
 Neeroeteren FC         1-0  FCH Lille                                         
 [15 nov 98]
@@ -2942,7 +2937,7 @@ Prayon FC              2-2  Comblain Sport
 Seraing RUL            1-1  VV Bocholt                                        
 Wezel Sport FC         3-1  V. Meerhout                                       
                                                                                
-Round 11: 
+Round: 11: 
 [21 nov 98]
 VV Overpelt Fabr.      1-1  Kelmis                                            
 [22 nov 98]
@@ -2954,7 +2949,7 @@ Comblain Sport         2-1  Seraing RUL
 Vigor Beringen         1-1  Neeroeteren FC                                    
 Wezel Sport FC         1-0  Montegnee                                         
                                                                                
-Round 12: 
+Round: 12: 
 [28 nov 98]
 FC Beringen            1-1  Vigor Beringen                                    
 Neeroeteren FC         1-1  VV Overpelt Fabr.                                 
@@ -2966,7 +2961,7 @@ VV Bocholt             2-1  Comblain Sport
 Prayon FC              1-1  FCH Lille                                         
 Seraing RUL            2-5  Exc. Heppen                                       
                                                                                
-Round 13: 
+Round: 13: 
 [06 maa 99]
 SV Mol                 0-2  Neeroeteren FC                                    
 VV Overpelt Fabr.      0-1  FC Beringen                                       
@@ -2978,7 +2973,7 @@ FCH Lille              0-0  Seraing RUL
 Vigor Beringen         2-1  Prayon FC                                         
 Wezel Sport FC         2-1  Kelmis                                            
                                                                                
-Round 14: 
+Round: 14: 
 [13 dec 98]
 FC Beringen            0-0  SV Mol                                            
 VV Bocholt             3-0  FCH Lille                                         
@@ -2990,7 +2985,7 @@ Seraing RUL            1-0  Vigor Beringen
 [05 apr 99]
 Prayon FC              2-4  VV Overpelt Fabr.                                 
                                                                                
-Round 15: 
+Round: 15: 
 [19 dec 98]
 SV Mol                 2-4  Prayon FC                                         
 VV Overpelt Fabr.      2-2  Seraing RUL                                       
@@ -3002,7 +2997,7 @@ Exc. Heppen            3-1  V. Meerhout
 Vigor Beringen         2-2  VV Bocholt                                        
 Wezel Sport FC         0-1  FC Beringen                                       
                                                                                
-Round 16: 
+Round: 16: 
 [09 jan 99]
 SV Mol                 3-1  Seraing RUL                                       
 VV Overpelt Fabr.      1-0  VV Bocholt                                        
@@ -3014,7 +3009,7 @@ Kelmis                 4-1  V. Meerhout
 Vigor Beringen         5-2  Comblain Sport                                    
 Wezel Sport FC         3-2  Prayon FC                                         
                                                                                
-Round 17: 
+Round: 17: 
 [16 jan 99]
 Neeroeteren FC         3-1  Kelmis                                            
 [17 jan 99]
@@ -3027,7 +3022,7 @@ Seraing RUL            2-3  Wezel Sport FC
 [31 maa 99]
 Prayon FC              0-3  Montegnee                                         
                                                                                
-Round 18: 
+Round: 18: 
 [23 jan 99]
 SV Mol                 3-1  Comblain Sport                                    
 Neeroeteren FC         2-1  V. Meerhout                                       
@@ -3039,7 +3034,7 @@ VVH Dilsen             7-0  Prayon FC
 Vigor Beringen         2-0  FCH Lille                                         
 Wezel Sport FC         1-2  VV Bocholt                                        
                                                                                
-Round 19: 
+Round: 19: 
 [30 jan 99]
 FC Beringen            0-2  Neeroeteren FC                                    
 Prayon FC              1-0  Kelmis                                            
@@ -3052,7 +3047,7 @@ Seraing RUL            1-1  VVH Dilsen
 [05 apr 99]
 Comblain Sport         2-2  Wezel Sport FC                                    
                                                                                
-Round 20: 
+Round: 20: 
 [06 feb 99]
 FC Beringen            0-0  V. Meerhout                                       
 SV Mol                 2-0  FCH Lille                                         
@@ -3065,7 +3060,7 @@ Wezel Sport FC         2-2  Exc. Heppen
 [14 apr 99]
 Montegnee              3-1  Comblain Sport                                    
                                                                                
-Round 21: 
+Round: 21: 
 [03 apr 99]
 VV Bocholt             7-0  Kelmis                                            
 Comblain Sport         3-0  VVH Dilsen                                        
@@ -3076,7 +3071,7 @@ Prayon FC              0-2  FC Beringen
 Seraing RUL            4-0  Neeroeteren FC                                    
 Vigor Beringen         1-0  SV Mol                                            
                                                                                
-Round 22: 
+Round: 22: 
 [20 feb 99]
 SV Mol                 1-5  VV Overpelt Fabr.                                 
 Prayon FC              2-4  V. Meerhout                                       
@@ -3089,7 +3084,7 @@ Wezel Sport FC         2-2  Vigor Beringen
 [31 maa 99]
 Kelmis                 3-0  Comblain Sport                                    
                                                                                
-Round 23: 
+Round: 23: 
 [27 feb 99]
 VV Overpelt Fabr.      2-3  Wezel Sport FC                                    
 [28 feb 99]
@@ -3101,7 +3096,7 @@ VV Bocholt             2-2  FC Beringen
 Seraing RUL            1-0  Prayon FC                                         
 Vigor Beringen         1-1  Montegnee                                         
                                                                                
-Round 24: 
+Round: 24: 
 [13 maa 99]
 FC Beringen            1-0  Comblain Sport                                    
 Neeroeteren FC         2-1  Exc. Heppen                                       
@@ -3113,7 +3108,7 @@ Prayon FC              1-2  VV Bocholt
 Seraing RUL            3-2  V. Meerhout                                       
 Wezel Sport FC         2-0  SV Mol                                            
                                                                                
-Round 25: 
+Round: 25: 
 [21 maa 99]
 VV Bocholt             2-0  Seraing RUL                                       
 Comblain Sport         0-0  Prayon FC                                         
@@ -3124,7 +3119,7 @@ SV Mol                 0-1  Montegnee
 VV Overpelt Fabr.      4-1  VVH Dilsen                                        
 Vigor Beringen         2-1  Kelmis                                            
                                                                                
-Round 26: 
+Round: 26: 
 [28 maa 99]
 FC Beringen            2-1  FCH Lille                                         
 VV Bocholt             0-1  V. Meerhout                                       
@@ -3135,7 +3130,7 @@ Neeroeteren FC         4-2  Vigor Beringen
 Prayon FC              2-0  Exc. Heppen                                       
 Seraing RUL            0-0  Comblain Sport                                    
                                                                                
-Round 27: 
+Round: 27: 
 [10 apr 99]
 SV Mol                 2-0  Kelmis                                            
 VV Overpelt Fabr.      2-1  Neeroeteren FC                                    
@@ -3147,7 +3142,7 @@ Exc. Heppen            0-0  Seraing RUL
 Vigor Beringen         1-2  FC Beringen                                       
 Wezel Sport FC         0-2  VVH Dilsen                                        
                                                                                
-Round 28: 
+Round: 28: 
 [17 apr 99]
 FC Beringen            2-2  VV Overpelt Fabr.                                 
 Neeroeteren FC         2-2  SV Mol                                            
@@ -3159,7 +3154,7 @@ VV Bocholt             2-0  Exc. Heppen
 Comblain Sport         0-1  V. Meerhout                                       
 Seraing RUL            1-1  FCH Lille                                         
                                                                                
-Round 29: 
+Round: 29: 
 [25 apr 99]
 VVH Dilsen             2-2  V. Meerhout                                       
 Exc. Heppen            2-1  Comblain Sport                                    
@@ -3170,7 +3165,7 @@ VV Overpelt Fabr.      5-1  Prayon FC
 Vigor Beringen         2-2  Seraing RUL                                       
 Wezel Sport FC         1-0  Neeroeteren FC                                    
                                                                                
-Round 30: 
+Round: 30: 
 [02 mei 99]
 FC Beringen            0-2  Wezel Sport FC                                    
 VV Bocholt             2-2  Vigor Beringen                                    
@@ -3204,7 +3199,7 @@ Seraing RUL            1-6  VV Overpelt Fabr.
 Belgie 4e klasse D 98/99      
 ------------------------
 
-Round  1: 
+Round:  1: 
 [05 sep 98]
 Beauraing              2-2  RJ Arlon                                          
 Meux                   1-1  Spy                                               
@@ -3216,7 +3211,7 @@ Athusien               1-0  J. Rochefort FC
 Sambreville            0-0  AFC Tubize                                        
 Francs Borains         4-2  CS Nivelles                                       
                                                                                
-Round  2: 
+Round:  2: 
 [12 sep 98]
 RJ Arlon               1-2  Marchienne                                        
 AFC Tubize             5-1  Meux                                              
@@ -3228,7 +3223,7 @@ Spy                    1-2  Francs Borains
 FC Farciennes          1-0  Athusien                                          
 LC Walcourt            0-0  RJ Wavre                                          
                                                                                
-Round  3: 
+Round:  3: 
 [19 sep 98]
 Beauraing              3-0  Spy                                               
 Marchienne             0-1  CS Nivelles                                       
@@ -3240,7 +3235,7 @@ Francs Borains         1-0  AFC Tubize
 KFC Rode-Verrewinkel   3-0  RJ Arlon                                          
 Sambreville            1-0  FC Farciennes                                     
                                                                                
-Round  4: 
+Round:  4: 
 [26 sep 98]
 RJ Arlon               0-1  Lambusart-Fleurus                                 
 AFC Tubize             4-2  Beauraing                                         
@@ -3252,7 +3247,7 @@ FC Farciennes          2-2  Meux
 LC Walcourt            0-2  Sambreville                                       
 CS Nivelles            1-1  KFC Rode-Verrewinkel                              
                                                                                
-Round  5: 
+Round:  5: 
 [04 okt 98]
 RJ Arlon               1-1  CS Nivelles                                       
 Beauraing              2-2  J. Rochefort FC                                   
@@ -3263,7 +3258,7 @@ Meux                   1-5  LC Walcourt
 KFC Rode-Verrewinkel   0-1  Spy                                               
 Sambreville            2-1  RJ Wavre                                          
                                                                                
-Round  6: 
+Round:  6: 
 [10 okt 98]
 AFC Tubize             1-1  KFC Rode-Verrewinkel                              
 RJ Wavre               3-1  Meux                                              
@@ -3275,7 +3270,7 @@ Athusien               1-2  Sambreville
 LC Walcourt            0-4  Francs Borains                                    
 FC Farciennes          3-5  Beauraing                                         
                                                                                
-Round  7: 
+Round:  7: 
 [24 okt 98]
 Beauraing              1-1  LC Walcourt                                       
 Meux                   0-0  Athusien                                          
@@ -3288,7 +3283,7 @@ KFC Rode-Verrewinkel   2-0  J. Rochefort FC
 [24 maa 99]
 RJ Arlon               1-5  AFC Tubize                                        
                                                                                
-Round  8: 
+Round:  8: 
 [31 okt 98]
 AFC Tubize             2-1  CS Nivelles                                       
 RJ Wavre               1-0  Beauraing                                         
@@ -3301,7 +3296,7 @@ J. Rochefort FC        5-3  RJ Arlon
 [11 nov 98]
 Athusien               1-1  Francs Borains                                    
                                                                                
-Round  9: 
+Round:  9: 
 [07 nov 98]
 RJ Arlon               3-0  FC Farciennes                                     
 Beauraing              1-1  Athusien                                          
@@ -3313,7 +3308,7 @@ CS Nivelles            2-1  J. Rochefort FC
 KFC Rode-Verrewinkel   0-2  LC Walcourt                                       
 Spy                    0-3  AFC Tubize                                        
                                                                                
-Round 10: 
+Round: 10: 
 [14 nov 98]
 RJ Wavre               3-0  KFC Rode-Verrewinkel                              
 [15 nov 98]
@@ -3325,7 +3320,7 @@ AFC Tubize             4-0  Lambusart-Fleurus
 LC Walcourt            1-0  RJ Arlon                                          
 Athusien               0-2  Marchienne                                        
                                                                                
-Round 11: 
+Round: 11: 
 [21 nov 98]
 Beauraing              2-1  Meux                                              
 AFC Tubize             3-3  J. Rochefort FC                                   
@@ -3338,7 +3333,7 @@ Lambusart-Fleurus      0-3  Francs Borains
 [31 maa 99]
 RJ Arlon               2-1  RJ Wavre                                          
                                                                                
-Round 12: 
+Round: 12: 
 [28 nov 98]
 Meux                   2-0  Marchienne                                        
 RJ Wavre               3-0  CS Nivelles                                       
@@ -3351,7 +3346,7 @@ Francs Borains         1-0  Beauraing
 [05 apr 99]
 Athusien               4-1  RJ Arlon                                          
                                                                                
-Round 13: 
+Round: 13: 
 [06 maa 99]
 RJ Arlon               2-0  Sambreville                                       
 CS Nivelles            2-3  Athusien                                          
@@ -3363,7 +3358,7 @@ KFC Rode-Verrewinkel   0-0  Meux
 Spy                    1-1  RJ Wavre                                          
 AFC Tubize             2-0  LC Walcourt                                       
                                                                                
-Round 14: 
+Round: 14: 
 [13 dec 98]
 Athusien               1-0  Spy                                               
 Beauraing              1-1  Marchienne                                        
@@ -3374,7 +3369,7 @@ Sambreville            2-2  CS Nivelles
 LC Walcourt            0-1  J. Rochefort FC                                   
 RJ Wavre               1-2  AFC Tubize                                        
                                                                                
-Round 15: 
+Round: 15: 
 [19 dec 98]
 RJ Arlon               1-3  Francs Borains                                    
 AFC Tubize             3-0  Athusien                                          
@@ -3386,7 +3381,7 @@ KFC Rode-Verrewinkel   0-1  Beauraing
 Spy                    1-4  Sambreville                                       
 FC Farciennes          1-0  LC Walcourt                                       
                                                                                
-Round 16: 
+Round: 16: 
 [09 jan 99]
 RJ Arlon               0-2  Beauraing                                         
 AFC Tubize             2-0  Sambreville                                       
@@ -3398,7 +3393,7 @@ Spy                    1-1  Meux
 FC Farciennes          1-1  RJ Wavre                                          
 LC Walcourt            5-3  Lambusart-Fleurus                                 
                                                                                
-Round 17: 
+Round: 17: 
 [16 jan 99]
 Beauraing              2-2  CS Nivelles                                       
 Meux                   1-1  AFC Tubize                                        
@@ -3412,7 +3407,7 @@ Francs Borains         8-0  Spy
 [05 apr 99]
 LC Walcourt            0-4  Beauraing                                         
                                                                                
-Round 18: 
+Round: 18: 
 [23 jan 99]
 RJ Arlon               0-0  KFC Rode-Verrewinkel                              
 AFC Tubize             3-2  Francs Borains                                    
@@ -3424,7 +3419,7 @@ FC Farciennes          1-1  Sambreville
 LC Walcourt            1-0  Athusien                                          
 CS Nivelles            0-3  Marchienne                                        
                                                                                
-Round 19: 
+Round: 19: 
 [30 jan 99]
 Beauraing              2-1  AFC Tubize                                        
 [31 jan 99]
@@ -3437,7 +3432,7 @@ Sambreville            3-2  LC Walcourt
 [14 apr 99]
 Lambusart-Fleurus      2-0  RJ Arlon                                          
                                                                                
-Round 20: 
+Round: 20: 
 [06 feb 99]
 AFC Tubize             2-0  Marchienne                                        
 RJ Wavre               3-1  Sambreville                                       
@@ -3450,7 +3445,7 @@ FC Farciennes          0-5  Francs Borains
 [05 apr 99]
 Spy                    1-5  KFC Rode-Verrewinkel                              
                                                                                
-Round 21: 
+Round: 21: 
 [02 apr 99]
 Francs Borains         4-1  LC Walcourt                                       
 [03 apr 99]
@@ -3462,7 +3457,7 @@ Meux                   3-1  RJ Wavre
 KFC Rode-Verrewinkel   1-1  AFC Tubize                                        
 Sambreville            5-0  Athusien                                          
                                                                                
-Round 22: 
+Round: 22: 
 [20 feb 99]
 AFC Tubize             2-1  RJ Arlon                                          
 RJ Wavre               0-1  Francs Borains                                    
@@ -3473,7 +3468,7 @@ Spy                    1-1  CS Nivelles
 Athusien               2-2  Meux                                              
 FC Farciennes          3-2  Marchienne                                        
                                                                                
-Round 23: 
+Round: 23: 
 [27 feb 99]
 RJ Arlon               1-0  J. Rochefort FC                                   
 Beauraing              3-2  RJ Wavre                                          
@@ -3485,7 +3480,7 @@ Francs Borains         5-1  Athusien
 CS Nivelles            1-1  AFC Tubize                                        
 KFC Rode-Verrewinkel   2-0  FC Farciennes                                     
                                                                                
-Round 24: 
+Round: 24: 
 [13 maa 99]
 Meux                   0-0  Lambusart-Fleurus                                 
 AFC Tubize             6-0  Spy                                               
@@ -3497,7 +3492,7 @@ FC Farciennes          1-2  RJ Arlon
 LC Walcourt            0-2  KFC Rode-Verrewinkel                              
 Athusien               2-2  Beauraing                                         
                                                                                
-Round 25: 
+Round: 25: 
 [20 maa 99]
 RJ Arlon               1-1  LC Walcourt                                       
 Beauraing              1-4  Sambreville                                       
@@ -3509,7 +3504,7 @@ CS Nivelles            1-1  FC Farciennes
 KFC Rode-Verrewinkel   4-0  RJ Wavre                                          
 Spy                    1-3  J. Rochefort FC                                   
                                                                                
-Round 26: 
+Round: 26: 
 [28 maa 99]
 Athusien               2-2  KFC Rode-Verrewinkel                              
 FC Farciennes          8-0  Spy                                               
@@ -3520,7 +3515,7 @@ Sambreville            6-0  Marchienne
 LC Walcourt            3-2  CS Nivelles                                       
 RJ Wavre               3-1  RJ Arlon                                          
                                                                                
-Round 27: 
+Round: 27: 
 [10 apr 99]
 RJ Arlon               0-0  Athusien                                          
 Beauraing              2-2  Francs Borains                                    
@@ -3532,7 +3527,7 @@ KFC Rode-Verrewinkel   6-0  Sambreville
 Spy                    0-2  LC Walcourt                                       
 Lambusart-Fleurus      4-1  J. Rochefort FC                                   
                                                                                
-Round 28: 
+Round: 28: 
 [17 apr 99]
 Beauraing              0-1  Lambusart-Fleurus                                 
 Meux                   1-4  KFC Rode-Verrewinkel                              
@@ -3544,7 +3539,7 @@ Sambreville            2-0  RJ Arlon
 FC Farciennes          1-1  J. Rochefort FC                                   
 Francs Borains         1-0  Marchienne                                        
                                                                                
-Round 29: 
+Round: 29: 
 [25 apr 99]
 RJ Arlon               1-2  Meux                                              
 FC Farciennes          1-0  Lambusart-Fleurus                                 
@@ -3555,7 +3550,7 @@ KFC Rode-Verrewinkel   4-0  Francs Borains
 Spy                    0-4  Athusien                                          
 AFC Tubize             1-0  RJ Wavre                                          
                                                                                
-Round 30: 
+Round: 30: 
 [02 mei 99]
 Athusien               0-3  AFC Tubize                                        
 Beauraing              1-0  KFC Rode-Verrewinkel                              
