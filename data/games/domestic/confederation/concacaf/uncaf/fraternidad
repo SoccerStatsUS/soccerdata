@@ -37,8 +37,6 @@ Season: 1970-1971
 
 
 Season: 1971-1972
-
-
 Group: 1
      
 ;Comunicaciones     ;0-0; Atletico Marte
@@ -71,7 +69,6 @@ Group: 1
 ;Saprissa           ;2-1; Comunicaciones
 ;Juventud Olímpica  ;0-0; Saprissa
 ;Herediano          ;2-2; Cementos Novella
-
 
 Group: 2
         
@@ -162,9 +159,8 @@ Round: Final
 ;Saprissa           ;3-1; Aguila
 ;Saprissa           ;2-1; Aguila
 
+
 Season: 1974
-
-
 
 ;Municipal          ;2-0; Alianza
 ;Saprissa           ;3-1; Aurora
@@ -181,7 +177,6 @@ Season: 1974
 ;Aurora             ;2-0; Cartagines
 ;Aguila             ;2-0; Alianza
 ;Municipal          ;2-1; Aurora
-
 ;Aurora             ;0-1; Saprissa
 ;Alianza            ;0-0; Municipal
 ;Cartagines         ;0-2; Aguila
@@ -201,7 +196,6 @@ Season: 1974
 
 Season: 1975
 
-
 ;Municipal          ;0-0; Platense
 ;Saprissa           ;1-2; Aurora
 ;NEIM               ;1-1; Herediano
@@ -217,7 +211,6 @@ Season: 1975
 ;Municipal          ;1-1; Saprissa
 ;Herediano          ;1-2; Aurora
 ;Platense           ;1-0; NEIM
-
 ;Aurora             ;5-3; Saprissa
 ;Platense           ;3-0; Municipal
 ;Herediano          ;1-0; NEIM
@@ -236,7 +229,6 @@ Season: 1975
 
 
 Season: 1976
-
 
 ;Aurora             ;2-2; Alianza
 ;Aguila             ;1-1; Cartagines
@@ -259,7 +251,6 @@ Season: 1976
 ;Cartagines         ;1-2; Comunicaciones
 ;Alianza            ;2-2; Aguila
 ;Platense           ;0-0; Cartagines
-
 ;Alianza            ;0-0; Aurora
 ;Cartagines         ;0-0; Aguila
 ;Comunicaciones     ;0-0; Saprissa
@@ -282,8 +273,8 @@ Season: 1976
 ;Aurora             ;3-0; Platense
 ;Aguila             ;0-2; Comunicaciones
 
-Season: 1977
 
+Season: 1977
 
 ;Municipal          ;1-0; Aurora
 ;Saprissa           ;1-1; Comunicaciones
@@ -330,10 +321,7 @@ Season: 1977
 ;Aguila             ;2-1; Municipal
 
 
-*VIII Copa Fraternidad 1978
-
 Season: 1978
-
 Round: First Round 
 
 ;Aurora             ;1-1; Saprissa           
@@ -369,8 +357,8 @@ Round: Triangular Final
 ;Saprissa           ;1-0; Cartagines         
 ;Comunicaciones     ;2-1; Saprissa           
 
-Season: 1979
 
+Season: 1979
 Group: 1
 
 ;Aurora             ;1-0; Municipal
@@ -406,8 +394,11 @@ Group: 1
 ;Santiagueño        ;4-2; Motagua 
 
 Round: Playoff
+
+; Aurora; 1-1; Municipal
+Forfeit
+Notes: abandoned at 1-1 during second half of extra time; awarded 2-0
 * Aurora             awd Municipal          
-* [abandoned at 1-1 during second half of extra time; awarded 2-0]
 
 
 Group: 2
@@ -450,8 +441,7 @@ Round: Final
 
 
 Season: 1980
-
-Round: First Round 
+Round: 1
 
 ;Marathon           ;1-2; Deportivo FAS
 ;Deportivo FAS      ;8-0; Marathon
@@ -472,7 +462,7 @@ Round: First Round
 ;Comunicaciones     ;1-0; Victoria
 ;Victoria           ;1-3; Comunicaciones
 
-Round: Second Round 
+Round: 2
    
 ;Comunicaciones     ;2-1; Deportivo FAS
 ;Deportivo FAS      ;3-0; Comunicaciones
@@ -489,10 +479,9 @@ Round: Triangular Final
 ;CD Broncos            ;1-0; Alianza
 * other results not known; winners: CD Broncos
 
+
 Season: 1981
-
-
-Round: First Round
+Round: 1
 
 ;Juventud Retalteca          ;1-0; Vida
 ;Vida               ;3-1; Juventud Retalteca
@@ -512,7 +501,7 @@ Round: First Round
 ;Marathon           ;2-1; Aguila
 ;Aguila             ;0-5; Marathon
 
-Round: Second Round
+Round: 2
 
 ;Real CD Espana        ;1-0; Suchitepequez
 ;Suchitepequez      ;1-2; Real CD Espana
@@ -530,9 +519,7 @@ Round: Triangular Final
 * Olimpia reportedly winners
 
 Season: 1982
-
-
-Round: First Round 
+Round: 1
 
 ;Deportivo FAS      ;0-0; Atletico Morazan
 ;Atletico Morazan   ;2-3; Deportivo FAS
@@ -546,7 +533,7 @@ Round: First Round
 ;Real CD Espana        ;1-2; Comunicaciones
 ;Comunicaciones     ;0-2; Real CD Espana
 
-Round: Second Round
+Round: 2
 
 ;Real CD Espana        ;3-0; Deportivo FAS
 ;Deportivo FAS      ;1-0; Real CD Espana
@@ -558,8 +545,8 @@ Round: Final
 ;Real CD Espana        ;2-1; Xelaju
 ;Xelaju             ;0-0; Real CD Espana
 
-Season: 1983
 
+Season: 1983
 Group: 1
       
 ;Comunicaciones     ;1-0; Once Lobos
@@ -590,6 +577,7 @@ Round: Triangular Final
            
 
 Round: First Place Playoff    
+
 ;Comunicaciones     ;3-2 (aet) ; Aurora
 
 Season: 1984

@@ -104,6 +104,19 @@ def process_guatemala_awards():
     from soccerdata.data.lists.awards.guatemala import d
     return process_awards(d)
 
+def process_panama_awards():
+    from soccerdata.data.lists.awards.panama import d
+    return process_awards(d)
+
+def process_elsalvador_awards():
+    from soccerdata.data.lists.awards.elsalvador import d
+    return process_awards(d)
+
+def process_nicaragua_awards():
+    from soccerdata.data.lists.awards.nicaragua import d
+    return process_awards(d)
+
+
 def process_honduras_awards():
     from soccerdata.data.lists.awards.honduras import d
     return process_awards(d)
@@ -112,33 +125,49 @@ def process_costa_rica_awards():
     from soccerdata.data.lists.awards.costa_rica import d
     return process_awards(d)
 
-
-def process_uruguay_awards():
-    from soccerdata.data.lists.awards.uruguay import d
-    return process_awards(d)
-
-def process_chile_awards():
-    from soccerdata.data.lists.awards.chile import d
-    return process_awards(d)
-
-def process_england_awards():
-    from soccerdata.data.lists.awards.england import d
-    return process_awards(d)
+# Conmebol
 
 
+def process_conmebol_league_awards():
+    from soccerdata.data.lists.awards import conmebol_league
+    
+    return process_awards(conmebol_league.uruguay) + \
+        process_awards(conmebol_league.chile) + \
+        process_awards(conmebol_league.peru) + \
+        process_awards(conmebol_league.paraguay) + \
+        process_awards(conmebol_league.colombia) + \
+        process_awards(conmebol_league.ecuador) + \
+        process_awards(conmebol_league.bolivia) 
 
-def process_argentina_awards():
-    from soccerdata.data.lists.awards.argentina import d
-    return process_awards(d)
 
 def process_brazil_awards():
     from soccerdata.data.lists.awards.brazil import brasileirao, mineiro, carioca, paulista, gaucho, baiano
     return process_awards(brasileirao) + process_awards(mineiro) + process_awards(carioca) + process_awards(paulista) + process_awards(gaucho) + process_awards(baiano)
 
+def process_argentina_awards():
+    from soccerdata.data.lists.awards.argentina import d
+    return process_awards(d)
+
+
+# Uefa
+
+
+def process_uefa_awards():
+    from soccerdata.data.lists.awards import uefa as u
+    l = ['portugal', 'spain', 'turkey', 'sweden', 'netherlands', 'france', 'germany', 'belgium', 'poland', 'norway', 'russia']
+    a = []
+    for name in l:
+        a.extend(process_awards(getattr(u, name)))
+    return a
+        
+def process_england_awards():
+    from soccerdata.data.lists.awards.england import d
+    return process_awards(d)
+
 
 def process_uncaf_international_awards():
-    from soccerdata.data.lists.awards.uncaf import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards import uncaf
+    return process_awards(uncaf.copa_centroamericana) + process_awards(uncaf.interclubes)
 
 
 def process_uncaf_awards():

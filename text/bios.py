@@ -40,7 +40,7 @@ def process_name(s):
     return name.strip()
 
 
-def load_all_bios():
+def load_other_bios():
     """
     Load all bio files.
     This is just MLS/USL bios compiled by me a long time ago.
@@ -127,13 +127,14 @@ def process_usl1_bios():
 def process_usl2_bios():
     return semicolon_bios('usl2', 'Wikipedia')
 
+def process_pdl_bios():
+    return semicolon_bios('pdl', 'Wikipedia')
+
 def process_mls_bios():
     return semicolon_bios('mls', 'Wikipedia')
 
-
 def process_world_cup_bios():
     return semicolon_bios('wc', 'Wikipedia')
-
 
 def process_mls_reserve_bios():
     return semicolon_bios('mls_reserve', 'Wikipedia')
@@ -141,14 +142,12 @@ def process_mls_reserve_bios():
 def process_usa_bios():
     return semicolon_bios('usa', 'Wikipedia')
 
-
-
 def process_nasl_bios():
     return semicolon_bios('nasl', 'http://nasljerseys.com')
 
-
 def process_asl_bios2():
     return semicolon_bios('asl', 'Wikipedia')
+
 
 
 def semicolon_bios(fn, source):
