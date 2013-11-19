@@ -27,7 +27,7 @@ Competition: La Liga
 Round: 1
 Date: 8/27/2005
 
-; Alavés     ; 0-0; Barcelo
+; Alavés     ; 0-0; Barcelona
 
 ; Valencia   ; 1-0; Betis 
   Aimar 52;
@@ -213,7 +213,7 @@ Date: 10/2/2005
   Jarque (og) 94; Fredson 15
 
 ; Cádiz      ; 1-1; Celta
-  Fleurquin 15, Fernando Baiano 25
+  Fleurquin 15; Fernando Baiano 25
 
 ; Deportivo  ; 0-1; Osasuna
 ;  Muñoz 19
@@ -473,7 +473,7 @@ Date: 11/27/2005
   Eto’o 30, Messi 51, Ronaldinho (pk) 56, Sylvinho 66; Casquero (pk) 71
 
 Round: 14
-Date; 12/3/2005
+Date: 12/3/2005
 
 ; Celta      ; 2-1; Betis
   Canobbio 5, Fernando Baiano 20; Edú 90
@@ -484,7 +484,7 @@ Date; 12/3/2005
 ; Athletic   ; 1-1; Atlético
   Orbaiz 96; Kezman 12
 
-Date; 12/4/2005
+Date: 12/4/2005
 
 ; Cádiz      ; 1-2; Zaragoza
   Enrique 17; Cani 68, Ewerthon 70
@@ -508,7 +508,7 @@ Date; 12/4/2005
 ;  Tristán (pk) 25, Víctor 41
 
 Round: 15
-Date; 12/10/2005
+Date: 12/10/2005
 
 ; Valencia   ; 1-1; Athletic
   Vicente 75; Etxeberría 57
@@ -516,7 +516,7 @@ Date; 12/10/2005
 ; Sociedad   ; 1-3; Villarreal
   Nihat 5; Guayre 36, Guayre 54, Riquelme 72
 
-Date; 12/11/2005
+Date: 12/11/2005
 
 ; Betis      ; 0-0; Espanyol
 
@@ -542,7 +542,7 @@ Date; 12/11/2005
   Eto'o 66, Ronaldinho 77; Kanouté 63
 
 Round: 16
-Date; 12/17/2005
+Date: 12/17/2005
 
 ; Celta      ; 0-3; Deportivo
 ;  Tristán (pk) 27, Valerón 43, Capdevilla 48
@@ -553,7 +553,7 @@ Date; 12/17/2005
 ; Cádiz      ; 1-3; Barcelona
   Mirosavljevic 92; Giuly 32, Eto'o (pk) 45, Eto'o 49
 
-Date; 12/18/2005
+Date: 12/18/2005
 
 ; Villarreal ; 2-1; Getafe
   Riquelme 45, Forlán 58; Riki 20
@@ -577,12 +577,12 @@ Date; 12/18/2005
   Soldado 84; Milosevic 76
 
 Round: 17
-Date; 12/20/2005
+Date: 12/20/2005
 
 ; Barcelona  ; 2-0; Celta 
   Eto'o 38, Eto'o 57;
 
-Date; 12/21/2005
+Date: 12/21/2005
 
 ; Madrid     ; 1-2; Racing 
   Ronaldo 67; Ayoze 21, Melo 27
@@ -607,7 +607,7 @@ Date; 12/21/2005
 ; Valencia   ; 3-0; Mallorca 
   Albelda 46, Villa 65, Fabio Aurelio 80;
 
-Date; 12/22/2005
+Date: 12/22/2005
 
 ; Osasuna    ; 2-1; Atlético 
   Raúl García 29, Romeo 34; Petrov 26
@@ -692,7 +692,7 @@ Date: 1/21/2006
 Date: 1/22/2006
 
 ; Villarreal ; 2-1; Osasuna
-  Riquelme (pk) 70, (pk) 77; Raúl García 27
+  Riquelme (pk) 70, Riquelme (pk) 77; Raúl García 27
 
 ; Betis      ; 0-2; Valencia
 ;  Villa 35, Villa 78
@@ -1146,7 +1146,7 @@ Date: 4/15/2006
 
 Date: 4/16/2006
 
-Atlético    1-0 Athletic
+; Atlético   ; 1-0; Athletic
   Fernando Torres 82;
 
 ; Betis      ; 0-2; Celta

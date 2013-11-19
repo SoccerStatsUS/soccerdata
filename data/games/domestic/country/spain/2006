@@ -156,7 +156,7 @@ Date: 9/24/2006
   Kapo 17, Kapo 75;
 
 ; Sociedad  ; 2-3; Recreativo
-;   Uranga 64, Novo (pk) 76; Calle 38, Calle 49, Sinama-Pongolle 93
+Uranga 64, Novo (pk) 76; Calle 38, Calle 49, Sinama-Pongolle 93
 
 ; Getafe    ; 0-0; Athletic 
 
@@ -430,7 +430,7 @@ Date: 11/26/2006
   Soldado 4, Soldado 60, Valdo 22, Milosevic 91; Juan Rodríguez 29
 
 ; Racing    ; 4-3; Recreativo 
-  Zigic 14, 64, Garay (pk) 34, Colsa 42; Oriol (og) 29, Uche 60, Jesús Vázquez 90
+  Zigic 14, Zigic 64, Garay (pk) 34, Colsa 42; Oriol (og) 29, Uche 60, Jesús Vázquez 90
 
 ; Valencia  ; 0-1; Madrid 
 ;  Raúl 51
@@ -888,7 +888,7 @@ Date: 3/10/2007
 ;  Forlán 9, Tomasson 72
 
 ; Barcelona ; 3-3; Madrid
-  Messi 11, Messi 28, Messi 90; Van Nistelrooy 5, (pk) 13, Sergio Ramos 73
+  Messi 11, Messi 28, Messi 90; Van Nistelrooy 5, Van Nistelrooy (pk) 13, Sergio Ramos 73
 
 Date: 3/11/2007
 
@@ -980,7 +980,7 @@ Date: 4/1/2007
 ; Gimnàstic ; 1-1; Recreativo
   Portillo 14; Sinama-Pongolle 11
 
-; Celta     ; 1-2; Real
+; Celta     ; 1-2;  Madrid
   Ángel 44; Van Nistelrooy (pk) 27, Robinho 83
 
 ; Osasuna   ; 0-0; Sevilla
@@ -1069,7 +1069,7 @@ Date: 4/22/2007
 ; Mallorca  ; 1-0; Gimnàstic
   Víctor 21;
 
-; Zaragoza  ; 2-0; celta
+; Zaragoza  ; 2-0; Celta
   Ewerthon 72, Ewerthon 75;
 
 ; Levante   ; 1-1; Getafe
@@ -1301,7 +1301,7 @@ Date: 6/17/2007
   Jose Serrano (og) 60, Gabilondo 77;
 
 ; Racing    ; 0-2; Betis
-  Edú 80, 90
+;  Edú 80, Edu 90
 ;
 ; Espanyol  ; 1-3; Deportivo
   Tamudo (pk) 47; Iago 60, Sergio 62, Riki 84

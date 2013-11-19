@@ -636,6 +636,24 @@ l = [
         },
 
     {
+        'name': 'Rayo Vallecano',
+        'founded': 1924,
+        'city': 'Madrid, Spain',
+        },
+
+    {
+        'name': 'SD Compostela',
+        'founded': 1962,
+        'city': 'Santiago de Compostela, Spain',
+        },
+
+    {
+        'name': 'Celta Vigo',
+        'founded': datetime.datetime(1923, 8, 23),
+        'city': 'Vigo, Spain',
+        },
+
+    {
         'name': 'Mallorca',
         'founded': 1916,
         'city': 'Palma, Spain',
@@ -1819,6 +1837,12 @@ l = [
         },
 
     {
+        'name': 'SpVgg Unterhaching',
+        'founded': datetime.datetime(1925, 1, 1),
+        'city': 'Unterhaching, Germany',
+        },
+
+    {
         'name': 'MSV Duisburg',
         'founded': 1902,
         'city': 'Duisburg, Germany',
@@ -2275,6 +2299,21 @@ l = [
         'city': 'Madrid, Spain',
         },
 
+    {
+        'name': 'CF Extremadura',
+        'founded': 1924,
+        'dissolved': 2010,
+        'city': 'Almendralejo, Spain',
+        },
+
+
+
+    {
+        'name': 'Cádiz',
+        'founded': 1910,
+        'city': 'Cádiz, Spain',
+        },
+
 
     {
         'name': 'Tenerife',
@@ -2431,6 +2470,13 @@ l = [
         'founded': datetime.datetime(1905, 10, 14),
         'city': 'Seville, Spain',
         },
+
+    {
+        'name': 'UD Salamanca',
+        'founded': 1923,
+        'dissolved': 2013,
+        'city': 'Salamanca, Spain',
+        },
     {
         'name': 'Athlone Town',
         'founded': 1887,
@@ -2440,6 +2486,12 @@ l = [
         'name': 'VfB Oldenburg',
         'founded': 1897,
         'city': 'Oldenburg, Germany',
+        },
+
+    {
+        'name': 'SSV Ulm 1846',
+        'founded': 1846,
+        'city': 'Ulm, Germany',
         },
     {
         'name': 'Malmo FF',
@@ -2569,6 +2621,14 @@ l = [
         'founded': 1930,
         'city': 'Girona, Spain',
         },
+
+    {
+        'name': 'Deportivo Alavés',
+        'founded': 1921,
+        'city': 'Vitoria-Gasteiz, Spain',
+        },
+
+
 
     {
         'name': 'Sporting de Gijon',
@@ -2975,6 +3035,12 @@ l = [
         'name': 'Levante',
         'founded': 1909,
         'city': 'Valencia, Spain',
+        },
+
+    {
+        'name': 'Albacete',
+        'founded': 1984,
+        'city': 'Albacete, Spain',
         },
 
     {

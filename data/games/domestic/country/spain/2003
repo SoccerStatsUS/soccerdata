@@ -35,20 +35,20 @@ Date: 8/30/2003
   Beckham 2, Ronaldo 61; Juanito 34
 
 ; Athletic    ; 0-1; Barcelona
-  Cocu 12
+;  Cocu 12
 
 ; Espanyol    ; 1-1; Sociedad
   López Rekarte (og) 22; Kovacevic 67
 
 ; Albacete    ; 0-2; Osasuna
-  Valdo 41, Puñal (pk) 90
+;  Valdo 41, Puñal (pk) 90
 
 ; Málaga      ; 0-0; Villarreal
 
 ; Valencia    ; 1-1; Valladolid
   Aimar 72; Sousa 24
 
-[Aug 31]
+Date: 8/31/2003
 ; Racing      ; 2-1; Mallorca
   Benayoun 11, Javi Guerrero 69; Eto'o (pk) 91
 
@@ -56,21 +56,19 @@ Date: 8/30/2003
   Milosevic 31; Luis García (pk) 74
 
 ; Zaragoza    ; 0-1; Deportivo
-  Pandiani 67
+;  Pandiani 67
 
 ; Sevilla     ; 1-0; Atlético
-  Baptista 25
-
+  Baptista 25;
 
 Round: 2 
-
 Date: 9/2/2003
 
 ; Sociedad    ; 1-1; Celta
   Kovacevic 37; Milosevic 63
 
 ; Osasuna     ; 0-1; Valencia
-  Baraja 49
+;  Baraja 49
 
 ; Villarreal  ; 1-1; Madrid
   Anderson 70; Núñez 85
@@ -78,82 +76,76 @@ Date: 9/2/2003
 
 Date: 9/3/2003
 
-; Barcelona   ; 1-1; Sevilla         [start at 5 past midnight]
+; Barcelona   ; 1-1; Sevilla         
   Ronaldinho 58; Reyes (pk) 9
+*[start at 5 past midnight]
 
 ; Atlético    ; 1-0; Albacete
-  Jorge 50
+  Jorge 50;
 
 ; Betis       ; 2-2; Espanyol
   Joaquín 30, Palermo 38; Raúl Molina 68, Lopo 93
 
 ; Deportivo   ; 2-0; Athletic
-  Valerón 12, Pandiani 57
+  Valerón 12, Pandiani 57;
 
 ; Valladolid  ; 1-0; Málaga
-  Jesús (pk) 42
+  Jesús (pk) 42;
 
 ; Mallorca    ; 2-0; Zaragoza
-  Bruggink 43, Eto'o (pk) 52
+  Bruggink 43, Eto'o (pk) 52;
 
 ; Murcia      ; 1-1; Racing
   Richi 8; Javi Guerrero 44
 
-
 Round: 3
-
 Date: 9/13/2003
 
 ; Madrid      ; 7-2; Valladolid
-  Julio César (og) 20, Raúl 31, 34, 75, Zidane 53, Figo (pk) 59, Ronaldo 69;
-   Losada (pk) 56, Chema 60
+  Julio César (og) 20, Raúl 31, Raul 34, Raul 75, Zidane 53, Figo (pk) 59, Ronaldo 69; Losada (pk) 56, Chema 60
 
 ; Celta       ; 0-2; Betis
-  Marcos Assunção 37, Fernando (pk) 86
+;  Marcos Assunção 37, Fernando (pk) 86
 
 ; Racing      ; 0-1; Sociedad
-  De Paula 31
+;  De Paula 31
 
 ; Sevilla     ; 1-2; Deportivo
   Dario Silva 51; Pandiani 39, Tristán 72
 
-
 Date: 9/14/2003
 
 ; Osasuna     ; 1-0; Atlético
-  Pablo García 36
+  Pablo García 36;
 
 ; Espanyol    ; 1-2; Villarreal
   Maxi 13; Víctor 24, Riquelme (pk) 90
 
 ; Valencia    ; 1-0; Málaga
-  Marchena 44
+  Marchena 44;
 
 ; Zaragoza    ; 3-0; Murcia
-  Sávio 2, Villa (pk) 7, Galletti 31
+  Sávio 2, Villa (pk) 7, Galletti 31;
 
 ; Athletic    ; 4-0; Mallorca
-  Urzaiz 37, 43, Etxeberria 75, (pk) 88
+  Urzaiz 37, Urzaiz 43, Etxeberria 75, Etxeberria (pk) 88;
 
 ; Albacete    ; 1-2; Barcelona
   Pablo 90; Cocu 2, Luis Enrique 66
 
-
 Round: 4
-
 Date: 9/20/2003
 
 ; Barcelona   ; 1-1; Osasuna
   Ronaldinho 70; Cruchaga 54
 
 ; Atlético    ; 0-3; Valencia
-  Vicente 68, Mista 76, 92
-
+;  Vicente 68, Mista 76, Mista 92
 
 Date: 9/21/2003
 
 ; Deportivo   ; 3-0; Albacete
-  Naybet 49, Luque 51, Pandiani 91
+  Naybet 49, Luque 51, Pandiani 91;
 
 ; Mallorca    ; 1-1; Sevilla
   Bruggink 39; Dario Silva 17
@@ -165,7 +157,7 @@ Date: 9/21/2003
   Zapata 3, Jesús 9, Ciric (pk) 81; Bobson 34
 
 ; Sociedad    ; 3-0; Zaragoza
-  Nihat 56, De Paula 82, 88
+  Nihat 56, De Paula 82, De Paula 88;
 
 ; Betis       ; 0-0; Racing
 
@@ -175,45 +167,41 @@ Date: 9/21/2003
 ; Málaga      ; 1-3; Madrid
   Edgar 77; Ronaldo 13, Beckham 72, Guti 86
 
-
 Round: 5
-
 Date: 9/27/2003
 
 ; Celta       ; 3-2; Valladolid
-  Jesuli 56, Milosevic 72, Mostovoi 82; Makukula 3, 49
+  Jesuli 56, Milosevic 72, Mostovoi 82; Makukula 3, Makukula 49
 
 ; Osasuna     ; 3-2; Deportivo
-  (Puñal (pk) 21, Iván Rosado 23, Héctor (og) 25; Luque 28, Pandiani 94
+  Puñal (pk) 21, Iván Rosado 23, Héctor (og) 25; Luque 28, Pandiani 94
 
 ; Athletic    ; 1-0; Sociedad
-  Tiko 81
+  Tiko 81;
 
 ; Valencia    ; 2-0; Madrid
-  Mista 4, Oliveira 71
-
+  Mista 4, Oliveira 71;
 
 Date: 9/28/2003
 
 ; Albacete    ; 2-0; Mallorca
-  Parri 16, Mikel 79
+  Parri 16, Mikel 79;
 
 ; Espanyol    ; 1-2; Málaga
   Tamudo 57; Romero 36, Salva 85
 
 ; Racing      ; 0-2; Villarreal
-  Anderson 68, Riquelme 88
+;  Anderson 68, Riquelme 88
 
 ; Zaragoza    ; 0-1; Betis
-  Marcos Assunção 81
+;  Marcos Assunção 81
 
 ; Sevilla     ; 1-0; Murcia
-  Antoñito 93
+  Antoñito 93;
 
 ; Atlético    ; 0-0; Barcelona
 
 Round: 6
-
 Date: 10/4/2003
 
 ; Deportivo   ; 5-1; Atlético
@@ -225,109 +213,100 @@ Date: 10/4/2003
 ; Betis       ; 1-1; Athletic
   Marcos Assunção 88; Tiko 46
 
-
 Date: 10/5/2003
 
 ; Sociedad    ; 1-1; Sevilla
   Kovacevic 3; Dario Silva 13
 
 ; Valladolid  ; 0-4; Racing
-  Bodipo 14, 83, Regueiro 57, Nafti 84
+;  Bodipo 14, Bodipo 83, Regueiro 57, Nafti 84
 
 ; Mallorca    ; 1-1; Osasuna
   Nadal 83; Webo 84
 
 ; Murcia      ; 1-0; Albacete
-  Michel 5
+  Michel 5;
 
 ; Málaga      ; 2-1; Celta
   Fernando Sanz 14, Miguel Angel 79; Milosevic 70
 
 ; Madrid      ; 2-1; Espanyol
-  Ronaldo 52, 82; Alex Fernández 93
+  Ronaldo 52, Ronaldo 82; Alex Fernández 93
 
 ; Barcelona   ; 0-1; Valencia
-  Oliveira 14
-
+;  Oliveira 14
 
 Round: 7 
-
 Date: 10/18/2003
 
 ; Celta       ; 0-2; Madrid 
-  Ronaldo 24, Roberto Carlos 65
+;  Ronaldo 24, Roberto Carlos 65
 
 ; Barcelona   ; 0-2; Deportivo 
-  Luque 40, Sergio 70
+;  Luque 40, Sergio 70
 
 ; Albacete    ; 3-1; Sociedad 
   Delporte 66, David Sánchez 75, Aranda 80; Nihat 71
 
-
 Date: 10/19/2003
 
 ; Athletic    ; 2-0; Villarreal 
-  Urzaiz 51, Etxeberria 81
+  Urzaiz 51, Etxeberria 81;
 
 ; Zaragoza    ; 1-0; Valladolid
-  Sávio 15
+  Sávio 15;
 
 ; Racing      ; 4-2; Málaga 
   Morán 55, Benayoun 58, Jonatan 68, Bodipo 81; Salva 19, Leko 89
 
 ; Valencia    ; 4-0; Espanyol 
-  Mista 7, 45, Baraja 44, Vicente 78
+  Mista 7, Mista 45, Baraja 44, Vicente 78;
 
 ; Atlético    ; 2-1; Mallorca 
   Fernando Torres 27, Jorge 92; Eto'o 38
 
 ; Osasuna     ; 2-1; Murcia 
-  Bakayoko 11, 84; Luis García 18
+  Bakayoko 11, Bakayoko 84; Luis García 18
 
 ; Sevilla     ; 2-2; Betis 
   Reyes 50, Antoñito 80; Denilson 52, Tote 60
 
-
 Round: 8
-
 Date: 10/25/2003
 
 ; Málaga      ; 2-1; Zaragoza
   Litos 28, Salva (pk) 45; Villa 88
 
 ; Madrid      ; 3-1; Racing
-  Zidane 27, Raúl 79, 91; Benayoun 16
+  Zidane 27, Raúl 79, Raul 91; Benayoun 16
 
 ; Deportivo   ; 2-1; Valencia
   Valerón 15, Tristán 80; Mista 73
 
-
 Date: 10/26/2003
 
 ; Valladolid  ; 2-0; Athletic
-  Chema 16, Makukula 53
+  Chema 16, Makukula 53;
 
 ; Espanyol    ; 0-4; Celta
-  Luccin (pk) 16, Milosevic 59, Mostovoi 77, Jandro 89
+;  Luccin (pk) 16, Milosevic 59, Mostovoi 77, Jandro 89
 
 ; Sociedad    ; 1-0; Osasuna
-  Kovacevic 75
+  Kovacevic 75;
 
 ; Betis       ; 3-2; Albacete
   Tote 43, Fernando (pk) 45, Capi 50; Mikel 12, Parri 66
 
 ; Villarreal  ; 3-3; Sevilla
-  Anderson 10, 68, Arruabarrena 94; Casquero 3, Reyes (pk) 23, Carlos 84
+  Anderson 10, Anderson 68, Arruabarrena 94; Casquero 3, Reyes (pk) 23, Carlos 84
 
 ; Mallorca    ; 1-3; Barcelona
   Correa 87; Saviola 9, Ronaldinho 23, Cocu 50
 
 ; Murcia      ; 1-3; Atlético
-  Karanka 71; Fernando Torres (pk) 13, 82, Nikolaidis 38
-
+  Karanka 71; Fernando Torres (pk) 13, Fernando Torres 82, Nikolaidis 38
 
 Round: 9
-
 Date: 10/28/2003
 
 ; Zaragoza    ; 0-0; Madrid
@@ -335,13 +314,13 @@ Date: 10/28/2003
 Date: 10/29/2003
 
 ; Barcelona   ; 3-0; Murcia
-  Saviola 39, Xavi 57, Ronaldinho 66
+  Saviola 39, Xavi 57, Ronaldinho 66;
 
 ; Osasuna     ; 2-0; Betis
-  Moha 51, Muñoz 82
+  Moha 51, Muñoz 82;
 
 ; Racing      ; 0-1; Espanyol
-  Oscar 84
+;  Oscar 84
 
 ; Sevilla     ; 1-1; Valladolid
   Dario Silva 16; Makukula 51
@@ -350,89 +329,81 @@ Date: 10/29/2003
   Aimar 41, Canobbio 67; Berizzo 56, Jesuli 65
 
 ; Albacete    ; 2-0; Villarreal
-  Parri 68, Basti 72
+  Parri 68, Basti 72;
 
 ; Deportivo   ; 0-2; Mallorca
-  Eto'o (pk) 75, Bruggink 88
+;  Eto'o (pk) 75, Bruggink 88
 
 ; Athletic    ; 2-1; Málaga
   Urzaiz 62, Tiko 73; Diego Alonso 3
 
-
 Date: 10/30/2003
 
 ; Atlético    ; 4-0; Sociedad
-  Nikolaidis 19, Fernando Torres (pk) 56, 64, Simeone 80
-
+  Nikolaidis 19, Fernando Torres (pk) 56, Fernando Torres 64, Simeone 80;
 
 Round: 10
-
 Date: 11/1/2003
 
 ; Murcia      ; 0-0; Deportivo
 
 ; Celta       ; 0-1; Racing
-  Benayoun 2
+;  Benayoun 2
 
 ; Madrid      ; 3-0; Athletic
-  Ronaldo 34, 55, Figo 69
-
+  Ronaldo 34, Ronaldo 55, Figo 69;
 
 Date: 11/2/2003
 
 ; Betis       ; 1-2; Atlético
-  Marcos Assunção 20; Fernando Torres 40, (pk) 50
+  Marcos Assunção 20; Fernando Torres 40, Fernando Torres (pk) 50
 
 ; Málaga      ; 2-0; Sevilla
-  Duda 1, Salva (pk) 22
+  Duda 1, Salva (pk) 22;
 
 ; Villarreal  ; 1-0; Osasuna
-  Guayre 23
+  Guayre 23;
 
 ; Espanyol    ; 0-2; Zaragoza
-  Galletti 11, Alvaro 23
+;  Galletti 11, Alvaro 23
 
 ; Valladolid  ; 2-0; Albacete
-  Makukula 34, Losada (pk) 92
+  Makukula 34, Losada (pk) 92;
 
 ; Sociedad    ; 3-3; Barcelona
-  Jauregui 58, De Pedro (pk) 60, Karpin 75; Motta 33, Overmars 71,
-   Gabri 80
+  Jauregui 58, De Pedro (pk) 60, Karpin 75; Motta 33, Overmars 71, Gabri 80
 
 ; Mallorca    ; 0-5; Valencia
-  Jorge López (pk) 2, Oliveira 7, 45, 71, Xisco 83
-
+;  Jorge López (pk) 2, Oliveira 7, Oliveira 45, Oliveira 71, Xisco 83
 
 Round: 11
-
 Date: 11/8/2003
 
 ; Zaragoza    ; 1-1; Celta
   Ponzio 7; José Ignacio 4
 
 ; Athletic    ; 1-0; Espanyol
-  Iraola 14
+  Iraola 14;
 
 ; Deportivo   ; 2-1; Sociedad
-  Jauregui (og) 72, (og) 88; Nihat 29
-
+  Jauregui (og) 72, Jauregui (og) 88; Nihat 29
 
 Date: 11/9/2003
 
 ; Valencia    ; 1-2; Racing
-  Baraja 24; Bodipo 22, 48
+  Baraja 24; Bodipo 22, Bodipo 48
 
 ; Albacete    ; 0-1; Málaga
-  Salva 62
+;  Salva 62
 
 ; Osasuna     ; 1-1; Valladolid
   Valdo 45; Fernando Sales 29
 
 ; Atlético    ; 1-0; Villarreal
-  Novo 55
+  Novo 55;
 
 ; Mallorca    ; 4-1; Murcia
-  Colsa 8, Correa 39, 45, Eto'o 69; Karanka 30
+  Colsa 8, Correa 39, Correa 45, Eto'o 69; Karanka 30
 
 ; Barcelona   ; 2-1; Betis
   Kluivert 43, Márquez 83; Fernando 53
@@ -440,19 +411,16 @@ Date: 11/9/2003
 ; Sevilla     ; 4-1; Madrid
   Helguera (og) 5, Dario Silva 7, Daniel Alves 15, Casquero 38; Ronaldo 55
 
-
 Round: 12
-
 Date: 11/22/2003
 
 ; Sociedad    ; 0-1; Mallorca
-  Eto'o 17
+;  Eto'o 17
 
 ; Betis       ; 0-0; Deportivo
 
 ; Villarreal  ; 2-1; Barcelona
   José Mari 40, Anderson 92; Kluivert 72
-
 
 Date: 11/23/2003
 
@@ -462,10 +430,10 @@ Date: 11/23/2003
 ; Málaga      ; 0-0; Osasuna
 
 ; Espanyol    ; 1-0; Sevilla
-  Domoraud 90
+  Domoraud 90;
 
 ; Celta       ; 0-2; Athletic
-  Lacruz 58, Iraola 90
+;  Lacruz 58, Iraola 90
 
 ; Racing      ; 1-2; Zaragoza
   Rebosio (og) 39; Alvaro 45, Soriano 85
@@ -474,11 +442,9 @@ Date: 11/23/2003
   Beckham 38, Zidane 81; Parri 39
 
 ; Murcia      ; 2-2; Valencia
-  Richi 37, Michel 47; Mista 11, 54
-
+  Richi 37, Michel 47; Mista 11, Mista 54
 
 Round: 13
-
 Date: 11/29/2003
 
 ; Murcia      ; 2-2; Sociedad
@@ -491,31 +457,28 @@ Date: 11/29/2003
   Jorge López 19, Vicente 26, Aimar 44; Villa 48, Cani 78
 
 ; Atlético    ; 2-0; Málaga
-  De los Santos 6, Nikolaidis 70
-
+  De los Santos 6, Nikolaidis 70;
 
 Date: 11/30/2003
 
 ; Albacete    ; 2-1; Espanyol
-  Aranda (pk) 44, 67; Tamudo 14
+  Aranda (pk) 44, Aranda 67; Tamudo 14
 
 ; Mallorca    ; 2-1; Betis
-  Campano 25, 83; Niño (og) 37
+  Campano 25, Campano 83; Niño (og) 37
 
 ; Athletic    ; 1-2; Racing
   Jonan García 7; Bodipo 42, Regueiro 66
 
 ; Sevilla     ; 0-1; Celta
-  Jesuli 34
+;  Jesuli 34
 
 ; Barcelona   ; 0-0; Valladolid
 
 ; Deportivo   ; 0-1; Villarreal
-  Roger 89
-
+;  Roger 89
 
 Round: 14
-
 Date: 12/2/2003
 
 ; Sociedad    ; 0-0; Valencia
@@ -526,13 +489,13 @@ Date: 12/3/2003
   Oscar 65; Jonathan (og) 50
 
 ; Málaga      ; 5-1; Barcelona
-  Salva 10, 14, 69, Diego Alonso 74, Canabal 85; Fernando Sanz (og) 79
+  Salva 10, Salva 14, Salva 69, Diego Alonso 74, Canabal 85; Fernando Sanz (og) 79
 
 ; Madrid      ; 2-0; Atlético
-  Ronaldo 1, Raúl 20
+  Ronaldo 1, Raúl 20;
 
 ; Espanyol    ; 0-1; Osasuna
-  Webo 87
+;  Webo 87
 
 ; Celta       ; 2-2; Albacete
   José Ignacio 19, Contreras 60; Pacheco 45, Aranda 52
@@ -541,34 +504,30 @@ Date: 12/3/2003
   Ismael 48; Luis García (pk) 93
 
 ; Villarreal  ; 0-2; Mallorca
-  Eto'o 54, Campano 59
-
+;  Eto'o 54, Campano 59
 
 Date: 12/4/2003
 
 ; Racing      ; 0-4; Sevilla
-  Baptista 12, 45, Dario Silva 22, Reyes 46
+;  Baptista 12, Baptista 45, Dario Silva 22, Reyes 46
 
 ; Zaragoza    ; 2-2; Athletic
-  Villa 25, 46; Yeste 12, Tiko 23
-
+  Villa 25, Villa 46; Yeste 12, Tiko 23
 
 Round: 15
-
 Date: 12/6/2003
 
 ; Sociedad    ; 0-4; Betis  
-  Capi 4, Joaquín 15, 58, Juanito 49
+;  Capi 4, Joaquín 15, Joaquin 58, Juanito 49
 
 ; Deportivo   ; 1-0; Málaga 
-  Capdevila 59
+  Capdevila 59;
 
 ; Osasuna     ; 3-2; Celta 
-  Aloisi 28, 49, Bakayoko 74; José Ignacio 37, Catanha 92
+  Aloisi 28, Aloisi 49, Bakayoko 74; José Ignacio 37, Catanha 92
 
 ; Barcelona   ; 1-2; Madrid 
   Kluivert 83; Roberto Carlos 37, Ronaldo 75
-
 
 Date: 12/7/2003
 
@@ -576,34 +535,31 @@ Date: 12/7/2003
   Karanka 12; Xisco 95
 
 ; Mallorca    ; 1-0; Valladolid  
-  Correa 15
+  Correa 15;
 
 ; Albacete    ; 4-0; Racing  
-  Aranda (pk) 40, Pacheco 59, Delporte 72, Juanma (og) 87
+  Aranda (pk) 40, Pacheco 59, Delporte 72, Juanma (og) 87;
 
 ; Sevilla     ; 3-2; Zaragoza  
-  Podestá 33, 47, Antoñito 71; David (og) 22, Villa (pk) 29
+  Podestá 33, Podesta 47, Antoñito 71; David (og) 22, Villa (pk) 29
 
 ; Atlético    ; 2-0; Espanyol  
-  Fernando Torres 21, (pk) 74
+  Fernando Torres 21, Fernando Torres (pk) 74;
 
 ; Valencia    ; 2-1; Athletic 
-  Vicente 17, 65; Ezquerro 51
-
+  Vicente 17, Vicente 65; Ezquerro 51
 
 Round: 16
-
 Date: 12/13/2003
 
 ; Espanyol    ; 1-3; Barcelona
-  Jordi Cruyff 8; Ronaldinho 10, Kluivert 21, 35
+  Jordi Cruyff 8; Ronaldinho 10, Kluivert 21, Kluivert 35
 
 ; Villarreal  ; 2-0; Sociedad
-  Riquelme 12, Anderson 33
+  Riquelme 12, Anderson 33;
 
 ; Celta       ; 2-2; Atlético
   Luccin 37, Milosevic 40; Simeone 17, Lequi 82
-
 
 Date: 12/14/2003
 
@@ -618,10 +574,10 @@ Date: 12/14/2003
 *   Anderson Silva (BRA) and Regueiro (URU)]
 
 ; Zaragoza    ; 0-1; Albacete
-  Mikel 77
+;  Mikel 77
 
 ; Betis       ; 0-1; Valencia
-  Juanito (og) 18
+;  Juanito (og) 18
 
 ; Madrid      ; 2-1; Deportivo
   Ronaldo 45, Raúl 85; Pandiani 64
@@ -629,9 +585,7 @@ Date: 12/14/2003
 ; Athletic    ; 2-1; Sevilla
   Urzaiz 7, Yeste 24; Baptista 1
 
-
 Round: 17
-
 Date: 12/20/2003
 
 ; Sociedad    ; 1-3; Valladolid 
@@ -641,8 +595,7 @@ Date: 12/20/2003
   Paunovic 63, Musampa 70; Matabuena 53, Jonatan (pk) 80
 
 ; Valencia    ; 1-0; Sevilla 
-  Mista 60
-
+  Mista 60;
 
 Date: 12/21/2003
 
@@ -653,10 +606,10 @@ Date: 12/21/2003
   Aranda 13; Ezquerro 40
 
 ; Betis       ; 1-3; Villarreal 
-  Juanito 80; Anderson 74, Guayre 88, 92
+  Juanito 80; Anderson 74, Guayre 88, Guayre 92
 
 ; Osasuna     ; 0-1; Zaragoza 
-  Villa (pk) 35
+;  Villa (pk) 35
 
 ; Murcia      ; 1-2; Málaga 
   Karanka 22; Insúa 16, Canabal 91
@@ -667,18 +620,16 @@ Date: 12/21/2003
 ; Barcelona   ; 1-1; Celta 
   Cocu 70; Jesuli 17
 
-
 Round: 18
-
 Date: 1/3/2004
 
 ; Madrid      ; 1-0; Murcia
-  Raúl 8
+  Raúl 8;
 
 ; Zaragoza    ; 0-0; Atlético
 
 ; Celta       ; 0-5; Deportivo
-  Luque 15, Víctor 42, 71, 79, Tristán 87
+;  Luque 15, Víctor 42, Victor 71, Victor 79, Tristán 87
 
 Date: 1/4/2004
 
@@ -686,42 +637,41 @@ Date: 1/4/2004
   Del Horno 45; Izquierdo 41
 
 ; Sevilla     ; 2-0; Albacete
-  Baptista 40, Antoñito 94
+  Baptista 40, Antoñito 94;
 
 ; Valladolid  ; 0-0; Betis
 
 ; Espanyol    ; 2-0; Mallorca
-  Tamudo 1, 75
+  Tamudo 1, Tamudo 75;
 
 ; Málaga      ; 1-2; Sociedad
   Litos 25; Karpin 37, Nihat 45
 
 ; Racing      ; 3-0; Barcelona
-  Juanma 6, Regueiro 80, Javi Guerrero 84
+  Juanma 6, Regueiro 80, Javi Guerrero 84;
 
 ; Valencia    ; 4-2; Villarreal
-  Baraja 56, 78, Aimar 57, Mista 87; Riquelme 14, Belletti 77
+  Baraja 56, Baraja 78, Aimar 57, Mista 87; Riquelme 14, Belletti 77
 
 Round: 19
 Date: 1/10/2004
 
 ; Albacete    ; 0-1; Valencia
-  Jorge López (pk) 18
+;  Jorge López (pk) 18
 
 ; Mallorca    ; 2-4; Celta
-  Bruggink 12, (pk) 45; José Ignacio 16, Jesuli 71, Luccin (pk) 85,
-   Milosevic 94
+  Bruggink 12, Bruggink (pk) 45; José Ignacio 16, Jesuli 71, Luccin (pk) 85, Milosevic 94
 
 ; Sociedad    ; 1-0; Madrid
-  Karpin 60
+  Karpin 60;
 
 Date: 1/11/2004
 
 ; Betis       ; 3-0; Málaga
-  Alfonso 8, Joaquín 48, Romero (og) 60
+  Alfonso 8, Joaquín 48, Romero (og) 60;
 
 ; Murcia      ; 0-1; Espanyol
-  Maxi 10
+;  Maxi 10
 
 ; Deportivo   ; 1-1; Racing
   Luque 43; Javi Guerrero 80
@@ -733,14 +683,12 @@ Date: 1/11/2004
   Jose Mari 38, Víctor 72, Roger 84; Makukula 65
 
 ; Barcelona   ; 3-0; Zaragoza
-  Saviola 24, Ronaldinho (pk) 45, Xavi 66
+  Saviola 24, Ronaldinho (pk) 45, Xavi 66;
 
 ; Atlético    ; 3-0; Athletic
-  Fernando Torres 73, (pk) 85, Paunovic 91
+  Fernando Torres 73, Fernando Torres (pk) 85, Paunovic 91;
 
-  
 Round: 20
-
 Date: 1/17/2004
 
 ; Murcia      ; 2-2; Celta 
@@ -750,7 +698,6 @@ Date: 1/17/2004
 
 ; Barcelona   ; 1-1; Athletic 
   Kluivert 63; Gurpegui 86
-
 
 Date: 1/18/2004
 
@@ -764,10 +711,10 @@ Date: 1/18/2004
   Colsa 48; Regueiro 74
 
 ; Deportivo   ; 4-1; Zaragoza  
-  Tristán 22, 74, Valerón 50, Sergio 84; Valerón (og) 4
+  Tristán 22, Tristan 74, Valerón 50, Sergio 84; Valerón (og) 4
 
 ; Villarreal  ; 2-0; Málaga 
-  Arruabarrena 67, Anderson 83
+  Arruabarrena 67, Anderson 83;
 
 ; Atlético    ; 2-1; Sevilla 
   Fernando Torres 42, Nikolaidis 71; Reyes (pk) 77
@@ -775,9 +722,7 @@ Date: 1/18/2004
 ; Betis       ; 1-1; Madrid
   Joaquín 33; Ronaldo 60
 
-
 Round: 21
-
 Date: 1/24/2004
 
 ; Madrid      ; 2-1; Villarreal
@@ -786,100 +731,92 @@ Date: 1/24/2004
 ; Albacete    ; 1-1; Atlético
   Lequi (og) 59; Nano 32
 
-
 Date: 1/25/2004
 
 ; Espanyol    ; 1-2; Betis
   Tamudo (pk) 64; Mingo 9, Fernando (pk) 29
 
 ; Celta       ; 2-5; Sociedad
-  Gustavo López 1, Luccin (pk) 51; Kovacevic 23, Milosevic (og) 43,
-   Xabi Alonso 60, Nihat 70, 72
+  Gustavo López 1, Luccin (pk) 51; Kovacevic 23, Milosevic (og) 43, Xabi Alonso 60, Nihat 70, Nihat 72
 
 ; Málaga      ; 2-3; Valladolid
-  Salva 24, 79; Oscar González 41, 68, Julio 78
+  Salva 24, Salva 79; Oscar González 41, Oscar Gonzalez 68, Julio 78
 
 ; Zaragoza    ; 1-3; Mallorca
   Ponzio 66; Delibasic 41, Bruggink 44, Nené 92
 
 ; Valencia    ; 0-1; Osasuna
-  Pelegrino (og) 45
+;  Pelegrino (og) 45
 
 ; Racing      ; 3-2; Murcia
-  Javi Guerrero 33, 73, 93; Esnaider 43, Karanka 91
+  Javi Guerrero 33, Javi Guerrero 73, Javi Guerrero 93; Esnaider 43, Karanka 91
 
 ; Sevilla     ; 0-1; Barcelona
-  Kluivert 31
+;  Kluivert 31
 
 ; Athletic    ; 1-0; Deportivo
-  Yeste 49
-
+  Yeste 49;
 
 Round: 22
-
 Date: 1/31/2004
 
 ; Atlético    ; 1-1; Osasuna
   Nikolaidis 93; Valdo 23
 
 ; Málaga      ; 1-6; Valencia
-  Salva 74; Mista 4, Oliveira 15, 58, 66, Marchena 48, Albelda 72
+  Salva 74; Mista 4, Oliveira 15, Oliveira 58, Oliveira 66, Marchena 48, Albelda 72
 
 ; Betis       ; 1-0; Celta
-  Lembo 35
-
+  Lembo 35;
 
 Date: 2/1/2004
 
 ; Sociedad    ; 1-0; Racing
-  Karpin 63
+  Karpin 63;
 
 ; Valladolid  ; 2-3; Madrid
-  Óscar González 33, 42; Ronaldo 47, 90, Figo (pk) 62
+  Óscar González 33, Oscar Gonzalez 42; Ronaldo 47, Ronaldo 90, Figo (pk) 62
 
 ; Villarreal  ; 0-1; Espanyol
-  Raducanu 89
+;  Raducanu 89
 
 ; Murcia      ; 1-0; Zaragoza
-  Richi 35
+  Richi 35;
 
 ; Mallorca    ; 1-3; Athletic
   Gurpegui (og) 38; Yeste 18, Etxeberria 57, Leo Franco (og) 84
 
 ; Barcelona   ; 5-0; Albacete
-  Xavi 15, Saviola 49, Ricardo Quaresma 53, Davids 54, Luis Enrique 91
+  Xavi 15, Saviola 49, Ricardo Quaresma 53, Davids 54, Luis Enrique 91;
 
 ; Deportivo   ; 1-0; Sevilla
-  Tristán 28
-
+  Tristán 28;
 
 Round: 23
-
 Date: 2/7/2004
 
 ; Valencia    ; 3-0; Atlético
-  Mista 30, 71, Vicente 66
+  Mista 30, Mista 71, Vicente 66;
 
 ; Madrid      ; 2-1; Málaga
   Ronaldo 23, Roberto Carlos 59; Luque 74
 
-
 Date: 2/8/2004
 
 ; Sevilla     ; 3-0; Mallorca
-  Baptista 50, Gallardo 55, Martí 84
+  Baptista 50, Gallardo 55, Martí 84;
 
 ; Albacete    ; 0-2; Deportivo
-  Scaloni 60, Luque 61
+;  Scaloni 60, Luque 61
 
 ; Racing      ; 1-2; Betis
   Benjamín (og) 6; Benjamín 32, Joaquín 94
 
 ; Celta       ; 2-1; Villarreal
-  Milosevic 19, 48; Anderson 84
+  Milosevic 19, Milosevic 48; Anderson 84
 
 ; Espanyol    ; 2-0; Valladolid
-  Tamudo 56, Fredson 58
+  Tamudo 56, Fredson 58;
 
 ; Athletic    ; 2-1; Murcia
   Urzaiz 11, Yeste (pk) 44; Luis García 14
@@ -888,40 +825,35 @@ Date: 2/8/2004
   Puñal (pk) 66; Saviola 42, Ronaldinho 76
 
 ; Zaragoza    ; 2-1; Sociedad
-  Villa 6, (pk) 92; Xabi Alonso 37
-
+  Villa 6, Villa (pk) 92; Xabi Alonso 37
 
 Round: 24
-
 Date: 2/14/2004
 
 ; Murcia      ; 1-3; Sevilla
-  Luis García (pk) 94; Baptista (pk) 4, (pk) 72, 95
+  Luis García (pk) 94; Baptista (pk) 4, Baptista (pk) 72, Baptista 95
 
 ; Sociedad    ; 1-1; Athletic
   Nihat 39; Yeste 14
 
-
 Date: 2/15/2004
 
 ; Valladolid  ; 0-2; Celta
-  Mostovoi 46, Jesuli 87
+;  Mostovoi 46, Jesuli 87
 
 ; Betis       ; 2-1; Zaragoza
   Denilson 33, Alfonso 37; Cani 2
 
 ; Deportivo   ; 2-0; Osasuna
-  Víctor 22, 36
+  Víctor 22, Victor 36;
 
 ; Villarreal  ; 6-3; Racing
-  Belleti 6, 35, Riquelme (pk) 32, Jose Mari 68, Anderson 72,
-   Juanma (og) 92; Benayoun 33, 84, Álvarez (pk) 56
+  Belleti 6, Belleti 35, Riquelme (pk) 32, Jose Mari 68, Anderson 72, Juanma (og) 92; Benayoun 33, Benayoun 84, Álvarez (pk) 56
 
 ; Mallorca    ; 0-0; Albacete
 
 ; Málaga      ; 5-2; Espanyol
-  Miguel Ángel 35, Manu 42, Juanito 45, Salva 60, Insúa 84;
-   Lopo 44, Tamudo 77
+  Miguel Ángel 35, Manu 42, Juanito 45, Salva 60, Insúa 84; Lopo 44, Tamudo 77
 
 ; Barcelona   ; 3-1; Atlético
   Saviola 11, Ronaldinho 24, Luis García 43; Nikolaidis 22
@@ -929,34 +861,31 @@ Date: 2/15/2004
 ; Madrid      ; 1-1; Valencia
   Figo (pk) 92; Ayala 74
 
-
 Round: 25
-
 Date: 2/21/2004
 
 ; Espanyol    ; 2-4; Madrid
-  Tamudo (pk) 31, Lopo 84; Ronaldo (pk) 26, 69, Roberto Carlos 52,
-   Raúl Bravo 66
+  Tamudo (pk) 31, Lopo 84; Ronaldo (pk) 26, Ronaldo 69, Roberto Carlos 52, Raúl Bravo 66
 
 ; Atlético    ; 0-0; Deportivo
 
 ; Celta       ; 0-2; Málaga
-  Salva (pk) 15, Diego Alonso 93
+;  Salva (pk) 15, Diego Alonso 93
 
 ; Sevilla     ; 1-0; Sociedad
-  Hornos 92
+  Hornos 92;
 
 ; Valencia    ; 0-1; Barcelona
-  Gerard López 78
+;  Gerard López 78
 
 
 Date: 2/22/2004
 
 ; Albacete    ; 1-0; Murcia
-  Cuadrado (og) 9
+  Cuadrado (og) 9;
 
 ; Racing      ; 1-0; Valladolid
-  Bodipo 67
+  Bodipo 67;
 
 ; Osasuna     ; 1-1; Mallorca
   Aloisi 17; Delibasic 6
@@ -967,9 +896,7 @@ Date: 2/22/2004
 ; Athletic    ; 1-1; Betis
   Ezquerro 56; Benjamín 52
 
-
 Round: 26
-
 Date: 2/28/2004
 
 ; Valladolid  ; 1-2; Zaragoza
@@ -978,36 +905,33 @@ Date: 2/28/2004
 ; Betis       ; 1-1; Sevilla
   Alfonso (pk) 2; Javi Navarro 27
 
-
 Date: 2/29/2004
 
 ; Sociedad    ; 0-1; Albacete
-  Redondo 48
+;  Redondo 48
 
 ; Murcia      ; 0-1; Osasuna
-  Webo 30
+;  Webo 30
 
 ; Mallorca    ; 0-1; Atlético
-  Fernando Torres 12
+;  Fernando Torres 12
 
 ; Málaga      ; 1-0; Racing
-  Salva 37
+  Salva 37;
 
 ; Villarreal  ; 0-1; Athletic
-  Jonan 44
+;  Jonan 44
 
 ; Espanyol    ; 2-1; Valencia
-  Tamudo 38, 75; Mista 77
+  Tamudo 38, Tamudo 75; Mista 77
 
 ; Madrid      ; 4-2; Celta
-  Ronaldo 54, Zidane 63, 93, Figo 71; Ilic 17, Milosevic 90
+  Ronaldo 54, Zidane 63, Zidane 93, Figo 71; Ilic 17, Milosevic 90
 
 ; Deportivo   ; 2-3; Barcelona
-  Pandiani 50, 56; Ronaldinho 24, 48, Saviola 29
-
+  Pandiani 50, Pandiani 56; Ronaldinho 24, Ronaldinho 48, Saviola 29
 
 Round: 27
-
 Date: 3/6/2004
 
 ; Racing      ; 1-1; Madrid
@@ -1017,35 +941,32 @@ Date: 3/6/2004
   Webo 15; Kovacevic 87
 
 ; Celta       ; 1-5; Espanyol
-  Edu 92; Tamudo 30, (pk) 65, Hadji 43, Sergio (og) 81, Vignal 87
+  Edu 92; Tamudo 30, Tamudo (pk) 65, Hadji 43, Sergio (og) 81, Vignal 87
 
 ; Valencia    ; 3-0; Deportivo
-  Vicente (pk) 22, 90, Juan Sánchez 91
-
+  Vicente (pk) 22, Vicente 90, Juan Sánchez 91;
 
 Date: 3/7/2004
 
 ; Athletic    ; 1-4; Valladolid
-  Guerrero 80; Losada 2, 75, Óscar González 15, Jesús 38
+  Guerrero 80; Losada 2, Losada 75, Óscar González 15, Jesús 38
 
 ; Zaragoza    ; 1-0; Málaga
-  Villa 72
+  Villa 72;
 
 ; Barcelona   ; 3-2; Mallorca
-  Luis García 2, 57, Luis Enrique 17; Eto'o 89, Delibasic 92
+  Luis García 2, Luis Garcia 57, Luis Enrique 17; Eto'o 89, Delibasic 92
 
 ; Albacete    ; 1-0; Betis
-  Pacheco 27
+  Pacheco 27;
 
 ; Sevilla     ; 2-0; Villarreal
-  Carlos 56, 76
+  Carlos 56, Carlos 76;
 
 ; Atlético    ; 1-1; Murcia
   Nano 95; Luis García (pk) 55
 
-
 Round: 28
-
 Date: 3/13/2004
 
 ; Madrid      ; 1-1; Zaragoza
@@ -1054,21 +975,19 @@ Date: 3/13/2004
 ; Sociedad    ; 2-1; Atlético
   Karpin (pk) 35, Simeone (og) 41; Paunovic 71
 
-
 Date: 3/14/2004
 
 ; Betis       ; 1-1; Osasuna
   Benjamín 42; Aloisi 45
 
 ; Espanyol    ; 0-1; Racing
-  Morán 57
+;  Morán 57
 
 ; Valladolid  ; 2-0; Sevilla
-  Jonathan 52, Jesús (pk) 63
+  Jonathan 52, Jesús (pk) 63;
 
 ; Mallorca    ; 4-2; Deportivo
-  Correa 6, Ramis 35, Eto'o (pk) 59, Jesús Perera 84; Munitis 22,
-   Djalminha 80
+  Correa 6, Ramis 35, Eto'o (pk) 59, Jesús Perera 84; Munitis 22, Djalminha 80
 
 ; Villarreal  ; 2-1; Albacete
   Coloccini 50, Anderson 57; Pacheco 5
@@ -1077,69 +996,62 @@ Date: 3/14/2004
   Luque 47, Salva 95; Larrazabal (pk) 38
 
 ; Murcia      ; 0-2; Barcelona
-  Saviola 4, Ronaldinho 61
+;  Saviola 4, Ronaldinho 61
 
 ; Celta       ; 0-2; Valencia
-  Rufete 39, 93
-
+;  Rufete 39, Rufete 93
 
 Round: 29
-
 Date: 3/20/2004
 
 ; Athletic    ; 4-2; Madrid
-  Yeste 40, Urzaiz 44, Del Horno 75, 76; Raúl 46, 61
+  Yeste 40, Urzaiz 44, Del Horno 75, Del Horno 76; Raúl 46, Raul 61
 
 ; Deportivo   ; 1-0; Murcia
-  Capdevila 39
+  Capdevila 39;
 
 ; Atlético    ; 2-1; Betis
   Paunovic 51, Fernando Torres 68; Joaquín 67
 
-
 Date: 3/21/2004
 
 ; Albacete    ; 2-0; Valladolid
-  Aranda 10, Mikel 56
+  Aranda 10, Mikel 56;
 
 ; Sevilla     ; 0-1; Málaga
-  Salva (pk) 78
+;  Salva (pk) 78
 
 ; Zaragoza    ; 1-1; Espanyol
   Villa 21; Fredson 30
 
 ; Racing      ; 4-4; Celta
-  Álvarez (pk) 18, (pk) 82, Javi Guerrero 38, 85; Milosevic 28, (pk) 72,
-   Mostovoi 46, 61
+  Álvarez (pk) 18, Alvarez (pk) 82, Javi Guerrero 38, Javi Guerrero 85; Milosevic 28, Milosevic (pk) 72, Mostovoi 46, Mostovoi 61
 
 ; Osasuna     ; 2-1; Villarreal
   Aloisi 33, Quique Alvarez (og) 72; Riquelme (pk) 77
 
 ; Valencia    ; 5-1; Mallorca
-  Mista 44, 67, 68, Baraja 57, Angulo 60; Eto’o (pk) 83
+  Mista 44, Mista 67, Mista 68, Baraja 57, Angulo 60; Eto’o (pk) 83
 
 ; Barcelona   ; 1-0; Sociedad
-  Ronaldinho 89
-
+  Ronaldinho 89;
 
 Round: 30
-
 Date: 3/27/2004
 
 ; Sociedad    ; 1-2; Deportivo
   Nihat 43; Pandiani 10, López Rekarte (og) 92
 
 ; Espanyol    ; 2-1; Athletic
-  Tamudo 2, (pk) 83; Pochettino (og) 94
-
+  Tamudo 2, Tamudo (pk) 83; Pochettino (og) 94
 
 Date: 3/28/2004
 
 ; Celta       ; 0-2; Zaragoza
-  Álvaro 76, Yordi 91
+;  Álvaro 76, Yordi 91
 
 ; Racing      ; 0-3; Valencia
-  Ayoze (og) 8, Vicente 45, 75
+;  Ayoze (og) 8, Vicente 45, Vicente 75
 
 ; Valladolid  ; 1-1; Osasuna
   Losada 23; Morales 75
@@ -1147,30 +1059,27 @@ Date: 3/28/2004
 ; Villarreal  ; 0-0; Atlético
 
 ; Murcia      ; 2-0; Mallorca
-  Acciari 18, Eto’o (og) 50
+  Acciari 18, Eto’o (og) 50;
 
 ; Málaga      ; 1-1; Albacete
   Diego Alonso 81; Fabiano 28
 
 ; Madrid      ; 5-1; Sevilla
-  Solari 5, Ronaldo 44, 92, Zidane 64, Míchel Salgado 75; Baptista (pk) 59
-
+  Solari 5, Ronaldo 44, Ronaldo 92, Zidane 64, Míchel Salgado 75; Baptista (pk) 59
 
 Date: 4/14/2004
 
 ; Betis       ; 1-1; Barcelona
   Alfonso (pk) 34; Saviola 5
 
-
 Round: 31
-
 Date: 4/3/2004
 
 ; Sevilla     ; 1-0; Espanyol
-  Antoñito 51
+  Antoñito 51;
 
 ; Albacete    ; 1-2; Madrid
-  Parri 81; Roberto Carlos 19, 71
+  Parri 81; Roberto Carlos 19, Roberto Carlos 71
 
 ; Barcelona   ; 0-0; Villarreal
 
@@ -1194,25 +1103,23 @@ Date: 4/4/2004
   Fernando Torres 24, Paunovic 45; Richetti 65
 
 ; Valencia    ; 2-0; Murcia
-  Pellegrino 73, Mista 82
-
+  Pellegrino 73, Mista 82;
 
 Round: 32
-
 Date: 4/10/2004
 
 ; Valladolid  ; 1-3; Barcelona
   Óscar González 66; Saviola 2, Ronaldinho 30, Iniesta 84
 
 ; Málaga      ; 3-1; Atlético
-  Leko 31, Diego Alonso 44, 50; Nano 45
+  Leko 31, Diego Alonso 44, Diego Alonso 50; Nano 45
 
 ; Celta       ; 0-0; Sevilla
 
 Date: 4/11/2004
 
 ; Betis       ; 0-2; Mallorca
-  Eto’o 14, Jesús Perera 50
+;  Eto’o 14, Jesús Perera 50
 
 ; Espanyol    ; 1-1; Albacete
   Maxi 70; Redondo 20
@@ -1221,31 +1128,28 @@ Date: 4/11/2004
   Javi Guerrero 75; Iraola 50, Yeste 92
 
 ; Sociedad    ; 2-0; Murcia
-  Nihat 63, 87
+  Nihat 63, Nihat 87;
 
 ; Villarreal  ; 0-2; Deportivo
-  Pandiani 37, Tristán 93
+;  Pandiani 37, Tristán 93
 
 ; Zaragoza    ; 0-1; Valencia
-  Angulo 69
+;  Angulo 69
 
 ; Madrid      ; 0-3; Osasuna
-  Valdo 1, Pablo García 43, Moha 61
-
+;  Valdo 1, Pablo García 43, Moha 61
 
 Round: 33
-
 Date: 4/17/2004
 
 ; Deportivo   ; 1-1; Valladolid
   Djalminha (pk) 56; Óscar González 44
 
 ; Athletic    ; 4-0; Zaragoza
-  Etxeberria 33, Del Horno 57, Yeste 77, 91
+  Etxeberria 33, Del Horno 57, Yeste 77, Yeste 91;
 
 ; Atlético    ; 1-2; Madrid
   Paunovic (pk) 48; Solari 5, Helguera 78
-
 
 Date: 4/18/2004
 
@@ -1253,14 +1157,13 @@ Date: 4/18/2004
   Pablo García 46; Tamudo 43, Alex 63, Maxi 72
 
 ; Albacete    ; 0-2; Celta
-  Juanfran 21, Gustavo López 46
+;  Juanfran 21, Gustavo López 46
 
 ; Sevilla     ; 5-2; Racing
-  Baptista 4, 7, 48, (pk) 60, Magallanes 91; Javi Guerrero (pk) 71,
-   Matabuena 85
+  Baptista 4, Baptista 7, Baptista 48, Baptista (pk) 60, Magallanes 91; Javi Guerrero (pk) 71, Matabuena 85
 
 ; Murcia      ; 0-1; Betis
-  Marcos Assunção 4
+;  Marcos Assunção 4
 
 ; Mallorca    ; 1-2; Villarreal
   Eto’o (pk) 45; Quique Álvarez 38, Martí 77
@@ -1269,39 +1172,36 @@ Date: 4/18/2004
   Vicente 71, Mista 93; Xabi Alonso 64, Karpin (pk) 68
 
 ; Barcelona   ; 3-0; Málaga
-  Saviola 19, Luis García 24, Cocu 35
-
+  Saviola 19, Luis García 24, Cocu 35;
 
 Round: 34
-
 Date: 4/24/2004
 
 ; Espanyol    ; 3-1; Atlético
-  Fredson 63, Raducanu 82, 87; Fernando Torres 92
+  Fredson 63, Raducanu 82, Raducanu 87; Fernando Torres 92
 
 ; Málaga      ; 1-1; Deportivo
   Canabal 41; Víctor 21
 
-
 Date: 4/25/2004
 
 ; Celta       ; 1-0; Osasuna
-  Muñoz (og) 48
+  Muñoz (og) 48;
 
 ; Betis       ; 2-1; Sociedad
   Benjamín 14, Dani 20; Nihat 45
 
 ; Racing      ; 0-2; Albacete
-  Pacheco 41, Redondo 54
+;  Pacheco 41, Redondo 54
 
 ; Valladolid  ; 1-3; Mallorca
-  Chema 59; Delibasic 16, Correa 70, 85
+  Chema 59; Delibasic 16, Correa 70, Correa 85
 
 ; Zaragoza    ; 4-4; Sevilla
-  Villa 26, 42, 54, (pk) 58; Casquero 5, 47, Baptista (pk) 67, Carlos 95
+  Villa 26, Villa 42, Villa 54, Villa (pk) 58; Casquero 5, Casquero 47, Baptista (pk) 67, Carlos 95
 
 ; Villarreal  ; 1-0; Murcia
-  Quique Álvarez 68
+  Quique Álvarez 68;
 
 ; Madrid      ; 1-2; Barcelona
   Solari 54; Kluivert 58, Xavi 86
@@ -1309,55 +1209,49 @@ Date: 4/25/2004
 ; Athletic    ; 1-1; Valencia
   Del Horno 30; Jorge López (pk) 13
 
-
 Round: 35
-
 Date: 5/1/2004
 
 ; Atlético    ; 3-2; Celta
   Nano 1, Fernando Torres 5, García Calvo 38; Milosevic 31, Edú 68
 
 ; Deportivo   ; 2-0; Madrid
-  Tristán 29, Capdevila 68
-
+  Tristán 29, Capdevila 68;
 
 Date: 5/2/2004
 
 ; Sociedad    ; 2-2; Villarreal
-  Schurrer 40, Gabilondo 60; José Mari 11, 46
+  Schurrer 40, Gabilondo 60; José Mari 11, Jose Mari 46
 
 ; Murcia      ; 2-1; Valladolid
   Acciari 33, Luis García 89; Jonathan 31
 
 ; Mallorca    ; 2-1; Málaga
-  Eto’o 24, 67; Salva 60
+  Eto’o 24, Eto'o 67; Salva 60
 
 ; Albacete    ; 3-1; Zaragoza
   Aranda 3, Pacheco 55, Mikel 79; Rebosio 74
 
 ; Sevilla     ; 2-0; Athletic
-  Baptista 39, (pk) 63
+  Baptista 39, Baptista (pk) 63;
 
 ; Osasuna     ; 1-2; Racing
   Puñal (pk) 56; Álvarez 64, Afek 91
 
 ; Valencia    ; 2-0; Betis
-  Curro Torres 35, Baraja 48
+  Curro Torres 35, Baraja 48;
 
 ; Barcelona   ; 4-1; Espanyol
-  Ronaldinho 34, Saviola 43, 57, Van Bronckhorst 54; Tamudo (pk) 19
-
+  Ronaldinho 34, Saviola 43, Saviola 57, Van Bronckhorst 54; Tamudo (pk) 19
 
 Round: 36
-
 Date: 5/8/2004
 
 ; Celta       ; 1-0; Barcelona
-  Edú 42
+  Edú 42;
 
 ; Madrid      ; 2-3; Mallorca
-  Pavón 17, Figo (pk) 51; Eto'o 10, 36, Campano 43
-
+  Pavón 17, Figo (pk) 51; Eto'o 10, Eto'o 36, Campano 43
 
 Date: 5/9/2004
 
@@ -1365,54 +1259,50 @@ Date: 5/9/2004
   Iraola (pk) 88; Pacheco (pk) 55
 
 ; Espanyol    ; 2-0; Deportivo
-  Pochettino 7, De la Peña 74
+  Pochettino 7, De la Peña 74;
 
 ; Valladolid  ; 2-2; Sociedad
-  Fernando Sales 22, 71; Gabilondo 19, Nihat 42
+  Fernando Sales 22, Fernando Sales 71; Gabilondo 19, Nihat 42
 
 ; Zaragoza    ; 1-0; Osasuna
-  Álvaro 92
+  Álvaro 92;
 
 ; Villarreal  ; 1-0; Betis
-  José Mari 66
+  José Mari 66;
 
 ; Málaga      ; 1-0; Murcia
-  Miguel Ángel 65
+  Miguel Ángel 65;
 
 ; Sevilla     ; 0-2; Valencia
-  Vicente 11, Baraja 89
+;  Vicente 11, Baraja 89
 
 ; Racing      ; 2-2; Atlético
   Álvarez 57, Afek 89; Ibagaza 26, De los Santos 59
 
-
 Round: 37
-
 Date: 5/14/2004
 
 ; Villarreal  ; 2-1; Valencia
   Anderson 14, Riquelme 25; Pellegrino 35
 
-
 Date: 5/15/2004
 
 ; Deportivo   ; 3-0; Celta
-  Silvinho (og) 12, Pandiani 23, Munitis 24
+  Silvinho (og) 12, Pandiani 23, Munitis 24;
 
 ; Betis       ; 1-0; Valladolid
-  Marcos Assunção 74
-
+  Marcos Assunção 74;
 
 Date: 5/16/2004
 
 ; Atlético    ; 1-2; Zaragoza
-  Nano 64; Toledo 91, 93
+  Nano 64; Toledo 91, Toledo 93
 
 ; Sociedad    ; 1-1; Málaga
   Kovacevic 71; Duda 64
 
 ; Mallorca    ; 4-2; Espanyol
-  Jesús Perera 64, 86, Bruggink 73, Colsa 92; Tamudo (pk) 7, 27
+  Jesús Perera 64, Jesus Perera 86, Bruggink 73, Colsa 92; Tamudo (pk) 7, Tamudo 27
 
 ; Osasuna     ; 1-2; Athletic
   Valdo 84; Yeste 47, Urzaiz 61
@@ -1421,32 +1311,31 @@ Date: 5/16/2004
   Parri 68; Dario Silva 38, Baptista (pk) 51, Casquero 52, Hornos 89
 
 ; Barcelona   ; 1-0; Racing
-  Ronaldinho (pk) 15
+  Ronaldinho (pk) 15;
 
 ; Murcia      ; 2-1; Madrid
-  Luis García 2, (pk) 33; Guti 91
-
+  Luis García 2, Luis Garcia (pk) 33; Guti 91
 
 Round: 38 
 Date: 5/23/2004
 
 ; Málaga      ; 2-3; Betis
-  Salva 20, Canabal 45; Dani 62, 89, Juanito 70
+  Salva 20, Canabal 45; Dani 62, Dani 89, Juanito 70
 
 ; Racing      ; 0-1; Deportivo
-  Pandiani 22
+;  Pandiani 22
 
 ; Valencia    ; 0-1; Albacete
-  Aranda 60
+;  Aranda 60
 
 ; Valladolid  ; 3-0; Villarreal
-  Losada 31, 81, Caminero 86
+  Losada 31, Losada 81, Caminero 86;
 
 ; Madrid      ; 1-4; Sociedad
-  Figo (pk) 39; Kovacevic 13, Xabier Prieto 28, (pk) 60, De Paula 32
+  Figo (pk) 39; Kovacevic 13, Xabier Prieto 28, Xabier Prieto (pk) 60, De Paula 32
 
 ; Espanyol    ; 2-0; Murcia
-  Tamudo 71, Lopo 79
+  Tamudo 71, Lopo 79;
 
 ; Celta       ; 1-2; Mallorca
   Jandro 92; Nené 89, Jesús Perera 91
@@ -1455,11 +1344,10 @@ Date: 5/23/2004
   Cani 42, Soriano 59; Saviola 9
 
 ; Athletic    ; 3-4; Atlético
-  Iraola 19, Arriaga 53, 89; Ibagaza 25, De los Santos 32,
-   Fernando Torres 34, 82
+  Iraola 19, Arriaga 53, Arrianga 89; Ibagaza 25, De los Santos 32, Fernando Torres 34, Fernando Torres 82
 
 ; Sevilla     ; 1-0; Osasuna
-  Baptista 55
+  Baptista 55;
 
 
 * 1.Valencia CF                   38 23  8  7 71-27  77  Champions

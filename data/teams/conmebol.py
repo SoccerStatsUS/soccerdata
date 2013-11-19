@@ -361,7 +361,7 @@ l = [
 
     {
         'name': 'Curicó Unido',
-        'founded': 1973
+        'founded': 1973,
         'city': 'Curico, Chile',
         },
 
