@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesi/ital08.html
 Season: 2007-2008
-Competition Serie A
+Competition: Serie A
 
 * 1.FC Internazionale   38 25 10  3  69-26  85  Champions
 * 2.AS Roma             38 24 10  4  72-37  82  Champions League
@@ -346,7 +346,7 @@ Date: 10/31/2007
   Ivan Cordoba 8, Esteban Cambiasso 50, David Suazo 74, Julio Ricardo Cruz 88; Abdoulay Konko 73
 
 ; Juventus  ; 3-0; Empoli 
-  David Trezeguet (pk) 51, David Trezeguet 62, David Trezeguet 70
+  David Trezeguet (pk) 51, David Trezeguet 62, David Trezeguet 70;
 
 ; Palermo   ; 1-1; Parma 
   De Oliveira Carvalho Amauri 86; Stefano Morrone 3
@@ -463,7 +463,7 @@ Date: 11/25/2007
 ; Empoli    ; 0-0; Torino 
 
 ; Juventus  ; 5-0; Palermo 
-  David Trezeguet 29, Vincenzo Iaquinta 41, Alessandro Del Piero 71, Alessandro Del Piero (pk) 90+2, Marco Marchionni 76
+  David Trezeguet 29, Vincenzo Iaquinta 41, Alessandro Del Piero 71, Alessandro Del Piero (pk) 90+2, Marco Marchionni 76;
 
 ; Lazio     ; 1-0; Parma 
   Fabio Firmani 90;
@@ -531,7 +531,7 @@ Date: 12/9/2007
   Luciano Gabriel Figueroa 89; Mario Frick 11, Mario Frick 24, Simone Loria 20
 
 ; Inter     ; 4-0; Torino 
-  Zlatan Ibrahimovic (pk) 37, Julio Ricardo Cruz 50, Luis Antonio Jimenez 52, Ivan Cordoba 77
+  Zlatan Ibrahimovic (pk) 37, Julio Ricardo Cruz 50, Luis Antonio Jimenez 52, Ivan Cordoba 77;
 
 ; Juventus  ; 1-0; Atalanta 
   Pavel Nedved 86;
@@ -901,7 +901,7 @@ Date: 3/1/2008
   Massimo Oddo (pk) 66; Rolando Bianchi 54
 
 ; Roma      ; 4-0; Parma
-  Alberto Aquilani 27, Giulio Falcone (og) 51, Francesco Totti 80, Mirko Vucinic 90+4
+  Alberto Aquilani 27, Giulio Falcone (og) 51, Francesco Totti 80, Mirko Vucinic 90+4;
 
 Date: 3/2/2008
 
@@ -994,7 +994,7 @@ Date: 3/16/2008
   Jose Luis Vidigal 41; Ferreira Da Silva Reginaldo 61
 
 ; Reggina   ; 4-0; Siena
-  Franco Brienza 9, Franco Brienza 39, Francesco Cozza 19, Simone Missiroli 68
+  Franco Brienza 9, Franco Brienza 39, Francesco Cozza 19, Simone Missiroli 68;
 
 ; Sampdoria ; 3-1; Catania
   Angelo Palombo 68, Pietro Accardi 76, Claudio Bellucci 86; Lorenzo Stovini 73
@@ -1096,7 +1096,7 @@ Date: 3/30/2008
 Date: 4/16/2008
 
 ; Juventus  ; 3-0; Parma
-  David Trezeguet 17, Raffaele Palladino 30, Stefano Morrone (og) 76
+  David Trezeguet 17, Raffaele Palladino 30, Stefano Morrone (og) 76;
 
 Round: 32
 Date: 4/5/2008

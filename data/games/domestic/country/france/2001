@@ -40,7 +40,7 @@ Date: 7/28/2001
   El-Hadji Pape SARR 11, Valérien ISMAEL 18
 
 ; Montpellier ; 1-1; Marseille
-  Toifilou MAOULIDA 76pen ; Ibrahima BAKAYOKO 28
+  Toifilou MAOULIDA (pk) 76 ; Ibrahima BAKAYOKO 28
 
 ; Monaco      ; 0-1; Sochaux
   Marcello Luis TRAPASSO 75
@@ -67,7 +67,7 @@ Date: 8/3/2001
 Date: 8/4/2001
 
 ; Nantes      ; 1-2; Lens
-  Olivier QUINT 73pen; Daniel de Sa MOREIRA 30, El-Hadji Ousseynou DIOUF 86
+  Olivier QUINT (pk) 73; Daniel de Sa MOREIRA 30, El-Hadji Ousseynou DIOUF 86
 
 ; Auxerre     ; 1-1; Paris
   Djibril CISSE 82; Mauricio Roberto POCHETTINO Trossero 40
@@ -98,7 +98,7 @@ Round: 3
 Date: 8/11/2001
 
 ; Rennes      ; 3-0; Monaco
-  Olivier MONTERRUBIO 18, 25pen, 81
+  Olivier MONTERRUBIO 18, (pk) 25, 81
 
 ; Bordeaux    ; 0-0; Lille
 
@@ -123,7 +123,7 @@ Date: 8/12/2001
   Djibril CISSE 37
 
 ; Bastia      ; 1-2; Lyon
-  Demetrius FERREIRA Leite 72pen; Jacek BAK 35, Antonio Augusto Ribeiro Reis Jr "JUNINHO Pernambucano" 66
+  Demetrius FERREIRA Leite (pk) 72; Jacek BAK 35, Antonio Augusto Ribeiro Reis Jr "JUNINHO Pernambucano" 66
 
   [N.B. Grégory COUPET stopped a penalty kick by Akim PRINCE Daye 32]
 
@@ -142,7 +142,7 @@ Sochaux      2-2 Lorient
   Camel MERIEM 17, Marcello Luis TRAPASSO 26; Jean-Claude Ducan-DARCHEVILLE 53, 64
 
 ; Lyon        ; 3-0; Guingamp
-  Sonny ANDERSON da Silva 10pen, Frédéric NEE 84, Marc-Vivien FOE 90(+2)
+  Sonny ANDERSON da Silva (pk) 10, Frédéric NEE 84, Marc-Vivien FOE 90(+2)
 
 ;   [red cards: Philippe VIOLEAU 89 (Lyon); Blaise; KOUASSI-Koffi; 78 (Guingamp)]
 Lille        2-1 Montpellier
@@ -192,7 +192,7 @@ Date: 8/25/2001
   Loïc DRUON 17, Jean-Claude Ducan-DARCHEVILLE 29
 
 ; Sedan       ; 2-0; Metz
-  Toni BROGNO 76pen, Henri CAMARA 90(+2)
+  Toni BROGNO (pk) 76, Henri CAMARA 90(+2)
 
 ; Bastia      ; 1-0; Marseille
   Patrick BENEFORTI 35
@@ -247,7 +247,7 @@ Date: 9/15/2001
 
 ; Lyon        ; 4-1; Nantes
   Pegguy LUYINDULA Makanda 16,90(+1), Marc-Vivien FOE 36, Eric CARRIERE 65;
-   Olivier QUINT 42pen
+   Olivier QUINT (pk) 42
 
 ; Lens        ; 3-0; Sochaux
   Nisa SAVELJIC 18og, Charles-Edouard CORIDON 45, Daniel de Sa MOREIRA 61
@@ -290,7 +290,7 @@ Date: 9/22/2001
   Alex NYARKO 34, Ludovic GIULY 48, Shabani NONDA 54
 
 ; Auxerre     ; 2-2; Guingamp
-  Narcisse-Olivier KAPO Obou 69, Khalilou FADIGA 84pen; Blaise KOUASSI Koffi 72,
+  Narcisse-Olivier KAPO Obou 69, Khalilou FADIGA (pk) 84; Blaise KOUASSI Koffi 72,
    Abdelhafid TASFAOUT 90
 
 ; Lille       ; 2-1; Bastia
@@ -329,7 +329,7 @@ Date: 9/29/2001
   [red card: Lassina DIABATE (Auxerre) 82]
 ; Lyon        ; 4-0; Rennes
   Pegguy LUYINDULA Makanda 9, Antonio Augusto Ribeiro Reis Jr 
-   “JUNINHO Pernambucano” 18,45pen, Sidney GOVOU 56
+   “JUNINHO Pernambucano” (pk) 18,45, Sidney GOVOU 56
 
 ; Bastia      ; 1-0; Monaco
   Patrick BENEFORTI 30
@@ -372,14 +372,14 @@ Date: 10/13/2001
    Daniel de Sa MOREIRA 19, 23, 39
 
 ; Sochaux     ; 4-1; Bastia
-  Pierre-Alain FRAU 26pen, 51, Stéphane CRUCET 45, Marcello Luis TRAPASSO 90(+4);
+  Pierre-Alain FRAU (pk) 26, 51, Stéphane CRUCET 45, Marcello Luis TRAPASSO 90(+4);
    Demetrius FERREIRA Leite 82
 
   [red card: Bernard LAMBOURDE (Bastia) 55]
 ; Montpellier ; 0-0; Bordeaux
 
 ; Monaco      ; 2-0; Sedan
-  Shabani NONDA 67pen, Oliver BIERHOFF 90(+4)
+  Shabani NONDA (pk) 67, Oliver BIERHOFF 90(+4)
 
   [red cards: Cyril ROOL (Monaco) 64; David DI TOMMASO (Sedan) 75]
 ; Rennes      ; 2-1; Guingamp
@@ -389,7 +389,7 @@ Date: 10/13/2001
 Date: 10/14/2001
 
 ; Paris       ; 2-2; Lyon
-  Augustine Jay-Jay OKOCHA 19, Ronaldo de Assis Moreira "RONALDINHO" 81pen; 
+  Augustine Jay-Jay OKOCHA 19, Ronaldo de Assis Moreira "RONALDINHO" (pk) 81; 
    Frédéric NEE 14, Sidney GOVOU 27
 
 Red card: Jay-Jay OKOCHA 90
@@ -401,7 +401,7 @@ Date: 10/20/2001
   Antonio Augusto Ribeiro Reis Jr "JUNINHO Pernambucano" 83; Mickaël ISABEY 38
 
 ; Nantes      ; 2-2; Auxerre
-  Olivier QUINT 67pen, Frédéric DA ROCHA 83; Teemu TAINIO 58, Khalilou FADIGA 68pen
+  Olivier QUINT (pk) 67, Frédéric DA ROCHA 83; Teemu TAINIO 58, Khalilou FADIGA (pk) 68
 
   [red card: Teemu TAINIO (Auxerre) 70]
 
@@ -427,7 +427,7 @@ Date: 10/21/2001
 
   [red card: David REGIS (Metz) 90(+1)]
 ; Troyes      ; 4-2; Lorient
-  Samuel BOUTAL 23pen, Patrice LOKO 50, Mamadou NIANG 52, Stéphane LE GARREC 64og;
+  Samuel BOUTAL (pk) 23, Patrice LOKO 50, Mamadou NIANG 52, Stéphane LE GARREC 64og;
    Jean-Claude Ducan-DARCHEVILLE 12, Arnaud LE LAN 24
 
 ; Sedan       ; 1-2; Paris
@@ -448,7 +448,7 @@ Date: 10/27/2001
   Dominique ARRIBAGE 32 ; Valérien ISMAËL 11, 13
 
 ; Lille       ; 2-0; Metz
-  Mikkel Venge BECK 31pen, Grégory TAFFOREAU 36
+  Mikkel Venge BECK (pk) 31, Grégory TAFFOREAU 36
 
 ; Monaco      ; 2-1; Lyon
   Oliver BIERHOFF 67, Shabani NONDA 69; Gaël GIVET 71og
@@ -483,11 +483,11 @@ Date: 11/3/2001
 ; Guingamp    ; 0-0; Sochaux
 
 ; Bastia      ; 3-1; Lorient
-  Tony VAIRELLES 51pen,56, Mickaël ESSIEN 69; Jean-Claude Ducan-DARCHEVILLE 21
+  Tony VAIRELLES (pk) 51,56, Mickaël ESSIEN 69; Jean-Claude Ducan-DARCHEVILLE 21
   [N.B. Stéphane LE GARREC stopped a penalty kick by Tony VAIRELLES 69]
 
 ; Marseille   ; 2-1; Rennes
-  Fernando Lucio da Costa "FERNANDAO" 13, Frank LEBOEUF 85pen; Olivier MONTERRUBIO 87pen
+  Fernando Lucio da Costa "FERNANDAO" 13, Frank LEBOEUF (pk) 85; Olivier MONTERRUBIO (pk) 87
 
 ; Sedan       ; 2-0; Montpellier
   Henri CAMARA 3, Ludovic ASUAR 75
@@ -513,13 +513,13 @@ Round: 14
 Date: 11/16/2001
 
 ; Monaco      ; 1-1; Marseille
-  Shabani NONDA 54pen; Ibrahima BAKAYOKO 70
+  Shabani NONDA (pk) 54; Ibrahima BAKAYOKO 70
 
 
 Date: 11/17/2001
 
 ; Rennes      ; 2-0; Nantes
-  Olivier MONTERRUBIO 51pen, Anthony REVEILLERE 76
+  Olivier MONTERRUBIO (pk) 51, Anthony REVEILLERE 76
 
 ; Lens        ; 1-0; Sedan
   Jocelyn BLANCHARD 11
@@ -558,7 +558,7 @@ Date: 11/24/2001
 
   [red card: Hakim SACI (Guingamp) 44]
 ; Bastia      ; 1-2; Bordeaux
-  Tony VAIRELLES 62; Pedro Miguel Carreiro Resendes "PAULETA" 45(+2), 51pen
+  Tony VAIRELLES 62; Pedro Miguel Carreiro Resendes "PAULETA" 45(+2), (pk) 51
 
   [red card: Alain ROCHE (Bordeaux) 42]
 ; Sedan       ; 5-0; Lorient
@@ -594,7 +594,7 @@ Date: 11/28/2001
 
 ; Lens        ; 7-0; Bastia
   Nicolas PENNETEAU 6og, Stéphane PEDRON 18, Daniel de Sa MOREIRA 43,
-   El-Hadji Ousseynou DIOUF 55pen, Valérien ISMAËL 63, Yoann LACHOR 77,
+   El-Hadji Ousseynou DIOUF (pk) 55, Valérien ISMAËL 63, Yoann LACHOR 77,
    Antoine SIBIERSKI 90(+3)pen
 
   [red card: Demetrius FERREIRA Leite (Bastia) 45(+1)]
@@ -614,8 +614,8 @@ Date: 11/28/2001
 
   [red card: Francileudo dos SANTOS Lima (Sochaux) 86]
 ; Monaco      ; 2-2; Lille
-  Oliver BIERHOFF 44, Shabani NONDA 61pen; Dagui Orphie BAKARI 17,
-   Bruno CHEYROU 73pen
+  Oliver BIERHOFF 44, Shabani NONDA (pk) 61; Dagui Orphie BAKARI 17,
+   Bruno CHEYROU (pk) 73
 
 
 Date: 11/29/2001
@@ -664,7 +664,7 @@ Round: 18
 Date: 12/18/2001
 
 ; Lens        ; 3-0; Nantes
-  Antoine SIBIERSKI 48, Lamine SAKHO 51pen, Mathieu BUCHER 79
+  Antoine SIBIERSKI 48, Lamine SAKHO (pk) 51, Mathieu BUCHER 79
 
   [red card: René Salomon OLEMBE Olembe (Nantes) 34]
 
@@ -684,7 +684,7 @@ Date: 12/19/2001
   Olivier SORLIN 4; Marcello Luis TRAPASSO 65
 
 ; Bastia      ; 3-0; Guingamp
-  Tony VAIRELLES 62pen, Mickaël ESSIEN 63, Pierre-Emmanuel BOURDEAU 86og
+  Tony VAIRELLES (pk) 62, Mickaël ESSIEN 63, Pierre-Emmanuel BOURDEAU 86og
   [red cards: Nicolas DIEUZE 66; Auriol GUILLAUME 74]
 
 *Montpellier  abd Monaco          [to be replayed; abandoned at 0-0 in 23' due to frozen pitch]
@@ -701,7 +701,7 @@ Round: 19
 Date: 12/21/2001
 
 ; Marseille   ; 1-2; Lens
-  Frank LEBOEUF 17pen; El-Hadji Ousseynou DIOUF 40, Adama COULIBALY 82
+  Frank LEBOEUF (pk) 17; El-Hadji Ousseynou DIOUF 40, Adama COULIBALY 82
 
 
 Date: 12/22/2001
@@ -724,7 +724,7 @@ Date: 12/22/2001
 Date: 1/16/2002
 
 ; Lille       ; 2-2; Bordeaux
-  Djezon BOUTOILLE 71, Pascal CYGAN 89; Pedro Miguel Carreiro Resendes "PAULETA" 30pen, 80
+  Djezon BOUTOILLE 71, Pascal CYGAN 89; Pedro Miguel Carreiro Resendes "PAULETA" (pk) 30, 80
 
 ; Lyon        ; 0-0; Bastia
   [N.B. Nicolas PENNETEAU stopped a penalty kick by Sonny ANDERSON da Silva 59]
@@ -748,7 +748,7 @@ Date: 1/5/2002
   Bruno CAROTTI 27, Johnny ECKER 63og
 
 ; Paris       ; 1-2; Monaco
-  Ronaldo de Assis Moreira "RONALDINHO" 42pen; Souleymane CAMARA 63,
+  Ronaldo de Assis Moreira "RONALDINHO" (pk) 42; Souleymane CAMARA 63,
    Marcelo Daniel GALLARDO 93
 
 ; Bordeaux    ; 2-1; Rennes
@@ -769,7 +769,7 @@ Date: 1/26/2002
 Date: 3/2/2002
 
 ; Lens        ; 2-2; Metz
-  Daniel de Sa MOREIRA 71, El-Hadji Ousseynou DIOUF 87pen; Jean-Guy WALLEMME 25og, 
+  Daniel de Sa MOREIRA 71, El-Hadji Ousseynou DIOUF (pk) 87; Jean-Guy WALLEMME 25og, 
    Gérald BATICLE 53
   [red card: Frédéric MEYRIEU (Metz) 88]
 
@@ -836,7 +836,7 @@ Date: 1/23/2002
 
   [red card: David SOMMEIL (Bordeaux) 90]
 ; Lyon        ; 4-0; Marseille
-  Sonny ANDERSON da Silva 25pen,35, Franck JURIETTI 30og, Sidney GOVOU 32
+  Sonny ANDERSON da Silva (pk) 25,35, Franck JURIETTI 30og, Sidney GOVOU 32
 
 ; Montpellier ; 0-0; Auxerre
 
@@ -859,7 +859,7 @@ Date: 1/23/2002
 Date: 1/24/2002
 
 ; Lens        ; 1-1; Paris
-  Stéphane PEDRON 89; Ronaldo de Assis Moreira "RONALDINHO" 86pen
+  Stéphane PEDRON 89; Ronaldo de Assis Moreira "RONALDINHO" (pk) 86
 
 
 Round: 23
@@ -873,7 +873,7 @@ Date: 1/29/2002
 Date: 1/30/2002
 
 ; Monaco      ; 3-1; Bordeaux
-  Dado PRSO 15pen,24, Wagneau ELOI 35; Pedro Miguel Carreiro Resendes "PAULETA" 43
+  Dado PRSO (pk) 15,24, Wagneau ELOI 35; Pedro Miguel Carreiro Resendes "PAULETA" 43
 
 ; Sochaux     ; 0-2; Lens
   Philippe RASCHKE 22og, Antoine SIBIERSKI 45
@@ -917,7 +917,7 @@ Date: 2/2/2002
   [red cards: Cyril JEUNECHAMP 86; Grégory TAFFOREAU 90(+1)]
 
 ; Bordeaux    ; 2-1; Lorient
-  Pedro Miguel Carreiro Resendes "PAULETA" 16pen, 90(+4)pen; Jean-Claude Ducan-DARCHEVILLE 45(+2)pen
+  Pedro Miguel Carreiro Resendes "PAULETA" (pk) 16, 90(+4)pen; Jean-Claude Ducan-DARCHEVILLE 45(+2)pen
   [red card: Jean-Claude Ducan-DARCHEVILLE (Lorient) 63]
 
 ; Guingamp    ; 0-0; Auxerre
@@ -927,10 +927,10 @@ Date: 2/2/2002
    Pegguy LUYINDULA Makanda 90(+3); Gérald BATICLE 9
 
 ; Sedan       ; 2-1; Sochaux
-  Julien POUEYS 45, Ludovic ASUAR 56pen; Stéphane CRUCET 30
+  Julien POUEYS 45, Ludovic ASUAR (pk) 56; Stéphane CRUCET 30
 
 ; Troyes      ; 1-1; Rennes
-  Patrice LOKO 16; Christophe LE ROUX 36pen
+  Patrice LOKO 16; Christophe LE ROUX (pk) 36
 
 Date: 2/3/2002
 
@@ -943,7 +943,7 @@ Round: 25
 Date: 2/6/2002
 
 ; Rennes      ; 2-2; Lyon
-  Dominique ARRIBAGE 24, Laurent BATLLES 30pen; Sonny ANDERSON da Silva 18,90(+1)
+  Dominique ARRIBAGE 24, Laurent BATLLES (pk) 30; Sonny ANDERSON da Silva 18,90(+1)
 
   [red card: EDMILSON José Gomes de Moraes (Lyon) 29]
 ; Auxerre     ; 1-0; Lens
@@ -956,7 +956,7 @@ Date: 2/6/2002
   Nicolas ESCETH-N’ZI 87
 
 ; Marseille   ; 2-1; Guingamp
-  Lamine SAKHO 21, Alberto RIVERA Pizarro 71pen; Hakim SACI 26
+  Lamine SAKHO 21, Alberto RIVERA Pizarro (pk) 71; Hakim SACI 26
 
   [red card: Romain FERRIER (Guingamp) 73]
   [N.B. ALFONSO Pérez Munoz a manqué un penalty (poteau) 29]
@@ -964,7 +964,7 @@ Date: 2/6/2002
   Grégory PROMENT 43, Christophe BASTIEN 90(+4)
 
 ; Monaco      ; 1-1; Bastia
-  Alex NYARKO 65; Tony VAIRELLES 34pen
+  Alex NYARKO 65; Tony VAIRELLES (pk) 34
 
 ; Sochaux     ; 2-2; Troyes
   Pierre-Alain FRAU 14, Fabien BOUDARENE 52; Mehdi MENIRI 11, Nicolas GOUSSE 65
@@ -991,7 +991,7 @@ Date: 2/16/2002
    RUI Carlos Jorge PATACA 53
 
 ; Guingamp    ; 1-1; Rennes
-  Cédric BARDON 31; Christophe LE ROUX 75pen
+  Cédric BARDON 31; Christophe LE ROUX (pk) 75
 
   [red cards: Claude MICHEL 74; Frédéric PIQUIONNE 77]
 ; Lens        ; 1-1; Lorient
@@ -1026,7 +1026,7 @@ Date: 2/23/2002
   [N.B. Cédric BARBOSA (Montpellier) missed a penalty kick 11]
 
 ; Rennes      ; 2-1; Bastia
-  Severino LUCAS 44, Toifilou MAOULIDA 57; Tony VAIRELLES 32pen
+  Severino LUCAS 44, Toifilou MAOULIDA 57; Tony VAIRELLES (pk) 32
 
   [red card: Mickaël ESSIEN (Bastia) 68]
 
@@ -1034,7 +1034,7 @@ Date: 2/23/2002
   Joseph-Désiré JOB 36; Pedro Miguel Carreiro Resendes "PAULETA" 73, Vikash DHORASOO 83
 
 ; Monaco      ; 3-1; Guingamp
-  Shabani NONDA 17pen,63, Jérôme ROTHEN 45(+1); Cédric BARDON 31pen
+  Shabani NONDA (pk) 17,63, Jérôme ROTHEN 45(+1); Cédric BARDON (pk) 31
 
 ; Auxerre     ; 2-1; Nantes
   Djibril CISSE 20, Arnaud GONZALEZ 78; Dinu Viorel MOLDOVAN 26
@@ -1042,7 +1042,7 @@ Date: 2/23/2002
   [red card: Mauro Dario Jesus CETTO (Nantes) 30]
 
 ; Paris       ; 3-0; Sedan
-  Mikel ARTETA Amitrian 24pen, ALEX Dias de Almeida 82, Edouard CISSE 90(+2)
+  Mikel ARTETA Amitrian (pk) 24, ALEX Dias de Almeida 82, Edouard CISSE 90(+2)
 
   [red card: Cédric ELZEARD (Sedan) 23]
 
@@ -1055,7 +1055,7 @@ Date: 2/24/2002
   Sidney GOVOU 41og, Pierre-Alain FRAU 70; Sidney GOVOU 51
 
 ; Lille       ; 2-0; Marseille
-  Bruno CHEYROU 35pen, Dagui Orphie BAKARI 90(+3)
+  Bruno CHEYROU (pk) 35, Dagui Orphie BAKARI 90(+3)
 
 Round: 28
 Date: 3/5/2002
@@ -1070,7 +1070,7 @@ Date: 3/6/2002
   [red card: Frédéric MENDY 90(+3)]
 ; Guingamp    ; 4-3; Lorient
   Cédric BARDON 45(+2), Stéphane CARNOT 50, 65, Florent MALOUDA 72; 
-   Jean-Claude Ducan-DARCHEVILLE 51, 90pen, Mustapha "Moussa" SAÏB 63
+   Jean-Claude Ducan-DARCHEVILLE 51, (pk) 90, Mustapha "Moussa" SAÏB 63
 
 ; Lens        ; 2-0; Rennes
   Antoine SIBIERSKI 13, Stéphane PEDRON 90(+1)
@@ -1094,7 +1094,7 @@ Date: 3/6/2002
 Date: 4/1/2002
 
 ; Marseille   ; 3-0; Auxerre         [replayed entirely]
-  Frank LEBOEUF 7pen, Lamine SAKHO 73, Ibrahima BAKAYOKO 85
+  Frank LEBOEUF (pk) 7, Lamine SAKHO 73, Ibrahima BAKAYOKO 85
 
 Round: 29
 Date: 3/16/2002
@@ -1112,8 +1112,8 @@ Date: 3/16/2002
   Bruno CHEYROU 2, Philippe BRUNEL 75
 
 ; Auxerre     ; 3-2; Metz
-  Jean-Alain BOUMSONG Somkong 62, Philippe MEXES 77, Khalilou FADIGA 83pen; 
-   Frédéric MEYRIEU 30pen, Joseph-Désiré JOB 61
+  Jean-Alain BOUMSONG Somkong 62, Philippe MEXES 77, Khalilou FADIGA (pk) 83; 
+   Frédéric MEYRIEU (pk) 30, Joseph-Désiré JOB 61
 
   [red card: Grégory PROMENT (Metz) 84]
 ; Monaco      ; 1-2; Nantes
@@ -1130,7 +1130,7 @@ Date: 3/16/2002
 Date: 3/17/2002
 
 ; Bordeaux    ; 2-1; Lens
-  Pedro Miguel Carreiro Resendes "PAULETA" 60pen, PAULO MIRANDA de Oliveira 85;
+  Pedro Miguel Carreiro Resendes "PAULETA" (pk) 60, PAULO MIRANDA de Oliveira 85;
    Stéphane PEDRON 86
 
 Round: 30
@@ -1161,7 +1161,7 @@ Date: 3/23/2002
   Sonny ANDERSON da Silva 78, Peguy LUYINDULA Makanda 89
 
 ; Bastia      ; 3-0; Montpellier
-  Damian Alejandro MANSO 19, Tony VAIRELLES 24pen, Fabrice JAU 90
+  Damian Alejandro MANSO 19, Tony VAIRELLES (pk) 24, Fabrice JAU 90
 
 Date: 3/24/2002
 
@@ -1189,7 +1189,7 @@ Date: 4/6/2002
 
   [red card: Salif Alassane DIAO (Sedan) 73]
 ; Monaco      ; 2-2; Metz
-  Gaël GIVET 28,59; Christophe BASTIEN 38pen, Emmanuel Sheyi ADEBAYOR 75
+  Gaël GIVET 28,59; Christophe BASTIEN (pk) 38, Emmanuel Sheyi ADEBAYOR 75
 
   [red cards: Eric CUBILIER 57; Schumann BAH 56]
 
@@ -1200,7 +1200,7 @@ Date: 4/6/2002
   Olivier SORLIN 1,70, Dominique ARRIBAGE 81, Toifilou MAOULIDA 90(+3)
 
 ; Sochaux     ; 3-0; Marseille
-  Nisa SAVELJIC 19, Pierre-Alain FRAU 35pen,63
+  Nisa SAVELJIC 19, Pierre-Alain FRAU (pk) 35,63
 
   [red card: Franck JURIETTI (as a substitute,Marseille) 67]
 
@@ -1256,7 +1256,7 @@ Red cards: Christophe DUGARRY 34, Marc-Vivien FOE 34
 
   [N.B. Guillaume WARMUZ stopped a penalty by Cédric BARDON (Guingamp) 90]
 ; Lorient     ; 2-2; Marseille
-  Jean-Claude Ducan-DARCHEVILLE 76pen, Nicolas ESCETH-N’ZI 90; 
+  Jean-Claude Ducan-DARCHEVILLE (pk) 76, Nicolas ESCETH-N’ZI 90; 
    Fernando Lucio da Costa "FERNANDAO" 33, Lamine SAKHO 87
 
   [red cards: Piotr SWIERCZEWSKI 74, Daniel VAN BUYTEN 79 (both Marseille)]

@@ -4,6 +4,8 @@
 import datetime
 
 l = [
+
+    # England
     {
         'name': 'Manchester United',
         'founded': 1878,
@@ -16,29 +18,6 @@ l = [
         'city': 'Oldham, England',
         },
 
-    {
-        'name': 'Braga',
-        'founded': datetime.datetime(1921, 1, 19),
-        'city': 'Braga, Portugal',
-        },
-
-    {
-        'name': 'Trofense',
-        'founded': datetime.datetime(1930, 9, 28),
-        'city': 'Trofa, Portugal',
-        },
-
-    {
-        'name': 'Leixões',
-        'founded': 1907,
-        'city': 'Matosinhos, Portugal',
-        },
-
-    {
-        'name': 'TSV 1860 Rosenheim',
-        'founded': 1860,
-        'city': 'Rosenheim, Germany',
-        },
 
     {
         'name': 'Exeter City',
@@ -50,65 +29,6 @@ l = [
         'name': 'Bradford City',
         'founded': 1903,
         'city': 'Bradford, England',
-        },
-
-    {
-        'name': 'Fayal SC',
-        'city': 'Faial, Spain',
-        },
-
-    {
-        'name': 'Palermo',
-        'founded': 1900,
-        'city': 'Palermo, Italy',
-        },
-
-    {
-        'name': 'TSV Malente',
-        'city': 'Malente, Germany',
-        },
-
-    {
-        'name': 'TuS Mayen',
-        'founded': 1886,
-        'city': 'Mayene, Germany',
-        },
-
-
-    {
-        'name': 'Spartak Trnava',
-        'founded': datetime.datetime(1923, 5, 30),
-        'city': 'Trnava, Slovakia',
-        },
-
-    {
-        'name': 'Austria Wien',
-        'founded': datetime.datetime(1911, 3, 12),
-        'city': 'Vienna, Austria',
-        },
-
-    {
-        'name': 'CU Micaelense',
-        'founded': 1911,
-        'city': 'Ponta Delgada, Portugal',
-        },
-
-    {
-        'name': 'S.C. Caldas',
-        'founded': 1916,
-        'city': 'Caldas da Rainha, Portugal',
-        },
-
-    {
-        'name': 'Cardiff City',
-        'founded': 1889,
-        'city': 'Cardiff, Wales',
-        },
-
-    {
-        'name': 'AIK Fotboll',
-        'founded': datetime.datetime(1891, 2, 15),
-        'city': 'Stockholm, Sweden',
         },
 
 
@@ -125,6 +45,452 @@ l = [
         'founded': 1875,
         'city': 'Birmingham, England',
         },
+
+    {
+        'name': 'Sheffield United',
+        'founded': datetime.datetime(1889, 3, 22),
+        'city': 'Sheffield, England',
+        },
+
+    {
+        'name': 'Newcastle United',
+        'founded': datetime.datetime(1892, 12, 9),
+        'city': 'Newcastle, England',
+        },
+
+    {
+        'name': 'Fulham F.C.',
+        'founded': datetime.datetime(1879, 8, 16),
+        'city': 'Fulham, England,'
+        },
+
+    {
+        'name': 'Huddersfield Town',
+        'founded': datetime.datetime(1908, 8, 15),
+        'city': 'Huddersfield, England',
+        },
+
+    {
+        'name': 'Ipswich Town F.C.',
+        'founded': 1878,
+        'city': 'Ipswich, England',
+        },
+
+    {
+        'name': 'Blackburn Rovers',
+        'founded': 1875,
+        'city': 'Blackburn, England',
+        },
+
+    {
+        'name': 'Burnley FC',
+        'founded': 1882,
+        'city': 'Burnley, England',
+        },
+
+    {
+        'name': 'Everton',
+        'founded': 1878,
+        'city': 'Liverpool, England',
+        },
+
+    {
+        'name': 'Fulham',
+        'founded': datetime.datetime(1879, 8, 16),
+        'city': 'London, England',
+        },
+
+
+    {
+        'name': 'Norwich City F.C.',
+        'founded': datetime.datetime(1902, 6, 17),
+        'city': 'Norwich, England',
+        },
+
+    {
+        'name': 'Walsall F.C.',
+        'founded': 1888,
+        'city': 'Walsall, England',
+        },
+
+
+    {
+        'name': 'West Bromwich Albion',
+        'founded': 1878,
+        'city': 'West Bromwich, England',
+        },
+
+
+    {
+        'name': 'West Ham United',
+        'founded': 1895,
+        'city': 'London, England',
+        },
+
+
+
+    {
+        'name': 'Upton Park F.C.',
+        'founded': 1866,
+        'dissolved': 1911,
+        'city': 'London, England',
+        },
+
+
+    {
+        'name': 'Macclesfield Town F.C.',
+        'founded': 1874,
+        'city': 'Macclesfield, England',
+        },
+
+    {
+        'name': 'Charlton Athletic',
+        'founded': 1905,
+        'city': 'London, England',
+        },
+
+
+    {
+        'name': 'Hull City',
+        'founded': 1904,
+        'city': 'Kingston upon Hull, England',
+        },
+
+    {
+        'name': 'Barnsley',
+        'founded': 1887,
+        'city': 'Barnsley, England',
+        },
+
+    
+    {
+        'name': 'Swansea City',
+        'founded': 1912,
+        'city': 'Swansea, England',
+        },
+
+    {
+        'name': 'Reading',
+        'founded': 1871,
+        'city': 'Reading, England',
+        },
+
+
+    {
+        'name': 'Bangor City F.C.',
+        'founded': 1876,
+        'city': 'Bangor, England',
+        },
+
+    {
+        'name': 'Watford',
+        'founded': 1881,
+        'city': 'Hertfordshire, England',
+        },
+
+    {
+        'name': 'Wigan Athletic F.C.',
+        'founded': 1932,
+        'city': 'Wigan, England',
+        },
+
+    {
+        'name': 'Sunderland A.F.C.',
+        'founded': 1879,
+        'city': 'Sunderland, England',
+        },
+
+    {
+        'name': 'Wycombe Wanderers',
+        'founded': 1887,
+        'city': 'High Wycombe, England',
+        },
+    {
+        'name': 'Sheffield Wednesday',
+        'founded': 1867,
+        'city': 'Sheffield, England',
+        },
+    {
+        'name': 'VfL Bochum',
+        'founded': 1848,
+        'city': 'Bochum, England',
+        },
+
+    {
+        'name': 'Southampton F.C.',
+        'founded': 1979,
+        'city': 'Southampton, England',
+        },
+
+    {
+        'name': 'Bolton Wanderers',
+        'founded': 1874,
+        'city': 'Horwich, England',
+        },
+
+
+    {
+        'name': 'Arsenal',
+        'founded': 1886,
+        'city': 'London, England',
+        },
+
+    {
+        'name': 'Plymouth Argyle F.C.',
+        'founded': 1886,
+        'city': 'Plymouth, England',
+        },
+
+
+    {
+        'name': 'Chelsea FC',
+        'founded': datetime.datetime(1905, 3, 10),
+        'city': 'London, England',
+        },
+
+    {
+        'name': 'Coventry City FC',
+        'founded': datetime.datetime(1883, 8, 13),
+        'city': 'Coventry, England',
+        },
+
+    {
+        'name': 'Stockport County F.C.',
+        'founded': 1883,
+        'city': 'Stockport, England',
+        },
+
+
+    {
+        'name': 'Blackpool F.C.',
+        'founded': datetime.datetime(1887, 7, 26),
+        'city': 'Blackpool, England',
+        },
+
+
+    {
+        'name': 'Workington A.F.C.',
+        'founded': 1921,
+        'city': 'Workington, England',
+        },
+    {
+        'name': 'Portsmouth F.C.',
+        'founded': 1898,
+        'city': 'Portsmouth, England',
+        },
+    {
+        'name': 'Port Vale F.C.',
+        'founded': 1876,
+        'city': 'Burslem, England',
+        },
+
+    {
+        'name': 'Middlesbrough F.C.',
+        'founded': 1876,
+        'city': 'Middlesbrough, England',
+        },
+    {
+        'name': 'Leicester City',
+        'founded': 1884,
+        'city': 'Leicester, England',
+        },
+    {
+        'name': 'Shrewsbury Town',
+        'founded': 1886,
+        'city': 'New Meadow, England',
+        },
+    {
+        'name': 'Derby County',
+        'founded': datetime.datetime(1884, 2, 5),
+        'city': 'Derby, England',
+        },
+    {
+        'name': 'Lincoln City',
+        'founded': 1884,
+        'city': 'Lincoln, England',
+        },
+    {
+        'name': 'Leeds United',
+        'founded': 1919,
+        'city': 'Leeds, England',
+        },
+    {
+        'name': 'Manchester City F.C.',
+        'founded': 1880,
+        'city': 'Manchester City, England',
+        },
+    {
+        'name': 'Nottingham Forest F.C.',
+        'founded': 1865,
+        'city': 'West Bridgford, England',
+        },
+    {
+        'name': 'Luton Town F.C.',
+        'founded': datetime.datetime(1885, 4, 11),
+        'city': 'Luton, England',
+        },
+
+    {
+        'name': 'Queens Park Rangers',
+        'founded': 1882,
+        'city': 'London, England',
+        },
+
+    {
+        'name': 'Hereford United',
+        'founded': 1924,
+        'city': 'Hereford, England',
+        },
+
+
+
+
+
+
+    {
+        'name': 'Athlone Town',
+        'founded': 1887,
+        'city': 'Athlone, England',
+        },
+
+
+    {
+        'name': 'Worcester City F.C.',
+        'founded': 1902,
+        'city': 'Worcester, England',
+        },
+    {
+        'name': 'Bristol City',
+        'founded': 1897,
+        'city': 'Bristol, England',
+        },
+
+    {
+        'name': 'Aston Villa F.C.',
+        'founded': 1874,
+        'city': 'Birminghamn, England',
+        },
+
+    {
+        'name': 'Liverpool F.C.',
+        'founded': datetime.datetime(1892, 3, 15),
+        'city': 'Liverpool, England',
+        },
+
+    {
+        'name': 'Tottenham Hotspur',
+        'founded': 1882,
+        'city': 'London, England',
+        },
+
+    {
+        'name': 'Stoke City F.C.',
+        'founded': 1863,
+        'city': 'Stoke-on-Trent, England',
+        },
+
+
+    {
+        'name': 'Wolverhampton Wanderers F.C.',
+        'founded': 1877,
+        'city': 'Wolverhampton, England',
+        },
+
+    {
+        'name': 'Wisbech Town F.C.',
+        'founded': 1920,
+        'city': 'Wisbech, England',
+        },
+
+
+    {
+        'name': 'Wimbledon FC',
+        'founded': 1889,
+        'city': 'Wimbledon, England',
+        },
+
+    {
+        'name': 'King\'s Lynn F.C.',
+        'founded': 1879,
+        'dissolved': datetime.datetime(2009, 11, 25),
+        'city': 'King\'s Lynn, England',
+        },
+
+    {
+        'name': 'Ely City FC',
+        'founded': 1885,
+        'city': 'Ely, England',
+        },
+
+    {
+        'name': 'Newmarket Town F.C.',
+        'founded': datetime.datetime(1877, 11, 22),
+        'city': 'Newmarket, England',
+        },
+
+    {
+        'name': 'Peterborough United F.C.',
+        'founded': 1934,
+        'city': 'Peterborough, England',
+        },
+
+    {
+        'name': 'Barking F.C.',
+        'founded': 1880,
+        'city': 'Barking, England',
+        },
+
+    {
+        'name': 'Bromsgrove Rovers F.C.',
+        'founded': 1885,
+        'dissolved': 2010,
+        'city': 'Bromsgrove, England',
+        },
+    {
+        'name': 'Crystal Palace F.C.',
+        'founded': datetime.datetime(1905, 9, 10),
+        'city': 'South Norwood, England',
+        },
+
+    {
+        'name': 'Pegasus A.F.C.',
+        'founded': 1948,
+        'city': 'Oxford, England',
+        },
+
+    {
+        'name': 'Millwall F.C.',
+        'founded': datetime.datetime(1885, 10, 3),
+        'city': 'South Bermondsey, England',
+        },
+
+    {
+        'name': 'Swindon Town',
+        'founded': 1879,
+        'city': 'Swindon, England',
+        },
+
+
+
+    # Germany
+
+    {
+        'name': 'TSV 1860 Rosenheim',
+        'founded': 1860,
+        'city': 'Rosenheim, Germany',
+        },
+
+    {
+        'name': 'TSV Malente',
+        'city': 'Malente, Germany',
+        },
+
+    {
+        'name': 'TuS Mayen',
+        'founded': 1886,
+        'city': 'Mayene, Germany',
+        },
+
 
     {
         'name': 'Eintracht Frankfurt',
@@ -150,41 +516,511 @@ l = [
         'city': 'Stuttgart, Germany',
         },
 
+
+
+
     {
-        'name': 'Sheffield United',
-        'founded': datetime.datetime(1889, 3, 22),
-        'city': 'Sheffield, England',
+        'name': '1. FC Kaiserslautern',
+        'founded': datetime.datetime(1900, 6, 2),
+        'city': 'Kaiserslautern, Germany',
         },
 
     {
-        'name': 'Newcastle United',
-        'founded': datetime.datetime(1892, 12, 9),
-        'city': 'Newcastle, England',
+        'name': 'Mainz 05',
+        'founded': datetime.datetime(1905, 3, 16),
+        'city': 'Mainz, Germany',
         },
 
     {
-        'name': 'Fylkir',
-        'founded': datetime.datetime(1967, 5, 28),
-        'city': 'Reykjavik, Iceland',
+        'name': '1. FC Nürnberg',
+        'founded': datetime.datetime(1900, 5, 4),
+        'city': 'Nuremberg, Germany',
+        },
+
+    # Same team?????
+    {
+        'name': 'Karlsruher SC',
+        'founded': datetime.datetime(1894, 6, 6),
+        'city': 'Karlsruhe, Germany',
+        },
+    {
+        'name': 'Karlsruher FV',
+        'founded': 1891,
+        'city': 'Karlsruhe, Germany',
+        },
+
+
+
+
+    {
+        'name': 'SSV Reutlingen 05',
+        'founded': datetime.datetime(1905, 5, 9),
+        'city': 'Reutlingen, Germany',
+        },
+
+
+
+    {
+        'name': 'Preussen Munster',
+        'founded': datetime.datetime(1906, 4, 30),
+        'city': 'Munster, Germany',
         },
 
     {
-        'name': 'UMF Tindastóll',
-        'founded': 1907,
-        'city': 'Sauðárkrókur, Iceland',
+        'name': 'Fortuna Düsseldorf',
+        'founded': datetime.datetime(1895, 5, 5),
+        'city': 'Dusseldorf, Germany',
         },
 
     {
-        'name': 'Fulham F.C.',
-        'founded': datetime.datetime(1879, 8, 16),
-        'city': 'Fulham, England,'
+        'name': 'Werder Bremen',
+        'founded': datetime.datetime(1899, 2, 4),
+        'city': 'Bremen, Germany',
         },
+
+
+    {
+        'name': 'VfL Wolfsburg',
+        'founded': datetime.datetime(1945, 9, 12),
+        'city': 'Wolfsburg, Germany',
+        },
+
+
+    {
+        'name': 'Bayer Leverkusen',
+        'founded': datetime.datetime(1904, 7, 1),
+        'city': 'Leverkusen, Germany',
+        },
+
+    {
+        'name': 'Bayern Munich',
+        'founded': datetime.datetime(1900, 2, 27),
+        'city': 'Munich, Germany',
+        },
+
+    {
+        'name': '1. FC Saarbrucken',
+        'founded': 1903,
+        'city': 'Saarbrucken, Germany',
+        },
+
+    {
+        'name': 'Eintracht Braunschweig',
+        'founded': datetime.datetime(1895, 12, 15),
+        'city': 'Braunschweig, Germany',
+        },
+
+    {
+        'name': '1860 Munich',
+        'founded': datetime.datetime(1860, 5, 17),
+        'city': 'Munich, Germany',
+        },
+
+
+    {
+        'name': 'SG Egelsbach',
+        'founded': datetime.datetime(1945, 11, 10),
+        'city': 'Egelsbach, Germany',
+        },
+
+    {
+        'name': 'FC St. Pauli',
+        'founded': datetime.datetime(1910, 5, 15),
+        'city': 'St.Pauli, Germany',
+        },
+
+    {
+        'name': 'Hannover 96',
+        'founded': datetime.datetime(1896, 4, 12),
+        'city': 'Hannover, Germany',
+        },
+
+
+    {
+        'name': 'FK Pirmasens',
+        'founded': 1903,
+        'city': 'Pirmasens, Germany',
+        },
+
+
+    
+    {
+        'name': 'Hertha BSC',
+        'founded': datetime.datetime(1892, 7, 25),
+        'city': 'Berlin, Germany',
+        },
+
+    {
+        'name': 'SpVgg Unterhaching',
+        'founded': datetime.datetime(1925, 1, 1),
+        'city': 'Unterhaching, Germany',
+        },
+
+    {
+        'name': 'MSV Duisburg',
+        'founded': 1902,
+        'city': 'Duisburg, Germany',
+        },
+
+    {
+        'name': 'Hansa Rostock',
+        'founded': datetime.datetime(1965, 12, 28),
+        'city': 'Rostock, Germany',
+        },
+
+
+    {
+        'name': 'Hertha Berlin',
+        'founded': datetime.datetime(1892, 7, 25),
+        'city': 'Berlin, Germany',
+        },
+
+    {
+        'name': '1899 Hoffenheim',
+        'founded': datetime.datetime(1899, 7, 1),
+        'city': 'Hoffenheim, Germany',
+        },
+    {
+        'name': 'Tennis Borussia Berlin',
+        'founded': datetime.datetime(1902, 4, 9),
+        'city': 'Berlin, Germany',
+        },
+
+    {
+        'name': 'VfB Stuttgart',
+        'founded': datetime.datetime(1912, 4, 1),
+        'city': 'Stuttgart, Germany',
+        },
+
+    {
+        'name': 'SC Freiburg',
+        'founded': datetime.datetime(1904, 5, 30),
+        'city': 'Freiburg im Breisgau, Germany',
+        },
+
+
+
+
+
+    {
+        'name': 'VfB Oldenburg',
+        'founded': 1897,
+        'city': 'Oldenburg, Germany',
+        },
+
+    {
+        'name': 'SSV Ulm 1846',
+        'founded': 1846,
+        'city': 'Ulm, Germany',
+        },
+
+    {
+        'name': 'Borussia Dortmund',
+        'founded': datetime.datetime(1909, 12, 19),
+        'city': 'Dortmund, Germany',
+        },
+    {
+        'name': 'Borussia Mönchengladbach',
+        'founded': datetime.datetime(1900, 8, 1),
+        'city': 'Mönchengladbach, Germany',
+        },
+
+    {
+        'name': 'Rot-Weiss Essen',
+        'founded': datetime.datetime(1907, 2, 1),
+        'city': 'Essen, Germany',
+        },
+
+    {
+        'name': 'Hamburger SV',
+        'founded': datetime.datetime(1887, 9, 29),
+        'city': 'Hamburg, Germany',
+        },
+    {
+        'name': '1. FC Köln',
+        'founded': datetime.datetime(1948, 2, 13),
+        'city': 'Cologne, Germany',
+        },
+
+
+    {
+        'name': 'FC Schalke 04',
+        'founded': datetime.datetime(1904, 5, 4),
+        'city': 'Gelsenkirchen, Germany',
+        },
+
+
+    {
+        'name': 'SV Munster',
+        'founded': datetime.datetime(1946, 5, 5),
+        'city': 'Munster, Germany',
+        },
+    {
+        'name': 'VfR Heilbronn',
+        'founded': 1896,
+        'dissolved': 2003,
+        'city': 'Heilbronn, Germany',
+        },
+    {
+        'name': 'VfR Pforzheim',
+        'founded': 1897,
+        'dissolved': datetime.datetime(2010, 6, 30),
+        'city': 'Pforzheim, Germany',
+        },
+    {
+        'name': 'VfL Osnabrück',
+        'founded': 1899,
+        'city': 'Osnabruck, Germany',
+        },
+    {
+        'name': 'SpVgg Plattling',
+        'founded': 1919,
+        'city': 'Plattling, Germany',
+    
+        },
+
+
+    {
+        'name': 'TSV Ottobeuren',
+        'city': 'Ottobeuren, Germany',
+        },
+
+
+    {
+        'name': 'ASV Bergedorf',
+        'founded': datetime.datetime(1885, 3, 29),
+        'city': 'Bergedorf, Germany',
+        },
+    {
+        'name': 'VfL Marburg',
+        'founded': datetime.datetime(1860, 7, 28),
+        'city': 'Marburg, Germany',
+        },
+
+
+    {
+        'name': 'SpVgg Kaufbeuren',
+        'founded': 1909,
+        'city': 'Kaufbeuren, Germany',
+        },
+    {
+        'name': 'Energie Cottbus',
+        'founded': datetime.datetime(1966, 1, 31),
+        'city': 'Cottbus, Germany',
+        },
+
+    {
+        'name': 'Arminia Bielefeld',
+        'founded': datetime.datetime(1905, 5, 3),
+        'city': 'Bielefeld, Germany',
+        },
+    {
+        'name': 'VfL Oldesloe',
+        'founded': 1862,
+        'city': 'Bald Oldesloe, Germany',
+        },
+
+
+
+
+
+
+
+
+
+
+
+    # Slovakia
+
+    {
+        'name': 'Spartak Trnava',
+        'founded': datetime.datetime(1923, 5, 30),
+        'city': 'Trnava, Slovakia',
+        },
+
+    {
+        'name': 'FK Inter Bratislava',
+        'founded': datetime.datetime(1940, 7, 1),
+        'city': 'Bratislava, Slovakia',
+        },
+
+    {
+        'name': 'ŠK Slovan Bratislava',
+        'founded': datetime.datetime(1919, 5, 3),
+        'city': 'Bratislava, Slovakia',
+        },
+
+
+    # Wales
+
+    {
+        'name': 'Cardiff City',
+        'founded': 1889,
+        'city': 'Cardiff, Wales',
+        },
+
+    # Sweden
+
+    {
+        'name': 'AIK Fotboll',
+        'founded': datetime.datetime(1891, 2, 15),
+        'city': 'Stockholm, Sweden',
+        },
+
 
     {
         'name': 'GIF Sundsvall',
         'founded': datetime.datetime(1903, 8, 25),
         'city': 'Sundsvall, Sweden',
         },
+
+
+    {
+        'name': 'IK Brage',
+        'founded': 1925,
+        'city': 'Borlange, Sweden',
+        },
+
+    {
+        'name': 'Stabæk Fotball',
+        'founded': datetime.datetime(1912, 3, 16),
+        'city': 'Baerum, Sweden',
+        },
+
+
+    {
+        'name': 'IFK Norrkoping',
+        'founded': datetime.datetime(1897, 5, 29),
+        'city': 'Norrkoping, Sweden',
+        },
+
+    {
+        'name': 'Mjällby',
+        'founded': datetime.datetime(1939, 4, 1),
+        'city': 'Hällevik, Sweden',
+        },
+
+    {
+        'name': 'Trelleborg',
+        'founded': 1926,
+        'city': 'Trelleborg, Sweden',
+        },
+
+    {
+        'name': 'Helsingborgs IF',
+        'founded': datetime.datetime(1907, 6, 4),
+        'city': 'Helsingborg, Sweden',
+        },
+
+    {
+        'name': 'BK Häcken',
+        'founded': datetime.datetime(1940, 8, 2),
+        'city': 'Gothenburg, Sweden',
+        },
+
+    {
+        'name': 'Assyriska',
+        'founded': 1974,
+        'city': 'Södertälje, Sweden',
+        },
+
+    {
+        'name': 'Åtvidaberg',
+        'founded': datetime.datetime(1907, 7, 1),
+        'city': 'Åtvidaberg, Sweden',
+        },
+
+
+    {
+        'name': 'Örebro SK',
+        'founded': datetime.datetime(1908, 10, 28),
+        'city': 'Orebro, Sweden',
+        },
+    {
+        'name': 'Brommapojkarna',
+        'founded': 1942,
+        'city': 'Stockholm, Sweden',
+        },
+
+    {
+        'name': 'Djurgårdens IF',
+        'founded': datetime.datetime(1891, 3, 12),
+        'city': 'Stockholm, Sweden',
+        },
+
+    {
+        'name': 'Örgryte IS',
+        'founded': 1887,
+        'city': 'Gothenburg, Sweden',
+        },
+
+    {
+        'name': 'Hammarby IF',
+        'founded': datetime.datetime(1897, 4, 10),
+        'city': 'Johanneshov, Sweden',
+        },
+
+    {
+        'name': 'Gefle IF',
+        'founded': datetime.datetime(1882, 12, 5),
+        'city': 'Gavle, Sweden',
+        },
+
+    {
+        'name': 'Enköpings SK',
+        'founded': 1914,
+        'city': 'Enköping, Sweden',
+        },
+
+    {
+        'name': 'GAIS',
+        'founded': datetime.datetime(1894, 3, 11),
+        'city': 'Gothenburg, Sweden',
+        },
+
+    {
+        'name': 'Malmo FF',
+        'founded': 1910,
+        'city': 'Malmo, Sweden',
+        },
+
+    {
+        'name': 'Landskrona BoIS',
+        'founded': 1915,
+        'city': 'Landskrona, Sweden',
+        },
+
+    {
+        'name': 'IFK Göteborg',
+        'founded': datetime.datetime(1904, 10, 4),
+        'city': 'Gothenburg, Sweden',
+        },
+
+    {
+        'name': 'Kalmar FF',
+        'founded': datetime.datetime(1910, 1, 10),
+        'city': 'Kalmar, Sweden',
+        },
+
+    {
+        'name': 'IF Elfsborg',
+        'founded': datetime.datetime(1904, 6, 26),
+        'city': 'Elfsborg, Sweden',
+        },
+
+    {
+        'name': 'Öster',
+        'founded': 1930,
+        'city': 'Vaxjo, Sweden',
+        },
+
+    {
+        'name': 'Ljungskile SK',
+        'founded': 1926,
+        'city': 'Ljungskile, Sweden',
+        },
+
+    # Norway
 
     {
         'name': 'Viking FK',
@@ -272,12 +1108,6 @@ l = [
         },
 
     {
-        'name': 'IK Brage',
-        'founded': 1925,
-        'city': 'Borlange, Sweden',
-        },
-
-    {
         'name': 'Sarpsborg FK',
         'founded': datetime.datetime(1903, 5, 8),
         'city': 'Sarpsborg, Norway',
@@ -306,17 +1136,90 @@ l = [
         'city': 'Bergen, Norway',
         },
 
+    {
+        'name': 'SK Djerv 1919',
+        'founded': 1919,
+        'city': 'Haugesund, Norway',
+        },
 
     {
-        'name': 'Stabæk Fotball',
-        'founded': datetime.datetime(1912, 3, 16),
-        'city': 'Baerum, Sweden',
+        'name': 'Molde',
+        'founded': datetime.datetime(1911, 6, 19),
+        'city': 'Molde, Norway',
         },
+
     {
-        'name': 'FC Porto',
-        'founded': datetime.datetime(1893, 9, 28),
-        'city': 'Porto, Portugal',
+        'name': 'Stabæk',
+        'founded': datetime.datetime(1912, 3, 16),
+        'city': 'Bærum, Norway',
         },
+
+    {
+        'name': 'Halmstads BK',
+        'founded': 1914,
+        'city': 'Orjans Vall, Norway',
+        },
+
+    {
+        'name': 'SK Vard Haugesund',
+        'founded': 1916,
+        'city': 'Haugesund, Norway',
+        },
+
+    {
+        'name': 'Haugesund',
+        'founded': datetime.datetime(1993, 10, 28),
+        'city': 'Haugesund, Norway',
+        },
+
+
+    {
+        'name': 'FK Bodø/Glimt',
+        'founded': datetime.datetime(1916, 9, 19),
+        'city': 'Bodo, Norway',
+        },
+
+
+    {
+        'name': 'Lyn Oslo',
+        'founded': datetime.datetime(1896, 3, 3),
+        'city': 'Oslo, Norway',
+        },
+
+    {
+        'name': 'Aalesund',
+        'founded': datetime.datetime(1914, 6, 25),
+        'city': 'Alesund, Norway',
+        },
+
+    {
+        'name': 'Vålerenga',
+        'founded': datetime.datetime(1913, 7, 29),
+        'city': 'Oslo, Norway',
+        },
+
+    {
+        'name': 'Rosenborg BK',
+        'founded': datetime.datetime(1917, 5, 19),
+        'city': 'Trondheim, Norway',
+        },
+
+
+    {
+        'name': 'Fredrikstad FK',
+        'founded': datetime.datetime(1903, 4, 7),
+        'city': 'Fredrikstad, Norway',
+        },
+
+    {
+        'name': 'Mjøndalen IF',
+        'founded': datetime.datetime(1910, 8, 22),
+        'city': 'Mjøndalen, Norway',
+        },
+
+
+
+    # Netherlands
 
     {
         'name': 'FC Volendam',
@@ -383,54 +1286,131 @@ l = [
         'founded': datetime.datetime(1967, 5, 10),
         'city': 'Alkmaar, Netherlands',
         },
+
     {
-        'name': 'IFK Norrkoping',
-        'founded': datetime.datetime(1897, 5, 29),
-        'city': 'Norrkoping, Sweden',
+        'name': 'AFC Ajax',
+        'founded': datetime.datetime(1900, 3, 18),
+        'city': 'Amsterdam, Netherlands',
         },
 
     {
-        'name': 'Mjällby',
-        'founded': datetime.datetime(1939, 4, 1),
-        'city': 'Hällevik, Sweden',
+        'name': 'PSV Eindhoven',
+        'founded': datetime.datetime(1913, 8, 31),
+        'city': 'Eindhoven, Netherlands',
         },
 
     {
-        'name': 'Trelleborg',
-        'founded': 1926,
-        'city': 'Trelleborg, Sweden',
-        },
-
-
-    {
-        'name': '1. FC Kaiserslautern',
-        'founded': datetime.datetime(1900, 6, 2),
-        'city': 'Kaiserslautern, Germany',
+        'name': 'Feyenoord',
+        'founded': datetime.datetime(1908, 7, 19),
+        'city': 'Rotterdam, Netherlands',
         },
 
     {
-        'name': 'Mainz 05',
-        'founded': datetime.datetime(1905, 3, 16),
-        'city': 'Mainz, Germany',
+        'name': 'Sparta Rotterdam',
+        'founded': datetime.datetime(1888, 4, 1),
+        'city': 'Rotterdam, Netherlands',
+        },
+
+    
+    {
+        'name': 'SV Wageningen',
+        'city': 'Wageningen, Netherlands',
         },
 
     {
-        'name': '1. FC Nürnberg',
-        'founded': datetime.datetime(1900, 5, 4),
-        'city': 'Nuremberg, Germany',
+        'name': 'VV Steenwijk',
+        'city': 'Steenwijk, Netherlands',
+        },
+    
+    {
+        'name': 'FC Groningen',
+        'founded': datetime.datetime(1971, 6, 16),
+        'city': 'Groningen, Netherlands',
         },
 
-    # Same team?????
+    
     {
-        'name': 'Karlsruher SC',
-        'founded': datetime.datetime(1894, 6, 6),
-        'city': 'Karlsruhe, Germany',
+        'name': 'Fortuna Sittard',
+        'founded': datetime.datetime(1968, 7, 1),
+        'city': 'Sittard, Netherlands',
         },
+    
     {
-        'name': 'Karlsruher FV',
-        'founded': 1891,
-        'city': 'Karlsruhe, Germany',
+        'name': 'FC Dordrecht',
+        'founded': datetime.datetime(1883, 8, 16),
+        'city': 'Dordrecht, Netherlands',
         },
+    
+    {
+        'name': 'Telstar',
+        'founded': datetime.datetime(1963, 7, 17),
+        'city': 'Velsen, Netherlands',
+        },
+    
+    {
+        'name': 'FC Utrecht',
+        'founded': datetime.datetime(1970, 7, 1),
+        'city': 'Utrecht, Netherlands',
+        },
+
+    {
+        'name': 'Willem II',
+        'founded': datetime.datetime(1896, 8, 12),
+        'city': 'Tilburg, Netherlands',
+        },
+
+    {
+        'name': 'Roda JC',
+        'founded': datetime.datetime(1962, 6, 27),
+        'city': 'Kerkrade, Netherlands',
+        },
+
+    {
+        'name': 'VVV-Venlo',
+        'founded': datetime.datetime(1903, 2, 7),
+        'city': 'Venlo, Netherlands',
+        },
+
+    {
+        'name': 'FC Den Bosch',
+        'founded': datetime.datetime(1965, 8, 18),
+        'city': '\'s-Hertogenbosch, Netherlands',
+        },
+
+    {
+        'name': 'ADO Den Haag',
+        'founded': datetime.datetime(1905, 2, 1),
+        'city': 'The Hague, Netherlands',
+        },
+
+    {
+        'name': 'MVV Maastricht',
+        'founded': datetime.datetime(1902, 4, 2),
+        'city': 'Maastricht, Netherlands',
+        },
+
+    {
+        'name': 'Almere City FC',
+        'founded': datetime.datetime(2001, 9, 14),
+        'city': 'Almere, Netherlands',
+        },
+
+    {
+        'name': 'Helmond Sport',
+        'founded': datetime.datetime(1967, 7, 27),
+        'city': 'Helmond, Netherlands',
+        },
+
+    {
+        'name': 'NAC Breda',
+        'founded': datetime.datetime(1912, 9, 19),
+        'city': 'Breda, Netherlands',
+        },
+
+
+
+
+    # Hungary
 
     {
         'name': 'MTK Budapest',
@@ -438,11 +1418,151 @@ l = [
         'city': 'Budapest, Hungary',
         },
 
+
     {
-        'name': 'Huddersfield Town',
-        'founded': datetime.datetime(1908, 8, 15),
-        'city': 'Huddersfield, England',
+        'name': 'Ferencvaros',
+        'founded': datetime.datetime(1899, 5, 3),
+        'city': 'Budapest, Hungary',
         },
+
+    {
+        'name': 'Újpest FC',
+        'founded': datetime.datetime(1885, 6, 16),
+        'city': 'Budapest, Hungary',
+        },
+
+    {
+        'name': 'Videoton FC',
+        'founded': 1941,
+        'city': 'Székesfehérvár, Hungary',
+        },
+
+
+
+    # Greece
+
+
+
+
+    {
+        'name': 'Panionios',
+        'founded': 1890,
+        'city': 'Smyrna, Greece',
+        },
+
+
+    {
+        'name': 'AEK Athens F.C.',
+        'founded': 1924,
+        'city': 'Athens, Greece',
+        },
+
+    {
+        'name': 'Olympiakos',
+        'founded': datetime.datetime(1925, 3, 10),
+        'city': 'Piraeus, Greece',
+        },
+
+    {
+        'name': 'AEL Limassol',
+        'founded': datetime.datetime(1930, 10, 4),
+        'city': 'Limassol, Greece',
+        },
+
+    {
+        'name': 'Kallithea',
+        'founded': 1966,
+        'city': 'Kallithea, Greece',
+        },
+    {
+        'name': 'Egaleo',
+        'founded': 1931,
+        'city': 'Egaleo, Greece',
+        },
+
+    {
+        'name': 'PAOK',
+        'founded': 1926,
+        'city': 'Thessaloniki, Greece',
+        },
+
+    {
+        'name': 'Iraklis',
+        'founded': datetime.datetime(1908, 11, 29),
+        'city': 'Thessaloniki, Greece',
+        },
+
+    {
+        'name': 'Levadiakos',
+        'founded': 1961,
+        'city': 'Livadeia, Greece',
+        },
+    {
+        'name': 'Ionikos',
+        'founded': 1965,
+        'city': 'Nikaia, Greece',
+        },
+
+    {
+        'name': 'Ergotelis',
+        'founded': datetime.datetime(1929, 8, 7),
+        'city': 'Heraklion, Greece',
+        },
+
+    {
+        'name': 'Skoda Xanthi',
+        'founded': 1967,
+        'city': 'Xanthi, Greece',
+        },
+
+    {
+        'name': 'Akratitos',
+        'founded': 1963,
+        'city': 'Ano Liosia, Greece',
+        },
+
+    {
+        'name': 'Apollon Kalamarias',
+        'founded': 1926,
+        'city': 'Thessaloniki, Greece',
+        },
+
+    {
+        'name': 'Aris',
+        'founded': datetime.datetime(1914, 3, 25),
+        'city': 'Thessaloniki, Greece',
+        },
+
+    {
+        'name': 'OFI',
+        'founded': 1925,
+        'city': 'Heraklion, Greece',
+        },
+
+    {
+        'name': 'AEL 1964',
+        'founded': datetime.datetime(1964, 5, 17),
+        'city': 'Larissa, Greece',
+        },
+
+    {
+        'name': 'Asteras Tripoli',
+        'founded': 1931,
+        'city': 'Tripoli, Greece',
+        },
+
+    {
+        'name': 'PAS Giannina',
+        'founded': 1966,
+        'city': 'Ioannina, Greece',
+        },
+
+    {
+        'name': 'Kavala',
+        'founded': 1965,
+        'city': 'Kavala, Greece',
+        },
+
     {
         'name': 'Panathinaikos',
         'founded': datetime.datetime(1908, 2, 3),
@@ -461,47 +1581,11 @@ l = [
         'city': 'Serres, Greece',
         },
 
-    {
-        'name': 'SSV Reutlingen 05',
-        'founded': datetime.datetime(1905, 5, 9),
-        'city': 'Reutlingen, Germany',
-        },
-    {
-        'name': 'Shamrock Rovers',
-        'founded': 1901,
-        'city': 'Dublin, Ireland',
-        },
-    {
-        'name': 'Ipswich Town F.C.',
-        'founded': 1878,
-        'city': 'Ipswich, England',
-        },
-
-    {
-        'name': 'Blackburn Rovers',
-        'founded': 1875,
-        'city': 'Blackburn, England',
-        },
-
-    {
-        'name': 'Burnley FC',
-        'founded': 1882,
-        'city': 'Burnley, England',
-        },
 
 
-    {
-        'name': 'Dinamo Zagreb',
-        'founded': datetime.datetime(1945, 5, 9),
-        'city': 'Zagreb, Croatia',
-        },
 
-    {
-        'name': 'Dukla Prague',
-        'founded': 1948,
-        'dissolved': 1996,
-        'city': 'Prague, Czech Republic',
-        },
+
+    # Romania
 
     {
         'name': 'Dynamo Bucharest',
@@ -515,73 +1599,22 @@ l = [
         'city': 'Bucharest, Romania',
         },
 
-    {
-        'name': 'Everton',
-        'founded': 1878,
-        'city': 'Liverpool, England',
-        },
-
-    {
-        'name': 'Fulham',
-        'founded': datetime.datetime(1879, 8, 16),
-        'city': 'London, England',
-        },
 
 
-    {
-        'name': 'Preussen Munster',
-        'founded': datetime.datetime(1906, 4, 30),
-        'city': 'Munster, Germany',
-        },
-
-    {
-        'name': 'Fortuna Düsseldorf',
-        'founded': datetime.datetime(1895, 5, 5),
-        'city': 'Dusseldorf, Germany',
-        },
-
-    {
-        'name': 'Werder Bremen',
-        'founded': datetime.datetime(1899, 2, 4),
-        'city': 'Bremen, Germany',
-        },
 
 
-    {
-        'name': 'VfL Wolfsburg',
-        'founded': datetime.datetime(1945, 9, 12),
-        'city': 'Wolfsburg, Germany',
-        },
 
 
-    {
-        'name': 'Panionios',
-        'founded': 1890,
-        'city': 'Smyrna, Greece',
-        },
 
-    {
-        'name': 'FC Locarno',
-        'founded': 1906,
-        'city': 'Locarno, Switzerland',
-        },
 
-    {
-        'name': 'FC Stade Lausanne',
-        'city': 'Lausanne, Switzerland',
-        },
 
-    {
-        'name': 'Norwich City F.C.',
-        'founded': datetime.datetime(1902, 6, 17),
-        'city': 'Norwich, England',
-        },
 
-    {
-        'name': 'Walsall F.C.',
-        'founded': 1888,
-        'city': 'Walsall, England',
-        },
+
+
+
+    # Israel
+
+
 
     {
         'name': 'Maccabi Ironi Ashdod',
@@ -591,17 +1624,20 @@ l = [
         },
 
     {
-        'name': 'Bayer Leverkusen',
-        'founded': datetime.datetime(1904, 7, 1),
-        'city': 'Leverkusen, Germany',
+        'name': 'Hapoel Petah Tikva F.C.',
+        'founded': 1934,
+        'city': 'Petah Tikva, Israel',
         },
+
 
     {
-        'name': 'Bayern Munich',
-        'founded': datetime.datetime(1900, 2, 27),
-        'city': 'Munich, Germany',
+        'name': 'Hapoel Tel Aviv F.C.',
+        'founded': datetime.datetime(1927, 5, 31),
+        'city': 'Tel Aviv, Israel',
         },
 
+
+    # Croatia
 
     {
         'name': 'Hajduk Split',
@@ -610,124 +1646,56 @@ l = [
         },
 
     {
+        'name': 'Dinamo Zagreb',
+        'founded': datetime.datetime(1945, 5, 9),
+        'city': 'Zagreb, Croatia',
+        },
+
+    # Northern Ireland
+
+    {
         'name': 'Glenavon FC',
         'founded': 1889,
         'city': 'Lurgan, Northern Ireland',
         },
 
     {
-        'name': 'Helsingborgs IF',
-        'founded': datetime.datetime(1907, 6, 4),
-        'city': 'Helsingborg, Sweden',
+        'name': 'Glentoran',
+        'founded': 1882,
+        'city': 'Belfast, Northern Ireland',
+        },
+    {
+        'name': 'Coleraine F.C.',
+        'founded': 1927,
+        'city': 'Coleraine, Northern Ireland',
+        },
+    {
+        'name': 'Ards F.C.',
+        'founded': 1900,
+        'city': 'Newtownards, Northern Ireland',
+        },
+    {
+        'name': 'Linfield F.C.',
+        'founded': 1886,
+        'city': 'Belfast, Northern Ireland',
+        },
+    {
+        'name': 'Larne F.C.',
+        'founded': 1889,
+        'city': 'Larne, Northern Ireland',
         },
 
+    # Serbia
     {
         'name': 'Red Star Belgrade',
         'founded': datetime.datetime(1945, 3, 4),
         'city': 'Belgrade, Serbia',
         },
 
-
-
     {
-        'name': 'Real Oviedo',
-        'founded': datetime.datetime(1926, 3, 26),
-        'city': 'Oviedo, Spain',
-        },
-
-    {
-        'name': 'Rayo Vallecano',
-        'founded': 1924,
-        'city': 'Madrid, Spain',
-        },
-
-    {
-        'name': 'SD Compostela',
-        'founded': 1962,
-        'city': 'Santiago de Compostela, Spain',
-        },
-
-    {
-        'name': 'Celta Vigo',
-        'founded': datetime.datetime(1923, 8, 23),
-        'city': 'Vigo, Spain',
-        },
-
-    {
-        'name': 'Mallorca',
-        'founded': 1916,
-        'city': 'Palma, Spain',
-        },
-
-    {
-        'name': 'Real Betis',
-        'founded': datetime.datetime(1907, 9, 12),
-        'city': 'Seville, Spain',
-        },
-
-    {
-        'name': 'Recreativo Huelva',
-        'founded': 1889,
-        'city': 'Huelva, Spain',
-        },
-
-    {
-        'name': 'Athletic Bilbao',
-        'founded': 1898,
-        'city': 'Bilbao, Spain',
-        },
-
-    {
-        'name': 'Getafe',
-        'founded': 1983,
-        'city': 'Getafe, Spain',
-        },
-
-    {
-        'name': 'Numancia',
-        'founded': 1945,
-        'city': 'Soria, Spain',
-        },
-
-    {
-        'name': 'Almería',
-        'founded': 1989,
-        'city': 'Almeria, Spain',
-        },
-
-    {
-        'name': 'West Bromwich Albion',
-        'founded': 1878,
-        'city': 'West Bromwich, England',
-        },
-
-
-    {
-        'name': 'West Ham United',
-        'founded': 1895,
-        'city': 'London, England',
-        },
-
-
-
-    {
-        'name': 'Upton Park F.C.',
-        'founded': 1866,
-        'dissolved': 1911,
-        'city': 'London, England',
-        },
-
-
-    {
-        'name': '1. FC Saarbrucken',
-        'founded': 1903,
-        'city': 'Saarbrucken, Germany',
-        },
-
-    {
-        'name': 'Eintracht Braunschweig',
-        'founded': datetime.datetime(1895, 12, 15),
-        'city': 'Braunschweig, Germany',
+        'name': 'Partizan Belgrade',
+        'founded': datetime.datetime(1945, 10, 4),
+        'city': 'Belgrade, Serbia',
         },
 
 
@@ -738,42 +1706,7 @@ l = [
         },
 
 
-    {
-        'name': '1860 Munich',
-        'founded': datetime.datetime(1860, 5, 17),
-        'city': 'Munich, Germany',
-        },
-
-    {
-        'name': 'Macclesfield Town F.C.',
-        'founded': 1874,
-        'city': 'Macclesfield, England',
-        },
-
-    {
-        'name': 'Charlton Athletic',
-        'founded': 1905,
-        'city': 'London, England',
-        },
-
-
-    {
-        'name': 'SG Egelsbach',
-        'founded': datetime.datetime(1945, 11, 10),
-        'city': 'Egelsbach, Germany',
-        },
-
-    {
-        'name': 'FC St. Pauli',
-        'founded': datetime.datetime(1910, 5, 15),
-        'city': 'St.Pauli, Germany',
-        },
-
-    {
-        'name': 'Hannover 96',
-        'founded': datetime.datetime(1896, 4, 12),
-        'city': 'Hannover, Germany',
-        },
+    # Belgium
 
     {
         'name': 'Charleroi SC',
@@ -849,10 +1782,171 @@ l = [
         'city': 'Bruges, Belgium',
         },
 
+    # Belgium
+    {
+        'name': 'Royal Antwerp F.C.',
+        'founded': 1880,
+        'city': 'Antwerp, Belgium',
+        },
 
+
+    {
+        'name': 'RSC Anderlecht',
+        'founded': datetime.datetime(1908, 5, 27),
+        'city': 'Anderlecht, Belgium',
+        },
+
+
+    {
+        'name': 'Standard Liege',
+        'founded': 1898,
+        'city': 'Liege, Belgium',
+        },
+
+    {
+        'name': 'Eupen',
+        'founded': 1945,
+        'city': 'Eupen, Belgium',
+        },
+
+    {
+        'name': 'Lierse SK',
+        'founded': datetime.datetime(1906, 3, 6),
+        'city': 'Lier, Belgium',
+        },
+
+    {
+        'name': 'Racing Genk',
+        'founded': 1988,
+        'city': 'Genk, Belgium',
+        },
+
+    {
+        'name': 'Arles-Avignon',
+        'founded': 1913,
+        'city': 'Avignon, Belgium',
+        },
+
+    {
+        'name': 'KV Mechelen',
+        'founded': 1904,
+        'city': 'Mechelen, Belgium',
+        },
+
+    {
+        'name': 'La Louviere',
+        'city': 'La Louviere, Belgium',
+        },
 
 
     # Spain
+
+    {
+        'name': 'Fayal SC',
+        'city': 'Faial, Spain',
+        },
+
+    {
+        'name': 'Real Oviedo',
+        'founded': datetime.datetime(1926, 3, 26),
+        'city': 'Oviedo, Spain',
+        },
+
+    {
+        'name': 'Rayo Vallecano',
+        'founded': 1924,
+        'city': 'Madrid, Spain',
+        },
+
+    {
+        'name': 'SD Compostela',
+        'founded': 1962,
+        'city': 'Santiago de Compostela, Spain',
+        },
+
+    {
+        'name': 'Celta Vigo',
+        'founded': datetime.datetime(1923, 8, 23),
+        'city': 'Vigo, Spain',
+        },
+
+    {
+        'name': 'Mallorca',
+        'founded': 1916,
+        'city': 'Palma, Spain',
+        },
+
+    {
+        'name': 'Real Betis',
+        'founded': datetime.datetime(1907, 9, 12),
+        'city': 'Seville, Spain',
+        },
+
+    {
+        'name': 'Recreativo Huelva',
+        'founded': 1889,
+        'city': 'Huelva, Spain',
+        },
+
+    {
+        'name': 'Athletic Bilbao',
+        'founded': 1898,
+        'city': 'Bilbao, Spain',
+        },
+
+    {
+        'name': 'Getafe',
+        'founded': 1983,
+        'city': 'Getafe, Spain',
+        },
+
+    {
+        'name': 'Numancia',
+        'founded': 1945,
+        'city': 'Soria, Spain',
+        },
+
+    {
+        'name': 'Almería',
+        'founded': 1989,
+        'city': 'Almeria, Spain',
+        },
+
+    {
+        'name': 'Cordoba CF',
+        'founded': 1954,
+        'city': 'Cordoba, Spain',
+        },
+
+    {
+        'name': 'Levante',
+        'founded': 1909,
+        'city': 'Valencia, Spain',
+        },
+
+    {
+        'name': 'Albacete',
+        'founded': 1984,
+        'city': 'Albacete, Spain',
+        },
+
+    {
+        'name': 'Real Sociedad',
+        'founded': datetime.datetime(1909, 9, 7),
+        'city': 'San Sebastian, Spain',
+        },
+
+    {
+        'name': 'Osasuna',
+        'founded': datetime.datetime(1920, 10, 24),
+        'city': 'Pamplona, Spain',
+        },
+
+    {
+        'name': 'Coria CF',
+        'founded': 1923,
+        'city': 'Coria del Rio, Spain',
+        },
 
     {
         'name': 'FC Barcelona',
@@ -878,33 +1972,151 @@ l = [
         'city': 'Valladolid, Spain',
         },
 
-    # Belgium
-    {
-        'name': 'Royal Antwerp F.C.',
-        'founded': 1880,
-        'city': 'Antwerp, Belgium',
-        },
 
-    # Netherlands
     {
-        'name': 'AFC Ajax',
-        'founded': datetime.datetime(1900, 3, 18),
-        'city': 'Amsterdam, Netherlands',
+        'name': 'Girona FC',
+        'founded': 1930,
+        'city': 'Girona, Spain',
         },
 
     {
-        'name': 'PSV Eindhoven',
-        'founded': datetime.datetime(1913, 8, 31),
-        'city': 'Eindhoven, Netherlands',
+        'name': 'Deportivo Alavés',
+        'founded': 1921,
+        'city': 'Vitoria-Gasteiz, Spain',
+        },
+
+
+
+    {
+        'name': 'Sporting de Gijon',
+        'founded': 1905,
+        'city': 'Gijon, Spain',
         },
 
     {
-        'name': 'Feyenoord',
-        'founded': datetime.datetime(1908, 7, 19),
-        'city': 'Rotterdam, Netherlands',
+        'name': 'Hercules CF',
+        'founded': 1922,
+        'city': 'Alicante, Spain',
         },
 
-    # Greece
+    {
+        'name': 'Málaga',
+        'founded': datetime.datetime(1904, 4, 3),
+        'city': 'Malaga, Spain',
+        },
+
+    {
+        'name': 'Villarreal',
+        'founded': datetime.datetime(1923, 3, 10),
+        'city': 'Villarreal, Spain',
+        },
+
+    {
+        'name': 'Real Madrid',
+        'founded': datetime.datetime(1902, 3, 6),
+        'city': 'Madrid, Spain',
+        },
+
+
+    {
+        'name': 'Deportivo La Coruña',
+        'founded': 1906,
+        'city': 'A Coruña, Spain',
+        },
+
+    {
+        'name': 'Racing de Santander',
+        'founded': 1913,
+        'city': 'Santander, Spain',
+        },
+
+    
+    {
+        'name': 'Valencia CF',
+        'founded': datetime.datetime(1919, 3, 18),
+        'city': 'Valencia, Spain',
+        },
+
+
+    {
+        'name': 'Real Zaragoza',
+        'founded': datetime.datetime(1932, 3, 18),
+        'city': 'Zaragoza, Spain',
+        },
+
+    {
+        'name': 'Real Murcia',
+        'founded': 1908,
+        'city': 'Murcia, Spain',
+        },
+    {
+        'name': 'Rabo de Peixe',
+        'founded': 1985,
+        'city': 'Rabo de Peixe, Spain',
+        },
+
+    {
+        'name': 'Atlético Madrid',
+        'founded': datetime.datetime(1903, 4, 26),
+        'city': 'Madrid, Spain',
+        },
+
+    {
+        'name': 'CF Extremadura',
+        'founded': 1924,
+        'dissolved': 2010,
+        'city': 'Almendralejo, Spain',
+        },
+
+
+
+    {
+        'name': 'Cádiz',
+        'founded': 1910,
+        'city': 'Cádiz, Spain',
+        },
+
+
+    {
+        'name': 'Tenerife',
+        'city': 'Santa Cruz de Tenerife, Spain',
+        'founded': 1912,
+        },
+
+    {
+        'name': 'Xerez',
+        'city': 'Jerez de la Frontera, Spain',
+        'founded': 1947,
+        },
+
+
+    {
+        'name': 'Sevilla FC',
+        'founded': datetime.datetime(1905, 10, 14),
+        'city': 'Seville, Spain',
+        },
+
+    {
+        'name': 'UD Salamanca',
+        'founded': 1923,
+        'dissolved': 2013,
+        'city': 'Salamanca, Spain',
+        },
+
+
+
+    {
+        'name': 'RSD Alcalá',
+        'founded': 1929,
+        'city': 'Alcala de Henares, Spain',
+        },
+
+
+
+
+
+
+    # Cyprus
     {
         'name': 'Apollon Limassol',
         'founded': datetime.datetime(1954, 4, 14),
@@ -930,13 +2142,16 @@ l = [
         },
 
 
+    # Austria
+
+
     {
-        'name': 'AEK Athens F.C.',
-        'founded': 1924,
-        'city': 'Athens, Greece',
+        'name': 'Austria Wien',
+        'founded': datetime.datetime(1911, 3, 12),
+        'city': 'Vienna, Austria',
         },
 
-    # Austria
+
     {
         'name': 'Rapid Vienna',
         'founded': 1899,
@@ -954,8 +2169,51 @@ l = [
         'founded': 1933,
         'city': 'Salzburg, Austria',
         },
+
+
+    {
+        'name': 'Wiener Neustadt',
+        'founded': datetime.datetime(2008, 5, 19),
+        'city': 'Wiener Neustadt, Austria',
+        },
+
+    {
+        'name': 'LASK Linz',
+        'founded': datetime.datetime(1908, 8, 7),
+        'city': 'Linz, Austria',
+        },
+
+    {
+        'name': 'FC Pasching',
+        'founded': datetime.datetime(2007, 5, 16),
+        'city': 'Pasching, Austria',
+        },
+
+    {
+        'name': 'SV Mattersburg',
+        'founded': 1922,
+        'city': 'Mattersburg, Austria',
+        },
+
+    {
+        'name': 'SV Schwechat',
+        'founded': 1903,
+        'city': 'Schwechat, Austria',
+        },
+
     
     # Switzerland
+
+    {
+        'name': 'FC Locarno',
+        'founded': 1906,
+        'city': 'Locarno, Switzerland',
+        },
+
+    {
+        'name': 'FC Stade Lausanne',
+        'city': 'Lausanne, Switzerland',
+        },
     {
         'name': 'Grasshoppers',
         'founded': datetime.datetime(1886, 9, 1),
@@ -969,22 +2227,102 @@ l = [
         },
 
     {
-        'name': 'Boavista',
-        'founded': 1903,
-        'city': 'Porto, Portugal',
+        'name': 'FC Birsfelden',
+        'founded': datetime.datetime(1920, 7, 1),
+        'city': 'Basel, Switzerland',
         },
 
     {
-        'name': 'Ferencvaros',
-        'founded': datetime.datetime(1899, 5, 3),
-        'city': 'Budapest, Hungary',
+        'name': 'FC Sion',
+        'founded': 1909,
+        'city': 'Sion, Switzerland',
+        },
+
+
+
+
+    {
+        'name': 'St. Gallen',
+        'founded': datetime.datetime(1879, 4, 19),
+        'city': 'St. Gallen, Switzerland',
         },
 
     {
-        'name': 'Újpest FC',
-        'founded': datetime.datetime(1885, 6, 16),
-        'city': 'Budapest, Hungary',
+        'name': 'Neuchâtel Xamax',
+        'founded': 1970,
+        'city': 'Neuchâtel, Switzerland',
         },
+
+    {
+        'name': 'Vaduz',
+        'founded': 1932,
+        'city': 'Vaduz, Liechtenstein',
+        },
+
+    {
+        'name': 'Bellinzona',
+        'founded': 1904,
+        'dissolved': 2013,
+        'city': 'Bellinzona, Switzerland',
+        },
+
+
+    {
+        'name': 'Basel',
+        'founded': datetime.datetime(1893, 11, 15),
+        'city': 'Basel, Switzerland',
+        },
+
+
+    {
+        'name': 'Neuchâtel Xamax',
+        'founded': 1970,
+        'city': 'Neuchâtel, Switzerland',
+        },
+    {
+        'name': 'FC Zurich',
+        'founded': 1896,
+        'city': 'Zurich, Switzerland',
+        },
+
+
+    {
+        'name': 'FC Swarovski Tirol',
+        'founded': 1986,
+        'dissolved': 1992,
+        'city': 'Innsbruck, Switzerland',
+        },
+
+
+    {
+        'name': 'Aarau',
+        'founded': 1902,
+        'city': 'Aarau, Switzerland',
+        },
+
+    {
+        'name': 'Thun',
+        'founded': 1898,
+        'city': 'Thun, Switzerland',
+        },
+
+    {
+        'name': 'Luzern',
+        'founded': datetime.datetime(1901, 8, 12),
+        'city': 'Lucerne, Switzerland',
+        },
+
+
+    # Czech Republic
+
+
+    {
+        'name': 'Dukla Prague',
+        'founded': 1948,
+        'dissolved': 1996,
+        'city': 'Prague, Czech Republic',
+        },
+
 
     {
         'name': 'Slavia Prague',
@@ -999,22 +2337,12 @@ l = [
         },
 
     {
-        'name': 'Sparta Rotterdam',
-        'founded': datetime.datetime(1888, 4, 1),
-        'city': 'Rotterdam, Netherlands',
-        },
-
-    {
-        'name': 'FK Pirmasens',
-        'founded': 1903,
-        'city': 'Pirmasens, Germany',
-        },
-
-    {
         'name': 'SSK Vitkovice',
         'founded': 1919,
         'city': 'Vitkovice, Czech Republic',
         },
+
+    # Turkey
 
     {
         'name': 'Besiktas',
@@ -1173,10 +2501,24 @@ l = [
         'city': 'Gaziantep, Turkey',
         },
 
+    # Italy
+
+    {
+        'name': 'Palermo',
+        'founded': 1900,
+        'city': 'Palermo, Italy',
+        },
+
     {
         'name': 'Udinese',
         'founded': 1896,
         'city': 'Udine, Italy',
+        },
+
+    {
+        'name': 'Salernitana',
+        'founded': 1919,
+        'city': 'Salerno, Italy',
         },
 
     {
@@ -1189,149 +2531,6 @@ l = [
         'name': 'Triestina',
         'founded': 1918,
         'city': 'Trieste, Italy',
-        },
-
-    {
-        'name': 'Dynamo Kiev',
-        'founded': datetime.datetime(1927, 5, 13),
-        'city': 'Kiev, Ukraine',
-        },
-
-
-
-
-    # Portugal
-    {
-        'name': 'Académica de Coimbra',
-        'founded': 1876,
-        'city': 'Coimbra, Portugal',
-        },
-
-    {
-        'name': 'Aves',
-        'founded': datetime.datetime(1930, 11, 12),
-        'city': 'Villa das Aves, Portugal',
-        },
-
-    {
-        'name': 'Olhanense',
-        'founded': 1912,
-        'city': 'Algarve, Portugal',
-        },
-
-    {
-        'name': 'S.L. Benfica',
-        'founded': datetime.datetime(1904, 2, 28),
-        'city': 'Lisbon, Portugal',
-        },
-
-    {
-        'name': 'A.C. Marinhense',
-        'founded': 1923,
-        'city': 'Marinha Grande, Portugal',
-        },
-
-    {
-        'name': 'C.S. Maritimo',
-        'founded': datetime.datetime(2010, 9, 20),
-        'city': 'Funchal, Portugal',
-        },
-
-    {
-        'name': 'C.D. Santa Clara',
-        'founded': datetime.datetime(1927, 5, 12),
-        'city': 'Ponta Delgada, Portugal',
-        },
-
-    {
-        'name': 'Deportivo La Coruña',
-        'founded': 1906,
-        'city': 'A Coruña, Spain',
-        },
-
-    {
-        'name': 'Racing de Santander',
-        'founded': 1913,
-        'city': 'Santander, Spain',
-        },
-
-    {
-        'name': 'Sporting Lisbon',
-        'founded': datetime.datetime(1906, 7, 1),
-        'city': 'Lisbon, Portugal',
-        },
-
-    {
-        'name': 'Varzim S.C.',
-        'founded': datetime.datetime(1915, 12, 25),
-        'city': 'Póvoa de Varzim, Portugal',
-        },
-
-    {
-        'name': 'União de Santarém',
-        'city': 'Santarém, Portugal',
-        },
-
-    {
-        'name': 'FC Girondins de Bordeaux',
-        'founded': 1881, 
-        'city': 'Bordeaux, France',
-        },
-
-    {
-        'name': 'Marseille',
-        'founded': 1899, 
-        'city': 'Marseille, France',
-        },
-
-    {
-        'name': 'AS Nancy',
-        'founded': 1967,
-        'city': 'Nancy, France',
-        },
-
-    {
-        'name': 'FC Lorient',
-        'founded': 1926,
-        'city': 'Lorient, France',
-        },
-
-
-
-    {
-        'name': 'FC Istres',
-        'founded': 1920,
-        'city': 'Fos-sur-Mer, France',
-        },
-
-    {
-        'name': 'AS Monaco FC',
-        'founded': datetime.datetime(1924, 8, 23),
-        'city': 'Fontvielle, Monaco',
-        },
-
-    {
-        'name': 'FC Nantes',
-        'founded': 1943,
-        'city': 'Nantes, France',
-        },
-
-    {
-        'name': 'OGC Nice',
-        'founded': 1904,
-        'city': 'Nice, France',
-        },
-
-    {
-        'name': 'Partizan Belgrade',
-        'founded': datetime.datetime(1945, 10, 4),
-        'city': 'Belgrade, Serbia',
-        },
-
-    {
-        'name': 'Paris Saint-Germain F.C.',
-        'founded': datetime.datetime(1970, 8, 12),
-        'city': 'Paris, France',
         },
 
     {
@@ -1425,25 +2624,603 @@ l = [
         'city': 'Vicenza, Italy',
         },
 
-
-
     {
-        'name': 'Videoton FC',
-        'founded': 1941,
-        'city': 'Székesfehérvár, Hungary',
+        'name': 'Empoli',
+        'founded': 1920,
+        'city': 'Empoli, Italy',
         },
 
     {
-        'name': 'Hull City',
+        'name': 'Reggina Calcio',
+        'founded': 1914,
+        'city': 'Reggio Calabria, Italy',
+        },
+    {
+        'name': 'Piacenza',
+        'founded': 1919,
+        'city': 'Piacenza, Italy',
+        },
+    {
+        'name': 'Perugia',
+        'founded': 1905,
+        'city': 'Perugia, Italy',
+        },
+
+    {
+        'name': 'US Cantazaro 1929',
+        'founded': 1929,
+        'city': 'Catanzaro, Italy',
+        },
+    {
+        'name': 'Cagliari',
+        'founded': datetime.datetime(1920, 8, 20),
+        'city': 'Cagliario, Italy',
+        },
+    {
+        'name': 'Lecce',
+        'founded': datetime.datetime(1908, 3, 15),
+        'city': 'Lecce, Italy',
+        },
+
+    {
+        'name': 'Lazio',
+        'founded': datetime.datetime(1900, 1, 9),
+        'city': 'Rome, Italy',
+        },
+
+    {
+        'name': 'Brescia Calcio', 
+        'founded': 1911,
+        'city': 'Brescia, Italy',
+        },
+
+    {
+        'name': 'Juventus',
+        'founded': datetime.datetime(1897, 11, 1),
+        'city': 'Turin, Italy',
+        },
+
+    {
+        'name': 'AC Reggiana 1919',
+        'founded': 1919,
+        'city': 'Reggiana, Italy',
+        },
+
+    {
+        'name': 'Verona',
+        'founded': 1903,
+        'city': 'Verona, Italy',
+        },
+
+    {
+        'name': 'Atalanta',
+        'founded': 1907,
+        'city': 'Bergamo, Italy',
+        },
+
+    {
+        'name': 'Torino FC',
+        'founded': 1906,
+        'city': 'Turin, Italy',
+        },
+
+    {
+        'name': 'Chievo',
+        'founded': 1929,
+        'city': 'Chievo, Italy',
+        },
+
+    {
+        'name': 'Como',
+        'founded': 1907,
+        'city': 'Como, Italy',
+        },
+
+    {
+        'name': 'Siena',
         'founded': 1904,
-        'city': 'Kingston upon Hull, England',
+        'city': 'Siena, Italy',
         },
 
     {
-        'name': 'Barnsley',
-        'founded': 1887,
-        'city': 'Barnsley, England',
+        'name': 'Ancona',
+        'founded': 1905,
+        'city': 'Ancona, Italy',
         },
+
+    {
+        'name': 'Messina',
+        'founded': 1900,
+        'city': 'Messina, Italy',
+        },
+
+    {
+        'name': 'Ascoli',
+        'founded': 1898,
+        'city': 'Ascoli Piceno, Italy',
+        },
+
+    {
+        'name': 'Treviso',
+        'founded': 1909,
+        'city': 'Treviso, Italy',
+        },
+
+    {
+        'name': 'Catania',
+        'founded': 1908,
+        'city': 'Catania, Italy',
+        },
+
+
+    {
+        'name': 'Cesena',
+        'founded': 1940,
+        'city': 'Cesena, Italy',
+        },
+
+
+    {
+        'name': 'Avellino',
+        'founded': 1912,
+        'city': 'Aveillino, Italy',
+        },
+
+
+    # Ukraine
+
+
+    {
+        'name': 'Dynamo Kiev',
+        'founded': datetime.datetime(1927, 5, 13),
+        'city': 'Kiev, Ukraine',
+        },
+
+    # Belarus
+
+    {
+        'name': 'Dinamo Minsk',
+        'founded': datetime.datetime(1927, 6, 18),
+        'city': 'Minsk, Belarus',
+        },
+
+
+
+
+
+
+    # Portugal
+
+
+    {
+        'name': 'CU Micaelense',
+        'founded': 1911,
+        'city': 'Ponta Delgada, Portugal',
+        },
+
+    {
+        'name': 'S.C. Caldas',
+        'founded': 1916,
+        'city': 'Caldas da Rainha, Portugal',
+        },
+
+    {
+        'name': 'FC Porto',
+        'founded': datetime.datetime(1893, 9, 28),
+        'city': 'Porto, Portugal',
+        },
+
+    {
+        'name': 'Boavista',
+        'founded': 1903,
+        'city': 'Porto, Portugal',
+        },
+
+
+    {
+        'name': 'Braga',
+        'founded': datetime.datetime(1921, 1, 19),
+        'city': 'Braga, Portugal',
+        },
+
+    {
+        'name': 'Trofense',
+        'founded': datetime.datetime(1930, 9, 28),
+        'city': 'Trofa, Portugal',
+        },
+
+    {
+        'name': 'Leixões',
+        'founded': 1907,
+        'city': 'Matosinhos, Portugal',
+        },
+
+
+    {
+        'name': 'Académica de Coimbra',
+        'founded': 1876,
+        'city': 'Coimbra, Portugal',
+        },
+
+    {
+        'name': 'Aves',
+        'founded': datetime.datetime(1930, 11, 12),
+        'city': 'Villa das Aves, Portugal',
+        },
+
+    {
+        'name': 'Olhanense',
+        'founded': 1912,
+        'city': 'Algarve, Portugal',
+        },
+
+    {
+        'name': 'S.L. Benfica',
+        'founded': datetime.datetime(1904, 2, 28),
+        'city': 'Lisbon, Portugal',
+        },
+
+    {
+        'name': 'A.C. Marinhense',
+        'founded': 1923,
+        'city': 'Marinha Grande, Portugal',
+        },
+
+    {
+        'name': 'C.S. Maritimo',
+        'founded': datetime.datetime(2010, 9, 20),
+        'city': 'Funchal, Portugal',
+        },
+
+    {
+        'name': 'C.D. Santa Clara',
+        'founded': datetime.datetime(1927, 5, 12),
+        'city': 'Ponta Delgada, Portugal',
+        },
+
+    {
+        'name': 'Sporting Lisbon',
+        'founded': datetime.datetime(1906, 7, 1),
+        'city': 'Lisbon, Portugal',
+        },
+
+    {
+        'name': 'Varzim S.C.',
+        'founded': datetime.datetime(1915, 12, 25),
+        'city': 'Póvoa de Varzim, Portugal',
+        },
+
+    {
+        'name': 'União de Santarém',
+        'city': 'Santarém, Portugal',
+        },
+
+    {
+        'name': 'C.F. Os Belenenses',
+        'founded': datetime.datetime(1919, 9, 23),
+        'city': 'Lisbon, Portugal',
+        },
+
+    {
+        'name': 'Beira-Mar',
+        'founded': 1922,
+        'city': 'Aveiro, Portugal',
+        },
+
+    {
+        'name': 'Clube Oriental de Lisboa',
+        'founded': 1946,
+        'city': 'Lisbon, Portugal',
+        },
+
+    {
+        'name': 'UD Leiria',
+        'founded': 1966,
+        'city': 'Leiria, Portugal',
+        },
+
+    {
+        'name': 'Feirense',
+        'founded': datetime.datetime(1918, 3, 19),
+        'city': 'Santa Maria da Feira, Portugal',
+        },
+
+    {
+        'name': 'Salgueiros',
+        'founded': datetime.datetime(1911, 12, 8),
+        'city': 'Paranhos, Portugal',
+        },
+
+    {
+        'name': 'Paços de Ferreira',
+        'founded': 1950,
+        'city': 'Paços de Ferreira, Portugal',
+        },
+
+    {
+        'name': 'Vitória de Setúbal',
+        'founded': datetime.datetime(1910, 11, 20),
+        'city': 'Setubal, Portugal',
+        },
+
+    {
+        'name': 'Gil Vicente',
+        'founded': 1924,
+        'city': 'Barcelos, Portugal',
+        },
+
+    {
+        'name': 'Farense',
+        'founded': datetime.datetime(1910, 4, 1),
+        'city': 'Faro, Portugal',
+        },
+
+    {
+        'name': 'Alverca',
+        'founded': datetime.datetime(1939, 9, 1),
+        'city': 'Alverca do Ribatejo, Portugal',
+        },
+
+    {
+        'name': 'Vitória de Guimarães',
+        'founded': 1922,
+        'city': 'Guimaraes, Portugal',
+        },
+
+    {
+        'name': 'Moreirense',
+        'founded': 1938, 
+        'city': 'Moreira de Cónegos, Portugal',
+        },
+    {
+        'name': 'Rio Ave',
+        'founded': 1939, 
+        'city': 'Vila do Conde, Portugal',
+        },
+
+    {
+        'name': 'Estoril',
+        'founded': datetime.datetime(1939, 5, 17),
+        'city': 'Estoril, Portugal',
+        },
+
+    {
+        'name': 'Estrela da Amadora',
+        'founded': 1932, 
+        'city': 'Jose Gomes, Portugal',
+        },
+
+    {
+        'name': 'Penafiel',
+        'founded': datetime.datetime(1951, 2, 8), 
+        'city': 'Penafiel, Portugal',
+        },
+
+
+    # Francen
+
+
+    {
+        'name': 'FC Girondins de Bordeaux',
+        'founded': 1881, 
+        'city': 'Bordeaux, France',
+        },
+
+    {
+        'name': 'Marseille',
+        'founded': 1899, 
+        'city': 'Marseille, France',
+        },
+
+    {
+        'name': 'AS Nancy',
+        'founded': 1967,
+        'city': 'Nancy, France',
+        },
+
+    {
+        'name': 'FC Lorient',
+        'founded': 1926,
+        'city': 'Lorient, France',
+        },
+
+
+    {
+        'name': 'FC Istres',
+        'founded': 1920,
+        'city': 'Fos-sur-Mer, France',
+        },
+
+    {
+        'name': 'AS Monaco FC',
+        'founded': datetime.datetime(1924, 8, 23),
+        'city': 'Fontvielle, Monaco',
+        },
+
+    {
+        'name': 'FC Nantes',
+        'founded': 1943,
+        'city': 'Nantes, France',
+        },
+
+    {
+        'name': 'OGC Nice',
+        'founded': 1904,
+        'city': 'Nice, France',
+        },
+
+
+    {
+        'name': 'Paris Saint-Germain F.C.',
+        'founded': datetime.datetime(1970, 8, 12),
+        'city': 'Paris, France',
+        },
+
+
+    
+    {
+        'name': 'Olympique Lyonnais',
+        'founded': 1899,
+        'city': 'Lyon, France',
+        },
+
+    
+    {
+        'name': 'Rennes',
+        'founded': 1901,
+        'city': 'Rennes, France',
+        },
+
+    {
+        'name': 'Nantes',
+        'founded': 1943,
+        'city': 'Nantes, France',
+        },
+
+    {
+        'name': 'Lens',
+        'founded': 1906,
+        'city': 'Lens, France',
+        },
+    
+    {
+        'name': 'Montpellier Herault SC',
+        'founded': 1974,
+        'city': 'Montpellier, France',
+        },
+
+    {
+        'name': 'Metz',
+        'founded': 1932,
+        'city': 'Metz, France',
+        },
+
+    {
+        'name': 'RC Strasbourg',
+        'founded': 1906,
+        'city': 'Strasbourg, France',
+        },
+
+    {
+        'name': 'Bastia',
+        'founded': 1905,
+        'city': 'Bastia, France',
+        },
+
+    {
+        'name': 'Lille OSC',
+        'founded': datetime.datetime(1944, 9, 23),
+        'city': 'Lille, France',
+        },
+
+    {
+        'name': 'FC Sochaux',
+        'founded': 1928,
+        'city': 'Montbeliard, France',
+        },
+
+
+
+
+    {
+        'name': 'Valenciennes FC',
+        'founded': 1913,
+        'city': 'Valenciennes, France',
+        },
+
+    {
+        'name': 'Reims',
+        'founded': 1911,
+        'city': 'Rheims, France',
+        },
+
+    {
+        'name': 'Brest',
+        'founded': 1903,
+        'city': 'Brest, France',
+        },
+
+    {
+        'name': 'Caen',
+        'founded': datetime.datetime(1913, 11, 17),
+        'city': 'Caen, France',
+        },
+
+    {
+        'name': 'Evian TG',
+        'founded': 2007,
+        'city': 'Annecy, France',
+        },
+
+
+    {
+        'name': 'Boulogne',
+        'founded': 1898,
+        'city': 'Boulogne-sur-Mer, France',
+        },
+
+
+    {
+        'name': 'Grenoble',
+        'founded': 1892,
+        'city': 'Grenoble, France',
+        },
+
+    {
+        'name': 'Lyon',
+        'founded': 1950,
+        'city': 'Lyon, France',
+        },
+
+    {
+        'name': 'Auxerre',
+        'founded': 1905,
+        'city': 'Auxerre, France',
+        },
+
+    {
+        'name': 'Toulouse',
+        'founded': 1937,
+        'city': 'Toulouse, France',
+        },
+
+
+    {
+        'name': 'Ajaccio',
+        'founded': 1910,
+        'city': 'Ajaccio, France',
+        },
+
+    {
+        'name': 'Troyes',
+        'founded': 1986,
+        'city': 'Troyes, France',
+        },
+
+    {
+        'name': 'Le Mans',
+        'founded': 1903,
+        'city': 'Le Mans, France',
+        },
+
+    {
+        'name': 'Havre',
+        'founded': 1872,
+        'city': 'Havre, France',
+        },
+
+    {
+        'name': 'Saint-Étienne',
+        'founded': 1919,
+        'city': 'Saint-Étienne, France',
+        },
+
+
+
+
+
+    # Poland
+
 
     {
         'name': 'Amica Wronki',
@@ -1616,16 +3393,50 @@ l = [
         'city': 'Sosnowiec, Poland',
         },
 
+
+    # Scotland
+
+    {
+        'name': 'Motherwell',
+        'founded': datetime.datetime(1886, 5, 17),
+        'city': 'Motherwell, Scotland',
+        },
+
+    {
+        'name': 'St. Mirren',
+        'founded': 1877,
+        'city': 'Paisley, Scotland',
+        },
+
+    {
+        'name': 'Hibernian F.C.',
+        'founded': 1875,
+        'city': 'Leith, Scotland',
+        },
+
+    {
+        'name': 'Dunfermline',
+        'founded': datetime.datetime(1885, 6, 1),
+        'city': 'Dunfermline, Scotland',
+        },
+
+    {
+        'name': 'Dundee United',
+        'founded': datetime.datetime(1909, 5, 24),
+        'city': 'Dundee, Scotland',
+        },
+
+    {
+        'name': 'Dundee FC',
+        'founded': 1893,
+        'city': 'Dundee, Scotland',
+        },
+
+
     {
         'name': 'Aberdeen F.C.',
         'founded': 1903,
         'city': 'Aberdeen, Scotland',
-        },
-
-    {
-        'name': 'Dinamo Minsk',
-        'founded': datetime.datetime(1927, 6, 18),
-        'city': 'Minsk, Belarus',
         },
 
 
@@ -1656,109 +3467,17 @@ l = [
         'city': 'Kilmarnock, Scotland',
         },
     
-    {
-        'name': 'BK Häcken',
-        'founded': datetime.datetime(1940, 8, 2),
-        'city': 'Gothenburg, Sweden',
-        },
-
-    {
-        'name': 'Assyriska',
-        'founded': 1974,
-        'city': 'Södertälje, Sweden',
-        },
-
-    {
-        'name': 'Åtvidaberg',
-        'founded': datetime.datetime(1907, 7, 1),
-        'city': 'Åtvidaberg, Sweden',
-        },
 
 
+
+
+    # Denmark
     {
-        'name': 'Örebro SK',
-        'founded': datetime.datetime(1908, 10, 28),
-        'city': 'Orebro, Sweden',
-        },
-    {
-        'name': 'Brommapojkarna',
-        'founded': 1942,
-        'city': 'Stockholm, Sweden',
+        'name': 'AGF Aarhus',
+        'founded': 1880,
+        'city': 'Aarhus, Denmark',
         },
 
-    
-    {
-        'name': 'Valencia CF',
-        'founded': datetime.datetime(1919, 3, 18),
-        'city': 'Valencia, Spain',
-        },
-
-    {
-        'name': 'Real Zaragoza',
-        'founded': datetime.datetime(1932, 3, 18),
-        'city': 'Zaragoza, Spain',
-        },
-    
-    {
-        'name': 'Olympique Lyonnais',
-        'founded': 1899,
-        'city': 'Lyon, France',
-        },
-
-    
-    {
-        'name': 'Rennes',
-        'founded': 1901,
-        'city': 'Rennes, France',
-        },
-
-    {
-        'name': 'Nantes',
-        'founded': 1943,
-        'city': 'Nantes, France',
-        },
-
-    {
-        'name': 'Lens',
-        'founded': 1906,
-        'city': 'Lens, France',
-        },
-    
-    {
-        'name': 'Montpellier Herault SC',
-        'founded': 1974,
-        'city': 'Montpellier, France',
-        },
-
-    {
-        'name': 'Metz',
-        'founded': 1932,
-        'city': 'Metz, France',
-        },
-
-    {
-        'name': 'RC Strasbourg',
-        'founded': 1906,
-        'city': 'Strasbourg, France',
-        },
-
-    {
-        'name': 'Bastia',
-        'founded': 1905,
-        'city': 'Bastia, France',
-        },
-    
-    {
-        'name': 'Swansea City',
-        'founded': 1912,
-        'city': 'Swansea, England',
-        },
-
-    {
-        'name': 'Reading',
-        'founded': 1871,
-        'city': 'Reading, England',
-        },
     
     {
         'name': 'Næstved BK',
@@ -1766,1039 +3485,20 @@ l = [
         'city': 'Naestved, Denmark',
         },
 
-    {
-        'name': 'Djurgårdens IF',
-        'founded': datetime.datetime(1891, 3, 12),
-        'city': 'Stockholm, Sweden',
-        },
 
-    {
-        'name': 'Örgryte IS',
-        'founded': 1887,
-        'city': 'Gothenburg, Sweden',
-        },
-
-    {
-        'name': 'SK Djerv 1919',
-        'founded': 1919,
-        'city': 'Haugesund, Norway',
-        },
-
-    {
-        'name': 'Molde',
-        'founded': datetime.datetime(1911, 6, 19),
-        'city': 'Molde, Norway',
-        },
-
-    {
-        'name': 'Stabæk',
-        'founded': datetime.datetime(1912, 3, 16),
-        'city': 'Bærum, Norway',
-        },
-
-    {
-        'name': 'Halmstads BK',
-        'founded': 1914,
-        'city': 'Orjans Vall, Norway',
-        },
-
-    {
-        'name': 'SK Vard Haugesund',
-        'founded': 1916,
-        'city': 'Haugesund, Norway',
-        },
-
-    {
-        'name': 'Haugesund',
-        'founded': datetime.datetime(1993, 10, 28),
-        'city': 'Haugesund, Norway',
-        },
-    
-    {
-        'name': 'SV Wageningen',
-        'city': 'Wageningen, Netherlands',
-        },
-
-    {
-        'name': 'VV Steenwijk',
-        'city': 'Steenwijk, Netherlands',
-        },
-    
-    {
-        'name': 'FC Groningen',
-        'founded': datetime.datetime(1971, 6, 16),
-        'city': 'Groningen, Netherlands',
-        },
-    
-    {
-        'name': 'Hertha BSC',
-        'founded': datetime.datetime(1892, 7, 25),
-        'city': 'Berlin, Germany',
-        },
-
-    {
-        'name': 'SpVgg Unterhaching',
-        'founded': datetime.datetime(1925, 1, 1),
-        'city': 'Unterhaching, Germany',
-        },
-
-    {
-        'name': 'MSV Duisburg',
-        'founded': 1902,
-        'city': 'Duisburg, Germany',
-        },
-
-    {
-        'name': 'Hansa Rostock',
-        'founded': datetime.datetime(1965, 12, 28),
-        'city': 'Rostock, Germany',
-        },
-    
-    {
-        'name': 'Fortuna Sittard',
-        'founded': datetime.datetime(1968, 7, 1),
-        'city': 'Sittard, Netherlands',
-        },
-    
-    {
-        'name': 'FC Dordrecht',
-        'founded': datetime.datetime(1883, 8, 16),
-        'city': 'Dordrecht, Netherlands',
-        },
-    
-    {
-        'name': 'Telstar',
-        'founded': datetime.datetime(1963, 7, 17),
-        'city': 'Velsen, Netherlands',
-        },
-    
-    {
-        'name': 'FC Utrecht',
-        'founded': datetime.datetime(1970, 7, 1),
-        'city': 'Utrecht, Netherlands',
-        },
-
-    {
-        'name': 'Willem II',
-        'founded': datetime.datetime(1896, 8, 12),
-        'city': 'Tilburg, Netherlands',
-        },
-
-    {
-        'name': 'Roda JC',
-        'founded': datetime.datetime(1962, 6, 27),
-        'city': 'Kerkrade, Netherlands',
-        },
-
-    {
-        'name': 'VVV-Venlo',
-        'founded': datetime.datetime(1903, 2, 7),
-        'city': 'Venlo, Netherlands',
-        },
-
-    {
-        'name': 'FC Den Bosch',
-        'founded': datetime.datetime(1965, 8, 18),
-        'city': '\'s-Hertogenbosch, Netherlands',
-        },
-
-    {
-        'name': 'ADO Den Haag',
-        'founded': datetime.datetime(1905, 2, 1),
-        'city': 'The Hague, Netherlands',
-        },
-
-    {
-        'name': 'Bangor City F.C.',
-        'founded': 1876,
-        'city': 'Bangor, England',
-        },
-
-    {
-        'name': 'Watford',
-        'founded': 1881,
-        'city': 'Hertfordshire, England',
-        },
-
-    {
-        'name': 'MVV Maastricht',
-        'founded': datetime.datetime(1902, 4, 2),
-        'city': 'Maastricht, Netherlands',
-        },
-
-    {
-        'name': 'Wigan Athletic F.C.',
-        'founded': 1932,
-        'city': 'Wigan, England',
-        },
-
-    {
-        'name': 'Sunderland A.F.C.',
-        'founded': 1879,
-        'city': 'Sunderland, England',
-        },
-
-    {
-        'name': 'La Louviere',
-        'city': 'La Louviere, Belguim',
-        },
-
-    {
-        'name': 'FC Birsfelden',
-        'founded': datetime.datetime(1920, 7, 1),
-        'city': 'Basel, Switzerland',
-        },
-
-    {
-        'name': 'FC Sion',
-        'founded': 1909,
-        'city': 'Sion, Switzerland',
-        },
-
-
-
-
-    {
-        'name': 'Wiener Neustadt',
-        'founded': datetime.datetime(2008, 5, 19),
-        'city': 'Wiener Neustadt, Austria',
-        },
-
-    {
-        'name': 'LASK Linz',
-        'founded': datetime.datetime(1908, 8, 7),
-        'city': 'Linz, Austria',
-        },
-
-    {
-        'name': 'FC Pasching',
-        'founded': datetime.datetime(2007, 5, 16),
-        'city': 'Pasching, Austria',
-        },
-
-    {
-        'name': 'SV Mattersburg',
-        'founded': 1922,
-        'city': 'Mattersburg, Austria',
-        },
-
-    {
-        'name': 'St. Gallen',
-        'founded': datetime.datetime(1879, 4, 19),
-        'city': 'St. Gallen, Switzerland',
-        },
-
-    {
-        'name': 'Neuchâtel Xamax',
-        'founded': 1970,
-        'city': 'Neuchâtel, Switzerland',
-        },
-
-    {
-        'name': 'Vaduz',
-        'founded': 1932,
-        'city': 'Vaduz, Liechtenstein',
-        },
-
-    {
-        'name': 'Bellinzona',
-        'founded': 1904,
-        'dissolved': 2013,
-        'city': 'Bellinzona, Switzerland',
-        },
-
-
-    {
-        'name': 'Basel',
-        'founded': datetime.datetime(1893, 11, 15),
-        'city': 'Basel, Switzerland',
-        },
-
-    {
-        'name': 'Wycombe Wanderers',
-        'founded': 1887,
-        'city': 'High Wycombe, England',
-        },
-    {
-        'name': 'Sheffield Wednesday',
-        'founded': 1867,
-        'city': 'Sheffield, England',
-        },
-    {
-        'name': 'VfL Bochum',
-        'founded': 1848,
-        'city': 'Bochum, England',
-        },
-    {
-        'name': 'RSC Anderlecht',
-        'founded': datetime.datetime(1908, 5, 27),
-        'city': 'Anderlecht, Belgium',
-        },
-    {
-        'name': 'Southampton F.C.',
-        'founded': 1979,
-        'city': 'Southampton, England',
-        },
-    {
-        'name': 'Motherwell',
-        'founded': datetime.datetime(1886, 5, 17),
-        'city': 'Motherwell, Scotland',
-        },
-    {
-        'name': 'Valur FC',
-        'founded': datetime.datetime(1911, 5, 11),
-        'city': 'Reykjavik, Iceland',
-        },
-    {
-        'name': 'Lille OSC',
-        'founded': datetime.datetime(1944, 9, 23),
-        'city': 'Lille, France',
-        },
-
-    {
-        'name': 'FC Sochaux',
-        'founded': 1928,
-        'city': 'Montbeliard, France',
-        },
-    {
-        'name': 'C.F. Os Belenenses',
-        'founded': datetime.datetime(1919, 9, 23),
-        'city': 'Lisbon, Portugal',
-        },
-
-    {
-        'name': 'Beira-Mar',
-        'founded': 1922,
-        'city': 'Aveiro, Portugal',
-        },
     {
         'name': 'Viborg FF',
         'founded': 1896, 
         'city': 'Viborg, Denmark',
         },
-    {
-        'name': 'Reggina Calcio',
-        'founded': 1914,
-        'city': 'Reggio Calabria, Italy',
-        },
-    {
-        'name': 'Clube Oriental de Lisboa',
-        'founded': 1946,
-        'city': 'Lisbon, Portugal',
-        },
-    {
-        'name': 'FK Bodø/Glimt',
-        'founded': datetime.datetime(1916, 9, 19),
-        'city': 'Bodo, Norway',
-        },
-    {
-        'name': 'Real Murcia',
-        'founded': 1908,
-        'city': 'Murcia, Spain',
-        },
-    {
-        'name': 'Rabo de Peixe',
-        'founded': 1985,
-        'city': 'Rabo de Peixe, Spain',
-        },
-    {
-        'name': 'Bolton Wanderers',
-        'founded': 1874,
-        'city': 'Horwich, England',
-        },
-    {
-        'name': 'Almere City FC',
-        'founded': datetime.datetime(2001, 9, 14),
-        'city': 'Almere, Netherlands',
-        },
-
-    {
-        'name': 'Arsenal',
-        'founded': 1886,
-        'city': 'London, England',
-        },
-
-    {
-        'name': 'Plymouth Argyle F.C.',
-        'founded': 1886,
-        'city': 'Plymouth, England',
-        },
 
 
-    {
-        'name': 'US Cantazaro 1929',
-        'founded': 1929,
-        'city': 'Catanzaro, Italy',
-        },
-    {
-        'name': 'Finn Harps',
-        'founded': 1954,
-        'city': 'Ballybofey, Ireland',
-        },
-
-
-
-    {
-        'name': 'Neuchâtel Xamax',
-        'founded': 1970,
-        'city': 'Neuchâtel, Switzerland',
-        },
-    {
-        'name': 'FC Zurich',
-        'founded': 1896,
-        'city': 'Zurich, Switzerland',
-        },
-    {
-        'name': 'Chelsea FC',
-        'founded': datetime.datetime(1905, 3, 10),
-        'city': 'London, England',
-        },
-    {
-        'name': 'Hammarby IF',
-        'founded': datetime.datetime(1897, 4, 10),
-        'city': 'Johanneshov, Sweden',
-        },
-
-    {
-        'name': 'Gefle IF',
-        'founded': datetime.datetime(1882, 12, 5),
-        'city': 'Gavle, Sweden',
-        },
-
-    {
-        'name': 'Enköpings SK',
-        'founded': 1914,
-        'city': 'Enköping, Sweden',
-        },
-
-    {
-        'name': 'GAIS',
-        'founded': datetime.datetime(1894, 3, 11),
-        'city': 'Gothenburg, Sweden',
-        },
-    {
-        'name': 'Coventry City FC',
-        'founded': datetime.datetime(1883, 8, 13),
-        'city': 'Coventry, England',
-        },
-    {
-        'name': 'Hertha Berlin',
-        'founded': datetime.datetime(1892, 7, 25),
-        'city': 'Berlin, Germany',
-        },
-
-    {
-        'name': '1899 Hoffenheim',
-        'founded': datetime.datetime(1899, 7, 1),
-        'city': 'Hoffenheim, Germany',
-        },
-    {
-        'name': 'Tennis Borussia Berlin',
-        'founded': datetime.datetime(1902, 4, 9),
-        'city': 'Berlin, Germany',
-        },
-    {
-        'name': 'Hapoel Petah Tikva F.C.',
-        'founded': 1934,
-        'city': 'Petah Tikva, Israel',
-        },
-
-    {
-        'name': 'FC Swarovski Tirol',
-        'founded': 1986,
-        'dissolved': 1992,
-        'city': 'Innsbruck, Switzerland',
-        },
-
-    {
-        'name': 'Hapoel Tel Aviv F.C.',
-        'founded': datetime.datetime(1927, 5, 31),
-        'city': 'Tel Aviv, Israel',
-        },
-    {
-        'name': 'Lazio',
-        'founded': datetime.datetime(1900, 1, 9),
-        'city': 'Rome, Italy',
-        },
-    {
-        'name': 'Stockport County F.C.',
-        'founded': 1883,
-        'city': 'Stockport, England',
-        },
-    {
-        'name': 'Blackpool F.C.',
-        'founded': datetime.datetime(1887, 7, 26),
-        'city': 'Blackpool, England',
-        },
-
-
-    {
-        'name': 'Workington A.F.C.',
-        'founded': 1921,
-        'city': 'Workington, England',
-        },
-    {
-        'name': 'Portsmouth F.C.',
-        'founded': 1898,
-        'city': 'Portsmouth, England',
-        },
-    {
-        'name': 'Port Vale F.C.',
-        'founded': 1876,
-        'city': 'Burslem, England',
-        },
-    {
-        'name': 'Glentoran',
-        'founded': 1882,
-        'city': 'Belfast, Northern Ireland',
-        },
-    {
-        'name': 'Coleraine F.C.',
-        'founded': 1927,
-        'city': 'Coleraine, Northern Ireland',
-        },
-    {
-        'name': 'Ards F.C.',
-        'founded': 1900,
-        'city': 'Newtownards, Northern Ireland',
-        },
-    {
-        'name': 'Brescia Calcio', 
-        'founded': 1911,
-        'city': 'Brescia, Italy',
-        },
-
-    {
-        'name': 'Galway United FC',
-        'founded': 1937,
-        'city': 'Galway, Ireland',
-        },
-    {
-        'name': 'Sligo Rovers',
-        'founded': 1928,
-        'city': 'Sligo, Ireland',
-        },
-    {
-        'name': 'VfB Stuttgart',
-        'founded': datetime.datetime(1912, 4, 1),
-        'city': 'Stuttgart, Germany',
-        },
-    {
-        'name': 'Dundalk F.C.',
-        'founded': datetime.datetime(1903, 9, 1),
-        'city': 'Dundalk, Ireland',
-        },
-    {
-        'name': 'SC Freiburg',
-        'founded': datetime.datetime(1904, 5, 30),
-        'city': 'Freiburg im Breisgau, Germany',
-        },
-    {
-        'name': 'Atlético Madrid',
-        'founded': datetime.datetime(1903, 4, 26),
-        'city': 'Madrid, Spain',
-        },
-
-    {
-        'name': 'CF Extremadura',
-        'founded': 1924,
-        'dissolved': 2010,
-        'city': 'Almendralejo, Spain',
-        },
-
-
-
-    {
-        'name': 'Cádiz',
-        'founded': 1910,
-        'city': 'Cádiz, Spain',
-        },
-
-
-    {
-        'name': 'Tenerife',
-        'city': 'Santa Cruz de Tenerife, Spain',
-        'founded': 1912,
-        },
-
-    {
-        'name': 'Xerez',
-        'city': 'Jerez de la Frontera, Spain',
-        'founded': 1947,
-        },
-
-    {
-        'name': 'Helmond Sport',
-        'founded': datetime.datetime(1967, 7, 27),
-        'city': 'Helmond, Netherlands',
-        },
-
-    {
-        'name': 'NAC Breda',
-        'founded': datetime.datetime(1912, 9, 19),
-        'city': 'Breda, Netherlands',
-        },
-    {
-        'name': 'Middlesbrough F.C.',
-        'founded': 1876,
-        'city': 'Middlesbrough, England',
-        },
-    {
-        'name': 'Leicester City',
-        'founded': 1884,
-        'city': 'Leicester, England',
-        },
-    {
-        'name': 'Shrewsbury Town',
-        'founded': 1886,
-        'city': 'New Meadow, England',
-        },
-    {
-        'name': 'Derby County',
-        'founded': datetime.datetime(1884, 2, 5),
-        'city': 'Derby, England',
-        },
-    {
-        'name': 'Lincoln City',
-        'founded': 1884,
-        'city': 'Lincoln, England',
-        },
-    {
-        'name': 'Leeds United',
-        'founded': 1919,
-        'city': 'Leeds, England',
-        },
-    {
-        'name': 'Manchester City F.C.',
-        'founded': 1880,
-        'city': 'Manchester City, England',
-        },
-    {
-        'name': 'Nottingham Forest F.C.',
-        'founded': 1865,
-        'city': 'West Bridgford, England',
-        },
-    {
-        'name': 'Luton Town F.C.',
-        'founded': datetime.datetime(1885, 4, 11),
-        'city': 'Luton, England',
-        },
-    {
-        'name': 'Linfield F.C.',
-        'founded': 1886,
-        'city': 'Belfast, Northern Ireland',
-        },
-    {
-        'name': 'St. Mirren',
-        'founded': 1877,
-        'city': 'Paisley, Scotland',
-        },
-    {
-        'name': 'Queens Park Rangers',
-        'founded': 1882,
-        'city': 'London, England',
-        },
-
-    {
-        'name': 'Standard Liege',
-        'founded': 1898,
-        'city': 'Liege, Belgium',
-        },
-
-    {
-        'name': 'Eupen',
-        'founded': 1945,
-        'city': 'Eupen, Belgium',
-        },
-
-    {
-        'name': 'Lierse SK',
-        'founded': datetime.datetime(1906, 3, 6),
-        'city': 'Lier, Belgium',
-        },
-
-    {
-        'name': 'Racing Genk',
-        'founded': 1988,
-        'city': 'Genk, Belgium',
-        },
-
-    {
-        'name': 'Arles-Avignon',
-        'founded': 1913,
-        'city': 'Avignon, Belgium',
-        },
-
-    {
-        'name': 'KV Mechelen',
-        'founded': 1904,
-        'city': 'Mechelen, Belgium',
-        },
-
-    {
-        'name': 'Hereford United',
-        'founded': 1924,
-        'city': 'Hereford, England',
-        },
-
-    {
-        'name': 'UD Leiria',
-        'founded': 1966,
-        'city': 'Leiria, Portugal',
-        },
-
-    {
-        'name': 'Feirense',
-        'founded': datetime.datetime(1918, 3, 19),
-        'city': 'Santa Maria da Feira, Portugal',
-        },
-
-    {
-        'name': 'Salgueiros',
-        'founded': datetime.datetime(1911, 12, 8),
-        'city': 'Paranhos, Portugal',
-        },
-
-    {
-        'name': 'Paços de Ferreira',
-        'founded': 1950,
-        'city': 'Paços de Ferreira, Portugal',
-        },
-
-    {
-        'name': 'Sevilla FC',
-        'founded': datetime.datetime(1905, 10, 14),
-        'city': 'Seville, Spain',
-        },
-
-    {
-        'name': 'UD Salamanca',
-        'founded': 1923,
-        'dissolved': 2013,
-        'city': 'Salamanca, Spain',
-        },
-    {
-        'name': 'Athlone Town',
-        'founded': 1887,
-        'city': 'Athlone, England',
-        },
-    {
-        'name': 'VfB Oldenburg',
-        'founded': 1897,
-        'city': 'Oldenburg, Germany',
-        },
-
-    {
-        'name': 'SSV Ulm 1846',
-        'founded': 1846,
-        'city': 'Ulm, Germany',
-        },
-    {
-        'name': 'Malmo FF',
-        'founded': 1910,
-        'city': 'Malmo, Sweden',
-        },
-
-    {
-        'name': 'Landskrona BoIS',
-        'founded': 1915,
-        'city': 'Landskrona, Sweden',
-        },
-    {
-        'name': 'Borussia Dortmund',
-        'founded': datetime.datetime(1909, 12, 19),
-        'city': 'Dortmund, Germany',
-        },
-    {
-        'name': 'Borussia Mönchengladbach',
-        'founded': datetime.datetime(1900, 8, 1),
-        'city': 'Mönchengladbach, Germany',
-        },
-
-    {
-        'name': 'Worcester City F.C.',
-        'founded': 1902,
-        'city': 'Worcester, England',
-        },
-    {
-        'name': 'Bristol City',
-        'founded': 1897,
-        'city': 'Bristol, England',
-        },
-    {
-        'name': 'Rot-Weiss Essen',
-        'founded': datetime.datetime(1907, 2, 1),
-        'city': 'Essen, Germany',
-        },
-
-    # Russia
-    {
-        'name': 'Alania Vladikavkaz',
-        'founded': 1921,
-        'city': 'Vladikavkaz, Russia',
-        },
-
-    {
-        'name': 'CSKA Moscow',
-        'founded': datetime.datetime(1911, 8, 27),
-        'city': 'Moscow, Russia',
-        },
-
-    {
-        'name': 'FC Dynamo Moscow',
-        'founded': 1923,
-        'city': 'Moscow, Russia',
-        },
-
-    {
-        'name': 'Lokomotiv Moscow',
-        'founded': datetime.datetime(1936, 1, 12),
-        'city': 'Moscow, Russia',
-        },
-
-    {
-        'name': 'Rubin Kazan',
-        'founded': datetime.datetime(1958, 4, 20),
-        'city': 'Kazan, Russia',
-        },
-
-    {
-        'name': 'Spartak Moscow',
-        'founded': datetime.datetime(1922, 4, 18),
-        'city': 'Moscow, Russia',
-        },
-
-    {
-        'name': 'Torpedo Moscow',
-        'founded': 1930,
-        'city': 'Moscow, Russia',
-        },
-
-
-    {
-        'name': 'Avellino',
-        'founded': 1912,
-        'city': 'Aveillino',
-        },
-    {
-        'name': 'Aston Villa F.C.',
-        'founded': 1874,
-        'city': 'Birminghamn, England',
-        },
-    {
-        'name': 'IFK Göteborg',
-        'founded': datetime.datetime(1904, 10, 4),
-        'city': 'Gothenburg, Sweden',
-        },
-
-    {
-        'name': 'Kalmar FF',
-        'founded': datetime.datetime(1910, 1, 10),
-        'city': 'Kalmar, Sweden',
-        },
     {
         'name': 'Ikast FS',
         'founded': 1935,
         'city': 'Ikast, Denmark',
         },
-    {
-        'name': 'Hamburger SV',
-        'founded': datetime.datetime(1887, 9, 29),
-        'city': 'Hamburg, Germany',
-        },
-    {
-        'name': '1. FC Köln',
-        'founded': datetime.datetime(1948, 2, 13),
-        'city': 'Cologne, Germany',
-        },
-    {
-        'name': 'Juventus',
-        'founded': datetime.datetime(1897, 11, 1),
-        'city': 'Turin, Italy',
-        },
-    {
-        'name': 'Girona FC',
-        'founded': 1930,
-        'city': 'Girona, Spain',
-        },
 
-    {
-        'name': 'Deportivo Alavés',
-        'founded': 1921,
-        'city': 'Vitoria-Gasteiz, Spain',
-        },
-
-
-
-    {
-        'name': 'Sporting de Gijon',
-        'founded': 1905,
-        'city': 'Gijon, Spain',
-        },
-
-    {
-        'name': 'Hercules CF',
-        'founded': 1922,
-        'city': 'Alicante, Spain',
-        },
-
-    {
-        'name': 'Málaga',
-        'founded': datetime.datetime(1904, 4, 3),
-        'city': 'Malaga, Spain',
-        },
-
-    {
-        'name': 'Villarreal',
-        'founded': datetime.datetime(1923, 3, 10),
-        'city': 'Villarreal, Spain',
-        },
-    {
-        'name': 'Liverpool F.C.',
-        'founded': datetime.datetime(1892, 3, 15),
-        'city': 'Liverpool, England',
-        },
-    {
-        'name': 'Real Madrid',
-        'founded': datetime.datetime(1902, 3, 6),
-        'city': 'Madrid, Spain',
-        },
-    {
-        'name': 'Tottenham Hotspur',
-        'founded': 1882,
-        'city': 'London, England',
-        },
-    {
-        'name': 'FC Schalke 04',
-        'founded': datetime.datetime(1904, 5, 4),
-        'city': 'Gelsenkirchen, Germany',
-        },
-
-    {
-        'name': 'Stoke City F.C.',
-        'founded': 1863,
-        'city': 'Stoke-on-Trent, England',
-        },
-    {
-        'name': 'SV Munster',
-        'founded': datetime.datetime(1946, 5, 5),
-        'city': 'Munster, Germany',
-        },
-    {
-        'name': 'VfR Heilbronn',
-        'founded': 1896,
-        'dissolved': 2003,
-        'city': 'Heilbronn, Germany',
-        },
-    {
-        'name': 'VfR Pforzheim',
-        'founded': 1897,
-        'dissolved': datetime.datetime(2010, 6, 30),
-        'city': 'Pforzheim, Germany',
-        },
-    {
-        'name': 'VfL Osnabrück',
-        'founded': 1899,
-        'city': 'Osnabruck, Germany',
-        },
-    {
-        'name': 'SpVgg Plattling',
-        'founded': 1919,
-        'city': 'Plattling, Germany',
-        },
-    {
-        'name': 'AGF Aarhus',
-        'founded': 1880,
-        'city': 'Aarhus, Denmark',
-        },
-
-    {
-        'name': 'TSV Ottobeuren',
-        'city': 'Ottobeuren, Germany',
-        },
-    {
-        'name': 'Wolverhampton Wanderers F.C.',
-        'founded': 1877,
-        'city': 'Wolverhampton, England',
-        },
-
-    {
-        'name': 'ASV Bergedorf',
-        'founded': datetime.datetime(1885, 3, 29),
-        'city': 'Bergedorf, Germany',
-        },
-    {
-        'name': 'VfL Marburg',
-        'founded': datetime.datetime(1860, 7, 28),
-        'city': 'Marburg, Germany',
-        },
-
-    {
-        'name': 'Wisbech Town F.C.',
-        'founded': 1920,
-        'city': 'Wisbech, England',
-        },
-
-    {
-        'name': 'Wimbledon FC',
-        'founded': 1889,
-        'city': 'Wimbledon, England',
-        },
-
-    {
-        'name': 'King\'s Lynn F.C.',
-        'founded': 1879,
-        'dissolved': datetime.datetime(2009, 11, 25),
-        'city': 'King\'s Lynn, England',
-        },
-
-    {
-        'name': 'Ely City FC',
-        'founded': 1885,
-        'city': 'Ely, England',
-        },
-
-    {
-        'name': 'Newmarket Town F.C.',
-        'founded': datetime.datetime(1877, 11, 22),
-        'city': 'Newmarket, England',
-        },
-
-    {
-        'name': 'Peterborough United F.C.',
-        'founded': 1934,
-        'city': 'Peterborough, England',
-        },
-
-    {
-        'name': 'Barking F.C.',
-        'founded': 1880,
-        'city': 'Barking, England',
-        },
-
-    {
-        'name': 'Bromsgrove Rovers F.C.',
-        'founded': 1885,
-        'dissolved': 2010,
-        'city': 'Bromsgrove, England',
-        },
-    {
-        'name': 'Crystal Palace F.C.',
-        'founded': datetime.datetime(1905, 9, 10),
-        'city': 'South Norwood, England',
-        },
-
-    {
-        'name': 'Pegasus A.F.C.',
-        'founded': 1948,
-        'city': 'Oxford, England',
-        },
-
-    {
-        'name': 'Millwall F.C.',
-        'founded': datetime.datetime(1885, 10, 3),
-        'city': 'South Bermondsey, England',
-        },
 
     {
         'name': 'Nørresundby Boldklub',
@@ -2904,25 +3604,6 @@ l = [
         },
 
     {
-        'name': 'FinnPa',
-        'founded': 1965,
-        'dissolved': 1998,
-        'city': 'Helsinki, Finland',
-        },
-
-    {
-        'name': 'AC Reggiana 1919',
-        'founded': 1919,
-        'city': 'Reggiana, Italy',
-        },
-
-    {
-        'name': 'IBV',
-        'founded': 1903,
-        'city': 'Vestmannaeyjar, Iceland',
-        },
-
-    {
         'name': 'Lyngby BK',
         'founded': 1921,
         'city': 'Lyngby, Denmark',
@@ -2934,458 +3615,139 @@ l = [
         'city': 'Silkeborg, Denmark',
         },
 
-    {
-        'name': 'Lyn Oslo',
-        'founded': datetime.datetime(1896, 3, 3),
-        'city': 'Oslo, Norway',
-        },
 
-    {
-        'name': 'Aalesund',
-        'founded': datetime.datetime(1914, 6, 25),
-        'city': 'Alesund, Norway',
-        },
 
-    {
-        'name': 'Vålerenga',
-        'founded': datetime.datetime(1913, 7, 29),
-        'city': 'Oslo, Norway',
-        },
 
-    {
-        'name': 'Rosenborg BK',
-        'founded': datetime.datetime(1917, 5, 19),
-        'city': 'Trondheim, Norway',
-        },
+
+
+
+
+
+
+
+    # Iceland
 
 
     {
-        'name': 'Fredrikstad FK',
-        'founded': datetime.datetime(1903, 4, 7),
-        'city': 'Fredrikstad, Norway',
+        'name': 'Fylkir',
+        'founded': datetime.datetime(1967, 5, 28),
+        'city': 'Reykjavik, Iceland',
         },
 
     {
-        'name': 'Mjøndalen IF',
-        'founded': datetime.datetime(1910, 8, 22),
-        'city': 'Mjøndalen, Norway',
+        'name': 'UMF Tindastóll',
+        'founded': 1907,
+        'city': 'Sauðárkrókur, Iceland',
+        },
+
+
+    {
+        'name': 'Valur FC',
+        'founded': datetime.datetime(1911, 5, 11),
+        'city': 'Reykjavik, Iceland',
         },
 
     {
-        'name': 'Hibernian F.C.',
-        'founded': 1875,
-        'city': 'Leith, Scotland',
-        },
-    {
-        'name': 'Torino FC',
-        'founded': 1906,
-        'city': 'Turin, Italy',
-        },
-    {
-        'name': 'Vitória de Setúbal',
-        'founded': datetime.datetime(1910, 11, 20),
-        'city': 'Setubal, Portugal',
+        'name': 'IBV',
+        'founded': 1903,
+        'city': 'Vestmannaeyjar, Iceland',
         },
 
-    {
-        'name': 'Gil Vicente',
-        'founded': 1924,
-        'city': 'Barcelos, Portugal',
-        },
+
+
+    # Ireland
 
     {
-        'name': 'Farense',
-        'founded': datetime.datetime(1910, 4, 1),
-        'city': 'Faro, Portugal',
+        'name': 'Shamrock Rovers',
+        'founded': 1901,
+        'city': 'Dublin, Ireland',
         },
 
-    {
-        'name': 'Alverca',
-        'founded': datetime.datetime(1939, 9, 1),
-        'city': 'Alverca do Ribatejo, Portugal',
-        },
-    {
-        'name': 'SpVgg Kaufbeuren',
-        'founded': 1909,
-        'city': 'Kaufbeuren, Germany',
-        },
-    {
-        'name': 'Energie Cottbus',
-        'founded': datetime.datetime(1966, 1, 31),
-        'city': 'Cottbus, Germany',
-        },
 
     {
-        'name': 'Arminia Bielefeld',
-        'founded': datetime.datetime(1905, 5, 3),
-        'city': 'Bielefeld, Germany',
-        },
-    {
-        'name': 'VfL Oldesloe',
-        'founded': 1862,
-        'city': 'Bald Oldesloe, Germany',
-        },
-    {
-        'name': 'Cordoba CF',
+        'name': 'Finn Harps',
         'founded': 1954,
-        'city': 'Cordoba, Spain',
+        'city': 'Ballybofey, Ireland',
+        },
+
+
+    {
+        'name': 'Galway United FC',
+        'founded': 1937,
+        'city': 'Galway, Ireland',
+        },
+    {
+        'name': 'Sligo Rovers',
+        'founded': 1928,
+        'city': 'Sligo, Ireland',
         },
 
     {
-        'name': 'Levante',
-        'founded': 1909,
-        'city': 'Valencia, Spain',
+        'name': 'Dundalk F.C.',
+        'founded': datetime.datetime(1903, 9, 1),
+        'city': 'Dundalk, Ireland',
+        },
+
+    # Russia
+    {
+        'name': 'Alania Vladikavkaz',
+        'founded': 1921,
+        'city': 'Vladikavkaz, Russia',
         },
 
     {
-        'name': 'Albacete',
-        'founded': 1984,
-        'city': 'Albacete, Spain',
+        'name': 'CSKA Moscow',
+        'founded': datetime.datetime(1911, 8, 27),
+        'city': 'Moscow, Russia',
         },
 
     {
-        'name': 'Real Sociedad',
-        'founded': datetime.datetime(1909, 9, 7),
-        'city': 'San Sebastian, Spain',
-        },
-
-    {
-        'name': 'Osasuna',
-        'founded': datetime.datetime(1920, 10, 24),
-        'city': 'Pamplona, Spain',
-        },
-    {
-        'name': 'RSD Alcalá',
-        'founded': 1929,
-        'city': 'Alcala de Henares',
-        },
-    {
-        'name': 'Coria CF',
+        'name': 'FC Dynamo Moscow',
         'founded': 1923,
-        'city': 'Coria del Rio, Spain',
+        'city': 'Moscow, Russia',
         },
 
     {
-        'name': 'Dunfermline',
-        'founded': datetime.datetime(1885, 6, 1),
-        'city': 'Dunfermline, Scotland',
+        'name': 'Lokomotiv Moscow',
+        'founded': datetime.datetime(1936, 1, 12),
+        'city': 'Moscow, Russia',
         },
 
     {
-        'name': 'Dundee United',
-        'founded': datetime.datetime(1909, 5, 24),
-        'city': 'Dundee, Scotland',
-        },
-    {
-        'name': 'FK Inter Bratislava',
-        'founded': datetime.datetime(1940, 7, 1),
-        'city': 'Bratislava, Slovakia',
+        'name': 'Rubin Kazan',
+        'founded': datetime.datetime(1958, 4, 20),
+        'city': 'Kazan, Russia',
         },
 
     {
-        'name': 'ŠK Slovan Bratislava',
-        'founded': datetime.datetime(1919, 5, 3),
-        'city': 'Bratislava, Slovakia',
+        'name': 'Spartak Moscow',
+        'founded': datetime.datetime(1922, 4, 18),
+        'city': 'Moscow, Russia',
         },
+
+    {
+        'name': 'Torpedo Moscow',
+        'founded': 1930,
+        'city': 'Moscow, Russia',
+        },
+
+
     {
         'name': 'Zenit Saint Petersburg',
         'founded': 1924,
         'city': 'Saint Petersburg, Russia',
         },
 
-    {
-        'name': 'Larne F.C.',
-        'founded': 1889,
-        'city': 'Larne, Northern Ireland',
-        },
-    {
-        'name': 'SV Schwechat',
-        'founded': 1903,
-        'city': 'Schwechat, Austria',
-        },
-    {
-        'name': 'Dundee FC',
-        'founded': 1893,
-        'city': 'Dundee, Scotland',
-        },
-    {
-        'name': 'Vitória de Guimarães',
-        'founded': 1922,
-        'city': 'Guimaraes, Portugal',
-        },
+
+    # Finland
 
     {
-        'name': 'Moreirense',
-        'founded': 1938, 
-        'city': 'Moreira de Cónegos, Portugal',
-        },
-    {
-        'name': 'Rio Ave',
-        'founded': 1939, 
-        'city': 'Vila do Conde, Portugal',
-        },
-
-    {
-        'name': 'Estoril',
-        'founded': datetime.datetime(1939, 5, 17),
-        'city': 'Estoril, Portugal',
-        },
-
-    {
-        'name': 'Estrela da Amadora',
-        'founded': 1932, 
-        'city': 'Jose Gomes, Portugal',
-        },
-
-    {
-        'name': 'Penafiel',
-        'founded': datetime.datetime(1951, 2, 8), 
-        'city': 'Penafiel, Portugal',
-        },
-
-
-    {
-        'name': 'IF Elfsborg',
-        'founded': datetime.datetime(1904, 6, 26),
-        'city': 'Elfsborg, Sweden',
-        },
-
-    {
-        'name': 'Öster',
-        'founded': 1930,
-        'city': 'Vaxjo, Sweden',
-        },
-
-    {
-        'name': 'Ljungskile SK',
-        'founded': 1926,
-        'city': 'Ljungskile, Sweden',
-        },
-
-    {
-        'name': 'Valenciennes FC',
-        'founded': 1913,
-        'city': 'Valenciennes, France',
-        },
-
-    {
-        'name': 'Reims',
-        'founded': 1911,
-        'city': 'Rheims, France',
-        },
-
-    {
-        'name': 'Brest',
-        'founded': 1903,
-        'city': 'Brest, France',
-        },
-
-    {
-        'name': 'Caen',
-        'founded': datetime.datetime(1913, 11, 17),
-        'city': 'Caen, France',
-        },
-
-    {
-        'name': 'Evian TG',
-        'founded': 2007,
-        'city': 'Annecy, France',
-        },
-
-
-    {
-        'name': 'Boulogne',
-        'founded': 1898,
-        'city': 'Boulogne-sur-Mer, France',
-        },
-
-
-    {
-        'name': 'Grenoble',
-        'founded': 1892,
-        'city': 'Grenoble, France',
-        },
-
-    {
-        'name': 'Lyon',
-        'founded': 1950,
-        'city': 'Lyon, France',
-        },
-
-    {
-        'name': 'Auxerre',
-        'founded': 1905,
-        'city': 'Auxerre, France',
-        },
-
-    {
-        'name': 'Toulouse',
-        'founded': 1937,
-        'city': 'Toulouse, France',
-        },
-
-
-    {
-        'name': 'Ajaccio',
-        'founded': 1910,
-        'city': 'Ajaccio, France',
-        },
-
-    {
-        'name': 'Troyes',
-        'founded': 1986,
-        'city': 'Troyes, France',
-        },
-
-    {
-        'name': 'Le Mans',
-        'founded': 1903,
-        'city': 'Le Mans, France',
-        },
-
-    {
-        'name': 'Havre',
-        'founded': 1872,
-        'city': 'Havre, France',
-        },
-
-    {
-        'name': 'Saint-Étienne',
-        'founded': 1919,
-        'city': 'Saint-Étienne, France',
-        },
-
-
-    {
-        'name': 'Swindon Town',
-        'founded': 1879,
-        'city': 'Swindon, England',
-        },
-
-    {
-        'name': 'Aarau',
-        'founded': 1902,
-        'city': 'Aarau, Switzerland',
-        },
-
-    {
-        'name': 'Thun',
-        'founded': 1898,
-        'city': 'Thun, Switzerland',
-        },
-
-    {
-        'name': 'Luzern',
-        'founded': datetime.datetime(1901, 8, 12),
-        'city': 'Lucerne, Switzerland',
-        },
-
-    # Greece
-    {
-        'name': 'Olympiakos',
-        'founded': datetime.datetime(1925, 3, 10),
-        'city': 'Piraeus, Greece',
-        },
-
-    {
-        'name': 'AEL Limassol',
-        'founded': datetime.datetime(1930, 10, 4),
-        'city': 'Limassol, Greece',
-        },
-
-    {
-        'name': 'Kallithea',
-        'founded': 1966,
-        'city': 'Kallithea, Greece',
-        },
-    {
-        'name': 'Egaleo',
-        'founded': 1931,
-        'city': 'Egaleo, Greece',
-        },
-
-    {
-        'name': 'PAOK',
-        'founded': 1926,
-        'city': 'Thessaloniki, Greece',
-        },
-
-    {
-        'name': 'Iraklis',
-        'founded': datetime.datetime(1908, 11, 29),
-        'city': 'Thessaloniki, Greece',
-        },
-
-    {
-        'name': 'Levadiakos',
-        'founded': 1961,
-        'city': 'Livadeia, Greece',
-        },
-    {
-        'name': 'Ionikos',
+        'name': 'FinnPa',
         'founded': 1965,
-        'city': 'Nikaia, Greece',
+        'dissolved': 1998,
+        'city': 'Helsinki, Finland',
         },
 
-    {
-        'name': 'Ergotelis',
-        'founded': datetime.datetime(1929, 8, 7),
-        'city': 'Heraklion, Greece',
-        },
-
-    {
-        'name': 'Skoda Xanthi',
-        'founded': 1967,
-        'city': 'Xanthi, Greece',
-        },
-
-    {
-        'name': 'Akratitos',
-        'founded': 1963,
-        'city': 'Ano Liosia, Greece',
-        },
-
-    {
-        'name': 'Apollon Kalamarias',
-        'founded': 1926,
-        'city': 'Thessaloniki, Greece',
-        },
-
-    {
-        'name': 'Aris',
-        'founded': datetime.datetime(1914, 3, 25),
-        'city': 'Thessaloniki, Greece',
-        },
-
-    {
-        'name': 'OFI',
-        'founded': 1925,
-        'city': 'Heraklion, Greece',
-        },
-
-    {
-        'name': 'AEL 1964',
-        'founded': datetime.datetime(1964, 5, 17),
-        'city': 'Larissa, Greece',
-        },
-
-    {
-        'name': 'Asteras Tripoli',
-        'founded': 1931,
-        'city': 'Tripoli, Greece',
-        },
-
-    {
-        'name': 'PAS Giannina',
-        'founded': 1966,
-        'city': 'Ioannina, Greece',
-        },
-
-    {
-        'name': 'Kavala',
-        'founded': 1965,
-        'city': 'Kavala, Greece',
-        },
 
 
     ]

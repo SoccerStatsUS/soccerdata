@@ -508,7 +508,7 @@ Date: 11/30/2008
   Massimo Maccarone 19;
 
 ; Udinese   ; 0-1; Chievo
-  Dalbelo Da Silva Felipe (og) 87
+;  Dalbelo Da Silva Felipe (og) 87
 
 Round: 15 
 Date: 12/6/2008
@@ -647,7 +647,7 @@ Date: 1/11/2009
   Mirko Vucinic 22, Mirko Vucinic 72; Alexandre "Pato" Rodrigues da Silva 48, Pato 53
 
 ; Udinese   ; 1-1; Sampdoria
-  Maurizio Domizzi 62, Gennaro Delvecchio 57
+  Maurizio Domizzi 62; Gennaro Delvecchio 57
 
 Round: 19 
 Date: 1/17/2009
@@ -766,7 +766,7 @@ Date: 2/1/2009
   Tiberio Guarente 24;
 
 ; Chievo    ; 1-1; Sampdoria
-  Luca Rigoni 72, Giampaolo Pazzini 70
+  Luca Rigoni 72; Giampaolo Pazzini 70
 
 ; Genoa     ; 1-0; Palermo
   Domenico Criscito 88;
@@ -812,7 +812,7 @@ Date: 2/8/2009
   Giulio Migliaccio 2, Fabio Simplicio 14; Marek Hamsik 43
 
 ; Roma      ; 3-0; Genoa
-  Cicero Joao de Cezare "Cicinho" 26, Mirko Vucinic 47, Julio César Baptista 90+2
+  Cicero Joao de Cezare "Cicinho" 26, Mirko Vucinic 47, Julio César Baptista 90+2;
 
 ; Sampdoria ; 2-2; Siena
   Claudio Bellucci 45+1, Giampaolo Pazzini 51; Simone Vergassola 21, Massimo Maccarone 79
@@ -940,7 +940,7 @@ Date: 3/7/2009
 Date: 3/8/2009
 
 ; Bologna   ; 3-0; Sampdoria
-  Marco Di Vaio 45+1, Marco Di Vaio 87, Marco Di Vaio 90+1
+  Marco Di Vaio 45+1, Marco Di Vaio 87, Marco Di Vaio 90+1;
 
 ; Catania   ; 0-3; Siena
 ;  Massimo Maccarone 9, Abdelkader Ghezzal 69, Lukas Jarolim 90
@@ -954,7 +954,7 @@ Date: 3/8/2009
 ; Lecce     ; 0-0; Reggina
 
 ; Milan     ; 3-0; Atalanta
-  Filippo Inzaghi 7, Filippo Inzaghi 71, Filippi Inzaghi 74
+  Filippo Inzaghi 7, Filippo Inzaghi 71, Filippi Inzaghi 74;
 
 ; Napoli    ; 0-2; Lazio
 ;  Tommaso Rocchi 57, Tommaso Rocchi 65
@@ -1206,7 +1206,7 @@ Date: 5/9/2009
   Tommaso Rocchi 56; Antonio Floro Flores 60, Gaetano D'Agostino 69, Fabio Quagliarella (pk) 86
 
 ; Sampdoria ; 5-0; Reggina
-  Daniele Dessena 1, Daniele Dessena 31, Gennaro Delvecchio 36, Guido Marilungo 46, Giampaolo Pazzini 52
+  Daniele Dessena 1, Daniele Dessena 31, Gennaro Delvecchio 36, Guido Marilungo 46, Giampaolo Pazzini 52;
 
 Date: 5/10/2009
 
@@ -1322,7 +1322,7 @@ Date: 5/31/2009
   Vincenzo Iaquinta 3, Vincenzo Iaquinto 59;
 
 ; Napoli    ; 3-0; Chievo
-  Francesco Montervino 4, Mariano Bogliacino 7, Inacio Joao Batista Pià 18
+  Francesco Montervino 4, Mariano Bogliacino 7, Inacio Joao Batista Pià 18;
 
 ; Palermo   ; 2-2; Sampdoria
   Fabrizio Miccoli 8, Davide Succi 42; Giampaolo Pazzini 45, Marius Stankevicius 59

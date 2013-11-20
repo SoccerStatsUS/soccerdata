@@ -35,10 +35,10 @@ Date: 8/1/2003
 Date: 8/2/2003
 
 ; Monaco      ; 2-0; Bordeaux
-  Shabani Christopher NONDA 32, 56pen
+  Shabani Christopher NONDA 32, (pk) 56
 
 ; Auxerre     ; 1-2; Nice
-  Jean-Sébastien JAURES 90+3pen; Lilian LASLANDES 8, Romain PITAU 46
+  Jean-Sébastien JAURES (pk) 90+3; Lilian LASLANDES 8, Romain PITAU 46
 
 ; Guingamp    ; 0-1; Marseille
   Ibrahima BAKAYOKO 90+1
@@ -49,12 +49,12 @@ Date: 8/2/2003
   Hoalid REGRAGUI 43
 
 ; Montpellier ; 1-1; Rennes
-  Fodé MANSARE 89pen; Abdeslam OUADDOU 25
+  Fodé MANSARE (pk) 89; Abdeslam OUADDOU 25
 
 ; Paris       ; 0-0; Bastia
 
 ; Sochaux     ; 2-1; Nantes
-  Pierre-Alain FRAU 23pen, Jaouad ZAÏRI 89; Marama VAHIRUA 12
+  Pierre-Alain FRAU (pk) 23, Jaouad ZAÏRI 89; Marama VAHIRUA 12
 
 ;   [Red card:; Jean-Hugues; BILAYI-ATEBA 55 (Nantes)]
 Toulouse     1-1 Strasbourg
@@ -151,7 +151,7 @@ Date: 8/23/2003
   DEIVID De Souza 11, Mauricio Roberto POCHETTINO Trossero 27
 
 ; Bastia      ; 1-0; Montpellier
-  Florian MAURICE 88pen
+  Florian MAURICE (pk) 88
 
 ; Lille       ; 1-1; Metz
   Vladimir MANCHEV 47; Pape THIAW 3
@@ -159,13 +159,13 @@ Date: 8/23/2003
 ; Lyon        ; 0-0; Toulouse
 
 ; Marseille   ; 2-0; Sochaux
-  Tébily Didier Yves DROGBA 34, Brahim HEMDANI 84pen
+  Tébily Didier Yves DROGBA 34, Brahim HEMDANI (pk) 84
 
 ; Nantes      ; 1-0; Le Mans
   Shiva Star N'ZIGOU 79
 
 ; Nice        ; 2-2; Ajaccio
-  Lilian LASLANDES 12pen, 68; Noé PAMAROT 24og, Lilian LASLANDES 58og
+  Lilian LASLANDES (pk) 12, 68; Noé PAMAROT 24og, Lilian LASLANDES 58og
 
 ; Rennes      ; 0-0; Guingamp
 
@@ -230,10 +230,10 @@ Date: 9/13/2003
 
 ; Bastia      ; 4-2; Guingamp
   Alou DIARRA 16, Chaouki BEN SAADA 37, Frédéric NEE 51, 87;
-   Nicolas GOUSSE 47, Christophe LE ROUX 68pen
+   Nicolas GOUSSE 47, Christophe LE ROUX (pk) 68
 
 ; Bordeaux    ; 1-3; Sochaux
-  Jean-Claude Ducan DARCHEVILLE 21pen; Pierre-Alain FRAU 25, 79pen,
+  Jean-Claude Ducan DARCHEVILLE (pk) 21; Pierre-Alain FRAU 25, (pk) 79,
    Mickaël ISABEY 77
 
 ; Lille       ; 1-1; Monaco
@@ -277,7 +277,7 @@ Date: 9/20/2003
    Alou DIARRA 30
 
 ; Guingamp    ; 0-2; Paris
-  Fabrice FIORESE 66, Pedro Miguel Carreiro Resendes "PAULETA" 72pen
+  Fabrice FIORESE 66, Pedro Miguel Carreiro Resendes "PAULETA" (pk) 72
 
   [Red card: Branko BOSKOVIC (Paris) 33]
 ; Lens        ; 1-0; Bordeaux
@@ -323,7 +323,7 @@ Date: 9/27/2003
    Anthony REVEILLERE 24
 
 ; Marseille   ; 2-1; Nice
-  Tébily Didier Yves DROGBA 59, 90+4pen; Lilian LASLANDES 35
+  Tébily Didier Yves DROGBA 59, (pk) 90+4; Lilian LASLANDES 35
 
 ; Metz        ; 1-1; Guingamp
   Babacar M'Baye GUEYE 90+3; Christophe LE ROUX 45+1
@@ -381,8 +381,8 @@ Date: 10/4/2003
   [Red card: Wilson ORUMA (Sochaux) 90+4]
 
 ; Toulouse    ; 2-2; Montpellier
-  Achille EMANA Edzimbi 12, Cédric FAURE 75pen;
-   Nomvaya Habib BAMOGO 42pen, 58
+  Achille EMANA Edzimbi 12, Cédric FAURE (pk) 75;
+   Nomvaya Habib BAMOGO (pk) 42, 58
 
   [N.B. Fodé MANSARE (Montpellier) missed a penalty kick 8]
 
@@ -416,7 +416,7 @@ Date: 10/18/2003
 
   [Red card: Cyril ROOL (Lens) 60]
 ; Bordeaux    ; 1-2; Toulouse
-  Jean-Ducan DARCHEVILLE 65; Cédric FAURE 15, 67pen
+  Jean-Ducan DARCHEVILLE 65; Cédric FAURE 15, (pk) 67
 
 ; Lille       ; 0-0; Ajaccio
   [Red card: Mamadou BAGAYOKO (Ajaccio) 90+2]
@@ -425,7 +425,7 @@ Date: 10/18/2003
   Peguy LUYINDULA Makanda 66; Mickaël ISABEY 62
 
 ; Metz        ; 1-3; Nantes
-  Pape THIAW 22pen; Mathieu BERSON 7, Luigi GLOMBARD 62, Grégory PUJOL 73
+  Pape THIAW (pk) 22; Mathieu BERSON 7, Luigi GLOMBARD 62, Grégory PUJOL 73
 
   [Red card: Pape THIAW (Metz) 66]
 ; Montpellier ; 2-0; Guingamp
@@ -559,7 +559,7 @@ Ajaccio      0-1 Monaco
    Benoît PEDRETTI 90+3; Anthony BRAIZAT 71
 
 ; Strasbourg  ; 1-1; Bordeaux
-  Corentin Da Silva MARTINS 82pen; Marouane CHAMAKH 45+1
+  Corentin Da Silva MARTINS (pk) 82; Marouane CHAMAKH 45+1
 
   [Red card: Marouane CHAMAKH (Bordeaux) 75]
 ; Marseille   ; 1-4; Lyon
@@ -588,7 +588,7 @@ Date: 11/22/2003
 
   [Red card: Pascal DELHOMMEAU (Nantes) 62]
 ; Bordeaux    ; 2-1; Rennes
-  Jean-Claude Ducan-DARCHEVILLE 45+4pen, Pascal FEINDOUNO 83;
+  Jean-Claude Ducan-DARCHEVILLE (pk) 45+4, Pascal FEINDOUNO 83;
    Lamine DIATTA 24
 
 ; Guingamp    ; 1-2; Sochaux
@@ -666,7 +666,7 @@ Date: 12/3/2003
   Yannick FISCHER 48og
 
 ; Bastia      ; 3-2; Rennes
-  Florian MAURICE 35pen, Benoît CAUET 62, Youssouf HADJI 82;
+  Florian MAURICE (pk) 35, Benoît CAUET 62, Youssouf HADJI 82;
    Abdeslam OUADDOU 8, Frédéric PIQUIONNE 59
 
   [Red card: Benoît CAUET (Bastia) 87]
@@ -694,11 +694,11 @@ Date: 12/3/2003
 Date: 1/21/2004
 
 ; Monaco      ; 1-1; Nice
-  Fernando MORIENTES Sanchez 40; Daniel MESLIN 90+6pen
+  Fernando MORIENTES Sanchez 40; Daniel MESLIN (pk) 90+6
 
   [Red cards: Patrice EVRA 57; EVERSON Pereira da Silva 87]
 ; Montpellier ; 1-3; Sochaux
-  Nomvaya Habib BAMOGO 21pen; Pierre-Alain FRAU 13, 29, 44
+  Nomvaya Habib BAMOGO (pk) 21; Pierre-Alain FRAU 13, 29, 44
 
 
 Date: 1/27/2004
@@ -738,7 +738,7 @@ Date: 12/6/2003
    Marco Antonio Simoes CANEIRA 49og
 
 ; Nantes      ; 1-1; Toulouse
-  Nicolas GILLET 20pen; Nicolas DIEUZE 45+3pen
+  Nicolas GILLET (pk) 20; Nicolas DIEUZE (pk) 45+3
 
 ; Rennes      ; 1-1; Paris
   Alexander FREI 73; Fabrice FIORESE 49
@@ -752,7 +752,7 @@ Date: 12/7/2003
 
 ; Nice        ; 2-1; Montpellier
   EVERSON Pereira Da Silva 23, Lilian LASLANDES 35; 
-   Nomvaya Habib BAMOGO 86pen
+   Nomvaya Habib BAMOGO (pk) 86
 
 ; Le Mans     ; 2-0; Guingamp
   Daniel COUSIN 34, Philippe CELDRAN 78
@@ -819,7 +819,7 @@ Date: 12/20/2003
   Nicolas BONNAL 12, Yohan DEMONT 85
 
 ; Bastia      ; 0-2; Lille
-  Vladimir MANCHEV 29pen, 51
+  Vladimir MANCHEV (pk) 29, 51
 
 ; Bordeaux    ; 2-0; Metz
   Juan Pablo FRANCIA 45+3, Marouane CHAMAKH 61
@@ -838,7 +838,7 @@ Date: 12/20/2003
   Cédric BARBOSA 48
 
 ; Strasbourg  ; 4-2; Montpellier
-  Ulrich LE PEN 32pen, 63, Eric MOULOUNGUI 41, Christian BASSILA 54;
+  Ulrich LE PEN (pk) 32, 63, Eric MOULOUNGUI 41, Christian BASSILA 54;
    Bruno CAROTTI 28, Jérôme LAFOURCADE 39
 
 
@@ -847,7 +847,7 @@ Round: 20
 Date: 1/9/2004
 
 ; Monaco      ; 3-0; Lyon
-  Ludovic GIULY 34, 90+2pen, Fernando MORIENTES Sanchez 47
+  Ludovic GIULY 34, (pk) 90+2, Fernando MORIENTES Sanchez 47
 
 
 Date: 1/10/2004
@@ -878,7 +878,7 @@ Date: 1/10/2004
 ; Sochaux     ; 0-0; Nice
 
 ; Toulouse    ; 2-0; Rennes
-  Cédric FAURE 6, Nicolas DIEUZE 83pen
+  Cédric FAURE 6, Nicolas DIEUZE (pk) 83
 
   [Red card: Etienne DIDOT (Rennes) 79]
 
@@ -933,7 +933,7 @@ Monaco       1-1 Paris
 Date: 1/31/2004
 
 ; Auxerre     ; 5-0; Bordeaux
-  Djibril CISSE 8, 45pen, Kanga Gauthier AKALE 11, 59, Teemu TAINIO 27
+  Djibril CISSE 8, (pk) 45, Kanga Gauthier AKALE 11, 59, Teemu TAINIO 27
 
 ; Ajaccio     ; 1-1; Nice
   Frédéric DANJOU 8; Georges BA 75
@@ -957,7 +957,7 @@ Viorel Dinu MOLDOVAN 13
   [Red card: Cédric URAS (Bastia) 77]
   [N.B. Nomvaya Habid BAMOGO (Montpellier) missed a penalty kick 77]
 ; Sochaux     ; 2-1; Marseille
-  Jérémy MATHIEU 31, Pierre-Alain FRAU 70pen; Gérard Amoukou GNANHOUAN 6og
+  Jérémy MATHIEU 31, Pierre-Alain FRAU (pk) 70; Gérard Amoukou GNANHOUAN 6og
  
   [Red card : Mathieu FLAMINI (Marseille) 64]
 ; Toulouse    ; 0-1; Lyon
@@ -1033,7 +1033,7 @@ Date: 2/14/2004
   Grégory LECA 5
 
 ; Nantes      ; 3-1; Nice
-  Grégory PUJOL 6, Viorel Dinu MOLDOVAN 29, 84pen; Daniel MESLIN 38
+  Grégory PUJOL 6, Viorel Dinu MOLDOVAN 29, (pk) 84; Daniel MESLIN 38
 
 ; Toulouse    ; 0-1; Paris
   Danijel LJUBOJA 28
@@ -1067,7 +1067,7 @@ Date: 2/21/2004
   [Red card: Papa BOUBA DIOP 86 (Lens)]
 
 ; Lille       ; 1-2; Nice
-  Milenko ACIMOVIC 75pen; Noé PAMAROT 34, Olivier ECHOUAFNI 82
+  Milenko ACIMOVIC (pk) 75; Noé PAMAROT 34, Olivier ECHOUAFNI 82
 
 ; Metz        ; 0-2; Toulouse
   Cédric FAURE 9, Fernando Lucio Da Costa ‘FERNANDAO’ 73
@@ -1078,7 +1078,7 @@ Date: 2/21/2004
 
 ; Rennes      ; 4-1; Ajaccio
   Alexander FREI 52, Tony VAIRELLES 65, Kim KÄLLSTRÖM 74, 87;
-   Bernard DIOMEDE 16pen
+   Bernard DIOMEDE (pk) 16
 
   [Red card: Bernard DIOMEDE 45+2 (Auxerre)]
 ; Strasbourg  ; 0-2; Sochaux
@@ -1125,7 +1125,7 @@ Date: 2/29/2004
 ; Nice        ; 0-0; Marseille
 
 ; Sochaux     ; 2-1; Bastia
-  Johann LONFAT 35, Pierre-Alain FRAU 58; Florian MAURICE 51pen
+  Johann LONFAT 35, Pierre-Alain FRAU 58; Florian MAURICE (pk) 51
 
 Date: 4/16/2004
 
@@ -1144,7 +1144,7 @@ Date: 3/5/2004
    Peguy LUYINDULA Makanda 75
 
 ; Monaco      ; 3-1; Guingamp
-  Fernando MORIENTES Sanchez 25, 38, Dado PRSO 28pen; Moumouni Beli DAGANO 20
+  Fernando MORIENTES Sanchez 25, 38, Dado PRSO (pk) 28; Moumouni Beli DAGANO 20
 
   [Red card: Auriol GUILLAUME 78 (Guingamp)]  
 
@@ -1157,26 +1157,26 @@ Date: 3/6/2004
   Albert CELADES Lopez 29, Mathieu BEDA 59
 
 ; Metz        ; 0-2; Lens
-  John Chukwudi UTAKA 27, Papa BOUBA DIOP 65pen
+  John Chukwudi UTAKA 27, Papa BOUBA DIOP (pk) 65
 
   [Red card: Stéphane MORISOT 65 (Metz)]
 ; Montpellier ; 0-1; Toulouse
   Achille EMANA Edzimbi 15
 
 ; Paris       ; 1-1; Sochaux
-  Pedro Miguel Carreiro Resendes "PAULETA" 49pen; Francileudo Dos SANTOS Silva 55
+  Pedro Miguel Carreiro Resendes "PAULETA" (pk) 49; Francileudo Dos SANTOS Silva 55
 
 ; Rennes      ; 0-3; Nantes
   Viorel Dinu MOLDOVAN 50, 74, Cédric BARBOSA 52og
 
 ; Strasbourg  ; 2-2; Nice
-  Ulrich LE PEN 60pen, 63; Romain PITAU 34, Olivier ECHOUAFNI 38
+  Ulrich LE PEN (pk) 60, 63; Romain PITAU 34, Olivier ECHOUAFNI 38
 
 
 Date: 3/7/2004
 
 ; Bastia      ; 4-1; Marseille
-  Florian MAURICE 22, Mahamadou DIARRA 27, Chaouki BEN SAADA 49, Bartholomew OGBECHE 55; Tébily Didier Yves DROGBA 79pen
+  Florian MAURICE 22, Mahamadou DIARRA 27, Chaouki BEN SAADA 49, Bartholomew OGBECHE 55; Tébily Didier Yves DROGBA (pk) 79
 
 
 Round: 28 
@@ -1214,7 +1214,7 @@ Date: 3/14/2004
 ; Auxerre     ; 0-0; Monaco
 
 ; Marseille   ; 4-0; Strasbourg
-  Tébily Didier Yves DROGBA 22pen, Steve MARLET 39,
+  Tébily Didier Yves DROGBA (pk) 22, Steve MARLET 39,
    Demetrius FERREIRA Leite 47, 90+3
 
   [Red card: Fabrice EHRET 22 (Strasbourg)]
@@ -1250,14 +1250,14 @@ Lyon         1-0 Nantes
   Mehdi MENIRI 18
 
 ; Monaco      ; 1-1; Sochaux
-  Fernando MORIENTES Sanchez 58pen; Jérémy MATHIEU 90+3
+  Fernando MORIENTES Sanchez (pk) 58; Jérémy MATHIEU 90+3
 
 ; Montpellier ; 1-0; Auxerre
-  Valery MEZAGUE 47pen
+  Valery MEZAGUE (pk) 47
 
   [Red card: Valery MEZAGUE 65 (Montpellier)]
 ; Paris       ; 1-0; Ajaccio
-  Pedro Miguel Carreiro Resendes "PAULETA" 68pen
+  Pedro Miguel Carreiro Resendes "PAULETA" (pk) 68
 
 
 Date: 3/21/2004
@@ -1326,7 +1326,7 @@ Date: 4/3/2004
   Mahamadou DIARRA 28, Florian MAURICE 37; Daniel MESLIN 40
 
 ; Bordeaux    ; 1-1; Strasbourg
-  Christian BASSILA 89og; Ulrich LE PEN 81pen
+  Christian BASSILA 89og; Ulrich LE PEN (pk) 81
 
 ; Lille       ; 1-0; Rennes
   Milenko ACIMOVIC 56
@@ -1414,12 +1414,12 @@ Date: 4/24/2004
   Jean II MAKOUN 30og
 
 ; Lyon        ; 3-0; Rennes
-  Antonio Augusto Ribeiro Reis Jr "JUNINHO Pernambucano" 57pen,
+  Antonio Augusto Ribeiro Reis Jr "JUNINHO Pernambucano" (pk) 57,
    Mickaël ESSIEN 63, Peguy LUYINDULA Makanda 71
 
   [Red card: Grégory BOURILLON 43 (Rennes)]
 ; Metz        ; 1-0; Nice
-  Grégory PROMENT 62pen
+  Grégory PROMENT (pk) 62
 
 ; Monaco      ; 0-1; Nantes
   Marama VAHIRUA 78
@@ -1428,7 +1428,7 @@ Date: 4/24/2004
   Fernando Osvaldo D’AMICO 17, Daniel COUSIN 29, Fabrice PANCRATE 37
 
 ; Toulouse    ; 3-1; Ajaccio
-  Achille EMANA 41, Cédric FAURE 64pen, Christophe AVEZAC 88;
+  Achille EMANA 41, Cédric FAURE (pk) 64, Christophe AVEZAC 88;
    Mamadou BAGAYOKO 90+1
 
   [Red card: Nicolas BONNAL 52 (Toulouse)]
@@ -1499,7 +1499,7 @@ Date: 5/8/2004
 
   [Red card: Daniel COUSIN 75 (Le Mans)]
 ; Lille       ; 2-1; Bordeaux
-  Milenko ACIMOVIC 37pen, Vladimir MANCHEV 50; Bruno ALICARTE 73pen
+  Milenko ACIMOVIC (pk) 37, Vladimir MANCHEV 50; Bruno ALICARTE (pk) 73
 
   [Red card: Marc PLANUS 65 (Bordeaux)]
 ; Metz        ; 1-2; Lyon
@@ -1546,7 +1546,7 @@ Date: 5/12/2004
   Yohan DEMONT 15
 
 ; Le Mans     ; 1-1; Lille
-  James FANCHONE 44pen; Milenko ACIMOVIC 34
+  James FANCHONE (pk) 44; Milenko ACIMOVIC 34
 
 ; Lyon        ; 1-0; Bastia
   Antonio Augusto Ribeiro Reis Jr "JUNINHO Pernambucano" 26
@@ -1584,16 +1584,16 @@ Date: 5/15/2004
 
   [Red card: Efstathios TAVLARIDIS 80 (Lille)]
 ; Metz        ; 3-1; Bordeaux
-  Grégory PROMENT 55pen, Mehdi MENIRI 64, Sébastien RENOUARD 72;
+  Grégory PROMENT (pk) 55, Mehdi MENIRI 64, Sébastien RENOUARD 72;
    Juan Pablo FRANCIA 25
 
   [Red card: Franck JURIETTI 83 (Bordeaux)]
 ; Monaco      ; 1-4; Rennes
-  Fernando MORIENTES Sanchez 10; Alexander FREI 9, Olivier MONTERRUBIO 57pen, 
+  Fernando MORIENTES Sanchez 10; Alexander FREI 9, Olivier MONTERRUBIO (pk) 57, 
    Kim KÄLLSTRÖM 70, 90+4
 
 ; Montpellier ; 1-2; Strasbourg
-  Habib Nomvaya BAMOGO 54pen; Abdelilah FAHMI 48, Pascal CAMADINI 72
+  Habib Nomvaya BAMOGO (pk) 54; Abdelilah FAHMI 48, Pascal CAMADINI 72
 
   [Red card: Mansour ASSOUMANI 47 (Montpellier)]
 ; Paris       ; 1-0; Lyon
@@ -1603,7 +1603,7 @@ Date: 5/15/2004
   Jérémy MATHIEU 37, Francileudo Dos SANTOS Silva 88, Pierre-Alain FRAU 90
 
 ; Toulouse    ; 2-1; Marseille
-  FERNANDAO Lucio Da Costa 44pen, EDUARDO Adelino Da Silva 85; Issoumaïla DAO 3og
+  FERNANDAO Lucio Da Costa (pk) 44, EDUARDO Adelino Da Silva 85; Issoumaïla DAO 3og
 
   [Red card: Khalifa Elhadj BA 54 (Marseille)]
 
@@ -1619,7 +1619,7 @@ Date: 5/21/2004
 Date: 5/23/2004
 
 ; Ajaccio     ; 3-1; Metz
-  Bernard DIOMEDE 38pen, 45, 55; Toifilou MAOULIDA 32
+  Bernard DIOMEDE (pk) 38, 45, 55; Toifilou MAOULIDA 32
 
 ; Bastia      ; 0-1; Paris
   Pedro Miguel Carreiro Resendes "PAULETA" 52
@@ -1628,7 +1628,7 @@ Date: 5/23/2004
   Adama COULIBALY 20og, Frédéric THOMAS 54, Fabrice PANCRATE 72
 
 ; Lyon        ; 3-0; Lille
-  Sidney GOVOU 41, Mahamadou DIARRA 52pen, Peguy LUYINDULA Makanda 80
+  Sidney GOVOU 41, Mahamadou DIARRA (pk) 52, Peguy LUYINDULA Makanda 80
 
 ; Marseille   ; 2-1; Guingamp
   Steve MARLET 13, 41; Farid TALHAOUI 76
@@ -1636,8 +1636,8 @@ Date: 5/23/2004
 ; Nantes      ; 3-1; Sochaux
   Frédéric DA ROCHA 6, Gilles YAPI YAPO 35, Nicolas SAVINAUD 70;
    Souleymane DIAWARA 64
+*  [Red card: Fabien BOUDARENE 90 (Sochaux)]
 
-  [Red card: Fabien BOUDARENE 90 (Sochaux)]
 ; Nice        ; 1-1; Auxerre
   Kamel LARBI 70; Lionel MATHIS 84
 

@@ -1,4 +1,5 @@
 BlockSource: http://rsssf.com/tableso/oost02.html
+Competition: Austrian Bundesliga
 Season: 2001-2002
 
 * 1.FC Tirol Innsbruck           36 23  6  7 63-20  75  [*]  Champions
@@ -28,7 +29,7 @@ Season: 2001-2002
 *    with WSG Wattens of the 3rd level (Regionalliga West), and will
 *    consequently play as WSG Swarovski Wattens/Wacker Tirol in 2002/03. 
 
-Round 1
+Round: 1
 [Jul 10]
 GAK              0-2 Tirol
   [Kirchler 4, Jezek 21]
@@ -41,7 +42,7 @@ Schwarz-Weiß     1-0 Admira M
   [Regtop 75]
 Austria S        0-0 Austria W
 
-Round 2
+Round: 2
 [Jul 17]
 Sturm            1-0 Austria S
   [Haas 71]
@@ -55,7 +56,7 @@ Austria W        2-3 GAK
 Ried             2-2 Rapid
   [Angerschmid 1, Lauwers 21; Freund 16, Saler 57]
 
-Round 3
+Round: 3
 [Jul 24]
 Austria S        0-0 Tirol
 Kärnten          3-0 Rapid
@@ -68,7 +69,7 @@ GAK              3-0 Admira M
 Austria W        1-1 Sturm
   [Datoru 74; G.Korsos 65]
 
-Round 4
+Round: 4
 [Jul 28]
 Sturm            3-0 Kärnten
   [Reinmayr 22, Vastic 56, Haas 89]
@@ -82,7 +83,7 @@ Ried             2-2 GAK
 Tirol            1-0 Austria W
   [Baur 64]
 
-Round 5
+Round: 5
 [Jul 31]
 Austria S        0-1 Rapid
   [Markus Hiden 44]
@@ -96,7 +97,7 @@ GAK              5-0 Kärnten
 Tirol            6-0 Admira M
   [Kirchler 38, Gilewicz 41, 46, Brzeczek 50, Glieder 63, Hörtnagl 92]
 
-Round 6
+Round: 6
 [Aug 4]
 Admira M         2-4 Austria W
   [Hatz 15, Stöger 90; Janocko 30, 44, Mayrleb 47, 86pen]
@@ -111,7 +112,7 @@ Rapid            0-4 GAK
 Sturm            0-1 Tirol
   [Panis 19]
 
-Round 7
+Round: 7
 [Aug 11]
 Tirol            0-0 Ried
 Austria S        1-2 Kärnten
@@ -123,7 +124,7 @@ Austria W        2-1 Rapid
   [Maryleb 43, 52; Wallner 47]
 GAK              0-0 Schwarz-Weiß
 
-Round 8
+Round: 8
 [Aug 18]
 Rapid            0-2 Tirol
   [Mair 48, Brzeczek 65pen]
@@ -136,7 +137,7 @@ Ried             2-3 Admira M
 Sturm            2-0 GAK
   [Vastic 78, Haas 84]
 
-Round 9
+Round: 9
 [Aug 25]
 Austria W        1-0 Schwarz-Weiß
   [Martin Hiden 54pen]
@@ -149,7 +150,7 @@ Austria S        2-1 GAK
   [Laessig 13, A.Korsos 62; B.Akwuegbu 12]
 Admira M         0-0 Rapid
 
-Round 10
+Round: 10
 [Sep 8]
 Rapid            0-1 Admira M
   [Ziervogel 15]
@@ -164,7 +165,7 @@ Ried             2-2 Sturm
 Kärnten          0-2 Tirol 
   [Gilewicz 41, Mair 89]
 
-Round 11
+Round: 11
 [Sep 15]
 Admira M         1-3 Schwarz-Weiß
   [Linimair 46; Lawaree 55, Regtop 80, Vonbrühl 87]
@@ -178,7 +179,7 @@ Tirol            7-0 GAK
 Sturm            1-1 Rapid
   [Amoah 59; Ivanschitz 70]
 
-Round 12
+Round: 12
 [Sep 22]
 Schwarz-Weiß     1-2 Tirol
   [Sturm 77; Glieder 45, 51]
@@ -192,7 +193,7 @@ Rapid            2-0 Ried
 GAK              4-2 Austria W
   [Milinkovic 16, Brunmayr 25, 52, Aufhauser 37; Datoru 35, Kiesenebner 41]
 
-Round 13
+Round: 13
 [Sep 29]
 Ried             2-3 Schwarz-Weiß
   [Radovic 6, Wawra 16; Lawaree 25, 85, Regtop 57]
@@ -206,7 +207,7 @@ Admira M         1-3 GAK
 Rapid            0-1 Kärnten
   [Hota 63]
 
-Round 14 [Oct 10]
+Round: 14 [Oct 10]
 Kärnten          2-0 Sturm
   [Hota 32, 55]
 Austria W        0-1 Tirol
@@ -218,7 +219,7 @@ GAK              3-0 Ried
 Austria S        2-0 Admira M
   [Tomic 80, Friedl 90]
 
-Round 15
+Round: 15
 [Oct 13]
 Kärnten          3-2 GAK
   [Maric 17, Vorderegger 44, Oberleitner 67; Brunmayr 52, Akwuegbu 75]
@@ -232,7 +233,7 @@ Rapid            1-0 Austria S
 Admira M         0-2 Tirol
   [Zwyssig 39, Scharrer 93]
 
-Round 16
+Round: 16
 [Oct 20]
 Austria W        3-0 Admira M
   [Linz 56, Linimair 68og, Sarac 71]
@@ -245,7 +246,7 @@ GAK              1-0 Rapid
   [Brunmayr 16pen]
 Tirol            0-0 Sturm
 
-Round 17
+Round: 17
 [Oct 24]
 Ried             0-2 Tirol
   [Baur 5, Scharrer 53]
@@ -260,7 +261,7 @@ Schwarz-Weiß     2-2 GAK
 Rapid            1-1 Austria W
   [Lagonikakis 58; Linz 38]
 
-Round 18
+Round: 18
 [Nov 3]
 Admira M         0-2 Ried
   [Lauwers 67, Rothbauer 81]
@@ -274,7 +275,7 @@ GAK              1-1 Sturm
 Tirol            2-0 Rapid
   [Brzeczek 2, Zwyssig 37]
 
-Round 19 [Nov 28]
+Round: 19 [Nov 28]
 Kärnten          2-2 Sturm
   [Vorderegger 60, Maric 67; Vastic 32, 79]
 Austria S        1-0 Austria W
@@ -286,7 +287,7 @@ GAK              4-1 Ried
 Rapid            2-2 Schwarz-Weiß
   [Wallner 22, 32pen; Lawaree 20, Regtop 24]
 
-Round 20 
+Round: 20 
 [Nov 17]
 Schwarz-Weiß     0-1 Kärnten
   [Maric 34]
@@ -299,7 +300,7 @@ Tirol            0-1 GAK
 Sturm            1-2 Austria S
   [Rojas 64; Kitzbichler 61, Szewczyk 72]
 
-Round 21
+Round: 21
 [Nov 24]
 Admira M         3-4 Sturm   
   [Bozgo 25, 77, Ziervogel 57; G.Korsos 35, 53, Heldt 43, Strafner 64]
@@ -313,7 +314,7 @@ Kärnten          3-1 Austria S
 Rapid            1-1 Austria W
   [Wallner 73; Janocko 93]
 
-Round 22
+Round: 22
 [Dec 1]
 Austria W        2-1 Kärnten
   [Rushfeldt 33, 37; Oberleitner 94]
@@ -327,7 +328,7 @@ Tirol            1-0 Rapid
 Sturm            2-2 GAK
   [Vastic 45, Mujiri 75; Brunmayr 31, 79]
 
-Round 23
+Round: 23
 [Feb 23]
 Admira M         0-0 Kärnten
 Ried             1-1 Sturm
@@ -340,7 +341,7 @@ GAK              1-1 Austria W
 Rapid            1-0 Austria S
   [Szewczyk 20og]
 
-Round 24
+Round: 24
 [Mar 2]
 Austria W        3-0 Schwarz-Weiß
   [Linz 14, Mayrleb 50, 60]
@@ -354,7 +355,7 @@ Admira M         0-1 Rapid
 Sturm            1-0 Tirol
   [Vastic 88]
 
-Round 25
+Round: 25
 [Mar 9]
 Schwarz-Weiß     1-1 Sturm
   [Lawaree 80; Szabics 18]
@@ -366,7 +367,7 @@ GAK              0-0 Austria S
 Tirol            2-0 Austria W
   [Anfang 28, Jezek 43]
 
-Round 26
+Round: 26
 [Mar 16]
 Admira M         0-2 GAK
   [Brunmayr 6, Standfest 74]
@@ -380,7 +381,7 @@ Sturm            1-0 Rapid
 Kärnten          2-1 Tirol
   [Stary 40pen, Kirchler 73og; Glieder 74]
 
-Round 27
+Round: 27
 [Mar 23]
 Schwarz-Weiß     5-1 Admira M
   [Lawaree 12, 81pen, Pircher 45, Regtop 56, 68; Onyewenjo 7]
@@ -394,7 +395,7 @@ Rapid            1-1 GAK
 Sturm            1-2 Austria W
   [Amoah 62; M.Wagner 4, Rushfeldt 58]
 
-Round 28
+Round: 28
 [Mar 30]
 Austria S        1-1 Tirol
   [Pfeifenberger 46; Brzeczek 18]
@@ -408,7 +409,7 @@ Austria W        3-0 Sturm
 GAK              2-2 Rapid
   [Kollmann 30, Kusi-Asare 72; Sobotzik 26, Hiden 41]
 
-Round 29
+Round: 29
 [Apr 2]
 Tirol            2-1 Admira M
   [Gilewicz 28pen, Baur 34; Bozgo 92pen]
@@ -422,7 +423,7 @@ Sturm            5-1 Kärnten
 Schwarz-Weiß     3-0 Rapid
   [Mattle 14, Lawaree 32, Sturm 70]
 
-Round 30
+Round: 30
 [Apr 6]
 GAK              0-0 Tirol
 Admira M         0-5 Austria W
@@ -436,7 +437,7 @@ Austria S        3-5 Sturm
   [Pichorner 27, Pfeifenberger 37, Brenner 70; Haas 12, 33, Vastic 30pen, 43,
    Rojas 61]
 
-Round 31
+Round: 31
 [Apr 13]
 Tirol            1-1 Ried
   [Baur 77; Drechsel 40]
@@ -450,7 +451,7 @@ Austria S        0-1 Kärnten
 Austria W        1-1 Rapid
   [Rushfeldt 2; R.Wagner 9]
 
-Round 32
+Round: 32
 [Apr 20]
 Admira M         2-2 Austria S
   [Bozgo 28, Suchard 42; Kitzbichler 56pen, Hickersberger 93]
@@ -464,7 +465,7 @@ Kärnten          2-2 Austria W
 GAK              1-1 Sturm
   [Kusi-Asare 30; Panadic 75]
 
-Round 33
+Round: 33
 [Apr 27]
 Schwarz-Weiß     2-0 Tirol
   [Lawaree 14, Sturm 36]
@@ -478,7 +479,7 @@ Austria S        6-1 Rapid
 Austria W        0-2 GAK
   [Tutu 64pen, Kollmann 77]
 
-Round 34 [May 1]
+Round: 34 [May 1]
 Schwarz-Weiß     1-4 Austria W
   [Hlinka 10; Wagner 30, Janocko 80, Rushfeldt 83, Linz 86]
 Rapid            3-2 Admira M
@@ -490,7 +491,7 @@ GAK              3-0 Kärnten
 Tirol            3-4 Sturm
   [Gilewicz 6pen, 41, Jezek 18; Mählich 3, 64, Masudi 32, Vastic 72]
 
-Round 35 [May 4]
+Round: 35 [May 4]
 Admira M         1-3 Ried
   [Bozgo 64: Drechsel 69, 74pen, Akagündüz]
 Austria W        2-1 Tirol
@@ -502,7 +503,7 @@ Austria S        1-0 GAK
 Sturm            4-1 Schwarz-Weiß
   [Pregelj 44, Vastic 49, Haas 55, 56; Lawaree 4]
 
-Round 36 [May 9]
+Round: 36 [May 9]
 Schwarz-Weiß     1-1 Austria S
   [Knorad 19; Laessig 11]
 GAK              5-1 Admira M

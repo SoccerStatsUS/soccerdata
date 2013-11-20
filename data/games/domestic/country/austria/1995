@@ -1,27 +1,23 @@
 BlockSource: http://rsssf.com/tableso/oost96.html
+Season: 1995-1996
+Competition: Austrian Bundesliga
 
-Austria 1995/96
+* 1.SK Rapid Wien                36 22  7  7  68-38 73  Champions
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 2.SK Sturm Graz                36 20  7  9  61-35 67  CWC
+* 3.FC Tirol Innsbruck           36 18  8 10  64-40 62  UEFA Cup
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 4.Grazer AK                    36 14 15  7  46-36 57  UEFA Cup
+* 5.FK Austria Wien              36 14  9 13  42-35 51  UIC
+* 6.Linzer ASK                   36 13  9 14  36-35 48  UIC
+* 7.SV Ried im Innkreis          36 11 14 11  47-53 47  UIC
+* 8.SV Austria Salzburg          36 10 14 12  53-51 44
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 9.FC Admira/Wacker             36  7 13 16  35-61 34  Relegation Playoff
+*-----------------------------------------------------
+*10.SK Vorwärts Steyr            36  0  6 30  25-93  6  Relegated
 
-1.Bundesliga
-
-Table:
-
- 1.SK Rapid Wien                36 22  7  7  68-38 73  Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Sturm Graz                36 20  7  9  61-35 67  CWC
- 3.FC Tirol Innsbruck           36 18  8 10  64-40 62  UEFA Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.Grazer AK                    36 14 15  7  46-36 57  UEFA Cup
- 5.FK Austria Wien              36 14  9 13  42-35 51  UIC
- 6.Linzer ASK                   36 13  9 14  36-35 48  UIC
- 7.SV Ried im Innkreis          36 11 14 11  47-53 47  UIC
- 8.SV Austria Salzburg          36 10 14 12  53-51 44
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Admira/Wacker             36  7 13 16  35-61 34  Relegation Playoff
------------------------------------------------------
-10.SK Vorwärts Steyr            36  0  6 30  25-93  6  Relegated
-
-Round 1
+Round: 1
 [Aug 2]
 Admira/Wacker    1-5 Sturm
 Austria Salzburg 1-1 LASK
@@ -30,7 +26,7 @@ Ried             2-1 Rapid
 [Sep 2]
 GAK              3-0 Tirol    
 
-Round 2
+Round: 2
 [Aug 4]
 LASK             1-1 Ried
 [Aug 5]
@@ -39,7 +35,7 @@ Rapid            1-0 Austria Wien
 Tirol            3-0 Admira/Wacker
 Vorwärts         1-2 GAK
 
-Round 3
+Round: 3
 [Aug 11]
 Austria Wien     0-1 LASK
 [Aug 12]
@@ -48,7 +44,7 @@ GAK              1-2 Rapid
 Ried             2-4 Sturm
 Tirol            5-1 Vorwärts
 
-Round 4
+Round: 4
 [Aug 18]
 Vorwärts         0-1 Admira/Wacker
 [Aug 19]
@@ -57,7 +53,7 @@ Austria Salzburg 1-1 Ried
 Sturm            2-0 Austria Wien
 LASK             0-0 GAK
 
-Round 5
+Round: 5
 [Aug 25]
 Admira/Wacker    3-2 Ried
 [Aug 26]
@@ -66,14 +62,14 @@ GAK              3-2 Sturm
 Tirol            2-1 LASK
 Vorwärts         0-2 Rapid
 
-Round 6 [Aug 30]
+Round: 6 [Aug 30]
 Austria Salzburg 2-1 GAK
 Ried             0-0 Austria Wien
 Rapid            1-1 Admira/Wacker
 Sturm            2-0 Tirol
 LASK             1-0 Vorwärts
 
-Round 7
+Round: 7
 [Sep 16]
 Vorwärts         1-3 Sturm
 GAK              4-2 Ried
@@ -82,35 +78,35 @@ Tirol            1-1 Austria Salzburg
 [Sep 17]
 Rapid            1-1 LASK
 
-Round 8 [Sep 20]
+Round: 8 [Sep 20]
 Sturm            0-1 Rapid
 Ried             2-1 Tirol
 Austria Salzburg 4-0 Vorwärts
 Austria Wien     3-2 GAK
 LASK             2-0 Admira/Wacker
 
-Round 9 [Sep 23]
+Round: 9 [Sep 23]
 Rapid            3-1 Austria Salzburg
 LASK             2-1 Sturm
 Tirol            3-1 Austria Wien
 GAK              1-1 Admira/Wacker
 Vorwärts         0-2 Ried
 
-Round 10 [Oct 3]
+Round: 10 [Oct 3]
 Austria Salzburg 0-3 Rapid
 Sturm            3-1 LASK
 Austria Wien     1-0 Tirol
 Admira/Wacker    0-2 GAK
 Ried             3-1 Vorwärts
 
-Round 11 [Oct 6]
+Round: 11 [Oct 6]
 Rapid            4-1 Ried
 Sturm            0-0 Admira/Wacker
 Tirol            1-1 GAK
 LASK             0-0 Austria Salzburg
 Vorwärts         0-0 Austria Wien
 
-Round 12
+Round: 12
 [Oct 14]
 Austria Wien     4-1 Rapid
 Austria Salzburg 1-1 Sturm
@@ -119,7 +115,7 @@ GAK              1-1 Vorwärts
 [Oct 15]
 Admira/Wacker    0-0 Tirol
 
-Round 13
+Round: 13
 [Oct 20]
 Vorwärts         2-2 Tirol
 [Oct 21]
@@ -129,7 +125,7 @@ Austria Salzburg 2-2 Admira/Wacker
 [Oct 22]
 Rapid            3-1 GAK
 
-Round 14
+Round: 14
 [Oct 28]
 Admira/Wacker    4-1 Vorwärts
 Austria Wien     0-3 Sturm
@@ -138,7 +134,7 @@ Tirol            1-2 Rapid
 [Oct 29]
 GAK              1-0 LASK
 
-Round 15
+Round: 15
 [Nov 4]
 Sturm            1-1 GAK
 LASK             1-2 Tirol
@@ -148,7 +144,7 @@ Rapid            4-3 Vorwärts
 [Nov 25]
 Austria Salzburg 2-2 Austria Wien   
 
-Round 16
+Round: 16
 [Nov 8]
 Admira/Wacker    1-1 Rapid
 GAK              0-0 Austria Salzburg
@@ -160,7 +156,7 @@ Vorwärts         0-3 LASK   [Awarded Nov 13. Originally abandoned in the 74'
                              of floodlights; Vorwärts then refused to
                              continue when the referee summoned the teams
                              on again.]
-Round 17
+Round: 17
 [Nov 18]
 GAK              0-0 Austria Wien
 Tirol            2-0 Ried
@@ -169,7 +165,7 @@ Vorwärts         0-6 Austria Salzburg
 [Nov 19]
 Rapid            0-2 Sturm
 
-Round 18
+Round: 18
 [Nov 21]
 LASK             2-0 Rapid
 Austria Salzburg 3-1 Tirol
@@ -178,7 +174,7 @@ Ried             0-0 GAK
 [Nov 22]
 Sturm            4-2 Vorwärts
 
-Round 19
+Round: 19
 [Mar 2]
 LASK             0-2 Rapid
 Tirol            2-0 GAK
@@ -187,7 +183,7 @@ Austria Salzburg 0-3 Ried
 [Mar 20]
 Sturm            2-0 Admira/Wacker   
 
-Round 20
+Round: 20
 [Mar 9]
 GAK              1-0 LASK
 Ried             1-0 Austria Wien
@@ -197,7 +193,7 @@ Rapid            3-1 Austria Salzburg
 [Apr 16]
 Vorwärts         1-3 Sturm 
 
-Round 21
+Round: 21
 [Feb 28]
 Rapid            1-0 GAK
 [Mar 13]
@@ -206,7 +202,7 @@ LASK             0-0 Admira/Wacker
 Sturm            3-1 Ried
 Tirol            3-0 Vorwärts
 
-Round 22
+Round: 22
 [Mar 16]
 Austria Wien     0-1 Sturm
 Ried             0-6 Tirol
@@ -215,7 +211,7 @@ Vorwärts         1-2 LASK
 [Mar 17]
 Admira/Wacker    0-0 Rapid
 
-Round 23
+Round: 23
 [Mar 23]
 Austria Salzburg 1-2 Sturm
 Tirol            2-0 Austria Wien
@@ -224,7 +220,7 @@ GAK              2-0 Admira/Wacker
 [Mar 24]
 Rapid            2-0 Vorwärts
 
-Round 24
+Round: 24
 [Mar 29]
 Austria Wien     3-0 LASK
 [Mar 30]
@@ -233,7 +229,7 @@ Sturm            0-1 Tirol
 Vorwärts         0-1 GAK
 Ried             1-1 Rapid
 
-Round 25
+Round: 25
 [Apr 6]
 GAK              1-1 Ried
 Austria Salzburg 0-2 Tirol
@@ -242,21 +238,21 @@ Admira/Wacker    3-0 Vorwärts
 LASK             2-1 Sturm
 Rapid            0-1 Austria Wien
 
-Round 26 [Apr 10]
+Round: 26 [Apr 10]
 Sturm            1-0 Rapid
 Ried             2-3 Admira/Wacker
 Vorwärts         1-3 Austria Salzburg
 Austria Wien     0-1 GAK
 Tirol            2-1 LASK 
 
-Round 27 [Apr 13]
+Round: 27 [Apr 13]
 Rapid            3-1 Tirol
 GAK              1-0 Sturm
 Admira/Wacker    0-3 Austria Wien
 LASK             3-0 Austria Salzburg
 Vorwärts         1-2 Ried
 
-Round 28
+Round: 28
 [Apr 16]
 Austria Wien     0-1 Admira/Wacker
 [Apr 30]
@@ -266,7 +262,7 @@ Austria Salzburg awd LASK              [3-0 awarded May 2, since LASK made 4
 Ried             1-1 Vorwärts 
 Tirol            1-1 Rapid
 
-Round 29
+Round: 29
 [Apr 20]
 GAK              1-3 Tirol
 Admira/Wacker    0-2 Sturm
@@ -275,7 +271,7 @@ Ried             1-1 Austria Salzburg
 [Apr 21]
 Rapid            2-1 LASK
 
-Round 30
+Round: 30
 [Apr 26]
 Sturm            0-0 Vorwärts
 Tirol            2-0 Admira/Wacker
@@ -284,7 +280,7 @@ Austria Salzburg 4-2 Rapid
 LASK             1-1 GAK
 Austria Wien     2-0 Ried
 
-Round 31
+Round: 31
 [May 4]
 Austria Wien     2-0 Austria Salzburg
 Vorwärts         0-3 Tirol
@@ -293,7 +289,7 @@ Admira/Wacker    0-1 LASK
 Ried             2-2 Sturm
 GAK              1-1 Rapid
 
-Round 32
+Round: 32
 [May 10]
 Admira/Wacker    1-1 GAK
 [May 11]
@@ -302,7 +298,7 @@ Austria Wien     1-0 Tirol
 Sturm            2-1 Austria Salzburg
 Ried             1-0 LASK
 
-Round 33
+Round: 33
 [May 14]
 Rapid            6-0 Admira/Wacker
 Sturm            3-0 Austria Wien
@@ -310,7 +306,7 @@ Austria Salzburg 0-0 GAK
 LASK             3-1 Vorwärts
 Tirol            awd Ried            [awarded 0-3 May 17; was abandoned at 2-2 in the
                                       87th minute because of a pitch invasion]
-Round 34
+Round: 34
 [May 18]
 Rapid            4-2 Ried
 Tirol            1-1 Sturm
@@ -318,7 +314,7 @@ GAK              3-2 Vorwärts
 LASK             2-0 Austria Wien
 Austria Salzburg 2-2 Admira/Wacker
 
-Round 35
+Round: 35
 [May 25]
 Austria Wien     0-2 Rapid
 Ried             2-2 GAK
@@ -326,7 +322,7 @@ Sturm            2-1 LASK
 Tirol            3-1 Austria Salzburg
 Vorwärts         0-2 Admira/Wacker
 
-Round 36 
+Round: 36 
 [Jun 1]
 Rapid            2-0 Sturm 
 GAK              2-2 Austria Wien
@@ -376,7 +372,7 @@ Admira/Wacker remains in first division.
 
 Austria, OeFB ("Magnofit") Cup 1995/96
 
-Round 1 (Aug 2 - Aug 22)
+Round: 1 (Aug 2 - Aug 22)
 -------
  RW Rankweil - SC Austria Lustenau        0:1
  FC Dornbirn - FC Hard                    2:7
@@ -434,7 +430,7 @@ Round 1 (Aug 2 - Aug 22)
  ASK/BSC Bruck/L. - EPSV Gmünd            2:0
 
 
-Round 2 
+Round: 2 
 [Sep 7]
 SC/ESV Parndorf         1-0     ASK/BSC Bruck/Leitha 
 [Sep 8]
@@ -471,7 +467,7 @@ FC Waidhofen/Y.         2-0     ASK Kottingbrunn        [aet]
 Untersiebenbrunn        3-1     Admira Landhaus         [aet]
 Gersthofer SV           1-0     SV Essling            
 
-Round 3 
+Round: 3 
 [Sep 29]
 Austria Klagenfurt      1-3     DSV Leoben
 SC/ESV Parndorf         0-3     SG Gerasdorf 
@@ -491,7 +487,7 @@ ASK Voitsberg           1-3     VfB Mödling
 FC Köflach              2-3     ASK Klingenbach    
 Gersthofer SV           0-6     Vienna              
 
-Round 4 
+Round: 4 
 [Oct 24]
 SG Gerasdorf            1-0     ASK Klingenbach 
 Vienna                  0-3     Admira/Wacker 
@@ -504,7 +500,7 @@ Grazer AK               2-0     SV Casino Salzburg
 Flavia Solva            1-0     Linzer ASK 
 FC Hard                 1-0     VfB Mödling
 
-Round 5 - Quarter Finals (Nov 25, 1995)
+Round: 5 - Quarter Finals (Nov 25, 1995)
 -------
 
  SG Gerasdorf - SK Sturm Graz ........... 1:2
@@ -512,7 +508,7 @@ Round 5 - Quarter Finals (Nov 25, 1995)
  Flavia Solva - Admira/Wacker ...... 0:3 n.V.
  FC Hard - SK Vorwärts Steyr ....... 0:1 n.V.
 
-Round 6 - Semi Finals (May 7, 1996) 
+Round: 6 - Semi Finals (May 7, 1996) 
 -------
 
  SK Sturm Graz - Grazer AK .............. 3:1
@@ -559,7 +555,7 @@ Table:
 16.ASK Klingenbach              30  4  8 18  28-54 20  Relegated
 
 
-Round 1
+Round: 1
 Austria Lustenau 2-2 Linz
 Kufstein         1-4 Braunau
 Oberwart         3-1 Vienna
@@ -569,7 +565,7 @@ SAK              0-1 FavAC
 Spittal          0-1 Flavia Solva
 Wattens          2-2 Gerasdorf
 
-Round 2
+Round: 2
 Braunau          1-1 Sankt Pölten
 Linz             0-0 Gerasdorf
 Vienna           5-0 Spittal
@@ -579,7 +575,7 @@ Austria Lustenau 5-0 SAK
 FavAC            2-1 Kufstein
 DSV              1-1 Wattens
 
-Round 3
+Round: 3
 Sankt Pölten     3-6 FavAC
 Spittal          3-1 Klingenbach
 Gerasdorf        0-0 DSV
@@ -589,7 +585,7 @@ Wattens          1-1 Flavia Solva
 Kufstein         0-2 Austria Lustenau
 Oberwart         2-1 Braunau
 
-Round 4
+Round: 4
 Linz             4-1 DSV
 Vienna           1-1 Wattens
 Braunau          0-3 Spittal
@@ -599,7 +595,7 @@ SAK              4-0 Kufstein
 Flavia Solva     0-0 Gerasdorf
 FavAC            3-0 Oberwart
 
-Round 5
+Round: 5
 Sankt Pölten     1-1 SAK
 Spittal          2-2 FavAC
 Oberwart         1-5 Austria Lustenau
@@ -609,7 +605,7 @@ Kufstein         0-1 Linz
 Gerasdorf        2-2 Vienna
 Wattens          3-2 Klingenbach
 
-Round 6
+Round: 6
 FavAC            3-0 Mödling
 Linz             1-0 Flavia Solva
 Braunau          1-1 Wattens
@@ -619,7 +615,7 @@ Austria Lustenau 1-0 Spittal
 Klingenbach      0-3 Gerasdorf
 SAK              0-0 Oberwart
 
-Round 7
+Round: 7
 Oberwart         3-2 Kufstein
 Austria Lustenau 0-1 Mödling
 Spittal          4-2 SAK
@@ -630,7 +626,7 @@ Wattens          1-0 FavAC
 Sankt Pölten     1-7 Linz              [originally abandoned because of
                                         floodlight failure at 1-3 in 63']
 
-Round 8
+Round: 8
 Linz             4-0 Vienna
 FavAC            1-1 Gerasdorf
 SAK              1-1 Mödling
@@ -640,7 +636,7 @@ Austria Lustenau 2-1 Wattens
 Kufstein         2-1 Spittal
 Klingenbach      1-1 Flavia Solva
 
-Round 9
+Round: 9
 DSV              2-0 FavAC
 Flavia Solva     0-0 Braunau
 Oberwart         0-1 Linz
@@ -650,7 +646,7 @@ Mödling          1-2 Kufstein
 Spittal          1-1 Sankt Pölten
 Gerasdorf        1-1 Austria Lustenau
  
-Round 10
+Round: 10
 Linz             3-1 Klingenbach
 Sankt Pölten     1-2 Mödling
 Braunau          2-0 Vienna
@@ -660,7 +656,7 @@ Oberwart         1-1 Spittal
 FavAC            0-0 Flavia Solva
 SAK              0-3 Gerasdorf
 
-Round 11
+Round: 11
 Vienna           2-2 FavAC
 Mödling          5-0 Oberwart
 DSV              0-1 SAK
@@ -670,7 +666,7 @@ Flavia Solva     1-0 Austria Lustenau
 Wattens          3-1 Sankt Pöten
 Spittal          4-3 Linz
 
-Round 12
+Round: 12
 Linz             1-3 Braunau
 Spittal          3-0 Mödling
 FavAC            1-1 Klingenbach
@@ -680,7 +676,7 @@ Kufstein         2-2 DSV
 SAK              2-3 Flavia Solva
 Vienna           3-3 Austria Lustenau 
 
-Round 13
+Round: 13
 Mödling          4-0 Linz
 Braunau          2-2 FavAC
 Wattens          0-0 Spittal
@@ -690,7 +686,7 @@ Klingenbach      0-0 Austria Lustenau
 Vienna           1-0 SAK
 Gerasdorf        2-0 Oberwart
 
-Round 14
+Round: 14
 Kufstein         2-2 Vienna
 Braunau          1-0 Austria Lustenau
 Sankt Pölten     1-2 Flavia Solva
@@ -700,7 +696,7 @@ Oberwart         0-1 DSV
 Spittal          1-2 Gerasdorf
 SAK              1-1 Klingenbach
 
-Round 15
+Round: 15
 DSV              1-2 Spittal
 Klingenbach      0-1 Kufstein
 Flavia Solva     0-0 Oberwart
@@ -710,7 +706,7 @@ Braunau          0-2 SAK
 FavAC            1-0 Austria Lustenau
 Wattens          2-0 Linz
 
-Round 16
+Round: 16
 Linz             1-0 Wattens
 Spittal          0-2 DSV
 Sankt Pölten     2-0 Vienna
@@ -720,7 +716,7 @@ Kufstein         2-0 Klingenbach
 Oberwart         1-1 Flavia Solva      
 SAK              0-0 Braunau   
 
-Round 17
+Round: 17
 Vienna           2-0 Oberwart
 Braunau          2-1 Kufstein
 Linz             1-0 Austria Lustenau
@@ -730,7 +726,7 @@ FavAC            2-1 SAK
 Gerasdorf        2-0 Wattens
 DSV              1-1 Mödling
 
-Round 18
+Round: 18
 Oberwart         4-1 Klingenbach
 Sankt Pölten     1-1 Braunau
 Gerasdorf        1-1 Linz
@@ -740,7 +736,7 @@ SAK              1-0 Austria Lustenau
 Wattens          1-1 DSV
 Mödling          0-1 Flavia Solva          
 
-Round 19
+Round: 19
 Linz             3-1 SAK
 Braunau          2-0 Oberwart
 Austria Lustenau 2-1 Kufstein
@@ -750,7 +746,7 @@ Flavia Solva     0-2 Wattens
 DSV              2-2 Gerasdorf
 FavAC            0-0 Sankt Pölten
 
-Round 20
+Round: 20
 Wattens          0-0 Vienna
 Spittal          1-0 Braunau
 Oberwart         1-1 FavAC
@@ -760,7 +756,7 @@ Sankt Pölten     1-0 Austria Lustenau
 DSV              0-0 Linz  
 Mödling          2-0 Klingenbach         
 
-Round 21
+Round: 21
 FavAC            0-0 Spittal
 Flavia Solva     0-2 DSV
 Klingenbach      0-1 Wattens
@@ -770,7 +766,7 @@ Braunau          1-1 Mödling
 Austria Lustenau 1-2 Oberwart
 SAK              1-0 Sankt Pölten
 
-Round 22
+Round: 22
 Mödling          3-0 FavAC
 Sankt Pölten     0-1 Kufstein
 DSV              1-0 Vienna
@@ -780,7 +776,7 @@ Spittal          0-0 Austria Lustenau
 Wattens          0-0 Braunau
 Gerasdorf        0-1 Klingenbach
 
-Round 23
+Round: 23
 Linz             2-0 Sankt Pölten
 Braunau          1-2 Gerasdorf
 Vienna           2-1 Flavia Solva
@@ -790,7 +786,7 @@ Klingenbach      0-0 DSV
 Kufstein         0-2 Oberwart
 FavAC            1-1 Wattens
 
-Round 24    
+Round: 24    
 Vienna           1-3 Linz
 DSV              3-0 Braunau
 Gerasdorf        1-2 FavAC
@@ -800,7 +796,7 @@ Wattens          0-0 Austria Lustenau
 Spittal          0-2 Kufstein
 Oberwart         0-1 Sankt Pölten
 
-Round 25
+Round: 25
 FavAC            3-0 DSV
 Linz             2-1 Oberwart
 Sankt Pölten     1-0 Spittal
@@ -810,7 +806,7 @@ Braunau          2-2 Flavia Solva
 Klingenbach      2-3 Vienna
 Austria Lustenau 0-0 Gerasdorf
 
-Round 26
+Round: 26
 DSV              1-2 Austria Lustenau
 Spittal          3-2 Oberwart
 Wattens          0-2 Kufstein
@@ -820,7 +816,7 @@ Gerasdorf        4-1 SAK
 Klingenbach      1-2 Linz
 Flavia Solva     0-0 FavAC
 
-Round 27
+Round: 27
 Linz             3-0 Spittal
 Sankt Pölten     3-1 Wattens
 Braunau          4-1 Klingenbach
@@ -830,7 +826,7 @@ Oberwart         3-0 Mödling
 SAK              0-3 DSV
 FavAC            1-2 Vienna
 
-Round 28
+Round: 28
 Gerasdorf        6-1 Sankt Pölten
 DSV              4-0 Kufstein
 Wattens          1-1 Oberwart
@@ -840,7 +836,7 @@ Flavia Solva     1-1 SAK
 Mödling          4-0 Spittal
 Austria Lustenau 2-2 Vienna
 
-Round 29
+Round: 29
 Linz             5-0 Mödling
 Oberwart         0-4 Gerasdorf
 SAK              2-1 Vienna
@@ -850,7 +846,7 @@ Kufstein         3-0 Flavia Solva
 Sankt Pölten     2-3 DSV
 FavAC            2-0 Braunau
 
-Round 30
+Round: 30
 FavAC            1-2 Linz
 Austria Lustenau 1-1 Braunau
 Klingenbach      0-2 SAK

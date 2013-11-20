@@ -34,7 +34,7 @@ Date: 8/4/2006
 Date: 8/5/2006
 
 ; Rennes       ; 1-2; Lille
-  Olivier Monterrubio 56pen; Mathieu Bodmer 10, Abdelkader Keita 42
+  Olivier Monterrubio (pk) 56; Mathieu Bodmer 10, Abdelkader Keita 42
 
 ; Le Mans      ; 1-0; Nice
   Edinaldo Batista Libano ‘Grafite’ 18
@@ -73,7 +73,7 @@ Date: 8/12/2006
   Florent Malouda 83; Fabio Alves Silva Fabinho 90
 
 ; Monaco       ; 1-2; Saint-Etienne
-  Lopez Segura Gerard 87pen; Pascal Feindouno 12, Frédéric Piquione 72
+  Lopez Segura Gerard (pk) 87; Pascal Feindouno 12, Frédéric Piquione 72
 
 ; Nancy        ; 3-1; Sedan
   Benjamin Gavanon 77, Gaston Curbelo 79, Tosin Dosunmu 88; 
@@ -115,7 +115,7 @@ Date: 8/19/2006
   Pedro Miguel Pauleta 58
 
 ; Sedan        ; 1-1; Sochaux
-  Yoann Lachor 87pen; Julien Quercia 15
+  Yoann Lachor (pk) 87; Julien Quercia 15
 
 ;; Saint-Etienne; 1-0 Nancy
   Araujo Dall’igna Ilan 63
@@ -145,11 +145,11 @@ Date: 8/26/2006
   André-Pierre Cignac 3, 15, 27; Frédéric Da Rocha 13
   
 ; Nice         ; 1-4; Lyon
-  Marama Vahiura 27; Florent Malouda 49, Karim Benzema 69, 90+1pen,
+  Marama Vahiura 27; Florent Malouda 49, Karim Benzema 69, (pk) 90+1,
    Mendes Tiago 74
 
 ; Sochaux      ; 3-2; Paris-SG
-  Karim Ziani 30, 82pen, Badara Sène 36; Pedro Miguel Pauleta 71, 75
+  Karim Ziani 30, (pk) 82, Badara Sène 36; Pedro Miguel Pauleta 71, 75
 
 ; Troyes       ; 1-2; Toulouse
   Benjamin Nivet 68; Laurent Battles 20, Achille Emana 57
@@ -158,18 +158,18 @@ Date: 8/26/2006
 Date: 8/27/2006
 
 ; Marseille    ; 2-0; Le Mans
-  Habib Bamogo 69, Mamadou Niang 78pen
+  Habib Bamogo 69, Mamadou Niang (pk) 78
 
 ; Monaco       ; 2-1; Sedan
   Mohamed Kallon 31, François-Joseph Modesto 42; 
    Fabian Guedes Bolivar 82og
 
 ; Nancy        ; 1-0; Auxerre
-  Benjamin Gavanon 74pen
+  Benjamin Gavanon (pk) 74
 
 ;; Saint-Etienne; 3-2 Lens
   Yohan Demont 17og, Araujo Dall’igna Ilan 45, Pascal Feindouno 56;
-   Araujo Dall’igna Ilan 75og, Ferreira Viera Jussié 79pen
+   Araujo Dall’igna Ilan 75og, Ferreira Viera Jussié (pk) 79
 
 ; Valenciennes ; 3-1; Rennes
   Laurent Dufresne 62, 71, Yacine Bezzaz 90; Jimmy Briand 22
@@ -183,8 +183,8 @@ Date: 9/9/2006
   Bruno Cheyrou 28, Ireneusz Jelen 58; Frédéric Nimani N’Galou 61
   
 ; Bordeaux     ; 3-2; Nice
-  Jean-Claude Darcheville 41, 64pen, Geraldo Mauricio Wendell 44; 
-   Cédric Varrault 28, Honorato Ederson 77pen
+  Jean-Claude Darcheville 41, (pk) 64, Geraldo Mauricio Wendell 44; 
+   Cédric Varrault 28, Honorato Ederson (pk) 77
 
 ; Le Mans      ; 1-1; Lorient
   Edinaldo Batista Libano Grafite 49; Jéremy Morel 61
@@ -199,16 +199,16 @@ Date: 9/9/2006
   Dimitri Payet 69; Osaze Peter Odemwingie 10
 
 ; Rennes       ; 2-1; Sochaux
-  Cyril Jeunechamp 52, Olivier Montérubbio 61pen; Marcio Alvaro Santos 55
+  Cyril Jeunechamp 52, Olivier Montérubbio (pk) 61; Marcio Alvaro Santos 55
  
 ; Sedan        ; 2-2; Saint-Etienne
-  Stéphane  Noro 9, 52; Frédérique Piquione 2, Pascal Feindouno 77pen
+  Stéphane  Noro 9, 52; Frédérique Piquione 2, Pascal Feindouno (pk) 77
 
 
 Date: 9/10/2006
 
 ;; Paris-SG;      1-3 Marseille
-  Pedro Miguel Pauleta 22pen; Mamadou Niang 7pen, Samir Nasri 68pen, 
+  Pedro Miguel Pauleta (pk) 22; Mamadou Niang (pk) 7, Samir Nasri (pk) 68, 
    Mickaël Pagis 88
  
 ; Toulouse     ; 2-2; Nancy    
@@ -232,7 +232,7 @@ Date: 9/16/2006
   Nadir Belhadj 79; Ismaël Bangoura 4, André Paulo Cren Benini 25
  
 ; Troyes       ; 2-0; Nice  
-  David Gigliotti 52, Benjamin Nivet 75pen
+  David Gigliotti 52, Benjamin Nivet (pk) 75
 
 ; Valenciennes ; 1-0; Nantes
   Steve Savidan 37
@@ -241,7 +241,7 @@ Date: 9/16/2006
 Date: 9/17/2006
 
 ; Marseille    ; 2-1; Bordeaux
-  Mickaël Pagis 48, Taye Ismaila Taiwo 55; Marouane Chamakh 63pen
+  Mickaël Pagis 48, Taye Ismaila Taiwo 55; Marouane Chamakh (pk) 63
 
 ; Monaco       ; 1-2; Paris-SG
   Mohamed Kallon 33; David Rozehnal 42, David Hellebuyck 54
@@ -249,7 +249,7 @@ Date: 9/17/2006
 ; Nancy        ; 0-0; Rennes  
 
 ;; Saint-Etienne; 2-3 Auxerre
-  Araujo Dall’igna Ilan 9pen, Geoffrey Dernis 46; Lionel Mathis 41, 
+  Araujo Dall’igna Ilan (pk) 9, Geoffrey Dernis 46; Lionel Mathis 41, 
    Kanga Gauthier Akalé 76, Bruno Cheyrou 90
   
 ; Sochaux      ; 0-3; Lens  
@@ -277,7 +277,7 @@ Date: 9/23/2006
    Frederico Chaves Guedes Fred 63, 69; Abdelkader Keita 23
 
 ; Nice         ; 2-0; Valenciennes
-  Cédric Varrault 85, David Bellion 90pen
+  Cédric Varrault 85, David Bellion (pk) 90
 
 ;; Paris-SG;      0-0 Nancy
 
@@ -289,7 +289,7 @@ Date: 9/23/2006
 Date: 9/24/2006
 
 ; Lens         ; 1-0; Monaco
-  Ferreira Vieira Jussié 5pen
+  Ferreira Vieira Jussié (pk) 5
 
 ; Nantes       ; 2-1; Marseille
   Dimitri Payet 37, Guillaume Norbert 49; Mamadou Niang 78
@@ -305,10 +305,10 @@ Date: 9/30/2006
 ; Lorient      ; 0-0; Troyes
 
 ; Monaco       ; 2-1; Le Mans
-  Yaya Touré 9, Jérémy Menez 83; N’Dri Koffi Romaric 24pen
+  Yaya Touré 9, Jérémy Menez 83; N’Dri Koffi Romaric (pk) 24
 
 ; Sedan        ; 1-0; Rennes
-  Stéphane Noro 39pen
+  Stéphane Noro (pk) 39
 
 ; Sochaux      ; 0-1; Lyon
   Sylvain Wiltord 78
@@ -340,13 +340,13 @@ Date: 10/14/2006
   Mendes Tiago 64, Juninho Pernambucano 88; Yohan Hautcoeur 67
 
 ; Nantes       ; 0-2; Sochaux
-  Rabiu Afolabi 27, Marcio Alvaro Santos 48pen
+  Rabiu Afolabi 27, Marcio Alvaro Santos (pk) 48
 
 ; Nice         ; 3-0; Lorient
   David Bellion 12, 50, Bakari Koné 76
 
 ;; Paris-SG;      4-2 Sedan
-  Pierre-Alain Frau 4, Mario Yepès 48, Pedro Miguel Pauleta 56, 72pen; 
+  Pierre-Alain Frau 4, Mario Yepès 48, Pedro Miguel Pauleta 56, (pk) 72; 
    YOann Lachor 19, Mansour Boutabout 90
 
 ; Rennes       ; 3-1; Auxerre
@@ -356,7 +356,7 @@ Date: 10/14/2006
   Laurent Battles 9, Fodé Mansaré 12, Albin Ebondo 29
 
 ; Troyes       ; 1-1; Lille
-  Bejamin Nivet 40pen; Abdelkader Keita 46
+  Bejamin Nivet (pk) 40; Abdelkader Keita 46
 
 
 Date: 10/15/2006
@@ -364,14 +364,14 @@ Date: 10/15/2006
 ; Le Mans      ; 0-0; Nancy
 
 ; Lens         ; 1-1; Marseille
-  Aruna Dindane 79pen; Mamadou Niang 63pen
+  Aruna Dindane (pk) 79; Mamadou Niang (pk) 63
 
 
 Round: 10 
 Date: 10/21/2006
 
 ; Lille        ; 1-0; Lorient
-  Mathieu Bodmer 35pen
+  Mathieu Bodmer (pk) 35
 
 ; Monaco       ; 1-3; Toulouse
   Marco Di Vaio 13; Bryan Bergougnoux 11, Johan Elmander 84, 
@@ -391,7 +391,7 @@ Date: 10/21/2006
    Seydou Keita 30
 
 ; Sochaux      ; 2-1; Bordeaux
-  Marcio Alvaro Santos 3, Valter Birsa 69; Pierre Ducasse 90pen
+  Marcio Alvaro Santos 3, Valter Birsa 69; Pierre Ducasse (pk) 90
 ]
 ; Valenciennes ; 3-1; Troyes
   Sébastien Roudet 32, 53, Thomas Dossévi 77; Gaël Sanz 40
@@ -410,7 +410,7 @@ Date: 10/28/2006
 
 ; Bordeaux     ; 3-1; Sedan
   Geraldo Mauricio Wendell, Yohan Micoud 47, 
-   Jean-Claude Darcheville 53pen; Nadir Belhadj 18
+   Jean-Claude Darcheville (pk) 53; Nadir Belhadj 18
 
 ; Lens         ; 1-0; Auxerre
   Yohan Demont 62
@@ -428,7 +428,7 @@ Date: 10/28/2006
   Amara Diané 44
 
 ; Toulouse     ; 1-2; Sochaux
-  Laurent Battles 21; Marcio Alvaro Santos 32pen, Karim Ziani 88
+  Laurent Battles 21; Marcio Alvaro Santos (pk) 32, Karim Ziani 88
 
 ; Troyes       ; 3-1; Saint-Etienne
   Gaël Danic 56, Gharib Amzine 74, David Gigliotti 86; 
@@ -441,14 +441,14 @@ Date: 10/29/2006
   John Carew 13
 
 ; Nice         ; 2-1; Marseille
-  Cyril Rool 24, Honorato Ederson 90pen; Mickaël Pagis 61
+  Cyril Rool 24, Honorato Ederson (pk) 90; Mickaël Pagis 61
 
 Round: 12 
 Date: 11/4/2006
 
 ; Auxerre      ; 2-3; Le Mans
-  Kanga Gauthier Akalé 56, Luigi Pieroni 79pen; 
-   Ismaël Bangoura 15, 81pen, 90
+  Kanga Gauthier Akalé 56, Luigi Pieroni (pk) 79; 
+   Ismaël Bangoura 15, (pk) 81, 90
 
 ; Marseille    ; 0-1; Lorient
   André-Pierre Gignac 48
@@ -474,7 +474,7 @@ Date: 11/4/2006
 Date: 11/5/2006
 
 ; Nancy        ; 2-1; Bordeaux
-  Sébastien Puygrenier 16, Moncef Zerka 54pen; Jean-Claude Darcheville 32
+  Sébastien Puygrenier 16, Moncef Zerka (pk) 54; Jean-Claude Darcheville 32
 
 ;; Paris-SG;      1-3 Lens
   Sylvain Armand 25; Daniel Cousin 48, 67, Olivier Thomert 81
@@ -492,7 +492,7 @@ Date: 11/11/2006
 ; Bordeaux     ; 0-0; Auxerre
 
 ; Le Mans      ; 1-1; Paris-SG
-  Chiguy Lucau 37; Bonaventure Kalou 11pen
+  Chiguy Lucau 37; Bonaventure Kalou (pk) 11
 
 ; Lens         ; 0-0; Rennes
 
@@ -515,7 +515,7 @@ Date: 11/12/2006
   Mathieu Bodmer 45
 
 ; Troyes       ; 0-4; Monaco
-  Serge Gakpé 19, Camel Meriem 72pen, Yaya Touré 84, Marco Di Vaio 90
+  Serge Gakpé 19, Camel Meriem (pk) 72, Yaya Touré 84, Marco Di Vaio 90
 
 Round: 14 
 Date: 11/18/2006
@@ -561,13 +561,13 @@ Date: 11/25/2006
   Mathieu Bodmer 77; Serge Gakpé 37
  
 ; Lorient      ; 1-3; Sochaux
-  Sylvain Marchal 2; Anthony Le Tallec 23, 26, Karim Ziani 45pen
+  Sylvain Marchal 2; Anthony Le Tallec 23, 26, Karim Ziani (pk) 45
 
 ; Nice         ; 2-2; Sedan
   Bakari Koné 55, Cédric Kanté 75; Joseph Désiré Job 17, Grégory Pujol 86
 
 ; Toulouse     ; 1-0; Rennes
-  Bryan Bergougnoux 66pen
+  Bryan Bergougnoux (pk) 66
  
 ; Troyes       ; 1-1; Marseille
   Yann Lachuer 18; Toifilou Maoulida 61
@@ -715,7 +715,7 @@ Date: 12/23/2006
 ; Lyon         ; 0-0; Monaco
 
 ; Nice         ; 1-2; Lens
-  Bakari Koné 26; Ferreira Vieira Jussié 74pen, Aruna Dindane 77
+  Bakari Koné 26; Ferreira Vieira Jussié (pk) 74, Aruna Dindane 77
 
 ; Sochaux      ; 2-1; Nancy
   Karim Ziani 61, 65; Sébastien Puygrenier 11
@@ -728,7 +728,7 @@ Date: 12/23/2006
   Georges Ba 74; Amara Diané 47
 
 ; Valenciennes ; 2-1; Sedan
-  Steve Savidan 13pen, Rudy Mater 19; Joseph Désiré Job 71
+  Steve Savidan (pk) 13, Rudy Mater 19; Joseph Désiré Job 71
 
 Round: 20 
 Date: 1/13/2007
@@ -752,7 +752,7 @@ Date: 1/13/2007
   Pedro Miguel Pauleta 90; Steve savidan 60, Sébastien Roudet 83
 
 ; Sedan        ; 2-2; Nancy
-  Nicolas Marin 21pen, Joseph Désiré Job 31; Mickaël Chrétien 45,
+  Nicolas Marin (pk) 21, Joseph Désiré Job 31; Mickaël Chrétien 45,
    Sébastien Puygrenier 74
 
 ; Toulouse     ; 2-0; Lyon
@@ -779,7 +779,7 @@ Date: 1/24/2007
   Rafik Saïfi 49
 
 ; Lyon         ; 1-2; Bordeaux
-  Frederico Chaves Guedes Fred 63; Juan Pablo Francia 2pen, 
+  Frederico Chaves Guedes Fred 63; Juan Pablo Francia (pk) 2, 
    Yohan Micoud 26
 
 ; Marseille    ; 3-1; Auxerre
@@ -812,7 +812,7 @@ Date: 1/27/2007
   Marouane Chamakh 77og
 
 ; Le Mans      ; 2-0; Marseille
-  James Fanchone 36, Edinaldo Batista Libano Grafite 82pen
+  James Fanchone 36, Edinaldo Batista Libano Grafite (pk) 82
 
 ; Lyon         ; 1-1; Nice
   Milan Baros 39; Bakari Koné 34
@@ -851,7 +851,7 @@ Date: 2/3/2007
    Edinaldo Batista Libano Grafite 45
 
 ; Monaco       ; 2-1; Auxerre
-  Serge Gakpé 36, Frédéric Piquione 64pen; Kanga Gauthier Akalé 90+1
+  Serge Gakpé 36, Frédéric Piquione (pk) 64; Kanga Gauthier Akalé 90+1
 
 ; Nancy        ; 2-1; Toulouse
   Gaston Curbelo 15, Marc-Antoine Fortune 77; Bryan Bergougnoux 90+2
@@ -865,7 +865,7 @@ Date: 2/3/2007
 ; Sochaux      ; 0-0; Rennes
 
 ; Valenciennes ; 1-3; Lens
-  Steve Savidan 61pen; Eric Carrière 28, Seydou Keita 45, 
+  Steve Savidan (pk) 61; Eric Carrière 28, Seydou Keita 45, 
    Issam Jemaa 90+4
 
 Date: 2/4/2007
@@ -884,7 +884,7 @@ Date: 2/10/2007
 
 ; Le Mans      ; 3-2; Sedan
   Mamadou Samassa 15, N’Dri Koffi Romaric 67, 
-   Edinaldo Batista Libano Grafite 73; Joseph Désiré Job 39pen, 
+   Edinaldo Batista Libano Grafite 73; Joseph Désiré Job (pk) 39, 
    Abdelnasser Ouadah 90+3
 
 ; Lyon         ; 1-0; Lorient
@@ -927,7 +927,7 @@ Date: 2/16/2007
 Date: 2/17/2007
 
 ; Lorient      ; 0-1; Toulouse
-  Paulo Cesar 55pen
+  Paulo Cesar (pk) 55
 
 ; Nancy        ; 0-3; Paris-SG
   Pedro Miguel Pauleta 71, Pierre–Alain Frau 86, Marcelo Gallardo 89
@@ -939,13 +939,13 @@ Date: 2/17/2007
   Romain Sartre 20, Joseph Désiré Job 23; Daniel Niculae 15, 90+1
 
 ; Sochaux      ; 2-0; Le Mans
-  Marcio Alvaro Santos 14pen, Hassan Yebda 80og
+  Marcio Alvaro Santos (pk) 14, Hassan Yebda 80og
 
 ; Troyes       ; 1-0; Bordeaux
   David Gigliotti 67
 
 ; Valenciennes ; 0-1; Nice
-  Bakari Koné 31pen
+  Bakari Koné (pk) 31
 
 
 Date: 2/18/2007
@@ -961,8 +961,8 @@ Date: 2/24/2007
   Frédéric Piquione 15, Diego Fernando Perez Aguado 47
 
 ; Lyon         ; 3-3; Sochaux
-  Milan Baros 40, Sylvain Wiltord 90, Juninho Pernambucano 90+3pen;
-   Marcio Alvaro Santos 9, Karim Ziani 29pen, Sébastien Grax 86
+  Milan Baros 40, Sylvain Wiltord 90, Juninho Pernambucano (pk) 90+3;
+   Marcio Alvaro Santos 9, Karim Ziani (pk) 29, Sébastien Grax 86
 
 ; Nantes       ; 1-1; Auxerre
   Claudiu Keserü 75; Benoît Cheyrou 19
@@ -983,10 +983,10 @@ Date: 2/24/2007
 Date: 2/25/2007
 
 ; Bordeaux     ; 2-1; Valenciennes
-  Fernando Menegazzo 24pen, Ferreira Vieira Jussié 44; Thomas Dossevi 83
+  Fernando Menegazzo (pk) 24, Ferreira Vieira Jussié 44; Thomas Dossevi 83
 
 ; Lens         ; 2-2; Nancy
-  Aruna Dindane 19, Seydou Keita 24pen; Marc-Antoine Fortune 7, 
+  Aruna Dindane 19, Seydou Keita (pk) 24; Marc-Antoine Fortune 7, 
    Youssouf Hadji 90
  
 ;; Paris-SG;      0-2 Saint-Etienne
@@ -1022,7 +1022,7 @@ Date: 3/3/2007
 Date: 3/4/2007
 
 ; Marseille    ; 0-1; Lens
-  Aruna Dindane 59pen
+  Aruna Dindane (pk) 59
 
 ; Sochaux      ; 1-2; Nantes
   Marcio Alvaro Santos 34; Dimitri Payet 23, Claudiu Keserü 51
@@ -1083,7 +1083,7 @@ Date: 3/17/2007
 
 ;; Saint-Etienne; 3-1 Troyes
   Pascal Feindouno 2, Bafétimbi Gomis 16, Freddy Guarin-Vasquez 49;
-   Benjamin Nivet 43pen
+   Benjamin Nivet (pk) 43
 
 ; Monaco       ; 2-1; Nantes
   Diego Armando Perez Aguado 35, Gaël Givet 43; Frédéric Da Rocha 14
@@ -1102,7 +1102,7 @@ Round: 30
 Date: 3/31/2007
 
 ; Lorient      ; 2-1; Marseille
-  Rafik Saïfi 60, Ulrich Le Pen 74, Djibrill Cissé 81pen
+  Rafik Saïfi 60, Ulrich Le Pen 74, Djibrill Cissé (pk) 81
 
 Date: 4/1/2007
 
@@ -1143,7 +1143,7 @@ Date: 4/7/2007
 ; Monaco       ; 0-0; Troyes
 
 ; Nancy        ; 0-1; Lorient
-  Rafik Saïfi 68pen
+  Rafik Saïfi (pk) 68
 
 ;; Paris-SG;      2-1 Le Mans
   Peggy Luyindula 56, Amara Diané 81; Edinaldo Batista Libano Grafite 31
@@ -1162,7 +1162,7 @@ Date: 4/7/2007
 Date: 4/8/2007
 
 ; Marseille    ; 4-1; Lille
-  Mamadou Niang 9pen, 90, Renato Civelli 37, 63; Michel Bastos 11pen
+  Mamadou Niang (pk) 9, 90, Renato Civelli 37, 63; Michel Bastos (pk) 11
 
 ; Sedan        ; 0-2; Toulouse
   Arruda Parente Paulo César 78, Albin Ebondo 86
@@ -1191,7 +1191,7 @@ Date: 4/14/2007
 Date: 4/15/2007
 
 ; Nice         ; 2-1; Saint-Etienne
-  Florent Balmont 70, David Bellion 81pen; Liamine Diatta 47
+  Florent Balmont 70, David Bellion (pk) 81; Liamine Diatta 47
 
 ; Lyon         ; 1-0; Sedan
   Hatem Ben Arfa 44
@@ -1203,14 +1203,14 @@ Date: 4/21/2007
   Pedro Miguel Pauleta 16, 65, Jérôme Rothen 43, Pegguy Luyindula 66
 
 ; Rennes       ; 3-2; Toulouse
-  Jimmy Briand 63pen, Sylvain Marveaux 75, Bruno Cheyrou 88; 
+  Jimmy Briand (pk) 63, Sylvain Marveaux 75, Bruno Cheyrou 88; 
    Achille Emana Edzimbi 30, Alves Félix Fabio Fabinho 76
 
 ; Sedan        ; 1-1; Nice
-  Olivier Echouafni 90+1og; Bakari Koné 88pen
+  Olivier Echouafni 90+1og; Bakari Koné (pk) 88
 
 ; Nancy        ; 1-0; Valenciennes
-  Benjamin Gavanon 41pen
+  Benjamin Gavanon (pk) 41
 
 ; Marseille    ; 2-1; Troyes
   Djbril Cissé 54, Modeste M’Bami 86; Zaid Jaziri 79
@@ -1279,10 +1279,10 @@ Date: 5/5/2007
   Daisuke Matsui 25; Claudiu Keserü 90+3
 
 ; Lens         ; 2-0; Toulouse
-  Seydou Keita 84, Daniel Cousin 89pen
+  Seydou Keita 84, Daniel Cousin (pk) 89
 
 ; Nancy        ; 3-0; Nice
-  Marc-Antoine Fortune 29, Benjamin Gavanon 31pen, 
+  Marc-Antoine Fortune 29, Benjamin Gavanon (pk) 31, 
    Carlos Henrique Kim Dias 40
  
 ;; Paris-SG;      1-1 Lyon
@@ -1300,7 +1300,7 @@ Date: 5/5/2007
 Date: 5/6/2007
 
 ; Monaco       ; 1-2; Marseille
-  Jérémy Menez 13; Franck Ribéry 45, Mamadou Niang 84pen
+  Jérémy Menez 13; Franck Ribéry 45, Mamadou Niang (pk) 84
 
 ;; Saint-Etienne; 2-1 Lille
   Matt Moussilou 31, 62; Kévin Mirallas 58
@@ -1318,7 +1318,7 @@ Date: 5/9/2007
   André-Pierre Cignac 11, Ulrich Le Pen 85; Ireneusz Jelen 20
 
 ; Lyon         ; 3-0; Lens
-  Sidney Govou 20, Juninho Pernambucano 38, Alou Diarra 45pen
+  Sidney Govou 20, Juninho Pernambucano 38, Alou Diarra (pk) 45
 
 ; Marseille    ; 2-1; Nancy
   Mamadou Niang 77, Djibril Cissé 81; Sébastien Puygrenier 80
@@ -1366,7 +1366,7 @@ Date: 5/19/2007
 *[awarded 0-0 win to Toulouse; abandoned at 0-0 in 87' due  to pitch invasion]
 
 ;; Paris-SG;      2-1 Troyes              
-  Pedro Miguel Pauleta 71pen, 78;              
+  Pedro Miguel Pauleta (pk) 71, 78;              
    Benjamin Nivet 23
  
 ; Rennes       ; 4-1; Lorient      
@@ -1399,7 +1399,7 @@ Date: 5/26/2007
   Jan Koller 11, Frédérique Piquionne 59
 
 ; Nice         ; 3-3; Le Mans
-  David Bellion 33pen, 55, Maram Vahirua 45; N’Dri Koffi Romaric 38, 
+  David Bellion (pk) 33, 55, Maram Vahirua 45; N’Dri Koffi Romaric 38, 
    Ismaël Bangoura 62, Daisuke Matsui 67
 
 ; Sochaux      ; 1-0; Saint-Etienne

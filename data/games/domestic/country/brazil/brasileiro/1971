@@ -24,18 +24,18 @@ Date: 8/7/1971
 ; Internacional ; 0-0;  Fluminense
 
 ; Palmeiras     ; 1-0;  Portuguesa
-  César
+  César;
 
 ; Ceará         ; 0-0;  Vasco da Gama
 
 ; Coritiba      ; 0-2;  Cruzeiro
-  Tostão, Lima
+;  Tostão, Lima
 
 ; São Paulo     ; 0-3; Grêmio
-  Scotta (2), Flecha
+;  Scotta, Scotta, Flecha
 
 ; Sport         ; 1-0;  Flamengo
-  César
+  César;
 
 ; Bahia         ; 0-0;  Santos
 
@@ -47,7 +47,7 @@ Date: 8/7/1971
 Date: 8/11/1971
 
 ; Ceará         ; 0-1;  Corinthians
-  Mirandinha
+;  Mirandinha
 
 ; Cruzeiro      ; 2-1;  Portuguesa
   Tostão, Dirceu Lopes; Cabinho
@@ -56,15 +56,15 @@ Date: 8/11/1971
   Carlinhos; Zico
 
 ;; América-GB;     0-2  Grêmio
-  Scotta, Caio
+ ; Scotta, Caio
 
 ; Sport         ; 0-2;  Santos
-  Mazinho (2)
+;  Mazinho, Mazinho
 
 Date: 8/12/1971
 
 ; Santa Cruz    ; 1-0;  Vasco da Gama
-  Betinho
+  Betinho;
 
 Date: 8/14/1971
 
@@ -88,15 +88,15 @@ Date: 8/15/1971
 ; Corinthians   ; 0-0;  Palmeiras
 
 ; Fluminense    ; 0-1;  Vasco da Gama
-  Dé
+;  Dé
 
 ; Ceará         ; 0-0;  Santa Cruz
 
 ; Cruzeiro      ; 2-0;  Internacional
-  Lima, Roberto Batata
+  Lima, Roberto Batata;
 
 ; Bahia         ; 3-0;  Sport
-  Caldeira, Carlinhos, Eliseu
+  Caldeira, Carlinhos, Eliseu;
 
 Date: 8/18/1971
 
@@ -104,7 +104,7 @@ Date: 8/18/1971
   Ivanir, Lula; Tião Abatiá
 
 ; Bahia         ; 0-1;  São Paulo
-  Toninho
+;  Toninho
 
 ; Santos        ; 0-0;  Botafogo
 
@@ -118,19 +118,19 @@ Date: 8/21/1971
 ; Corinthians   ; 0-0;  Cruzeiro
 
 ; Coritiba      ; 1-0;  Santa Cruz
-  Tião Abatiá
+  Tião Abatiá;
 
 ; Ceará         ; 1-0;  Fluminense
-  Vítor
+  Vítor;
 
 ; Flamengo      ; 0-1;  Atlético-MG
-  Lola
+;  Lola
 
 
 Date: 8/22/1971
 
 ; Vasco da Gama ; 0-3; Portuguesa
-  Cabinho (2), Dirceu
+;  Cabinho, Cabinho, Dirceu
 
 ; Sport         ; 0-0;  São Paulo
 
@@ -146,21 +146,19 @@ Date: 8/25/1971
   Silva Batuta, Roberto; Julinho
 
 ;; Atlético-MG;    4-0  Bahia
-  Lola (2), Oldair, Dario
+  Lola, Lola, Oldair, Dario;
 
 ; Grêmio        ; 2-0;  Sport
-  Scotta, Flecha
+  Scotta, Flecha;
 
 ; Santa Cruz    ; 2-2;  Fluminense
-  Betinho, Luciano; Jeremias (2)
+  Betinho, Luciano; Jeremias, Jeremias
 
 ; Coritiba      ; 0-1;  Internacional
-  Land
+;  Land
 
 ; Palmeiras     ; 1-1;  Cruzeiro
   Ademir; Dirceu Lopes
-
-
 
 Date: 8/26/1971
 
@@ -170,14 +168,10 @@ Date: 8/26/1971
 ; Flamengo      ; 1-1;  América-GB
   Rodrigues Neto; Tarciso
 
-
-
 Date: 8/28/1971
 
 ; Sport         ; 1-1;  Atlético-MG
   Humberto (own goal); Vanderlei
-
-
 
 Date: 8/29/1971
 
@@ -185,32 +179,31 @@ Date: 8/29/1971
   Valfrido, Ramón; Ademir, Edu
 
 ; Internacional ; 0-1;  Portuguesa
-  Marinho
+;  Marinho
 
 ; Fluminense    ; 0-1;  Corinthians
-  Mirandinha
+;  Mirandinha
 
 ; Cruzeiro      ; 6-0;  Ceará
-  Tostão (2), Evaldo, Roberto Batata, Perfumo, Baiano
+  Tostão, Tostao, Evaldo, Roberto Batata, Perfumo, Baiano;
 
 ; Coritiba      ; 0-2;  Vasco da Gama
-  Adílson, Dé
+;  Adílson, Dé
 
 ; Bahia         ; 0-0;  América-MG
 
 ; São Paulo     ; 0-0;  Flamengo
 
-
 Date: 9/1/1971
 
 ; Portuguesa    ; 1-0;  Fluminense
-  Basílio
+  Basílio;
 
 ; Santa Cruz    ; 1-0;  Cruzeiro
-  Ramón
+  Ramón;
 
 ; Ceará         ; 0-3; Palmeiras
-  César (2), Leivinha
+;  César, Cesar, Leivinha
 
 ; Vasco da Gama ; 1-1;  Internacional
   Adílson; Land
@@ -219,12 +212,10 @@ Date: 9/1/1971
   Baiaco; Zé Carlos, António Carlos, Caio
 
 ;; Atlético-MG;    2-0  São Paulo
-  Dario (2)
+  Dario, Dario;
 
 ; Grêmio        ; 1-0;  Santos
-  Torino
-
-
+  Torino;
 
 Date: 9/2/1971
 
@@ -232,17 +223,14 @@ Date: 9/2/1971
   Amauri; Rodrigues Neto
 
 ; Sport         ; 0-1;  Botafogo
-  Paulo César
-
-
+;  Paulo César
 
 Date: 9/4/1971
 
 ; Palmeiras     ; 1-0;  Fluminense      [*]
-  Eurico
+  Eurico;
 
 ; Cruzeiro      ; 0-0;  Vasco da Gama   [*]
-
 
 Date: 9/5/1971
 
@@ -250,7 +238,7 @@ Date: 9/5/1971
   Sérgio, Arlem; Rivelino, Mirandinha
 
 ; Coritiba      ; 2-1;  Ceará           [*]
-  Leocádio (2); Magela
+  Leocádio, Leocadio; Magela
 
 ; São Paulo     ; 1-1;  América-MG      [*]
   Zé Roberto; Zé Carlos
@@ -259,21 +247,20 @@ Date: 9/5/1971
   Samarone; Caio
 
 ;; Atlético-MG;    2-1  Santos          [*]
-  Dario (2); Mazinho
+  Dario, Dario; Mazinho
 
 ; Bahia         ; 0-1;  Botafogo        [*]
   Paulo César
 
 ; Sport         ; 0-3; América-GB       [*]
-  Paraguaio (2), Tarciso
+;  Paraguaio, Paraguaio, Tarciso
 
 
 
 Date: 9/7/1971
 
 ; Vasco da Gama ; 1-0;  Palmeiras       [*]
-  Rodrigues
-
+  Rodrigues;
 
 *[*] Matches valid for Taça Independência do Brasil – 1971
 
@@ -288,7 +275,7 @@ Date: 9/7/1971
 Date: 9/8/1971
 
 ; Santa Cruz    ; 3-2;  Portuguesa
-  Luciano (2), Vilfrido; Cabinho (2)
+  Luciano, Luciano, Vilfrido; Cabinho, Cabinho
 
 ; Corinthians   ; 2-3; Coritiba
   Mirandinha, Rivelino; Leocádio, Tião Abatiá, Paquito
@@ -296,12 +283,12 @@ Date: 9/8/1971
 ; Ceará         ; 0-0;  Internacional
 
 ;; América-GB;     2-0  Atlético-MG
-  Tarciso, Edu
+  Tarciso, Edu;
 
 Date: 9/9/1971
 
 ; Santos        ; 3-0;  América-MG
-  Dicá, Edu, Mazinho
+  Dicá, Edu, Mazinho;
 
 ; Botafogo      ; 2-1;  São Paulo
   Roberto, Paulo César; Toninho
@@ -309,41 +296,41 @@ Date: 9/9/1971
 Date: 9/11/1971
 
 ; Coritiba      ; 0-1;  Palmeiras
-  Héctor Silva
+;  Héctor Silva
 
 ; Santa Cruz    ; 2-2;  Internacional
   Betinho, Luciano; Édson Madureira, Sérgio
 
 ; Fluminense    ; 0-1;  Cruzeiro
-  Dirceu Lopes
+;  Dirceu Lopes
 
 ; Ceará         ; 0-0;  Portuguesa
 
 ; Corinthians   ; 1-0;  Vasco da Gama
-  Rivelino
+  Rivelino;
 
 Date: 9/12/1971
 
 ;; Atlético-MG;    2-2  Botafogo
-  Dario (2); Roberto (2)
+  Dario, Dario; Roberto, Roberto
 
 ; São Paulo     ; 2-1;  América-GB
-  Terto (2); Caio
+  Terto, Terto; Caio
 
 ; Flamengo      ; 1-0;  Santos
-  Samarone
+  Samarone;
 
 ; Grêmio        ; 0-0;  Bahia
 
 ; Sport         ; 1-0;  América-MG
-  Ubaldo
+  Ubaldo;
 
 Date: 9/18/1971
 
 ; Vasco da Gama ; 0-0;  São Paulo
 
 ; Sport         ; 0-1;  Corinthians
-  Rivelino
+;  Rivelino
 
 ; Santos        ; 0-0;  Portuguesa
 
@@ -352,34 +339,32 @@ Date: 9/19/1971
 ; Fluminense    ; 0-0;  América-GB
 
 ; Ceará         ; 0-2;  Atlético-MG
-  Dario, Oldair
+;  Dario, Oldair
 
 ; Cruzeiro      ; 0-0;  Bahia
 
 ; Internacional ; 1-0;  América-MG
-  Arlem
+  Arlem;
 
 ; Coritiba      ; 2-0;  Grêmio
-  Leocádio, Rinaldo
+  Leocádio, Rinaldo;
 
 ; Palmeiras     ; 1-2;  Flamengo
   Luís Pereira; Samarone, Rogério
 
 ; Santa Cruz    ; 0-0;  Botafogo
 
-
 Date: 9/22/1971
 
 ; Corinthians   ; 0-0;  Atlético-MG
 
-
 Date: 9/25/1971
 
 ; Portuguesa    ; 0-3; América-GB
-  Sérgio Lima (2), Paraguaio
+;  Sérgio Lima, Sergio Lima, Paraguaio
 
 ; Grêmio        ; 1-0;  Ceará
-  Torino
+  Torino;
 
 ;; Atlético-MG;    2-2  Santa Cruz
   Romeu, Humberto Ramos; Eberval, Grapete (own goal)
@@ -401,7 +386,7 @@ Date: 9/26/1971
   Dirceu Alves; César, Leivinha
 
 ; Sport         ; 0-1;  Vasco da Gama
-  Dé
+;  Dé
 
 ; Internacional ; 1-1;  Santos
   Bráulio; Mazinho
@@ -411,44 +396,43 @@ Date: 9/29/1971
 ;; América-GB;     2-1  Cruzeiro
   Sérgio Lima, Tadeu; Lima
 
-
 Date: 10/2/1971
 
 ; Corinthians   ; 3-1;  América-MG
   Aladim, Mirandinha, Rivelino; Zé Maria; (own goal)
 
 ; Internacional ; 2-0;  América-GB
-  Sérgio (2)
+  Sérgio, Sergio;
 
 Date: 10/3/1971
 
 ; Grêmio        ; 1-0;  Portuguesa
-  Caio
+  Caio;
 
 ; Sport         ; 0-1;  Fluminense
-  Cafuringa
+;  Cafuringa
 
 ; Bahia         ; 2-0;  Santa Cruz
-  Caldeira (2)
+  Caldeira, Caldeira;
 
 ; Coritiba      ; 1-0;  Atlético-MG
-  Paquito
+  Paquito;
 
 ; Vasco da Gama ; 0-0;  Flamengo
 
 ; Ceará         ; 0-1;  São Paulo
-  Terto
+;  Terto
 
 ; Cruzeiro      ; 0-1;  Santos
-  Dicá
+;  Dicá
 
 ; Palmeiras     ; 3-1;  Botafogo
-  César (2), Ademir; Roberto
+  César, Cesar, Ademir; Roberto
 
 Date: 10/6/1971
 
 ; Vasco da Gama ; 2-0;  América-MG
-  Ferretti, Dé
+  Ferretti, Dé;
 
 ; São Paulo     ; 1-1;  Internacional
   Carlos Alberto; Benê
@@ -456,12 +440,10 @@ Date: 10/6/1971
 ; Santa Cruz    ; 1-1;  Grêmio
   Valfrido; Detinho (own goal)
 
-
-
 Date: 10/9/1971
 
 ; Botafogo      ; 1-0;  Corinthians
-  Zequinha
+  Zequinha;
 
 ;; América-MG;     0-0  Santa Cruz
 
@@ -471,13 +453,13 @@ Date: 10/10/1971
   Tião Abatiá, Paquito; Badeco
 
 ; Grêmio        ; 1-0;  Vasco da Gama
-  Selmar
+  Selmar;
 
 ; Bahia         ; 1-1;  Internacional
   Baiaco; Valdomiro
 
 ; São Paulo     ; 0-1;  Portuguesa
-  Dirceu
+;  Dirceu
 
 ;; Atlético-MG;    1-1  Cruzeiro
   Oldair; João Ribeiro
@@ -485,43 +467,37 @@ Date: 10/10/1971
 ; Ceará         ; 0-0;  Santos
 
 ; Sport         ; 0-2;  Palmeiras
-  Leivinha (2)
+ ; Leivinha, Leivinha
 
 ; Flamengo      ; 0-1;  Fluminense
-  Jeremias
-
-
+;  Jeremias
 
 Date: 10/13/1971
 
 ; Flamengo      ; 1-0;  Portuguesa
-  Tinteiro
+  Tinteiro;
 
 ;; América-MG;     2-0  Coritiba
-  Dario, Amauri
-
-
+  Dario, Amauri;
 
 Date: 10/16/1971
 
 ; Palmeiras     ; 0-1;  Santos
-  Mazinho
+;  Mazinho
 
 ; Fluminense    ; 2-0;  Atlético-MG
-  Marco Antonio, Ivair
-
-
+  Marco Antonio, Ivair;
 
 Date: 10/17/1971
 
 ; Coritiba      ; 2-0;  Bahia
-  Tião Abatiá, Rinaldo
+  Tião Abatiá, Rinaldo;
 
 ; Cruzeiro      ; 5-1;  Sport
-  Tostão (2), Perfumo, João Ribeiro, Lima; Vanderlei
+  Tostão, Tostao, Perfumo, João Ribeiro, Lima; Vanderlei
 
 ; Ceará         ; 1-0;  Botafogo
-  Vítor
+  Vítor;
 
 ; Vasco da Gama ; 2-2;  América-GB
   Dé, Ferretti; Caio, António Carlos
@@ -530,22 +506,18 @@ Date: 10/17/1971
   Ramón; Zico
 
 ; Corinthians   ; 0-2;  São Paulo
-  Teodoro, Everaldo
+;  Teodoro, Everaldo
 
 ; Internacional ; 1-0;  Grêmio
-  Sérgio
-
-
+  Sérgio;
 
 Date: 10/20/1971
 
 ; Bahia         ; 3-1;  Ceará
-  João Daniel (3); Vítor
+  João Daniel, Joao Daniel, Joao Daniel; Vítor
 
 ; Sport         ; 2-1;  Coritiba
   Gijo, Duda; Almir (own goal)
-
-
 
 Date: 10/23/1971
 
@@ -555,107 +527,96 @@ Date: 10/23/1971
 ; Botafogo      ; 0-0;  Internacional
 
 ;; Atlético-MG;    5-1  Portuguesa
-  Romeu (2), Ronaldo, Dario, Spencer; Luisinho
-
-
+  Romeu, Romeu, Ronaldo, Dario, Spencer; Luisinho
 
 Date: 10/24/1971
 
 ; Ceará         ; 0-1;  América-GB
-  Caio
+;  Caio
 
 ; Cruzeiro      ; 0-0;  América-MG
 
 ; Santos        ; 2-0;  Vasco da Gama
-  Lima, Davi
+  Lima, Davi;
 
 ; Santa Cruz    ; 1-1;  Sport
   Ramón; Vanderlei
 
 ; Grêmio        ; 1-0;  Fluminense
-  Alcindo
+  Alcindo;
 
 ; Flamengo      ; 1-3; Corinthians
   Fio; Mirandinha, Pedrinho, Aladim
 
-
-
 Date: 10/27/1971
 
 ; Coritiba      ; 1-0;  Santos
-  Tião Abatiá
+  Tião Abatiá;
 
 ; Fluminense    ; 0-0;  América-MG
 
 ; Portuguesa    ; 3-1;  Botafogo
-  Cabinho (2), Tatá; Silva Batuta
-
-
+  Cabinho, Cabinho, Tatá; Silva Batuta
 
 Date: 10/30/1971
 
 ;; América-GB;     2-0  Palmeiras
-  Caio (2)
+  Caio, Caio;
 
 ; Cruzeiro      ; 2-1;  Grêmio
-  Tostão (2); Scotta
+  Tostão, Tostao; Scotta
 
 ; Corinthians   ; 1-1;  Santos
   Rivelino; Pelé
 
 ; Santa Cruz    ; 0-2;  São Paulo
-  Toninho, Zé Roberto
-
-
+;  Toninho, Zé Roberto
 
 Date: 10/31/1971
 
 ;; Atlético-MG;    3-1  Internacional
-  Dario (2), Pedrilho; Valdomiro
+  Dario, Dario, Pedrilho; Valdomiro
 
 ; Sport         ; 0-0;  Portuguesa
 
 ; Bahia         ; 0-0;  Fluminense
 
 ; Ceará         ; 0-1;  Flamengo
-  Arílson
+;  Arílson
 
 ; Vasco da Gama ; 1-0;  Botafogo
-  Buglê
+  Buglê;
 
 Date: 11/6/1971
 
 ; São Paulo     ; 2-1;  Fluminense
-  Toninho (2); Jurandir (own goal)
+  Toninho, Toninho; Jurandir (own goal)
 
 ; Vasco da Gama ; 0-0;  Atlético-MG
 
 ; Internacional ; 2-1;  Sport
   Paulo César, Claudiomiro; Duda
 
-
-
 Date: 11/7/1971
 
 ; Coritiba      ; 0-0;  Botafogo
 
 ; Grêmio        ; 0-1;  Palmeiras
-  Fedato
+;  Fedato
 
 ;; América-MG;     2-0  Ceará
-  Hélio (2)
+  Hélio, Helio;
 
 ; Bahia         ; 1-0;  Portuguesa
-  Baiaco
+  Baiaco;
 
 ; Santa Cruz    ; 0-1;  Santos
-  Laírton
+;  Laírton
 
 ; Corinthians   ; 3-1;  América-GB
-  Mirandinha (2), Suingue; Paraguaio
+  Mirandinha, Mirandinha, Suingue; Paraguaio
 
 ; Flamengo      ; 0-0;  Cruzeiro
-
 
 Date: 11/10/1971
 
@@ -664,10 +625,10 @@ Date: 11/10/1971
 Date: 11/13/1971
 
 ; Portuguesa    ; 1-0;  América-MG
-  Cabinho
+  Cabinho;
 
 ; Fluminense    ; 3-1;  Santos
-  Jair (2), Silveira; Mazinho
+  Jair, Jair, Silveira; Mazinho
 
 Date: 11/14/1971
 
@@ -680,7 +641,7 @@ Date: 11/14/1971
 ; Santa Cruz    ; 0-0;  América-GB
 
 ; Bahia         ; 1-0;  Vasco da Gama
-  Santa Cruz
+  Santa Cruz;
 
 ; Corinthians   ; 1-1;  Grêmio
   Rivelino; Loivo
@@ -688,13 +649,10 @@ Date: 11/14/1971
 ;; Atlético-MG;    0-0  Palmeiras
 
 ; Internacional ; 3-0;  Flamengo
-  Valdomiro (2), Claudiomiro
+  Valdomiro, Valdomiro, Claudiomiro
 
 ; Coritiba      ; 2-0;  São Paulo
-  Hermes, Jurandir (own goal)
-
-
-
+  Hermes, Jurandir (own goal);
 
 *Group A
 * 1.Corinthians     19 10  6  3  29-16  26  Qualified
@@ -729,7 +687,7 @@ Round: 1
 Date: 11/21/1971
 
 ; Corinthians   ; 0-1;  São Paulo
-  Toninho
+;  Toninho
 
 ;; América-GB;     0-0  Cruzeiro
 
@@ -737,22 +695,21 @@ Round: 2
 Date: 11/24/1971
 
 ; Corinthians   ; 1-0;  América-GB
-  Adãozinho
+  Adãozinho;
 
 ; Cruzeiro      ; 0-2;  São Paulo
-  Gérson, Terto
+;  Gérson, Terto
 
 Round: 3
 Date: 11/27/1971
 
 ; São Paulo     ; 1-0;  América-GB
-  Toninho
-
+  Toninho;
 
 Date: 11/28/1971
 
 ; Cruzeiro      ; 1-0;  Corinthians
-  Dirceu Lopes
+  Dirceu Lopes;
 
 Round: 4
 Date: 12/1/1971
@@ -776,7 +733,7 @@ Round: 6
 Date: 12/8/1971
 
 ; Corinthians   ; 2-0;  Cruzeiro
-  Suingue, Mirandinha
+  Suingue, Mirandinha;
 
 ; São Paulo     ; 1-1;  América-GB
   Carlos Alberto; Paraguaio
@@ -809,7 +766,7 @@ Date: 11/25/1971
   Mazinho, Nenê; Ronaldo
 
 ; Vasco da Gama ; 2-0;  Internacional
-  Buglê, Roberto Dinamite
+  Buglê, Roberto Dinamite;
 
 Round: 3
 Date: 11/28/1971
@@ -817,16 +774,16 @@ Date: 11/28/1971
 ; Vasco da Gama ; 0-0;  Santos
 
 ; Internacional ; 1-4;  Atlético-MG
-  Valdomiro; Dario (2), Oldair, Ronaldo
+  Valdomiro; Dario, Dario, Oldair, Ronaldo
 
 Round: 4
 Date: 12/1/1971
 
 ;; Atlético-MG;    2-0  Santos
-  Oldair (2)
+  Oldair, Oldair;
 
 ; Internacional ; 3-0;  Vasco da Gama
-  Arlem, Miguel (own goal), Claudiomiro
+  Arlem, Miguel (own goal), Claudiomiro;
 
 Round: 5
 Date: 12/4/1971
@@ -834,20 +791,19 @@ Date: 12/4/1971
 ; Vasco da Gama ; 1-1;  Atlético-MG
   Ferretti; Zé Maria
 
-
 Date: 12/5/1971
 
 ; Santos        ; 0-1;  Internacional
-  Bráulio
+;  Bráulio
 
 Round: 6
 Date: 12/9/1971
 
 ; Santos        ; 4-0;  Vasco da Gama
-  Edu (2), Jáder, Leo
+  Edu, Edu, Jáder, Leo;
 
 ;; Atlético-MG;    0-1  Internacional
-  Arlem
+;  Arlem
 
 
 *Table
@@ -864,7 +820,6 @@ Date: 11/20/1971
 ; Palmeiras     ; 1-1;  Coritiba
   César; Negreiros
 
-
 Date: 11/21/1971
 
 ; Grêmio        ; 1-1;  Botafogo
@@ -874,16 +829,16 @@ Round: 2
 Date: 11/24/1971
 
 ; Botafogo      ; 3-3; Palmeiras
-  Roberto (2), Careca; César (2), Ademir
+  Roberto, Roberto, Careca; César, Cesar, Ademir
 
 ; Coritiba      ; 0-1;  Grêmio
-  Loivo
+;  Loivo
 
 Round: 3
 Date: 11/28/1971
 
 ; Coritiba      ; 1-0;  Botafogo
-  Tião Abatiá
+  Tião Abatiá;
 
 ; Palmeiras     ; 3-1;  Grêmio
   Luís Pereira, Héctor Silva, Fedato; Flecha
@@ -892,10 +847,10 @@ Round: 4
 Date: 12/2/1971
 
 ; Palmeiras     ; 0-1;  Botafogo
-  Jairzinho
+;  Jairzinho
 
 ; Grêmio        ; 2-0;  Coritiba
-  Flecha (2)
+  Flecha, Flecha;
 
 Round: 5
 Date: 12/5/1971
@@ -903,38 +858,37 @@ Date: 12/5/1971
 ; Coritiba      ; 0-0;  Palmeiras
 
 ; Botafogo      ; 3-1;  Grêmio
-  Jairzinho (2), Tuca; Loivo
+  Jairzinho, Jairzinho, Tuca; Loivo
 
 Round: 6
 Date: 12/9/1971
 
 ; Botafogo      ; 3-0;  Coritiba
-  Paulo César Martins, Jairzinho, Didinho
+  Paulo César Martins, Jairzinho, Didinho;
 
 ; Grêmio        ; 0-0;  Palmeiras
 
-Table
- 1.Botafogo         6  3  2  1  11- 6   8  Qualified
------------------------------------------
- 2.Grêmio           6  2  2  2   6- 7   6
- 3.Palmeiras        6  1  4  1   7- 6   6
- 4.Coritiba         6  1  2  3   2- 7   4
+* 1.Botafogo         6  3  2  1  11- 6   8  Qualified
+*-----------------------------------------
+* 2.Grêmio           6  2  2  2   6- 7   6
+* 3.Palmeiras        6  1  4  1   7- 6   6
+* 4.Coritiba         6  1  2  3   2- 7   4
 
 Round: Final Playoff
 Date: 12/12/1971
 
 ;; Atlético-MG;    1-0  São Paulo
-  Oldair
+  Oldair;
 
 Date: 12/15/1971
 
 ; São Paulo     ; 4-1;  Botafogo
-  Terto (2), Forlan, Toninho; Ney Oliveira
+  Terto, Terto, Forlan, Toninho; Ney Oliveira
 
 Date: 12/19/1971
 
 ; Botafogo      ; 0-1;  Atlético-MG
-  Dario
+;  Dario
 
 
 *Table

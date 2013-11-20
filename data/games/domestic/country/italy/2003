@@ -27,13 +27,11 @@ Competition: Serie A
 *    relegated directly, 5 promoted automatically, and the nr.15 of Serie
 *    A to play off against the nr.6 of Serie B
 
-Round 1
+Round: 1
 Date: 8/30/2003
 
 ; Reggina   ; 2-2; Sampdoria
-  Francesco Cozza 5, David Di Michele 41; Fabio Bazzani 64,
-   Aimo Diana 73
-
+  Francesco Cozza 5, David Di Michele 41; Fabio Bazzani 64, Aimo Diana 73
 
 Date: 8/31/2003
 
@@ -41,35 +39,31 @@ Date: 8/31/2003
   Antonio Filippini (pk) 58; Salvatore Lanna 12
 
 ; Inter     ; 2-0; Modena
-  Christian Vieri 86, Marco Materazzi 90+1
+  Christian Vieri 86, Marco Materazzi 90+1;
 
 ; Juventus  ; 5-1; Empoli
-  Alessandro Del Piero 16, 51, David Trezeguet 62, 73,
-   Marco Di Vaio (pk) 85; Antonio Di Natale 88
+  Alessandro Del Piero 16, Alessandro Del Piero 51, David Trezeguet 62, David Trezeguet 73, Marco Di Vaio (pk) 85; Antonio Di Natale 88
 
 ; Lazio     ; 4-1; Lecce
-  Demetrio Albertini 20, Bernardo Corradi 25, Stefano Fiore 36,
-   Massimo Oddo 84; Axel Konan 50
+  Demetrio Albertini 20, Bernardo Corradi 25, Stefano Fiore 36, Massimo Oddo 84; Axel Konan 50
 
 ; Perugia   ; 2-2; Siena
-  Zizis Vryzas 10, Jay Bothroyd 27; Andrea Ardito 19,
-   Rodrigo Taddei 48
+  Zizis Vryzas 10, Jay Bothroyd 27; Andrea Ardito 19, Rodrigo Taddei 48
 
 ; Udinese   ; 1-2; Roma
   Per Kroldrup 27; Marco Delvecchio 13, Vincenzo Montella 69
 
 ; Bologna   ; 2-2; Parma
-  Andres Guglielminpietro 8, Tomas Locatelli 78;
-   Leite Ribeiro Adriano 19, 87
-
+  Andres Guglielminpietro 8, Tomas Locatelli 78; Leite Ribeiro Adriano 19, Leite Ribeiro Adriano 87
 
 Date: 9/1/2003
-; *; -; postponed due to Milan playing European Super Cup/2003
+
 
 ; Ancona    ; 0-2; Milan 
-  Andriy Shevchenko 30,  76
+;  Andriy Shevchenko 30,  Andriy Shevchenko 76
+Notes: postponed due to Milan playing European Super Cup
 
-Round 2
+Round: 2
 Date: 9/13/2003
 
 ; Sampdoria ; 1-2; Lazio
@@ -78,59 +72,51 @@ Date: 9/13/2003
 ; Milan     ; 2-1; Bologna
   Andriy Shevchenko 10, Filippo Inzaghi 85; Carlo Nervo 31
 
-
 Date: 9/14/2003
 
 ; Roma      ; 5-0; Brescia
-  Vincenzo Montella 11, Cristian Chivu 16, Francesco Totti 23, 58,
-   John Carew (pk) 89
+  Vincenzo Montella 11, Cristian Chivu 16, Francesco Totti 23, Francesco Totti 58, John Carew (pk) 89;
 
 ; Empoli    ; 1-1; Reggina
   Antonio Di Natale 41; Santos Mozart 27
 
 ; Lecce     ; 3-1; Ancona
-  Sebastiano Siviglia 34, Mirko Vucinic 79, Marco Cassetti 84;
-   Maurizio Ganz (pk) 69
+  Sebastiano Siviglia 34, Mirko Vucinic 79, Marco Cassetti 84; Maurizio Ganz (pk) 69
 
 ; Modena    ; 0-1; Udinese
-  David Marcelo Pizarro (pk) 82
+;  David Marcelo Pizarro (pk) 82
 
 ; Parma     ; 3-0; Perugia
-  Mark Bresciano 26, Leite Ribeiro Adriano (pk) 49, Alberto Gilardino 82
+  Mark Bresciano 26, Leite Ribeiro Adriano (pk) 49, Alberto Gilardino 82;
 
 ; Siena     ; 0-1; Inter
-  Marco Materazzi 29
+;  Marco Materazzi 29
 
 ; Chievo    ; 1-2; Juventus
   Lorenzo D'Anna (pk) 21; Nicola Legrottaglie 26, David Trezeguet 48
 
 
-Round 3
-
+Round: 3
 Date: 9/20/2003
 
 ; Siena     ; 4-0; Empoli
-  Enrico Chiesa (pk) 25, (pk) 45+3, 61, Tore Andre Flo 67
+  Enrico Chiesa (pk) 25, Enrico Chiesa (pk) 45+3, Enrico Chiesa 61, Tore Andre Flo 67;
 
 ; Ancona    ; 1-1; Modena
   Fabio Da Silva Bilica 63; Diomansy Kamara 53
 
-
 Date: 9/21/2003
 
 ; Bologna   ; 2-0; Udinese
-  Andres Guglielminpietro 63, Samuele Dalla Bona (pk) 90+4
+  Andres Guglielminpietro 63, Samuele Dalla Bona (pk) 90+4;
 
 ; Brescia   ; 4-4; Reggina
-  Luigi Di Biagio 9, Andrea Caracciolo 51, Antonio Filippini 52,
-   Fabio Petruzzi 86; Shunsuke Nakamura (pk) 23, 72, 
-   Emiliano Bonazzoli 39, Andrea Sottil 61
+  Luigi Di Biagio 9, Andrea Caracciolo 51, Antonio Filippini 52, Fabio Petruzzi 86; Shunsuke Nakamura (pk) 23, Shunsuke Nakamura 72, Emiliano Bonazzoli 39, Andrea Sottil 61
 
 ; Inter     ; 0-0; Sampdoria
 
 ; Lazio     ; 2-3; Parma
-  Jakob Stam 33, Simone Inzaghi 79; Mark Bresciano 1, 
-   Leite Ribeiro Adriano 63, Mark Bresciano 89
+  Jakob Stam 33, Simone Inzaghi 79; Mark Bresciano 1, Leite Ribeiro Adriano 63, Mark Bresciano 89
 
 ; Lecce     ; 1-2; Chievo
   Ernesto Javier Chevanton 59; Salvatore Lanna 53, Federico Cossato 71
@@ -139,32 +125,29 @@ Date: 9/21/2003
   Zizis Vryzas 31; Gennaro Gattuso 19
 
 ; Juventus  ; 2-2; Roma
-  Marco Di Vaio 21, 35; Cristian Chivu 25, Jonathan Zebina 86
+  Marco Di Vaio 21, Marco Di Vaio 35; Cristian Chivu 25, Jonathan Zebina 86
 
-
-Round 4
-
+Round: 4
 Date: 9/27/2003
 
 ; Reggina   ; 0-2; Juventus
-  Marco Di Vaio 13, Pavel Nedved 49
+;  Marco Di Vaio 13, Pavel Nedved 49
 
 ; Udinese   ; 0-0; Inter
 
 Date: 9/28/2003
 
 ; Milan     ; 3-0; Lecce
-  Andriy Shevchenko 22, 68, Jon Dahl Tomasson 89
+  Andriy Shevchenko 22, Andriy Shevchenko 68, Jon Dahl Tomasson 89;
 
 ; Roma      ; 3-0; Ancona
-  Vincenzo Montella 48, Francesco Totti 78, Marco Delvecchio 86
+  Vincenzo Montella 48, Francesco Totti 78, Marco Delvecchio 86;
 
 ; Chievo    ; 4-1; Perugia
-  Andrea Zanchetta 40, (pk) 52, Franco Semioli 66,
-   Mario Alberto Santana 81; Marco Di Loreto 50
+  Andrea Zanchetta 40, Andrea Zanchetta (pk) 52, Franco Semioli 66, Mario Alberto Santana 81; Marco Di Loreto 50
 
 ; Modena    ; 2-0; Bologna
-  Nicola Amoruso 17, Diomansy Kamara 40
+  Nicola Amoruso 17, Diomansy Kamara 40;
 
 ; Parma     ; 1-1; Siena
   Leite Ribeiro Adriano 79; Nikola Lazetic 41
@@ -173,113 +156,99 @@ Date: 9/28/2003
   Fabio Bazzani 88, Francesco Flachi (pk) 90+1; Stefano Mauri 69
 
 ; Empoli    ; 2-2; Lazio
-  Antonio Di Natale 74, Francesco Tavano 78; Dejan Stankovic 38,
-   Stefano Fiore 87
+  Antonio Di Natale 74, Francesco Tavano 78; Dejan Stankovic 38, Stefano Fiore 87
 
-
-Round 5 
+Round: 5 
 Date: 10/5/2003
 
 ; Ancona    ; 0-3; Udinese
-  Dino Fava 11, Vincenzo Iaquinta 31, Dino Fava 47
+;  Dino Fava 11, Vincenzo Iaquinta 31, Dino Fava 47
 
 ; Empoli    ; 0-3; Modena
-  Roberto Cevoli 54, Luca Ungari 68, Omar Milanetto (pk) 75
+;  Roberto Cevoli 54, Luca Ungari 68, Omar Milanetto (pk) 75
 
 ; Juventus  ; 2-1; Bologna
   Mark Iuliano 23, David Trezeguet (pk) 80; Giuseppe Signori (pk) 26
 
 ; Lazio     ; 1-0; Chievo
-  Sinisa Mihajlovic 64
+  Sinisa Mihajlovic 64;
 
 ; Lecce     ; 1-4; Brescia
-  Marco Cassetti 32; Andrea Caracciolo 7, 69, 83, Roberto Baggio 86
+  Marco Cassetti 32; Andrea Caracciolo 7, Andrea Caracciolo 69, Andrea Caracciolo 83, Roberto Baggio 86
 
 ; Parma     ; 1-0; Sampdoria
-  Leite Ribeiro Adriano 19
+  Leite Ribeiro Adriano 19;
 
 ; Siena     ; 0-0; Roma
 
 ; Perugia   ; 0-0; Reggina
 
 ; Inter     ; 1-3; Milan
-  Obafemi Martins 79; Filippo Inzaghi 39, Ricardo "Kakà" Izecson 46,
-   Andriy Shevchenko 77
+  Obafemi Martins 79; Filippo Inzaghi 39, Ricardo "Kakà" Izecson 46, Andriy Shevchenko 77
 
-
-Round 6
-
+Round: 6
 Date: 10/18/2003
 
 ; Brescia   ; 2-2; Inter
-  Roberto Baggio 21, Andrea Caracciolo 49; Julio Ricardo Cruz 62,
-   Christian Vieri (pk) 87
+  Roberto Baggio 21, Andrea Caracciolo 49; Julio Ricardo Cruz 62, Christian Vieri (pk) 87
 
 ; Ancona    ; 2-3; Juventus
-  William Viali 57, Maurizio Ganz 90+1; Fabrizio Miccoli 29, 49,
-   Gianluca Zambrotta 44
-
+  William Viali 57, Maurizio Ganz 90+1; Fabrizio Miccoli 29, Fabrizio Miccoli 49, Gianluca Zambrotta 44
 
 Date: 10/19/2003
 
 ; Bologna   ; 2-2; Perugia
-  Samuele Dalla Bona 71, Fausto Rossini 78; Fausto Rossini 48og, 
-   Jay Bothroyd 69
+  Samuele Dalla Bona 71, Fausto Rossini 78; Fausto Rossini (og) 48, Jay Bothroyd 69
 
 ; Chievo    ; 1-1; Sampdoria
   De Oliveira Carvalho Amauri 24; Aimo Diana 59
 
 ; Modena    ; 2-0; Lecce
-  Fabio Vignaroli 63, Diomansy Kamara 90+3
+  Fabio Vignaroli 63, Diomansy Kamara 90+3;
 
 ; Reggina   ; 2-1; Siena
   Santos Batista Mozart 22, Julio Cesar Leon 90+3; Tore Andre Flo 90+4
 
 ; Roma      ; 2-0; Parma
-  Walter Samuel 28, Antonio Cassano 60
+  Walter Samuel 28, Antonio Cassano 60;
 
 ; Udinese   ; 2-0; Empoli
-  Roberto Nestor Sensini 31, Vincenzo Iaquinta 34
+  Roberto Nestor Sensini 31, Vincenzo Iaquinta 34;
 
 ; Milan     ; 1-0; Lazio
-  Andrea Pirlo 37
+  Andrea Pirlo 37;
 
-
-Round 7
-
+Round: 7
 Date: 10/25/2003
 
 ; Siena     ; 2-1; Lecce
   Rodrigo Taddei 12, Enrico Chiesa 76; Ernesto Javier Chevanton 9
 
 ; Empoli    ; 0-1; Chievo
-  De Oliveira Carvalho Amauri 60
-
+;  De Oliveira Carvalho Amauri 60
 
 Date: 10/26/2003
 
 ; Juventus  ; 2-0; Brescia
-  Pavel Nedved 6, David Trezeguet 45
+  Pavel Nedved 6, David Trezeguet 45;
 
 ; Lazio     ; 2-1; Bologna
-  Simone Inzaghi 83, Bernardo Corradi 90+2; Ousmane Dabo 87og
+  Simone Inzaghi 83, Bernardo Corradi 90+2; Ousmane Dabo (og) 87
 
 ; Parma     ; 3-0; Modena
-  Domenico Morfeo 28, Leite Ribeiro Adriano 86, Marco Marchionni 88
+  Domenico Morfeo 28, Leite Ribeiro Adriano 86, Marco Marchionni 88;
 
 ; Perugia   ; 3-3; Udinese
-  Marco Di Loreto 42, Jay Bothroyd 44, Massimo Margiotta 89;
-   Dino Fava 36, 62, 77
+  Marco Di Loreto 42, Jay Bothroyd 44, Massimo Margiotta 89; Dino Fava 36, Dino Fava 62, Dino Fava 77
 
 ; Reggina   ; 0-0; Ancona
 
 ; Sampdoria ; 0-3; Milan
-  Jon Dahl Tomasson 38, Andriy Shevchenko 59, 90+2
+;  Jon Dahl Tomasson 38, Andriy Shevchenko 59, Andriy Shevchenko 90+2
 
 ; Inter     ; 0-0; Roma
 
-Round 8
-
+Round: 8
 Date: 11/1/2003
 
 ; Udinese   ; 1-2; Lazio
@@ -288,76 +257,66 @@ Date: 11/1/2003
 ; Milan     ; 1-1; Juventus
   Jon Dahl Tomasson 65; Marco Di Vaio 84
 
-
 Date: 11/2/2003
 
 ; Ancona    ; 0-0; Siena
 
 ; Bologna   ; 0-1; Sampdoria
-  Cristiano Doni 33
+;  Cristiano Doni 33
 
 ; Brescia   ; 2-3; Parma
-  Francelino Matuzalem 4, Luigi Di Biagio 38; Domenico Morfeo 12,
-   Marco Marchionni 43, Alberto Gilardino 71
+  Francelino Matuzalem 4, Luigi Di Biagio 38; Domenico Morfeo 12, Marco Marchionni 43, Alberto Gilardino 71
 
 ; Lecce     ; 2-1; Empoli
-  Ernesto Javier Chevanton (pk) 2, 43; Tommaso Rocchi 60
+  Ernesto Javier Chevanton (pk) 2, Ernesto Javier Chevanton 43; Tommaso Rocchi 60
 
 ; Modena    ; 1-0; Perugia
-  Riccardo Allegretti 50
+  Riccardo Allegretti 50;
 
 ; Roma      ; 2-0; Reggina
-  Vincenzo Montella 17, John Carew 81
+  Vincenzo Montella 17, John Carew 81;
 
 ; Chievo    ; 0-2; Inter
-  Christian Vieri 64, Alvaro Recoba 67
+;  Christian Vieri 64, Alvaro Recoba 67
 
-
-Round 9
-
+Round: 9
 Date: 11/8/2003
 
 ; Sampdoria ; 2-0; Empoli
-  Fabio Bazzani 21, Cristiano Doni 27
+  Fabio Bazzani 21, Cristiano Doni 27;
 
 ; Brescia   ; 0-0; Bologna
 
 Date: 11/9/2003
 
 ; Inter     ; 3-0; Ancona
-  Julio Ricardo Cruz 26, Marco Materazzi 50, Christian Vieri 80
+  Julio Ricardo Cruz 26, Marco Materazzi 50, Christian Vieri 80;
 
 ; Juventus  ; 4-1; Udinese
-  Marco Di Vaio 79, Fabrizio Miccoli 85, Marco Di Vaio 89,
-   David Trezeguet 90+5; Marek Jankulovski (pk) 64
+  Marco Di Vaio 79, Fabrizio Miccoli 85, Marco Di Vaio 89, David Trezeguet 90+5; Marek Jankulovski (pk) 64
 
 ; Parma     ; 0-0; Milan
 
 ; Perugia   ; 2-2; Lecce
-  Massimo Margiotta 45+2, Fabio Grosso 82; Ernesto Javier Chevanton 7,
-   Cristian Ledesma 66
+  Massimo Margiotta 45+2, Fabio Grosso 82; Ernesto Javier Chevanton 7, Cristian Ledesma 66
 
 ; Reggina   ; 1-1; Modena
   Stefano Dall'Acqua 31; Nicola Campedelli 45
 
 ; Siena     ; 1-2; Chievo
-  Enrico Chiesa (pk) 76; Sergio Pellissier 28, 48
+  Enrico Chiesa (pk) 76; Sergio Pellissier 28, Sergio Pellissier 48
 
 ; Roma      ; 2-0; Lazio
-  Alessandro "Mancini" Faiolie 81, Da Rosa Emerson 86
+  Alessandro "Mancini" Faiolie 81, Da Rosa Emerson 86;
 
-
-Round 10
-
+Round: 10
 Date: 11/22/2003
 
 ; Modena    ; 0-2; Juventus
-  David Trezeguet 42, Pavel Nedved 50
+;  David Trezeguet 42, Pavel Nedved 50
 
 ; Inter     ; 6-0; Reggina
-  Fabio Cannavaro 33, Obafemi Martins 43, Andy Van Der Meyde 49,
-   Javier Farinos 60, Julio Ricardo Cruz 66, Christian Vieri 75
-
+  Fabio Cannavaro 33, Obafemi Martins 43, Andy Van Der Meyde 49, Javier Farinos 60, Julio Ricardo Cruz 66, Christian Vieri 75;
 
 Date: 11/23/2003
 
@@ -365,15 +324,13 @@ Date: 11/23/2003
   Daniele Berretta 60; Roberto Baggio 5
 
 ; Bologna   ; 0-4; Roma
-  Francesco Totti 16, Vincenzo Montella 33, Christian Panucci 38, 
-   Antonio Cassano 49
+;  Francesco Totti 16, Vincenzo Montella 33, Christian Panucci 38, Antonio Cassano 49
 
 ; Empoli    ; 1-0; Parma
-  Pasquale Foggia 90+1
+  Pasquale Foggia 90+1;
 
 ; Lazio     ; 3-1; Perugia
-  Dejan Stankovic 45+2, Bernardo Corradi 87, Simone Inzaghi 90+4; 
-   Fabio Grosso 62
+  Dejan Stankovic 45+2, Bernardo Corradi 87, Simone Inzaghi 90+4; Fabio Grosso 62
 
 ; Lecce     ; 0-0; Sampdoria
 
@@ -381,28 +338,24 @@ Date: 11/23/2003
   Dino Fava 42; Tore Andre Flo 79
 
 ; Chievo    ; 0-2; Milan
-  Andriy Shevchenko 45+1, 50
+;  Andriy Shevchenko 45+1, Andriy Shevchenko 50
 
-
-Round 11
-
+Round: 11
 Date: 11/29/2003
 
 ; Siena     ; 3-0; Lazio
-  Rodrigo Taddei 41, 43, Fernando Menegazzo 90+5
+  Rodrigo Taddei 41, Rodrigo Taddei 43, Fernando Menegazzo 90+5;
 
 ; Juventus  ; 1-3; Inter
-  Pablo Montero 90; Julio Ricardo Cruz 12, 70, Obafemi Martins 76
-
+  Pablo Montero 90; Julio Ricardo Cruz 12, Julio Ricardo Cruz 70, Obafemi Martins 76
 
 Date: 11/30/2003
 
 ; Milan     ; 2-0; Modena
-  Andriy Shevchenko 24, 67
+  Andriy Shevchenko 24, Andriy Shevchenko 67;
 
 ; Parma     ; 3-1; Chievo
-  Domenico Morfeo 52, Marco Marchionni 70, Alberto Gilardino (pk) 81;
-   Sergio Pellissier 74
+  Domenico Morfeo 52, Marco Marchionni 70, Alberto Gilardino (pk) 81; Sergio Pellissier 74
 
 ; Perugia   ; 1-1; Empoli
   Zizis Vryzas 40; Tommaso Rocchi 3
@@ -410,38 +363,33 @@ Date: 11/30/2003
 ; Reggina   ; 0-0; Bologna
 
 ; Roma      ; 3-1; Lecce
-  Alessandro "Mancini" Faiolie 19, John Carew 45, Francesco Totti 77;
-   Ernesto Javier Chevanton 89
+  Alessandro "Mancini" Faiolie 19, John Carew 45, Francesco Totti 77; Ernesto Javier Chevanton 89
 
 ; Sampdoria ; 2-0; Ancona
-  Fabio Bazzani 67, Francesco Flachi 89
+  Fabio Bazzani 67, Francesco Flachi 89;
 
 ; Brescia   ; 1-2; Udinese
   Andrea Caracciolo 65; Martin Jorgensen 47, Dino Fava 66
 
-
-Round 12
-
+Round: 12
 Date: 12/6/2003
 
 ; Empoli    ; 0-1; Milan
-  Ricardo "Kakà" Izecson 81
+;  Ricardo "Kakà" Izecson 81
 
 ; Lazio     ; 2-0; Juventus
-  Bernardo Corradi 21, Stefano Fiore 45+3
-
+  Bernardo Corradi 21, Stefano Fiore 45+3;
 
 Date: 12/7/2003
 
 ; Bologna   ; 3-2; Ancona
-  Alves Da Silva Fabio Bilica 2og, Carlo Nervo 28, Giuseppe Signori 47;
-   Emanuele Troise 70og, Goran Pandev 79
+  Alves Da Silva Fabio Bilica (og) 2, Carlo Nervo 28, Giuseppe Signori 47; Emanuele Troise (og) 70, Goran Pandev 79
 
 ; Inter     ; 2-1; Perugia
-  Christian Vieri 25, 80; Giovanni Tedesco 89
+  Christian Vieri 25, Christian Vieri 80; Giovanni Tedesco 89
 
 ; Lecce     ; 1-2; Parma
-  Ernesto Javier Chevanton (pk) 73; Alberto Gilardino 47, 78
+  Ernesto Javier Chevanton (pk) 73; Alberto Gilardino 47, Alberto Gilardino 78
 
 ; Modena    ; 1-1; Brescia
   Carlo Taldo 81; Jonathan Bachini 84
@@ -450,64 +398,60 @@ Date: 12/7/2003
   Francesco Flachi 1, Fabio Bazzani 72; Roberto D'Aversa 38
 
 ; Udinese   ; 1-0; Reggina
-  Carsten Jancker 87
+  Carsten Jancker 87;
 
 ; Chievo    ; 0-3; Roma
-  Francesco Totti 67, Alessandro "Mancini" Faiolie 70, Antonio Cassano 72
+;  Francesco Totti 67, Alessandro "Mancini" Faiolie 70, Antonio Cassano 72
 
-
-Round 13
-
+Round: 13
 Date: 12/13/2003
 
 ; Udinese   ; 1-0; Lecce
-  Giampiero Pinzi 31
+  Giampiero Pinzi 31;
 
 ; Perugia   ; 3-3; Sampdoria
-  Giovanni Ignoffo 38, Massimo Margiotta 55, Giovanni Tedesco 58;
-   Francesco Flachi 16, 89, Michele Tardioli (GK) 60og
-
+  Giovanni Ignoffo 38, Massimo Margiotta 55, Giovanni Tedesco 58; Francesco Flachi 16, Francesco Flachi 89, Michele Tardioli (og) 60
+* Tardioli GK
 
 Date: 12/14/2003
 
 ; Ancona    ; 0-1; Lazio
-  Fabio Liverani 76
+;  Fabio Liverani 76
 
 ; Bologna   ; 0-2; Inter
-  Obafemi Martins 30, Alvaro Recoba 39
+;  Obafemi Martins 30, Alvaro Recoba 39
 
 ; Brescia   ; 2-0; Empoli
-  Stefano Mauri 15, Luigi Di Biagio 19
+  Stefano Mauri 15, Luigi Di Biagio 19;
 
 ; Juventus  ; 4-0; Parma
-  Fabrizio Miccoli 10, 32, Alessandro Del Piero 71, Pavel Nedved 77
+  Fabrizio Miccoli 10, Fabrizio Miccoli 32, Alessandro Del Piero 71, Pavel Nedved 77;
 
 ; Reggina   ; 0-0; Chievo
 
 ; Roma      ; 1-0; Modena
-  Francesco Totti (pk) 8
-
+  Francesco Totti (pk) 8;
 
 Date: 1/28/2004
-; *; -; postponed due to Milan playing Intercontinental Cup/2004
+
 
 ; Milan     ; 2-1; Siena
   Ricardo "Kakà" Izecson 38, Jon Dahl Tomasson 54; Tore Andre Flo 87
+Notes: postponed due to Milan playing Intercontinental Cup/2004
 
-Round 14
+Round: 14
 Date: 12/20/2003
 
 ; Empoli    ; 0-2; Roma
-  Francesco Totti (pk) 23, 45+1
+;  Francesco Totti (pk) 23, Francesco Totti 45+1
 
 ; Parma     ; 1-2; Reggina
   Alberto Gilardino (pk) 85; David Di Michele 27, Francesco Cozza 90+1
 
-
 Date: 12/21/2003
 
 ; Chievo    ; 1-0; Ancona
-  Federico Cossato 41
+  Federico Cossato 41;
 
 ; Lazio     ; 2-1; Inter
   Bernardo Corradi 42, Luciano Zauri 82; Christian Vieri 30
@@ -516,146 +460,130 @@ Date: 12/21/2003
   Axel Konan 24; David Trezeguet 87
 
 ; Milan     ; 1-2; Udinese
-  De Morais Marcos Evangelista "Cafù" 70; Dino Fava 2, 
-   Roberto Nestor Sensini 51
+  De Morais Marcos Evangelista "Cafù" 70; Dino Fava 2, Roberto Nestor Sensini 51
 
 ; Perugia   ; 2-2; Brescia
-  Massimo Margiotta 5, Dario Dainelli 72og; Luigi Di Biagio 10, 
-   Antonio Filippini 77
+  Massimo Margiotta 5, Dario Dainelli (og) 72; Luigi Di Biagio 10, Antonio Filippini 77
 
 ; Sampdoria ; 1-1; Modena
   Fabio Bazzani 50; Diomansy Kamara 22
 
 ; Siena     ; 0-0; Bologna
 
-Round 15 
+Round: 15 
 Date: 1/6/2004
 
 ; Ancona    ; 0-2; Parma
-  Simone Barone 27, 64
+;  Simone Barone 27, Simone Barrone 64
 
 ; Bologna   ; 2-1; Empoli
   Claudio Bellucci 33, Fabio Pecchia 75; Antonio Di Natale 18
 
 ; Brescia   ; 4-2; Siena
-  Stefano Mauri 15, Roberto Baggio 21, 52, Stefano Mauri 88;
-   Stefano Argilli 45, Tore Andre Flo 47
+  Stefano Mauri 15, Roberto Baggio 21, Roberto Baggio 52, Stefano Mauri 88; Stefano Argilli 45, Tore Andre Flo 47
 
 ; Inter     ; 3-1; Lecce
-  Julio Ricardo Cruz 50, Ivan Ramiro Cordoba 60, Christian Vieri 85;
-   Cesare Bovo 3
+  Julio Ricardo Cruz 50, Ivan Ramiro Cordoba 60, Christian Vieri 85; Cesare Bovo 3
 
 ; Juventus  ; 1-0; Perugia
-  Pavel Nedved 29
+  Pavel Nedved 29;
 
 ; Modena    ; 0-3; Chievo
-  Federico Cossato 43, Salvatore Lanna 68, Andrea Barzagli 79
+;  Federico Cossato 43, Salvatore Lanna 68, Andrea Barzagli 79
 
 ; Reggina   ; 2-1; Lazio
   David Di Michele 60, Francesco Cozza 71; Fabio Liverani 16
 
 ; Udinese   ; 0-1; Sampdoria
-  Francesco Flachi 57
+;  Francesco Flachi 57
 
 ; Roma      ; 1-2; Milan
-  Antonio Cassano 45+4; Andriy Shevchenko 25, 70
+  Antonio Cassano 45+4; Andriy Shevchenko 25, Andriy Shevchenko 70
 
-
-Round 16
-
+Round: 16
 Date: 1/10/2004
 
 ; Chievo    ; 0-0; Udinese
 
 ; Parma     ; 1-0; Inter
-  Emanuele Filippini 41
-
+  Emanuele Filippini 41;
 
 Date: 1/11/2004
 
 ; Milan     ; 3-1; Reggina
-  Ricardo "Kakà" Izecson 8, 55, Andrea Pirlo (pk) 71; Stefano Torrisi 2
+  Ricardo "Kakà" Izecson 8, Kaka 55, Andrea Pirlo (pk) 71; Stefano Torrisi 2
 
 ; Empoli    ; 2-0; Ancona
-  Antonio Di Natale 47, Ighli Vannucchi 50
+  Antonio Di Natale 47, Ighli Vannucchi 50;
 
 ; Lazio     ; 0-1; Brescia
-  Luigi Di Biagio 5
+;  Luigi Di Biagio 5
 
 ; Perugia   ; 0-1; Roma
-  Alessandro "Mancini" Faiolie 3
+;  Alessandro "Mancini" Faiolie 3
 
 ; Sampdoria ; 1-2; Juventus
   Francesco Flachi 56; Mauro German Camoranesi 23, Antonio Conte 64
 
 ; Siena     ; 4-0; Modena
-  Nikola Lazetic 5, Enrico Chiesa 44, Nicola Ventola 71,
-   Antonio Morello 82
+  Nikola Lazetic 5, Enrico Chiesa 44, Nicola Ventola 71, Antonio Morello 82;
 
 ; Lecce     ; 1-2; Bologna
   Valeri Bojinov 22; Fabio Pecchia 13, Igli Tare 77
 
-
-Round 17
-
+Round: 17
 Date: 1/17/2004
 
 ; Modena    ; 1-1; Lazio
   Nicola Campedelli 61; Claudio Lopez 24
 
 ; Udinese   ; 1-1; Parma
-  Matteo Ferrari 23og; Leite Ribeiro Adriano 80
-
+  Matteo Ferrari (og) 23; Leite Ribeiro Adriano 80
 
 Date: 1/18/2004
 
 ; Ancona    ; 0-0; Perugia
 
 ; Roma      ; 3-1; Sampdoria
-  John Carew 10, Francesco Totti 61, 67; Fabio Bazzani 6
+  John Carew 10, Francesco Totti 61, Francesco Totti 67; Fabio Bazzani 6
 
 ; Bologna   ; 3-1; Chievo
-  Giuseppe Signori 2, Igli Tare 17, Carlo Nervo 44;
-   Mario Alberto Santana 33
+  Giuseppe Signori 2, Igli Tare 17, Carlo Nervo 44; Mario Alberto Santana 33
 
 ; Inter     ; 0-1; Empoli
-  Tommaso Rocchi 90
+;  Tommaso Rocchi 90
 
 ; Juventus  ; 4-2; Siena
-  Alessandro Del Piero (pk) 15, (pk) 59, 64, David Trezeguet 37;
-   Nicola Ventola (pk) 71, 80
+  Alessandro Del Piero (pk) 15, Alessandro Del Piero (pk) 59, Alessandro Del Piero 64, David Trezeguet 37; Nicola Ventola (pk) 71, Nicola Ventola 80
 
 ; Reggina   ; 1-3; Lecce
-  Francesco Cozza 26; Valeri Bojinov 2, 60, Ernesto Javier Chevanton 49
+  Francesco Cozza 26; Valeri Bojinov 2, Valeri Bojinov 60, Ernesto Javier Chevanton 49
 
 ; Brescia   ; 0-1; Milan
-  Giuseppe Pancaro 81
+;  Giuseppe Pancaro 81
 
-Round 18
+Round: 18
 Date: 1/24/2004
 
 ; Siena     ; 2-1; Perugia
   Tore Andre Flo 87, Fernando Menegazzo 90+2; Fabrizio Ravanelli 5
 
 ; Sampdoria ; 2-0; Reggina
-  Fabio Bazzani 45, 47
-
+  Fabio Bazzani 45, Fabio Bazzani 47;
 
 Date: 1/25/2004
 
 ; Milan     ; 5-0; Ancona
-  Andriy Shevchenko (pk) 64, Manuel Rui Costa 71,
-   Jon Dahl Tomasson (pk) 78, Ricardo "Kakà" Izecson 84, 90
+  Andriy Shevchenko (pk) 64, Manuel Rui Costa 71, Jon Dahl Tomasson (pk) 78, Ricardo "Kakà" Izecson 84, Kaka 90;
 
 ; Roma      ; 1-1; Udinese
   Christian Panucci 15; Marek Jankulovski 88
 
 ; Chievo    ; 3-1; Brescia
-  Andrea Barzagli 52, Mario Alberto Santana 73, Giuseppe Sculli 84;
-   Andrea Caracciolo 10
+  Andrea Barzagli 52, Mario Alberto Santana 73, Giuseppe Sculli 84; Andrea Caracciolo 10
 
 ; Lecce     ; 0-1; Lazio
-  Aparecido Rodriguez Cesar 55
+;  Aparecido Rodriguez Cesar 55
 
 ; Modena    ; 1-1; Inter
   Stephen Ayodele Makinwa 41; Alvaro Recoba 11
@@ -663,57 +591,48 @@ Date: 1/25/2004
 ; Parma     ; 0-0; Bologna
 
 ; Empoli    ; 3-3; Juventus
-  Tommaso Rocchi 21, 55, 62; David Trezeguet 30, 50, 75
+  Tommaso Rocchi 21, Tommaso Rocchi 55, Tomasso Rocchi 62; David Trezeguet 30, David Trezeguet 50, David Trezeguet 75
 
-
-Round 19
-
+Round: 19
 Date: 1/31/2004
 
 ; Reggina   ; 2-0; Empoli
-  Francesco Cozza (pk) 50, David Di Michele (pk) 89
+  Francesco Cozza (pk) 50, David Di Michele (pk) 89;
 
 ; Brescia   ; 1-0; Roma
-  Jonathan Bachini (pk) 43
-
+  Jonathan Bachini (pk) 43;
 
 Date: 2/1/2004
 
 ; Ancona    ; 0-2; Lecce
-  Ernesto Javier Chevanton 1, Axel Konan 61
+;  Ernesto Javier Chevanton 1, Axel Konan 61
 
 ; Bologna   ; 0-2; Milan
-  Andriy Shevchenko 19, Jon Dahl Tomasson 89
+;  Andriy Shevchenko 19, Jon Dahl Tomasson 89
 
 ; Juventus  ; 1-0; Chievo
-  Mauro German Camoranesi 10
+  Mauro German Camoranesi 10;
 
 ; Lazio     ; 1-1; Sampdoria
   Stefano Fiore 11; Fabio Bazzani 50
 
 ; Perugia   ; 2-2; Parma
-  Dario Hubner 8, Jose Marcelino Ferreira "Ze' Maria" (pk) 42;
-   Alberto Gilardino 35, Domenico Morfeo 38
+  Dario Hubner 8, Jose Marcelino Ferreira "Ze' Maria" (pk) 42; Alberto Gilardino 35, Domenico Morfeo 38
 
 ; Udinese   ; 1-0; Modena
-  Vincenzo Iaquinta 90+2
+  Vincenzo Iaquinta 90+2;
 
 ; Inter     ; 4-0; Siena
-  Alvaro Recoba 22, (pk) 67, Leite Ribeiro Adriano 49, 78
+  Alvaro Recoba 22, Alvaro Recoba (pk) 67, Leite Ribeiro Adriano 49, Adriano 78;
 
-
-Round 20
-
+Round: 20
 Date: 2/7/2004
 
 ; Chievo    ; 2-3; Lecce
-  Sequeira De Oliveira Luciano 45+3, Lorenzo D'Anna (pk) 88; 
-   Andrea Barzagli 17og, Ernesto Javier Chevanton 21, Marco Cassetti 57
+  Sequeira De Oliveira Luciano 45+3, Lorenzo D'Anna (pk) 88; Andrea Barzagli (og) 17, Ernesto Javier Chevanton 21, Marco Cassetti 57
 
 ; Udinese   ; 1-3; Bologna
-  Marek Jankulovski 45+2; Tomas Locatelli 22, Hidetoshi Nakata 47,
-   Leonardo Colucci 89
-
+  Marek Jankulovski 45+2; Tomas Locatelli 22, Hidetoshi Nakata 47, Leonardo Colucci 89
 
 Date: 2/8/2004
 
@@ -721,32 +640,30 @@ Date: 2/8/2004
   Manuel Rui Costa 74, Andrea Pirlo (pk) 78; Salvatore Fresi (pk) 84
 
 ; Empoli    ; 1-0; Siena
-  Tommaso Rocchi 69
+  Tommaso Rocchi 69;
 
 ; Modena    ; 2-1; Ancona
   Massimo Marazzina 37, Omar Milanetto 62; Cristian Bucchi 6
 
 ; Parma     ; 0-3; Lazio
-  Claudio Lopez (pk) 40, 57, Bernardo Corradi 65
+;  Claudio Lopez (pk) 40, Claudio Lopez 57, Bernardo Corradi 65
 
 ; Reggina   ; 0-0; Brescia
 
 ; Sampdoria ; 2-2; Inter
-  Giacomo Cipriani 56, Cristiano Doni (pk) 85; Christian Vieri 31, 79
+  Giacomo Cipriani 56, Cristiano Doni (pk) 85; Christian Vieri 31, Christian Vieri 79
 
 ; Roma      ; 4-0; Juventus
-  Olivier Dacourt 13, Francesco Totti (pk) 53, Antonio Cassano 71, 85
+  Olivier Dacourt 13, Francesco Totti (pk) 53, Antonio Cassano 71, Antonio Cassano 85;
 
-
-Round 21
-
+Round: 21
 Date: 2/14/2004
 
 ; Lazio     ; 3-0; Empoli
-  Fernando Couto 5, Luciano Zauri 45+2, Jakob Stam 71
+  Fernando Couto 5, Luciano Zauri 45+2, Jakob Stam 71;
 
 ; Perugia   ; 0-2; Chievo
-  Andrea Barzagli 67, Federico Cossato 90+7
+;  Andrea Barzagli 67, Federico Cossato 90+7
 
 Date: 2/15/2004
 
@@ -768,96 +685,78 @@ Date: 2/15/2004
   Julio Ricardo Cruz 71; Giampiero Pinzi 53, Dino Fava 66
 
 ; Juventus  ; 1-0; Reggina
-  Enzo Maresca 51
+  Enzo Maresca 51;
 
-
-Round 22
-
+Round: 22
 Date: 2/21/2004
 
 ; Sampdoria ; 1-2; Parma
   Antonio Floro Flores 82; Alberto Gilardino 59, Mark Bresciano 74
 
 ; Milan     ; 3-2; Inter
-  Jon Dahl Tomasson 56, Ricardo "Kakà" Izecson 57, Clarence Seedorf 85;
-   Dejan Stankovic 15, Cristiano Zanetti 40
-
+  Jon Dahl Tomasson 56, Ricardo "Kakà" Izecson 57, Clarence Seedorf 85; Dejan Stankovic 15, Cristiano Zanetti 40
 
 Date: 2/22/2004
 
 ; Udinese   ; 3-0; Ancona
-  Dino Fava 58, Marek Jankulovski 84, David Marcelo Pizarro 87
+  Dino Fava 58, Marek Jankulovski 84, David Marcelo Pizarro 87;
 
 ; Modena    ; 1-1; Empoli
   Nicola Amoruso 39; Tommaso Rocchi 50
 
 ; Bologna   ; 0-1; Juventus
-  Mark Iuliano 56
+;  Mark Iuliano 56
 
 ; Chievo    ; 0-0; Lazio
 
 ; Reggina   ; 1-2; Perugia
-  Francesco Cozza (pk) 53; Jose Marcelino Ferreira Ze' Maria 20,
-   Dario Hubner 90+2
+  Francesco Cozza (pk) 53; Jose Marcelino Ferreira Ze' Maria 20, Dario Hubner 90+2
 
 ; Roma      ; 6-0; Siena
-  Antonio Cassano 19, 24, 70, Alessandro "Mancini" Faiolie 30,
-   Marco Delvecchio 81, Francesco Totti 86
+  Antonio Cassano 19, Antonio Cassano 24, Antonio Cassano 70, Alessandro "Mancini" Faiolie 30, Marco Delvecchio 81, Francesco Totti 86;
 
 ; Brescia   ; 1-2; Lecce
   Roberto Baggio 90+2; Ernesto Javier Chevanton 13, Marco Cassetti 88
 
-
-Round 23
-
+Round: 23
 Date: 2/28/2004
 
 ; Siena     ; 0-0; Reggina
 
 ; Empoli    ; 2-0; Udinese
-  Antonio Buscè 22, Sanchez Emilson Cribari 41
-
+  Antonio Buscè 22, Sanchez Emilson Cribari 41;
 
 Date: 2/29/2004
 
 ; Juventus  ; 3-0; Ancona
-  Mauro German Camoranesi 7, Fabrizio Miccoli 41, Alessandro Del Piero 45+1
+  Mauro German Camoranesi 7, Fabrizio Miccoli 41, Alessandro Del Piero 45+1;
 
 ; Perugia   ; 4-2; Bologna
-  Fabrizio Ravanelli 32, Paul Costantin Codrea 68,
-   Jose Marcelino Ferreira Zé Maria (pk) 75, Salvatore Fresi (pk) 85;
-   Claudio Bellucci 61, 85
+  Fabrizio Ravanelli 32, Paul Costantin Codrea 68, Jose Marcelino Ferreira Zé Maria (pk) 75, Salvatore Fresi (pk) 85; Claudio Bellucci 61, Claudio Bellucci 85
 
 ; Inter     ; 1-3; Brescia
-  Dejan Stankovic 48; Andrea Caracciolo 68, Simone Del Nero 73, 
-   Thomas Helveg 81og
+  Dejan Stankovic 48; Andrea Caracciolo 68, Simone Del Nero 73,  Thomas Helveg (og) 81
 
 ; Sampdoria ; 1-0; Chievo
-  Aimo Diana 50
+  Aimo Diana 50;
 
 ; Lecce     ; 1-0; Modena
-  Ernesto Javier Chevanton (pk) 69
+  Ernesto Javier Chevanton (pk) 69;
 
 ; Parma     ; 1-4; Roma
-  Alberto Gilardino 30; Antonio Cassano 45, Da Rosa Emerson 52,
-   Francesco Totti 70, Alessandro "Mancini" Faiolie 77
+  Alberto Gilardino 30; Antonio Cassano 45, Da Rosa Emerson 52, Francesco Totti 70, Alessandro "Mancini" Faiolie 77
 
 ; Lazio     ; 0-1; Milan
-  Massimo Ambrosini 75
+;  Massimo Ambrosini 75
 
-
-Round 24
-
+Round: 24
 Date: 3/6/2004
 
 ; Modena    ; 2-2; Parma
-  Matteo Pivotto 42, Maurizio Domizzi 60; Alberto Gilardino (pk) 45, 
-   Matteo Ferrari 87
+  Matteo Pivotto 42, Maurizio Domizzi 60; Alberto Gilardino (pk) 45, Matteo Ferrari 87
 
 ; Brescia   ; 2-3; Juventus
-  Stefano Mauri 3, Andrea Caracciolo 39; Fabrizio Miccoli 53,
-   Marco Di Vaio 55, Pavel Nedved 75
-
+  Stefano Mauri 3, Andrea Caracciolo 39; Fabrizio Miccoli 53, Marco Di Vaio 55, Pavel Nedved 75
 
 Date: 3/7/2004
 
@@ -870,48 +769,41 @@ Date: 3/7/2004
   Maurizio Ganz 5; David Di Michele 87
 
 ; Milan     ; 3-1; Sampdoria
-  Andrea Pirlo 17, Filippo Inzaghi 35, Ricardo "Kakà" Izecson 49;
-Cristiano Doni 27
+  Andrea Pirlo 17, Filippo Inzaghi 35, Ricardo "Kakà" Izecson 49; Cristiano Doni 27
 
 ; Lecce     ; 0-0; Siena
 
 ; Roma      ; 4-1; Inter
-  Antonio Cassano 45, Alessandro "Mancini" Faiolie 63, 90+4,
-   Francesco Totti (pk) 89; Christian Vieri 73
-
+  Antonio Cassano 45, Alessandro "Mancini" Faiolie 63, Mancini 90+4, Francesco Totti (pk) 89; Christian Vieri 73
 
 Date: 3/25/2004
-* - postponed due to bad weather, for an heavy snowfall on Bologna/2004
+
 
 ; Bologna   ; 2-1; Lazio
   Giuseppe Signori 34, Cristian Amoroso 64; Stefano Fiore 38
+Notes: postponed due to bad weather, for an heavy snowfall on Bologna
 
-
-Round 25
-
+Round: 25
 Date: 3/13/2004
 
 ; Empoli    ; 0-0; Lecce
 
 ; Sampdoria ; 3-2; Bologna
-  Sergio Volpi (pk) 9, Aimo Diana 28, Giacomo Cipriani 50;
-   Giuseppe Signori 10, Carlo Nervo 69
-
+  Sergio Volpi (pk) 9, Aimo Diana 28, Giacomo Cipriani 50; Giuseppe Signori 10, Carlo Nervo 69
 
 Date: 3/14/2004
 
 ; Inter     ; 0-0; Chievo
 
 ; Juventus  ; 1-3; Milan
-  Ciro Ferrara 81; Andriy Shevchenko 25, Clarence Seedorf 63, 74
+  Ciro Ferrara 81; Andriy Shevchenko 25, Clarence Seedorf 63, Clarence Seedorf 74
 
 ; Lazio     ; 2-2; Udinese
-  Roberto Muzzi 5, Simone Inzaghi 6; Lucas Martin Castroman 11, 
-   Vincenzo Iaquinta 88
+  Roberto Muzzi 5, Simone Inzaghi 6; Lucas Martin Castroman 11, Vincenzo Iaquinta 88
 
 ; Parma     ; 2-2; Brescia
-  Benito Carbone 5, Marco Marchionni 60; Luigi Di Biagio 32,
-   Roberto Baggio 74 (his 200th goal in Serie A)
+  Benito Carbone 5, Marco Marchionni 60; Luigi Di Biagio 32, Roberto Baggio 74 
+Notes: Baggio's 200th goal in Serie A
 
 ; Perugia   ; 1-1; Modena
   Jose Marcelino Ferreira Ze' Maria (pk) 75; Fabio Vignaroli 18
@@ -919,27 +811,23 @@ Date: 3/14/2004
 ; Reggina   ; 0-0; Roma
 
 ; Siena     ; 3-2; Ancona
-  Enrico Chiesa 22, Simone Vergassola 44, Rodrigo Taddei 45+1;
-   Cristian Bucchi 30, Milan Rapajc 69
+  Enrico Chiesa 22, Simone Vergassola 44, Rodrigo Taddei 45+1; Cristian Bucchi 30, Milan Rapajc 69
 
-
-Round 26
-
+Round: 26
 Date: 3/20/2004
 
 ; Udinese   ; 0-0; Juventus
 
 ; Milan     ; 3-1; Parma
-  Jon Dahl Tomasson 33, 52, Andriy Shevchenko 65; Alberto Gilardino 82
-
+  Jon Dahl Tomasson 33, Jon Dahl Tomasson 52, Andriy Shevchenko 65; Alberto Gilardino 82
 
 Date: 3/21/2004
 
 ; Bologna   ; 3-0; Brescia
-  Igli Tare 40, Carlo Nervo 70, Giuseppe Signori 80
+  Igli Tare 40, Carlo Nervo 70, Giuseppe Signori 80;
 
 ; Ancona    ; 0-2; Inter
-  Alvaro Recoba 60, Daniele Adani 70
+;  Alvaro Recoba 60, Daniele Adani 70
 
 ; Lecce     ; 1-2; Perugia
   Wilfried Dalmat 86; Franco Brienza 14, Marco Di Loreto 60
@@ -948,7 +836,7 @@ Date: 3/21/2004
   Diomansy Kamara (pk) 50; Emiliano Bonazzoli 16, David Di Michele 45+1
 
 ; Empoli    ; 1-1; Sampdoria
-  Tommaso Rocchi 90; Manuel Belleri 18og
+  Tommaso Rocchi 90; Manuel Belleri (og) 18
 
 ; Chievo    ; 1-1; Siena
   Lorenzo D'Anna (pk) 69; Nicola Ventola 87
@@ -958,114 +846,100 @@ Date: 3/21/2004
 Date: 4/21/2004
 
 ; Lazio     ; 1-1; Roma          
+Bernardo Corradi 39; Francesco Totti (pk) 61
 *[replay]
-  Bernardo Corradi 39; Francesco Totti (pk) 61
 
-Round 27 
+Round: 27 
 Date: 3/28/2004
 
 ; Brescia   ; 5-2; Ancona
-  Roberto Baggio 24, 82,  Stefano Mauri 30, Giuseppe Colucci 45+1,
-   Andrea Caracciolo 74; Milan Rapajc 32, Gianpiero Maini (pk) 39
+  Roberto Baggio 24, Roberto Baggio 82,  Stefano Mauri 30, Giuseppe Colucci 45+1, Andrea Caracciolo 74; Milan Rapajc 32, Gianpiero Maini (pk) 39
 
 ; Juventus  ; 3-1; Modena
-   Enzo Maresca 12, David Trezeguet 19, 84; Massimo Marazzina 22
+   Enzo Maresca 12, David Trezeguet 19, David Trezeguet 84; Massimo Marazzina 22
 
 ; Milan     ; 2-2; Chievo
-  Andrea Pirlo 80, Andriy Shevchenko 90+7; Giuseppe Sculli 22,
-   Simone Perrotta 39
+  Andrea Pirlo 80, Andriy Shevchenko 90+7; Giuseppe Sculli 22, Simone Perrotta 39
 
 ; Parma     ; 4-0; Empoli
-  Simone Barone 37, Alberto Gilardino (pk) 60, 63, Mark Bresciano 79
+  Simone Barone 37, Alberto Gilardino (pk) 60, Alberto Gilardino 63, Mark Bresciano 79;
 
 ; Perugia   ; 1-2; Lazio
   Franco Brienza 49; Stefano Fiore 29, Giuliano Giannichedda 58
 
 ; Reggina   ; 0-2; Inter
-  Emiliano Bonazzoli 42og, Leite Ribeiro Adriano 90+3
+;  Emiliano Bonazzoli (og) 42, Leite Ribeiro Adriano 90+3
 
 ; Roma      ; 1-2; Bologna
   Antonio Cassano 33; Fabio Pecchia 26, Igli Tare 78
 
 ; Sampdoria ; 2-2; Lecce
-  Francesco Flachi 8, 42; Ernesto Javier Chevanton (pk) 35, Axel Konan 90+4
+  Francesco Flachi 8, Francesco Flachi 42; Ernesto Javier Chevanton (pk) 35, Axel Konan 90+4
 
 ; Siena     ; 1-0; Udinese
-  Tore Andre Flo 6
+  Tore Andre Flo 6;
 
-
-Round 28 
+Round: 28 
 Date: 4/4/2004
 
 ; Ancona    ; 0-1; Sampdoria
-  Fabio Bazzani 18
+;  Fabio Bazzani 18
 
 ; Bologna   ; 2-2; Reggina
-  Tomas Locatelli 43, Claudio Bellucci 67; David Di Michele 8,
-   Roberto Stellone 30
+  Tomas Locatelli 43, Claudio Bellucci 67; David Di Michele 8, Roberto Stellone 30
 
 ; Chievo    ; 0-2; Parma
-  Marco Marchionni 31, Alberto Gilardino 72
+;  Marco Marchionni 31, Alberto Gilardino 72
 
 ; Empoli    ; 1-0; Perugia
-  Tommaso Rocchi 64
+  Tommaso Rocchi 64;
 
 ; Lazio     ; 5-2; Siena
-  Aparecido Rodriguez Cesar 4, 45+1, 49, Stefano Fiore 29, 
-   Bernardo Corradi 78;  Martinez Gianni Guigou 9, Rodrigo Taddei 24
+  Aparecido Rodriguez Cesar 4, Aparecido Rodriguez Cesar 45+1, Aparecido Rodriguez Cesar 49, Stefano Fiore 29, Bernardo Corradi 78;  Martinez Gianni Guigou 9, Rodrigo Taddei 24
 
 ; Lecce     ; 0-3; Roma
-  Da Rosa Emerson 50, Cesare Bovo 52og, Francesco Totti (pk) 90+3
+;  Da Rosa Emerson 50, Cesare Bovo (og) 52, Francesco Totti (pk) 90+3
 
 ; Modena    ; 1-1; Milan
   Nicola Amoruso 51; Jon Dahl Tomasson 42
 
 ; Udinese   ; 4-3; Brescia
-  Vincenzo Iaquinta 5, 30, Dino Fava 15, 82; Roberto Baggio 45,
-   Luigi Di Biagio 46, Filippo Maniero 60
+  Vincenzo Iaquinta 5, Vicenzo Iaquinta 30, Dino Fava 15, Dino Fava 82; Roberto Baggio 45, Luigi Di Biagio 46, Filippo Maniero 60
 
 ; Inter     ; 3-2; Juventus
-  Obafemi Martins 6, Christian Vieri (pk) 45, Dejan Stankovic 47;
-   Cristian Alberto "Kily" Gonzalez 25og, Marco Di Vaio 90+3
+  Obafemi Martins 6, Christian Vieri (pk) 45, Dejan Stankovic 47; Cristian Alberto "Kily" Gonzalez (og) 25, Marco Di Vaio 90+3
 
-
-Round 29
-
+Round: 29
 Date: 4/10/2004
 
 ; Ancona    ; 3-2; Bologna
-  Milan Rapaic 26, Cristian Bucchi 51, Milan Rapaic 56;
-   Hidetoshi Nakata (pk) 12, Igli Tare 64
+  Milan Rapaic 26, Cristian Bucchi 51, Milan Rapaic 56; Hidetoshi Nakata (pk) 12, Igli Tare 64
 
 ; Brescia   ; 0-0; Modena
 
 ; Juventus  ; 1-0; Lazio
-  David Trezeguet 88
+  David Trezeguet 88;
 
 ; Milan     ; 1-0; Empoli
-  Andrea Pirlo (pk) 86
+  Andrea Pirlo (pk) 86;
 
 ; Parma     ; 3-1; Lecce
-  Benito Carbone 1, Alberto Gilardino 42, 83; Ernesto Javier Chevanton 62
+  Benito Carbone 1, Alberto Gilardino 42, Alberto Gilardino 83; Ernesto Javier Chevanton 62
 
 ; Reggina   ; 0-1; Udinese
-  Vincenzo Iaquinta 77
+;  Vincenzo Iaquinta 77
 
-; Roma      ; 3-1; Chievo        [in Palermo]
-  John Carew 29, Antonio Cassano 60, Andrea Barzagli 78og;
-   Federico Cossato 32
+; Roma      ; 3-1; Chievo        ; Palermo
+  John Carew 29, Antonio Cassano 60, Andrea Barzagli (og) 78; Federico Cossato 32
 
 ; Siena     ; 0-0; Sampdoria
 
 Date: 4/11/2004
 
 ; Perugia   ; 2-3; Inter
-  Eusebio Di Francesco 50, Dario Hubner 58; Leite Ribeiro Adriano 24, 86,
-   Obafemi Martins 88
+  Eusebio Di Francesco 50, Dario Hubner 58; Leite Ribeiro Adriano 24, Adriano 86, Obafemi Martins 88
 
-
-Round 30
-
+Round: 30
 Date: 4/17/2004
 
 ; Siena     ; 1-2; Milan
@@ -1074,43 +948,36 @@ Date: 4/17/2004
 ; Lecce     ; 2-1; Udinese
   Marco Cassetti 44, Ernesto Javier Chevanton 85; Martin Jorgensen 23
 
-
 Date: 4/18/2004
 
 ; Chievo    ; 0-0; Reggina
 
 ; Empoli    ; 1-1; Brescia
-  Mirco Gasparetto 78; Fabrizio Ficini 37og
+  Mirco Gasparetto 78; Fabrizio Ficini (og) 37
 
 ; Inter     ; 4-2; Bologna
-  Alvaro Recoba 32, Fabio Cannavaro 53, Dejan Stankovic 55,
-   Obafemi Martins 70; Claudio Bellucci 67, 76
+  Alvaro Recoba 32, Fabio Cannavaro 53, Dejan Stankovic 55, Obafemi Martins 70; Claudio Bellucci 67, Claudio Bellucci 76
 
 ; Lazio     ; 4-2; Ancona
-  Fernando Couto 12, 81, Stefano Fiore 73, Luciano Zauri 89;
-   Cristian Bucchi 11, Daniel Andersson 64
+  Fernando Couto 12, Fernando Couto 81, Stefano Fiore 73, Luciano Zauri 89; Cristian Bucchi 11, Daniel Andersson 64
 
 ; Parma     ; 2-2; Juventus
   Benito Carbone 35, Alberto Gilardino 81; Marco Di Vaio 78, Igor Tudor 90+2
 
 ; Sampdoria ; 3-2; Perugia
-  Aimo Diana 38, Francesco Flachi 44, 87;
-   Jose Marcelino Ferreira Ze' Maria 46, Fabrizio Ravanelli 84
+  Aimo Diana 38, Francesco Flachi 44, Francesco Flachi 87; Jose Marcelino Ferreira Ze' Maria 46, Fabrizio Ravanelli 84
 
 ; Modena    ; 0-1; Roma
-  Francesco Totti 55
+;  Francesco Totti 55
 
-
-Round 31
-
+Round: 31
 Date: 4/25/2004
 
 ; Ancona    ; 0-2; Chievo
-  Luigi Sala 56, Franco Semioli 79
+;  Luigi Sala 56, Franco Semioli 79
 
 ; Bologna   ; 3-1; Siena
-  Samuele Dalla Bona 32, Claudio Bellucci 62, Carlo Nervo 82;
-   Michele Mignani 68
+  Samuele Dalla Bona 32, Claudio Bellucci 62, Carlo Nervo 82; Michele Mignani 68
 
 ; Brescia   ; 1-1; Perugia
   Roberto Baggio 45+1; Fabrizio Ravanelli 38
@@ -1118,32 +985,30 @@ Date: 4/25/2004
 ; Inter     ; 0-0; Lazio
 
 ; Juventus  ; 3-4; Lecce
-  David Trezeguet 3, Enzo Maresca 56, Alessandro Del Piero 79;
-   Daniele Franceschini 24, Axel Konan 30, 43, Ernesto Javier Chevanton 52
+  David Trezeguet 3, Enzo Maresca 56, Alessandro Del Piero 79; Daniele Franceschini 24, Axel Konan 30, Axel Konan 43, Ernesto Javier Chevanton 52
 
 ; Modena    ; 1-0; Sampdoria
-  Diomansy Kamara 59
+  Diomansy Kamara 59;
 
 ; Reggina   ; 1-1; Parma
   Stefano Torrisi 48; Mark Bresciano 9
 
 ; Udinese   ; 0-0; Milan
 
-; Roma      ; 3-0; Empoli        [in Palermo]
-  Francesco Totti 41, 89, John Carew 65
+; Roma      ; 3-0; Empoli       ; Palermo
+  Francesco Totti 41, Francesco Totti 89, John Carew 65;
 
-
-Round 32 
+Round: 32 
 Date: 5/2/2004
 
 ; Milan     ; 1-0; Roma
-  Andriy Shevchenko 2
+  Andriy Shevchenko 2;
 
 ; Chievo    ; 2-0; Modena
-  Luigi Sala 69, De Oliveira Carvalho Amauri 90
+  Luigi Sala 69, De Oliveira Carvalho Amauri 90;
 
 ; Empoli    ; 2-0; Bologna
-  Manuel Belleri 41, Ighli Vannucchi 74
+  Manuel Belleri 41, Ighli Vannucchi 74;
 
 ; Lazio     ; 1-1; Reggina
   Claudio Lopez 23; Francesco Cozza (pk) 53
@@ -1152,29 +1017,25 @@ Date: 5/2/2004
   Max Tonetto 47, Cesare Bovo 70; Leite Ribeiro Adriano (pk) 36
 
 ; Parma     ; 3-1; Ancona
-  Alberto Gilardino 9, Benito Carbone 15, Mark Bresciano 30;
-   Cristian Bucchi 34
+  Alberto Gilardino 9, Benito Carbone 15, Mark Bresciano 30; Cristian Bucchi 34
 
 ; Perugia   ; 1-0; Juventus
-  Fabrizio Ravanelli 49
+  Fabrizio Ravanelli 49;
 
 ; Sampdoria ; 1-3; Udinese
-  Fabio Bazzani 51; Marek Jankulovski 28, David Marcelo Pizarro (pk) 58,
-   Vincenzo Iaquinta 87
+  Fabio Bazzani 51; Marek Jankulovski 28, David Marcelo Pizarro (pk) 58, Vincenzo Iaquinta 87
 
 ; Siena     ; 0-1; Brescia
-  Matteo Brighi 60
+;  Matteo Brighi 60
 
-
-Round 33 
+Round: 33 
 Date: 5/9/2004
 
 ; Ancona    ; 2-1; Empoli
   Mauro Milanese 19, Vincenzo Sommese (pk) 73; Ighli Vannucchi 68
 
-; Roma      ; 1-3; Perugia       [in Palermo]
-  Antonio Cassano 12; Jose Marcelino Ferreira Ze' Maria 18, (pk) 24,
-   Fabrizio Ravanelli 83
+; Roma      ; 1-3; Perugia       ; Palermo
+  Antonio Cassano 12; Jose Marcelino Ferreira Ze' Maria 18, Jose Marcelino Ferreira Ze Maria (pk) 24, Fabrizio Ravanelli 83
 
 ; Bologna   ; 1-1; Lecce
   Igli Tare 34; Ernesto Javier Chevanton 90+5
@@ -1183,13 +1044,13 @@ Date: 5/9/2004
   Stefano Mauri 81, Roberto Baggio 89; Aparecido Rodriguez Cesar 90+3
 
 ; Inter     ; 1-0; Parma
-  Leite Ribeiro Adriano 62
+  Leite Ribeiro Adriano 62;
 
 ; Juventus  ; 2-0; Sampdoria
-  Nicola Legrottaglie 37, Stephen Appiah 44
+  Nicola Legrottaglie 37, Stephen Appiah 44;
 
 ; Modena    ; 1-3; Siena
-  Massimo Marazzina 84; Rodrigo Taddei 42, 81, Enrico Chiesa 90+3
+  Massimo Marazzina 84; Rodrigo Taddei 42, Rodrigo Taddei 81, Enrico Chiesa 90+3
 
 ; Reggina   ; 2-1; Milan
   David Di Michele 8, Francesco Cozza (pk) 30; Andriy Shevchenko 51
@@ -1197,35 +1058,29 @@ Date: 5/9/2004
 ; Udinese   ; 1-1; Chievo
   Vincenzo Iaquinta 45+1; Federico Cossato 32
 
-
-Round 34
-
+Round: 34
 Date: 5/16/2004
 
 ; Milan     ; 4-2; Brescia
-  Jon Dahl Tomasson 36, 59, Andriy Shevchenko 37, Manuel Rui Costa 66;
-   Francelino Matuzalem 53, 69
+  Jon Dahl Tomasson 36, Jon Dahl Tomasson 59, Andriy Shevchenko 37, Manuel Rui Costa 66; Francelino Matuzalem 53, Francelino Matuzalem 69
 
 ; Chievo    ; 2-1; Bologna
   De Oliveira Carvalho Amauri 17, Andrea Zanchetta 22; Fabio Pecchia 12
 
 ; Empoli    ; 2-3; Inter
-  Stefano Lucchini 18, Tommaso Rocchi 83; Leite Ribeiro Adriano 45+1, 69,
-   Alvaro Recoba 65
+  Stefano Lucchini 18, Tommaso Rocchi 83; Leite Ribeiro Adriano 45+1, Adriano 69, Alvaro Recoba 65
 
 ; Lazio     ; 2-1; Modena
   Bernardo Corradi 17, Aparecido Rodriguez Cesar 49; Nicola Amoruso (pk) 84
 
 ; Lecce     ; 2-1; Reggina
-  Ernesto Javier Chevanton 11, Daniele Franceschini 38;
-   Stefano Dall'Acqua 32
+  Ernesto Javier Chevanton 11, Daniele Franceschini 38; Stefano Dall'Acqua 32
 
 ; Parma     ; 4-3; Udinese
-  Alberto Gilardino 60, 71, 77, 85; Per Kroldrup 55, Martin Jorgensen 74,
-   Marek Jankulovski 90+1
+  Alberto Gilardino 60, Alberto Gilardino 71, Alberto Gilardino 77, Alberto Gilardino 85; Per Kroldrup 55, Martin Jorgensen 74, Marek Jankulovski 90+1
 
 ; Perugia   ; 1-0; Ancona
-  Jay Bothroyd 64
+  Jay Bothroyd 64;
 
 ; Sampdoria ; 0-0; Roma
 

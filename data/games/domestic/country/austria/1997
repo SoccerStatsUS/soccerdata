@@ -1,26 +1,22 @@
 BlockSource: http://rsssf.com/tableso/oost98.html
+Competition: Austrian Bundesliga
+Season: 1997-1998
 
-Austria 1997/98
+* 1.SK Sturm Graz                36 24  9  3 80-28  81  Champions
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 2.SK Rapid Wien                36 18  8 10 42-36  62  UEFA Cup
+* 3.Grazer AK                    36 18  7 11 53-33  61  UEFA Cup
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 4.SV Austria Salzburg          36 16  8 12 48-33  56  UIC
+* 5.LASK Linz                    36 17  4 15 67-58  55  UIC
+* 6.FC Tirol Innsbruck           36 12 12 12 49-51  48
+* 7.FK Austria Wien              36 10 10 16 39-54  40
+* 8.SV Ried im Innkreis          36 10  9 17 42-55  39  CWC
+* 9.SC Austria Lustenau          36  6 14 16 38-59  32
+*-----------------------------------------------------
+*10.VfB Admira/Wacker Mödling    36  5  7 24 34-85  22  Relegated
 
-1.Bundesliga
-
-Final Table:
-
- 1.SK Sturm Graz                36 24  9  3 80-28  81  Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Rapid Wien                36 18  8 10 42-36  62  UEFA Cup
- 3.Grazer AK                    36 18  7 11 53-33  61  UEFA Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.SV Austria Salzburg          36 16  8 12 48-33  56  UIC
- 5.LASK Linz                    36 17  4 15 67-58  55  UIC
- 6.FC Tirol Innsbruck           36 12 12 12 49-51  48
- 7.FK Austria Wien              36 10 10 16 39-54  40
- 8.SV Ried im Innkreis          36 10  9 17 42-55  39  CWC
- 9.SC Austria Lustenau          36  6 14 16 38-59  32
------------------------------------------------------
-10.VfB Admira/Wacker Mödling    36  5  7 24 34-85  22  Relegated
-
-Round 1 [Jul 9]
+Round: 1 [Jul 9]
 Admira-Wacker    3-2 Tirol
   [40' Binder, 43' Mraz, 47' Guggi; 21' Mayrleb, 31' Severeyns]
 Austria Wien     3-0 LASK
@@ -32,7 +28,7 @@ Ried             2-2 Rapid
 GAK              0-4 Sturm
   [2' Mählich, 57' Prilasnig, 64' and 91' Vastic]
 
-Round 2 [Jul 16]
+Round: 2 [Jul 16]
 GAK              3-1 Austria Lustenau
   [29' Strafner, 45' Radovic, 53' Sabitzer; 14' Moitzi]
 Tirol            1-4 Sturm
@@ -42,7 +38,7 @@ LASK             1-1 Ried
 Rapid            0-0 Admira-Wacker
 Austria Salzburg 0-0 Austria Wien
 
-Round 3 [Jul 23]
+Round: 3 [Jul 23]
 Admira-Wacker    0-4 GAK
   [56', 71' and 79' Sabitzer, 83' Wieger]
 Austria Lustenau 0-0 Austria Wien
@@ -53,7 +49,7 @@ Ried             2-0 Austria Salzburg
 Sturm            4-1 LASK
   [58' Reinmayr, 84' Milanic, 89' Kocian, 90' Prilasnig; 70' Riseth]
 
-Round 4 [Jul 26,27]
+Round: 4 [Jul 26,27]
 Austria Wien     3-0 Ried
   [26' Simon, 29' Janeschitz, 32' Brunmayr]
 GAK              3-0 Tirol
@@ -66,7 +62,7 @@ Austria Salzburg 5-2 Rapid
   [2' and 75' (p) Glieder, 24' Klausz, 37' Kogler, 51' Plassnegger;
    61' Wagner, 78' Ipoua]
 
-Round 5 [Jul 30]
+Round: 5 [Jul 30]
 Admira-Wacker    2-1 Austria Salzburg
   [30' (p) Zsak, 90' Schwellensattl; 24' Ivanauskas]
 Tirol            3-0 LASK
@@ -77,7 +73,7 @@ Ried             1-1 Austria Lustenau
   [3' Berensztain; 75' Kosturkow]
 Sturm            0-0 Austria Wien
 
-Round 6 [Aug 2,3]
+Round: 6 [Aug 2,3]
 Austria Wien     0-4 Tirol
   [32' Vulic, 89' and 90' Severeyns, 91' Mayrleb]
 GAK              3-0 Ried
@@ -89,7 +85,7 @@ Austria Lustenau 5-0 Admira-Wacker
 Austria Salzburg 1-2 Sturm
   [72' Glieder; 17' Vastic, 25' Haas]
 
-Round 7 [Aug 6]
+Round: 7 [Aug 6]
 Admira-Wacker    1-6 Austria Wien
   [89' A.Ogris; 20' Schmid, 39' (p) Gager, 42' Swierczewski, 49' Pfeffer,
    66' Simon, 86' Kellner]
@@ -102,7 +98,7 @@ Rapid            1-0 Austria Lustenau
 Ried             1-1 Sturm
   [77' Oerlemans; 41' Popovic]
 
-Round 8 [Aug 15,16]
+Round: 8 [Aug 15,16]
 Austria Wien     0-3 Rapid
   [24' Stumpf, 40' Stöger, 89' Penksa]
 Austria Lustenau 4-1 LASK
@@ -114,7 +110,7 @@ Austria Salzburg 2-1 GAK
 Sturm            4-0 Admira-Wacker
   [14' and 34' M.Haas, 28' (p) and 32' Vastic]
 
-Round 9 [Aug 23,24]
+Round: 9 [Aug 23,24]
 Admira-Wacker    0-1 Ried
   [81' Oerlemans]
 Tirol            1-1 Austria Lustenau
@@ -126,7 +122,7 @@ Rapid            0-2 Sturm
 GAK              5-1 Austria Wien
   [17' and 60' Strafner, 19' Radovic, 30' Ramusch, 47' Anicic; 85' Gager]
 
-Round 10 [Aug 30]
+Round: 10 [Aug 30]
 Ried             3-1 Admira-Wacker
   [2' Angerschmid, 53' Oerlemans, 64' Wegrzyn; 48' (p) E.Aigner]
 Austria Wien     1-0 GAK 
@@ -138,7 +134,7 @@ Austria Salzburg 1-1 LASK
 Sturm            1-0 Rapid 
   [8' Vastic]
 
-Round 11 [Sep 13]
+Round: 11 [Sep 13]
 Tirol            2-0 Admira-Wacker
   [43' and 74' Mayrleb]
 LASK             4-1 Austria Wien
@@ -151,7 +147,7 @@ Rapid            3-0 Ried
 Sturm            2-1 GAK 
   [47' Haas, 81' Kocijab; 32' Radovic]
 
-Round 12 [Sep 20]
+Round: 12 [Sep 20]
 Austria Lustenau 0-1 GAK 
   [10' (og) Prinzen]
 Sturm            2-0 Tirol
@@ -163,7 +159,7 @@ Admira-Wacker    1-2 Rapid
 Austria Wien     2-1 Austria Salzburg
   [33' Gager, 75' Simon; 5' (og) Rachimow]
 
-Round 13 [Sep 24]
+Round: 13 [Sep 24]
 GAK              3-0 Admira-Wacker
   [53', 56' (p) and 73' Sabitzer]
 Austria Wien     3-1 Austria Lustenau
@@ -175,7 +171,7 @@ Austria Salzburg 2-0 Ried
 LASK             2-0 Sturm   
   [42' Frigård, 62' Augustine]
 
-Round 14 [Oct 4,5]
+Round: 14 [Oct 4,5]
 Ried             0-1 Austria Wien
   [54' Krinner]
 Tirol            0-0 GAK 
@@ -186,7 +182,7 @@ Rapid            0-3 Austria Salzburg
 Sturm            6-0 Austria Lustenau
   [3' Haas, 13' and 83' Vastic, 14' and 24' Reinmayr, 70' Mählich]
 
-Round 15 [Oct 18,19]
+Round: 15 [Oct 18,19]
 Austria Salzburg 1-0 Admira-Wacker
   [55' Glieder (p)]
 GAK              3-0 Rapid 
@@ -199,7 +195,7 @@ LASK             4-2 Tirol
   [31' and 90' M.Weissenberger, 43' Kogler, 55' Frigård; 39' Severeys,
    78' Baur]
 
-Round 16 [Oct 25,26]
+Round: 16 [Oct 25,26]
 Tirol            2-1 Austria Wien
   [58' Mayrleb, 87' Severeyns; 66' Simon]
 Ried             0-0 GAK 
@@ -210,7 +206,7 @@ Admira-Wacker    1-1 Austria Lustenau
 Sturm            1-0 Austria Salzburg 
   [30' Neukirchner]
 
-Round 17 [Nov 8,9]
+Round: 17 [Nov 8,9]
 Austria Wien     3-0 Admira-Wacker
   [43' and 63' Simon, 47' Schießwald]
 LASK             2-2 GAK
@@ -221,7 +217,7 @@ Austria Lustenau 0-0 Rapid
 Sturm            2-0 Ried  
   [7' and 42' Reinmayr]
 
-Round 18 [Nov 15,16]
+Round: 18 [Nov 15,16]
 LASK             1-0 Austria Lustenau 
   [70' Dadi]
 Tirol            1-1 Ried 
@@ -233,7 +229,7 @@ Admira-Wacker    1-3 Sturm
 Rapid            2-0 Austria Wien
   [13' Pürk, 80' Penksa]
 
-Round 19 [Nov 19]
+Round: 19 [Nov 19]
 Austria Salzburg 2-1 LASK
   [25' Ivanauskas, 83' Klausz; 80' Riseth]
 Austria Wien     1-2 Tirol
@@ -245,7 +241,7 @@ Ried             0-1 GAK
 Admira-Wacker    0-1 Rapid            [Dec 3]
   [78' Prosenik]
 
-Round 20 [Nov 22,23]
+Round: 20 [Nov 22,23]
 GAK              1-3 LASK
   [54' Anicic; 16' Riseth, 54' (og) Vukovic, 90' Frigård]
 Austria Salzburg 2-0 Austria Lustenau
@@ -258,7 +254,7 @@ Ried             1-2 Rapid
 Austria Wien     1-1 Sturm
   [43' Glatzer; 84' (pen) Haas]
 
-Round 21 [Nov 29,30]
+Round: 21 [Nov 29,30]
 LASK             3-5 Admira-Wacker
   [48' Kauz, 65' Pawlowski, 89' Frigård; 44' and 84' Sliwowski,
    51' Datoru, 74' Ozegovic, 85' Pe.Mraz]
@@ -271,7 +267,7 @@ Austria Lustenau 3-1 Austria Wien
 Rapid            2-0 GAK
   [28' (pen) Stumpf, 86' Penksa]
 
-Round 22 [Feb 28, Mar 1]
+Round: 22 [Feb 28, Mar 1]
 GAK              2-1 Admira-Wacker
   [64' and 73' Sabitzer; 32' A.Ogris]
 Tirol            1-1 Sturm
@@ -283,7 +279,7 @@ Austria Lustenau 1-1 Ried
 Rapid            0-1 Austria Salzburg
   [77' Grassler]
 
-Round 23 [Mar 6-8]
+Round: 23 [Mar 6-8]
 Austria Wien     1-1 Rapid
   [57' Hatz (og); 63' M.Wagner]
 Sturm            2-1 LASK
@@ -293,7 +289,7 @@ Ried             2-1 Admira-Wacker
   [14' Hujdurovic, 16' Strafner; 31' Binder]
 Austria Salzburg 0-0 GAK
 
-Round 24 [Mar 10,11]
+Round: 24 [Mar 10,11]
 Rapid            1-3 Sturm
   [76' R.Wagner; 10' and 81' Reinmayr, 55' Vastic]
 GAK              1-0 Austria Wien
@@ -304,7 +300,7 @@ Admira-Wacker    0-0 Austria Salzburg
 Tirol            1-4 Ried
   [87' Jezek; 7' Strafner, 23' Hartl, 48' and 77' Scharrer]
 
-Round 25 [Mar 14,15]
+Round: 25 [Mar 14,15]
 Austria Lustenau 1-1 Rapid
   [40' Prinzen; 1' Wimmer]
 Ried             3-1 Austria Salzburg
@@ -316,7 +312,7 @@ Austria Wien     1-2 Admira-Wacker
 Sturm            2-1 GAK
   [36' Schopp, 75' Reinmayr; 28' Sabitzer]
 
-Round 26 [Mar 21]
+Round: 26 [Mar 21]
 Admira-Wacker    2-4 Sturm
   [25' Sliwowksi, 51' Binder; 53' and 73' Mählich, 87' Milnaic, 90' Spiteri]
 GAK              1-0 Austria Lustenau
@@ -326,7 +322,7 @@ LASK             2-0 Ried
   [2' Pawlowski, 13' Frigård]
 Austria Salzburg 0-0 Austria Wien     [Mar 31]
 
-Round 27 [Mar 28]
+Round: 27 [Mar 28]
 Austria Wien     1-0 Ried
   [71' Hrivnak]
 Sturm            1-0 Austria Salzburg
@@ -338,7 +334,7 @@ Austria Lustenau 2-2 Admira-Wacker
 LASK             5-0 Rapid
   [39' and 71' Tangen, 77' (pen) and 84' (pen) Frigård, 90' M.Weissenberger]
 
-Round 28 [Apr 4,5]
+Round: 28 [Apr 4,5]
 Rapid            2-1 LASK
   [77' Penksa, 90' Pürk; 16' M.Weissenberger]
 GAK              1-2 Tirol
@@ -350,7 +346,7 @@ Admira-Wacker    3-0 Austria Lustenau
 Austria Salzburg 1-1 Sturm
   [59' Glieder; 85' Haas]
 
-Round 29 [Apr 11-13]
+Round: 29 [Apr 11-13]
 Rapid            1-0 Ried
   [7' Ratajczyk]
 Austria Lustenau 1-0 Austria Salzburg
@@ -362,7 +358,7 @@ LASK             1-0 GAK
 Sturm            5-0 Austria Wien
   [35' Reinmayr, 39' Haas, 53' Schupp, 81' Kocijan, 88' Prilasnig]
 
-Round 30 [Apr 18]
+Round: 30 [Apr 18]
 Ried             1-4 Sturm
   [88' Strafner; 40' and 50' Neukirchner, 80' Kocijan, 85' Martens]
 GAK              0-1 Rapid
@@ -374,7 +370,7 @@ Austria Salzburg 1-1 Tirol
 Austria Wien     1-1 Austria Lustenau
   [68' Schießwald; 82' Tiefenbach]
 
-Round 31 [Apr 25,26]
+Round: 31 [Apr 25,26]
 LASK             0-2 Austria Salzburg
   [2' Ivanauskas, 20' Aufhauser]
 GAK              3-0 Ried
@@ -386,7 +382,7 @@ Tirol            2-0 Austria Wien
 Austria Lustenau 0-3 Sturm
   [8' Popovic, 11' Vastic, 19' Neukirchner]
 
-Round 32 [Apr 29]
+Round: 32 [Apr 29]
 Sturm            2-2 Tirol
   [35' Vastic, 84' Reinmayr; 40' El Dahab, 64' Baur]
 Austria Salzburg 1-0 Rapid
@@ -398,7 +394,7 @@ Austria Wien     1-4 LASK
 Admira-Wacker    1-4 GAK
   [51' Binder; 3' Sabitzer, 35' Lipa, 76' and 90' Kulovits]
 
-Round 33 [May 2,3]
+Round: 33 [May 2,3]
 LASK             4-0 Sturm
   [34', 61' and 65' Frigård, 82' Stöger]
 GAK              0-2 Austria Salzburg
@@ -409,7 +405,7 @@ Rapid            0-0 Austria Wien
 Tirol            1-1 Austria Lustenau
   [45' Jezek; 51' Koejoe]
 
-Round 34 [May 9]
+Round: 34 [May 9]
 Ried             1-3 Tirol
   [78' Drechsel (pen); 35' El Dahab, 54' Wazinger, 65' Jezek]
 Austria Lustenau 4-1 LASK
@@ -421,7 +417,7 @@ Austria Salzburg 4-0 Admira-Wacker
 Sturm            0-1 Rapid
   [32' Milanic (og)]
 
-Round 35 [May 12]
+Round: 35 [May 12]
 GAK              0-0 Sturm
 LASK             3-1 Tirol
   [66' and 72' Frigård, 85' Pawlowski; 57' Kirchler]
@@ -432,7 +428,7 @@ Rapid            4-1 Austria Lustenau
 Admira-Wacker    1-1 Austria Wien
   [72' Guggi; 84' Swierczewski]
 
-Round 36 [May 16]
+Round: 36 [May 16]
 Austria Wien     1-2 Austria Salzburg 
   [11' Darasz; 60' Amerhauser, 77' Plassnegger]
 Sturm            2-0 Admira-Wacker
@@ -471,7 +467,7 @@ Vastic (Sturm)    14
 
 ÖFB Cup 1997/98
 
-Preliminary Round
+Preliminary Round:
 
 LAC              2-1 Slovan/HAC
 Ajax             0-2 FavAC/Simmering
@@ -546,7 +542,7 @@ Hohenems         1-3 Dornbirner SV       [aet]
 Göfis            2-4 FC Dornbirn
 Viktoria Bregenz 0-4 Hard
 
-Round 1 [Aug 10-17]
+Round: 1 [Aug 10-17]
 Eisenstadt       2-0 Gerasdorf
 FavAC/Simmering  1-2 Vienna
 ÖMV Stadlau      0-2 Kottingbrunn
@@ -592,7 +588,7 @@ Kundl            4-1 Kirchbichl
 Koblach          3-0 Seekirchen
 Hard bye
 
-Second Round [Aug 25-30]
+Second Round: [Aug 25-30]
 Untersiebenbrunn 4-1 Langenrohr
 Horn             3-5 Kottingbrunn        [aet]
 Hard             1-3 SCR Altach
@@ -616,7 +612,7 @@ Sankt Veit       2-4 Vorwärts Steyr      [aet]
 Donau Linz       3-1 St. Michael/L.      [aet]
 Voitsberg        5-0 Fürstenfeld
 
-Third Round [Sep 27]
+Third Round: [Sep 27]
 ASK Stoob        0-1 FK Austria Wien
 SC Eisenstadt    1-3 First Vienna FC
 SV Würmla        0-5 Admira/Wacker M.
@@ -634,7 +630,7 @@ SCR Altach       0-4 SV Ried
 WSG Wattens      1-0 SC Austria Lustenau
 FC Kufstein      0-2 Schwarz-Weiß Bregenz
 
-Fourth Round [Oct 30-Nov 1]
+Fourth Round: [Oct 30-Nov 1]
 FC Tirol Innsbk. 2-1 Grazer AK
 Untersiebenbrunn 1-3 Admira/Wacker M.
 WSG Wattens      0-2 LASK Linz           [aet]
@@ -700,7 +696,7 @@ Table:
     to play in Bundesliga next season; they will however start
     the season with -3 points.
 
-Round 1 [Jul 18,19]
+Round: 1 [Jul 18,19]
 Kottingbrunn     1-2 Wattens
 Sankt Pölten     2-1 Kufstein
 DSV              0-3 Vienna
@@ -710,7 +706,7 @@ Schwarz-Weiß     1-2 Hartberg
 Eintracht        2-1 Altach
 Stockerau free
 
-Round 2 [Jul 25,26]
+Round: 2 [Jul 25,26]
 Altach           0-2 Spittal
 Gerasdorf        5-1 Eintracht
 Kufstein         1-1 Kottingbrunn
@@ -720,7 +716,7 @@ Wattens          0-0 Braunau
 Vorwärts         5-1 DSV
 Schwarz-Weiß free
 
-Round 3 [Aug 1,2,3]
+Round: 3 [Aug 1,2,3]
 Eintracht        0-3 Wattens
 Altach           1-0 Gerasdorf
 Spittal          0-1 Kufstein
@@ -730,7 +726,7 @@ Sankt Pölten     0-4 Vorwärts
 DSV              1-0 Hartberg
 Kottingbrunn free
 
-Round 4 [Aug 5,6]
+Round: 4 [Aug 5,6]
 Wattens          0-0 Altach
 Vienna           0-0 Eintracht
 Vorwärts         4-3 Spittal
@@ -740,7 +736,7 @@ Schwarz-Weiß     3-0 DSV
 Stockerau        6-1 Sankt Pölten
 Braunau free
 
-Round 5 [Aug 9,10]
+Round: 5 [Aug 9,10]
 Kottingbrunn     0-1 Schwarz-Weiß
 Altach           2-0 Kufstein
 Braunau          1-1 Hartberg
@@ -750,7 +746,7 @@ Eintracht        1-4 Vorwärts
 DSV              2-2 Stockerau
 Sankt Pölten free
 
-Round 6 [Aug 22,23]
+Round: 6 [Aug 22,23]
 Vienna           2-0 Altach
 Wattens          1-1 Spittal
 Stockerau        1-1 Kottingbrunn
@@ -760,7 +756,7 @@ Schwarz-Weiß     2-0 Sankt Pölten
 Vorwärts         1-1 Gerasdorf
 DSV free
 
-Round 7 [Sep 5-7]
+Round: 7 [Sep 5-7]
 Braunau          2-1 Schwarz-Weiß      [Sep 2]
 Spittal          2-1 Stockerau         [Sep 2]
 Eintracht        1-1 Kufstein
@@ -770,7 +766,7 @@ Altach           2-3 Vorwärts
 Kottingbrunn     1-3 DSV
 Gerasdorf free
 
-Round 8 [Sep 12-14]
+Round: 8 [Sep 12-14]
 Hartberg         2-3 Altach
 DSV              1-2 Sankt Pölten
 Kufstein         1-0 Wattens
@@ -780,7 +776,7 @@ Vienna           2-1 Gerasdorf
 Schwarz-Weiß     1-0 Eintracht
 Spittal free
 
-Round 9 [Sep 19-21]
+Round: 9 [Sep 19-21]
 Braunau          0-2 DSV
 Spittal          4-0 Schwarz-Weiß
 Wattens          2-2 Vorwärts
@@ -790,7 +786,7 @@ Eintracht        1-4 Stockerau
 Gerasdorf        1-0 Hartberg
 Altach free
 
-Round 10 [Oct 3-4]
+Round: 10 [Oct 3-4]
 DSV              1-0 Eintracht
 Kottingbrunn     0-3 Braunau
 Schwarz-Weiß     1-1 Altach
@@ -800,7 +796,7 @@ Sankt Pölten     2-1 Spittal
 Stockerau        0-3 Gerasdorf
 Wattens free
 
-Round 11 [Oct 17-19]
+Round: 11 [Oct 17-19]
 Wattens          1-0 Hartberg
 Braunau          3-0 Sankt Pölten
 Spittal          3-0 DSV
@@ -810,7 +806,7 @@ Gerasdorf        1-2 Schwarz-Weiß
 Altach           0-2 Stockerau
 Vienna free
 
-Round 12 [Oct 24-26]
+Round: 12 [Oct 24-26]
 Braunau          1-0 Eintracht
 Kottingbrunn     2-3 Spittal
 Schwarz-Weiß     1-0 Vienna
@@ -820,7 +816,7 @@ DSV              2-0 Altach
 Stockerau        0-0 Wattens
 Kufstein free
 
-Round 13 [Nov 7-8]
+Round: 13 [Nov 7-8]
 Vienna           3-0 Hartberg
 Gerasdorf        4-3 DSV
 Kufstein         1-1 Stockerau
@@ -830,7 +826,7 @@ Spittal          0-0 Braunau
 Altach           3-0 Kottingbrunn
 Vorwärts free
 
-Round 14 [Nov 15]
+Round: 14 [Nov 15]
 Braunau          2-2 Altach
 Schwarz-Weiß     1-0 Vorwärts
 Hartberg         1-3 Spittal
@@ -840,7 +836,7 @@ Sankt Pölten     2-4 Wattens
 DSV              3-1 Kufstein
 Eintracht free
 
-Round 15 [Nov 22]
+Round: 15 [Nov 22]
 Gerasdorf        2-2 Braunau
 Altach           2-0 Sankt Pölten
 Vorwärts         6-2 Stockerau
@@ -850,7 +846,7 @@ Kufstein         1-1 Schwarz-Weiß
 Wattens          0-0 DSV
 Hartberg free
 
-Round 16 [Mar 7,8]
+Round: 16 [Mar 7,8]
 Braunau          3-0 Gerasdorf
 Stockerau        1-1 Vorwärts
 Eintracht        3-3 Spittal
@@ -860,7 +856,7 @@ Sankt Pölten     1-0 Altach
 Schwarz-Weiß     6-1 Kufstein
 Hartberg free
 
-Round 17 [Mar 13-15]
+Round: 17 [Mar 13-15]
 Wattens          1-1 Kottingbrunn
 Vorwärts         0-0 Braunau
 Hartberg         0-0 Schwarz-Weiß
@@ -870,7 +866,7 @@ Kufstein         1-1 Sankt Pölten
 Altach           2-1 Eintracht
 Stockerau free
 
-Round 18 [Mar 21]
+Round: 18 [Mar 21]
 Braunau          1-1 Wattens
 DSV              3-2 Vorwärts
 Spittal          0-0 Altach
@@ -880,7 +876,7 @@ Stockerau        0-3 Hartberg
 Kottingbrunn     0-1 Kufstein
 Schwarz-Weiß free
 
-Round 19 [Mar 27,28]
+Round: 19 [Mar 27,28]
 Wattens          5-0 Eintracht
 Vienna           2-2 Braunau
 Gerasdorf        1-0 Altach
@@ -890,7 +886,7 @@ Vorwärts         2-2 Sankt Pölten
 Schwarz-Weiß     1-1 Stockerau 
 Kottingbrunn free
 
-Round 20 [Apr 3,4]
+Round: 20 [Apr 3,4]
 DSV              2-3 Schwarz-Weiß
 Spittal          2-0 Vorwärts
 Eintracht        0-3 Vienna
@@ -900,7 +896,7 @@ Gerasdorf        1-1 Kufstein
 Kottingbrunn     1-3 Hartberg
 Braunau free
 
-Round 21 [Apr 10-13]
+Round: 21 [Apr 10-13]
 Stockerau        2-0 DSV
 Vienna           2-0 Spittal
 Vorwärts         3-1 Eintracht
@@ -910,7 +906,7 @@ Wattens          2-0 Gerasdorf
 Schwarz-Weiß     3-0 Kottingbrunn
 Sankt Pölten free
 
-Round 22 [Apr 17,18]
+Round: 22 [Apr 17,18]
 Braunau          2-1 Kufstein
 Spittal          0-0 Wattens
 Gerasdorf        2-1 Vorwärts
@@ -920,7 +916,7 @@ Sankt Pölten     1-0 Schwarz-Weiß
 Altach           0-0 Vienna
 DSV free
 
-Round 23 [Apr 24-26]
+Round: 23 [Apr 24-26]
 Vorwärts         3-0 Altach
 Kufstein         2-0 Eintracht
 Schwarz-Weiß     2-3 Braunau
@@ -930,7 +926,7 @@ DSV              3-0 Kottingbrunn
 Hartberg         0-1 Sankt Pölten
 Gerasdorf free
 
-Round 24 [May 1,2]
+Round: 24 [May 1,2]
 Braunau          2-3 Stockerau
 Kottingbrunn     1-4 Vorwärts
 Gerasdorf        2-1 Vienna
@@ -940,7 +936,7 @@ Altach           3-0 Hartberg
 Wattens          0-0 Kufstein
 Spittal free
 
-Round 25 [May 8,9]
+Round: 25 [May 8,9]
 Vorwärts         3-1 Wattens
 DSV              2-2 Braunau
 Stockerau        0-1 Eintracht
@@ -950,7 +946,7 @@ Hartberg         3-1 Gerasdorf
 Sankt Pölten     3-0 Kottingbrunn
 Altach free
 
-Round 26 [May 12]
+Round: 26 [May 12]
 Altach           0-0 Schwarz-Weiß
 Gerasdorf        1-2 Stockerau
 Eintracht        0-1 DSV
@@ -960,7 +956,7 @@ Braunau          3-0 Kottingbrunn
 Spittal          1-1 Sankt Pölten
 Wattens free
 
-Round 27 [May 15-17]
+Round: 27 [May 15-17]
 Hartberg         2-0 Wattens
 Stockerau        3-0 Altach 
 Vorwärts         2-0 Kufstein
@@ -970,7 +966,7 @@ Kottingbrunn     3-1 Eintracht
 Schwarz-Weiß     5-2 Gerasdorf
 Vienna free
 
-Round 28 [May 23]
+Round: 28 [May 23]
 Vorwärts         2-0 Hartberg
 Eintracht        0-2 Braunau
 Vienna           1-1 Schwarz-Weiß
@@ -980,7 +976,7 @@ Wattens          1-2 Stockerau
 Spittal          2-0 Kottingbrunn
 Kufstein free
 
-Round 29 [May 30]
+Round: 29 [May 30]
 Schwarz-Weiß     4-1 Wattens
 Sankt Pölten     1-0 Eintracht
 Braunau          0-1 Spittal
@@ -990,7 +986,7 @@ Kottingbrunn     2-2 Altach
 Stockerau        2-0 Kufstein
 Vorwärts free
 
-Round 30 
+Round: 30 
 Altach           2-1 Braunau   
 Vorwärts         1-0 Schwarz-Weiß   
 Spittal          4-2 Hartberg  
@@ -1587,12 +1583,12 @@ Tirol
 
 FOHRENBURGER-CUP 1997/98
 
-Two Preliminary Rounds without teams from Regionalliga West and
+Two Preliminary Round:s without teams from Regionalliga West and
 Tiroler Liga (with 35 and 42 games respectivly - complete results
 available) No extra time, penalty shoot-out after 90 minutes and equal
 score (results in brackets)
 
-First Round (26.8.-9.9.)
+First Round: (26.8.-9.9.)
 
 Matches with teams from Regionalliga West:
  SK Kirchberg - SV Wörgl                 1:14
@@ -1636,7 +1632,7 @@ Tiroler Liga)
 The next round is played in Spring 1998, Final in June 1998 on neutral
 ground.
 
-Second Round (31.3.-13.4.)
+Second Round: (31.3.-13.4.)
 
 SV Reichenau - FC Tirol Amateure           2:4
 SVG Mayrhofen - SV Wörgl                   2:5
@@ -1657,7 +1653,7 @@ TUS Roppen - SV Umhausen                   2:4
 Eliminated Top-Teams: Kirchbichl, Hall (Regionalliga West), Reichenau
 (Tiroler Liga)
 
-Third Round (21.-22.4.)
+Third Round: (21.-22.4.)
 
 SV Axams - SV Wörgl                        0:0 (4:2)
 SC Kundl - SV Innsbruck                    5:1
