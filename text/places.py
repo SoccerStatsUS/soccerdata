@@ -115,7 +115,8 @@ def load_stadiums():
     # What is this?
     for py in pys:
         if not py.startswith('_'):
-            tail = py.replace('/home/chris/www/', '').replace('.py', '').replace('/', '.')
+            #tail = py.replace('/home/chris/www/', '').replace('.py', '').replace('/', '.')
+            tail = py.replace(ROOT_DIR, '').replace('.py', '').replace('/', '.')
             l.extend(import_path(tail).l)
 
     regions = [e for e in os.listdir(p) if '.' not in e]
