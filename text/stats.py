@@ -6,11 +6,9 @@
 
 import os
 
+from soccerdata.settings import ROOT_DIR
 
-DIR = '/home/chris/www/soccerdata/data/stats'
-
-if not os.path.exists(DIR):
-    DIR = "/Users/chrisedgemon/www/soccerdata/data/stats"
+DIR = os.path.join(ROOT_DIR, 'soccerdata/data/stats')
 
 
 def process_mls_2012_stats():

@@ -2,12 +2,12 @@ import datetime
 import os
 
 from soccerdata.utils import pounds_to_kg, inches_to_cm
-
+from soccerdata.settings import ROOT_DIR
 
 # Scrape bios compiled by me.
 # These should be turned into YAML and this code discarded.
 
-DIR = '/home/chris/www/soccerdata/data/people'
+DIR = os.path.join(ROOT_DIR, 'soccerdata/data/people')
 
 
 
@@ -62,7 +62,7 @@ def load_other_bios():
 
 
 def process_asl_bios():
-    bp = '/home/chris/www/soccerdata/data/people/asl_bios.csv'
+    bp = os.path.join(ROOT_DIR, 'soccerdata/data/people/asl_bios.csv')
 
 
     f = open(bp)
@@ -153,7 +153,7 @@ def process_asl_bios2():
 def semicolon_bios(fn, source):
             
 
-    p = '/home/chris/www/soccerdata/data/people/'
+    p = os.path.join(ROOT_DIR, 'soccerdata/data/people/')
     bp = os.path.join(p, fn)
 
     f = open(bp)

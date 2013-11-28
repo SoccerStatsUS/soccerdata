@@ -1,6 +1,9 @@
+import os
 
-SALARIES_PATH = "/home/chris/www/soccerdata/data/money/salaries/mls.csv"
-MLS_SALARIES_PATH = "/home/chris/www/soccerdata/data/money/salaries/%s"
+from soccerdata.settings import ROOT_DIR
+
+SALARIES_PATH = os.path.join(ROOT_DIR, 'soccerdata/data/money/salaries/mls.csv')
+MLS_SALARIES_PATH = os.path.join(ROOT_DIR, 'soccerdata/data/money/salaries/%s')
 
 
 

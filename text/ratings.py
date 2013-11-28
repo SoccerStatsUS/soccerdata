@@ -1,8 +1,11 @@
 # For parsing ratings from Philip Beineke.
 
 import csv
+import os
 
-ratings_path = '/home/chris/www/soccerdata/data/analysis/ratings1.0.csv'
+from soccerdata.settings import ROOT_DIR
+
+ratings_path = os.path.join(ROOT_DIR, 'soccerdata/data/analysis/ratings1.0.csv')
 
 
 def get_ratings():

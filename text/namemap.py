@@ -3,8 +3,9 @@
 import datetime
 import os
 
+from soccerdata.settings import ROOT_DIR
 
-p = '/home/chris/www/soccerdata/data/mappings/team_name'
+p = os.path.join(ROOT_DIR, 'soccerdata/data/mappings/team_name')
 
 
 def correct_date(s, start=True):

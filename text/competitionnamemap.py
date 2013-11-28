@@ -3,7 +3,9 @@
 import datetime
 import os
 
-p = '/home/chris/www/soccerdata/data/mappings/competition_name'
+from soccerdata.settings import ROOT_DIR
+
+p = os.path.join(ROOT_DIR, 'soccerdata/data/mappings/competition_name')
 
 make_joint_season = lambda y: "%s-%s" % (y, y+1)
 

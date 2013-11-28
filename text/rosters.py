@@ -5,6 +5,8 @@
 import os
 import re
 
+from soccerdata.settings import ROOT_DIR
+
 
 def filter_brackets(s):
     """
@@ -80,7 +82,7 @@ def process_rosters(fn):
 
     l = []
 
-    p = os.path.join('/home/chris/www/soccerdata/data/rosters/', fn)
+    p = os.path.join(ROOT_DIR, 'soccerdata/data/rosters/', fn)
     f = open(p)
 
     rp = RosterProcessor()
@@ -162,7 +164,7 @@ class RosterProcessor(object):
 
 def process_rosters2(p):
 
-    #p = os.path.join('/home/chris/www/soccerdata/data/rosters/', fn)
+    p = os.path.join(ROOT_DIR, 'soccerdata/data/rosters/', fn)
     f = open(p)
 
     rp = RosterProcessor2()

@@ -5,9 +5,10 @@ import shutil
 import urlparse
 import os
 
+from soccerdata.settings import ROOT_DIR
 
 def img_download(url, fn):
-    p = os.path.join('/home/chris/www/soccerdata/data/images', fn)
+    p = os.path.join(ROOT_DIR, 'soccerdata/data/images', fn)
     _download(url, p)
 
 def _download(url, fileName=None):

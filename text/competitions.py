@@ -1,8 +1,9 @@
 
 import os
 
+from soccerdata.settings import ROOT_DIR
 
-COMPETITIONS = '/home/chris/www/soccerdata/data/competitions'
+COMPETITIONS = os.path.join(ROOT_DIR, 'soccerdata/data/competitions')
 
 def load_competitions():
 

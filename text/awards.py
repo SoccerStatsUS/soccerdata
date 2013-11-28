@@ -1,12 +1,12 @@
+import os
 
+from soccerdata.settings import ROOT_DIR
 
-
-DIR = '/home/chris/www/soccerdata/lists'
-
+HALL_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/lists/awards/halloffame')
 
 def load_hall_of_fame():
 
-    f = open('/home/chris/www/soccerdata/data/lists/awards/halloffame')
+    f = open(HALL_DIR)
     l = []
 
     for line in f:

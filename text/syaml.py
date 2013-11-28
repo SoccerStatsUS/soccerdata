@@ -1,12 +1,9 @@
 import os
 import yaml
 
-DIR = '/home/chris/www/soccerdata/data/'
+from soccerdata.settings import ROOT_DIR
 
-if not os.path.exists(DIR):
-    DIR = "/Users/chrisedgemon/www/soccerdata/data/"
-
-
+DIR = os.path.join(ROOT_DIR, 'soccerdata/data/')
 
 
 def load_teams():

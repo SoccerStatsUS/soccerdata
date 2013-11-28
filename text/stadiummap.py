@@ -1,7 +1,9 @@
 import datetime
 import os
 
-p = '/home/chris/www/soccerdata/data/mappings/team_stadium'
+from soccerdata.settings import ROOT_DIR
+
+p = os.path.join(ROOT_DIR, 'soccerdata/data/mappings/team_stadium')
 
 
 # Eliminate this duplicate? Move to utils?

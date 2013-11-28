@@ -1,8 +1,8 @@
 import os
 
-p = '/home/chris/www/soccerdata/data/sources'
+from soccerdata.settings import ROOT_DIR
 
-
+SOURCE_PATH = os.path.join(ROOT_DIR, 'soccerdata/data/sources')
 
 
 def load():
@@ -39,7 +39,7 @@ def load():
 
     l = []
 
-    for line in open(p):
+    for line in open(SOURCE_PATH):
         l.extend(process_line(line))
 
     return [e for e in l if e]

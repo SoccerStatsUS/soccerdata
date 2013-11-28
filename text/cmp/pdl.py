@@ -4,6 +4,8 @@ import datetime
 import os
 import re
 
+from soccerdata.settings import ROOT_DIR
+
 
 def load_pdl_games():
     games = process_pdl_games_file('domestic/country/usa/leagues/d4/pdl/pdl.csv')
@@ -17,7 +19,7 @@ def process_string(s):
 
 
 def process_pdl_games_file(fn):
-    p = os.path.join("/home/chris/www/soccerdata/data/games", fn)
+    p = os.path.join(ROOT_DIR, 'soccerdata/data/games', fn)
     f = open(p)
     gp = GeneralProcessor()
     for line in f:
@@ -290,7 +292,7 @@ class GeneralProcessor(object):
         
         
 if __name__ == "__main__":
-    d = "/home/chris/www/soccerdata/data/general"
+    d = os.path.join(ROOT_DIR, 'www/soccerdata/data/general')
     for fn in os.listdir(d):
         p = os.path.join(d, fn)
         if os.path.isfile(p) and not fn.endswith("~"):

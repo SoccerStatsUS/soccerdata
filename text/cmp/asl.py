@@ -1,12 +1,15 @@
 # Process Golden Age ASL scores.
 
 import datetime
+import os
 import re
 
 from utils import get_id
 
-games_filename = '/home/chris/www/soccerdata/data/games/domestic/country/usa/leagues/d1/asl.jose'
-stats_filename = '/home/chris/www/soccerdata/data/stats/d1/asl'
+from soccerdata.settings import ROOT_DIR
+
+games_filename = os.path.join(ROOT_DIR, 'soccerdata/data/games/domestic/country/usa/leagues/d1/asl.jose')
+stats_filename = os.path.join(ROOT_DIR, 'soccerdata/data/stats/d1/asl')
 
 
 def get_full_name_stats(team, season):

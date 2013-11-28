@@ -3,6 +3,7 @@ import datetime
 
 # Process positions.
 
+from soccerdata.settings import ROOT_DIR
 
 
 def process_file(p, position, delimiter=','):
@@ -69,6 +70,8 @@ def process_line(line, delimiter):
             
 
 if __name__ == "__main__":
-    process_file("/home/chris/www/soccerdata/data/jobs/world/england", 'Head Coach')
-    print(process_file("/home/chris/www/soccerdata/data/jobs/usa/d1/mls/head", 'Head Coach', delimiter=';'))
+    jobs_dir = os.path.join(ROOT_DIR, 'soccerdata/data/jobs')
+
+    process_file(os.path.join('world/england', 'Head Coach')
+    print(process_file(os.path.join('usa/d1/mls/head', 'Head Coach', delimiter=';'))
 

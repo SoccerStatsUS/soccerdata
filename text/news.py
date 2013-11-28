@@ -2,7 +2,9 @@ import datetime
 import os
 import re
 
-NEWS_FILE = "/home/chris/www/soccerdata/data/news"
+from soccerdata.settings import ROOT_DIR
+
+NEWS_FILE = os.path.join(ROOT_DIR, 'soccerdata/data/news')
 
 def load():
     l = []

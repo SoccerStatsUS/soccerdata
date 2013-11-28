@@ -1,6 +1,10 @@
+import os
+
 from soccerdata import utils
 
-DIR = '/home/chris/www/soccerdata/data/teams'
+from soccerdata.settings import ROOT_DIR
+
+DIR = os.path.join(ROOT_DIR, 'soccerdata/data/teams')
 
 
 def load():

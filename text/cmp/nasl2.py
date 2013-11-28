@@ -1,11 +1,13 @@
 import os
 
+from soccerdata.settings import ROOT_DIR
+
+NASL_STATS_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/stats/d2')
+
 def process_stats():
     """
     Process modern NASL stats taken from nasl.com
     """
-
-    NASL_STATS_DIR = '/home/chris/www/soccerdata/data/stats/d2'
 
     lst = []
     for fn in ('2011', '2012'):

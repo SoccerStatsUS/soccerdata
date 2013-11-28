@@ -3,15 +3,16 @@ import datetime
 import re
 
 
+from soccerdata.settings import ROOT_DIR
 
 def process_asl2_partial():
-    return process_partial_stats('/home/chris/www/soccerdata/data/stats/partial/stats')
+    return process_partial_stats(os.path.join(ROOT_DIR, 'soccerdata/data/stats/partial/stats'))
 
 def process_apsl_partial():
-    return process_partial_stats('/home/chris/www/soccerdata/data/stats/partial/apsl')
+    return process_partial_stats(os.path.join(ROOT_DIR, 'soccerdata/data/stats/partial/apsl'))
 
 def process_csl_partial():
-    return process_partial_stats('/home/chris/www/soccerdata/data/stats/partial/csl')
+    return process_partial_stats(os.path.join(ROOT_DIR, 'soccerdata/data/stats/partial/csl'))
 
 
 def process_partial_stats(p):

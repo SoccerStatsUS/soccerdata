@@ -1,9 +1,10 @@
 import datetime
 import re
 
+from soccerdata.settings import ROOT_DIR
 
 # Need to add in new positions.
-POSITIONS_PATH = '/home/chris/www/soccerdata/data/transactions/positions'
+POSITIONS_PATH = os.path.join(ROOT_DIR, 'soccerdata/data/transactions/positions'
 
 class PositionParser(object):
     """
