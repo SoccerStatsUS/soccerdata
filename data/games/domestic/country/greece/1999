@@ -1,59 +1,53 @@
 BlockSource: http://rsssf.com/tablesg/grk00.html
+Season: 1999-2000
 
-Greece 1999/00
+*                               AEK ApA Ari EtA Ira Ion Kav Kal OFI Oly PTh PAO PGE Pyr Pan Pro Tri Xan
+* 1. A.E.K. Athinas             XXX 3:0 2:0 2:1 3:2 5:1 3:0 6:1 1:2 0:2 2:0 1:2 3:0 1:0 0:1 3:2 2:1 4:1
+* 2. A.S. Apollonas Smyrnis     3:2 XXX 3:3 0:1 1:0 0:2 0:2 1:2 1:2 0:1 3:4 0:3 0:0 0:0 2:1 0:2 5:2 0:0
+* 3. A.S. Aris Thessaloniki     1:1 2:1 XXX 1:1 2:1 1:1 1:0 6:1 3:1 0:1 0:0 0:2 2:0 2:1 5:1 2:1 3:3 0:1
+* 4. Ethnikos Asteras Athinas   1:3 3:1 1:0 XXX 3:1 1:2 1:0 2:0 0:1 1:1 1:1 1:2 2:2 3:1 4:2 1:0 1:0 1:0
+* 5. A.S. Iraklis Thessaloniki  3:1 1:0 2:0 2:0 XXX 3:2 2:1 2:1 0:3 3:4 3:1 1:3 2:1 3:1 1:2 4:0 4:1 3:1
+* 6. A.O. Ionikos Nikaias       1:1 1:0 2:2 3:0 1:1 XXX 2:0 0:1 1:1 1:2 1:0 2:2 0:0 0:2 2:0 2:0 5:1 2:1
+* 7. A.O. Kavala                0:2 1:3 1:0 2:0 3:1 0:0 XXX 0:1 0:1 0:5 1:1 1:4 0:0 2:1 3:7 2:1 4:1 1:0
+* 8. A.O. Kalamata              1:1 1:1 5:2 1:0 2:2 2:0 3:2 XXX 0:0 0:1 1:1 0:0 1:1 2:1 1:3 2:0 0:1 0:0
+* 9. O.F.I. Iraklion            1:2 1:0 2:1 4:1 1:1 2:0 2:2 3:2 XXX 2:1 2:0 3:4 2:2 3:2 0:2 4:3 2:0 2:1
+*10. Olympiakos S.F.P. Pireas   3:0 2:0 2:0 5:0 1:0 2:0 5:0 4:1 2:0 XXX 4:1 2:2 5:1 2:1 5:0 4:0 3:1 3:2
+*11. P.A.O.K. Thessalonikis     4:4 1:1 3:2 2:0 4:0 3:0 5:0 4:2 2:2 0:2 XXX 1:3 1:1 0:1 2:0 1:0 2:0 5:0
+*12. Panathinaikos A.O.         1:0 5:0 3:0 4:0 3:0 5:0 3:0 5:0 3:2 2:0 1:1 XXX 7:1 3:1 2:1 3:1 2:0 2:1
+*13. Panachaiki G.E. Patras     1:1 1:2 1:2 2:0 0:1 1:1 3:2 1:2 3:1 0:2 1:2 1:0 XXX 2:0 1:0 2:0 3:0 1:1
+*14. A.O. Paniliakos Pyrgos     0:1 2:1 1:2 2:0 4:3 3:0 2:0 3:1 1:2 0:3 0:4 0:1 0:0 XXX 3:0 4:0 1:3 2:0
+*15. Panionios G.S. Smyrnis     0:2 3:1 1:3 1:0 2:2 2:0 1:1 2:0 1:4 0:1 1:1 0:4 2:1 1:2 XXX 2:1 4:1 4:0
+*16. A.O. Proodeftiki Neolaia   1:4 2:0 0:1 1:0 0:1 2:2 1:1 1:2 0:0 0:3 1:0 1:0 2:2 1:1 1:0 XXX 1:0 0:0
+*17. A.O. Trikala               0:1 1:0 0:1 1:2 3:3 2:2 3:1 0:2 1:1 0:2 3:5 1:3 0:1 1:1 2:3 0:0 XXX 2:1
+*18. A.O. Skoda Xanthi          2:2 2:0 0:0 0:0 3:0 2:1 1:0 1:0 1:1 0:1 1:2 1:3 1:0 1:0 5:0 2:1 3:0 XXX 
 
-Cross-Table :
-                               AEK ApA Ari EtA Ira Ion Kav Kal OFI Oly PTh PAO PGE Pyr Pan Pro Tri Xan
- 1. A.E.K. Athinas             XXX 3:0 2:0 2:1 3:2 5:1 3:0 6:1 1:2 0:2 2:0 1:2 3:0 1:0 0:1 3:2 2:1 4:1
- 2. A.S. Apollonas Smyrnis     3:2 XXX 3:3 0:1 1:0 0:2 0:2 1:2 1:2 0:1 3:4 0:3 0:0 0:0 2:1 0:2 5:2 0:0
- 3. A.S. Aris Thessaloniki     1:1 2:1 XXX 1:1 2:1 1:1 1:0 6:1 3:1 0:1 0:0 0:2 2:0 2:1 5:1 2:1 3:3 0:1
- 4. Ethnikos Asteras Athinas   1:3 3:1 1:0 XXX 3:1 1:2 1:0 2:0 0:1 1:1 1:1 1:2 2:2 3:1 4:2 1:0 1:0 1:0
- 5. A.S. Iraklis Thessaloniki  3:1 1:0 2:0 2:0 XXX 3:2 2:1 2:1 0:3 3:4 3:1 1:3 2:1 3:1 1:2 4:0 4:1 3:1
- 6. A.O. Ionikos Nikaias       1:1 1:0 2:2 3:0 1:1 XXX 2:0 0:1 1:1 1:2 1:0 2:2 0:0 0:2 2:0 2:0 5:1 2:1
- 7. A.O. Kavala                0:2 1:3 1:0 2:0 3:1 0:0 XXX 0:1 0:1 0:5 1:1 1:4 0:0 2:1 3:7 2:1 4:1 1:0
- 8. A.O. Kalamata              1:1 1:1 5:2 1:0 2:2 2:0 3:2 XXX 0:0 0:1 1:1 0:0 1:1 2:1 1:3 2:0 0:1 0:0
- 9. O.F.I. Iraklion            1:2 1:0 2:1 4:1 1:1 2:0 2:2 3:2 XXX 2:1 2:0 3:4 2:2 3:2 0:2 4:3 2:0 2:1
-10. Olympiakos S.F.P. Pireas   3:0 2:0 2:0 5:0 1:0 2:0 5:0 4:1 2:0 XXX 4:1 2:2 5:1 2:1 5:0 4:0 3:1 3:2
-11. P.A.O.K. Thessalonikis     4:4 1:1 3:2 2:0 4:0 3:0 5:0 4:2 2:2 0:2 XXX 1:3 1:1 0:1 2:0 1:0 2:0 5:0
-12. Panathinaikos A.O.         1:0 5:0 3:0 4:0 3:0 5:0 3:0 5:0 3:2 2:0 1:1 XXX 7:1 3:1 2:1 3:1 2:0 2:1
-13. Panachaiki G.E. Patras     1:1 1:2 1:2 2:0 0:1 1:1 3:2 1:2 3:1 0:2 1:2 1:0 XXX 2:0 1:0 2:0 3:0 1:1
-14. A.O. Paniliakos Pyrgos     0:1 2:1 1:2 2:0 4:3 3:0 2:0 3:1 1:2 0:3 0:4 0:1 0:0 XXX 3:0 4:0 1:3 2:0
-15. Panionios G.S. Smyrnis     0:2 3:1 1:3 1:0 2:2 2:0 1:1 2:0 1:4 0:1 1:1 0:4 2:1 1:2 XXX 2:1 4:1 4:0
-16. A.O. Proodeftiki Neolaia   1:4 2:0 0:1 1:0 0:1 2:2 1:1 1:2 0:0 0:3 1:0 1:0 2:2 1:1 1:0 XXX 1:0 0:0
-17. A.O. Trikala               0:1 1:0 0:1 1:2 3:3 2:2 3:1 0:2 1:1 0:2 3:5 1:3 0:1 1:1 2:3 0:0 XXX 2:1
-18. A.O. Skoda Xanthi          2:2 2:0 0:0 0:0 3:0 2:1 1:0 1:0 1:1 0:1 1:2 1:3 1:0 1:0 5:0 2:1 3:0 XXX 
-
-NOTES :
-Apollonas Athinas changed Name to Apollonas Smyrnis.
-
-PAOK - Panachaiki played in Mytillini (Lesvos)
+*NOTES :
+*Apollonas Athinas changed Name to Apollonas Smyrnis.
+*
+*PAOK - Panachaiki played in Mytillini (Lesvos)
 
 
-TABLE :
--------
-------------------------------------------------------------------
- 1.Olympiakos S.F.P. Pireas         92  34  30- 2- 2  86:18 +68    [Chapions]
- 2.Panathinaikos A.O. Athinas       88  34  28- 4- 2  92:24 +70    [Champions League]
-------------------------------------------------------------------
- 3.A.E. Konstantinoupolis Athinas   66  34  20- 6- 6  69:39 +39    [UEFA Cup as Cup Winners]
- 4.O.F.I. Iraklion Kritis           63  34  18- 9- 7  60:44 +16    [UEFA Cup]
- 5.P.A.O.K. Thessalonikis           55  34  15-10- 9  64:44 +20    [UEFA Cup]
- 6.A.S. Iraklis Thessaloniki        50  34  15- 5-14  58:58 =      [UEFA Cup]
-------------------------------------------------------------------
- 7.A.S. Aris Thessalonikis          50  34  14- 8-12  50:46 + 4
- 8.Panionios G.S. Smyrnis Athinas   45  34  14- 3-17  50:63 -13
- 9.A.O. Kalamatas                   44  34  12- 8-14  41:57 -16
-10.A.O. Ionikos Nikaias Pireas      41  34  10-11-13  40:50 -10
-11.A.O. Ethnikos Asteras Kaisariani 41  34  12- 5-17  33:50 -17
-12.A.O. Skoda Xanthis               41  34  11- 8-16  36:43 - 7
-13.A.O. Paniliakos Pyrgos           40  34  12- 4-18  44:48 - 4
-14.Panachaiki G.E. Patras           39  34   9-12-13  37:47 -10
-------------------------------------------------------------------
-15.A.O. Kavala                      30  34   8- 6-20  33:66 -30 -- [Relegated]
-16.A.O. Proodeftiki Neolaia Pireas  28  34   7- 7-20  27:55 -28 -- [Relegated]
-17.A.S. Apollonas Smyrnis           24  34   6- 6-22  30:59 -29 -- [Relegated]
-18.A.O. Trikala                     21  34   5- 6-23  35:74 -39 -- [Relegated]
-------------------------------------------------------------------
+* 1.Olympiakos S.F.P. Pireas         92  34  30- 2- 2  86:18 +68    [Chapions]
+* 2.Panathinaikos A.O. Athinas       88  34  28- 4- 2  92:24 +70    [Champions League]
+*------------------------------------------------------------------
+* 3.A.E. Konstantinoupolis Athinas   66  34  20- 6- 6  69:39 +39    [UEFA Cup as Cup Winners]
+* 4.O.F.I. Iraklion Kritis           63  34  18- 9- 7  60:44 +16    [UEFA Cup]
+* 5.P.A.O.K. Thessalonikis           55  34  15-10- 9  64:44 +20    [UEFA Cup]
+* 6.A.S. Iraklis Thessaloniki        50  34  15- 5-14  58:58 =      [UEFA Cup]
+*------------------------------------------------------------------
+* 7.A.S. Aris Thessalonikis          50  34  14- 8-12  50:46 + 4
+* 8.Panionios G.S. Smyrnis Athinas   45  34  14- 3-17  50:63 -13
+* 9.A.O. Kalamatas                   44  34  12- 8-14  41:57 -16
+*10.A.O. Ionikos Nikaias Pireas      41  34  10-11-13  40:50 -10
+*11.A.O. Ethnikos Asteras Kaisariani 41  34  12- 5-17  33:50 -17
+*12.A.O. Skoda Xanthis               41  34  11- 8-16  36:43 - 7
+*13.A.O. Paniliakos Pyrgos           40  34  12- 4-18  44:48 - 4
+*14.Panachaiki G.E. Patras           39  34   9-12-13  37:47 -10
+*------------------------------------------------------------------
+*15.A.O. Kavala                      30  34   8- 6-20  33:66 -30 -- [Relegated]
+*16.A.O. Proodeftiki Neolaia Pireas  28  34   7- 7-20  27:55 -28 -- [Relegated]
+*17.A.S. Apollonas Smyrnis           24  34   6- 6-22  30:59 -29 -- [Relegated]
+*18.A.O. Trikala                     21  34   5- 6-23  35:74 -39 -- [Relegated]
 
 Round 1 
 [Sep 19]

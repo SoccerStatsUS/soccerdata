@@ -27,518 +27,766 @@ Season: 1998-1999
 *18.NAC                          34  4 11 19  41-61  23  Relegated
 
 Round: 1
-[Aug 20]
-Heerenveen      1-0 Twente
-[Aug 21]
-Fortuna         1-2 Feyenoord
-[Aug 22]
-MVV             1-2 Graafschap
-Cambuur         1-1 PSV
-AZ              2-0 Sparta
-RKC             0-1 NEC
-Vitesse         1-0 Roda
-[Aug 23]
-NAC             2-4 Utrecht
-Ajax            2-0 Willem II
+Date: 8/20/1998
+
+; Heerenveen     ; 1-0; Twente
+
+Date: 8/21/1998
+
+; Fortuna        ; 1-2; Feyenoord
+
+Date: 8/22/1998
+
+; MVV            ; 1-2; Graafschap
+; Cambuur        ; 1-1; PSV
+; AZ             ; 2-0; Sparta
+; RKC            ; 0-1; NEC
+; Vitesse        ; 1-0; Roda
+
+Date: 8/23/1998
+
+; NAC            ; 2-4; Utrecht
+; Ajax           ; 2-0; Willem II
 
 Round: 2
-[Aug 28]
-Roda            0-2 Ajax
-[Aug 29]
-AZ              0-0 Vitesse
-PSV             1-2 Heerenveen
-Willem II       1-0 Fortuna
-[Aug 30]
-Twente          1-0 Sparta
-NEC             1-1 NAC
-Utrecht         3-0 Cambuur
-Feyenoord       3-1 MVV
-[Sep 5]
-Graafschap      2-2 RKC
+Date: 8/28/1998
+
+; Roda           ; 0-2; Ajax
+
+Date: 8/29/1998
+
+; AZ             ; 0-0; Vitesse
+; PSV            ; 1-2; Heerenveen
+; Willem II      ; 1-0; Fortuna
+
+Date: 8/30/1998
+
+; Twente         ; 1-0; Sparta
+; NEC            ; 1-1; NAC
+; Utrecht        ; 3-0; Cambuur
+; Feyenoord      ; 3-1; MVV
+
+Date: 9/5/1998
+
+; Graafschap     ; 2-2; RKC
 
 Round: 3
-[Sep 6]
-Sparta          1-1 Roda
-[Sep 8]
-Feyenoord       5-0 Graafschap
-RKC             3-4 PSV
-Heerenveen      2-2 Willem II
-[Sep 9]
-NAC             1-1 Twente
-MVV             1-4 Utrecht
-Cambuur         2-2 NEC
-Fortuna         0-2 Vitesse
-Ajax            5-1 AZ
+Date: 9/6/1998
+
+; Sparta         ; 1-1; Roda
+
+Date: 9/8/1998
+
+; Feyenoord      ; 5-0; Graafschap
+; RKC            ; 3-4; PSV
+; Heerenveen     ; 2-2; Willem II
+
+Date: 9/9/1998
+
+; NAC            ; 1-1; Twente
+; MVV            ; 1-4; Utrecht
+; Cambuur        ; 2-2; NEC
+; Fortuna        ; 0-2; Vitesse
+; Ajax           ; 5-1; AZ
 
 Round: 4
-[Sep 11]
-Heerenveen      0-1 Feyenoord
-[Sep 12]
-Roda            3-1 NAC
-PSV             2-0 MVV
-Fortuna         2-2 AZ
-Willem II       3-2 Sparta
-Vitesse         4-2 Cambuur
-[Sep 13]
-Utrecht         2-2 Ajax
-Twente          1-0 RKC
-Graafschap      2-1 NEC
+Date: 9/11/1998
+
+; Heerenveen     ; 0-1; Feyenoord
+
+Date: 9/12/1998
+
+; Roda           ; 3-1; NAC
+; PSV            ; 2-0; MVV
+; Fortuna        ; 2-2; AZ
+; Willem II      ; 3-2; Sparta
+; Vitesse        ; 4-2; Cambuur
+
+Date: 9/13/1998
+
+; Utrecht        ; 2-2; Ajax
+; Twente         ; 1-0; RKC
+; Graafschap     ; 2-1; NEC
 
 Round: 5
-[Sep 18]
-NEC             3-1 Roda
-[Sep 19]
-Cambuur         0-2 Twente
-MVV             4-2 Vitesse
-AZ              1-1 Willem II
-[Sep 20]
-RKC             0-4 Heerenveen
-Utrecht         1-1 Fortuna
-Sparta          0-2 NAC
-Ajax            1-1 Graafschap
-[Sep 22]
-PSV             1-2 Feyenoord
+Date: 9/18/1998
 
-Round: 6 [Sep 23]
-Graafschap      0-3 Sparta
-Twente          2-1 MVV
-NAC             1-1 AZ
-Vitesse         2-0 RKC
-Fortuna         1-0 Ajax
-Willem II       2-1 Cambuur
-Heerenveen      1-0 Utrecht
-[Dec 6]
-Feyenoord       1-0 NEC
-[Dec 12]
-PSV             3-3 Roda JC
+; NEC            ; 3-1; Roda
+
+Date: 9/19/1998
+
+; Cambuur        ; 0-2; Twente
+; MVV            ; 4-2; Vitesse
+; AZ             ; 1-1; Willem II
+
+Date: 9/20/1998
+
+; RKC            ; 0-4; Heerenveen
+; Utrecht        ; 1-1; Fortuna
+; Sparta         ; 0-2; NAC
+; Ajax           ; 1-1; Graafschap
+
+Date: 9/22/1998
+
+; PSV            ; 1-2; Feyenoord
+
+Round: 6 
+Date: 9/23/1998
+
+; Graafschap     ; 0-3; Sparta
+; Twente         ; 2-1; MVV
+; NAC            ; 1-1; AZ
+; Vitesse        ; 2-0; RKC
+; Fortuna        ; 1-0; Ajax
+; Willem II      ; 2-1; Cambuur
+; Heerenveen     ; 1-0; Utrecht
+
+Date: 12/6/1998
+
+; Feyenoord      ; 1-0; NEC
+
+Date: 12/12/1998
+
+; PSV            ; 3-3; Roda JC
 
 Round: 7 
-[Sep 26]
-Cambuur         2-0 Graafschap
-Roda            0-0 RKC
-NEC             2-0 Heerenveen
-Fortuna         0-1 MVV
-Feyenoord       3-2 Willem II
-Vitesse         5-1 Sparta
-[Sep 27]
-Utrecht         0-3 Twente
-Ajax            1-0 NAC
-AZ              4-1 PSV
+Date: 9/26/1998
+
+; Cambuur        ; 2-0; Graafschap
+; Roda           ; 0-0; RKC
+; NEC            ; 2-0; Heerenveen
+; Fortuna        ; 0-1; MVV
+; Feyenoord      ; 3-2; Willem II
+; Vitesse        ; 5-1; Sparta
+
+Date: 9/27/1998
+
+; Utrecht        ; 0-3; Twente
+; Ajax           ; 1-0; NAC
+; AZ             ; 4-1; PSV
 
 Round: 8
-[Oct 3]
-MVV             3-0 Cambuur
-PSV             2-0 Fortuna
-Willem II       1-2 Roda
-[Oct 4]
-Sparta          2-0 Ajax
-Utrecht         2-3 NEC
-RKC             2-3 AZ
-Twente          1-1 Feyenoord
-Graafschap      0-0 Vitesse
-Heerenveen      2-1 NAC
+Date: 10/3/1998
+
+; MVV            ; 3-0; Cambuur
+; PSV            ; 2-0; Fortuna
+; Willem II      ; 1-2; Roda
+
+Date: 10/4/1998
+
+; Sparta         ; 2-0; Ajax
+; Utrecht        ; 2-3; NEC
+; RKC            ; 2-3; AZ
+; Twente         ; 1-1; Feyenoord
+; Graafschap     ; 0-0; Vitesse
+; Heerenveen     ; 2-1; NAC
 
 Round: 9
-[Oct 16]
-AZ              1-3 Heerenveen
-[Oct 17]
-NAC             2-0 MVV
-Fortuna         2-1 Sparta
-Cambuur         1-1 RKC
-Vitesse         3-2 Willem II
-Feyenoord       0-0 Roda
-[Oct 18]
-Graafschap      0-0 Utrecht
-NEC             2-2 PSV
-Ajax            5-0 Twente
+Date: 10/16/1998
+
+; AZ             ; 1-3; Heerenveen
+
+Date: 10/17/1998
+
+; NAC            ; 2-0; MVV
+; Fortuna        ; 2-1; Sparta
+; Cambuur        ; 1-1; RKC
+; Vitesse        ; 3-2; Willem II
+; Feyenoord      ; 0-0; Roda
+
+Date: 10/18/1998
+
+; Graafschap     ; 0-0; Utrecht
+; NEC            ; 2-2; PSV
+; Ajax           ; 5-0; Twente
 
 Round: 10
-[Oct 23]
-Roda            5-3 Fortuna
-NEC             2-2 AZ
-[Oct 24]
-MVV             1-0 RKC
-Twente          2-1 Graafschap
-[Oct 25]
-Utrecht         2-3 Feyenoord
-Ajax            4-0 Cambuur
-Sparta          3-1 Heerenveen
-Willem II       4-2 PSV
-[Dec 9]
-NAC             0-2 Vitesse
+Date: 10/23/1998
+
+; Roda           ; 5-3; Fortuna
+; NEC            ; 2-2; AZ
+
+Date: 10/24/1998
+
+; MVV            ; 1-0; RKC
+; Twente         ; 2-1; Graafschap
+
+Date: 10/25/1998
+
+; Utrecht        ; 2-3; Feyenoord
+; Ajax           ; 4-0; Cambuur
+; Sparta         ; 3-1; Heerenveen
+; Willem II      ; 4-2; PSV
+
+Date: 12/9/1998
+
+; NAC            ; 0-2; Vitesse
 
 Round: 11
-[Oct 30]
-Fortuna         0-3 Twente
-[Oct 31]
-PSV             4-0 Sparta
-Cambuur         3-1 NAC
-MVV             1-1 Willem II
-Heerenveen      2-1 Vitesse
-Feyenoord       1-2 AZ
-[Nov 1]
-Utrecht         0-3 Roda
-RKC             1-2 Graafschap
-NEC             0-4 Ajax
+Date: 10/30/1998
+
+; Fortuna        ; 0-3; Twente
+
+Date: 10/31/1998
+
+; PSV            ; 4-0; Sparta
+; Cambuur        ; 3-1; NAC
+; MVV            ; 1-1; Willem II
+; Heerenveen     ; 2-1; Vitesse
+; Feyenoord      ; 1-2; AZ
+
+Date: 11/1/1998
+
+; Utrecht        ; 0-3; Roda
+; RKC            ; 1-2; Graafschap
+; NEC            ; 0-4; Ajax
 
 Round: 12
-[Nov 6]
-RKC             2-5 Utrecht
-[Nov 7]
-Graafschap      2-2 Willem II
-Roda            1-0 Cambuur
-[Nov 8]
-Sparta          0-0 MVV
-Vitesse         1-0 NEC
-AZ              1-1 Ajax  
-Twente          2-2 PSV
-Heerenveen      2-0 Fortuna
-[Apr 18]
-NAC             0-1 Feyenoord    [originally abandoned at Nov in 66' at 1-1 due
-                                  to field being unplayable;replayed completely]
+Date: 11/6/1998
+
+; RKC            ; 2-5; Utrecht
+
+Date: 11/7/1998
+
+; Graafschap     ; 2-2; Willem II
+; Roda           ; 1-0; Cambuur
+
+Date: 11/8/1998
+
+; Sparta         ; 0-0; MVV
+; Vitesse        ; 1-0; NEC
+; AZ             ; 1-1; Ajax  
+; Twente         ; 2-2; PSV
+; Heerenveen     ; 2-0; Fortuna
+
+Date: 4/18/1999
+
+; NAC            ; 0-1; Feyenoord    
+*[originally abandoned at Nov in 66' at 1-1 due to field being unplayable;replayed completely]
+
 Round: 13 
-[Nov 11]
-Twente          1-2 Heerenveen
-NAC             1-2 NEC
-Cambuur         0-0 AZ
-MVV             1-3 Feyenoord
-Fortuna         0-0 Graafschap
-Willem II       3-0 RKC
-Ajax            2-1 Roda
-[Nov 12]
-PSV             3-1 Vitesse
+Date: 11/11/1998
+
+; Twente         ; 1-2; Heerenveen
+; NAC            ; 1-2; NEC
+; Cambuur        ; 0-0; AZ
+; MVV            ; 1-3; Feyenoord
+; Fortuna        ; 0-0; Graafschap
+; Willem II      ; 3-0; RKC
+; Ajax           ; 2-1; Roda
+
+Date: 11/12/1998
+
+; PSV            ; 3-1; Vitesse
 
 Round: 14
-[Nov 14]
-Graafschap      2-3 Roda
-MVV             2-1 AZ
-NEC             2-2 Twente
-[Nov 15]
-Vitesse         2-0 Utrecht
-RKC             5-1 Sparta
-Feyenoord       4-1 Fortuna
-Willem II       2-1 NAC
-Ajax            2-2 PSV
-[Nov 24]
-Heerenveen      1-1 Cambuur
+
+Date: 11/14/1998
+
+; Graafschap     ; 2-3; Roda
+; MVV            ; 2-1; AZ
+; NEC            ; 2-2; Twente
+
+Date: 11/15/1998
+
+; Vitesse        ; 2-0; Utrecht
+; RKC            ; 5-1; Sparta
+; Feyenoord      ; 4-1; Fortuna
+; Willem II      ; 2-1; NAC
+; Ajax           ; 2-2; PSV
+
+Date: 11/24/1998
+
+; Heerenveen     ; 1-1; Cambuur
 
 Round: 15
-[Nov 20]
-MVV             0-3 NEC
-[Nov 21]
-NAC             1-1 Fortuna
-Roda            3-1 Vitesse
-Graafschap      1-1 Heerenveen
-Twente          5-1 Willem II 
-Feyenoord       4-0 Cambuur
-[Nov 22]
-Sparta          0-0 AZ
-PSV             5-0 Utrecht
-RKC             0-1 Ajax
+Date: 11/20/1998
+
+; MVV            ; 0-3; NEC
+
+Date: 11/21/1998
+
+; NAC            ; 1-1; Fortuna
+; Roda           ; 3-1; Vitesse
+; Graafschap     ; 1-1; Heerenveen
+; Twente         ; 5-1; Willem II 
+; Feyenoord      ; 4-0; Cambuur
+
+Date: 11/22/1998
+
+; Sparta         ; 0-0; AZ
+; PSV            ; 5-0; Utrecht
+; RKC            ; 0-1; Ajax
 
 Round: 16
-[Nov 27]
-Cambuur         3-1 Fortuna
-Roda            2-1 MVV
-[Nov 28]
-PSV             2-2 Graafschap
-[Nov 29]
-Sparta          1-2 Feyenoord
-Utrecht         2-0 Willem II
-Vitesse         3-2 Ajax
-[Dec 16]
-NEC             1-1 RKC
+Date: 11/27/1998
 
-Moved Matches
-[Dec 1]
-Heerenveen      3-3 PSV
-[Dec 2]
-AZ              1-0 Roda
-Cambuur         1-1 Utrecht
-[Dec 3]
-Fortuna         3-2 RKC
+; Cambuur        ; 3-1; Fortuna
+; Roda           ; 2-1; MVV
+
+Date: 11/28/1998
+
+; PSV            ; 2-2; Graafschap
+
+Date: 11/29/1998
+
+; Sparta         ; 1-2; Feyenoord
+; Utrecht        ; 2-0; Willem II
+; Vitesse        ; 3-2; Ajax
+
+Date: 12/16/1998
+
+; NEC            ; 1-1; RKC
+
+*Moved Matches
+
+Date: 12/1/1998
+
+; Heerenveen     ; 3-3; PSV
+
+Date: 12/2/1998
+
+; AZ             ; 1-0; Roda
+; Cambuur        ; 1-1; Utrecht
+
+Date: 12/3/1998
+
+; Fortuna        ; 3-2; RKC
 
 Round: 17
-[Dec 2]
-NEC             3-1 Sparta
-[Dec 4]
-Willem II       3-5 Vitesse
-[Dec 5]
-Sparta          1-2 Cambuur
-[Dec 6]
-Ajax            1-1 MVV
-NAC             3-4 PSV
-AZ              1-1 Twente
-Utrecht         2-1 Graafschap
-[Dec 10]
-RKC             0-5 Feyenoord
-[Mar 23]
-Roda            2-1 Heerenveen
+Date: 12/2/1998
+
+; NEC            ; 3-1; Sparta
+
+Date: 12/4/1998
+
+; Willem II      ; 3-5; Vitesse
+
+Date: 12/5/1998
+
+; Sparta         ; 1-2; Cambuur
+
+Date: 12/6/1998
+
+; Ajax           ; 1-1; MVV
+; NAC            ; 3-4; PSV
+; AZ             ; 1-1; Twente
+; Utrecht        ; 2-1; Graafschap
+
+Date: 12/10/1998
+
+; RKC            ; 0-5; Feyenoord
+
+Date: 3/23/1999
+
+; Roda           ; 2-1; Heerenveen
 
 Round: 18
-[Dec 11]
-MVV             3-3 Fortuna
-[Dec 12]
-Willem II       1-0 NEC
-[Dec 13]
-Sparta          4-2 Twente
-Graafschap      0-1 NAC
-AZ              4-3 Utrecht
-Vitesse         1-1 Feyenoord
-Ajax            0-0 Heerenveen
+Date: 12/11/1998
+
+; MVV            ; 3-3; Fortuna
+
+Date: 12/12/1998
+
+; Willem II      ; 1-0; NEC
+
+Date: 12/13/1998
+
+; Sparta         ; 4-2; Twente
+; Graafschap     ; 0-1; NAC
+; AZ             ; 4-3; Utrecht
+; Vitesse        ; 1-1; Feyenoord
+; Ajax           ; 0-0; Heerenveen
 
 Round: 19
-[Dec 16]
-NAC             2-3 Cambuur
-Roda            2-0 Twente
-[Dec 18]
-Heerenveen      1-1 MVV
-[Dec 19]
-PSV             1-0 Willem II
-Graafschap      1-1 AZ
-[Dec 20]
-Utrecht         4-1 Sparta
-Feyenoord       1-1 Ajax
-NEC             0-3 Fortuna
 
-Moved Matches 
-[Dec 19]
-Twente          0-0 Vitesse
-[Dec 20]
-RKC             2-1 NAC
+Date: 12/16/1998
+
+; NAC            ; 2-3; Cambuur
+; Roda           ; 2-0; Twente
+
+Date: 12/18/1998
+
+; Heerenveen     ; 1-1; MVV
+
+Date: 12/19/1998
+
+; PSV            ; 1-0; Willem II
+; Graafschap     ; 1-1; AZ
+
+Date: 12/20/1998
+
+; Utrecht        ; 4-1; Sparta
+; Feyenoord      ; 1-1; Ajax
+; NEC            ; 0-3; Fortuna
+
+*Moved Matches 
+
+Date: 12/19/1998
+
+; Twente         ; 0-0; Vitesse
+
+Date: 12/20/1998
+
+; RKC            ; 2-1; NAC
 
 Round: 20
-[Feb 5]
-NEC             1-1 Graafschap
-[Feb 6]
-Fortuna         2-0 NAC
-Willem II       3-2 Heerenveen
-[Feb 7]
-RKC             2-2 MVV
-[Feb 14]
-Sparta          0-1 Utrecht   
-Twente          2-1 Ajax
-[Apr 2]
-AZ              0-2 Feyenoord
-[Apr 6]
-Cambuur         1-1 Roda
-[Apr 20]
-Vitesse         3-3 PSV
 
-Moved Matches
-[Feb 6]
-Twente          0-3 AZ
-[Feb 9]
-Roda            5-2 NEC
+Date: 2/5/1999
+
+; NEC            ; 1-1; Graafschap
+
+Date: 2/6/1999
+
+; Fortuna        ; 2-0; NAC
+; Willem II      ; 3-2; Heerenveen
+
+Date: 2/7/1999
+
+; RKC            ; 2-2; MVV
+
+Date: 2/14/1999
+
+; Sparta         ; 0-1; Utrecht   
+; Twente         ; 2-1; Ajax
+
+Date: 4/2/1999
+
+; AZ             ; 0-2; Feyenoord
+
+Date: 4/6/1999
+
+; Cambuur        ; 1-1; Roda
+
+Date: 4/20/1999
+
+; Vitesse        ; 3-3; PSV
+
+*Moved Matches
+
+Date: 2/6/1999
+
+; Twente         ; 0-3; AZ
+
+Date: 2/9/1999
+
+; Roda           ; 5-2; NEC
 
 Round: 21
-[Feb 17]
-Vitesse         3-1 NAC
-NEC             0-3 Willem II
-RKC             0-0 Fortuna
-[Feb 18]
-PSV             3-0 Twente
-[Feb 21]
-Utrecht         2-2 Heerenveen
-[Mar 17]
-Cambuur         1-5 Feyenoord
-[Apr 1]
-MVV             0-0 Roda
-[Apr 2]
-Sparta          2-3 Graafschap
+
+Date: 2/17/1999
+
+; Vitesse        ; 3-1; NAC
+; NEC            ; 0-3; Willem II
+; RKC            ; 0-0; Fortuna
+
+Date: 2/18/1999
+
+; PSV            ; 3-0; Twente
+
+Date: 2/21/1999
+
+; Utrecht        ; 2-2; Heerenveen
+
+Date: 3/17/1999
+
+; Cambuur        ; 1-5; Feyenoord
+
+Date: 4/1/1999
+
+; MVV            ; 0-0; Roda
+
+Date: 4/2/1999
+
+; Sparta         ; 2-3; Graafschap
 
 Round: 22
-[Feb 17]
-Heerenveen      2-2 Ajax
-[Feb 20]
-Roda            1-0 Sparta
-Fortuna         2-0 Cambuur
-AZ              2-1 RKC
-Vitesse         2-1 MVV
-[Feb 21]
-Graafschap      0-2 Twente
-Feyenoord       3-1 PSV
-[Feb 27]
-Willem II       1-0 Utrecht
 
-Moved Matches
-[Feb 24]
-NAC             0-1 Graafschap
-Feyenoord       1-0 RKC
+Date: 2/17/1999
+
+; Heerenveen     ; 2-2; Ajax
+
+Date: 2/20/1999
+
+; Roda           ; 1-0; Sparta
+; Fortuna        ; 2-0; Cambuur
+; AZ             ; 2-1; RKC
+; Vitesse        ; 2-1; MVV
+
+Date: 2/21/1999
+
+; Graafschap     ; 0-2; Twente
+; Feyenoord      ; 3-1; PSV
+
+Date: 2/27/1999
+
+; Willem II      ; 1-0; Utrecht
+
+*Moved Matches
+
+Date: 2/24/1999
+
+; NAC            ; 0-1; Graafschap
+; Feyenoord      ; 1-0; RKC
 
 Round: 23
-[Feb 26]
-Cambuur         2-2 Vitesse
-[Feb 27]
-NEC             1-1 MVV
-Roda            8-2 AZ
-PSV             2-0 NAC
-[Feb 28]
-Ajax            5-1 Sparta
-Feyenoord       2-1 Heerenveen
-[Apr 7]
-Fortuna         1-2 Willem II
+
+Date: 2/26/1999
+
+; Cambuur        ; 2-2; Vitesse
+
+Date: 2/27/1999
+
+; NEC            ; 1-1; MVV
+; Roda           ; 8-2; AZ
+; PSV            ; 2-0; NAC
+
+Date: 2/28/1999
+
+; Ajax           ; 5-1; Sparta
+; Feyenoord      ; 2-1; Heerenveen
+
+Date: 4/7/1999
+
+; Fortuna        ; 1-2; Willem II
 
 Round: 24
-[Feb 5]
-Roda            1-3 PSV
-[Feb 6]
-NAC             2-2 Heerenveen
-AZ              3-1 Cambuur
-MVV             2-5 Twente
-Vitesse         1-2 Fortuna
-[Feb 7]
-Sparta          1-0 NEC
-Ajax            5-2 Utrecht
-RKC             1-3 Willem II
-Graafschap      3-4 Feyenoord
+* These were labelled as February dates.
+Date: 3/5/1999
+
+; Roda           ; 1-3; PSV
+
+Date: 3/6/1999
+
+; NAC            ; 2-2; Heerenveen
+; AZ             ; 3-1; Cambuur
+; MVV            ; 2-5; Twente
+; Vitesse        ; 1-2; Fortuna
+
+Date: 3/7/1999
+
+; Sparta         ; 1-0; NEC
+; Ajax           ; 5-2; Utrecht
+; RKC            ; 1-3; Willem II
+; Graafschap     ; 3-4; Feyenoord
 
 Round: 25
-[Mar 13]
-Willem II       2-0 Graafschap
-Heerenveen      2-0 RKC
-PSV             3-0 Cambuur
-[Mar 14]
-Sparta          1-3 Vitesse
-Utrecht         2-2 AZ
-Twente          0-0 Roda
-[Mar 16]
-MVV             1-4 Ajax
 
-Moved Matches [Mar 17]
-NAC             0-2 RKC
-Fortuna         3-2 Utrecht
+Date: 3/13/1999
+
+; Willem II      ; 2-0; Graafschap
+; Heerenveen     ; 2-0; RKC
+; PSV            ; 3-0; Cambuur
+
+Date: 3/14/1999
+
+; Sparta         ; 1-3; Vitesse
+; Utrecht        ; 2-2; AZ
+; Twente         ; 0-0; Roda
+
+Date: 3/16/1999
+
+; MVV            ; 1-4; Ajax
+
+*Moved Matches 
+Date: 3/17/1999
+
+; NAC            ; 0-2; RKC
+; Fortuna        ; 3-2; Utrecht
 
 Round: 26
-[Mar 19]
-Twente          2-0 NEC
-[Mar 20]
-Cambuur         1-0 MVV
-AZ              0-3 Fortuna
-Heerenveen      4-1 Graafschap
-[Mar 21]
-Utrecht         2-0 NAC
-Sparta          0-5 PSV
-Ajax            0-1 Vitesse
-Willem II       4-1 Feyenoord
+
+Date: 3/19/1999
+
+; Twente         ; 2-0; NEC
+
+Date: 3/20/1999
+
+; Cambuur        ; 1-0; MVV
+; AZ             ; 0-3; Fortuna
+; Heerenveen     ; 4-1; Graafschap
+
+Date: 3/21/1999
+
+; Utrecht        ; 2-0; NAC
+; Sparta         ; 0-5; PSV
+; Ajax           ; 0-1; Vitesse
+; Willem II      ; 4-1; Feyenoord
 
 Round: 27
-[Mar 18]
-Roda            0-2 Willem II
-[Mar 27]
-Graafschap      3-1 MVV
-[Apr 2 
-Fortuna         1-0 Heerenveen
-NEC             1-0 Cambuur
-[Apr 3]
-RKC             0-2 Vitesse
-[Apr 4]
-PSV             3-1 Ajax
-[Apr 5]
-Twente          1-1 Utrecht
-Feyenoord       1-0 Sparta
-[Apr 13]
-AZ              3-0 NAC
+
+Date: 3/18/1999
+
+; Roda           ; 0-2; Willem II
+
+Date: 3/27/1999
+
+; Graafschap     ; 3-1; MVV
+
+Date: 4/2/1999
+
+; Fortuna        ; 1-0; Heerenveen
+; NEC            ; 1-0; Cambuur
+
+Date: 4/3/1999
+
+; RKC            ; 0-2; Vitesse
+
+Date: 4/4/1999
+
+; PSV            ; 3-1; Ajax
+
+Date: 4/5/1999
+
+; Twente         ; 1-1; Utrecht
+; Feyenoord      ; 1-0; Sparta
+
+Date: 4/13/1999
+
+; AZ             ; 3-0; NAC
 
 Round: 28
-[Apr 9]
-Sparta          0-1 RKC
-MVV             1-1 PSV
-[Apr 10]
-Graafschap      0-0 Fortuna
-Heerenveen      3-2 NEC
-NAC             0-0 Roda
-Willem II       2-0 AZ
-Vitesse         1-1 Twente
-[Apr 11]
-Feyenoord       4-2 Utrecht
-Cambuur         4-1 Ajax
+
+Date: 4/9/1999
+
+; Sparta         ; 0-1; RKC
+; MVV            ; 1-1; PSV
+
+Date: 4/10/1999
+
+; Graafschap     ; 0-0; Fortuna
+; Heerenveen     ; 3-2; NEC
+; NAC            ; 0-0; Roda
+; Willem II      ; 2-0; AZ
+; Vitesse        ; 1-1; Twente
+
+Date: 4/11/1999
+
+; Feyenoord      ; 4-2; Utrecht
+; Cambuur        ; 4-1; Ajax
 
 Round: 29
-[Apr 4]
-NAC             2-2 Willem II
-[Apr 16]
-Vitesse         1-2 Heerenveen
-[Apr 17]
-AZ              1-3 Graafschap
-Twente          0-0 Cambuur
-MVV             1-1 Sparta
-PSV             2-0 NEC
-[Apr 18]
-Utrecht         1-1 RKC
-Ajax            1-3 Fortuna
-[May 12]
-Roda            1-0 Feyenoord
 
-Moved Match [Apr 21]
-Ajax            3-0 NEC
+Date: 4/4/1999
+
+; NAC            ; 2-2; Willem II
+
+Date: 4/16/1999
+
+; Vitesse        ; 1-2; Heerenveen
+
+Date: 4/17/1999
+
+; AZ             ; 1-3; Graafschap
+; Twente         ; 0-0; Cambuur
+; MVV            ; 1-1; Sparta
+; PSV            ; 2-0; NEC
+
+Date: 4/18/1999
+
+; Utrecht        ; 1-1; RKC
+; Ajax           ; 1-3; Fortuna
+
+Date: 5/12/1999
+
+; Roda           ; 1-0; Feyenoord
+
+*Moved Match 
+Date: 4/21/1999
+
+; Ajax           ; 3-0; NEC
 
 Round: 30
-[Apr 23]
-Graafschap      1-0 PSV
-[Apr 24]
-Cambuur         2-4 Sparta
-Heerenveen      2-1 AZ
-[Apr 25]
-Fortuna         0-1 Roda
-Feyenoord       2-2 NAC
-NEC             3-1 Vitesse
-RKC             2-2 Twente
-Utrecht         0-2 MVV
-Willem II       3-1 Ajax
+
+Date: 4/23/1999
+
+; Graafschap     ; 1-0; PSV
+
+Date: 4/24/1999
+
+; Cambuur        ; 2-4; Sparta
+; Heerenveen     ; 2-1; AZ
+
+Date: 4/25/1999
+
+; Fortuna        ; 0-1; Roda
+; Feyenoord      ; 2-2; NAC
+; NEC            ; 3-1; Vitesse
+; RKC            ; 2-2; Twente
+; Utrecht        ; 0-2; MVV
+; Willem II      ; 3-1; Ajax
 
 Round: 31
-[Apr 30]
-MVV             3-3 NAC
-[May 1]
-Cambuur         0-0 Heerenveen
-Roda            3-1 Graafschap
-Twente          2-2 Fortuna
-PSV             2-2 RKC
-Vitesse         0-1 AZ
-[May 2]
-Ajax            6-0 Feyenoord
-NEC             0-1 Utrecht
-Sparta          0-4 Willem II
+
+Date: 4/30/1999
+
+; MVV            ; 3-3; NAC
+
+Date: 5/1/1999
+
+; Cambuur        ; 0-0; Heerenveen
+; Roda           ; 3-1; Graafschap
+; Twente         ; 2-2; Fortuna
+; PSV            ; 2-2; RKC
+; Vitesse        ; 0-1; AZ
+
+Date: 5/2/1999
+
+; Ajax           ; 6-0; Feyenoord
+; NEC            ; 0-1; Utrecht
+; Sparta         ; 0-4; Willem II
 
 Round: 32
-[May 7]
-Fortuna         6-4 PSV
-[may 8]
-NAC             5-0 Sparta
-Heerenveen      2-2 Roda
-Willem II       4-1 MVV
-AZ              1-1 NEC
-[May 9]
-Feyenoord       3-1 Twente
-Utrecht         1-2 Vitesse
-RKC             4-1 Cambuur
-Graafschap      1-3 Ajax
 
-Round: 33 [May 16]
-Ajax            2-0 RKC
-Twente          2-2 NAC
-Cambuur         0-2 Willem II
-Sparta          5-0 Fortuna
-NEC             0-3 Feyenoord
-Vitesse         2-1 Graafschap
-MVV             1-0 Heerenveen
-PSV             7-1 AZ
-Roda            3-0 Utrecht
+Date: 5/7/1999
+
+; Fortuna        ; 6-4; PSV
+
+Date: 5/8/1999
+
+; NAC            ; 5-0; Sparta
+; Heerenveen     ; 2-2; Roda
+; Willem II      ; 4-1; MVV
+; AZ             ; 1-1; NEC
+
+Date: 5/9/1999
+
+; Feyenoord      ; 3-1; Twente
+; Utrecht        ; 1-2; Vitesse
+; RKC            ; 4-1; Cambuur
+; Graafschap     ; 1-3; Ajax
+
+Round: 33 
+Date: 5/16/1999
+
+; Ajax           ; 2-0; RKC
+; Twente         ; 2-2; NAC
+; Cambuur        ; 0-2; Willem II
+; Sparta         ; 5-0; Fortuna
+; NEC            ; 0-3; Feyenoord
+; Vitesse        ; 2-1; Graafschap
+; MVV            ; 1-0; Heerenveen
+; PSV            ; 7-1; AZ
+; Roda           ; 3-0; Utrecht
 
 Round: 34 
-[May 21]
-Fortuna         2-3 NEC
-[May 22]
-Graafschap      2-2 Cambuur
-[May 23]
-NAC             2-2 Ajax
-AZ              4-2 MVV
-Feyenoord       2-1 Vitesse
-Heerenveen      0-0 Sparta
-Utrecht         2-3 PSV
-RKC             4-1 Roda
-Willem II       1-2 Twente
+Date: 5/21/1999
+
+; Fortuna        ; 2-3; NEC
+
+Date: 5/22/1999
+
+; Graafschap     ; 2-2; Cambuur
+
+Date: 5/23/1999
+
+; NAC            ; 2-2; Ajax
+; AZ             ; 4-2; MVV
+; Feyenoord      ; 2-1; Vitesse
+; Heerenveen     ; 0-0; Sparta
+; Utrecht        ; 2-3; PSV
+; RKC            ; 4-1; Roda
+; Willem II      ; 1-2; Twente
 
 * 1.Feyenoord                    34 25  5  4  76-38  80  Champions
 * - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -569,27 +817,39 @@ Nacompetitie (Promotion/Relegation Playoff)
 
 Group A
 
-Round: 1 [May 27]
+Round: 1 
+Date: 5/27/1999
+
 RKC             4-2 Emmen
 Dordrecht       2-2 Zwolle
 
-Round: 2 [May 30]
+Round: 2 
+Date: 5/30/1999
+
 Emmen           5-3 Dordrecht
 Zwolle          0-0 RKC
 
-Round: 3 [Jun 11]
+Round: 3 
+Date: 6/11/1999
+
 RKC             2-1 Dordrecht
 Emmen           1-3 Zwolle
 
-Round: 4 [Jun 13]
+Round: 4 
+Date: 6/13/1999
+
 Dordrecht       0-2 RKC
 Zwolle          2-1 Emmen
 
-Round: 5 [Jun 16]
+Round: 5 
+Date: 6/16/1999
+
 Dordrecht       2-1 Emmen
 RKC             2-0 Zwolle
 
-Round: 6 [Jun 19]
+Round: 6 
+Date: 6/19/1999
+
 Emmen           0-1 RKC
 Zwolle          1-4 Dordrecht
 
@@ -600,27 +860,39 @@ Zwolle          1-4 Dordrecht
 
 Group B
 
-Round: 1 [May 27]
+Round: 1 
+Date: 5/27/1999
+
 Sparta          2-3 Groningen
 Helmond         2-5 Excelsior
 
-Round: 2 [May 30]
+Round: 2 
+Date: 5/30/1999
+
 Groningen       6-1 Helmond
 Excelsior       2-3 Sparta
 
-Round: 3 [Jun 11]
+Round: 3 
+Date: 6/11/1999
+
 Groningen       4-0 Excelsior
 Sparta          4-1 Helmond
 
-Round: 4 [Jun 13]
+Round: 4 
+Date: 6/13/1999
+
 Excelsior       2-2 Groningen
 Helmond         0-1 Sparta
 
-Round: 5 [Jun 16]
+Round: 5 
+Date: 6/16/1999
+
 Helmond         0-1 Groningen
 Sparta          6-0 Excelsior
 
-Round: 6 [Jun 19]
+Round: 6 
+Date: 6/19/1999
+
 Groningen       0-3 Sparta
 Excelsior       7-1 Helmond
 
