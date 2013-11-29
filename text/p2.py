@@ -71,7 +71,6 @@ def process_line(line, delimiter):
 
 if __name__ == "__main__":
     jobs_dir = os.path.join(ROOT_DIR, 'soccerdata/data/jobs')
-
-    process_file(os.path.join('world/england', 'Head Coach')
-    print(process_file(os.path.join('usa/d1/mls/head', 'Head Coach', delimiter=';'))
+    #process_file(os.path.join(ROOT_DIR, 'world/england', 'Head Coach'
+    #print(process_file(os.path.join('usa/d1/mls/head', 'Head Coach', delimiter=';')))
 
