@@ -234,10 +234,10 @@ Leandro, Leandro, Leandro;
 ; Internacional; 1-3; Guarani
 ; Ponte Preta  ; 1-0; Juventude
 ; Parana       ; 1-0; Atletico-PR
-;; Atletico-MG;   1-0 Sao Paulo
+; Atletico-MG;   1-0; Sao Paulo
 ; Vasco        ; 2-0; Cruzeiro
-;; America-MG;    1-0 Goias
-;; America-RN;    0-1 Coritiba
+; America-MG;    1-0; Goias
+; America-RN;    0-1; Coritiba
 
 Round: 11 
 Date: 9/9/1998
@@ -249,7 +249,7 @@ Date: 9/9/1998
 ; Bragantino   ; 1-2; Sao Paulo
 ; Parana       ; 1-2; Gremio
 ; Vitoria      ; 0-3; Coritiba
-;; America-RN;    2-2 Juventude
+; America-RN;    2-2; Juventude
 ; Goias        ; 2-3; Atletico-PR
 
 Date: 10/15/1998
@@ -271,7 +271,7 @@ Date: 9/13/1998
 ; Flamengo     ; 2-3; Portuguesa
 ; Palmeiras    ; 3-0; Ponte Preta
 ; Guarani      ; 2-2; Cruzeiro
-;; Atletico-MG;   3-2 Atletico-PR
+; Atletico-MG;   3-2; Atletico-PR
 ; Coritiba     ; 0-0; America-MG
 ; Goias        ; 3-0; Bragantino
 
@@ -287,7 +287,7 @@ Date: 9/20/1998
 Date: 9/15/1998
 
 ; Flamengo     ; 2-1; Goias
-;; Atletico-MG;   1-1 Vasco
+; Atletico-MG;   1-1; Vasco
 
 Date: 9/16/1998
 
@@ -308,7 +308,7 @@ Date: 9/20/1998
 ; Guarani      ; 2-2; Goias
 ; Santos       ; 4-1; Flamengo
 ; Sport        ; 5-0; Gremio
-;; America-MG;    0-2 Atletico-MG
+; America-MG;    0-2; Atletico-MG
 ; Sao Paulo    ; 2-7; Portuguesa
 
 Date: 10/28/1998
@@ -320,13 +320,13 @@ Date: 9/24/1998
 
 ; Palmeiras    ; 4-0; Bragantino
 ; Goias        ; 2-0; Botafogo
-;; America-MG;    1-3 Sao Paulo
+; America-MG;    1-3; Sao Paulo
 ; Flamengo     ; 1-3; Internacional
 ; Corinthians  ; 1-2; Cruzeiro
 ; Vasco        ; 1-1; Juventude
 ; Portuguesa   ; 2-0; Sport
 ; Gremio       ; 1-0; Ponte Preta
-;; Atletico-PR;   4-0 Guarani
+; Atletico-PR;   4-0; Guarani
 
 Date: 9/30/1998
 
@@ -345,13 +345,13 @@ Date: 9/26/1998
 Date: 9/27/1998
 
 ; Portuguesa   ; 1-0; Ponte Preta
-;; Atletico-PR;   3-2 Bragantino
+; Atletico-PR;   3-2; Bragantino
 ; Guarani      ; 0-1; Coritiba
-;; Atletico-MG;   3-0 Parana
+; Atletico-MG;   3-0; Parana
 ; Sport        ; 1-1; Cruzeiro
 ; Gremio       ; 2-1; America-MG
 ; Vitoria      ; 2-0; Internacional
-;; America-RN;    2-1 Goias
+; America-RN;    2-1; Goias
 ; Corinthians  ; 0-2; Santos
 ; Botafogo     ; 0-2; Vasco
 
@@ -359,7 +359,7 @@ Date: 9/27/1998
 Date: 9/30/1998
 
 ; Santos       ; 4-0; Ponte Preta
-;; Atletico-PR;   3-1 Botafogo
+; Atletico-PR;   3-1; Botafogo
 ; Juventude    ; 1-0; America-MG
 
 Round: 16 
@@ -369,7 +369,7 @@ Date: 9/30/1998
 
 Date: 10/3/1998
 
-;; America-RN;    1-3 Vasco
+; America-RN;    1-3; Vasco
 ; Vitoria      ; 1-0; Sao Paulo
 ; Juventude    ; 0-0; Guarani
 ; Internacional; 0-1; Atletico-PR  
@@ -388,7 +388,7 @@ Date: 10/7/1998
 ; Botafogo     ; 2-3; Coritiba  
 ; Corinthians  ; 2-2; Goias
 ; Bragantino   ; 1-0; Gremio
-;; Atletico-PR;   4-1 Vitoria
+; Atletico-PR;   4-1; Vitoria
 ; Internacional; 3-1; Cruzeiro
 ; Portuguesa   ; 2-3; Palmeiras
 
@@ -398,20 +398,20 @@ Date: 10/8/1998
 
 Date: 10/28/1998
 
-;; America-RN;    2-2 Santos
+; America-RN;    2-2; Santos
 
 Round: 18
 Date: 10/10/1998
 
 ; Flamengo     ; 4-1; Corinthians
-;; Atletico-MG;   5-5 Botafogo
+; Atletico-MG;   5-5; Botafogo
 ; Palmeiras    ; 1-0; Internacional
 
 Date: 10/11/1998
 
 ; Gremio       ; 1-1; Coritiba
 ; Portuguesa   ; 2-1; Juventude
-;; Atletico-PR;   2-0 America-RN 
+; Atletico-PR;   2-0; America-RN 
 ; Ponte Preta  ; 4-2; Vitoria
 ; Parana       ; 1-2; Cruzeiro
 ; Vasco        ; 3-1; Santos
@@ -425,7 +425,7 @@ Date: 10/14/1998
 *Moved Matches
 Date: 10/14/1998
 
-;; Atletico-MG;   2-0 Internacional
+; Atletico-MG;   2-0; Internacional
 
 Date: 10/15/1998
 
@@ -442,26 +442,26 @@ Date: 10/18/1998
 ; Coritiba     ; 2-1; Sao Paulo
 ; Corinthians  ; 4-2; Atletico-PR
 ; Santos       ; 1-1; Portuguesa
-;; America-MG;    2-0 Bragantino
+; America-MG;    2-0; Bragantino
 ; Guarani      ; 2-0; Parana
 ; Goias        ; 0-1; Ponte Preta
 ; Cruzeiro     ; 0-2; Gremio
-;; America-RN;    1-3 Atletico-MG
+; America-RN;    1-3; Atletico-MG
 ; Juventude    ; 1-0; Sport
 ; Internacional; 1-0; Vasco
 
 Round: 20 
 Date: 10/21/1998
 
-;; America-RN;    2-1 Flamengo
+; America-RN;    2-1; Flamengo
 ; Parana       ; 0-0; Corinthians
-;; Atletico-PR;   1-2 Vasco
+; Atletico-PR;   1-2; Vasco
 ; Botafogo     ; 1-0; Ponte Preta
 ; Palmeiras    ; 1-2; Coritiba
 ; Sao Paulo    ; 1-2; Gremio
 ; Guarani      ; 1-1; Portuguesa
 ; Bragantino   ; 0-4; Cruzeiro
-;; Atletico-MG;   2-1 Goias      
+; Atletico-MG;   2-1; Goias      
 ; Internacional; 1-2; Sport
 
 Round: 21 
@@ -475,7 +475,7 @@ Date: 10/24/1998
 ; Portuguesa   ; 1-1; Internacional
 ; Santos       ; 1-2; Parana
 ; Ponte Preta  ; 2-2; Bragantino
-;; America-MG;    2-1 Atletico-PR
+; America-MG;    2-1; Atletico-PR
 ; Coritiba     ; 1-1; Atletico-MG
 ; Gremio       ; 2-1; America-RN
 ; Goias        ; 2-2; Juventude
@@ -496,9 +496,9 @@ Date: 11/1/1998
 ; Santos       ; 3-1; Goias
 ; Flamengo     ; 2-0; America-MG
 ; Guarani      ; 1-3; Gremio
-;; America-RN;    0-1 Ponte Preta
-;; Atletico-PR;   1-2 Cruzeiro
-;; Atletico-MG;   1-0 Sport
+; America-RN;    0-1; Ponte Preta
+; Atletico-PR;   1-2; Cruzeiro
+; Atletico-MG;   1-0; Sport
 ; Palmeiras    ; 3-2; Parana
 
 Date: 11/4/1998
@@ -511,7 +511,7 @@ Date: 11/12/1998
 ; Goias        ; 2-2; Vasco
 ; Parana       ; 2-1; Flamengo
 ; Botafogo     ; 2-1; Santos
-;; America-MG;    1-1 Palmeiras
+; America-MG;    1-1; Palmeiras
 ; Corinthians  ; 2-1; America-RN
 ; Sao Paulo    ; 2-0; Atletico-PR
 ; Gremio       ; 4-2; Portuguesa

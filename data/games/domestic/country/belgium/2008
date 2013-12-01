@@ -45,7 +45,7 @@ Date: 8/16/2008
 ; Westerlo     ; 1-0; SC Charleroi
   Dekelver 18;
 
-;; Zulte-Waregem; 0-0 Lokeren
+; Zulte-Waregem; 0-0; Lokeren
 
 Date: 8/17/2008
 
@@ -155,7 +155,7 @@ Date: 9/14/2008
 ; SC Charleroi ; 3-2; Cercle Brugge
   Mujangi Bia 10, Kéré 43, Portier (og) 79; De Sutter 14, De Sutter 31
 
-;; Zulte-Waregem; 1-3 Genk
+; Zulte-Waregem; 1-3; Genk
   Matton 33; Nemec 26, Soetaers 54, Pudil 70
 
 Round: 5
@@ -205,7 +205,7 @@ Date: 9/27/2008
 ; SC Charleroi ; 1-2; Kortrijk
   Smolders 89; Bakx 51, Coulibaly 84
 
-;; Zulte-Waregem; 1-0 Tubize
+; Zulte-Waregem; 1-0; Tubize
   Mbuyi-Mutombo 51;
 
 ; Mons         ; 2-0; Roeselare
@@ -290,7 +290,7 @@ Date: 10/19/2008
 ; Club Brugge  ; 3-1; Cercle Brugge
   Geraerts 40, Dirar 74, Alcaraz 80; Iachtchouk 10
 
-;; Zulte-Waregem; 4-0 Anderlecht
+; Zulte-Waregem; 4-0; Anderlecht
   Leye 21, Matton 54, Roelandts 68, Mbuyi-Mutombo 90;
 
 Round: 9
@@ -353,7 +353,7 @@ Date: 11/1/2008
 
 Date: 11/2/2008
 
-;; Zulte-Waregem; 0-2 Gent
+; Zulte-Waregem; 0-2; Gent
 ;  Olufade (pk) 51, Foley 63
 
 ; GBA          ; 1-3; Anderlecht
@@ -410,7 +410,7 @@ Date: 11/15/2008
 ; Dender       ; 1-0; Kortrijk      
   De Pever 72;
 
-;; Zulte-Waregem; 2-2 GBA     
+; Zulte-Waregem; 2-2; GBA     
   Matthys 75, R. Peeters (og) 89; Vandenbergh 29, Vandenbergh 30
       
 ; Genk         ; 1-1; Roeselare     
@@ -472,7 +472,7 @@ Date: 11/29/2008
 ; Genk         ; 3-2; Cercle Brugge 
   Carlos 19, Dugary 44, Toth 55; Iachtchouk 38, De Sutter 64
 
-;; Zulte-Waregem; 4-2 SC Charleroi  
+; Zulte-Waregem; 4-2; SC Charleroi  
   Matthys 14, Matthys 41, Leye (pk) 29, Leye 68; Smolders (pk) 19, Théréau 76
 
 ; Gent         ; 4-0; Roeselare     
@@ -549,8 +549,8 @@ Date: 12/13/2008
 ; Gent         ; 1-1; Kortrijk   
   Ruiz 14; Kouyaté 9
    
-;; Zulte-Waregem; 2-1 Mouscron      
-  Roelandts 35, 63; Custovic 7
+; Zulte-Waregem; 2-1; Mouscron      
+  Roelandts 35, Roelandts 63; Custovic 7
 
 ; Genk         ; 1-0; SC Charleroi  
   Vossen 88;
@@ -600,7 +600,7 @@ Round: 18
 Date: 1/16/2009
 
 ; Anderlecht   ; 1-2; Cercle Brugge
-  Gillet 23, Iachtchouk 1, Iachtchouk 64
+  Gillet 23; Iachtchouk 1, Iachtchouk 64
 
 Date: 1/17/2009
 
@@ -653,7 +653,7 @@ Date: 1/24/2009
 
 Date: 1/25/2009
 
-;; Zulte-Waregem; 3-1 Club Brugge
+; Zulte-Waregem; 3-1; Club Brugge
   Bernier 4, Leye 61, Nfor 81; Alcaraz 76
 
 ; Westerlo     ; 0-1; Standard
@@ -676,7 +676,7 @@ Date: 1/31/2009
 ; Standard     ; 3-0; Roeselare
   Jovanovic 26, Witsel (pk) 40, Benko 90;
 
-;; Zulte-Waregem; 1-1 KV Mechelen
+; Zulte-Waregem; 1-1; KV Mechelen
   Leye (pk) 67; Van Dessel 61
 
 ; Mouscron     ; 0-2; Dender
@@ -739,7 +739,7 @@ Date: 2/14/2009
 ; KV Mechelen  ; 3-3; Gent         
   Vleminckx 9, Vleminckx (pk) 49, Mununga (pk) 54; Custovic 16, Ljubijankic 38, Leye 58
  
-;; Zulte-Waregem; 1-0 Dender        
+; Zulte-Waregem; 1-0; Dender        
   Makiese 68;
 
 ; Mons         ; 1-1; Kortrijk  
@@ -802,7 +802,7 @@ Date: 2/27/2009
 
 Date: 2/28/2009
 
-;; Zulte-Waregem; 1-1 Westerlo   
+; Zulte-Waregem; 1-1; Westerlo   
   Roelandts 22; Odita 28
    
 ; Dender       ; 4-0; Tubize   
@@ -875,7 +875,7 @@ Date: 3/14/2009
 ; Mouscron     ; 1-0; Kortrijk      
   El Araichi (pk) 69;
 
-;; Zulte-Waregem; 0-0 Roeselare     
+; Zulte-Waregem; 0-0; Roeselare     
 
 ; Dender       ; 1-0; Cercle Brugge 
   Sylla 85;
@@ -930,7 +930,7 @@ Date: 3/22/2009
 Round: 28
 Date: 4/4/2009
 
-;; Zulte-Waregem; 3-1 Cercle Brugge 
+; Zulte-Waregem; 3-1; Cercle Brugge 
   Makiese (pk) 52, Matton 70, Berrier 73; Gombami 3
 
 ; Genk         ; 1-4; Westerlo  
@@ -1006,7 +1006,7 @@ Date: 4/18/2009
 ; Lokeren      ; 1-0; GBA
   De Wilde 90;
 
-;; Zulte-Waregem; 5-1 Kortrijk      
+; Zulte-Waregem; 5-1; Kortrijk      
   Berrier 56, Nfor 70, Makiese 77, Makiese 80, Makiese 88; Barbosa (pk) 47
 
 ; KV Mechelen  ; 0-1; Cercle Brugge 
@@ -1019,9 +1019,8 @@ Date: 4/18/2009
   Akpala 34, Sonck 47, Sonck 83; Jarju 15, Gueye 45
      
 ; Mouscron     ; 0-3; Standard     
-;  Onyewu 14, Onyewu 65; Dalmat 48
+;  Onyewu 14, Onyewu 65, Dalmat 48
  
-
 Date: 4/19/2009
 
 ; Westerlo     ; 0-1; Anderlecht    
@@ -1034,7 +1033,7 @@ Round: 31
 Date: 4/24/2009
 
 ; GBA          ; 2-0; Club Brugge   
-  Leko 5, Leko (pk) 88
+  Leko 5, Leko (pk) 88;
 
 Date: 4/25/2009
 
@@ -1086,12 +1085,12 @@ Date: 5/2/2009
 
 ; Dender       ; 0-0; Mons          
 
-;; Zulte-Waregem; 0-0 Standard      
+; Zulte-Waregem; 0-0; Standard      
 
 Date: 5/3/2009
 
 ; Genk         ; 0-1; Kortrijk 
-  Bakx 51
+;  Bakx 51
      
 ; Tubize       ; 1-1; Anderlecht    
   Dufer 82; Wasiliewski 90+3
@@ -1151,7 +1150,7 @@ Date: 5/16/2009
 ; Dender       ; 1-2; SC Charleroi 
   Van den Eede 89; Théréau 38, Habibou 82
 
-;; Zulte-Waregem; 3-0 Mons
+; Zulte-Waregem; 3-0; Mons
   Roelandts 20, Roelandts 72, Nfor 80;
 
 ; Westerlo     ; 1-3; Kortrijk   
@@ -1172,7 +1171,7 @@ Date: 5/16/2009
 * 9.Cercle Brugge KSV             34 14  5 15  48-53  47
 *10.KV Mechelen                   34 12 10 12  46-52  46
 *11.R. Excelsior Mouscron         34 12  8 14  42-49  44
-e*12.R. Charleroi SC               34 12  7 15  43-48  43
+*12.R. Charleroi SC               34 12  7 15  43-48  43
 *13.KFC Germinal Beerschot        34 11  9 14  44-42  42
 *14.KV Kortrijk                   34  9 11 14  37-55  38
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - -

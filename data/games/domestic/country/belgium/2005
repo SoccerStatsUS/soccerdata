@@ -48,12 +48,12 @@ Date: 8/6/2005
   Coelho 8, Janssens 11;
 
 ; Anderlecht  ; 6-0; La Louvière
-  Mpenza 9, Serhat 25, Serhat 67, Zetterberg 44, Goor 61, Mitu 87
+  Mpenza 9, Serhat 25, Serhat 67, Zetterberg 44, Goor 61, Mitu 87;
 
 ; Standard    ; 3-1; Lierse
   Tchité 5, Geraerts 44, Conceiçao 89; Imschoot 24
 
-;; Sint-Truiden; 1-0 Roeselare
+; Sint-Truiden; 1-0; Roeselare
   Stolica 19;
 
 Date: 8/7/2005
@@ -89,7 +89,7 @@ Date: 8/14/2005
 ; Roeselare   ; 1-0; Beveren
   Eloi 40;
 
-;; Zulte-W.;     1-2 Standard
+; Zulte-W.;     1-2; Standard
   Meert 5; Tchité 91, Garbini 93
 
 ; Genk        ; 0-0; Charleroi
@@ -103,7 +103,7 @@ Date: 8/20/2005
 ; Gent        ; 1-0; Cerc. Brugge
   Vrancken 58;
 
-;; Zulte-W.;     0-0 La Louvière
+; Zulte-W.;     0-0; La Louvière
 
 ; Beveren     ; 4-1; Lierse
   Zézéto 12, Diallo 26, Diallo 91, Gervinho 58; Imschoot 19
@@ -128,7 +128,7 @@ Date: 8/21/2005
 Round: 4
 Date: 8/26/2005
 
-;; Sint-Truiden; 1-0 Beveren
+; Sint-Truiden; 1-0; Beveren
   Simaeys 6;
 
 Date: 8/27/2005
@@ -157,7 +157,7 @@ Date: 8/28/2005
   R. Peeters 27, R. Peeters 62, R. Peeters 66, Coquelet 70;
 
 ; Genk        ; 3-3; Anderlecht
-  Vandooren 73, Cornelis 74, Mikulic 83; Mpenza 45, 61, 80
+  Vandooren 73, Cornelis 74, Mikulic 83; Mpenza 45, Mpenza 61, Mpenza 80
 
 Round: 5
 Date: 9/10/2005
@@ -174,7 +174,7 @@ Date: 9/10/2005
 ; Westerlo    ; 3-0; Brussels
   Coelho 8, Coelho 83, Delen 40;
 
-;; Zulte-W.;     2-1 G. Beerschot
+; Zulte-W.;     2-1; G. Beerschot
   Matthys 88, Salou 93; Camara 58
 
 ; Club Brugge ; 2-1; Sint-Truiden
@@ -207,7 +207,7 @@ Date: 9/17/2005
 
 ; Lierse      ; 0-0; Charleroi
 
-;; Sint-Truiden; 1-2 Lokeren
+; Sint-Truiden; 1-2; Lokeren
   Simaeys 81; Bouchouari 75, Jukic 90
 
 ; Cerc. Brugge; 0-3; Standard
@@ -239,7 +239,7 @@ Date: 9/20/2005
 
 Date: 9/21/2005
 
-;; Zulte-W.;     4-1 Mouscron
+; Zulte-W.;     4-1; Mouscron
   Dupré (pk) 14, Meert 42, Sergeant 52, Matthys 80; Siljak 88
 
 ; Westerlo    ; 0-0; Lierse
@@ -251,7 +251,7 @@ Date: 9/21/2005
   Stojkov 52, Pinelli 61; Stojanovic 16, B.Peeters 64, Vandenbergh (pk) 68
 
 ; Cerc. Brugge; 3-0; G. Beerschot
-  Pivaljevic 28, De Smet 44, Pivaljevic 70
+  Pivaljevic 28, De Smet 44, Pivaljevic 70;
 
 ; Lokeren     ; 1-2; Beveren
   Jukic 89; Sanogo 37, Dissa 90
@@ -262,7 +262,7 @@ Date: 9/21/2005
 Round: 8
 Date: 9/24/2005
 
-;; Sint-Truiden; 0-1 Westerlo
+; Sint-Truiden; 0-1; Westerlo
 ;  Delen 10
 
 ; Beveren     ; 1-1; Charleroi
@@ -298,7 +298,7 @@ Date: 9/30/2005
 
 Date: 10/1/2005
 
-;; Zulte-W.;     2-1 Roeselare
+; Zulte-W.;     2-1; Roeselare
   Dupré 53, Matthys 87; R.Peeters 71
 
 ; Westerlo    ; 4-1; Beveren
@@ -314,7 +314,7 @@ Date: 10/1/2005
   Vrancken 51; Jakovenko 83
 
 ; La Louvière ; 0-3; Brussels
-  Culek 8, De Camargo 47, De Camargo 48
+;  Culek 8, De Camargo 47, De Camargo 48
 
 Date: 10/2/2005
 
@@ -350,7 +350,7 @@ Date: 10/15/2005
 
 Date: 10/16/2005
 
-;; Sint-Truiden; 1-1 Gent
+; Sint-Truiden; 1-1; Gent
   Mbonabucya 61; Vrancken 74
 
 ; Genk        ; 0-1; Standard
@@ -383,7 +383,7 @@ Date: 10/22/2005
 ; Cerc. Brugge; 2-2; Roeselare
   Pinas 11, Milosevic 39; Annys 7, Dufoor 38
 
-;; Zulte-W.;     1-5 Sint-Truiden
+; Zulte-W.;     1-5; Sint-Truiden
   Salou 69; Stolica 28, Stolica 59, Stolica 60, Hajnal 40, Mbonabucya 73
 
 Date: 10/23/2005
@@ -405,7 +405,7 @@ Date: 10/29/2005
 ; Lierse      ; 0-4; Cerc. Brugge
 ;  Pinas 15, Pinas 32, De Smet 17, Dekelver 36
 
-;; Sint-Truiden; 1-3 La Louvière
+; Sint-Truiden; 1-3; La Louvière
   Mbonabucya 86; Stojkov 24, Brahami 61, Potier 65
 
 ; Club Brugge ; 2-1; Gent
@@ -453,7 +453,7 @@ Date: 11/5/2005
 
 Date: 11/6/2005
 
-;; Zulte-W.;     2-1 Club Brugge
+; Zulte-W.;     2-1; Club Brugge
   Salou 30, Dupré 80; Lange 72
 
 ; Standard    ; 1-0; Westerlo
@@ -465,7 +465,7 @@ Date: 11/19/2005
 ; Charleroi   ; 2-0; Gent
   Defays 28, Sterchele 85;
 
-;; Sint-Truiden; 1-2 G. Beerschot
+; Sint-Truiden; 1-2; G. Beerschot
   Stolica 81; De Roeck 30, Dosunmu 56
 
 ; Beveren     ; 5-1; Cerc. Brugge
@@ -505,7 +505,7 @@ Date: 12/14/2005
 ; Standard    ; 2-0; Anderlecht
   Moreira 14, Juhasz (og) 59;
 
-;; Zulte-W.;     3-0 Charleroi
+; Zulte-W.;     3-0; Charleroi
   Sergeant 29, D'Haemers 45, D'Haemers 78;
 
 ; Gent        ; 0-1; Westerlo
@@ -537,7 +537,7 @@ Date: 12/3/2005
 ; Lierse      ; 1-1; Brussels
   Tohoua 3; Espartero 66
 
-;; Sint-Truiden; 3-6 Mouscron
+; Sint-Truiden; 3-6; Mouscron
   Van Gyseghem (og) 7, Stolica 54, Hajnal 75; Tailson 4, Custovic 18, Custovic 55, Noukeu 47, Oussalah 63
 
 ; Club Brugge ; 2-0; G. Beerschot
@@ -564,11 +564,11 @@ Date: 12/9/2005
 
 Date: 12/10/2005
 
-;; Zulte-W.;     1-2 Anderlecht
+; Zulte-W.;     1-2; Anderlecht
   Sergeant 20; Kompany 30, Wilhelmsson 86
 
 ; Brussels    ; 0-0; Sint-Truiden
- Beslija 56, Chatelle 93
+* Beslija 56, Chatelle 93
 * wrong game?
 
 ; Mouscron    ; 1-3; Beveren
@@ -614,7 +614,7 @@ Date: 12/17/2005
 
 Date: 12/18/2005
 
-;; Zulte-W.;     1-2 Gent
+; Zulte-W.;     1-2; Gent
   Matthys 51; Zoko 15, Grégoire 70
 
 ; La Louvière ; 0-0; Anderlecht
@@ -633,7 +633,7 @@ Date: 1/21/2006
 ; Standard    ; 1-2; Zulte-W.
   Niculae 74; D'Haemers 50, Sergeant 75
 
-;; Sint-Truiden; 1-1 Lierse
+; Sint-Truiden; 1-1; Lierse
   Mbonabucya 21; Nunes 86
 
 ; Gent        ; 3-0; La Louvière
@@ -646,7 +646,7 @@ Date: 1/21/2006
   Janssens (pk) 78; De Roeck 69, Dosunmu 72, Dosunmu 85
 
 ; Lokeren     ; 1-1; Mouscron
-  Bancé 81, Sanchez 18
+  Bancé 81; Sanchez 18
 
 ; Beveren     ; 1-1; Roeselare
   Gervinho 9; Eloi 3
@@ -664,7 +664,7 @@ Date: 1/27/2006
 
 Date: 1/28/2006
 
-;; Sint-Truiden; 0-0 Standard
+; Sint-Truiden; 0-0; Standard
 
 ; Cerc. Brugge; 1-2; Gent
   Dekelver 88; Vrancken 35, Zoko 73
@@ -693,7 +693,7 @@ Round: 21
 Date: 2/3/2006
 
 ; Club Brugge ; 3-1; Lierse
-  Leko 21; Clement 87, Clement 90; Clement (og) 93
+  Leko 21, Clement 87, Clement 90; Clement (og) 93
 
 Date: 2/4/2006
 
@@ -715,7 +715,7 @@ Date: 2/4/2006
 ; Westerlo    ; 0-5; Mouscron
 ;  Filekovic 32, Siljak 48, Siljak (pk) 63, Custovic 55, Custovic 89
 
-;; Zulte-W.;     3-1 Cerc. Brugge
+; Zulte-W.;     3-1; Cerc. Brugge
   Sergeant 55, Salou 71, Salou 89; Dekelver 59
 
 Date: 2/22/2006
@@ -726,7 +726,7 @@ Date: 2/22/2006
 Round: 22
 Date: 2/11/2006
 
-;; Sint-Truiden; 2-2 Club Brugge
+; Sint-Truiden; 2-2; Club Brugge
   Buvens 58, R.Peeters 72; Clement 6, Dufer 89
 
 ; Lierse      ; 2-0; Lokeren
@@ -768,7 +768,7 @@ Date: 2/17/2006
 
 Date: 2/18/2006
 
-;; Zulte-W.;     1-0 Genk
+; Zulte-W.;     1-0; Genk
   Sergeant 29;
 
 ; Charleroi   ; 0-1; Lierse
@@ -807,7 +807,7 @@ Date: 2/25/2006
 *G. Beerschot awd Cerc. Brugge       
 *[awarded 5-0; originally 0-0, Cercle fielded Brian Pinas who did not appear on the match form; Cercle have appealed]
 
-;; Sint-Truiden; 1-1 Charleroi           
+; Sint-Truiden; 1-1; Charleroi           
   Hajnal (pk) 79; Sterchele 66
        
 ; Lierse      ; 2-1; Westerlo
@@ -844,7 +844,7 @@ Date: 3/4/2006
 ; Gent        ; 1-2; Roeselare
   Boussoufa 14; Smits 13, Malki 80
 
-;; Zulte-W.;     0-0 Brussels
+; Zulte-W.;     0-0; Brussels
 
 ; La Louvière ; 0-0; Mouscron
 
@@ -862,7 +862,7 @@ Date: 3/5/2006
 Round: 26
 Date: 3/10/2006
 
-;; Sint-Truiden; 3-0 Anderlecht
+; Sint-Truiden; 3-0; Anderlecht
   Mbonabucya 65, Mbonabucya 80, Hajnal 87;
 
 Date: 3/11/2006
@@ -897,7 +897,7 @@ Date: 3/17/2006
 ; Standard    ; 1-0; Genk
   Niculae 30;
 
-;; Zulte-W.;     0-1 Lierse
+; Zulte-W.;     0-1; Lierse
 ;  Imschoot 6
 
 
@@ -939,7 +939,7 @@ Date: 3/25/2006
 
 ; Lierse      ; 0-0; La Louvière
 
-;; Sint-Truiden; 2-0 Zulte-W.
+; Sint-Truiden; 2-0; Zulte-W.
   Mbonabucya 15, R.Peeters 49;
 
 ; Lokeren     ; 3-2; Westerlo
@@ -968,7 +968,7 @@ Date: 4/1/2006
 ; Gent        ; 4-1; Club Brugge
   Boussoufa 18, Boussoufa 67, Boussoufa 83, De Beule 51; Portillo 77
 
-;; Zulte-W.;     2-2 Beveren
+; Zulte-W.;     2-2; Beveren
   Salou 77, Thiebaut 84; Diallo 50, Fontenette 68
 
 ; Standard    ; 2-1; Mouscron
@@ -1011,7 +1011,7 @@ Date: 4/8/2006
 ; Beveren     ; 1-0; La Louvière
   Gervinho 60;
 
-;; Sint-Truiden; 1-1 Cerc. Brugge
+; Sint-Truiden; 1-1; Cerc. Brugge
   Nijs 12; Pinas 69
 
 ; Brussels    ; 0-1; Mouscron
@@ -1053,7 +1053,7 @@ Date: 4/16/2006
 ; La Louvière ; 0-1; Club Brugge
 ;  Balaban 42
 
-;; Zulte-W.;     1-1 Lokeren
+; Zulte-W.;     1-1; Lokeren
   Dindeleux 83; Bancé 28
 
 ; Standard    ; 1-0; Brussels
@@ -1075,7 +1075,7 @@ Date: 4/22/2006
 
 ; Beveren     ; 0-0; G. Beerschot
 
-;; Sint-Truiden; 2-2 Genk
+; Sint-Truiden; 2-2; Genk
   Debroux 4, Simaeys 81; Vandenbergh 24, Soley 63
 
 ; Lierse      ; 2-0; Mouscron
@@ -1112,8 +1112,9 @@ Date: 4/30/2006
 ; Cerc. Brugge; 2-0; Lokeren
   Pivaljevic 54, Pinas 90;
 
-;; Zulte-W.;     1-2 Westerlo
-  Balaban 62, Verheyen 89
+; Zulte-W.;     1-2; Westerlo
+*  Balaban 62, Verheyen 89
+* wrong game?
 
 ; La Louvière ; 2-2; Charleroi
   Stojkov 14, Stojkov 26; Oulmers 61, Dante 85
@@ -1145,7 +1146,7 @@ Date: 5/5/2006
 ; Beveren     ; 1-0; Mouscron
   Diallo 88;
 
-;; Sint-Truiden; 0-1 Brussels
+; Sint-Truiden; 0-1; Brussels
 ;  Culek (pk) 32
 
 ; Lierse      ; 1-0; Roeselare

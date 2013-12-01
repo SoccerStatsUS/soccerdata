@@ -2,7 +2,7 @@ Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1996.htm
 Season: 1996
 
-First Phase:
+*First Phase:
 
 * 1.Cruzeiro              23 13  5  5  31-17  44  Qualified
 * 2.Guarani               23 13  4  6  23-14  43  Qualified
@@ -36,54 +36,58 @@ Round: 1
 ; Bahia         ; 0-0; Palmeiras
 ; Fluminense    ; 1-0; Bragantino
 ; Atletico MG   ; 1-0; Corinthians
-; Sport         ; 0-1; Parana          [Aug 11]
-; Goias         ; 3-1; Atletico PR     [Aug 11]
-; Coritiba      ; 2-0; Juventude       [Aug 11]
+8/11/1996; Sport         ; 0-1; Parana       
+8/11/1996; Goias         ; 3-1; Atletico PR  
+8/11/1996; Coritiba      ; 2-0; Juventude    
 ; Criciuma      ; 1-1; Vitoria
-; Santos        ; 2-0; Portuguesa      [Sep 18]
-; Botafogo      ; 1-0; Gremio          [Sep 25]
-; Guarani       ; 1-0; Cruzeiro        [Sep 26]
-; Internacional ; 4-1; Vasco da Gama   [Oct 2]
-; Sao Paulo     ; 4-1; Flamengo        [Oct 2]
+9/18/1996; Santos        ; 2-0; Portuguesa   
+9/25/1996; Botafogo      ; 1-0; Gremio       
+9/26/1996; Guarani       ; 1-0; Cruzeiro     
+10/2/1996; Internacional ; 4-1; Vasco da Gama
+10/2/1996; Sao Paulo     ; 4-1; Flamengo     
 
 Round: 2
 
 ; Vasco da Gama ; 1-2; Sport
 ; Palmeiras     ; 0-0; Internacional
 ; Juventude     ; 1-0; Bahia
-; Vitoria       ; 1-0; Coritiba        [Aug 14]
-; Parana        ; 0-0; Goias           [Aug 14]
+8/14/1996; Vitoria       ; 1-0; Coritiba     
+8/14/1996; Parana        ; 0-0; Goias        
 ; Corinthians   ; 0-0; Criciuma
-; Cruzeiro      ; 2-0; Fluminense      [Sep 11]
-; Bragantino    ; 0-0; Guarani         [Sep 18]
+9/11/1996; Cruzeiro      ; 2-0; Fluminense   
+9/18/1996; Bragantino    ; 0-0; Guarani      
 ; Sao Paulo     ; 2-1; Portuguesa
 ; Flamengo      ; 2-1; Atletico MG
-; Atletico PR   ; 1-0; Botafogo        [Oct 2]
-; Gremio        ; 3-0; Santos          [Nov 12]
+10/2/1996; Atletico PR   ; 1-0; Botafogo     
+11/12/1996; Gremio        ; 3-0; Santos      
 
-Round: 3 [Aug 17,18]
+Round: 3 
+*[Aug 17,18]
+Date: 8/17/1996
 
 ; Guarani       ; 1-1; Santos
 ; Vitoria       ; 0-1; Flamengo
-; Palmeiras     ; 5-0; Coritiba        [Aug 17]
+8/17/1996; Palmeiras     ; 5-0; Coritiba        [Aug 17]
 ; Fluminense    ; 1-1; Botafogo
 ; Goias         ; 1-2; Vasco da Gama
 ; Corinthians   ; 0-2; Portuguesa
 ; Sao Paulo     ; 5-2; Bahia
-; Atletico PR   ; 3-1; Bragantino      [Aug 18]
-; Atletico MG   ; 3-1; Parana          [Aug 18]
+8/18/1996; Atletico PR   ; 3-1; Bragantino      [Aug 18]
+8/18/1996; Atletico MG   ; 3-1; Parana          [Aug 18]
 ; Internacional ; 0-0; Cruzeiro
 ; Criciuma      ; 1-3; Gremio
 ; Juventude     ; 1-1; Sport
 
-Round: 4 [Aug 20,21,22]
+Round: 4 
+*[Aug 20,21,22]
+Date: 8/20/1996
 
 ; Flamengo      ; 0-1; Juventude
-; Portuguesa    ; 2-0; Parana          [Aug 21]
+8/21/1996; Portuguesa    ; 2-0; Parana          [Aug 21]
 ; Corinthians   ; 1-0; Guarani
 ; Gremio        ; 6-1; Bragantino
-; Bahia         ; 2-0; Atletico PR     [Aug 21]
-; Coritiba      ; 1-0; Atletico MG     [Aug 21]
+8/21/1996; Bahia         ; 2-0; Atletico PR     [Aug 21]
+8/21/1996; Coritiba      ; 1-0; Atletico MG     [Aug 21]
 ; Cruzeiro      ; 2-1; Vitoria
 ; Goias         ; 3-1; Sport
 ; Palmeiras     ; 3-1; Vasco da Gama
@@ -91,77 +95,88 @@ Round: 4 [Aug 20,21,22]
 ; Santos        ; 1-0; Fluminense
 ; Internacional ; 3-1; Criciuma
 
-Round: 5 [Aug 24,25,27]
+Round: 5 
+*[Aug 24,25,27]
+Date: 8/24/1996
 
 ; Goias         ; 0-0; Palmeiras
 ; Bragantino    ; 1-2; Vasco da Gama
 ; Cruzeiro      ; 2-1; Flamengo
 ; Criciuma      ; 4-1; Fluminense
-   [Mabília (2), ? (2) ; ?]
+*   [Mabília (2), ? (2) ; ?]
+
 ; Bahia         ; 1-2; Botafogo
-; Atletico PR   ; 0-1; Corinthians     [Aug 25]
+8/24/1996; Atletico PR   ; 0-1; Corinthians     [Aug 25]
 ; Sao Paulo     ; 2-1; Santos
 ; Portuguesa    ; 3-1; Atletico MG
-; Parana        ; 3-0; Guarani         [Aug 25]
-; Sport         ; 3-0; Coritiba        [Aug 25]
+8/25/1996; Parana        ; 3-0; Guarani         [Aug 25]
+8/25/1996; Sport         ; 3-0; Coritiba        [Aug 25]
 ; Gremio        ; 2-2; Vitoria
 ; Juventude     ; 2-1; Internacional
 
-Round: 6 [Aug 28,29]
+Round: 6 
+*[Aug 28,29]
+Date: 8/28/1996
 
 ; Flamengo      ; 0-1; Guarani
-; Palmeiras     ; 4-1; Parana          [Aug 28]
+8/28/1996; Palmeiras     ; 4-1; Parana          [Aug 28]
 ; Fluminense    ; 1-1; Sao Paulo
 ; Vasco da Gama ; 2-1; Portuguesa
-; Atletico PR   ; 0-0; Cruzeiro        [Aug 28]
-; Coritiba      ; 4-1; Bahia           [Aug 29]
+8/28/1996; Atletico PR   ; 0-0; Cruzeiro        [Aug 28]
+8/29/1996; Coritiba      ; 4-1; Bahia           [Aug 29]
 ; Corinthians   ; 2-2; Gremio
 ; Atletico MG   ; 2-0; Internacional
 ; Botafogo      ; 0-2; Santos
-; Vitoria       ; 2-1; Goias           [Sep 26]
-; Juventude     ; 2-3; Criciuma        [Oct 16]
-; Bragantino    ; 3-1; Sport           [Oct 25]
+9/26/1996; Vitoria       ; 2-1; Goias           [Sep 26]
+10/16/1996; Juventude     ; 2-3; Criciuma        [Oct 16]
+10/25/1996; Bragantino    ; 3-1; Sport           [Oct 25]
 
-Round: 7 [Aug 30,31; Sep 1]
+Round: 7 
+Date: 8/30/1996
+*[Aug 30,31; Sep 1]
 
 ; Guarani       ; 3-1; Fluminense
-; Parana        ; 0-1; Corinthians     [Aug 31]
+8/31/1996; Parana        ; 0-1; Corinthians     [Aug 31]
 ; Sao Paulo     ; 1-0; Goias
-; Flamengo      ; 1-0; Atletico PR     [Aug 31]
+8/31/1996; Flamengo      ; 1-0; Atletico PR     [Aug 31]
 ; Sport         ; 1-0; Criciuma
 ; Vasco da Gama ; 1-1; Gremio
 ; Vitoria       ; 2-1; Atletico MG
 ; Botafogo      ; 0-0; Palmeiras
-; Coritiba      ; 1-3; Santos          [Sep 01]
+9/1/1996; Coritiba      ; 1-3; Santos          [Sep 01]
 ; Portuguesa    ; 2-0; Bragantino
 ; Cruzeiro      ; 2-1; Juventude
 ; Internacional ; 1-1; Bahia
 
-Round: 8 [Sep 4,5]
+Round: 8 
+*[Sep 4,5]
+Date: 9/4/1996
 
 ; Atletico MG   ; 2-1; Goias
-; Atletico PR   ; 3-1; Gremio          [Sep 04]
+9/4/1996; Atletico PR   ; 3-1; Gremio          [Sep 04]
 ; Bahia         ; 2-1; Criciuma
-; Botafogo      ; 4-1; Coritiba        [Sep 04]
+9/4/1996; Botafogo      ; 4-1; Coritiba        [Sep 04]
 ; Bragantino    ; 0-1; Flamengo       
 ; Internacional ; 3-0; Sport 
 ; Portuguesa    ; 2-2; Vitoria        
 ; Santos        ; 1-1; Juventude      
 ; Sao Paulo     ; 0-1; Guarani        
-; Parana        ; 1-2; Vasco da Gama   [Sep 05]
+9/5/1996; Parana        ; 1-2; Vasco da Gama   [Sep 05]
 ; Corinthians   ; 2-1; Cruzeiro
 ; Fluminense    ; 1-5; Palmeiras
 
-Round: 9 [Sep 7,8]
+Round: 9 
+*[Sep 7,8]
+Date: 9/7/1996
 
 ; Sport         ; 3-0; Botafogo
-; Coritiba      ; 1-1; Sao Paulo       [Sep 07]
+9/7/1996; Coritiba      ; 1-1; Sao Paulo       [Sep 07]
 ; Santos        ; 1-2; Palmeiras
 ; Juventude     ; 0-1; Guarani
 ; Flamengo      ; 1-1; Corinthians
-; Atletico PR   ; 2-1; Vasco da Gama   [Sep 08]
+9/8/1996; Atletico PR   ; 2-1; Vasco da Gama   [Sep 08]
 ; Fluminense    ; 2-1; Internacional
-; Vitoria       ; 4-0; Parana          [Sep 08]
+9/8/1996; Vitoria       ; 4-0; Parana          [Sep 08]
 ; Criciuma      ; 0-0; Bragantino
 ; Goias         ; 0-0; Bahia
 ; Cruzeiro      ; 4-1; Portuguesa
@@ -260,84 +275,100 @@ Round: 15 [Oct 12,13]
 ; Vasco da Gama ; 0-1; Cruzeiro
 ; Vitoria       ; 1-1; Bahia
 
-Round: 16 [Oct 19,20]
+Round: 16 
+Date: 10/19/1996
+*[Oct 19,20]
 
 ; Santos        ; 1-2; Flamengo
 ; Fluminense    ; 3-2; Vasco da Gama
 ; Botafogo      ; 2-3; Goias
 ; Palmeiras     ; 4-2; Vitoria
-; Criciuma      ; 2-3; Portuguesa      [Oct 16]
-  [Mabília, ? ; ? (3)]
+10/16/1996; Criciuma      ; 2-3; Portuguesa    
+*  [Mabília, ? ; ? (3)]
+
 ; Cruzeiro      ; 4-0; Bragantino
 ; Internacional ; 0-0; Guarani
-; Coritiba      ; 1-0; Parana          [Oct 20]
-; Juventude     ; 0-2; Atletico PR     [Oct 20]
+10/20/1996; Coritiba      ; 1-0; Parana        
+10/20/1996; Juventude     ; 0-2; Atletico PR   
 ; Sport         ; 0-0; Atletico MG
 ; Bahia         ; 1-2; Gremio
 ; Sao Paulo     ; 0-0; Corinthians
 
-Round: 17 [Oct 26,27]
+Round: 17 
+*[Oct 26,27]
+Date: 10/26/1996
 
 ; Vitoria       ; 2-0; Sao Paulo
 ; Portuguesa    ; 2-0; Fluminense
-; Vasco da Gama ; 2-3; Coritiba        [Oct 26]
+10/26/1996; Vasco da Gama ; 2-3; Coritiba      
 ; Corinthians   ; 0-0; Santos
 ; Bragantino    ; 3-1; Juventude
 ; Guarani       ; 1-0; Bahia
-; Parana        ; 2-0; Criciuma        [Oct 27]
-; Atletico PR   ; 6-2; Sport           [Oct 26]
+10/27/1996; Parana        ; 2-0; Criciuma      
+10/26/1996; Atletico PR   ; 6-2; Sport         
 ; Atletico MG   ; 4-3; Botafogo
 ; Goias         ; 1-0; Cruzeiro
 ; Flamengo      ; 1-2; Internacional
 ; Gremio        ; 1-1; Palmeiras
 
-Round: 18 [Nov 2,3]
+Round: 18 
+*[Nov 2,3]
+Date: 11/2/1996
 
 ; Juventude     ; 0-2; Corinthians
 ; Sao Paulo     ; 5-3; Criciuma
 ; Palmeiras     ; 1-0; Flamengo
-; Fluminense    ; 0-2; Parana          [Nov 03]
+11/3/1996; Fluminense    ; 0-2; Parana         
 ; Sport         ; 3-2; Vitoria
-; Internacional ; 0-2; Atletico PR     [Nov 03]
+11/3/1996; Internacional ; 0-2; Atletico PR    
 ; Bahia         ; 1-3; Portuguesa
 ; Santos        ; 2-2; Bragantino
 ; Guarani       ; 0-2; Gremio
 ; Botafogo      ; 1-2; Vasco da Gama
 ; Cruzeiro      ; 2-1; Atletico MG
-; Coritiba      ; 0-1; Goias           [Nov 03]
+11/3/1996; Coritiba      ; 0-1; Goias          
 
-Round: 19 [Nov 6,7]
+Round: 19 
+*[Nov 6,7]
+Date: 11/6/1996
 
-; Vitoria       ; 2-1; Internacional   [Oct 30]
+10/30/1996; Vitoria       ; 2-1; Internacional 
 ; Flamengo      ; 2-1; Sport
 ; Gremio        ; 4-2; Fluminense
-; Parana        ; 1-1; Botafogo        [Nov 06]
+11/6/1996; Parana        ; 1-1; Botafogo       
 ; Portuguesa    ; 1-0; Palmeiras
 ; Juventude     ; 2-2; Sao Paulo
 ; Bragantino    ; 2-2; Atletico MG
 ; Criciuma      ; 3-0; Goias
-; Atletico PR   ; 0-0; Guarani         [Nov 06]
+11/6/1996; Atletico PR   ; 0-0; Guarani        
 ; Vasco da Gama ; 1-2; Santos
-; Cruzeiro      ; 0-0; Coritiba        [Nov 14]
-; Corinthians   ; 0-0; Bahia           [Nov 13]
+11/14/1996; Cruzeiro      ; 0-0; Coritiba      
+11/13/1996; Corinthians   ; 0-0; Bahia         
 
-Round: 20 [Nov 9,10]
+Round: 20 
+*[Nov 9,10]
+Date: 11/9/1996
 
-; Coritiba      ; 0-0; Flamengo        [Nov 09]
+11/9/1996; Coritiba      ; 0-0; Flamengo       
 ; Criciuma      ; 2-1; Palmeiras
 ; Sao Paulo     ; 2-1; Gremio
 ; Botafogo      ; 0-0; Cruzeiro
-; Atletico MG   ; 5-1; Vasco da Gama   [Oct 10]
+10/10/1996; Atletico MG   ; 5-1; Vasco da Gama 
 ; Sport         ; 0-0; Corinthians
-; Fluminense    ; 2-3; Atletico PR     [Nov 10] [following the disturbances after
-; Guarani       ; 0-1; Portuguesa                the match, Fluminense have been
-; Santos        ; 1-0; Vitoria                   condemned to play its next 5 home
-; Bahia         ; 4-2; Bragantino      [Nov 10]  matches in other stadiums]
-  [Lima (3), ? ; ? (2)]
-; Internacional ; 2-1; Parana          [Nov 10]
+11/10/1996; Fluminense    ; 2-3; Atletico PR  
+Notes: following the disturbances after the match, Fluminense have been condemned to play its next 5 home matches in other stadiums
+
+; Guarani       ; 0-1; Portuguesa                
+; Santos        ; 1-0; Vitoria                   
+11/10/1996; Bahia         ; 4-2; Bragantino   
+*  [Lima (3), ? ; ? (2)]
+
+11/10/1996; Internacional ; 2-1; Parana       
 ; Goias         ; 4-1; Juventude
 
-Round: 21 [Nov 16,17]
+Round: 21 
+*[Nov 16,17]
+Date: 11/16/1996
 
 ; Juventude     ; 3-5; Botafogo
 ; Bragantino    ; 3-4; Sao Paulo
@@ -346,13 +377,14 @@ Round: 21 [Nov 16,17]
 ; Vasco da Gama ; 4-2; Criciuma
 ; Palmeiras     ; 2-0; Atletico MG
 ; Portuguesa    ; 1-2; Internacional
-; Santos        ; 3-2; Atletico PR     [Nov 17]
+11/17/1996; Santos        ; 3-2; Atletico PR  
 ; Vitoria       ; 0-1; Guarani
-; Parana        ; 2-1; Bahia           [Nov 17]
-; Gremio        ; 0-2; Coritiba        [Nov 17]
+11/17/1996; Parana        ; 2-1; Bahia        
+11/17/1996; Gremio        ; 0-2; Coritiba     
 ; Cruzeiro      ; 3-1; Sport 
 
-Round: 22 [Nov 20]
+Round: 22 
+Date: 11/20/1996
 
 ; Criciuma      ; 2-0; Flamengo
 ; Fluminense    ; 1-0; Juventude
@@ -367,7 +399,8 @@ Round: 22 [Nov 20]
 ; Atletico MG   ; 3-2; Atletico PR
 ; Sport         ; 1-0; Gremio
 
-Round: 23 [Nov 24]
+Round: 23 
+Date: 11/24/1996
 
 ; Flamengo      ; 0-1; Bahia
 ; Vitoria       ; 1-3; Fluminense

@@ -82,7 +82,7 @@ Date: 4/18/2005
 Round: 3
 Date: 4/24/2005
 
-;; Ham-Kam;      2-1 Aalesund 
+; Ham-Kam;      2-1; Aalesund 
   Jan Michalsen 3, Oluwasegun Abiodun 80; Thor Hogne Aarøy 83
   
 ; Lyn         ; 1-1; Start  
@@ -140,7 +140,7 @@ Date: 5/5/2005
  Stian Ohr 4, Rob Friend 80; Ole Martin Årst 22
    
 ; Rosenborg   ; 3-0; Start     
-  Roar Strand 36, Thorstein Helstad (pk) 47, Thorstein Helstad 78
+  Roar Strand 36, Thorstein Helstad (pk) 47, Thorstein Helstad 78;
      
 ; Viking      ; 0-0; Lyn     
 
@@ -150,7 +150,7 @@ Date: 5/5/2005
 ; Odd Grenland; 0-2; Lillestrøm     
 ;  Arild Sundgot 18, Magnus Myklebust 80
    
-;; Ham-Kam;      1-1 Fredrikstad     
+; Ham-Kam;      1-1; Fredrikstad     
   Espen Olsen 8; Martin Wiig 64
     
 Round: 6
@@ -187,7 +187,7 @@ Date: 5/16/2005
   Toni Kallio 1, John Andreas Husøy 55; Abdoulaye M'Baye 80, Morten Moldskred 88
     
 ; Tromsø      ; 2-2; Bodø/Glimt     
-  Ole Martin Årst 5, 52; Håvard Halvorsen 50, Runar Berg 57
+  Ole Martin Årst 5, Ole Martin Arst 52; Håvard Halvorsen 50, Runar Berg 57
    
 ; Rosenborg   ; 0-2; Viking     
 ;  Egil Østenstad 44, Peter Kopteff 84
@@ -200,7 +200,7 @@ Date: 5/16/2005
 ; Odd Grenland; 0-2; Lyn     
 ;  Jan Derek Sørensen 45, Jo Tessem 75
     
-;; Ham-Kam;      0-2 Start     
+; Ham-Kam;      0-2; Start     
 ;  Alex Valencia 56, Stefan Bärlin 86
   
 
@@ -244,12 +244,12 @@ Date: 5/29/2005
   Paul Scharner 36, Raymond Kvisvik 56, Bengt Sæternes 63;
      
 ; Odd Grenland; 0-5; Rosenborg     
-  Frode Johnsen 5, Øyvind Storflor 24, Thorstein Helstad 59, Thorstein Helstad 67, Harald Martin Brattbakk (pk) 90
+;  Frode Johnsen 5, Øyvind Storflor 24, Thorstein Helstad 59, Thorstein Helstad 67, Harald Martin Brattbakk (pk) 90
     
 ; Aalesund    ; 1-0; Fredrikstad     
   Paulo Dos Santos 67;
   
-;; Ham-Kam;      0-0 Viking    
+; Ham-Kam;      0-0; Viking    
 
 Date: 5/30/2005
 
@@ -290,7 +290,7 @@ Date: 6/18/2005
      
 Date: 6/19/2005
 
-;; Ham-Kam;      2-1 Odd Grenland
+; Ham-Kam;      2-1; Odd Grenland
   Jarl André Storbæk 14, Petter Vaagan Moen 83; Fernando de Ornelas 32
 
 ; Molde       ; 2-1; Fredrikstad 
@@ -320,7 +320,7 @@ Date: 6/26/2005
  
 ; Odd Grenland; 0-0; Brann     
 
-;; Ham-Kam;      4-1 Molde 
+; Ham-Kam;      4-1; Molde 
   Jan Michaelsen 17, Jan Michaelsen (pk) 43, Kenneth Dokken 75, Espen Olsen 77; Rob Friend 63
 
 Date: 6/27/2005
@@ -413,7 +413,7 @@ Date: 7/31/2005
 ; Odd Grenland; 2-1; Aalesund     
   Olivier Occean 49, Patrick Suffo 72; Lasse Olsen 34
 
-;; Ham-Kam;      3-2 Tromsø        
+; Ham-Kam;      3-2; Tromsø        
   Petter Vaagan Moen 6, Espen Olsen 15, Markus Ringberg 50; Ole Martin Årst 79, Ole Martin Arst 87
 
 Round: 16
@@ -462,7 +462,7 @@ Date: 8/7/2005
 ; Odd Grenland; 2-1; Fredrikstad
   Morten Fevang 44, Fernando de Ornelas 83; Brian West 37
      
-;; Ham-Kam;      2-0 Bodø/Glimt
+; Ham-Kam;      2-0; Bodø/Glimt
   Markus Ringberg 37, Espen Olsen 78;
 
 Date: 8/8/2005
@@ -514,7 +514,7 @@ Date: 8/28/2005
 ; Odd Grenland; 2-0; Start
   Fernando de Ornelas 55, Olivier Occean 89;
      
-;; Ham-Kam;      2-3 Lillestrøm
+; Ham-Kam;      2-3; Lillestrøm
   Markus Ringberg 16, Espen Haug 63; Robert Koren 22, Arild Sundgot 57, Magnus Myklebust 83
 
 Date: 8/29/2005
@@ -546,7 +546,7 @@ Date: 9/11/2005
 Date: 9/13/2005
 
 ; Fredrikstad ; 0-4; Vålerenga
-;  Ardian Gashi 54, Ardian Gashi 56, Daniel Fredheim Holm 60, 77
+;  Ardian Gashi 54, Ardian Gashi 56, Daniel Fredheim Holm 60, Daniel Fredheim Holm 77
      
 ; Aalesund    ; 1-4; Molde
   Thor Hogne Aarøy 69; Tommy Eide Møster 37, Trond Strande 49, Stian Ohr 76, Madiou Konate 90
@@ -562,14 +562,14 @@ Date: 9/18/2005
 ; Aalesund    ; 1-1; Bodø/Glimt 
   Bechara Oliveira 81; Trond Olsen 18
      
-;; Ham-Kam;      1-0 Lyn    
+; Ham-Kam;      1-0; Lyn    
   Espen Haug 45;
   
 ; Odd Grenland; 1-0; Viking 
   Olivier Occean 45;
      
 ; Tromsø      ; 2-0; Fredrikstad 
-  Ole Martin Årst (pk) 27, Ole Martin Arst 37
+  Ole Martin Årst (pk) 27, Ole Martin Arst 37;
    
 ; Vålerenga   ; 0-0; Lillestrøm
 
@@ -609,7 +609,7 @@ Date: 9/26/2005
 Round: 23
 Date: 10/2/2005
 
-;; Ham-Kam;      0-3 Rosenborg
+; Ham-Kam;      0-3; Rosenborg
 ;  Thorstein Helstad 30, Vidar Riseth 58, Vidar Riseth (pk) 67
 
 ; Vålerenga   ; 0-1; Lyn 
@@ -625,7 +625,7 @@ Date: 10/2/2005
   Harald Martin Brattbakk 38; John Anders Bjørkøy 7, Dagfinn Enerly (pk) 31
 
 ; Molde       ; 4-0; Odd Grenland
-  Marcus Andreasson 13, Rob Friend 19, Rob Friend 44, Petter Rudi (pk) 65
+  Marcus Andreasson 13, Rob Friend 19, Rob Friend 44, Petter Rudi (pk) 65;
 
 Date: 10/3/2005
 
@@ -699,12 +699,12 @@ Date: 10/29/2005
   Tommy Svindal Larsen 9, Tarjei Dale 69; Daniel Fredheim Holm 19, André Muri 37
 
 ; Lyn         ; 6-0; Bodø/Glimt
-  Jonas Ueland Kolstad 45, Tomasz Sokolowski 48, Kevin Larsen 83, Jan Derek Sørensen 86, Jan Derek Sorensen 89, Bjarne K. Ingebretsen 90
+  Jonas Ueland Kolstad 45, Tomasz Sokolowski 48, Kevin Larsen 83, Jan Derek Sørensen 86, Jan Derek Sorensen 89, Bjarne K. Ingebretsen 90;
      
 ; Lillestrøm  ; 2-2; Molde
   Robert Koren 5, Pål Strand 76; Rob Friend 77, Rob Friend 90
 
-;; Ham-Kam;      1-1 Brann
+; Ham-Kam;      1-1; Brann
   Vegar Bjerke 31; Dylan MacAllister 80
 
 

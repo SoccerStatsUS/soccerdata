@@ -40,7 +40,7 @@ Date: 8/9/2003
 Date: 8/10/2003
 
 ; Beveren       ; 2-4; Gent
-;; Heusden-Zolder; 0-0 Cercle Brugge
+; Heusden-Zolder; 0-0; Cercle Brugge
 ; Mouscron      ; 2-2; Standard
 
 Round: 2
@@ -65,7 +65,7 @@ Date: 8/18/2003
 Round: 3
 Date: 8/22/2003
 
-;; Heusden-Zolder; 0-0 Antwerp
+; Heusden-Zolder; 0-0; Antwerp
 
 Date: 8/23/2003
 
@@ -103,7 +103,7 @@ Date: 8/31/2003
 Round: 5
 Date: 9/12/2003
 
-;; Heusden-Zolder; 0-1 St Truiden
+; Heusden-Zolder; 0-1; St Truiden
 
 Date: 9/13/2003
 
@@ -138,7 +138,7 @@ Date: 9/21/2003
 Round: 7
 Date: 9/26/2003
 
-;; Heusden-Zolder; 2-4 Anderlecht
+; Heusden-Zolder; 2-4; Anderlecht
 ; GBA           ; 0-2; Gent
 
 Date: 9/27/2003
@@ -200,7 +200,7 @@ Date: 10/25/2003
 
 Date: 10/26/2003
 
-;; Heusden-Zolder; 4-2 Club Brugge
+; Heusden-Zolder; 4-2; Club Brugge
 ; Westerlo      ; 2-1; Charleroi
 ; Cercle Brugge ; 2-2; Lokeren
 ; St Truiden    ; 1-2; Standard
@@ -231,7 +231,7 @@ Date: 11/7/2003
 
 Date: 11/8/2003
 
-;; Heusden-Zolder; 2-0 GBA
+; Heusden-Zolder; 2-0; GBA
 ; St Truiden    ; 3-2; Lierse
 ; Westerlo      ; 1-1; Mouscron
 ; La Louvière   ; 3-2; Lokeren
@@ -275,7 +275,7 @@ Date: 11/2/2003
 Date: 11/30/2003
 
 ; St Truiden    ; 0-0; Cercle Brugge
-;; Heusden-Zolder; 1-1 Standard
+; Heusden-Zolder; 1-1; Standard
 ; Club Brugge   ; 4-2; Mouscron
 
 Round: 15
@@ -300,7 +300,7 @@ Date: 12/7/2003
 Round: 16
 Date: 12/12/2003
 
-;; Heusden-Zolder; 0-0 Lierse
+; Heusden-Zolder; 0-0; Lierse
 ; Charleroi     ; 0-1; Standard
 
 Date: 12/13/2003
@@ -357,7 +357,7 @@ Date: 1/24/2004
 ; Anderlecht    ; 2-0; Gent
 ; Charleroi     ; 4-3; Genk 
 ; GBA           ; 1-1; Lierse 
-;; Heusden-Zolder; 1-3 La Louvière 
+; Heusden-Zolder; 1-3; La Louvière 
 ; Lokeren       ; 1-1; Standard
 ; Mouscron      ; 3-2; Mons
 ; St Truiden    ; 1-1; Beveren 
@@ -392,7 +392,7 @@ Date: 2/7/2004
 ; Beveren       ; 2-3; Anderlecht 
 ; Charleroi     ; 2-2; La Louvière 
 ; GBA           ; 2-1; Cercle Brugge
-;; Heusden-Zolder; 1-1 Gent 
+; Heusden-Zolder; 1-1; Gent 
 ; Lokeren       ; 0-0; Mons
 ; Standard      ; 1-1; Lierse 
 ; Westerlo      ; 3-0; St Truiden 
@@ -439,7 +439,7 @@ Date: 2/21/2004
 
 Date: 2/22/2004
 
-;; Heusden-Zolder; 1-4 Beveren
+; Heusden-Zolder; 1-4; Beveren
 ; GBA           ; 1-0; Antwerp
 ; Westerlo      ; 0-0; Anderlecht
  
@@ -471,7 +471,7 @@ Date: 3/24/2004
 Round: 25
 Date: 3/5/2004
 
-;; Heusden-Zolder; 0-1 Westerlo
+; Heusden-Zolder; 0-1; Westerlo
 
 Date: 3/6/2004
 
@@ -490,7 +490,7 @@ Date: 3/7/2004
 Round: 26
 Date: 3/12/2004
 
-;; Heusden-Zolder; 2-3 Lokeren
+; Heusden-Zolder; 2-3; Lokeren
 
 Date: 3/13/2004
 
@@ -536,7 +536,7 @@ Date: 4/3/2004
 Date: 4/4/2004
 
 ; La Louvière   ; 2-0; Cercle Brugge
-;; Heusden-Zolder; 3-1 Charleroi
+; Heusden-Zolder; 3-1; Charleroi
 
 Round: 29
 Date: 4/9/2004
@@ -576,7 +576,7 @@ Date: 4/17/2004
 Date: 4/18/2004
 
 ; Club Brugge   ; 2-1; GBA
-;; Heusden-Zolder; 1-1 Mouscron 
+; Heusden-Zolder; 1-1; Mouscron 
 ; Westerlo      ; 2-4; Standard
 
 Round: 31
@@ -613,7 +613,7 @@ Date: 5/1/2004
 Date: 5/2/2004
 
 ; Beveren       ; 1-1; Cercle Brugge
-;; Heusden-Zolder; 2-0 Mons
+; Heusden-Zolder; 2-0; Mons
 ; St Truiden    ; 1-2; La Louvière 
 ; Anderlecht    ; 2-1; Genk 
 
@@ -641,7 +641,7 @@ Date: 5/15/2004
 ; Beveren       ; 5-2; Antwerp 
 ; Charleroi     ; 1-0; Mons
 ; Club Brugge   ; 3-0; Lierse 
-;; Heusden-Zolder; 2-3 Genk 
+; Heusden-Zolder; 2-3; Genk 
 ; Lokeren       ; 1-1; Mouscron
 ; St Truiden    ; 0-2; Gent 
 ; Westerlo      ; 1-1; Cercle Brugge

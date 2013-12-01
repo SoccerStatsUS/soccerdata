@@ -132,7 +132,7 @@ Date: 5/24/2004
 
 ; Molde       ; 1-1; Vålerenga   
 
-Ropund 9
+Round: 9
 Date: 5/31/2004
 
 ; Bodø/Glimt  ; 0-3; Fredrikstad 
@@ -312,7 +312,7 @@ Date: 9/13/2004
 Round: 21
 Date: 9/18/2004
 
-;; Ham-Kam;      1-2 Viking
+; Ham-Kam;      1-2; Viking
 
 Date: 9/19/2004
 
@@ -347,7 +347,7 @@ Round: 23
 Date: 10/3/2004
 
 ; Bodø/Glimt  ; 2-2; Viking 
-;; Ham-Kam;      2-0 Rosenborg 
+; Ham-Kam;      2-0; Rosenborg 
 ; Lyn         ; 2-2; Fredrikstad 
 ; Odd Grenland; 2-4; Vålerenga 
 ; Sogndal     ; 2-1; Molde 
@@ -380,7 +380,7 @@ Date: 10/24/2004
 ; Bodø/Glimt  ; 0-1; Rosenborg
 ; Brann       ; 1-0; Viking
 ; Fredrikstad ; 1-0; Tromsø
-;; Ham-Kam;      0-1 Vålerenga
+; Ham-Kam;      0-1; Vålerenga
 ; Lyn         ; 1-1; Lillestrøm
 ; Sogndal     ; 4-2; Odd Grenland
 ; Stabæk      ; 1-3; Molde

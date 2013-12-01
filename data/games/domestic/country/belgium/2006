@@ -56,7 +56,7 @@ Date: 7/30/2006
 ; Westerlo    ; 2-1; Roeselare
   Van den Eede 65, Ogunsoto 67; Raeymaeckers 85
 
-;; Sint-Truiden; 2-4 Anderlecht
+; Sint-Truiden; 2-4; Anderlecht
   Muyaneza 59, Sishuba 69; Goor 51, Hayen (og) 71, Tchité 88, Tchite 89
 
 Round: 2
@@ -78,7 +78,7 @@ Date: 8/5/2006
 ; Mons        ; 2-0; Sint-Truiden
   Dahmane 84, Dalmat 89;
 
-;; Zulte-W.;     0-1 Brussels
+; Zulte-W.;     0-1; Brussels
 ;  Bruno 52
 
 ; Beveren     ; 0-3; Westerlo
@@ -90,7 +90,7 @@ Date: 8/5/2006
 Date: 8/6/2006
 
 ; Roeselare   ; 3-2; Club Brugge
-  Vaesen 7, Vaesen 51, Malki 31; Yulu-Matondo 83, 86
+  Vaesen 7, Vaesen 51, Malki 31; Yulu-Matondo 83, Yulu-Matondo 86
 
 Round: 3
 Date: 8/19/2006
@@ -104,7 +104,7 @@ Date: 8/19/2006
 ; Charleroi   ; 2-1; Cerc. Brugge
   Théréau 36; De Wulf 18, De Smet 51
 
-;; Zulte-W.;     2-1 Lierse
+; Zulte-W.;     2-1; Lierse
   Meert 4, Datti 48; B.Peeters 36
 
 ; G. Beerschot; 2-1; Mons
@@ -137,7 +137,7 @@ Date: 8/26/2006
 ; Mons        ; 1-1; Westerlo
   Mirri 61; Utaka 46
 
-;; Sint-Truiden; 2-0 G. Beerschot
+; Sint-Truiden; 2-0; G. Beerschot
   Van Houdt 46, Stolica 88;
 
 ; Lierse      ; 0-1; Brussels
@@ -168,7 +168,7 @@ Date: 9/9/2006
 ; Charleroi   ; 2-1; Roeselare
   Camus 19, Akgül (pk) 90; Malki 47
 
-;; Zulte-W.;     1-2 Cerc. Brugge
+; Zulte-W.;     1-2; Cerc. Brugge
   Sergeant 50; Pivaljevic 19, De Smet 89
 
 ; Lierse      ; 1-3; Standard
@@ -210,7 +210,7 @@ Date: 9/17/2006
 ; Standard    ; 2-1; Brussels
   Rapaic 6, Conceiçao 49; Petö 12
 
-;; Sint-Truiden; 2-3 Club Brugge
+; Sint-Truiden; 2-3; Club Brugge
   Munyaneza 11, Vanczak 52; Salou 34, Clement 85, Balaban 90
 
 ; Gent        ; 1-1; Zulte-W.
@@ -251,19 +251,19 @@ Date: 9/23/2006
 
 Date: 9/24/2006
 
-;; Zulte-W.;     4-2 Roeselare
+; Zulte-W.;     4-2; Roeselare
   Dindeleux 3, Matthys 52, Matthys 58, Matthys 62; Kpaka 31, T.Peeters 68
 
 Round: 8
 Date: 9/30/2006
 
 ; Anderlecht  ; 1-4; Genk
-  Boussoufa 65; Vandenbergh 2, 9, Ljubojevic 86, Ljubojevic 89
+  Boussoufa 65; Vandenbergh 2, Vandenbergh 9, Ljubojevic 86, Ljubojevic 89
 
 ; Mons        ; 1-2; Charleroi
   Dalmat 13; Defays 85, Oulmers 89
 
-;; Sint-Truiden; 1-0 Lokeren
+; Sint-Truiden; 1-0; Lokeren
   Munyaneza 24;
 
 ; G. Beerschot; 6-2; Mouscron
@@ -289,7 +289,7 @@ Date: 10/1/2006
 Round: 9
 Date: 10/14/2006
 
-;; Zulte-W.;     0-4 Anderlecht
+; Zulte-W.;     0-4; Anderlecht
 ;  Frutos 22, Frutos 29, Tchité 58, Goor 62
 
 ; Lierse      ; 0-1; Beveren
@@ -302,7 +302,7 @@ Date: 10/14/2006
 ;  Martens 72
 
 ; Mouscron    ; 4-0; Westerlo
-  Tohoua 7, Tomou 80, Grondin (pk) 88, Grondin 89
+  Tohoua 7, Tomou 80, Grondin (pk) 88, Grondin 89;
 
 ; Lokeren     ; 0-0; G. Beerschot
 
@@ -347,7 +347,7 @@ Date: 10/28/2006
 
 Date: 10/29/2006
 
-;; Sint-Truiden; 1-2 Genk
+; Sint-Truiden; 1-2; Genk
   Van Houdt 35; Ljubojevic 14, Debroux (og) 44
 
 Round: 11
@@ -374,7 +374,7 @@ Date: 11/5/2006
 ; Charleroi   ; 1-2; Westerlo
   Corstjens 63; Ogunsoto 13, Ogunsoto 57
 
-;; Zulte-W.;     3-0 Sint-Truiden
+; Zulte-W.;     3-0; Sint-Truiden
   Reina 19, Verschuere 61, D'Haemers 75;
 
 ; Standard    ; 0-0; Anderlecht
@@ -393,7 +393,7 @@ Date: 11/11/2006
 ; Club Brugge ; 2-0; Charleroi
   Yulu-Matondo 12, Balaban 84;
 
-;; Sint-Truiden; 4-0 Lierse
+; Sint-Truiden; 4-0; Lierse
   Vanczak 28, Vanczak 45, Buvens 78, Chimedza 81;
 
 ; G. Beerschot; 1-1; Zulte-W.
@@ -422,7 +422,7 @@ Date: 11/18/2006
 ; Gent        ; 2-1; Anderlecht
   Olufade 43, Azofeifa 64; Tchité 18
 
-;; Zulte-W.;     2-2 Westerlo
+; Zulte-W.;     2-2; Westerlo
   Roussel 21, Roussel 33; Utaka 45, Ogunsoto (pk) 46
 
 ; Lierse      ; 2-3; G. Beerschot
@@ -457,7 +457,7 @@ Date: 11/25/2006
 ; Mons        ; 0-1; Gent
 ;  Pavlovic 21
 
-;; Sint-Truiden; 2-0 Cerc. Brugge
+; Sint-Truiden; 2-0; Cerc. Brugge
   Van Houdt 31, Simaeys 48;
 
 ; Westerlo    ; 2-0; Lierse
@@ -493,7 +493,7 @@ Date: 12/2/2006
 ; Genk        ; 1-0; Lokeren
   Soetaers 46;
 
-;; Zulte-W.;     0-0 Mouscron
+; Zulte-W.;     0-0; Mouscron
 
 ; Standard    ; 3-0; Westerlo
   Defour 2, Jovanovic 44, De Camargo 64;
@@ -523,7 +523,7 @@ Date: 12/9/2006
 ; Mons        ; 1-0; Beveren
   Dahmane (pk) 44;
 
-;; Sint-Truiden; 1-1 Roeselare
+; Sint-Truiden; 1-1; Roeselare
   Buvens 82; Vanderbiest 87
 
 ; G. Beerschot; 0-3; Gent
@@ -576,14 +576,14 @@ Date: 12/17/2006
 ; Cerc. Brugge; 1-0; Club Brugge
   Boi 63;
 
-;; Zulte-W.;     1-0 Charleroi
+; Zulte-W.;     1-0; Charleroi
   Matthys 23;
 
 
 Round: 18
 Date: 1/19/2007
 
-;; Zulte-W.;     2-2 Genk
+; Zulte-W.;     2-2; Genk
   Matthys 39, Matthys 85; Leleu (og) 50, Leleu (og) 59
 
 Date: 1/20/2007
@@ -626,7 +626,7 @@ Date: 1/27/2007
 ; Mouscron    ; 0-3; Gent
 ;  Grégoire 40, Olufade (pk) 56, Rudi 81
 
-;; Sint-Truiden; 1-0 Mons
+; Sint-Truiden; 1-0; Mons
   Van Houdt 85;
 
 ; Brussels    ; 2-0; Zulte-W.
@@ -674,7 +674,7 @@ Date: 2/3/2007
 
 ; Cerc. Brugge; 0-0; Charleroi
 
-;; Sint-Truiden; 2-2 Brussels
+; Sint-Truiden; 2-2; Brussels
   Munyaneza 28, Sishuba 70; Matumona 63, Citony 75
 
 Date: 2/4/2007
@@ -685,7 +685,7 @@ Date: 2/4/2007
 Round: 21
 Date: 2/10/2007
 
-;; Zulte-W.;     3-1 Standard
+; Zulte-W.;     3-1; Standard
   Matthys (pk) 58, De Brul 64, Van Nieuwenhuyze 89; Defour 87
 
 ; Westerlo    ; 2-1; Mons
@@ -729,7 +729,7 @@ Date: 2/17/2007
 ; Standard    ; 3-2; Lierse
   Jovanovic (pk) 30, Fellaini 49, Dupré (pk) 90; Snelders 84, Snelders 85
 
-;; Sint-Truiden; 0-2 Westerlo
+; Sint-Truiden; 0-2; Westerlo
 ;  Ogunsoto 77, Dekelver 82
 
 ; Anderlecht  ; 2-1; Mouscron
@@ -780,7 +780,7 @@ Date: 2/24/2007
 ; Lokeren     ; 1-1; Anderlecht
   Dufer 40; Frutos 89
 
-;; Zulte-W.;     3-2 Gent
+; Zulte-W.;     3-2; Gent
   Sergeant 43, Sergeant 55, Dosunmu 44; Svetlicic 49, Olufade (pk) 73
 
 Round: 24
@@ -795,12 +795,12 @@ Date: 3/3/2007
 ;  Vandenbergh 19, Chatelle 23, Chatelle 70, Haroun 44, Vrancken 66
 
 ; Gent        ; 4-0; Lierse
-  Pavlovic 12, Pavlovic 29, Olufade 63, Olufade 76
+  Pavlovic 12, Pavlovic 29, Olufade 63, Olufade 76;
 
 ; Cerc. Brugge; 0-2; Standard
 ;  Lukunku 59, Lukunku 83
 
-;; Sint-Truiden; 1-1 Mouscron
+; Sint-Truiden; 1-1; Mouscron
   Van Houdt 20; Toyes 28
 
 ; Mons        ; 1-0; Lokeren
@@ -842,7 +842,7 @@ Date: 3/10/2007
 ; Lierse      ; 3-1; Roeselare
   Janssens 4, Jarju 73, Snelders 89; Oris 51
 
-;; Zulte-W.;     2-1 Beveren
+; Zulte-W.;     2-1; Beveren
   Sergeant 26, Matthys 56; Gervinho 90+2
 
 Date: 3/11/2007
@@ -869,7 +869,7 @@ Date: 3/17/2007
 ; Westerlo    ; 1-0; Mouscron
   Dekelver 36;
 
-;; Sint-Truiden; 1-1 Charleroi
+; Sint-Truiden; 1-1; Charleroi
   Van Houdt 66; Orlando 78
 
 ; Club Brugge ; 4-1; Brussels
@@ -891,7 +891,7 @@ Date: 3/30/2007
 
 Date: 3/31/2007
 
-;; Zulte-W.;     1-2 Mons
+; Zulte-W.;     1-2; Mons
   Leleu 89; Brahami (pk) 33, Stolica 43
 
 ; Charleroi   ; 3-3; G. Beerschot
@@ -925,7 +925,7 @@ Date: 4/6/2007
 
 Date: 4/7/2007
 
-;; Sint-Truiden; 2-2 Zulte-W.
+; Sint-Truiden; 2-2; Zulte-W.
   D'Haene (og) 73, R.Peeters 78; Siani 29, D'Haene 54
 
 ; Mons        ; 1-1; Lierse
@@ -964,7 +964,7 @@ Date: 4/14/2007
 
 ; Lierse      ; 0-0; Sint-Truiden
 
-;; Zulte-W.;     0-2 G. Beerschot
+; Zulte-W.;     0-2; G. Beerschot
 ;  Sterchele (pk) 58, D'Haene (og) 74
 
 ; Genk        ; 3-1; Westerlo
@@ -995,7 +995,7 @@ Date: 4/21/2007
 ; Westerlo    ; 4-2; Zulte-W.
   Ogunsoto 29, Dekelver 49, Dekelver 87, Delen 61; Sergeant 48, Matthys 79
 
-;; Sint-Truiden; 0-3 Standard
+; Sint-Truiden; 0-3; Standard
 ;  Fellaini 44, Witsel 48, Lukunku 90
 
 ; Mons        ; 1-0; Cerc. Brugge
@@ -1034,7 +1034,7 @@ Date: 4/28/2007
 ; Lierse      ; 1-1; Westerlo
   Kums 59; Ogunsoto 55
 
-;; Zulte-W.;     2-1 Club Brugge
+; Zulte-W.;     2-1; Club Brugge
   Dosunmu 33, Van Nieuwenhuyze 71; Leko 31
 
 ; Charleroi   ; 4-3; Lokeren
@@ -1068,7 +1068,7 @@ Date: 5/5/2007
 ; G. Beerschot; 1-0; Cerc. Brugge
   Colman 89;
 
-;; Sint-Truiden; 0-1 Gent
+; Sint-Truiden; 0-1; Gent
 ;  Gonzales 73
 
 ; Mons        ; 6-1; Roeselare
@@ -1107,7 +1107,7 @@ Date: 5/12/2007
 ; Lierse      ; 3-3; Mouscron
   Snelders 14, Muslin 60, Janssens 69; Sanchez 49, Ba 58, Tomou 00
 
-;; Zulte-W.;     1-1 Lokeren
+; Zulte-W.;     1-1; Lokeren
   Sergeant 61; Overmeire 12
 
 ; Genk        ; 0-2; Charleroi
@@ -1142,7 +1142,7 @@ Date: 5/19/2007
 ; Westerlo    ; 1-1; Gent
   Dirar 62; Foley 75
 
-;; Sint-Truiden; 3-2 Beveren
+; Sint-Truiden; 3-2; Beveren
   Sishuba 4, Wisniowski 59, Simaeys 89; Dissa 8, Savaneh 83
 
 ; Mons        ; 3-1; Anderlecht

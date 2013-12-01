@@ -1,5 +1,7 @@
 BlockSource: http://www.rsssf.com/tablese/ecua05.html
 Season: 2005 Apertura
+Competition: Ecuadorian Serie A
+Transform: name-title
 
 *NB: Ecuador will have two separate champions this year, one for the
 *    Apertura and one for the Clausura (no more play-off).
@@ -214,7 +216,7 @@ Date: 4/23/2005
 Date: 4/24/2005
 
 ; Deportivo Quito      ; 5-0; Barcelona
-  Carlos JUAREZ 4, Carlos Juarez 20, Jhonny BALDEON 21, Jhonny Baldeon 31, Jhonny Baldeon 62
+  Carlos JUAREZ 4, Carlos Juarez 20, Jhonny BALDEON 21, Jhonny Baldeon 31, Jhonny Baldeon 62;
 
 ; Olmedo               ; 0-1; LDU de Loja
 ;  Wilson SEGURA 89
@@ -416,7 +418,7 @@ Date: 7/6/2005
 ; Deportivo Quito      ; 2-0; Barcelona
   Jhonny BALDEON 45, Luis Fernando SARITAMA 64;
 
-Second Legs 
+*Second Legs 
 Date: 7/10/2005
 
 ; LDU de Quito         ; 5-1; Olmedo
@@ -462,7 +464,7 @@ Date: 7/20/2005
   Banner Geovanny CAICEDO 45+2;
 
 
-Second Leg 
+*Second Leg 
 Date: 7/24/2005
 
 ; LDU de Quito         ; 3-0; Barcelona
@@ -526,7 +528,7 @@ Date: 8/3/2005
   Wilson SEGURA 76; Omar GUERRA 48, Omar Guerra 90
 
 ; LDU de Quito         ; 1-1; Deportivo Quito
-  Alex AGUINAGA 38, Carlos JUAREZ 40
+  Alex AGUINAGA 38; Carlos JUAREZ 40
 
 ; Barcelona            ; 3-3; El Nacional
   Walter AYOVI 19, Danny VERA 67, Leonardo SOLEDISPA 90+1; Cristian LARA 12, Leonardo GARCIA 42, Felix BORJA 43
@@ -786,7 +788,7 @@ Round: 16
 Date: 10/30/2005
 
 ; El Nacional          ; 2-4; Aucas
-  Segundo Alejandro CASTILLO 28, Cristian LARA (pk) 34; Pablo PALACIOS 1, Pablo Palacios 78; Hidrobo Vilson ROSERO 62, Abel LOBATON 81
+  Segundo Alejandro CASTILLO 28, Cristian LARA (pk) 34; Pablo PALACIOS 1, Pablo Palacios 78, Hidrobo Vilson ROSERO 62, Abel LOBATON 81
 
 ; Olmedo               ; 2-2; Deportivo Quito
   Celso CUERO 35, Celso Cuero 75; Jhonnny BALDEON 26, Jhonny Baldeon 88

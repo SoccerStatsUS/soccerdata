@@ -1,5 +1,7 @@
 BlockSource: http://www.rsssf.com/tablese/ecua04.html
 Season: 2004 Apertura
+Competition: Ecuadorian Serie A
+Transform: name-title
 
 * 1.Aucas                  18 10  6  2 31-15 36  Qualified
 * 2.LDU de Quito           18  9  3  6 33-26 30  Qualified
@@ -42,7 +44,7 @@ Date: 2/15/2004
   Cristian LARA 25, Erick DE JESUS 52;
 
 ; Espoli               ; 1-1; Barcelona
-  Leonardo GARCIA 30, Jaime Iv n KAVIEDES (pk) 42
+  Leonardo GARCIA 30; Jaime Ivan KAVIEDES (pk) 42
 
 ; Olmedo               ; 0-1; LDU de Quito
 ;  Juan Angel PAREDES 75
@@ -355,7 +357,7 @@ Date: 5/23/2004
   Hamilton RICARD 46, Hamilton Ricard 52, Hamilton Ricard 72, Moisés CANDELARIO 83; Carlos GARCIA 34, Luis Miguel GARCES 58
 
 
-; * 1.Aucas                  18 10  6  2; 31-15; 36  Qualified
+* 1.Aucas                  18 10  6  2; 31-15; 36  Qualified
 * 2.LDU de Quito           18  9  3  6 33-26 30  Qualified
 * 3.Deportivo Cuenca       18  8  5  5 21-15 29  Qualified
 * - - - - - - - - - - - - - - - - - - - - - - -
@@ -388,7 +390,7 @@ Season: 2004 Finalizacion
 Round: 1
 Date: 6/11/2004
 
-Deportivo Cuenca      3-2 Espoli
+; Deportivo Cuenca     ; 3-2; Espoli
   Marcelo VELAZCO 14, Carlos QUIÑONEZ 44, Eduardo IACHETTI 90+1; Pedro ESTERILLA 23, Fernando PIERUCCI (pk) 45+2
 
 Date: 6/12/2004
@@ -430,7 +432,7 @@ Round: 3
 Date: 6/23/2004
 
 ; Aucas                ; 1-1; Deportivo Quito
-  Agustín DELGADO 51, Christian CARNERO 29
+  Agustín DELGADO 51; Christian CARNERO 29
 
 ; Espoli               ; 0-2; El Nacional
 ;  Evelio ORDOÑEZ 30, Franklin ANANGONO 61
@@ -537,7 +539,7 @@ Round: 9
 Date: 8/7/2004
 
 ; Espoli               ; 0-4; Barcelona            ; Esmeraldas
-  Rodrigo TEIXEIRA 10, Leonardo SOLEDISPA 33, Leonardo Soledispa 58, Danny VERA 49
+;  Rodrigo TEIXEIRA 10, Leonardo SOLEDISPA 33, Leonardo Soledispa 58, Danny VERA 49
 
 Date: 8/8/2004
 
@@ -660,7 +662,7 @@ Date: 9/19/2004
   Lenín DE JESUS 45+1, Carlos Mario CEVALLOS 49, Manuel COTERA; Carlos Andrés QUIÑONEZ 89
 
 ; Aucas                ; 1-1; El Nacional
-  Gustavo FIGUEROA 39, Evelio ORDOÑEZ 62
+  Gustavo FIGUEROA 39; Evelio ORDOÑEZ 62
 
 ; Macará               ; 1-5; Olmedo
   Luis Miguel GARCES 12; Christian GOMEZ 4, Fernando RODRIGUEZ 14, Fernando Rodriguez 21, Fernando Rodriguez 39, Luis CAICEDO 89
@@ -672,7 +674,7 @@ Round: 16
 Date: 9/22/2004
 
 ; Olmedo               ; 2-1; Barcelona
-  Gabriel FERNANDEZ 20, Christian GOMEZ 60, Walter AYOVI 26
+  Gabriel FERNANDEZ 20, Christian GOMEZ 60; Walter AYOVI 26
 
 ; El Nacional          ; 1-0; Espoli
   Evelio ORDOÑEZ 5;
@@ -697,7 +699,7 @@ Date: 9/25/2004
   Andrés MINDA 75;
 
 ; Deportivo Quito      ; 7-1; Emelec
-  Marlon AYOVI (pk) 15, Luis SARITAMA 33, Luis Saritama 77, Cléber CHALA 42, Cleber Chala 49, Christian CARNERO 82, Lider MEJIA 88, Wellington SANCHEZ 27
+  Marlon AYOVI (pk) 15, Luis SARITAMA 33, Luis Saritama 77, Cléber CHALA 42, Cleber Chala 49, Christian CARNERO 82, Lider MEJIA 88; Wellington SANCHEZ 27
 
 ; Deportivo Cuenca     ; 0-1; El Nacional
 ;  Evelio ORDOÑEZ 76
@@ -823,7 +825,7 @@ Date: 11/28/2004
   Fernando RODRIGUEZ 35, Marco TENORIO 70; Angel FERNANDEZ 88
 
 ; Deportivo Cuenca     ; 1-1; LDU de Quito
-  Walter CALDERON 55, Vicente Paúl AMBROSSI 85
+  Walter CALDERON 55; Vicente Paúl AMBROSSI 85
 
 Round: 7
 Date: 12/4/2004

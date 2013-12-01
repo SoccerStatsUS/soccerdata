@@ -1,4 +1,4 @@
-1;2cBlockSource: http://rsssf.com/tablesd/den05.html
+BlockSource: http://rsssf.com/tablesd/den05.html
 Season: 2004-2005
 Competition: Superligaen
 
@@ -89,7 +89,7 @@ Round: 4
 Date: 8/14/2004
 
 ; Randers     ; 0-3; AGF
-  Leon Andreasen 45, Helgi Sigurdsson 52, Brian Steen Nielsen 81
+;  Leon Andreasen 45, Helgi Sigurdsson 52, Brian Steen Nielsen 81
    
 Date: 8/15/2004
 
@@ -281,7 +281,7 @@ Date: 10/24/2004
   Michael Hansen 74, Razak Pimpong 87;
 
 ; OB          ; 3-0; Silkeborg 
-  Søren Berg 2, Soren Berg 18, Peter Degn (og) 67
+  Søren Berg 2, Soren Berg 18, Peter Degn (og) 67;
 
 ; København   ; 0-0; Viborg      
 Notes: abandoned at 0-0 following the fatal fall of a supporter; result stood
@@ -325,7 +325,7 @@ Date: 11/3/2004
   Mads Junker 37, Mads Junker 63; Karsten Johansen 75, Jesper Thygesen (pk) 78
 
 ; OB          ; 5-0; Herfølge 
-  Mwape Miti 30, Mwape Miti 43, Steffen Højer 35, Steffen Hojer 60, Steffen Hojer 80
+  Mwape Miti 30, Mwape Miti 43, Steffen Højer 35, Steffen Hojer 60, Steffen Hojer 80;
 
 ; Viborg      ; 1-1; Silkeborg 
   Thomas Andie (pk) 84; Peter Degn (pk) 11
@@ -348,7 +348,7 @@ Date: 11/7/2004
   Mwape Miti 2, Mwape Miti 87, Steffen Højer 9, Steffen Hojer 19, Steffen Hojer 28, Steffen Hojer (pk) 42, Chris Sørensen 82; Mads Junker 16
 
 ; Randers     ; 4-0; Silkeborg 
-  Jesper Thygesen 35, Jesper Thygesen 89, Jose Roberto Mota 37, Jose Roberto Mota 44
+  Jesper Thygesen 35, Jesper Thygesen 89, Jose Roberto Mota 37, Jose Roberto Mota 44;
 
 ; København   ; 2-3; AGF 
   Hjalte Nørregaard 68, Ole Tobiasen 85; Helgi Sigurdsson 78, Thomas Thorninger 83, Morten Rasmussen 88
@@ -629,7 +629,7 @@ Round: 28
 Date: 5/19/2005
 
 ; AGF         ; 4-0; Randers          
-  Morten Rasmussen 9, Morton Rasmussen 76, Leon Andreasen 83, Jonny Hanssen 88
+  Morten Rasmussen 9, Morton Rasmussen 76, Leon Andreasen 83, Jonny Hanssen 88;
         
 ; Esbjerg     ; 4-0; Silkeborg          
   Mickaël Murcy 25, Mickael Murcy 28, Fredrik Berglund 45, Fredrik Berglund 69;
@@ -694,7 +694,7 @@ Round: 31
 Date: 6/11/2005
 
 ; Brøndby     ; 7-0; Herfølge
-  Johan Elmander 14, Thomas Kahlenberg (pk) 20, Thomas Kahlenberg 52, Per Nielsen 36, Daniel Agger 45, Martin Retov 50, Morten Skoubo 84
+  Johan Elmander 14, Thomas Kahlenberg (pk) 20, Thomas Kahlenberg 52, Per Nielsen 36, Daniel Agger 45, Martin Retov 50, Morten Skoubo 84;
     
 Date: 6/12/2005
 

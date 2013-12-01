@@ -536,7 +536,7 @@ Date: 5/3/1998
 
 Round: 35 
 *[May 10]
-Date; 5/10/1998
+Date: 5/10/1998
 
 ; Ajax           ; 1-2; Utrecht
 ; Feyenoord      ; 0-2; NEC
@@ -573,66 +573,65 @@ Date; 5/10/1998
 *18.FC Volendam                  34  5  6 23  33-102 21  Relegated
 
 
-Promotion/Relegation Playoffs
+Season: 1997-1998 Promotion/Relegation Playoffs
 
-Group A
+Group: A
 
-Round: 1 [May 16]
-RKC             3-2 Emmen
-Den Haag        0-0 Eindhoven
+Round: 1
+5/16/1998; RKC            ; 3-2; Emmen
+5/16/1998; Den Haag       ; 0-0; Eindhoven
 
-Round: 2 [May 19]
-Emmen           1-1 Den Haag
-Eindhoven       0-1 RKC
+Round: 2
+5/19/1998; Emmen          ; 1-1; Den Haag
+5/19/1998; Eindhoven      ; 0-1; RKC
 
-Round: 3 [May 23]
-Den Haag        0-3 RKC
-Eindhoven       2-2 Emmen
+Round: 3
+5/23/1998; Den Haag       ; 0-3; RKC
+5/23/1998; Eindhoven      ; 2-2; Emmen
 
-Round: 4 [May 26]
-RKC             0-0 Den Haag
-Emmen           1-4 Eindhoven
+Round: 4
+5/26/1998; RKC            ; 0-0; Den Haag
+5/26/1998; Emmen          ; 1-4; Eindhoven
 
-Round: 5 [May 30]
-Den Haag        2-2 Emmen
-RKC             5-0 Eindhoven
+Round: 5
+5/30/1998; Den Haag       ; 2-2; Emmen
+5/30/1998; RKC            ; 5-0; Eindhoven
 
-Round: 6 [Jun 2]
-Emmen           3-3 RKC
-Eindhoven       2-2 Den Haag
+Round: 6
+6/2/1998; Emmen          ; 3-3; RKC
+6/2/1998; Eindhoven      ; 2-2; Den Haag
 
-Table:
 
- 1.RKC Waalwijk                  6  4  2  0  15- 5 14  Remain in Eredivisie
- 2.Eindhoven                     6  1  3  2   8-11  6
- 3.ADO Den Haag                  6  0  5  1   5- 8  5
- 4.Emmen                         6  0  4  2  11-15  4
+* 1.RKC Waalwijk                  6  4  2  0  15- 5 14  Remain in Eredivisie
+* 2.Eindhoven                     6  1  3  2   8-11  6
+* 3.ADO Den Haag                  6  0  5  1   5- 8  5
+* 4.Emmen                         6  0  4  2  11-15  4
 
-Group B
+Group: B
 
-Round: 1 [May 16]
-Den Bosch       1-2 Cambuur
-Zwolle          1-1 Groningen
+Round: 1
+5/16/1998; Den Bosch      ; 1-2; Cambuur
+5/16/1998; Zwolle         ; 1-1; Groningen
 
-Round: 2 [May 19]
-Groningen       1-3 Den Bosch
-Cambuur         5-2 Zwolle
+Round: 2
+5/19/1998; Groningen      ; 1-3; Den Bosch
+5/19/1998; Cambuur        ; 5-2; Zwolle
 
-Round: 3 [May 23]
-Den Bosch       0-0 Zwolle
-Groningen       1-1 Cambuur          [in Zeist]
+Round: 3
+5/23/1998; Den Bosch      ; 0-0; Zwolle
+5/23/1998; Groningen      ; 1-1; Cambuur          ; Zeist
 
-Round: 4 [May 27]
-Cambuur         3-1 Groningen
-Zwolle          1-0 Den Bosch
+Round: 4
+5/27/1998; Cambuur        ; 3-1; Groningen
+5/27/1998; Zwolle         ; 1-0; Den Bosch
 
-Round: 5 [May 30]
-Cambuur         2-2 Den Bosch
-Groningen       1-3 Zwolle
+Round: 5
+5/30/1998; Cambuur        ; 2-2; Den Bosch
+5/30/1998; Groningen      ; 1-3; Zwolle
 
-Round: 6 [Jun 2]
-Den Bosch       1-4 Groningen
-Zwolle          1-2 Cambuur
+Round: 6
+6/2/1998; Den Bosch      ; 1-4; Groningen
+6/2/1998; Zwolle         ; 1-2; Cambuur
 
 * 1.Cambuur Leeuwarden            6  4  2  0  15- 8 14  Promoted
 * 2.FC Zwolle                     6  2  2  2   8- 9  8

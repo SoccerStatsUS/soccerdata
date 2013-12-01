@@ -32,7 +32,7 @@ Date: 8/6/2004
 
 Date: 8/7/2004
 
-;; Saint-Etienne; 0-1 Monaco 
+; Saint-Etienne; 0-1; Monaco 
 ;  Ernesto Chevanton 2
 
 ; Bastia       ; 2-1; Strasbourg 
@@ -102,7 +102,7 @@ Date: 8/21/2004
 ; Rennes       ; 1-0; Nantes
   Alexander Frei 34;
 
-;; Saint-Etienne; 1-1 Strasbourg 
+; Saint-Etienne; 1-1; Strasbourg 
   Anthony Le Tallec 36; Alexander Farnerud 82
 
 ; Sochaux      ; 1-2; Auxerre
@@ -184,7 +184,7 @@ Date: 9/11/2004
 ; Monaco       ; 3-1; Strasbourg 
   Emmanuel Adebayor 4, Mohammed Kallon (pk) 59, Javier Saviola 86; Mickaël Pagis 40
  
-;; Saint-Etienne; 0-0 Nantes 
+; Saint-Etienne; 0-0; Nantes 
 
 ; Toulouse     ; 3-1; Ajaccio 
   Nabil Taïder 8, Adelino Eduardo 84, Dominique Arribagé 87; Marcelinho Carioca 22
@@ -258,7 +258,7 @@ Date: 9/22/2004
 ; Monaco       ; 2-1; Nantes 
   Pontus Farnerud 46, Mohammed Kallon 90; Florin Bratu 45
 
-;; Saint-Etienne; 3-1 Auxerre 
+; Saint-Etienne; 3-1; Auxerre 
   Hérita Ilunga 2, Nicolas Marin 13, Nicolas Marin 36; Lionel Mathis 89
 
 ; Sochaux      ; 0-2; Lille 
@@ -270,7 +270,7 @@ Date: 9/25/2004
 ; Lyon         ; 0-0; Monaco 
 
 ; Ajaccio      ; 2-2; Caen 
-  Waldir Lucas Pereira 14, 46; Cyrille Watier 30, Reynald Lemaître 86
+  Waldir Lucas Pereira 14, Waldir Lucas Pereira 46; Cyrille Watier 30, Reynald Lemaître 86
 
 ; Auxerre      ; 0-0; Istres 
 
@@ -328,7 +328,7 @@ Date: 10/3/2004
 ; Toulouse     ; 1-2; Auxerre 
   Daniel Moreira (pk) 31; Luigi Pieroni 60, Luigi Pieroni 73
 
-;; Saint-Etienne; 2-3 Lyon 
+; Saint-Etienne; 2-3; Lyon 
   Hérita Ilunga 48, Pascal Feindouno 60; P. Juninho 35, P. Juninho 87, Sidney Govou 90+
 
 Round: 10
@@ -343,7 +343,7 @@ Date: 10/16/2004
   Stéphane Grichting 24, Benjani Mwaruwari 42, Philippe Violeau 82;
 
 ; Ajaccio      ; 2-2; Strasbourg 
-  Waldir Lucas Pereira 48, 74; Mickaël Pagis 28, Mamadou Niang 64
+  Waldir Lucas Pereira 48, Waldir Lucas Pereira 74; Mickaël Pagis 28, Mamadou Niang 64
 
 ; Bordeaux     ; 2-2; Istres 
   Albert Riera (pk) 39, Camel Meriem 55; Victor Hugo Montano 8, Rafik Saïfi 60
@@ -361,7 +361,7 @@ Date: 10/16/2004
   Florian Jarjat 26;
 
 ; Sochaux      ; 3-0; Rennes 
-  Araujo Ilan 24, Araujo Ilan 59, Araujo Ilan 76
+  Araujo Ilan 24, Araujo Ilan 59, Araujo Ilan 76;
  
 Date: 10/17/2004
 
@@ -382,7 +382,7 @@ Date: 10/23/2004
 ; Rennes       ; 3-1; Metz   
   Alexander Frei 29, Alexander Frei 41, Olivier Monterrubio (pk) 65; Stephane Borbiconi 21
 
-;; Saint-Etienne; 0-0 Bordeaux   
+; Saint-Etienne; 0-0; Bordeaux   
 
 ; Strasbourg   ; 3-1; Nice   
   Yves Deroff 37, Mickaël Pagis (pk) 83, Salim Arrache 85; Florent Balmont 78
@@ -436,7 +436,7 @@ Date: 10/30/2004
 Round: 13 
 Date: 11/6/2004
 
-;; Saint-Etienne; 2-1 Nice   
+; Saint-Etienne; 2-1; Nice   
   Pascal Feindouno (pk) 25, Pascal Feindouno 90; Victor Agali 29
 
 ; Bastia       ; 1-1; Rennes   
@@ -524,7 +524,7 @@ Date: 11/20/2004
 ; Nantes       ; 0-1; Bordeaux 
 ;  Camel Meriem 24
 
-;; Saint-Etienne; 1-0 Rennes 
+; Saint-Etienne; 1-0; Rennes 
   Lilian Compan 85;
 
 ; Strasbourg   ; 3-1; Auxerre 
@@ -581,7 +581,7 @@ Date: 12/4/2004
   Lucas Pereira 90+; Juninho Pernambucano 88
   
 ; Caen         ; 2-3; Marseille
-  Gregory Dufer 43, Cyrille Watier (pk) 82; Habib Bamogo 26, (pk) 47, Sergio Koke 67
+  Gregory Dufer 43, Cyrille Watier (pk) 82; Habib Bamogo 26, Habib Bamogo  (pk) 47, Sergio Koke 67
      
 ; Istres       ; 1-0; Bastia 
   Moussa N'Diaye 77;
@@ -592,7 +592,7 @@ Date: 12/4/2004
 ; Nantes       ; 0-1; Nice 
 ;  Florent Balmont 28
 
-;; Saint-Etienne; 0-0 Toulouse 
+; Saint-Etienne; 0-0; Toulouse 
 
 ; Strasbourg   ; 0-0; Sochaux 
 
@@ -623,7 +623,7 @@ Date: 12/11/2004
 ; Rennes       ; 3-1; Lens 
   Toifilou Maoulida 18, Toifilou Maoulida 77, Olivier Monterrubio 61; Jerome Leroy 42
 
-;; Saint-Etienne; 5-0 Caen 
+; Saint-Etienne; 5-0; Caen 
   Frederic Piquionne 3, Frederic Piquionne  45, David Hellebuyck 30, Frederic Mendy 34, Lilian Compan 85;
 
 ; Toulouse     ; 2-1; Istres 
@@ -689,12 +689,12 @@ Date: 1/12/2005
   Gregory Proment 86;
 
 ; Nice         ; 3-3; Bordeaux   
-  Sammy Traoré 32, Marama Vahirua 45+, (pk) 90; Gérald Cid 44, Juan-Pablo Francia 55, Marouane Chamakh 64
+  Sammy Traoré 32, Marama Vahirua 45+, Marama Vahirua (pk) 90; Gérald Cid 44, Juan-Pablo Francia 55, Marouane Chamakh 64
 
 ; Rennes       ; 1-0; Auxerre   
   Alexander Frei 63;
 
-;; Saint-Etienne; 0-0 Lens   
+; Saint-Etienne; 0-0; Lens   
 
 ; Sochaux      ; 0-2; Lyon   
 ;  Bryan Bergougnoux 6, Mahamadou Diarra 41
@@ -757,10 +757,10 @@ Date: 1/22/2005
 ; Rennes       ; 2-0; Ajaccio 
   Alexander Frei 28, Nicolas Bonnal (og) 68;
 
-;; Saint-Etienne; 0-0 Paris SG
+; Saint-Etienne; 0-0; Paris SG
 
 ; Sochaux      ; 4-0; Bordeaux 
-  Sylvain Monsoreau 77, Jérémy Menez 78, Jeremy Menez 84, Jeremy Menez 86
+  Sylvain Monsoreau 77, Jérémy Menez 78, Jeremy Menez 84, Jeremy Menez 86;
 
 ; Toulouse     ; 2-1; Nantes 
   Achille Emana 31, Benjamin Psaume 74; Mamadou Diallo 16
@@ -839,7 +839,7 @@ Date: 2/1/2005
 
 Date: 3/16/2005
 
-;; Saint-Etienne; 3-0 Ajaccio 
+; Saint-Etienne; 3-0; Ajaccio 
   Pascal Feindouno 53, Frédéric Piquionne 62, Frederic Piquionne 64;
 
 Round: 25
@@ -848,7 +848,7 @@ Date: 2/5/2005
 ; Lille        ; 0-0; Sochaux  
 
 ; Strasbourg   ; 5-0; Caen  
-  Mickaël Pagis 8, Mickael Pagis 56, Mickael Pagis 83, Yacine Abdessadki 28, Mamadou Niang 39
+  Mickaël Pagis 8, Mickael Pagis 56, Mickael Pagis 83, Yacine Abdessadki 28, Mamadou Niang 39;
 
 ; Nantes       ; 0-0; Monaco  
 
@@ -907,7 +907,7 @@ Date: 2/20/2005
 ; Metz         ; 1-1; Lille   
   Ludovic Obraniak 49; Milenko Acimovic 7
 
-;; Saint-Etienne; 1-0 Sochaux
+; Saint-Etienne; 1-0; Sochaux
   Pascal Feindouno (pk) 69;
 
 Round: 27
@@ -980,7 +980,7 @@ Date: 3/5/2005
 
 Date: 3/6/2005
 
-;; Saint-Etienne; 2-0 Marseille 
+; Saint-Etienne; 2-0; Marseille 
   Pascal Feindouno (pk) 36, David Hellebuyck 83;
   
 Round: 29
@@ -1042,7 +1042,7 @@ Date: 3/19/2005
 
 Date: 3/20/2005
 
-;; Saint-Etienne; 0-0 Lille     
+; Saint-Etienne; 0-0; Lille     
 
 ; Paris SG     ; 1-0; Auxerre 
   Pedro Pauleta 7;
@@ -1063,7 +1063,7 @@ Date: 4/2/2005
 ;  Yacine Abdessadki 73, Mamadou Niang 77
 
 ; Lille        ; 8-0; Istres 
-  Matt Moussilou 12, Matt Moussilou 16, Matt Moussilou 18, Matt Moussilou 55, Mathieu Bodmer 21, Philippe Brunel 26, Philippe Brunel 59, Brahim Thiam (og) 64
+  Matt Moussilou 12, Matt Moussilou 16, Matt Moussilou 18, Matt Moussilou 55, Mathieu Bodmer 21, Philippe Brunel 26, Philippe Brunel 59, Brahim Thiam (og) 64;
 
 ; Lyon         ; 1-0; Lens 
   Juninho Pernambucano 64;
@@ -1102,7 +1102,7 @@ Date: 4/9/2005
 ; Paris SG     ; 1-1; Bordeaux 
   Danijel Ljuboja 32; Camel Meriem (pk) 73
 
-;; Saint-Etienne; 3-0 Bastia 
+; Saint-Etienne; 3-0; Bastia 
   Julien Sable 8, Pascal Feindouno (pk) 87, Frederic Piquionne 90;
 
 ; Strasbourg   ; 1-0; Marseille 
@@ -1180,7 +1180,7 @@ Date: 4/23/2005
 ; Nantes       ; 2-2; Marseille 
   Olivier Quint 28, Olivier Quint 47; Benoit Pedretti 68, Sergio Koke 82
 
-;; Saint-Etienne; 0-0 Metz 
+; Saint-Etienne; 0-0; Metz 
 
 ; Strasbourg   ; 1-2; Lille 
   Mamadou Niang 69; Matt Moussilou 34, Stephane Dumont 63
@@ -1288,7 +1288,7 @@ Date: 5/21/2005
 ; Marseille    ; 0-1; Lyon 
 ;  Pernambucano Juninho 56
 
-;; Saint-Etienne; 2-0 Istres 
+; Saint-Etienne; 2-0; Istres 
   Frederic Piquionne 69, Pascal Feindouno 75;
 
 Round: 38 

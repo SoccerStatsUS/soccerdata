@@ -79,7 +79,7 @@ Date: 8/24/2002
 
 ; Standard   ; 0-2; Anderlecht
 ***Lierse      awd Beveren           
-; *[awarded; 5-0,; originally 2-0; Beveren played ineligible player (Morales)]
+*; *[awarded; 5-0,; originally 2-0; Beveren played ineligible player (Morales)]
 ; Gent       ; 2-1; Charleroi          
 ; Antwerp    ; 3-1; Mouscron
 ; Lommel     ; 2-0; Lokeren           
@@ -162,7 +162,7 @@ Date: 9/28/2002
 ; Gent       ; 1-3; Lierse
 ; Antwerp    ; 2-2; Brugge
 *Mouscron    awd Mons              
-; *[awarded; 0-5,; originally 3-2; Mouscron played ineligible player (De Jonckheere)]
+*; *[awarded; 0-5,; originally 3-2; Mouscron played ineligible player (De Jonckheere)]
 ; Westerlo   ; 2-1; GBA                
 ; Standard   ; 2-2; St Truiden
 ; Genk       ; 1-0; La Louvière
@@ -191,7 +191,7 @@ Date: 10/5/2002
 Date: 10/6/2002
 
 *Brugge      awd Mouscron          
-; *[awarded; 5-0,; originally 5-1; Mouscron played ineligible player (Efoulou)]
+*; *[awarded; 5-0,; originally 5-1; Mouscron played ineligible player (Efoulou)]
 ; Anderlecht ; 1-1; Genk               
 
 Round: 9
@@ -542,7 +542,7 @@ Date: 4/5/2003
 ; Brugge     ; 4-2; Mons
 ; Beveren    ; 6-0; Mechelen
 *Lommel      n/p Gent              
-; *[awarded; 0-5,; annulled]
+*; *[awarded; 0-5,; annulled]
 
 Date: 4/6/2003
 
@@ -561,7 +561,7 @@ Date: 4/12/2003
 
 ; Beveren    ; 7-1; Lierse
 *Lokeren     n/p Lommel            
-; *[awarded; 5-0,; annulled]
+*; *[awarded; 5-0,; annulled]
 
 Date: 4/13/2003
 
@@ -582,7 +582,7 @@ Date: 4/19/2003
 ; Mons       ; 2-1; Lierse
 ; Anderlecht ; 2-0; St Truiden
 *Lommel      n/p Antwerp           
-; *[awarded; 0-5,; annulled]
+*; *[awarded; 0-5,; annulled]
 
 Date: 4/20/2003
 
@@ -605,7 +605,7 @@ Date: 4/26/2003
 ; Westerlo   ; 2-3; Standard
 ; Mechelen   ; 2-6; Genk
 *Lommel      n/p Mouscron          
-; *[awarded; 0-5,; annulled]
+*; *[awarded; 0-5,; annulled]
 
 Date: 4/27/2003
 
@@ -627,7 +627,7 @@ Date: 5/4/2003
 
 ; Anderlecht ; 4-0; GBA
 *Charleroi   n/p Lommel            
-; *[awarded; 5-0,; annulled]
+*; *[awarded; 5-0,; annulled]
 ; Mons       ; 0-0; Lokeren
 
 Round: 32

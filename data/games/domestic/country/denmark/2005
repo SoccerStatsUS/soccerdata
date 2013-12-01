@@ -328,7 +328,7 @@ Date: 10/23/2005
   Thomas Frandsen 83;
 
 ; Brøndby     ; 5-0; Midtjylland
-  Johan Elmander 12, Johan Elmander (pk) 71, Johan Elmadner 77, Kasper Lorentzen 42, Kasper Lorentzen 63
+  Johan Elmander 12, Johan Elmander (pk) 71, Johan Elmadner 77, Kasper Lorentzen 42, Kasper Lorentzen 63;
 
 Round: 15 
 Date: 10/26/2005
@@ -342,7 +342,7 @@ Date: 10/26/2005
   Kristian Bak Nielsen 86; Stephan Petersen 21
   
 ; OB          ; 0-2; AaB
-  Patrick Kristensen 35, Simon Bræmer 62
+;  Patrick Kristensen 35, Simon Bræmer 62
   
 ; SønderjyskE ; 1-4; København
   Henrik H. Hansen 10; Alvaro Santos 39, Alvaro Santos 90, Elrio van Heerden 59, Peter Møller 86
@@ -484,7 +484,7 @@ Date: 3/12/2006
   Fredrik Berglund 69, Fredrik Berglund 81;
 
 ; AaB         ; 2-2; Horsens
-  Fredrik Winsnes 37, Rasmus Würtz (pk) 88; Besart Berisha 58, 84
+  Fredrik Winsnes 37, Rasmus Würtz (pk) 88; Besart Berisha 58, Besart Berisha 84
 
 Round: 22 
 Date: 3/18/2006
@@ -518,7 +518,7 @@ Date: 3/25/2006
 Date: 3/26/2006
 
 ; AGF         ; 1-2; Midtjylland 
-  Christer George 3; Magnus Troest 21, 41
+  Christer George 3; Magnus Troest 21, Magnus Troest 41
 
 ; Viborg      ; 1-1; Horsens 
   Steffen Højer (pk) 68; Søren Friis 90
@@ -642,7 +642,7 @@ Date: 4/17/2006
 ; Nordsjælland; 2-2; Midtjylland 
   Joseph Kamwendo 12, Danny Olsen 62; Dennis Sørensen 31, Akeem Agbetu 71
 
-Runde 29
+Round: 29
 Date: 4/22/2006
 
 ; Horsens     ; 0-1; København 
@@ -707,7 +707,7 @@ Date: 5/4/2006
 ; AaB         ; 1-0; Silkeborg 
   Poul Hübertz 43;
  
-Runde 32 
+Round: 32
 Date: 5/7/2006
 
 ; Esbjerg     ; 1-3; AGF 
@@ -728,7 +728,7 @@ Date: 5/7/2006
 ; OB          ; 1-0; København 
   Jose Luis Junior 3;
 
-Runde 33 
+Round: 33
 Date: 5/14/2006
 
 ; København   ; 2-3; Silkeborg 

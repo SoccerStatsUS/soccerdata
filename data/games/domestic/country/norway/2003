@@ -54,7 +54,7 @@ Round: 2
 Date: 4/21/2003
 
 ; Molde       ; 4-0; Lillestrøm
-  Magne Hoseth 8, Magne Hoseth (pk) 15, Magne Hoseth (pk) 34, Daniel Berg Hestad 70
+  Magne Hoseth 8, Magne Hoseth (pk) 15, Magne Hoseth (pk) 34, Daniel Berg Hestad 70;
 
 ; Stabæk      ; 4-1; Odd Grenland
   Christian Holter 20, Tryggvi Gudmundsson 55, Thomas Finstad 59, Christian Wilhelmsson 73; Edwin van Ankeren 5
@@ -190,7 +190,7 @@ Date: 5/25/2003
 ; Bodø/Glimt  ; 0-0; Vålerenga
 
 ; Molde       ; 2-1; Tromsø
-  Trond Strande 8, Thomas Mork 43, Thomas Hafstad (pk) 69
+  Trond Strande 8, Thomas Mork 43; Thomas Hafstad (pk) 69
 
 ; Sogndal     ; 1-1; Aalesund
   Håvard Flo 27; Tor Hogne Aarøy 52
@@ -243,7 +243,7 @@ Date: 6/1/2003
   Christian Holter (pk) 89;
 
 ; Bryne       ; 6-1; Tromsø
-  Kim Rune Hellesund 19, Kim Rune Hellesund 83, Kim Rune Hellesund 88, Kai-Ove Stokkeland 22, Dejan Pavlovic 39, 65; Jonas Johansen 70
+  Kim Rune Hellesund 19, Kim Rune Hellesund 83, Kim Rune Hellesund 88, Kai-Ove Stokkeland 22, Dejan Pavlovic 39, Dejan Pavlovic 65; Jonas Johansen 70
 
 ; Odd Grenland; 1-1; Viking
   Bent Inge Johnsen 44; Toni Kuivasto 90
@@ -260,7 +260,7 @@ Round: 10
 Date: 6/14/2003
 
 ; Rosenborg   ; 5-0; Molde
-  Harald Martin Brattbakk 25, Harald Martin Brattbakk (pk) 28, Frode Johnsen 45, Frode Johnsen 57, Øyvind Storflor 79
+  Harald Martin Brattbakk 25, Harald Martin Brattbakk (pk) 28, Frode Johnsen 45, Frode Johnsen 57, Øyvind Storflor 79;
 
 Date: 6/15/2003
 
@@ -328,7 +328,7 @@ Date: 6/29/2003
   Håvard Flo 84, Rune Buer Johansen 90; Christian Berg 45
 
 ; Odd Grenland; 5-0; Lillestrøm
-  Edwin van Ankeren (pk) 19, Edwin van Ankeren 35, Edwin van Ankeren 75, Martin Wiig 78, Christian Flindt Bjerg 84
+  Edwin van Ankeren (pk) 19, Edwin van Ankeren 35, Edwin van Ankeren 75, Martin Wiig 78, Christian Flindt Bjerg 84;
 
 Date: 6/30/2003
 
@@ -530,7 +530,7 @@ Date: 9/1/2003
 Round: 20 
 Date: 9/13/2003
 
-Rosenborg    3-1 Odd Grenland
+; Rosenborg   ; 3-1; Odd Grenland
   Harald Martin Brattbakk (pk) 27, Harald Martin Brattbakk 67, Frode Johnsen 66; Sebastian Henriksson 69
 
 Date: 9/14/2003

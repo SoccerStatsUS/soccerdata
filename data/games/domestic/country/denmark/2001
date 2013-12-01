@@ -1,4 +1,4 @@
-1;2cBlockSource: http://rsssf.com/tablesd/den02.html
+BlockSource: http://rsssf.com/tablesd/den02.html
 Season: 2001-2002
 Competition: Superligaen
 
@@ -433,7 +433,7 @@ Date: 12/9/2001
   Jens Jessen 52; Michael Hansen 81
 
 ; AGF                    ; 7-0; Lyngby FC
-  Søren Andersen 11, Soren Andersen 24, Henrik Bøgebjerg 15, Leon Andreasen 58, John Jensen 71, Niels Bo Daugaard 76, Nocko Jokovic 85
+  Søren Andersen 11, Soren Andersen 24, Henrik Bøgebjerg 15, Leon Andreasen 58, John Jensen 71, Niels Bo Daugaard 76, Nocko Jokovic 85;
 
 ; Vejle BK               ; 0-4; Silkeborg IF
 ;  Bo Nielsen 24, Mikkel Lindorff 43, Ulrik Pedersen 48, Ulrik Pedersen 89
@@ -502,7 +502,7 @@ Round: 22
 Date: 3/17/2002
 
 ; FC København           ; 6-0; Esbjerg fB 
-  Christian Poulsen 34, Todi Jónsson 48, Sibusiso Zuma 50, Sibusiso Zuma 81, Morten Bisgaard 71, Morten Bisgaard 89
+  Christian Poulsen 34, Todi Jónsson 48, Sibusiso Zuma 50, Sibusiso Zuma 81, Morten Bisgaard 71, Morten Bisgaard 89;
 
 ; OB                     ; 1-0; Vejle BK
   Kaspar Dalgas 39;
@@ -595,7 +595,7 @@ Date: 4/10/2002
 ;  Carsten Fredgaard 59
 
 ; OB                     ; 4-0; Lyngby FC
-  Kaspar Dalgas 3, Kaspar Dalgas 6, Kaspar Dalgas 77, Michael Hemmingsen 52
+  Kaspar Dalgas 3, Kaspar Dalgas 6, Kaspar Dalgas 77, Michael Hemmingsen 52;
 
 ; Viborg FF              ; 3-2; Silkeborg IF
   Saso Petrovski 47, Thomas Frandsen 78, Michael Nonbo 88; Bo Nielsen 40, Lars Brøgger 60
@@ -629,7 +629,7 @@ Date: 4/21/2002
   Peter Tranberg 34; Peter Madsen 12, Peter Madsen 25
 
 ; FC Midtjylland         ; 4-0; Lyngby FC
-  Razak Pimpong, Razak Pimpong 72, Morten Skoubo 48, Morten Skoubo 61
+  Razak Pimpong, Razak Pimpong 72, Morten Skoubo 48, Morten Skoubo 61;
 
 ; OB                     ; 2-1; Esbjerg fB
   Kaspar Dalgas 68, Fernando Derveld 89; Simon Karkov 29
@@ -700,7 +700,7 @@ Date: 5/5/2002
   Morten Skoubo 8, Thomas Thomasberg 90;
 
 ; Vejle BK               ; 2-2; Lyngby FC
-  Jader Baré 67, Christian Keller 80, Christian U. Hansen 47, Christian Hansen 76
+  Jader Baré 67, Christian Keller 80; Christian U. Hansen 47, Christian Hansen 76
 
 ; Brøndby IF             ; 4-1; OB 
   Peter Madsen 12, Peter Madsen 21, Thomas Lindrup 14, Thomas Lindrup 44; Mwape Miti 70
@@ -726,7 +726,7 @@ Date: 5/12/2002
   Bora Zivkovic 37; Mads Jørgensen 89
 
 ; Silkeborg IF           ; 1-0; Vejle BK
-  Henrik Pedersen 74;;
+  Henrik Pedersen 74;
 
 ; Viborg FF              ; 2-1; AB
   Sasho Petrovski 32, Kasper Rynkeby 76; Lars Larsen 70
