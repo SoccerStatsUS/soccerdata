@@ -1,4 +1,6 @@
-season	competition	team	number	position	name	games_played	minutes	goals	assists	shots	fouls
+Competition: USL Pro
+Key: season	competition	team	number	position	name	games_played	minutes	goals	assists	shots	fouls
+
 2011	USL Pro	Antigua Barricudas FC	10	F	Alexander, Kimoi	15	619	0	0	8	6
 2011	USL Pro	Antigua Barricudas FC	3	F	Browne, Theo	7	76	0	0	2	3
 2011	USL Pro	Antigua Barricudas FC	25	M	Burton, Randolph	21	1362	3	2	24	6

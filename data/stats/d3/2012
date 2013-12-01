@@ -1,4 +1,6 @@
-season	team	number	position	name	games_played	points	minutes	goals	assists	shots	fouls
+Competition: USL Pro
+Key: season	team	number	position	name	games_played	points	minutes	goals	assists	shots	fouls
+
 2012	Antigua Barracuda FC	19	F	Aldred, Matthew	19	3	1060	1	1	11	16
 2012	Antigua Barracuda FC	10	F	Alexander, Kimoi	14	1	658	0	1	4	3
 2012	Antigua Barracuda FC	6	M	Blakely, Luke	20		1657	0	0	4	16

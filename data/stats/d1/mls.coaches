@@ -1,4 +1,5 @@
-name	year	team	position	games_played	games_started	minutes	goals	assists	points	shots	shots_on_goal	blocks	fouls_committed	fouls_suffered	offsides	pk_goals	pk_attempts	pks_drawn	pks_committed
+Competition: Major League Soccer
+Key: name	year	team	position	games_played	games_started	minutes	goals	assists	points	shots	shots_on_goal	blocks	fouls_committed	fouls_suffered	offsides	pk_goals	pk_attempts	pks_drawn	pks_committed
 Nowak, Peter	2002	Chicago Fire	M	16	16	1377	3	4	10	23	9		14	43	5			0	0
 Nowak, Peter	2001	Chicago Fire	M	18	18	1560	6	10	22	39	16		15	48	5			0	0
 Nowak, Peter	2000	Chicago Fire	M	28	28	2402	5	14	24	36	17		41	70	2				
