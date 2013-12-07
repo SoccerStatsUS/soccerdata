@@ -1,28 +1,26 @@
-http://www.rsssf.com/tablesh/hong09.html
+BlockSource: http://www.rsssf.com/tablesh/hong09.html
+Season: 2008-2009
+Competition: Nemzeti Bajnokság I
 
-Hungary 2008/09
+* 1.Debreceni Vasutas SC-TEVA   30 21  5  4 70-29 68  Champions
+* 2.Újpest FC                   30 17  8  5 61-38 59  [Budapest]
+* 3.Szombathelyi Haladás        30 16  5  9 44-29 53
+* 4.Zalaegerszegi TE FC         30 15  7  8 52-44 52
+* 5.Kecskeméti TE               30 14  6 10 55-44 48
+* 6.FC Fehérvár                 30 14  6 10 42-34 48  [Székesfehérvár]
+* 7.MTK Hungária FC             30 13  6 11 43-41 45  [Budapest]
+* 8.Gyõri ETO FC                30 11 10  9 57-41 43
+* 9.Gabona Trans-Kaposvár       30 11  7 12 51-46 40
+*10.Vasas SC                    30 11  5 14 42-52 38  [Budapest]
+*11.Paksi SE                    30  9  8 13 38-51 35
+*12.Diósgyõri VTK               30  9  6 15 29-45 33  [Miskolc]
+*13.Budapesti Honvéd            30  8  8 14 31-46 32
+*14.Nyíregyháza Spartacus       30  7 11 12 32-41 32
+*---------------------------------------------------
+*15.BFC Siófok                  30  8  2 20 30-56 26  Relegated
+*16.Rákospalotai EAC            30  3  6 21 33-73 15  Relegated  [Budapest]
 
-Final Table:
-
- 1.Debreceni Vasutas SC-TEVA   30 21  5  4 70-29 68  Champions
- 2.Újpest FC                   30 17  8  5 61-38 59  [Budapest]
- 3.Szombathelyi Haladás        30 16  5  9 44-29 53
- 4.Zalaegerszegi TE FC         30 15  7  8 52-44 52
- 5.Kecskeméti TE               30 14  6 10 55-44 48
- 6.FC Fehérvár                 30 14  6 10 42-34 48  [Székesfehérvár]
- 7.MTK Hungária FC             30 13  6 11 43-41 45  [Budapest]
- 8.Gyõri ETO FC                30 11 10  9 57-41 43
- 9.Gabona Trans-Kaposvár       30 11  7 12 51-46 40
-10.Vasas SC                    30 11  5 14 42-52 38  [Budapest]
-11.Paksi SE                    30  9  8 13 38-51 35
-12.Diósgyõri VTK               30  9  6 15 29-45 33  [Miskolc]
-13.Budapesti Honvéd            30  8  8 14 31-46 32
-14.Nyíregyháza Spartacus       30  7 11 12 32-41 32
----------------------------------------------------
-15.BFC Siófok                  30  8  2 20 30-56 26  Relegated
-16.Rákospalotai EAC            30  3  6 21 33-73 15  Relegated  [Budapest]
-
-Round 1
+Round: 1
 [Jul 25]
 Kaposvár         3-1 MTK
   [Krisztián Zahorecz 25pen, 28pen, Bojan Bozovic 36; Gábor Bori 85]
@@ -44,7 +42,7 @@ Kecskemét        1-2 Paks
 Honvéd           0-1 Vasas
   [János Lázok 81]
 
-Round 2
+Round: 2
 [Aug 1]
 Vasas            4-2 Újpest           
   [Sasa Dobric 11, Norbert Németh 12, Petar Divic 47,
@@ -67,7 +65,7 @@ MTK              1-1 Honvéd
 Gyõr             0-3 Debrecen         
   [Lóránt Oláh 22; István Szucs 29, 41]
 
-Round 3
+Round: 3
 [Aug 8]
 Honvéd           3-1 Diósgyõr   
   [Zoltán Hercegfalvi 25, 61, 92; Mihály Tóth 54]      
@@ -91,7 +89,7 @@ Debrecen         1-0 Fehérvár
 Kecskemét        1-0 Gyõr    
   [Yannick Mbengono 83]           
 
-Round 4
+Round: 4
 [Aug 15]
 Újpest           1-0 Haladás       
   [Péter Rajczi 9]             
@@ -114,7 +112,7 @@ Gyõr             4-2 REAC
   [Péter Bajzát 62, 89, 93, Zoltán Kovács 71; Roland Dancs 44,
    Krisztián Lisztes 76]
 
-Round 5
+Round: 5
 [Aug 22]
 Haladás          5-0 Siófok           
   [Richárd Guzmics 19, Gábor Rajos 25, Krisztián Kenesei 47pen, 72,
@@ -138,7 +136,7 @@ REAC             1-2 Fehérvár
 Honvéd           3-1 Zalaegerszeg     
   [Diego 21, Dieng Abass 29, 43; Matej Miljatovic 7]
 
-Round 6
+Round: 6
 [Aug 29]
 Zalaegerszeg     3-1 MTK
   [Roguy Meye 45, Zsolt Balázs 48, Norbert Hajdú 51; András Pál 80]
@@ -160,7 +158,7 @@ Gyõr             4-1 Honvéd
 Siófok           0-4 Debrecen    
   [Leandro 4, Péter Bíró 33, Péter Szakály 52, Gergely Rudolf 61]     
 
-Round 7
+Round: 7
 [Sep 12]
 Debrecen         2-2 Haladás
   [Gergely Rudolf 18, Lóránt Oláh 80; Péter Tóth 59,
@@ -184,7 +182,7 @@ REAC             1-3 Újpest
   [Krisztián Nyerges 3; Josip Cutuk 5, Mirsad Mijadinoski 18,
    Péter Kabát 44]
 
-Round 8
+Round: 8
 [Sep 19]
 Fehérvár         0-2 MTK
   [Mladen Lambulic 66, Ádám Szabó 84]
@@ -209,7 +207,7 @@ Haladás          3-1 Kecskemét
   [Mirsad Mijadinoski 6, Josip Cutuk 25, Péter Rajczi 64;
    Nemanja Nikolic 60, Krisztián Zahorecz 83]
 
-Round 9
+Round: 9
 [Sep 26]
 Kecskemét        3-0 Debrecen     
   [Tibor Montvai 15, Yannick Mbengono 44, Csaba Csordás 68]    
@@ -231,7 +229,7 @@ MTK              1-2 Nyíregyháza
 REAC             1-2 Haladás    
   [Gábor Torma 62; Krisztián Kenesei 28, Péter Vörös 54]      
 
-Round 10
+Round: 10
 [Oct 3]
 Siófok           0-1 Honvéd           
   [Abraham 37]
@@ -257,7 +255,7 @@ Kecskemét        2-0 Vasas
 Gyõr             1-0 Zalaegerszeg
   [Mario Bicak 90+2]
 
-Round 11
+Round: 11
 [Oct 17]
 Vasas            2-1 Gyõr        
   [Norbert Németh 61, András Tóth 78; Péter Bajzát 4]     
@@ -277,7 +275,7 @@ Paks             1-2 Nyíregyháza
 [Oct 19]
 Diósgyõr         0-0 Újpest           
 
-Round 12
+Round: 12
 [Oct 24]
 Debrecen         4-1 Honvéd      
   [Gergely Rudolf 2, Lóránt Oláh 41, Péter Szakály 58, 61;
@@ -301,7 +299,7 @@ REAC             0-2 Vasas
 Nyíregyháza      1-1 Zalaegerszeg     
   [Aco Stojkov 82; Róbert Waltner 53]
 
-Round 13
+Round: 13
 [Oct 31]
 Zalaegerszeg     2-2 Újpest 
   [Róbert Waltner 24, 71; Zsolt Korcsmár 4, Péter Rajczi 43]          
@@ -324,7 +322,7 @@ Gyõr             0-1 Nyíregyháza
 MTK              0-1 Debrecen 
   [Zoltán Kiss 84]        
 
-Round 14
+Round: 14
 [Nov 7]
 Újpest           1-1 Gyõr    
   [Zoran Supuc 2og; Tibor Tokody 20]         
@@ -346,7 +344,7 @@ Siófok           1-4 Zalaegerszeg
   [László Sütõ 45; Roguy Meye 24, 71, Róbert Waltner 46,
    Péter Máté 90+3]  
 
-Round 15
+Round: 15
 [Nov 14]
 Paks             0-2 Debrecen    
   [Gergely Rudolf 20, Péter Szakály 39]     
@@ -366,7 +364,7 @@ Honvéd           2-1 Kaposvár
 [Nov 16]
 Fehérvár         0-0 Újpest           
 
-Round 16
+Round: 16
 [Feb 21]
 Vasas            3-1 Honvéd
 Fehérvár         2-1 Siófok
@@ -380,7 +378,7 @@ Zalaegerszeg     2-1 Debrecen
 [May 13]
 Gyõr             3-3 Haladás
 
-Round 18
+Round: 18
 [Mar 6]
 Fehérvár         0-1 Debrecen
 [Mar 7]
@@ -393,7 +391,7 @@ Diósgyõr         0-0 Honvéd
 [Mar 8]
 Gyõr             2-0 Kecskemét        
 
-Round 19
+Round: 19
 [Mar 13]
 Haladás          0-2 Újpest
 [Mar 14]
@@ -407,7 +405,7 @@ MTK              2-0 Diósgyõr
 [Mar 16]
 Kaposvár         1-2 Zalaegerszeg     
 
-Round 20
+Round: 20
 [Mar 20]
 Újpest           2-0 Debrecen
 [Mar 21]
@@ -420,7 +418,7 @@ Gyõr             1-1 Kaposvár
 [Mar 22]
 Diósgyõr         1-0 Vasas
 
-Round 21
+Round: 21
 [Apr 3]
 Honvéd           0-0 Gyõr   
 [Apr 4]
@@ -433,7 +431,7 @@ Kaposvár         1-1 Fehérvár
 [Apr 5]
 Vasas            1-1 Haladás
 
-Round 22
+Round: 22
 [Apr 10]
 Gyõr             3-1 MTK
 [Apr 11]
@@ -446,7 +444,7 @@ Fehérvár         0-2 Honvéd
 [Apr 12]
 Zalaegerszeg     1-0 Diósgyõr         
 
-Round 23
+Round: 23
 [Apr 17]
 MTK              0-4 Fehérvár         
 [Apr 18]
@@ -459,7 +457,7 @@ Kecskemét        3-2 Haladás
 [Apr 19]
 Vasas            1-3 Debrecen         
 
-Round 24
+Round: 24
 [Apr 24]
 Újpest           3-0 Honvéd           
 [Apr 25]
@@ -471,7 +469,7 @@ Gyõr             4-1 Paks
 Haladás          1-0 REAC             
 Siófok           2-5 Kaposvár         
 
-Round 25
+Round: 25
 [Apr 28]
 Zalaegerszeg     2-7 Gyõr             
 Paks             0-1 Fehérvár         
@@ -483,7 +481,7 @@ Vasas            1-2 Kecskemét
 [Apr 29]
 MTK              3-2 Újpest           
 
-Round 26
+Round: 26
 [May 1]
 Gyõr             1-1 Vasas            
 Nyíregyháza      2-2 Paks             
@@ -496,7 +494,7 @@ Siófok           0-1 MTK
 [May 3]
 Újpest           2-2 Diósgyõr         
 
-Round 17 
+Round: 17 
 [May 5]
 Haladás          2-1 Fehérvár           
 Honvéd           0-3 MTK
@@ -508,7 +506,7 @@ Kecskemét        2-0 Zalaegerszeg
 REAC             1-2 Paks
 Debrecen         2-2 Gyõr             
 
-Round 27
+Round: 27
 [May 8]
 MTK              0-1 Haladás
 [May 9]
@@ -520,7 +518,7 @@ Diósgyõr         0-1 Siófok
 Kaposvár         2-1 Kecskemét
 Vasas            1-1 REAC
 
-Round 28
+Round: 28
 [May 15]
 Újpest           2-1 Zalaegerszeg
 [May 16]
@@ -533,7 +531,7 @@ Kecskemét        3-1 Honvéd
 [May 17]
 Debrecen         2-2 MTK
 
-Round 29
+Round: 29
 [May 22]
 Diósgyõr         2-3 Debrecen
 [May 23]
@@ -545,7 +543,7 @@ MTK              1-4 Kecskemét
 Honvéd           1-0 REAC
 Vasas            2-1 Kaposvár
 
-Round 30
+Round: 30
 [May 29]
 Újpest           1-2 Fehérvár
 [May 30]
@@ -557,1489 +555,28 @@ Haladás          1-2 Zalaegerszeg
 Siófok           3-2 Gyõr
 Kaposvár         3-1 Honvéd
 
-Final Table:
-
- 1.Debreceni Vasutas SC-TEVA   30 21  5  4 70-29 68  Champions
- 2.Újpest FC                   30 17  8  5 61-38 59  [Budapest]
- 3.Szombathelyi Haladás        30 16  5  9 44-29 53
- 4.Zalaegerszegi TE FC         30 15  7  8 52-44 52
- 5.Kecskeméti TE               30 14  6 10 55-44 48
- 6.FC Fehérvár                 30 14  6 10 42-34 48  [Székesfehérvár]
- 7.MTK Hungária FC             30 13  6 11 43-41 45  [Budapest]
- 8.Gyõri ETO FC                30 11 10  9 57-41 43
- 9.Gabona Trans-Kaposvár       30 11  7 12 51-46 40
-10.Vasas SC                    30 11  5 14 42-52 38  [Budapest]
-11.Paksi SE                    30  9  8 13 38-51 35
-12.Diósgyõri VTK               30  9  6 15 29-45 33  [Miskolc]
-13.Budapesti Honvéd            30  8  8 14 31-46 32
-14.Nyíregyháza Spartacus       30  7 11 12 32-41 32
----------------------------------------------------
-15.BFC Siófok                  30  8  2 20 30-56 26  Relegated
-16.Rákospalotai EAC            30  3  6 21 33-73 15  Relegated  [Budapest]
+* 1.Debreceni Vasutas SC-TEVA   30 21  5  4 70-29 68  Champions
+* 2.Újpest FC                   30 17  8  5 61-38 59  [Budapest]
+* 3.Szombathelyi Haladás        30 16  5  9 44-29 53
+* 4.Zalaegerszegi TE FC         30 15  7  8 52-44 52
+* 5.Kecskeméti TE               30 14  6 10 55-44 48
+* 6.FC Fehérvár                 30 14  6 10 42-34 48  [Székesfehérvár]
+* 7.MTK Hungária FC             30 13  6 11 43-41 45  [Budapest]
+* 8.Gyõri ETO FC                30 11 10  9 57-41 43
+* 9.Gabona Trans-Kaposvár       30 11  7 12 51-46 40
+*10.Vasas SC                    30 11  5 14 42-52 38  [Budapest]
+*11.Paksi SE                    30  9  8 13 38-51 35
+*12.Diósgyõri VTK               30  9  6 15 29-45 33  [Miskolc]
+*13.Budapesti Honvéd            30  8  8 14 31-46 32
+*14.Nyíregyháza Spartacus       30  7 11 12 32-41 32
+*---------------------------------------------------
+*15.BFC Siófok                  30  8  2 20 30-56 26  Relegated
+*16.Rákospalotai EAC            30  3  6 21 33-73 15  Relegated  [Budapest]
 
    
 
-Cup 2008/09
-
-
-Round 1
-[Aug 2]
-Sarkadkeresztúri SE   2-1 Ebesi KSE 
-Devecser SE           0-2 Celldömölki VSE 
-AEK Beloiannisz FC    0-2 FC Dabas 
-[Aug 23]
-Szécsény VSE          3-2 Gyöngyös AK 
-Berkenye SE           0-5 Újpest FC II. 
-Tiszakóród SE        1-18 DVSC II. 
-Csongrád TSE          2-0 Kiskunfélegyházi TK 
-Bodrogkisfaludi SÉE   3-2 Nagyecsed RSE 
-Várbalog KSK          1-1 Vépi KSE 
-Buzsák KSE            0-4 Nagykanizsa TE 1866 MÁV 
-Kaposszerdahely KSE   0-4 Szentlőrinc SE 
-Lipót SK              7-1 Móri SE 
-Kerámia SE Tófej      3-1 Balatonberényi SE 
-Dunaharaszti MTK      1-1 MTK Budapest II. 
-Kishárságy SE        1-19 Bajai LSE 
-[Aug 5]
-Putnok VSE            1-2 Salgótarján-Baglyasalja 
-[Aug 6]
-Dány KSK              0-5 III. KER. TUE
-Kótaj SE              2-1 Kemecse SE 
-Balatonfüredi FC      0-4 Fehérvár FC II. 
-Nagytétényi SE        0-2 Tura VSK 
-Újszászi VVSE         3-2 Monori SE 
-Sülysáp KSK           1-0 Jászapáti VSE 
-Túrkevei VSE          2-0 Méhkeréki SE 
-Viadukt-SE Biatorbágy 1-1 Budapest Honvéd II. 
-Ladánybenei FC        2-3 Százhalombattai LK 
-Mezősas SE            1-5 Békéscsabai Előre 1912 SE 
-Gönyu SE             1-10 VFC P2 SPORT 
-[Aug 9]
-Zalalövő TK           2-4 Rum KSC 
-Pálhalma Agrospeciál  2-4 Szigetszentmiklósi TK 
-SVSE-GYSEV            2-1 Sárvár FC 
-[Aug 10]
-Zalahalápi SE         0-6 Gránit Gyógyfürdő SE 
-Nyírkarászi KSE       2-3 Nyírtelek SE 
-Dombrád SE            3-0 Sárospataki TC 
-Sajókaza SE           2-3 Egri FC 
-Alsóőrs SE            3-1 Tamási SE 
-Kovácshida SE         1-3 Szekszárdi UFC 
-Fertőszentmiklós SE   2-1 Bük TK 
-Ikrény SE             0-8 Bicskei TC
-Győrszemere KSK       3-2 Környe SE 
-Andráshida LSC        3-0 Csörötnek KSK 
-Szentgál Senior SE    2-1 Zalaszentmihály SE 
-Kővágószőlősi SE      0-3 Kaposvár II 
-Tabak SE Tokodaltáró  1-2 KSE Karancslapujtő 
-Börcs KSK             4-1 Komárom VSE 
-Tiszapalkonyai SE     0-0 Ajak SE 
-Kisteleki TE          0-0 Kiskőrösi LC 
-Majsi Táncsics SE     0-3 Decs KSE 
-TGT-Tomor-Lak KSE     4-1 Tiszabecs LC 
-Csabrendek FC         4-3 Vasszécseny SE 
-Leányfalu SE          3-2 Nagybátonyi SC 
-MP-Widenta Romhány    1-3 REAC II. 
-Bogács KSK            0-2 Pétervására SE 
-AGFS Páterdomb        1-2 Balatonszárszó NSE 
-Abaújszántó KSE       1-3 Várda SE 
-[Aug 12]
-Harkakötönyi TSE      1-7 Algyő SK 
-PTE-PEAC              3-4 Nagybajomi AC 
-Hajósi FC            2-10 Paksi FC II. 
-[Aug 13]
-Felsőtárkány SC       1-3 Ózd FC 
-
-Round 2
-[Aug 19]
-Szekszárdi UFC        3-4 MFC 
-[Aug 20]
-Tura VSK              7-1 Százhalombattai LK 
-Csabrendek FC         1-2 MTE 1904 
-Szigetszentmiklósi TK 1-0 Újpest FC II. 
-Bicskei TC            1-2 Integrál DAC
-Nyírtelek SE          3-0 Tomor-Lak KSE 
-Dunaharaszti MTK      2-1 Budaörs 
-III. KER. TUE         4-1 Tököl 
-Soroksár              1-2 Vecsési FC 
-REAC II.              2-0 Vác-Újbuda 
-KSE Karancslapujtő    0-6 Kazincbarcika 
-Mezőkövesdi SE        0-0 Baktalórántháza VSE
-Tiszapalkonyai SE     1-2 Várda SE 
-Bodrogkisfaludi SÉE   0-3 Tuzsér SE 
-Túrkevei VSE          1-3 Békéscsabai Előre 1912 SE 
-Kiskőrösi LC          2-3 Algyő SK
-Decs KSE              3-2 Komlói BSK 
-Andráshida LSC        3-2 Nagybajomi AC 
-Börcs KSK             0-3 Viadukt-SE Biatorbágy
-Várbalog KSK          0-7 Celldömölki VSE 
-Sülysáp KSK           0-2 Jászberényi SE
-Szentlőrinc SE        3-0 Paksi FC II.
-Sarkadkeresztúri SE   0-5 Makói FC
-Szécsény VSE          4-2 Ózd FC 
-FC Dabas              2-1 BKV Előre 
-Kótaj SE              1-3 Bőcs KSC
-Rum KSC               3-0 Fertőszentmiklós SE 
-Nagykanizsa TE        4-3 Kaposvölgye VSC
-Gránit Gyógyfürdő SE  1-0 Kaposvár II.
-Kerámia SE Tófej      1-6 Barcsi SC 
-Alsóőrs SE            0-5 Fehérvár FC II.
-Szentgál Senior SE    0-4 Dunaújváros FC 
-Dombrád SE            3-5 DVSC II. 
-Pétervására SE        1-2 Salgótarján-Baglyasalja
-Bajai LSE             0-1 Kozármisleny 
-Gyirmót SE            1-4 Pápa FC 
-Szolnoki MÁV          3-2 Ceglédi VSE
-Lipót SK              1-1 Tatabánya FC 
-SVSE-GYSEV            1-0 FC Ajka 
-[Aug 26]
-Balatonszárszó NSE    2-4 VFC 
-[Aug 27]
-Győrszemere KSK       3-8 Felcsút FC 
-Csongrád TSE          0-3 Orosháza FC 
-Újszászi VVSE         3-0 Egri FC 
-[Aug 28]
-Leányfalu SE          0-9 FTC 
-
-Round 3
-[Sep 2]
-Tuzsér SE             1-1 Mezőkövesdi SE 
-[Sep 3]
-Rum KSC               3-1 Nagykanizsa TE 1866 MÁV 
-Andráshida LSC        0-1 Kaposvár 
-Gránit Gyógyfürdő SE  1-0 Barcsi SC 
-Decs KSE              1-4 PMFC 
-Algyő SK              1-0 Orosháza FC 
-VIADUKT-SE Biatorbágy 3-4 Dunaújváros FC 
-REAC II.              1-3 Fehérvár FC II. 
-Dunaharaszti MTK      2-4 Vasas 
-Várda SE              1-5 DVSC
-Újszászi VVSE         5-1 Szécsény VSE 
-Celldömölki VSE       2-1 SVSE-GYSEV 
-ESMTK                 4-3 Szolnoki MÁV
-Makói FC              1-0 Békéscsabai Előre 1912 SE 
-Integrál DAC          0-1 Szombathelyi Haladás
-Tatabánya FC          0-3 Fehérvár FC 
-Kozármisleny          1-0 Paksi FC
-Bőcs KSC              1-0 Nyíregyháza Spartacus
-FC Dabas              0-6 REAC 
-Salgótarján-Bagly.    0-1 Kazincbarcika
-Vecsési FC            4-6 Újpest FC 
-Nyírtelek SE          2-5 DVTK 
-MTE 1904              2-4 Pápa FC 
-VFC                   2-1 ZTE 
-Jászberényi SE        1-3 Kecskeméti TE
-III. KER. TUE         2-5 Felcsút FC 
-Tura VSK              1-2 Honvéd 
-Szigetszentmiklósi TK 1-1 FTC
-[Sep 4]
-Szentlőrinc SE        0-2 BFC Siófok
-
- 
-Round 4
-[Sep 17]
-Algyő SK             1-10 DVSC
-[Sep 23]
-ESMTK                 0-4 Kecskeméti TE
-Kozármisleny          2-2 MTK Budapest
-Felcsút FC            5-6 Fehérvár FC 
-[Sep 24]
-Makói FC              1-0 DVTK
-Kazincbarcika         2-1 Vasas 
-Celldömölki VSE       0-4 Pápa FC 
-Tuzsér SE             1-2 Újpest FC 
-Gránit Gyógyfürdő SE  0-6 Kaposvár 
-Rum KSC               0-3 BFC Siófok 
-Újszászi VVSE         0-3 REAC 
-Dunaújváros FC        1-1 Bőcs KSC 
-Fehérvár FC II.       4-0 VFC 
-DVSC II.              0-1 Budapest Honvéd 
-PMFC                  0-5 Győri ETO FC 
-[Sep 25]
-FTC                   1-2 Szombathelyi Haladás
-
-Round 5
-
-First Legs
-[Oct 8]
-Fehérvár FC II.       0-4 BFC Siófok 
-Kazincbarcika         2-0 Pápa FC 
-Makói FC              0-2 Budapest Honvéd 
-Kaposvár              2-4 MTK Budapest 
-Kecskeméti TE         1-1 REAC 1-1
-Bőcs KSC              0-3 Újpest FC 
-Fehérvár FC           2-1 DVSC
-2008.10.10.
-Szombathelyi Haladás  3-2 Győri ETO FC 
-
-Second Legs
-[Oct 21]
-MTK Budapest          6-1 Kaposvár
-DVSC                  1-0 Fehérvár FC
-Budapest Honvéd       3-1 Makói FC     
-[Oct 22]
-REAC                  2-2 Kecskeméti TE
-BFC Siófok            4-1 Fehérvár FC II.
-Pápa FC               1-1 Kazincbarcika 
-Újpest FC             7-0 Bőcs KSC 
-Győri ETO FC          4-0 Szombathelyi Haladás 
-
-Quarterfinals
-
-First Legs 
-[Mar 10]
-BFC Siófok            2-0 DVSC
-[Mar 11]
-MTK Budapest          1-2 Újpest FC
-Kazincbarcika         1-2 Győri ETO FC 
-Budapest Honvéd       2-0 Kecskeméti TE
-
-Second Legs
-[Mar 17]
-DVSC                  1-1 BFC Siófok
-Újpest FC             2-3 MTK Budapest 
-[Mar 18]
-Győri ETO FC          7-0 Kazincbarcika
-Kecskeméti TE         1-4 Budapest Honvéd 
-
-Semifinals
-
-First Legs
-[Apr 14]
-Győri ETO FC          2-1 MTK Budapest
-[Apr 15]
-BFC Siófok            1-2 Budapest Honvéd 
-
-Second Legs
-[Apr 21] 
-Budapest Honvéd       2-2 BFC Siófok  
-[Apr 22]
-MTK Budapest          2-2 Győri ETO FC 
-
-Final
-
-First Leg [May 20]
-Győri ETO FC          0-1 Budapest Honvéd  
-
-Second Leg [May 26]
-Budapest Honvéd       0-0 Győri ETO FC 
-
-
-
-Second Level 2008/09
-
-
-Eastern Group (Keleti csoport)
-
-Final Table:
-
- 1.Ferencvárosi TC             30 25  3  2 94-22 78  Promoted
----------------------------------------------------
- 2.Debreceni VSC II            30 19  4  7 72-38 61
- 3.Makói FC                    30 17  5  8 61-44 56
- 4.Bõcs KSC                    30 15  7  8 56-34 52
- 5.Kazincbarcika SC FC         30 14  9  7 52-47 51
- 6.Szolnoki MÁV-Mondi FC       30 13  8  9 52-42 47
- 7.MTK II (Budapest)           30 12  6 12 42-45 42
- 8.BKV Elõre SC                30 11  7 12 53-47 40
- 9.Vác-Újbuda LTC              30 11  4 15 63-67 37
-10.Ceglédi VSE                 30 10  7 13 41-48 37
-11.Vecsési FC                  30 10  6 14 45-51 36
-12.Békéscsabai Elõre SE 1912   30  9  7 14 42-62 34
-13.Baktalórántháza VSE         30  8  6 16 37-63 30
----------------------------------------------------
-14.ESMTK                       30  8  5 17 47-68 29  Relegated
-15.Jászberényi SE              30  7  7 16 31-56 28  Relegated
-16.Tököl KSK                   30  4  3 23 29-83 15  Relegated
-
-Round 1
-[Aug 9]
-Vác              3-3 Vecsés
-  [Gáspár 77, Kocsis 79, Horváth T. 80; Folmer 8, Búza 15,
-   Hungler 38]
-Cegléd           2-3 Debrecen II
-  [Medgyesi 1, 17; Rezes 22, Kardos 42, Bódi 81]
-Jászberényi      awd Bõcs                [awarded 0-3, originally 1-1]
-Kazincbarcika    1-2 Szolnok
-  [Stevica 14; Kotula 32, 61]
-[Aug 10]
-MTK II           3-0 Baktalórántháza  
-  [Molnár M. 22, 58, Szabó L. 43]
-ESMTK            1-2 Makó
-  [Szõke 66; Maróti 12, Bány 53]
-BKV Elõre        2-1 Békéscsaba
-  [Baranyai 75, Csopaki 87; Bakró 38]
-[Aug 11]
-Ferencváros      6-2 Tököl
-  [Shaw 10, 63, Ferenczi 45, 59, 83, Gálhidi 59og;
-   Gasparik 20, Csabai 75]
- 
-Round 2
-[Aug 16]
-Tököl            3-8 Vác
-  [Medgyesi 82, 83, Kurucsai 85; Kovács P. 11,
-   Margitics 43, Kocsis 45, 60, Vén 51, 89, 90+1, Langó 86]
-Debrecen II      1-4 MTK II
-  [Kardos 15; Kornis 54, 70, Lencse 74, 82]
-Szolnok          1-1 BKV Elõre
-  [Antal 32; Gulyás 24]
-Baktalórántháza  2-1 Kazincbarcika
-  [Szabó R. 22, Tolnai 45; Kerekes 81]
-Békéscsaba       4-3 Jászberényi
-  [Pozsár 52, 67, 72, 84; Bubori 25, Rebecsák 46, Lukácsi 59]
-[Aug 17]
-ESMTK            1-1 Vecsés
-  [Farkas A. 77; Folmer 42]
-Bõcs             2-1 Ferencváros
-  [Bardi 25, Martis 39; Ferenczi 53]
-Makó             0-1 Cegléd
-  [Selei 56]
-
-Round 3
-[Aug 23]
-Szolnok          4-0 Baktalórántháza
-  [Antal 11, Szabó T. 55, Zana 82, 90]
-Vác              2-3 Bõcs
-  [Kovács P. 14, Kocsis 72; Bardi 21, 53, Gaál 83]
-Cegléd           1-0 Vecsés
-  [Miklósvári 18]
-Jászberényi      1-1 BKV Elõre
-  [Móczó 64; Páles 45]
-[Aug 24]
-Kazincbarcika    2-1 Debrecen II
-  [Binder 32, 41; Huszák 62]
-MTK II           0-0 Makó
-ESMTK            3-4 Tököl
-  [Szõke 31, 85, Szabó G. 46; Gasparik 5, 12, 14, Semsei 28]
-[Aug 25]
-Ferencváros      6-1 Békéscsaba
-  [Ferenczi 22, 27, 39, 46, Dragóner 62, Shaw 83; Pozsár 75]
-
-Round 4
-[Aug 30]
-Debrecen II      0-0 Baktalórántháza
-Tököl            0-1 Cegléd
-  [Buzás 5]
-Jászberényi      4-1 Szolnok
-  [Hevesi-Tóth 19, 21, 76, Rebecsák 68; Szabó T. 39]
-Vecsés           6-0 MTK II
-  [Králik 40, Hungler 66, Faragó 72, Hoffmann 75,
-   Mészáros 82, Dévai 86]
-Békéscsaba       2-1 Vác
-  [Závoda 20, Pozsár 45; Gáspár 56]
-[Aug 31]
-Bõcs             4-0 ESMTK
-  [Bardi 19, 54, Vass 49, Molnár Zs. 66]
-Makó             3-0 Kazincbarcika 
-  [Magyar 39, Maróti 66, Puskás 70]
-BKV Elõre        0-2 Ferencváros
-  [Ashmore 17, Shaw 45]
-
-Round 5 [Sep 7]
-Cegléd           2-4 Bõcs 
-  [Villányi 9, Szabó Z. 53; Siróczki 4, Irhás 33, Cséke 87,
-   Ondó 90+3]
-Kazincbarcika    3-1 Vecsés  
-  [Bányai 51, 61, Zimányi 77; Folmer 57]
-Vác              1-1 BKV Elõre  
-  [Bánáti 5; Halgas 26]
-Szolnok          1-3 Debrecen II   
-  [Antal 78; Omagbemi 50, 89, Spitzmüller 63]
-ESMTK            8-1 Békéscsaba 
-  [Szõke 3, 53, 65, Ujhegyi 35, 56, 68, 72, Füzi K. 86; 
-   Kovács D. 67]
-MTK II           2-1 Tököl  
-  [Szekeres 69, Molnár M. 85; Kurucsai 22]
-Baktalórántháza  4-1 Makó
-  [Kozma J. 11, 43, 62, Szabó R. 33; Dálnaki 71]
-Ferencváros      1-0 Jászberényi
-  [Shaw 20]
-
-Round 6
-[Sep 13]
-Bõcs             4-1 MTK II           
-  [Cséke 20, 53, Zsarnai 29, Martis 76; Szabó L. 68]
-Vecsés           2-1 Baktalórántháza  
-  [Faragó 14, Búza 21; Tolnai 24]
-Békéscsaba       2-3 Cegléd           
-  [Ábel 10, Pozsár 31; Medgyesi 8, Szabó Z. 35, Borbély 40og]
-Jászberényi      4-2 Vác              
-  [Rebecsák 14, 42, Hidvégi 20, Móczó 45; Bánáti 35,
-   Tányéros 69]
-Tököl            1-3 Kazincbarcika    
-  [Varga L. 58; Kerekes 5, Kovács P. 7, Pintér 90]
-[Sep 14]
-Makó             1-3 Debrecen II   
-  [Maróti 31; Rezes 13, Fodor 52, Szilágyi 73]
-BKV Elõre        2-0 ESMTK            
-  [Csopaki 30, 82]
-[Sep 15]
-Ferencváros      8-1 Szolnok          
-  [Tóth B. 25, Shaw 36, 63, Ferenczi 57, 70, 72, Fitos 77,
-   Abdi 81; Antal 29]
-
-Round 7
-[Sep 20]
-MTK II           2-3 Békéscsaba   
-  [Szabó L. 9, Molnár 61; Pozsár 13, Polczer 83, Ábel 87]
-Kazincbarcika    1-1 Bõcs             
-  [Stevica 47; Ondó 82]
-Baktalórántháza  0-1 Tököl            
-  [Palásti 84]
-Cegléd           1-1 BKV Elõre        
-  [Medgyesi 46; Galántai 4]
-[Sep 21]
-Szolnok          1-1 Makó             
-  [Szabó T. 15; Magyar 19]
-Debrecen II      4-1 Vecsés           
-  [Varga J. 19, Szilágyi 44, 64, Bódi 71; Folmer 77]
-ESMTK            2-0 Jászberényi      
-  [Ujhegyi 63, Füzi K. 65]
-[Sep 22]
-Vác              0-4 Ferencváros      
-  [Ferenczi 55, 76, Moussa 78, Tóth B. 81]
-
-Round 8
-[Sep 27]
-Jászberényi      1-2 Cegléd           
-  [Németh Gy. 84; Leskó 52, Horváth D. 67]
-Vác              3-0 Szolnok          
-  [Hegedűs 16, Kocsis 70, 74]
-Tököl            1-3 Debrecen II      
-  [Gasparik 28; Rezes 22, 87, Urbin 75]
-Békéscsaba       0-0 Kazincbarcika    
-Vecsés           6-2 Makó             
-  [Hungler 18, 72, Folmer 20, 80, Hoffmann 26, Lukács 69;
-   Maróti 64, Schreiber 86]
-[Sep 28]
-BKV Elõre        2-0 MTK II           
-  [Halgas 26, 64]
-Bõcs             5-0 Baktalórántháza  
-  [Menougong 11, 24, Zsarnai 58, Ondó 75, Lipták 89]
-Ferencváros      3-1 ESMTK            
-  [Kamate 12, Ferenczi 15, Zsivóczky 40; Tarcsa 64]
-
-Round 9
-[Oct 4]
-Kazincbarcika    4-2 BKV Elõre        
-  [Engi 21, Bányai 82, 88, Debreceni 90; Benke 28, 47]
-Cegléd           1-1 Ferencváros      
-  [Horváth D. 37; Abdi 16]
-Szolnok          3-0 Vecsés           
-  [Kotula 18, 87, Kiss K. 69]
-[Oct 5]
-Baktalórántháza  2-1 Békéscsaba       
-  [Szabó R. 77, Illés 86; Pozsár 40]
-Debrecen II      1-0 Bõcs             
-  [Szilágyi 90+1]
-Makó             7-1 Tököl            
-  [Gévai 11, Magyar 45, Bány 60, 77, Maróti 66, 80,  
-   Hadár 88; Gasparik 13]
-ESMTK            0-2 Vác              
-  [Rob 3, 7]
-MTK II           2-1 Jászberényi      
-  [Kákonyi 16, Ladiszlai 76; Hevesi-Tóth 42]
-
-Round 10 [Oct 12]
-Vác              2-2 Cegléd           
-  [Rob 18, Kovács P. 47; Szabó Z. 6, Horváth D. 59]
-Bõcs             3-1 Makó             
-  [Ondó 49, 66, Siróczki 81; Schreiber 73]
-Jászberényi      0-0 Kazincbarcika    
-Békéscsaba       1-3 Debrecen II      
-  [Pozsár 26; Szilágyi 1, 51, Urbin 49]
-BKV Elõre        3-0 Baktalórántháza  
-  [Halgas 8, Gulyás 60, Hammer 71]
-ESMTK            0-0 Szolnok          
-Tököl            0-0 Vecsés           
-Ferencváros      0-0 MTK II           
-
-Round 11
-[Oct 18]
-Szolnok          3-0 Tököl            
-  [Mile 9, Bozori 18, Hegedűs 79]
-Kazincbarcika    1-1 Ferencváros      
-  [Debreceni 60; Pölöskey 41]
-Vecsés           1-1 Bõcs             
-  [Folmer 76; Menougong 18]
-Cegléd           3-1 ESMTK            
-  [Medgyesi 46, Kõvári 62og, Villányi 76; Vörös 49]
-Baktalórántháza  4-2 Jászberényi      
-  [Kozma J. 2, Illés L. 9, 72, Szabó R. 45; Hamar 36,
-   Mohácsi 86]
-[Oct 19]
-Debrecen II      3-4 BKV Elõre        
-  [Urbin 52, 86, Szilágyi 53; Csopaki 17, 64, 74, Benke 71]
-Makó             3-1 Békéscsaba       
-  [Magyar 10, Bány 34, Maróti 73; Bernáth 79]
-MTK II           1-1 Vác              
-  [Tischler 90; Rob 39]
-
-Round 12
-[Oct 25]
-Jászberényi      1-1 Debrecen II      
-  [Bubori 6; Nagy R. 84]
-Békéscsaba       4-2 Vecsés           
-  [Bernáth 68, 82, Ködöböcz 78, Nagy R. 90+1; Folmer 74,
-   Lukács 76]
-Vác              6-1 Kazincbarcika    
-  [Hegedűs 18, 55, Rob 53, Kocsis 63, 68, 87; Kerékgyártó 15]
-Cegléd           0-0 Szolnok          
-Ferencváros      3-0 Baktalórántháza  
-  [Morrison 27, Tóth B. 42, Pölöksey 64]
-[Oct 26]
-Bõcs             4-0 Tököl            
-  [Cséke 40, Menougong 85, 90, Ondó 90]
-BKV Elõre        3-4 Makó             
-  [Gulyás 16, 24, Csopaki 36; Maróti 3, 57, Bány 51, Hadár 85]
-ESMTK            0-3 MTK II           
-  [Eppel 22, 70, Kákonyi 39]
-
-Round 13
-[Nov 1]
-Szolnok          1-0 Bõcs      
-  [Kotula 60]
-Vecsés           0-0 BKV Elõre        
-Kazincbarcika    2-2 ESMTK            
-  [Binder 63, Romhányi 83; Farkas A. 6, 52]
-Baktalórántháza  2-1 Vác              
-  [Rákóczi 37, Illés L. 83; Vén 21]
-Tököl            0-3 Békéscsaba       
-  [Szeverényi 20, Ursz 74, Kovács D. 76]
-[Nov 2]
-MTK II           0-1 Cegléd           
-  [Medgyesi 76]
-Makó             1-1 Jászberényi      
-  [Bány 68; Murinai 64]
-Debrecen II      0-1 Ferencváros      
-  [Shaw 31]
-
-Round 14
-[Nov 8]
-Cegléd           1-2 Kazincbarcika    
-  [Selei 38; Binder 79, 83]
-Jászberényi      1-0 Vecsés           
-  [Majzik 78]
-Vác              0-1 Debrecen II      
-  [Szilágyi 57]
-Békéscsaba       1-3 Bõcs             
-  [Ursz 28; Irhás 24, Zsarnai 26, Vasas 90+1]
-[Nov 9]
-ESMTK            4-0 Baktalórántháza  
-  [Ujhegyi 19, 68, Tvaruska 45, Vörös 90]
-BKV Elõre        4-0 Tököl            
-  [Csopaki 49, 88, Skita 63, Csépe 70og]
-MTK II           2-1 Szolnok          
-  [Eppel 18, Rodenbücher 67; Szabó T. 5]
-Ferencváros      3-2 Makó             
-  [Zsivóczky 13, Szkukalek 29, Dragóner 53; Maróti 24, Varga R. 48]
-
-Round 15
-[Nov 15]
-Baktalórántháza  3-0 Cegléd           
-  [Szabó R. 41, 44, Illés L. 56]
-Kazincbarcika    1-0 MTK II           
-  [Binder 72]
-Szolnok          1-2 Békéscsaba       
-  [Bozori 62; Pozsár 59, Kovács D. 83]
-Tököl            1-2 Jászberényi      
-  [Palásti 27; Hamar 5, Lukácsi 33]
-Vecsés           0-4 Ferencváros      
-  [Pölöskey 28, Zsivóczky 45, Dragóner 48, Fülöp 86]
-[Nov 16]
-Debrecen II      3-1 ESMTK            
-  [Urbin 8, 21, Rezes 47; Péter 40]
-Makó             5-1 Vác              
-  [Magyar 16, 30, Podonyi 47, Szamosszegi 53, Varga R. 65;
-   Bánáti]
-Bõcs             1-1 BKV Elõre        
-  [Irhás 32; Varga E. 88]
-
-Round 16
-[Mar 7]
-Tököl            0-7 Ferencváros
-Baktalórántháza  1-1 MTK II
-Vecsés           2-1 Vác
-Békéscsaba       2-0 BKV Elõre   
-Szolnok          2-2 Kazincbarcika 
-[Mar 8]
-Bõcs             2-0 Jászberényi
-Makó             1-0 ESMTK
-Debrecen II      3-1 Cegléd
-
-Round 17
-[Mar 14]
-Cegléd           0-3 Makó
-Vecsés           6-0 ESMTK
-Kazincbarcika    2-2 Baktalórántháza 
-Vác              3-2 Tököl
-Ferencváros      4-1 Bõcs  
-[Mar 15]
-MTK II           1-4 Debrecen II 
-Jászberényi      0-0 Békéscsaba  
-BKV Elõre        0-1 Szolnok
-
-Round 18
-[Mar 21]
-Tököl            1-2 ESMTK
-Vecsés           2-1 Cegléd           
-Baktalórántháza  awd Szolnok             [awarded 0-3, originally 2-2]
-[Mar 22]
-BKV Elõre        3-1 Jászberényi      
-Makó             2-1 MTK II           
-Bõcs             1-2 Vác              
-Debrecen II      4-0 Kazincbarcika    
-[Mar 24]
-Békéscsaba       0-1 Ferencváros      
-
-Round 19 [Mar 29]
-Cegléd           0-1 Tököl
-ESMTK            4-3 Bõcs  
-MTK II           2-0 Vecsés           
-Vác              3-0 Békéscsaba  
-Szolnok          1-0 Jászberényi      
-Kazincbarcika    2-2 Makó
-Baktalórántháza  4-3 Debrecen II 
-Ferencváros      2-1 BKV Elõre        
-
-Round 20
-[Apr 4]
-Vecsés           0-1 Kazincbarcika    
-Békéscsaba       0-3 ESMTK         
-Tököl            1-2 MTK II           
-[Apr 5]
-Bõcs             1-0 Cegléd
-Debrecen II      4-1 Szolnok          
-Makó             1-2 Baktalórántháza
-Jászberényi      0-1 Ferencváros      
-BKV Elõre        2-4 Vác              
-
-Round 21
-[Apr 11]
-Kazincbarcika    4-1 Tököl            
-Cegléd           4-2 Békéscsaba       
-Baktalórántháza  0-1 Vecsés           
-Vác              2-3 Jászberényi      
-Szolnok          0-3 Ferencváros      
-ESMTK            3-3 BKV Elõre        
-[Apr 12]
-MTK II           1-0 Bõcs             
-Debrecen II      2-1 Makó             
-
-Round 22
-[Apr 18]
-Ferencváros      6-1 Vác              
-Tököl            0-0 Baktalórántháza
-Békéscsaba       1-1 MTK II           
-Vecsés           3-2 Debrecen II      
-[Apr 19]
-Makó             2-1 Szolnok          
-Bõcs             2-2 Kazincbarcika    
-Jászberényi      3-1 ESMTK         
-BKV Elõre        0-2 Cegléd
-
-Round 23
-[Apr 25]
-Kazincbarcika    3-1 Békéscsaba       
-Cegléd           0-0 Jászberényi      
-Baktalórántháza  0-1 Bõcs             
-Szolnok          5-1 Vác              
-[Apr 26]
-ESMTK            0-3 Ferencváros      
-MTK II           1-0 BKV Elõre        
-Makó             1-0 Vecsés           
-Debrecen II      3-0 Tököl            
-
-Round 24 [May 3]
-Ferencváros      4-1 Cegléd           
-Bõcs             0-0 Debrecen II      
-Békéscsaba       2-1 Baktalórántháza  
-Tököl            2-3 Makó             
-Jászberényi      1-5 MTK II           
-Vác              3-2 ESMTK            
-BKV Elõre        4-3 Kazincbarcika    
-Vecsés           0-3 Szolnok          
-
-Round 25
-[May 9]
-Vecsés           2-1 Tököl            
-Szolnok          6-0 ESMTK            
-Baktalórántháza  2-3 BKV Elõre        
-Kazincbarcika    1-0 Jászberényi      
-Cegléd           1-4 Vác              
-[May 10]
-Makó             2-1 Bõcs             
-Debrecen II      2-2 Békéscsaba       
-MTK II           1-2 Ferencváros      
-
-Round 26
-[May 16]
-Ferencváros      5-0 Kazincbarcika    
-Békéscsaba       1-1 Makó             
-Tököl            1-1 Szolnok          
-Vác              2-3 MTK II           
-[May 17]
-Bõcs             2-1 Vecsés           
-ESMTK            3-1 Cegléd           
-Jászberényi      1-1 Baktalórántháza  
-BKV Elõre        1-2 Debrecen II      
-
-Round 27
-[May 23]
-Tököl            1-2 Bõcs             
-Szolnok          1-1 Cegléd           
-Baktalórántháza  2-3 Ferencváros      
-Kazincbarcika    4-1 Vác              
-Vecsés           0-0 Békéscsaba       
-[May 24]
-Makó             2-1 BKV Elõre        
-Debrecen II      7-0 Jászberényi      
-MTK II           1-2 ESMTK            
-
-Round 28
-[May 30]
-BKV Elõre        4-0 Vecsés           
-Jászberényi      0-3 Makó             
-Cegléd           1-1 MTK II           
-Vác              2-1 Baktalórántháza  
-Békéscsaba       3-1 Tököl            
-[May 31]
-ESMTK            0-1 Kazincbarcika    
-Bõcs             1-1 Szolnok          
-[Jun 1]
-Ferencváros      3-1 Debrecen II      
-
-Round 29 
-[Jun 6]
-Tököl            2-1 BKV Elõre        
-Baktalórántháza  2-2 ESMTK            
-Kazincbarcika    2-0 Cegléd           
-Szolnok          3-1 MTK II           
-Vecsés           4-0 Jászberényi      
-[Jun 7]
-Makó             2-1 Ferencváros      
-Debrecen II      1-0 Vác              
-Bõcs             0-0 Békéscsaba       
-
-Round 30 [Jun 13]
-Ferencváros      5-1 Vecsés           
-Jászberényi      1-0 Tököl            
-Vác              1-2 Makó             
-BKV Elõre        3-1 Bõcs             
-Békéscsaba       1-3 Szolnok          
-MTK II           0-3 Kazincbarcika    
-Cegléd           7-1 Baktalórántháza  
-ESMTK            1-4 Debrecen II      
-
-Final Table:
-
- 1.Ferencvárosi TC             30 25  3  2 94-22 78  Promoted
----------------------------------------------------
- 2.Debreceni VSC II            30 19  4  7 72-38 61
- 3.Makói FC                    30 17  5  8 61-44 56
- 4.Bõcs KSC                    30 15  7  8 56-34 52
- 5.Kazincbarcika SC FC         30 14  9  7 52-47 51
- 6.Szolnoki MÁV-Mondi FC       30 13  8  9 52-42 47
- 7.MTK II (Budapest)           30 12  6 12 42-45 42
- 8.BKV Elõre SC                30 11  7 12 53-47 40
- 9.Vác-Újbuda LTC              30 11  4 15 63-67 37
-10.Ceglédi VSE                 30 10  7 13 41-48 37
-11.Vecsési FC                  30 10  6 14 45-51 36
-12.Békéscsabai Elõre SE 1912   30  9  7 14 42-62 34
-13.Baktalórántháza VSE         30  8  6 16 37-63 30
----------------------------------------------------
-14.ESMTK                       30  8  5 17 47-68 29  Relegated
-15.Jászberényi SE              30  7  7 16 31-56 28  Relegated
-16.Tököl KSK                   30  4  3 23 29-83 15  Relegated
-
-
-
-Western Group (Nyugati csoport)
-
-Final Table:
-
- 1.Gyirmót SE                  30 20  7  3 60-30 67
----------------------------------------------------
- 2.Lombard Pápa Termál FC      30 20  6  4 65-19 66  Promoted
- 3.Pécsi MFC                   30 20  5  5 62-21 65
- 4.FC Tatabánya                30 15  6  9 49-35 51
- 5.FC Ajka                     30 13 10  7 44-31 49
- 6.Kaposvölgye VSC             30 14  6 10 45-42 48
- 7.Budaörsi SC                 30 11  7 12 48-51 40
- 8.Kozármisleny SE             30 10  9 11 40-40 39
- 9.Zalaegerszegi TE II         30 10  8 12 41-43 38
-10.Felcsút FC                  30 10  8 12 37-41 38
-11.Integrál DAC SE             30  9  7 14 38-39 34
-12.Barcsi SC                   30  9  6 15 33-52 33
-13.Gyõri ETO FC II             30  9  5 16 46-55 32
----------------------------------------------------
-14.Bajai LSE                   30  8  8 14 35-44 32  Relegated
-15.Százhalombattai LK          30  5  7 18 24-59 22  Relegated
-16.Dunaújváros FC Prelasti     30  4  1 25 16-81 13  Relegated
-
-NB: Dunaújváros withdrew or excluded during winter break; all
-    remaining matches awarded 0-3 against them
-
-NB: Gyirmót SE did not obtain license for first division and
-    Lombard Pápa Termál FC were promoted instead
-
-Round 1
-[Aug 9]
-Kozármisleny     2-0 Kaposvölgye 
-  [Lauer 43, Kresz 50]
-Baja             3-1 Barcs
-  [Kohány 54, Sziegl 60, Roni 73; Tolnai 44]
-Budaörs          1-0 Tatabánya
-  [Farkas J. 46]
-DAC              1-2 Pécs
-  [Müller 39; Szalai 49, Lovrencsics 62]
-Pápa             2-1 Felcsút
-  [Alex 76, 82; Varga I. 73]
-Gyirmót          0-0 Ajka
-[Aug 10]
-Gyõr II          1-1 Százhalombatta
-  [Lappints 57; Patkó 45]
-Zalaegerszeg II  4-1 Dunaújváros
-  [Balázs 38, 76, Délczeg 67, Kottán 81; Heffler 2]
-
-Round 2
-[Aug 16]
-Ajka             3-0 Pápa
-  [Csörnyei 7, 12, Mihalecz 58]
-Tatabánya        0-2 Gyirmót
-  [Tóth N. 28, Kovacsics 48]
-Pécs             2-0 Kozármisleny
-  [Szalai 69, Kulcsár 87]
-Száthalombatta   0-0 Zalaegerszeg II
-Felcsút          3-0 Gyõr II
-  [Sándor 22, Bölcsföldi 63, Móri 82]
-Dunaújváros      0-3 DAC
-  [Laki 36, 63, Bali 66]
-[Aug 17]
-Barcs            2-2 Budaörs
-  [Tahirovic 53, Kollega 75; Farkas J. 20, Kollár 90]
-Kaposvölgye      3-1 Baja
-  [Ukwuoma 17, 67, Andruskó 21; Sziegl 52]
-
-Round 3
-[Aug 23]
-Ajka             2-0 Tatabánya
-  [Mihalecz 48, Szabó L. 57]
-Kozármisleny     5-1 Dunaújváros
-  [Laki 48, 60, Lauer 51, Kresz 78, Tóth Z. 83; Suba 27og]
-Baja             2-1 Pécs
-  [Roni 7, Sziegl 68; Lantos 52]
-Budaörs          1-0 Kaposvölgye
-  [Farkas Á. 68]
-DAC              3-0 Százhalombatta
-  [Müller 2, Pásztor 11, Vass Zs. 57og]
-Gyirmót          5-0 Barcs
-  [Tóth N. 8, 55, Kovacsics 35, 52, 75]
-[Aug 24]
-Gyõr II          1-0 Pápa
-  [Csermelyi 44]
-Zalaegerszeg II  0-1 Felcsút
-  [Bölcsföldi 60, 68]
-
-Round 4
-[Aug 30]
-Gyõr II          6-2 Ajka
-  [Cseri 16, Pákai 28og, Dorogi 45, Csermelyi 58, Szemerei 75,
-   Pákolicz 82; Szabó L. 57, Csörnyei 62]
-Dunaújváros      2-0 Baja
-  [Frõlich 32, Nagy I. 71]
-Százhalombatta   3-1 Kozármisleny 
-  [Disztl M. 21, 28, Havrán 34; Kanizsai 25]
-Felcsút          0-0 DAC
-Pápa             3-0 Zalaegerszeg II 
-  [Granát 67, Rebyk 68, Szabó Zs. 75]
-Pécs             2-1 Budaörs  
-  [Lovrencsics 35, Szalai 90; Nagy R. 26]
-[Aug 31]
-Barcs            2-3 Tatabánya
-  [Kordé 25, 80; Gellér 49, Kollár 58, Béres 89]
-Kaposvölgye      2-1 Gyirmót
-  [Fellai 10, Andruskó 72; Kozmér 55]
-
-Round 5 [Sep 7]
-DAC              0-0 Pápa
-Kozármisleny     2-3 Felcsút   
-  [Tóth Z. 45, Laki 60; Kocsis 32, Sándor 43, Domján 90]
-Zalaegerszeg II  1-3 Gyõr II 
-  [Petneházi 61; Csermelyi 23, Kiss Sz. 81, Berde 83]
-Ajka             1-1 Barcs      
-  [Imre 29; Kordé 84]
-Baja             1-2 Százhalombatta 
-  [Lógó 33; Móra 19, Lannert 66]
-Budaörs          6-0 Dunaújváros 
-  [Schafranek 6, Kollár 10, 34, 53, Farkas J. 45, 49]
-Tatabánya        1-1 Kaposvölgye 
-  [Mátyus 34; Ukwuoma 1]
-Gyirmót          2-0 Pécs
-  [Nagy L. 20, 87]
-
-Round 6
-[Sep 13]
-Felcsút          1-1 Baja             
-  [Móri 30; Nagy E. 74]
-Dunaújváros      0-1 Gyirmót          
-  [Tóth N. 90]
-Pápa             1-1 Kozármisleny     
-  [Granát 88; Lauer 73]
-Pécs             2-2 Tatabánya        
-  [Koplárovics 18, Gellér 72og; Kollár 28, Gellér 68]
-[Sep 14]
-Százhalombatta   0-4 Budaörs          
-  [Farkas Á. 18, Tüske 24, Schafranek 45, Farkas J. 64]
-Kaposvölgye      2-1 Barcs      
-  [Hock 26, Nikolic 58; Tahirovic 90+2]
-Zalaegerszeg II  2-1 Ajka             
-  [Délczeg 60, 63; Mihalecz 78]
-DAC              2-1 Gyõr II 
-  [Bali 24, 45; Csermelyi 40]
-
-Round 7
-[Sep 19]
-Tatabánya        4-0 Dunaújváros      
-  [Béres 12, 42, Faragó 14, Kollár 74]
-[Sep 20]
-Baja             1-1 Pápa             
-  [Lógó 86; Rebryk 28]
-Budaörs          0-4 Felcsút          
-  [Móri 51, 68, Székesi 62, Domján 87]
-Kozármisleny     1-3 Gyõr II 
-  [Nagy K. 90; Csermelyi 6, Cseri 72, Berde 85]
-Gyirmót          2-0 Százhalombatta   
-  [Szabó Cs. 40, Tóth N. 73]
-Ajka             0-1 Kaposvölgye      
-  [Huzmi 58]
-DAC              1-3 Zalaegerszeg II  
-  [Bali 64; Délczeg 24, Kottán 34, Mirceta 76]
-[Sep 21]
-Barcs            0-1 Pécs
-  [Koplárovics 43]
-
-Round 8
-[Sep 27]
-Százhalombatta   0-1 Tatabánya        
-  [Flores 50]
-Dunaújváros      5-0 Barcs            
-  [Nagy I. 19, 68, Heffler 57, Pénzes 74, Simpson 81]
-DAC              0-0 Ajka             
-Felcsút          1-2 Gyirmót          
-  [Kocsis 20; Tóth N. 8, Kovacsics 23]
-Pápa             2-1 Budaörs          
-  [Schranz 10, Gyömbér 79; Varga D. 5]
-Pécs             3-1 Kaposvölgye      
-  [Lovrencsics 27, 42, Horváth Zs. 75; Fodor 50]
-[Sep 28]
-Zalaegerszeg II  3-0 Kozármisleny     
-  [Délczeg 45, Petneházi 48, Pekic 81]
-Gyõr II          1-1 Baja             
-  [Dorogi 84; Nagy E. 66]
-
-Round 9
-[Oct 4]
-Tatabánya        2-0 Felcsút          
-  [Farkas V. 58, 82]
-Ajka             0-3 Pécs             
-  [Szabados 45, Fónai 55, Berdó 90]
-Baja             1-1 Zalaegerszeg II  
-  [Nagy E. 59; Waltner 6]
-Budaörs          4-2 Gyõr II          
-  [Tüske 4, 90+2, Farkas J. 45, Schafranek 63; Klement 32,
-   Pákolicz 67]
-Kozármisleny     2-1 DAC              
-  [Laki 70, Tóth Z. 85; Bali 87]
-Gyirmót          1-2 Pápa             
-  [Kozmér 58; Schranz 15, Rebryk 43]
-[Oct 5]
-Barcs            3-0 Százhalombatta   
-  [Matus 11, Eszlátyi 59, Bakó 70]
-Kaposvölgye      3-2 Dunaújváros      
-  [Kalmár 24, Rompos 72, Ukwuoma 77; Pénzes 29, Simpson 58]
-
-Round 10
-[Oct 10]
-Felcsút          2-0 Barcs            
-  [Domján 2, 59]
-Gyirmót          4-1 Gyõr II          
-  [Tóth N. 8, 66, Nagy L. 74, Polyák 79; Tóth M. 61]
-[Oct 12]
-Százhalombatta   0-1 Kaposvölgye      
-  [Andruskó 69]
-Dunaújváros      1-0 Pécs             
-  [Nagy I. 46]
-Zalaegerszeg II  8-1 Budaörs          
-  [Délczeg 17, 78, Petneházi 21, 57, Mirceta 23, 43,
-   Balázs 27, 82; Schafranek 89]
-DAC              1-2 Baja             
-  [Bali 17; Roni 52, 57]
-Kozármisleny     1-1 Ajka             
-  [Kanizsai 50; Subicz 20]
-Pápa             1-1 Tatabánya        
-  [Farkas A. 4; Faragó 30]
-
-Round 11
-[Oct 18]
-Ajka             3-0 Dunaújváros      
-  [Subicz 33, Manganelli 41, Kovács G. 83]
-Tatabánya        3-0 Gyõr II          
-  [Flores 25, Béres 55, 72]
-Baja             1-3 Kozármisleny     
-  [Roni 46; Tóth Z. 3, Hergenrõder 45, Laki 87]
-Budaörs          2-1 DAC              
-  [Papp G. 78, Tüske 87; Szűcs L. 70]
-Pécs             3-0 Százhalombatta   
-  [Lovrencsics 7, Szalai 12, Szabados 65]
-Gyirmót          1-0 Zalaegerszeg II  
-  [Baumgartner 89]
-[Oct 19]
-Barcs            0-4 Pápa             
-  [Gyömbér 13, Schranz 64, Szabó Zs. 73, Imrik 88]
-Kaposvölgye      2-1 Felcsút          
-  [Kalmár 45, Vaskó 50; Domján 81]
-
-Round 12
-[Oct 25]
-Százhalombatta   3-0 Dunaújváros      
-  [Havrán 12, 61, Patkó 38]
-Zalaegerszeg II  1-0 Tatabánya        
-  [Ferkó 52]
-Baja             1-2 Ajka             
-  [Nagy E. 79; Mihalecz 14, Subicz 17]
-DAC              0-0 Gyirmót          
-Kozármisleny     2-1 Budaörs          
-  [Lauer 52, Laki 80; Tüske 40]          
-Felcsút          1-1 Pécs             
-  [Bölcsföldi 47; Berdó 17]
-Pápa             1-1 Kaposvölgye      
-  [Szabó Zs. 88; Andruskó 74]
-[Oct 26]
-Gyõr II          5-0 Barcs            
-  [Copa 23, 90, Csermelyi 49, Kovács Z. 63, Frick 83]
-
-Round 13
-[Nov 1]
-Tatabánya        awd DAC                 [awarded 3-0, originally 0-1]   
-Dunaújváros      1-1 Felcsút    
-  [Csorba 90; Fejes 14]      
-Budaörs          1-1 Baja    
-  [Tüske 25; Roni 14]
-Ajka             0-0 Százhalombatta   
-Pécs             2-1 Pápa             
-  [Wittrédi 58, Szalai 64; Varga G. 40]
-[Nov 2]
-Barcs            1-2 Zalaegerszeg II  
-  [Kollega 45; Balázs 40, Petneházi 53]
-Kaposvölgye      3-4 Gyõr II          
-  [Andruskó 31, 38, Huzmi 60; Kiss Sz. 46, Dorogi 63, 67,
-   Pákolicz 83]
-Gyirmót          0-0 Kozármisleny     
-
-Round 14
-[Nov 8]
-DAC              0-0 Barcs            
-Kozármisleny     1-0 Tatabánya        
-  [Laki 68]
-Baja             1-3 Gyirmót          
-  [Mitasz 80; Baumgartner 45, Tóth N. 74, Kovacsics 78]
-Budaörs          0-0 Ajka             
-Felcsút          2-2 Százhalombatta   
-  [Móri 42, Varga I. 61; Patkó 39, Földes 55]
-Pápa             1-0 Dunaújváros      
-  [Alex 38]
-[Nov 9]
-Gyõr II          1-2 Pécs             
-  [Fomumbod 4; Szalai 8, Berdó 68]
-Zalaegerszeg II  1-2 Kaposvölgye      
-  [Pekic 32; Juhász 72, Ukwuoma 76]
-
-Round 15
-[Nov 15]
-Százhalombatta   1-0 Pápa             
-  [Vass 42]
-Ajka             2-0 Felcsút          
-  [Mihalecz 17, Szabó L. 65]
-Dunaújváros      3-2 Gyõr II          
-  [Nagy A. 7, Micskó 35, Facskó 37; Csermelyi 32, Kiss Sz. 90]
-Tatabánya        3-2 Baja             
-  [Gellér 7, Flores 12, Dombai 37; Roni 18, 67]
-Pécs             3-0 Zalaegerszeg II  
-  [Berdó 13, Nagy O. 18, Szalai 58]
-Gyirmót          2-0 Budaörs          
-  [Tóth N. 55, Horváth R. 88]
-[Nov 16]
-Barcs            2-2 Kozármisleny     
-  [Kordé 1, Tolnai 27; Kanizsai 45, Hergenrõder 69]
-Kaposvölgye      1-0 DAC              
-  [Huzmi 80]
-
-NB: Dunaújváros withdrew or excluded during winter break; all
-    remaining matches awarded 0-3 against them
-
-Round 16
-[Mar 7]
-Felcsút          0-4 Pápa
-Tatabánya        1-3 Budaörs
-Százhalombatta   1-1 Gyõr II        
-Dunaújváros      awd Zalaegerszeg II     [awarded 0-3]   
-Pécs             2-0 DAC
-[Mar 8]
-Kaposvölgye      0-3 Kozármisleny     
-Barcs            1-0 Baja 
-[Mar 18]
-Ajka             3-4 Gyirmót 
- 
-Round 17
-[Mar 13]
-DAC              awd Dunaújváros         [awarded 3-0] 
-[Mar 14]
-Budaörs          2-1 Barcs
-Kozármisleny     0-2 Pécs
-Baja             2-3 Kaposvölgye   
-Pápa             2-0 Ajka
-Gyirmót          1-1 Tatabánya
-[Mar 15]
-Zalaegerszeg II  0-0 Százhalombatta 
-Gyõr II          0-2 Felcsút 
-
-Round 18
-[Mar 21]
-Tatabánya        1-0 Ajka
-Pápa             4-0 Gyõr II          
-Százhalombatta   2-3 DAC
-Felcsút          2-0 Zalaegerszeg II  
-Pécs             2-0 Baja             
-Dunaújváros      awd Kozármisleny        [awarded 0-3] 
-[Mar 22]
-Kaposvölgye      1-0 Budaörs          
-Barcs            1-2 Gyirmót          
-
-Round 19
-[Mar 27]
-DAC              2-0 Felcsút 
-[Mar 29]
-Ajka             1-0 Gyõr II          
-Tatabánya        3-0 Barcs
-Baja             awd Dunaújváros         [awarded 3-0]
-Kozármisleny     0-0 Százhalombatta 
-Gyirmót          2-2 Kaposvölgye   
-Budaörs          1-2 Pécs
-[Apr 15]
-Zalaegerszeg II  0-3 Pápa             
-
-Round 20
-[Apr 4]
-Felcsút          1-3 Kozármisleny     
-Százhalombatta   0-1 Baja
-Dunaújváros      awd Budaörs             [awarded 0-3] 
-Pécs             1-1 Gyirmót          
-Pápa             3-1 DAC              
-[Apr 5]
-Barcs            0-0 Ajka          
-Kaposvölgye      1-2 Tatabánya        
-Gyõr II          2-0 Zalaegerszeg II  
-
-Round 21
-[Apr 11]
-Ajka             0-0 Zalaegerszeg II  
-Tatabánya        2-1 Pécs             
-Baja             0-0 Felcsút          
-Kozármisleny     1-1 Pápa             
-Budaörs          2-0 Százhalombatta   
-Gyirmót          awd Dunaújváros         [awarded 3-0]
-[Apr 12]
-Gyõr II          1-2 DAC              
-Barcs            2-0 Kaposvölgye      
-
-Round 22
-[Apr 18]
-Pécs             3-0 Barcs            
-Dunaújváros      awd Tatabánya           [awarded 0-3]       
-Felcsút          2-2 Budaörs          
-Százhalombatta   1-2 Gyirmót          
-Pápa             1-0 Baja
-[Apr 19]
-Kaposvölgye      1-1 Ajka          
-Zalaegerszeg II  4-2 DAC              
-Gyõr II          1-1 Kozármisleny     
-
-Round 23
-[Apr 24]
-Gyirmót          1-0 Felcsút          
-[Apr 25]
-Tatabánya        4-0 Százhalombatta   
-Budaörs          1-6 Pápa             
-Kozármisleny     1-1 Zalaegerszeg II  
-Ajka             3-2 DAC              
-[Apr 26]
-Baja             2-0 Gyõr II          
-Kaposvölgye      1-1 Pécs             
-Barcs            awd Dunaújváros         [awarded 3-0]
-
-Round 24
-[May 1]
-DAC              0-1 Kozármisleny     
-[May 3]
-Felcsút          0-0 Tatabánya        
-Gyõr II          3-0 Budaörs          
-Zalaegerszeg II  1-0 Baja             
-Dunaújváros      awd Kaposvölgye         [awarded 0-3]     
-Százhalombatta   1-2 Barcs            
-Pécs             1-1 Ajka             
-Pápa             5-0 Gyirmót          
-
-Round 25
-[May 9]
-Budaörs          1-1 Zalaegerszeg II  
-Tatabánya        0-2 Pápa             
-Baja             1-1 DAC              
-Ajka             3-1 Kozármisleny     
-Pécs             awd Dunaújváros         [awarded 3-0]
-[May 10]
-Gyõr II          1-3 Gyirmót          
-Kaposvölgye      6-2 Százhalombatta   
-Barcs            1-0 Felcsút          
-
-Round 26
-[May 15]
-DAC              1-1 Budaörs          
-[May 16]
-Felcsút          2-1 Kaposvölgye      
-Dunaújváros      awd Ajka                [awarded 0-3]
-Kozármisleny     0-0 Baja             
-Százhalombatta   0-6 Pécs             
-Pápa             2-1 Barcs            
-[May 17]
-Zalaegerszeg II  1-3 Gyirmót          
-Gyõr II          1-3 Tatabánya        
-
-Round 27
-[May 23]
-Pécs             5-0 Felcsút          
-Dunaújváros      awd Százhalombatta      [awarded 0-3]   
-Budaörs          3-1 Kozármisleny     
-Ajka             3-0 Baja             
-Tatabánya        3-3 Zalaegerszeg II  
-Gyirmót          3-1 DAC              
-[May 24]
-Kaposvölgye      0-3 Pápa             
-Barcs            1-1 Gyõr II          
-
-Round 28
-[May 29]
-DAC              5-0 Tatabánya        
-[May 30]
-Baja             1-0 Budaörs          
-Felcsút          awd Dunaújváros         [awarded 3-0]      
-Százhalombatta   0-2 Ajka             
-Kozármisleny     0-2 Gyirmót          
-Pápa             1-0 Pécs             
-[May 31]
-Zalaegerszeg II  0-3 Barcs            
-Gyõr II          1-3 Kaposvölgye      
-
-Round 29 
-[Jun 6]
-Százhalombatta   1-2 Felcsút          
-Dunaújváros      awd Pápa                [awarded 0-3]       
-Tatabánya        2-1 Kozármisleny     
-Ajka             3-2 Budaörs          
-Pécs             2-0 Gyõr II          
-Gyirmót          5-4 Baja             
-[Jun 7]
-Kaposvölgye      0-0 Zalaegerszeg II  
-Barcs            2-0 DAC              
-
-Round 30 [Jun 13]
-Zalaegerszeg II  1-4 Pécs             
-Gyõr II          awd Dunaújváros         [awarded 3-0]      
-DAC              2-0 Kaposvölgye      
-Pápa             6-1 Százhalombatta   
-Felcsút          2-4 Ajka             
-Budaörs          2-2 Gyirmót          
-Baja             2-1 Tatabánya        
-Kozármisleny     1-2 Barcs            
-
-Final Table:
-
- 1.Gyirmót SE                  30 20  7  3 60-30 67
----------------------------------------------------
- 2.Lombard Pápa Termál FC      30 20  6  4 65-19 66  Promoted
- 3.Pécsi MFC                   30 20  5  5 62-21 65
- 4.FC Tatabánya                30 15  6  9 49-35 51
- 5.FC Ajka                     30 13 10  7 44-31 49
- 6.Kaposvölgye VSC             30 14  6 10 45-42 48
- 7.Budaörsi SC                 30 11  7 12 48-51 40
- 8.Kozármisleny SE             30 10  9 11 40-40 39
- 9.Zalaegerszegi TE II         30 10  8 12 41-43 38
-10.Felcsút FC                  30 10  8 12 37-41 38
-11.Integrál DAC SE             30  9  7 14 38-39 34
-12.Barcsi SC                   30  9  6 15 33-52 33
-13.Gyõri ETO FC II             30  9  5 16 46-55 32
----------------------------------------------------
-14.Bajai LSE                   30  8  8 14 35-44 32  Relegated
-15.Százhalombattai LK          30  5  7 18 24-59 22  Relegated
-16.Dunaújváros FC Prelasti     30  4  1 25 16-81 13  Relegated
-
-NB: Dunaújváros withdrew or excluded during winter break; all
-    remaining matches awarded 0-3 against them
-
-NB: Gyirmót SE did not obtain license for first division and
-    Lombard Pápa Termál FC were promoted instead
-
-
-Third Level 2008/09
-
-Final Tables:
-
-Group Alföld
-
- 1.Budapest Honvéd-II          30 19  6  5 73-29 63  Promoted
----------------------------------------------------
- 2.Szolnoki Spartacus          30 19  5  6 60-30 62 
- 3.Kecskeméti TE-II            30 19  2  9 76-36 59 
- 4.Algyõ SK                    30 18  5  7 73-34 59 
- 5.Budafoki LC                 30 17  3 10 46-30 54 
- 6.Hódmezõvásárhely            30 15  5 10 51-39 50 
- 7.Orosháza FC                 30 14  6 10 59-47 48 
- 8.Érdi VSE                    30 14  4 12 39-33 46 
- 9.Gyulai Termál FC            30 12  3 15 55-54 39 
-10.FC Dabas                    30 11  6 13 53-60 39 
-11.Tisza Volán SC              30 11  4 15 44-50 37 
-12.Monori SE                   30 10  4 16 40-64 34 
-13.Újbuda TC                   30  9  4 17 51-78 31 
-14.Adrenalin-Izsáki SSE        30  9  2 19 35-62 29 
-15.Kiskunfélegyházi HTK        30  6  4 20 27-68 22 
-16.Jászapáti VSE               30  3  5 22 17-85 14
-
-Group Bakony
-
- 1.Hévíz FC                    30 24  6  0 106-21 78  Promoted
-----------------------------------------------------
- 2.Veszprém FC                 30 22  6  2  84-16 72 
- 3.Lipót SK                    30 19  4  7  74-32 61 
- 4.Szombathelyi Haladás-II     30 18  3  9  54-36 57 
- 5.Sárvár FC                   30 17  5  8  58-30 56 
- 6.KSE Csesztreg               30 13  6 11  57-60 45 
- 7.Badacsonytomaji SE          30 12  4 14  48-59 40 
- 8.Répcelaki SE                30 11  7 12  41-57 40 
- 9.Soproni VSE                 30 12  3 15  64-69 39 
-10.MTE Mosonmagyaróvár         30 12  2 16  47-55 38 
-11.Celldömölki VSE             30 11  5 14  41-51 38 
-12.Büki TK                     30  9  5 16  52-55 32 
-13.Csornai SE                  30  9  5 16  32-48 32 
-14.SK Ajka-Padragkút SE        30  7  2 21  38-81 23 
-15.TIAC-Honvéd VSE             30  5  6 19  33-90 21 
-16.Vépi KSE                    30  2  5 23  20-89 11
-
-Group Dráva
-
- 1.Szentlõrinci SE             30 24  2  4 82-23 74 
- 2.Paksi FC II                 30 19  4  7 99-45 61 
- 3.Nagykanizsa TE              30 18  4  8 67-48 58 
- 4.Szekszárdi UFC              30 15 11  4 57-31 56 
- 5.Kaposvári Rákóczi-II        30 15  5 10 69-48 50 
- 6.Bogád SE                    30 15  4 11 46-44 49 
- 7.Dombóvár FC-Rutin           30 13  8  9 39-31 47 
- 8.PVSK-Fürge Nyuszi           30 12  9  9 55-53 45 
- 9.Komlói BSK                  30 11  9 10 45-41 42 
-10.Nagyatádi FC                30 10  8 12 37-46 38 
-11.Mohácsi TE                  30 11  2 17 52-63 35 
-12.Beremend ÉSK                30  9  4 17 41-65 31 
-13.Bonyhád VLC                 30  8  4 18 38-72 28 
-14.Pécsváradi Spartacus        30  5  7 18 40-75 22 
-15.Marcali VFC                 30  6  3 21 24-60 21 
-16.AC Nagybajom                30  5  4 21 36-82 19
-
-NB: Szentlõrinci SE withdraw from NB II; no club promoted
-
-Group Duna
- 1.Szigetszentmiklósi TK       30 23  4  3 77-22 73  Promoted
---------------------------------------------------- 
- 2.Velence SE                  30 21  5  4 80-38 68 
- 3.Soroksár                    30 19  7  4 59-30 64 
- 4.Dunaharaszti MTK            30 15 10  5 64-37 55 
- 5.BFC Siófok II               30 16  5  9 54-26 53 
- 6.Móri SE                     30 11  9 10 47-36 42 
- 7.Lindab-Törökbálinti TC      30 10  9 11 55-54 39 
- 8.Pénzügyõr SE                30  9 11 10 37-46 38 
- 9.Csepel FC                   30 10  7 13 36-43 37 
-10.FC Fehérvár II              30 10  5 15 40-49 35 
-11.Dorogi FC                   30  9  7 14 37-52 34 
-12.Sárisáp-SIKÉR SE            30  7 10 13 35-50 31 
-13.III. Kerületi TUE           30  7  9 14 39-63 30 
-14.Környe SE                   30  7  5 18 36-65 26 
-15.Balatonlelle SE             30  6  6 18 29-55 24 
-16.Csillaghegyi MTE            30  3  5 22 29-88 14
-
-Group Mátra
-
- 1.Mezõkövesdi SE              30 22  4  4 78-21 70  Promoted
---------------------------------------------------- 
- 2.Újpest FC-II                30 22  4  4 70-19 70 
- 3.Tura VSK                    30 20  1  9 57-31 61 
- 4.Gyöngyös AK                 30 15  4 11 43-34 49 
- 5.Salgótarjáni BFC            30 15  4 11 41-39 46  [-3]
- 6.Balmazújvárosi FC           30 13  7 10 43-44 46 
- 7.Ózdi FC                     30 12  5 13 41-45 41 
- 8.Putnok VSE                  30 10 10 10 51-48 40 
- 9.Vasas-II                    30 10  7 13 40-39 37 
-10.Maglódi KSK                 30 10  6 14 32-52 36 
-11.Eger FC                     30  9  9 12 30-35 36 
-12.RAFC                        30  9  7 14 29-43 34 
-13.BGY. VSE                    30  9  7 14 35-52 34 
-14.FC Tiszaújváros             30  9  5 16 41-66 32 
-15.Tiszafüredi VSE             30  8  2 20 44-74 26 
-16.Veresegyház VSK             30  4  4 22 33-66 16 
-
-Group Tisza
-
- 1.Hajdúböszörményi TE         30 18  9  3 54-18 63  Promoted
----------------------------------------------------
- 2.Nagyecsed RSE               30 17  6  7 56-35 57 
- 3.Nyírmadai ISE               30 16  4 10 53-33 52 
- 4.Sportegyesület KEMECSE      30 12 12  6 47-29 48 
- 5.Ibrány SE                   30 14  5 11 55-47 47 
- 6.Diósgyõr FC KFT             30 14  4 12 43-44 46 
- 7.Nyíregyháza Spartacus FC    30 12  7 11 39-35 43 
- 8.Tiszakanyár SE              30 12  6 12 48-48 42 
- 9.Létavértes SC '97           30 10  7 13 32-36 37 
-10.Berettyóújfalui SE          30 10  7 13 36-47 37 
-11.Tiszalök VSE                30 10  6 14 46-46 36 
-12.Tuzsér SE                   30 10  4 16 44-51 34 
-13.Balkányi SE                 30 10  3 17 35-65 33 
-14.Hajdúszoboszlói SE          30  8  4 18 30-57 28 
-15.Várda Sport Egyesület       30 14  8  8 49-36 20  [-30]
-16.Volán Sényõ SC              30  6  2 22 25-65 20 
-
-
-
-2007/08.
-
-
-2009/10.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-list of cup winners.
-
-
-list of super cup finals.
-
-
-About this document
-
-Prepared and maintained by Zoltán Csizmazia for the RSSSF
-
-Author: Zoltán Csizmazia (csizmazia.zoltan@t-online.hu) 
-Last updated: 12 Aug 2009
-
-(C) Copyright Zoltán Csizmazia and RSSSF 2008/09
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Zoltán Csizmazia for the RSSSF
+*Author: Zoltán Csizmazia (csizmazia.zoltan@t-online.hu) 
+*Last updated: 12 Aug 2009
+*(C) Copyright Zoltán Csizmazia and RSSSF 2008/09
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

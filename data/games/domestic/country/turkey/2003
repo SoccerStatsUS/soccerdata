@@ -27,70 +27,61 @@ Round: 1
 Date: 8/8/2003
 
 ; Samsunspor        ; 1-3; Besiktas 
-  Serkan Aykut 13; Tümer Metin 53pen, Ahmed Hassan 63, 89
-
+  Serkan Aykut 13; Tümer Metin (pk) 53, Ahmed Hassan 63, Ahmed Hassan 89
 
 Date: 8/9/2003
 
 ; Bursaspor         ; 0-0; Gaziantepspor 
 
 ; Galatasaray       ; 2-1; Diyarbakirspor 
-  Hakan Sükür 52, 68; Saffet Akyüz 10
+  Hakan Sükür 52, Hakan Sukur 68; Saffet Akyüz 10
 
 ; Gençlerbirligi    ; 2-3; Elazigspor 
-  Souleymane Youla 15, Mustafa Özkan 85; Jean E.E.Owona 32,
-   Robson Da Silva Ourique 38, Eser Yagmur 83
+  Souleymane Youla 15, Mustafa Özkan 85; Jean E.E.Owona 32, Robson Da Silva Ourique 38, Eser Yagmur 83
 
 ; Konyaspor         ; 3-3; Trabzonspor 
-  Cenk Isler 2pen, Zafer Biryol 11, 90; Erdinç Yavuz 45,
-   Gökdeniz Karadeniz 60, Ibrahima Yattara 66
+  Cenk Isler (pk) 2, Zafer Biryol 11, Zafer Biryol 90; Erdinç Yavuz 45, Gökdeniz Karadeniz 60, Ibrahima Yattara 66
 
 Date: 8/10/2003
 
 ; Akçaabat Sebatspor; 0-2; Denizlispor 
-  Ali Akdeniz 16, Muhammet Özdin 89og
+;  Ali Akdeniz 16, Muhammet Özdin (og) 89
 
 ; Adanaspor         ; 0-1; Malatyaspor 
-  Atilla Birlik 49
+;  Atilla Birlik 49
 
 ; Çaykur Rizespor   ; 2-1; Ankaragücü 
   Ahmet Çagiran 35, Serkan Özdemir 82; Ramadan Ragab 7
 
 ; Fenerbahçe        ; 0-3; Istanbulspor 
-  Pini Balili 19, Alexander Iordanov Alexandrov 32, 57
-
+;  Pini Balili 19, Alexander Iordanov Alexandrov 32, Alexander Alexandrov 57
 
 Round: 2
-
 Date: 8/15/2003
 
 ; Trabzonspor       ; 0-1; Fenerbahçe 
-  Pierre van Hooijdonk 12
-
+;  Pierre van Hooijdonk 12
 
 Date: 8/16/2003
 
 ; Istanbulspor      ; 1-0; Adanaspor 
-  Alioum Saidou 37
+  Alioum Saidou 37;
 
 ; Besiktas          ; 1-0; Bursaspor 
-  Tayfur Havutçu 19
+  Tayfur Havutçu 19;
 
 ; Denizlispor       ; 1-1; Çaykur Rizespor
   Timuçin Beyazit 72; Murat Sözkesen 82
 
 ; Ankaragücü        ; 4-2; Samsunspor 
-  Ramadan Ragab 22, 65, Yilmaz Özlem 60, Kenan Yelek 76og;
-   Serkan Aykut 12, Mehmet Nas 14
-
+  Ramadan Ragab 22, Ramadan Ragab 65, Yilmaz Özlem 60, Kenan Yelek (og) 76; Serkan Aykut 12, Mehmet Nas 14
 
 Date: 8/17/2003
 
 ; Elazigspor        ; 0-0; Konyaspor 
 
 ; Diyarbakirspor    ; 3-2; Gençlerbirligi 
-  Ramazan Tunç 27, Saffet Akyüz 47, Murat Hacioglu 84; 
-   Souleymane Youla 22, 70
+  Ramazan Tunç 27, Saffet Akyüz 47, Murat Hacioglu 84; Souleymane Youla 22, Souleymane Youla 70
 
 ; Gaziantepspor     ; 1-2; Galatasaray 
   Mehmet Polat 63; Hasan Sas 75, Maboula Lukunku 85
@@ -102,33 +93,30 @@ Round: 3
 Date: 8/23/2003
 
 ; Akçaabat Sebatspor; 1-3; Istanbulspor 
-  Marek Zajac 58; Elvir Boljic 54, Abdurrahman Dereli 63og,
-   Mehmet Yozgatli 78
+  Marek Zajac 58; Elvir Boljic 54, Abdurrahman Dereli (og) 63, Mehmet Yozgatli 78
 
 ; Bursaspor         ; 2-2; Galatasaray 
-  Okan Yilmaz 6, Cornel Danut Frasineanu 60; Fabio Pinto 47,
-   Sabri Sarioglu 83
+  Okan Yilmaz 6, Cornel Danut Frasineanu 60; Fabio Pinto 47, Sabri Sarioglu 83
 
 ; Adanaspor         ; 0-1; Trabzonspor 
-  Gökdeniz Karadeniz 64
+;  Gökdeniz Karadeniz 64
 
 ; Çaykur Rizespor   ; 2-1; Malatyaspor 
   Emmanuel Tetteh 54, Serkan Özdemir 80; Muhammet Akagündüz 45
 
 ; Fenerbahçe        ; 7-1; Elazigspor 
-  Tuncay Sanli 22, 45, 80, 90, Pierre van Hooijdonk 41, Marco Aurelio 62, 
-   Serhat Akin 70; Jean Emmanuel Effa Owona 12
+  Tuncay Sanli 22, Tuncay Sanli 45, Tuncay Sanli 80, Tuncay Sanli 90, Pierre van Hooijdonk 41, Marco Aurelio 62, Serhat Akin 70; Jean Emmanuel Effa Owona 12
 
 Date: 8/24/2003
 
 ; Besiktas          ; 3-0; Ankaragücü 
-  Tümer Metin 22pen, Sergen Yalçin 72, Sinan Kaloglu 91
+  Tümer Metin (pk) 22, Sergen Yalçin 72, Sinan Kaloglu 91;
 
 ; Gençlerbirligi    ; 1-0; Gaziantepspor 
-  Souleymane Youla 27
+  Souleymane Youla 27;
 
 ; Konyaspor         ; 3-1; Diyarbakirspor 
-  Zafer Biryol 8, 77, Cenk Isler 54pen; Claude Bakadal 44
+  Zafer Biryol 8, Zafer Biryol 77, Cenk Isler (pk) 54; Claude Bakadal 44
 
 ; Samsunspor        ; 2-1; Denizlispor 
   Musa Aydin 8, Serkan Aykut 61; Ersen Martin 75
@@ -137,41 +125,35 @@ Round: 4
 Date: 8/29/2003
 
 ; Denizlispor       ; 2-3; Besiktas
-  Ismet Tasdemir 9pen, Roman Kratochvil 92; Roman Dobrowski 17, 
-   Roman Kratochvil 33og, Sergen Yalçin 48
-
+  Ismet Tasdemir (pk) 9, Roman Kratochvil 92; Roman Dobrowski 17, Roman Kratochvil (og) 33, Sergen Yalçin 48
 
 Date: 8/30/2003
 
 ; Elazigspor        ; 3-4; Adanaspor
-  Jean Emmanuel Effa Owona 15, 76, Sedat Agçay 80; Volkan Bekiroglu 21,
-   Necati Ates 35pen, 56, Güngör Öztürk 51
+  Jean Emmanuel Effa Owona 15, Jean Emmanuel Effa Owona 76, Sedat Agçay 80; Volkan Bekiroglu 21, Necati Ates (pk) 35, Necati Ates 56, Güngör Öztürk 51
 
 ; Malatyaspor       ; 5-0; Samsunspor
-  Atilla Birlik 29, Fazli Ulusoy 44, 86, Celaleddin Koçak 45,
-   Jacek Tomasz Ziarkowski 69
+  Atilla Birlik 29, Fazli Ulusoy 44, Fazli Ulusoy 86, Celaleddin Koçak 45, Jacek Tomasz Ziarkowski 69;
 
 ; Gaziantepspor     ; 3-1; Konyaspor
-  Ziad Jaziri 29, Hasan Özer 58, 81; Seday Yesilkaya 40
+  Ziad Jaziri 29, Hasan Özer 58, Hasan Ozer 81; Seday Yesilkaya 40
 
 ; Diyarbakirspor    ; 1-2; Fenerbahçe
-  Hasan Yigit 47pen; Tuncay Sanli 61, Pierre van Hooijdonk 76
-
+  Hasan Yigit (pk) 47; Tuncay Sanli 61, Pierre van Hooijdonk 76
 
 Date: 8/31/2003
 
 ; Istanbulspor      ; 3-0; Çaykur Rizespor 
-  Elvir Boljic 40, 53, Pini Balili 51
+  Elvir Boljic 40, Elvir Boljic 53, Pini Balili 51;
 
 ; Trabzonspor       ; 2-1; Akçaabat Sebatspor
   Mehmet Yilmaz 18, Gökdeniz Karadeniz 66; Mehmet Karaca 81
 
 ; Ankaragücü        ; 2-0; Bursaspor
-  Santiago Salcedo 4, Hakan Keles 56
+  Santiago Salcedo 4, Hakan Keles 56;
 
 ; Galatasaray       ; 2-1; Gençlerbirligi   
   Sabri Sarioglu 26, Hakan Sukur 28; Deniz Baris 51
-
 
 Round: 5
 Date: 9/12/2003

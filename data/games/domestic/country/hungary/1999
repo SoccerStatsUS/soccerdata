@@ -1,45 +1,43 @@
-http://www.rsssf.com/tablesh/hong00.html
+BlockSource: http://www.rsssf.com/tablesh/hong00.html
+Season: 1999-2000
+Competition: Nemzeti Bajnokság I
 
-Hungary 1999/2000
+* 1.Dunaferr FC                 32 24  7  1  79-23 79  Champions  [Dunaújváros]
+* 2.MTK Hungária FC             32 18  9  5  64-28 63  [Budapest]
+* 3.Vasas Danubius Hotels       32 19  4  9  58-32 61  [Budapest]
+* 4.Lombard FC-Tatabánya        32 14 13  5  37-34 55
+* 5.Ferencvárosi TC             32 14  8 10  61-39 50  [Budapest]
+* 6.Debreceni VSC-Epona         32 14  8 10  52-41 50
+* 7.Pécsi MFC                   32 11 12  9  41-47 45  [-]
+* 8.Gyori ETO FC                32 12  8 12  52-36 44
+* 9.Nyírség Spartacus FC        32 12  8 12  32-42 44  [Nyíregyháza]
+*10.Újpesti TE                  32 10 11 11  46-42 41  [Budapest]
+*11.Zalahus-ZTE FC              32  8 15  9  34-31 39  [Zalaegerszeg]
+*12.Kispest-Honvéd FC           32 10  9 13  27-39 39  [Budapest]
+*13.Haladás-Milos VFC           32  8  8 16  37-53 32  [Szombathely]
+*14.Nagykanizsai Olajbányász    32  7 10 15  27-44 31
+*----------------------------------------------------
+*15.Siófoki Bányász             32  7  7 18  26-51 25  Relegated  [*]
+*16.Diósgyori FC                32  5  9 18  26-56 24  Relegated 
+*17.Vác-Zollner FC              32  3  6 23  24-85 15  Relegated
+* -.Szeged LC                    0  0  0  0   0- 0  0  [+]
 
-Final Table:
+*[-] Gázszer FC (Akasztó) were taken taken over by second
+*    division club Pécsi MFC during the winter break; PMFC took over
+*    Gázszer FC's record.
+*
+*[*] Siófok had 3 points deducted for failing to play in Round 6;
+*    also the Siófok-Nyirseg match in the 2nd half of the championship
+*    has been switched to Nyiregyhaza.
+*
+*[+] Szeged LC withdrew during the winter break; their first two matches
+*    after the winter break were awarded 0-3 against them (and 6 points
+*    deducted) but after their failure to show up for two more matches
+*    their record was expunged.  Their record at time of withdrawal:
+*
+*17.Szeged LC                   17  3  5  9  13-38 14
 
- 1.Dunaferr FC                 32 24  7  1  79-23 79  Champions  [Dunaújváros]
- 2.MTK Hungária FC             32 18  9  5  64-28 63  [Budapest]
- 3.Vasas Danubius Hotels       32 19  4  9  58-32 61  [Budapest]
- 4.Lombard FC-Tatabánya        32 14 13  5  37-34 55
- 5.Ferencvárosi TC             32 14  8 10  61-39 50  [Budapest]
- 6.Debreceni VSC-Epona         32 14  8 10  52-41 50
- 7.Pécsi MFC                   32 11 12  9  41-47 45  [-]
- 8.Gyori ETO FC                32 12  8 12  52-36 44
- 9.Nyírség Spartacus FC        32 12  8 12  32-42 44  [Nyíregyháza]
-10.Újpesti TE                  32 10 11 11  46-42 41  [Budapest]
-11.Zalahus-ZTE FC              32  8 15  9  34-31 39  [Zalaegerszeg]
-12.Kispest-Honvéd FC           32 10  9 13  27-39 39  [Budapest]
-13.Haladás-Milos VFC           32  8  8 16  37-53 32  [Szombathely]
-14.Nagykanizsai Olajbányász    32  7 10 15  27-44 31
-----------------------------------------------------
-15.Siófoki Bányász             32  7  7 18  26-51 25  Relegated  [*]
-16.Diósgyori FC                32  5  9 18  26-56 24  Relegated 
-17.Vác-Zollner FC              32  3  6 23  24-85 15  Relegated
- -.Szeged LC                    0  0  0  0   0- 0  0  [+]
-
-[-] Gázszer FC (Akasztó) were taken taken over by second
-    division club Pécsi MFC during the winter break; PMFC took over
-    Gázszer FC's record.
-
-[*] Siófok had 3 points deducted for failing to play in Round 6;
-    also the Siófok-Nyirseg match in the 2nd half of the championship
-    has been switched to Nyiregyhaza.
-
-[+] Szeged LC withdrew during the winter break; their first two matches
-    after the winter break were awarded 0-3 against them (and 6 points
-    deducted) but after their failure to show up for two more matches
-    their record was expunged.  Their record at time of withdrawal:
-
-17.Szeged LC                   17  3  5  9  13-38 14
-
-Round 1
+Round: 1
 [Aug 6]
 FTC            1-2 Vasas
 Kispest        2-0 Haladas
@@ -54,7 +52,7 @@ Nagykanizsa    0-0 ZTE
 [Nov 30]
 UTE            1-1 MTK
 
-Round 2
+Round: 2
 [Aug 13]
 Vasas          2-0 Kispest
 [Aug 14]
@@ -68,7 +66,7 @@ Haladas        2-1 Szeged          [annulled]
 Gazszer        3-2 FTC
 Dunaferr       4-0 UTE
 
-Round 3 
+Round: 3 
 [Aug 20]
 Kispest        0-0 Gazszer
 Nagykanizsa    1-1 MTK
@@ -81,7 +79,7 @@ Tatabanya      3-3 Dunaferr
 UTE            4-0 Nyirseg
 Szeged         0-2 Vasas           [annulled]      
 
-Round 4 
+Round: 4 
 [Aug 27]
 ZTE            2-0 Kispest
 [Aug 28]
@@ -95,7 +93,7 @@ MTK            2-1 Siofok
 Vac            0-2 FTC
 Diosgyor       4-1 UTE
 
-Round 5
+Round: 5
 [Sep 10]
 Kispest        5-1 Vac
 Gyor           2-0 Vasas
@@ -109,7 +107,7 @@ Haladas        1-3 Gazszer
 [Sep 12]
 Nagykanizsa    1-0 Nyirseg
 
-Round 6
+Round: 6
 [Sep 17]
 UTE            1-1 Gyor
 [Sep 18]
@@ -124,7 +122,7 @@ Dunaferr       1-0 FTC
 [Sep 20]
 MTK            4-0 Kispest
 
-Round 7
+Round: 7
 [Sep 24]
 Nagykanizsa    1-1 DVSC
 Kispest        2-2 Dunaferr
@@ -137,7 +135,7 @@ Szeged         1-2 MTK             [annulled]
 FTC            4-0 Nyirseg
 Siofok         0-2 Diosgyor
 
-Round 8
+Round: 8
 [Oct 1]
 UTE            3-1 Nagykanizsa 
 [Oct 2]
@@ -151,7 +149,7 @@ DVSC           1-0 Siofok
 Diosgyor       0-0 FTC
 MTK            2-2 Haladas
 
-Round 9
+Round: 9
 [Oct 15]
 Kispest        2-0 Diosgyor
 [Oct 16]
@@ -166,7 +164,7 @@ Nagykanizsa    0-0 Tatabanya
 [Oct 18]
 Siofok         1-0 UTE
 
-Round 10
+Round: 10
 [Oct 22]
 DVSC           1-1 Kispest
 [Oct 23]
@@ -181,7 +179,7 @@ Nagykanizsa    2-0 Gyor
 MTK            1-1 Gazszer
 UTE            2-2 FTC
 
-Round 11
+Round: 11
 [Oct 29]
 ZTE            0-0 MTK
 Kispest        1-1 UTE
@@ -195,7 +193,7 @@ Gazszer        1-2 Dunaferr
 [Nov 1]
 Vasas          4-0 Nyirseg    
 
-Round 12
+Round: 12
 [Nov 5]
 UTE            1-0 Szeged          [annulled]         
 [Nov 6]
@@ -210,7 +208,7 @@ Nagykanizsa    0-2 FTC
 [Nov 8]
 Siofok         0-1 Gyor
 
-Round 13
+Round: 13
 [Nov 12]
 Kispest        0-0 Nagykanizsa
 Vasas          2-0 DVSC
@@ -224,7 +222,7 @@ Haladas        awd UTE             [awarded 3-0; originally 0-1]
 [Nov 15]
 Gazszer        2-2 Diosgyor
 
-Round 14
+Round: 14
 [Nov 20]
 Nyirseg        2-2 Vac
 Dunaferr       1-1 MTK
@@ -238,7 +236,7 @@ Diosgyor       2-1 ZTE
 Tatabanya      1-1 Haladas
 UTE            4-1 Vasas
 
-Round 15
+Round: 15
 [Nov 26]
 Vasas          3-0 Tatabanya
 [Nov 27]
@@ -254,7 +252,7 @@ Gazszer        1-4 UTE
 [Dec 18]
 Kispest        2-3 FTC
 
-Round 16
+Round: 16
 [Dec 3]
 UTE            1-1 ZTE
 [Dec 4]
@@ -268,7 +266,7 @@ FTC            4-0 Szeged          [annulled]
 [Dec 5]
 Nagykanizsa    1-2 Vasas    
 
-Round 17
+Round: 17
 [Dec 10]
 MTK            1-2 DVSC
 [Dec 11]
@@ -282,7 +280,7 @@ Haladas        0-2 FTC
 [Dec 13]
 Gazszer        1-0 Nagykanizsa
 
-Round 18
+Round: 18
 [Feb 26]
 Haladas        1-2 Kispest
 MTK            1-0 UTE
@@ -295,7 +293,7 @@ Vac            1-1 Tatabanya
 Vasas          3-3 FTC
 Gyor           awd Szeged          [awd 3-0, Szeged dns] [annulled]
 
-Round 19
+Round: 19
 [Mar 3]
 Kispest        0-4 Vasas
 UTE            awd Dunaferr        [abd at 0-1 in 44' due to crowd trouble, awd 0-3]
@@ -309,7 +307,7 @@ FTC            4-1 PMFC
 [Mar 5]
 Nagykanizsa    3-1 Vac
 
-Round 20
+Round: 20
 [Mar 7]
 PMFC           1-2 Kispest
 Haladas        0-3 Gyor
@@ -322,7 +320,7 @@ ZTE            0-0 FTC
 MTK            3-1 Nagykanizsa
 Vac            1-0 Siofok
 
-Round 21
+Round: 21
 [Mar 10]
 Haladas        1-2 Vasas
 [Mar 11]
@@ -336,7 +334,7 @@ Szeged         ppd PMFC            [Szeged dns]
 [Mar 12]
 Nagykanizsa    0-1 Dunaferr
 
-Round 22
+Round: 22
 [Mar 17]
 DVSC           2-3 UTE
 [Mar 18]
@@ -349,7 +347,7 @@ Vasas          1-0 Gyor
 Diosgyor       1-2 Tatabanya
 ZTE            bye
  
-Round 23 [Mar 24,25]
+Round: 23 [Mar 24,25]
 Gyor           3-1 UTE  
 Vasas          4-0 PMFC     
 Nagykanizsa    2-1 Diosgyor
@@ -360,7 +358,7 @@ FTC            2-2 Dunaferr
 Kispest        0-2 MTK
 Vac            bye
 
-Round 24
+Round: 24
 [Mar 31]
 Vac            2-4 Haladas
 ZTE            0-0 Vasas
@@ -373,7 +371,7 @@ PMFC           1-1 Gyor
 UTE            0-1 Tatabanya
 MTK            bye
 
-Round 25
+Round: 25
 [Apr 4]
 Kispest        0-1 Nyirseg
 Haladas        0-4 MTK
@@ -386,7 +384,7 @@ Gyor           0-1 Tatabanya
 FTC            2-0 Diosgyor
 Dunaferr       bye
 
-Round 26
+Round: 26
 [Apr 7]
 MTK            0-0 Vasas
 [Apr 8]
@@ -400,7 +398,7 @@ ZTE            2-1 Gyor
 Diosgyor       1-3 Kispest
 Nyirseg        bye
 
-Round 27
+Round: 27
 [Apr 14]
 Vasas          0-2 Dunaferr
 Kispest        1-0 DVSC
@@ -413,7 +411,7 @@ Gyor           4-0 Nagykanizsa
 ZTE            1-2 Vac
 Diosgyor       bye
 
-Round 28
+Round: 28
 [Apr 21]
 UTE            0-0 Kispest
 [Apr 22]
@@ -427,7 +425,7 @@ MTK            3-1 ZTE
 Nagykanizsa    1-0 Siofok
 DVSC           bye
 
-Round 29
+Round: 29
 [Apr 28]
 Kispest        0-0 Tatabanya
 [Apr 29]
@@ -440,7 +438,7 @@ Gyor           1-1 Siofok
 Vac            0-5 MTK
 UTE            bye
 
-Round 30
+Round: 30
 [May 5]
 UTE            0-0 Haladas
 [May 6]
@@ -454,7 +452,7 @@ Nagykanizsa    0-1 Kispest
 MTK            4-0 Gyor
 Tatabanya      bye
 
-Round 31
+Round: 31
 [May 12]
 Vac            0-1 Nyirseg
 Vasas          3-0 UTE
@@ -467,7 +465,7 @@ ZTE            0-0 Diosgyor
 Haladas        1-1 Tatabanya 
 Nagykanizsa    bye 
 
-Round 32 [May 17]
+Round: 32 [May 17]
 FTC            1-0 Kispest 
 Dunaferr       1-0 Gyor 
 Nyirseg        0-0 MTK
@@ -478,7 +476,7 @@ Tatabanya      2-0 Vasas
 Nagykanizsa    1-1 Haladas
 Siofok         bye 
 
-Round 33 [May 20]
+Round: 33 [May 20]
 Gyor           4-0 Kispest
 Haladas        0-1 Siofok
 Vasas          1-4 Nagykanizsa
@@ -489,7 +487,7 @@ MTK            3-1 Diosgyor
 Dunaferr       2-0 Nyirseg
 FTC            bye
 
-Round 34 [May 27]
+Round: 34 [May 27]
 Nyirseg        2-1 Gyor 
 DVSC           3-1 MTK 
 UTE            1-0 Vac 
@@ -500,1201 +498,49 @@ FTC            6-2 Haladas
 Diosgyor       awd Dunaferr        [awarded 0-3; abandoned at 1-2 in 23']
 Kispest        bye
 
-Final Table:
-
- 1.Dunaferr FC                 32 24  7  1  79-23 79  Champions  [Dunaújváros]
- 2.MTK Hungária FC             32 18  9  5  64-28 63  [Budapest]
- 3.Vasas Danubius Hotels       32 19  4  9  58-32 61  [Budapest]
- 4.Lombard FC-Tatabánya        32 14 13  5  37-34 55
- 5.Ferencvárosi TC             32 14  8 10  61-39 50  [Budapest]
- 6.Debreceni VSC-Epona         32 14  8 10  52-41 50
- 7.Pécsi MFC                   32 11 12  9  41-47 45  [-]
- 8.Gyori ETO FC                32 12  8 12  52-36 44
- 9.Nyírség Spartacus FC        32 12  8 12  32-42 44  [Nyíregyháza]
-10.Újpesti TE                  32 10 11 11  46-42 41  [Budapest]
-11.Zalahus-ZTE FC              32  8 15  9  34-31 39  [Zalaegerszeg]
-12.Kispest-Honvéd FC           32 10  9 13  27-39 39  [Budapest]
-13.Haladás-Milos VFC           32  8  8 16  37-53 32  [Szombathely]
-14.Nagykanizsai Olajbányász    32  7 10 15  27-44 31
-----------------------------------------------------
-15.Siófoki Bányász             32  7  7 18  26-51 25  Relegated  [*]
-16.Diósgyori FC                32  5  9 18  26-56 24  Relegated 
-17.Vác-Zollner FC              32  3  6 23  24-85 15  Relegated
- -.Szeged LC                    0  0  0  0   0- 0  0  [+]
-
-[-] Gázszer FC (Akasztó) were taken taken over by second
-    division club Pécsi MFC during the winter break; PMFC took over
-    Gázszer FC's record.
-
-[*] Siofok had 3 points deducted for failing to play in Round 6;
-    also the Siofok-Nyirseg match in the 2nd half of the championship
-    has been switched to Nyiregyhaza.
-
-[+] Szeged LC withdrew during the winter break; their first two matcjes
-    after the winter break were awarded 0-3 against them (and 6 points
-    deducted) but after their failure to show up for two more matches
-    their record was expunged.  Their record at time of withdrawal:
-
-17.Szeged LC                   17  3  5  9  13-38 14
-
-NB: league reduced to 16 teams 2000/01.
-
-Topscorers:
-
-22 Attila Tokoli (Dunaferr) 
-19 Peter Horvath (FTC) 
-18 Mihaly Toth (FTC)
-14 Gabor Zavadszky (Dunaferr)  
-13 Bela Illes (MTK)
-   Peter Kabat (Vasas)
-   Krisztian Kenesei (MTK) 
-11 Gyula Horvath (Nagykanizsa)
-   Zoltan Kovacs (UTE) 
-   Norbert Toth (UTE)
-
-
-Hungary Cup 1999/2000
-
-FIRST ROUND
-
-(Top-2 of each 4-team groups and all winners of 3-team groups qualify
- for second round)
-
-GROUP 1
-07. 24. 
-Pápai ELC-Haladás 2-0 
-MTE Motim TE-Sárvár 1-1 
-07. 31.
-Pápai ELC-Sárvár 0-0
-MTE Motim TE-Haladás 1-2 
-08. 03.
-Sárvár FC-Haladás 0-1 
-08. 04.
-Pápai ELC-MTE Motim TE 2-1 
-
-Final standings:
-1. Pápai ELC            3       2       1       0       4-1     7
-2. Haladás-Milos        3       2       0       1       3-3     6
-3. Sárvár               3       0       2       1       1-2     2
-4. MTE Motim TE         3       0       1       2       3-5     1
-
-GROUP 2
-Ajkai SE-Celldömölk 0-3 (awarded)
-07. 23.
-Beledi SE-Gyori ETO FC 0-6 
-07. 31. 
-Ajkai SE-Gyori ETO 0-6 
-Beledi SE-Celldömölk 0-7 
-Beled-Ajka 4-0 (2-0)
-Celldömölk-Gyori ETO 1-2 
-
-Final standings:
-1. Gyori ETO            3       3       0       0       14-1    9
-2. Celldömölk           3       2       0       1       11-2    6
-3. Beled                3       1       0       2       4-13    3 
-4. Ajka                 3       0       0       3       0-13    0
-
-GROUP 3 
-07. 24.
-Veszprémi LC-Kaposvár 2-0
-Harkány-Zalahús ZTE 1-2
-07. 31.
-Harkány-Kaposvár 2-1 
-Veszprém-Zalahús ZTE 1-1
-08. 04.
-Harkány-Veszprémi LC 1-3 
-Kaposvár-Zalahús ZTE 0-1
-
-Final standings: 
-1. Veszprémi LC         3       2       1       0       6-2     7
-2. Zalahús ZTE FC       3       2       1       0       4-2     7
-3. Harkány              3       1       0       2       4-6     3
-4. Kaposvári Rákóczi    3       0       0       3       1-5     0
-
-GROUP 4 
-07. 24.
-Kaposfüredi VFC-Videoton 2-2 
-07. 27.
-Atomeromu SE-Royal Goldavis Hévíz 0-1 
-07. 31.
-Atomeromu SE-Videoton 1-1 
-Kaposfüred VFC-Royal Goldavis Héviz 2-0
-08. 04.
-Kaposfüredi VFC-Atomeromu SE 3-0 
-Royal Goldavis Héviz-Videoton 2-5 
-
-Final standings:
-1. Kaposfüred VFC       3       2       1       0       7-2     7
-2. Videoton FCF         3       1       2       0       8-5     5
-3. Royal Goldavis Héviz 3       1       0       2       3-7     3
-4. Paksi Atomeromu SE   3       0       1       2       1-5     1
-
-GROUP 5
-07. 24.
-Baracs-Dunaferr SE 0-5 
-Koroncó-III. Kerületi FC 1-2
-07. 31.
-Koroncó-Dunaferr 0-5 
-Baracs-III. Kerület FC 1-3
-08. 04.
-III. Kerületi FC-Dunaferr 1-5 
-Baracs-Koroncó 2-0 
-
-Final standings:
-1. Dunaferr SE          3       3       0       0       15-1    9
-2. III. Kerületi FC     3       2       0       1       6-7     6
-3. Baracs               3       1       0       2       3-8     3
-4. Koroncó              3       0       0       3       1-9     0
-
-GROUP 6
-07. 24.
-Dorog-Százhalombatta 2-4
-Bodajk-Kispest-Honvéd FC 1-1
-07. 31.
-Bodajk-Százhalombatta 3-2 
-Dorog-Kispest-Honvéd 1-2 
-08. 03.
-Százhalombatta-Kispest HFC 3-3
-08. 04.
-Bodajk-Dorog 0-0
-
-Final standings 
-1. Kispest-Honvéd FC    3       1       2       0       6-5     5
-2. Bodajk               3       1       2       0       4-3     5
-3. Százhalombatta       3       1       1       1       9-8     4 
-4. Dorog                3       0       1       2       3-6     1
-
-GROUP 7 
-07. 28.
-Abda-Palotás LC-Fót 4-4 
-Herta BLC (Budapest)-Siófok 0-1 
-07. 31.
-Herta-Budafok LC-Palotás FC-Fót 0-3 
-08. 01.
-Abda-Siófok 1-6 
-08. 04.
-PLC-Fót-Siófok 1-3 
-Herta Budafok LC-Abda 3-7 
-
-Final standings:
-1. Balaton TV-Siófok    3       3       0       0       10-2    9
-2. Palotás FC-Fót       3       1       1       1       8-7     4
-3. Abda                 3       1       1       1       12-13   4
-4. Herta Budafok LC     3       0       0       3       3-11    0
-
-GROUP 8
-TFC-Cegléd-BVSC 0-3 (awarded)
-07. 24.
-Monor-Ilzer-Gázszer FC 0-1
-07. 31.
-Monor Ilzer-BVSC 2-4 
-TFC-Cegléd-Gázszer FC 1-3
-08. 04.
-BVSC-Gázszer FC 1-0 
-Monor-Ilzer-TFC-Cegléd 2-4
-
-Final standings:
-1. BVSC-Zugló           3       3       0       0       8-2     9
-2. Gázszer FC           3       2       0       1       4-2     6
-3. Tiszakécske FC-Cegléd3       1       0       2       5-8     3
-4. Monor Ilzer FC       3       0       0       3       4-9     0
-
-GROUP 9
-07. 24.
-Pásztó LC-Diósgyori FC 1-1 
-Hevesi SE-REAC 2-2
-07. 31.
-Heves-Diósgyori FC 1-3 
-Pásztó LC-REAC 0-0
-08. 04.
-Pásztó LC-Heves 3-1
-REAC-Diósgyori FC 0-6 
-
-Final standings:
-1. Diósgyori FC         3       2       1       0       10-2    7
-2. Pásztó LC            3       1       2       0       4-2     5
-3. REAC                 3       0       2       1       2-8     2
-4. Heves                3       0       1       2       4-8     1
-
-GROUP 10
-07. 24.
-Jászfényszaru-BKV Elore 1-1 
-Germán SE (Tápiószentmárton)-Salgótarjáni BTC 3-1
-07. 31.
-Germán SE-BKV Elore 2-2 
-Jászfényszaru-Salgótarjáni BTC 0-6 
-08. 04.
-Jászfényszaru-Germán SE 3-3 
-Salgótarjáni BTC-BKV Elore 0-1 
-
-Final standings:
-1. Germán SE            3       1       2       0       8-6     5
-2. BKV Elore            3       1       2       0       4-3     5
-3. Salgótarjáni BTC     3       1       0       2       7-4     3 
-4. Jászfényszaru        3       0       2       1       4-10    2
-
-GROUP 11
-07. 24.
-Mezokövesd-Csepel SC 0-1
-07. 31.
-Tápiógyörgyei KSK-Csepel SC 0-1 
-08. 04.
-Tápiógyörgye-Mezokövesd 0-1 
-
-Final standings:
-1. Csepel SC            2       2       0       0       2-0     6
-2. Mezokövesd           2       1       0       1       1-1     3
-3. Tápiógyörgye         2       0       0       2       0-2     0
-[only Csepel qualified]
-
-GROUP 12
-07. 24.
-Jászberényi Vasas-Békéscsaba 2-0
-07. 31.
-Blondy FC (Szentpéterszeg)-Békéscsaba 1-0 
-08. 04.
-Blondy FC-Jászberényi Vasas 0-3 
-
-Final standings:
-1. Jászberényi Vasas    2       2       0       0       5-0     6
-2. Blondy FC            2       1       0       1       1-3     3
-3. Békéscsaba           2       0       0       2       0-3     0
-[only Jászberényi Vasas qualified]
-
-GROUP 13
-Kiskunfélegyháza-Szeged LC 0-3 
-Magyarbánhegyes-Szeged LC 1-9 
-08. 04.
-Magyarbánhegyes-Kiskunfélegyháza 1-2 
-
-Final standings:
-1. Szeged LC            2       2       0       0       12-1    6
-2. Kiskunfélegyháza     2       1       0       1       2-4     3
-3. Magyarbánhegyes      2       0       0       2       2-11    0
-[only Szeged LC qualified]
-
-GROUP 14
-07. 24.
-Miskolci VSC-Vác FC-Zollner 0-6 
-07. 31.
-Kisléta-Vác FC-Zollner 1-1
-08. 04.
-Kisléta-Miskolci VSC 3-1
-
-Final standings 
-1. Vác FC-Zollner       2       1       1       0       7-1     4
-2. Kisléta              2       1       1       0       4-2     4
-3. Miskolci VSC         2       0       0       2       1-9     0
-[only Vác FC-Zollner qualified]
-
-GROUP 15
-07. 24.
-Kemecse-Demecser 1-2 
-Kazincbarcika-FC Eger 2-0 
-07. 31.
-Kazincbarcika-Demecser 1-2 
-Kemecse-FC Eger 1-5 
-08. 04.
-Kemecse-Kazincbarcika 0-4 
-Eger-Demecser 3-1 
-
-Final standings:
-1. Kazincbarcika        3       2       0       1       7-2     6 
-2. FC Eger              3       2       0       1       8-4     6
-3. Demecser             3       2       0       1       5-5     6
-4. Kemecse              3       0       0       3       2-11    0
-
-GROUP 16
-07. 27.
-Borsod Volán (Miskolc)-Nyírség-Spartacus 1-1
-07. 31.
-Baktalórántháza-Nyírség-Spartacus 2-2
-08. 04.
-Baktalórántháza-Borsod Volán 2-1
-
-Final standings:
-1. Baktalórántháza      2       1       1       0       4-3     4
-2. Nyírség-Spartacus    2       0       2       0       3-3     2
-3. Borsod Volán         2       0       1       1       2-3     1
-[only Baktalórántháza qualified]
-
-
-
-1/16
-PSE Fót                     -  Diósgyőr FC                 =  1 - 0 (1-0)
-Baktalórántháza             -  Kispest-Honvéd FC Budapest  =  1 - 3 (1-1)
-Pásztó LC                   -  Vasas DH Budapest           =  2 - 3 (1-2)
-MTK-Hungária FC Budapest    -  Gázszer FC Agárd            =  2 - 0 (2-0)
-Szeged LC                   -  Budapesti VSC               =  0 - 1 (0-1)
-Boda FK                     -  Újpest TE Budapest          =  0 - 3 (0-1)
-Csepel SC Budapest          -  Dunaferr SE Dunaújváros     =  0 - 3 (0-1)
-Kazincbarcika UFC           -  Vác FC-Zollner              =  1 - 3 (0-2)
-Tápiószentmárton Germán SE  -  III Kerület FC Budapest     =  2 - 1 (0-0)
-Pápai ELC                   -  FC Eger                     =  0 - 1 (0-1)
-Celldömölk USE              -  Siófok Bányász              =  0 - 2 (0-1)
-Debreceni VSC Epona         -  BKV Előre                   =  2 - 1 (2-0)
-Videoton FC Fehérvár        -  Veszprém LC 2001            =  0 - 1 (0-0)
-Győr ETO FC                 -  Haladás UFC Szombathely     =  1 - 0 (0-0)
-Zalahús Zalaegerszeg TE     -  Ferencváros TC Budapest     =  0 - 1 (0-0, 0-0, 0-1)
-Kaposfüred Vállalkozók SE   -  Faszbereny SE               =  2 - 2 (1-0, 1-1, 2-2)7-6p
-
-
-1/8
-Kispest-Honvéd FC Budapest  -  Újpest TE Budapest          =  0 - 1 (0-0)
-Dunaferr SE Dunaújváros     -  Siófok Bányász              =  3 - 0 (2-0)
-FC Eger                     -  Vác FC-Zollner              =  1 - 2 (1-1)
-Kaposfüred Vállalkozók SE   -  Tápiószentmárton Germán SE  =  4 - 5 (1-3)
-Budapesti VSC               -  PSE Fót                     =  3 - 0 (1-0)
-Vasas DH Budapest           -  Ferencváros TC Budapest     =  4 - 1 (0-0)
-Veszprém LC 2001            -  Debreceni VSC Epona         =  0 - 3 (0-1)
-Győr ETO FC                 -  MTK-Hungária FC Budapest    =  0 - 1 (0-0)
-
-
-Quarter-Finals
-MTK-Hungária FC Budapest    -  Dunaferr SE Dunaújváros     =  1 - 0 (0-0)
-Újpest TE Budapest          -  Vasas DH Budapest           =  1 - 2 (1-1)
-Tápiószentmárton Germán SE  -  Vác FC-Zollner              =  2 - 1 (1-1)
-Debreceni VSC Epona         -  Budapesti VSC               =  3 - 1 (0-0, 1-1, 3-1)
-
-
-Semi-Finals
-MTK-Hungária FC Budapest    -  Debreceni VSC Epona         =  4 - 0 (2-0)
-Tápiószentmárton Germán SE  -  Vasas DH Budapest           =  1 - 4 (1-1)
-
-
-
-
-Final [May 3]
-Budapest, "Népstadion", att 4.000, Referee: Hajdó
-MTK-Hungária Budapest       - Vasas Danubius Hotels        = 3 - 1 (0-1)
-  [Andras Toth 49og, Gabor Halmai 56, Krisztian Kenesei 77 - Ferenc Szilveszter 12]
-  [att: 4,000]
-MTK: 22-Gabor Babos, 19-Adam Komlosi, 5-Attila Kuttor, 6-Norbert Elek, 14-Gabor Halmai, 
-     15-Tamas Szamosi, 20-Krisztian Kenesei (9-Nicolae Ilea 86th), 8-Karoly Eros,
-     33-Radu Gusatu (28-Gabor Egressy, 76th), 10-Bela Illes, 25-Akos Buzsaky (7-Csaba Madar, 46th) 
-Vasas: 23-Istvan Kovesfalvi, 2-Tamas Monos, 20-Tamas Juhar, 21-Andras Toth, 4-Andras Laszlo,
-       6-Janos Zovath, 24-Imre Aranyos (14-Balazs Beko,46th), 10-Attila Szili 
-       (32-Peter Simek 82nd), 22-Peter Kabat, 33-Thomas Sowunmi, 7-Ferenc Szilveszter 
-       (9-Krisztian Tiber 79th) 
-Referee: Attila Hajdo 
-
-
-
-Second Level (NB I) 1999/2000
-
-Final Table:
-
- 1.Videoton FCF                 38  32  5  1 104-19 101 [Székesfehérvár]
- 2.Matáv Sopron                 38  24  6  8  83-28  78
- 3.BKV Elore                    38  19  9 10  59-32  66
- 4.Kecskeméti FC                38  20  6 12  60-39  66
- 5.Rákóczi FC Contimex          38  18 11  9  47-33  65  [Káposvár]
- 6.Elore FC Békéscsaba          38  18 10 10  53-37  64
- 7.FC Cegléd                    38  17  8 13  67-57  59
- 8.Szolnoki MÁV Neusiedler      38  18  5 15  65-69  59
- 9.Dunakeszi ADtranz            38  16 10 12  59-52  58
-10.III. kerületi FC             38  15 10 13  57-59  55  [Budapest]
-11.Százhalombatta               38  15  9 14  59-48  54
-12.Tiszaújvárosi FC             38  14 10 14  51-47  52
-13.BVSC-Zugló FC                38  13 12 13  50-44  51
-14.Komlói Bányász               38  13 10 15  52-56  49
-15.Hajdúszoboszló               38  12  6 20  51-91  42
-16.Rákospalotai EAC             38  11  3 24  42-79  36
-17.Diego FC Dabas               38   8  9 21  48-75  33  [Erd]
-18.Demecseri FC                 38   6 12 20  40-70  30
-19.Komáromi FC                  38   7  6 25  47-106 27
-20.Csepel SC                    38   3  5 30  25-78  14
-
-NB: Salgótarjáni BTC withdrew and start at the fourth level (NB III).
-    Tiszavasvári withdrew.
-    Hajdúszoboszló and Kecskeméti FC obtained their places.
-
-After winterbreak Pécsi MFC took over 1st class team Gázszer FC Akasztó.
-They were replaced in NB I by Rákospalotai EAC from NB II eastern division.
-Tiszakécske FC were joined or  taken over by NB III club FC Cegléd
-Érdi Sport FC changed their name in Érd Dabas, later in Diego FC Dabas
-
-Round 1
-[Aug 7]
-Dunakeszi      0-0 III. kerulet
-Szazhalombatta 1-1 Komarom
-Videoton       1-0 Erd
-Matav Sopron   3-2 BVSC
-[Aug 8]
-Szolnok        2-2 Hajduszoboszlo
-BKV Elore      2-2 Tiszaujvaros
-Csepel         1-1 Kaposvar
-Kecskemet      2-0 PMFC
-Demecser       2-2 Bekescsaba
-Komlo          1-2 Tiszakecske
-
-Round 2
-[Aug 13]
-BVSC           1-0 BKV Elore
-[Aug 14]
-Bekescsaba     2-1 Kecskemet
-Kaposvar       0-3 Videoton
-Tiszaujvaros   3-0 Demecser
-PMFC           2-4 Dunakeszi
-Tiszakecske    1-2 Szolnok
-[Aug 15]
-Erd            1-0 Komlo
-Komarom        1-3 Matav Sopron
-Hajduszoboszlo 1-1 Szazhalombatta
-III. kerulet   3-2 Csepel
-
-Round 3
-[Aug 20]
-BKV Elore      0-1 Komarom
-Dunakeszi      1-0 Kecskemet
-Bekescsaba     3-0 Tiszaujvaros
-[Aug 21]
-Szazhalombatta 2-0 Tiszakecske
-Matav Sopron   5-1 Hajduszoboszlo
-Videoton       5-0 III. kerulet
-[Aug 22]
-Demecser       2-3 BVSC
-Csepel         0-2 PMFC
-Komlo          3-1 Kaposvar
-Szolnok        2-1 Erd
-
-Round 4
-[Aug 27]
-Dunakeszi      3-3 Bekescsaba
-BVSC           2-1 Tiszaujvaros
-[Aug 28]
-Kaposvar       1-0 Szolnok
-Tiszakecske    0-1 Matav Sopron
-PMFC           0-2 Videoton
-[Aug 29]
-Erd            0-3 Szazhalombatta
-Kecskemet      0-2 Csepel
-Komarom        1-3 Demecser
-Hajduszoboszlo 0-1 BKV Elore
-[Sep 15]
-III. kerulet   2-1 Komlo
-
-Round 5
-[Sep 1]
-Bekescsaba     1-1 BVSC
-Tiszaujvaros   1-2 Komarom
-Csepel         1-2 Dunakeszi
-Demecser       1-2 Hajduszoboszlo
-Komlo          1-1 PMFC
-Matav Sopron   7-0 Erd
-Videoton       3-1 Kecskemet
-BKV Elore      3-0 Tiszakecske
-Szazhalombatta 1-1 Kaposvar
-[Sep 22]
-Szolnok        2-1 III. kerulet
-
-Round 6
-[Sep 4]
-Tiszakecske    2-0 Demecser
-PMFC           3-1 Szolnok
-Dunakeszi      1-1 Videoton
-Kaposvar       0-0 Matav Sopron
-[Sep 5]
-Komlo          3-2 Kecskemet
-Komarom        0-3 BVSC
-Hajduszoboszlo 2-0 Tiszaujvaros
-Csepel         0-1 Bekescsaba
-Erd            3-3 BKV Elore
-[Nov 10]
-III. kerulet   1-1 Szazhalombatta
-
-Round 7
-[Sep 10]
-BKV Elore      1-0 Kaposvar
-BVSC           4-1 Hajduszoboszlo
-Szazhalombatta 2-0 PMFC
-[Sep 11]
-Videoton       2-0 Csepel
-Tiszaujvaros   0-0 Tiszakecske
-Bekescsaba     3-1 Komarom
-[Sep 12]
-Matav Sopron   2-0 III. kerulet
-Szolnok        0-1 Kecskemet
-Komlo          1-0 Dunakeszi
-Demecser       1-1 Erd
-
-Round 8
-[Sep 17]
-Videoton       3-0 Bekescsaba
-[Sep 18]
-Dunakeszi      3-1 Szolnok
-Erd            0-1 Tiszaujvaros
-Kaposvar       2-1 Demecser
-PMFC           1-0 Matav Sopron
-Tiszakecske    3-2 BVSC
-[Sep 19]
-Kecskemet      4-1 Szazhalombatta
-III. kerulet   1-3 BKV Elore
-Hajduszoboszlo 5-1 Komarom
-Csepel         0-3 Komlo
-
-Round 9
-[Sep 24]
-BKV Elore      2-0 PMFC
-BVSC           2-0 Erd
-[Sep 25]
-Matav Sopron   3-0 Kecskemet
-Szazhalombatta 1-3 Dunakeszi
-Tiszaujvaros   0-0 Kaposvar
-Bekescsaba     0-1 Hajduszoboszlo
-Demecser       2-4 III. kerulet
-Komarom        2-2 Tiszakecske
-Komlo          1-2 Videoton
-Szolnok        3-2 Csepel
-
-Round 10
-Komlo          1-3 Bekescsaba
-Videoton       4-0 Szolnok
-Csepel         2-1 Szazhalombatta
-Dunakeszi      1-1 Matav Sopron
-Kecskemeti     1-0 BKV Elore
-PMFC           1-1 Demecser
-III. kerulet   0-2 Tiszaujvaros
-Kaposvar       2-1 BVSC
-Erd            7-0 Komarom
-Tiszakecske    2-2 Hajduszoboszlo
-
-Round 11
-Bekescsaba     2-1 Tiszakecskei
-Hajduszoboszlo 3-1 Erd
-Komaromi       2-3 Kaposvar
-BVSC           3-1 III. kerulet
-Tiszaujvaros   3-1 PMFC
-Demecser       2-3 Kecskemet
-BKV Elore      1-0 Dunakeszi
-Matav Sopron   2-0 Csepel
-Szazhalombatta 1-2 Videoton
-Szolnok        6-1 Komlo
-
-Round 12
-Szolnok        2-1 Bekescsaba
-Komlo          3-1 Szazhalombatta
-Csepel         1-2 BKV Elore
-Dunakeszi      4-1 Demecser
-Kecskemet      1-0 Tiszaujvaros
-PMFC           2-0 BVSC
-Kaposvari      3-1 Hajduszoboszlo
-Erd            1-3 Tiszakecske
-III. kerulet   5-5 Komarom
-Videoton       1-0 Matav Sopron
-
-Round 13
-Bekescsaba     1-0 Erd
-Tiszakecske    3-1 Kaposvar
-Hajduszoboszlo 1-0 III. kerulet
-Komarom        0-2 PMFC
-BVSC Zuglo     2-2 Kecskemet
-Tiszaujvaros   0-3 Dunakeszi
-Demecser       1-0 Csepel
-BKV Elore      1-1 Videoton
-Matav Sopron   2-0 Komlo
-Szazhalombatta 2-0 Szolnok
-
-Round 14
-Bekescsaba     2-1 Szazhalombatta
-Szolnok        1-5 Matav Sopron
-Komlo          1-2 BKV Elore
-Videoton       3-1 Demecser
-Csepel         3-1 Tiszaujvaros
-Dunakeszi      1-0 BVSC
-Kecskemet      2-0 Komarom
-PMFC           2-0 Hajduszoboszlo
-III. kerulet   1-0 Tiszakecske
-Kaposvari      1-0 Erd
-
-Round 15
-Bekescsaba     1-1 Kaposvar
-Erd            0-1 III. kerulet
-Tiszakecske    2-3 PMFC
-Hajduszoboszlo 0-1 Kecskemet
-Komarom        1-1 Dunakeszi
-BVSC           1-1 Csepel
-Tiszaujvarosi  1-4 Videoton
-Demecser       0-0 Komlo
-BKV Elore      4-0 Szolnok
-Matav Sopron   2-0 Szazhalombatta
-
-Round 16
-Matav Sopron   1-0 Bekescsaba
-Szazhalombatta 1-0 BKV Elore
-Szolnok        3-0 Demecser
-Komlo          1-0 Tiszaujvaros
-Videoton       3-1 BVSC
-Csepel         0-2 Komarom
-Dunakeszi      3-2 Hajduszoboszlo
-Kecskemet      1-2 Tiszakecske
-PMFC           4-2 Erd
-III. kerulet   2-1 Kaposvar
-
-Round 17
-Bekescsaba     3-0 III. kerulet
-Kaposvar       0-1 PMFC
-Erd            1-1 Kecskemet
-Tiszakecske    3-0 Dunakeszi
-Hajduszoboszlo 3-2 Csepel
-Komarom        1-5 Videoton
-BVSC           3-3 Komlo
-Tiszaujvaros   4-1 Szolnok
-Demecser       2-1 Szazhalombatta
-BKV Elore      1-0 Matav Sopron
-
-Round 18
-[Nov 19]
-BKV Elore      1-1 Bekescsaba
-[Feb 25]
-Videoton       2-0 Hajduszoboszlo
-[Feb 26]
-Matav Sopron   4-1 Demecser
-Szazhalombatta 0-0 Tiszaujvaros
-Dunakeszi      4-0 Erd
-Rakospalota    1-4 III. kerulet
-[Feb 27]
-Szolnok        0-0 BVSC
-Komlo          2-0 Komarom
-Csepel         0-2 Cegled
-Kecskemet      1-0 Kaposvar
-
-Round 19
-[Mar 4]
-Bekescsaba     2-1 Rakospalota
-Kaposvari      1-0 Dunakeszi
-Cegled         1-2 Videoton
-Tiszaujvaros   3-2 Matav Sopron
-Demecser       0-3 BKV Elore
-BVSC           1-3 Szazhalombatta
-[Mar 5]
-III. kerulet   1-0 Kecskemet
-Erd            1-0 Csepel
-Hajduszoboszlo 2-2 Komlo
-Komarom        2-3 Szolnok
-
-Round 20
-[Mar 11]
-Bekescsaba     1-0 Demecser
-Tiszaujvaros   3-1 BKV Elore
-BVSC           2-3 Matav Sopron
-Cegled         1-1 Komlo
-Kaposvar       1-0 Csepel
-Rakospalota    0-6 Kecskemet
-[Mar 12]
-Komarom        0-3 Szazhalombatta
-Hajduszoboszlo 2-3 Szolnok
-Erd            0-2 Videoton
-III. kerulet   2-1 Dunakeszi
-
-Round 21
-[Mar 17]
-Videoton       1-0 Kaposvar
-[Mar 18]
-Dunakeszi      1-0 Rakospalota
-Szazhalombatta 4-1 Hajduszoboszlo
-Demecser       0-0 Tiszaujvaros
-Csepel         0-2 III. kerulet
-[Mar 19]
-Kecskemet      2-0 Bekescsaba
-Komlo          0-0 Erd
-Szolnok        3-3 Cegled
-BKV Elore      2-1 BVSC
-[Mar 29]
-Matav Sopron   7-1 Komarom
-
-Round 22
-[Mar 22]
-Tiszaujvarosi  1-1 Bekescsaba
-BVSC           1-1 Demecser
-Komaromi       2-1 BKV Elore
-Hajduszoboszlo 1-0 Matav Sopron
-Cegled         1-0 Szazhalombatta
-Erd            3-1 Szolnok
-Kaposvar       1-0 Komlo
-III. kerulet   1-1 Videoton
-Rakospalota    3-2 Csepel
-Kecskemet      1-1 Dunakeszi
-
-Round 23
-[Mar 25]
-Bekescsaba     3-0 Dunakeszi
-Matav Sopron   0-0 Cegled
-Demecser       2-2 Komarom
-Tiszaujvaros   0-0 BVSC
-Videoton       8-0 Rakospalota
-[Mar 26]
-Csepel         0-3 Kecskemet
-Komlo          1-0 III. kerulet
-Szolnok        1-0 Kaposvar
-Szazhalombatta 2-0 Erd
-BKV Elore      6-0 Hajduszoboszlo
-
-Round 24
-[Mar 31]
-BVSC           0-0 Bekescsaba
-[Apr 1]
-Cegled         1-3 BKV Elore
-Kaposvar       1-0 Szazhalombatta
-Rakospalota    0-1 Komlo
-Dunakeszi      1-0 Csepel
-[Apr 2]
-Komarom        0-1 Tiszaujvaros
-Hajduszoboszlo 1-1 Demecser
-Diego FC Dabas 1-5 Matav Sopron
-III. kerulet   1-0 Szolnok
-Kecskemet      0-1 Videoton
-
-Round 25
-[Apr 7]
-BVSC           1-0 Komarom
-[Apr 8]
-Bekescsaba     3-0 Csepel
-Szazhalombatta 1-2 III. kerulet
-Matav Sopron   0-0 Kaposvar
-Demecser       2-0 Cegled
-Tiszaujvaros   3-1 Hajduszoboszlo
-Videoton       3-0 Dunakeszi
-[Apr 9]
-Kecskemet      2-1 Komlo
-Szolnok        4-2 Rakospalota
-BKV Elore      0-0 Diego FC Dabas
-
-Round 26
-[Apr 14]
-Dunakeszi      2-2 Komlo
-[Apr 15]
-Cegled         1-1 Tiszaujvaros
-Kaposvar       1-1 BKV Elore
-III. kerulet   1-1 Matav Sopron
-Rakospalota    0-3 Szazhalombatta
-Komarom        0-1 Bekescsaba
-[Apr 16]
-Hajduszoboszlo 0-1 BVSC
-Diego FC Dabas 1-1 Demecser
-Kecskemet      1-0 Szolnok
-Csepel         0-3 Videoton
-
-Round 27
-[Apr 19]
-Bekescsaba     0-2 Videoton
-Komlo          1-1 Csepel
-Szolnok        4-1 Dunakeszi
-Szazhalombatta 0-0 Kecskemet
-Matav Sopron   2-0 Rakospalota
-BKV Elore      3-0 III. kerulet
-Demecser       0-1 Kaposvar
-Tiszaujvaros   2-1 Diego FC Dabas
-BVSC           1-2 Cegled
-Komarom        1-2 Hajduszoboszlo
-
-Round 28
-[Apr 21]
-Dunakeszi      1-3 Szazhalombatta
-[Apr 22]
-Cegled         6-4 Komarom
-Kaposvar       1-0 Tiszaujvaros
-Rakospalota    0-2 BKV Elore
-Hajduszoboszlo 0-2 Bekescsaba
-Videoton       3-0 Komlo
-[Apr 23]
-Diego FC Dabas 0-1 BVSC
-III. kerulet   3-3 Demecser
-Kecskemet      1-2 Matav Sopron
-Csepel         1-4 Szolnok
-
-Round 29
-[Apr 29]
-Bekescsaba     3-0 Komlo
-Szazhalombatta 6-1 Csepel
-Matav Sopron   1-0 Dunakeszi
-Demecser       2-0 Rakospalota
-Tiszaujvaros   2-2 III. kerulet
-BVSC           0-0 Kaposvar
-[Apr 30]
-Szolnok        3-1 Videoton
-BKV Elore      1-2 Kecskemet
-Komarom        1-1 Diego FC Dabas
-Hajduszoboszlo 1-8 Cegled
-
-Round 30
-[May 5]
-Dunakeszi      0-0 BKV Elore
-[May 6]
-Cegled         1-0 Bekescsaba
-Kaposvar       5-0 Komarom
-Rakospalota    2-0 Tiszaujvaros
-Videoton       4-1 Szazhalombatta
-[May 7]
-Diego FC Dabas 6-3 Hajduszoboszlo
-III. kerulet   0-0 BVSC Zuglo
-Kecskemet      2-0 Demecser
-Csepel         0-4 Sopron
-Komlo          0-2 Szolnok
-
-Round 31
-[May 10]
-Bekescsaba     1-3 Szolnok
-Szazhalombatta 4-1 Komlo
-Sopron         1-1 Videoton
-BKV Elore      1-0 Csepel
-Demecser       3-1 Dunakeszi
-Tiszaujvaros   3-0 Kecskemet
-BVSC Zuglo     5-2 Rakospalota
-Komarom        1-2 III. kerulet
-Hajduszoboszlo 0-3 Kaposvar
-Cegled         5-2 Diego FC Dabas
-
-Round 32
-[May 12]
-Dunakeszi      2-0 Tiszaujvaros
-[May 13]
-Kaposvar       4-1 Cegled
-Rakospalota    1-2 Komarom
-Videoton       1-1 BKV Elore
-[May 14]
-Diego FC Dabas 1-1 Bekescsaba
-III. kerulet   1-2 Hajduszoboszlo
-Kecskemet      1-0 BVSC Zuglo
-Csepel         0-0 Demecser
-Komlo          2-0 Sopron
-Szolnok        2-2 Szazhalombatta
-
-Round 33
-[May 20]
-Szazhalombatta 1-1 Bekescsaba
-Sopron         5-0 Szolnok
-Demecser       1-5 Videoton
-Tiszaujvaros   1-1 Csepel
-Cegled         2-0 III. kerulet
-BVSC Zuglo     2-0 Dunakeszi
-[May 21]
-BKV Elore      0-0 Komlo
-Komarom        0-2 Kecskemet
-Hajduszoboszlo 3-2 Rakospalota
-Diego FC Dabas 3-3 Kaposvar
-
-Round 34
-[May 24]
-Kaposvar       1-0 Bekescsaba
-III. kerulet   4-0 Diego FC Dabas
-Rakospalota    1-1 Cegled
-Kecskemet      5-0 Hajduszoboszlo
-Dunakeszi      3-2 Komarom
-Csepel         0-1 BVSC Zuglo
-Videoton       3-1 Tiszaujvaros
-Komlo          3-1 Demecser
-Szolnok        1-0 BKV Elore
-Szazhalombatta 0-2 Sopron
-
-Round 35
-[May 27]
-Bekescsaba     0-2 Sopron
-Demecser       2-2 Szolnok
-Tiszaujvaros   4-0 Komlo
-Cegled         1-0 Kecskemet
-Kaposvar       3-2 III. kerulet
-[May 28]
-BKV Elore      1-2 Szazhalombatta
-Komarom        4-0 Csepel
-Hajduszoboszlo 2-2 Dunakeszi
-Diego FC Dabas 2-0 Rakospalota
-[May 29]
-BVSC Zuglo     0-1 Videoton
-
-Round 36
-[June 3]
-III. kerulet   1-1 Bekescsaba
-Rakospalota    1-2 Kaposvar
-Kecskemet      4-2 Diego FC Dabas
-Dunakeszi      3-1 Cegled
-Csepel         1-2 Hajduszoboszlo
-Videoton       7-0 Komarom
-Komlo          0-0 BVSC Zuglo
-Szolnok        0-2 Tiszaujvaros
-Szazhalombatta 1-0 Demecser
-Sopron         2-3 BKV Elore
-
-Round 37
-[June 7]
-Bekescsaba     2-0 BKV Elore
-Demecser       0-1 Sopron
-Tiszaujvaros   4-1 Szazhalombatta
-BVSC Zuglo     1-2 Szolnok
-Komarom        1-6 Komlo
-Hajduszoboszlo 0-4 Videoton
-Cegled         3-1 Csepel
-Diego FC Dabas 4-2 Dunakeszi
-Kaposvar       1-1 Kecskemet
-III. kerulet   3-0 Rakospalota
-
-Round 38
-[June 10]
-Rakospalota    1-2 Bekescsaba
-Kecskemet      3-3 III. kerulet
-Dunakeszi      0-0 Kaposvar
-Csepel         0-2 Diego FC Dabas
-Videoton       4-0 Cegled
-Komlo          5-1 Hajduszoboszlo
-Szolnok        1-3 Komarom
-Szazhalombatta 1-1 BVSC Zuglo
-Sopron         3-1 Tiszaujvaros
-BKV Elore      3-0 Demecser
-
-Final Table:
-
- 1.Videoton FCF                 38  32  5  1 104-19 101 [Székesfehérvár]
- 2.Matáv Sopron                 38  24  6  8  83-28  78
- 3.BKV Elore                    38  19  9 10  59-32  66
- 4.Kecskeméti FC                38  20  6 12  60-39  66
- 5.Rákóczi FC Contimex          38  18 11  9  47-33  65  [Káposvár]
- 6.Elore FC Békéscsaba          38  18 10 10  53-37  64
- 7.FC Cegléd                    38  17  8 13  67-57  59
- 8.Szolnoki MÁV Neusiedler      38  18  5 15  65-69  59
- 9.Dunakeszi ADtranz            38  16 10 12  59-52  58
-10.III. kerületi FC             38  15 10 13  57-59  55  [Budapest]
-11.Százhalombatta               38  15  9 14  59-48  54
-12.Tiszaújvárosi FC             38  14 10 14  51-47  52
-13.BVSC-Zugló FC                38  13 12 13  50-44  51
-14.Komlói Bányász               38  13 10 15  52-56  49
-15.Hajdúszoboszló               38  12  6 20  51-91  42
-16.Rákospalotai EAC             38  11  3 24  42-79  36
-17.Diego FC Dabas               38   8  9 21  48-75  33  [Erd]
-18.Demecseri FC                 38   6 12 20  40-70  30
-19.Komáromi FC                  38   7  6 25  47-106 27
-20.Csepel SC                    38   3  5 30  25-78  14
-
-NB: Salgótarjáni BTC withdrew and start at the fourth level (NB III).
-    Tiszavasvári withdrew.
-    Hajdúszoboszló and Kecskeméti FC obtained their places.
-
-After winterbreak Pécsi MFC took over 1st class team Gázszer FC Akasztó.
-They were replaced in NB I by Rákospalotai EAC from NB II eastern division.
-Tiszakécske FC were joined or  taken over by NB III club FC Cegléd
-Érdi Sport FC changed their name in Érd Dabas, later in Diego FC Dabas
-
-
-Third Level (NB II) 1999/2000
-
-Keleti csoport (Eastern region)
-
-Borsod Volán SE            1-4  1-1  2-2  2-1  1-2  4-1  1-1  1-0  0-0  1-0  1-2  0-0  1-0  1-0*
-FC Eger               1-2       1-0  2-0  7-2  2-2  2-0  1-0  0-1  4-1  0-1  2-1  2-4  2-1  3-1*
-Gyomaendrod           0-0  0-4       1-2  0-2  2-1  0-2  1-1  0-0  0-1  0-6  1-3  4-1  1-4  1-3
-Gyulai FC             1-1  0-3  1-0  ---  5-1  1-0  1-0  7-0  2-2  4-2  0-3  0-2  1-1  3-0  1-0*
-FC Hatvan             0-0  2-6  1-1  1-4  ---  1-3  2-2  1-1  0-3  1-3  4-0  1-1  1-3  1-1  1-1*
-Jásberényi Vasas      3-1  1-1  3-0  0-1  0-2  ---  5-2  2-0  0-1  2-0  0-0  2-0  3-0  0-1  4-0  6-0
-Kalocsai FC           1-0  0-2  1-0  1-1  3-1  1-4  ---  2-1  1-2  1-1  0-1  2-1  1-1  1-1  3-4*
-Kazinbarcikai SC      1-2  0-3  4-0  1-0  1-1  0-3  2-3  ---  2-2  3-4  0-4  2-0  1-0  0-3  3-1  5-0
-Kiskorös              3-1  4-3  1-0  3-1  1-0  1-0  1-0  3-0  ---  3-0  5-0  2-0  4-1  1-1  1-0
-Kiskunfélegyházi TK   0-3  0-2  8-2  0-1  1-3  3-2  0-1  0-6  3-4  ---  1-3  2-5  3-3  0-1  3-1
-Kunszentmártoni TE    3-1  1-0  0-0  2-0  5-0  1-0  3-0  2-2  3-1  1-0  ---  1-0  1-1  1-3  4-2*
-Monor Ilzer SE        1-1  4-1  3-0  1-1  1-0  1-0  5-1  0-0  1-1  1-0  1-3  ---  1-1  3-3  6-1  2-2
-Nyírbátor SC          1-2  2-3  4-0  2-0  1-0  0-2  1-1  2-0  2-0  2-0  0-1  3-1  ---  1-0 10-0  3-1
-Fóti SE               1-1  2-1  1-0  4-2  5-2  2-0  3-0  1-2  0-0  1-0  1-1  3-1  1-2  ---  1-0*
-Dunakeszi Kinizsi     1-4  0-2  5-1* 2-6  0-1  1-2* 0-0  1-1* 1-2* 7-1* 0-2  2-1* 3-3* 0-4  ---
-Miskolci VSC          0-1  0-0                                          2-2            1-2       ---
-* matches played by Rákospalotai EAC who replaced Pécsi MFC in NB II after winterbreak
-
-  1 Kiskorösi FC         28  19   6   3  52-23    63
-  2 Kunszentmártoni TE   28  19   5   4  53-23    62
-  3 FC Eger              28  18   2   8  64-33    56
-  4 Fóti SE              28  16   7   5  51-26    55
-  5 Jászberényi SE       28  14   3  11  46-26    45
-  6 Gyulai FC            28  13   6   9  48-37    45
-  7 Borsod Volán SE      28  11  10   7  36-31    43 (Miskolc)
-  8 Nyírbátor FC         28  11   8   9  49-37    41
-  9 Monor Ilzer SE       28  11   7  10  46-35    40
- 10 Kalocsai FC          28   8   7  13  31-49    31
- 11 Kazincbarcikai SC    28   7   8  13  35-50    29
- 12 FC Hatvan            28   5   8  15  33-61    23
- 13 Kiskunfélegyházi TK  28   6   3  19  37-67    21
- 14 Dunakeszi Kinizsi    28   5   4  19  37-72    19 (Budapest)
- 15 Gyomaendrod          28   2   6  20  16-64    12
-    Miskolci VSC withdrew
-
-Nyugati csoport (Western region)
-
-Balatonlelle          ---  1-1  2-2  1-0  2-0  2-2  1-0  1-0  0-1  1-2  0-0  3-1  0-2  0-0
-Beremendi Építok SK   1-0  ---  0-2  2-1  1-0  9-1  1-4  1-0  0-3  3-1  1-0  0-0  1-1  0-2      5-1
-Büki TK               1-0  3-0  ---  1-1  2-1  1-0  3-0  3-2  7-0  0-2  0-2  2-1  3-0  0-0      5-1
-Celldömölki VSE       3-0  2-0  1-0  ---  2-3  3-0  1-1  1-0  7-0  2-0  2-1  0-0  1-0  0-4
-Dorog SC              4-0  1-2  1-0  1-1  ---  3-2  1-1  2-1  3-1  0-0  1-0  2-0  2-0  2-2
-Budafoki LC           0-3  0-4  1-5  0-4  0-3  ---  0-3  0-2  0-1  0-3  0-2  2-2  0-0  0-2
-Marcali VSE           0-0  0-2  5-0  2-0  0-0  5-1  ---  0-2  4-1  1-2  4-2  2-0  2-1  2-1
-MTE Hotim TE          0-0  2-0  2-2  0-0  2-2  5-0  3-0  ---  2-0  4-1  1-2  3-0  0-0  2-1
-PVSK Pécs 96 FC       1-3  0-1  3-1  0-1  0-5  1-0  0-3  2-2  ---  0-3  0-1  1-2  2-5  0-7
-Hévíz Goldavis FC     1-2  2-1  1-0  1-1  1-0  9-0  1-0  0-0  4-0  ---  1-1  3-1  2-1  0-0
-Sárvár                0-0  1-1  1-0  1-1  4-0  2-0  0-1  1-2  0-1  1-4  ---  0-0  0-1  0-1
-Szigetszentmiklósi TK 2-0  1-1  1-1  0-0  0-1  2-0  2-1  1-2  1-0  2-0  1-1  ---  0-0  1-1      2-0
-Taksony SE            2-2  2-3  2-1  3-4  1-1  6-0  0-3  1-1  6-2  0-3  0-1  3-1  ---  1-2
-Veszprémi LC          0-0  2-0  1-1  2-2  4-2  6-0  2-1  1-1  0-0  0-0  2-1  4-0  1-0  ---
-Atomeromu SE Paks     4-3            2-1  1-1                                              ---  1-0
-Szentgothárd          4-1                      3-0  3-1                                2-3      ---
-
-
-  1 Hévíz Goldavis FC      26  15   6   5  47-21    51 (Kesthely)
-  2 Veszprém LC            26  13  11   2  48-16    50
-  3 Marcali VSE            26  14   4   8  48-27    46
-  4 Celldömölki VSE        26  12   9   5  40-22    45
-  5 Dorogi FC              26  12   7   7  40-28    43
-  6 MTE Motim              26  11   9   6  41-22    42 (Mosónmagyaróvár)
-  7 Büki TK                26  11   6   9  42-30    39
-  8 Beremendi Építok SK    26  10   5  11  35-39    35
-  9 Sárvári FC             26   9   7  10  29-25    34
- 10 Balatonlelle SE        26   8  10   8  24-26    34
- 11 Taksony SE             26   7   7  12  38-38    28
- 12 Szigetszentmiklósi TK  26   6  10  10  28-35    28
- 13 PVSK Pécs 96 FC        26   6   2  18  21-73    20
- 14 Budafoki LC            26   0   3  23   9-88     3
-    Atomeromu SE Paks  withdrew
-    Szentgothárd       withdrew
-
-
-Fourth Level (NB III) 1999/2000
-
-Region Alföld
--------------
-  1 Csongrádi Építok SSE      30  24   4   2  97- 23   76
-  2 Hódmezovásárhelyi FC      30  21   4   5  62- 17   67
-  3 Makó FC                   30  20   5   5  75- 31   65
-  4 Kisújszállási SE          30  16   4  10  74- 39   52
-  5 Algyoi SK                 30  16   4  10  82- 54   52
-  6 Örkényi SE                30  16   4  10  67- 40   52
-  7 Békési FC                 30  15   7   8  64- 39   52
-  8 Szajol                    30  15   5  10  62- 39   50
-  9 Dömsödi SE                30  13   6  11  61- 54   45
- 10 Martfu VSE                30  10   7  13  52- 47   37
- 11 Jamina SE Békéscsaba      30  11   3  16  35- 45   36
- 12 Méykúti SE                30  10   5  15  46- 64   35
- 13 Hajós FC                  30   9   3  18  39- 72   30
- 14 Kerekegyházai SE          30   4   2  24  32-131   14
- 15 Battonyai TK              30   2   5  23  21- 94   11
- 16 Gyoma FC                  30   2   4  24  25-105   10
-
-Region Bakony
--------------
-  1 Pápai ELC                 28  22   3   3  82- 26   69
-  2 Ajka SE                   28  20   3   5  53- 23   63
-  3 Répcelaki SE              28  15   4   9  55- 37   49
-  4 Soproni VSE               28  12   9   7  44- 26   45
-  5 Csepregi SE               28  13   6   9  59- 44   45
-  6 Jánossomorjai SE          28  11  10   7  44- 25   43
-  7 Petoházi Cukorgyári SE    28  13   4  11  45- 40   43
-  8 Abdai SC                  28  12   6  10  54- 52   42
-  9 Vasszécsény               28  11   3  14  54- 63   36
- 10 Lenti TE                  28  10   5  13  34- 46   35
- 11 Koszeg SE                 28  10   2  16  39- 62   32
- 12 Csornai SE                28   9   3  16  41- 54   30
- 13 Lébény Földgép SE         28   7   3  18  37- 69   24
- 14 FC Keszthely              28   5   5  18  40- 71   20
- 15 Kapuvári SE               28   6   2  20  32- 75   20
-    Malomsok    withdrew
-
-Region Dráva
-------------
-  1 Bajai LSE                 28  18   7   3  64- 21   61
-  2 Bonyhád Agroco FC         28  17   5   6  53- 24   56
-  3 Kaposvölgye VSC           28  16   6   6  53- 33   54
-  4 Balatonfüredi SC          28  16   3   9  70- 42   51
-  5 Pécsi Postás SE           28  13   5  10  36- 23   44
-  6 MÁV Nagykanizsai TE       28  12   7   9  36- 31   43
-  7 Szekszárd UFC             28  11   8   9  36- 29   41
-  8 Tapolca Bauxit            28  10   9   9  30- 42   39
-  9 Paksi SE                  28   9  11   8  44- 26   38
- 10 Harkány SE                28  10   6  12  39- 39   36
- 11 Dombóvári FC              28   9   7  12  32- 45   34
- 12 Dunaszentgyörgyi SE       28   9   5  14  29- 40   32
- 13 Nagyatádi FC              28   8   5  15  41- 44   29
- 14 Mohácsi TE                28   5   6  17  28- 54   21
- 15 Tihanyi Petofi SE         28   -   4  24  17-115    4
-    Nagyberki  withdrew
-
-Region Duna
------------
-  1 Budakalászi MSE           30  21   6   3  68- 35   69
-  2 Kistarcsai SC             30  19   6   5  69- 38   63
-  3 Erzsébeti SMTK            30  15   7   8  59- 47   52
-  4 Pénzügyor SE              30  14   8   8  45- 33   50
-  5 Bodajk SE                 30  13   8   9  63- 39   47
-  6 Gázmuvek MTE              30  14   5  11  51- 42   47
-  7 Tatai Honvéd AC           30  11  10   9  56- 46   43
-  8 Rákosszentmihályi AFC     30  12   7  11  48- 42   43
-  9 Ercsi Kinizsi SE          30  11   8  11  50- 53   41
- 10 Tápiószecsoi FC           30  11   9  10  68- 39   39
- 11 Esztergomi FC             30  11   4  15  46- 55   37
- 12 Szabadegyházi Kinizsi SC  30   8  10  12  55- 73   34
- 13 Csákvár FC Mezofalva      30   8   7  15  46- 64   31
- 14 Budapesti Eromu           30   5   9  16  32- 73   24
- 15 Adonyi Petofi SK          30   6   5  19  33- 71   23
- 16 Rákosmenti TK             30   5   3  22  41- 80   18
-    Tápiószecsotol  3 points  deducted
-
-Region Mátra
-------------
-  1 Karcagi SE                30  23   3   4  83- 22   72
-  2 Gödölloi LC               30  14  11   5  48- 30   53
-  3 Tápiószentmárton SE       30  14  10   6  74- 36   52
-  4 Balassagyarmati SE        30  15   4  11  49- 35   49
-  5 Besenyotelek              30  13   6  11  67- 41   45
-  6 Hevesi SE                 30  12   8  10  52- 35   44
-  7 Gyöngyösi AK              30  11  10   9  57- 38   43
-  8 Poroszlói SE              30  11   9  10  52- 41   42
-  9 Salgó Öblös SC            30  11   8  11  39- 39   41
- 10 Karancslapujto            30  13   2  15  48- 51   41
- 11 Salgótarjáni BTC          30  10   8  12  43- 44   38
- 12 Pásztó Hasznos FC         30   9   8  13  42- 44   35
- 13 Újszászi SE               30   9   6  15  54- 60   33
- 14 Ózdi FC                   30  10   3  17  46- 69   33
- 15 Mezokövesdi SE            30  10   2  18  40- 59   32
- 16 Tiszafüred                30   4   4  22  15-165   16
-
-Region Tisza
-------------
-  1 Bocsi KSC                 30  19   7   4  84- 27   64
-  2 Kisvárdai SE              30  20   3   7  67- 30   63
-  3 Ibrány SE                 30  18   6   6  72- 34   60
-  4 Rakamazi Spartacus        30  17   5   8  65- 42   56
-  5 Baktalórántházi VSE       30  15   8   7  67- 39   53
-  6 Vásárosnaményi FC         30  15   6   9  59- 32   51
-  7 Kisléta                   30  15   6   9  63- 38   51
-  8 Sátoraljaújhely           30  15   4  11  71- 55   49
-  9 FK Hajdúnánás             30  15   4  11  54- 38   49
- 10 Mádi SE                   30  13   6  11  52- 37   45
- 11 Hajdúdorog SE             30  13   4  13  44- 50   43
- 12 Balmazújvárosi FC         30  13   3  14  49- 54   42
- 13 Edelényi VSE              30   7   4  19  31- 68   25
- 14 Kabai Meteorit            30   5   6  19  28- 73   21
- 15 Nagykállói SE             30   2   1  27  18-117    7
- 16 Hajdúböszörményi TE       30   1   1  28  10-100    4
-
-
-1998/99.
-
-
-2000/01.
-
-
-list of champions.
-
-
-list of cup winners.
-
-
-list of final tables.
-
-
-
-
-
-
-
-About this document
-Prepared and maintained by Sorin Arotăriţei and Jan Schoenmakers for the 
-Rec.Sport.Soccer Statistics Foundation
-Authors: Sorin Arotăriţei (sorinaro@assist.ro)
-and Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com)
-(c) Copyright Sorin Arotăriţei, Jan Schoenmakers and RSSSF
-Last updated: 23 Aug 2001
-You are free to copy this document in whole or part provided that proper acknowledgement is given
-to the authors. All rights reserved.
+* 1.Dunaferr FC                 32 24  7  1  79-23 79  Champions  [Dunaújváros]
+* 2.MTK Hungária FC             32 18  9  5  64-28 63  [Budapest]
+* 3.Vasas Danubius Hotels       32 19  4  9  58-32 61  [Budapest]
+* 4.Lombard FC-Tatabánya        32 14 13  5  37-34 55
+* 5.Ferencvárosi TC             32 14  8 10  61-39 50  [Budapest]
+* 6.Debreceni VSC-Epona         32 14  8 10  52-41 50
+* 7.Pécsi MFC                   32 11 12  9  41-47 45  [-]
+* 8.Gyori ETO FC                32 12  8 12  52-36 44
+* 9.Nyírség Spartacus FC        32 12  8 12  32-42 44  [Nyíregyháza]
+*10.Újpesti TE                  32 10 11 11  46-42 41  [Budapest]
+*11.Zalahus-ZTE FC              32  8 15  9  34-31 39  [Zalaegerszeg]
+*12.Kispest-Honvéd FC           32 10  9 13  27-39 39  [Budapest]
+*13.Haladás-Milos VFC           32  8  8 16  37-53 32  [Szombathely]
+*14.Nagykanizsai Olajbányász    32  7 10 15  27-44 31
+*----------------------------------------------------
+*15.Siófoki Bányász             32  7  7 18  26-51 25  Relegated  [*]
+*16.Diósgyori FC                32  5  9 18  26-56 24  Relegated 
+*17.Vác-Zollner FC              32  3  6 23  24-85 15  Relegated
+* -.Szeged LC                    0  0  0  0   0- 0  0  [+]
+
+*[-] Gázszer FC (Akasztó) were taken taken over by second
+*    division club Pécsi MFC during the winter break; PMFC took over
+*    Gázszer FC's record.
+*
+*[*] Siofok had 3 points deducted for failing to play in Round: 6;
+*    also the Siofok-Nyirseg match in the 2nd half of the championship
+*    has been switched to Nyiregyhaza.
+*
+*[+] Szeged LC withdrew during the winter break; their first two matcjes
+*    after the winter break were awarded 0-3 against them (and 6 points
+*    deducted) but after their failure to show up for two more matches
+*    their record was expunged.  Their record at time of withdrawal:
+*
+*17.Szeged LC                   17  3  5  9  13-38 14
+*NB: league reduced to 16 teams 2000/01.
+
+
+*About this document
+*Prepared and maintained by Sorin Arotăriţei and Jan Schoenmakers for the 
+*Rec.Sport.Soccer Statistics Foundation
+*Authors: Sorin Arotăriţei (sorinaro@assist.ro)
+*and Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com)
+*(c) Copyright Sorin Arotăriţei, Jan Schoenmakers and RSSSF
+*Last updated: 23 Aug 2001
+*You are free to copy this document in whole or part provided that proper acknowledgement is given
+*to the authors. All rights reserved.
