@@ -4,6 +4,8 @@ from soccerdata.settings import ROOT_DIR
 
 SOURCE_PATH = os.path.join(ROOT_DIR, 'soccerdata/data/sources')
 
+print(SOURCE_PATH)
+
 
 def load():
 

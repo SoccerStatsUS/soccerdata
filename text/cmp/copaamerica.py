@@ -21,7 +21,7 @@ from utils import get_id
 from soccerdata.settings import ROOT_DIR
        
 def process_copa_files():
-    directory = os.path.join(ROOT_DIR, 'soccerdata/data/games/international/confederation/conmebol/copa_america'
+    directory = os.path.join(ROOT_DIR, 'soccerdata/data/games/international/confederation/conmebol/copa_america')
     filenames = [str(e) for e in [1916, 1917, 1919, 1920, 1921, 1922, 1923, 1924, 1925, 1926, 1927, 1929, 1935, 1937, 1939, 1941, 
                  1942, 1945, 1946, 1947, 1949, 1953, 1955, 1956, 1957, '1959.1', '1959.2', 1963, 1967, 1975, 1979, 1983, 1987,
                  1989, 1991, 1993, 1995, 1997, 1999, 2001, 2004]]

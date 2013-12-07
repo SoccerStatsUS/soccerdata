@@ -1,3 +1,10 @@
+import socket
 
+host = socket.gethostname()
 
-ROOT_DIR = '/home/chris/www'
+roots = {
+    'agni.local': '/Users/chris/soccer/',
+    'bert': '/home/chris/www/',
+    }
+
+ROOT_DIR = roots[host]
