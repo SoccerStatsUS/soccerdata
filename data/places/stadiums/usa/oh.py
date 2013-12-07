@@ -72,6 +72,7 @@ l = [
     
     {
         'name': 'Columbus Crew Stadium',
+        'short_name': 'Crew Stadium',
         'address': '1 Black and Gold Boulevard',
         'location': 'Columbus, OH',
         'capacity': 20145,

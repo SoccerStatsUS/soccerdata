@@ -63,6 +63,7 @@ l = [
         },
     {
         'name': 'Dick\'s Sporting Goods Park',
+        'short_name': 'DSG Park',
         'address': '6000 Victory Way',
         'location': 'Commerce City, CO',
         'opened': datetime.datetime(2005, 9, 28),
