@@ -162,7 +162,7 @@ class RosterProcessor(object):
 
 
 
-def process_rosters2(p):
+def process_rosters2(fn):
 
     p = os.path.join(ROOT_DIR, 'soccerdata/data/rosters/', fn)
     f = open(p)
