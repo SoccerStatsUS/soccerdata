@@ -22,6 +22,14 @@ l = [
         },
 
     {
+        'name': 'Valley Fields',
+        'location': 'Milwaukee, WI',
+        'opened': 1993,
+        'capacity': 1600,
+        'cost': 8000000,
+        },
+
+    {
         'name': 'Croatian Park',
         'location': 'Franklin, WI',
         },

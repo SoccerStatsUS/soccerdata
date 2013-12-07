@@ -23,6 +23,12 @@ l = [
         },
 
     {
+        'name': 'CCU Soccer Field',
+        'location': 'Conway, SC',
+        'capacity': 15000,
+        },
+
+    {
         'name': 'Manchester Meadows Soccer Complex',
         'location': 'Rock Hill, SC',
         },

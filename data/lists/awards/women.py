@@ -105,3 +105,37 @@ wpsl = {
         ]
 
 }
+
+
+
+nwsl = {
+    'competition': 'National Women\'s Soccer League',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        ('2013', 'Portland Thorns'),
+        ],
+
+    'MVP': [
+        ('2013', 'Lauren Holiday'),
+        ],
+
+    'Rookie of the Year': [
+        ('2013', 'Erika Tymrak'),
+        ],
+
+    'Defender of the Year': [
+        ('2013', 'Becky Sauerbrunn'),
+        ],
+
+    'Goalkeeper of the Year': [
+        ('2013', 'Nicole Barnhart'),
+        ],
+
+    'Coach of the Year': [
+        ('2013', 'Vlatko Andonovski'),
+        ],
+
+
+}

@@ -9,6 +9,7 @@ import os
 from soccerdata.settings import ROOT_DIR
 
 STANDARD_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/stats')
+USD1_DIR = os.path.join(ROOT_DIR, 'usd1')
 
 
 def process_misl_stats():
@@ -21,9 +22,11 @@ def process_nwsl_stats():
 def process_mls_2012_stats():
     return process_stats("d1/2012", source='MLSSoccer.com')
 
+def process_mls_2013_stats():
+    return process_stats("data/stats/mls/2013", source='MLSSoccer.com', root=USD1_DIR)
+
 def process_mls_coach_stats():
     return process_stats("d1/mls.coaches", source='MLSSoccer.com')
-
 
 def process_nasl_stats():
     return process_stats("d1/nasl", source='nasljerseys.com')

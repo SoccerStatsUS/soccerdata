@@ -30,7 +30,11 @@ l = [
         'name': 'University of Detroit Stadium',
         'location': 'Detroit, MI',
         'capacity': 25000,
-        
+        },
+
+    {
+        'name': 'DeMartin Soccer Complex',
+        'location': 'East Lansing, MI',
         },
     
     {

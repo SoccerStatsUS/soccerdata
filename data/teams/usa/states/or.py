@@ -25,7 +25,7 @@ l = [
         },
 
     {
-        'name': 'Portland Thorns FC',
+        'name': 'Portland Thorns',
         'city': 'Portland, OR',
         'founded': 2012,
         },

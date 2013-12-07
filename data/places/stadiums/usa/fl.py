@@ -20,6 +20,13 @@ l = [
         'name': 'FAU Soccer Stadium',
         'location': 'Boca Raton, FL',
         },    
+
+    {
+        'name': 'UCF Soccer and Track Stadium',
+        'location': 'Orlando, FL',
+        'opened': 1991,
+        'capacity': 2000,
+        },    
     {
         'name': 'Premier Sports Campus',
         'location': 'Lakewood Ranch, FL',

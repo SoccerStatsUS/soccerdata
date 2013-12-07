@@ -12,6 +12,12 @@ l = [
         },
 
     {
+        'name': 'Westcott Field',
+        'location': 'University Park, TX',
+        'capacity': 4000,
+        },
+
+    {
         'name': 'Toyota Field',
         'address': 'Thousand Oaks Drive',
         'location': 'San Antonio, TX',

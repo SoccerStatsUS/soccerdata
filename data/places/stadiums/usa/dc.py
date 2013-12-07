@@ -24,6 +24,11 @@ l = [
         'name': 'RFK Auxiliary Feild',
         'location': 'Washington, D.C.',
         },        
+
+    {
+        'name': 'Shaw Field',
+        'location': 'Washington, D.C.',
+        },        
     
     
 

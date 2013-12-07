@@ -50,6 +50,11 @@ l = [
         },
 
     {
+        'name': 'Lakeside Field',
+        'location': 'Evanston, IL',
+        },
+
+    {
         'name': 'Benedictine University Sports Complex Stadium',
         'location': 'Lisle, IL',
         },

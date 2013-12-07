@@ -18,4 +18,10 @@ l = [
         'address': '1018 Town Drive',
         'location': 'Wilder, KY',
         },
+
+    {
+        'name': 'University of Kentucky Soccer Complex',
+        'opened': 1996,
+        'location': 'Lexington, KY',
+        },
     ]

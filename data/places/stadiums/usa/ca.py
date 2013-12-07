@@ -12,8 +12,35 @@ l = [
         },
 
     {
+        'name': 'Drake Stadium',
+        'location': 'Los Angeles, CA',
+        'capacity': 11700,
+        'opened': 1969,
+        },
+
+    {
         'name': 'Banner Island Ballpark',
         'location': 'Stockton, CA',
+        },
+
+    {
+        'name': 'Cagan Stadium',
+        'location': 'Stanford, CA',
+        },
+
+    {
+        'name': 'Matador Soccer Field',
+        'location': 'Northridge, CA',
+        'capacity': 1550,
+        'opened': datetime.datetime(2002, 9, 15),
+        },
+
+    {
+        'name': 'Edwards Stadium',
+        'location': 'Berkeley, CA',
+        'opened': 1932,
+        # 'architect': 'Warren C. Perry', 'George W. Kelham',
+        'capacity': 22000,
         },
 
     {

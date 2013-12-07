@@ -12,6 +12,14 @@ l = [
         },
 
     {
+        'name': 'Morrone Stadium',
+        'location': 'Storrs, CT',
+        'opened': 1969,
+        'capacity': 4500,
+        
+        },
+
+    {
         'name': 'Washington & Baker Streets Grounds',
         'location': 'Hartford, CT',
         },

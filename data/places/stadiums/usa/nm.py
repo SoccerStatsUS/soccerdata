@@ -7,7 +7,8 @@ import datetime
 l = [
     
     {
-        'name': 'University Stadium',
+        'name': 'UNM Soccer Complex',
         'location': 'Albuquerque, NM',
         },        
+
 ]

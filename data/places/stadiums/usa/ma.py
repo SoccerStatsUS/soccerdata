@@ -51,6 +51,12 @@ l = [
         },
 
     {
+        'name': 'Parsons Field',
+        'location': 'Brookline, MA',
+        'opened': 1930, # Purchased by Northeastern
+        },
+
+    {
         'name': 'Foley Stadium',
         'address': '305 Chandler Street',
         'location': 'Worcester, MA',

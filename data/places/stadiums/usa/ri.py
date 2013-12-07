@@ -13,6 +13,18 @@ l = [
         'location': 'Pawtucket, RI',
         },
 
+    {
+        'name': 'Glay Field',
+        'location': 'Providence, RI',
+        },
+
+    {
+        'name': 'Stevenson Field',
+        'location': 'Providence, RI',
+        'capacity': 3500,
+        'opened': 1979,
+
+        },
 
     {
         'name': 'Riding Park',

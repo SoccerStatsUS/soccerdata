@@ -11,6 +11,11 @@ l = [
         'name': 'Kuntz Stadium',
         'location': 'Indanapolis, IN',
         },
+
+    {
+        'name': 'Alumni Field',
+        'location': 'Notre Dame, IN',
+        },
     
     {
         'name': 'Indianapolis Soccer Stadium',

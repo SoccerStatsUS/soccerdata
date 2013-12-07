@@ -14,4 +14,14 @@ l = [
         'architect': 'D.O. Whildin',
         'capacity': 71594,
         },
+
+    {
+        'name': 'Hoover Metropolitan Stadium',
+        'address': '100 Ben Chapman Drive',
+        'location': 'Hoover, AL',
+        'opened': datetime.datetime(1988, 4, 16),
+        'cost': 14500000,
+        'architect': 'Gresham, Smith and Partners ',
+        'capacity': 10800,
+        },
 ]

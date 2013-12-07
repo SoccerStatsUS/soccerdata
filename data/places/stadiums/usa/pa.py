@@ -21,6 +21,16 @@ l = [
         },
 
     {
+        'name': 'Vidas Athletic Complex',
+        'location': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Jeffrey Field',
+        'location': 'University Park, PA',
+        },
+
+    {
         'name': 'Villanova Stadium',
         'location': 'Villanova, PA',
         'capacity': 12500,

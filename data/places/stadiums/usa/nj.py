@@ -100,10 +100,17 @@ l = [
         'opened': 1885,
         'capacity': 0,
         },
+
     {
         'name': 'J. Malcolm Simon Stadium',
         'location': 'Newark, NJ',
         },    
+
+    {
+        'name': 'The Great Lawn',
+        'location': 'West Long Branch, NJ',
+        },    
+
     {
         'name': 'Montclair State University',
         'location': 'Upper Montclair, NJ',

@@ -41,6 +41,19 @@ l = [
         },
 
     {
+        'name': 'Retriever Soccer Park',
+        'location': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Ludwig Field',
+        'location': 'College Park, MD',
+        'opened': datetime.datetime(1995, 9, 16),
+        'cost': 2500000,
+        'capacity': 7000,
+        },
+
+    {
         'name': 'Homefood Field',
         'location': 'Baltimore, MD',
         'capacity': 8500,

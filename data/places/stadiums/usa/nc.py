@@ -30,6 +30,19 @@ l = [
         },
 
     {
+        'name': 'Spry Stadium',
+        'location': 'Winston-Salem, NC',
+        'opened': 1997,
+        'capacity': 3000,
+        },
+
+    {
+        'name': 'Koskinen Stadium',
+        'location': 'Durham, NC',
+        'capacity': 4500,
+        },
+
+    {
         'name': 'Fetzer Field',
         'location': 'Chapel Hill, NC',
         'opened': 1935,
