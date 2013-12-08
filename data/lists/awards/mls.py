@@ -33,6 +33,7 @@ d = {
 
 
     'MVP': [
+        (2013, 'Mike Magee'),
         (2012, 'Chris Wondolowski'),
         (2011, 'Dwayne De Rosario'),
         (2010, 'David Ferreira'),
@@ -70,6 +71,7 @@ d = {
         (2010, 'Schellas Hyndman'),
         (2011, 'Bruce Arena'),
         (2012, 'Frank Yallop'),
+        (2013, 'Caleb Porter'),
         ],
 
     'Defender of the Year': [
@@ -90,6 +92,7 @@ d = {
         (2010, 'Jámison Olave'),
         (2011, 'Omar Gonzalez'),
         (2012, 'Matt Besler'),
+        (2013, 'Jose Goncalves'),
         ],
 
     'Rookie of the Year': [
@@ -110,6 +113,7 @@ d = {
         (2010, 'Andy Najar'),
         (2011, 'C.J. Sapong'),
         (2012, 'Austin Berry'),
+        (2013, 'Dillon Powers'),
         ],
 
     'Newcomer of the Year': [
@@ -119,6 +123,7 @@ d = {
         (2010, 'Álvaro Saborío'),
         (2011, 'Mauro Rosales'),
         (2012, 'Federico Higuaín'),
+        (2013, 'Diego Valeri'),
         ],
 
     'Comeback Player of the Year': [
@@ -135,6 +140,7 @@ d = {
         (2010, 'Bobby Convey'),
         (2011, 'David Beckham'),
         (2012, 'Eddie Johnson'),
+        (2013, 'Kevin Alston'),
         ],
 
     'Fair Play Award': [
@@ -153,6 +159,8 @@ d = {
         (2009, 'Steve Ralston'),
         (2010, 'Sebastien Le Toux'),
         (2011, 'Sebastien Le Toux'),
+        (2012, 'Logan Pause'),
+        (2013, 'Darlington Nagbe'),
         ],
 
     'Humanitarian of the Year': [
@@ -170,6 +178,8 @@ d = {
         (2009, 'Logan Pause'),
         (2010, 'Michael Lahoud'),
         (2011, 'Zak Boggs'),
+        (2012, 'Chris Seitz'),
+        (2013, 'Matt Reis'),
         ],
 
     'Referee of the Year': [
@@ -189,6 +199,7 @@ d = {
         (2010, 'Kevin Stott'),
         (2011, 'Mark Geiger'),
         (2012, 'Silviu Petrescu'),
+        (2013, 'Hilario Grajeda'),
         ],
 
     'Assistant Referee of the Year': [
@@ -439,6 +450,10 @@ d = {
                 'Chris Wondolwoski',
                 ]),
 
+        (2013, [
+                ]),
+         
+
         ]
 }
 
@@ -461,6 +476,7 @@ d = {
         (2010, 'Marco Pappa', (4, 10, 2010), 'http://youtu.be/Ym_ZWti0bBo?t=2m36s'),
         (2011, 'Darlington Nagbe', (7, 2, 2011), 'http://www.youtube.com/watch?v=vTzTjP1Na0o'),
         (2012, 'Patrick Ianni', (6, 20, 2012), 'http://www.youtube.com/watch?v=lZtvCkRZ5as'),
+        (2013, 'Camilo Sanvezzo', (10, 6, 2013), 'http://www.youtube.com/watch?v=IqlI42OeRfE'),
         ],
 }
 

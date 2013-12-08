@@ -95,7 +95,7 @@ Date: 9/2/2000
 Round: 3
 Date: 9/8/2000
 
-Braga           3-2 Sporting
+; Braga          ; 3-2; Sporting
   Miklos Feher 62, Miklos Feher 90, Edmilson Lucena 66; Bino Macaes 21, Edmilson Pimenta 90
 
 Date: 9/9/2000
@@ -328,7 +328,7 @@ Date: 10/30/2000
   Duda Ventura 16, Erwin Sanchez 64, Elpidio Silva 87; Carlos Mariano 9
  
 ; Porto          ; 6-0; Alverca 
-  Deco Sousa 33, Deco Sousa 39, Nelson Verissimo (og) 37, Jesus Pena 66, Jesus Pena 88, Juan Pizzi 90
+  Deco Sousa 33, Deco Sousa 39, Nelson Verissimo (og) 37, Jesus Pena 66, Jesus Pena 88, Juan Pizzi 90;
 
 Round: 10
 Date: 11/3/2000
@@ -347,7 +347,7 @@ Date: 11/4/2000
 Date: 11/5/2000
 
 ; Pacos Ferreira ; 4-2; Braga
-  Rafael Dias 15, Beto Santos 22, Paulo Vida 45, (pk) 87; Miklos Feher (pk) 74, Miklos Feher 88
+  Rafael Dias 15, Beto Santos 22, Paulo Vida 45, Paulo Vida (pk) 87; Miklos Feher (pk) 74, Miklos Feher 88
 
 ; Campomaiorense ; 0-1; Belenenses
 ;  Eliel Santos 7
@@ -359,12 +359,12 @@ Date: 11/5/2000
 ;  Fabricio Lobao 62
 
 ; Maritimo       ; 3-0; Benfica
-  Frederico Lagorio 12, Frederico Lagorio 54, Frederico Lagorio 60
+  Frederico Lagorio 12, Frederico Lagorio 54, Frederico Lagorio 60;
 
 Date: 11/6/2000
 
 ; Vitoria G      ; 4-0; Estrela Amadora
-  Sergio Junior 33, Sergio Junior 52, Congo 58, Congo 65
+  Sergio Junior 33, Sergio Junior 52, Congo 58, Congo 65;
 
 Round: 11
 Date: 11/11/2000
@@ -508,7 +508,7 @@ Date: 12/11/2000
 Round: 15
 Date: 12/15/2000
 
-Campomaiorense  0-1 Vitoria G
+; Campomaiorense ; 0-1; Vitoria G
 ;  William Andrade 42
 
 Date: 12/16/2000
@@ -532,7 +532,7 @@ Date: 12/17/2000
   Edmilson Lucena 21, Edmilson Lucena 44, Jose Barroso (pk) 77; Jerome Palatsi (pk) 74, Fernando Aguiar 82, Fary Faye 90
 
 ; Boavista       ; 5-0; Salgueiros
-  Litos Magalhaes 15, Whelliton Silva 20, Whelliton Silva 58, Armando Petit (pk) 50, Joaquim Martelinho 74
+  Litos Magalhaes 15, Whelliton Silva 20, Whelliton Silva 58, Armando Petit (pk) 50, Joaquim Martelinho 74;
 
 ; Pacos Ferreira ; 0-0; Sporting
 
@@ -931,7 +931,7 @@ Date: 4/8/2001
   Elpidio Silva 82;
 
 ; Estrela Amadora; 0-2; Vitoria G
-;  Carlos Fangueiro 23, (pk) 82
+;  Carlos Fangueiro 23, Carlos Fangueiro (pk) 82
 
 ; Beira Mar      ; 0-0; Alverca
 
@@ -947,7 +947,7 @@ Date: 4/8/2001
 Date: 4/9/2001
 
 ; Porto          ; 2-0; Gil Vicente
-  Silvio Maric 13, Adriano Bessa (og) 36
+  Silvio Maric 13, Adriano Bessa (og) 36;
 
 Round: 28
 Date: 4/13/2001
@@ -1009,7 +1009,7 @@ Date: 4/22/2001
   Luis Bilro (pk) 36;
 
 ; Beira Mar      ; 3-2; Salgueiros
-  Ricardo Sousa, 45, Ricardo Sousa 83, Fabricio Lobao (pk) 64; Calo Morais 29, Basilio Almeida 57
+  Ricardo Sousa 45, Ricardo Sousa 83, Fabricio Lobao (pk) 64; Calo Morais 29, Basilio Almeida 57
  
 ; Porto          ; 4-0; Aves 
   Nuno Capucho 4, Jorge Andrade 36, Domingos Paciencia 87, Domingos Paciencia 90;
@@ -1093,7 +1093,7 @@ Date: 5/11/2001
 Date: 5/12/2001
 
 ; Porto          ; 3-0; Uniao Leiria
-  Clayton Cruz 18, Jesus Pena 30, Luis Bilro (og) 40
+  Clayton Cruz 18, Jesus Pena 30, Luis Bilro (og) 40;
 
 Date: 5/13/2001
 

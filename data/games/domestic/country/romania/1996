@@ -1,6 +1,7 @@
 BlockSource: http://rsssf.com/tablesr/roem97.html
 Season: 1996-1997
 Competition: Liga I
+* very partial.
 
 
 * 1.Steaua Bucuresti             34 23  4  7  87-40 73  Champions
@@ -29,48 +30,48 @@ Round: 1
 Date: 7/31/1996
 
 ; National       ; 1-0; Bacau 
-  83' Moisescu
+  Moisescu 83;
 
 ; Chindia        ; 1-0; Ceahlaul 
-  88' Balasa
+  Balasa 88;
 
 ; Jiul           ; 4-1; Sportul 
-  42' Matinca, 55' C.Pusca, 68' and 71' Cioaba; 73' Fl.Dumitru
+  Matinca 42, C. Pusca 55, Cioaba 68 Cioaba 71; Fl. Dumitru 73
 
 ; Dinamo         ; 3-0; Gloria 
-  15' M.Ivan, 75' Lupu, 88' Coporan
+  M. Ivan 15, Lupu 75, Coporan 88
 
 ; Arges          ; 0-0; Petrolul 
 
 ; U Craiova      ; 5-0; Brasov 
-  21' Ganea, 52' Olaroiu, 72' G.Popescu, 75' Stoican, 90' Lutu
+  Ganea 21, Olaroiu 52, G. Popescu 72, Stoican 75, Lutu 90
 
 ; Poli Timisoara ; 0-0; Farul 
 
 ; U Cluj         ; 2-2; Rapid 
-  52' Olariu, 85' Dican; 24' Butoiu, 35' Tartau
+  Olariu 52, Dican 85; Butoiu 24, Tartau 35
 
 ; Steaua         ; 2-1; Otelul 
-  17' Lacatus, 39' Ciocoiu; 44' Tanase
+  Lacatus 17, Ciocoiu 39; Tanase 44
 
 Round: 2 
 *(August 10,11)
 Date: 8/10/1996
 
 ; Bacau          ; 1-0; Chindia
-  8' Serea
+  Serea 8;
 
 ; Otelul         ; 0-1; Jiul
-  53' I.Radu
+  ; I. Radu 53
 
 ; Sportul        ; 1-1; Arges
-  54' Andone; 12' Negru
+  Andone 54; Negru 12
 
 ; Petrolul       ; 0-1; Dinamo
-  81' M.Ivan
+  ; M. Ivan 81
 
 ; Brasov         ; 3-1; Poli Timisoara
-  12' and 29' Strizu, 81' Szilagy; 67' I.Rotariu
+  Strizu 12, Strizu 29, Szilagy 81; I. Rotariu 67
 
 ; Farul          ; 0-0; U Cluj
 
@@ -78,10 +79,10 @@ Date: 8/10/1996
   31' Chirita, 80' (p) Tartau; 40' Niculescu, 56' Duna, 68' Moisescu, 87' Vas
 
 ; Ceahlaul       ; 1-0; Steaua
-  52' (p) C.Enache
+  C. Enache (pk) 52;
 
 ; Gloria         ; 1-0; U Craiova
-  87' Sabo
+  Sabo 87;
 
 
 Round: 3 
@@ -89,31 +90,31 @@ Round: 3
 Date: 8/16/1996
 
 ; Chindia        ; 1-0; Rapid
-  61' Bardas
+  Bardas 61;
 
 ; National       ; 1-3; Farul
-  67' R.Niculescu; 49' Axinciuc, 63' Toma, 75' B.Oprea
+  67' R. Niculescu; 49' Axinciuc, 63' Toma, 75' B. Oprea
 
 ; Steaua         ; 1-5; Bacau
   87' Ciocoiu; 27' (p) and 68' (p) Jercalau, 39' Pavel, 72' and 85' Scanteie
 
 ; Poli Timisoara ; 5-2; Gloria
-  29' and 62' Rotariu, 52' Gusatu, 64' and 71' Savoiu; 48' Sabo, 74' D.Matei
+  29' and 62' Rotariu, 52' Gusatu, 64' and 71' Savoiu; 48' Sabo, 74' D. Matei
 
 ; Arges          ; 3-0; Jiul
   48' Ghergu; 57' Timis; 80' Dragus
 
 ; U Craiova      ; 1-1; Petrolul
-  57' G.Popescu; 36' Bastina
+  G. Popescu 57; Bastina 36
 
 ; U Cluj         ; 3-2; Brasov
   27' (og) Ungurianu, 67' (p) Dican, 89' Bratianu II; 39' (p) Cheregi, 57' ?
 
 ; Ceahlaul       ; 0-2; Otelul
-  22' V.Ion, 78' State
+;  V. Ion 22, State 78
 
 ; Dinamo         ; 2-1; Sportul
-  64' Mihalcea, 90' Danciulescu; 3' Andone
+  Mihalcea 64, Danciulescu 90; Andone 3
 
 
 Round: 4 
@@ -121,13 +122,13 @@ Round: 4
 Date: 8/23/1996
 
 ; Brasov         ; 1-1; National
-  49' (og) Lucescu; 11' P.Marin
+  49' (og) Lucescu; 11' P. Marin
 
 ; Bacau          ; 1-1; Ceahlaul
-  37' (p) Jercalau; 34' M.Ionescu
+  37' (p) Jercalau; 34' M. Ionescu
 
 ; Otelul         ; 1-0; Arges
-  21' Tofan
+  Tofan 21;
 
 ; Sportul        ; 4-2; U Craiova
   35' Zanc, 60' Paclesan, 80' Pitu, 84' Andone; 43' and 84' (p) Ungur
@@ -137,16 +138,16 @@ Date: 8/23/1996
    85' (p), 86' and 90' (p) Rotariu
 
 ; Farul          ; 3-1; Chindia
-  10' and 27' B.Oprea, 41' Barbu; 39' Lita
+  10' and 27' B. Oprea, 41' Barbu; 39' Lita
 
 ; Jiul           ; 1-0; Dinamo
-  28' Puscas
+  Puscas 28;
 
 ; Gloria         ; 0-1; U Cluj
-  88' Coroian
+  ; Coroian 88
 
 ; Rapid          ; 0-2; Steaua
-  13' Ilie, 85' Nemtanu
+  ; Ilie 13, Nemtanu 85
 
 
 Round: 5 
@@ -154,12 +155,12 @@ Round: 5
 Date: 9/6/1996
 
 ; Steaua         ; 2-1; Farul
-  6' and 64' (p) S.Ilie; 19' Carabas
+  6' and 64' (p) S. Ilie; 19' Carabas
 
 ; Ceahlaul       ; 0-0; Rapid
 
 ; National       ; 2-0; Gloria
-  14' and 56' Moisescu
+  Moisescu 14, Moisescu 56
 
 ; Dinamo         ; 4-1; Arges
   19' Mohora, 26' Petru, 37' and 47' Cula; 59' Negru
@@ -168,13 +169,13 @@ Date: 9/6/1996
   13' Aliuta, 58' Dumitrascu; 16' Strizu
 
 ; Poli Timisoara ; 0-1; Sportul
-  59' B.Andone
+  ; B. Andone 59
 
 ; U Cluj         ; 2-1; Petrolul
-  45' and 85' Maier; 65' Bastina
+  Maier 45, Maier 85; Bastina 65
 
 ; Bacau          ; 1-1; Otelul
-  10' Fl.Ionescu; 39' Tanase
+  Fl. Ionescu 10; Tanase 39
 
 ; U Craiova      ; 0-0; Jiul
 
@@ -186,7 +187,7 @@ Date: 9/14/1996
   23' (og) Trandu, 68' (p) and 78' (p) Cioaba; 43' Gusatu, 64' Savoiu
 
 ; Arges          ; 0-1; U Craiova
-  44' Ungur
+  ; Ungur 44
 
 ; Otelul         ; 3-1; Dinamo
   20' Tofan, 23' Ion, 53' Males; 75' Ivan
@@ -194,16 +195,16 @@ Date: 9/14/1996
 ; Sportul        ; 0-0; U Cluj
 
 ; Farul          ; 3-0; Ceahlaul
-  37' and 86' Toma, 40' Barbu
+  Toma 37, Toma 86, Barbu 40;
 
 ; Rapid          ; 2-0; Bacau
   15' Bolohan, 64' Butoiu
 
 ; Brasov         ; 0-4; Steaua
-  45' and 68' S.Ilie, 50' Calin, 53' Militaru
+  45' and 68' S. Ilie, 50' Calin, 53' Militaru
 
 ; Petrolul       ; 0-1; National
-  48' Albeanu
+  ; Albeanu 48
 
 ; Gloria         ; 1-2; Chindia
   23' Sabo; 30' Bardes, 35' (p) Balasa
@@ -217,10 +218,10 @@ Date: 9/21/1996
   1-0 (p) Rachita, 2-1 Luca; 1-1 Dumitrascu (1-1 halftime)
 
 ; Steaua         ; 2-0; Gloria
-  39' (p) and 86' S.Ilie
+  S. Ilie (pk) 39, S. Ilie 86;
 
 ; U Craiova      ; 0-2; Dinamo
-  19' and 63' Coporan
+  ; Coporan 19, Coporan 63
 
 ; Poli Timisoara ; 1-3; Arges
   4' Savoiu; 13' Crivac, 39' Abaluta, 76' Sandoi
@@ -232,13 +233,13 @@ Date: 9/21/1996
   7' Scanteie, 74' (p) Manta, 87' Serea
 
 ; Ceahlaul       ; 3-1; Brasov
-  6' and 40' M.Ionescu, 19' Matei; 14' Strizu
+  6' and 40' M. Ionescu, 19' Matei; 14' Strizu
 
 ; Rapid          ; 3-4; Otelul
-  9', 19' (p) and 25' (p) Tartau; 12' V.Ion, 38' and 90' V.Stefan, 59' I.Gigi
+  9', 19' (p) and 25' (p) Tartau; 12' V. Ion, 38' and 90' V. Stefan, 59' I. Gigi
 
 ; National       ; 2-0; Sportul
-  46' Vasc, 50' Zegrean
+   Vasc 46, Zegrean 50;
 
 
 Round: 8 
@@ -246,31 +247,31 @@ Round: 8
 Date: 9/28/1996
 
 ; Dinamo         ; 2-0; Poli Timisoara
-  33' Contra, 59' Lupu
+  Contra 33, Lupu 59
 
 ; Jiul           ; 2-1; National
-  14' M.Cristescu, 85' Cr.Puscas; 69' Ciobotariu
+  14' M. Cristescu, 85' Cr. Puscas; 69' Ciobotariu
 
 ; Arges          ; 2-1; U Cluj
   24' Barbu, 89' Trusca; 84' Maris
 
 ; Otelul         ; 5-1; U Craiova
-  9' Males, 43' (p) and 54' (p) V.Ion, 66' Cornea, 68' State; 12' Trica
+  9' Males, 43' (p) and 54' (p) V. Ion, 66' Cornea, 68' State; 12' Trica
 
 ; Sportul        ; 2-1; Chindia
-  9' B.Andone, 73' Caraman; 78' Termure
+  9' B. Andone, 73' Caraman; 78' Termure
 
 ; Brasov         ; 1-1; Bacau
   90' Hrib; 49' Scanteie
 
 ; Farul          ; 0-1; Rapid
-  83' Butoiu
+  ; Butoiu 83
 
 ; Gloria         ; 1-1; Ceahlaul
-  50' G.Cristea; 85' Axinia II
+  G. Cristea 50; Axinia II 85
 
 ; Petrolul       ; 1-1; Steaua
-  51' Frunza; 41' (p) S.Ilie
+  Frunza 51; S. Ilie (pk) 41
 
 
 Round: 9 
@@ -281,28 +282,28 @@ Date: 10/2/1996
   46' Maris; 67' (p) Lupu
 
 ; Farul          ; 3-1; Otelul
-  25' Dinu, 45' B.Oprea, 89' (p) Barbu; 50' State
+  25' Dinu, 45' B. Oprea, 89' (p) Barbu; 50' State
 
 ; Steaua         ; 3-1; Sportul
-  3' A.Ilie, 64' and 84' Rosu; 83' Pitu
+  3' A. Ilie, 64' and 84' Rosu; 83' Pitu
 
 ; Chindia        ; 2-0; Jiul
-  30' Luca, 56' Balasa
+  Luca 30, Balasa 56;
 
 ; Bacau          ; 1-1; Gloria
-  64' Scanteie; 28' (p) I.Lazar
+  Scanteie 64; I. Lazar (pk) 28
 
 ; Poli Timisoara ; 0-4; U Craiova
   14' Ganea, 25' and 56' Ungur, 40' Lutu
 
 ; Ceahlaul       ; 3-2; Petrolul
-  41' (og) Preda, 69' M.Ionescu, 85' M.Mirea; 60' Bastina, 90' Zafiris
+  41' (og) Preda, 69' M. Ionescu, 85' M. Mirea; 60' Bastina, 90' Zafiris
 
 ; National       ; 3-1; Arges
-  49' and 57' Lita, 80' R.Niculescu; 65' Timis
+  49' and 57' Lita, 80' R. Niculescu; 65' Timis
 
 ; Rapid          ; 1-0; Brasov
-  52' Umudica
+  Umudica 52;
 
 
 Round: 10 
@@ -310,10 +311,10 @@ Round: 10
 Date: 10/19/1996
 
 ; Dinamo         ; 0-1; National
-  58' Ciobotariu
+  ; Ciobotariu 58
 
 ; U Craiova      ; 4-1; U Cluj
-  15' Lutu, 20', 35' and 55' Ganea; 27' M.Stan
+  15' Lutu, 20', 35' and 55' Ganea; 27' M. Stan
 
 ; Arges          ; 2-1; Chindia
   74' Mogosanu, 82' Ceausu; 15' Aliuta
@@ -322,19 +323,19 @@ Date: 10/19/1996
   30' and 69' Balint, 89' Strizu; 53' Anghel
 
 ; Otelul         ; 2-0; Poli Timisoara
-  21' Mirea, 44' Bosanceanu
+  Mirea 21, Bosanceanu 44;
 
 ; Gloria         ; 0-2; Rapid
-  43' Butoiu, 51' Bundea
+;  Butoiu 43, Bundea 51
 
 ; Petrolul       ; 2-0; Bacau
-  28' Rachita, 82' Ad.Toader
+  Rachita 28, Ad. Toader 82;
 
 ; Sportul        ; 1-2; Ceahlaul
-  19' Dinita; 35' M.Ionescu, 56' Fl.Axinia
+  19' Dinita; 35' M. Ionescu, 56' Fl. Axinia
 
 ; Jiul           ; 0-2; Steaua
-  45' S.Ilie, 89' Ciocoiu
+  45' S. Ilie, 89' Ciocoiu
 
 
 Round: 11 
@@ -348,23 +349,23 @@ Date: 10/25/1996
   21' and 46' Predatu, 51' Bratianu, 70' Cioloboc; 82' Barna
 
 ; Bacau          ; 2-1; Sportul
-  24' and 55' Scanteie; 56' B.Andone
+  24' and 55' Scanteie; 56' B. Andone
 
 ; Ceahlaul       ; 4-1; Jiul
-  14' Iencsi, 22' Mirea, 73' M.Ionescu, 78' Axinia II; 40' Cioaba
+  14' Iencsi, 22' Mirea, 73' M. Ionescu, 78' Axinia II; 40' Cioaba
 
 ; Brasov         ; 0-0; Otelul
 
 ; Farul          ; 0-0; Gloria
 
 ; Rapid          ; 0-1; Petrolul
-  8' Toader
+  ; Toader 8
 
 ; National       ; 2-0; U Craiova
-  60' (og) Craciunescu, 88' Moisescu
+  Craciunescu (og) 60, Moisescu 88;
 
 ; Steaua         ; 2-1; Arges
-  35' Nagy, 56' Baciu; 4' Barbu
+  Nagy 35, Baciu 56; Barbu 4
 
 
 Round: 12 
@@ -372,7 +373,7 @@ Round: 12
 Date: 11/1/1996
 
 ; Sportul        ; 2-0; Rapid
-  3' and 89' B.Andone
+  3' and 89' B. Andone
 
 ; Jiul           ; 1-0; Bacau
   36' Puscas
@@ -383,7 +384,7 @@ Date: 11/1/1996
   6' Dragus, 15' Bardes, 47' Sandoi, 57' Mielusica; 21' Axinia II
 
 ; U Craiova      ; 1-1; Chindia
-  14' G.Popescu; 34' Ghergu
+  14' G. Popescu; 34' Ghergu
 
 ; Poli Timisoara ; 1-1; National
   83' (p) Gusatu; 32' 9p) Duna
@@ -392,7 +393,7 @@ Date: 11/1/1996
   43' and 68' Cornea
 
 ; Gloria         ; 2-0; Brasov
-  38' Fl.Stancu, 65' Predatu
+  38' Fl. Stancu, 65' Predatu
 
 ; Petrolul       ; 3-0; Farul
   14' and 24' Balaceanu; 74' Mihalache
@@ -413,13 +414,13 @@ Date; 11/6/1996
   39' Motroc, 90' Talvan
 
 ; Gloria         ; 5-0; Otelul
-  7' D.Matei, 17' Predatu, 24' and 66' Albeanu, 82' Miszti
+  7' D. Matei, 17' Predatu, 24' and 66' Albeanu, 82' Miszti
 
 ; Brasov         ; 2-1; Petrolul
   25' (p) Hrib, 42' Czik II; 66' Frunza
 
 ; Farul          ; 1-0; Sportul
-  51' (og) Cr.Petre
+  51' (og) Cr. Petre
 
 ; Rapid          ; 3-0; Jiul
 
@@ -431,10 +432,10 @@ Round: 14
 Date: 11/9/1996
 
 ; Jiul           ; 3-0; Farul
-  24' and 72' Matinca, 45' (og) Gh.Laurentiu
+  24' and 72' Matinca, 45' (og) Gh. Laurentiu
 
 ; Arges          ; 2-2; Rapid
-  4' Val.Nastase, 75' Bardes; 27' (p) Tartau, 93' Constantinovici
+  4' Val. Nastase, 75' Bardes; 27' (p) Tartau, 93' Constantinovici
 
 ; U Craiova      ; 3-1; Ceahlaul
   38' and 67' Trica, 50' Ganea; 73' Pantazi
@@ -443,16 +444,16 @@ Date: 11/9/1996
   10' and 61' Coroian, 42' Olariu, 52' and 81' Zotinca; 28' Galmencea
 
 ; Sportul        ; 3-1; Brasov
-  31' B.Andone, 82' Simion, 90' Caraman; 73' Balint
+  31' B. Andone, 82' Simion, 90' Caraman; 73' Balint
 
 ; Petrolul       ; 3-0; Gloria
   14' and 29' Frunza, 63' Parlog
 
 ; National       ; 1-3; Otelul
-  63' Vasc; 5' V.Stefan, 9' and 48' State
+  63' Vasc; 5' V. Stefan, 9' and 48' State
 
 ; Dinamo         ; 1-0; Bacau
-  87' M.Pana
+  87' M. Pana
 
 ; Poli Timisoara ; 1-0; Steaua
   87' Gusatu
@@ -463,7 +464,7 @@ Round: 15
 Date: 11/15/1996
 
 ; Steaua         ; 5-4; U Cluj
-  5' Militaru, 20', 32', and 37' S.Ilie, 79' R.Nagy; 33' and 77' Coroian,
+  5' Militaru, 20', 32', and 37' S. Ilie, 79' R. Nagy; 33' and 77' Coroian,
    53' Cioloboc, 60' Bratianu II
 
 ; Chindia        ; 1-3; National
@@ -480,7 +481,7 @@ Round: 16
 Date: 11/22/1996
 
 ; Dinamo         ; 5-2; Farul
-  25' Mihalcea, 27', 56' and 75' Cula, 70' Danciulescu; 40' B.Oprea,
+  25' Mihalcea, 27', 56' and 75' Cula, 70' Danciulescu; 40' B. Oprea,
    82' Anghel
 
 ; Chindia        ; 0-0; Otelul
@@ -489,17 +490,17 @@ Date: 11/22/1996
   12' Cioaba, 35' Puscas
 
 ; Arges          ; 2-0; Brasov
-  65' C.Cristescu, 90' Mielusica
+  65' C. Cristescu, 90' Mielusica
 
 ; U Craiova      ; 3-1; Rapid
-  10' Lutu, 61' Trica, 67' S.Cristescu; 76' Pancu
+  10' Lutu, 61' Trica, 67' S. Cristescu; 76' Pancu
 
 ; Poli Timisoara ; 4-1; Bacau
   6' (p), 14' and 43' Gusatu, 71' Zavoiu; 58' (p) Pavel
 
 ; U Cluj         ; 5-4; Ceahlaul
   12' and 42' Bratianu II, 47' Olariu, 57' Maris, 69' Maier; 
-   59' (p), 70' and 85' Enache, 80' C.Ilie
+   59' (p), 70' and 85' Enache, 80' C. Ilie
 
 ; Sportul        ; 0-1; Petrolul
   62' Parlog
@@ -523,16 +524,16 @@ Date: 12/6/1996
   58' (p) Marc
 
 ; Otelul         ; 3-0; Sportul
-  17' and 74' Tofan, 78' V.Ion
+  17' and 74' Tofan, 78' V. Ion
 
 ; Gloria         ; 3-2; Arges
   17' Predatu, 44' Iftodi, 47' Albeanu; 32' Popa, 89' Mielusica
 
 ; Petrolul       ; 4-1; Jiul
-  6' Zmoleanu, 40' and 86' Frunza, 65' Balaceanu; 73' So.Radu
+  6' Zmoleanu, 40' and 86' Frunza, 65' Balaceanu; 73' So. Radu
 
 ; Farul          ; 2-0; U Craiova
-  30' Grigoras, 42' B.Oprea
+  30' Grigoras, 42' B. Oprea
 
 ; Steaua         ; 4-1; Chindia
 
@@ -556,18 +557,18 @@ Round: 19
 Date: 3/7/1997
 
 ; Dinamo         ; 3-1; Petrolul
-  20' and 75' (p) Fl.Petre, 67' Mihalcea; 54' (p) Grigore
+  20' and 75' (p) Fl. Petre, 67' Mihalcea; 54' (p) Grigore
 
 ; Jiul           ; 1-1; Otelul
-  46' Priseceanu; 78' V.Stefan
+  46' Priseceanu; 78' V. Stefan
 
 ; U Craiova      ; 1-1; Gloria
 
 ; Steaua         ; 3-3; Ceahlaul
-  6' S.Ilie, 21' Lacatus, 65' Militaru; 26' and 44' Pantazi, 53' M.Ionescu
+  6' S. Ilie, 21' Lacatus, 65' Militaru; 26' and 44' Pantazi, 53' M. Ionescu
 
 ; U Cluj         ; 3-1; Farul
-  15' M.Popescu, 57' Zotinca, 78' (p) Maier; 25' Grigoras
+  15' M. Popescu, 57' Zotinca, 78' (p) Maier; 25' Grigoras
 
 ; Arges          ; 1-0; Sportul
   17' Schumacher
@@ -579,7 +580,7 @@ Date: 3/7/1997
   42' Gusatu, 80' Sasu; 90' Hrib
 
 ; National       ; 3-1; Rapid
-  25' (p) Duna, 76' M.Savu, 88' Niculescu; 37' B.Andone
+  25' (p) Duna, 76' M. Savu, 88' Niculescu; 37' B. Andone
 
 
 Round: 20 
@@ -609,7 +610,7 @@ Date: 3/15/1997
 ; Arges          ; 0-0; Otelul
 
 ; U Craiova      ; 1-2; Sportul
-  55' Cristescu; 80' (p) Cr.Petre, 90' T.Cristea
+  55' Cristescu; 80' (p) Cr. Petre, 90' T. Cristea
 
 ; U Cluj         ; 1-0; Gloria
   83' Bratianu
@@ -618,14 +619,14 @@ Date: 3/15/1997
   40' Gusatu; 9' and 72' Maldarasanu
 
 ; National       ; 6-1; Brasov
-  29' and 51' R.Niculescu, 43' Ciobutariu, 63' Duna, 85' Sburlea,
-   88' M.Savu; 38' (p) M.Ivan
+  29' and 51' R. Niculescu, 43' Ciobutariu, 63' Duna, 85' Sburlea,
+   88' M. Savu; 38' (p) M. Ivan
 
 ; Chindia        ; 2-0; Farul
   63' Onisemius, 67' Radoi
 
 ; Steaua         ; 3-1; Rapid
-  10' (p) and 62' S.Ilie, 90' Militaru; 18' Bundea
+  10' (p) and 62' S. Ilie, 90' Militaru; 18' Bundea
 
 
 Round: 22 
@@ -639,7 +640,7 @@ Date: 3/22/1997
 ; Brasov         ; 2-0; Chindia
 
 ; Farul          ; 3-0; Steaua
-  25' and 60' B.Oprea, 41' Grigoras
+  25' and 60' B. Oprea, 41' Grigoras
 
 ; Jiul           ; 2-4; U Craiova
 ; Petrolul       ; 1-0; U Cluj
@@ -664,19 +665,19 @@ Date: 4/4/1997
   39' (p) Maier; 6' (p), 33' and 68' Sumidica, 9' Paduret
 
 ; Ceahlaul       ; 4-2; Farul
-  53' C.Ilie, 75' Marc, 79' Botez, 89' Pantazi; 23' Tudor, 45' B.Oprea
+  53' C. Ilie, 75' Marc, 79' Botez, 89' Pantazi; 23' Tudor, 45' B. Oprea
 
 ; National       ; 4-1; Petrolul   
   6' Moisescu, 16' and 19' Niculescu, 23' Savu; 47' Parlog
 
 ; Chindia        ; 0-1; Gloria  
-  88' R.Sabo
+  88' R. Sabo
 
 ; Steaua         ; 3-0; Brasov   
-  60' and 76' D.Serban, 69' C.Munteanu
+  60' and 76' D. Serban, 69' C. Munteanu
 
 ; Bacau          ; 1-0; Rapid   
-  44'Fl.Ionescu
+  44'Fl. Ionescu
 
 
 Round: 24 
@@ -684,7 +685,7 @@ Round: 24
 Date: 4/9/1997
 
 ; Gloria         ; 1-1; Steaua
-  44' R.Sabo; 64' Cl.Munteanu
+  44' R. Sabo; 64' Cl. Munteanu
 
 ; Dinamo         ; 2-0; U Craiova
   26' (p) Danciulescu, 81' Batranu
@@ -720,7 +721,7 @@ Date: 4/12/1997
   16' Sasu, 28' Kovacs, 42' (p) Gusatu
 
 ; U Craiova      ; 2-0; Otelul
-  52' G.Popescu, Trica
+  52' G. Popescu, Trica
 
 ; Chindia        ; 1-0; Sportul
   38' Ghergu
@@ -732,10 +733,10 @@ Date: 4/12/1997
   41' Sandoi
 
 ; Steaua         ; 3-0; Petrolul
-  4' I.Stan, 53' Rotariu, 55' S.Ilie
+  4' I. Stan, 53' Rotariu, 55' S. Ilie
 
 ; National       ; 4-0; Jiul
-  1' Moisescu, 27' M.Savu, 35' Sburlea, 78' Lita
+  1' Moisescu, 27' M. Savu, 35' Sburlea, 78' Lita
 
 ; Ceahlaul       ; 0-0; Gloria
 
@@ -744,7 +745,7 @@ Round: 26
 Date: 4/19/1997
 
 ; Dinamo         ; 3-0; U Cluj
-  13' Fl.Petre, 19' Tararache, 59' Mihalcea
+  13' Fl. Petre, 19' Tararache, 59' Mihalcea
 
 ; Arges          ; 0-0; National
 
@@ -757,7 +758,7 @@ Date: 4/19/1997
 ; U Craiova      ; 0-0; Poli Timisoara
 
 ; Gloria         ; 2-1; Bacau
-  14' R.Sabo, 77' Oana; 24' Ov.Rotariu
+  14' R. Sabo, 77' Oana; 24' Ov. Rotariu
 
 ; Petrolul       ; 1-0; Ceahlaul
 ; Otelul         ; 1-0; Farul
@@ -779,10 +780,10 @@ Date: 4/23/1997
   19' Trusca, 48' Banceu, 59' Stan
 
 ; Bacau          ; 1-0; Petrolul
-  18' Fl.Ionescu
+  18' Fl. Ionescu
 
 ; Rapid          ; 1-1; Gloria
-  38' Tartau; 8' R.Sabo
+  38' Tartau; 8' R. Sabo
 
 ; Chindia        ; 2-1; Arges
 ; National       ; 2-1; Dinamo
@@ -804,17 +805,17 @@ Date: 5/2/1997
 ; Gloria         ; 3-2; Farul
 ; Petrolul       ; 1-1; Rapid
 ; U Craiova      ; 2-0; National
-76' S.Cristescu, 90' Lutu
+76' S. Cristescu, 90' Lutu
 
 Round: 29 
 *[May 9,10,11]
 Date: 5/9/1997
 
 ; National       ; 5-1; Poli Timisoara  
-  10' and 32' M.Savu, 19' Sburla, 35' Lita, 66' Zegrean; 48' G.Radu
+  10' and 32' M. Savu, 19' Sburla, 35' Lita, 66' Zegrean; 48' G. Radu
 
 ; Rapid          ; 1-1; Sportul 
-  45' C.Zamfir; 71' Sumudica
+  45' C. Zamfir; 71' Sumudica
 
 ; Bacau          ; 2-0; Jiul 
   17' Condurache, 61' Petcu
@@ -828,7 +829,7 @@ Date: 5/9/1997
   7' Ungur, 45' Vrajitoarea
 
 ; U Cluj         ; 1-1; Otelul 
-  38' M.Popescu; 16' V.Ion
+  38' M. Popescu; 16' V. Ion
 
 ; Brasov         ; 2-1; Gloria
   62' Csik, 67' Strizu; 3' Predatu
@@ -841,7 +842,7 @@ Round: 30
 Date: 5/17/1997
 
 ; U Craiova      ; 3-2; Steaua 
-  11' and 32' S.Cristescu, 45' Lutu; 28' C.Munteanu, 70' Rosu
+  11' and 32' S. Cristescu, 45' Lutu; 28' C. Munteanu, 70' Rosu
 
 ; U Cluj         ; 0-3; National
   31' Duna, 43' Potocianu, 89' Necula
@@ -853,19 +854,19 @@ Date: 5/17/1997
   60' Sasu, 88' (p) Kovacs; 44' Balasa
 
 ; Dinamo         ; 4-1; Ceahlaul
-  24' Danciulescu, 59' Fl.Petre, 63' Haldan, 90' Tararache; 84' Motroc
+  24' Danciulescu, 59' Fl. Petre, 63' Haldan, 90' Tararache; 84' Motroc
 
 ; Otelul         ; 3-0; Gloria
-  8' V.Ion, 58' Rednic, 74' Florea
+  8' V. Ion, 58' Rednic, 74' Florea
 
 ; Jiul           ; 1-1; Rapid 
-  59' V.Stancu; 60+' C.Popa
+  59' V. Stancu; 60+' C. Popa
 
 ; Sportul        ; 2-1; Farul 
   19' Paduret, 90' Zanc; 89' Grigoras
 
 ; Petrolul       ; 4-2; Brasov 
-  3' Zafiris, 32' Frunza, 42' Balaceanu, 47' (p) O.Grigore; 30' Ghindaru,
+  3' Zafiris, 32' Frunza, 42' Balaceanu, 47' (p) O. Grigore; 30' Ghindaru,
    48' (p) Beraru
 
 
@@ -874,22 +875,22 @@ Round: 31
 Date: 5/24/1997
 
 ; Otelul         ; 2-0; National
-  55' V.Ion, 90' Rednic
+  55' V. Ion, 90' Rednic
 
 ; Farul          ; 1-0; Jiul
   47' Grigoras
 
 ; Bacau          ; 2-0; Dinamo
-  44' Ov.Rotariu, 63' Fl.Petcu
+  44' Ov. Rotariu, 63' Fl. Petcu
 
 ; Rapid          ; 1-0; Arges
-  77' C.Popa
+  77' C. Popa
 
 ; Ceahlaul       ; 2-0; U Craiova
-  74' M.Ionescu, 79' Perja
+  74' M. Ionescu, 79' Perja
 
 ; Steaua         ; 5-1; Poli Timisoara
-  38', 57' and 72' S.Ilie, 34' C.Munteanu, 43' (og) Trandu; 37' G.Radu
+  38', 57' and 72' S. Ilie, 34' C. Munteanu, 43' (og) Trandu; 37' G. Radu
 
 ; Chindia        ; 0-0; U Cluj
 
@@ -908,17 +909,17 @@ Date: 5/31/1997
   27' and 35' Niculescu, 45' and 50' Albeanu; 40' Termure
 
 ; U Cluj         ; 1-7; Steaua
-  59' Maier; 4', 71' and 75' S.Ilie, 23' Militaru, 47' Rotariu, 52' Lacatus,
+  59' Maier; 4', 71' and 75' S. Ilie, 23' Militaru, 47' Rotariu, 52' Lacatus,
    88' Ciocoiu
 
 ; U Craiova      ; 1-1; Bacau
   65' Gabi Popescu; 47' Rotariu
 
 ; Poli Timisoara ; 3-2; Ceahlaul
-  45' and 67' Fl.Calin, 82' G.Radu; 65' Marc, 69' (p) Enache
+  45' and 67' Fl. Calin, 82' G. Radu; 65' Marc, 69' (p) Enache
 
 ; Petrolul       ; 1-0; Otelul
-  26' O.Grigore
+  26' O. Grigore
 
 ; Sportul        ; 2-1; Gloria
   83' (og) Glavan, 89' Zanc; 40' Iftodi
@@ -930,7 +931,7 @@ Date: 5/31/1997
   4' and 80' (p) Barbu, 11' Sandoi, 24' Bardes; 56' Grigoras
 
 ; Dinamo         ; 2-0; Rapid
-  45' (p) Danciulescu, 90' Haldan
+  Danciulescu (pk) 45, Haldan 90;
 
 
 Round: 33 
@@ -938,28 +939,27 @@ Round: 33
 Date: 6/7/1997
 
 ; Steaua         ; 3-1; National
-  21' and 55' S.Ilie, 89' D.Serban; 87' Pigulea
+  S. Ilie 21, S. Ilie 55, D. Serban 89; Pigulea 87
 
 ; Otelul         ; 6-1; Chindia
-  13' V.Ion, 15' Tanase, 27' State, 31' V.Stefan, 40' and 80' D.Rednic;
-   74' Ristea
+  V. Ion 13, Tanase 15, State 27, V. Stefan 31, D. Rednic 40 D. Rednic 80; Ristea 74
 
 ; Gloria         ; 3-0; Jiul
-  17' and 21' R.Sabo, 51' Mironas
+  R. Sabo 17, R. Sabo 21, Mironas 51;
 
 ; Farul          ; 2-1; Dinamo
-  48' Stere, 55' B.Oprea; 66' Danciulescu
+  Stere 48, B. Oprea 55; Danciulescu 66
 
 ; Brasov         ; 3-0; Arges
 
 ; Rapid          ; 2-0; U Craiova
-  44' Constantinovici, 47' Pancu
+  Constantinovici 44, Pancu 47;
 
 ; Bacau          ; 2-0; Poli Timisoara
-  37' and 82' Raducan
+  Raducan 37, Raducan 82;
 
 ; Ceahlaul       ; 3-1; U Cluj
-  18' M.Ionescu, 42' Enache, 65' Axinia II; 76' (p) Maris
+   M. Ionescu 18, Enache 42, Axinia II 65; Maris (pk) 76
 
 ; Petrolul       ; 7-1; Sportul
 
