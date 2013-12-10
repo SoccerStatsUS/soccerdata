@@ -38,10 +38,10 @@ Date: 8/13/1999
 Date: 8/14/1999
 
 ; PSV            ; 4-1; MVV 
-  Van Bommel 19, Van Nistelrooy 20, 57, 85; Janssen 19
+  Van Bommel 19, Van Nistelrooy 20, Van Nistelrooy 57, Van Nistelrooy 85; Janssen 19
 
 ; Fortuna        ; 1-2; AZ 
-  Paciorek 65; Van Galen 21, 53
+  Paciorek 65; Van Galen 21, Van Galen 53
 
 ; Cambuur        ; 1-1; Vitesse
   Nelisse 2; Van Hooijdonk 45
@@ -51,7 +51,7 @@ Date: 8/14/1999
 Date: 8/15/1999
 
 ; Utrecht        ; 1-0; NEC
-  Van Der Gaag 13
+  Van Der Gaag 13;
 
 ; RKC            ; 1-1; Twente
   Hoogendorp 66; Karnebeek 41
@@ -59,23 +59,19 @@ Date: 8/15/1999
 ; Ajax           ; 3-2; Heerenveen
   Laudrup 51, Machlas 62, Arveladze 72; Talan 22, Hakansson 81
 
-
 Round: 2
-
 Date: 8/20/1999
 
 ; MVV            ; 2-6; Ajax
-  Emerson 41, Perez 86; Knopper 21, 51, Verlaat 24, Witschge 56,
-   Laudrup 61, Dani 76
-
+  Emerson 41, Perez 86; Knopper 21, Knopper 51, Verlaat 24, Witschge 56, Laudrup 61, Dani 76
 
 Date: 8/21/1999
 
 ; Willem II      ; 2-2; Fortuna
-  Bombarda 60, 90; Kool 37, Gernitsen 47
+  Bombarda 60, Bombarda 90; Kool 37, Gernitsen 47
 
 ; Twente         ; 4-2; NEC
-  Ten Hag 10, Vennegoor of Hasselink 62, 66, 81; Pothuizen 13, 43
+  Ten Hag 10, Vennegoor of Hasselink 62, Vennegoor of Hasselink 66, Vennegoor of Hasselink 81; Pothuizen 13, Pothuizen 43
 
 ; Heerenveen     ; 3-1; Sparta
   Talan 22, Samardzic 68, Hakansson 90; Jaliens 78
@@ -86,30 +82,24 @@ Date: 8/21/1999
 ; Den Bosch      ; 1-1; Graafschap
   Michels 44; Tumba 79
 
-
 Date: 8/22/1999
 
 ; Feyenoord      ; 4-0; Cambuur
-  Kornejev 4, Cairo 48, Kalou 64, 75
+  Kornejev 4, Cairo 48, Kalou 64, Kalou 75;
 
 ; Vitesse        ; 1-6; PSV
-  Van Hooijdonk 37; Bruggink 15, 35, Faber 45, Van Nistelrooy (pk) 49,
-   85, Khokhlov 80
-
+  Van Hooijdonk 37; Bruggink 15, Bruggink 35, Faber 45, Van Nistelrooy (pk) 49, Van Nistelrooy 85, Khokhlov 80
 
 Date: 9/15/1999
 
 ; AZ             ; 0-1; Utrecht
-  Lucius 6
-
+;  Lucius 6
 
 Round: 3
-
 Date: 8/27/1999
 
 ; Cambuur        ; 0-3; Ajax
-  Dani 6, Laudrup 52, Wamberto 87
-
+;  Dani 6, Laudrup 52, Wamberto 87
 
 Date: 8/28/1999
 
@@ -117,37 +107,31 @@ Date: 8/28/1999
   Nilis 27, Bruggink 90; Paciorek 24
 
 ; Roda           ; 4-3; NEC
-  Torma (pk) 20, (pk) 75, Van Der Luar 26, Peeters 81; Van Putten 57, De
-Gier 84, Pothuizen 87
+  Torma (pk) 20, Torma (pk) 75, Van Der Luar 26, Peeters 81; Van Putten 57, De Gier 84, Pothuizen 87
 
 ; Willem II      ; 2-1; Den Bosch   
   Arts (pk) 33, Victoria 82; Van Der Laan (pk) 75
 
 ; Vitesse        ; 6-2; MVV
-  Sikora 14, Van Hooijdonk 22, 44, 90, Van Hintum 40, Van Der Brom 70;
-Kociski 47, Caers 74
+  Sikora 14, Van Hooijdonk 22, Van Hooijdonk 44, Van Hooijdonk 90, Van Hintum 40, Van Der Brom 70; Kociski 47, Caers 74
  
-
 Date: 8/29/1999
 
 ; RKC            ; 1-2; AZ
   Hessakkers 24; Bosman 21, Van Galen 80
 
 ; Utrecht        ; 1-0; Twente
-  Van Mol 14
+  Van Mol 14;
   
 ; Feyenoord      ; 3-1; Heerenveen
   Cruz 3, Kalou 65, Vossen 84; Nurmela 72
 
-
 Date: 9/15/1999
 
 ; Sparta         ; 2-1; Graafschap
-  Inia 84, 89; Viscaal 60
-
+  Inia 84, Inia 89; Viscaal 60
 
 Round: 4
-
 Date: 9/10/1999
 
 ; AZ             ; 1-2; Roda
@@ -156,14 +140,13 @@ Date: 9/10/1999
 ; Ajax           ; 2-2; Feyenoord
   Knopper 17, Wamberto 58; Bosvelt 60, Kalou 68
 
-
 Date: 9/11/1999
 
 ; Fortuna        ; 0-2; RKC
-  Hoogendorp 29, Cornelisse 90
+;  Hoogendorp 29, Cornelisse 90
 
 ; Heerenveen     ; 2-4; Willem II
-  Denneboom 37, De Nooijer 82; Victoria 48, Bombarda 63, Sanou 89, 90
+  Denneboom 37, De Nooijer 82; Victoria 48, Bombarda 63, Sanou 89, Sanou 90
 
 ; MVV            ; 1-1; Cambuur 
   Taiwo 90; Goudwijn 4
@@ -173,7 +156,7 @@ Date: 9/11/1999
 Date: 9/12/1999
 
 ; Sparta         ; 3-0; Utrecht
-  Marbus 34, 58, El Khattabi 41
+  Marbus 34, Marbus 58, El Khattabi 41;
 
 ; Graafschap     ; 1-2; PSV 
   Roelofsen 42; Khokhlov 21, Nilis 89
@@ -182,16 +165,13 @@ Date: 9/12/1999
 Date: 9/29/1999
 
 ; NEC            ; 2-0; Den Bosch
-  Schultz 1, De Gier 68
-
+  Schultz 1, De Gier 68;
 
 Round: 5
-
 Date: 9/17/1999
 
 ; Cambuur        ; 1-3; Twente
   Nelisse 6; Van der Laan (pk) 50, De Witte 78, Vannegoor 90
-
 
 Date: 9/18/1999
 
@@ -202,13 +182,12 @@ Date: 9/18/1999
   Deckers 81; Perez 69
 
 ; Feyenoord      ; 1-0; Fortuna
-  Van Wonderen 76
-
+  Van Wonderen 76;
 
 Date: 9/19/1999
 
 ; Roda           ; 0-2; Heerenveen
-  Huizingh 6, Talan 54
+;  Huizingh 6, Talan 54
 
 ; Vitesse        ; 2-1; Sparta      
   Sikora 28, Van Hooijdonk (pk) 67; Usta 84
@@ -219,39 +198,34 @@ Date: 9/19/1999
 ; RKC            ; 1-1; Ajax
   Lanckohr 88; Knopper 35
 
-
 Date: 11/7/1999
 
 ; NEC            ; 2-1; PSV
   Jack de Gier 23, Anton Janssen 57; Ruud van Nistelrooy 59
 
-
 Round: 6
-
 Date: 9/24/1999
 
 ; Ajax           ; 3-1; Vitesse
-  Laudrup 22, 62, Arveladze (pk) 84; Van Hooijdonk 13
-
+  Laudrup 22, Laudrup 62, Arveladze (pk) 84; Van Hooijdonk 13
 
 Date: 9/25/1999
 
 ; Heerenveen     ; 0-0; Twente
 
 ; Roda           ; 3-0; Fortuna
-  Valgaeren 18, Tchoutang 57, Peeters 90
+  Valgaeren 18, Tchoutang 57, Peeters 90;
 
 ; PSV            ; 6-1; Willem II
-  Gentile 20og, Nikiforov 45, Vogel 48, Van Nistelrooy 75, 78, (pk) 90; Arts 30
-
+  Gentile (og) 20, Nikiforov 45, Vogel 48, Van Nistelrooy 75, Van Nistelrooy 78, Van Nistelrooy (pk) 90; Arts 30
 
 Date: 9/26/1999
 
 ; Sparta         ; 3-0; MVV
-  Usta 22, Den Dunnen 40, Marilia 80
+  Usta 22, Den Dunnen 40, Marilia 80;
 
 ; Cambuur        ; 2-4; AZ
-  Van der Heide 19, Nelisse 45; Van Galen 13, Bosman 49, 55, Boussatta 85
+  Van der Heide 19, Nelisse 45; Van Galen 13, Bosman 49, Bosman 55, Boussatta 85
 
 ; Den Bosch      ; 3-2; Utrecht
   Deckers 69, Vos 75, Van der Laan 90; Martel (pk) 12, Van der Gaag 89
@@ -260,33 +234,27 @@ Date: 9/26/1999
   Meerdink 45, Viscaal 73; Renfurm 19, De Gier 68
 
 ; Feyenoord      ; 1-2; RKC
-  Tomasson 68; Cornelisse 62, 90
-
+  Tomasson 68; Cornelisse 62, Cornelisse 90
 
 Round: 7
-
 Date: 10/1/1999
 
 ; MVV            ; 1-3; Heerenveen
-  Kenneth Perez 35; Jeffrey Talan 42, Lurling 65, 77
-
+  Kenneth Perez 35; Jeffrey Talan 42, Lurling 65, Lurling 77
 
 Date: 10/2/1999
 
 ; Twente         ; 3-2; Den Bosch
-  De Witte 2, Jeroen Heubach 5, Arjan van der Laan (pk) 47; Chaly Jones 40,
-   Harry van der Laan (pk) 58
+  De Witte 2, Jeroen Heubach 5, Arjan van der Laan (pk) 47; Chaly Jones 40, Harry van der Laan (pk) 58
 
 ; PSV            ; 7-0; Sparta
-  Mark van Bommel 1, Ruud van Nistelrooij 26, 56, 85, Luc Nilis 45,
-   Dmitri Khokhlov 62, Joonas Kolkka 72
+  Mark van Bommel 1, Ruud van Nistelrooij 26, Ruud van Nistelrooij 56, Ruud van Nistelrooij 85, Luc Nilis 45, Dmitri Khokhlov 62, Joonas Kolkka 72
     
 ; Fortuna        ; 4-1; Cambuur
-  Joost Volmer 9, Ronald Hamming 13, 55, 69; Sandor van der Heide (pk) 27
+  Joost Volmer 9, Ronald Hamming 13, Ronald Hamming 55, Ronald Hamming 69; Sandor van der Heide (pk) 27
 
 ; RKC            ; 2-1; Graafschap
   Gerry de Graef 74, Hoogendorp 76; Meerdink 41
-
 
 Date: 10/3/1999
 
@@ -296,11 +264,10 @@ Date: 10/3/1999
   Martel 29; Bob Peeters (pk) 51, Arno Doomernik 90
 
 ; Vitesse        ; 5-1; NEC 
-  Pierre van Hooijdonk 17, 25, 86, Sikora 65, Amoah 90; Hesp 20
+  Pierre van Hooijdonk 17, Pierre van Hooijdonk 25, Pierre van Hooijdonk 86, Sikora 65, Amoah 90; Hesp 20
 
 ; Willem II      ; 3-6; Ajax
-  Bombarda 43, Ousmane Sanou 52, Tomas Galasek 89; Richard Knopper 3, 15, 
-   Nikos Machlas 31, 53, Brian Laudrup 87, Tijani Babangida 90
+  Bombarda 43, Ousmane Sanou 52, Tomas Galasek 89; Richard Knopper 3, Richard Knopper 15,  Nikos Machlas 31, Nikos Machlas 53, Brian Laudrup 87, Tijani Babangida 90
 
 Round: 8
 Date: 10/10/1999
@@ -308,40 +275,36 @@ Date: 10/10/1999
 ; Graafschap     ; 2-1; MVV
   Eric Viscaal 55, Issah 80; Kenneth Perez 22
 
-
 Date: 10/11/1999
 
 ; Sparta         ; 1-2; Roda
   Tieme Zijm 62; Bob Peeters 24, Mark Luijpers 42
-
 
 Date: 10/12/1999
 
 ; Feyenoord      ; 0-0; Vitesse
 
 ; Cambuur        ; 0-1; Willem II
-  Mariano Bombarda 34
+;  Mariano Bombarda 34
 
 Date: 10/13/1999
 
 ; RKC            ; 1-6; PSV
-  Rick Hoogendorp 69; Luc Nilis 2, 45, 80, Ruud van Nistelrooy 35, 47, Joonas Kolkka 85
+  Rick Hoogendorp 69; Luc Nilis 2, Luc Nilis 45, Luc Nilis 80, Ruud van Nistelrooy 35, Ruud van Nistelrooy 47, Joonas Kolkka 85
 
 ; Den Bosch      ; 2-3; AZ
-  Jan Michels (pk) 17, Arnold Scholten 26; John Bosman 10, Barry van Galen 23, 45
+  Jan Michels (pk) 17, Arnold Scholten 26; John Bosman 10, Barry van Galen 23, Barry van Galen 45
 
 ; Heerenveen     ; 1-0; Utrecht
-  Romano Denneboom 82
+  Romano Denneboom 82;
 
 ; NEC            ; 0-1; Twente 
-  Jan Vennegoor of Hesselink 44
+;  Jan Vennegoor of Hesselink 44
 
 ; Ajax           ; 4-1; Fortuna
-  Wamberto 30, Richard Knopper 33, Brian Laudrup 50, 86; Ronald Hamming 12
-
+  Wamberto 30, Richard Knopper 33, Brian Laudrup 50, Brian Laudrup 86; Ronald Hamming 12
 
 Round: 9
-
 Date: 10/15/1999
 
 ; Roda           ; 2-1; Feyenoord
@@ -351,30 +314,26 @@ Date: 10/15/1999
 Date: 10/16/1999
 
 ; Fortuna        ; 0-1; Heerenveen
-  Arek Radomski 55
+;  Arek Radomski 55
 
 ; MVV            ; 4-1; Utrecht
-  Emerson 21, 70, 73, Wasiu Taiwo 28; Didier Martel 82
+  Emerson 21, Emerson 70, Emerson 73, Wasiu Taiwo 28; Didier Martel 82
 
 ; Willem II      ; 2-1; RKC 
   Danny Landzaat 31, Mariano Bombarda 33; Maarten Schops 47
 
 ; Vitesse        ; 1-0; Cambuur  
-  Marco De Marchi 40
+  Marco De Marchi 40;
  
-
 Date: 10/17/1999
 
 ; PSV            ; 7-0; Den Bosch
-  Ruud van Nistelrooy 12, (pk) 14, Luc Nilis 43, 45, Arnold Bruggink 48, 60,
-   Björn van der Doelen 74
+  Ruud van Nistelrooy 12, Ruud van Nistelrooy (pk) 14, Luc Nilis 43, Luc Nilis 45, Arnold Bruggink 48, Arnold Bruggink 60, Björn van der Doelen 74
  
 ; Graafschap     ; 0-0; Twente
 
 ; Sparta         ; 3-6; AZ
-  Silvain Inia 12, 20, Anders Nielsen 43; Michael Buskermolen 37, 
-   Barry van Galen 44, John Bosman 45, Robert van der Weert 53,
-   Barry Opdam 58, Fernando Riksen 82
+  Silvain Inia 12, Silvain Inia 20, Anders Nielsen 43; Michael Buskermolen 37, Barry van Galen 44, John Bosman 45, Robert van der Weert 53, Barry Opdam 58, Fernando Riksen 82
 
 ; NEC            ; 1-3; Ajax
   Maikel Renfurm 53; John O'Brien 33, Nikos Machlas (pk) 55, Richard Knopper 72
@@ -383,23 +342,21 @@ Round: 10
 Date: 10/22/1999
 
 ; AZ             ; 0-1; Heerenveen
-  Romano Denneboom 62
-
+;  Romano Denneboom 62
 
 Date: 10/23/1999
 
 ; Cambuur        ; 1-0; Graafschap
-  Dennis Scharrenburg 22
+  Dennis Scharrenburg 22;
 
 ; Willem II      ; 1-0; MVV
-  Osmane Sanou 75
+  Osmane Sanou 75;
 
 ; PSV            ; 2-2; Twente
-  Ruud van Nistelrooy 30, Joonas Kolkka 69; Scot Booth 87, 88
+  Ruud van Nistelrooy 30, Joonas Kolkka 69; Scot Booth 87, Scot Booth 88
 
 ; Fortuna        ; 3-2; Sparta
-  Wim Kiekens 16, Ronald Hamming 38, Joost Volmer 64; Al Elkhattabi 32, 33
-
+  Wim Kiekens 16, Ronald Hamming 38, Joost Volmer 64; Al Elkhattabi 32, Al Elkhattabi 33
 
 Date: 10/24/1999
 
@@ -407,120 +364,101 @@ Date: 10/24/1999
   Bert Konterman 45, Paul Bosvelt 64; Maikel Renfurm 62
 
 ; Utrecht        ; 4-1; RKC
-  Mitchell van der Gaag 24, John de Jong 40, (pk) 78, Patrick Zwaanswijk 74;
-   Roberto Lanckohr 84
+  Mitchell van der Gaag 24, John de Jong 40, John de Jong (pk) 78, Patrick Zwaanswijk 74; Roberto Lanckohr 84
 
 ; Roda           ; 0-1; Vitesse
-  Pierre van Hooijdonk 80
+;  Pierre van Hooijdonk 80
 
 ; Ajax           ; 6-1; Den Bosch
-  Nikos Machlas 29, 51, (pk) 88, Brian Laudrup 31, Richard Knopper 58,
-   Witschge 89; Michels 33
-
+  Nikos Machlas 29, Nikos Machlas 51, Nikos Machlas (pk) 88, Brian Laudrup 31, Richard Knopper 58, Witschge 89; Michels 33
 
 Round: 11
-
 Date: 10/27/1999
 
 ; Twente         ; 3-2; Sparta
-  Jan Vennegoor of Hesselink 8, 71, Frederic Peiremans 24; Ali Elkhattabi 29, Mourad 58
+  Jan Vennegoor of Hesselink 8, Jan Vennegoor of Hesselink 71, Frederic Peiremans 24; Ali Elkhattabi 29, Mourad 58
 
 ; Heerenveen     ; 2-0; Graafschap
-  Daniel Jensen 12, Boudewijn Pahlplatz 15
+  Daniel Jensen 12, Boudewijn Pahlplatz 15;
 
 ; RKC            ; 4-2; NEC
-  Rick Hoogendorp 13, (pk) 56, Carlos van Wanrooij 49, Garry de Graef 71;
-   Peter van Putten 1, Maikel Renfurm 39
-
+  Rick Hoogendorp 13, Rick Hoogendorp (pk) 56, Carlos van Wanrooij 49, Garry de Graef 71; Peter van Putten 1, Maikel Renfurm 39
 
 Date: 10/29/1999
 
 ; Ajax           ; 1-2; Roda
   Aaron Winter 67; Bob Peeters 72, Mark Luypers 90
 
-
 Date: 10/30/1999
 
 ; Den Bosch      ; 1-1; Cambuur
   Chaly Jones 8; Raymond de Waard 32
 
-
 Date: 10/31/1999
 
 ; Vitesse        ; 3-1; Utrecht
-  Marco De Marchi 44, Pierre van Hooijdonk 73, 90; Theo Lucius 72
+  Marco De Marchi 44, Pierre van Hooijdonk 73, Pierre van Hooijdonk 90; Theo Lucius 72
 
 ; MVV            ; 1-0;  Fortuna
-  Thomas Caers 90
+  Thomas Caers 90;
 
 ; AZ             ; 0-3; PSV
-  Ruud van Nistelrooy 22, 49, Arnold Bruggink 80
-
+;  Ruud van Nistelrooy 22, Ruud van Nistelrooy 49, Arnold Bruggink 80
 
 Date: 12/1/1999
 
 ; Feyenoord      ; 1-0; Willem II
-  Kalou 45
+  Kalou 45;
   
-
 Round: 12
-
 Date: 11/3/1999
 
 ; NEC            ; 0-4; Heerenveen
-  Arek Radomski 8, Mika Nurmula 33, Romano Denneboom 45, Anthony Lurling 89
-
+;  Arek Radomski 8, Mika Nurmula 33, Romano Denneboom 45, Anthony Lurling 89
 
 Date: 11/5/1999
 
 ; Utrecht        ; 2-1; Fortuna 
-  Alphons Groenendijk 5, Wim Kiekens 66og; Rolf Landerl 61
+  Alphons Groenendijk 5, Wim Kiekens (og) 66; Rolf Landerl 61
  
-
 Date: 11/6/1999
 
 ; MVV            ; 3-4; AZ
-  Emerson 18, Rodney Falix 64, Kenneth Perez 89; Abdelkarim El Hadrioui 8,
-   Max Huiberts 14, John Bosman 55, Barry van Galen 90
+  Emerson 18, Rodney Falix 64, Kenneth Perez 89; Abdelkarim El Hadrioui 8, Max Huiberts 14, John Bosman 55, Barry van Galen 90
 
 ; Graafschap     ; 0-2; Willem II
-  Mariano Bombarda 41, Arno Arts 71
+;  Mariano Bombarda 41, Arno Arts 71
  
-
 Date: 11/7/1999
 
 ; RKC            ; 3-2; Cambuur 
-  Roberto Lanckohr 2, Tom van der Leegte 59, Maarten Schops 75; Robin Nelisse 31, 51
+  Roberto Lanckohr 2, Tom van der Leegte 59, Maarten Schops 75; Robin Nelisse 31, Robin Nelisse 51
 
 ; Roda           ; 3-0; Den Bosch
-  Eric van der Luer 6, Bob Peeters 83, 90
+  Eric van der Luer 6, Bob Peeters 83, Bob Peeters 90;
 
 ; Sparta         ; 1-2; Ajax
-  Ali Elkhattabi (pk) 64; Frank Verlaat 35, Marilia 57og
+  Ali Elkhattabi (pk) 64; Frank Verlaat 35, Marilia (og) 57
 
 ; Twente         ; 3-3; Feyenoord
-  Ferry de Haan 6og, Frederic Peiremans 13, 28; Tomasz Rzasa 8, 
-   Bonaventure Kalou 63, Somalia 90
-
+  Ferry de Haan (og) 6, Frederic Peiremans 13, Frederic Peiremans 28; Tomasz Rzasa 8, Bonaventure Kalou 63, Somalia 90
 
 Round: 13
-
 Date: 11/19/1999
 
 ; AZ             ; 2-1; Twente
-  Michel Buskermolen (pk) 12, Jan Verlinden 23og; Arjan van der Laan (pk) 40
+  Michel Buskermolen (pk) 12, Jan Verlinden (og) 23; Arjan van der Laan (pk) 40
 
 ; MVV            ; 3-3; Feyenoord
-  Wasiu Taiwo 52, Kenneth Perez 62, Eric Kortchaguine 78; 
-   Igor Korneev (pk) 4, 23, Somalia 19
+  Wasiu Taiwo 52, Kenneth Perez 62, Eric Kortchaguine 78; Igor Korneev (pk) 4, Igor Korneev 23, Somalia 19
 
 ; NEC            ; 0-1; Sparta
-  Ali Elkhattabi 12
+;  Ali Elkhattabi 12
 
 Date: 11/20/1999
 
 ; Den Bosch      ; 0-3; RKC
-  Rick Hoogendorp 64, Yuri Cornelisse 82, 90
+;  Rick Hoogendorp 64, Yuri Cornelisse 82, Yuri Cornelisse 90
 
 ; Fortuna        ; 1-1; Graafschap
   Francois Gesthuizen 48; Eric Viscaal 83
@@ -531,24 +469,19 @@ Date: 11/20/1999
 ; Willem II      ; 2-2; Roda
   Dmitri Shoukov 20, Arno Arts (pk) 73; Bob Peeters 80, Eric van der Luer 88
 
-
 Date: 11/21/1999
 
 ; Ajax           ; 2-0; Utrecht
-  Aron Winter 33, Jesper Gronkjaer 60
+  Aron Winter 33, Jesper Gronkjaer 60;
 
 ; Cambuur        ; 0-1; PSV
-  Jurgen Dirkx 57
-
+;  Jurgen Dirkx 57
 
 Round: 14
-
 Date: 11/26/1999
 
 ; Heerenveen     ; 4-1; Cambuur
-  Anthony Lurling 2, Gerard de Nooijer 25, Daniel Jensen 27, Mika Nurmula 68;
-   Sandor van der Heide 13
-
+  Anthony Lurling 2, Gerard de Nooijer 25, Daniel Jensen 27, Mika Nurmula 68; Sandor van der Heide 13
 
 Date: 11/27/1999
 
@@ -556,20 +489,18 @@ Date: 11/27/1999
   Ralf Landerl 6, Ruud Kool (pk) 53; Jack de Gier 34, Anton Jansen (pk) 70
 
 ; Twente         ; 4-0; Willem II
-  Erik ten Hag 22, Frederic Peiremans 44, Jan Vennegoor of Hesselink 50, 
-   Arjan van der Laan 88
-
+  Erik ten Hag 22, Frederic Peiremans 44, Jan Vennegoor of Hesselink 50, Arjan van der Laan 88;
 
 Date: 11/28/1999
 
 ; Feyenoord      ; 1-0; PSV
-  Jean-Paul van Gastel (pk) 60
+  Jean-Paul van Gastel (pk) 60;
 
 ; Utrecht        ; 2-1; Den Bosch
   Alphons Groenendijk 9, Marinus Dijkhuizen 58; Henk Vos 62
 
 ; Graafschap     ; 2-2; Vitesse
-  Hazem Emam 20, 27; John van den Brom 2, Pierre van Hooijdonk 51
+  Hazem Emam 20, Hazem Emam 27; John van den Brom 2, Pierre van Hooijdonk 51
  
 ; RKC            ; 2-1; Sparta
   Roberto Lanckohr 6, Ron Heesakkers 66; Anders Nielsen 16
@@ -577,131 +508,114 @@ Date: 11/28/1999
 ; AZ             ; 1-2; Ajax
   John Bosman 31; Richard Knopper 16, Brutil Hose 83
 
-
 Date: 11/30/1999
 
 ; Roda           ; 3-1; MVV
   Bernard Tchoutang 12, Davy Zafarin 41, Garba Lawal 71; Wasiu Taiwo 56
 
-
-Moved Matches
-
+*Moved Matches
 Date: 12/1/1999
 
 ; Twente         ; 1-0; Fortuna
-  Booth 41
+  Booth 41;
 
 ; Graafschap     ; 2-5; AZ 
-  Meerdink 86, Lindenbergh (pk) 89; Boussatta 51, Bosman 67, Ricksen 68, 85, 
-   Mutsaers 88
+  Meerdink 86, Lindenbergh (pk) 89; Boussatta 51, Bosman 67, Ricksen 68, Ricksen 85, Mutsaers 88
 
 ; Den Bosch      ; 0-2; Heerenveen
-  Nurmela 33, Pahlplatz 85
+;  Nurmela 33, Pahlplatz 85
 
 ; Cambuur        ; 4-3; Utrecht
-  Vergoossen 68, Van Der Heide 85, Van Utrecht 90, Nelisse 90; J. De Jong 34, 
-   artel 36, Van Der Gaag 62
+  Vergoossen 68, Van Der Heide 85, Van Utrecht 90, Nelisse 90; J. De Jong 34, Martel 36, Van Der Gaag 62
 
 ; Vitesse        ; 2-1; RKC
-  Zongo 22, 40; Hoogendorp (pk) 55
+  Zongo 22, Zongo 40; Hoogendorp (pk) 55
 
-    
 Round: 15
-
 Date: 12/4/1999
 
 ; PSV            ; 2-0; Roda
-  Luc Nilis 34, Wilfried Bouma 52
+  Luc Nilis 34, Wilfried Bouma 52;
 
 ; MVV            ; 0-2; Twente
-  Jan Vennegoor of Hesselink 49, Andy van der Meyde 84
+;  Jan Vennegoor of Hesselink 49, Andy van der Meyde 84
 
 ; Fortuna        ; 1-1; Den Bosch
   Ruud Kool 89; Harry van der Laan 63
 
 ; Vitesse        ; 0-2; AZ
-  John Bosman 40, Dries Boussatta 62
+;  John Bosman 40, Dries Boussatta 62
 
 ; Sparta         ; 1-3; Feyenoord
-  Michael Langerak 20; Julio Cruz 53, 57, Bonaventure Kalou 86
-
+  Michael Langerak 20; Julio Cruz 53, Julio Cruz 57, Bonaventure Kalou 86
 
 Date: 12/5/1999
 
 ; Willem II      ; 4-3; Utrecht 
-  Mariano Bombarda 4, 61, 81, Tomas Galasek 71; Didier Martel (pk) 5,
-   Reinier Robbemond 18, Rodney Cairo 25
+  Mariano Bombarda 4, Mariano Bombarda 61, Mariano Bombarda 81, Tomas Galasek 71; Didier Martel (pk) 5, Reinier Robbemond 18, Rodney Cairo 25
  
 ; Ajax           ; 1-2; RKC
   Wamberto 69; Dejan Govedarica 44, Tim Cornelisse 52
 
 ; NEC            ; 1-0; Cambuur
-  Anton Janssen (pk) 89
-
+  Anton Janssen (pk) 89;
 
 Round: 16
-
 Date: 12/10/1999
 
 ; AZ             ; 2-0; Fortuna
-  Peter Wijker 10, Barry Obdam 50
-
+  Peter Wijker 10, Barry Obdam 50;
 
 Date: 12/11/1999
 
 ; Roda           ; 2-3; Graafschap
-  Bob Peeters 22, Joos Valgaeren 37; Zico Tumba 18, 50, Olaf Lindenbergh 24
-
+  Bob Peeters 22, Joos Valgaeren 37; Zico Tumba 18, Zico Tumba 50, Olaf Lindenbergh 24
 
 Date: 12/12/1999
 
 ; Den Bosch      ; 2-1; Vitesse
-  Harry van der Laan 32, 42; Pierre van Hooijdonk 39
+  Harry van der Laan 32, Harry van der Laan 42; Pierre van Hooijdonk 39
 
 ; Utrecht        ; 1-1; PSV  
   Patrick Zwaanswijk 39; Wilfried Bouma 45
 
 ; RKC            ; 0-4; MVV
-  Thomas Caers 12, Robert van der Weert 69, 72, Eidur Gudjohnsson 85
-
+;  Thomas Caers 12, Robert van der Weert 69, Robert van der Weert 72, Eidur Gudjohnsson 85
 
 Date: 2/9/2000
 
 ; Willem II      ; 3-1; NEC
-  Denny Hesp 78og, Dmitri Shoukov 79, Adil Ramzi 82; Marchanno Schultz 41
-
+  Denny Hesp (og) 78, Dmitri Shoukov 79, Adil Ramzi 82; Marchanno Schultz 41
 
 Date: 2/15/2000
 
 ; Cambuur        ; 0-1; Sparta
-  Ali El Khattabi 42
-
+;  Ali El Khattabi 42
 
 Date: 3/5/2000
 
 ; Twente         ; 0-0; Ajax
 
 ; Heerenveen     ; 3-0; Feyenoord
-  Johan Hansma 35, Anthony Lurling 56, Mika Nurmela 90
+  Johan Hansma 35, Anthony Lurling 56, Mika Nurmela 90;
 
 Round: 17
 Date: 12/15/1999
 
 ; Sparta         ; 3-2; Den Bosch
-  Ali Elkhattabi 52, Michel Langerak 56, 90; Henk Vos 41, 90
+  Ali Elkhattabi 52, Michel Langerak 56, Michel Langerak 90; Henk Vos 41, Henk Vos 90
 
 ; Vitesse        ; 3-1; Willem II
-  Pierre van Hooijdonk (pk) 28, 30, Mamadou Zongo 88; Osmane Sanou 52
+  Pierre van Hooijdonk (pk) 28, Pierre van Hooijdonk 30, Mamadou Zongo 88; Osmane Sanou 52
 
 ; Heerenveen     ; 4-1; RKC
-  Valery Popovic 23, Anthony Lurling 41, 74, 79; Yuri Cornelisse 86
+  Valery Popovic 23, Anthony Lurling 41, Anthony Lurling 74, Anthony Lurling 79; Yuri Cornelisse 86
 
 ; NEC            ; 1-0; MVV
-  Jack de Gier 28
+  Jack de Gier 28;
 
 ; Ajax           ; 1-3; PSV
-  Richard Knopper 57; Ruud van Nistelrooy 37, 45, 50
-
+  Richard Knopper 57; Ruud van Nistelrooy 37, Ruud van Nistelrooy 45, Ruud van Nistelrooy 50
 
 Date: 12/16/1999
 
@@ -712,16 +626,14 @@ Date: 2/29/2000
 Roda            3-1 Cambuur
   Bernard Tchoutang 38, Mark Luijpers 45, Garba Lawal 64; Kenneth Goudmijn 52
 
-
 Round: 18
-
 Date: 12/18/1999
 
 ; PSV            ; 0-1; Heerenveen
-  Anthony Lurling 84
+;  Anthony Lurling 84
 
 ; Fortuna        ; 3-3; Vitesse
-  Ronald Hamming 50, 84, Joost Volmer 90; Viktor Sikora 29, 86, Michel Kreek 70
+  Ronald Hamming 50, Ronald Hamming 84, Joost Volmer 90; Viktor Sikora 29, Viktor Sikora 86, Michel Kreek 70
 
 ; Twente         ; 2-1; Roda
   Arjan van der Laan 52, Jan Vennegoor of Hesselink 83; Bernard Tchoutang 81
@@ -734,32 +646,27 @@ Date: 12/18/1999
 Date: 12/19/1999
 
 Utrecht         3-4 Feyenoord
-  Patrick Zwaanswijk 33, Marinus Dijkhuizen 65, John de Jong 70; 
-   Paul Bosvelt 25, Jan de Visser 31, 46, Julio Cruz 69
+  Patrick Zwaanswijk 33, Marinus Dijkhuizen 65, John de Jong 70; Paul Bosvelt 25, Jan de Visser 31, Jan de Visser 46, Julio Cruz 69
  
 ; Graafschap     ; 1-1; Ajax
   Zico Tumba 13; Nikos Machlas 79
 
-
-Moved Matches 
-
+*Moved Matches 
 Date: 12/21/1999
 
 ; MVV            ; 0-2; PSV
-  Mark van Bommel 45, Jurgen Dirkx 63
+;  Mark van Bommel 45, Jurgen Dirkx 63
 
 Date: 1/26/2000
 ; Vitesse        ; 1-0; Den Bosch
-  Pierre van Hooijdonk 38
+  Pierre van Hooijdonk 38;
 
 Date: 1/29/2000
 
 ; Sparta         ; 2-1; Heerenveen
   Anders Nielsen 75, Boukhari 90; Jeffrey Talan 60
 
-
 Round: 19
-
 Date: 2/1/2000
 
 ; MVV            ; 0-0; Roda
@@ -767,11 +674,10 @@ Date: 2/1/2000
 Date: 2/2/2000
 
 ; RKC            ; 1-0; Willem II
-  Petrov 25
+  Petrov 25;
 
 ; Twente         ; 4-1; AZ
-  Grujic 45, Peiremans 62, De Witte 80, Jan Vennegoor of Hesselink 90,
-   Ricksen 20
+  Grujic 45, Peiremans 62, De Witte 80, Jan Vennegoor of Hesselink 90, Ricksen 20
  
 ; Heerenveen     ; 1-1; Ajax   
   Lurling 38; Machlas 42
@@ -781,25 +687,21 @@ Date: 2/2/2000
 ; Vitesse        ; 3-1; Graafschap
   Jochemsen 44, Laros 57, Diarra 82; Tumba 70
 
-
 Date: 2/3/2000
 
 ; PSV            ; 0-1; Feyenoord
-  Paauwe 23
-
+;  Paauwe 23
 
 Round: 20
-
 Date: 2/4/2000
 
 ; Utrecht        ; 2-0; MVV
-  Reinier Robbemond 2, Rodney Cairo 18
-
+  Reinier Robbemond 2, Rodney Cairo 18;
 
 Date: 2/5/2000
 
 ; Heerenveen     ; 3-0; AZ
-  Jeffrey Talan 32, Valery Popovich 64, Anthony Lurling 78
+  Jeffrey Talan 32, Valery Popovich 64, Anthony Lurling 78;
 
 ; Sparta         ; 1-1; Vitesse
   Anders Nielsen 8; Viktor Sikora 68
@@ -808,19 +710,15 @@ Date: 2/5/2000
   Dennis Schulp 6; Berthil ter Avest 66
 
 ; NEC            ; 2-3; Graafschap 
-  Mark Oosterhof 41, Maikel Renfurm 60; Dennis den Turk 7,
-   Robert Fuchs 12, Patrick Ax 79
-
+  Mark Oosterhof 41, Maikel Renfurm 60; Dennis den Turk 7, Robert Fuchs 12, Patrick Ax 79
 
 Date: 2/6/2000
 
 ; Ajax           ; 3-1; Cambuur
-  Nikos Machlas 7, Robert Loontjens 10og, Brian Laudrup 15;
-   Dennis Scharrenburg 48
+  Nikos Machlas 7, Robert Loontjens (og) 10, Brian Laudrup 15; Dennis Scharrenburg 48
 
 ; Den Bosch      ; 2-6; PSV
-  Christophe Wreh 9, 63; Luc Nilis 13, 29, Ruud van Nistelrooy 30, 
-   Yuri Nikiforov 50, Arnold Bruggink 66, 80
+  Christophe Wreh 9, Christophe Wreh 63; Luc Nilis 13, Luc Nilis 29, Ruud van Nistelrooy 30, Yuri Nikiforov 50, Arnold Bruggink 66, Arnold Bruggink 80
 
 ; Feyenoord      ; 2-1; Roda
   Jon Dahl Tomasson 36, Ellery Cairo 75; Kevin van Dessel 13
@@ -828,34 +726,29 @@ Date: 2/6/2000
 ; RKC            ; 0-3; Fortuna
 
 Round: 21
-
 Date: 2/9/2000
 
 ; Twente         ; 1-0; RKC
-  Jan Vennegoor of Hesselink 4
+  Jan Vennegoor of Hesselink 4;
 
 ; Fortuna        ; 2-3; Feyenoord
-  Robert Roest (pk) 7, Dennis Kirjgsman 46; Paul Bosvelt 78, Ellery Cairo 82,
-   Julio Cruz 87
+  Robert Roest (pk) 7, Dennis Kirjgsman 46; Paul Bosvelt 78, Ellery Cairo 82, Julio Cruz 87
 
 ; MVV            ; 2-0; Den Bosch
-  Eric Kortchagin (pk) 25, Thomas Caers 54
+  Eric Kortchagin (pk) 25, Thomas Caers 54;
 
 ; AZ             ; 4-0; Sparta
-  John Bosman 16, 41, Barry Opdam 51, Kenneth Perez 64
-
+  John Bosman 16, John Bosman 41, Barry Opdam 51, Kenneth Perez 64;
 
 Date: 2/10/2000
 
 ; PSV            ; 4-0; Ajax
-  Van Bommel 4, Ruud Van Nistelrooij 12, (pk) 15, 85
+  Van Bommel 4, Ruud Van Nistelrooij 12, Ruud Van Nistelrooij (pk) 15, Ruud Van Nistelrooij 85;
 
 ; Roda           ; 3-2; Utrecht 
-  Peeters 68, 79, Doomernik 90; J. De Jong 36, Vrede 89og
-
+  Peeters 68, Peeters 79, Doomernik 90; J. De Jong 36, Vrede (og) 89
 
 Round: 22
-
 Date: 2/12/2000
 
 ; Cambuur        ; 0-0; Fortuna
@@ -869,8 +762,7 @@ Date: 2/13/2000
   Nikos Machlas 41, Richard Knopper 56, Dani 67; Yassine Abdellaoui (pk) 36
 
 ; Vitesse        ; 3-3; Feyenoord  
-  Pierre van Hooijdonk 2, (pk) 33, Mohamed Diarra 77; Patrick Paauwe 22,
-   Jon Dahl Tomasson 67, Bert Konterman 79
+  Pierre van Hooijdonk 2, Pierre van Hooijdonk (pk) 33, Mohamed Diarra 77; Patrick Paauwe 22, Jon Dahl Tomasson 67, Bert Konterman 79
 
 ; Graafschap     ; 1-2; Utrecht
   Eric Viscaal 10; Didier Martel 12, Theo Lucius 39
@@ -878,7 +770,7 @@ Date: 2/13/2000
 ; Den Bosch      ; 0-0; Twente
 
 ; Heerenveen     ; 0-3; PSV
-  Luc Nilis 25, Ruud van Nistelrooij 57, Joonas Kolkka 64
+;  Luc Nilis 25, Ruud van Nistelrooij 57, Joonas Kolkka 64
 
 Round: 23
 Date: 2/18/2000
@@ -906,7 +798,7 @@ Round: 24
 Date: 1/29/2000
 
 ; Graafschap     ; 3-1; Cambuur
-  Robert Fuchs 14, 69, Zico Tumba 21; Sandor van der Heide 27
+  Robert Fuchs 14, Robert Fuchs 69, Zico Tumba 21; Sandor van der Heide 27
 
 
 Date: 2/25/2000
@@ -918,10 +810,10 @@ Date: 2/25/2000
 Date: 2/26/2000
 
 ; Fortuna        ; 2-0; Willem II
-  Dennis Gerritsen 26, Remco van der Schaaf 75
+  Dennis Gerritsen 26, Remco van der Schaaf 75;
 
 ; Feyenoord      ; 3-0; MVV
-  Jon Dahl Tomasson 12, Julio Cruz (pk) 60, Igor Korneev 75
+  Jon Dahl Tomasson 12, Julio Cruz (pk) 60, Igor Korneev 75;
 
 
 Date: 2/27/2000
@@ -930,11 +822,10 @@ Date: 2/27/2000
   Yuri Petrov 31; Pierre van Hooijdonk (pk) 43
 
 ; Utrecht        ; 3-3; AZ
-  Alphons Groenendijk 32, 42, Peter van den Berg 59og; John Bosman 33,
-   Fernando Ricksen 45, Youssef Fertout 62
+  Alphons Groenendijk 32, Alphhons Groenendijk 42, Peter van den Berg (og) 59; John Bosman 33, Fernando Ricksen 45, Youssef Fertout 62
 
 ; Sparta         ; 1-0; NEC
-  Anders Nielsen 28
+  Anders Nielsen 28;
 
 ; Twente         ; 2-0; Heerenveen
 
@@ -943,77 +834,67 @@ Date: 4/19/2000
 Den Bosch       1-1 Ajax
   Uneken 2; Knopper 90
 
-
-Moved Matches
-
+*Moved Matches
 Date: 3/3/2000
 
 ; Vitesse        ; 2-0; Roda
-  Michel Kreek 75, Victor Sikora 87
+  Michel Kreek 75, Victor Sikora 87;
 
 ; AZ             ; 2-2; Willem II
   Max Huiberts 36, John Bosman 48; Dmitri Shoukov 38, Adil Ramzi 80
 
-
 Date: 3/4/2000
 
 ; Cambuur        ; 2-2; MVV
-  Robin Nelisse 52, Robert Loontjens 89; Johan Gudjohnsson 31, 63
-
+  Robin Nelisse 52, Robert Loontjens 89; Johan Gudjohnsson 31, Johan Gudjohnsson 63
 
 Date: 3/5/2000
 
 ; Graafschap     ; 3-0; Den Bosch
-  Robert Fuchs 21, 76, Eric Viscaal 57
+  Robert Fuchs 21, Robert Fuchs 76, Eric Viscaal 57;
 
 ; Sparta         ; 3-1; RKC
   Dave van der Meer 11, Ali Elkhattabi 54, Bram Marbus 59; Tom van der Leegte 55
 
 ; NEC            ; 0-1; Utrecht
-  Dirk Kuyt 53
-
+;  Dirk Kuyt 53
 
 Round: 25
-
 Date: 3/10/2000
 
 ; NEC            ; 1-2; Fortuna
   Maikel Renfurm 45; Matthew Amoah 65, Robert Roest 86
 
 ; AZ             ; 4-0; RKC
-  Fernando Ricksen 21, Max Huiberts 36, Youssef Fertout 81, Ferdino Hernandez 90
-
+  Fernando Ricksen 21, Max Huiberts 36, Youssef Fertout 81, Ferdino Hernandez 90;
 
 Date: 3/11/2000
 
 ; MVV            ; 0-2; Graafschap
-  Patrick Ax 19, Eric Viscaal 66
+;  Patrick Ax 19, Eric Viscaal 66
 
 ; Willem II      ; 2-3; Heerenveen
-  Sektioui (pk) 70, 77; Anthony Lurling 12, 85, Jeffrey Talan 56
+  Sektioui (pk) 70, Sektioui 77; Anthony Lurling 12, Anthony Lurling 85, Jeffrey Talan 56
 
 ; Twente         ; 1-0; Cambuur
-  Kris de Witte 23
+  Kris de Witte 23;
 
 ; Roda           ; 4-1; Sparta
-  Dave van der Meer 11og, Bernard Tchoutang 24, Peter van Houdt 65, 87; Anders Nielsen 16
+  Dave van der Meer (og) 11, Bernard Tchoutang 24, Peter van Houdt 65, Peter van Houdt 87; Anders Nielsen 16
 
 ; Feyenoord      ; 3-0; Den Bosch
-  Julio Cruz 21, Jon Dahl Tomasson 68, 77
-
+  Julio Cruz 21, Jon Dahl Tomasson 68, Jon Dahl Tomasson 77;
 
 Date: 3/12/2000
 
 ; PSV            ; 2-1; Utrecht
-  Wilfried Bouma 34, 82; Mitchell van der Gaag 74
+  Wilfried Bouma 34, Wilfried Bouma 82; Mitchell van der Gaag 74
 
-
-Moved Match 
+*Moved Match 
 Date: 3/15/2000
 
 ; Fortuna        ; 2-0; Ajax
-  Matthew Amoah 23, 42
-
+  Matthew Amoah 23, Matthew Amoah 42;
 
 Round: 26
 Date: 3/17/2000
@@ -1024,54 +905,49 @@ Date: 3/17/2000
 ; NEC            ; 2-1; Willem II
   Danny Hesp 45, Arno Arts 90; Adil Ramzi 6
 
-
 Date: 3/18/2000
 
 ; PSV            ; 6-0; Graafschap
-  Arnold Bruggink 16, 22, 50, 54, Luc Nilis 76, Wilfried Bouma 80
+  Arnold Bruggink 16, Arnold Bruggink 22, Arnold Bruggink 50, Arnold Bruggink 54, Luc Nilis 76, Wilfried Bouma 80;
 
 ; Heerenveen     ; 3-1; MVV
-  Mika Nurmela 37, Anthony Lurling 59, 90; Johan Gudjonsson 2
-
+  Mika Nurmela 37, Anthony Lurling 59, Anthony Lurling 90; Johan Gudjonsson 2
 
 Date: 3/19/2000
 
 ; Utrecht        ; 2-0; Vitesse
-  Marco De Marchi 58og, Dirk Kuyt 88
+  Marco De Marchi (og) 58, Dirk Kuyt 88;
 
 ; Sparta         ; 2-3; Fortuna
-  Ali Elkhattabi 21, Silvan Inia 79; Dennis Gerritsen 13, Matthew Amoah 18, 61
+  Ali Elkhattabi 21, Silvan Inia 79; Dennis Gerritsen 13, Matthew Amoah 18, Matthew Amoah 61
 
 ; RKC            ; 2-2; Roda
   Garry de Graef 53, David Nascimento 90; Regillio Vrede 17, Arno Doomernik 75
 
 ; Ajax           ; 0-1; Twente
-  Jan Vennegoor of Hesselink 28
-
+;  Jan Vennegoor of Hesselink 28
 
 Round: 27
-
 Date: 3/24/2000
 
 ; AZ             ; 2-0; Den Bosch
-  Youssef Fertout 24, Barry van Galen 90
+  Youssef Fertout 24, Barry van Galen 90;
 
 ; Fortuna        ; 3-1; MVV
-  Dennis Gerritsen 2, 27, Matthew Amoah 73; John Mutsaers 22
+  Dennis Gerritsen 2, Dennis Gerritsen 27, Matthew Amoah 73; John Mutsaers 22
 
 ; Willem II      ; 0-0; PSV
 
 Date: 3/25/2000
 
 ; Cambuur        ; 2-2; Roda
-  Leonard van Utrecht 18, Erik Tammer 52; Maickel Ferrier 36og, Mark Luijpers 60
+  Leonard van Utrecht 18, Erik Tammer 52; Maickel Ferrier (og) 36, Mark Luijpers 60
 
 ; Graafschap     ; 2-0; RKC
-  Patrick Ax 14, Martijn Meerdink 25
+  Patrick Ax 14, Martijn Meerdink 25;
 
 ; Vitesse        ; 3-1; Heerenveen
   Michael Kreek 15, Orlando Trustfull 36, Louis Laros (pk) 90; Daniel Jensen 34
-
 
 Date: 3/26/2000
 
@@ -1079,40 +955,33 @@ Date: 3/26/2000
   Jon Dahl Tomasson 5; Anders Nielsen 42, Nordin Boukhari 86
 
 ; Ajax           ; 5-2; NEC
-  Michael Laudrup 36, Nikos Machlas 51, 65, Jesper Gronkjaer 63, Richard Knopper 86; 
-   Jack de Gier 34, 39
+  Michael Laudrup 36, Nikos Machlas 51, Nikos Machlas 65, Jesper Gronkjaer 63, Richard Knopper 86; Jack de Gier 34, Jack de Gier 39
 
 ; Twente         ; 4-2; Utrecht
-  Berthil ter Avest 76, Thijs Houwing 85, Jan Vennegoor of Hesselink 90,
-   Andy van der Meijde 90; Didier Martel 44, 69
-
+  Berthil ter Avest 76, Thijs Houwing 85, Jan Vennegoor of Hesselink 90, Andy van der Meijde 90; Didier Martel 44, Didier Martel 69
 
 Round: 28
-
 Date: 3/31/2000
 
 ; Den Bosch      ; 1-1; Willem II
   Henk Vos 37; Dennis Schulp 45
 
 ; Heerenveen     ; 1-0; NEC
-  Anthony Lurling (pk) 84
+  Anthony Lurling (pk) 84;
 
 ; Roda           ; 3-0; Ajax
-  Arno Doomernik 28, Bob Peeters 31, Bernard Tchoutang 65
-
+  Arno Doomernik 28, Bob Peeters 31, Bernard Tchoutang 65;
 
 Date: 4/1/2000
 
 ; Graafschap     ; 1-0; Fortuna
-  Dennis de Turk 7
+  Dennis de Turk 7;
 
 ; PSV            ; 5-1; AZ
-  Arnold Bruggink 20, Ovidiu Stinga 23, Olaf Lindenbergh 28og, Wilfried Bouma 70, 
-   Joonas Kolkka 90; Fernando Ricksen 45
+  Arnold Bruggink 20, Ovidiu Stinga 23, Olaf Lindenbergh (og) 28, Wilfried Bouma 70, Joonas Kolkka 90; Fernando Ricksen 45
 
 ; MVV            ; 0-2; Vitesse
-  Arco Jochemsen 18, Viktor Sikora 30
-
+;  Arco Jochemsen 18, Viktor Sikora 30
 
 Date: 4/2/2000
 
@@ -1125,16 +994,14 @@ Date: 4/2/2000
 ; Sparta         ; 1-1; Twente
   Anders Nielsen 45; Scott Booth 46
 
-
 Round: 29
-
 Date: 4/7/2000
 
 ; AZ             ; 2-0; Graafschap
-  Bosman (pk) 56, Van Galen 75
+  Bosman (pk) 56, Van Galen 75;
 
 ; Fortuna        ; 0-4; PSV
-  Bruggink 7, Nilis 16, 63, 75
+;  Bruggink 7, Nilis 16, Nilis 63, Nilis 75
 
 ; NEC            ; 0-0; Roda
 
@@ -1144,10 +1011,10 @@ Date: 4/8/2000
   Ter Avest 51; Gudjonsson 46, Van Der Weert 65
 
 ; Willem II      ; 0-4; Vitesse
-  Kreek 51, Van Der Brom 61, Laros 64, 70
+;  Kreek 51, Van Der Brom 61, Laros 64, Laros 70
 
 ; Cambuur        ; 1-2; Den Bosch
-  Ferrier 32; Vos 12, 27
+  Ferrier 32; Vos 12, Vos 27
 
 
 Date: 4/9/2000
@@ -1156,77 +1023,67 @@ Date: 4/9/2000
   Cruz (pk) 58; Groenendijk
 
 ; RKC            ; 0-1; Heerenveen
-  Huizingh 76
+;  Huizingh 76
 
 ; Ajax           ; 3-2; Sparta
   Arveladze 14, Verlaat 59, Laudrup (pk) 73; Nielsen 29, Marbus 49
 
-
 Round: 30
-
 Date: 4/14/2000
 
 ; Utrecht        ; 3-1; Sparta
   Dijkhuizen 54, Kuijt 59, Robbemond (pk) 83; Marbus 57
 
-
 Date: 4/15/2000
 
 ; Heerenveen     ; 3-0; Fortuna
-  Lurling 15, Nurmela 43, De Nooijer 66
+  Lurling 15, Nurmela 43, De Nooijer 66;
 
 ; MVV            ; 0-1; RKC
-  Nwakire 71
+;  Nwakire 71
 
 ; Roda           ; 3-4; Willem II
-  Peeters (pk) 38, Rudge 45, Zafarin 56; Ramzi 26, 90, Galasek 66, Landzaat (pk) 87
+  Peeters (pk) 38, Rudge 45, Zafarin 56; Ramzi 26, Ramzi 90, Galasek 66, Landzaat (pk) 87
 
 ; Vitesse        ; 4-1; Twente
-  Van Hooijdonk 44, Grujic 59og, Zongo 74, Ter Avest 76og; Vennegoor 18
-
+  Van Hooijdonk 44, Grujic (og) 59, Zongo 74, Ter Avest (og) 76; Vennegoor 18
 
 Date: 4/16/2000
 
 ; PSV            ; 1-0; Cambuur
-  Van Bommel 60
+  Van Bommel 60;
 
 ; Den Bosch      ; 1-1; NEC
   Van Der Laan (pk) 9; Janssen 1
 
 ; Ajax           ; 4-1; AZ
-  Arveladze 45, 60, Gronkjaer 82, Winter 90; Bosman 44
+  Arveladze 45, Arveladze 60, Gronkjaer 82, Winter 90; Bosman 44
 
 ; Graafschap     ; 0-1; Feyenoord
-  Cruz 62
-
+;  Cruz 62
 
 Round: 31
-
 Date: 4/21/2000
 
 ; Twente         ; 1-3; PSV
-  Jan Vennegoor of Hesselink 24; Arnold Bruggink 6, 20, 71
+  Jan Vennegoor of Hesselink 24; Arnold Bruggink 6, Arnold Bruggink 20, Arnold Bruggink 71
 
 ; AZ             ; 2-0; MVV
-  John Bosman 45, Fernando Ricksen 75
+  John Bosman 45, Fernando Ricksen 75;
 
 ; Fortuna        ; 3-0; Utrecht
-  Marco Heering 21, Dennis Gerritsen 46, Matthew Amoah 77
-
+  Marco Heering 21, Dennis Gerritsen 46, Matthew Amoah 77;
 
 Date: 4/22/2000
 
 ; Willem II      ; 5-3; Graafschap
-  Richard van der Heijden 9, Dmitri Shoukov 19, 72, Danny Landzaat (pk) 45, Tom Caluwe 56; 
-   Eric Viscaal 22, 82, Martijn Meerdink 52
+  Richard van der Heijden 9, Dmitri Shoukov 19, Dmitri Shoukov 72, Danny Landzaat (pk) 45, Tom Caluwe 56; Eric Viscaal 22, Eric Viscaal 82, Martijn Meerdink 52
 
 ; Heerenveen     ; 5-1; Roda
-  Valeri Popovich 12, 51, Anthony Lurling 60, Dorien Mitrita 78, Gerard de Nooijer 90; 
-   Bob Peeters 7
+  Valeri Popovich 12, Valeri Popovich 51, Anthony Lurling 60, Dorien Mitrita 78, Gerard de Nooijer 90; Bob Peeters 7
 
 ; Sparta         ; 1-2; Cambuur
   Nordin Boukhari 30; Micha Rook 48, Robin Nelisse 73
-
 
 Date: 4/23/2000
 
@@ -1237,55 +1094,48 @@ Date: 4/23/2000
   Ron Heesakkers 31; Fred van der Hoorn 86
 
 ; NEC            ; 1-0; Vitesse
-  Jack de Gier 75
-
+  Jack de Gier 75;
 
 Round: 32
-
 Date: 4/28/2000
 
 ; Roda           ; 3-2; Twente
-  Humphrey Rudge 58, Bernard Tchoutang 72, Peter van Houdt 81; Arjan van der Laan 31, 
-   Scott Booth 59
-
+  Humphrey Rudge 58, Bernard Tchoutang 72, Peter van Houdt 81; Arjan van der Laan 31, Scott Booth 59
 
 Date: 4/30/2000
 
 ; Den Bosch      ; 0-2; Fortuna
-  Marco Heering 10, Dennis Gerritsen 75
+;  Marco Heering 10, Dennis Gerritsen 75
 
 ; Cambuur        ; 0-2; Heerenveen
-  Valeri Popovich 68, Mika Nurmela 87
+;  Valeri Popovich 68, Mika Nurmela 87
 
 ; Graafschap     ; 2-3; Sparta
-  Patrick Ax 6, 48; Sieme Zijm 58, 80, Ali Elkhattabi 69
+  Patrick Ax 6, Patrick Ax 48; Sieme Zijm 58, Sieme Zijm 80, Ali Elkhattabi 69
 
 ; MVV            ; 2-0; NEC
-  Igor Tomasic 30, Emerson 45
+  Igor Tomasic 30, Emerson 45;
 
 ; PSV            ; 7-1; RKC
-  Yuri Nikiforov 4, Mark van Bommel 10, Andre Ooijer 26, Luc Nilis 52, Johann Vogel 63, 
-   Chris van der Weerden 70, Jan Heintze 80; Yuri Petrov 72
+  Yuri Nikiforov 4, Mark van Bommel 10, Andre Ooijer 26, Luc Nilis 52, Johann Vogel 63, Chris van der Weerden 70, Jan Heintze 80; Yuri Petrov 72
 
 ; Utrecht        ; 1-1; Willem II
   Azubike Oliseh 85; Adil Ramzi 51
 
 ; Vitesse        ; 3-0; Ajax
-  Pierre van Hooijdonk 8, 39, John van den Brom 27
+  Pierre van Hooijdonk 8, Pierre van Hooijdonk 39, John van den Brom 27;
 
 ; Feyenoord      ; 5-3; AZ
-  Jon Dahl Tomasson 7, Igor Korneev 54, Julio Cruz 64, Peter van Vossen 73, 80; 
-   Abdelkarim El Hadrioui 8, Fernando Ricksen 11, 77
-
+  Jon Dahl Tomasson 7, Igor Korneev 54, Julio Cruz 64, Peter van Vossen 73, Peter van Vossen 80; Abdelkarim El Hadrioui 8, Fernando Ricksen 11, Fernando Ricksen 77
 
 Round: 33 
 Date: 5/7/2000
 
 ; Ajax           ; 1-0; MVV
-  Chivu 87
+  Chivu 87;
 
 ; AZ             ; 0-1; Vitesse
-  Van Hooijdonk 43
+;  Van Hooijdonk 43
 
 ; Fortuna        ; 1-2; Roda
   
@@ -1294,32 +1144,31 @@ Date: 5/7/2000
   Popovitch 31; Mourad 30
 
 ; NEC            ; 0-2; Feyenoord
-  Kouterman 16, Cruz 83
+;  Kouterman 16, Cruz 83
 
 ; RKC            ; 2-0; Utrecht
-  De Graef 24, Cornelisse 74
+  De Graef 24, Cornelisse 74;
 
 ; Sparta         ; 0-2; PSV
-  Nilis 55, Bouma 63
+;  Nilis 55, Bouma 63
 
 ; Twente         ; 4-0; Graafschap
-  Vennegoor 8, 61, Booth 59, 89
+  Vennegoor 8, Vennegoor 61, Booth 59, Booth 89
 
 ; Willem II      ; 1-4; Cambuur
-  Ramzi 5; Nelisse 33, 68, Rook 86, Van Der Heide 88
-
+  Ramzi 5; Nelisse 33, Nelisse 68, Rook 86, Van Der Heide 88
 
 Round: 34 
 Date: 5/14/2000
 
 ; Utrecht        ; 3-1; Ajax 
-  Karim Touzani 8, 65, Mitchell van der Gaag 35; Richard Knopper 69
+  Karim Touzani 8, Karim Touzani 65, Mitchell van der Gaag 35; Richard Knopper 69
  
 ; Roda           ; 3-2; AZ 
-  Peter van Houdt 29, 60, Joos Valgaeren 55; John Bosman 4, Barry Opdam 84
+  Peter van Houdt 29, Peter van Houdt 60, Joos Valgaeren 55; John Bosman 4, Barry Opdam 84
  
 ; Den Bosch      ; 7-0; Sparta 
-  Henk Vos 20, 65, 80, 84, Fred van Hoorn 56, 86, Harry van der Laan 90
+  Henk Vos 20, Henk Vos 65, Henk Vos 80, Henk Vos 84, Fred van Hoorn 56, Fred van Hoorn 86, Harry van der Laan 90;
  
 ; Cambuur        ; 2-1; RKC 
   Johan Abma 8, Sandor van der Heide 57; Roberto Lanckohr (pk) 39
@@ -1334,10 +1183,10 @@ Date: 5/14/2000
   Eric Viscaal 53; Harris Huizingh 50
  
 ; MVV            ; 1-1; Willem II 
-  Dave Hollanders 61; Igor Tomasic 41og
+  Dave Hollanders 61; Igor Tomasic (og) 41
  
 ; PSV            ; 2-0; NEC 
-  Luc Nilis (pk) 38, Wilfred Bouma 52
+  Luc Nilis (pk) 38, Wilfred Bouma 52;
  
   
 * 1.PSV                          34 27  3  4 105-24  84  Champions
@@ -1374,42 +1223,42 @@ Group 1
 Round: 1 
 Date: 5/17/2000
 
-Heracles        1-1 Emmen
-MVV             1-4 Groningen
+; Heracles       ; 1-1; Emmen
+; MVV            ; 1-4; Groningen
 
 Round: 2
 
 Date: 5/20/2000
 
-Emmen           2-2 MVV
+; Emmen          ; 2-2; MVV
 
 Date: 5/21/2000
 
-Groningen       4-2 Heracles
+; Groningen      ; 4-2; Heracles
 
 Round: 3 
 Date: 5/24/2000
 
-Heracles        3-1 MVV
-Groningen       5-0 Emmen 
+; Heracles       ; 3-1; MVV
+; Groningen      ; 5-0; Emmen 
 
 Round: 4 
 Date: 5/28/2000
 
-Emmen           0-1 Groningen
-MVV             5-1 Heracles
+; Emmen          ; 0-1; Groningen
+; MVV            ; 5-1; Heracles
 
 Round: 5 
 Date: 5/31/2000
 
-Heracles        2-4 Groningen
-MVV             0-3 Emmen
+; Heracles       ; 2-4; Groningen
+; MVV            ; 0-3; Emmen
 
 Round: 6 
 Date: 6/4/2000
 
-Emmen           2-1 Heracles
-Groningen       1-2 MVV
+; Emmen          ; 2-1; Heracles
+; Groningen      ; 1-2; MVV
 
 * 1.FC Groningen                  6  5  0  1  19- 7  15  Promoted
 * 2.Emmen                         6  2  2  2   8-10   8
@@ -1427,38 +1276,38 @@ Group 2
 Round: 1 
 Date: 5/17/2000
 
-Cambuur         1-1 Zwolle
-RBC             1-1 Excelsior
+; Cambuur        ; 1-1; Zwolle
+; RBC            ; 1-1; Excelsior
 
 Round: 2 
 Date: 5/20/2000
 
-Excelsior       1-2 Cambuur
-Zwolle          1-2 RBC
+; Excelsior      ; 1-2; Cambuur
+; Zwolle         ; 1-2; RBC
 
 Round: 3 
 Date: 5/23/2000
 
-RBC             2-0 Cambuur
-Zwolle          4-2 Excelsior
+; RBC            ; 2-0; Cambuur
+; Zwolle         ; 4-2; Excelsior
 
 Round: 4 
 Date: 5/26/2000
 
-Excelsior       2-1 Zwolle
-Cambuur         1-1 RBC
+; Excelsior      ; 2-1; Zwolle
+; Cambuur        ; 1-1; RBC
 
 Round: 5 
 Date: 5/30/2000
 
-RBC             0-2 Zwolle
-Cambuur         2-3 Excelsior
+; RBC            ; 0-2; Zwolle
+; Cambuur        ; 2-3; Excelsior
 
 Round: 6 
 Date: 6/3/2000
 
-Excelsior       2-4 RBC
-Zwolle          5-0 Cambuur
+; Excelsior      ; 2-4; RBC
+; Zwolle         ; 5-0; Cambuur
 
 * 1.RBC Roosendaal                6  3  2  1  10- 7  11  Promoted
 * 2.FC Zwolle                     6  3  1  2  14- 7  10

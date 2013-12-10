@@ -2,7 +2,7 @@ BlockSource: http://www.rsssf.com/tablesh/hong01.html
 Season: 2000-2001
 Competition: Nemzeti Bajnokság I
 
-*Group A
+*Group: A
 * 1.Lombard FC-Tatabánya        14  8  5  1  29-18 29  [2 1 1 0 6-3 4]
 * 2.Dunaferr FC                 14  8  5  1  37-20 29  [2 0 1 1 3-6 1]  [Dunaújváros]
 * 3.Ferencvárosi TC             14  6  3  5  23-21 21  [Budapest]
@@ -13,7 +13,7 @@ Competition: Nemzeti Bajnokság I
 * 7.Haladás-Milos VFC           14  3  4  7  14-24 13  Relegated  [Szombathely] 
 * 8.Nyírség Spartacus FC        14  3  0 11  10-24  9  Relegated  [Nyíregyháza]  
 
-*Group B
+*Group: B
 * 1.MTK Hungária FC             14  8  3  3  32-13 27  [Budapest]
 * 2.Újpesti FC                  14  7  4  3  33-19 25  [2 1 1 0 2-1 4]  [Budapest]
 * 3.Vasas Danubius Hotels       14  7  4  3  24-11 25  [2 0 1 1 1-2 1]  [Budapest]
@@ -25,7 +25,7 @@ Competition: Nemzeti Bajnokság I
 * 8.Nagykanizsai Olajbányász    14  2  2 10  12-43  8  Relegated
 
 Round: 1
-Group A
+Group: A
 [Jul 22]
 Kispest        1-1 Dunaferr 
   [Faragó 29; Nagy T. 27]
@@ -36,7 +36,7 @@ FTC            4-0 Haladas
 [Sep 2]
 Tatabanya      2-1 Sopron
   [Vincze I. 43, 76; Somogyi 93]
-Group B
+Group: B
 [Jul 22]
 Ujpest         0-0 Vasas
 ZTE            1-1 PMFC
@@ -48,7 +48,7 @@ MTK            2-1 DVSC
   [Kuttor 49, Buzsáky 86; Vadicska 90]
 
 Round: 2
-Group A 
+Group: A 
 [Jul 28]
 Gyor           2-1 Kispest 
   [Vámosi 79pen, Mracskó 81; Dubecz 37]
@@ -60,7 +60,7 @@ Haladas        3-0 Sopron
 [Sep 6]
 Dunaferr       5-2 FTC
   [Tököli 36, 57, Lengyel 39, 83, Zavadszky 80; Salamon 79og, Tóth M. 91]
-Group B 
+Group: B 
 [Jul 29]
 Vasas          2-2 Videoton  
   [Petõ 11, Sowunmi 49; Németh T. 7, Fodor 74]
@@ -73,7 +73,7 @@ Ujpest         8-3 DVSC
 Nagykanizsa    0-0 ZTE
 
 Round: 3
-Group A [Aug 5]
+Group: A [Aug 5]
 Sopron         1-2 Dunaferr
   [Sira 18; Tököli 9, 54]
 FTC            1-3 Gyor
@@ -82,7 +82,7 @@ Kispest        2-0 Nyirseg
   [Szekeres 25, Torghelle 75]
 Tatabanya      2-1 Haladas
   [Zsivócky 19, Kovács A. 33pen; Somfalvi 74]
-Group B
+Group: B
 [Aug 4]
 Videoton       1-4 Ujpest
   [Zombori 93pen; Herczeg 11, 45, Dvéri 63, Oreschuk 85]
@@ -95,7 +95,7 @@ DVSC           2-0 PMFC
   [Kerekes 13, 44pen]
 
 Round: 4
-Group A
+Group: A
 [Aug 11]
 FTC            2-2 Kispest
   [Tóth M. 24, Plókai 88og; Plókai 22, Horváth Gy. 34]
@@ -106,7 +106,7 @@ Tatabanya      1-1 Dunaferr
   [Vincze 55; Tököli 19]
 Haladas        0-3 Gyor
   [Erõs 39, Kenesei 66, 70]
-Group B
+Group: B
 [Aug 12]
 ZTE            1-4 Videoton
   [Waltner 85; Gáspár 2, Földes 52, 82, Lévai 84]
@@ -119,7 +119,7 @@ MTK            2-1 Ujpest
   [Elek 27, Illés 83pen; Urbán 37pen]
 
 Round: 5
-Group A
+Group: A
 [Aug 18]
 Kispest        1-1 Tatabanya
   [Plókai A. 68; Jeremejev 9] 
@@ -130,7 +130,7 @@ Gyor           0-2 Sopron
   [Perger 67, Sira 89]
 Nyirseg        0-1 FTC
   [Horváth P. 11] 
-Group B 
+Group: B 
 [Aug 19]
 Vasas          0-0 MTK
 Ujpest         5-0 ZTE
@@ -142,7 +142,7 @@ Nagykanizsa    3-1 PMFC
   [Nagy Cs. 28, 30, 51; Király 14pen] 
 
 Round: 6
-Group A
+Group: A
 [Aug 25]
 Gyor           3-2 Tatabanya
   [Kenesei 15, 64, 74; Böjte 26og, Kovács A. 68pen]
@@ -154,7 +154,7 @@ Dunaferr       3-0 Nyirseg
   [Bagoly 21, Zavadszky 62, Mozgovoy 81]
 Sopron         2-1 FTC
   [Tóth Miklós 26, Somogyi 71; Dragóner 60]
-Group B
+Group: B
 [Aug 26]
 Nagykanizsa    2-4 Ujpest
   [Lukács Z. 66, Bognár Gy. 69; Dvéri 17, 42, Herczeg 60, Korsós A. 75]
@@ -166,7 +166,7 @@ DVSC           0-1 Vasas
 MTK            0-0 ZTE
 
 Round: 7 
-Group A [Sep 9]
+Group: A [Sep 9]
 Kispest        1-1 Sopron
   [Téger 84; Horváth R. 39]
 Nyirseg        1-0 Haladas
@@ -175,7 +175,7 @@ Gyor           1-1 Dunaferr
   [Eros G. 27; Pomper (80]
 FTC            2-2 Tatabanya
   [Lipcsei 16, Dragóner 72; Varga L. 46, Hornyák 69]
-Group B
+Group: B
 [Sep 8]
 Videoton       1-3 MTK
   [Csehi 85; Illés 12pen, Ferenczi 19, 62]
@@ -187,7 +187,7 @@ Ujpest         1-1 PMFC
   [Korsós 48; Király 17]
 
 Round: 8
-Group A
+Group: A
 [Sep 15]
 Haladas        3-0 FTC
   [Alex 47, 62, Halmosi 81]
@@ -198,7 +198,7 @@ Gyor           2-0 Nyirseg
   [Kenesei 36pen, Nagy L. 49]
 [Oct 4]
 Dunaferr       5-3 Kispest
-Group B
+Group: B
 [Sep 16]
 PMFC           0-1 ZTE
   [Waltner 42]
@@ -211,7 +211,7 @@ DVSC           2-2 MTK
   [Kerekes 56, 68; Ferenczi 29, 88]
 
 Round: 9
-Group A
+Group: A
 [Sep 19]
 Kispest        2-0 Gyor
   [Dubecz 79, Faragó 90]
@@ -222,7 +222,7 @@ Sopron         3-1 Haladas
   [Busz 40, Tóth M. 51, Preisinger 91; Kaj 15]
 Tatabanya      1-0 Nyirseg
   [Vincze 58]
-Group B [Sep 20]
+Group: B [Sep 20]
 MTK            1-0 PMFC
   [Ferenczi 22]
 Videoton       1-0 Vasas
@@ -233,7 +233,7 @@ DVSC           2-0 Ujpest
   [Kerekes 7, Sándor M. 14]
 
 Round: 10
-Group A [Sep 23]
+Group: A [Sep 23]
 Dunaferr       4-1 Sopron
   [Zavadszky 13, Rósa 45, Nichenko 78, Nagy T. 81; Kulcsár 16]
 Nyirseg        3-1 Kispest
@@ -242,7 +242,7 @@ Gyor           0-3 FTC
   [Tóth M. 14, Csiszár 72, Gyepes 90]
 Haladas        1-1 Tatabanya
   [Somfalvi 82; Kovács A. 32] 
-Group B 
+Group: B 
 [Sep 23]
 PMFC           1-0 DVSC
   [Berdó 43]
@@ -253,7 +253,7 @@ Nagykanizsa    0-5 MTK
   [Bükszegi 7, Füzi Á. 21, Ferenczi 57, 71, Popovics 87og]
 
 Round: 11
-Group A 
+Group: A 
 [Sep 30]
 Nyirseg        1-2 Sopron  
   [Kondora 92; Sira 24, 59]
@@ -264,7 +264,7 @@ Gyor           2-2 Haladas
 [Oct 1]
 Dunaferr       2-5 Tatabanya
   [Rósa  80, Tököli 84; Vincze 17, 50, 92, Kovács A. 32, Potemkin 78]
-Group B
+Group: B
 [Sep 29]
 Videoton       1-1 ZTE
   [Ilea 76; Sabo 72]
@@ -278,7 +278,7 @@ Ujpest         1-4 MTK
   [Urbán 71; Ferenczi 3, Illés 12, Bükszegi 62, Balaskó 90]
 
 Round: 12
-Group A
+Group: A
 [Oct 14]
 Tatabanya      2-0 Kispest
   [Yeremeyev 23, Zirakadze 34]
@@ -289,7 +289,7 @@ Haladas        1-1 Dunaferr
 [Oct 16]
 FTC            2-0 Nyirseg
   [Horváth P. 11pen, Kondora 57og]
-Group B
+Group: B
 [Oct 13]
 DVSC           3-1 Videoton
   [Kerekes 33pen, Schmidt 62, Ulveczki 90; Hompoth 15]
@@ -302,7 +302,7 @@ MTK            1-2 Vasas
   [Illés 71; Kabát 3, 47pen]
 
 Round: 13
-Group A
+Group: A
 [Oct 20]
 Kispest        2-0 Haladas
   [Szekeres 45, 69]
@@ -313,7 +313,7 @@ Tatabanya      3-3 Gyor
   [Kovács A. 7pen, Vincze 71, 94; Vasas 13, Baumgartner 18, Rósa 56]
 FTC            2-1 Sopron
   [Horváth P. 31, Salagean 45og; Preisinger (22]
-Group B 
+Group: B 
 [Oct 21]
 Ujpest         4-2 Nagykanizsa
   [Oreschuk 21, 53, Urbán 55, 79; Nagy Cs. 34, Toleski 47]
@@ -326,7 +326,7 @@ Vasas          3-1 DVSC
   [Kabát 20, 59, 63; Ulvesczki 56]
 
 Round: 14
-Group A
+Group: A
 [Oct 27]
 Haladas        1-0 Nyirseg
   [Alex 65]
@@ -337,7 +337,7 @@ Dunaferr       2-1 Gyor
 [Oct 29]
 Tatabanya      1-0 FTC
   [Kovács A. 60pen]
-Group B
+Group: B
 [Oct 28]
 DVSC           4-1 ZTE
   [Bajzát 19, 68, 87, Kerekes 45; Waltner 56]
@@ -350,7 +350,7 @@ MTK            2-3 Videoton
   [Balaskó 45, Ferenczi 52pen; Bány 8, Földes G. 55, Zombori 62pen]
 
 
-*Group A
+*Group: A
 * 1.Lombard FC-Tatabánya        14  8  5  1  29-18 29  [2 1 1 0 6-3 4]
 * 2.Dunaferr FC                 14  8  5  1  37-20 29  [2 0 1 1 3-6 1]  [Dunaújváros]
 * 3.Ferencvárosi TC             14  6  3  5  23-21 21  [Budapest]
@@ -361,7 +361,7 @@ MTK            2-3 Videoton
 * 7.Haladás-Milos VFC           14  3  4  7  14-24 13  Relegated  [Szombathely] 
 * 8.Nyírség Spartacus FC        14  3  0 11  10-24  9  Relegated  [Nyíregyháza]  
 
-*Group B
+*Group: B
 * 1.MTK Hungária FC             14  8  3  3  32-13 27  [Budapest]
 * 2.Újpesti FC                  14  7  4  3  33-19 25  [2 1 1 0 2-1 4]  [Budapest]
 * 3.Vasas Danubius Hotels       14  7  4  3  24-11 25  [2 0 1 1 1-2 1]  [Budapest]

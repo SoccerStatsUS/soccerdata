@@ -1,28 +1,21 @@
-http://www.rsssf.com/tablesa/alg00.html
+BlockSource: http://www.rsssf.com/tablesa/alg00.html
+Season: 1999-2000
 
-Algeria 1999/2000
+* 1.CR Belouizdad          22 14  5  3 41-21 47  Champions
+* 2.MC Oran                22 10  8  4 41-20 38   
+* 3.MO Constantine         22 11  5  6 28-20 38   
+* 4.WA Tlemcen             22  8  9  5 34-23 33
+* 5.ES Sétif               22  8  6  8 31-34 30
+* 6.JS Kabylie             22  7  8  7 21-24 29
+* 7.USM Blida              22  6  8  8 26-29 26
+* 8.CA Batna               22  7  5 10 23-33 26
+* 9.USM Annaba             22  6  6 10 22-36 24   
+*10.JSM Béjaïa             22  6  5 11 16-24 23  
+*11.MC Alger               22  4 10  8 18-25 22  
+*12.USM Alger              22  6  3 13 15-27 21
+*NB: no teams are to be relegated.
 
-
-Super-Division
-
-Final Table:
-
- 1.CR Belouizdad          22 14  5  3 41-21 47  Champions
- 2.MC Oran                22 10  8  4 41-20 38   
- 3.MO Constantine         22 11  5  6 28-20 38   
- 4.WA Tlemcen             22  8  9  5 34-23 33
- 5.ES Sétif               22  8  6  8 31-34 30
- 6.JS Kabylie             22  7  8  7 21-24 29
- 7.USM Blida              22  6  8  8 26-29 26
- 8.CA Batna               22  7  5 10 23-33 26
- 9.USM Annaba             22  6  6 10 22-36 24   
-10.JSM Béjaïa             22  6  5 11 16-24 23  
-11.MC Alger               22  4 10  8 18-25 22  
-12.USM Alger              22  6  3 13 15-27 21
-
-NB: no teams are to be relegated.
-
-Round 1 [Oct 14]
+Round: 1 [Oct 14]
 MCA     0-0 JSMB 
 ESS     2-1 JSK 
 WAT     1-1 CRB 
@@ -30,7 +23,7 @@ MCO     0-2 MOC
 USMAl   4-3 USMAn
 USMB    1-0 CAB 
 
-Round 2 [Oct 21]
+Round: 2 [Oct 21]
 USMAn   2-1 USMB
 MCA     1-1 ESS
 JSMB    3-0 CAB
@@ -38,7 +31,7 @@ CRB     4-3 MCO
 MOC     2-0 USMAl
 JSK     2-1 WAT
 
-Round 3
+Round: 3
 [Oct 25]
 MCO     1-1 JSK
 [Oct 28]
@@ -48,7 +41,7 @@ USMAl   0-1 CRB
 USMB    0-1 MOC
 CAB     0-0 USMAn
 
-Round 4 
+Round: 4 
 [Nov 1]
 JSMB    2-0 USMAn
 MOC     2-1 CAB 
@@ -58,7 +51,7 @@ ESS     3-1 WAT
 [Nov 22]
 MCA     2-1 MCO 
 
-Round 5 
+Round: 5 
 [Nov 4]
 WAT     4-0 JSMB 
 USMAl   0-1 MCA 
@@ -68,7 +61,7 @@ USMAn   1-1 MOC
 [Nov 29]
 MCO     3-1 ESS 
 
-Round 6 [Nov 18]
+Round: 6 [Nov 18]
 JSMB    1-0 MOC 
 CRB     4-2 USMAn 
 JSK     1-1 CAB 
@@ -76,7 +69,7 @@ MCA     2-1 USMB
 ESS     2-1 USMAl 
 WAT     0-0 MCO
 
-Round 7 [Nov 25]
+Round: 7 [Nov 25]
 MCO     1-0 JSMB 
 USMAl   1-1 WAT 
 USMB    3-3 ESS 
@@ -84,7 +77,7 @@ CAB     2-2 MCA
 USMAn   1-0 JSK 
 MOC     2-1 CRB
 
-Round 8 [Dec 2]
+Round: 8 [Dec 2]
 JSMB    1-1 CRB 
 JSK     3-0 MOC 
 MCA     0-1 USMAn
@@ -92,7 +85,7 @@ ESS     1-0 CAB
 WAT     2-2 USMB 
 MCO     1-0 USMAl
 
-Round 9 [Dec 6]
+Round: 9 [Dec 6]
 USMAl   1-0 JSMB 
 USMB    1-1 MCO 
 CAB     1-0 WAT 
@@ -100,7 +93,7 @@ USMAn   0-0 ESS
 MOC     0-0 MCA 
 CRB     2-0 JSK
 
-Round 10 [Dec 9]
+Round: 10 [Dec 9]
 JSMB    0-0 JSK 
 MCA     0-0 CRB 
 ESS     3-1 MOC 
@@ -108,7 +101,7 @@ WAT     2-1 USMAn
 MCO     6-0 CAB 
 USMAl   2-1 USMB
 
-Round 11 [Dec 16]
+Round: 11 [Dec 16]
 USMB    1-0 JSMB 
 CAB     4-0 USMAl
 USMAn   1-3 MCO 
@@ -116,7 +109,7 @@ MOC     1-1 WAT
 CRB     4-2 ESS 
 JSK     2-1 MCA
 
-Round 12 [Mar 9]
+Round: 12 [Mar 9]
 JSMB    2-0 MCA
 JSK     1-0 ESS
 CRB     3-0 WAT
@@ -124,7 +117,7 @@ MOC     0-0 MCO
 USMAn   1-0 USMAl
 CAB     1-0 USMB
 
-Round 13 
+Round: 13 
 [Mar 23]
 ESS     2-0 MCA
 CAB     2-1 JSMB
@@ -134,7 +127,7 @@ WAT     2-2 JSK
 [Mar 24]
 USMAl   2-0 MOC      
 
-Round 14
+Round: 14
 [Mar 27]
 JSMB    2-1 ESS
 JSK     0-0 MCO
@@ -145,7 +138,7 @@ MCA     1-2 WAT
 [Apr 14]
 CRB     1-0 USMAl
 
-Round 15 [Apr 24]
+Round: 15 [Apr 24]
 USMB    2-1 CRB
 CAB     0-1 MOC 
 USMAl   1-0 JSK 
@@ -153,7 +146,7 @@ MCO     2-0 MCA
 WAT     1-0 ESS 
 USMAn   2-0 JSMB 
 
-Round 16 [May 4]
+Round: 16 [May 4]
 JSMB    0-1 WAT
 MCA     0-1 USMAl
 JSK     2-0 USMB
@@ -161,7 +154,7 @@ CRB     awd CAB       [awarded 3-0]
 MOC     2-0 USMAn
 ESS     1-4 MCO
 
-Round 17 [May 11]
+Round: 17 [May 11]
 MOC     2-0 JSMB
 USMAn   0-2 CRB
 CAB     2-0 JSK
@@ -169,7 +162,7 @@ USMB    3-3 MCA
 USMAl   1-2 ESS
 MCO     1-1 WAT
 
-Round 18 [May 18]
+Round: 18 [May 18]
 JSMB    0-3 MCO
 WAT     3-0 USMAl
 ESS     1-1 USMB
@@ -177,7 +170,7 @@ MCA     1-1 CAB
 JSK     1-1 USMAn
 CRB     2-1 MOC
 
-Round 19 [May 29]
+Round: 19 [May 29]
 CRB     2-1 JSMB
 MOC     5-1 JSK       [played later]
 USMAn   1-1 MCA
@@ -185,7 +178,7 @@ CAB     4-1 ESS
 USMB    1-1 WAT
 USMAl   0-0 MCO
 
-Round 20 [Jun 1]
+Round: 20 [Jun 1]
 JSMB    1-0 USMAl
 MCO     1-1 USMB
 WAT     5-0 CAB
@@ -193,7 +186,7 @@ ESS     4-1 USMAn
 MCA     0-0 MOC
 JSK     1-1 CRB
 
-Round 21 [Jun 12]
+Round: 21 [Jun 12]
 JSK     1-0 JSMB      [played later]
 CRB     2-1 MCA
 MOC     3-0 ESS
@@ -201,7 +194,7 @@ USMAn   1-1 WAT
 CAB     3-1 MCO       [played later]
 USMB    2-1 USMAl
 
-Round 22
+Round: 22
 ESS     1-1 CRB
 MCA     1-1 JSK
 MCO     6-0 USMAn
@@ -209,1628 +202,27 @@ WAT     4-1 MOC
 CAB     0-0 USMAl
 JSMB    2-2 USMB
 
-Final Table:
 
- 1.CR Belouizdad          22 14  5  3 41-21 47  Champions
- 2.MC Oran                22 10  8  4 41-20 38   
- 3.MO Constantine         22 11  5  6 28-20 38   
- 4.WA Tlemcen             22  8  9  5 34-23 33
- 5.ES Sétif               22  8  6  8 31-34 30
- 6.JS Kabylie             22  7  8  7 21-24 29
- 7.USM Blida              22  6  8  8 26-29 26
- 8.CA Batna               22  7  5 10 23-33 26
- 9.USM Annaba             22  6  6 10 22-36 24   
-10.JSM Béjaïa             22  6  5 11 16-24 23  
-11.MC Alger               22  4 10  8 18-25 22  
-12.USM Alger              22  6  3 13 15-27 21
+* 1.CR Belouizdad          22 14  5  3 41-21 47  Champions
+* 2.MC Oran                22 10  8  4 41-20 38   
+* 3.MO Constantine         22 11  5  6 28-20 38   
+* 4.WA Tlemcen             22  8  9  5 34-23 33
+* 5.ES Sétif               22  8  6  8 31-34 30
+* 6.JS Kabylie             22  7  8  7 21-24 29
+* 7.USM Blida              22  6  8  8 26-29 26
+* 8.CA Batna               22  7  5 10 23-33 26
+* 9.USM Annaba             22  6  6 10 22-36 24   
+*10.JSM Béjaïa             22  6  5 11 16-24 23  
+*11.MC Alger               22  4 10  8 18-25 22  
+*12.USM Alger              22  6  3 13 15-27 21
 
-NB: no teams are to be relegated.
-
-Promoted: ASM Oran, CS Constantine, USM El Harrach, AS Ain M'lila
+*NB: no teams are to be relegated.
+*Promoted: ASM Oran, CS Constantine, USM El Harrach, AS Ain M'lila
  
 
-Cup Tournaments 1999/2000
-
-Coupe d'Algerie
-
-1/32 Final [Mar 2, 3]
-IR Mecheria                 1-3 ES Mostaganem    
-CS Constantine              1-0 JSM Tébessa
-AS Bordj Bou-Arréridj       1-1 CRB Mazouna             [CRBM on pen]
-US Biskra                   0-0 ESM Boudouaou           [ESBM on pen]
-MB Constantine              2-4 ASM Oran
-IR Nezla                    1-1 WAB Tissemsilt          [WABT on pen]
-AS Aïn M'Lila               1-2 WA Tlemcen              [asdet]
-MC Saïda                    2-0 US Chaouia
-MC Alger                    2-2 ES Sétif                [MCA on pen]
-MC El Bayadh                0-1 CR Belouizdad
-IR Bordj El Kiffan          0-6 MC Oran
-AS Maghnia                  0-4 RC Kouba
-IRB Ouled Naïl              0-1 NRB Touggourt           [asdet]
-ES Berrouaghia              0-1 USM Annaba              [asdet]
-Olympique Meghier (Ouargla) 0-2 CB Mila
-CR Témouchent               0-0 NARB Réghaïa            [CRT on pen]
-JJ Azzaba                   1-2 USM Bel Abbes
-IRB Hadjar                  1-2 RC Arba
-IRB Chiffa                  0-0 MC Ouargla              [MCOu on pen]
-RCG Oran                    w/o US Béchar Edjedid       [USBD dns]
-CRB Mechria                 0-1 ES Guelma               [asdet]
-USM Alger                   2-0 GC Mascara
-NA Hussein Dey              1-0 JSM Skikda              [asdet]
-WA Mostaganem               0-1 USM Sétif
-MC Khemis El Khechna        0-3 JS Kabylie
-IRB Laghouat                0-3 USM El Harrach
-JS Bordj Ménaïel            2-1 MB Tlydjene
-JSM Tiaret                  1-1 MO Constantine          [JSMTi on pen]
-CA Batna                    w/o ES Béchar               [ESB dns]
-JSM Béjaïa                  0-0 HB Chelghoum Laïd       [HBCL on pen]
-USM Blida                   1-0 MSP Batna
-AB Bou Saâda                6-0 MC Mekhedma (Ouargla)
-
-1/16 Finals
-[May 1]
-MC Alger                    0-3 WA Tlemcen              [Mostaganem]
-RC-Arba                     0-2 HB Chelghoum Laïd       [B.B. Arréridj]
-RCG Oran                    0-2 CS Constantine          [Bologhine]
-NA Hussein-Dey              4-1 CR Mazouna              [Médéa]
-AS Boussaâda                1-2 MC Ouargla              [Laghouat]
-CB Mila                     0-1 WAB Tissemsilt          [Alger, 20 Août]
-ESM Boudouaou               5-2 JS Bordj Ménaiel        [Boumerdès]
-USM Blida                   1-1 USM Annaba              [3-0 pen]  [Béjaïa]
-MC Saïda                    0-0 ES Mostaganem           [5-4 pen]  [Mascara]
-ES Guelma                   0-1 CR Belouizdad           [Sétif]
-USM Bel Abbes               2-0 JSM Tiaret              [Relizane]
-USM Sétif                   w/o CR Témouchent [dns]     [Boufarik]
-NRB Touggourt               2-5 CA Batna                [Biskra]
-[May 8]
-JS Kabylie                  2-1 ASM Oran                [Blida]
-USM El Harrach              0-1 USM Alger               [Alger, 5 Juillet]
-RC Kouba                    0-1 MC Oran                 [Tiaret]
-
-1/8 Finals [May 15]
-USM Blida                   1-1 USM Alger               [4-2 pen]
-USM Bel Abbes               0-1 NA Hussein-Dey      
-CR Belouizdad               1-2 MC Oran
-HB Chelghoum Laïd           0-1 ESM Boudouaou    
-WAB Tissemsilt              0-5 MC Ouargla
-CA Batna                    0-1 CS Constantine
-USM Sétif                   1-2 JS Kabylie
-MC Saïda                    0-1 WA Tlemcen
-
-Quarterfinals [Jun 5 and 8]
-CS Constantine          1-0 2-4 MC Ouargla
-USM Blida               1-2 1-1 WA Tlemcen
-ESM Boudouaou           0-0 0-2 JS Kabylie
-NA Hussein-Dey          0-0 0-1 MC Oran
-
-NB: MC Ouargla reverted to former name of CR Béni-Thour
-
-Semifinals [Sep 25 and 29]
-JS Kabylie              2-0 0-4 WA Tlemcen
-MC Oran                 2-1 0-2 CR Béni-Thour
-
-Final [Nov 1, stade du 5 Juillet, Alger]
-CR Béni-Thour               2-1 WA Tlemcen
-  [Hellali 5, Ghouti 85; Tounkob 14]
-  [CRBT: Bellouti, Benzaïd, Ouichaoui, Bensalem, Touafek, Lassakeur,
-         Arbaoui (Chambit 77), Ghoula, Belhadef (Boudaoui 80), Hellali
-         (Ghouti 60); unused subs: Gouamid, Zatout, Belkheïra, Aïssaoui;
-         coach: Laghrour
-   WAT: Maâtallah, Kherris, Yadel, Tounkob, Ziane, Boudjakdji, Kendouci,
-        Hachemi (Aïdara 80), Hamdi (Betouaf 66), Daoud, Meziani; unused
-        subs: Zitouni, Sahraoui, Khadraooui, Hadjou Samir, Yekhlef;
-        coach: Benyellès;
-   ref: Noureddine Lacarne; Djezzar, Berahmoune;
-   yellow cards: Benzaïd 74, Ghoula 87, Chambit 89 (all CRBT)]
-
-
-Coupe du Groupement Professionnel
-
-Played between the 12 clubs from the Super-Division and the 14 from the
-second level.
-
-Clubs are divided into 3 groups (Est-9, Centre-10, Ouest-7); after a
-round robin group stage, the first 6 of Centre and Est and the first
-4 of Ouest will qualify for the 1/8 finals; from there, knock-out system.
-
-Group Est
-
-Round 1 
-[Dec 23]
-MOC   1-0 HBCL 
-ASAM  n/p CSC 
-ESS   2-0 CAB 
-[Jan 17]
-MCO   1-0 USMA 
-JSMT  bye
-
-Round 2 [Dec 30]
-CSC   0-0 ESS 
-HBCL  2-1 ASAM 
-USMA  1-1 MOC 
-JSMT  0-0 MCO 
-CAB   bye
-
-Round 3 [Jan 3]
-MOC   1-1 JSMT 
-ASAM  1-2 USMA 
-ESS   4-1 HBCL 
-CAB   0-0 CSC 
-MCO   bye
-
-Round 4 [Jan 13]
-HBCL  2-1 CAB 
-USMA  1-0 ESS 
-JSMT  2-1 ASAM 
-MCO   1-1 MOC 
-CSC   bye
-
-Round 5 [Jan 20]
-ASAM  0-0 MCO  
-ESS   2-1 JSMT  
-CAB   1-0 USMA 
-CSC   0-0 HBCL 
-MOC   bye
-
-Round 6 [Jan 24]
-USMA  3-0 CSC 
-JSMT  1-1 CAB 
-MCO   0-0 ESS 
-MOC   2-2 ASAM 
-HBCL  bye
-
-Round 7 [Jan 27]
-ESS   1-1 MOC 
-CAB   drw MCO 
-CSC   0-1 JSMT 
-HBCL  1-1 USMA
-ASAM  bye
-
-Round 8 [Jan 31]
-JSMT  0-0 HBCL 
-MCO   3-0 CSC 
-MOC   1-0 CAB 
-ASAM  3-1 ESS 
-USMA  bye
-
-Round 9 [Feb 3]
-CAB   1-0 ASAM 
-CSC   0-2 MOC 
-HBCL  5-0 MCO 
-USMA  4-1 JSMT 
-ESS   bye
-
- 1.USM Annaba              8  4  2  2 12- 6 14  Qualified
- 2.MO Constantine          8  3  5  0 10- 6 14  Qualified
- 3.HB Chelghoum Laid       8  3  3  2 11- 8 12  Qualified
- 4.ES Sétif                8  3  3  2 10- 7 12  Qualified
- 5.MC Ouargla              8  2  5  1  5- 6 11  [*7]  Qualified
- 6.JSM Tébessa             8  2  4  2  7- 9 10  Qualified
- - - - - - - - - - - - - - - - - - - - - - - -
- 7.CA Batna                8  2  3  3  4- 6  9  [*7]
- 8.AS Ain M'lila           7  1  2  4  8-10  5
- 9.CS Constantine          7  0  3  4  0- 9  3
-
-[*7] w/o goals rd 7
-
-Groupe Centre
-
-Round 1 [Dec 23]
-JSK   1-1 MCA 
-JSMB  2-1 CRB 
-USMA  2-2 USMB 
-RCK   1-0 USMH 
-JSBM  3-1 NAHD
-
-Round 2 [Dec 30]
-MCA   0-0 JSMB 
-USMB  1-1 JSK 
-CRB   3-0 RCK 
-NAHD  2-4 USMA 
-USMH  2-0 JSBM
-
-Round 3 
-[Jan 3]
-MCA   2-3 USMB 
-RCK   0-1 JSMB 
-JSK   1-0 NAHD 
-USMA  1-1 USMH
-[Jan 17]
-JSBM  2-5 CRB 
-
-Round 4 [Jan 13]
-RCK   2-3 MCA 
-NAHD  2-0 USMB 
-JSMB  2-0 JSBM 
-USMH  1-0 JSK 
-CRB   n/p JSMB         [forfait by CRB]
-
-Round 5 [Jan 20]
-MCA   1-2 NAHD 
-JSBM  0-0 RCK 
-USMB  0-0 USMH 
-USMA  1-1 JSMB 
-JSK   1-1 CRB
-
-Round 6 [Jan 24]
-JSBM  1-2 MCA 
-USMH  1-0 NAHD 
-RCK   2-0 USMA 
-CRB   3-0 USMB 
-JSMB  0-0 JSK
-
-Round 7 [Jan 27]
-MCA   1-1 USMH 
-USMA  2-0 JSBM 
-NAHD  0-1 CRB 
-JSK   1-2 RCK 
-USMB  1-2 JSMB
-
-Round 8 [Jan 31]
-USMA  0-1 MCA 
-CRB   4-1 USMH 
-JSBM  1-1 JSK 
-JSMB  1-0 NAHD 
-RCK   2-2 USMB
-
-Round 9 [Feb 3]
-MCA   0-0 CRB 
-JSK   0-1 USMA 
-USMH  1-0 JSMB 
-USMB  1-0 JSBM 
-NAHD  1-2 RCK
-
- 1.JSM Béjaïa              9  5  3  1  9- 4 18  Qualified
- 2.CR Belouizdad           8  5  2  1 18- 6 17  Qualified
- 3.USM El Harrach          9  4  3  2  8- 7 15  Qualified
- 4.RC Kouba                9  4  2  3 11-11 14  Qualified
- 5.MC Alger                9  3  4  2 11-10 13  Qualified
- 6.USM Alger               8  3  3  2 11- 9 12  Qualified
- - - - - - - - - - - - - - - - - - - - - - - -
- 7.USM Blida               9  2  4  3 10-14 10
- 8.JS Kabylie              9  1  5  3  6- 8  8
- 9.NA Hussein Dey          9  2  0  7  8-14  6
-10.JS Bordj Menaïel        9  1  2  6  7-16  5
-
-
-Group Ouest
-
-Round 1 
-[Dec 23]
-ESM   1-2 WAM 
-ASMO  4-2 WAT 
-[Jan 17]
-JSMT  1-1 MCO 
-GCM   bye
-
-Round 2 [Dec 30]
-WAM   2-1 ASMO 
-MCO   3-1 ESM 
-GCM   2-1 JSMT 
-WAT   bye
-
-Round 3 [Jan 3]
-ESM   3-0 GCM 
-ASMO  0-4 MCO 
-WAT   5-0 WAM 
-JSMT  bye
-
-Round 4 [Jan 13]
-MCO   0-0 WAT 
-GCM   2-0 ASMO 
-JSMT  1-1 ESM 
-WAM   bye
-
-Round 5 [Jan 20]
-ASMO  0-2 JSMT 
-WAT   2-1 GCM 
-WAM   0-0 MCO 
-ESM   bye
-
-Round 6 [Jan 27]
-GCM   1-0 WAM 
-JSMT  0-1 WAT 
-ESM   bt  ASMO 
-MCO   bye
-
-Round 7 [Feb 3]
-WAT   2-0 ESM 
-WAM   1-0 JSMT 
-MCO   0-0 GCM 
-ASMO  bye
-
- 1.WA Tlemcen              6  4  1  1 12- 5 13  Qualified
- 2.MC Oran                 6  2  4  0  8- 2 10  Qualified
- 3.GC Mascara              6  3  1  2  6- 6 10  Qualified
- 4.WA Mostaganem           6  3  1  2  5- 8 10  Qualified
- - - - - - - - - - - - - - - - - - - - - - - -
- 5.ES Mostaganem           6  2  1  3  6- 8  7  [*6]
- 6.JSM Tiaret              6  1  2  3  5- 6  5
- 7.ASM Oran                6  1  0  5  5-12  3  [*6]
-
-[*6] w/o goals rd 6
-
-
-1/8 Finals [Feb 10]
-GCM   0-1 MCOr               [in Bel-Abbès]
-MCOu  0-4 WAT                [in Alger, 20 Août 1955]
-USMAn 1-1 MOC   [USMA on pen][in Skikda]
-RCK   2-1 HBCL               [in BB Arréridj]
-WAM   1-1 CRB   [CRB on pen] [in Blida (may be moved)]
-MCA   0-3 JSMB               [in Tizi Ouzou]
-ESS   0-0 USMAl [USMA on pen][in Béjaïa]
-JSMT  1-3 USMH               [in Sétif]
-
-Quarterfinals [Feb 14]
-MCO   0-0 WAT   [5-3 pen[    [in Bel-Abbès]
-USMAn 0-0 RCK   [3-0 pen]    [in Béjaïa]
-USMAl 1-1 USMH  [3-1 pen]    [in Alger, 5 Juillet]
-CRB   awd JSMB               [in Tizi Ouzou]
-  [JSMB refused to play on artifical turf, claiming this to be against
-   the regulations of the competition]
-
-Semifinals [Feb 25]
-MCO   1-0 USMAn              [in Boumerdès]
-  [Mecabih 43] 
-CRB   2-1 USMAl              [in Alger, 5 Juillet]
-  [Galoul 35,Setara 57; Amirat 83] 
-
-Final [Mar 19, Stade du 5 Juillet, Alger; att: 50,000; ref: M. Benaïssa] 
-CRB   3-0 MCO
-  [Mezouar 22, 35, Boutaleb 54]
-  [CRB: Mahrez, Talis, Chedeba, Bounekdja, Selmi, Bakhti, Setara (Ghaloubi), 
-        Mezouar, Ali Moussa (Maâchi), Badji, Boutaleb (Hchaïchi) 
-   MCO: Benabdellah, Hadou, Mazri (Guesbaoui), Belatoui, Kechamli, Cherfi 
-        El-Ouazani, Kada, Megueni (Amrane), Meçabih, Gaïb, Mecheri]
-
-
-Division 1
-
-Final Table:
-
- 1.ASM Oran               26 17  3  6 46-20 54  Promoted 
- 2.CS Constantine         26 15  7  4 45-16 52  Promoted
-----------------------------------------------
- 3.USM El Harrach         26 13  8  5 35-22 47
- 4.AS Ain M'lila          26 12  6  8 27-31 42       
- 5.JSM Tébessa            26 12  3 11 30-30 39  [Centre/Est]
- 6.JSM Tiaret             26 10  7  9 32-33 37  [Centre/Ouest]
- 7.MC Ouargla             26 11  3 12 29-28 36  [Centre/Est]   
- 8.RC Kouba               26  9  9  8 21-22 36  [Centre/Ouest]   
- 9.JS Bordj Menaïel       26 11  1 14 29-30 34  [Centre/Est]
-10.HB Chelghoum Laid      26 10  4 12 23-25 34  [Centre/Est]   
-11.GC Mascara             26 10  4 12 35-42 34  [Centre/Ouest]
-12.NA Hussein Dey         26  9  3 14 28-36 30  [Centre/Est]  
-13.ES Mostaganem          26  6  7 13 27-38 25  [Centre/Ouest]       
-14.WA Mostaganem          26  3  3 20 25-59 12  [Centre/Ouest]     
-
-Round 1 [Sep 23]
-USMH    1-0 GCM
-NAHD    1-0 HBCL
-JSBM    1-4 ASMO
-MCO     2-1 JSMTi
-JSMTe   3-0 ASAM
-WAM     0-0 RCK
-CSC     abd ESM      [abandoned at half-time at 1-1 on news that ESM player
-                      Abed Guesba, who had suffered a heart attack at 15',
-                      had died in hospital]
-[Nov 15]
-CSC     2-1 ESM
-
-Round 2 [Sep 30]
-ESM     1-1 JSMTe
-GCM     2-1 NAHD
-HBCL    1-0 JSBM
-ASMO    3-0 MCO
-JSMTi   1-2 WAM
-ASAM    0-0 RCK
-CSC     1-0 USMH
-
-Round 3 
-[Oct 7]
-RCK     1-1 JSMTi 
-USMH    2-2 ESM 
-JSBM    1-0 GCM 
-MCO     1-0 HBCL 
-JSMTe   0-1 ASMO 
-WAM     3-1 ASAM
-[Oct 8]
-NAHD    1-2 CSC 
-
-Round 4 [Oct 15]
-CSC     2-0 WAM 
-USMH    1-0 NAHD 
-JSMTi   1-1 ASAM 
-ASMO    2-0 RCK 
-HBCL    1-0 JSMTe 
-GCM     1-0 MCO 
-ESM     1-0 JSBM
-
-Round 5 [Oct 22]
-RCK     1-0 HBCL 
-ASAM    2-4 ASMO 
-NAHD    4-0 ESM 
-JSBM    1-1 CSC 
-MCO     1-1 USMH 
-JSMTe   2-0 JSMTi 
-WAM     2-3 GCM
-
-Round 6 [Oct 29]
-CSC     2-0 MCO 
-USMH    1-0 JSBM 
-NAHD    0-3 JSMTe
-ASMO    awd JSMTi    [awarded 0-2 (ineligible player Bendida), originally 1-0]
-HBCL    1-1 ASAM 
-GCM     1-0 RCK 
-ESM     2-1 WAM
-
-Round 7 [Nov 4]
-RCK     0-0 CSC 
-ASAM    1-0 USMH 
-JSMTi   1-0 HBCL 
-JSBM    3-1 NAHD 
-MCO     2-0 ESM 
-JSMTe   0-1 GCM 
-WAM     0-5 ASMO
-
-Round 8 [Nov 11]
-CSC     5-0 JSMTe 
-USMH    1-0 RCK 
-NAHD    2-1 MCO 
-JSBM    2-0 WAM 
-HBCL    1-0 ASMO 
-GCM     2-2 JSMTi 
-ESM     2-0 ASAM
-
-Round 9 [Nov 18]
-RCK     2-0 ESM 
-ASAM    1-0 NAHD 
-JSMTi   0-0 CSC 
-ASMO    3-1 GCM 
-MCO     1-0 JSBM 
-JSMTe   0-0 USMH 
-WAM     3-4 HBCL
-
-Round 10 
-[Nov 25]
-USMH    3-2 JSMTi
-NAHD    2-1 RCK 
-JSBM    4-0 JSMTe
-MCO     2-1 WAM 
-GCM     2-1 HBCL 
-ESM     3-2 ASMO
-[Nov 26]
-CSC     1-1 ASAM 
-
-Round 11 [Dec 2]
-RCK     1-0 JSBM 
-ASAM    2-1 GCM
-JSMTi   2-1 ESM 
-ASMO    1-0 CSC 
-HBCL    0-0 USMH 
-JSMTe   1-0 MCO 
-WAM     1-3 NAHD
-
-Round 12 [Dec 9]
-CSC     0-0 HBCL 
-USMH    2-1 ASMO 
-NAHD    awd JSMTi    [awarded 2-0; JSMTi dns]
-JSBM    1-0 ASAM 
-MCO     3-0 RCK 
-JSMTe   2-1 WAM 
-ESM     2-2 GCM
-
-Round 13 
-[Dec 16]
-RCK     1-0 JSMTe
-ASAM    2-1 MCO 
-ASMO    3-2 NAHD 
-HBCL    1-0 ESM 
-GCM     0-1 CSC 
-WAM     2-0 USMH
-[Feb 28]
-JSMTi   2-1 JSBM 
-
-Round 14 [Mar 9]
-RCK     2-0 WAM
-ASAM    2-1 JSMTe
-JSMTi   2-0 MCO
-ASMO    1-0 JSBM
-HBCL    3-1 NAHD
-GCM     1-1 USMH
-ESM     0-1 CSC
-
-Round 15 [Mar 13]
-JSMTe   1-0 ESM
-NAHD    1-0 GCM
-JSBM    2-1 HBCL
-MCO     0-0 ASMO     [awarded 0-2, originally 0-0]
-WAM     0-0 JSMTi
-RCK     0-1 ASAM
-USMH    1-0 CSC
-
-Round 16 [Mar 23]
-ASAM    2-1 WAM
-ASMO    1-0 JSMTe
-HBCL    1-0 MCO
-GCM     3-1 JSMB
-CSC     5-0 NAHD
-JSMTi   0-1 RCK
-ESM     1-1 USMH
-
-Round 17 [Mar 30]
-RCK     0-0 ASMO
-WAM     2-2 CSC
-NAHD    1-2 USMH
-ASAM    2-1 JSMTi
-MCO     3-2 GCM
-JSMTe   1-0 HBCL
-JSBM    1-0 ESM
-
-Round 18 [Apr 6]
-ASMO    1-1 ASAM
-CSC     4-0 JSBM
-USMH    2-1 MCO      [played later]
-ESM     2-0 NAHD
-HBCL    0-0 RCK
-JSMTi   2-0 JSMTe
-GCM     1-0 WAM
-
-Round 19 [Apr 20]
-JSMTi   2-1 ASMO
-MCO     1-1 CSC
-JSBM    2-0 USMH
-ASAM    1-0 HBCL
-RCK     2-1 GCM
-WAM     2-3 ESM
-JSMTe   0-0 NAHD
-
-Round 20 [Apr 27]
-ASMO    3-0 WAM
-CSC     2-0 RCK
-USMH    1-0 ASAM
-NAHD    1-0 JSBM
-GCM     2-5 JSMTe
-HBCL    1-2 JSMTi
-ESM     0-0 MCO
-
-Round 21
-ASAM    1-0 ESM
-JSMTi   2-1 GCM
-ASMO    4-0 HBCL
-WAM     0-1 JSBM
-MCO     1-0 NAHD
-RCK     2-2 USMH
-JSMTe   2-1 CSC
-
-Round 22
-HBCL    1-0 WAM
-USMH    3-0 JSMTe
-JSBM    1-0 MCO
-GCM     0-0 ASMO
-CSC     2-0 JSMTi
-ESM     1-1 RCK
-NAHD    1-1 ASAM
-
-Round 23
-ASAM    3-1 CSC
-JSMTi   2-2 USMH
-RCK     0-0 NAHD
-JSMTe   1-0 JSBM
-WAM     1-2 MCO
-HBCL    3-1 GCM
-ASMO    2-1 ESM        
-
-Round 24
-MCO     3-0 JSMTe
-CSC     2-0 ASMO
-ESM     1-1 JSMTi
-GCM     2-0 ASAM
-JSBM    2-3 RCK
-USMH    1-0 HBCL
-NAHD    4-2 WAM
-
-Round 25
-HBCL    0-1 CSC
-ASMO    1-0 USMH
-JSMTi   1-0 NAHD           [NAHD win?]
-ASAM    1-0 JSBM
-RCK     2-0 MCO
-GCM     3-2 ESM
-WAM     0-4 JSMTe
-
-Round 26
-NAHD    0-1 ASMO
-GCM     2-6 CSC      
-MCO     4-0 ASAM
-JSBM    5-2 JSMTi
-JSMTe   3-1 RCK
-USMH    7-1 WAM
-ESM     1-3 HBCL
-
-Final Table:
-
- 1.ASM Oran               26 17  3  6 46-20 54  Promoted 
- 2.CS Constantine         26 15  7  4 45-16 52  Promoted
-----------------------------------------------
- 3.USM El Harrach         26 13  8  5 35-22 47
- 4.AS Ain M'lila          26 12  6  8 27-31 42       
- 5.JSM Tébessa            26 12  3 11 30-30 39  [Centre/Est]
- 6.JSM Tiaret             26 10  7  9 32-33 37  [Centre/Ouest]
- 7.MC Ouargla             26 11  3 12 29-28 36  [Centre/Est]   
- 8.RC Kouba               26  9  9  8 21-22 36  [Centre/Ouest]   
- 9.JS Bordj Menaïel       26 11  1 14 29-30 34  [Centre/Est]
-10.HB Chelghoum Laid      26 10  4 12 23-25 34  [Centre/Est]   
-11.GC Mascara             26 10  4 12 35-42 34  [Centre/Ouest]
-12.NA Hussein Dey         26  9  3 14 28-36 30  [Centre/Est]  
-13.ES Mostaganem          26  6  7 13 27-38 25  [Centre/Ouest]       
-14.WA Mostaganem          26  3  3 20 25-59 12  [Centre/Ouest]     
-
-After the season, the FA decided to extend the Super-Division to 16 teams
-immediately (instead of for 2001/02) and USMH and ASAM were promoted as well.
-
-No teams were relegated.
-
-MC Ouargla reverted to their former name CR Béni-Thour at the end of the season
-
-Division one to be split in two sections of 16 teams each; so 22 teams
-were promoted:
-
-To section Centre/Ouest:
-CRB El-Bayadh, ASO Chlef, IRB Hadjout, CR Temouchent, 
-SA Mohamedia, USM Bel Abbes, RC Relizane, CRB Mecheria, CC Sig, 
-IRON Djelfa, plus one club to be decided 
-
-To section Centre/Est:
-CB Mila, MSP Batna, US Chaouia, JSM Skikda, US Biskra, NARB Réghaïa,
-E Sour El-Ghozlane, CRB Mekhadma, NRBB-Arréridj, CRB Arbaâ,
-plus one club to be decided
-
-
-
-Division 2
-
-Group Est
-
-Round 1 [Sep 24]
-MBT     1-1 CBM 
-IRBEH   3-3 JSMS 
-USMS    1-0 ASCBBA 
-JJA     0-0 JSJ 
-USB     4-0 USMK 
-USC     1-0 USMAB 
-MCEE    2-1 MSPB 
-
-Round 2 [Oct 1]
-JSMS    2-1 MBT
-ASCBBA  2-0 IRBEH
-JSJ     0-0 USMS
-USMAB   1-1 USB
-USMK    1-1 JJA
-MSPB    2-1 USC
-CBM     2-0 MCEE
-
-Round 3 [Oct 8]
-MBT     2-0 ASCBBA
-IRBEH   2-1 JSJ
-USMS    1-0 USMK
-USB     2-0 MSPB
-JJA     1-0 USMAB
-USC     0-0 MCEE
-CBM     1-0 JSMS
-
-Round 4 [Oct 14]
-USMK    2-0 IRBEH
-ASCBBA  1-2 JSMS
-JSJ     1-0 MBT
-USMAB   2-0 USMS
-USC     2-1 CBM    
-MSPB    1-1 JJA
-MCEE    0-0 USB
-
-Round 5 [Oct 22]
-MBT     2-1 USMK
-IRBEH   3-1 USMAB
-USMS    2-1 MSPB
-JJA     1-0 MCEE
-USB     2-0 USC
-JSMS    2-0 JSJ
-CBM     1-0 ASCBBA
-
-Round 6 [Oct 29]
-USMAB   2-2 MBT
-MSPB    5-0 IRBEH
-MCEE    2-1 USMS
-USC     2-0 JJA
-USB     1-1 CBM
-USMK    3-1 JSMS
-JSJ     1-0 ASCBBA
-
-Round 7 [Nov 5]
-MBT     1-0 MSPB
-IRBEH   2-2 MCEE
-USMS    1-1 USC
-JJA     0-0 USB
-JSMS    1-1 USMAB
-ASCBBA  2-1 USMK
-CBM     3-1 JSJ
-
-Round 8 [Nov 12]
-MCEE    1-1 MBT
-USC     1-1 IRBEH
-USB     1-0 USMS
-MSPB    1-0 JSMS
-JJA     0-1 CBM
-USMAB   2-1 ASCBBA
-USMK    bt  JSJ    [played later]
-
-Round 9 [Nov 19]
-MBT     0-0 USC
-IRBEH   1-1 USB
-USMS    2-0 JJA
-JSMS    1-0 MCEE
-ASCBBA  0-3 MSPB
-JSJ     0-0 USMAB
-CBM     2-1 USMK
-
-Round 10 [Nov 26]
-USB     1-0 MBT
-JJA     2-0 IRBEH
-USMS    0-0 CBM
-USC     1-0 JSMS
-MSPB    2-0 JSJ
-MCEE    1-0 ASCBBA
-USMAB   3-1 USMK
-
-Round 11 [Dec 3]
-MBT     4-2 JJA
-IRBEH   2-0 USMS
-JSMS    1-0 USB
-JSJ     3-0 MCEE
-ASCBBA  0-1 USC
-CBM     1-0 USMAB
-USMK    0-1 MSPB
-
-Round 12 [Dec 10]
-IRBEH   1-2 CBM
-JJA     1-2 JSMS
-USB     0-0 ASCBBA
-USC     1-0 JSJ
-MCEE    3-1 USMK
-MSPB    1-0 USMAB
-USMS    2-1 MBT
-
-Round 13
-[Dec 16]
-MBT     2-1 IRBEH   
-JSMS    0-0 USMS
-ASCBBA  2-1 JJA
-JSJ     0-0 USB
-USMAB   1-0 MCEE
-CBM     0-0 MSPB
-[Dec 17]
-USMK    lt  USC
-
-Round 14 [Feb 11]
-MSPB    5-1 MCEE
-USMAB   1-0 USC 
-JSJ     0-0 JJA 
-USMK    0-0 USB
-ASCBBA  2-1 USMS
-JSMS    1-0 IRBEH
-CBM     2-1 MBT
-
-Round 15 [Feb 14]
-MBT     0-0 JSMS
-IRBEH   1-0 ASCBBA
-USMS    1-2 JSJ
-USB     2-0 USMAB
-JJA     0-1 USMK
-USC     1-0 MSPB
-MCEE    1-1 CBM
-
-Round 16
-JSMS    2-2 CBM
-MCEE    1-1 USC
-USMAB   1-0 JJA
-MSPB    3-2 USB
-USMK    1-0 USMS
-JSJ     1-0 IRBEH
-ASCBBA  1-0 MBT
-
-Round 17
-MBT     0-1 JSJ
-IRBEH   2-0 USMK
-USMS    4-1 USMAB
-JJA     0-2 MSPB
-USB     3-1 MCEE
-CBM     3-1 USC
-JSMS    2-1 ASCBBA
-
-Round 18
-ASCBBA  2-0 CBM
-JSJ     1-0 JSMS
-MCEE    0-1 JJA
-USC     1-0 USB
-MSPB    3-1 USMS
-USMAB   0-1 IRBEH
-USMK    2-1 MBT
-
-Round 19 [Mar 24]
-ASCBBA  5-1 JSJ
-JSMS    2-1 USMK
-JJA     0-2 USC
-CBM     1-0 USB       
-USMS    0-0 MCEE
-IRBEH   1-0 MSPB
-MBT     2-1 USMAB
-
-Round 20 [Apr 6]
-MSPB    5-0 MBT
-MCEE    2-1 IRBEH
-USC     3-0 USMS
-USB     bt  JJA
-USMAB   2-3 JSMS
-USMK    0-1 ASCBBA
-JSJ     0-0 CBM
-
-Round 21 [Apr 20]
-MBT     1-0 MCEE
-IRBEH   2-1 USC
-USMS    0-1 USB
-JSMS    1-0 MSPB
-CBM     3-0 JJA
-ASCBBA  2-1 USMAB
-JSJ     3-1 USMK
-
-Round 22 [Apr 27]
-USMK    0-1 CBM
-USC     1-0 MBT
-USB     2-1 IRBEH
-JJA     2-0 USMS
-MCEE    1-3 JSMS
-MSPB    1-1 ASCBBA
-USMAB   1-1 JSJ
-
-Round 23 [May 4]
-MBT     2-0 USB
-IRBEH   0-1 JJA
-CBM     1-0 USMS
-ASCBBA  0-0 MCEE
-JSMS    2-0 USC
-JSJ     1-2 MSPB
-USMK    2-0 USMAB
-
-Round 24 [May 20]
-JJA     3-0 MBT
-USMS    1-0 IRBEH
-USB     1-0 JSMS
-MCEE    4-1 JSJ
-USC     0-2 ASCBBA
-USMAB   0-0 CBM
-MSPB    2-0 USMK
-
-Round 25 [May 27]
-MBT     1-1 USMS
-CBM     2-0 IRBEH
-JSMS    1-0 JJA
-JSJ     0-0 USC
-ASCBBA  3-1 USB
-USMAB   1-1 MSPB
-USMK    1-0 MCEE
-
-Round 26 [Jun 10]
-MSPB    abd CBM     [abandoned at 1-0 in 30']
-MCEE    3-1 USMAB
-USC     0-0 USMK
-USB     2-1 JSJ
-JJA     4-1 ASCBBA
-USMS    3-2 JSMS
-IRBEH   5-1 MBT
-
-Table:
-
- 1.CB Mila                25 15  8  2 32-14 53
- 2.JSM Skikda             26 14  5  7 34-25 47
- 3.MSP Batna              25 14  4  7 42-19 46
- 4.US Biskra              26 12  8  6 27-17 44  [43?] [*20]
- 5.US Chaouia             26 12  7  7 22-18 43  [*13]
- 6.ASC Bordj Bou Arréridj 26 11  3 12 29-28 36  [new name for CABBA]
- 7.JS Jijel               26  8  8 10 20-26 32  [*8]
- 8.IRB El-Hadjar          26  9  4 13 30-36 31
- 9.USM Sétif              26  8  6 12 22-29 30
-10.MB Tlydjène            26  8  6 12 26-36 30
-11.JJ Azzaba              26  8  5 13 21-26 29  [*20]
-12.MC El-Eulma            26  7  8 11 25-33 29
-13.USM Khenchela          26  8  3 15 20-32 27  [*8, *13] 
-14.USM Aïn Béïda          26  6  7 13 23-34 25
-
-[*8] w/o goals round 8
-[*13] w/o goals round 13
-[*20] w/o goals round 20
-
-Due to reorganisation, the following 6 clubs (at least) were promoted:
-CBM, JSMS, MSPB, USB, USC, ASCBBA (now NRBBA?)
-
-Group Centre
-
-Round 1 [Sep 24]
-IRBH    1-0 WAB 
-ESMB    2-1 OMM 
-NARBR   1-0 ISMK 
-HAC     1-3 WBAB 
-RCA     1-2 ASOC
-ESBA    1-3 IBM
-OMR     3-0 ESG 
-
-Round 2 [Oct 1]
-IRBH    1-1 ESMB
-IBM     2-0 ESG
-ASOC    1-0 OMR 
-WBAB    0-0 RCA
-ISMK    2-1 HAC
-OMM     0-0 NARBR
-WAB     1-3 ESBA
-
-Round 3 [Oct 8]
-ESG     0-0 ASOC
-ESMB    1-0 WAB
-NARBR   2-0 IRBH 
-HAC     0-0 OMM
-RCA     3-2 ISMK
-ESBA    2-0 WBAB
-OMR     3-2 IBM
-
-Round 4 [Oct 14]
-IRBH    1-0 OMR 
-ESMB    0-0 NARBR
-ASOC    3-0 IBM
-WBAB    2-1 ESG
-ISMK    0-0 ESBA
-OMM     2-1 RCA
-WAB     2-0 HAC
-
-Round 5 [Oct 22]
-ESG     0-0 ISMK
-IBM     1-0 WBAB
-NARBR   1-0 WAB
-HAC     1-0 IRBH
-RCA     3-2 ESMB
-ESBA    0-0 ASOC
-OMR     2-2 OMM
-
-Round 6 [Oct 29]
-IRBH    0-0 RCA
-ESMB    2-3 HAC
-NARBR   3-0 ESBA
-WBAB    0-2 ASOC
-ISMK    1-2 IBM
-OMM     1-1 ESG
-WAB     0-2 OMR 
-
-Round 7 [Nov 5]
-ESG     1-0 IRBH
-IBM     2-1 ESMB
-ASOC    1-1 ISMK
-HAC     1-2 NARBR
-RCA     4-1 WAB
-ESBA    4-1 OMM
-OMR     0-0 WBAB 
-
-Round 8 [Nov 12]
-IRBH    2-1 ESBA
-ESMB    0-1 ESG
-NARBR   2-0 RCA
-HAC     3-0 OMR 
-ISMK    1-1 WBAB
-OMM     2-0 ASOC
-WAB     2-2 IBM
-
-Round 9 [Nov 19]
-ESG     1-0 WAB
-IBM     3-1 NARBR
-ASOC    2-0 IRBH
-WBAB    0-0 OMM
-RCA     0-0 HAC
-ESBA    1-1 ESMB
-OMR     1-1 ISMK
-
-Round 10 [Nov 26]
-IRBH    0-0 IBM
-ESMB    0-0 ASOC
-NARBR   2-1 ESG
-HAC     0-0 ESBA
-RCA     1-0 OMR
-OMM     2-1 ISMK
-WAB     1-0 WBAB
-
-Round 11 
-[Dec 2]
-ESG     1-0 HAC
-[Dec 3]
-IBM     1-0 OMM
-ASOC    1-1 WAB
-WBAB    1-2 IRBH
-ISMK    1-2 ESMB
-ESBA    1-2 RCA
-OMR     1-2 NARBR
-
-Round 12 
-[Dec 9]
-ESMB    1-1 WBAB
-NARBR   2-2 ASOC
-RCA     1-1 ESG
-WAB     1-0 OMM
-IRBH    1-0 ISMK
-[Dec 10]
-HAC     1-0 IBM
-ESBA    drw OMR     [erroneously reported 1-2]
-
-Round 13 
-[Dec 16]
-ESG     1-0 ESBA  
-IBM     1-1 RCA
-ASOC    4-0 HAC
-WBAB    2-0 NARBR
-OMM     drw IRBH
-ISMK    3-1 WAB
-[Dec 17]
-OMR     bt  ESMB
-
-Round 14 [Feb 11]
-IBM     2-1 ESBA
-ASOC    1-0 RCA
-WBAB    1-0 HAC
-ISMK    1-2 NARBR
-OMM     1-0 ESMB
-WAB     0-1 IRBH
-ESG     1-0 OMR
-
-Round 15 [Feb 14]
-ESG     2-0 IBM 
-ESMB    1-1 IRBH
-OMR     2-1 ASOC
-RCA     2-0 WBAB
-HAC     1-0 ISMK
-NARBR   3-0 OMM
-ESBA    1-0 WAB
-
-Round 16
-ASOC    1-1 ESG 
-IBM     0-0 OMR
-WBAB    1-1 ESBA
-ISMK    2-0 RCA
-OMM     0-0 HAC
-IRBH    1-0 NARBR
-WAB     3-1 ESMB
-
-Round 17
-HAC     1-0 WAB
-RCA     1-0 OMM
-ESBA    2-2 ISMK
-ESG     0-0 WBAB
-IBM     0-1 ASOC
-NARBR   1-1 ESMB
-OMR     1-0 IRBH
-
-Round 18
-OMM     1-0 OMR
-ASOC    5-2 ESBA
-ESMB    2-0 RCA
-IRBH    0-0 HAC
-WAB     0-2 NARBR
-WBAB    2-0 IBM
-ISMK    3-2 ESG
-
-Round 19 [Mar 24]
-OMR     3-1 WAB
-ESG     1-0 OMM
-IBM     3-0 ISMK
-ASOC    2-1 WBAB
-ESBA    0-2 NARBR
-HAC     0-1 ESMB
-RCA     2-0 IRBH
-
-Round 20 [Apr 6]
-WBAB    1-0 OMR
-OMM     1-0 ESBA
-WAB     3-2 RCA
-NARBR   4-0 HAC
-ISMK    0-2 ASOC
-ESMB    1-0 IBM
-IRBH    2-1 ESG
-
-Round 21 [Apr 20]
-IBM     1-1 WAB
-ASOC    2-0 OMM
-WBAB    3-0 ISMK
-OMR     1-0 HAC
-RCA     0-0 NARBR
-ESG     4-0 ESMB
-ESBA    1-0 IRBH
-
-Round 22 [Apr 27]
-ISMK    0-0 OMR
-ESMB    1-0 ESBA
-HAC     2-3 RCA
-OMM     0-0 WBAB
-IRBH    1-0 ASOC
-NARBR   4-0 IBM
-WAB     0-3 ESG
-
-Round 23
-WBAB    0-0 WAB
-ISMK    2-1 OMM
-OMR     0-0 RCA
-ESBA    2-0 HAC
-ESG     0-0 NARBR
-ASOC    4-0 ESMB
-IBM     0-1 IRBH
-
-Round 24
-NARBR   3-0 OMR
-RCA     3-1 ESBA
-ESMB    2-1 ISMK
-IRBH    1-0 WBAB
-WAB     1-2 ASOC
-OMM     1-0 IBM
-HAC     4-0 ESG
-
-Round 25
-OMM     0-1 WAB  
-OMR     1-1 ESBA
-ESG     3-0 RCA
-IBM     1-2 HAC
-ASOC    2-1 NARBR
-WBAB    1-0 ESMB
-ISMK    1-3 IRBH
-
-Round 26
-ESMB    1-2 OMR
-IRBH    2-1 OMM
-WAB     3-1 ISMK
-NARBR   3-3 WBAB
-HAC     0-1 ASOC
-RCA     abd IBM        [abandoned at 2-0 in 32']
-ESBA    0-0 ESG
-
-Table:
-
- 1.ASO Chlef              26 16  7  3 42-16 55
- 2.NARB Réghaïa           26 15  7  4 43-18 52
- 3.IRB Hadjout            26 13  6  7 21-17 45  [*13]
- 4.E Sour El-Ghozlane     26 11  8  7 27-21 41
- 5.RC Arbaâ               25 10  7  8 30-28 37
- 6.OM Ruisseau            26  9  8  9 22-23 35  [*12,*13]  [El-Annaser]
- 7.WB Aïn Bénian          26  8 10  8 23-21 34
- 8.IB Mouzaïa             25  9  5 11 26-30 32
- 9.ESM Boudouaou          26  8  7 11 24-32 31  [*13]
-10.OM Médéa               26  7  8 11 17-25 29  [*13]
-11.HAC Hydra              26  8  5 13 21-30 29
-12.ES Ben Aknoun          26  6  9 11 25-32 27  [*12]
-13.WA Boufarik            26  7  4 15 23-37 25
-14.ISM Koléa              26  5  7 14 26-40 22
-
-[*12] w/o goals rd 12
-[*13] w/o goals rd 13
-
-Due to reorganisation, the following 5 clubs (at least) were promoted:
-ASOC, NARBR, IRBH, ESG, RCA (now CRBA?)
-
-Groupe Ouest
-
-Round 1 [Sep 24]
-IRBSMB  bt  CCS    [played later]
-CRBEA   3-1 SCMO
-SAM     drw MCS    [played later]
-HBEB    3-0 RCR 
-IRBS    0-0 IRBM
-RCO     1-2 CRT 
-USMBA   1-0 CRBM 
-
-Round 2 [Oct 1]
-IRBSMB  0-2 CRBEA  
-CRT     0-1 CRBM
-IRBM    2-0 USMBA 
-RCR     0-0 IRBS   
-MCS     2-0 HBEB   
-SCMO    1-1 SAM
-CCS     1-0 RCO
-
-Round 3 [Oct 8]
-CRBEA   0-0 CCS
-CRBM    3-2 IRBM
-SAM     drw IRBSMB [played later] 
-HBEB    1-0 SCMO
-RCO     1-0 RCR
-IRBS    4-1 MCS
-USMBA   3-0 CRT
-
-Round 4 [Oct 14]
-IRBSMB  0-2 USMBA
-CRBEA   1-1 SAM
-IRBM    0-0 CRT
-RCR     1-0 CRBM
-MCS     0-1 RCO
-SCMO    2-1 IRBS
-CCS     2-0 HBEB
-
-Round 5 [Oct 22]
-USMBA   1-1 SCMO
-SAM     0-0 CCS
-CRBM    0-0 MCS
-CRT     2-0 RCR
-HBEB    1-1 IRBSMB
-RCO     1-0 IRBM
-IRBS    3-0 CRBEA
-
-Round 6 
-[Oct 28]
-SAM     4-0 RCO
-[Oct 29]
-IRBSMB  2-0 IRBS
-RCR     1-0 IRBM
-MCS     0-1 CRT
-SCMO    1-1 CRBM
-CCS     0-1 USMBA
-CRBEA   bt  HBEB   [played later]
-
-Round 7 [Nov 5]
-CRBM    1-0 IRBSMB
-CRT     2-0 CRBEA
-IRBM    2-0 MCS
-HBEB    drw SAM    [erroneously reported 1-0]
-IRBS    2-0 CCS
-RCO     2-2 SCMO
-USMBA   2-0 RCR
-
-Round 8 [Nov 12]
-IRBSMB  0-1 RCO
-CRBEA   1-2 CRBM
-SAM     1-0 IRBS
-HBEB    0-0 USMBA
-MCS     2-1 RCR
-SCMO    1-2 IRBM
-CCS     0-0 CRT
-
-Round 9 [Nov 19]
-CRBM    0-0 CCS
-CRT     0-1 SAM
-IRBM    0-0 IRBSMB
-RCR     1-0 SCMO
-IRBS    2-1 HBEB
-RCO     1-1 CRBEA
-USMBA   0-0 MCS
-
-Round 10 [Nov 26]
-IRBSMB  0-0 CRT
-CRBEA   1-0 IRBM
-SAM     1-0 CRBM
-HBEB    0-0 RCO
-IRBS    0-0 USMBA
-SCMO    0-0 MCS
-CCS     bt  RCR    [erroneously reported 0-1]
-
-Round 11 [Dec 3]
-CRBM    3-0 HBEB
-CRT     3-0 SCMO
-IRBM    0-2 CCS
-RCR     2-2 IRBSMB
-MCS     3-1 CRBEA
-RCO     1-0 IRBS
-USMBA   1-1 SAM
-
-Round 12 [Dec 10]
-IRBSMB  2-1 MCS
-CRBEA   1-2 RCR   
-SAM     3-0 IRBM
-HBEB    1-2 CRT
-IRBS    1-1 CRBM
-RCO     0-0 USMBA
-CCS     1-0 SCMO
-
-Round 13 [Dec 16]
-CRBM    1-1 RCO
-CRT     2-0 IRBS
-IRBM    bt  HBEB
-RCR     2-2 SAM
-MCS     2-1 CCS
-SCMO    2-0 IRBSMB
-USMBA   3-1 CRBEA
-
-Round 14 [Feb 11]
-CRBM    1-0 USMBA
-CRT     2-1 RCO
-SCMO    4-0 CRBEA
-CCS     4-1 IRBSMB
-MCS     0-0 SAM
-RCR     5-3 HBEB
-IRBM    2-1 IRBS
-
-Round 15 [Feb 14]
-IRBS    0-2 RCR
-CRBEA   2-2 IRBSMB
-CRBM    0-3 CRT
-USMBA   3-0 IRBM
-HBEB    1-1 MCS
-SAM     3-0 SCMO
-RCO     1-1 CCS
-
-Round 16
-SCMO    3-0 HBEB
-CRT     1-0 USMBA
-RCR     1-0 RCO
-MCS     0-0 IRBS
-IRBSMB  1-3 SAM
-CCS     2-1 CRBEA
-IRBM    1-0 CRBM   
-
-Round 17
-RCO     0-1 MCS
-CRT     3-2 IRBM
-HBEB    2-0 CCS
-IRBS    0-1 SCMO
-CRBM    0-0 RCR
-SAM     1-0 CRBEA
-USMBA   4-1 IRBSMB
-
-Round 18
-SCMO    1-0 USMBA
-IRBM    0-1 RCO
-CRBEA   3-1 IRBS
-IRBSMB  1-1 HBEB
-CCS     2-1 SAM
-RCR     1-0 CRT
-MCS     1-0 CRBM
-
-Round 19 [Mar 24]
-CRT     1-0 MCS
-RCO     1-2 SAM
-USMBA   2-1 CCS
-CRBM    1-0 SCMO
-IRBM    1-1 RCR
-HBEB    1-1 CRBEA
-IRBS    2-1 IRBSMB
-
-Round 20
-[Apr 6]
-SAM     3-1 HBEB
-[Apr 7]
-SCMO    2-1 RCO
-RCR     1-1 USMBA
-CCS     1-0 IRBS
-MCS     1-1 IRBM
-CRBEA   1-4 CRT
-IRBSMB  2-1 CRBM
-
-Round 21 [Apr 20]
-CRT     1-1 CCS
-RCO     0-1 IRBSMB
-IRBM    2-1 SCMO
-RCR     0-0 MCS
-USMBA   5-0 HBEB
-IRBS    1-1 SAM
-CRBM    1-0 CRBEA
-
-Round 22 [Apr 20]
-SAM     1-0 CRT
-IRBSMB  1-0 IRBM
-SCMO    1-2 RCR
-CCS     4-1 CRBM
-HBEB    0-1 IRBS
-CRBEA   0-0 RCO
-MCS     1-0 USMBA
-
-Round 23
-CRT     3-0 IRBSMB
-RCO     1-1 HBEB
-IRBM    1-0 CRBEA
-RCR     3-0 CCS
-USMBA   2-0 IRBS
-MCS     1-1 SCMO
-CRBM    0-1 SAM
-
-Round 24
-SAM     2-1 USMBA
-CCS     3-1 IRBM
-SCMO    1-1 CRT
-CRBEA   0-3 MCS
-IRBSMB  2-2 RCR
-IRBS    0-0 RCO
-HBEB    2-2 CRBM
-
-Round 25
-RCR     5-0 CRBEA
-CRBM    1-0 IRBS
-SCMO    1-1 CCS
-CRT     ppd HBEB
-USMBA   4-0 RCO
-IRBM    1-1 SAM
-MCS     4-1 IRBSMB
-
-Round 26
-SAM     1-1 RCR
-RCO     0-0 CRBM
-CRBEA   0-2 USMBA
-IRBSMB  abd SCMO        [abandoned at 1-3]
-HBEB    0-1 IRBM
-IRBS    0-0 CRT
-CCS     1-1 MCS
-
-Table:
-
- 1.SA Mohammadia          26 13 12  1 35-14 51  [*1,*3,*7] 
- 2.CR Témouchent          25 14  6  5 33-15 48
- 3.USM Bel-Abbès          26 13  7  6 38-14 46
- 4.RC Relizane            26 11  9  6 34-24 42  [*10]
- 5.CC Sig                 26 11  8  7 28-21 41  [40?] [*1,*10] 
- 6.MC Saïda               26  9 11  6 25-19 38  [*1]  
- 7.CRB Mazouna            26  9  8  9 21-23 35
- 8.IRB Maghnia            26  9  6 11 21-28 33  [*13]
- 9.SCM Oran               25  7  8 10 27-29 29
-10.RC Oran                26  6 10 10 16-26 28
-11.IRB Sougueur           26  6  8 12 19-25 26
-12.IRB SM Ben Ali         25  6  8 11 21-38 26  [*1,*3] [SM = Sidi M'hamed]
-13.CRB El-Amiria          26  5  6 15 20-45 21  [19?] [*6] 
-14.HB El-Bordj            25  3  9 13 19-36 18  [*6,*7,*13] 
-
-[*1] w/o goals round 1
-[*3] w/o goals round 3
-[*6] w/o goals round 6
-[*7] w/o goals round 7
-[*10] w/o goals round 10
-[*13] w/o goals round 13
-
-Due to reorganisation, the following 5 clubs (at least) were promoted:
-SAM, CRT, USMBA, RCR, CCS
-
-Groupe Sud-Est
-
-Round 1 [Oct 22]
-CRSN    1-0 NRBT
-IRBN    0-0 IRON
-MBR     0-0 IRBL
-NRBB    1-1 MCM
-
-Round 2 [Oct 29]
-NRBT    lt  IRBN
-IRBL    drw CRSN
-IRON    bt  NRBB
-MCM     drw MBR
-
-Round 3 [Nov 5]
-NRBT    0-0 IRBL
-NRBB    2-0 IRBN
-CRSN    1-1 MCM
-MBR     1-2 IRON
-
-Round 4 [Nov 19]
-NRBB    1-0 NRBT
-MCM     1-0 IRBL
-IRBN    1-0 MBR
-IRON    1-1 CRSN
-
-Round 5 [Nov 26]
-NRBT    1-3 MCM
-MBR     3-1 NRBB    
-IRBL    0-6 IRON
-CRSN    2-2 IRBN
-
-Round 6 [Dec 3]
-MBR     2-1 NRBT
-IRON    1-2 MCM
-NRBB    1-0 CRSN
-IRBN    3-0 IRBL
-
-Round 7 [Dec 16]
-NRBT    0-2 IRON
-CRSN    2-0 MBR
-MCM     4-2 IRBN
-IRBL    2-1 NRBB
-
-Table (w/o goals rd 2):
-
- 1.MC Mekhadma             7  4  3  0 12- 6 15
- 2.IR Ouled Naïl           7  4  2  1 12- 4 14
- 3.IRB Nezla               7  3  2  2  8- 8 11
- 4.CR Sidi Naïl            7  2  4  1  7- 5 10
- 5.NRB Berriane            7  3  1  3  7- 6 10
- 6.MB Rouissat             7  2  2  3  6- 7  8
- 7.IRB Laghouat            7  1  3  3  2-11  6
- 8.NRB Touggourt           7  0  1  6  2- 9  1 
-
-Eventual group winners: MC Mekhadma
-
-Groupe Sud-Ouest
-
-Round 1 [Oct 22]
-MCEB    bt  WRBA
-CRBM    bt  ESHB
-ESB     drw CRBAS
-CRBB    bt  USBD
-
-Round 2 [Oct 29]
-WRBA    lt  CRBM 
-CRBAS   lt  MCEB 
-ESHB    lt  CRBB  
-USBD    bt  ESB   
-
-Round 3 [Nov 5]
-WRBA    1-1 CRBAS
-CRBB    1-1 CRBM
-MCEB    0-1 USBD
-ESB     2-1 ESHB
-
-Round 4 [Nov 19]
-CRBB    bt  WRBA
-USBD    bt  CRBAS
-CRBM    1-0 ESB
-ESHB    drw MCEB
-
-Round 5 [Nov 26]
-WRBA    1-2 USBD
-ESB     3-0 CRBB
-CRBAS   2-2 ESHB
-MCEB    0-1 CRBM
-
-Round 6 [Dec 3]
-ESB     4-0 WRBA
-ESHB    1-1 USBD
-CRBB    0-4 MCEB
-CRBM    2-0 CRBAS
-
-Round 7 [Dec 16]
-MCEB     -  ESB
-USBD     -  CRBM
-CRBAS    -  CRBB
-WRBA    ppd ESHB
-
-Table (w/o goals rds 1,2,4 (except CRBM-ESB)):
-
- 1.CRB Mecheria            6  5  1  0  5- 1 16
- 2.US Béchar Djedida       6  4  1  1  4- 2 13  
- 3.ES Bechar               6  3  1  2  9- 2 10
- 4.MC El Bayadh            6  3  1  2  4- 2 10 
- 5.CRB Bougtob             6  3  1  2  1- 8 10  
- 6.ESH Bayadh              6  0  3  3  4- 5  3 
- 7.CRB Aïn-Safra           6  0  3  3  3- 5  3
- 8.WRB Aoulef              6  0  1  5  2- 7  1
-´
-Eventual group winners: MC El Bayadh        
-
-Group Sud Final [May 11]
-MCEB    2-1 MCM
-
-MCEB promoted   
-
-Due to reorganisation, also MCM were promoted.
-
-Apparently also IR Ouled Naïl (as IRON Djelfa) obtained a spot in the Division 
-Une (2nd level) 2000/01.
-
-Two more clubs to enter the 2nd level 2000/01 are to be selected.
-
-
-1998/99.
-
-
-2000/01.
-
-
-list of champions.
-
-
-list of cup finals.
-
-
-About this document
-
-With thanks to Ian King and Ahmed Laïdi
-
-Prepared and maintained by Hamid Brioua for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Hamid Brioua (H.Brioua@open.ac.uk) 
-Last updated: 14 Feb 2007
-
-(C) Copyright Hamid Brioua and RSSSF 1999/2007
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*With thanks to Ian King and Ahmed Laïdi
+*Prepared and maintained by Hamid Brioua for the Rec.Sport.Soccer Statistics Foundation
+*Author: Hamid Brioua (H.Brioua@open.ac.uk) 
+*Last updated: 14 Feb 2007
+*(C) Copyright Hamid Brioua and RSSSF 1999/2007
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

@@ -1,38 +1,32 @@
-http://www.rsssf.com/tablesa/alg98.html
+BlockSource: http://www.rsssf.com/tablesa/alg98.html
+Season: 1997-1998
 
-Algeria 1997/98
+*[Season only started on Jan 1, 1998.]
 
+*Group A:
+* 1.USM El Harrach  14  6  7  3 17- 7 25  Championship Playoff
+* 2.CS Constantine  14  7  4  3 16-11 24  Third Place Playoff  [*]
+* 3.WA Tlemcen      14  6  3  5 17-12 21
+* 4.MC Oran         14  5  3  6 20-19 18
+* 5.CA Batna        14  4  6  4 14-14 18
+* 6.CR Belouizdad   14  5  2  7 17-19 17
+* 7.MO Constantine  14  4  3  7 11-19 15  Relegation Playoff
+* 8.US Chaouia      14  2  6  6  9-18 12  Relegated
+*
+*[*] apparently CSC have one point deducted, possibly for refusing to play
+*    in round 1
 
-[Season only started on Jan 1, 1998.]
+*Group B:
+* 1.USM Alger       14  6  7  1 16-10 25  Championship Playoff
+* 2.JS Kabylie      14  6  4  4 14-11 22  Third Place Playoff
+* 3.ES Mostaganem   14  6  3  5 20-16 21
+* 4.ES Sétif        14  4  6  4 15-15 18
+* 5.MC Alger        14  3  7  4  8-11 16
+* 6.AS Ain M'Lila   14  2  9  3  8-11 15
+* 7.WA Boufarik     14  1  9  4  8-11 12  Relegation Playoff
+* 8.USM Blida       14  1  9  4  9-13 12  Relegation Playoff
 
-Tables:
-
-Group A:
-
- 1.USM El Harrach  14  6  7  3 17- 7 25  Championship Playoff
- 2.CS Constantine  14  7  4  3 16-11 24  Third Place Playoff  [*]
- 3.WA Tlemcen      14  6  3  5 17-12 21
- 4.MC Oran         14  5  3  6 20-19 18
- 5.CA Batna        14  4  6  4 14-14 18
- 6.CR Belouizdad   14  5  2  7 17-19 17
- 7.MO Constantine  14  4  3  7 11-19 15  Relegation Playoff
- 8.US Chaouia      14  2  6  6  9-18 12  Relegated
-
-[*] apparently CSC have one point deducted, possibly for refusing to play
-    in round 1
-
-Group B:
-
- 1.USM Alger       14  6  7  1 16-10 25  Championship Playoff
- 2.JS Kabylie      14  6  4  4 14-11 22  Third Place Playoff
- 3.ES Mostaganem   14  6  3  5 20-16 21
- 4.ES Sétif        14  4  6  4 15-15 18
- 5.MC Alger        14  3  7  4  8-11 16
- 6.AS Ain M'Lila   14  2  9  3  8-11 15
- 7.WA Boufarik     14  1  9  4  8-11 12  Relegation Playoff
- 8.USM Blida       14  1  9  4  9-13 12  Relegation Playoff
-
-Round 1 [Jan 1]
+Round: 1 [Jan 1]
 Group A
 CAB   2-0 CRB
 USC   0-0 MCO
@@ -44,7 +38,7 @@ USMB  0-1 ESM
 WAB   1-0 JSK
 USMA  0-0 MCA
 
-Round 2 [Jan 8]
+Round: 2 [Jan 8]
 Group A
 WAT   2-0 CAB
 CRB   2-0 USC   
@@ -56,7 +50,7 @@ ASAM  0-0 USMB
 ESM   2-1 WAB
 MCA   1-1 JSK
 
-Round 3 [Jan 15]
+Round: 3 [Jan 15]
 Group A
 USC   0-0 WAT
 CSC   2-1 CRB
@@ -68,7 +62,7 @@ WAB   0-0 ASAM
 JSK   2-0 ESM
 ESS   2-1 MCA
 
-Round 4 [Jan 22]
+Round: 4 [Jan 22]
 Group A
 CAB   1-1 USC
 WAT   0-1 CSC
@@ -80,7 +74,7 @@ USMA  3-2 WAB
 ASAM  1-1 JSK
 MCA   1-0 ESM
 
-Round 5
+Round: 5
 Group A
 CSC   2-0 CAB    
 MOC   1-1 WAT   
@@ -92,7 +86,7 @@ JSK   0-0 USMA
 ESM   1-1 ASAM 
 USMB  1-1 MCA 
 
-Round 6 [Mar 5,6]
+Round: 6 [Mar 5,6]
 Group A
 USC   1-1 CSC
 CAB   0-0 MOC
@@ -104,7 +98,7 @@ ESS   2-0 JSK
 USMA  3-2 ESM
 MCA   0-0 ASAM
 
-Round 7 
+Round: 7 
 Group A
 MOC   1-0 USC
 MCO   5-2 CAB  
@@ -116,7 +110,7 @@ ESM   2-2 ESS
 ASAM  1-1 USMA 
 WAB   0-1 MCA   
 
-Round 8
+Round: 8
 Group A
 CRB   0-0 CAB
 MOC   awd CSC   [awarded 0-3, originally 0-0]
@@ -128,7 +122,7 @@ MCA   0-1 USMA
 JSK   1-0 WAB
 ASAM  2-1 ESS
 
-Round 9
+Round: 9
 Group A
 CAB   0-0 WAT  
 USC   2-1 CRB
@@ -140,7 +134,7 @@ USMB  0-0 ASAM
 WAB   1-1 ESM
 JSK   3-0 MCA   
 
-Round 10
+Round: 10
 Group A
 CRB   1-0 CSC
 USMH  3-0 CAB
@@ -152,7 +146,7 @@ USMA  1-1 USMB  [played later]
 ASAM  1-1 WAB
 ESM   2-1 JSK
 
-Round 11
+Round: 11
 Group A
 USC   awd CAB   [awarded 0-3 because of ineligible player USC, originally 1-0]
 CSC   2-1 WAT
@@ -164,7 +158,7 @@ WAB   0-0 USMA
 ESM   3-1 MCA 
 JSK   2-0 ASAM  
 
-Round 12 [May 21,22]
+Round: 12 [May 21,22]
 Group A
 CRB   4-2 MCO
 CAB   1-1 CSC
@@ -176,7 +170,7 @@ MCA   2-0 USMB
 ASAM  1-0 ESM
 ESS   0-0 WAB
 
-Round 13 [May 28,29]
+Round: 13 [May 28,29]
 Group A
 CRB   0-2 USMH
 MOC   0-2 CAB
@@ -188,7 +182,7 @@ JSK   2-1 ESS
 ESM   2-0 USMA
 ASAM  0-0 MCA
 
-Round 14 [Jun 11,12]
+Round: 14 [Jun 11,12]
 Group A
 WAT   5-0 CRB
 USC   1-0 MOC
@@ -277,90 +271,9 @@ played at stade 5 Juillet, Algiers
 referee: Haomoudi linesmen: Kerao, Abdellah
 
 
-Second Level
-
-[all tables after 29 from 30 rounds]
-
-Group Est
-
- 1.AS Bordj Bou Arréidj 56  Promoted
- 2.JSM Tébessa          53  Promoted
-   JSM Béjaïa           53  Promoted
- 4.USM Annaba           50  Promoted
---------------------------
- 5.MB Tlydjen           44
- 6.HBC Laïd             40
-   MSP Batna            40 
-   US Biskra            40
- 9.IRB Khenchela        39
-   IRB el Hadjar        39
-11.MC El Eulma          38
-12.USM Aïn Beda         36
-13.E Collo              35
-14.CB Mila              34 
-15.JJ Azzaba            32 
-16.ES Guelma            19
-
-Group Centre
-
- 1.RC Kouba             60  Promoted
- 2.NA Hussein Dey       58  Promoted
- 3.ES Guelma            44   [ES Sour El Ghozlane?]
- 4.IRB Hadjout          40  Promoted
---------------------------
-   JSB Ménaïel          40
- 6.ASO Chef             38
-   OMR El-Annasser      38
- 8.OM Médéa             36
-   RC Mizab             36
-   RC Arbaa             36 
-   ES Berrouaghia       36 
-12.MCKhemis el Khechna  35 
-13.IR Ouled Naïl        34
-14.SKAF El-Khemis       33 
-15.Hydra AC             32 
-16.ESM Boudouaou        27
-
-Group Ouest
-
- 1.SA Mohammedia        56  Promoted
- 2.GC Mascara           50  Promoted
- 3.MC Saöda             44
- 4.ASM Oran             42  Promoted
- 5.CRB Mecheria         41 
-   JSM Tiaret           41  Promoted
- 7.SCM Oran             40
- 8.USM Bel Abbes        38 
-   WA Mostaganem        38 
-10.CR Témouchent        36
-   RC Relizane          36 
-12.CRB Mazouna          35
-   IRB Sougueur         35 
-14.CC Sig               34
-   IRM Bechar           34 
-16.CRB Bougtob          27
-
-
-1996/97.
-
-
-1998/99.
-
-
-list of champions.
-
-
-list of cup finals.
-
-
-About this document
-
-Thanks to Eric Boesenberg, Hamid Brioua, Mikael Jönsson and Ian King
-
-Prepared and maintained by the RSSSF
-
-Author: RSSSF (rsssf-request@isfa2.com)
-Last updated: 23 Sep 1999
-
-(C) Copyright RSSSF 1999
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the RSSSF. All rights reserved.
+*Thanks to Eric Boesenberg, Hamid Brioua, Mikael Jönsson and Ian King
+*Prepared and maintained by the RSSSF
+*Author: RSSSF (rsssf-request@isfa2.com)
+*Last updated: 23 Sep 1999
+*(C) Copyright RSSSF 1999
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the RSSSF. All rights reserved.

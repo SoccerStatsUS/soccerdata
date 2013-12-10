@@ -1,36 +1,25 @@
 BlockSource: http://www.rsssf.com/tablesr/rus06.html
+Season: 2006
 
-Russia 2006
+* 1.CSKA Moskva                30  17  7  6  47-28  58  Champions
+* 2.Spartak Moskva             30  15 13  2  60-36  58  Champions League (Qualif. Round 3)
+* 3.Lokomotiv Moskva           30  15  8  7  47-34  53  UEFA Cup (Qualif. Round 2)
+* 4.Zenit Sankt-Peterburg      30  13 11  6  42-30  50
+* 5.Rubin Kazan                30  13  7 10  43-37  46
+* 6.FK Moskva                  30  10 13  7  41-37  43
+* 7.Luch-Energiya Vladivostok  30  12  5 13  37-39  41  [+]
+* 8.Tom Tomsk                  30  11  8 11  35-33  41
+* 9.Spartak Nalchik            30  11  8 11  33-32  41  [+]
+*10.Krylya Sovetov Samara      30  10  8 12  37-35  38
+*11.Saturn Moskovskaya Oblast  30   7 16  7  29-24  37
+*12.FK Rostov                  30  10  6 14  42-48  36
+*13.Amkar Perm                 30   8 11 11  22-36  35
+*14.Dinamo Moskva              30   8 10 12  31-40  34
+*-----------------------------------------------------
+*15.Torpedo Moskva             30   3 13 14  22-40  22  Relegated
+*16.Shinnik Yaroslavl          30   1  8 21  17-56  11  Relegated
 
-
-Match Details
-Squad Lists
-
-2nd level | 3rd level | 4th level | 5th level
-
-Russian Football Premier League
-
-Final Table:
-
- 1.CSKA Moskva                30  17  7  6  47-28  58  Champions
- 2.Spartak Moskva             30  15 13  2  60-36  58  Champions League (Qualif. Round 3)
- 3.Lokomotiv Moskva           30  15  8  7  47-34  53  UEFA Cup (Qualif. Round 2)
- 4.Zenit Sankt-Peterburg      30  13 11  6  42-30  50
- 5.Rubin Kazan                30  13  7 10  43-37  46
- 6.FK Moskva                  30  10 13  7  41-37  43
- 7.Luch-Energiya Vladivostok  30  12  5 13  37-39  41  [+]
- 8.Tom Tomsk                  30  11  8 11  35-33  41
- 9.Spartak Nalchik            30  11  8 11  33-32  41  [+]
-10.Krylya Sovetov Samara      30  10  8 12  37-35  38
-11.Saturn Moskovskaya Oblast  30   7 16  7  29-24  37
-12.FK Rostov                  30  10  6 14  42-48  36
-13.Amkar Perm                 30   8 11 11  22-36  35
-14.Dinamo Moskva              30   8 10 12  31-40  34
------------------------------------------------------
-15.Torpedo Moskva             30   3 13 14  22-40  22  Relegated
-16.Shinnik Yaroslavl          30   1  8 21  17-56  11  Relegated
-
-Round 1 [Total Att: 85,323; Average: 10,665]
+Round: 1 [Total Att: 85,323; Average: 10,665]
 [Mar 17] 
 Moskva    1-0 Amkar     
   [Dmitriy Kirichenko 56 pen. Att: 3,000]
@@ -51,7 +40,7 @@ Rubin     2-1 Rostov
 Zenit     1-1 Saturn    
   [Robertas Poškus 75 - Branislav Obžera 28. Att: 20,000]
 
-Round 2 [Total Att: 110,000; Average: 13,750]
+Round: 2 [Total Att: 110,000; Average: 13,750]
 [Mar 26] 
 CSKA      5-1 Shinnik   
   [Sergei Ignashevich 11, Jô Alves 49, 58, 80 pen, 85 - Anton Khazov 31. Att: 9,000]
@@ -71,7 +60,7 @@ Spartak N 2-2 Spartak M
 Krylya S  0-0 Rubin     
   [Att: 24,000]
 
-Round 3 [Total Att: 120,000; Average: 15,000]
+Round: 3 [Total Att: 120,000; Average: 15,000]
 [Mar 31] 
 Torpedo   0-0 Amkar     
   [Att: 3,000]
@@ -93,7 +82,7 @@ Lokomotiv 2-3 Spartak N
 Zenit     1-1 Rostov    
   [Erik Hagen 37 - Essau Kanyenda 52. Att: 17,000]
 
-Round 4 [Total Att: 120,000; Average: 15,000]
+Round: 4 [Total Att: 120,000; Average: 15,000]
 [Apr 8] 
 CSKA      2-0 Tom       
   [Jô Alves 20, 41 pen. Att: 9,200]
@@ -116,7 +105,7 @@ Spartak N 3-1 Rubin
   [Ngasanya Ilongo 19, Eduard Korchagin 58, 
    Andriy Poroshyn 85 - Dmitriy Vasilyev I 39. Att: 14,200]
 
-Round 5 [Total Att: 108,723; Average: 13,590]
+Round: 5 [Total Att: 108,723; Average: 13,590]
 [Apr 15] 
 Zenit     3-1 Luch-Ener 
   [Aleksandr Kerzhakov 12, Oleg Vlasov 66, Andrei Arshavin 71 - 
@@ -139,7 +128,7 @@ Tom       0-0 Saturn
 Dinamo    0-1 Rostov    
   [Maksym Biletskyi 36. Att: 6,000]
 
-Round 6   [Total Att: 109,938; Average: 13,742]
+Round: 6   [Total Att: 109,938; Average: 13,742]
 [Apr 22] 
 CSKA      1-0 Saturn    
   [Jô Alves 12. Att: 10,000]
@@ -161,7 +150,7 @@ Krylya S  1-0 Dinamo
 Spartak N 1-1 Zenit     
   [Andriy Poroshyn 82 - Aleksandr Kerzhakov 63. Att: 14,500]
 
-Round 7 [Total Att: 101,950; Average: 12,744]
+Round: 7 [Total Att: 101,950; Average: 12,744]
 [Apr 29] 
 Rubin     1-0 CSKA      
   [Aleksandr Bukharov 34. Att: 25,000]
@@ -182,7 +171,7 @@ Tom       3-1 Rostov
 Saturn    0-0 Amkar     
   [Att: 12,250]   
 
-Round 8 [Total Att: 112,723; Average: 14,090]
+Round: 8 [Total Att: 112,723; Average: 14,090]
 [May 6] 
 CSKA      2-0 Amkar     
   [Jô Alves 12, 75. Att: 8,500]
@@ -204,7 +193,7 @@ Luch-Ener 1-0 Shinnik
 Spartak N 1-0 Dinamo    
   [Sergei Serdyukov 84. Att: 14,200]
 
-Round 9 [Total Att: 105,200; Average: 13,150]
+Round: 9 [Total Att: 105,200; Average: 13,150]
 [May 13] 
 Shinnik   0-1 Spartak N 
   [Vital Lanko 24. Att: 9,400]
@@ -226,7 +215,7 @@ Saturn    1-1 Krylya S
 Dinamo    0-0 Spartak M 
   [Att: 20,000]
 
-Round 28 [Total Att: 111,323; Average: 13,915] [moved from Nov 12,13]
+Round: 28 [Total Att: 111,323; Average: 13,915] [moved from Nov 12,13]
 [Jul 5]
 Moskva    4-1 Shinnik   
   [Oleg Kuzmin 1, Dmitriy Kirichenko 57, 71 pen, Sergei Semak 89 - Marek Bakoš 73. Att: 1,500]
@@ -247,7 +236,7 @@ Spartak M 4-1 Amkar
 Rubin     2-0 Tom       
   [Orlando Calisto 42, Alejandro Domínguez 78. Att: 11,500]
 
-Round 10 [Total Att: 89,728; Average: 11,216]
+Round: 10 [Total Att: 89,728; Average: 11,216]
 [Jul 10] 
 CSKA      1-2 Rostov    
   [Jô Alves 31 pen - Aleksandr Dantsev 15, Spartak Gogniyev 62. Att: 6,000]
@@ -270,7 +259,7 @@ Luch-Ener 2-0 Saturn
 Spartak N 1-0 Tom       
   [Vital Lanko 50. Att: 14,200]
 
-Round 11 [Total Att: 83,700; Average: 10,463]
+Round: 11 [Total Att: 83,700; Average: 10,463]
 [Jul 16] 
 Shinnik   1-3 Lokomotiv 
   [Aleksandre Amisulashvili 15 - Garry O'Connor 3, Dmitriy Loskov 23, 84. Att: 12,000]
@@ -294,7 +283,7 @@ Dinamo    2-2 Rubin
   [Dmitriy Kombarov 31, Igor Semshov 44 - 
    Dermival Bahiano 17, Andrés Scotti 70. Att: 5,000]
 
-Round 12 [Total Att: 88,225; Average: 11,028]
+Round: 12 [Total Att: 88,225; Average: 11,028]
 [Jul 21] 
 Spartak M 1-1 Saturn    
   [Martin Jiránek 78 - Aleksei Yeryomenko 87. Att: 10,000]
@@ -320,7 +309,7 @@ Moskva    1-1 Dinamo
 Rubin     0-0 Shinnik   
   [Att: 10,200]
 
-Round 13 [Total Att: 104,000; Average: 13,000]
+Round: 13 [Total Att: 104,000; Average: 13,000]
 [Jul 29] 
 Torpedo   2-2 CSKA      
   [Sergei Budylin 22, Lubomir Kantonistov 82 - 
@@ -344,7 +333,7 @@ Krylya S  2-1 Luch-Ener
 Rostov    2-1 Spartak N 
   [Mikhail Osinov 29, 51 - Andriy Poroshyn 17. Att: 9,000]
 
-Round 14 [Total Att: 78,508; Average: 9,814]
+Round: 14 [Total Att: 78,508; Average: 9,814]
 [Aug 3]
 CSKA      2-1 Luch-Ener 
   [Miloš Krasić 16, Ivica Olić 69 - 
@@ -368,7 +357,7 @@ Zenit     1-0 Shinnik
 Spartak N 1-1 Krylya S  
   [Gogita Gogua 43 - Matthew Booth 10. Att: 14,200]
 
-Round 15 [Total Att: 94,850; Average: 11,856]
+Round: 15 [Total Att: 94,850; Average: 11,856]
 [Aug 12] 
 Tom       2-2 Zenit     
   [Valeriy Klimov 11, Pavel Pogrebnyak 90 - 
@@ -390,7 +379,7 @@ Rostov    1-2 Lokomotiv
 Luch-Ener 1-0 Spartak N 
   [Beslan Ajinjal 86 pen. Att: 9,650]
 
-Round 16 [Total Att: 100,300; Average: 12,538]
+Round: 16 [Total Att: 100,300; Average: 12,538]
 [Aug 19] 
 CSKA      2-1 Spartak N 
   [Jô Alves 79, Vágner Love 83 - Roman Kontsedalov 43. Att: 7,000]
@@ -410,7 +399,7 @@ Amkar     2-2 Moskva
 Rostov    2-1 Rubin     
   [Mikhail Osinov 11 pen, Tsimafei Kalachou 28 - Alejandro Domínguez 37 pen. Att: 8,500]
 
-Round 17 [Total Att: 85,223; Average: 10,653]
+Round: 17 [Total Att: 85,223; Average: 10,653]
 [Aug 26] 
 Torpedo   0-3 Saturn    
   [Igor Lebedenko 39, Edgaras Česnauskis 67, Aleksei Yeryomenko 90+2. Att: 4,000]
@@ -432,7 +421,7 @@ Rubin     2-1 Krylya S
 Zenit     2-0 Amkar     
   [Fatih Tekke 28, Ivan Cherenchikov(A) 67 og. Att: 19,500]
 
-Round 18 [Total Att: 122,100; Average: 15,263]
+Round: 18 [Total Att: 122,100; Average: 15,263]
 [Sep 9] 
 CSKA      2-2 Spartak M 
   [Daniel Carvalho 27, Ivica Olić 63 - 
@@ -456,7 +445,7 @@ Tom       3-1 Shinnik
 Luch-Ener 2-1 Rubin     
   [Dmitriy A. Smirnov 7, 37 - Lenar Gilmullin 79. Att: 9,300]   
 
-Round 19 [Total Att: 102,023; Average: 12,753]
+Round: 19 [Total Att: 102,023; Average: 12,753]
 [Sep 16] 
 Torpedo   0-2 Rostov    
   [Maksim Burchenko 51, Andrei Bochkov 82. Att: 5,000]
@@ -476,7 +465,7 @@ Dinamo    0-0 Amkar
 Tom       0-1 CSKA      
   [Ivica Olić 53. Att: 15,000]
 
-Round 20 [Total Att: 100,382; Average: 12,548]
+Round: 20 [Total Att: 100,382; Average: 12,548]
 [Sep 23] 
 CSKA      1-2 Lokomotiv 
   [Dudu Cearense 36 - Dmitriy Sychov 20, Marat Izmailov 39. Att: 17,000]
@@ -497,7 +486,7 @@ Spartak N 2-2 Moskva
   [Serhiy Pylypchuk 58, Mario Jurić 81 - Dmitriy Kirichenko 22, 83. Att: 14,200]
 
 
-Round 21 [Total Att: 78,500; Average: 9,813]
+Round: 21 [Total Att: 78,500; Average: 9,813]
 [Sep 30] 
 Shinnik   1-6 Rostov    
   [Yuriy Mamayev 32 - Essau Kanyenda 9, 66, Omar Pérez 12, Mikhail Osinov 60, 
@@ -524,7 +513,7 @@ Rubin     2-4 Lokomotiv
 Torpedo   2-1 Luch-Ener 
   [Dmitriy Golubov 20, Đorđe Jokić 85 - Beslan Ajinjal 56 pen. Att: 2,000]
 
-Round 22 [Total Att: 126,023; Average: 15,753]
+Round: 22 [Total Att: 126,023; Average: 15,753]
 [Oct 14] 
 CSKA      2-1 Rubin     
   [Yuriy Zhirkov 67, Dudu Cearense 71 - Slim Ben Achour 34. Att: 6,500]
@@ -545,7 +534,7 @@ Rostov    2-1 Tom
 Krylya S  2-0 Shinnik   
   [Mahach Gajiyev 23, Florin Şoavă 85. Att: 15,000]
 
-Round 23 [Total Att: 78,950; Average: 9,869]
+Round: 23 [Total Att: 78,950; Average: 9,869]
 [Oct 20] 
 Dinamo    1-0 Spartak N 
   [Dmitriy Khokhlov 70. Att: 4,000]
@@ -568,7 +557,7 @@ Zenit     4-1 Lokomotiv
 Tom       2-1 Krylya S  
   [Pavel Pogrebnyak 50 pen, 52 - Anton Bobyor 7. Att: 9,000]
 
-Round 24 [Total Att: 104,973; Average: 13,122]
+Round: 24 [Total Att: 104,973; Average: 13,122]
 [Oct 24] 
 Spartak N 2-1 Shinnik   
   [Roman Kontsedalov 77, Ruslan Mostovoi 81 - Syarhei Amelyanchuk 85. Att: 10,200]
@@ -589,7 +578,7 @@ Spartak M 3-2 Dinamo
 Lokomotiv 0-0 Torpedo   
   [Att: 9,973]
 
-Round 25 [Total Att: 93,400; Average: 11,675]
+Round: 25 [Total Att: 93,400; Average: 11,675]
 [Oct 28] 
 Shinnik   1-1 Spartak M 
   [Syarhei Amelyanchuk 90+2 - Roman Pavlyuchenko 7. Att: 16,000]
@@ -611,7 +600,7 @@ Amkar     1-0 Krylya S
 Tom       1-0 Spartak N 
   [Aleksei Bugayev 79. Missed PK: Pavel Pogrebnyak(T) 22 (post). Att: 9,000]
 
-Round 26 [Total Att: 85,000; Average: 10,625]
+Round: 26 [Total Att: 85,000; Average: 10,625]
 [Nov 4]
 Torpedo   0-2 Moskva    
   [Dmitriy Kirichenko 55, Pyotr Bystrov 69. 
@@ -633,7 +622,7 @@ Rubin     0-1 Dinamo
 Spartak N 2-0 Saturn    
   [Serhiy Pylypchuk 70, Andriy Poroshyn 90+3. Att: 10,500]
 
-Round 27 [Nov 8. Total Att: 77,500; Average: 9,688]
+Round: 27 [Nov 8. Total Att: 77,500; Average: 9,688]
 Rostov    1-0 Luch-Ener 
   [Mikhail Osinov 48. Att: 4,300]
 Tom       3-1 Lokomotiv 
@@ -654,7 +643,7 @@ Saturn    1-1 Spartak M
   [Igor Lebedenko 90+2 - Maksym Kalynychenko 85. Att: 16,500]
 
 
-Round 29 [Nov 18. Total Att: 74,700; Average: 9,338]
+Round: 29 [Nov 18. Total Att: 74,700; Average: 9,338]
 Dinamo    2-1 Torpedo   
   [Igor Semshov 29, Enar Jääger(T) 60 og - Đorđe Jokić 70. Att: 7,000]
 Shinnik   1-2 Zenit     
@@ -674,7 +663,7 @@ Krylya S  1-2 Spartak N
 Luch-Ener 0-4 CSKA      
   [Daniel Carvalho 15, Vágner Love 25, 49, 62. Att: 10,200]
 
-Round 30 [Total Att: 95,731; Average: 11,966]
+Round: 30 [Total Att: 95,731; Average: 11,966]
 [Nov 25]
 Torpedo   1-1 Shinnik   
   [Pavel Mamayev 45+2 pen - Marek Bakoš 43. Att: 1,500]
@@ -695,28 +684,27 @@ Krylya S  0-1 Spartak M
 Spartak N 0-0 Luch-Ener 
   [Att: 14,000]
 
-Final Table:
 
- 1.CSKA Moskva                30  17  7  6  47-28  58  Champions
- 2.Spartak Moskva             30  15 13  2  60-36  58  Champions League (Qualif. Round 3)
- 3.Lokomotiv Moskva           30  15  8  7  47-34  53  UEFA Cup (Qualif. Round 2)
- 4.Zenit Sankt-Peterburg      30  13 11  6  42-30  50
- 5.Rubin Kazan                30  13  7 10  43-37  46
- 6.FK Moskva                  30  10 13  7  41-37  43
- 7.Luch-Energiya Vladivostok  30  12  5 13  37-39  41  [+]
- 8.Tom Tomsk                  30  11  8 11  35-33  41
- 9.Spartak Nalchik            30  11  8 11  33-32  41  [+]
-10.Krylya Sovetov Samara      30  10  8 12  37-35  38
-11.Saturn Moskovskaya Oblast  30   7 16  7  29-24  37
-12.FK Rostov                  30  10  6 14  42-48  36
-13.Amkar Perm                 30   8 11 11  22-36  35
-14.Dinamo Moskva              30   8 10 12  31-40  34
------------------------------------------------------
-15.Torpedo Moskva             30   3 13 14  22-40  22  Relegated
-16.Shinnik Yaroslavl          30   1  8 21  17-56  11  Relegated
-
-NB: First ever relegation of Torpedo since 1938.
-    2007 championship to start March 11, finish November 11
+* 1.CSKA Moskva                30  17  7  6  47-28  58  Champions
+* 2.Spartak Moskva             30  15 13  2  60-36  58  Champions League (Qualif. Round: 3)
+* 3.Lokomotiv Moskva           30  15  8  7  47-34  53  UEFA Cup (Qualif. Round: 2)
+* 4.Zenit Sankt-Peterburg      30  13 11  6  42-30  50
+* 5.Rubin Kazan                30  13  7 10  43-37  46
+* 6.FK Moskva                  30  10 13  7  41-37  43
+* 7.Luch-Energiya Vladivostok  30  12  5 13  37-39  41  [+]
+* 8.Tom Tomsk                  30  11  8 11  35-33  41
+* 9.Spartak Nalchik            30  11  8 11  33-32  41  [+]
+*10.Krylya Sovetov Samara      30  10  8 12  37-35  38
+*11.Saturn Moskovskaya Oblast  30   7 16  7  29-24  37
+*12.FK Rostov                  30  10  6 14  42-48  36
+*13.Amkar Perm                 30   8 11 11  22-36  35
+*14.Dinamo Moskva              30   8 10 12  31-40  34
+*-----------------------------------------------------
+*15.Torpedo Moskva             30   3 13 14  22-40  22  Relegated
+*16.Shinnik Yaroslavl          30   1  8 21  17-56  11  Relegated
+*
+*NB: First ever relegation of Torpedo since 1938.
+*    2007 championship to start March 11, finish November 11
 
 Total goals scored: 585
 Average goals per game: 2.44
@@ -742,284 +730,9 @@ MF: Vladimir Bystrov (Spartak M)
 FW: Andrei Arshavin (Zenit)
     João "Jô" Alves BRA (CSKA)
 
-Top Scorers:
 
-1.Roman Pavlyuchenko (Spartak M)     18
-2.Jô Alves de Assis Silva (CSKA)     14  [Brazil]
-3.Alejandro Damián Domínguez (Rubin) 13  [Argentina]
-  Dmitriy Loskov (Lokomotiv)         13
-  Pavel Pogrebnyak (Tom)             13
-6.Dmitriy Kirichenko (FK Moskva)     12
-  Mikhail Osinov (Rostov)            12
-8.Ivica Olić (CSKA)                   9  [Croatia]
-  Vágner Love Silva de Souza (CSKA)   9  [Brazil]
-
-Other goalscorers (surnames go first):
-
-8 goals:
-Adamov Roman (Moskva)      
-
-7 goals:
-Arshavin Andrei (Zenit)      
-Derlei Fernandes da Silva (Dinamo)             BRA 
-O'Connor Garry (Lokomotiv)                     SCO 
-Semak Sergei (Moskva)      
-Sychov Dmitriy (Lokomotiv)      
-Titov Yegor (Spartak M)      
-Topić Marko (Krylya Sovetov)                   BIH 
-Yeryomenko Aleksei (Saturn)                    FIN 
-
-6 goals:
-Bystrov Vladimir (Spartak M)      
-Česnauskis Edgaras (Saturn)                    LTU 
-Kanyenda Essau Boxer (Rostov)                  MWI 
-Kerzhakov Aleksandr (Zenit)      
-Ramashchanka Maksim (Dinamo)                   BLR 
-Savin Yevgeniy (Amkar)      
-Semshov Igor (Dinamo)      
-Traoré Dramane (Lokomotiv)                     MLI 
-
-5 goals:
-Bukharov Aleksandr (Rubin)      
-Cavenaghi Fernando Ezequiel (Spartak M)        ARG 
-Ivanov Aleksei (Luch-Energiya)      
-Kontsedalov Roman (Spartak Nch)      
-Korchagin Eduard (Spartak Nch)      
-Kushev Martin (Amkar)                          BUL 
-Lebedenko Igor (Saturn)      
-Mujiri Daviti (Krylya Sovetov)                 GEO 
-Pylypchuk Serhiy (Spartak Nch)                 UKR 
-Smirnov Dmitriy A. (Luch-Energiya)      
-
-4 goals:
-Ajinjal Beslan (Luch-Energiya)      
-Bazayev Georgiy (Luch-Energiya)      
-Budylin Sergei (Torpedo)      
-Calisto de Souza Orlando (Rubin)               BRA 
-Carvalho Daniel da Silva (CSKA)                BRA 
-Denisov Igor (Zenit)      
-Gogniyev Spartak (Saturn/Rostov)
-Khazov Anton (Shinnik)      
-Klimov Valeriy (Tom)      
-Mozart Junior Santos Batista (Spartak M)       BRA 
-Poroshyn Andriy (Spartak Nch)                  UKR 
-Tekke Fatih (Zenit)                            TUR 
-Tikhonovetskiy Aleksandr (Luch-Energiya)      
-
-3 goals:
-Amelyanchuk Syarhei (Shinnik)                  BLR 
-Astafyev Maksim (Luch-Energiya)      
-Bakoš Marek (Shinnik)                          SVK 
-Bazhenov Nikita (Spartak M)      
-Ben Achour Slim (Rubin)                        TUN 
-Bilyaletdinov Diniyar (Lokomotiv)      
-Booth Matthew Paul (Krylya Sovetov)            RSA 
-Bracamonte Héctor Andrés (Moskva)              ARG 
-Buznikin Maksim (Rostov)      
-Dantsev Aleksandr (Rostov)      
-Hagen Erik Bjørnstad (Zenit)                   NOR 
-Kalynychenko Maksym (Spartak M)                UKR 
-Kiselyov Denis (Tom)      
-Krasić Miloš (CSKA)                            SCG 
-Krunić Branislav (Tom)                         BIH 
-Kruščić Miloš (Rostov)                         SCG 
-Kulchy Alyaksandr (Tom)                        BLR 
-Łągiewka Krzysztof (Krylya Sovetov)            POL 
-Lanko Vital (Spartak Nch)                      BLR 
-Lutsenko Yevgeniy (Torpedo)      
-Mamayev Pavel (Torpedo)      
-Medvedev Aleksei (Krylya Sovetov)      
-Pérez Aguado Omar Mario (Rostov)               URU 
-Pjanović Mihajlo (Spartak M)                   SCG 
-Scotti Ponce de Léon Andrés (Rubin)            URU 
-Serdyukov Sergei (Spartak Nch)      
-
-2 goals:
-Ahmetzyanov Ildar (Amkar)      
-Ajinjal Ruslan (Luch-Energiya)      
-Arkhipov Aleksei (Luch-Energiya)      
-Ayupov Ansar (Rubin)      
-Bareiro Gamarra Fredy José (Saturn)            PAR 
-Barrientos Pablo César (Moskva)                ARG 
-Baýramow Wladimir (Rubin)                      TKM 
-Bobyor Anton (Krylya Sovetov)      
-Bochkov Andrei (Rostov)      
-Boyarintsev Denis (Spartak M)      
-Bulykin Dmitriy (Dinamo)      
-Burchenko Maksim (Rostov)      
-Bystrov Pyotr (Moskva)      
-Danishevskiy Aleksandr (Torpedo)      
-Danny Miguel Alves Gomes (Dinamo)              POR 
-Dudu Cearense Alessandro Silva de Souza (CSKA) BRA 
-Dyomkin Andrei (Tom)      
-Fernández Leandro Sebastián (Dinamo)           ARG 
-Gajiyev Mahach (Krylya Sovetov)      
-Gogua Gogita (Spartak Nch)                     GEO 
-Grishin Vitaliy (Amkar)      
-Husin Andriy (Krylya Sovetov)                  UKR 
-Ignashevich Sergei (CSKA)      
-Ivanović Branislav (Lokomotiv)                 SCG 
-Jakubko Martin (Saturn)                        SVK 
-Jalland Jørgen Gunnar (Rubin)                  NOR 
-Jiránek Martin (Spartak M)                     CZE 
-Jokić Đorđe (Torpedo)                          SCG 
-Kalachou Tsimafei (Rostov)                     BLR 
-Khokhlov Dmitriy (Dinamo)      
-Kobenko Andrei (Amkar)      
-Kováč Radoslav (Spartak M)                     CZE 
-Mladenov Aleksandar (Tom)                      BUL 
-Monaryov Roman (Luch-Energiya)                 UKR 
-Obžera Branislav (Saturn)                      SVK 
-Okoronkwo Isaac (Moskva)                       NGA 
-Ospeshinskiy Andrei (Luch-Energiya)      
-Panov Aleksandr (Torpedo)      
-Piechna Grzegorz (Torpedo)                     POL 
-Poškus Robertas (Zenit)                        LTU 
-Shirko Aleksandr (Shinnik)      
-Šírl Radek (Zenit)                             CZE 
-Skvyarnyuk Alyaksei (Krylya Sovetov)           BLR 
-Şoavă Florin Costin (Krylya Sovetov)           ROM 
-Spivak Oleksandr (Zenit)                       UKR 
-Starkov Ivan (Lokomotiv)      
-Vasilyev Dmitriy Vlad. (Rubin)      
-Vinogradov Sergei (Krylya Sovetov)      
-
-1 goal:
-Amisulashvili Aleksandre (Shinnik)             GEO 
-Anyukov Aleksandr (Zenit)      
-Asildarov Shamil (Lokomotiv)      
-Bahiano Dermival de Almeida Lima (Rubin)       BRA 
-Bazayev Jambulad (Rubin)      
-Bendz Sergei (Rostov)      
-Berezutskiy Vasiliy (CSKA)      
-Biletskyi Maksym (Rostov)                      UKR 
-Budiša Igor (Shinnik)                          CRO 
-Bugayev Aleksei (Tom)      
-Bulyha Vital (Krylya Sovetov)                  BLR 
-Celsinho Luis Honorato Júnior (Lokomotiv)      BRA 
-Cherenchikov Ivan (Amkar)      
-Cícero Casimiro Sanches Semedo (Dinamo)        POR 
-Čížek Tomáš (Moskva)                           CZE 
-Dokhoyan Karen (Krylya Sovetov)                ARM 
-Đudović Miodrag (Spartak Nch)                  SCG 
-Fodrek Branislav (Saturn)                      SVK 
-Gaţcan Alexandru (Rubin)                       MDA 
-Géder Malta Antônio Camilo (Saturn)            BRA 
-Gilmullin Lenar (Rubin)      
-Golubov Dmitriy (Torpedo)      
-Gusev Rolan (CSKA)      
-Gvazava Levani (Spartak Nch)                   GEO 
-Gyan Baffour (Saturn)                          GHA 
-Horák Martin (Shinnik)                         CZE 
-Horshkov Oleksandr (Zenit)                     UKR 
-Hurenka Syarhei (Lokomotiv)                    BLR 
-Ilongo Ngasanya Saddam (Spartak Nch)           COD 
-Ivanov Stanislav (Moskva)                      MDA 
-Izmailov Marat (Lokomotiv)      
-Jurić Mario (Spartak Nch)                      CRO 
-Kanchelskis Andrei (Krylya Sovetov)      
-Kantonistov Lubomir (Torpedo)      
-Kim Dong-Hyeon (Rubin)                         KOR 
-Kolodin Denis (Dinamo)      
-Kombarov Dmitriy (Dinamo)      
-Kuzmin Oleg (Moskva)      
-Laizāns Juris (Rostov)                         LVA 
-Lauryk Andrei (Amkar)                          BLR 
-Lee Ho (Zenit)                                 KOR 
-Leílton Silva dos Santos (Shinnik)             BRA 
-Lobov Konstantin (Luch-Energiya)      
-Mamayev Yuriy (Shinnik)      
-Mareš Pavel (Zenit)                            CZE 
-Melyoshin Aleksei (Moskva)      
-Mostovoi Ruslan (Spartak Nch)                  UKR 
-Owusu-Abeyie Quincy James (Spartak M)          NED 
-Paramonov Konstantin (Amkar)      
-Pavlenko Aleksandr (Spartak M)      
-Rahimić Elver (CSKA)                           BIH 
-Ricksen Fernando (Zenit)                       NED 
-Rodríguez Clemente Juan (Spartak M)            ARG 
-Sabitov Renat (Saturn)      
-Semochko Dmytro (Luch-Energiya)                UKR 
-Sheshukov Aleksandr (Luch-Energiya)      
-Shishkin Roman (Spartak M)      
-Shtanyuk Syarhei (Luch-Energiya)               BLR 
-Sibaya Ntuthuko MacBeth-Mao (Rubin)            RSA 
-Skoblyakov Sergei (Tom)      
-Škrteľ Martin (Zenit)                          SVK 
-Tumasyan Denis (Torpedo)      
-Vejić Hrvoje (Tom)                             CRO 
-Vlasov Oleg (Zenit)      
-Volkov Sergei (Amkar)      
-Yarkin Aleksandr (Rubin)      
-Yevsikov Denis (Spartak Nch)      
-Zhirkov Yuriy (CSKA)      
-Ziyati Noureddine (Amkar)                      MAR 
-Zouaghi Chaker (Lokomotiv)                     TUN 
-Zyryanov Konstantin (Torpedo)      
-
-OWN GOALS: 13
-Ivan Cherenchikov (Amkar) for Zenit
-Sergiu Covalciuc MDA (Spartak M) for Zenit
-Erik Bjørnstad Hagen NOR (Zenit) for Krylya Sovetov
-Aleksei Igonin (Saturn) for Lokomotiv
-Adrian Gheorghe Iordache ROM (Shinnik) for Zenit
-Enar Jääger EST (Torpedo) for Dinamo
-Đorđe Jokić SCG (Torpedo) for Tom
-Oleg Kuzmin (Moskva) for Spartak M
-Roman Pavlyuchenko (Spartak M) for Lokomotiv
-Dmitriy Polovinchuk (Saturn) for FK Moskva
-Andriy Poroshyn UKR (Spartak Nch) for Zenit
-Syarhei Shtanyuk BLR (Luch) for Zenit
-Zahari Sirakov BUL (Amkar) for Tom
-
-
-Match Details
-
-
-Squad Lists
-
-
-
-
-2005.
-
-
-2005/06 (cup).
-
-
-2006 (2nd level).
-
-
-2006 (3rd level).
-
-
-2006 (4th level).
-
-
-2006 (5th level).
-
-
-2006/07 (cup).
-
-
-2007.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-list of cup winners.
-
-
-About this document
-
-Prepared and maintained by Mike Dryomin for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Mike Dryomin (mikad@online.ru) 
-Last updated: 26 Jan 2007
-
-(C) Copyright Mike Dryomin and RSSSF 2006/07
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Mike Dryomin for the Rec.Sport.Soccer Statistics Foundation
+*Author: Mike Dryomin (mikad@online.ru) 
+*Last updated: 26 Jan 2007
+*(C) Copyright Mike Dryomin and RSSSF 2006/07
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
