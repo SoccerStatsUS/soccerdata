@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesh/hong98.html
 Season: 1997-1998
+Competition: Nemzeti Bajnokság I
 
 * 1.Újpesti TE          34 21 10  3  62-26 73  Champions
 * 2.Ferencvárosi TC     34 20  7  7  63-43 67  UEFA Cup
@@ -23,7 +24,7 @@ Season: 1997-1998
 *18.Ilzer-Stadler FC    34  4 10 20  29-67 22  Relegated
 *[*] home town Agard, play in Szekesfehervar
 
-Round 1
+Round: 1
 1997.07.18      BVSC - Debrecen                 2-1 (2-0)
                 G: Potemkin, Usvat; Djurisic
 1997.07.19      Siófok - FTC                    0-1 (0-0)
@@ -43,7 +44,7 @@ Round 1
 1997.07.22      Stadler - Vasas                 1-3 (1-1)
                 G: Borgulya; Galaschek, Maczó, Hámori
 
-Round 2
+Round: 2
 1997.07.26      FTC - BVSC                      2-2 (1-1)
                 G: Nyilas, Dragóner; Potemkin, Rósa
                 Zalaegerszeg - UTE              1-2 (1-1)
@@ -64,7 +65,7 @@ Round 2
                 G: Róth, Takács, Korsós, Dvéri (pen.);
                         Medvid, Bekö
 
-Round 3
+Round: 3
 1997.08.01      BVSC - Békéscsaba               3-0 (0-0)
                 G: Diczkó (o.g.), Usvat, László
                 Gázszer - Kispest-Honvéd        3-0 (3-0)
@@ -85,7 +86,7 @@ Round 3
 1997.08.04      Siófok - Videoton               0-1 (0-1)
                 G: Urbonas
 
-Round 4
+Round: 4
 1997.08.08      Videoton - BVSC                 1-1 (1-0)
                 G: Vancsa; Kiss
 1997.08.09      FTC - Haladás                   2-1 (0-0)
@@ -105,7 +106,7 @@ Round 4
 1997.08.11      Györ - Diósgyör                 1-0 (0-0)
                 G: Fehér
 
-Round 5
+Round: 5
 1997.08.23      Vasas - FTC                     3-1 (1-0)
                 G: Hámori (2), Váczi; Vincze
                 Vác - Debrecen                  1-2 (0-1)
@@ -125,7 +126,7 @@ Round 5
 1997.10.12      Gázszer - Zalaegerszeg          1-1 (0-1) 
                 G: Nagy; Filó
 
-Round 6
+Round: 6
 1997.08.30      FTC - Debrecen                  3-0 (2-0)
                 G: Vincze (2), Nyilas
                 Békéscsaba - Vasas              0-2 (0-1)
@@ -145,7 +146,7 @@ Round 6
                 Tiszakécske - BVSC              3-3 (2-2)
                 G: Balla (2, 1 pen.), Török; Kiss (2), Bondarenko (pen.)
 
-Round 7
+Round: 7
 1997.09.03      BVSC - ZTE                      5-3 (1-0)
                 G: Aubel (3); Erös, Duró (pen.); Sebök, Szabó. Somfalvi
                 Debrecen - Békéscsaba           8-0 (3-0)
@@ -165,7 +166,7 @@ Round 7
                 MTK - Diósgyör                  0-1 (0-1)
                 G: Lörincz (o.g.)
 
-Round 8
+Round: 8
 1997.09.13      Békéscsaba - FTC                1-0 (0-0)
                 G: Belvon
                 Diósgyör - Gázszer              1-1 (1-1)
@@ -183,7 +184,7 @@ Round 8
                 G: Mátyus; Hámori, Galaschek
 1997.09.15      Videoton - Debrecen             0-0
 
-Round 9
+Round: 9
 1997.09.20      Haladás - Zalaegerszeg          0-2 (0-1)
                 G: Szöke, Szabó II
                 Vác - Békéscsaba                2-0 (1-0)
@@ -203,7 +204,7 @@ Round 9
                 BVSC - UTE                      0-1 (0-1)
                 G: Kovács
 
-Round 10
+Round: 10
 1997.09.07      Gázszer - Vác                   4-0 (0-0)
                 G: Tieber (3), Toldi
 1997.09.24      MTK - Siófok                    2-0 (1-0)
@@ -223,7 +224,7 @@ Round 10
                 Videoton - Békéscsaba           5-1 (1-0)
                 G: Róth, Vancsa (pen.), Korsós, Pálfi, Takács; Stoica
 
-Round 11
+Round: 11
 1997.09.27      FTC - Tiszakécske               3-1 (3-1)
                 G: Vincze, Milovanovic, Nichenko; Unyatinszki
                 Békéscsaba - Kispest            1-0 (0-0)
@@ -244,7 +245,7 @@ Round 11
 1997.09.29      Vác - Videoton                  2-1 (0-0)
                 G: Nyikos, Kádár; Korsós
 
-Round 12
+Round: 12
 1997.10.04      Zalaegerszeg - FTC              2-4 (1-2)
                 G: Németh (2); Dragóner, Zavadszky, Horváth, Schultz
                 Györ - Debrecen                 1-1 (1-0)
@@ -263,7 +264,7 @@ Round 12
 1997.10.05      Gázszer - BVSC                  1-1 (0-1)
                 G: Puskás; Erös
 
-Round 13
+Round: 13
 1997.10.17      Haladás - MTK                   0-1 (0-1)
                 G: Orosz
 1997.10.18      FTC - Györ                      1-0 (1-0)
@@ -283,7 +284,7 @@ Round 13
                 Debrecen - UTE                  1-2 (0-1)
                 G: Sira; Herczeg, Véber
 
-Round 14
+Round: 14
 1997.10.31      Zalaegerszeg - Videoton         2-0 (2-0)
                 G: Sebok (2)
 1997.11.01      Györ - Békéscsaba               1-0 (1-0)
@@ -303,7 +304,7 @@ Round 14
 1997.11.03      UTE - FTC                       1-2 (0-1)
                 G: Véber (pen.); Hrutka, Lipcsei (pen.)
 
-Round 15
+Round: 15
 1997.11.08      FTC - Diósgyör                  1-0 (1-0)
                 G: Páling
                 Kispest-Honvéd - Zalaegerszeg   2-1 (0-0)
@@ -323,7 +324,7 @@ Round 15
 1997.11.10      Haladás - Siófok                2-2 (2-2)
                 G: Vidóczi, Gabala; Szabó, Ördög
 
-Round 16
+Round: 16
 1997.11.18      BVSC - Haladás                  1-1 (0-0)
                 G: Bükszegi; Vidóczi
 1997.11.19      UTE - Videoton                  2-1 (2-1)
@@ -341,7 +342,7 @@ Round 16
                 G: Borgulya (pen.); Andrássy, Vén
                 Diósgyör - Békéscsaba           0-0
 
-Round 17
+Round: 17
 1997.11.22      Békéscsaba - MTK                2-3 (2-3)
                 G: Takács, Raducu; Madar (2), Kuttor
                 Debrecen - Siófok               1-0 (1-0)
@@ -360,7 +361,7 @@ Round 17
 1997.11.24      Kispest-Honvéd - UTE            0-2 (0-1)
                 G: Sebok, Z. Kovács
 
-Round 18
+Round: 18
 1998.02.28      Vác - Haladás                   2-0 (0-0)
                 Vasas - Stadler                 2-0 (0-0)
                 Kispest-Honvéd - Diósgyör       2-1 (2-0)
@@ -371,7 +372,7 @@ Round 18
 1998.03.01      Videoton - MTK                  0-0
 1998.03.02      FTC - Siófok                    0-2 (0-1)
 
-Round 19
+Round: 19
 1998.03.07      Diósgyör - Tiszakécske          4-0 (2-0)
                 Siófok - Békéscsaba             0-2 (0-1)
                 MTK - Kispest-Honvéd            2-0 (0-0)
@@ -382,7 +383,7 @@ Round 19
 1998.03.09      Stadler - Debrecen              2-0 (1-0)
                 BVSC - FTC                      0-1 (0-0)
 
-Round 20
+Round: 20
 1998.03.14      Györ - UTE                      1-1 (0-0)
                 Debrecen - Haladás              1-1 (0-0)
                 Békéscsaba - BVSC               0-1 (0-0)
@@ -393,7 +394,7 @@ Round 20
                 Videoton - Siófok               2-3 (1-1)
                 Zalaegerszeg - Diósgyör         4-1 (4-1)
         
-Round 21
+Round: 21
 1998.03.18      BVSC - Videoton                 2-0
                 Diósgyör - Györ                 1-0
                 Stadler - Békéscsaba            0-0
@@ -404,7 +405,7 @@ Round 21
                 Haladás - FTC                   1-2
                 Vasas - Debrecen                4-1
 
-Round 22
+Round: 22
 1998.03.21      UTE - Diósgyör                  2-0
                 Békéscsaba - Haladás            1-0
                 Kispest-Honvéd - BVSC           1-1
@@ -415,7 +416,7 @@ Round 22
 1998.03.22      FTC - Vasas                     1-0
                 Zalaegerszeg - Gázszer          1-2
 
-Round 23
+Round: 23
 1998.03.28      Haladás -  Videoton             3-1
                 Gázszer - Györ                  1-0
                 Vasas - Békéscsaba              4-0
@@ -426,7 +427,7 @@ Round 23
 1998.03.29      Debrecen - FTC                  1-0
 1998.03.30      MTK - UTE                       1-2
 
-Round 24
+Round: 24
                 Békéscsaba - Debrecen           1-1
                 Diósgyör - MTK                  1-3
                 Györ - Siófok                   2-1
@@ -437,7 +438,7 @@ Round 24
                 Videoton - Vasas                1-3
                 Zalaegerszeg - BVSC             1-0
 
-Round 25
+Round: 25
 1998.04.10      BVSC - Györ                     1-0
                 Debrecen - Videoton             3-0
                 Vasas - Kispest-Honvéd          1-1
@@ -448,7 +449,7 @@ Round 25
                 Gázszer - Diósgyör              1-0
                 Vác - MTK                       1-0
 
-Round 26
+Round: 26
 1998.04.15      Diósgyör - Siófok               2-2
                 UTE - BVSC                      1-0
                 Békéscsaba - Vác                0-2
@@ -459,7 +460,7 @@ Round 26
                 Videoton - FTC                  1-1
                 Tiszakécske - Vasas             0-3
 
-Round 27
+Round: 27
 1998.04.24      BVSC - Diósgyör                 0-0
                 FTC - Kispest-Honvéd            4-1
                 Debrecen - Tiszakécske          2-0
@@ -470,7 +471,7 @@ Round 27
                 Siófok - MTK                    2-0
 1998.04.26      Stadler - UTE                   0-3
 
-Round 28
+Round: 28
 1998.04.20      Gázszer - Siófok                3-1
 1998.04.29      Tiszakécske - FTC               1-2
                 Kispest - Békéscsaba            0-0
@@ -481,7 +482,7 @@ Round 28
                 Györ - Vasas                    0-3
                 Videoton - Vác                  1-0
 
-Round 29
+Round: 29
 1998.05.02      FTC - Zalaegerszeg              3-2
                 Debrecen - Györ                 1-2
                 Békéscsaba - Tiszakécske        3-3
@@ -492,7 +493,7 @@ Round 29
                 BVSC - Gázszer                  3-1
                 Vasas - UTE                     0-0
 
-Round 30
+Round: 30
 1998.05.08      MTK - Haladás                   0-1
 1998.05.09      Kispest - Vác                   2-1
                 Diósgyör - Vasas                1-1
@@ -503,7 +504,7 @@ Round 30
                 UTE - Debrecen                  5-0
                 Györ - FTC                      2-3
 
-Round 31
+Round: 31
 1998.05.16      Haladás - Gázszer               1-3
                 Vasas - MTK                     1-0
                 Vác - BVSC                      2-0
@@ -514,7 +515,7 @@ Round 31
                 Kispest - Tiszakécske           5-0
 1998.05.17      FTC - UTE                       1-1
 
-Round 32
+Round: 32
 1998.05.23      Siófok - Haladás                0-1
                 BVSC - Stadler                  4-1
                 Tiszakécske - Vác               1-0
@@ -525,7 +526,7 @@ Round 32
                 MTK - Debrecen                  1-1
                 Gázszer - Vasas                 2-0
 
-Round 33
+Round: 33
 1998.05.30      Vác - Stadler                   3-1
                 Haladás - BVSC                  0-0
                 Vasas - Siófok                  3-2
@@ -536,7 +537,7 @@ Round 33
                 Tiszakécske - Zalaegerszeg      1-0
                 Békéscsaba - Diósgyör           1-1
 
-Round 34
+Round: 34
 1998.06.05      UTE - Kispest-Honvéd            2-2
                 BVSC - Vasas                    3-3
                 MTK - Békéscsaba                5-0
@@ -570,12 +571,6 @@ Round 34
 *
 *[*] home town Agard, play in Szekesfehervar
 
-Topscorers:
-
-Tiber (Gázszer)             20
-Hámori, Váczi (both Vasas)  17
-Orosz (MTK)                 16
-Ilea (DVSC)                 15
 
 Promotion/Relegation Playoffs
 
@@ -590,255 +585,6 @@ III. kerületi TVE    1-1 Tiszakécske
 III. kerületi TVE promoted, Tiszakécske relegated
 
 
-Hungary Cup 1997/98
-
-
-FIRST ROUND, First Leg
-Group 1.: Bodroghalom-Tiszakecske 0-7 (0-4), Fuzesabony-Nyiregyhaza 0-5 (0-0)
-Group 2.: Bekecs-Ecker-Stadler 1-1 (0-1), Puspokladany-Szolnoki MAV 0-0
-Group 3.: Hernadkercs-Tiszavasvari 1-4 (1-0)
-Group 4.: Abaujszanto-Vac FC 0-8 (0-2), Besenyotelek-Salgotarjan 1-2 (0-1)
-Group 5.: Gyula-Szeged-Dorozsma 0-5 (0-4), Csenger-Debreceni VSC 2-2 (1-1)
-Group 6.: Nyirlugos-Diosgyor 1-4 (0-1)
-Group 7.: Orgovany-Dunaferr 1-3 (1-1)
-Group 8.: Csakvar-Paksi ASE 0-3 (0-0), Nemesnadudvar-Siofok 1-3 (1-0)
-Group 9.: Csavoly-Bekescsaba 0-5 (0-3), RAFC-Szazhalombatta 1-1 (1-1)
-Group 10.: BKV Elore-Matav Sopron 1-1 (0-0), Tapiogyorgye-Gazszer FC 0-1 (0-0)
-Group 11.: Torokbalint-Soproni FAC 1-4 (0-2)
-Group 12.: Szabadegyhaza-Haladas 0-1 (0-1), Petohaza-Dunakeszi 2-3 (0-2)
-Group 13.: Janossomorja-Videoton 0-6 (0-5), Buki TK-Jutas Veszprem 1-1 (1-1)
-Group 14.: Soproni VSE-Dorog 0-3 (0-0), Celldomolk-Kispest-Honved 1-5 (0-2)
-Group 15.: Nagyberki-Gyori ETO 0-12 (0-5), Sarvar-Nagykanizsa 0-3 (0-0)
-Group 16.: Barcs-Zalahus-ZTE 0-4 (0-2)
- 
-FIRST ROUND, Second Leg
-Group 1.: Fuzesabony-Tiszakecske 0-2 (0-0), Bodroghalom-Nyiregyhaza 1-1 (0-0)
-Group 2.: Bekecs-Szolnoki MAV 1-6 (1-1), Puspokladany-Ecker-Stadler 1-3 (0-1)
-Group 3.: Hernadkercs-Balassagyarmat 3-2 (1-1)
-Group 4.: Besenyotelek-Vac FC 0-5 (0-3), Abaujszanto-Salgotarjan 0-2 (0-2)
-Group 5.: Csenger-Szeged-Dorozsma 2-1 (2-0), Gyula-Debreceni VSC (20. 08.)
-Group 6.: Nyirlugos-Mezobereny 3-0 (0-0)
-Group 7.: Orgovany-Csepel SC 1-8 (1-4)
-Group 8.: Csakvar-Siofok 0-2 (0-1), Nemesnadudvar-Paksi ASE 0-4 (0-2)
-Group 9.: RAFC-Bekescsaba 2-4 (0-3), Csavoly-Szazhalombatta 0-5 (0-3)
-Group 10.: BKV Elore-Gazszer FC 1-2 (0-2), Tapiogyorgye-Matav-Sopron 1-8 (0-2)
-Group 11.: Torokbalint-III. ker. TVE 3-3 (1-1)
-Group 12.: Petohaza-Haladas VFC 2-3 (2-2), Szabadegyhaza-Dunakeszi VSE 2-1 (1-0)
-Group 13.: Buki TK-Videoton FCF 2-2 (1-1), Janossomorja-Jutas Veszprem 2-1 (1-1)
-Group 14.: Soproni VSE-Kispest-Honved 1-2 (0-2), Celldomolk-Dorogi SE 1-1 (0-0)
-Group 15.: Sarvar-Gyori ETO 0-1 (0-0), Nagyberki KVSC-Nagykanizsa 0-1 (0-0)
-Group 16.: Barcs-PVSK-Pecs p96 FC 1-3 (0-2)
-
-FIRST ROUND, Third Leg
-Group 1.: Bodroghalom-Fuzesabony 2-0 (2-0), Nyiregyhaza-Tiszakecske 0-1 (0-0)
-Group 2.: Bekecs-Puspokladany 2-2 (0-2), Szolnoki MAV-Ecker-Stadler 2-2 (1-2)
-Group 3.: Balassagyarmat-Tiszavasvari 1-2 (1-2)
-Group 4.: Abaujszanto-Besenyotelek 1-3 (0-1), Salgotarjan-Vac FC 2-1 (0-0)
-Group 5.: Csenger-Gyula 1-1 (1-0), Szeged-Dorozsma-DVSC-Epona 2-1 (2-1)
-Group 6.: Mezobereny-Diosgyor 1-5 (0-3)
-Group 7.: Csepel SC-Dunaferr 2-2 (2-2)
-Group 8.: Paksi ASE-Siofok 1-1 (1-1), Nemesnadudvar-Csakvar 1-3 (1-0)
-Group 9.: Csavoly-RAFC 2-5 (1-1), Szazhalombatta-Bekescsaba 0-1 (0-0)
-Group 10.: Tapiogyorgye-BKV Elore 2-4 (1-1), Matav-Sopron-Gazszer FC 2-1 (1-1)
-Group 11.: III. ker. TVE-Soproni FAC 5-1 (1-1)
-Group 12.: Dunakeszi VSE-Haladas VFC 1-2 (1-0), Szabadegyhaza-Petohaza 1-1 (0-1)
-Group 13.: Jutas Veszprem-Videoton FCF 1-4 (0-2), Janossomorja-Buki TK 3-3 (1-1)
-Group 14.: Celldomolk-Soproni VSE 6-0 (3-0), Dorogi SE-Kispest-Honved 2-2 (1-1)
-Group 15.: Nagykanizsa-Gyori ETO 1-2 (0-1), Nagyberki KVSC-Sarvar FC 2-1 (1-1)
-Group 16.: PVSK-Pecs p96 FC-Zalahus ZTE 1-2 (0-0)
-
-
-1/16
-Dorog                       -  MTK-Hungária FC Budapes     =  0 - 2 (0-2)
-Kispest-Honvéd FC Budapest  -  Tiszavasvári Alkaloida SE   =  2 - 1 (2-0)
-Zalaegerszeg TE             -  Matáv SC Sopron             =  4 - 1 (1-1)
-Gázszer FC Agárdi           -  Békéscsaba ELŐRE            =  4 - 2 (1-1)
-Tiszakécskei FC             -  Vác FC-Zollner              =  0 - 3 (0-0)
-Szabadegyháza               -  Újpest TE Budapest          =  0 - 4 (0-1)
-Salgátarján BTC             -  Csepel SC Budapest          =  3 - 1 (1-1)
-III.Kerűleti TVE Budapest   -  BVSC Zugló FC Budapest      =  3 - 1 (1-0)
-Janossomorja                -  Siófoki Bányász             =  1 - 6 (1-2)
-Videoton FCF Székesfehérvár -  Nyregyháza FC               =  4 - 0 (2-0)
-Paksi Atomerőmű SE          -  Szeged-Dorozsma FC          =  0 - 2 (0-0)
-Diósgyőr FC                 -  Ferencváros TC Budapest     =  2 - 1 (1-0)
-Stadler FC                  -  Szolnoki MÁV                =  3 - 1 (2-1)
-Győr ETO FC                 -  Nagykanizsa Olajbányasz FC  =  3 - 1 (2-0)
-Százhalombatta FC           -  Vasas Danubius H. Budapest  =  1 - 1 (0-1, 1-1, 1-1)
-Csenger FC                  -  Szombathely Haladás VSE     =  0 - 2 (0-0, 0-0, 0-0)
-
-
-1/8
-MTK-Hungária FC Budapest    -  Diósgyőr FC                 =  1 - 0 (0-0, 0-0, 1-0)
-Zalaegerszeg TE             -  Stadler FC                  =  2 - 0 (1-0)
-Vác FC-Zollner              -  Videoton FCF Székesfehérvár =  2 - 0 (0-0)
-Szombathely Haladás VSE     -  Újpest TE Budapest          =  2 - 3 (0-1)
-Siófoki Bányász             -  Győr ETO FC                 =  2 - 1 (0-0)
-III.Kerűleti TVE Budapest   -  Gázszer FC Agárdi           =  0 - 0 4-5-p
-Szeged-Dorozsma FC          -  Salgátarján BTC             =  1 - 2 (0-1, 1-1, 1-1)
-Vasas Danubius H. Budapest  -  Kispest-Honvéd FC Budapest  =  4 - 3 (2-1, 2-2, 3-3)
-
-
-Quarter-Finals
-MTK-Hungária FC Budapest    -  Vác FC-Zollner              =  4 - 0 (2-0)
-Vasas Danubius H. Budapest  -  Zalaegerszeg TE             =  1 - 0 (0-0)
-Újpest TE Budapest          -  Gázszer FC Agárdi           =  2 - 1 (2-1)
-Salgátarján BTC             -  Siófoki Bányász             =  0 - 0 3-1p
-
-
-Semi-Finals
-Vasas Danubius H. Budapest  -  MTK-Hungária FC Budapest    =  2 - 2 (1-2, 2-2) 4-5p
-Újpest TE Budapest          -  Salgátarján BTC             =  2 - 0 (0-0)
-
-
-Final (13.05.1998)
-MTK-Hungária FC Budapest    -  Újpest TE Budapest          =  1 - 0 (0-0)
-
-Final [May 13, Fáy utca, att: 13000]
-MTK             1-0 Újpesti TE  
- [73' Attila Kuttor]
-
-MTK: Babos - Lorincz - Kuttor, Molnár, Szekeres - Madar, Halmai, Illés,
-     Szamosi - Orosz (Kincses 90.), Szabados (Zimmermann 78.). 
-ÚTE: Bíró - Sebok - Tamási, Fehér - Jenei, Peto, Kozma (Monye 77.), Szlezák
-     - Herczeg (Eszenyi 80.), Tóth N., Korsós.
-
-
-
-Hungary NB I/B 1997/98
-
-Table:
-
- 1.Nyíregyházi FC                38 24 10  4  66-24 82  Promoted
- 2.Dunaferr SE (Dunaújváros)     38 24  8  6  61-30 80  [*]  Promoted
-------------------------------------------------------
- 3.III. kerületi TVE (Budapest)  38 22  8  8  79-37 74  Promotion Playoff
- 4.Matáv SC Sopron               38 20  7 11  66-37 67  Promotion Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Érdi VSE                      38 16 12 10  65-47 60
- 6.Rákóczi Kaposcukor FC         38 15 10 13  45-54 55
- 7.Nagykanizsai Olajbányász      38 16  4 18  51-52 52
- 8.Soproni FAC                   38 13 13 12  40-44 52
- 9.Salgótarjáni BTC              38 15  7 16  40-45 52
-10.Kabai Cukor FC-Hajdúszoboszló 38 13 12 13  44-35 51
-11.Szeged-Dorozsma ESK           38 13 11 14  56-63 50
-12.Tiszavasvári Alkaloida SE     38 12 12 14  35-44 48
-13.Pécsi MFC                     38 11 13 14  33-31 46
-14.Kecskeméti TE                 38 13  7 18  36-50 46
-15.Paksi Atomeromu SE            38 11 14 13  38-37 45  [*]
-16.Komlói Bányász                38 12  7 19  38-63 43
- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-17.Szolnoki MÁV-Neusiedler       38 10 12 16  42-59 42  Relegation Playoff
-18.Tiszaújvárosi SC              38 10  6 22  43-71 36  Relegation Playoff
-------------------------------------------------------
-19.Dorogi SE                     38  8 10 20  37-52 34  Relegated
-20.Csepel SC (Budapest)          38  6  9 23  27-67 27  Relegated
-
-[*] Paks 2 points deducted; Dunaferr's deduction of 6 points was revoked
-
-Round 1 [Jul 26]
-Dorog          4-1 Nagykanizsa
-Szeged         1-1 Tiszavasvari
-PMFC           0-1 SFAC
-Kecskemet      1-0 Csepel
-Tiszaujvaros   1-2 Salgotarjan
-Nyiregyhaza    1-1 Szolnok
-Matav Sopron   2-0 Hajduszoboszlo
-Komlo          1-0 Erd
-III. ker. TVE  2-0 Rakoczi
-Dunaferr       2-0 Paks
-
-Round 2 [Aug 2]
-Salgotarjan    2-0 Komlo
-Rakoczi        1-1 Matav Sopron
-Erd            1-1 Nyiregyhaza 
-Tiszavasvari   0-0 Dunaferr
-SFAC           1-0 Kecskemet 
-Nagykanizsa    3-1 PMFC  
-Hajduszoboszlo 1-0 Tiszaujvaros
-Szolnok        4-2 Szeged
-Paks           1-0 Dorog  
-Csepel         0-5 III. ker. TVE 
-
-Round 3 [Aug 9,10]
-Nyiregyhaza    2-0 Salgotarjan
-Matav Sopron   0-0 III. ker. TVE
-Kecskemet      1-0 Nagykanizsa
-PMFC           1-1 Paks
-Dorog          0-0 Tiszavasvari
-Tiszaujvaros   2-3 Rakoczi
-Szeged         3-1 Erd
-Csepel         0-0 SFAC
-Dunaferr       2-0 Szolnok
-Komlo          1-4 Hajduszoboszlo
-
-Round 4 [Aug 16,17]
-Erd            1-4 Dunaferr
-Tiszavasvari   0-0 PMFC
-Salgotarjan    1-1 Szeged
-Rakoczi        2-0 Komlo
-Matav Sopron   4-1 Csepel
-III. ker. TVE  4-1 Tiszaujvaros
-Szolnok        2-1 Dorog
-Paks           0-1 Kecskemet
-Nagykanizsa    4-0 SFAC
-Hajduszoboszlo 0-0 Nyiregyhaza
-
-Round 5 [Aug 23,24]
-PMFC           0-0 Szolnok
-Tiszaujvaros   1-0 Matav Sopron 
-Kecskemet      1-0 Tiszavasvari
-Nyiregyhaza    4-0 Rakoczi
-SFAC           0-0 Paks
-Dorog          0-1 Erd
-Szeged         3-0 Hajduszoboszlo
-Dunaferr       0-1 Salgotarjan
-Csepel         3-0 Nagykanizsa
-Komlo          1-5 III. ker. TVE
-
-Round 6 [Aug 30,31]
-Salgotarjan    0-2 Dorog
-Tiszaujvaros   0-0 Csepel
-Tiszavasvari   0-3 SFAC
-Erd            1-2 PMFC
-Matav Sopron   3-0 Komlo
-Rakoczi        2-2 Szeged
-Hajduszoboszlo 1-1 Dunaferr
-Szolnok        2-1 Kecskemet
-III. ker. TVE  1-1 Nyiregyhaza
-Paks           1-0 Nagykanizsa
-
-Round 7 [Sep 6,7]
-Kecskemet      0-5 Erd
-PMFC           3-1 Salgotarjan
-SFAC           0-0 Szolnok
-Nagykanizsa    3-2 Tiszavasvari
-Nyiregyhaza    1-0 Matav Sopron
-Szeged         1-2 III. ker. TVE
-Komlo          3-0 Tiszaujvaros
-Dunaferr       0-1 Rakoczi
-Dorog          1-1 Hajduszoboszlo
-Csepel         0-1 Paks
-
-Round 8 [Sep 13,14]
-Rakoczi        1-0 Dorog
-Tiszaujvaros   2-1 Nyiregyhaza
-Salgotarjan    0-1 Kecskemet
-Tiszavasvari   1-1 Paks
-Matav Sopron   4-1 Szeged
-Erd            2-2 SFAC
-III. ker. TVE  3-1 Dunaferr
-Hajduszoboszlo 0-1 PMFC
-Szolnok        2-0 Nagykanizsa
-Komlo          2-0 Csepel
-
-Round 9 [Sep 20,21]
-SFAC           1-1 Salgotarjan
-Kecskemet      0-2 Hajduszoboszlo
-PMFC           1-2 Rakoczi
-Dorog          1-1 III. ker. TVE
-Szeged         5-1 Tiszaujvaros
-Csepel         0-0 Tiszavasvari
-Paks           2-1 Szolnok
 
 *Prepared and maintained by Endre Zsoldos, Zoltan Csizmazia and Sorin Arotăriţei 
 *for the Rec.Sport.Soccer Statistics Foundation

@@ -24,554 +24,422 @@ Competition: Ekstraklasa
 * 17 Slask Wroclaw      34   6  6 22  24 56   24  [withdrew]
 * 18 Sokol Tychy        34   5  6 23  18 67   21  [withdrew]
  
-Round: 1, 960727/28
-Widzew Lodz        - Zaglebie Lubin    0-0
-Amica Wronki       - Legia Warszawa    2-1
-Odra Wodzislaw     - Polonia Warszawa  3-1
-Slask Wroclaw      - LKS Lodz          3-0
-Ruch Chorzow       - Gornik Zabrze     1-2
-Wisla Krakow       - GKS Belchatow     1-0
-Sokol Tychy        - Stomil Olsztyn    2-1
-GKS Katowice       - Rakow Czestochowa 2-1
-Lech Poznan        - Hutnik Krakow     2-1
+Round: 1
+*, 960727/28
+
+; Widzew Lodz       ; 0-0; Zaglebie Lubin    
+; Amica Wronki      ; 2-1; Legia Warszawa    
+; Odra Wodzislaw    ; 3-1; Polonia Warszawa  
+; Slask Wroclaw     ; 3-0; LKS Lodz          
+; Ruch Chorzow      ; 1-2; Gornik Zabrze     
+; Wisla Krakow      ; 1-0; GKS Belchatow     
+; Sokol Tychy       ; 2-1; Stomil Olsztyn    
+; GKS Katowice      ; 2-1; Rakow Czestochowa 
+; Lech Poznan       ; 2-1; Hutnik Krakow     
 
 Round: 2, 960731
-LKS Lodz          - Widzew Lodz        1-1
-Gornik Zabrze     - Legia Warszawa     2-3
-Rakow Czestochowa - Amica Wronki       0-1
-Stomil Olsztyn    - Slask Wroclaw      2-0
-Zaglebie Lubin    - GKS Katowice       4-4
-GKS Belchatow     - Sokol Tychy        1-3
-Polonia Warszawa  - Lech Poznan        2-1
-Ruch Chorzow      - Odra Wodzislaw     3-2
-Hutnik Krakow     - Wisla Krakow       2-0
+; LKS Lodz         ; 1-1; Widzew Lodz        
+; Gornik Zabrze    ; 2-3; Legia Warszawa     
+; Rakow Czestochowa; 0-1; Amica Wronki       
+; Stomil Olsztyn   ; 2-0; Slask Wroclaw      
+; Zaglebie Lubin   ; 4-4; GKS Katowice       
+; GKS Belchatow    ; 1-3; Sokol Tychy        
+; Polonia Warszawa ; 2-1; Lech Poznan        
+; Ruch Chorzow     ; 3-2; Odra Wodzislaw     
+; Hutnik Krakow    ; 2-0; Wisla Krakow       
 
 Round: 3, 960803/04
-Widzew Lodz       - Stomil Olsztyn     4-0
-Legia Warszawa    - Rakow Czestochowa  2-1
-Odra Wodzislaw    - Gornik Zabrze      1-0
-Wisla Krakow      - Polonia Warszawa   0-0
-Lech Poznan       - Ruch Chorzow       2-0
-Slask Wroclaw     - GKS Belchatow      1-0
-Sokol Tychy       - Hutnik Krakow      0-2
-GKS Katowice      - LKS Lodz           1-0
-Amica Wronki      - Zaglebie Lubin     3-2
+; Widzew Lodz      ; 4-0; Stomil Olsztyn     
+; Legia Warszawa   ; 2-1; Rakow Czestochowa  
+; Odra Wodzislaw   ; 1-0; Gornik Zabrze      
+; Wisla Krakow     ; 0-0; Polonia Warszawa   
+; Lech Poznan      ; 2-0; Ruch Chorzow       
+; Slask Wroclaw    ; 1-0; GKS Belchatow      
+; Sokol Tychy      ; 0-2; Hutnik Krakow      
+; GKS Katowice     ; 1-0; LKS Lodz           
+; Amica Wronki     ; 3-2; Zaglebie Lubin     
 
 Round: 4, 960810/11
-Gornik Zabrze     - Rakow Czestochowa   0-1
-Sokol Tychy       - Polonia Warszawa    1-2
-Ruch Chorzow      - Wisla Krakow        1-1
-Stomil Olsztyn    - GKS Katowice        1-1
-Hutnik Krakow     - Slask Wroclaw       1-0
-GKS Belchatow     - Widzew Lodz         2-0
-LKS Lodz          - Amica Wronki        1-2
-Zaglebie Lubin    - Legia Warszawa      0-1
-Odra Wodzislaw    - Lech Poznan         1-2
+; Gornik Zabrze    ; 0-1; Rakow Czestochowa   
+; Sokol Tychy      ; 1-2; Polonia Warszawa    
+; Ruch Chorzow     ; 1-1; Wisla Krakow        
+; Stomil Olsztyn   ; 1-1; GKS Katowice        
+; Hutnik Krakow    ; 1-0; Slask Wroclaw       
+; GKS Belchatow    ; 2-0; Widzew Lodz         
+; LKS Lodz         ; 1-2; Amica Wronki        
+; Zaglebie Lubin   ; 0-1; Legia Warszawa      
+; Odra Wodzislaw   ; 1-2; Lech Poznan         
 
 Round: 5, 960814
-Widzew Lodz       - Hutnik Krakow       2-0
-Legia Warszawa    - LKS Lodz            3-0
-Amica Wronki      - Stomil Olsztyn      1-1
-Lech Poznan       - Gornik Zabrze       1-0
-Sokol Tychy       - Ruch Chorzow        2-1
-GKS Katowice      - GKS Belchatow       0-1
-Wisla Krakow      - Odra Wodzislaw      0-0
-Slask Wroclaw     - Polonia Warszawa    0-2
-Rakow Czestochowa - Zaglebie Lubin      1-0
+; Widzew Lodz      ; 2-0; Hutnik Krakow       
+; Legia Warszawa   ; 3-0; LKS Lodz            
+; Amica Wronki     ; 1-1; Stomil Olsztyn      
+; Lech Poznan      ; 1-0; Gornik Zabrze       
+; Sokol Tychy      ; 2-1; Ruch Chorzow        
+; GKS Katowice     ; 0-1; GKS Belchatow       
+; Wisla Krakow     ; 0-0; Odra Wodzislaw      
+; Slask Wroclaw    ; 0-2; Polonia Warszawa    
+; Rakow Czestochowa; 1-0; Zaglebie Lubin      
 
 Round: 6, 960817/18
-Gornik Zabrze     - Zaglebie Lubin       2-2
-Polonia Warszawa  - Widzew Lodz          0-3
-Ruch Chorzow      - Slask Wroclaw        1-1
-Stomil Olsztyn    - Legia Warszawa       0-0
-Hutnik Krakow     - GKS Katowice         2-3
-GKS Belchatow     - Amica Wronki         3-1
-LKS Lodz          - Rakow Czestochowa    1-1
-Lech Poznan       - Wisla Krakow         1-0
-Odra Wodzislaw    - Sokol Tychy          5-1
+; Gornik Zabrze    ; 2-2; Zaglebie Lubin       
+; Polonia Warszawa ; 0-3; Widzew Lodz          
+; Ruch Chorzow     ; 1-1; Slask Wroclaw        
+; Stomil Olsztyn   ; 0-0; Legia Warszawa       
+; Hutnik Krakow    ; 2-3; GKS Katowice         
+; GKS Belchatow    ; 3-1; Amica Wronki         
+; LKS Lodz         ; 1-1; Rakow Czestochowa    
+; Lech Poznan      ; 1-0; Wisla Krakow         
+; Odra Wodzislaw   ; 5-1; Sokol Tychy          
 
 Round: 7, 960824/25
-Widzew Lodz       - Ruch Chorzow         3-0
-Legia Warszawa    - GKS Belchatow        3-2
-Rakow Czestochowa - Stomil Olsztyn       1-4
-Wisla Krakow      - Gornik Zabrze        1-0
-Zaglebie Lubin    - LKS Lodz             2-1
-Sokol Tychy       - Lech Poznan          5-3
-GKS Katowice      - Polonia Warszawa     1-0
-Amica Wronki      - Hutnik Krakow        3-0
-Slask Wroclaw     - Odra Wodzislaw       3-1
+; Widzew Lodz      ; 3-0; Ruch Chorzow         
+; Legia Warszawa   ; 3-2; GKS Belchatow        
+; Rakow Czestochowa; 1-4; Stomil Olsztyn       
+; Wisla Krakow     ; 1-0; Gornik Zabrze        
+; Zaglebie Lubin   ; 2-1; LKS Lodz             
+; Sokol Tychy      ; 5-3; Lech Poznan          
+; GKS Katowice     ; 1-0; Polonia Warszawa     
+; Amica Wronki     ; 3-0; Hutnik Krakow        
+; Slask Wroclaw    ; 3-1; Odra Wodzislaw       
 
 Round: 8, 960907/08
-Hutnik Krakow     - Legia Warszawa       2-1
-Gornik Zabrze     - LKS Lodz             1-4
-Ruch Chorzow      - GKS Katowice         1-1
-Polonia Warszawa  - Amica Wronki         1-1
-Wisla Krakow      - Sokol Tychy          2-0
-GKS Belchatow     - Rakow Czestochowa    1-1
-Lech Poznan       - Slask Wroclaw        3-1
-Stomil Olsztyn    - Zaglebie Lubin       3-0
-Odra Wodzislaw    - Widzew Lodz          P-P
+; Hutnik Krakow    ; 2-1; Legia Warszawa       
+; Gornik Zabrze    ; 1-4; LKS Lodz             
+; Ruch Chorzow     ; 1-1; GKS Katowice         
+; Polonia Warszawa ; 1-1; Amica Wronki         
+; Wisla Krakow     ; 2-0; Sokol Tychy          
+; GKS Belchatow    ; 1-1; Rakow Czestochowa    
+; Lech Poznan      ; 3-1; Slask Wroclaw        
+; Stomil Olsztyn   ; 3-0; Zaglebie Lubin       
+; Odra Wodzislaw   ; P-P; Widzew Lodz          
 
 Round: 9, 960914/15
-Widzew Lodz       - Lech Poznan          2-2
-Legia Warszawa    - Polonia Warszawa     3-0
-Slask Wroclaw     - Wisla Krakow         1-3
-GKS Katowice      - Odra Wodzislaw       4-1
-Amica Wronki      - Ruch Chorzow         1-0
-Rakow Czestochowa - Hutnik Krakow        1-0
-Zaglebie Lubin    - GKS Belchatow        3-2
-LKS Lodz          - Stomil Olsztyn       4-2
-Sokol Tychy       - Gornik Zabrze        2-2
+; Widzew Lodz      ; 2-2; Lech Poznan          
+; Legia Warszawa   ; 3-0; Polonia Warszawa     
+; Slask Wroclaw    ; 1-3; Wisla Krakow         
+; GKS Katowice     ; 4-1; Odra Wodzislaw       
+; Amica Wronki     ; 1-0; Ruch Chorzow         
+; Rakow Czestochowa; 1-0; Hutnik Krakow        
+; Zaglebie Lubin   ; 3-2; GKS Belchatow        
+; LKS Lodz         ; 4-2; Stomil Olsztyn       
+; Sokol Tychy      ; 2-2; Gornik Zabrze        
 
 postponed game, 960918
-Odra Wodzislaw    - Widzew Lodz          1-1
+; Odra Wodzislaw   ; 1-1; Widzew Lodz          
 
 Round: 10, 960921/22
-Wisla Krakow      - Widzew Lodz          1-2
-Ruch Chorzow      - Legia Warszawa       1-1
-Gornik Zabrze     - Stomil Olsztyn       3-1
-GKS Belchatow     - LKS Lodz             0-0
-Hutnik Krakow     - Zaglebie Lubin       0-0
-Polonia Warszawa  - Rakow Czestochowa    3-1
-Odra Wodzislaw    - Amica Wronki         3-0
-Sokol Tychy       - Slask Wroclaw        1-0
-Lech Poznan       - GKS Katowice         0-0
+; Wisla Krakow     ; 1-2; Widzew Lodz          
+; Ruch Chorzow     ; 1-1; Legia Warszawa       
+; Gornik Zabrze    ; 3-1; Stomil Olsztyn       
+; GKS Belchatow    ; 0-0; LKS Lodz             
+; Hutnik Krakow    ; 0-0; Zaglebie Lubin       
+; Polonia Warszawa ; 3-1; Rakow Czestochowa    
+; Odra Wodzislaw   ; 3-0; Amica Wronki         
+; Sokol Tychy      ; 1-0; Slask Wroclaw        
+; Lech Poznan      ; 0-0; GKS Katowice         
 
 Round: 11, 961012/13
-Widzew Lodz        - Sokol Tychy          2-0
-Legia Warszawa     - Odra Wodzislaw       5-1
-Slask Wroclaw      - Gornik Zabrze        1-1
-GKS Katowice       - Wisla Krakow         2-0
-Amica Wronki       - Lech Poznan          1-0
-Rakow Czestochowa  - Ruch Chorzow         1-0
-Zaglebie Lubin     - Polonia Warszawa     2-1
-LKS Lodz           - Hutnik Krakow        1-1
-Stomil Olsztyn     - GKS Belchatow        1-2
+; Widzew Lodz       ; 2-0; Sokol Tychy          
+; Legia Warszawa    ; 5-1; Odra Wodzislaw       
+; Slask Wroclaw     ; 1-1; Gornik Zabrze        
+; GKS Katowice      ; 2-0; Wisla Krakow         
+; Amica Wronki      ; 1-0; Lech Poznan          
+; Rakow Czestochowa ; 1-0; Ruch Chorzow         
+; Zaglebie Lubin    ; 2-1; Polonia Warszawa     
+; LKS Lodz          ; 1-1; Hutnik Krakow        
+; Stomil Olsztyn    ; 1-2; GKS Belchatow        
 
 Round: 12, 961019
-Lech Poznan        - Legia Warszawa       0-2
-Slask Wroclaw      - Widzew Lodz          0-2
-Ruch Chorzow       - Zaglebie Lubin       1-0
-Odra Wodzislaw     - Rakow Czestochowa    0-0
-Wisla Krakow       - Amica Wronki         2-1
-Sokol Tychy        - GKS Katowice         0-0
-Gornik Zabrze      - GKS Belchatow        2-1
-Hutnik Krakow      - Stomil Olsztyn       1-0
-Polonia Warszawa   - LKS Lodz             1-1
+; Lech Poznan       ; 0-2; Legia Warszawa       
+; Slask Wroclaw     ; 0-2; Widzew Lodz          
+; Ruch Chorzow      ; 1-0; Zaglebie Lubin       
+; Odra Wodzislaw    ; 0-0; Rakow Czestochowa    
+; Wisla Krakow      ; 2-1; Amica Wronki         
+; Sokol Tychy       ; 0-0; GKS Katowice         
+; Gornik Zabrze     ; 2-1; GKS Belchatow        
+; Hutnik Krakow     ; 1-0; Stomil Olsztyn       
+; Polonia Warszawa  ; 1-1; LKS Lodz             
 
 Round: 13, 961023
-Legia Warszawa     - Wisla Krakow         2-1
-Widzew Lodz        - Gornik Zabrze        3-0
-GKS Katowice       - Slask Wroclaw        1-1
-LKS Lodz           - Ruch Chorzow         0-0
-GKS Belchatow      - Hutnik Krakow        2-2
-Rakow Czestochowa  - Lech Poznan          2-0
-Amica Wronki       - Sokol Tychy          0-0
-Zaglebie Lubin     - Odra Wodzislaw       0-1
-Stomil Olsztyn     - Polonia Warszawa     4-1
+; Legia Warszawa    ; 2-1; Wisla Krakow         
+; Widzew Lodz       ; 3-0; Gornik Zabrze        
+; GKS Katowice      ; 1-1; Slask Wroclaw        
+; LKS Lodz          ; 0-0; Ruch Chorzow         
+; GKS Belchatow     ; 2-2; Hutnik Krakow        
+; Rakow Czestochowa ; 2-0; Lech Poznan          
+; Amica Wronki      ; 0-0; Sokol Tychy          
+; Zaglebie Lubin    ; 0-1; Odra Wodzislaw       
+; Stomil Olsztyn    ; 4-1; Polonia Warszawa     
 
 Round: 14, 961026/27
-Widzew Lodz        - GKS Katowice         4-0
-Sokol Tychy        - Legia Warszawa       0-1
-Wisla Krakow       - Rakow Czestochowa    0-3
-Slask Wroclaw      - Amica Wronki         2-0
-Zaglebie Lubin     - Lech Poznan          1-0
-Polonia Warszawa   - GKS Belchatow        0-1
-Gornik Zabrze      - Hutnik Krakow        2-0
-Ruch Chorzow       - Stomil Olsztyn       1-1
-Odra Wodzislaw     - LKS Lodz             0-0
+; Widzew Lodz       ; 4-0; GKS Katowice         
+; Sokol Tychy       ; 0-1; Legia Warszawa       
+; Wisla Krakow      ; 0-3; Rakow Czestochowa    
+; Slask Wroclaw     ; 2-0; Amica Wronki         
+; Zaglebie Lubin    ; 1-0; Lech Poznan          
+; Polonia Warszawa  ; 0-1; GKS Belchatow        
+; Gornik Zabrze     ; 2-0; Hutnik Krakow        
+; Ruch Chorzow      ; 1-1; Stomil Olsztyn       
+; Odra Wodzislaw    ; 0-0; LKS Lodz             
 
 Round: 15, 961102/03
-Amica Wronki       - Widzew Lodz          1-2
-Legia Warszawa     - Slask Wroclaw        1-0
-Rakow Czestochowa  - Sokol Tychy          1-1
-GKS Katowice       - Gornik Zabrze        1-0
-Stomil Olsztyn     - Odra Wodzislaw       3-1
-Hutnik Krakow      - Polonia Warszawa     0-1
-LKS Lodz           - Lech Poznan          2-1
-GKS Belchatow      - Ruch Chorzow         0-2
-Zaglebie Lubin     - Wisla Krakow         0-0
+; Amica Wronki      ; 1-2; Widzew Lodz          
+; Legia Warszawa    ; 1-0; Slask Wroclaw        
+; Rakow Czestochowa ; 1-1; Sokol Tychy          
+; GKS Katowice      ; 1-0; Gornik Zabrze        
+; Stomil Olsztyn    ; 3-1; Odra Wodzislaw       
+; Hutnik Krakow     ; 0-1; Polonia Warszawa     
+; LKS Lodz          ; 2-1; Lech Poznan          
+; GKS Belchatow     ; 0-2; Ruch Chorzow         
+; Zaglebie Lubin    ; 0-0; Wisla Krakow         
 
 Round: 16, 961116/17
-Widzew Lodz        - Legia Warszawa       1-0
-GKS Katowice       - Amica Wronki         4-1
-Sokol Tychy        - Zaglebie Lubin       0-0
-Gornik Zabrze      - Polonia Warszawa     0-1
-Ruch Chorzow       - Hutnik Krakow        2-2
-Odra Wodzislaw     - GKS Belchatow        4-1
-Lech Poznan        - Stomil Olsztyn       0-1 (*)
-Wisla Krakow       - LKS Lodz             3-2 (*)
-Slask Wroclaw      - Rakow Czestochowa    0-0 (*)
-(*) games played with no spectators
+; Widzew Lodz       ; 1-0; Legia Warszawa       
+; GKS Katowice      ; 4-1; Amica Wronki         
+; Sokol Tychy       ; 0-0; Zaglebie Lubin       
+; Gornik Zabrze     ; 0-1; Polonia Warszawa     
+; Ruch Chorzow      ; 2-2; Hutnik Krakow        
+; Odra Wodzislaw    ; 4-1; GKS Belchatow        
+; Lech Poznan       ; 0-1 (*); Stomil Olsztyn       
+; Wisla Krakow      ; 3-2 (*); LKS Lodz             
+; Slask Wroclaw     ; 0-0 (*); Rakow Czestochowa    
+*(*) games played with no spectators
 
 Round: 17, 961123/24
-Legia Warszawa     - GKS Katowice         2-1
-Rakow Czestochowa  - Widzew Lodz          0-4
-GKS Belchatow      - Lech Poznan          1-1
-Hutnik Krakow      - Odra Wodzislaw       1-2
-Amica Wronki       - Gornik Zabrze        3-0
-LKS Lodz           - Sokol Tychy          1-0
-Zaglebie Lubin     - Slask Wroclaw        1-0
-Stomil Olsztyn     - Wisla Krakow         1-0
-Polonia Warszawa   - Ruch Chorzow         1-0
+; Legia Warszawa    ; 2-1; GKS Katowice         
+; Rakow Czestochowa ; 0-4; Widzew Lodz          
+; GKS Belchatow     ; 1-1; Lech Poznan          
+; Hutnik Krakow     ; 1-2; Odra Wodzislaw       
+; Amica Wronki      ; 3-0; Gornik Zabrze        
+; LKS Lodz          ; 1-0; Sokol Tychy          
+; Zaglebie Lubin    ; 1-0; Slask Wroclaw        
+; Stomil Olsztyn    ; 1-0; Wisla Krakow         
+; Polonia Warszawa  ; 1-0; Ruch Chorzow         
 
 Round: 18, 961130/1201
-Zaglebie Lubin    - Widzew Lodz           2-2
-Legia Warszawa    - Amica Wronki          2-0
-Gornik Zabrze     - Ruch Chorzow          1-0
-Hutnik Krakow     - Lech Poznan           1-1
-GKS Belchatow     - Wisla Krakow          1-2
-Rakow Czestochowa - GKS Katowice          1-1
-LKS Lodz          - Slask Wroclaw         5-2
-Polonia Warszawa  - Odra Wodzislaw        0-2
-Stomil Olsztyn    - Sokol Tychy           1-0
+; Zaglebie Lubin   ; 2-2; Widzew Lodz           
+; Legia Warszawa   ; 2-0; Amica Wronki          
+; Gornik Zabrze    ; 1-0; Ruch Chorzow          
+; Hutnik Krakow    ; 1-1; Lech Poznan           
+; GKS Belchatow    ; 1-2; Wisla Krakow          
+; Rakow Czestochowa; 1-1; GKS Katowice          
+; LKS Lodz         ; 5-2; Slask Wroclaw         
+; Polonia Warszawa ; 0-2; Odra Wodzislaw        
+; Stomil Olsztyn   ; 1-0; Sokol Tychy           
 
 Round: 19
-Widzew Lodz       - LKS Lodz              0-1
-Legia Warszawa    - Gornik Zabrze         2-0
-Amica Wronki      - Rakow Czestochowa     1-0
-Slask Wroclaw     - Stomil Olsztyn        0-1
-GKS Katowice      - Zaglebie Lubin        0-2
-Sokol Tychy       - GKS Belchatow         0-3
-Lech Poznan       - Polonia Warszawa      2-2
-Odra Wodzislaw    - Ruch Chorzow          2-1
-Wisla Krakow      - Hutnik Krakow         0-0
+; Widzew Lodz      ; 0-1; LKS Lodz              
+; Legia Warszawa   ; 2-0; Gornik Zabrze         
+; Amica Wronki     ; 1-0; Rakow Czestochowa     
+; Slask Wroclaw    ; 0-1; Stomil Olsztyn        
+; GKS Katowice     ; 0-2; Zaglebie Lubin        
+; Sokol Tychy      ; 0-3; GKS Belchatow         
+; Lech Poznan      ; 2-2; Polonia Warszawa      
+; Odra Wodzislaw   ; 2-1; Ruch Chorzow          
+; Wisla Krakow     ; 0-0; Hutnik Krakow         
 
 Round: 20
-Stomil Olsztyn    - Widzew Lodz           1-0
-Rakow Czestochowa - Legia Warszawa        1-1
-Gornik Zabrze     - Odra Wodzislaw        2-1
-Polonia Warszawa  - Wisla Krakow          1-0
-Ruch Chorzow      - Lech Poznan           0-0
-GKS Belchatow     - Slask Wroclaw         3-2
-Hutnik Krakow     - Sokol Tychy           0-0
-LKS Lodz          - GKS Katowice          1-1
-Zaglebie Lubin    - Amica Wronki          3-1
+; Stomil Olsztyn   ; 1-0; Widzew Lodz           
+; Rakow Czestochowa; 1-1; Legia Warszawa        
+; Gornik Zabrze    ; 2-1; Odra Wodzislaw        
+; Polonia Warszawa ; 1-0; Wisla Krakow          
+; Ruch Chorzow     ; 0-0; Lech Poznan           
+; GKS Belchatow    ; 3-2; Slask Wroclaw         
+; Hutnik Krakow    ; 0-0; Sokol Tychy           
+; LKS Lodz         ; 1-1; GKS Katowice          
+; Zaglebie Lubin   ; 3-1; Amica Wronki          
 
 Round: 21
-Rakow Czestochowa - Gornik Zabrze         0-0
-Polonia Warszawa  - Sokol Tychy           1-0
-Wisla Krakow      - Ruch Chorzow          1-1
-GKS Katowice      - Stomil Olsztyn        2-1
-Slask Wroclaw     - Hutnik Krakow         0-0
-Widzew Lodz       - GKS Belchatow         1-0
-Amica Wronki      - LKS Lodz              2-2
-Legia Warszawa    - Zaglebie Lubin        2-1
-Lech Poznan       - Odra Wodzislaw        3-1
+; Rakow Czestochowa; 0-0; Gornik Zabrze         
+; Polonia Warszawa ; 1-0; Sokol Tychy           
+; Wisla Krakow     ; 1-1; Ruch Chorzow          
+; GKS Katowice     ; 2-1; Stomil Olsztyn        
+; Slask Wroclaw    ; 0-0; Hutnik Krakow         
+; Widzew Lodz      ; 1-0; GKS Belchatow         
+; Amica Wronki     ; 2-2; LKS Lodz              
+; Legia Warszawa   ; 2-1; Zaglebie Lubin        
+; Lech Poznan      ; 3-1; Odra Wodzislaw        
 
 Round: 22
-Hutnik Krakow     - Widzew Lodz           0-0
-LKS Lodz          - Legia Warszawa        2-1
-Stomil Olsztyn    - Amica Wronki          1-3
-Gornik Zabrze     - Lech Poznan           0-2
-Ruch Chorzow      - Sokol Tychy           3-0
-GKS Belchatow     - GKS Katowice          1-1
-Odra Wodzislaw    - Wisla Krakow          1-0
-Polonia Warszawa  - Slask Wroclaw         4-0
-Zaglebie Lubin    - Rakow Czestochowa     2-1
+; Hutnik Krakow    ; 0-0; Widzew Lodz           
+; LKS Lodz         ; 2-1; Legia Warszawa        
+; Stomil Olsztyn   ; 1-3; Amica Wronki          
+; Gornik Zabrze    ; 0-2; Lech Poznan           
+; Ruch Chorzow     ; 3-0; Sokol Tychy           
+; GKS Belchatow    ; 1-1; GKS Katowice          
+; Odra Wodzislaw   ; 1-0; Wisla Krakow          
+; Polonia Warszawa ; 4-0; Slask Wroclaw         
+; Zaglebie Lubin   ; 2-1; Rakow Czestochowa     
 
 Round: 23
-Zaglebie Lubin    - Gornik Zabrze         1-1
-Widzew Lodz       - Polonia Warszawa      4-0
-Slask Wroclaw     - Ruch Chorzow          1-1
-Legia Warszawa    - Stomil Olsztyn        2-1
-GKS Katowice      - Hutnik Krakow         1-0
-Amica Wronki      - GKS Belchatow         1-0
-Rakow Czestochowa - LKS Lodz              2-1
-Wisla Krakow      - Lech Poznan           1-1
-Sokol Tychy       - Odra Wodzislaw        0-3 (abandoned at 0-3, results stands)
+; Zaglebie Lubin   ; 1-1; Gornik Zabrze         
+; Widzew Lodz      ; 4-0; Polonia Warszawa      
+; Slask Wroclaw    ; 1-1; Ruch Chorzow          
+; Legia Warszawa   ; 2-1; Stomil Olsztyn        
+; GKS Katowice     ; 1-0; Hutnik Krakow         
+; Amica Wronki     ; 1-0; GKS Belchatow         
+; Rakow Czestochowa; 2-1; LKS Lodz              
+; Wisla Krakow     ; 1-1; Lech Poznan           
+; Sokol Tychy      ; 0-3 ; Odra Wodzislaw        
+*(abandoned at 0-3, results stands)
 
 Round: 24, 970409 [?]
-Ruch Chorzow      - Widzew Lodz           1-2
-GKS Belchatow     - Legia Warszawa        0-1
-Stomil Olsztyn    - Rakow Czestochowa     0-1
-Gornik Zabrze     - Wisla Krakow          3-1
-LKS Lodz          - Zaglebie Lubin        2-1
-Lech Poznan       - Sokol Tychy           1-0
-Polonia Warszawa  - GKS Katowice          1-1
-Hutnik Krakow     - Amica Wronki          0-0
-Odra Wodzislaw    - Slask Wroclaw         3-1
+; Ruch Chorzow     ; 1-2; Widzew Lodz           
+; GKS Belchatow    ; 0-1; Legia Warszawa        
+; Stomil Olsztyn   ; 0-1; Rakow Czestochowa     
+; Gornik Zabrze    ; 3-1; Wisla Krakow          
+; LKS Lodz         ; 2-1; Zaglebie Lubin        
+; Lech Poznan      ; 1-0; Sokol Tychy           
+; Polonia Warszawa ; 1-1; GKS Katowice          
+; Hutnik Krakow    ; 0-0; Amica Wronki          
+; Odra Wodzislaw   ; 3-1; Slask Wroclaw         
 
 Round: 25, 970412/13
-Legia Warszawa    - Hutnik Krakow         2-0
-Widzew Lodz       - Odra Wodzislaw        2-1
-GKS Katowice      - Ruch Chorzow          1-0
-Amica Wronki      - Polonia Warszawa      0-1
-Sokol Tychy       - Wisla Krakow          0-1
-Rakow Czestochowa - GKS Belchatow         1-2
-LKS Lodz          - Gornik Zabrze         4-1
-Slask Wroclaw     - Lech Poznan           1-0
-Zaglebie Lubin    - Stomil Olsztyn        1-0
+; Legia Warszawa   ; 2-0; Hutnik Krakow         
+; Widzew Lodz      ; 2-1; Odra Wodzislaw        
+; GKS Katowice     ; 1-0; Ruch Chorzow          
+; Amica Wronki     ; 0-1; Polonia Warszawa      
+; Sokol Tychy      ; 0-1; Wisla Krakow          
+; Rakow Czestochowa; 1-2; GKS Belchatow         
+; LKS Lodz         ; 4-1; Gornik Zabrze         
+; Slask Wroclaw    ; 1-0; Lech Poznan           
+; Zaglebie Lubin   ; 1-0; Stomil Olsztyn        
 
 Round: 26, 970419/20
-Gornik Zabrze     - Sokol Tychy           6-0
-Lech Poznan       - Widzew Lodz           1-2
-Odra Wodzislaw    - GKS Katowice          0-0
-Polonia Warszawa  - Legia Warszawa        1-1
-Hutnik Krakow     - Rakow Czestochowa     3-1
-GKS Belchatow     - Zaglebie Lubin        1-0
-Stomil Olsztyn    - LKS Lodz              1-1
-Wisla Krakow      - Slask Wroclaw         1-0
-Ruch Chorzow      - Amica Wronki          2-2
+; Gornik Zabrze    ; 6-0; Sokol Tychy           
+; Lech Poznan      ; 1-2; Widzew Lodz           
+; Odra Wodzislaw   ; 0-0; GKS Katowice          
+; Polonia Warszawa ; 1-1; Legia Warszawa        
+; Hutnik Krakow    ; 3-1; Rakow Czestochowa     
+; GKS Belchatow    ; 1-0; Zaglebie Lubin        
+; Stomil Olsztyn   ; 1-1; LKS Lodz              
+; Wisla Krakow     ; 1-0; Slask Wroclaw         
+; Ruch Chorzow     ; 2-2; Amica Wronki          
 
 Round: 27, 970503/04
-Stomil Olsztyn    - Gornik Zabrze         1-1  
-Amica Wronki      - Odra Wodzislaw        0-0
-GKS Katowice      - Lech Poznan           0-1
-Rakow Czestochowa - Polonia Warszawa      2-0
-Widzew Lodz       - Wisla Krakow          1-0
-Slask Wroclaw     - Sokol Tychy           Awd  [awarded 3-0 to Slask]
-LKS Lodz          - GKS Belchatow         2-0
-Zaglebie Lubin    - Hutnik Krakow         3-1
-Legia Warszawa    - Ruch Chorzow          3-1  [Jun 4]
+; Stomil Olsztyn   ; 1-1  ; Gornik Zabrze         
+; Amica Wronki     ; 0-0; Odra Wodzislaw        
+; GKS Katowice     ; 0-1; Lech Poznan           
+; Rakow Czestochowa; 2-0; Polonia Warszawa      
+; Widzew Lodz      ; 1-0; Wisla Krakow          
+*Slask Wroclaw     - Sokol Tychy           Awd  [awarded 3-0 to Slask]
+
+; LKS Lodz         ; 2-0; GKS Belchatow         
+; Zaglebie Lubin   ; 3-1; Hutnik Krakow         
+6/4/1997; Legia Warszawa   ; 3-1 ; Ruch Chorzow          
 
 Round: 28, 970507
-Sokol Tychy       - Widzew Lodz           Awd  [awarded 0-3 to Widzew]
-Odra Wodzislaw    - Legia Warszawa        0-3
-Gornik Zabrze     - Slask Wroclaw         2-0
-Wisla Krakow      - GKS Katowice          1-3
-Lech Poznan       - Amica Wronki          1-1
-Ruch Chorzow      - Rakow Czestochowa     2-0
-Polonia Warszawa  - Zaglebie Lubin        1-1
-Hutnik Krakow     - LKS Lodz              2-0
-GKS Belchatow     - Stomil Olsztyn        1-0
+*Sokol Tychy       - Widzew Lodz           Awd  [awarded 0-3 to Widzew]
+
+; Odra Wodzislaw   ; 0-3; Legia Warszawa        
+; Gornik Zabrze    ; 2-0; Slask Wroclaw         
+; Wisla Krakow     ; 1-3; GKS Katowice          
+; Lech Poznan      ; 1-1; Amica Wronki          
+; Ruch Chorzow     ; 2-0; Rakow Czestochowa     
+; Polonia Warszawa ; 1-1; Zaglebie Lubin        
+; Hutnik Krakow    ; 2-0; LKS Lodz              
+; GKS Belchatow    ; 1-0; Stomil Olsztyn        
  
 Round: 29, 970510/11
-Legia Warszawa    - Lech Poznan           1-1 
-Widzew Lodz       - Slask Wroclaw         4-0
-Zaglebie Lubin    - Ruch Chorzow          1-1
-Rakow Czestochowa - Odra Wodzislaw        0-0
-Amica Wronki      - Wisla Krakow          1-1
-GKS Katowice      - Sokol Tychy           Awd  [awarded 3-0 to Katowice]
-GKS Belchatow     - Gornik Zabrze         0-1
-LKS Lodz          - Polonia Warszawa      4-2
-Stomil Olsztyn    - Hutnik Krakow         2-1
+; Legia Warszawa   ; 1-1 ; Lech Poznan           
+; Widzew Lodz      ; 4-0; Slask Wroclaw         
+; Zaglebie Lubin   ; 1-1; Ruch Chorzow          
+; Rakow Czestochowa; 0-0; Odra Wodzislaw        
+; Amica Wronki     ; 1-1; Wisla Krakow          
+*GKS Katowice      - Sokol Tychy           Awd  [awarded 3-0 to Katowice]
+; GKS Belchatow    ; 0-1; Gornik Zabrze         
+; LKS Lodz         ; 4-2; Polonia Warszawa      
+; Stomil Olsztyn   ; 2-1; Hutnik Krakow         
 
 Round: 30, 970514
-Hutnik Krakow     - Gornik Zabrze         2-0
-GKS Belchatow     - Polonia Warszawa      0-2
-Stomil Olsztyn    - Ruch Chorzow          2-2
-Lech Poznan       - Zaglebie Lubin        1-2
-Rakow Czestochowa - Wisla Krakow          1-1
-Amica Wronki      - Slask Wroclaw         1-0
-Legia Warszawa    - Sokol Tychy           Awd  [awarded 3-0 to Legia]
-GKS Katowice      - Widzew Lodz           3-4  [Jun 4]
-LKS Lodz          - Odra Wodzislaw        1-2  [Jun 5]
+; Hutnik Krakow    ; 2-0; Gornik Zabrze         
+; GKS Belchatow    ; 0-2; Polonia Warszawa      
+; Stomil Olsztyn   ; 2-2; Ruch Chorzow          
+; Lech Poznan      ; 1-2; Zaglebie Lubin        
+; Rakow Czestochowa; 1-1; Wisla Krakow          
+; Amica Wronki     ; 1-0; Slask Wroclaw         
+*Legia Warszawa    - Sokol Tychy           Awd  [awarded 3-0 to Legia]
+6/4/1997; GKS Katowice     ; 3-4  ; Widzew Lodz           
+6/5/1997; LKS Lodz         ; 1-2  ; Odra Wodzislaw        
 
 Round: 31, 970517/18
-Wisla Krakow      - Legia Warszawa        1-3
-Gornik Zabrze     - Widzew Lodz           0-1
-Lech Poznan       - Rakow Czestochowa     1-1
-Odra Wodzislaw    - Zaglebie Lubin        2-1 
-Slask Wroclaw     - GKS Katowice          0-2
-Ruch Chorzow      - LKS Lodz              2-1
-Hutnik Krakow     - GKS Belchatow         1-1
-Polonia Warszawa  - Stomil Olsztyn        1-1
-Sokol Tychy       - Amica Wronki          Awd  [awarded 0-3 to Amica]
+; Wisla Krakow     ; 1-3; Legia Warszawa        
+; Gornik Zabrze    ; 0-1; Widzew Lodz           
+; Lech Poznan      ; 1-1; Rakow Czestochowa     
+; Odra Wodzislaw   ; 2-1 ; Zaglebie Lubin        
+; Slask Wroclaw    ; 0-2; GKS Katowice          
+; Ruch Chorzow     ; 2-1; LKS Lodz              
+; Hutnik Krakow    ; 1-1; GKS Belchatow         
+; Polonia Warszawa ; 1-1; Stomil Olsztyn        
+*Sokol Tychy       - Amica Wronki          Awd  [awarded 0-3 to Amica]
  
 Round: 32, 970524/25
-Lech Poznan       - LKS Lodz              4-1
-Odra Wodzislaw    - Stomil Olsztyn        3-1
-Ruch Chorzow      - GKS Belchatow         2-0
-Polonia Warszawa  - Hutnik Krakow         5-1
-Wisla Krakow      - Zaglebie Lubin        2-0
-Sokol Tychy       - Rakow Czestochowa     Awd  [awarded 0-3 to Rakow]
-Widzew Lodz       - Amica Wronki          4-0  [Jun 7]
-Slask Wroclaw     - Legia Warszawa        Awd  [awarded 0-3 to Legia]
-Gornik Zabrze     - GKS Katowice          3-1  [Jun 21]
+; Lech Poznan      ; 4-1; LKS Lodz              
+; Odra Wodzislaw   ; 3-1; Stomil Olsztyn        
+; Ruch Chorzow     ; 2-0; GKS Belchatow         
+; Polonia Warszawa ; 5-1; Hutnik Krakow         
+; Wisla Krakow     ; 2-0; Zaglebie Lubin        
+*Sokol Tychy       - Rakow Czestochowa     Awd  [awarded 0-3 to Rakow]
+6/7/1997; Widzew Lodz      ; 4-0  ; Amica Wronki          
+*Slask Wroclaw     - Legia Warszawa        Awd  [awarded 0-3 to Legia]
+6/21/1997; Gornik Zabrze    ; 3-1  ; GKS Katowice          
 
 Round: 33, 970618
-Polonia Warszawa  - Gornik Zabrze         1-1
-Legia Warszawa    - Widzew Lodz           2-3
-Hutnik Krakow     - Ruch Chorzow          3-5
-GKS Belchatow     - Odra Wodzislaw        2-0
-Stomil Olsztyn    - Lech Poznan           3-0
-LKS Lodz          - Wisla Krakow          5-0
-Amica Wronki      - GKS Katowice          2-0
-Zaglebie Lubin    - Sokol Tychy           Awd  [awarded 3-0 to Zaglebie]
-Rakow Czestochowa - Slask Wroclaw         Awd  [awarded 3-0 to Rakow]
+; Polonia Warszawa ; 1-1; Gornik Zabrze         
+; Legia Warszawa   ; 2-3; Widzew Lodz           
+; Hutnik Krakow    ; 3-5; Ruch Chorzow          
+; GKS Belchatow    ; 2-0; Odra Wodzislaw        
+; Stomil Olsztyn   ; 3-0; Lech Poznan           
+; LKS Lodz         ; 5-0; Wisla Krakow          
+; Amica Wronki     ; 2-0; GKS Katowice          
+*Zaglebie Lubin    - Sokol Tychy           Awd  [awarded 3-0 to Zaglebie]
+*Rakow Czestochowa - Slask Wroclaw         Awd  [awarded 3-0 to Rakow]
 
 Round: 34, 970625
-Lech Poznan       - GKS Belchatow         1-1
-Widzew Lodz       - Rakow Czestochowa     5-1
-GKS Katowice      - Legia Warszawa        1-3
-Wisla Krakow      - Stomil Olsztyn        5-2
-Odra Wodzislaw    - Hutnik Krakow         3-2
-Ruch Chorzow      - Polonia Warszawa      2-0
-Gornik Zabrze     - Amica Wronki          1-1
-Slask Wroclaw     - Zaglebie Lubin        Awd [awarded 0-3 to Zaglebie]
-Sokol Tychy       - LKS Lodz              Awd [awarded 0-3 to LKS]
+; Lech Poznan      ; 1-1; GKS Belchatow         
+; Widzew Lodz      ; 5-1; Rakow Czestochowa     
+; GKS Katowice     ; 1-3; Legia Warszawa        
+; Wisla Krakow     ; 5-2; Stomil Olsztyn        
+; Odra Wodzislaw   ; 3-2; Hutnik Krakow         
+; Ruch Chorzow     ; 2-0; Polonia Warszawa      
+; Gornik Zabrze    ; 1-1; Amica Wronki          
+*Slask Wroclaw     - Zaglebie Lubin        Awd [awarded 0-3 to Zaglebie]
+*Sokol Tychy       - LKS Lodz              Awd [awarded 0-3 to LKS]
 
-Final Table:
+*  1 Widzew Lodz        34  25  6  3  74 21   81  Champions
+*  2 Legia Warszawa     34  24  5  5  66 27   77  CWC
+*  3 Odra Wodzislaw     34  16  7 11  51 44   55  UEFA Cup
+*  4 GKS Katowice       34  14 11  9  47 40   53  
+*  5 Amica Wronki       34  14 10 10  41 40   52
+*  6 LKS Lodz           34  13 10 11  55 45   49  [2 1 0 1 3-3 3]
+*  7 Zaglebie Lubin     34  13 10 11  44 38   49  [2 1 0 1 3-3 3]
+*  8 Polonia Warszawa   34  13  9 12  40 44   48
+*  9 Stomil Olsztyn     34  12  8 14  45 46   44  [4 3 0 1 8-2 9]
+* 10 Rakow Czestochowa  34  11 11 12  35 39   44  [4 2 1 1 5-5 7]
+* 11 Lech Poznan        34  11 11 12  40 40   44  [4 0 1 3 1-7 1]
+* 12 Wisla Krakow       34  11  9 14  33 42   42
+* 13 Gornik Zabrze      34  11  8 15  40 45   41
+* 14 Ruch Chorzow       34   9 13 12  41 41   40  [2 2 0 0 4-0 6]
+*-----------------------------------------------
+* 15 GKS Belchatow      34  11  7 16  36 43   40  [2 0 0 2 0-4 0]
+* 16 Hutnik Krakow      34   8 11 15  34 46   35  
+* 17 Slask Wroclaw      34   6  6 22  24 56   24  [withdrew]
+* 18 Sokol Tychy        34   5  6 23  18 67   21  [withdrew]
 
-  1 Widzew Lodz        34  25  6  3  74 21   81  Champions
-  2 Legia Warszawa     34  24  5  5  66 27   77  CWC
-  3 Odra Wodzislaw     34  16  7 11  51 44   55  UEFA Cup
-  4 GKS Katowice       34  14 11  9  47 40   53  
-  5 Amica Wronki       34  14 10 10  41 40   52
-  6 LKS Lodz           34  13 10 11  55 45   49  [2 1 0 1 3-3 3]
-  7 Zaglebie Lubin     34  13 10 11  44 38   49  [2 1 0 1 3-3 3]
-  8 Polonia Warszawa   34  13  9 12  40 44   48
-  9 Stomil Olsztyn     34  12  8 14  45 46   44  [4 3 0 1 8-2 9]
- 10 Rakow Czestochowa  34  11 11 12  35 39   44  [4 2 1 1 5-5 7]
- 11 Lech Poznan        34  11 11 12  40 40   44  [4 0 1 3 1-7 1]
- 12 Wisla Krakow       34  11  9 14  33 42   42
- 13 Gornik Zabrze      34  11  8 15  40 45   41
- 14 Ruch Chorzow       34   9 13 12  41 41   40  [2 2 0 0 4-0 6]
------------------------------------------------
- 15 GKS Belchatow      34  11  7 16  36 43   40  [2 0 0 2 0-4 0]
- 16 Hutnik Krakow      34   8 11 15  34 46   35  
- 17 Slask Wroclaw      34   6  6 22  24 56   24  [withdrew]
- 18 Sokol Tychy        34   5  6 23  18 67   21  [withdrew]
-
-Sokol Tychy have withdrawn from the league (April 23) after 26
-rounds; all remaining matches were awarded 0-3 against them.
-
-Slask Wroclaw have withdrawn from the league (early June) after
-31 matches; all remaining matches were awarded 0-3 against them.
-
-NB: the round 12 games Lech-Legia and Slask-Widzew were interrupted
-by spectators, who threw stones on the pitch and fought with the
-police.  The Polish federation has decided that the next home games
-of Lech and Slask should be played behind closed doors or at least
-100 kms away.  Meanwhile, the Poznan mayor has closed the Lech stadium
-for the rest of the season.
+*Sokol Tychy have withdrawn from the league (April 23) after 26
+*rounds; all remaining matches were awarded 0-3 against them.
+*
+*Slask Wroclaw have withdrawn from the league (early June) after
+*31 matches; all remaining matches were awarded 0-3 against them.
+*
+*NB: the round 12 games Lech-Legia and Slask-Widzew were interrupted
+*by spectators, who threw stones on the pitch and fought with the
+*police.  The Polish federation has decided that the next home games
+*of Lech and Slask should be played behind closed doors or at least
+*100 kms away.  Meanwhile, the Poznan mayor has closed the Lech stadium
+*for the rest of the season.
 
 
-Topscorers:
-18 - Miroslaw Trzeciak (LKS Lodz)
-17 - Jacek Dembinski (Widzew Lodz), Cezary Kucharski (Legia Warszawa)
-15 - Slawomir Wojciechowski (GKS Katowice
-14 - Mariusz Srutwa (Ruch Chorzow)
-12 - Slawomir Majak (Widzew Lodz), Piotr Reiss (Lech Poznan),
-     Krzysztof Zagorski (Odra Wodzislaw).
-   
-
-Poland Cup 1996/97
-
-Thanks to Piotr Dabrowski and Pawel Mogielnicki.
-
-1/16 Finals
-
-19960928/29
-
-Jeziorak Ilawa      - LEGIA WARSZAWA       1-3 aet
-Lechia Gdansk       - POLONIA WARSZAWA     1-4 aet
-STAL MIELEC         - Hutnik Krakow        4-2
-Rakow 2 Czestochowa - GKS KATOWICE         0-4 aet
-Stilon Gorzow       - WIDZEW LODZ          0-3
-Krisbut Myszkow     - ZAGLEBIE LUBIN       0-1
-POGON SZCZECIN      - Lech Poznan          1-1 aet 4-3 pen.
-RUCH CHORZOW        - Slask Wroclaw        3-2 aet
-WISLA KRAKOW        - LKS Lodz             1-0
-Lubuszanin Drezdenko- AMICA WRONKI         0-5
-Siarka Tarnobrzeg   - ODRA WODZISLAW       1-2 aet
-Stal Rzeszow        - RAKOW CZESTOCHOWA    0-1
-PETROCHEMIA PLOCK   - GKS Belchatow        5-3 aet
-HETMAN ZAMOSC       - Sokol Tychy          4-2
-Miedz Legnica       - GORNIK ZABRZE        3-4
-Zawisza Bydgoszcz   - STOMIL OLSZTYN       0-3
-
-1/8 Finals
-
-96.11.09
-PETROCHEMIA PLOCK    - Stomil Olsztyn      4-0
-HETMAN ZAMOSC        - Wisla Krakow        1-0
-96.11.13
-LEGIA WARSZAWA       - Gornik Zabrze       1-0
-WIDZEW LODZ          - Rakow Czestochowa   5-1
-Stal Mielec          - ODRA WODZISLAW      0-4
-POGON SZCZECIN       - Amica Wronki        4-0
-GKS KATOWICE         - Zaglebie Lubin      3-0
-RUCH CHORZOW         - Polonia Warszawa    1-0
-
-Quarterfinals
-
-97.04.16
-Odra Wodzislaw       - Ruch Chorzow        3-2
-Petrochemia Plock    - Widzew Lodz         2-3
-Legia Warszawa       - Pogon Szczecin      4-1
-GKS Katowice         - Hetman Zamosc       4-0
-
-Semifinals
-
-97.05.15
-Legia Warszawa       - Odra Wodzislaw      3-0
-  [18' (p) Stanek, 34' Kucharski, 47' Czykier; att 1,500]
-GKS Katowice         - Widzew Lodz         2-0
-  [3' Bala, 42' Kucz; att 5,000]
-
-Final
-97.06.29
-Legia Warszawa       - GKS Katowice        2-0
-  [41' Czereszewski, 86' Sokolowski; att 5,000]
-
-
-Poland Second Division 1996/97
-
-Thanks to Pawel Mogielnicki.
-
-Group East:
-
- 1.Petrochemia Plock      34  22  6  6  83-23  72
- 2.KSZO Ostrowiec         34  21  7  6  67-37  70 
--------------------------------------------------
- 3.Stal Stalowa Wola      34  19 11  4  56-25  68 
- 4.Ceramika Opoczno       34  16  8 10  63-40  56
- 5.Wawel Krakow           34  13 11 10  50-54  50 
- 6.Okocimski Brzesko      34  12 13  9  40-36  49 
- 7.Unia Tarnow            34  13 10 11  41-41  49 
- 8.Jeziorak Ilawa         34  12 12 10  46-39  48 
- 9.Gornik Leczna          34  14  6 14  49-36  48 
-10.RKS Radomsko           34  14  5 15  37-46  47
-11.Cracovia               34  12  8 14  38-40  44 
-12.Avia Swidnik           34   9 12 13  46-55  39 
-13.Swit Nowy Dwor         34  10  9 15  38-59  39 
-14.Hetman Zamosc          34   9 10 15  34-53  37 
--------------------------------------------------
-15.Siarka Tarnobrzeg      34   9  9 16  35-46  36 
-16.Pomezania Malbork      34   9  6 19  31-60  33 
-17.Dolcan Zabki           34   8  8 18  36-60  32 
-18.Stal Mielec            34   4  9 21  24-64  21 
-
-Group West:
-
- 1.Dyskobolia Grodzisk    34  22  6  6  71-39  72 
- 2.Pogon Szczecin         34  19 10  5  56-24  67 
--------------------------------------------------
- 3.Elana Torun            34  19  6  9  56-36  63  
- 4.Krisbut Myszkow        34  17  7 10  33-20  58 
- 5.Polonia Bytom          34  15  8 11  40-33  53 
- 6.Ruch Radzionkow        34  16  4 14  41-35  52 
- 7.Miedz Legnica          34  15  6 14  53-49  51
- 8.Varta Namyslow         34  13 11 10  42-27  50 
- 9.Aluminium Konin        34  12 13  9  31-27  49
-10.Chemik Police          34  14  6 14  35-40  48 
-11.Naprzod Rydultowy      34  11 13 10  34-33  46 
-12.KP Walbrzych           34  13  4 17  32-46  43 
-13.Zawisza Bydgoszcz      34  11  9 14  37-38  42 
-14.Lechia Zielona Gora    34  11  6 17  28-42  39
--------------------------------------------------
-15.Lechia Gdansk          34   9  7 18  27-47  34 
-16.Chrobry Glogow         34   7  6 21  36-73  27  
-17.GKP Gorzow             34   5 11 18  23-44  26
-18.Szombierki Bytom       34   4 13 17  27-49  25 
-
-[Aluminium Konin is a new name of Gornik Konin. The change
- was made because of a new sponsorship deal.
- The bosses of Lechia/Olimpia Gdansk decided to change club's name
- to the original Lechia Gdansk.]
-
-
-1953--95.
-
-
-1995/96.
-
-
-1997/98.
- 
-
-
-Last updated: 23 Jul 1997
+*Last updated: 23 Jul 1997
  
