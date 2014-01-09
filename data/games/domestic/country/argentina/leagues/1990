@@ -798,10 +798,10 @@ Aredes;
 Olarticoechea, Torres;
 
 ; Boca Juniors ; 2-0; Huracán
-Batistuta(2);
+Batistuta, Batistuta;
 
 ; Newell's Old Boys ; 3-1; Argentinos Juniors
- Franco, Ruffini(2); Mogrovejo
+ Franco, Ruffini, Ruffini; Mogrovejo
 
 ; San Lorenzo ; 0-0; Platense ; Ferro Carril Oeste
  
@@ -809,7 +809,7 @@ Round: 3
 Date: 3/8/1991
 
 ; Unión (Sta. Fe) ; 0-4; Boca Juniors
- ; Latorre(2), Batistuta(2)
+ ; Latorre, Latorre, Batistuta, Batistuta
 
 Date: 3/10/1991
 
@@ -828,7 +828,7 @@ Alfaro Moreno;
 ; Chaco For Ever ; 0-0; Rácing Club
 
 ; River Plate ; 2-0; Talleres (Cba.)
-Berti(2);
+Berti, Berti;
 
 ; Rosario Central ; 1-2; Lanús
  Madelón; Villagrán, Iglesias
@@ -848,13 +848,13 @@ Date: 3/17/1991
 ; Dep. Español ; 1-1; Ferro Carril Oeste
  Parodi; Cristofanelli
 
-; Lanús ; 0-0; Gimnasia y Esg; rima (LP) Banfield
+; Lanús ; 0-0; Gimnasia y Esgrima (LP) Banfield
 
 ; Talleres (Cba.) ; 1-0; Rosario Central
 E.Vázquez;
 
 ; Rácing Club ; 5-2; River Plate
- Borelli, Carranza(2), C.García(2); Berti, Da Silva
+ Borelli, Carranza, Carranza, C.García, C. Garcia; Berti, Da Silva
 
 ; Mandiyú (Ctes.) ; 2-0; Chaco For Ever
 Ramos, Perdomo;
@@ -874,8 +874,8 @@ Ramos, Perdomo;
 Round: 5
 Date: 3/24/1991
 
-; Argentinos Juniors ; 3-2; Estudi; antes (LP) Atlanta
- Cagna(2), Trapasso; Trotta, Aredes
+; Argentinos Juniors ; 3-2; Estudiantes (LP); Atlanta
+ Cagna, Cagna, Trapasso; Trotta, Aredes
 
 ; Huracán ; 1-0; Platense
 De Felipe;
@@ -889,7 +889,7 @@ Ubaldi;
 ; Chaco For Ever ; 0-0; Boca Juniors
 
 ; River Plate ; 2-2; Mandiyú (Ctes.)
- Borrelli(2); Barrios(2)
+ Borrelli, Borrelli; Barrios, Barrios
 
 ; Rosario Central ; 0-1; Rácing Club
 ; Fleita
@@ -901,7 +901,6 @@ Ubaldi;
 
 ; Vélez Sársfield ; 1-2; Dep. Español
  E.González; Bevilacqua, Albornoz
-
  
 Round: 6 
 Date: 3/31/1991
@@ -915,7 +914,7 @@ Date: 3/31/1991
  Kenig, Kesmann; Bianchi
 
 ; Rácing Club ; 2-1; Gimnasia y Esgrima (LP)
- R.Paz(2); Amato
+ R.Paz, R. Paz; Amato
 
 ; Mandiyú (Ctes.) ; 1-0; Rosario Central ; Huracán Corrientes
 Barrios; 
@@ -932,7 +931,7 @@ Matosas;
 ; Platense ; 1-1; Unión (Sta. Fe)
  Orellano; Toresani
 
-; Argentinos Juniors ; 0-; 0; Huracán Atlanta
+; Argentinos Juniors ; 0-0; Huracán Atlanta
  
 Round: 7 
 Date: 4/4/1991
@@ -940,11 +939,10 @@ Date: 4/4/1991
 ; Huracán ; 0-0; Estudiantes (LP)
 
 ; Unión (Sta. Fe) ; 3-1; Argentinos Juniors
- Toresani(2), V.Ramos; Vidal González
+ Toresani, Toresani, V.Ramos; Vidal González
 
 ; Independiente ; 5-1; Platense
- Bianco(2), Ubaldi, Craviotto, Alfaro Moreno;
- Nannini
+ Bianco, Bianco, Ubaldi, Craviotto, Alfaro Moreno; Nannini
  
 ; Chaco For Ever ; 0-0; San Lorenzo
 
@@ -985,7 +983,7 @@ Ortega Sánchez, Fleita;
 Pico, Soñora;
 
 ; Newell's Old Boys ; 4-0; Rosario Central 
-Pochettino, Cozzoni(2), Garfagnoli;
+Pochettino, Cozzoni, Cozzoni, Garfagnoli;
 *[Suspended in 86'; not continued]
 
 ; San Lorenzo ; 2-2; River Plate; Vélez Sarsfield
@@ -1058,7 +1056,7 @@ Berizzo, Pochettino, Boldrini;
  P.Hernández; Medina Bello
 
 ; Huracán ; 4-3; Chaco For Ever
- Borghi, Saturno(2), H.Morales; Taffarel, Cruz, Tilico
+ Borghi, Saturno, Saturno, H.Morales; Taffarel, Cruz, Tilico
 
 ; Unión (Sta. Fe) ; 0-0; Independiente
  
@@ -1082,7 +1080,7 @@ Date: 5/5/1991
 ; Czornomaz, R.O.García
 
 ; Vélez Sársfield ; 3-1; Newell's Old Boys
- E.González, Gareca(2); Cozzoni
+ E.González, Gareca, Gareca; Cozzoni
 
 ; Dep. Español ; 0-1; Boca Juniors ; Huracán
 ; Graciani
@@ -1105,14 +1103,14 @@ Date: 5/11/1991
 Pico;
 
 ; Newell's Old Boys ; 0-0; Dep. Español
+
 ; San Lorenzo ; 4-1; Vélez Sársfield ; Ferro Carril Oeste
  L.Rodríguez, R.O.García, Czornomaz, Zandoná; Zalazar
 
 ; Platense ; 0-0; Ferro Carril Oeste
 
 ; Argentinos Juniors ; 3-1; Gimnasia y Esgrima (LP) ; Atlanta
- Mac Allister, P.Hernández, Cagna;
- Galvagni
+ Mac Allister, P.Hernández, Cagna; Galvagni
 
 ; Huracán ; 3-0; Rosario Central
 Mohamed, Saturno, H.Morales;
@@ -1123,7 +1121,6 @@ Mohamed, Saturno, H.Morales;
 ; Independiente ; 1-1; Chaco For Ever
  Villarreal; Taffarel
 
- 
 Round: 13 
 Date: 5/18/1991
 *Date: 5/18,19/1991
@@ -1156,7 +1153,6 @@ Ruiz Díaz; Latorre, Graciani
 ; Rácing Club ; 2-0; Mandiyú (Ctes.)
 R.Paz, C.García;
 
- 
 Round: 14 
 Date: 6/2/1991
 
@@ -1164,10 +1160,10 @@ Date: 6/2/1991
 ; Mendoza
 
 ; Boca Juniors ; 6-1; Rácing Club
- Batistuta, Batistuta, Batistuta, Latorre(2), Graciani; Ortega Sánchez
+ Batistuta, Batistuta, Batistuta, Latorre, Latorre, Graciani; Ortega Sánchez
 
 ; Newell's Old Boys ; 2-1; Talleres (Cba.)
- Cozzoni(2); Fornero
+ Cozzoni, Cozzoni; Fornero
 
 ; San Lorenzo ; 1-0; Lanús ; Ferro Carril Oeste}
 Czornomaz;
@@ -1176,7 +1172,7 @@ Czornomaz;
 Orellano;
 
 ; Argentinos Juniors ; 0-3; Vélez Sársfield [at Atlanta
-; E.González(2), Acuña
+; E.González, E. Gonzalez, Acuña
 
 ; Huracán ; 1-0; Ferro Carril Oeste
 Saturno;
@@ -1223,8 +1219,7 @@ Ortega Sánchez;
 ; Mandiyú (Ctes.) ; 1-2; Boca Juniors ; Huracán Corrientes
  Mendoza; Tapia, Soñora
 
- 
-Round: 16 
+ Round: 16 
 Date: 6/7/1991
 
 ; Estudiantes (LP) ; 0-0; Boca Juniors ; Vélez Sarsfield
@@ -1294,7 +1289,7 @@ Date: 6/23/1991
 ; Estudiantes (LP) ; 0-0; Newell's Old Boys
 
 ; San Lorenzo ; 1-1; Boca Juniors ; San Lorenzo
- L.Rodríguez; ; Pico
+ L.Rodríguez; Pico
 
 ; Platense ; 0-0; Mandiyú (Ctes.)
 
@@ -1303,10 +1298,10 @@ Date: 6/23/1991
 Mohamed;
 
 ; Unión (Sta. Fe) ; 3-2; Lanús
- Cabrol, V.Ramos, Talarico; Alonso(2)
+ Cabrol, V.Ramos, Talarico; Alonso, Alonso
 
 ; Independiente ; 3-1; Dep. Español
- Garnero(2), Artime; Parodi
+ Garnero, Garnero, Artime; Parodi
 
 ; Chaco For Ever ; 1-1; Vélez Sársfield
  Taffarel; Zalazar
