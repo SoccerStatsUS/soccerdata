@@ -332,7 +332,7 @@ Date: 10/29/2005
 ; Mattersburg     ; 0-0; Rapid
 
 ; Ried            ; 4-0; Admira
-Berchtold 26, Glasner 54, Kuljic 60
+Berchtold 26, Glasner 54, Kuljic 60;
 
 Date: 9/16/2005  
 
@@ -342,7 +342,7 @@ Date: 9/16/2005
 Date: 10/30/2005
 
 ; GAK             ; 2-0; Sturm
-  Sonnleitner 67, Skoro 84
+  Sonnleitner 67, Skoro 84;
 
 Round: 18
 Date: 11/5/2005
@@ -485,7 +485,7 @@ Round: 25
 Date: 3/4/2006
 
 ; Sturm           ; 4-0; Austria S
-  Filipovic 29, Salmutter 45, Salmutter 84, Salmutter 87
+  Filipovic 29, Salmutter 45, Salmutter 84, Salmutter 87;
 
 ; Wacker          ; 1-0; Pasching
   Brzeczek 56;
@@ -622,7 +622,7 @@ Date: 4/12/2006
   Janko 27, Jezek 73, Jezek 79;
 
 ; GAK             ; 3-0; Admira
-  Hassler 2, Hassler 82, Panis (og) 47
+  Hassler 2, Hassler 82, Panis (og) 47;
 
 Round: 32
 Date: 4/15/2006
@@ -703,7 +703,7 @@ Kastner 13, Kuljic (pk) 44;
 Round: 36 
 Date: 5/13/2006
 
-Admira           0-3 Austria S
+; Admira          ; 0-3; Austria S
 ;  Janko 35, Aufhauser 72, Mayrleb 87
 
 ; Pasching        ; 2-0; Austria W

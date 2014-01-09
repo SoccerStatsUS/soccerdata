@@ -169,7 +169,7 @@ Date: 9/22/2006
 
 Date: 9/23/2006
 
-ADO Den Haag    0-2 PSV
+; ADO Den Haag   ; 0-2; PSV
 ;  Tardelli 56, Mendez 84
 
 ; FC Twente      ; 2-0; Sparta
@@ -311,7 +311,7 @@ Date: 10/25/2006
 ; NEC            ; 0-0; Roda JC
 
 ; PSV            ; 7-0; Sparta
-  Kone 4, Kone 39, Farfan (pk) 21, Farfan 28, Farfan 81, Reiziger 78, Simons (pk) 91
+  Kone 4, Kone 39, Farfan (pk) 21, Farfan 28, Farfan 81, Reiziger 78, Simons (pk) 91;
 
 Date: 10/26/2006
 
@@ -450,8 +450,9 @@ Date: 11/18/2006
 Date: 11/19/2006
 
 ; ADO Den Haag   ; 0-3; Vitesse                 
+;  Lazovic (pk) 21, Pryor 47, Bunjevcevic (og) 66
 *[abandoned at 0-3 in 67' due to pitch invasion; on Nov 29, result was allowed to stand]
-  Lazovic (pk) 21, Pryor 47, Bunjevcevic (og) 66
+
     
 ; Ajax           ; 1-1; FC Twente                   
   Sneijder 48; Engelaar 7
@@ -518,7 +519,7 @@ Date: 12/2/2006
 Date: 12/3/2006
 
 ; Ajax           ; 6-0; Willem II
-  Grygera 4, Emanuelson 9, Mitea 19, Huntelaar 22, Huntelaar 45, De Mul 78
+  Grygera 4, Emanuelson 9, Mitea 19, Huntelaar 22, Huntelaar 45, De Mul 78;
 
 ; AZ             ; 5-0; Excelsior
   Arveladze 10, Arveladze 56, Koevermans 26, Koevermans 42, Gyan (og) 76;
@@ -874,7 +875,7 @@ Date: 2/24/2007
 ; FC Twente      ; 0-0; Willem II
 
 ; PSV            ; 1-0; FC Groningen
-  Alex 85
+  Alex 85;
 
 ; Roda JC        ; 1-0; SC Heerenveen
   Oper 42;
@@ -1057,7 +1058,7 @@ Date: 4/8/2007
 ;  Lovre 50, Lovre 63, Van de Laak 59, Van de Laak 69
 
 ; NAC Breda      ; 1-4; AZ
-  Penders 46, Koevermans 27, Koevermans 79, Penders (og) 54, Martens (pk) 68
+  Penders 46; Koevermans 27, Koevermans 79, Penders (og) 54, Martens (pk) 68
 
 Round: 32
 Date: 4/13/2007
@@ -1091,7 +1092,7 @@ Date: 4/15/2007
   Friend 18, Friend 88, Gluscevic 63, Smit 85; Van Hooijdonk 47
 
 ; Willem II      ; 1-3; SC Heerenveen
-  Cristiano 50; Alves 49, Alves 51, 68
+  Cristiano 50; Alves 49, Alves 51, Alves 68
 
 Round: 33 
 Date: 4/22/2007
@@ -1151,7 +1152,7 @@ Date: 4/29/2007
   Alex 8, Farfan 9, Farfan 64, Afellay 58, Cocu 77; Theo Janssen 13
 
 ; Roda JC        ; 7-0; Heracles Almelo
-  Oper 12, Oper 86, Cisse 40, Bosnar (og) 47, Agustien 53, Vandamme 55, Bodor 62
+  Oper 12, Oper 86, Cisse 40, Bosnar (og) 47, Agustien 53, Vandamme 55, Bodor 62;
 
 ; Sparta         ; 1-0; RKC Waalwijk
   Medunjanin 61;

@@ -43,7 +43,7 @@ Date: 7/11/2001
 ; Kärnten         ; 1-2; Ried
   Ambrosius 37; Radovic 60, Wawra 90
 
-;; Schwarz-Weiß;     1-0 Admira M
+; Schwarz-Weiß;     1-0; Admira M
   Regtop 75;
 
 ; Austria S       ; 0-0; Austria W
@@ -78,7 +78,7 @@ Date: 7/24/2001
 
 Date: 7/25/2001
 
-;; Schwarz-Weiß;     0-3 Ried
+; Schwarz-Weiß;     0-3; Ried
 ;  Radovic 14, Akagündüz 60, Akagunduz 87
 
 ; GAK             ; 3-0; Admira M
@@ -115,7 +115,7 @@ Date: 7/31/2001
 
 Date: 8/1/2001
 
-;; Schwarz-Weiß;     0-5 Sturm
+; Schwarz-Weiß;     0-5; Sturm
 ;  Strafner 45, Amoah 51, G.Korsos 76, Vastic 90, Haas 92
 
 ; Austria W       ; 3-3; Ried
@@ -173,7 +173,7 @@ Date: 8/18/2001
 ; Rapid           ; 0-2; Tirol
 ;  Mair 48, Brzeczek (pk) 65
 
-;; Schwarz-Weiß;     2-2 Austria S
+; Schwarz-Weiß;     2-2; Austria S
   Van de Haar 58, Lawaree 61; A.Korsos 7, Sigthorsson 68
 
 ; Kärnten         ; 0-0; Austria W
@@ -214,8 +214,8 @@ Date: 9/8/2001
 ; GAK             ; 1-1; Austria S
   B.Akwuegbu 24; Schriebl 39
 
-;; Schwarz-Weiß;     2-2 Austria W
-  Thüler 58, Regtop 83; Janocko 12, 60
+; Schwarz-Weiß;     2-2; Austria W
+  Thüler 58, Regtop 83; Janocko 12, Janocko 60
 
 Date: 9/9/2001
 
@@ -250,7 +250,7 @@ Date: 9/16/2001
 Round: 12
 Date: 9/22/2001
 
-;; Schwarz-Weiß;     1-2 Tirol
+; Schwarz-Weiß;     1-2; Tirol
   Sturm 77; Glieder 45, Glieder 51
 
 ; Austria S       ; 0-2; Sturm
@@ -296,7 +296,7 @@ Date: 10/10/2001
 ; Austria W       ; 0-1; Tirol
 ;  Mair 86
 
-;; Schwarz-Weiß;     2-1 Rapid
+; Schwarz-Weiß;     2-1; Rapid
   Mattle 16, Mattle 70; Jazic 89
 
 ; GAK             ; 3-0; Ried
@@ -334,7 +334,7 @@ Date: 10/20/2001
 ; Austria S       ; 2-0; Ried
   Pfeifenberger 19, Kitzbichler 78;
 
-;; Schwarz-Weiß;     2-0 Kärnten
+; Schwarz-Weiß;     2-0; Kärnten
   Lawaree 50, Regtop 71;
 
 Date: 10/21/2001
@@ -358,7 +358,7 @@ Date: 11/21/2001
 ; Sturm           ; 1-1; Admira M
   G.Korsos 40; Bozgo 26
 
-;; Schwarz-Weiß;     2-2 GAK
+; Schwarz-Weiß;     2-2; GAK
   Pedersen 40, Sturm 90; Brunmayr 35, Kulovits 78
 
 Date: 3/6/2002
@@ -407,7 +407,7 @@ Date: 11/28/2001
 Round: 20 
 Date: 11/17/2001
 
-;; Schwarz-Weiß;     0-1 Kärnten
+; Schwarz-Weiß;     0-1; Kärnten
 ;  Maric 34
 
 ; Austria W       ; 0-0; Admira M
@@ -430,7 +430,7 @@ Date: 11/24/2001
   Bozgo 25, Bozgo 77, Ziervogel 57; G.Korsos 35, G. Korsos 53, Heldt 43, Strafner 64
 
 ; GAK             ; 5-0; Schwarz-Weiß
-  Brunmayr 44, Brunmayr (pk) 45, Brunmayr 79, Bazina 66, Akoto 70
+  Brunmayr 44, Brunmayr (pk) 45, Brunmayr 79, Bazina 66, Akoto 70;
 
 ; Ried            ; 0-1; Tirol   
 ;  Grumser 47
@@ -449,7 +449,7 @@ Date: 12/1/2001
 ; Austria W       ; 2-1; Kärnten
   Rushfeldt 33, Rushfeldt 37; Oberleitner 94
 
-;; Schwarz-Weiß;     3-1 Ried
+; Schwarz-Weiß;     3-1; Ried
   Lawaree 63, Lawaree 89, Sturm 87; Stockinger 82
 
 ; Austria S       ; 2-0; Admira M
@@ -505,7 +505,7 @@ Date: 3/3/2002
 Round: 25
 Date: 3/9/2002
 
-;; Schwarz-Weiß;     1-1 Sturm
+; Schwarz-Weiß;     1-1; Sturm
   Lawaree 80; Szabics 18
 
 ; Rapid           ; 2-0; Kärnten
@@ -543,7 +543,7 @@ Date: 3/17/2002
 Round: 27
 Date: 3/23/2002
 
-;; Schwarz-Weiß;     5-1 Admira M
+; Schwarz-Weiß;     5-1; Admira M
   Lawaree 12, Lawaree (pk) 81, Pircher 45, Regtop 56, Regtop 68; Onyewenjo 7
 
 ; Tirol           ; 1-0; Austria S
@@ -597,7 +597,7 @@ Date: 4/3/2002
 ; Sturm           ; 5-1; Kärnten
   Vastic 28, Masudi 31, Haas 54, Szabics 82, Mujiri 86; Maric 45
 
-;; Schwarz-Weiß;     3-0 Rapid
+; Schwarz-Weiß;     3-0; Rapid
   Mattle 14, Lawaree 32, Sturm 70;
 
 Round: 30
@@ -628,7 +628,7 @@ Date: 4/13/2002
 ; Sturm           ; 3-0; Admira M
   Mujiri 18, Neukirhcner 57, Szabics 86;
 
-;; Schwarz-Weiß;     1-4 GAK
+; Schwarz-Weiß;     1-4; GAK
   Eller 56; Kusi-Asare 21, Pötscher 50, Amerhauser 73, Milinkovic 79
 
 ; Austria S       ; 0-1; Kärnten
@@ -662,7 +662,7 @@ Date: 4/21/2002
 Round: 33
 Date: 4/27/2002
 
-;; Schwarz-Weiß;     2-0 Tirol
+; Schwarz-Weiß;     2-0; Tirol
   Lawaree 14, Sturm 36;
 
 ; Kärnten         ; 3-1; Admira M
@@ -682,7 +682,7 @@ Date: 4/28/2002
 Round: 34 
 Date: 5/1/2002
 
-;; Schwarz-Weiß;     1-4 Austria W
+; Schwarz-Weiß;     1-4; Austria W
   Hlinka 10; Wagner 30, Janocko 80, Rushfeldt 83, Linz 86
 
 ; Rapid           ; 3-2; Admira M
@@ -701,7 +701,7 @@ Round: 35
 Date: 5/4/2002
 
 ; Admira M        ; 1-3; Ried
-  Bozgo 64: Drechsel 69, Drechsel (pk) 74, Akagündüz
+  Bozgo 64; Drechsel 69, Drechsel (pk) 74, Akagündüz
 
 ; Austria W       ; 2-1; Tirol
   M.Wagner 45, Rushfeldt 49; Jezek 57
@@ -718,7 +718,7 @@ Date: 5/4/2002
 Round: 36 
 Date: 5/9/2002
 
-;; Schwarz-Weiß;     1-1 Austria S
+; Schwarz-Weiß;     1-1; Austria S
   Konrad 19; Laessig 11
 
 ; GAK             ; 5-1; Admira M

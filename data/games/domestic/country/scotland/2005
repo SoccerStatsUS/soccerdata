@@ -261,7 +261,7 @@ Date: 10/22/2005
 
 Date: 10/23/2005
 
-; Klmarnock              ; 0-1; Celtic
+; Kilmarnock              ; 0-1; Celtic
 ;  Petrov 24
 
 Round: 12
@@ -272,7 +272,7 @@ Date: 10/25/2005
 Date: 10/26/2005
 
 ; Celtic                 ; 5-0; Motherwell
-  Petrov 14, Petrov 23, Petrov 79, Maloney 17, Nakamura 67
+  Petrov 14, Petrov 23, Petrov 79, Maloney 17, Nakamura 67;
 
 ; Dunfermline Ath        ; 1-2; Hibernian
   Mason 87; O'Connor 48, O'Connor 83
@@ -577,7 +577,7 @@ Date: 2/8/2006
   Hunt 9, Burchill 11; Dargo (pk) 81, Wyness 88
 
 ; Hibernian              ; 7-0; Livingston
-  Killen 19, Riordan (pk) 33, Riordan 44, O'Connor 48, Mackay (og) 70, Fletcher 89, Fletcher 90
+  Killen 19, Riordan (pk) 33, Riordan 44, O'Connor 48, Mackay (og) 70, Fletcher 89, Fletcher 90;
 
 ; Kilmarnock             ; 2-0; Motherwell
   Wales 34, Wales 51;
@@ -667,7 +667,7 @@ Date: 3/11/2006
   McDonald 31, McDonald 46, Foran 53; Craig 55
 
 ; Rangers                ; 4-0; Kilmarnock
-  Boyd 13, Rodriguez 71, Prso (pk) 85, Lovenkrands 87
+  Boyd 13, Rodriguez 71, Prso (pk) 85, Lovenkrands 87;
 
 Date: 3/12/2006
 
@@ -854,7 +854,7 @@ Date: 5/7/2006
 * 6.Aberdeen             38 13 15 10  46-40  54
 
 
-Relegation Playoff
+*Relegation Playoff
 
 * 7.Inverness Caled. Th. 38 15 13 10  51-38  58
 * 8.Motherwell           38 13 10 15  55-61  49

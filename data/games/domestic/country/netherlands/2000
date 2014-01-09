@@ -259,12 +259,12 @@ Date: 10/14/2000
   Danny Landzaat 28, Jattoo Ceesay 43, Mariano Bombarda 47, Arno Arts (pk) 65, Mitchell van der Gaag (og) 75, Yassine Abdellaoui 88; Igor Glusevic 56, Igor Glusevic 69
 
 ; Heerenveen     ; 1-1; RKC
-  Jeffrey Talan 19: Arjan Human 46
+  Jeffrey Talan 19; Arjan Human 46
 
 ; PSV            ; 0-0; NEC
 
 ; Roda           ; 2-0; Groningen
-  Yannis Anastasiou 19, Yannis Anastasiou 60
+  Yannis Anastasiou 19, Yannis Anastasiou 60;
 
 Date: 10/15/2000
 
@@ -297,7 +297,7 @@ Date: 10/21/2000
 Date: 10/22/2000
 
 ; Groningen      ; 4-0; Fortuna
-  Leonardo 30, Dejan Curovic 46, Dejan Curovic 67, Hugo 64
+  Leonardo 30, Dejan Curovic 46, Dejan Curovic 67, Hugo 64;
 
 ; AZ             ; 0-2; Vitesse
 ;  Matthew Amoah 42, Viktor Sikora 88
@@ -400,7 +400,7 @@ Date: 11/11/2000
 
 Date: 11/12/2000
 
-PSV             1-0 Feyenoord
+; PSV            ; 1-0; Feyenoord
   Arnold Bruggink (pk) 78;
 
 ; Twente         ; 4-0; NAC
@@ -419,7 +419,7 @@ PSV             1-0 Feyenoord
   Robin Nelisse (pk) 72, John Bosman 90; Dave van den Bergh 9
 
 ; Ajax           ; 4-1; Graafschap
-  Wamberto 6, Christian Chivu (pk) 58, Cedric van der Gun 64, 81; Eric Viscaal 31
+  Wamberto 6, Christian Chivu (pk) 58, Cedric van der Gun 64, Cedric van der Gun 81; Eric Viscaal 31
 
 Round: 13
 Date: 11/17/2000
@@ -538,7 +538,7 @@ Round: 16
 Date: 12/9/2000
 
 ; Graafschap     ; 0-4; Groningen
-  Hugo 46, Hugo 86, Leonardo 71, Joost Broerse 88
+;  Hugo 46, Hugo 86, Leonardo 71, Joost Broerse 88
 
 ; Fortuna        ; 2-1; Sparta
   Dennis Gerritsen 8, Ronald Hamming 63; Robert Roest (og) 15
@@ -640,7 +640,7 @@ Date: 12/21/2000
 Date: 1/27/2001
 
 ; PSV            ; 6-0; RBC
-  Mateja Kezman 10, Mateja Kezman 19, Mateja Kezman 48, Marcel Cas (og) 44, Arnold Bruggink (pk) 67, Arnold Bruggink  90
+  Mateja Kezman 10, Mateja Kezman 19, Mateja Kezman 48, Marcel Cas (og) 44, Arnold Bruggink (pk) 67, Arnold Bruggink 90;
 
 Round: 19 
 Date: 1/31/2001
@@ -815,7 +815,7 @@ Round: 24
 Date: 3/9/2001
 
 ; Roda           ; 1-0; NAC
-  Yannis Anastasiou 64
+  Yannis Anastasiou 64;
 
 ; Graafschap     ; 0-1; Heerenveen
 ;  Jeffrey Talan 75
@@ -1171,7 +1171,7 @@ Date: 5/27/2001
 Date: 5/31/2001
 * matches postponed following death NAC player Ferry van Vliet in road accident
 
-Fortuna         4-1 Willem II
+; Fortuna        ; 4-1; Willem II
   Joos van Barneveld 1, Dennis Gerritsen 40, Joost Volmer 51, Marco Heering 72; Jattoo Ceesay 2
 
 ; Graafschap     ; 1-1; NAC

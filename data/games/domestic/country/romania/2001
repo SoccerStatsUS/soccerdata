@@ -30,123 +30,112 @@ Round: 1
 Date: 8/3/2001
 
 ; Sportul stud. ; 3-0; Petrolul 
-  Mazilu 80, 85, 90
+  Mazilu 80, Mazilu 85, Mazilu 90;
  
 Date: 8/4/2001
 
 ; Dinamo        ; 3-1; Ceahlaul 
-  Semeghin 21, C.Niculescu 39, 82; Enache 73
+  Semeghin 21, C.Niculescu 39, C. Niculescu 82; Enache 73
  
 ; Craiova       ; 4-0; Gloria 
-  I.Savu 7, 79, C.Dobre 12, Domocos 20
+  I.Savu 7, I. Savu 79, C.Dobre 12, Domocos 20;
  
 ; National      ; 1-1; Otelul 
   S.Radu 37; Gurita 50
  
 ; Astra         ; 1-0; Arges 
-  Dascalescu 31
+  Dascalescu 31;
  
 ; Farul         ; 1-1; Brasov 
-  L.Mihai 12; Buga 54pen
+  L.Mihai 12; Buga (pk) 54
  
 
 Date: 8/5/2001
 
 ; UMT           ; 0-3; Rapid 
-  Pancu 29, Scumacher 69, Sumudica 85
+;  Pancu 29, Scumacher 69, Sumudica 85
  
 ; Bacau         ; 0-1; Steaua 
-  F.Dumitru 56
+;  F.Dumitru 56
  
-
 Round: 2
-
 Date: 8/10/2001
 
 ; Arges         ; 3-3; Bacau 
   Stan 47, Dita 83, Stroe 88; Cursaru 15, Vaduva 74, Pitu 86
  
-
 Date: 8/11/2001
 
 ; Petrolul      ; 1-0; Astra 
-  A.Savu 54
+  A.Savu 54;
  
 ; Otelul        ; 2-1; UMT 
-  Gurita 53, 84; Maris 52
+  Gurita 53, Gurita 84; Maris 52
  
 ; Ceahlaul      ; 1-0; Farul 
-  A.Solomon 24
+  A.Solomon 24;
  
 ; Gloria        ; 1-0; National 
-  Zahariuc 63
+  Zahariuc 63;
  
-
 Date: 8/12/2001
 
 ; Steaua        ; 4-1; Craiova 
-  Raducanu 32, Danciulescu 43, 82, Lincar 85; I.Savu 88
+  Raducanu 32, Danciulescu 43, Danciulescu 82, Lincar 85; I.Savu 88
  
 ; Rapid         ; 2-2; Dinamo 
-  Schumacher 40, Pancu 72; Mihalcea 37, 90
+  Schumacher 40, Pancu 72; Mihalcea 37, Mihalcea 90
  
 ; Brasov        ; 2-0; Sportul stud. 
-  Onofras 75, Buga 90
+  Onofras 75, Buga 90;
  
-
 Round: 3 
-
 Date: 8/17/2001
 
 ; Dinamo        ; 5-1; UMT 
-  C.Niculescu 26,74, Mihalcea 49, Nastase 53, Bolohan 90; Mada 56pen
+  C.Niculescu 26, C. Niculescu 74, Mihalcea 49, Nastase 53, Bolohan 90; Mada (pk) 56
  
 ; National      ; 3-2; Steaua 
-  Mitrovic 9,49, Coman 78; F.Dumitru 13pen
+  Mitrovic 9, Mitrovic 49, Coman 78; F.Dumitru (pk) 13
  
-
 Date: 8/18/2001
 
 ; Astra         ; 3-0; Brasov 
-  Negoita 45, Petroesc 60,72
+  Negoita 45, Petroesc 60, Petroesc 72;
  
 ; Gloria        ; 1-0; Otelul 
-  H.Cioloboc 78
+  H.Cioloboc 78;
  
 ; Farul         ; 1-3; Rapid 
   L.Mihai 28; Sumudica 8, Iencsi 77, Pancu 90
  
 ; Sportul stud. ; 3-1; Ceahlaul 
-  Bucur 11,79, Paduret 62pen; Solomon 55
+  Bucur 11, Bucur 79, Paduret (pk) 62; Solomon 55
  
-
 Date: 8/19/2001
 
 ; Craiova       ; 1-0; Arges 
-  Dragomir 38
+  Dragomir 38;
  
 ; Bacau         ; 2-0; Petrolul 
-  Ciocoiu 23, C.Ilie 75
+  Ciocoiu 23, C.Ilie 75;
  
-
 Round: 4 
-
 Date: 8/24/2001
 
 ; Petrolul      ; 2-0; Craiova 
-  Costescu 28,43
+  Costescu 28, Costescu 43;
  
-
 Date: 8/25/2001
 
 ; Arges         ; 0-4; National 
-  Mitrovic 2, Caramarin 21, Coman 41, Carabas 62
+;  Mitrovic 2, Caramarin 21, Coman 41, Carabas 62
  
 ; Ceahlaul      ; 1-1; Astra 
   Vochin 63; Illyes 81
  
 ; UMT           ; 0-2; Farul 
-  Chirea 8, Voicu 17
+;  Chirea 8, Voicu 17
  
 ; Steaua        ; 1-1; Gloria 
   Danciulescu 42; Cioloboc 55
@@ -155,99 +144,90 @@ Date: 8/25/2001
 Date: 8/26/2001
 
 ; Rapid         ; 1-0; Sportul stud. 
-  Pancu 70pen
+  Pancu (pk) 70;
  
 ; Brasov        ; 1-0; Bacau 
-  Buga 89pen
+  Buga (pk) 89;
  
 ; Otelul        ; 2-1; Dinamo 
-  Bastina 32, Andone 44pen; Tames 70
+  Bastina 32, Andone (pk) 44; Tames 70
  
-
 Round: 5 
-
 Date: 9/7/2001
 
 ; National      ; 2-2; Petrolul 
   Mitrovic 15, Potocianu 88; Orlando 22, Rohat 25
  
-
 Date: 9/8/2001
 
 ; Gloria        ; 2-0; Arges 
-  Miszti 22, Cioloboc 59
+  Miszti 22, Cioloboc 59;
  
 ; Sportul       ; 3-0; UMT 
-  Chihaia 2, Dinita 68, Bucur 72
+  Chihaia 2, Dinita 68, Bucur 72;
  
 ; Craiova       ; 0-0; Brasov 
 
 ; Farul         ; 2-2; Dinamo 
   Dicu 17, Cristocea 75; Tames 15, R.Niculescu 42
  
-
 Date: 9/9/2001
 
 ; Steaua        ; 2-0; Otelul 
-  P.Stoica 3, Danciulescu 62
+  P.Stoica 3, Danciulescu 62;
  
 ; Bacau         ; 1-1; Ceahlaul 
   Currsaru 38; Solomon 80
  
 ; Astra         ; 1-2; Rapid 
-  Mihart 2; Pancu 28pen, 80
+  Mihart 2; Pancu (pk) 28, Pancu 80
  
 
 Round: 6 
-
 Date: 9/15/2001
 
 ; UMT           ; 1-1; Astra 
   Vlaicu 46; Mihart 13
  
 ; Rapid         ; 1-0; Bacau 
-  Schumacher 37
+  Schumacher 37;
  
 ; Petrolul      ; 0-1; Gloria 
-  Cioloboc 47
+;  Cioloboc 47
  
 ; Otelul        ; 0-0; Farul 
 
 ; Ceahlaul      ; 0-1; Craiova 
-  Domocos 76
+;  Domocos 76
  
 ; Brasov        ; 1-1; National 
   T.Petre 31; S.Radu 74
  
-
 Date: 9/16/2001
 
 ; Dinamo        ; 5-1; Sportul 
-  Mihalcea 26, 67, Tames 28, Zicu 82, 90; Mazilu 84
+  Mihalcea 26, Mihalcea 67, Tames 28, Zicu 82, Zicu 90; Mazilu 84
  
 ; Arges         ; 0-4; Steaua 
-  Trica 1, 88, Danciulescu 30, Lita 34
+;  Trica 1, Trica 88, Danciulescu 30, Lita 34
  
-
 Round: 7 
-
 Date: 9/22/2001
 
 ; Craiova       ; 2-2; Rapid 
   Stoican 7, Iacob 86 ; Maldarasanu 29, Perja 60
  
 ; National      ; 3-1; Ceahlaul 
-  S.Radu 10, M.Ionescu 50og, R.Niculescu 63; C.Ilie 42
+  S.Radu 10, M.Ionescu (og) 50, R.Niculescu 63; C.Ilie 42
  
 ; Arges         ; 1-0; Otelul 
-  Iordache 67
+  Iordache 67;
  
 ; Sportul Stud. ; 0-3; Farul 
-  L.Mihai 2, Cristocea 37, 55
+;  L.Mihai 2, Cristocea 37, Cristocea 55
  
 ; Bacau         ; 1-0; UMT 
-  Cursaru 72pen
- 
+  Cursaru (pk) 72;
 
 Date: 9/23/2001
 
@@ -257,22 +237,21 @@ Date: 9/23/2001
 ; Astra         ; 1-1; Dinamo 
 
 ; Gloria        ; 1-0; Brasov 
-  Sanmartean 43
+  Sanmartean 43;
  
 Round: 8 
 Date: 9/28/2001
 
 ; Otelul        ; 4-2; Sportul Stud. 
-  Ghionea 11, Gurita 35, Bastina 54, Andone 88pen; Dinita 10, Ciubotaru 52
+  Ghionea 11, Gurita 35, Bastina 54, Andone (pk) 88; Dinita 10, Ciubotaru 52
  
-
 Date: 9/29/2001
 
 ; Petrolul      ; 1-1; Arges 
   Orlando 32; Dita 48
  
 ; Ceahlaul      ; 4-1; Gloria 
-  T.Serban 9, Solomon 40, Rosoaga 86, Banceu 89; Sanmartean 90pen
+  T.Serban 9, Solomon 40, Rosoaga 86, Banceu 89; Sanmartean (pk) 90
  
 ; Farul         ; 3-2; Astra 
   I.Barbu 59, Cristocea 71, Teican 81; Duna 11, Gavrilescu 72
@@ -284,7 +263,7 @@ Date: 9/29/2001
 Date: 9/30/2001
 
 ; Dinamo        ; 4-2; Bacau 
-  Mihalcea 20pen, 60, 82, Bolohan 35; Cursaru 40, F.Petcu 83
+  Mihalcea (pk) 20, Mihalcea 60, Mihalcea 82, Bolohan 35; Cursaru 40, F.Petcu 83
  
 ; Rapid         ; 0-0; National 
 
@@ -295,51 +274,50 @@ Round: 9
 Date: 10/13/2001
 
 ; Craiova       ; 0-2; Dinamo 
-  V.Munteanu 52, Tames 69
+;  V.Munteanu 52, Tames 69
  
 ; Otelul        ; 0-0; Petrolul 
 
 ; Arges         ; 1-0; Brasov 
-  Dica 48
+  Dica 48;
  
 ; Astra         ; 0-0; Sportul stud.
 
 ; National      ; 3-0; UMT 
-  Papura 32, S.Radu 58, 63
+  Papura 32, S.Radu 58, S. Radu 63;
  
 ; Bacau         ; 3-0; Farul 
-  Cursaru 5, M.Croitoru 12, 29
+  Cursaru 5, M.Croitoru 12, M. Croitoru 29;
  
 
 Date: 10/14/2001
 
 ; Gloria        ; 0-1; Rapid 
-  Pancu 51
+;  Pancu 51
  
 ; Steaua        ; 1-0; Ceahlaul 
-  C.Raducan 17
+  C.Raducan 17;
  
 
 Round: 10 
-
 Date: 10/20/2001
 
 ; Brasov        ; 4-1; Petrolul 
-  F.Moldovan 14, Toporan 51og, Iorga 69, Stere 89; Costescu 44
+  F.Moldovan 14, Toporan (og) 51, Iorga 69, Stere 89; Costescu 44
  
 ; Ceahlaul      ; 2-0; Arges 
-  Enache 8,90
+  Enache 8, Enache 90;
  
 ; Astra         ; 0-0; Otelul 
 
 ; Farul         ; 5-3; Craiova 
-  I.Barbu 14, L.Mihai 50, 73, 85pen, Senin 77; Danciu 55, Manta 83, Dobre 89
+  I.Barbu 14, L.Mihai 50, L. Mihai 73, (pk) 85, Senin 77; Danciu 55, Manta 83, Dobre 89
  
 ; Sportul stud. ; 1-3; Bacau 
-  Paduret 26pen; Nivaldo 44, F.Petcu 61, Cursaru 70
+  Paduret (pk) 26; Nivaldo 44, F.Petcu 61, Cursaru 70
  
 ; UMT           ; 4-1; Gloria 
-  C.Balaci 43, 45, 81, Batrinu 50; Coroian 36
+  C.Balaci 43, C.Balaci 45, C.Balaci 81, Batrinu 50; Coroian 36
  
 
 Date: 10/21/2001
@@ -347,27 +325,26 @@ Date: 10/21/2001
 ; Dinamo        ; 0-0; National 
 
 ; Rapid         ; 3-0; Steaua 
-  Pancu 15, 72, Mutica 80
+  Pancu 15, Pancu 72, Mutica 80;
  
 
 Round: 11 
-
 Date: 10/27/2001
 
 ; Craiova       ; 3-0; Sportul stud. 
-  Barcauan 40, 88, Manta 45
+  Barcauan 40, Barcauan 88, Manta 45;
  
 ; National      ; 2-0; Farul 
-  S.Radu 15, G.Popescu 45
+  S.Radu 15, G.Popescu 45;
  
 ; Arges         ; 1-0; Rapid 
-  Dica 45
+  Dica 45;
  
 ; Petrolul      ; 3-0; Ceahlaul 
-  Todoran 33pen, 75, Orlando 63
+  Todoran (pk) 33, Todoran 75, Orlando 63
  
 ; Otelul        ; 3-0; Brasov 
-  Tofan 17pen, Gurita 38, Bastina 86
+  Tofan (pk) 17, Gurita 38, Bastina 86;
  
 ; Bacau         ; 2-1; Astra 
   Nivaldo 4, Cursaru 26; Dascalescu 90
@@ -376,73 +353,69 @@ Date: 10/27/2001
 Date: 10/28/2001
 
 ; Steaua        ; 1-0; UMT 
-  C.Raducan 54
+  C.Raducan 54;
  
 ; Gloria        ; 1-2; Dinamo 
-  V.Popa 72; Bolohan 4, 75
+  V.Popa 72; Bolohan 4, Bolohan 75
  
 
 Round: 12 
-
 Date: 11/2/2001
 
 ; Sportul stud. ; 0-1; National 
-  Mitrovic 7
+;  Mitrovic 7
  
 
 Date: 11/3/2001
 
 ; Dinamo        ; 2-0; Steaua 
-  Mihalcea 26, Bolohan 49
+  Mihalcea 26, Bolohan 49;
  
 ; Rapid         ; 4-1; Petrolul 
-  Sumudica 55, 58, Rat 67, Bogdanovic 81; Irimescu 83
+  Sumudica 55, Sumudica 58, Rat 67, Bogdanovic 81; Irimescu 83
  
 ; Ceahlaul      ; 1-0; Brasov 
-  A.Solomon 29
+  A.Solomon 29;
  
 ; Farul         ; 1-0; Gloria 
-  Negru 51
+  Negru 51;
  
 ; UMT           ; 1-1; Arges 
   Vlaicu 40; Vladoiu 12
  
 ; Bacau         ; 1-0; Otelul 
-  Badoi 30
+  Badoi 30;
  
-
 Date: 11/4/2001
 
 ; Astra         ; 2-2; Craiova 
-  Duna 38, Illyes 42; Danciu 83, 89
+  Duna 38, Illyes 42; Danciu 83, Danciu 89
  
-
 Round: 13
-
 Date: 11/17/2001
 
 ; Craiova       ; 3-0; Bacau 
-  Manta 14, Barcauan 16, 74
+  Manta 14, Barcauan 16, Barcauan 74;
  
 ; National      ; 2-1; Astra 
-  Negoita 54og, Falub 89; Duna 24
+  Negoita (og) 54, Falub 89; Duna 24
  
 ; Arges         ; 1-2; Dinamo 
-  Vladoiu 78pen; Mihalcea 12, C.Niculescu 68
+  Vladoiu (pk) 78; Mihalcea 12, C.Niculescu 68
  
 ; Petrolul      ; 0-2; UMT 
-  Savoiu 8, Giuchici 89
+;  Savoiu 8, Giuchici 89
  
 ; Otelul        ; 0-0; Ceahlaul 
 
 ; Gloria        ; 4-1; Sportul stud. 
-  Zahariuc 23, Coroian 43, 67pen, Mandrean 89; Irimia 39
+  Zahariuc 23, Coroian 43, Coroian (pk) 67, Mandrean 89; Irimia 39
  
 
 Date: 11/18/2001
 
 ; Steaua        ; 3-0; Farul 
-  Senin 14, C.Raducanu 57, 85
+  Senin 14, C.Raducanu 57, C. Raducanu 85;
  
 *Brasov         awd Rapid        [awarded 3-0; Rapid left the pitch at 1-0 in 95'
 *  [Vacsko 33]                    after having had a penalty appeal turned down]
@@ -451,77 +424,71 @@ Round: 14
 Date: 11/24/2001
 
 ; Dinamo        ; 4-1; Petrolul 
-  Mihalcea 34, S.Ilie 66, Tames 72, Voinea 74og; Todoran 85pen
+  Mihalcea 34, S.Ilie 66, Tames 72, Voinea (og) 74; Todoran (pk) 85
  
 ; Craiova       ; 1-0; Otelul 
-  Grigorie 52
+  Grigorie 52;
  
 ; Astra         ; 1-0; Gloria 
-  Craciun 59
+  Craciun 59;
  
 ; Farul         ; 1-0; Arges 
-  Dicu 84
+  Dicu 84;
  
 ; UMT           ; 2-1; Brasov 
-  Maxim 28, Mada 48pen; Sandor 77
+  Maxim 28, Mada (pk) 48; Sandor 77
  
 ; Bacau         ; 1-5; National 
-  Badoi 86; Mitrovic 6, 61, S.Radu 24, Coman 57, Iordache 81
+  Badoi 86; Mitrovic 6, Mitrovic 61, S.Radu 24, Coman 57, Iordache 81
  
-
 Date: 11/25/2001
 
 ; Rapid         ; 1-3; Ceahlaul 
-  Pancu 88; Solomon 44, 45, C.Ilie 83pen
+  Pancu 88; Solomon 44, 45, C.Ilie (pk) 83
  
 ; Sportul stud. ; 3-1; Steaua 
   Bucur 62, Chihaia 89, Mazilu 90; Neaga 33
  
-
 Round: 15 
-
 Date: 12/1/2001
 
 ; National      ; 1-1; Craiova 
-  P.Marin 60; G.Coman 6og
+  P.Marin 60; G.Coman (og) 6
  
 ; Arges         ; 5-1; Sportul stud. 
-  Vladoiu 1, 24, 81pen, G.Tudor 19, A.Iordache 85; Ciubotariu 67
+  Vladoiu 1, Vladoiu 24, (pk) 81, G.Tudor 19, A.Iordache 85; Ciubotariu 67
  
 ; Petrolul      ; 1-1; Farul 
-  Senin 88og; Teican 68
+  Senin (og) 88; Teican 68
  
 ; Otelul        ; 2-0; Rapid 
-  Gurita 4, M.Dinu 39
+  Gurita 4, M.Dinu 39;
  
 ; Ceahlaul      ; 5-1; UMT 
-  Luput 31, T.Serban 37, 68, Solomon 44, C.Ilie 80pen; F.Batrinu 71
+  Luput 31, T.Serban 37, T. Serban 68, Solomon 44, C.Ilie (pk) 80; F.Batrinu 71
  
 ; Gloria        ; 2-0; Bacau 
-  Bucuroaia 69, 85
+  Bucuroaia 69, Bucuroaia 85;
  
-
 Date: 12/2/2001
 
 ; Steaua        ; 1-0; Astra 
-  C.Raducanu 3
+  C.Raducanu 3;
  
 ; Brasov        ; 1-1; Dinamo 
   F.Moldovan 71; V.Munteanu 57
- 
 
 Round: 16
-
 Date: 3/9/2002
 
 ; Otelul        ; 2-0; National
-  Gurita 36, B.Andone 56pen
+  Gurita 36, B.Andone (pk) 56;
 
 ; Gloria        ; 1-2; Craiova
   V.Popa 29; Rednic 10, Danciu 24
 
 ; Arges         ; 2-0; Astra
-  Dica 26, Vladoiu 87pen
+  Dica 26, Vladoiu (pk) 87;
 
 ; Petrolul      ; 1-1; Sportul stud.
   Costescu 75; Bucur 8
@@ -534,11 +501,12 @@ Date: 3/9/2002
 
 Date: 3/10/2002
 
-; Ceahlaul      ; 1-2; Dinamo       [awarded of 0-3 loss to both revoked]
+; Ceahlaul      ; 1-2; Dinamo       
   Serban 75; Kirita 56, Munteanu 58
+*[awarded of 0-3 loss to both revoked]
     
 ; Rapid         ; 6-0; UMT
-  Pancu 9, 34, 67, 85, Soava 35, D.Serban 42
+  Pancu 9, Pancu 34, Pancu 67, Pancu 85, Soava 35, D.Serban 42
 
 
 Round: 17
@@ -546,31 +514,31 @@ Round: 17
 Date: 3/16/2002
 
 ; Craiova       ; 2-0; Steaua         
-  Frasineanu 19, Barcauan 44
+  Frasineanu 19, Barcauan 44;
 
 ; Astra         ; 2-1; Petrolul       
   Duna 11, Mihart 59; Pascovici 90
 
 ; Farul         ; 1-2; Ceahlaul       
-  Negru 85pen; Brujan 24, Axinia 26
+  Negru (pk) 85; Brujan 24, Axinia 26
 
 ; Sportul stud. ; 1-0; Brasov         
-  Paduret 28
+  Paduret 28;
 
 ; UMT           ; 0-1; Otelul         
-  Gurita 57
+;  Gurita 57
 
 ; Bacau         ; 2-0; Arges          
-  Ardeleanu 48, Cursaru 57pen
+  Ardeleanu 48, Cursaru (pk) 57;
 
 
 Date: 3/17/2002
 
 ; Dinamo        ; 3-2; Rapid          
-  C.Niculescu 11,37, Dragan 40; Pancu 6, Illyes 50
+  C.Niculescu 11, C. Niculescu 37, Dragan 40; Pancu 6, Illyes 50
 
 ; National      ; 2-0; Gloria         
-  P.Marin 28, M.Savu 65
+  P.Marin 28, M.Savu 65;
 
 Round: 18
 Date: 3/23/2002
@@ -578,52 +546,48 @@ Date: 3/23/2002
 ; Steaua        ; 0-0; National
 
 ; Rapid         ; 2-1; Farul
-  Iencsi 24, Schumacher 82; Negru 20pen
+  Iencsi 24, Schumacher 82; Negru (pk) 20
 
 ; Petrolul      ; 0-1; Bacau
-  Cursaru 67
+;  Cursaru 67
 
 ; Otelul        ; 1-0; Gloria
-  D.Oprea 85
+  D.Oprea 85;
 
 ; Ceahlaul      ; 2-1; Sportul stud.
-  Enache 10, T.Serban 90pen; Dinita 83
+  Enache 10, T.Serban (pk) 90; Dinita 83
 
 ; UMT           ; 0-3; Dinamo
-  Danciulescu 8pen, Dragan 56, V.Munteanu 67
-
+;  Danciulescu (pk) 8, Dragan 56, V.Munteanu 67
 
 Date: 3/24/2002
 
 ; Arges         ; 1-0; Craiova
-  Balasa 72
+  Balasa 72;
 
 ; Brasov        ; 1-0; Astra
-  Stan 21
-
+  Stan 21;
 
 Round: 19
-
 Date: 3/30/2002
 
 ; Craiova       ; 0-2; Petrolul
-  Tudor 75, Orlando 88
+;  Tudor 75, Orlando 88
 
 ; National      ; 1-2; Arges
   G.Popescu 12; Dica 56, Tanasa 77
 
 ; Astra         ; 3-0; Ceahlaul
-  Mihalache 18, Lacusta 36, Duna 58
+  Mihalache 18, Lacusta 36, Duna 58;
 
 ; Gloria        ; 2-1; Steaua
   Coroian 41, Bucuroaia 60; Neaga 90
 
 ; Farul         ; 3-0; UMT
-  Negru 41, Cristocea 76, Popete 82
+  Negru 41, Cristocea 76, Popete 82;
 
 ; Bacau         ; 2-0; Brasov
-  Ardeleanu 18, Cursaru 22
-
+  Ardeleanu 18, Cursaru 22;
 
 Date: 3/31/2002
 
@@ -631,30 +595,28 @@ Date: 3/31/2002
   C.Niculescu 9, C.Ilie 40; V.Tanase 24, Gurita 49
 
 ; Sportul stud. ; 0-1; Rapid
-  Iencsi 72pen
-
+;  Iencsi (pk) 72
 
 Round: 20
-
 Date: 4/6/2002
 
 ; Dinamo        ; 1-1; Farul
   C.Niculescu 14; Trofin 80
 
 ; Arges         ; 3-0; Gloria
-  Dica 38, Balasa 68pen, 81
+  Dica 38, Balasa (pk) 68, Balasa 81;
 
 ; Brasov        ; 1-1; Craiova
   Onofras 78; V.Iacob 67
 
 ; Otelul        ; 1-0; Steaua
-  V.Tanase 81
+  V.Tanase 81;
 
 ; Ceahlaul      ; 2-0; Bacau
-  Feizula 48, Solomon 84
+  Feizula 48, Solomon 84;
 
 ; UMT           ; 3-3; Sportul stud.
-  Calin 9, Mada 18pen, Vlaicu 77; Bucur 16, 31, 87
+  Calin 9, Mada (pk) 18, Vlaicu 77; Bucur 16, Bucur 31, Bucur 87
 
 
 Date: 4/7/2002
@@ -668,31 +630,31 @@ Round: 21
 Date: 4/13/2002
 
 ; National      ; 1-0; Brasov         
-  M.Savu 45
+  M.Savu 45;
 
 ; Astra         ; 1-0; UMT            
-  Mihalache 42
+  Mihalache 42;
 
 ; Gloria        ; 1-0; Petrolul       
-  Coroian 20
+  Coroian 20;
 
 ; Farul         ; 0-2; Otelul         
-  Andone 1, Pelin 20
+;  Andone 1, Pelin 20
 
 ; Sportul stud. ; 1-0; Dinamo         
-  Bucur 32
+  Bucur 32;
 
 ; Bacau         ; 1-0; Rapid          
-  Cursaru 16
+  Cursaru 16;
 
 
 Date: 4/14/2002
 
 ; Steaua        ; 0-1; Arges          
-  Vlad 47
+;  Vlad 47
 
 ; Craiova       ; 0-1; Ceahlaul       
-  Nemtanu 75
+;  Nemtanu 75
 
  
 Round: 22
@@ -703,7 +665,7 @@ Date: 4/20/2002
   Tames 21; Constantin 24
 
 ; Rapid         ; 3-2; Craiova        
-  Sumudica 38, D.Serban 45, Iencsi 48pen; Verdes 28, Grigorie 64
+  Sumudica 38, D.Serban 45, Iencsi (pk) 48; Verdes 28, Grigorie 64
 
 ; Brasov        ; 0-0; Gloria         
 
@@ -716,40 +678,38 @@ Date: 4/20/2002
 ; Farul         ; 0-0; Sportul stud.  
 
 ; UMT           ; 2-4; Bacau          
-  Calin 35, Savoiu 65; Badoi 5, 52, Ciocoiu 22, Cursaru 44
+  Calin 35, Savoiu 65; Badoi 5, Badoi 52, Ciocoiu 22, Cursaru 44
 
 Date: 4/21/2002
 
 ; Petrolul      ; 1-1; Steaua         
   Irimescu 2; C.Raducanu 79
 
- 
 Round: 23
-
 Date: 4/27/2002
 
 ; Craiova       ; 0-0; UMT            
 
 ; National      ; 1-0; Rapid          
-  G.Popescu 1
+  G.Popescu 1;
 
 ; Arges         ; 1-1; Petrolul       
-  M.Radu 43; Todoran 3pen
+  M.Radu 43; Todoran (pk) 3
 
 ; Astra         ; 1-0; Farul          
-  Movila 88
+  Movila 88;
 
 ; Gloria        ; 2-0; Ceahlaul       
-  Birsan 7, Coroian 84
+  Birsan 7, Coroian 84;
 
 ; Bacau         ; 4-2; Dinamo         
-  Iodi 7og, Badoi 41, Cursaru 56, 88; C.Niculescu 18, Danciulescu 65
+  Iodi (og) 7, Badoi 41, Cursaru 56, Cursaru 88; C.Niculescu 18, Danciulescu 65
 
 
 Date: 4/28/2002
 
 ; Steaua        ; 4-0; Brasov         
-  Lita 23, Neaga 29, F.Dumitru 40, C.Raducanu 85
+  Lita 23, Neaga 29, F.Dumitru 40, C.Raducanu 85;
 
 ; Sportul stud. ; 2-1; Otelul         
   Stancu 82, Dinita 89; D.Oprea 67
@@ -759,19 +719,19 @@ Round: 24
 Date: 5/1/2002
 
 ; Dinamo        ; 2-0; Craiova        
-  C.Niculescu 10, F.Petre 90
+  C.Niculescu 10, F.Petre 90;
 
 ; Rapid         ; 5-0; Gloria         
-  Illyes 29, 72, Sumudica 50pen, 89, Bratu 63
+  Illyes 29, Illyes 72, Sumudica (pk) 50, Sumudica 89, Bratu 63
 
 ; Brasov        ; 2-0; Arges          
-  Vacsko 11, Dani 30
+  Vacsko 11, Dani 30;
 
 ; Petrolul      ; 1-2; Otelul         
-  Todoran 3pen; D.Oprea 16, B.Andone 26pen
+  Todoran (pk) 3; D.Oprea 16, B.Andone (pk) 26
 
 ; Ceahlaul      ; 0-1; Steaua         
-  Neaga 85
+;  Neaga 85
 
 ; Farul         ; 2-3; Bacau          
   I.Barbu 15, Teican 86; Cursaru 59, Badoi 62, 90
@@ -780,31 +740,31 @@ Date: 5/1/2002
   Maxim 52; Movila 10, A.Dumitru 76
 
 ; UMT           ; 0-1; National       
-  G.Popescu 10
+;  G.Popescu 10
 
 
 Round: 25 
 Date: 5/4/2002
 
 ; Steaua        ; 2-1; Rapid
-  C.Raducanu 24, 72; Sumudica 68
+  C.Raducanu 24, C. Raducanu 72; Sumudica 68
 
 ; Craiova       ; 3-0; Farul 
-  Grigorie 33, Dobre 43, D.Rednic 74
+  Grigorie 33, Dobre 43, D.Rednic 74;
 
 ; National      ; 1-0; Dinamo
-  S.Radu 39pen
+  S.Radu (pk) 39;
 
 ; Arges         ; 1-0; Ceahlaul
-  Chita 26
+  Chita 26;
 
 ; Petrolul      ; 2-2; Brasov
-  Todoran 14pen, Grama 51; Stere 51, Vasc 72
+  Todoran (pk) 14, Grama 51; Stere 51, Vasc 72
 
 ; Otelul        ; 0-0; Astra
 
 ; Gloria        ; 3-1; UMT
-  Minteuan 23, Coroian 32pen, 74; Savoiu 67
+  Minteuan 23, Coroian (pk) 32, Coroian 74; Savoiu 67
 
 ; Bacau         ; 2-2; Sportul stud.
   Ciobanu 64, Ardeleanu 90; Balan 53, Bucur 80
@@ -814,51 +774,50 @@ Round: 26
 Date: 5/15/2002
 
 ; Dinamo        ; 1-0; Gloria         
-  C.Dragan 6
+  C.Dragan 6;
 
 ; Rapid         ; 1-1; Arges          
   D.Nicolae 43; Chita 77
 
 ; Brasov        ; 1-0; Otelul         
-  Ogararu 46og
+  Ogararu (og) 46;
 
 ; Ceahlaul      ; 1-3; Petrolul       
-  Feizula 88; A.Savu 55, Orlando 84,90
+  Feizula 88; A.Savu 55, Orlando 84, Orlando 90
 
 ; Astra         ; 1-0; Bacau          
-  Mihalache 80
+  Mihalache 80;
 
-; Farul         ; 0-3; National     [in Galati, following riots in round 24]
-  Mitrovic 10,15, S.Ilie 83
+; Farul         ; 0-3; National     
+*[in Galati, following riots in round 24]
+;  Mitrovic 10, Mitrovic 15, S.Ilie 83
 
 ; Sportul stud. ; 2-3; Craiova        
-  Mazilu 12, Chihaia 73; Frasineanu 3pen, Vrajitoarea 6, Barcauan 60
+  Mazilu 12, Chihaia 73; Frasineanu (pk) 3, Vrajitoarea 6, Barcauan 60
 
 ; UMT           ; 0-3; Steaua         
-  Radoi 16, Raducanu 75, Cristescu 88
-
+;  Radoi 16, Raducanu 75, Cristescu 88
 
 Round: 27
-
 Date: 5/18/2002
 
 ; Craiova       ; 1-0; Astra          
-  Iacob 68
+  Iacob 68;
 
 ; National      ; 1-1; Sportul stud.  
   Falub 60; Bucur 66
 
 ; Arges         ; 4-1; UMT            
-  Vladoiu 42, Dica 44,49, Somcherechi 75; Bota 51
+  Vladoiu 42, Dica 44, Dica 49, Somcherechi 75; Bota 51
 
 ; Brasov        ; 2-0; Ceahlaul       
-  Stere 13, Bodea 55
+  Stere 13, Bodea 55;
 
 ; Petrolul      ; 0-2; Rapid          
-  Illyes 44, Nita 75
+;  Illyes 44, Nita 75
 
 ; Otelul        ; 2-1; Bacau          
-  Tanase 77,85; Ciocoiu 45
+  Tanase 77, Tanase 85; Ciocoiu 45
 
 ; Gloria        ; 2-1; Farul          
   Coroian 35, Sanmartean 91; Mocanu 56
@@ -874,25 +833,25 @@ Round: 28
 Date: 5/22/2002
 
 ; Dinamo        ; 2-1; Arges
-  Dragan 18pen, Pirvu 65; Neagoe 48
+  Dragan (pk) 18, Pirvu 65; Neagoe 48
 
 ; Rapid         ; 1-1; Brasov
-  Sumudica 28; Stere 58pen
+  Sumudica 28; Stere (pk) 58
 
 ; Ceahlaul      ; 2-1; Otelul
   Brujan 21, Luput 86; B.Andone 22
 
 ; Astra         ; 0-1; National
-  M.Savu 70
+;  M.Savu 70
 
 ; Farul         ; 0-2; Steaua
-  Raducanu 37, Neaga 82
+;  Raducanu 37, Neaga 82
 
 ; Sportul stud. ; 2-0; Gloria
-  Bucur 12, Balan 62
+  Bucur 12, Balan 62;
 
 ; UMT           ; 2-2; Petrolul
-  Balaci 86, Kovacs 89; Todoran 14pen, Costescu 65
+  Balaci 86, Kovacs 89; Todoran (pk) 14, Costescu 65
 
 ; Bacau         ; 0-0; Craiova
 
@@ -906,10 +865,10 @@ Date: 5/25/2002
   Mitrovic 60, Matei 90; Badoi 44
 
 ; Arges         ; 1-1; Farul
-  Vladoiu 65pen; Chirea 67
+  Vladoiu (pk) 65; Chirea 67
 
 ; Brasov        ; 6-1; UMT
-  Isaila 2,82, Vasc 15,44, Buga 47, Stere 58; Savoiu 78
+  Isaila 2, Isaila 82, Vasc 15, Vasc 44, Buga 47, Stere 58; Savoiu 78
 
 ; Petrolul      ; 1-2; Dinamo
   Paraschiv 54; Onut 32, C.Niculescu 55
@@ -918,7 +877,7 @@ Date: 5/25/2002
   Tofan 23, Gurita 37; Rednic 21
 
 ; Ceahlaul      ; 1-0; Rapid
-  Axinia 32
+  Axinia 32;
 
 ; Gloria        ; 2-1; Astra
   Coroian 27, Turcu 47; Dascalescu 7
@@ -928,10 +887,10 @@ Round: 30
 Date: 6/1/2002
 
 ; Dinamo        ; 4-0; Brasov
-  C.Niculescu 8, 56, Kirita 73, Danciulescu 83
+  C.Niculescu 8, C. Niculescu 56, Kirita 73, Danciulescu 83
 
 ; Rapid         ; 2-1; Otelul
-  Iencsi 41pen, Bratu 80; Ogararu 53
+  Iencsi (pk) 41, Bratu 80; Ogararu 53
 
 ; Craiova       ; 2-1; National
   Barcauan 7, Baldovin 40; S.Ilie 78
@@ -943,13 +902,13 @@ Date: 6/1/2002
   Tanase 21, Lungu 33; Aldea 44
 
 ; Sportul xtud. ; 3-3; Arges
-  Irimia 29, Bucur 55pen, Chihaia 88; Dica 5 ,74, Balasa 77
+  Irimia 29, Bucur (pk) 55, Chihaia 88; Dica 5, Dica 74, Balasa 77
 
 ; UMT           ; 0-1; Ceahlaul
-  Axinia 24pen
+;  Axinia (pk) 24
 
 ; Bacau         ; 2-0; Gloria
-  Cursaru 62, 90pen
+  Cursaru 62, (pk) 90;
 
 
 

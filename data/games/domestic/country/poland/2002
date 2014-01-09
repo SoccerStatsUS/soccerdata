@@ -29,19 +29,19 @@ Round: 1
 Date: 8/2/2002
 
 ; Lech         ; 2-0; Ostrowiec
-  Przysiuda 5, 15
+  Przysiuda 5, Przysiuda 15;
 
 
 Date: 8/3/2002
 
 ; Polonia      ; 2-0; Amica
-  Bak 9, Ekwueme 23
+  Bak 9, Ekwueme 23;
 
 ; Zaglebie L   ; 5-0; Pogon
-  Nicinski 22, Moskalewicz 34, Grzybowski 50, Manuszewski 57, Bartczak 90
+  Nicinski 22, Moskalewicz 34, Grzybowski 50, Manuszewski 57, Bartczak 90;
 
 ; Groclin      ; 3-3; Legia
-  Rasiak 22, 81pen, Moskala 37; Majewski 19, Kucharski 74, Omeljancuk 90
+  Rasiak 22, Rasiak (pk) 81, Moskala 37; Majewski 19, Kucharski 74, Omeljancuk 90
 
 ; Ruch C       ; 0-0; Górnik
 
@@ -50,25 +50,21 @@ Date: 8/3/2002
 ; Wisla P      ; 1-1; Katowice
   Janus 16; Kowalczyk 10
 
-
 Date: 8/4/2002
 
 ; Garbarnia    ; 1-1; Wisla K
   Kozubek 43; Zurawski 45
 
-
 Round: 2
-
 Date: 8/9/2002
 
 ; Wisla K      ; 5-2; Ruch C
-  Zurawski 4pen, 26, 59, Kosowski 62, 90; Wos 8, 65
-
+  Zurawski (pk) 4, Zurawski 26, Zurawski 59, Kosowski 62, Kosowski 90; Wos 8, Wos 65
 
 Date: 8/10/2002
 
 ; Polonia      ; 3-1; Wisla P
-  Bak 8, 62, Bykowski 84; Nazaruk 38
+  Bak 8, Bak 62, Bykowski 84; Nazaruk 38
 
 ; Odra W       ; 2-1; Lech
   Jarosz 1, Ziarkowski 58; Matlak 32
@@ -77,28 +73,24 @@ Date: 8/10/2002
   Dzwigala 36; Moskala 71, Rasiak 89
 
 ; Górnik       ; 3-2; Zaglebie L
-  Wisniewski 30, Niedzielan 45, Kompala 86; Zajac 43, Grzybowski 90pen
+  Wisniewski 30, Niedzielan 45, Kompala 86; Zajac 43, Grzybowski (pk) 90
 
 ; Ostrowiec    ; 3-1; Garbarnia
-  Stokowiec 7, 33 Budka 84; Chudy 47
+  Stokowiec 7, Stokowiec 33, Budka 84; Chudy 47
 
 ; Amica        ; 1-1; Legia
   Dzikija 37; Kucharski 3
 
-
 Date: 8/11/2002
 
 ; Katowice     ; 1-0; Widzew
-  Muszalik 36
-
+  Muszalik 36;
 
 Round: 3
-
 Date: 8/16/2002
 
 ; Lech         ; 0-1; Katowice
-  Wrobel 33
-
+;  Wrobel 33
 
 Date: 8/17/2002
 
@@ -106,33 +98,29 @@ Date: 8/17/2002
   Rasiak 15, Mila 20; Niedzielan 4, Gierczak 34
 
 ; Garbarnia    ; 2-3; Odra W
-  Tokarz 70, Knezevic 85; Rocki 39, Chalbinski 90, 90+1
+  Tokarz 70, Knezevic 85; Rocki 39, Chalbinski 90, Chalbinski 90+1
 
 ; Legia        ; 0-0; Pogon
 
 ; Ruch C       ; 1-1; Ostrowiec
   Narwojsz 76; Popiela 58
 
-
 Date: 8/18/2002
 
 ; Wisla P      ; 0-1; Amica
-  Dawidowski 75pen
+;  Dawidowski (pk) 75
 
 ; Widzew       ; 3-2; Polonia
-  Batata 72, 87, Wegrzyn 75; A.Bak 56, Golaszewski 62
+  Batata 72, Batata 87, Wegrzyn 75; A.Bak 56, Golaszewski 62
 
 ; Zaglebie L   ; 1-4; Wisla K
-  Grzybowski 21pen; Paszulewicz 26, Zurawski 66pen, 72pen, 77
-
+  Grzybowski (pk) 21; Paszulewicz 26, Zurawski (pk) 66, Zurawski (pk) 72, Zurawski 77
 
 Round: 4
-
 Date: 8/23/2002
 
 ; Górnik       ; 2-3; Legia
-  Niedzielan 28, Kompala 56pen; Majewski 23, Svitlica 26, Magiera 78
-
+  Niedzielan 28, Kompala (pk) 56; Majewski 23, Svitlica 26, Magiera 78
 
 Date: 8/24/2002
 
@@ -140,40 +128,37 @@ Date: 8/24/2002
   Chalbinski 13; Wos 19
 
 ; Katowice     ; 4-0; Garbarnia
-  Gajtkowski38, Bojarski 44, 53, Sierka 63
+  Gajtkowski 38, Bojarski 44, Bojarski 53, Sierka 63;
 
 ; Wisla P      ; 3-2; Widzew
   Janus 71, Romuzga 89, Mackiewicz 90; Batata 32, Wlodarczyk 51
 
 ; Ostrowiec    ; 1-0; Zaglebie L
-  Malocha 31
+  Malocha 31;
 
 ; Amica        ; 2-0; Pogon
-  Zienczuk 3, Król 73
+  Zienczuk 3, Król 73;
 
 ; Wisla K      ; 1-1; Groclin
   Kosowski 12; Wieszczycki 11
-
 
 Date: 8/25/2002
 
 ; Polonia      ; 0-0; Lech
 
 Round: 5
-
 Date: 8/30/2002
 
-Ruch C        2-0 Katowice
-  Gorawski 61, Krzysztof Bizacki 66
-
+; Ruch C       ; 2-0; Katowice
+  Gorawski 61, Krzysztof Bizacki 66;
 
 Date: 8/31/2002
 
 ; Zaglebie L   ; 0-1; Odra W
-  Sibik 47pen
+;  Sibik (pk) 47
 
 ; Groclin      ; 1-0; Ostrowiec
-  Rasiak 40
+  Rasiak 40;
 
 ; Pogon        ; 1-3; Górnik
   Dzwigala 84; Gierczak 38, Krizanic 60, Niedzielan 71
@@ -181,29 +166,24 @@ Date: 8/31/2002
 ; Lech         ; 2-2; Wisla P
   Bugaj 2, Slusarski 89; Wójcik 23, Lobodzinski 82
 
-
 Date: 9/1/2002
 
 ; Garbarnia    ; 3-1; Polonia
-  Wolanski 44, Kozubek 57, 63; Bartczak 13
+  Wolanski 44, Kozubek 57, Kozubek 63; Bartczak 13
 
 ; Legia        ; 3-2; Wisla K
-  Svitlica 3, Kucharski 68, Zielinski 83, Stolarczyk 10, Zurawski 19
-
+  Svitlica 3, Kucharski 68, Zielinski 83; Stolarczyk 10, Zurawski 19
 
 Date: 9/3/2002
 
 ; Widzew       ; 1-1; Amica
   Dymkowski 66; Dembinski 89
 
-
 Round: 6
-
 Date: 9/13/2002
 
 ; Widzew       ; 2-2; Lech
-  Batata 19, Wlodraczyk 80; Piskula 23pen, michalski 49
-
+  Batata 19, Wlodraczyk 80; Piskula (pk) 23, Michalski 49
 
 Date: 9/14/2002
 
@@ -211,16 +191,16 @@ Date: 9/14/2002
   Keska 30, Bykowski 72; Bizacki 48
 
 ; Katowice     ; 1-0; Zaglebie L
-  Sierka 9
+  Sierka 9;
 
 ; Odra W       ; 3-1; Groclin
-  Ziarkowski 21, 43, Rocki 56; Gorszkow 90
+  Ziarkowski 21, Ziarkowski 43, Rocki 56; Gorszkow 90
 
 ; Amica        ; 2-1; Górnik
   Krol 26, Djokovic 90; Wisniewski 79
 
 ; Wisla K      ; 3-0; Pogon
-  Uche 40, Kuzba 59, 90
+  Uche 40, Kuzba 59, Kuzba 90;
 
 ; Wisla P      ; 2-1; Garbarnia
   Jelen 41, Mackiewicz 57; Wolanski 73
@@ -228,22 +208,19 @@ Date: 9/14/2002
 ; Ostrowiec    ; 1-1; Legia
   Grebowski 75; Svitlica 56
 
-
 Round: 7
-
 Date: 9/20/2002
 
 ; Pogon        ; 4-1; Ostrowiec
-  Pawlak 36, 65, Chifon 77, Saranovic 88; Popiela 28
-
+  Pawlak 36, Pawlak 65, Chifon 77, Saranovic 88; Popiela 28
 
 Date: 9/21/2002
 
 ; Groclin      ; 0-2; Katowice
-  Bala 3, 80
+;  Bala 3, Bala 80
 
 ; Garbarnia    ; 1-0; Widzew
-  Kozubek 84
+  Kozubek 84;
 
 ; Ruch C       ; 0-0; Wisla P
 
@@ -256,19 +233,16 @@ Date: 9/22/2002
 Date: 9/23/2002
 
 ; Zaglebie L   ; 3-1; Polonia
-  Zajac 13, Radzius 63, Grzybowski 85pen; Bykowski 33
+  Zajac 13, Radzius 63, Grzybowski (pk) 85; Bykowski 33
 
 ; Górnik       ; 1-2; Wisla K
-  Kompala 64pen; Kuzba 38, 40
-
+  Kompala (pk) 64; Kuzba 38, Kuzba 40
 
 Round: 8
-
 Date: 9/27/2002
 
 ; Amica        ; 1-1; Wisla K
   Gesior 77; Zurawski 90
-
 
 Date: 9/28/2002
 
@@ -279,13 +253,13 @@ Date: 9/28/2002
   Hyszor 10, Chalbinski 67, Rocki 86; Stolarz 55
 
 ; Katowice     ; 1-2; Legia
-  Bojarski 85pen; Svitlica 65, 75
+  Bojarski (pk) 85; Svitlica 65, Sitlica 75
 
 ; Ostrowiec    ; 1-2; Górnik
-  Lasocki 80; Niedzielan 32, 59
+  Lasocki 80; Niedzielan 32, Niedzielan 59
 
 ; Wisla P      ; 2-0; Zaglebie L
-  Mikulenas 32, Gevorgyan 74
+  Mikulenas 32, Gevorgyan 74;
 
 ; Lech         ; 2-2; Garbarnia
   Michalski 2, Czereszewski 39; Kubisz 56, Blasiak 83
@@ -293,21 +267,18 @@ Date: 9/28/2002
 Date: 9/29/2002
 
 ; Widzew       ; 2-0; Ruch C
-  Giuliano 30, Batata 64pen
-
+  Giuliano 30, Batata (pk) 64;
 
 Round: 9
-
 Date: 10/4/2002
 
 ; Górnik       ; 4-0; Odra W
-  Niedzielan 7, 57, 60, Gierczak 80
-
+  Niedzielan 7, Niedzielan 57, Niedzielan 60, Gierczak 80;
 
 Date: 10/5/2002
 
 ; Groclin      ; 1-0; Wisla P
-  Prusek 6
+  Prusek 6;
 
 ; Garbarnia    ; 2-2; Amica
   Salami 24, Kubisz 42; Sienczuk 65, Bieniuk 71
@@ -315,83 +286,72 @@ Date: 10/5/2002
 ; Pogon        ; 0-0; Katowice
 
 ; Ruch C       ; 1-0; Lech
-  Narwojsz 11
-
+  Narwojsz 11;
 
 Date: 10/6/2002
 
 ; Zaglebie L   ; 0-0; Widzew
 
 ; Wisla K      ; 4-1; Ostrowiec
-  Kuzba 5, 73, Paszulewicz 65, Zurawski 90; Sokolowski 60
-
+  Kuzba 5, Kuzba 73, Paszulewicz 65, Zurawski 90; Sokolowski 60
 
 Date: 10/7/2002
 
 ; Legia        ; 4-1; Polonia
-  Svitlica 35pen, Kucharski 42, Surma 76, Dudek 87; A.Bak 66
-
+  Svitlica (pk) 35, Kucharski 42, Surma 76, Dudek 87; A.Bak 66
 
 Round: 10
-
 Date: 10/18/2002
 
 ; Katowice     ; 2-0; Górnik
-  Gajtkowski 32, Bojarski 70
-
+  Gajtkowski 32, Bojarski 70;
 
 Date: 10/19/2002
 
 ; Polonia      ; 2-1; Pogon
-  Bykowski 53, Golaszewski 86pen; Kosmalski 67
+  Bykowski 53, Golaszewski (pk) 86; Kosmalski 67
 
 ; Garbarnia    ; 6-2; Ruch C
-  Sztandera 12pen, Salami 40, Chudy 73, Wolanski 76, Iwanski 89,
-   Górak 90; Bizacki 27, Srutwa 72
+  Sztandera (pk) 12, Salami 40, Chudy 73, Wolanski 76, Iwanski 89, Górak 90; Bizacki 27, Srutwa 72
 
 ; Lech         ; 0-0; Zaglebie L
 
 ; Widzew       ; 0-2; Groclin
-  Piechniak 28, Rasiak 60
+;  Piechniak 28, Rasiak 60
 
 ; Wisla P      ; 0-2; Legia
-  Svitlica 59, 62
+;  Svitlica 59, Svitlica 62
 
 ; Amica        ; 5-1; Ostrowiec
   Gesior 19, Burkhardt 47, Król 54, Dawidowski 58, Dembinski 71; Budka 65
 
-
 Date: 10/20/2002
 
 ; Odra W       ; 3-2; Wisla K
-  Jarosz 8, Subik 14pen, Ziarkowski 41; Moskal 50, Kuzba 75
-
+  Jarosz 8, Subik (pk) 14pen, Ziarkowski 41; Moskal 50, Kuzba 75
 
 Round: 11
-
 Date: 10/25/2002
 
 ; Legia        ; 2-0; Widzew
-  Svitlica 48, 89
-
+  Svitlica 48, Svitlica 89;
 
 Date: 10/26/2002
 
 ; Groclin      ; 4-1; Lech
-  Pawlak 54pen, Zajac 78, Rasiak 87, Hoskala 89; Piskula 45pen
+  Pawlak (pk) 54, Zajac 78, Rasiak 87, Hoskala 89; Piskula (pk) 45
 
 ; Wisla K      ; 2-0; Katowice
-  Zurawski 81, Kalu 90
+  Zurawski 81, Kalu 90;
 
 ; Ostrowiec    ; 2-1; Odra W
   Lasocki 6, Halocha 44; Sablik 90
 
 ; Pogon        ; 1-4; Wisla P
-  Pawlak 47; Jelen 36, 66, 80, Gevorgyan 88
+  Pawlak 47; Jelen 36, Jelen 66, Jelen 80, Gevorgyan 88
 
 ; Ruch C       ; 1-0; Amica
-  Gorawski 54
-
+  Gorawski 54;
 
 Date: 10/27/2002
 
@@ -403,18 +363,18 @@ Round: 12
 Date: 11/3/2002
 
 ; Polonia      ; 0-4; Wisla K
-  Kuzba 14, 49, Jop 49, Zurawski 65
+;  Kuzba 14, Kuzba 49, Jop 49, Zurawski 65
 
 ; Garbarnia    ; 2-4; Groclin
-  Kubisz 26, 69; Rasiak 34, 76, Hoskala 65, Zajac 83
+  Kubisz 26, Kubisz 69; Rasiak 34, Rasiak 76, Hoskala 65, Zajac 83
 
 ; Wisla P      ; 0-0; Górnik
 
 ; Amica        ; 0-2; Odra
-  Chalbinski 39, Ziarkowski 69
+;  Chalbinski 39, Ziarkowski 69
 
 ; Ruch C       ; 0-3; Zaglebie L
-  Klobukow 3, Radzius 29, Grzybowski 34
+;  Klobukow 3, Radzius 29, Grzybowski 34
 
 ; Widzew       ; 1-1; Pogon
   Dymkowski 53; Dubiela 77
@@ -425,65 +385,57 @@ Date: 11/3/2002
 ; Lech         ; 0-0; Legia
 
 Round: 13
-
 Date: 11/7/2002
 
 ; Ostrowiec    ; 2-1; Polonia
   Krawiec 25, Popiela 90+5; Kus 79
 
-
 Date: 11/8/2002
 
 ; Zaglebie L   ; 1-1; Amica
-  Grzybowski 31pen; Krol 53
-
+  Grzybowski (pk) 31; Krol 53
 
 Date: 11/9/2002
 
 ; Groclin      ; 1-1; Ruch C
-  Hoskala 34; Srutwa 78pen
+  Hoskala 34; Srutwa (pk) 78
 
 ; Górnik       ; 4-0; Widzew
-  Niedzielan 42, 51, Wisniewski 53, Prasnal 86
+  Niedzielan 42, Niedzielan 51, Wisniewski 53, Prasnal 86;
 
 ; Pogon        ; 0-1; Lech
-  Slusarski 13
+;  Slusarski 13
 
 ; Wisla K      ; 4-0; Wisla P
-  Kuzba 15, Baszczynski 31, Jop 77, Stolarczyk 87
+  Kuzba 15, Baszczynski 31, Jop 77, Stolarczyk 87;
 
 ; Legia        ; 2-1; Garbarnia
-  Surma 36, Kielbowicz 55; Ksiezyc 90+2pen
-
+  Surma 36, Kielbowicz 55; Ksiezyc (pk) 90+2
 
 Date: 11/10/2002
 
 ; Odra W       ; 0-3; Katowice
-  Bala 58, Gajtkowski 87, Huszalik 90
-
+;  Bala 58, Gajtkowski 87, Huszalik 90
 
 Round: 14
-
 Date: 11/15/2002
 
 ; Amica        ; 0-1; Katowice
-  Bojarski 30
-
+;  Bojarski 30
 
 Date: 11/16/2002
 
 ; Polonia      ; 2-2; Odra W
-  Sablik 9og, Keska 87; Ziarkowski 11, 25
+  Sablik (og) 9, Keska 87; Ziarkowski 11, Ziarkowski 25
 
 ; Garbarnia    ; 2-1; Pogon
-  Chudy 22, Ksiezyc 64pen; Kosmalski 90
+  Chudy 22, Ksiezyc (pk) 64; Kosmalski 90
 
 ; Wisla P      ; 2-0; Ostrowiec
-  Mikulenas 15, 72
+  Mikulenas 15, Mikulenas 72;
 
 ; Lech         ; 3-1; Górnik
   Golinski 13, Czereszewski 44, Slusarski 76; Niedzielan 82
-
 
 Date: 11/17/2002
 
@@ -491,7 +443,7 @@ Date: 11/17/2002
   Hila 11; Klobukow 18, Prusek 46
 
 ; Ruch C       ; 1-0; Legia
-  Jamroz 84pen
+  Jamroz (pk) 84;
 
 ; Widzew       ; 2-4; Wisla K
 
@@ -503,90 +455,85 @@ Date: 11/22/2002
 Date: 11/23/2002
 
 ; Odra W       ; 2-0; Wisla P
-  Gorski 6, Rocki 90
+  Gorski 6, Rocki 90;
 
 ; Pogon        ; 0-3; Ruch C
-  Gorawski 1, 90, Bizacki 60
+;  Gorawski 1, Gorawski 90, Bizacki 60
 
 ; Górnik       ; 3-0; Garbarnia
-  Niedzielan 45, 74, 78
+  Niedzielan 45, Niedzielan 74, Niedzielan 78;
 
 ; Katowice     ; 2-1; Polonia
   Gajtkowski 73, Bojarski 85; Golaszewski 68
 
 ; Legia        ; 3-1; Zaglebie L
-  Svitlica 5pen, 67pen, Saganowski 66; Grzybowski 76pen
+  Svitlica (pk) 5, Svitlica (pk) 67, Saganowski 66; Grzybowski (pk) 76
 
 ; Wisla K      ; 3-2; Lech
-  Kuzba 29, 40, Kalu 45; Slusarski 51, Czereszewski 56
-
+  Kuzba 29, Kuzba 40, Kalu 45; Slusarski 51, Czereszewski 56
 
 Date: 11/24/2002
 
 ; Groclin      ; 1-2; Amica
-  Wieszczycki 22; Zienczuk 32, 89
-
+  Wieszczycki 22; Zienczuk 32, Zienczuk 89
 
 Round: 17 
-
 Date: 3/14/2003
 
 ; Legia        ; 4-3; Amica
-  Svitlice 5pen, 17, Jarzebowski 32, Kucharsky 44; Zienczuk 18, 51, A.Bak 26
-
+  Svitlice (pk) 5, Svitlice 17, Jarzebowski 32, Kucharsky 44; Zienczuk 18, Zienczuk 51, A.Bak 26
 
 Date: 3/15/2003
 
 ; Groclin      ; 2-0; Pogon
-  Sobolewski 9, Zajac 63
+  Sobolewski 9, Zajac 63;
 
 ; Garbarnia    ; 3-1; Ostrowiec
-  Wolanski 54, Iwanski 56, Knezevic 85prn; Malinowski 65
+  Wolanski 54, Iwanski 56, Knezevic (pk) 85; Malinowski 65
 
 ; Lech         ; 2-3; Odra W
-  Gajtkowski 28, Piskula 37; Chalbinski 24, Górski 45pen, Ziarkowski 65
+  Gajtkowski 28, Piskula 37; Chalbinski 24, Górski (pk) 45, Ziarkowski 65
 
 ; Wisla P      ; 0-1; Polonia
-  Szwed 80
+;  Szwed 80
 
 ; Widzew       ; 2-0; Katowice
-  Wlodarczyk 40, 90
-
+  Wlodarczyk 40, Wlodarczyk 90;
 
 Date: 3/16/2003
 
 ; Zaglebie L   ; 1-1; Górnik
-  Prasnal 26og; Kaczmarczyk 45
+  Prasnal (og) 26; Kaczmarczyk 45
 
 ; Ruch C       ; 0-3; Wisla K
-  Kuzba 40, 41, 79
+;  Kuzba 40, Kuzba 41, Kuzba 79
 
 Round: 16 
 *[postponed from Mar 7,8]
 Date: 3/18/2003
 
 ; Legia        ; 0-2; Groclin
-  Zajac 25, Piechniak 50
+;  Zajac 25, Piechniak 50
 
 Date: 3/19/2003
 
 ; Odra W       ; 5-1; Widzew
-  Nowacki 23, 90, Ziarkowski 31, Chalbinski 42, Jankowski 82; Podbrozny 45
+  Nowacki 23, Nowacki 90, Ziarkowski 31, Chalbinski 42, Jankowski 82; Podbrozny 45
 
 ; Pogon        ; 0-1; Zaglebie L
-  Drumlak 42
+;  Drumlak 42
 
 ; Amica        ; 1-3; Polonia
-  Mielcarski 47; Golaszewski 55pen, 88, Kus 69
+  Mielcarski 47; Golaszewski (pk) 55, Golaszewski 88, Kus 69
 
 ; Ostrowiec    ; 1-3; Lech
   Sunday 9; Reiss 33, Gajtkowski 72, Kaczorowski 90
 
 ; Katowice     ; 2-0; Wisla P
-  Yahaya 37, Chifon 78
+  Yahaya 37, Chifon 78;
 
 ; Wisla K      ; 2-2; Garbarnia
-  Zurawski 7pen, Kalu 85; Knezevic 2, 25pen
+  Zurawski (pk) 7, Kalu 85; Knezevic 2, Knezevic (pk) 25
 
 ; Górnik       ; 0-0; Ruch C
 
@@ -594,106 +541,98 @@ Round: 18
 Date: 3/22/2003
 
 ; Polonia      ; 1-0; Widzew
-  Scherfchen 13og
+  Scherfchen (og) 13;
 
 ; Odra W       ; 4-0; Garbarnia
-  Ziarkowski 14, 62, Madej 17, Gorski 57pen
+  Ziarkowski 14, Ziarkowski 62, Madej 17, Gorski (pk) 57;
 
 ; Amica        ; 2-2; Wisla P
-  Dawidowski 13pen, Dembinski 71; Romuzga 76pen, Janus 78
+  Dawidowski (pk) 13, Dembinski 71; Romuzga (pk) 76, Janus 78
 
 ; Ostrowiec    ; 0-2; Ruch C
-  Bizacki 50, 79
+;  Bizacki 50, Bizacki 79
 
 ; Pogon        ; 0-4; Legia
-  Svitlica 13, Majewski 28, Kucharski 37, Sokolowski 82
+;  Svitlica 13, Majewski 28, Kucharski 37, Sokolowski 82
 
 ; Wisla K      ; 4-1; Zaglebie L
-  Kosowski 18, Zurawski 42 (2-0), 54, Frankowski 87; Manuszewski 42 (2-1)
+  Kosowski 18, Zurawski 42, Zurawski 54, Frankowski 87; Manuszewski 42
+* Zurawski before Manuszewski
 
 ; Katowice     ; 1-0; Lech
-  Ferreira da Silva 76
-
+  Ferreira da Silva 76;
 
 Date: 3/23/2003
 
 ; Górnik       ; 0-0; Groclin
 
 Round: 19
-
 Date: 4/5/2003
 
-Garbarnia     0-1 Katowice
-  Zadylak 47og
+; Garbarnia    ; 0-1; Katowice
+;  Zadylak (og) 47
 
 ; Groclin      ; 2-0; Wisla K
-  Prusek 61, Moskala 67
+  Prusek 61, Moskala 67;
 
 ; Legia        ; 0-0; Górnik
 
 ; Pogon        ; 0-4; Amica
-  Gesior 25, Sobocinski 31, Dawidowski 34, 68pen
+;  Gesior 25, Sobocinski 31, Dawidowski 34, Dawidowski (pk) 68
 
 ; Ruch C       ; 0-1; Odra W
-  W.Gorski 14pen
+;  W.Gorski (pk) 14
 
 ; Widzew       ; 1-0; Wisla P
-  Wgerzyn 59
-
+  Wgerzyn 59;
 
 Date: 4/6/2003
 
 ; Zaglebie L   ; 2-0; Ostrowiec
-  Klimek 71, Szczypkowski 80pen
+  Klimek 71, Szczypkowski (pk) 80;
 
 ; Lech         ; 4-1; Polonia
-  Piskula 5, Slusarski 51, 75, Lasocki 73; Szwed 18
-
+  Piskula 5, Slusarski 51, Slusarski 75, Lasocki 73; Szwed 18
 
 Round: 20
-
 Date: 4/8/2003
 
 ; Katowice     ; 1-0; Ruch C
-  Kowalczyk 30
-
+  Kowalczyk 30;
 
 Date: 4/9/2003
 
 ; Odra W       ; 3-0; Zaglebie L
-  Grzyb 59, Zajac 69og, Chalbinski 73
+  Grzyb 59, Zajac (og) 69, Chalbinski 73;
 
 ; Polonia      ; 2-1; Garbarnia
-  Mazurkiewicz 37, Keska 67; Knezevic 57pen
+  Mazurkiewicz 37, Keska 67; Knezevic (pk) 57
 
 ; Wisla P      ; 0-0; Lech
 
 ; Ostrowiec    ; 1-3; Groclin
-  Samardzic 17; Pawlak 21pen, Moskala 45, 80
+  Samardzic 17; Pawlak (pk) 21, Moskala 45, Moskala 80
 
 ; Górnik       ; 9-0; Pogon
-  Kompala 9, 60, 88, Kaczmarczyk 23, 44, Prasnal 29, Sikora 53, 66,
-   Kozminski 58
+  Kompala 9, Kompala 60, Kompala 88, Kaczmarczyk 23, Kaczmarczyk 44, Prasnal 29, Sikora 53, Sikora 66, Kozminski 58;
 
 ; Amica        ; 1-0; Widzew
-  Dawidowski 51
+  Dawidowski 51;
 
 ; Wisla K      ; 2-1; Legia
   Kalu 29, Zurawksi 61; Svitlica 9
 
-
 Round: 21
-
 Date: 4/12/2003
 
 ; Garbarnia    ; 2-0; Wisla P
-  Przytula 18, Kapcinski 48
+  Przytula 18, Kapcinski 48;
 
 ; Pogon        ; 0-1; Wisla K
-  Uche 83
+;  Uche 83
 
 ; Górnik       ; 1-0; Amica
-  Sikora 21
+  Sikora 21;
 
 ; Lech         ; 2-1; Widzew
   Slusarski 77, Reiss 79; Wlodarczyk 45
@@ -701,17 +640,15 @@ Date: 4/12/2003
 ; Ruch C       ; 0-0; Polonia
 
 ; Legia        ; 6-0; Ostrowiec
-  Svitlica 20, 47, 75, Kucharski 33, Saganowski 41, Jarzebowski 87
-
+  Svitlica 20, Svitlica 47, Svitlica 75, Kucharski 33, Saganowski 41, Jarzebowski 87;
 
 Date: 4/13/2003
 
 ; Zaglebie L   ; 2-0; Katowice
-  Brasilia 6, Nicinski 8
+  Brasilia 6, Nicinski 8;
 
 ; Groclin      ; 3-0; Odra W
-  Koziol 38, Niedzielan 60, Wieszycki 83
-
+  Koziol 38, Niedzielan 60, Wieszycki 83;
 
 Round: 22 
 Date: 4/19/2003
@@ -720,34 +657,31 @@ Date: 4/19/2003
   Grzyb 40, Chalbinski 45; Surma 27
 
 ; Wisla K      ; 4-0; Górnik
-  Szymkowiak 3, Kosowski 31, 71, Zurawski 62
+  Szymkowiak 3, Kosowski 31, Kosowski 71, Zurawski 62;
 
 ; Wisla P      ; 2-0; Ruch C
-  Romuzga 51pen, Gevorgyan 82
+  Romuzga (pk) 51, Gevorgyan 82;
 
 ; Ostrowiec    ; 0-1; Pogon
-  Walburg 58
+;  Walburg 58
 
 ; Widzew       ; 1-0; Garbarnia
-  Giuliano 7
+  Giuliano 7;
 
 ; Amica        ; 2-1; Lech
-  Zienczuk 63, Mielcarski 76; Reiss 69pen
+  Zienczuk 63, Mielcarski 76; Reiss (pk) 69
 
 ; Polonia      ; 2-1; Zaglebie L
-  Kazimierczak 9og, Mazurkiewicz 85; Klimek 90
+  Kazimierczak (og) 9, Mazurkiewicz 85; Klimek 90
 
 ; Katowice     ; 0-1; Groclin
-  Pawlak 56pen
-
+;  Pawlak (pk) 56
 
 Round: 23
-
 Date: 4/25/2003
 
 ; Legia        ; 3-0; Katowice
-  Saganowski 31, 60, Jarzebowski 85
-
+  Saganowski 31, Saganowski 60, Jarzebowski 85;
 
 Date: 4/26/2003
 
@@ -758,15 +692,13 @@ Date: 4/26/2003
   Frankowski 78; Burkhardt 90
 
 ; Pogon        ; 1-7; Odra W
-  Kluzek 67; Chalbinski 18, 44, Cios 30, Sablik 74, Ziarkowski 78,
-   Socha 80, Myszor 85
+  Kluzek 67; Chalbinski 18, Chalbinski 44, Cios 30, Sablik 74, Ziarkowski 78, Socha 80, Myszor 85
 
 ; Ruch C       ; 1-2; Widzew
-  Srutwa 63; Podbrozny 40pen, Dymkowski 84
+  Srutwa 63; Podbrozny (pk) 40, Dymkowski 84
 
 ; Górnik       ; 2-0; Ostrowiec
-  Kaczmarczyk 14, Dobi 78
-
+  Kaczmarczyk 14, Dobi 78;
 
 Date: 4/27/2003
 
@@ -774,47 +706,41 @@ Date: 4/27/2003
   Kozubek 61; Bosacki 19, Czereszewski 90
 
 ; Groclin      ; 2-0; Polonia
-  Niedzielan 28, Sobolewski 45
-
+  Niedzielan 28, Sobolewski 45;
 
 Round: 24
-
 Date: 5/3/2003
 
 ; Odra W       ; 1-3; Górnik
-  Ziarkowski 10; Kaczmarczyk 38pen, Kompala 61, Piegzik 83
+  Ziarkowski 10; Kaczmarczyk (pk) 38, Kompala 61, Piegzik 83
 
 ; Ostrowiec    ; 0-1; Wisla K
-  Pater 62
+;  Pater 62
 
 ; Wisla P      ; 1-0; Groclin
-  Ekwueme 12
+  Ekwueme 12;
 
 ; Lech         ; 0-0; Ruch C
 
 ; Widzew       ; 2-0; Zaglebie L
-  Wlodarczyk 3, 90
+  Wlodarczyk 3, Wlodarczyk 90;
 
 ; Katowice     ; 2-0; Pogon
-  Wydmuszek 40og, Wrobel 46
+  Wydmuszek (og) 40, Wrobel 46;
 
 ; Amica        ; 1-2; Garbarnia
   Dawidowski 85; Iwanski 32, Bykowski 51
 
-
 Date: 5/4/2003
 
 ; Polonia      ; 0-1; Legia
-  Saganowski 68
-
+;  Saganowski 68
 
 Round: 25
-
 Date: 5/9/2003
 
 ; Groclin      ; 1-1; Widzew
   Zajac 25; Wlodarczyk 79
-
 
 Date: 5/10/2003
 
@@ -822,17 +748,16 @@ Date: 5/10/2003
   Brasilia 79; Madej 60
 
 ; Ostrowiec    ; 0-2; Amica
-  Gesior 37, Dawidowski 58
+;  Gesior 37, Dawidowski 58
 
 ; Pogon        ; 0-2; Polonia
-  Golaszewski 74pen, Kosiorowski 90
+;  Golaszewski (pk) 74, Kosiorowski 90
 
 ; Ruch C       ; 1-1; Garbarnia
   Gorawski 15; Kozubek 89
 
 ; Wisla K      ; 4-0; Odra W
-  Kosowski 16, Kuzba 39, 57, 89
-
+  Kosowski 16, Kuzba 39, Kuzba 57, Kuzba 89;
 
 Date: 5/11/2003
 
@@ -841,27 +766,24 @@ Date: 5/11/2003
 *                   fielded a 6th foreiger]
 
 ; Górnik       ; 1-3; Katowice
-  Sikora 50; Bojarski 36, 71pen, Sierka 85
-
+  Sikora 50; Bojarski 36, Bojarski (pk) 71, Sierka 85
 
 Round: 26
-
 Date: 5/16/2003
 
 ; Lech         ; 2-3; Groclin
-  Reiss 40, 57; Mila 34, Niedzielan 50, Rasiak 89
-
+  Reiss 40, Reiss 57; Mila 34, Niedzielan 50, Rasiak 89
 
 Date: 5/17/2003
 
 ; Widzew       ; 1-3; Legia
-  Dymkowski 88; Kucharski 66, Saganowski 70, 81
+  Dymkowski 88; Kucharski 66, Saganowski 70, Saganowski 81
 
 ; Odra W       ; 2-1; Ostrowiec
   Chalbinski 25, Gorski 34; Pietrasiak 78
 
 ; Polonia      ; 1-1; Górnik
-  Golaszewski 77pen; Sikora 13
+  Golaszewski (pk) 77; Sikora 13
 
 ; Garbarnia    ; 1-2; Zaglebie L
   Kubisz 4; Radzius 75, Klimek 82
@@ -872,47 +794,41 @@ Date: 5/17/2003
 ; Wisla P      ; 2-1; Pogon
   Wasilewski 69, Mackiewicz 84; Kluzek 41
 
-
 Date: 5/18/2003
 
 ; Katowice     ; 1-0; Wisla K
-  Adamczyk 69
-
+  Adamczyk 69;
 
 Round: 27
-
 Date: 5/20/2003
 
 ; Odra W       ; 0-3; Amica
-  Dawidowski 13, 90, Sokolowski 70
-
+;  Dawidowski 13, Dawidowski 90, Sokolowski 70
 
 Date: 5/21/2003
 
 ; Zaglebie L   ; 2-1; Ruch C
-  Szczypkowski 28pen, 57; Gorawski 39
+  Szczypkowski (pk) 28, Szczypkowski 57; Gorawski 39
 
 ; Ostrowiec    ; 0-3; Katowice
-  Kroczek 30, Bojarski 63, Fonfara 90
+;  Kroczek 30, Bojarski 63, Fonfara 90
 
 ; Pogon        ; 0-1; Widzew
-  Wegrzyn 39
+;  Wegrzyn 39
 
 ; Górnik       ; 1-2; Wisla P
-  Chyla 3; Jelen 19, 46
+  Chyla 3; Jelen 19, Jelen 46
 
 ; Wisla K      ; 3-0; Polonia
-  Kuzba 39, Frankowski 86, 90pen
+  Kuzba 39, Frankowski 86, Frankowski (pk) 90;
 
 ; Groclin      ; 5-0; Garbarnia
-  Pawlak 5pen, Niedzielan 16pen, 76, Zajac 50, Moskala 74
+  Pawlak (pk) 5, Niedzielan (pk) 16, Niedzielan 76, Zajac 50, Moskala 74;
 
 ; Legia        ; 2-0; Lech
-  Svitlica 46, 75pen
-
+  Svitlica 46, Svitlica (pk) 75;
 
 Round: 28
-
 Date: 5/24/2003
 
 ; Polonia      ; 2-1; Ostrowiec
@@ -928,65 +844,62 @@ Date: 5/24/2003
   Zienczuk 11, Dembinski 31; Brasilia 53, Szczypkowski 86
 
 ; Lech         ; 6-0; Pogon
-  Gajtkowski 15, 19, 28, 52, 69, Golinski 65
+  Gajtkowski 15, Gajtkowski 19, Gajtkowski 28, Gajtkowski 52, Gajtkowski 69, Golinski 65;
 
 ; Widzew       ; 1-0; Górnik
-  Dymkowski 24
-
+  Dymkowski 24;
 
 Date: 5/25/2003
 
 ; Wisla P      ; 0-3; Wisla K
-  Kuzba 60, 76, Frankowski 88
+;  Kuzba 60, Kuzba 76, Frankowski 88
 
 ; Garbarnia    ; 1-1; Legia
   Czerwiec 50; Svitlica 53
-
 
 Round: 29 
 Date: 5/31/2003
 
 ; Wisla K      ; 1-0; Widzew
-  Zurawski 50
+  Zurawski 50;
 
 ; Katowice     ; 1-1; Amica
-  Wrobel 79pen; Dawidowski 8pen
+  Wrobel (pk) 79; Dawidowski (pk) 8
 
 ; Legia        ; 3-3; Ruch C
-  Saganowski 51, 72, Svitlica 55pen; Cecot 35, Gorawski 64, Bizacki 66
+  Saganowski 51, Saganowski 72, Svitlica (pk) 55; Cecot 35, Gorawski 64, Bizacki 66
 
 ; Groclin      ; 4-0; Zaglebie L
-  Niedzielan 16, Zajac 67, Piechniak 75, Rockim90
+  Niedzielan 16, Zajac 67, Piechniak 75, Rockim 90;
 
 ; Odra W       ; 2-2; Polonia
   Nowacki 49, Chalbincki 67; Nuckowski 23, Nowakowski 75
 
 ; Pogon        ; 0-1; Garbarnia
-  Bykowski 8
+;  Bykowski 8
 
 ; Górnik       ; 0-0; Lech
 
 ; Ostrowiec    ; 0-2; Wisla P
-  Mikulenas 47, Gevorgian 83
-
+;  Mikulenas 47, Gevorgian 83
 
 Round: 30 
 Date: 6/3/2003
 
 ; Lech         ; 2-4; Wisla K
-  Slusarski 7, Czereszewski 83; Pater 58, 90, Zurawski 67, Frankowski 78
+  Slusarski 7, Czereszewski 83; Pater 58, Pater 90, Zurawski 67, Frankowski 78
 
 ; Polonia      ; 1-1; Katowice
   Jarosiewicz 64; Majda 36
 
 ; Garbarnia    ; 1-1; Górnik
-  Iwanski 45pen; Sikora 43
+  Iwanski (pk) 45; Sikora 43
 
 ; Amica        ; 0-1; Groclin
-  Skrzypek 60og
+;  Skrzypek (og) 60
 
 ; Wisla P      ; 0-1; Odra W
-  Klus 55
+;  Klus 55
 
 *; Ruch C        awd Pogon            [awarded; 3-0,; Pogon dns]
 
@@ -994,7 +907,7 @@ Date: 6/3/2003
   Moskalewicz 6; Svitlica 10, Kielbowicz 30, Saganowski 76
 
 ; Widzew       ; 2-1; Ostrowiec
-  Dymkowski 6, Podbrozny 68pen; Budka 83
+  Dymkowski 6, Podbrozny (pk) 68; Budka 83
 
 
 * 1.Wisla Kraków                 30 21  5  4 75-28 68  Champions

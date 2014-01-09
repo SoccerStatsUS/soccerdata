@@ -140,7 +140,7 @@ Round: 6
 
 Date: 9/18/2004
 
-Dundee             0-0 Livingston
+; Dundee            ; 0-0; Livingston
 *  red cards: Lovell (D), McNamee (L)
 
 ; Kilmarnock        ; 0-1; Aberdeen
@@ -279,7 +279,7 @@ Round: 12
 Date: 10/30/2004
 
 ; Dundee United     ; 1-2; Dunfermline Ath
-  Wilson (pk) 7, M Tod 8, Darren Young 90
+  Wilson (pk) 7; M Tod 8, Darren Young 90
 
 ; Hearts            ; 3-0; Dundee
   McKenna 34, Hartley 81, Wyness 90;
@@ -475,7 +475,7 @@ Date: 1/25/2005
 Round: 20
 Date: 12/26/2004
 
-Hearts             0-2 Celtic
+; Hearts            ; 0-2; Celtic
 ;  McGeady 9, Petrov 68
 
 Date: 12/27/2004
@@ -620,7 +620,7 @@ Date: 2/19/2005
   Munro (og) 30; Wilson (pk) 37
 
 ; Hibernian         ; 4-0; Dundee
-  O'Connor 27, O'Connor 77, Whittaker 47, Fletcher 76
+  O'Connor 27, O'Connor 77, Whittaker 47, Fletcher 76;
 
 ; Kilmarnock        ; 2-1; Dunfermline Ath
   Naismith 12, Boyd 43; Christiansen 20
@@ -821,7 +821,7 @@ Date: 4/17/2005
 *    and including Round: 21
 
 
-Championship Playoff
+*Championship Playoff
 
 * 1.Rangers              38 29  6  3  78-22  93  Champions
 * 2.Celtic               38 30  2  6  85-35  92  CL Qualifying
@@ -906,7 +906,7 @@ Date: 5/22/2005
 * 6.Motherwell           38 13  9 16  46-49  48
 
 
-Relegation Playoff
+*Relegation Playoff
 
 
 * 7.Kilmarnock           38 15  4 19  49-55  49

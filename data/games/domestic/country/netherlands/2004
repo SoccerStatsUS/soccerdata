@@ -235,7 +235,7 @@ Date: 10/2/2004
   DaMarcus Beasley 32, John de Jong 65, Kurt Elshot (og) 5;
 
 ; Willem II               ; 3-2; Vitesse
-  Martijn Reuser 14, 30pen, 45pen; Nick Hofs 83, Igor Gluscevic 90
+  Martijn Reuser 14, Martijn Reuser (pk) 30, Martijn Reuser (pk) 45; Nick Hofs 83, Igor Gluscevic 90
 
 ; FC Twente               ; 2-3; Roda JC
   Blaise N'Kufo 8, Blaise N'Kufo 75; Sergio Pacheco de Oliveira 15, Cristiano Dos Santos Rodrigues 39, Gregoor van Dijk 62
@@ -434,7 +434,7 @@ Date: 11/19/2004
 Date: 11/20/2004
 
 ; De Graafschap           ; 0-5; Ajax
-  Julien Escudé 47, Julien Escude 65, Mauro Rosales 53, Ryan Babel 66, Tomás Galásek 71
+;  Julien Escudé 47, Julien Escude 65, Mauro Rosales 53, Ryan Babel 66, Tomás Galásek 71
 
 ; RBC Roosendaal          ; 1-3; SC Heerenveen
   Edwin de Graaf 17; Daniel Berg Hestad 28, Daniel Berg Hestad 49, Klaas-Jan Huntelaar 53
@@ -570,7 +570,7 @@ Date: 12/17/2004
 
 Date: 12/18/2004
 
-RBC Roosendaal           0-2 AZ
+; RBC Roosendaal          ; 0-2; AZ
 ;  Robin Nelisse 24, Danny Landzaat 62
 
 ; RKC Waalwijk            ; 1-0; Willem II
@@ -586,7 +586,7 @@ Date: 12/19/2004
   Geert Den Ouden 2, Sjaak Polak 63;
 
 ; NEC                     ; 3-2; SC Heerenveen
-  Rob Wielaert 3pen, Romano Denneboom 48, Romano Denneboom 73; Daniel Berg Hestad 16, Mika Väyrynen 91
+  Rob Wielaert (pk) 3, Romano Denneboom 48, Romano Denneboom 73; Daniel Berg Hestad 16, Mika Väyrynen 91
 
 ; FC Utrecht              ; 1-0; FC Den Bosch
   Hans Van de Haar 56;
@@ -671,7 +671,7 @@ Date: 2/4/2005
   Jatto Ceesay 22, Arvid Smit 27, Iwan Redan 48; Romano Denneboom 78
 
 ; De Graafschap           ; 2-7; Feyenoord
-  Dirk Kuijt (og) 4, Johnny Van Beukering 85; René Bot 9, Romeo Castelen 25, Dirk Kuijt 32, 66, Danko Lazovic 47, Danko Lazovic 52, Nicky Hofs 60
+  Dirk Kuijt (og) 4, Johnny Van Beukering 85; René Bot 9, Romeo Castelen 25, Dirk Kuijt 32, Dirk Kuijt 66, Danko Lazovic 47, Danko Lazovic 52, Nicky Hofs 60
  
 Date: 2/5/2005
 
@@ -722,7 +722,7 @@ Date: 2/13/2005
 ;  Johnny Van Beukering 70, Milan Berck Beelenkamp 90
 
 ; Feyenoord               ; 7-0; Willem II
-  Cory Gibbs 22, Nicky Hofs 27, Nicky Hofs 42, Nicky Hofs 61, Dirk Kuijt (pk) 39, Dirk Kuijt 52, Bruno Basto 88
+  Cory Gibbs 22, Nicky Hofs 27, Nicky Hofs 42, Nicky Hofs 61, Dirk Kuijt (pk) 39, Dirk Kuijt 52, Bruno Basto 88;
 
 ; NEC                     ; 1-1; ADO Den Haag
   Andrzej Niedzielan 20; Roy Stroeve 67
@@ -1030,7 +1030,8 @@ Date: 4/23/2005
 ; ADO Den Haag            ; 1-4; Roda JC
   Wesley Verhoek 84; Arouna Koné 23, Arouna Kone 44, Arouna Kone 81, Laszlo Bodnar 36
 
-[apr 24]
+Date: 4/24/2005
+
 ; Ajax                    ; 1-0; De Graafschap
   Yannis Anastasiou 86;
 

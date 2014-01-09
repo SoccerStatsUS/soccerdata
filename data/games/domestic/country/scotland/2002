@@ -149,7 +149,7 @@ Date: 9/11/2002
 ; Dundee         ; 2-1; Livingston
   Ignacio Novo 52, Gavin Rae 77; Giorgi Nemsadze (og) 31
 
-; Hiernian       ; 1-4; Dunfermline
+; Hibernian       ; 1-4; Dunfermline
   Mixu Paatelainen 42; Scott Walker 11, Craig Brewster 24, Craig Brewster 57, Stevie Crawford 32
 
 ; Kilmarnock     ; 1-0; Partick
@@ -222,7 +222,7 @@ Date: 9/28/2002
   Ian Murray 45;
 
 ; Motherwell     ; 1-1; Dundee
-  James McFadden 56, Steven Lovell 14
+  James McFadden 56; Steven Lovell 14
 
 ; Partick        ; 2-2; Hearts
   Alan Archibald 28, Alan Archibald 79; Jean-Louis Valois 38, Scott Severin 80
@@ -482,7 +482,7 @@ Date: 12/14/2002
   Phillippe Brinquin 90; Ian Murray 55, Craig James 66
 
 ; Rangers        ; 3-0; Dundee United   
-  Barry Ferguson 13, Barry Ferguson 56, Barry Ferguson (pk) 86
+  Barry Ferguson 13, Barry Ferguson 56, Barry Ferguson (pk) 86;
 *  [Red Card: Ricksen [Rangers] 59 mins, McIntyre [Dundee Utd] 80 mins] 
 
 Date: 12/15/2002
@@ -833,7 +833,7 @@ Date: 4/13/2003
 *12.Motherwell           33  6  6 21  35-60  24
 
 
-Championship Group
+*Championship Group
 
 * 1.Rangers              38 31  4  3 101-28  97  Champions
 * 2.Celtic               38 31  4  3  98-26  97
@@ -924,7 +924,7 @@ Date: 5/25/2003
 * 5.Dunfermline Athletic 38 13  7 18  54-71  46
 * 6.Dundee               38 10 14 14  50-60  44
 
-Relegation Group
+*Relegation Group
 
 * 7.Hibernian            38 15  6 17  56-64  51
 * 8.Aberdeen             38 13 10 15  41-54  49

@@ -380,7 +380,7 @@ Date: 12/16/2001
 ; NEC            ; 1-0; Heerenveen
 ; RKC            ; 1-1; Sparta
 
-Moved Matches 
+*Moved Matches 
 Date: 12/19/2001
 
 ; Fortuna        ; 3-3; Utrecht
@@ -391,7 +391,7 @@ Round: 19
 
 Date: 12/21/2001
 
-Sparta          ppd AZ
+*Sparta          ppd AZ
 
 Date: 12/22/2001
 
@@ -424,7 +424,7 @@ Date: 1/27/2002
 ; Vitesse        ; 2-1; NEC
 ; RKC            ; 0-1; Willem II
 
-Moved Match 
+*Moved Match 
 Date: 1/31/2002
 
 ; Willem II      ; 3-1; Groningen
@@ -626,7 +626,7 @@ Date: 4/1/2002
 ; Utrecht        ; 3-1; Den Bosch
 ; PSV            ; 4-1; Heerenveen
 
-Moved Match 
+*Moved Match 
 Date: 4/3/2002
 
 ; Ajax           ; 4-3; Groningen
@@ -683,7 +683,7 @@ Date: 4/21/2002
 ; Ajax           ; 1-0; Utrecht
 ; NEC            ; 2-1; Den Bosch
 
-Moved Matches
+*Moved Matches
 
 Date: 4/24/2002
 
@@ -743,9 +743,9 @@ Date: 5/5/2002
 *18.Fortuna Sittard              34  3  8 23  27-71  17  Relegated
 
 
-Promotion/Relegation Playoffs (Nacompetitie)
+*Promotion/Relegation Playoffs (Nacompetitie)
 
-Group A
+Group: A
 
 * 1.RBC Roosendaal                6  4  2  0  15- 6  14  Promoted
 *------------------------------------------------------
@@ -798,7 +798,7 @@ Date: 5/25/2002
 * 3.Emmen                         6  1  1  4  10-15   4  Remain at 2nd level
 * 4.Cambuur Leeuwarden            6  1  0  5   8-20   3  Remain at 2nd level
 
-Group B
+Group: B
 
 * 1.Excelsior                     6  3  1  2  10- 8  10  Promoted
 *------------------------------------------------------

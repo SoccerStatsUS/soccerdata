@@ -34,7 +34,7 @@ Date: 7/16/2003
 
 Date: 7/17/2003
 
-;; Schwarz-Weiß;     1-0 Austria S
+; Schwarz-Weiß;     1-0; Austria S
   Lawarée 56;
 
 Date: 7/26/2003
@@ -46,7 +46,7 @@ Round: 2
 Date: 7/23/2003
 
 ; Austria W       ; 4-0; Schwarz-Weiß
-  Vastic 34, (pk) 74, Dospel 36, Rushfeldt 63;
+  Vastic 34, Vastic (pk) 74, Dospel 36, Rushfeldt 63;
 
 ; Admira          ; 1-1; Mattersburg
   Swierczewski 85; Kühbauer (pk) 90
@@ -62,7 +62,7 @@ Date: 7/23/2003
 Round: 3 
 Date: 7/30/2003
 
-;; Schwarz-Weiß;     2-1 Sturm
+; Schwarz-Weiß;     2-1; Sturm
   Aslan 24, Klausz 41; Rojas 65
 
 ; Mattersburg     ; 0-0; Kärnten
@@ -127,7 +127,7 @@ Date: 8/17/2003
 Round: 6
 Date: 8/23/2003
 
-;; Schwarz-Weiß;     4-1 GAK
+; Schwarz-Weiß;     4-1; GAK
   Berchtold 7, Aslan 28, Lawarée 41, Lawaree 52; Kollmann (pk) 19
 
 ; Austria W       ; 2-1; Admira
@@ -173,7 +173,7 @@ Date: 9/10/2003
 
 Date: 9/17/2003
 
-;; Schwarz-Weiß;     1-2 Rapid
+; Schwarz-Weiß;     1-2; Rapid
   Schepens 55; Hofmann 10, Wallner 50
 
 Date: 10/1/2003
@@ -193,7 +193,7 @@ Date: 9/13/2003
 ; Sturm           ; 0-0; Austria W
 
 ; Pasching        ; 1-1; Mattersburg
-  Pichlmann 31, Mörz 46
+  Pichlmann 31; Mörz 46
 
 ; Admira          ; 0-1; Schwarz-Weiß
 ;  Hauser 44
@@ -209,7 +209,7 @@ Date: 9/20/2003
 ; Austria W       ; 1-1; Sturm
   Rushfeldt 78; Rojas 49
 
-;; Schwarz-Weiß;     2-2 Admira
+; Schwarz-Weiß;     2-2; Admira
   Schepens (pk) 44, Hlinka 52; Linz 45, Katzer 70
 
 ; Kärnten         ; 1-2; Austria S
@@ -246,7 +246,7 @@ Date: 9/28/2003
 Round: 12
 Date: 10/3/2003
 
-;; Schwarz-Weiß;     4-2 Austria W
+; Schwarz-Weiß;     4-2; Austria W
   Schepens 8, Bragstad 18, Berchtold 74, Aslan 91; Helstad 21, Rushfeldt 39
 
 Date: 10/4/2003
@@ -288,7 +288,7 @@ Date: 10/19/2003
 Round: 14
 Date: 10/25/2003
 
-;; Schwarz-Weiß;     3-2 Kärnten
+; Schwarz-Weiß;     3-2; Kärnten
   Lawaree 8, Lawaree 87, Klausz 80; Kabat 11, Höller 50
 
 ; GAK             ; 1-0; Austria S
@@ -308,7 +308,7 @@ Date: 10/26/2003
 Round: 15 
 Date: 10/29/2003
 
-;; Schwarz-Weiß;     2-1 Mattersburg
+; Schwarz-Weiß;     2-1; Mattersburg
   Schepens (pk) 16, Mravac (og) 90; Kausich 81
 
 ; Austria S       ; 1-2; Admira
@@ -348,7 +348,7 @@ Date: 11/8/2003
 
 ; Mattersburg     ; 0-0; GAK
 
-;; Schwarz-Weiß;     1-2 Pasching
+; Schwarz-Weiß;     1-2; Pasching
   Klausz 17; Baur 16, Kirchler 38
 
 ; Sturm           ; 2-0; Admira
@@ -398,7 +398,7 @@ Date: 11/30/2003
 ; Kärnten         ; 0-3; Austria S
 ;  M.Suazo 34, Teber 80, Schriebl 92
 
-;; Schwarz-Weiß;     1-0 GAK
+; Schwarz-Weiß;     1-0; GAK
   S.Aslan 57;
 
 Round: 20
@@ -436,7 +436,7 @@ Date: 2/21/2004
 
 Date: 2/22/2004
 
-;; Schwarz-Weiß;     1-1 Rapid
+; Schwarz-Weiß;     1-1; Rapid
   Berchtold 11; Hofmann 45
 
 Round: 22
@@ -485,7 +485,7 @@ Date: 3/13/2004
 ; Admira          ; 3-2; Austria S
   Markovic 55, Katzer 61, Jugovic 78; Pfeifenberger 75, Scharner 86
 
-;; Schwarz-Weiß;     0-1 Austria W
+; Schwarz-Weiß;     0-1; Austria W
 ;  Rushfeldt 74
 
 ; Mattersburg     ; 2-0; Kärnten
@@ -519,7 +519,7 @@ Date: 3/17/2004
 Round: 26
 Date: 3/20/2004
 
-;; Schwarz-Weiß;     2-1 Sturm
+; Schwarz-Weiß;     2-1; Sturm
   Schepens 36, Aslan 52; Rabihou 53
 
 ; GAK             ; 2-1; Admira
@@ -563,7 +563,7 @@ Date: 4/3/2004
 ; Kärnten         ; 1-1; Pasching
   Papac 82; Kirchler 4
 
-;; Schwarz-Weiß;     2-2 Admira
+; Schwarz-Weiß;     2-2; Admira
   Hlinka (pk) 39, Aslan 76; Katzer 33, Iwan 56
 
 ; Mattersburg     ; 2-1; Austria S
@@ -595,7 +595,7 @@ Date: 4/7/2004
 Round: 30 
 Date: 4/14/2004
 
-;; Schwarz-Weiß;     1-1 Pasching
+; Schwarz-Weiß;     1-1; Pasching
   Schepens 85; Mayrleb 76
 
 ; Austria W       ; 3-0; Austria S
@@ -630,7 +630,7 @@ Date: 4/18/2004
 Round: 32
 Date: 4/24/2004
 
-;; Schwarz-Weiß;     3-2 Mattersburg
+; Schwarz-Weiß;     3-2; Mattersburg
   Hlinka 18, Hlinka 79, Klausz 88; Mörz 16, Kühbauer 20
 
 ; Kärnten         ; 0-1; Rapid
@@ -653,7 +653,7 @@ Date: 5/1/2004
 ; Admira          ; 1-2; Pasching
   Linz 90; Mayrleb 76, Pichlmann 93
 
-;; Schwarz-Weiß;     1-1 Kärnten
+; Schwarz-Weiß;     1-1; Kärnten
   Schepens 76; Kabat 48
 
 ; GAK             ; 3-0; Austria S
@@ -674,7 +674,7 @@ Date: 5/8/2004
   Rushfeldt 11, Rushfeldt 51, Gilewicz 21, Helstad 69; Bragstad 50
 
 ; Kärnten         ; 5-1; Mattersburg
-  Akwuegbu 29, Akwuegbu 58, Hota 88, Maric (pk) 91, Zajac 94, Mörz 37
+  Akwuegbu 29, Akwuegbu 58, Hota 88, Maric (pk) 91, Zajac 94; Mörz 37
 
 ; Pasching        ; 2-0; Rapid
   Mayrleb 42, Mayrleb 51;
@@ -699,7 +699,7 @@ Date: 5/15/2004
 ; Kärnten         ; 2-0; Sturm
   B.Akwuegbu 29, Maric 91;
 
-;; Schwarz-Weiß;     2-2 Austria S
+; Schwarz-Weiß;     2-2; Austria S
   Nzuzi 1, Nzuzi 19; Richarlyson 67, Pfeifenberger 89
 
 ; Rapid           ; 1-3; Admira
@@ -715,7 +715,7 @@ Date: 5/20/2004
   Rushfeldt 21, Rushfeldt 28;
 
 ; Pasching        ; 4-0; Mattersburg
-  Chaile 52, Mayrleb 71, Mayrleb 91, Kirchler 77
+  Chaile 52, Mayrleb 71, Mayrleb 91, Kirchler 77;
 
 ; Austria S       ; 2-0; Rapid
   Laessig 51, Krimbacher 82;

@@ -1,13 +1,5 @@
-http://www.rsssf.com/tablesp/peru2012.html
-
-Peru 2012
-
-Primera División
-Copa Federación (2011/12)
-Segunda División
-Primera División
-
-First Stage 
+BlockSource: http://www.rsssf.com/tablesp/peru2012.html
+Season: 2012
 
 * 1.Sporting Cristal (Lima)                  30 17  7  6  62-30  58  [To Copa Libertadores 2013]
 * 2.Real Garcilaso (Cusco)                   30 16  9  5  38-21  57
@@ -26,17 +18,18 @@ First Stage
 *15.Sport Boys (Callao)                      30  5 11 14  25-40  26
 *16.Cobresol FBC (Moquegua)                  30  3  6 21  22-56  11 [-4]
 
-Sporting Cristal won  the first stage, Classifies the Copa Libertadores 2013 as Peru 3.
+*Sporting Cristal won  the first stage, Classifies the Copa Libertadores 2013 as Peru 3.
+*
+*[Mar 30] Alianza Lima lost a two (4) points due to accumulated debt two months (January and February)
+*         with your squad of players.
+*[Mar 30] Cobresol FBC lost two (2) points for failure to cancel a fee of the unionization of players.
+*[Jul 30] Cobresol FBC lost two (2) points for not file the payroll of may.
+*
+*SAFAP: Sindicato de la Asociación de Futbolistas Agremiados del Perú
 
-[Mar 30] Alianza Lima lost a two (4) points due to accumulated debt two months (January and February)
-         with your squad of players.
-[Mar 30] Cobresol FBC lost two (2) points for failure to cancel a fee of the unionization of players.
-[Jul 30] Cobresol FBC lost two (2) points for not file the payroll of may.
 
-SAFAP: Sindicato de la Asociación de Futbolistas Agremiados del Perú
-
-
-Round 1  [matches played with players not affiliated with SAFAP, “unionized player's strike”]
+Round: 1  
+*[matches played with players not affiliated with SAFAP, “unionized player's strike”]
 
 [Feb 18]
 Sporting Cristal      2-1  Cobresol FBC
@@ -57,7 +50,7 @@ Cienciano             2-1  Sport Boys
 FBC Melgar            awd   Univ.San Martín de P.  [awarded 3-0; Melgar won by walk-over; U.San Martin did not show because of disagreements with the FPF, ADFP and SAFAP.]
 
 
-Round 2
+Round: 2
 [Mar 3]
 Real Garcilaso        2-1  Alianza Lima
   [Ramón Rodríguez 9, Andy Pando 46; José Fernández 24]
@@ -80,7 +73,7 @@ Univ.San Martín de P. 1-2  Sport Huancayo
   [Christian Ramos 17og, Juan Gutiérrez 77; Sergio Ibarra 69]
 
 
-Round 3
+Round: 3
 [Mar 9]
 Juan Aurich           1-2  Cobresol FBC         
   [Ysrael Zúñiga 22; Antonio Serrano 76, Tomas Zambrano 85]
@@ -103,7 +96,7 @@ Alianza Lima          1–1  Univ.San Martín de P.
   [Jorge Bazan 5; Luis Perea 67pen]
 
 
-Round 4: 
+Round: 4: 
 [Mar 16]
 Universitario         0–0  José Gálvez FBC
 [Mar 17]
@@ -125,7 +118,7 @@ Univ.San Martín de P. 2-0  Inti Gas Deportes
   [Luis Cardoza 25, Josepmir Ballon 89]
 
 
-Round 5:
+Round: 5:
 [Mar 24]
 Alianza Lima          3–2  Unión Comercio
   [Jesús Rabanal 37, José Fernández 48, 88; Aldo Olcese 42, Ronal Celiz 63]
@@ -145,7 +138,7 @@ Sporting Cristal      3–0  Real Garcilaso
 Juan Aurich           1–0  Universitario
   [John Valencia 66]
 
-Round 6:
+Round: 6:
 [Mar 31]
 León de Húanuco       3–2  Juan Aurich
   [Ramón Cardozo 48, Carlos Zegarra 51, Sidney Faiffer 77; Ysrael Zúñiga 13, Israel Kahn 42]
@@ -164,7 +157,7 @@ FBC Melgar            3–0  Alianza Lima
   [Julián Di Cosmo 68, Roberto Carboni 73; José Canova 31og]
 Universitario         3–2  Cobresol FBC
   [Miguel Ximenez 7, Horacio Calcaterra 72, Andy Polo 81; Antonio Serrano 28, 91pen]
-Round 7:
+Round: 7:
 [Apr 7]
 Sporting Cristal      2–2  Univ. César Vallejo 
   [Hernán Rengifo 55, 94, Oscar Vilchez 61og; Roberto Jimenez 44]
@@ -183,7 +176,7 @@ Inti Gas Deportes     2–1  FBC Melgar
 Juan Aurich           0–0  Real Garcilaso
 
 
-Round 8: 
+Round: 8: 
 [Apr 14]
 León de Huánuco       2–0  Sport Boys
   [Luciano Cardinali 25, Pedro Garcia 75]
@@ -204,7 +197,7 @@ Alianza Lima          1–0  Universitario
   [José Fernández 32]
 
 
-Round 9: 
+Round: 9: 
 [Apr 21]
 Inti Gas Deportes     3–0  Alianza Lima
   [Franco Mendoza 40pen, 73, Fernando Oliveira 66]
@@ -224,7 +217,7 @@ José Gálvez FBC       2–1  Unión Comercio
 Juan Aurich           2–1  Univ. César Vallejo
   [Luis Tejada 58, 65; Claudio Velasquez 91]
 
-Round 10: 
+Round: 10: 
 [Apr 28]
 Real Garcilaso        2–1  Universitario 
   [Andy Pando 24, Emiliano Ciucci 71; Horacio Calcaterra 59]
@@ -244,7 +237,7 @@ Sport Huancayo        1–1  Sporting Cristal
 Alianza Lima          2–1  Cienciano
   [Jose Fernandez 4, Jonathan Charquero 42pen; Leonardo Rivero 93]
 
-Round 11:
+Round: 11:
 [May 1]
 León de Huánuco       2–2  Real Garcilaso
   [Sidney Faiffer 7, Ramon Cardozo 55; Ramon Rodriguez 14, 67]
@@ -265,7 +258,7 @@ José Gálvez FBC       1–0  Sport Huancayo
   [Cesar Medina 62]
 
 
-Round 12: 
+Round: 12: 
 [May 5] 
 Univ.San Martín de P. 0–1  León de Huánuco 
   [Sidney Faiffer 32]
@@ -286,7 +279,7 @@ Alianza Lima          0–3  Juan Aurich
   [Israel Kahn 58, Luis Tejada 81, Jhon Valencia 85]
 
 
-Round 13: 
+Round: 13: 
 
 [May 11]
 Universitario         1–3  Unión Comercio
@@ -309,7 +302,7 @@ Real Garcilaso        3–0  Univ.San Martín de P.
   [Ramon Rodriguez 22, Emiliano Ciucci 77; Gianfranco Espinoza 61og]
 
 
-Round 14: 
+Round: 14: 
 
 [May 18]
 Alianza Lima          2–1  Sport Boys
@@ -331,7 +324,7 @@ Sport Huancayo        2–1  León de Huánuco
 Inti Gas Deportes     2–1  Cobresol FBC
   [Jorge Leiva 23, Gary Correa 26; Antonio Serrano 31]
 
-Round 15: 
+Round: 15: 
 
 [May 26]
 Real Garcilaso        1–0 Unión Comercio
@@ -351,7 +344,7 @@ José Gálvez FBC       0–2  Alianza Lima
   [Edgar Gonzales 19, Fernando Meneses 71pen]
 
 
-Round 16: 
+Round: 16: 
 
 [Jun 16]
 Univ.San Martín de P. 0–0  FBC Melgar
@@ -371,7 +364,7 @@ Cobresol FBC          1–0  Sporting Cristal
 León de Huánuco       0–0  Alianza Lima
 
 
-Round 17: 
+Round: 17: 
 
 [Jun 23]
 Cienciano             2-3  Universitario
@@ -393,7 +386,7 @@ FBC Melgar            0-2  Univ. César Vallejo
   [Carlos Solis 32, Roberto Jimenez 61]
 
 
-Round 18:
+Round: 18:
 
 [Jun 27]
 Real Garcilaso        1-0  Inti Gas Deportes
@@ -414,7 +407,7 @@ Universitario         0–2  Sporting Cristal
   [Aurelio Saco_Vertiz 33og; Junior Ross 75]
 
 
-Round 19:
+Round: 19:
 
 [Jun 30]
 Alianza Lima          2-0  Univ. César Vallejo   
@@ -436,7 +429,7 @@ José Gálvez FBC       1-1  Universitario
   [Jose Messarina 82; Miguel Ximenez 64]
 
 
-Round 20:
+Round: 20:
 
 [Jul 4]
 Real Garcilaso        3-0  Sporting Cristal
@@ -456,7 +449,7 @@ Univ.San Martín de P. 3-2  Cienciano
   [Juan Gutierrez 29, Luis Perea 64pen, Christian Cueva 84; Juan Cominges, Miguel Mostto 65]
 
 
-Round 21:
+Round: 21:
 
 [Jul 7]
 Cobresol FBC          1-1  Universitario
@@ -476,7 +469,7 @@ José Gálvez FBC       2-2  Real Garcilaso
   [Martin Arzuaga 40, 63; Fabio Ramos 34, Andy Pando 56pen]
 
 
-Round 22:
+Round: 22:
 
 [Jul 10]
 Universitario         1-1  Sport Boys
@@ -498,7 +491,7 @@ Univ. César Vallejo   2-3  Sporting Cristal
   [Claudio Velasquez 33, Roberto Jimenez 62; Irven Avila 5, Hernan Rengifo 50, Jorge Cazulo 71]
 
 
-Round 23:
+Round: 23:
 
 [Jul 14]
 Cobresol FBC          1-1  Real Garcilaso
@@ -517,7 +510,7 @@ José Gálvez FBC       0-1  Univ. César Vallejo
 Juan Aurich           0-0  Univ.San Martín de P.
 
 
-Round 24:
+Round: 24:
 
 [Jul 18]
 Real Garcilaso        1-1  Sport Boys
@@ -536,7 +529,7 @@ Alianza Lima          1-1  Inti Gas Deportes
 Univ. César Vallejo   0-0  Juan Aurich
 
 
-Round 25:
+Round: 25:
 
 [Jul 21]
 Sport Boys           0-1   Univ.San Martín de P.
@@ -557,7 +550,7 @@ Sporting Cristal     2-2   Sport Huancayo
   [Junior Ross 35, Hernan Rengifo 83; Willyam Mimbela 55, 76]
 
 
-Round 26:
+Round: 26:
 [Jul 24]
 Univ.San Martín de P. 0-1  Universitario
   [Jhon Galliquio 41]
@@ -579,7 +572,7 @@ Alianza Lima          1-1  Sporting Cristal
   [Jhonny Vidales 4; Renzo Sheput 33]
 
 
-Round 27:
+Round: 27:
 [Jul 28]
 Sport Boys            0-1  Unión Comercio
   [Joseph Nwafor 62]
@@ -601,7 +594,7 @@ Juan Aurich           1-0  Alianza Lima
 
 
 
-Round 28:
+Round: 28:
 [Aug 4]
 Univ.San Martín de P. 0-0  Real Garcilaso
 Univ. César Vallejo   2-1  León de Huánuco
@@ -621,7 +614,7 @@ FBC Melgar            1-1  Sport Boys
   [Renato Valdivia 55; Carlos Orejuela 71pen]
 
 
-Round 29:
+Round: 29:
 [Aug 7]
 Sport Boys            0-1  Alianza Lima
   [Jesus Rabanal 16]
@@ -643,7 +636,7 @@ Univ.San Martín de P. 1-0  Unión Comercio
   [Juan Gonzales_Vigil 77]
 
 
-Round 30: 
+Round: 30: 
 
 [Aug 11]
 Inti Gas Deportes     4-1  Sport Boys
@@ -735,7 +728,7 @@ Liguilla B
 
 
 
-Round 31:
+Round: 31:
 
 [Aug 18]
 León de Huánuco       1-2  Alianza Lima
@@ -758,7 +751,7 @@ Inti Gas Deportes     1-0  Univ.San Martín de P.
   [Fernando Oliveira 54pen]
 
 
-Round 32:
+Round: 32:
 
 [Aug 25]
 Univ.San Martín de P. 1-1  José Gálvez FBC
@@ -780,7 +773,7 @@ Universitario         0-0  Inti Gas Deportes
 Cobresol FBC          0-2  Sporting Cristal
   [Leandro Franco 12, Renzo Sheput 86]
 
-Round 33:
+Round: 33:
 
 [Sep 1]
 Sport Boys            1-1  Univ. César Vallejo
@@ -802,7 +795,7 @@ José Gálvez FBC       3-1  Inti Gas Deportes
   [Cesar Medina 38, Guillermo Hoyos 45, Jhonny Obeso 90; Fernando Oliveira 40]
 
 
-Round 34:
+Round: 34:
 
 [Sep 15]
 Inti Gas Deportes     1-1  Sporting Cristal
@@ -824,7 +817,7 @@ Juan Aurich           1-0  Alianza Lima
   [Israel Kahn 50]
 
 
-Round 35:
+Round: 35:
 [Sep 22]
 Cienciano             0-0  Inti Gas Deportes
 Alianza Lima          2-2  Univ. César Vallejo
@@ -844,7 +837,7 @@ Universitario         2-1  Univ.San Martín de P.
   [Guillermo Tomasevich 7, Miguel Ximenez 91pen; Carlos Marinelli 65pen]
 
 
-Round 36: 
+Round: 36: 
 
 [Sep 20]
 Sporting Cristal      1-1  Universitario
@@ -866,7 +859,7 @@ Juan Aurich           1-1  Sport Boys
   [Jhon Valencia 93; Carlos Orejuela 55pen]
 
 
-Round 37:
+Round: 37:
 
 [Oct 5]
 Universitario         3-0  José Gálvez FBC
@@ -890,7 +883,7 @@ Sport Huancayo        0-1  Univ.San Martín de P.
 Alianza Lima          0-0  FBC Melgar
 
 
-Round 38: 
+Round: 38: 
 
 [Oct 20]
 Alianza Lima          1-2  León de Huánuco
@@ -912,7 +905,7 @@ Univ.San Martín de P. 1-1  Inti Gas Deportes
   [Luis Cardoza 88; Gary Correa 93]
 
 
-Round 39: 
+Round: 39: 
 
 [Oct 26]
 Cienciano             1-1  Sport Huancayo
@@ -935,7 +928,7 @@ Juan Aurich           2-0  FBC Melgar
   [Michael Guevara 1, Israel Kahn 20]
 
 
-Round 40: 
+Round: 40: 
 
 [Oct 30]
 Univ.San Martín de P. 1-1  Sporting Cristal
@@ -958,7 +951,7 @@ FBC Melgar            2-0  León de Huánuco
   [Angel Ojeda 12; Roller Cambindo 30og]
 
 
-Round 41: 
+Round: 41: 
 
 [Nov 3]
 Unión Comercio        1-2  Univ. César Vallejo
@@ -981,7 +974,7 @@ Universitario         4-0  Cobresol FBC
   [Miguel Ximenez 5pen, 20, 88, Alvaro Ampuero 81]
 
 
-Round 42: 
+Round: 42: 
 
 [Nov 10]
 Inti Gas Deportes     0-1  Cienciano
@@ -1002,7 +995,7 @@ José Gálvez FBC       3-1  Sporting Cristal
   [Ricardo Salcedo 1, Josimar Atoche 60, Jose Mesarina 76; Renzo Sheput 24]
 
 
-Round 43: 
+Round: 43: 
 
 [Nov 18]
 Universitario         0-3  Sporting Cristal
@@ -1024,7 +1017,7 @@ Sport Huancayo        2-1  Inti Gas Deportes
   [Sergio Ibarra 4, Angelo Cruzado 52; Carlos Gonzales 8]
 
 
-Round 44: 
+Round: 44: 
 
 [Nov 25]
 José Gálvez FBC       4-0  Universitario

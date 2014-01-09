@@ -36,14 +36,14 @@ Date: 8/9/2003
   Milne 31; Pasquinelli 77
 
 ; Rangers         ; 4-0; Kilmarnock
-  Lovenkrands 14, Mols 38, Arteta (pk) 43, Arteta 72
+  Lovenkrands 14, Mols 38, Arteta (pk) 43, Arteta 72;
 *  [red card: Innes (K) 34]
  
 Round: 2
 Date: 8/16/2003
 
 ; Aberdeen        ; 2-3; Rangers
-  Zdrillic 23, Deloumeaux 90, De Boer 38, Arteta 43, Mols 58
+  Zdrillic 23, Deloumeaux 90; De Boer 38, Arteta 43, Mols 58
  
 ; Celtic          ; 5-0; Dundee United
   Maloney 11, Agathe 26, Thompson (pk) 45, McNamara 65, Larsson 82;
@@ -413,7 +413,7 @@ Round: 18
 Date: 12/27/2003
 
 ; Celtic          ; 6-0; Hibernian
-  Sutton 4, Sutton (pk) 54, Hartson 45, Hartson 60, Larsson 66, Petrov 77
+  Sutton 4, Sutton (pk) 54, Hartson 45, Hartson 60, Larsson 66, Petrov 77;
 *  [red card: Riordan (H) 41]
 
 ; Hearts          ; 0-0; Motherwell
@@ -590,7 +590,7 @@ Date: 2/21/2004
   Clarkson 15;
 
 ; Rangers         ; 3-0; Hibernian
-  Arveladze (pk) 9, Mols 66, Thompson (pk) 83
+  Arveladze (pk) 9, Mols 66, Thompson (pk) 83;
 
 Date: 2/22/2004
 
@@ -815,7 +815,7 @@ Date: 4/18/2004
 *12.Partick Thistle      33  4  6 23  31-61  18
  
 
-Championship Playoff
+*Championship Playoff
 
 * 1.Celtic               38 31  5  2 105-25  98  Champions
 * 2.Rangers              38 25  6  7  76-33  81
@@ -899,7 +899,7 @@ Date: 5/16/2004
 * 5.Dundee United        38 13 10 15  47-60  49
 * 6.Motherwell           38 12 10 16  42-49  46
 
-Relegation Playoff
+*Relegation Playoff
 
 * 7.Dundee               38 12 10 16  48-57  46
 * 8.Hibernian            38 11 11 16  41-60  44

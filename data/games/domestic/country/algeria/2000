@@ -20,322 +20,382 @@ Season: 2000-2001
 *15.USM El Harrach         30  7  8 15 24-41 29  Relegated
 *16.CS Constantine         30  4  7 19 17-45 19  Relegated
 
-Round: 1 [Sep 7]
-ASMO    1-0 USMH
-CAB     2-1 MCA
-CRB     1-0 MCO
-CSC     0-1 WAT
-ESS     3-0 MOC
-JSK     1-0 JSMB
-USMAl   0-0 ASAM
-USMAn   1-0 USMB
+Round: 1 
+Date: 9/7/2000
 
-Round: 2 [Sep 14]
-MCA     1-3 ESS
-USMH    0-3 JSK
-MCO     0-2 USMAn
-USMB    3-1 ASMO
-MOC     3-4 CRB
-JSMB    1-1 CSC
-ASAM    2-1 CAB
-WAT     1-0 USMAl
+; ASMO   ; 1-0; USMH
+; CAB    ; 2-1; MCA
+; CRB    ; 1-0; MCO
+; CSC    ; 0-1; WAT
+; ESS    ; 3-0; MOC
+; JSK    ; 1-0; JSMB
+; USMAl  ; 0-0; ASAM
+; USMAn  ; 1-0; USMB
 
-Round: 3 [Sep 21]
-USMAl   3-1 JSMB
-CSC     1-1 USMH
-JSK     2-0 USMB
-ASMO    2-0 MCO
-USMAn   0-1 MOC
-CRB     1-0 MCA
-ESS     3-0 CAB
-WAT     1-0 ASAM
+Round: 2 
+Date: 9/14/2000
+
+; MCA    ; 1-3; ESS
+; USMH   ; 0-3; JSK
+; MCO    ; 0-2; USMAn
+; USMB   ; 3-1; ASMO
+; MOC    ; 3-4; CRB
+; JSMB   ; 1-1; CSC
+; ASAM   ; 2-1; CAB
+; WAT    ; 1-0; USMAl
+
+Round: 3 
+Date: 9/21/2000
+
+; USMAl  ; 3-1; JSMB
+; CSC    ; 1-1; USMH
+; JSK    ; 2-0; USMB
+; ASMO   ; 2-0; MCO
+; USMAn  ; 0-1; MOC
+; CRB    ; 1-0; MCA
+; ESS    ; 3-0; CAB
+; WAT    ; 1-0; ASAM
 
 Round: 4
-[Oct 16]
-USMH    1-1 USMAl
-MOC     2-0 ASMO
-JSMB    1-0 WAT
-CAB     0-0 CRB
-USMB    2-0 CSC
-MCA     0-0 USMAn
-ASAM    1-0 ESS
-[Dec 7]
-MCO     1-0 JSK
+Date: 10/16/2000
 
-Round: 5 [Oct 19]
-CSC     awd MCO         [awarded 0-3; originally 3-1]
-USMAl   2-0 USMB
-CRB     1-0 ESS
-USMAn   1-0 CAB
-ASMO    2-2 MCA
-WAT     2-1 USMH
-JSMB    1-0 ASAM
-JSK     2-2 MOC
+; USMH   ; 1-1; USMAl
+; MOC    ; 2-0; ASMO
+; JSMB   ; 1-0; WAT
+; CAB    ; 0-0; CRB
+; USMB   ; 2-0; CSC
+; MCA    ; 0-0; USMAn
+; ASAM   ; 1-0; ESS
+
+12/7/2000; MCO    ; 1-0; JSK
+
+Round: 5 
+Date: 10/19/2000
+
+*; CSC     awd MCO         [awarded; 0-3;; originally 3-1]
+; USMAl  ; 2-0; USMB
+; CRB    ; 1-0; ESS
+; USMAn  ; 1-0; CAB
+; ASMO   ; 2-2; MCA
+; WAT    ; 2-1; USMH
+; JSMB   ; 1-0; ASAM
+; JSK    ; 2-2; MOC
 
 Round: 6 
-[Oct 26]
-ASAM    1-0 CRB
-MCO     1-2 USMAl
-CAB     1-0 ASMO
-ESS     1-0 USMAn
-USMB    7-1 WAT
-USMH    2-1 JSMB
-MOC     0-1 CSC
-[Dec 18]
-MCA     0-2 JSK
+Date: 10/26/2000
 
-Round: 7 [Nov 2]
-USMAl   4-1 MOC
-CSC     0-0 MCA
-USMAn   1-0 CRB
-USMH    2-1 ASAM
-JSK     1-0 CAB
-JSMB    1-1 USMB
-ASMO    2-0 ESS
-WAT     1-2 MCO    
+; ASAM   ; 1-0; CRB
+; MCO    ; 1-2; USMAl
+; CAB    ; 1-0; ASMO
+; ESS    ; 1-0; USMAn
+; USMB   ; 7-1; WAT
+; USMH   ; 2-1; JSMB
+; MOC    ; 0-1; CSC
 
-Round: 8 [Nov 9]
-ASAM    1-0 USMAn
-MCA     0-0 USMAl
-CAB     1-0 CSC
-ESS     4-1 JSK
-MOC     0-0 WAT
-MCO     1-0 JSMB
-USMB    0-0 USMH
-CRB     1-1 ASMO
+12/18/2000; MCA    ; 0-2; JSK
+
+Round: 7 
+Date: 11/2/2000
+
+; USMAl  ; 4-1; MOC
+; CSC    ; 0-0; MCA
+; USMAn  ; 1-0; CRB
+; USMH   ; 2-1; ASAM
+; JSK    ; 1-0; CAB
+; JSMB   ; 1-1; USMB
+; ASMO   ; 2-0; ESS
+; WAT    ; 1-2; MCO    
+
+Round: 8 
+Date: 11/9/2000
+
+; ASAM   ; 1-0; USMAn
+; MCA    ; 0-0; USMAl
+; CAB    ; 1-0; CSC
+; ESS    ; 4-1; JSK
+; MOC    ; 0-0; WAT
+; MCO    ; 1-0; JSMB
+; USMB   ; 0-0; USMH
+; CRB    ; 1-1; ASMO
 
 Round: 9 
-[Nov 16]
-USMAl   4-2 CAB
-CSC     1-1 ESS
-WAT     1-0 MCA
-JSMB    1-0 MOC
-USMH    0-0 MCO
-USMB    3-1 ASAM
-[Dec 25]
-JSK     4-0 CRB
-[Jan 4]
-ASMO    0-0 USMAn
+Date: 11/16/2000
+
+; USMAl  ; 4-2; CAB
+; CSC    ; 1-1; ESS
+; WAT    ; 1-0; MCA
+; JSMB   ; 1-0; MOC
+; USMH   ; 0-0; MCO
+; USMB   ; 3-1; ASAM
+
+12/25/2000; JSK    ; 4-0; CRB
+
+1/4/2000; ASMO   ; 0-0; USMAn
 
 Round: 10 
-[Nov 23]
-ESS     1-1 USMAl
-CRB     2-1 CSC
-ASAM    1-3 ASMO
-CAB     1-1 WAT
-MCA     1-4 JSMB
-MOC     3-1 USMH
-MCO     1-0 USMB
-[Jan 1]
-USMAn   1-5 JSK
+Date: 11/23/2000
+
+; ESS    ; 1-1; USMAl
+; CRB    ; 2-1; CSC
+; ASAM   ; 1-3; ASMO
+; CAB    ; 1-1; WAT
+; MCA    ; 1-4; JSMB
+; MOC    ; 3-1; USMH
+; MCO    ; 1-0; USMB
+
+1/1/2001; USMAn  ; 1-5; JSK
 
 Round: 11 
-[Nov 27]
-USMAl   0-0 CRB
-CSC     1-2 USMAn
-WAT     4-1 ESS
-JSMB    3-0 CAB
-USMH    1-1 MCA
-USMB    3-2 MOC
-ASAM    0-1 MCO
-[Jan 8]
-ASMO    1-1 JSK
+Date: 11/27/2000
+
+; USMAl  ; 0-0; CRB
+; CSC    ; 1-2; USMAn
+; WAT    ; 4-1; ESS
+; JSMB   ; 3-0; CAB
+; USMH   ; 1-1; MCA
+; USMB   ; 3-2; MOC
+; ASAM   ; 0-1; MCO
+
+1/8/2001; ASMO   ; 1-1; JSK
 
 Round: 12 
-[Nov 30]
-USMAn   1-1 USMAl
-ASMO    4-0 CSC
-CRB     2-0 WAT
-ESS     1-1 JSMB
-CAB     2-0 USMH
-MOC     0-1 MCO
-[Dec 7]
-MCA     2-1 USMB
-[Jan 15]
-JSK     3-0 ASAM
+Date: 11/30/2000
 
-Round: 13 [Dec 11]
-USMAl   3-1 ASMO
-CSC     1-0 JSK
-WAT     2-0 USMAn
-JSMB    1-1 CRB
-USMH    0-1 ESS
-USMB    1-0 CAB
-MCO     0-1 MCA
-ASAM    1-0 MOC
+; USMAn  ; 1-1; USMAl
+; ASMO   ; 4-0; CSC
+; CRB    ; 2-0; WAT
+; ESS    ; 1-1; JSMB
+; CAB    ; 2-0; USMH
+; MOC    ; 0-1; MCO
 
-Round: 14 [Dec 14]
-JSK     2-0 USMAl
-CSC     5-1 ASAM
-ASMO    4-0 WAT
-USMAn   0-0 JSMB
-CRB     2-1 USMH
-ESS     5-1 USMB
-CAB     2-1 MCO
-MCA     0-2 MOC
+12/7/2000; MCA    ; 2-1; USMB
 
-Round: 15 [Dec 21]
-USMAl   2-1 CSC
-WAT     2-1 JSK
-JSMB    2-1 ASMO
-USMH    3-1 USMAn
-USMB    1-0 CRB
-MCO     1-1 ESS
-MOC     2-1 CAB
-ASAM    1-1 MCA
+1/15/2001; JSK    ; 3-0; ASAM
+
+Round: 13 
+Date: 12/11/2000
+
+; USMAl  ; 3-1; ASMO
+; CSC    ; 1-0; JSK
+; WAT    ; 2-0; USMAn
+; JSMB   ; 1-1; CRB
+; USMH   ; 0-1; ESS
+; USMB   ; 1-0; CAB
+; MCO    ; 0-1; MCA
+; ASAM   ; 1-0; MOC
+
+Round: 14 
+Date: 12/14/2000
+
+; JSK    ; 2-0; USMAl
+; CSC    ; 5-1; ASAM
+; ASMO   ; 4-0; WAT
+; USMAn  ; 0-0; JSMB
+; CRB    ; 2-1; USMH
+; ESS    ; 5-1; USMB
+; CAB    ; 2-1; MCO
+; MCA    ; 0-2; MOC
+
+Round: 15 
+Date: 12/21/2000
+
+; USMAl  ; 2-1; CSC
+; WAT    ; 2-1; JSK
+; JSMB   ; 2-1; ASMO
+; USMH   ; 3-1; USMAn
+; USMB   ; 1-0; CRB
+; MCO    ; 1-1; ESS
+; MOC    ; 2-1; CAB
+; ASAM   ; 1-1; MCA
  
-Round: 16 [Jan 20]
-MCO     2-2 CRB
-JSMB    1-1 JSK
-USMH    2-1 ASMO
-WAT     2-1 CSC
-USMB    2-0 USMAn
-MCA     3-1 CAB
-MOC     2-2 ESS
-ASAM    0-0 USMAl
+Round: 16 
+Date: 1/20/2001
 
-Round: 17 [Jan 29]
-ESS     2-2 MCA
-JSK     1-0 USMH
-USMAn   1-2 MCO
-ASMO    1-1 USMB
-CRB     1-1 MOC
-CSC     0-0 JSMB
-CAB     1-0 ASAM
-USMAl   5-1 WAT
+; MCO    ; 2-2; CRB
+; JSMB   ; 1-1; JSK
+; USMH   ; 2-1; ASMO
+; WAT    ; 2-1; CSC
+; USMB   ; 2-0; USMAn
+; MCA    ; 3-1; CAB
+; MOC    ; 2-2; ESS
+; ASAM   ; 0-0; USMAl
 
-Round: 18 [Feb 1]
-JSMB    1-1 USMAl
-USMH    1-0 CSC         [abandoned in 85' due to throwing of projectiles; awarded 1-0
-USMB    1-0 JSK          or later finished with that score]
-MCO     1-1 ASMO
-MOC     1-1 USMAn
-MCA     1-2 CRB
-CAB     2-0 ESS
-ASAM    2-1 WAT
+Round: 17 
+Date: 1/29/2001
 
-Round: 19 [Feb 8]
-USMAl   1-0 USMH
-CSC     2-0 USMB 
-JSK     1-0 MCO
-ASMO    1-0 MOC
-USMAn   2-3 MCA
-CRB     0-0 CAB
-ESS     0-0 ASAM
-WAT     0-0 JSMB
+; ESS    ; 2-2; MCA
+; JSK    ; 1-0; USMH
+; USMAn  ; 1-2; MCO
+; ASMO   ; 1-1; USMB
+; CRB    ; 1-1; MOC
+; CSC    ; 0-0; JSMB
+; CAB    ; 1-0; ASAM
+; USMAl  ; 5-1; WAT
 
-Round: 20 [Feb 15] 
-USMB    1-2 USMAl
-MCO     2-0 CSC
-MOC     1-2 JSK
-MCA     4-1 ASMO
-CAB     2-2 USMAn
-ESS     0-0 CRB
-USMH    2-1 WAT
-ASAM    2-0 JSMB
+Round: 18 
+Date: 2/1/2001
 
-Round: 21 [Feb 19]
-USMAl   4-2 MCO
-CSC     0-1 MOC
-JSK     4-1 MCA
-ASMO    1-0 CAB
-USMAn   3-0 ESS
-CRB     3-0 ASAM
-WAT     1-1 USMB
-JSMB    2-1 USMH
+; JSMB   ; 1-1; USMAl
+; USMH   ; 1-0; CSC         
+*[abandoned in 85' due to throwing of projectiles; awarded 1-0 or later finished with that score]
+; USMB   ; 1-0; JSK          
+; MCO    ; 1-1; ASMO
+; MOC    ; 1-1; USMAn
+; MCA    ; 1-2; CRB
+; CAB    ; 2-0; ESS
+; ASAM   ; 2-1; WAT
 
-Round: 22 [Feb 22]
-CRB     2-0 USMAn
-MCO     1-2 WAT
-CAB     1-0 JSK
-MOC     1-0 USMAl
-MCA     2-0 CSC
-ESS     4-1 ASMO
-ASAM    1-1 USMH
-USMB    2-0 JSMB
+Round: 19 
+Date: 2/8/2001
 
-Round: 23 [Mar 16]
-USMAl   1-1 MCA
-CSC     1-1 CAB
-JSK     4-1 ESS
-ASMO    1-2 CRB
-WAT     0-2 MOC
-JSMB    3-0 MCO
-USMH    0-1 USMB        
-USMAn   1-1 ASAM
+; USMAl  ; 1-0; USMH
+; CSC    ; 2-0; USMB 
+; JSK    ; 1-0; MCO
+; ASMO   ; 1-0; MOC
+; USMAn  ; 2-3; MCA
+; CRB    ; 0-0; CAB
+; ESS    ; 0-0; ASAM
+; WAT    ; 0-0; JSMB
+
+Round: 20 
+Date: 2/15/2001
+
+; USMB   ; 1-2; USMAl
+; MCO    ; 2-0; CSC
+; MOC    ; 1-2; JSK
+; MCA    ; 4-1; ASMO
+; CAB    ; 2-2; USMAn
+; ESS    ; 0-0; CRB
+; USMH   ; 2-1; WAT
+; ASAM   ; 2-0; JSMB
+
+Round: 21 
+Date: 2/19/2001
+
+; USMAl  ; 4-2; MCO
+; CSC    ; 0-1; MOC
+; JSK    ; 4-1; MCA
+; ASMO   ; 1-0; CAB
+; USMAn  ; 3-0; ESS
+; CRB    ; 3-0; ASAM
+; WAT    ; 1-1; USMB
+; JSMB   ; 2-1; USMH
+
+Round: 22 
+Date: 2/22/2001
+
+; CRB    ; 2-0; USMAn
+; MCO    ; 1-2; WAT
+; CAB    ; 1-0; JSK
+; MOC    ; 1-0; USMAl
+; MCA    ; 2-0; CSC
+; ESS    ; 4-1; ASMO
+; ASAM   ; 1-1; USMH
+; USMB   ; 2-0; JSMB
+
+Round: 23 
+Date: 3/16/2001
+
+; USMAl  ; 1-1; MCA
+; CSC    ; 1-1; CAB
+; JSK    ; 4-1; ESS
+; ASMO   ; 1-2; CRB
+; WAT    ; 0-2; MOC
+; JSMB   ; 3-0; MCO
+; USMH   ; 0-1; USMB        
+; USMAn  ; 1-1; ASAM
  
-Round: 24 [Mar 20]
-CAB     0-1 USMAl
-ESS     0-0 CSC
-MCA     1-0 WAT
-MOC     1-0 JSMB        
-MCO     1-0 USMH
-ASAM    0-0 USMB
-CRB     1-0 JSK
-USMAn   0-0 ASMO
+Round: 24 
+Date: 3/20/2001
+
+; CAB    ; 0-1; USMAl
+; ESS    ; 0-0; CSC
+; MCA    ; 1-0; WAT
+; MOC    ; 1-0; JSMB        
+; MCO    ; 1-0; USMH
+; ASAM   ; 0-0; USMB
+; CRB    ; 1-0; JSK
+; USMAn  ; 0-0; ASMO
  
 Round: 25
-[Apr 5]
-CSC     0-2 CRB
-USMH    1-0 MOC
-[Apr 9]
-USMAl   2-1 ESS 
-WAT     2-0 CAB
-JSMB    4-1 MCA
-USMB    3-1 MCO
-ASMO    3-0 ASAM
-JSK     1-1 USMAn       
+Date: 4/5/2001
+
+; CSC    ; 0-2; CRB
+; USMH   ; 1-0; MOC
+
+Date: 4/9/2001
+
+; USMAl  ; 2-1; ESS 
+; WAT    ; 2-0; CAB
+; JSMB   ; 4-1; MCA
+; USMB   ; 3-1; MCO
+; ASMO   ; 3-0; ASAM
+; JSK    ; 1-1; USMAn       
  
-Round: 26 [Apr 13-17]
-JSK     2-0 ASMO
-MCA     1-1 USMH
-MCO     1-0 ASAM
-ESS     2-0 WAT
-USMAn   1-0 CSC
-CAB     2-1 JSMB
-MOC     1-0 USMB
-[May 7]
-CRB     2-0 USMAl
+Round: 26 
+*[Apr 13-17]
+Date: 4/13/2001
 
-Round: 27 [May 17]
-USMAl   2-5 USMAn
-CSC     0-1 ASMO
-ASAM    2-1 JSK
-WAT     1-3 CRB
-JSMB    2-1 ESS
-USMH    1-1 CAB
-USMB    3-0 MCA
-MCO     0-0 MOC
+; JSK    ; 2-0; ASMO
+; MCA    ; 1-1; USMH
+; MCO    ; 1-0; ASAM
+; ESS    ; 2-0; WAT
+; USMAn  ; 1-0; CSC
+; CAB    ; 2-1; JSMB
+; MOC    ; 1-0; USMB
 
-Round: 28 [Jun 7]
-ASMO     0-0 USMAl
-USMAn   3-1 WAT
-JSK     2-0 CSC
-CRB     awd JSMB        [awarded 3-0, forfait JSMB]
-ESS     2-0 USMH
-CAB     2-1 USMB
-MCA     1-0 MCO
-MOC     1-2 ASAM
+5/7/2001; CRB    ; 2-0; USMAl
 
-Round: 29 [Jun 21]
-USMAl awd JSK   [awarded 3-0, forfait JSK]
-WAT   0-1 ASMO
-ASAM  3-0 CSC
-USMH  1-2 CRB
-USMB  3-0 ESS
-MCO   3-1 CAB
-MOC   1-0 MCA
-JSMB  1-3 USMAn
+Round: 27 
+Date: 5/17/2001
 
-Round: 30 [Jun 25]
-CSC   0-6 USMAl
-ASMO  2-0 JSMB
-MCA   3-1 ASAM
-USMAn 6-0 USMH
-CRB   1-0 USMB  [match stopped in 19'; Blida showed up with only 9 players,
-ESS   2-1 MCO          mostly juniors, and 3 of them feigned injury causing the
-CAB   1-0 MOC          match to be abandoned]
-JSK   awd WAT                [awarded 0-3, forfait JSK]
+; USMAl  ; 2-5; USMAn
+; CSC    ; 0-1; ASMO
+; ASAM   ; 2-1; JSK
+; WAT    ; 1-3; CRB
+; JSMB   ; 2-1; ESS
+; USMH   ; 1-1; CAB
+; USMB   ; 3-0; MCA
+; MCO    ; 0-0; MOC
+
+Round: 28 
+Date: 6/7/2001
+
+; ASMO    ; 0-0; USMAl
+; USMAn  ; 3-1; WAT
+; JSK    ; 2-0; CSC
+*CRB     awd JSMB        [awarded 3-0, forfait JSMB]
+
+; ESS    ; 2-0; USMH
+; CAB    ; 2-1; USMB
+; MCA    ; 1-0; MCO
+; MOC    ; 1-2; ASAM
+
+Round: 29 
+Date: 6/21/2001
+
+*USMAl awd JSK   [awarded 3-0, forfait JSK]
+
+; WAT  ; 0-1; ASMO
+; ASAM ; 3-0; CSC
+; USMH ; 1-2; CRB
+; USMB ; 3-0; ESS
+; MCO  ; 3-1; CAB
+; MOC  ; 1-0; MCA
+; JSMB ; 1-3; USMAn
+
+Round: 30 
+Date: 6/25/2001
+
+; CSC  ; 0-6; USMAl
+; ASMO ; 2-0; JSMB
+; MCA  ; 3-1; ASAM
+; USMAn; 6-0; USMH
+; CRB  ; 1-0; USMB  
+*[match stopped in 19'; Blida showed up with only 9 players, mostly juniors, and 3 of them feigned injury causing the match to be abandoned]
+; ESS  ; 2-1; MCO          
+; CAB  ; 1-0; MOC          
+*JSK   awd WAT                [awarded 0-3, forfait JSK]
 
 
 * 1.CR Belouizdad          30 18  8  4 41-21 62  Champions  

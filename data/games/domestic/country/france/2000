@@ -1,6 +1,7 @@
 BlockSource: http://rsssf.com/tablesf/fran01.html
 Competition: Ligue 1
 Season: 2000-2001
+home-first
 
 * 1.FC Nantes Atlantique      34 21  5  8  58-36  68  Champions
 * 2.Olympique Lyonnais        34 17 13  4  57-30  64  Champions' League
@@ -187,7 +188,7 @@ Date: 8/19/2000
   Eric Hassli 75;
 
 ; Rennes      ; 3-0; Strasbourg
-  Philippe Delaye 8, Philippe Delaye 10, Jocelyn Gourvennec 90
+  Philippe Delaye 8, Philippe Delaye 10, Jocelyn Gourvennec 90;
 
 ; Troyes      ; 1-0; Auxerre
   Sladjan Djukic 80;
@@ -279,7 +280,7 @@ Date: 9/9/2000
   Alexandre Commisetti 80, Alexandre Commisetti 84; Nestor Fabbri 42, Viorel Moldovan 55
 
 ; Bordeaux    ; 0-2; Guingamp
-  Bruno Rodriguez 6, Yannick Barret 80
+;  Bruno Rodriguez 6, Yannick Barret 80
 
 ; Lille       ; 1-2; Troyes
   Benoit Cheyrou 6; Nordin Jbari 3, Nicolas Gousse 33
@@ -624,7 +625,7 @@ Date: 12/13/2000
 * - replay/2000
 
 ; Lille       ; 2-0; PSG
-  Mile Sterjovski 13, 72;
+  Mile Sterjovski 13, Mile Sterjovski 72;
 
 Round: 18
 Date: 11/28/2000
@@ -762,7 +763,7 @@ Date: 12/20/2000
 Date: 12/21/2000
 
 ; Bordeaux    ; 0-2; Nantes
-  Viorel Moldovan 24, Eric Carriere 90
+;  Viorel Moldovan 24, Eric Carriere 90
 
 ; Lyon        ; 2-1; St Etienne
   Sonny Anderson 4, Christope Delmotte 90; Alex 70
