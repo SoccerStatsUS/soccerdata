@@ -5,6 +5,11 @@ import datetime
 
 l = [
 
+    { 
+        'name': 'Rhodes Field',
+        'city': 'Philadelphia, PA',
+        },
+
     {
         'name': 'Heinz Field',
         'address': '100 Art Rooney Avenue',

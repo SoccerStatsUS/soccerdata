@@ -19,6 +19,16 @@ l = [
         },
 
     {
+        'name': 'Indianapolis Classical School',
+        'city': 'Indianapolis, IN',
+        },
+
+    {
+        'name': 'Indianapolis Thorpe\'s Block',
+        'city': 'Indianapolis, IN',
+        },
+
+    {
         'name': 'Indiana Tigers',
         'city': 'Gary, IN',
         'founded': 1973,

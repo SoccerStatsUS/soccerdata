@@ -55,6 +55,11 @@ l = [
         },
 
     {
+        'name': 'Rudd Field',
+        'location': 'Elon, NC',
+        },
+
+    {
         'name': 'Richardson Stadium',
         'location': 'Davidson, NC',
         'opened': 1923,

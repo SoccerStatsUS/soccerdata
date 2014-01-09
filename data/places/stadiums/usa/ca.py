@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Stan Canaris Stadium',
+        'location': 'Chula Vista, CA',
+        },
+
+    {
         'name': 'Drake Stadium',
         'location': 'Los Angeles, CA',
         'capacity': 11700,
@@ -76,6 +81,11 @@ l = [
         'location': 'Santa Barbara, CA',
         'opened': 1966,
         'capacity': 17000,
+        },
+
+    {
+        'name': 'CSUB Main Soccer Field',
+        'location': 'Bakersfield, CA',
         },
 
     {

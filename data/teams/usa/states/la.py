@@ -21,6 +21,11 @@ l = [
         },
 
     {
+        'name': 'Shreveport/Bossier Lions',
+        'city': 'Shreveport, LA',
+        },
+
+    {
         'name': 'Baton Rouge Bombers',
         'city': 'Baton Rouge, LA',
         'founded': 1997,

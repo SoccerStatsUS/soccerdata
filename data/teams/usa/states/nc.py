@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'UNC Chapel Hill',
+        'city': 'Chapel Hill, NC',
+
+        },
+
+    {
         'name': 'Carolina Courage',
         'city': 'Cary, NC',
         'founded': 2001,

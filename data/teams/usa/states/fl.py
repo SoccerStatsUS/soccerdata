@@ -53,6 +53,20 @@ l = [
         },
 
     {
+        'name': 'West Pines United Futbol Club',
+        'city': 'Pembroke Pines, FL',
+        },
+    {
+        'name': 'Brandon Braves',
+        'city': 'Brandon, FL',
+        },
+
+    {
+        'name': 'Jacksonville Fury',
+        'city': 'Jacksonville, FL',
+        },
+
+    {
         'name': 'Florida ThunderCats',
         'city': 'Fort Lauderdale, FL',
         'founded': 1998,
@@ -244,6 +258,12 @@ l = [
         'founded': 1984,
         'dissolved': 1985,
         },
+
+    {
+        'name': 'Florida Strikers',
+        'city': 'Fort Lauderdale, FL',
+        },
+
     {
         'name': 'Tallahassee Tempest',
         'city': 'Tallahassee, FL',

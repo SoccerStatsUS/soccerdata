@@ -13,6 +13,26 @@ l = [
         },
 
     {
+        'name': 'Iowa State University',
+        'city': 'Ames, IA',
+        },
+
+    {
+        'name': 'Dubuque High School',
+        'city': 'Dubuque, IA',
+        },
+
+    {
+        'name': 'Iowa City Town Team',
+        'city': 'Iowa City, IA',
+        },
+
+    {
+        'name': 'Tipton College',
+        'city': 'Tipton, IA',
+        },
+
+    {
         'name': 'Iowa Menace',
         'city': 'Des Moines, IA',
         # http://thecup.us/2011-meet-the-usasa-iowa-menace-the-pdl-team-in-disguise/

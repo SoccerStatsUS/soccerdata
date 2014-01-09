@@ -6,6 +6,11 @@ import datetime
 l = [
 
     {
+        'name': 'Leavenworth Hibernian Society',
+        'city': 'Leavenworth, KS',
+        },
+
+    {
         'name': 'Wichita Jets',
         'city': 'Wichita, KS',
         'founded': 2000,

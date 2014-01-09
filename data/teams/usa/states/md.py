@@ -55,6 +55,11 @@ l = [
         },
 
     {
+        'name': 'Naval Academy',
+        'city': 'Annapolis, MD',
+        },
+
+    {
         'name': 'ASA Chesapeake Charge',
         'city': 'Gambrills, MD',
         'founded': 2010,

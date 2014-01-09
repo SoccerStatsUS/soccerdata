@@ -12,6 +12,12 @@ l = [
         },
 
     {
+        'name': 'Thespakusatsu Gunma',
+        'founded': 1995,
+        'city': 'Maebashi, Japan',
+        },
+
+    {
         'name': 'Al-Ahli Dubai',
         'founded': 1970,
         'city': 'Dubai, United Arab Emirates',
@@ -299,6 +305,12 @@ l = [
         'name': 'Salgaocar SC',
         'founded': 1956,
         'city': 'Vasco, India',
+        },
+
+    {
+        'name': 'Mohun Bagan',
+        'founded': 1889,
+        'city': 'Kolkata, India',
         },
 
     {

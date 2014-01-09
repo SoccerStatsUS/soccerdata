@@ -5,6 +5,42 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Palo Alto Mayfields',
+        'city': 'Palo Alto, CA',
+        },
+
+    #{
+    #    'name': 'Golden Bay Buccaneers', # same as Oakland Buccaneers
+    #    'city': 'Berkeley, CA',
+    #    },
+
+    {
+        'name': 'Saint Mary\'s College of California',
+        'city': 'Moraga, CA',
+        },
+
+    {
+        'name': 'San Francisco California Rangers',
+        'city': 'San Francisco, CA',
+        },
+
+    {
+        'name': 'San Francisco Fog',
+        'city': 'San Francisco, CA',
+        },
+
+    {
+        'name': 'Oakland High School',
+        'city': 'Oakland, CA',
+        },
+
+    {
+        'name': 'Oakland Golden Gate Club',
+        'city': 'Oakland, CA',
+        },
+
+
     # division 1
 
     {
@@ -213,6 +249,26 @@ l = [
     {
         'name': 'University of California, Santa Barbara',
         'city': 'Santa Barbara, CA',
+        },
+
+    {
+        'name': 'University of California, Riverside',
+        'city': 'Riverside, CA',
+        },
+
+    {
+        'name': 'Cal Poly',
+        'city': 'San Luis Obispo, CA',
+        },
+
+    {
+        'name': 'University of San Francisco',
+        'city': 'San Francisco, CA',
+        },
+
+    {
+        'name': 'University of California, Santa Cruz',
+        'city': 'Santa Cruz, CA',
         },
 
     {

@@ -5,6 +5,186 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Niagara Falls Rangers',
+        'city': 'Niagara Falls, NY',
+        },
+
+    {
+        'name': 'Brooklyn Hispano',
+        'city': 'Brooklyn, NY',
+        },
+    {
+        'name': 'Brooklyn St. Mary\'s Celtic',
+        'city': 'Brooklyn, NY',
+        },
+
+
+
+    {
+        'name': 'Buffalo Blazers',
+        'city': 'Buffalo, NY',
+        },
+
+    {
+        'name': 'New York Arrows',
+        'city': 'Uniondale, NY',
+        },
+
+    {
+        'name': 'New York Express',
+        'city': 'Uniondale, NY',
+        },
+
+    {
+        'name': 'New York City University',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Thistles',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Actives',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Gentlemen',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Pilgrims',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'State Island Cricket Association',
+        'city': 'Staten Island, NY',
+        },
+
+    {
+        'name': 'New Rochelle Foot Ball Association',
+        'city': 'New Rochelle, NY',
+        },
+
+    {
+        'name': 'State Island Association',
+        'city': 'Staten Island, NY',
+        },
+
+    {
+        'name': 'SUNY Stony Brook',
+        'city': 'Stony Brook, NY',
+        },
+
+    {
+        'name': 'St. Francis College',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn College',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Williamsburg Shamrocks',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Williamsburg Brooklyns',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Polytechnic Institute',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn YMCA',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Nameless FBC',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Nassaus',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Sons of St. George',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Cricket Athletic Club',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Nautilus Boat Club',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklynites Association',
+        'city': 'Brooklyn, NY',
+        },
+    {
+        'name': 'New York Irish Americans',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Riversides',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'Syracuse Medical College',
+        'city': 'Syracuse, NY',
+        },
+
+    {
+        'name': 'Adelphi Academy',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Longfellows',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Cornell University',
+        'city': 'Ithaca, NY',
+        },
+
+    {
+        'name': 'Deveaux College',
+        'city': 'Niagara Falls, NY',
+        },
+
+    {
+        'name': 'Buffalo Association',
+        'city': 'Buffalo, NY',
+        },
+
+    {
+        'name': 'New York Westside Rovers',
+        'city': 'New York, NY',
+        },
+
     # division 1
 
     

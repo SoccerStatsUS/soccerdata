@@ -22,6 +22,11 @@ l = [
         },
 
     {
+        'name': 'McClimon Complex',
+        'location': 'Madison, WI',
+        },
+
+    {
         'name': 'Valley Fields',
         'location': 'Milwaukee, WI',
         'opened': 1993,
@@ -31,6 +36,11 @@ l = [
 
     {
         'name': 'Croatian Park',
+        'location': 'Franklin, WI',
+        },
+
+    {
+        'name': 'Milwaukee Rampage Sports Complex',
         'location': 'Franklin, WI',
         },
 

@@ -24,6 +24,11 @@ l = [
         },
 
     {
+        'name': 'Montgomery Capitals',
+        'city': 'Montgomery, AL',
+        },
+
+    {
         'name': 'Alabama Saints',
         'city': 'Birmingham, AL',
         'founded': 1997,

@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Elm Street Park',
+        'location': 'New Haven, CT',
+        },
+
+    {
         'name': 'Morrone Stadium',
         'location': 'Storrs, CT',
         'opened': 1969,

@@ -5,6 +5,88 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Chicago FBC',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Rockford Rampage',
+        'city': 'Rockford, IL',
+        },
+
+    {
+        'name': 'Chicago Swifts',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Association',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Scottish Shields',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Rovers',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Spring Valley Celts',
+        'city': 'Spring Valley, IL',
+        },
+
+    {
+        'name': 'Huskie Soccer Stadium', # may just be huskie stadium...
+        'city': 'DeKalb, IL',
+        },
+
+    {
+        'name': 'Lake Forest Grand Pacifics',
+        'city': 'Lake Forest, IL',
+        },
+
+    {
+        'name': 'Lake Forest Auditoriums',
+        'city': 'Lake Forest, IL',
+        },
+
+    {
+        'name': 'Chicago Bankers Cricket Association',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Cricket Association',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'South Chicago Colehours',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Rangers',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'East St. Louis Blue Bells',
+        'city': 'East St. Louis, IL',
+        },
+
+    {
+        'name': 'East St. Louis Eclipse',
+        'city': 'East St. Louis, IL',
+        },
+
+
+
     # division 1
 
     {
@@ -46,6 +128,11 @@ l = [
         },
 
     {
+        'name': 'Chicago Wanderers',
+        'city': 'Chicago, IL',
+        },
+
+    {
         'name': 'Chicago Carpenters FC',
         'city': 'Chicago, IL',
         },
@@ -53,6 +140,31 @@ l = [
     {
         'name': 'Chicago Croatian SC',
         'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Thistles',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Chicago Northwesterns',
+        'city': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Aurora Herkimers',
+        'city': 'Aurora, IL',
+        },
+
+    {
+        'name': 'Braidwoods Association',
+        'city': 'Braidwood, IL',
+        },
+
+    {
+        'name': 'Joliet Albions',
+        'city': 'Joliet, IL',
         },
 
 

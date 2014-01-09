@@ -16,6 +16,13 @@ l = [
         'name': 'Alumni Field',
         'location': 'Notre Dame, IN',
         },
+
+    {
+        'name': 'Bill Armstrong Stadium',
+        'location': 'Bloomington, IN',
+        'opened': datetime.datetime(1981, 9, 13),
+        'capacity': 6500,
+        },
     
     {
         'name': 'Indianapolis Soccer Stadium',

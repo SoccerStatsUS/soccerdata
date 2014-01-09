@@ -12,9 +12,20 @@ l = [
         },
 
     {
-        'name': 'XV de Piracicaba',
-        'founded': datetime.datetime(1913, 11, 15),
-        'city': 'Piracicaba, Brazil',
+        'name': 'União São João',
+        'founded': 1981,
+        'city': 'Araras, Brazil',
+        },
+
+    {
+        'name': 'Tahuichi Academy',
+        'city': 'Santa Cruz, Bolivia',
+        },
+
+    {
+        'name': 'Manta FC',
+        'founded': datetime.datetime(1988, 7, 27),
+        'city': 'Manta, Ecuador',
         },
 
 
@@ -35,6 +46,12 @@ l = [
         'name': 'Sportivo Barracas',
         'founded': datetime.datetime(1913, 10, 30),
         'city': 'Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Gimnasia y Tiro',
+        'founded': datetime.datetime(1902, 11, 29),
+        'city': 'Salta, Argentina',
         },
 
 
@@ -63,6 +80,11 @@ l = [
         },
 
     {
+        'name': 'Universidad San Martín de Porres',
+        'city': 'Lima, Peru',
+        },
+
+    {
         'name': 'Paulista FC',
         'founded': datetime.datetime(1909, 5, 17),
         'city': 'Jundiai, Brazil',
@@ -84,6 +106,12 @@ l = [
         'name': 'EC Vitória',
         'founded': datetime.datetime(1899, 5, 13),
         'city': 'Salvador, Brazil',
+        },
+
+    {
+        'name': 'Desportiva',
+        'founded': datetime.datetime(1963, 6, 17),
+        'city': 'Cariacica, Brazil',
         },
 
     {
@@ -282,14 +310,6 @@ l = [
         'founded': 1916,
         'dissolved': 1985,
         'city': 'Santiago, Chile',
-        },
-
-
-
-    {
-        'name': 'Deportes Temuco',
-        'founded': 1960,
-        'city': 'Temuco, Chile',
         },
 
     {
@@ -529,6 +549,12 @@ l = [
         },
 
     {
+        'name': 'Los Andes',
+        'founded': datetime.datetime(1917, 1, 1),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+    {
         'name': 'Atlético de Rafaela',
         'founded': datetime.datetime(1907, 1, 13),
         'city': 'Rafaela, Argentina',
@@ -586,10 +612,23 @@ l = [
         'founded': datetime.datetime(1971, 4, 4),
         'city': 'Merida, Venezuela',
         },
+
     {
         'name': 'Atlético Paranaense',
         'founded': datetime.datetime(1924, 5, 26),
         'city': 'Curitiba, Brazil',
+        },
+
+    {
+        'name': 'Portuguesa',
+        'founded': datetime.datetime(1920, 8, 14),
+        'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Betim',
+        'founded': datetime.datetime(1998, 5, 21),
+        'city': 'Betim, Brazil',
         },
 
     {
@@ -686,6 +725,24 @@ l = [
         'founded': datetime.datetime(1901, 4, 7),
         'city': 'Recife, Brazil',
         },
+
+    {
+        'name': 'Sport Club São Paulo',
+        'founded': datetime.datetime(1908, 10, 4),
+        'city': 'Rio Grande, Brazil',
+        },
+
+    {
+        'name': 'Ponte Preta',
+        'founded': datetime.datetime(1900, 8, 11),
+        'city': 'Sao Paulo, Brazil',
+        },
+    {
+        'name': 'Inter de Limeira',
+        'founded': datetime.datetime(1913, 10, 5),
+        'city': 'Limeira, Brazil',
+        },
+
     {
         'name': 'Deportivo Municipal',
         'founded': datetime.datetime(1935, 7, 27),
@@ -810,6 +867,12 @@ l = [
         'name': 'Gimnasia y Esgrima Buenos Aires',
         'founded': datetime.datetime(1880, 11, 11),
         'city': 'Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Gimnasia y Esgrima (Entre Ríos)',
+        'founded': datetime.datetime(1917, 3, 8),
+        'city': 'Concepción del Uruguay, Argentina',
         },
 
 
@@ -1024,6 +1087,12 @@ l = [
         'name': 'Sao Paulo FC',
         'founded': datetime.datetime(1935, 12, 16),
         'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Remo',
+        'founded': datetime.datetime(1905, 2, 5),
+        'city': 'Belem, Brazil',
         },
 
     {
@@ -1357,7 +1426,6 @@ l = [
         'city': 'Porlamar, Venezuela',
         },
 
-
     {
         'name': 'Universitario',
         'founded': datetime.datetime(1924, 8, 7),
@@ -1587,6 +1655,17 @@ l = [
         },
 
     {
+        'name': 'Villa Nova',
+        'founded': 1908,
+        'city': 'Nova Lima, Brazil',
+        },
+    {
+        'name': 'Brasiliense',
+        'founded': datetime.datetime(2000, 8, 1),
+        'city': 'Taguatinga, Brazil',
+        },
+
+    {
         'name': 'Criciúma',
         'founded': datetime.datetime(1947, 5, 13),
         'city': 'Criciúma, Brazil',
@@ -1596,6 +1675,12 @@ l = [
         'name': 'Ceará',
         'founded': datetime.datetime(1914, 6, 2),
         'city': 'Ceará, Brazil',
+        },
+
+    {
+        'name': 'Santa Cruz',
+        'founded': datetime.datetime(1914, 2, 3),
+        'city': 'Recife, Brazil',
         },
 
     {
@@ -1614,6 +1699,24 @@ l = [
         'name': 'Vila Nova',
         'founded': 1943,
         'city': 'Goiania, Brazil',
+        },
+
+    {
+        'name': 'Botafogo PB',
+        'founded': datetime.datetime(1931, 9, 28),
+        'city': 'Joao Pessoa, Brazil',
+        },
+
+    {
+        'name': 'Tuna Luso',
+        'founded': 1903,
+        'city': 'Belem, Brazil',
+        },
+
+    {
+        'name': 'Novo Hamburgo',
+        'founded': datetime.datetime(1911, 5, 1),
+        'city': 'Novo Hamburgo, Brazil',
         },
 
     {
@@ -1640,6 +1743,18 @@ l = [
         'name': 'America Rio',
         'founded': datetime.datetime(1904, 9, 18),
         'city': 'Rio de Janerio, Brazil',
+        },
+
+    {
+        'name': 'Joinville',
+        'founded': datetime.datetime(1976, 1, 29),
+        'city': 'Joinville, Brazil',
+        },
+
+    {
+        'name': 'Corumbaense',
+        'founded': 1914,
+        'city': 'Corumba, Brazil',
         },
 
     {
@@ -1758,15 +1873,57 @@ l = [
         },
 
     {
+        'name': 'Fluminense BA',
+        'founded': 1941,
+        'city': 'Feira de Santana, Brazil',
+        },
+
+    {
+        'name': 'Grêmio Maringá',
+        'founded': datetime.datetime(1961, 7, 7),
+        'city': 'Maringa, Brazil',
+        },
+
+    {
+        'name': 'Itabaiana',
+        'founded': datetime.datetime(1938, 7, 10),
+        'city': 'Itabaiana, Brazil',
+        },
+
+    {
         'name': 'Bonsucesso',
         'founded': datetime.datetime(1913, 8, 12),
         'city': 'Rio de Janerio, Brazil',
         },
 
     {
+        'name': 'Rio Branco',
+        'founded': datetime.datetime(1919, 6, 8),
+        'city': 'Rio Branco, Brazil',
+        },
+
+    {
+        'name': 'Auto Esporte',
+        'founded': datetime.datetime(1951, 5, 1),
+        'city': 'Teresina, Brazil',
+        },
+
+    {
         'name': 'Botafogo',
         'founded': datetime.datetime(1894, 7, 1),
         'city': 'Rio de Janerio, Brazil',
+        },
+
+    {
+        'name': 'Botafogo (SP)',
+        'founded': datetime.datetime(1918, 11, 12),
+        'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Fortaleza',
+        'founded': datetime.datetime(1918, 10, 18),
+        'city': 'Fortaleza, Brazil',
         },
 
     {
@@ -1779,6 +1936,12 @@ l = [
         'name': 'Santos FC',
         'founded': datetime.datetime(1912, 4, 14),
         'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'América Futebol Clube',
+        'founded': datetime.datetime(1912, 4, 30),
+        'city': 'Belo Horizonte, Brazil',
         },
 
     {
@@ -1833,6 +1996,96 @@ l = [
         'name': 'Paysandu',
         'founded': 1914,
         'city': 'Belem, Brazil',
+        },
+
+    {
+        'name': 'Sport Belém',
+        'founded': datetime.datetime(1965, 12, 2),
+        'city': 'Belem, Brazil',
+        },
+
+    {
+        'name': 'Leônico',
+        'founded': datetime.datetime(1940, 4, 3),
+        'city': 'Salvador, Brazil',
+        },
+
+    {
+        'name': 'Catuense',
+        'founded': datetime.datetime(1974, 1, 1),
+        'city': 'Catu, Brazil',
+        },
+
+    {
+        'name': 'Operário MS',
+        'founded': datetime.datetime(1974, 1, 1),
+        'city': 'Campo Grande, Brazil',
+        },
+
+    {
+        'name': 'Operário MT',
+        'founded': datetime.datetime(1949, 5, 1),
+        'city': 'Varzea Grande, Brazil',
+        },
+
+    {
+        'name': 'Sobradinho',
+        'founded': datetime.datetime(1975, 1, 1),
+        'city': 'Sobradinho, Brazil',
+        },
+
+    {
+        'name': 'Londrina',
+        'founded': datetime.datetime(1956, 4, 5),
+        'city': 'Londrina, Brazil',
+        },
+
+    {
+        'name': 'Goytacaz',
+        'founded': datetime.datetime(1912, 8, 20),
+        'city': 'Campos dos Goytacazes, Brazil',
+        },
+
+    {
+        'name': 'Campo Grande',
+        'founded': 1940,
+        'city': 'Campo Grande, Brazil',
+        },
+
+    {
+        'name': 'Internacional SP',
+        'founded': datetime.datetime(1899, 8, 19),
+        'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Internacional SM',
+        'founded': datetime.datetime(1928, 5, 16),
+        'city': 'Santa Maria, Brazil',
+        },
+
+    {
+        'name': 'Rio Negro',
+        'founded': 1913,
+        'city': 'Manaus, Brazil',
+        },
+
+    {
+        'name': 'Nacional AM',
+        'founded': datetime.datetime(1913, 1, 13),
+        'city': 'Manaus, Brazil',
+        },
+
+    {
+        'name': 'Pinheiros',
+        'founded': datetime.datetime(1899, 9, 7),
+        'city': 'Sao Paulo, Brazil',
+        },
+
+    {
+        'name': 'Flamengo PI',
+        'founded': datetime.datetime(1937, 12, 8),
+        'city': 'Teresina, Brazil',
         },
 
 

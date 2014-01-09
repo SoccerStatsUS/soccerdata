@@ -226,6 +226,18 @@ l = [
         },
 
     {
+        'name': 'Okanagan Challenge',
+        'city': 'Okanagan, BC',
+        'founded': 1995,
+        },
+
+    {
+        'name': 'Victoria Umbro Select',
+        'city': 'Victoria, BC',
+        'founded': 1995,
+        },
+
+    {
         'name': 'Ottawa Fury',
         'city': 'Ottawa, ON',
         'founded': 2005,

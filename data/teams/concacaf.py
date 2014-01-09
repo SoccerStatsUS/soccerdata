@@ -10,6 +10,16 @@ l = [
         'city': 'Choluteca, Honduras',
         },
 
+    {
+        'name': 'Inter Playa del Carmen',
+        'city': 'Playa del Carmen, Mexico',
+        },
+
+    {
+        'name': 'Maunabo Leones',
+        'city': 'Maunabo, Puerto Rico',
+        },
+
     { 'name': 'Omai Gold Seekers' }, # Guyana 
 
 
@@ -969,6 +979,11 @@ l = [
         'name': 'Racing Club Haitien',
         'founded': 1923,
         'city': 'Port-au-Prince, Haiti',
+        },
+
+    {
+        'name': 'Don Bosco',
+        'city': 'Petionville, Haiti',
         },
 
     {

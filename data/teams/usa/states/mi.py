@@ -5,6 +5,26 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Ann Arbor Town Team',
+        'city': 'Ann Arbor, MI',
+        },
+
+    {
+        'name': 'Detroit High School',
+        'city': 'Detroit, MI',
+        },
+
+    {
+        'name': 'Detroit AC Association',
+        'city': 'Detroit, MI',
+        },
+
+    {
+        'name': 'University of Detroit Mercy',
+        'city': 'Detroit, MI',
+        },
+
     # division 1
 
     {
