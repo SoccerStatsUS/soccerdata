@@ -1,6 +1,7 @@
 Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1973.htm
 Season: 1973
+home-first
 
 *América FC (Belo Horizonte-MG)            Goiás EC (Goiânia-GO)
 *América FC (Natal-RN)                     Guarani FC (Campinas-SP)
@@ -107,9 +108,9 @@ Date: 8/25/1973
 ; Ceará         ; 2-2;  Náutico
   Jorge Costa, Jorge Costa; Vasconcelos, Odélio (own goal)
 
-;; Atlético-PR;    0-0  Vitória
+; Atlético-PR;    0-0;  Vitória
 
-;; América-RN;     0-0  Rio Negro
+; América-RN;     0-0;  Rio Negro
 
 ; Remo          ; 0-2;  Palmeiras
 ;  Ronaldo, Ronaldo
@@ -136,7 +137,7 @@ Date: 8/29/1973
 ; Tiradentes    ; 1-1;  Cruzeiro
   Joel; Dirceu Lopes
 
-;; América-MG;     4-1  Sport
+; América-MG;     4-1;  Sport
   Eli, Eli, Cândido, Rangel; Ivanildo
 
 ; Fortaleza     ; 1-1;  Bahia
@@ -166,7 +167,7 @@ Date: 8/29/1973
 ; Desportiva    ; 2-0;  Atlético-MG
   Zezinho, Zezinho;
 
-;; América-RN;     1-1  Grêmio
+; América-RN;     1-1;  Grêmio
   Careca; Humberto Ramos
 
 ; Santa Cruz    ; 1-1;  Ceará
@@ -186,7 +187,7 @@ Date: 8/31/1973
 ; Sport         ; 0-3;  São Paulo
 ;  Ratinho, Ratinho, Pedro Rocha
 
-;; América-MG;     1-0  Fortaleza
+; América-MG;     1-0;  Fortaleza
   Rangel;
 
 ; CEUB          ; 2-1;  Figueirense
@@ -225,7 +226,7 @@ Date: 9/2/1973
 
 ; Santos        ; 0-0;  Palmeiras
 
-;; Atlético-MG;    0-0  Grêmio
+; Atlético-MG;    0-0;  Grêmio
 
 ; Desportiva    ; 0-1;  Remo
 ;  Alcino
@@ -233,7 +234,7 @@ Date: 9/2/1973
 ; Ceará         ; 0-1;  Atlético-PR
 ;  Buião
 
-;; América-RN;     2-0  Sergipe
+; América-RN;     2-0;  Sergipe
   Careca, Élcio;
 
 ; Goiás         ; 2-0;  Comercial
@@ -274,7 +275,7 @@ Date: 9/5/1973
 ; Olaria        ; 0-1;  Flamengo
 ;  Batata (own goal)
 
-;; Atlético-PR;    1-1  Palmeiras
+; Atlético-PR;    1-1;  Palmeiras
   Caio; César
 
 ; Santos        ; 0-0;  Grêmio
@@ -288,7 +289,7 @@ Date: 9/5/1973
 ; Remo          ; 1-0;  Náutico
   Roberto;
 
-;; América-RN;     2-0  Ceará
+; América-RN;     2-0;  Ceará
   Gílson Porto, Gilson Porto;
 
 ; Goiás         ; 3-0;  Sergipe
@@ -296,7 +297,7 @@ Date: 9/5/1973
 
 Date: 9/6/1973
 
-;; América-GB;     1-0  América-MG
+; América-GB;     1-0;  América-MG
   Edu;
 
 Date: 9/8/1973
@@ -327,7 +328,7 @@ Date: 9/9/1973
   Lola, Bezerra, Alfredo; Cláudio
 
 ; Cruzeiro      ; 1-0;  América-MG
-  Lima
+  Lima;
 
 ; Bahia         ; 1-2;  Internacional
   Douglas; Escurinho, Borjão
@@ -343,7 +344,7 @@ Date: 9/9/1973
 
 ; Grêmio        ; 0-0;  Palmeiras
 
-;; Atlético-PR;    0-1  Atlético-MG
+; Atlético-PR;    0-1;  Atlético-MG
 ;  Arlem
 
 ; Náutico       ; 0-0;  Santa Cruz
@@ -386,7 +387,7 @@ Date: 9/12/1973
 
 ; CEUB          ; 0-0;  Bahia
 
-;; América-RN;     1-1  Vasco da Gama
+; América-RN;     1-1;  Vasco da Gama
   João Daniel; Jorginho
 
 ; Sergipe       ; 0-1;  Flamengo
@@ -449,16 +450,16 @@ Date: 9/16/1973
 ; Náutico       ; 2-1;  Vasco da Gama
   Vasconcelos, Jorge Mendonça; Renê
 
-;; Atlético-MG;    3-0  Flamengo
+; Atlético-MG;    3-0;  Flamengo
   Romeu, Reinaldo, Cláudio;
 
 ; Palmeiras     ; 1-1;  Portuguesa
   Leivinha; Wilsinho
 
-;; Atlético-PR;    0-2  Santos
+; Atlético-PR;    0-2;  Santos
 ;  Mazinho, Edu
 
-;; América-RN;     2-2  Santa Cruz
+; América-RN;     2-2;  Santa Cruz
   Élcio, Afonsinho; Luciano, Wílton
 
 ; Remo          ; 1-0;  Goiás
@@ -478,7 +479,7 @@ Date: 9/19/1973
 ; Vasco da Gama ; 0-1;  Portuguesa
 ;  Tatá
 
-;; Atlético-MG;    0-0  Santos
+; Atlético-MG;    0-0;  Santos
 
 Date: 9/21/1973
 
@@ -493,7 +494,7 @@ Date: 9/22/1973
 ; Corinthians   ; 1-0;  Internacional
   Tião;
 
-;; América-MG;     0-0  Tiradentes
+; América-MG;     0-0;  Tiradentes
 
 ; CEUB          ; 1-1;  Sport
   Dario; Edmílson
@@ -541,7 +542,7 @@ Date: 9/23/1973
 ; Remo          ; 1-2;  América-RN
   Cosme (own goal); Almir, Almir
 
-;; Atlético-PR;    1-0  Desportiva
+; Atlético-PR;    1-0;  Desportiva
   Walter (own goal);
 
 Date: 9/26/1973
@@ -580,7 +581,7 @@ Date: 9/26/1973
 ; Palmeiras     ; 2-0;  Náutico
   Careca, Ademir;
 
-;; América-RN;     1-6  Santos
+; América-RN;     1-6;  Santos
   Santa Cruz; Pelé, Pele, Pele, Mazinho, Eusébio, Hermes
 
 ; Desportiva    ; 1-1;  Portuguesa
@@ -608,7 +609,7 @@ Date: 9/29/1973
 ; Nacional      ; 1-0;  CEUB
   Serginho;
 
-;; Atlético-PR;    0-0  Santa Cruz
+; Atlético-PR;    0-0;  Santa Cruz
 
 
 Date: 9/30/1973
@@ -640,7 +641,7 @@ Date: 9/30/1973
 
 ; Rio Negro     ; 0-0;  Vasco da Gama
 
-;; América-RN;     0-3  Flamengo
+; América-RN;     0-3;  Flamengo
 ;  Doval, Doval, Dario
 
 ; Desportiva    ; 1-1;  Olaria
@@ -666,7 +667,7 @@ Date: 9/30/1973
 
 Date: 10/3/1973
 
-;; América-MG;     0-0  Fluminense
+; América-MG;     0-0;  Fluminense
 
 ; Guarani       ; 1-1;  Botafogo
   Lola; Nílson Dias
@@ -702,20 +703,20 @@ Date: 10/3/1973
 ; Sergipe       ; 0-3;  Santos
 ;  Eusébio, Eusebio, Pelé
 
-;; América-RN;     1-1  Portuguesa
+; América-RN;     1-1;  Portuguesa
   Élcio; Tatá
 
 ; Comercial     ; 1-0;  Grêmio
   Ismael;
 
-;; Atlético-PR;    1-0  Rio Negro
+; Atlético-PR;    1-0;  Rio Negro
   Benê;
 
 ; Desportiva    ; 0-0;  Goiás
 
 Date: 10/4/1973
 
-;; Atlético-MG;    1-1  Olaria
+; Atlético-MG;    1-1;  Olaria
   Campos; Jair
 
 ; Ceará         ; 0-0;  Remo
@@ -728,13 +729,13 @@ Date: 10/6/1973
 ; Fluminense    ; 1-0;  Sport
   Dionísio;
 
-;; América-MG;     1-1  Guarani
+; América-MG;     1-1;  Guarani
   Juca Show; Alfredo
 
 ; CEUB          ; 0-1;  Internacional
 ;  Valdomiro
 
-;; Atlético-PR;    0-0  Portuguesa
+; Atlético-PR;    0-0;  Portuguesa
 
 Date: 10/7/1973
 
@@ -771,7 +772,7 @@ Date: 10/7/1973
 ; Santa Cruz    ; 3-2;  Santos
   Ramón, Ramon, Luciano; Brecha, Pelé
 
-;; Atlético-MG;    3-0  Remo
+; Atlético-MG;    3-0;  Remo
   Romeu, Romeu, Romeu;
 
 ; Goiás         ; 1-0;  Náutico
@@ -791,7 +792,7 @@ Date: 10/10/1973
 ; Internacional ; 1-1;  América-MG
   Paulo César; Pedro Omar
 
-;; Atlético-PR;    1-1  Grêmio
+; Atlético-PR;    1-1;  Grêmio
   Sicupira; Ancheta
 
 Date: 10/13/1973
@@ -805,7 +806,7 @@ Date: 10/13/1973
 ; Paysandu      ; 0-2;  Corinthians
 ;  Roberto, Roberto
 
-;; Atlético-PR;    0-2  Olaria
+; Atlético-PR;    0-2;  Olaria
 ;  Gessê, Gesse
 
 ; Portuguesa    ; 3-0;  Flamengo
@@ -837,10 +838,10 @@ Date: 10/14/1973
 
 ; Sergipe       ; 0-0;  Palmeiras
 
-;; Atlético-MG;    0-0  Ceará
+; Atlético-MG;    0-0;  Ceará
 
 ; Grêmio        ; 3-0;  Remo
-  Carlinhos, Carlinhos, Mazinho
+  Carlinhos, Carlinhos, Mazinho;
 
 ; Rio Negro     ; 1-0;  Náutico
   Silva;
@@ -883,7 +884,7 @@ Date: 10/17/1973
 ; Fortaleza     ; 2-0;  Paysandu
   Mano, Beijoca;
 
-;; América-MG;     1-2  Bahia
+; América-MG;     1-2;  Bahia
   Cândido; Tírson, Tirson
 
 ; Remo          ; 0-1;  Atlético-PR
@@ -902,7 +903,7 @@ Date: 10/17/1973
 ; Vitória       ; 1-0;  Portuguesa
   Osni;
 
-;; América-RN;     2-1  Atlético-MG
+; América-RN;     2-1;  Atlético-MG
   Élcio, João Daniel; Reinaldo
 
 ; Sergipe       ; 0-0;  Ceará
@@ -915,7 +916,7 @@ Date: 10/17/1973
 
 Date: 10/20/1973
 
-;; América-MG;     1-1  Botafogo
+; América-MG;     1-1;  Botafogo
   Cândido; Marinho Chagas
 
 ; CEUB          ; 1-2;  Fortaleza
@@ -952,7 +953,7 @@ Date: 10/21/1973
 ; Figueirense   ; 1-0;  CRB
   Marinho;
 
-;; Atlético-PR;    1-2  Vasco da Gama
+; Atlético-PR;    1-2;  Vasco da Gama
   Lourival; Alfinete, Roberto Dinamite
 
 ; Remo          ; 2-1;  Flamengo
@@ -961,7 +962,7 @@ Date: 10/21/1973
 ; Santos        ; 1-2;  Olaria
   Cláudio Adão; Jair, Jair Pereira
 
-;; América-RN;     0-1  Palmeiras
+; América-RN;     0-1;  Palmeiras
 ;  Édson
 
 ; Santa Cruz    ; 1-1;  Atlético-MG
@@ -971,7 +972,7 @@ Date: 10/21/1973
 ;  Tarciso
 
 ; Rio Negro     ; 5-0;  Sergipe
-  Toninho, Toninho, Nilson, Nílson, Silva
+  Toninho, Toninho, Nilson, Nílson, Silva;
 
 ; Ceará         ; 1-0;  Comercial
   Vítor;
@@ -1019,7 +1020,7 @@ Date: 10/24/1973
 ; Sergipe       ; 2-0;  Atlético-PR
   Lelé, Brando (own goal);
 
-;; América-RN;     1-1  Vitória
+; América-RN;     1-1;  Vitória
   João Daniel; André
 
 Date: 10/25/1973
@@ -1074,18 +1075,18 @@ Date: 10/27/1973
 ; Rio Negro     ; 1-1;  Santos
   Nílson; Brecha
 
-;; Atlético-MG;    1-1  Portuguesa
+; Atlético-MG;    1-1;  Portuguesa
   Totonho; Tatá
 
 ; Sergipe       ; 0-0;  Santa Cruz
 
-;; América-RN;     2-0  Náutico
+; América-RN;     2-0;  Náutico
   João Daniel, Careca;
 
 ; Goiás         ; 4-1;  Ceará
   Tuíra, Tuira, Lincoln, Lucinho; Samuel
 
-;; Atlético-PR;    4-1  Comercial
+; Atlético-PR;    4-1;  Comercial
   Caio, Caio, Caio, Sicupira; Gil
 
 Date: 10/31/1973
@@ -1095,7 +1096,7 @@ Date: 10/31/1973
 ; CRB           ; 0-2;  Botafogo
 ;  Tuca, Carlos Roberto
 
-;; América-GB;     0-0  São Paulo
+; América-GB;     0-0;  São Paulo
 
 ; CEUB          ; 2-1;  Corinthians
   Juraci, Juraci; Roberto
@@ -1108,7 +1109,7 @@ Date: 10/31/1973
 ; Figueirense   ; 0-1;  Sport
 ;  Marcos
 
-;; América-MG;     2-0  Paysandu
+; América-MG;     2-0;  Paysandu
   Pedro Omar, Spencer;
 
 ; Moto Clube    ; 0-0;  Bahia
@@ -1132,7 +1133,7 @@ Date: 10/31/1973
 
 ; Desportiva    ; 0-0;  Santa Cruz
 
-;; Atlético-PR;    2-1  América-RN
+; Atlético-PR;    2-1;  América-RN
   Torino, Torino; Nunes
 
 Date: 11/1/1973
@@ -1174,7 +1175,7 @@ Date: 11/4/1973
 ; Vasco da Gama ; 2-0;  Atlético-MG
   Roberto Dinamite, Alfinete;
 
-;; Atlético-PR;    1-0  Flamengo
+; Atlético-PR;    1-0;  Flamengo
   Ladinho;
 
 ; Goiás         ; 0-1;  Palmeiras
@@ -1211,7 +1212,7 @@ Date: 11/7/1973
 ; Vitória       ; 3-1;  Náutico
   André, Gibira, Piolho; Jorge Mendonça
 
-;; América-RN;     0-2  Olaria
+; América-RN;     0-2;  Olaria
 ;  Antoninho, Jair
 
 Date: 11/21/1973
@@ -1272,7 +1273,7 @@ Date: 11/10/1973
 ; Botafogo      ; 2-2;  Olaria
   Tuca, Marinho Chagas; Jair, Jair Pereira
 
-;; América-MG;     0-0  Vasco da Gama
+; América-MG;     0-0;  Vasco da Gama
 
 ; São Paulo     ; 2-2;  Coritiba
   Mirandinha, Pedro Rocha; Zé Roberto, Sérgio Roberto
@@ -1296,7 +1297,7 @@ Date: 11/11/1973
 ; Guarani       ; 1-0;  Corinthians
   Lola;
 
-;; Atlético-PR;    0-1  Santos
+; Atlético-PR;    0-1;  Santos
 ;  Pelé
 
 ; Grêmio        ; 1-1;  Internacional
@@ -1337,7 +1338,7 @@ Date: 11/14/1973
 
 ; Figueirense   ; 0-0;  Fluminense
 
-;; América-MG;     1-0  Botafogo
+; América-MG;     1-0;  Botafogo
   Édson;
 
 ; Grêmio        ; 0-0;  Corinthians
@@ -1360,7 +1361,7 @@ Date: 11/14/1973
 ; Sergipe       ; 0-1;  Rio Negro
 ;  Jorge Cuíca
 
-;; América-RN;     0-0  Fortaleza
+; América-RN;     0-0;  Fortaleza
 
 ; Tiradentes    ; 1-1;  Ceará
   Paraná; Vítor
@@ -1374,7 +1375,7 @@ Date: 11/14/1973
   Mário, Moacir, Odilon;
 
 ; Comercial     ; 1-1;  Remo
-  Jurandir-Remo: Caíto
+  Jurandir; Caíto
 
 ; Paysandu      ; 0-2;  Desportiva
 ;  Wílson Pereira, Zezinho
@@ -1382,7 +1383,7 @@ Date: 11/14/1973
  
 Date: 11/15/1973
 
-;; Atlético-MG;    2-3  América-GB
+; Atlético-MG;    2-3;  América-GB
   Cláudio, Claudio; Luisinho, Alex, Tadeu
 
 ; Palmeiras     ; 1-0;  Internacional
@@ -1420,7 +1421,7 @@ Date: 11/18/1973
 ; Botafogo      ; 1-1;  Fluminense
   Nílson Dias; Dionísio
 
-;; Atlético-MG;    2-1  Vasco da Gama
+; Atlético-MG;    2-1;  Vasco da Gama
   Campos, Campos; Dé
 
 ; Figueirense   ; 1-0;  América-GB
@@ -1454,7 +1455,7 @@ Date: 11/24/1973
 ; Botafogo      ; 2-1;  Atlético-MG
   Puruca, Ferretti; Campos
 
-;; América-MG;     1-0  Fluminense
+; América-MG;     1-0;  Fluminense
   Spencer;
 
 ; Corinthians   ; 1-0;  Santos
@@ -1477,7 +1478,7 @@ Date: 11/25/1973
 ; Guarani       ; 3-1;  Portuguesa
   Dílson, Lola, Volnei; Tatá
 
-;; Atlético-PR;    2-0  Grêmio
+; Atlético-PR;    2-0;  Grêmio
   Caio, Sicupira;
 
 ; Internacional ; 1-0;  Coritiba
@@ -1515,7 +1516,7 @@ Date: 11/28/1973
 ; Vasco da Gama ; 3-1;  Cruzeiro
   Luís Carlos, Luis Carlos, Alfinete; Eduardo
 
-;; América-MG;     1-1  América-GB
+; América-MG;     1-1;  América-GB
   Juca Show; Luisinho
 
 ; Guarani       ; 2-0;  Palmeiras
@@ -1532,7 +1533,7 @@ Date: 11/28/1973
 ; Bahia         ; 1-0;  Rio Negro
   Douglas;
 
-;; América-RN;     2-1  Tiradentes
+; América-RN;     2-1;  Tiradentes
   Scala, Gílson (own goal); Derivaldo
 
 ; Sergipe       ; 1-4;  Ceará          
@@ -1558,10 +1559,10 @@ Date: 11/29/1973
 ; Fluminense    ; 1-2;  Olaria
   Rubens; Antoninho, Jair Pereira
 
-;; Atlético-MG;    2-1  Flamengo
+; Atlético-MG;    2-1;  Flamengo
   Totonho, Totonho; Doval
 
-;; Atlético-PR;    2-2  Corinthians
+; Atlético-PR;    2-2;  Corinthians
   Sicupira, Lourival; Paulo Borges, Rivelino
 
 ; Paysandu      ; 0-0;  Náutico
@@ -1587,10 +1588,10 @@ Date: 12/2/1973
 ; Fluminense    ; 2-1;  Flamengo
   Manfrini, Manfrini; Carlos Alberto (own goal)
 
-;; Atlético-MG;    1-1  Olaria
+; Atlético-MG;    1-1;  Olaria
   Marcelo; Antoninho
 
-;; América-MG;     2-2  Cruzeiro
+; América-MG;     2-2;  Cruzeiro
   Dirceu, Dirceu; Dirceu Lopes, Luís
 
 * huh?
@@ -1603,7 +1604,7 @@ Date: 12/2/1973
 
 ; Corinthians   ; 0-0;  São Paulo
 
-;; Atlético-PR;    0-0  Internacional
+; Atlético-PR;    0-0;  Internacional
 
 ; Nacional      ; 3-1;  Ceará
   Reis, Reis, China; Samuel
@@ -1611,14 +1612,14 @@ Date: 12/2/1973
 ; Fortaleza     ; 2-1;  Bahia
   Hamílton Melo, Zé Carlos; Fito
 
-;; América-RN;     0-1  Vitória
+; América-RN;     0-1;  Vitória
 ;  André
 
 ; Tiradentes    ; 2-0;  Sergipe
   Tinteiro, Mimi;
 
 ; Remo          ; 5-0;  Moto Clube
-  Alcino, Alcino, Alcino, Rodrigues, Caíto
+  Alcino, Alcino, Alcino, Rodrigues, Caíto;
 
 ; Desportiva    ; 0-3;  Comercial
 ;  Gil, Afonso, Copeu
@@ -1638,7 +1639,7 @@ Date: 12/5/1973
 
 Date: 12/7/1973
 
-;; América-GB;     0-2  Olaria
+; América-GB;     0-2;  Olaria
 ;  Tanesi, Antoninho
 
 Date: 12/8/1973
@@ -1652,7 +1653,7 @@ Date: 12/8/1973
 ; Figueirense   ; 0-3;  Cruzeiro
 ;  Dirceu Lopes, Nelinho, Palhinha
 
-;; Atlético-MG;    1-2  América-MG
+; Atlético-MG;    1-2;  América-MG
   Fautso; Cândido, Pedro Omar
 
 ; Corinthians   ; 1-2;  Portuguesa
@@ -1664,7 +1665,7 @@ Date: 12/8/1973
 ; Palmeiras     ; 1-1;  Santos
   Leivinha; Marinho
 
-;; Atlético-PR;    0-0  São Paulo
+; Atlético-PR;    0-0;  São Paulo
 
 ; Grêmio        ; 1-0;  Coritiba
   Oberti;
@@ -1680,7 +1681,7 @@ Date: 12/8/1973
 ; Fortaleza     ; 4-1;  Nacional
   Marciano, Marciano, Marciano, Hamílton Melo; China
 
-;; América-RN;     1-0  Rio Negro
+; América-RN;     1-0;  Rio Negro
   Scala;
 
 ; Paysandu      ; 2-0;  Santa Cruz
@@ -1705,14 +1706,14 @@ Date: 12/12/1973
 ; Flamengo      ; 2-1;  Olaria
   Zico, Doval; Fernando
 
-;; América-MG;     4-0  Figueirense
+; América-MG;     4-0;  Figueirense
   Cândido, Candido, Candido, Candido;
 
 ; Coritiba      ; 2-1;  Corinthians
   Dreyer, Tião Abatiá; Adãozinho
 
 ; Santos        ; 4-0;  Grêmio
-  Pelé, Pele, Nenê, Brecha
+  Pelé, Pele, Nenê, Brecha;
 
 ; Guarani       ; 0-0;  São Paulo
 
@@ -1752,7 +1753,7 @@ Date: 12/13/1973
 ; Cruzeiro      ; 2-1;  Botafogo
   Lima, Eduardo; Zequinha
 
-;; Atlético-PR;    0-2  Palmeiras
+; Atlético-PR;    0-2;  Palmeiras
 ;  Leivinha, César
 
 ; Náutico       ; 1-0;  Comercial
@@ -1763,7 +1764,7 @@ Date: 12/15/1973
 ; Flamengo      ; 3-2;  América-GB
   Zico, Julinho, Zé Mário; Flecha, Alex
 
-;; América-MG;     2-1  Olaria
+; América-MG;     2-1;  Olaria
   Cândido, Alemão; Antoninho
 
 ; Corinthians   ; 2-2;  Internacional
@@ -1803,7 +1804,7 @@ Date: 12/16/1973
 ; CRB           ; 3-1;  Nacional
   Bié, Bie, Bie; Benê
 
-;; América-RN;     3-0  Sergipe
+; América-RN;     3-0;  Sergipe
   Osvaldo, Washington, Davi;
 
 ; Fortaleza     ; 3-0;  Tiradentes
@@ -1916,7 +1917,7 @@ Date: 12/17/1973
 *39-Moto Clube       28  1 12 15  11-43  14
 *40-Sergipe          28  4  5 19  11-48  13
 
-Second Phase
+*Second Phase
 
 Group: 1
 
@@ -1930,7 +1931,7 @@ Date: 1/13/1974
 
 ; Palmeiras     ; 0-0;  Coritiba
 
-;; Atlético-MG;    0-0  Internacional
+; Atlético-MG;    0-0;  Internacional
 
 ; Vasco da Gama ; 1-2;  América-MG
   Alcir; Juca Show, Cândido
@@ -1943,7 +1944,7 @@ Date: 1/16/1974
 
 ; Bahia         ; 0-0;  Palmeiras
 
-;; América-MG;     4-1  Ceará
+; América-MG;     4-1;  Ceará
   Cândido, Pedro Omar, Juca Show, Dirceu; Samuel
 
 ; Corinthians   ; 1-0;  Coritiba
@@ -1968,7 +1969,7 @@ Date: 1/20/1974
 
 ; Coritiba      ; 0-0;  Vasco da Gama
 
-;; Atlético-MG;    2-0  Corinthians
+; Atlético-MG;    2-0;  Corinthians
   Totonho, Reinaldo;
 
 ; Tiradentes    ; 0-2;  América-MG
@@ -1994,7 +1995,7 @@ Date: 1/23/1974
 Round: 5
 Date: 1/26/1974
 
-;; América-MG;     1-2  Atlético-MG
+; América-MG;     1-2;  Atlético-MG
 Juca Show; Romeu, Reinaldo
 
 ; Palmeiras     ; 0-0;  Corinthians
@@ -2016,7 +2017,7 @@ Date: 1/30/1974
 
 ; Tiradentes    ; 0-0;  Bahia
 
-;; América-MG;     1-0  Corinthians
+; América-MG;     1-0;  Corinthians
   Cândido;
 
 ; Coritiba      ; 1-0;  Internacional
@@ -2028,7 +2029,7 @@ Date: 1/30/1974
 Round: 7
 Date: 2/2/1974
 
-;; Atlético-MG;    2-1  Coritiba
+; Atlético-MG;    2-1;  Coritiba
   Reinaldo, Cláudio; Paquito
 
 Date: 2/3/1974
@@ -2048,7 +2049,7 @@ Date: 2/3/1974
 Round: 8
 Date: 2/6/1974
 
-;; América-MG;     0-1  Coritiba
+; América-MG;     0-1;  Coritiba
 ;  Nei
 
 ; Internacional ; 2-1;  Bahia
@@ -2073,7 +2074,7 @@ Date: 2/10/1974
 
 ; Coritiba      ; 0-0;  Tiradentes
 
-;; Atlético-MG;    2-0  Ceará
+; Atlético-MG;    2-0;  Ceará
   Cláudio, Totonho;
 
 ; Bahia         ; 2-2;  América-MG

@@ -1,12 +1,13 @@
 Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1985.htm
 Season: 1985
+home-first
 
-First Phase
-
-Groups A and B
-
-First Stage
+*First Phase
+*
+*Groups A and B
+*
+*First Stage
 
 Round: 1
 
@@ -15,13 +16,12 @@ Date: 1/26/1985
 ; Fluminense     ; 2-1;  Santos
   Assis, Vica; Lima
 
-
 Date: 1/27/1985
 
 ; Corinthians    ; 2-2;  Vasco da Gama
-  Serginho, Casagrande; Cláudio Adão (2)
+  Serginho, Casagrande; Cláudio Adão, Claudio Adao
 
-;; Atlético-MG;     1-1  Flamengo-RJ
+; Atlético-MG;     1-1;  Flamengo-RJ
   Nelinho; Marquinho Carioca
 
 ; Santa Cruz     ; 1-1;  Portuguesa
@@ -30,77 +30,72 @@ Date: 1/27/1985
 ; Guarani        ; 0-0;  Cruzeiro
 
 ; Bahia          ; 1-0;  Palmeiras
-  Toinzinho
+  Toinzinho;
 
 ; Coritiba       ; 3-1;  São Paulo
-  Índio (2), Tóbi; Sídnei
+  Índio, Indio, Tóbi; Sídnei
 
-;; Botafogo-RJ;     3-1  Goiás
+; Botafogo-RJ;     3-1;  Goiás
   Leiz, Elói, Helinho; Tiãozinho
 
 ; Grêmio         ; 1-0;  Náutico
-  Renato Gaúcho
+  Renato Gaúcho;
 
-;; América-RJ;      0-4  Internacional
-  Silvinho (2), Mauro Galvão, Luís Freire
-
+; América-RJ;      0-4;  Internacional
+;  Silvinho, Silvinho, Mauro Galvão, Luís Freire
 
 Round: 2
-
 Date: 1/30/1985
 
 ; Corinthians    ; 0-1;  Internacional
-  Jussiê
+;  Jussiê
 
 ; Fluminense     ; 2-0;  Portuguesa
-  Washington, Romerito
+  Washington, Romerito;
 
 ; Grêmio         ; 3-1;  Vasco da Gama
-  Roberto César (2), Luís Fernando Paulista; Cláudio Adão
+  Roberto César, Roberto Cesar, Luís Fernando Paulista; Cláudio Adão
 
-;; América-RJ;      1-1  Náutico
+; América-RJ;      1-1;  Náutico
   Luisinho; Baiano
 
-;; Atlético-MG;     4-0  Santos
-  Reinaldo (2), Éverton, Paulo Isidoro
-
+; Atlético-MG;     4-0;  Santos
+  Reinaldo, Reinaldo, Éverton, Paulo Isidoro;
 
 Date: 1/31/1985
 
 ; Guarani        ; 3-2;  São Paulo
-  Edmar (2), João Paulo; Pianelli, Pita
+  Edmar, Edmar, João Paulo; Pianelli, Pita
 
 ; Santa Cruz     ; 1-4;  Flamengo-RJ
   Roberto; Élder, Bebeto, Gilmar, Chiquinho
 
 ; Coritiba       ; 2-1;  Cruzeiro
-  Índio (2); Tostão
+  Índio, Indio; Tostão
 
-;; Botafogo-RJ;     1-1  Bahia
+; Botafogo-RJ;     1-1;  Bahia
   Antônio Carlos; Celso
 
 ; Palmeiras      ; 3-2;  Goiás
   Hélio, Jorginho, Mendonça; Paulo Sérgio II, Joãozinho Paulista
 
-
 Round: 3
-
 Date: 2/3/1985
 
 ; Santos         ; 1-0;  Guarani
-  Zé Sérgio
+  Zé Sérgio;
 
 ; Palmeiras      ; 2-2;  São Paulo
   Barbosa, Márcio; Éder Taino, Pita
 
 ; Goiás          ; 3-0;  Santa Cruz
-  Joãozinho Paulista (3)
+  Joãozinho Paulista, Joãozinho Paulista, Joãozinho Paulista;
 
 ; Portuguesa     ; 1-1;  Grêmio
   Toninho; Valdo
 
-;; Flamengo-RJ;     2-0  Corinthians
-  Mozer, Gilmar
+; Flamengo-RJ;     2-0;  Corinthians
+  Mozer, Gilmar;
 
 ; Náutico        ; 1-1;  Atlético-MG
   Baiano; Édson Gaúcho (own goal)
@@ -109,31 +104,27 @@ Date: 2/3/1985
   Marinho, Róbson; Índio
 
 ; Cruzeiro       ; 2-0;  América-RJ
-  Tostão (2)
+  Tostão, Tostao;
 
 ; Internacional  ; 2-0;  Botafogo-RJ
-  Rubén Paz (2)
-
+  Rubén Paz, Ruben Paz;
 
 Date: 2/16/1985
 
 ; Fluminense     ; 3-5;  Vasco da Gama
-  Leomir, Roberto Bertuço, Romerito; Roberto Dinamite (3), Rômulo, Cláudio 
-   Adão
-
+  Leomir, Roberto Bertuço, Romerito; Roberto Dinamite, Roberto Dinamite, Roberto Dinamite, Rômulo, Cláudio  Adão
 
 Round: 4
-
 Date: 2/6/1985
 
 ; Corinthians    ; 1-1;  Cruzeiro
   Serginho; Joãozinho
 
 ; Náutico        ; 1-3;  Guarani
-  Porto; Edmar (3)
+  Porto; Edmar, Edmar, Edmar
 
 ; Bahia          ; 3-0;  Santa Cruz
-  Marinho, Ronaldo Marques, Róbson
+  Marinho, Ronaldo Marques, Róbson;
 
 ; Internacional  ; 1-1;  Fluminense
   Kita; Delei
@@ -142,86 +133,81 @@ Date: 2/6/1985
   Careca, Newton, Geraldo; Renato
 
 ; Vasco da Gama  ; 3-0;  Coritiba
-  Roberto Dinamite (2), Vítor
-
+  Roberto Dinamite, Roberto Dinamite, Vítor;
 
 Date: 2/7/1985
 
-;; Flamengo-RJ;     1-0  Palmeiras
-  Adílio
+; Flamengo-RJ;     1-0;  Palmeiras
+  Adílio;
 
 ; Santos         ; 1-1;  Grêmio
   Humberto; Renato Gaúcho
 
 ; Portuguesa     ; 2-0;  Atlético-MG
-  Mirandinha (2)
+  Mirandinha, Mirandinha;
 
-;; América-RJ;      0-0  Goiás
+; América-RJ;      0-0;  Goiás
 
 Round: 5
-
 Date: 2/9/1985
 
 ; Fluminense     ; 1-1;  Cruzeiro
   Romerito; Carlos Alberto Seixas
 
 ; Guarani        ; 4-1;  Bahia
-  Edmar (2), Niquinha, Neto; Nei (own goal)
-
+  Edmar, Edmar, Niquinha, Neto; Nei (own goal)
 
 Date: 2/10/1985
 
 ; Corinthians    ; 1-0;  Santos
-  Dunga
+  Dunga;
 
 ; Palmeiras      ; 2-1;  Portuguesa
   Barbosa, Reinaldo Xavier; Ditinho (own goal)
 
-;; América-RJ;      1-2  Vasco da Gama
-  Denílson; Roberto Dinamite (2)
+; América-RJ;      1-2;  Vasco da Gama
+  Denílson; Roberto Dinamite, Roberto Dinamite
 
 ; Coritiba       ; 0-0;  Goiás
 
-;; Botafogo-RJ;     2-1  Flamengo-RJ
+; Botafogo-RJ;     2-1;  Flamengo-RJ
   Leiz, Elói; Bebeto
 
-;; Atlético-MG;     4-2  São Paulo
+; Atlético-MG;     4-2;  São Paulo
   Éder, Sérgio Araújo, Oliveira, Nelinho; Careca, Márcio Araújo
 
 ; Santa Cruz     ; 0-3;  Náutico
-  Nunes (2), Baiano
+;  Nunes, Nunes, Baiano
 
 ; Grêmio         ; 2-0;  Internacional
-  Renato Gaúcho, Ademir
-
+  Renato Gaúcho, Ademir;
 
 Round: 6
-
 Date: 2/13/1985
 
 ; Vasco da Gama  ; 1-1;  Santa Cruz
   Roberto Dinamite; Henágio
 
 ; Guarani        ; 4-2;  Portuguesa
-  Edmar (3), Rubens Feijão; Célio, Toninho
+  Edmar, Edmar, Edmar, Rubens Feijão; Célio, Toninho
 
 ; Palmeiras      ; 2-0;  Cruzeiro
-  Barbosa, Mendonça
+  Barbosa, Mendonça;
 
 ; Náutico        ; 1-0;  Fluminense
-  Nunes
+  Nunes;
 
 ; Coritiba       ; 0-1;  Flamengo-RJ
-  Gilmar
+;  Gilmar
 
 ; Bahia          ; 0-2;  América-RJ
-  Lúcio (2)
+;  Lúcio, Lucio
 
-;; Atlético-MG;     1-0  Internacional
-  Éverton
+; Atlético-MG;     1-0;  Internacional
+  Éverton;
 
 ; São Paulo      ; 0-2;  Corinthians
-  Serginho, João Paulo
+;  Serginho, João Paulo
 
 ; Santos         ; 2-2;  Botafogo-RJ
   Lino, Gilberto Costa; Cristiano, Berg
@@ -229,30 +215,28 @@ Date: 2/13/1985
 ; Goiás          ; 2-2;  Grêmio
   Joãozinho Paulista, Cândido; Marcos Cidade (own goal), Renato Gaúcho
 
-
 Round: 7
-
 Date: 2/23/1985
 
 ; Palmeiras      ; 1-1;  Vasco da Gama
   Reinaldo Xavier; Cláudio Adão
 
 ; Corinthians    ; 2-0;  Portuguesa
-  Casagrande, Serginho
+  Casagrande, Serginho;
 
 ; São Paulo      ; 2-1;  Fluminense
   Pita, Sídnei; Assis
 
-;; América-RJ;      0-1  Flamengo-RJ
-  Bebeto
+; América-RJ;      0-1;  Flamengo-RJ
+;  Bebeto
 
 ; Santa Cruz     ; 1-0;  Santos
-  Henágio
+  Henágio;
 
 ; Bahia          ; 0-0;  Atlético-MG
 
-;; Botafogo-RJ;     0-2  Náutico
-  Nunes, Baiano
+; Botafogo-RJ;     0-2;  Náutico
+;  Nunes, Baiano
 
 ; Cruzeiro       ; 1-1;  Grêmio
   Tostão; Roberto César
@@ -261,27 +245,25 @@ Date: 2/23/1985
   Rota; João Paulo
 
 ; Internacional  ; 4-0;  Coritiba
-  Luís Freire (2), Jussiê, Silvinho
-
+  Luís Freire, Luis Freire, Jussiê, Silvinho;
 
 Round: 8
-
 Date: 2/27/1985
 
 ; Santos         ; 3-1;  América-RJ
-  Lima (2), Humberto; Kel
+  Lima, Lima, Humberto; Kel
 
-;; Flamengo-RJ;     0-0  Fluminense
+; Flamengo-RJ;     0-0;  Fluminense
 
 ; Guarani        ; 0-1;  Vasco da Gama
-  Rômulo
+;  Rômulo
 
 ; Náutico        ; 0-0;  Corinthians
 
 ; Portuguesa     ; 1-0;  Coritiba
-  Luís Pereira
+  Luís Pereira;
 
-;; Atlético-MG;     2-1  Goiás
+; Atlético-MG;     2-1;  Goiás
   Éverton, Reinaldo; Cacau
 
 ; Grêmio         ; 0-0;  Bahia
@@ -292,19 +274,17 @@ Date: 2/27/1985
 ; Internacional  ; 2-1;  Palmeiras
   Silvinho, Rubén Paz; Reinaldo Xavier
 
-;; Botafogo-RJ;     1-3  Cruzeiro
-  Helinho; Carlos Alberto Seixas (3)
-
+; Botafogo-RJ;     1-3;  Cruzeiro
+  Helinho; Carlos Alberto Seixas, Carlos Alberto Seixas, Carlos Alberto Seixas
 
 Round: 9
-
 Date: 3/2/1985
 
 ; Fluminense     ; 2-0;  Goiás
-  Romerito, Getúlio
+  Romerito, Getúlio;
 
 ; Corinthians    ; 2-0;  Bahia
-  Serginho, Paulo César
+  Serginho, Paulo César;
 
 
 Date: 3/3/1985
@@ -313,42 +293,40 @@ Date: 3/3/1985
   Mendonça; Humberto, Lino
 
 ; Guarani        ; 1-0;  Flamengo-RJ
-  Edmar
+  Edmar;
 
 ; Santa Cruz     ; 3-1;  Internacional
   Marlon, Henágio, Carlos Roberto; Marcelo
 
 ; Coritiba       ; 2-0;  Náutico
-  Índio, Édson
+  Índio, Édson;
 
-;; Atlético-MG;     2-0  Cruzeiro
-  Nelinho, Oliveira
+; Atlético-MG;     2-0;  Cruzeiro
+  Nelinho, Oliveira;
 
 ; Vasco da Gama  ; 1-3;  Botafogo-RJ
-  Mauricinho; Elói (2), Alemão
+  Mauricinho; Elói, Eloi, Alemão
 
-;; América-RJ;      3-1  Portuguesa
+; América-RJ;      3-1;  Portuguesa
   Cléo, Luisinho, Moreno; Jorginho
 
 ; Grêmio         ; 2-2;  São Paulo
   Valdo, Luís Fernando Paulista; Vizolli, Oscar
 
-
 Round: 10
-
 Date: 3/6/1985
 
 ; Goiás          ; 0-4;  Corinthians
-  Casagrande (2), Paulo César, Zenon
+;  Casagrande, Casagrande, Paulo César, Zenon
 
 ; Santos         ; 1-0;  Coritiba
-  Formiga
+  Formiga;
 
 ; São Paulo      ; 1-0;  América-RJ
-  Careca
+  Careca;
 
 ; Cruzeiro       ; 2-0;  Santa Cruz
-  Dedé de Dora, Eduardo
+  Dedé de Dora, Eduardo;
 
 ; Bahia          ; 0-0;  Fluminense
 
@@ -356,7 +334,7 @@ Date: 3/6/1985
   Cláudio Adão; Éder, Paulo Isidoro
 
 ; Portuguesa     ; 0-1;  Botafogo-RJ
-  Cláudio
+;  Cláudio
 
 ; Internacional  ; 3-1;  Guarani
   Silvinho, Mauro Galvão, Ademir; Edmar
@@ -364,11 +342,10 @@ Date: 3/6/1985
 ; Náutico        ; 2-1;  Palmeiras
   Neto, Édson Gaúcho; Mendonça
 
-
 Date: 3/7/1985
 
-;; Flamengo-RJ;     1-0  Grêmio
-  Marquinho Carioca
+; Flamengo-RJ;     1-0;  Grêmio
+  Marquinho Carioca;
 
 
 *Table - First stage
@@ -396,28 +373,28 @@ Date: 3/7/1985
 * 9-Portuguesa      10  2  2  6   9-16   6
 *10-Goiás           10  1  4  5  10-17   6
 
-Second Stage
+*Second Stage
 
 Round: 1
 Date: 3/9/1985
 
 ; Vasco da Gama  ; 1-0;  Corinthians
-  Mauricinho
+  Mauricinho;
 
 ; São Paulo      ; 0-1;  Coritiba
-  Heraldo
+;  Heraldo
 
 ; Portuguesa     ; 3-1;  Santa Cruz
   Toninho, Jérson, Edu Marangon; Roberto
 
 ; Goiás          ; 4-1;  Botafogo-RJ
-  Cacau (2), Claudinho (2); Elói
+  Cacau, Cacau, Claudinho, Claudinho; Elói
 
 
 Date: 3/10/1985
 
 ; Internacional  ; 1-0;  América-RJ
-  Marcelo
+  Marcelo;
 
 ; Santos         ; 1-1;  Fluminense
   Formiga; Washington
@@ -431,50 +408,45 @@ Date: 3/10/1985
 ; Náutico        ; 3-2;  Grêmio
   Nunes, Baiano, Heitor; Luís Fernando Paulista, Osvaldo
 
-;; Flamengo-RJ;     0-1  Atlético-MG
-  Oliveira
-
+; Flamengo-RJ;     0-1;  Atlético-MG
+;  Oliveira
 
 Round: 2
-
 Date: 3/13/1985
 
-;; Flamengo-RJ;     7-0  Santa Cruz
-  Marquinho Carioca (3), Chiquinho (2), Bebeto, Adílio
+; Flamengo-RJ;     7-0;  Santa Cruz
+  Marquinho Carioca, Marquinho Carioca, Marquinho Carioca, Chiquinho, Chiquinho, Bebeto, Adílio;
 
 ; Internacional  ; 1-1;  Corinthians
   André Luís; Casagrande
 
 ; São Paulo      ; 3-3;  Guarani
-  Careca (2), Müller; Neto, Júlio César, Edmar
+  Careca, Careca, Müller; Neto, Júlio César, Edmar
 
 ; Náutico        ; 1-1;  América-RJ
   Rogério; Cléo
 
 ; Cruzeiro       ; 2-3;  Coritiba
-  Dedé de Dora, Carlinhos; Índio (2), Paulinho
+  Dedé de Dora, Carlinhos; Índio, Indio, Paulinho
 
 ; Goiás          ; 1-0;  Palmeiras
-  Péricles
+  Péricles;
 
 ; Bahia          ; 2-0;  Botafogo-RJ
-  Ademir Patrício, Róbson
+  Ademir Patrício, Róbson;
 
 ; Portuguesa     ; 2-2;  Fluminense
   Jorginho, Célio; Tato, Assis
 
-
 Date: 3/14/1985
 
 ; Santos         ; 2-0;  Atlético-MG
-  Lima (2)
+  Lima, Lima;
 
 ; Vasco da Gama  ; 1-0;  Grêmio
-  Silvinho
-
+  Silvinho;
 
 Round: 3
-
 Date: 4/3/1985
 
 ; Corinthians    ; 1-1;  Flamengo-RJ
@@ -483,15 +455,13 @@ Date: 4/3/1985
 ; Guarani        ; 1-1;  Santos
   Neto; Lima
 
-
 Date: 3/16/1985
 
 ; São Paulo      ; 4-4;  Palmeiras
-  Oscar, Careca, Müller, Pita; Mendonça (2), Ditinho, Jorginho
+  Oscar, Careca, Müller, Pita; Mendonça, Mendonca, Ditinho, Jorginho
 
-;; Botafogo-RJ;     1-0  Internacional
-  Baltazar
-
+; Botafogo-RJ;     1-0;  Internacional
+  Baltazar;
 
 Date: 3/17/1985
 
@@ -502,24 +472,22 @@ Date: 3/17/1985
   Lela; Celso, Leandro
 
 ; Santa Cruz     ; 2-0;  Goiás
-  Marlon, Henágio
+  Marlon, Henágio;
 
 ; Grêmio         ; 1-1;  Portuguesa
   Luís Fernando Paulista; Jones
 
-;; América-RJ;      1-0  Cruzeiro
-  Luisinho
+; América-RJ;      1-0;  Cruzeiro
+  Luisinho;
 
-;; Atlético-MG;     5-1  Náutico
-  Reinaldo (2), Nelinho, Éverton, Paulo Isidoro; Nunes
-
+; Atlético-MG;     5-1;  Náutico
+  Reinaldo, Reinaldo, Nelinho, Éverton, Paulo Isidoro; Nunes
 
 Round: 4
-
 Date: 3/20/1985
 
 ; Grêmio         ; 3-0;  Santos
-  Valdo (2), Osvaldo
+  Valdo, Valdo, Osvaldo;
 
 ; Santa Cruz     ; 1-1;  Bahia
   Marlon; Toinzinho
@@ -528,30 +496,28 @@ Date: 3/20/1985
   Hélio, Barbosa; Chiquinho, Maxwell (own goal)
 
 ; Guarani        ; 1-0;  Náutico
-  Neto
+  Neto;
 
-;; Atlético-MG;     1-0  Portuguesa
-  Éverton
+; Atlético-MG;     1-0;  Portuguesa
+  Éverton;
 
-;; Botafogo-RJ;     3-1  São Paulo
-  Helinho (2), Elói; Careca
+; Botafogo-RJ;     3-1;  São Paulo
+  Helinho, Helinho, Elói; Careca
 
 ; Goiás          ; 3-0;  América-RJ
-  Cacau, Tatau, Carlos Alberto
+  Cacau, Tatau, Carlos Alberto;
 
 ; Coritiba       ; 0-0;  Vasco da Gama
 
 Date: 3/21/1985
 
 ; Fluminense     ; 1-0;  Internacional
-  Delei
+  Delei;
 
 ; Cruzeiro       ; 1-1;  Corinthians
   Edu Lima; Serginho
 
-
 Round: 5
-
 Date: 3/23/1985
 
 ; São Paulo      ; 1-1;  Atlético-MG
@@ -560,45 +526,44 @@ Date: 3/23/1985
 ; Vasco da Gama  ; 2-1;  América-RJ
   Rômulo, Roberto Dinamite; Paulo César
 
-
 Date: 3/24/1985
 
-;; Flamengo-RJ;     6-1  Botafogo-RJ
-  Adalberto (2), Gilmar, Chiquinho, Adílio, Hêider; Elói
+; Flamengo-RJ;     6-1;  Botafogo-RJ
+  Adalberto, Adalberto, Gilmar, Chiquinho, Adílio, Hêider; Elói
 
 ; Cruzeiro       ; 0-1;  Fluminense
-  Assis
+;  Assis
 
 ; Internacional  ; 0-1;  Grêmio
-  Luís Fernando Paulista
+;  Luís Fernando Paulista
 
 ; Náutico        ; 4-3;  Santa Cruz
-  Ademir Lobo (2), Manguinha, Nunes; Carlinhos, Marlon, Zé do Carmo
+  Ademir Lobo, Ademir Lobo, Manguinha, Nunes; Carlinhos, Marlon, Zé do Carmo
 
 ; Portuguesa     ; 0-0;  Palmeiras
 
 ; Bahia          ; 1-0;  Guarani
-  Marinho
+  Marinho;
 
 ; Santos         ; 0-0;  Corinthians
 
 ; Goiás          ; 0-2;  Coritiba
-  Lela, Vicente
+;  Lela, Vicente
 
 Round: 6
 Date: 3/27/1985
 
-;; Flamengo-RJ;     0-1  Coritiba
-  Marildo
+; Flamengo-RJ;     0-1;  Coritiba
+;  Marildo
 
-;; América-RJ;      1-1  Bahia
+; América-RJ;      1-1;  Bahia
   Maurício; Celso
 
 ; Cruzeiro       ; 1-1;  Palmeiras
   Dedé de Dora; Jorginho
 
 ; Grêmio         ; 0-1;  Goiás
-  Rota
+;  Rota
 
 ; Santa Cruz     ; 1-2;  Vasco da Gama
   Zé do Carmo; Roberto Dinamite, Geovani
@@ -608,38 +573,35 @@ Date: 3/27/1985
 ; Corinthians    ; 1-2;  São Paulo
   João Paulo; Oscar, Müller
 
-;; Botafogo-RJ;     1-0  Santos
-  Cristiano
+; Botafogo-RJ;     1-0;  Santos
+  Cristiano;
 
 ; Internacional  ; 1-0;  Atlético-MG
-  André Luís
+  André Luís;
 
 ; Fluminense     ; 0-1;  Náutico
-  Nunes
-
+;  Nunes
 
 Round: 7
-
 Date: 3/30/1985
 
-;; América-RJ;      2-3  Flamengo-RJ
-  Moreno, Heriberto; Bebeto (2), Serginho (own goal)
+; América-RJ;      2-3;  Flamengo-RJ
+  Moreno, Heriberto; Bebeto, Bebeto, Serginho (own goal)
 
 ; Náutico        ; 1-2;  Botafogo-RJ
   Baiano; Elói, Berg
-
 
 Date: 3/31/1985
 
 ; Coritiba       ; 0-0;  Internacional
 
 ; Portuguesa     ; 0-2;  Corinthians
-  Casagrande, Paulo César
+;  Casagrande, Paulo César
 
 ; Vasco da Gama  ; 0-1;  Palmeiras
-  Hélio
+;  Hélio
 
-;; Atlético-MG;     2-3  Bahia
+; Atlético-MG;     2-3;  Bahia
   Elzo, Nelinho; Marinho, Ronaldo Marques, Róbson
 
 ; Fluminense     ; 1-2;  São Paulo
@@ -659,59 +621,57 @@ Date: 4/6/1985
 ; Palmeiras      ; 2-2;  Internacional
   Mário Sérgio, Jorginho; Marcelo, Aloísio
 
-;; América-RJ;      2-3  Santos
-  Renato, Moreno; Lima (2), Formiga
+; América-RJ;      2-3;  Santos
+  Renato, Moreno; Lima, Lima, Formiga
 
 
 Date: 4/7/1985
 
 ; Corinthians    ; 2-0;  Náutico
-  Biro-Biro, João Paulo
+  Biro-Biro, João Paulo;
 
 ; Fluminense     ; 1-1;  Flamengo-RJ
   Assis; Bebeto
 
 ; Cruzeiro       ; 3-0;  Botafogo-RJ
-  Carlos Alberto Seixas (2), Carlinhos
+  Carlos Alberto Seixas, Carlos Alberto Seixas, Carlinhos;
 
 ; Coritiba       ; 0-2;  Portuguesa
-  Toninho, Jones
+;  Toninho, Jones
 
 ; Vasco da Gama  ; 0-0;  Guarani
 
 ; Goiás          ; 0-0;  Atlético-MG
 
 ; Bahia          ; 4-1;  Grêmio
-  Ronaldo Marques (2), Celso, Marinho; Tarciso
+  Ronaldo Marques, Ronaldo Marques, Celso, Marinho; Tarciso
 
 ; Santa Cruz     ; 2-3;  São Paulo
-  Marlon, Roberto; Careca (2), Silas
-
+  Marlon, Roberto; Careca, Careca, Silas
 
 Round: 9
-
 Date: 4/10/1985
 
-;; Botafogo-RJ;     1-2  Vasco da Gama
+; Botafogo-RJ;     1-2;  Vasco da Gama
   Elói; Roberto Dinamite, Aírton
 
 ; Portuguesa     ; 1-1;  América-RJ
   Edu Marangon; Cléo
 
 ; Internacional  ; 3-0;  Santa Cruz
-  Kita (2), Balalo
+  Kita, Kita, Balalo;
 
 ; Náutico        ; 2-0;  Coritiba
-  Neto, Baiano
+  Neto, Baiano;
 
 ; Bahia          ; 2-0;  Corinthians
-  Marinho, Ronaldo Marques
+  Marinho, Ronaldo Marques;
 
 ; Cruzeiro       ; 3-2;  Atlético-MG
-  Edu Lima (2), Tostão; Marcus Vinícius, Éder
+  Edu Lima, Edu Lima, Tostão; Marcus Vinícius, Éder
 
 ; Goiás          ; 0-2;  Fluminense
-  Romerito, Washington
+;  Romerito, Washington
 
 ; Santos         ; 1-1;  Palmeiras
   Toninho Carlos; Barbosa
@@ -719,15 +679,14 @@ Date: 4/10/1985
 ; São Paulo      ; 2-2;  Grêmio
   Silas, Careca; Caio, Bonamigo
 
-;; Flamengo-RJ;     1-2  Guarani
+; Flamengo-RJ;     1-2;  Guarani
   Adílio; Ricardo Rocha, Edmar
 
 Round: 10
 Date: 4/13/1985
 
-;; Botafogo-RJ;     2-1  Portuguesa
+; Botafogo-RJ;     2-1;  Portuguesa
   Helinho, Renato; Jones
-
 
 Date: 4/14/1985
 
@@ -744,22 +703,22 @@ Date: 4/14/1985
   Barbosa, Jorginho, Reinaldo Xavier; Ademir Lobo
 
 ; Santa Cruz     ; 2-1;  Cruzeiro
-  Marlon (2); Dedé de Dora
+  Marlon, Marlon; Dedé de Dora
 
 ; Fluminense     ; 2-1;  Bahia
-  Washington (2); Marinho
+  Washington, Washington; Marinho
 
 ; Grêmio         ; 2-0;  Flamengo-RJ
-  Osvaldo, Caio Júnior
+  Osvaldo, Caio Júnior;
 
-;; América-RJ;      2-1  São Paulo
+; América-RJ;      2-1;  São Paulo
   Luisinho, Zó; Careca
 
-;; Atlético-MG;     1-0  Vasco da Gama
-  Reinaldo
+; Atlético-MG;     1-0;  Vasco da Gama
+  Reinaldo;
 
 
-Table - Second Stage
+*Table - Second Stage
 
 *Group A
 * 1-Coritiba        10  5  2  3  10- 9  12  Qualified
@@ -812,169 +771,157 @@ Table - Second Stage
 
 Group: C
 
-First Stage
+*First Stage
 
 Round: 1
-
 Date: 1/27/1985
 
-;; Botafogo-PB;     1-0  Sampaio Corrêa
-  Miro Oliveira
+; Botafogo-PB;     1-0;  Sampaio Corrêa
+  Miro Oliveira;
 
 ; Sergipe        ; 2-1;  Nacional
   Rivaldo, Cacauzinho; Carlos Alberto Garcia
 
 ; Sport          ; 1-0;  Flamengo-PI
-  Luís Carlos
+  Luís Carlos;
 
 ; ABC            ; 1-1;  Paysandu
   Jorge Demolidor; Chico Spina
 
 ; Ceará          ; 3-0;  Remo
-  Volnei (2), Assis Paraíba
-
+  Volnei, Volnei, Assis Paraíba;
 
 Date: 1/28/1985
 
 ; CSA            ; 0-1;  Mixto
-  Geraldão
-
+;  Geraldão
 
 Round: 2
-
 Date: 1/30/1985
 
 ; Sergipe        ; 0-1;  Mixto
-  Luisinho
+;  Luisinho
 
 ; ABC            ; 2-1;  Remo
   Jorge Demolidor, Tião; Dadinho
 
 ; Sport          ; 4-1;  Sampaio Corrêa
-  Joãozinho (2), Luís Carlos (2); Renato
+  Joãozinho, Joaozinho, Luís Carlos, Luis Carlos; Renato
 
-;; Botafogo-PB;     1-0  Flamengo-PI
-  Carioca
+; Botafogo-PB;     1-0;  Flamengo-PI
+  Carioca;
 
 ; Ceará          ; 1-1;  Paysandu
   Volnei; Cabinho
 
-
 Date: 1/31/1985
 
 ; CSA            ; 4-0;  Nacional
-  Frank (2), Jacozinho, Marcão (own goal)
-
+  Frank, Frank, Jacozinho, Marcão (own goal);
 
 Round: 3
-
 Date: 2/2/1985
 
 ; Paysandu       ; 0-1;  Sport
-  Zé Guimarães
-
+;  Zé Guimarães
 
 Date: 2/3/1985
 
 ; Remo           ; 1-1;  Botafogo-PB
   Dadinho; Carioca
 
-;; Flamengo-PI;     1-0  CSA
-  Etevaldo
+; Flamengo-PI;     1-0;  CSA
+  Etevaldo;
 
 ; Mixto          ; 0-0;  ABC
 
 ; Nacional       ; 1-0;  Ceará
-  Bendelack
+  Bendelack;
 
 ; Sampaio Corrêa ; 2-2;  Sergipe
-  Renato (2); Nílson Adão (2)
+  Renato, Renato; Nílson Adão, Nilson Adao
 
 Round: 4
 Date: 2/6/1985
 
 ; Remo           ; 0-1;  Sport
-  Luís Carlos
+;  Luís Carlos
 
 ; Nacional       ; 4-0;  ABC
-  China (2), Carlos Alberto Garcia, Zé Adílson (own goal)
+  China, China, Carlos Alberto Garcia, Zé Adílson (own goal);
 
 ; Mixto          ; 0-1;  Ceará
-  Volnei
+;  Volnei
 
 ; Sampaio Corrêa ; 1-1;  CSA
   Jorginho; Zé Carlos
 
-;; Flamengo-PI;     0-0  Sergipe
+; Flamengo-PI;     0-0;  Sergipe
+
 ; Paysandu       ; 0-0;  Botafogo-PB
 
 Round: 5
-
 Date: 2/10/1985
 
-;; Botafogo-PB;     0-0  Sport
-; CSA            ; 1-0;  Sergipe
-  Frank
+; Botafogo-PB;     0-0;  Sport
 
-;; Flamengo-PI;     1-2  Mixto
+; CSA            ; 1-0;  Sergipe
+  Frank;
+
+; Flamengo-PI;     1-2;  Mixto
   Joniel; Sérgio Luís, Cláudio Barbosa
 
 ; ABC            ; 1-1;  Ceará
   Jorge Demolidor; Anselmo
 
 ; Paysandu       ; 3-0;  Nacional
-  Marcos Nogueira (2), Cabinho
+  Marcos Nogueira, Marcos Nogueira, Cabinho;
 
 ; Sampaio Corrêa ; 1-1;  Remo
   Mateus; Dadinho
 
-
 Round: 6
-
 Date: 2/13/1985
 
 ; Mixto          ; 1-1;  Paysandu
   Cláudio Barbosa; Cabinho
 
 ; Nacional       ; 3-2;  Sampaio Corrêa
-  Carlos Alberto Garcia (2), Dario; Meinha, Dagoberto
+  Carlos Alberto Garcia, Carlos Alberto Garcia, Dario; Meinha, Dagoberto
 
 ; Ceará          ; 2-2;  CSA
-  Amauri, Bezerra; Frank (2)
+  Amauri, Bezerra; Frank, Frank
 
 ; Sergipe        ; 0-1;  Botafogo-PB
-  Escurinho
+;  Escurinho
 
 ; Remo           ; 1-1;  Flamengo-PI
   Dadinho; Dias Pereira
 
 ; Sport          ; 3-0;  ABC
-  Eusébio (2), Zé Guimarães
-
+  Eusébio, Eusebio, Zé Guimarães;
 
 Round: 7
-
 Date: 2/24/1985
 
 ; Sport          ; 4-0;  Sergipe
-  Luís Carlos (3), Zé Guimarães
+  Luís Carlos, Luís Carlos, Luís Carlos, Zé Guimarães;
 
 ; Paysandu       ; 1-0;  Remo
-  Chico Spina
+  Chico Spina;
 
 ; CSA            ; 2-1;  ABC
-  Luisão (2); Arildo
+  Luisão, Luisao ; Arildo
 
-;; Botafogo-PB;     0-0  Ceará
+; Botafogo-PB;     0-0;  Ceará
+
 ; Nacional       ; 1-2;  Mixto
   Dario; Humberto, João Paulo
 
 ; Sampaio Corrêa ; 2-0;  Flamengo-PI
-  Renato, Eduardo
-
+  Renato, Eduardo;
 
 Round: 8
-
 Date: 2/27/1985
 
 ; Remo           ; 1-1;  Mixto
@@ -986,80 +933,72 @@ Date: 2/27/1985
 ; Sampaio Corrêa ; 1-1;  Paysandu
   Mateus; Duarte
 
-;; Flamengo-PI;     1-0  Nacional
-  Dias Pereira
+; Flamengo-PI;     1-0;  Nacional
+  Dias Pereira;
 
-;; Botafogo-PB;     1-1  CSA
+; Botafogo-PB;     1-1;  CSA
   Carioca; Zé Carlos
 
 ; Sport          ; 1-0;  Ceará
-  Luís Carlos
-
+  Luís Carlos;
 
 Round: 9
-
 Date: 3/3/1985
 
 ; ABC            ; 3-0;  Botafogo-PB
-  Leandro, Arildo, Zé Adílson
+  Leandro, Arildo, Zé Adílson;
 
 ; CSA            ; 0-2;  Sport
-  Joãozinho, Zé Guimarães
+;  Joãozinho, Zé Guimarães
 
-;; Flamengo-PI;     1-1  Paysandu
+; Flamengo-PI;     1-1;  Paysandu
   Sena; Cabinho
 
 ; Ceará          ; 3-0;  Sergipe
-  Neném (3)
+  Neném, Nenem, Nenem;
 
 ; Mixto          ; 1-1;  Sampaio Corrêa
   Gílson Bonfim; Mateus
 
 ; Nacional       ; 4-2;  Remo
-  Dario (2), Carlos Alberto Garcia, Edu; Nildo, Dadinho
-
+  Dario, Dario, Carlos Alberto Garcia, Edu; Nildo, Dadinho
 
 Round: 10
-
 Date: 3/6/1985
 
 ; CSA            ; 2-1;  Paysandu
   Miguelzinho, Ednaldo; Marcos Nogueira
 
 ; Sergipe        ; 0-2;  Remo
-  Dadinho, Mesquinha
+;  Dadinho, Mesquinha
 
 ; ABC            ; 1-0;  Sampaio Corrêa
-  Baltasar
+  Baltasar;
 
 ; Ceará          ; 2-1;  Flamengo-PI
   Bezerra, Catinha; China
 
-;; Botafogo-PB;     3-1  Mixto
+; Botafogo-PB;     3-1;  Mixto
   Miguel Amaral, Miro Oliveira, Carioca; Gílson Bonfim
-
 
 Date: 3/7/1985
 
 ; Sport          ; 1-0;  Nacional
-  Eusébio
-
+  Eusébio;
 
 Round: 11
-
 Date: 3/9/1985
 
 ; Remo           ; 1-3;  CSA
   Amauri; Josenílton, Joãozinho, Zé Carlos
-
 
 Date: 3/10/1985
 
 ; Nacional       ; 1-1;  Botafogo-PB
   Marcão; Luís Fernando
 
-;; Flamengo-PI;     1-0  ABC
-  Sena
+; Flamengo-PI;     1-0;  ABC
+  Sena;
 
 ; Mixto          ; 2-1;  Sport
   Gílson Bonfim, Clóvis; Zé Guimarães
@@ -1068,7 +1007,7 @@ Date: 3/10/1985
   Mateus; Neném
 
 ; Paysandu       ; 1-0;  Sergipe
-  Cabinho
+  Cabinho;
 
 
 *Table - First stage
@@ -1085,105 +1024,96 @@ Date: 3/10/1985
 *11-Sergipe         11  2  2  7   6-17   6
 *12-Remo            11  1  4  6  10-18   6
 
-Second stage
+*Second stage
 
 Round: 1
 Date: 3/16/1985
 
 ; Remo           ; 0-2;  Ceará
-  Volnei, Argeu
+;  Volnei, Argeu
 
 ; Sampaio Corrêa ; 1-2;  Botafogo-PB
   Renato; Luís Fernando, Carioca
 
 ; Nacional       ; 6-0;  Sergipe
-  Freitas, Carlos Alberto Garcia, Marcão, Edu, Dario, Bendelack
+  Freitas, Carlos Alberto Garcia, Marcão, Edu, Dario, Bendelack;
 
 ; Mixto          ; 1-0;  CSA
-  Geraldão
+  Geraldão;
 
-;; Flamengo-PI;     0-1  Sport
-  Eusébio
+; Flamengo-PI;     0-1;  Sport
+;  Eusébio
 
 ; Paysandu       ; 0-1;  ABC
-  Darci
-
+;  Darci
 
 Round: 2
-
 Date: 3/20/1985
 
 ; Paysandu       ; 1-2;  Ceará
   Careca; Rondinelli (own goal), Josué
 
 ; Mixto          ; 2-0;  Sergipe
-  João Paulo, Geraldão
+  João Paulo, Geraldão;
 
 ; Nacional       ; 1-0;  CSA
-  Josival (own goal)
+  Josival (own goal);
 
 ; Sampaio Corrêa ; 2-4;  Sport
-  Renato, Mateus; Douglas Onça (2), Mílton Cruz, Eusébio
+  Renato, Mateus; Douglas Onça, Douglas Onca, Mílton Cruz, Eusébio
 
-;; Flamengo-PI;     1-1  Botafogo-PB
+; Flamengo-PI;     1-1;  Botafogo-PB
   Dias Pereira; Benazzi
 
 
 Date: 3/21/1985
 
 ; Remo           ; 1-0;  ABC
-  Dadinho
-
+  Dadinho;
 
 Round: 3
-
 Date: 3/24/1985
 
 ; ABC            ; 4-0;  Mixto
-  Arildo (3), Tião
+  Arildo, Arildo, Arildo, Tião;
 
 ; Ceará          ; 2-1;  Nacional
   Argeu, Lira; Hidalgo
 
 ; Sport          ; 5-1;  Paysandu
-  Eusébio (2), Zé Guimarães (2), Valdir; Chico Spina
+  Eusébio, Eusébio, Zé Guimarães, Zé Guimarães, Valdir; Chico Spina
 
 ; Sergipe        ; 4-0;  Sampaio Corrêa
-  Cícero (2), Cacau, Gena
+  Cícero, Cícero, Cacau, Gena;
 
-;; Botafogo-PB;     1-0  Remo
-  Benazzi
+; Botafogo-PB;     1-0;  Remo
+  Benazzi;
 
 ; CSA            ; 1-0;  Flamengo-PI
-  Zé Carlos
-
+  Zé Carlos;
 
 Round: 4
-
 Date: 3/27/1985
 
 ; ABC            ; 2-4;  Nacional
-  Arildo (2); Carlos Alberto Garcia (2), Freitas, Dario
+  Arildo, Arildo; Carlos Alberto Garcia, Carlos Alberto Garcia, Freitas, Dario
 
 ; CSA            ; 2-0;  Sampaio Corrêa
-  Café, Josenílton
+  Café, Josenílton;
 
 ; Sergipe        ; 0-0;  Flamengo-PI
 
-;; Botafogo-PB;     0-0  Paysandu
+; Botafogo-PB;     0-0;  Paysandu
 
 ; Ceará          ; 2-0;  Mixto
-  Volnei, Josué
-
+  Volnei, Josué;
 
 Date: 3/28/1985
 
 ; Sport          ; 2-0;  Remo
-  Luís Carlos, Joãozinho
-
+  Luís Carlos, Joãozinho;
 
 Round: 5
-
 Date: 3/31/1985
 
 ; Sport          ; 1-2;  Botafogo-PB
@@ -1193,20 +1123,18 @@ Date: 3/31/1985
   Bezerra, Lula, Josué; Capanema
 
 ; Mixto          ; 1-0;  Flamengo-PI
-  Gílson Bonfim
+  Gílson Bonfim;
 
 ; Sergipe        ; 2-2;  CSA
-  Nílson Hora, Rivaldo; Zé Carlos (2)
+  Nílson Hora, Rivaldo; Zé Carlos, Ze Carlos
 
 ; Remo           ; 2-1;  Sampaio Corrêa
   Dadinho, Bira; Beato
 
 ; Nacional       ; 0-1;  Paysandu
-  Cabinho
-
+;  Cabinho
 
 Round: 6
-
 Date: 4/3/1985
 
 ; ABC            ; 1-3;  Sport
@@ -1215,88 +1143,80 @@ Date: 4/3/1985
 ; Sampaio Corrêa ; 1-1;  Nacional
   Jorginho; Raulino
 
-;; Flamengo-PI;     0-2  Remo
-  Dadinho (2)
+; Flamengo-PI;     0-2;  Remo
+;  Dadinho, Dadinho
 
-;; Botafogo-PB;     1-1  Sergipe
+; Botafogo-PB;     1-1;  Sergipe
   Mariano; Cacau
 
 ; CSA            ; 2-0;  Ceará
-  Luisão
+  Luisão;
 
 ; Paysandu       ; 1-1;  Mixto
   Nad; Cláudio Barbosa
 
-
 Round: 7
-
 Date: 4/7/1985
 
 ; Sergipe        ; 0-1;  Sport
-  Zé Guimarães
+;  Zé Guimarães
 
 ; Mixto          ; 2-2;  Nacional
   Valdemir, Luisinho; Carlos Alberto Garcia, Edu
 
 ; Remo           ; 0-3;  Paysandu
-  Chico Spina (2), Marcos Nogueira
+;  Chico Spina, Chico Spina, Marcos Nogueira
 
-;; Flamengo-PI;     2-0  Sampaio Corrêa
-  China, Dias Pereira
+; Flamengo-PI;     2-0;  Sampaio Corrêa
+  China, Dias Pereira;
 
 ; Ceará          ; 2-1;  Botafogo-PB
-  Anselmo (2); Benazzi
+  Anselmo, Anselmo; Benazzi
 
 ; ABC            ; 0-0;  CSA
 
 Round: 8
-
 Date: 4/10/1985
 
 ; Nacional       ; 3-1;  Flamengo-PI
   Edu, Carlos Alberto Garcia, Freitas; Dias Pereira
 
 ; Paysandu       ; 5-4;  Sampaio Corrêa
-  Cabinho (2), Chico Spina, Eduardo (own goal), Edésio; Jorginho, Joãozinho, 
-   Beato, Santos
+  Cabinho, Cabinho, Chico Spina, Eduardo (own goal), Edésio; Jorginho, Joãozinho, Beato, Santos
 
 ; Mixto          ; 3-1;  Remo
-  Geraldão (2), Luisinho; Dadinho
+  Geraldão, Geraldao, Luisinho; Dadinho
 
 ; Ceará          ; 0-1;  Sport
-  Déti
+;  Déti
 
 ; CSA            ; 5-1;  Botafogo-PB
   Carlos Alberto, Zé Carlos, Josenílton, Luisão, Agnaldo; Luís Fernando
 
 ; ABC            ; 4-1;  Sergipe
-  Arildo (2), Capanema, Tião; Valença
-
+  Arildo, Arildo, Capanema, Tião; Valença
 
 Round: 9
-
 Date: 4/13/1985
 
 ; Paysandu       ; 2-0;  Flamengo-PI
-  Marcos Nogueira, Careca
-
+  Marcos Nogueira, Careca;
 
 Date: 4/14/1985
 
 ; Remo           ; 1-4;  Nacional
-  Dadinho; Dario (2), Raulino, Freitas
+  Dadinho; Dario, Dario, Raulino, Freitas
 
-;; Botafogo-PB;     2-2  ABC
+; Botafogo-PB;     2-2;  ABC
   Luís Fernando, João Carlos; Arildo, Capanema
 
 ; Sergipe        ; 0-1;  Ceará
-  Volnei
+;  Volnei
 
 ; Sampaio Corrêa ; 0-0;  Mixto
 
 ; Sport          ; 3-1;  CSA
-  Joãozinho (2), Luís Carlos; Veiga
-
+  Joãozinho, Joaozinho, Luís Carlos; Veiga
 
 Round: 10
 Date: 4/17/1985
@@ -1304,7 +1224,7 @@ Date: 4/17/1985
 ; Nacional       ; 0-0;  Sport
 
 ; Mixto          ; 1-0;  Botafogo-PB
-  Gílson Bonfim
+  Gílson Bonfim;
 
 ; Sampaio Corrêa ; 2-1;  ABC
   Mateus, Beato; Capanema
@@ -1316,34 +1236,31 @@ Date: 4/18/1985
 ; Remo           ; 2-1;  Sergipe
   Fernandinho, Paulinho; Nílson Hora
 
-
 Date: 4/28/1985
 
 ; Ceará          ; 2-1;  Flamengo-PI
   Catinha, Volnei; Sousa
 
-
 Round: 11
-
 Date: 4/21/1985
 
 ; ABC            ; 1-2;  Flamengo-PI
   Arildo; Sousa, Carlinhos
 
 ; Sergipe        ; 0-1;  Paysandu
-  Cabinho
+;  Cabinho
 
-;; Botafogo-PB;     1-2  Nacional
+; Botafogo-PB;     1-2;  Nacional
   Miguel Amaral; Chiquinho, Freitas
 
 ; Sport          ; 2-0;  Mixto
-  Luís Carlos, Douglas Onça
+  Luís Carlos, Douglas Onça;
 
 ; CSA            ; 3-0;  Remo
-  Luisão (2), Miguelzinho
+  Luisão, Luisao, Miguelzinho;
 
 ; Ceará          ; 4-1;  Sampaio Corrêa
-  Volnei (2), Lira, Catinha; Meinha
+  Volnei, Volnei, Lira, Catinha; Meinha
 
 
 *Table - Second stage
@@ -1375,24 +1292,23 @@ Date: 4/21/1985
 *11-Sampaio Corrêa  22  2  8 12  24-43  12
 *12-Sergipe         22  3  5 14  15-37  11
 
-Group D
+Group: D
 
-First Stage
+*First Stage
 
 Round: 1
 Date: 1/26/1985
 
 ; Ponte Preta    ; 1-0;  Villa Nova-MG
-  Jorge Mendonça
-
+  Jorge Mendonça;
 
 Date: 1/27/1985
 
 ; Joinville      ; 4-0;  Corumbaense
-  Vágner (2), João Carlos Maringá, Nardela
+  Vágner, Vagner, João Carlos Maringá, Nardela;
 
 ; Bangu          ; 1-0;  Brasília
-  Pingo
+  Pingo;
 
 ; Leônico        ; 0-0;  Pinheiros
 
@@ -1402,80 +1318,71 @@ Date: 1/27/1985
 ; Brasil         ; 1-1;  Uberlândia
   André; Fernando Roberto
 
-
 Round: 2
-
 Date: 1/30/1985
 
 ; Ponte Preta    ; 3-0;  Leônico
-  Jorge Mendonça (2), Chicão
+  Jorge Mendonça, Jorge Mendonca, Chicão;
 
 ; Pinheiros      ; 1-0;  Villa Nova-MG
-  Ferreira
+  Ferreira;
 
 ; Brasil         ; 1-0;  Corumbaense
-  Canhotinho
+  Canhotinho;
 
 ; Joinville      ; 2-0;  Uberlândia
-  Vágner, Nardela
+  Vágner, Nardela;
 
 ; Desportiva     ; 0-1;  Brasília
-  Vânder
+;  Vânder
 
 ; Bangu          ; 2-0;  Vila Nova-GO
-  Pingo, Fernando Macaé
-
+  Pingo, Fernando Macaé;
 
 Round: 3
-
 Date: 2/2/1985
 
-; Vila; Nova-GO;    1-2  Ponte Preta
+; Vila Nova-GO;    1-2;  Ponte Preta
   Silva; Gersinho, Chicão
-
 
 Date: 2/3/1985
 
 ; Corumbaense    ; 0-1;  Bangu
-  Marinho
+;  Marinho
 
-; Villa; Nova-MG;   1-3  Brasil
+; Villa Nova-MG;   1-3;  Brasil
   Zé Eduardo; Gílson, Lívio, André
 
 ; Leônico        ; 1-0;  Joinville
-  Ronaldo
+  Ronaldo;
 
 ; Brasília       ; 0-0;  Pinheiros
 
 ; Uberlândia     ; 1-2;  Desportiva
-  Fernando Roberto; Naldo (2)
-
+  Fernando Roberto; Naldo, Naldo
 
 Round: 4
-
 Date: 2/6/1985
 
 ; Brasília       ; 1-1;  Ponte Preta
   Vânder; Jorge Mendonça
 
-; Villa; Nova-MG;   0-3  Joinville
-  João Carlos Maringá, Reginaldo, Vágner
+; Villa Nova-MG;   0-3;  Joinville
+;  João Carlos Maringá, Reginaldo, Vágner
 
 ; Uberlândia     ; 1-2;  Bangu
   Zé Carlos; Fernando Macaé, Marinho
 
-; Vila; Nova-GO;    3-2  Pinheiros
-  Héber (2), Nélio; Jatobá, Ferreira
+; Vila Nova-GO;    3-2;  Pinheiros
+  Héber, Heber, Nélio; Jatobá, Ferreira
 
 ; Corumbaense    ; 2-0;  Desportiva
-  Radar, Ferrari
+  Radar, Ferrari;
 
 ; Leônico        ; 2-1;  Brasil
   Adaílton, Douglas; Gílson
 
-
 Round: 5
-
 Date: 2/10/1985
 
 ; Ponte Preta    ; 2-1;  Pinheiros
@@ -1484,101 +1391,93 @@ Date: 2/10/1985
 ; Joinville      ; 1-2;  Brasil
   João Carlos Maringá; Zezinho, Lívio
 
-; Villa; Nova-MG;   3-0  Vila Nova-GO
-  Osmar (2), Marco Aurélio
+; Villa Nova-MG;   3-0;  Vila Nova-GO
+  Osmar, Osmar, Marco Aurélio;
 
 ; Bangu          ; 4-1;  Desportiva
-  Marinho (3), Fernando Macaé; Paulistinha
+  Marinho, Marinho, Marinho, Fernando Macaé; Paulistinha
 
 ; Leônico        ; 0-0;  Corumbaense
 
 ; Brasília       ; 1-1;  Uberlândia
   Vânder; Zé Carlos
 
-
 Round: 6
-
 Date: 2/13/1985
 
 ; Brasil         ; 2-0;  Ponte Preta
-  Júnior Brasília, Gílson
+  Júnior Brasília, Gílson;
 
 ; Corumbaense    ; 0-1;  Brasília
-  Cléber
+;  Cléber
 
 ; Desportiva     ; 0-1;  Joinville
-  João Carlos Maringá
+;  João Carlos Maringá
 
-; Vila; Nova-GO;    0-1  Leônico
-  Washington Luís
+; Vila Nova-GO;    0-1;  Leônico
+;  Washington Luís
 
 ; Uberlândia     ; 3-0;  Villa Nova-MG
-  Zé Carlos (2), Carlos
+  Zé Carlos, Ze Carlos, Carlos;
 
 ; Pinheiros      ; 1-1;  Bangu
   Camargo; Ado
 
-
 Round: 7
-
 Date: 2/24/1985
 
 ; Brasília       ; 0-1;  Vila Nova-GO
-  Héber
+;  Héber
 
 ; Joinville      ; 1-0;  Bangu
-  Nardela
+  Nardela;
 
 ; Pinheiros      ; 2-2;  Brasil
   Zé Luís, Camargo; Toninho Fronza, Zezinho
 
 ; Ponte Preta    ; 2-0;  Desportiva
-  Gersinho, Osmar
+  Gersinho, Osmar;
 
-; Villa; Nova-MG;   2-0  Leônico
-  Dario (own goal), Márcio
+; Villa Nova-MG;   2-0;  Leônico
+  Dario (own goal), Márcio;
 
 ; Uberlândia     ; 2-0;  Corumbaense
-  Luisinho, Vargas
-
+  Luisinho, Vargas;
 
 Round: 8
-
 Date: 2/27/1985
 
 ; Brasil         ; 0-1;  Bangu
-  Marinho
+;  Marinho
 
 ; Leônico        ; 3-1;  Uberlândia
   Washington Luís, Douglas, Sebinho; Vivinho
 
 ; Pinheiros      ; 1-0;  Desportiva
-  Camargo
+  Camargo;
 
-; Vila; Nova-GO;    1-1  Corumbaense
+; Vila Nova-GO;    1-1;  Corumbaense
   Héber; Amadeu
 
 ; Ponte Preta    ; 2-1;  Joinville
   Adílson, Jorge Mendonça; Reginaldo
 
-; Villa; Nova-MG;   0-2  Brasília
-  Kao Yen, Santos
-
+; Villa Nova-MG;   0-2;  Brasília
+;  Kao Yen, Santos
 
 Round: 9
-
 Date: 3/3/1985
 
 ; Desportiva     ; 3-0;  Brasil
-  Tiziu, Tião, Luisinho das Arábias
+  Tiziu, Tião, Luisinho das Arábias;
 
 ; Corumbaense    ; 0-0;  Villa Nova-MG
 
 ; Leônico        ; 5-3;  Brasília
-  Washington Luís (2), Osni (2), Sivaldo; Kao Yen, Dario (own goal), Ramón
+  Washington Luís, Washington Luís, Osni, Osni, Sivaldo; Kao Yen, Dario (own goal), Ramón
 
 ; Joinville      ; 1-0;  Pinheiros
-  Reginaldo
+  Reginaldo;
 
 ; Uberlândia     ; 1-1;  Vila Nova-GO
   Vargas; Zé Henrique
@@ -1595,35 +1494,33 @@ Date: 3/6/1985
   Márcio; Paulinho
 
 ; Ponte Preta    ; 2-0;  Corumbaense
-  Cido, Adílson
+  Cido, Adílson;
 
 ; Pinheiros      ; 2-0;  Uberlândia
-  Camargo (2)
+  Camargo, Camargo;
 
 ; Desportiva     ; 3-1;  Leônico
-  Tião (2), Luisinho das Arábias; Osni
+  Tião, Tiao, Luisinho das Arábias; Osni
 
 ; Joinville      ; 1-0;  Brasília
-  Vágner
-
+  Vágner;
 
 Round: 11
-
 Date: 3/10/1985
 
 ; Corumbaense    ; 1-3;  Pinheiros
-  Negão; Capitão (3)
+  Negão; Capitão, Capitao, Capitao
 
 ; Uberlândia     ; 0-0;  Ponte Preta
 
 ; Leônico        ; 1-2;  Bangu
   Washington Luís; Marinho, Pingo
 
-; Vila; Nova-GO;    1-1  Joinville
+; Vila Nova-GO;    1-1;  Joinville
   Zé Henrique; João Carlos Maringá
 
-; Villa; Nova-MG;   3-1  Desportiva
-  Paulinho (2), Márcio; Cacá
+; Villa Nova-MG;   3-1;  Desportiva
+  Paulinho, Paulinho, Márcio; Cacá
 
 ; Brasília       ; 3-2;  Brasil
   Kao Yen, Santos, Ramón; Bira, Zezinho
@@ -1648,16 +1545,16 @@ Round: 1
 Date: 3/16/1985
 
 ; Pinheiros      ; 1-0;  Leônico
-  Roberson
+  Roberson;
 
-; Vila; Nova-GO;    1-0  Desportiva
-  Bill
+; Vila Nova-GO;    1-0;  Desportiva
+  Bill;
 
 ; Uberlândia     ; 1-2;  Brasil
   Carlos Alberto Batata; Bira, Júnior Brasília
 
-; Villa; Nova-MG;   1-3  Ponte Preta
-  Paulinho; Adílson (2), Régis
+; Villa Nova-MG;   1-3;  Ponte Preta
+  Paulinho; Adílson, Adilson, Régis
 
 ; Brasília       ; 2-1;  Bangu
   Ramón, Santos; Fernando Macaé
@@ -1665,17 +1562,15 @@ Date: 3/16/1985
 ; Corumbaense    ; 1-2;  Joinville
   Osmar Bueno; Carlinhos, João Carlos Maringá
 
-
 Round: 2
-
 Date: 3/14/1985
 
-; Villa; Nova-MG;   0-0  Pinheiros
+; Villa Nova-MG;   0-0;  Pinheiros
 
 Date: 3/20/1985
 
 ; Uberlândia     ; 0-1;  Joinville
-  Vágner
+;  Vágner
 
 ; Corumbaense    ; 1-2;  Brasil
   Alcione; Lívio, Zezinho
@@ -1685,20 +1580,16 @@ Date: 3/20/1985
 ; Leônico        ; 1-2;  Ponte Preta
   Osni; Gersinho, Régis
 
-
 Date: 3/21/1985
 
-; Vila; Nova-GO;    3-2  Bangu
-  Bill (2), Ronaldo Pato; Pingo, Ado
-
+; Vila Nova-GO;    3-2;  Bangu
+  Bill, Bill, Ronaldo Pato; Pingo, Ado
 
 Round: 3
-
 Date: 3/23/1985
 
 ; Pinheiros      ; 1-0;  Brasília
-  Mauro Madureira
-
+  Mauro Madureira;
 
 Date: 3/24/1985
 
@@ -1706,54 +1597,50 @@ Date: 3/24/1985
   Tião, Luisinho das Arábias; Vivinho
 
 ; Joinville      ; 1-0;  Leônico
-  João Carlos Maringá
+  João Carlos Maringá;
 
 ; Brasil         ; 0-0;  Villa Nova-MG
+
 ; Bangu          ; 4-0;  Corumbaense
-  Fernando Macaé (2), Roberto Biônico, Ado
+  Fernando Macaé, Fernando Macaé, Roberto Biônico, Ado;
 
 ; Ponte Preta    ; 4-1;  Vila Nova-GO
-  Márcio Luís (2), Adílson (2); Bill
-
+  Márcio Luís, Márcio Luís, Adílson, Adilson; Bill
 
 Round: 4
-
 Date: 3/27/1985
 
 ; Bangu          ; 2-0;  Uberlândia
-  Pingo, Pedrinho Gaúcho
+  Pingo, Pedrinho Gaúcho;
 
 ; Ponte Preta    ; 1-1;  Brasília
   Foca (own goal); Santos
 
 ; Desportiva     ; 0-1;  Corumbaense
-  Dutra
+;  Dutra
 
 ; Pinheiros      ; 1-1;  Vila Nova-GO
   Marquinhos; Héber
 
 ; Joinville      ; 1-2;  Villa Nova-MG
-  Vágner; Paulinho (2)
+  Vágner; Paulinho, Paulinho
 
 ; Brasil         ; 4-1;  Leônico
-  Bira (2), Júnior Brasília, Zezinho; Monteiro
-
+  Bira, Bira, Júnior Brasília, Zezinho; Monteiro
 
 Round: 5
-
 Date: 3/30/1985
 
 ; Pinheiros      ; 0-1;  Ponte Preta
-  Gersinho
-
+;  Gersinho
 
 Date: 3/31/1985
 
 ; Desportiva     ; 0-1;  Bangu
-  Roberto Biônico
+;  Roberto Biônico
 
-; Vila; Nova-GO;    1-0  Villa Nova-MG
-  Bill
+; Vila Nova-GO;    1-0;  Villa Nova-MG
+  Bill;
 
 ; Brasil         ; 1-1;  Joinville
   Bira; Silmar
@@ -1764,19 +1651,17 @@ Date: 3/31/1985
 ; Corumbaense    ; 2-1;  Leônico
   Negão, Amadeu; Monteiro
 
-
 Round: 6
-
 Date: 4/3/1985
 
 ; Bangu          ; 1-1;  Pinheiros
   Fernando Macaé; Marquinhos
 
 ; Joinville      ; 0-1;  Desportiva
-  Tiziu
+;  Tiziu
 
-; Villa; Nova-MG;   0-2  Uberlândia
-  Carlos Alberto Batata, Fernando Roberto
+; Villa Nova-MG;   0-2;  Uberlândia
+;  Carlos Alberto Batata, Fernando Roberto
 
 ; Leônico        ; 2-1;  Vila Nova-GO
   Sivaldo, Beijoca; Júlio César
@@ -1787,39 +1672,34 @@ Date: 4/3/1985
 ; Ponte Preta    ; 2-2;  Brasil
   Márcio Luís, Régis; Bira, André
 
-
 Round: 7
-
 Date: 4/6/1985
 
-; Vila; Nova-GO;    3-1  Brasília
-  Fernando (2), Dionísio; Néri (own goal)
-
+; Vila Nova-GO;    3-1;  Brasília
+  Fernando, Fernando, Dionísio; Néri (own goal)
 
 Date: 4/7/1985
 
 ; Desportiva     ; 1-0;  Ponte Preta
-  Paulistinha
+  Paulistinha;
 
 ; Bangu          ; 3-1;  Joinville
   Fernando Macaé, Pingo, Mário; Reginaldo
 
 ; Leônico        ; 1-0;  Villa Nova-MG
-  Sebinho
+  Sebinho;
 
 ; Corumbaense    ; 1-0;  Uberlândia
-  Alcione
+  Alcione;
 
 ; Brasil         ; 1-0;  Pinheiros
-  André
-
+  André;
 
 Round: 8
-
 Date: 4/10/1985
 
 ; Desportiva     ; 0-2;  Pinheiros
-  Camargo, Edinho
+;  Camargo, Edinho
 
 ; Bangu          ; 3-1;  Brasil
   Fernando Macaé, Pingo, Ado; Hélio
@@ -1828,40 +1708,36 @@ Date: 4/10/1985
   Nardela; Adílson
 
 ; Brasília       ; 2-0;  Villa Nova-MG
-  Cléber, Édson- (own goal)
+  Cléber, Édson (own goal);
 
 ; Uberlândia     ; 4-0;  Leônico
-  Carlos Alberto Batata, Fernando Roberto, Luisinho, Vivinho
+  Carlos Alberto Batata, Fernando Roberto, Luisinho, Vivinho;
 
 ; Corumbaense    ; 1-3;  Vila Nova-GO
   Negão; Falcão, Zé Henrique, Fernando
 
-
 Round: 9
-
 Date: 4/14/1985
 
 ; Brasil         ; 5-0;  Desportiva
-  Bira (2), Júnior Brasília, André, Gílson
+  Bira, Bira, Júnior Brasília, André, Gílson;
 
 ; Brasília       ; 1-0;  Leônico
-  Nei
+  Nei;
 
 ; Pinheiros      ; 1-1;  Joinville
   Camargo; Vágner
 
-; Villa; Nova-MG;   4-3  Corumbaense
-  Paulinho (3), Osmar; Negão, Gérson, Amadeu
+; Villa Nova-MG;   4-3;  Corumbaense
+  Paulinho, Paulinho, Paulinho, Osmar; Negão, Gérson, Amadeu
 
 ; Ponte Preta    ; 2-2;  Bangu
   Paulo Egídio, Régis; Mário, Fernando Macaé
 
-; Vila; Nova-GO;    0-3  Uberlândia
-  Mairon César (2), Fernando Roberto
-
+; Vila Nova-GO;    0-3;  Uberlândia
+;  Mairon César, Mairon Cesar, Fernando Roberto
 
 Round: 10
-
 Date: 4/17/1985
 
 ; Brasília       ; 0-0;  Joinville
@@ -1870,35 +1746,35 @@ Date: 4/17/1985
   Adaílton; Sídnei
 
 ; Corumbaense    ; 1-5;  Ponte Preta
-  Altair; Paulo Egídio (3), Chicão (2)
+  Altair; Paulo Egídio, Paulo Egídio, Paulo Egídio, Chicão, Chicao
 
 ; Uberlândia     ; 2-1;  Pinheiros
-  Geraldo Touro (2); Mauro Madureira
+  Geraldo Touro, Geraldo Touro; Mauro Madureira
 
-; Vila; Nova-GO;    0-0  Brasil
-; Villa; Nova-MG;   0-2  Bangu
-  Ado, Marinho
+; Vila Nova-GO;    0-0;  Brasil
 
+; Villa Nova-MG;   0-2;  Bangu
+;  Ado, Marinho
 
 Round: 11
-
 Date: 4/21/1985
 
 ; Desportiva     ; 1-1;  Villa Nova-MG
   Paulistinha; Osmar
 
 ; Brasil         ; 2-0;  Brasília
-  Silva, Zezinho
+  Silva, Zezinho;
 
 ; Pinheiros      ; 0-0;  Corumbaense
+
 ; Ponte Preta    ; 1-1;  Uberlândia
   Chicão; Vivinho
 
 ; Bangu          ; 1-0;  Leônico
-  Marinho
+  Marinho;
 
 ; Joinville      ; 3-0;  Vila Nova-GO
-  Vágner, Jacenir, Nardela
+  Vágner, Jacenir, Nardela;
 
 
 *Table - second stage
@@ -1931,7 +1807,7 @@ Date: 4/21/1985
 *12-Corumbaense     22  4  5 13  16-37  13
 
 
-Second Phase
+*Second Phase
 
 Group: E
 Round: 1
@@ -1956,38 +1832,34 @@ Date: 7/10/1985
 ; Guarani        ; 1-1;  Ponte Preta
   Niquinha; Régis
 
-;; Atlético-MG;     2-0  CSA
-  Éverton, Edivaldo
-
+; Atlético-MG;     2-0;  CSA
+  Éverton, Edivaldo;
 
 Round: 4
-
 Date: 7/14/1985
 
-;; Atlético-MG;     2-1  Guarani
+; Atlético-MG;     2-1;  Guarani
   Éverton, Elzo; Giba
 
 ; Ponte Preta    ; 2-0;  CSA
-  Vágner, Mauro
-
+  Vágner, Mauro;
 
 Round: 5
 
 Date: 7/17/1985
 
 ; CSA            ; 0-0;  Atlético-MG
-Ponte Preta     0-0  Guarani
+
+; Ponte Preta    ; 0-0;  Guarani
 
 Round: 6
-
 Date: 7/21/1985
 
-Atlético-MG     1-0  Ponte Preta
-  Sérgio Araújo
+; Atlético-MG;     1-0;  Ponte Preta
+  Sérgio Araújo;
 
 ; Guarani        ; 6-1;  CSA
-  Edmar (5), Gérson; Luisão
-
+  Edmar, Edmar, Edmar, Edmar, Edmar, Gérson; Luisão
 
 
 *Table
@@ -2003,7 +1875,6 @@ Date: 7/3/1985
 
 ; Brasil         ; 2-1;  Bahia
   Silva, Hélio; Marinho
-
 
 Date: 7/4/1985
 
@@ -2023,44 +1894,39 @@ Round: 3
 
 Date: 7/10/1985
 
-;; Flamengo-RJ;     1-0  Brasil
-  Bebeto
+; Flamengo-RJ;     1-0;  Brasil
+  Bebeto;
 
 ; Bahia          ; 4-0;  Ceará
-  Marinho (2), Leandro, Celso
+  Marinho, Marinho, Leandro, Celso;
 
 Round: 4
 Date: 7/14/1985
 
-;; Flamengo-RJ;     3-0  Bahia
-  Chiquinho, Zico, Tita
+; Flamengo-RJ;     3-0;  Bahia
+  Chiquinho, Zico, Tita;
 
 ; Brasil         ; 4-0;  Ceará
-  Bira (3), Canhotinho
-
+  Bira, Bira, Bira, Canhotinho;
 
 Round: 5
-
 Date: 7/17/1985
 
 ; Ceará          ; 2-1;  Bahia
   Catinha, Josué; Róbson
 
-
 Date: 7/18/1985
 
 ; Brasil         ; 2-0;  Flamengo-RJ
-  Júnior Brasília, Bira
-
+  Júnior Brasília, Bira;
 
 Round: 6
-
 Date: 7/21/1985
 
 ; Bahia          ; 2-3;  Brasil
-  Helinho, Leandro; Bira (2), Júnior Brasília
+  Helinho, Leandro; Bira, Bira, Júnior Brasília
 
-;; Flamengo-RJ;     2-2  Ceará
+; Flamengo-RJ;     2-2;  Ceará
   Bebeto, Tita; Catinha, Anselmo
 
 
@@ -2079,26 +1945,21 @@ Date: 7/3/1985
 ; Sport          ; 1-1;  Coritiba
   Mílton Cruz; Marildo
 
-
 Date: 7/4/1985
 
 ; Joinville      ; 2-0;  Corinthians
-  Reginaldo, João Carlos Maringá
-
+  Reginaldo, João Carlos Maringá;
 
 Round: 2
-
 Date: 7/7/1985
 
 ; Joinville      ; 4-2;  Sport
-  Vágner (2), Nardela, João Carlos Maringá; Luís Carlos, Bozó
+  Vágner, Vagner, Nardela, João Carlos Maringá; Luís Carlos, Bozó
 
 ; Coritiba       ; 1-0;  Corinthians
-  Lela
-
+  Lela;
 
 Round: 3
-
 Date: 7/10/1985
 
 ; Coritiba       ; 2-1;  Joinville
@@ -2107,35 +1968,30 @@ Date: 7/10/1985
 ; Corinthians    ; 0-0;  Sport
 
 Round: 4
-
 Date: 7/13/1985
 
 ; Corinthians    ; 1-0;  Coritiba
-  Wladimir
-
+  Wladimir;
 
 Date: 7/14/1985
 
 ; Sport          ; 1-0;  Joinville
-  Luís Carlos
-
+  Luís Carlos;
 
 Round: 5
-
 Date: 7/17/1985
 
 ; Sport          ; 3-1;  Corinthians
   Bozó, Douglas Onça, Zé Guimarães; Wladimir
 
 ; Joinville      ; 0-1;  Coritiba
-  Lela
-
+;  Lela
 
 Round: 6
-
 Date: 7/21/1985
 
 ; Coritiba       ; 0-0;  Sport
+
 ; Corinthians    ; 1-1;  Joinville
   Casagrande; Reginaldo
 
@@ -2157,34 +2013,27 @@ Date: 7/3/1985
 ; Mixto          ; 1-1;  Vasco da Gama
   Rodrigues; Roberto Dinamite
 
-
 Round: 2
-
 Date: 7/7/1985
 
 ; Mixto          ; 1-4;  Bangu
-  Cláudio Barbosa; Marinho (2), Gílson, João Cláudio
+  Cláudio Barbosa; Marinho, Marinho, Gílson, João Cláudio
 
 ; Vasco da Gama  ; 1-1;  Internacional
   Geovani; Ademir
 
-
 Round: 3
-
 Date: 7/10/1985
 
 ; Internacional  ; 1-0;  Mixto
-  Rubén Paz
-
+  Rubén Paz;
 
 Date: 7/11/1985
 
 ; Vasco da Gama  ; 0-2;  Bangu
-  João Cláudio (2)
-
+;  João Cláudio, Joao Claudio
 
 Round: 4
-
 Date: 7/14/1985
 
 ; Internacional  ; 2-2;  Vasco da Gama
@@ -2193,27 +2042,23 @@ Date: 7/14/1985
 ; Bangu          ; 1-1;  Mixto
   Pingo; Gílson Bonfim
 
-
 Round: 5
-
 Date: 7/17/1985
 
 ; Bangu          ; 3-1;  Vasco da Gama
-  Marinho (2), Mário; Roberto Dinamite
+  Marinho, Marinho, Mário; Roberto Dinamite
 
 ; Mixto          ; 1-3;  Internacional
-  Gílson Bonfim; Marcelo (2), Miro (own goal)
-
+  Gílson Bonfim; Marcelo, Marcelo, Miro (own goal)
 
 Round: 6
-
 Date: 7/21/1985
 
 ; Internacional  ; 1-2;  Bangu
   André Luís; Marinho, João Cláudio
 
 ; Vasco da Gama  ; 4-0;  Mixto
-  Roberto Dinamite (2), Cláudio José, Mauricinho
+  Roberto Dinamite, Roberto Dinamite, Cláudio José, Mauricinho;
 
 
 *Table
@@ -2224,41 +2069,39 @@ Date: 7/21/1985
 * 4-Mixto            6  0  2  4   4-14   2
 
 
-Semifinals
+Round: Semifinals
 
-First Leg
+*First Leg
+*Date: 7/24 and 28/1985
 
-
-Date: 7/24 and 28/1985
-
-Brasil          0-1   1-3  Bangu           [1st leg played in Porto Alegre due 
-  [Jorge Batata (own goal)]                 to insufficient stadium capacity in 
-  [Marinho (2), Ado; Bira]                  Pelotas]
-Coritiba        1-0   0-0  Atlético-MG
-  [Heraldo]
-
-Final 
-Since Bangu had a better season record, final match was held in Rio de Janeiro
-
-
-Date: 7/31/1985
-
-Bangu           1-1  Coritiba        [aet 0-0, pen 5-6]
-  [Lulinha; Índio]
-31/julho/1985 
-BANGU 1X1 CORITIBA 
-Local: Maracanã (Rio de Janeiro); 
-Juiz: Romualdo Arppi Filho (SP); 
-Público Presente: 91.527 espectadores; 
-Gols: Índio 25 e Lulinha 35 do 1º tempo; 
-Cartão Amarelo: Mário, Gomes, Dida e Rafael; 
-BANGU: Gilmar, Márcio, Jair, Oliveira e Baby; Israel, Lulinha (Gílson) e Mário; Marinho, 
-João Cláudio (Pingo) e Ado.
-Técnico: Moisés. 
-CORITIBA: Rafael, André, Gomes, Heraldo e Dida; Almir (Vavá), Marildo (Marco Aurélio) e 
-Tóbi; Lela, Índio e Édson.
-Técnico: Ênio Andrade 
-Coritiba FC (Curitiba) are the 1985 Brazilian Champions
+*Brasil          0-1   1-3  Bangu           [1st leg played in Porto Alegre due 
+*  [Jorge Batata (own goal)]                 to insufficient stadium capacity in 
+*  [Marinho (2), Ado; Bira]                  Pelotas]
+*Coritiba        1-0   0-0  Atlético-MG
+*  [Heraldo]
+*
+*Final 
+*Since Bangu had a better season record, final match was held in Rio de Janeiro
+*
+*
+*Date: 7/31/1985
+*
+*Bangu           1-1  Coritiba        [aet 0-0, pen 5-6]
+*  [Lulinha; Índio]
+*31/julho/1985 
+*BANGU 1X1 CORITIBA 
+*Local: Maracanã (Rio de Janeiro); 
+*Juiz: Romualdo Arppi Filho (SP); 
+*Público Presente: 91.527 espectadores; 
+*Gols: Índio 25 e Lulinha 35 do 1º tempo; 
+*Cartão Amarelo: Mário, Gomes, Dida e Rafael; 
+*BANGU: Gilmar, Márcio, Jair, Oliveira e Baby; Israel, Lulinha (Gílson) e Mário; Marinho, 
+*João Cláudio (Pingo) e Ado.
+*Técnico: Moisés. 
+*CORITIBA: Rafael, André, Gomes, Heraldo e Dida; Almir (Vavá), Marildo (Marco Aurélio) e 
+*Tóbi; Lela, Índio e Édson.
+*Técnico: Ênio Andrade 
+*Coritiba FC (Curitiba) are the 1985 Brazilian Champions
 
 *Final Table
 * 1-Coritiba         29 12  7 10  25-27  31 Qualified to Copa Libertadores 1986

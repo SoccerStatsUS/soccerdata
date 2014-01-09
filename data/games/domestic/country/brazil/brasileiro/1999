@@ -114,11 +114,11 @@ Date: 9/5/1999
 
 ; Grêmio       ; 0-4; São Paulo
   
-Moved Matches 
+*Moved Matches 
 Date: 8/11/1999
 
 ; Atlético/MG  ; 2-0; Palmeiras
-   Guilherme, Unknown
+   Guilherme, Unknown;
 
 ; Internacional; 1-2; Flamengo
 
@@ -174,7 +174,7 @@ Date: 8/22/1999
 ; Cruzeiro     ; 3-1; Atlético/PR
 ; Internacional; 1-0; Atlético/MG
 
-Moved Matches 
+*Moved Matches 
 Date: 8/25/1999
 
 ; Juventude    ; 1-3; Corinthians
@@ -190,7 +190,7 @@ Date: 8/28/1999
 ; Santos       ; 1-1; Vasco da Gama
 
 ; Atlético/MG  ; 4-1; Coritiba
-   Guilherme (2), Unknown, Unknown ; Unknown
+   Guilherme, Guilherme, Unknown, Unknown ; Unknown
 
 ; Gama         ; 2-3; Cruzeiro
 
@@ -203,8 +203,7 @@ Date: 8/29/1999
 ; Paraná       ; 2-1; Guarani
 ; Internacional; 0-0; Juventude
 
-Moved Matches 
-
+*Moved Matches 
 Date: 9/1/1999
 
 ; Grêmio       ; 3-4; Botafogo/SP  
@@ -231,13 +230,13 @@ Date: 9/5/1999
 ; Juventude    ; 1-2; Ponte Preta
 ; Paraná       ; 1-1; Coritiba
 
-Moved Matches 
+*Moved Matches 
 Date: 9/8/1999
 
 ; Cruzeiro     ; 1-3; Corinthians
 
 ; Botafogo/SP  ; 1-4; Atlético/MG
-   Unknown ; Guilherme (2), Unknown, Unknown
+   Unknown ; Guilherme, Guilherme, Unknown, Unknown
 
 ; Vitória      ; 1-0; Gama
 ; Internacional; 1-0; Portuguesa
@@ -297,7 +296,7 @@ Date: 8/19/1999
 ; Cruzeiro     ; 1-0; Sport        
 
 
-Moved Matches 
+*Moved Matches 
 Date: 9/22/1999
 
 ; Paraná       ; 0-1; Palmeiras
@@ -328,7 +327,7 @@ Date: 9/29/1999
 
 ; Vasco da Gama; 1-2; São Paulo
 ; Atlético/MG  ; 3-0; Flamengo
-   Guilherme (3)
+   Guilherme, Guilherme, Guilherme;
 
 ; Gama         ; 0-0; Juventude
 ; Vitória      ; 4-1; Cruzeiro
@@ -349,7 +348,7 @@ Date: 10/2/1999
    Celso ; Élson, Dodô
 
 ; Guarani      ; 1-2; Atlético/PR
-   Luís Fernando pen ; Kleber, Sandoval
+   Luís Fernando (pk) ; Kleber, Sandoval
 
 ; Portuguesa   ; 0-1; Corinthians 
 ;   Marcelinho Carioca
@@ -366,13 +365,13 @@ Date: 10/3/1999
 ; São Paulo    ; 0-0; Palmeiras
 
 ; Coritiba     ; 4-0; Grêmio
-   Cléber pen, João Santos, Joao Santos, Leonardo;
+   Cléber (pk), João Santos, Joao Santos, Leonardo;
 
 ; Cruzeiro     ; 3-0; Atlético/MG
    Alex Alves, Alex Alves, Geovani;
 
 
-Moved Matches 
+*Moved Matches 
 Date: 10/6/1999
 
 ; Juventude    ; 0-5; Portuguesa
@@ -430,7 +429,7 @@ Date: 10/13/1999
    Ramón, Ramon, Edmundo, Edmundo, Odvan ; Lindomar, Juari
 
 ; Sport        ; 1-1; Coritiba
-   Leonardo pen, Sinval (pk) 
+   Leonardo (pk); Sinval (pk) 
 
 ; Palmeiras    ; 6-0; Grêmio
    Alex, Alex, Evair, Júnior, Zé Maria, Edmílson;
@@ -451,7 +450,7 @@ Date: 10/14/1999
 Date: 10/27/1999
 
 ; Paraná       ; 4-1; Atlético/MG   
-   Washington, Washington, Hilton e Gallo
+*   Washington, Washington, Hilton, Gallo;
 
 Round: 17
 Date: 10/16/1999
@@ -471,7 +470,7 @@ Date: 10/16/1999
 Date: 10/17/1999
 
 ; Coritiba     ; 2-1; Atlético/PR
-   Basílio, Leonardo e Kelly
+   Basílio, Leonardo; Kelly
 
 ; Santos       ; 3-0; Juventude
    Dodô, Dodo, Dodo;
@@ -492,14 +491,14 @@ Date: 10/17/1999
    Ronaldinho, Ronaldinho ; Alex Alves, Djair, Marcelo Ramos
 
 
-Moved Matches 
+*Moved Matches 
 Date: 10/20/1999
 
 ; Grêmio       ; 1-0; Botafogo/RJ
    Fabinho;
 
 ; Portuguesa   ; 1-1; Vasco da Gama
-   Leandro pen ; Edmundo
+   Leandro (pk); Edmundo
 
 ; Flamengo     ; 1-1; Palmeiras
    Juan (og) ; Caio
@@ -529,7 +528,7 @@ Date: 10/24/1999
    Caçapa ; Sinval
 
 ; Vitória      ; 2-0; Paraná
-   Baiano, Fernando (pk)
+   Baiano, Fernando (pk);
 
 ; Ponte Preta  ; 2-1; Portuguesa
    Claudinho (pk), Vander ; Carlinhos
@@ -538,7 +537,7 @@ Date: 11/3/1999
 
 ; Palmeiras    ; 0-0; Guarani
 
-Moved Matches 
+*Moved Matches 
 Date: 10/27/1999
 
 ; Coritiba     ; 2-1; Palmeiras
@@ -554,7 +553,7 @@ Date: 10/30/1999
    Washington ; Wilson, França
 
 ; Botafogo/RJ  ; 3-1; Gama
-   Sandro, Sérgio Manoel e Mazinho Loyola
+*   Sandro, Sérgio Manoel e Mazinho Loyola
 
 ; Santos       ; 2-1; Grêmio
    Eduardo Marques, Dodô ; Magrão
@@ -563,29 +562,29 @@ Date: 10/30/1999
 Date: 10/31/1999
 
 ; Vasco da Gama; 2-1; Atlético/PR
-   Edmundo (2), Kelly
+   Edmundo, Edmundo; Kelly
 
 ; Guarani      ; 1-2; Vitória 
-   Valdir Souza ; Tuta (2)
+   Valdir Souza ; Tuta, Tuta
 
 ; Sport        ; 0-1; Juventude
-   Mabília
+;   Mabília
 
 ; Corinthians  ; 0-4; Atlético/MG
-   Robert, Guilherme (2), Lincoln
+;   Robert, Guilherme, Guilherme, Lincoln
 
 ; Cruzeiro     ; 2-1; Botafogo/SP
    Marcelo Ramos, Paulo Isidoro ; Jó
 
 ; Internacional; 1-0; Ponte Preta
-   Ânderson
+   Ânderson;
 
 
 *Moved Matches
 Date: 11/3/1999
 
 ; Grêmio       ; 0-3; Corinthians
-   Nenê, Luizão, Marcelinho Carioca
+;   Nenê, Luizão, Marcelinho Carioca
 
 ; Cruzeiro     ; 2-1; Vasco da Gama
    André Luiz, Valdo ; Donizete
@@ -594,19 +593,19 @@ Date: 11/3/1999
 Date: 11/7/1999
 
 ; Corinthians  ; 1-2; Ponte Preta
-   Luizão, Narcísio e Vander
+*   Luizão, Narcísio e Vander
 
 Round: 20
 Date: 11/3/1999
 
 ; São Paulo    ; 1-0; Ponte Preta
-   Rogério Ceni
+   Rogério Ceni;
 
 
 Date: 11/4/1999
 
 ; Paraná       ; 1-0; Internacional
-   Washington
+   Washington;
 
 
 Date: 11/6/1999
@@ -615,19 +614,18 @@ Date: 11/6/1999
    Paulo César, Bechara ; Gustavo
 
 ; Guarani      ; 4-0; Atlético/MG
-   Valdir Sousa, Mauro, Marcelo Souza, Renatinho
+   Valdir Sousa, Mauro, Marcelo Souza, Renatinho;
 
 ; Palmeiras    ; 6-0; Botafogo/RJ
-   Asprilla (2), Cléber, Agnaldo, Pena, Evair
-
+   Asprilla, Asprilla, Cléber, Agnaldo, Pena, Evair;
 
 Date: 11/7/1999
 
 ; Flamengo     ; 0-1; Santos
-   Dodô
+;   Dodô
 
 ; Cruzeiro     ; 5-2; Paraná 
-   Alex Alves (4) , Müller ; Ilan, Émerson
+   Alex Alves, Alex Alves, Alex Alves, Alex Alves, Müller ; Ilan, Émerson
 
 ; Gama         ; 2-1; Portuguesa
    Alexandre Gaúcho, Sorato ; Leandro
@@ -638,15 +636,14 @@ Date: 11/7/1999
 ; Coritiba     ; 1-1; Juventude
    Basílio ; Maurílio
 
-
 Round: 21 
 Date: 11/10/1999
 
 ; Juventude    ; 3-1; Flamengo 
-   Mário Tilico (2), Mabília ; Romário
+   Mário Tilico, Mário Tilico, Mabília ; Romário
 
 ; Botafogo/RJ  ; 1-0; Guarani
-   Reidner
+   Reidner;
 
 ; Vasco da Gama; 1-1; Botafogo/SP
    Edmundo ; Paulo César
@@ -654,25 +651,25 @@ Date: 11/10/1999
 ; Ponte Preta  ; 0-0; Gama
 
 ; Internacional; 1-0; Palmeiras
-   Dunga
+   Dunga;
 
 ; Corinthians  ; 3-2; Coritiba
-   Vampeta, Marcelinho Carioca, Luizão ; João Santos pen, Leonardo
+   Vampeta, Marcelinho Carioca, Luizão ; João Santos (pk), Leonardo
 
 ; Vitória      ; 0-3; São Paulo
-   Raí, Marcelinho, Jorginho
+;   Raí, Marcelinho, Jorginho
 
 ; Portuguesa   ; 2-2; Paraná
-   Washington (2) ; Leandro, Da Silva
+   Washington, Washington ; Leandro, Da Silva
 
 ; Santos       ; 3-3; Cruzeiro  
-   Deivid (2), Dodô ; Alex Alves (2), Geovanni
+   Deivid, Deivid, Dodô ; Alex Alves, Alex Alves, Geovanni
 
 ; Atlético/PR  ; 3-1; Sport
    Lucas, Kelly, Luizinho Netto ; Wallace
 
 ; Atlético/MG  ; 2-0; Grêmio
-   Cláudio Caçapa, Marques
+   Cláudio Caçapa, Marques;
 
 * 1.Corinthians     21 14  2  5 49-31 44  Qualified
 * 2.Cruzeiro        21 12  6  3 46-32 42  Qualified
@@ -702,7 +699,7 @@ Date: 11/10/1999
 *[NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1]
 
 
-Championship Playoff
+*Championship Playoff
 
 Round: 1
 
@@ -712,23 +709,23 @@ Date: 11/14/1999
 ; Guarani      ; 0-0; Corinthians
 
 ; Atlético/MG  ; 4-2; Cruzeiro
-   Guilherme, Guilherme (pen), Marques (2) ; Paulo Isidoro e Müller
+   Guilherme, Guilherme (pk), Marques, Marques; Paulo Isidoro, Müller
 
 ; Vitória      ; 5-4; Vasco da Gama
-   Artur, Fernando (3) (pen(2)), Tuta ; Viola (2), Donizete (2)
+   Artur, Fernando, Fernando (pk), Fernando (pk), Tuta ; Viola, Viola, Donizete, Donizete
 
 ; São Paulo    ; 3-2; Ponte Preta
-   Marcelinho (3) ; Claudinho, Roberto
+   Marcelinho, Marcelinho, Marcelinho; Claudinho, Roberto
 
 
-Second Legs 
+*Second Legs 
 Date: 11/21/1999
 
 ; Corinthians  ; 2-0; Guarani  
-   Marcelinho Carioca, Ricardinho
+   Marcelinho Carioca, Ricardinho;
 
 ; Cruzeiro     ; 2-3; Atlético/MG 
-   Ricardinho, Müller ; Adriano, Guilherme (2)
+   Ricardinho, Müller ; Adriano, Guilherme, Guilherme, Guilherme
 
 ; Vasco da Gama; 2-2; Vitória
    Alex Oliveira, Donizete ; Tuta, Cláudio
@@ -737,7 +734,7 @@ Date: 11/21/1999
    Adrianinho, Narcízio ; Fábio Aurélio
 
 
-Third Legs 
+*Third Legs 
 Date: 11/24/1999
 
 ; Corinthians  ; 1-1; Guarani  
@@ -748,16 +745,16 @@ Date: 11/24/1999
 
 ; Ponte Preta  ; 2-3; São Paulo
 
-Second Round:
+*Second Round:
 
-First Legs 
+*First Legs 
 Date: 11/28/1999
 
-São Paulo     2-3 Corinthians
-   Raí, Edmílson ; Nenê, Ricardinho, Marcelinho Carioca (pen)
+; São Paulo    ; 2-3; Corinthians
+   Raí, Edmílson ; Nenê, Ricardinho, Marcelinho Carioca (pk)
 
 ; Atlético/MG  ; 3-0; Vitória
-   Guilherme (2), Belletti
+   Guilherme, Guilherme, Belletti;
 
 *Second Legs 
 Date: 12/5/1999
@@ -766,295 +763,245 @@ Date: 12/5/1999
    Ricardinho, Edílson ; Vagner
 
 ; Vitória      ; 2-1; Atlético/MG 
-   Cláudio, Pedro Paulo ; Guilherme (pen)
+   Cláudio, Pedro Paulo ; Guilherme (pk
 
 
-Third Leg 
+*Third Leg 
 Date: 12/8/1999
 
 ; Vitória      ; 0-3; Atlético/MG
-   Marques, Guilherme (2)
+;   Marques, Guilherme, Guilherme
 
 
-Final
+Round: Final
 
-First Leg 
+*First Leg 
 Date: 12/12/1999
 
 ; Atlético/MG  ; 3-2; Corinthians
-  Guilherme 1, 28, 43 - Vampeta 39, Luizão 69
+  Guilherme 1, Guilherme 28, Guilherme 43; Vampeta 39, Luizão 69
 
 
-Second Leg 
+*Second Leg 
 Date: 12/19/1999
 
 ; Corinthians  ; 2-0; Atlético/MG   
-  Luizão 29, 59
+  Luizão 29, Luizao 59;
 
 
-Third Leg 
+*Third Leg 
 Date: 12/22/1999
 
-Corinthians   0-0 Atlético/MG
-22/dezembro/1999 
-CORINTHIANS 0X0 ATLÉTICO-MG 
-Local: Morumbi (São Paulo-SP); 
-Juiz: Carlos Eugênio Simon (RS); 
-Público Presente: não divulgado; 
-Cartões Amarelos: Caçapa, Rincón, Marcelinho, Edílson, Galván, Gilmar e Gallo;
-Expulsão: Belletti; 
-CORINTHIANS: Dida, Índio, João Carlos, Márcio Costa e Kléber; Gilmar (Edu), Vampeta (Marcos 
-Senna), Rincón e Ricardinho; Marcelinho (Dinei) e Edílson.
-Técnico: Oswaldo de Oliveira. 
-ATLÉTICO: Velloso, Bruno, Galván, Caçapa e Ronildo; Gallo, Valdir (Mancini), Belletti e Robert 
-(Adriano); Lincoln (Hernani) e Guilherme. 
-Técnico: Humberto Ramos 
-Corinthians champions of Brazil 1999.
+*Corinthians   0-0 Atlético/MG
+*22/dezembro/1999 
+*CORINTHIANS 0X0 ATLÉTICO-MG 
+*Local: Morumbi (São Paulo-SP); 
+*Juiz: Carlos Eugênio Simon (RS); 
+*Público Presente: não divulgado; 
+*Cartões Amarelos: Caçapa, Rincón, Marcelinho, Edílson, Galván, Gilmar e Gallo;
+*Expulsão: Belletti; 
+*CORINTHIANS: Dida, Índio, João Carlos, Márcio Costa e Kléber; Gilmar (Edu), Vampeta (Marcos 
+*Senna), Rincón e Ricardinho; Marcelinho (Dinei) e Edílson.
+*Técnico: Oswaldo de Oliveira. 
+*ATLÉTICO: Velloso, Bruno, Galván, Caçapa e Ronildo; Gallo, Valdir (Mancini), Belletti e Robert 
+*(Adriano); Lincoln (Hernani) e Guilherme. 
+*Técnico: Humberto Ramos 
+*Corinthians champions of Brazil 1999.
+*
+*Corinthians and Atlético-MG qualified to Copa Libertadores 2000
+*
+*Médias de rebaixamento:
+*
+*[computation: points 1998 divided by 23 plus points 1999 divided by 21; total
+* divided by 2; so average of points over last two seasons, both equally
+* weighted]
+*
+*22.Botafogo/SP          - 1,00  Relegated
+*21.Juventude            - 1,09  Relegated
+*20.Paraná               - 1,09  Relegated
+*19.Gama                 - 1,24  Relegated
+*------------------------------
+*18.Botafogo/RJ          - 1,25
+*17.Internacional        - 1,27
+*   Sport Recife         - 1,27
 
-Corinthians and Atlético-MG qualified to Copa Libertadores 2000
+*NB: Gama have protested their relegation (caused by the awards of the
+*    matches of São Paulo against Internacional and Botafogo/RJ).
 
-Médias de rebaixamento:
 
-[computation: points 1998 divided by 23 plus points 1999 divided by 21; total
- divided by 2; so average of points over last two seasons, both equally
- weighted]
-
-22.Botafogo/SP          - 1,00  Relegated
-21.Juventude            - 1,09  Relegated
-20.Paraná               - 1,09  Relegated
-19.Gama                 - 1,24  Relegated
-------------------------------
-18.Botafogo/RJ          - 1,25
-17.Internacional        - 1,27
-   Sport Recife         - 1,27
-
-NB: Gama have protested their relegation (caused by the awards of the
-    matches of São Paulo against Internacional and Botafogo/RJ).
-
-Topscorers:
-28 Guilherme (Atlético-MG)
-22 Alex Alves (Cruzeiro)
-21 Luizão (Corinthians)
-15 Marcelinho (Corinthians)
-13 Dodô (São Paulo), França (São Paulo), Edmundo (Vasco)
-12 Romário (Flamengo)
-10 Washington (Paraná), Marcelinho (São Paulo), Cláudio (Vitória)
- 9 Kléber (Atlético-PR)
- 8 Marques (Atlético-MG), Donizete (Vasco), Kleber (Vitória)
- 7 Kelly (Atlético-PR), Ricardinho (Corinthians), Cléber (Coritiba), Evair (Palmeiras)
- 6 Adriano e Lucas (Atlético-PR), Sinval (Coritiba), Marcelo Ramos (Cruzeiro), Paulo
-Nunes (Palmeiras), Vander (Ponte Preta), Alexandre (Portuguesa), Artur, Baiano,
-Fernando (Vitória)
- 5 Sandro, Valdir (Botafogo-RJ), Paulo César (Botafogo-SP), Edílson e Nenê (Corinthians),
-Leonardo (Coritiba), Paulo Isidoro (Cruzeiro) Fábio Baiano (Flamengo), Sorato (Gama), 
-Marcinho (Guarani), Magrão e Zé Alcino (Grêmio), Luís Fernando (Guarani), Celso (Internacional), 
-Cris (Juventude), Alex (Palmeiras), Narcízio (Ponte Preta)
- 4 Belleti e Robert (Atlético-MG), Sérgio Manoel (Botafogo-RJ), Jô e Wagner (Botafogo-SP), João 
-Santos (Coritiba), Ricardinho (Cruzeiro), Romualdo (Gama), Ronaldinho (Grêmio), Renatinho e 
-Valdir Souza (Guarani), Leandro (Portuguesa), Ramón e Viola (Vasco)
- 3 Alaor (Botafogo-SP), Vampeta (Corinthians), Djair (Cruzeiro), Muller (Cruzeiro),
-Caio (Flamengo), Alexandre Gaúcho e Mazinho Loyola (Gama), Cleison (Grêmio), Rubens Cardoso e 
-Silvinho (Guarani), Hurtado (Internacional), Flávio, Mabília, Maurílio (Juventude),
-Zinho (Palmeiras), Cláudio Régis (Ponte Preta), Ailton e Da Silva (Portuguesa), Marcelinho,
-Raí (São Paulo), Juninho Petrolina e Leonardo (Sport), Tuta (Vitória).
- 2 Adriano, Gallo, Lincoln, Marques (Atlético-MG), Darci (Botafogo-RJ), Bechara, Palhinha, Rui
-Barbosa e Zé Afonso (Botafogo-SP), Basílio, Darci e Jackson (Coritiba), Geovanni (Cruzeiro),
-Leonardo Inácio, Luiz Alberto e Marcelo (Flamengo), Finazzi e Juari (Gama), Agnaldo (Grêmio), 
-Marinho e Mauro (Guarani), Ânderson, Christian e Lúcio (Internacional), Mário Tilico (Juventude), 
-Asprilla, César Sampaio, Rogério (Palmeiras), Ilan e Reginaldo Vital (Paraná), Mineiro, Misso, 
-Piá e Roberto (Ponte Preta), Carlinhos, Dimba e Fabrício (Portuguesa), Deivid e
-Rodrigão (Santos), Carlos Miguel, Edmílson, Émerson, Souza, Vagner e Wilson (São Paulo), 
-Márcio (Sport), Donizete, Juninho, gilberto (Vasco), Artur (Vitória)
- 1 Cláudio Caçapa, Curê, Mancine, Wellington (Atlético-MG), Alberto Fabiano, Gustavo, 
-Kléberson, Leonardo, Luizinho Netto, Sandoval e Vanin (Atlético-PR), Clóvis, Jorge Luiz, Sandro, 
-Augusto, Reidner, Rodrigo, Zé Carlos (Botafogo-RJ), Bell, Carlão, Índio (Botafogo-SP), César 
-Prates, Fernando Baiano, Jõao Carlos, Kléber e Márcio Costa (Corinthians), Betinho, Reginaldo 
-Araúgo, yan (Coritiba), André Luiz, Donizeth, Amorim, Espínola, Müller, Paulo Isidoro, 
-Valdo (Cruzeiro), Beto, Célio Silva, Leandro Machado, Rodrigo Mendes (Flamengo), Caçapa, Gérson, 
-Lindomar, Nem (Gama), Émerson, Fabinho, Macedo, Scheidt (Grêmio), Everaldo, Gílson Batata,
-Marcelo Souza, Rodrigo Jaú (Guarani), Claiton, Denílson, Dunga, Zezinho (Internacional), Índio, 
-Mirandnha (Juventude), Agnaldo, Cléber, Edmílson, Júnior, Oséas, Pena, Roque Júnior, Zé
-Maria (Palmeiras), Émerson, Fernando Diniz, Hélcio, Hilton, Márcio, Milton do ó, Pingo (Paraná), 
-Adrianinho, Fabiano, Reinaldo, Samuel, Vaguinho (Ponte Preta), Émerson, Evandro, França, Pintado, 
-Simão (Portuguesa), Aílton, Aristizábal, Cláudio, Eduardo, Eduardo Marques, Élson, Fernando 
-Fumagalli, Gustavo, Jean (Santos), Ânderson, Fabiano, Fábio Aurélio, Jorginho, Márcio Santos, 
-Rogério Ceni, Sandro Hiroshi (São Paulo), Irani, Juninho Rodrigues, Lico, Nildo, Reinaldo, 
-Wallace (Sport), Alex Oliveira, Henrique, Mauro Galvão, Odvan, Paulo, César, Paulo
-Miranda (Vasco), Leandro, Pedro Paulo (Vitória)
-
-Own goals:
-Edu Dracena (Guarani), Juan (Flamengo) Fabrício (Portuguesa), Enciso (Internacional), Cláudio 
-Caçapa (Atlético-MG), Márcio (Sport), Luizinho Netto (Atlético-PR), Júlio César (Botafogo-SP)
-
-Qualification Copa Libertadores 2000:
-
-Playoff between teams finishing 9th-16th:
-
-NB: as Gama are relegated, they are not eligible, their place is taken
-    by Grêmio; as Palmeiras are already qualified for the Copa
-    Libertadores 2000 (as holders), their place is taken by the winners 
-    of a playoff between Portuguesa and Sport Recife.
-
-Qualifying Playoff
-First Leg 
-Date: 11/13/1999
-
-Sport         3-1 Portuguesa
-  [Leonardo, Émerson, Nildo ; Émerson)
-Second Leg 
-Date: 11/16/1999
-
-Portuguesa    3-0 Sport
-  [Leandro (3)]
- 
-First Round: 
- 
-First Legs 
-
-Date: 11/13/1999
-
-Grêmio        2-1 Santos
-  [Cleison, Agnaldo ; Aílton]
-Internacional 1-0 Flamengo
-  [Elivélton]
-Botafogo/RJ   1-1 Coritiba
-  [Caio, João Santos]
-
-Date: 11/19/1999
-
-Portuguesa    3-1 Atlético/PR
-  [Evandro, Alex Afonso, Leandro ; Lucas]
- 
-Second Legs
-
-Date: 11/17/1999
-
-Santos        0-1 Grêmio    
-  [Itaqui] 
-Flamengo      1-1 Internacional
-  [Juan ; Fabiano]
-Coritiba      3-1 Botafogo/RJ
-  [Leonardo, Basílio, João Santos ; Sérgio Manoel]
-
-Date: 11/22/1999
-
-Atlético/PR   2-0 Portuguesa
-  [Gustavo, Lucas (pen)]
- 
-Second Round:
-[winners first round and losers first round championship playoff]
- 
-First Legs
-
-Date: 11/20/1999
-
-Grêmio        1-1 Internacional
-  [Ronaldinho ; Almir]
-
-Date: 11/25/1999
-
-Coritiba      1-4 Atlético/PR
-  [Carlos Matos ; Cocito, Adriano, Luizinho Neto, Kléberson]
-
-Date: 11/27/1999
-
-Ponte Preta   3-2 Vasco da Gama
-  [Régis, Misso, Adrianinho ; Alex Oliveira, Donizete]
-
-Date: 11/28/1999
-
-Guarani       3-1 Cruzeiro
-  [Rubens Cardos, Marcinho, Luiz Fernando Martinez ; Alex Alves]
- 
-Second Legs
-
-Date: 11/25/1999
-
-Internacional 1-1 Grêmio           [Internacional qualified on season record]
-  [Almir ; Guilherme]
-
-Date: 11/28/1999
-
-Atlético/PR   1-2 Coritiba
-  [Kelly ; Leonardo, Reginaldo Araújo]
-
-Date: 12/1/1999
-
-Vasco da Gama 2-1 Ponte Preta      [Vasco da Gama qualified on season record]
-  [Donizete, Edmundo ; Ronaldão]
-Cruzeiro      3-0 Guarani   
-  [Marcelo Ramos, Valdo, Paulo Isidoro]
- 
-Third Round:
- 
-First Legs
-
-Date: 12/1/1999
-
-Internacional 1-1 Atlético/PR
-  [Ronaldo ; Kléber]
-
-Date: 12/4/1999
-
-Vasco da Gama 3-1 Cruzeiro
-  [Edmundo, Viola (2) ; Müller]
- 
-Second Legs
-
-Date: 12/4/1999
-
-Atlético/PR   2-1 Internacional
-  [Kléber, Gustavo ; Elivélton]
-
-Date: 12/8/1999
-
-Cruzeiro      4-2 Vasco da Gama
-  [Valdo, Müller, Ricardinho, Paulo Isidoro ; Viola, Alex Oliveira]
- 
-Fourth Round:
- 
-First Legs 
-Date: 12/11/1999
-
-Atlético/PR   4-2 São Paulo
-  [Adriano (2), Gustavo, Kelly ; Jaques, Wilson]
-Cruzeiro      3-1 Vitória  
-  [Ricardinho, Alex Alves, Müller ; Cláudio]
- 
-Second Legs 
-Date: 12/16/1999
-
-São Paulo     2-1 Atlético/PR   
-  [França (pen), Leonardo (contra) ; Lucas]
-Vitória       1-2 Cruzeiro
-  [Manoel ; De la Cruz, Paulo Isidoro]
- 
-Final for Fourth Copa Libertadores Place
- 
-First Leg 
-Date: 12/18/1999
-
-Atlético/PR   3-0 Cruzeiro
-  [Lucas (3)]
- 
-Second Leg 
-Date: 12/22/1999
-
-Cruzeiro      2-1 Atlético/PR
-  [Alex Alves (2) ; Adriano]
- 
-Date: 12/20/1999 
-CRUZEIRO 2X1 ATLÉTICO-PR
-Local: Iineirão (Belo Horizonte-MG); 
-Juiz: Oscar Roberto Godoi 
-Público Presente: 31.476 
-Renda: R$ 42.000
-Cartões Amarelos: Donizete Oliveira, Alex Alves, Alberto,Fabiano,Lucas 
-Expulsão: Vanin
-CRUZEIRO: André, De la Cruz, Cris (Donizete Amorim), Marcelo Djian, Espínola (Paulo Isidoro);
-Donizete Oliveira, Ricardinho, Valdo, Alex Alves, Marcelo Ramos. Técnico: Paulo Autuori
-ATLÉTICO-PR: Flávio, Alberto, Gustavo, Leonardo, Vanin, Fabiano (Marcus Vinícius), Axel, Adriano,
-Kelly, Sandoval (Kléberson), Lucas (Kléber). Técnico: Oswaldo Alvarez.
+*Own goals:
+*Edu Dracena (Guarani), Juan (Flamengo) Fabrício (Portuguesa), Enciso (Internacional), Cláudio 
+*Caçapa (Atlético-MG), Márcio (Sport), Luizinho Netto (Atlético-PR), Júlio César (Botafogo-SP)
+*
+*Qualification Copa Libertadores 2000:
+*
+*Playoff between teams finishing 9th-16th:
+*
+*NB: as Gama are relegated, they are not eligible, their place is taken
+*    by Grêmio; as Palmeiras are already qualified for the Copa
+*    Libertadores 2000 (as holders), their place is taken by the winners 
+*    of a playoff between Portuguesa and Sport Recife.
+*
+*Qualifying Playoff
+*First Leg 
+*Date: 11/13/1999
+*
+*Sport         3-1 Portuguesa
+*  [Leonardo, Émerson, Nildo ; Émerson)
+*Second Leg 
+*Date: 11/16/1999
+*
+*Portuguesa    3-0 Sport
+*  Leandro, Leandro, Leandro;
+* 
+*First Round: 
+* 
+*First Legs 
+*
+*Date: 11/13/1999
+*
+*Grêmio        2-1 Santos
+*  [Cleison, Agnaldo ; Aílton]
+*Internacional 1-0 Flamengo
+*  [Elivélton]
+*Botafogo/RJ   1-1 Coritiba
+*  [Caio, João Santos]
+*
+*Date: 11/19/1999
+*
+*Portuguesa    3-1 Atlético/PR
+*  [Evandro, Alex Afonso, Leandro ; Lucas]
+* 
+*Second Legs
+*
+*Date: 11/17/1999
+*
+*Santos        0-1 Grêmio    
+*  [Itaqui] 
+*Flamengo      1-1 Internacional
+*  [Juan ; Fabiano]
+*Coritiba      3-1 Botafogo/RJ
+*  [Leonardo, Basílio, João Santos ; Sérgio Manoel]
+*
+*Date: 11/22/1999
+*
+*Atlético/PR   2-0 Portuguesa
+*  [Gustavo, Lucas (pen)]
+* 
+*Second Round:
+*[winners first round and losers first round championship playoff]
+* 
+*First Legs
+*
+*Date: 11/20/1999
+*
+*Grêmio        1-1 Internacional
+*  [Ronaldinho ; Almir]
+*
+*Date: 11/25/1999
+*
+*Coritiba      1-4 Atlético/PR
+*  [Carlos Matos ; Cocito, Adriano, Luizinho Neto, Kléberson]
+*
+*Date: 11/27/1999
+*
+*Ponte Preta   3-2 Vasco da Gama
+*  [Régis, Misso, Adrianinho ; Alex Oliveira, Donizete]
+*
+*Date: 11/28/1999
+*
+*Guarani       3-1 Cruzeiro
+*  [Rubens Cardos, Marcinho, Luiz Fernando Martinez ; Alex Alves]
+* 
+*Second Legs
+*
+*Date: 11/25/1999
+*
+*Internacional 1-1 Grêmio           [Internacional qualified on season record]
+*  [Almir ; Guilherme]
+*
+*Date: 11/28/1999
+*
+*Atlético/PR   1-2 Coritiba
+*  [Kelly ; Leonardo, Reginaldo Araújo]
+*
+*Date: 12/1/1999
+*
+*Vasco da Gama 2-1 Ponte Preta      [Vasco da Gama qualified on season record]
+*  [Donizete, Edmundo ; Ronaldão]
+*Cruzeiro      3-0 Guarani   
+*  [Marcelo Ramos, Valdo, Paulo Isidoro]
+* 
+*Third Round:
+* 
+*First Legs
+*
+*Date: 12/1/1999
+*
+*Internacional 1-1 Atlético/PR
+*  [Ronaldo ; Kléber]
+*
+*Date: 12/4/1999
+*
+*Vasco da Gama 3-1 Cruzeiro
+*  [Edmundo, Viola, Viola ; Müller]
+* 
+*Second Legs
+*
+*Date: 12/4/1999
+*
+*Atlético/PR   2-1 Internacional
+*  [Kléber, Gustavo ; Elivélton]
+*
+*Date: 12/8/1999
+*
+*Cruzeiro      4-2 Vasco da Gama
+*  [Valdo, Müller, Ricardinho, Paulo Isidoro ; Viola, Alex Oliveira]
+* 
+*Fourth Round:
+* 
+*First Legs 
+*Date: 12/11/1999
+*
+*Atlético/PR   4-2 São Paulo
+*  [Adriano, Adriano, Gustavo, Kelly ; Jaques, Wilson]
+*Cruzeiro      3-1 Vitória  
+*  [Ricardinho, Alex Alves, Müller ; Cláudio]
+* 
+*Second Legs 
+*Date: 12/16/1999
+*
+*São Paulo     2-1 Atlético/PR   
+*  [França (pen), Leonardo (contra) ; Lucas]
+*Vitória       1-2 Cruzeiro
+*  [Manoel ; De la Cruz, Paulo Isidoro]
+* 
+*Final for Fourth Copa Libertadores Place
+* 
+*First Leg 
+*Date: 12/18/1999
+*
+*Atlético/PR   3-0 Cruzeiro
+*  Lucas, Lucas, Lucas;
+* 
+*Second Leg 
+*Date: 12/22/1999
+*
+*Cruzeiro      2-1 Atlético/PR
+*  [Alex Alves, Alex Alves ; Adriano]
+* 
+*Date: 12/20/1999 
+*CRUZEIRO 2X1 ATLÉTICO-PR
+*Local: Iineirão (Belo Horizonte-MG); 
+*Juiz: Oscar Roberto Godoi 
+*Público Presente: 31.476 
+*Renda: R$ 42.000
+*Cartões Amarelos: Donizete Oliveira, Alex Alves, Alberto,Fabiano,Lucas 
+*Expulsão: Vanin
+*CRUZEIRO: André, De la Cruz, Cris (Donizete Amorim), Marcelo Djian, Espínola (Paulo Isidoro);
+*Donizete Oliveira, Ricardinho, Valdo, Alex Alves, Marcelo Ramos. Técnico: Paulo Autuori
+*ATLÉTICO-PR: Flávio, Alberto, Gustavo, Leonardo, Vanin, Fabiano (Marcus Vinícius), Axel, Adriano,
+*Kelly, Sandoval (Kléberson), Lucas (Kléber). Técnico: Oswaldo Alvarez.
  
 *Topscorer: Lucas (Atlético-PR) 5,goals
 *Atlético/PR qualified.

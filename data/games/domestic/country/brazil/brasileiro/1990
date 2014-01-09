@@ -1,21 +1,20 @@
 Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1990.htm
 Season: 1990
+home-first
 
-First Phase
-
-First Stage
-
-Groups A and B
+*First Phase
+*First Stage
+*Groups A and B
 
 Round: 1
 Date: 8/18/1990
 
-;; Internacional-SP;  2-1  Bahia
+; Internacional-SP;  2-1;  Bahia
   Nando, Formiga; Naldinho
 
 ; Náutico          ; 1-0;  Santos
-  Barros
+  Barros;
 
 ; São Paulo        ; 1-2;  Atlético-MG
   Diego Aguirre; Tato, Giberto Costa
@@ -27,81 +26,74 @@ Date: 8/19/1990
   Amauri; Wílson
 
 ; Cruzeiro         ; 1-0;  Botafogo
-  Paulinho
+  Paulinho;
 
 ; Fluminense       ; 3-0;  Portuguesa
-  Rinaldo (2), Renato
+  Rinaldo, Rinaldo, Renato;
 
 ; Grêmio           ; 3-0;  Corinthians
-  Caio (3)
+  Caio, Caio, Caio;
 
 
 Date: 8/30/1990
 
 ; Palmeiras        ; 1-0;  Internacional-RS
-  Betinho
-
+  Betinho;
 
 Date: 9/5/1990
 
 ; Flamengo         ; 1-2;  Bragantino
   Gaúcho; Tiba, João Santos
 
-
 Date: 9/26/1990
 
 ; Vitória          ; 2-0;  Vasco da Gama
-  Júnior, André Carpes
-
+  Júnior, André Carpes;
 
 Round: 2
-
 Date: 8/25/1990
 
 ; Vasco da Gama    ; 0-1;  Internacional-SP
-  Márcio Florêncio
+;  Márcio Florêncio
 
 ; Corinthians      ; 0-1;  Cruzeiro
-  Paulão
+;  Paulão
 
 ; Portuguesa       ; 0-0;  Vitória
 
 Date: 8/26/1990
 
 ; Botafogo         ; 0-1;  São José
-  Peu
+;  Peu
 
 ; Goiás            ; 1-0;  Náutico
-  Túlio
+  Túlio;
 
-;; Internacional-RS;  0-1  Grêmio
-  Nílson
+; Internacional-RS;  0-1;  Grêmio
+;  Nílson
 
 ; Bragantino       ; 1-1;  Palmeiras
   João Santos; Toninho
 
-
 Date: 8/29/1990
 
 ; Bahia            ; 1-0;  Flamengo
-  Charles
+  Charles;
 
-;; Atlético-MG;       4-2  Fluminense
-  Gérson (2), Éder, Paulo Roberto Prestes; Rinaldo, Macula
+; Atlético-MG;       4-2;  Fluminense
+  Gérson, Gerson, Éder, Paulo Roberto Prestes; Rinaldo, Macula
 
 ; Santos           ; 1-0;  São Paulo
-  César Sampaio
-
+  César Sampaio;
 
 Round: 3
-
 Date: 9/1/1990
 
 ; Cruzeiro         ; 1-0;  Portuguesa
-  Luís Fernando Flores
+  Luís Fernando Flores;
 
 ; Flamengo         ; 2-2;  Goiás
-  Gaúcho, Bobô; Guga (2)
+  Gaúcho, Bobô; Guga, Guga
 
 
 Date: 9/2/1990
@@ -109,15 +101,15 @@ Date: 9/2/1990
 ; Vitória          ; 0-0;  Corinthians
 
 ; São Paulo        ; 1-0;  Bragantino
-  Diego Aguirre
+  Diego Aguirre;
 
 ; Fluminense       ; 1-1;  Internacional-RS
   Renato; Célio
 
 ; Náutico          ; 0-0;  Bahia
 
-;; Internacional-SP;  1-0  Botafogo
-  Marco Antônio
+; Internacional-SP;  1-0;  Botafogo
+  Marco Antônio;
 
 ; Palmeiras        ; 0-0;  Santos
 
@@ -133,15 +125,13 @@ Date: 9/7/1990
 ; Goiás            ; 2-2;  Cruzeiro
   Luvanor, Lira; Luís Fernando Flores, Adílson
 
-
 Date: 9/8/1990
 
 ; Botafogo         ; 1-1;  Grêmio
   Valdeir; Caio
 
 ; Santos           ; 2-0;  São José
-  Ney, Almir
-
+  Ney, Almir;
 
 Date: 9/9/1990
 
@@ -153,26 +143,23 @@ Date: 9/9/1990
 ; Corinthians      ; 2-1;  Palmeiras
   Neto, Wílson Manoel; Betinho
 
-;; Internacional-RS;  3-3  Flamengo
+; Internacional-RS;  3-3;  Flamengo
   Edu Lima, Alberto, Chiquinho; Gaúcho, Renato Gaúcho, Uidemar
 
 ; Bragantino       ; 2-1;  Internacional-SP
   Tiba, Sílvio; Ribamar
 
-;; Atlético-MG;       1-0  Náutico
-  Gérson
+; Atlético-MG;       1-0;  Náutico
+  Gérson;
 
 ; Bahia            ; 0-1;  Vitória
-  Júnior
-
+;  Júnior
 
 Round: 5
-
 Date: 9/15/1990
 
 ; Fluminense       ; 5-2;  Santos
-  Rinaldo (2), Edemílson (2), Luciano; Serginho (2)
-
+  Rinaldo, Rinaldo, Edemílson, Edemílson, Luciano; Serginho, Serginho
 
 Date: 9/16/1990
 
@@ -180,42 +167,40 @@ Date: 9/16/1990
   Eugênio; Neto, Tupãzinho
 
 ; São Paulo        ; 0-1;  Goiás
-  Túlio
+;  Túlio
 
 ; Flamengo         ; 1-0;  Vasco da Gama
-  Nélio
+  Nélio;
 
 ; Grêmio           ; 0-1;  Bragantino
-  Ivair
+;  Ivair
 
 ; Vitória          ; 1-1;  Atlético-MG
   Missinho; Giberto Costa
 
 ; Náutico          ; 2-1;  Botafogo
-  Bizu (2); Washington
+  Bizu, Bizu; Washington
 
 ; Cruzeiro         ; 2-0;  Internacional-RS
-  Hêider (2)
+  Hêider, Heider;
 
-;; Internacional-SP;  1-1  Portuguesa
+; Internacional-SP;  1-1;  Portuguesa
   Pecos; Vladimir
 
 ; Palmeiras        ; 1-2;  Bahia
   Mirandinha; Charles, Naldinho
 
-
 Round: 6
-
 Date: 9/19/1990
 
 ; Portuguesa       ; 2-2;  Grêmio
   Vágner Mancini, Cristóvão; Caio, Assis
 
 ; Bragantino       ; 0-1;  Náutico
-  Nivaldo
+;  Nivaldo
 
 ; Corinthians      ; 1-0;  Fluminense
-  Antônio Carlos
+  Antônio Carlos;
 
 ; Botafogo         ; 0-0;  Vitória
 
@@ -223,24 +208,22 @@ Date: 9/19/1990
   Sorato; Ramón
 
 ; Bahia            ; 3-0;  São José
-  Charles (3)
+  Charles, Charles, Charles;
 
 ; Goiás            ; 3-0;  Internacional-SP
-  Guga (2), Niltinho
+  Guga, Guga, Niltinho;
 
-;; Atlético-MG;       1-0  Palmeiras
-  Marquinhos
+; Atlético-MG;       1-0;  Palmeiras
+  Marquinhos;
 
 ; Santos           ; 0-0;  Flamengo
 
 Date: 9/20/1990
 
-;; Internacional-RS;  1-2  São Paulo
+; Internacional-RS;  1-2;  São Paulo
   Letelier; Raí, Ronaldão
 
-
 Round: 7
-
 Date: 9/22/1990
 
 ; Palmeiras        ; 1-3;  Portuguesa
@@ -251,7 +234,6 @@ Date: 9/22/1990
 ; Flamengo         ; 1-1;  Atlético-MG
   Renato Gaúcho; Gérson
 
-
 Date: 9/23/1990
 
 ; São Paulo        ; 1-1;  Corinthians
@@ -261,7 +243,7 @@ Date: 9/23/1990
   Léo; Letelier
 
 ; Fluminense       ; 0-1;  Botafogo
-  Valdeir
+;  Valdeir
 
 ; Vitória          ; 1-1;  Goiás
   Beto; Guga
@@ -269,30 +251,27 @@ Date: 9/23/1990
 ; Grêmio           ; 1-1;  Vasco da Gama
   Assis; Bismarck
 
-;; Internacional-SP;  0-0  Santos
+; Internacional-SP;  0-0;  Santos
 
 ; São José         ; 0-1;  Bragantino
-  Franklin
-
+;  Franklin
 
 Round: 8
-
 Date: 9/29/1990
 
 ; Bahia            ; 2-2;  São Paulo
   Charles, Jorginho; Diego Aguirre, Alcindo
 
-
 Date: 9/30/1990
 
 ; Corinthians      ; 1-0;  Internacional-SP
-  Paulo Sérgio
+  Paulo Sérgio;
 
 ; Portuguesa       ; 2-2;  São José
   Vágner Mancini, Arnaldo; Vânder Luís, Henrique
 
 ; Botafogo         ; 1-0;  Flamengo
-  Vivinho
+  Vivinho;
 
 ; Fluminense       ; 1-1;  Bragantino
   Edemílson; Barbosa
@@ -300,13 +279,13 @@ Date: 9/30/1990
 ; Vasco da Gama    ; 1-1;  Náutico
   Jorge Luís; Buião
 
-;; Atlético-MG;       2-0  Cruzeiro
-  Gilberto Costa, Moacir
+; Atlético-MG;       2-0;  Cruzeiro
+  Gilberto Costa, Moacir;
 
 ; Goiás            ; 0-2;  Palmeiras
-  Careca (2)
+;  Careca, Careca
 
-;; Internacional-RS;  0-0  Vitória
+; Internacional-RS;  0-0;  Vitória
 
 Date: 10/1/1990
 
@@ -319,10 +298,10 @@ Date: 10/4/1990
   Renato Gaúcho; Paulo Sérgio, Tupãzinho
 
 ; Vitória          ; 1-0;  Bragantino
-  Júnior
+  Júnior;
 
 ; Grêmio           ; 2-0;  Goiás
-  Maurício, Darci
+  Maurício, Darci;
 
 ; Fluminense       ; 1-4;  Bahia
   Alexandre Torres; Naldinho, Charles, Gil, Luís Henrique
@@ -331,7 +310,7 @@ Date: 10/4/1990
   Bizu, Léo; Arnaldo, Capitão
 
 ; Palmeiras        ; 0-1;  Botafogo
-  Juninho
+;  Juninho
 
 ; São Paulo        ; 0-0;  Vasco da Gama
 
@@ -339,49 +318,46 @@ Date: 10/4/1990
 
 Date: 10/17/1990
 
-;; Internacional-SP;  1-2  Internacional-RS
+; Internacional-SP;  1-2;  Internacional-RS
   Ribamar; Edu Lima, Alberto
-
 
 Date: 10/26/1990
 
 ; Cruzeiro         ; 1-1;  Santos
   Édson; Edu Marangon
 
-
 Round: 10
-
 Date: 10/7/1990
 
 ; Corinthians      ; 1-0;  Náutico
-  Neto
+  Neto;
 
 ; Portuguesa       ; 0-2;  Flamengo
-  Gaúcho, Renato Gaúcho
+;  Gaúcho, Renato Gaúcho
 
 ; Bahia            ; 1-2;  Grêmio
   Naldinho; Darci, Jorginho (own goal)
 
-;; Internacional-RS;  1-1  São José
+; Internacional-RS;  1-1;  São José
   Luís Fernando; Henrique
 
-;; Atlético-MG;       1-0  Internacional-SP
-  Gilberto Costa
+; Atlético-MG;       1-0;  Internacional-SP
+  Gilberto Costa;
 
 ; Vasco da Gama    ; 2-1;  Palmeiras
   Sorato, Bismarck; Raniélli
 
 ; Botafogo         ; 1-0;  São Paulo
-  Valdeir
+  Valdeir;
 
 ; Santos           ; 3-0;  Vitória
-  Paulinho, Luís Carlos, Índio
+  Paulinho, Luís Carlos, Índio;
 
 ; Bragantino       ; 3-0;  Cruzeiro
-  Mazinho, Barbosa, Carlos Augusto
+  Mazinho, Barbosa, Carlos Augusto;
 
 ; Goiás            ; 3-0;  Fluminense
-  Túlio (2), Rubens Carlos
+  Túlio, Tulio, Rubens Carlos;
 
 
 
@@ -409,7 +385,7 @@ Date: 10/7/1990
 * 9-São José            10  1  5  4   6-12   7
 *10-Palmeiras           10  2  2  6   8-12   6
 
-Second Stage
+*Second Stage
 
 Group: A
 
@@ -426,17 +402,15 @@ Date: 10/10/1990
 Date: 10/11/1990
 
 ; Santos           ; 1-0;  Portuguesa
-  Axel
+  Axel;
 
-;; Atlético-MG;       2-1  Internacional-RS
+; Atlético-MG;       2-1;  Internacional-RS
   Altair, Gilberto Costa; Luís Fernando
 
 ; Botafogo         ; 0-1;  Bahia
-  Gil
-
+;  Gil
 
 Round: 2
-
 Date: 10/14/1990
 
 ; Corinthians      ; 0-0;  Bahia
@@ -447,47 +421,42 @@ Date: 10/14/1990
   João Santos; Arnaldo
 
 ; Vasco da Gama    ; 3-0;  Internacional-RS
-  Bebeto, Bismarck, Luciano
+  Bebeto, Bismarck, Luciano;
 
 ; Botafogo         ; 2-0;  Goiás
-  Vivinho, Wílson Gottardo
-
+  Vivinho, Wílson Gottardo;
 
 Round: 3
-
 Date: 10/21/1990
 
 ; Santos           ; 1-0;  Bahia
-  Almir
+  Almir;
 
 ; Corinthians      ; 0-0;  Portuguesa
 
 ; Bragantino       ; 1-1;  Atlético-MG
   João Santos; Nílton
 
-;; Internacional-RS;  2-0  Goiás
-  Hamílton, Célio
-
+; Internacional-RS;  2-0;  Goiás
+  Hamílton, Célio;
 
 Date: 11/6/1990
 
 ; Botafogo         ; 2-2;  Vasco da Gama
   Wílson Gottardo, Gílson Jáder; Bismarck, Sorato
 
-
 Round: 4
-
 Date: 10/24/1990
 
 ; Botafogo         ; 1-0;  Corinthians
-  Luisinho
+  Luisinho;
 
-;; Atlético-MG;       0-0  Vasco da Gama
+; Atlético-MG;       0-0;  Vasco da Gama
 
 ; Goiás            ; 1-0;  Santos
-  Wallace
+  Wallace;
 
-;; Internacional-RS;  0-0  Bragantino
+; Internacional-RS;  0-0;  Bragantino
 
 Date: 10/25/1990
 
@@ -496,12 +465,11 @@ Date: 10/25/1990
 Round: 5
 Date: 10/27/1990
 
-;; Internacional-RS;  1-1  Santos
+; Internacional-RS;  1-1;  Santos
   Célio; Luís Carlos
 
-;; Atlético-MG;       1-3  Goiás
+; Atlético-MG;       1-3;  Goiás
   Gilberto Costa; Cacau, Túlio, Luvanor
-
 
 Date: 10/28/1990
 
@@ -511,40 +479,35 @@ Date: 10/28/1990
   Carlos Augusto (own goal); Souza
 
 ; Portuguesa       ; 3-1;  Botafogo
-  Vágner Mancini (2), Vladimir; Valdeir
-
+  Vágner Mancini, Vágner Mancini, Vladimir; Valdeir
 
 Round: 6
-
 Date: 11/3/1990
 
 ; Vasco da Gama    ; 0-0;  Bahia
 
-;; Internacional-RS;  1-2  Botafogo
+; Internacional-RS;  1-2;  Botafogo
   Edu Lima; Valdeir, Luisinho
-
 
 Date: 11/4/1990
 
 ; Corinthians      ; 1-0;  Santos
-  Dinei
+  Dinei;
 
 ; Bragantino       ; 0-0;  Goiás
 
 ; Portuguesa       ; 0-0;  Atlético-MG
 
 Round: 7
-
 Date: 11/10/1990
 
 ; Santos           ; 3-0;  Bragantino
-  Ney, Almir, Sérgio Manoel
-
+  Ney, Almir, Sérgio Manoel;
 
 Date: 11/11/1990
 
 ; Goiás            ; 3-1;  Corinthians
-  Túlio (2), Luvanor; Dinei
+  Túlio, Tulio, Luvanor; Dinei
 
 ; Vasco da Gama    ; 2-1;  Portuguesa
   Sérgio Araújo, Sorato; Bentinho
@@ -553,21 +516,19 @@ Date: 11/11/1990
   Luisinho; Mauricinho
 
 ; Bahia            ; 2-1;  Internacional-RS
-  Charles (2); Caçapava
-
+  Charles, Charles; Caçapava
 
 Round: 8
-
 Date: 11/14/1990
 
-;; Atlético-MG;       1-3  Corinthians
+; Atlético-MG;       1-3;  Corinthians
   Marquinhos; Mauro, Neto, Giba
 
 ; Bragantino       ; 1-0;  Vasco da Gama
-  Gil Baiano
+  Gil Baiano;
 
-;; Internacional-RS;  1-0  Portuguesa
-  Letelier
+; Internacional-RS;  1-0;  Portuguesa
+  Letelier;
 
 ; Goiás            ; 0-0;  Bahia
 
@@ -576,16 +537,14 @@ Date: 11/15/1990
 ; Santos           ; 2-1;  Botafogo
   Almir, Axel; Gílson Jáder
 
-
 Round: 9
-
 Date: 11/18/1990
 
 ; Corinthians      ; 0-3;  Internacional-RS
-  Luís Fernando, Paulinho Criciúma, Júlio
+;  Luís Fernando, Paulinho Criciúma, Júlio
 
 ; Portuguesa       ; 2-0;  Goiás
-  Ézio, Vágner Mancini
+  Ézio, Vágner Mancini;
 
 ; Botafogo         ; 1-2;  Bragantino
   Juninho; João Santos, Franklin
@@ -594,7 +553,7 @@ Date: 11/18/1990
   Bismarck, Luciano; Sérgio Manoel, Ney
 
 ; Bahia            ; 2-0;  Atlético-MG
-  Charles, Luís Henrique
+  Charles, Luís Henrique;
 
 
 * 1-Santos               9  4  3  2  10- 6  11  Qualified for the quarterfinals
@@ -612,22 +571,20 @@ Group: B
 Date: 10/10/1990
 
 ; São Paulo        ; 1-0;  Internacional-SP
-  Gilmar Oliveira
+  Gilmar Oliveira;
 
 ; Palmeiras        ; 2-0;  São José
-  Careca, Betinho
+  Careca, Betinho;
 
 ; Flamengo         ; 2-0;  Vitória
-  Gaúcho, Renato Gaúcho
+  Gaúcho, Renato Gaúcho;
 
 ; Fluminense       ; 0-0;  Náutico
 
 ; Cruzeiro         ; 4-0;  Grêmio
-  Luís Gustavo (2), Ramón (2)
+  Luís Gustavo, Luis Gustavo, Ramón, Ramon;
 
-
-Group B
-
+Group: B
 Date: 10/13/1990
 
 ; Vitória          ; 1-2;  Palmeiras
@@ -639,23 +596,19 @@ Date: 10/14/1990
 
 ; São José         ; 0-0;  São Paulo
 
-;; Internacional-SP;  0-1  Cruzeiro
-  Adílson
-
+; Internacional-SP;  0-1;  Cruzeiro
+;  Adílson
 
 Date: 10/15/1990
 
 ; Grêmio           ; 2-1;  Fluminense
   Assis, Vílson; Denílson
 
-
-Group B
-
+Group: B
 Date: 10/20/1990
 
 ; Grêmio           ; 5-0;  Náutico
-  Alfinete (2), Assis, Caio, Maurício
-
+  Alfinete, Alfinete, Assis, Caio, Maurício;
 
 Date: 10/21/1990
 
@@ -663,26 +616,24 @@ Date: 10/21/1990
   Bernardo; Careca, Betinho
 
 ; Vitória          ; 3-0;  Internacional-SP
-  Roberto Gaúcho (2), Júnior
+  Roberto Gaúcho, Roberto Gaúcho, Júnior;
 
 ; Cruzeiro         ; 0-0;  São José
 
 ; Flamengo         ; 2-1;  Fluminense
   Gaúcho, Renato Gaúcho; Dedei
 
-
-Group B
-
+Group: B
 Date: 10/24/1990
 
 ; Palmeiras        ; 1-1;  Flamengo
   Betinho; Gaúcho
 
-;; Internacional-SP;  1-0  Náutico
-  Márcio Florêncio
+; Internacional-SP;  1-0;  Náutico
+  Márcio Florêncio;
 
 ; São Paulo        ; 4-0;  Vitória
-  Eliel (3), Raí
+  Eliel, Eliel, Eliel, Raí;
 
 ; São José         ; 1-1;  Grêmio
   Henrique; Caio
@@ -691,57 +642,49 @@ Date: 10/24/1990
 Date: 10/31/1990
 
 ; Fluminense       ; 0-1;  Cruzeiro
-  Luís Fernando Flores
+;  Luís Fernando Flores
 
-
-Group B
-
+Group: B
 Date: 10/28/1990
 
 ; Fluminense       ; 0-1;  Palmeiras
-  Careca
+;  Careca
 
 ; São José         ; 2-1;  Vitória
   Viola, Leandro; Catatau
 
 ; Grêmio           ; 3-0;  Internacional-SP
-  Caio (2), Maurício
+  Caio, Caio, Maurício;
 
 ; Flamengo         ; 0-1;  São Paulo
-  Raí
+;  Raí
 
 ; Náutico          ; 1-0;  Cruzeiro
-  Augusto
+  Augusto;
 
-
-Group B
-
+Group: B
 Date: 11/3/1990
 
 ; Palmeiras        ; 1-0;  Internacional-SP
-  Careca
+  Careca;
 
 ; Vitória          ; 1-2;  Fluminense
   Nardela; Julinho, Paulo Roberto
-
 
 Date: 11/4/1990
 
 ; Náutico          ; 0-0;  São José
 
 ; Flamengo         ; 0-1;  Grêmio
-  Nílson
+;  Nílson
 
 ; Cruzeiro         ; 1-2;  São Paulo
   Luís Fernando Flores; Mário Tilico, Ivan
 
-
-Group B
-
+Group: B
 Date: 11/10/1990
 
 ; São Paulo        ; 0-0;  Fluminense
-
 
 Date: 11/11/1990
 
@@ -749,28 +692,25 @@ Date: 11/11/1990
   Betinho; Possi
 
 ; São José         ; 1-0;  Internacional-SP
-  Tita
+  Tita;
 
 ; Cruzeiro         ; 1-2;  Flamengo
   Hêider; Nélio, Fernando
 
 ; Grêmio           ; 1-0;  Vitória
-  Caio
+  Caio;
 
-
-Group B
-
+Group: B
 Date: 11/14/1990
 
 ; Palmeiras        ; 3-2;  Cruzeiro
-  Careca (3); Ramón, Eduardo
+  Careca, Careca, Careca; Ramón, Eduardo
 
 ; Fluminense       ; 1-0;  São José
-  Alexandre Torres
+  Alexandre Torres;
 
 ; Vitória          ; 2-2;  Náutico
   Gena (own goal), Júnior; Possi, Ângelo
-
 
 Date: 11/15/1990
 
@@ -778,11 +718,9 @@ Date: 11/15/1990
   Aílton, Uidemar, Rogério; Márcio Florêncio
 
 ; São Paulo        ; 1-0;  Grêmio
-  Elivélton
+  Elivélton;
 
-
-Group B
-
+Group: B
 Date: 11/18/1990
 
 ; Grêmio           ; 0-0;  Palmeiras
@@ -790,11 +728,11 @@ Date: 11/18/1990
 ; Náutico          ; 1-1;  São Paulo
   Bizu; Eliel
 
-;; Internacional-SP;  0-1  Fluminense
-  Denílson
+; Internacional-SP;  0-1;  Fluminense
+;  Denílson
 
 ; São José         ; 0-3;  Flamengo
-  Djalminha, Zinho, Uidemar
+;  Djalminha, Zinho, Uidemar
 
 ; Cruzeiro         ; 2-1;  Vitória
   Édson, Dinho; Catatau
@@ -836,64 +774,71 @@ Date: 11/18/1990
 *20-Internacional-SP    19  4  2 13   9-25  10  Relegated
 * - Qualified due to better first phase record
 
-Quarterfinals
+*Quarterfinals
 
-Date: 11/24 and Dec 1/1990
+*Date: 11/24 and Dec 1/1990
 
-Corinthians       2-1   0-0  Atlético-MG
-  [Neto (2); Gérson]
-Santos            0-1   1-1  São Paulo
-  [Mário Tilico]
-  [Paulinho; Eliel]
-Palmeiras         1-0   0-2  Grêmio
-  [Careca]
-  [Nílson, Vílson]
-Bragantino        1-1   2-3  Bahia
-  [João Santos; Ivair (own goal)]
-  [Barbosa, Mazinho; Charles, Vágner Basílio, Jorginho]
+11/24/1990; Corinthians; 2-1; Atletico-MG
+Neto, Neto; Gérson
 
-Semifinals
+12/1/1990; Atletico-MG; 0-0; Corinthians
+
+11/24/1990; Santos; 0-1; Sao Paulo  
+; Mário Tilico
+
+*Santos            0-1   1-1  São Paulo
+*  [Paulinho; Eliel]
 
 
-Date: 12/5 and 8/1990
+*Palmeiras         1-0   0-2  Grêmio
+*  [Careca]
+*  [Nílson, Vílson]
+*Bragantino        1-1   2-3  Bahia
+*  [João Santos; Ivair (own goal)]
+*  [Barbosa, Mazinho; Charles, Vágner Basílio, Jorginho]
 
-São Paulo         2-0   0-1  Grêmio
-  [Raí (2)]
-  [Maurício]
-
-Date: 12/5 and 9/1990
-
-Corinthians       2-1   0-0  Bahia
-  [Neto, Paulo Rodrigues; Vágner Basílio (own goal)]
-
-Finals
-
-
-Date: 12/13/1990
-
-Corinthians       1-0  São Paulo
-  [Wílson Mano]
-
-
-Date: 12/16/1990
-
-SÃO PAULO 0-1 CORINTHIANS  
-Local: Morumbi (São Paulo); 
-Juiz: Edmundo Lima Filho (SP); 
-Público Presente: 100.858 espectadores; 
-Gol: Tupãzinho 9 do 2º tempo; 
-Cartão Amarelo: Flávio, Márcio e Jacenir; 
-Expulsão: Bernardo e Wilson Mano 15 do 2º; 
-CORINTHIANS: Ronaldo. Giba, Marcelo, Guinei e 
-Jacenir; Márcio, Wilson Mano, Tupãzinho e Neto 
-(Ezequiel); Fabinho e Mauro (Paulo Sérgio). 
-Técnico: Nelsinho Baptista. 
-SÃO PAULO: Zetti, Cafu, Antônio Carlos, Ivan e 
-Leonardo; Flávio, Bernardo e Raí (Marcelo); 
-Mário Tilico (Zé Teodoro), Eliel e Elivélton. 
-Técnico: Telê Santana. 
-
-SC Corinthians Paulista are the 1990 Brazilian champions
+*Semifinals
+*
+*
+*Date: 12/5 and 8/1990
+*
+*São Paulo         2-0   0-1  Grêmio
+*  [Raí (2)]
+*  [Maurício]
+*
+*Date: 12/5 and 9/1990
+*
+*Corinthians       2-1   0-0  Bahia
+*  [Neto, Paulo Rodrigues; Vágner Basílio (own goal)]
+*
+*Finals
+*
+*
+*Date: 12/13/1990
+*
+*Corinthians       1-0  São Paulo
+*  [Wílson Mano]
+*
+*
+*Date: 12/16/1990
+*
+*SÃO PAULO 0-1 CORINTHIANS  
+*Local: Morumbi (São Paulo); 
+*Juiz: Edmundo Lima Filho (SP); 
+*Público Presente: 100.858 espectadores; 
+*Gol: Tupãzinho 9 do 2º tempo; 
+*Cartão Amarelo: Flávio, Márcio e Jacenir; 
+*Expulsão: Bernardo e Wilson Mano 15 do 2º; 
+*CORINTHIANS: Ronaldo. Giba, Marcelo, Guinei e 
+*Jacenir; Márcio, Wilson Mano, Tupãzinho e Neto 
+*(Ezequiel); Fabinho e Mauro (Paulo Sérgio). 
+*Técnico: Nelsinho Baptista. 
+*SÃO PAULO: Zetti, Cafu, Antônio Carlos, Ivan e 
+*Leonardo; Flávio, Bernardo e Raí (Marcelo); 
+*Mário Tilico (Zé Teodoro), Eliel e Elivélton. 
+*Técnico: Telê Santana. 
+*
+*SC Corinthians Paulista are the 1990 Brazilian champions
 
 *Final Table
 * 1-Corinthians         25 12  8  5  23-20  32 Qualified to Copa Libertadores 1991

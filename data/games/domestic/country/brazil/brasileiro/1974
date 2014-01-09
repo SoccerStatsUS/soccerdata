@@ -1,6 +1,7 @@
-Competition: Campeonato Brasileiro Série As
+Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1974.htm
 Season: 1974
+home-first
 
 * partial through round 14.
 
@@ -28,7 +29,7 @@ Date: 3/10/1974
 ; Desportiva     ; 1-0;  Itabaiana  
   Alves;
 
-;; Atlético-PR;     1-0  Internacional
+; Atlético-PR;     1-0;  Internacional
   Sicupira;
 
 ; Vitória        ; 1-2;  Tiradentes
@@ -40,7 +41,7 @@ Date: 3/10/1974
 ; Sampaio Corrêa ; 1-2;  Flamengo
   Dionísio;  Rondineli, Dario
 
-;; América-RN;      1-1  Avaí
+; América-RN;      1-1;  Avaí
   Garcia;  Zenon
 
 Round: 2
@@ -68,7 +69,7 @@ Date: 3/13/1974
 ; Sampaio Corrêa ; 2-2;  Bahia
   Adelino, Adelino;  Douglas, Alberto
 
-;; América-RN;      0-2  Flamengo
+; América-RN;      0-2;  Flamengo
 ;  Dário, Vicentinho
 
 Date: 3/14/1974
@@ -106,7 +107,7 @@ Date: 3/17/1974
 ; Desportiva     ; 1-0;  Avaí
   Sérgio;
 
-;; América-RN;      2-0  Itabaiana
+; América-RN;      2-0;  Itabaiana
   Tota (own goal), Washington;
 
 Round: 4
@@ -133,7 +134,7 @@ Date: 3/20/1974
 ; Itabaiana      ; 1-2;  Internacional
   Gaúcho;  Escurinho, Dorinho
 
-;; América-GB;      1-2  Vitória
+; América-GB;      1-2;  Vitória
   Volmir;  Davi, André
 
 Round: 5
@@ -142,7 +143,7 @@ Date: 3/23/1974
 ; Flamengo       ; 4-0;  Tiradentes
   Paulinho, Paulinho, Zico, Liminha;
 
-;; Atlético-PR;     1-0  Desportiva
+; Atlético-PR;     1-0;  Desportiva
   Carlos César;
 
 ; Fluminense     ; 2-3;  Olaria
@@ -162,7 +163,7 @@ Date: 3/23/1974
 ; Sampaio Corrêa ; 1-0;  Avaí
   Dionísio;
 
-;; América-RN;      1-3  América-GB
+; América-RN;      1-3;  América-GB
   Gílson Porto;  Luisinho, Luisinho, Alex
 
 ; Itabaiana      ; 1-0;  Remo
@@ -171,7 +172,7 @@ Date: 3/23/1974
 *Moved Matches
 Date: 3/27/1974
 
-;; América-GB;      2-0  Desportiva
+; América-GB;      2-0;  Desportiva
   Orlando, Edu;
 
 ; Tiradentes     ; 3-0;  América-RN
@@ -188,7 +189,7 @@ Date: 3/30/1974
 ; Internacional  ; 2-0;  Tiradentes
   Pedrinho, Dejair;
  
-;; Atlético-PR;     3-0  Fluminense
+; Atlético-PR;     3-0;  Fluminense
   Sicupira, Sicupira, Caio;
 
 ; Avaí           ; 3-0;  Remo
@@ -291,7 +292,7 @@ Date: 4/20/1974
 ; Sampaio Corrêa ; 0-3;  Vitória
 ;  Davi, Davi, Osni
 
-;; América-RN;      0-2  Grêmio
+; América-RN;      0-2;  Grêmio
 ;  Tarciso, Iúra
 
 
@@ -300,7 +301,7 @@ Date: 4/21/1974
 ; Vasco da Gama  ; 1-2;  Fluminense
   Luís Carlos;  Cafuringa, Manfrini
 
-;; Atlético-PR;     1-2  Flamengo
+; Atlético-PR;     1-2;  Flamengo
   Sicupira;  Paulinho, Zico
 
 ; Avaí           ; 0-2;  América-GB
@@ -338,7 +339,7 @@ Date: 4/27/1974
 ; Remo           ; 1-1;  Fluminense
   Roberto;  Gil
 
-;; América-RN;      2-3  Vasco da Gama
+; América-RN;      2-3;  Vasco da Gama
   Márcio Braga, Garcia;  Roberto Dinamite, Roberto Dinamite, Fred
 
 ; Itabaiana      ; 1-0;  Atlético-PR
@@ -360,7 +361,7 @@ Date: 5/4/1974
 ; Grêmio         ; 2-1;  América-GB
   Loivo, Loivo;  Flecha
 
-;; Atlético-PR;     1-0  Bahia
+; Atlético-PR;     1-0;  Bahia
   Sicupira;
     
 ; Vitória        ; 3-0;  Avaí
@@ -404,7 +405,7 @@ Date: 5/11/1974
 ; Internacional  ; 1-1;  Vitória 
   Lula;  André
 
-;; Atlético-PR;     2-0  Remo
+; Atlético-PR;     2-0;  Remo
   Sicupira, Sicupira;
 
 ; Avaí           ; 0-0;  Tiradentes
@@ -418,7 +419,7 @@ Date: 5/11/1974
 ; Sampaio Corrêa ; 1-1;  Botafogo  
   Aílton;  Fischer
 
-;; América-RN;      1-0  Fluminense
+; América-RN;      1-0;  Fluminense
   Pedrada;
 
 Round: 13
@@ -427,7 +428,7 @@ Date: 5/15/1974
 ; Botafogo       ; 2-3;  Internacional
   Puruca, Fischer;  Lula, Lula, Lula
 
-;; Atlético-PR;     4-0  Olaria
+; Atlético-PR;     4-0;  Olaria
   Nílson, Sérgio Galocha, Sicupira, Bira Lopes;
 
 ; Vitória        ; 0-0;  Fluminense
@@ -437,7 +438,7 @@ Date: 5/15/1974
 ; Tiradentes     ; 0-1;  Vasco da Gama
 ;  Perez
  
-;; América-RN;      0-1  Bahia
+; América-RN;      0-1;  Bahia
 ;  Baiaco
 
 ; Itabaiana      ; 0-1;  Grêmio  
@@ -451,7 +452,7 @@ Date: 5/16/1974
 Round: 14
 Date: 5/18/1974
 
-;; América-GB;      3-0  Internacional
+; América-GB;      3-0;  Internacional
   Orlando, Luisinho, Flecha;
 
 ; Flamengo       ; 0-0;  Fluminense
@@ -473,7 +474,7 @@ Date: 5/18/1974
 ; Sampaio Corrêa ; 2-0;  Vasco da Gama
   Jorge Luís, Dionísio;
 
-;; América-RN;      0-0  Desportiva
+; América-RN;      0-0;  Desportiva
 
 ; Itabaiana      ; 0-1;  Bahia
 ;  Douglas
@@ -487,7 +488,7 @@ Date: 5/22/1974
 ; Vitória        ; 2-0;  Itabaiana
   Paim, André;
  
-;; América-RN;      0-1  Atlético-PR
+; América-RN;      0-1;  Atlético-PR
 ;  Liminha
 
 Round: 15
@@ -508,7 +509,7 @@ Date: 5/25/1974
 ; Tiradentes     ; 2-2;  Atlético-PR
   Sima, Robertinho;  Sicupira, Bira Lopes
 
-;; América-RN;      1-0  Botafogo
+; América-RN;      1-0;  Botafogo
   Garcia;
       
 ; Itabaiana      ; 2-1;  Sampaio Corrêa
@@ -531,7 +532,7 @@ Date: 5/29/1974
 ; Vasco da Gama  ; 1-0;  Avaí
   Roberto Dinamite;
 
-;; América-RN;      0-0  Paysandu
+; América-RN;      0-0;  Paysandu
 
 Date: 5/30/1974
 
@@ -596,7 +597,7 @@ Date: 6/5/1974
 Round: 18
 Date: 6/8/1974
 
-;; América-GB;      2-0  Olaria
+; América-GB;      2-0;  Olaria
   Luisinho, Luisinho;
 
 ; Coritiba       ; 1-1;  Vitória
@@ -610,7 +611,7 @@ Date: 6/9/1974
 ; Botafogo       ; 0-2;  Flamengo
 ;  Doval, Zico
 
-;; Atlético-PR;     1-1  Vasco da Gama
+; Atlético-PR;     1-1;  Vasco da Gama
   Liminha;  Jaílson
 
 ; Bahia          ; 0-1;  Grêmio
@@ -644,7 +645,7 @@ Date: 6/13/1974
 ; Grêmio         ; 2-2;  Botafogo
   Bolivar, Tarciso;  Fischer, Fischer
 
-;; Atlético-PR;     1-2  América-GB
+; Atlético-PR;     1-2;  América-GB
   Liminha;  Tadeu, Gílson Nunes
 
 ; Avaí           ; 0-2;  Bahia 
@@ -752,7 +753,7 @@ Date: 3/16/1974
 ; São Paulo      ; 1-1;  Guarani
   Pedro Rocha;  Darci
 
-;; Atlético-MG;     0-0  Rio Negro  
+; Atlético-MG;     0-0;  Rio Negro  
 
 Date: 3/17/1974
 
@@ -767,7 +768,7 @@ Date: 3/17/1974
 ; Nacional       ; 1-1;  Ceará 
   Expedito;  Samuel
 
-;; América-MG;      0-2  Santos
+; América-MG;      0-2;  Santos
 ;  Mazinho, Nenê
 
 ; CEUB           ; 0-0;  Portuguesa
@@ -789,7 +790,7 @@ Date: 3/20/1974
 ; Ceará          ; 0-1;  Guarani
 ;  Clayton
 
-;; América-MG;      2-0  Rio Negro
+; América-MG;      2-0;  Rio Negro
   Jurandi, Jurandi;
 
 ; CEUB           ; 1-3;  Santos
@@ -847,7 +848,7 @@ Date: 3/27/1974
 ; Nacional       ; 2-1;  Palmeiras
   Renato, Bibi;  Fedato
 
-;; América-MG;      2-1  Ceará
+; América-MG;      2-1;  Ceará
   Jurandi, Jurandi;  Zé Eduardo
 
 
@@ -857,7 +858,7 @@ Date: 3/30/1974
 ; Guarani        ; 3-0;  Goiás
   Clayton, Clayton, Odair;
 
-;; Atlético-MG;     1-1  América-MG
+; Atlético-MG;     1-1;  América-MG
   Arlem;  Édson
 
 ; Náutico        ; 1-1;  Santos
@@ -939,7 +940,7 @@ Date: 4/13/1974
 ; Guarani        ; 2-1;  Nacional
   Darci, Luís Florêncio (own goal);  Expedito
 
-;; Atlético-MG;     2-1  Corinthians
+; Atlético-MG;     2-1;  Corinthians
   Fausto, China;  Marco Antônio
 
 ; Santa Cruz     ; 0-0;  Portuguesa
@@ -972,7 +973,7 @@ Date: 4/20/1974
 ; Palmeiras      ; 0-4;  Santos  
 ;  Fernandinho, Pelé, Nenê, Brecha
 
-;; Atlético-MG;     1-0  Operário/CG
+; Atlético-MG;     1-0;  Operário/CG
   Totonho;
 
 ; Náutico        ; 2-0;  Corinthians
@@ -1005,7 +1006,7 @@ Date: 4/24/1974
 ; Rio Negro      ; 1-0;  Fortaleza
   Jorge Demolidor;
   
-;; América-MG;      0-1  Nacional
+; América-MG;      0-1;  Nacional
 ;  Roberto
      
 Round: 10
@@ -1053,7 +1054,7 @@ Date: 5/4/1974
 ; Fortaleza      ; 3-3;  Sport
   Marciano, Marciano, Hamílton Melo;  Ditinho, Ditinho, Fumanchu
 
-;; América-MG;      0-0  São Paulo
+; América-MG;      0-0;  São Paulo
 
 ; CEUB           ; 0-0;  Goiás
 
@@ -1074,7 +1075,7 @@ Date: 5/8/1974
 ; Sport          ; 0-2;  Nacional
 ;  Reis, Alberto (own goal)
   
-;; América-MG;      0-1  Goiás
+; América-MG;      0-1;  Goiás
 ;  Vânder
       
 ; Operário/CG    ; 0-0;  CEUB
@@ -1096,7 +1097,7 @@ Date: 5/11/1974
 
 Date: 5/12/1974
 
-;; Atlético-MG;     0-1  Fortaleza
+; Atlético-MG;     0-1;  Fortaleza
 ;  Marciano
 
 ; Rio Negro      ; 2-0;  Santa Cruz
@@ -1185,7 +1186,7 @@ Date: 5/25/1974
 ; Palmeiras      ; 2-2;  Portuguesa
   Careca, Jair Gonçalves;  Enéas, Tatá
 
-;; Atlético-MG;     0-1  Guarani
+; Atlético-MG;     0-1;  Guarani
 ;  Afrânio
 
 ; Santa Cruz     ; 0-0;  Corinthians
@@ -1209,7 +1210,7 @@ Date: 5/29/1974
 ; Fortaleza      ; 1-0;  CSA
   Marciano;
 
-;; América-MG;      0-3  Náutico
+; América-MG;      0-3;  Náutico
 ;  Paraguaio, Jorge Mendonça, Betinho
 
 ; Goiás          ; 2-0;  Rio Negro
@@ -1254,7 +1255,7 @@ Date: 6/5/1974
 ; Palmeiras      ; 1-1;  Ceará
   Nei;  Samuel
 
-;; Atlético-MG;     3-1  Goiás  
+; Atlético-MG;     3-1;  Goiás  
   China, Getúlio, Totonho;  Lucinho
 
 ; Santa Cruz     ; 0-3;  Sport
@@ -1291,7 +1292,7 @@ Date: 6/9/1974
 ; São Paulo      ; 1-1;  Corinthians
   Zé Carlos;  Washington
 
-;; Atlético-MG;     2-1  Santos
+; Atlético-MG;     2-1;  Santos
   China, Totonho;  Mazinho
    
 ; Náutico        ; 0-1;  Palmeiras
@@ -1322,7 +1323,7 @@ Date: 6/12/1974
 
 Date: 6/13/1974
 
-;; América-MG;      1-0  CSA  
+; América-MG;      1-0;  CSA  
   Vilfredo;
 
 ; Palmeiras      ; 1-2;  Atlético-MG
@@ -1471,7 +1472,7 @@ Date: 7/6/1974
 Round: 3
 Date: 7/10/1974
 
-;; Atlético-MG;     0-2  Vasco da Gama
+; Atlético-MG;     0-2;  Vasco da Gama
 ;  Jaílson, Roberto Dinamite
 
 Date: 7/11/1974
@@ -1485,7 +1486,7 @@ Date: 7/14/1974
 ; Vasco da Gama  ; 2-0;  Corinthians
   Roberto Dinamite, Jaílson;
 
-;; Atlético-MG;     2-2  Vitória
+; Atlético-MG;     2-2;  Vitória
   Totonho, Fausto;  Natal, André
 
 ; Nacional       ; 0-1;  Operário/CG           
@@ -1494,7 +1495,7 @@ Notes: match abandoned at 66' for lack of security, result stood
 *Moved Matches   
 Date: 7/17/1974
 
-;; Atlético-MG;     3-0  Nacional 
+; Atlético-MG;     3-0;  Nacional 
   Reinaldo, Romeu, Cláudio;
   
 Date: 7/18/1974
@@ -1528,7 +1529,7 @@ Group: 3
 Round: 1 
 Date: 7/3/1974
 
-;; América-GB;      0-2  Santos
+; América-GB;      0-2;  Santos
 ;  Cláudio Adão, Fernandinho
 
 ; Náutico        ; 4-2;  Coritiba
@@ -1551,7 +1552,7 @@ Date: 7/7/1974
 Round: 3
 Date: 7/10/1974
 
-;; América-GB;      0-1  Grêmio
+; América-GB;      0-1;  Grêmio
 ;  Torino
                                   
 Date: 7/13/1974
@@ -1619,7 +1620,7 @@ Date: 7/3/1974
 ; Internacional  ; 2-0;  Fluminense
   Claudiomiro, Sérgio Lima;
 
-;; Atlético-PR;     1-1  Portuguesa
+; Atlético-PR;     1-1;  Portuguesa
   Sicupira;  Cabinho
 
 Round: 3 
@@ -1652,7 +1653,7 @@ Date: 7/14/1974
 Round: 5
 Date: 7/17/1974
 
-;; Atlético-PR;     2-1  Goiás
+; Atlético-PR;     2-1;  Goiás
   Sérgio Galocha, Macalé (own goal);  Lucinho
 
 ; São Paulo      ; 0-1;  Internacional

@@ -1,63 +1,58 @@
 Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1984.htm
 Season: 1984
+home-first
 
 
-First Phase
+*First Phase
 
-Group A
+Group: A
 
 Round: 1
 
 Date: 1/29/1984
 
 ; Vasco da Gama ; 2-3;  São Paulo
-  Roberto Dinamite (2); Agnaldo (2), Oscar
+  Roberto Dinamite, Roberto Dinamite; Agnaldo, Agnaldo, Oscar
 
 ; Fortaleza     ; 0-0;  Tuna Luso
 
 Round: 2 
 Date: 2/1/1984
 
-;; Nacional-AM;    1-1  Tuna Luso
+; Nacional-AM;    1-1;  Tuna Luso
   Fernandinho; Quaresma
 
 
 Date: 2/2/1984
 
 ; Vasco da Gama ; 1-0;  Fortaleza
-  Marcelo
-
+  Marcelo;
 
 Round: 3 
 
 Date: 2/5/1984
 
 ; São Paulo     ; 5-0;  Fortaleza
-  Renato (2), Paulo Roberto Costa, Jaiminho, Pianelli
+  Renato, Renato, Paulo Roberto Costa, Jaiminho, Pianelli;
 
-;; Nacional-AM;    0-3  Vasco da Gama
-  Geovani, Cláudio José, Marcelo
-
+; Nacional-AM;    0-3;  Vasco da Gama
+;  Geovani, Cláudio José, Marcelo
 
 Round: 4 
-
 Date: 2/8/1984
 
-;; Nacional-AM;    1-1  São Paulo
+; Nacional-AM;    1-1;  São Paulo
   Bendelak; Agnaldo
 
 ; Tuna Luso     ; 1-1;  Vasco da Gama
   Ondino; Roberto Dinamite
 
-
 Round: 5 
-
 Date: 2/11/1984
 
 ; Fortaleza     ; 3-2;  Nacional-AM
   Tangerina, Luisinho, Vágner; Pedro Basílio (own goal), Peu
-
 
 Date: 2/12/1984
 
@@ -68,34 +63,29 @@ Round: 6
 Date: 2/15/1984
 
 ; Vasco da Gama ; 1-0;  Nacional-AM
-  Geovani
+  Geovani;
 
 ; Fortaleza     ; 1-0;  São Paulo
-  Evilásio
-
+  Evilásio;
 
 Round: 7 
-
 Date: 2/18/1984
 
 ; São Paulo     ; 1-1;  Nacional-AM
   Marcão; Almir
  
-
 Date: 2/19/1984
 
 ; Vasco da Gama ; 9-0;  Tuna Luso
-  Arthurzinho (4), Marcelo (3), Geovani, Aírton
-
+  Arthurzinho, Arthurzinho, Arthurzinho, Arthurzinho, Marcelo, Marcelo, Marcelo, Geovani, Aírton;
 
 Round: 8 
-
 Date: 2/22/1984
 
 ; São Paulo     ; 3-1;  Tuna Luso
-  Pianelli (2), Marcão; Jorginho
+  Pianelli, Pianelli, Marcão; Jorginho
 
-;; Nacional-AM;    0-0  Fortaleza
+; Nacional-AM;    0-0;  Fortaleza
 
 Round: 9 
 
@@ -104,19 +94,16 @@ Date: 2/25/1984
 ; São Paulo     ; 3-2;  Vasco da Gama
   Marcão, Márcio Araújo, Jaminho; Arthurzinho, Geovane
  
-
 Date: 2/26/1984
 
 ; Tuna Luso     ; 2-1;  Fortaleza
   Tiago, Mariolino; Luisinho
 
-
 Round: 10
-
 Date: 2/29/1984
 
 ; Tuna Luso     ; 1-0;  Nacional-AM
-  Luís Carlos
+  Luís Carlos;
 
 ; Fortaleza     ; 2-1;  Vasco da Gama
   Tangerina, Luisinho; Marquinho Carioca
@@ -131,19 +118,17 @@ Date: 2/29/1984
 *- - - - - - - - - - - - - - - - - - - - - -
 * 5-Nacional-AM        8  0  4  4   5-11   4
 
-Group B
+Group: B
 Round: 1
 Date: 1/29/1984
 
 ; Bahia         ; 2-0;  Atlético-MG
-  Beijoca (2)
+  Beijoca, Beijoca;
 
 ; Bangu         ; 1-0;  Treze
-  Luisinho
-
+  Luisinho;
 
 Round: 2
-
 Date: 2/1/1984
 
 ; CRB           ; 0-0;  Bangu
@@ -156,44 +141,37 @@ Date: 2/2/1984
 Round: 3
 Date: 2/5/1984
 
-;; Atlético-MG;    4-1  Treze
-  Éverton (2), Reinaldo, Catatau; Volnei
+; Atlético-MG;    4-1;  Treze
+  Éverton, Everton, Reinaldo, Catatau; Volnei
 
 ; CRB           ; 1-0;  Bahia
-  Paulo César (own goal)
-
+  Paulo César (own goal);
 
 Round: 4
-
 Date: 2/8/1984
 
 ; Bahia         ; 2-0;  Bangu
-  Toninho Taino, Osni
-
+  Toninho Taino, Osni;
 
 Date: 2/9/1984
 
-;; Atlético-MG;    4-0  CRB
-  Éverton (3), Éder
-
+; Atlético-MG;    4-0;  CRB
+  Éverton, Everton, Everton, Éder;
 
 Round: 5
-
 Date: 2/12/1984
 
 ; Bangu         ; 0-1;  Atlético-MG
-  Reinaldo
+;  Reinaldo
 
 ; Treze         ; 1-2;  CRB
   Volnei; Coca, Nau
  
-
 Round: 6
-
 Date: 2/15/1984
 
-;; Atlético-MG;    6-0  Bahia
-  Éverton (2), Nelinho, Luizinho, Reinaldo, Catatau
+; Atlético-MG;    6-0;  Bahia
+  Éverton, Everton, Nelinho, Luizinho, Reinaldo, Catatau;
 
 ; Bangu         ; 0-0;  CRB
 
@@ -201,26 +179,22 @@ Round: 7
 
 Date: 2/19/1984
 
-;; Atlético-MG;    1-1  Bangu
+; Atlético-MG;    1-1;  Bangu
   Reinaldo; Fernando Macaé
 
 ; Bahia         ; 2-1;  Treze
   Beijoca, Osni; Puma
 
-
 Round: 8
-
 Date: 2/22/1984
 
 ; CRB           ; 1-2;  Atlético-MG
   Joãozinho Paulista; Éverton, Edivaldo
 
 ; Treze         ; 1-0;  Bangu
-  Ricardo
-
+  Ricardo;
 
 Round: 9
-
 Date: 2/26/1984
 
 ; Bangu         ; 2-2;  Bahia
@@ -229,16 +203,14 @@ Date: 2/26/1984
 ; CRB           ; 1-2;  Treze
   Aluísio (own goal); Edmar, Ricardo
 
-
 Round: 10
-
 Date: 2/29/1984
 
 ; Bahia         ; 0-0;  CRB
 
 ; Treze         ; 0-0;  Atlético-MG
 
-*Table
+
 * 1-Atlético-MG        8  5  2  1  18- 5  12  Qualified
 * 2-Bahia              8  3  3  2   9-11   9  Qualified 
 * 3-CRB                8  2  3  3   5- 9   7  Qualified 
@@ -247,20 +219,18 @@ Date: 2/29/1984
 *- - - - - - - - - - - - - - - - - - - - - -
 * 5-Bangu              8  1  4  3   4- 7   6
 
-Group C
+Group: C
 
 Round: 1
 Date: 1/29/1984
 
 ; ABC           ; 3-1;  Confiança
-  Silva (2), Dedé; Albertinho
+  Silva, Silva, Dedé; Albertinho
 
 ; Santos        ; 1-1;  Fluminense
   Serginho; Washington
 
-
 Round: 2
-
 Date: 2/1/1984
 
 ; Ferroviário   ; 0-0;  Fluminense
@@ -268,102 +238,84 @@ Date: 2/1/1984
 Date: 2/2/1984
 
 ; Confiança     ; 0-2;  Santos
-  Ronaldo (2)
-
+;  Ronaldo, Ronaldo
 
 Round: 3
-
 Date: 2/5/1984
 
 ; Ferroviário   ; 1-0;  Confiança
-  Jorge Veras
+  Jorge Veras;
 
 ; ABC           ; 0-2;  Santos
-  Lino, Serginho
-
+;  Lino, Serginho
 
 Round: 4
-
 Date: 2/8/1984
 
 ; Fluminense    ; 1-0;  ABC
-  Assis
-
+  Assis;
 
 Date: 2/9/1984
 
 ; Santos        ; 2-0;  Ferroviário
-  Pita, Ronaldo
-
+  Pita, Ronaldo;
 
 Round: 5
-
 Date: 2/11/1984
 
 ; Fluminense    ; 1-0;  Confiança
-  Assis
-
+  Assis;
 
 Date: 2/12/1984
 
 ; Ferroviário   ; 0-3;  ABC
-  Marinho, Vassil, Silva
-
+;  Marinho, Vassil, Silva
 
 Round: 6
-
 Date: 2/15/1984
 
 ; Santos        ; 4-1;  ABC
-  Serginho (2), Ronaldo, Pita; Silva
+  Serginho, Serginho, Ronaldo, Pita; Silva
 
 ; Confiança     ; 4-1;  Ferroviário
-  Gílson Lopes (3), Luís Carlos; Betinho
-
+  Gílson Lopes, Gilson Lopes, Gilson Lopes, Luís Carlos; Betinho
 
 Round: 7
-
 Date: 2/19/1984
 
 ; Confiança     ; 0-2;  Fluminense
-  Washington, Assis
+;  Washington, Assis
 
 ; ABC           ; 0-0;  Ferroviário
 
 Round: 8
-
 Date: 2/22/1984
 
 ; ABC           ; 1-2;  Fluminense
   Marinho; Leomir, Washington
 
-
 Date: 2/23/1984
 
 ; Ferroviário   ; 0-5;  Santos
-  Ronaldo (2), Gérson (2), Serginho Dourado
-
+;  Ronaldo, Ronaldo, Gérson, Gerson, Serginho Dourado
 
 Round: 9
-
 Date: 2/26/1984
 
 ; Confiança     ; 0-1;  ABC
-  Silva
+;  Silva
 
 ; Fluminense    ; 0-1;  Santos
-  Gersinho
-
+;  Gersinho
 
 Round: 10
-
 Date: 2/29/1984
 
 ; Santos        ; 3-0;  Confiança
-  Ronaldo, Lino, Gersinho
+  Ronaldo, Lino, Gersinho;
 
 ; Fluminense    ; 2-0;  Ferroviário
-  Wilsinho (2)
+  Wilsinho, Wilsinho;
 
 *Table
 * 1-Santos             8  7  1  0  20- 2  15  Qualified 
@@ -374,57 +326,48 @@ Date: 2/29/1984
 *- - - - - - - - - - - - - - - - - - - - - -
 * 5-Confiança          8  1  0  7   5-14   2
 
-Group D
-
+Group: D
 Round: 1
 
 Date: 1/29/1984
 
 ; Catuense      ; 0-1;  Santo André
-  Rota
+;  Rota
 
 ; Grêmio        ; 2-0;  Náutico
-  Osvaldo, Renato Gaúcho
-
+  Osvaldo, Renato Gaúcho;
 
 Round: 2
 
 Date: 2/1/1984
 
 ; Santo André   ; 1-0;  Grêmio
-  Élcio
+  Élcio;
 
 ; Coritiba      ; 4-1;  Catuense
   Petróleo, Vavá, Lela, Carlinhos Maracanã; Vavá (own goal)
 
-
 Round: 3
-
 Date: 2/5/1984
 
 ; Náutico       ; 3-2;  Coritiba
-  Baiano (3); Élvio, Douglas Onça
+  Baiano, Baiano, Baiano; Élvio, Douglas Onça
 
 ; Grêmio        ; 3-0;  Catuense
-  Osvaldo (2), Tarciso
-
+  Osvaldo, Osvaldo, Tarciso;
 
 Round: 4
-
 Date: 2/8/1984
 
 ; Santo André   ; 1-0;  Coritiba
-  Rota
-
+  Rota;
 
 Date: 2/9/1984
 
 ; Catuense      ; 1-1;  Náutico
   Zanata; Paulinho
 
-
 Round: 5
-
 Date: 2/12/1984
 
 ; Náutico       ; 2-1;  Santo André
@@ -433,68 +376,54 @@ Date: 2/12/1984
 ; Coritiba      ; 1-3;  Grêmio
   Pedrinho Gaúcho; Tarciso, Júlio César, Osvaldo
 
-
 Round: 6
-
 Date: 2/15/1984
 
 ; Náutico       ; 2-0;  Catuense
-  Baiano, Ademir Lobo
+  Baiano, Ademir Lobo;
 
 ; Grêmio        ; 4-4;  Santo André
-  Tarciso (2), Renato Gaúcho, Neto (own goal); Arnaldo, Marajó, Jaime Bôni, 
-   Esquerdinha
-
+  Tarciso, Tarciso, Renato Gaúcho, Neto (own goal); Arnaldo, Marajó, Jaime Bôni, Esquerdinha
 
 Round: 7
-
 Date: 2/18/1984
 
 ; Coritiba      ; 1-2;  Náutico
   Élcio; Silmar, Ferreira
-
 
 Date: 2/19/1984
 
 ; Santo André   ; 1-1;  Catuense
   Gérson Lopes; Jorge Luís
 
-
 Round: 8
-
 Date: 2/22/1984
 
 ; Catuense      ; 0-2;  Coritiba
-  Petróleo, Élcio
-
+;  Petróleo, Élcio
 
 Date: 2/23/1984
 
 ; Náutico       ; 0-0;  Grêmio
 
 Round: 9
-
 Date: 2/26/1984
 
 ; Catuense      ; 1-2;  Grêmio
   Cássio; Guilherme, Bonamigo
 
 ; Coritiba      ; 1-2;  Santo André
-  Édson; Jones (2)
-
+  Édson; Jones, Jones
 
 Round: 10
-
 Date: 2/29/1984
 
 ; Santo André   ; 1-0;  Náutico
-  Arnaldo
+  Arnaldo;
 
 ; Grêmio        ; 5-0;  Coritiba
-  Paulo César, Tarciso, Jorge Leandro, Luís Eduardo, Guilherme
+  Paulo César, Tarciso, Jorge Leandro, Luís Eduardo, Guilherme;
 
-
-*Table
 * 1-Santo André        8  5  2  1  12- 8  12  [2 1 1 0  5- 4  3] Qualified
 * 2-Grêmio             8  5  2  1  19- 7  12  [2 0 1 1  4- 5  1] Qualified 
 * 3-Náutico            8  4  2  2  10- 8  10  Qualified 
@@ -503,43 +432,37 @@ Date: 2/29/1984
 *- - - - - - - - - - - - - - - - - - - - - -
 * 5-Catuense           8  0  2  6   4-16   2
 
-Group E
+Group: E
 
 Round: 1
 
 Date: 1/28/1984
 
 ; Flamengo      ; 1-0;  Palmeiras
-  Tita
-
+  Tita;
 
 Date: 1/29/1984
 
 ; Brasília      ; 0-2;  Operario-MS
-  Lima, Cardim
-
+;  Lima, Cardim
 
 Round: 2
-
 Date: 1/31/1984
 
 ; Palmeiras     ; 3-1;  Goiás
   Luís Pereira, Reinaldo Xavier, Jorginho; Carlos Alberto
  
-
 Date: 2/2/1984
 
 ; Brasília      ; 0-2;  Flamengo
-  Nunes, Adílio
-
+;  Nunes, Adílio
 
 Round: 3
-
 Date: 2/5/1984
 
 ; Goiás         ; 0-0;  Flamengo
 
-;; Operário-MS;    1-1  Palmeiras
+; Operário-MS;    1-1;  Palmeiras
   Lima; Luís Pereira
 
 Round: 4
@@ -549,47 +472,38 @@ Date: 2/8/1984
   Tita, Mozer, Nunes; Lima, Marcinho
 
 ; Goiás         ; 4-1;  Brasília
-  Nei (2), Cacau, Sávio; Cássio
-
+  Nei, Nei, Cacau, Sávio; Cássio
 
 Round: 5
-
 Date: 2/12/1984
 
 ; Palmeiras     ; 4-0;  Brasília
-  Jorginho (2), Reinaldo Xavier, Vágner
+  Jorginho, Jorginho, Reinaldo Xavier, Vágner;
  
-;; Operário-MS;    2-0  Goiás
-  Nenê, Lima
-
+; Operário-MS;    2-0;  Goiás
+  Nenê, Lima;
 
 Round: 6
-
 Date: 2/15/1984
 
 ; Brasília      ; 0-2;  Goiás
-  Sávio, Hílton
-
+;  Sávio, Hílton
 
 Date: 2/16/1984
 
-;; Operário-MS;    1-1  Flamengo
+; Operário-MS;    1-1;  Flamengo
   Edinho; João Paulo
 
-
 Round: 7
-
 Date: 2/19/1984
 
 ; Palmeiras     ; 1-1;  Flamengo
   Cléo; Tita
  
-;; Operário-MS;    4-2  Brasília
-  Lima (2), Nenê, Dionísio; Júnior, Brecha
-
+; Operário-MS;    4-2;  Brasília
+  Lima, Lima, Nenê, Dionísio; Júnior, Brecha
 
 Round: 8
-
 Date: 2/22/1984
 
 ; Brasília      ; 1-3;  Palmeiras
@@ -598,33 +512,26 @@ Date: 2/22/1984
 ; Goiás         ; 2-1;  Operário-MS
   Gílson Jáder, Hílton; Adílson
 
-
 Round: 9
-
 Date: 2/25/1984
 
 ; Flamengo      ; 3-0;  Brasília
-  Nunes (2), Adílio
-
+  Nunes, Nunes, Adílio;
 
 Date: 2/26/1984
 
 ; Goiás         ; 0-1;  Palmeiras
-  Robertinho
-
+;  Robertinho
 
 Round: 10
-
 Date: 2/29/1984
 
 ; Palmeiras     ; 2-2;  Operário-MS
   Cléo, Reinaldo Xavier; Nenê, Adílson
 
 ; Flamengo      ; 2-2;  Goiás
-  Adílio, Andrade; Cacau (2)
+  Adílio, Andrade; Cacau, Cacau
 
-
-*Table
 * 1-Flamengo           8  4  4  0  13- 6  12  Qualified 
 * 2-Palmeiras          8  4  3  1  15- 7  11  Qualified 
 * 3-Operário-MS        8  3  3  2  15-11   9  Qualified 
@@ -633,103 +540,84 @@ Date: 2/29/1984
 *- - - - - - - - - - - - - - - - - - - - - -
 * 5-Brasília           8  0  0  8   4-24   0
 
-Group F
-
+Group: F
 Round: 1
 Date: 1/29/1984
 
 ; Cruzeiro      ; 1-2;  América-RJ
-  Ademar; Luisinho (2)
+  Ademar; Luisinho, Luisinho
 
-;; Atlético-PR;    1-0  Rio Branco
-  Augusto
-
+; Atlético-PR;    1-0;  Rio Branco
+  Augusto;
 
 Round: 2
-
 Date: 2/1/1984
 
 ; Brasil        ; 1-0;  Cruzeiro
-  Bira
+  Bira;
 
-;; América-RJ;     1-0  Atlético-PR
-  Luisinho
-
+; América-RJ;     1-0;  Atlético-PR
+  Luisinho;
 
 Round: 3
-
 Date: 2/4/1984
 
 ; Cruzeiro      ; 1-3;  Rio Branco
-  Ademar; Dé (2), Arildo
-
+  Ademar; Dé, De, Arildo
 
 Date: 2/5/1984
 
-;; América-RJ;     1-1  Brasil
+; América-RJ;     1-1;  Brasil
   Luisinho; Zezinho
 
-
 Round: 4
-
 Date: 2/8/1984
 
 ; Rio Branco    ; 1-0;  Brasil
-  Arildo
+  Arildo;
 
-;; Atlético-PR;    3-2  Cruzeiro
-  Paulo Marcos (2), Nivaldo; Carlos Alberto Seixas, Joãozinho
-
+; Atlético-PR;    3-2;  Cruzeiro
+  Paulo Marcos, Paulo Marcos, Nivaldo; Carlos Alberto Seixas, Joãozinho
 
 Round: 5
-
 Date: 2/12/1984
 
 ; Rio Branco    ; 2-1;  América-RJ
-  Arildo (2); Gílson
+  Arildo, Arildo; Gílson
 
 ; Brasil        ; 1-1;  Atlético-PR
   Amauri; Joel
 
-
 Round: 6
-
 Date: 2/15/1984
 
 ; Brasil        ; 3-1;  Rio Branco
   Valdoir, Amauri, André; Vítor
 
-
 Date: 2/16/1984
 
-;; América-RJ;     1-1  Cruzeiro
+; América-RJ;     1-1;  Cruzeiro
   Douglas (own goal); Douglas
 
-
 Round: 7
-
 Date: 2/19/1984
 
 ; Rio Branco    ; 1-5;  Cruzeiro
-  Arildo; Carlos Alberto Seixas (2), Gílson (2), Tostão
+  Arildo; Carlos Alberto Seixas, Carlos Alberto Seixas, Gílson, Gilson, Tostão
 
-;; Atlético-PR;    0-1  América-RJ
-  Gílson
-
+; Atlético-PR;    0-1;  América-RJ
+;  Gílson
 
 Round: 8
-
 Date: 2/22/1984
 
 ; Cruzeiro      ; 4-0;  Brasil
-  Tostão (2), Aílton, Eduardo
+  Tostão, Tostao, Aílton, Eduardo;
 
 ; Rio Branco    ; 1-3;  Atlético-PR
   Arildo; Mossoró, Binga, Vânder
 
-
 Round: 9
-
 Date: 2/26/1984
 
 ; Brasil        ; 1-1;  América-RJ
@@ -738,27 +626,23 @@ Date: 2/26/1984
 ; Cruzeiro      ; 2-2;  Atlético-PR
   Eduardo, Ademar; Binga, Renato Sá
 
-
 Round: 10
-
 Date: 2/29/1984
 
-;; América-RJ;     3-1  Rio Branco
+; América-RJ;     3-1;  Rio Branco
   Gilcimar, Luisinho, Rick Richard; Arildo
 
-;; Atlético-PR   ; 0-0  Brasil
+; Atlético-PR   ; 0-0;  Brasil
 
-Table
- 1-América-RJ         8  4  3  1  11- 7  11  Qualified 
- 2-Atlético-PR        8  3  3  2  10- 8   9  Qualified 
- 3-Brasil (Pelotas)   8  2  4  2   7- 9   8  Qualified
--------------------------------------------
- 4-Rio Branco         8  3  0  5  10-17   6  Repescagem 
-- - - - - - - - - - - - - - - - - - - - - -
- 5-Cruzeiro           8  2  2  4  16-13   6
+* 1-América-RJ         8  4  3  1  11- 7  11  Qualified 
+* 2-Atlético-PR        8  3  3  2  10- 8   9  Qualified 
+* 3-Brasil (Pelotas)   8  2  4  2   7- 9   8  Qualified
+*-------------------------------------------
+* 4-Rio Branco         8  3  0  5  10-17   6  Repescagem 
+*- - - - - - - - - - - - - - - - - - - - - -
+* 5-Cruzeiro           8  2  2  4  16-13   6
 
-Group G
-
+Group: G
 Round: 1
 Date: 1/29/1984
 
@@ -770,8 +654,7 @@ Round: 2
 Date: 2/1/1984
 
 ; Internacional ; 5-0;  Anapolina
-  André Luís (2), Kita, Silvinho, Mílton Cruz
-
+  André Luís, Andre Luis, Kita, Silvinho, Mílton Cruz;
 
 Date: 2/3/1984
 
@@ -781,18 +664,16 @@ Round: 3
 Date: 2/5/1984
 
 ; Corinthians   ; 1-0;  Anapolina
-  Paulinho
+  Paulinho;
 
-;; Operário-MT;    1-0  Joinville
-  Mosca
-
+; Operário-MT;    1-0;  Joinville
+  Mosca;
 
 Round: 4
-
 Date: 2/8/1984
 
-;; Operário-MT;    2-2  Internacional
-  Zé Dias, Valdir; Kita (2)
+; Operário-MT;    2-2;  Internacional
+  Zé Dias, Valdir; Kita, Kita
 
 Date: 2/9/1984
 
@@ -803,14 +684,12 @@ Round: 5
 Date: 2/12/1984
 
 ; Anapolina     ; 1-0;  Joinville
-  Mateus
+  Mateus;
 
 ; Internacional ; 1-1;  Corinthians
   Juninho (own goal); Ataliba
 
-
 Round: 6
-
 Date: 2/15/1984
 
 ; Joinville     ; 2-1;  Operário-MT
@@ -819,26 +698,21 @@ Date: 2/15/1984
 ; Anapolina     ; 1-1;  Internacional
   Fernando; Silvinho
 
-
 Round: 7
-
 Date: 2/19/1984
 
 ; Corinthians   ; 2-1;  Joinville
   Sócrates, Casagrande; Vanderlei
 
 ; Internacional ; 2-0;  Operário-MT
-  Geraldão, André Luís
-
+  Geraldão, André Luís;
 
 Round: 8
-
 Date: 2/22/1984
 
-;; Operário-MT;    0-4  Corinthians
-  Eduardo, Casagrande, Zenon, Sócrates
+; Operário-MT;    0-4;  Corinthians
+;  Eduardo, Casagrande, Zenon, Sócrates
  
-
 Date: 2/23/1984
 
 ; Joinville     ; 0-0;  Anapolina
@@ -848,12 +722,10 @@ Date: 2/26/1984
 
 ; Corinthians   ; 0-0;  Internacional
 
-;; Operário-MT;    6-1  Anapolina
-  Mosca (4), Zé Dias, Bife; Mateus
-
+; Operário-MT;    6-1;  Anapolina
+  Mosca, Mosca, Mosca, Mosca, Zé Dias, Bife; Mateus
 
 Round: 10
-
 Date: 2/29/1984
 
 ; Internacional ; 1-1;  Joinville
@@ -861,7 +733,7 @@ Date: 2/29/1984
 
 ; Anapolina     ; 0-0;  Corinthians
 
-*Table
+
 * 1-Corinthians        8  3  4  1   9- 4  10  Qualified 
 * 2-Internacional      8  2  6  0  12- 5  10  Qualified 
 * 3-Operário-MT        8  2  3  3  10-11   7  [2 1 0 1  2- 2  2] Qualified
@@ -870,7 +742,7 @@ Date: 2/29/1984
 *- - - - - - - - - - - - - - - - - - - - - -
 * 5-Anapolina          8  1  4  3   3-13   6
 
-Group H
+Group: H
 
 Round: 1
 Date: 1/29/1984
@@ -878,58 +750,47 @@ Date: 1/29/1984
 ; Santa Cruz    ; 0-0;  Portuguesa
 
 ; Auto Esporte  ; 4-2;  Moto Clube
-  Sima (2), Paulo César, Israel; Raimundinho (2)
-
+  Sima, Sima, Paulo César, Israel; Raimundinho, Raimundinho
 
 Round: 2
-
 Date: 2/1/1984
 
 ; Portuguesa    ; 0-1;  Botafogo
-  Helinho
+;  Helinho
 
 ; Auto Esporte  ; 0-1;  Santa Cruz
-  Henágio
-
+;  Henágio
 
 Round: 3
-
 Date: 2/5/1984
 
 ; Moto Clube    ; 0-1;  Portuguesa
-  Mendonça
+;  Mendonça
 
 ; Botafogo      ; 0-1;  Santa Cruz
-  Valença
-
+;  Valença
 
 Round: 4
-
 Date: 2/8/1984
 
 ; Santa Cruz    ; 3-1;  Moto Clube
   Eraldo, Celso, Carlinhos Sousa; Zé Roberto
  
-
 Date: 2/9/1984
 
 ; Botafogo      ; 2-0;  Auto Esporte
-  Té, Alemão
-
+  Té, Alemão;
 
 Round: 5
-
 Date: 2/12/1984
 
 ; Moto Clube    ; 1-1;  Botafogo
   Zé Roberto; Alemão
 
 ; Portuguesa    ; 5-0;  Auto Esporte
-  Tite (2), Heriberto, Mendonça, João Batista
-
+  Tite, Tite, Heriberto, Mendonça, João Batista;
 
 Round: 6
-
 Date: 2/15/1984
 
 ; Auto Esporte  ; 1-2;  Botafogo
@@ -938,9 +799,7 @@ Date: 2/15/1984
 ; Moto Clube    ; 2-2;  Santa Cruz
   Dias Pereira, Tião; Henágio, Jarbas
 
-
 Round: 7
-
 Date: 2/18/1984
 
 ; Portuguesa    ; 0-0;  Santa Cruz
@@ -948,20 +807,18 @@ Date: 2/18/1984
 Date: 2/19/1984
 
 ; Moto Clube    ; 0-1;  Auto Esporte
-  Paulo César
+;  Paulo César
 
 Round: 8
 Date: 2/22/1984
 
 ; Botafogo      ; 0-1;  Moto Clube
-  Cândido
+;  Cândido
 
 ; Auto Esporte  ; 3-2;  Portuguesa
-  Sima (2), Bega; Tite, Marinho Rã
-
+  Sima, Sima, Bega; Tite, Marinho Rã
 
 Round: 9
-
 Date: 2/25/1984
 
 ; Botafogo      ; 0-0;  Portuguesa
@@ -975,13 +832,11 @@ Round: 10
 Date: 2/29/1984
 
 ; Portuguesa    ; 2-0;  Moto Clube
-  Mendonça, Jorginho
+  Mendonça, Jorginho;
 
 ; Santa Cruz    ; 1-2;  Botafogo
   Iva; Julião (own goal), Berg
 
-
-*Table
 * 1-Santa Cruz         8  4  3  1  11- 6  11  Qualified 
 * 2-Botafogo           8  4  2  2   8- 5  10  Qualified 
 * 3-Portuguesa         8  3  3  2  10- 4   9  Qualified 
@@ -990,26 +845,24 @@ Date: 2/29/1984
 *- - - - - - - - - - - - - - - - - - - - - -
 * 5-Moto Clube         8  1  2  5   7-14   4
 
-Repescagem
-
+*Repescagem
 Date: 3/2/1984
 
 ; Tuna Luso     ; 0-1;  Treze
-  Volnei
+;  Volnei
 
 ; Coritiba      ; 3-1;  Ferroviário
-  Carlinhos Maracanã (3); Betinho
+  Carlinhos Maracanã, Carlinhos Maracanã, Carlinhos Maracanã; Betinho
 
 ; Goiás         ; 2-1;  Rio Branco
   Cacau, Zé Ronaldo; Carlos Rubens
 
 ; Joinville     ; 2-0;  Auto Esporte
-  Ademir, Zé Augusto
+  Ademir, Zé Augusto;
 
-Second Phase
+*Second Phase
 
-Group I
-
+Group: I
 Round: 1
 
 Date: 3/11/1984
@@ -1026,30 +879,27 @@ Date: 3/14/1984
 ; Bahia         ; 0-0;  São Paulo      
 
 ; Fluminense    ; 3-0;  Goiás
-  Assis, Leomir, Washington
+  Assis, Leomir, Washington;
 
 Round: 3
 Date: 3/18/1984
 
 ; São Paulo     ; 0-2;  Fluminense
-  Washington, Rogério
+;  Washington, Rogério
  
 ; Goiás         ; 2-0;  Bahia
-  Timoura, Washington
-
+  Timoura, Washington;
 
 Round: 4
-
 Date: 3/21/1984
 
 ; Fluminense    ; 3-1;  Bahia
   Leomir, Washington, Assis; Osni
 
-
 Date: 3/22/1984
 
 ; São Paulo     ; 3-2;  Goiás
-  Sídnei (2), Pianelli; Cacau, Nei
+  Sídnei, Sidnei, Pianelli; Cacau, Nei
 
 Round: 5
 Date: 3/25/1984
@@ -1063,34 +913,29 @@ Round: 6
 Date: 4/1/1984
 
 ; São Paulo     ; 2-0;  Bahia
-  Jaiminho, Oscar
+  Jaiminho, Oscar;
  
 ; Goiás         ; 3-0;  Fluminense
-  Hílton, Sávio, Washington
+  Hílton, Sávio, Washington;
 
-
-*Table
 * 1-Fluminense         6  3  2  1   9- 5   8  Qualified 
 * 2-Goiás              6  3  1  2  11- 9   7  Qualified 
 *-------------------------------------------
 * 3-São Paulo          6  2  3  1   7- 6   7
 * 4-Bahia              6  0  2  4   3-10   2
 
-Group J
-
+Group: J
 Round: 1
 
 Date: 3/11/1984
 
 ; Vasco da Gama ; 3-1;  Atlético-MG
-  Marquinho Carioca (2), Mário; Reinaldo
+  Marquinho Carioca, Marquinho Carioca, Mário; Reinaldo
 
 ; Grêmio        ; 1-0;  Joinville
-  Luís Eduardo
-
+  Luís Eduardo;
 
 Round: 2
-
 Date: 3/14/1984
 
 ; Grêmio        ; 0-0;  Vasco da Gama
@@ -1102,55 +947,48 @@ Round: 3
 Date: 3/18/1984
 
 ; Joinville     ; 1-0;  Vasco da Gama
-  Léo
+  Léo;
 
-;; Atlético-MG;    0-1  Grêmio
-  Osvaldo
+; Atlético-MG;    0-1;  Grêmio
+;  Osvaldo
 
 Round: 4
 Date: 3/21/1984
 
-;; Atlético-MG;    3-1  Joinville
+; Atlético-MG;    3-1;  Joinville
   Oliveira, Léo (own goal), Reinaldo; Albeneir
  
-
 Date: 3/22/1984
 
 ; Vasco da Gama ; 1-0;  Grêmio
-  Roberto Dinamite
-
+  Roberto Dinamite;
 
 Round: 5
-
 Date: 3/25/1984
 
 ; Grêmio        ; 1-0;  Atlético-MG
-  Caio
+  Caio;
 
 ; Vasco da Gama ; 6-0;  Joinville
-  Arthurzinho (2), Mário, Roberto Dinamite, Mauricinho, Edevaldo
-
+  Arthurzinho, Arthurzinho, Mário, Roberto Dinamite, Mauricinho, Edevaldo;
 
 Round: 6
-
 Date: 4/1/1984
 
-;; Atlético-MG;    1-0  Vasco da Gama
-  Marcus Vinícius
+; Atlético-MG;    1-0;  Vasco da Gama
+  Marcus Vinícius;
  
 ; Joinville     ; 1-0;  Grêmio
-  Carlos Silva
+  Carlos Silva;
 
 
-*Table
 * 1-Vasco da Gama      6  3  1  2  10- 3   7  [2 1 1 0  2- 1  3] Qualified 
 * 2-Grêmio             6  3  1  2   3- 2   7  [2 0 1 1  1- 2  1] Qualified 
 *-------------------------------------------
 * 3-Atlético-MG        6  2  1  3   6- 7   5  [2 1 1 0  4- 2  3]
 * 4-Joinville          6  2  1  3   4-11   5  [2 0 1 1  2- 4  1]
 
-Group K
-
+Group: K
 Round: 1
 
 Date: 3/11/1984
@@ -1159,149 +997,128 @@ Date: 3/11/1984
   Lino; Vágner
  
 ; CRB           ; 1-0;  Palmeiras
-  Joãozinho Paulista
-
+  Joãozinho Paulista;
 
 Round: 2
-
 Date: 3/14/1984
 
 ; CRB           ; 0-0;  Santos
 
 ; Palmeiras     ; 0-1;  Fortaleza
-  Vágner
-
+;  Vágner
 
 Round: 3
-
 Date: 3/17/1984
 
 ; Palmeiras     ; 2-2;  Santos
   Robertinho, Baltazar; Serginho, Camargo
 
-
 Date: 3/18/1984
 
 ; Fortaleza     ; 1-0;  CRB
-  Luisinho
+  Luisinho;
 
 Round: 4
 Date: 3/21/1984
 
 ; Santos        ; 2-0;  CRB
-  Lino, Serginho
+  Lino, Serginho;
 
 ; Fortaleza     ; 3-3;  Palmeiras
   Tangerina, Betinho, Evilásio; Reinaldo Xavier, Márcio, Baltazar
 
-
 Round: 5
-
 Date: 3/25/1984
 
 ; Santos        ; 2-3;  Palmeiras
-  Serginho (2); Reinaldo Xavier (2), Toninho Carlos (own goal)
+  Serginho, Serginho; Reinaldo Xavier, Reinaldo Xavier, Toninho Carlos (own goal)
 
 ; CRB           ; 0-0;  Fortaleza
 
 Round: 6
-
 Date: 3/30/1984
 
 ; Fortaleza     ; 1-4;  Santos
-  Evilásio; Serginho (2), Ronaldo, Pita
+  Evilásio; Serginho, Serginho, Ronaldo, Pita
 
 ; Palmeiras     ; 7-0;  CRB
-  Jorginho (3), Reinaldo Xavier (2), Vágner, Márcio
+  Jorginho, Jorginho, Jorginho, Reinaldo Xavier, Reinaldo Xavier, Vágner, Márcio;
 
-*Table
 * 1-Santos             6  2  3  1  11- 7   7  [2 1 1 0  5- 2  3] Qualified 
 * 2-Fortaleza          6  2  3  1   7- 8   7  [2 0 1 1  2- 5  1] Qualified
 *-------------------------------------------
 * 3-Palmeiras          6  2  2  2  15- 9   6
 * 4-CRB                6  1  2  3   1-10   4
 
-Group L
-
+Group: L
 Round: 1
 Date: 3/11/1984
 
-;; Atlético-PR;    5-0  ABC
-  Renato Sá, Nivaldo, Paulo Marcos, Sóter, Capitão
+; Atlético-PR;    5-0;  ABC
+  Renato Sá, Nivaldo, Paulo Marcos, Sóter, Capitão;
  
 ; Santo André   ; 0-1;  Operário-MS
-  Nenê
-
+;  Nenê
 
 Round: 2
-
 Date: 3/14/1984
 
-;; Atlético-PR;    3-2  Santo André
-  Binga, Capitão, Nivaldo; Jones (2)
+; Atlético-PR;    3-2;  Santo André
+  Binga, Capitão, Nivaldo; Jones, Jones
 
 ; ABC           ; 2-2;  Operário-MS
-  Silva, Marinho; Lima (2)
-
+  Silva, Marinho; Lima, Lima
 
 Round: 3
-
 Date: 3/18/1984
 
-;; Operário-MS;    1-0  Atlético-PR
-  Nenê
+; Operário-MS;    1-0;  Atlético-PR
+  Nenê;
 
 ; ABC           ; 2-4;  Santo André
   Silva, Marinho; Esquerdinha, Sôni, Rota, Jones
 
-
 Round: 4
-
 Date: 3/21/1984
 
 ; Santo André   ; 0-0;  Atlético-PR
 
-;; Operário-MS;    1-0  ABC
-  Lima
+; Operário-MS;    1-0;  ABC
+  Lima;
 
 Round: 5
 Date: 3/25/1984
 
 ; Santo André   ; 2-0;  ABC
-  Barbosa (2)
+  Barbosa, Barbosa;
 
-;; Atlético-PR;    1-0  Operário-MS
-  Binga
-
+; Atlético-PR;    1-0;  Operário-MS
+  Binga;
 
 Round: 6
-
 Date: 4/1/1984
 
 ; ABC           ; 1-0;  Atlético-PR
-  Neinha
+  Neinha;
 
-;; Operário-MS;    0-2  Santo André
-  Gérson Lopes, Barbosa
+; Operário-MS;    0-2;  Santo André
+;  Gérson Lopes, Barbosa
 
 
-*Table
 * 1-Atlético-PR        6  3  1  2   9- 4   7  Qualified 
 * 2-Santo André        6  3  1  2  10- 6   7  Qualified 
 *-------------------------------------------
 * 3-Operário-MS        6  3  1  2   5- 5   7  * - Qualified (as best 3rd place)
 * 4-ABC                6  1  1  4   5-14   3
 
-Group M
-
+Group: M
 Round: 1
 
 Date: 3/10/1984
 
 ; Flamengo      ; 3-0;  Brasil
-  Adalberto, Andrade, Bebeto
+  Adalberto, Andrade, Bebeto;
  
-
 Date: 3/11/1984
 
 ; Portuguesa    ; 0-0;  Internacional
@@ -1310,37 +1127,32 @@ Round: 2
 Date: 3/14/1984
 
 ; Brasil        ; 1-0;  Internacional
-  Chico Fraga
-
+  Chico Fraga;
 
 Date: 3/15/1984
 
 ; Portuguesa    ; 0-1;  Flamengo
-  Odirlei (own goal)
+;  Odirlei (own goal)
 
 Round: 3
 Date: 3/18/1984
 
 ; Internacional ; 4-0;  Flamengo
-  Silvinho (2), Mílton Cruz, Rubén Paz
+  Silvinho, Silvinho, Mílton Cruz, Rubén Paz;
  
 ; Brasil        ; 0-1;  Portuguesa
-  Marinho Rã
-
+;  Marinho Rã
 
 Round: 4
-
 Date: 3/21/1984
 
 ; Brasil        ; 1-0;  Flamengo
-  Chico Fraga
+  Chico Fraga;
 
 ; Portuguesa    ; 1-0;  Internacional
-  Tite
-
+  Tite;
 
 Round: 5
-
 Date: 3/24/1984
 
 ; Internacional ; 1-1;  Brasil
@@ -1349,13 +1161,11 @@ Date: 3/24/1984
 ; Flamengo      ; 1-1;  Portuguesa
   Nunes; Mendonça
 
-
 Round: 6
-
 Date: 4/1/1984
 
 ; Flamengo      ; 2-0;  Internacional
-  Mozer, Dunga (own goal)
+  Mozer, Dunga (own goal);
 
 ; Portuguesa    ; 4-1;  Brasil
   Tite, Marinho Rã, Gérson Sodré, Leiz; Hélio
@@ -1367,25 +1177,22 @@ Date: 4/1/1984
 * 3-Brasil (Pelotas)   6  2  1  3   4- 9   5
 * 4 Internacional      6  1  2  3   5- 5   4
 
-Group N
+Group: N
 
 Round: 1
 Date: 3/11/1984
 
-;; Operário-MT;    1-1  Botafogo
+; Operário-MT;    1-1;  Botafogo
   Mosca; Amarildo
  
-;; América-RJ;     0-1  Coritiba
-  Carlinhos Maracanã
-
+; América-RJ;     0-1;  Coritiba
+;  Carlinhos Maracanã
 
 Round: 2
-
 Date: 3/14/1984
 
-;; América-RJ;     3-1  Operário-MT
-  Luisinho (2), Gílson; Bife
-
+; América-RJ;     3-1;  Operário-MT
+  Luisinho, Luisinho, Gílson; Bife
 
 Date: 3/15/1984
 
@@ -1394,58 +1201,49 @@ Date: 3/15/1984
 
 
 Round: 3
-
 Date: 3/18/1984
 
 ; Botafogo      ; 0-0;  América-RJ
 
 ; Coritiba      ; 2-0;  Operário-MT
-  Lela (2)
+  Lela, Lela;
 
 Round: 4
 Date: 3/21/1984
 
-;; Operário-MT;    1-4  América-RJ
-  Mosca; Luisinho (2), Gilcimar, Laércio (own goal)
+; Operário-MT;    1-4;  América-RJ
+  Mosca; Luisinho, Luisinho, Gilcimar, Laércio (own goal)
 
 ; Coritiba      ; 1-1;  Botafogo
   Vavá; Abel
 
-
 Round: 5
-
 Date: 3/24/1984
 
-;; América-RJ;     2-1  Botafogo
+; América-RJ;     2-1;  Botafogo
   Gílson, Moreno; Cláudio Adão
-
 
 Date: 3/25/1984
 
-;; Operário-MT;    2-0  Coritiba
-  Luisão, Dito
-
+; Operário-MT;    2-0;  Coritiba
+  Luisão, Dito;
 
 Round: 6
-
 Date: 4/1/1984
 
 ; Botafogo      ; 0-1;  Operário-MT
-  Mosca
+;  Mosca
 
 ; Coritiba      ; 3-2;  América-RJ
-  Lela (2), Carlinhos Maracanã; Gilberto, Moreno
+  Lela, Lela, Carlinhos Maracanã; Gilberto, Moreno
 
-
-*Table
 * 1-Coritiba           6  3  1  2   8- 8   7  [2 2 0 0  4- 2  4] Qualified
 * 2-América-RJ         6  3  1  2  11- 7   7  [2 0 0 2  2- 4  0] Qualified 
 *-------------------------------------------
 * 3-Operário-MT        6  2  1  3   6-10   5
 * 4-Botafogo           6  1  3  2   6- 6   5
 
-Group O
-
+Group: O
 Round: 1
 Date: 3/11/1984
 
@@ -1453,22 +1251,18 @@ Date: 3/11/1984
   Iva; Jangada
  
 ; Corinthians   ; 4-0;  Náutico
-  Ataliba (3), Eduardo
-
+  Ataliba, Ataliba, Ataliba, Eduardo;
 
 Round: 2
-
 Date: 3/14/1984
 
 ; Santa Cruz    ; 1-1;  Corinthians
   Iva; Casagrande
 
 ; Treze         ; 0-1;  Náutico
-  Manguinha
-
+;  Manguinha
 
 Round: 3
-
 Date: 3/18/1984
 
 ; Treze         ; 0-0;  Corinthians
@@ -1480,65 +1274,58 @@ Round: 4
 Date: 3/21/1984
 
 ; Corinthians   ; 1-0;  Santa Cruz
-  Ataliba
+  Ataliba;
 
 ; Náutico       ; 1-0;  Treze
-  Ferreira
-
+  Ferreira;
 
 Round: 5
-
 Date: 3/24/1984
 
 ; Corinthians   ; 1-1;  Treze
   Biro-Biro; Puma
  
-
 Date: 3/25/1984
 
 ; Santa Cruz    ; 2-0;  Náutico
-  Henágio, Jarbas
-
+  Henágio, Jarbas;
 
 Round: 6
-
 Date: 4/1/1984
 
 ; Náutico       ; 5-1;  Corinthians
-  Mirandinha (2), Hêider, Newmar, Paulinho; Casagrande
+  Mirandinha, Mirandinha, Hêider, Newmar, Paulinho; Casagrande
 
 ; Treze         ; 0-1;  Santa Cruz
-  Eraldo
+;  Eraldo
 
 
-*Table
 * 1-Náutico            6  3  1  2   8- 8   7  Qualified 
 * 2-Corinthians        6  2  3  1   8- 7   7  [2 1 1 0  2- 1  3] Qualified 
 *-------------------------------------------
 * 3-Santa Cruz         6  2  3  1   6- 4   7  [2 0 1 1  1- 2  1]
 * 4-Treze              6  0  3  3   2- 5   3
 
-Third Phase
+*Third Phase
+*
+*Qualified to Third Phase from Taça CBF
+*
+*UBERLÂNDIA Esporte Clube (Uberlândia-MG)
+*
+*First Stage
 
-Qualified to Third Phase from Taça CBF
-
-UBERLÂNDIA Esporte Clube (Uberlândia-MG)
-
-First Stage
-
-Group P
+Group: P
 
 Round: 1
 
 Date: 4/7/1984
 
 ; Fluminense    ; 1-0;  Santo André
-  Wilsinho
-
+  Wilsinho;
 
 Date: 4/8/1984
 
-;; Operário-MS;    1-1  Portuguesa
+; Operário-MS;    1-1;  Portuguesa
   Nenê; Heriberto
 
 Round: 2
@@ -1547,61 +1334,53 @@ Date: 4/11/1984
 ; Portuguesa    ; 1-1;  Santo André
   Mendonça; Marco Antônio
 
-;; Operário-MS;    0-0  Fluminense
+; Operário-MS;    0-0;  Fluminense
 
 Round: 3
 Date: 4/15/1984
 
 ; Portuguesa    ; 0-1;  Fluminense
-  Delei
+;  Delei
 
 ; Santo André   ; 1-1;  Operário-MS
   Rota; Lima
 
-
 Round: 4 
-
 Date: 4/18/1984
 
 ; Santo André   ; 0-0;  Portuguesa
 
 ; Fluminense    ; 2-0;  Operário-MS
-  Assis (2)
+  Assis, Assis;
 
 Round: 5 
 Date: 4/21/1984
 
 ; Fluminense    ; 4-2;  Portuguesa
-  Romerito (2), Tato, Wilsinho; Mendonça, Heriberto
+  Romerito, Romerito, Tato, Wilsinho; Mendonça, Heriberto
  
 
 Date: 4/22/1984
 
-;; Operário-MS;    1-0  Santo André
-  Biro-Biro
-
+; Operário-MS;    1-0;  Santo André
+  Biro-Biro;
 
 Round: 6
-
 Date: 4/25/1984
 
 ; Portuguesa    ; 3-2;  Operário-MS
-  Gérson Sodré (2), Roberto César; Vandinho, Lima
+  Gérson Sodré, Gerson Sodre, Roberto César; Vandinho, Lima
 
 ; Santo André   ; 1-1;  Fluminense
   Esquerdinha; Delei
 
-
-
-*Table
 * 1-Fluminense         6  4  2  0   9- 3  10  Qualified
 * 2-Portuguesa         6  1  3  2   7- 9   5  [2 1 1 0  4- 3  3] Qualified 
 *-------------------------------------------
 * 3-Operário-MS        6  1  3  2   5- 7   5  [2 0 0 1  3- 4  1]
 * 4-Santo André        6  0  4  2   3- 5   4
 
-Group Q
-
+Group: Q
 Round: 1
 Date: 4/8/1984
 
@@ -1615,21 +1394,19 @@ Round: 2
 Date: 4/11/1984
 
 ; Uberlândia    ; 1-0;  Fortaleza
-  Geraldo Touro
+  Geraldo Touro;
  
 ; Vasco da Gama ; 1-0;  Coritiba
-  Roberto Dinamite
-
+  Roberto Dinamite;
 
 Round: 3
-
 Date: 4/15/1984
 
 ; Coritiba      ; 1-0;  Uberlândia
-  André
+  André;
 
 ; Vasco da Gama ; 2-0;  Fortaleza
-  Roberto Dinamite, Marquinho Carioca
+  Roberto Dinamite, Marquinho Carioca;
 
 Round: 4
 Date: 4/18/1984
@@ -1637,13 +1414,13 @@ Date: 4/18/1984
 ; Coritiba      ; 0-0;  Vasco da Gama  
 
 ; Fortaleza     ; 0-2;  Uberlândia 
-  Geraldo Touro (2)
+;  Geraldo Touro, Geraldo Touro
 
 Round: 5
 Date: 4/22/1984
 
 ; Fortaleza     ; 1-5;  Vasco da Gama
-  Tangerina; Arthurzinho (4), Roberto Dinamite
+  Tangerina; Arthurzinho, Arthurzinho, Arthurzinho, Arthurzinho, Roberto Dinamite
 
 ; Uberlândia    ; 1-1;  Coritiba
   Vivinho; Lela
@@ -1652,7 +1429,7 @@ Round: 6
 Date: 4/25/1984
 
 ; Vasco da Gama ; 1-0;  Uberlândia
-  Roberto Dinamite
+  Roberto Dinamite;
 
 ; Coritiba      ; 2-1;  Fortaleza
   Carlinhos Maracanã, Lela; Vavá (own goal)
@@ -1665,93 +1442,79 @@ Date: 4/25/1984
 * 3-Uberlândia         6  2  2  2   4- 3   6
 * 4-Fortaleza          6  0  1  5   3-13   1
 
-Group R
+Group: R
 Round: 1
 Date: 4/8/1984
 
 ; Flamengo      ; 3-0;  América-RJ
-  Edmar, Adílio, Bebeto
-
+  Edmar, Adílio, Bebeto;
 
 Date: 4/9/1984
 
 ; Santos        ; 4-2;  Náutico
-  Serginho (2), Gersinho, Paulo Isidoro; Mirandinha, Baiano
-
+  Serginho, Serginho, Gersinho, Paulo Isidoro; Mirandinha, Baiano
 
 Round: 2
-
 Date: 4/12/1984
 
-;; América-RJ;     1-1  Santos
+; América-RJ;     1-1;  Santos
   Luisinho; Gersinho
  
 ; Flamengo      ; 2-0;  Náutico
-  Edmar, Tita
+  Edmar, Tita;
 
 Round: 3
 Date: 4/15/1984
 
 ; Santos        ; 0-1;  Flamengo
-  Tita
+;  Tita
 
 ; Náutico       ; 3-1;  América-RJ
   Baiano, Édson Gaúcho, Hêider; Luisinho
 
-
 Round: 4
-
 Date: 4/18/1984
 
-;; América-RJ;     0-0  Flamengo
+; América-RJ;     0-0;  Flamengo
 
 ; Náutico       ; 1-0;  Santos
-  Paulinho
-
+  Paulinho;
 
 Round: 5
-
 Date: 4/22/1984
 
 ; Flamengo      ; 2-2;  Santos
   Mozer, Bebeto; Paulo Róbson, Lino
 
-;; América-RJ;     1-1  Náutico
+; América-RJ;     1-1;  Náutico
   Luisinho; Sinvaldo
 
-
 Round: 6
-
 Date: 4/25/1984
 
 ; Santos        ; 1-0;  América-RJ
-  Lino
+  Lino;
 
 ; Náutico       ; 2-1;  Flamengo
   Gérson, Édson Gaúcho; Bebeto
 
-
-*Table
 * 1-Flamengo           6  3  2  1   9- 4   8  Qualified 
 * 2-Náutico            6  3  1  2   9- 9   7  Qualified 
 *-------------------------------------------
 * 3-Santos             6  2  2  2   8- 7   6
 * 4-América-RJ         6  0  3  3   3- 9   3
 
-Group S
-
+Group: S
 Round: 1
 Date: 4/8/1984
 
-;; Atlético-PR;    1-1  Corinthians
+; Atlético-PR;    1-1;  Corinthians
   Amauri; Édson Boaro
 
 ; Goiás         ; 1-1;  Grêmio
   Carlos Magno; De León
 
-
 Round: 2
-
 Date: 4/11/1984
 
 ; Grêmio        ; 2-1;  Corinthians
@@ -1763,8 +1526,7 @@ Round: 3
 Date: 4/14/1984
 
 ; Corinthians   ; 5-0;  Goiás
-  Sócrates (4), Casagrande
-
+  Sócrates, Socrates, Socrates, Socrates, Casagrande;
 
 Date: 4/15/1984
 
@@ -1778,28 +1540,26 @@ Date: 4/18/1984
 
 Date: 4/19/1984
 
-;; Atlético-PR;    2-1  Goiás
+; Atlético-PR;    2-1;  Goiás
   Renato Sá, Nivaldo; Cacau
 
 Round: 5
 Date: 4/22/1984
 
-;; Atlético-PR;    1-4  Grêmio
-  Augusto; Renato Gaúcho (2), Osvaldo, Caio
+; Atlético-PR;    1-4;  Grêmio
+  Augusto; Renato Gaúcho, Renato Gaucho, Osvaldo, Caio
 
 ; Goiás         ; 0-1;  Corinthians
-  Sócrates
-
+;  Sócrates
 
 Round: 6
-
 Date: 4/25/1984
 
 ; Grêmio        ; 2-0;  Goiás
-  China, Caio
+  China, Caio;
 
 ; Corinthians   ; 2-0;  Atlético-PR
-  Casagrande (2)
+  Casagrande, Casagrande;
 
 
 * 1-Grêmio             6  3  3  0  10- 4   9  Qualified 
@@ -1808,83 +1568,83 @@ Date: 4/25/1984
 * 3-Atlético-PR        6  1  3  2   5- 9   5
 * 4-Goiás              6  0  2  4   2-11   2
 
-Quarterfinals
-
-
-Date: 4/29 and May 6/1984
-
-Coritiba       2-2   0-5  Fluminense
-  [Vavá, Lela; Washington, Romerito]
-  [Washington (2), Assis, Renê, Romerito] 
-Flamengo       2-0   1-4  Corinthians
-  [Élder, Bebeto] 
-  [Paulinho (own goal); Biro-Biro, Wladimir, Édson Boaro, Ataliba]
-
-Date: 5/1 and 5/1984
-
-Portuguesa     2-5   3-4  Vasco da Gama
-  [Gérson Sodré, Mendonça; Arthurzinho (2), Roberto Dinamite (2), Mário]
-  [Pires (own goal), Toquinho, Ramirez; Roberto Dinamite (3), Arthurzinho]
-
-Date: 5/1 and 6/1984
-
-Náutico        2-3   1-3  Grêmio
-  [Édson Gaúcho, Baiano; Caio, Tarciso, César]
-  [Mirandinha; Édson Gaúcho (own goal), Osvaldo, Tarciso]
-
-Semifinals
-
-First Leg
-
-Date: 5/12 and 19/1984
-
-Grêmio         1-0   0-3  Vasco da Gama
-  [Tarciso]
-  [Roberto Dinamite (2), Marquinho Carioca]
-
-Date: 5/13 and 20/1984
-
-Corinthians    0-2   0-0  Fluminense
-  [Assis, Tato] 
-
-Final
-
-
-
-Date: 5/24 and 28/1984
-
-Vasco da Gama  0-1   0-0  Fluminense
-  [Romerito]
-
-VASCO 0 X 1 FLUMINENSE
-Local: Estádio do Maracanã (RJ)
-Data: 24/05/1984
-Árbitro: Luís Carlos Félix (RJ)
-CRVG: Roberto Costa; Edvaldo, Ivan, Daniel González e Aírton; Pires, Arturzinho e
-Mário (Geovani); Mauricinho (Jussiê), Roberto Dinamite e Marquinho.
-Técnico: Edu Coimbra.
-FFC: Paulo Vítor; Aldo, Duílio, Ricardo Gomes e Renato; Jandir, Delei (Renê) e
-Assis; Romeiro, Washington (Wilsinho) e Tato.
-Técnico: Carlos Alberto Parreira.
-Gol: Romerito, aos 23'.
-Renda: Cr$ 316.125.000,00
-Público: 63.156 pagantes.
-
-FLUMINENSE 0 X 0 VASCO
-Local: Estádio do Maracanã (RJ)
-Data: 27/05/1984
-Árbitro: Romualdo Arpi Filho (SP)   
-Cartões amarelos: Roberto Dinamite, Romerito, Daniel González, Aldo, Mário e Jandir.
-FFC: Paulo Vítor; Aldo, Duílio, Ricardo Gomes e Branco; Jandir, Delei e Assis;
-Romerito, Washington e Tato.
-Técnico: Carlos Alberto Parreira.
-CRVG: Roberto Costa; Edvaldo, Ivan, Daniel González e Aírton; Pires, Arturzinho
-e Mário; Mauricinho, Roberto Dinamite e Marquinho.
-Técnico: Edu Coimbra.
-Renda: Cr$ 638.160.000,00
-Público: 128.381 pagantes.  
-
-Fluminense FC (Rio de Janeiro) are the 1984 Brazilian champions
+*Quarterfinals
+*
+*
+*Date: 4/29 and May 6/1984
+*
+*Coritiba       2-2   0-5  Fluminense
+*  [Vavá, Lela; Washington, Romerito]
+*  [Washington (2), Assis, Renê, Romerito] 
+*Flamengo       2-0   1-4  Corinthians
+*  [Élder, Bebeto] 
+*  [Paulinho (own goal); Biro-Biro, Wladimir, Édson Boaro, Ataliba]
+*
+*Date: 5/1 and 5/1984
+*
+*Portuguesa     2-5   3-4  Vasco da Gama
+*  [Gérson Sodré, Mendonça; Arthurzinho (2), Roberto Dinamite (2), Mário]
+*  [Pires (own goal), Toquinho, Ramirez; Roberto Dinamite (3), Arthurzinho]
+*
+*Date: 5/1 and 6/1984
+*
+*Náutico        2-3   1-3  Grêmio
+*  [Édson Gaúcho, Baiano; Caio, Tarciso, César]
+*  [Mirandinha; Édson Gaúcho (own goal), Osvaldo, Tarciso]
+*
+*Semifinals
+*
+*First Leg
+*
+*Date: 5/12 and 19/1984
+*
+*Grêmio         1-0   0-3  Vasco da Gama
+*  [Tarciso]
+*  [Roberto Dinamite (2), Marquinho Carioca]
+*
+*Date: 5/13 and 20/1984
+*
+*Corinthians    0-2   0-0  Fluminense
+*  [Assis, Tato] 
+*
+*Final
+*
+*
+*
+*Date: 5/24 and 28/1984
+*
+*Vasco da Gama  0-1   0-0  Fluminense
+*  [Romerito]
+*
+*VASCO 0 X 1 FLUMINENSE
+*Local: Estádio do Maracanã (RJ)
+*Data: 24/05/1984
+*Árbitro: Luís Carlos Félix (RJ)
+*CRVG: Roberto Costa; Edvaldo, Ivan, Daniel González e Aírton; Pires, Arturzinho e
+*Mário (Geovani); Mauricinho (Jussiê), Roberto Dinamite e Marquinho.
+*Técnico: Edu Coimbra.
+*FFC: Paulo Vítor; Aldo, Duílio, Ricardo Gomes e Renato; Jandir, Delei (Renê) e
+*Assis; Romeiro, Washington (Wilsinho) e Tato.
+*Técnico: Carlos Alberto Parreira.
+*Gol: Romerito, aos 23'.
+*Renda: Cr$ 316.125.000,00
+*Público: 63.156 pagantes.
+*
+*FLUMINENSE 0 X 0 VASCO
+*Local: Estádio do Maracanã (RJ)
+*Data: 27/05/1984
+*Árbitro: Romualdo Arpi Filho (SP)   
+*Cartões amarelos: Roberto Dinamite, Romerito, Daniel González, Aldo, Mário e Jandir.
+*FFC: Paulo Vítor; Aldo, Duílio, Ricardo Gomes e Branco; Jandir, Delei e Assis;
+*Romerito, Washington e Tato.
+*Técnico: Carlos Alberto Parreira.
+*CRVG: Roberto Costa; Edvaldo, Ivan, Daniel González e Aírton; Pires, Arturzinho
+*e Mário; Mauricinho, Roberto Dinamite e Marquinho.
+*Técnico: Edu Coimbra.
+*Renda: Cr$ 638.160.000,00
+*Público: 128.381 pagantes.  
+*
+*Fluminense FC (Rio de Janeiro) are the 1984 Brazilian champions
 
 *Final Table
 * 1-Fluminense        26 15  9  2  37-13  39 Qualified to Copa Libertadores 1985

@@ -1,14 +1,14 @@
 Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1988.htm
 Season: 1988
+home-first
 
+*First Phase
 
-First Phase
-
-First Stage
-Teams in Group A played against the teams in Group B.
-
-Groups A and B
+*First Stage
+*Teams in Group A played against the teams in Group B.
+*
+*Groups A and B
 
 Round: 1
 Date: 9/2/1988
@@ -23,10 +23,10 @@ Penalty kicks: 5-3
 Date: 9/4/1988
 
 ; Santa Cruz    ; 0-1;  Sport
-  Baiano
+;  Baiano
 
 ; Goiás         ; 0-1;  Guarani
-  Pedrinho Maradona
+;  Pedrinho Maradona
 
 ; Palmeiras     ; 1-1;  Santos         
 Penalty kicks: 4-3
@@ -40,40 +40,38 @@ Penalty kicks: 4-5
   Cláudio Adão; Marcelo Henrique
 
 ; Vasco da Gama ; 1-0;  Flamengo
-  Sorato
+  Sorato;
 
 ; Corinthians   ; 0-1;  São Paulo
-  Renatinho
+;  Renatinho
 
 ; Grêmio        ; 1-0;  Internacional
-  Zé Roberto
+  Zé Roberto;
 
 ; Coritiba      ; 1-0;  Atlético-PR
-  Édson Borges
+  Édson Borges;
 
 ; Criciúma      ; 1-1;  Portuguesa     
 Penalty kicks: 4-5
   Paulo Gaúcho; Toninho
 
-
 Round: 2
-
 Date: 9/7/1988
 
 ; Goiás         ; 0-2;  Vasco da Gama
-  Roberto Dinamite, Bismarck
+;  Roberto Dinamite, Bismarck
 
 ; Sport         ; 0-0;  Cruzeiro       
 Penalty kicks: 5-4
 
 ; Grêmio        ; 3-0;  São Paulo
-  Jorge Veras, Marcus Vinícius, Cristóvao
+  Jorge Veras, Marcus Vinícius, Cristóvao;
 
 ; Corinthians   ; 0-0;  Fluminense     
 Penalty kicks: 3-2
 
 ; Portuguesa    ; 3-1;  Coritiba
-  Kita (2), Capitão; Tostão
+  Kita, Kita, Capitão; Tostão
 
 ; Palmeiras     ; 2-1;  Santa Cruz
   Tato, Edu Manga; Gílson Gênio
@@ -82,37 +80,34 @@ Penalty kicks: 3-2
   Paloma; Aldair
 
 ; Bahia         ; 1-0;  Vitória
-  Bobô
+  Bobô;
 
-;; Atlético-MG;    1-0  Botafogo
-  Aílton
+; Atlético-MG;    1-0;  Botafogo
+  Aílton;
 
 ; Criciúma      ; 1-3;  Internacional
-  Grizzo; Luís Fernando Flores (2), Dadinho
+  Grizzo; Luís Fernando Flores, Luís Fernando Flores, Dadinho
 
-;; Atlético-PR;    1-1  Santos         
+; Atlético-PR;    1-1;  Santos         
 Penalty kicks: 1-4
   Adílson; Leandro
-
 
 Date: 11/2/1988
 
 ; Bangu         ; 0-1;  Guarani
-  Cilinho
-
+;  Cilinho
 
 Round: 3
-
 Date: 9/11/1988
 
 ; Flamengo      ; 1-0;  Corinthians
-  Zinho
+  Zinho;
 
 ; Guarani       ; 1-0;  Atlético-MG
-  Tôni
+  Tôni;
 
 ; Fluminense    ; 3-0;  Bahia
-  Washington, Edinho, Rangel
+  Washington, Edinho, Rangel;
 
 ; Internacional ; 0-0;  Santos         
 Penalty kicks: 5-3
@@ -121,22 +116,22 @@ Penalty kicks: 5-3
 Penalty kicks: 9-10
 
 ; Vitória       ; 2-0;  Santa Cruz
-  Hugo, Rosinaldo
+  Hugo, Rosinaldo;
 
 ; Vasco da Gama ; 4-2;  Portuguesa
-  William, Sorato, Vivinho, Leonardo; Toninho (2)
+  William, Sorato, Vivinho, Leonardo; Toninho, Toninho (2)
 
 ; Sport         ; 0-0;  Grêmio         
 Penalty kicks: 3-2
 
 ; São Paulo     ; 1-0;  Botafogo
-  Renatinho
+  Renatinho;
 
 ; Palmeiras     ; 1-0;  Criciúma
-  Sílvio
+  Sílvio;
 
 ; Bangu         ; 2-0;  América
-  Rached, Ézio
+  Rached, Ézio;
 
 ; Coritiba      ; 0-0;  Goiás          
 Penalty kicks: 5-4
@@ -148,28 +143,27 @@ Date: 9/17/1988
   Paulinho Gaúcho, Wílson Mano; André Carpes
 
 ; Santos        ; 2-0;  Bangu
-  Leonardo, César Ferreira
+  Leonardo, César Ferreira;
 
 ; Fluminense    ; 2-0;  Criciúma
-  Washington, Eduardo
+  Washington, Eduardo;
 
 ; América       ; 0-1;  Portuguesa
-  Toninho
-
+;  Toninho
 
 Date: 9/18/1988
 
 ; Bahia         ; 1-0;  Flamengo
-  Bobô
+  Bobô;
 
 ; Santa Cruz    ; 3-0;  Goiás
-  Rinaldo, Gersinho, Sérgio China
+  Rinaldo, Gersinho, Sérgio China;
 
 ; São Paulo     ; 0-0;  Coritiba       
 Penalty kicks: 4-5
 
-;; Atlético-PR;    0-1  Vasco da Gama
-  Mazinho
+; Atlético-PR;    0-1;  Vasco da Gama
+;  Mazinho
 
 ; Internacional ; 2-2;  Cruzeiro       
 Penalty kicks: 4-3
@@ -182,19 +176,17 @@ Penalty kicks: 4-2
 ; Guarani       ; 0-0;  Sport          
 Penalty kicks: 5-4
 
-;; Atlético-MG;    1-0  Grêmio
-  Aílton
-
+; Atlético-MG;    1-0;  Grêmio
+  Aílton;
 
 Round: 5
-
 Date: 9/24/1988
 
 ; Botafogo      ; 0-0;  Internacional  
 Penalty kicks: 4-3
 
 ; São Paulo     ; 1-0;  América
-  Raí
+  Raí;
 
 Date: 9/25/1988
 
@@ -209,34 +201,33 @@ Penalty kicks: 4-5
   Zinho, Luvanor; Rinaldo, Sérgio China
 
 ; Portuguesa    ; 1-0;  Santos
-  Kita
+  Kita;
 
 ; Cruzeiro      ; 1-0;  Bangu
-  Hamílton
+  Hamílton;
 
 ; Criciúma      ; 0-1;  Atlético-PR
-  Marquinhos
+;  Marquinhos
 
 ; Goiás         ; 2-2;  Bahia          
 Penalty kicks: 4-2
   Túlio, Péricles; Sandro, Zé Carlos
 
 ; Sport         ; 2-0;  Corinthians
-  Robertinho, Zico
+  Robertinho, Zico;
 
 ; Vitória       ; 1-1;  Guarani        
 Penalty kicks: 4-2
   Vágner (own goal); Mário
 
 ; Coritiba      ; 1-2;  Atlético-MG
-  Henrique; Renato (2)
+  Henrique; Renato, Renato
 
 Round: 6
 Date: 9/2/1988
 
 ; São Paulo     ; 1-0;  Santos
-  Edivaldo
-
+  Edivaldo;
 
 Date: 10/1/1988
 
@@ -244,30 +235,29 @@ Date: 10/1/1988
   Toninho (own goal), Careca, Vágner; Gaúcho
 
 ; Fluminense    ; 2-1;  Santa Cruz
-  Edinho (2); Gersinho
+  Edinho, Edinho; Gersinho
 
 ; Portuguesa    ; 5-2;  Cruzeiro
-  Catatau (2), Wanks, Kita, Toninho; Hamílton (2)
-
+  Catatau, Catatau, Wanks, Kita, Toninho; Hamílton, Hamilton
 
 Date: 10/2/1988
 
 ; Flamengo      ; 2-2;  Botafogo       
 Penalty kicks: 5-4
-  Sérgio (2); Jéferson, Paulinho Criciúma
+  Sérgio, Sergio; Jéferson, Paulinho Criciúma
 
-;; Atlético-MG;    1-1  Bahia          
+; Atlético-MG;    1-1;  Bahia          
 Penalty kicks: 4-1
   Adílson; Zé Carlos
 
 ; Bangu         ; 0-2;  Grêmio
-  Zé Roberto, Cristóvao
+;  Zé Roberto, Cristóvao
 
 ; Internacional ; 2-1;  Coritiba
   Nílson, Luís Fernando Flores; Tostão
 
 ; Vitória       ; 1-0;  Vasco da Gama
-  Bigu
+  Bigu;
 
 ; Criciúma      ; 1-1;  Goiás          
 Penalty kicks: 2-4
@@ -277,14 +267,14 @@ Penalty kicks: 2-4
 Penalty kicks: 4-5
   Régis; Dinho
 
-;; Atlético-PR;    0-0  Corinthians    
+; Atlético-PR;    0-0;  Corinthians    
 Penalty kicks: 6-5
 
 Round: 7
 Date: 10/8/1988
 
 ; Fluminense    ; 1-0;  Cruzeiro
-  Ademir (own goal)
+  Ademir (own goal);
 
 ; Santos        ; 1-1;  Vitória        
 Penalty kicks: 2-4
@@ -293,10 +283,9 @@ Penalty kicks: 2-4
 ; América       ; 0-0;  Goiás          
 Penalty kicks: 6-7
 
-;; Atlético-PR;    1-1  Guarani        
+; Atlético-PR;    1-1;  Guarani        
 Penalty kicks: 3-4
   Marquinhos; Neto
-
 
 Date: 10/9/1988
 
@@ -304,91 +293,85 @@ Date: 10/9/1988
 Penalty kicks: 4-2
 
 ; Santa Cruz    ; 1-0;  São Paulo
-  Cosme
+  Cosme;
 
 ; Vasco da Gama ; 1-2;  Internacional
   Geovani; Edu Lima, Nílson
 
 ; Botafogo      ; 0-1;  Portuguesa
-  Wanks
+;  Wanks
 
 ; Bangu         ; 0-0;  Coritiba       
 Penalty kicks: 3-0
 
-;; Atlético-MG;    0-1  Criciúma
-  Adílson Heleno
+; Atlético-MG;    0-1;  Criciúma
+;  Adílson Heleno
 
 ; Bahia         ; 1-1;  Sport          
 Penalty kicks: 5-4
   Sandro; Neco
 
 ; Corinthians   ; 0-2;  Palmeiras
-  Gaúcho, Sílvio
-
+;  Gaúcho, Sílvio
 
 Round: 8
-
 Date: 10/15/1988
 
 ; Goiás         ; 2-1;  Botafogo
   Niltinho, Válter; Paulinho Criciúma
 
 ; Guarani       ; 1-0;  São Paulo
-  Cilinho
+  Cilinho;
 
 ; Grêmio        ; 2-0;  Palmeiras
-  Marcus Vinícius, Cuca
-
+  Marcus Vinícius, Cuca;
 
 Date: 10/16/1988
 
 ; Corinthians   ; 0-1;  Atlético-MG
-  Aílton
+;  Aílton
 
 ; Flamengo      ; 1-0;  Santos
-  Sérgio Araújo
+  Sérgio Araújo;
 
 ; Bahia         ; 2-0;  Atlético-PR
-  Renato, Zé Carlos
+  Renato, Zé Carlos;
 
 ; Coritiba      ; 0-1;  Fluminense
-  Romerito
+;  Romerito
 
 ; Cruzeiro      ; 5-1;  Vitória
-  Hamílton (2), Careca (2), Róbson; Bigu
+  Hamílton, Hamilton, Careca, Careca, Róbson; Bigu
 
 ; Vasco da Gama ; 1-1;  Bangu          
 Penalty kicks: 5-4
   Roberto Dinamite; Manu
 
 ; Santa Cruz    ; 1-0;  Portuguesa
-  Cardim
+  Cardim;
 
 ; Internacional ; 2-0;  América
-  Edu Lima, Nílson
+  Edu Lima, Nílson;
 
 ; Sport         ; 2-1;  Criciúma
   Robertinho, Zico; Sílvio Laguna
 
-
 Round: 9
-
 Date: 10/22/1988
 
 ; Sport         ; 1-0;  Botafogo
-  Nando
+  Nando;
 
 ; São Paulo     ; 0-2;  Bahia
-  Zé Carlos, Bobô
-
+;  Zé Carlos, Bobô
 
 Date: 10/23/1988
 
 ; Santos        ; 0-1;  Goiás
-  Barbosa
+;  Barbosa
 
 ; Palmeiras     ; 2-0;  Cruzeiro
-  Gaúcho, Tato
+  Gaúcho, Tato;
 
 ; Corinthians   ; 1-1;  Portuguesa     
 Penalty kicks: 5-4
@@ -401,19 +384,19 @@ Penalty kicks: 3-4
   Neto; Zinho, Alcindo, Sérgio Araújo, Zico, Aldair
 
 ; Internacional ; 2-0;  Santa Cruz
-  Dadinho, Luís Fernando Flores
+  Dadinho, Luís Fernando Flores;
 
 ; Fluminense    ; 0-0;  Vasco da Gama  
 Penalty kicks: 8-9
 
-;; Atlético-MG;    2-1  América
+; Atlético-MG;    2-1;  América
   Renato, Carlão; João Cláudio
 
-;; Atlético-PR;    1-2  Grêmio
+; Atlético-PR;    1-2;  Grêmio
   Jorge Veras (own goal); Darci, Cuca
 
 ; Vitória       ; 1-0;  Coritiba
-  Hélio
+  Hélio;
 
 Round: 10
 Date: 10/19/1988
@@ -422,58 +405,52 @@ Date: 10/19/1988
 Penalty kicks: 4-2
   Cosme; Agnaldo
 
-
 Date: 10/28/1988
 
 ; Flamengo      ; 3-0;  Criciúma
-  Bebeto (2), Zico
-
+  Bebeto, Bebeto, Zico;
 
 Date: 10/29/1988
 
-;; Atlético-MG;    1-0  Santos
-  Luizinho
+; Atlético-MG;    1-0;  Santos
+  Luizinho;
 
 ; Botafogo      ; 1-0;  Bangu
-  Paulinho Criciúma
-
+  Paulinho Criciúma;
 
 Date: 10/30/1988
 
 ; Grêmio        ; 1-0;  Vitória
-  Marcus Vinícius
+  Marcus Vinícius;
 
 ; Portuguesa    ; 1-0;  Guarani
-  Toninho
+  Toninho;
 
 ; Corinthians    ;2-2;  Internacional  
 Penalty kicks: 3-4
-  Marcos Roberto, Sérgio Gil; Nílson (2)
+  Marcos Roberto, Sérgio Gil; Nílson, Nilson
 
 ; Vasco da Gama ; 1-1;  São Paulo      
 Penalty kicks: 4-3
   Bismarck; Paulo César
 
 ; Fluminense    ; 2-0;  América
-  Washington, Romerito
+  Washington, Romerito;
 
 ; Bahia         ; 1-0;  Palmeiras
-  Pereira
+  Pereira;
 
 ; Coritiba      ; 1-0;  Sport
-  Roberson
+  Roberson;
 
 ; Goiás         ; 3-0;  Cruzeiro
-  Wallace, Niltinho, Péricles
-
+  Wallace, Niltinho, Péricles;
 
 Round: 11
-
 Date: 10/26/1988
 
 ; Bangu         ; 2-0;  Santa Cruz
-  Macula, Robinho
-
+  Macula, Robinho;
 
 Date: 11/5/1988
 
@@ -486,41 +463,38 @@ Penalty kicks: 5-3
 Date: 11/6/1988
 
 ; São Paulo     ; 1-0;  Criciúma
-  Mário Tilico
+  Mário Tilico;
 
 ; Santos        ; 3-0;  Sport
-  Giba, Mendonça, Davi
+  Giba, Mendonça, Davi;
 
 ; Palmeiras     ; 0-1;  Coritiba
-  Tostão
+;  Tostão
 
 ; Portuguesa    ; 1-1;  Grêmio         
 Penalty kicks: 5-3
   Capitão; Jorginho
 
 ; Vasco da Gama ; 2-0;  Atlético-MG
-  Sorato, Geovani
+  Sorato, Geovani;
 
 ; Cruzeiro      ; 0-0;  Flamengo       
 Penalty kicks: 2-4
 
 ; Internacional ; 3-0;  Bahia
-  Nílson (3)
+  Nílson, Nilson, Nilson;
 
 ; Goiás         ; 0-0;  Corinthians    
 Penalty kicks: 4-2
 
-;; Atlético-PR;    3-0  América
-  Carlinhos, Agnaldo, Roberto Cavalo
-
+; Atlético-PR;    3-0;  América
+  Carlinhos, Agnaldo, Roberto Cavalo;
 
 Round: 12
-
 Date: 11/2/1988
 
 ; Criciúma      ; 0-1;  Vitória
-  Hélio
-
+;  Hélio
 
 Date: 11/9/1988
 
@@ -532,23 +506,23 @@ Penalty kicks: 3-2
   Gílson, André Luís; Biro-Biro
 
 ; América       ; 1-0;  Palmeiras
-  Bira
+  Bira;
 
 ; Botafogo      ; 0-2;  Atlético-PR
-  Serginho, Cacau
+;  Serginho, Cacau
 
 ; Cruzeiro      ; 0-1;  São Paulo
-  Edivaldo
+;  Edivaldo
 
 ; Grêmio        ; 2-0;  Goiás
-  Jorginho, Cuca
+  Jorginho, Cuca;
 
 ; Santa Cruz    ; 1-1;  Atlético-MG    
 Penalty kicks: 5-4
   Pedro Haroldo; Renato
 
 ; Sport         ; 2-3;  Vasco da Gama
-  Robertinho (2); Vivinho, Bismarck, Mazinho
+  Robertinho, Robertinho; Vivinho, Bismarck, Mazinho
 
 ; Portuguesa    ; 0-0;  Bahia          
 Penalty kicks: 4-5
@@ -593,15 +567,14 @@ Penalty kicks: 2-4
 *shootouts after a draw earned 2, and the loser of the penalties shootouts 
 *earned only 1 point.
 
-Second Stage
+*Second Stage
 
 Group: A
 Round: 1
 Date: 11/12/1988
 
 ; Fluminense    ; 0-2;  Atlético-PR
-  Serginho, Juninho
-
+;  Serginho, Juninho
 
 Date: 11/13/1988
 
@@ -610,27 +583,25 @@ Penalty kicks: 5-6
   Zanata; Lê
 
 ; Internacional ; 3-1;  Flamengo
-  Nílson (2), Edu Lima; Zico
+  Nílson, Nilson, Edu Lima; Zico
 
 ; Goiás         ; 6-1;  Vitória
-  Túlio (2), Marquinhos, Tiaozinho, Uidemar, Benevan; Hélio
+  Túlio, Tulio, Marquinhos, Tiaozinho, Uidemar, Benevan; Hélio
 
 ; Sport         ; 1-0;  Bangu
-  Dinho
+  Dinho;
 
-;; Atlético-MG;    0-3  Portuguesa
-  Kita (3)
-
+; Atlético-MG;    0-3;  Portuguesa
+;  Kita, Kita, Kita
 
 Round: 2
-
 Date: 11/17/1988
 
 ; Portuguesa    ; 1-0;  Goiás
-  Henrique
+  Henrique;
 
 ; São Paulo     ; 2-0;  Internacional
-  Edivaldo, Mário Tilico
+  Edivaldo, Mário Tilico;
 
 ; Vitória       ; 1-1;  Atlético-MG    
 Penalty kicks: 4-5
@@ -643,7 +614,7 @@ Penalty kicks: 4-5
 Penalty kicks: 4-5
   Bebeto; Mauro
 
-;; Atlético-PR;    0-0  Sport          
+; Atlético-PR;    0-0;  Sport          
 Penalty kicks: 2-3
 
 Round: 3
@@ -660,9 +631,9 @@ Penalty kicks: 4-5
 ; Internacional ; 2-1;  Portuguesa
   Luís Fernando Flores, Nenê; Jorginho
 
-;; Atlético-MG;    2-2  Fluminense     
+; Atlético-MG;    2-2;  Fluminense     
 Penalty kicks: 6-5
-  Élder, Renato; Romerito (2)
+  Élder, Renato; Romerito, Romerito
 
 ; Flamengo      ; 2-1;  Sport
   Bebeto, Luís Antônio; Robertinho
@@ -675,7 +646,7 @@ Round: 4
 Date: 11/23/1988
 
 ; Fluminense    ; 3-0;  Portuguesa
-  Franklin (2), Cacau
+  Franklin, Franklin, Cacau;
 
 ; Goiás         ; 0-0;  Internacional  
 Penalty kicks: 4-2
@@ -683,35 +654,33 @@ Penalty kicks: 4-2
 Date: 11/24/1988
 
 ; Sport         ; 1-0;  Palmeiras
-  Marco Antônio
+  Marco Antônio;
 
-;; Atlético-MG;    3-1  Bangu
+; Atlético-MG;    3-1;  Bangu
   Marquinhos, Renato, Carlão; Arturzinho
 
-;; Atlético-PR;    1-0  Vitória
-  Juninho
+; Atlético-PR;    1-0;  Vitória
+  Juninho;
 
 ; São Paulo     ; 2-1;  Flamengo
   Edivaldo, Raí; Alcindo
 
-
 Round: 5
-
 Date: 11/26/1988
 
 ; Goiás         ; 2-0;  Fluminense
-  Péricles, Uidemar
+  Péricles, Uidemar;
 
 Date: 11/27/1988
 
 ; Portuguesa    ; 1-0;  Palmeiras
-  Jorginho
+  Jorginho;
 
 ; São Paulo     ; 3-0;  Sport
-  Edivaldo (2), Renatinho
+  Edivaldo, Edivaldo, Renatinho;
 
 ; Flamengo      ; 0-1;  Vitória
-  Hélio
+;  Hélio
 
 ; Internacional ; 2-2;  Atlético-MG    
 Penalty kicks: 6-5
@@ -723,44 +692,42 @@ Penalty kicks: 6-5
 Round: 6
 Date: 11/30/1988
 
-;; Atlético-MG;    0-0  Sport          
+; Atlético-MG;    0-0;  Sport          
 Penalty kicks: 5-6
 
 ; Vitória       ; 1-2;  Internacional
   Hélio; Edu Lima, Maurício
 
 ; Palmeiras     ; 2-0;  Goiás
-  André, Bandeira
+  André, Bandeira;
 
 ; Fluminense    ; 0-1;  Flamengo
-  Bebeto
-
+;  Bebeto
 
 Date: 12/1/1988
 
 ; Bangu         ; 0-0;  São Paulo      
 Penalty kicks: 3-4
 
-;; Atlético-PR;    0-0  Portuguesa     
+; Atlético-PR;    0-0;  Portuguesa     
 Penalty kicks: 3-2
 
 Round: 7
 Date: 12/3/1988
 
 ; Vitória       ; 1-0;  Fluminense
-  Cláudio José
+  Cláudio José;
 
-;; Atlético-MG;    1-0  Palmeiras
-  Luís Cláudio
-
+; Atlético-MG;    1-0;  Palmeiras
+  Luís Cláudio;
 
 Date: 12/4/1988
 
 ; São Paulo     ; 0-1;  Portuguesa
-  Bentinho
+;  Bentinho
 
 ; Sport         ; 1-0;  Goiás
-  Robertinho
+  Robertinho;
 
 ; Flamengo      ; 2-1;  Atlético-PR
   Bebeto, Sérgio Araújo; Serginho
@@ -782,9 +749,9 @@ Date: 12/8/1988
   Bandeira, Gaúcho; Maurício
 
 ; Portuguesa    ; 0-2;  Flamengo
-  Bebeto (2)
+;  Bebeto, Bebeto
 
-;; Atlético-PR;    1-1  São Paulo      
+; Atlético-PR;    1-1;  São Paulo      
 Penalty kicks: 4-5
   Agnaldo; Mazinho Loiola
 
@@ -800,21 +767,21 @@ Round: 9
 Date: 12/11/1988
 
 ; Portuguesa    ; 1-0;  Sport
-  Bentinho
+  Bentinho;
 
 ; Palmeiras     ; 1-0;  Vitória
-  Gaúcho
+  Gaúcho;
 
 ; São Paulo     ; 2-2;  Atlético-MG    
 Penalty kicks: 2-4
   São Paulo: Edivaldo, Mazinho Loiola; Renato, Carlão
 
-;; Atlético-PR;    1-1  Goiás          
+; Atlético-PR;    1-1;  Goiás          
 Penalty kicks: 4-5
   Vílson; Niltinho
 
 ; Flamengo      ; 2-0;  Bangu
-  Alcindo, Sérgio Araújo
+  Alcindo, Sérgio Araújo;
 
 ; Fluminense    ; 2-2;  Internacional  
 Penalty kicks: 5-6
@@ -824,45 +791,44 @@ Round: 10
 Date: 12/12/1988
 
 ; Fluminense    ; 1-0;  São Paulo
-  Cacau
-
+  Cacau;
 
 Date: 12/15/1988
 
 ; Internacional ; 3-3;  Sport          
 Penalty kicks: 4-5
-  Nílson (2), Luís Fernando Flores; Édson, Nando, Jair
+  Nílson, Nilson, Luís Fernando Flores; Édson, Nando, Jair
 
 ; Goiás         ; 0-0;  Flamengo       
 Penalty kicks: 6-5
 
 ; Vitória       ; 3-2;  Portuguesa
-  Dorotéo Silva (2), Edvaldo; Kita, Jorginho
+  Dorotéo Silva, Dorotéo Silva, Edvaldo; Kita, Jorginho
 
 ; Bangu         ; 1-1;  Palmeiras      
 Penalty kicks: 4-3
   Manu; Zanata
 
-;; Atlético-MG;    0-0  Atlético-PR    
+; Atlético-MG;    0-0;  Atlético-PR    
 Penalty kicks: 1-2
 
 Round: 11
 Date: 12/18/1988
 
-;; Atlético-PR;    0-1  Internacional
-  Maurício
+; Atlético-PR;    0-1;  Internacional
+;  Maurício
 
 ; Palmeiras     ; 0-0;  Fluminense     
 Penalty kicks: 3-1
 
 ; Portuguesa    ; 1-0;  Bangu
-  Catatau
+  Catatau;
 
 ; Flamengo      ; 2-0;  Atlético-MG
-  Zinho, Sérgio Araújo
+  Zinho, Sérgio Araújo;
 
 ; Sport         ; 1-0;  Vitória
-  Zico
+  Zico;
 
 ; São Paulo     ; 1-1;  Goiás          
 Penalty kicks: 3-4
@@ -895,11 +861,10 @@ Penalty kicks: 3-2
 Penalty kicks: 3-2
   Rinaldo; Vivinho
 
-
 Date: 11/13/1988
 
 ; Botafogo      ; 0-2;  Corinthians
-  Viola, Gilberto Costa
+;  Viola, Gilberto Costa
 
 ; América       ; 1-1;  Grêmio         
 Penalty kicks: 2-4
@@ -911,19 +876,17 @@ Penalty kicks: 3-5
 ; Bahia         ; 2-1;  Cruzeiro
   Sandro, Zé Carlos; Vilmar
 
-
 Round: 2
-
 Date: 11/16/1988
 
 ; Corinthians   ; 1-0;  Coritiba
-  Viola
+  Viola;
 
 ; Botafogo      ; 1-0;  Santa Cruz
-  Carlos Magno
+  Carlos Magno;
 
 ; Criciúma      ; 0-1;  Santos
-  Heraldo
+;  Heraldo
 
 ; Vasco da Gama ; 0-0;  Bahia          
 Penalty kicks: 5-3
@@ -931,22 +894,19 @@ Penalty kicks: 5-3
 Date: 11/19/1988
 
 ; Cruzeiro      ; 3-0;  Grêmio
-  Careca, Hamílton, Wladimir
+  Careca, Hamílton, Wladimir;
 
 ; Guarani       ; 2-0;  América
-  Neto (2)
-
+  Neto, Neto;
 
 Round: 3
-
 Date: 11/19/1988
 
 ; Coritiba      ; 3-0;  Botafogo
-  Chicao (2), Carlos Alberto
+  Chicao, Chicao, Carlos Alberto;
 
 ; Vasco da Gama ; 4-0;  Santos
-  Bismarck (3), Paulo Roberto Costa
-
+  Bismarck, Bismarck, Bismarck, Paulo Roberto Costa;
 
 Date: 11/20/1988
 
@@ -958,7 +918,7 @@ Penalty kicks: 5-4
   Rinaldo, Cosme; Adílson Heleno, Sérgio Oliveira
 
 ; América       ; 1-2;  Cruzeiro
-  Pedro Paulo; Betinho (2)
+  Pedro Paulo; Betinho, Betinho
 
 ; Grêmio        ; 0-0;  Corinthians    
 Penalty kicks: 3-4
@@ -967,78 +927,71 @@ Round: 4
 Date: 11/23/1988
 
 ; Grêmio        ; 0-2;  Vasco da Gama
-  Vivinho, Bismarck
+;  Vivinho, Bismarck
 
 ; Santos        ; 2-0;  América
-  Leonardo, Heraldo
+  Leonardo, Heraldo;
 
 ; Guarani       ; 1-3;  Coritiba
-  Everaldo (own goal); Carlos Alberto (2), Tostão
-
+  Everaldo (own goal); Carlos Alberto, Carlos Alberto, Tostão
 
 Date: 11/24/1988
 
 ; Bahia         ; 0-1;  Botafogo
-  Carlos Magno
+;  Carlos Magno
 
 ; Criciúma      ; 0-0;  Cruzeiro       
 Penalty kicks: 6-5
 
 ; Corinthians   ; 2-0;  Santa Cruz
-  João Paulo, Viola
-
+  João Paulo, Viola;
 
 Round: 5
-
 Date: 11/26/1988
 
 ; Coritiba      ; 2-0;  Santos
-  Chicão, Tostão
-
+  Chicão, Tostão;
 
 Date: 11/27/1988
 
 ; Bahia         ; 2-0;  Corinthians
-  Charles, Pereira
+  Charles, Pereira;
 
 ; Santa Cruz    ; 1-0;  Guarani
-  Ramón
+  Ramón;
 
 ; Cruzeiro      ; 0-0;  Vasco da Gama  
 Penalty kicks: 3-4
 
 ; Botafogo      ; 1-0;  Grêmio
-  Paulinho Criciúma
-América        1-1  Criciúma       
-Penalty kicks: 2-4
+  Paulinho Criciúma;
 
-  [Vágner; Edmílson
+; América       ; 1-1;  Criciúma       
+Penalty kicks: 2-4
+Vágner; Edmílson
 
 Round: 6
-
 Date: 12/1/1988
 
 ; Criciúma      ; 0-1;  Bahia
-  Charles
+;  Charles
 
 ; Santa Cruz    ; 0-0;  Coritiba       
 Penalty kicks: 5-6
 
 ; Vasco da Gama ; 3-0;  Botafogo
-  Mazinho (2), Geovani
+  Mazinho, Mazinho, Geovani;
 
 ; Santos        ; 1-3;  Cruzeiro
-  Giba; Betinho (2), Heriberto
+  Giba; Betinho, Betinho, Heriberto
 
 ; Corinthians   ; 3-2;  América
-  Sérgio Gil (2), Dama; Anderson, Vágner
+  Sérgio Gil, Sergio Gil, Dama; Anderson, Vágner
 
 ; Grêmio        ; 2-1;  Guarani
-  Cuca (2); Mário
-
+  Cuca, Cuca; Mário
 
 Round: 7
-
 Date: 12/4/1988
 
 ; Santos        ; 2-1;  Grêmio
@@ -1048,13 +1001,13 @@ Date: 12/4/1988
 Penalty kicks: 3-4
 
 ; Guarani       ; 4-1;  Criciúma
-  Tôni (2), Neto, Mário; Grizzo
+  Tôni, Toni, Neto, Mário; Grizzo
 
 ; Coritiba      ; 2-0;  Bahia
-  Chicão (2)
+  Chicão, Chicao;
 
 ; América       ; 1-0;  Santa Cruz
-  Vágner
+  Vágner;
 
 ; Botafogo      ; 1-1;  Cruzeiro       
 Penalty kicks: 1-3
@@ -1064,13 +1017,13 @@ Round: 8
 Date: 12/7/1988
 
 ; Corinthians   ; 3-0;  Criciúma
-  Paulinho Carioca, Ronaldo Marques, Marcos Roberto
+  Paulinho Carioca, Ronaldo Marques, Marcos Roberto;
 
 ; Grêmio        ; 3-2;  Santa Cruz
   Jorge Veras, Marcus Vinícius, Bonamigo; Ramón, Pedro Haroldo
 
 ; Bahia         ; 5-1;  Santos
-  Zé Carlos (2), Cássio (own goal), Marquinhos, Charles; Sócrates
+  Zé Carlos, Ze Carlos, Cássio (own goal), Marquinhos, Charles; Sócrates
 
 ; Botafogo      ; 0-0;  América        
 Penalty kicks: 5-6
@@ -1078,10 +1031,10 @@ Penalty kicks: 5-6
 Date: 12/8/1988
 
 ; Vasco da Gama ; 1-0;  Coritiba
-  Sorato
+  Sorato;
 
 ; Cruzeiro      ; 1-0;  Guarani
-  Hamílton
+  Hamílton;
 
 Round: 9
 Date: 12/10/1988
@@ -1090,8 +1043,7 @@ Date: 12/10/1988
 Penalty kicks: 3-4
 
 ; Criciúma      ; 0-2;  Botafogo
-  Gustavo, Vítor
-
+;  Gustavo, Vítor
 
 Date: 12/11/1988
 
@@ -1106,55 +1058,51 @@ Penalty kicks: 3-4
   Édson Pezinho; Dida
 
 ; América       ; 0-1;  Coritiba
-  Tostão
-
+;  Tostão
 
 Round: 10
-
 Date: 12/14/1988
 
 ; Corinthians   ; 1-2;  Santos
   Dida; Giba, César Ferreira
 
 ; Botafogo      ; 3-0;  Guarani
-  Gustavo, Luisinho, Vágner
+  Gustavo, Luisinho, Vágner;
 
 Date: 12/15/1988
 
 ; América       ; 0-1;  Vasco da Gama
-  Pedro Paulo (own goal)
+;  Pedro Paulo (own goal)
 
 ; Criciúma      ; 1-1;  Grêmio         
 Penalty kicks: 5-6
   Caio; Sílvio Laguna (own goal)
 
 ; Coritiba      ; 0-2;  Cruzeiro
-  Hamílton, Heriberto
+;  Hamílton, Heriberto
 
 ; Santa Cruz    ; 2-1;  Bahia
   Sérgio China, Alexandre; Marquinhos
 
-
 Round: 11
-
 Date: 12/18/1988
 
 ; Guarani       ; 2-2;  Corinthians    
 Penalty kicks: 4-5
-  Vágner Paulista (2); Marcos Roberto, Gilberto Costa
+  Vágner Paulista, Vágner Paulista; Marcos Roberto, Gilberto Costa
 
 ; Santos        ; 0-0;  Botafogo       
 Penalty kicks: 9-10
 
 ; Cruzeiro      ; 2-0;  Santa Cruz
-  Róbson, Careca
+  Róbson, Careca;
 
 ; Grêmio        ; 1-1;  Coritiba       
 Penalty kicks: 2-3
   Jorginho; Kazu
 
 ; Vasco da Gama ; 3-2;  Criciúma
-  Vivinho (2), França; Adílson Heleno (2)
+  Vivinho, Vivinho, França; Adílson Heleno, Adílson Heleno
 
 ; Bahia         ; 2-1;  América
   Marquinhos, Zé Carlos; Valmir
@@ -1205,51 +1153,51 @@ Penalty kicks: 2-3
 *awarded to Bahia who had the better first phase record among the other 17 
 *teams.
 
-Quarterfinals
-The penalties shootouts rule no longer applied in the quarterfinals.
-
-[Jan 28 and Feb 2/1989]
-Grêmio         0-0  1-0  Flamengo
-  [Cuca]
-[Jan 29 and Feb 1/1989]
-Sport          1-1  0-0  Bahia           [aet 0-0]
-  [Nando; Charles]
-Fluminense     1-0  1-2  Vasco da Gama   [aet 2-0]
-  [Zé do Carmo]
-  [Donizeti; Bismarck, Leonardo ; aet: Zé Maria, Washington]
-Cruzeiro       0-0  0-2  Internacional
-  [Maurício, Nenê]
-
-Bahia qualified due to better first phase record
-
-Semifinals
-The penalties shootouts rule no longer applied in the semifinals.
-
-[Feb 9 and 12/1989]
-Grêmio         0-0  1-2  Internacional
-  [Marcus Vinícius; Nílson (2)]
-Fluminense     0-0  1-2  Bahia
-  [Washington; Bobô, Gil]
-
-Finals
-The penalties shootouts rule no longer applied in the finals.
-
-[Feb 15 and 19/1989]
-Bahia          2-1  0-0  Internacional
-  [Bobô (2); Leomir]
-19/fevereiro/1989 
-INTERNACIONAL 0X0 BAHIA 
-Local: Beira Rio (Porto Alegre-RS); 
-Juiz: Dulcídio Wanderley Boschilia (SP); 
-Público Presente: 79.598 espectadores; 
-Cartão Amarelo: Norberto, João Marcelo e Gil; 
-INTERNACIONAL : Taffarel, Luís Carlos Winck, Norton, Aguirregaray e Casemiro; Norberto, 
-Luís Fernando e Luís Carlos Martins; Maurício (Hêider), Nílson e Edu Lima (Diego Aguirre). 
-Técnico: Abel Braga.  
-BAHIA : Ronaldo, Tarantini, João Marcelo, Claudir (Newmar) e Paulo Róbson; Paulo Rodrigues, 
-Gil Sergipano, Zé Carlos e Bobô (Osmar); Charles e Marquinhos.
-Técnico: Evaristo de Macedo. 
-EC Bahia were the 1988 Brazilian Champions
+*Quarterfinals
+*The penalties shootouts rule no longer applied in the quarterfinals.
+*
+*[Jan 28 and Feb 2/1989]
+*Grêmio         0-0  1-0  Flamengo
+*  [Cuca]
+*[Jan 29 and Feb 1/1989]
+*Sport          1-1  0-0  Bahia           [aet 0-0]
+*  [Nando; Charles]
+*Fluminense     1-0  1-2  Vasco da Gama   [aet 2-0]
+*  [Zé do Carmo]
+*  [Donizeti; Bismarck, Leonardo ; aet: Zé Maria, Washington]
+*Cruzeiro       0-0  0-2  Internacional
+*  [Maurício, Nenê]
+**
+*Bahia qualified due to better first phase record
+*
+*Semifinals
+*The penalties shootouts rule no longer applied in the semifinals.
+*
+*[Feb 9 and 12/1989]
+*Grêmio         0-0  1-2  Internacional
+*  [Marcus Vinícius; Nílson (2)]
+*Fluminense     0-0  1-2  Bahia
+*  [Washington; Bobô, Gil]
+*
+*Finals
+*The penalties shootouts rule no longer applied in the finals.
+*
+*[Feb 15 and 19/1989]
+*Bahia          2-1  0-0  Internacional
+*  [Bobô (2); Leomir]
+*19/fevereiro/1989 
+*INTERNACIONAL 0X0 BAHIA 
+*Local: Beira Rio (Porto Alegre-RS); 
+*Juiz: Dulcídio Wanderley Boschilia (SP); 
+*Público Presente: 79.598 espectadores; 
+*Cartão Amarelo: Norberto, João Marcelo e Gil; 
+*INTERNACIONAL : Taffarel, Luís Carlos Winck, Norton, Aguirregaray e Casemiro; Norberto, 
+*Luís Fernando e Luís Carlos Martins; Maurício (Hêider), Nílson e Edu Lima (Diego Aguirre). 
+*Técnico: Abel Braga.  
+*BAHIA : Ronaldo, Tarantini, João Marcelo, Claudir (Newmar) e Paulo Róbson; Paulo Rodrigues, 
+*Gil Sergipano, Zé Carlos e Bobô (Osmar); Charles e Marquinhos.
+*Técnico: Evaristo de Macedo. 
+*EC Bahia were the 1988 Brazilian Champions
 
 *Final Table
 * 1-Bahia          29 13  4/ 3 (4)  5  33-23  52 Qualified to Copa Libertadores 1989

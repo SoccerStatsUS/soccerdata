@@ -1,6 +1,7 @@
 Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1971.htm
 Season: 1971
+home-first
 
 *Participants
 *América FC (Belo Horizonte-MG)         Fluminense FC (Rio de Janeiro-GB)
@@ -39,7 +40,7 @@ Date: 8/7/1971
 
 ; Bahia         ; 0-0;  Santos
 
-;; Atlético-MG;    1-1  América-MG
+; Atlético-MG;    1-1;  América-MG
   Dario; Dirceu Alves
 
 ; Botafogo      ; 0-0;  América-GB
@@ -55,7 +56,7 @@ Date: 8/11/1971
 ; Bahia         ; 1-1;  Flamengo
   Carlinhos; Zico
 
-;; América-GB;     0-2  Grêmio
+; América-GB;     0-2;  Grêmio
  ; Scotta, Caio
 
 ; Sport         ; 0-2;  Santos
@@ -74,7 +75,7 @@ Date: 8/14/1971
 ; Botafogo      ; 1-1;  Flamengo
   Paulo César; Rogério
 
-;; América-MG;     1-1  América-GB
+; América-MG;     1-1;  América-GB
   Jair Bala; Edu
 
 ; Grêmio        ; 1-1;  Atlético-MG
@@ -108,7 +109,7 @@ Date: 8/18/1971
 
 ; Santos        ; 0-0;  Botafogo
 
-;; América-MG;     0-0  Grêmio
+; América-MG;     0-0;  Grêmio
 
 Date: 8/21/1971
 
@@ -145,7 +146,7 @@ Date: 8/25/1971
 ; Botafogo      ; 2-1;  América-MG
   Silva Batuta, Roberto; Julinho
 
-;; Atlético-MG;    4-0  Bahia
+; Atlético-MG;    4-0;  Bahia
   Lola, Lola, Oldair, Dario;
 
 ; Grêmio        ; 2-0;  Sport
@@ -211,7 +212,7 @@ Date: 9/1/1971
 ; Bahia         ; 1-3; América-GB
   Baiaco; Zé Carlos, António Carlos, Caio
 
-;; Atlético-MG;    2-0  São Paulo
+; Atlético-MG;    2-0;  São Paulo
   Dario, Dario;
 
 ; Grêmio        ; 1-0;  Santos
@@ -219,7 +220,7 @@ Date: 9/1/1971
 
 Date: 9/2/1971
 
-;; América-MG;     1-1  Flamengo
+; América-MG;     1-1;  Flamengo
   Amauri; Rodrigues Neto
 
 ; Sport         ; 0-1;  Botafogo
@@ -227,39 +228,49 @@ Date: 9/2/1971
 
 Date: 9/4/1971
 
-; Palmeiras     ; 1-0;  Fluminense      [*]
+; Palmeiras     ; 1-0;  Fluminense      
+*[*]
   Eurico;
 
-; Cruzeiro      ; 0-0;  Vasco da Gama   [*]
+; Cruzeiro      ; 0-0;  Vasco da Gama   
+*[*]
 
 Date: 9/5/1971
 
-; Internacional ; 2-2;  Corinthians     [*]
+; Internacional ; 2-2;  Corinthians     
+*[*]
   Sérgio, Arlem; Rivelino, Mirandinha
 
-; Coritiba      ; 2-1;  Ceará           [*]
+; Coritiba      ; 2-1;  Ceará           
+*[*]
   Leocádio, Leocadio; Magela
 
-; São Paulo     ; 1-1;  América-MG      [*]
+; São Paulo     ; 1-1;  América-MG      
+*[*]
   Zé Roberto; Zé Carlos
 
-; Flamengo      ; 1-1;  Grêmio          [*]
+; Flamengo      ; 1-1;  Grêmio          
+*[*]
   Samarone; Caio
 
-;; Atlético-MG;    2-1  Santos          [*]
+; Atlético-MG;    2-1;  Santos          
+*[*]
   Dario, Dario; Mazinho
 
-; Bahia         ; 0-1;  Botafogo        [*]
-  Paulo César
+; Bahia         ; 0-1;  Botafogo        
+*[*]
+;  Paulo César
 
-; Sport         ; 0-3; América-GB       [*]
+; Sport         ; 0-3; América-GB       
+*[*]
 ;  Paraguaio, Paraguaio, Tarciso
 
 
 
 Date: 9/7/1971
 
-; Vasco da Gama ; 1-0;  Palmeiras       [*]
+; Vasco da Gama ; 1-0;  Palmeiras       
+*[*]
   Rodrigues;
 
 *[*] Matches valid for Taça Independência do Brasil – 1971
@@ -282,7 +293,7 @@ Date: 9/8/1971
 
 ; Ceará         ; 0-0;  Internacional
 
-;; América-GB;     2-0  Atlético-MG
+; América-GB;     2-0;  Atlético-MG
   Tarciso, Edu;
 
 Date: 9/9/1971
@@ -311,7 +322,7 @@ Date: 9/11/1971
 
 Date: 9/12/1971
 
-;; Atlético-MG;    2-2  Botafogo
+; Atlético-MG;    2-2;  Botafogo
   Dario, Dario; Roberto, Roberto
 
 ; São Paulo     ; 2-1;  América-GB
@@ -366,7 +377,7 @@ Date: 9/25/1971
 ; Grêmio        ; 1-0;  Ceará
   Torino;
 
-;; Atlético-MG;    2-2  Santa Cruz
+; Atlético-MG;    2-2;  Santa Cruz
   Romeu, Humberto Ramos; Eberval, Grapete (own goal)
 
 ; Flamengo      ; 1-1;  Coritiba
@@ -382,7 +393,7 @@ Date: 9/26/1971
 
 ; Fluminense    ; 0-0;  Botafogo
 
-;; América-MG;     1-2  Palmeiras
+; América-MG;     1-2;  Palmeiras
   Dirceu Alves; César, Leivinha
 
 ; Sport         ; 0-1;  Vasco da Gama
@@ -393,13 +404,13 @@ Date: 9/26/1971
 
 Date: 9/29/1971
 
-;; América-GB;     2-1  Cruzeiro
+; América-GB;     2-1;  Cruzeiro
   Sérgio Lima, Tadeu; Lima
 
 Date: 10/2/1971
 
 ; Corinthians   ; 3-1;  América-MG
-  Aladim, Mirandinha, Rivelino; Zé Maria; (own goal)
+  Aladim, Mirandinha, Rivelino; Zé Maria (own goal)
 
 ; Internacional ; 2-0;  América-GB
   Sérgio, Sergio;
@@ -445,7 +456,7 @@ Date: 10/9/1971
 ; Botafogo      ; 1-0;  Corinthians
   Zequinha;
 
-;; América-MG;     0-0  Santa Cruz
+; América-MG;     0-0;  Santa Cruz
 
 Date: 10/10/1971
 
@@ -461,7 +472,7 @@ Date: 10/10/1971
 ; São Paulo     ; 0-1;  Portuguesa
 ;  Dirceu
 
-;; Atlético-MG;    1-1  Cruzeiro
+; Atlético-MG;    1-1;  Cruzeiro
   Oldair; João Ribeiro
 
 ; Ceará         ; 0-0;  Santos
@@ -477,7 +488,7 @@ Date: 10/13/1971
 ; Flamengo      ; 1-0;  Portuguesa
   Tinteiro;
 
-;; América-MG;     2-0  Coritiba
+; América-MG;     2-0;  Coritiba
   Dario, Amauri;
 
 Date: 10/16/1971
@@ -526,7 +537,7 @@ Date: 10/23/1971
 
 ; Botafogo      ; 0-0;  Internacional
 
-;; Atlético-MG;    5-1  Portuguesa
+; Atlético-MG;    5-1;  Portuguesa
   Romeu, Romeu, Ronaldo, Dario, Spencer; Luisinho
 
 Date: 10/24/1971
@@ -560,7 +571,7 @@ Date: 10/27/1971
 
 Date: 10/30/1971
 
-;; América-GB;     2-0  Palmeiras
+; América-GB;     2-0;  Palmeiras
   Caio, Caio;
 
 ; Cruzeiro      ; 2-1;  Grêmio
@@ -574,7 +585,7 @@ Date: 10/30/1971
 
 Date: 10/31/1971
 
-;; Atlético-MG;    3-1  Internacional
+; Atlético-MG;    3-1;  Internacional
   Dario, Dario, Pedrilho; Valdomiro
 
 ; Sport         ; 0-0;  Portuguesa
@@ -604,7 +615,7 @@ Date: 11/7/1971
 ; Grêmio        ; 0-1;  Palmeiras
 ;  Fedato
 
-;; América-MG;     2-0  Ceará
+; América-MG;     2-0;  Ceará
   Hélio, Helio;
 
 ; Bahia         ; 1-0;  Portuguesa
@@ -646,10 +657,10 @@ Date: 11/14/1971
 ; Corinthians   ; 1-1;  Grêmio
   Rivelino; Loivo
 
-;; Atlético-MG;    0-0  Palmeiras
+; Atlético-MG;    0-0;  Palmeiras
 
 ; Internacional ; 3-0;  Flamengo
-  Valdomiro, Valdomiro, Claudiomiro
+  Valdomiro, Valdomiro, Claudiomiro;
 
 ; Coritiba      ; 2-0;  São Paulo
   Hermes, Jurandir (own goal);
@@ -689,7 +700,7 @@ Date: 11/21/1971
 ; Corinthians   ; 0-1;  São Paulo
 ;  Toninho
 
-;; América-GB;     0-0  Cruzeiro
+; América-GB;     0-0;  Cruzeiro
 
 Round: 2
 Date: 11/24/1971
@@ -714,7 +725,7 @@ Date: 11/28/1971
 Round: 4
 Date: 12/1/1971
 
-;; América-GB;     3-1  Corinthians
+; América-GB;     3-1;  Corinthians
   Edu, Paraguaio, António Carlos; Rivelino
 
 ; São Paulo     ; 1-1;  Cruzeiro
@@ -756,7 +767,7 @@ Date: 11/20/1971
 
 Date: 11/21/1971
 
-;; Atlético-MG;    2-1  Vasco da Gama
+; Atlético-MG;    2-1;  Vasco da Gama
   Ronaldo, Humberto Ramos; Ferretti
 
 Round: 2
@@ -779,7 +790,7 @@ Date: 11/28/1971
 Round: 4
 Date: 12/1/1971
 
-;; Atlético-MG;    2-0  Santos
+; Atlético-MG;    2-0;  Santos
   Oldair, Oldair;
 
 ; Internacional ; 3-0;  Vasco da Gama
@@ -802,7 +813,7 @@ Date: 12/9/1971
 ; Santos        ; 4-0;  Vasco da Gama
   Edu, Edu, Jáder, Leo;
 
-;; Atlético-MG;    0-1  Internacional
+; Atlético-MG;    0-1;  Internacional
 ;  Arlem
 
 
@@ -877,7 +888,7 @@ Date: 12/9/1971
 Round: Final Playoff
 Date: 12/12/1971
 
-;; Atlético-MG;    1-0  São Paulo
+; Atlético-MG;    1-0;  São Paulo
   Oldair;
 
 Date: 12/15/1971
