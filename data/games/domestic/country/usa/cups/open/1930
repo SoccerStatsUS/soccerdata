@@ -4,7 +4,7 @@ BlockSource: http://thecup.us/1930-national-challenge-cup-results/
 
 Season: 1930
 
-Round: First Round     
+Round: 1
 
 * Eastern Bracket
 1/26/1930; New Bedford Whalers; 4-0; Bridgeport Hungaria     
@@ -33,7 +33,7 @@ Round: First Round
 2/17/1930; Detroit FC; 1-0; All Scots FC (Detroit)   
 
 
-Round: Second Round                                                                
+Round: 2
 
 * Eastern Bracket
 2/15/1930;Pawtucket Rangers; 3-2; New York Nationals      
@@ -100,7 +100,7 @@ Fall River Marksmen: Johnny Reder, Charlie McGill, Bob McAuley, Bill McPherson, 
 Season: 1931
 BlockSource: http://thecup.us/1931-national-challenge-cup-results/
 
-Round: First Round
+Round: 1
 *American Soccer League teams played played double round-robin qualifying groups for spots in the Quarterfinals
 
 * Eastern Bracket
@@ -122,7 +122,7 @@ Cuthbert (MacLean), Davie Coutts, Davie Coutts (Greenlees);
 2/1/1931; Liberty SC (Detroit); 0-2; Workers SC (Detroit)
 
 
-Round: Second Round
+Round: 2
 
 * Eastern Bracket
 1/25/1931; Newark Americans; 6-1; Baltimore Bethlehem Steel
@@ -202,7 +202,7 @@ Season: 1932
 BlockSource: http://thecup.us/1932-national-challenge-cup-results/
 
 
-Round: First Round
+Round: 1
 
 * Eastern Bracket
 1/10/1932; New York Giants; 7-2; New York Americans
@@ -231,7 +231,7 @@ Ben Miller FC: Johnny Hamm, Connors, Diaz, Claeys, Kalbitz, Eddie Croak, Coughli
 ; Swedish American SC (Chicago); W-L; Carpenters FC (Chicago)
 
 
-Round: Second Round
+Round: 2
 
 *Eastern Bracket
 1/24/1932; New York Giants; 4-2; Baltimore Bethlehem Steel
@@ -334,7 +334,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F60812FF3C5F1A7A93C2AB1789D
 * Americans win Metropolitan round robin.
 
 
-Round: First Round
+Round: 1
 
 * Eastern Bracket
 1/14/1933; German American SC (Philadelphia); 6-5; Fairhill FC (Philadelphia)
@@ -363,7 +363,7 @@ Coca Colas: Albrecht, Gockel, McGirl, Ray Egan, Heidenry, O'Hara, Grenon (Lowry)
 2/5/1933; Chicago Bricklayers SC; 1-2; Swedish American SC (Chicago)
 
 
-Round: Second Round
+Round: 2
 
 * Eastern Bracket
 2/26/1933; German American SC; 3-2; Baltimore Canton
@@ -455,7 +455,7 @@ Stix, Baer & Fuller: Charles LaBarge, William Lehman, Jimmy Nolan, Bill McPherso
 Season: 1934
 BlockSource: http://thecup.us/1934-national-challenge-cup-results/
 
-Round: First Round
+Round: 1
 
 * Eastern Bracket
 
@@ -490,7 +490,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=950CE5DB1430E23ABC4D52DFB76
 1/14/1934; Curry Silver Tops; 1-1 (aet); Morgan
 1/22/1934; Curry Silver Tops; 2-1; Morgan
 
-Round: Second Round
+Round: 2
 
 * Eastern Bracket
 
@@ -598,7 +598,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9504E6D9133DE53ABC4D51DFB46
 1/13/1935; Marre's; 3-2; Hellrung & Grimm
 
 
-Round: Second Round
+Round: 2
 
 * Eastern Bracket
 3/4/1935; New York Americans; 5-1; Brooklyn Celtic
@@ -669,7 +669,7 @@ Pawtucket Rangers: Parks, Ed Czerkiewicz, Bowden, Bill McPherson, Raposa, Joe Ma
 Season: 1936
 BlockSource: http://thecup.us/1936-national-challenge-cup-results/
 
-Round: First Round
+Round: 1
 
 * Eastern Division
 
@@ -681,7 +681,7 @@ Round: First Round
 3/15/1936; Brookhattan; 2-1; Brooklyn Hispano; Hawthorne Field; 2500
 Carroll, McIntyre; Bonilla
 Brookhattan: Busse; Glover, Barr; Slone (Collins), Slaven, Morton; Carroll, Tollan, McIntyre, Wortmann, Florie
-Brooklyn Hispano: Othen; Brandolini, Burroughs; Shewan, Bonilla, Trabanca; Smith, Ruddy (Maurino), Salcedo, Fernandez, Dullea (Deal)
+Brooklyn Hispano: Othen; Brandolini, Burroughs; Shewan, Bonilla, Trabanco; Smith, Ruddy (Maurino), Salcedo, Fernandez, Dullea (Deal)
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40812FD395B1B7B93C4A81788D85F428385F9
 
 2/2/1936; Hatikvoh; 1-2; German Hungarian SC; New York
@@ -691,7 +691,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F40812FD395B1B7B93C4A81788D
 3/1/1936; German-Americans; 5-0; Buda AA; Philadelphia
 2/16/1936; Baltimore Canton; 5-3; Stonewall Democratic; Baltimore
 
-Round: Second Round
+Round: 2
 
 
 3/22/1936; St. Mary's Celtic; 4-1; New Bedford Santo Christo; New York
@@ -725,7 +725,7 @@ Round: Semifinals
 
 * Western Division
 
-Round: First Round
+Round: 1
 
 1/19/1936; St. Louis Shamrocks; 0-0; Hellrung & Grimm; St. Louis
 
@@ -769,12 +769,12 @@ Round: Final
 
 4/26/1936; Philadelphia German-Americans; 2-2; St. Louis Shamrocks; Walsh Memorial Stadium, St. Louis, MO; 15000
 Richards, Bill Fiedler; Werner Nilsen, Werner Nilsen
-Philadelphia German-Americans: Rob Denton, Fritz Stoll, Al Harker, James Crockett, Peter Pietras, Altimose, Richards, Nichol, George Nemchik, Bill Fiedler, Francis Ryan
+Philadelphia German-Americans: Rob Denton, Fritz Stoll, Al Harker, James Crockett, Peter Pietras, Altemose, Richards, Nichol, George Nemchik, Bill Fiedler, Francis Ryan
 St. Louis Shamrocks: Rodriguez, Lehman, Davidson, Eddie Kane, Watson, Harry Hebberger, Alex McNab, Werner Nilsen, Patena, Billy Gonsalves, Pastor
 
 5/3/1936; Philadelphia German-Americans; 3-0; St. Louis Shamrocks; Rifle Club Grounds, Philadelphia, PA; 12000
 George Nemchick, George Nemchick, Richards;
-Philadelphia German-Americans: Rob Denton, Fritz Stoll, Al Harker, James Crockett, Peter Pietras, Allemose, Richards, Francis Ryan, George Nemchik (Lutkefedder), Bill Fiedler, McAlees
+Philadelphia German-Americans: Rob Denton, Fritz Stoll, Al Harker, James Crockett, Peter Pietras, Altemose, Richards, Francis Ryan, George Nemchik (Lutkefedder), Bill Fiedler, McAlees
 St. Louis Shamrocks: Rodriguez, Lehman, Davidson, Eddie Kane, Watson, Thompson, Alex McNab, Billy Gonsalves, Werner Nelson, Jimmy Roe, Pastor
 Source: http://query.nytimes.com/mem/archive/pdf?res=9C0CE3D8133FEE3BBC4C53DFB366838D629EDE
 
@@ -846,7 +846,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F60E14FA3B541B728DDDAC0994D
 
 * Western Division
 
-Round: First Round
+Round: 1
 
 1/10/1937; Detroit Chevrolets; 0-4; St. Louis Shamrocks; Detroit, MI
 
@@ -905,47 +905,82 @@ BlockSource: http://thecup.us/1938-national-challenge-cup-results/
 
 * Eastern Division
 
-Round: First Round
+Round: 1
 
-1/16/1938; New York Americans; 4-2; Brooklyn First Germans; New York
+1/16/1938; New York Americans; 4-2; Brooklyn First Germans; Starlight Park; 5000
+Al Sasso, Ferreira (Kuntner), Michaels (ua), Michaels (McAlees); Russell Brown (Eddie Brown), Silvia
+New York Americans: Chesney; Moorhouse, Schumacher; Althous, Martinelli, McAteer; Ferreira, Kuntner, Al Sasso, Michaels, McAlees
+Brooklyn First Germans: Barkus; Barclay, Silvia; Gmelin, Urbelis, Dow; Hild, Healy, R. Brown, E. Brown, Scaturo
+Source: http://query.nytimes.com/mem/archive/pdf?res=F20C1EF63A5A157A93C5A8178AD85F4C8385F9
 
-1/16/1938; Irish-Americans; 3-5; Bethlehem Hungarian; Newark
+1/16/1938; Irish-Americans; 3-5; Bethlehem Hungarian; Newark, NJ
+J. Pettigrew, J. Pettigrew, Stark; Hulsiver, Hulsiver, Hulsiver, Hulsiver, Horworth
+Irish-Americans: Davis; Bassett, Harris; Currie, Borzowski, Robinson; J. Pettigrew, Cooper, Stark, Dolan, Sheppell
+Bethlehem Hungarian: Molar; Thompton, Saurlino; Troller, Elez, Rush; Hulsiver, Misel, Horworth, Frey, Monjer
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30B1EF63A5A157A93C5A8178AD85F4C8385F9
 
-1/23/1938; Brookhattan; 4-1; Hatikvoh; New York
+1/23/1938; Brookhattan; 4-1; Hatikvoh; Starlight Park; 5000
+Razzo Carroll (Jackie Brown) 15, Razzo Carroll (Wittek) 55, Williamson (Skiba, fk) 77, Morton (pk); Ritchie Miller (pk)
+Brookhattan: Newman; Morton, Barr; Slone, Slavin (Jogis), Skiba; Wittek, Brown (McIntyre), Carroll, Williamson, Boyle
+Hatikvoh: Tartar; Buckat, Krosser; Breinberg, Simon (McElle), Maier; Greer, Bone, Miller, Kornbluth, Frankie
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30715F73C5D12738DDDAD0A94D9405B888FF1D3
 
 * Look up Lusitania Recreation / Ponta Delgada 1/30, 2/6, 2/13
+1/30/1938; Lusitania Recreation; 3-3 (aet); Ponta Delgada
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60E12FF345A157A93C3AA178AD85F4C8385F9
 
 1/16/1938; Brooklyn Hispano; 1-1; St. Mary's Celtic
+Source: http://query.nytimes.com/mem/archive/pdf?res=F50D1EF63A5A157A93C5A8178AD85F4C8385F9
 
-1/16/1938; Brooklyn Hispano; 1-4; St. Mary's Celtic
+1/22/1938; Brooklyn Hispano; 1-4; St. Mary's Celtic; Celtic Park
+Rudy; Aitken, William McEwan (Sneddon), William McEwan (Sneddon), John McEwan
+Brooklyn Hispano: Busse; Brandolini, Burroughs; Rodriguez, Trabanco (Garcia), Fernandez; Aja (Gulla), Herman, Salcedo, Ruddy, Bisiani
+St. Mary's Celtic: Othen; Kelso, Czerkiewicz; McGregor, Johnstone, Weir; Aitken, Steele, W. McEwan, Sneddon (Derostaing), J. McEwan
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0817FD355A157A93C1AB178AD85F4C8385F9
 
 1/16/1938; Baltimore SC; 2-1; Buda AA; Baltimore
+Source: http://query.nytimes.com/mem/archive/pdf?res=F50D1EF63A5A157A93C5A8178AD85F4C8385F9
 
-1/16/1938; First German Americans; 3-3; Philadelphia Passon; Philadelphia
+1/16/1938; Philadelphia German Americans; 3-3; Philadelphia Passon; Philadelphia, PA
+Source: http://query.nytimes.com/mem/archive/pdf?res=F50D1EF63A5A157A93C5A8178AD85F4C8385F9
 
-1/22/1938; First German Americans; 2-0; Philadelphia Passon; Philadelphia
+1/22/1938; Philadelphia German Americans; 2-0; Philadelphia Passon; Philadelphia, PA
+Ray Richards, Bob Gormley;
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30717FD355A157A93C1AB178AD85F4C8385F9
 
 1/16/1938; Paterson Caledonian; 1-0; Scots Americans; Clifton, NJ
 Neretti 89;
 Source: http://query.nytimes.com/mem/archive/pdf?res=F70E17F73A5A157A93C5A8178AD85F4C8385F9
 
-Round: Quarter Finals
+Round: Quarterfinals
 
-1/30/1938; New York Americans; 4-1; Bethlehem Hungarian; New York
+1/30/1938; New York Americans; 4-1; Bethlehem Hungarian; Starlight Park; 7000
+Ferreira, George Michaels, George Michaels, George Michaels; Hormuth
+New York Americans: Chesney; Schumacher, Moorhouse; Althous, Martinelli, McAteer; Ferreira, Kuntner, Michaels, DiMaggio, McAlee
+Bethlehem Hungarian: Molnar; Compton, Saurino; Trotter, Elck, Rush; Hulsizer, Misko, Hormuth, Fray, Moyer
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0615FF345A157A93C3AA178AD85F4C8385F9
 
-2/20/1938; Brookhattan; 7-0; Ponta Delgada; New York
+2/20/1938; Brookhattan; 7-0; Ponta Delgada; Starlight Park; 3000
+McIntyre, McIntyre, Carroll, Carroll, Boyle, Boyle, Barr;
+Brookhattan: Newman; Morton, Barr; Slone, Slavin, Skiba; Wittek, McIntyre, Carroll, Brown, Boyle
+Ponta Delgada: Michaels; F. Almeida, Boruch; M. Braga, Correia, Silvia; J. Braga, Duarte, M. Almeida, Cwilka, Travis
+Source: http://query.nytimes.com/mem/archive/pdf?res=F40A15FE3D5C1B7A93C3AB1789D85F4C8385F9
 
-1/30/1938; St. Mary's Celtic; 7-1; Baltimore SC; New York
+1/30/1938; St. Mary's Celtic; 7-1; Baltimore SC; Celtic Park
+D. McEwan, D. McEwan, D. McEwan, D. McEwan, J. McEwan, W. McEwan, Steele; Ernst
+St. Mary's Celtic: Othen; Kelso, Czerkiewicz; McGregor, Johnstone, Weir; J. McEwan, Steele, D. McEwan, Sneddon, W. McEwan
+Baltimore SC: Schuerholz; Amrhein, Winterling; Kowalski, Nixon, Knoerlin; Patschke, Monroe, Ernst, Law, Muszel
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0F12FF345A157A93C3AA178AD85F4C8385F9
 
-1/30/1938; First German Americans; 5-3; Paterson Caledonian; Philadelphia
+1/30/1938; Philadelphia German Americans; 5-3; Paterson Caledonian; Philadelphia
 
-Round: Semi Finals
+Round: Semifinals
 
 2/27/1938; New York Americans; 4-3; Brookhattan; New York
 
-2/27/1938; St. Mary's Celtic; 1-1; First German Americans; New York
+2/27/1938; St. Mary's Celtic; 1-1; Philadelphia German Americans; New York
 
-3/12/1938; St. Mary's Celtic; 1-0; First German Americans; New York
+3/12/1938; St. Mary's Celtic; 1-0; Philadelphia German Americans; New York
 
 Round: Final
 
@@ -955,7 +990,8 @@ Round: Final
 
 * Western Division
 
-Round: First Round
+
+Round: 1
 
 1/16/1938; St. Patrick's; 2-3; South Side Radio; St. Louis
 
@@ -974,9 +1010,14 @@ Round: First Round
 
 1/16/1938; Milwaukee Schlitz; 6-4; Racine Deutscher; Milwaukee
 
-Round: Quarter Finals
+1/30/1938; Castle Shannon; 3-0; Cleveland
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60E12FF345A157A93C3AA178AD85F4C8385F9
+* ???
+
+Round: Quarterfinals
 
 2/6/1938; South Side Radio; 1-0; Burke Undertakers; St. Louis
+Source: http://query.nytimes.com/mem/archive/pdf?res=F00711F9345A157A93C5A91789D85F4C8385F9
 
 1/30/1938; German Sports Club; 3-0; Slavia Bartunek; Pittsburgh
 
@@ -984,7 +1025,7 @@ Round: Quarter Finals
 
 1/30/1938; Maccabee SC (Chicago); 2-1; Milwaukee Schlitz; Chicago
 
-Round: Semi Finals
+Round: Semifinals
 
 2/20/1938; South Side Radio; 2-4; German Sports Club; St. Louis
 
@@ -996,7 +1037,7 @@ Round: Final
 
 3/20/1938; German Sports Club; 1-3; Sparta ABA
 
-Round: Final
+Round: Championship Final
 
 4/17/1938; Sparta Garden City; 3-0; St. Mary's Celtic; Sparta Stadium, Chicago, IL; W.J. Arms; 4000
 James McDermott 6, Frank Trimmel, James Wolf; 
@@ -1035,7 +1076,7 @@ Round: 1
 Oprava (Hugh McCrindle), Hugh McCrindle (pk); Leslie Wittek (Joe Boyle, ck), Wittek (McIntyre, Boyle)
 Minutes: 105
 Prague (National League): Rozbora; Smith, Brunton; Montgomery (Meehan), McCrindle, O'Connell; Hooper, Fernandez (Murphy), Oprava, O'Neill, McNaughton
-Brookhattan: Newman; Greinart (Slavin), Schumacher; Sloane, Barr, Skiba; Wittek, Jennette, McIntyre, Brown (Carroll), Boyle
+Brookhattan: Newman; Greinert (Slavin), Schumacher; Sloane, Barr, Skiba; Wittek, Jennette, McIntyre, Brown (Carroll), Boyle
 Source: http://query.nytimes.com/mem/archive/pdf?res=F00B13F63C5F1B7A93C0A81789D95F4C8385F9
 
 Round: 2
@@ -1113,7 +1154,7 @@ Round: Semi Finals
 4/2/1939; Brookhattan; 1-3; St. Mary's Celtic; Starlight Park; 3000
 J. McEwan; Nanoski, Nanoski, Boyle
 St. Mary's Celtic: Othen; Kelso, Czerkiewicz; McGuire, Black, McManus; Aitken, Kuntner, Nanoski (D. McEwan), Steele (Mervin), J. McEwan
-Brookhattan: Newman; Barr, Glover; Slone, Slaven, Skiba; Wittek, Jennette, McIntyre, Greinter, Boyle
+Brookhattan: Newman; Barr, Glover; Slone, Slaven, Skiba; Wittek, Jennette, McIntyre, Greinert, Boyle
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30A14FE3B58127A93C1A9178FD85F4D8385F9
 
 Round: Final

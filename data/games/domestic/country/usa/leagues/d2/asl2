@@ -18,7 +18,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F60F14F6395513738DDDAC0894D
 
 9/11/1932; Hakoah All-Stars; 3-1; Brooklyn Wanderers; Hawthorne Field; 1500
 Turnbull, Turnbull, Grosz; Crilley
-Hakoah All-Stars: Arnauer; Auerbach, Liss; Slone, Abrahams, S. Breitbard; A. Breitbart, Haeusler, Turnbull, Grosz, Rattner
+Hakoah All-Stars: Aronauer; Auerbach, Liss; Slone, Abrahams, S. Breitbard; A. Breitbart, Haeusler, Turnbull, Grosz, Rattner
 Brooklyn Wanderers: Smith; Wilson, Morris; O'Neill, Moore, Nichol; Kane, Hume, Crilley, Lyle, Goldstein
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30610F6395513738DDDAF0894D1405B828FF1D3
 * ASL season begins 9/18/1932 [Sunday]
@@ -126,7 +126,6 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F00916F9345516738DDDAE0A94D
 1/2/1933; New York Americans; 5-2; Queens Bohemians; Starlight Park
 Source: http://query.nytimes.com/mem/archive/pdf?res=F20E1FF7345C1A7A93C1A9178AD85F478385F9
 
-
 *1/15/1932; New York Americans; 4-2; German-American XI; Philadelphia, PA; 4500
 *George Michaels, George Michaels, Milne, Moorehouse; 
 *Source: http://query.nytimes.com/mem/archive/pdf?res=F60F1EFF355E16738DDDAF0994D9405B838FF1D3
@@ -174,21 +173,22 @@ New York Americans: Chesney, Auerbach, Moorehouse, Fleming, Abrahams (Hendren), 
 Competition: American Soccer League (1934-1983)
 Season: 1933-1934
 
-9/24/1933; Brooklyn; 2-1; Hakoah Americans; Starlight Park
+9/24/1933; Brooklyn Wanderers; 2-1; New York Americans; Starlight Park
 McGarry, Gallagher; Sacks
-Brooklyn: Othen, Cross, Crozier, Gallagher, McGarry, McGilley, Wardrop, Maley, Burroughs, McCrindie, Nichol
-Hakoah Americans: Coleman, Auerbach, Moorhouse, Abrams, Fleming, Wyles, Schwarcz, Michaels, Sacks, Milne (Young), Carroll
+Brooklyn Wanderers: Othen, Grosz, Crozier, Gallagher, McGarry, McGilley, Wardrop, Maley, Burroughs, McCrindie, Nichol
+New York Americans: Coleman, Auerbach, Moorhouse, Abrams, Fleming, Wyles, Schwarcz, Michaels, Sacks, Milne (Young), Carroll
+Notes: Billed as the Hakoah Americans (this game only?)
 Source: http://query.nytimes.com/mem/archive/pdf?res=9400EEDE1530EF3ABC4D51DFBF668388629EDE
 
 10/1/1933; Kearny Irish; 2-1; Brookhattan; Starlight Park; 1500
 McAteer, McAteer; Wadder
 Kearny Irish: Blair, Parodi, Zbikowski, Kenny, Harris, Gavin, Stark, McCartin, Mcateer, O'Brien, Zibbi
-Brookhattan: Aronauer, Buchanan, Glover, Slone, Abraham, Morton (Wedder), Gross, White, Martyn, Tolan, McCombie
+Brookhattan: Aronauer, Buchanan, Glover, Slone, Abraham, Morton (Wedder), Gross, White, Martyn, Tollan, McCombie
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E05EED91631E333A25751C0A9669D946294D6CF
 
 10/8/1933; Brookhattan; 2-1; Brooklyn Celtics; Commercial Field, Brooklyn
 Tollan, Gross (McCombie) 87; Boyle
-Brookhattan: Aronauer, Buchanan, Glover, Slone, Abrams, Morton, Aiken, Tollan, McGrath, Gross, McCombie
+Brookhattan: Aronauer, Buchanan, Glover, Slone, Abrams, Morton, Aitken, Tollan, McGrath, Gross, McCombie
 Brooklyn Celtics: Rojas, T. Farrell, Hendren, Ferguson, McGee, McConnell, Neany, McKillop, J. Farrell, Kelly, Boyle
 
 10/15/1933; Brookhattan; 2-1; Newark Germans; Starlight Park
@@ -197,11 +197,11 @@ Brookhattan: Aronauer, Kay, Glover, Slone, Abrahams, Morton, Gross, Tollan, Wett
 Newark Germans: Cengia, Langer, Barkowitz, Miethe, Slaven, Richter, Gankstern, Ballantyne, Steinbrenner, Enderle, Nass
 Source: http://query.nytimes.com/mem/archive/pdf?res=9503E1D81530EF3ABC4E52DFB6678388629EDE
 
-10/15/1933; New York Americans; 1-0; Brooklyn
+10/15/1933; New York Americans; 1-0; Brooklyn Wanderers
 * Brooklyn FC - Absorbed by Brooklyn Celtic?
 Moorhouse; 
 New York Americans: Chesney, Liss, Moorhouse, McKay, Fleming, Wild, Schwarcz, Sacks, Michaels, Milne, Pearson
-Brooklyn: Othen, Gross, Grozier, Eugenio, McGarry, McGilly, Gallagher, O'Neil, Burroughs, Wardrop, McCrindle
+Brooklyn Wanderers: Othen, Grosz, Grozier, Eugenio, McGarry, McGilly, Gallagher, O'Neil, Burroughs, Wardrop, McCrindle
 Source: http://query.nytimes.com/mem/archive/pdf?res=9503E1D81530EF3ABC4E52DFB6678388629EDE
 
 10/22/1933; New York Americans; 2-1; Brookhattan; Starlight Park; 1500
@@ -210,21 +210,21 @@ New York Americans: Chesney, Liss, Moorhouse, McKay, Fleming, Wiley, Schwarcz, K
 Brookhattan: Young, Kay, Glover, Slone, Abrams, Morton, Aitken, Tollan, Gross, White, McCormack
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E0CE0DF1731E333A25750C2A9669D946294D6CF
 
-10/22/1933; Newark Scots-Americans; 3-2; Brooklyn; Hawthorne Field, Brooklyn; 1200
+10/22/1933; Newark Scots-Americans; 3-2; Brooklyn Wanderers; Hawthorne Field, Brooklyn; 1200
 Carroll, Carroll, Kelly; McCrindle, McCrindle
 Newark Scots-Americans: Sprague, Jameson, McKay, McGregor, Kelly, Speid (Jogis), Davis, Eaglesham, Carroll, Walker, Malloy
-Brooklyn: Othen, Crosz, Grozier, Enginie, McGarry, McGilly, Gallagher, Martin (Wardrop), Burroughs, O'Neill, McCrindle
+Brooklyn Wanderers: Othen, Grosz, Grozier, Enginie, McGarry, McGilly, Gallagher, Martin (Wardrop), Burroughs, O'Neill, McCrindle
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E0CE0DF1731E333A25750C2A9669D946294D6CF
 
-10/29/1933; Brooklyn; 2-1; Brookhattan; Starlight Park; 1500
+10/29/1933; Brooklyn Wanderers; 2-1; Brookhattan; Starlight Park; 1500
 Smith, McCrindle; Glover
-Brooklyn: Othen, D. Gross, Burroughs, Gallagher, McGarry, McGilley, Smith, O'Neill, Eugenio, McKenzie, McCrindle
+Brooklyn Wanderers: Othen, D. Grosz, Burroughs, Gallagher, McGarry, McGilley, Smith, O'Neill, Eugenio, McKenzie, McCrindle
 Brookhattan: Shearer, Kay, Glover, Slone, Abraham, Morton, Aitken, Tollan, Wetter, A. Gross, McCombie
 Source: http://query.nytimes.com/mem/archive/pdf?res=950DE0DC1731E333A25753C3A9669D946294D6CF
 
-10/29/1933; Irish Americans; 3-0; Brooklyn Celtics; Commercial Field, Brooklyn; 
+10/29/1933; Kearny Irish Americans; 3-0; Brooklyn Celtics; Commercial Field, Brooklyn; 
 Stark, Stark, McCartin; 
-Irish Americans: Quick, Brown, Parodi, Cahil, Black, Gavin, McCartin, Kenny, Stark, O'Brien, Mazza
+Kearny Irish Americans: Quick, Brown, Parodi, Cahil, Black, Gavin, McCartin, Kenny, Stark, O'Brien, Mazza
 Brooklyn Celtics: Rojas, Brunton, Hendren, Donnelly, Lynch, McConnell, Mennie, McKillop, J. Farrell, Ferguson, Boyle
 Source: http://query.nytimes.com/mem/archive/pdf?res=950DE0DC1731E333A25753C3A9669D946294D6CF
 
@@ -234,18 +234,18 @@ Brooklyn Celtics: Rojas, Brunton, Hendron, Ferguson, Lynch, McConnell, Meany, Ke
 New York Americans: Chesney, Clark, Moorhouse, Carroll, Fleming, Wyles, Schwarcz, Kuntner, Sacks, Milne, Pearson
 Source: http://query.nytimes.com/mem/archive/pdf?res=9804E5DA1731E333A25755C0A9679D946294D6CF
 
-11/5/1933; Brooklyn FC; 0-2; Newark Germans; Commercial Field, Brooklyn; 
+11/5/1933; Brooklyn Wanderers; 0-2; Newark Germans; Commercial Field, Brooklyn; 
 ; Strong, Strong
 Newark Germans: Cinges, Manger, Bagewitz, Wieth, Slaven, Richter, Duggan, Ballantine, Strong, Enderle, Nass
-Brooklyn FC: Othen, Gross, Burroughs, Gallagher, McGarey, McGilley, Smith, O'Neil, Wardrop, McKenzie, McCrindle
+Brooklyn Wanderers: Othen, Grosz, Burroughs, Gallagher, McGarey, McGilley, Smith, O'Neil, Wardrop, McKenzie, McCrindle
 Source: http://query.nytimes.com/mem/archive/pdf?res=9804E5DA1731E333A25755C0A9679D946294D6CF
 
 11/6/1933; Brookhattan; 2-1; Scots-Americans; Todd Field
-Tolan 75, Tolan 85; Carroll 65
+Tollan 75, Tollan 85; Carroll 65
 
 11/12/1933; Brookhattan; 2-2; Scots-Americans; Starlight Park; 1500
 Gross, Wetter; Carroll, McGregor
-Brookhattan: Arnauer, Glover, Martyn, Slone, Abraham, Morton, Aitken, Gross, Wetter, Tollan, McCombie
+Brookhattan: Aronauer, Glover, Martyn, Slone, Abraham, Morton, Aitken, Gross, Wetter, Tollan, McCombie
 Scots-Americans: Sprague, Patterson, McKay, McGregor, Jogis, Walker, Eagleson, Clark, Carroll, Malloy, Conn
 Source: http://query.nytimes.com/mem/archive/pdf?res=9B0CE0D81731E333A25750C1A9679D946294D6CF
 
@@ -287,13 +287,13 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9E0CE4DC1431E333A25754C2A96
 12/2/1933; Philadelphia German-Americans; 1-1; Brookhattan; Philadelphia
 Laub; McCombie
 Philadelphia German-Americans: Els, Rapp, Harker, Crocker, Pietras, Fiedler, Laub, Wilson, Nicol, Ryan, Keller
-Brookhattan: Aranauer, Glover, McGillie, Sloan, Gross, Collan, Aitken, Wortmann, Sacks, McCombie, McIlwain
+Brookhattan: Aronauer, Glover, McGillie, Sloan, Gross, Collan, Aitken, Wortmann, Sacks, McCombie, McIlwain
 Source: http://query.nytimes.com/mem/archive/pdf?res=9801E5DC1731E633A25750C0A9649D946294D6CF
 
-12/3/1933; Brooklyn; 0-3; Irish-Americans; Commercial Field, Brooklyn
+12/3/1933; Brooklyn Wanderers; 0-3; Kearny Irish-Americans; Commercial Field, Brooklyn
 ; Mazza, Stark, O'Donnell
-Irish-Americans: Quick, Brown, Parodi, Mattade, Black, Harris, Clark, O'Brien, Stark (McAteer), O'Donnell, Mazza
-Brooklyn: Othen, Gross, Burroughs, Eugenio, McGarry, McGilly, Smith, O'Neil, Sacks, McCrindle (Martin), Wardrop
+Kearny Irish-Americans: Quick, Brown, Parodi, Mattade, Black, Harris, Clark, O'Brien, Stark (McAteer), O'Donnell, Mazza
+Brooklyn Wanderers: Othen, Gross, Burroughs, Eugenio, McGarry, McGilly, Smith, O'Neil, Sacks, McCrindle (Martin), Wardrop
 Source: http://query.nytimes.com/mem/archive/pdf?res=990CE6DA1431E333A25757C0A9649D946294D6CF
 
 12/3/1933; Newark Germans; 1-0; Hispano FC; Recreation Park, Long Island City
@@ -306,13 +306,13 @@ Brookhattan: Aronauer, Glover, Morton, Slone, Abrahams, Tollan, Aitken, Gross, L
 Hispano: Shearer, Kay, Rocca, Leno, Campbell, Alcantar, Falquero, Pardo, Ullialta, Solano, Medina
 Source: http://query.nytimes.com/mem/archive/pdf?res=9A0CE1D81431E333A25752C1A9649D946294D6CF      
 
-12/10/1933; Irish-Americans; 3-2; Brooklyn Celtics; Commercial Field, Brooklyn;
+12/10/1933; Kearny Irish-Americans; 3-2; Brooklyn Celtics; Commercial Field, Brooklyn;
 Clark, McAteer, McAteer; Kane, Boyle
-Irish-Americans: Quick, Brown, Parodi, Mattade, Black, Ferris, Clarke, O'Donnell, McAteer, O'Brien, McCartin
+Kearny Irish-Americans: Quick, Brown, Parodi, Mattade, Black, Ferris, Clarke, O'Donnell, McAteer, O'Brien, McCartin
 Brooklyn Celtics: Rojas, Brenton, Henderson, Donnelly, Lynch, Ferguson, McKillop, T. Farrell, J. Farrell, Kelly, Boyle
 Source: http://query.nytimes.com/mem/archive/pdf?res=9A0CE1D81431E333A25752C1A9649D946294D6CF
 
-12/10/1933; Brooklyn; 1-2; Scots-Americans; Clark Field, East Newark, NJ; 2000
+12/10/1933; Brooklyn Wanderers; 1-2; Scots-Americans; Clark Field, East Newark, NJ; 2000
 Sacks; Conn 5, Clark
 
 12/10/1933; New York Americans; 5-2; Newark Germans; Union, NJ
@@ -322,25 +322,25 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9904E0D81431E333A25752C1A96
 * Seems Brooklyn Wanderers dropped out here and were replaced by Hispano? (Nope)
 
 12/17/1933; Philadelphia German-Americans; 3-2; Brookhattan; Philadelphia
-Pietras, Kellar, Lutkendeffar; Lauder, Martyn
-Philadelphia German-Americans: Denton, Stoll, Harker, Crockett, Rapp (Pietras), Regan, Laub, Nicol, Lutkendeffer, Ryan, Kellar
+Pietras, Kellar, Lutkefedder; Lauder, Martyn
+Philadelphia German-Americans: Denton, Stoll, Harker, Crockett, Rapp (Pietras), Regan, Laub, Nicol, Lutkefedder, Ryan, Kellar
 Brookhattan: Aronauer, Glover, Martyn, Slone, Abrahams, Morton, Gross, Tollan, Lauder, Wortmann, McCombie
 Source: http://query.nytimes.com/mem/archive/pdf?res=9A01EEDE1531E333A2575BC1A9649D946294D6CF
 
 12/17/1933; New York Americans; np; Hispano; 
-12/17/1933; Brooklyn FC; np; Brooklyn Celtics
-12/17/1933; Irish Americans; np; Newark Germans
+12/17/1933; Brooklyn Wanderers; np; Brooklyn Celtics
+12/17/1933; Kearny Irish Americans; np; Newark Germans
 * http://query.nytimes.com/mem/archive/pdf?res=9401EEDE1531E333A2575BC1A9649D946294D6CF
 
-12/24/1933; German Americans; 5-2; Hispano FC; Philadelphia, PA; 7000
+12/24/1933; Philadelphia German Americans; 5-2; Hispano FC; Philadelphia, PA; 7000
 Pietras, Lutkefedder, Wilson, Laub, Ryan; Woodside, Sanchez
-German Americans: Els, Stohl, Harker, Crockett, Pietras, Clements, Laub, Wilson, Lutkefedder, Nicol, Ryan
+Philadelphia German Americans: Els, Stohl, Harker, Crockett, Pietras, Clements, Laub, Wilson, Lutkefedder, Nicol, Ryan
 Hispano FC: Shearer, Kay, Roca, Maurino, Chesney, Alcantara, Woodside, Pardo, Edesa, Campbell, Sanchez
 Source: http://query.nytimes.com/mem/archive/pdf?res=9802EFDA1531E333A25756C2A9649D946294D6CF
 
-12/24/1933; Irish-Americans; 3-0; Brookhattan; Starlight Park; 1500
+12/24/1933; Kearny Irish-Americans; 3-0; Brookhattan; Starlight Park; 1500
 Clark, Black, Stark; 
-Irish-Americans: Quick, Brown, Parodi, Matteda, Black, Harris, Clark, O'Brien, Stark, O'Donnell, Robinson
+Kearny Irish-Americans: Quick, Brown, Parodi, Matteda, Black, Harris, Clark, O'Brien, Stark, O'Donnell, Robinson
 Brookhattan: Aronauer, Glover, Buchanan, Stone, Martyn, Morton, Gross, Tollan, Lauder, Wortmann, McCombie
 Source: http://query.nytimes.com/mem/archive/pdf?res=9502EFDA1531E333A25756C2A9649D946294D6CF
 
@@ -364,7 +364,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9A06E4D91531E333A25755C2A96
 
 12/31/1933; Brookhattan; ?; Newark Germans; Starlight Park
 1/1/1934; Brookhattan; ?; New York Americans; Starlight Park
-1/1/1934; Brooklyn Celtics; ?; Brooklyn FC; Commercial Field
+1/1/1934; Brooklyn Celtics; ?; Brooklyn Wanderers; Commercial Field
 
 * 1/7/1934; All games called off. Standings as of:
 
@@ -390,10 +390,10 @@ Aitken, Gross, Slaven; Carroll
 Brookhattan: Aronauer, Kennedy, Glover, Slone, Slaven, Morton, Aitken, Cunningham, Torbett, Gross, McCombie
 Scots-Americans: Brown, Patterson, McKay, Jogis, Kelly, Speed, Eaglesham, Clark, Carroll, Walker, Conn
 
-1/21/1934; New York Americans; 1-1; Irish Americans; Starlight Park; 1500
+1/21/1934; New York Americans; 1-1; Kearny Irish Americans; Starlight Park; 1500
 Michaels; O'Brien
 New York Americans: Chesney, Gross, Moorehouse, Wyles, Fleming, McKay, Kenny, Kuntner, Michaels, Milne, Person
-Irish Americans: Quick, Brown, Parodi, O'Donnell, Black, Harris, Stark, Kincaid, Patenaude, O'Brien, Clark
+Kearny Irish Americans: Quick, Brown, Parodi, O'Donnell, Black, Harris, Stark, Kincaid, Patenaude, O'Brien, Clark
 
 1/21/1934; Hispano; 1-0; Philadelphia German-Americans
 
@@ -431,7 +431,7 @@ Brookhattan: Aronauer, Kennedy, Glover, Slone, Slavin, Martyn, Aitken, Gross, Ta
 
 4/8/1934; Brookhattan; 5-4; Scots-Americans; Starlight Park; 1500
 Aitken, Tarbatt, Gross, Gross, McCombie; Clark, Clark, Clark, Perry
-Brookhattan: Aronauer, Fearon, Glover, Slone, Slavin, Martyn, Aitkin, Brown, Tarbatt, Gross, McCombie
+Brookhattan: Aronauer, Fearon, Glover, Slone, Slavin, Martyn, Aitken, Brown, Tarbatt, Gross, McCombie
 Scots-Americans: Joseph McGregor, McDonald, McKay, Briscoe, Jogis, Patterson, Perry, Walker, Clark, Lennon, Sheppell
 * James McGregor for Paterson, Kennedy for Brown, Kelly for McDonald
 
@@ -443,18 +443,18 @@ Newark Germans: Cingia, Bagewitz, Kruse, Ballantyne, Meith, Richter, Langer, Wit
 
 4/15/1934; Brookhattan; 2-0; Brooklyn Celtics; Commercial Field, Brooklyn
 Kennedy, Morton; 
-Brookhattan: Aranauer, Fearon, Glover, Slone, Slaven, Morton, Aitken, Wortmann, Kennedy, Gross, McCombie
+Brookhattan: Aronauer, Fearon, Glover, Slone, Slaven, Morton, Aitken, Wortmann, Kennedy, Gross, McCombie
 Brooklyn Celtics: Rojas, Brunton, Hendren, Ferguson, Lynch, McKillop, Donnelly, Joselit, Greer, Farrell, Boyle
 
 4/23/1934; New York Americans; 2-1; Brookhattan; Starlight Park; 2000
 Michaels, Kuntner; Tarbott
 New York Americans: Chesney, Gross, Moorhouse, Wyles, Fleming, McKay, Schwarcz, Kuntner, Michaels, Milne, Mazza
-Brookhattan: Aronauer, Fearon, Glover, Slone, Slavin, Morton, Aitken, Wortmann, Tarbott, Tolan, McCombie
+Brookhattan: Aronauer, Fearon, Glover, Slone, Slavin, Morton, Aitken, Wortmann, Tarbott, Tollan, McCombie
 
 5/6/1934; Brooklyn Hispano; 3-1; Brookhattan; Starlight Park; 1200
 Odesa, Smith, O'Neil; Glover
 Brooklyn Hispano: Toroya, Kay, Burroughs, Maurino, McCrondie, McGilley, Smith, Roca, Odesa, O'Neil, Sacks
-Brookhattan: Aronauer, Fearon, Glover, Slone, Slavin, Wortmann, Aitkin, Gross, Kennedy, Tolan, McCombie
+Brookhattan: Aronauer, Fearon, Glover, Slone, Slavin, Wortmann, Aitken, Gross, Kennedy, Tollan, McCombie
 
 5/20/1934; Brookhattan; 3-3; Scots-Americans; Starlight Park; 1200
 Wortan, Tollan, Own Goal (S. Sheppel); Carroll, Carroll, Perry
@@ -498,15 +498,15 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=980CEFDA123FE53ABC4053DFB66
 Ronan, Murray; Reichter
 Source: http://query.nytimes.com/mem/archive/pdf?res=9507EEDE113CE23ABC4D52DFB667838F629EDE
 
-10/28/1934; Irish-Americans; 2-1; New York Americans; Newark, NJ
+10/28/1934; Kearny Irish-Americans; 2-1; New York Americans; Newark, NJ
 Lauder (pk), Patenaude; Brown
-Irish-Americans: Quick; Brown, Harris; O'Donnell, Black, Mattade; Clark, Lauder, Patenaude, O'Brien, Strong
+Kearny Irish-Americans: Quick; Brown, Harris; O'Donnell, Black, Mattade; Clark, Lauder, Patenaude, O'Brien, Strong
 New York Americans: Chesnie; Gross, Moorehouse; Wiles, Fleming, McMannus; Schwarcz, Collins, Michaels, Kuntner, Brown
 Source: http://query.nytimes.com/mem/archive/pdf?res=9D06E6DA113CE23ABC4151DFB667838F629EDE
 
 10/28/1934; Brookhattan; 2-1; Brooklyn Celtics; Starlight Park
 Ziggy Wortmann, Carroll; Jones
-Brookhattan: Aronauer; Slavin, Glover; Slone, Lynch, Morton; Deribo, Tollan, Carroll, Ziggy Wortmann, Shephell
+Brookhattan: Aronauer; Slavin, Glover; Slone, Lynch, Morton; DeVivo, Tollan, Carroll, Ziggy Wortmann, Sheppell
 Brooklyn Celtics: Rajas; Brunton, Barr; Coyle, Hendron, McGilly; Jones, Cunningham, Kelly, O'Neill, McKillop
 Source: http://query.nytimes.com/mem/archive/pdf?res=9A07E6DA113CE23ABC4151DFB667838F629EDE
 
@@ -519,17 +519,15 @@ Brooklyn Hispano: Othen; Brandolini, Burroughs; Maurino, Jogis, Singer; Smith, P
 Newark Germans: Cingia; Bozewicz, McKay; Ballantyne, Mieth, Richter; Wittack, Murray, Rae, Nolan, Mueller
 Source: http://query.nytimes.com/mem/archive/pdf?res=9807E6DA113CE23ABC4151DFB667838F629EDE
 
-
-
-11/11/1934; Brookhattan; 4-1; Irish-Americans; Clark Field, Newark, NJ
-Carroll, Carroll, Devido, Gross; Lauder
-Brookhattan: Aronauer, Glover, Morton, Slone, Slaven, Lynch, Devido,Gross, Carroll, Tolan, Chappel
-Irish-Americans: Quick, Brown, Parodi, O'Donnell, Black, Harris, Clarke, Lauder, Patenaude, O'Brien, McCartin
+11/11/1934; Brookhattan; 4-1; Kearny Irish-Americans; Clark Field, Newark, NJ
+Carroll, Carroll, DeVivo, Gross; Lauder
+Brookhattan: Aronauer, Glover, Morton, Slone, Slaven, Lynch, DeVivo,Gross, Carroll, Tollan, Chappel
+Kearny Irish-Americans: Quick, Brown, Parodi, O'Donnell, Black, Harris, Clarke, Lauder, Patenaude, O'Brien, McCartin
 
 11/18/1934; Brookhattan; 0-3; Philadelphia Germans; Starlight Park; 3000
 ; McAlees, McAlees, Nicol
-Philadelphia Germans: Denton, Stoll, Harker, Crockett, Petras, Fiedler, Laub, Nicol, Lutkefedder, Davies, McAlees
-Brookhattan: Aronauer, Glover, Morton, Slone, Slaven, Lynch, Devivo, Tollan, Carroll, Wortmann, Sheppel
+Philadelphia Germans: Denton, Stoll, Harker, Crockett, Pietras, Fiedler, Laub, Nicol, Lutkefedder, Davies, McAlees
+Brookhattan: Aronauer, Glover, Morton, Slone, Slaven, Lynch, Devivo, Tollan, Carroll, Wortmann, Sheppell
 
 11/25/1934; Brookhattan; 4-1; New York Americans
 Carroll, Carroll, Carroll, Wortmann (penalty kick); Brown
@@ -545,14 +543,12 @@ Newark Germans: Gengia, McKay, Bazewicz, Mieth, Ballantyne, McMurdo, Wittek, Mur
 12/16/1934; Philadelphia German-Americans; 2-1; Brookhattan; Philadelphia; 8000
 Regan, Nicol; Carroll
 Philadelphia German-Americans: Denton, Stohl, Majkowski, Crockett, Pietras (Regan), Fiedler, Laub, Nicol (Lutkefedder), Deal, Davies, Ryan
-Brookhattan: Arnauer, Slavin, Glover, Sloan, Lynch, Morton, Devivo, Fisher (Tolan), Carroll (Milne), Wortmann, Sheppell
-
+Brookhattan: Aronauer, Slavin, Glover, Sloan, Lynch, Morton, Devivo, Fisher (Tollan), Carroll (Milne), Wortmann, Sheppell
 
 12/23/1934; Scots-Americans; 2-1; Brookhattan; Starlight Park
 Dunn, Conn; DeVivo
 Scots-Americans: Davis, Paterson, Zibkowski, Aitken (Mattade), Anderson, Lennon, Richmond, Clark, Dunn, Conn, Drysdale
 Brookhattan: Aronauer, Slaven, Glover, Slone, Lynch, Morton, DeVivo, Fisher, Carroll, Tollan (Grosz), Sheppell
-
 
 * Championship game.
 12/25/1934; Brookhattan; 2-1; Brooklyn Hispano; Starlight Park; 1500
@@ -562,29 +558,28 @@ Brooklyn Hispano: Othen, Brandolini, Burroughs, Mourino, Jogis, Dow (Tollan), Sm
 
 
 1/1/1935; Brookhattan; 2-1; Brooklyn Celtics
-Wortman, Brunton; McKillop
-Brookhattan: Aronauer, Slaven, Glover, Slone, Lynch, Morton, De Vivo, Tolan, Carroll, Wortman (Fisher), Martyn
+Wortmann, Brunton; McKillop
+Brookhattan: Aronauer, Slaven, Glover, Slone, Lynch, Morton, De Vivo, Tollan, Carroll, Wortmann (Fisher), Martyn
 Brooklyn Celtics: Rojas, Brunton, Hendren, Ferguson, Coyle, McGilley, McDonald, Cunningham (O'Neil), McEwan, Kelly, McKillop
 
 1/6/1935; Brookhattan; 4-2; Canton SC; O'Donnell Park, Baltimore
 Carroll, Carroll, Devivo, Fisher; Law, Maxwell
-Brookhattan: Aronauer, Slavin, Glover, Morton, Slone, Lynch, Devivo, Tollan, Carroll, Wortman, Sheppell
+Brookhattan: Aronauer, Slavin, Glover, Morton, Slone, Lynch, Devivo, Tollan, Carroll, Wortmann, Sheppell
 Canton SC: Burtscher, Mack, Musch, Nickel, Amrhein, Kowalski, Brown, Maxwell, Lang, Law, Schwarnke
 
 2/10/1935; Brookhattan; 2-1; New York Americans; Starlight Park; 2500
 De Vivo, De Vivo; Cunliffe
-Brookhattan: Aronauer, Slavin, Glover, Slone, Lynch, Martyn, De Vivo, Tolan, Carroll (Fisher), Wortmann, Gross
+Brookhattan: Aronauer, Slavin, Glover, Slone, Lynch, Martyn, De Vivo, Tollan, Carroll (Fisher), Wortmann, Gross
 New York Americans: Chesney, Grosz, Morehouse, Collins, Fleming, Wyles, Schwarcz, Kuntner (Michaels), Cunliffe, McManus (Milne), Ramirez
-
 
 3/17/1935; Brooklyn Celtics; 2-2; Brookhattan; Commercial Field, Brooklyn
 Brunton, McEwan; Chappell, Gross
 Brooklyn Celtics: Rojas, Brunton, Barr, Hendren (McManus), Coyle, Ferguson, McKillop, Kenny, McEwan, Cunningham (O'Neil), Kelly
-Brookhattan: Aronauer, Glover, Morton, Slone, Slaven, Lynch, Gross, Fisher, Carroll, Tolan (Wortmann), Chappell
+Brookhattan: Aronauer, Glover, Morton, Slone, Slaven, Lynch, Gross, Fisher, Carroll, Tollan (Wortmann), Chappell
 
 3/24/1935; Brookhattan; 5-3; Newark Germans; Starlight Park; 3000
 Carroll, Carroll, Carroll, Wortmann, Sheppell; Murray, Rae, Ballantyne
-Brookhattan: Claridge, Slaven, Gloven, Slone (Gross), Lynch, Martyn, Devivo, Tollan (Fisher), Carroll, Wortmann, Sheppell
+Brookhattan: Claridge, Slaven, Glover, Slone (Gross), Lynch, Martyn, Devivo, Tollan (Fisher), Carroll, Wortmann, Sheppell
 Newark Germans: Cengia, Bazewicz, McKay, Wulf, Mieth, Richter, Wittek, Ballantyne, Rae, Murray, Muller
 
 3/31/1935; Brookhattan; 3-3; Canton SC; Starlight Park; 2500
@@ -605,7 +600,7 @@ Brookhattan: Aronauer, Slaven, Glover, Slone, Lynch, Martyn, Fisher, Tollan, Car
 
 4/28/1935; Brookhattan; 0-0; Brooklyn Hispano; Starlight Park; 4000
 Brookhattan: Caseman, Slavin, Glover, Tollan, Lynch, Morton, Gross, Fisher, Carroll, Pulvertaft, Sheppell
-Brooklyn Hispano: Othern, Brandolino, Burroughs, Maurino, Jogis, Dow, Macedo (Pettigrew), Ruddy, Sacks, Gordon, Salcedo
+Brooklyn Hispano: Othen, Brandolini, Burroughs, Maurino, Jogis, Dow, Macedo (Pettigrew), Ruddy, Sacks, Gordon, Salcedo
 * Teddy Glover (Bhtn), George Moorhouse (NYA), John Slavin (Bht), John McManus (NYA), Erno Schwarcz (NYA), John McEwan (BClt), Red Ballantyne (New), Manuel Salcedo (BHis), Phil Slone (Bht), 
 
 5/12/1935; Newark Germans; 4-3; Brookhattan; Turn Verein Stadium, Union City, NJ
@@ -613,18 +608,18 @@ Wittek, Wittek, Mattade, Red Ballantyne; John Slavin, Siggy Wortmann, Siggy Wort
 Newark Germans: Cengia, Bazewicz, McKay, Mieth, Mattade, Richter, Wittek, Murray, Rae, Ballantyne, Muller
 Brookhattan: Aronauer, Slavin, Glover, Slone, Lynch, Morton, Devivo, Fisher, Carroll, Wortman, Shappell
 
-5/26/1935; Brookhattan; 6-4; Irish-Americans; Starlight Park; 2500
+5/26/1935; Brookhattan; 6-4; Kearny Irish-Americans; Starlight Park; 2500
 Carroll, Carroll, Carroll, Richmond, Richmond, Wortmann; Gray, Stark, Lauder, Lauder
 Brookhattan: Busse, Slaven, Glover, Tollan, Lynch, Morton, Richmond, Fisher, Carroll, Wortmann, Sheppell
-Irish-Americans: Cappozzi, Parodi, McGinnis, Currie, Pacheco, Harris, Gray, O'Shea, Stark, O'Brien, Jamoikowski
+Kearny Irish-Americans: Cappozzi, Parodi, McGinnis, Currie, Pacheco, Harris, Gray, O'Shea, Stark, O'Brien, Jamoikowski
 
 
 Season: 1935-1936
 
 9/15/1935; Brookhattan; 8-0; Philadelphia Germans; Starlight Park; 2500
-De Vivo, Carroll, Carroll, Carroll, Fisher, Fisher, Chappell, Chappell; Nemchik, Nemchik, Altenose, Nicol
+De Vivo, Carroll, Carroll, Carroll, Fisher, Fisher, Chappell, Chappell; Nemchik, Nemchik, Altemose, Nicol
 Brookhattan: Busse; Glover, Barr; Slone, Slaven, Morton; De Vivo, Fisher, Carroll, Wortmann, Chappell
-Philadelphia Germans: Denton; Matkowski, Regan; Crockett, Nicol, Feidler; Laub, Richards, Nemchik, Altenose, McAleas
+Philadelphia Germans: Denton; Matkowski, Regan; Crockett, Nicol, Fiedler; Laub, Richards, Nemchik, Altemose, McAlees
 Source: http://query.nytimes.com/mem/archive/pdf?res=F10915F83559107A93C4A81782D85F418385F9
 
 9/22/1935; New York Americans; 4-2; Brooklyn Hispanos; Starlight Park; 3500
@@ -652,19 +647,19 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=FA0D15FD3C5A107A93C5A9178BD
 
 10/13/1935; Brooklyn Hispano; 2-2; Brookhattan; Hawthorne Field; 
 Crilley, Crilley; Fisher, Sheppell
-Brooklyn Hispano: Othan; Brandolini, Burroughs; Shervan, Bonilla, Trabanco; Michaels, Ruddy, Crilley, F. Fernandez, R. Fernandez
+Brooklyn Hispano: Othen; Brandolini, Burroughs; Shervan, Bonilla, Trabanco; Michaels, Ruddy, Crilley, F. Fernandez, R. Fernandez
 Brookhattan: Buece; Glover, Barr; Slone, Ferguson, Morton; Devivo, Fisher, Carroll, Wortmann, Sheppell
 Source: http://query.nytimes.com/mem/archive/pdf?res=F70E14FA3C5A107A93C6A8178BD95F418385F9
 
 11/13/1935; Brooklyn Hispano; 2-2; Brookhattan
 Crilley, Crilley; Fisher, Sheppell
-Brooklyn Hispano: Othan, Brandolini, Burroughs, Shervan, Bonilla, Trabanco, Michaels, Ruddy, Crilley, F. Fernandez, R. Fernandez
+Brooklyn Hispano: Othen, Brandolini, Burroughs, Shervan, Bonilla, Trabanco, Michaels, Ruddy, Crilley, F. Fernandez, R. Fernandez
 Brookhattan: Buece, Glover, Barr, Slone, Ferguson, Morton, Devivo, Fisher, Carroll, Wortmann, Sheppell
 * First mention of Flatbush Wanderers
 
 12/9/1935; New York Americans; 1-0; Brooklyn Hispano; Hawthorne Field
 C. McManus; 
-New York Americans: Chesney, Crosz, Moorehouse, Wyles, Fleming, J. McManus, Schwarz, C. McManus, McEwan, De Rostaing, Sacks
+New York Americans: Chesney, Grosz, Moorehouse, Wyles, Fleming, J. McManus, Schwarz, C. McManus, McEwan, De Rostaing, Sacks
 Brooklyn Hispano: Duncan, Brandolini, Burroughs, Shewan, Bonilla, Maurino, Dullea, Ruddy, Deal, Michaels, Salcedo
 
 5/24/1936; Scots Americans; 2-1; New York Americans; Clark's Field; 
@@ -694,7 +689,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F30A16FF3C5A1B7B93C0A9178AD
 
 11/22/1936; New York Americans; 1-1; Baltimore SC; Starlight Park; 2500
 Kuntner; Monroe
-New York Americans: Chesney; Grosz, Moorhouse; Hendren, Rapose, McManus; Schwarcz, Kuntner, Smith, DeRostaing, McEwan
+New York Americans: Chesney; Grosz, Moorhouse; Hendren, Rapose, McManus; Schwarcz, Kuntner, Smith, De Rostaing, McEwan
 Baltimore SC: Burtscher; Winterling, Mack; Nixon, Kowalski, Michels; Patschke, Monroe, Ernst, Law, Schwanke
 Source: http://query.nytimes.com/mem/archive/pdf?res=FB0612F9355D1B7B93C1AB178AD95F428385F9
 
@@ -748,7 +743,7 @@ Philadelphia Passon: Volge; E. Edwards, Mareno; B. Harty, Tell, Simpson; Wink, L
 Source: http://query.nytimes.com/mem/archive/pdf?res=F00E1FF63C581A7A93CBAB1788D85F438385F9
 
 3/28/1937; St. Mary's Celtics; 2-2; Newark Scots Americans; Celtic Park, Brooklyn, NY
-St. Mary's Celtics: McGregor; Kelso, Czerkiewicz; Shewan, Lynch, Weir; Aitken, Steele, McEwan, DeRostaing, Crilley
+St. Mary's Celtics: McGregor; Kelso, Czerkiewicz; Shewan, Lynch, Weir; Aitken, Steele, McEwan, De Rostaing, Crilley
 Newark Scots Americans: Bryndza; Callaghan, Zibkowski; Briscoe, Aitken, Peters; Moniz, Dick, Rae, Wojciechowicz, Conn
 Source: http://query.nytimes.com/mem/archive/pdf?res=F00E1FF63C581A7A93CBAB1788D85F438385F9
 
@@ -771,14 +766,14 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F10E1FF63C581A7A93CBAB1788D
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40F10FE395A157A93C3A8178FD85F438385F9
 
 4/11/1937; Baltimore SC; 3-2; Brookhattan; Starlight Park; 3000
-Patschke, Ernst, Schwanke; Williamson, Carrol
+Patschke, Ernst, Schwanke; Williamson, Carroll
 Baltimore SC: Burtcher; Amrhien, Winterlin; Nickel, Nixon, Kowalski; Patschke, Monroe, Ernest, Maxwell, Schwanke
 Brookhattan: Newman; Glover, Barr; Jogis, Slavin, Morton; Parodi (Black), Williamson, Carroll, McKechnie (McIntyre), Boyle
 Source: http://query.nytimes.com/mem/archive/pdf?res=F10F16FC385E177A93C0A8178FD85F438385F9
 
 5/1/1937; St. Mary's Celtics; 4-3; New York Americans; Starlight Park
-Johnny McEwan, Johnny McEwan, Johnny McEwan, Johnny McEwan (Derostaing) 80; Martinelli, Michaels, Kuntner
-St. Mary's Celtics: McGregor; Kelson, Czerkiewicz; Johnston, Lynch, Weir; Aitken, Healy, McEwan, Derostaing, Crilley
+Johnny McEwan, Johnny McEwan, Johnny McEwan, Johnny McEwan (De Rostaing) 80; Martinelli, Michaels, Kuntner
+St. Mary's Celtics: McGregor; Kelson, Czerkiewicz; Johnston, Lynch, Weir; Aitken, Healy, McEwan, De Rostaing, Crilley
 New York Americans: Chesney; Grosz, Moorehouse; Hendren, Martinelli, John McManus; Geddes, Kuntner, Michaels, Joe McManus, Lennon
 Source: http://query.nytimes.com/mem/archive/pdf?res=F1071FFD35551B7588DDAB0894DD405B878FF1D3
 
@@ -804,7 +799,7 @@ Brookhattan: Newman; Barr, Glover (Sloan); Morton, Slaven (Jogis), Skiba; Wittek
 New York Americans: Othen; Schumacher, Moorhouse; Michaels, Olthous, McAteer; Hooper, Kuntner, Lutkefedder, John McManus (Joe McManus), Lennon
 Source: http://query.nytimes.com/mem/archive/pdf?res=9B04E5D8143DE23ABC4851DFBF66838C629EDE
 
-10/31/1937; Baltimore; 2-1; Paterson Caledonians
+10/31/1937; Baltimore Americans; 2-1; Paterson Caledonians
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30E11FE3859177A93C3A9178AD95F438385F9
 
 10/31/1937; Brooklyn Hispanos; 4-2; St. Mary's Celtics
@@ -821,12 +816,12 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F30E11FE3859177A93C3A9178AD
 
 11/14/1937; New York Americans; 2-0; Paterson Caledonians; Starlight Park; 3500
 Rudy Kuntner (George Michaels) 20, George Moorhouse (pk);
-New York Americans: Chesney; Schumacher, Moorhouse; Althouse, Martinelli, McAteer; Lennon, Kuntner, Michaels, Ferreira, McAlees
+New York Americans: Chesney; Schumacher, Moorhouse; Althous, Martinelli, McAteer; Lennon, Kuntner, Michaels, Ferreira, McAlees
 Paterson Caledonians: Cenga; Wojciechowicz, Martelli; Mattade, Meith, D. Gray; Devivo, Ballantyne, Clark, Blyth, P. Gray
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50E10F9385A157A93C7A8178AD95F438385F9
 
 11/14/1937; Philadelphia German-Americans; 3-0; Newark Scots-Americans; Philadelphia, PA
-George Nemchek, Bob Nicol, Ray Richards;
+George Nemchik, Bob Nicol, Ray Richards;
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50F10F9385A157A93C7A8178AD95F438385F9
 
 11/21/1937; Brookhattan; 1-0; Baltimore SC; Starlight Park; 4000
@@ -837,7 +832,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F20D14FB3B59177A93C0AB178AD
 
 11/21/1937; Brooklyn Hispano; 3-3; Passon Phillies; Commercial Field, Brooklyn, NY
 Burroughs, Burroughs, Burroughs; Patenaude, Ryan, Murphy
-Brooklyn Hispano: Busse; Brandolini, Trabanco; Gulla, Ruddy, Garcia; Quinones, B'siani, Burroughs, Fernanez, Salcedo
+Brooklyn Hispano: Busse; Brandolini, Trabanco; Gulla, Ruddy, Garcia; Quinones, Bisiani, Burroughs, Fernandez, Salcedo
 Passon Phillies: Volz; Rapp, Rose; Harty, Zell, Simpson; Wink, Ryan, Patenaude, Miller, Murphy
 Source: http://query.nytimes.com/mem/archive/pdf?res=F60E14FB3B59177A93C0AB178AD95F438385F9
 
@@ -847,24 +842,24 @@ Scots Americans: Bryndza; Wolstencroft, Zibkowski; Dick, Aitken, McManus; Moniz,
 St. Mary's Celtic: Othen; Steel, Johnstone; McDermott, Kelso, Weir; Aitken, Nell, Crilley (McEwan), Sneddon, Nilsson
 Source: http://query.nytimes.com/mem/archive/pdf?res=FB0E14FB3B59177A93C0AB178AD95F438385F9
 
-11/21/1937; Paterson Caledonians; 1-1; Irish Americans; Wessington Stadium, Clifton, NJ
+11/21/1937; Paterson Caledonians; 1-1; Newark Irish Americans; Wessington Stadium, Clifton, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E14FB3B59177A93C0AB178AD95F438385F9
 
 11/21/1937; Philadelphia German-Americans; 2-1; New York Americans
 Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E14FB3B59177A93C0AB178AD95F438385F9
 
-11/28/1937; Brookhattan; np; Baltimore; Baltimore, ND
+11/28/1937; Brookhattan; np; Baltimore Americans; Baltimore, ND
 Notes: postponed due to rain
 * other ASL games were postponed for same reason.
 Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E11F93B59177A93CBAB178AD95F438385F9
 
-12/5/1937; German Americans; 4-1; Baltimore
+12/5/1937; Philadelphia German Americans; 4-1; Baltimore SC
 Source: http://query.nytimes.com/mem/archive/pdf?res=F00B1FFE3A59177A93C4A91789D95F438385F9
 
 12/5/1937; St. Mary's Celtics; 6-2; Brooklyn Hispanos; Celtic Park, Brooklyn, NY
 McDermtt, McDermtt, Sommersdad, J. McEwan, Sheddon, W. McEwan; Ruddy, Burroughs
 St. Mary's Celtics: Othen; Kelso, Czerkiewicz; McGregor, Sommersdad, Weir; J. McEwan, Steele, McDermott, Sneddon, W. McEwan
-Brooklyn Hispanos: Busse; Brandolini, Trabanco; Rudy, Rodriguez, Fernandez; Quinones, Lyell, Burroughs, Bisiani, Salcedo
+Brooklyn Hispanos: Busse; Brandolini, Trabanco; Ruddy, Rodriguez, Fernandez; Quinones, Lyell, Burroughs, Bisiani, Salcedo
 Source: http://query.nytimes.com/mem/archive/pdf?res=F00B1FFE3A59177A93C4A91789D95F438385F9
 
 12/5/1937; New York Americans; 3-3; Brookhattan; Starlight Park; 4000
@@ -873,9 +868,9 @@ New York Americans: Chesney; Schumacher, Moorhouse; Althous, Martinelli, McAteer
 Brookhattan: Newman; Glover, Barr; Jogis, Slavin, Skiba; Wittek, Brown, McIntyre, Williamson, Boyle
 Source: http://query.nytimes.com/mem/archive/pdf?res=F00B1FFE3A59177A93C4A91789D95F438385F9
 
-12/5/1937; Irish-Americans; 3-3; Scots-Americans; Clark's Field, Newark, NJ
+12/5/1937; Newark Irish-Americans; 3-3; Scots-Americans; Clark's Field, Newark, NJ
 Dolan, Currie, Stark; Fisher, Wojciechowicz, Conn
-Irish-Americans: Davis; Basset, Callaghan; Currie, Robertson, Harris; Dolan, W. Pettigrew, Stark, O'Brien, Sheppell
+Newark Irish-Americans: Davis; Basset, Callaghan; Currie, Robertson, Harris; Dolan, W. Pettigrew, Stark, O'Brien, Sheppell
 Scots-Americans: Bryndza; Wolstencroft, Zbikowski; Dick, Aitken, McManus; Moniz, Wojciechowicz, Rae, Fisher, COnn
 Source: http://query.nytimes.com/mem/archive/pdf?res=F00B1FFE3A59177A93C4A91789D95F438385F9
 
@@ -885,11 +880,11 @@ Paterson Caledonians: Zenga; Wojciechowicz, Martelli; Matade, Meith, Gray; Deviv
 Brooklyn Hispanos: Busse; Burroughs, Brandolini; Rodriguez, Trabanco, Garcia; Aja, Fernandez, Salcedo, Ruddy, Bisiani
 Source: http://query.nytimes.com/mem/archive/pdf?res=F60A11FB34541B728DDDAA0994DA415B878FF1D3
 
-12/12/1937; St. Mary's Celtics; 3-1; Irish-Americans; Clark's Field, Newark, NJ
+12/12/1937; St. Mary's Celtics; 3-1; Newark Irish-Americans; Clark's Field, Newark, NJ
 J. McEwan, Steele, J. McEwan; C. Sheppell
 Source: http://query.nytimes.com/mem/archive/pdf?res=F10911FB34541B728DDDAA0994DA415B878FF1D3
 
-12/12/1937; German Americans; 3-0; Brookhattan
+12/12/1937; Philadelphia German Americans; 3-0; Brookhattan
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40A11FB34541B728DDDAA0994DA415B878FF1D3
 
 12/12/1937; Passon Phillies; 4-3; New York Americans; Starlight Park; 3500
@@ -898,28 +893,144 @@ Passon Phillies: Volz; Rapp (Edwards), Rose; Mohl, Zell, Simpson; Wink, Ryan, Pa
 New York Americans: Chesney; Schumacher, Moorhouse; Althous, Martinelli, McAteer; Kleinmann, Kuntner, Michaels, Lennon, McAlees
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40A11FB34541B728DDDAA0994DA415B878FF1D3
 
-12/12/1937; Baltimore; 2-0; Scots-Americans
+12/12/1937; Baltimore SC; 2-0; Scots-Americans
+* better report?
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40A11FB34541B728DDDAA0994DA415B878FF1D3
 
+12/19/1937; Brooklyn Hispanos; 4-2; Brookhattan; Commercial Field, Brooklyn, NY
+F. Fernandez, Ruddy, Salcedo, Salcedo; McIntyre, Boyle
+Brooklyn Hispanos: Busse; Burroughs, Brandolini; Rodriguez, Trabanco, Garcia; Aja, F. Fernandez, Salcedo, Ruddy, Bisiani
+Brookhattan: Newman; Glover, Barr; Morton, Jogis, Skiba; Carroll, Brown, McIntyre, Williamson, Boyle
+Source: http://query.nytimes.com/mem/archive/pdf?res=F00A1FF93B5A157A93C2AB1789D95F438385F9
 
+12/19/1937; Scots Americans; 4-3; Philadelphia Germans; Kearny, NJ
+Fisher, Moniz, McManus, McManus; Gormley, Nicol, Altemose
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0B1FF93B5A157A93C2AB1789D95F438385F9
+
+12/19/1937; Paterson Caledonians; 3-2; Baltimore SC; Wessington Stadium, Clifton, NJ
+Clark, Clark, Mattade; Monroe, Amrhein
+Source: http://query.nytimes.com/mem/archive/pdf?res=F40D1FF93B5A157A93C2AB1789D95F438385F9
+
+12/19/1937; St. Mary's Celtics; 2-1; Passon Phillies; Philadelphia, PA
+Jim McDermott, Jim McDermott;
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0C1FF93B5A157A93C2AB1789D95F438385F9
+
+12/19/1937; Kearny Irish-Americans; 2-1; New York Americans; Starlight Park; 4000
+Chappie Sheppell (Billy Stark) 41, Bill Pettigrew (O'Brien) 82; Joe McManus (ua) 60
+Kearny Irish-Americans: Davis; Bassett, Levenousky; Currie, Harris, Robinson; Dolan, Cooper, Stark (O'Brien), Pettigrew, Sheppell
+New York Americans: Chesney; Schumacher, Moorhouse; Althous, Martinelli, McAteer; Kleinmann, Kuntner, Michaels, Ferreira, McManus
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30B1FF93B5A157A93C2AB1789D95F438385F9
+
+12/26/1937; Brookhattan; 2-2; Philadelphia Germans; Starlight Park; 5000
+Razzo Carroll (Jackie Brown) 26, Razzo Carroll (Jimmy O'Connell, Jackie Brown); George Nemchik 25, George Nemchik (Pete Nicol)
+Brookhattan: Newman; Morton, Barr; Slone, Slavin (Jogis), Skiba; McIntyre, Brown, Carroll, Williamson, O'Connell (Wittek)
+Philadelphia Germans: Zimmerman; Stoll, Harker (Harty); Miller, Pietras, Altemose; Richards, Nicol, Nemchik, Fiedler, Gormley
+Source: http://query.nytimes.com/mem/archive/pdf?res=F50714F93C5D12738DDDAE0A94DA415B878FF1D3
+
+12/26/1937; Paterson Caledonians; 2-1; Passon Phillies; Rifle Club Grounds, Philadelphia, PA
+Frank Devivo, Martin Nerette; Bert Patenaude
+Source: http://query.nytimes.com/mem/archive/pdf?res=F40714F93C5D12738DDDAE0A94DA415B878FF1D3
+
+12/26/1937; St. Mary's Celtic; 2-0; Newark Scots-Americans; Celtic Park; 1500
+Sneddon (Nilsson) 14, McDermott 54;
+St. Mary's Celtic: Othen; Kelso, Czerkiewicz; McGregor, Sommerstad, Weir; J. McEwan, Steele, McDermott, Sneddon, Nilsson (J. Aitken)
+Newark Scots-Americans: Briandza; Wolstoncroft, Zibkowski; Dick, Briscoe, Raitken; Moniz, Fisher, Rae, Conn, McManus
+Source: http://query.nytimes.com/mem/archive/pdf?res=F50714F93C5D12738DDDAE0A94DA415B878FF1D3
+
+12/26/1937; Kearny Irish-Americans; 2-1; New York Americans; Clark's Field, Newark, NJ
+Dolan, Sheppell (Stark) 80; Althous (ua) 65
+Kearny Irish-Americans: Davis; Basset, Levendusky; Currie, Borkowski, Robinson; Dolan, Cooper, Stark, W. Pettigrew (O'Brien), Sheppell
+New York Americans: Chesnie; Schumacher, Moorhouse; Althous, Martinelli, McAteer; Kleinmann, Kuntner, Ferreira, Michaels, McManus
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60714F93C5D12738DDDAE0A94DA415B878FF1D3
+
+1/1/1938; St. Mary's Celtic; v; New York Americans; Celtic Park
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30915FE3A5A157A93C3A9178AD85F4C8385F9
+
+1/2/1938; Brookhattan; 5-4; Philadelphia Passons; Starlight Park; 5000
+Razzo Carroll, Razzo Carroll, Razzo Carroll, Jackie Brown, Jackie Brown; Simpson, Murphy, Patenaude, McCauley
+Brookhattan: Newman; Barr, Morton; Slone, Slavin, Skiba; Wittek, Brown, Carroll, Williamson, Boyle
+Philadelphia Passons: Volz; Rapp, Rose; Mohl, Zell, Simpson; Wink, Ryan, Patenaude, Miller, Murphy
+Source: http://query.nytimes.com/mem/archive/pdf?res=F40713FD3B551B7A93C1A9178AD85F4C8385F9
+
+1/9/1938; Brookhattan; 2-1; St. Mary's Celtic; Starlight Park; 5000
+Joe Boyle (Razzo Carroll), Razzo Carroll; Jimmy Aitken
+Brookhattan: Newman; Greinert, Barr; Slone, Slavin, Skiba; Wittek, Brown, Carroll, Williamson, Boyle
+St. Mary's Celtic: Othen; Kelso, Czerkiewicz; McGregor, Sommerstadt, Weir; J. McEwan, Steele, Murphy, Sneddon, W. McEwan
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10711FF3B5415768FDDA00894D9405B888FF1D3
+
+1/9/1938; Brooklyn Hispanos; 2-1; Newark Irish-Americans; Commercial Field
+Jose Aja (Salcedo), Jose Aja (Salcedo); J. Pettigrew (Sheppell)
+Brooklyn Hispanos: Busse; Brandolini, Burroughs; Fernandez, Rodriguez, Trabanco; Aja, Ruddy, Salcedo, Herman, Bisiani
+Newark Irish-Americans: Davis; Bassett, Levendusky; Currie, Buckavski, Robinson; Dolan, Cooper, J. Pettigrew, W. Pettigrew, Sheppell
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10711FF3B5415768FDDA00894D9405B888FF1D3
+
+1/9/1938; Scots-Americans; 2-0; Paterson Caledonians; Scots Field, Kearny, NJ
+Fisher, Moniz;
+Scots-Americans: Bryndza; Wolstencroft, Zibkowski; Dick, Briscoe, Peters; Moniz, Fisher, Rae, Conn, McManus
+Paterson Caledonians: Cengie; C. Wojciechowicz, Martelli; Mattade, Mieth, Grey; DeVivo, Ballantyne, Clark, Neretti, Graziani
+Source: http://query.nytimes.com/mem/archive/pdf?res=F00B1FFA3A5A157A93C2A8178AD85F4C8385F9
+
+1/9/1938; Philadelphia Germans; 2-2; Baltimore SC; O'Donnell Park, Baltimore, MD
+McMahon, Pietras; Ernst, Monroe
+Baltimore SC: Schuersoltz; Amrhein, Winterling; Kowalski, Nixon, Knorlein; Muszel, Monroe, Ernst, Law, Schwanke
+Philadelphia Germans: Zimmerman; Stoll, Miller; Fiedler, Altemose, Pietras; Richards, Nicol, Nemchik, McCahon, Gormley
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10A1FFA3A5A157A93C2A8178AD85F4C8385F9
+
+1/9/1938; New York Americans; 3-2; Passon Phillies; Philadelphia, PA
+Moorhouse, Kuntner, Michaels; Patenaude, Murphy
+Source: http://query.nytimes.com/mem/archive/pdf?res=F70C1FFA3A5A157A93C2A8178AD85F4C8385F9
+
+*1/16/1938; New York Americans; v; Brooklyn Germans; Starlight Park
+*Source: http://query.nytimes.com/mem/archive/pdf?res=F10711FF3B5415768FDDA00894D9405B888FF1D3
+
+1/23/1938; St. Mary's Celtic; 3-2; Baltimore SC; Celtic Park; 2000
+Czerkiewicz, J. McEwan, W. McEwan; Ernst, Amrheim
+St. Mary's Celtic: Othen; Kelso, Czerkiewicz; McGregor, Somerstadt, Weir; Hynes, Steele, J. McEwan, De Rostaing, W. McEwan
+Baltimore SC: Schuerholz; Amrhein, Winterling; Kowalski, Nixon, Knorelien; Patschke, Monroe, Ernst, Law, Muszel
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30715F73C5D12738DDDAD0A94D9405B888FF1D3
+
+1/23/1938; Philadelphia German-Americans; 3-2; Brooklyn Hispanos; Philadelphia, PA
+Sunny McCahan, Richards (Bob Gormley), George Nemchik (Dick Henry); Fabri Salcedo, Fabri Salcedo
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0815F73C5D12738DDDAD0A94D9405B888FF1D3
+
+1/23/1938; Kearny Scots-Americans; 2-2; Passon Phillies; Scots Field, Kearny, NJ
+B. Aitken, B. Aitken; Murphy, Doran
+Kearny Scots-Americans: Bryndza; Wolstencroft, Zibkowski; Dick, Briscoe, B. Aitken; Moniz, C. Aitken, Rae (Fisher), Conn, McManus
+Passon Phillies: Sneddon; Rapp, Rose; Crockett, Zeil, Mohl; Doran, Ryan, Patenaude, L. Edwards (Miller), Murphy
+* Wojciechowicz for Aitken - which?
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0715F73C5D12738DDDAD0A94D9405B888FF1D3
+
+1/30/1938; Scots-Americans; 3-2; Brookhattan; Kearny, NJ
+McManus, S. Aitken, Fisher; Boyle, Carroll
+Scots-Americans: Bryndza; Wolstencroft, Zibkowski; Dick, Briscoe, R. Aitken; Moniz, Fisher, Wojciechowicz, Conn, McManus
+Brookhattan: Newman; Barr, Slone; Slaven, Skiba, Wittek; Brown, Carroll, O'Connell, Williamson, Boyle
+Source: http://query.nytimes.com/mem/archive/pdf?res=F00E12FF345A157A93C3AA178AD85F4C8385F9
+
+2/6/1938; Philadelphia Germans; 3-2; St. Mary's Celtic; Celtic Park
+Richards, Gormley, Gormley; Dave McEwan, John McEwan
+Philadelphia Germans: Zimmerman; Stoll, Harker; Miller, Pietras, Altemose; Richards, Nicol, Nemchik, Fiedler, Gormley
+St. Mary's Celtic: Othen; Kelso, Czerkiewicz; McGregor, Sommerstadt, Weir; J. McEwan, Sneddon, D. McEwan, De Rostaing, W. McEwan
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60711F9345A157A93C5A91789D85F4C8385F9
+
+* STOPPED BEFORE IRISH-AMERICANS ON TOP
 
 
 Season: 1938-1939
 
 9/11/1938; Brookhattan; 2-0; New York Americans; Starlight Park; 3000
 Bob McIntyre (George Barr) 7, Jackie Brown (Leslie Wittek) 17;
-Brookhattan: Newman; Glover, Schumacker; Thomson, Barr, Skibo; Wittek, Brown, McIntyre, Carroll, Boyle
-New York Americans: O'Hanlon; Althaus, Moorehouse; A. Chimielesky, Martinelli, Gordon; J. Chimielesky, Lukenfedder, Michaels, Kenny, Eisner
+Brookhattan: Newman; Glover, Schumacker; Thomson, Barr, Skiba; Wittek, Brown, McIntyre, Carroll, Boyle
+New York Americans: O'Hanlon; Althous, Moorehouse; A. Chimielesky, Martinelli, Gordon; J. Chimielesky, Lukenfedder, Michaels, Kenny, Eisner
 Source: http://query.nytimes.com/mem/archive/pdf?res=FB0615FE345C1B7A93C0A81782D85F4C8385F9
 * Friendly?
 
-9/18/1938; Baltimore; 2-0; St. Mary's Celtic; Celtic Park; 
+9/18/1938; Baltimore SC; 2-0; St. Mary's Celtic; Celtic Park; 
 Ernst (Morris), Monroe (Patschke, Morris) 50;
-Baltimore: Schurlholz; Amrhein, Winterling; Nixon, Reich, Kawalski; Morris, Monroe, Ernst, Law (Eders), Patschke (Muszel)
+Baltimore SC: Schurlholz; Amrhein, Winterling; Nixon, Reich, Kawalski; Morris, Monroe, Ernst, Law (Eders), Patschke (Muszel)
 St. Mary's Celtic: Othen; Johnston, Czerkiewicz; Olthaus, McGuire, Nervine (Black); Aitken, Kuntner, Nanoski, Bloomdall (Steele), Meehan
 Source: http://query.nytimes.com/mem/archive/pdf?res=F20C13FC345C1B7A93CBA81782D85F4C8385F9
 
-10/2/1938; Passon; 1-0; Baltimore; Philadelphia, PA
+10/2/1938; Passon; 1-0; Baltimore SC; Philadelphia, PA
 Russ Doran (ua);
 Source: http://query.nytimes.com/mem/archive/pdf?res=F4061FFB345C1B7A93C1A9178BD95F4C8385F9
 
@@ -935,10 +1046,10 @@ New York Americans: Cengia; Steinberg, A. Chimileski; Gordon, Martinelli, Weir; 
 Trenton Highlanders: Guether; Wojiechowicz, Lloyd; Joseph, Muth, Lamenia; Divio, Wilson, Sweeny, Ballantine, Missialoski
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40B12FB3D5F1B7A93C3AA178BD95F4C8385F9
 
-10/30/1938; Baltimore; 3-2; Hispano; Celtic Park
+10/30/1938; Baltimore SC; 3-2; Hispano; Celtic Park
 Schwanke, Ernst, Ernst; Ruddy, Arias
-Baltimore: Schuerholz; Winterling, Amrhein; Reich, Kowalski, Nixon; Muszel, Patschke, Ernst, Law, Schwanke
-Hispano: Busse; Brandolini, McGinnis; Ireace, Rodriguez, Fernandez; Smith, Ruddy, Burroughs, Bissiani, Arias
+Baltimore SC: Schuerholz; Winterling, Amrhein; Reich, Kowalski, Nixon; Muszel, Patschke, Ernst, Law, Schwanke
+Hispano: Busse; Brandolini, McGinnis; Ireace, Rodriguez, Fernandez; Smith, Ruddy, Burroughs, Bisiani, Arias
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40B12FB3D5F1B7A93C3AA178BD95F4C8385F9
 
 10/30/1938; Scots-Americans; 2-2; Passon; Scots Field, Kearny, NJ
@@ -949,7 +1060,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F40B12FB3D5F1B7A93C3AA178BD
 
 10/30/1938; Brookhattan; 5-2; Bethlehem Hungarians; Bethlehem, PA
 McIntyre, McIntyre, Boyle, Boyle, Jennette; Mesko, Mesko
-Brookhattan: Newman; Glover, Schumacher; Sloane, Barr, Skiva; Wittek, Jennette, McIntyre, Brown, Boyle
+Brookhattan: Newman; Glover, Schumacher; Sloane, Barr, Skiba; Wittek, Jennette, McIntyre, Brown, Boyle
 Bethlehem Hungarians: Molnar; Compton, Hudi; Trotter, Fernandez, McCahon; Mesko, Elek, Horvath, Zell, Moyer
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40B12FB3D5F1B7A93C3AA178BD95F4C8385F9
 
@@ -971,7 +1082,6 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F50D14FB3C5F1B7A93C7A91789D
 12/4/1938; St. Mary's Celtics; 4-2; New York Americans; Celtic Park, Brooklyn
 Steele (Kuntner) 14, Nanoski (Blumdahl) 26, Steele 46, Nanoski; De Rostaing (og), Weir (ua)
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50D14FB3C5F1B7A93C7A91789D95F4C8385F9
-
 
 1/1/1939; St. Mary's Celtics; 3-0; Philadelphia Germans; Celtic Park, Brooklyn, NY
 Richards, Ferko, Ferko;
@@ -1015,13 +1125,13 @@ Season: 1939-1940
 9/10/1939; Brooklyn Hispanos; v; Baltimore Americans; Celtic Park, Brooklyn
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50912FF3B5E10728DDDA90994D1405B898FF1D3
 
-9/10/1939; Irish-Americans; v; Passon Phillies; Harrison Field, Kearny, NJ
+9/10/1939; Newark Irish-Americans; v; Passon Phillies; Harrison Field, Kearny, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50912FF3B5E10728DDDA90994D1405B898FF1D3
 
 9/10/1939; Philadelphia-Germans; v; Scots-Americans; Yellowjacket Stadium, Philadelphia, PA
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50912FF3B5E10728DDDA90994D1405B898FF1D3
 
-9/10/1939; Brookhattan; 2-2; Paterson; Starlight Park; 1500
+9/10/1939; Brookhattan; 2-2; Paterson FC; Starlight Park; 1500
 Source: http://query.nytimes.com/mem/archive/pdf?res=FA0F10FB3E5A137A93C3A81782D85F4D8385F9
 *Source: http://query.nytimes.com/mem/archive/pdf?res=F50912FF3B5E10728DDDA90994D1405B898FF1D3
 
@@ -1029,11 +1139,11 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=FA0F10FB3E5A137A93C3A81782D
 Notes: Postponed
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50912FF3B5E10728DDDA90994D1405B898FF1D3
 
-9/10/1939; Baltimore; np; St. Mary's Celtics
+9/10/1939; Baltimore SC; np; St. Mary's Celtics
 Notes: Postponed
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50912FF3B5E10728DDDA90994D1405B898FF1D3
 
-9/17/1939; St. Mary's Celtic; 2-3; Irish Americans; Celtic Park, Brooklyn
+9/17/1939; St. Mary's Celtic; 2-3; Newark Irish Americans; Celtic Park, Brooklyn
 Staniewicz (ua), Martinelli; Aitken (Kuntner), Cooper, Sheppell
 Source: http://query.nytimes.com/mem/archive/pdf?res=F6091FFE3B54107A93CAA81782D85F4D8385F9
 
@@ -1045,11 +1155,11 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F6091FFE3B54107A93CAA81782D
 Joe Boyle (Skiba) 50, Razzo Carroll (Jennette) 65; Illya Westermann (Ryan) 77
 Source: http://query.nytimes.com/mem/archive/pdf?res=F6091FFE3B54107A93CAA81782D85F4D8385F9
 
-10/1/1939; New York Americans; np; Baltimore; Starlight Park
+10/1/1939; New York Americans; np; Baltimore SC; Starlight Park
 Notes: Postponed due to rain.
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50F17FA3C5A177A93C0A9178BD95F4D8385F9
 
-10/1/1939; St. Mary's Celtic; np; Philadelphia; Celtic Park, Brooklyn
+10/1/1939; St. Mary's Celtic; np; Philadelphia Germans; Celtic Park, Brooklyn
 Notes: Postponed due to rain.
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50F17FA3C5A177A93C0A9178BD95F4D8385F9
 
@@ -1061,7 +1171,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F50F17FA3C5A177A93C0A9178BD
 Notes: Postponed due to rain.
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50F17FA3C5A177A93C0A9178BD95F4D8385F9
 
-10/1/1939; Paterson; np; Irish-Americans; Clifton, NJ
+10/1/1939; Paterson FC; np; Newark Irish-Americans; Clifton, NJ
 Notes: Postponed due to rain.
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50F17FA3C5A177A93C0A9178BD95F4D8385F9
 
@@ -1084,7 +1194,7 @@ Martinelli (pk);
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30617FC3F5A177A93CBA9178BD95F4D8385F9
 
 10/15/1939; Passon Phillies; 1-1; Philadelphia German-Americans; Philadelphia, PA
-Henry Janick (ua) 85; Gormley (Nemchick, Kelly) 49
+Henry Janick (ua) 85; Gormley (Nemchik, Kelly) 49
 * Janick scored off a bad kick by goalie Voltz
 Source: http://query.nytimes.com/mem/archive/pdf?res=F00F11F93C5B12718DDDAF0994D8415B898FF1D3
 
@@ -1093,7 +1203,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F00F11F93C5B12718DDDAF0994D
 Source: http://query.nytimes.com/mem/archive/pdf?res=F70C11F93C5B12718DDDAF0994D8415B898FF1D3
 
 10/22/1939; New York Americans; 2-1; Paterson FC; Clifton, NJ
-DeRostaing, McAlees; Ralston
+De Rostaing, McAlees; Ralston
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40F10F63F5A177A93C1AB178BD95F4D8385F9
 
 10/29/1939; Passon FC; v; New York Americans; Starlight Park
@@ -1105,8 +1215,8 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=FA0F11FC3A5E10728DDDA90A94D
 
 11/23/1939; Brookhattan; 2-2; New York Americans; Starlight Park; 3000
 Mellon, E. Skiba; Sternberg, O'Neill
-New York Americans: Chesney; Smith, Sternberg; Morton, Fleming, Brady; Devivo, Eisner, O'Neill, Derostaing, Jackson
-Brookhattan: Bryndea; Barr, Greinert; Mellon, Briscoe, D. Skiba; E. Skiba, Martin, Hart, Kuntner, Boyle
+New York Americans: Chesney; Smith, Sternberg; Morton, Fleming, Brady; Devivo, Eisner, O'Neill, De Rostaing, Jackson
+Brookhattan: Bryndza; Barr, Greinert; Mellon, Briscoe, D. Skiba; E. Skiba, Martin, Hart, Kuntner, Boyle
 Source: http://query.nytimes.com/mem/archive/pdf?res=F70D1FF93F5A11728DDDAD0A94D9415B898FF1D3
 
 11/23/1939; St. Mary's Celtic; 4-4; Brooklyn Hispano; Celtic Park, Brooklyn
@@ -1121,7 +1231,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F20C1EFA3A5E10728DDDAE0A94D
 Lawrence; Murphy
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40D1EFA3A5E10728DDDAE0A94D9415B898FF1D3
 
-12/10/1939; Brookhattan; 4-0; Irish Americans; Harrison Field, Harrison, NJ
+12/10/1939; Brookhattan; 4-0; Newark Irish Americans; Harrison Field, Harrison, NJ
 Joe Skiba (fk) 8, Kuntner (Martin) 25, Boyle (E. Skiba) 41, E. Skiba 81;
 Source: http://query.nytimes.com/mem/archive/pdf?res=FA0C11FD355D10728DDDA80994DA415B898FF1D3
 
@@ -1150,10 +1260,10 @@ Baltimore SC: Scherholz; Amrhein, Winterling; Nixon, Luberstine, Reich; Finnerty
 Passon Phillies: Kennedy; Steel, Rose; Potts, Zell, Fiedler; McCreadie, Murphy (Janik), Sebasian (Mohl), Westermann, Ryan
 Source: http://query.nytimes.com/mem/archive/pdf?res=F2081FFB355D10728DDDA10994DA415B898FF1D3
 
-12/17/1939; New York Americans; 1-1; Irish Americans; Starlight Park; 3500
+12/17/1939; New York Americans; 1-1; Newark Irish Americans; Starlight Park; 3500
 Caesar De Rostaing (Frankie De Vivo); Charles Sheppell (Midge Stanwicz)
 New York Americans: Chesney; Smith, Sternberg; Currie, Fleming, Brady; De Vivo, Oneil, Sweeney, De Rostaing, Eisner
-Irish Americans: Barkauskas; Burroughs, Moorhouse; Robinson, Barkowski, Harris; Dolan, Cooper, Stanwicz, Strong, Sheppell
+Newark Irish Americans: Barkauskas; Burroughs, Moorhouse; Robinson, Barkowski, Harris; Dolan, Cooper, Stanwicz, Strong, Sheppell
 Source: http://query.nytimes.com/mem/archive/pdf?res=FA081FFB355D10728DDDA10994DA415B898FF1D3
 
 12/24/1939; Brookhattan; 5-1; Baltimore Americans; Starlight Park
@@ -1168,10 +1278,10 @@ Brooklyn Hispanos: Busse; Brandolini, Compton; Reavie, Rodriguez, Weir; Moyer, R
 Passon Phillies: Kennedy; Steele, Rose; Mohl, Potts, Seidler; McAdams, Westerman, McCready, Murphy, Ryan
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30B10F93E5A11728DDDAC0A94DA415B898FF1D3
 
-12/24/1939; Irish Americans; 2-2; Paterson; Scots Field, Kearny, NJ
+12/24/1939; Newark Irish Americans; 2-2; Paterson FC; Scots Field, Kearny, NJ
 Staniewicz (Cooper) 25, Harris; Brown (J. Chimileski), Brown
-Irish Americans: Davis; Burroughs, Moorhouse; Robinson, Barkowski, Harris; King, Cooper, Steniewicz, Strong, Sheppell
-Paterson: Hunter; Wojciechowicz, Balaniz; Noretti, Mieth, H. Chimileski; J. Chimileski, Ralston, Brown, Herman, Misialowski
+Newark Irish Americans: Davis; Burroughs, Moorhouse; Robinson, Barkowski, Harris; King, Cooper, Steniewicz, Strong, Sheppell
+Paterson FC: Hunter; Wojciechowicz, Balaniz; Noretti, Mieth, H. Chimileski; J. Chimileski, Ralston, Brown, Herman, Misialowski
 Source: http://query.nytimes.com/mem/archive/pdf?res=F70B10F93E5A11728DDDAC0A94DA415B898FF1D3
 
 
@@ -1182,7 +1292,7 @@ Season: 1940-1941
 Season: 1944-1945
 
 3/25/1945; Philadelphia Americans; 2-2; Kearney Celtics; Kearny, NJ
-Brown 60, J. Smith 87; Frank Smith 25, Al Sasso 56
+Brown 60, J. Smith 87; Frank Smith 25, Al Sasson 56
 Notes: Philadelphia needed to win the game to retain the ASL championship. Brookattan won because of the tie.
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E06E6DF153FE23BBC4E51DFB566838E659EDE
 
@@ -1280,7 +1390,7 @@ Pito Villanon; Ben McLaughlin, Ben McLaughlin, Ben McLaughlin, Nick Kropfelder, 
 Source: http://query.nytimes.com/mem/archive/pdf?res=9F07EEDD143DEF3BBC4A53DFB667838B649EDE
 
 10/8/1950; Brookhattan-Galicia; 3-0; New York Americans; Sterling Oval
-Joe Gaetjens (White) 8, Pito Villanon (Joe Gaetjens) 58, Joe Gatejens (John Martin) 80;
+Joe Gaetjens (White) 8, Pito Villanon (Joe Gaetjens) 58, Joe Gaetjens (John Martin) 80;
 Source: http://query.nytimes.com/mem/archive/pdf?res=9401E5D7133EEF3BBC4153DFB667838B649EDE
 
 10/8/1950; Brooklyn Hakoah; 1-2; Brooklyn Hispanos; Hawthorne Field
@@ -1312,7 +1422,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9B03E4DA1738E73ABC4E52DFB66
 10/15/1950; Philadelphia Nationals; 5-0; Brooklyn Hispanos; Holmes Stadium, Philadelphia, PA
 Source: http://query.nytimes.com/mem/archive/pdf?res=9B03E4DA1738E73ABC4E52DFB667838B649EDE
 
-10/15/1950; Trenton-Americans; 2-1; Irish-Americans; Washington Oval, Kearny, NJ
+10/15/1950; Trenton-Americans; 2-1; Kearny Irish-Americans; Washington Oval, Kearny, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=9B03E4DA1738E73ABC4E52DFB667838B649EDE
 
 * Billy Adair acquired from Toronto Ulster United
@@ -1327,7 +1437,7 @@ Joe Gaetjens 85;
 Source: http://query.nytimes.com/mem/archive/pdf?res=9C01E0DE1431E23BBC4B51DFB667838B649EDE
 * Scored from a corner kick?
 
-10/22/1950; Kearny Scots; 2-2; Irish Americans; Washington Oval, Kearny, NJ
+10/22/1950; Kearny Scots; 2-2; Kearny Irish Americans; Washington Oval, Kearny, NJ
 R. Allison, J. Fraser; Joe Flynn, Joe Orban
 Source: http://query.nytimes.com/mem/archive/pdf?res=9C01E0DE1431E23BBC4B51DFB667838B649EDE
 
@@ -1343,7 +1453,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9E06E4D91431E23BBC4850DFB66
 Dan Lorenzo;
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E06E4D91431E23BBC4850DFB667838B649EDE
 
-10/29/1950; Philadelphia Americans; 3-1; Irish Americans; Philadelphia, PA
+10/29/1950; Philadelphia Americans; 3-1; Kearny Irish Americans; Philadelphia, PA
 Roy Riegel, Roy Riegel, Bob Gormley; Joe Flynn
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E06E4D91431E23BBC4850DFB667838B649EDE
 
@@ -1360,10 +1470,10 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9503E1D6173DEE3BBC4E53DFB76
 11/5/1950; Philadelphia Americans; 3-1; Brookhattan-Galicia; Philadelphia, PA
 Source: http://query.nytimes.com/mem/archive/pdf?res=9503E1D6173DEE3BBC4E53DFB767838B649EDE
 
-11/5/1950; Irish Americans; 3-0; Brooklyn Hakoah; Kearny, NJ
+11/5/1950; Kearny Irish Americans; 3-0; Brooklyn Hakoah; Kearny, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=9503E1D6173DEE3BBC4E53DFB767838B649EDE
 
-11/12/1950; Brooklyn Hakoah; 0-0; Irish Americans; Hawthorne Field
+11/12/1950; Brooklyn Hakoah; 0-0; Kearny Irish Americans; Hawthorne Field
 Source: http://query.nytimes.com/mem/archive/pdf?res=9805E6D71431E23BBC4B52DFB767838B649EDE
 
 11/12/1950; Philadelphia Nationals; 4-2; New York Americans; Philadelphia, PA
@@ -1384,13 +1494,13 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9C01E4DE113FE23BBC4851DFB76
 11/19/1950; Philadelphia Nationals; 5-2; Philadelphia Americans; Philadelphia, PA
 Source: http://query.nytimes.com/mem/archive/pdf?res=9C01E4DE113FE23BBC4851DFB767838B649EDE
 
-11/19/1950; Irish-Americans; 2-2; Kearny Scots; Kearny, NJ
+11/19/1950; Kearny Irish-Americans; 2-2; Kearny Scots; Kearny, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=9C01E4DE113FE23BBC4851DFB767838B649EDE
 
 11/26/1950; Brookhattan-Galicia; 1-0; Philadelphia Americans; Sterling Oval
 Source: http://query.nytimes.com/mem/archive/pdf?res=9904E1D8173BE03ABC4F51DFB767838B649EDE
 
-11/26/1950; New York Americans; 2-0; Irish Americans; Kearny, NJ
+11/26/1950; New York Americans; 2-0; Kearny Irish Americans; Kearny, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=9904E1D8173BE03ABC4F51DFB767838B649EDE
 
 11/26/1950; Brooklyn Hakoah; np; Trenton Americans; Trenton, NJ
@@ -1413,7 +1523,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9900E4DE1438E73ABC4C53DFB46
 12/3/1950; Brooklyn Hispanos; 0-2; Philadelphia Americans; Philadelphia, PA
 Source: http://query.nytimes.com/mem/archive/pdf?res=9900E4DE1438E73ABC4C53DFB467838B649EDE
 
-12/10/1950; Brookhattan-Galicia; 1-2; Irish-Americans; Sterling Oval
+12/10/1950; Brookhattan-Galicia; 1-2; Kearny Irish-Americans; Sterling Oval
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E05E5D7123EE532A05752C1A9649D946192D6CF
 
 12/10/1950; Brooklyn Hispanos; 2-4; Philadelphia Nationals; Hawthorne Field
@@ -1425,7 +1535,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9E05E5D7123EE532A05752C1A96
 12/10/1950; New York Americans; 3-3; Philadelphia Americans; Philadelphia, PA
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E05E5D7123EE532A05752C1A9649D946192D6CF
 
-12/17/1950; Trenton Americans; 2-0; Irish Americans; Trenton, NJ
+12/17/1950; Trenton Americans; 2-0; Kearny Irish Americans; Trenton, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E0DE3DD1F3EE532A0575BC1A9649D946192D6CF
 
 1/14/1951; Brooklyn Hakoah; 0-7; Philadelphia Nationals; Hawthorne Field
@@ -1449,7 +1559,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9507E7DE153DEE3BBC4151DFB76
 1/28/1951; Brooklyn Hispanos; np; New York Americans; Hawthorne Field
 Source: http://query.nytimes.com/mem/archive/pdf?res=9507E7DE153DEE3BBC4151DFB766838A649EDE
 
-1/28/1951; Irish Americans; np; Philadelphia Americans; Washington Oval, Kearny, NJ
+1/28/1951; Kearny Irish Americans; np; Philadelphia Americans; Washington Oval, Kearny, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=9507E7DE153DEE3BBC4151DFB766838A649EDE
 
 
@@ -1507,9 +1617,223 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=FA0817FF395A137A93C3A9178FD
 * Stanislaw Gerula, Polish amateur soccer gk, joining Chicago AFC from Leyton Orient.
 * http://query.nytimes.com/mem/archive/pdf?res=F00717FF3D5D147B93CAA8178FD85F458585F9
 
-
-
 * Stopped here.
+
+Season: 1951-1952
+
+
+* Negro [Gil Heron] becomes first US Soccer Player To Win Place on Famous Glasgow Squad
+* http://query.nytimes.com/mem/archive/pdf?res=F10B16FD355B177B93CAA81783D85F458585F9
+* Heron scores against Morton
+* http://query.nytimes.com/mem/archive/pdf?res=F50B10F8395A137A93CBA81783D85F458585F9
+
+
+9/23/1951; Philadelphia Nationals; 2-1; Brooklyn Hispanos; Triborough Stadium; S. Coggin, H. Connor, E. Girauld
+Len Owen 3, Tom Oliver (McLaughlin); Enrique Alvarez (pk) 80
+Philadelphia Nationals: Schuerholz; Boyd, Calughoun; Dunn, Dick, Bahr; Oliver, Owen, Kronfelder, McLaughlin, Duffin
+Brooklyn Hispanos: Olaf; Nevitti, Kelly; J. Agnew, Alvarez, McCann; Yocanelli, Erickson, McDougall, Mena, Rochford
+* PK against Bahr
+
+9/23/1951; New York Americans; 2-1; Brooklyn Hakoah; Triborough Stadium
+Jackie Hynes (Wells) 50, John O'Connell 65; Bob Potter (Otto Decker)
+* opener?
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10F15FA3A5A127B93C6AB1782D85F458585F9
+
+9/23/1951; Philadelphia Americans; 2-1; Kearny Scots; Philadelphia, PA
+Duke Nanoski, Ray King; Dick Roberts
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10F15FA3A5A127B93C6AB1782D85F458585F9
+
+9/23/1951; Brookhattan-Galicia; 5-3; Kearny Irish Americans; Kearny, NJ
+Pete Villanon, Pete Villanon, Frank Monteiga, Frank Monteiga, D. Boltan; Jack Calder, Jack Calder, J. Devlin
+* personnel for palestine friendlies announced.
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10F15FA3A5A127B93C6AB1782D85F458585F9
+
+9/30/1951; Brookhattan-Galicia; 1-0; Philadelphia Americans; Croke Park, Bronx, NY; A. Macantini
+Frank Monteiga (Frank Marino); 
+Brookhattan-Galicia: Bryndza; Brown, McAuley; White, A. Marino, F. Marino; Caro, Bolton, Monteiga, Villanon, Thompson
+Philadelphia Americans: Yingling; Smith, Antoni; Johnston (Herman), Mieth, Anderson; Jackson (McKnight), Hughes, Nanoski, Gormley, Donohue (King)
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0D15F8395B127A93C3A9178BD95F458585F9
+
+9/30/1951; New York Americans; 4-0; Brooklyn Hakoahs; Croke Park, Bronx, NY; S. Coggin
+Johnny Cier (O'Connell) 25, Jackie Hynes (ua) 55, Johnny Cier (Jackie Hynes), Frank Santos (O'Connell);
+New York Americans: Flynn; Finsterwald, Lorenz; Wells, Eisner, Adair; Hynes, O'Connell, Cier, Santos, Monsen
+Brooklyn Hakoahs: Miller; A. Iglesias, Cruz; Tuthill, Osowski, T. Iglesias; Goldstein, Boulos, Decker, Sokolowsky, Lorenzo
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0D15F8395B127A93C3A9178BD95F458585F9
+
+9/30/1951; Kearny Scots; 5-0; Brooklyn Hakoahs; Kearny, NJ
+Roberts, Roberts, Henderson, Henderson, Brawley;
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0D15F8395B127A93C3A9178BD95F458585F9
+
+9/30/1951; Philadelphia Nationals; 4-1; Kearny Irish-Americans; Philadelphia, PA
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0D15F8395B127A93C3A9178BD95F458585F9
+* Standings also listed.
+
+* Tom Cahill obituary; really really short.
+* http://query.nytimes.com/mem/archive/pdf?res=FA0A12F93A59157B93C0A9178BD95F458585F9
+
+10/7/1951; Brooklyn Hispano; np; Brooklyn Hakoah; Triborough Stadium
+Notes: postponed due to rain.
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E15FE3459137A93C5A9178BD95F458585F9
+
+10/7/1951; New York Americans; v; Brookhattan-Galicia; Triborough Stadium
+Notes: postponed due to rain.
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E15FE3459137A93C5A9178BD95F458585F9
+* Standings also listed.
+
+12/2/1951; Brooklyn Hakoah; 4-0; Brookhattan-Galicia; Croke Park
+Frank Boulos (pk) 15, Otto Decker 18, Otto Decker 44, Frank Boulos (pk);
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30B16FF3F551A7B93C1A91789D95F458585F9
+
+12/2/1951; New York Americans; 0-0; Brooklyn Hispanos; Croke Park
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30B16FF3F551A7B93C1A91789D95F458585F9
+
+12/2/1951; Philadelphia Americans; 3-3; Kearny Irish-Americans; Philadelphia, PA
+John Hughes, Joe Tait, Charles McKnight; S. Bione, Joe Capozzi, Bill Drake
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30B16FF3F551A7B93C1A91789D95F458585F9
+
+12/2/1951; Kearny Scots; 2-1; Philadelphia Nationals; Kearny, NJ
+A. Brawley, J. Fraser; A. Shaw
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30B16FF3F551A7B93C1A91789D95F458585F9
+* Standings also listed.
+
+12/9/1951; Brookhattan-Galicia; 1-0; New York Americans; Croke Park
+Dom Mogigilione 82;
+
+12/9/1951; Brooklyn Hakoah; 2-0; Brooklyn Hispanos; Croke Park
+Frank Monteiga, Paddy Rochford;
+
+12/9/1951; Kearny Scots; 4-4; Newark Portuguese; Kearny, NJ
+P. McNab, T. Kavanaugh, Dick Roberts, Dick Roberts; John Devlin, John Calder, Al Jennette, Al Jennette
+* Newark Portuguese acquired Irish-Americans last week.
+
+12/9/1951; Philadelphia Americans; 4-2; Philadelphia Nationals; Philadelphia, PA
+Joe Tait, I. Jackson, John Hughes, John Hughes; Tom Oliver, J. Ruddy
+* Standings also listed.
+
+12/16/1951; Kearny Scots; np; Brooklyn Hispano; Croke Park
+Notes: Called off due to snow.
+Source: http://query.nytimes.com/mem/archive/pdf?res=F70D1EFA3F551A7B93C4A81789D95F458585F9
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10B12F6345411738DDDAE0994DA415B8189F1D3
+
+12/16/1951; Philadelphia Americans; np; New York Americans; Croke Park
+Notes: Called off due to snow.
+Source: http://query.nytimes.com/mem/archive/pdf?res=F70D1EFA3F551A7B93C4A81789D95F458585F9
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10B12F6345411738DDDAE0994DA415B8189F1D3
+
+12/23/1951; New York Americans; 1-2; Brooklyn Hakoah; Croke Park
+John O'Connell (Lawrence) 60; Frank Monteiga (ua) 10, Monteiga (ua) 43
+Source: http://query.nytimes.com/mem/archive/pdf?res=F20814F93E5B12718DDDAA0A94DA415B8189F1D3
+
+12/23/1951; Brooklyn Hispano; 1-1; Brookhattan-Galicia; Croke Park
+Carl Erickson (Alvarez) 15; Russell Brown (Mogoglione) 75
+Source: http://query.nytimes.com/mem/archive/pdf?res=F20814F93E5B12718DDDAA0A94DA415B8189F1D3
+* Standings included
+
+12/23/1951; Kearny Scots; 6-2; Philadelphia Americans; Washington Oval, Kearny, NJ
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60813FE3C5C147B93C6AB1789D95F458585F9
+
+12/30/1951; Scots Americans; 1-0; Brookhattan-Galicia; Croke Park
+Ted Kavanaugh;
+Scots Americans: Glasgow; McNab, Donald; Allison, Smith, Fraser; Brawley, McNulty, Roberts, Kavanaugh, Sheppell
+Brookhattan-Galicia: Bryndza; Herd, Brown; White, Texeira, Marina; Thompson, Bolton, Zelenko, Villanon, Ferreira
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E15F9355B177B93C3AA1789D95F458585F9
+
+12/30/1951; Philadelphia Nationals; 2-0; Brooklyn Hakoah; Croke Park
+Ben McLaughlin (ua) 30, Jack Duffin (Walt Bahr);
+Philadelphia Nationals: Dick; Reid, Ruddy; Dunn, Calquhoun, Bahr; Oliver, Cler, Kropfelder, McLaughlin, Duffin
+Brooklyn Hakoah: Clark; Cruz, Miller; Yglesias, Cuthill, Osowski; Leonard, Boulos, Monteiga, Decker, Hochford
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E15F9355B177B93C3AA1789D95F458585F9
+
+12/30/1951; Philadelphia Americans; 1-1; Brooklyn Hispanos; Lighthouse Field, Philadelphia, PA
+Ray King; A. Alvarez
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E15F9355B177B93C3AA1789D95F458585F9
+
+12/30/1951; Newark Portuguese; np; New York Americans; Washington Oval, Kearny, NJ
+Notes: Postponed due to rain.
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E15F9355B177B93C3AA1789D95F458585F9
+* Also includes standings.
+
+* Olympic tryout matches cancelled due to rain.
+* http://query.nytimes.com/mem/archive/pdf?res=F40D10FD3858107A93C0A9178AD85F468585F9
+
+* James Armstrong dead.
+* http://query.nytimes.com/mem/archive/pdf?res=F60910FF3459157A93C0A8178AD85F468585F9
+* Secretary of ASL1
+
+
+1/20/1952; Newark Portuguese; 4-3; Philadelphia Nationals; Washington Oval, Kearny, NJ
+John Calder, John Calder, Pete Campbell, John Dekes; Ben McLaughlin, Ben McLaughlin, Tom Oliver
+Source: http://query.nytimes.com/mem/archive/pdf?res=F50D15FC3459157A93C3AB178AD85F468585F9
+* Standings also listed.
+
+1/20/1952; Brooklyn Hakoah; 4-2; New York Americans; Croke Park
+Frank Monteiga (Norman Leonard) 15, Norman Leonard 40, Frank Monteiga, Frank Monteiga; John O'Connell (Santos) 20, Jackie Hynes (John O'Connell) 30
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60D15FC3459157A93C3AB178AD85F468585F9
+
+* Fans in Mexico break up a game between Oro and Independiente by keeping the ball when it enters the stands.
+* http://query.nytimes.com/mem/archive/pdf?res=F40915FE3D5E177B93CAAB178AD85F468585F9
+
+* Harry Carpenter of Bethlehem Steel dies at age 2.
+* http://query.nytimes.com/mem/archive/pdf?res=F20D17FA395E107A93C3A91789D85F468585F9
+
+2/3/1952; Newark Portuguese; 4-4; Brooklyn Hakoah; Kearny, NJ
+John Devlin, John Calder, Bill Drake, Joe Capozzi; Otto Decker, Otto Decker, Pat Rochford, Pat Rochford
+Source: http://query.nytimes.com/mem/archive/pdf?res=F00616FF3D5E177B93C6A91789D85F468585F9
+
+2/10/1952; New York Americans; 2-1; Scots-Americans; Washington Oval, Kearny, NJ
+Jackie Hynes, Leo Yocamelli; R. McNally
+Source: http://query.nytimes.com/mem/archive/pdf?res=F50913FE345C177B93C3A81789D85F468585F9
+
+2/10/1952; Philadelphia Nationals; 5-4; Brooklyn Hispanos; Croke Park
+Tom Oliver (Jack Duffin) 10, Nick Kropfelder, Bennie McLaughlin (pk), Tom Oliver, Bennie McLaughlin (pk) 88; Ian McDougall 30, George McCann 33, Carl Erickson, Ian McDougall 63
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60913FE345C177B93C3A81789D85F468585F9
+
+2/10/1952; Brookhattan-Galicia; 3-2; Newark Portuguese; Croke Park
+Pito Villanon, Pito Vilanon 55, Mario Zelaschi (pk) 82; Bill Drake, Jack Calder
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60913FE345C177B93C3A81789D85F468585F9
+
+
+3/2/1952; Brookhattan; np; Brooklyn Hispanos; Croke Park
+Notes: Postponed due to snow.
+Source: http://query.nytimes.com/mem/archive/pdf?res=F70A1FFC395F177B93C1A91788D85F468585F9
+
+3/2/1952; New York Americans; np; Philadelphia Americans; Croke Park
+Notes: Postponed due to snow.
+Source: http://query.nytimes.com/mem/archive/pdf?res=F70A1FFC395F177B93C1A91788D85F468585F9
+
+3/9/1952; Philadelphia Americans; 1-2; New York Americans; Croke Park
+Source: http://query.nytimes.com/mem/archive/pdf?res=F20B12FA3D5E177B93C2A81788D85F468585F9
+
+3/9/1952; Brookhattan-Galicia; 3-0; Brooklyn Hispanos; Croke Park
+Source: http://query.nytimes.com/mem/archive/pdf?res=F20B12FA3D5E177B93C2A81788D85F468585F9
+
+3/23/1952; Brooklyn Hakoah; np; Philadelphia Americans; Croke Park
+Notes: postponed due to rain.
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0717F93D5E177B93C6AB1788D85F468585F9
+
+3/23/1952; Brooklyn Hispanos; np; Kearny Scots; Croke Park
+Notes: postponed due to rain.
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0717F93D5E177B93C6AB1788D85F468585F9
+
+3/30/1952; Philadelphia Nationals; 6-3; Scots-Americans; Philadelphia, PA
+Source: http://query.nytimes.com/mem/archive/pdf?res=FA0E11F63D5E177B93C3AA1788D85F468585F9
+
+3/30/1952; Philadelphia Americans; 2-0; Brooklyn Hakoah; Croke Park
+Joe Tait 40, John Oliver (ck);
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0E11F63D5E177B93C3AA1788D85F468585F9
+
+3/30/1952; New York Americans; 6-0; Brooklyn Hispano; Croke Park
+Lloyd Monsen, John O'Connell, Bob Laverty (og), Jackie Hynes, Lloyd Monsen, Jackie Hynes;
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0E11F63D5E177B93C3AA1788D85F468585F9
+
+* 4/6/1952
+* ASL season officially declared closed, despite delays due to bad weather.
+* Philadelphia Americans declared champions.
+
+
+
+Season: 1952-1953
+
 
 
 Season: 1953-1954
@@ -1517,12 +1841,12 @@ Season: 1953-1954
 10/4/1953; Baltimore Rockets; 1-0; Newark Portuguese; Rogers Stadiumm, Harrison, NJ
 Source: http://query.nytimes.com/mem/archive/pdf?res=F70F1FFC385A117A93C7A9178BD95F478585F9
 
-10/4/1953; Brooklyn Hispanos; np; Phialdelphia Nationals; Brooklyn Soccer Field
+10/4/1953; Brooklyn Hispanos; np; Philadelphia Nationals; Brooklyn Soccer Field
 Notes: postponed because field was not ready.
 Source: http://query.nytimes.com/mem/archive/pdf?res=F70F1FFC385A117A93C7A9178BD95F478585F9
 
 * Standings... 1-3 games played.
-http://query.nytimes.com/mem/archive/pdf?res=F70F1FFC385A117A93C7A9178BD95F478585F9
+*http://query.nytimes.com/mem/archive/pdf?res=F70F1FFC385A117A93C7A9178BD95F478585F9
 
 10/4/1953; Brookhattan-Galicia; 2-0; Brooklyn Hakoah; Sterling Oval
 Jackie Hynes (pk) 35, Valerino Fano 87;
@@ -1790,7 +2114,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F10E11F8385C177B93C4AB1782D
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30E11F8385C177B93C4AB1782D85F418585F9
 
 10/2/1955; New York Americans; 6-0; Baltimore Rockets; Zerega Oval
-Lloyd Monsen 13, Bill Sturges 16, Lloyd Monsen 43, Lloyd Monsen, Lloyd Monsen, William Mowbray;
+Lloyd Monsen 13, Bill Sturgess 16, Lloyd Monsen 43, Lloyd Monsen, Lloyd Monsen, William Mowbray;
 Source: http://query.nytimes.com/mem/archive/pdf?res=F3081FFB3A5E107B93C1A9178BD95F418585F9
 
 10/2/1955; Brooklyn Hispanos; 4-3; Philadelphia Uhriks; Brooklyn Soccer Field
@@ -1832,7 +2156,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F60C15FA3A5A177B93C6A8178BD
 Larry Surrock (pk), Larry Surrock;
 Source: http://query.nytimes.com/mem/archive/pdf?res=F60C15FA3A5A177B93C6A8178BD95F438585F9
 
-10/13/1957; Polish Falcons; 2-0; Fall River; Fall River, MA
+10/13/1957; Polish Falcons; 2-0; Fall River SC; Fall River, MA
 George Brown, George Brown;
 Source: http://query.nytimes.com/mem/archive/pdf?res=F60C15FA3A5A177B93C6A8178BD95F438585F9
 
@@ -1850,7 +2174,7 @@ Minutes: 45
 Notes: Brooklyn walked off in the first half after three players were ejected and two more injured.
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50714FC355F11738DDDA80A94D8415B8789F1D3
 
-10/20/1957; Fall River; 3-0; Ludlow Lusitano; Fall River Stadium
+10/20/1957; Fall River SC; 3-0; Ludlow Lusitano; Fall River Stadium
 Lou Felix 3, Joe Ferreira 32, Joe Ferreira 60;
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50714FC355F11738DDDA80A94D8415B8789F1D3
 
@@ -1872,7 +2196,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F50714F6345E107B93C1A91788D
 Lloyd Monsen;
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40A10FE3D59107B93C2A81788D85F4C8585F9
 
-3/9/1958; Fall River; 3-2; Italian United; Lafayette High School, Brooklyn, NY
+3/9/1958; Fall River SC; 3-2; Italian United; Lafayette High School, Brooklyn, NY
 ; Ed Venyei, Ed Venyei
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40A10FE3D59107B93C2A81788D85F4C8585F9
 
@@ -1884,7 +2208,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F20D1FFB3D59107B93C3AA1788D
 Bob Swinski, Bob Swinski, William Bryant, William Bryant; Jackie Hynes
 Source: http://query.nytimes.com/mem/archive/pdf?res=F20D1FFB3D59107B93C3AA1788D85F4C8585F9     
 
-4/6/1958; Ukrainian Nationals; 5-2; Fall River; Fall River, MA
+4/6/1958; Ukrainian Nationals; 5-2; Fall River SC; Fall River, MA
 Walter Harasym 15, Alex Falk 64, Walter Chyzowych, Walter Chyzowych, Walter Chyzowych, ; Ed Furtado 7, Ed Furtado 48
 Source: http://query.nytimes.com/mem/archive/pdf?res=FB0F17F63554127B93C5A9178FD85F4C8585F9
 
@@ -1932,13 +2256,13 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F40F1FFA385B117A93C1A9178AD
 11/23/1958; Baltimore Pompei; 9-1; Polish Falcons
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40815F93F59107B93C6AB178AD95F4C8585F9
 
-11/23/1958; Fall River; 2-1; Newark Portuguese
+11/23/1958; Fall River SC; 2-1; Newark Portuguese
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40815F93F59107B93C6AB178AD95F4C8585F9
 
 11/23/1958; Philadelphia Uhriks; 3-3; Brookhattan-Galicia
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40815F93F59107B93C6AB178AD95F4C8585F9
 
-4/5/1959; New York Hakoahs; 4-2; Fall River; Zerega Oval
+4/5/1959; New York Hakoahs; 4-2; Fall River SC; Zerega Oval
 Gene Grabowski 17, Gene Grabowski, Gene Grabowski 64, Avner Wolonau; Dan Costa 25, Unknown (pk)
 Source: http://query.nytimes.com/mem/archive/pdf?res=F60C13FE3F5C1A7B93C4A9178FD85F4D8585F9
 
@@ -1949,14 +2273,14 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F50C13FE3F5C1A7B93C4A9178FD
 4/12/1959; Galicia; 6-5; Polish Falcons
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30614FF355B107B93C1A8178FD85F4D8585F9
 
-4/12/1959; Fall River; 2-0; Brooklyn Italians
+4/12/1959; Fall River SC; 2-0; Brooklyn Italians
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30614FF355B107B93C1A8178FD85F4D8585F9
 
 4/12/1959; Hakoah; np; Philadelphia Uhriks
 Notes: postponed due to rain.
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30614FF355B107B93C1A8178FD85F4D8585F9
 
-4/19/1959; Ukrainian Nationals; 2-2; Fall River; Fall River Stadium
+4/19/1959; Ukrainian Nationals; 2-2; Fall River SC; Fall River Stadium
 John Hughes 1, Alex Falk; Mike Kemmy 34, William Silvia
 Source: http://query.nytimes.com/mem/archive/pdf?res=F20E17FD355C1A7B93C2AB178FD85F4D8585F9
 
@@ -1992,4 +2316,6 @@ Season: 1981
 
 6/1/1981; New York United; 4-0; Rochester Flash; Downing Stadium, Randallas Island
 Carlos Volpini, Carlos Volpini, Carlos Volpini, Fernando Clavijo;
+
+
 
