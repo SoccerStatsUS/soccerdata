@@ -15,7 +15,7 @@ Season: 2003-2004
 *11.Zagreb                        22  3 10  9 21-32 19
 *12.Marsonia Slavonski Brod       22  4  5 13 25-48 17
 
-Round 1
+Round: 1
 [Jul 25]
 Rijeka           0-1 Cibalia     
 [Jul 26]   
@@ -26,7 +26,7 @@ Osijek           3-2 Inker
 [Jul 27]
 Hajduk           2-0 Zagreb
 
-Round 2
+Round: 2
 [Aug 2]
 Inker            2-0 Slaven Belupo
 Zadar            1-1 Zagreb
@@ -36,7 +36,7 @@ Varteks          1-1 Rijeka
 Kamen Ingrad     0-1 Hajduk
 Cibalia          3-2 Osijek
 
-Round 3
+Round: 3
 [Aug 8]
 Hajduk           1-4 Inker
 [Aug 9]
@@ -48,7 +48,7 @@ Slaven Belupo    0-0 Cibalia
 [Sep 3]
 Rijeka           0-0 Dinamo
 
-Round 4
+Round: 4
 [Aug 16]
 Inker            1-1 Zagreb
 Marsonia         1-1 Rijeka
@@ -59,7 +59,7 @@ Cibalia          2-3 Hajduk
 Zadar            2-1 Kamen Ingrad
 Varteks          2-0 Slaven Belupo
 
-Round 5
+Round: 5
 [Aug 23]
 Slaven Belupo    0-1 Dinamo
 Zagreb           2-0 Cibalia
@@ -69,7 +69,7 @@ Hajduk           2-0 Varteks
 [Aug 24]
 Rijeka           4-2 Zadar
 
-Round 6
+Round: 6
 [Aug 30]
 Zadar            0-0 Inker
 Marsonia         0-0 Slaven Belupo
@@ -79,7 +79,7 @@ Cibalia          1-1 Kamen Ingrad
 Varteks          2-0 Zagreb
 Dinamo           1-0 Hajduk
 
-Round 7 [Sep 13]
+Round: 7 [Sep 13]
 Slaven Belupo    1-1 Rijeka
 Zagreb           0-2 Dinamo
 Inker            1-0 Cibalia
@@ -87,7 +87,7 @@ Osijek           1-2 Zadar
 Hajduk           5-0 Marsonia
 Kamen Ingrad     3-0 Varteks
 
-Round 8 [Sep 20]
+Round: 8 [Sep 20]
 Dinamo           1-1 Kamen Ingrad
 Marsonia         3-0 Zagreb
 Zadar            4-1 Cibalia
@@ -95,7 +95,7 @@ Osijek           0-1 Slaven Belupo
 Varteks          2-0 Inker
 Rijeka           1-2 Hajduk
 
-Round 9
+Round: 9
 [Sep 27]
 Inker            1-1 Dinamo
 Cibalia          2-0 Varteks
@@ -105,7 +105,7 @@ Slaven Belupo    4-0 Zadar
 Hajduk           2-0 Osijek
 Kamen Ingrad     5-0 Marsonia
 
-Round 10 [Oct 4]
+Round: 10 [Oct 4]
 Slaven Belupo    1-1 Hajduk
 Zadar            2-2 Varteks
 Dinamo           3-2 Cibalia
@@ -113,7 +113,7 @@ Marsonia         0-1 Inker
 Osijek           5-2 Zagreb
 Rijeka           1-2 Kamen Ingrad
 
-Round 11
+Round: 11
 [Oct 18]
 Hajduk           3-1 Zadar
 Zagreb           1-1 Slaven Belupo
@@ -123,7 +123,7 @@ Varteks          0-2 Dinamo
 [Oct 20]
 Kamen Ingrad     2-0 Osijek
 
-Round 12 [Oct 25]
+Round: 12 [Oct 25]
 Zagreb           0-2 Hajduk
 Zadar            2-2 Dinamo
 Cibalia          0-1 Rijeka
@@ -131,7 +131,7 @@ Inker            1-1 Osijek
 Varteks          1-1 Marsonia
 Kamen Ingrad     2-0 Slaven Belupo
 
-Round 13 [Nov 2]
+Round: 13 [Nov 2]
 Zagreb           3-1 Zadar
 Slaven Belupo    1-1 Inker
 Osijek           2-1 Cibalia
@@ -139,7 +139,7 @@ Rijeka           0-0 Varteks
 Marsonia         1-3 Dinamo
 Hajduk           1-0 Kamen Ingrad
 
-Round 14
+Round: 14
 [Nov 8]
 Zadar            3-2 Marsonia
 Cibalia          1-1 Slaven Belupo
@@ -149,7 +149,7 @@ Varteks          1-1 Osijek
 Inker            0-2 Hajduk
 Dinamo           2-0 Rijeka
 
-Round 15 
+Round: 15 
 [Nov 22]
 Zagreb           1-1 Inker
 Hajduk           3-1 Cibalia
@@ -159,7 +159,7 @@ Rijeka           3-1 Marsonia
 [Nov 23]
 Osijek           3-2 Dinamo
 
-Round 16
+Round: 16
 [Nov 29]
 Zadar            3-2 Rijeka
 Marsonia         1-2 Osijek
@@ -170,7 +170,7 @@ Varteks          2-0 Hajduk
 [Dec 1]
 Dinamo           4-0 Slaven Belupo
 
-Round 17 [Dec 6]
+Round: 17 [Dec 6]
 Inker            0-2 Zadar
 Zagreb           1-1 Varteks
 Slaven Belupo    3-1 Marsonia
@@ -178,7 +178,7 @@ Osijek           2-3 Rijeka
 Kamen Ingrad     3-2 Cibalia
 Hajduk           3-1 Dinamo
 
-Round 18 [Feb 21]
+Round: 18 [Feb 21]
 Zadar            1-1 Osijek
 Cibalia          1-0 Inker
 Rijeka           2-0 Slaven Belupo
@@ -186,7 +186,7 @@ Marsonia         0-1 Hajduk
 Varteks          1-0 Kamen Ingrad
 Dinamo           1-1 Zagreb
 
-Round 19 [Feb 28]
+Round: 19 [Feb 28]
 Cibalia          1-1 Zadar
 Zagreb           2-3 Marsonia
 Hajduk           4-0 Rijeka
@@ -194,7 +194,7 @@ Slaven Belupo    3-3 Osijek
 Kamen Ingrad     0-1 Dinamo
 Inker            0-0 Varteks        
 
-Round 20 [Mar 6]
+Round: 20 [Mar 6]
 Zadar            2-0 Slaven Belupo
 Rijeka           1-0 Zagreb
 Marsonia         0-2 Kamen Ingrad
@@ -202,7 +202,7 @@ Dinamo           1-0 Inker
 Varteks          1-0 Cibalia
 Osijek           2-3 Hajduk
 
-Round 21 [Mar 13]
+Round: 21 [Mar 13]
 Cibalia          0-1 Dinamo
 Inker            1-1 Marsonia
 Zagreb           0-0 Osijek
@@ -210,7 +210,7 @@ Hajduk           2-1 Slaven Belupo
 Varteks          3-2 Zadar
 Kamen Ingrad     0-1 Rijeka
 
-Round 22 [Mar 20]
+Round: 22 [Mar 20]
 Zadar            1-3 Hajduk
 Slaven Belupo    1-0 Zagreb
 Osijek           3-2 Kamen Ingrad
@@ -246,52 +246,52 @@ Final Table:
  5.Varteks (Varazdin)            32  9 11 12 33-42 38
  6.Zadar                         32  7 11 14 46-71 32
 
-Round 23 [Mar 27]
+Round: 23 [Mar 27]
 Rijeka           2-1 Osijek 
 Hajduk           5-1 Zadar 
 Dinamo           4-1 Varteks
 
-Round 24 [Apr 3]
+Round: 24 [Apr 3]
 Zadar            0-3 Osijek
 Varteks          1-1 Rijeka
 Hajduk           0-0 Dinamo
 
-Round 25 [Apr 10]
+Round: 25 [Apr 10]
 Dinamo           5-0 Zadar 
 Osijek           4-1 Varteks
 Rijeka           0-1 Hajduk
 
-Round 26 [Apr 17]
+Round: 26 [Apr 17]
 Dinamo           5-0 Rijeka 
 Hajduk           2-0 Osijek 
 Zadar            0-0 Varteks 
 
-Round 27 [Apr 21]
+Round: 27 [Apr 21]
 Rijeka           3-1 Zadar 
 Osijek           2-3 Dinamo
 Varteks          0-0 Hajduk 
 
-Round 28 [Apr 24]
+Round: 28 [Apr 24]
 Zadar            2-3 Hajduk
 Varteks          3-4 Dinamo 
 Osijek           2-1 Rijeka 
 
-Round 29 [May 1]
+Round: 29 [May 1]
 Osijek           1-1 Zadar 
 Rijeka           1-0 Varteks 
 Dinamo           3-1 Hajduk 
 
-Round 30 [May 8]
+Round: 30 [May 8]
 Hajduk           2-0 Rijeka 
 Zadar            1-1 Dinamo 
 Varteks          2-0 Osijek 
 
-Round 31 [May 12]
+Round: 31 [May 12]
 Osijek           0-1 Hajduk 
 Rijeka           0-1 Dinamo
 Varteks          4-1 Zadar 
 
-Round 32 [May 15]
+Round: 32 [May 15]
 Dinamo           4-1 Osijek 
 Hajduk           2-0 Varteks
 Zadar            2-2 Rijeka 
@@ -321,52 +321,52 @@ Final Table:
 
 [*] INKER (Zapresic) were renamed Inter Zapresic during the winter break.
 
-Round 23 [Mar 27]
+Round: 23 [Mar 27]
 Inter            0-1 Zagreb
 Slaven Belupo    2-0 Cibalia
 Kamen Ingrad     0-0 Marsonia 
 
-Round 24 [Apr 3]
+Round: 24 [Apr 3]
 Marsonia         3-2 Cibalia
 Zagreb           0-2 Slaven Belupo
 Kamen Ingrad     1-0 Inter
 
-Round 25 [Apr 10]
+Round: 25 [Apr 10]
 Cibalia          2-2 Zagreb 
 Inter            3-0 Marsonia
 Slaven Belupo    1-1 Kamen Ingrad
 
-Round 26 [Apr 17]
+Round: 26 [Apr 17]
 Kamen Ingrad     3-1 Cibalia 
 Inter            4-3 Slaven 
 Marsonia         0-0 Zagreb 
 
-Round 27 [Apr 21]
+Round: 27 [Apr 21]
 Cibalia          3-1 Inter
 Zagreb           1-2 Kamen Ingrad
 Slaven Belupo    2-1 Marsonia 
 
-Round 28 [Apr 24]
+Round: 28 [Apr 24]
 Cibalia          2-1 Slaven Belupo 
 Marsonia         1-1 Kamen Ingrad
 Zagreb           2-1 Inter
 
-Round 29 [May 1]
+Round: 29 [May 1]
 Cibalia          0-0 Marsonia 
 Inter            3-2 Kamen Ingrad
 Slaven Belupo    0-1 Zagreb 
 
-Round 30 [May 8]
+Round: 30 [May 8]
 Kamen Ingrad     1-0 Slaven Belupo 
 Marsonia         0-3 Inter
 Zagreb           2-1 Cibalia 
 
-Round 31 [May 12]
+Round: 31 [May 12]
 Cibalia          2-1 Kamen Ingrad
 Slaven Belupo    2-0 Inter
 Zagreb           3-0 Marsonia 
 
-Round 32 [May 15]
+Round: 32 [May 15]
 Inter            3-1 Cibalia 
 Kamen Ingrad     1-0 Zagreb
 Marsonia         2-2 Slaven Belupo 
@@ -582,7 +582,7 @@ Ferdo Milin          (Zadar for Dinamo)        1
 
 Cup 2003/04
 
-Preliminary Round
+Preliminary Round:
 Nehaj Senj              1-0 Vinogradar Jastrebarsko       
 NK Crikvenica           1-3 NK Koprivnica                [after pen]
 Primorac Biograd n.moru 2-1 NK Karlovac    

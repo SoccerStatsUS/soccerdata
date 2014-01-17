@@ -20,7 +20,7 @@ Season: 2007-2008
 *NB: first tie-breaker (for 'relevant places') head-to-head record from
 *    rounds 1-22
 
-Round 1
+Round: 1
 [Jul 20]
 Inter         0-1 Rijeka       
   0:1 Anas Sharbini (64.)
@@ -38,7 +38,7 @@ Osijek        1-0 Slaven Belupo
   1:0 Valentin Babic (foul penalty, 62.)
 Zadar         0-0 Hajduk       
 
-Round 2 [Jul 28]
+Round: 2 [Jul 28]
 Dinamo        5-1 Zadar         
   1:0 Gordon Schildenfeld (10.); 2:0 Tomo Sokota (12.); 3:0 Sammir (21.);
   4:0 Mario Mandzukic (66.); 5:0 Ognjen Vukojevic (90.); 5:1 Hrvoje Custic (90.)
@@ -55,7 +55,7 @@ Varteks       1-2 Osijek
    0:1 Valentin Babic (foul penalty, 45.); 1:1 Miljenko Mumlek (55.);
    1:2 Karlo Primorac (80.)
 
-Round 3 
+Round: 3 
 [Aug 4]  
 Inter         0-4 Dinamo       
   0:1 Mario Mandzukic (7.); 0:2 Luka Modric (20.); 0:3 Dario Jertec (45.); 
@@ -74,7 +74,7 @@ Cibalia       0-0 Hajduk
 Zagreb        0-2 Slaven Belupo
   0:1 Mato Jajalo (38.); 0:2 Asim Sehic (71.)
 
-Round 4
+Round: 4
 [Aug 10]
 Dinamo        2-1 Cibalia
   1:0 Luka Modric (55.); 2:0 Bosko Balaban (69.); 2:1 Mijo Studenovic (76.)
@@ -91,7 +91,7 @@ Zadar         3-0 Inter
 Šibenik       0-2 Slaven Belupo
   0:1 Zeljko Sopic (42.); 0:2 Asim Sehic (70.)
 
-Round 5
+Round: 5
 [Aug 17]
 Inter         2-2 Šibenik  
   1:0 Miroslav Saric (29.); 2:0 Miroslav Saric (59.); 2:1 Marin Batur (70.); 
@@ -112,7 +112,7 @@ Slaven Belupo 6-0 Varteks
   1:0 Matija Kristic (14.); 2:0 Stjepan Poljak (17.); 3:0 Srebrenko Posavec (32.); 
   4:0 Zeljko Sopic (40.); 5:0 Srebrenko Posavec (foul penalty, 47.); 6:0 Bojan Vrucina (74.)
 
-Round 6
+Round: 6
 [Aug 24]  
 Dinamo        3-1 Međimurje    
   1:0 Mario Mandzukic (14.); 2:0 Nikola Pokrivac (31.); 2:1 Edin Saranovic (55.); 
@@ -132,7 +132,7 @@ Zadar         5-1 Osijek
   2:2 Igor Prahic (41.); 3:2 Joao da Silva Gabriel (73.); 4:2 Kruno Jambrusic (84.); 
   4:3 Enes Novinic (90.)
 
-Round 7
+Round: 7
 [Sep 1]
 Cibalia       3-3 Šibenik     
   1:0 Andrej Keric (5.); 1:1 Ermin Zec (9.); 1:2 Ermin Zec (27.); 
@@ -152,7 +152,7 @@ Slaven Belupo 2-2 Hajduk
   0:1 Ante Rukavina (5.); 1:1 Matija Kristic (8.); 2:1 Bojan Vrucina (40.);
   2:2 Mirko Oremus (78.)
 
-Round 8
+Round: 8
 [Sep 14]
 Inter         3-0 Međimurje   
   1:0 Bernard Gulic (foul penalty, 7.); 2:0 Ilija Sivonjic (27.); 3:0 Ilija Sivonjic (69.) 
@@ -171,7 +171,7 @@ Zadar         1-0 Zagreb
   1:0 Frane Vitaic (14.); 2:0 Frane Vitaic (30.); 2:1 Radomir Dalovic (47.);
   3:1 Frane Vitaic (foul penalty, 70.); 3:2 Radomir Dalovic (75.)
 
-Round 9
+Round: 9
 [Sep 22]
 Međimurje     0-1 Cibalia  
   0:1 Andrej Keric (11.)    
@@ -191,7 +191,7 @@ Varteks       4-3 Dinamo
   2:2 Nikola Pokrivac (52.); 3:2 Igor Prahic (62.); 3:3 Luka Modric (89.);
   4:3 Miljenko Mumlek (90.)
 
-Round 10 [Sep 29]
+Round: 10 [Sep 29]
 Cibalia       3-1 Zagreb       
   1:0 Zeljko Malcic (5.); 1:1 Krunoslav Lovrek (18.); 2:1 Zeljko Malcic (40.);
   3:1 Ivan Maroslavac (58.)
@@ -207,7 +207,7 @@ Zadar         2-0 Varteks
 Šibenik       1-0 Hajduk       
   1:0 Frane Vitaic (76.)
 
-Round 11
+Round: 11
 [Oct 6]    
 Međimurje     2-2 Šibenik 
   1:0 Davor Piskor (18.); 1:1 Zoran Roglic (29.); 2:1 Davor Piskor (43.);
@@ -225,7 +225,7 @@ Zagreb        0-2 Osijek
 Hajduk        1-2 Dinamo        
   0:1 Luka Modric (11.); 0:2 Mario Mandzukic (71.); 1:2 Nikola Kalinic (79.)
 
-Round 12 [Oct 20]
+Round: 12 [Oct 20]
 Hajduk        4-1 Zadar  
   0:1 Zelimir Terkes (22.); 1:1 Nikola Kalinic (37.); 2:1 Nikola Kalinic (53.);
   3:1 Sinisa Linic (71.); 4:1 Nikola Kalinic (74.)      
@@ -240,7 +240,7 @@ Zagreb        1-1 Međimurje
 Šibenik       0-2 Dinamo       
   0:1 Ognjen Vukojevic (82.); 0:2 Tomo Sokota (90.)
 
-Round 13 [Oct 27]
+Round: 13 [Oct 27]
 Cibalia       2-0 Rijeka       
   1:0 Davor Bagaric (55.); 2:0 Davor Bagaric (78.)
 Inter         0-1 Hajduk       
@@ -255,7 +255,7 @@ Zagreb        3-1 Šibenik
   0:1 Ermin Zec (17.); 1:1 Krunoslav Lovrek (21.); 2:1 Senijad Ibricic (55.);
   3:1 Senijad Ibricic (60.)
 
-Round 14 [Oct 31]
+Round: 14 [Oct 31]
 Dinamo        5-0 Inter      
   1:0 Sammir (19.); 2:0 Frank Manga Guela (23.); 3:0 Mario Mandzukic (25.);
   4:0 Tomo Sokota (34.); 5:0 Nikola Pokrivac (61.)  
@@ -270,7 +270,7 @@ Varteks       2-0 Međimurje
   1:0 Goran Mujanovic (39.); 2:0 Drago Papa (88.)   
 Šibenik       0-0 Zadar        
 
-Round 15 [Nov 3]
+Round: 15 [Nov 3]
 Cibalia       1-2 Dinamo       
   0:1 Ognjen Vukojevic (20.); 1:1 Zeljko Malcic (44.); 1:2 Frank Manga Guela (50.)
 Inter         2-1 Zadar        
@@ -283,7 +283,7 @@ Slaven Belupo 1-0 Šibenik
   1:0 Stjepan Poljak (63.)  
 Zagreb        0-0 Varteks      
 
-Round 16
+Round: 16
 [Nov 10] 
 Hajduk        3-3 Međimurje  
   1:0 Florin Cernat (17.); 1:1 Mario Darmopil (28.); 2:1 Nikola Kalinic (40.); 
@@ -300,7 +300,7 @@ Zadar         1-1 Cibalia
 Dinamo        1-0 Osijek            
   1:0 Ognjen Vukojevic (33.)
 
-Round 17 [Nov 24]
+Round: 17 [Nov 24]
 Cibalia       2-0 Inter        
   1:0 Davor Bagaric (foul penalty, 65.); 2:0 Zeljko Malcic (84.)
 Međimurje     1-1 Dinamo       
@@ -314,7 +314,7 @@ Varteks       3-0 Šibenik
 Zagreb        1-0 Hajduk       
   1:0 Senijad Ibricic (15.)
 
-Round 18
+Round: 18
 [Dec 1]
 Hajduk        1-0 Slaven Belupo
   1:0 Nikola Kalinic (foul penalty, 57.)
@@ -333,7 +333,7 @@ Dinamo        6-3 Zagreb
   4:0 Ivica Vrdoljak (48.); 5:0 Josip Tadic (58.); 6:0 Josip Tadic (63.); 
   6:1 Krunoslav Lovrek (70.); 6:2 Krunoslav Lovrek (72.); 6:3 Mensur Mujdza (89.)
 
-Round 19 [Dec 8]
+Round: 19 [Dec 8]
 Međimurje     2-3 Inter
   1:0 Davor Piskor (14.); 2:0 Eliomar Dos Santos (16.); 2:1 Mario Grgurovic (43.); 
   2:2 Bernard Gulic (foul penalty, 67.); 2:3 Danijel Stefulj (Own goal, 87.)        
@@ -353,7 +353,7 @@ Zagreb        7-2 Zadar
   3:1 Miroslav Pejic (55.); 4:1 Krunoslav Lovrek (68.); 5:1 Krunoslav Lovrek (78.); 
   5:2 Ninoslav Parmakovic (81.); 6:2 Marko Kartelo (83.); 7:2 Krunoslav Lovrek (85.)
 
-Round 20
+Round: 20
 [Feb 22]
 Inter         1-1 Zagreb         
   1:0 Rajko Vidovic (13.); 1:1 Marko Grgic (73.)
@@ -369,7 +369,7 @@ Zadar         1-0 Slaven Belupo
 Šibenik       1-0 Osijek       
   1:0 Kresimir Makarin (25.)
 
-Round 21 [Mar 1]
+Round: 21 [Mar 1]
 Hajduk        2-0 Šibenik      
   1:0 Boris Zivkovic (36.); 2:0 Maris Verpakovskis (45.)
 Međimurje     0-1 Osijek       
@@ -385,7 +385,7 @@ Zagreb        4-1 Cibalia
   1:0 Senijad Ibricic (foul penalty, 25.); 2:0 Senijad Ibricic (45.); 3:0 Davor Piskor (60.); 
   4:0 Davor Piskor (75.); 4:1 Ante Zore (90.)
 
-Round 22
+Round: 22
 [Mar 7]     
 Inter         0-0 Varteks  
 [Mar 8]
@@ -400,7 +400,7 @@ Zadar         0-0 Rijeka
   1:0 Ivan Bulat (foul penalty, 4.); 2:0 Ivan Bulat (52.); 3:0 Kresimir Makarin (54.);
   3:1 Ivan Babic (69.); 3:2 Eliomar Dos Santos (70.); 4:2 Ermin Zec (90.)
 
-Round 23 [Mar 15]  
+Round: 23 [Mar 15]  
 Dinamo        4-0 Cibalia
   1:0 Josip Tadic (19.); 2:0 Hrvoje Cale (24.); 3:0 Bosko Balaban (57.); 
   4:0 Bosko Balaban (72.)
@@ -418,7 +418,7 @@ Zadar         3-1 Inter
   1:0 Zelimir Terkes (15.); 2:0 Zelimir Terkes (26.); 3:0 Roko Mislov (80.);
   3:1 Mario Rasic (88.)
 
-Round 24 [Mar 19]  
+Round: 24 [Mar 19]  
 Inter         0-0 Slaven Belupo
 Međimurje     2-3 Zadar
   0:1 Zelimir Terkes (23.); 0:2 Zelimir Terkes (43.); 0:3 Marin Tomasov (64.); 
@@ -431,7 +431,7 @@ Varteks       4-0 Hajduk
   4:0 Goran Mujanovic (35.)
 Zagreb        0-0 Dinamo
 
-Round 25 [Mar 22]  
+Round: 25 [Mar 22]  
 Cibalia       2-2 Zagreb
   1:0 Mario Dodik (7.); 2:0 Mario Dodik (13.); 2:1 Ivan Parlov (40.);
   2:2 Marko Kartelo (63.)
@@ -451,7 +451,7 @@ Slaven Belupo 4-0 Međimurje
 Zadar         1-1 Osijek
   1:0 Zelimir Terkes (37.); 1:1 Tomislav Visevic (67.)
 
-Round 26 
+Round: 26 
 [Mar 27]  
 Inter         2-1 Rijeka
   1:0 Davor Kukec (24.); 2:0 Bernard Gulic (foul penalty, 29.); 2:1 Nikola Safaric (56.)
@@ -470,7 +470,7 @@ Zadar         1-0 Cibalia
   [Zadar player Hrvoje Custic hit a wall with his head and died on Apr 3
    from his injuries.  RIP]
 
-Round 28 [Apr 12]  
+Round: 28 [Apr 12]  
 Inter         0-0 Zagreb
 Međimurje     1-2 Dinamo
   0:1 Davor Vugrinec (1.); 0:2 Sammir (33.); 1:2 Mario Darmopil (54.)
@@ -484,7 +484,7 @@ Zadar         1-3 Hajduk
   0:1 Ante Rukavina (19.); 0:2 Ante Rukavina (32.); 0:3 Florin Cernat (51.);
   1:3 Ante Mitrovic (foul penalty, 78.)
  
-Round 29 [Apr 16]  
+Round: 29 [Apr 16]  
 Cibalia       0-1 Varteks
   0:1 Mario Lucic (59.)
 Dinamo        3-2 Osijek
@@ -502,7 +502,7 @@ Zagreb        6-1 Međimurje
   3:1 Senijad Ibricic (39.); 4:1 Miroslav Pejic (47.); 5:1 Senijad Ibricic (55.);
   6:1 Miroslav Pejic (65.)
  
-Round 30 [Apr 19]  
+Round: 30 [Apr 19]  
 Hajduk        1-2 Cibalia
   0:1 Edin Husic (5.); 1:1 Nikola Kalinic (30.); 1:2 Davor Bagaric (75.)
 Inter         1-0 Varteks
@@ -518,7 +518,7 @@ Zadar         2-5 Dinamo
   2:2 Zelimir Terkes (48.); 2:3 Davor Vugrinec (50.); 2:4 Marijan Buljat (67.);
   2:5 Davor Vugrinec (70.) 
 
-Round 31 [Apr 26]  
+Round: 31 [Apr 26]  
 Cibalia       1-1 Inter
   1:0 Zeljko Malcic (38.); 1:1 Dalibor Starcevic (84.)
 Dinamo        1-0 Slaven Belupo
@@ -532,7 +532,7 @@ Varteks       3-2 Međimurje
   3:1 Matej Kristo (72.); 3:2 Matej Kristo (90.)
 Zagreb        0-0 Zadar
  
-Round 27 [postponed from Apr 5 following the death of Zadar player
+Round: 27 [postponed from Apr 5 following the death of Zadar player
           Hrvoje Custic on Apr 3]  
 [Apr 29]
 Hajduk        0-2 Osijek
@@ -551,7 +551,7 @@ Zagreb        3-1 Varteks
   0:1 Zoran Ivancic; 1:1 Senijad Ibricic (71.); 2:1 Ivan Parlov (78.);
   3:1 Safet Nadarevic (84.)
  
-Round 32 [May 3]  
+Round: 32 [May 3]  
 Hajduk        1-1 Dinamo
   1:0 Ante Rukavina (35.); 1:1 Etto (79.)
 Međimurje     4-0 Inter
@@ -566,7 +566,7 @@ Slaven Belupo 1-0 Zagreb
 Zadar         0-2 Šibenik
   0:1 Ermin Zec (foul penalty, 48.); 0:2 Kruno Jambrusic (76.)
 
-Round 33 [May 10]  
+Round: 33 [May 10]  
 Cibalia       3-0 Međimurje
   1:0 Zeljko Malcic (12.); 2:0 Edin Husic (71.); 3:0 Adin Dzafic (73.)
 Dinamo        6-1 Rijeka

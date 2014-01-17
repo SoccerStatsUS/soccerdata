@@ -19,7 +19,7 @@ Season: 2006-2007
 *------------------------------------------------
 *12.Kamen Ingrad Velika      33  3  4 26 27-77 13  Relegated
 
-Round 1 
+Round: 1 
 [Jul 29]
 Kamen Ingrad   1-3 Zagreb                         
 Međimurje      0-2 Hajduk                   
@@ -29,7 +29,7 @@ Dinamo         1-0 Slaven Belupo
 Cibalia        3-4 Rijeka                 
 Pula           1-1 Varteks         
 
-Round 2
+Round: 2
 [Aug 4]
 Dinamo         4-3 Šibenik    
 [Aug 5]                        
@@ -39,7 +39,7 @@ Hajduk         2-0 Cibalia
 Rijeka         4-2 Kamen Ingrad         
 Slaven Belupo  0-1 Zagreb           
 
-Round 3 [Aug 12]
+Round: 3 [Aug 12]
 Pula           0-2 Dinamo                      
 Međimurje      2-0 Osijek                         
 Cibalia        1-2 Varteks                  
@@ -47,7 +47,7 @@ Kamen Ingrad   2-3 Hajduk
 Zagreb         1-0 Rijeka                                 
 Šibenik        2-1 Slaven Belupo      
 
-Round 4 [Aug 19]
+Round: 4 [Aug 19]
 Dinamo         4-1 Međimurje                  
 Šibenik        1-0 Pula                           
 Osijek         3-1 Cibalia                         
@@ -55,7 +55,7 @@ Varteks        3-0 Kamen Ingrad
 Hajduk         2-0 Zagreb                              
 Slaven Belupo  3-2 Rijeka           
 
-Round 5 
+Round: 5 
 [Aug 26]                     
 Međimurje      2-1 Šibenik                       
 Kamen Ingrad   1-1 Osijek                 
@@ -65,7 +65,7 @@ Pula           2-1 Slaven Belupo
 [Aug 27]
 Cibalia        0-1 Dinamo 
 
-Round 6 [Sep 9]
+Round: 6 [Sep 9]
 Dinamo         2-0 Kamen Ingrad     
 Šibenik        1-0 Cibalia                        
 Pula           3-0 Međimurje               
@@ -73,7 +73,7 @@ Osijek         1-1 Zagreb
 Varteks        2-1 Rijeka                          
 Slaven Belupo  0-1 Hajduk             
 
-Round 7 
+Round: 7 
 [Sep 16]                    
 Kamen Ingrad   3-1 Šibenik               
 Cibalia        3-1 Pula                     
@@ -83,7 +83,7 @@ Međimurje      0-3 Slaven Belupo
 [Sep 17]
 Zagreb         0-3 Dinamo           
 
-Round 8 
+Round: 8 
 [Sep 23]                           
 Šibenik        1-0 Zagreb                                
 Pula           2-0 Kamen Ingrad  
@@ -93,7 +93,7 @@ Slaven Belupo  3-2 Varteks
 [Oct 31]
 Dinamo         1-0 Rijeka           
 
-Round 9
+Round: 9
 [Sep 30]                       
 Rijeka         1-3 Šibenik                               
 Zagreb         0-3 Pula                            
@@ -103,7 +103,7 @@ Cibalia        2-0 Slaven Belupo
 [Oct 1]
 Hajduk         2-2 Dinamo    
 
-Round 10 [Oct 14]
+Round: 10 [Oct 14]
 Dinamo         4-1 Varteks                     
 Šibenik        1-2 Hajduk                             
 Pula           2-3 Rijeka                          
@@ -111,7 +111,7 @@ Međimurje      2-0 Zagreb
 Cibalia        1-3 Kamen Ingrad  
 Slaven Belupo  1-0 Osijek           
 
-Round 11 [Oct 21]
+Round: 11 [Oct 21]
 Osijek         0-4 Dinamo                             
 Varteks        2-1 Šibenik                        
 Hajduk         2-0 Pula                         
@@ -119,7 +119,7 @@ Rijeka         1-3 Međimurje
 Zagreb         3-0 Cibalia                         
 Kamen Ingrad   1-3 Slaven Belupo    
 
-Round 12 [Oct 28]
+Round: 12 [Oct 28]
 Zagreb         2-1 Kamen Ingrad         
 Rijeka         4-1 Cibalia                         
 Hajduk         2-0 Međimurje                   
@@ -127,7 +127,7 @@ Varteks        0-0 Pula
 Osijek         1-1 Šibenik                               
 Slaven Belupo  1-1 Dinamo              
 
-Round 13 [Nov 4]
+Round: 13 [Nov 4]
 Šibenik        2-1 Dinamo                            
 Pula           2-2 Osijek                          
 Međimurje      5-1 Varteks                 
@@ -135,7 +135,7 @@ Cibalia        0-0 Hajduk
 Kamen Ingrad   0-1 Rijeka                 
 Zagreb         3-0 Slaven Belupo    
 
-Round 14 [Nov 8]
+Round: 14 [Nov 8]
 Dinamo         5-1 Pula                        
 Osijek         1-1 Međimurje                      
 Varteks        1-0 Cibalia                  
@@ -143,7 +143,7 @@ Hajduk         4-0 Kamen Ingrad
 Rijeka         2-1 Zagreb                                 
 Slaven Belupo  1-1 Šibenik               
 
-Round 15 
+Round: 15 
 [Nov 11]                 
 Pula           1-1 Šibenik                        
 Cibalia        3-0 Osijek                          
@@ -154,7 +154,7 @@ Zagreb         3-0 Hajduk
 [Dec 9]
 Međimurje      2-3 Dinamo     
 
-Round 16 [Nov 18]
+Round: 16 [Nov 18]
 Dinamo         4-0 Cibalia                     
 Šibenik        3-0 Međimurje                     
 Osijek         2-1 Kamen Ingrad         
@@ -162,7 +162,7 @@ Varteks        1-3 Zagreb
 Hajduk         3-0 Rijeka                              
 Slaven Belupo  1-0 Pula             
 
-Round 17 [Nov 25]
+Round: 17 [Nov 25]
 Kamen Ingrad   0-2 Dinamo             
 Cibalia        0-1 Šibenik                        
 Međimurje      1-0 Pula                    
@@ -170,7 +170,7 @@ Zagreb         2-0 Osijek
 Rijeka         2-2 Varteks                         
 Hajduk         2-0 Slaven Belupo    
 
-Round 18 [Dec 2]
+Round: 18 [Dec 2]
 Dinamo         2-1 Zagreb                             
 Šibenik        4-1 Kamen Ingrad        
 Pula           0-0 Cibalia                  
@@ -178,7 +178,7 @@ Osijek         1-0 Rijeka
 Varteks        0-1 Hajduk                       
 Slaven Belupo  1-0 Međimurje       
 
-Round 19 [Feb 17]
+Round: 19 [Feb 17]
 Rijeka         2-3 Dinamo                             
 Zagreb         3-0 Šibenik                               
 Kamen Ingrad   1-0 Pula            
@@ -186,7 +186,7 @@ Cibalia        0-3 Međimurje
 Hajduk         3-0 Osijek                              
 Varteks        0-0 Slaven Belupo    
 
-Round 20 [Feb 24]
+Round: 20 [Feb 24]
 Dinamo         2-1 Hajduk                          
 Šibenik        2-2 Rijeka                                
 Pula           0-2 Zagreb                          
@@ -194,7 +194,7 @@ Međimurje      2-0 Kamen Ingrad
 Osijek         4-1 Varteks                         
 Slaven Belupo  2-0 Cibalia          
 
-Round 21 [Mar 3]
+Round: 21 [Mar 3]
 Varteks        1-3 Dinamo                      
 Hajduk         3-0 Šibenik                            
 Rijeka         2-0 Pula                            
@@ -202,7 +202,7 @@ Zagreb         4-0 Međimurje
 Kamen Ingrad   2-2 Cibalia         
 Osijek         1-1 Slaven Belupo    
 
-Round 22 [Mar 10]
+Round: 22 [Mar 10]
 Dinamo         1-0 Osijek                             
 Šibenik        2-0 Varteks                        
 Pula           0-0 Hajduk                       
@@ -210,7 +210,7 @@ Međimurje      1-2 Rijeka
 Cibalia        0-1 Zagreb                          
 Slaven Belupo  2-1 Kamen Ingrad   
 
-Round 23 [Mar 17]
+Round: 23 [Mar 17]
 Zagreb         2-1 Osijek
 Međimurje      1-1 Kamen Ingrad   
 Hajduk         2-0 Varteks
@@ -218,7 +218,7 @@ Slaven Belupo  1-0 Cibalia
 Šibenik        1-0 Pula
 Dinamo         1-0 Rijeka
 
-Round 24 [Mar 31]
+Round: 24 [Mar 31]
 Kamen Ingrad   1-2 Slaven Belupo
 Cibalia        2-1 Šibenik 
 Pula           2-3 Zagreb
@@ -226,7 +226,7 @@ Međimurje      1-1 Rijeka
 Osijek         1-2 Hajduk
 Varteks        2-3 Dinamo
 
-Round 25 [Apr 7]
+Round: 25 [Apr 7]
 Zagreb         1-1 Cibalia
 Šibenik        3-1 Kamen Ingrad
 Hajduk         0-1 Pula
@@ -234,7 +234,7 @@ Slaven Belupo  2-0 Međimurje
 Dinamo         1-0 Osijek
 Rijeka         3-0 Varteks
 
-Round 26 [Apr 14]
+Round: 26 [Apr 14]
 Pula           1-2 Dinamo
 Kamen Ingrad   0-6 Zagreb
 Slaven Belupo  3-0 Rijeka
@@ -242,7 +242,7 @@ Međimurje      0-1 Šibenik
 Cibalia        0-1 Hajduk
 Osijek         1-0 Varteks
 
-Round 27 [Apr 18]
+Round: 27 [Apr 18]
 Zagreb         1-1 Međimurje  
 Varteks        2-2 Pula
 Šibenik        0-0 Slaven Belupo
@@ -250,7 +250,7 @@ Hajduk         4-0 Kamen Ingrad
 Dinamo         4-0 Cibalia
 Rijeka         0-2 Osijek
 
-Round 28 [Apr 21]
+Round: 28 [Apr 21]
 Međimurje      2-4 Hajduk
 Cibalia        1-0 Varteks
 Pula           3-1 Osijek
@@ -258,7 +258,7 @@ Slaven Belupo  4-2 Zagreb
 Kamen Ingrad   0-1 Dinamo
 Šibenik        3-1 Rijeka
 
-Round 29 [Apr 28]
+Round: 29 [Apr 28]
 Zagreb         2-1 Šibenik  
 Varteks        3-2 Kamen Ingrad
 Hajduk         1-1 Slaven Belupo
@@ -266,7 +266,7 @@ Rijeka         1-1 Pula
 Dinamo         4-1 Međimurje  
 Osijek         2-2 Cibalia
 
-Round 30 [May 2]
+Round: 30 [May 2]
 Slaven Belupo  0-3 Dinamo
 Zagreb         1-3 Rijeka
 Međimurje      1-2 Varteks
@@ -274,7 +274,7 @@ Kamen Ingrad   0-2 Osijek
 Cibalia        1-0 Pula
 Šibenik        2-2 Hajduk
 
-Round 31 [May 5]
+Round: 31 [May 5]
 Varteks        4-3 Slaven Belupo
 Pula           0-0 Kamen Ingrad
 Dinamo         3-0 Šibenik 
@@ -282,7 +282,7 @@ Osijek         6-1 Međimurje
 Rijeka         1-2 Cibalia
 Hajduk         3-1 Zagreb
 
-Round 32 [May 12]
+Round: 32 [May 12]
 Zagreb         0-4 Dinamo
 Slaven Belupo  0-1 Osijek
 Međimurje      1-0 Pula
@@ -290,7 +290,7 @@ Hajduk         2-2 Rijeka
 Šibenik        3-4 Varteks
 Kamen Ingrad   1-3 Cibalia
 
-Round 33 [May 19]
+Round: 33 [May 19]
 Rijeka         2-0 Kamen Ingrad
 Cibalia        3-0 Međimurje
 Pula           0-0 Slaven Belupo

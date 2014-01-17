@@ -21,7 +21,7 @@ Season: 2008-2009
 *    from 2nd level, 5th playing off with bottom team 1st level)
 *    provided sufficiently many clubs obtain a license
 
-Round 1 [Jul 27]
+Round: 1 [Jul 27]
 Cibalia       0-0 Slaven Belupo
 Croatia       1-1 Osijek
 Hajduk        1-0 Zadar
@@ -29,7 +29,7 @@ Inter         2-3 Šibenik
 Varteks       2-1 Zagreb   
 Dinamo        2-0 Rijeka 
 
-Round 2 [Aug 3]
+Round: 2 [Aug 3]
 Dinamo        3-1 Inter         
 Osijek        2-0 Cibalia       
 Rijeka        0-1 Zagreb        
@@ -37,7 +37,7 @@ Rijeka        0-1 Zagreb
 Slaven Belupo 2-1 Zadar         
 Hajduk        1-1 Varteks       
 
-Round 3
+Round: 3
 [Aug 9]
 Croatia       0-1 Dinamo        
 [Aug 10]
@@ -47,7 +47,7 @@ Zadar         2-2 Osijek
 Varteks       2-3 Slaven Belupo 
 Zagreb        3-0 Hajduk        
 
-Round 4 [Aug 17]
+Round: 4 [Aug 17]
 Dinamo        6-0 Cibalia       
 Inter         3-2 Croatia       
 Osijek        2-1 Varteks       
@@ -55,7 +55,7 @@ Osijek        2-1 Varteks
 Slaven Belupo 2-0 Zagreb        
 Rijeka        3-1 Hajduk        
 
-Round 5 
+Round: 5 
 [Aug 23]
 Zadar         23 Dinamo                     
 Hajduk        3-1 Slaven Belupo   
@@ -65,7 +65,7 @@ Varteks       2-1 Šibenik
 Zagreb        2-1 Osijek         
 Croatia       0-1 Rijeka          
 
-Round 6 [Aug 31]
+Round: 6 [Aug 31]
 Dinamo        2-1 Varteks                
 Inter         3-1 Zadar                        
 Croatia       1-1 Cibalia              
@@ -73,7 +73,7 @@ Croatia       1-1 Cibalia
 Osijek        1-2 Hajduk                         
 Rijeka        2-0 Slaven Belupo      
 
-Round 7 [Sep 14]
+Round: 7 [Sep 14]
 Zagreb        2-2 Dinamo                        
 Varteks       1-0 Inter                
 Zadar         1-2 Croatia                      
@@ -81,7 +81,7 @@ Hajduk        1-0 Šibenik
 Slaven Belupo 4-2 Osijek             
 Cibalia       3-1 Rijeka                     
 
-Round 8 [Sep 21]
+Round: 8 [Sep 21]
 Dinamo        0-2 Hajduk                     
 Inter         1-1 Zagreb                       
 Croatia       4-0 Varteks              
@@ -89,7 +89,7 @@ Cibalia       1-0 Zadar
 Šibenik       3-0 Slaven Belupo     
 Rijeka        0-0 Osijek            
 
-Round 9 
+Round: 9 
 [Sep 26]
 Slaven Belupo 2-0 Dinamo      
 [Sep 28]   
@@ -99,7 +99,7 @@ Varteks       3-0 Cibalia
 Osijek        1-3 Šibenik                          
 Zadar         0-3 Rijeka                 
 
-Round 10 [Oct 5]
+Round: 10 [Oct 5]
 Dinamo        1-0 Osijek                        
 Inter         0-0 Slaven Belupo 
 Croatia       1-0 Hajduk                   
@@ -107,7 +107,7 @@ Cibalia       0-1 Zagreb
 Zadar         1-0 Varteks                     
 Rijeka        0-1 Šibenik                
 
-Round 11 [Oct 19]
+Round: 11 [Oct 19]
 Šibenik       2-2 Dinamo                       
 Osijek        2-1 Inter                       
 Slaven Belupo 4-0 Croatia       
@@ -115,7 +115,7 @@ Hajduk        2-0 Cibalia
 Zagreb        0-0 Zadar                             
 Varteks       3-3 Rijeka          
 
-Round 12 
+Round: 12 
 [Oct 26]
 Zagreb        0-3 Varteks                    
 Zadar         1-0 Hajduk
@@ -125,7 +125,7 @@ Osijek        4-2 Croatia
 [Nov 19]
 Rijeka        1-0 Dinamo                
 
-Round 13 [Nov 2]
+Round: 13 [Nov 2]
 Inter         1-3 Dinamo                   
 Croatia       0-0 Šibenik                    
 Cibalia       0-3 Osijek                     
@@ -133,7 +133,7 @@ Zadar         1-1 Slaven Belupo
 Varteks       0-2 Hajduk                  
 Zagreb        1-1 Rijeka                        
 
-Round 14 [Nov 9]
+Round: 14 [Nov 9]
 Dinamo        6-1 Croatia                 
 Šibenik       4-0 Cibalia                   
 Osijek        3-0 Zadar                             
@@ -141,7 +141,7 @@ Slaven Belupo 2-3 Varteks
 Hajduk        4-0 Zagreb                         
 Rijeka        0-1 Inter                    
 
-Round 15 [Nov 16]
+Round: 15 [Nov 16]
 Cibalia       1-1 Dinamo                 
 Croatia       1-3 Inter                 
 Zadar         1-0 Šibenik                           
@@ -149,7 +149,7 @@ Varteks       0-0 Osijek                 [abandoned at 0-0 in 83' due to
 Zagreb        2-0 Slaven Belupo           fog; result stood]
 Hajduk        2-0 Rijeka                   
 
-Round 16 [Nov 23]
+Round: 16 [Nov 23]
 Dinamo        2-0 Zadar                         
 Inter         1-2 Cibalia               
 Šibenik       2-0 Varteks                   
@@ -157,7 +157,7 @@ Osijek        0-2 Zagreb
 Slaven Belupo 1-2 Hajduk          
 Rijeka        2-1 Croatia                
 
-Round 17 [Nov 30]
+Round: 17 [Nov 30]
 Varteks       0-1 Dinamo                 
 Zadar         1-1 Inter                        
 Cibalia       3-1 Croatia              
@@ -165,7 +165,7 @@ Zagreb        0-4 Šibenik
 Hajduk        3-1 Osijek                         
 Slaven Belupo 2-1 Rijeka             
 
-Round 18 [Dec 7]
+Round: 18 [Dec 7]
 Dinamo        3-1 Zagreb                        
 Inter         2-3 Varteks               
 Croatia       3-1 Zadar                       
@@ -173,7 +173,7 @@ Croatia       3-1 Zadar
 Osijek        0-0 Slaven Belupo      
 Rijeka        1-0 Cibalia                 
 
-Round 19 [Feb 22]
+Round: 19 [Feb 22]
 Hajduk        2-0 Dinamo                     
 Zagreb        0-1 Inter                       
 Varteks       2-1 Croatia              
@@ -181,7 +181,7 @@ Zadar         2-1 Cibalia
 Slaven Belupo 3-1 Šibenik           
 Osijek        2-2 Rijeka             
 
-Round 20 [Mar 1]
+Round: 20 [Mar 1]
 Dinamo        1-0 Slaven Belupo  
 Inter         0-4 Hajduk                    
 Croatia       1-4 Zagreb                      
@@ -189,7 +189,7 @@ Cibalia       1-0 Varteks
 Šibenik       1-1 Osijek                           
 Rijeka        2-1 Zadar                
 
-Round 21 [Mar 8]
+Round: 21 [Mar 8]
 Osijek        0-2 Dinamo                        
 Slaven Belupo 1-0 Inter        
 Hajduk        1-0 Croatia                  
@@ -197,7 +197,7 @@ Zagreb        0-0 Cibalia
 Varteks       2-0 Zadar                      
 Šibenik       3-0 Rijeka                  
 
-Round 22 [Mar 15]
+Round: 22 [Mar 15]
 Dinamo        3-0 Šibenik                      
 Inter         0-1 Osijek                       
 Croatia       0-0 Slaven Belupo 
@@ -205,7 +205,7 @@ Cibalia       1-1 Hajduk
 Zadar         2-1 Zagreb                             
 Rijeka        2-1 Varteks                    
 
-Round 23 [Mar 22]
+Round: 23 [Mar 22]
 Dinamo        0-0 Osijek
 Rijeka        3-2 Croatia
 Šibenik       4-0 Inter
@@ -213,7 +213,7 @@ Slaven Belupo 1-1 Cibalia
 Varteks       0-0 Zadar
 Hajduk        2-0 Zagreb
  
-Round 24 [Apr 5]
+Round: 24 [Apr 5]
 Croatia       0-1 Šibenik       
 Inter         1-0 Slaven Belupo 
 Zadar         3-1 Rijeka        
@@ -221,7 +221,7 @@ Osijek        1-0 Hajduk
 Varteks       1-2 Zagreb
 Cibalia       3-4 Dinamo        
 
-Round 25 [Apr 11]
+Round: 25 [Apr 11]
 Dinamo        1-0 Inter         
 Hajduk        2-0 Cibalia       
 Zagreb        1-0 Osijek        
@@ -229,7 +229,7 @@ Rijeka        4-1 Varteks
 Slaven Belupo 5-1 Croatia       
 Šibenik       0-0 Zadar         
 
-Round 26 [Apr 19]
+Round: 26 [Apr 19]
 Croatia       0-4 Dinamo        
 Inter         0-2 Hajduk        
 Zadar         0-1 Slaven Belupo 
@@ -237,7 +237,7 @@ Rijeka        2-0 Zagreb
 Varteks       2-2 Šibenik       
 Cibalia       1-1 Osijek        
 
-Round 27 [Apr 22]
+Round: 27 [Apr 22]
 Hajduk        5-0 Croatia
 Zagreb        4-0 Cibalia
 Osijek        1-1 Inter
@@ -245,7 +245,7 @@ Osijek        1-1 Inter
 Slaven Belupo 2-1 Varteks
 Dinamo        2-0 Zadar
 
-Round 28 [Apr 26]
+Round: 28 [Apr 26]
 Croatia       1-1 Osijek        
 Inter         0-0 Cibalia       
 Zadar         0-3 Hajduk        
@@ -253,7 +253,7 @@ Rijeka        6-2 Slaven Belupo
 Šibenik       2-1 Zagreb        
 Varteks       1-6 Dinamo        
 
-Round 29 [May 3]
+Round: 29 [May 3]
 Cibalia       3-0 Croatia       
 Dinamo        4-0 Rijeka        
 Zagreb        1-0 Inter         
@@ -261,7 +261,7 @@ Osijek        1-0 Zadar
 Slaven Belupo 1-0 Šibenik       
 Hajduk        0-1 Varteks       
 
-Round 30 [May 10]
+Round: 30 [May 10]
 Croatia       0-3 Inter
 Zadar         3-1 Cibalia
 Šibenik       0-2 Dinamo
@@ -269,7 +269,7 @@ Slaven Belupo 2-1 Zagreb
 Varteks       2-3 Osijek
 Rijeka        2-1 Hajduk
 
-Round 31 [May 17]
+Round: 31 [May 17]
 Cibalia       2-1 Varteks
 Hajduk        2-0 Šibenik  
 Inter         2-2 Zadar
@@ -277,7 +277,7 @@ Zagreb        0-0 Croatia
 Osijek        1-2 Rijeka
 Dinamo        2-0 Slaven Belupo
 
-Round 32 [May 24]
+Round: 32 [May 24]
 Zadar         1-1 Croatia
 Rijeka        2-0 Cibalia
 Šibenik       2-1 Osijek
@@ -285,7 +285,7 @@ Slaven Belupo 1-1 Hajduk
 Varteks       0-1 Inter
 Dinamo        0-1 Zagreb
 
-Round 33 [May 31]
+Round: 33 [May 31]
 Cibalia       2-1 Šibenik   
 Croatia       2-1 Varteks
 Inter         3-0 Rijeka

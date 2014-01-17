@@ -22,7 +22,7 @@ Season: 2009-2010
 *NB: not all relegations may become effective due to limited
 *    number of second level clubs eligible for promotion
 
-Round 1
+Round: 1
 [Jul 24]
 Inter         1-1 Varteks
 [Jul 25]
@@ -35,7 +35,7 @@ Osijek        1-1 Hajduk
 Rijeka        6-0 Lokomotiva
 Slaven Belupo 2-0 Zagreb
 
-Round 2
+Round: 2
 [Jul 31]
 Zagreb        0-3 Inter
 [Aug 1]
@@ -48,7 +48,7 @@ Varteks       1-1 Rijeka
 Hajduk        0-1 Zadar
 Cibalia       2-0 Slaven Belupo
 
-Round 3
+Round: 3
 [Aug 7]
 Inter         1-0 Cibalia
 [Aug 8]
@@ -61,7 +61,7 @@ Međimurje     4-2 Istra
 Rijeka        3-1 Zagreb
 Slaven Belupo 2-1 Hajduk
 
-Round 4
+Round: 4
 [Aug 14]
 Zagreb        2-4 Lokomotiva
 [Aug 15]
@@ -74,7 +74,7 @@ Istra         0-1 Varteks
 [Aug 16]
 Dinamo        5-0 Osijek
 
-Round 5
+Round: 5
 [Aug 21]
 Inter         0-1 Šibenik
 [Aug 22]
@@ -87,7 +87,7 @@ Croatia       2-2 Istra
 Zadar         0-0 Dinamo
 Rijeka        2-0 Hajduk
 
-Round 6
+Round: 6
 [Aug 29]
 Croatia       1-2 Osijek
 Međimurje     3-0 Zadar
@@ -99,7 +99,7 @@ Istra         2-1 Zagreb
 [Aug 30]
 Dinamo        6-0 Slaven Belupo
 
-Round 7
+Round: 7
 [Sep 11]
 Zagreb        0-1 Cibalia       
 [Sep 12]
@@ -112,7 +112,7 @@ Osijek        3-0 Istra
 [Sep 13]
 Varteks       0-3 Hajduk        
 
-Round 8
+Round: 8
 [Sep 18]
 Međimurje     2-1 Inter
 [Sep 19]
@@ -125,7 +125,7 @@ Hajduk        2-0 Zagreb
 [Sep 20]
 Dinamo        6-0 Rijeka
 
-Round 9
+Round: 9
 [Sep 25]
 Zagreb        0-2 Šibenik       
 [Sep 26]
@@ -138,7 +138,7 @@ Zadar         1-1 Istra
 [Sep 27]
 Cibalia       0-0 Hajduk        
 
-Round 10
+Round: 10
 [Oct 2]
 Međimurje     0-3 Lokomotiva
 [Oct 3]
@@ -151,7 +151,7 @@ Istra         0-1 Hajduk
 [Oct 4]
 Dinamo        2-1 Varteks
 
-Round 11
+Round: 11
 [Oct 16]
 Inter         4-3 Zadar
 [Oct 17]
@@ -164,7 +164,7 @@ Cibalia       2-2 Karlovac
 [Oct 18]
 Hajduk        0-1 Šibenik    
 
-Round 12
+Round: 12
 [Oct 23]
 Slaven Belupo 5-2 Inter         
 [Oct 24]
@@ -177,7 +177,7 @@ Karlovac      1-0 Hajduk
 [Oct 25]
 Dinamo        1-1 Cibalia       
 
-Round 13
+Round: 13
 [Oct 30]
 Inter         1-0 Istra
 [Oct 31]
@@ -189,7 +189,7 @@ Zagreb        4-2 Croatia
 Varteks       1-2 Osijek
 Šibenik       1-0 Karlovac
 
-Round 14
+Round: 14
 [Nov 7]
 Istra         2-0 Karlovac
 Slaven Belupo 1-0 Lokomotiva    
@@ -201,7 +201,7 @@ Osijek        5-3 Zagreb
 [Nov 8]
 Dinamo        5-0 Šibenik       
 
-Round 15
+Round: 15
 [Nov 20]
 Zagreb        4-0 Zadar         
 [Nov 21]
@@ -214,7 +214,7 @@ Cibalia       1-1 Osijek
 [Nov 22]
 Karlovac      1-3 Dinamo        
 
-Round 16 [Nov 28]
+Round: 16 [Nov 28]
 Istra         0-0 Dinamo        
 Cibalia       2-0 Zadar         
 Karlovac      2-0 Međimurje     
@@ -224,7 +224,7 @@ Zagreb        3-3 Slaven Belupo
 Varteks       2-1 Inter         
 Hajduk        1-0 Osijek        
 
-Round 17
+Round: 17
 [Dec 4]
 Inter         1-3 Zagreb
 [Dec 5]
@@ -237,7 +237,7 @@ Osijek        3-0 Šibenik
 [Dec 6]
 Međimurje     1-4 Dinamo      
 
-Round 18
+Round: 18
 [Feb 25]
 Lokomotiva    2-0 Varteks       
 [Feb 26]
@@ -251,7 +251,7 @@ Cibalia       2-0 Inter
 [Feb 28]
 Hajduk        5-0 Slaven Belupo 
 
-Round 19 [Mar 6]
+Round: 19 [Mar 6]
 Zadar         1-1 Karlovac      
 Rijeka        1-1 Cibalia       
 Lokomotiva    1-0 Zagreb        
@@ -261,7 +261,7 @@ Slaven Belupo 2-2 Šibenik
 Croatia       2-1 Međimurje     
 Osijek        0-1 Dinamo        
 
-Round 20
+Round: 20
 [Mar 12]
 Zagreb        3-0 Varteks       
 [Mar 13]
@@ -273,7 +273,7 @@ Dinamo        0-0 Zadar
 Istra         1-0 Croatia       
 Hajduk        1-1 Rijeka        
 
-Round 21
+Round: 21
 [Mar 19]
 Zagreb        1-1 Istra         
 Inter         0-1 Karlovac      
@@ -285,7 +285,7 @@ Rijeka        0-1 Šibenik
 Osijek        0-0 Croatia       
 Slaven Belupo 0-1 Dinamo        
 
-Round 22 [Mar 27]
+Round: 22 [Mar 27]
 Dinamo        3-1 Inter         
 Hajduk        2-0 Varteks       
 Istra         1-3 Osijek        
@@ -295,7 +295,7 @@ Cibalia       1-0 Zagreb
 Šibenik       0-0 Lokomotiva    
 Karlovac      2-0 Rijeka        
 
-Round 23
+Round: 23
 [Apr 2]
 Inter         2-1 Međimurje     
 Zagreb        1-1 Hajduk        
@@ -307,7 +307,7 @@ Lokomotiva    0-0 Karlovac
 Cibalia       0-0 Istra         
 Rijeka        2-2 Dinamo        
 
-Round 24 [Apr 10]
+Round: 24 [Apr 10]
 Istra         2-0 Zadar         
 Dinamo        1-0 Lokomotiva    
 Osijek        0-1 Slaven Belupo 
@@ -317,7 +317,7 @@ Međimurje     1-5 Rijeka
 Karlovac      1-1 Varteks       
 Hajduk        2-1 Cibalia       
 
-Round 25 [Apr 14]
+Round: 25 [Apr 14]
 Zagreb        4-2 Karlovac      
 Slaven Belupo 2-1 Zadar         
 Inter         0-3 Osijek        
@@ -327,7 +327,7 @@ Cibalia       4-3 Šibenik
 Hajduk        1-0 Istra         
 Varteks       1-2 Dinamo        
 
-Round 26 [Apr 17]
+Round: 26 [Apr 17]
 Istra         2-0 Slaven Belupo
 Karlovac      3-0 Cibalia
 Croatia       1-2 Lokomotiva
@@ -337,7 +337,7 @@ Zadar         0-1 Inter
 Međimurje     0-0 Varteks
 Šibenik       0-1 Hajduk
 
-Round 27
+Round: 27
 [Apr 23]
 Zagreb        2-1 Međimurje     
 Inter         2-0 Slaven Belupo
@@ -349,7 +349,7 @@ Lokomotiva    2-2 Osijek
 Šibenik       1-1 Istra         
 Cibalia       2-0 Dinamo        
 
-Round 28
+Round: 28
 [Apr 30]
 Croatia       1-4 Zagreb
 [May 1]
@@ -361,7 +361,7 @@ Karlovac      0-2 Šibenik
 Međimurje     0-2 Cibalia
 Dinamo        0-0 Hajduk
 
-Round 29 [May 8]
+Round: 29 [May 8]
 Lokomotiva    1-1 Slaven belupo
 Karlovac      1-1 Istra
 Varteks       1-0 Zadar
@@ -371,7 +371,7 @@ Hajduk        4-1 Međimurje
 Rijeka        3-1 Inter
 Šibenik       2-1 Dinamo
 
-Round 30 [May 13]
+Round: 30 [May 13]
 Inter         4-2 Lokomotiva
 Međimurje     4-0 Šibenik       
 Croatia       2-5 Hajduk
