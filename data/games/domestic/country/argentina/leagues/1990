@@ -3,6 +3,7 @@ Competition: Liga Argentina de Football
 Season: 1990-1991 Apertura
 *Torneo Apertura 1990
 
+
 * 1. Newell's Old Boys 19 11 6 2 6 2 2 5 4 0 30 13 28 [Championship Playoff]
 *--------------------------------------------------------------------------------------
 * 2. River Plate 19 11 4 4 4 3 2 7 1 2 29 13 26 [to Liguilla Pre-Libertadores]
@@ -420,7 +421,8 @@ Montenegro, Taverna;
 ; Dep. Español ; 0-2; Newell's Old Boys
  ; Boldrini, Martino
 
-; Vélez Sársfield ; 0-0; San Lorenzo [Suspended in 40'; continued Dec 11]
+; Vélez Sársfield ; 0-0; San Lorenzo 
+*[Suspended in 40'; continued Dec 11]
 
 ; Ferro Carril Oeste ; 2-2; Platense
  Pobersnik, Agonil; Scotto, Scotto
@@ -786,7 +788,7 @@ Aredes;
 ; Dep. Español ; 2-2; Rosario Central
  Bevilacqua, Peralta; Bisconti, Úbeda
 
-; Lanús ; 1-1; Ri; ver Plate Banfield
+; Lanús ; 1-1; River Plate; Banfield
  Cañete; Berti
 
 ; Talleres (Cba.) ; 2-1; Chaco For Ever
@@ -848,7 +850,7 @@ Date: 3/17/1991
 ; Dep. Español ; 1-1; Ferro Carril Oeste
  Parodi; Cristofanelli
 
-; Lanús ; 0-0; Gimnasia y Esgrima (LP) Banfield
+; Lanús ; 0-0; Gimnasia y Esgrima (LP); Banfield
 
 ; Talleres (Cba.) ; 1-0; Rosario Central
 E.Vázquez;
@@ -1171,7 +1173,7 @@ Czornomaz;
 ; Platense ; 1-0; Dep. Español
 Orellano;
 
-; Argentinos Juniors ; 0-3; Vélez Sársfield [at Atlanta
+; Argentinos Juniors ; 0-3; Vélez Sársfield ; Atlanta
 ; E.González, E. Gonzalez, Acuña
 
 ; Huracán ; 1-0; Ferro Carril Oeste
@@ -1208,7 +1210,8 @@ Pobersnik, Biazotti;
 ; Dep. Español ; 1-0; Argentinos Juniors
 J.L.Rodríguez;
 
-; Lanús ; 0-0; Platense [Suspended in 46'; not continued] 
+; Lanús ; 0-0; Platense 
+*[Suspended in 46'; not continued] 
 
 ; Talleres (Cba.) ; 3-4; San Lorenzo
  E.Vázquez, Kenig, Ruiz Díaz; Zandoná, Céliz, Reggiardo, L.Rodríguez

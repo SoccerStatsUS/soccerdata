@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg85.html
 
-Argentina 1985 - Campeonato Nacional
+Season: 1985
+Competition: Campeonato Nacional
 
 *Home                        Away                   (Comments) Field
 
@@ -455,7 +456,8 @@ Penalty kicks: 1-3
 ; Estudiantes LP         ; 1-1 (aet); Deportivo Español         
 Penalty kicks: 6-5
 
-; Independiente (A)      ; 1-0; Boca Juniors           (Abandoned at 85') 
+; Independiente (A)      ; 1-0; Boca Juniors           
+*(Abandoned at 85') 
 ; Newell's Old Boys      ; 2-1; Temperley                
 ; San Martín (T)         ; 0-0 (aet); Instituto         
 Penalty kicks: 4-1
@@ -497,7 +499,7 @@ Penalty kicks: 3-4
 *Grand Final
 Round: 10
 
-9/4/1985; Vélez Sarsfield        ; 1-2; Argentinos Juniors      River Plate
+9/4/1985; Vélez Sarsfield        ; 1-2; Argentinos Juniors    ;  River Plate
 
 
 

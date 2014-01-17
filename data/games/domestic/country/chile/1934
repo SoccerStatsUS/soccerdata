@@ -55,7 +55,7 @@ Competition: Chilean Primera Division
 
 *NB: by administrative decisions, Audax Italiano had one point and Badminton two points deducted from their totals, while Colo Colo obtained one and Unión Española two additional points.  The exact reason for these points adjustments is not clear but possibly Unión Española were awarded both points for their match in round 4 against Audax Italiano while Audax Italiano and Colo Colo both were awarded two points for their matches against Badminton in rounds 8 and 7 respectively.
 
-Round: Round 1
+Round: 1
 ; Colo Colo              ; 6-1; Carlos Walker
 ; Santiago National      ; 1-1; Ferroviarios
 ; Unión Española             ; 3-2; Santiago
@@ -63,7 +63,7 @@ Round: Round 1
 ; Magallanes                            ; 11-0; Morning Star
 ; Badminton                                  ; 5-2; Green Cross
 
-Round: Round 2
+Round: 2
 ; Colo Colo              ; 8-0; Ferroviarios 
 ; Carlos Walker              ; 1-3; Santiago
 ; Santiago National          ; 2-1; Deportivo Alemán 
@@ -71,7 +71,7 @@ Round: Round 2
 ; Audax Italiano                         ; 8-1; Green Cross 
 ; Magallanes                                 ; 2-1; Badminton
 
-Round: Round 3
+Round: 3
 ; Colo Colo              ; 5-1; Santiago 
 ; Ferroviarios               ; 4-1; Deportivo Alemán
 ; Carlos Walker                  ; 6-0; Morning Star 
@@ -79,7 +79,7 @@ Round: Round 3
 ; Unión Española                     ; 2-4; Badminton 
 ; Audax Italiano                         ; 3-3; Magallanes 
 
-Round: Round 4
+Round: 4
 ; Colo Colo              ; 1-1; Deportivo Alemán 
 ; Santiago                   ; 4-3; Morning Star 
 ; Ferroviarios                   ; 1-2; Green Cross 
@@ -87,7 +87,7 @@ Round: Round 4
 ; Magallanes                                      ; 14-1; Santiago National           
 ; Unión Española                                       ; 1-3; Audax Italiano 
 
-Round: Round 5
+Round: 5
 ; Colo Colo              ; 5-0; Morning Star 
 ; Deportivo Alemán       ; 0-1; Green Cross
 ; Santiago               ; 1-2; Badminton 
@@ -95,7 +95,7 @@ Round: Round 5
 ; Carlos Walker                            ; 1-5; Audax Italiano              
 ; Santiago National                        ; 0-6; Unión Española
 
-Round: Round 6
+Round: 6
 ; Colo Colo              ; 5-3; Green Cross 
 ; Morning Star               ; 2-2; Badminton 
 ; Deportivo Alemán           ; 0-8; Magallanes 
@@ -103,7 +103,7 @@ Round: Round 6
 ; Ferroviarios                   ; 2-3; Unión Española 
 ; Carlos Walker                      ; 2-6; Santiago National 
 
-Round: Round 7 
+Round: 7 
 ; Colo Colo              ; 3-3; Badminton        
 ; Green Cross                ; 0-5; Magallanes 
 ; Morning Star                   ; 3-8; Audax Italiano 
@@ -111,7 +111,7 @@ Round: Round 7
 ; Santiago                       ; 2-0; Santiago National
 ; Ferroviarios                       ; 1-2; Carlos Walker 
 
-Round: Round 8
+Round: 8
 ; Colo Colo              ; 2-5; Magallanes 
 ; Badminton                  ; 3-3; Audax Italiano   
 ; Unión Española                    ; 10-1; Green Cross                       
@@ -119,7 +119,7 @@ Round: Round 8
 ; Deportivo Alemán                          ; 3-2; Carlos Walker 
 ; Santiago                                  ; 3-1; Ferroviarios
 
-Round: Round 9
+Round: 9
 ; Colo Colo              ; 3-4; Audax Italiano 
 ; Magallanes                 ; 2-0; Unión Española 
 ; Badminton                      ; 2-3; Santiago National 
@@ -127,7 +127,7 @@ Round: Round 9
 ; Morning Star                                    ; 1-7; Ferroviarios 
 ; Deportivo Alemán                                ; 1-5; Santiago 
 
-Round: Round 10
+Round: 10
 ; Colo Colo              ; 5-1; Unión Española 
 ; Audax Italiano             ; 3-1; Santiago National 
 ; Magallanes                     ; 5-1; Carlos Walker 
@@ -135,7 +135,7 @@ Round: Round 10
 ; Green Cross                                   ; 0-8; Santiago 
 ; Morning Star                                      ; 2-4; Deportivo Alemán 
 
-Round: Round 11
+Round: 11
 ; Colo Colo              ; 8-0; Santiago National 
 ; Unión Española             ; 3-0; Carlos Walker 
 ; Audax Italiano                 ; 5-2; Ferroviarios 

@@ -20,7 +20,7 @@ Season: 1969
 * 5. Sud América                 5   0  2  3   4-12   2 
 * 6. Cerro                       5   0  1  4   3-11   1 
 
-Round: Round 1 
+Round: 1 
 Date: 8/17/1969
 
 ; Defensor       ; 0-2; Racing
@@ -29,7 +29,7 @@ Date: 8/17/1969
 ; Penarol        ; 2-0; Cerro
 ; Rampla Juniors ; 3-3; Sud America 
 
-Round: Round 2 
+Round: 2 
 Date: 8/24/1969
 
 ; Cerro          ; 0-1; Danubio
@@ -38,7 +38,7 @@ Date: 8/24/1969
 ; Racing         ; 2-0; Liverpool
 ; River Plate    ; 1-2; Defensor 
 
-Round: Round 3 
+Round: 3 
 Date: 8/31/1969
 
 ; Nacional       ; 5-0; Defensor
@@ -47,7 +47,7 @@ Date: 8/31/1969
 ; Rampla Juniors ; 0-0; Bella Vista
 ; Sud America    ; 2-0; Liverpool 
 
-Round: Round 4 
+Round: 4 
 Date: 9/3/1969
 
 ; Cerro          ; 1-0; Rampla Juniors
@@ -56,7 +56,7 @@ Date: 9/3/1969
 ; River Plate    ; 1-0; Liverpool
 ; Sud America    ; 1-1; Defensor 
 
-Round: Round 5 
+Round: 5 
 Date: 9/7/1969
 
 ; Nacional       ; 3-0; Liverpool
@@ -64,7 +64,7 @@ Date: 9/7/1969
 ; Racing         ; 1-1; Rampla Juniors
 ; River Plate    ; 1-0; Danubio 
 
-Round: Round 6 
+Round: 6 
 Date: 9/14/1969
 
 ; Bella Vista    ; 2-0; Cerro
@@ -73,7 +73,7 @@ Date: 9/14/1969
 ; Racing         ; 2-2; River Plate
 ; Rampla Juniors ; 2-0; Danubio 
 
-Round: Round 7 
+Round: 7 
 Date: 9/17/1969
 
 ; Liverpool      ; 2-1; Danubio
@@ -82,7 +82,7 @@ Date: 9/17/1969
 ; River Plate    ; 0-0; Cerro
 ; Sud America    ; 2-0; Racing  
 
-Round: Round 8 
+Round: 8 
 Date: 9/21/1969
 
 ; Bella Vista    ; 0-1; Racing
@@ -91,7 +91,7 @@ Date: 9/21/1969
 ; Penarol        ; 1-0; Danubio
 ; River Plate    ; 0-3; Sud America
  
-Round: Round 9 
+Round: 9 
 Date: 9/28/1969
 
 ; Bella Vista    ; 1-0; Defensor
@@ -100,7 +100,7 @@ Date: 9/28/1969
 ; Nacional       ; 2-0; Penarol
 ; Rampla Juniors ; 2-2; River Plate
  
-Round: Round 10 
+Round: 10 
 Date: 10/2/1969
 
 ; Bella Vista    ; 1-0; Sud America
@@ -109,7 +109,7 @@ Date: 10/2/1969
 ; Racing         ; 1-0; Cerro
 ; Rampla Juniors ; 1-1; Liverpool
  
-Round: Round 11 
+Round: 11 
 Date: 10/5/1969
 
 ; Bella Vista    ; 1-1; River Plate
@@ -118,7 +118,7 @@ Date: 10/5/1969
 ; Penarol        ; 4-0; Rampla Juniors
 ; Sud America    ; 1-0; Cerro
  
-Round: Round 12 
+Round: 12 
 Date: 10/12/1969
 
 ; Bella Vista    ; 3-1; Liverpool
@@ -127,7 +127,7 @@ Date: 10/12/1969
 ; Racing         ; 1-1; Defensor
 ; Sud America    ; 1-1; Rampla Juniors
 
-Round: Round 13 
+Round: 13 
 Date: 10/19/1969
 
 ; Bella Vista    ; 0-0; Penarol
@@ -136,7 +136,7 @@ Date: 10/19/1969
 ; Liverpool      ; 0-9; Racing
 ; Rampla Juniors ; 1-1; Nacional
  
-Round: Round 14
+Round: 14
 Date: 10/22/1969
 
 ; Bella Vista    ; 1-0; Danubio
@@ -148,7 +148,7 @@ Date: 10/23/1969
 
 ; Liverpool      ; 1-0; River Plate
  
-Round: Round 15 
+Round: 15 
 Date: 10/26/1969
 
 ; Bella Vista    ; 4-0; Rampla Juniors
@@ -157,7 +157,7 @@ Date: 10/26/1969
 ; Liverpool      ; 0-2; Sud America
 ; River Plate    ; 0-1; Penarol
  
-Round: Round 16 
+Round: 16 
 Date: 11/2/1969
 
 ; Danubio        ; 1-2; River Plate
@@ -166,7 +166,7 @@ Date: 11/2/1969
 ; Rampla Juniors ; 1-2; Racing
 ; Sud America    ; 1-2; Penarol
  
-Round: Round 17 
+Round: 17 
 Date: 11/9/1969
 
 ; Cerro          ; 1-0; Bella Vista
@@ -175,7 +175,7 @@ Date: 11/9/1969
 ; River Plate    ; 3-3; Racing
 ; Sud America    ; 1-2; Nacional
  
-Round: Round 18 
+Round: 18 
 Date: 11/12/1969
 
 ; Bella Vista    ; 1-1; Nacional

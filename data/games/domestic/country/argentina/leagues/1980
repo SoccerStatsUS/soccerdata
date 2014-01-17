@@ -1,12 +1,12 @@
 BlockSource: http://www.rsssf.com/tablesa/arg80.html
 
-Argentina 1980
 
- Campeonato Metropolitano:
- "Cuarto Centenario de la Segunda Fundación de la Ciudad de Buenos Aires".                         
+Competition:  Campeonato Metropolitano
+Season: 1980
 
- Metropolitan Championship:
- "Fourth Centenary of the Second Foundation of Buenos Aires city".
+* "Cuarto Centenario de la Segunda Fundación de la Ciudad de Buenos Aires".                         
+* Metropolitan Championship:
+* "Fourth Centenary of the Second Foundation of Buenos Aires city".
 
 *All Boys                          Buenos Aires
 *Argentinos Juniors                Buenos Aires
@@ -28,7 +28,7 @@ Argentina 1980
 *Unión                             Santa Fe
 *Vélez Sarsfield                   Buenos Aires
 
-Round: 1. 1                              
+Round: 1.1                              
 Date: 2/10/1980                                
 
 ; All Boys (BA)          ; 0-0;       Platense (VL)           
@@ -42,7 +42,7 @@ Date: 2/10/1980
 ; Vélez Sarsfield        ; 0-2;       Racing Club             
 *San Lorenzo de Almagro  bye                      
                         
-Round: 1. 2                              
+Round: 1.2                              
 Date: 2/16/1980                                
 
 ; Rosario Central        ; 0-3;       Newell's Old Boys       
@@ -59,7 +59,7 @@ Date: 2/17/1980
 ; Talleres (C)           ; 3-1;       Vélez Sarsfield         ; Córdoba
 *Huracán (BA)            bye                     
                                                         
-Round: 1. 3                              
+Round: 1.3                              
 Date: 2/24/1980                                
 
 ; All Boys (BA)          ; 0-0;       Talleres (C)            
@@ -73,7 +73,7 @@ Date: 2/24/1980
 ; Vélez Sarsfield        ; 4-3;       Huracán (BA)            
 *Argentinos Juniors      bye                     
                                                         
-Round: 1. 4                              
+Round: 1.4                              
 Date: 3/ 2/1980                                
 
 ; Boca Juniors           ; 2-5;       River Plate             
@@ -87,7 +87,7 @@ Date: 3/ 2/1980
 ; Talleres (C)           ; 4-2;       Unión (SF)              ; Córdoba
 *Vélez Sarsfield         bye                     
                                                         
-Round: 1. 5                              
+Round: 1.5                              
 Date: 3/ 5/1980                                
 
 ; All Boys (BA)          ; 1-1;       Vélez Sarsfield         ; Atlanta
@@ -99,13 +99,13 @@ Date: 3/ 5/1980
 ; San Lorenzo de Almagro ; 2-0;       Estudiantes LP          ; Huracán
 ; Tigre                  ; 2-0;       Boca Juniors            ; Chacarita Juniors
 
-Date: 3/ 6/1980                                
+Date: 3/6/1980                                
 
 ; Unión (SF)             ; 0-0;       Huracán (BA)            
 *Ferro Carril Oeste (BA) bye                     
                         
-Round: 1. 6                              
-Date: 3/ 9/1980                                
+Round: 1.6                              
+Date: 3/9/1980                                
 
 ; Boca Juniors           ; 2-5;       Independiente (A)               
 ; Colón                  ; 2-0;       Ferro Carril Oeste (BA) 
@@ -118,7 +118,7 @@ Date: 3/ 9/1980
 ; Vélez Sarsfield        ; 2-1;       Unión (SF)              
 *All Boys (BA)           bye                     
                                                 
-Round: 1. 7                              
+Round: 1.7                              
 Date: 3/16/1980                                
 
 ; Argentinos Juniors     ; 4-1;       Rosario Central         ; Atlanta
@@ -132,7 +132,7 @@ Date: 3/16/1980
 ; Unión (SF)             ; 3-1;       All Boys (BA)           
 *Colón                   bye                     
                                                                 
-Round: 1. 8                              
+Round: 1.8                              
 Date: 3/19/1980                                
 
 ; All Boys (BA)          ; 2-1;       Quilmes                 ; Chacarita Juniors
@@ -146,7 +146,7 @@ Date: 3/19/1980
 ; Vélez Sarsfield        ; 1-0;       Newell's Old Boys       
 *Unión (SF)              bye                     
                                                         
-Round: 1. 9                              
+Round: 1.9                              
 Date: 3/22/1980                                
 
 ; Newell's Old Boys      ; 3-0;       All Boys (BA)           
@@ -188,7 +188,7 @@ Date: 3/31/1980
 *Quilmes                 bye                     
                                                                 
 Round: 1.11                              
-Date: 4/ 3/1980                                
+Date: 4/3/1980                                
 
 ; Argentinos Juniors     ; 3-2;       Talleres (C)            ; Atlanta
 ; Colón                  ; 0-0;       Platense (VL)           
@@ -202,10 +202,10 @@ Date: 4/ 3/1980
 *Rosario Central         bye                     
                                                         
 Round: 1.12                              
-Date: 4/ 5/1980                                
+Date: 4/5/1980                                
 
 ; Talleres (C)           ; 2-1;       Ferro Carril Oeste (BA) ; Córdoba
-Date: 4/ 6/1980                                
+Date: 4/6/1980                                
 
 ; All Boys (BA)          ; 2-2;       Independiente (A)       ; Atlanta
 ; Boca Juniors           ; 0-4;       Rosario Central         
@@ -293,11 +293,11 @@ Date: 5/28/1980
 ; San Lorenzo de Almagro ; 1-1;       River Plate             ; Huracán
 *Racing Club             bye                     
                                                         
-Round: 1. 18                             
-Date: 5/ 3/1980                                
+Round: 1.18                             
+Date: 5/3/1980                                
 
 ; Talleres (C)           ; 1-1;       Racing Club             ; Córdoba
-Date: 5/ 4/1980                                
+Date: 5/4/1980                                
 
 ; All Boys (BA)          ; 1-0;       Rosario Central         
 ; Huracán (BA)           ; 1-2;       Platense (VL)           
@@ -323,11 +323,11 @@ Date: 5/25/1980
 ; San Lorenzo de Almagro ; 1-1;       Independiente (A)       ; Huracán
 *Talleres (C)            bye                     
                                                         
-Round: 2. 1                              
+Round: 2.1                              
 Date: 5/31/1980                                
 
 ; Talleres (C)           ; 1-5;       Huracán (BA)            ; Córdoba
-Date: 6/ 1/1980                                
+Date: 6/1/1980                                
 
 ; Argentinos Juniors     ; 1-0;       Independiente (A)       ; Atlanta
 ; Boca Juniors           ; 1-0;       Unión (SF)              
@@ -339,8 +339,8 @@ Date: 6/ 1/1980
 ; Rosario Central        ; 0-0;       Quilmes                 
 *San Lorenzo de Almagro  bye                     
                         
-Round: 2. 2                              
-Date: 6/ 4/1980                                
+Round: 2.2                              
+Date: 6/4/1980                                
 
 ; All Boys (BA)          ; 1-1;       Racing Club             ; Atlanta
 ; Independiente (A)      ; 2-0;       Ferro Carril Oeste (BA) 
@@ -353,11 +353,11 @@ Date: 6/ 4/1980
 ; Vélez Sarsfield        ; 0-1;       Talleres (C)            
 *Huracán (BA)            bye                     
                                                         
-Round: 2. 3                              
-Date: 6/ 7/1980                                
+Round: 2.3                              
+Date: 6/7/1980                                
 
 ; Talleres (C)           ; 0-0;       All Boys (BA)           ; Córdoba
-Date: 6/ 8/1980                                
+Date: 6/8/1980                                
 
 ; Boca Juniors           ; 3-0;       Newell's Old Boys       
 ; Colón                  ; 2-1;       Independiente (A)               
@@ -369,7 +369,7 @@ Date: 6/ 8/1980
 ; Rosario Central        ; 0-0;       River Plate             
 *Argentinos Juniors      bye                     
                                                         
-Round: 2. 4                              
+Round: 2.4                              
 Date: 6/15/1980                                
 
 ; All Boys (BA)          ; 1-4;       Huracán (BA)            
@@ -383,7 +383,7 @@ Date: 6/15/1980
 ; Unión (SF)             ; 0-1;       Talleres (C)            
 *Vélez Sarsfield         bye                     
                                                         
-Round: 2. 5                              
+Round: 2.5                              
 Date: 6/19/1980                                
 
 ; Boca Juniors           ; 2-0;       Tigre                   
@@ -399,7 +399,7 @@ Date: 6/20/1980
 ; Vélez Sarsfield        ; 0-0;       All Boys (BA)           
 *Ferro Carril Oeste (BA) bye                     
                         
-Round: 2. 6                              
+Round: 2.6                              
 Date: 6/22/1980                                
 
 ; Argentinos Juniors     ; 1-0;       Estudiantes LP                  
@@ -413,7 +413,7 @@ Date: 6/22/1980
 ; Unión (SF)             ; 2-0;       Vélez Sarsfield         
 *All Boys (BA)           bye                     
                                                 
-Round: 2. 7                               
+Round: 2.7                               
 Date: 6/29/1980                                 
 
 ; All Boys (BA)          ; 0-1;       Unión (SF)              
@@ -427,8 +427,8 @@ Date: 6/29/1980
 ; Vélez Sarsfield        ; 2-1;       Quilmes                 
 *Colón                   bye                     
                                                                 
-Round: 2. 8                              
-Date: 7/ 2/1980                                
+Round: 2.8                              
+Date: 7/2/1980                                
 
 ; Argentinos Juniors     ; 1-1;       Boca Juniors            ; Atlanta
 ; Colón                  ; 2-1;       Estudiantes LP                  
@@ -441,11 +441,11 @@ Date: 7/ 2/1980
 ; Tigre                  ; 1-4;       Talleres (C)            ; Chacarita Juniors
 *Unión (SF)              bye                     
                                                         
-Round: 2. 9                              
-Date: 7/ 5/1980                                
+Round: 2.9                              
+Date: 7/5/1980                                
 
 ; Talleres (C)           ; 5-0;       Independiente (A)       ; Córdoba
-Date: 7/ 6/1980                                
+Date: 7/6/1980                                
 
 ; All Boys (BA)          ; 2-2;       Newell's Old Boys       
 ; Boca Juniors           ; 3-3;       Ferro Carril Oeste (BA) 
@@ -458,7 +458,7 @@ Date: 7/ 6/1980
 *Estudiantes LP          bye                     
                                                         
 Round: 2.10                              
-Date: 7/ 9/1980                                
+Date: 7/9/1980                                
 
 ; Argentinos Juniors     ; 1-0;       Racing Club             ; Atlanta
 ; Colón                  ; 0-1;       Boca Juniors            
@@ -521,13 +521,13 @@ Date: 8/3/1980
 ; Colón                  ; 2-2;       Huracán (BA)            
 ; Rosario Central        ; 1-1;       Racing Club             
 
-*Date: 8/ 3 & 4/1980                            
+*Date: 8/3 & 4/1980                            
 Date: 8/3/1980                            
 
 ; Estudiantes LP         ; 0-3;       Talleres (C)           
 *  (Suspended; 0-0; ; 20' and continued next day)
 
-Date: 8/ 4/1980                                
+Date: 8/4/1980                                
 
 ; Argentinos Juniors     ; 3-3;       All Boys (BA)           ; Atlanta
 ; Boca Juniors           ; 0-0;       Platense (VL)           
@@ -538,7 +538,7 @@ Date: 8/ 4/1980
 *River Plate             bye                     
                                                  
 Round: 2.15                       
-Date: 8/ 7/1980                         
+Date: 8/7/1980                         
 
 ; All Boys (BA)          ; 1-4;       Ferro Carril Oeste (BA)
 ; Huracán (BA)           ; 0-1;       Estudiantes LP           
@@ -633,11 +633,11 @@ Date: 8/31/1980
 
 
 
-Campeonato Nacional:
-"Libertador General Don José de San Martín".
+Competition: Campeonato Nacional
 
-National Championship:
-"Liberator General Sir José de San Martín".                       
+*"Libertador General Don José de San Martín".
+*National Championship:
+*"Liberator General Sir José de San Martín".                       
 
 
 *Argentinos Juniors      Buenos Aires          Capital Federal
@@ -671,10 +671,10 @@ National Championship:
 
 Group: A                 
 Round: 1.1                       
-Date: 9/ 6/1980                        
+Date: 9/6/1980                        
 
 ; Racing (C)             ; 1-0;       Estudiantes LP          
-Date: 9/ 7/1980                        
+Date: 9/7/1980                        
 
 ; Gimnasia y Esgrima J   ; 2-1;       Atlético Tucumán       
 ; Vélez Sarsfield        ; 2-3;       Racing Club           
@@ -711,7 +711,7 @@ Round: 1.6
 Date: 10/4/1980                  
 
 ; Racing (C)             ; 3-1;       Rosario Central         
-Date: 10/ 5/1980                         
+Date: 10/5/1980                         
 
 ; Atlético Tucumán       ; 2-0;       Estudiantes LP          
 ; Gimnasia y Esgrima J   ; 2-1;       Racing Club           
@@ -740,21 +740,21 @@ Date: 10/29/1980
 ; Racing (C)             ; 3-0;       Atlético Tucumán       
                          
 Round: 2.3                        
-Date: 11/ 2/1980                         
+Date: 11/2/1980                         
 
 ; Atlético Tucumán       ; 2-4;       Vélez Sarsfield        
 ; Estudiantes LP         ; 2-2;       Rosario Central                 
 ; Gimnasia y Esgrima J   ; 1-1;       Racing (C)              
                                 
 Round: 2.4                               
-Date: 11/ 5/1980                                 
+Date: 11/5/1980                                 
 
 ; Racing Club            ; 1-1;       Estudiantes LP                  
 ; Rosario Central        ; 6-1;       Atlético Tucumán        
 ; Vélez Sarsfield        ; 2-2;       Gimnasia y Esgrima J            
                                 
 Round: 2.5                               
-Date: 11/ 9/1980                                
+Date: 11/9/1980                                
 
 ; Atlético Tucumán       ; 0-3;       Racing Club             
 ; Gimnasia y Esgrima J   ; 3-2;       Rosario Central                 
@@ -777,7 +777,7 @@ Date: 11/23/1980
 Group: B                         
 
 Round: 1.1                               
-Date: 9/ 7/1980                                
+Date: 9/7/1980                                
 
 ; San Lorenzo (MdP)      ; 4-1;       Huracán (BA)            ; Mar del Plata
 ; San Martín (SM)        ; 1-0;       Boca Juniors            ; Malvinas Argentinas
@@ -812,7 +812,7 @@ Date: 9/28/1980
 ; Unión (SF)             ; 1-0;       Talleres (C)            
                                 
 Round: 1.6                               
-Date: 10/ 5/1980                                
+Date: 10/5/1980                                
 
 ; Argentinos Juniors     ; 1-0;       Huracán (BA)            
 ; San Lorenzo (MdP)      ; 0-1;       Unión (SF)              ; Mar del Plata
@@ -842,21 +842,21 @@ Date: 10/29/1980
 ; Unión (SF)             ; 0-0;       Boca Juniors            
                                 
 Round: 2.3                               
-Date: 11/ 2/1980                                
+Date: 11/2/1980                                
 
 ; Argentinos Juniors     ; 3-1;       San Martín (SM)          
 ; Huracán (BA)           ; 1-0;       Unión (SF)              
 ; Talleres (C)           ; 3-1;       San Lorenzo (MdP)       
                                 
 Round: 2.4                               
-Date: 11/ 5/1980                                
+Date: 11/5/1980                                
 
 ; Boca Juniors           ; 1-4;       Huracán (BA)            
 ; San Martín (SM)        ; 0-0;       Talleres (C)            
 ; Unión (SF)             ; 2-1;       Argentinos Juniors      
                                 
 Round: 2.5                               
-Date: 11/ 9/1980                                
+Date: 11/9/1980                                
 
 ; Argentinos Juniors     ; 5-3;       Boca Juniors            ; Vélez Sarsfield
 ; San Lorenzo (MdP)      ; 6-0;       San Martín (SM)         ; Mar del Plata
@@ -872,14 +872,14 @@ Date: 11/16/1980
 Round: 2.7                               
 Date: 11/23/1980                                
 
-; San Lorenzo (MdP)  ; 1-2; awd 1-0   Boca Juniors            ; Mar del Plata 
+; San Lorenzo (MdP)  ; 1-2; Boca Juniors            ; Mar del Plata 
 *  (On 19 Feb 1981 was awarded San Lorenzo; 1-0; Boca Juniors by doping)
 ; San Martín (SM)        ; 1-2;       Unión (SF)              
 ; Talleres (C)           ; 1-1;       Huracán (BA)            ; Córdoba
 
 Group: C                         
 Round: 1.1                               
-Date: 9/ 7/1980                                
+Date: 9/7/1980                                
 
 ; Atlético Concepción    ; 1-0;       Central Norte           
 ; Independiente (A)      ; 0-1;       Ferro Carril Oeste (BA) 
@@ -914,7 +914,7 @@ Date: 9/28/1980
 ; Chaco For Ever         ; 0-1;       Ferro Carril Oeste (BA) 
                                 
 Round: 1.6                               
-Date: 10/ 5/1980                                
+Date: 10/5/1980                                
 
 ; Independiente (A)      ; 5-0;       Central Norte           
 ; Newell's Old Boys      ; 4-1;       Chaco For Ever          
@@ -944,21 +944,21 @@ Date: 10/29/1980
 ; Quilmes                ; 1-0;       Ferro Carril Oeste (BA)
                          
 Round: 2.3                        
-Date: 11/ 2/1980                         
+Date: 11/2/1980                         
 
 ; Chaco For Ever         ; 1-1;       Central Norte          
 ; Ferro Carril Oeste (BA); 2-2;       Atlético Concepción    
 ; Newell's Old Boys      ; 1-0;       Quilmes                
                          
 Round: 2.4                        
-Date: 11/ 5/1980                         
+Date: 11/5/1980                         
 
 ; Atlético Concepción    ; 4-1;       Newell's Old Boys      
 ; Central Norte          ; 1-2;       Ferro Carril Oeste (BA)
 ; Quilmes                ; 1-3;       Independiente (A)      
                          
 Round: 2.5                        
-Date: 11/ 9/1980                         
+Date: 11/9/1980                         
 
 ; Ferro Carril Oeste (BA); 5-1;       Chaco For Ever         
 ; Independiente (A)      ; 3-0;       Atlético Concepción    
@@ -981,7 +981,7 @@ Date: 11/23/1980
 Group: D
 
 Round: 1.1                               
-Date: 9/ 7/1980                                
+Date: 9/7/1980                                
 
 ; Platense (VL)          ; 0-0;       Instituto               
 ; River Plate            ; 2-0;       Independiente Rivadavia 
@@ -1017,7 +1017,7 @@ Date: 9/28/1980
 ; Platense (VL)          ; 1-0;       River Plate             ; Atlanta
                                 
 Round: 1.6                               
-Date: 10/ 5/1980                                
+Date: 10/5/1980                                
 
 ; Colón                  ; 1-0;       Cipolletti              
 ; River Plate            ; 2-0;       Instituto               
@@ -1050,21 +1050,21 @@ Date: 10/29/1980
 ; San Lorenzo de Almagro ; 0-0;       Independiente Rivadavia ; Huracán
                                 
 Round: 2.3                               
-Date: 11/ 2/1980                                
+Date: 11/2/1980                                
 
 ; Cipolletti             ; 0-1;       Instituto               
 ; Colón                  ; 1-0;       San Lorenzo de Almagro  
 ; Independiente Rivadavia; 0-2;       Platense (VL)           ; Mendoza
                                 
 Round: 2.4                               
-Date: 11/ 5/1980                                
+Date: 11/5/1980                                
 
 ; Instituto              ; 4-1;       Independiente Rivadavia 
 ; Platense (VL)          ; 5-1;       Colón                   ; Atlanta
 ; San Lorenzo de Almagro ; 3-2;       River Plate             ; Huracán
                                 
 Round: 2.5                               
-Date: 11/ 9/1980                                 
+Date: 11/9/1980                                 
 
 ; Colón                  ; 0-0;       Instituto               
 ; Independiente Rivadavia; 1-1;       Cipolletti              ; Mendoza
@@ -1090,7 +1090,7 @@ Group: Intergroups
 *Group A vs. Group C & Group B vs. Group D                               
 
 Round: 1.1                               
-Date: 9/ 7/1980                                
+Date: 9/7/1980                                
 
 ; Colón                  ; 2-1;       Unión (SF)              
 ; Newell's Old Boys      ; 1-0;       Rosario Central         
@@ -1120,7 +1120,7 @@ Date: 9/28/1980
 ; San Lorenzo de Almagro ; 1-2;       Huracán (BA)            ; Huracán
                                 
 Round: 1.6                               
-Date: 10/ 5/1980                                
+Date: 10/5/1980                                
 
 ; San Martín (SM)        ; 1-1;       Independiente Rivadavia 
 ; Vélez Sarsfield        ; 0-0;       Ferro Carril Oeste (BA)
@@ -1144,19 +1144,19 @@ Date: 10/29/1980
 ; Instituto              ; 1-3;       Talleres (C)           
                          
 Round: 2.3                        
-Date: 11/ 2/1980                         
+Date: 11/2/1980                         
 
 ; Boca Juniors           ; 1-0;       River Plate            
 ; Racing Club            ; 1-2;       Independiente (A)      
                          
 Round: 2.4                        
-Date: 11/ 5/1980                         
+Date: 11/5/1980                         
 
 ; Chaco For Ever         ; 1-0;       Racing (C)             
 ; Cipolletti             ; 1-0;       San Lorenzo (MdP)      
                          
 Round: 2.5                        
-Date: 11/ 9/1980                         
+Date: 11/9/1980                         
 
 ; Estudiantes LP         ; 2-1;       Quilmes                
 ; Huracán (BA)           ; 2-3;       San Lorenzo de Almagro 
@@ -1183,7 +1183,7 @@ Date: 11/30/1980
 ; Rosario Central        ; 2-0;       Unión (SF)              
                                 
 Round: 3.2                               
-Date: 12/ 3/1980                                
+Date: 12/3/1980                                
 
 ; Independiente (A)      ; 5-1;       Instituto               
 ; Newell's Old Boys      ; 6-2;       River Plate             

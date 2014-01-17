@@ -128,7 +128,7 @@ Date: 4/19/1966
 Round:  8 
 Date: 4/24/1966
 
-; Argentinos Juniors      ; 0-2; Boca Juniors             [at Atlanta]
+; Argentinos Juniors      ; 0-2; Boca Juniors             ; Atlanta
 ; Banfield                ; 2-0; Vélez Sarsfield
 ; Chacarita Juniors       ; 1-0; Atlanta
 ; Estudiantes LPG         ; 0-1; Racing Club
@@ -156,7 +156,7 @@ Date: 5/1/1966
 Round:  10 
 Date: 5/8/1966
 
-; Argentinos Juniors      ; 0-0; Racing Club              [at Atlanta]
+; Argentinos Juniors      ; 0-0; Racing Club              ; Atlanta
 ; Banfield                ; 2-1; Quilmes
 ; Chacarita Juniors       ; 1-2; Newell's Old Boys
 ; Colón                   ; 1-2; Platense     
@@ -271,7 +271,7 @@ Date: 6/26/1966
 Round:  18 
 Date: 7/3/1966
 
-; Argentinos Juniors      ; 0-0; River Plate              [at Atlanta]
+; Argentinos Juniors      ; 0-0; River Plate              ; Atlanta
 ; Boca Juniors            ; 3-0; Atlanta
 ; Colón                   ; 1-0; Quilmes
 ; Ferro Carril Oeste (BUE); 2-1; Chacarita Juniors
@@ -313,7 +313,7 @@ Date: 7/24/1966
 Round:  21 
 Date: 7/31/1966
 
-; Argentinos Juniors      ; 1-1; Independiente (Ave)      [at Atlanta]
+; Argentinos Juniors      ; 1-1; Independiente (Ave)      ; Atlanta
 ; Boca Juniors            ; 1-1; Quilmes
 ; Colón                   ; 1-0; River Plate
 ; Ferro Carril Oeste (BUE); 1-1; Huracán (BUE)
@@ -368,7 +368,7 @@ Date: 8/21/1966
 
 Round: 25
 
-Date:; 8/28/1966
+Date: 8/28/1966
 
 ; Atlanta                 ; 0-0; Quilmes
 ; Colón                   ; 0-1; Ferro Carril Oeste (BUE)
@@ -443,10 +443,10 @@ Date: 9/25/1966
 Round:  30
 Date: 10/2/1966
 
-; Argentinos Juniors      ; 0-1; San Lorenzo de Almagro   [at Atlanta]
+; Argentinos Juniors      ; 0-1; San Lorenzo de Almagro   ; Atlanta
 ; Colón                   ; 0-2; Boca Juniors
 ; Estudiantes LPG         ; 1-0; Vélez Sarsfield
-Ferro Carril Oeste (BUE) 0 6 Racing Club
+; Ferro Carril Oeste (BUE); 0-6; Racing Club
 ; Huracán (BUE)           ; 2-1; Atlanta
 ; Independiente (Ave)     ; 4-0; Banfield
 ; Lanús                   ; 0-0; Platense     

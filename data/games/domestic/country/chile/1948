@@ -19,7 +19,7 @@ Competition: Chilean Primera Division
 *12.Badminton                     24  8  1 15  45-69  17   
 *13.Santiago National             24  4  0 20  39-80   8   
 
-Round: Round 1
+Round: 1
 ; Badminton              ; 0-6; Santiago Morning
 ; Everton                             ; 2-4; Universidad de Chile    
 ; Iberia                                              ; 3-3; Unión Española
@@ -28,7 +28,7 @@ Round: Round 1
 ; Santiago National                                           ; 0-2; Santiago Wanderers
 *Green Cross                                                      bye
 
-Round: Round 2
+Round: 2
 ; Badminton              ; 2-5; Magallanes
 ; Universidad de Chile   ; 2-1; Iberia
 ; Universidad Catolica   ; 0-2; Santiago Morning            
@@ -37,7 +37,7 @@ Round: Round 2
 ; Colo Colo                          ; 1-0; Green Cross
 *Everton                                       bye
 
-Round: Round 3
+Round: 3
 ; Santiago National      ; 3-7; Audax Italiano               
 ; Badminton                  ; 1-3; Iberia                   
 ; Unión Española                 ; 0-1; Santiago Wanderers
@@ -46,7 +46,7 @@ Round: Round 3
 ; Magallanes                                          ; 3-0; Universidad Catolica
 *Universidad de Chile                                 bye
 
-Round: Round 4
+Round: 4
 ; Iberia                 ; 3-2; Santiago National   
 ; Santiago Morning       ; 1-1; Universidad de Chile
 ; Universidad Catolica   ; 2-4; Badminton
@@ -55,7 +55,7 @@ Round: Round 4
 ; Audax Italiano             ; 0-0; Unión Española
 *Colo Colo                       bye
 
-Round: Round 5
+Round: 5
 ; Everton                ; 1-4; Unión Española
 ; Universidad de Chile   ; 1-0; Santiago National
 ; Colo Colo     ; 0-2; Santiago Wanderers
@@ -64,7 +64,7 @@ Round: Round 5
 ; Iberia                         ; 2-1; Magallanes
 *Badminton                           bye
 
-Round: Round 6
+Round: 6
 ; Audax Italiano         ; 1-0; Colo Colo
 ; Unión Española             ; 0-3; Universidad de Chile
 ; Santiago Wanderers         ; 2-4; Universidad Catolica
@@ -73,7 +73,7 @@ Round: Round 6
 ; Badminton                          ; 1-1; Green Cross
 *Iberia                                        bye
 
-Round: Round 7
+Round: 7
 ; Everton                ; 3-2; Santiago Morning
 ; Santiago Wanderers     ; 4-1; Iberia       
 ; Universidad Catolica   ; 8-1; Santiago National
@@ -82,7 +82,7 @@ Round: Round 7
 ; Audax Italiano             ; 4-0; Badminton       
 *Magallanes                      bye
 
-Round: Round 8
+Round: 8
 ; Colo Colo              ; 2-1; Everton
 ; Audax Italiano             ; 2-2; Santiago Morning
 ; Universidad Catolica       ; 1-1; Unión Española
@@ -91,7 +91,7 @@ Round: Round 8
 ; Iberia                                         ; 1-1; Green Cross
 *Santiago National                               bye
 
-Round: Round 9
+Round: 9
 ; Iberia                 ; 1-1; Colo Colo            
 ; Universidad de Chile   ; 1-3; Audax Italiano
 ; Unión Española         ; 2-3; Santiago Morning
@@ -100,7 +100,7 @@ Round: Round 9
 ; Santiago National                       ; 2-1; Badminton
 *Santiago Wanderers                       bye
 
-Round: Round 10
+Round: 10
 ; Everton                ; 3-1; Badminton
 ; Santiago National      ; 3-4; Green Cross  
 ; Colo Colo                  ; 4-2; Universidad de Chile
@@ -109,7 +109,7 @@ Round: Round 10
 ; Santiago Morning                   ; 4-1; Santiago Wanderers
 *Universidad Catolica                bye
 
-Round: Round 11
+Round: 11
 ; Audax Italiano         ; 4-2; Everton
 ; Universidad de Chile   ; 1-2; Badminton
 ; Colo Colo     ; 3-0; Santiago National
@@ -118,7 +118,7 @@ Round: Round 11
 ; Santiago Wanderers             ; 0-2; Magallanes
 *Santiago Morning                bye
 
-Round: Round 12
+Round: 12
 ; Santiago Morning       ; 3-2; Santiago National   
 ; Universidad Catolica   ; 4-1; Green Cross                  
 ; Everton                    ; 0-0; Iberia                   
@@ -127,7 +127,7 @@ Round: Round 12
 ; Magallanes    ; 2-2; Colo Colo
 *Audax Italiano     bye
 
-Round: Round 13
+Round: 13
 ; Magallanes             ; 4-0; Santiago National
 ; Colo Colo                  ; 3-1; Badminton       
 ; Audax Italiano                 ; 5-2; Green Cross          
@@ -136,7 +136,7 @@ Round: Round 13
 ; Universidad de Chile                     ; 3-3; Universidad Catolica
 *Unión Española                            bye
 
-Round: Round 14
+Round: 14
 ; Santiago Morning       ; 2-1; Badminton
 ; Universidad de Chile   ; 2-1; Everton
 ; Unión Española         ; 2-3; Iberia      
@@ -145,7 +145,7 @@ Round: Round 14
 ; Santiago Wanderers         ; 4-2; Santiago National
 *Green Cross                     bye
 
-Round: Round 15
+Round: 15
 ; Magallanes             ; 5-3; Badminton
 ; Iberia                         ; 2-1; Universidad de Chile
 ; Santiago Morning               ; 1-2; Universidad Catolica
@@ -154,7 +154,7 @@ Round: Round 15
 ; Green Cross                        ; 3-2; Colo Colo
 *Everton                                      bye
 
-Round: Round 16
+Round: 16
 ; Audax Italiano         ; 1-2; Santiago National   
 ; Iberia                              ; 1-2; Badminton               
 ; Santiago Wanderers                  ; 1-2; Unión Española
@@ -163,7 +163,7 @@ Round: Round 16
 ; Universidad Catolica                    ; 2-2; Magallanes
 *Universidad de Chile                     bye
 
-Round: Round 17
+Round: 17
 ; Santiago National      ; 0-4; Iberia
 ; Universidad de Chile   ; 6-2; Santiago Morning    
 ; Badminton     ; 3-1; Universidad Catolica                  
@@ -172,7 +172,7 @@ Round: Round 17
 ; Unión Española                        ; 1-1; Audax Italiano
 *Colo Colo                                  bye
 
-Round: Round 18
+Round: 18
 ; Unión Española         ; 4-0; Everton
 ; Santiago National      ; 2-4; Universidad de Chile
 ; Santiago Wanderers     ; 1-3; Colo Colo   
@@ -181,7 +181,7 @@ Round: Round 18
 ; Magallanes                         ; 3-3; Iberia
 *Badminton                               bye
 
-Round: Round 19
+Round: 19
 ; Colo Colo              ; 2-2; Audax Italiano
 ; Universidad de Chile   ; 0-2; Unión Española
 ; Universidad Catolica   ; 1-2; Santiago Wanderers
@@ -190,7 +190,7 @@ Round: Round 19
 ; Green Cross                ; 0-3; Badminton
 *Iberia                                  bye
 
-Round: Round 20
+Round: 20
 ; Santiago Morning       ; 3-3; Everton     
 ; Iberia                     ; 2-4; Santiago Wanderers               
 ; Santiago National          ; 2-5; Universidad Catolica
@@ -199,7 +199,7 @@ Round: Round 20
 ; Badminton                              ; 1-2; Audax Italiano
 *Magallanes                                  bye
 
-Round: Round 21
+Round: 21
 ; Everton                ; 1-1; Colo Colo
 ; Santiago Morning       ; 0-1; Audax Italiano      
 ; Unión Española             ; 1-3; Universidad Catolica             
@@ -208,7 +208,7 @@ Round: Round 21
 ; Green Cross   ; 1-3; Iberia
 *Santiago National  bye
 
-Round: Round 22
+Round: 22
 ; Colo Colo              ; 0-2; Iberia
 ; Audax Italiano             ; 3-4; Universidad de Chile
 ; Santiago Morning           ; 2-2; Unión Española 
@@ -217,7 +217,7 @@ Round: Round 22
 ; Badminton                      ; 4-8; Santiago National
 *Santiago Wanderers              bye
 
-Round: Round 23
+Round: 23
 ; Badminton              ; 0-1; Everton
 ; Green Cross                ; 1-2; Santiago National
 ; Universidad de Chile       ; 0-1; Colo Colo
@@ -226,7 +226,7 @@ Round: Round 23
 ; Santiago Wanderers             ; 1-3; Santiago Morning
 *Universidad Catolica            bye
 
-Round: Round 24
+Round: 24
 ; Everton                ; 0-1; Audax Italiano      
 ; Badminton                  ; 2-4; Universidad de Chile             
 ; Santiago National          ; 2-4; Colo Colo
@@ -235,7 +235,7 @@ Round: Round 24
 ; Magallanes                     ; 2-2; Santiago Wanderers
 *Santiago Morning                bye
 
-Round: Round 25
+Round: 25
 ; Santiago National      ; 0-0; Santiago Morning    
 *(awd to S. Morning; result stood)
 ; Green Cross                ; 3-1; Universidad Catolica 
@@ -245,7 +245,7 @@ Round: Round 25
 ; Colo Colo                                          ; 2-2; Magallanes
 *Audax Italiano                                          bye
 
-Round: Round 26
+Round: 26
 ; Santiago National      ; 3-4; Magallanes
 ; Badminton                  ; 2-4; Colo Colo
 ; Green Cross                    ; 2-7; Audax Italiano      

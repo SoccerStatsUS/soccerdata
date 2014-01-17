@@ -39,57 +39,57 @@ Competition: Chilean Primera Division
 
 *NB: all teams from Santiago de Chile, except Santiago Wanderers (Valparaíso)
 
-Round: Round 1
+Round: 1
 ; Colo Colo              ; 2-0; Unión Española
 ; Badminton                  ; 3-4; Santiago Wanderers     
 *  (win awarded to Badminton)
 ; Santiago Morning           ; 0-4; Magallanes
 *Audax Italiano              bye
 
-Round: Round 2
+Round: 2
 ; Unión Española         ; 2-1; Santiago Wanderers
 ; Colo Colo                  ; 3-3; Magallanes
 ; Badminton                      ; 3-3; Audax Italiano
 *Santiago Morning                bye
 
-Round: Round 3
+Round: 3
 ; Santiago Wanderers     ; 2-1; Magallanes          
 * (win awarded to Magallanes)
 ; Unión Española             ; 2-3; Audax Italiano
 ; Colo Colo                      ; 5-2; Santiago Morning
 *Badminton                           bye
 
-Round: Round 4
+Round: 4
 ; Magallanes             ; 5-3; Audax Italiano
 ; Santiago Wanderers     ; 2-7; Santiago Morning
 ; Unión Española             ; 3-2; Badminton
 *Colo Colo                       bye
 
-Round: Round 5
+Round: 5
 ; Audax Italiano         ; 2-3; Santiago Morning
 ; Magallanes                 ; 5-3; Badminton
 ; Santiago Wanderers         ; 1-3; Colo Colo
 *Unión Española                  bye
 
-Round: Round 6
+Round: 6
 ; Santiago Morning       ; 4-1; Badminton
 ; Audax Italiano             ; 2-4; Colo Colo
 ; Magallanes                     ; 1-2; Unión Española
 *Santiago Wanderers              bye
 
-Round: Round 7
+Round: 7
 ; Badminton              ; 2-7; Colo Colo
 ; Santiago Morning       ; 1-2; Unión Española
 ; Audax Italiano             ; 4-3; Santiago Wanderers
 *Magallanes                      bye
 
-Round: Round 8
+Round: 8
 ; Unión Española         ; 1-2; Colo Colo
 ; Santiago Wanderers     ; 0-1; Badminton
 ; Magallanes                 ; 5-6; Santiago Morning
 *Audax Italiano                  bye
 
-Round: Round 9
+Round: 9
 
 ; Santiago Wanderers     ; 2-1; Unión Española      
 * (win awarded to Unión Española)
@@ -97,34 +97,34 @@ Round: Round 9
 ; Audax Italiano                 ; 5-3; Badminton
 *Santiago Morning                bye
 
-Round: Round 10
+Round: 10
 ; Magallanes             ; 5-2; Santiago Wanderers
 ; Audax Italiano             ; 2-1; Unión Española  
 * (win awarded to Unión Española)
 ; Santiago Morning           ; 3-3; Colo Colo
 *Badminton                       bye
 
-Round: Round 11
+Round: 11
 ; Audax Italiano         ; 1-1; Magallanes
 ; Santiago Morning       ; 4-0; Santiago Wanderers
 ; Badminton                  ; 3-4; Unión Española
 *Colo Colo                       bye
 
-Round: Round 12
+Round: 12
 ; Santiago Morning       ; 2-5; Audax Italiano
 ; Badminton                  ; 6-6; Magallanes              
 * (win awarded to Magallanes)
 ; Colo Colo                      ; 5-0; Santiago Wanderers
 *Unión Española                      bye
 
-Round: Round 13
+Round: 13
 ; Badminton              ; 1-5; Santiago Morning
 ; Colo Colo                  ; 7-2; Audax Italiano
 ; Unión Española                 ; 1-1; Magallanes          
 * (win awarded to Magallanes)
 *Santiago Wanderers              bye
 
-Round: Round 14
+Round: 14
 ; Colo Colo              ; 3-3; Badminton
 ; Unión Española             ; 3-1; Santiago Morning
 ; Santiago Wanderers         ; 0-1; Audax Italiano

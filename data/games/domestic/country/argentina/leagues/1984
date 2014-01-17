@@ -1,7 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg84.html
 
-Argentina 1984
-Campeonato Nacional 1984 (Nacional Championship)
+Season: 1984
+Competition: Campeonato Nacional
 
  
 Group: A                         
@@ -99,7 +99,7 @@ Round: 5
 Date: 3/18/1984
 
 ; Gimnasia y Esgrima(Mza); 1-1;       San Lorenzo                  ; Malvinas Argentinas
-; Unión(Gral.Pinedo)     ; 1-1;       Temperley                                  Chaco For Ever
+; Unión(Gral.Pinedo)     ; 1-1;       Temperley                              ;    Chaco For Ever
  
 Round: 6
 Date: 3/25/1984
@@ -108,7 +108,7 @@ Date: 3/25/1984
 ; Temperley              ; 1-1;       San Lorenzo                                ; Banfield
  
  
-Group: KBGroup B
+Group: Group B
 
 * 1. San Lorenzo                       6   3   3   0    2  1  0   1  2  0   14  8   9   [Qualified]
 * 2. Gimnasia y Esgrima (Mendoza)      6   0   5   1    0  3  0   0  2  1   10 11   5   [Qualified]
@@ -455,7 +455,8 @@ Date: 4/5/1984
 *2nd. leg:
 Date: 4/7/1984
 
-; Atlético Tucumán       ; 0-0;       Belgrano (Cba.)               [Suspended in 64'; not continued]
+; Atlético Tucumán       ; 0-0;       Belgrano (Cba.)               
+*[Suspended in 64'; not continued]
 
 Date: 4/10/1984
 
@@ -535,8 +536,7 @@ Round: Final
 
 
  
-Campeonato Metropolitano 1984 (Metropolitano Championship)
-
+Competition: Campeonato Metropolitano
  
 
 *                                                         Home      Away
@@ -996,17 +996,20 @@ Date: 10/28/1984
 Round: 30
 Date: 11/2/1984
 
-; Unión (Sta. Fe)        ; 0-1;     San Lorenzo                     [Suspended in 89'; not continued]
+; Unión (Sta. Fe)        ; 0-1;     San Lorenzo                     
+*[Suspended in 89'; not continued]
 ; Newell's Old Boys      ; 2-1;     Talleres (Cba.)
 
 Date: 11/3/1984
 
 ; Huracán                                ; 1-2;     Instituto (Cba.)
-; Atlanta                                                  ; 0-3;   Rosario Central                 [Suspended in 57'; not continued]
+; Atlanta                                                  ; 0-3;   Rosario Central                 
+*[Suspended in 57'; not continued]
 ; Vélez Sarsfield                                                ; 4-0;     Independiente
 ; River Plate                                                            ; 2-1;     Estudiantes (LP)
 ; Argentinos Juniors                                                     ; 0-2;     Ferro Carril Oeste
-; Chacarita Juniors                                                      ; 0-0;     Boca Juniors            [Suspended in 65'; continued Nov 28]
+; Chacarita Juniors                                                      ; 0-0;     Boca Juniors            
+*[Suspended in 65'; continued Nov 28]
 ; Temperley                                                              ; 0-1;     Platense
 
 Date: 11/28/1984

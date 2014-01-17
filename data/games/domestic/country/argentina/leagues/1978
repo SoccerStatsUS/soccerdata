@@ -1,7 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg78.html
 
-Argentina 1978
-Campeonato Metropolitano 1978 (Metropolitano Championship)
+Competition: Campeonato Metropolitano
+Season: 1978
 
  
 * 1. Quilmes                          40  22  10   8   15  4  1   7  6  7   53 41   54   [Champion]               
@@ -28,643 +28,750 @@ Campeonato Metropolitano 1978 (Metropolitano Championship)
 *20. Banfield                         40   7  15  18    3  9  8   4  6 10   43 66   29   [Relegated]
 *21. Estudiantes (Bs.As.)             40   8  13  19    5  8  7   3  5 12   43 73   29   [Relegated]
  
-Round: Round 1
-[Mar 3]
-All Boys                1-1     Huracán                         [at San Lorenzo]
-[Mar 5]
-Chacarita Juniors       1-1     Banfield
-Rosario Central                 0-0     Platense                        [at Newell's Old Boys]
-San Lorenzo                             1-2                             Quilmes
-Unión (Sta. Fe)                                                         2-1     Independiente
-Gimnasia y Esgrima (LP)                                                 1-0     Estudiantes (LP)
-Racing Club                                                             2-1     Colón (Sta. Fe)
-River Plate                                                                     2-1   Argentinos Juniors                [at Huracán]
-Boca Juniors                                                                          0-0        Vélez Sarsfield
-Atlanta                                                                                                2-2      Newell's Old Boys
-Estudiantes (Bs.As.)                                                                                   bye
+Round: 1
+Date: 3/3/1978
+
+; All Boys               ; 1-1;     Huracán                         ; San Lorenzo
+
+Date: 3/5/1978
+
+; Chacarita Juniors      ; 1-1;     Banfield
+; Rosario Central                ; 0-0;     Platense                        ; Newell's Old Boys
+; San Lorenzo                            ; 1-2;                             Quilmes
+; Unión (Sta. Fe)                                                        ; 2-1;     Independiente
+; Gimnasia y Esgrima (LP)                                                ; 1-0;     Estudiantes (LP)
+; Racing Club                                                            ; 2-1;     Colón (Sta. Fe)
+; River Plate                                                                    ; 2-1;   Argentinos Juniors                ; Huracán
+; Boca Juniors                                                                         ; 0-0;        Vélez Sarsfield
+; Atlanta                                                                                               ; 2-2;      Newell's Old Boys
+*Estudiantes (Bs.As.)                                                                                   bye
  
-Round: Round 2 
-[Mar 12]
-Newell's Old Boys       1-1     Estudiantes (Bs.As.)
-Vélez Sarsfield                 1-0         Atlanta                             [at San Lorenzo]
-Argentinos Juniors              1-0         Boca Juniors                                [at Atlanta]
-Colón (Sta. Fe)                             5-2  River Plate
-Estudiantes (LP)                            0-1  Racing Club
-Independiente                                    1-2    Gimnasia y Esgrima (LP)
-Huracán                                                          3-1       Unión (Sta. Fe)
-Quilmes                                                                          1-0   All Boys
-Platense                                                                               2-4 San Lorenzo                  [at Atlanta]
-Banfield                                                                                   2-2 Rosario Central
-Chacarita Juniors                                                                          bye
+Round: 2 
+Date: 3/12/1978
+
+; Newell's Old Boys      ; 1-1;     Estudiantes (Bs.As.)
+; Vélez Sarsfield                ; 1-0;         Atlanta                             ; San Lorenzo
+; Argentinos Juniors             ; 1-0;         Boca Juniors                                ; Atlanta
+; Colón (Sta. Fe)                            ; 5-2;  River Plate
+; Estudiantes (LP)                           ; 0-1;  Racing Club
+; Independiente                                   ; 1-2;    Gimnasia y Esgrima (LP)
+; Huracán                                                         ; 3-1;       Unión (Sta. Fe)
+; Quilmes                                                                         ; 1-0;   All Boys
+; Platense                                                                              ; 2-4; San Lorenzo                  ; Atlanta
+; Banfield                                                                                  ; 2-2; Rosario Central
+*Chacarita Juniors                                                                          bye
  
-Round: Round 3
-[Mar 14]
-All Boys                0-1     Platense                        [at San Lorenzo]
-[Mar 15]
-Rosario Central         4-0     Chacarita Juniors               [at Newell's Old Boys]
-[Mar 16]
-San Lorenzo             1-2     Banfield
-Unión (Sta. Fe)                 3-1     Quilmes
-Gimnasia y Esgrima (LP)         1-1     Huracán
-Racing Club                     3-2     Independiente
-River Plate                             3-1     Estudiantes (LP)                [at Huracán]
-Boca Juniors                                    1-0         Colón (Sta. Fe)
-Atlanta                                                           2-5   Argentinos Juniors
-Estudiantes (Bs.As.)                                              1-1   Vélez Sarsfield                 [at Chacarita Juniors]
-Newell's Old Boys                                                 bye
+Round: 3
+Date: 3/14/1978
+
+; All Boys               ; 0-1;     Platense                        ; San Lorenzo
+
+Date: 3/15/1978
+
+; Rosario Central        ; 4-0;     Chacarita Juniors               ; Newell's Old Boys
+
+Date: 3/16/1978
+
+; San Lorenzo            ; 1-2;     Banfield
+; Unión (Sta. Fe)                ; 3-1;     Quilmes
+; Gimnasia y Esgrima (LP)        ; 1-1;     Huracán
+; Racing Club                    ; 3-2;     Independiente
+; River Plate                            ; 3-1;     Estudiantes (LP)                ; Huracán
+; Boca Juniors                                   ; 1-0;         Colón (Sta. Fe)
+; Atlanta                                                          ; 2-5;   Argentinos Juniors
+; Estudiantes (Bs.As.)                                             ; 1-1;   Vélez Sarsfield                 ; Chacarita Juniors
+*Newell's Old Boys                                                 bye
  
-Round: Round 4 
-[Mar 20]
-Vélez Sarsfield         1-1     Newell's Old Boys               [at San Lorenzo]
-Argentinos Juniors      3-4     Estudiantes (Bs.As.)
-Colón (Sta. Fe)                 1-1         Atlanta
-Estudiantes (LP)                0-1         Boca Juniors
-Independiente                               4-3  River Plate
-Huracán                                                0-0      Racing Club
-Quilmes                                                                0-0      Gimnasia y Esgrima (LP)
-Platense                                                                        3-3      Unión (Sta. Fe)                 [at Atlanta]
-Banfield                                                                                 2-2   All Boys
-Chacarita Juniors                                                                        1-1   San Lorenzo
-Rosario Central                                                                                bye
+Round: 4 
+Date: 3/20/1978
+
+; Vélez Sarsfield        ; 1-1;     Newell's Old Boys               ; San Lorenzo
+; Argentinos Juniors     ; 3-4;     Estudiantes (Bs.As.)
+; Colón (Sta. Fe)                ; 1-1;         Atlanta
+; Estudiantes (LP)               ; 0-1;         Boca Juniors
+; Independiente                              ; 4-3;  River Plate
+; Huracán                                               ; 0-0;      Racing Club
+; Quilmes                                                               ; 0-0;      Gimnasia y Esgrima (LP)
+; Platense                                                                       ; 3-3;      Unión (Sta. Fe)                 ; Atlanta
+; Banfield                                                                                ; 2-2;   All Boys
+; Chacarita Juniors                                                                       ; 1-1;   San Lorenzo
+*Rosario Central                                                                                bye
  
-Round: Round 5 
-[Mar 22]
-San Lorenzo             0-0     Rosario Central
-[Mar 23]
-All Boys                1-0     Chacarita Juniors
-Unión (Sta. Fe)                 4-1       Banfield
-Gimnasia y Esgrima (LP)         0-0       Platense
-Racing Club                     4-1       Quilmes
-River Plate                               3-2   Huracán                         [at Huracán]
-Boca Juniors                                    1-1                             Independiente
-Atlanta                                                                                 0-4     Estudiantes (LP)
-Estudiantes (Bs.As.)                                                                    2-2     Colón (Sta. Fe)          [at Chacarita Juniors]
-Newell's Old Boys                                                                       3-0     Argentinos Juniors
-Vélez Sarsfield                                                                                 bye
+Round: 5 
+Date: 3/22/1978
+
+; San Lorenzo            ; 0-0;     Rosario Central
+
+Date: 3/23/1978
+
+; All Boys               ; 1-0;     Chacarita Juniors
+; Unión (Sta. Fe)                ; 4-1;       Banfield
+; Gimnasia y Esgrima (LP)        ; 0-0;       Platense
+; Racing Club                    ; 4-1;       Quilmes
+; River Plate                              ; 3-2;   Huracán                         ; Huracán
+; Boca Juniors                                   ; 1-1;                             Independiente
+; Atlanta                                                                                ; 0-4;     Estudiantes (LP)
+; Estudiantes (Bs.As.)                                                                   ; 2-2;     Colón (Sta. Fe)          ; Chacarita Juniors
+; Newell's Old Boys                                                                      ; 3-0;     Argentinos Juniors
+*Vélez Sarsfield                                                                                 bye
  
-Round: Round 6
-[Mar 25]
-Platense                3-2     Racing Club                     [at Atlanta]
-[Mar 26]
-Argentinos Juniors      1-1     Vélez Sarsfield
-Colón (Sta. Fe)                 1-5   Newell's Old Boys
-Estudiantes (LP)                3-1   Estudiantes (Bs.As.)
-Independiente                         6-1         Atlanta
-Huracán                                                 3-1     Boca Juniors
-Quilmes                                                              1-1        River Plate
-Banfield                                                                        1-1   Gimnasia y Esgrima (LP)
-Chacarita Juniors                                                               0-0   Unión (Sta. Fe)
-Rosario Central                                                                       2-1   All Boys                    [at Newell's Old Boys]
-San Lorenzo                                                                                 bye
+Round: 6
+Date: 3/25/1978
+
+; Platense               ; 3-2;     Racing Club                     ; Atlanta
+
+Date: 3/26/1978
+
+; Argentinos Juniors     ; 1-1;     Vélez Sarsfield
+; Colón (Sta. Fe)                ; 1-5;   Newell's Old Boys
+; Estudiantes (LP)               ; 3-1;   Estudiantes (Bs.As.)
+; Independiente                        ; 6-1;         Atlanta
+; Huracán                                                ; 3-1;     Boca Juniors
+; Quilmes                                                             ; 1-1;        River Plate
+; Banfield                                                                       ; 1-1;   Gimnasia y Esgrima (LP)
+; Chacarita Juniors                                                              ; 0-0;   Unión (Sta. Fe)
+; Rosario Central                                                                      ; 2-1;   All Boys                    ; Newell's Old Boys
+*San Lorenzo                                                                                 bye
  
-Round: Round 7 
-[Mar 31]
-Estudiantes (Bs.As.)    0-4     Independiente                   [at Chacarita Juniors]
-[Apr 2]
-All Boys                1-0     San Lorenzo
-Unión (Sta. Fe)                 1-0 Rosario Central
-Gimnasia y Esgrima (LP)         1-0 Chacarita Juniors
-Racing Club                     4-1 Banfield
-River Plate                         4-1 Platense                        [at Huracán]
-Boca Juniors                            2-1                             Quilmes
-Atlanta                                                                         3-0     Huracán
-Newell's Old Boys                                                               1-0     Estudiantes (LP)
-Vélez Sarsfield                                                                         0-2         Colón (Sta. Fe)       [at San Lorenzo]
-Argentinos Juniors                                                                      bye
+Round: 7 
+Date: 3/31/1978
+
+; Estudiantes (Bs.As.)   ; 0-4;     Independiente                   ; Chacarita Juniors
+
+Date: 4/2/1978
+
+; All Boys               ; 1-0;     San Lorenzo
+; Unión (Sta. Fe)                ; 1-0; Rosario Central
+; Gimnasia y Esgrima (LP)        ; 1-0; Chacarita Juniors
+; Racing Club                    ; 4-1; Banfield
+; River Plate                        ; 4-1; Platense                        ; Huracán
+; Boca Juniors                           ; 2-1;                             Quilmes
+; Atlanta                                                                        ; 3-0;     Huracán
+; Newell's Old Boys                                                              ; 1-0;     Estudiantes (LP)
+; Vélez Sarsfield                                                                        ; 0-2;         Colón (Sta. Fe)       ; San Lorenzo
+*Argentinos Juniors                                                                      bye
  
-Round: Round 8
-[Apr 7]
-Platense                2-3     Boca Juniors                    [at Atlanta]
-[Apr 9]
-Colón (Sta. Fe)         3-1     Argentinos Juniors
-Estudiantes (LP)        1-1     Vélez Sarsfield
-Independiente                   0-0   Newell's Old Boys
-Huracán                                        2-1 Estudiantes (Bs.As.)
-Quilmes                                                        3-2      Atlanta
-Banfield                                                                1-2     River Plate
-Chacarita Juniors                                                       0-1     Racing Club
-Rosario Central                                                                 1-0    Gimnasia y Esgrima (LP)          [at Newell's Old Boys]
-San Lorenzo                                                                            0-2      Unión (Sta. Fe)
-All Boys                                                                                        bye
+Round: 8
+Date: 4/7/1978
+
+; Platense               ; 2-3;     Boca Juniors                    ; Atlanta
+
+Date: 4/9/1978
+
+; Colón (Sta. Fe)        ; 3-1;     Argentinos Juniors
+; Estudiantes (LP)       ; 1-1;     Vélez Sarsfield
+; Independiente                  ; 0-0;   Newell's Old Boys
+; Huracán                                       ; 2-1; Estudiantes (Bs.As.)
+; Quilmes                                                       ; 3-2;      Atlanta
+; Banfield                                                               ; 1-2;     River Plate
+; Chacarita Juniors                                                      ; 0-1;     Racing Club
+; Rosario Central                                                                ; 1-0;    Gimnasia y Esgrima (LP)          ; Newell's Old Boys
+; San Lorenzo                                                                           ; 0-2;      Unión (Sta. Fe)
+*All Boys                                                                                        bye
  
-Round: Round 9
-[Apr 14]
-River Plate             4-1     Chacarita Juniors               [at Huracán]
-[Apr 16]
-Unión (Sta. Fe)         2-0     All Boys
-Gimnasia y Esgrima (LP) 0-0     San Lorenzo
-Racing Club             0-0     Rosario Central
-Boca Juniors                    0-3     Banfield
-Atlanta                                         4-0     Platense
-Estudiantes (Bs.As.)                            2-1     Quilmes                         [at Chacarita Juniors]
-Newell's Old Boys                               1-1     Huracán
-Vélez Sarsfield                                         2-4     Independiente                   [at San Lorenzo]
-Argentinos Juniors                                      1-0     Estudiantes (LP)
-Colón (Sta. Fe)                                                 bye
+Round: 9
+Date: 4/14/1978
+
+; River Plate            ; 4-1;     Chacarita Juniors               ; Huracán
+
+Date: 4/16/1978
+
+; Unión (Sta. Fe)        ; 2-0;     All Boys
+; Gimnasia y Esgrima (LP); 0-0;     San Lorenzo
+; Racing Club            ; 0-0;     Rosario Central
+; Boca Juniors                   ; 0-3;     Banfield
+; Atlanta                                        ; 4-0;     Platense
+; Estudiantes (Bs.As.)                           ; 2-1;     Quilmes                         ; Chacarita Juniors
+; Newell's Old Boys                              ; 1-1;     Huracán
+; Vélez Sarsfield                                        ; 2-4;     Independiente                   ; San Lorenzo
+; Argentinos Juniors                                     ; 1-0;     Estudiantes (LP)
+*Colón (Sta. Fe)                                                 bye
  
-Round: Round 10
-[Apr 21]
-Quilmes                 2-1     Newell's Old Boys
-[Apr 23]
-Estudiantes (LP)        1-2     Colón (Sta. Fe)
-Independiente                   1-3   Argentinos Juniors
-Huracán                                          0-1    Vélez Sarsfield
-Platense                                                1-1   Estudiantes (Bs.As.)              [at Atlanta]
-Banfield                                                      0-3         Atlanta
-Chacarita Juniors                                             0-1         Boca Juniors
-Rosario Central                                                           0-0  River Plate                      [at Newell's Old Boys]
-San Lorenzo                                                                    2-1   Racing Club
-All Boys                                                                             0-1    Gimnasia y Esgrima (LP)
-Unión (Sta. Fe)                                                                             bye
+Round: 10
+Date: 4/21/1978
+
+; Quilmes                ; 2-1;     Newell's Old Boys
+
+Date: 4/23/1978
+
+; Estudiantes (LP)       ; 1-2;     Colón (Sta. Fe)
+; Independiente                  ; 1-3;   Argentinos Juniors
+; Huracán                                         ; 0-1;    Vélez Sarsfield
+; Platense                                               ; 1-1;   Estudiantes (Bs.As.)              ; Atlanta
+; Banfield                                                     ; 0-3;         Atlanta
+; Chacarita Juniors                                            ; 0-1;         Boca Juniors
+; Rosario Central                                                          ; 0-0;  River Plate                      ; Newell's Old Boys
+; San Lorenzo                                                                   ; 2-1;   Racing Club
+; All Boys                                                                            ; 0-1;    Gimnasia y Esgrima (LP)
+*Unión (Sta. Fe)                                                                             bye
  
-Round: Round 11
-[Apr 26]
-Gimnasia y Esgrima (LP) 1-0     Unión (Sta. Fe)
-Racing Club             0-1     All Boys
-River Plate                     2-0 San Lorenzo                 [at Huracán]
-Boca Juniors                        2-1 Rosario Central
-Atlanta                                         0-0     Chacarita Juniors
-Estudiantes (Bs.As.)                            1-1     Banfield                [at Chacarita Juniors]
-Newell's Old Boys                               2-0     Platense
-Vélez Sarsfield                                         1-2     Quilmes                         [at San Lorenzo]
-Argentinos Juniors                                      0-0     Huracán                                         [at Atlanta]
-Colón (Sta. Fe)                                                 1-2                                             Independiente
-Estudiantes (LP)                                                bye
+Round: 11
+Date: 4/26/1978
+
+; Gimnasia y Esgrima (LP); 1-0;     Unión (Sta. Fe)
+; Racing Club            ; 0-1;     All Boys
+; River Plate                    ; 2-0; San Lorenzo                 ; Huracán
+; Boca Juniors                       ; 2-1; Rosario Central
+; Atlanta                                        ; 0-0;     Chacarita Juniors
+; Estudiantes (Bs.As.)                           ; 1-1;     Banfield                ; Chacarita Juniors
+; Newell's Old Boys                              ; 2-0;     Platense
+; Vélez Sarsfield                                        ; 1-2;     Quilmes                         ; San Lorenzo
+; Argentinos Juniors                                     ; 0-0;     Huracán                                         ; Atlanta
+; Colón (Sta. Fe)                                                ; 1-2;                                             Independiente
+*Estudiantes (LP)                                                bye
  
-Round: Round 12
-[Apr 30]
-Independiente           1-1     Estudiantes (LP)
-Huracán                                     1-2 Colón (Sta. Fe)
-Quilmes                                               2-0   Argentinos Juniors
-Platense                                                    1-1        Vélez Sarsfield                  [at Atlanta]
-Banfield                                                               1-1   Newell's Old Boys
-Chacarita Juniors                                                      3-1   Estudiantes (Bs.As.)
-Rosario Central                                                              0-0         Atlanta                         [at Newell's Old Boys]
-San Lorenzo                                                                              3-3                             Boca Juniors
-All Boys                                                                                                                 2-5  River Plate   [at Ferro Carril Oeste]
-Unión (Sta. Fe)                                                                                                               3-4   Racing Club
-Gimnasia y Esgrima (LP)                                                                                                       bye
+Round: 12
+Date: 4/30/1978
+
+; Independiente          ; 1-1;     Estudiantes (LP)
+; Huracán                                    ; 1-2; Colón (Sta. Fe)
+; Quilmes                                              ; 2-0;   Argentinos Juniors
+; Platense                                                   ; 1-1;        Vélez Sarsfield                  ; Atlanta
+; Banfield                                                              ; 1-1;   Newell's Old Boys
+; Chacarita Juniors                                                     ; 3-1;   Estudiantes (Bs.As.)
+; Rosario Central                                                             ; 0-0;         Atlanta                         ; Newell's Old Boys
+; San Lorenzo                                                                             ; 3-3;                             Boca Juniors
+; All Boys                                                                                                                ; 2-5;  River Plate   ; Ferro Carril Oeste
+; Unión (Sta. Fe)                                                                                                              ; 3-4;   Racing Club
+*Gimnasia y Esgrima (LP)                                                                                                       bye
  
-Round: Round 13
-[May 5]
-Atlanta                 0-1     San Lorenzo
-[May 7]
-Racing Club             2-2     Gimnasia y Esgrima (LP)
-River Plate                     0-0      Unión (Sta. Fe)                        [at Huracán]
-Boca Juniors                             3-0   All Boys
-Estudiantes (Bs.As.)                     2-0   Rosario Central                  [at Chacarita Juniors]
-Newell's Old Boys                        4-0   Chacarita Juniors
-Vélez Sarsfield                                1-1       Banfield                       [at San Lorenzo]
-Argentinos Juniors                             1-2       Platense
-Colón (Sta. Fe)                                          3-3    Quilmes
-Estudiantes (LP)                                         3-2    Huracán
-Independiente                                                   bye
+Round: 13
+Date: 5/5/1978
+
+; Atlanta                ; 0-1;     San Lorenzo
+
+Date: 5/7/1978
+
+; Racing Club            ; 2-2;     Gimnasia y Esgrima (LP)
+; River Plate                    ; 0-0;      Unión (Sta. Fe)                        ; Huracán
+; Boca Juniors                            ; 3-0;   All Boys
+; Estudiantes (Bs.As.)                    ; 2-0;   Rosario Central                  ; Chacarita Juniors
+; Newell's Old Boys                       ; 4-0;   Chacarita Juniors
+; Vélez Sarsfield                               ; 1-1;       Banfield                       ; San Lorenzo
+; Argentinos Juniors                            ; 1-2;       Platense
+; Colón (Sta. Fe)                                         ; 3-3;    Quilmes
+; Estudiantes (LP)                                        ; 3-2;    Huracán
+*Independiente                                                   bye
  
-Round: Round 14
-[May 12]
-Chacarita Juniors       0-1     Vélez Sarsfield
-[May 14]
-Huracán                 1-0     Independiente
-Quilmes                                 1-0     Estudiantes (LP)
-Platense                                        1-3         Colón (Sta. Fe)                     [at Atlanta]
-Banfield                                                    2-2   Argentinos Juniors
-Rosario Central                                                   3-1        Newell's Old Boys          [at Newell's Old Boys]
-San Lorenzo                                                                  1-0      Estudiantes (Bs.As.)
-All Boys                                                                              0-0         Atlanta
-Unión (Sta. Fe)                                                                                   0-1   Boca Juniors
-Gimnasia y Esgrima (LP)                                                                           2-1   River Plate
-Racing Club                                                                                       bye
+Round: 14
+Date: 5/12/1978
+
+; Chacarita Juniors      ; 0-1;     Vélez Sarsfield
+
+Date: 5/14/1978
+
+; Huracán                ; 1-0;     Independiente
+; Quilmes                                ; 1-0;     Estudiantes (LP)
+; Platense                                       ; 1-3;         Colón (Sta. Fe)                     ; Atlanta
+; Banfield                                                   ; 2-2;   Argentinos Juniors
+; Rosario Central                                                  ; 3-1;        Newell's Old Boys          ; Newell's Old Boys
+; San Lorenzo                                                                 ; 1-0;      Estudiantes (Bs.As.)
+; All Boys                                                                             ; 0-0;         Atlanta
+; Unión (Sta. Fe)                                                                                  ; 0-1;   Boca Juniors
+; Gimnasia y Esgrima (LP)                                                                          ; 2-1;   River Plate
+*Racing Club                                                                                       bye
  
-Round: Round 15
-[May 19]
-Independiente           1-1     Quilmes
-[May 21]
-River Plate             0-0     Racing Club                     [at Huracán]
-Boca Juniors                    2-1    Gimnasia y Esgrima (LP)
-Atlanta                                         2-1       Unión (Sta. Fe)
-Estudiantes (Bs.As.)                            1-1       All Boys              [at Chacarita Juniors]
-Newell's Old Boys                               4-0       San Lorenzo
-Vélez Sarsfield                                           0-0 Rosario Central                   [at San Lorenzo]
-Argentinos Juniors                                        5-0 Chacarita Juniors
-Colón (Sta. Fe)                                               4-1       Banfield
-Estudiantes (LP)                                              1-1       Platense
-Huracán                                                                 bye
+Round: 15
+Date: 5/19/1978
+
+; Independiente          ; 1-1;     Quilmes
+
+Date: 5/21/1978
+
+; River Plate            ; 0-0;     Racing Club                     ; Huracán
+; Boca Juniors                   ; 2-1;    Gimnasia y Esgrima (LP)
+; Atlanta                                        ; 2-1;       Unión (Sta. Fe)
+; Estudiantes (Bs.As.)                           ; 1-1;       All Boys              ; Chacarita Juniors
+; Newell's Old Boys                              ; 4-0;       San Lorenzo
+; Vélez Sarsfield                                          ; 0-0; Rosario Central                   ; San Lorenzo
+; Argentinos Juniors                                       ; 5-0; Chacarita Juniors
+; Colón (Sta. Fe)                                              ; 4-1;       Banfield
+; Estudiantes (LP)                                             ; 1-1;       Platense
+*Huracán                                                                 bye
  
-Round: Round 16
-[Jul 2]
-Quilmes                 1-0     Huracán
-Platense                        1-2     Independiente                   [at Atlanta]
-Banfield                                1-1                             Estudiantes (LP)
-Chacarita Juniors                       1-1                             Colón (Sta. Fe)
-Rosario Central                                                         0-0   Argentinos Juniors                [at Newell's Old Boys]
-San Lorenzo                                                                   0-1        Vélez Sarsfield
-All Boys                                                                                 0-0   Newell's Old Boys
-Unión (Sta. Fe)                                                                                2-1      Estudiantes (Bs.As.)
-Gimnasia y Esgrima (LP)                                                                        3-3      Atlanta
-Racing Club                                                                                    1-2      Boca Juniors
-River Plate                                                                                             bye
+Round: 16
+Date: 7/2/1978
+
+; Quilmes                ; 1-0;     Huracán
+; Platense                       ; 1-2;     Independiente                   ; Atlanta
+; Banfield                               ; 1-1;                             Estudiantes (LP)
+; Chacarita Juniors                      ; 1-1;                             Colón (Sta. Fe)
+; Rosario Central                                                        ; 0-0;   Argentinos Juniors                ; Newell's Old Boys
+; San Lorenzo                                                                  ; 0-1;        Vélez Sarsfield
+; All Boys                                                                                ; 0-0;   Newell's Old Boys
+; Unión (Sta. Fe)                                                                               ; 2-1;      Estudiantes (Bs.As.)
+; Gimnasia y Esgrima (LP)                                                                       ; 3-3;      Atlanta
+; Racing Club                                                                                   ; 1-2;      Boca Juniors
+*River Plate                                                                                             bye
  
-Round: Round 17
-[Jul 7]
-Argentinos Juniors      1-1     San Lorenzo                     [at Atlanta]
-[Jul 9]
-Colón (Sta. Fe)         0-0     Rosario Central
-[Jul 10]
-Newell's Old Boys       0-0     Unión (Sta. Fe)
-[Jul 12]
-Boca Juniors            1-0     River Plate
-Atlanta                               1-1       Racing Club
-Estudiantes (Bs.As.)                  0-0       Gimnasia y Esgrima (LP)         [at Chacarita Juniors]
-Vélez Sarsfield                                 3-0      All Boys                   [at San Lorenzo]
-Estudiantes (LP)                                4-0      Chacarita Juniors
-Independiente                                            2-3       Banfield                     [at Racing Club]
-Huracán                                                                                         2-1 Platense
-Quilmes                                                                                                 bye
+Round: 17
+Date: 7/7/1978
+
+; Argentinos Juniors     ; 1-1;     San Lorenzo                     ; Atlanta
+
+Date: 7/9/1978
+
+; Colón (Sta. Fe)        ; 0-0;     Rosario Central
+
+Date: 7/10/1978
+
+; Newell's Old Boys      ; 0-0;     Unión (Sta. Fe)
+
+Date: 7/12/1978
+
+; Boca Juniors           ; 1-0;     River Plate
+; Atlanta                              ; 1-1;       Racing Club
+; Estudiantes (Bs.As.)                 ; 0-0;       Gimnasia y Esgrima (LP)         ; Chacarita Juniors
+; Vélez Sarsfield                                ; 3-0;      All Boys                   ; San Lorenzo
+; Estudiantes (LP)                               ; 4-0;      Chacarita Juniors
+; Independiente                                           ; 2-3;       Banfield                     ; Racing Club
+; Huracán                                                                                        ; 2-1; Platense
+*Quilmes                                                                                                 bye
  
-Round: Round 18
-[Jul 14]
-Banfield                0-0     Huracán
-[Jul 16]
-Platense                1-1     Quilmes                         [at Atlanta]
-Chacarita Juniors       3-2     Independiente
-Rosario Central                 1-1     Estudiantes (LP)                [at Newell's Old Boys]
-San Lorenzo                             2-1         Colón (Sta. Fe)
-All Boys                                            1-1   Argentinos Juniors
-Unión (Sta. Fe)                                           0-0        Vélez Sarsfield
-Gimnasia y Esgrima (LP)                                   1-3        Newell's Old Boys
-Racing Club                                               5-2        Estudiantes (Bs.As.)
-River Plate                                                          2-2         Atlanta                                [at Huracán]
-Boca Juniors
+Round: 18
+Date: 7/14/1978
+
+; Banfield               ; 0-0;     Huracán
+
+Date: 7/16/1978
+
+; Platense               ; 1-1;     Quilmes                         ; Atlanta
+; Chacarita Juniors      ; 3-2;     Independiente
+; Rosario Central                ; 1-1;     Estudiantes (LP)                ; Newell's Old Boys
+; San Lorenzo                            ; 2-1;         Colón (Sta. Fe)
+; All Boys                                           ; 1-1;   Argentinos Juniors
+; Unión (Sta. Fe)                                          ; 0-0;        Vélez Sarsfield
+; Gimnasia y Esgrima (LP)                                  ; 1-3;        Newell's Old Boys
+; Racing Club                                              ; 5-2;        Estudiantes (Bs.As.)
+; River Plate                                                         ; 2-2;         Atlanta                                ; Huracán
+*Boca Juniors
  
-Round: Round 19
-[Jul 21]
-Vélez Sarsfield         0-1     Gimnasia y Esgrima (LP)         [at San Lorenzo]
-[Jul 23]
-Atlanta                 1-1     Boca Juniors
-Estudiantes (Bs.As.)    1-0     River Plate                     [at Chacarita Juniors]
-Newell's Old Boys       2-2     Racing Club
-Argentinos Juniors      5-2     Unión (Sta. Fe)
-Colón (Sta. Fe)                 2-0   All Boys
-Estudiantes (LP)                2-0   San Lorenzo
-Independiente                         1-0 Rosario Central
-Huracán                                           4-1   Chacarita Juniors
-Quilmes                                                           1-0   Banfield
-Platense                                                                bye
+Round: 19
+Date: 7/21/1978
+
+; Vélez Sarsfield        ; 0-1;     Gimnasia y Esgrima (LP)         ; San Lorenzo
+
+Date: 7/23/1978
+
+; Atlanta                ; 1-1;     Boca Juniors
+; Estudiantes (Bs.As.)   ; 1-0;     River Plate                     ; Chacarita Juniors
+; Newell's Old Boys      ; 2-2;     Racing Club
+; Argentinos Juniors     ; 5-2;     Unión (Sta. Fe)
+; Colón (Sta. Fe)                ; 2-0;   All Boys
+; Estudiantes (LP)               ; 2-0;   San Lorenzo
+; Independiente                        ; 1-0; Rosario Central
+; Huracán                                          ; 4-1;   Chacarita Juniors
+; Quilmes                                                          ; 1-0;   Banfield
+*Platense                                                                bye
  
-Round: Round 20
-[Jul 28]
-Boca Juniors            4-0     Estudiantes (Bs.As.)
-[Jul 30]
-Banfield                1-0     Platense
-Chacarita Juniors       2-3     Quilmes
-Rosario Central                 2-0     Huracán                         [at Newell's Old Boys]
-San Lorenzo                             3-2                             Independiente
-All Boys                                                                1-2     Estudiantes (LP)
-Unión (Sta. Fe)                                                                 1-1         Colón (Sta. Fe)
-Gimnasia y Esgrima (LP)                                                         1-0         Argentinos Juniors
-Racing Club                                                                     3-1         Vélez Sarsfield
-River Plate                                                                                 1-1   Newell's Old Boys      [at Huracán]
-Atlanta                                                                                                    bye
+Round: 20
+Date: 7/28/1978
+
+; Boca Juniors           ; 4-0;     Estudiantes (Bs.As.)
+
+Date: 7/30/1978
+
+; Banfield               ; 1-0;     Platense
+; Chacarita Juniors      ; 2-3;     Quilmes
+; Rosario Central                ; 2-0;     Huracán                         ; Newell's Old Boys
+; San Lorenzo                            ; 3-2;                             Independiente
+; All Boys                                                               ; 1-2;     Estudiantes (LP)
+; Unión (Sta. Fe)                                                                ; 1-1;         Colón (Sta. Fe)
+; Gimnasia y Esgrima (LP)                                                        ; 1-0;         Argentinos Juniors
+; Racing Club                                                                    ; 3-1;         Vélez Sarsfield
+; River Plate                                                                                ; 1-1;   Newell's Old Boys      ; Huracán
+*Atlanta                                                                                                    bye
  
-Round: Round 21
-[Jun 6]
-Newell's Old Boys       1-1     Boca Juniors
-[Aug 4]
-Quilmes                 0-0     Rosario Central
-[Aug 6]
-Platense                1-1     Chacarita Juniors               [at Atlanta]
-[Aug 7]
-Estudiantes (Bs.As.)    2-3     Atlanta                         [at Chacarita Juniors]
-Vélez Sarsfield                 0-0                             River Plate
-Argentinos Juniors              2-4                             Racing Club                     [at Ferro Carril Oeste]
-Colón (Sta. Fe)                                                 0-0    Gimnasia y Esgrima (LP)
-Estudiantes (LP)                                                1-1    Unión (Sta. Fe)
-Independiente                                                          1-1   All Boys
-Huracán                                                                          2-3    San Lorenzo
-Banfield                                                                                bye
+Round: 21
+Date: 6/6/1978
+
+; Newell's Old Boys      ; 1-1;     Boca Juniors
+
+Date: 8/4/1978
+
+; Quilmes                ; 0-0;     Rosario Central
+
+Date: 8/6/1978
+
+; Platense               ; 1-1;     Chacarita Juniors               ; Atlanta
+
+Date: 8/7/1978
+
+; Estudiantes (Bs.As.)   ; 2-3;     Atlanta                         ; Chacarita Juniors
+; Vélez Sarsfield                ; 0-0;                             River Plate
+; Argentinos Juniors             ; 2-4;                             Racing Club                     ; Ferro Carril Oeste
+; Colón (Sta. Fe)                                                ; 0-0;    Gimnasia y Esgrima (LP)
+; Estudiantes (LP)                                               ; 1-1;    Unión (Sta. Fe)
+; Independiente                                                         ; 1-1;   All Boys
+; Huracán                                                                         ; 2-3;    San Lorenzo
+*Banfield                                                                                bye
+ 
+Round: 22
+Date: 8/9/1978
+
+; Banfield               ; 1-2;     Chacarita Juniors
+; Platense                       ; 0-0;       Rosario Central                       ; Atlanta
+; Quilmes                                          ; 0-1;                           San Lorenzo
+; Huracán                                                                            ; 0-1; All Boys
+; Independiente                                                                          ; 2-0; Unión (Sta. Fe)
+; Estudiantes (LP)                                                                       ; 1-1; Gimnasia y Esgrima (LP)
+; Colón (Sta. Fe)                                                                            ; 1-2;      Racing Club
+; Argentinos Juniors                                                                         ; 2-1;      River Plate          ; San Lorenzo
+; Vélez Sarsfield                                                                                     ; 4-0;   Boca Juniors
+; Newell's Old Boys                                                                                   ; 0-0;   Atlanta
+*Estudiantes (Bs.As.)                                                                                 bye
+ 
+Round: 23
+Date: 8/11/1978
+
+; Racing Club            ; 1-0;     Estudiantes (LP)
+
+Date: 8/13/1978
+
+; Estudiantes (Bs.As.)   ; 1-1;     Newell's Old Boys               ; Chacarita Juniors
+; Atlanta                        ; 0-0;      Vélez Sarsfield
+; Boca Juniors                            ; 1-1;   Argentinos Juniors
+; River Plate                                   ; 1-0;        Colón (Sta. Fe)                       ; Huracán
+; Gimnasia y Esgrima (LP)                       ; 1-1;        Independiente
+; Unión (Sta. Fe)                               ; 1-0;        Huracán
+; All Boys                                      ; 3-1;        Quilmes
+; San Lorenzo                                              ; 2-0;   Platense
+; Rosario Central                                                ; 1-1;     Banfield                        ; Newell's Old Boys
+*Chacarita Juniors                                               bye
+ 
+Round: 24
+Date: 8/17/1978
+
+; Chacarita Juniors      ; 2-0;     Rosario Central
+; Banfield               ; 1-1;     San Lorenzo
+; Platense                       ; 0-1; All Boys                    ; Atlanta
+; Quilmes                                ; 1-0;                     Unión (Sta. Fe)
+; Huracán                                                              ; 2-2;   Gimnasia y Esgrima (LP)
+; Independiente                                                              ; 1-0;      Racing Club
+; Estudiantes (LP)                                                           ; 0-0;      River Plate
+; Colón (Sta. Fe)                                                                     ; 2-2;   Boca Juniors
+; Argentinos Juniors                                                                  ; 2-0;   Atlanta
+; Vélez Sarsfield                                                                           ; 0-1;  Estudiantes (Bs.As.)
+*Newell's Old Boys                                                                          bye
+ 
+Round: 25
+Date: 8/19/1978
+
+; San Lorenzo            ; 0-0;     Chacarita Juniors
+
+Date: 8/20/1978
+
+; Newell's Old Boys      ; 3-2;     Vélez Sarsfield
+; Estudiantes (Bs.As.)   ; 0-2;     Argentinos Juniors              ; Chacarita Juniors
+; Atlanta                        ; 3-1;        Colón (Sta. Fe)
+; Boca Juniors                              ; 3-1;   Estudiantes (LP)
+; River Plate                                     ; 1-2;         Independiente                      ; Huracán
+; Racing Club                                                 ; 1-0;                                Huracán
+; Gimnasia y Esgrima (LP)                                     ; 1-1;                                Quilmes
+; Unión (Sta. Fe)                                             ; 3-2;                                Platense
+; All Boys                                                    ; 2-0;                                Banfield
+*Rosario Central                                                                                 bye
+ 
+Round: 26
+Date: 8/27/1978
+
+; Rosario Central        ; 1-0;     San Lorenzo
+; Chacarita Juniors      ; 1-0;     All Boys
+; Banfield               ; 0-1;     Unión (Sta. Fe)
+; Platense                       ; 0-0;   Gimnasia y Esgrima (LP)
+; Quilmes                                       ; 2-0;       Racing Club
+; Huracán                                                        ; 1-1;     River Plate
+; Independiente                                                          ; 1-1;   Boca Juniors
+; Estudiantes (LP)                                                       ; 3-0;   Atlanta
+; Colón (Sta. Fe)                                                              ; 1-0;       Estudiantes (Bs.As.)
+; Argentinos Juniors                                                           ; 0-0;       Newell's Old Boys
+*Vélez Sarsfield                                                                         bye
+ 
+Round: 27
+Date: 8/30/1978
+
+; Vélez Sarsfield        ; 0-2;     Argentinos Juniors
+; Newell's Old Boys      ; 1-2;     Colón (Sta. Fe)
+; Estudiantes (Bs.As.)   ; 1-3;     Estudiantes (LP)                ; Chacarita Juniors
+; Atlanta                        ; 1-1;         Independiente
+; Boca Juniors                               ; 1-0; Huracán
+; River Plate                                    ; 1-1;     Quilmes                         ; Huracán
+; Racing Club                                            ; 3-0;                             Platense
+; Gimnasia y Esgrima (LP)                                ; 2-0;                             Banfield
+; Unión (Sta. Fe)                                        ; 1-0;                             Chacarita Juniors
+; All Boys                                               ; 0-3;                             Rosario Central                 ; San Lorenzo
+*San Lorenzo                                                                             bye
+ 
+Round: 28
+Date: 9/1/1978
+
+; Independiente          ; 2-1;     Estudiantes (Bs.As.)
+
+Date: 9/3/1978
+
+; San Lorenzo            ; 4-2;     All Boys
+; Rosario Central                ; 2-2; Unión (Sta. Fe)
+; Chacarita Juniors              ; 1-0; Gimnasia y Esgrima (LP)             ; Ferro Carril Oeste
+; Banfield                       ; 1-0; Racing Club
+; Platense                           ; 1-0;    River Plate                  ; Atlanta
+; Quilmes                                         ; 0-0;                    Boca Juniors
+; Huracán                                                                     ; 0-0;        Atlanta
+; Estudiantes (LP)                                                            ; 2-0;        Newell's Old Boys
+; Colón (Sta. Fe)                                                                        ; 1-1;      Vélez Sarsfield
+*Argentinos Juniors                                                                      bye
+ 
+Round: 29
+Date: 9/10/1978
+
+; Argentinos Juniors     ; 2-1;     Colón (Sta. Fe)
+; Vélez Sarsfield                ; 1-2;   Estudiantes (LP)
+; Newell's Old Boys              ; 1-1;   Independiente
+; Estudiantes (Bs.As.)           ; 0-5;   Huracán                           ; Chacarita Juniors
+; Atlanta                              ; 0-1;                               Quilmes
+; Boca Juniors                                                           ; 1-1;     Platense
+; River Plate                                                                    ; 0-0;     Banfield
+; Racing Club                                                                            ; 2-2;     Chacarita Juniors
+; Gimnasia y Esgrima (LP)                                                                ; 0-2;     Rosario Central
+; Unión (Sta. Fe)                                                                        ; 1-2;     San Lorenzo
+*All Boys                                                                                bye
+ 
+Round: 30
+Date: 9/13/1978
+
+; Banfield               ; 1-3;     Boca Juniors
+; Rosario Central                ; 1-1;  Racing Club
+
+Date: 9/14/1978
+
+; All Boys               ; 0-0;     Unión (Sta. Fe)                 ; Chacarita Juniors
+; San Lorenzo                    ; 2-0;   Gimnasia y Esgrima (LP)
+; Chacarita Juniors              ; 2-1;   River Plate                       ; Boca Juniors
+; Platense                       ; 1-0;   Atlanta                                           ; Atlanta
+; Quilmes                                                                                ; 1-0; Estudiantes (Bs.As.)
+; Huracán                                                                                                ; 1-0;     Newell's Old Boys
+; Independiente                                                                                                  ; 2-0;      Vélez Sarsfield
+; Estudiantes (LP)                                                                                               ; 2-1;      Argentinos Juniors
+*Colón (Sta. Fe)                                                                                                          bye
+ 
+Round: 31
+Date: 9/16/1978
+
+; Boca Juniors           ; 4-3;     Chacarita Juniors
+
+Date: 9/18/1978
+
+; Colón (Sta. Fe)        ; 1-4;     Estudiantes (LP)
+; Argentinos Juniors     ; 4-1;     Independiente                   ; San Lorenzo
+; Vélez Sarsfield                ; 0-0;                             Huracán
+; Newell's Old Boys              ; 2-1;                             Quilmes
+; Estudiantes (Bs.As.)           ; 2-1;                             Platense                        ; Chacarita Juniors
+; Atlanta                                                        ; 2-1;                             Banfield
+; River Plate                                                                                    ; 3-0;     Rosario Central
+; Racing Club                                                                                            ; 0-1;     San Lorenzo
+; Gimnasia y Esgrima (LP)                                                                                ; 3-2;     All Boys
+*Unión (Sta. Fe)                                                                                         bye
+ 
+Round: 32
+Date: 9/20/1978
+
+; Unión (Sta. Fe)        ; 1-0;     Gimnasia y Esgrima (LP)
+; All Boys               ; 1-0;     Racing Club                     ; Chacarita Juniors
+; San Lorenzo                    ; 1-1;    River Plate
+; Rosario Central                       ; 0-1;   Boca Juniors
+; Chacarita Juniors                     ; 1-1;   Atlanta                            ; Boca Juniors
+; Banfield                              ; 3-2;   Estudiantes (Bs.As.)
+; Platense                                    ; 1-2;         Newell's Old Boys              ; Atlanta
+; Quilmes                                                          ; 1-0; Vélez Sarsfield
+; Huracán                                                                    ; 1-2; Argentinos Juniors
+; Independiente                                                                  ; 3-1;        Colón (Sta. Fe)
+*Estudiantes (LP)                                                                bye
+ 
+Round: 33
+Date: 9/22/1978
+
+; Boca Juniors           ; 1-3;     San Lorenzo                     ; Atlanta
+; Racing Club                    ; 0-1; Unión (Sta. Fe)
+
+Date: 9/24/1978
+
+; Estudiantes (LP)       ; 1-1;     Independiente
+; Colón (Sta. Fe)                ; 0-2;     Huracán
+; Argentinos Juniors             ; 1-1;     Quilmes                         ; San Lorenzo
+; Vélez Sarsfield                        ; 1-0;                             Platense
+; Newell's Old Boys                      ; 2-0;                             Banfield
+; Estudiantes (Bs.As.)                   ; 1-2;                             Chacarita Juniors               ; Chacarita Juniors
+; Atlanta                                                                ; 1-0;       Rosario Central
+; River Plate                                                                      ; 4-0;     All Boys
+*Gimnasia y Esgrima (LP)                                                           bye
+ 
+Round: 34
+Date: 9/27/1978
+
+; Gimnasia y Esgrima (LP); 0-0;     Racing Club
+; Unión (Sta. Fe)        ; 5-0;     River Plate
+; All Boys               ; 0-0;     Boca Juniors                    ; Racing Club
+; San Lorenzo                    ; 2-2;  Atlanta
+; Rosario Central                     ; 3-0;        Estudiantes (Bs.As.)
+; Chacarita Juniors                   ; 1-0;        Newell's Old Boys
+; Banfield                            ; 0-1;        Vélez Sarsfield
+; Platense                                       ; 2-2;   Argentinos Juniors                ; Atlanta
+; Quilmes                                                         ; 1-0;                    Colón (Sta. Fe)
+; Huracán                                                                                      ; 3-2;   Estudiantes (LP)
+*Independiente                                                                                       bye
+ 
+Round: 35
+Date: 9/29/1978
+
+; Boca Juniors           ; 1-1;     Unión (Sta. Fe)                 ; Racing Club
+
+Date: 10/1/1978
+
+; Independiente          ; 1-1;     Huracán
+; Estudiantes (LP)       ; 1-2;     Quilmes
+; Colón (Sta. Fe)                ; 2-1;     Platense
+; Argentinos Juniors             ; 3-2;     Banfield
+; Vélez Sarsfield                        ; 5-1;     Chacarita Juniors
+; Newell's Old Boys                      ; 3-1;     Rosario Central
+; Estudiantes (Bs.As.)                   ; 0-0;     San Lorenzo                     ; Chacarita Juniors
+; Atlanta                                        ; 1-1; All Boys
+; River Plate                                        ; 3-2; Gimnasia y Esgrima (LP)
+*Racing Club                                             bye
+ 
+Round: 36        
+Date: 10/6/1978
+
+; Racing Club            ; 0-1;     River Plate
+
+Date: 10/7/1978
+
+; Platense               ; 4-3;     Estudiantes (LP)                ; Atlanta
+
+Date: 10/8/1978
+
+; Gimnasia y Esgrima (LP); 3-2;     Boca Juniors
+; Unión (Sta. Fe)        ; 2-0;     Atlanta
+; All Boys               ; 1-1;     Estudiantes (Bs.As.)
+; San Lorenzo                    ; 0-0;         Newell's Old Boys
+; Rosario Central                            ; 3-0;      Vélez Sarsfield
+; Chacarita Juniors                          ; 2-3;      Argentinos Juniors
+; Banfield                                   ; 1-4;      Colón (Sta. Fe)
+; Quilmes                                                   ; 1-0;   Independiente
+*Huracán                                                                 bye
+ 
+Round: 37        
+Date: 10/11/1978
+
+; Huracán                ; 3-1;     Quilmes
+; Independiente                  ; 1-1;     Platense
+; Estudiantes (LP)               ; 1-2;     Banfield
+; Colón (Sta. Fe)                        ; 3-0;     Chacarita Juniors
+; Vélez Sarsfield                                ; 0-0;       San Lorenzo
+; Newell's Old Boys                              ; 1-0;       All Boys
+; Estudiantes (Bs.As.)                           ; 1-4;       Unión (Sta. Fe)                       ; Chacarita Juniors
+; Atlanta                                                  ; 2-0;   Gimnasia y Esgrima (LP)
+; Boca Juniors                                                   ; 3-2;      Racing Club                    ; San Lorenzo
+
+Date: 10/12/1978
+
+; Argentinos Juniors     ; 1-0;     Rosario Central                 ; Atlanta
+*River Plate                     bye
+ 
+Round: 38
+Date: 10/13/1978
+
+; Racing Club            ; 1-1;     Atlanta
+
+Date: 10/15/1978
+
+; River Plate            ; 1-0;     Boca Juniors
+; Gimnasia y Esgrima (LP); 2-2;     Estudiantes (Bs.As.)
+; Unión (Sta. Fe)        ; 1-0;     Newell's Old Boys
+; All Boys               ; 2-1;     Vélez Sarsfield
+; Rosario Central                ; 2-0;   Colón (Sta. Fe)
+; Chacarita Juniors              ; 2-0;   Estudiantes (LP)
+; Banfield                       ; 1-1;   Independiente
+; Platense                             ; 0-0;       Huracán                         ; Atlanta
+
+Date: 10/17/1978
+
+; San Lorenzo            ; 2-0;     Argentinos Juniors
+*Quilmes                                    bye
+ 
+Round: 39
+Date: 10/19/1978
+
+; Quilmes                ; 3-1;     Platense
+; Huracán                                ; 2-2;     Banfield
+; Independiente                                  ; 4-0;     Chacarita Juniors
+; Estudiantes (LP)                               ; 2-2;     Rosario Central
+; Colón (Sta. Fe)                                        ; 2-0;     San Lorenzo
+; Argentinos Juniors                                     ; 1-0;     All Boys                        ; San Lorenzo
+; Vélez Sarsfield                                                ; 0-1; Unión (Sta. Fe)
+; Newell's Old Boys                                              ; 2-1; Gimnasia y Esgrima (LP)
+; Estudiantes (Bs.As.)                                           ; 2-1; Racing Club                 ; Chacarita Juniors
+; Atlanta                                                            ; 2-1;    River Plate                        ; Boca Juniors
+*Boca Juniors                                                               bye
+ 
+Round: 40
+Date: 10/22/1978
+
+; Boca Juniors           ; 3-2;     Atlanta                         ; Ferro Carril Oeste
+; River Plate                    ; 2-2;                             Estudiantes (Bs.As.)
+; Racing Club                                                    ; 2-0;         Newell's Old Boys
+; Gimnasia y Esgrima (LP)                                        ; 1-2;         Vélez Sarsfield
+; Unión (Sta. Fe)                                                ; 2-1;         Argentinos Juniors
+; All Boys                                                       ; 3-0;         Colón (Sta. Fe)
+; San Lorenzo                                                                ; 1-0;   Estudiantes (LP)
+; Rosario Central                                                                  ; 3-1;         Independiente
+; Chacarita Juniors                                                                ; 2-0;         Huracán
+; Banfield                                                                         ; 0-1;         Quilmes
+*Platense                                                                                      bye
+ 
+Round: 41
+Date: 10/25/1978
+
+; Platense               ; 2-1;     Banfield                        ; Atlanta
+; Quilmes                                                        ; 2-1; Chacarita Juniors           ; Banfield
+; Huracán                                                                      ; 0-1;               Rosario Central
+; Independiente                                                                                  ; 1-2;     San Lorenzo
+; Estudiantes (LP)                                                                               ; 5-1;     All Boys
+; Colón (Sta. Fe)                                                                                        ; 1-1; Unión (Sta. Fe)
+; Argentinos Juniors                                                                                     ; 1-1; Gimnasia y Esgrima (LP)  ; Atlanta
+; Vélez Sarsfield                                                                                            ; 0-0;      Racing Club
+; Newell's Old Boys                                                                                          ; 0-1;      River Plate
+; Estudiantes (Bs.As.)                                                                                       ; 0-0;      Boca Juniors   ; Chacarita Juniors
+*Atlanta                                                                                                              bye
+ 
+Round: 42
+Date: 10/27/1978
+
+; All Boys               ; 1-4;     Independiente                   ; Huracán
+
+Date: 10/28/1978
+
+; Gimnasia y Esgrima (LP); 2-2;     Colón (Sta. Fe)
+
+Date: 10/29/1978
+
+; Atlanta                ; 1-2;     Estudiantes (Bs.As.)
+; Boca Juniors                   ; 1-0;         Newell's Old Boys
+; River Plate                                ; 1-0;      Vélez Sarsfield
+; Racing Club                                         ; 2-2;   Argentinos Juniors
+; Unión (Sta. Fe)                                           ; 3-0;        Estudiantes (LP)
+; San Lorenzo                                               ; 2-1;        Huracán
+; Rosario Central                                                      ; 2-3;       Quilmes; ; Ithurralde; 23984
+Rosario Central:        R.Ferrero; Magistral, Craiyacich, Bauza (Coullery), J.A.García; Zavagno (Agonil), Manccinelli, Rubén Pérez; Bóveda, Trama, Orte
+Quilmes:                                                    Palacios; Zárate, Milozzi, Fanesi, Gaño; Bianchini, Gáspari, H.Salinas (Recavarren); Filardo (O.Gómez), Andreuchi, Milano.
+*Goals:                                                                                                        31' Trama; 36' Andreuchi (penalty); 47' Orte (penalty);
+*                                                                                                                         48' Andreuchi (penalty); 52' Gáspari.
+
+
+; Chacarita Juniors                                                    ; 0-1;       Platense
+*Banfield                                                              bye
  
  
-Round: Round 22
-[Aug 9]
-Banfield                1-2     Chacarita Juniors
-Platense                        0-0       Rosario Central                       [at Atlanta]
-Quilmes                                           0-1                           San Lorenzo
-Huracán                                                                             0-1 All Boys
-Independiente                                                                           2-0 Unión (Sta. Fe)
-Estudiantes (LP)                                                                        1-1 Gimnasia y Esgrima (LP)
-Colón (Sta. Fe)                                                                             1-2      Racing Club
-Argentinos Juniors                                                                          2-1      River Plate          [at San Lorenzo]
-Vélez Sarsfield                                                                                      4-0   Boca Juniors
-Newell's Old Boys                                                                                    0-0   Atlanta
-Estudiantes (Bs.As.)                                                                                 bye
+*Quilmes won the championship with the following line- ups:
  
-Round: Round 23
-[Aug 11]
-Racing Club             1-0     Estudiantes (LP)
-[Aug 13]
-Estudiantes (Bs.As.)    1-1     Newell's Old Boys               [at Chacarita Juniors]
-Atlanta                         0-0      Vélez Sarsfield
-Boca Juniors                             1-1   Argentinos Juniors
-River Plate                                    1-0        Colón (Sta. Fe)                       [at Huracán]
-Gimnasia y Esgrima (LP)                        1-1        Independiente
-Unión (Sta. Fe)                                1-0        Huracán
-All Boys                                       3-1        Quilmes
-San Lorenzo                                               2-0   Platense
-Rosario Central                                                 1-1     Banfield                        [at Newell's Old Boys]
-Chacarita Juniors                                               bye
- 
-Round: Round 24
-[Aug 17]
-Chacarita Juniors       2-0     Rosario Central
-Banfield                1-1     San Lorenzo
-Platense                        0-1 All Boys                    [at Atlanta]
-Quilmes                                 1-0                     Unión (Sta. Fe)
-Huracán                                                               2-2   Gimnasia y Esgrima (LP)
-Independiente                                                               1-0      Racing Club
-Estudiantes (LP)                                                            0-0      River Plate
-Colón (Sta. Fe)                                                                      2-2   Boca Juniors
-Argentinos Juniors                                                                   2-0   Atlanta
-Vélez Sarsfield                                                                            0-1  Estudiantes (Bs.As.)
-Newell's Old Boys                                                                          bye
- 
-Round: Round 25
-[Aug 19]
-San Lorenzo             0-0     Chacarita Juniors
-[Aug 20]
-Newell's Old Boys       3-2     Vélez Sarsfield
-Estudiantes (Bs.As.)    0-2     Argentinos Juniors              [at Chacarita Juniors]
-Atlanta                         3-1        Colón (Sta. Fe)
-Boca Juniors                               3-1   Estudiantes (LP)
-River Plate                                      1-2         Independiente                      [at Huracán]
-Racing Club                                                  1-0                                Huracán
-Gimnasia y Esgrima (LP)                                      1-1                                Quilmes
-Unión (Sta. Fe)                                              3-2                                Platense
-All Boys                                                     2-0                                Banfield
-Rosario Central                                                                                 bye
- 
-Round: Round 26
-[Aug 27]
-Rosario Central         1-0     San Lorenzo
-Chacarita Juniors       1-0     All Boys
-Banfield                0-1     Unión (Sta. Fe)
-Platense                        0-0   Gimnasia y Esgrima (LP)
-Quilmes                                        2-0       Racing Club
-Huracán                                                         1-1     River Plate
-Independiente                                                           1-1   Boca Juniors
-Estudiantes (LP)                                                        3-0   Atlanta
-Colón (Sta. Fe)                                                               1-0       Estudiantes (Bs.As.)
-Argentinos Juniors                                                            0-0       Newell's Old Boys
-Vélez Sarsfield                                                                         bye
- 
-Round: Round 27
-[Aug 30]
-Vélez Sarsfield         0-2     Argentinos Juniors
-Newell's Old Boys       1-2     Colón (Sta. Fe)
-Estudiantes (Bs.As.)    1-3     Estudiantes (LP)                [at Chacarita Juniors]
-Atlanta                         1-1         Independiente
-Boca Juniors                                1-0 Huracán
-River Plate                                     1-1     Quilmes                         [at Huracán]
-Racing Club                                             3-0                             Platense
-Gimnasia y Esgrima (LP)                                 2-0                             Banfield
-Unión (Sta. Fe)                                         1-0                             Chacarita Juniors
-All Boys                                                0-3                             Rosario Central                 [at San Lorenzo]
-San Lorenzo                                                                             bye
- 
-Round: Round 28
-[Sep 1]
-Independiente           2-1     Estudiantes (Bs.As.)
-[Sep 3]
-San Lorenzo             4-2     All Boys
-Rosario Central                 2-2 Unión (Sta. Fe)
-Chacarita Juniors               1-0 Gimnasia y Esgrima (LP)             [at Ferro Carril Oeste]
-Banfield                        1-0 Racing Club
-Platense                            1-0    River Plate                  [at Atlanta]
-Quilmes                                          0-0                    Boca Juniors
-Huracán                                                                      0-0        Atlanta
-Estudiantes (LP)                                                             2-0        Newell's Old Boys
-Colón (Sta. Fe)                                                                         1-1      Vélez Sarsfield
-Argentinos Juniors                                                                      bye
- 
-Round: Round 29
-[Sep 10]
-Argentinos Juniors      2-1     Colón (Sta. Fe)
-Vélez Sarsfield                 1-2   Estudiantes (LP)
-Newell's Old Boys               1-1   Independiente
-Estudiantes (Bs.As.)            0-5   Huracán                           [at Chacarita Juniors]
-Atlanta                               0-1                               Quilmes
-Boca Juniors                                                            1-1     Platense
-River Plate                                                                     0-0     Banfield
-Racing Club                                                                             2-2     Chacarita Juniors
-Gimnasia y Esgrima (LP)                                                                 0-2     Rosario Central
-Unión (Sta. Fe)                                                                         1-2     San Lorenzo
-All Boys                                                                                bye
- 
-Round: Round 30
-[Sep 13]
-Banfield                1-3     Boca Juniors
-Rosario Central                 1-1  Racing Club
-[Sep 14]
-All Boys                0-0     Unión (Sta. Fe)                 [at Chacarita Juniors]
-San Lorenzo                     2-0   Gimnasia y Esgrima (LP)
-Chacarita Juniors               2-1   River Plate                       [at Boca Juniors]
-Platense                        1-0   Atlanta                                           [at Atlanta]
-Quilmes                                                                                 1-0 Estudiantes (Bs.As.)
-Huracán                                                                                                 1-0     Newell's Old Boys
-Independiente                                                                                                   2-0      Vélez Sarsfield
-Estudiantes (LP)                                                                                                2-1      Argentinos Juniors
-Colón (Sta. Fe)                                                                                                          bye
- 
-Round: Round 31
-[Sep 16]
-Boca Juniors            4-3     Chacarita Juniors
-[Sep 18]
-Colón (Sta. Fe)         1-4     Estudiantes (LP)
-Argentinos Juniors      4-1     Independiente                   [at San Lorenzo]
-Vélez Sarsfield                 0-0                             Huracán
-Newell's Old Boys               2-1                             Quilmes
-Estudiantes (Bs.As.)            2-1                             Platense                        [at Chacarita Juniors]
-Atlanta                                                         2-1                             Banfield
-River Plate                                                                                     3-0     Rosario Central
-Racing Club                                                                                             0-1     San Lorenzo
-Gimnasia y Esgrima (LP)                                                                                 3-2     All Boys
-Unión (Sta. Fe)                                                                                         bye
- 
-Round: Round 32
-[Sep 20]        
-Unión (Sta. Fe)         1-0     Gimnasia y Esgrima (LP)
-All Boys                1-0     Racing Club                     [at Chacarita Juniors]
-San Lorenzo                     1-1    River Plate
-Rosario Central                        0-1   Boca Juniors
-Chacarita Juniors                      1-1   Atlanta                            [at Boca Juniors]
-Banfield                               3-2   Estudiantes (Bs.As.)
-Platense                                     1-2         Newell's Old Boys              [at Atlanta]
-Quilmes                                                           1-0 Vélez Sarsfield
-Huracán                                                                     1-2 Argentinos Juniors
-Independiente                                                                   3-1        Colón (Sta. Fe)
-Estudiantes (LP)                                                                bye
- 
-Round: Round 33
-[Sep 22]
-Boca Juniors            1-3     San Lorenzo                     [at Atlanta]
-Racing Club                     0-1 Unión (Sta. Fe)
-[Sep 24]
-Estudiantes (LP)        1-1     Independiente
-Colón (Sta. Fe)                 0-2     Huracán
-Argentinos Juniors              1-1     Quilmes                         [at San Lorenzo]
-Vélez Sarsfield                         1-0                             Platense
-Newell's Old Boys                       2-0                             Banfield
-Estudiantes (Bs.As.)                    1-2                             Chacarita Juniors               [at Chacarita Juniors]
-Atlanta                                                                 1-0       Rosario Central
-River Plate                                                                       4-0     All Boys
-Gimnasia y Esgrima (LP)                                                           bye
- 
-Round: Round 34
-[Sep 27]
-Gimnasia y Esgrima (LP) 0-0     Racing Club
-Unión (Sta. Fe)         5-0     River Plate
-All Boys                0-0     Boca Juniors                    [at Racing Club]
-San Lorenzo                     2-2  Atlanta
-Rosario Central                      3-0        Estudiantes (Bs.As.)
-Chacarita Juniors                    1-0        Newell's Old Boys
-Banfield                             0-1        Vélez Sarsfield
-Platense                                        2-2   Argentinos Juniors                [at Atlanta]
-Quilmes                                                          1-0                    Colón (Sta. Fe)
-Huracán                                                                                       3-2   Estudiantes (LP)
-Independiente                                                                                       bye
- 
-Round: Round 35
-[Sep 29]
-Boca Juniors            1-1     Unión (Sta. Fe)                 [at Racing Club]
-[Oct 1]
-Independiente           1-1     Huracán
-Estudiantes (LP)        1-2     Quilmes
-Colón (Sta. Fe)                 2-1     Platense
-Argentinos Juniors              3-2     Banfield
-Vélez Sarsfield                         5-1     Chacarita Juniors
-Newell's Old Boys                       3-1     Rosario Central
-Estudiantes (Bs.As.)                    0-0     San Lorenzo                     [at Chacarita Juniors]
-Atlanta                                         1-1 All Boys
-River Plate                                         3-2 Gimnasia y Esgrima (LP)
-Racing Club                                             bye
- 
-Round: Round 36        
-[Oct 6]
-Racing Club             0-1     River Plate
-[Oct 7]
-Platense                4-3     Estudiantes (LP)                [at Atlanta]
-[Oct 8]
-Gimnasia y Esgrima (LP) 3-2     Boca Juniors
-Unión (Sta. Fe)         2-0     Atlanta
-All Boys                1-1     Estudiantes (Bs.As.)
-San Lorenzo                     0-0         Newell's Old Boys
-Rosario Central                             3-0      Vélez Sarsfield
-Chacarita Juniors                           2-3      Argentinos Juniors
-Banfield                                    1-4      Colón (Sta. Fe)
-Quilmes                                                    1-0   Independiente
-Huracán                                                                 bye
- 
-Round: Round 37        
-[Oct 11]
-Huracán                 3-1     Quilmes
-Independiente                   1-1     Platense
-Estudiantes (LP)                1-2     Banfield
-Colón (Sta. Fe)                         3-0     Chacarita Juniors
-Vélez Sarsfield                                 0-0       San Lorenzo
-Newell's Old Boys                               1-0       All Boys
-Estudiantes (Bs.As.)                            1-4       Unión (Sta. Fe)                       [at Chacarita Juniors]
-Atlanta                                                   2-0   Gimnasia y Esgrima (LP)
-Boca Juniors                                                    3-2      Racing Club                    [at San Lorenzo]
-[Oct 12]
-Argentinos Juniors      1-0     Rosario Central                 [at Atlanta]
-River Plate                     bye
- 
-Round: Round 38
-[Oct 13]
-Racing Club             1-1     Atlanta
-[Oct 15]
-River Plate             1-0     Boca Juniors
-Gimnasia y Esgrima (LP) 2-2     Estudiantes (Bs.As.)
-Unión (Sta. Fe)         1-0     Newell's Old Boys
-All Boys                2-1     Vélez Sarsfield
-Rosario Central                 2-0   Colón (Sta. Fe)
-Chacarita Juniors               2-0   Estudiantes (LP)
-Banfield                        1-1   Independiente
-Platense                              0-0       Huracán                         [at Atlanta]
-[Oct 17]
-San Lorenzo             2-0     Argentinos Juniors
-Quilmes                                    bye
- 
-Round: Round 39
-[Oct 19]
-Quilmes                 3-1     Platense
-Huracán                                 2-2     Banfield
-Independiente                                   4-0     Chacarita Juniors
-Estudiantes (LP)                                2-2     Rosario Central
-Colón (Sta. Fe)                                         2-0     San Lorenzo
-Argentinos Juniors                                      1-0     All Boys                        [at San Lorenzo]
-Vélez Sarsfield                                                 0-1 Unión (Sta. Fe)
-Newell's Old Boys                                               2-1 Gimnasia y Esgrima (LP)
-Estudiantes (Bs.As.)                                            2-1 Racing Club                 [at Chacarita Juniors]
-Atlanta                                                             2-1    River Plate                        [at Boca Juniors]
-Boca Juniors                                                               bye
- 
-Round: Round 40
-[Oct 22]
-Boca Juniors            3-2     Atlanta                         [at Ferro Carril Oeste]
-River Plate                     2-2                             Estudiantes (Bs.As.)
-Racing Club                                                     2-0         Newell's Old Boys
-Gimnasia y Esgrima (LP)                                         1-2         Vélez Sarsfield
-Unión (Sta. Fe)                                                 2-1         Argentinos Juniors
-All Boys                                                        3-0         Colón (Sta. Fe)
-San Lorenzo                                                                 1-0   Estudiantes (LP)
-Rosario Central                                                                   3-1         Independiente
-Chacarita Juniors                                                                 2-0         Huracán
-Banfield                                                                          0-1         Quilmes
-Platense                                                                                      bye
- 
-Round: Round 41
-[Oct 25]
-Platense                2-1     Banfield                        [at Atlanta]
-Quilmes                                                         2-1 Chacarita Juniors           [at Banfield]
-Huracán                                                                       0-1               Rosario Central
-Independiente                                                                                   1-2     San Lorenzo
-Estudiantes (LP)                                                                                5-1     All Boys
-Colón (Sta. Fe)                                                                                         1-1 Unión (Sta. Fe)
-Argentinos Juniors                                                                                      1-1 Gimnasia y Esgrima (LP)  [at Atlanta]
-Vélez Sarsfield                                                                                             0-0      Racing Club
-Newell's Old Boys                                                                                           0-1      River Plate
-Estudiantes (Bs.As.)                                                                                        0-0      Boca Juniors   [at Chacarita Juniors]
-Atlanta                                                                                                              bye
- 
-Round: Round 42
-[Oct 27]
-All Boys                1-4     Independiente                   [at Huracán]
-[Oct 28]
-Gimnasia y Esgrima (LP) 2-2     Colón (Sta. Fe)
-[Oct 29]
-Atlanta                 1-2     Estudiantes (Bs.As.)
-Boca Juniors                    1-0         Newell's Old Boys
-River Plate                                 1-0      Vélez Sarsfield
-Racing Club                                          2-2   Argentinos Juniors
-Unión (Sta. Fe)                                            3-0        Estudiantes (LP)
-San Lorenzo                                                2-1        Huracán
-Rosario Central                                                       2-3       Quilmes
-Chacarita Juniors                                                     0-1       Platense
-Banfield                                                              bye
- 
- 
-Quilmes won the championship with the following line- ups:
- 
-Rosario Central:        R.Ferrero; Magistral, Craiyacich, Bauza (Coullery), J.A.García; 
-                                   Zavagno (Agonil), Manccinelli, Rubén Pérez; Bóveda, Trama, Orte.
-                                                     Coach: Carlos Timoteo Griguol.
-Quilmes:                                                    Palacios; Zárate, Milozzi, Fanesi, Gaño; 
-                                                                              Bianchini, Gáspari, H.Salinas (Recavarren); Filardo (O.Gómez), Andreuchi, Milano.
-                                                                                                  Coach: José Yudica.
-Goals:                                                                                                        31' Trama; 36' Andreuchi (penalty); 47' Orte (penalty);
-                                                                                                                         48' Andreuchi (penalty); 52' Gáspari.
-Referee:                                                                                                                     Ithurralde.
-Tickets:                                                                                                                      23.984.
  
  
  
@@ -695,113 +802,127 @@ Tickets:                                                                        
        
 
  
-Campeonato Nacional 1978 (Nacional Championship)
+Competition: Campeonato Nacional
 
  
-Group: Group A
+Group: A
 
+Round: 1
+Date: 11/4/1978
+
+; Newell's Old Boys      ; 2-0;     Estudiantes (LP)
+
+Date: 11/5/1978
+
+; Racing Club            ; 3-0;     Juventud Antoniana (Salta)
+; Talleres (Cba.)                ; 3-0;      All Boys
+; Ferro Carril Oeste             ; 2-0;      Atlético Ledesma (Jujuy)
  
-Round: Round 1
-[Nov 4]
-Newell's Old Boys       2-0     Estudiantes (LP)
-[Nov 5]
-Racing Club             3-0     Juventud Antoniana (Salta)
-Talleres (Cba.)                 3-0      All Boys
-Ferro Carril Oeste              2-0      Atlético Ledesma (Jujuy)
+Round: 2
+Date: 11/8/1978
+
+; Ferro Carril Oeste     ; 1-1;     Racing Club                     ; Vélez Sarsfield
+; Atlético Ledesma (Juj) ; 3-0;     Newell's Old Boys
+; Estudiantes (LP); 3-2;    Talleres (Cba.)
+; All Boys        ; 2-1;    Juventud Antoniana (Salta)      ; Huracán
  
-Round: Round 2
-[Nov 8]
-Ferro Carril Oeste      1-1     Racing Club                     [at Vélez Sarsfield]
-Atlético Ledesma (Juj)  3-0     Newell's Old Boys
-Estudiantes (LP) 3-2    Talleres (Cba.)
-All Boys         2-1    Juventud Antoniana (Salta)      [at Huracán]
+Round: 3
+Date: 11/12/1978
+
+; Racing Club            ; 0-0;     All Boys
+; Juventud Antoniana (S) ; 1-2;     Estudiantes (LP)
+; Talleres (Cba.)        ; 3-1;     Atlético Ledesma (Jujuy)        ; Córdoba
+; Newell's Old Boys      ; 3-0;     Ferro Carril Oeste
  
-Round: Round 3
-[Nov 12]
-Racing Club             0-0     All Boys
-Juventud Antoniana (S)  1-2     Estudiantes (LP)
-Talleres (Cba.)         3-1     Atlético Ledesma (Jujuy)        [at Córdoba]
-Newell's Old Boys       3-0     Ferro Carril Oeste
+Round: 4 
+Date: 11/15/1978
+
+; Newell's Old Boys      ; 2-1;     Racing Club
+; Ferro Carril Oeste     ; 1-1;     Talleres (Cba.)                 ; Vélez Sarsfield
+; Atlético Ledesma (Juj) ; 2-2;     Juventud Antoniana (Salta)
+; Estudiantes (LP); 2-1;    All Boys
  
-Round: Round 4 
-[Nov 15]
-Newell's Old Boys       2-1     Racing Club
-Ferro Carril Oeste      1-1     Talleres (Cba.)                 [at Vélez Sarsfield]
-Atlético Ledesma (Juj)  2-2     Juventud Antoniana (Salta)
-Estudiantes (LP) 2-1    All Boys
+Round: 5
+Date: 11/19/1978
+
+; Racing Club            ; 1-0;     Estudiantes (LP)
+; All Boys                       ; 2-2;         Atlético Ledesma (Jujuy)
+; Juventud Antoniana (S)         ; 1-2;         Ferro Carril Oeste          ; Gimnasia y Tiro
+; Talleres (Cba.)                ; 1-0;         Newell's Old Boys               ; Córdoba
  
-Round: Round 5
-[Nov 19]
-Racing Club             1-0     Estudiantes (LP)
-All Boys                        2-2         Atlético Ledesma (Jujuy)
-Juventud Antoniana (S)          1-2         Ferro Carril Oeste          [at Gimnasia y Tiro]
-Talleres (Cba.)                 1-0         Newell's Old Boys               [at Córdoba]
+Round: 6 
+Date: 11/22/1978
+
+; Talleres (Cba.)        ; 2-0;     Racing Club
+; Newell's Old Boys      ; 0-0;     Juventud Antoniana (Salta)
+; Ferro Carril Oeste     ; 1-0;     All Boys
+; Atlético Ledesma (Juj) ; 1-0;     Estudiantes (LP)
  
-Round: Round 6 
-[Nov 22]
-Talleres (Cba.)         2-0     Racing Club
-Newell's Old Boys       0-0     Juventud Antoniana (Salta)
-Ferro Carril Oeste      1-0     All Boys
-Atlético Ledesma (Juj)  1-0     Estudiantes (LP)
+Round: 7
+Date: 11/26/1978
+
+; Racing Club            ; 2-2;     Atlético Ledesma (Jujuy)
+; Estudiantes (LP)       ; 2-3;     Ferro Carril Oeste
+; All Boys               ; 2-2;     Newell's Old Boys
+; Juventud Antoniana (S) ; 2-2;     Talleres (Cba.)
  
-Round: Round 7
-[Nov 26]
-Racing Club             2-2     Atlético Ledesma (Jujuy)
-Estudiantes (LP)        2-3     Ferro Carril Oeste
-All Boys                2-2     Newell's Old Boys
-Juventud Antoniana (S)  2-2     Talleres (Cba.)
+Round: 8 
+Date: 11/29/1978
+
+; Juventud Antoniana (S) ; 4-5;     Racing Club
+; All Boys          ; 2-3;  Talleres (Cba.)
+; Estudiantes (LP)  ; 5-2;  Newell's Old Boys
+; Atlético Ledesma (Juj) ; 4-1;      Ferro Carril Oeste
  
+Round: 9 
+Date: 12/3/1978
+
+; Racing Club            ; 2-0;     Ferro Carril Oeste
+; Newell's Old Boys      ; 1-1;     Atlético Ledesma (Jujuy)
+; Talleres (Cba.)                ; 2-0;      Estudiantes (LP)               ; Córdoba
+; Juventud Antoniana (S)         ; 1-1;      All Boys                           ; Gimnasia y Tiro
  
-Round: Round 8
-[Nov 29]
-Juventud Antoniana (S)  4-5     Racing Club
-All Boys           2-3  Talleres (Cba.)
-Estudiantes (LP)   5-2  Newell's Old Boys
-Atlético Ledesma (Juj)  4-1      Ferro Carril Oeste
+Round: 10
+Date: 12/6/1978
+
+; All Boys               ; 0-2;     Racing Club                     ; Huracán
+; Estudiantes (LP)       ; 8-2;     Juventud Antoniana (Salta)
+; Atlético Ledesma (Juj) ; 2-6;     Talleres (Cba.)
+; Ferro Carril Oeste     ; 3-4;     Newell's Old Boys
  
-Round: Round 9 
-[Dec 3]
-Racing Club             2-0     Ferro Carril Oeste
-Newell's Old Boys       1-1     Atlético Ledesma (Jujuy)
-Talleres (Cba.)                 2-0      Estudiantes (LP)               [at Córdoba]
-Juventud Antoniana (S)          1-1      All Boys                           [at Gimnasia y Tiro]
+Round: 11
+Date: 12/10/1978
+
+; Racing Club            ; 0-2;     Newell's Old Boys
+; Talleres (Cba.)                ; 3-2;      Ferro Carril Oeste
+; Juventud Antoniana (S)         ; 1-2;      Atlético Ledesma (Jujuy)
+; All Boys          ; 4-3;          Estudiantes (LP)
  
-Round: Round 10
-[Dec 6]
-All Boys                0-2     Racing Club                     [at Huracán]
-Estudiantes (LP)        8-2     Juventud Antoniana (Salta)
-Atlético Ledesma (Juj)  2-6     Talleres (Cba.)
-Ferro Carril Oeste      3-4     Newell's Old Boys
+Round: 12
+Date: 12/13/1978
+
+; Estudiantes (LP)       ; 1-2;     Racing Club
+; Atlético Ledesma (Juj) ; 0-0;     All Boys
+; Ferro Carril Oeste     ; 2-0;     Juventud Antoniana (Salta)
+; Newell's Old Boys      ; 2-2;     Talleres (Cba.)
  
-Round: Round 11
-[Dec 10]
-Racing Club             0-2     Newell's Old Boys
-Talleres (Cba.)                 3-2      Ferro Carril Oeste
-Juventud Antoniana (S)          1-2      Atlético Ledesma (Jujuy)
-All Boys           4-3          Estudiantes (LP)
+Round: 13
+Date: 12/17/1978
+
+; Racing Club            ; 1-0;     Talleres (Cba.)
+; Juventud Antoniana (S) ; 0-2;     Newell's Old Boys
+; All Boys          ; 1-1;  Ferro Carril Oeste
+; Estudiantes (LP)  ; 1-4;  Atlético Ledesma (Jujuy)
  
-Round: Round 12
-[Dec 13]
-Estudiantes (LP)        1-2     Racing Club
-Atlético Ledesma (Juj)  0-0     All Boys
-Ferro Carril Oeste      2-0     Juventud Antoniana (Salta)
-Newell's Old Boys       2-2     Talleres (Cba.)
+Round: 14
+Date: 12/20/1978
+
+; Atlético Ledesma (Juj) ; 0-1;     Racing Club
+; Ferro Carril Oeste     ; 4-1;     Estudiantes (LP)                ; Vélez Sarsfield
+; Newell's Old Boys      ; 5-1;     All Boys
+; Talleres (Cba.)                ; 7-1; Juventud Antoniana (Salta)  ; Córdoba
  
-Round: Round 13
-[Dec 17]
-Racing Club             1-0     Talleres (Cba.)
-Juventud Antoniana (S)  0-2     Newell's Old Boys
-All Boys           1-1  Ferro Carril Oeste
-Estudiantes (LP)   1-4  Atlético Ledesma (Jujuy)
- 
-Round: Round 14
-[Dec 20]
-Atlético Ledesma (Juj)  0-1     Racing Club
-Ferro Carril Oeste      4-1     Estudiantes (LP)                [at Vélez Sarsfield]
-Newell's Old Boys       5-1     All Boys
-Talleres (Cba.)                 7-1 Juventud Antoniana (Salta)  [at Córdoba]
- 
-Group: Group A
+Group: A
 
 * 1. Talleres (Córdoba)               14   9   3   2    7  0  0   2  3  2   37 17   21   [Qualified]
 * 2. Racing Club                      14   8   3   3    4  2  1   4  1  2   21 14   19   [Qualified]
@@ -813,111 +934,128 @@ Group: Group A
 * 7. All Boys                         14   2   6   6    2  3  2   0  3  4   16 26   10
 * 8. Juventud Antoniana (Salta)       14   0   4  10    0  2  5   0  2  5   16 40    4 
  
-Group: Group B
+Group: B
 
-Round: Round 1 
-[Nov 4]
-Gimnasia y Esgrima(Mza) 1-0     Platense                        [at Malvinas Argentinas]
-[Nov 5]
-Huracán                 1-1     Boca Juniors
-Unión (Sta. Fe)                 2-0  Patronato (Paraná)
-Chacarita Juniors               1-0  Atlético Tucumán
+Round: 1 
+Date: 11/4/1978
+
+; Gimnasia y Esgrima(Mza); 1-0;     Platense                        ; Malvinas Argentinas
+
+Date: 11/5/1978
+
+; Huracán                ; 1-1;     Boca Juniors
+; Unión (Sta. Fe)                ; 2-0;  Patronato (Paraná)
+; Chacarita Juniors              ; 1-0;  Atlético Tucumán
  
-Round: Round 2
-[Nov 8]
-Chacarita Juniors       2-3     Huracán
-Atlético Tucumán        4-1     Gimnasia y Esgrima (Mendoza)
-Platense                0-2     Unión (Sta. Fe)                 [at Atlanta]
-Patronato (Paraná)      0-2     Boca Juniors
+Round: 2
+Date: 11/8/1978
+
+; Chacarita Juniors      ; 2-3;     Huracán
+; Atlético Tucumán       ; 4-1;     Gimnasia y Esgrima (Mendoza)
+; Platense               ; 0-2;     Unión (Sta. Fe)                 ; Atlanta
+; Patronato (Paraná)     ; 0-2;     Boca Juniors
  
-Round: Round 3
-[Nov 11]
-Boca Juniors            1-0     Platense
-Unión (Sta. Fe)                 0-0     Atlético Tucumán
-[Nov 12]
-Huracán                 2-0     Patronato (Paraná)
-Gimnasia y Esgrima(Mza) 1-2     Chacarita Juniors               [at Independiente Rivadavia]
+Round: 3
+Date: 11/11/1978
+
+; Boca Juniors           ; 1-0;     Platense
+; Unión (Sta. Fe)                ; 0-0;     Atlético Tucumán
+
+Date: 11/12/1978
+
+; Huracán                ; 2-0;     Patronato (Paraná)
+; Gimnasia y Esgrima(Mza); 1-2;     Chacarita Juniors               ; Independiente Rivadavia
  
-Round: Round 4
-[Nov 15]
-Gimnasia y Esgrima(Mza) 2-4     Huracán
-Chacarita Juniors       0-0     Unión (Sta. Fe)
-Atlético Tucumán        1-0     Boca Juniors
-Platense                2-2     Patronato (Paraná)              [at Atlanta]
+Round: 4
+Date: 11/15/1978
+
+; Gimnasia y Esgrima(Mza); 2-4;     Huracán
+; Chacarita Juniors      ; 0-0;     Unión (Sta. Fe)
+; Atlético Tucumán       ; 1-0;     Boca Juniors
+; Platense               ; 2-2;     Patronato (Paraná)              ; Atlanta
  
-Round: Round 5 
-[Nov 19]
-Huracán                 6-1     Platense
-Patronato (Paraná)      0-0     Atlético Tucumán
-Boca Juniors                    1-0      Chacarita Juniors
-Unión (Sta. Fe)                          2-0       Gimnasia y Esgrima (Mendoza)
+Round: 5 
+Date: 11/19/1978
+
+; Huracán                ; 6-1;     Platense
+; Patronato (Paraná)     ; 0-0;     Atlético Tucumán
+; Boca Juniors                   ; 1-0;      Chacarita Juniors
+; Unión (Sta. Fe)                         ; 2-0;       Gimnasia y Esgrima (Mendoza)
  
-Round: Round 6 
-[Nov 22]
-Unión (Sta. Fe)         2-1     Huracán
-Gimnasia y Esgrima(Mza) 1-0     Boca Juniors
-Chacarita Juniors       3-4     Patronato (Paraná)
-Atlético Tucumán        2-0     Platense
+Round: 6 
+Date: 11/22/1978
+
+; Unión (Sta. Fe)        ; 2-1;     Huracán
+; Gimnasia y Esgrima(Mza); 1-0;     Boca Juniors
+; Chacarita Juniors      ; 3-4;     Patronato (Paraná)
+; Atlético Tucumán       ; 2-0;     Platense
  
-Round: Round 7 
-[Nov 26]
-Huracán                 1-1     Atlético Tucumán
-Platense                        2-2      Chacarita Juniors
-Patronato (Paraná)              3-1      Gimnasia y Esgrima (Mendoza)
-Boca Juniors                             0-4      Unión (Sta. Fe)
+Round: 7 
+Date: 11/26/1978
+
+; Huracán                ; 1-1;     Atlético Tucumán
+; Platense                       ; 2-2;      Chacarita Juniors
+; Patronato (Paraná)             ; 3-1;      Gimnasia y Esgrima (Mendoza)
+; Boca Juniors                            ; 0-4;      Unión (Sta. Fe)
+ 
+Round: 8 
+Date: 11/29/1978
+
+; Boca Juniors           ; 1-4;     Huracán
+; Patronato (Paraná)     ; 1-0;     Unión (Sta. Fe)
+; Platense               ; 0-1;     Gimnasia y Esgrima (Mendoza)
+; Atlético Tucumán       ; 4-1;     Chacarita Juniors
+ 
+Round: 9 
+Date: 12/3/1978
+
+; Huracán                ; 3-3;     Chacarita Juniors
+; Gimnasia y Esgrima(Mza); 1-3;     Atlético Tucumán                ; Malvinas Argentinas
+; Unión (Sta. Fe)                ; 3-0;      Platense
+; Boca Juniors                            ; 2-1;    Patronato (Paraná)
+ 
+Round: 10
+Date: 12/6/1978
+
+; Patronato (Paraná)     ; 1-1;     Huracán
+; Platense               ; 1-2;     Boca Juniors
+; Atlético Tucumán       ; 0-1;     Unión (Sta. Fe)
+; Chacarita Juniors      ; 2-0;     Gimnasia y Esgrima (Mendoza)
+ 
+Round: 11
+Date: 12/10/1978
+
+; Huracán                ; 1-0;     Gimnasia y Esgrima (Mendoza)
+; Unión (Sta. Fe)                ; 1-0;      Chacarita Juniors
+; Boca Juniors                            ; 4-2;       Atlético Tucumán
+; Patronato (Paraná)                      ; 2-1;       Platense
+ 
+Round: 12
+Date: 12/13/1978
+
+; Platense               ; 1-1;     Huracán
+; Atlético Tucumán       ; 3-1;     Patronato (Paraná)
+; Chacarita Juniors      ; 2-3;     Boca Juniors
+; Gimnasia y Esgrima(Mza); 1-1;     Unión (Sta. Fe)
+ 
+Round: 13
+Date: 12/17/1978
+
+; Huracán                ; 2-1;     Unión (Sta. Fe)
+; Boca Juniors                   ; 1-5;   Gimnasia y Esgrima (Mendoza)
+; Patronato (Paraná)             ; 0-0;   Chacarita Juniors
+; Platense                       ; 0-2;   Atlético Tucumán
+ 
+Round: 14
+Date: 12/20/1978
+
+; Atlético Tucumán       ; 2-1;     Huracán
+; Chacarita Juniors      ; 2-1;     Platense
+; Gimnasia y Esgrima(Mza); 2-2;     Patronato (Paraná)
+; Unión (Sta. Fe)                ; 3-1;       Boca Juniors
  
  
-Round: Round 8 
-[Nov 29]
-Boca Juniors            1-4     Huracán
-Patronato (Paraná)      1-0     Unión (Sta. Fe)
-Platense                0-1     Gimnasia y Esgrima (Mendoza)
-Atlético Tucumán        4-1     Chacarita Juniors
- 
-Round: Round 9 
-[Dec 3]
-Huracán                 3-3     Chacarita Juniors
-Gimnasia y Esgrima(Mza) 1-3     Atlético Tucumán                [at Malvinas Argentinas]
-Unión (Sta. Fe)                 3-0      Platense
-Boca Juniors                             2-1    Patronato (Paraná)
- 
-Round: Round 10
-[Dec 6]
-Patronato (Paraná)      1-1     Huracán
-Platense                1-2     Boca Juniors
-Atlético Tucumán        0-1     Unión (Sta. Fe)
-Chacarita Juniors       2-0     Gimnasia y Esgrima (Mendoza)
- 
-Round: Round 11
-[Dec 10]
-Huracán                 1-0     Gimnasia y Esgrima (Mendoza)
-Unión (Sta. Fe)                 1-0      Chacarita Juniors
-Boca Juniors                             4-2       Atlético Tucumán
-Patronato (Paraná)                       2-1       Platense
- 
-Round: Round 12
-[Dec 13]
-Platense                1-1     Huracán
-Atlético Tucumán        3-1     Patronato (Paraná)
-Chacarita Juniors       2-3     Boca Juniors
-Gimnasia y Esgrima(Mza) 1-1     Unión (Sta. Fe)
- 
-Round: Round 13
-[Dec 17]
-Huracán                 2-1     Unión (Sta. Fe)
-Boca Juniors                    1-5   Gimnasia y Esgrima (Mendoza)
-Patronato (Paraná)              0-0   Chacarita Juniors
-Platense                        0-2   Atlético Tucumán
- 
-Round: Round 14
-[Dec 20]
-Atlético Tucumán        2-1     Huracán
-Chacarita Juniors       2-1     Platense
-Gimnasia y Esgrima(Mza) 2-2     Patronato (Paraná)
-Unión (Sta. Fe)                 3-1       Boca Juniors
- 
- 
-Group: Group B
+Group: B
 
 * 1. Unión (Santa Fe)                 14   9   3   2    6  1  0   3  2  2   22  6   21   [Qualified]
 * 2. Huracán                          14   7   5   2    4  3  0   3  2  2   31 18   19   [Qualified]
@@ -929,112 +1067,133 @@ Group: Group B
 * 7. Gimnasia y Esgrima (Mendoza)     14   4   2   8    2  2  3   2  0  5   17 25   10
 * 8. Platense                         14   0   3  11    0  3  4   0  0  7    9 29    3 
  
-Group: Group C
+Group: C
  
-Round: Round 1
-[Nov 5]
-Deportivo Roca (RN)     0-2     Independiente
-Argentinos Juniors      1-0     Racing (Cba.)
-Gimnasia y Esgrima (LP) 1-0     Rosario Central
-Altos Hornos Zapla (J)  1-1     Vélez Sarsfield
+Round: 1
+Date: 11/5/1978
+
+; Deportivo Roca (RN)    ; 0-2;     Independiente
+; Argentinos Juniors     ; 1-0;     Racing (Cba.)
+; Gimnasia y Esgrima (LP); 1-0;     Rosario Central
+; Altos Hornos Zapla (J) ; 1-1;     Vélez Sarsfield
  
-Round: Round 2
-[Nov 8]
-Independiente           2-2     Vélez Sarsfield
-Rosario Central                 1-1   Altos Hornos Zapla (Jujuy)
-Racing (Cba.)                         2-2   Gimnasia y Esgrima (LP)             [at Instituto]
-Deportivo Roca (RN)                   1-0   Argentinos Juniors
+Round: 2
+Date: 11/8/1978
+
+; Independiente          ; 2-2;     Vélez Sarsfield
+; Rosario Central                ; 1-1;   Altos Hornos Zapla (Jujuy)
+; Racing (Cba.)                        ; 2-2;   Gimnasia y Esgrima (LP)             ; Instituto
+; Deportivo Roca (RN)                  ; 1-0;   Argentinos Juniors
  
-Round: Round 3
-[Nov 12]
-Argentinos Juniors      0-1     Independiente
-Gimnasia y Esgrima (LP) 1-1     Deportivo Roca (Río Negro)
-Altos Hornos Zapla (J)  1-1     Racing (Cba.)
-Vélez Sarsfield         1-0     Rosario Central
+Round: 3
+Date: 11/12/1978
+
+; Argentinos Juniors     ; 0-1;     Independiente
+; Gimnasia y Esgrima (LP); 1-1;     Deportivo Roca (Río Negro)
+; Altos Hornos Zapla (J) ; 1-1;     Racing (Cba.)
+; Vélez Sarsfield        ; 1-0;     Rosario Central
  
-Round: Round 4 
-[Nov 15]
-Independiente           1-0     Rosario Central
-Racing (Cba.)                   1-2     Vélez Sarsfield                 [at Instituto]
-Deportivo Roca (RN)             2-0     Altos Hornos Zapla (Jujuy)
-Argentinos Juniors              0-4     Gimnasia y Esgrima (LP)         [at Huracán]
+Round: 4 
+Date: 11/15/1978
+
+; Independiente          ; 1-0;     Rosario Central
+; Racing (Cba.)                  ; 1-2;     Vélez Sarsfield                 ; Instituto
+; Deportivo Roca (RN)            ; 2-0;     Altos Hornos Zapla (Jujuy)
+; Argentinos Juniors             ; 0-4;     Gimnasia y Esgrima (LP)         ; Huracán
  
-Round: Round 5 
-[Nov 18]
-Rosario Central         1-2     Racing (Cba.)
-[Nov 19]
-Gimnasia y Esgrima (LP) 2-1     Independiente
-Altos Hornos Zapla (J)  1-2     Argentinos Juniors
-Vélez Sarsfield         0-0     Deportivo Roca (Río Negro)
+Round: 5 
+Date: 11/18/1978
+
+; Rosario Central        ; 1-2;     Racing (Cba.)
+
+Date: 11/19/1978
+
+; Gimnasia y Esgrima (LP); 2-1;     Independiente
+; Altos Hornos Zapla (J) ; 1-2;     Argentinos Juniors
+; Vélez Sarsfield        ; 0-0;     Deportivo Roca (Río Negro)
  
-Round: Round 6 
-[Nov 22]
-Independiente           3-1     Racing (Cba.)
-Deportivo Roca (RN)     1-1     Rosario Central
-Argentinos Juniors      2-3     Vélez Sarsfield                 [at Huracán]
-Gimnasia y Esgrima (LP) 2-0     Altos Hornos Zapla (Jujuy)
+Round: 6 
+Date: 11/22/1978
+
+; Independiente          ; 3-1;     Racing (Cba.)
+; Deportivo Roca (RN)    ; 1-1;     Rosario Central
+; Argentinos Juniors     ; 2-3;     Vélez Sarsfield                 ; Huracán
+; Gimnasia y Esgrima (LP); 2-0;     Altos Hornos Zapla (Jujuy)
  
-Round: Round 7 
-[Nov 25]
-Vélez Sarsfield         1-0     Gimnasia y Esgrima (LP)
-[Nov 26]
-Altos Hornos Zapla (J)  1-4     Independiente
-Rosario Central         2-1     Argentinos Juniors
-Racing (Cba.)                   2-1        Deportivo Roca (Río Negro)
+Round: 7 
+Date: 11/25/1978
+
+; Vélez Sarsfield        ; 1-0;     Gimnasia y Esgrima (LP)
+
+Date: 11/26/1978
+
+; Altos Hornos Zapla (J) ; 1-4;     Independiente
+; Rosario Central        ; 2-1;     Argentinos Juniors
+; Racing (Cba.)                  ; 2-1;        Deportivo Roca (Río Negro)
  
+Round: 8 
+Date: 11/29/1978
+
+; Independiente          ; 4-1;     Deportivo Roca (Río Negro)
+; Racing (Cba.)                  ; 2-0;       Argentinos Juniors            ; Instituto
+; Rosario Central                          ; 0-0;        Gimnasia y Esgrima (LP)
+; Vélez Sarsfield                                     ; 3-1;      Altos Hornos Zapla (Jujuy)
  
-Round: Round 8 
-[Nov 29]
-Independiente           4-1     Deportivo Roca (Río Negro)
-Racing (Cba.)                   2-0       Argentinos Juniors            [at Instituto]
-Rosario Central                           0-0        Gimnasia y Esgrima (LP)
-Vélez Sarsfield                                      3-1      Altos Hornos Zapla (Jujuy)
+Round: 9 
+Date: 12/3/1978
+
+; Vélez Sarsfield        ; 2-1;     Independiente
+; Altos Hornos Zapla (J) ; 0-0;     Rosario Central
+; Gimnasia y Esgrima (LP); 1-0;     Racing (Cba.)
+; Argentinos Juniors; 2-0;  Deportivo Roca (Río Negro)
  
-Round: Round 9 
-[Dec 3]
-Vélez Sarsfield         2-1     Independiente
-Altos Hornos Zapla (J)  0-0     Rosario Central
-Gimnasia y Esgrima (LP) 1-0     Racing (Cba.)
-Argentinos Juniors 2-0  Deportivo Roca (Río Negro)
+Round: 10
+Date: 12/6/1978
+
+; Independiente          ; 4-2;     Argentinos Juniors
+; Deportivo Roca (RN)    ; 0-0;     Gimnasia y Esgrima (LP)
+; Racing (Cba.)          ; 3-1;     Altos Hornos Zapla (Jujuy)
+; Rosario Central                ; 0-0;   Vélez Sarsfield
  
-Round: Round 10
-[Dec 6]
-Independiente           4-2     Argentinos Juniors
-Deportivo Roca (RN)     0-0     Gimnasia y Esgrima (LP)
-Racing (Cba.)           3-1     Altos Hornos Zapla (Jujuy)
-Rosario Central                 0-0   Vélez Sarsfield
+Round: 11
+Date: 12/9/1978
+
+; Rosario Central        ; 2-2;     Independiente
+; Gimnasia y Esgrima (LP); 1-1;     Argentinos Juniors
+
+Date: 12/10/1978
+
+; Vélez Sarsfield        ; 0-0;     Racing (Cba.)
+; Altos Hornos Zapla (J) ; 0-1;     Deportivo Roca (Río Negro)
  
-Round: Round 11
-[Dec 9]
-Rosario Central         2-2     Independiente
-Gimnasia y Esgrima (LP) 1-1     Argentinos Juniors
-[Dec 10]
-Vélez Sarsfield         0-0     Racing (Cba.)
-Altos Hornos Zapla (J)  0-1     Deportivo Roca (Río Negro)
+Round: 12
+Date: 12/13/1978
+
+; Independiente          ; 3-1;     Gimnasia y Esgrima (LP)
+; Argentinos Juniors     ; 5-3;     Altos Hornos Zapla (Jujuy)
+; Deportivo Roca (RN)    ; 1-2;     Vélez Sarsfield
+; Racing (Cba.)          ; 2-0;     Rosario Central
  
-Round: Round 12
-[Dec 13]
-Independiente           3-1     Gimnasia y Esgrima (LP)
-Argentinos Juniors      5-3     Altos Hornos Zapla (Jujuy)
-Deportivo Roca (RN)     1-2     Vélez Sarsfield
-Racing (Cba.)           2-0     Rosario Central
+Round: 13
+Date: 12/16/1978
+
+; Rosario Central        ; 0-1;     Deportivo Roca (Río Negro)
+
+Date: 12/17/1978
+
+; Racing (Cba.)          ; 1-1;     Independiente
+; Vélez Sarsfield                ; 2-0;     Argentinos Juniors
+; Altos Hornos Zapla (J)         ; 3-2;     Gimnasia y Esgrima (LP)
  
-Round: Round 13
-[Dec 16]
-Rosario Central         0-1     Deportivo Roca (Río Negro)
-[Dec 17]
-Racing (Cba.)           1-1     Independiente
-Vélez Sarsfield                 2-0     Argentinos Juniors
-Altos Hornos Zapla (J)          3-2     Gimnasia y Esgrima (LP)
+Round: 14
+Date: 12/20/1978
+
+; Independiente          ; 2-1;     Altos Hornos Zapla (Jujuy)
+; Gimnasia y Esgrima (LP); 5-1;     Vélez Sarsfield
+; Argentinos Juniors; 1-2;  Rosario Central                 ; Huracán
+; Deportivo Roca (RN)    ; 2-0;     Racing (Cba.)
  
-Round: Round 14
-[Dec 20]
-Independiente           2-1     Altos Hornos Zapla (Jujuy)
-Gimnasia y Esgrima (LP) 5-1     Vélez Sarsfield
-Argentinos Juniors 1-2  Rosario Central                 [at Huracán]
-Deportivo Roca (RN)     2-0     Racing (Cba.)
- 
-Group: Group C
+Group: C
 
 * 1. Independiente                    14   9   3   2    6  1  0   3  2  2   31 16   21   [Qualified]
 * 2. Vélez Sarsfield                  14   8   5   1    5  2  0   3  3  1   20 14   21   [Qualified]
@@ -1046,111 +1205,129 @@ Group: Group C
 * 7. Argentinos Juniors               14   4   1   9    3  0  4   1  1  5   17 26    9
 * 8. Altos Hornos Zapla (Jujuy)       14   1   4   9    1  3  3   0  1  6   14 29    6 
 
-Group: Group D
+Group: D
 
+Round: 1 
+Date: 11/5/1978
+
+; River Plate            ; 2-0;     San Lorenzo
+; Alvarado (MdP)                 ; 1-3; Colón (Sta. Fe)                     ; Gral. San Martín
+; Atlanta                            ; 1-1;   San Martín (Mendoza)
+; San Martín (Tucumán)               ; 0-0;   Quilmes                       
+*[Later awarded 0-1]
  
-Round: Round 1 
-[Nov 5]
-River Plate             2-0     San Lorenzo
-Alvarado (MdP)                  1-3 Colón (Sta. Fe)                     [at Gral. San Martín]
-Atlanta                             1-1   San Martín (Mendoza)
-San Martín (Tucumán)                0-0   Quilmes                       [Later awarded 0-1]
+Round: 2
+Date: 11/8/1978
+
+; San Lorenzo            ; 2-1;     Quilmes
+; San Martín (Mendoza)   ; 0-0;     San Martín (Tucumán)            
+*[San Martín (Mza.) won points; awarded 1-0]
+; Colón (Sta. Fe)                ; 3-1; Atlanta
+
+Date: 11/9/1978
+
+; River Plate            ; 4-0;     Alvarado (Mar del Plata)
  
-Round: Round 2
-[Nov 8]
-San Lorenzo             2-1     Quilmes
-San Martín (Mendoza)    0-0     San Martín (Tucumán)            [San Martín (Mza.) won points; awarded 1-0]
-Colón (Sta. Fe)                 3-1 Atlanta
-[Nov 9]
-River Plate             4-0     Alvarado (Mar del Plata)
+Round: 3
+Date: 11/12/1978
+
+; Alvarado (MdP)         ; 0-0;     San Lorenzo                     ; Gral. San Martín
+; Atlanta                        ; 0-2; River Plate
+; San Martín (Tucumán)           ; 2-0; Colón (Sta. Fe)
+; Quilmes                            ; 4-1;   San Martín (Mendoza)
  
-Round: Round 3
-[Nov 12]
-Alvarado (MdP)          0-0     San Lorenzo                     [at Gral. San Martín]
-Atlanta                         0-2 River Plate
-San Martín (Tucumán)            2-0 Colón (Sta. Fe)
-Quilmes                             4-1   San Martín (Mendoza)
+Round: 4 
+Date: 11/15/1978
+
+; San Lorenzo            ; 2-1;     San Martín (Mendoza)
+; Colón (Sta. Fe)                ; 5-0; Quilmes
+; River Plate                    ; 2-1; San Martín (Tucumán)
+; Alvarado (MdP)                     ; 2-1; Atlanta                         ; Gral. San Martín
  
-Round: Round 4 
-[Nov 15]
-San Lorenzo             2-1     San Martín (Mendoza)
-Colón (Sta. Fe)                 5-0 Quilmes
-River Plate                     2-1 San Martín (Tucumán)
-Alvarado (MdP)                      2-1 Atlanta                         [at Gral. San Martín]
+Round: 5 
+Date: 11/19/1978
+
+; Atlanta                ; 1-1;     San Lorenzo
+; San Martín (Tucumán)   ; 4-1;     Alvarado (Mar del Plata)
+; Quilmes                        ; 0-3;      River Plate
+; San Martín (Mendoza)           ; 2-1;      Colón (Sta. Fe)
  
-Round: Round 5 
-[Nov 19]
-Atlanta                 1-1     San Lorenzo
-San Martín (Tucumán)    4-1     Alvarado (Mar del Plata)
-Quilmes                         0-3      River Plate
-San Martín (Mendoza)            2-1      Colón (Sta. Fe)
+Round: 6 
+Date: 11/22/1978
+
+; San Lorenzo            ; 1-2;     Colón (Sta. Fe)
+; River Plate                    ; 3-1;   San Martín (Mendoza)
+; Alvarado (MdP)                       ; 1-1; Quilmes
+; Atlanta                                  ; 2-1;   San Martín (Tucumán)
  
-Round: Round 6 
-[Nov 22]
-San Lorenzo             1-2     Colón (Sta. Fe)
-River Plate                     3-1   San Martín (Mendoza)
-Alvarado (MdP)                        1-1 Quilmes
-Atlanta                                   2-1   San Martín (Tucumán)
+Round: 7 
+Date: 11/26/1978
+
+; San Martín (Tucumán)   ; 3-0;     San Lorenzo
+; Quilmes                        ; 2-4; Atlanta
+; San Martín (Mendoza)           ; 0-1; Alvarado (Mar del Plata)
+; Colón (Sta. Fe)                    ; 2-2;      River Plate
  
-Round: Round 7 
-[Nov 26]
-San Martín (Tucumán)    3-0     San Lorenzo
-Quilmes                         2-4 Atlanta
-San Martín (Mendoza)            0-1 Alvarado (Mar del Plata)
-Colón (Sta. Fe)                     2-2      River Plate
+Round: 8 
+Date: 11/29/1978
+
+; San Lorenzo            ; 1-4;     River Plate
+; Colón (Sta. Fe)                ; 1-0;   Alvarado (Mar del Plata)
+; San Martín (Mendoza)           ; 1-1;   Atlanta
+; Quilmes                              ; 2-2;       San Martín (Tucumán)
  
+Round: 9 
+Date: 12/3/1978
+
+; Quilmes                ; 1-0;     San Lorenzo
+; San Martín (Tucumán)   ; 1-2;     San Martín (Mendoza)
+; Atlanta                        ; 0-1; Colón (Sta. Fe)
+; Alvarado (MdP)                     ; 0-2;   River Plate                   ; Gral. San Martín
  
-Round: Round 8 
-[Nov 29]
-San Lorenzo             1-4     River Plate
-Colón (Sta. Fe)                 1-0   Alvarado (Mar del Plata)
-San Martín (Mendoza)            1-1   Atlanta
-Quilmes                               2-2       San Martín (Tucumán)
+Round: 10
+Date: 12/6/1978
+
+; San Lorenzo            ; 0-5;     Alvarado (Mar del Plata)
+; River Plate                    ; 3-3;      Atlanta
+; Colón (Sta. Fe)                         ; 2-2;    San Martín (Tucumán)
+; San Martín (Mendoza)                    ; 2-1;    Quilmes
  
-Round: Round 9 
-[Dec 3]
-Quilmes                 1-0     San Lorenzo
-San Martín (Tucumán)    1-2     San Martín (Mendoza)
-Atlanta                         0-1 Colón (Sta. Fe)
-Alvarado (MdP)                      0-2   River Plate                   [at Gral. San Martín]
+Round: 11
+Date: 12/10/1978
+
+; San Martín (Mendoza)   ; 2-0;     San Lorenzo
+; Quilmes                        ; 2-1; Colón (Sta. Fe)
+; San Martín (Tucumán)           ; 1-1; River Plate
+; Atlanta                            ; 4-4;   Alvarado (Mar del Plata)
  
-Round: Round 10
-[Dec 6]
-San Lorenzo             0-5     Alvarado (Mar del Plata)
-River Plate                     3-3      Atlanta
-Colón (Sta. Fe)                          2-2    San Martín (Tucumán)
-San Martín (Mendoza)                     2-1    Quilmes
+Round: 12
+Date: 12/13/1978
+
+; San Lorenzo            ; 1-1;     Atlanta
+; Alvarado (MdP)                 ; 2-4;     San Martín (Tucumán)
+; River Plate                            ; 3-0; Quilmes
+; Colón (Sta. Fe)                            ; 2-1; San Martín (Mendoza)
  
-Round: Round 11
-[Dec 10]
-San Martín (Mendoza)    2-0     San Lorenzo
-Quilmes                         2-1 Colón (Sta. Fe)
-San Martín (Tucumán)            1-1 River Plate
-Atlanta                             4-4   Alvarado (Mar del Plata)
+Round: 13
+Date: 12/16/1978
+
+; San Martín (Tucumán)   ; 1-1;     Atlanta
+
+Date: 12/17/1978
+
+; Colón (Sta. Fe)        ; 0-0;     San Lorenzo
+; San Martín (Mendoza)   ; 4-3;     River Plate
+; Quilmes                        ; 1-1;   Alvarado (Mar del Plata)
  
-Round: Round 12
-[Dec 13]
-San Lorenzo             1-1     Atlanta
-Alvarado (MdP)                  2-4     San Martín (Tucumán)
-River Plate                             3-0 Quilmes
-Colón (Sta. Fe)                             2-1 San Martín (Mendoza)
+Round: 14
+Date: 12/20/1978
+
+; San Lorenzo            ; 5-2;     San Martín (Tucumán)
+; Atlanta                            ; 2-0;    Quilmes
+; Alvarado (MdP)                            ; 2-3;  San Martín (Mendoza)
+; River Plate                                    ; 1-0; Colón (Sta. Fe)
  
-Round: Round 13
-[Dec 16]
-San Martín (Tucumán)    1-1     Atlanta
-[Dec 17]
-Colón (Sta. Fe)         0-0     San Lorenzo
-San Martín (Mendoza)    4-3     River Plate
-Quilmes                         1-1   Alvarado (Mar del Plata)
- 
-Round: Round 14
-[Dec 20]
-San Lorenzo             5-2     San Martín (Tucumán)
-Atlanta                             2-0    Quilmes
-Alvarado (MdP)                             2-3  San Martín (Mendoza)
-River Plate                                     1-0 Colón (Sta. Fe)
- 
-Group: Group D
+Group: D
 
 * 1. River Plate                      14  10   3   1    6  1  0   4  2  1   35 13   23   [Qualified]
 * 2. Colón (Santa Fe)                 14   7   3   4    4  3  0   3  0  4   23 15   17   [Qualified]
@@ -1162,56 +1339,61 @@ Group: Group D
 * 7. Alvarado (Mar del Plata)         14   3   4   7    1  2  4   2  2  3   20 28   10
 * 8. San Lorenzo                      14   3   4   7    3  1  3   0  3  4   13 25   10 
  
+Group:  
  
- 
-Quarterfinals
+Round: Quarterfinals
 
-1st. leg:
-[Dec 23]
-Colón (Sta. Fe)         2-2     Independiente
-Huracán                 2-1     Talleres (Cba.)
-River Plate                     2-0      Vélez Sarsfield
-Racing Club                              1-2   Unión (Sta. Fe)
-2nd. leg:
-[Dec 27] 
-Independiente           2-0     Colón (Sta. Fe)
-Talleres (Cba.)         3-0     Huracán
-Vélez Sarsfield         2-1     River Plate
-Unión (Sta. Fe)         1-0     Racing Club
-Semifinals:
- 
+*1st. leg:
+Date: 12/23/1978
 
-1st. leg:
-[Dec 30] 
-Independiente           2-1     Talleres (Cba.)
-Unión (Sta. Fe)         0-1     River Plate
-2nd. leg:
-[Jan 3, 1979]
-Talleres (Cba.)         1-2      Independiente                  [at Córdoba]
-River Plate                      1-1                             Unión (Sta. Fe)   
+; Colón (Sta. Fe)        ; 2-2;     Independiente
+; Huracán                ; 2-1;     Talleres (Cba.)
+; River Plate                    ; 2-0;      Vélez Sarsfield
+; Racing Club                             ; 1-2;   Unión (Sta. Fe)
+
+*2nd. leg:
+Date: 12/27/1978
+
+; Independiente          ; 2-0;     Colón (Sta. Fe)
+; Talleres (Cba.)        ; 3-0;     Huracán
+; Vélez Sarsfield        ; 2-1;     River Plate
+; Unión (Sta. Fe)        ; 1-0;     Racing Club
+
+Round: Semifinals
+ 
+*1st. leg:
+Date: 12/30/1978
+
+; Independiente          ; 2-1;     Talleres (Cba.)
+; Unión (Sta. Fe)        ; 0-1;     River Plate
+
+*2nd. leg:
+Date: 1/3/1979
+
+; Talleres (Cba.)        ; 1-2;      Independiente                  ; Córdoba
+; River Plate                     ; 1-1;                             Unión (Sta. Fe)   
  
  
-Final:  
+Round: Final
  
-1st. leg:
-[Jan 7, 1979]    
-River Plate             0-0     Independiente
-2nd. leg: 
-[Jan 10, 1979]
-Independiente           2-0     River Plate 
+*1st. leg:
+1/7/1979; River Plate            ; 0-0;     Independiente
+
+*2nd. leg: 
+1/10/1979; Independiente          ; 2-0;     River Plate 
  
  
-Independiente won the championship with the following line- ups:
- 
-Independiente:          Baley; Pagnanini, Villaverde, Trossero, O. Pérez; 
-                                          Larrosa, Fren, Bochini; Alzamendi (Fontana), Outes, Barberón.  
-                                                         Coach: José Pastoriza.
-River Plate:                                                    Fillol; Saporiti, Pavoni, Passarella, H. López; 
-                                                                        J.J. López, Merlo, Alonso; Pedro González (Galletti), Luque, Ortiz.  
-                                                                                    Coach: Angel Labruna. 
-Goals:                                                                                           19' Bochini; 54' Bochini.
-Referee:                                                                                             Romero
-Tickets:                                                                                                43.422.
+*Independiente won the championship with the following line- ups:
+* 
+*Independiente:          Baley; Pagnanini, Villaverde, Trossero, O. Pérez; 
+*                                          Larrosa, Fren, Bochini; Alzamendi (Fontana), Outes, Barberón.  
+*                                                         Coach: José Pastoriza.
+*River Plate:                                                    Fillol; Saporiti, Pavoni, Passarella, H. López; 
+*                                                                        J.J. López, Merlo, Alonso; Pedro González (Galletti), Luque, Ortiz.  
+*                                                                                    Coach: Angel Labruna. 
+*Goals:                                                                                           19' Bochini; 54' Bochini.
+*Referee:                                                                                             Romero
+*Tickets:                                                                                                43.422.
  
 
 *Source: Magazine: El Gráfico.

@@ -1,8 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg83.html
 
-Argentina 1983 - Campeonato Nacional
-
-Campeonato Nacional 1983
+Season: 1983
+Competition: Campeonato Nacional
 
 *First Stage.                     
 
@@ -437,7 +436,7 @@ Round: 2.2.3
 Date: 5/ 8/1983                                                        
 ; Huracán (BA)           ; 2-1;       Unión (SF) 
 
-Group E.                         
+Group: E                         
 
 Round: 2.1.1                                            
 Date: 4/17/1983                                                                        
@@ -555,7 +554,7 @@ Round: 2.2.3
 Date: 5/ 8/1983                                                        
 ; Racing (C)             ; 3-2;       Renato Cesarini         ; Córdoba
 
-"Group A vs. B; C vs. D; E vs. F & G vs. H."                     
+*"Group A vs. B; C vs. D; E vs. F & G vs. H."                     
 
 Round: 2.1.1          
 Date: 4/17/1983                                
@@ -626,7 +625,7 @@ Date: 5/16/1983
 Round: 3.2                                                                              
 Date: 5/18/1983                                                                                                                
 
-; Argentinos Juniors   ; 3-2 (aet); aet     Boca Juniors            ; River Plate  
+; Argentinos Juniors   ; 3-2 (aet);     Boca Juniors            ; River Plate  
 ; Ferro Carril Oeste (BA); 2-2;       Estudiantes LP   
 ; Independiente (A); 1-0 (aet);   Unión (SF)       
 Penalty kicks: 6-5
@@ -702,7 +701,7 @@ Round: 6.2:
 
 
 
-Campeonato Metropolitano 1983.
+Competition: Campeonato Metropolitano
 
 Round: 1.1
 Date: 6/11/1983
@@ -833,7 +832,8 @@ Round: 1.9
 Date: 7/23/1983
 
 ; Newell's Old Boys      ; 2-0;       San Lorenzo de Almagro                   
-(Suspended ; 87')                                                         
+*(Suspended ; 87')                                                         
+
 Date: 7/24/1983
 ; Argentinos Juniors     ; 2-0;       Unión (SF)              ; Ferro Carril Oeste    
 ; Estudiantes LP         ; 3-3;       Huracán (BA)             

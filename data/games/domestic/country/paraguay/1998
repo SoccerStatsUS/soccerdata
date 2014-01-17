@@ -15,15 +15,19 @@ Season: 1998 Apertura
 *11.Nacional               11  2  4  5 18-20 10
 *12.Libertad               11  2  4  5  8-12 10
 
-; Round: 1 [Feb; 15-17]
-P; Hayes    2-2 Nacional
+Round: 1 
+Date: 2/15/1998
+*[Feb; 15-17]
+
+; P Hayes   ; 2-2; Nacional
 ; Colegiales; 1-1; Guarani
 ; Sol       ; 4-3; Cerro C
 ; Olimpia   ; 4-1; Luqueno
 ; Cerro P   ; 2-1; S Lorenzo
 ; Libertad  ; 1-1; 12 Octubre
 
-Round: 2 [Feb 22]
+Round: 2 
+Date: 2/22/1998
 ; Olimpia   ; 1-1; P Hayes
 ; Cerro C   ; 0-1; Libertad 
 ; 12 Octubre; 2-1; Colegiales 
@@ -31,7 +35,9 @@ Round: 2 [Feb 22]
 ; Cerro P   ; 6-0; Luqueno
 ; S Lorenzo ; 1-1; Sol
 
-Round: 3 [Mar 1]
+Round: 3 
+Date: 3/1/1998
+
 ; Colegiales; 1-0; P Hayes
 ; Sol       ; 1-1; Guarani
 ; Libertad  ; 1-1; Nacional
@@ -39,7 +45,9 @@ Round: 3 [Mar 1]
 ; Cerro C   ; 0-1; Olimpia
 ; Luqueno   ; 2-0; S Lorenzo
 
-Round: 4 [Mar 8]
+Round: 4 
+Date: 3/8/1998
+
 ; Olimpia   ; 1-0; Sol
 ; Luqueno   ; 2-0; Libertad   
 ; S Lorenzo ; 2-0; Colegiales
@@ -47,7 +55,9 @@ Round: 4 [Mar 8]
 ; 12 Octubre; 1-1; Guarani
 ; Cerro P   ; 1-2; P Hayes
 
-Round: 5 [Mar 15]
+Round: 5 
+Date: 3/15/1998
+
 ; Colegiales; 1-3; Luqueno
 ; Cerro P   ; 3-1; Sol
 ; Guarani   ; 2-3; Cerro C
@@ -55,7 +65,9 @@ Round: 5 [Mar 15]
 ; Nacional  ; 2-0; S Lorenzo
 ; P Hayes   ; 2-1; 12 Octubre
 
-Round: 6 [Mar 22]
+Round: 6 
+Date: 3/22/1998
+
 ; Cerro C   ; 3-2; 12 Octubre
 ; Olimpia   ; 1-0; Colegiales
 ; S Lorenzo ; 0-1; Guarani
@@ -63,7 +75,9 @@ Round: 6 [Mar 22]
 ; Luqueno   ; 2-2; Nacional
 ; Cerro P   ; 1-0; Libertad
 
-Round: 7 [Apr 5]
+Round: 7 
+Date: 4/5/1998
+
 ; Cerro C   ; 0-0; P Hayes
 ; 12 Octubre; 4-0; S Lorenzo
 ; Luqueno   ; 2-0; Guarani
@@ -71,7 +85,9 @@ Round: 7 [Apr 5]
 ; Cerro P   ; 3-2; Colegiales
 ; Libertad  ; 2-0; Sol
 
-Round: 8 [Apr 12]
+Round: 8 
+Date: 4/12/1998
+
 ; Libertad  ; 0-1; P Hayes
 ; Sol       ; 0-0; Colegiales
 ; Cerro P   ; 3-2; Nacional
@@ -79,7 +95,9 @@ Round: 8 [Apr 12]
 ; Cerro C   ; 1-3; S Lorenzo
 ; Luqueno   ; 1-0; 12 Octubre
 
-Round: 9 [May 3]
+Round: 9 
+Date: 5/3/1998
+
 ; Colegiales; 0-0; Libertad
 ; Sol       ; 3-1; Nacional
 ; Cerro C   ; 1-1; Luqueno
@@ -87,7 +105,9 @@ Round: 9 [May 3]
 ; Cerro P   ; 2-0; Guarani
 ; P Hayes   ; 1-1; S Lorenzo
 
-Round: 10 [May 10]
+Round: 10 
+Date: 5/10/1998
+
 ; P Hayes   ; 1-0; Guarani
 ; Sol       ; 1-1; Luqueno
 ; Nacional  ; 4-0; 12 Octubre
@@ -95,7 +115,9 @@ Round: 10 [May 10]
 ; Libertad  ; 2-2; S Lorenzo
 ; Cerro P   ; 1-1; Olimpia   
 
-Round: 11 [May 17]
+Round: 11 
+Date: 5/17/1998
+
 ; S Lorenzo ; 2-1; Olimpia
 ; Guarani   ; 2-1; Libertad
 ; Cerro C   ; 1-0; Cerro P    
@@ -103,7 +125,7 @@ Round: 11 [May 17]
 ; Colegiales; 2-1; Nacional
 ; 12 Octubre; 2-0; Sol
 
-*Table:
+
 * 1.Cerro Porteño          11  8  1  2 24-10 25
 * 2.Sportivo Luqueño       11  6  3  2 17-16 21
 * 3.Olimpia                11  6  2  3 15- 7 20
@@ -133,19 +155,26 @@ Tables:
 * 3.Presidente Hayes        2  0  0  2  2- 6  1,5  (1,5 BP)
 * 4.Cerro Corá              2  0  1  1  2- 4  1
 
-Round: 1 [May 21,22]
+Round: 1 
+*[May 21,22]
+Date: 5/21/1998
+
 ; Olimpia   ; 5-1; Luqueno
 ; Guarani   ; 4-3; Sol
 ; 12 Octubre; 2-0; P Hayes 
 ; Cerro P   ; 2-0; Cerro C
 
-Round: 2 [May 25]
+Round: 2 
+Date: 5/25/1998
 ; 12 Octubre; 2-2; Cerro C
 ; Sol       ; 1-0; Olimpia
 ; Guarani   ; 1-1; Luqueno
 ; Cerro P   ; 4-2; P Hayes 
 
-Round: 3 [May 28,29]
+Round: 3 
+*[May 28,29]
+Date: 5/28/1998
+
 ; Sol       ; 2-1; Luqueno
 ; Olimpia   ; 2-0; Guarani    
 ; Cerro P   ; 4-0; 12 Octubre 
@@ -163,25 +192,26 @@ Round: 3 [May 28,29]
 * 3.Cerro Corá              3  1  1  1  3- 4  4
 * 4.Presidente Hayes        3  0  0  3  2- 7  1,5  (1,5 BP)
 
-Semifinals 
+Round: Semifinals 
 
-First Legs [May 31]
-Olimpia    3-1 12 Octubre 
-Sol        1-0 Cerro P 
+*First Legs [May 31]
+5/31/1998; Olimpia   ; 3-1; 12 Octubre 
+5/31/1998; Sol       ; 1-0; Cerro P 
 
-Second Legs [Jun 2]
-Cerro P    1-0 Sol              [6-7 pen]
-12 Octubre 1-1 Olimpia
+*Second Legs [Jun 2]
+6/2/1998; Cerro P   ; 1-0; Sol              
+*[6-7 pen]
+6/2/1998; 12 Octubre; 1-1; Olimpia
 
-Final
+Round: Final
 
-First Leg [Jun 5]
-Olimpia    2-0 Sol  
+*First Leg [Jun 5]
+6/5/1998; Olimpia   ; 2-0; Sol  
 
-Second Leg [Jun 7]
-Sol        1-1 Olimpia
+*Second Leg [Jun 7]
+6/7/1998; Sol       ; 1-1; Olimpia
 
-Olimpia Apertura winners.
+*Olimpia Apertura winners.
 
 
 Season: 1998 Clausura
@@ -199,7 +229,10 @@ Season: 1998 Clausura
 *11.Libertad               11  1  6  4 12-18  9
 *11.Presidente Hayes       11  1  5  5 12-18  8
 
-Round: 1 [Jul 25,26]
+Round: 1 
+*[Jul 25,26]
+Date: 7/25/1998
+
 ; Cerro P   ; 2-1; S Lorenzo
 ; Olimpia   ; 0-1; Luqueno
 ; 12 Octubre; 2-1; Libertad  
@@ -207,7 +240,10 @@ Round: 1 [Jul 25,26]
 ; Nacional  ; 2-2; P Hayes    
 ; Cerro C   ; 0-3; Sol  
 
-Round: 2 [Aug 1,2]
+Round: 2 
+*[Aug 1,2]
+Date: 8/1/1998
+
 ; Cerro P   ; 5-0; Luqueno
 ; Libertad  ; 1-1; Cerro C 
 ; 12 Octubre; 2-3; Colegiales
@@ -215,15 +251,20 @@ Round: 2 [Aug 1,2]
 ; Sol       ; 1-1; S Lorenzo
 ; P Hayes   ; 0-0; Olimpia    
 
-Round: 3 [Aug 8,9]
+Round: 3 
+*[Aug 8,9]
+Date: 8/8/1998
+
 ; 12 Octubre; 2-5; Cerro P
 ; Cerro C   ; 1-0; Olimpia
 ; P Hayes   ; 0-1; Colegiales
-; Nacional  ; 3-3; Libertad      [draw?; reported 3-2]
+; Nacional  ; 3-3; Libertad      
+*[draw?; reported 3-2]
 ; Guarani   ; 2-2; Sol
 ; S Lorenzo ; 1-1; Luqueno
 
-Round: 4 [Aug 16]
+Round: 4 
+Date: 8/16/1998
 ; Nacional  ; 1-5; Cerro C
 ; Libertad  ; 0-0; Luqueno
 ; Guarani   ; 1-1; 12 Octubre
@@ -231,15 +272,18 @@ Round: 4 [Aug 16]
 ; Colegiales; 2-0; S Lorenzo
 ; P Hayes   ; 1-3; Cerro P
 
-Round: 5 [Aug 23]
+Round: 5 
+Date: 8/23/1998
 ; Olimpia   ; 3-1; Libertad
 ; Cerro P   ; 1-0; Sol
 ; Luqueno   ; 3-1; Colegiales
 ; S Lorenzo ; 1-1; Nacional 
 ; 12 Octubre; 3-2; P Hayes
-; Cerro C   ; 1-3; Guarani       [Aug 26]
+8/26/1998; Cerro C   ; 1-3; Guarani       
 
-Round: 6 [Aug 30]
+Round: 6 
+Date: 8/30/1998
+
 ; Cerro P   ; 3-0; Libertad
 ; Colegiales; 0-0; Olimpia
 ; 12 Octubre; 3-1; Cerro C
@@ -247,7 +291,9 @@ Round: 6 [Aug 30]
 ; Guarani   ; 2-0; S Lorenzo
 ; P Hayes   ; 0-0; Sol
 
-Round: 7 [Sep 6]
+Round: 7 
+Date: 9/6/1998
+
 ; Cerro C   ; 4-2; P Hayes
 ; 12 Octubre; 1-3; S Lorenzo
 ; Luqueno   ; 0-1; Guarani  
@@ -256,6 +302,7 @@ Round: 7 [Sep 6]
 ; Sol       ; 1-1; Libertad
 
 Round: 8
+Date: 
 ; 12 Octubre; 1-0; Luqueno
 ; Cerro C   ; 1-1; S Lorenzo
 ; Colegiales; 2-1; Sol
@@ -264,6 +311,7 @@ Round: 8
 ; P Hayes   ; 1-1; Libertad
 
 Round: 9
+
 ; Cerro P   ; 1-3; Guarani
 ; Libertad  ; 1-0; Colegiales
 ; Olimpia   ; 1-1; 12 Octubre
@@ -272,6 +320,7 @@ Round: 9
 ; Luqueno   ; 0-1; Cerro C
 
 Round: 10
+
 ; 12 Octubre; 1-2; Nacional
 ; Cerro C   ; 2-1; Colegiales
 ; Guarani   ; 0-1; P Hayes
@@ -280,6 +329,7 @@ Round: 10
 ; Luqueno   ; 0-0; Sol   
 
 Round: 11
+
 ; Cerro P   ; 1-1; Cerro C
 ; Colegiales; 1-2; Nacional
 ; Libertad  ; 3-4; Guarani
@@ -300,9 +350,9 @@ Round: 11
 *11.Libertad               11  1  6  4 12-18  9
 *12.Presidente Hayes       11  1  5  5 12-18  8
 
-[Nacional is relegated and therefore does not qualify for the Liguilla]
-
-Liguilla
+*[Nacional is relegated and therefore does not qualify for the Liguilla]
+*
+*Liguilla
 
 *Group A
 * 1.Cerro Porteño           3  3  0  0  7- 3 12    (3   BP)
@@ -318,18 +368,21 @@ Group B
 * 4.12 de Octubre           3  0  0  3  2- 6  1    (1   BP)
 
 Round: 1
+
 ; Sol       ; 1-3; S Lorenzo
 ; Cerro P   ; 1-0; Colegiales
 ; 12 Octubre; 0-1; Guarani
 ; Olimpia   ; 2-2; Cerro C
 
 Round: 2
+
 ; S Lorenzo ; 2-3; Cerro P
 ; Colegiales; 1-1; Sol
 ; Guarani   ; 1-2; Olimpia
 ; Cerro C   ; 2-1; 12 Octubre
 
 Round: 3
+
 ; S Lorenzo ; 1-3; Colegiales
 ; Cerro P   ; 3-1; Sol
 ; Guarani   ; 2-2; Cerro C
@@ -347,58 +400,59 @@ Round: 3
 * 3.Guaraní                 3  1  1  1  4- 4  6,5  (2,5 BP)  
 * 4.12 de Octubre           3  0  0  3  2- 6  1    (1   BP)
 
-Semifinals
+Round: Semifinals
 
-First Legs
-Cerro C    1-0 Cerro P
-Colegiales 0-5 Olimpia
+*First Legs
+; Cerro C   ; 1-0; Cerro P
+; Colegiales; 0-5; Olimpia
 
-Second Legs
-Cerro P    3-0 Cerro C
-Olimpia    1-1 Colegiales
-
-
-Final
-
-First Leg 
-Olimpia    4-1 Cerro P
-
-Second Leg [Nov 22]
-Cerro P    3-0 Olimpia      [Cerro win 4-3 on penalties]
-
-Cerro Porteño Clausura winners
+*Second Legs
+; Cerro P   ; 3-0; Cerro C
+; Olimpia   ; 1-1; Colegiales
 
 
+Round: Final
 
-Championship Playoff:
+*First Leg 
+; Olimpia   ; 4-1; Cerro P
 
-First Leg [Nov 29]
-Cerro P    2-2  Olimpia    
+*Second Leg [Nov 22]
+11/22/1998; Cerro P   ; 3-0; Olimpia      
+*[Cerro win 4-3 on penalties]
 
-Second Leg
-Olimpia    3-1 Cerro P
-
-Olimpia 1998 Champions.
+*Cerro Porteño Clausura winners
 
 
-Aggregate Table:
 
- 1.Cerro Porteño          22 16  3  3 52-19 51
- 2.Guaraní                22 10  6  6 31-28 36
- 3.Olimpia                22  9  5  8 28-19 32
- 4.Sportivo Luqueño       22  8  8  6 25-29 32
- 5.Cerro Corá             22  8  6  8 33-34 30
- 6.12 de Octubre          22  8  5  9 32-35 29  [Itaugua]
- 7.Atlético Colegiales    22  8  4 10 24-29 28
- 8.Sol de América         22  5 11  6 24-25 26
- 9.Presidente Hayes       22  5  9  8 23-28 24
-10.Nacional               22  4 11  7 35-43 23
-11.San Lorenzo            22  5  8  9 25-33 23
-12.Libertad               22  3 10  9 20-30 19
+Round: Championship Playoff
 
-Promoted: Resistencia (won final versus Sportivo Iteño 4-2 on penalties).
+*First Leg [Nov 29]
+11/29/1998; Cerro P   ; 2-2;  Olimpia    
 
-Nacional and Libertad relegated on points average over the past two seasons:
+*Second Leg
+; Olimpia   ; 3-1; Cerro P
+
+*Olimpia 1998 Champions.
+
+
+*Aggregate Table:
+*
+* 1.Cerro Porteño          22 16  3  3 52-19 51
+* 2.Guaraní                22 10  6  6 31-28 36
+* 3.Olimpia                22  9  5  8 28-19 32
+* 4.Sportivo Luqueño       22  8  8  6 25-29 32
+* 5.Cerro Corá             22  8  6  8 33-34 30
+* 6.12 de Octubre          22  8  5  9 32-35 29  [Itaugua]
+* 7.Atlético Colegiales    22  8  4 10 24-29 28
+* 8.Sol de América         22  5 11  6 24-25 26
+* 9.Presidente Hayes       22  5  9  8 23-28 24
+*10.Nacional               22  4 11  7 35-43 23
+*11.San Lorenzo            22  5  8  9 25-33 23
+*12.Libertad               22  3 10  9 20-30 19
+*
+*Promoted: Resistencia (won final versus Sportivo Iteño 4-2 on penalties).
+*
+*Nacional and Libertad relegated on points average over the past two seasons:
 
 *                            1997    1998     total average
 *Cerro Porteño               41/24   51/22    92/46  2.000

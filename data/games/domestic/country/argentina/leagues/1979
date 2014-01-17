@@ -1,8 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg79.html
 
-Argentina - Domestic Championships 1979
-
-Campeonato Metropolitano [Metropolitan Championship]
+Season: 1979
+Competition: Campeonato Metropolitano
 
 Group: A
 
@@ -64,7 +63,7 @@ Date: 3/4/1979
 Date: 3/5/1979
 
 ; Gimnasia y Esgrima LPG   ; 2-1; Platense (VLo)
-; Quilmes                  ; 0-0; Newell's Old Boys          [at Banfield]
+; Quilmes                  ; 0-0; Newell's Old Boys          ; Banfield
 ; River Plate              ; 5-2; Huracán (BUE)
 ; Unión (SFN)              ; 1-1; Argentinos Juniors
 
@@ -74,13 +73,13 @@ Date: 3/11/1979
 ; Argentinos Juniors       ; 1-5; Racing Club
 ; Huracán (BUE)            ; 1-2; Quilmes
 ; Newell's Old Boys        ; 1-0; Gimnasia y Esgrima LPG
-; Platense (VLo)           ; 1-0; Unión (SFN)                [at Atlanta]
+; Platense (VLo)           ; 1-0; Unión (SFN)                ; Atlanta
 ; River Plate              ; 3-2; Vélez Sarsfield
 
 Round: 3
 Date: 3/17/1979
 
-; Quilmes                  ; 2-2; River Plate                [at Vélez Sarfield]
+; Quilmes                  ; 2-2; River Plate                ; Vélez Sarfield
 
 Date: 3/18/1979
 
@@ -94,7 +93,7 @@ Date: 3/25/1979
 
 ; Huracán (BUE)            ; 2-1; Unión (SFN)
 ; Newell's Old Boys        ; 3-1; Racing Club
-; Platense (VLo)           ; 1-2; Argentinos Juniors         [at Atlanta]
+; Platense (VLo)           ; 1-2; Argentinos Juniors         ; Atlanta
 ; Quilmes                  ; 0-0; Vélez Sarsfield
 ; River Plate              ; 1-0; Gimnasia y Esgrima LPG
 
@@ -119,8 +118,8 @@ Date: 4/8/1979
 Round: 7 
 Date: 4/15/1979
 
-; Argentinos Juniors       ; 3-1; River Plate                [at Ferro Carril Oeste (BUE)]
-; Platense (VLo)           ; 3-4; Huracán (BUE)              [at Atlanta]
+; Argentinos Juniors       ; 3-1; River Plate                ; Ferro Carril Oeste (BUE)
+; Platense (VLo)           ; 3-4; Huracán (BUE)              ; Atlanta
 ; Racing Club              ; 3-1; Quilmes
 ; Unión (SFN)              ; 1-0; Gimnasia y Esgrima LPG
 ; Vélez Sarsfield          ; 3-5; Newell's Old Boys
@@ -139,17 +138,17 @@ Date: 4/29/1979
 
 ; Argentinos Juniors       ; 3-0; Gimnasia y Esgrima LPG
 ; Newell's Old Boys        ; 0-1; River Plate
-; Platense (VLo)           ; 0-1; Quilmes                    [at Atlanta]
+; Platense (VLo)           ; 0-1; Quilmes                    ; Atlanta
 ; Racing Club              ; 2-2; Unión (SFN)
 ; Vélez Sarsfield          ; 2-0; Huracán (BUE)
 
 Round: 10 
 Date: 5/2/1979
 
-; Argentinos Juniors       ; 3-3; Unión (SFN)                [at San Lorenzo de Almagro]
+; Argentinos Juniors       ; 3-3; Unión (SFN)                ; San Lorenzo de Almagro
 ; Huracán (BUE)            ; 0-0; River Plate
 ; Newell's Old Boys        ; 0-0; Quilmes
-; Platense (VLo)           ; 1-2; Gimnasia y Esgrima LPG     [at Atlanta]
+; Platense (VLo)           ; 1-2; Gimnasia y Esgrima LPG     ; Atlanta
 ; Racing Club              ; 0-1; Vélez Sarsfield
 
 Round: 11 
@@ -167,13 +166,13 @@ Date: 5/13/1979
 ; Argentinos Juniors       ; 1-2; Vélez Sarsfield
 ; Huracán (BUE)            ; 3-1; Gimnasia y Esgrima LPG
 ; Newell's Old Boys        ; 3-1; Unión (SFN)
-; Platense (VLo)           ; 1-3; Racing Club                [at Atlanta]
+; Platense (VLo)           ; 1-3; Racing Club                ; Atlanta
 ; River Plate              ; 3-0; Quilmes
 
 Round: 13 
 Date: 6/10/1979
 
-; Argentinos Juniors       ; 5-1; Platense (VLo)             [at Ferro Carril Oeste (BUE)]
+; Argentinos Juniors       ; 5-1; Platense (VLo)             ; Ferro Carril Oeste (BUE)
 ; Gimnasia y Esgrima LPG   ; 0-3; River Plate
 ; Racing Club              ; 1-0; Newell's Old Boys
 ; Unión (SFN)              ; 1-1; Huracán (BUE)
@@ -184,15 +183,15 @@ Date: 6/17/1979
 
 ; Huracán (BUE)            ; 1-0; Racing Club
 ; Newell's Old Boys        ; 1-1; Argentinos Juniors
-; Platense (VLo)           ; 0-3; Vélez Sarsfield            [at Atlanta]
+; Platense (VLo)           ; 0-3; Vélez Sarsfield            ; Atlanta
 ; Quilmes                  ; 1-0; Gimnasia y Esgrima LPG
 ; River Plate              ; 0-0; Unión (SFN)
 
 Round: 15 
 Date: 6/23/1979
 
-; Argentinos Juniors       ; 3-2; Huracán (BUE)              [at Ferro Carril Oeste (BUE)]
-; Platense (VLo)           ; 0-0; Newell's Old Boys          [at Atlanta]
+; Argentinos Juniors       ; 3-2; Huracán (BUE)              ; Ferro Carril Oeste (BUE)
+; Platense (VLo)           ; 0-0; Newell's Old Boys          ; Atlanta
 ; Racing Club              ; 3-1; River Plate
 ; Unión (SFN)              ; 3-1; Quilmes
 ; Vélez Sarsfield          ; 2-1; Gimnasia y Esgrima LPG
@@ -211,7 +210,7 @@ Date: 7/8/1979
 
 ; Argentinos Juniors       ; 1-0; Quilmes
 ; Newell's Old Boys        ; 5-1; Huracán (BUE)
-; Platense (VLo)           ; 1-2; River Plate                [at Atlanta]
+; Platense (VLo)           ; 1-2; River Plate                ; Atlanta
 ; Racing Club              ; 0-0; Gimnasia y Esgrima LPG
 ; Vélez Sarsfield          ; 1-0; Unión (SFN)
 
@@ -226,7 +225,7 @@ Date: 7/15/1979
 
 *Playoff 
 
-7/22/1979; Vélez Sarsfield          ; 4-0; Argentinos Juniors         [at Ferro Carril Oeste (BUE)]
+7/22/1979; Vélez Sarsfield          ; 4-0; Argentinos Juniors         ; Ferro Carril Oeste (BUE)
 
 * 1. River Plate               18    9    6    3    28    19   24 (Semifinalist) 
 * 2. Vélez Sarsfield           18   10    3    5    27    20   23 (Semifinalist)
@@ -243,9 +242,9 @@ Group: B
 Round: 1 
 Date: 3/5/1979
 
-; All Boys                 ; 1-3; Colón                      [at Huracán (BUE)]
+; All Boys                 ; 1-3; Colón                      ; Huracán (BUE)
 ; Atlanta                  ; 1-1; Estudiantes LPG
-; Independiente (Ave)      ; 1-3; Ferro Carril Oeste (BUE)   [at Racing Club]
+; Independiente (Ave)      ; 1-3; Ferro Carril Oeste (BUE)   ; Racing Club
 ; Rosario Central          ; 6-0; Chacarita Juniors
 ; San Lorenzo de Almagro   ; 0-1; Boca Juniors
 
@@ -256,7 +255,7 @@ Date: 3/11/1979
 ; Colón                    ; 0-0; Atlanta
 ; Estudiantes LPG          ; 0-2; Rosario Central
 ; Ferro Carril Oeste (BUE) ; 2-1; Boca Juniors
-; Independiente (Ave)      ; 1-2; All Boys                   [at Racing Club]
+; Independiente (Ave)      ; 1-2; All Boys                   ; Racing Club
 
 Round: 3
 Date: 3/17/1979
@@ -331,7 +330,7 @@ Date: 5/2/1979
 ; Chacarita Juniors        ; 1-2; Rosario Central
 ; Colón                    ; 0-0; All Boys
 ; Estudiantes LPG          ; 1-0; Atlanta
-; Ferro Carril Oeste (BUE) ; 0-4; Independiente (Ave)        [at Vélez Sarsfield]
+; Ferro Carril Oeste (BUE) ; 0-4; Independiente (Ave)        ; Vélez Sarsfield
 
 Round: 11 
 Date: 5/6/1979
@@ -381,7 +380,7 @@ Date: 6/23/1979
 Round: 16 
 Date: 7/1/1979
 
-; All Boys                 ; 1-0; Boca Juniors               [at Vélez Sarsfield]
+; All Boys                 ; 1-0; Boca Juniors               ; Vélez Sarsfield
 ; Atlanta                  ; 1-1; San Lorenzo de Almagro
 ; Colón                    ; 0-0; Estudiantes LPG
 ; Ferro Carril Oeste (BUE) ; 3-3; Rosario Central
@@ -466,8 +465,8 @@ Round: Final
 *Referee:                  Teodoro Pascual Nitti.
 
 
- Torneo por el Descenso de Primera Categoría
- [First Division Relegation Tournament]
+* Torneo por el Descenso de Primera Categoría
+* [First Division Relegation Tournament]
 
 Round: 1 
 Date: 7/22/1979
@@ -514,8 +513,8 @@ Date: 8/26/1979
 
 
 
-Campeonato Nacional General Don José de San Martín
-[National Championship General Don José de San Martín]
+*Campeonato Nacional General Don José de San Martín
+*[National Championship General Don José de San Martín]
 
 
 
@@ -529,7 +528,7 @@ Group: A
 * 6. Alianza Juventud Pringles 14    3    5    6    15    21   11
 * 7. Atlético Ledesma          14    0    4   10    12    33    4
  
-Group B
+Group: B
 
 * 1. Talleres (COR)            14    8    4    2    31    20   20 (Quarter final)
 * 2. River Plate               14    7    4    3    26    14   18 (Quarter final)
@@ -594,7 +593,7 @@ Group: A
 Round: 1 
 Date: 9/2/1979
 
-; Alianza Juventud Pringles; 0-0; San Martín (TUC)           [at Estudiantes (LUQ)]
+; Alianza Juventud Pringles; 0-0; San Martín (TUC)           ; Estudiantes (LUQ)
 ; Atlético Ledesma         ; 0-0; Vélez Sarsfield            
 ; Ferro Carril Oeste (BUE) ; 0-1; Unión (SFN)                
                               
@@ -618,7 +617,7 @@ Date: 9/16/1979
 Round: 4 
 Date: 9/23/1979
 
-; Alianza Juventud Pringles; 2-1; Ferro Carril Oeste (BUE)                                                                   [at Estudiantes (LUQ)]
+; Alianza Juventud Pringles; 2-1; Ferro Carril Oeste (BUE)                                                                   ; Estudiantes (LUQ)
 ; San Martín (TUC)         ; 0-0; Independiente (Ave)                                                                        
 ; Vélez Sarsfield          ; 3-1; Unión (SFN)                                                                                
                                                                                                                          
@@ -632,7 +631,7 @@ Date: 9/30/1979
 Round: 6 
 Date: 10/7/1979
 
-; Alianza Juventud Pringles; 0-1; Unión (SFN)                                [at Estudiantes (LUQ)]
+; Alianza Juventud Pringles; 0-1; Unión (SFN)                                ; Estudiantes (LUQ)
 ; Atlético Ledesma         ; 0-3; Independiente (Ave)                        
 ; San Martín (TUC)         ; 1-3; Vélez Sarsfield                            
                                     
@@ -660,7 +659,7 @@ Date: 10/28/1979
 Round: 10 
 Date: 11/4/1979
 
-; Alianza Juventud Pringles; 1-1; Atlético Ledesma                                                                              [at Estudiantes (LUQ)]
+; Alianza Juventud Pringles; 1-1; Atlético Ledesma                                                                              ; Estudiantes (LUQ)
 ; San Martín (TUC)         ; 1-1; Ferro Carril Oeste (BUE)                                                                      
 ; Vélez Sarsfield          ; 3-1; Independiente (Ave)                                                                           
                                                                                                                             
@@ -668,13 +667,13 @@ Round: 11
 Date: 11/11/1979
 
 ; Ferro Carril Oeste (BUE) ; 3-2; Alianza Juventud Pringles                                                                          
-; Independiente (Ave)      ; 4-0; San Martín (TUC)                                                                                    [at Racing Club]
+; Independiente (Ave)      ; 4-0; San Martín (TUC)                                                                                    ; Racing Club
 ; Unión (SFN)              ; 1-1; Vélez Sarsfield                                                                                     
                                                                                                                                   
 Round: 12 
 Date: 11/18/1979
 
-; Alianza Juventud Pringles; 2-5; Independiente (Ave)                                                                                       [at Estudiantes (LUQ)]
+; Alianza Juventud Pringles; 2-5; Independiente (Ave)                                                                                       ; Estudiantes (LUQ)
 ; Atlético Ledesma         ; 0-2; Ferro Carril Oeste (BUE)                                                                                  
 ; San Martín (TUC)         ; 0-0; Unión (SFN)                                                                                               
                                     
@@ -688,7 +687,7 @@ Date: 11/25/1979
 Round: 14 
 Date: 12/2/1979
 
-; Alianza Juventud Pringles; 0-0; Vélez Sarsfield                            [at Estudiantes (LUQ)]
+; Alianza Juventud Pringles; 0-0; Vélez Sarsfield                            ; Estudiantes (LUQ)
 ; Atlético Ledesma         ; 3-3; Unión (SFN)                                
 ; Ferro Carril Oeste (BUE) ; 3-1; Independiente (Ave)                        
 
@@ -712,7 +711,7 @@ Round: 2
 Date: 9/9/1979
 
 ; Huracán (BUE)            ; 2-1; Quilmes                                                   
-; Kimberley (MDQ)          ; 2-1; River Plate                                                [at Mar del Plata]
+; Kimberley (MDQ)          ; 2-1; River Plate                                                ; Mar del Plata
 ; Newell's Old Boys        ; 5-1; Gimnasia y Tiro                                            
                                        
 Round: 3 
@@ -725,9 +724,9 @@ Date: 9/16/1979
 Round: 4 
 Date: 9/23/1979
 
-; Kimberley (MDQ)          ; 1-0; Quilmes                                                            [at Mar del Plata]
+; Kimberley (MDQ)          ; 1-0; Quilmes                                                            ; Mar del Plata
 ; Newell's Old Boys        ; 3-5; Huracán (BUE)                                                      
-; Talleres (COR)           ; 6-3; Gimnasia y Tiro                                                     [at Córdoba]
+; Talleres (COR)           ; 6-3; Gimnasia y Tiro                                                     ; Córdoba
                                          
 Round: 5 
 Date: 9/30/1979
@@ -739,9 +738,9 @@ Date: 9/30/1979
 Round: 6 
 Date: 10/7/1979
 
-; Kimberley (MDQ)          ; 1-3; Newell's Old Boys                                                                  [at Mar del Plata]
+; Kimberley (MDQ)          ; 1-3; Newell's Old Boys                                                                  ; Mar del Plata
 ; River Plate              ; 3-1; Quilmes                                                                            
-; Talleres (COR)           ; 4-2; Huracán (BUE)                                                                       [at Córdoba]
+; Talleres (COR)           ; 4-2; Huracán (BUE)                                                                       ; Córdoba
                                                                                                                   
 Round: 7 
 Date: 10/14/1979
@@ -754,7 +753,7 @@ Round: 8
 Date: 10/21/1979
 
 ; Huracán (BUE)            ; 3-0; Gimnasia y Tiro                                                                                    
-; Kimberley (MDQ)          ; 1-3; Talleres (COR)                                                                                      [at Mar del Plata]
+; Kimberley (MDQ)          ; 1-3; Talleres (COR)                                                                                      ; Mar del Plata
 ; Newell's Old Boys        ; 1-0; River Plate                                                                                         
                                     
 Round: 9 
@@ -767,9 +766,9 @@ Date: 10/28/1979
 Round: 10 
 Date: 11/4/1979
 
-; Kimberley (MDQ)          ; 4-0; Gimnasia y Tiro                                                    [at Mar del Plata]
+; Kimberley (MDQ)          ; 4-0; Gimnasia y Tiro                                                    ; Mar del Plata
 ; Newell's Old Boys        ; 2-0; Quilmes                                                            
-; Talleres (COR)           ; 3-2; River Plate                                                         [at Córdoba]
+; Talleres (COR)           ; 3-2; River Plate                                                         ; Córdoba
                                                                                                   
 Round: 11 
 Date: 11/11/1979
@@ -781,9 +780,9 @@ Date: 11/11/1979
 Round: 12 
 Date: 11/18/1979
 
-; Kimberley (MDQ)          ; 0-3; Huracán (BUE)                                                                                       [at Mar del Plata]
+; Kimberley (MDQ)          ; 0-3; Huracán (BUE)                                                                                       ; Mar del Plata
 ; River Plate              ; 3-1; Gimnasia y Tiro                                                                                     
-; Talleres (COR)           ; 1-0; Quilmes                                                                                              [at Córdoba]
+; Talleres (COR)           ; 1-0; Quilmes                                                                                              ; Córdoba
                                                                                                                                        
 Round: 13 
 Date: 11/25/1979
@@ -797,7 +796,7 @@ Date: 12/2/1979
 
 ; Gimnasia y Tiro          ; 0-1; Quilmes                                                                                                              
 ; River Plate              ; 1-1; Huracán (BUE)                                                                                                        
-; Talleres (COR)           ; 1-1; Newell's Old Boys                                                                                                     [at Córdoba]
+; Talleres (COR)           ; 1-1; Newell's Old Boys                                                                                                     ; Córdoba
 
 * 1. Talleres (COR)            14    8    4    2    31    20   20 (Quarter final)
 * 2. River Plate               14    7    4    3    26    14   18 (Quarter final)
@@ -811,7 +810,7 @@ Group: C
 Round: 1 
 Date: 9/2/1979
 
-; Argentinos Juniors       ; 0-1; Altos Hornos Zapla         [at Atlanta]
+; Argentinos Juniors       ; 0-1; Altos Hornos Zapla         ; Atlanta
 ; Atlético Tucumán         ; 2-0; Independiente Rivadavia    
 ; Colón                    ; 0-1; All Boys                   
                                                                 
@@ -826,7 +825,7 @@ Round: 3:
 
 Date: 9/16/1979
 
-; Argentinos Juniors       ; 1-1; Racing Club                                                                                       [at Atlanta]
+; Argentinos Juniors       ; 1-1; Racing Club                                                                                       ; Atlanta
 ; Independiente Rivadavia  ; 2-2; Altos Hornos Zapla                                                                                
 
 Date: 9/17/1979
@@ -872,7 +871,7 @@ Round: 9
 Date: 10/28/1979
 
 ; Argentinos Juniors       ; 2-0; All Boys                                                  
-; Atlético Tucumán         ; 3-1; Altos Hornos Zapla                                         [at San Martín (TUC)]
+; Atlético Tucumán         ; 3-1; Altos Hornos Zapla                                         ; San Martín (TUC)
 ; Colón                    ; 2-0; Racing Club                                                
                                                                                                 
 Round: 10 
@@ -885,8 +884,8 @@ Date: 11/4/1979
 Round: 11 
 Date: 11/11/1979
 
-; Argentinos Juniors       ; 3-0; Colón                                                                                             [at Atlanta]
-; Atlético Tucumán         ; 2-1; Racing Club                                                                                        [at San Martín (TUC)]
+; Argentinos Juniors       ; 3-0; Colón                                                                                             ; Atlanta
+; Atlético Tucumán         ; 2-1; Racing Club                                                                                        ; San Martín (TUC)
 ; Independiente Rivadavia  ; 4-0; All Boys                                                                                           
                                                                                                                                  
 Round: 12 
@@ -899,14 +898,14 @@ Date: 11/18/1979
 Round: 13 
 Date: 11/25/1979
 
-; Altos Hornos Zapla       ; 0-2; Racing Club                                                                                                   [at Gimnasia y Esgrima SSJ]
+; Altos Hornos Zapla       ; 0-2; Racing Club                                                                                                   ; Gimnasia y Esgrima SSJ
 ; Atlético Tucumán         ; 2-1; Argentinos Juniors                                                                                            
 ; Independiente Rivadavia  ; 1-1; Colón                                                                                                         
                                                                                                                                               
 Round: 14 
 Date: 12/2/1979
 
-; Argentinos Juniors       ; 5-1; Independiente Rivadavia                                                                                               [at Atlanta]
+; Argentinos Juniors       ; 5-1; Independiente Rivadavia                                                                                               ; Atlanta
 ; Colón                    ; 4-1; Altos Hornos Zapla                                                                                                    
 ; Racing Club              ; 1-0; All Boys                                                                                                              
 
@@ -1032,8 +1031,8 @@ Date: 9/2/1979
 Round: 2 
 Date: 9/9/1979
 
-; Alianza Juventud Pringles; 1-0; Independiente Rivadavia                                    [at Estudiantes (LUQ)]
-; Talleres (COR)           ; 3-1; Instituto                                                   [at Córdoba]
+; Alianza Juventud Pringles; 1-0; Independiente Rivadavia                                    ; Estudiantes (LUQ)
+; Talleres (COR)           ; 3-1; Instituto                                                   ; Córdoba
                                                                                               
 Round: 3 
 Date: 9/16/1979
@@ -1050,7 +1049,7 @@ Date: 9/23/1979
 Round: 5 
 Date: 9/30/1979
 
-; Argentinos Juniors       ; 0-0; Vélez Sarsfield                                            [at Atlanta]
+; Argentinos Juniors       ; 0-0; Vélez Sarsfield                                            ; Atlanta
 ; Rosario Central          ; 2-2; Newell's Old Boys                                          
                                            
 Round: 6 
@@ -1068,12 +1067,12 @@ Date: 10/14/1979
 Round: 8 
 Date: 10/21/1979
 
-Independiente (Ave)       abd Racing Club                        [abandoned at 0:1 in 40]
+*Independiente (Ave)       abd Racing Club                        [abandoned at 0:1 in 40]
 ; Quilmes                  ; 4-2; Estudiantes LPG                    
 
 Date: 11/22/1979
 
-; Independiente (Ave)      ; 2-3; Racing Club                                [at Boca Juniors, remaining 50]
+; Independiente (Ave)      ; 2-3; Racing Club                                ; Boca Juniors, remaining 50
                                                                          
 Round: 9 
 Date: 10/28/1979
@@ -1109,7 +1108,7 @@ Round: 14
 Date: 12/2/1979
 
 ; Atlético Tucumán         ; 2-2; San Martín (TUC)                  
-; Kimberley (MDQ)          ; 3-0; Cipolletti                         [at Mar del Plata]
+; Kimberley (MDQ)          ; 3-0; Cipolletti                         ; Mar del Plata
  
 * 1. Instituto                 14    7    4    3    24    11   18 (Quarter final)
 * 2. Rosario Central           14    7    4    3    25    15   18 (Quarter final)
@@ -1124,7 +1123,7 @@ Round: Quarterfinals
 *First leg 
 Date: 12/5/1979
 
-; Instituto                ; 3-2; Atlético Tucumán           [at Córdoba]
+; Instituto                ; 3-2; Atlético Tucumán           ; Córdoba
 ; Racing Club              ; 1-3; Rosario Central            
 ; Unión (SFN)              ; 3-0; Talleres (COR)             
 ; Vélez Sarsfield          ; 1-0; River Plate                
@@ -1137,7 +1136,7 @@ Date: 12/9/1979
 Penalty kicks: 4-3
 
 ; Rosario Central          ; 3-0; Racing Club                                                
-; Talleres (COR)           ; 2-0; Unión (SFN)                                                 [at Córdoba]
+; Talleres (COR)           ; 2-0; Unión (SFN)                                                 ; Córdoba
                                                                                           
 Round: Semifinals
 

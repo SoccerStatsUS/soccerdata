@@ -19,7 +19,7 @@ Season: 1995 Apertura
 *13.Basanez            12  0  5  7  9-24  5 
 *[*] Penarol and Nacional had 2pts deducted 
 
-Round: Round 1
+Round: 1
 
 ; Basanez      ; 2-5;    Rampla Juniors    
 ; Central Espanol; 0-0;  River Plate       
@@ -28,7 +28,7 @@ Round: Round 1
 ; Sud America  ; 1-1;    Danubio           
 ; Wanderers    ; 2-1;    Liverpool         
 
-Round: Round 2
+Round: 2
 
 ; Danubio     ; 1-1;     Basanez         
 ; Defensor; 1-1; Sporting Wanderers      
@@ -37,7 +37,7 @@ Round: Round 2
 ; Rampla Juniors ; 0-3;  Nacional        
 ; River Plate    ; 3-1;  Progreso        
 
-Round: Round 3
+Round: 3
 
 ; Basanez      ; 1-4;    Nacional         
 ; Central Espanol; 0-0;  Sud America      
@@ -46,7 +46,7 @@ Round: Round 3
 ; Penarol      ; 2-1;    Wanderers        
 ; River Plate  ; 6-2;    Danubio          
 
-Round: Round 4
+Round: 4
 
 ; Basanez      ; 3-4;    Defensor Sporting 
 ; Nacional     ; 3-2;    Danubio           
@@ -55,7 +55,7 @@ Round: Round 4
 ; Sud America   ; 0-0;   Cerro             
 ; Wanderers     ; 0-2;   River Plate       
 
-Round: Round 5
+Round: 5
 
 ; Cerro      ; 2-1;      River Plate       
 ; Danubio    ; 0-0;      Wanderers         
@@ -64,7 +64,7 @@ Round: Round 5
 ; Penarol    ; 1-1;      Basanez           
 ; Rampla Juniors; 0-0;   Progreso          
 
-Round: Round 6
+Round: 6
 
 ; Basanez     ; 0-1;     Sud America       
 ; Central Espanol; 1-0;  Liverpool         
@@ -73,7 +73,7 @@ Round: Round 6
 ; River Plate    ; 0-0;  Rampla Juniors    
 ; Wanderers     ; 1-2;   Nacional          
 
-Round: Round 7
+Round: 7
 
 ; Liverpool   ; 2-0;     Basanez           
 ; Nacional    ; 1-0;     Cerro             
@@ -82,7 +82,7 @@ Round: Round 7
 ; River Plate  ; 0-0;    Defensor Sporting 
 ; Sud America  ; 0-0;    Penarol           
 
-Round: Round 8
+Round: 8
 
 ; Cerro         ; 3-1;   Central Espanol   
 ; Defensor Sporting; 1-3; Nacional         
@@ -91,7 +91,7 @@ Round: Round 8
 ; Sud America ; 4-1;     Progreso          
 ; Wanderers   ; 2-0;     Basanez           
 
-Round: Round 9
+Round: 9
 
 ; Central Espanol; 2-1;  Wanderers         
 ; Danubio       ; 0-1;   Defensor Sporting 
@@ -100,7 +100,7 @@ Round: Round 9
 ; Rampla Juniors ; 0-4;  Cerro             
 ; River Plate    ; 0-1;  Sud America       
 
-Round: Round 10
+Round: 10
 
 ; Central Espanol; 3-0;  Basanez           
 ; Cerro          ; 4-0;  Danubio           
@@ -109,7 +109,7 @@ Round: Round 10
 ; River Plate   ; 0-1;   Liverpool         
 ; Wanderers     ; 1-0;   Progreso          
 
-Round: Round 11
+Round: 11
 
 ; Defensor Sporting; 1-1; Central Espanol  
 ; Liverpool   ; 3-0;     Danubio           
@@ -118,7 +118,7 @@ Round: Round 11
 ; Rampla Juniors ; 0-7;  Penarol           
 ; Sud America    ; 0-1;  Wanderers         
 
-Round: Round 12
+Round: 12
 
 ; Basanez   ; 0-0;       River Plate       
 ; Danubio   ; 2-1;       Central Espanol   
@@ -127,7 +127,7 @@ Round: Round 12
 ; Rampla Juniors; 2-2;   Sud America       
 ; Wanderers     ; 1-1;   Cerro             
 
-Round: Round 13
+Round: 13
 
 ; Central Espanol; 2-1;  Progreso          
 ; Cerro          ; 1-1;  Basanez           
@@ -178,7 +178,7 @@ Season: 1995 Clausura
 *12.Cerro              12  2  4  6 14-20 10 
 *13.Sud America        12  1  6  5  8-14  9  
 
-Round: Round 1 
+Round: 1 
 *[Aug 5,6]
 Date: 8/5/1995
 
@@ -202,7 +202,7 @@ Red Card: Pilas [Progreso] 67, Marenco [Wanderers] 42
 ; Sud America       ; 0-0; Defensor Sporting
 Red Card: Silva Cantera [Defensor] 44
  
-Round: Round 2 
+Round: 2 
 *[Aug 12,13]
 Date: 8/12/1995
 
@@ -226,7 +226,7 @@ Red Card: Acevedo [Sud] 52
 Ravera 70; Bengoechea 76
 Red Card: Romero [Penarol] 84
  
-Round: Round 3
+Round: 3
 * [Aug 19,20]
 Date: 8/19/1995
 
@@ -254,7 +254,7 @@ Carballo 6; Correa 20
 Alvarez 28, Alvarez 69
 Red Card: Barragan [Wanderers] 68
  
-Round: Round 4
+Round: 4
 *  [Aug 26,27]
 Date: 8/26/1995
 
@@ -281,7 +281,7 @@ Lemos (pk) 16, Seoane 48, Barilko 62; Seoane 67, Rotondo 70
 Otero 52, Silvera 70, Silvera 80, Leri 89
 Red Card: Barrios 60, Amndarain [both Wanderers] 66
 
-Round: Round 5 
+Round: 5 
 Date: 
 
 ; Cerro    ; 1-3;        Rampla Juniors    
@@ -291,7 +291,7 @@ Date:
 ; Sud America    ; 0-1;  River Plate       
 ; Wanderers      ; 1-3;  Central Espanol   
 
-Round: Round 6 
+Round: 6 
 
 ; Central Espanol; 2-2;  Danubio          
 ; Cerro          ; 3-1;  Wanderers        
@@ -300,7 +300,7 @@ Round: Round 6
 ; River Plate    ; 2-1;  Basanez          
 ; Sud America    ; 1-2;  Rampla Juniors   
 
-Round: Round 7 
+Round: 7 
 
 ; Danubio       ; 0-0;   Sud America     
 ; Defensor Sporting; 0-3; Cerro          
@@ -309,7 +309,7 @@ Round: Round 7
 ; Rampla Juniors; 3-1;   Basanez         
 ; River Plate   ; 1-1;   Central Espanol 
 
-Round: Round 8 
+Round: 8 
 
 ; Basanez        ; 1-1;  Progreso           
 ; Central Espanol; 1-2;  Defensor Sporting  
@@ -318,7 +318,7 @@ Round: Round 8
 ; River Plate    ; 1-2;  Nacional           
 ; Wanderers      ; 0-1;  Sud America        
 
-Round: Round 9 
+Round: 9 
 
 ; Defensor Sporting; 1-0; Progreso          
 ; Liverpool     ; 0-0;   Central Espanol    
@@ -327,7 +327,7 @@ Round: Round 9
 ; Rampla Juniors; 1-0;   River Plate        
 ; Sud America   ; 1-1;   Basanez            
 
-Round: Round 10 
+Round: 10 
 
 ; Central Espanol; 2-2;  Progreso           
 ; Cerro          ; 0-2;  Basanez            
@@ -336,7 +336,7 @@ Round: Round 10
 ; Nacional       ; 3-1;  Sud America        
 ; Penarol        ; 1-1;  River Plate        
 
-Round: Round 11 
+Round: 11 
 
 ; Basanez        ; 0-2;  Penarol           
 ; Central Espanol; 1-2;  Nacional          
@@ -345,7 +345,7 @@ Round: Round 11
 ; Sud America    ; 1-1;  Liverpool         
 ; Wanderers      ; 1-2;  Danubio           
 
-Round: Round 12 
+Round: 12 
 
 ; Basanez      ; 1-2;    Danubio           
 ; Cerro        ; 1-1;    Liverpool         
@@ -354,7 +354,7 @@ Round: Round 12
 ; Progreso     ; 0-0;    River Plate       
 ; Wanderers    ; 1-0;    Defensor Sporting 
 
-Round: Round 13
+Round: 13
 
 ; Basanez        ; 3-2;  Liverpool        
 ; Cerro          ; 2-3;  Nacional         

@@ -16,7 +16,7 @@ Season: 1948
 * 9. Danubio FC                   10  0  5  5  14-25   5 
 *10. CA Cerro                     10  1  3  6  12-26   5
 
-Round: Round 1
+Round: 1
 ; Peñarol             ; 2-2; Danubio
 ; Nacional            ; 0-0; Central
 ; Montevideo Wanderers; 0-3; Rampla Juniors
@@ -25,7 +25,7 @@ Round: Round 1
 ; River Plate (Montevideo)         ; 2-2; Defensor
 
 
-Round: Round 2
+Round: 2
 ; Nacional            ; 3-0; Rampla Juniors
 ; Defensor            ; 5-0; Cerro
 ; Peñarol             ; 2-0; Montevideo Wanderers  
@@ -35,56 +35,56 @@ Notes: Montevideo Wanderers left the field at 65'.
 ; Liverpool (Montevideo)           ; 3-2; Central
 
 
-Round: Round 3
+Round: 3
 ; Defensor            ; 1-5; Peñarol
 ; Montevideo Wanderers; 5-1; Liverpool (Montevideo)
 ; Rampla Juniors      ; 3-0; Cerro
 ; Nacional            ; 7-1; River Plate (Montevideo)
 ; Danubio             ; 1-2; Central
 
-Round: Round 4
+Round: 4
 ; Cerro               ; 1-2; Nacional
 ; Liverpool (Montevideo)           ; 0-2; Peñarol
 ; Defensor            ; 5-3; Montevideo Wanderers
 ; Central             ; 2-4; River Plate (Montevideo)
 ; Rampla Juniors      ; 3-3; Danubio
 
-Round: Round 5
+Round: 5
 ; Peñarol             ; 2-1; River Plate (Montevideo)
 ; Nacional            ; 4-1; Defensor
 ; Liverpool (Montevideo)           ; 4-3; Rampla Juniors
 ; Central             ; 4-1; Montevideo Wanderers
 ; Cerro               ; 2-2; Danubio
 
-Round: Round 6
+Round: 6
 ; Liverpool (Montevideo)           ; 1-2; Nacional
 ; Peñarol             ; 6-1; Cerro
 ; Danubio             ; 1-2; Defensor
 ; Rampla Juniors      ; 3-0; Central
 ; Montevideo Wanderers; 2-0; River Plate (Montevideo)
 
-Round: Round 7
+Round: 7
 ; Central             ; 1-2; Peñarol
 ; River Plate (Montevideo)         ; 1-0; Rampla Juniors
 ; Cerro               ; 1-1; Montevideo Wanderers
 ; Nacional            ; 4-0; Danubio
 ; Defensor            ; 1-3; Liverpool (Montevideo)
 
-Round: Round 8
+Round: 8
 ; Nacional            ; 2-0; Peñarol
 ; Montevideo Wanderers; 2-2; Danubio
 ; Central             ; 2-5; Cerro
 ; Liverpool (Montevideo)           ; 2-4; River Plate (Montevideo)
 ; Defensor            ; 1-1; Rampla Juniors
 
-Round: Round 9
+Round: 9
 ; Montevideo Wanderers; 0-3; Nacional
 ; Peñarol             ; 1-0; Rampla Juniors
 ; River Plate (Montevideo)         ; 3-1; Cerro
 ; Danubio             ; 2-2; Liverpool (Montevideo)
 ; Central             ; 2-1; Defensor
 
-Round: Round 10
+Round: 10
 ; Danubio             ; 1-2; Peñarol
 ; Central             ; 2-2; Nacional
 ; Defensor            ; 0-0; River Plate (Montevideo)
