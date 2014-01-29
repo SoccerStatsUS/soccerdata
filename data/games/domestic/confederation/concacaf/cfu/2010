@@ -6,8 +6,8 @@ BlockSource: http://www.rsssf.com/tablesc/cacups2011.html#cfu
 
 *NB: top-2 of all groups and best third-placed team qualify for second round; Puerto Rico Islanders, San Juan Jabloteh and Tempête byes to second round; Jamaica clubs do not enter
 
+Stage: Group 1
 Group: A
-
 
 3/16/2010; River Plate PR; 3-1; Racing Club de Gonaives; Ergilio Hato Stadium; Hospedales; 1200
 Carlos Alberto Delgado 45, Raúl Ruiz 48, Raúl Ruiz 54; Clercant Clerjuste 77
@@ -71,7 +71,6 @@ Myron Samuel 21, Myron Samuel 90, Romano Snagg 66; Roche Emanuelson 31
 
 Group: D
 
-
 3/26/2010; Guyana Defence Force; 1-2; Walking Boys Company; Bourda Cricket Ground; Brizan; 700
 Delroy Dean 85; Vano Sastromedjo 15, Alex Soares 17
 
@@ -86,8 +85,9 @@ Elton Browne 38, Elton Browne 42, Oneke Ford 65; Marlon Benjamin 90
 * 3.GDF (Georgetown)              2  0  0  2  2- 5  0
 * -.Centre Bath Estate (Dominica) withdrew
 
-Round: Second Round
+*Round: 2
 
+Stage: Group 2
 Group: E
 
 4/16/2010; Racing Club de Gonaives; 0-2; Puerto Rico Islanders; Juan Ramon Loubriel Stadium; Santos; 500
@@ -116,7 +116,6 @@ César Elizondo 72, César Elizondo 89, Kendall Waston 80;
 
 Group: G
 
-
 4/14/2010; San Juan Jabloteh; 2-0; Alpha United; Marvin Lee Stadium; Bogle; 400
 Jason Marcano 28, Jason Marcano 65;
 
@@ -134,7 +133,6 @@ Jason Marcano (pk) 65;
 
 Group: H
 
-
 4/14/2010; Joe Public; 5-0; Walking Boys Company; Marvin Lee Stadium; Campbell; 400
 Kerry Baptiste 14, Kerry Baptiste 32, Yu Hoshide 27, Trent Noel 55, Andre Toussaint 55;
 
@@ -148,8 +146,8 @@ Kerry Baptiste 6, Trent Noel 42, Marcus Joseph 83; Norel George 56
 * 2.WBC (Paramaribo)              2  1  0  1  2- 5  3
 * 3.System 3                      2  0  0  2  1- 5  0
 
-Round: Final Round 
-
+Stage: Final Group
+*Round: Final Round 
 
 5/5/2010; Puerto Rico Islanders; 3-0; Bayamón FC; Marvin Lee Stadium; Campbell; 300
 Noah Delgado 7, Nicholas Addlery 33, Josh Hansen 52;
@@ -179,7 +177,8 @@ Radanfah Abu Bakú 27; Alan Acevedo 10, Adrián Brown 54, Kendall Waston 60
 Season: 2011
 BlockSource: http://www.rsssf.com/tablesc/cacups2012.html#cfu
 
-Round: First Round
+Stage: Elimination 1
+*Round: 1
 
 *Bath Estate              Dom  Tempête FC               Hai   o/w  x
 *Alpha United             Guy  Bassa                    Ant   w/o  x
@@ -223,7 +222,8 @@ Yefrey Calderón 75;
 *x Bath Estate and Bassa withdrew before the first leg
 
 
-Round: Second Round
+*Round: 2
+Stage: Elimination 2
 
 4/10/2011; Milerock; 0-4; Defence Force; MacKenzie Sport Club Ground, Linden, Guyana; Ignatius Baptiste; 600
 ; Kerry Joseph 8, Richard Roy 31, Michael Edwards 60, Michael Edwards 67
@@ -250,7 +250,8 @@ Clifton Sandvliet 48; Jamie Cunningham 90
 Noah Delgado 5, Noah Delgado 8, Aaron Pitchkolan 12, David Foley 37, Matthew Bouraee 44, Jonathan Fana Frias 56, Joseph Salem 88;
 
 
-Round: Final Round 
+*Round: Final Round 
+Stage: Final
 *(Providence, Guyana)
 
 Round: Semifinals 
@@ -276,14 +277,15 @@ Jay Needham 34, Jonathan Fana Frias 100, Jonathan Fana 113; Harold Charles 42
 
 
 
-
 Season: 2012
 BlockSource: http://www.rsssf.com/tablesc/cacups2013.html#cfu
 
 
 * Caribbean Zone Qualifying (CFU Club Champions Cup 2012)
 
-Round: First Round
+
+Stage: Group 1
+*Round: First Round
 
 Group: 1
 
@@ -348,8 +350,8 @@ Tonio Pierre 86; Bony Pierre 90
 *Puerto Rico Islanders (PRi), Caledonia AIA (Tri), W Connection (Tri) and 
 *Antigua Barracuda (Atg) bye to Second Round
 
-
-Round: Second Round
+Stage: Group 2
+*Round: Second Round
 
 Group: 4
 
@@ -392,9 +394,7 @@ George Dublin (og) 21; Matthew Aldred 37, Peter Byers 42
 *  4.Inter Moengo Tapoe                3  0  0  3  2-17  0
 
 
-Round: Final Round 
-
-
+Stage: Final
 Round: Semifinals 
 
 6/19/2012; Antigua Barracuda; 0-2; Caledonia AIA; Manny Ramjohn Stadium; Jermain Elskamp; 305

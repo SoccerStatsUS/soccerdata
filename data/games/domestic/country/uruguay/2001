@@ -60,7 +60,7 @@ Date: 2/17/2001
   Marcelo Dos Santos 10, Danilo Baltierra 85; Gabriel Migliónico 20
 
 ; Central Español  ; 0-1; River Plate
-  Eduardo Jaume 7
+;  Eduardo Jaume 7
 
 ; Maldonado        ; 2-6; Nacional
   Maximiliano Castro 3, Maximiliano Castro 67;  Alejandro Lembo 20, Richard Morales 27, Sergio Martínez 48, Adalto 71, Ruben Da Silva 84, Ruben Da Silva (pk) 87
@@ -448,7 +448,7 @@ Date: 5/20/2001
 ;  Darwin Ferreira 12
 
 ; Rocha            ; 1-3; Rentistas
-  Sergio Recoba 32, Heberley Sosa 17, Mario Orta (pk) 19, Mauricio Weber 90
+  Sergio Recoba 32; Heberley Sosa 17, Mario Orta (pk) 19, Mauricio Weber 90
 
 ; Bella Vista      ; 1-1; Fénix              
 *[*]
@@ -491,7 +491,7 @@ Date: 5/27/2001
 
 ; Defensor Sporting; 2-2; Central Español    
 *[*]
-  Márcio Rodríguez Cruz 32, Gonzalo Vargas 42, Antonio Esmerode (pk) 59, Marcelo Durán 86
+  Márcio Rodríguez Cruz 32, Gonzalo Vargas 42; Antonio Esmerode (pk) 59, Marcelo Durán 86
 
 ; Racing           ; 0-1; Peñarol            
 *[*]
@@ -569,7 +569,7 @@ Date: 6/10/2001
   Carlos Bueno 28, José María Franco 89; Antonio Esmerode 90
 
 ; Huracán Buceo    ; 3-5; Bella Vista
-  José Carini (pk) 9, Julio Rodríguez 25, Fernando Cardozo 40, Martín Pérez Lindo 9, Martin Perez Lindo 7, Martin Perez Lindo 62, Rodrigo Lemos (pk) 22, Álvaro González 48
+  José Carini (pk) 9, Julio Rodríguez 25, Fernando Cardozo 40; Martín Pérez Lindo 9, Martin Perez Lindo 7, Martin Perez Lindo 62, Rodrigo Lemos (pk) 22, Álvaro González 48
 
 ; Rocha            ; 1-4; Fénix
   Sergio Recoba 44; Gabriel Migliónico 10, Gabriel Miglionico (pk) 20, Fabián Estoyanoff 55, Andrée González 70
@@ -591,7 +591,7 @@ Date: 6/13/2001
   Guillermo Giacomazzi 21; Joe Bizera 67og
 
 ; Rocha            ; 1-3; Danubio
-  Heber Caro 24; Javier Chevantón 19, 68, Pablo Lima 22
+  Heber Caro 24; Javier Chevantón 19, Javier Chevanton 68, Pablo Lima 22
  
 
 Date: 6/14/2001
@@ -650,7 +650,7 @@ Date: 6/17/2001
 
 
 *Group A (Grupo de los Siete)
-; * 1.Nacional                    6  4  1  1; 13-; 6 13  Qualified
+* 1.Nacional                    6  4  1  1 13- 6 13  Qualified
 * 2.Danubio                     6  4  1  1 14- 9 13  Qualified
 * - - - - - - - - - - - - - - - - - - - - - - - - -
 * 3.Bella Vista (Montevideo)    6  3  2  1 13- 7 11
@@ -928,7 +928,8 @@ Season: 2001 Clausura
 *    in round 1
 
 Round: 1 
-Date: 9/15,16/2001
+Date: 9/15/2001
+*Date: 9/15,16/2001
 
 ; Danubio          ; 2-1; Wanderers  
 ; Fénix            ; 1-1; Nacional      

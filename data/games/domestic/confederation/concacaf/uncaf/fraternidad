@@ -72,41 +72,41 @@ Group: 1
 
 Group: 2
         
-;Aurora             ;0-1; Universidad
+;Aurora             ;0-1; Universidad (El Salvador)
 ;Alianza            ;2-0; Puntarenas
-;Municipal          ;1-1; Universidad
+;Municipal          ;1-1; Universidad (El Salvador)
 ;Alianza            ;2-1; Aurora
 ;Alajuelense        ;5-1; Puntarenas
 ;Aurora             ;3-1; Municipal
-;Universidad        ;2-2; Puntarenas
+;Universidad (El Salvador)        ;2-2; Puntarenas
 ;Alajuelense        ;1-0; Alianza
 ;Aurora             ;4-2; Alajuelense
-;Universidad        ;2-1; Alianza
+;Universidad (El Salvador)        ;2-1; Alianza
 ;Puntarenas         ;5-4; Municipal
 ;Aurora             ;2-0; Puntarenas
 ;Alianza            ;2-0; Municipal
-;Alajuelense        ;2-1; Universidad
+;Alajuelense        ;2-1; Universidad (El Salvador)
 ;Municipal          ;3-0; Alajuelense
 
-;Universidad        ;1-1; Aurora
+;Universidad (El Salvador)        ;1-1; Aurora
 ;Puntarenas         ;3-2; Alianza
 ;Aurora             ;1-1; Alianza
-;Universidad        ;1-0; Municipal
+;Universidad (El Salvador)        ;1-0; Municipal
 ;Alajuelense        ;2-0; Puntarenas
 ;Aurora             ;4-0; Municipal
 ;Alianza            ;1-0; Alajuelense
-;Puntarenas         ;4-4; Universidad
+;Puntarenas         ;4-4; Universidad (El Salvador)
 ;Municipal          ;1-0; Puntarenas
 ;Alajuelense        ;1-2; Aurora
 ;Municipal          ;1-0; Alianza
-;Universidad        ;2-2; Alajuelense
+;Universidad (El Salvador)        ;2-2; Alajuelense
 ;Puntarenas         ;2-2; Aurora
 ;Alajuelense        ;2-0; Municipal
-;Universidad        ;2-1; Alianza
+;Universidad (El Salvador)        ;2-1; Alianza
 
 
 Round: Playoff
-; Universidad; 0-1; Aurora
+; Universidad (El Salvador); 0-1; Aurora
 
 Round: Final
 ; Aurora; 1-1; Saprissa
@@ -331,12 +331,14 @@ Round: First Round
 ;Deportivo FAS      ;2-0; Herediano          
 
 ;Municipal          ;0-0; Dep. México        
+
 ;Dep. México        ;1-1; Municipal          
-* [3-1 pen]
+Penalty kicks: 3-1
 
 ;Cartagines         ;1-0; Juventud Olímpica  
+
 ;Juventud Olímpica  ;1-0; Cartagines         
-* [4-5 pen]
+Penalty kicks: 4-5
 
 ;Once Municipal     ;1-2; Tiquisate          
 ;Tiquisate          ;0-0; Once Municipal  
@@ -456,11 +458,13 @@ Round: 1
 ;Coban Imperial              ;0-0; CD Broncos
 
 ;Universidad        ;1-1; Alianza
-* Alianza            unk Universidad        
-* Alianza qualified
 
-;Comunicaciones     ;1-0; Victoria
-;Victoria           ;1-3; Comunicaciones
+* Alianza            unk Universidad        
+*; Alianza; W-L; Universidad
+* inferred; Alianza qualified (away goals?)
+
+;Comunicaciones     ;1-0; Victoria (Honduras)
+;Victoria (Honduras)           ;1-3; Comunicaciones
 
 Round: 2
    
@@ -524,8 +528,8 @@ Round: 1
 ;Deportivo FAS      ;0-0; Atletico Morazan
 ;Atletico Morazan   ;2-3; Deportivo FAS
 
-;Vida               ;2-1; Independiente
-;Independiente      ;0-1; Vida
+;Vida               ;2-1; Independiente (El Salvador)
+;Independiente (El Salvador)     ;0-1; Vida
 
 ;Xelaju             ;2-0; Marathon
 ;Marathon           ;1-1; Xelaju
@@ -556,8 +560,8 @@ Group: 1
 Group: 2
 
 ;Saprissa           ;1-4; Aurora
-;Aurora             ;1-0; Independiente
-;Saprissa           ;1-1; Independiente
+;Aurora             ;1-0; Independiente (El Salvador)
+;Saprissa           ;1-1; Independiente (El Salvador)
 
 Group: 3
        
@@ -586,8 +590,8 @@ Season: 1984
 Group: 1
       
 ;Once Lobos         ;1-1; Comunicaciones
-;Once Lobos         ;1-1; Independiente
-;Comunicaciones     ;3-4; Independiente
+;Once Lobos         ;1-1; Independiente (El Salvador)
+;Comunicaciones     ;3-4; Independiente (El Salvador)
 
        
 Group: 2
