@@ -32,38 +32,38 @@ Date: 2/15/1997
 
 ; Real Santa Cruz; 0-0; Oriente         ; Santa Cruz
 
-Dat: 2/16/1997
+Date: 2/16/1997
 
 ;  Destroyers     ; 1-4; Guabira         ; Santa Cruz
-             F. Ribera; H. Cespedes, M. Ramos, R. Cespedes 2
+             F. Ribera; H. Cespedes, M. Ramos, R. Cespedes, R. Cespedes
 
 ;      Municipal      ; 2-2; The Strongest   ; La Paz
-             A. Andaveris, A. Blanco; S. Netto 2
+             A. Andaveris, A. Blanco; S. Netto, S. Netto
 
 ;  Wilstermann    ; 2-0; Blooming        ; Cochabamba
-             D. Angola 2
+             D. Angola, D. Angola;
 
 Date: 2/22/1997
 
 ;     Chaco          ; 2-0; San Jose        ; La Paz 
-             M. Maygua, F. Zabala
+             M. Maygua, F. Zabala;
 
 ;  Real Santa Cruz; 2-3; Destroyers      ; Santa Cruz
-             R. Martinez, C. Ali; M. Mendoza, F. Ribera 2
+             R. Martinez, C. Ali; M. Mendoza, F. Ribera, F. Ribera
 
 Date: 2/23/1997
 
 ;      Bolivar        ; 0-1; The Strongest   ; La Paz
-             C. Borja o.g.
+;             C. Borja (og)
 
 ;  Guabira        ; 1-1; Blooming        ; Santa Cruz
              M. Ligori; L. Gutierrez
 
 ;       Independiente  ; 4-0; Municipal       ; Sucre
-             A. Illanes, O. Gonzales 2, T. Gutierrez
+             A. Illanes, O. Gonzales, O. Gonzales, T. Gutierrez;
 
 ;  Wilstermann    ; 1-0; Oriente         ; Cochabamba
-             C. De Andrade
+             C. De Andrade;
 
 Date: 3/1/1997
 
@@ -75,21 +75,21 @@ Date: 3/2/1997
              H. Arandia, V. Antelo, G. Merlo, H. Sanchez; E. Monteiro
 
 ;       Independiente  ; 2-0; Bolivar         ; Sucre
-             T. Gutierrez, H. Coronado
+             T. Gutierrez, H. Coronado;
 
 ;      Municipal      ; 2-2; San Jose        ; La Paz
-             A. Blanco, S. Gareca; L. Suarez 2
+             A. Blanco, S. Gareca; L. Suarez, L. Suarez
 
 ;      The Strongest  ; 5-0; Chaco           ; La Paz
-             B. Suarez 3, O. Sanchez, J. Amarilla
+             B. Suarez, B. Suarez, B. Suarez, O. Sanchez, J. Amarilla;
 
 ;  Wilstermann    ; 2-0; Guabira         ; Cochabamba
-             D. Angola, W. Ramallo
+             D. Angola, W. Ramallo;
 
 Date: 3/5/1997
 
 ;      The Strongest  ; 3-0; Municipal       ; La Paz
-             L. Orellana, B. Suarez, J. Amarilla
+             L. Orellana, B. Suarez, J. Amarilla;
 
 Date: 3/8/1997
 
@@ -99,13 +99,13 @@ Date: 3/8/1997
 Date: 3/9/1997
 
 ;      Chaco          ; 3-1; Independiente   ; La Paz
-             N. Flores 2, F. Zabala; O. Gonzales
+             N. Flores, N. Flores, F. Zabala; O. Gonzales
 
 ;  Destroyers     ; 2-3; Wilstermann     ; Santa Cruz
-             F. Ribera 2; D. Angola, G. Galindo, E. Dos Santos
+             F. Ribera, F. Ribera; D. Angola, G. Galindo, E. Dos Santos
 
 ;  Real Santa Cruz; 1-0; Guabira         ; Santa Cruz
-             E. Monteiro
+             E. Monteiro;
 
 ;       San Jose       ; 1-1; The Strongest   ; Oruro
              N. Kekes; O. Sanchez
@@ -113,16 +113,16 @@ Date: 3/9/1997
 Date: 3/16/1997
 
 ;  Blooming       ; 4-0; Destroyers      ; Santa Cruz
-             V. Antelo 4
+             V. Antelo, V. Antelo, V. Antelo, V. Antelo;
 
 ;      Municipal      ; 3-1; Chaco           ; La Paz
-             J. Mendez 2, S. Gareca; M. Maygua
+             J. Mendez, J. Mendez, S. Gareca; M. Maygua
 
 ;      San Jose       ; 1-1; Bolivar         ; Oruro 
              M. Soruco; V. Gonzales
 
 ;      The Strongest  ; 2-0; Independiente   ; La Paz
-             M. Blanco 2
+             M. Blanco, M. Blanco;
 
 ;  Wilstermann    ; 2-1; Real Santa Cruz ; Cochabamba
              M. Ramallo, G. Galindo; O. Villegas
@@ -142,17 +142,15 @@ Date: 4/5/1997
 Date: 4/6/1997
 
 ;  Guabira        ; 2-0; Destroyers      ; Santa Cruz
-             N. Suarez, M. Ardaya
+             N. Suarez, M. Ardaya;
 
 ;       Independiente  ; 1-2; San Jose        ; Sucre
-             Fabinho; R. Espindola 2
-
+             Fabinho; R. Espindola, R. Espindola
 
 Date: 4/9/1997
 
 ; Oriente        ; 2-4; Real Santa Cruz ; Santa Cruz 
-             R. Suarez, J. Peña; E. Monteiro 3, A. Audamas
-
+             R. Suarez, J. Peña; E. Monteiro, E. Monteiro, E. Monteiro, A. Audamas
 
 Date: 4/12/1997
 
@@ -160,28 +158,27 @@ Date: 4/12/1997
              M. Menacho; O. Villegas
 
 ;  Oriente        ; 2-0; Wilstermann     ; Santa Cruz
-             R. Medeiros, R. Paniagua
-
+             R. Medeiros, R. Paniagua;
 
 Date: 4/13/1997
 
 
 ;  Blooming       ; 5-0; Guabira         ; Santa Cruz
-             L. Gutierrez, J. Ortiz, J. Paz Garcia, V. Antelo 2
+             L. Gutierrez, J. Ortiz, J. Paz Garcia, V. Antelo, V. Antelo;
 
 ;       Independiente  ; 1-3; Chaco           ; Sucre
              T. Gutierrez; R. Rojas, M. Maygua, F. Zabala
 
 ;      The Strongest  ; 2-0; San Jose        ; La Paz
-             M. Flores, O. Sanchez
+             M. Flores, O. Sanchez;
 
 Date: 4/16/1997
 
 ;      Bolivar        ; 1-0; Municipal       ; La Paz
-             V. Soria
+             V. Soria;
 
 ;  Guabira        ; 3-1; Oriente         ; Santa Cruz
-             M. Ramos 2, M. Cardona; R. Paniagua
+             M. Ramos, M. Ramos, M. Cardona; R. Paniagua
 
 Date: 4/19/1997
 
@@ -205,31 +202,31 @@ Date: 4/20/1997
 Date: 4/23/1997
 
 ; Real Santa Cruz; 1-3; Blooming        ; Santa Cruz 
-             A. Ibañez; V. Antelo 2, J. Ortiz
+             A. Ibañez; V. Antelo, V. Antelo, J. Ortiz
 
 Date: 4/26/1997
 
 ; Guabira        ; 3-0; Real Santa Cruz ; Santa Cruz 
-             M. Salvatierra, M. Ramos, M. Ardaya
+             M. Salvatierra, M. Ramos, M. Ardaya;
 
 Date: 4/27/1997
 
 ; Blooming       ; 2-2; Oriente         ; Santa Cruz 
-             L. Gutierrez 2; J. Peña, H. Vaca
+             L. Gutierrez, L. Gutierrez; J. Peña, H. Vaca
 
 ;      Municipal      ; 1-1; Independiente   ; La Paz
              R. Vaca; M. Ibañez
 
 ;      San Jose       ; 3-1; Chaco           ; Oruro 
-             L. Suarez 2, R. Vera; M. Maygua
+             L. Suarez, L. Suarez, R. Vera; M. Maygua
 
 ;  Wilstermann    ; 0-2; Destroyers      ; Cochabamba
-             S. Vaca, M. Menacho
+;             S. Vaca, M. Menacho
 
 Date: 4/30/1997
 
 ;      Bolivar        ; 4-0; Chaco           ; La Paz
-             V. Soria, S. Joao, R. Castillo, M. Mercado
+             V. Soria, S. Joao, R. Castillo, M. Mercado;
 
 Date: 5/1/1997
 
@@ -239,10 +236,10 @@ Date: 5/1/1997
 Date: 5/3/1997
 
 ;      Chaco          ; 1-0; Municipal       ; La Paz
-             M. Maygua
+             M. Maygua;
 
 ; Real Santa Cruz; 3-2; Wilstermann     ; Santa Cruz 
-             C. Guardia, C. Ali 2; J. Rios, W. Ramallo
+             C. Guardia, C. Ali, C. Ali; J. Rios, W. Ramallo
 
 Date: 5/4/1997
 
@@ -279,35 +276,33 @@ Round: Semifinals
 *First Legs
 
 5/8/1997; Guabira        ; 1-0; The Strongest   ; Santa Cruz 
-             V. Cespedes  22
+             V. Cespedes  22;
 
 
 ; Blooming       ; 0-2; Bolivar         ; Santa Cruz 
-             V. Gonzales 47, R. Castillo 89
+;             V. Gonzales 47, R. Castillo 89
 
 *Second Legs
 
 5/11/1997;      The Strongest  ; 2-0; Guabira                  ; La Paz
-             O. Sanchez 69pen, S. Castillo 76pen
-*[4-3 pen]
+             O. Sanchez (pk) 69, S. Castillo (pk) 76;
+Penalty kicks: 4-3
  
 5/13/1997;       Bolivar        ; 3-3; Blooming        ; Oruro
-             R. Ribera 3og, R. Castillo 16, 81; J. Ortiz 48, V. Antelo 80, 83
-
+             R. Ribera (og) 3, R. Castillo 16, R. Castillo 81; J. Ortiz 48, V. Antelo 80, V. Antelo 83
 
 Round: Final
 
 *First Leg
 
 5/16/1997;      The Strongest  ; 0-1; Bolivar         ; La Paz
-             R. Cueto 82
+;             R. Cueto 82
 
 
 *Second Leg
 
 5/18/1997;      Bolivar        ; 2-0; The Strongest   ; La Paz
-             V. Gonzales 29pen, M. Sandy 43
-
+             V. Gonzales (pk) 29, M. Sandy 43;
 
 
 Season: 1997 Clausura
@@ -440,7 +435,7 @@ Date: 8/31/1997
              H. Pinto (og); A. Peña
 
 ;      The Strongest  ; 5-0; Blooming        ; La Paz
-             Waldir, B. Suarez, S. Castillo, S. Coelho, S. Coelho
+             Waldir, B. Suarez, S. Castillo, S. Coelho, S. Coelho;
 
 Date: 9/3/1997
 
@@ -460,7 +455,7 @@ Date: 9/14/1997
              V. Antelo, R. Gutierrez, M. Angulo; L. Mendez, G. Paredes
 
 ;      Bolivar        ; 4-0; San Jose        ; La Paz
-             R. Castillo, R. Castillo, R. Cueto, R. Cueto
+             R. Castillo, R. Castillo, R. Cueto, R. Cueto;
 
 Date: 9/15/1997
 
@@ -678,36 +673,34 @@ Date: 11/9/1997
   Jose Elder 56, William Ramallo 82; Juan Carlos Farah 71
 
 ; Blooming      ; 3-0; Strongest
-  Victor Hugo Antelo 16, 58, Ruben Tufiño 38
+  Victor Hugo Antelo 16, Victor Hugo Antelo 58, Ruben Tufiño 38;
 
 ; Bolivar       ; 3-0; Chaco
-  Sergio Joao 4, 58, Luis Cristaldo 40
+  Sergio Joao 4, Sergio Joao 58, Luis Cristaldo 40;
 
 
 Round: 2 
 Date: 11/18/1997
 
 ; Chaco         ; 1-2; Oriente
-  Romero 69; Roly Paniuaga 7, 90
+  Romero 69; Roly Paniuaga 7, Roly Paniuaga 90
 
 Date: 11/19/1997
 
 ; Blooming      ; 0-3; Bolivar
-  Richard Cueto 11, Sergio Joao 43, Luis Cristaldo 41
+;  Richard Cueto 11, Sergio Joao 43, Luis Cristaldo 41
 
 ; Strongest     ; 3-2; Wilstermann
-  Berthy Suarez 8, 74, Wallace Machado 45; Gonzalo Berdugo 71og,
-   William Ramallo 82
-
+  Berthy Suarez 8, Berthy Suarez 74, Wallace Machado 45; Gonzalo Berdugo (og) 71, William Ramallo 82
 
 Round: 3 
 Date: 11/23/1997
 
 ; Wilstermann   ; 2-0; Chaco
-  Galindo 13, Wanderley 56
+  Galindo 13, Wanderley 56;
 
 ; Bolivar       ; 3-1; Strongest
-  Sergio Joao 47, Jefferson Gotardi 79, 83; Dario Rojas 79
+  Sergio Joao 47, Jefferson Gotardi 79, Jefferson Gotardi 83; Dario Rojas 79
 
 ; Oriente       ; 1-2; Blooming
   Roly Paniagua 31; Marcelo Angulo 19, Victor Hugo Antelo 23
@@ -716,8 +709,7 @@ Round: 4
 Date: 11/26/1997
 
 ; Bolivar       ; 5-0; Wilstermann
-  Luis Hector Cristaldo 37, Marco Antonio Sandy 63, Jefferson Gotardi 77,
-   Eduardo Jiguchi 79, Vladimir Soria 82pen
+  Luis Hector Cristaldo 37, Marco Antonio Sandy 63, Jefferson Gotardi 77, Eduardo Jiguchi 79, Vladimir Soria (pk) 82;
 
 ; Blooming      ; 2-1; Chaco
   Marcelo Angulo 27, Victor Hugo Antelo 74; Carlos Cardenas 56
@@ -725,17 +717,16 @@ Date: 11/26/1997
 Date: 11/27/1997
 
 ; Strongest     ; 0-1; Oriente     
-  Ismael Britez 40
-
+;  Ismael Britez 40
 
 Round: 5
 Date: 11/30/1997
 
 ; Oriente       ; 1-0; Bolivar
-  Roly Paniagua 32
+  Roly Paniagua 32;
 
 ; Chaco         ; 3-1; Strongest
-  Carlos Cardenas 23, 51, 75; Sandro Coelho 75
+  Carlos Cardenas 23, Carlos Cardenas 51, Carlos Cardenas 75; Sandro Coelho 75
 
 ; Wilstermann   ; 2-1; Blooming
   G. Galindo 15, Elder dos Santos 53; Victor Hugo Antelo 75
@@ -744,17 +735,15 @@ Round: 6
 Date: 12/6/1997
 
 ; Chaco         ; 1-8; Bolivar
-  Carlos Cardenas 11; Richard Cueto 30, Limbert Pizarro 40, Sergio Joao 45, 53,
-   Vladimir Soria 58, Eduardo Jiguchi 61pen, Jefferson Gotardi 71, 83
+  Carlos Cardenas 11; Richard Cueto 30, Limbert Pizarro 40, Sergio Joao 45, Sergio Joao 53, Vladimir Soria 58, Eduardo Jiguchi (pk) 61, Jefferson Gotardi 71, Jefferson Gotardi 83
 
 Date: 12/7/1997
 
 ; Strongest     ; 2-0; Blooming
-  Wallace Machado da Silva 8  Berthy Suarez 86
+  Wallace Machado da Silva 8, Berthy Suarez 86;
 
 ; Oriente       ; 3-0; Wilstermann
-  Wilson Escalante 29, Roly Paniagua 44, 66
-
+  Wilson Escalante 29, Roly Paniagua 44, Roly Paniagua 66;
 
 Round: 7
 Date: 12/10/1997
@@ -763,18 +752,16 @@ Date: 12/10/1997
   Carlos de Andrade, Jose Loayeza; Eliseo Gareca, Berthy Suarez, Waldir
 
 ; Bolivar       ; 3-3; Blooming
-  Eduardo Jiguchi 13, Marco Sandy 40, Richard Cueto 59; Ruben Tufiño 2,
-   Limberg Gutierrez 7, 80
+  Eduardo Jiguchi 13, Marco Sandy 40, Richard Cueto 59; Ruben Tufiño 2, Limberg Gutierrez 7, Limberg Gutierrez 80
 
 ; Oriente       ; 3-0; Chaco
-  Milton Coimbra 13, Roger Suarez 75, Raul Medeiros 89
+  Milton Coimbra 13, Roger Suarez 75, Raul Medeiros 89;
 
 Round: 8 
 Date: 12/13/1997
 
 ; Chaco         ; 1-5; Wilstermann
-  Nicolas Flores 1; Juan Carlos Rios 15, 30, Elder dos Santos 33, 
-   William Ramallo 55, Misael Villaroel 61og
+  Nicolas Flores 1; Juan Carlos Rios 15, Juan Carlos Rios 30, Elder dos Santos 33, William Ramallo 55, Misael Villaroel (og) 61
 
 Date: 12/14/1997
 

@@ -107,13 +107,13 @@ Date: 4/4/1997
 ; Colegiales; 1-1; Nacional    
 *[Colegiales 4-3 pen]
 ; Libertad  ; 0-1; Colombia
-S Lorenzo free
+*S Lorenzo free
 
 Round: 8 
 *[Apr; 11-13]
 Date: 4/11/1997
 
-; Olimpia;   ; 3-0; Luqueno
+; Olimpia   ; 3-0; Luqueno
 ; Sol       ; 0-2; S Lorenzo
 ; Nacional  ; 0-3; Tembetary
 ; Colombia  ; 2-2; Guarani     
@@ -226,7 +226,7 @@ Date: 5/15/1997
 * 1.Cerro Porteño           3  2  1/0  0   7- 4  10,5  (2,5 BP)
 * 2.Sol de América          3  1  1/0  1   4- 4   7    (2   BP)
 * 3.San Lorenzo             3  1  0/1  1   4- 4   5    (1   BP)
- 4.Presidente Hayes        3  0  0/1  2   1- 4   1
+* 4.Presidente Hayes        3  0  0/1  2   1- 4   1
 
 Round: 1 
 Date: 5/18/1997
@@ -274,7 +274,8 @@ Group: B
 * 3.San Lorenzo             3  1  0/1  1   4- 4   5    (1   BP)
 * 4.Presidente Hayes        3  0  0/1  2   1- 4   1
 
-Semifinals
+Round: Semifinals
+
 5/28/1997; Olimpia   ; 0-1; Sol
 ; Villalba
 
@@ -370,7 +371,7 @@ Date: 8/24/1997
 ; Colombia  ; 5-1; Tembetary
 ; P Hayes   ; 1-1; Colegiales  
 *[Colegiales 5-4 pen]
-Luqueno free
+*Luqueno free
 
 Round: 6 
 Date: 8/31/1997

@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tablese/ecua96.html
 Season: 1996 Apertura
+Competition: Ecuadorian Serie A
 
 *The season consists of a Torneo Apertura and a Torneo Clausura.  Both
 *winners qualify for the Copa Libertadores 1997.  The champion is
@@ -20,6 +21,7 @@ Season: 1996 Apertura
 *12.LDU Portoviejo         22  4  3 15  21-53  15   [Portoviejo]
 
 Round: 1
+
 ; LDU Quito; 0-1; Barcelona 
 ; Nacional; 2-0; Aucas 
 ; Cuenca; 3-0; Green Cross ,
@@ -232,6 +234,7 @@ Round: 1
 ; Aucas       ; 2-2; Tecnico Univ
 
 Round: 2
+
 ; Green Cross ; 1-2; Olmedo 
 ; Nacional    ; 2-0; LDU Quito 
 ; Emelec      ; 5-0; Portoviejo 
@@ -240,6 +243,7 @@ Round: 2
 ; Tecnico Univ; 2-0; Barcelona 
 
 Round: 3
+
 ; LDU Quito   ; 3-1; Green Cross 
 ; Olmedo      ; 1-0; Nacional 
 ; Espoli      ; 2-0; Emelec 
@@ -248,6 +252,7 @@ Round: 3
 ; Barcelona   ; 4-3; Aucas 
 
 Round: 4
+
 ; Olmedo      ; 1-0; Green Cross
 ; LDU Quito   ; 0-3; Nacional
 ; Cuenca      ; 0-0; Espoli
@@ -256,6 +261,7 @@ Round: 4
 ; Barcelona   ; 2-0; Tecnico Univ
 
 Round: 5
+
 ; Green Cross ; 0-0; LDU Quito
 ; Nacional    ; 2-1; Olmedo
 ; Emelec      ; 3-0; Espoli
@@ -264,6 +270,7 @@ Round: 5
 ; Aucas       ; 0-0; Barcelona
 
 Round: 6
+
 ; LDU Quito   ; 1-0; Olmedo
 ; Green Cross ; 3-2; Nacional
 ; Emelec      ; 3-1; Cuenca 

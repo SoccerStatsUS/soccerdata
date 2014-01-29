@@ -61,7 +61,7 @@ Date: 2/13/2000
   A. Andaveris 46; A. Murillo 28, T. Gutierrez 47, T. Gutierrez 58, R. Arteaga 55
  
 ; Guabira                ; 4-0; Real Potosi
-  S. Castillo 33, M. Ceballos 55, M. Ceballos 66, L. Paz 72
+  S. Castillo 33, M. Ceballos 55, M. Ceballos 66, L. Paz 72;
  
 Round: 3 
 Date: 2/16/2000
@@ -146,7 +146,7 @@ Date: 3/12/2000
   L. Camacho 6, L. Camacho 11, J. Vaca 60, C. Rodriguez 68; J. Gottardi 71
 
 ; The Strongest          ; 8-0; Atletico Pompeya
-  O. Sanchez 13, V. Gonzales 27, V. Gonzales 59, V. Gonzales 80, D. Delfino 43, D. Delfino 69, W. Quinteros 64, B. Suarez 72
+  O. Sanchez 13, V. Gonzales 27, V. Gonzales 59, V. Gonzales 80, D. Delfino 43, D. Delfino 69, W. Quinteros 64, B. Suarez 72;
 
 ; Real Potosi            ; 5-0; Blooming
   A. Jara 5, A. Jara 7, A. Jara 27, J. Leal 78, C. Reynaldo 88;
@@ -316,7 +316,7 @@ Date: 5/7/2000
   A. Jara 25;
 
 ; The Strongest          ; 5-0; Real Santa Cruz
-  D. Delfino 5, V. Gonzales 8, V. Gonzales 34, V. Gonzales 70, P. Colque 21
+  D. Delfino 5, V. Gonzales 8, V. Gonzales 34, V. Gonzales 70, P. Colque 21;
 
 ; Oriente Petrolero      ; 1-0; Mariscal Braun
   M. Coimbra 23;
@@ -900,7 +900,7 @@ Round: 16
 Date: 11/18/2000
 
 ; Real Santa Cruz        ; 2-2; Guabira
-  J. Mendez, E. Monteiro; M. Ribeiro; L. Paz
+  J. Mendez, E. Monteiro; M. Ribeiro, L. Paz
 
 Date: 11/19/2000
 
@@ -911,10 +911,10 @@ Date: 11/19/2000
 ;  O. Sanchez
 
 ; Real Potosi            ; 4-0; Independiente  
-  A. Jara; S. Lopez, C. Reynaldo, C. Reynaldo;
+  A. Jara, S. Lopez, C. Reynaldo, C. Reynaldo;
  
 ; Union Central          ; 2-0; Atletico Pompeya      
-  R. Santana; F. Calustro;
+  R. Santana, F. Calustro;
 
 ; Wilstermann            ; 4-0; Mariscal Braun   
   C. Cardenas, C. Cardenas, M. Carballo, L. Ramos;
@@ -1016,7 +1016,7 @@ Date: 12/10/2000
   J. Botero, J. Botero, D. Cuellar, R. Cueto;
 
 ; Independiente          ; 7-0; Atletico Pompeya 
-  Nene, Nene, J. Vega, O. Gonzales, O. Gonzales, O. Gonzales, J. Cardoso
+  Nene, Nene, J. Vega, O. Gonzales, O. Gonzales, O. Gonzales, J. Cardoso;
 
 ; Real Potosi            ; 3-0; Wilstermann 
   J. Cossio, C. Reynaldo, C. Reynaldo;
@@ -1098,7 +1098,8 @@ Date: 12/23/2000
   G. Merlo 45, M. Coimbra (pk) 53, J. Vaca 63, J. Vaca 76;
 
 *Decisive Match 
-Date: 12/27, Trinidad/2000
+Date: 12/27/2000
+*, Trinidad/2000
 
 ; Oriente Petrolero      ; 2-2; Jorge Wilstermann            
   M. Coimbra 22, M. Coimbra (pk) 90; C. Cardenas 47, G. Galindo 84
@@ -1124,7 +1125,7 @@ Penalty kicks: 3-4
 *-----------------------------------------------
 *12.Atlético Pompeya        44 11  6 27 43-95 39  Relegated
   
-Promotion/Relegation Playoff
+*Promotion/Relegation Playoff
 
 *First Leg 
 Date: 12/19/2000

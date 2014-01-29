@@ -139,10 +139,10 @@ Date: 3/6/1999
 Date: 3/7/1999
 
 ; Alianza Atlético    ; 2-2; Sport Boys
-  Rodríguez 32, Holsen 68; Villanueva 5, 45
+  Rodríguez 32, Holsen 68; Villanueva 5, Villanueva 45
 
 ; Juan Aurich         ; 2-2; Unión Minas
-  A.Torres 59, Prado 78; Castillo 89, 90
+  A.Torres 59, Prado 78; Castillo 89, Castillo 90
 
 ; Cienciano           ; 3-0; Deportivo Pesquero
   Rossel 18, Rossel 45, Zegarra 48;
@@ -224,7 +224,7 @@ Round: 9
 ; Sport Boys          ; 0-0; Deportivo Pesquero
 
 ; Melgar              ; 4-0; IMI F.C.
-  Y.Zúñiga 22, 38, Zeballos 33, Cavero 67;
+  Y.Zúñiga 22, Y.Zúñiga 38, Zeballos 33, Cavero 67;
 
 ; Cienciano           ; 2-0; Deportivo Municipal
   Rossel 39, Zegarra 85;
@@ -980,7 +980,7 @@ Date: 11/20/1999
 Date: 11/21/1999
 
 ; Sporting Cristal    ; 2-1; Deportivo Pesquero
-  Mendoza 37, 64; Silvera 50
+  Mendoza 37, Mendoza 64; Silvera 50
 
 ; Alianza Atlético    ; 2-0; Cienciano
   Rivera 37, Rivera 52;
@@ -1091,7 +1091,7 @@ Date: 12/12/1999
 *-------------------------------------------------
 *12. IMI F.C.               44  6 11 27  34-107 29  Relegated
 
-[*] Cienciano lost the points for the victory over Cristal in rd 13 Clausura.
+*[*] Cienciano lost the points for the victory over Cristal in rd 13 Clausura.
   
 *Note: IMI F.C. is for [International Marine Inc.].
 
@@ -1102,12 +1102,12 @@ Date: 12/18/1999
 
 
 ; Pesquero     ; 2-2 (aet); América Cochahuayco; Lima, Peru
- Espinoza 60, Silvera 61; Carrión 45, Ibarra, 72
+ Espinoza 60, Silvera 61; Carrión 45, Ibarra 72
 Penalty kicks: 4-3
 
 *Deportivo Pesquero remains in Primera Division for 2000.
 
-Championship Playoff
+*Championship Playoff
 
 *First Leg 
 Date: 12/15/1999

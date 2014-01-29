@@ -83,7 +83,7 @@ Date: 2/25/1998
   W.Machaca, D.Chevez;
 
 ; Juan Aurich  ; 1-1; Cristal
-  C.Gonzales, C.Caceda (og)
+  C.Gonzales; C.Caceda (og)
 
 ; Lawn Tennis  ; 1-2; Sport Boys
   A.Diaz; S.Ibarra, F.Ramello
@@ -135,7 +135,7 @@ Date: 3/7/1998
   J.Guzman;
 
 ; Juan Aurich  ; 4-0; Minas
-  A.Torres, A.Torres, F.Manassero, M.Reyes
+  A.Torres, A.Torres, F.Manassero, M.Reyes;
 
 Round: 6 
 *[Mar 14,15]
@@ -293,7 +293,7 @@ Date: 5/2/1998
   André, L.Garcia, L. Garcia; W.Begazo, W. Begazo, C.Maldonado
 
 ; Alianza      ; 6-0; Minas
-  D.Chevez, D. Chevez, M.Asprilla, A.Yánez, C.Pizarro; H.Gallardo (og);
+  D.Chevez, D. Chevez, M.Asprilla, A.Yánez, C.Pizarro, H.Gallardo (og);
 
 ; Juan Aurich  ; 1-2; Municipal
   F.Manassero; J.Penalillo, F.Calcaterra
@@ -324,8 +324,7 @@ Date: 5/6/1998
 ; Cienciano    ; 3-1; Pesquero
   W.Begazo, G.Muñoz, D.Chumpitaz; J.Chacon
 
-[May 20]
-; Municipal    ; 2-2; Universitario
+5/20/1998; Municipal    ; 2-2; Universitario
   F.Calcaterra, P.Maldonado; M.Cantoro, G.Portilla
 
 Round: 15 
@@ -367,7 +366,7 @@ Date: 5/13/1998
   F.Ramello, F. Ramello; M.Agapito, W.Ricardi
 
 ; Cristal      ; 5-0; Lawn Tennis
-  M.Asteggiano, J.Soto, Nilson, Nilson, A.Mendoza
+  M.Asteggiano, J.Soto, Nilson, Nilson, A.Mendoza;
 
 ; Minas        ; 1-0; Juan Aurich
   S.Godoy;
@@ -425,7 +424,7 @@ Date: 5/30/1998
   M.Alva; A.Cipriano, A.Gonzales
 
 ; Melgar       ; 2-1; Cienciano
-  J.Reyes, Arteaga (og), M.Valencia
+  J.Reyes, M.Valencia; Arteaga (og)
 
 ; Minas        ; 3-0; Municipal
   R.Miñan, R.Miñan, R.Miñan;
@@ -664,7 +663,7 @@ Date: 8/22/1998
 
 Round: 7 
 *[Aug 29, 30]
-Date; 8/29/1998
+Date: 8/29/1998
 
 ; Sporting Cristal  ; 1-0; Cienciano
   Asteggiano 48;
@@ -1021,7 +1020,7 @@ Date: 12/8/1998
 *As three teams tied the first place, the two teams with the best goal
 *difference (Sporting Cristal and Alianza Lima) play off for the title.
 
-Clausura Championship Playoff
+*Clausura Championship Playoff
 
 12/16/1998; Sporting Cristal; 1-0; Alianza Lima; Lima, Peru
                          Mendoza 42;
@@ -1047,27 +1046,30 @@ Clausura Championship Playoff
 *[*] Cienciano one point deducted
 
 
-National Championship Playoff
-December 20   Lima     Sporting Cristal - Universitario             2-1
-                         [Nilson 30' Mendoza 40' / Guadalupe 62']
-December 23   Lima     Universitario - Sporting Cristal             2-1  [4-2 pen]
-                         [Farfán 40' 56' / Mendoza 74']
-   Penalty shootout: Grondona (1-0), Ferreira (1-1), Casas (1-1), Jorge Soto (1-1),
-                     Falaschi (2-1), Serrano (2-2), Gudalupe (3-2), Carty (3-2),
-                     Esidio (4-2).
-Universitario de Deportes are 1998 Champions of Peru.
+*National Championship Playoff
 
-Copa Conmebol Playoff
-December 20   Callao   Sport Boys - Alianza Lima                    0-1
-                         [Saavedra  74']
-December 22   Lima     Alianza Lima - Sport Boys                    2-0
-                         [Basombrío 6' Gareca 29']
-Alianza Lima qualified for Copa Conmebol 1999.
+12/20/1998;      Sporting Cristal; 2-1; Universitario; Lima, Peru
+Nilson 30' Mendoza 40; Guadalupe 62
 
-Relegation Playoff
-December 20   Lima     Deportivo Municipal - Hijos de Yurimaguas    4-1  [aet]
-                         [Baroni 34' 100' 113' Maldonado 119' / Rodríguez 64']
-Deportivo Municipal remain in Primera, Hijos de Yurimaguas remain in Segunda.
+12/23/1998; Universitario; 2-1; Sporting Cristal; Lima, Peru
+Penalty kicks: 4-2
+Farfán 40, Farfán  56; Mendoza 74
+*   Penalty shootout: Grondona (1-0), Ferreira (1-1), Casas (1-1), Jorge Soto (1-1),
+*                     Falaschi (2-1), Serrano (2-2), Gudalupe (3-2), Carty (3-2),
+*                     Esidio (4-2).
+*Universitario de Deportes are 1998 Champions of Peru.
+
+*Copa Conmebol Playoff
+*December 20   Callao   Sport Boys - Alianza Lima                    0-1
+*                         [Saavedra  74']
+*December 22   Lima     Alianza Lima - Sport Boys                    2-0
+*                         [Basombrío 6' Gareca 29']
+*Alianza Lima qualified for Copa Conmebol 1999.
+*
+*Relegation Playoff
+*December 20   Lima     Deportivo Municipal - Hijos de Yurimaguas    4-1  [aet]
+*                         [Baroni 34' 100' 113' Maldonado 119' / Rodríguez 64']
+*Deportivo Municipal remain in Primera, Hijos de Yurimaguas remain in Segunda.
 
 
 

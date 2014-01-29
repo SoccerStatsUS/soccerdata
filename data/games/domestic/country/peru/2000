@@ -163,7 +163,7 @@ Date: 3/18/2000
   Juan Bazalar 39; Henry Quinteros 41
 
 ; Sporting Cristal   ; 3-0; Union Minas
-  Carlos Juárez 25, Carlos Juarez 42, Carlos Juarez 77
+  Carlos Juárez 25, Carlos Juarez 42, Carlos Juarez 77;
 
 ; Universitario      ; 0-0; Deportivo Wanka   
 
@@ -655,7 +655,7 @@ Date: 8/20/2000
   Roberto Silva 37;
 
 ; Cienciano          ; 5-0; Alianza Atletico 
-  Paul Cominges 32, Paul Cominges 48, Luis Bonnet 46, Luis Bonnet 65, Luis Bonnet 84
+  Paul Cominges 32, Paul Cominges 48, Luis Bonnet 46, Luis Bonnet 65, Luis Bonnet 84;
 
 ; Union Minas        ; 2-1; Melgar 
   Nelson Gómez 29, Sergio Godoy 75; Gerson Paz 88
@@ -670,7 +670,7 @@ Round: 6
 Date: 8/27/2000
 
 ; Universitario      ; 5-0; UPAO 
-  Eduardo Esidio (pk) 3, Eduardo Esidio 46, Eduardo Esidio 88, Piero Alva 74, Piero Alva 85
+  Eduardo Esidio (pk) 3, Eduardo Esidio 46, Eduardo Esidio 88, Piero Alva 74, Piero Alva 85;
 
 ; Melgar             ; 1-2; Sporting Cristal  
   Leonardo Uehara (pk) 78; Roberto Silva 39, Palhinha 42
@@ -828,7 +828,8 @@ Date:
   Roberto Holsen 44, Anthony Jackson 56; Roger Serrano 81
 
 ; UPAO               ; 3-1; Deportivo Wanka  
-  Fabian Arias 20, Rodrigo Saraz 41, 7Rodrigo Saraz 9; Sergio Ibarra 62
+*  Fabian Arias 20, Rodrigo Saraz 41, 7Rodrigo Saraz 9; Sergio Ibarra 62
+  Fabian Arias 20, Rodrigo Saraz 41, Rodrigo Saraz 9; Sergio Ibarra 62
 
 ; Municipal          ; 3-3; Union Minas 
   Roberto Valenzuela 30, Roberto Valenzuela 80, Nilson Alvarez 46; Francisco Mendoza 1, Victor Larrahondo 27, Pedro Ascoy 44
@@ -1010,7 +1011,7 @@ Date: 12/2/2000
   Roberto Dolorier 72, Roberto Dolorier 75; Anthony Jackson 33, Anthony Jackson 57, Renzo Benavides 61
 
 ; Juan Aurich        ; 4-2; Union Minas  
-  Mario Rodriguez 13, Chiquinho 17, 36, Hansel Arriaga 71; Pedro Ascoy 54, Victor Larrahondo 65
+  Mario Rodriguez 13, Chiquinho 17, Chiquinho 36, Hansel Arriaga 71; Pedro Ascoy 54, Victor Larrahondo 65
 
 ; UPAO               ; 0-3; Sport Boys      
 ;  Alonso Alcíbar 39, Alonso Alcibar 55, Carlos Lobaton 58

@@ -30,7 +30,7 @@ Date: 2/24/2008
   Alex Rodrigo Da Rosa 86, Martin Adrian Palavicini 89; Anderson Gonzaga 6
 
 ; Jorge Wilstermann     ; 6-0; Real Mamoré
-  Nelson Sossa 13, Nelson Sossa 55, Nelson Sossa 77, Ricardo Pedriel 14, Ricardo Pedriel 86, Daniel Alejandro Juarez 34
+  Nelson Sossa 13, Nelson Sossa 55, Nelson Sossa 77, Ricardo Pedriel 14, Ricardo Pedriel 86, Daniel Alejandro Juarez 34;
 
 ; Universitario         ; 0-0; Bolívar
 
@@ -250,7 +250,7 @@ Date: 4/30/2008
 ; Bolívar               ; 0-0; Blooming
 
 ; La Paz                ; 5-0; Real Mamoré
-  Regis Adair De Souza 13, Augusto Andaveris 43, Augusto Andaveris 48, Alain Niño de Guzman 79, Carlos Eduardo Vargas 89
+  Regis Adair De Souza 13, Augusto Andaveris 43, Augusto Andaveris 48, Alain Niño de Guzman 79, Carlos Eduardo Vargas 89;
 
 Date: 5/1/2008
 
@@ -428,7 +428,7 @@ Round: 20
 Date: 6/29/2008
 
 ; Bolívar               ; 6-0; Guabirá
-  Pablo Antonio Salinas 33, Pablo Antonio Salinas 64, Danner Jesus Pachi 39, Pablo Rivera 69, Pablo Rivera 81, Emilio Damian Martinez 90+2
+  Pablo Antonio Salinas 33, Pablo Antonio Salinas 64, Danner Jesus Pachi 39, Pablo Rivera 69, Pablo Rivera 81, Emilio Damian Martinez 90+2;
 
 ; Real Potosí           ; 7-0; Blooming
   Alvaro Gabriel Pintos 13, Alvaro Gabriel Pintos 24, Alvaro Gabriel Pintos 34, Alvaro Gabriel Pintos 39, Luis Hernan Sillero 29, Isidro Ramon Candia 69, Jesus Ronald Gallegos 85;
@@ -451,7 +451,7 @@ Round: 17
 Date: 7/5/2008
 
 ; The Strongest         ; 4-0; Aurora
-  Aldo Henry Gutierrez (og) 20, Pablo Daniel Escobar 24, Pablo Daniel Escobar 57, Roberto Galindo 42
+  Aldo Henry Gutierrez (og) 20, Pablo Daniel Escobar 24, Pablo Daniel Escobar 57, Roberto Galindo 42;
 
 Date: 7/6/2008
 
@@ -555,8 +555,8 @@ Season: 2008 Clausura
 * 5.The Strongest              10  2  5  3 16-21 11
 * 6.San José                   10  2  3  5 15-14  9
 
-NB: top-2 of both groups qualify for semifinals (2 legs,
-    away goal rule applicable, also in final)
+*NB: top-2 of both groups qualify for semifinals (2 legs,
+*    away goal rule applicable, also in final)
 
 Round: 1 
 Date: 8/3/2008
@@ -704,7 +704,7 @@ Date: 9/21/2008
   Junior Bonifas Arroyo 29, Victor Hugo Angola 59; Nelson Sossa 10, Daniel Alejandro Juarez 26, Daniel Alejandro Juarez 37
 
 ; Blooming              ; 2-0; Oriente Petrolero
-  (Joselito Vaca 46, Jesus Alejandro Gomez 57;
+Joselito Vaca 46, Jesus Alejandro Gomez 57;
 
 ; La Paz FC             ; 2-1; Real Potosí            
   Carlos Eduardo Vargas 9, Simon Nestor Bastos 12; Luis Hernan Sillero 67
@@ -856,7 +856,7 @@ Penalty kicks: 4-3
 *NB: Guabirá relegated directly; Real Mamoré to playoff against
 *    Copa Simón Bolívar runners-up
 
-Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
 
 *First Leg [Dec 14]
 12/14/2008; Real Mamoré           ; 2-1; Primero de Mayo  
@@ -867,7 +867,7 @@ Promotion/Relegation Playoff
 *NB: Real Mamoré remain at top level
 
 
-Torneo Play Off de la Liga 2008 
+Stage: Torneo Play Off de la Liga 2008 
 
 *NB: winners qualify for Copa Libertadores 2009 as third Bolivia
 *    representatives
@@ -962,7 +962,7 @@ Date: 11/23/2008
   Ricardo Verduguez 31, Joselo Nomey (og) 58; Herlan Alvarez 83
 
 ; Bolívar               ; 1-0; Jorge Wilstermann 
-  Joaquin Botero 54l
+  Joaquin Botero 54;
 
 ; Real Mamoré           ; 1-2; Real Potosí
   Derlis Miguel Paredes 40; Isidro Ramon Candia 3, Juan Carlos Tissera 26

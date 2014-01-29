@@ -115,7 +115,7 @@ Date: 3/21/2010
 Round: 5
 * [inter-group]
 
-Date:; 3/27/2010
+Date: 3/27/2010
 
 ; La Paz             ; 4-2; San José
   Carlos Eduardo Vargas 19, Enrique Romaña 24, Roly Sejas 65, Christian Jesus Reynaldo 92; Oscar Alberto Diaz 35, Christian Omar Diaz 91
@@ -221,7 +221,7 @@ Date: 4/25/2010
   Matias Sebastian Arce (pk) 54; Julio Cesar Cortez 25, Juan Antonio Maraude 41
      
 ; Universitario Sucre; 5-0; Real Potosí    
-  Roberto Galindo 18, Roberto Galindo 58, Gustavo Adolfo Paz 34, Horacio Ramon Fernandez 45+1, Jesus Ronald Gallegos 83
+  Roberto Galindo 18, Roberto Galindo 58, Gustavo Adolfo Paz 34, Horacio Ramon Fernandez 45+1, Jesus Ronald Gallegos 83;
      
 ; Jorge Wilstermann  ; 2-2; Aurora           
   Juan Daniel Salaberry 70, Juan Daniel Salaberry 89; Jair Reinoso 55, Ignacio Awad Garcia 92
@@ -259,7 +259,7 @@ Date: 5/2/2010
   Jorge Gary Paz 11, Carlos Eduardo Vargas 92;
       
 ; Real Potosí        ; 3-0; Jorge Wilstermann  
-  Jair Torrico (og) 80, Augusto Andaveris 87, Dino Huallpa 90
+  Jair Torrico (og) 80, Augusto Andaveris 87, Dino Huallpa 90;
        
 ; Aurora             ; 2-1; San José  
   Ignacio Awad Garcia 6, Alan Loras (og) 59; Alejandro Rene Bejarano 3
@@ -315,7 +315,7 @@ Date: 5/6/2010
 * 6.Real Mamoré                12  4  0  8 15-25 12  Losers Group
 
 
-Second Stage
+Stage: 2
 
 *Winners Group
 * 1.Jorge Wilstermann          10  6  2  2 15-11 20  Champions
@@ -372,7 +372,7 @@ Date: 5/19/2010
 Date: 5/20/2010
 
 ; Oriente Petrolero  ; 4-0; San José  
-  Eduardo Melgar 21, Eduardo Marcelo Aguirre (pk) 74, Eduardo Marcelo Aguirre 88,  Pablo Antonio Salinas 81
+  Eduardo Melgar 21, Eduardo Marcelo Aguirre (pk) 74, Eduardo Marcelo Aguirre 88,  Pablo Antonio Salinas 81;
           
 ; Jorge Wilstermann  ; 2-0; Bolívar    
   Nicolas Raimondi 21, Fernando Manuel Sanjurjo (pk) 49;
@@ -473,7 +473,7 @@ Date: 5/9/2010
 ;  Luis Hernan Sillero 87
 
 ; Universitario Sucre; 4-0; Real Mamoré         
-  Oscar Añez 3, Damian Matias Cirillo 14, Tobias Albarracin 31, Sacha Silvestre Lima 44
+  Oscar Añez 3, Damian Matias Cirillo 14, Tobias Albarracin 31, Sacha Silvestre Lima 44;
 
 Round: 2
 Date: 5/12/2010
@@ -601,11 +601,10 @@ Date: 6/10/2010
 *12.Guabirá                    10  3  0  7 10-19  9
 
 
-Torneo Play Off de la Liga 2010
+*Torneo Play Off de la Liga 2010
+*NB: winners qualify for Copa Sudamericana
 
-NB: winners qualify for Copa Sudamericana
-
-First Round:
+*First Round:
 
 *First Legs
 Date: 6/15/2010
@@ -623,7 +622,7 @@ Date: 6/16/2010
   Juan Daniel Salaberry 53, Nelson Sossa 79, Hector Horacio Ortega (pk) 91;
 
 ; Real Potosí        ; 3-0; Universitario Sucre 
-  Christian Maciel Ruiz, 26, Miguel Osvaldo Loayza 46, Pastor Torrez 85;
+  Christian Maciel Ruiz 26, Miguel Osvaldo Loayza 46, Pastor Torrez 85;
 
 ; Blooming           ; 1-2; Oriente Petrolero   
   Gualberto Mojica 36; Alcides Peña 34, Jorge Andres Ramirez 52
@@ -648,7 +647,7 @@ Date: 6/20/2010
   Ignacio Awad Garcia (pk) 48; Marcelo Angulo (pk) 45
 
 ; The Strongest      ; 2-0; Bolívar             
-  Julian Di Cosmo 43, Pablo Osvaldo Vazquez 81
+  Julian Di Cosmo 43, Pablo Osvaldo Vazquez 81;
 Penalty kicks: 5-4
 
 ; Oriente Petrolero  ; 0-1; Blooming            
@@ -662,7 +661,7 @@ Date: 6/21/2010
 
 *NB: Bolívar and Blooming qualified as best losers
 
-Second Round:
+*Second Round:
 
 *First Legs
 Date: 6/23/2010
@@ -698,7 +697,7 @@ Penalty kicks: 1-4
 
 ; Bolívar            ; 4-1; Real Potosí         
   William Ferreira 7, William Ferreira 18, Alex Rodrigo Da Rosa 44, Alex Rodrigo Da Rosa 86; Christian Maciel Ruiz 69
-Penalty kciks: 5-3
+Penalty kicks: 5-3
 
 Round: Semifinals
 
@@ -723,7 +722,7 @@ Date: 7/4/2010
 ; Bolívar            ; 5-1; San José            
   William Ferreira 45+2, William Ferreira 60, William Ferreira 75, William Ferreira 91, William Ferreira 92; Oscar Alberto Diaz 64
 
-Playoff 
+*Playoff 
 Date: 7/7/2010
 
 ; Bolívar            ; 1-2; San José            
@@ -744,7 +743,7 @@ Date: 7/18/2010
   Joselito Vaca 5, Eduardo Marcelo Aguirre 53, Alcides Peña 63, Jhasmani Campos 67, Fernando Javier Saucedo 92; Regis Adair De Souza 27, Oscar Alberto Diaz 51
 
 
-Playoff 
+*Playoff 
 Date: 7/21/2010
 
 ; Oriente Petrolero  ; 1-1; San José            
@@ -1112,7 +1111,7 @@ Date: 10/24/2010
   Roberto Galindo 49;
 
 ; Blooming           ; 3-0; Jorge Wilstermann   
-  Jose Alfredo Castillo 43, Jesus Alejandro Gomez 75, Gualberto Mojica 89
+  Jose Alfredo Castillo 43, Jesus Alejandro Gomez 75, Gualberto Mojica 89;
 
 Round: 16
 Date: 10/13/2010
@@ -1293,7 +1292,7 @@ Date: 11/28/2010
 *Relegated:          Jorge Wilstermann (Apertura champions!)
 *Relegation Playoff: Real Mamoré
 
-Promotion/Relegation Playoff
+*Promotion/Relegation Playoff
 
 *First Leg [Dec 9]
 12/9/2010; Real Mamoré        ; 2-1; Real América 
