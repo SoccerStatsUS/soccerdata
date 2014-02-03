@@ -113,6 +113,13 @@ l = [
         'opened': 1993,
         },        
 
+    {
+        'name': 'Estadio Revolución Mexicana',
+        'location': 'Pachuca, Hidalgo, Mexico',
+        'capacity': 3500,
+        'opened': datetime.datetime(1958, 12, 14),
+        },        
+
 
     {
         'name': 'Estadio TSM Corona',

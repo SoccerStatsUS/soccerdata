@@ -15,6 +15,12 @@ l = [
         'city': 'Marietta, GA',
         },
 
+    {
+        'name': 'Atlanta Beat',
+        'founded': 2009, 
+        'city': 'Atlanta, GA',
+        },
+
 
     # Division 1
 

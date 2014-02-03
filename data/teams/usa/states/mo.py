@@ -9,6 +9,13 @@ l = [
         'name': 'St. Louis Thistles',
         'city': 'St. Louis, MO',
         },
+
+    {
+        'name': 'St. Louis Athletica',
+        'city': 'St. Louis, MO',
+        'founded': 2008,
+        'dissolved': 2010,
+        },
     {
         'name': 'St. Louis West Ends',
         'city': 'St. Louis, MO',

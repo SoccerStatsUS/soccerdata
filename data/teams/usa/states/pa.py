@@ -17,6 +17,13 @@ l = [
         },
 
     { 
+        'name': 'Philadelphia Independence',
+        'city': 'Philadelphia, PA',
+        'founded': 2009,
+        'dissolved': 2012,
+        },
+
+    { 
         'name': 'Pittsburgh Spirit',
         'city': 'Pittsburgh, PA',
         },

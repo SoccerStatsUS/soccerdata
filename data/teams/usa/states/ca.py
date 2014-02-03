@@ -10,6 +10,13 @@ l = [
         'city': 'Palo Alto, CA',
         },
 
+    {
+        'name': 'Los Angeles Sol',
+        'city': 'Los Angeles, CA',
+        'founded': 2007,
+        'dissolved': 2010,
+        },
+
     #{
     #    'name': 'Golden Bay Buccaneers', # same as Oakland Buccaneers
     #    'city': 'Berkeley, CA',

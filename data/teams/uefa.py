@@ -9,6 +9,393 @@ l = [
         'name': 'University of Dublin',
         'city': 'Dublin, Ireland',
         },
+    {
+        'name': 'Vorskla Poltava',
+        'founded': 1955,
+        'city': 'Poltava, Ukraine',
+        },
+
+    {
+        'name': 'Metalist Kharkiv',
+        'founded': 1925,
+        'city': 'Kharkiv, Ukraine',
+        },
+
+    {
+        'name': 'Arsenal Kyiv',
+        'founded': 2001,
+        'dissolved': datetime.datetime(2013, 10, 29),
+        'city': 'Kiev, Ukraine',
+        },
+
+
+    {
+        'name': 'Željezničar Sarajevo',
+        'city': 'Sarajevo, Bosnia',
+        'founded': datetime.datetime(1921, 9, 19),
+        },
+
+    {
+        'name': 'Drumcondra',
+        'city': 'Dublin, Ireland',
+        'founded': 1923,
+        'dissolved': 1972,
+        },
+    {
+        'name': 'Shelbourne',
+        'city': 'Drumcondra, Ireland',
+        'founded': 1895,
+        },
+
+    {
+        'name': 'Cork Hibernians',
+        'city': 'Cork, Ireland',
+        'founded': 1957,
+        'dissolved': 1977,
+        },
+
+    {
+        'name': 'Jeunesse d\'Esch',
+        'city': 'Esch-sur-Alzette, Luxembourg',
+        'founded': 1907,
+        },
+
+    {
+        'name': 'KF Elbasani',
+        'city': 'Elbasan, Albania',
+        'founded': 1913,
+        },
+
+    {
+        'name': 'Vikingur',
+        'city': 'Reykjavik, Iceland',
+        'founded': datetime.datetime(1908, 4, 21),
+        },
+
+    {
+        'name': 'ÍBV Vestmannaeyjar',
+        'city': 'Vestmannaeyjar, Iceland',
+        'founded': 1903,
+        },
+
+    {
+        'name': 'FK Vardar',
+        'city': 'Skopje, Macedonia',
+        'founded': datetime.datetime(1947, 7, 22),
+        },
+
+    {
+        'name': 'KA Akureyri',
+        'city': 'Akureyri, Iceland',
+        'founded': 1928,
+        },
+
+
+
+    {
+        'name': 'RWD Molenbeek',
+        'city': 'Brussels, Belgium',
+        'founded': 1973,
+        'dissolved': 2002,
+        },
+
+    {
+        'name': 'Vllaznia Shkodër',
+        'city': 'Shkodër, Albania',
+        'founded': datetime.datetime(1919, 2, 16),
+        },
+
+    {
+        'name': 'Stal Mielec',
+        'city': 'Mielec, Poland',
+        'founded': datetime.datetime(1939, 4, 10),
+        },
+
+    {
+        'name': 'Ararat Yerevan',
+        'city': 'Yerevan, Armenia',
+        'founded': datetime.datetime(1935, 5, 10),
+        },
+
+    {
+        'name': 'Aris Bonnevoie',
+        'city': 'Luxembourg City, Luxembourg',
+        'founded': 1922,
+        },
+
+    {
+        'name': 'Lisburn Distillery',
+        'city': 'Lisburn, Northern Ireland',
+        'founded': 1880,
+        },
+
+    {
+        'name': 'Portadown F.C.',
+        'city': 'Portadown, Northern Ireland',
+        'founded': 1888,
+        },
+
+
+    {
+        'name': 'Wacker Innsbruck',
+        'city': 'Innsbruck, Austria',
+        'founded': 1915,
+        'dissolved': 1999,
+        },
+
+    {
+        'name': 'FC Haka',
+        'city': 'Valkeakoski, Finland',
+        'founded': 1934,
+        },
+
+    {
+        'name': 'Helsingin Palloseura',
+        'city': 'Helsinki, Finland',
+        'founded': 1917,
+        },
+
+    {
+        'name': 'Turun Palloseura',
+        'city': 'Turku, Finland',
+        'founded': 1922,
+        },
+
+    {
+        'name': 'Oulun Palloseura',
+        'city': 'Oulu, Finland',
+        'founded': 1927,
+        },
+    {
+        'name': 'FC Kuusysi',
+        'city': 'Lahti, Finland',
+        'founded': 1934,
+        },
+
+    {
+        'name': 'Skeid',
+        'city': 'Oslo, Norway',
+        'founded': datetime.datetime(1915, 1, 1),
+        },
+
+    {
+        'name': 'DWS Amsterdam',
+        'city': 'Amsterdam, Netherlands',
+        'founded': datetime.datetime(1907, 10, 11),
+        },
+
+    {
+        'name': 'Keflavik',
+        'city': 'Reykjanesbær, Iceland',
+        'founded': 1929,
+        },
+
+    {
+        'name': 'Lausanne-Sport',
+        'city': 'Lausanne, Switzerland',
+        'founded': 1896,
+        },
+
+
+    {
+        'name': 'KF Tirana',
+        'city': 'Tirana, Macedonia',
+        'founded': datetime.datetime(1920, 8, 16),
+        },
+
+    {
+        'name': 'Dinamo Tirana',
+        'city': 'Tirana, Macedonia',
+        'founded': datetime.datetime(1950, 3, 3),
+        },
+
+    {
+        'name': 'Red Boys Differdange',
+        'city': 'Differdange, Luxembourg',
+        'founded': 1907,
+        },
+
+    {
+        'name': 'Dynamo Dresden',
+        'city': 'Dresden, Germany',
+        'founded': datetime.datetime(1953, 4, 12),
+        },
+
+    {
+        'name': 'IA Akranes',
+        'city': 'Akranes, Iceland',
+        'founded': 1946,
+        },
+
+    {
+        'name': 'Fram Reykjavik',
+        'city': 'Reykjavik, Iceland',
+        'founded': datetime.datetime(1908, 5, 1),
+        },
+
+    {
+        'name': 'Partizani Tirana',
+        'city': 'Tirana, Macedonia',
+        'founded': datetime.datetime(1946, 2, 4),
+        },
+
+    {
+        'name': 'HIFK Helsinki',
+        'city': 'Helsinki, Finland',
+        'founded': 1907,
+        },
+
+    {
+        'name': 'KuPS',
+        'city': 'Kuopio, Finland',
+        'founded': 1923,
+        },
+
+
+
+    {
+        'name': 'Lokomotiv Sofia',
+        'city': 'Sofia, Bulgaria',
+        'founded': datetime.datetime(1929, 9, 2),
+        },
+
+    {
+        'name': 'Levski Sofia',
+        'city': 'Sofia, Bulgaria',
+        'founded': datetime.datetime(1914, 5, 24),
+        },
+
+    {
+        'name': 'CSKA Sofia',
+        'city': 'Sofia, Bulgaria',
+        'founded': datetime.datetime(1948, 5, 5),
+        },
+
+
+    {
+        'name': 'Sliema Wanderers',
+        'city': 'Sliema, Malta',
+        'founded': 1909,
+        },
+
+    {
+        'name': 'Floriana',
+        'city': 'Floriana, Malta',
+        'founded': 1894,
+        },
+
+    {
+        'name': 'Hibernians (Malta)',
+        'city': 'Paola, Malta',
+        'founded': 1922,
+        },
+
+    {
+        'name': 'Csepel SC',
+        'city': 'Budapest, Hungary',
+        'founded': 1912,
+        },
+
+    {
+        'name': 'Nagykanizsa',
+        'city': 'Nagykanizsa, Hungary',
+        },
+
+    {
+        'name': 'Spartak Plovdiv',
+        'city': 'Plovdiv, Bulgaria',
+        'founded': datetime.datetime(1947, 11, 15),
+        },
+
+    {
+        'name': 'Botev Plovdiv',
+        'city': 'Plovdiv, Bulgaria',
+        'founded': datetime.datetime(1912, 3, 12),
+        },
+
+    {
+        'name': 'UT Arad',
+        'city': 'Arad, Romania',
+        'founded': datetime.datetime(1945, 4, 18),
+        },
+
+    {
+        'name': 'Universitatea Craiova',
+        'city': 'Craiova, Romania',
+        'founded': 1948,
+        },
+
+    {
+        'name': 'KPV Kokkola',
+        'city': 'Kokkola, Finland',
+        'founded': 1930,
+        },
+
+
+
+    {
+        'name': 'Valletta FC',
+        'city': 'Valletta, Malta',
+        'founded': 1943,
+        },
+
+    {
+        'name': 'Reipas Lahti',
+        'city': 'Lahti, Finland',
+        },
+
+
+
+    {
+        'name': 'HJK',
+        'city': 'Helsinki, Finland',
+        'founded': datetime.datetime(1907, 6, 19),
+        },
+
+    {
+        'name': 'Vojvodina Novi Sad',
+        'city': 'Novi Sad, Serbia',
+        'founded': datetime.datetime(1914, 3, 6),
+        },
+
+    {
+        'name': 'Hvidovre IF',
+        'city': 'Hvidovre, Denmark',
+        'founded': datetime.datetime(1925, 10, 15),
+        },
+
+    {
+        'name': 'Rapid București',
+        'city': 'Bucharest, Romania',
+        'founded': datetime.datetime(1923, 6, 25),
+        },
+
+    {
+        'name': 'Spora Luxembourg',
+        'city': 'Luxembourg City, Luxembourg',
+        'founded': 1923,
+        'dissolved': 2005,
+        },
+
+    {
+        'name': 'Union Luxembourg',
+        'city': 'Luxembourg City, Luxembourg',
+        'founded': 1925,
+        'dissolved': 2005,
+        },
+
+    {
+        'name': 'Stade Dudelange',
+        'city': 'Dudelange, Luxembourg',
+        'founded': 1913,
+        'dissolved': 1991,
+        },
+
+    {
+        'name': 'Petrolul Ploieşti',
+        'city': 'Ploieşti, Romania',
+        'founded': 1924,
+        },
 
     {
         'name': 'Partick Thistle',
@@ -336,6 +723,12 @@ l = [
         },
 
     {
+        'name': '1. FC Magdeburg',
+        'founded': datetime.datetime(1965, 12, 22),
+        'city': 'Magdeburg, Germany',
+        },
+
+    {
         'name': 'Southampton F.C.',
         'founded': 1979,
         'city': 'Southampton, England',
@@ -442,6 +835,12 @@ l = [
         'name': 'Nottingham Forest F.C.',
         'founded': 1865,
         'city': 'West Bridgford, England',
+        },
+
+    {
+        'name': 'Brighton & Hove Albion',
+        'founded': datetime.datetime(1901, 8, 21),
+        'city': 'Brighton & Hove, England',
         },
     {
         'name': 'Luton Town F.C.',
@@ -998,7 +1397,6 @@ l = [
         'founded': datetime.datetime(1891, 2, 15),
         'city': 'Stockholm, Sweden',
         },
-
 
     {
         'name': 'GIF Sundsvall',
@@ -1914,6 +2312,13 @@ l = [
         },
 
     {
+        'name': 'Argeș Pitești',
+        'founded': 1953,
+        'dissolved': 2013,
+        'city': 'Pitesti, Romania',
+        },
+
+    {
         'name': 'FC Steaua București',
         'founded': datetime.datetime(1947, 6, 7),
         'city': 'Bucharest, Romania',
@@ -1979,16 +2384,29 @@ l = [
 
     # Northern Ireland
 
+
+
     {
         'name': 'Glenavon FC',
         'founded': 1889,
         'city': 'Lurgan, Northern Ireland',
+        },
+    {
+        'name': 'Crusaders Belfast',
+        'founded': 1898,
+        'city': 'Belfast, Northern Ireland',
         },
 
     {
         'name': 'Glentoran',
         'founded': 1882,
         'city': 'Belfast, Northern Ireland',
+        },
+
+    {
+        'name': 'Derry City',
+        'founded': 1928,
+        'city': 'Derry, Northern Ireland',
         },
     {
         'name': 'Coleraine F.C.',
@@ -2105,6 +2523,24 @@ l = [
         'name': 'Waasland-Beveren',
         'founded': 1936,
         'city': 'Beveren, Belgium',
+        },
+
+    {
+        'name': 'Dinamo Tbilisi',
+        'founded': 1925,
+        'city': 'Tbilisi, Georgia',
+        },
+
+    {
+        'name': 'Ħamrun Spartans',
+        'founded': 1907,
+        'city': 'Ħamrun, Malta',
+        },
+
+    {
+        'name': 'Rabat Ajax',
+        'founded': 1930,
+        'city': 'Rabat, Malta',
         },
 
     {
@@ -2473,6 +2909,46 @@ l = [
 
 
     # Cyprus
+
+
+    {
+        'name': 'APOEL Nicosia',
+        'city': 'Nicosia, Cyprus',
+        'founded': datetime.datetime(1926, 11, 8),
+        },
+
+    {
+        'name': 'Olympiakos Nicosia',
+        'city': 'Nicosia, Cyprus',
+        'founded': 1931,
+        },
+
+    {
+        'name': 'Omonia Nicosia',
+        'city': 'Nicosia, Cyprus',
+        'founded': datetime.datetime(1948, 6, 4),
+        },
+
+    {
+        'name': 'Anorthosis Famagusta',
+        'city': 'Famagusta, Cyprus',
+        'founded': 1911,
+        },
+
+    {
+        'name': 'EPA Larnaca',
+        'city': 'Larnaca, Cyprus',
+        'founded': 1930,
+        'dissolved': 1994,
+        },
+
+    {
+        'name': 'Pezoporikos Larnaca',
+        'city': 'Larnaca, Cyprus',
+        'founded': 1927,
+        'dissolved': 1994,
+        },
+
     {
         'name': 'Apollon Limassol',
         'founded': datetime.datetime(1954, 4, 14),
@@ -2724,7 +3200,7 @@ l = [
         },
 
     {
-        'name': 'SSK Vitkovice',
+        'name': 'FC Vitkovice',
         'founded': 1919,
         'city': 'Vitkovice, Czech Republic',
         },
@@ -2877,6 +3353,12 @@ l = [
         'name': 'Besiktas',
         'founded': datetime.datetime(1903, 3, 19),
         'city': 'Istanbul, Turkey',
+        },
+
+    {
+        'name': 'Elazığspor',
+        'founded': 1967,
+        'city': 'Elazığ, Turkey',
         },
 
     {
@@ -3347,6 +3829,24 @@ l = [
         'name': 'Dynamo Kiev',
         'founded': datetime.datetime(1927, 5, 13),
         'city': 'Kiev, Ukraine',
+        },
+
+    {
+        'name': 'Zorya Luhansk',
+        'founded': 1923,
+        'city': 'Luhansk, Ukraine',
+        },
+
+    {
+        'name': 'Dnipro Dnipropetrovsk',
+        'founded': 1918,
+        'city': 'Dnipropetrovsk, Ukraine',
+        },
+
+    {
+        'name': 'Shakhtar Donetsk',
+        'founded': datetime.datetime(1936, 5, 24),
+        'city': 'Donetsk, Ukraine',
         },
 
     # Belarus
@@ -3844,6 +4344,12 @@ l = [
         'city': 'Warsaw, Poland',
         },
 
+    {
+        'name': 'Gwardia Warszawa',
+        'founded': 1948,
+        'city': 'Warsaw, Poland',
+        },
+
 
     {
         'name': 'Arka Gdynia',
@@ -4101,7 +4607,7 @@ l = [
 
 
     {
-        'name': 'Heart of Midlothianb',
+        'name': 'Heart of Midlothian',
         'founded': 1874,
         'city': 'Edinburgh, Scotland',
         },
@@ -4307,6 +4813,12 @@ l = [
         },
 
     {
+        'name': 'KR Reykjavik',
+        'founded': datetime.datetime(1899, 2, 16),
+        'city': 'Reykjavik, Iceland',
+        },
+
+    {
         'name': 'IBV',
         'founded': 1903,
         'city': 'Vestmannaeyjar, Iceland',
@@ -4320,6 +4832,25 @@ l = [
         'name': 'Shamrock Rovers',
         'founded': 1901,
         'city': 'Dublin, Ireland',
+        },
+
+    {
+        'name': 'Cork Celtic',
+        'founded': 1959,
+        'dissolved': 1979,
+        'city': 'Cork, Ireland',
+        },
+
+    {
+        'name': 'St Patrick\'s Athletic',
+        'founded': 1929,
+        'city': 'Dublin, Ireland',
+        },
+
+    {
+        'name': 'Limerick F.C.',
+        'founded': 1937,
+        'city': 'Limerick, Ireland',
         },
 
 
@@ -4390,6 +4921,19 @@ l = [
         'city': 'Moscow, Russia',
         },
 
+    {
+        'name': 'FC Torpedo-ZIL Moscow',
+        'founded': 1997,
+        'dissolved': 2004,
+        'city': 'Moscow, Russia',
+        },
+
+    {
+        'name': 'Krylia Sovetov',
+        'founded': 1942,
+        'city': 'Samara, Russia',
+        },
+
 
     {
         'name': 'Zenit Saint Petersburg',
@@ -4405,6 +4949,11 @@ l = [
         'founded': 1965,
         'dissolved': 1998,
         'city': 'Helsinki, Finland',
+        },
+
+    {
+        'name': 'Ilves',
+        'city': 'Tampere, Finland',
         },
 
 

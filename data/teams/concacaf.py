@@ -807,6 +807,13 @@ l = [
         'city': 'Esteli, Nicaragua',
         },
 
+    {
+        'name': 'Parmalat (Nicaragua)',
+        'city': 'Managua, Nicaragua',
+        'founded': 2000,
+        'dissolved': 2004,
+        },
+
 
     {
         'name': 'Juventus Managua',
@@ -1216,8 +1223,6 @@ l = [
 
 
 
-    # Guadeloupe
-
 
     # Guadeloupe
 
@@ -1233,14 +1238,16 @@ l = [
         'city': 'Basse-Terre, Guadelopue',
         },
 
-
-
-
-
     {
         'name': 'CS Moulien',
         'founded': 1931,
         'city': 'Le Moule, Guadeloupe',
+        },
+
+    {
+        'name': 'Arsenal (Petit-Bourg)',
+        'founded': datetime.datetime(1938, 8, 26), # http://arsenal-clubdepetit-bourg.footeo.com/page/historique-de-l-arsenal.html
+        'city': 'Petit-Bourg, Guadeloupe',
         },
 
     {
@@ -1273,6 +1280,30 @@ l = [
         'name': 'Cobras de Ciudad Juárez',
         'founded': 1980,
         'city': 'Ciudad Juarez, Mexico',
+        },
+
+    {
+        'name': 'Lobos de la BUAP',
+        'founded': 1966,
+        'city': 'Puebla, Mexico',
+        },
+
+    {
+        'name': 'Cruz Azul Hidalgo',
+        'founded': 1993,
+        'city': 'Hidalgo, Mexico',
+        },
+    {
+        'name': 'Pumas Morelos',
+        'founded': 2006,
+        'dissolved': 2012,
+        'city': 'Cuernavaca, Mexico',
+        },
+
+    {
+        'name': 'Altamira',
+        'founded': datetime.datetime(2001, 8, 11),
+        'city': 'Altamira, Mexico',
         },
 
     {
@@ -1784,6 +1815,11 @@ l = [
         'name': 'Pinar del Río',
         'founded': 1978,
         'city': 'Pinar del Río, Cuba',
+        },
+
+    {
+        'name': 'Juventud Asturiana',
+        'city': 'Havana, Cuba',
         },
 
 

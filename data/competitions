@@ -43,6 +43,8 @@ CONCACAF Giants Cup; CGC; soccer; domestic; Cup; 2; Confederation; CONCACAF
 Copa Interclubes UNCAF; UNCAF; soccer; domestic; Cup; 2; Confederation; CONCACAF
 CFU Club Championship; CFU; soccer; domestic; Cup; 2; Confederation; CONCACAF
 
+UEFA Champions League; UCL; soccer; domestic; League; 1; Confederation; UEFA
+
 * domestic leagues.
 
 American League of Professional Football; ALPF; soccer; domestic; League; 1; Country; United States
@@ -76,11 +78,12 @@ Martinique Championnat National; MTQ1; soccer; domestic; League; 1; Country; Mar
 Chilean Primera División; CHI1; soccer; domestic; League; 1; Country; Chile
 Uruguayan Primera División; URU1; soccer; domestic; League; 1; Country; Uruguay
 Argentine Primera División; ARG1; soccer; domestic; League; 1; Country; Argentina
-Campeonato Brasileiro Série A; BRA1; soccer; domestic; League; 1; Country; Brazil
+Brasileirão; BRA1; soccer; domestic; League; 1; Country; Brazil
 Categoría Primera A; COL1; soccer; domestic; League; 1; Country; Colombia
 Ecuadorian Serie A; ECU1; soccer; domestic; League; 1; Country; Ecuador
 Liga de Fútbol Profesional Boliviano; BOL1; soccer; domestic; League; 1; Country; Bolivia
 Peruvian Primera División; PER1; soccer; domestic; League; 1; Country; Peru
+Paraguayan Primera División; PAR1; soccer; domestic; League; 1; Country; Paraguay
 
 Hyundai A-League; AUS1; soccer; domestic; League; 1; Country; Australia
 Chinese Super League; CHN1; soccer; domestic; League; 1; Country; China
@@ -89,14 +92,16 @@ K League; KOR1; soccer; domestic; League; 1; Country; South Korea
 I-League; IND1; soccer; domestic; League; 1; Country; India
 
 Premier League; EPL; soccer; domestic; League; 1; County; England
+Scottish Premier League; SPL; soccer; domestic; League; 1; County; Scotland
 La Liga; ESP1; soccer; domestic; League; 1; County; Spain
 Serie A; ITA1; soccer; domestic; League; 1; County; Italy
 1. Bundesliga; GER1; soccer; domestic; League; 1; County; Germany
 Austrian Bundesliga; AUS1; soccer; domestic; League; 1; County; Austria
+Gambrinus Liga; CZE1; soccer; domestic; League; 1; County; Czech Republic
 Belgian Pro League; BEL1; soccer; domestic; League; 1; County; Belgium
 Superligaen; DEN1; soccer; domestic; League; 1; County; Denmark
 Ligue 1; FRA1; soccer; domestic; League; 1; County; France
-Nemzeti Bajnokság; HUN1; soccer; domestic; League; 1; County; Hungary
+Nemzeti Bajnokság I; HUN1; soccer; domestic; League; 1; County; Hungary
 Eredivisie; NED1; soccer; domestic; League; 1; County; Netherlands
 Süper Lig; TUR1; soccer; domestic; League; 1; County; Turkey
 Swiss Super League; SWI1; soccer; domestic; League; 1; County; Switzerland
@@ -106,6 +111,7 @@ Ekstraklasa; POL1; soccer; domestic; League; 1; County; Poland
 Allsvenskan; SWE1; soccer; domestic; League; 1; County; Sweden
 Tippeligaen; NOR1; soccer; domestic; League; 1; County; Norway
 Superleague Greece; GRE1; soccer; domestic; League; 1; County; Greece
+Serbian SuperLiga; SRB1; soccer; domestic; League; 1; County; Serbia
 
 
 National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
@@ -129,7 +135,9 @@ W-League; USLW; women; domestic; League; 2; Country; United States
 Canadian Soccer League; CSL; soccer; domestic; League; 2; Country; Canada
 Canadian National Soccer League; CSL; soccer; domestic; League; 2; Country; Canada
 
+Ascenso MX; MEX2; soccer; domestic; League; 2; Country; Mexico
 
+Campeonato Metropolitano (Argentina); ARG-BA; soccer; domestic; League; 2; City; Buenos Aires
 
 Campeonato Baiano; BRA-BA; soccer; domestic; League; 2; State; Bahia
 Campeonato Carioca; BRA-RJ; soccer; domestic; League; 2; State; Rio de Janeiro
@@ -231,6 +239,12 @@ Caribbean Cup; CC; soccer; international; Cup; 2; Confederation; CONCACAF
 Central American and Caribbean Games; CACG; soccer; international; Cup; 2; Confederation; CONCACAF
 
 Copa America; CA; soccer; international; Cup; 1; Confederation; CONMEBOL
+
+* Amateur
+
+
+*NCAA Division I Men's Soccer Championship; NCAA; soccer; domestic; Cup; 0; Country; United States
+NCAA Division I; NCAA; soccer; domestic; Cup; 0; Country; United States
 
 
 * Friendlies

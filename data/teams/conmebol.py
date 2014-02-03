@@ -5,6 +5,187 @@ import datetime
 
 l = [
 
+
+
+
+
+    {
+        'name': 'Deportivo Español',
+        'founded': datetime.datetime(1956, 10, 12),
+        'city': 'Buenos Aires, Argentina',
+        },
+
+
+    {
+        'name': 'Fernando de la Mora',
+        'founded': datetime.datetime(1925, 12, 25),
+        'city': 'Asuncion, Paraguay',
+        },
+
+
+    {
+        'name': 'Sport Colombia',
+        'founded': datetime.datetime(1924, 11, 1),
+        'city': 'Fernando de la Mora, Paraguay',
+        },
+
+    {
+        'name': 'Atlético Minero',
+        'founded': 1997,
+        'city': 'Matucanu, Peru',
+        },
+
+    {
+        'name': 'U América FC',
+        'founded': 1980,
+        'city': 'Lima, Peru',
+        },
+
+    {
+        'name': 'IMI',
+        'founded': 1992,
+        'city': 'Talara, Peru',
+        },
+
+    {
+        'name': 'Lawn Tennis',
+        'founded': datetime.datetime(1995, 1, 22),
+        'city': 'Lima, Peru',
+        },
+
+    {
+        'name': 'Alcides Vigo',
+        'founded': 1986,
+        'city': 'Lima, Peru',
+        },
+
+    {
+        'name': 'Tembetary',
+        'founded': datetime.datetime(1912, 8, 3),
+        'city': 'Ypane, Paraguay',
+        },
+
+    {
+        'name': 'Sportivo Trinidense',
+        'founded': datetime.datetime(1935, 8, 11),
+        'city': 'Santisma Trinidad, Paraguay',
+        },
+
+    {
+        'name': 'Total Chalaco',
+        'founded': datetime.datetime(2004, 12, 21),
+        'city': 'Callao, Peru',
+        },
+
+    {
+        'name': 'Rubio Ñú',
+        'founded': datetime.datetime(1913, 8, 24),
+        'city': 'Asuncion, Paraguay',
+        },
+
+    {
+        'name': 'José Gálvez',
+        'founded': datetime.datetime(1951, 10, 27),
+        'city': 'Chimbote, Peru',
+        },
+
+    {
+        'name': '2 de Mayo',
+        'founded': datetime.datetime(1935, 12, 6),
+        'city': 'Pedro Juan Caballero, Paraguay,'
+        },
+
+    {
+        'name': 'Almirante Brown',
+        'founded': datetime.datetime(1922, 1, 17),
+        'city': 'La Matanza Partido, Buenos Aires, Argentina',
+        },
+
+    {
+        'name': 'Central Córdoba (Santiago)',
+        'founded': datetime.datetime(1919, 6, 3),
+        'city': 'Santiago del Estero, Argentina',
+        },
+
+    {
+        'name': 'Central Córdoba (Rosario)',
+        'founded': datetime.datetime(1906, 10, 20),
+        'city': 'Rosario, Argentina',
+        },
+
+    {
+        'name': 'Cipolletti',
+        'founded': datetime.datetime(1926, 10, 26),
+        'city': 'Cipolletti, Argentina',
+        },
+
+    {
+        'name': 'Juventud Antoniana',
+        'founded': datetime.datetime(1916, 1, 12),
+        'city': 'Salta, Argentina',
+        },
+
+    {
+        'name': 'Deportivo Roca',
+        'founded': datetime.datetime(1974, 9, 1),
+        'city': 'General Roca, Argentina',
+        },
+
+    {
+        'name': 'Altos Hornos Zapla',
+        'founded': datetime.datetime(1947, 1, 4),
+        'city': 'Palpala, Argentina',
+        },
+
+    {
+        'name': 'Atlético Ledesma',
+        'founded': datetime.datetime(1928, 12, 2),
+        'city': 'Libertador General San Martín, Argentina',
+        },
+
+    {
+        'name': 'Defensores de Belgrano',
+        'founded': datetime.datetime(1906, 5, 25),
+        'city': 'Núñez, Argentina',
+        },
+
+    {
+        'name': 'Independiente Rivadavia',
+        'founded': datetime.datetime(1913, 1, 24),
+        'city': 'Mendoza, Argentina',
+        },
+
+    {
+        'name': 'Kimberley',
+        'founded': datetime.datetime(1921, 7, 6),
+        'city': 'Mar del Plata, Argentina',
+        },
+
+    {
+        'name': 'Guaraní Antonio Franco',
+        'founded': datetime.datetime(1932, 6, 12),
+        'city': 'Posadas, Argentina',
+        },
+
+    {
+        'name': 'Atlético Concepción',
+        'founded': datetime.datetime(1909, 12, 27),
+        'city': 'Banda del Río Salí, Argentina',
+        },
+
+    {
+        'name': 'Alvarado',
+        'founded': datetime.datetime(1928, 6, 21),
+        'city': 'Mar del Plata, Argentina',
+        },
+
+    {
+        'name': 'Huracán de Comodoro Rivadavia',
+        'founded': datetime.datetime(1927, 12, 22),
+        'city': 'Comodoro Rivadavia, Argentina',
+        },
+
+
     {
         'name': 'EC Bahia',
         'founded': datetime.datetime(1931, 1, 1),
@@ -20,6 +201,12 @@ l = [
     {
         'name': 'Tahuichi Academy',
         'city': 'Santa Cruz, Bolivia',
+        },
+
+    {
+        'name': 'Real América',
+        'city': 'Santa Cruz, Bolivia',
+        'founded': datetime.datetime(1968, 10, 12),
         },
 
     {
@@ -85,6 +272,12 @@ l = [
         },
 
     {
+        'name': 'San Agustin',
+        'city': 'Lima, Peru',
+        'founded': datetime.datetime(1970, 8, 9),
+        },
+
+    {
         'name': 'Paulista FC',
         'founded': datetime.datetime(1909, 5, 17),
         'city': 'Jundiai, Brazil',
@@ -94,6 +287,43 @@ l = [
         'name': 'Sportivo Luqueño',
         'founded': datetime.datetime(1921, 5, 1),
         'city': 'Luque, Paraguay',
+        },
+
+    {
+        'name': 'Sportivo Carapeguá',
+        'founded': datetime.datetime(2010, 9, 3),
+        'city': 'Carapegua, Paraguay',
+        },
+
+    {
+        'name': 'Colegio Nacional Iquitos',
+        'founded': 1926,
+        'city': 'Iquito, Peru',
+        },
+
+    {
+        'name': 'Club Sol de América',
+        'founded': 1909,
+        'city': 'Barrio Obrero, Paraguay',
+        },
+
+    {
+        'name': 'Deportivo Recoleta',
+        'founded': datetime.datetime(1931, 2, 12),
+        'city': 'Asuncion, Paraguay',
+        },
+
+
+    {
+        'name': 'Presidente Hayes',
+        'founded': 1907,
+        'city': 'Asuncion, Paraguay',
+        },
+
+    {
+        'name': 'Union Minas',
+        'founded': datetime.datetime(1974, 4, 23),
+        'city': 'Cerro de Pasco, Peru',
         },
 
     {
@@ -191,7 +421,7 @@ l = [
     {
         'name': 'All Boys',
         'founded': datetime.datetime(1913, 3, 15),
-        'city': 'Floresta, Buenos Aires',
+        'city': 'Floresta, Buenos Aires, Argentina',
         },
 
     {
@@ -531,10 +761,41 @@ l = [
         'city': 'Huanuco, Peru',
         },
 
+
+
+    {
+        'name': 'La Loretana',
+        'founded': datetime.datetime(1971, 5, 1),
+        'city': 'Pucallpa, Peru',
+        },
+    {
+        'name': 'Deportivo Wanka',
+        'founded': 1996,
+        'city': 'Huancayo, Peru',
+        },
+
+    {
+        'name': 'Sport Coopsol Trujillo',
+        'founded': datetime.datetime(1995, 8, 30),
+        'city': 'Trujillo, Peru',
+        },
+
     {
         'name': 'La Paz FC',
         'founded': datetime.datetime(1989, 5, 30),
         'city': 'La Paz, Bolivia',
+        },
+
+    {
+        'name': 'Mariscal Braun',
+        'founded': datetime.datetime(1952, 8, 25),
+        'city': 'La Paz, Bolivia',
+        },
+
+    {
+        'name': 'Atletico Pompeya',
+        'founded': 1993,
+        'city': 'Trinidad, Bolivia',
         },
 
     {
@@ -816,8 +1077,6 @@ l = [
         'city': 'Lima, Peru',
         },
 
-
-
     {
         'name': 'Chaco Petrolero',
         'founded': 1944,
@@ -859,6 +1118,12 @@ l = [
     {
         'name': 'Gimnasia y Esgrima de Jujuy',
         'founded': datetime.datetime(1931, 3, 18),
+        'city': 'San Salvador de Jujuy, Argentina',
+        },
+
+    {
+        'name': 'Gimnasia y Esgrima de Mendoza',
+        'founded': datetime.datetime(1908, 8, 30),
         'city': 'San Salvador de Jujuy, Argentina',
         },
 
@@ -933,6 +1198,12 @@ l = [
         'city': 'Tunja, Colombia',
         },
 
+    {
+        'name': 'Cobresol FBC',
+        'founded': datetime.datetime(2008, 2, 5),
+        'city': 'Moquegua, Peru',
+        },
+
 
     {
         'name': 'National Fast Clube',
@@ -968,6 +1239,12 @@ l = [
         'name': 'Unión de Santa Fe',
         'founded': datetime.datetime(1907, 4, 15),
         'city': 'Santa Fe, Argentina',
+        },
+
+    {
+        'name': 'Sarmiento',
+        'founded': datetime.datetime(1911, 4, 1),
+        'city': 'Junin, Argentina',
         },
 
     {
@@ -1009,6 +1286,12 @@ l = [
 
     {
         'name': 'Club Olimpia',
+        'founded': datetime.datetime(1902, 7, 25),
+        'city': 'Asuncion, Paraguay',
+        },
+
+    {
+        'name': '3 de Febrero',
         'founded': datetime.datetime(1902, 7, 25),
         'city': 'Asuncion, Paraguay',
         },
@@ -1364,12 +1647,32 @@ l = [
         'city': 'Lima, Peru',
         },
 
+    {
+        'name': 'Universidad Cesar Vallejo',
+        'founded': datetime.datetime(1996, 1, 6),
+        'city': 'Trujillo, Peru',
+        },
+
+
+
     # Paraguay
+
+    {
+        'name': 'General Caballero',
+        'founded': datetime.datetime(1918, 9, 6), # check this.
+        'city': 'Asuncion, Peru',
+        },
 
     {
     'name': 'Cerro Porteño',
     'founded': datetime.datetime(1912, 10, 1),
     'city': 'Asuncion, Paraguay',
+    },
+
+    {
+    'name': 'Cerro Porteño PF',
+    'founded': datetime.datetime(1967, 8, 12),
+    'city': 'Presidente Franco, Paraguay',
     },
 
 
@@ -1848,6 +2151,13 @@ l = [
         'founded': 1998,
         'city': 'Tacna, Peru',
         },
+
+    {
+        'name': 'Bolognesi FC',
+        'founded': 1998,
+        'city': 'Tacna, Peru',
+        },
+
 
     {
         'name': 'Flamengo',
