@@ -1,8 +1,7 @@
 # http://en.wikipedia.org/wiki/Bola_de_Ouro
 
-
-brasileirao = {
-    'competition': 'Brasileirão',
+taca_brazil = {
+    'competition': 'Taca Brazil',
     'team_data': ['Champion'],
 
     'Champion': [
@@ -17,8 +16,14 @@ brasileirao = {
         (1966, 'Cruzeiro'),
         (1967, 'Palmeiras'),
         (1968, 'Botafogo'),
-        #(1969, '
-        #(1970,
+        ],
+}
+
+brasileirao = {
+    'competition': 'Brasileirão',
+    'team_data': ['Champion'],
+
+    'Champion': [
         (1971, 'Atletico Mineiro'),
         (1972, 'Palmeiras'),
         (1973, 'Palmeiras'),
@@ -61,8 +66,60 @@ brasileirao = {
         (2010, 'Fluminense'),
         (2011, 'Corinthians'),
         (2012, 'Fluminense'),
+        ],
 
-
+    'Golden Boot': [
+        (1971, 'Dario'),
+        (1972, 'Dario'),
+        (1972, 'Pedro Rocha'),
+        (1973, 'Ramon'),
+        (1974, 'Roberto Dinamite'),
+        (1975, 'Flavio'),
+        (1976, 'Dario'),
+        (1977, 'Reinaldo'),
+        (1978, 'Paulinho'),
+        (1979, 'Cesar'),
+        (1980, 'Zico'),
+        (1981, 'Nunes'),
+        (1982, 'Zico'),
+        (1983, 'Serginho'),
+        (1984, 'Roberto Dinamite'),
+        (1985, 'Edmar'),
+        (1986, 'Careca'),
+        (1987, 'Muller'),
+        (1988, 'Nilson'),
+        (1989, 'Tulio'),
+        (1990, 'Charles'),
+        (1991, 'Paulinho McLaren'),
+        (1992, 'Bebeto'),
+        (1993, 'Guga'),
+        (1994, 'Amoroso'),
+        (1994, 'Tulio'),
+        (1995, 'Tulio'),
+        (1996, 'Paulo Nunes'),
+        (1996, 'Renaldo'),
+        (1997, 'Edmundo'),
+        (1998, 'Viola'),
+        (1999, 'Guilherme'),
+        (2000, 'Dill'),
+        (2000, 'Magno Alves'),
+        (2000, 'Romario'),
+        (2001, 'Romario'),
+        (2002, 'Luis Fabiano'),
+        (2002, 'Rodrigo Fabri'),
+        (2003, 'Dimba'),
+        (2004, 'Washington'),
+        (2005, 'Romario'),
+        (2006, 'Souza'),
+        (2007, 'Josiel'),
+        (2008, 'Keirrison'),
+        (2008, 'Washington'),
+        (2008, 'Kleber Pereira'),
+        (2009, 'Adriano'),
+        (2009, 'Diego Tardelli'),
+        (2010, 'Jonas'),
+        (2011, 'Borges'),
+        (2012, 'Fred'),
         ],
 }
 

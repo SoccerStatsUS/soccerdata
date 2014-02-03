@@ -5,6 +5,7 @@ usl_pro = {
     'Champion': [
         (2011, 'Orlando City'),
         (2012, 'Charleston Battery'),
+        (2013, 'Orlando City'),
         ],
 
     'MVP': [
@@ -166,22 +167,32 @@ nasl2 = {
     'Champion': [
         (2011, 'Carolina Railhawks'),
         (2012, 'San Antonio Scorpions'),
+        ('2013 Spring', 'Atlanta Silverbacks'),
+        ('2013 Fall', 'New York Cosmos'),
         ],
 
     'Fair Play Award': [
         (2011, 'FC Tampa Bay'),
         (2012, 'Tampa Bay Rowdies'),
         ],
+        
+    'Coach of the Year': [
+        (2013, 'Brian Haynes'),
+            ],
 
     'MVP': [
         (2011, 'Etienne Barbara'),
         (2012, 'Pablo Campos'),
+        (2013, 'Georgi Hristov'),
         ],
 
     'Goalkeeper of the Year': [
         (2011, 'Evan Bush'),
-        (2011, 'Daryl Sattler'),
+        (2012, 'Daryl Sattler'),
+        (2013, 'Kyle Reynish'),
         ],
+
+       
 
     'Best XI': [
         (2011, [
@@ -212,6 +223,20 @@ nasl2 = {
                 'Mark Anderson',
                 ]),
 
+        (2013, [
+                'Joe Nasco',
+                'Aaron Pitchkolan',
+                'Martyn Lancaster',
+                'Albert Watson',
+                'Luke Mulholland',
+                'Miguel Ibarra',
+                'Richard Menjivar',
+                'Marcos Senna',
+                'Georgi Hristov',
+                'Brian Shriver',
+                'Hans Denissen',
+                ]),
+
         ],
 }
 
@@ -223,6 +248,8 @@ nasl2p = {
 
     'Champion': [
         (2011, 'NSC Minnesota Stars'),
+        (2012, 'Tampa Bay Rowdies'),
+        (2013, 'New York Cosmos'),
         ],
 }
 
@@ -582,6 +609,7 @@ usl_pdl = {
         ('2010', 'Portland Timbers U-23s'),
         ('2011', 'Kitsap Pumas'),
         ('2012', 'Forest City London'),
+        ('2013', 'Austin Aztex'),
         ],
 
     'MVP': [
@@ -600,8 +628,9 @@ usl_pdl = {
         (2010, 'Brent Richards'),
         (2011, 'Milton Blanco'),
         (2012, 'Sullivan Silva'),
-        
+        (2013, 'Kristopher Tyrpak'),
         ],
+
     'Rookie of the Year': [
         (1997, 'Rodrigo Costa'),
         (1998, 'Brian Ching'),
@@ -612,6 +641,7 @@ usl_pdl = {
         (2010, 'Brent Richards'),
         (2011, 'Jake Keegan'),
         (2012, 'Adam Grinwis'),
+        (2013, 'Peter Caringi'), # Young player...
         ],
 
     'Coach of the Year': [
@@ -629,6 +659,7 @@ usl_pdl = {
         (2010, 'Jim Rilatt'),
         (2011, 'Gary Parsons'),
         (2012, 'Gary Parsons'),
+        (2013, 'Paul Dalglish'),
         ],
 
     'U-19 Player of the Year': [

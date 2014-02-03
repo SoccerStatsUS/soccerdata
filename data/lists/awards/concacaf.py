@@ -124,6 +124,7 @@ gold_cup = {
         (2007, 'United States'),
         (2009, 'Mexico'),
         (2011, 'Mexico'),
+        (2013, 'United States'),
         ],
 
     'MVP': [

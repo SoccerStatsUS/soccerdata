@@ -9,7 +9,7 @@ d = {
     'Champion': [
         ('1993', 'Verdy Kawasaki'),
         ('1994', 'Verdy Kawasaki'),
-        ('1995', 'Yokohama Marionos'),
+        ('1995', 'Yokohama Marinos'),
         ('1996', 'Kashima Antlers'),
         ('1997', 'Jubilo Iwata'),
         ('1998', 'Kashima Antlers'),
@@ -24,7 +24,7 @@ d = {
         ('2007', 'Kashima Antlers'),
         ('2008', 'Kashima Antlers'),
         ('2009', 'Kashima Antlers'),
-        ('2010', 'Nagoya Gramus Eight'),
+        ('2010', 'Nagoya Grampus Eight'),
         ('2011', 'Kashiwa Reysol'),
         ('2012', 'Sanfrecce Hiroshima'),
     ],

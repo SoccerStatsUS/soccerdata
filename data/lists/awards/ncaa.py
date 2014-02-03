@@ -3671,7 +3671,7 @@ d = {
         (1993, 'University of Notre Dame'),
         (1994, 'University of Notre Dame'),
         (1995, 'Butler University'),
-        (1996, 'Detroit University'),
+        (1996, 'University of Detroit Mercy'),
         (1997, 'Butler University'),
         (1998, 'Butler University'),
         (1999, 'UIC'),

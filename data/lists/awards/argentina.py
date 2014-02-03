@@ -8,6 +8,33 @@
 # the Olimpia Awards, the most important sports award in Argentina.
 
 
+metropolitano = {
+    'competition': 'Campeonato Metropolitano (Argentina)',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        (1967, 'Estudiantes (LP)'),
+        (1968, 'San Lorenzo de Almagro'),
+        (1969, 'Chacarita Juniors'),
+        (1970, 'Independiente'),
+        (1971, 'Independiente'),
+        (1972, 'San Lorenzo de Almagro'),
+        (1973, 'Huracan'),
+        (1974, 'Newell\'s Old Boys'),
+        (1975, 'River Plate'),
+        (1976, 'Boca Juniors'),
+        (1977, 'River Plate'),
+        (1978, 'Quilmes'),
+        (1979, 'River Plate'),
+        (1980, 'River Plate'),
+        (1981, 'Boca Juniors'),
+        (1982, 'Estudiantes (LP)'),
+        (1983, 'Independiente'),
+        (1984, 'Argentinos Juniors'),
+        ],
+}
+
 d = {
     'competition': 'Argentine Primera División',
     'team_data': ['Champion'],
@@ -71,6 +98,26 @@ d = {
         (1964, 'Boca Juniors'),
         (1965, 'Boca Juniors'),
         (1966, 'Racing Club'),
+
+        (1967, 'Independiente (A)'),
+        (1968, 'Velez Sarsfield'),
+        (1969, 'Boca Juniors'),
+        (1970, 'Boca Juniors'),
+        (1971, 'Rosario Central'),
+        (1972, 'San Lorenzo de Almagro'),
+        (1973, 'Rosario Central'),
+        (1974, 'San Lorenzo de Almagro'),
+        (1975, 'River Plate'),
+        (1976, 'Boca Juniors'),
+        (1977, 'Independiente (A)'),
+        (1978, 'Independiente (A)'),
+        (1979, 'River Plate'),
+        (1980, 'Rosario Central'),
+        (1981, 'River Plate'),
+        (1982, 'Estudiantes (LP)'),
+        (1983, 'Independiente (A)'),
+        (1984, 'Argentinos Juniors'),
+        (1985, 'Argentinos Juniors'),
 
         ('1985-1986', 'River Plate'),
         ('1986-1987', 'Rosario Central'),
@@ -142,8 +189,11 @@ d = {
         ('2011-2012 Apertura', 'Boca Juniors'),
         ('2011-2012 Clausura', 'Arsenal de Sarandi'),
 
-        ('2012-2013 Apertura', 'Velez Sarsfield'),
-        ('2012-2013 Clausura', 'Newell\'s Old Boys'),
+        ('2012-2013 Inicial', 'Velez Sarsfield'),
+        ('2012-2013 Final', 'Newell\'s Old Boys'),
+        ('2012-2013', 'Velez Sarsfield'),
+
+        ('2013-2014 Inicial', 'San Lorenzo de Almagro'),
         
          ]
 
