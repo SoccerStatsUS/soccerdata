@@ -24,7 +24,7 @@ Round: 1
 
 ; LDU Quito; 0-1; Barcelona 
 ; Nacional; 2-0; Aucas 
-; Cuenca; 3-0; Green Cross ,
+; Cuenca; 3-0; Green Cross 
 ; Olmedo; 0-2; Dep Quito 
 ; Emelec; 4-0; Espoli 
 ; LDU Portoviejo; 0-2; Tecnico Univ 
@@ -96,7 +96,7 @@ Round: 9
 
 ; Tecnico U; 2-0; Barcelona 
 ; Nacional; 2-1; Olmedo 
-; Espoli; 1-0; Dep Quito ,
+; Espoli; 1-0; Dep Quito
 ; Cuenca; 3-0; Aucas 
 ; Emelec; 4-1; LDU Portoviejo 
 ; Green Cross; 2-0; LDU Quito 
@@ -207,7 +207,7 @@ Round: 22
 ; Green Cross; 3-0; Cuenca 
 ; Dep Quito; 3-1; Olmedo 
 ; Espoli; 1-1; Emelec 
-; Tecnico U; 1-1; LDU Portoviejo .
+; Tecnico U; 1-1; LDU Portoviejo 
 
 * 1.Nacional               22 15  5  2  42-16  50   [Quito]
 * 2.Emelec                 22 14  4  4  50-19  46   [Guayaquil]

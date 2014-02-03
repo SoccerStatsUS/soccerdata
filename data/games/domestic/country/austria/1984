@@ -1,38 +1,34 @@
 BlockSource: http://rsssf.com/tableso/oost85.html
+Season: 1984-1985
+Competition: Austrian Bundesliga
 
-Austria 1984/85
+*1.Division
+*
+* 1.FK Austria                30  25  4  1  85-17   54
+* 2.SK Rapid                  30  18  9  3  85-30   45
+* 3.Linzer ASK                30  17  4  9  49-37   38
+* 4.Wacker Innsbruck          30  12  8 10  51-44   32
+* 5.FC Admira/Wacker          30  11 10  9  49-42   32
+* 6.SK Sturm Graz             30  13  6 11  51-52   32
+* 7.Austria Klagenfurt        30  10 11  9  39-38   31
+* 8.SC Eisenstadt             30   9 10 11  29-31   28
+* 9.VOEST Linz                30  10  8 12  39-43   28
+*10.Grazer AK                 30   8 12 10  31-35   28
+*11.Donawitzer SV Alpine      30  11  5 14  38-47   27
+*-----------------------------------------------------
+*12.Wiener Sport-Club         30  10  5 15  40-55   25
+*13.SV Spittal/Drau           30   9  6 15  28-55   24
+*14.Favoritner AC             30   7  7 16  26-62   21
+*15.SV Austria Salzburg       30   7  4 19  35-69   18
+*16.First Vienna FC           30   4  9 17  33-51   17
+*
+*[The top two levels are reformed into two groups of 12 which after
+* the first part of the season are redistributed in 3 groups of 8
+* to play for championship, a place in the first level, and a place
+* in the second.  Therefore this season 5 clubs are relegated and
+* only one promoted.]
 
-
-1.Division
-----------
-
-Table:
-
- 1.FK Austria                30  25  4  1  85-17   54
- 2.SK Rapid                  30  18  9  3  85-30   45
- 3.Linzer ASK                30  17  4  9  49-37   38
- 4.Wacker Innsbruck          30  12  8 10  51-44   32
- 5.FC Admira/Wacker          30  11 10  9  49-42   32
- 6.SK Sturm Graz             30  13  6 11  51-52   32
- 7.Austria Klagenfurt        30  10 11  9  39-38   31
- 8.SC Eisenstadt             30   9 10 11  29-31   28
- 9.VOEST Linz                30  10  8 12  39-43   28
-10.Grazer AK                 30   8 12 10  31-35   28
-11.Donawitzer SV Alpine      30  11  5 14  38-47   27
------------------------------------------------------
-12.Wiener Sport-Club         30  10  5 15  40-55   25
-13.SV Spittal/Drau           30   9  6 15  28-55   24
-14.Favoritner AC             30   7  7 16  26-62   21
-15.SV Austria Salzburg       30   7  4 19  35-69   18
-16.First Vienna FC           30   4  9 17  33-51   17
-
-[The top two levels are reformed into two groups of 12 which after
- the first part of the season are redistributed in 3 groups of 8
- to play for championship, a place in the first level, and a place
- in the second.  Therefore this season 5 clubs are relegated and
- only one promoted.]
-
-Round 1
+Round: 1
 [Aug 24]
 Klagenfurt       1-0 LASK 
 Austria          2-0 Admira/Wacker 
@@ -44,7 +40,7 @@ Donawitz         2-0 Austria Salzburg
 Spittal          0-1 Eisenstadt 
 Sportclub        1-2 Sturm 
 
-Round 2
+Round: 2
 [Aug 31]
 Admira/Wacker    2-2 Sportclub 
 LASK                      3-1 Linz 
@@ -57,7 +53,7 @@ Innsbruck        0-0 GAK
 [Sep 2]
 FavAC            0-0 Vienna 
 
-Round 3
+Round: 3
 [Sep 7]
 Klagenfurt       1-1 Admira/Wacker 
 Austria          2-1 Eisenstadt 
@@ -70,7 +66,7 @@ Vienna                0-1 Innsbruck
 [Sep 9]
 Sportclub        3-1 Spittal 
 
-Round 4
+Round: 4
 [Sep 14]
 Admira/Wacker    1-0 Linz 
 LASK                  0-0 Vienna 
@@ -83,7 +79,7 @@ Spittal                1-0 Klagenfurt
 [Sep 16]
 Austria          5-0 Sportclub 
 
-Round 5
+Round: 5
 [Sep 21]
 Klagenfurt       4-2 Austria 
 GAK                   2-0 Admira/Wacker 
@@ -95,7 +91,7 @@ Austria Salzburg 2-3 Innsbruck
 Vienna            5-1 Sturm 
 Sportclub          1-0 Eisenstadt 
 
-Round 6
+Round: 6
 [Sep 28]
 Admira/Wacker    2-1 Vienna 
 LASK                  3-1 Austria Salzburg 
@@ -108,7 +104,7 @@ Sportclub           2-1 Klagenfurt
 [Sep 30]
 Austria          4-0 Linz 
 
-Round 7
+Round: 7
 [Oct 5]
 Klagenfurt       1-1 Eisenstadt 
 Austria Salzburg 3-0 Sturm 
@@ -120,7 +116,7 @@ FavAC                 2-2 Innsbruck
 GAK                        0-3 Austria 
 Rapid                           7-1 LASK 
 
-Round 8
+Round: 8
 [Oct 12]
 Klagenfurt       2-0 Linz 
 Austria           2-0 Vienna 
@@ -132,7 +128,7 @@ Sturm                 2-1 Rapid
 Spittal                3-1 Donawitz 
 Sportclub               2-0 GAK 
 
-Round 9
+Round: 9
 [Oct 19]
 Austria Salzburg 1-1 Spittal 
 [Oct 20]
@@ -145,7 +141,7 @@ Innsbruck                             0-2 LASK
 [Oct 21]
 Vienna           0-4 Sportclub 
 
-Round 10
+Round: 10
 [Oct 26]
 Admira/Wacker    2-1 FavAC 
 [Oct 27]
@@ -158,7 +154,7 @@ Linz                          0-0 GAK
 [Oct 28]
 Sportclub        2-1 Donawitz
 
-Round 11
+Round: 11
 [Nov 2]
 Austria Salzburg 3-0 Sportclub 
 Vienna            0-1 Linz 
@@ -171,7 +167,7 @@ Innsbruck                        3-3 Admira/Wacker
 [Nov 4]
 FavAC            3-0 Spittal 
 
-Round 12
+Round: 12
 [Nov 9]
 Austria          6-0 FavAC 
 Eisenstadt        5-2 Sturm 
@@ -185,7 +181,7 @@ Rapid            2-0 Sportclub
 [Nov 27]
 Admira/Wacker    1-1 LASK 
 
-Round 13
+Round: 13
 [Nov 16]
 Vienna           0-0 Eisenstadt 
 [Nov 17]
@@ -198,7 +194,7 @@ Innsbruck         0-4 Austria
 [Nov 27]
 FavAC            2-1 Sportclub 
 
-Round 14
+Round: 14
 [Nov 24]
 Klagenfurt       3-1 FavAC 
 Austria           2-0 LASK 
@@ -210,7 +206,7 @@ Sportclub                      1-4 Innsbruck
 [Nov 25]
 Vienna           3-0 Donawitz 
 
-Round 15 [Dec 1]
+Round: 15 [Dec 1]
 Admira/Wacker    3-1 Spittal 
 Donawitz          4-0 Eisenstadt 
 FavAC                  4-0 Linz 
@@ -220,7 +216,7 @@ Sturm                                 4-5 Austria
 Austria Salzburg 2-2 Vienna 
 Innsbruck         1-1 Klagenfurt 
 
-Round 16
+Round: 16
 [Dec 7]
 Rapid            5-0 Vienna 
 [Dec 8]
@@ -233,7 +229,7 @@ Innsbruck         4-1 Linz
 [Dec 9]
 FavAC            1-1 GAK 
 
-Round 17
+Round: 17
 [Mar 9]
 Donawitz         1-1 Rapid 
 Klagenfurt        0-2 Sturm 
@@ -245,7 +241,7 @@ Linz              0-1 LASK
 Vienna           0-2 FavAC 
 Sportclub         4-4 Admira/Wacker 
 
-Round 18 [Mar 16]
+Round: 18 [Mar 16]
 Admira/Wacker    4-0 Klagenfurt 
 FavAC                 0-1 Donawitz 
 LASK                       2-0 GAK 
@@ -255,7 +251,7 @@ Sturm                                 3-2 Linz
 Spittal                                2-0 Sportclub 
 Innsbruck                               2-1 Vienna 
 
-Round 19
+Round: 19
 [Mar 22]
 Austria Salzburg 2-0 FavAC 
 [Mar 23]
@@ -269,7 +265,7 @@ Sportclub              0-0 Austria
 [Apr 2]
 Klagenfurt       0-0 Spittal 
 
-Round 20
+Round: 20
 [Mar 30]
 Admira/Wacker    5-0 GAK 
 FavAC                 2-6 Rapid 
@@ -281,7 +277,7 @@ Innsbruck                          4-2 Austria Salzburg
 [Mar 31]
 Austria          2-0 Klagenfurt 
 
-Round 21
+Round: 21
 [Apr 5]
 Klagenfurt       2-1 Sportclub 
 GAK                   0-0 Spittal 
@@ -294,7 +290,7 @@ Linz                            0-1 Austria
 [Apr 7]
 FavAC            1-2 Eisenstadt 
 
-Round 22
+Round: 22
 [Apr 12]
 Admira/Wacker    2-0 Donawitz 
 Austria           3-0 GAK 
@@ -306,7 +302,7 @@ Innsbruck                     0-0 FavAC
 Spittal          2-1 Vienna 
 Sportclub         1-1 Linz 
 
-Round 23
+Round: 23
 [Apr 19]
 FavAC            1-1 LASK 
 GAK                   2-0 Sportclub 
@@ -318,7 +314,7 @@ Donawitz         3-0 Spittal
 Rapid                 2-2 Sturm 
 Vienna                     1-1 Austria 
 
-Round 24 [May 21 - rescheduled from Apr 26]
+Round: 24 [May 21 - rescheduled from Apr 26]
 Admira/Wacker     1-4 Rapid 
 Klagenfurt         3-0 GAK 
 Austria             3-0 Donawitz 
@@ -328,7 +324,7 @@ Sturm                          3-0 FavAC
 Spittal                         1-3 Austria Salzburg 
 Sportclub                        2-1 Vienna 
 
-Round 25
+Round: 25
 [May 3]
 GAK      3-1 Linz 
 LASK          2-0 Eisenstadt 
@@ -340,7 +336,7 @@ Rapid                      4-0 Spittal
 Austria Salzburg 2-7 Austria 
 Innsbruck         5-0 Sturm 
 
-Round 26
+Round: 26
 [May 10]
 Klagenfurt       2-0 Donawitz 
 Austria           1-0 Rapid 
@@ -352,7 +348,7 @@ Linz                          2-1 Vienna
 Admira/Wacker    1-2 Innsbruck 
 Sportclub         4-0 Austria Salzburg
 
-Round 27
+Round: 27
 [May 17]
 LASK             2-1 Admira/Wacker 
 Sturm                 2-0 Eisenstadt 
@@ -365,7 +361,7 @@ Sportclub               1-5 Rapid
 [May 26]
 FavAC            0-4 Austria 
 
-Round 28 [May 24]
+Round: 28 [May 24]
 Admira/Wacker    2-1 Sturm 
 Klagenfurt        1-1 Rapid 
 Austria            2-0 Innsbruck 
@@ -375,7 +371,7 @@ Spittal                   3-1 LASK
 Linz                           4-0 Austria Salzburg 
 Sportclub                       2-0 FavAC 
 
-Round 29 [May 31]
+Round: 29 [May 31]
 Admira/Wacker    0-0 Eisenstadt 
 Donawitz          3-1 Vienna 
 FavAC                  0-0 Klagenfurt 
@@ -385,7 +381,7 @@ Sturm                                 3-2 Spittal
 Austria Salzburg 3-1 GAK 
 Innsbruck         1-2 Sportclub 
 
-Round 30
+Round: 30
 [Jun 7]
 Klagenfurt       2-1 Innsbruck 
 Austria           4-1 Sturm 
@@ -397,31 +393,29 @@ Sportclub                          0-3 LASK
 [Jun 8]
 Eisenstadt       2-3 Donawitz 
 
-Table: 
-
- 1.FK Austria                30  25  4  1  85-17   54
- 2.SK Rapid                  30  18  9  3  85-30   45
- 3.Linzer ASK                30  17  4  9  49-37   38
- 4.Wacker Innsbruck          30  12  8 10  51-44   32
- 5.FC Admira/Wacker          30  11 10  9  49-42   32
- 6.SK Sturm Graz             30  13  6 11  51-52   32
- 7.Austria Klagenfurt        30  10 11  9  39-38   31
- 8.SC Eisenstadt             30   9 10 11  29-31   28
- 9.VOEST Linz                30  10  8 12  39-43   28
-10.Grazer AK                 30   8 12 10  31-35   28
-11.Donawitzer SV Alpine      30  11  5 14  38-47   27
------------------------------------------------------
-12.Wiener Sport-Club         30  10  5 15  40-55   25
-13.SV Spittal/Drau           30   9  6 15  28-55   24
-14.Favoritner AC             30   7  7 16  26-62   21
-15.SV Austria Salzburg       30   7  4 19  35-69   18
-16.First Vienna FC           30   4  9 17  33-51   17
-
-[The top two levels are reformed into two groups of 12 which after
- the first part of the season are redistributed in 3 groups of 8
- to play for championship, a place in the first level, and a place
- in the second.  Therefore this season 5 clubs are relegated and
- only one promoted.]
+* 1.FK Austria                30  25  4  1  85-17   54
+* 2.SK Rapid                  30  18  9  3  85-30   45
+* 3.Linzer ASK                30  17  4  9  49-37   38
+* 4.Wacker Innsbruck          30  12  8 10  51-44   32
+* 5.FC Admira/Wacker          30  11 10  9  49-42   32
+* 6.SK Sturm Graz             30  13  6 11  51-52   32
+* 7.Austria Klagenfurt        30  10 11  9  39-38   31
+* 8.SC Eisenstadt             30   9 10 11  29-31   28
+* 9.VOEST Linz                30  10  8 12  39-43   28
+*10.Grazer AK                 30   8 12 10  31-35   28
+*11.Donawitzer SV Alpine      30  11  5 14  38-47   27
+*-----------------------------------------------------
+*12.Wiener Sport-Club         30  10  5 15  40-55   25
+*13.SV Spittal/Drau           30   9  6 15  28-55   24
+*14.Favoritner AC             30   7  7 16  26-62   21
+*15.SV Austria Salzburg       30   7  4 19  35-69   18
+*16.First Vienna FC           30   4  9 17  33-51   17
+*
+*[The top two levels are reformed into two groups of 12 which after
+* the first part of the season are redistributed in 3 groups of 8
+* to play for championship, a place in the first level, and a place
+* in the second.  Therefore this season 5 clubs are relegated and
+* only one promoted.]
 
 Topscorers:
  1.Anton Polster (Austria)              24

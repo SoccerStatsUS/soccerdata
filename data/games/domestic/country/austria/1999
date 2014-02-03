@@ -15,7 +15,6 @@ Season: 1999-2000
 *10.SC Austria Lustenau          36  4  7 25 22-74  19  Relegated
 
 Round: 1
-
 Date: 6/29/1999
 
 ; Tirol           ; 2-1; Rapid 
@@ -84,7 +83,7 @@ Date: 7/17/1999
 Date: 7/21/1999
 
 ; Sturm           ; 5-0; GAK
-  Lipa (og) 21, Reinmayr 35, Vastic 45, Vastic (pk) 52, Prilasnig 83
+  Lipa (og) 21, Reinmayr 35, Vastic 45, Vastic (pk) 52, Prilasnig 83;
 *  [1st goal later awarded to Vastic]
 
 ; Austria W       ; 0-2; Tirol
@@ -104,7 +103,7 @@ Date: 7/17/1999
 Date: 7/27/1999
 
 ; Tirol           ; 5-0; LASK
-  Gilewicz 2, Gilewicz 16, Gilewicz 48, Hörtnagl 4, Scharrer 83
+  Gilewicz 2, Gilewicz 16, Gilewicz 48, Hörtnagl 4, Scharrer 83;
 
 ; GAK             ; 0-0; Austria S
 
@@ -151,10 +150,10 @@ Date: 8/7/1999
   Neukirchner 16, Reinmayr 20; Milanic (og) 51, Stöger 63
 
 ; Rapid           ; 2-0; Austria L
-   Freund 69, R.Wagner 82
+   Freund 69, R.Wagner 82;
 
 ; Ried            ; 3-0; Austria S
-  Anicic 49, Brunmayr 77, Drechsel (pk) 80
+  Anicic 49, Brunmayr 77, Drechsel (pk) 80;
 
 Round: 8
 Date: 8/14/1999
@@ -242,7 +241,7 @@ Date: 9/17/1999
 Date: 9/18/1999
 
 ; LASK            ; 3-0; Austria L
-  Brenner 26, Udovic 65, Udovic 66
+  Brenner 26, Udovic 65, Udovic 66;
 
 ; Tirol           ; 1-0; Sturm
   Barisic 41;
@@ -269,7 +268,7 @@ Date: 9/25/1999
   Schneidhofer 75; B. Akwuegbu 15, B.Akwuegbu 55, Tutu 72, Dmitrovic 87
 
 ; Sturm           ; 4-0; Schwarz-Weiß
-  Kocijan 9, Gy.Korsos 59, Neukrichner 63, Vastic (pk) 89
+  Kocijan 9, Gy.Korsos 59, Neukrichner 63, Vastic (pk) 89;
 
 ; Austria S       ; 1-1; Rapid
   Glieder 91; Lagonikakis 52
@@ -424,7 +423,7 @@ Round: 21
 Date: 11/19/1999
 
 ; Rapid           ; 4-0; Austria L
-  R.Wagner 27, Savicevic (pk) 45, Dowe 69, Penksa 75
+  R.Wagner 27, Savicevic (pk) 45, Dowe 69, Penksa 75;
 
 
 Date: 11/20/1999
@@ -594,10 +593,10 @@ Date: 4/8/2000
   ; Vastic 74
 
 ; Schwarz-Weiß;     0-4; Ried
-  Angerschmid 6, Fading 60, Brunmayr 74, Brunmayr 84
+;  Angerschmid 6, Fading 60, Brunmayr 74, Brunmayr 84
 
 ; LASK            ; 5-0; Austria L
-  Udovic 24, Udovic 62, Lichtenwagner 29, Lichtenwagner 60, Pichorner 36
+  Udovic 24, Udovic 62, Lichtenwagner 29, Lichtenwagner 60, Pichorner 36;
 
 ; Austria S       ; 0-1; Tirol
   ; Gilewicz 66
@@ -626,7 +625,7 @@ Round: 30
 Date: 4/22/2000
 
 ; Rapid           ; 1-0; Ried
-  R.Wagner (pk) 56
+  R.Wagner (pk) 56;
 
 ; LASK            ; 0-1; Tirol
   ; Scharrer (pk) 7
@@ -647,7 +646,7 @@ Date: 4/29/2000
   Kocijan 19, Juran 24, Fleurquin 43; Hütter (pk) 73
 
 ; Austria W       ; 2-0; GAK
-  Plassnegger 74, Jezek 89
+  Plassnegger 74, Jezek 89;
 
 ; Austria L       ; 0-4; Schwarz-Weiß
 ;  Regtop 57, Regtop 71, Friesenbichler 84, Pedersen 87
@@ -707,34 +706,33 @@ Date: 5/12/2000
 Date: 5/13/2000
 
 ; Austria L       ; 1-2; Austria W
-  38' Kristo; 78' Wagner, 88' Hopfer
+Kristo 38; Wagner 78, Hopfer 88
 
 ; Tirol           ; 3-1; Ried
-  23' Baur, 44' Kirchler, 59' Gilewicz; 84' Brunmayr
+  Baur 23, Kirchler 44, Gilewicz 59; Brunmayr 84
 
 ; LASK            ; 1-1; Austria S
-  5' Pichorner; 49' Kitzbichler
+Pichorner 5; Kitzbichler 49
 
 ; GAK             ; 2-4; Sturm
-  21' and 27' Pamic; 9' Popovic, 20' Juran, 26' Prilasnig, 38' Schopp
-
+Pamic 21, Pamic 27; Popovic 9, Juran 20, Prilasnig 26, Schopp 38
 
 Round: 35 
 Date: 5/20/2000
 
 ; Austria W       ; 1-0; Ried
-  51' Plassnegger
+Plassnegger 51;
 
 ; LASK            ; 2-2; GAK
-  59' and 74' Brenner 59; 84' B.Akwuegbu, 89' Lipa
+Brenner 59, Brenner 74; B.Akwuegbu 84, Lipa 89
 
 ; Schwarz-Weiß;     0-3; Tirol
-  5', 45' and 92' Kirchler
+; Kirchler 5, Kirchler 45, Kirchler 92
 
 ; Austria S       ; 0-0; Rapid
 
 ; Sturm           ; 7-0; Austria L
-  Kocijan 29, Schupp 55, Vastic 58, Vastic 68, Vastic 74, Vastic 84, Schopp 79
+  Kocijan 29, Schupp 55, Vastic 58, Vastic 68, Vastic 74, Vastic 84, Schopp 79;
 
 Round: 36 
 Date: 5/27/2000

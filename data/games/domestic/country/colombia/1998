@@ -128,7 +128,7 @@ Penalty kicks: 2-4
 Valencia 78; Precaido 90
 
 ; Cali       ; 4-2; Envigado
-  Bonilla (pk) 25, Bonilla (pk) 6, 84, Yepez 43; Benitez 13, Suarez (pk) 44
+  Bonilla (pk) 25, Bonilla (pk) 6, Bonilla 84, Yepez 43; Benitez 13, Suarez (pk) 44
 
 Round: 4 
 Date: 2/15/1998
@@ -314,7 +314,7 @@ Date: 3/29/1998
   Zambrano 77;
 
 ; Huila      ; 2-1; Envigado
-  H: Sandoval 48, Ambuila 67 Suarez 49
+  Sandoval 48, Ambuila 67; Suarez 49
 
 ; Quindio    ; 1-0; Caldas
   Oliveros 70;
@@ -370,7 +370,7 @@ Penalty kicks: 5-3
 ; Millonarios; 2-1; Cali 
 
 ; Nacional   ; 5-0; Junior
-  Zambrano 30, Cassiani 38, MacKenzie 45, Osorio 74, Comas 86
+  Zambrano 30, Cassiani 38, MacKenzie 45, Osorio 74, Comas 86;
 
 ; Huila      ; 2-2; Santa Fe    
 Penalty kicks: 3-1 
@@ -808,29 +808,29 @@ Penalty kicks: 2-3
 *15.Un. Magdalena          36  7  6/3 20  40-72  36
 *16.Dep. Unicosta          36  8  1/4 23  42-79  30
 
-As winners of the first stage, Once Caldas qualify for the Copa Libertadores 1999.
+*As winners of the first stage, Once Caldas qualify for the Copa Libertadores 1999.
+*
+*Cuadrangalarones [Round:s 16-21]
 
-Cuadrangalarones [Round:s 16-21]
-
-*Group: A
+*Group:: A
 * 1.Indep. Santa Fé         6  4  1/0  1  11- 5  14
 * 2.Millonarios             6  2  1/2  1   8- 8  10
 * 3.Atl. Huila              6  1  1/2  2  10-11   7
 * 4.Dep. Tolima             6  0  2/1  3   5-10   5
 
-*Group B
+*Group: B
 * 1.Dep. Quindío            6  3  0/1  2  11-11  10
 * 2.Dep. Tuluá              6  3  0/1  2   9- 9  10
 * 3.CD America Cali         6  1  3/0  2   5- 5   9
 * 4.Dep. Cali               6  2  0/1  3  10-10   7
 *
-*Group C
+*Group: C
 * 1.Dep. Indep. Medellín    6  3  1/1  1  10- 5  12
 * 2.Once Caldas             6  3  1/1  1   6- 5  12
 * 3.Atl. Nacional           6  1  2/1  2   7- 8   8
 * 4.Envigado FC             6  0  1/2  3   2- 7   4
 *
-*Group D
+*Group: D
 * 1.Atl. Junior             6  3  2/1  0  16- 9  14
 * 2.Atl. Bucaramanga        6  2  2/2  0  10- 6  12
 * 3.Dep. Unicosta           6  1  1/2  2  11-11   7
@@ -846,7 +846,7 @@ Cuadrangalarones [Round:s 16-21]
 
 *Tables:
 *
-*Group A:
+*Group: A:
 * 1.Once Caldas            14  8  4/1  1  27-11  33
 * 2.Dep. Cali              14  6  2/3  3  17-12  25
 * 3.Dep. Quindío           14  6  4/1  3  25-18  27
@@ -856,7 +856,7 @@ Cuadrangalarones [Round:s 16-21]
 * 7.Atl. Junior            14  1  3/2  8  20-30  11
 * 8.Indep. Santa Fé        14  2  1/4  7   8-19  12
 *
-*Group B:
+*Group: B:
 * 1.Atl. Nacional          14  8  4/1  1  30-16  33
 * 2.Dep. Indep. Medellín   14  7  3/2  2  28-16  29
 * 3.Dep. Tuluá             14  4  3/4  3  22-20  22
@@ -868,12 +868,12 @@ Cuadrangalarones [Round:s 16-21]
 
 Round: 1 
 *(37)
-Group A
+Group: A
 ; Quindio    ; 4-0; Magdalena
 ; Caldas     ; 4-0; Santa Fe
 ; Envigado   ; 1-0; Cali
 ; Millonarios; 3-2; Junior
-Group B
+Group: B
 ; Unicosta   ; 1-2; Medellin
 ; America    ; 0-2; Tulua
 ; Nacional   ; 4-3; Bucaramanga
@@ -881,7 +881,7 @@ Group B
 
 Round: 2 
 *(38)
-Group A
+Group: A
 ; Magdalena  ; 1-1; Millonarios 
 Penalty kicks: 2-3 
 ; Santa Fe   ; 1-1; Quindio     
@@ -890,76 +890,87 @@ Penalty kicks: 3-4
 Penalty kicks: 6-5 
 ; Cali       ; 1-1; Caldas      
 Penalty kicks: 1-3 
-Group B
+Group: B
 ; Tulua      ; 2-0; Unicosta
 ; Bucaramanga; 2-0; America
 ; Tolima     ; 0-0; Nacional    
 Penalty kicks: 1-4 
 ; Medellin   ; 2-0; Huila
 
-Round: 3 (39)
-Group A
+Round: 3 
+*(39)
+Group: A
 ; Magdalena  ; 2-1; Santa Fe
 ; Quindio    ; 3-3; Cali        
 Penalty kicks: 4-5 
 ; Caldas     ; 3-1; Junior
 ; Millonarios; 3-0; Envigado 
-Group B
+Group: B
 ; Medellin   ; 3-2; Tulua
 ; Unicosta   ; 4-1; Bucaramanga
 ; America    ; 1-0; Tolima
 ; Huila      ; 1-1; Nacional    
 Penalty kicks: 4-2 
 
-Round: 4 (40)
-Group A
+Round: 4 
+*(40)
+Group: A
 ; Caldas     ; 2-0; Quindio
 ; Junior     ; 3-1; Santa Fe
 ; Millonarios; 0-1; Cali  
 ; Envigado   ; 1-0; Magdalena
-Group B
+Group: B
 ; America    ; 4-0; Unicosta
 ; Huila      ; 2-1; Bucaramanga
 ; Nacional   ; 3-2; Medellin  
 ; Tolima     ; 1-1; Tulua       
 Penalty kicks: 3-5 
 
-Round: 5 (41) [Oct 18]
-Group A
+Round: 5
+* (41) [Oct 18]
+Date: 10/18/1998
+
+Group: A
 ; Quindio    ; 2-0; Millonarios 
 ; Magdalena  ; 2-0; Caldas   
 ; Santa Fe   ; 0-0; Envigado    
 Penalty kicks: 2-3 
 ; Cali       ; 2-0; Junior
-Group B
+Group: B
 ; Unicosta   ; 3-0; Huila
 ; Medellin   ; 4-0; America
 ; Tulua      ; 1-2; Nacional    
 ; Bucaramanga; 0-2; Tolima
 
-Round: 6 (42) [Oct 21]
-Group A
+Round: 6 
+*(42) [Oct 21]
+Date: 10/21/1998
+
+Group: A
 ; Caldas     ; 2-0; Millonarios
 ; Magdalena  ; 5-2; Junior
 ; Santa Fe   ; 0-0; Cali        
 Penalty kicks: 0-3 
 ; Quindio    ; 2-0; Envigado
-Group B
+Group: B
 ; Unicosta   ; 2-3; Nacional
 ; Medellin   ; 3-1; Tolima
 ; Tulua      ; 2-2; Bucaramanga 
 Penalty kicks: 2-4 
 ; America    ; 1-0; Huila
 
-Round: 7 (43) [Oct 25]
-Group A
+Round: 7 
+*(43) [Oct 25]
+Date: 10/25/1998
+
+Group: A
 ; Cali       ; 2-0; Magdalena
 ; Millonarios; 2-1; Santa Fe
 ; Junior     ; 3-3; Quindio     
 Penalty kicks: 2-4 
 ; Envigado   ; 1-1; Caldas      
 Penalty kicks: 3-4 
-Group B
+Group: B
 ; Nacional   ; 4-2; America
 ; Bucaramanga; 2-2; Medellin    
 Penalty kicks: 3-4 
@@ -967,26 +978,37 @@ Penalty kicks: 3-4
 Penalty kicks: 3-4 
 ; Tolima     ; 2-1; Unicosta
 
-Round: 8 (44) [Oct 27] [inferred]
-Group A
-; Magdalena  ; 1-1; Quindio     [Quindio on pen]
-; Santa Fe   ; 1-1; Caldas      [Caldas on pen]
+Round: 8 (44) 
+*[Oct 27] [inferred]
+Date: 10/27/1998
+
+Group: A
+; Magdalena  ; 1-1; Quindio     
+*[Quindio on pen]
+; Santa Fe   ; 1-1; Caldas      
+*[Caldas on pen]
 ; Cali       ; 2-0; Envigado
-; Junior     ; 1-1; Millonarios [Junior on pen]
-Group B
+; Junior     ; 1-1; Millonarios 
+*[Junior on pen]
+Group: B
 ; Medellin   ; 2-0; Unicosta 
-; Tulua      ; 3-3; America     [Tulua on pen]
-; Bucaramanga; 1-1; Nacional    [Nacional on pen]
+; Tulua      ; 3-3; America     
+*[Tulua on pen]
+; Bucaramanga; 1-1; Nacional    
+*[Nacional on pen]
 ; Tolima     ; 1-4; Huila   
 
-Round: 9 (45) [Oct 31, Nov 1]
-Group A
+Round: 9 
+*(45) [Oct 31, Nov 1]
+Date: 10/31/1998
+
+Group: A
 ; Millonarios; 1-0; Magdalena  
 ; Quindio    ; 2-1; Santa Fe 
 ; Envigado   ; 1-1; Junior      
 Penalty kicks: 6-5 
 ; Caldas     ; 2-1; Cali       
-Group B
+Group: B
 ; Unicosta   ; 1-2; Tulua  
 ; America    ; 1-1; Bucaramanga 
 Penalty kicks: 4-5 
@@ -994,13 +1016,17 @@ Penalty kicks: 4-5
 ; Huila      ; 2-2; Medellin    
 Penalty kicks: 4-2 
 
-Round: 10 (46) [Nov 4,5]
-Group A
+Round: 10 
+*(46) [Nov 4,5]
+Date: 11/4/1998
+
+Group: A
 ; Santa Fe   ; 1-0; Magdalena  
-; Cali       ; 0-0; Quindio     [Quindio on pen; inferred]
+; Cali       ; 0-0; Quindio     
+*[Quindio on pen; inferred]
 ; Junior     ; 2-3; Caldas   
 ; Envigado   ; 3-0; Millonarios 
-Group B
+Group: B
 ; Tulua      ; 1-1; Medellin    
 Penalty kicks: 2-4 
 ; Bucaramanga; 5-1; Unicosta  
@@ -1008,14 +1034,17 @@ Penalty kicks: 2-4
 Penalty kicks: 3-1 
 ; Nacional   ; 1-0; Huila  
 
-Round: 11 (47) [Nov 8]
-Group A
+Round: 11 
+*(47) [Nov 8]
+Date: 11/8/1998
+
+Group: A
 ; Caldas     ; 2-1; Quindio
 ; Santa Fe   ; 1-0; Junior
 ; Magdalena  ; 1-3; Envigado
 ; Cali       ; 1-1; Millonarios 
 Penalty kicks: 2-4 
-Group B
+Group: B
 ; Unicosta   ; 0-2; America
 ; Nacional   ; 1-1; Medellin    
 Penalty kicks: 4-3 
@@ -1023,28 +1052,34 @@ Penalty kicks: 4-3
 Penalty kicks: 3-4 
 ; Bucaramanga; 1-0; Huila
 
-Round: 12 (48) [Nov 11]
-Group A
+Round: 12 
+*(48) [Nov 11]
+Date: 11/11/1998
+
+Group: A
 ; Caldas     ; 5-0; Magdalena
 ; Junior     ; 0-1; Cali
 ; Envigado   ; 1-0; Santa Fe
 ; Millonarios; 2-1; Quindio
-Group B
+Group: B
 ; Huila      ; 4-1; Unicosta
 ; America    ; 1-3; Medellin
 ; Tolima     ; 1-1; Bucaramanga 
 Penalty kicks: 4-1 
 ; Nacional   ; 1-2; Tulua
 
-Round: 13 (49) [Nov 15]
-Group A
+Round: 13 
+*(49) [Nov 15]
+Date: 11/15/1998
+
+Group: A
 ; Envigado   ; 1-2; Quindio
 ; Cali       ; 3-0; Santa Fe
 ; Millonarios; 1-1; Caldas      
 Penalty kicks: 3-4 
 ; Junior     ; 2-2; Magdalena   
 Penalty kicks: 4-3 
-Group B
+Group: B
 ; Nacional   ; 6-0; Unicosta
 ; Tolima     ; 0-0; Medellin    
 Penalty kicks: 4-5 
@@ -1052,15 +1087,18 @@ Penalty kicks: 4-5
 Penalty kicks: 5-4 
 ; Huila      ; 1-2; America
 
-Round: 14 (50) [Nov 19]
-Group A
+Round: 14 
+*(50) [Nov 19]
+Date: 11/19/1998
+
+Group: A
 ; Caldas     ; 1-1; Envigado    
 Penalty kicks: 3-4 
 ; Santa Fe   ; 0-0; Millonarios 
 Penalty kicks: 3-1 
 ; Magdalena  ; 4-0; Cali
 ; Quindio    ; 3-2; Junior    
-Group B
+Group: B
 ; Medellin   ; 1-2; Bucaramanga
 ; America    ; 0-0; Nacional    
 Penalty kicks: 4-5 
@@ -1068,147 +1106,157 @@ Penalty kicks: 4-5
 ; Unicosta   ; 1-1; Tolima      
 Penalty kicks: 1-3 
 
-Tables:
 
-Group A:
- 1.Once Caldas            14  8  4/1  1  27-11  33
- 2.Dep. Cali              14  6  2/3  3  17-12  25
- 3.Dep. Quindío           14  6  4/1  3  25-18  27
- 4.Envigado FC            14  5  3/2  4  14-14  23
- 5.Millonarios            14  5  2/3  4  15-16  22
- 6.Un. Magdalena          14  4  0/3  7  18-24  15
- 7.Atl. Junior            14  1  3/2  8  20-30  11
- 8.Indep. Santa Fé        14  2  1/4  7   8-19  12
+*Group: A:
+* 1.Once Caldas            14  8  4/1  1  27-11  33
+* 2.Dep. Cali              14  6  2/3  3  17-12  25
+* 3.Dep. Quindío           14  6  4/1  3  25-18  27
+* 4.Envigado FC            14  5  3/2  4  14-14  23
+* 5.Millonarios            14  5  2/3  4  15-16  22
+* 6.Un. Magdalena          14  4  0/3  7  18-24  15
+* 7.Atl. Junior            14  1  3/2  8  20-30  11
+* 8.Indep. Santa Fé        14  2  1/4  7   8-19  12
 
-Group B:
- 1.Atl. Nacional          14  8  4/1  1  30-16  33
- 2.Dep. Indep. Medellín   14  7  3/2  2  28-16  29
- 3.Dep. Tuluá             14  4  3/4  3  22-20  22
- 4.Atl. Bucaramanga       14  4  3/3  4  22-21  21
- 5.CD America Cali        14  5  0/4  5  17-20  19
- 6.Dep. Tolima            14  3  4/3  4  15-19  19
- 7.Atl. Huila             14  4  2/1  7  20-21  17
- 8.Dep. Unicosta          14  2  0/1 11  15-36   7
+*Group: B:
+* 1.Atl. Nacional          14  8  4/1  1  30-16  33
+* 2.Dep. Indep. Medellín   14  7  3/2  2  28-16  29
+* 3.Dep. Tuluá             14  4  3/4  3  22-20  22
+* 4.Atl. Bucaramanga       14  4  3/3  4  22-21  21
+* 5.CD America Cali        14  5  0/4  5  17-20  19
+* 6.Dep. Tolima            14  3  4/3  4  15-19  19
+* 7.Atl. Huila             14  4  2/1  7  20-21  17
+* 8.Dep. Unicosta          14  2  0/1 11  15-36   7
 
-Overall Table:
+*Overall Table:
+*
+* 1.Once Caldas            50 29  8/ 7  6  94- 46 110  Qualified for Copa Libertadores
+* 2.Atl. Nacional          50 25 11/ 5  9  93- 52 102              [93-51]
+* 3.Dep. Indep. Medellín   50 23  7/10 10  80- 45  93              [79-45]
+* 4.Dep. Cali              50 21  8/ 7 14  77- 61  86
+* 5.Indep. Santa Fé        50 19  7/ 9 15  56- 49  80              [56-51]
+* 6.CD America Cali        50 16 10/ 9 15  70- 59  77              [71-59]
+* 7.Dep. Quindío           50 17  8/ 9 16  68- 65  76
+* 8.Millonarios            50 16  8/11 15  57- 59  75
+* - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 9.Atl. Huila             50 17  6/ 8 19  74- 68  71
+*10.Dep. Tolima            50 12 15/ 5 18  57- 70  71
+*11.Envigado FC            50 16  7/ 7 20  55- 64  69              [54-64]
+*12.Dep. Tuluá             50 14  8/11 17  64- 79  69
+*13.Atl. Bucaramanga       50 14  7/11 18  59- 75  67
+*14.Atl. Junior            50 12 11/ 8 19  72- 88  66              [71-85]
+*15.Un. Magdalena          50 11  6/ 6 27  58- 96  50
+*----------------------------------------------------
+*16.Dep. Unicosta          50 10  1/ 5 34  57-115  37  Relegated
 
- 1.Once Caldas            50 29  8/ 7  6  94- 46 110  Qualified for Copa Libertadores
- 2.Atl. Nacional          50 25 11/ 5  9  93- 52 102              [93-51]
- 3.Dep. Indep. Medellín   50 23  7/10 10  80- 45  93              [79-45]
- 4.Dep. Cali              50 21  8/ 7 14  77- 61  86
- 5.Indep. Santa Fé        50 19  7/ 9 15  56- 49  80              [56-51]
- 6.CD America Cali        50 16 10/ 9 15  70- 59  77              [71-59]
- 7.Dep. Quindío           50 17  8/ 9 16  68- 65  76
- 8.Millonarios            50 16  8/11 15  57- 59  75
- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.Atl. Huila             50 17  6/ 8 19  74- 68  71
-10.Dep. Tolima            50 12 15/ 5 18  57- 70  71
-11.Envigado FC            50 16  7/ 7 20  55- 64  69              [54-64]
-12.Dep. Tuluá             50 14  8/11 17  64- 79  69
-13.Atl. Bucaramanga       50 14  7/11 18  59- 75  67
-14.Atl. Junior            50 12 11/ 8 19  72- 88  66              [71-85]
-15.Un. Magdalena          50 11  6/ 6 27  58- 96  50
-----------------------------------------------------
-16.Dep. Unicosta          50 10  1/ 5 34  57-115  37  Relegated
-
-[NB: goals between brackets indicate GD according to the above results, which
-     apparently contain some mistakes in scorelines]
-
-Octogonal Final
-
-Group A [odd teams overall table]
-
- 1.Once Caldas             6  3  2/ 0  1   7-  5  14.5   [BP: 1.5]
- 2.Dep. Indep. Medellín    6  4  0/ 0  2   7-  7  13     [BP: 1  ]
- 3.Dep. Quindío            6  2  0/ 2  2   9-  7   8    
- 4.Indep. Santa Fé         6  1  0/ 0  5   7- 11   3      
-
-Group B [even teams overall table]
-
- 1.Dep. Cali               6  3  1/ 2  0  13-  6  13.75  [BP: 0.75]
- 2.Atl. Nacional           6  1  2/ 1  2   8-  9   9.25  [BP: 1.25]
- 3.CD America Cali         6  2  0/ 2  2   9- 10   8      
- 4.Millonarios             6  1  2/ 0  3   6- 11   7      
-
-Round: 1 [Nov 22]
-Group A
-Caldas      1-0 Medellin
-Santa Fe    1-0 Quindio
-Group B
-Nacional    2-2 Cali        
-Penalty kicks: 4-3 
-America     1-3 Millonarios
-
-Round: 2 [Nov 25]
-Group A
-Medellin    1-0 Santa Fe
-Quindio     1-1 Caldas      
-Penalty kicks: 4-5 
-Group B
-Millonarios 1-1 Nacional    
-Penalty kicks: 4-3 
-Cali        3-1 America
-
-Round: 3 [Nov 29]
-Group A
-Medellin    1-0 Quindio
-Caldas      2-1 Santa Fe
-Group B
-America     1-0 Nacional
-Millonarios 0-2 Cali   
-
-Round: 4 [Dec 2]
-Group A
-Quindio     4-1 Medellin
-Santa Fe    1-2 Caldas  
-Group B
-Nacional    1-3 America
-Cali        3-0 Millonarios
-
-Round: 5 [Dec 6]
-Group A
-Medellin    1-0 Caldas
-Quindio     3-2 Santa Fe
-Group B
-Cali        1-1 Nacional    
-Penalty kicks: 1-4 
-Millonarios 1-1 America     
-Penalty kicks: 4-3 
-
-Round: 6 [Dec 13]
-Group A
-Santa Fe    2-3 Medellin
-Caldas      1-1 Quindio     
-Penalty kicks: 5-4 
-Group B
-Nacional    3-1 Millonarios
-America     2-2 Cali        
-Penalty kicks: 1-3 
-
-*Group A [odd teams overall table]
+*[NB: goals between brackets indicate GD according to the above results, which
+*     apparently contain some mistakes in scorelines]
+*
+*Octogonal Final
+*
+*Group: A [odd teams overall table]
+*
 * 1.Once Caldas             6  3  2/ 0  1   7-  5  14.5   [BP: 1.5]
 * 2.Dep. Indep. Medellín    6  4  0/ 0  2   7-  7  13     [BP: 1  ]
 * 3.Dep. Quindío            6  2  0/ 2  2   9-  7   8    
 * 4.Indep. Santa Fé         6  1  0/ 0  5   7- 11   3      
-
-*Group B [even teams overall table]
+*
+*Group: B [even teams overall table]
+*
 * 1.Dep. Cali               6  3  1/ 2  0  13-  6  13.75  [BP: 0.75]
 * 2.Atl. Nacional           6  1  2/ 1  2   8-  9   9.25  [BP: 1.25]
 * 3.CD America Cali         6  2  0/ 2  2   9- 10   8      
 * 4.Millonarios             6  1  2/ 0  3   6- 11   7      
 
-Cali qualified for Copa Libertadores.
+Round: 1 
+Date: 11/22/1998
 
-Championship Final
+Group: A
+; Caldas     ; 1-0; Medellin
+; Santa Fe   ; 1-0; Quindio
+Group: B
+; Nacional   ; 2-2; Cali        
+ Penalty kicks: 4-3
+; America    ; 1-3; Millonarios
 
-First Leg [Dec 16, Estadio Pascual Guerrero, Cali, att: 35,000]
-Cali        4-0 Caldas
-  [Bonilla (3), Castillo]
+Round: 2 
+Date: 11/25/1998
 
-Second Leg [Dec 20, Estadio Palogrande, Manizales]
-Caldas      0-0 Cali  
+Group: A
+; Medellin   ; 1-0; Santa Fe
+; Quindio    ; 1-1; Caldas      
+Penalty kicks: 4-5 
+Group: B
+; Millonarios; 1-1; Nacional    
+Penalty kicks: 4-3
+; Cali       ; 3-1; America
 
-Deportivo Cali champions of Colombia 1998.
+Round: 3 
+Date: 11/29/1998
+
+Group: A
+; Medellin   ; 1-0; Quindio
+; Caldas     ; 2-1; Santa Fe
+Group: B
+; America    ; 1-0; Nacional
+; Millonarios; 0-2; Cali   
+
+Round: 4 
+Date: 12/2/1998
+
+Group: A
+; Quindio    ; 4-1; Medellin
+; Santa Fe   ; 1-2; Caldas  
+Group: B
+; Nacional   ; 1-3; America
+; Cali       ; 3-0; Millonarios
+
+Round: 5 
+Date: 12/6/1998
+Group: A
+; Medellin   ; 1-0; Caldas
+; Quindio    ; 3-2; Santa Fe
+Group: B
+; Cali       ; 1-1; Nacional    
+Penalty kicks: 1-4 
+; Millonarios; 1-1; America     
+Penalty kicks: 4-3 
+
+Round: 6 
+Date: 12/13/1998
+
+Group: A
+; Santa Fe   ; 2-3; Medellin
+; Caldas     ; 1-1; Quindio     
+Penalty kicks: 5-4 
+Group: B
+; Nacional   ; 3-1; Millonarios
+; America    ; 2-2; Cali        
+Penalty kicks: 1-3 
+
+*Group: A [odd teams overall table]
+* 1.Once Caldas             6  3  2/ 0  1   7-  5  14.5   [BP: 1.5]
+* 2.Dep. Indep. Medellín    6  4  0/ 0  2   7-  7  13     [BP: 1  ]
+* 3.Dep. Quindío            6  2  0/ 2  2   9-  7   8    
+* 4.Indep. Santa Fé         6  1  0/ 0  5   7- 11   3      
+
+*Group: B [even teams overall table]
+* 1.Dep. Cali               6  3  1/ 2  0  13-  6  13.75  [BP: 0.75]
+* 2.Atl. Nacional           6  1  2/ 1  2   8-  9   9.25  [BP: 1.25]
+* 3.CD America Cali         6  2  0/ 2  2   9- 10   8      
+* 4.Millonarios             6  1  2/ 0  3   6- 11   7      
+
+*Cali qualified for Copa Libertadores.
+*
+*Championship Final
+
+*First Leg
+12/16/1998; Cali       ; 4-0; Caldas; Estadio Pascual Guerrero; 35000
+Bonilla, Bonilla, Bonilla, Castillo;
+
+*Second Leg 
+12/20/1998; Caldas     ; 0-0; Cali  ; Estadio Palogrande, Manizales
+
+*Deportivo Cali champions of Colombia 1998.
 
 
 *Prepared and maintained by Roberto Lahsen, Frank Ballesteros and Mikael Jönsson for the Rec.Sport.Soccer Statistics Foundation

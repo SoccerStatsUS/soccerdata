@@ -47,7 +47,7 @@ Date: 8/13/2000
 ; Istanbul       ; 1-6; Adana
   Engin Özdemir (pk) 26; Cenk Isler 17, Cenk Isler 19, Cenk Isler (pk) 35, Cenk Isler 77, Cenk Isler 84, Fuat Nihat Buruk (og) 65
 
-; Siirt; Jet-PA;    1-2 Antalya
+; Siirt Jet-PA;    1-2; Antalya
   Fernand Coulibaly 16; Selahattin Kinali 72, Selahattin Kinali 89
 
 ; Samsun         ; 3-0; Ankaragucu 
@@ -65,9 +65,9 @@ Date: 8/18/2000
 Date: 8/19/2000
 
 ; Galatasaray    ; 7-0; Erzurum
-  Gheorghe Hagi 7, Gheorge Hagi 94, Mario Riberio Jardel 22, Mario Riberio Jardel 26, Mario Riberio Jardel 52, Mario Riberio Jardel 75, Mario Riberio Jardel 88
+  Gheorghe Hagi 7, Gheorge Hagi 94, Mario Riberio Jardel 22, Mario Riberio Jardel 26, Mario Riberio Jardel 52, Mario Riberio Jardel 75, Mario Riberio Jardel 88;
 
-; Siirt; Jet-PA;    2-3 Rize
+; Siirt Jet-PA;    2-3; Rize
   Fernand Coulibaly 22, Çetin Aydin 27; Erdogan Yulmaz 19, Kürsat Duymus 49, Ümit Ozan Kazmaz 73
 
 ; Ankaragucu     ; 1-0; Kocaeli
@@ -101,7 +101,7 @@ Date: 8/26/2000
 ; Denizli        ; 3-1; Erzurum 
   Coskun Birdal 2, Coskun Birdal 34, Veysel Cihan 11; Alexander Löbe (pk) 89
 
-; Siirt; Jet-PA;    2-2 Adana
+; Siirt Jet-PA;    2-2; Adana
   Fernand Coulibaly 43, Ceyhun Eris 53; Volkan Arslan 6, Cenk Isler 88
 
 ; Genclerbirligi ; 3-1; Fenerbahce  
@@ -150,7 +150,7 @@ Date: 9/10/2000
 ; Fenerbahce     ; 4-2; Siirt Jet-PA
   B.Kenneth Andersson 26, Milan Rapajic 59, Haim M.Revivo 61, Ali Günes 72; Fernand Coulibaly 15, Ceyhun Eris 90
 
-; Erzurum        ; 5-0; Bursa
+; Erzurum        ; 5-0;; Bursa
   Gürsat Karakas 7, Alexander Löbe 19, Alexander Lobe 50, Alexander Lobe 63, Sasa Kovacevic 47;
 
 ; Gaziantep      ; 0-0; Istanbul
@@ -179,7 +179,7 @@ Date: 9/17/2000
 ; Yozgat         ; 4-1; Adana
   Yaw Preko 7, Mustafa Kocabey 9, Cihat Arslan 19, Tarik Dasgün 39; Altan Aksoy 76
 
-; Siirt; Jet-PA;    1-1 Ankaragucu
+; Siirt Jet-PA;    1-1; Ankaragucu
   Okan Öztürk 18; Niyazi Güney 88
 
 ; Istanbul       ; 1-0; Trabzon
@@ -213,7 +213,7 @@ Date: 9/23/2000
 
 Date: 9/24/2000
 
-; Denizli        ; 0-0; Rize
+; Denizli        ; 0-0;; Rize
 
 ; Fenerbahce     ; 3-1; Yozgat
   B.Kenneth Andersson 19, Haim M.Revivo 70, Serhat Akin 88; Mustafa Kocabey 82
@@ -242,7 +242,7 @@ Date: 9/30/2000
 
 Date: 10/1/2000
 
-; Siirt; Jet-PA;    1-4 Trabzon
+; Siirt Jet-PA;    1-4; Trabzon
   Fernand Coulibaly 27; Alexander Löbe 9, Alexander Lobe 24, Zafer Demiray 71, Orhan Çikirikçi 88
 
 ; Yozgat         ; 0-1; Ankaragucu
@@ -266,7 +266,7 @@ Date: 10/13/2000
 Date: 10/14/2000
 
 ; Galatasaray    ; 4-1; Siirt Jet-PA
-  Mario R.Jardel 6, Mario Jardel 30, Ergün Penbe 32, Hasan Sas 79; Stefan Karl-Heinz Hanke 85
+  Mario Jardel 6, Mario Jardel 30, Ergün Penbe 32, Hasan Sas 79; Stefan Karl-Heinz Hanke 85
 
 ; Gaziantep      ; 3-1; Yozgat
   Mert Korkmaz 50, Hasan Özer 63, Mehmet Polat 86; Tarik Dasgün 69
@@ -304,7 +304,7 @@ Date: 10/20/2000
 
 Date: 10/21/2000
 
-; Siirt; Jet-PA;    1-1 Erzurum
+; Siirt Jet-PA;    1-1; Erzurum
   Gürçay Bulut 22; Selçuk Beyaz 6
 
 ; Genclerbirligi ; 0-1; Bursa
@@ -335,7 +335,7 @@ Date: 10/28/2000
 ; Bursa          ; 3-2; Siirt Jet-PA
   Murat Sözkesen 8, Murat Sozkesen 19, Okan Yilmaz 37; Ersen Martin 9, Ersen Martin 83
 
-; Trabzon        ; 4-0; Antalya
+; Trabzon        ; 4-0;; Antalya
   Erhan Namli 2, Alexander Löbe 70, Hami Mandirali 76, Tamer Tuna 90;
 
 ; Ankaragucu     ; 4-0; Adana
@@ -376,7 +376,7 @@ Date: 11/4/2000
 
 Date: 11/5/2000
 
-; Siirt; Jet-PA;    1-2 Samsun
+; Siirt Jet-PA;    1-2; Samsun
   Ersen Martin 73; Ilhan Mansiz 48, Tümer Metin 63
 
 ; Adana          ; 0-1; Gaziantep
@@ -420,7 +420,7 @@ Date: 11/12/2000
 ; Kocaeli        ; 1-1; Siirt Jet-PA 
   Predrag Pazin (pk) 45; Ceyhun Eris 57
 
-; Samsun         ; 2-3; Besiktas 
+; Samsun         ; 2-3;; Besiktas 
   Tümer Metin 43, Ercan Kologlu 69; Ahmet Dursun 8, Ercan Kologlu (og) 12, Pascal Olivier Nouma 50
 
 ; Trabzon        ; 3-3; Adana 
@@ -437,7 +437,7 @@ Date: 11/18/2000
 ; Rize           ; 4-1; Erzurum
   Ümit Ozan Kazmaz (pk) 4, Umit Ozan Kazmaz (pk) 60, Yusuf Tokus 38, Emmanuel Tetteh 40; Sasa Kovacevic 71
 
-; Siirt; Jet-PA;    0-2 Istanbul
+; Siirt Jet-PA;    0-2; Istanbul
 ;  Alioum Saidou 51, Sertan Eser 63
 
 ; Ankaragucu     ; 1-1; Gaziantep
@@ -483,7 +483,7 @@ Date: 11/26/2000
 ; Genclerbirligi ; 2-0; Siirt Jet-PA
   Ümit Karan 67, Umit Karan 70;
 
-; Kocaeli        ; 2-2; Yozgat
+; Kocaeli        ; 2-2;; Yozgat
   Predrag Pazin 6, Serdar Topraktepe 36; Kwame Ayew 60, Kwame Ayew 90
 
 ; Bursa          ; 2-1; Rize
@@ -513,7 +513,7 @@ Date: 12/2/2000
 
 Date: 12/3/2000
 
-; Siirt; Jet-PA;    1-1 Denizli
+; Siirt Jet-PA;    1-1; Denizli
   Okan Öztürk 73; Veysel Cihan 51
 
 ; Rize           ; 0-1; Samsun
@@ -550,7 +550,7 @@ Date: 12/10/2000
 ; Erzurum        ; 1-1; Ankaragucu
   Tuncay Aksoy 15; Ismet Tasdemir 8
 
-; Siirt; Jet-PA;    1-1 Besiktas
+; Siirt Jet-PA;    1-1; Besiktas
   Stefan Karl-Heinz Hanke 69; Ahmet Dursun 24
  
 ; Genclerbirligi ; 2-1; Yozgat
@@ -576,7 +576,7 @@ Date: 12/16/2000
 ; Yozgat         ; 2-1; Siirt Jet-PA       
   Ilyas Kahraman 57, Yaw Preko 71; Ceyhun Eris 89
 
-; Rize           ; 2-1; Istanbul
+; Rize           ; 2-1;; Istanbul
   Bekir Gür (og) 52, Yusuf Tokus 66; Sertan Eser 31
 
 Date: 12/17/2000
@@ -624,7 +624,7 @@ Date: 12/23/2000
 ; Antalya        ; 1-3; Siirt Jet-PA
   Miodrag Andjelkovic 68; Alp Küçükvardar 22, Ersen Martin 63, Okan Öztürk 83
 
-; Galatasaray    ; 1-2; Denizli
+; Galatasaray    ; 1-2;; Denizli
   Serkan Aykut 9; Bülent Korkmaz (og) 72, Veysel Cihan 90
 
 Round: 19
@@ -638,7 +638,7 @@ Date: 2/3/2001
 ; Rize           ; 3-0; Siirt Jet-PA
   Saffet Akyüz 32, Emmanuel Tetteh 58, Ümit Ozan Kazmaz 76;
 
-; Denizli        ; 2-0; Yozgat
+; Denizli        ; 2-0;; Yozgat
   Ahmed Hassan 53, Coskun Birdal 67;
 
 ; Erzurum        ; 1-2; Galatasaray
@@ -672,7 +672,7 @@ Date: 2/10/2001
 ; Adana          ; 0-2; Siirt Jet-PA
 ;  Rossen Iordanov Kirilov (og) 14, Alp Küçükvardar 69
 
-; Ankaragucu     ; 1-1; Istanbul
+; Ankaragucu     ; 1-1;; Istanbul
   Augustine Ahinful 44; Bülent Üçüncü (pk) 42
 
 ; Galatasaray    ; 2-1; Bursa
@@ -705,7 +705,7 @@ Date: 2/17/2001
 ; Denizli        ; 1-1; Antalya
   Coskun Birdal 62; Atilla Birlik 85
 
-; Siirt; Jet-PA;    0-4 Fenerbahçe
+; Siirt Jet-PA;    0-4; Fenerbahçe
 ;  Haim Revivo 15, Haim Revivo 18, Serhat Akin 48, Serhat Akin 74
 
 ; Samsun         ; 1-1; Galatasaray
@@ -742,7 +742,7 @@ Date: 2/24/2001
 ; Ankaragücü     ; 4-1; Siirt Jet-PA
   Ramazan Özalp 21, Yilmaz Özlem 34, Hakan Keles 52, Ohene Kennedy 54; Stefan Karlheinz Hanke (pk) 45
 
-; Rize           ; 0-2; Antalya
+; Rize           ; 0-2;; Antalya
 ;  Kamil Çakir 67, Atilla Birlik 90
 
 Date: 2/25/2001
@@ -773,7 +773,7 @@ Date: 3/3/2001
 ; Yozgat         ; 2-3; Fenerbahce
   Kwame Ayew 41, Kwame Ayew 53; Samuel Johnson 36, Elvir Baljic 73, Murat Duman (og) 85
 
-; Siirt; Jet-PA;    1-2 Gaziantep
+; Siirt Jet-PA;    1-2; Gaziantep
   Ceyhun Eris 65; Hasan Özer 17, Hasan Ozer (pk) 89
 
 ; Antalya        ; 2-1; Adana
@@ -826,7 +826,7 @@ Date: 3/11/2001
 ; Trabzon        ; 2-4; Siirt Jet-PA
   Hami Mandirali 62, Abdülkadir Demirci 74; Stefan Karlheinz Hanke 4, Ersen Martin 30, Ersen Martin 37, Atilla Günes 90
 
-; Ankaragucu     ; 4-0; Yozgat 
+; Ankaragucu     ; 4-0;; Yozgat 
   Ramazan Özalp 6, Ohene Kennedy 34, Cafer Aydin 58, Augustine Ahinful 90;
 
 ; Fenerbahce     ; 2-1; Antalya
@@ -850,11 +850,11 @@ Date: 3/17/2001
   Saidou Alioum 10, Alban Bushi (pk) 53; Okan Yilmaz 45, Okan Yilmaz 85, Ender Alkan 66, Murat Sözkesen 78
 
 ; Rize           ; 1-1; Fenerbahce 
-  Saffet Akyüz 20, Oumar Dieng (og) 23
+  Saffet Akyüz 20; Oumar Dieng (og) 23
 
 Date: 3/18/2001
 
-; Siirt; Jet-PA;    0-1 Galatasaray 
+; Siirt Jet-PA;    0-1; Galatasaray 
 ;  Serkan Aykut 84
 
 ; Yozgat         ; 1-2; Gaziantep
@@ -880,7 +880,7 @@ Date: 3/31/2001
 ; Erzurum        ; 2-1; Siirt Jet-PA 
   Dejan Simicic 85, Hasan Vural 90; Ersen Martin 76
 
-; Bursa          ; 2-0; Genclerbirligi 
+; Bursa          ; 2-0;; Genclerbirligi 
   Murat Sözkesen 14, John Lesiba Mosheou 78;
 
 ; Galatasaray    ; 2-0; Besiktas 
@@ -922,7 +922,7 @@ Date: 4/7/2001
 
 Date: 4/8/2001
 
-; Siirt; Jet-PA;    2-5 Bursa
+; Siirt Jet-PA;    2-5; Bursa
   Stefan Karlheinz Hanke (pk) 19, Gürçay Bulut 58; Murat Sözkesen 6, Okan Yilmaz 42, Okan Yilmaz 65, Süleyman Fatih Sen 44, John Lesiba Mosheou 83
 
 ; Yozgat         ; 4-2; Galatasaray
@@ -948,7 +948,7 @@ Date: 4/14/2001
 ; Samsun         ; 4-3; Siirt Jet-PA
   Serkan Dökme 33, Gilvan Santos Souza 39, Ercan Kologlu 53, Ali Akdeniz 89; Ceyhun Eris 10, Ceyhun Eris 13, Ceyhun Eris 81
 
-; Galatasaray    ; 2-0; Antalya
+; Galatasaray    ; 2-0;; Antalya
   Serkan Aykut 18, Mário Jardel Almeida Ribeiro 58;
 
 Date: 4/15/2001
@@ -986,7 +986,7 @@ Date: 4/21/2001
 
 Date: 4/22/2001
 
-; Siirt; Jet-PA;    4-3 Kocaeli
+; Siirt Jet-PA;    4-3; Kocaeli
   Ceyhun Eris 10, Ceyhun Eris 62, Okan Öztürk 37, Ersen Martin 90; Alexandar Alexandrov 33, Serdar Topraktepe 58, Ahmet Arslaner 75
 
 ; Yozgat         ; 1-0; Bursa
@@ -1017,7 +1017,7 @@ Date: 4/28/2001
 ; Istanbul       ; 2-1; Siirt Jet-PA
   Alban Bushi 47, Sertan Eser 70; Okan Öztürk 72
 
-; Galatasaray    ; 4-1; Adana
+; Galatasaray    ; 4-1;; Adana
   Gheorghe Hagi 13, Gheorghe Hagi 35, Serkan Aykut 24, Ümit Davala 38; Ahmet Özen 72
 
 Date: 4/29/2001
@@ -1056,7 +1056,7 @@ Date: 5/5/2001
 
 Date: 5/6/2001
 
-; Siirt; Jet-PA;    3-0 Genclerbirligi 
+; Siirt Jet-PA;    3-0; Genclerbirligi 
   Alp Küçükvardar 48, Okan Öztürk 52, Taner Savut 85;
 
 ; Rize           ; 3-1; Bursa
@@ -1072,12 +1072,12 @@ Round: 32
 Date: 5/12/2001
 
 ; Kocaeli        ; 5-0; Antalya
-  Tomislav Erceg 1, Tomislav Erceg 37, Serdar Topraktepe 61, Zdravko Ivanov Lazerov 63, Faruk Sarman (pk) 75
+  Tomislav Erceg 1, Tomislav Erceg 37, Serdar Topraktepe 61, Zdravko Ivanov Lazerov 63, Faruk Sarman (pk) 75;
 
 ; Denizli        ; 1-2; Siirt Jet-PA
   Fernand Coulibaly 13; Ceyhun Eris 2, Gürçay Bulut 24
 
-; Bursa          ; 2-1; Adana
+; Bursa          ; 2-1;; Adana
   Murat Sözkesen 1, Okan Yilmaz 39; Cenk Isler 55
 
 ; Samsun         ; 1-1; Rize
@@ -1106,7 +1106,7 @@ Date: 5/19/2001
 ; Besiktas       ; 5-1; Siirt Jet-PA
   Markus Armin Münch 9, Pascal Olivier Nouma 17, Ibrahim Üzülmez 24, Mehmet Özdilek 73, Ümit Bozkurt 83; Alp Küçükvardar (pk) 71
 
-; Antalya        ; 2-2; Istanbul
+; Antalya        ; 2-2;; Istanbul
   Atilla Birlik 35, Atilla Birlik 56; Alban Bushi 64, Saidou Alioum 90
 
 ; Yozgat         ; 1-1; Genclerbirligi
@@ -1149,7 +1149,7 @@ Date: 5/25/2001
 
 Date: 5/26/2001
 
-; Siirt; Jet-PA;    1-3 Yozgat
+; Siirt Jet-PA;    1-3; Yozgat
   Alp Küçükvardar 23; Mutlu Dervisoglu 59, Cengizhan Hinçal 76, Mustafa Kocabey 87
 
 ; Kocaeli        ; 4-3; Adana

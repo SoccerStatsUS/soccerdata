@@ -1,5 +1,4 @@
 BlockSource: http://www.rsssf.com/tablesc/col97.html
-*Colombia 1996/97
 Competition: Categoría Primera A
 
 *The season consists of the following stages:
@@ -673,7 +672,7 @@ Group: B
 *13.Dep. Quindío           46 11 15 20  57-85  48 
 *14.Dep. Pereira           46  8 16 22  58-82  40
 *15.Millonarios            46  8 13 25  45-65  37
-16.Cúcuta Dep.            46  5 16 25  36-80  31 
+*16.Cúcuta Dep.            46  5 16 25  36-80  31 
 
 *Qualified for Gran Final: América, Nacional, Cali, Tolima.
 *Relegated: Cúcuta.
@@ -760,7 +759,7 @@ Season: 1997 Adecuacion
 *Cuadrangular D: Magdalena, Envigado, Junior, Tuluá
 *[Eight qualify for the two Cuadrangulares Final]
 
-[Winners play off against America Cali for the 1996/97 championship.]
+*[Winners play off against America Cali for the 1996/97 championship.]
 
 Round: 1 
 Date: 7/10/1997
@@ -1056,29 +1055,29 @@ Date: 9/21/1997
 Round: 14 
 Date: 9/28/1997
 
-Envigado    1-1 Tulua        
-*[3-0 pen]
-Bucaramanga 3-1 Junior
-Santa Fe    1-2 Caldas
-Pereira     0-0 Millonarios  
-*[6-7 pen]
-America     2-1 Medellin
-Nacional    1-0 Cali
-Unicosta    2-3 Magdalena
-Quindio     1-0 Tolima 
+; Envigado   ; 1-1; Tulua        
+*[3-0; pen]
+; Bucaramanga; 3-1; Junior
+; Santa Fe   ; 1-2; Caldas
+; Pereira    ; 0-0; Millonarios  
+*[6-7; pen]
+; America    ; 2-1; Medellin
+; Nacional   ; 1-0; Cali
+; Unicosta   ; 2-3; Magdalena
+; Quindio    ; 1-0; Tolima 
 
 Round: 15 
 Date: 10/1/1997
 
 ; Medellin   ; 1-0; Junior
 ; Caldas     ; 2-2; Quindio     
-*[3-1 pen]
-; America    ; 2-0; Santa Fe
-; Tolima     ; 1-1; Bucaramanga 
-*[4-3 pen]
-; Millonarios; 1-1; Cali        
+*[3-1; pen]
+; America    ;2-0; Santa Fe
+; Tolima    ; 1-1; Bucaramanga 
+*[4-3; pen]
+; Millonarios;1-1; Cali        
 *[Cali on pen]
-; Magdalena  ; 4-1; Envigado
+; ; Magdalena  ; 4-1; Envigado
 ; Unicosta   ; 1-3; Nacional
 ; Tulua      ; 1-0; Pereira
 
@@ -1472,7 +1471,7 @@ Villareal 4, Villareal 54; Galvan 1
 
 *Millonarios third and qualified for Copa Conmebol 1998 (on better season record)
 
-Adecuación Final
+*Adecuación Final
 
 *First Leg
 
@@ -1491,7 +1490,7 @@ Miguel Marrero (pk) 59; Orlando Ballesteros 90
 *for 1996/97 championship.
 
 
-CHAMPIONSHIP FINAL 1996/97
+*CHAMPIONSHIP FINAL 1996/97
 
 *First Leg
 

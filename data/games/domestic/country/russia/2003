@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesr/rus03.html
 Season: 2003
+Competition: Russian Football Premier League
 
 * 1.CSKA Moskva                  30  17  8  5  56-32  59  Champions
 * 2.Zenit Sankt-Peterburg        30  16  8  6  48-32  56  UEFA Cup
@@ -29,7 +30,7 @@ Season: 2003
 Round: 1
 Date: 3/15/2003
 
-;; Torpedo-Metallurg; 0-0 Spartak; 9500
+; Torpedo-Metallurg; 0-0; Spartak; 9500
   
 
 ; Krylya Sovetov   ; 3-0; Rotor; 34500
@@ -49,7 +50,7 @@ Date: 3/16/2003
 ; CSKA             ; 4-0; Rubin; 12000
   Jiri Jarosik 18, Jiri Jarosik 78, Sergei Semak 44, Dmitriy Kirichenko 87;
 
-;; Spartak-Alania;    0-1 Dinamo; 22000
+; Spartak-Alania;    0-1; Dinamo; 22000
 ;  Dmitriy Bulykin 49
 * Saved PK: Mikhail Ashvetia(SA) 90. 
 
@@ -88,15 +89,15 @@ Date: 3/23/2003
 Round: 3
 Date: 4/5/2003
 
-;; Torpedo-Metallurg; 0-1 Dinamo; 4000
+; Torpedo-Metallurg; 0-1; Dinamo; 4000
 ; Deividas Cesnauskis 67
 
 Date: 4/6/2003
 
 ; CSKA             ; 3-2; Spartak; 26000
-  Sergei Semak 49, Rolan Gusev (pk) 77, Jiri Jarosik 90; Yegor Titov 33, Vasiliy Berezutskiy [C] (og) 57
+  Sergei Semak 49, Rolan Gusev (pk) 77, Jiri Jarosik 90; Yegor Titov 33, Vasiliy Berezutskiy (og) 57
 
-;; Spartak-Alania;    1-0 Rotor; 21000
+; Spartak-Alania;    1-0; Rotor; 21000
   Anzor Ailarov 85;
 
 ; Krylya Sovetov   ; 0-0; Rubin; 28000
@@ -151,17 +152,17 @@ Date: 4/19/2003
 ;  Gift Kampamba 76
 * Saved PK: Sergei Semak(C) 61. 
 
-;; Torpedo-Metallurg; 2-3 Saturn Ren TV; 3000
+; Torpedo-Metallurg; 2-3; Saturn Ren TV; 3000
   Roman Monaryov 1, Valeriy Leonov 14; Radu Rebeja 81, Nicolas Pavlovich 83, Aleksei Medvedev 90+2. 
 
-;; Spartak-Alania;    3-2 Lokomotiv; 15000
-  Mihails Miholaps 15, Mihails Miholaps 28, 41; Dmitriy Loskov 29, Julio Cesar da Silva Souza 71
+; Spartak-Alania;    3-2; Lokomotiv; 15000
+  Mihails Miholaps 15, Mihails Miholaps 28, Mihails Miholaps 41; Dmitriy Loskov 29, Julio Cesar da Silva Souza 71
 
 ; Krylya Sovetov   ; 1-1; Chernomorets; 20000
   Andrei Karyaka 35; Ansar Ayupov 83
 
 ; Uralan           ; 1-2; Spartak; 7000
-  Osvaldo Luiz Pereira "Luizao"(S) (og) 80; Yegor Titov 39, Roman Pavlyuchenko 43
+  Osvaldo Luiz Pereira "Luizao" (og) 80; Yegor Titov 39, Roman Pavlyuchenko 43
 
 ; Zenit            ; 1-0; Rubin; 21000
   Radek Sirl 49;
@@ -205,10 +206,10 @@ Date: 4/24/2003
 Round: 7
 Date: 5/4/2003
 
-;; Torpedo-Metallurg; 0-0 Chernomorets; 1000
+; Torpedo-Metallurg; 0-0; Chernomorets; 1000
 *  Saved PK: Ansar Ayupov(Ch) 74
 
-;; Spartak-Alania;    1-0 Saturn Ren TV; 15000
+; Spartak-Alania;    1-0; Saturn Ren TV; 15000
   Vitaliy Chochiyev 69;
 
 ; Krylya Sovetov   ; 3-0; Rostov; 26000
@@ -240,7 +241,7 @@ Date: 5/9/2003
   Aleksei Medvedev 55, Jambulad Bazayev 90+4;  Denis Popov 64, Elver Rahimic 67
 
 ; Rotor            ; 2-0; Uralan; 14000
-  Valeriy Yesipov 13, Denis Kolodin(U) (og) 55;
+  Valeriy Yesipov 13, Denis Kolodin (og) 55;
 
 Date: 5/10/2003
 
@@ -264,7 +265,7 @@ Date: 5/11/2003
 Round: 9
 Date: 5/17/2003
 
-;; Torpedo-Metallurg; 3-0 Krylya Sovetov; 3500
+; Torpedo-Metallurg; 3-0; Krylya Sovetov; 3500
   Roman Monaryov (pk) 44, Roman Monaryov 53, Roman Monaryov 67;
 
 ; Uralan           ; 0-2; Shinnik; 5200
@@ -284,7 +285,7 @@ Date: 5/18/2003
 ; Dinamo           ; 0-0; Rubin; 6000
   
 
-;; Spartak-Alania;    0-1 CSKA; 15000
+; Spartak-Alania;    0-1; CSKA; 15000
 ;  Denis Popov 10
 
 ; Chernomorets     ; 2-5; Lokomotiv; 12500
@@ -345,13 +346,13 @@ Date: 5/31/2003
 
 Date: 6/1/2003
 
-;; Torpedo-Metallurg; 3-1 Spartak-Alania; 2500
+; Torpedo-Metallurg; 3-1; Spartak-Alania; 2500
   Maksym Beletskyi 24, Maksym Beletskyi 36, Roman Monaryov 50; Oleksandr Stepanov 68. 
 
 Round: 12
 Date: 6/11/2003
 
-;; Spartak-Alania;    0-2 Zenit; 10000
+; Spartak-Alania;    0-2; Zenit; 10000
 ;  Oleksandr Spivak 75, Igor Denisov 90+1
 
 ; Krylya Sovetov   ; 0-0; Uralan; 23000
@@ -375,7 +376,7 @@ Date: 6/12/2003
 ; CSKA             ; 2-2; Shinnik; 9000
   Dmitriy Kirichenko 57, Rolan Gusev 61; Andrejs Rubins 16, Martin Kushev 45+1
 
-;; Torpedo-Metallurg; 0-0 Torpedo; 3500
+; Torpedo-Metallurg; 0-0; Torpedo; 3500
 
 Round: 13
 Date: 6/18/2003
@@ -412,12 +413,12 @@ Date: 6/22/2003
 ; CSKA             ; 2-0; Torpedo; 13000
   Sergei Semak 50, Igor Yanovskiy 79;
 
-;; Spartak-Alania;    0-1 Uralan; 8000
+; Spartak-Alania;    0-1; Uralan; 8000
 ;  Andrei Bochkov 49
 
 Date: 6/23/2003
 
-;; Torpedo-Metallurg; 1-2 Shinnik; 2900
+; Torpedo-Metallurg; 1-2; Shinnik; 2900
   Alexander Rekhviashvili 57; Viktor Karpenko 68, Viktor Karpenko 83
 
 ; Krylya Sovetov   ; 2-1; Zenit; 23000
@@ -427,7 +428,7 @@ Date: 6/23/2003
   Maksim Buznikin 10, Malkhaz Asatiani 27;
 
 ; Chernomorets     ; 1-0; Rotor; 8700
-  Sergei Mikhailov(R) (og) 80;
+  Sergei Mikhailov (og) 80;
 
 ; Rostov           ; 3-2; Spartak; 15000
   Mikhail Osinov 15, Mikhail Osinov (pk) 87, Esau Boxer Kanyenda 90+3; Dmitriy A. Smirnov 81, Roman Pavlyuchenko 89
@@ -476,10 +477,10 @@ Date: 7/11/2003
 
 Date: 7/12/2003
 
-;; Torpedo-Metallurg; 1-1 Uralan; 1500
+; Torpedo-Metallurg; 1-1; Uralan; 1500
   Roman Monaryov 2; Dario Passoni 20
 
-;; Spartak-Alania;    0-1 Shinnik; 18000
+; Spartak-Alania;    0-1; Shinnik; 18000
 ;  Alyaksandr Kulchyi 14
 
 ; Krylya Sovetov   ; 4-2; Torpedo; 20000
@@ -533,12 +534,12 @@ Date: 7/24/2003
 
 Date: 7/25/2003
 
-;; Torpedo-Metallurg; 0-1 Zenit; 4000
+; Torpedo-Metallurg; 0-1; Zenit; 4000
 ;  Oleg Vlasov 87
 
 Date: 7/26/2003
 
-;; Spartak-Alania;    0-0 Torpedo; 18000
+; Spartak-Alania;    0-0; Torpedo; 18000
   
 
 ; Krylya Sovetov   ; 1-0; Shinnik; 25000
@@ -621,17 +622,17 @@ Date: 8/9/2003
 Round: 21
 Date: 8/16/2003
 
-;; Torpedo-Metallurg; 2-1 CSKA; 6000
+; Torpedo-Metallurg; 2-1; CSKA; 6000
   Roman Monaryov 20, Andrei Movsesyan 70; Artur Tlisov 78
 
-;; Spartak-Alania;    1-1 Krylya Sovetov; 17000
+; Spartak-Alania;    1-1; Krylya Sovetov; 17000
   Albert Sargsyan 49; Anton Bobyor 62
 
 ; Zenit            ; 1-2; Shinnik; 22000
   Andrei Nikolayev 47; Martin Kushev 69, Anton Khazov 87
 
 ; Chernomorets     ; 0-1; Saturn Ren TV; 10000
-;  Konstantin Gordiyuk(C) (og) 86
+;  Konstantin Gordiyuk (og) 86
 
 ; Rubin            ; 1-0; Rotor; 8000
   David Chaladze 47;
@@ -663,7 +664,7 @@ Date: 8/24/2003
 ; CSKA             ; 3-0; Krylya Sovetov; 7500
   Ivica Olic 34, Sergei Semak 44, Rolan Gusev 52;
 
-;; Spartak-Alania;    2-0 Torpedo-Metallurg; 12000
+; Spartak-Alania;    2-0; Torpedo-Metallurg; 12000
   Yuriy Petrov 10, Robert Bitarov 73;
 
 ; Torpedo          ; 1-1; Shinnik; 1000
@@ -682,8 +683,8 @@ Date: 8/24/2003
 Round: 23
 Date: 8/30/2003
 
-;; Torpedo-Metallurg; 0-3 Rostov; 1500
-;  Uladzimir Karytska(TM) (og) 37 , Mikhail Osinov (pk) 53, Andrey Hakobyants 81
+; Torpedo-Metallurg; 0-3; Rostov; 1500
+;  Uladzimir Karytska (og) 37 , Mikhail Osinov (pk) 53, Andrey Hakobyants 81
 
 ; Zenit            ; 0-0; Dinamo; 21400
 
@@ -692,7 +693,7 @@ Date: 8/31/2003
 ; CSKA             ; 1-1; Saturn Ren TV; 11200
   Rolan Gusev 79; Prince Koranteng Amoako 35
 
-;; Spartak-Alania;    1-0 Chernomorets; 23000
+; Spartak-Alania;    1-0; Chernomorets; 23000
   Serghei Dadu 61;
 
 ; Lokomotiv        ; 2-1; Krylya Sovetov; 4000
@@ -751,14 +752,14 @@ Date: 9/20/2003
   Sergei Semak 2, Rolan Gusev 71, Ivica Olic (pk) 90+1; Andrian Sosnovschii 13, Oleg Teryokhin (pk) 88
 *Saved PK: Rolan Gusev(CSKA) 9. 
 
-;; Spartak-Alania;    1-0 Rostov; 30000
+; Spartak-Alania;    1-0; Rostov; 30000
   Cristian Tudor 29;
 
 ; Uralan           ; 1-1; Rubin; 6500
   Ruslan Ajinjal 90+3; Ronieliton Pereira dos Santos 38
 
 ; Shinnik          ; 2-2; Rotor; 8000
-  Dmitriy Khomukha (pk) 18, Yevgeniy Aldonin(R) (og) 50; Yevgeniy Aldonin 14, Valeriy Yesipov (pk) 31
+  Dmitriy Khomukha (pk) 18, Yevgeniy Aldonin (og) 50; Yevgeniy Aldonin 14, Valeriy Yesipov (pk) 31
 
 ; Torpedo          ; 1-1; Dinamo; 5000
   Vladimir Leonchenko (pk) 4; Sergei Yashin 13
@@ -770,7 +771,7 @@ Date: 9/21/2003
   Andrei Karyaka 52, Jose Ivanaldo de Souza 76, Robertas Poskus 87; Aleksei Medvedev 72
 *Saved PK: Andrei Tikhonov(KS) 21. 
 
-;; Torpedo-Metallurg; 1-3 Lokomotiv; 2500
+; Torpedo-Metallurg; 1-3; Lokomotiv; 2500
   Hector Andres Bracamonte 33; Dmitriy Loskov 26, Dmitriy Loskov 45+2, Maksim Buznikin 39
 
 Round: 26
@@ -809,7 +810,7 @@ Date: 9/29/2003
 Round: 27
 Date: 10/4/2003
 
-;; Torpedo-Metallurg; 1-0 Rotor; 2500
+; Torpedo-Metallurg; 1-0; Rotor; 2500
   Andrei Movsesyan 73;
 
 ; CSKA             ; 1-1; Dinamo; 15000
@@ -820,7 +821,7 @@ Date: 10/4/2003
 
 Date: 10/5/2003
 
-;; Spartak-Alania;    1-0 Rubin; 25000
+; Spartak-Alania;    1-0; Rubin; 25000
   Georgiy Bazayev 53;
 
 ; Krylya Sovetov   ; 0-2; Spartak; 37000
@@ -873,10 +874,10 @@ Date: 10/25/2003
 ; CSKA             ; 3-0; Rotor; 10000
   Ivica Olic 26, Denis Popov 31, Rolan Gusev 33;
 
-;; Torpedo-Metallurg; 1-2 Rubin; 2500
+; Torpedo-Metallurg; 1-2; Rubin; 2500
   Hector Andres Bracamonte 3; Ntuthuko MacBeth-Mao Sibaya 14, Ebrima Ebou Sillah 71
 
-;; Spartak-Alania;    3-0 Spartak; 25000
+; Spartak-Alania;    3-0; Spartak; 25000
   Cristian Tudor 1, Serghei Dadu (pk) 75, Albert Sargsyan 86;
 
 ; Krylya Sovetov   ; 1-0; Dinamo; 12000
@@ -897,7 +898,7 @@ Round: 30
 Date: 11/1/2003
 
 ; Lokomotiv        ; 6-0; Uralan; 5500
-  Marat Izmailov 11, Marat Izmailov 70, Dmitriy Loskov 49, Dmitriy Loskov (pk) 74, Vadim Yevseyev 53, Dmitriy Khokhlov 86
+  Marat Izmailov 11, Marat Izmailov 70, Dmitriy Loskov 49, Dmitriy Loskov (pk) 74, Vadim Yevseyev 53, Dmitriy Khokhlov 86;
 
 ; Chernomorets     ; 2-1; Shinnik; 5000
   Dmitriy A. Smirnov 3, Vyacheslav Kamoltsev 86; Vyacheslav Dayev 44
@@ -911,7 +912,7 @@ Date: 11/1/2003
 ;  Hector Andres Bracamonte (pk) 42, Roman Monaryov 87
 
 ; Rubin            ; 3-2; CSKA; 22000
-  Ronieliton Pereira dos Santos (pk) 73, Denis Boyarintsev 88, Denis Yevsikov(CSKA) (og) 90+4; Andres Scotti Ponce de Leon (og) (R) 36, Dmitriy Kirichenko 78
+  Ronieliton Pereira dos Santos (pk) 73, Denis Boyarintsev 88, Denis Yevsikov (og) 90+4; Andres Scotti Ponce de Leon (og) 36, Dmitriy Kirichenko 78
 
 ; Rotor            ; 1-0; Krylya Sovetov; 7500
   Vladimir Zelenovskiy 15;
@@ -920,11 +921,11 @@ Date: 11/1/2003
   
 
 
-; * 1.CSKA Moskva                  30  17  8  5 ; 56-32;  59  Champions
+* 1.CSKA Moskva                  30  17  8  5 ; 56-32;  59  Champions
 * 2.Zenit Sankt-Peterburg        30  16  8  6  48-32  56  UEFA Cup
 * 3.Rubin Kazan                  30  15  8  7  44-29  53  +
- UEFA Cup
-; * 4.Lokomotiv Moskva             30  15  7  8 ; 54-33;  52  
+* UEFA Cup
+* 4.Lokomotiv Moskva             30  15  7  8 ; 54-33;  52  
 * 5.Shinnik Yaroslavl            30  12 11  7  43-34  47  
 * 6.Dinamo Moskva                30  12 10  8  42-29  46  
 * 7.Saturn Ren TV Moskovsk. obl. 30  12  9  9  40-37  45  
@@ -938,9 +939,9 @@ Date: 11/1/2003
 *-------------------------------------------------------
 *15.Uralan Elista                30   6 10 14  23-47  28      Relegated
 *16.Chernomorets Novorossiysk    30   6  6 18  30-49  24  +
- Relegated
+* Relegated
 
-; *NB:; Torpedo-ZIL; was bought by a large metallurgic company Norilsk Nickel
+*NB:; Torpedo-ZIL; was bought by a large metallurgic company Norilsk Nickel
 *    and therefore renamed Torpedo-Metallurg.
 *    Alania renamed Spartak-Alania.
 *    Agricultural engineering plant Rostselmash has stopped sponsoring its

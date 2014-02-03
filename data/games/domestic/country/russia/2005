@@ -1,8 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesr/rus05.html
 Season: 2005
 
-* 1.CSKA Moskva                30  18  8  4  48-20  62  Champions, CL Qualifying Round 3
-* 2.Spartak Moskva             30  16  8  6  47-26  56  CL Qualifying Round 2
+* 1.CSKA Moskva                30  18  8  4  48-20  62  Champions, CL Qualifying Round: 3
+* 2.Spartak Moskva             30  16  8  6  47-26  56  CL Qualifying Round: 2
 * 3.Lokomotiv Moskva           30  14 14  2  41-18  56  UEFA Cup
 * 4.Rubin Kazan                30  14  9  7  45-31  51
 * 5.FK Moskva                  30  14  8  8  36-26  50
@@ -22,9 +22,9 @@ Season: 2005
 *NB: Terek 6 points deducted for failure to pay Krylya Sovetov for Ognjen 
 *    Koroman in time.
 
-match details 2005
+*match details 2005
 
-Round 1
+Round: 1
 [Mar 12]
 Lokomotiv 2-0 Tom
   [Igor Lebedenko 32, Dmitriy Loskov 65. Att: 5,200]
@@ -47,7 +47,7 @@ Torpedo   3-1 Rostov
 Saturn    0-0 Rubin
   [Att: 6,000]
 
-Round 2
+Round: 2
 [Mar 19]
 Lokomotiv 0-0 Moskva
   [Att: 5,800]
@@ -69,7 +69,7 @@ Terek     2-0 Krylya S
 Tom       0-0 CSKA
   [Att: 14,000]
 
-Round 3
+Round: 3
 [Apr 2]
 Torpedo   3-0 Alania
   [Serhiy Kormyltsev 50, Igor Semshov 84, Aleksandr Panov 90+2. Att: 4,500]
@@ -90,7 +90,7 @@ Saturn    2-0 Rostov
 Spartak   1-1 Amkar
   [Fernando Cavenaghi 90 - Oleksandr Shutov 68. Att: 15,000]
 
-Round 4
+Round: 4
 [Apr 9]
 Lokomotiv 1-0 Rubin
   [Dmitriy Sychov 55. Att: 9,181]
@@ -111,7 +111,7 @@ Terek     0-1 Torpedo
 Tom       2-0 Zenit
   [Albert Borzenkov 23, Aleksei Medvedev 90+1. Att: 14,200]
 
-Round 5
+Round: 5
 [Apr 16]
 Krylya S  0-0 Lokomotiv
   [Att: 24,000]
@@ -133,7 +133,7 @@ Spartak   5-1 Dinamo
   [Fernando Cavenaghi 16, 31, Denis Boyarintsev 34, 56,
    Clemente Rodriguez 86 - Jorge Ribeiro 13. Att: 26,000]
 
-Round 6
+Round: 6
 [Apr 23]
 Lokomotiv 1-1 Amkar
   [Marat Izmailov 84 - Konstantin Paramonov 23. Att: 7,620]
@@ -153,7 +153,7 @@ Tom       0-0 Shinnik
 CSKA      2-0 Torpedo
   [Vasiliy Berezutskiy 20, Chidi Odiah 82. Att: 7,000]
 
-Round 7
+Round: 7
 [Apr 30]
 Zenit     1-1 Lokomotiv
   [Lukas Hartig 81 - Dmitriy Loskov 72 pen. Att: 21,000]
@@ -175,7 +175,7 @@ Amkar     1-0 Rostov
 Shinnik   1-1 CSKA
   [Pavel Pogrebnyak 43 - Yuriy Zhirkov 63. Att: 18,000]
 
-Round 8
+Round: 8
 [May 5]
 Zenit     1-1 Torpedo
   [Pavel Mares 50 - Igor Semshov 63. Att: 20,000]
@@ -198,7 +198,7 @@ Tom       0-1 Spartak
 CSKA      1-0 Saturn
   [Rolan Gusev 6. Att: 5,500]
 
-Round 9
+Round: 9
 [May 21]
 Shinnik   1-0 Zenit
   [Emir Spahic 68. Att: 8,000]
@@ -221,7 +221,7 @@ Saturn    1-1 Krylya S
 Amkar     0-0 Alania
   [Att: 18,500]
 
-Round 10 [Total Att: 108,400; Average: 13,550]
+Round: 10 [Total Att: 108,400; Average: 13,550]
 [May 28]
 Lokomotiv 4-1 Dinamo
   [Dmitriy Loskov 30, Igor Lebedenko 38, 54, Marat Izmailov 45+1 -
@@ -242,7 +242,7 @@ Tom       1-2 Rubin
 CSKA      1-1 Moskva
   [Ivica Olic 90+2 - Héctor Bracamonte 15. Att: 7,500]
 
-Round 11 [Total Att: 97,725; Average: 12,216]
+Round: 11 [Total Att: 97,725; Average: 12,216]
 [Jun 11]
 Zenit     1-1 Spartak
   [Aleksandr Kerzhakov 85 - Roman Pavlyuchenko 59. Att: 21,725]
@@ -262,7 +262,7 @@ Rostov    1-0 Terek
 Dinamo    1-0 Alania
   [Derlei Fernandes 29. Missed PK: Derlei Fernandes(D) 39. Att: 5,500]
 
-Round 12 [Total Att: 107,425; Average: 13,428]
+Round: 12 [Total Att: 107,425; Average: 13,428]
 [Jun 18]
 Lokomotiv 3-0 Alania
   [Diniyar Bilyaletdinov 38, Igor Lebedenko 53, Dmitriy Sychov 88. Att: 9,125]
@@ -284,7 +284,7 @@ Zenit     2-2 Moskva
   [Igor Denisov 20, Oleksandr Spivak 65 pen -
    Radu Rebeja 41, Damian Gorawski 45. Att: 20,500]
 
-Round 13 [Total Att: 99,800; Average: 12,475]
+Round: 13 [Total Att: 99,800; Average: 12,475]
 [Jun 25]
 Spartak   1-1 Shinnik
   [Nemanja Vidic 9 pen - Anton Khazov 78. Att: 15,000]
@@ -305,7 +305,7 @@ Amkar     1-1 Krylya S
 Dinamo    0-0 Tom
   [Saved PKs: Danny Alves(D) 6; Jorge Ribeiro(D) 83. Att: 5,000]
 
-Round 14 [Total Att: 93,762; Average: 11,720]
+Round: 14 [Total Att: 93,762; Average: 11,720]
 [Jul 2]
 CSKA      2-0 Dinamo
   [Dudu Cearense 15, Ivica Olic 17 pen. Att: 11,000]
@@ -327,7 +327,7 @@ Lokomotiv 4-0 Terek
   [Diniyar Bilyaletdinov 38, Vadim Yevseyev 42 pen,
    Malkhazi Asatiani 50, Dmitriy Sychov 70. Att: 8,962]
 
-Round 15 [Total Att: 120,800; Average: 15,100]
+Round: 15 [Total Att: 120,800; Average: 15,100]
 [Jul 9]
 Spartak   1-2 Lokomotiv
   [Fernando Cavenaghi 80 - Dmitriy Sychov 47, Diniyar Bilyaletdinov 78. Att: 45,000]
@@ -347,7 +347,7 @@ Terek     0-1 Tom
 Dinamo    3-1 Krylya S
   [Derlei Fernandes 58, 76 pen, 83 - Vital Bulyha 90+2. Att: 4,000]
 
-Round 16 [Total Att: 98,000; Average: 12,250]
+Round: 16 [Total Att: 98,000; Average: 12,250]
 [Jul 16]
 Moskva    3-1 Spartak
   [Dmitriy Kirichenko 44, 70, Héctor Bracamonte 67 - Aleksandr Pavlenko 82. Att: 12,000]
@@ -367,7 +367,7 @@ Terek     1-0 CSKA
 Tom       0-0 Lokomotiv
   [Att: 14,200]
 
-Round 17 [Total Att: 101,450; Average: 12,681]
+Round: 17 [Total Att: 101,450; Average: 12,681]
 [Jul 23]
 Krylya S  0-1 Terek
   [Roman Adamov 75. Att: 16,000]
@@ -389,7 +389,7 @@ CSKA      2-0 Tom
 Torpedo   2-1 Dinamo
   [Igor Semshov 15, Aleksandr Panov 37 - Emir Spahic(T) 6 og. Att: 9,000]
 
-Round 18 [Total Att: 118,255; Average: 14,782]
+Round: 18 [Total Att: 118,255; Average: 14,782]
 [Jul 30]
 Lokomotiv 3-2 CSKA
   [Dmitriy Khokhlov 14, Dmitriy Sychov 41, Oleg Pashinin 89 -
@@ -412,7 +412,7 @@ Tom       4-2 Krylya S
   [Valeriy Klimov 4, 90+1, Aleksei Medvedev 47,
    Valeriu Catînsus 83 - Andriy Husin 43, 80 pen. Att: 13,200]
 
-Round 19 [Total Att: 101,450; Average: 12,681]
+Round: 19 [Total Att: 101,450; Average: 12,681]
 [Aug 6]
 Krylya S  2-2 CSKA
   [Andriy Husin 15 pen, Armandu Baba Adamu 89 -
@@ -434,7 +434,7 @@ Moskva    1-0 Amkar
 Spartak   2-0 Rostov
   [Mihajlo Pjanovic 14, Nikita Bazhenov 52. Att: 13,000]
 
-Round 20 [Total Att: 116,036; Average: 14,505]
+Round: 20 [Total Att: 116,036; Average: 14,505]
 [Jun 22]
 Lokomotiv 1-0 Krylya S
   [Diniyar Bilyaletdinov 29. Att: 10,036]
@@ -455,7 +455,7 @@ Terek     0-1 Shinnik
 Tom       1-1 Torpedo
   [Budun Budunov 51 - Igor Semshov 82. Att: 13,000]
 
-Round 21 [Total Att: 89,950; Average: 11,244]
+Round: 21 [Total Att: 89,950; Average: 11,244]
 [Aug 10]
 Torpedo   0-2 CSKA
   [Rolan Gusev 13, Ivica Olic 55. Att: 8,500]
@@ -481,7 +481,7 @@ Amkar     3-4 Lokomotiv
    Diniyar Bilyaletdinov 52 pen, 58 pen, Marat Izmailov 75,
    Igor Lebedenko 90+2. Att: 18,500]
 
-Round 22 [Total Att: 96,523; Average: 12,065]
+Round: 22 [Total Att: 96,523; Average: 12,065]
 [Jun 15]
 Lokomotiv 0-0 Zenit
   [Att: 16,223]
@@ -502,7 +502,7 @@ Terek     1-2 Spartak
 Tom       0-3 Saturn
   [Fredy Bareiro 55, Jean Carlos 68, Valeriy Yesipov 90. Att: 13,500]
 
-Round 23 [Total Att: 88,700; Average: 11,088]
+Round: 23 [Total Att: 88,700; Average: 11,088]
 [Sep 17]
 Spartak   2-1 Tom
   [Sergiu Covalciuc 17, Roman Pavlyuchenko 43 - Hrvoje Vejic 14. Att: 12,000]
@@ -525,7 +525,7 @@ Saturn    0-1 CSKA
 Rostov    1-1 Lokomotiv
   [Mikhail Osinov 23 - Dmitriy Sennikov 83. Att: 14,500]
 
-Round 24 [Total Att: 130,923; Average: 16,365]
+Round: 24 [Total Att: 130,923; Average: 16,365]
 [Sep 24]
 Lokomotiv 0-3 Torpedo
   [Aleksandr Panov 24, Sergei Budylin 48, Yevgeniy Lutsenko 90+2. Att: 13,123]
@@ -547,7 +547,7 @@ Terek     1-5 Rubin
   [Simon-Pierre Atangana 42 - Alejandro Domínguez 9, 80 pen,
    Giorgi Kinkladze 63, 72, Tomás Cízek 68. Att: 6,200]
 
-Round 25 [Total Att: 95,600; Average: 11,950]
+Round: 25 [Total Att: 95,600; Average: 11,950]
 [Oct 1]
 Shinnik   1-3 Torpedo
   [Aleksandr Shirko 25 - Igor Semshov 31, 70, Sergei Budylin 84 pen. Att: 11,600]
@@ -567,7 +567,7 @@ Amkar     0-0 Terek
 Rostov    1-0 Alania
   [Andrei Bochkov 16. Att: 9,500]
 
-Round 26 [Total Att: 118,140; Average: 14,768]
+Round: 26 [Total Att: 118,140; Average: 14,768]
 [Oct 15]
 Torpedo   2-0 Saturn
   [Igor Semshov 71, Aleksandr Panov 90. Att: 3,500]
@@ -591,7 +591,7 @@ Alania    2-4 Dinamo
   [Spartak Gogniyev 73, Sergiu Dadu 87 pen - Aleksandr Tochilin 16, Derlei Fernandes 34,
    Jorge Ribeiro 49, Ricardo Maniche 84. Saved PK: Jambulad Bazayev(A) 2. Att: 12,000]
 
-Round 27 [Total Att: 92,100; Average: 11,513]
+Round: 27 [Total Att: 92,100; Average: 11,513]
 [Oct 22]
 Spartak   1-0 Torpedo
   [Maksym Kalynychenko 70. Att: 11,000]
@@ -611,7 +611,7 @@ Dinamo    0-1 Terek
 Alania    0-0 Lokomotiv
   [Att: 18,000]
 
-Round 28 [Total Att: 87,784; Average: 10,973]
+Round: 28 [Total Att: 87,784; Average: 10,973]
 [Oct 29]
 Lokomotiv 1-1 Saturn
   [Diniyar Bilyaletdinov 50 - Jean Carlos 36. Att: 7,428]
@@ -632,7 +632,7 @@ Tom       3-2 Dinamo
   [Branislav Krunic 51, Denis Kiselyov 61, 88 -
    Danny Alves 8, Cícero Sanches 37. Att: 14,000]
 
-Round 29 [Nov 6. Total Att: 114,000; Average: 14,250]
+Round: 29 [Nov 6. Total Att: 114,000; Average: 14,250]
 Spartak   1-0 Saturn
   [Yegor Titov 75. Att: 23,000]
 Moskva    3-2 Shinnik
@@ -651,7 +651,7 @@ Alania    1-2 Tom
 Terek     0-3 Lokomotiv
   [Diniyar Bilyaletdinov 16, Dmitriy Khokhlov 69, Malkhazi Asatiani 75. Att: 6,000]
 
-Round 30 [Nov 19. Total Att: 103,350; Average: 12,919]
+Round: 30 [Nov 19. Total Att: 103,350; Average: 12,919]
 Lokomotiv 1-1 Spartak
   [Malkhazi Asatiani 85 - Yegor Titov 61. Att: 28,800 (full house)]
 CSKA      4-3 Alania
@@ -673,8 +673,8 @@ Tom       2-0 Terek
   [Atanas Bornosuzov 62, Hrvoje Vejic 80. Att: 13,500]
 
 
-* 1.CSKA Moskva                30  18  8  4  48-20  62  Champions, CL Qualifying Round 3
-* 2.Spartak Moskva             30  16  8  6  47-26  56  CL Qualifying Round 2
+* 1.CSKA Moskva                30  18  8  4  48-20  62  Champions, CL Qualifying Round: 3
+* 2.Spartak Moskva             30  16  8  6  47-26  56  CL Qualifying Round: 2
 * 3.Lokomotiv Moskva           30  14 14  2  41-18  56  UEFA Cup
 * 4.Rubin Kazan                30  14  9  7  45-31  51
 * 5.FK Moskva                  30  14  8  8  36-26  50
