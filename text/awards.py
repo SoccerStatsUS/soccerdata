@@ -145,8 +145,8 @@ def process_brazil_awards():
     return process_awards(brasileirao) + process_awards(mineiro) + process_awards(carioca) + process_awards(paulista) + process_awards(gaucho) + process_awards(baiano)
 
 def process_argentina_awards():
-    from soccerdata.data.lists.awards.argentina import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards.argentina import d, metropolitano
+    return process_awards(d) + process_awards(metropolitano)
 
 
 # Uefa
@@ -154,7 +154,15 @@ def process_argentina_awards():
 
 def process_uefa_awards():
     from soccerdata.data.lists.awards import uefa as u
-    l = ['portugal', 'spain', 'turkey', 'sweden', 'netherlands', 'france', 'germany', 'belgium', 'poland', 'norway', 'russia']
+    l = [
+        'spain', 'france', 'germany', 'italy', # major
+        'portugal', 'scotland',
+        'sweden', 'norway', 'denmark',
+        'netherlands', 'belgium', 
+        'czech', 'austria', 'switzerland', 'hungary', 'serbia', # 'romania',
+        'poland', 'russia',  #'ukraine', 
+        'turkey', 'greece',
+        ]
     a = []
     for name in l:
         a.extend(process_awards(getattr(u, name)))

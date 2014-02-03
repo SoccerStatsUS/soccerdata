@@ -40,10 +40,9 @@ def load_draft_data():
 
     draft_filenames = []
     draft_filenames.extend(MLS_DRAFTS)
-    draft_filenames.append('usl')
-    draft_filenames.append('nasl')
+    #draft_filenames.append('usl')
+    #draft_filenames.append('nasl')
     #draft_filenames.append(USMNT_DRAFTS)
-
 
     dp = DraftProcessor()
 
