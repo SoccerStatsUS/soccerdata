@@ -1,5 +1,6 @@
 BlockSource: http://rsssfbrasil.com/tablesrz/sp1914.htm
 Season: 1914
+Date-style: day first
 
 Competition: Campeonato Paulista APEA
 
@@ -65,7 +66,8 @@ Competition: Campeonato Paulista LPF
 05/07/1914; Luzitano; 1-0; Hydecroft
 12/07/1914; SC Internacional; 2-0; Luzitano
 14/07/1914; Corinthians; 5-1; Campos Elíseos
-19/07/1914; SC Internacional; 0-1; Germânia (Germânia abandoned the championship)
+19/07/1914; SC Internacional; 0-1; Germânia 
+*(Germânia abandoned the championship)
 26/07/1914; Hydecroft; 1-4; Corinthians
 02/08/1914; Minas Gerais; 1-0; Luzitano
 30/08/1914; Hydecroft; 0-1; Campos Elíseos
@@ -74,7 +76,8 @@ Competition: Campeonato Paulista LPF
 13/09/1914; Corinthians; 4-2; SC Internacional
 27/09/1914; Corinthians; 3-1; Minas Gerais
 04/10/1914; SC Internacional; 1-4; Campos Elíseos
-10/10/1914; Hydecroft; 2-0; Minas Gerais (Hydecroft abandoned the championship)
+10/10/1914; Hydecroft; 2-0; Minas Gerais 
+*(Hydecroft abandoned the championship)
 12/10/1914; SC Internacional; 1-3; Luzitano
 18/10/1914; Minas Gerais; 1-1; Luzitano
 08/11/1914; Corinthians; 4-0; Campos Elíseos

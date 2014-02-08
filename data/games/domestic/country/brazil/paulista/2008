@@ -64,7 +64,7 @@ Date: 1/16/2008
 Date: 1/17/2008
 
 ; Rio Preto      ; 2-2;  São Caetano
-; Palmeiras      ; 3-1;  Sertãozinho                (played in Barueri)
+; Palmeiras      ; 3-1;  Sertãozinho               ; Barueri
 ; Guaratinguetá  ; 1-2;  São Paulo
 ; Corinthians    ; 3-0;  Guarani
 ; Bragantino     ; 0-2;  Marília
@@ -81,7 +81,7 @@ Date: 1/20/2008
 ; Sertãozinho    ; 2-0;  Mirassol
 ; Santos              ; 0-0;  Palmeiras
 ; São Paulo           ; 1-0;  Rio Preto
-; São Caetano         ; 3-1;  Corinthians           (played in Mogi-Mirim)
+; São Caetano         ; 3-1;  Corinthians          ; Mogi-Mirim
 ; Guarani                  ; 0-2;  Bragantino
 ; Noroeste                 ; 0-1;  Guaratinguetá
 ; Marília                       ; 4-0;  Juventus
@@ -89,7 +89,7 @@ Date: 1/20/2008
 Round: 3
 Date: 1/23/2008
 
-; Portuguesa     ; 1-0;  São Caetano                (played in Jundiaí)
+; Portuguesa     ; 1-0;  São Caetano               ; Jundiaí
 ; Marília        ; 0-1;  Palmeiras
 ; Bragantino     ; 3-1;  Rio Preto
 ; Ponte Preta    ; 3-2;  Mirassol
@@ -101,14 +101,14 @@ Date: 1/24/2008
 
 ; Rio Claro      ; 2-1;  Sertãozinho
 ; Noroeste       ; 2-1;  Guarani
-; Juventus       ; 3-1;  Santos                     (played in Santo André)
+; Juventus       ; 3-1;  Santos                     ; Santo André
 
 Round: 4
 Date: 1/26/2008
 
 ; Rio Preto      ; 0-1;  Guaratinguetá
 ; Ponte Preta    ; 3-0;  São Caetano
-; Palmeiras      ; 2-2;  Mirassol                   (played in Barueri)
+; Palmeiras      ; 2-2;  Mirassol                  ; Barueri
 
 Date: 1/27/2008
 
@@ -128,11 +128,11 @@ Date: 1/29/2008
 Date: 1/30/2008
 
 ; Juventus       ; 3-2;  Portuguesa
-; Palmeiras      ; 0-1;  Ituano                     (played in Piracicaba)
-; São Caetano    ; 2-1;  Noroeste                              (played in Santo André)
+; Palmeiras      ; 0-1;  Ituano                     ; Piracicaba
+; São Caetano    ; 2-1;  Noroeste                           ; Santo André
 ; Bragantino     ; 3-1;  Ponte Preta
 ; Guarani        ; 1-0;  Marília
-; Sertãozinho    ; 0-0;  Corinthians                (played in Ribeirão Preto)
+; Sertãozinho    ; 0-0;  Corinthians              ; Ribeirão Preto
 ; São Paulo      ; 3-1;  Rio Claro
 
 Date: 1/31/2008
@@ -152,7 +152,7 @@ Date: 2/2/2008
 ; Ituano              ; 3-1;  Rio Claro
 ; Marília             ; 3-1;  Rio Preto
 ; Portuguesa          ; 0-0;  Bragantino
-; São Caetano         ; 0-3;  Juventus                      (played in Santo André)
+; São Caetano         ; 0-3;  Juventus                    ; Santo André
 
 Date: 2/3/2008
 
@@ -168,7 +168,7 @@ Date: 2/6/2008
 ; Rio Preto      ; 0-2;  Noroeste
 ; Paulista       ; 1-1;  Portuguesa
 ; Barueri        ; 1-1;  Corinthians
-; Palmeiras      ; 0-3;  Guaratinguetá              (played in São José do Rio Preto)
+; Palmeiras      ; 0-3;  Guaratinguetá              ; São José do Rio Preto
 
 Date: 2/7/2008
 
@@ -182,14 +182,14 @@ Date: 2/9/2008
 
 ; Noroeste       ; 1-1;  Bragantino
 ; Mirassol       ; 1-2;  Portuguesa
-; Palmeiras      ; 3-1;  Guarani                    (played in São José do Rio Preto)
+; Palmeiras      ; 3-1;  Guarani                    ; São José do Rio Preto
 
 Date: 2/10/2008
 
 ; Juventus       ; 0-0;  Barueri
 ; São Paulo      ; 3-2;  Santos
 ; Ituano              ; 1-2;  Corinthians
-; São Caetano         ; 0-2;  Paulista                      (played in Santo André)
+; São Caetano         ; 0-2;  Paulista                      ; Santo André
 ; Sertãozinho         ; 2-0;  Marília
 ; Ponte Preta         ; 1-0;  Rio Preto
 
@@ -200,7 +200,7 @@ Date: 2/12/2008
 Round: 9
 Date: 2/16/2008
 
-; Juventus       ; 0-4;  Palmeiras                  (played in Ribeirão Preto)
+; Juventus       ; 0-4;  Palmeiras              ;    Ribeirão Preto
 ; Guaratinguetá  ; 0-3;  Ponte Preta
 ; Barueri        ; 3-2;  Ituano
 ; Paulista       ; 4-1;  Mirassol
@@ -212,7 +212,7 @@ Date: 2/17/2008
 ; São Caetano    ; 2-1;  Rio Claro
 ; Rio Preto      ; 2-1;  Santos
 ; Guarani        ; 1-1;  Sertãozinho
-; Portuguesa     ; 0-0;  Noroeste                   (played in São José dos Campos)
+; Portuguesa     ; 0-0;  Noroeste                   ; São José dos Campos
 
 Round: 10
 Date: 2/20/2008
@@ -244,7 +244,7 @@ Date: 2/24/2008
 ; Ponte Preta    ; 0-1;  Corinthians
 ; São Paulo      ; 2-2;  Noroeste
 ; Santos              ; 4-1;  Ituano
-; Portuguesa          ; 1-0;  Guarani                       (played in São José dos Campos)
+; Portuguesa          ; 1-0;  Guarani                      ; São José dos Campos
 ; Marília                  ; 0-1;  Mirassol
 
 Date: 2/26/2008
@@ -286,7 +286,7 @@ Date: 3/7/2008
 Date: 3/8/2008
 
 ; Rio Claro      ; 1-0;  Juventus
-; Portuguesa     ; 2-0;  São Paulo                  (played in Ribeirão Preto)
+; Portuguesa     ; 2-0;  São Paulo                  ; Ribeirão Preto
 ; Marília        ; 0-0;  Ponte Preta
 
 Date: 3/9/2008
@@ -324,8 +324,8 @@ Date: 3/15/2008
 Date: 3/16/2008
 
 ; Guaratinguetá  ; 1-0;  Bragantino
-; São Caetano    ; 0-1;  Santos                     (played in Santo André)
-; Palmeiras      ; 4-1;  São Paulo                             (played in Ribeirão Preto)
+; São Caetano    ; 0-1;  Santos                    ; Santo André
+; Palmeiras      ; 4-1;  São Paulo                             ; Ribeirão Preto
 ; Ituano              ; 3-1;  Paulista
 ; Ponte Preta         ; 4-2;  Guarani
 ; Mirassol            ; 3-1;  Rio Claro
@@ -356,7 +356,7 @@ Date: 3/26/2008
 
 ; Juventus       ; 0-1;  Rio Preto
 ; Paulista       ; 1-1;  Guarani
-; São Caetano    ; 0-0;  Bragantino                 (played in Sorocaba)
+; São Caetano    ; 0-0;  Bragantino                 ; Sorocaba
 ; Marília        ; 2-0;  Ituano
 ; Barueri        ; 3-0;  Noroeste
 ; Palmeiras      ; 1-0;  Portuguesa
@@ -424,7 +424,7 @@ Date: 4/6/2008
 
 
 
-TROFÉU "CAMPEÃO DO INTERIOR" (Countryside Champions)
+*TROFÉU "CAMPEÃO DO INTERIOR" (Countryside Champions)
 
 Round: Semifinals
 
@@ -456,7 +456,7 @@ Round: Finals
 
 
 
-LEAGUE SEMIFINALS:
+*LEAGUE SEMIFINALS:
 
 
 
@@ -511,7 +511,7 @@ Round: Finals
 *
 * 510 goals/ 196 matches = 2.60 gpm
 
-Topscorer: Alex Mineiro (Palmeiras), 15 goals
+*Topscorer: Alex Mineiro (Palmeiras), 15 goals
 
 
 *Prepared and maintained by José Jorge Farah for the Rec.Sport.Soccer Statistics Foundation and RSSSF Brazil

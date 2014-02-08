@@ -1,5 +1,6 @@
 BlockSource: http://rsssfbrasil.com/tablesrz/sp1916.htm
 Season: 1916
+Date-style: day first
 
 Competition: Campeonato Paulista APEA
 
@@ -73,7 +74,8 @@ Competition: Campeonato Paulista LPF
 02/07/1916; Vicentino; 1-1; Minas Gerais
 09/07/1916; Maranhão; 2-0; Luzitano
 23/07/1916; Campos Elíseos; 0-1; Ruggerone
-30/07/1916; Germânia; 0-4; Americano (Germânia abandoned the tournament)
+30/07/1916; Germânia; 0-4; Americano 
+*(Germânia abandoned the tournament)
 30/07/1916; Vicentino; 0-W;O Ruggerone 
 06/08/1916; Corinthians; 6-0; Alumni
 13/08/1916; União Lapa; 4-0; Ítalo
@@ -95,7 +97,8 @@ Competition: Campeonato Paulista LPF
 08/10/1916; Maranhão; 1-0; Paysandu
 08/10/1916; Ruggerone; 0-0; Luzitano
 12/10/1916; União Lapa; 0-4; Campos Elíseos
-12/10/1916; SC Internacional; 3-1; Alumni (Internacional abandoned the tournament)
+12/10/1916; SC Internacional; 3-1; Alumni 
+*(Internacional abandoned the tournament)
 15/10/1916; Luzitano; 0-2; Vicentino
 15/10/1916; Paysandu; 0-2; Ítalo
 15/10/1916; Minas Gerais; 0-W;O Ruggerone 

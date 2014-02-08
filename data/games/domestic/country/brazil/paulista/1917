@@ -1,6 +1,7 @@
 BlockSource: http://rsssfbrasil.com/tablesrz/sp1917.htm
 Competition: Campeonato Paulista 
-Season: 19171917
+Season: 1917
+Date-style: day first
 
 08/04/1917; AA São Bento; 2-2; AA das Palmeiras
 08/04/1917; Corinthians; 1-0; Ypiranga
@@ -73,7 +74,7 @@ Season: 19171917
 18/11/1917; Santos; 1-1; Mackenzie
 18/11/1917; AA das Palmeiras; 1-2; Corinthians
 5/11/1917 ;Palestra Itália; 6-1; Ypiranga
-25/11/1917; AA São Bento; O-W; Santos
+*25/11/1917; AA São Bento; O-W; Santos
 *O Paulistano conquistou o Campeonato Paulista de 1917
 
 

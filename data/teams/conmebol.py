@@ -193,6 +193,12 @@ l = [
         },
 
     {
+        'name': 'Mogi Mirim',
+        'founded': datetime.datetime(1932, 2, 1),
+        'city': 'Sao Paulo, Brazil',
+        },
+
+    {
         'name': 'União São João',
         'founded': 1981,
         'city': 'Araras, Brazil',
@@ -878,6 +884,18 @@ l = [
         'name': 'Atlético Paranaense',
         'founded': datetime.datetime(1924, 5, 26),
         'city': 'Curitiba, Brazil',
+        },
+
+    {
+        'name': 'América de Três Rios',
+        'founded': 1929,
+        'city': 'Tres Rios, Brazil',
+        },
+
+    {
+        'name': 'América (Teófilo Otoni)',
+        'founded': 1936,
+        'city': 'Teófilo Otoni, Brazil',
         },
 
     {

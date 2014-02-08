@@ -1,5 +1,6 @@
 BlockSource: http://rsssfbrasil.com/tablesrz/sp1915.htm
 Season: 1915
+Date-style: day first
 
 Competition: Campeonato Paulista APEA
 
@@ -12,7 +13,8 @@ Competition: Campeonato Paulista APEA
 16/05/1915; Paulistano; 2-0; AA São Bento
 23/05/1915; AA São Bento; 0-4; AA das Palmeiras
 30/05/1915; Paulistano; 0-1; Mackenzie
-06/06/1915; AA São Bento; 1-1; Scottish Wanderers (points awarded to São Bento)
+06/06/1915; AA São Bento; 1-1; Scottish Wanderers 
+*(points awarded to São Bento)
 13/06/1915; Mackenzie; 1-1; AA das Palmeiras
 20/06/1915; Ypiranga; 0-2; Paulistano
 04/07/1915; Paulistano; 3-1; Scottish Wanderers
@@ -29,7 +31,7 @@ Competition: Campeonato Paulista APEA
 19/09/1915; Ypiranga; 2-1; AA São Bento
 26/09/1915; Mackenzie; 1-2; AA das Palmeiras
 10/10/1915; Ypiranga; 3-0; Scottish Wanderers
-28/10/1915; Paulista;no-A;A São Bento (not played)
+28/10/1915; Paulistano-AA; np; São Bento
 14/11/1915; Mackenzie; 2-0; AA São Bento
 28/11/1915; Ypiranga; 1-0; AA São Bento
 05/12/1915; AA das Palmeiras; 3-2; AA São Bento

@@ -1,37 +1,29 @@
-http://www.rsssf.com/tablesb/bulg2010.html
+BlockSource: http://www.rsssf.com/tablesb/bulg2010.html
+Competition: A Football Group
+Season: 2009-2010
 
-Bulgaria 2009/10
+* 1.Litex (Lovech)                     30  22  4  4  59-17  70  Champions
+* 2.CSKA (Sofija)                      30  16 10  4  51-25  58
+* 3.Levski (Sofija)                    30  17  6  7  57-26  57
+* 4.Lokomotiv (Sofija)                 30  15  7  8  47-33  52
+* 5.Chernomorets Burgas (Burgas)       30  15  6  9  44-29  51
+* 6.Slavia (Sofija)                    30  14  8  8  34-28  50
+* 7.Cherno more (Varna)                30  13  9  8  40-28  48
+* 8.Minyor (Pernik)                    30  13  6 11  38-26  45
+* 9.Pirin Blagoevgrad (Blagoevgrad)    30  11 10  9  34-32  43
+*10.Beroe (Stara Zagora)               30  10  8 12  30-36  38
+*11.Montana (Montana)                  30   9  9 12  30-37  36
+*12.Lokomotiv 1936 (Plovdiv)           30   9  6 15  36-52  33
+*13.Sliven 2000 (Sliven)               30   9  5 16  29-40  32
+*-------------------------------------------------------------
+*14.Lokomotiv (Mezdra)                 30   7  6 17  30-48  27  Relegated
+*15.Sportist (Svoge)                   30   5  4 21  23-59  19  Relegated
+* -.Botev (Plovdiv)                    30   1  4 25  12-78   7  [*]  Relegated
+*
+*[*] Botev (Plovdiv) excluded during winter break; all remaining matches
+*    are awarded 0-3 against them
 
-A grupa
-Kupa
-Super Cup
-B grupa
-A grupa
-
-Final Table:
-
- 1.Litex (Lovech)                     30  22  4  4  59-17  70  Champions
- 2.CSKA (Sofija)                      30  16 10  4  51-25  58
- 3.Levski (Sofija)                    30  17  6  7  57-26  57
- 4.Lokomotiv (Sofija)                 30  15  7  8  47-33  52
- 5.Chernomorets Burgas (Burgas)       30  15  6  9  44-29  51
- 6.Slavia (Sofija)                    30  14  8  8  34-28  50
- 7.Cherno more (Varna)                30  13  9  8  40-28  48
- 8.Minyor (Pernik)                    30  13  6 11  38-26  45
- 9.Pirin Blagoevgrad (Blagoevgrad)    30  11 10  9  34-32  43
-10.Beroe (Stara Zagora)               30  10  8 12  30-36  38
-11.Montana (Montana)                  30   9  9 12  30-37  36
-12.Lokomotiv 1936 (Plovdiv)           30   9  6 15  36-52  33
-13.Sliven 2000 (Sliven)               30   9  5 16  29-40  32
--------------------------------------------------------------
-14.Lokomotiv (Mezdra)                 30   7  6 17  30-48  27  Relegated
-15.Sportist (Svoge)                   30   5  4 21  23-59  19  Relegated
- -.Botev (Plovdiv)                    30   1  4 25  12-78   7  [*]  Relegated
-
-[*] Botev (Plovdiv) excluded during winter break; all remaining matches
-    are awarded 0-3 against them
-
-Round 1
+Round: 1
 [Aug 7]
 Beroe           2-1 Lokomotiv Sf
 [Aug 8]
@@ -45,7 +37,7 @@ Chernomorets BB 2-1 Cherno more
 [Aug 9]
 Sportist        1-1 Slavia
 
-Round 2
+Round: 2
 [Aug 14]
 Lokomotiv Sf    3-2 Sportist
 [Aug 15]
@@ -59,7 +51,7 @@ Litex           0-1 Pirin BB
 [Aug 17]
 Chernomorets BB 2-1 Lokomotiv Pd    
 
-Round 3
+Round: 3
 [Aug 21]
 Beroe           1-1 Chernomorets BB 
 [Aug 22]
@@ -74,7 +66,7 @@ Lokomotiv Pd    1-0 Cherno more
 [Nov 25]
 Levski          2-2 Litex 
 
-Round 4
+Round: 4
 [Aug 28]
 Lokomotiv Pd    1-3 Beroe
 [Aug 29]
@@ -87,7 +79,7 @@ Litex           3-0 Montana
 Cherno more     3-0 Botev Pd
 CSKA            4-0 Lokomotiv Mz
 
-Round 5
+Round: 5
 [Sep 11]
 Montana         2-0 Slavia          
 [Sep 12]
@@ -101,7 +93,7 @@ Sliven 2000     1-2 Litex
 [Sep 14]
 Botev Pd        0-3 Minyor Pk       
 
-Round 6
+Round: 6
 [Sep 18]
 Lokomotiv Sf    0-0 Montana
 [Sep 19]
@@ -115,7 +107,7 @@ CSKA            2-0 Levski
 [Sep 21]
 Lokomotiv Pd    0-1 Lokomotiv Mz
 
-Round 7
+Round: 7
 [Sep 25]
 Sliven 2000     1-3 Lokomotiv Sf    
 [Sep 26]
@@ -129,7 +121,7 @@ Levski          0-1 Chernomorets BB
 [Sep 28]
 Pirin BB        0-0 Lokomotiv Pd    
 
-Round 8
+Round: 8
 [Oct 2]
 Slavia          1-0 Minyor Pk       
 [Oct 3]
@@ -143,7 +135,7 @@ CSKA            1-0 Sliven 2000
 [Oct 5]
 Beroe           1-1 Pirin BB        
 
-Round 9
+Round: 9
 [Oct 16]
 Sliven 2000     0-1 Chernomorets BB   
 [Oct 17]
@@ -157,7 +149,7 @@ Levski          0-1 Beroe
 [Oct 18]
 Minyor Pk       1-2 Lokomotiv Sf    
 
-Round 10
+Round: 10
 [Oct 23]
 Beroe           0-0 Montana         
 [Oct 24]
@@ -171,7 +163,7 @@ CSKA            0-3 Minyor Pk
 [Oct 26]
 Cherno more     1-1 Slavia          
 
-Round 11
+Round: 11
 [Oct 30]
 Pirin BB        1-0 Cherno more      
 [Oct 31]
@@ -185,7 +177,7 @@ Litex           2-0 CSKA
 [Nov 2]
 Sliven 2000     1-1 Beroe           
 
-Round 12
+Round: 12
 [Nov 6]
 Lokomotiv Mz    0-2 Montana         
 [Nov 7]
@@ -199,7 +191,7 @@ CSKA            2-0 Slavia
 [Nov 9]
 Lokomotiv Pd    3-3 Minyor Pk       
 
-Round 13
+Round: 13
 [Nov 20]
 Montana         0-3 Pirin BB        
 [Nov 21]
@@ -213,7 +205,7 @@ Slavia          3-2 Chernomorets BB
 [Nov 23]
 Minyor Pk       3-0 Beroe           
 
-Round 14
+Round: 14
 [Nov 27]
 Pirin BB        2-0 Sliven 2000     
 [Nov 28]
@@ -227,7 +219,7 @@ Chernomorets BB 0-2 Lokomotiv Sf
 [Nov 30]
 Lokomotiv Pd    0-2 Slavia          
 
-Round 15
+Round: 15
 [Dec 4]
 Slavia          3-1 Beroe
 [Dec 5]
@@ -241,7 +233,7 @@ CSKA            0-0 Chernomorets BB
 Montana         1-2 Cherno more
 Litex           2-0 Sportist
 
-Round 16
+Round: 16
 [Feb 26]
 Litex           3-0 Lokomotiv Mz    
 [Feb 27]
@@ -255,7 +247,7 @@ Lokomotiv Sf    2-0 Beroe
 [Mar 1]
 Cherno more     2-0 Chernomorets BB 
 
-Round 17
+Round: 17
 [Mar 5]
 Lokomotiv Mz    0-0 Slavia          
 [Mar 6]
@@ -269,7 +261,7 @@ Montana         awd Botev Pd        [awarded 3-0]
 [Mar 8]
 Sliven 2000     0-0 Cherno more     
 
-Round 18
+Round: 18
 [Mar 12]
 Minyor Pk       1-1 Montana         
 [Mar 13]
@@ -283,7 +275,7 @@ Litex           3-0 Levski
 [Mar 15]
 Chernomorets BB 0-2 Beroe  
 
-Round 19
+Round: 19
 [Mar 19]
 Botev Pd        awd Cherno more     [awarded 0-3]
 Beroe           0-1 Lokomotiv Pd    
@@ -297,7 +289,7 @@ Lokomotiv Mz    awd CSKA            [awarded 4-0; abandoned at 1-0]
 [Mar 22]
 Sliven 2000     1-3 Minyor Pk       
 
-Round 20
+Round: 20
 [Mar 23]
 Lokomotiv Pd    3-0 Sportist        
 [Mar 24]
@@ -310,7 +302,7 @@ Minyor Pk       awd Botev Pd        [awarded 3-0]
 Cherno more     0-0 Beroe           
 Litex           1-0 Sliven 2000     
 
-Round 21
+Round: 21
 [Mar 27]
 Lokomotiv Mz    0-0 Lokomotiv Pd    
 Levski          0-0 CSKA            
@@ -323,7 +315,7 @@ Botev Pd        awd Litex           [awarded 0-3]
 Montana         0-1 Lokomotiv Sf    
 Pirin BB        1-3 Chernomorets BB 
 
-Round 22
+Round: 22
 [Apr 2]
 Lokomotiv Pd    2-0 Pirin BB        
 [Apr 3]
@@ -337,7 +329,7 @@ Beroe           1-0 Lokomotiv Mz
 [Apr 5]
 Litex           1-0 Minyor Pk       
 
-Round 23
+Round: 23
 [Apr 9]
 Minyor Pk       0-1 Slavia          
 [Apr 10]
@@ -351,7 +343,7 @@ Litex           4-0 Cherno more
 [Apr 12]
 Botev Pd        awd Lokomotiv Sf    [awarded 0-3]
 
-Round 24
+Round: 24
 [Apr 13]
 Lokomotiv Sf    1-1 Minyor Pk       
 Chernomorets BB 2-0 Sliven 2000     
@@ -364,7 +356,7 @@ Beroe           1-3 Levski
 Lokomotiv Pd    2-4 Montana         
 CSKA            awd Botev Pd        [awarded 3-0]
 
-Round 25
+Round: 25
 [Apr 17]
 Slavia          1-0 Cherno more     
 Pirin BB        3-1 Lokomotiv Mz    
@@ -377,7 +369,7 @@ Litex           2-0 Lokomotiv Sf
 [Apr 19]
 Sliven 2000     1-1 Lokomotiv Pd    
 
-Round 26
+Round: 26
 [Apr 20]
 Lokomotiv Mz    1-1 Levski          
 [Apr 21]
@@ -390,7 +382,7 @@ Beroe           0-1 Sliven 2000
 Chernomorets BB 3-1 Minyor Pk       
 Lokomotiv Pd    awd Botev Pd        [awarded 3-0]
 
-Round 27
+Round: 27
 [Apr 24]
 Slavia          1-3 CSKA            
 Levski          2-0 Pirin BB        
@@ -403,7 +395,7 @@ Botev Pd        awd Beroe           [awarded 0-3]
 Montana         1-1 Lokomotiv Mz    
 Minyor Pk       0-0 Lokomotiv Pd    
 
-Round 28 [May 2]
+Round: 28 [May 2]
 Sportist        awd Botev Pd        [awarded 3-0]
 Lokomotiv Pd    0-3 Litex           
 Beroe           0-3 Minyor Pk       
@@ -413,7 +405,7 @@ Pirin BB        2-0 Montana
 Lokomotiv Mz    1-1 Sliven 2000     
 Cherno more     1-1 Levski          
 
-Round 29 [May 9]
+Round: 29 [May 9]
 Botev Pd        awd Lokomotiv Mz    [awarded 0-3]
 Minyor Pk       1-2 Sportist
 Montana         0-2 Levski
@@ -423,7 +415,7 @@ Litex           3-0 Beroe
 CSKA            2-2 Cherno more
 Slavia          1-3 Lokomotiv Pd
 
-Round 30 [May 16]
+Round: 30 [May 16]
 Pirin BB        awd Botev Pd        [awarded 3-0]
 Sportist        2-4 Litex
 Lokomotiv Pd    2-1 Lokomotiv Sf
@@ -456,880 +448,8 @@ Final Table:
 [*] Botev (Plovdiv) excluded during winter break; all remaining matches
     are awarded 0-3 against them
 
-Kupa
-
-
-Round 1
-[Sep 30]
-Devnja          1-5 Nesebar
-Maritsa         3-2 Balkan          [aet]
-[Oct 8]
-Lokomotiv Sp    1-3 Botev Vr 
- 
-1/32 Finals
-[Oct 20]
-Ljubimets       0-5 Brestnik
-[Oct 21] 
-Trjavna         0-1 Vihren          [aet]
-Botev Vr        2-0 Spartak Vn 
-Chernomorets Pm 0-1 Botev Kd        [aet]
-Svilengrad      1-0 Akademik 
-Maritsa         4-1 Vidima-Rakovski
-Dunav           2-1 Spartak Pd      [aet]
-Belite orli     2-1 Dobrudzha       [aet]
-Septemvri       2-0 Svetkavitsa
-Marek           4-0 Nesebar
-Bdin            0-1 Rilski sportist
-Pirin GD        2-0 Etar 1924
-Chavdar         1-0 Bansko
-Minyor Rd       2-1 Kom-Minyor
-Panajot Volov   0-2 Chernomorets Bk
-
-NB: top level clubs and Kaliakra enter at 1/16 final stage
-
-1/16 Finals
-[Nov 24]
-Sliven 2000     1-0 Pirin BB
-[Nov 25]
-Chernomorets BB 0-2 Cherno more
-Botev Vr        2-0 Chernomorets Bk
-Vihren          0-0 Slavia          [aet, 3-4 pen]
-Chernomorets Pm 3-0 Dunav
-Marek           2-0 Belite orli
-Svilengrad      0-1 CSKA 
-Rilski sportist 0-2 Chavdar
-Lokomotiv Sf    2-1 Botev Pd
-Kaliakra        2-0 Lokomotiv Pd
-Maritsa         3-1 Minyor Rd
-Lokomotiv Mz    3-0 Sportist
-[Dec 2]
-Septemvri       0-0 Minyor Pk       [aet, 4-5 pen]
-[Dec 3]
-Pirin GD        0-4 Litex
-[Dec 9]
-Brestnik        0-2 Levski
-[Dec 10]
-Montana         0-1 Beroe 
-
-1/8 Finals
-[Dec 12]
-CSKA            1-0 Litex
-Minyor Pk       1-0 Sliven 2000
-Chernomorets Pm 1-0 Botev Vr
-Lokomotiv Sf    1-2 Slavija 
-Maritsa         0-1 Chavdar 
-Marek           1-5 Kaliakra
-[Dec 13]
-Lokomotiv Mz    0-3 Beroe 
-Cherno more     4-1 Levski 
-
-Quarterfinals [Mar 31]
-Kaliakra        0-0 Cherno more     [aet, 3-2 pen]
-Chavdar         0-0 Slavia          [aet, 4-2 pen]
-Chernomorets Pm 2-0 Minyor Pk
-Beroe           1-0 CSKA 
-
-Semifinals [Apr 28]
-Chernomorets Pm 1-1 Kaliakra        [aet, 3-0 pen]
-Chavdar         0-1 Beroe
-
-Final [May 5]
-Beroe           1-0 Chernomorets Pm
-
-
-Super Cup
-
-[Aug 11]
-Litex           2-1 Beroe           [aet]
-B grupa
-
-Zapadna B grupa | Iztochna B grupa | Promotion Playoff
-
-Zapadna B grupa
-
-Final Table:
-
- 1.Vidima Rakovski (Sevlievo)         30  19  3  8  53-32  60  Promoted
--------------------------------------------------------------
- 2.Akademik (Sofija)                  30  18  5  7  49-37  59  [2 2 0 0 5-3 6]  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Bansko 1951 (Bansko)               30  17  8  5  50-22  59  [2 0 0 2 3-5 0]
- 4.Vihren (Sandanski)                 30  16  8  6  45-24  56
- 5.Etar 1924 (Veliko Tarnovo)         30  13  8  9  47-38  47
- 6.Botev (Vratsa)                     30  11 12  7  39-26  45
- 7.Septemvri (Simitli)                30  13  4 13  40-34  43  [2 1 0 1 2-2 3; 1 ag]
- 8.Chavdar (Etropole)                 30  12  7 11  34-32  43  [2 1 0 1 2-2 3; 0 ag]
- 9.Balkan (Botevgrad)                 30   9 14  7  35-28  41  [2 1 0 1 3-3 3; 1 ag]
-10.Marek (Dupnitsa)                   30  12  5 13  35-36  41  [2 1 0 1 3-3 3; 1 ag]
-11.Pirin (Gotse Delchev)              30  11  7 12  35-38  40
-12.Kom-Minyor (Berkovitsa)            30  10  8 12  36-43  38
-13.Botev (Krivodol)                   30   8  7 15  21-40  31
-14.Rilski sportist (Samokov)          30   8  6 16  32-49  30
--------------------------------------------------------------
-15.Bdin (Vidin)                       30   4  8 18  26-47  20  Relegated
- -.Belite orli (Pleven)               30   2  4 24  20-71  10  [*]
-
-[*] Belite orli (Pleven) excluded during winter break; all remaining
-    matches are awarded 0-3 against them
-
-Round 1
-[Aug 8]
-Kom-Minyor      1-1 Vidima Rakovski 
-Vihren          6-2 Rilski sportist 
-Marek           0-0 Etar 
-Chavdar         2-1 Septemvri 
-Bansko          4-1 Belite orli 
-Botev V         1-0 Botev K
-[Aug 9]
-Akademik        2-1 Pirin GD
-[Sep 4]
-Bdin            0-0 Balkan 
-
-Round 2 [Aug 15]
-Septemvri       5-1 Bdin 
-Vidima Rakovski 3-0 Botev K
-Belite orli     2-2 Botev V
-Balkan          1-1 Bansko 
-Pirin GD        3-0 Chavdar
-Etar            3-0 Akademik 
-Rilski sportist 2-2 Marek
-Kom-Minyor      1-0 Vihren  
-
-Round 3 
-[Aug 22]
-Vihren          3-1 Vidima Rakovski 
-Marek           3-1 Kom-Minyor      
-Akademik        2-1 Rilski sportist  
-Chavdar         2-1 Etar  
-Bansko          1-0 Septemvri 
-Botev V         3-1 Balkan 
-Botev K         2-1 Belite orli 
-[Nov 21]
-Bdin            2-0 Pirin GD
-
-Round 3 [Aug 29]
-Etar            2-2 Bdin 
-Vidima Rakovski 2-0 Belite orli  
-Balkan          2-0 Botev K     
-Septemvri       1-1 Botev V         
-Pirin GD        1-3 Bansko   
-Rilski sportist 1-0 Chavdar 
-Kom-Minyor      1-1 Akademik
-Vihren          3-0 Marek  
-
-Round 5
-[Sep 12]
-Marek           0-1 Vidima Rakovski 
-Chavdar         1-0 Kom-Minyor      
-Bansko          1-0 Etar  
-Botev V         0-2 Pirin GD
-Botev K         1-1 Septemvri
-Belite orli     2-2 Balkan 
-[Sep 13]
-Bdin            1-1 Rilski sportist 
-Akademik        1-0 Vihren  
-
-Round 6 [Sep 19]
-Kom-Minyor      3-2 Bdin 
-Vidima Rakovski 1-0 Balkan 
-Septemvri       0-0 Belite orli 
-Pirin GD        0-1 Botev K  
-Etar            2-2 Botev V   
-Rilski sportist 2-0 Bansko  
-Vihren          1-1 Chavdar 
-Marek           1-2 Akademik 
-
-Round 7 [Sep 26]
-Bdin            1-3 Vihren
-Akademik        4-1 Vidima Rakovski  
-Chavdar         0-1 Marek 
-Bansko          4-0 Kom-Minyor      
-Botev V         1-1 Rilski sportist  
-Botev K         0-0 Etar 
-Belite orli     4-1 Pirin GD       
-Balkan          2-0 Septemvri 
-
-Round 8 [Oct 3]
-Marek           2-1 Bdin 
-Vidima Rakovski 4-1 Septemvri 
-Pirin GD        0-0 Balkan 
-Etar            2-1 Belite orli  
-Rilski sportist 2-0 Botev K       
-Kom-Minyor      2-2 Botev V       
-Vihren          0-0 Bansko   
-Akademik        0-0 Chavdar 
-
-Round 9 [Oct 17]
-Bdin            1-3 Akademik 
-Chavdar         2-1 Vidima Rakovski   
-Bansko          2-1 Marek   
-Botev V         0-0 Vihren
-Botev K         1-1 Kom-Minyor      
-Belite orli     1-2 Rilski sportist 
-Balkan          4-2 Etar  
-Septemvri       4-1 Pirin GD     
-
-Round 10
-[Oct 24]
-Chavdar         2-1 Bdin 
-Vidima Rakovski 6-1 Pirin GD        
-Etar            2-0 Septemvri 
-Rilski sportist 0-0 Balkan
-Kom-Minyor      1-1 Belite orli
-Vihren          1-0 Botev K  
-Marek           0-0 Botev V    
-[Oct 27]
-Akademik        2-1 Bansko 
-
-Round 11 [Oct 31]
-Bdin            1-1 Vidima Rakovski 
-Bansko          1-0 Chavdar 
-Botev V         3-0 Akademik 
-Botev K         1-0 Marek  
-Belite orli     1-2 Vihren   
-Balkan          1-1 Kom-Minyor      
-Septemvri       3-0 Rilski sportist   
-Pirin GD        2-1 Etar 
-
-Round 12 [Nov 7]
-Akademik        1-2 Botev K         
-Chavdar         2-1 Botev V         
-Bdin            0-1 Bansko          
-Kom-Minyor      3-0 Septemvri       
-Marek           1-0 Belite orli     
-Rilski sportist 1-2 Pirin GD        
-Vidima Rakovski 2-1 Etar 
-Vihren          0-0 Balkan          
-
-Round 13
-[Nov 13]
-Belite orli     1-3 Akademik        
-[Nov 14]
-Balkan          2-1 Marek           
-Botev K         2-1 Chavdar         
-Botev V         1-0 Bdin            
-Etar            2-0 Rilski sportist 
-Pirin GD        0-1 Kom-Minyor      
-Septemvri       4-0 Vihren          
-[Nov 15]
-Bansko          2-0 Vidima Rakovski 
-
-Round 14
-[Nov 28]
-Bansko          3-1 Botev V         
-Chavdar         1-0 Belite orli     
-Bdin            2-0 Botev K         
-Kom-Minyor      2-2 Etar            
-Marek           1-0 Septemvri       
-Vihren          1-1 Pirin GD        
-[Nov 29]
-Vidima Rakovski 3-1 Rilski sportist 
-Akademik        1-0 Balkan          
-
-Round 15
-[Dec 5]
-Balkan          0-0 Chavdar
-Belite orli     5-1 Bdin
-Botev K         0-4 Bansko
-Botev V         4-1 Vidima Rakovski
-Etar            1-2 Vihren
-Rilski sportist 0-1 Kom-Minyor
-Septemvri       1-2 Akademik
-[Dec 6]
-Pirin GD        0-1 Marek
-
-Round 16 [Feb 27]
-Balkan          2-1 Bdin
-Belite orli     awd Bansko          [awarded 0-3]
-Botev K         1-0 Botev V         
-Etar            2-1 Marek
-Pirin GD        2-0 Akademik
-Rilski sportist 1-0 Vihren
-Septemvri       1-0 Chavdar
-Vidima Rakovski 1-0 Kom-Minyor
-
-Round 17 [Mar 6]
-Akademik        1-2 Etar            
-Botev K         0-2 Vidima Rakovski 
-Botev V         awd Belite orli     [awarded 3-0]
-Chavdar         2-2 Pirin GD        
-Bdin            0-1 Septemvri       
-Marek           3-0 Rilski sportist 
-Vihren          3-1 Kom-Minyor
-Bansko          1-1 Balkan          
-
-Round 18
-[Mar 14]
-Vidima Rakovski 1-0 Vihren          
-[Mar 16]
-Kom-Minyor      1-2 Marek           
-Etar            1-0 Chavdar         
-[Mar 17]
-Rilski sportist 1-3 Akademik        
-Septemvri       2-0 Bansko          
-Balkan          0-0 Botev V         
-Belite orli     awd Botev K         [awarded 0-3]
-Pirin GD        1-0 Bdin            
-
-Round 19 [Mar 20]
-Akademik        2-2 Kom-Minyor      
-Bansko          0-0 Pirin GD        
-Belite orli     awd Vidima Rakovski [awarded 0-3]
-Botev K         1-3 Balkan          
-Botev V         0-1 Septemvri       
-Chavdar         1-1 Rilski sportist 
-Bdin            1-1 Etar            
-Marek           0-1 Vihren          
-
-Round 20 [Mar 24]
-Balkan          awd Belite orli     [awarded 3-0]
-Etar            1-2 Bansko          
-Kom-Minyor      0-2 Chavdar         
-Pirin GD        0-0 Botev V         
-Rilski sportist 2-1 Bdin            
-Septemvri       1-0 Botev K         
-Vidima Rakovski 2-0 Marek           
-Vihren          1-0 Akademik        
-
-Round 21 [Mar 28]
-Akademik        2-1 Marek           
-Balkan          0-1 Vidima Rakovski 
-Bansko          4-1 Rilski sportist 
-Belite orli     awd Septemvri       [awarded 0-3]
-Botev K         0-2 Pirin GD        
-Botev V         4-0 Etar            
-Chavdar         2-0 Vihren          
-Bdin            0-1 Kom-Minyor      
-
-Round 22 
-[Apr 3]
-Etar            3-0 Botev K         
-Kom-Minyor      0-2 Bansko          
-Pirin GD        awd Belite orli     [awarded 3-0]
-Rilski sportist 0-1 Botev V         
-Septemvri       0-0 Balkan          
-Vidima Rakovski 1-3 Akademik        
-Vihren          1-0 Bdin            
-[Apr 4]
-Marek           3-0 Chavdar         
-
-Round 23 [Apr 10]
-Balkan          1-1 Pirin GD        
-Bansko          1-1 Vihren          
-Belite orli     awd Etar            [awarded 0-3]
-Botev K         2-1 Rilski sportist 
-Botev V         1-0 Kom-Minyor      
-Chavdar         3-0 Akademik        
-Bdin            0-0 Marek           
-Septemvri       1-0 Vidima Rakovski 
-
-Round 24 [Apr 14]
-Akademik        1-0 Bdin            
-Etar            1-1 Balkan          
-Kom-Minyor      1-0 Botev K         
-Marek           1-1 Bansko          
-Pirin GD        2-1 Septemvri       
-Rilski sportist awd Belite orli     [awarded 3-0]
-Vidima Rakovski 2-0 Chavdar         
-Vihren          1-0 Botev V         
-
-Round 25
-[Apr 17]
-Bansko          2-3 Akademik        
-[Apr 18]
-Balkan          1-0 Rilski sportist 
-Belite orli     awd Kom-Minyor      [awarded 0-3]
-Botev K         1-1 Vihren          
-Botev V         4-1 Marek           
-Bdin            1-0 Chavdar         
-Pirin GD        0-0 Vidima Rakovski 
-Septemvri       0-1 Etar            
-
-Round 26 [Apr 21]
-Akademik        1-1 Botev V         
-Chavdar         1-1 Bansko          
-Etar            2-1 Pirin GD        
-Kom-Minyor      1-2 Balkan          
-Marek           2-1 Botev K         
-Rilski sportist 2-1 Septemvri       
-Vidima Rakovski 5-2 Bdin            
-Vihren          awd Belite orli     [awarded 3-0]
-
-Round 27 [Apr 25]
-Balkan          1-1 Vihren          
-Bansko          2-0 Bdin            
-Belite orli     awd Marek           [awarded 0-3]
-Botev K         0-0 Akademik        
-Botev V         3-2 Chavdar         
-Etar            3-0 Vidima Rakovski 
-Pirin GD        1-0 Rilski sportist 
-Septemvri       2-1 Kom-Minyor      
-
-Round 28 [May 1]
-Akademik        awd Belite orli     [awarded 3-0]
-Chavdar         1-1 Botev K         
-Bdin            0-0 Botev V         
-Kom-Minyor      2-0 Pirin GD        
-Marek           2-1 Balkan          
-Rilski sportist 1-1 Etar            
-Vidima Rakovski 2-1 Bansko          
-Vihren          3-1 Septemvri       
-
-Round 29 [May 9]
-Balkan          2-3 Akademik
-Belite orli     awd Chavdar         [awarded 0-3]
-Botev K         1-1 Bdin
-Botev V         0-0 Bansko
-Etar            5-1 Kom-Minyor
-Pirin GD        1-2 Vihren
-Rilski sportist 1-3 Vidima Rakovski
-Septemvri       2-1 Marek
-
-Round 30 [May 15]
-Akademik        3-2 Septemvri
-Bansko          2-0 Botev K
-Chavdar         3-2 Balkan
-Bdin            awd Belite orli     [awarded 3-0]
-Kom-Minyor      3-2 Rilski sportist
-Marek           1-4 Pirin GD
-Vidima Rakovski 2-0 Botev V
-Vihren          5-0 Etar
-
-Final Table:
-
- 1.Vidima Rakovski (Sevlievo)         30  19  3  8  53-32  60  Promoted
--------------------------------------------------------------
- 2.Akademik (Sofija)                  30  18  5  7  49-37  59  [2 2 0 0 5-3 6]  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Bansko 1951 (Bansko)               30  17  8  5  50-22  59  [2 0 0 2 3-5 0]
- 4.Vihren (Sandanski)                 30  16  8  6  45-24  56
- 5.Etar 1924 (Veliko Tarnovo)         30  13  8  9  47-38  47
- 6.Botev (Vratsa)                     30  11 12  7  39-26  45
- 7.Septemvri (Simitli)                30  13  4 13  40-34  43  [2 1 0 1 2-2 3; 1 ag]
- 8.Chavdar (Etropole)                 30  12  7 11  34-32  43  [2 1 0 1 2-2 3; 0 ag]
- 9.Balkan (Botevgrad)                 30   9 14  7  35-28  41  [2 1 0 1 3-3 3; 1 ag]
-10.Marek (Dupnitsa)                   30  12  5 13  35-36  41  [2 1 0 1 3-3 3; 1 ag]
-11.Pirin (Gotse Delchev)              30  11  7 12  35-38  40
-12.Kom-Minyor (Berkovitsa)            30  10  8 12  36-43  38
-13.Botev (Krivodol)                   30   8  7 15  21-40  31
-14.Rilski sportist (Samokov)          30   8  6 16  32-49  30
--------------------------------------------------------------
-15.Bdin (Vidin)                       30   4  8 18  26-47  20  Relegated
- -.Belite orli (Pleven)               30   2  4 24  20-71  10  [*]
-
-[*] Belite orli (Pleven) excluded during winter break; all remaining
-    matches are awarded 0-3 against them
-
-Iztochna B grupa
-
-Final Table:
-
- 1.Kaliakra (Kavarna)                 28  17  6  5  44-20  57  [2 1 1 0 2-1 4]  Promoted
--------------------------------------------------------------
- 2.Nesebar (Nesebar)                  28  17  6  5  56-24  57  [2 0 1 1 1-2 1]  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Dunav (Ruse)                       28  16  6  6  48-29  54
- 4.Spartak (Plovdiv)                  28  13  8  7  36-24  47
- 5.Ljubimets 2007 (Ljubimets)         28  12  9  7  39-24  45  [2 1 1 0 3-2 4]
- 6.Brestnik (Plovdiv)                 28  13  6  9  42-29  45  [2 0 1 1 2-3 1]
- 7.Chernomorets (Pomorie)             28  13  4 11  45-36  43
- 8.Chernomorets (Balchik)             28  12  6 10  37-30  42
- 9.Spartak (Varna)                    28  11  4 13  33-41  37
-10.Panajot Volov (Shumen)             28   9  6 13  37-39  33
-11.Svetkavitsa (Targovishte)          28   8  8 12  28-31  32
-12.Svilengrad 1921 (Svilengrad)       28  10  1 17  36-58  31
-13.Dobrudzha (Dobrich)                28   8  6 14  27-39  30  [2 2 0 0 4-1 6]
-14.Minyor (Radnevo)                   28   8  6 14  34-46  30  [2 0 0 2 1-4 0]
--------------------------------------------------------------
- -.Rodopa (Smoljan)                   28   1  2 25   6-78   5  [*]
-
-[*] Rodopa (Smoljan) excluded during winter break; all remaining
-    matches are awarded 0-3 against them
-
-Round 1
-[Aug 7]
-Spartak Vn      2-0 Kaliakra 
-[Aug 8]
-Dobrudzha       1-0 Ljubimets
-Panajot Volov   0-0 Chernomorets Bk
-Dunav           1-0 Svilengrad 
-Nesebar         2-0 Svetkavitsa 
-Minyor Rn       3-2 Chernomorets Pm
-[Sep 4]
-Rodopa          0-2 Spartak Pd
-Brestnik        bye
-
-Round 2
-[Aug 15]
-Ljubimets       3-0 Minyor Rn  
-Svetkavitsa     2-1 Brestnik
-Svilengrad      2-1 Nesebar
-Chernomorets Bk 2-0 Dunav 
-Spartak Pd      1-1 Panajot Volov
-[Aug 16]
-Spartak Vn      3-0 Rodopa 
-Kaliakra        1-0 Chernomorets Pm 
-Dobrudzha       bye
-
-Round 3 [Aug 22]
-Rodopa          0-3 Kaliakra 
-Panajot Volov   0-3 Spartak Vn   
-Dunav           2-0 Spartak Pd   
-Nesebar         3-2 Chernomorets Bk   
-Brestnik        2-1 Svilengrad   
-Dobrudzha       1-1 Svetkavitsa 
-Chernomorets Pm 0-1 Ljubimets  
-Minyor Rn       bye
-
-Round 4 [Aug 29]
-Svetkavitsa     3-0 Minyor Rn 
-Svilengrad      2-1 Dobrudzha 
-Chernomorets Bk 0-1 Brestnik
-Spartak Pd      2-1 Nesebar  
-Spartak Vn      3-1 Dunav 
-Rodopa          1-0 Panajot Volov 
-Kaliakra        1-0 Ljubimets  
-Chernomorets Pm bye
-
-Round 5 [Sep 12]
-Panajot Volov   1-0 Kaliakra 
-Dunav           3-0 Rodopa 
-Nesebar         3-1 Spartak Vn     
-Brestnik        0-1 Spartak Pd     
-Dobrudzha       2-0 Chernomorets Bk
-Minyor Rn       2-1 Svilengrad 
-Chernomorets Pm 4-2 Svetkavitsa 
-Ljubimets       bye
-
-Round 6
-[Sep 19]
-Svetkavitsa     0-1 Ljubimets 
-Svilengrad      1-0 Chernomorets Pm  
-Spartak Pd      0-0 Dobrudzha 
-Spartak Vn      0-0 Brestnik 
-Rodopa          0-3 Nesebar 
-Panajot Volov   0-2 Dunav 
-[Oct 9]
-Chernomorets Bk 1-0 Minyor Rn       
-Kaliakra        bye
-
-Round 7
-[Sep 26]
-Dunav           2-2 Kaliakra
-Nesebar         4-0 Panajot Volov 
-Brestnik        3-1 Rodopa 
-Minyor Rn       1-2 Spartak Pd      
-Chernomorets Pm 1-2 Chernomorets Bk  
-Ljubimets       2-1 Svilengrad 
-[Oct 10]
-Dobrudzha       2-0 Spartak Vn 
-Svetkavitsa     bye
-
-Round 8
-[Oct 3]
-Chernomorets Bk 0-0 Ljubimets 
-Spartak Vn      3-0 Minyor Rn    
-Rodopa          2-2 Dobrudzha 
-Panajot Volov   0-2 Brestnik 
-Dunav           1-3 Nesebar  
-Kaliakra        2-0 Svetkavitsa 
-[Oct 4]
-Spartak Pd      1-2 Chernomorets Pm   
-Svilengrad      bye
-
-Round 9 [Oct 17]
-Nesebar         1-1 Kaliakra 
-Brestnik        1-2 Dunav 
-Dobrudzha       1-0 Panajot Volov
-Minyor Rn       5-0 Rodopa 
-Chernomorets Pm 3-0 Spartak Vn       
-Ljubimets       0-0 Spartak Pd        
-Svetkavitsa     2-1 Svilengrad  
-Chernomorets Bk bye
-
-Round 10 [Oct 24]
-Chernomorets Bk 3-1 Svetkavitsa 
-Spartak Vn      1-0 Ljubimets  
-Rodopa          0-3 Chernomorets Pm   
-Panajot Volov   3-0 Minyor Rn     
-Dunav           2-0 Dobrudzha 
-Nesebar         3-0 Brestnik 
-Kaliakra        2-0 Svilengrad   
-Spartak Pd      bye
-
-Round 11 [Oct 31]
-Brestnik        2-1 Kaliakra 
-Dobrudzha       2-3 Nesebar   
-Minyor Rn       1-1 Dunav 
-Chernomorets Pm 1-0 Panajot Volov
-Ljubimets       1-1 Rodopa 
-Svetkavitsa     1-1 Spartak Pd       
-Svilengrad      1-2 Chernomorets Bk  
-Spartak Vn      bye
-
-Round 12 
-[Nov 7]
-Brestnik        5-0 Dobrudzha       
-Dunav           2-0 Chernomorets Pm 
-Nesebar         1-0 Minyor Rn       
-Panajot Volov   1-0 Ljubimets       
-Spartak Vn      1-0 Svetkavitsa     
-[Nov 8]
-Kaliakra        4-1 Chernomorets Bk  
-Spartak Pd      3-1 Svilengrad      
-Rodopa          bye
-
-Round 13 [Nov 14]
-Chernomorets Pm 1-0 Nesebar         
-Chernomorets Bk 2-1 Spartak Pd      
-Dobrudzha       0-2 Kaliakra        
-Ljubimets       1-2 Dunav           
-Minyor Rn       2-1 Brestnik        
-Svetkavitsa     2-0 Rodopa          
-Svilengrad      1-0 Spartak Vn      
-Panajot Volov   bye
-
-Round 14
-[Nov 28]
-Brestnik        2-3 Chernomorets Pm 
-Dobrudzha       2-1 Minyor Rn       
-Kaliakra        0-0 Spartak Pd      
-Nesebar         2-3 Ljubimets       
-Rodopa          1-2 Svilengrad      
-Panajot Volov   3-2 Svetkavitsa     
-[Nov 29]
-Spartak Vn      3-1 Chernomorets Bk 
-Dunav           bye
-
-Round 15
-[Dec 5]
-Chernomorets Bk 4-0 Rodopa
-Chernomorets Pm 1-0 Dobrudzha
-Ljubimets       2-1 Brestnik
-Minyor Rn       0-5 Kaliakra
-Svetkavitsa     0-1 Dunav
-Svilengrad      3-1 Panajot Volov   
-[Dec 6]
-Spartak Pd      0-0 Spartak Vn
-Nesebar         bye
-
-Round 16 [Feb 27]
-Chernomorets Bk 0-1 Panajot Volov   
-Chernomorets Pm 2-2 Minyor Rn       
-Kaliakra        2-0 Spartak Vn
-Ljubimets       3-0 Dobrudzha
-Svetkavitsa     0-0 Nesebar         
-Svilengrad      1-2 Dunav
-Spartak Pd      awd Rodopa          [awarded 3-0]
-Brestnik        bye
-
-Round 17 [Mar 6]
-Brestnik        1-0 Svetkavitsa     
-Chernomorets Pm 1-1 Kaliakra        
-Dunav           1-0 Chernomorets Bk 
-Minyor Rn       1-1 Ljubimets       
-Rodopa          awd Spartak Vn      [awarded 0-3]
-Panajot Volov   0-0 Spartak Pd      
-Nesebar         4-1 Svilengrad      
-Dobrudzha       bye
-
-Round 18 [Mar 17]
-Kaliakra        awd Rodopa          [awarded 3-0]
-Spartak Vn      0-3 Panajot Volov   
-Spartak Pd      2-1 Dunav           
-Chernomorets Bk 1-1 Nesebar         
-Svilengrad      2-1 Brestnik        
-Svetkavitsa     1-1 Dobrudzha       
-Ljubimets       1-0 Chernomorets Pm 
-Minyor Rn       bye
-
-Round 19 
-[Mar 20]
-Brestnik        0-0 Chernomorets Bk 
-Dobrudzha       0-2 Svilengrad      
-Ljubimets       0-1 Kaliakra        
-Minyor Rn       0-0 Svetkavitsa     
-Nesebar         1-1 Spartak Pd      
-Panajot Volov   awd Rodopa          [awarded 3-0]
-[Mar 21]
-Dunav           3-0 Spartak Vn      
-Chernomorets Pm bye
-
-Round 20
-[Mar 24]
-Chernomorets Bk 2-0 Dobrudzha       
-Kaliakra        2-1 Panajot Volov   
-Rodopa          awd Dunav           [awarded 0-3]
-Spartak Pd      0-2 Brestnik        
-Svetkavitsa     2-1 Chernomorets Pm 
-Svilengrad      2-1 Minyor Rn       
-[Mar 25]
-Spartak Vn      0-0 Nesebar         
-Ljubimets       bye
-
-Round 21
-[Mar 27]
-Chernomorets Pm 4-1 Svilengrad      
-[Mar 28]
-Brestnik        3-0 Spartak Vn      
-Dobrudzha       2-0 Spartak Pd      
-Dunav           3-1 Panajot Volov   
-Ljubimets       2-1 Svetkavitsa     
-Minyor Rn       2-1 Chernomorets Bk 
-Nesebar         awd Rodopa          [awarded 3-0]
-Kaliakra        bye
-
-Round 22 
-[Apr 3]
-Rodopa          awd Brestnik        [awarded 0-3]
-Panajot Volov   1-4 Nesebar         
-Spartak Pd      3-2 Minyor Rn       
-Spartak Vn      3-1 Dobrudzha       
-Svilengrad      2-3 Ljubimets       
-[Apr 4]
-Chernomorets Bk 1-0 Chernomorets Pm 
-Kaliakra        1-3 Dunav           
-Svetkavitsa     bye
-
-Round 23
-[Apr 10]
-Brestnik        1-0 Panajot Volov   
-Chernomorets Pm 1-0 Spartak Pd      
-Dobrudzha       awd Rodopa          [awarded 3-0]
-Ljubimets       1-1 Chernomorets Bk 
-Minyor Rn       2-0 Spartak Vn      
-Svetkavitsa     0-2 Kaliakra        
-[Apr 11]
-Nesebar         2-0 Dunav           
-Svilengrad      bye
-
-Round 24
-[Apr 14]
-Dunav           1-2 Brestnik        
-Rodopa          awd Minyor Rn       [awarded 0-3]
-Panajot Volov   1-1 Dobrudzha       
-Svilengrad      0-0 Svetkavitsa     
-Kaliakra        1-0 Nesebar         
-[Apr 15]
-Spartak Pd      1-0 Ljubimets       
-Spartak Vn      0-3 Chernomorets Pm 
-Chernomorets Bk bye
-
-Round 25 [Apr 18]
-Brestnik        2-3 Nesebar         
-Chernomorets Pm awd Rodopa          [awarded 3-0]
-Dobrudzha       2-2 Dunav           
-Ljubimets       5-0 Spartak Vn      
-Minyor Rn       4-1 Panajot Volov   
-Svetkavitsa     1-0 Chernomorets Bk 
-Svilengrad      1-2 Kaliakra        
-Spartak Pd      bye
-
-Round 26 [Apr 21]
-Chernomorets Bk 2-1 Svilengrad      
-Dunav           2-0 Minyor Rn       
-Nesebar         1-0 Dobrudzha       
-Rodopa          awd Ljubimets       [awarded 0-3]
-Panajot Volov   5-2 Chernomorets Pm 
-Spartak Pd      2-1 Svetkavitsa     
-Kaliakra        0-0 Brestnik        
-Spartak Vn      bye
-
-Round 27 [Apr 25]
-Chernomorets Pm 2-2 Dunav           
-Chernomorets Bk 4-2 Kaliakra        
-Dobrudzha       0-1 Brestnik        
-Ljubimets       1-1 Panajot Volov   
-Minyor Rn       0-2 Nesebar         
-Svetkavitsa     2-0 Spartak Vn      
-Svilengrad      0-4 Spartak Pd      
-Rodopa          bye
-
-Round 28 [May 1]
-Brestnik        2-2 Minyor Rn       
-Dunav           2-2 Ljubimets       
-Kaliakra        1-0 Dobrudzha       
-Nesebar         3-0 Chernomorets Pm 
-Rodopa          awd Svetkavitsa     [awarded 0-3]
-Spartak Pd      2-1 Chernomorets Bk 
-Spartak Vn      6-2 Svilengrad      
-Panajot Volov   bye
-
-Round 29 [May 9]
-Chernomorets Bk 1-1 Spartak Vn
-Chernomorets Pm 2-2 Brestnik
-Ljubimets       2-2 Nesebar
-Minyor Rn       0-2 Dobrudzha       
-Spartak Pd      1-2 Kaliakra
-Svetkavitsa     0-0 Panajot Volov
-Svilengrad      awd Rodopa          [awarded 3-0]
-Dunav           bye
-
-Round 30 [May 15]
-Brestnik        1-1 Ljubimets
-Dobrudzha       1-3 Chernomorets Pm
-Dunav           1-1 Svetkavitsa
-Kaliakra        0-0 Minyor Rn
-Rodopa          awd Chernomorets Bk [awarded 0-3]
-Panajot Volov   9-1 Svilengrad
-Spartak Vn      0-3 Spartak Pd
-Nesebar         bye
-
-Final Table:
-
- 1.Kaliakra (Kavarna)                 28  17  6  5  44-20  57  [2 1 1 0 2-1 4]  Promoted
--------------------------------------------------------------
- 2.Nesebar (Nesebar)                  28  17  6  5  56-24  57  [2 0 1 1 1-2 1]  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.Dunav (Ruse)                       28  16  6  6  48-29  54
- 4.Spartak (Plovdiv)                  28  13  8  7  36-24  47
- 5.Ljubimets 2007 (Ljubimets)         28  12  9  7  39-24  45  [2 1 1 0 3-2 4]
- 6.Brestnik (Plovdiv)                 28  13  6  9  42-29  45  [2 0 1 1 2-3 1]
- 7.Chernomorets (Pomorie)             28  13  4 11  45-36  43
- 8.Chernomorets (Balchik)             28  12  6 10  37-30  42
- 9.Spartak (Varna)                    28  11  4 13  33-41  37
-10.Panajot Volov (Shumen)             28   9  6 13  37-39  33
-11.Svetkavitsa (Targovishte)          28   8  8 12  28-31  32
-12.Svilengrad 1921 (Svilengrad)       28  10  1 17  36-58  31
-13.Dobrudzha (Dobrich)                28   8  6 14  27-39  30  [2 2 0 0 4-1 6]
-14.Minyor (Radnevo)                   28   8  6 14  34-46  30  [2 0 0 2 1-4 0]
--------------------------------------------------------------
- -.Rodopa (Smoljan)                   28   1  2 25   6-78   5  [*]
-
-[*] Rodopa (Smoljan) excluded during winter break; all remaining
-    matches are awarded 0-3 against them
-
-
-Promotion Playoff
-
-[May 23]
-Nesebar         1-2 Akademik
-
-Akademik (Sofija) promoted
-
-
-2008/09.
-
-2010/11.
-
-list of champions.
-
-list of final tables.
-
-all-time table.
-
-list of cup finals.
-
-list of topscorers.
-
-list of name changes.
-
-About this document
-
-Prepared and maintained by Yordan Tsirov for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Yordan Tsirov (i_tsirov@yahoo.com)
-Last updated: 22 Nov 2012
-
-(C) Copyright Yordan Tsirov and RSSSF 2009/12
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Yordan Tsirov for the Rec.Sport.Soccer Statistics Foundation
+*Author: Yordan Tsirov (i_tsirov@yahoo.com)
+*Last updated: 22 Nov 2012
+*(C) Copyright Yordan Tsirov and RSSSF 2009/12
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

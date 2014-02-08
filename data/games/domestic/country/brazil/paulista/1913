@@ -1,5 +1,6 @@
 BlockSource: http://rsssfbrasil.com/tablesrz/sp1913.htm
 Season: 1913
+Date-style: day first
 
 Competition: Campeonato Paulista APEA
 
@@ -37,7 +38,8 @@ Competition: Campeonato Paulista LPF
 06/07/1913; Americano; 2-0; Ypiranga
 13/07/1913; SC Internacional; 5-1; Santos
 20/07/1913; SC Internacional; 0-1; Ypiranga
-07/09/1913; Americano; 6-1; Santos (Santos abandoned the tournament)
+07/09/1913; Americano; 6-1; Santos 
+*(Santos abandoned the tournament)
 07/09/1913; Corinthians; 2-0; Germânia
 14/09/1913; Germânia; 0-3; Americano
 21/09/1913; Germânia; 2-1; Ypiranga
@@ -52,10 +54,10 @@ Competition: Campeonato Paulista LPF
 
 *                          P   G   W   D   L  GF  GA  GD
 * 1. Americano            13   8   5   3   0  24   5  19   champions
-;; *-------------------------------------------------------
+*-------------------------------------------------------
 *; 2. Ypiranga              9   8   3   3   2  10   8   2
 * 3. SC Internacional      8   8   3   2   3  14  13   1
-; * 4. Corinthians           6   8   1   4   3   8  16 ; -8
+* 4. Corinthians           6   8   1   4   3   8  16 ; -8
 *; 5. Germânia              5   8   2   0   6   9  23 -14
 * 6. Santos                    abandoned; its matches were cancelled
 

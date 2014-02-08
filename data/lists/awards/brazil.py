@@ -234,7 +234,7 @@ carioca = {
     'competition': 'Campeonato Carioca',
     'team_data': ['Champion'],
         
-    'champion': [
+    'Champion': [
         (1941, 'Fluminense'),
         (1942, 'Flamengo'),
         (1943, 'Flamengo'),
@@ -316,7 +316,7 @@ paulista = {
     'competition': 'Campeonato Paulista',
     'team_data': ['Champion'],
         
-    'champion': [
+    'Champion': [
         (1941, 'Corinthians'),
         (1942, 'Palmeiras'),
         (1943, 'Sao Paulo'),
@@ -398,7 +398,7 @@ gaucho = {
     'competition': 'Campeonato Gaúcho',
     'team_data': ['Champion'],
         
-    'champion': [
+    'Champion': [
         (1919, 'Brasil de Pelotas'),
         (1920, 'Guarany de Bagé'),
         (1921, 'Grêmio'),
@@ -496,7 +496,7 @@ baiano = {
     'competition': 'Campeonato Baiano',
     'team_data': ['Champion'],
         
-    'champion': [
+    'Champion': [
     (1905, 'Clube Internacional de Cricket'),
     (1906, 'São Salvador'),
     (1907, 'São Salvador'),
