@@ -66,6 +66,7 @@ brasileirao = {
         (2010, 'Fluminense'),
         (2011, 'Corinthians'),
         (2012, 'Fluminense'),
+        (2013, 'Cruzeiro'),
         ],
 
     'Golden Boot': [

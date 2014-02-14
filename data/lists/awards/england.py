@@ -1,7 +1,7 @@
 #!/usr/local/bin/env python
 # -*- coding: utf-8 -*-
 
-d = {
+premier = {
 
     'competition': 'Premier League',
     'team_data': ['Champion'],
@@ -124,6 +124,39 @@ d = {
 
     
 }
+
+
+fa = {
+
+    'competition': 'FA Cup',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        ('1992-1993', 'Arsenal'),
+        ('1993-1994', 'Manchester United'),
+        ('1994-1995', 'Everton'),
+        ('1995-1996', 'Manchester United'),
+        ('1996-1997', 'Chelsea'),
+        ('1997-1998', 'Arsenal'),
+        ('1998-1999', 'Manchester United'),
+        ('1999-2000', 'Chelsea'),
+        ('2000-2001', 'Liverpool'),
+        ('2001-2002', 'Arsenal'),
+        ('2002-2003', 'Arsenal'),
+        ('2003-2004', 'Manchester United'),
+        ('2004-2005', 'Arsenal'),
+        ('2005-2006', 'Liverpool'),
+        ('2006-2007', 'Chelsea'),
+        ('2007-2008', 'Portsmouth'),
+        ('2008-2009', 'Chelsea'),
+        ('2009-2010', 'Chelsea'),
+        ('2010-2011', 'Manchester United'),
+        ('2011-2012', 'Chelsea'),
+        ('2012-2013', 'Wigan Athletic'),
+        ],
+}
+
 
 """
 'Goal of the Season': [

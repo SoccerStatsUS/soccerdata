@@ -35,7 +35,7 @@ Date: 7/29/1998
   Svensson 57;
 
 ; LASK            ; 3-0; Austria L
-  Frigård 17,  W.Kogler 73, Pawlowski 75
+  Frigård 17,  W.Kogler 73, Pawlowski 75;
 
 
 Date: 11/3/1998
@@ -56,7 +56,7 @@ Sabitzer 80; H.Kogler 6, Frigård 21, Pawlowski 89
 Rosenegger 5, Mayrleb 21 Mayrleb 90, Plassnegger 73; Metlitskij 76
 
 ; Austria L       ; 2-2; Tirol    
-Tiefenbach (pk) 2, Prinzen 66; Baur (pk) 30,  52 Scharrer
+Tiefenbach (pk) 2, Prinzen 66; Baur (pk) 30,  Scharrer 52
 
 Date: 8/2/1998
 
@@ -67,7 +67,7 @@ Round: 3
 Date: 8/4/1998
 
 ; Sturm           ; 3-0; Austria L
- Reinmayr 11, Reinmayr 77, Martens 84
+ Reinmayr 11, Reinmayr 77, Martens 84;
 
 Date: 8/5/1998
 
@@ -114,7 +114,7 @@ Date: 8/15/1998
   M. Wagner 6, M.Wagner 37, Simon 74; Hütter 54, Pfeifenberger 84
 
 ; Vorwärts        ; 1-4; LASK
-  Hickersberger 2; 36' Pawlowski 36, W.Kogler 40, Dadi 80, Weissenberger 85
+  Hickersberger 2; Pawlowski 36, W.Kogler 40, Dadi 80, Weissenberger 85
 
 ; Ried            ; 3-1; Austria L
 Stanisavljevic (pk) 13, Sliwowski 50, Brunmayr 53; Kosturkow 12
@@ -174,7 +174,7 @@ Date: 9/18/1998
 Date: 9/19/1998
 
 ; GAK             ; 4-0; Austria L
- Grimm 19, Bernner 43, Radovic 58, Luhovy (pk) 81
+ Grimm 19, Bernner 43, Radovic 58, Luhovy (pk) 81;
 
 ; Austria S       ; 5-2; Vorwärts
   Aufhauser 2, Nikolic 14, Glieder 28, Glieder 74, Koejoe 83; Ipavec 37, Bradaric 84
@@ -244,7 +244,7 @@ Radovic 4, Lipa 20;
  ; W.Kogler 16, M.Weissenberger 47, Brzeczek 49, Stöger 90
 
 ; Austria W       ; 0-3; Sturm
-Mahlich  6, Mählich 32, Foda 82
+; Mahlich 6, Mählich 32, Foda 82
 
 Date: 10/4/1998
 
@@ -361,7 +361,7 @@ Date: 11/14/1998
 Lipa 49;
 
 ; Tirol           ; 3-2; Vorwärts
-  10' Sabry, 63' Hörtnagl, 88' Jezek; 16' Hubich, 45' Bradaric
+  Sabry 10, Hörtnagl 63, Jezek 88;  Hubich 16, Bradaric 45
 
 ; Rapid           ; 3-1; Austria W
   R. Wagner 42, Prosenik (pk) 65, Penksa 77; Mayrleb 74
@@ -378,7 +378,7 @@ Prilasnig 54, Popovic 71;
 Date: 11/21/1998
 
 ; Austria L       ; 0-3; GAK
- Drechsel 17, Drechsel 75, Dmitrovic 21
+; Drechsel 17, Drechsel 75, Dmitrovic 21
 
 ; Ried            ; 0-1; Rapid
   ; R.Wagner 65
@@ -423,7 +423,7 @@ Date: 12/4/1998
 Date: 12/5/1998
 
 ; Austria S       ; 1-0; Austria L  
-  Glieder 47
+  Glieder 47;
 
 Date: 12/6/1998
 
@@ -608,7 +608,7 @@ Strafner 14;
 Glieder 45, Koejoe 83; Scharrer 11, Kirchler 60
 
 ; Vorwärts        ; 0-3; GAK
-Drechsel 24, Lipa 40, Radovic 48
+; Drechsel 24, Lipa 40, Radovic 48
 
 Date: 4/18/1999
 
@@ -624,7 +624,7 @@ Date: 4/23/1999
 Date: 4/24/1999
 
 ; Austria W       ; 3-0; Ried
-  M. Wagner (pk) 45, Mayrleb 52, Mayrleb 63
+  M. Wagner (pk) 45, Mayrleb 52, Mayrleb 63;
 
 ; Austria L       ; 0-0; Austria S
 

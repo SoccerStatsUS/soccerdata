@@ -91,19 +91,50 @@ wps = {
 
 
 wpsl = {
-    'competition': 'WPSL',
+    'competition': 'Women\'s Premier Soccer League',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+    
+    'Champion': [            
+        (1998, 'Silicon Valley Red Devils'),
+        (1999, 'California Storm'),
+        (2000, 'San Diego WFC'),
+        (2001, 'Southern California Ajax'),
+        (2002, 'California Storm'),
+        (2003, 'Utah Spiders'),
+        (2004, 'California Storm'),
+        (2005, 'FC Indiana'),
+        (2006, 'Long Island Fury'),
+        (2007, 'FC Indiana'),
+        (2008, 'Ajax America Women'),
+        (2009, 'Long Island Fury'),
+        (2010, 'Boston Aztec'),
+        (2011, 'Orange County Waves'),
+        (2012, 'Gulf Coast Texans'),
+        (2013, 'San Diego WFC SeaLions'),
+        ],
+}
+
+
+
+wleague = {
+    'competition': 'W-League',
     'team_data': ['Champion'],
     'champion': 'Champion',
 
     'Champion': [
-        ('2001', 'Bay Area CyberRays'),
-        ('2002', 'Carolina Courage'),
-        ('2003', 'Washington Freedom'),
+        (2013, 'Pali Blues'),
+        (2012, 'Ottawa Fury Women'),
+        (2011, 'Atlanta Silverbacks Women'),
+        (2010, 'Buffalo Flash'),
+        (2009, 'Pali Blues'),
+        (2008, 'Pali Blues'),
+        (2007, 'Washington Freedom'),
+        (2006, 'Vancouver Whitecaps Women'),
+        (2005, 'New Jersey Wildcats'),
+        (2004, 'Vancouver Whitecaps Women'),
+        #(2003, 
         ],
-    'MVP': [
-        ('2004', 'Siss'),
-        ]
-
 }
 
 
@@ -136,6 +167,5 @@ nwsl = {
     'Coach of the Year': [
         ('2013', 'Vlatko Andonovski'),
         ],
-
 
 }

@@ -155,6 +155,7 @@ def process_argentina_awards():
 def process_uefa_awards():
     from soccerdata.data.lists.awards import uefa as u
     l = [
+        'super',
         'spain', 'france', 'germany', 'italy', # major
         'portugal', 'scotland',
         'sweden', 'norway', 'denmark',
@@ -169,8 +170,8 @@ def process_uefa_awards():
     return a
         
 def process_england_awards():
-    from soccerdata.data.lists.awards.england import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards.england import premier, fa
+    return process_awards(premier) + process_awards(fa)
 
 
 def process_uncaf_international_awards():
@@ -326,8 +327,8 @@ def process_esl_awards():
 
 
 def process_ncaa_awards():
-    from soccerdata.data.lists.awards.ncaa import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards.ncaa import men, women
+    return process_awards(men) + process_awards(women)
 
 def process_isl_awards():
     from soccerdata.data.lists.awards.isl import d, palmares, parmalat
@@ -359,8 +360,8 @@ def process_world_cup_awards():
 
 
 def process_women_awards():
-    from soccerdata.data.lists.awards.women import wusa, wps
-    return process_awards(wusa) + process_awards(wps)
+    from soccerdata.data.lists.awards.women import wusa, wps, nwsl, wpsl
+    return process_awards(wusa) + process_awards(wps) + process_awards(nwsl) + process_awards(wpsl)
 
 
 def process_world_awards():

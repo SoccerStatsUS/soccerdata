@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-d = {
+men = {
     'competition': 'NCAA Division I',
     'team_data': [
         'Champion', 
@@ -15,6 +15,7 @@ d = {
         ],
 
     'Hermann Trophy': [
+        (2013, 'Patrick Mullins'),
         (2012, 'Patrick Mullins'),
         (2011, 'Andrew Wenger'),
         (2010, 'Darlington Nagbe'),
@@ -217,6 +218,7 @@ d = {
         (2010, 'University of Akron'),
         (2011, 'University of North Carolina'),
         (2012, 'Indiana University'),
+        (2013, 'Notre Dame'),
         ],
 
 
@@ -5865,3 +5867,76 @@ d = {
 
 }
 
+
+
+women = {
+    'competition': 'NCAA Division I Women\'s Soccer Championship',
+    'team_data': [
+        'Champion', 
+        ],
+
+    'Champion': [
+        (1982, 'UNC Chapel Hill'),
+        (1983, 'UNC Chapel Hill'),
+        (1984, 'UNC Chapel Hill'),
+        (1985, 'George Mason'),
+        (1986, 'UNC Chapel Hill'),
+        (1987, 'UNC Chapel Hill'),
+        (1988, 'UNC Chapel Hill'),
+        (1989, 'UNC Chapel Hill'),
+        (1990, 'UNC Chapel Hill'),
+        (1991, 'UNC Chapel Hill'),
+        (1992, 'UNC Chapel Hill'),
+        (1993, 'UNC Chapel Hill'),
+        (1994, 'UNC Chapel Hill'),
+        (1995, 'Notre Dame')
+        (1996, 'UNC Chapel Hill'),
+        (1997, 'UNC Chapel Hill'),
+        (1998, 'Florida Gators'),
+        (1999, 'UNC Chapel Hill'),
+        (2000, 'UNC Chapel Hill'),
+        (2001, 'Santa Clara Broncos'),
+        (2002, 'Portland Pilots'),
+        (2003, 'UNC Chapel Hill'),
+        (2004, 'Notre Dame'),
+        (2005, 'Portland Pilots'),
+        (2006, 'UNC Chapel Hill'),
+        (2007, 'USC'),
+        (2008, 'UNC Chapel Hill'),
+        (2009, 'UNC Chapel Hill'),
+        (2010, 'Notre Dame'),
+        (2011, 'Stanford'),
+        (2012, 'UNC Chapel Hill'),
+        (2013, 'UCLA'),
+        ],
+
+
+    'Hermann Trophy': [
+        (1988, 'Michelle Akers'),
+        (1989, 'Shannon Higgins'),
+        (1990, 'April Kater'),
+        (1991, 'Kristine Lilly'),
+        (1992, 'Mia Hamm'),
+        (1993, 'Mia Hamm'),
+        (1994, 'Tisha Venturi'),
+        (1995, 'Shannon McMillan'),
+        (1996, 'Cindy Daws'),
+        (1997, 'Cindy Parlow'),
+        (1998, 'Cindy Parlow'),
+        (1999, 'Mandy Clemens'),
+        (2000, 'Anne Makinen'),
+        (2001, 'Christie Welsh'),
+        (2002, 'Aly Wagner'),
+        (2003, 'Cat Reddick'),
+        (2004, 'Christine Sinclair'),
+        (2005, 'Christine Sinclair'),
+        (2006, 'Kerri Hanks'),
+        (2007, 'Mama Yamaguchi'),
+        (2008, 'Kerri Hanks'),
+        (2009, 'Kelley O\'Hara'),
+        (2010, 'Christen Press'),
+        (2011, 'Teresa Noyola'),
+        (2012, 'Crystal Dunn'),
+        (2013, 'Morgan Brian'),
+        ],
+}

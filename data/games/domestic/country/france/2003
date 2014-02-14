@@ -2,6 +2,7 @@ BlockSource: http://rsssf.com/tablesf/fran04.html
 Season: 2003-2004
 Competition: Ligue 1
 home-first
+Transform: name-title
 
 
 * 1.Olympique Lyonnais        38 24  7  7  64-26  79  Champions
@@ -1167,7 +1168,7 @@ Date: 4/3/2004
   Mahamadou DIARRA 28, Florian MAURICE 37; Daniel MESLIN 40
 
 ; Bordeaux    ; 1-1; Strasbourg
-  Christian BASSILA 89og; Ulrich LE PEN (pk) 81
+  Christian BASSILA (og) 89; Ulrich LE PEN (pk) 81
 
 ; Lille       ; 1-0; Rennes
   Milenko ACIMOVIC 56;

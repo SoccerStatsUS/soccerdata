@@ -154,6 +154,9 @@ class DraftProcessor():
 
             else:
                 import pdb; pdb.set_trace()
+                
+            if position and len(position) > 5:
+                import pdb; pdb.set_trace()
 
             self.picks.append({
                     'team': team,

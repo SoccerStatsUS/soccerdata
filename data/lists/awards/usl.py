@@ -167,8 +167,9 @@ nasl2 = {
     'Champion': [
         (2011, 'Carolina Railhawks'),
         (2012, 'San Antonio Scorpions'),
-        ('2013 Spring', 'Atlanta Silverbacks'),
-        ('2013 Fall', 'New York Cosmos'),
+        (2013, 'New York Cosmos'),
+        #('2013 Spring', 'Atlanta Silverbacks'),
+        #('2013 Fall', 'New York Cosmos'),
         ],
 
     'Fair Play Award': [

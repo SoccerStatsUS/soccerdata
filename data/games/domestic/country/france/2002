@@ -2,6 +2,7 @@ BlockSource: http://rsssf.com/tablesf/fran03.html
 Competition: Ligue 1
 Season: 2002-2003
 home-first
+Transform: name-title
 
 *Ligue 1 (NB: name change from Division 1 to Ligue 1).
 
@@ -1406,7 +1407,7 @@ Date: 5/10/2003
 *        Shiva Star N'ZIGOU 33]
 
 ; Rennes      ; 2-3; Strasbourg
-  Dominique ARRIBAGE 25, Jean-Christophe DEVAUX (og) 76og; Petr CECH (og) 8,  Corentin da Silva MARTINS 72, Danijel LJUBOJA (pk) 85
+  Dominique ARRIBAGE 25, Jean-Christophe DEVAUX (og) 76; Petr CECH (og) 8,  Corentin da Silva MARTINS 72, Danijel LJUBOJA (pk) 85
 *  [N.B. Vincent FERNANDEZ (Strasbourg) stopped a penalty kick by 
 *        Alexander FERI 2]
 

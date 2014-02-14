@@ -2,6 +2,7 @@ BlockSource: http://rsssf.com/tablesf/fran02.html
 Season: 2001-2002
 Competition: Ligue 1
 home-first
+Transform: name-title
 
 * 1.Olympique Lyonnais        34 20  6  8  62-32  66  Champions
 * 2.RC Lens                   34 18 10  6  55-30  64  Champions' League

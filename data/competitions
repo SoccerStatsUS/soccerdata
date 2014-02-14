@@ -91,28 +91,31 @@ J. League Division 1; JAP1; soccer; domestic; League; 1; Country; Japan
 K League; KOR1; soccer; domestic; League; 1; Country; South Korea
 I-League; IND1; soccer; domestic; League; 1; Country; India
 
-Premier League; EPL; soccer; domestic; League; 1; County; England
-Scottish Premier League; SPL; soccer; domestic; League; 1; County; Scotland
-La Liga; ESP1; soccer; domestic; League; 1; County; Spain
-Serie A; ITA1; soccer; domestic; League; 1; County; Italy
-1. Bundesliga; GER1; soccer; domestic; League; 1; County; Germany
-Austrian Bundesliga; AUS1; soccer; domestic; League; 1; County; Austria
-Gambrinus Liga; CZE1; soccer; domestic; League; 1; County; Czech Republic
-Belgian Pro League; BEL1; soccer; domestic; League; 1; County; Belgium
-Superligaen; DEN1; soccer; domestic; League; 1; County; Denmark
-Ligue 1; FRA1; soccer; domestic; League; 1; County; France
-Nemzeti Bajnokság I; HUN1; soccer; domestic; League; 1; County; Hungary
-Eredivisie; NED1; soccer; domestic; League; 1; County; Netherlands
-Süper Lig; TUR1; soccer; domestic; League; 1; County; Turkey
-Swiss Super League; SWI1; soccer; domestic; League; 1; County; Switzerland
-Russian Football Premier League; RUS1; soccer; domestic; League; 1; County; Russia
-Primeira Liga; POR1; soccer; domestic; League; 1; County; Portugal
-Ekstraklasa; POL1; soccer; domestic; League; 1; County; Poland
-Allsvenskan; SWE1; soccer; domestic; League; 1; County; Sweden
-Tippeligaen; NOR1; soccer; domestic; League; 1; County; Norway
-Superleague Greece; GRE1; soccer; domestic; League; 1; County; Greece
-Serbian SuperLiga; SRB1; soccer; domestic; League; 1; County; Serbia
+Premier League; EPL; soccer; domestic; League; 1; Country; England
+Scottish Premier League; SPL; soccer; domestic; League; 1; Country; Scotland
+La Liga; ESP1; soccer; domestic; League; 1; Country; Spain
+Serie A; ITA1; soccer; domestic; League; 1; Country; Italy
+1. Bundesliga; GER1; soccer; domestic; League; 1; Country; Germany
+Austrian Bundesliga; AUS1; soccer; domestic; League; 1; Country; Austria
+Gambrinus Liga; CZE1; soccer; domestic; League; 1; Country; Czech Republic
+Belgian Pro League; BEL1; soccer; domestic; League; 1; Country; Belgium
+Superligaen; DEN1; soccer; domestic; League; 1; Country; Denmark
+Ligue 1; FRA1; soccer; domestic; League; 1; Country; France
+Nemzeti Bajnokság I; HUN1; soccer; domestic; League; 1; Country; Hungary
+Eredivisie; NED1; soccer; domestic; League; 1; Country; Netherlands
+Süper Lig; TUR1; soccer; domestic; League; 1; Country; Turkey
+Swiss Super League; SWI1; soccer; domestic; League; 1; Country; Switzerland
+Russian Premier League; RUS1; soccer; domestic; League; 1; Country; Russia
+Primeira Liga; POR1; soccer; domestic; League; 1; Country; Portugal
+Ekstraklasa; POL1; soccer; domestic; League; 1; Country; Poland
+Allsvenskan; SWE1; soccer; domestic; League; 1; Country; Sweden
+Tippeligaen; NOR1; soccer; domestic; League; 1; Country; Norway
+Superleague Greece; GRE1; soccer; domestic; League; 1; Country; Greece
+Serbian SuperLiga; SRB1; soccer; domestic; League; 1; Country; Serbia
+Liga I; ROM1; soccer; domestic; League; 1; Country; Romania
+PRVA HNL; CRO1; soccer; domestic; League; 1; Country; Croatia
 
+FA Cup; ENG-FA; soccer; domestic; Cup; 1; Country; England
 
 National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
 Southern New England Soccer League; SNESL; soccer; domestic; League; 2; Country; United States

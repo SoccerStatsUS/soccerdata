@@ -273,7 +273,7 @@ Date: 10/26/2002
   Stere 36, Bodea 67, Buga 70; Gurita 9, Iordache 29
 
 ; Dinamo        ; 5-0; UTA
-  Petre 21, Barcauan 58, Danciulescu (pk) 74, Danciulescu 82, Danciulescu (pk) 89
+  Petre 21, Barcauan 58, Danciulescu (pk) 74, Danciulescu 82, Danciulescu (pk) 89;
 
 ; AEK           ; 3-2; Sportul Stud.
   Silvasan 40, Oprea 45, Oprea 59; Irimia 59, Chihaia (pk) 63
@@ -296,7 +296,7 @@ Round: 10
 Date: 11/2/2002
 
 ; Sportul Stud. ; 3-1; Craiova
-  Maxim 45; Chihaia 50, Dinita 53; Stanga 88
+  Maxim 45, Chihaia 50, Dinita 53; Stanga 88
 
 ; UTA           ; 2-1; Astra
   Luca 57, Nagy (pk) 78; Movila 90
@@ -605,7 +605,7 @@ Round: 21
 Date: 4/12/2003
 
 ; Bacau         ; 0-1; Steaua
-  Trica 65
+;  Trica 65
 
 ; Brasov        ; 2-1; UTA
   Bodea 35, Iorga 37; Marginean 86
@@ -699,7 +699,7 @@ Date: 4/25/2003
 Date: 4/26/2003
 
 ; Sportul Stud. ; 3-1; Poli AEK
-  Bucur 53, Mazilu 71, Irimia 77, Voicu 41
+  Bucur 53, Mazilu 71, Irimia 77; Voicu 41
 
 ; Arges         ; 2-1; Ceahlaul
   Bilasco 63, Somcherechi 86; Axinia 42
@@ -785,7 +785,7 @@ Date: 5/10/2003
   Frasineanu 18;
 
 ; Bacau         ; 1-2; Farul
-  Miu 45; Barbu 74; Badescu 87
+  Miu 45; Barbu 74, Badescu 87
 
 Date: 5/11/2003
 

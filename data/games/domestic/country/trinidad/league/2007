@@ -23,13 +23,13 @@ Date: 4/14/2007
   Handel Manswell 87; Randolph Jerome 5, Kendall Jagdeosingh 56, Kendall Jagdeosingh 69, Kendall Jagdeosingh 85
 
 ; Superstar Rangers; 4-1; Police FC
-  Devon Modeste 41, Marc Borde 53, Shem McFarlane 76,   Errol McFarlane Jr. 79; Kenwin Matthew 18
+  Devon Modeste 41, Marc Borde 53, Shem McFarlane 76, Errol McFarlane Jr. 79; Kenwin Matthew 18
 
 ; Defence Force    ; 1-4; W Connection
   Bevon Lewis 90; Earl Jean 55, Earl Jean 70, Gefferson Goulart 83, Jose Luis Seabra 87
 
 ; Joe Public       ; 2-2; United Petrotrin
-  Gregory Richardson 24, Gary Glasgow 52; Keon Daniel 43,   Sylvester Teesdale 57
+  Gregory Richardson 24, Gary Glasgow 52; Keon Daniel 43, Sylvester Teesdale 57
 
 ; Caledonia AIA    ; 3-0; San Juan Jabloteh
   Nigel Codrington 4, Dwight Peters 16, Stephan David 36;
@@ -38,7 +38,7 @@ Round: 2
 Date: 4/17/2007
 
 ; Superstar Rangers; 5-0; Tobago United
-  Kerwyn Jemmott 29, Errol McFarlane Jr. 42, Errol McFarlane Jr. 82, Errol McFarlane Jr.84, Christian Thomas 61;
+  Kerwyn Jemmott 29, Errol McFarlane Jr. 42, Errol McFarlane Jr. 82, Errol McFarlane Jr. 84, Christian Thomas 61;
 
 ; San Juan Jabloteh; 1-1; W Connection
   Trent Noel 90; Douglas Da Costa 11
@@ -153,13 +153,13 @@ Date: 6/26/2007
 ;  Jonathan Frias 37, Hughton Hector 57
 
 ; Joe Public       ; 1-0; North East Stars 
-  Kerry Baptiste 45pen;
+  Kerry Baptiste (pk) 45;
 
 ; Police FC        ; 0-2; San Juan Jabloteh 
 ;  Peter Byers 36, 59
     
 ; Defence Force    ; 3-3; Superstar Rangers 
-  Michael Edwards 2, Devon Jorsling 62, 71pen; Joseph Peters 8, 49,   Josimar Belgrave 31
+  Michael Edwards 2, Devon Jorsling 62, Devon Jorsling (pk) 71; Joseph Peters 8, Joseph Peters (pk) 49,   Josimar Belgrave 31
 
 ; Tobago United    ; 2-4; Caledonia AIA
   Handell Manswell 18, Kayode Legall 45; Carlyle Mitchell 8, 65,   Kareem Joseph 39, Anthony Abram 74
@@ -171,7 +171,7 @@ Date: 6/30/2007
   Kerry Baptiste 31, 80, Nigel Pierre 89; Devon Modeste 60
 
 ; Tobago United    ; 2-3; San Juan Jabloteh 
-  Kayode Legall 41, Kerron Phillips 67; Cornell Glen 20,   Trent Noel 60pen, Karlon Murray 62
+  Kayode Legall 41, Kerron Phillips 67; Cornell Glen 20,   Trent Noel (pk) 60, Karlon Murray 62
 
 ; United Petrotrin ; 0-2; Defence Force     
 ;  Devorn Jorsling 4, Richard Roy 77
@@ -307,7 +307,7 @@ Date: 7/31/2007
   Glenton Wolfe 85; Marlon Lewis 24
  
 ; Tobago United    ; 6-2; Police FC
-  Nyron Orr 13, Collie Hercules 41pen, 87, Kayode Legall 62, 75, 90;   Adrian Nunez 50, Christopher Sam 66
+  Nyron Orr 13, Collie Hercules (pk) 41, Collie Hercules 87, Kayode Legall 62, Kayode Legall 75, Kayode Legall 90;   Adrian Nunez 50, Christopher Sam 66
 
 ; Caledonia AIA    ; 1-0; Joe Public
   Anthony Abrams 52;
@@ -484,14 +484,14 @@ Date: 12/8/2007
 ; San Juan Jabloteh; 0-0; Defence Force 
 
 ; Caledonia AIA    ; 1-1; Joe Public 
-  Hayden Tinto 63; Kerry Baptiste 63pen
+  Hayden Tinto 63; Kerry Baptiste (pk) 63
 
 
 Round: 29 
 Date: 12/10/2007
 
 ; W Connection     ; 1-1; Defence Force     
-  Clyde Leon 35; Keston Williams 72pen
+  Clyde Leon 35; Keston Williams (pk) 72
 
 ; Caledonia AIA    ; 1-3; North East Stars
   Marvin Oliver 49; Randolph Jerome 16, Shervin Charles 57,   Akeil Guevara 90+
@@ -507,7 +507,7 @@ Date: 12/14/2007
   Seon Power 51og;
 
 ; W Connection     ; 3-1; Caledonia AIA     
-  Atiba Charles 45, 50, Jonathan Frias 80; Conrad Smith 12
+  Atiba Charles 45, Atiba Charles 50, Jonathan Frias 80; Conrad Smith 12
 
 ; North East Stars ; 0-2; San Juan Jabloteh
 ;  Cornel Glen 72, Jason Marcano 80

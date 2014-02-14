@@ -45,7 +45,7 @@ Season: 2010-2011 Apertura
 *    winners qualify to semifinals;
 *    clubs finishing 2nd to 7th qualify to quarterfinals.
 
-Round 1
+Round: 1
 [Jul 17]
 Pumas Morelos     0-0 Mérida            
 Indios            5-1 Guerreros         
@@ -58,7 +58,7 @@ Cruz Azul Hidalgo 0-0 Alacranes
 Tijuana           1-0 Leones Negros     
 La Piedad         1-1 Altamira          
  
-Round 2
+Round: 2
 [Jul 23]
 Altamira          2-2 Indios            
 León              1-1 La Piedad         
@@ -72,7 +72,7 @@ Dorados           2-1 Atlante UTN
 Guerreros         0-0 Tijuana           
 Lobos BUAP        2-1 Correcaminos      
  
-Round 3
+Round: 3
 [Jul 30]
 Leones Negros     2-2 Guerreros         
 [Jul 31]
@@ -86,7 +86,7 @@ Cruz Azul Hidalgo 0-1 Lobos BUAP
 Tijuana           1-0 Altamira          
 La Piedad         2-1 Dorados           
  
-Round 4
+Round: 4
 [Aug 6]
 Altamira          2-0 Leones Negros     
 [Aug 7]
@@ -101,7 +101,7 @@ Correcaminos      0-0 Cruz Azul Hidalgo
 [Aug 9]
 Guerreros         0-2 Veracruz          
 
-Round 5
+Round: 5
 [Aug 13]
 Leones Negros     1-0 León              
 [Aug 14]
@@ -115,7 +115,7 @@ Tijuana           0-0 Dorados
 La Piedad         1-4 Alacranes         
 Guerreros         2-2 Altamira          
 
-Round 6 
+Round: 6 
 [Aug 20]
 Altamira          0-1 Veracruz          
 [Aug 21]
@@ -129,7 +129,7 @@ Lobos BUAP        4-1 Atlante UTN
 Cruz Azul Hidalgo 1-0 Pumas Morelos     
 Correcaminos      3-1 Irapuato          
 
-Round 7
+Round: 7
 [Aug 27]
 Altamira          1-0 León              
 Leones Negros     6-0 Mérida            
@@ -143,7 +143,7 @@ Atlante UTN       1-0 Correcaminos
 Tijuana           2-0 Alacranes         
 La Piedad         1-4 Lobos BUAP        
 
-Round 8
+Round: 8
 [Sep 11]
 Pumas Morelos     1-1 Irapuato
 Albinegros        0-1 Tijuana            [in Veracruz]
@@ -156,7 +156,7 @@ Correcaminos      0-1 La Piedad
 Lobos BUAP        2-0 Indios
 Cruz Azul Hidalgo 2-0 Atlante UTN
  
-Round 9
+Round: 9
 [Sep 17]
 Altamira          2-0 Mérida
 Leones Negros     1-2 Albinegros
@@ -171,7 +171,7 @@ La Piedad         2-2 Cruz Azul Hidalgo
 [Sep 21]
 Veracruz          0-0 Irapuato
  
-Round 10
+Round: 10
 [Sep 25]
 Pumas Morelos     1-1 La Piedad
 Albinegros        2-1 Guerreros          [in Veracruz]
@@ -184,7 +184,7 @@ Correcaminos      1-1 Tijuana
 Lobos BUAP        2-0 Leones Negros
 Cruz Azul Hidalgo 1-1 Indios
  
-Round 11
+Round: 11
 [Oct 1]
 Altamira          1-3 Albinegros
 Leones Negros     2-1 Correcaminos
@@ -198,7 +198,7 @@ Tijuana           1-0 Cruz Azul Hidalgo
 La Piedad         1-4 Irapuato
 Guerreros         1-0 Lobos BUAP
 
-Round 12
+Round: 12
 [Oct 9]
 Albinegros        0-0 León
 Pumas Morelos     1-2 Tijuana
@@ -211,7 +211,7 @@ Lobos BUAP        0-1 Altamira
 Cruz Azul Hidalgo 3-1 Leones Negros
 Atlante UTN       0-0 La Piedad
  
-Round 13
+Round: 13
 [Oct 15]
 Altamira          1-1 Correcaminos
 Leones Negros     1-1 Pumas Morelos
@@ -225,7 +225,7 @@ León              3-1 Lobos BUAP
 [Oct 17]
 Tijuana           2-1 Irapuato
  
-Round 14
+Round: 14
 [Oct 23]
 Pumas Morelos     0-0 Guerreros
 Albinegros        2-1 Mérida             [in Veracruz]
@@ -238,7 +238,7 @@ Cruz Azul Hidalgo 1-1 Altamira
 Lobos BUAP        4-0 Dorados
 La Piedad         2-2 Indios
   
-Round 15
+Round: 15
 [Oct 29]
 Altamira          3-0 Pumas Morelos     
 Leones Negros     1-1 Atlante UTN       
@@ -252,7 +252,7 @@ León              1-0 Cruz Azul Hidalgo
 [Oct 31]
 Tijuana           1-0 La Piedad         
  
-Round 16
+Round: 16
 [Nov 5]
 Lobos BUAP        0-1 Alacranes         
 [Nov 6]
@@ -266,7 +266,7 @@ Cruz Azul Hidalgo 4-2 Dorados
 Atlante UTN       1-2 Guerreros         
 La Piedad         4-0 Leones Negros     
  
-Round 17
+Round: 17
 [Nov 12]
 Altamira          2-1 Atlante UTN       
 Leones Negros     3-1 Indios            
@@ -427,7 +427,7 @@ Season: 2010-2011 Clausura
 *    winners qualify to semifinals;
 *    clubs finishing 2nd to 7th qualify to quarterfinals.
 
-Round 1
+Round: 1
 [Jan 7]
 Altamira          1-0 La Piedad         
 [Jan 8]
@@ -443,7 +443,7 @@ Lobos BUAP        0-1 Veracruz
 Mérida            2-0 Pumas Morelos         
 Indios            bye         
  
-Round 2
+Round: 2
 [Jan 14]
 Correcaminos      4-1 Lobos BUAP        
 [Jan 15]
@@ -457,7 +457,7 @@ Neza UTN          1-1 Dorados
 La Piedad         0-2 León              
 Tijuana           bye           
  
-Round 3
+Round: 3
 [Jan 21]
 Correcaminos      1-0 Veracruz          
 [Jan 22]
@@ -471,7 +471,7 @@ Dorados           2-0 La Piedad
 Altamira          1-0 Tijuana            
 Leones Negros     bye
 
-Round 4
+Round: 4
 [Jan 29]
 Pumas Morelos     4-1 Lobos BUAP
 Irapuato          2-2 Albinegros
@@ -484,7 +484,7 @@ Tijuana           3-3 León
 La Piedad         1-1 Mérida
 Veracruz          bye
 
-Round 5
+Round: 5
 [Feb 4]
 Correcaminos      2-0 Pumas Morelos
 [Feb 5]
@@ -499,7 +499,7 @@ Cruz Azul Hidalgo 1-2 Veracruz
 Mérida            0-1 Indios
 Altamira          bye
 
-Round 6
+Round: 6
 [Feb 11]
 Leones Negros     2-2 Dorados
 [Feb 12]
@@ -513,7 +513,7 @@ Neza UTN          1-0 Lobos BUAP
 Tijuana           2-2 Mérida
 León              bye
 
-Round 7
+Round: 7
 [Feb 16]
 Lobos BUAP        2-2 La Piedad
 Cruz Azul Hidalgo 0-0 Irapuato
@@ -525,7 +525,7 @@ León              3-1 Altamira
 Correcaminos      1-1 Neza UTN
 Dorados           bye
 
-Round 8
+Round: 8
 [Feb 19]
 Altamira          1-0 Dorados
 Irapuato          2-0 Pumas Morelos
@@ -538,7 +538,7 @@ Tijuana           0-0 Albinegros
 La Piedad         2-1 Correcaminos
 Mérida            bye
 
-Round 9
+Round: 9
 [Feb 25]
 Correcaminos      4-0 Indios
 [Feb 26]
@@ -552,7 +552,7 @@ Lobos BUAP        1-2 Tijuana
 Cruz Azul Hidalgo 1-1 La Piedad
 Alacranes         bye
 
-Round 10
+Round: 10
 [Mar 4]
 Altamira          2-1 Alacranes
 Veracruz          2-1 Dorados
@@ -566,7 +566,7 @@ Tijuana           2-1 Correcaminos
 La Piedad         0-1 Pumas Morelos
 Albinegros        bye
 
-Round 11
+Round: 11
 [Mar 11]
 Correcaminos      2-3 Leones Negros
 [Mar 12]
@@ -580,7 +580,7 @@ Neza UTN          1-0 Veracruz
 Cruz Azul Hidalgo 1-2 Tijuana
 Lobos BUAP        bye
 
-Round 12
+Round: 12
 [Mar 18]
 Altamira          2-2 Lobos BUAP
 Leones Negros     1-2 Cruz Azul Hidalgo
@@ -594,7 +594,7 @@ Tijuana           2-0 Pumas Morelos
 La Piedad         0-0 Neza UTN
 Correcaminos      bye
 
-Round 13
+Round: 13
 [Mar 25]
 Correcaminos      2-1 Altamira
 [Mar 26]
@@ -608,7 +608,7 @@ Neza UTN          3-1 Indios
 Lobos BUAP        2-3 León
 Cruz Azul Hidalgo bye
 
-Round 14
+Round: 14
 [Apr 1]
 Altamira          0-0 Cruz Azul Hidalgo
 Leones Negros     1-2 Irapuato
@@ -622,7 +622,7 @@ Dorados           2-1 Lobos BUAP
 Tijuana           2-0 Neza UTN
 Pumas Morelos     bye
 
-Round 15
+Round: 15
 [Apr 8]
 Correcaminos      1-1 Dorados
 [Apr 9]
@@ -636,7 +636,7 @@ Cruz Azul Hidalgo 2-1 León
 La Piedad         2-1 Tijuana
 Irapuato          bye
 
-Round 16
+Round: 16
 [Apr 15]
 Altamira          1-2 Irapuato
 [Apr 16]
@@ -650,7 +650,7 @@ Leones Negros     2-2 La Piedad
 Tijuana           2-1 Indios
 Neza UTN          bye
 
-Round 17
+Round: 17
 [Apr 22]
 Correcaminos      3-0 Alacranes
 [Apr 23]
