@@ -58,7 +58,7 @@ Date: 7/24/2009
 Date: 7/25/2009
 
 ; Dynamo Kyiv           ; 6-0; Tavrija Simferopol'           ; 8300
- Husiev 10, Husiev 33, Milevsky 17, Correa 48, Yarmolenko 62, Guilherme 90
+ Husiev 10, Husiev 33, Milevsky 17, Correa 48, Yarmolenko 62, Guilherme 90;
                                                      
 ; Illichivets' Mariupol ; 0-2; Shakhtar Donets'k; 8500
 ; Adriano 7, Adriano 30
@@ -120,7 +120,7 @@ Date: 8/7/2009
 Date: 8/8/2009
 
 ; Dynamo Kyiv           ; 3-1; Illichivets' Mariupol; 4900
- Ninkovic 54, Ninkovic 86; Husiev 61; Kasian 57
+ Ninkovic 54, Ninkovic 86, Husiev 61; Kasian 57
                          
 ; Tavrija Simferopol'   ; 3-1; Kryvbas Kryvyj Rih; 5300 
  Markovic 9, Monakhov 35, Haliuza 50; Motuz 46
@@ -216,7 +216,7 @@ Date: 9/19/2009
  Tyschenko 30, Yakymenko (og) 71; 
                                     
 ; Dnipro Dnipropetrovs'k; 3-0; Karpaty L'viv; 13129
- Nazarenko 30, Nazarenko (pk) 83, Selezniov 34
+ Nazarenko 30, Nazarenko (pk) 83, Selezniov 34;
                               
 Date: 9/20/2009
 
@@ -290,13 +290,13 @@ Round: 10
 Date: 10/17/2009
 
 ; Kryvbas Kryvyj Rih    ; 4-0; Zorja Luhans'k; 1200
- Maksymov 13, Maksymov 40, Bartulovic (pk) 69, Bartulovic 77
+ Maksymov 13, Maksymov 40, Bartulovic (pk) 69, Bartulovic 77;
                          
 ; Vorskla Poltava       ; 1-2; Metalurh Donets'k; 500
  Markoski 12; Sergio 80, Mkhitaryan 90
                           
 ; Chornomorets' Odesa   ; 2-0; Zakarpattja Uzhhorod; 2800
- Rebenok 24, Mel'nyk 28
+ Rebenok 24, Mel'nyk 28;
                                           
 ; Metalurh Zaporizhzhja ; 1-3; Dnipro Dnipropetrovs'k; 6500
  Poliovy 49; Rotan 5, Selezniov 26, Homeniuk 29
@@ -399,7 +399,7 @@ Date: 11/22/2009
  Bartulovic (pk) 27; Holodiuk 6, Kuznetsov 81
                      
 ; Illichivets' Mariupol ; 0-3; Dnipro Dnipropetrovs'k           ; 3500
- Selezniov 65, Chuchman (og) 90, Kalynychenko 90
+; Selezniov 65, Chuchman (og) 90, Kalynychenko 90
                    
 Round: 14  
 Date: 11/28/2009
@@ -471,10 +471,9 @@ Date: 3/24/2010
 ; Metalist Kharkiv      ; 5-1; Chornomorets' Odesa; 24250
  Devic 4, Devic 42, Devic 47, Coelho (pk) 22, Ponomaryov (og) 83; Shandruk 62
  
-; *Arsenal Kyiv         ; 2-0; Vorskla Poltava; 1000
+; Arsenal Kyiv         ; 2-0; Vorskla Poltava; Meteor Stadium, Dnipropetrovs'k; 1000
  Mazilu 51, Mazilu 66; 
-                                                   
-*Match played at Meteor Stadium, Dnipropetrovs'k
+
 ; Obolon' Kyiv          ; 1-1; Illichivets' Mariupol ; 3500
  Kotenko 37; Yaroshenko 19
                                        
@@ -512,7 +511,7 @@ Date: 12/12/2009
                                                
 Date: 12/13/2009
 ; Kryvbas Kryvyj Rih    ; 1-3; Metalurh Zaporizhzhja; 500 
- Bartulovic 35, Arzhanov 9, Arzhanov 76, Modebadze 86
+ Bartulovic 35; Arzhanov 9, Arzhanov 76, Modebadze 86
                    
 ; Metalurh Donets'k     ; 1-0; Karpaty L'viv; 1000
  Checher 29; 
@@ -723,7 +722,7 @@ Date: 4/11/2010
  Mykuliak 90+2; Batista 28
                                        
 ; Illichivets' Mariupol ; 0-4; Metalurh Donets'k; 4600
- Dimitrov (pk) 42, Dimitro 48, Tanasa 6, Mkhitaryan 81
+; Dimitrov (pk) 42, Dimitro 48, Tanasa 6, Mkhitaryan 81
                   
 ; Tavrija Simferopol'   ; 0-1; Zorja Luhans'k        ; 7600
 ; Siliuk 62
@@ -766,7 +765,7 @@ Date: 4/18/2010
 ; Vorskla Poltava       ; 0-0; Metalist Kharkiv                                                                       ; 12500
 
 ; Illichivets' Mariupol ; 1-0; Zorja Luhans'k  ; 5800
- Yaroshenko (pk) 65
+ Yaroshenko (pk) 65;
                                                  
 ; Kryvbas Kryvyj Rih    ; 0-1; Arsenal Kyiv ; 1000
 ; Korkishko 81
@@ -830,7 +829,7 @@ Date: 5/1/2010
 
 ; Kryvbas Kryvyj Rih    ; 0-0; Dnipro Dnipropetrovs'k                                                                     ; 2400
 
-Tavrija Simferopol'    1-1 Karpaty L'viv ; 8100
+; Tavrija Simferopol'   ; 1-1; Karpaty L'viv ; 8100
  Feschuk 58; Tkachuk 16
                                           
 ; Dynamo Kyiv           ; 2-0; Zakarpattja Uzhhorod; 8200
@@ -879,7 +878,7 @@ Date: 5/9/2010
  Fininho 37;
                                                        
 ; Metalurh Donets'k     ; 5-0; Obolon' Kyiv; 1500
- Soares 2, Soares 70, Dimitrov (pk) 8, 72', Tanasa 77'
+ Soares 2, Soares 70, Dimitrov (pk) 8, Dimitrov 72, Tanasa 77;
                    
 ; Vorskla Poltava       ; 1-1; Dnipro Dnipropetrovs'k; 5100
  Matvieiev 45; Nazarenko 87
@@ -894,7 +893,7 @@ Date: 5/9/2010
  Lubenovic 10, Kovpak 25; Kravchenko 59, Kravchenko 68, Costa 80
          
 ; Dynamo Kyiv           ; 3-0; Metalurh Zaporizhzhja; 5150
- Milevsky 11, Milevsky 32, Kryvtsov (og) 61
+ Milevsky 11, Milevsky 32, Kryvtsov (og) 61;
 
 
 * 1.Shakhtar Donets'k                    30 24  5  1  62-18  77  Champions

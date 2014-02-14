@@ -18,184 +18,185 @@ Competition: Campeonato Mineiro
 *First Phase
 
 Round: 1
-
 Date: 1/23/2005
 
-Democrata    0-1  Villa Nova
-Ituiutaba    2-2  Guarani
-America      0-1  Ipatinga
-Mamore       1-2  Valeriodoce
+; Democrata   ; 0-1;  Villa Nova
+; Ituiutaba   ; 2-2;  Guarani
+; America     ; 0-1;  Ipatinga
+; Mamore      ; 1-2;  Valeriodoce
 
 Date: 3/19/2005
 
-URT          1-1  Cruzeiro
+; URT         ; 1-1;  Cruzeiro
 
 Date: 3/20/2005
 
-Caldense     1-0  Atletico
+; Caldense    ; 1-0;  Atletico
 
 Round: 2
-
 Date: 1/26/2005
 
-Villa Nova   1-0  America
+; Villa Nova  ; 1-0;  America
 
 Date: 1/29/2005
 
-Cruzeiro     2-0  Democrata
+; Cruzeiro    ; 2-0;  Democrata
 
 Date: 1/30/2005
 
-Atletico     2-3  Valeriodoce
-Ipatinga     3-1  URT
-Mamore       0-1  Ituiutaba
-Guarani      1-1  Caldense
+; Atletico    ; 2-3;  Valeriodoce
+; Ipatinga    ; 3-1;  URT
+; Mamore      ; 0-1;  Ituiutaba
+; Guarani     ; 1-1;  Caldense
 
 Round: 3
-
 Date: 2/5/2005
 
-Democrata    1-0  Mamore
-Valeriodoce  1-1  Ipatinga
-URT          3-2  Caldense
-America      3-3  Guarani
-Villa Nova   1-2  Cruzeiro
+; Democrata   ; 1-0;  Mamore
+; Valeriodoce ; 1-1;  Ipatinga
+; URT         ; 3-2;  Caldense
+; America     ; 3-3;  Guarani
+; Villa Nova  ; 1-2;  Cruzeiro
 
 Date: 2/6/2005
 
-Ituiutaba    2-3  Atletico
+; Ituiutaba   ; 2-3;  Atletico
 
 Round: 4
-
 Date: 2/9/2005
 
-Caldense     1-2  Villa Nova
-Atletico     4-0  Democrata
-  [Quirino (2), Euller, Ataliba]
+; Caldense    ; 1-2;  Villa Nova
+; Atletico    ; 4-0;  Democrata
+Quirino, Quirino, Euller, Ataliba;
 
 Date: 2/10/2005
 
-Ipatinga     1-2  Cruzeiro
-  [Marinho; Fred (2)]
-URT          1-1  Ituiutaba
-Guarani      1-2  Mamore
-America      4-2  Valeriodoce
+; Ipatinga    ; 1-2;  Cruzeiro
+Marinho; Fred, Fred
+
+; URT         ; 1-1;  Ituiutaba
+; Guarani     ; 1-2;  Mamore
+; America     ; 4-2;  Valeriodoce
 
 Round: 5
-
 Date: 2/12/2005
 
-Atletico     4-1  Villa Nova
-  [Quirino (3), Leandro; Hudson]
+; Atletico    ; 4-1;  Villa Nova
+Quirino, Quirino, Quirino, Leandro; Hudson
 
 Date: 2/13/2005
 
-Democrata    2-2  URT
-Ituiutaba    2-0  America
-  [Oscar, Washington]
-Cruzeiro     1-0  Guarani
-  [Fred]
-Mamore       0-4  Ipatinga
-Valeriodoce  1-1  Caldense
+; Democrata   ; 2-2;  URT
+; Ituiutaba   ; 2-0;  America
+Oscar, Washington;
+
+; Cruzeiro    ; 1-0;  Guarani
+Fred;
+
+; Mamore      ; 0-4;  Ipatinga
+; Valeriodoce ; 1-1;  Caldense
 
 Round: 6
-
 Date: 2/20/2005
 
-Democrata    1-1  Ituiutaba
-Cruzeiro     0-2  Atletico
-  [Rodrigo Fabri, Euller]
-URT          2-1  Mamore
-Guarani      4-1  Valeriodoce
-America      3-1  Caldense
+; Democrata   ; 1-1;  Ituiutaba
+; Cruzeiro    ; 0-2;  Atletico
+; Rodrigo Fabri, Euller
+
+; URT         ; 2-1;  Mamore
+; Guarani     ; 4-1;  Valeriodoce
+; America     ; 3-1;  Caldense
 
 Date: 3/20/2005
 
-Villa Nova   0-2  Ipatinga
+; Villa Nova  ; 0-2;  Ipatinga
 
 Round: 7
-
 Date: 2/23/2005
 
-Valeriodoce  0-0  Democrata
-URT          4-1  America
-  [Ditinho (2), Vagner (2); Diego]
-Caldense     1-1  Ituiutaba
-  [Jaï¿½lson; Jaiminho (og)]
-Villa Nova   3-0  Guarani
-  [Everton (2), Paulo Cï¿½sar]
-Atletico     2-2  Ipatinga
-  [Quirino, Marcelinho; Marinho (2)]
+; Valeriodoce ; 0-0;  Democrata
+
+; URT         ; 4-1;  America
+  Ditinho (2), Vagner (2); Diego
+
+; Caldense    ; 1-1;  Ituiutaba
+  Jaï¿½lson; Jaiminho (og)
+
+; Villa Nova  ; 3-0;  Guarani
+  Everton (2), Paulo Cï¿½sar
+
+; Atletico    ; 2-2;  Ipatinga
+  Quirino, Marcelinho; Marinho (2)
+
 
 Date: 2/24/2005
 
-Cruzeiro     3-0  Mamore
-  [Edu Dracena, Jean, Ruy]
+; Cruzeiro    ; 3-0;  Mamore
+  Edu Dracena, Jean, Ruy
 
 Round: 8
-
 Date: 2/26/2005
 
-Mamore       1ï¿½2  Atletico
-  [Saulo; Fï¿½bio Jï¿½nior, Rodrigo Fabri]
+; Mamore      ; 1-2;  Atletico
+*  [Saulo; Fï¿½bio Jï¿½nior, Rodrigo Fabri]
 
 Date: 2/27/2005
 
-Ituiutaba    3-1  Valeriodoce
-  [Fabrï¿½cio, Oscar, Dadico; Haender]
-America      0-4  Cruzeiro
-  [Fred (3), Adriano]
-Villa Nova   0-2  URT
-Caldense     2-1  Democrata
-Ipatinga     3-1  Guarani
+; Ituiutaba   ; 3-1;  Valeriodoce
+  Fabrï¿½cio, Oscar, Dadico; Haender
+
+; America     ; 0-4;  Cruzeiro
+  Fred (3), Adriano
+
+; Villa Nova  ; 0-2;  URT
+; Caldense    ; 2-1;  Democrata
+; Ipatinga    ; 3-1;  Guarani
 
 Round: 9
-
 Date: 3/5/2005
 
-Guarani      2-1  Atletico
-  [Paulo Cï¿½sar, Valnei; Fï¿½bio Jï¿½nior]
+; Guarani     ; 2-1;  Atletico
+Paulo Cï¿½sar, Valnei; Fï¿½bio Jï¿½nior
 
 Date: 3/6/2005
 
-Democrata    2-1  America
-  [Helberth, Marinho; Carlï¿½o]
-Mamore       1-1  Villa Nova
-Valeriodoce  1-2  URT
-Cruzeiro     0-0  Caldense
-Ipatinga     2-1  Ituiutaba
+; Democrata   ; 2-1;  America
+  Helberth, Marinho; Carlï¿½o
+
+; Mamore      ; 1-1;  Villa Nova
+; Valeriodoce ; 1-2;  URT
+; Cruzeiro    ; 0-0;  Caldense
+; Ipatinga    ; 2-1;  Ituiutaba
 
 Round: 10
-
 Date: 3/12/2005
 
-Valeriodoce  1-5  Cruzeiro
+; Valeriodoce ; 1-5;  Cruzeiro
   [Paulista; Fred (3), Kelly (2)]
 
 Date: 3/13/2005
 
-Democrata    1-1  Ipatinga
-Ituiutaba    2-2  Villa Nova
-Caldense     2-2  Mamore
-America      1-0  Atletico
+; Democrata   ; 1-1;  Ipatinga
+; Ituiutaba   ; 2-2;  Villa Nova
+; Caldense    ; 2-2;  Mamore
+; America     ; 1-0;  Atletico
   [Washington]
-URT          1-0  Guarani
+; URT         ; 1-0;  Guarani
 
 Round: 11
-
 Date: 3/20/2005
 
-America      2-1  Mamore
+; America     ; 2-1;  Mamore
 
 Date: 3/23/2005
 
-Cruzeiro     3-1  Ituiutaba
+; Cruzeiro    ; 3-1;  Ituiutaba
   [Tadeu, Lopes, Marcelo Batatais; Douglas]
-Villa Nova   3-2  Valeriodoce
-Guarani      1-0  Democrata
-Atletico     4-1  URT
+; Villa Nova  ; 3-2;  Valeriodoce
+; Guarani     ; 1-0;  Democrata
+; Atletico    ; 4-1;  URT
   [Fï¿½bio Jï¿½nior (3), Henrique; Paulo Roberto]
-Ipatinga     1-0  Caldense
+; Ipatinga    ; 1-0;  Caldense
 
 
 *Table
