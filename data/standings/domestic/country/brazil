@@ -1,9 +1,36 @@
 
 Competition:  Campeonato Brasileiro Série A
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+Season: 2013
+BlockSource: http://www.rsssfbrasil.com/tablesae/br2013.htm
+
+ 1; Cruzeiro     ; 35; 23;  6 ; 6 ; 74; 32 ; 75
+ 2; Grêmio       ; 35; 17;  9 ; 9 ; 40; 34 ; 60
+ 3; Goiás        ; 35; 16; 11 ; 8 ; 47; 36 ; 59
+ 4; Atlético/PR  ; 35; 16; 10 ; 9 ; 53; 45 ; 58
+ 5; Botafogo     ; 35; 16;  9 ;10 ; 50; 38 ; 57
+ 6; Vitória      ; 35; 15;  9 ;11 ; 52; 48 ; 54
+ 7; Atlético/MG  ; 35; 14; 10 ;11 ; 41; 33 ; 52
+ 8; São Paulo    ; 35; 14;  7 ;14 ; 38; 37 ; 49
+ 9; Corinthians  ; 35; 11; 16 ; 8 ; 27; 20 ; 49
+10; Santos       ; 35; 12; 12 ;11 ; 45; 37 ; 48
+11; Internacional; 35; 11; 12 ;12 ; 51; 52 ; 45
+12; Flamengo     ; 35; 11; 12 ;12 ; 39; 41 ; 45
+13; Portuguesa   ; 35; 11; 11 ;13 ; 48; 45 ; 44
+14; Criciúma     ; 35; 12;  6 ;17 ; 47; 59 ; 42
+15; Fluminense   ; 35; 11;  9 ;15 ; 39; 43 ; 42
+16; Bahia        ; 35; 10; 12 ;13 ; 33; 42 ; 42
+
+17; Coritiba     ; 35; 10; 11 ;14 ; 39; 44 ; 41
+18; Vasco da Gama; 35;  9; 11 ;15 ; 45; 55 ; 38
+19; Ponte Preta  ; 35;  9;  8 ;18 ; 36; 52 ; 35
+20; Náutico      ; 35;  4;  5 ;26 ; 20; 71 ; 17
+
+
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
-
-
 Season: 2012
 BlockSource: http://en.wikipedia.org/wiki/2012_Campeonato_Brasileiro_S%C3%A9rie_A
 

@@ -22,9 +22,9 @@ Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_d
 
 Key: team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
 
-; Sevilla FC Puerto Rico  ; 0; 0; 0; 0; 0; 0; 0; 0
-; River Plate Puerto Rico ; 0; 0; 0; 0; 0; 0; 0; 0
-; Puerto Rico United      ; 0; 0; 0; 0; 0; 0; 0; 0
+*; Sevilla FC Puerto Rico  ; 0; 0; 0; 0; 0; 0; 0; 0
+*; River Plate Puerto Rico ; 0; 0; 0; 0; 0; 0; 0; 0
+*; Puerto Rico United      ; 0; 0; 0; 0; 0; 0; 0; 0
 
 
 
@@ -42,3 +42,25 @@ Season: 2012
 9      ; Dayton Dutch Lions      ;  24    ;4      ; 10    ;  10      ;20     ; 29    ;  −9     ; 22
 10     ; Pittsburgh Riverhounds  ;  24    ;4      ; 5     ;  15      ;20     ; 39    ;  −19    ; 17
 11     ; Antigua Barracuda       ;  24    ;5      ; 1     ;  18      ;16     ; 50    ;  −34    ; 16
+
+
+
+Season: 2013
+BlockSource: http://en.wikipedia.org/wiki/2013_USL_Pro_season
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+1     ;  Richmond Kickers         ; 26     ; 15     ; 10     ; 1      ; 51     ; 24     ; +27    ; 55   
+2     ;  Orlando City             ; 26     ; 16     ; 6      ; 4      ; 54     ; 26     ; +28    ; 54    
+3     ;  Charleston Battery       ; 26     ; 13     ; 6      ; 7      ; 48     ; 29     ; +19    ; 45
+4     ;  Harrisburg City Islanders; 26     ; 14     ; 2      ; 10     ; 55     ; 39     ; +16    ; 44
+5     ;  Charlotte Eagles         ; 26     ; 10     ; 11     ; 5      ; 44     ; 39     ; +5     ; 41
+6     ;  Los Angeles Blues        ; 26     ; 11     ; 7      ; 8      ; 52     ; 37     ; +15    ; 40
+7     ;  Pittsburgh Riverhounds   ; 26     ; 10     ; 8      ; 8      ; 36     ; 33     ; +3     ; 38
+8     ;  Dayton Dutch Lions       ; 26     ; 10     ; 7      ; 9      ; 43     ; 46     ; −3     ; 37
+9     ;  Wilmington Hammerheads   ; 26     ; 11     ; 4      ; 11     ; 35     ; 39     ; −4     ; 36
+10    ;  VSI Tampa Bay            ; 26     ; 9      ; 5      ; 12     ; 41     ; 39     ; +2     ; 32
+11    ;  Rochester Rhinos         ; 26     ; 6      ; 10     ; 10     ; 25     ; 39     ; −14    ; 28
+12    ;  Phoenix FC               ; 26     ; 5      ; 7      ; 14     ; 28     ; 41     ; −13    ; 22
+13    ;  Antigua Barracuda        ; 26     ; 0      ; 0      ; 26     ; 11     ; 91     ; −80    ; 0
