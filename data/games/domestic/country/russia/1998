@@ -1,32 +1,30 @@
-http://www.rsssf.com/tablesr/rus98.html
+BlockSource: http://www.rsssf.com/tablesr/rus98.html
+Season: 1998
+Competition: Russian Premier League
 
-Russia 1998
+* 1.Spartak            30 17  8  5 58-27 59  [Moskva]          Champions
+* 2.CSKA               30 17  5  8 50-22 56  [Moskva]
+* 3.Lokomotiv          30 16  7  7 45-28 55  [Moskva]
+* 4.Rotor              30 12 12  6 52-37 48  [Volgograd]
+* 5.Zenit              30 12 11  7 42-25 47  [St. Peterburg]
+* 6.Rostsel'mash       30 11 11  8 42-38 44  [Rostov-na-Donu]
+* 7.Uralan             30 12  6 12 39-41 42  [Elista]
+* 8.Alania             30 11  7 12 46-39 40  [Vladikavkaz]
+* 9.Dinamo             30  8 15  7 31-30 39  [Moskva]
+*10.Chernomorets       30  9 11 10 38-38 38  [Novorossiysk] 
+*11.Torpedo            30  9 10 11 38-34 37  [Moskva]
+*12.Kryl'ya Sovetov    30  9  8 13 25-37 35  [Samara]
+*13.Zhemchuzhina       30  9  8 13 31-48 35  [Sochi]
+*14.Shinnik            30  9  8 13 30-40 35  [Yaroslavl']
+*------------------------------------------
+*15.Baltika            30  7 11 12 32-43 32  [Kaliningrad]     Relegated
+*16.FK Tyumen'         30  2  2 26 17-89  8  [Tyumen']         Relegated
+*
+*[in case of equality of points, first number of wins then head-to-head counts]
 
-Vysshaya Liga (1st Level)
+Round: 1 
+Date: 3/28/1998
 
-Table:
-
- 1.Spartak            30 17  8  5 58-27 59  [Moskva]          Champions
- 2.CSKA               30 17  5  8 50-22 56  [Moskva]
- 3.Lokomotiv          30 16  7  7 45-28 55  [Moskva]
- 4.Rotor              30 12 12  6 52-37 48  [Volgograd]
- 5.Zenit              30 12 11  7 42-25 47  [St. Peterburg]
- 6.Rostsel'mash       30 11 11  8 42-38 44  [Rostov-na-Donu]
- 7.Uralan             30 12  6 12 39-41 42  [Elista]
- 8.Alania             30 11  7 12 46-39 40  [Vladikavkaz]
- 9.Dinamo             30  8 15  7 31-30 39  [Moskva]
-10.Chernomorets       30  9 11 10 38-38 38  [Novorossiysk] 
-11.Torpedo            30  9 10 11 38-34 37  [Moskva]
-12.Kryl'ya Sovetov    30  9  8 13 25-37 35  [Samara]
-13.Zhemchuzhina       30  9  8 13 31-48 35  [Sochi]
-14.Shinnik            30  9  8 13 30-40 35  [Yaroslavl']
-------------------------------------------
-15.Baltika            30  7 11 12 32-43 32  [Kaliningrad]     Relegated
-16.FK Tyumen'         30  2  2 26 17-89  8  [Tyumen']         Relegated
-
-[in case of equality of points, first number of wins then head-to-head counts]
-
-Round 1 [Mar 28]
 Rostselmash  2-2 Rotor
    (Pestryakov 49, 90 - Zernov 7, Veretennikov 85 pen.)
 Shinnik      1-0 Torpedo
@@ -44,7 +42,9 @@ Zhemchuzhina 0-2 Kryl'ya
 Alania       1-0 Uralan 
    (Chaladze 13)
 
-Round 2 [Apr 4,5]
+Round: 2 
+Date: 4/4,5/1998
+
 Rotor        6-2 Shinnik
   (Veretennikov 5, 16, 36 pen., 81, 88, Zubko 32 - Putilin 10, Leonchenko 79 pen.)
 Uralan       1-3 Rostselmash
@@ -62,7 +62,9 @@ Baltika      2-1 Zhemchuzhina
 Spartak      2-0 Lokomotiv
     (Buznikin 64, Robson 89)
 
-Round 3 [Apr 11-13]
+Round: 3 
+Date: 4/11-13/1998
+
 Shinnik      0-0 Rostselmash
 Chernomorets 1-1 Rotor
   (Maiorov 88 - Zubko 38)
@@ -73,10 +75,16 @@ Alania       2-0 Baltika
   (Yanovsky 55 pen., Botsiyev 74)
 Uralan       1-0 Kryl'ya
   (Smertin 38)
-Dinamo       0-0 Spartak           [May 13]
-Lokomotiv    2-1 CSKA              [May 13]
+Dinamo       0-0 Spartak           
+Date: 5/13/1998
 
-Round 4 [Apr 18,19]
+Lokomotiv    2-1 CSKA              
+Date: 5/13/1998
+
+
+Round: 4 
+Date: 4/18,19/1998
+
 Rotor        2-1 Zenit
   (Krivov 82, Olenikov 89 - Gerasimets 40)
 Shinnik      0-0 Chernomorets
@@ -92,7 +100,9 @@ Rostselmash  3-0 Kryl'ya
   (Kupriyanov 3, Gradilenko 25, Matveyev 52 pen.)
 Torpedo      0-0 Lokomotiv
 
-Round 5 [Apr 25]
+Round: 5 
+Date: 4/25/1998
+
 Chernomorets 1-1 Rostselmash
   (Burdin 60 pen. - Khankeyev 76 pen.)
 Zenit        3-0 Shinnik     
@@ -108,7 +118,9 @@ Uralan       2-1 Tyumen'           [in Volgograd]
   (Shukanov 9, 38 - Podpaly 61 pen.)
 Kryl'ya      0-0 Baltika
 
-Round 6 [May 2]
+Round: 6 
+Date: 5/2/1998
+
 Rotor        0-0 Dinamo
 Tyumen'      0-3 Kryl'ya
   (Avalyan 22, Bulatov 29 pen., Tsiklauri 69)
@@ -123,7 +135,9 @@ Rostselmash  0-1 Baltika
   (Silin 59)
 Chernomorets 0-0 Zenit
 
-Round 7 [May 9]
+Round: 7 
+Date: 5/9/1998
+
 Zenit        3-0 Rostselmash
   (Popovich 22, Gorshkov 29, A.Panov 87)
 Lokomotiv    1-1 Chernomorets 
@@ -141,8 +155,12 @@ Kryl'ya      0-2 Spartak
 Baltika      2-0 Tyumen'           
   (Baranov 63, Daev 77)
 
-Round 8 [May 16]
-Rotor        1-1 Alania            [May 13]
+Round: 8 
+Date: 5/16/1998
+
+Rotor        1-1 Alania            
+Date: 5/13/1998
+
 Shinnik      1-2 Zhemchuzhina
   (Serebrennikov 66 - Gogrichiani 49, Yeschenko 74)
 Chernomorets 1-1 Dinamo
@@ -155,10 +173,14 @@ Torpedo      1-1 Uralan
   (Gudushauri 39 - Litvinov 43)
 Rostselmash  4-0 Tyumen'
   (Matveyev 2, 53, 89, Kirichenko 29)
-Spartak      3-0 Baltika           [Jul 8]
+Spartak      3-0 Baltika           
+Date: 7/8/1998
+
    (Gorlukovich 10, Tsymbalar' 57, 74)
 
-Round 9 [May 23]
+Round: 9 
+Date: 5/23/1998
+
 Lokomotiv    1-1 Rostselmash
   (Oganesyan 4 - Kirichenko 86)
 Dinamo       0-0 Zenit
@@ -170,11 +192,17 @@ Kryl'ya      2-0 Torpedo
   (Rezantsev 24, Safronov 70 pen.)
 Baltika      1-1 CSKA     
   (Buitkus 74 - Kulik 38)
-Uralan       2-1 Rotor             [Jun 7]
-Tyumen'      0-6 Spartak           [Jul 5]
+Uralan       2-1 Rotor             
+Date: 6/7/1998
+
+Tyumen'      0-6 Spartak           
+Date: 7/5/1998
+
   (Kanischev 40, 53, 88, Pisarev 60, Tsymbalar' 70, Titov 86)
 
-Round 10 [Jun 3]
+Round: 10 
+Date: 6/3/1998
+
 Rotor        2-1 Kryl'ya
   (Yesipov 7, 38 - Avalyan 54)
 Shinnik      0-0 Uralan
@@ -190,7 +218,9 @@ Torpedo      0-0 Baltika
 Rostselmash  3-3 Spartak
   (Dyadyuk 4, Khankeyev 12, 25 - Buznikin 36, 44, Romaschenko 88 pen.)
 
-Round 11 [Jun 11]
+Round: 11 
+Date: 6/11/1998
+
 Dinamo       1-2 Rostselmash
   (Shtanyuk 62 - Kirichenko 41, 61)
 Zhemchuzhina 2-0 Lokomotiv
@@ -207,7 +237,9 @@ Tyumen'      1-2 Torpedo
 Spartak      2-1 CSKA
   (Tikhonov 21, Tsymbalar' 65 - Varlamov 32)
 
-Round 12 [Jun 17]
+Round: 12 
+Date: 6/17/1998
+
 Rotor        5-1 Tyumen'
   (Veretennikov 12, Yesipov 40, 56, Krivov 42, Zubko 49 - Tsarenko 70 pen.)
 Shinnik      3-1 Baltika
@@ -224,8 +256,12 @@ Torpedo      1-1 Spartak
 Rostselmash  1-0 CSKA
   (Bessmertny 13)
   
-Round 13 [Jun 21]
-Baltika      1-0 Chernomorets      [Jun 7]
+Round: 13 
+Date: 6/21/1998
+
+Baltika      1-0 Chernomorets      
+Date: 6/7/1998
+
 Zhemchuzhina 0-0 Rostselmash
 Alania       2-2 Dinamo
   (Yanovsky 45, 76 pen. - Kovtun 53, Teryokhin 67 pen.)
@@ -240,7 +276,9 @@ Spartak      3-1 Rotor
 CSKA         1-3 Torpedo
   (Kulik 37 - Skachenko 18, Avakov 54, Bulatov 84)
 
-Round 14 [Jun 24]
+Round: 14 
+Date: 6/24/1998
+
 Rotor        0-0 CSKA
 Shinnik      0-1 Spartak
   (Alenichev 10)
@@ -257,7 +295,9 @@ Zhemchuzhina 3-0 Alania
 Rostselmash  2-3 Torpedo
   (Gradilenko 22, 25 - Avakov 11, Semshov 65, Burchenkov 75)
 
-Round 15 [Jul 1]
+Round: 15 
+Date: 7/1/1998
+
 Alania       0-1 Rostselmash
   (Matveyev 11)
 Uralan       2-0 Zhemchuzhina
@@ -275,7 +315,9 @@ CSKA         0-1 Shinnik
 Torpedo      2-2 Rotor
   (Gashkin 21 pen., Bushmanov 63 - Yesipov 47, Zubko 75)
 
-Round 16 [Jul 15]
+Round: 16 
+Date: 7/15/1998
+
 Rotor        5-1 Rostselmash
   (Yesipov 30, Veretennikov 30, 58 pen., Berketov 35, 85 - Pestryakov 89)
 Torpedo      0-1 Shinnik
@@ -291,7 +333,9 @@ Kryl'ya      0-0 Zhemchuzhina
 Uralan       3-3 Alania
   (Smertin 39, Kormil'tsev 56, Durnev 65 - Chaika 10, Demetradze 43 pen., 51)
 
-Round 17 [Jul 22]
+Round: 17 
+Date: 7/22/1998
+
 Shinnik      2-0 Rotor
   (Leonchenko 2, Gal'yanov 9)
 Alania       5-0 Kryl'ya 
@@ -308,7 +352,9 @@ Zenit        0-1 CSKA
 Chernomorets 1-1 Torpedo     
   (Doguzov 73 pen. - Skachenko 69)
 
-Round 18 [Jul 29]
+Round: 18 
+Date: 7/29/1998
+
 Rostselmash  3-2 Shinnik   
   (Duyun 13, San'ko 43, Matveyev 57 - Serebrennikov 28, Vyaz'mikin 76)
 Rotor        3-0 Chernomorets 
@@ -326,7 +372,9 @@ Baltika      1-3 Alania
 Kryl'ya      2-0 Uralan
   (Bavykin 27, Luschan 88)
 
-Round 19 [Aug 1]
+Round: 19 
+Date: 8/1/1998
+
 Zenit        0-1 Rotor
   (Borodin 85)
 Chernomorets 2-1 Shinnik
@@ -344,7 +392,9 @@ Lokomotiv    2-0 Torpedo
 Kryl'ya      1-0 Rostselmash
   (Aver'yanov 70)
 
-Round 20 [Aug 7,8]
+Round: 20 
+Date: 8/7,8/1998
+
 Rotor        3-2 Lokomotiv
   (Krivov 26, Veretennikov 28, Olenikov 80 -  Tedeyev 51, Los'kov 62)
 Torpedo      2-2 Dinamo
@@ -361,7 +411,9 @@ Tyumen'      1-3 Uralan
 Baltika      1-1 Kryl'ya  
   (Bulatov 12 pen. - Avalyan 4)
 
-Round 21 [Aug 15,16]
+Round: 21 
+Date: 8/15,16/1998
+
 Dinamo       2-2 Rotor
   (Teryokhin 4, 22 - Veretennikov 18, Olenikov 85)
 Lokomotiv    0-0 Shinnik
@@ -378,7 +430,9 @@ Baltika      3-0 Rostselmash
 Uralan       1-0 Spartak
   (Ignat'yev 17)
 
-Round 22 [Aug 21,22]
+Round: 22 
+Date: 8/21,22/1998
+
 Rotor        0-0 Zhemchuzhina
 Rostselmash  1-1 Zenit
   (Matveyev 26 - Zazulin 72)
@@ -395,7 +449,9 @@ Spartak      2-2 Kryl'ya
 Tyumen'      3-2 Baltika 
   (Glukhov 14, Lychkin 35, 76 - Bulatov 77, 89)
 
-Round 23 [Aug 30]
+Round: 23 
+Date: 8/30/1998
+
 Alania       3-1 Rotor
   (Tarlovsky 30, Demetradze 68 pen., Paulo Emilio 86 - Berketov 88)
 Zhemchuzhina 2-2 Shinnik
@@ -412,7 +468,9 @@ Uralan       3-2 Torpedo
 Tyumen'      1-4 Rostselmash
   (Yegunov 76 - Pestryakov 47, Matveyev 56, Prudius 67, Dudnik 71)
 
-Round 24 [Sep 9]
+Round: 24 
+Date: 9/9/1998
+
 Rostselmash  2-2 Lokomotiv
   (Kirichenko 35, Prudius 38 - Janashiya 37, Bulykin 55)
 Zenit        1-1 Dinamo
@@ -429,7 +487,9 @@ CSKA         2-0 Baltika
 Spartak      7-0 Tyumen'
   (Shirko 11, 28, 65, 82, Pisarev 19, Baranov 78, Tikhonov 89 pen.)
 
-Round 25 [Sep 20]
+Round: 25 
+Date: 9/20/1998
+
 Kryl'ya      0-0 Rotor
 Uralan       2-1 Shinnik
   (Aksyonov 19, Durnev 57 - Kazalov 58)
@@ -445,7 +505,9 @@ Baltika      0-0 Torpedo
 Spartak      1-1 Rostselmash
   (Titov 67 - Pestryakov 73)
 
-Round 26 [Sep 26]
+Round: 26 
+Date: 9/26/1998
+
 Rostselmash  0-0 Dinamo
 Lokomotiv    4-3 Zhemchuzhina
   (Chugainov 45 pen., Bulykin 58, Drozdov 79, Los'kov 83 - Kalaijan 50,
@@ -462,8 +524,10 @@ Torpedo      5-1 Tyumen'
 CSKA         4-1 Spartak       
   (Khomukha 16, 87, Filippenkov 25, Borodkin 54 - Robson 90)
 
-Round 27 
-[Oct 3]
+Round: 27 
+
+Date: 10/3/1998
+
 Tyumen'      2-4 Rotor
   (Lychkin 19, 41 pen. - Zernov 22, Veretennikov 44, 57 pen., Yesipov 47)
 Baltika      3-1 Shinnik
@@ -476,13 +540,17 @@ Zhemchuzhina 1-2 Dinamo
   (Kovalenko 39 - Izibor 60, Golovskoy 82)
 CSKA         1-0 Rostselmash
   (Kulik 40)
-[Oct 4]
+
+Date: 10/4/1998
+
 Alania       1-2 Lokomotiv
   (Chaika 33 - Chugainov 75 pen., Borodyuk 80)
 Spartak      1-0 Torpedo
   (Pisarev 32)
 
-Round 28 [Oct 17]
+Round: 28 
+Date: 10/17/1998
+
 Rostselmash  2-0 Zhemchuzhina
   (Bessmertny 4, Matveyev 47)
 Dinamo       4-1 Alania
@@ -500,7 +568,9 @@ Rotor        1-2 Spartak
 Torpedo      0-2 CSKA
   (Kulik 72, Semak 78)
 
-Round 29 [Oct 25]
+Round: 29 
+Date: 10/25/1998
+
 CSKA         2-0 Rotor
   (Filippenkov 13, Kulik 44)
 Spartak      3-1 Shinnik
@@ -518,7 +588,9 @@ Alania       3-0 Zhemchuzhina
 Torpedo      3-1 Rostselmash
   (Skachenko 28, 49, Semshov 32 - Khankeyev 37)
 
-Round 30 [Oct 30]
+Round: 30 
+Date: 10/30/1998
+
 Shinnik      1-2 CSKA
   (Kazalov 39 - Semak 21, Khomukha 30)
 Lokomotiv    2-0 Baltika
@@ -535,1190 +607,26 @@ Zenit        0-0 Tyumen'
 Zhemchuzhina 2-6 Uralan
   (Gogrichiani 6, Yeshchenko 75 pen. - D.Ivanov 9, 44, 65, Durnev 19, 78 pen., Ignat'yev 60)
 
-Table:
 
- 1.Spartak            30 17  8  5 58-27 59  [Moskva]          Champions
- 2.CSKA               30 17  5  8 50-22 56  [Moskva]
- 3.Lokomotiv          30 16  7  7 45-28 55  [Moskva]
- 4.Rotor              30 12 12  6 52-37 48  [Volgograd]
- 5.Zenit              30 12 11  7 42-25 47  [St. Peterburg]
- 6.Rostsel'mash       30 11 11  8 42-38 44  [Rostov-na-Donu]
- 7.Uralan             30 12  6 12 39-41 42  [Elista]
- 8.Alania             30 11  7 12 46-39 40  [Vladikavkaz]
- 9.Dinamo             30  8 15  7 31-30 39  [Moskva]
-10.Chernomorets       30  9 11 10 38-38 38  [Novorossiysk] 
-11.Torpedo            30  9 10 11 38-34 37  [Moskva]
-12.Kryl'ya Sovetov    30  9  8 13 25-37 35  [Samara]
-13.Zhemchuzhina       30  9  8 13 31-48 35  [Sochi]
-14.Shinnik            30  9  8 13 30-40 35  [Yaroslavl']
-------------------------------------------
-15.Baltika            30  7 11 12 32-43 32  [Kaliningrad]     Relegated
-16.FK Tyumen'         30  2  2 26 17-89  8  [Tyumen']         Relegated
-
-[in case of equality of points, first number of wins then head-to-head counts]
-
-Top scorers
-1. Oleg Veretennikov (Rotor)               22
-2. Georgi Demetradze (Alania)              14
-   Vladimir Kulik (CSKA)                   14
-   Yuri Matveyev (Rostsel'mash)            14
-5. Oleg Teryokhin (Dinamo)                 12
-
-
-Russia Cup 1997/98
-
-1/256
-
-Samotlor-XXI
-(Nizhnevartovsk)          - Irtysh (Tobol'sk)         - 3:0
-Dinamo (Barnaul)          - Torpedo (Rubtsovsk)       - 3:1
-Dinamo (Omsk)             - Tchkalovets (Novosibirsk) - 2:0
-Mezhdurechensk            - Metallurg-ZAPSIB
-                            (Novokuznetsk)            - 0:1
-Tom' (Tomsk)              - Kuzbass (Kemerovo)        - 4:1
-Metallurg (Krasnoyarsk)   - Viktoriya (Nazarovo)      - 3:2 (a.e.t.)
-Energetik (Uren')         - Khimik (Dzerzhinsk)       - 2:0
-Progress (Zelenodol'sk)   - Torpedo (Pavlovo)         - +:-
-                            (Torpedo made an illegible substitute)
-Druzhba (Yoshkar-Ola)     - Rubin (Kazan')            - 0:3
-Metallurg (Vyxa)          - Torpedo (Arzamas)         - 2:1
-Torpedo-Viktoriya
-(Nizhny Novgorod)         - Svetotekhnika (Saransk)   - 2:0
-Zenit (Penza)             - Biokhimik-Mordoviya
-                            (Saransk)                 - 1:0
-Neftyanik (Bugul'ma)      - Neftyanik (Pokhvistnevo)  - 2:1
-Gazovik (Orenburg)        - Metallurg (Magnitogorsk)  - 0:0, on pen - 2:4
-Metiznik (Magnitogorsk)   - Nosta (Novotroitsk)       - 1:4
-Volga (Ulyanovsk)         - Sodovik (Sterlitamak)     - 1:0
-Salyut (Saratov)          - Iskra (Engels)            - 1:0
-Trubnik (Kamensk-Ural'sky)- Dinamo (Perm')            - 2:0
-Elektron (Vyatskiye
-Polyany)                  - Zenit (Izhevsk)           - 1:0
-Volochanin (Vyshny        -
-Volochek)                 - Gatchina                  - 2:1 (a.e.t.)
-Spartak (Kostroma)        - Dinamo (Vologda)          - 0:6
-Neftyanik (Yaroslavl')    - Volga (Tver')             - 2:0
-
-1/128
-
-Luch (Tula)               - MChS-Selyatino            - 0:4
-Torgmash (Lyubertsy)      - Fabus (Bronnitsy)         - 2:1
-Kosmos (Dolgoprudny)      - Krasnogvardeyets (Moscow) - 6:0
-Titan (Reutov)            - Spartak (Shchyolkovo)     - 1:1, on pen - 1:4
-Olymp (Kislovodsk)        - Druzhba (Maykop)          - 1:3
-Beshtau (Lermontov)       - Energiya (Pyatigorsk)     - 0:2
-Lokomotiv (Mineral'nye
-Vody)                     - Torpedo (Armavir)         - 1:6
-Torpedo (Vladimir)        - Textil'shchik (Ivanovo)   - 1:2
-Kolomna-820 (Kolomna)     - Saturn (Ramenskoye)       - 1:2
-Lokomotiv (Yelets)        - Lokomotiv (Liski)         - 3:2
-Oryol (Oryol)             - Don (Novomoskovsk)        - 3:1
-Spartak (Tambov)          - Metallurg (Lipetsk)       - 0:1
-Avangard (Kursk)          - Salyut-YuKOS (Belgorod)   - 0:1
-Mosenergo (Moscow)        - Avtomobilist (Noginsk)    - 4:1
-Stroitel' (Morshansk)     - Spartak (Ryazan')         - 2:1
-Nart(Tcherkessk)          - Spartak (Nal'chik)        - 2:4
-Kavkazkabel' (Prokhladny) - Angusht (Nazran')         - 2:1
-Mozdok (Mozdok)           - Avtodor-BMK (Vladikavkaz) - 0:0, on pen - 0:3
-Nart (Nartkala)           - Avtozapchast' (Baxan)     - 0:2
-Energetik                 - Sokol-PZhD (Saratov)      - 1:4
-Rubin                     - Progress                  - 3:1
-Torpedo-Viktoriya         - Metallurg (Vyxa)          - 1:1, on pen - 2:3
-Zenit (Penza)             - Energiya (Kamyshin)       - 3:1 (a.e.t.)
-Asmaral (Moscow)          - Arsenal (Tula)            - 3:4
-Spartak-Orekhovo
-(Orekhovo-Zuyevo)         - Roda (Moscow)             - 1:2
-Spartak-Bratsky (Yuzhny)  - Torpedo (Volzhsky)        - 2:1
-Volgodonsk (Volgodonsk)   - SKA (Rostov-na-Donu)      - 0:2
-Metallurg (Krasny Sulin)  - Shakhtyor (Shakhty)       - 3:1
-Niva (Slavyansk)          - Spartak (Anapa)           - 3:1
-Kuban' (Slavyansk-na-
-Kubani)                   - Dinamo-Zhemchuzhina-2
-                            (Sochi)                   - +:-
-Mashinostroitel' (Pskov)  - CSK VVS Kristall(Smolensk)- 0:3
-
-Dinamo (Bryansk)          - Industriya (Borovsk)      - 2:0
-Lokomotiv (Kaluga)        - Spartak (Bryansk)         - 2:0
-Neftyanik (Bugul'ma )     - Lada-Togliatti-VAZ
-                            (Togliatti)               - 3:2
-Nosta                     - Magnitka (Magnitogorsk)   - 5:0
-UralAZ (Miass)            - Sibir' (Kurgan)           - 0:0, on pen - 2:4
-Volga                     - Lada (Dimitrovgrad)       - 2:0
-Torpedo-ZIL (Moscow)      - Salyut (Saratov)          - 2:1
-Rotor-2 (Mikhaylovka)     - Volgar'-Gazprom
-                            (Astrakhan')              - 1:0
-Dinamo-Imamat(Makhachkala)- Anzhi (Makhachkala)       - 0:4
-Trubnik                   - Uralmash (Yekaterinburg)  - 0:3
-Elektron                  - Amkar (Perm')             - 0:1
-Energiya (Tchaikovsky)    - Gazovik-Gazprom (Izhevsk) - 2:2, on pen - 4:2
-Uralets (Nizhny Tagil)    - Neftekhimik (Nizhnekamsk) - 0:1
-Volochanin                - Dinamo (Sankt-Peterburg)  - 2:2, on pen - 4:2
-Dinamo (Vologda)          - Neftyanik (Yaroslavl')    - 3:0
-Samotlor-XXI              - Irtysh (Omsk)             - 3:1
-Dinamo (Barnaul)          - Dinamo (Omsk)             - 4:0
-Metallurg-ZAPSIB          - Zarya (Leninsk-Kuznetsky) - 1:0
-Tom'                      - Metallurg (Krasnoyarsk)   - 5:1
-Zvezda (Irkutsk)          - Angara (Angarsk)          - 4:2 (a.e.t.)
-Selenga (Ulan-Ude)        - Lokomotiv (Tchita)        - 2:3
-Amur-Energiya
-(Blagoveshchensk)         - SKA (Khabarovsk)          - 0:2
-Okean (Nakhodka)          - Luch (Vladivostok)        - 1:3
-
-1/64
-
-MChS-Selyatino       - Torgmash              - 3:1 (Bakalets - 3; Butyugin)
-Spartak
-(Shchyolkovo)        - Kosmos                - 1:2 (Kuznetsov; Popov, Voronin)
-Druzhba (Maykop)     - Energiya (Pyatigorsk) - 1:0 (Yenik - on pen)
-Torpedo (Armavir)    - Dinamo (Stavropol')   - 1:3 (Agabekyan; Lemish, Shipilov, Studzinsky)
-Textil'shchik        - Saturn                - 1:0 (Bubchikov)
-Oryol                - Lokomotiv (Yelets)    - 3:0 (a.e.t.) (Bakulin, Barikov, Glazkov)
-Metallurg (Lipetsk)  - Salyut-YuKOS          - 5:0 (Troynin, Stogov - 2, Lobanyov - 2)
-Stroitel'            - Mosenergo             - 1:2 (Goncharov; Korotkov, Parashchenko)
-Spartak(Nal'chik)    - Kavkazkabel'          - 2:1 (Khamgokov, Tlekhugov; Vartanyan)
-Avtodor-BMK          - Avtozapchast'         - 1:2 (Dulayev; Gubzhev, Kagermazov)
-Dinamo (Barnaul)     - Samotlor-XXI          - 1:2 (Panchenko; Dubrovin, Krasavin)
-Metallurg-ZAPSIB     - Tom'                  - 0:1 (Bazhenov)
-Sokol-PZhD           - Rubin                 - 0:2 (Galiyev, Pantyushenko)
-Metallurg (Vyxa)     - Zenit (Penza)         - 1:1 (a.e.t.) (Golubev; Igoshin), on pen - 3:2
-Arsenal              - Roda                  - 4:0 (Kuz'mitchyov - 2, Anderson, Fedin)
-SKA (Rostov-na-Donu) - Spartak-Bratsky       - 2:0 (Korban, Boyko - on pen)
-Metallurg
-(Krasny Sulin)       - Torpedo (Taganrog)    - 2:1 (Afanasyev - 2; Kolpovsky)
-Niva                 - Kuban' (Krasnodar)    - 1:2 (Gomleshko; Kutarba, Tchebulayev)
-Kuban' (Slavyans-
-na-Kubani)           - Venets                - 3:1 (a.e.t.) (Bocharnikov, Popov, Lutsevich;
-                                                             Kamentsev)
-CSK VVS Kristall     - Dinamo (Bryansk)      - 5:3 (Solyanik, Armen Adamyan, Filippenkov - 2,
-                                                    Gudkov; Shapov, Balvochus, Kuzhelev - on pen)
-Lokomotiv (Kaluga)   - Lokomotiv-Saturn      - 0:4 (Tchkhaberidze, Grabazdin - 2, Zotikov)
-Nosta                - Neftyanik (Bugul'ma)  - 5:1 (Karetnik, Lazarev, Palachyov - 2, Gushchin;
-                                                    Naumov)
-Sibir'               - Volga                 - 0:2 (Mel'nik, Zykov)
-Torpedo-ZIL          - Uralan                - 1:5 (Veselovsky; Dmitry Ivanov - 2, Yashkin,
-                                                    Kormil'tsev, Kovalyuk)
-Anzhi                - Rotor-2               - 4:2 (Gasanbekov, Getman, Pakhrutdinov, Adiyev;
-                                                    Korneyev, Yemanov)
-Uralmash             - Amkar                 - 1:1 (Osinov; Zyryanov), on pen - 5:3
-Neftekhimik          - Energiya (Tchaikovsky)- 4:0 (Fakhrutdinov - 3, one of them - on pen,
-                                                    Sepashvili)
-Lokomotiv (Tchita)   - Zvezda                - 3:2 (a.e.t.) (Polyakov, Makiyenko - 2,
-                                                    one of them - on pen; Bondar', Sadovnikov - pen)
-SKA (Khabarovsk)     - Luch (Vladivostok)    - 2:3 (Protasov, Poddubsky - own goal; Bazankov, Shkilov,
-                                                    Selenkov)
-Dinamo (Vologda)     - Volochanin            - 4:0 (Serebrennikov, Kartavov, Murygin, Klimov)
-
-1/32
-
-Luch (Vladivostok)   - Lokomotiv (Tchita)    - 1:3 (scorers unkhown)
-MChS - Selyatino     - Kosmos                - 1:0 (Bakalets)
-Dinamo (Stavropol')  - Druzhba (Maykop)      - 5:3 (Studzinsky, Kopylov, Khundadze - 2, Shipilov;
-                                                    Komlichenko - 2, Djantimirov)
-Textil'shchik
-(Ivanovo)            - Oryol                 - 0:1 (Kholodkov)
-Metallurg (Lipetsk)  - Mosenergo             - 1:0 (Troynin)
-Avtozapchast'        - Spartak (Nal'chik)    - 1:1 (Fomenko; Kostin), on pen - 4:3
-Tom'                 - Samotlor-XXI          - 2:1 (Sebelev, Talalayev; Dubrovin)
-Rubin                - Metallurg (Vyxa)      - 3:0 (Akhmetgaliyev, Knyazev - 2)
-Arsenal              - Fakel                 - 2:0 (Fedin, Kuz'mitchyov)
-SKA (Rostov-na-Donu) - Metallurg
-                       (Krasny Sulin)        - 2:3 (Nosov, Bozhko; Natacheyev, Kosobrodov, Belousov)
-Kuban' (Krasnodar)   - Kuban' (Slavyansk-na-
-                               Kubani)       - 3:2 (Borisov, Kovalenko - 2; Popov, Bocharnikov)
-Lokomotiv-Saturn     - CSK VVS Kristall      - 1:2 (Sennikov; Artashes Adamyan, Armen Adamyan)
-Volga                - Nosta                 - 1:0 (Shmelyov)
-Uralan               - Anzhi                 - 2:0 (Grachyov, Tutichenko)
-Neftyanik            - Uralmash              - 5:0 (Kryatchik, Fakhrutdinov - 2, Slabodich, Laktionov)
-Dinamo (Vologda)     - Shinnik               - 0:1 (Leonchenko)
-
-1/16
-
-Tom'                 - Tumen' (Tumen')       - 3:1 (Bazhenov, 35, Ageyev, 58, Vishnevsky, 86;
-                                                    Goncharov, 78)
-Avtozapchast'        - Alaniya (Vladikavkaz) - 1:3 (Golovin, 73;
-                                                    Quartov, 57 - own goal, Datdeyev, 66, Sikoyev, 86)
-Uralan               - Rotor (Volgograd)     - 1:2 (Litvinov, 53; Zernov, 16, Olenikov, 50)
-MChS-Selyatino       - Dinamo (Moscow)       - 1:2 (Bakalets, 26; Teryokhin, 15, Kul'tchy, 63)
-Dinamo (Stavropol')  - Zhemchuzhina (Sochi)  - 3:0 (Sedykh, 27, Gagiyev, 61, Berishvili, 81 - pen)
-Oryol                - Lokomotiv (Moscow)    - 1:1 (Sarkisyan, 42 - own goal; A. Kosolapov, 87),
-                                                    on pen - 0:3
-Metallurg (Lipetsk)  - Torpedo-Luzhniki
-                       (Moscow)              - 1:3 (Men'shchikov, 90; Carlos Alberto, 41, 75, Gashkin, 45)
-Rubin                - Lokomotiv
-                       (Nizhny Novgorod)     - 1:0 (Knyazev, 55)
-Arsenal              - Rostsel'mash
-                       (Rostov-na-Donu)      - 3:0 (Fuzaylov, 27, Klimov, 62, 72)
-Kuban' (Krasnodar)   - Tchernomorets
-                       (Novorossiysk)        - 2:1 (Martsun, 16, Kutarba, 65; Berezner, 52)
-CSK VVS Kristall     - Baltika (Kaliningrad) - 2:2 (Armen Adamyan, 20, 54; Lemish, 65-pen, 80), on pen - 4:5
-Volga                - Krylya Sovetov(Samara)- 1:2 (Borisko, 83; Minashvili, 54, Tsiklauri, 77)
-Neftekhimik          - KamAZ-Tchally
-                       (Naberezhnye Tchelny) - 1:3 (Kolotilko, 50; Preiksaitis, 23, Babenko, 74, Djishkariani, 75)
-Lokomotiv (Tchita)   - CSKA (Moscow)         - 0:0, on pen - 3:4
-Shinnik              - Zenit (Sankt-
-                              Peterburg)     - 2:3 (Filippov, 45, Yenin, 51; Lepyokhin, 2, Vernidub, 73,
-                                                    Popovich, 81)
-Metallurg
-(Krasny Sulin)       - Spartak (Moscow)      - 0:2 (D. Alenichev, 27, Lutovinov, 31)
-
-1/8
-
-Rubin            - Arsenal             - 1:0 (Akhmetgaliyev, 88)
-Dinamo (Moscow)  - Dinamo (Stavropol') - 3:1 (S. Grishin, 20, Kobelev, 61-pen, E. Kosolapov, 89; Tsatskin, 48-pen)
-Krylya Sovetov   - Baltika             - 4:0 (S. Bulatov, 6, V. Bulatov, 65, 76, Safronov, 85)
-CSKA             - Zenit               - 3:2 (Semak, 7, 68, Khomukha, 19; Panov, 4, Vernidub, 83-pen)
-Alaniya          - Tom'                - 1:0 (Gakhokidze, 20)
-Spartak (Moscow) - Kuban' (Krasnodar)  - 6:0 (Tsymbalar', 5, 45, 51, Kanishchev, 43, Tikhonov, 48,
-                                              Miroslav Romashchenko, 90)
-KamAZ-Tchally    - Rotor               - 3:4 (Degtyaryov, 49, 60, Zayarny, 64-pen;
-                                              Berketov, 17, Zubko, 26, Zernov, 54, Veretennikov, 58)
-Torpedo (Moscow) - Lokomotiv (Moscow)  - 0:2 (Garas, 70, Z. Djanashiya, 85)
-(formerly Torpedo-Luzhniki)
-
-1/4
-
-Lokomotiv (Moscow) - Dinamo (Moscow)    - 1:0 (A. Kosolapov, 57)
-Spartak (Moscow)   - Krylya Sovetov     - 2:0 (Tsymbalar', 41, Tikhonov, 81)
-Alaniya            - Rubin              - 3:0 (Yanovsky, 14-pen, Tchaladze, 17, Botsiyev, 86)
-Rotor              - CSKA               - 5:3 (a.e.t.) (Veretennikov, 55-pen, 93, 118, Burlachenko, 76,
-                                              Zubko, 95; Kornaukhov,  66, Kulik, 87, Yevgeny Varlamov, 113)
-
-1/2
-
-Rotor              - Spartak (Moscow)   - 0:2 (Tikhonov, 34, D. Alenichev, 69)
-Lokomotiv (Moscow) - Alaniya            - 1:0 (Z. Djanashiya, 82)
-
-
-Final
-
-Spartak (Moscow)   - Lokomotiv (Moscow) - 1:0 (Tikhonov, 86)
-
-June 7. Moscow. "Luzhniki" stadium. Attendance 38000.
-Referees: L.-A. Ibragimov, V. Ogirchuk, A. Vetrov
-
-"Spartak": A. Filimonov, Gorlukovich, Khlestov, Tsymbalar', Miroslav Romashchenko, Ananko, Parfyonov,
-D. Alenichev, Titov, Buznikin (Kanishchev, 61), Tikhonov.
-Coach - Oleg Romantsev.
-
-"Lokomotiv": Nigmatullin, Tcherevchenko, Drozdov, Kharlachyov, Oganesyan, Tchugaynov, A. Kosolapov,
-Borodyuk, Gurenko, Z. Djanashiya, Los'kov (Solomatin, 54).
-Coach - Yury Syomin.
-
-Yellow cards: D. Alenichev, Solomatin.
-
-
-Russia Championship 1998
-
-First League (2nd Level)
-
-Final Table:
-
- 1. Saturn Ramenskoe             42 24 12  6  73-34  84  Promoted
- 2. Lokomotiv Nizhny Novgorod    42 23  8 11  65-34  77  Promoted
--------------------------------------------------------
- 3. Sokol Saratov                42 21 13  8  58-32  76
- 4. Kristall Smolensk            42 23  3 16  59-47  72
- 5. Arsenal Tula                 42 18 11 13  65-53  65
- 6. Lada-Grad Dimitrovgrad       42 19  7 16  65-63  64
- 7. Rubin Kazan'                 42 19  6 17  56-50  63
- 8. Dinamo Stavropol'            42 16 15 11  51-40  63
- 9. Gazovik-Gazprom Izhevsk      42 18  6 18  53-58  60
-10. Fakel Voronezh               42 17  9 16  54-45  60
-11. Lokomotiv Chita              42 17  8 17  60-50  59
-12. Anzhi Makhachkala            42 17  6 19  47-56  57
-13. Metallurg Lipetsk            42 16  8 18  41-50  56
-14. Tom' Tomsk                   42 15 11 16  54-45  56
-15. Spartak Nalchik              42 15 11 16  49-52  56
-16. Lokomotiv St.Petersburg      42 14 11 17  38-41  53
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-17. Neftekhimik Nizhnekamsk      42 15  7 20  44-56  52  Play-off
--------------------------------------------------------
-18. Druzhba Maikop               42 13 11 18  45-55  50    Relegated
-19. Lada-Togliatti-VAZ Togliatti 42 15  9 18  52-70  48 [*]Relegated
-20. Kuban' Krasnodar             42 10 13 19  42-68  43    Relegated
-21. Irtysh Omsk                  42 11  8 23  36-58  41    Relegated
-22. KamAZ-Chally Nab. Chelny     42  7  5 30  32-82  20 [+]Relegated
-
-Round 1 [Mar 29]
-----------------
-Fakel         - Gazovik-Gazprom 4-1 [Shmarov'12/'73, Trendafilov'54, Zhevachenko'88 - 
-                                     Feshchenko'19]
-Metallurg     - Rubin           1-0 [Zhabko'42]
-Kuban'        - Lada-Grad       1-1 [Borovskoy'56 - Chernov'28]
-Lokomotiv StP - VVS Kristall    1-0 [Semyonov'68]
-Sokol         - Irtysh          3-1 [Ruslyakov'18og, Markevich'27, Lebed'82 - 
-                                     Toporov'20]
-Lokomotiv NN  - KamAZ           3-0 [D.Vlasov'10, B.Matveyev'57, Zubkov'81]
-Anzhi         - Tom'            2-0 [Sirkhayev'9, Gasanbekov'63]
-Druzhba       - Lada-VAZ        2-0 [Andreyev'75, Sedov'80]
-Dinamo St     - Saturn          0-1 [Gryazin'23]
-Spartak Nch   - Lokomotiv Ch    2-1 [Zarutsky'25, Daurbekov'49 - Popov'27pen]
-Arsenal       - Neftekhimik     2-1 [Anderson'55, Andradina'89pen - Kolotilko'26]
-
-Round 2 [Apr 1]
----------------
-Spartak Nch  - Saturn          1-3 [Tlekhugov'10 - Gavrilin'43, Samatov'53, 
-                                    Shirshakov'63]
-Arsenal      - KamAZ           1-1 [Zubarev'59 - Zayarny'69]
-Lokomotiv NN - Neftekhimik     0-0
-Fakel        - Rubin           2-0 [Zhevachenko'6, Yermakov'59]
-Anzhi        - Irtysh          1-0 [Gasanbekov'28pen]
-Metallurg    - Gazovik-Gazprom 3-1 [Men'shchikov'22/'55/'80 - Monasipov'21]
-Dinamo St    - Lokomotiv Ch    0-0
-Sokol        - Tom'            1-1 [Markevich'16 - Ageyev'69]
-Druzhba      - Lada-Grad       0-0
-Kuban'       - Lada-VAZ        1-2 [Sarkisov'87pen - Yemel'yanov'31, Bavykin'37]
-Lokomotiv StP, VVS Kristall bye.
-
-Round 3 [Apr 8]
----------------
-Saturn          - Fakel        1-0 [Gavrilin'39]
-Gazovik-Gazprom - Lokomotiv NN 3-2 [Nezhelev'13, Dubrovskikh'30, Glukhikh'56 - 
-                                    Zubkov'58, Chudin'83]
-KamAZ           - Sokol        0-0
-Lokomotiv StP   - Kuban'       2-2 [V.Ivanov'4, Borovskoy'40og - Kilasonia'16, 
-                                    Gorelov'76]
-Rubin           - Arsenal      1-2 [Kuz'michyov'90pen - Andradina'42, Zubarev'50]
-Neftekhimik     - Anzhi        2-1 [Slabodich'5/36 - Zharinov'19]
-Lokomotiv Ch    - Metallurg    0-1 [Sergeyev'18]
-Lada-Grad       - Dinamo St    1-1 [Bobrov'40 - Tulintsev'38]
-Lada-VAZ        - Spartak Nch  2-1 [M.Demenko'35, Teterin'39 - Kirimov'81]
-VVS Kristall    - Druzhba      3-0 [Solyanik'4/'67, Gudkov'17]
-Irtysh, Tom' bye.
-
-Round 4 [Apr 11]
-----------------
-Saturn          - Metallurg    1-0 [Gavrilin'59]
-Rubin           - Lokomotiv NN 0-0
-Neftekhimik     - Sokol        1-2 [Kantonistov'47 - Mikaelyan'12, Amelikhin'25]
-KamAZ           - Anzhi        1-0 [Matveyev'75]
-Lokomotiv Ch    - Fakel        0-0
-Lada-Grad       - Spartak Nch  2-0 [Nechayev'44, Chernov'60]
-Lada-VAZ        - Dinamo St    1-1 [Teterin'38 - Gagiyev'81]
-Lokomotiv StP   - Druzhba      2-0 [Semyonov'52, Fyodorov'56pen]
-Irtysh          - Tom'         2-0 [Mulashyov'60, Danilov'64]
-VVS Kristall    - Kuban'       1-0 [Shushlyakov'70]
-Gazovik-Gazprom - Arsenal      0-0
-
-Round 5 [Apr 18]
-----------------
-Fakel        - Lada-Grad       2-1 [Syomin'47, Zhevachenko'86 - Gatilov'54]
-Lokomotiv NN - Saturn          0-0
-Metallurg    - Lada-VAZ        3-2 [Men'shchikov'9, Stogov'74, Kovalenko'79 - 
-                                    Tabakov'12, Syomin'45]
-Dinamo St    - Lokomotiv StP   0-0
-Arsenal      - Lokomotiv Ch    1-1 [Andradina'19 - Makiyenko'51]
-Anzhi        - Rubin           1-0 [Gasanbekov'45]
-Spartak Nch  - VVS Kristall    1-2 [Alchagirov'53 - Solyanik'16, Alexandrov'88]
-Irtysh       - KamAZ           2-1 [Mulashyov'30pen, Toporov'59 - Prygunov'80]
-Sokol        - Gazovik-Gazprom 0-0
-Tom'         - Neftekhimik     4-0 [Perminov'10, Dzyubenko'21, Sebelev'61, 
-                                    Konovalov'80]
-Kuban', Druzhba bye.
-
-Round 6 [Apr 21]
-----------------
-Arsenal      - Saturn          0-0
-Sokol        - Rubin           1-0 [Baturenko'75]
-Metallurg    - Lada-Grad       1-0 [Kovalenko'44]
-Dinamo St    - VVS Kristall    3-2 [Chetvyorkin'13, Gurbanov'19pen, Kopylov'83 - 
-                                    Shushlyakov'4/'16]
-Anzhi        - Gazovik-Gazprom 3-0 [Gasanbekov'14/'18pen/'56]
-Fakel        - Lada-VAZ        1-0 [Yamlikhanov'45]
-Kuban'       - Druzhba         2-1 [Velikodny'51, Pinchik'78pen - Kalyoshin'66]
-Spartak Nch  - Lokomotiv StP   0-0
-Lokomotiv NN - Lokomotiv Ch    3-0 [Garin'47pen/'73, Lipko'84]
-Irtysh       - Neftekhimik     3-1 [Mulashyov'52/'68, Kartashov'87 - Kantonistov'47]
-Tom'         - KamAZ           2-1 [Sebelev'51, Vishnevsky'63 - Tropanets'89pen]
-
-Round 7 [Apr 28]
-----------------
-Saturn          - Sokol        2-0 [Baksheyev'17, Gavrilin'36]
-Lokomotiv StP   - Fakel        2-1 [Semyonov'38, Fyodorv'86pen - Prokhorov'81]
-Gazovik-Gazprom - Irtysh       1-0 [Feshchenko'33]
-Rubin           - Tom'         1-0 [Knyazev'2]
-VVS Kristall    - Metallurg    1-0 [Solyanik'15]
-Lokomotiv Ch    - Anzhi        2-0 [Kreismann'15, Galimov'53]
-Lada-VAZ        - Arsenal      5-4 [Teterin'18/'39/'65, Zubchuk'56, Bavykin'88pen - 
-                                    Klimov'32, Jorginho'57/'86, Andradina'75pen]
-Lada-Grad       - Lokomotiv NN 2-1 [Kolntsak'34og, Nechayev'36 - Garin'42pen]
-Kuban'          - Dinamo St    1-1 [Pinchuk'12pen - Gagiyev'25]
-Druzhba         - Spartak Nch  2-1 [Yenik'13, Zakirov'42 - Iskakov'32]
-KamAZ, Neftekhimik bye.
-
-Round 8 [May 1]
----------------
-Saturn          - Anzhi        2-0 [Natalushko'52, Kozlov'55]
-Gazovik-Gazprom - Tom'         2-0 [Dubrovskikh'77, Glukhikh'81]
-Lokomotiv StP   - Metallurg    0-2 [Men'shchikov'31/'78]
-VVS Kristall    - Fakel        3-0 [Shushlyakov'51, Tikhomirov'54, Gudkov'56]
-Lokomotiv Ch    - Sokol        1-0 [Popov'28]
-Lada-Grad       - Arsenal      0-2 [Andradina'65pen/'75]
-Lada-VAZ        - Lokomotiv NN 2-0 [Demenko'55, Bavykin'75]
-Druzhba         - Dinamo St    1-0 [Petrenko'78]
-KamAZ           - Neftekhimik  0-2 [Slabodich'12/'85]
-Rubin           - Irtysh       1-0 [Akhmetgaliyev'21]
-Kuban'          - Spartak Nch  0-0
-
-Round 9 [May 9]
----------------
-Metallurg    - Druzhba         3-2 [Sergeyev'28/'29/'44 - Petrenko'4, Zakirov'50]
-Sokol        - Lada-Grad       4-1 [Danilov'5/'55, Yermilov'12pen/'49 - Nechayev'89]
-Anzhi        - Lada-VAZ        0-0
-Neftekhimik  - Rubin           2-1 [Kolotilko'25, Slabodich'59 - Minvaliyev'73]
-Tom'         - Lokomotiv Ch    3-0 [Sebelev'14/'16, Lemeshko'70]
-Irtysh       - Saturn          1-1 [Toporov'37 - Natalushko'31]
-Arsenal      - VVS Kristall    2-0 [Zubarev'49/'67]
-Fakel        - Kuban'          0-0
-Lokomotiv NN - Lokomotiv StP   1-0 [Zubkov'15]
-KamAZ        - Gazovik-Gazprom 1-1 [Vekovishchev'88 - Shatskikh'68]
-Dinamo St, Spartak Nch bye.
-
-Round 10 [May 12]
------------------
-Tom'         - Saturn          0-3 [Natalushko'18, Gavrilin'37, Baksheyev'45]
-Arsenal      - Lokomotiv StP   0-2 [Semyonov'35/'66]
-Metallurg    - Kuban'          1-0 [Bogdanov'25]
-Lokomotiv NN - VVS Kristall    2-0 [Kashentsev'50, Zubkov'56]
-Sokol        - Lada-VAZ        1-0 [Pyatnitsky'84]
-Anzhi        - Lada-Grad       2-1 [Kostyuk'32, Gasanbekov'84 - Nechayev'34]
-Fakel        - Druzhba         2-0 [Zhevachenko'24/'65]
-KamAZ        - Rubin           2-2 [Yugrin'58, Yevdokimov'89 - Minvaliyev'5, 
-                                    Knyazev'44pen]
-Irtysh       - Lokomotiv Ch    0-0
-Dinamo St    - Spartak Nch     3-1 [Gagiyev'42, Abushev'49, Gurbanov'69 - Romanov'1]
-Neftekhimik  - Gazovik-Gazprom 0-0
-
-Round 11 [May 19]
------------------
-Saturn          - KamAZ        2-0 [Gavrilin'30, S,Varfolomeyev'81]
-Dinamo St       - Fakel        1-1 [Studzinsky'76 - Zhevachenko'5]
-Druzhba         - Arsenal      0-1 [Trukhlov'44]
-Gazovik-Gazprom - Rubin        2-1 [Monasipov'21, Khuzin'86og - Minvaliyev'17]
-Kuban'          - Lokomotiv NN 1-1 [Velikodny'88 - Kashentsev'76]
-Spartak Nch     - Metallurg    0-0
-VVS Kristall    - Anzhi        2-1 [Arm.Adamyan'45pen, Shushlyakov'53 -Gasanbekov'20]
-Lokomotiv StP   - Sokol        0-0
-Lada-Grad       - Irtysh       1-0 [Bagizayev'9og]
-Lada-VAZ        - Tom'         1-1 [Yemel'yanov'62 - Ageyev'41]
-Lokomotiv Ch    - Neftekhimik  3-0 [awarded; Neftekhimik didn't appear]
-
-Round 12 [May 22]
------------------
-Lokomotiv Ch  - KamAZ        3-0 [Kvaratskhelia'12, Galimov'25, Alkhimov'89]
-Lokomotiv StP - Anzhi        0-0
-Lada-Grad     - Tom'         3-1 [Kadyrov'21, Nechayev'32, Dement'yev'64 - 
-                                  Piskunov'43og]
-Dinamo St     - Metallurg    0-0
-VVS Kristall  - Sokol        2-0 [Arm.Adamyan'25pen, Shushlyakov'69]
-Kuban'        - Arsenal      1-3 [Sarkisov'25pen - Zubarev'24/'43, Andradina'75pen]
-Lada-VAZ      - Irtysh       0-0
-Spartak Nch   - Fakel        0-0
-Druzhba       - Lokomotiv NN 1-3 [Yenik'2pen - Zubkov'57/'72pen, Garin'88]
-Saturn        - Neftekhimik  3-1 [Gavrilin'11/'72, Afanas'yev'35 - Chesnakas'8]
-Gazovik-Gazprom, Rubin bye
-
-Round 13 [May 30]
------------------
-Gazovik-Gazprom - Saturn        2-1 [Nezhelev'8, Glukhikh'27 - Gavrilin'72]
-Arsenal         - Spartak Nch   1-1 [Klimov'88 - Kirimov'78]
-Lokomotiv NN    - Dinamo St     2-3 [Kashentsev'40, Garin'75 - Gurbanov'9, Gagiyev'78, 
-                                     Shipilov'79]
-Tom'            - VVS Kristall  0-0
-Rubin           - Lokomotiv Ch  2-0 [Minvaliyev'5, Lysenko'23]
-Neftekhimik     - Lada-VAZ      1-2 [Slabodich'60 - Vereshchak'8/'51]
-Sokol           - Kuban'        2-0 [Danilov'45, Lagutin'63]
-KamAZ           - Lada-Grad     0-2 [Gatilov'23, Bobrov'25]
-Anzhi           - Druzhba       4-1 [Ramazanov'10, Bamatov'50, Zukauskas'52, 
-                                     Sirkhayev'76 - Kaleshin'59]
-Irtysh          - Lokomotiv StP 2-0 [Mulashyov'14, Toporov'55]
-Fakel, Metallurg bye
-
-Round 14 [June 2]
------------------
-Rubin           - Saturn        1-0 [Bulatov'15]
-Fakel           - Metallurg     1-0 [Zhevachenko'56]
-Irtysh          - VVS Kristall  0-1 [Tikhomirov'33]
-Sokol           - Druzhba       0-0
-Lokomotiv NN    - Spartak Nch   2-0 [Garin'38, Vlasov'75]
-Tom'            - Lokomotiv StP 1-1 [Zhukov'85 - Bandurin'7]
-Neftekhimik     - Lada-Grad     1-0 [Kolotilko'31]
-Arsenal         - Dinamo St     0-2 [Kopylov'57, Gurbanov'90pen]
-Anzhi           - Kuban'        1-0 [Gasanbekov'2]
-Gazovik-Gazprom - Lokomotiv Ch  4-1 [Nikitin'32pen, Shatskikh'62/'64,Yakimenko'87pen -
-                                     Galimov'35]
-KamAZ           - Lada-VAZ      1-2 [Zayarny'25 - Vereshchak'12/'26]
-
-Round 15 [Jun 9]
-----------------
-Lokomotiv StP - KamAZ - 3:1 
-Kristall - Neftekhimik - 2:1 
-Kuban' - Irtysh - 5:1 
-Druzhba - Tom' - 1:0 
-Dinamo St - Sokol - 2:1 
-Spartak Nch - Anzhi - 5:0 
-Fakel - Lokomotiv NN - 0:1 
-Metallurg - Arsenal - 2:2 
-Lada-Grad - Gazovik-Gazprom - 2:1 
-Lada-VAZ - Rubin - 1:2 
-
-Round 16 [Jun 12] 
------------------
-Saturn - Lokomotiv Ch - 4:3 
-Kristall - KamAZ - 4:1 
-Lokomotiv StP - Neftekhimik - 1:0 
-Druzhba - Irtysh - 3:0 
-Kuban' - Tom' - 1:1 
-Spartak Nch - Sokol - 2:1 
-Dinamo St - Anzhi - 2:0 
-Metallurg - Lokomotiv NN - 2:0 
-Fakel - Arsenal - 1:1 
-Lada-VAZ - Gazovik-Gazprom - 3:1 
-Lada-Grad - Rubin - 2:1 
-
-Round 17 [Jun 19] 
------------------
-Gazovik-Gazprom - Lokomotiv StP - 3:1 
-Rubin- Kristall - 3:0 
-KamAZ - Kuban' - 1:2 
-Neftekhimik - Druzhba - 0:0 
-Irtysh - Dinamo St - 1:0 
-Tom' - Spartak Nch - 8:0 
-Sokol - Fakel - 3:0 
-Anzhi - Metallurg - 3:1 
-Saturn - Lada-Grad - 2:1 
-Lokomotiv Ch - Lada-VAZ - 2:2 
-
-Round 18 [Jun 22] 
------------------
-Lokomotiv NN - Arsenal - 3:0 
-Rubin - Lokomotiv StP - 0:1 
-Gazovik-Gazprom- Kristall - 2:1 
-Neftekhimik - Kuban' - 0:0 
-KamAZ - Druzhba - 1:0 
-Tom' - Dinamo St - 2:1 
-Irtysh - Spartak Nch - 1:0 
-Anzhi - Fakel - 3:1 
-Sokol - Metallurg - 1:0 
-Lokomotiv Ch - Lada-Grad - 3:0 (awd) 
-Saturn - Lada-VAZ - 3:0 
-
-Round 19 [Jun 29] 
------------------
-Lokomotiv StP - Saturn - 1:3 
-Kristall - Lokomotiv Ch - 1:0 
-Kuban' - Gazovik-Gazprom - 2:0 
-Druzhba - Rubin - 1:3 
-Dinamo St - KamAZ - 2:1 
-Spartak Nch - Neftekhimik - 2:1 
-Fakel - Irtysh - 3:1 
-Metallurg - Tom' - 1:0 
-Lokomotiv NN - Sokol - 2:2 
-Arsenal - Anzhi - 5:2 
-Lada-Grad - Lada-VAZ - 4:2 
-
-Round 20 [Jul 2] 
-----------------
-Kristall - Saturn - 3:2 
-Lokomotiv StP - Lokomotiv Ch - 3:0 
-Druzhba - Gazovik-Gazprom - 3:1 
-Kuban' - Rubin - 1:0 
-Spartak Nch - KamAZ - 3:0 
-Dinamo St - Neftekhimik - 2:1 
-Metallurg - Irtysh - 2:1 
-Fakel - Tom' - 1:0 
-Arsenal - Sokol - 1:1 
-Lokomotiv NN - Anzhi - 3:0 
-
-Round 21 [Jul 10] 
------------------
-Lada-Grad - Lokomotiv StP - 3:0 
-Lada-VAZ- Kristall - 2:1 
-Saturn - Kuban' - 3:1 
-Lokomotiv Ch - Druzhba - 2:0 
-Gazovik-Gazprom - Dinamo St - 1:0 
-Rubin - Spartak Nch - 1:0 
-KamAZ - Fakel - 5:2 
-Neftekhimik - Metallurg - 3:1 
-Irtysh - Lokomotiv NN - 2:2 
-Tom' - Arsenal - 1:2 
-Sokol - Anzhi - 3:2 
-
-Round 22 [Jul 13] 
------------------
-Lada-VAZ - Lokomotiv StP - 2:0 
-Lada-Grad- Kristall - 1:0 
-Lokomotiv Ch - Kuban' - 4:0 
-Saturn - Druzhba - 1:1 
-Rubin - Dinamo St - 4:2 
-Gazovik-Gazprom - Spartak Nch - 1:0 
-Neftekhimik - Fakel - 2:0 
-KamAZ - Metallurg - 2:1 
-Tom' - Lokomotiv NN - 2:0 
-Irtysh - Arsenal - 0:1 
-
-Round 23 [Jul 27]
------------------
-Kuban' - Lokomotiv StP - 1:0 
-Druzhba- Kristall - 5:0 
-Dinamo St - Lada-Grad - 2:1 
-Spartak Nch - Lada-VAZ - 3:2 
-Fakel - Saturn - 1:1 
-Metallurg - Lokomotiv Ch - 2:0 
-Lokomotiv NN - Gazovik-Gazprom - 2:0 
-Arsenal - Rubin - 4:1 
-Sokol - KamAZ - 3:0 
-Anzhi - Neftekhimik - 0:2 
-
-Round 24 [Jul 30] 
------------------
-Tom' - Irtysh - 3:0 
-Kuban'- Kristall - 1:2 
-Druzhba - Lokomotiv StP - 0:0 
-Dinamo St - Lada-VAZ - 4:1 
-Spartak Nch - Lada-Grad - 2:1 
-Fakel - Lokomotiv Ch - 4:1 
-Metallurg - Saturn - 0:3 
-Lokomotiv NN - Rubin - 1:0 
-Arsenal - Gazovik-Gazprom - 4:1 
-Sokol - Neftekhimik - 0:1 
-Anzhi - KamAZ - 2:1 
-
-Round 25 [Aug 6] 
-----------------
-Lokomotiv StP - Dinamo St - 2:2 
-Kristall - Spartak Nch - 2:1 
-Lada-Grad - Fakel - 0:6 
-Lada-VAZ - Metallurg - 1:0 
-Saturn - Lokomotiv NN - 1:1 
-Lokomotiv Ch - Arsenal - 3:0 
-Gazovik-Gazprom - Sokol - 1:2 
-Rubin - Anzhi - 3:0 
-KamAZ - Irtysh - 1:0 
-Neftekhimik - Tom' - 1:0 
-
-Round 26 [Aug 9] 
-----------------
-Druzhba - Kuban' - 3:0 
-Lokomotiv StP - Spartak Nch - 1:0 
-Kristall - Dinamo St - 0:0 
-Lada-Grad - Metallurg - 3:1 
-Lada-VAZ - Fakel - 0:4 
-Saturn - Arsenal - 2:1 
-Lokomotiv Ch - Lokomotiv NN - 2:1 
-Gazovik-Gazprom - Anzhi - 1:0 
-Rubin - Sokol - 2:0 
-KamAZ - Tom' - 1:0 
-Neftekhimik - Irtysh - 2:0 
-
-Round 27 [Aug 16] 
------------------
-Fakel - Lokomotiv StP - 0:0 
-Metallurg- Kristall - 1:0 
-Dinamo St - Kuban' - 3:1 
-Spartak Nch - Druzhba - 1:1 
-Lokomotiv NN - Lada-Grad - 3:1 
-Arsenal - Lada-VAZ - 4:0 
-Sokol - Saturn - 2:1 
-Anzhi - Lokomotiv Ch - 3:1 
-Irtysh - Gazovik-Gazprom - 1:1 
-Tom' - Rubin - 2:2 
-Neftekhimik - KamAZ - 0:0 
-
-Round 28 [Aug 19] 
------------------
-Fakel- Kristall - 3:1 
-Metallurg - Lokomotiv StP - 1:0 
-Dinamo St - Druzhba - 5:0 
-Spartak Nch - Kuban' - 0:0 
-Lokomotiv NN - Lada-VAZ - 3:0 
-Arsenal - Lada-Grad - 3:1 
-Sokol - Lokomotiv Ch - 2:1 
-Anzhi - Saturn - 3:1 
-Irtysh - Rubin - 1:1 
-Tom' - Gazovik-Gazprom - 2:1 
-
-Round 29 [Aug 26] 
------------------
-Lokomotiv StP - Lokomotiv NN - 0:2 
-Kristall - Arsenal - 2:0 
-Kuban' - Fakel - 1:1 
-Druzhba - Metallurg - 1:1 
-Lada-Grad - Sokol - 1:0 
-Lada-VAZ - Anzhi - 1:0 
-Saturn - Irtysh - 2:1 
-Lokomotiv Ch - Tom' - 2:0 
-Gazovik-Gazprom - KamAZ - 1:2 
-Rubin - Neftekhimik - 3:0 
-
-Round 30 [Aug 29] 
------------------
-Spartak Nch - Dinamo St - 0:1 
-Lokomotiv StP - Arsenal - 1:1 
-Kristall - Lokomotiv NN - 0:1 
-Kuban' - Metallurg - 4:2 
-Druzhba - Fakel - 3:2 
-Lada-Grad - Anzhi - 2:0 
-Lada-VAZ - Sokol - 0:0 
-Saturn - Tom' - 0:0 
-Lokomotiv Ch - Irtysh - 2:0 
-Gazovik-Gazprom - Neftekhimik - 2:1 
-Rubin - KamAZ - 1:0 
-
-Round 31 [Sep 6] 
-----------------
-Sokol Lokomotiv StP - 0:0 
-Anzhi- Kristall - 0:1 
-Lokomotiv NN - Kuban' - 3:1 
-Arsenal - Druzhba - 0:1 
-Fakel - Dinamo St - 0:0 
-Metallurg - Spartak Nch - 0:1 
-Irtysh - Lada-Grad - 0:3 
-Tom' - Lada-VAZ - 1:1 
-KamAZ - Saturn - 1:2 
-Neftekhimik - Lokomotiv Ch - 3:1 
-Rubin - Gazovik-Gazprom - 2:1 
-
-Round 32 [Sep 9] 
-----------------
-Sokol- Kristall - 2:0 
-Anzhi - Lokomotiv StP - 0:1 
-Lokomotiv NN - Druzhba - 1:0 
-Arsenal - Kuban' - 3:1 
-Fakel - Spartak Nch - 0:1 
-Metallurg - Dinamo St - 0:0 
-Irtysh - Lada-VAZ - 2:1 
-Tom' - Lada-Grad - 2:1 
-KamAZ - Lokomotiv Ch - 0:4 
-Neftekhimik - Saturn - 0:4 
-
-Round 33 [Sep 16] 
------------------
-Lokomotiv StP - Irtysh - 0:2 
-Kristall - Tom' - 0:0 
-Kuban' - Sokol - 0:2 
-Druzhba - Anzhi - 4:2 
-Dinamo St - Lokomotiv NN - 0:0 
-Spartak Nch - Arsenal - 1:1 
-Lada-Grad - KamAZ - 2:0 
-Lada-VAZ - Neftekhimik - 2:1 
-Saturn - Gazovik-Gazprom - 0:1 
-Lokomotiv Ch - Rubin - 3:1 
-
-Round 34 [Sep 19] 
------------------
-Metallurg - Fakel - 0:2 
-Lokomotiv StP - Tom' - 3:0 
-Kristall - Irtysh - 1:0 
-Kuban' - Anzhi - 0:1 
-Druzhba - Sokol - 1:1 
-Dinamo St - Arsenal - 1:0 
-Spartak Nch - Lokomotiv NN - 0:1 
-Lada-Grad - Neftekhimik - 1:0 
-Lada-VAZ - KamAZ - 3:0 
-Saturn - Rubin - 3:0 
-Lokomotiv Ch - Gazovik-Gazprom - 3:0 
-
-Round 35 [Sep 26] 
------------------
-KamAZ - Lokomotiv StP - 0:3 
-Neftekhimik - Kristall - 3:2 
-Irtysh - Kuban' - 1:2 
-Tom' - Druzhba - 1:0 
-Sokol - Dinamo St - 2:0 
-Anzhi - Spartak Nch - 3:3 
-Lokomotiv NN - Fakel - 0:1 
-Arsenal - Metallurg - 0:0 
-Gazovik-Gazprom - Lada-Grad - 1:1 
-Rubin - Lada-VAZ - 4:0 
-
-Round 36 [Sep 29] 
------------------
-Lokomotiv Ch - Saturn - 1:1 
-KamAZ- Kristall - 3:5 
-Neftekhimik - Lokomotiv StP - 2:1 
-Irtysh - Druzhba - 4:0 
-Tom' - Kuban' - 4:0 
-Sokol - Spartak Nch - 3:1 
-Anzhi - Dinamo St - 0:0 
-Lokomotiv NN - Metallurg - 4:0 
-Arsenal - Fakel - 2:0 
-Gazovik-Gazprom - Lada-VAZ - 3:0 
-Rubin - Lada-Grad - 2:2 
-
-Round 37 [Oct 6] 
-----------------
-Lokomotiv StP - Gazovik-Gazprom - 0:2 
-Kristall - Rubin - 4:1 
-Kuban' - KamAZ - 3:0 
-Druzhba - Neftekhimik - 0:0 
-Dinamo St - Irtysh - 0:0 
-Spartak Nch - Tom' - 1:1 
-Fakel - Sokol - 0:2 
-Metallurg - Anzhi - 1:0 
-Lada-Grad - Saturn - 2:3 
-Lada-VAZ - Lokomotiv Ch - 1:1 
-
-Round 38 [Oct 9] 
-----------------
-Arsenal - Lokomotiv NN - 2:0 
-Lokomotiv StP - Rubin - 3:0 
-Kristall - Gazovik-Gazprom - 2:0 
-Kuban' - Neftekhimik - 1:0 
-Druzhba - KamAZ - 3:1 
-Dinamo St - Tom' - 0:1 
-Spartak Nch - Irtysh - 4:1 
-Fakel - Anzhi - 0:1 
-Metallurg - Sokol - 3:3 
-Lada-Grad - Lokomotiv Ch - 3:2 
-Lada-VAZ - Saturn - 0:3 
-
-Round 39 [Oct 16]
------------------
-Saturn - Lokomotiv StP - 2:0 
-Lokomotiv Ch - Kristall - 1:0 
-Gazovik-Gazprom - Kuban' - 4:0 
-Rubin - Druzhba - 2:0 
-KamAZ - Dinamo St - 1:2 
-Neftekhimik - Spartak Nch - 0:1 
-Irtysh - Fakel - 2:1 
-Tom' - Metallurg - 3:1 
-Sokol - Lokomotiv NN - 2:0 
-Anzhi - Arsenal - 2:1 
-Lada-VAZ - Lada-Grad - 2:2 
-
-Round 40 [Oct 19] 
------------------
-Saturn- Kristall - 2:0 
-Lokomotiv Ch - Lokomotiv StP - 3:0 (awd) 
-Gazovik-Gazprom - Druzhba - 2:0 
-Rubin - Kuban' - 1:1 
-KamAZ - Spartak Nch - 0:1 
-Neftekhimik - Dinamo St - 3:2 
-Irtysh - Metallurg - 1:0 
-Tom' - Fakel - 2:0 
-Sokol - Arsenal - 3:0 
-Anzhi - Lokomotiv NN - 1:0 
-
-Round 41 [Oct 26] 
------------------
-Lokomotiv StP - Lada-Grad - 1:2 
-Kristall - Lada-VAZ - 1:0 
-Kuban' - Saturn - 1:1 
-Druzhba - Lokomotiv Ch - 2:0 
-Dinamo St - Gazovik-Gazprom - 1:0 
-Spartak Nch - Rubin - 3:0 
-Fakel - KamAZ - 3:1 
-Metallurg - Neftekhimik - 0:0 
-Lokomotiv NN - Irtysh - 3:1 
-Arsenal - Tom' - 2:3 
-Anzhi - Sokol - 1:1 
-
-Round 42 [Oct 29] 
------------------
-Lokomotiv StP - Lada-VAZ - 2:0 
-Kristall - Lada-Grad - 6:1 
-Kuban' - Lokomotiv Ch - 0:0 
-Druzhba - Saturn - 1:1 
-Dinamo St - Rubin - 1:2 
-Spartak Nch - Gazovik-Gazprom - 3:2 
-Fakel - Neftekhimik - 1:0 
-Metallurg - KamAZ - 2:0 
-Lokomotiv NN - Tom' - 2:0 
-Arsenal - Irtysh - 3:2 
-
-Round 43 [Nov 4]
-----------------
-Lada-Grad - Kuban' - 7:2 
-Lada-VAZ - Druzhba - 2:1 
-Saturn - Dinamo St - 1:1 
-Lokomotiv Ch - Spartak Nch - 0:1 
-Gazovik-Gazprom - Fakel - 0:3 
-Rubin - Metallurg - 0:0 
-KamAZ - Lokomotiv NN - 0:2 
-Neftekhimik - Arsenal - 3:2 
-Irtysh - Sokol - 0:0 
-Tom' - Anzhi - 1:1 
-
-Round 44 [Nov 7]
-----------------
-Kristall - Lokomotiv StP - 1:0 
-Lada-Grad - Druzhba - 0:0 
-Lada-VAZ - Kuban' - 4:1 
-Saturn - Spartak Nch - 1:1 
-Lokomotiv Ch - Dinamo St - 3:0 (awd) 
-Gazovik-Gazprom - Metallurg - 2:1 
-Rubin - Fakel - 2:0 
-KamAZ - Arsenal - 0:1 
-Neftekhimik - Lokomotiv NN - 2:4 
-Irtysh - Anzhi - 0:1 
-Tom' - Sokol - 1:2 
-
-Final Table:
-
- 1. Saturn Ramenskoe             42 24 12  6  73-34  84  Promoted
- 2. Lokomotiv Nizhny Novgorod    42 23  8 11  65-34  77  Promoted
--------------------------------------------------------
- 3. Sokol Saratov                42 21 13  8  58-32  76
- 4. Kristall Smolensk            42 23  3 16  59-47  72
- 5. Arsenal Tula                 42 18 11 13  65-53  65
- 6. Lada-Grad Dimitrovgrad       42 19  7 16  65-63  64
- 7. Rubin Kazan'                 42 19  6 17  56-50  63
- 8. Dinamo Stavropol'            42 16 15 11  51-40  63
- 9. Gazovik-Gazprom Izhevsk      42 18  6 18  53-58  60
-10. Fakel Voronezh               42 17  9 16  54-45  60
-11. Lokomotiv Chita              42 17  8 17  60-50  59
-12. Anzhi Makhachkala            42 17  6 19  47-56  57
-13. Metallurg Lipetsk            42 16  8 18  41-50  56
-14. Tom' Tomsk                   42 15 11 16  54-45  56
-15. Spartak Nalchik              42 15 11 16  49-52  56
-16. Lokomotiv St.Petersburg      42 14 11 17  38-41  53
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-17. Neftekhimik Nizhnekamsk      42 15  7 20  44-56  52  Play-off
--------------------------------------------------------
-18. Druzhba Maikop               42 13 11 18  45-55  50    Relegated
-19. Lada-Togliatti-VAZ Togliatti 42 15  9 18  52-70  48 [*]Relegated
-20. Kuban' Krasnodar             42 10 13 19  42-68  43    Relegated
-21. Irtysh Omsk                  42 11  8 23  36-58  41    Relegated
-22. KamAZ-Chally Nab. Chelny     42  7  5 30  32-82  20 [+]Relegated
-
-[*] Lada-VAZ 6 points deducted for not building pitch heating system
-[+] KamAZ-Chally 6 points deducted for not paying transfer fee in time
-
-NB: On June 3, VVS Kristall dropped VVS from their name.
-
-Promoted from 2nd League:
-Spartak-Orekhovo Orekhovo-Zuyevo, Volgar'-Gazprom Astrakhan',
-Torpedo-Victoria Nizhny Novgorod, Amkar Perm', Metallurg Krasnoyarsk.
-
-Promotion/Relegation Play-off
-
-First Leg [Nov 11]
-Neftekhimik Nizhnekamsk 1-1 Torpedo-ZIL Moscow   
-  [Zinovyev 15 - Golikov 47]
-
-Second Leg [Nov 15]
-Torpedo-ZIL Moscow      2-0 Neftekhimik Nizhnekamsk
-  [Snegiryov 48, Panfyorov 56]
-
-Neftekhimik is relegated to 2nd League, 
-Torpedo-ZIL is promoted to 1st League.
-
-
-Top Scorers:
-------------
-27 - Andradina (Arsenal)
-19 - Igor' Gavrilin (Saturn)
-18 - Vladislav Zubkov (Lokomotiv NN)
-17 - Gurban Gurbanov (Dinamo St)
-     Valery Shushlyakov (Kristall)
-16 - Aleksey Chernov (Lada-Grad)
-
-
-Russia Championship 1998
-
-Second League (3rd Level)
-
-ZONE WEST
-
- 1. Torpedo-ZIL Moskva           40 28  6  6  90-30  90  Play-off
--------------------------------------------------------
- 2. Spartak Schyolkovo           40 23  9  8  65-30  78
- 3. Dinamo-2 Moskva              40 22  9  9  66-37  75
- 4. MosEnergo Moskva             40 21 12  7  56-35  75
- 5. Spartak-2 Moskva             40 21 11  8  94-50  74
- 6. Zenit-2 St.Peterburg         40 22  7 11  68-42  73
- 7. Avtomobilist Noginsk         40 21 10  9  58-32  73
- 8. Dinamo St.Peterburg          40 21  9 10  47-27  72
- 9. Dinamo Vologda               40 16 11 13  52-46  59
-10. FK Khimki                    40 15  8 17  63-60  53
-11. Energiya Velikiye Luki       40 15  8 17  58-80  53
-12. CSKA-2 Moskva                40 14  5 21  69-78  47
-13. SportAkademKlub Moskva       40 13  8 19  47-72  47
-14. Volochanin Vychni Volochek   40 11 13 16  39-64  46
-15. Volga Tver'                  40 12  9 19  34-41  45
-16. Neftyanik Yaroslavl'         40 12  9 19  46-66  45
-17. Torpedo-2 Moskva             40 11  6 23  59-81  39
-18. Lokomotiv-2 Moskva           40  8 10 22  53-80  34
-19. Spartak Kostroma             40  8  8 24  40-83  32
--------------------------------------------------------
-20. Krasnoznamensk-Selyatino Kr. 40  6 13 21  40-69  31  Relegated
-21. Monolit Moskva               40  5  9 26  31-72  24  Relegated
-
-FK Pskov were disqualified for not paying participation fee in time. Because 
-they played less than half of their games, all were cancelled.
-
-
-ZONE CENTER
-
- 1. Spartak-Orekhovo Or.-Zuyevo  40 25 14  1  60-23  89  Promoted
--------------------------------------------------------
- 2. FK Oryol                     40 21 15  4  55-18  78
- 3. Spartak Ryazan'              40 21 12  7  56-29  75
- 4. Spartak Tambov               40 20 14  6  67-38  74
- 5. Lokomotiv Liski              40 20  8 12  59-38  68
- 6. Kosmos Dolgoprudny           40 17 15  8  61-44  66
- 7. Don Novomoskovsk             40 18 10 12  46-40  64
- 8. Spartak Lukhovitsy           40 17 13 10  55-39  64
- 9. Spartak Bryansk              40 17  8 15  50-48  59
-10. Torpedo Vladimir             40 15 10 15  37-37  55
-11. Fabus Bronnitsy              40 14 10 16  44-46  52
-12. Dinamo Bryansk               40 14  8 18  44-57  50
-13. FK Kolomna                   40 14  8 18  57-72  50
-14. Arsenal-2 Tula               40 11 14 15  48-49  47
-15. Titan Reutov                 40 10 14 16  35-45  44
-16. Tekstil'shchik Ivanovo       40 10  7 23  49-70  37
-17. Lokomotiv Kaluga             40  8 13 19  34-62  37
-18. Avangard Kursk               40  9  9 22  34-54  36
-19. Salyut-YUKOS Belgorod        40  8 12 20  50-66  36
--------------------------------------------------------
-20. Stroitel' Morshansk          40  8 10 22  34-67  34  Relegated
-21. Asmaral Moskva               40  9  4 27  42-75  31  Relegated
-
-Torgmash Lyubertsy were disqualified for not paying participation fee in time. 
-Because they had played less than half their matches, all were cancelled.
-
-
-ZONE SOUTH
-
- 1. Volgar'-Gazprom Astrakhan'   40 32  5  3 114-22 101  Promoted
--------------------------------------------------------
- 2. Angusht Nazran'              40 28  6  6  82-27  90
- 3. Lokomotiv-Time Min. Vody     40 25  6  9  75-36  81
- 4. Kavkazkabel' Prokhladny      40 25  6  9  59-33  81
- 5. Avtodor Vladikavkaz          40 23  7 10  77-38  76
- 6. Rostsel'mash-2 Rostov/Don    40 20  9 11  68-42  69
- 7. Kuban' Slavyansk-na-Kubani   40 19  7 14  79-58  64
- 8. FK Mozdok                    40 18  9 13  52-42  63
- 9. Torpedo Taganrog             40 16 12 12  81-57  60
-10. Nart Nartkala                40 17  7 16  58-64  58
-11. Venets Gul'kevichi           40 16  6 18  49-62  54
-12. Torpedo Georgiyevsk          40 12 14 14  43-51  50
-13. FK Anapa                     40 14  6 20  61-75  48
-14. Dinamo Makhachkala           40 12 10 18  53-65  46
-15. Shakhtyor Shakhty            40 11 13 16  44-50  46
-16. Iriston Vladikavkaz          40 12  7 21  49-70  43
-17. Nart Cherkessk               40 10  8 22  34-60  38
-18. Zhemchuzhina-2 Sochi         40 10  5 25  47-79  35
-19. Beshtau Lermontov            40  9  3 28  32-99  30
-20. Alania-2 Vladikavkaz         40  7  7 26  32-83  28
--------------------------------------------------------
-21. Torpedo Armavir              40  4  7 29  25-101 19  Relegated
-
-
-ZONE POVOLZHYE
-
- 1. Torpedo-Victoria N. Novgorod 36 29  5  2  74-24  92  Promoted
--------------------------------------------------------
- 2. Torpedo Pavlovo              36 24  3  9  63-24  75
- 3. Torpedo Volzhsky             36 20  8  8  60-40  68
- 4. Energetik Uren'              36 19 10  7  57-28  67
- 5. Torpedo Arzamas              36 17  9 10  52-37  60
- 6. Diana Volzhsk                36 17  6 13  52-46  57
- 7. Svetotekhnika Saransk        36 16  9 11  54-36  57
- 8. Biokhimik-Mordovia Saransk   36 15  9 12  40-39  54
- 9. Zenit Penza                  36 16  5 15  47-50  53
-10. FK Balakovo                  36 16  4 16  48-44  52
-11. Volga Ul'yanovsk             36 15  7 14  37-41  52
-12. Spartak-Telecom Shuya        36 14 10 12  36-35  52
-13. Energiya Ul'yanovsk          36 12 10 14  39-48  46
-14. Iskra Engels                 36 12  8 16  40-40  44
-15. Khimik Dzerzhinsk            36 11  9 16  30-38  42
-16. Salyut Saratov               36  9  7 20  31-49  34
-17. Rotor-2 Volgograd            36  8  4 24  49-73  28
--------------------------------------------------------
-18. Druzhba Yoshkar-Ola          36  5  3 28  21-62  18  Relegated
-19. Progress Zelyonodol'sk       36  2  4 30  19-95  10  Relegated
-
-Rotor Kamyshin (formerly Energia and Tekstil'schik) were disqualified for
-not paying participation fee in time. Because they played less than half
-their matches, all results were cancelled.
-
-Progress Zelenodol'sk was disqualified for not appearing at games after
-having played half their games, so all remaining matches were awarded 0-3
-against them.
-
-
-ZONE URAL
-
- 1. Amkar Perm'                  34 31  2  1 100-12  95  Promoted
--------------------------------------------------------
- 2. Nosta Novotroitsk            34 29  3  2  91-11  90
- 3. Uralmash Yekaterinburg       34 20  6  8  63-29  66
- 4. Energiya Chaykovsky          34 20  3 11  70-39  63
- 5. UralAZ Miass                 34 18  6 10  57-34  60
- 6. Sodovik Sterlitamak          34 16  7 11  45-37  55
- 7. Samotlor-XXI Nizhnevartovsk  34 17  9  8  53-39  54
- 8. Zenit Chelyabinsk            34 15  8 11  45-32  53
- 9. Metallurg-Metiznik Magnitog. 34 15  7 12  55-53  52
-10. Dinamo Perm'                 34 16  2 16  56-55  50
-11. Dinamo Omsk                  34 15  2 17  36-47  47
-12. Gazovik Orenburg             34 11  3 20  46-60  36
-13. Irtysh Tobol'sk              34 10  6 18  31-54  36
-14. Uralets Nizhny Tagil         34  9  3 22  33-64  30
-15. Sibir' Kurgan                34  5 14 15  28-59  29
-16. Neftyanik Pokhvistnyovo      34  8  4 22  24-68  28
-17. Dinamo Izhevsk               34  4  3 27  28-62  15
--------------------------------------------------------
-18. Trubnik Kamensk-Uralsky      34  1  4 29   6-92   7  Relegated
-
-6 points were deducted from Samotlor-XXI for not paying transfer fee in time.
-Zenit Izhevsk was renamed to Dinamo during the season.
-
-Trubnik were disqualified for not appearing at their games after they 
-played half of the games, so all remaining matches were awarded 0-3
-against them.
-
-
-ZONE EAST
-
- 1. Metallurg Krasnoyarsk        30 19  6  5  53-14  63  Promoted
--------------------------------------------------------
- 2. Chkalovets Novosibirsk       30 16 12  2  41-17  60
- 3. Zvezda Irkutsk               30 16  8  6  43-13  56
- 4. SKA Khabarovsk               30 17  4  9  49-32  55
- 5. Metallurg Novokuznetsk       30 15  6  9  44-32  51
- 6. Amur-Energia Blagoveshchensk 30 13 10  7  37-24  49
- 7. Luch Vladivostok             30 14  6 10  42-24  48
- 8. Selenga Ulan-Ude             30 11  9 10  35-45  42
- 9. Dinamo Barnaul               30 11  6 13  37-34  39
-10. Zarya Leninsk-Kuznetsky      30  8 10 12  27-33  34
-11. Kuzbass Kemerovo             30 10  9 11  32-37  33
-12. Victoria Nazarovo            30  8  9 13  30-41  33
-13. Okean Nakhodka               30  6 11 13  24-45  29
-14. Sibiryak Bratsk              30  6  7 17  26-47  25
-15. FK Mezhdurechensk            30  3  9 18  18-55  18
--------------------------------------------------------
-16. Torpedo Rubtsovsk            30  2  8 20  19-64  14  Relegated
-
-6 points were deducted from Kuzbass for not paying transfer fee in time.
-
-
-ZONE WINNERS RESULTS
-Zone winners matches against the top 6 teams of their zones
-(the worst zone winner to play for promotion)
-
-1.Amkar Perm'                       10  8 1 1  25-5  25  Promoted
-2.Torpedo-Victoria Nizhny Novgorod  10  7 2 1  18-6  23  Promoted
-3.Metallurg Krasnoyarsk             10  6 2 2  16-6  20  Promoted
-4.Volgar'-Gazprom Astrakhan'        10  5 3 2  17-6  18  Promoted
-5.Spartak-Orekhovo Orekhovo-Zuyevo  10  4 6 0  12-6  18  Promoted
--------------------------------------------------------
-6.Torpedo-ZIL Moskva                10  5 2 3  12-8  17  Play-off
-
-
-Promotion/Relegation Play-off
-
-First Leg [Nov 11]
-Neftekhimik Nizhnekamsk 1-1 Torpedo-ZIL Moscow
-  [Zinovyev 15 - Golikov 47]
-
-Second Leg [Nov 15]
-Torpedo-ZIL Moscow      2-0 Neftekhimik Nizhnekamsk
-  [Snegiryov 48, Panfyorov 56]
-
-Neftekhimik is relegated to 2nd League, 
-Torpedo-ZIL is promoted to 1st League.
+* 1.Spartak            30 17  8  5 58-27 59  [Moskva]          Champions
+* 2.CSKA               30 17  5  8 50-22 56  [Moskva]
+* 3.Lokomotiv          30 16  7  7 45-28 55  [Moskva]
+* 4.Rotor              30 12 12  6 52-37 48  [Volgograd]
+* 5.Zenit              30 12 11  7 42-25 47  [St. Peterburg]
+* 6.Rostsel'mash       30 11 11  8 42-38 44  [Rostov-na-Donu]
+* 7.Uralan             30 12  6 12 39-41 42  [Elista]
+* 8.Alania             30 11  7 12 46-39 40  [Vladikavkaz]
+* 9.Dinamo             30  8 15  7 31-30 39  [Moskva]
+*10.Chernomorets       30  9 11 10 38-38 38  [Novorossiysk] 
+*11.Torpedo            30  9 10 11 38-34 37  [Moskva]
+*12.Kryl'ya Sovetov    30  9  8 13 25-37 35  [Samara]
+*13.Zhemchuzhina       30  9  8 13 31-48 35  [Sochi]
+*14.Shinnik            30  9  8 13 30-40 35  [Yaroslavl']
+*------------------------------------------
+*15.Baltika            30  7 11 12 32-43 32  [Kaliningrad]     Relegated
+*16.FK Tyumen'         30  2  2 26 17-89  8  [Tyumen']         Relegated
+*
+*[in case of equality of points, first number of wins then head-to-head counts]
 
 
 *Prepared and maintained by Mike Dryomin, Sergey Ukladov and Mikhail Ustinov for the Rec.Sport.Soccer Statistics Foundation

@@ -1,32 +1,30 @@
-http://www.rsssf.com/tablesb/bulg00.html
+BlockSource: http://www.rsssf.com/tablesb/bulg00.html
+Season: 1999-2000
+Competition: Bulgarian A Football Group
 
-Bulgaria 1999/2000
+* 1.FC Levski (Sofia)     30 23  5  2 66-17 74  Champions
+* 2.CSKA (Sofia)          30 20  4  6 60-26 64
+* 3.Velbazhd (Kjustendil) 30 17  4  9 52-32 55  [*]
+* 4.Neftohimik (Burgas)   30 14 11  5 42-21 53
+* 5.Lovetch (Lovetch)     30 15  4 11 61-34 49  [*]
+* 6.Slavia (Sofia)        30 13  6 11 38-40 45
+* 7.Spartak (Varna)       30 12  5 13 42-51 41
+* 8.Botev (Plovdiv)       30 12  4 14 43-42 40
+* 9.Lokomotiv (Sofia)     30 10  9 11 54-37 39
+*10.Chernomorets (Burgas) 30 10  7 13 31-40 37
+*11.Minjor (Pernik)       30 11  3 16 44-58 36
+*- - - - - - - - - - - - - - - - - - - - - - -
+*12.Dobrudzha (Dobritch)  30 10  5 15 30-43 35  Relegation Playoff
+*13.Olympic-Beroe (St.Z.) 30 10  4 16 28-47 34  Relegation Playoff
+*--------------------------------------------- 
+*14.Belasitsa (Petritch)  30  9  6 15 28-57 33  [2 1 0 1 4-2 3]  Relegated
+*15.Pirin (Blagoevgrad)   30 10  3 17 31-50 33  [2 1 0 1 2-4 3]  Relegated
+*16.Shumen (Shumen)       30  3  2 25 13-68 11  Relegated
+*
+*[*] Levski Kjustendil were renamed Velbazhd, Litex Lovetch were
+*    renamed Lovetch.
 
-Final Table:
-
- 1.FC Levski (Sofia)     30 23  5  2 66-17 74  Champions
- 2.CSKA (Sofia)          30 20  4  6 60-26 64
- 3.Velbazhd (Kjustendil) 30 17  4  9 52-32 55  [*]
- 4.Neftohimik (Burgas)   30 14 11  5 42-21 53
- 5.Lovetch (Lovetch)     30 15  4 11 61-34 49  [*]
- 6.Slavia (Sofia)        30 13  6 11 38-40 45
- 7.Spartak (Varna)       30 12  5 13 42-51 41
- 8.Botev (Plovdiv)       30 12  4 14 43-42 40
- 9.Lokomotiv (Sofia)     30 10  9 11 54-37 39
-10.Chernomorets (Burgas) 30 10  7 13 31-40 37
-11.Minjor (Pernik)       30 11  3 16 44-58 36
-- - - - - - - - - - - - - - - - - - - - - - -
-12.Dobrudzha (Dobritch)  30 10  5 15 30-43 35  Relegation Playoff
-13.Olympic-Beroe (St.Z.) 30 10  4 16 28-47 34  Relegation Playoff
---------------------------------------------- 
-14.Belasitsa (Petritch)  30  9  6 15 28-57 33  [2 1 0 1 4-2 3]  Relegated
-15.Pirin (Blagoevgrad)   30 10  3 17 31-50 33  [2 1 0 1 2-4 3]  Relegated
-16.Shumen (Shumen)       30  3  2 25 13-68 11  Relegated
-
-[*] Levski Kjustendil were renamed Velbazhd, Litex Lovetch were
-    renamed Lovetch.
-
-Round 1 
+Round: 1 
 [Aug 7]
 Levski S      2-0 Chernomorets
 Neftohimik    2-1 CSKA
@@ -38,7 +36,7 @@ Lokomotiv S   5-1 Pirin
 [Aug 11]
 Shumen        0-3 Spartak V
 
-Round 2
+Round: 2
 [Aug 14]
 Slavia        1-1 Neftohimik   
 Dobrudzha     1-3 Lovetch
@@ -50,7 +48,7 @@ Spartak V     1-0 Minjor
 Shumen        1-4 Levski S
 CSKA          3-1 Velbazhd
 
-Round 3 [Aug 21]
+Round: 3 [Aug 21]
 Belasitsa     4-1 Pirin
 Olympic-Beroe 1-0 Chernomorets
 Lovetch       2-0 Botev Pd
@@ -60,7 +58,7 @@ Levski S      5-0 Spartak V
 Neftohimik    3-1 Dobrudzha
 Lokomotiv S   2-0 Shumen
 
-Round 4 
+Round: 4 
 [Aug 28]
 Slavia        4-1 Minjor
 Dobrudzha     0-1 Velbazhd
@@ -72,7 +70,7 @@ Levski S      3-0 Lokomotiv S
 Spartak V     1-2 CSKA
 Pirin         0-1 Lovetch
 
-Round 5 [Sep 11]
+Round: 5 [Sep 11]
 CSKA          3-1 Slavia
 Lokomotiv S   5-0 Spartak V
 Olympic-Beroe 0-1 Levski S
@@ -82,7 +80,7 @@ Minjor        4-0 Dobrudzha
 Lovetch       2-0 Chernomorets
 Neftohimik    1-1 Pirin
 
-Round 6 [Sep 18]
+Round: 6 [Sep 18]
 Chernomorets  0-0 Neftohimik
 Spartak V     0-0 Slavia
 Botev Pd      1-0 Minjor
@@ -92,7 +90,7 @@ Shumen        1-0 Lovetch
 Levski S      6-0 Belasitsa
 Dobrudzha     0-3 CSKA
 
-Round 7 [Sep 25]
+Round: 7 [Sep 25]
 Lovetch       1-1 Levski S
 Olympic-Beroe 2-0 Spartak V
 Belasitsa     2-2 Lokomotiv S
@@ -102,7 +100,7 @@ CSKA          4-0 Botev Pd
 Slavia        2-1 Dobrudzha
 Neftohimik    1-0 Shumen
 
-Round 8 [Oct 2]
+Round: 8 [Oct 2]
 Spartak V     2-0 Dobrudzha
 Botev Pd      6-0 Slavia
 Chernomorets  2-1 Minjor
@@ -112,7 +110,7 @@ Lokomotiv S   2-1 Lovetch
 Pirin         0-1 CSKA
 Levski S      2-0 Neftohimik
 
-Round 9 [Oct 17]
+Round: 9 [Oct 17]
 Velbazhd      1-3 Levski S
 Belasitsa     1-1 Spartak V            [in Radomir]
 Lovetch       2-0 Olympic-Beroe        [in Teteven]
@@ -122,7 +120,7 @@ Dobrudzha     1-0 Botev Pd
 CSKA          3-0 Chernomorets
 Neftohimik    3-2 Lokomotiv S
 
-Round 10 [Oct 23,24]
+Round: 10 [Oct 23,24]
 Spartak V     2-1 Botev Pd
 Pirin         2-1 Dobrudzha
 Chernomorets  1-0 Slavia
@@ -132,7 +130,7 @@ Shumen        0-1 CSKA
 Belasitsa     1-0 Lovetch
 Levski S      4-1 Minjor
 
-Round 11 [Oct 30]
+Round: 11 [Oct 30]
 Lovetch       4-1 Spartak V   
 Neftohimik    3-0 Belasitsa
 Velbazhd      4-0 Olympic-Beroe    
@@ -142,7 +140,7 @@ Dobrudzha     0-0 Chernomorets
 Botev Pd      2-1 Pirin
 CSKA          1-0 Levski S
 
-Round 12
+Round: 12
 [Nov 6]
 Spartak V     2-1 Pirin
 Chernomorets  0-0 Botev Pd 
@@ -154,7 +152,7 @@ Lovetch       0-1 Neftohimik
 Lokomotiv S   0-0 CSKA
 Levski S      4-1 Slavia
 
-Round 13 [Nov 20,21]
+Round: 13 [Nov 20,21]
 Velbazhd      1-3 Lovetch
 Minjor        4-0 Belasitsa
 CSKA          3-0 Olympic-Beroe
@@ -164,7 +162,7 @@ Pirin         2-3 Chernomorets
 Neftohimik    4-0 Spartak V
 Slavia        1-0 Lokomotiv S
 
-Round 14 
+Round: 14 
 [Nov 27]
 Spartak V     4-2 Chernomorets
 Shumen        1-0 Pirin
@@ -176,7 +174,7 @@ Neftohimik    1-0 Velbazhd
 [Nov 28]
 Levski S      4-1 Botev Pd
 
-Round 15 
+Round: 15 
 [Dec 4]
 Velbazhd      2-0 Spartak V
 Minjor        1-0 Neftohimik
@@ -188,7 +186,7 @@ Chernomorets  1-0 Shumen
 [Dec 5]
 CSKA          2-0 Lovetch
 
-Round 16
+Round: 16
 [Feb 26]
 Chernomorets  2-3 Levski S
 Spartak V     4-0 Shumen
@@ -200,7 +198,7 @@ Pirin         1-0 Lokomotiv S
 [Feb 27]
 CSKA          1-4 Neftohimik
 
-Round 17
+Round: 17
 [Mar 4]
 Velbazhd      3-1 CSKA
 Neftohimik    0-0 Slavia
@@ -212,7 +210,7 @@ Lovech        4-1 Dobrudzha
 [Mar 5]
 Levski        3-0 Shumen
 
-Round 18
+Round: 18
 [Mar 11]
 Pirin         1-0 Belasitsa
 Chernomorets  2-1 Olympic-Beroe
@@ -224,7 +222,7 @@ Shumen        1-1 Lokomotiv S
 [Mar 12]
 Spartak V     0-1 Levski S
 
-Round 19
+Round: 19
 [Mar 17]
 Lokomotiv S   1-1 Levski S
 CSKA          1-0 Spartak V
@@ -237,7 +235,7 @@ Lovetch       1-1 Pirin
 Minyor        0-3 Slavia
 Neftohimik    0-1 Botev Pd
 
-Round 20
+Round: 20
 Spartak V     2-1 Lokomotiv S
 Levski S      2-0 Olympic-Beroe
 Chernomorets  1-1 Lovetch
@@ -247,7 +245,7 @@ Shumen        0-1 Belasitsa
 Botev Pd      1-0 Velbazhd
 Slavia        0-0 CSKA
 
-Round 21
+Round: 21
 [Mar 31]
 Levski S      0-0 Belasitsa
 [Apr 1]
@@ -259,7 +257,7 @@ Minyor        1-1 Botev Pd
 CSKA          4-1 Dobrudzha
 Chernomorets  0-2 Neftohimik
 
-Round 22
+Round: 22
 [Apr 8]
 Levski S      1-1 Lovetch
 Lokomotiv S   2-0 Belasitsa
@@ -271,7 +269,7 @@ Chernomorets  1-1 Velbazhd
 [Apr 9]
 Botev Pd      1-2 CSKA
 
-Round 23 [Apr 22]
+Round: 23 [Apr 22]
 Dobrudzha     2-0 Spartak V 
 Slavia        3-2 Botev Pd 
 Minyor        2-1 Chernomorets 
@@ -281,7 +279,7 @@ Lovetch       3-2 Lokomotiv S
 CSKA          1-1 Pirin 
 Neftochimik   1-1 Levski S
 
-Round 24
+Round: 24
 [Apr 28]
 Chernomorets  0-2 CSKA
 [Apr 29]
@@ -293,7 +291,7 @@ Lokomotiv S   1-1 Neftohimik
 Spartak V     3-1 Belasitsa
 Shumen        1-3 Minyor
 
-Round 25 [May 6]
+Round: 25 [May 6]
 Minyor        3-2 Levski S
 Dobrudzha     4-2 Pirin
 CSKA          4-0 Shumen
@@ -303,7 +301,7 @@ Lovetch       8-0 Belasitsa
 Velbazhd      1-1 Lokomotiv S
 Neftohimik    3-0 Olympic-Beroe
 
-Round 26 [May 13]
+Round: 26 [May 13]
 Levski        1-0 CSKA
 Spartak V     1-0 Lovetch 
 Belasitsa     1-1 Neftohimik
@@ -313,7 +311,7 @@ Pirin         3-1 Botev Pd
 Shumen        0-3 Slavia
 Olympic-Beroe awd Velbazhd      [awarded 0-4; Olympic-Beroe walked off at 0-1 in 2nd half]
 
-Round 27
+Round: 27
 [May 20]
 Pirin         2-0 Spartak V
 Botev Pd      0-1 Chernomorets
@@ -325,7 +323,7 @@ Neftohimik    2-1 Lovetch
 Slavia        0-2 Levski S
 CSKA          3-2 Lokomotiv S
 
-Round 28 [May 27]
+Round: 28 [May 27]
 Levski S      2-1 Dobrudzha 
 Lovetch       3-1 Velbazhd 
 Lokomotiv S   6-0 Slavia
@@ -335,7 +333,7 @@ Olympic-Beroe 1-1 CSKA
 Chernomorets  2-0 Pirin
 Belasitsa     2-2 Minyor 
    
-Round 29 [Jun 3]
+Round: 29 [Jun 3]
 Chernomorets  3-2 Spartak V
 Dobrudzha     2-1 Lokomotiv S
 Minyor        4-3 Lovetch  
@@ -345,7 +343,7 @@ Pirin         3-1 Shumen
 Velbazhd      1-0 Neftohimik 
 Slavia        1-2 Olympic-Beroe
    
-Round 30 [Jun 9]
+Round: 30 [Jun 9]
 Spartak V     5-3 Velbazhd
 Neftohimik    4-1 Minjor
 Belasitsa     2-0 Slavia
@@ -355,664 +353,43 @@ Levski S      1-0 Pirin
 Shumen        2-3 Chernomorets 
 Lovetch       3-2 CSKA
 
-Final Table:
 
- 1.FC Levski (Sofia)     30 23  5  2 66-17 74  Champions
- 2.CSKA (Sofia)          30 20  4  6 60-26 64
- 3.Velbazhd (Kjustendil) 30 17  4  9 52-32 55  [*]
- 4.Neftohimik (Burgas)   30 14 11  5 42-21 53
- 5.Lovetch (Lovetch)     30 15  4 11 61-34 49  [*]
- 6.Slavia (Sofia)        30 13  6 11 38-40 45
- 7.Spartak (Varna)       30 12  5 13 42-51 41
- 8.Botev (Plovdiv)       30 12  4 14 43-42 40
- 9.Lokomotiv (Sofia)     30 10  9 11 54-37 39
-10.Chernomorets (Burgas) 30 10  7 13 31-40 37
-11.Minjor (Pernik)       30 11  3 16 44-58 36
-- - - - - - - - - - - - - - - - - - - - - - -
-12.Dobrudzha (Dobritch)  30 10  5 15 30-43 35  Relegation Playoff
-13.Olympic-Beroe (St.Z.) 30 10  4 16 28-47 34  Relegation Playoff
---------------------------------------------- 
-14.Belasitsa (Petritch)  30  9  6 15 28-57 33  [2 1 0 1 4-2 3]  Relegated
-15.Pirin (Blagoevgrad)   30 10  3 17 31-50 33  [2 1 0 1 2-4 3]  Relegated
-16.Shumen (Shumen)       30  3  2 25 13-68 11  Relegated
-
-[*] Levski Kjustendil were renamed Velbazhd, Litex Lovetch were
-    renamed Lovetch.
-
-NB: in the second half of the season, Lovetch will have to play 7
-    home matches at neutral venues following incidents during the
-    1/8 cup final match against Levski (during which the sponsor
-    with his bodyguards assaulted referee and linesmen at half time).
-
-Promotion/Relegation Playoffs [Jun 14]
-Dobrudzha     0-2 Hebar'1920-Iskar Pazardzhik
-Olympic-Beroe 1-0 Spartak Pleven
-
-Dobrudzha relegated, Hebar-Iskar promoted
-
-Topscorers:
-
-18 Svetoslav Todorov (Lovech) 
-17 Mihail Mihailov (Velbazhd Kyustendil) 
-15 Plamen Timnev (Spartak Varna) 
-14 Dimitar Ivanov (CSKA Sofia)
-   Dimitar Berbatov (CSKA Sofia) 
-13 Serge Yofu (Levski Sofia)
-   Anton Evtimov (Minyor Pernik) 
-12 Georgi Ivanov (Levski Sofia) 
-
-
-Cup 1999/2000
-
-Second Round
-Golemi vrah (Dolna sekirna) 0-0 Beroe'2000 (Stara Zagora)  [6-5 pen]
-Botev (Galabovo)            1-2 Vidima Rakovski (Sevlievo)     
-Pavlikeni (Pavlikeni)       0-0 Haskovo (Haskovo)          [5-6 pen]
-Planinets (Apriltsi)        1-3 Spartak (Pleven)            
-Sunny Beach (Nessebar)      1-2 Lokomotiv (Plovdiv)        [aet]
-Fairplay (Varna)            1-2 Septemvri (Sofia)           
-Varshets (Varshets)         0-2 Dunav (Russe)                  
-Iskar (German)              0-0 Antibiotik (Razgrad)       [4-2 pen] 
-Kaliakra (Kavarna)          1-1 Cherno more (Varna)        [4-5 pen]
-Venets (Oreshak)            1-0 Metalurg (Radomir)           
-Rodopa (Smoljan)            0-0 Kremikovtsi (Kremikovtsi)  [5-6 pen] 
-Vihar (Vetren)              0-7 Botev (Vratsa)      
-Benkovski (Bjala)           1-2 Iskar (Sofia)         
-Spartak (Plovdiv)           3-1 Svetkavitsa (Targovishte) 
-Junak (Shumen)              1-1 Etar (Veliko Tarnovo)      [5-3 pen]   
-Marek (Dupnitsa)            1-4 Maritsa (Plovdiv)     
-  
-Third Round [Oct 27]
-Iskar (Sofia)               2-4 Levski (Sofia)            
-Vihar (Oreshets)            0-4 CSKA (Sofia)                    
-Lovetch (Lovetch)           3-1 Septemvri (Sofia)          [in Teteven]
-Belasitsa (Petritch)        1-0 Lokomotiv (Plovdiv)
-Dobrudzha (Dobritch)       10-0 Haskovo (Haskovo) 
-Velbazhd (Kjustendil)       1-0 Dunav (Ruse)         
-Slavia (Sofia)              3-0 Kremikovtsi (Buhovo)       
-Maritsa (Plovdiv)           1-2 Chernomorets (Burgas)      [aet]
-Botev (Vratsa)              1-2 Minjor (Pernik)                    
-Spartak (Pleven)            0-2 Olympic-Beroe (Stara Zagora)         
-Golemi vrah (Dolna Sekirna) 1-6 Spartak (Varna)            [in Elin Pelin] 
-Vidima-Rakovski (Sevlievo)  0-0 Lokomotiv (Sofia)          [3-4 pen]
-Cherno More (Varna)         2-0 Pirin (Blagoevgrad)        
-Junak (Shumen)              1-4 Botev (Plovdiv)                 
-Iskar (German)              0-0 Shumen (Shumen)            [7-8 pen]
-Spartak (Plovdiv)           0-2 Neftohimik (Burgas)
-
-Fourth Round [Nov 10,11; Dec 8]
-Lokomotiv (Sofia)       4-1 0-1 Belasitsa (Petritch) 
-Dobrudzha (Dobritch)    2-1 0-4 Shumen (Shumen)        
-Botev (Plovdiv)         2-0 2-1 Minjor (Pernik)
-Cherno More (Varna)     0-2 1-2 Chernomorets (Burgas)
-Velbazhd (Kjustendil)   3-0 3-4 Spartak (Varna)   
-Neftohimik (Burgas)     3-0 4-1 Olympic-Beroe (Stara Zagora)
-Levski (Sofia)          2-0 1-3 Lovetch (Lovetch)          [*]  
-Slavia (Sofia)          1-2 1-1 CSKA (Sofia)
-
-[*] in the second half of the league season, Lovetch will have to
-    play 7 home matches at neutral venues following incidents during
-    the 2nd leg of this cup tie (during which the sponsor with his
-    bodyguards assaulted referee and linesmen at half time).
-
-Quarterfinals [Mar 22; Apr 5]
-Shumen (Shumen)         5-1 0-6 Chernomorets (Burgas)
-Neftohimik (Burgas)     3-0 1-1 Botev (Plovdiv)     
-Lokomotiv (Sofia)       3-1 0-2 Velbazhd (Kjustendil)
-CSKA (Sofia)            0-1 1-3 Levski (Sofia) 
-
-Semifinals [Apr 18; May 3]
-Levski (Sofia)          6-1 0-1 Velbazhd (Kjustendil)
-Chernomorets (Burgas)   2-2 1-3 Neftohimik (Burgas)  
-
-Final [Plovdiv, May 31; att: 20,000]
-Levski (Sofia)            2-0   Neftohimik (Burgas)  
-  [Georgi Ivanov 87, Biser Ivanov 90]
-
-
-Second Level 1999/2000
-
-Final Table:
-
- 1.Cherno More (Varna)             30 23  1  6 59-27 70  Promoted
--------------------------------------------------------
- 2.Spartak (Pleven)                30 21  4  5 57-32 67  Promotion Playoff
- 3.Iskar (Pazardzhik)              30 17  5  8 51-31 56  Promotion Playoff  [-]
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 4.Dunav (Ruse)                    30 15  5 10 43-35 50  
- 5.Botev (Vratsa)                  30 14  3 13 48-48 45
- 6.Vidima-Rakovski (Sevlievo)      30 12  5 13 40-40 41  
- 7.Lokomotiv (Plovdiv)             30 12  3 15 28-38 39
- 8.Metalurg (Radomir)              30 11  5 14 29-33 38  [6 3 2 1  8- 5 11]  [*]
- 9.Septemvri (Sofia)               30 10  8 12 44-49 38  [6 2 2 2 12-11  8]
-10.Svetkavitsa (Targovishte)       30 11  5 14 35-43 38  [6 2 2 2  8-10  8]
-11.Kremikovtsi (Vidin)             30 10  8 12 35-35 38  [6 1 2 3  7- 9  5]  [-]
-12.Haskovo (Haskovo)               30 11  4 15 36-43 38  [4 2 1 1  8- 4  7]
--------------------------------------------------------
-13.Etar (Veliko Tarnovo)           30 10  7 13 32-38 37  Relegated  [4 1 2 1  3- 5  5]  
-14.Antibiotik-Ludogorets (Razgrad) 30 11  4 15 31-36 37  Relegated  [4 1 1 2  3- 5  4]
-15.Maritsa (Plovdiv)               30  9  6 15 29-39 33  Relegated
-16.Beroe'2000 (Kazanlak)           30  3  7 20 21-51 16  Relegated  [+]
-
-[-] During the winter break, Iskar (Sofia) were moved to Pazardzhik (after 
-    merging with Hebar (Pazardzhik)) and Kremikovtsi (Sofia) to Vidin 
-    (after merging with Bdin (Vidin))
-[*] Metalurg (Radomir) = Metalurg (Pernik) + Strumska slava (Radomir)
-[+] as a consequence of the merger between Olympic (Teteven) and Beroe
-    (Stara Zagora), a new team named Beroe'2000 took Beroe's place in
-    the second division and was moved to Kazanlak.
-
-Round 1 [Aug 7]
-Maritsa (Plovdiv) - Antibiotik-Ludogorets (Razgrad) 1-0
-Septemvri (Sofia) - Beroe'2000 (Stara Zagora)       3-1
-Dunav (Ruse) - Svetkavitsa (Targovishte)            2-1
-Iskar (Sofia) - Spartak (Pleven)                    3-0
-Botev (Vratsa) - Kremikovtsi (Buhovo)               1-2
-Cherno More (Varna) - Lokomotiv (Plovdiv)           1-0
-Etar (Veliko Tarnovo) - Haskovo (Haskovo)           1-1
-Metalurg (Pernik) - Vidima-Rakovski (Sevlievo)      3-2
-
-Round 2 [Aug 14,15]
-Antibiotik-Ludogorets (Razgrad) - Lokomotiv (Plovdiv) 3-0
-Kremikovtsi (Buhovo) - Cherno More (Varna)            1-1
-Spartak (Pleven) - Botev (Vratsa)                     4-3
-Svetkavitsa (Targovishte) - Iskar (Sofia)             0-3
-Haskovo (Haskovo) - Dunav (Ruse)                      2-2
-Vidima-Rakovski (Sevlievo) - Etar (Veliko Tarnovo)    3-1
-Beroe'2000 (Stara Zagora) - FC Radomir (Radomir)      1-1
-Maritsa (Plovdiv) - Septemvri (Sofia)                 1-0
-
-Round 3 [Aug 20]
-Septemvri (Sofia) - Antibiotik-Ludogorets (Razgrad) 1-0
-Dunav (Ruse) - Vidima-Rakovski (Sevlievo)           2-0 
-Iskar (Sofia) - Haskovo (Haskovo)                   5-0
-Botev (Vratsa) - Svetkavitsa (Targovishte)          1-0 
-Cherno More (Varna) - Spartak (Pleven)              4-0
-Lokomotiv (Plovdiv) - Kremikovtsi (Buhovo)          2-0
-Etar (Veliko Tarnovo) - Beroe'2000 (Stara Zagora)   1-0
-Metalurg (Radomir) - Maritsa (Plovdiv)              0-0
-
-Round 4 [Aug 28,29]
-Antibiotik-Ludogorets (Razgrad) - Kremikovtsi (Buhovo) 2-1
-Spartak (Pleven) - Lokomotiv (Plovdiv)                 1-0
-Svetkavitsa (Targovishte) - Cherno More (Varna)        3-1
-Haskovo (Haskovo) - Botev (Vratsa)                     3-0  
-Vidima-Rakovski (Sevlievo) - Iskar (Sofia)             0-0
-Beroe'2000 (Stara Zagora) - Dunav (Ruse)               0-1
-Septemvri (Sofia) - Metalurg (Radomir)                 0-0
-Maritsa (Plovdiv) - Etar (Veliko Tarnovo)              2-0
-  
-Round 5 [Sep 11]
-Dunav (Ruse) - Maritsa (Plovdiv)                     2-1
-Botev (Vratsa) - Vidima-Rakovski (Sevlievo)          4-2
-Cherno More (Varna) - Haskovo (Haskovo)              3-0
-Lokomotiv (Plovdiv) - Svetkavitsa (Targovishte)      1-0
-Kremikovtsi (Buhovo) - Spartak (Pleven)              0-0 
-Etar (Veliko Tarnovo) - Septemvri (Sofia)            2-2
-Iskar (Sofia) - Beroe'2000 (Stara Zagora)            2-0
-Metalurg (Radomir) - Antibiotik-Ludogorets (Razgrad) 1-0
-
-Round 6 [Sep 18]
-Antibiotik-Ludogorets (Razgrad) - Spartak (Pleven) 1-1
-Svetkavitsa (Targovishte) - Kremikovtsi (Buhovo)   1-0
-Haskovo (Haskovo) - Lokomotiv (Plovdiv)            1-2
-Vidima-Rakovski (Sevlievo) - Cherno More (Varna)   3-1
-Beroe'2000 (Stara Zagora) - Botev (Vratsa)         0-1
-Septemvri (Sofia) - Dunav (Ruse)                   3-2
-Metalurg (Radomir) - Etar (Veliko Tarnovo)         2-0
-Maritsa (Plovdiv) - Iskar (Sofia)                  2-0
-
-Round 7 [Sep 25]
-Dunav (Ruse) - Metalurg (Radomir)                       1-0
-Botev (Vratsa) - Maritsa (Plovdiv)                      2-1              
-Cherno More (Varna) - Beroe'2000 (Stara Zagora)         5-2  
-Lokomotiv (Plovdiv) - Vidima-Rakovski (Sevlievo)        1-0
-Kremikovtsi (Buhovo) - Haskovo (Haskovo)                2-0
-Spartak (Pleven) - Svetkavitsa (Targovishte)            2-1
-Etar (Veliko Tarnovo) - Antibiotik-Ludogorets (Razgrad) 2-0
-Iskar (Sofia) - Septemvri (Sofia)                       3-1
-
-Round 8 [Oct 2]
-Antibiotik-Ludogorets (Razgrad) - Svetkavitsa (Targovishte) 4-0
-Haskovo (Haskovo) - Spartak (Pleven)                        1-2
-Vidima-Rakovski (Sevlievo) - Kremikovtsi (Buhovo)           1-0
-Beroe'2000 (Stara Zagora) - Lokomotiv (Plovdiv)             1-0
-Septemvri (Sofia) - Botev (Vratsa)                          4-0
-Etar (Veliko Tarnovo) - Dunav (Ruse)                        1-1
-Metalurg (Radomir) - Iskar (Sofia)                          1-2
-Maritsa (Plovdiv) - Cherno More (Varna)                     0-1
-
-Round 9 [Oct 17]
-Dunav (Ruse) - Antibiotik-Ludogorets (Razgrad)   2-1
-Iskar (Sofia) - Etar (Veliko Tarnovo)            2-0
-Botev (Vratsa) - Metalurg (Radomir)              2-0
-Cherno More (Varna) - Septemvri (Sofia)          2-0
-Lokomotiv (Plovdiv) - Maritsa (Plovdiv)          1-0
-Spartak (Pleven) - Vidima-Rakovski (Sevlievo)    4-1
-Svetkavitsa (Targovishte) - Haskovo (Haskovo)    2-0
-Kremikovtsi (Buhovo) - Beroe'2000 (Stara Zagora) 3-0 (proabably awarded)
-
-Round 10 [Oct 24]
-Antibiotik-Ludogorets (Razgrad) - Haskovo (Haskovo)    1-0
-Vidima-Rakovski (Sevlievo) - Svetkavitsa (Targovishte) 2-0
-Beroe'2000 (Kazanlak) - Spartak (Pleven)               0-3
-Maritsa (Plovdiv) - Kremikovtsi (Buhovo)               1-1
-Septemvri (Sofia) - Lokomotiv (Plovdiv)                2-0
-Metalurg (Radomir) - Cherno More (Varna)               1-2
-Etar (Veliko Tarnovo) - Botev (Vratsa)                 3-2
-Dunav (Ruse) - Iskar (Sofia)                           3-2
-
-Round 11 [Oct 30]
-Iskar (Sofia) - Antibiotik-Ludogorets (Razgrad)   1-0
-Botev (Vratsa) - Dunav (Ruse)                     3-1
-Cherno More (Varna) - Etar (Veliko Tarnovo)       2-0
-Kremikovtsi (Buhovo) - Septemvri (Sofia)          2-2          
-Spartak (Pleven) - Maritsa (Plovdiv)              3-1 
-Svetkavitsa (Targovishte) - Beroe'2000 (Kazanlak) 1-1
-Haskovo (Haskovo) - Vidima-Rakovski (Sevlievo)    2-0
-Lokomotiv (Plovdiv) - Metalurg (Radomir)          0-0 
-
-Round 12 [Nov 6]
-Antibiotik-Ludogorets (Razgrad) - Vidima-Rakovski (Sevlievo) 0-0
-Beroe'2000 (Kazanlak) - Haskovo (Haskovo)                    2-0
-Maritsa (Plovdiv) - Svetkavitsa (Targovishte)                2-1
-Septemvri (Sofia) - Spartak (Pleven)                         0-2
-Metalurg (Radomir) - Kremikovtsi (Buhovo)                    2-1
-Etar (Veliko Tarnovo) - Lokomotiv (Plovdiv)                  0-1
-Dunav (Ruse) - Cherno More (Varna)                           1-0
-Iskar (Sofia) - Botev (Vratsa)                               2-1
-
-Round 13 [Nov 20,21]
-Botev (Vratsa) - Antibiotik-Ludogorets (Razgrad)   2-1 
-Cherno More (Varna) - Iskar (Sofia)                3-0
-Kremikovtsi (Sofia) - Etar (Veliko Tarnovo)        0-0
-Spartak (Pleven) - Metalurg (Radomir)              2-0 
-Svetkavitsa (Targovishte) - Septemvri (Sofia)      3-0
-Haskovo (Haskovo) - Maritsa (Plovdiv)              2-0
-Vidima-Rakovski (Sevlievo) - Beroe'2000 (Kazanlak) 2-0 
-Lokomotiv (Plovdiv) - Dunav (Ruse)                 2-0
-
-Round 14 [Nov 27]
-Antibiotik-Ludogorets (Razgrad) - Beroe'2000 (Kazanlak) 1-0
-Maritsa (Plovdiv) - Vidima-Rakovski (Sevlievo)          1-2
-Septemvri (Sofia) - Haskovo (Haskovo)                   1-2
-Metalurg (Radomir) - Svetkavitsa (Targovishte)          2-1
-Etar (Veliko Tarnovo) - Spartak (Pleven)                1-2
-Dunav (Ruse) - Kremikovtsi (Sofia)                      1-0
-Botev (Vratsa) - Cherno More (Varna)                    3-1
-Iskar (Sofia) - Lokomotiv (Plovdiv)                     4-1
-
-Round 15 [Dec 4,5]
-Cherno More (Varna) - Antibiotik-Ludogorets (Razgrad) 2-0 
-Kremikovtsi (Sofia) - Iskar (Sofia)                   3-0 
-Spartak (Pleven) - Dunav (Ruse)                       1-2
-Svetkavitsa (Targovishte) - Etar (Veliko Tarnovo)     2-1
-Haskovo (Haskovo) - Metalurg (Radomir)                3-1
-Vidima-Rakovski (Sevlievo) - Septemvri (Sofia)        1-0
-Beroe'2000 (Kazanlak) - Maritsa (Plovdiv)             1-0
-Lokomotiv (Plovdiv) - Botev (Vratsa)                  2-2  
-
-NB- during the winter break, Iskar (Sofia) were renamed to Hebar 1920 (Pazardzhik)
-
-Round 16 [Feb 26]
-Antibiotik-Ludogorets (Razgrad) - Maritsa (Plovdiv) 2-0
-Beroe'2000 (Kazanlak) - Septemvri (Sofia)           2-3
-Svetkavitsa (Targovishte) - Dunav (Ruse)            3-1
-Spartak (Pleven) - Hebar 1920 (Pazardzhik)          0-0
-Kremikovtsi (Sofia) - Botev (Vratsa)                0-1
-Haskovo (Haskovo) - Etar (Veliko Tarnovo)           4-0
-Vidima-Rakovski (Sevlievo) - Metalurg (Radomir)     3-0
-Lokomotiv (Plovdiv) - Cherno More (Varna)           0-1
-
-Round 17 [Mar 4]
-Lokomotiv (Plovdiv) - Antibiotik-Ludogorets (Razgrad) 2-0
-Cherno More (Varna) - Kremikovtsi (Sofia)             4-2
-Botev (Vratsa) - Spartak (Pleven)                     1-3
-Hebar 1920 (Pazardzhik) - Svetkavitsa (Targovishte)   3-0
-Dunav (Ruse) - Haskovo (Haskovo)                      2-0
-Etar (Veliko Tarnovo) - Vidima-Rakovski (Sevlievo)    1-0
-Metalurg (Radomir) - Beroe'2000 (Kazanlak)            2-0
-Septemvri (Sofia) - Maritsa (Plovdiv)                 0-0
-
-NB- Hebar 1920 (Pazardzhik) continue as Iskar (Pazardzhik)
-
-Round 18 [Mar 11]
-Antibiotik-Ludogorets (Razgrad) - Septemvri (Sofia) 1-1
-Beroe'2000 (Kazanlak) - Etar (Veliko Tarnovo)       1-1
-Vidima-Rakovski (Sevlievo) - Dunav (Ruse)           1-1
-Haskovo (Haskovo) - Iskar (Pazardzhik)              1-1
-Svetkavitsa (Targovishte) - Botev (Vratsa)          1-0
-Spartak (Pleven) - Cherno More (Varna)              2-1
-Kremikovtsi (Vidin) - Lokomotiv (Plovdiv)           3-0
-Maritsa (Plovdiv) - Metalurg (Radomir)              2-0
-
-NB- Kremikovtsi were moved from Botunets (Sofia?) to Vidin
-
-Round 19 [Mar 18]
-Kremikovtsi (Vidin) - Antibiotik-Ludogorets (Razgrad)   2-1
-Lokomotiv (Plovdiv) - Spartak (Pleven)                  2-1
-Cherno More (Varna) - Svetkavitsa (Targovishte)         4-1
-Botev (Vratsa) - Haskovo (Haskovo)                      3-0
-Iskar (Pazardzhik) - Vidima-Rakovski (Sevlievo)         1-0
-Dunav (Ruse) - Beroe'2000 (Kazanlak)                    2-2
-Etar (Veliko Tarnovo) - Maritsa (Plovdiv)               4-1
-Metalurg (Radomir) - Septemvri (Sofia)                  2-0
-
-Round 20 [Mar 25]
-Antibiotik-Ludogorets (Razgrad) - Metalurg (Radomir) 1-0
-Septemvri (Sofia) - Etar (Veliko Tarnovo)            2-0
-Maritsa (Plovdiv) - Dunav (Ruse)                     2-0
-Beroe'2000 (Kazanlak) - Iskar (Pazardzhik)           1-1
-Vidima-Rakovski (Sevlievo) - Botev (Vratsa)          1-1
-Haskovo (Haskovo) - Cherno More (Varna)              0-1
-Svetkavitsa (Targovishte) - Lokomotiv (Plovdiv)      1-0
-Spartak (Pleven) - Kremikovtsi (Vidin)               4-0
-
-Round 21 [Apr 1]
-Spartak (Pleven) - Antibiotik-Ludogorets (Razgrad)       3-1
-Kremikovtsi (Vidin) - Svetkavitsa (Targovishte)          0-0
-Lokomotiv (Plovdiv) - Haskovo (Haskovo)                  1-0
-Cherno More (Varna) - Vidima-Rakovski (Sevlievo)         3-1
-Botev (Vratsa) - Beroe'2000 (Kazanlak)                   3-0
-Iskar (Pazardzhik) - Maritsa (Plovdiv)                   2-1
-Dunav (Ruse) - Septemvri (Sofia)                         3-0
-Etar (Veliko Tarnovo) - Metalurg (Radomir)               1-0
-
-Round 22
-[Apr 8]
-Antibiotik-Ludogorets (Razgrad) - Etar (Veliko Tarnovo)  0-0
-Metalurg (Radomir) - Dunav (Ruse)                        1-0
-Septemvri (Sofia) - Iskar (Pazardzhik)                   0-0
-Beroe'2000 (Kazanlak) - Cherno More (Varna)              0-1
-Vidima-Rakovski (Sevlievo) - Lokomotiv (Plovdiv)         1-2
-Haskovo (Haskovo) - Kremikovtsi (Vidin)                  0-0
-Svetkavitsa (Targovishte) - Spartak (Pleven)             0-0
-[Apr 9]
-Maritsa (Plovdiv) - Botev (Vratsa)                       3-2
-
-Round 23
-[Apr 22]
-Svetkavitsa (Targovishte) - Antibiotik-Ludogorets (Razgrad) 4-0
-Spartak (Pleven) - Haskovo (Haskovo)                        4-2
-Kremikovtsi (Vidin) - Vidima-Rakovski (Sevlievo)            2-0
-Lokomotiv (Plovdiv) - Beroe'2000 (Kazanlak)                 1-1
-Botev (Vratsa) - Septemvri (Sofia)                          3-3
-Iskar (Pazardzhik) - Metalurg (Radomir)                     2-1
-Dunav (Ruse) - Etar (Veliko Tarnovo)                        0-0
-[Apr 23]
-Cherno More (Varna) - Maritsa (Plovdiv)                     3-1
-
-Round 24
-[Apr 29]
-Antibiotik-Ludogorets (Razgrad) - Dunav (Ruse)           2-1
-Etar (Veliko Tarnovo) - Iskar (Pazardzhik)               3-0
-Metalurg (Radomir) - Botev (Vratsa)                      2-1  [in Pernik]
-Beroe'2000 (Kazanlak) - Kremikovtsi (Vidin)              0-3  [in Stara Zagora]
-Vidima-Rakovski (Sevlievo) - Spartak (Pleven)            2-3
-Haskovo (Haskovo) - Svetkavitsa (Targovishte)            1-0
-[Apr 30]
-Septemvri (Sofia) - Cherno More (Varna)                  2-1
-Maritsa (Plovdiv) - Lokomotiv (Plovdiv)                  1-0
-
-Round 25
-[May 6]
-FC Haskovo - Antibiotik-Ludogorets (Razgrad)              3-2
-Svetkavitsa (Targovishte) - Vidima-Rakovski (Sevlievo)    2-0
-Spartak (Pleven) - Beroe 2000 (Kazanlak)                  1-0
-Kremikovtsi (Vidin) - Maritsa (Plovdiv)                   1-1
-Cherno more (Varna) - Metalurg (Radomir)                  2-1
-Botev (Vratsa) - Etar (Veliko Tarnovo)                    1-0  [0-0?]
-Iskar (Pazardzhik) - Dunav (Ruse)                         2-0
-[May 7]
-Lokomotiv (Plovdiv) - Septemvri (Sofia)                   2-1
-
-Round 26
-[May 13]
-Antibiotik-Ludogorets (Razgrad) - Iskar (Pazardzhik)     2-1  [1-0?]
-Dunav (Ruse) - Botev (Vratsa)                            3-0  [0-0?]
-Etar (Veliko Tarnovo) - Cherno More (Varna)              0-1
-Metalurg (Radomir) - Lokomotiv (Plovdiv)                 2-0  [1-0?]
-Septemvri (Sofia) - Kremikovtsi (Vidin)                  4-3  [2-1?]
-Maritsa (Plovdiv) - Spartak (Pleven)                     0-1
-Vidima-Rakovski (Sevlievo) - Haskovo (Haskovo)           2-1  [1-1?]
-[May 14]
-Beroe'2000 (Kazanlak) - Svetkavitsa (Targovishte)        0-1  [in Stara Zagora]
-
-Round 27
-[May 20]
-Vidima-Rakovski (Sevlievo) - Antibiotik-Ludogorets (Razgrad) 2-0
-Haskovo (Haskovo) - Beroe'2000 (Kazanlak)                    1-0
-Svetkavitsa (Targovishte) - Maritsa (Plovdiv)                2-2
-Spartak (Pleven) - Septemvri (Sofia)                         3-0
-Botev (Vratsa) - Iskar (Pazardzhik)                          2-1
-[May 21]
-Kremikovtsi (Vidin) - Metalurg (Radomir)                     1-0  [in Vratsa]
-Lokomotiv (Plovdiv) - Etar (Veliko Tarnovo)                  2-3
-Cherno More (Varna) - Dunav (Ruse)                           1-0      
-
-Round 28 [May 27]
-Antibiotik-Ludogorets (Razgrad) - Botev (Vratsa)   3-0
-Iskar (Pazardzhik) - Cherno More (Varna)           3-4
-Dunav (Ruse) - Lokomotiv (Plovdiv)                 3-1
-Etar (Veliko Tarnovo) - Kremikovtsi (Vidin)        2-0
-Metalurg (Radomir) - Spartak (Pleven)              0-1
-Septemvri (Sofia) - Svetkavitsa (Targovishte)      6-1
-Maritsa (Plovdiv) - Haskovo (Haskovo)              0-1
-Beroe'2000 (Kazanlak) - Vidima-Rakovski (Sevlievo) 2-3  
-
-Round 29 [Jun 3]
-Beroe'2000 (Kazanlak) - Antibiotik-Ludogorets (Razgrad) 1-2
-Vidima-Rakovski (Sevlievo) - Maritsa (Plovdiv)          3-0
-Haskovo (Haskovo) - Septemvri (Sofia)                   5-1
-Svetkavitsa (Targovishte) - Metalurg (Radomir)          2-2
-Spartak (Pleven) - Etar (Veliko Tarnovo)                3-2
-Kremikovtsi (Vidin) - Dunav (Ruse)                      2-1
-Lokomotiv (Plovdiv) - Iskar (Pazardzhik)                1-2
-Cherno More (Varna) - Botev (Vratsa)                    1-0
-
-Round 30 [Jun 9]
-Antibiotik-Ludogorets (Razgrad) - Cherno More (Varna)     0-2
-Botev (Vratsa) - Lokomotiv (Plovdiv)                      3-1
-Iskar (Pazardzhik) - Kremikovtsi (Vidin)                  3-0
-Dunav (Ruse) - Spartak (Pleven)                           3-1
-Etar (Veliko Tarnovo) - Svetkavitsa (Targovishte)         2-1
-Metalurg (Radomir) - Haskovo (Haskovo)                    2-0
-Septemvri (Sofia) - Vidima-Rakovski (Sevlievo)            2-2
-Maritsa (Plovdiv) - Beroe'2000 (Kazanlak)                 2-2
-
-Final Table:
-
- 1.Cherno More (Varna)             30 23  1  6 59-27 70  Promoted
--------------------------------------------------------
- 2.Spartak (Pleven)                30 21  4  5 57-32 67  Promotion Playoff
- 3.Iskar (Pazardzhik)              30 17  5  8 51-31 56  Promotion Playoff  [-]
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 4.Dunav (Ruse)                    30 15  5 10 43-35 50  
- 5.Botev (Vratsa)                  30 14  3 13 48-48 45
- 6.Vidima-Rakovski (Sevlievo)      30 12  5 13 40-40 41  
- 7.Lokomotiv (Plovdiv)             30 12  3 15 28-38 39
- 8.Metalurg (Radomir)              30 11  5 14 29-33 38  [6 3 2 1  8- 5 11]  [*]
- 9.Septemvri (Sofia)               30 10  8 12 44-49 38  [6 2 2 2 12-11  8]
-10.Svetkavitsa (Targovishte)       30 11  5 14 35-43 38  [6 2 2 2  8-10  8]
-11.Kremikovtsi (Vidin)             30 10  8 12 35-35 38  [6 1 2 3  7- 9  5]  [-]
-12.Haskovo (Haskovo)               30 11  4 15 36-43 38  [4 2 1 1  8- 4  7]
--------------------------------------------------------
-13.Etar (Veliko Tarnovo)           30 10  7 13 32-38 37  Relegated  [4 1 2 1  3- 5  5]  
-14.Antibiotik-Ludogorets (Razgrad) 30 11  4 15 31-36 37  Relegated  [4 1 1 2  3- 5  4]
-15.Maritsa (Plovdiv)               30  9  6 15 29-39 33  Relegated
-16.Beroe'2000 (Kazanlak)           30  3  7 20 21-51 16  Relegated  [+]
-
-[-] During the winter break, Iskar (Sofia) were moved to Pazardzhik (after 
-    merging with Hebar (Pazardzhik)) and Kremikovtsi (Sofia) to Vidin 
-    (after merging with Bdin (Vidin))
-[*] Metalurg (Radomir) = Metalurg (Pernik) + Strumska slava (Radomir)
-[+] as a consequence of the merger between Olympic (Teteven) and Beroe
-    (Stara Zagora), a new team named Beroe'2000 took Beroe's place in
-    the second division and was moved to Kazanlak.
-
-Promotion/Relegation Playoffs [Jun 14]
-Dobrudzha     0-2 Hebar'1920-Iskar Pazardzhik
-Olympic-Beroe 1-0 Spartak Pleven
-
-Dobrudzha relegated, Hebar-Iskar promoted
-
-
-Third Level 1999/2000
-
-Northeastern Group
-
-Final Table:
-
- 1. Dorostol'97 (Silistra)      34  27  3  4   93:31  84 Promoted
---------------------------------------------------------
- 2. Fairplay-Port (Varna)       34  22  7  5   81:36  73
- 3. OFK Devnya                  34  19  6  9   67:34  63
- 4. Preslav-L (Preslav)         34  19  4  11  56:33  61
- 5. Chernomorets (Chernevo)     34  16  8  10  72:51  56
- 6. Lokomotiv (Ruse)            34  15 10  9   69:38  55
- 7. Orlovets (Pobeda)           34  16  4  14  51:61  52
- 8. Kaliakra (Kavarna)          34  15  6  13  59:55  51
- 9. Dulovo'98 (Dulovo)          34  15  5  14  55:58  50
-10. Levski (Glavinitsa)         34  14  5  15  51:38  47 [1 0 1 3:2 3]
-11. Akademik Bona (Targovishte) 34  14  5  15  50:52  47 [1 0 1 2:3 3]
-12. Yunak (Shumen)              34  13  6  15  51:55  45
-13. Levski (Omurtag)            34  12  7  15  49:56  43
-14. FK Kubrat                   34  13  1  20  49:63  40
-15. Atletik (Ezerovo)           34   8  8  18  42:59  32
-16. Vihar (Loznitsa)            34   9  1  24  38:90  28
---------------------------------------------------------
-17. Benkovski (Byala)           34   6  4  24  41:102 22 Relegated
---. Vihar (Zavet)               34   7  2  25  26:88  23 Relegated
-
-Note: After the fall season Vihar (Zavet) withdrew from the group.
-      Their remaining matches were awarded 0:3 defeats against them.
-
-Northwestern Group
-
-Table:
-
- 1. Loviko (Suhindol)             33  25  5  3   87:17 80
----------------------------------------------------------
- 2. Akademik (Svishtov)           33  25  5  3   86:16 80
- 3. Sikonko (Klimentovo)          33  26  1  6   85:24 79
- 4. Beli orli Maya (Pleven)       33  25  3  5   71:22 78
- 5. Lokomotiv (Gorna Oryahovitsa) 33  20  2  11  70:34 62
- 6. Parva atomna (Kozlodui)       33  16  2  15  52:50 50
- 7. Montana'21 (Montana)          33  15  3  15  52:46 48
- 8. Botev Bulmeks (Debelets)      33  13  7  13  59:44 46
- 9. Lokomotiv (Dryanovo)          33  14  3  16  49:55 45
-10. Lokomotiv (Mezdra)            33  13  3  17  50:52 42
-11. FK Pavlikeni                  33  13  3  17  54:65 42
-12. Chardafon (Gabrovo)           33  13  2  18  54:62 41
-13. FK Cherven bryag              33  12  3  18  45:76 39
-14. Planinets (Apriltsi)          33  10  5  18  35:77 35
-15. Botev (Lilyache)              33  10  3  20  37:85 33
-16. Balkan (Belogradchik)         33   9  5  19  39:75 32
----------------------------------------------------------
---. FK Boichinovtsi               32   3  4  25  18:81 13 Relegated
---. Storgozia (Pleven)            32   3  3  26  17:78 12 Relegated
-
-Notes: - Because of their merger with FK Kremikovtsi of B PFG during the winter break, 
-         Bdin (Vidin) withdrew from the group.  Their place and record were taken by 
-         Balkan (Belogradchik).
-         After the fall season Storgozia (Pleven) withdrew from the group.  Their 
-         remaining matches were awarded 0:3 defeats against them.
-         After round 22 FK Boichinovtsi withdrew from the group.  Their remaining 
-         matches were awarded 0:3 defeats against them.
-
-Southwestern Group
-
-Table:
-
- 1. Marek (Dupnitsa)            33  25  5  3   64:23 80 Promoted
--------------------------------------------------------
- 2. Vihren (Sandanski)          33  24  3  6   69:17 75 
- 3. Minyor (Bobovdol)           33  19  8  6   44:19 65
- 4. Lokomotiv'98 (Novi Iskar)   33  19  3  11  59:34 60
- 5. Skala (Bov)                 33  16  7  10  61:33 55
- 6. Vihar (Gorublyane)          33  15  5  13  49:42 50
- 7. Rilski sportist (SAMOKOV)   33  15  3  15  56:41 48
- 8. Pirin (Gotse Delchev)       33  14  5  14  50:38 47
- 9. Hebar (Pazardzik)           33  13  6  14  44:52 45
-10. Verila (Elin Pelin)         33  11 10  12  35:50 43
-11. Balkan (Botevgrad)          33  11  8  14  40:46 41
-12. Belana (Belovo)             33  12  5  16  35:47 41
-13. Levski (Dolna Banya)        33  11  6  16  36:66 39
-14. Botev (Ihtiman)             33  11  4  18  43:58 37
-15. Septemvri'98 (Simitli)      32  11  3  18  42:50 36
-16. FK Vinogradets              33  10  5  18  37:61 35
--------------------------------------------------------
-17. Akademik (Sofia)            32   9  4  19  33:54 31
---. Golemi vrah (Dolna Sekirna) 33   2  6  25  12:78 12 Relegated
-
-Notes: Golemi vrah (Dolna Sekirna) play their home games in Kovachevtsi, 
-       FC Vinogradets play their home games in Pazardzik.
-       Since round 20, Skala (Bov) play their home games in Svoge.
-       After the fall season Golemi vrah (Dolna Sekirna) withdrew from the group.
-       Their remaining matches were awarded 0:3 defeats against them.
-
-Southeastern Group
-
-Table:
-
- 1. Slanchev bryag (Nesebar)     33  27  3  3   86:23 84  [*]
---------------------------------------------------------
- 2. Sokol'96 (Markovo)           33  27  2  4   87:19 83
- 3. Spartak S'94 (Plovdiv)       33  21  2  10  64:34 65
- 4. Rodopa (Smolyan)             33  19  2  12  68:32 59
- 5. Granichar (Svilengrad)       33  15  2  16  43:56 47
- 6. FK Kameno                    33  15  1  17  44:45 46
- 7. Metalik (Sopot)              33  13  6  14  48:54 45
- 8. Kosmos (Sredets)             33  14  3  16  58:68 45
- 9. FK Sliven                    33  14  2  17  50:53 44
-10. Yambol'97 (Yambol)           33  14  2  17  51:59 44
-11. Asenovets (Asenovgrad)       33  13  4  16  44:54 43
-12. Toplika (Haskovski min.bani) 33  13  4  16  40:50 43
-13. Port (Burgas)                33  13  3  17  46:42 42
-14. FK Dimitrovgrad              33  13  3  17  63:67 42
-15. FK Pomorie                   33  12  6  15  46:56 42
---------------------------------------------------------
-16. Zagorets (Nova Zagora)       33  12  3  18  36:70 39
-17. Botev (Galabovo)             33  10  3  20  36:64 33 Relegated
---. Rozova dolina (Kazanlak)     33   5  3  25  16:80 18 Relegated
-
-[*] Slantchev brjag is Bulgarian for Sunny beach
-
-Notes: Slanchev bryag were awarded defeats for 4 of their games, but later the decision 
-       was revoked.
-       After the fall season Rozova dolina (Kazanlak) withdrew from the group.
-       Their remaining matches were awarded 0:3 defeats against them.
-
-
-1998/99.
-
-
-2000/01.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-all-time table.
-
-
-list of cup finals.
-
-
-list of name changes.
-
-
-About this document
-
-Scorer information thanks to Marcos Cabaleiro Pérez (selanne@teleline.es)
-
-Prepared and maintained by Julian Dontchev for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Julian Dontchev (julian_dontchev@yahoo.com) 
-Last updated: 11 Dec 2005
-
-(C) Copyright Julian Dontchev and RSSSF 1999/2005
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+* 1.FC Levski (Sofia)     30 23  5  2 66-17 74  Champions
+* 2.CSKA (Sofia)          30 20  4  6 60-26 64
+* 3.Velbazhd (Kjustendil) 30 17  4  9 52-32 55  [*]
+* 4.Neftohimik (Burgas)   30 14 11  5 42-21 53
+* 5.Lovetch (Lovetch)     30 15  4 11 61-34 49  [*]
+* 6.Slavia (Sofia)        30 13  6 11 38-40 45
+* 7.Spartak (Varna)       30 12  5 13 42-51 41
+* 8.Botev (Plovdiv)       30 12  4 14 43-42 40
+* 9.Lokomotiv (Sofia)     30 10  9 11 54-37 39
+*10.Chernomorets (Burgas) 30 10  7 13 31-40 37
+*11.Minjor (Pernik)       30 11  3 16 44-58 36
+*- - - - - - - - - - - - - - - - - - - - - - -
+*12.Dobrudzha (Dobritch)  30 10  5 15 30-43 35  Relegation Playoff
+*13.Olympic-Beroe (St.Z.) 30 10  4 16 28-47 34  Relegation Playoff
+*--------------------------------------------- 
+*14.Belasitsa (Petritch)  30  9  6 15 28-57 33  [2 1 0 1 4-2 3]  Relegated
+*15.Pirin (Blagoevgrad)   30 10  3 17 31-50 33  [2 1 0 1 2-4 3]  Relegated
+*16.Shumen (Shumen)       30  3  2 25 13-68 11  Relegated
+*
+*[*] Levski Kjustendil were renamed Velbazhd, Litex Lovetch were
+*    renamed Lovetch.
+*
+*NB: in the second half of the season, Lovetch will have to play 7
+*    home matches at neutral venues following incidents during the
+*    1/8 cup final match against Levski (during which the sponsor
+*    with his bodyguards assaulted referee and linesmen at half time).
+*
+*Promotion/Relegation Playoffs [Jun 14]
+*Dobrudzha     0-2 Hebar'1920-Iskar Pazardzhik
+*Olympic-Beroe 1-0 Spartak Pleven
+*
+*Dobrudzha relegated, Hebar-Iskar promoted
+
+*Scorer information thanks to Marcos Cabaleiro Pérez (selanne@teleline.es)
+*Prepared and maintained by Julian Dontchev for the Rec.Sport.Soccer Statistics Foundation
+*Author: Julian Dontchev (julian_dontchev@yahoo.com) 
+*Last updated: 11 Dec 2005
+*(C) Copyright Julian Dontchev and RSSSF 1999/2005
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

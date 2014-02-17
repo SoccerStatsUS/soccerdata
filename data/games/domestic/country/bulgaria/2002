@@ -1,33 +1,30 @@
-http://www.rsssf.com/tablesb/bulg03.html
+BlockSource: http://www.rsssf.com/tablesb/bulg03.html
+Season: 2002-2003
+Competition: Bulgarian A Football Group
 
-Bulgaria 2002/03
 
-Premier PFL
-
-Final Table:
-
- 1.CSKA (Sofia)                 26 21  3  2 67-16 66  Champions
- 2.FC Levski (Sofia)            26 19  3  4 61-19 60  UEFA Cup (Cup Winners)
- 3.Litex (Lovech)               26 17  4  5 49-22 55  UEFA Cup
- 4.Slavia (Sofia)               26 16  3  7 57-30 51  
- 5.Cherno more (Varna)          26 14  6  6 42-21 48
- 6.Lokomotiv (Plovdiv)          26 16  2  8 56-33 47  [-3]
- 7.Spartak (Varna)              26 10  4 12 25-34 34
- 8.Naftex (Burgas)              26 10  3 13 31-36 33
- 9.Marek (Dupnitsa)             26  8  6 12 35-42 30  UI Cup [*]
-10.Lokomotiv (Sofia)            26  7  4 15 23-37 25
-11.Chernomorets (Burgas)        26  7  3 16 32-56 24
-12.Botev (Plovdiv)              26  6  3 17 26-61 21
-----------------------------------------------------
-13.Dobrudzha (Dobritch)         26  4  2 20 19-73 14  Relegated
-14.Rilski sportist (Samokov)    26  1  6 19 20-63  9  Relegated
-
-[*] first Slavia (Sofia) and then Cherno more (Varna) renounced on
-    playing the UI Cup
+* 1.CSKA (Sofia)                 26 21  3  2 67-16 66  Champions
+* 2.FC Levski (Sofia)            26 19  3  4 61-19 60  UEFA Cup (Cup Winners)
+* 3.Litex (Lovech)               26 17  4  5 49-22 55  UEFA Cup
+* 4.Slavia (Sofia)               26 16  3  7 57-30 51  
+* 5.Cherno more (Varna)          26 14  6  6 42-21 48
+* 6.Lokomotiv (Plovdiv)          26 16  2  8 56-33 47  [-3]
+* 7.Spartak (Varna)              26 10  4 12 25-34 34
+* 8.Naftex (Burgas)              26 10  3 13 31-36 33
+* 9.Marek (Dupnitsa)             26  8  6 12 35-42 30  UI Cup [*]
+*10.Lokomotiv (Sofia)            26  7  4 15 23-37 25
+*11.Chernomorets (Burgas)        26  7  3 16 32-56 24
+*12.Botev (Plovdiv)              26  6  3 17 26-61 21
+*----------------------------------------------------
+*13.Dobrudzha (Dobritch)         26  4  2 20 19-73 14  Relegated
+*14.Rilski sportist (Samokov)    26  1  6 19 20-63  9  Relegated
+*
+*[*] first Slavia (Sofia) and then Cherno more (Varna) renounced on
+*    playing the UI Cup
  
-NB: Lokomotiv (Plovdiv) 3 points deducted for failing to show in round 17
+*NB: Lokomotiv (Plovdiv) 3 points deducted for failing to show in round 17
 
-Round 1
+Round: 1
 [Aug 9]
 Lokomotiv Pd    1-2 Naftex
   [Metodi Stoinev 90+4; Plamen Timnev 39, Sasa Viciknez 89]
@@ -46,7 +43,7 @@ CSKA            3-1 Spartak V
   [Emil Gargorov 20pen, Joao Paolo Brito 37, Velizar Dimitrov 63;
    Plamen Krumov 41]
 
-Round 2
+Round: 2
 [Aug 16]
 Rilski sportist 1-3 Slavia  
   [Ivan Gemedzhiev 13; Martin Kushev 65, 74, Dimitar Rangelov 85]
@@ -68,7 +65,7 @@ Litex           3-2 Chernomorets
   Mario Metushev 16, Ivan Donchev 90+1]
  [missed pen: Stoicho Stoilov 61]
 
-Round 3
+Round: 3
 [Aug 23]
 Lokomotiv Pd    2-1 Lokomotiv S
   [Rosen Petrov 22, Vancho Trayanov 68; Ivailo Pargov 86]
@@ -90,7 +87,7 @@ Slavia          2-5 Levski
 CSKA            2-0 Rilski sportist 
   [Hristo Yanev 18, Velizar Dimitrov 22pen]
 
-Round 4
+Round: 4
 [Aug 30]
 Botev Pd        1-4 Slavia  
   [Stefan Kostadinov 67; Martin Kushev 33pen, 49pen 90+1pen, 
@@ -118,7 +115,7 @@ Lokomotiv S     5-0 Dobrudzha
   [Dimitar Stefanov 30, Boiko Velichkov 36, Alex Aruda 49, Radoslav Ivanov 54,
    Ivailo Pargov 58]
 
-Round 5
+Round: 5
 [Sep 12]
 Slavia          1-0 Litex 
   [Velimir Ivanovic 55]
@@ -141,7 +138,7 @@ Cherno more     2-1 Spartak V
   [Georgi Iliev 1, Adelbert Zafirov 52; Milen Georgiev 3]
   [red cards: Ivo Trenchev (S) 78, Nikolai Stanchev (S) 81]
 
-Round 6
+Round: 6
 [Sep 20]
 Naftex          3-2 Slavia 
   [Stoiko Sakaliev 36, Radomir Todorov 53, Plamen Timnev 59; 
@@ -163,7 +160,7 @@ CSKA            4-1 Chernomorets
   [Agnaldo Pereira 63, Macdonald Mukasi 69, Emil Gargorov 73,
    Joao Paolo Brito 81; Petar Stanev 14]
 
-Round 7
+Round: 7
 [Sep 27]
 Botev Pd        0-2 Litex       
   [Desislav Rusev 32, 72]
@@ -184,7 +181,7 @@ Marek           1-0 Lokomotiv S
 Slavia          4-0 Spartak V  
   [Velimir Ivanovic 19, Martin Kushev 28, 83, 90+2]     
 
-Round 8
+Round: 8
 [Oct 4]
 Lokomotiv S     0-0 Slavia      
 [Oct 5]
@@ -204,7 +201,7 @@ CSKA            5-2 Marek
   [Emil Gargorov 2, 58pen, Artim Shakiri 12pen, 46, Agnaldo Pereira 50;
    Amiran Mujiri 22, Krum Bibishkov 71]
 
-Round 9
+Round: 9
 [Oct 19]
 Chernomorets    3-0 Rilski sportist
   [Petar Stanev 4, Emil Angelov 5, Iordan Todorov 74]
@@ -222,7 +219,7 @@ Litex           4-1 Naftex
 Slavia          0-2 CSKA      
   [Velizar Dimitrov 65, Artim Shakiri 83]
 
-Round 10
+Round: 10
 [Oct 25]
 Lokomotiv Pd    1-0 Slavia   
   [Ivan Paskov 76]
@@ -242,7 +239,7 @@ CSKA            3-0 Levski
 Rilski sportist 1-2 Naftex
   [Vasil Kirov 30pen; Said Ibraimov 34, Radomir Todorov 68]
 
-Round 11
+Round: 11
 [Nov 2]
 Cherno more     4-0 Rilski sportist
   [Ivailo Petev 15, Stefan Yurukov 18, Gosho Ginchev 27, Ivo Mihailov 90]
@@ -265,7 +262,7 @@ Litex           4-0 Lokomotiv S
   [Atanas Bornosuzov 21, Claudio Graf 52, Zlatomir Zagorcic 65,
    Hristo Iovov 82]
 
-Round 12
+Round: 12
 [Nov 8]
 Dobrudzha       0-5 Levski          
   [Miodrag Pantelic 30, 0Dimitar Telkiiski 37, Sasa Simonovic 62, 
@@ -288,7 +285,7 @@ Lokomotiv Pd    5-3 Botev Pd
    Slavcho Pavlov 90+1; Borislav Dimitrov 45+2, Milen Kunchev 65,
    Borislav Dimitrov 69]
 
-Round 13
+Round: 13
 [Nov 23]
 Slavia          1-0 Cherno more     
   [Dimitar Rangelov 57; red card: Miroslav Milosevic (Ch) 25]
@@ -310,7 +307,7 @@ Marek           3-1 Rilski sportist
   [Ivailo Kirilov 19, Amiran Mujiri 32, Rumen Shankulov 44;
    Georgi Borinarov 23]
 
-Round 14
+Round: 14
 [Feb 22]
 Rilski sportist 2-0 Lokomotiv S 
   [Lyubomir Videnov 41,45+1]   
@@ -327,7 +324,7 @@ Slavia          1-1 Marek
 Naftex          2-0 Lokomotiv Pd   
   [Veselin Penev 71, Anton Spasov 84]
 
-Round 15 
+Round: 15 
 [Feb 28]
 Slavia          5-0 Rilski sportist
   [Budimir Dzukic 22, Georgi Borinarov 47og, Georgi Vladimirov Georgiev 73,
@@ -348,7 +345,7 @@ CSKA            2-0 Lokomotiv S
 Dobrudzha       2-1 Naftex        
   [Ivo Dimov 36, Kaloyan Genchev 90+2; Nikolay Krastev 89]
 
-Round 16 
+Round: 16 
 [Mar 8]
 Rilski sportist 1-1 CSKA
   [Lyubomir Videnov 13; Emil Gargorov 90+3pen]
@@ -375,7 +372,7 @@ Naftex          2-0 Chernomorets
 Litex           0-2 Cherno more
   [Emil Todorov 41, Slavi Zhekov 89]
 
-Round 17
+Round: 17
 [Mar 15]
 Cherno more     3-1 Naftex         
   [Asen Bukarev 18, Slavi Zhekov 47, Konstantin Mirchev 76pen; 
@@ -397,7 +394,7 @@ Slavia          5-0 Botev Pd
   [Stefan Lulchev 17og, Georgi Vladimirov Georgiev 29, Blagoy Georgiev 36, 
    Velimir Ivanovic 81, Budimir Dzukic 85]
 
-Round 18 
+Round: 18 
 [Mar 21]
 Litex           2-1 Slavia         
   [Kiril Nikolov 9pen, Hristo Yovov 19; Blagoy Georgiev 44pen]
@@ -416,7 +413,7 @@ Naftex          1-1 Marek
 CSKA            3-0 Dobrudzha      
   [Agnaldo Pereira 63, Emil Gargorov 75pen, Joao Paolo Brito 90]
 
-Round 19
+Round: 19
 [Apr 4]
 Slavia          1-0 Naftex 
   [Georgi Vladimirov Georgiev 47]        
@@ -441,7 +438,7 @@ Levski          3-0 Litex
   [Garba Lawal 14, Murad Hidiouede 54og, Todor Kolev 62]
   [red card: Zlatomir Zagorcic 52]
 
-Round 20 [Apr 12]
+Round: 20 [Apr 12]
 CSKA            1-2 Cherno more    
   [Emil Gargorov 29pen; Svetoslav Petrov 45+1og, Georgi Iliev 75]
   [red card: Vladimir Gerasimov (Ch.m) 84]
@@ -464,7 +461,7 @@ Naftex          0-1 Levski
   [Todor Kolev 29]
   [red card: Omonigo Temile (L) 56]
 
-Round 21
+Round: 21
 [Apr 19]
 Slavia          1-1 Lokomotiv S  
   [Georgi Vladimirov Georgiev 7; Boyko Velichkov 51]
@@ -484,7 +481,7 @@ Marek           0-2 CSKA
   [Emil Gargorov 28, Velizar Dimitrov 60] 
 Levski          0-0 Spartak V      
 
-Round 22
+Round: 22
 [Apr 25]
 Naftex          1-3 Litex     
   [Stoyko Sakaliev 22; Atanas Bornosuzov 7, Hristo Yovov 33, 59]
@@ -504,7 +501,7 @@ Lokomotiv S     0-1 Levski
 Spartak V       2-0 Botev Pd       
   [Plamen Krumov 13, Sasa Antunovic 50]
 
-Round 23
+Round: 23
 [May 9]
 Slavia          2-0 Lokomotiv Pd   
   [Georgi Vladimirov Georgiev 25, Blagoy Georgiev 52pen]
@@ -524,7 +521,7 @@ Cherno more     2-2 Chernomorets
   [Darko Spalevic 28, Ivo Mihaylov 78; Ivan Martinov 51, Petar Kolev 90+3]
   [m/pens: Ivo Mihaylov (CmV) 65, Darko Spalevic (CmV) 90+5]
 
-Round 24 [May 17]
+Round: 24 [May 17]
 Rilski sportist 1-3 Cherno more    
   [Vasil Kirov 67pen; Vladimir Gerasimov 68, Adalbert Zafirov 83pen, 
    Slavi Zhekov 86]
@@ -546,7 +543,7 @@ Spartak V       1-0 Naftex
   [Neno Nenov 34]
   [red card: Daniel Hristov (N) 66]
 
-Round 25 
+Round: 25 
 [May 24]
 Spartak V       2-1 Rilski sportist
   [Nikolay Stanchev 4, Martin Kerchev 79; Kiril Aleksandrov 29]
@@ -573,7 +570,7 @@ Botev Pd        1-2 Lokomotiv Pd
   [Ivan Karamanov 34; Ivan Paskov 89, Martin Kamburov 90+4]
   [m/pen: Doncho Donev (L) 52]
 
-Round 26 [May 31]
+Round: 26 [May 31]
 Rilski sportist 3-3 Marek
   [Ivaylo Tsvetkov 40, Lyubomir Videnov 45, Vasil Kirov 57;
    Emil Krastovchev 56, Krum Bibishkov 59, 69]
@@ -595,28 +592,27 @@ CSKA            5-2 Naftex
 Lokomotiv S     2-1 Spartak V 
   [Daniel Peev 21, Boyko Velichkov 86; Martin Kerchev 90+1]
 
-Final Table:
 
- 1.CSKA (Sofia)                 26 21  3  2 67-16 66  Champions
- 2.FC Levski (Sofia)            26 19  3  4 61-19 60  UEFA Cup (Cup Winners)
- 3.Litex (Lovech)               26 17  4  5 49-22 55  UEFA Cup
- 4.Slavia (Sofia)               26 16  3  7 57-30 51  
- 5.Cherno more (Varna)          26 14  6  6 42-21 48
- 6.Lokomotiv (Plovdiv)          26 16  2  8 56-33 47  [-3]
- 7.Spartak (Varna)              26 10  4 12 25-34 34
- 8.Naftex (Burgas)              26 10  3 13 31-36 33
- 9.Marek (Dupnitsa)             26  8  6 12 35-42 30  UI Cup [*]
-10.Lokomotiv (Sofia)            26  7  4 15 23-37 25
-11.Chernomorets (Burgas)        26  7  3 16 32-56 24
-12.Botev (Plovdiv)              26  6  3 17 26-61 21
-----------------------------------------------------
-13.Dobrudzha (Dobritch)         26  4  2 20 19-73 14  Relegated
-14.Rilski sportist (Samokov)    26  1  6 19 20-63  9  Relegated
-
-[*] first Slavia (Sofia) and then Cherno more (Varna) renounced on
-    playing the UI Cup
-
-NB: Lokomotiv (Plovdiv) 3 points deducted for failing to show in round 17     
+* 1.CSKA (Sofia)                 26 21  3  2 67-16 66  Champions
+* 2.FC Levski (Sofia)            26 19  3  4 61-19 60  UEFA Cup (Cup Winners)
+* 3.Litex (Lovech)               26 17  4  5 49-22 55  UEFA Cup
+* 4.Slavia (Sofia)               26 16  3  7 57-30 51  
+* 5.Cherno more (Varna)          26 14  6  6 42-21 48
+* 6.Lokomotiv (Plovdiv)          26 16  2  8 56-33 47  [-3]
+* 7.Spartak (Varna)              26 10  4 12 25-34 34
+* 8.Naftex (Burgas)              26 10  3 13 31-36 33
+* 9.Marek (Dupnitsa)             26  8  6 12 35-42 30  UI Cup [*]
+*10.Lokomotiv (Sofia)            26  7  4 15 23-37 25
+*11.Chernomorets (Burgas)        26  7  3 16 32-56 24
+*12.Botev (Plovdiv)              26  6  3 17 26-61 21
+*----------------------------------------------------
+*13.Dobrudzha (Dobritch)         26  4  2 20 19-73 14  Relegated
+*14.Rilski sportist (Samokov)    26  1  6 19 20-63  9  Relegated
+*
+*[*] first Slavia (Sofia) and then Cherno more (Varna) renounced on
+*    playing the UI Cup
+*
+*NB: Lokomotiv (Plovdiv) 3 points deducted for failing to show in round 17     
 
 
 Cup 2002/03
@@ -654,7 +650,7 @@ FC Beroe (Stara Zagora) (oblast Stara Zagora, "A" OFG Stara Zagora)
 Kameno (Kameno) (oblast Burgas, Southeastern "V" AFG)
 Haskovo (Haskovo) (oblast Haskovo, Southeastern "V" AFG)
 
-First Round [Oct 9]
+First Round: [Oct 9]
   - the teams qualified from the Preliminary phase meet up with the teams
     from the First PFL. Only amateur sides (from the Preliminary phase)
     against First PFL sides are drawn. The amateur teams are always hosts. 
@@ -668,1185 +664,9 @@ Kameno (Kameno)              2-0 PFC Beroe (Stara Zagora) [*]
 Chernomorets (Balchik)       2-1 Olimpik (Teteven)        
 Shumen 2001 (Shumen)         0-2 Pirin (Blagoevgrad)       
 Vihar-Vladislav (Valchi dol) 1-0 Dunav (Ruse)                
-Lokomotiv (Dryanovo)         2-5 Svetkavitsa (Targovishte)          
-Minyor (Pernik)              0-1 Makedonska slava (Simitli)         
-Etar 1924 (Veliko Tarnovo)   3-5 Sokol'96 (Markovo)            [after pen]
-Botev (Ihtiman)              3-5 Belasitsa (Petrich)              
-Haskovo (Haskovo)            0-1 Vidima-Rakovski (Sevlievo)   
-Levski'96 (Glavinitsa)       1-2 Yantra (Gabrovo)             
-Lokomotiv (Mezdra)           2-1 Akademik (Svishtov)           [aet]
-Montana (Montana)            bye
-Spartak (Sofia)              bye
 
-[*] FC Beroe (Stara Zagora) are not related to PFC Beroe (Stara Zagora);
-    these are two alternative clubs, with the first playing in the 
-    "A" OFG Stara Zagora (4th level) and the second playing in the 
-    First PFL (2nd level).
-
-Second Round
-  - the teams qualified from the first stage phase meet up with the teams
-    from the Premier PFL. 2 of the 18 first stage qualifiers are included  
-    in the same group as the 14 Premier PFL teams following a draw. Then the
-    remaining 16 first stage winners are paired up against the 14 PPFL and
-    the 2 winners from the first stage determined by the draw in 16 pairs.
-    In case of ties between an amateur side and a professional side (from 
-    the PPFL or FPFL) the amateur side is host in the first leg.  In case 
-    of all-amateur or all-professional ties the hosting is determined
-    by the draw. 
-
-First Legs
-[Oct 29]
-Chernomorets (Balchik)       0-1 Marek (Dupnitsa)   
-[Oct 30]
-Belasitsa (Petrich)          2-3 CSKA (Sofia)            
-Vihar-Vladislav (Valchi dol) 0-5 Liteks (Lovech)           
-Botev (Plovdiv)              2-3 Makedonska slava (Simitli) 
-Yantra (Gabrovo)             1-2 Lokomotiv (Plovdiv)              
-Svetkavitsa (Targovishte)    0-0 Slavia (Sofia)             
-Vidima-Rakovski (Sevlievo)   1-1 Nafteks (Burgas)         
-Sliven 2000 (Sliven)         0-2 Rilski sportist (Samokov)
-Montana (Montana)            1-1 Botev (Boboshevo)                   
-Rodopa (Smolyan)             0-1 Dobrudzha (Dobrich)               
-Slanchev bryag (Nesebar)     0-4 Cherno more (Varna)               
-Kameno (Kameno)              0-2 Lokomotiv (Sofia)                
-Spartak (Sofia)              2-0 Lokomotiv (Mezdra)            
-Hebar (Pazardzhik)           2-5 Spartak (Varna)                     
-Chernomorets (Burgas)        2-2 Sokol'96 (Markovo)    
-[Nov 17]
-Pirin (Blagoevgrad)          0-1 Levski (Sofia)    
-
-Second Legs
-[Nov 16]
-Marek (Dupnitsa)             6-0 Chernomorets (Balchik)        [agg: 7-0]
-CSKA (Sofia)                 3-2 Belasitsa (Petrich)           [agg: 6-4]
-Liteks (Lovech)              2-0 Vihar-Vladislav (Valchi dol)  [agg: 7-0]
-Makedonska slava (Simitli)   0-0 Botev (Plovdiv)               [agg: 3-2]
-Lokomotiv (Plovdiv)          3-0 Yantra (Gabrovo)              [agg: 5-1]
-Slavia (Sofia)               4-2 Svetkavitsa (Targovishte)     [agg: 4-2]
-Rilski sportist (Samokov)    3-0 Sliven 2000 (Sliven)          [agg: 5-0]
-Botev (Boboshevo)            3-2 Montana (Montana)             [agg: 4-3]
-Dobrudzha (Dobrich)          0-0 Rodopa (Smolyan)              [agg: 1-0]
-Cherno more (Varna)          2-1 Slanchev bryag (Nesebar)      [in Albena, agg: 6-1]
-Lokomotiv (Sofia)            9-0 Kameno (Kameno)               [agg: 11-0]
-Lokomotiv (Mezdra)           0-1 Spartak (Sofia)               [agg: 0-3]
-Spartak (Varna)              2-0 Hebar (Pazardzhik)            [agg: 7-2]
-Sokol'96 (Markovo)           1-3 Chernomorets (Burgas)         [agg: 3-5]
-Nafteks (Burgas)             2-2 Vidima-Rakovski (Sevlievo)    [agg: 3-3, Vidima on away goals]
-[Nov 20]
-Levski (Sofia)               2-1 Pirin (Blagoevgrad)           [agg: 3-1]               
-
-Third Round
-
-First Legs [Nov 30]
-Marek (Dupnitsa)             4-0 Dobrudzha (Dobrich)             
-  [Lyubomir Lyubenov 56, Krum Bibishkov 61, 71, Dimitar Koemdzhiev 88]
-Cherno more (Varna)          0-1 Liteks (Lovech)
-  [Desislav Rusev 53]               
-Vidima-Rakovski (Sevlievo)   2-0 Chernomorets (Burgas) 
-  [Ivan Redovski 1, Petar Yankov 76]         
-Lokomotiv (Plovdiv)          6-0 Spartak (Sofia)  
-  [Ivan Paskov 31, Vasil Kamburov 37, Ekundayo Jayeoba 46, 50,
-   Georgi Stoyanov 58, 83]                
-Slavia (Sofia)               4-0 Lokomotiv (Sofia)
-  [Dimitar Rangelov 21, Martin Kushev 70, 83, Velimir Ivanovic 78]
-Spartak (Varna)              0-0 Levski (Sofia)     
-  [red cards: Georgi Karakanov (S) 20, Zlatin Mihailov (S) 38]             
-Rilski sportist (Samokov)    2-1 CSKA (Sofia)          
-  [Vasil Kirov 26pen, Ivan Gemedzhiev 54; Todor Yanchev 39]
-  [red cards: Petar Adzhov (Rs) 87, Todor Yanchev (CSKA) 87]
-  [hosting was reversed following an agreement between the two clubs]
-Makedonska slava (Simitli)   3-0 Botev (Boboshevo)         
-  [Spas Stoimenov 45+1, Hari Borislavov 66, Mihailov 85og]
-
-Second Legs 
-[Dec 6]
-Liteks (Lovech)              2-0 Cherno more (Varna)           [agg: 3-0]
-  [Atanas Bornosuzov 45, Desislav Rusev 47]
-[Dec 7]
-Dobrudzha (Dobrich)          2-2 Marek (Dupnitsa)              [agg: 2-6]  
-  [Kaloyan Todorov 28, Svetoslav Krastev 45pen; Mariyan Todorov 18, 
-   Angel Stoikov 74]        
-Chernomorets (Burgas)        3-0 Vidima-Rakovski (Sevlievo)    [aet; agg: 3-2]
-  [Yuri Ivanikov 6, 90, Petar Kolev 94]       
-Spartak (Sofia)              3-0 Lokomotiv (Plovdiv)           [agg: 3-6]
-  [Lyubomir Paleikov 70, 78, Aladzhov 88]             
-Lokomotiv (Sofia)            1-0 Slavia (Sofia)                [agg: 1-4]
-  [Boiko Velichkov 20]                      
-Levski (Sofia)               2-0 Spartak (Varna)               [agg: 2-0]
-  [Georgi Chilikov 46, 75]
-  [red cards: Elin Topuzakov (L) 55, Georgi Mechechiev (S) 60]       
-CSKA (Sofia)                 6-0 Rilski sportist (Samokov)     [agg: 7-2]
-  [Miroslav Sokolov 8og, Artim Shakiri 13, Agnaldo Pereira 33, 86,
-   Joao Paolo Brito 52, Macdonald Mukasi 90]
-Botev (Boboshevo)            1-2 Makedonska slava (Simitli)    [in Blagoevgrad, agg: 1-5]
-  [Tsvetkov 54; Ivo Maksimov 70, 74]
-
-
-Quarterfinals
-
-First Legs 
-[Feb 19]
-CSKA (Sofia)                 3-2 Makedonska slava (Simitli)
-  [Emil Gargorov 7, 75pen, Velizar Dimitrov 73; Konstantin Gerganchev 45+1,
-   Ibrahima Gueye 52og]
-Chernomorets (Burgas)        1-0 Marek (Dupnitsa)    
-  [Kristiyan Hristiyanov 90]
-Levski (Sofia)               1-0 Lokomotiv (Plovdiv)   
-  [Georgi Chilikov 16]
-[Mar 4]
-Slavia (Sofia)               2-0 Liteks (Lovech)                              
-  [Georgi Vladimirov Georgiev 10, Blagoy Georgiev 72pen;
-   red card: Nebojsa Jelenkovic (L) 86]
-
-Second Legs 
-[Mar 4]                      
-Makedonska slava (Simitli)   0-1 CSKA (Sofia)
-  [Todor Yanchev 81]                     
-Marek (Dupnitsa)             2-0 Chernomorets (Burgas)         [aet]
-  [Amiran Mujiri 77pen, 118pen]
-Lokomotiv (Plovdiv)          1-1 Levski (Sofia)           
-  [Ivan Paskov 61; Dimitar Telkiyski 56]
-[Mar 12]
-Liteks (Lovech)              2-0 Slavia (Sofia)                [aet, 5-4 pen]
-  [Sasa Bogunovic 11, Rosen Kirilov 63;
-   pen: Tiago Silva (L)       miss, Dimitar Rangelov (S)   miss;
-        Leonardo Enrique (L)   1-0, Velimir Ivanovic (S)    1-1;
-        Atanas Bornosuzov (L) miss, Budimir Dzukic (S)      1-2;
-        Desislav Rusev (L)     2-2, Georgi Vl.Georgiev (S) miss;
-        Hristo Yovov (L)       3-2, Yordan Petkov (S)       3-3,
-        Murad Hidiouede (L)    4-3, Jane Nikoloski (S)      4-4;
-        Zhivko Zhelev (L)      5-4, Todor Simeonov (S)     miss]
-
-Semifinals
-
-First Legs [Apr 16]
-Litex (Lovech)               2-0 Marek (Dupnitsa) 
-  [Zhivko Zhelev 29, 69]
-  [red card: Ivaylo Kirilov (M) 45+1]
-CSKA (Sofia)                 0-1 Levski (Sofia)    
-  [Manuel Mendoza 90+4]
-
-Second Legs [May 3]
-Marek (Dupnitsa)             0-4 Litex (Lovech) 
-  [Desislav Rusev 2, Hristo Yovov 54, Kiril Nikolov 84, Anatoli Todorov 87]        
-Levski (Sofia)               0-0 CSKA (Sofia)   
-   [red cards: Stanislav Angelov (L) 70, Hristo Yanev (C) 70]
-
-Final [May 21, Sofia, "Vasil Levski" national stadium]
-Litex (Lovech)               1-2 Levski (Sofia)    
-  [Murad Hidiouede 89; Konstantin Golovskoy 48, Sasa Simonovic 82]
-
-
-
-Cup of the Amateur League 2002-2003
-
-NB: only teams from 3rd level and lower can enter
-
-Final [May 14, Sofia, "Slavia" stadium]
-Pomorie (Pomorie)            1-0 Bdin (Vidin)     
-  [Krasimir Pchelarov 61]
-
-
-Second Level (FPFL) 2002/03
-
-
-Final Table:
-
- 1.Rodopa (Smolyan)             30 22  4  4 75-26 70  Promoted  
- 2.Makedonska slava (Simitli)   30 21  6  3 65-19 69  Promoted  
- 3.Vidima-Rakovski (Sevlievo)   30 18  6  6 60-24 60  Promoted
-----------------------------------------------------
- 4.Belasitsa (Petrich)          30 17  7  6 60-32 58  Playoff  [2 0 2 0 2-2 2; 2 ag]
- 5.Pirin (Blagoevgrad)          30 17  7  6 56-32 58  Playoff  [2 0 2 0 2-2 2; 0 ag]
- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.Svetkavitsa (Targovishte)    30 17  5  8 45-36 56
- 7.Beroe (Stara Zagora)         30 13  9  8 36-30 48  
- 8.Sokol'96 (Markovo)           30 11  7 12 39-44 40  [2 1 1 0 3-1 4]  
- 9.Yantra (Gabrovo)             30 11  7 12 42-53 40  [2 0 1 1 1-3 1]
-10.Olimpik (Teteven)            30 11  5 14 47-54 38  
-11.Akademik (Svishtov)          30  8  9 13 34-38 33
-12.Beli orli (Pleven)           30  8  4 18 29-51 28
-13.Koneliano (Sofia, kv.German) 30  7  6 17 41-61 27  [*]
-14.Spartak (Pleven)             30  7  5 18 32-57 26  
-----------------------------------------------------
-15.Dunav (Ruse)                 30  4  6 20 19-56 15  Relegated [-3]
- -.Botev (Vratsa)               30  1  1 28 14-81  1  Relegated [-3]
-
-NB: Botev (Vratsa) were excluded after failing to show for the first
-    two matches after their winter break; they had 3 points deducted
-    for failing to show up at the first match and will have all matches
-    from the second half of the season awarded 0-3 against them.
-    Dunav (Ruse) had 3 points deducted for failing to show in round 26.
- 
-[*] substituting Lokomotiv (Ruse) who withdrew; German are a very
-    outskirt district of Sofia, Koneliano play at Akademik/Festivalna
-    stadium in Sofia during the fall season while their own ground is
-    undergoing reconstruction
-
-Round 1 [Aug 11]
-Yantra            1-1 Sokol'96  
-  [Emil Georgiev 36pen; Kostadin Pilitov 90]
-Akademik          0-1 Makedonska slava 
-  [Petar Malinov 78]
-Rodopa            4-2 Botev V
-  [Manol Georgiev 58, 85, Rumen Istrevski 74, 89; Danchev 9, 
-   Angel Angelov 60pen]
-Vidima-Rakovski   6-1 Olimpik 
-  [Radulov 3, Georgi Stoichev 8pen, Garov 30, Ostrovski 40,
-   Ivan Redovski 52, 74; V.Vasilev 86]
-Dunav             1-0 Beli orli   
-  [Emil Ivanov 43]
-Svetkavitsa       1-1 Beroe
-  [Rumenov Rumenov 74; Todorov 40]
-Pirin             2-2 Belasitsa 
-  [Georgi Bizhev 88, Georgi Daskalov 89; Martin Deyanov 6, 
-   Ventsislav Ivanov 43]
-[Aug 22]
-Spartak Pv        2-2 Koneliano
-  [Ivailo Radentsov 39, Dimcho Razhdev 81; Mariyan Georgiev 22, 
-   Kiril Dyakov 33]
-
-Round 2 [Aug 18]
-Sokol'96         0-0 Beroe 
-Beli orli        2-2 Svetkavitsa 
-  [Svetlin Iochev 34, Mariyan Blazhev 49; Todor Kamenov 57,
-   Martin Hristov 70]
-Olimpik          2-0 Dunav
-  [V.Vasilev 4, Iliyan Ignatov 6]
-Botev V          0-1 Vidima-Rakovski 
-  [Kostadin Zelenkov 81] 
-Belasitsa        2-0 Rodopa
-  [Martin Deyanov 68, Junivan Dinelo 82]
-Makedonska slava 4-1 Pirin 
-  [Evgeni Iordanov 45, Emil Ravnachki 59, Petar Malinov 80,
-   Hari Borislavov 85; Anton Kostadinov 8]
-Koneliano        0-2 Akademik 
-  [Borislav Borisov 19, Spas Urumov 55]
-Yantra           2-1 Spartak Pv
-  [Daniel Hristov 9, Hristo Kirilov 43; Dragomir Ivanov 70]
-
-Round 3 [Aug 25]
-Spartak Pv       0-0 Sokol'96 
-Akademik         3-0 Yantra 
-  [1Dimitar Dimitrov 71, Spas Urumov 75, 85]
-Rodopa           1-0 Makedonska slava
-  [Manol Georgiev 35]
-Vidima-Rakovski  2-0 Belasitsa 
-  [Ivan Redovski 33, Georgi Stoichev 88pen]
-Dunav            0-0 Botev V
-Svetkavitsa      1-0 Olimpik
-  [Iliyan Antonov 41]
-Beroe            3-0 Beli orli   
-  [Ivan Spahiev 29, Stilyan Popchev 45+1, Ivailo Stefanov 63]
-Pirin            2-2 Koneliano (Sofia, kv.German)   
-  [Petar Mihtarski 25, Georgi Bizhev 82; Yasin Mishaui 77,
-   Mariyan Georgiev 80]
-
-Round 4
-[Sep 1]
-Sokol'96         3-0 Beli orli   
-  [Vladislav Yamukov 35, Olgin Choban 39, Angelin Tomanov 73]
-Olimpik          0-2 Beroe
-  [Danail Mitev 34, Miroslav Nikolov 55]
-Belasitsa        3-0 Dunav
-  [Junivan Dinelo 15, Gabriel Radoicic 43, 52]
-Makedonska slava 1-0 Vidima-Rakovski 
-  [Yakov Paparkov 87pen]
-Koneliano        0-2 Rodopa 
-  [Manol Georgiev 71, Kikyov 78pen]
-Yantra           3-1 Pirin
-  [Viktor Venkov 47, Tsitlakidis 68, 80; Ivo Brankov 38]
-Spartak Pv       1-1 Akademik 
-  [Ivailo Radentsov 67; Krastyo Ivanov 20]
-[Sep 4]
-Botev V          0-1 Svetkavitsa 
-  [Todor Kamenov 55]
-
-Round 5 [Sep 8]
-Akademik         2-0 Sokol'96
-  [Borislav Borisov 53, Ivan Petrov 57]
-Rodopa           2-0 Yantra 
-  [Petar Penev 21, Avramov 60]
-Vidima-Rakovski  2-0 Koneliano
-  [Ivan Redovski 20, Dimcho Danov 57pen]
-Dunav            0-1 Makedonska slava 
-  [Petar Malinov 44]
-Svetkavitsa      2-1 Belasitsa
-  [Stoine Iliev 8og, Rumen Stoyanov 39; Ventsislav Ivanov 37pen]
-Beroe            2-0 Botev V
-  [Hristo Terziev 4, Ivailo Stefanov 81]
-Beli orli        2-3 Olimpik   
-  [Todor Todorov 45, 90; V.Vasilev 34, Nenov 72, Iliyan Ignatov 89]
-Pirin            2-2 Spartak Pv
-  [Georgi Bizhev 63pen, Rusev 83; Dragomir Ivanov 13, Lyubomir Ivanov 62]
-
-Round 6 [Sep 15]
-Sokol'96         2-1 Olimpik
-  [Hristov 2, Hristo Staev 37pen; Nenov 67]
-Botev V          1-2 Beli orli  
-  [Angel Angelov 53pen; Brezoev 10, Maksimov 84]
-Belasitsa        1-1 Beroe 
-  [Junivan Dinelo 53; Miroslav Nikolov 7]
-Makedonska slava 4-0 Svetkavitsa
-  [Evgeni Iordanov 2, Ivo Maksimov 45, 73, Anton Bachev 84]
-Koneliano        3-0 Dunav 
-  [Stefan Tsvetkov 14, Yasin Mishaui 62pen, 77]
-Yantra           1-1 Vidima-Rakovski 
-  [Marin Baichev 40; Georgi Stoichev 90+3pen]
-Spartak Pv       0-3 Rodopa
-  [Ivan Dimitrov 11, Anatoli Tonov 42, Rumen Istrevski 87]
-Akademik         1-2 Pirin 
-  [Spas Urumov 76; Anton Kostadinov 85, Ivo Brankov 88]
-
-Round 7 [Sep 22]
-Rodopa           4-1 Akademik 
-  [Kikyov 17, Rumen Istrevski 20, 85, Yanakiev 56; Spas Urumov 80]
-Vidima-Rakovski  2-0 Spartak Pv
-  [Troyan Radulov 30, Georgi Stoichev 54pen]
-Dunav            1-2 Yantra 
-  [Zdravko Petrov 16; Hristo Kirilov 88, Emil Georgiev 90+1pen]
-Svetkavitsa      3-1 Koneliano 
-   [Iliyan Antonov 19pen, 65pen, Tsvetomir Tsonkov 82; Mariyan Georgiev 6]
-Beroe            1-0 Makedonska slava 
-  [Hristo Terziev 30pen]
-Beli orli        0-0 Belasitsa
-Olimpik          2-1 Botev V
-  [Georgi Ivanov 18, Angel Rusev 44; Angel Angelov 3pen]
-Pirin            1-1 Sokol'96
-  [Ivo Brankov 41, Vladislav Yamukov 83]
-
-Round 8
-[Sep 28]
-Makedonska slava 2-0 Beli orli  
-[Sep 29]
-Sokol'96         3-2 Botev V
-Belasitsa        2-1 Olimpik
-Koneliano        2-1 Beroe 
-Yantra           3-2 Svetkavitsa 
-Spartak Pv       2-0 Dunav 
-Akademik         2-2 Vidima-Rakovski
-Pirin            1-0 Rodopa 
-
-Round 9 [Oct 6]
-Rodopa           8-2 Sokol'96
-Vidima-Rakovski  1-0 Pirin
-Dunav            0-0 Akademik 
-Svetkavitsa      3-1 Spartak Pv
-Beroe            0-0 Yantra 
-Beli orli        2-1 Koneliano 
-Olimpik          3-3 Makedonska slava
-Botev V          1-2 Belasitsa 
-
-Round 10 
-[Oct 13]
-Sokol'96         1-1 Belasitsa
-Koneliano        2-1 Olimpik 
-Yantra           3-1 Beli orli  
-Spartak Pv       1-1 Beroe 
-Akademik         0-0 Svetkavitsa
-Pirin            4-2 Dunav 
-Rodopa           2-1 Vidima-Rakovski
-[Nov 13]
-Makedonska slava 4-1 Botev V
-
-Round 11 [Oct 20]
-Vidima-Rakovski  2-0 Sokol'96 
-Dunav            0-1 Rodopa
-Svetkavitsa      2-1 Pirin 
-Beroe            1-1 Akademik 
-Beli orli        2-0 Spartak Pv
-Olimpik          1-1 Yantra 
-Botev V          3-2 Koneliano 
-Belasitsa        0-0 Makedonska slava 
-
-Round 12 [Oct 27]
-Sokol'96         2-2 Makedonska slava 
-  [Olgin Choban 35, 55; Anton Bachev 34, Hari Borislavov 66]
-Koneliano        1-8 Belasitsa  
-  [Yasin Mishaui 5pen; Gabriel Radoicic 6, 45, Ventsislav Aldev 49, 
-   Junivan Soaris de Melo 51, 59, 76, Martin Deyanov 79, Ventsislav Ivanov 86]
-Yantra           5-1 Botev V
-  [Emil Georgiev 55pen, Miroslav Ivanov 61, Genadi Tsitlakidis 68, 72,
-   Nikolai Vasilev 82; Petar Dimitrov 60]
-Spartak Pv       2-1 Olimpik 
-  [Petar Vankov 63, Asen Karakashev 66; Angel Rusev 53pen]
-Akademik         0-0 Beli orli  
-Pirin            3-0 Beroe
-  [Georgi Bizhev 3, Borislav Georgiev 10, Georgi Bizhev 78]
-Rodopa           2-1 Svetkavitsa 
-  [Anatoli Tonov 41, Manol Georgiev 85; Nikolai Valev 27]
-Vidima-Rakovski  4-0 Dunav 
-  [Nikolai Panov 46, Petar Kanchev 56, 80, Krasimir Bislimov 64]
-
-Round 13 [Nov 3]
-Dunav            0-0 Sokol'96 
-Svetkavitsa      1-0 Vidima-Rakovski
-Beroe            0-0 Rodopa 
-Beli orli        0-1 Pirin
-Olimpik          2-1 Akademik 
-Botev V          2-4 Spartak Pv
-Belasitsa        5-0 Yantra 
-Makedonska slava 3-1 Koneliano 
-
-Round 14 [Nov 10]
-Sokol'96         1-0 Koneliano 
-Yantra           2-4 Makedonska slava
-Spartak Pv       0-1 Belasitsa 
-Akademik         3-0 Botev V
-Pirin            4-0 Olimpik
-Rodopa           4-1 Beli orli  
-Vidima-Rakovski  1-0 Beroe
-Dunav            1-2 Svetkavitsa 
-
-Round 15 [Nov 24]
-Svetkavitsa      1-0 Sokol'96
-  [Stanislav Ionchev 62]
-Beroe            1-2 Dunav
-  [Hristo Terziev 57; Petar Ognyanov 49, Vladislav Mitkov 50]
-Beli orli        0-0 Vidima-Rakovski 
-Olimpik          1-3 Rodopa
-  [Stefan Georgiev 65; Ivan Dimitrov 8, Yuliyan Yanakiev 57, Petar Penev 90]
-Botev V          0-1 Pirin
-  [Stanko Stoichev 77]
-Belasitsa        3-0 Akademik
-  [Junivan de Melo 18, Zdravko Stankov 27, Gabriel Radoicic 76pen]
-Makedonska slava 1-0 Spartak Pv
-  [Petar Malinov 14pen]
-Koneliano        4-4 Yantra 
- [Marian Georgiev 30, 74, Petrov 85, Yasin Mishaui 86;
-  Georgi Bogdanov 10, 44, 60, 64]
-
-Round 16 [Feb 22]
-Sokol'96         2-0 Yantra           
-  [Georgi Stoyanov 19, Stefan Harlov 49] 
-Koneliano        3-0 Spartak Pv  
-  [Yasin Mishaui 1, Ivo Milanov 73, 85pen]      
-Makedonska slava 2-1 Akademik     
-  [Evgeni Yordanov 50, 52; Viktor Mihaylov 62]     
-Belasitsa        0-0 Pirin             
-Botev V          awd Rodopa           [awarded 0-3; Botev dns due to
-Olimpik          3-1 Vidima-Rakovski   financial problems]
-  [Angel Rusev 12, 89, Dimitar Krastev 18; Petar Kanchev 68]
-Beli orli        1-0 Dunav     
-  [Mladen Mladenov 50]        
-Beroe            0-1 Svetkavitsa       
-  [Nikolay Valev 90]
-
-Round 17 [Feb 28]
-Beroe            2-1 Sokol'96  
-  [Ivaylo Stefanov 67, Ivan Todorov 75; Kostadin Pilitov 53]
-Svetkavitsa      2-1 Beli orli        
-Dunav            0-1 Olimpik          
-Vidima-Rakovski  awd Botev V          [awarded 3-0; Botev dns]     
-Rodopa           4-3 Belasitsa        
-Pirin            0-1 Makedonska slava 
-Akademik         2-0 Koneliano        
-Spartak Pv       2-0 Yantra            
-
-Round 18 [Mar 8]
-Sokol'96         3-1 Spartak Pv        
-Yantra           2-1 Akademik          
-Koneliano        2-4 Pirin             
-Makedonska slava 0-0 Rodopa            
-Belasitsa        1-1 Vidima-Rakovski   
-Botev V          o/w Dunav            [awarded 0-3]           
-Olimpik          4-0 Svetkavitsa       
-Beli orli        1-2 Beroe            
-
-Round 19 [Mar 15]
-Beli orli        3-2 Sokol'96         
-Beroe            1-0 Olimpik          
-Svetkavitsa      w/o Botev V          [awarded 3-0]      
-Dunav            1-2 Belasitsa        
-Vidima-Rakovski  2-2 Makedonska slava 
-Rodopa           3-0 Koneliano        
-Pirin            3-0 Yantra            
-Akademik         2-1 Spartak Pv        
-
-Round 20 
-[Mar 22]
-Sokol'96         1-0 Akademik          
-Spartak Pv       1-0 Pirin             
-Koneliano        1-0 Vidima-Rakovski   
-Makedonska slava 2-0 Dunav             
-Belasitsa        2-0 Svetkavitsa       
-Botev V          o/w Beroe            [awarded 0-3]                     
-Olimpik          5-1 Beli orli        
-[Mar 23]         
-Yantra           1-4 Rodopa   
-
-Round 21 [Apr 5]
-Olimpik          2-1 Sokol'96         
-Beli orli        w/o Botev V          [awarded 3-0]                
-Beroe            3-2 Belasitsa        
-Svetkavitsa      0-0 Makedonska slava 
-Dunav            1-1 Koneliano        
-Vidima-Rakovski  3-0 Yantra            
-Rodopa           7-2 Spartak Pv        
-Pirin            3-1 Akademik          
-
-Round 22 
-[Apr 12]
-Sokol'96         1-2 Pirin             
-Akademik         0-0 Rodopa            
-Spartak Pv       1-3 Vidima-Rakovski   
-Koneliano        1-1 Svetkavitsa       
-Makedonska slava 4-0 Beroe            
-Belasitsa        2-1 Beli orli        
-Botev V          o/w Olimpik          [awarded 0-3]        
-[Apr 13]
-Yantra           1-0 Dunav            [in Pleven]                          
-
-Round 23 [Apr 19]
-Botev V          o/w Sokol'96         [awarded 0-3]         
-Olimpik          2-3 Belasitsa        
-Beli orli        2-0 Makedonska slava 
-Beroe            2-1 Koneliano        
-Svetkavitsa      3-1 Yantra            
-Dunav            3-2 Spartak Pv        
-Vidima-Rakovski  4-1 Akademik          
-Rodopa           0-0 Pirin             
-
-Round 24 [Apr 23]
-Sokol'96         0-1 Rodopa            
-Pirin            2-2 Vidima-Rakovski   
-Akademik         1-1 Dunav             
-Spartak Pv       1-2 Svetkavitsa       
-Yantra           1-1 Beroe            
-Koneliano        1-0 Beli orli        
-Makedonska slava 6-0 Olimpik          
-Belasitsa        w/o Botev V          [awarded 3-0]                          
-
-Round 25 [Apr 26]
-Belasitsa        3-0 Sokol'96         
-Botev V          o/w Makedonska slava [awarded 0-3]  
-Olimpik          0-0 Koneliano        
-Beli orli        2-1 Yantra            
-Beroe            3-0 Spartak Pv  
-  [Atanas Dimitrov 53, Hristo Terziev 71pen, 90]      
-Svetkavitsa      ann Akademik         [originally 1-3 but replay ordered
-   because of formal rule infringement (Svetkavitsa kicked off both halves)
-   following a complaint by Svetkavitsa]          
-Dunav            1-3 Pirin
-  [Daniel Atanasov 76pen; Hazurov 3, Georgi Bizhev 28pen, Anev 90]
-Vidima-Rakovski  2-1 Rodopa            
-  [Petar Kanchev 38, 44; Andreev 8]
-[May 7]
-Svetkavitsa      3-0 Akademik
-
-Round 26 [May 3]
-Sokol'96         awd Vidima-Rakovski  [awarded 0-3; not played, hosts did not pay police]  
-Rodopa           awd Dunav            [awarded 3-0; Dunav dns]
-Pirin            4-1 Svetkavitsa       
-Akademik         0-1 Beroe            
-Spartak Pv       1-0 Beli orli        
-Yantra           0-0 Olimpik          
-Koneliano        w/o Botev V          [awarded 3-0]          
-Makedonska slava 3-0 Belasitsa        
-
-Round 27 [May 11]
-Makedonska slava 4-0 Sokol'96         
-Belasitsa        4-2 Koneliano        
-Botev V          o/w Yantra           [awarded 0-3] 
-Olimpik          3-0 Spartak Pv        
-Beli orli        0-2 Akademik          
-Beroe            0-1 Pirin    
-  [Kostadin Hazurov 55]         
-Svetkavitsa      3-2 Rodopa            
-Dunav            1-5 Vidima-Rakovski   
-
-Round 28 [May 17]
-Sokol'96         5-0 Dunav             
-Vidima-Rakovski  1-0 Svetkavitsa   
-  [Troyan Radulov 30]    
-Rodopa           4-1 Beroe            
-Pirin            2-0 Beli orli        
-Akademik         2-2 Olimpik          
-Spartak Pv       awd Botev V          [awarded 3-0]                   
-Yantra           2-0 Belasitsa        
-  [Emil Georgiev 10, Miroslav Ivanov 50]
-Koneliano        2-3 Makedonska slava 
-
-Round 29 [May 24]
-Koneliano        1-2 Sokol'96         
-Makedonska slava 2-0 Yantra            
-Belasitsa        2-1 Spartak Pv  
-  [Svetlan Kondev 15, Shteryu Dimitrov 58; Kutsarov 65]      
-Botev V          awd Akademik         [awarded 0-3]         
-Olimpik          2-3 Pirin             
-Beli orli        1-3 Rodopa            
-Beroe            2-1 Vidima-Rakovski   
-  [Ivaylo Stefanov 7, Atanas Dimitrov 58; Iliyan Garov 28]
-Svetkavitsa      3-0 Dunav             
-
-Round 30 [May 31]
-Sokol'96         2-1 Svetkavitsa      [started 32' late]     
-  [started 32' late because Sokol owned money to the police; Svetkavitsa
-   have protested the result, claiming a 3-0 win because according to
-   regulations the referee should only have waited 15' before awarding
-   the match to the visitors; their protest was rejected]
-Dunav            1-1 Beroe            
-Vidima-Rakovski  4-1 Beli orli        
-Rodopa           4-1 Olimpik          
-Pirin            awd Botev V          [awarded 3-0]       
-Akademik         1-2 Belasitsa        
-Spartak Pv       0-3 Makedonska slava 
-Yantra           3-2 Koneliano        
-
-Final Table:
-
- 1.Rodopa (Smolyan)             30 22  4  4 75-26 70  Promoted  
- 2.Makedonska slava (Simitli)   30 21  6  3 65-19 69  Promoted  
- 3.Vidima-Rakovski (Sevlievo)   30 18  6  6 60-24 60  Promoted
-----------------------------------------------------
- 4.Belasitsa (Petrich)          30 17  7  6 60-32 58  Playoff  [2 0 2 0 2-2 2; 2 ag]
- 5.Pirin (Blagoevgrad)          30 17  7  6 56-32 58  Playoff  [2 0 2 0 2-2 2; 0 ag]
- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 6.Svetkavitsa (Targovishte)    30 17  5  8 45-36 56
- 7.Beroe (Stara Zagora)         30 13  9  8 36-30 48  
- 8.Sokol'96 (Markovo)           30 11  7 12 39-44 40  [2 1 1 0 3-1 4]  
- 9.Yantra (Gabrovo)             30 11  7 12 42-53 40  [2 0 1 1 1-3 1]
-10.Olimpik (Teteven)            30 11  5 14 47-54 38  
-11.Akademik (Svishtov)          30  8  9 13 34-38 33
-12.Beli orli (Pleven)           30  8  4 18 29-51 28
-13.Koneliano (Sofia, kv.German) 30  7  6 17 41-61 27  [*]
-14.Spartak (Pleven)             30  7  5 18 32-57 26  
-----------------------------------------------------
-15.Dunav (Ruse)                 30  4  6 20 19-56 15  Relegated [-3]
- -.Botev (Vratsa)               30  1  1 28 14-81  1  Relegated [-3]
-
-NB: Botev (Vratsa) were excluded after failing to show for the first
-    two matches after their winter break; they had 3 points deducted
-    for failing to show up at the first match and will have all matches
-    from the second half of the season awarded 0-3 against them.
-    Dunav (Ruse) had 3 points deducted for failing to show in round 26.
- 
-[*] substituting Lokomotiv (Ruse) who withdrew; German are a very
-    outskirt district of Sofia, Koneliano play at Akademik/Festivalna
-    stadium in Sofia during the fall season while their own ground is
-    undergoing reconstruction
-
-Promotion Playoff [Jun 4, Sofia, 'Lokomotiv' stadium; att: 4,500]
-Belasitsa        4-1 Pirin
-  [Gabriel Radoicic 20, Ventsislav Aldev 24, Shteryu Dimitrov 65, 
-   Martin Deyanov 90+5; Georgi Bizhev 90+1]
-  [m/pen: Georgi Bizhev (P) 87]
-  [red cards: Bogomil Dyakov (P) 88, Shteryu Dimitrov (B) 88]
-
-Belasitsa promoted.
-
-
-Third Level ('V' AFG) 2002/03
-
-
-Northeastern "V" AFG 2002-2003
-==============================
-
-Qualifications for the Northeastern "V" AFG
--------------------------------------------
-Participants:
-"A" OFG Varna:       Vihar (Valchi dol)
-"A" OFG Dobrich:     Riltsi (Riltsi)
-"A" OFG Shumen:      none of the teams was able to participate in the qualifications
-"A" OFG Silistra:    none of the teams was able to participate in the qualifications
-"A" OFG Razgrad:     Partizan (Gradina)
-"A" OFG Targovishte: none of the teams was able to participate in the qualifications
-"A" OFG Ruse:        Prista 2000 (Ruse, kv.Sredna kula)
-
-Note: 2 teams to qualify.
-
- 1st round:
- 01.06.2002, Saturday, 17:00 h:
-In Beloslav:
-Riltsi (Riltsi) - Vihar (Valchi dol)                            2:2, pens: 3:4
-In Varna, "Korabostroitel" st.:
-Prista 2000 (Ruse, kv.Sredna kula) - Partizan (Gradina)         1:3
-
-Vihar (Valchi dol) and Partizan (Gradina) are the new members of the Northeastern
-"V" AFG for the 2002-2003 season.
-
-Changes before the season:
---------------------------
-  - OFK Devnya (Devnya) changes name to Devnya (Devnya).
-  - Vihar (Valchi dol) merges with Vladislav (Varna), founded last season, which didn't
-yet had a men's team (only youth teams). The new team is named Vihar-Vladislav and plays
-in Valchi dol.
-
-Changes during the season:
---------------------------
-  - Dobrich 2000 (Dobrich) plays its home games in Obrochishte.
-  - Levski (Omurtag) withdrew from the group following round 12. All their results up to
-that point are anulled.
-  - Devnya (Devnya) withdrew from the group before round 16. Their results up to that point
-still count, while their remaining matches will be awarded 0:3 against them.
-
-                         Final table:
-
-                                      M    W   D   L     GD     Pts
-
- 1. Vihar-Vladislav (Valchi dol)     28   22   4   2    65:20    69 [+][*] Promoted
--------------------------------------------------------------------
- 2. Shumen 2001 (Shumen)             28   21   3   4    69:16    66
- 3. Fair play (Varna)                28   20   5   3    59:15    65
- 4. Albena'97 (Obrochishte)          28   16   8   4    64:29    56
- 5. Chernomorets (Balchik)           28   16   4   8    49:29    52
- 6. Levski'96 (Glavinitsa)           28   16   4   8    60:33    51 [*]
- 7. Energia (Targovishte)            28   12   5  11    55:54    41
- 8. Orlovets (Pobeda)                28   11   6  11    44:45    39
- 9. Kaliakra (Kavarna)               28   11   5  12    36:49    38
-10. Preslav (Veliki Preslav)         28    8   6  14    37:44    30
-11. Partizan (Gradina)               28    8   2  18    39:50    26 [+]
-12. Dobrich 2000 (Dobrich)           28    7   3  18    39:56    24
-13. Lokomotiv (Kaspichan)            28    5   5  18    37:69    20
-14. Dulovo'98 (Dulovo)               28    2   2  24    22:103    8
--------------------------------------------------------------------
-15. Devnya (Devnya)                  28    2   4  22     9:72    10 [-] Relegated
---. Levski (Omurtag)                 11    0   0  11     3:46     -     Relegated
-
- Notes:
-[-] - team, relegated from the FPFL.
-[+] - team, promoted from the OFGs.
-[*] - Levski'96 and Vihar-Valdislav have a match between them awarded 0:0 against both.
-
-                         NE VAFG: Crosstable
-
---------------------------------------------------------------------------------------------
-    Teams                     1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16
---------------------------------------------------------------------------------------------
- 1. Albena'97 (Obrochishte)  XXX 1:1 7:1 1:1 7:0 3:1 2:0 0:0 2:2 3:0!3:0 3:2 1:0 2:0 1:1 1:1
- 2. Chernomorets (Balchik)   1:0 XXX 3:0 2:0 3:1 2:1 0:1 0:1 2:1  -  3:0 4:1 2:0 3:0 2:2 1:0
- 3. Devnya (Devnya)          0:3!0:3!XXX 0:3!0:3!0:3!0:1 0:3!0:3!7:1 0:3!2:2 1:0 0:3!0:1 0:2
- 4. Dobrich 2000 (Dobrich)   0:1 4:0 1:1 XXX 5:2 4:1 0:3!0:2 0:2 4:1 2:0 5:0 5:0 2:2 1:3 1:3
- 5. Dulovo'98 (Dulovo)       1:5 0:3 0:1 3:0!XXX 1:5 1:2 3:4 0:3! -  1:3 1:3 1:3 2:2 0:0 1:5
- 6. Energia (Targovishte)    3:3 2:0 1:1 4:1 3:0!XXX 1:1 3:2 4:0 6:0 4:4 3:3 2:1 2:0 1:3 0:1
- 7. Fair play (Varna)        5:0 3:0 3:0!2:0 7:0 3:0 XXX 5:1 5:0  -  1:1 2:0 2:0 3:0 0:5 1:1
- 8. Kaliakra (Kavarna)       1:1 0:2 1:1 2:0 2:0 0:2 1:3 XXX 1:0 3:0 3:1 0:1 3:2 2:1 0:4!2:4
- 9. Levski'96 (Glavinitsa)   3:1 3:2 6:0 4:1 6:0 3:0 1:0 0:0 XXX  -  5:0 2:0 5:3 3:0!0:2 0:0!
-10. Levski (Omurtag)          -  1:3  -   -   -   -  0:6  -  0:3 XXX  -   -   -  npd 0:4  -
-11. Lokomotiv (Kaspichan)    0:8 2:2 2:1 6:010:0 1:5 0:0 0:2 0:3 4:0 XXX 1:1 1:3 1:2 0:4 0:1
-12. Orlovets (Pobeda)        1:2 0:2 3:0!1:0 3:0 4:0 0:1 3:0 1:1 3:0!3:0!XXX 2:0 2:2 1:0 1:3
-13. Partizan (Gradina)       1:2 3:3 3:0!2:0 5:0 2:0 1:2 2:0 0:2  -  5:0 1:3 XXX 0:0 0:1 0:2
-14. Preslav (Veliki Preslav) 0:2 0:2 3:0!2:1 5:0 0:2 0:2 2:2 2:0  -  2:0 2:2 4:1 XXX 1:2 1:2
-15. Shumen 2001 (Shumen)     1:2 1:0 3:0!2:0 5:1 9:1 0:1 5:0 4:1  -  2:0 3:1 2:0 2:0 XXX 2:1
-16. Vihar-Vladsilav (V.dol)  2:0 2:1 3:0!5:2 3:0!2:1 0:0 4:1 3:1  -  3:1 5:0 4:1 2:1 1:0 XXX
---------------------------------------------------------------------------------------------
-!  - Kaliakra - Shumen 2001 - abandoned at 0:1. Later awarded.
-   - Orlovets - Levski (Om) - match awarded.
-   - Energia - Dulovo'98 - match awarded.
-   - Albena'97 - Levski (Om) - match awarded.
-   - Devnya - Preslav - match awarded.
-   - Dobrich 2000 - Fair play - originally postponed, later awarded.
-   - Vihar-Vladislav - Dulovo'98 - match awarded.
-   - Dulovo'98 - Dobrich 2000 - match awarded.
-   - Dulovo'98 - Levski'96 (Glav) - match awarded.
-   - Levski'96 (G) - Vihar-Vladislav - initially ended 3:1, awarded as 0:0 
-     against both teams (neither side wins points).
-
-   - matches awarded against Devnya following their withdrawal.
-
-
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
-
-
-Northwestern "V" AFG 2002-2003
-==============================
-
-Qualifications for the Northwestern "V" AFG
--------------------------------------------
-Participants:
-"A" OFG Vidin:          none of the teams was able to participate in the qualifications
-"A" OFG Vratsa:         Botev 2001 (Vratsa)
-"A" OFG Montana:        Rasovo (Rasovo)
-"A" OFG Lovech:         none of the teams was able to participate in the qualifications
-"A" OFG Pleven:         Levski (Levski)
-"A" OFG Veliko Tarnovo: Elit (Svishtov)
-"A" OFG Gabrovo:        no competition this year
-
-Note: 4 teams to qualify.
-
-Since only four teams participated in the qualifications for the four free spots, there were
-no qualifications.
-
-Botev 2001 (Vratsa), Rasovo (Rasovo), Levski (Levski) and Elit (Svishtov) are the new
-members of the Northwestern "V" AFG for the 2002-2003 season.
-
-Changes before the season:
---------------------------
-  - Loviko (Suhindol) withdraws from the group.
-  - Levski 1986 (Gorna Oryahovitsa) withdraws from the group.
-  - Newly promoted Botev 2001 (Vratsa) is dissolved and withdraws from the group.
-  - As a result of the withdrawals, Gigant (Belene) retain their place in the group and
-are not relegatd.
-  - As a result of the withdrawals, Arkus (Lyaskovets) from the "B" OFG Veliko Tarnovo
-(5th level) will participate in the "V" AFG.
-  - As a result of the withdrawals, newly founded club Etar 1924 (Veliko Tarnovo) will
-participate in the "V" AFG. !!! NOT to be confused with the 1991 champion of Bulgaria Etar
-(Veliko Tarnovo), that also participates in the NW "V" AFG !!!
-  - Gigant (Belene) changes name to Belene (Belene).
-
-Changes during the season:
---------------------------
-  - none.
-
-                        Final table:
-
-                                      M    W   D   L     GD     Pts
-
- 1. Etar 1924 (Veliko Tarnovo)       30   24   4   2    63:15    76 [+] Promoted
--------------------------------------------------------------------
- 2. Montana (Montana)                30   20   7   3    57:13    67
- 3. Bdin (Vidin)                     30   16   4  10    79:43    52
- 4. Lokomotiv (Mezdra)               30   15   6   9    55:33    51
- 5. Belene (Belene)                  30   15   1  14    51:34    46 [+]
- 6. Etar (Veliko Tarnovo)            30   13   7  10    47:32    45 [*]
- 7. Rasovo (Rasovo)                  30   13   3  14    36:43    42 [+]
- 8. Lokomotiv (Dryanovo)             30   12   4  14    48:45    40
- 9. Sitomir (Nikopol)                30   11   5  14    50:62    38
-10. Levski (Levski)                  30   11   4  15    44:44    37 [+]
-11. Dunav'98 (Selanovtsi)            30   11   3  16    31:47    36
-12. Arkus (Lyaskovets)               30   11   2  17    30:62    35 [+]
-13. Lokomotiv (Gorna Oryahovitsa)    30   10   4  16    41:63    34
-14. Pavlikeni (Pavlikeni)            30   10   3  17    31:51    33
--------------------------------------------------------------------
-15. Elit (Svishtov)                  30    9   1  20    27:71    27 [+][*] Relegated
-16. Chavdar (Byala Slatina)          30    5  10  15    18:50    25    Relegated
-
- Notes:
-[+] - team, promoted from the OFGs or substituting for withdrawn teams.
-[*] - Elit and Etar have the round 27 match between them awarded 0:0 against both.
-
-                         NW VAFG: Crosstable
-
---------------------------------------------------------------------------------------------
-    Teams                     1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16
---------------------------------------------------------------------------------------------
- 1. Arkus (Lyaskovets)       XXX 2:0 2:0 1:0 2:1 5:1 0:1 0:0 2:1 1:0 2:1 2:1 1:1 1:2 1:3 3:1
- 2. Bdin (Vidin)             4:0 XXX 2:0 6:1 4:0 6:0 0:3 3:1 3:0 3:0!8:1 1:2 0:0 5:1 3:0 7:2
- 3. Belene (Belene)          2:0 3:0 XXX 4:1 3:0 6:0 0:2 1:1 4:2 3:0 5:1 4:0 2:0 2:0 1:0 5:0
- 4. Chavdar (Byala Slatina)  0:2 1:1 0:2 XXX 0:0 1:0 0:0 0:2 1:1 1:1 3:0!0:3 0:0 2:0 1:0 1:1
- 5. Dunav'98 (Selanovtsi)    1:0 1:1 1:0 0:1 XXX 4:0 0:2 2:1 2:0 3:0 1:0 1:3 0:1 2:1 2:1 2:0
- 6. Elit (Svishtov)          1:0 0:6 1:0!3:1 0:3!XXX 1:2 0:1 2:3 1:4 3:0 2:0 0:2 4:0 3:0 1:0
- 7. Etar 1924 (V.Tarnovo)    3:0 3:1 1:0 1:0 1:0 5:0 XXX 1:1 2:1 2:0 1:0 1:0 1:0 4:0 4:0 2:2
- 8. Etar (Veliko Tarnovo)    9:0 1:2 3:0 3:0 1:1 0:0!0:1 XXX 2:0 3:1 3:1 1:1 1:0 2:1 4:1 1:0
- 9. Levski (Levski)          4:0 3:0 0:1 1:0 2:0 6:1 0:2 2:1 XXX 2:2 1:1 1:0 1:1 2:0 1:2 3:1
-10. Lokomotiv (Dryanovo)     4:0 1:0 3:0 5:1 4:0 0:1 4:2 2:0 2:1 XXX 3:0 0:1 1:1 0:0 2:1 3:2
-11. Lokomotiv (G.Oryahov.)   6:1 4:3 3:1 2:1 2:1 1:0 0:2 2:1 1:2 2:1 XXX 0:0 0:1 2:1 1:2 3:3
-12. Lokomotiv (Mezdra)       3:0 3:3 2:0 0:0 4:0 4:1 1:1 3:1 4:1 4:2 5:0 XXX 2:3 2:0 1:0 3:1
-13. Montana (Montana)        3:0 4:0 4:1 8:0 3:0 1:0 2:0 3:0 2:1 2:0 1:1 1:1 XXX 3:0 3:0 4:0
-14. Pavlikeni (Pavlikeni)    2:1 1:2 2:0 1:1 4:2 3:0 0:5!0:1 1:0 2:1 2:1 2:1 0:1 XXX 1:1 3:0
-15. Rasovo (Rasovo)          2:0 0:2 1:0 2:0 2:0 3:1 2:4 1:1 2:1 3:0 2:4 1:0 0:1 1:0 XXX 2:0
-16. Sitomir (Nikopol)        5:1 5:3 2:1 0:0 4:1 4:0 0:4 3:1 2:1 3:2 3:1 3:1 0:1 2:1 1:1 XXX
---------------------------------------------------------------------------------------------
-! - Elit - Dunav'98 - abandoned at 0:0 in the 88th minute, later awarded.
-  - Chavdar - Lokomotiv (GO) - originally postponed, then awarded since Lokomotiv didn't
-show up.
-  - Pavlikeni - Etar 1924 - abandoned at 1:2 in the 75th minute when the hosts assaulted
-the referee. Later awarded.
-  - Bdin - Lokomotiv (Dr) - awarded.
-  - Etar - Elit - initially ended 3:5, with Etar fielding youth players and leading 3:1 at
-the half time. Then because of suspicions for match rigging, the result was anulled and was
-awarded as 0:0 against both teams (neither side wins points).
-
-
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
-
-Southwestern "V" AFG 2002-2003
-==============================
-
-Qualifications for the Southwestern "V" AFG
--------------------------------------------
-Participants:
-"A" OFG Sofia-grad:   Spartak (Sofia), Lyulin (Sofia, kv.Lyulin)
-"A" OFG Sofia-oblast: Botev (Ihtiman), Benkovski (Kostinbrod)
-"A" OFG Pazardzhik:   Hebar (Pazardzhik), Chepinets (Velingrad)
-"A" OFG Pernik:       Botev (Kovachevtsi), Balkan (Golemo Buchino)
-"A" OFG Kyustendil:   Botev (Boboshevo), Germaneya (Sapareva banya)
-"A" OFG Blagoevgrad:  Belasitsa (Petrich), [*]
-
-[*] - there is no second representative from "A" OFG Blagoevgrad, since none of the
-other clubs was able to participate in the qualifications.
-
-Note: 4 teams to qualify.
-
- 1st round:
- 01.06.2002, Saturday, 17:30 h:
-In Novi Iskar, "Kumaritsa" st.:
-Botev (Kovachevtsi) - Botev (Boboshevo)                         1:2
-In Radomir:
-Spartak (Sofia) - Germaneya (Sapareva banya)                    3:0
-In SAMOKOV, "Iskar" st.:
-Hebar (Pazardzhik) - Lyulin (Sofia, kv.Lyulin)                  6:0
- 02.06.2002, Sunday, 17:30 h:
-In Sofia, "Akademik" /"Festivalna"/ st.:
-Chepinets (Velingrad) - Botev (Ihtiman)                         0:0, pens: 2:3
-In Radomir:
-Benkovski (Kostinbrod) - Belasitsa (Petrich)                    5:1
-Balkan (Golemo Buchino)                                         bye
-
-  2nd round:
- 06.06.2002, Thursday, 17:30 h:
-In SAMOKOV, "Iskar" st.:
-Botev (Boboshevo) - Botev (Ihtiman)                             3:5 w/ pens
-In Sofia, "Akademik" /"Festivalna"/ st.:
-Benkovski (Kostinbrod) - Balkan (Golemo Buchino)                5:1
-Spartak (Sofia)                                                 bye
-Hebar (Pazardzhik)                                              bye
-
-Botev (Ihtiman), Benkovski (Kostinbrod), Spartak (Sofia) and Hebar (Pazardzhik) are the new
-members of the Southwestern "V" AFG for the 2002-2003 season.
-
-
-Changes before the season:
---------------------------
-  - Koneliano (Sofia, kv.German) leaves the group to join the First PFL on the place of
-the Lokomotiv-Chicago Atletik (Ruse) that withdrew.
-  - Botev (Boboshevo), which was eliminated in the last round of the "V"AFG qualifications
-gets promoted to the "V" AFG to take the place, freed by Koneliano.
-  - Hebar (Sofia) changes name to Bad Boys Slatina (Sofia).
-
-Changes during the season:
---------------------------
-  - Minyor (Pernik) plays its home games in Pernik, "Metalurg" stadium.
-  - Spartak (Sofia) plays its home games in Sofia, kv.German.
-  - Lokomotiv'98 (Novi Iskar) withdrew from the group at the winter brake due to financial
-problems. All their results up to that point stand, and their opponents are awarded 3:0
-wins for their matches against Lokomotiv'98 in the spring part of the season.
-
-                         Final table:
-
-                                      M    W   D   L     GD     Pts
-
- 1. Vihren (Sandanski)               34   25   4   5    78:28    79     Promoted
--------------------------------------------------------------------
- 2. Septemvri (Sofia)                34   23   2   9    66:31    71
- 3. Minyor (Bobov dol)               34   21   5   8    52:28    68
- 4. Benkovski (Kostinbrod)           34   20   2  12    58:33    62 [+]
- 5. Strumska slava (Radomir)         34   16   6  12    37:35    54
- 6. Minyor (Pernik)                  34   16   5  13    57:43    53 [-]
- 7. Balkan (Botevgrad)               34   15   3  16    49:50    48
- 8. Spartak (Sofia)                  34   13   7  14    47:50    46 [+] [1 0 1 3:2 3]
- 9. Levski (Dolna banya)             34   15   1  18    40:51    46     [1 0 1 2:3 3]
-10. Botev (Ihtiman)                  34   12   9  13    56:56    45 [+] [1 1 0 3:2 4]
-11. Sportist-Skala (Svoge)           34   13   6  15    45:43    45     [0 1 1 2:3 1]
-12. Velbazhd 1919 (Kyustendil)       34   13   5  16    47:59    44
-13. Hebar (Pazardzhik)               34   12   6  16    41:54    42 [+] [1 1 0 4:1 4]
-14. Bad Boys Slatina (Sofia)         34   13   3  18    43:59    42     [0 1 1 1:4 1]
-15. Pirin (Gotse Delchev)            34   12   5  17    46:49    41
-16. Vihar (Sofia, kv.Gorublyane)     34   12   4  18    46:52    40
--------------------------------------------------------------------
-17. Botev (Boboshevo)                34    9   5  20    40:70    32 [+] Relegated
-18. Lokomotiv'98 (Novi Iskar)        34    6   2  26    12:69    20     Relegated
-
- Notes:
-[-] - team, relegated from the FPFL.
-[+] - team, promoted from the OFGs, or substituting for team that left the group.
-    - the group is extended to 18 teams from this season.
-
-                         SW VAFG: Crosstable
-
--------------------------------------------------------------------------------------------- 
-    Teams             1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18
---------------------------------------------------------------------------------------------
- 1. Balkan (Botevgr) XXX 3:0 2:0 2:0 2:0 0:0 3:0!0:1 1:0 1:2 1:3 4:1 4:1 2:1 1:0 2:3 4:2 0:2
- 2. Benkovski (Kost) 2:0 XXX 3:0 3:1 4:0 2:1 2:0 0:1 1:0 1:0 4:2 4:0 1:0 6:0 2:0 4:1 1:0 3:0
- 3. Botev (Bobosh)   0:3!0:0 XXX 2:0 2:1 1:0 0:1 2:1 0:1 1:0 1:2 6:0 0:1 3:8 2:2 1:1 1:0 2:4
- 4. Botev (Ihtiman)  0:0 1:1 3:0 XXX 3:4 3:2 1:0 1:0 1:1 3:1 2:3 4:1 2:2 2:1 1:1 4:1 2:3 3:4
- 5. Hebar (Pazardzh) 2:1 1:0 2:0 4:4 XXX 2:1 1:1 0:1 1:1 2:0 0:3 4:1 0:0 0:0 1:0 3:1 1:2 1:0
- 6. Levski (D.banya) 4:2 3:1 4:1 1:2 1:0 XXX 3:0!4:1 1:2 1:0 0:2 1:0 0:2 1:0 0:1 2:0 2:0 0:1
- 7. Lokomotiv'98     1:0 0:3!0:3!0:3!0:3!0:1 XXX 2:1 0:3!2:1 1:0 0:3!0:3!2:1 0:3!0:3!1:1 1:2
- 8. Minyor (B.dol)   3:1 0:1 4:2 1:0 2:0 4:0 3:0!XXX 2:1 4:0 2:0 1:0 2:0 2:0 2:0 2:1 1:1 2:1
- 9. Minyor (Pernik)  2:3 1:0 4:1 4:0 5:2 4:0 1:0 3:1 XXX 2:1 1:2 4:0 0:0 3:1 0:1 5:1 1:0 1:4
-10. Pirin (G.Delch)  4:1 3:1 2:0 3:1 2:1 0:1 3:0!0:0 2:1 XXX 1:2 2:0 0:0 4:2 3:0 1:1 4:0 2:3
-11. Septemvri (Sf)   1:2 1:2 2:0 0:2 1:0 4:0 3:0!1:2 1:1 2:0 XXX 1:0 6:0 1:0 1:0 3:2 3:1 3:0
-12. Slatina (Sofia)  4:0 1:3 3:0 4:1 0:0 4:0 2:0 0:0 2:0 4:1 0:3 XXX 1:2 1:0 1:0 2:1 4:2 0:2
-13. Spartak (Sofia)  1:1 2:1 9:0!1:3 3:0 1:2 2:0 0:2 2:0 4:1 0:4 1:1 XXX 0:0 3:2 2:0 2:4 0:3
-14. Sportist-Skala   2:0 2:0 2:2 1:1 3:0 4:0 3:0!2:0 3:1 1:0 2:3 1:0 0:1 XXX 0:0 1:0 1:0 0:0
-15. Strumska slava   1:0 2:0 1:1 2:0 2:0 0:2 1:0 1:1 0:1 4:2 0:0 1:0 1:0 2:1 XXX 3:1 2:1 2:1
-16. Velbazhd 1919    1:2 2:1 2:1 2:1 2:1 2:1 1:0 1:1 4:1 0:0 2:1 3:1 2:1 1:2 3:1 XXX 1:1 0:3
-17. Vihar (Gorubl)   3:0 2:0 0:4 0:0 2:3 2:1 3:0!1:2 3:0 3:1 1:2 1:2 3:1 1:0 0:1 3:0 XXX 0:1
-18. Vihren (Sand)    3:1 3:1!2:1 1:1!4:1 3:0 3:0!2:0 2:2!0:0 1:0 6:0 4:0!4:0 4:0 2:1 3:0 XXX
---------------------------------------------------------------------------------------------
-   - Spartak (Sofia) play their home matches in Sofia, kv.German.
-   - Minyor (Pernik) play their home matches in Pernik, "Metalurg" st.
-   - Lokomotiv'98 (Novi Iskar) withdrew from the group at the winter brake due to financial
-problems. All their results up to that point stand, and their opponents are awarded 3:0
-wins for their matches against Lokomotiv'98 in the spring part of the season.
-
-!  - Vihren - Botev (Iht) - because of incidents during the match, Vihren received a 3-game
-home match ban.
-   - Vihren - Benkovski - played in Kresna, because of Vihren's home match ban.
-   - Vihren - Minyor (Pk) - played in Kresna, because of Vihren's home match ban.
-   - Vihren - Spartak - played in Kresna, because of Vihren's home match ban.
-   - Spartak - Botev (Bob) - abandoned at 6:1. Later awarded.
-   - Botev (Bob) - Balkan - initially 2:1. Later awarded.
-
-   - matches, awarded against Lokomotiv'98 following their withdrawal.
-
-
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
-
-
-Southeastern "V" AFG 2002-2003
-==============================
-Qualifications for the Southeastern "V" AFG
-Participants:
-"A" OFG Plovdiv:      Borislav (Parvomai)
-"A" OFG Smolyan:      no competition this year
-"A" OFG Stara Zagora: Rozova dolina (Kazanlak)
-"A" OFG Haskovo:      Hebros (Harmanli)
-"A" OFG Kardzhali:    Granichar (Kirkovo)
-"A" OFG Yambol:       Stefan Karadzha'99 (Sinapovo)
-"A" OFG Sliven:       Korten (Korten) - excluded [*]
-"A" OFG Burgas:       Karnobat (Karnobat)
-
-[*] - Korten (Korten) were excluded from the qualifications because they couldn't
-meet the criteria for participation in "V" AFG.
-
-Note: 3 teams to qualify.
-
- 1st round:
- 02.06.2002, Sunday:
-In Plovdiv, "Spartak" st.:
-Rozova dolina (Kazanlak) - Stefan Karadzha'99 (Sinapovo)        3:0
-In Plovdiv, "Botev" st.:
-Hebros (Harmanli) - Borislav (Parvomai)                         1:2
-In Plovdiv, "Plovdiv" st.:
-Granichar (Kirkovo) - Karnobat (Karnobat)                       1:1; pens: Karnobat wins
-
-Rozova dolina (Kazanlak), Borislav (Parvomai) and Karnobat (Karnobat) are the new members
-of the Southeastern "V" AFG for the 2002-2003 season.
-
-Changes before the season:
---------------------------
-  - OFK Nesebar (Nesebar) changes name to Slanchev bryag (Nesebar).
-  - OFK Sliven 2000 (Sliven) changes name to Sliven 2000 (Sliven).
-  - Zagorets (Nova Zagora) withdraws from the group.
-  - Port (Burgas) withdraws from the group.
-  - Hebros (Harmanli) from "A" OFG Haskovo which was eliminated in this year's "V" AFG
-qualifications joins the group on the place of Port just days before the start of
-the season.
-  - Svilengrad (Svilengrad) didn't show up for their first match and announced that they
-withdraw from the group.
-  - As a result of the withdrawals, the group will be composed of only 14 teams for this
-season.
-
-Changes during the season:
---------------------------
-  - at the winter brake Asenosport (Asenovgrad) change name to Asenovets (Asenovgrad).
-
-                         Final table:
-
-                                      M    W   D   L     GD     Pts
-
- 1. Slanchev bryag (Nesebar)         26   24   1   1    58:13    73     Promoted
--------------------------------------------------------------------
- 2. Haskovo (Haskovo)                26   19   2   5    50:24    59
- 3. Asenovets (Asenovgrad)           26   16   5   5    49:24    53
- 4. Sliven 2000 (Sliven)             26   15   3   8    64:41    48
- 5. Pomorie (Pomorie)                26   11   6   9    45:27    39     [1 1 0 2:1 4]
- 6. Metalik (Sopot)                  26   11   6   9    37:34    39     [0 1 1 1:2 1]
- 7. Kameno (Kameno)                  26   12   2  12    30:31    38
- 8. Kosmos (Burgas)                  26   12   0  14    38:48    36
- 9. Spartak-S'94 (Plovdiv)           26   10   2  14    38:37    32
-10. Rozova dolina (Kazanlak)         26    8   4  14    32:42    28 [+]
-11. Maritsa (Plovdiv)                26    8   3  15    27:39    27
-12. Karnobat (Karnobat)              26    6   4  16    22:51    22 [+]
-13. Hebros (Harmanli)                26    5   4  17    35:57    19 [+]
-14. Borislav (Parvomai)              26    3   2  21    19:76    11 [+]
-
- Notes:
-[-] - team, relegated from the FPFL.
-[+] - team, promoted from the OFGs or substituting for withdrawn team.
-
-                         SE VAFG: Crosstable
-
------------------------------------------------------------------------------------- 
-    Teams                     1   2   3   4   5   6   7   8   9  10  11  12  13  14
-------------------------------------------------------------------------------------
- 1. Asenovets (Asenovgrad)   XXX 9:0 3:0 2:0 3:2 3:0!1:0 3:1 0:0 2:1 0:0 1:1 1:0 3:0
- 2. Borislav (Parvomai)      0:2 XXX 0:5 2:3 3:0!0:1 1:1 1:2 0:4 5:2 0:4 0:1 0:4 3:2
- 3. Haskovo (Haskovo)        2:0 1:0 XXX 2:0 1:0 1:0 2:0 3:0 2:1 2:0 2:5 1:0 2:1 5:2
- 4. Kameno (Kameno)          1:0 3:0 0:2 XXX 0:0 4:0 3:0 2:0 2:0 1:0 0:1 1:0 0:2 4:0
- 5. Karnobat (Karnobat)      0:2 3:1 1:2 0:2 XXX 2:0 3:0!0:2 0:0 1:0 1:2 1:1 3:0!2:2
- 6. Kosmos (Burgas)          3:4 3:0!2:3 3:1 3:0 XXX 3:0!1:0 1:0 3:0!2:3 3:0!3:0!3:0!
- 7. Maritsa (Plovdiv)        2:3 2:0 1:1 2:1 1:0 4:1 XXX 2:3 0:0 1:0 0:1 2:0 0:1 2:0
- 8. Metalik (Sopot)          3:1 2:2 2:2 3:0!3:0 3:0!1:0 XXX 0:1 2:0 0:1 4:1 1:1 2:1
- 9. Pomorie (Pomorie)        0:0 5:0 2:1 3:0 4:0 3:0!3:0!1:1 XXX 3:1 0:1 1:2 2:0 4:1
-10. Rozova dolina (Kazanlak) 1:1!2:0 1:4 0:0 3:1 3:1 2:0 1:1 3:1 XXX 0:1 3:1 3:0!3:2
-11. Slanchev bryag (Nesebar) 3:0 3:0!2:1 1:0 4:0 3:0 1:0 2:0 4:1 3:0!XXX 3:1 1:0 3:1
-12. Sliven 2000 (Sliven)     3:2 5:1 1:0 3:0 7:0 7:0 4:3 6:1 4:3 3:1 3:1 XXX 2:4 5:4
-13. Spartak-S'94 (Plovdiv)   1:2 4:0 0:2 4:0 5:1 0:1 1:3 0:0 2:1 2:1 0:2 1:3 XXX 5:0
-14. Hebros (Harmanli)        0:1 3:0!0:1 1:2 0:1 4:1 3:1 2:0 2:2 1:1 1:3 0:0 3:0!XXX
-------------------------------------------------------------------------------------
- !  - Kosmos - Borislav - match awarded.
-    - Kosmos - Maritsa - match awarded.
-    - Kosmos - Hebros - match awarded.
-    - Slanchev bryag - Rozova dolina - initially postponed, then awarded.
-    - Asenovets - Kosmos - initially postponed, then awarded.
-    - Pomorie - Kosmos - match awarded.
-    - Metalik - Kameno - match awarded.
-    - Slanchev bryag - Borislav - match awarded.
-    - Kosmos - Rozova dolina - match awarded.
-    - Kosmos - Sliven 2000 - match awarded.
-    - Karnobat - Spartak-S'94 - match awarded.
-    - Kosmos - Spartak-S'94 - match awarded.
-    - Metalik - Kosmos - match awarded.
-    - Hebros - Spartak-S'94 - match awarded.
-    - Rozova dolina - Spartak-S'94 - match awarded.
-    - Pomorie - Maritsa - match awarded.
-    - Karnobat - Maritsa - match awarded.
-    - Borislav - Karnobat - match awarded.
-    - Hebros - Borislav - match awarded.
-
-    - Rozova dolina - Asenovets - could be 1:0.
-
-
-Cup of the Amateur League 2002-2003
-
-NB: only teams from 3rd level and lower can enter
-
-Final [May 14, Sofia, "Slavia" stadium]
-Pomorie (Pomorie)            1-0 Bdin (Vidin)     
-  [Krasimir Pchelarov 61]
-
-
-
-
-
-
-2001/02.
-
-
-2003/04.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-all-time table.
-
-
-list of cup finals.
-
-
-list of topscorers.
-
-
-list of name changes.
-
-
-About this document
-
-Prepared and maintained by Iordan Tsirov for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Iordan Tsirov (i_tsirov@yahoo.com)
-Last updated: 11 Dec 2005
-
-(C) Copyright Iordan Tsirov and RSSSF 2002/05
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Iordan Tsirov for the Rec.Sport.Soccer Statistics Foundation
+*Author: Iordan Tsirov (i_tsirov@yahoo.com)
+*Last updated: 11 Dec 2005
+*(C) Copyright Iordan Tsirov and RSSSF 2002/05
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

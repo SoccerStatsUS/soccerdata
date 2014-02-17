@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesk/kroa07.html
 Season: 2006-2007
+Competition: Prva HNL
 
 *NB: this season a triple round robin is played (so 33 rounds
 *    in total) without a split between the top-6 and bottom-6
@@ -20,283 +21,358 @@ Season: 2006-2007
 *12.Kamen Ingrad Velika      33  3  4 26 27-77 13  Relegated
 
 Round: 1 
-[Jul 29]
-Kamen Ingrad   1-3 Zagreb                         
-Međimurje      0-2 Hajduk                   
-Šibenik        1-2 Osijek                                
-Dinamo         1-0 Slaven Belupo  
-[Jul 30]                     
-Cibalia        3-4 Rijeka                 
-Pula           1-1 Varteks         
+Date: 7/29/2006
+
+; Kamen Ingrad  ; 1-3; Zagreb                         
+; Međimurje     ; 0-2; Hajduk                   
+; Šibenik       ; 1-2; Osijek                                
+; Dinamo        ; 1-0; Slaven Belupo  
+
+Date: 7/30/2006
+
+; Cibalia       ; 3-4; Rijeka                 
+; Pula          ; 1-1; Varteks         
 
 Round: 2
-[Aug 4]
-Dinamo         4-3 Šibenik    
-[Aug 5]                        
-Osijek         0-0 Pula                            
-Varteks        3-1 Međimurje               
-Hajduk         2-0 Cibalia                      
-Rijeka         4-2 Kamen Ingrad         
-Slaven Belupo  0-1 Zagreb           
+Date: 8/4/2006
 
-Round: 3 [Aug 12]
-Pula           0-2 Dinamo                      
-Međimurje      2-0 Osijek                         
-Cibalia        1-2 Varteks                  
-Kamen Ingrad   2-3 Hajduk              
-Zagreb         1-0 Rijeka                                 
-Šibenik        2-1 Slaven Belupo      
+; Dinamo        ; 4-3; Šibenik    
 
-Round: 4 [Aug 19]
-Dinamo         4-1 Međimurje                  
-Šibenik        1-0 Pula                           
-Osijek         3-1 Cibalia                         
-Varteks        3-0 Kamen Ingrad  
-Hajduk         2-0 Zagreb                              
-Slaven Belupo  3-2 Rijeka           
+Date: 8/5/2006
+
+; Osijek        ; 0-0; Pula                            
+; Varteks       ; 3-1; Međimurje               
+; Hajduk        ; 2-0; Cibalia                      
+; Rijeka        ; 4-2; Kamen Ingrad         
+; Slaven Belupo ; 0-1; Zagreb           
+
+Round: 3 
+Date: 8/12/2006
+
+; Pula          ; 0-2; Dinamo                      
+; Međimurje     ; 2-0; Osijek                         
+; Cibalia       ; 1-2; Varteks                  
+; Kamen Ingrad  ; 2-3; Hajduk              
+; Zagreb        ; 1-0; Rijeka                                 
+; Šibenik       ; 2-1; Slaven Belupo      
+
+Round: 4 
+Date: 8/19/2006
+
+; Dinamo        ; 4-1; Međimurje                  
+; Šibenik       ; 1-0; Pula                           
+; Osijek        ; 3-1; Cibalia                         
+; Varteks       ; 3-0; Kamen Ingrad  
+; Hajduk        ; 2-0; Zagreb                              
+; Slaven Belupo ; 3-2; Rijeka           
 
 Round: 5 
-[Aug 26]                     
-Međimurje      2-1 Šibenik                       
-Kamen Ingrad   1-1 Osijek                 
-Zagreb         3-0 Varteks                         
-Rijeka         0-1 Hajduk                              
-Pula           2-1 Slaven Belupo    
-[Aug 27]
-Cibalia        0-1 Dinamo 
+Date: 8/26/2006
 
-Round: 6 [Sep 9]
-Dinamo         2-0 Kamen Ingrad     
-Šibenik        1-0 Cibalia                        
-Pula           3-0 Međimurje               
-Osijek         1-1 Zagreb                                 
-Varteks        2-1 Rijeka                          
-Slaven Belupo  0-1 Hajduk             
+; Međimurje     ; 2-1; Šibenik                       
+; Kamen Ingrad  ; 1-1; Osijek                 
+; Zagreb        ; 3-0; Varteks                         
+; Rijeka        ; 0-1; Hajduk                              
+; Pula          ; 2-1; Slaven Belupo    
+
+Date: 8/27/2006
+
+; Cibalia       ; 0-1; Dinamo 
+
+Round: 6 
+Date: 9/9/2006
+
+; Dinamo        ; 2-0; Kamen Ingrad     
+; Šibenik       ; 1-0; Cibalia                        
+; Pula          ; 3-0; Međimurje               
+; Osijek        ; 1-1; Zagreb                                 
+; Varteks       ; 2-1; Rijeka                          
+; Slaven Belupo ; 0-1; Hajduk             
 
 Round: 7 
-[Sep 16]                    
-Kamen Ingrad   3-1 Šibenik               
-Cibalia        3-1 Pula                     
-Rijeka         2-2 Osijek                                 
-Hajduk         3-1 Varteks                      
-Međimurje      0-3 Slaven Belupo
-[Sep 17]
-Zagreb         0-3 Dinamo           
+Date: 9/16/2006
+
+; Kamen Ingrad  ; 3-1; Šibenik               
+; Cibalia       ; 3-1; Pula                     
+; Rijeka        ; 2-2; Osijek                                 
+; Hajduk        ; 3-1; Varteks                      
+; Međimurje     ; 0-3; Slaven Belupo
+
+Date: 9/17/2006
+
+; Zagreb        ; 0-3; Dinamo           
 
 Round: 8 
-[Sep 23]                           
-Šibenik        1-0 Zagreb                                
-Pula           2-0 Kamen Ingrad  
-Međimurje      3-1 Cibalia                 
-Osijek         1-0 Hajduk                              
-Slaven Belupo  3-2 Varteks 
-[Oct 31]
-Dinamo         1-0 Rijeka           
+Date: 9/23/2006
+
+; Šibenik       ; 1-0; Zagreb                                
+; Pula          ; 2-0; Kamen Ingrad  
+; Međimurje     ; 3-1; Cibalia                 
+; Osijek        ; 1-0; Hajduk                              
+; Slaven Belupo ; 3-2; Varteks 
+
+Date: 10/31/2006
+
+; Dinamo        ; 1-0; Rijeka           
 
 Round: 9
-[Sep 30]                       
-Rijeka         1-3 Šibenik                               
-Zagreb         0-3 Pula                            
-Kamen Ingrad   0-2 Međimurje      
-Varteks        3-1 Osijek                          
-Cibalia        2-0 Slaven Belupo   
-[Oct 1]
-Hajduk         2-2 Dinamo    
+Date: 9/30/2006
 
-Round: 10 [Oct 14]
-Dinamo         4-1 Varteks                     
-Šibenik        1-2 Hajduk                             
-Pula           2-3 Rijeka                          
-Međimurje      2-0 Zagreb                         
-Cibalia        1-3 Kamen Ingrad  
-Slaven Belupo  1-0 Osijek           
+; Rijeka        ; 1-3; Šibenik                               
+; Zagreb        ; 0-3; Pula                            
+; Kamen Ingrad  ; 0-2; Međimurje      
+; Varteks       ; 3-1; Osijek                          
+; Cibalia       ; 2-0; Slaven Belupo   
 
-Round: 11 [Oct 21]
-Osijek         0-4 Dinamo                             
-Varteks        2-1 Šibenik                        
-Hajduk         2-0 Pula                         
-Rijeka         1-3 Međimurje                      
-Zagreb         3-0 Cibalia                         
-Kamen Ingrad   1-3 Slaven Belupo    
+Date: 10/1/2006
 
-Round: 12 [Oct 28]
-Zagreb         2-1 Kamen Ingrad         
-Rijeka         4-1 Cibalia                         
-Hajduk         2-0 Međimurje                   
-Varteks        0-0 Pula                     
-Osijek         1-1 Šibenik                               
-Slaven Belupo  1-1 Dinamo              
+; Hajduk        ; 2-2; Dinamo    
 
-Round: 13 [Nov 4]
-Šibenik        2-1 Dinamo                            
-Pula           2-2 Osijek                          
-Međimurje      5-1 Varteks                 
-Cibalia        0-0 Hajduk                       
-Kamen Ingrad   0-1 Rijeka                 
-Zagreb         3-0 Slaven Belupo    
+Round: 10 
+Date: 10/14/2006
 
-Round: 14 [Nov 8]
-Dinamo         5-1 Pula                        
-Osijek         1-1 Međimurje                      
-Varteks        1-0 Cibalia                  
-Hajduk         4-0 Kamen Ingrad      
-Rijeka         2-1 Zagreb                                 
-Slaven Belupo  1-1 Šibenik               
+; Dinamo        ; 4-1; Varteks                     
+; Šibenik       ; 1-2; Hajduk                             
+; Pula          ; 2-3; Rijeka                          
+; Međimurje     ; 2-0; Zagreb                         
+; Cibalia       ; 1-3; Kamen Ingrad  
+; Slaven Belupo ; 1-0; Osijek           
+
+Round: 11 
+Date: 10/21/2006
+
+; Osijek        ; 0-4; Dinamo                             
+; Varteks       ; 2-1; Šibenik                        
+; Hajduk        ; 2-0; Pula                         
+; Rijeka        ; 1-3; Međimurje                      
+; Zagreb        ; 3-0; Cibalia                         
+; Kamen Ingrad  ; 1-3; Slaven Belupo    
+
+Round: 12 
+Date: 10/28/2006
+
+; Zagreb        ; 2-1; Kamen Ingrad         
+; Rijeka        ; 4-1; Cibalia                         
+; Hajduk        ; 2-0; Međimurje                   
+; Varteks       ; 0-0; Pula                     
+; Osijek        ; 1-1; Šibenik                               
+; Slaven Belupo ; 1-1; Dinamo              
+
+Round: 13 
+Date: 11/4/2006
+
+; Šibenik       ; 2-1; Dinamo                            
+; Pula          ; 2-2; Osijek                          
+; Međimurje     ; 5-1; Varteks                 
+; Cibalia       ; 0-0; Hajduk                       
+; Kamen Ingrad  ; 0-1; Rijeka                 
+; Zagreb        ; 3-0; Slaven Belupo    
+
+Round: 14 
+Date: 11/8/2006
+
+; Dinamo        ; 5-1; Pula                        
+; Osijek        ; 1-1; Međimurje                      
+; Varteks       ; 1-0; Cibalia                  
+; Hajduk        ; 4-0; Kamen Ingrad      
+; Rijeka        ; 2-1; Zagreb                                 
+; Slaven Belupo ; 1-1; Šibenik               
 
 Round: 15 
-[Nov 11]                 
-Pula           1-1 Šibenik                        
-Cibalia        3-0 Osijek                          
-Kamen Ingrad   1-4 Varteks                             
-Rijeka         2-0 Slaven Belupo 
-[Nov 12]      
-Zagreb         3-0 Hajduk       
-[Dec 9]
-Međimurje      2-3 Dinamo     
+Date: 11/11/2006
 
-Round: 16 [Nov 18]
-Dinamo         4-0 Cibalia                     
-Šibenik        3-0 Međimurje                     
-Osijek         2-1 Kamen Ingrad         
-Varteks        1-3 Zagreb                          
-Hajduk         3-0 Rijeka                              
-Slaven Belupo  1-0 Pula             
+; Pula          ; 1-1; Šibenik                        
+; Cibalia       ; 3-0; Osijek                          
+; Kamen Ingrad  ; 1-4; Varteks                             
+; Rijeka        ; 2-0; Slaven Belupo 
 
-Round: 17 [Nov 25]
-Kamen Ingrad   0-2 Dinamo             
-Cibalia        0-1 Šibenik                        
-Međimurje      1-0 Pula                    
-Zagreb         2-0 Osijek                                 
-Rijeka         2-2 Varteks                         
-Hajduk         2-0 Slaven Belupo    
+Date: 11/12/2006
 
-Round: 18 [Dec 2]
-Dinamo         2-1 Zagreb                             
-Šibenik        4-1 Kamen Ingrad        
-Pula           0-0 Cibalia                  
-Osijek         1-0 Rijeka                                 
-Varteks        0-1 Hajduk                       
-Slaven Belupo  1-0 Međimurje       
+; Zagreb        ; 3-0; Hajduk       
 
-Round: 19 [Feb 17]
-Rijeka         2-3 Dinamo                             
-Zagreb         3-0 Šibenik                               
-Kamen Ingrad   1-0 Pula            
-Cibalia        0-3 Međimurje               
-Hajduk         3-0 Osijek                              
-Varteks        0-0 Slaven Belupo    
+Date: 12/9/2006
 
-Round: 20 [Feb 24]
-Dinamo         2-1 Hajduk                          
-Šibenik        2-2 Rijeka                                
-Pula           0-2 Zagreb                          
-Međimurje      2-0 Kamen Ingrad 
-Osijek         4-1 Varteks                         
-Slaven Belupo  2-0 Cibalia          
+; Međimurje     ; 2-3; Dinamo     
 
-Round: 21 [Mar 3]
-Varteks        1-3 Dinamo                      
-Hajduk         3-0 Šibenik                            
-Rijeka         2-0 Pula                            
-Zagreb         4-0 Međimurje                      
-Kamen Ingrad   2-2 Cibalia         
-Osijek         1-1 Slaven Belupo    
+Round: 16 
+Date: 11/18/2006
 
-Round: 22 [Mar 10]
-Dinamo         1-0 Osijek                             
-Šibenik        2-0 Varteks                        
-Pula           0-0 Hajduk                       
-Međimurje      1-2 Rijeka                         
-Cibalia        0-1 Zagreb                          
-Slaven Belupo  2-1 Kamen Ingrad   
+; Dinamo        ; 4-0; Cibalia                     
+; Šibenik       ; 3-0; Međimurje                     
+; Osijek        ; 2-1; Kamen Ingrad         
+; Varteks       ; 1-3; Zagreb                          
+; Hajduk        ; 3-0; Rijeka                              
+; Slaven Belupo ; 1-0; Pula             
 
-Round: 23 [Mar 17]
-Zagreb         2-1 Osijek
-Međimurje      1-1 Kamen Ingrad   
-Hajduk         2-0 Varteks
-Slaven Belupo  1-0 Cibalia
-Šibenik        1-0 Pula
-Dinamo         1-0 Rijeka
+Round: 17 
+Date: 11/25/2006
 
-Round: 24 [Mar 31]
-Kamen Ingrad   1-2 Slaven Belupo
-Cibalia        2-1 Šibenik 
-Pula           2-3 Zagreb
-Međimurje      1-1 Rijeka
-Osijek         1-2 Hajduk
-Varteks        2-3 Dinamo
+; Kamen Ingrad  ; 0-2; Dinamo             
+; Cibalia       ; 0-1; Šibenik                        
+; Međimurje     ; 1-0; Pula                    
+; Zagreb        ; 2-0; Osijek                                 
+; Rijeka        ; 2-2; Varteks                         
+; Hajduk        ; 2-0; Slaven Belupo    
 
-Round: 25 [Apr 7]
-Zagreb         1-1 Cibalia
-Šibenik        3-1 Kamen Ingrad
-Hajduk         0-1 Pula
-Slaven Belupo  2-0 Međimurje  
-Dinamo         1-0 Osijek
-Rijeka         3-0 Varteks
+Round: 18 
+Date: 12/2/2006
 
-Round: 26 [Apr 14]
-Pula           1-2 Dinamo
-Kamen Ingrad   0-6 Zagreb
-Slaven Belupo  3-0 Rijeka
-Međimurje      0-1 Šibenik 
-Cibalia        0-1 Hajduk
-Osijek         1-0 Varteks
+; Dinamo        ; 2-1; Zagreb                             
+; Šibenik       ; 4-1; Kamen Ingrad        
+; Pula          ; 0-0; Cibalia                  
+; Osijek        ; 1-0; Rijeka                                 
+; Varteks       ; 0-1; Hajduk                       
+; Slaven Belupo ; 1-0; Međimurje       
 
-Round: 27 [Apr 18]
-Zagreb         1-1 Međimurje  
-Varteks        2-2 Pula
-Šibenik        0-0 Slaven Belupo
-Hajduk         4-0 Kamen Ingrad
-Dinamo         4-0 Cibalia
-Rijeka         0-2 Osijek
+Round: 19 
+Date: 2/17/2007
 
-Round: 28 [Apr 21]
-Međimurje      2-4 Hajduk
-Cibalia        1-0 Varteks
-Pula           3-1 Osijek
-Slaven Belupo  4-2 Zagreb
-Kamen Ingrad   0-1 Dinamo
-Šibenik        3-1 Rijeka
+; Rijeka        ; 2-3; Dinamo                             
+; Zagreb        ; 3-0; Šibenik                               
+; Kamen Ingrad  ; 1-0; Pula            
+; Cibalia       ; 0-3; Međimurje               
+; Hajduk        ; 3-0; Osijek                              
+; Varteks       ; 0-0; Slaven Belupo    
 
-Round: 29 [Apr 28]
-Zagreb         2-1 Šibenik  
-Varteks        3-2 Kamen Ingrad
-Hajduk         1-1 Slaven Belupo
-Rijeka         1-1 Pula
-Dinamo         4-1 Međimurje  
-Osijek         2-2 Cibalia
+Round: 20 
+Date: 2/24/2007
 
-Round: 30 [May 2]
-Slaven Belupo  0-3 Dinamo
-Zagreb         1-3 Rijeka
-Međimurje      1-2 Varteks
-Kamen Ingrad   0-2 Osijek
-Cibalia        1-0 Pula
-Šibenik        2-2 Hajduk
+; Dinamo        ; 2-1; Hajduk                          
+; Šibenik       ; 2-2; Rijeka                                
+; Pula          ; 0-2; Zagreb                          
+; Međimurje     ; 2-0; Kamen Ingrad 
+; Osijek        ; 4-1; Varteks                         
+; Slaven Belupo ; 2-0; Cibalia          
 
-Round: 31 [May 5]
-Varteks        4-3 Slaven Belupo
-Pula           0-0 Kamen Ingrad
-Dinamo         3-0 Šibenik 
-Osijek         6-1 Međimurje 
-Rijeka         1-2 Cibalia
-Hajduk         3-1 Zagreb
+Round: 21 
+Date: 3/3/2007
 
-Round: 32 [May 12]
-Zagreb         0-4 Dinamo
-Slaven Belupo  0-1 Osijek
-Međimurje      1-0 Pula
-Hajduk         2-2 Rijeka
-Šibenik        3-4 Varteks
-Kamen Ingrad   1-3 Cibalia
+; Varteks       ; 1-3; Dinamo                      
+; Hajduk        ; 3-0; Šibenik                            
+; Rijeka        ; 2-0; Pula                            
+; Zagreb        ; 4-0; Međimurje                      
+; Kamen Ingrad  ; 2-2; Cibalia         
+; Osijek        ; 1-1; Slaven Belupo    
 
-Round: 33 [May 19]
-Rijeka         2-0 Kamen Ingrad
-Cibalia        3-0 Međimurje
-Pula           0-0 Slaven Belupo
-Varteks        1-1 Zagreb
-Osijek         2-2 Šibenik 
-Dinamo         3-0 Hajduk
+Round: 22 
+Date: 3/10/2007
+
+; Dinamo        ; 1-0; Osijek                             
+; Šibenik       ; 2-0; Varteks                        
+; Pula          ; 0-0; Hajduk                       
+; Međimurje     ; 1-2; Rijeka                         
+; Cibalia       ; 0-1; Zagreb                          
+; Slaven Belupo ; 2-1; Kamen Ingrad   
+
+Round: 23 
+Date: 3/17/2007
+
+; Zagreb        ; 2-1; Osijek
+; Međimurje     ; 1-1; Kamen Ingrad   
+; Hajduk        ; 2-0; Varteks
+; Slaven Belupo ; 1-0; Cibalia
+; Šibenik       ; 1-0; Pula
+; Dinamo        ; 1-0; Rijeka
+
+Round: 24 
+Date: 3/31/2007
+
+; Kamen Ingrad  ; 1-2; Slaven Belupo
+; Cibalia       ; 2-1; Šibenik 
+; Pula          ; 2-3; Zagreb
+; Međimurje     ; 1-1; Rijeka
+; Osijek        ; 1-2; Hajduk
+; Varteks       ; 2-3; Dinamo
+
+Round: 25 
+Date: 4/7/2007
+
+; Zagreb        ; 1-1; Cibalia
+; Šibenik       ; 3-1; Kamen Ingrad
+; Hajduk        ; 0-1; Pula
+; Slaven Belupo ; 2-0; Međimurje  
+; Dinamo        ; 1-0; Osijek
+; Rijeka        ; 3-0; Varteks
+
+Round: 26 
+Date: 4/14/2007
+
+; Pula          ; 1-2; Dinamo
+; Kamen Ingrad  ; 0-6; Zagreb
+; Slaven Belupo ; 3-0; Rijeka
+; Međimurje     ; 0-1; Šibenik 
+; Cibalia       ; 0-1; Hajduk
+; Osijek        ; 1-0; Varteks
+
+Round: 27 
+Date: 4/18/2007
+
+; Zagreb        ; 1-1; Međimurje  
+; Varteks       ; 2-2; Pula
+; Šibenik       ; 0-0; Slaven Belupo
+; Hajduk        ; 4-0; Kamen Ingrad
+; Dinamo        ; 4-0; Cibalia
+; Rijeka        ; 0-2; Osijek
+
+Round: 28 
+Date: 4/21/2007
+
+; Međimurje     ; 2-4; Hajduk
+; Cibalia       ; 1-0; Varteks
+; Pula          ; 3-1; Osijek
+; Slaven Belupo ; 4-2; Zagreb
+; Kamen Ingrad  ; 0-1; Dinamo
+; Šibenik       ; 3-1; Rijeka
+
+Round: 29 
+Date: 4/28/2007
+
+; Zagreb        ; 2-1; Šibenik  
+; Varteks       ; 3-2; Kamen Ingrad
+; Hajduk        ; 1-1; Slaven Belupo
+; Rijeka        ; 1-1; Pula
+; Dinamo        ; 4-1; Međimurje  
+; Osijek        ; 2-2; Cibalia
+
+Round: 30 
+Date: 5/2/2007
+
+; Slaven Belupo ; 0-3; Dinamo
+; Zagreb        ; 1-3; Rijeka
+; Međimurje     ; 1-2; Varteks
+; Kamen Ingrad  ; 0-2; Osijek
+; Cibalia       ; 1-0; Pula
+; Šibenik       ; 2-2; Hajduk
+
+Round: 31 
+Date: 5/5/2007
+
+; Varteks       ; 4-3; Slaven Belupo
+; Pula          ; 0-0; Kamen Ingrad
+; Dinamo        ; 3-0; Šibenik 
+; Osijek        ; 6-1; Međimurje 
+; Rijeka        ; 1-2; Cibalia
+; Hajduk        ; 3-1; Zagreb
+
+Round: 32 
+Date: 5/12/2007
+
+; Zagreb        ; 0-4; Dinamo
+; Slaven Belupo ; 0-1; Osijek
+; Međimurje     ; 1-0; Pula
+; Hajduk        ; 2-2; Rijeka
+; Šibenik       ; 3-4; Varteks
+; Kamen Ingrad  ; 1-3; Cibalia
+
+Round: 33 
+Date: 5/19/2007
+
+; Rijeka        ; 2-0; Kamen Ingrad
+; Cibalia       ; 3-0; Međimurje
+; Pula          ; 0-0; Slaven Belupo
+; Varteks       ; 1-1; Zagreb
+; Osijek        ; 2-2; Šibenik 
+; Dinamo        ; 3-0; Hajduk
 
 * 1.Dinamo Zagreb            33 30  2  1 84-22 92  Champions
 * 2.Hajduk Split             33 22  6  5 60-25 72
@@ -314,15 +390,19 @@ Dinamo         3-0 Hajduk
 *12.Kamen Ingrad Velika      33  3  4 26 27-77 13  Relegated
 
 
-Promotion/Relegation Playoff
+*Promotion/Relegation Playoff
 
-First Leg [May 27]
-Zadar          3-0 Pula
+*First Leg 
+Date: 5/27/2007
 
-Second Leg [May 30]
-Pula           2-3 Zadar 
+; Zadar         ; 3-0; Pula
 
-Zadar promoted, Pula relegated
+*Second Leg 
+Date: 5/30/2007
+
+; Pula          ; 2-3; Zadar 
+
+*Zadar promoted, Pula relegated
 
 
 *Prepared and maintained by Brunislav Matasovic for the Rec.Sport.Soccer Statistics Foundation
