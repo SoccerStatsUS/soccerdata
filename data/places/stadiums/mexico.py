@@ -19,6 +19,13 @@ l = [
         },
 
     {
+        'name': 'Estadio Luis de la Fuente',
+        'opened': datetime.datetime(1967, 3, 17),
+        'location': 'Veracruz, Mexico',
+        'capacity': 30000,
+        },
+
+    {
         'name': 'Estadio Olimpico (Tabasco)',
         'location': 'Villahermosa, Mexico',
         },
@@ -36,6 +43,13 @@ l = [
         'opened': datetime.datetime(2010, 7, 30),
         'cost': 200000000,
         'capacity': 49850,
+        },
+
+    {
+        'name': 'Estadio Banorte',
+        'location': 'Culiacan, Mexico',
+        'opened': datetime.datetime(2003, 8, 9),
+        'capacity': 23000,
         },
 
 
@@ -130,7 +144,15 @@ l = [
         'architect': 'HKS',
         },
 
-        {
+    {
+        'name': 'Estadio Corona (1970)',
+        'location': 'Torreón, Coahuila, Mexico',
+        'opened': datetime.datetime(1970, 7, 2),
+        'closed': datetime.datetime(2009, 11, 2),
+        'capacity': 20100,
+        },
+
+    {
         'name': 'Estadío Jalisco',
         'location': 'Guadalajara, Jalisco, Mexico',
         'opened': datetime.datetime(1960, 1, 31),
@@ -140,10 +162,38 @@ l = [
         },
 
     {
+        'name': 'Estadio Olímpico Benito Juárez',
+        'location': 'Ciudad Juarez, Mexico',
+        'opened': datetime.datetime(1981, 5, 12),
+        'capacity': 23000,
+        },
+
+    {
         'name': 'Estadio Azul',
-        'location': 'Mexico City',
+        'location': 'Mexico City, Mexico',
         'opened': datetime.datetime(1947, 1, 5),
         'capacity': 35161,
+        },
+
+    {
+        'name': 'Estadio Venustiano Carranza',
+        'location': 'Morelia, Mexico',
+        'opened': 1968,
+        'capacity': 22340,
+        },
+
+    {
+        'name': 'Estadio Coruco Díaz',
+        'location': 'Zacatepec, Mexico',
+        'opened': datetime.datetime(1964, 11, 30),
+        'capacity': 16000,
+        },
+
+    {
+        'name': 'Estadio Víctor Manuel Reyna',
+        'location': 'Tuxtla Gutiérrez, Mexico',
+        'opened': 1982,
+        'capacity': 31500,
         },
 
 
@@ -226,6 +276,40 @@ l = [
         'capacity': 41500,
         'opened': datetime.datetime(1989, 4, 9),
         'cost': 20000000,
+        },
+
+        {
+        'name': 'Estadio Miguel Alemán Valdés',
+        'location': 'Celaya, México',
+        'capacity': 32300,
+        'opened': 1954,
+        },
+
+        {
+        'name': 'Estadio La Martinica',
+        'location': 'Guanajuato, México',
+        'capacity': 11000,
+        'opened': 1950,
+        },
+
+        {
+        'name': 'Estadio Marte R. Gómez',
+        'location': 'Ciudad Victoria, México',
+        'capacity': 21000,
+        'opened': 1938,
+        },
+
+        {
+        'name': 'Estadio Plan de San Luis Potosí',
+        'location': 'San Luis Potosí, México',
+        'capacity': 20000,
+        'opened': 1957,
+        'closed': 2006,
+        },
+
+        {
+        'name': 'Estadio Rafael Murillo Vidal',
+        'location': 'Cordoba, México',
         },
 
 

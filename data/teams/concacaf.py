@@ -15,6 +15,13 @@ l = [
         'city': 'Playa del Carmen, Mexico',
         },
 
+    {
+        'name': 'Guerreros de Tabasco',
+        'city': 'Tenosique, Mexico',
+        'founded': 2006,
+        'dissolved': 2007,
+        },
+
 
     {
         'name': 'Maunabo Leones',
@@ -1281,6 +1288,17 @@ l = [
         'name': 'Cobras de Ciudad Juárez',
         'founded': 1980,
         'city': 'Ciudad Juarez, Mexico',
+        },
+    {
+        'name': 'Ballenas Galeana',
+        'founded': 1956,
+        'city': 'Xochitepec, Mexico',
+        },
+
+    {
+        'name': 'Alebrijes de Oaxaca',
+        'founded': datetime.datetime(2012, 12, 10),
+        'city': 'Oaxaca, Mexico',
         },
 
     {

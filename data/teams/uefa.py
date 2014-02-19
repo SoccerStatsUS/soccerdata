@@ -519,6 +519,23 @@ l = [
         },
 
     {
+        'name': 'Notts County',
+        'founded': 1862,
+        'city': 'Nottingham, England',
+        },
+
+    {
+        'name': 'Milton Keynes',
+        'founded': 2004,
+        'city': 'Milton Keynes, England',
+        },
+    {
+        'name': 'Cheltenham Town',
+        'founded': 1887,
+        'city': 'Cheltenham, England',
+        },
+
+    {
         'name': 'Preston North End',
         'founded': 1863,
         'city': 'Preston, England',
@@ -1037,6 +1054,12 @@ l = [
     {
         'name': 'Eintracht Frankfurt',
         'founded': datetime.datetime(1899, 3, 8),
+        'city': 'Frankfurt,Germany',
+        },
+
+    {
+        'name': 'FSV Frankfurt',
+        'founded': datetime.datetime(1899, 8, 20),
         'city': 'Frankfurt,Germany',
         },
 
@@ -1854,6 +1877,12 @@ l = [
         },
 
     {
+        'name': 'FC Eindhoven',
+        'founded': datetime.datetime(1909, 11, 16),
+        'city': 'Eindhoven, Netherlands',
+        },
+
+    {
         'name': 'Feyenoord',
         'founded': datetime.datetime(1908, 7, 19),
         'city': 'Rotterdam, Netherlands',
@@ -2373,6 +2402,12 @@ l = [
     {
         'name': 'Hajduk Split',
         'founded': datetime.datetime(1911, 2, 13),
+        'city': 'Split, Croatia',
+        },
+
+    {
+        'name': 'RNK Split',
+        'founded': datetime.datetime(1912, 4, 16),
         'city': 'Split, Croatia',
         },
 
@@ -4297,6 +4332,12 @@ l = [
 
     {
         'name': 'Ajaccio',
+        'founded': 1910,
+        'city': 'Ajaccio, France',
+        },
+
+    {
+        'name': 'GFC Ajaccio',
         'founded': 1910,
         'city': 'Ajaccio, France',
         },

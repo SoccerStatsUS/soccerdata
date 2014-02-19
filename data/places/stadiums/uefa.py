@@ -75,6 +75,13 @@ l = [
         },
 
     {
+        'name': 'Anfield',
+        'location': 'Liverpool, England',
+        'opened': 1884,
+        'capacity': 45276,
+        },
+
+    {
         'name': 'De Kuip',
         'location': 'Rotterdam, Netherlands',
         'opened': datetime.datetime(1937, 7, 23),
@@ -119,6 +126,13 @@ l = [
         'location': 'Santiago de Compostela, Spain',
         'opened': datetime.datetime(1993, 6, 24),
         'capacity': 13000,
+        },
+
+    {
+        'name': 'Estadi Cornellà-El Prat',
+        'location': 'El Prat de Llobregat, Spain',
+        'opened': datetime.datetime(2009, 8, 2),
+        'capacity': 40500,
         },
 
     {
@@ -288,6 +302,13 @@ l = [
         'location': 'Dortmund, Germany',
         'opened': datetime.datetime(1974, 4, 2),
         'capacity': 83000,
+        },
+
+    {
+        'name': 'Weserstadion',
+        'location': 'Bremen, Germany',
+        'opened': 1924,
+        'capacity': 42500,
         },
 
     {
@@ -632,6 +653,14 @@ l = [
         },
 
     {
+        'name': 'Olympics Stadium (Athens)',
+        'location': 'Athens, Greece',
+        'opened': 1982,
+        'capacity': 75263,
+        },
+
+
+    {
         'name': 'Pankritio Stadium',
         'location': 'Heraklion, Greece',
         'opened': datetime.datetime(2004, 8, 11),
@@ -686,6 +715,20 @@ l = [
         'location': 'Leipzig, Germany',
         'opened': datetime.datetime(1956, 8, 4),
         'capacity': 44345,
+        },
+
+    {
+        'name': 'Red Bull Arena (Salzburg)',
+        'location': 'Salzburg, Austria',
+        'opened': datetime.datetime(2003, 3, 8),
+        'capacity': 31895,
+        },
+
+    {
+        'name': 'Tivoli-Neu',
+        'location': 'Innsbruck, Austria',
+        'opened': datetime.datetime(2000, 9, 8),
+        'capacity': 17400,
         },
 
 
@@ -797,6 +840,13 @@ l = [
         },
 
     {
+        'name': 'Petrovsky Stadium',
+        'location': 'Saint Petersburg, Russia',
+        'opened': datetime.datetime(1925, 7, 26),
+        'capacity': 21504,
+        },
+
+    {
         'name': 'Kiev Olympic Stadium',
         'location': 'Kiev, Ukraine',
         'opened': datetime.datetime(1923, 8, 12),
@@ -849,6 +899,13 @@ l = [
         },
 
     {
+        'name': 'Iberostar Stadium',
+        'location': 'Palma, Spain',
+        'opened': 1999,
+        'capacity': 23142,
+        },
+
+    {
         'name': 'Estadio Manuel Martínez Valero',
         'location': 'Alicante, Spain',
         'opened': datetime.datetime(1976, 9, 8),
@@ -882,6 +939,13 @@ l = [
         },
 
     {
+        'name': 'Lerkendal Stadion',
+        'location': 'Trondheim, Norway',
+        'opened': datetime.datetime(1947, 8, 10),
+        'capacity': 21166,
+        },
+
+    {
         'name': 'Bislett Stadion',
         'location': 'Oslo, Norway',
         'opened': 1922,
@@ -900,6 +964,13 @@ l = [
         'location': 'Lisbon, Portugal',
         'opened': datetime.datetime(1956, 9, 23),
         'capacity': 25000,
+        },
+
+    {
+        'name': 'Estádio do Dragão',
+        'location': 'Porto, Portugal',
+        'opened': datetime.datetime(2003, 11, 16),
+        'capacity': 52399,
         },
 
     {
@@ -928,8 +999,22 @@ l = [
         },
 
     {
+        'name': 'Şükrü Saracoğlu Stadium',
+        'location': 'Istanbul, Turkey',
+        'opened': 1908,
+        'capacity': 50509,
+        },
+
+    {
         'name': 'AEL FC Arena',
         'location': 'Larissa, Greece',
+        'opened': 2010,
+        'capacity': 16118,
+        },
+
+    {
+        'name': 'Georgios Karaiskakis Stadium',
+        'location': 'Piraeus, Greece',
         'opened': 2010,
         'capacity': 16118,
         },
@@ -1057,8 +1142,6 @@ l = [
         'capacity': 9692,
         },
 
-
-
     {
         'name': 'Ernst-Happel-Stadion',
         'location': 'Vienna, Austria',
@@ -1170,6 +1253,13 @@ l = [
         },
 
     {
+        'name': 'Stamford Bridge',
+        'location': 'London, England',
+        'opened': datetime.datetime(1877, 4, 28),
+        'capacity': 41798,
+        },
+
+    {
         'name': 'De Grolsch Veste',
         'location': 'Enschede, Netherlands',
         'opened': datetime.datetime(1998, 5, 10),
@@ -1221,11 +1311,31 @@ l = [
         'capacity': 52342,
         },
 
-
+    {
+        'name': 'Philips Stadion',
+        'location': 'Eindhoven, Netherlands',
+        'opened': datetime.datetime(1910, 12, 12),
+        'capacity': 35000,
+        },
 
     {
         'name': 'Estadio El Sardinero',
+        'opened': 1988,
+        'capacity': 22222,
         'location': 'Santander, Spain',
+        },
+
+    {
+        'name': 'Coliseum Alfonso Pérez',
+        'opened': 1998,
+        'location': 'Getafe, Spain',
+        },
+
+    {
+        'name': 'Anoeta',
+        'opened': 1993,
+        'capacity': 32076,
+        'location': 'San Sebastian, Spain',
         },
 
     {
@@ -1233,6 +1343,13 @@ l = [
         'location': 'Valencia, Spain',
         'opened': datetime.datetime(1923, 5, 20),
         'capacity': 55000,
+        },
+
+    {
+        'name': 'Estadi Ciutat de València',
+        'location': 'Valencia, Spain',
+        'opened': 1969,
+        'capacity': 25354
         },
 
     {
@@ -1403,6 +1520,27 @@ l = [
         },
 
     {
+        'name': 'Stade de Genève',
+        'location': 'Geneve, Switzerland',
+        'opened': datetime.datetime(2003, 4, 30),
+        'capacity': 30084,
+        },
+
+    {
+        'name': 'Stade de Suisse',
+        'location': 'Bern, Switzerland',
+        'opened': datetime.datetime(2005, 7, 30),
+        'capacity': 32000,
+        },
+
+    {
+        'name': 'Letzigrund',
+        'location': 'Zurich, Switzerland',
+        'opened': datetime.datetime(2007, 8, 30),
+        'capacity': 25000,
+        },
+
+    {
         'name': 'St. Jakob-Park',
         'location': 'Basel, Switzerland',
         'opened': datetime.datetime(2001, 3, 15),
@@ -1425,6 +1563,13 @@ l = [
         },
 
     {
+        'name': 'Estadio El Madrigal',
+        'location': 'Villarreal, Spain',
+        'opened': datetime.datetime(1923, 6, 17),
+        'capacity': 22000,
+        },
+
+    {
         'name': 'Balaídos',
         'location': 'Vigo, Spain',
         'opened': datetime.datetime(1928, 12, 30),
@@ -1432,7 +1577,7 @@ l = [
         },
 
     {
-        'name': 'Dynama Stadium',
+        'name': 'Dynama Stadium (Minsk)',
         'location': 'Minsk, Belarus',
         'opened':1934,
         'capacity': 40000,
@@ -1447,6 +1592,20 @@ l = [
         'capacity': 81338,
         'cost': 290000000,
         'denomination': 'Euro',
+        },
+
+    {
+        'name': 'Stade du Ray',
+        'location': 'Nice, France',
+        'opened': datetime.datetime(1927, 1, 30),
+        'capacity': 18696,
+        },
+
+    {
+        'name': 'Stadionul Steaua',
+        'location': 'Bucharest, Romania',
+        'opened': datetime.datetime(1974, 4, 9),
+        'capacity': 27557,
         },
 
 ]

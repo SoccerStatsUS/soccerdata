@@ -44,6 +44,7 @@ Copa Interclubes UNCAF; UNCAF; soccer; domestic; Cup; 2; Confederation; CONCACAF
 CFU Club Championship; CFU; soccer; domestic; Cup; 2; Confederation; CONCACAF
 
 UEFA Champions League; UCL; soccer; domestic; League; 1; Confederation; UEFA
+UEFA Europa League; UEL; soccer; domestic; League; 2; Confederation; UEFA
 
 * domestic leagues.
 
@@ -116,6 +117,18 @@ Liga I; ROM1; soccer; domestic; League; 1; Country; Romania
 PRVA HNL; CRO1; soccer; domestic; League; 1; Country; Croatia
 
 FA Cup; ENG-FA; soccer; domestic; Cup; 1; Country; England
+Copa del Rey; ESP-Cup; soccer; domestic; Cup; 1; Country; Spain
+DFB-Pokal; GER-Cup; soccer; domestic; Cup; 1; Country; Germany
+Coupe de France; FRA-Cup; soccer; domestic; Cup; 1; Country; France
+Scottish League Cup; SCO-LC; soccer; domestic; Cup; 1; Country; Scotland
+KNVB Cup; NED-Cup; soccer; domestic; Cup; 1; Country; Netherlands
+
+Supercopa de España; SPA-SC; soccer; domestic; Cup; 1; Country; Spain
+
+
+Football League Cup; ENG-LC; soccer; domestic; Cup; 1; Country; England
+
+Copa MX; CopaMX; soccer; domestic; Cup; 1; Country; Mexico
 
 National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
 Southern New England Soccer League; SNESL; soccer; domestic; League; 2; Country; United States
@@ -227,6 +240,10 @@ FIFA U-17 World Cup; U17WC; soccer; international; Cup; 1; World; Earth
 
 FIFA World Cup qualification (CONCACAF); WCq; soccer; international; Cup; 1; Confederation; CONCACAF
 FIFA World Cup qualification (CONMEBOL); WCq; soccer; international; Cup; 1; Confederation; CONMEBOL
+FIFA World Cup qualification (UEFA); WCq; soccer; international; Cup; 1; Confederation; UEFA
+FIFA World Cup qualification (CAF); WCq; soccer; international; Cup; 1; Confederation; CAF
+FIFA World Cup qualification (AFC); WCq; soccer; international; Cup; 1; Confederation; AFC
+FIFA World Cup qualification (OFC); WCq; soccer; international; Cup; 1; Confederation; OFC
 
 
 * confederation
@@ -242,6 +259,7 @@ Caribbean Cup; CC; soccer; international; Cup; 2; Confederation; CONCACAF
 Central American and Caribbean Games; CACG; soccer; international; Cup; 2; Confederation; CONCACAF
 
 Copa America; CA; soccer; international; Cup; 1; Confederation; CONMEBOL
+UEFA European Championship; EURO; soccer; international; Cup; 1; Confederation; UEFA
 
 * Amateur
 

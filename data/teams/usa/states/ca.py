@@ -399,7 +399,7 @@ l = [
     {
         'name': 'OC Blues Strikers FC',
         'city': 'Pacific Palisades, CA',
-        'founded': 2011
+        'founded': 2011,
         },
 
     {
@@ -521,7 +521,7 @@ l = [
         },
 
     {
-        'name': 'Pali Blues',
+        'name': 'Pali Blues', # OC Blues Strikers?
         'city': 'Los Angeles, CA',
         'founded': 2008,
         },

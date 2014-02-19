@@ -1309,7 +1309,6 @@ l = [
         'capacity': 35000,
         }, 
 
-
     {
         'name': 'Estadio Ciudad de Cumaná',
         'location': 'Ayacucho, Peru',
@@ -1322,6 +1321,13 @@ l = [
         'location': 'Avellaneda, Argentina',
         'opened': datetime.datetime(2009, 10, 28),
         'capacity': 40000,
+        }, 
+
+    {
+        'name': 'Estadio Padre Ernesto Martearena',
+        'location': 'Salta, Argentina',
+        'opened': 200,
+        'capacity': 20408,
         }, 
 
     

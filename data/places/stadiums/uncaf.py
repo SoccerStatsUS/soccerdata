@@ -200,7 +200,7 @@ l = [
         'capacity': 10000,
         },
 
-                      {
+        {
         'name': 'Estadio Ricardo Saprissa', 
         'location': 'San Jose, Costa Rica',
         'opened': datetime.datetime(1972, 8, 27),
