@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol99.html
 Competition: Liga de Fútbol Profesional Boliviano
-Season: 1999 Apertura
+
+Season: 1999 
+Stage: Apertura
 
 
 *[played as a standard double round-robin]
@@ -582,7 +584,8 @@ Date: 6/6/1999
 *the first half of the year.
 
 
-Season: 1999 Clausura
+Season: 1999 
+Stage: Clausura
 
 
 *will be played in two groups of six, all teams playing the other teams

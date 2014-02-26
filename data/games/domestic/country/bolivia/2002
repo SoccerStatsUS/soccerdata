@@ -1,7 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol02.html
 Competition: Liga de Fútbol Profesional Boliviano
 
-Season: 2002 Apertura
+Season: 2002 
+Stage: Apertura
 
 
 *Torneo Apertura 
@@ -536,7 +537,8 @@ Date: 7/14/2002
 *12.Mariscal Braun          22  3  3 16 17-48 12
 
 
-Season: 2002 Clausura
+Season: 2002 
+Stage: Clausura
 
 * 1.Bolívar                 22 15  5  2 70-16 50  Clausura Winners
 * 2.Oriente Petrolero       22 13  4  5 59-32 43

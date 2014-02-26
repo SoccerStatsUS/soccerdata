@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol00.html
 Competition: Liga de Fútbol Profesional Boliviano
-Season: 2000 Apertura
+
+Season: 2000 
+Stage: Apertura
 
 * 1.Jorge Wilstermann       22 14  2  6 36-20 44  Apertura Winners
 * 2.Guabirá                 22 12  2  8 39-35 38 
@@ -546,7 +548,8 @@ Date: 7/9/2000
 *12.Unión Central           22  4  7 11 19-28 19
 
 
-Season: 2000 Clausura
+Season: 2000 
+Stage: Clausura
 
 * 1.Oriente Petrolero       22 14  3  5 42-24 45  Clausura Winners
 * 2.The Strongest           22 14  1  7 45-30 43  Copa Libertadores Playoff

@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol05.html
 Competition: Liga de Fútbol Profesional Boliviano
-Season: 2005 Adecuacion
+
+Season: 2005 
+Stage: Adecuacion
 
 *Torneo Adecuación 2005
 *
@@ -573,7 +575,8 @@ Date: 7/24/2005
 
 
 
-Season: 2005 Apertura
+Season: 2005 
+Stage: Apertura
 
 *NB: was supposed to be first half of 2005/06 season but eventually
 *    Bolivia decided to stick to the calendar year season
@@ -896,7 +899,8 @@ Date: 11/6/2005
 
 
 
-Season: 2005 Hexagonal
+Season: 2005 
+Stage: Hexagonal
 
 *Hexagonal Final
 *

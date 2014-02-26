@@ -229,11 +229,6 @@ l = [
         },
 
 
-    {
-        'name': 'Portuguesa (Sao Paulo)',
-        'founded': datetime.datetime(1920, 8, 14),
-        'city': 'Sao Paulo, Brazil',
-        },
 
     {
         'name': 'Sportivo Barracas',
@@ -270,6 +265,12 @@ l = [
         'name': 'Nacional Táchira',
         'founded': 1996,
         'city': 'Tachira, Venezuela',
+        },
+
+    {
+        'name': 'La Salle FC',
+        #'founded': 1996,
+        'city': 'Caracas, Venezuela',
         },
 
     {
@@ -899,10 +900,18 @@ l = [
         },
 
     {
-        'name': 'Portuguesa',
+        'name': 'Portuguesa (Sao Paulo)',
         'founded': datetime.datetime(1920, 8, 14),
         'city': 'Sao Paulo, Brazil',
         },
+
+    #{
+    #    'name': 'Portuguesa (Sao Paulo)',
+    #    'founded': datetime.datetime(1920, 8, 14),
+    #    'city': 'Sao Paulo, Brazil',
+    #    },
+
+
 
     {
         'name': 'Betim',
@@ -1665,11 +1674,6 @@ l = [
         'city': 'Lima, Peru',
         },
 
-    {
-        'name': 'Universidad Cesar Vallejo',
-        'founded': datetime.datetime(1996, 1, 6),
-        'city': 'Trujillo, Peru',
-        },
 
 
 

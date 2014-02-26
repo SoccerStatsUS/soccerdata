@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesb/bol04.html
 Competition: Liga de Fútbol Profesional Boliviano
-Season: 2004 Apertura
+Season: 2004 
+Stage: Apertura
 
 *Torneo Apertura 
 * 1.Bolívar                    22 17  2  3 51-21 53  Champions
@@ -561,7 +562,8 @@ Date: 6/24/2004
 *    for Copa sudamericana 2004
 
 
-Season: 2004 Clausura
+Season: 2004 
+Stage: Clausura
 
 *First Stage
 *

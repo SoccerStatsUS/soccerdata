@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol97.html
 Competition: Liga de Fútbol Profesional Boliviano
-Season: 1997 Apertura
+
+Season: 1997 
+Stage: Apertura
 
 *Copa Enrique Bujold
 
@@ -305,7 +307,8 @@ Round: Final
              V. Gonzales (pk) 29, M. Sandy 43;
 
 
-Season: 1997 Clausura
+Season: 1997 
+Stage: Clausura
 
 *Group A:
 * 1.Bolívar                 12  7  3  2  30-15  24

@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol06.html
 Competition: Liga de Fútbol Profesional Boliviano
-Season: 2006 Apertura
+
+Season: 2006 
+Stage: Apertura
 
 *NB: originally a Clausura 2006 as part of the 2005/06 season was
 *    planned for the first half of 2006 but eventually Bolivia
@@ -550,7 +552,8 @@ Date: 6/4/2006
 *12.La Paz FC                  22  3  6 13 24-42 15
 
 
-Season: 2006 Clausura
+Season: 2006 
+Stage: Clausura
 
 *Clasificación
 *

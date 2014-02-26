@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol03.html
 Competition: Liga de Fútbol Profesional Boliviano
-Season: 2003 Apertura
+
+Season: 2003 
+Stage: Apertura
 
 
 *Torneo Apertura 
@@ -603,7 +605,8 @@ Date: 7/30/2003
 
 
 
-Season: 2003 Clausura
+Season: 2003 
+Stage: Clausura
 
 *Torneo Clausura
 *First Stage

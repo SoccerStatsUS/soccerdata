@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol98.html
 Competition: Liga de Fútbol Profesional Boliviano
-Season: 1998 Apertura
+
+Season: 1998 
+Stage: Apertura
 
 *Torneo Apertura (Torneo Ramiro Castillo)
 
@@ -542,7 +544,8 @@ Date: 8/23/1998
 *12.Chaco Petrolero         22  3  3 16 21-45 12
 
 
-Season: 1998 Clausura
+Season: 1998 
+Stage: Clausura
 
 *NB: teams play in two groups, playing each other team in the group twice and
 *    in addition two local derbies (rounds 4 and 10).  Top-3 of each group

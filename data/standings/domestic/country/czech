@@ -3,6 +3,8 @@ Competition: Gambrinus Liga
 BlockSource: http://www.rsssf.com/tablest/tsje94.html
 Season: 1993-1994
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
  1; AC Sparta Praha            ; 30; 18;  9;  3;  62;21; 45;  Champions
  2; SK Slavia Praha            ; 30; 16;  7;  7;  55;28; 39;  UEFA Cup
  3; FC Banik Ostrava           ; 30; 14;  8;  8;  52;25; 36;

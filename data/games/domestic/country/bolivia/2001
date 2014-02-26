@@ -1,7 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol01.html
 Competition: Liga de Fútbol Profesional Boliviano
 
-Season: 2001 Apertura
+Season: 2001 
+Stage: Apertura
 
 *Torneo Apertura 
 * 1.Bolívar                 22 12  6  4 53-28 42  Playoff
@@ -541,7 +542,8 @@ Date: 6/24/2001
   M. Sandy;
 
 
-Season: 2001 Clausura
+Season: 2001 
+Stage: Clausura
 
 *First Stage
 *Tables:

@@ -29,7 +29,7 @@ Date: 3/9/2008
 ; Busan    ; 2-1; Jeonbuk
 ; Suwon    ; 2-0; Daejeon
 ; Gyeongnam; 4-2; Daegu
-; Gwangju  ; 1-1; Seongnam
+; Gwangju Sangmu Phoenix  ; 1-1; Seongnam
 ; Jeju     ; 0-2; Incheon
 
 Round: 2
@@ -41,7 +41,7 @@ Date: 3/15/2008
 
 Date: 3/16/2008
 
-; Gwangju  ; 2-0; Gyeongnam
+; Gwangju Sangmu Phoenix  ; 2-0; Gyeongnam
 ; Incheon  ; 1-0; Chunnam
 ; Daegu    ; 3-2; Busan
 ; Seongnam ; 2-2; Suwon
@@ -53,7 +53,7 @@ Date: 3/29/2008
 ; Jeju     ; 0-3; Seongnam
 ; Chunnam  ; 1-1; Daejeon
 ; Ulsan    ; 2-1; Jeonbuk
-; Busan    ; 0-0; Gwangju
+; Busan    ; 0-0; Gwangju Sangmu Phoenix
 ; Suwon    ; 3-0; Gyeongnam
 
 Date: 3/30/2008
@@ -72,14 +72,14 @@ Date: 4/6/2008
 ; Seongnam ; 4-0; Chunnam
 ; Jeonbuk  ; 1-1; Pohang
 ; Daejeon  ; 0-0; Incheon
-; Gwangju  ; 0-1; Seoul
+; Gwangju Sangmu Phoenix  ; 0-1; Seoul
 
 Round: 5
 Date: 4/12/2008
 
 ; Jeonbuk  ; 0-3; Daegu
 ; Jeju     ; 1-1; Busan
-; Ulsan    ; 1-1; Gwangju
+; Ulsan    ; 1-1; Gwangju Sangmu Phoenix
 
 Date: 4/13/2008
 
@@ -92,7 +92,7 @@ Round: 6
 Date: 4/19/2008
 
 ; Seongnam ; 3-0; Daejeon
-; Gwangju  ; 2-3; Jeonbuk   
+; Gwangju Sangmu Phoenix  ; 2-3; Jeonbuk   
 ; Pohang   ; 3-0; Daegu
 ; Chunnam  ; 2-1; Busan
 
@@ -113,7 +113,7 @@ Date: 4/26/2008
 
 Date: 4/27/2008
 
-; Gwangju  ; 3-1; Chunnam   
+; Gwangju Sangmu Phoenix  ; 3-1; Chunnam   
 ; Daegu    ; 2-4; Incheon   
 
 Round: 8
@@ -131,7 +131,7 @@ Date: 5/5/2008
 ; Ulsan    ; 2-1; Jeju      
 ; Incheon  ; 2-2; Busan
 ; Jeonbuk  ; 1-2; Suwon
-; Daegu    ; 3-2; Gwangju
+; Daegu    ; 3-2; Gwangju Sangmu Phoenix
 
 Round: 9
 Date: 5/10/2008
@@ -144,7 +144,7 @@ Date: 5/11/2008
 
 ; Busan    ; 1-2; Daejeon
 ; Seoul    ; 2-1; Incheon
-; Pohang   ; 3-1; Gwangju
+; Pohang   ; 3-1; Gwangju Sangmu Phoenix
 ; Chunnam  ; 2-2; Ulsan
 
 Round: 10
@@ -158,7 +158,7 @@ Date: 5/18/2008
 ; Daegu    ; 2-4; Jeju
 ; Daejeon  ; 1-1; Seoul
 ; Jeonbuk  ; 2-1; Chunnam
-; Gwangju  ; 2-5; Suwon
+; Gwangju Sangmu Phoenix  ; 2-5; Suwon
 ; Ulsan    ; 2-1; Incheon
 
 Round: 11
@@ -167,7 +167,7 @@ Date: 5/24/2008
 ; Daejeon  ; 2-2; Ulsan
 ; Incheon  ; 0-0; Jeonbuk
 ; Suwon    ; 1-0; Pohang
-; Jeju     ; 3-1; Gwangju
+; Jeju     ; 3-1; Gwangju Sangmu Phoenix
 ; Gyeongnam; 1-0; Busan
 
 Date: 5/25/2008
@@ -180,7 +180,7 @@ Date: 6/28/2008
 
 ; Pohang   ; 0-1; Jeju
 ; Chunnam  ; 0-2; Suwon
-; Incheon  ; 3-0; Gwangju
+; Incheon  ; 3-0; Gwangju Sangmu Phoenix
 ; Daegu    ; 1-1; Daejeon
 ; Seoul    ; 2-1; Busan
 
@@ -201,7 +201,7 @@ Date: 7/5/2008
 Date: 7/6/2008
 
 ; Jeju     ; 1-0; Chunnam
-; Gwangju  ; 0-0; Daejeon
+; Gwangju Sangmu Phoenix  ; 0-0; Daejeon
 
 Round: 14
 Date: 7/12/2008
@@ -210,7 +210,7 @@ Date: 7/12/2008
 ; Ulsan    ; 0-0; Seoul
 ; Incheon  ; 0-0; Jeju
 ; Daegu    ; 1-4; Gyeongnam
-; Seongnam ; 3-0; Gwangju
+; Seongnam ; 3-0; Gwangju Sangmu Phoenix
 
 Date: 7/13/2008
 
@@ -222,7 +222,7 @@ Date: 7/19/2008
 
 ; Pohang   ; 3-1; Ulsan
 ; Busan    ; 0-4; Daegu
-; Gyeongnam; 1-1; Gwangju
+; Gyeongnam; 1-1; Gwangju Sangmu Phoenix
 ; Seoul    ; 2-2; Jeonbuk
 
 Date: 7/20/2008
@@ -243,7 +243,7 @@ Date: 8/23/2008
 Date: 8/24/2008
 
 ; Jeonbuk  ; 1-2; Ulsan
-; Gwangju  ; 0-2; Busan     
+; Gwangju Sangmu Phoenix  ; 0-2; Busan     
 
 Round: 17
 Date: 8/30/2008
@@ -252,7 +252,7 @@ Date: 8/30/2008
 ; Chunnam  ; 0-1; Seongnam
 ; Ulsan    ; 3-2; Daegu
 ; Incheon  ; 2-1; Daejeon
-; Seoul    ; 3-1; Gwangju
+; Seoul    ; 3-1; Gwangju Sangmu Phoenix
 
 Date: 8/31/2008
 
@@ -268,7 +268,7 @@ Date: 9/13/2008
 ; Jeju     ; 0-0; Seoul
 ; Ulsan    ; 2-1; Suwon
 ; Incheon  ; 0-0; Gyeongnam
-; Jeonbuk  ; 2-1; Gwangju
+; Jeonbuk  ; 2-1; Gwangju Sangmu Phoenix
 
 Round: 20
 Date: 9/20/2008
@@ -276,7 +276,7 @@ Date: 9/20/2008
 ; Jeju     ; 3-1; Suwon
 ; Incheon  ; 0-2; Daegu
 ; Pohang   ; 3-2; Busan
-; Chunnam  ; 1-0; Gwangju
+; Chunnam  ; 1-0; Gwangju Sangmu Phoenix
 ; Seongnam ; 0-1; Ulsan
 
 Date: 9/21/2008
@@ -296,7 +296,7 @@ Date: 9/28/2008
 
 ; Seoul    ; 3-0; Chunnam
 ; Jeju     ; 0-1; Ulsan
-; Gwangju  ; 1-4; Daegu
+; Gwangju Sangmu Phoenix  ; 1-4; Daegu
 
 Round: 22
 Date: 10/4/2008
@@ -308,7 +308,7 @@ Date: 10/4/2008
 Date: 10/5/2008
 
 ; Daegu    ; 1-2; Suwon
-; Gwangju  ; 1-1; Pohang    
+; Gwangju Sangmu Phoenix  ; 1-1; Pohang    
 ; Ulsan    ; 1-2; Chunnam
 ; Jeonbuk  ; 2-1; Jeju
 
@@ -318,7 +318,7 @@ Date: 10/18/2008
 ; Jeju     ; 3-2; Daegu
 ; Gyeongnam; 3-4; Pohang    
 ; Seongnam ; 1-0; Busan
-; Suwon    ; 2-0; Gwangju   
+; Suwon    ; 2-0; Gwangju Sangmu Phoenix   
 
 Date: 10/19/2008
 
@@ -337,7 +337,7 @@ Date: 10/26/2008
 ; Busan    ; 0-1; Gyeongnam
 ; Seoul    ; 1-0; Seongnam
 ; Daegu    ; 1-2; Chunnam
-; Gwangju  ; 1-0; Jeju
+; Gwangju Sangmu Phoenix  ; 1-0; Jeju
 ; Pohang   ; 0-0; Suwon
 
 Round: 18 
@@ -348,7 +348,7 @@ Date: 10/29/2008
 ; Daegu    ; 1-3; Jeonbuk
 ; Suwon    ; 0-1; Seoul
 ; Busan    ; 3-0; Jeju
-; Gwangju  ; 1-2; Ulsan
+; Gwangju Sangmu Phoenix  ; 1-2; Ulsan
 ; Seongnam ; 0-0; Incheon
 
 Round: 25
@@ -363,7 +363,7 @@ Date: 11/2/2008
 
 ; Jeju     ; 0-1; Pohang
 ; Busan    ; 2-0; Seoul
-; Gwangju  ; 0-1; Incheon
+; Gwangju Sangmu Phoenix  ; 0-1; Incheon
 
 Round: 26 
 Date: 11/9/2008
@@ -371,7 +371,7 @@ Date: 11/9/2008
 ; Pohang   ; 1-2; Seoul
 ; Chunnam  ; 0-0; Jeju
 ; Ulsan    ; 1-0; Busan     
-; Daejeon  ; 0-0; Gwangju   
+; Daejeon  ; 0-0; Gwangju Sangmu Phoenix   
 ; Incheon  ; 1-3; Suwon     
 ; Jeonbuk  ; 3-1; Gyeongnam 
 ; Daegu    ; 0-1; Seongnam
