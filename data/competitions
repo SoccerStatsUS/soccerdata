@@ -91,6 +91,7 @@ Chinese Super League; CHN1; soccer; domestic; League; 1; Country; China
 J. League Division 1; JAP1; soccer; domestic; League; 1; Country; Japan
 K League; KOR1; soccer; domestic; League; 1; Country; South Korea
 I-League; IND1; soccer; domestic; League; 1; Country; India
+Iran Pro League; IRN1; soccer; domestic; League; 1; Country; Iran
 
 Premier League; EPL; soccer; domestic; League; 1; Country; England
 Scottish Premier League; SPL; soccer; domestic; League; 1; Country; Scotland
@@ -107,6 +108,7 @@ Eredivisie; NED1; soccer; domestic; League; 1; Country; Netherlands
 Süper Lig; TUR1; soccer; domestic; League; 1; Country; Turkey
 Swiss Super League; SWI1; soccer; domestic; League; 1; Country; Switzerland
 Russian Premier League; RUS1; soccer; domestic; League; 1; Country; Russia
+Ukrainian Premier League; UKR1; soccer; domestic; League; 1; Country; Ukraine
 Primeira Liga; POR1; soccer; domestic; League; 1; Country; Portugal
 Ekstraklasa; POL1; soccer; domestic; League; 1; Country; Poland
 Allsvenskan; SWE1; soccer; domestic; League; 1; Country; Sweden
@@ -114,7 +116,8 @@ Tippeligaen; NOR1; soccer; domestic; League; 1; Country; Norway
 Superleague Greece; GRE1; soccer; domestic; League; 1; Country; Greece
 Serbian SuperLiga; SRB1; soccer; domestic; League; 1; Country; Serbia
 Liga I; ROM1; soccer; domestic; League; 1; Country; Romania
-PRVA HNL; CRO1; soccer; domestic; League; 1; Country; Croatia
+Prva HNL; CRO1; soccer; domestic; League; 1; Country; Croatia
+League of Ireland; IRL1; soccer; domestic; League; 1; Country; Ireland
 
 FA Cup; ENG-FA; soccer; domestic; Cup; 1; Country; England
 Copa del Rey; ESP-Cup; soccer; domestic; Cup; 1; Country; Spain
@@ -125,6 +128,7 @@ KNVB Cup; NED-Cup; soccer; domestic; Cup; 1; Country; Netherlands
 
 Supercopa de España; SPA-SC; soccer; domestic; Cup; 1; Country; Spain
 
+UEFA Super Cup; USC; soccer; domestic; Cup; 2; Confederation; UEFA
 
 Football League Cup; ENG-LC; soccer; domestic; Cup; 1; Country; England
 
@@ -236,7 +240,6 @@ FIFA World Cup; WC; soccer; international; Cup; 1; World; Earth
 * FIFA World Cup Qualification; WCq; soccer; international; Cup; 1; World; Earth
 FIFA U-20 World Cup; U20WC; soccer; international; Cup; 1; World; Earth
 FIFA U-17 World Cup; U17WC; soccer; international; Cup; 1; World; Earth
-
 
 FIFA World Cup qualification (CONCACAF); WCq; soccer; international; Cup; 1; Confederation; CONCACAF
 FIFA World Cup qualification (CONMEBOL); WCq; soccer; international; Cup; 1; Confederation; CONMEBOL

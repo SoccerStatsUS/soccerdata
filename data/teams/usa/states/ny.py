@@ -165,10 +165,6 @@ l = [
         'city': 'Brooklyn, NY',
         },
 
-    {
-        'name': 'Cornell University',
-        'city': 'Ithaca, NY',
-        },
 
     {
         'name': 'Deveaux College',

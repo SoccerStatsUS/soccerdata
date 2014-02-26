@@ -244,39 +244,10 @@ l = [
         },
 
     {
-        'name': 'Cal Poly Pomona',
-        'city': 'Pomona, CA',
-        },
-
-    {
-        'name': 'Santa Barbara City College',
-        'city': 'Santa Barbara, CA',
-        },
-
-    {
-        'name': 'University of California, Santa Barbara',
-        'city': 'Santa Barbara, CA',
-        },
-
-    {
-        'name': 'University of California, Riverside',
-        'city': 'Riverside, CA',
-        },
-
-    {
         'name': 'Cal Poly',
         'city': 'San Luis Obispo, CA',
         },
 
-    {
-        'name': 'University of San Francisco',
-        'city': 'San Francisco, CA',
-        },
-
-    {
-        'name': 'University of California, Santa Cruz',
-        'city': 'Santa Cruz, CA',
-        },
 
     {
         'name': 'Mexico SC',

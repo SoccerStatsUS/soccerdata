@@ -5,6 +5,15 @@ import datetime
 
 l = [
 
+    # Tunisia
+    {
+        'name': 'Espérance',
+        'founded': datetime.datetime(1919, 1, 15),
+        'city': 'Tunis, Tunisia',
+        },
+
+
+    # Cameroon
 
     {
         'name': 'Rainbow FC Bamenda',

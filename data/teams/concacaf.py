@@ -1043,11 +1043,7 @@ l = [
         'city': 'Saint-Marc, Haiti',
         },
 
-    {
-        'name': 'Tempête FC',
-        'founded': 1970,
-        'city': 'Saint-Marc, Haiti',
-        },
+
 
     {
         'name': 'Victory SC',

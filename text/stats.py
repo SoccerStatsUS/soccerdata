@@ -37,7 +37,7 @@ def process_ncaa_stats():
         'clemson',
         'coastal_carolina',
         'conn',
-        'furman',
+        #'furman',
         'indiana',
         'maryland',
         'nc_state',
@@ -70,8 +70,10 @@ def process_usl1_stats():
     l.extend(process_stats("d2/19972005", format_name=True))
 
     #for e in '06', '07', '08', '09', '11', '12':
-    for e in '06', '07', '08', '09':
+    for e in '06', '07', '09':
         l.extend(process_stats("d2/20%s" % e, format_name=True))
+
+    l.extend(process_stats("d2/2008", format_name=True, delimiter=';'))
 
     return l
 

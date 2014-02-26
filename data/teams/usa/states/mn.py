@@ -10,20 +10,6 @@ l = [
         'city': 'Northfield, MN',
         },
 
-    {
-        'name': 'Hamline University',
-        'city': 'St. Paul, MN',
-        },
-
-    {
-        'name': 'University of Minnesota',
-        'city': 'Minneapolis, MN',
-        },
-
-    {
-        'name': 'Minneapolis Thistles',
-        'city': 'Minneapolis, MN',
-        },
 
     {
         'name': 'Minneapolis Rangers',

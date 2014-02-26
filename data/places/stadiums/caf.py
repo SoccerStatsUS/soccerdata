@@ -21,6 +21,13 @@ l = [
         'location': 'Kaduna, Nigeria',
         },
 
+
+    {
+        'name': 'Nnamdi Azikiwe Stadium',
+        'location': 'Kaduna, Nigeria',
+        'capacity': 22000,
+        },
+
     {
         'name': 'Botswana National Stadium',
         'location': 'Gaborone, Botswana',

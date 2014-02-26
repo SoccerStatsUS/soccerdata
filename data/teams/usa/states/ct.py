@@ -25,10 +25,6 @@ l = [
         'city': 'Hamden, CT',
         },
 
-    {
-        'name': 'University of Bridgeport',
-        'city': 'Bridgeport, CT',
-        },
 
     {
         'name': 'Middletown Town Team',

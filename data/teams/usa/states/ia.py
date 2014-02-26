@@ -12,10 +12,6 @@ l = [
         'dissolved': 1999,
         },
 
-    {
-        'name': 'Iowa State University',
-        'city': 'Ames, IA',
-        },
 
     {
         'name': 'Dubuque High School',

@@ -24,10 +24,6 @@ l = [
         'city': 'Washington DC',
         },
 
-    {
-        'name': 'George Washington University',
-        'city': 'Washington DC',
-        },
 
 
     # division 1

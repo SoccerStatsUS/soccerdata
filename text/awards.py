@@ -33,8 +33,8 @@ def process_awards(d):
     if 'competition' not in d:
         import pdb; pdb.set_trace()
     
+    # Consider not popping this. Creating problems when awards are accidentally loaded twice.
     competition = d.pop('competition')
-
 
     champion_name = mvp_name = None
 

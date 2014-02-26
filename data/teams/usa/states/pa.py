@@ -33,13 +33,6 @@ l = [
         'city': 'Chester, PA',
         },
 
-    { 
-        'name': 'University of Pittsburgh',
-        'city': 'Pittsburgh, PA',
-        },
-
-
-
 
     { 
         'name': 'Philadelphia Senecas',

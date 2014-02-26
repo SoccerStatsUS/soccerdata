@@ -44,6 +44,13 @@ l = [
         },
 
     {
+        'name': 'Estádio Municipal de Braga',
+        'location': 'Braga, Portugal',
+        'opened': datetime.datetime(2003, 12, 30),
+        'capacity': 30286,
+        },
+
+    {
         'name': 'Estádio das Antas',
         'location': 'Porto, Portugal',
         'opened': datetime.datetime(1952, 5, 28),
@@ -289,12 +296,22 @@ l = [
         'capacity': 43000,
         },
 
+
     {
         'name': 'Olympiastadion',
         'location': 'Munich, Germany',
         'opened': datetime.datetime(1972, 5, 26),
         'capacity': 69250,
         'architect': 'Frei Otto',
+        },
+
+
+    {
+        'name': 'BayArena',
+        'location': 'Leverkusen, Germany',
+        'opened': datetime.datetime(1958, 8, 2),
+        'capacity': 30210,
+        'architect': 'Max Bogl',
         },
 
     {
@@ -389,6 +406,13 @@ l = [
         'opened': datetime.datetime(1923, 2, 18),
         'closed': datetime.datetime(1997, 9, 20),
         'capacity': 44000,
+        },
+
+    {
+        'name': 'Campo de Fútbol de Vallecas',
+        'location': 'Madrid, Spain',
+        'opened': datetime.datetime(1978, 5, 10),
+        'capacity': 14708,
         },
 
 
@@ -855,6 +879,14 @@ l = [
         },
 
     {
+        'name': 'Donbass Stadium',
+        'location': 'Donetsk, Ukraine',
+        'opened': datetime.datetime(2009, 8, 29),
+        'capacity': 52518,
+        },
+
+
+    {
         'name': 'Luzhniki Stadium',
         'location': 'Moscow, Russia',
         'opened': datetime.datetime(1956, 7, 31),
@@ -964,6 +996,13 @@ l = [
         'location': 'Lisbon, Portugal',
         'opened': datetime.datetime(1956, 9, 23),
         'capacity': 25000,
+        },
+
+    {
+        'name': 'Estádio José Alvalade',
+        'location': 'Lisbon, Portugal',
+        'opened': datetime.datetime(2003, 8, 6),
+        'capacity': 50049,
         },
 
     {
@@ -1092,6 +1131,13 @@ l = [
         'opened': 1990,
         'closed': 2006,
         'capacity': 69000,
+        },
+
+    {
+        'name': 'Juventus Stadium',
+        'location': 'Turin, Italy',
+        'opened': datetime.datetime(2011, 9, 8),
+        'capacity': 41000,
         },
 
     {
@@ -1293,6 +1339,7 @@ l = [
         'opened': datetime.datetime(1920, 6, 5),
         'capacity': 20032,
         },
+
 
     {
         'name': 'Tehelne Pole',

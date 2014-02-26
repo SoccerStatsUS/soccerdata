@@ -218,12 +218,12 @@ l = [
         'founded': 2009,
         },
 
-    {
-        'name': 'Okanagan Predators',
-        'city': 'Okanagan, BC',
-        'founded': 2001,
-        'dissolved': 2001,
-        },
+    #{
+    #    'name': 'Okanagan Predators',
+    #    'city': 'Okanagan, BC',
+    #    'founded': 2001,
+    #    'dissolved': 2001,
+    #    },
 
     {
         'name': 'Okanagan Challenge',

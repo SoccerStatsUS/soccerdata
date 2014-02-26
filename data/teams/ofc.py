@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'South Melbourne FC',
+        'founded': 1959,
+        'city': 'Melbourne, Australia',
+        },
+
+    {
         'name': 'Adelaide United',
         'founded': 2003,
         'city': 'Adelaide, Australia',

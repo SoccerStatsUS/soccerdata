@@ -308,6 +308,27 @@ l = [
         },
 
         {
+        'name': 'Estadio 10 de Diciembre',
+        'location': 'Jasso, Mexico',
+        'capacity': 17000,
+        'opened': 1963,
+        },
+
+        {
+        'name': 'Estadio Carlos Iturralde',
+        'location': 'Merida, Mexico',
+        'capacity': 21050,
+        'opened': 1987,
+        },
+
+        {
+        'name': 'Estadio Mariano Matamoros',
+        'location': 'Xochitepec, Mexico',
+        'capacity': 16000,
+        'opened': 1981,
+        },
+
+        {
         'name': 'Estadio Rafael Murillo Vidal',
         'location': 'Cordoba, México',
         },

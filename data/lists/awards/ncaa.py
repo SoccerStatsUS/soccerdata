@@ -5871,6 +5871,7 @@ men = {
 
 women = {
     'competition': 'NCAA Division I Women\'s Soccer Championship',
+
     'team_data': [
         'Champion', 
         ],
@@ -5889,7 +5890,7 @@ women = {
         (1992, 'UNC Chapel Hill'),
         (1993, 'UNC Chapel Hill'),
         (1994, 'UNC Chapel Hill'),
-        (1995, 'Notre Dame')
+        (1995, 'Notre Dame'),
         (1996, 'UNC Chapel Hill'),
         (1997, 'UNC Chapel Hill'),
         (1998, 'Florida Gators'),

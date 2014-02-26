@@ -51,10 +51,6 @@ l = [
         'city': 'Thornton, RI',
         },
 
-    {
-        'name': 'Thornton Rovers',
-        'city': 'Thornton, RI',
-        },
 
     {
         'name': 'River Point Clydes',

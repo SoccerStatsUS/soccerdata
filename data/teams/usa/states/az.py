@@ -14,13 +14,6 @@ l = [
         'dissolved': 1997,
         },
 
-    {
-        'name': 'Phoenix Inferno',
-        'city': 'Phoenix, AZ',
-        },
-
-
-
 
     {
         'name': 'Arizona Condors',

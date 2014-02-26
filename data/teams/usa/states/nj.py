@@ -28,10 +28,6 @@ l = [
         'city': 'Paterson, NJ',
         },
 
-    {
-        'name': 'Monmouth University',
-        'city': 'West Long Branch, NJ',
-        },
 
     {
         'name': 'Jersey City Liberties',
@@ -98,10 +94,6 @@ l = [
         'city': 'Hoboken, NJ',
         },
 
-    {
-        'name': 'Jersey Dragons',
-        'city': 'Hoboken, NJ',
-        },
 
     {
         'name': 'Newark Domestics',

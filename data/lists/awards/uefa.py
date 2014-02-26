@@ -23,7 +23,7 @@ super = {
         (1984, 'Juventus'),
         (1986, 'Steaua Bucharest'),
         (1987, 'FC Porto'),
-        (1988, 'Mechelen'),
+        (1988, 'KV Mechelen'),
         (1989, 'AC Milan'),
         (1990, 'AC Milan'),
         (1991, 'Manchester United'),
@@ -49,6 +49,35 @@ super = {
         (2011, 'FC Barcelona'),
         (2012, 'Atletico Madrid'),
         ],
+   }
+
+
+ireland = {
+   'competition': 'League of Ireland',
+    'team_data': ['Champion'],
+
+   'Champion': [
+        # continue 1985-1996
+        ('1996-1997', 'Kilkenny City'),
+        ('1997-1998', 'Waterford United'),
+        ('1998-1999', 'Drogheda United'),
+        ('1999-2000', 'Bray Wanderers'),
+        ('2000-2001', 'Dundalk'),
+        ('2001-2002', 'Drogheda United'),
+        ('2002-2003', 'Waterford United'),
+        ('2003', 'Dublin City'),
+        ('2004', 'Finn Harps'),
+        ('2005', 'Sligo Rovers'),
+        ('2006', 'Shamrock Rovers'),
+        ('2007', 'Cobh Ramblers'),
+        ('2008', 'Dundalk'),
+        ('2009', 'UCD'),
+        ('2010', 'Derry City'),
+        ('2011', 'Cork City'),
+        ('2012', 'Limerick'),
+        ('2013', 'Athlone Town'),
+        ],
+
    }
 
 
