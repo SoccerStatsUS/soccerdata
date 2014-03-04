@@ -16,7 +16,7 @@ Season: 1938
 * --------------------------------------------------------
 * 11. Liverpool FC                 20  1  5 14  17-52   7  Promotion/Relegation Playoff
 
-Round: Round 1
+Round: 1
 ; Peñarol             ; 2-0; Liverpool
 ; River Plate (Montevideo)         ; 3-2; Nacional
 ; Montevideo Wanderers; 2-0; Racing (Montevideo)
@@ -24,7 +24,7 @@ Round: Round 1
 ; Sud América         ; 4-2; Rampla Juniors
 * Defensor             bye
 
-Round: Round 2
+Round: 2
 ; Nacional            ; 2-0; Montevideo Wanderers
 ; Peñarol             ; 3-2; Defensor
 ; Bella Vista         ; 5-3; Sud América
@@ -32,7 +32,7 @@ Round: Round 2
 ; Racing (Montevideo)              ; 2-2; Rampla Juniors
 * River Plate (Montevideo)          bye
 
-Round: Round 3
+Round: 3
 ; Peñarol             ; 4-2; Bella Vista
 ; Nacional            ; 4-2; Central
 ; Sud América         ; 3-1; Racing (Montevideo)
@@ -40,7 +40,7 @@ Round: Round 3
 ; Liverpool           ; 0-0; River Plate (Montevideo)
 * Montevideo Wanderers bye
 
-Round: Round 4
+Round: 4
 ; Nacional            ; 6-0; Rampla Juniors
 ; Liverpool           ; 1-4; Racing (Montevideo)
 ; Defensor            ; 3-2; River Plate (Montevideo)
@@ -48,7 +48,7 @@ Round: Round 4
 ; Peñarol             ; 6-0; Sud América
 * Central              bye
 
-Round: Round 5
+Round: 5
 ; Peñarol             ; 2-1; River Plate (Montevideo)
 ; Nacional            ; 3-0; Liverpool
 ; Central             ; 5-0; Defensor
@@ -56,7 +56,7 @@ Round: Round 5
 ; Montevideo Wanderers; 3-1; Sud América
 * Racing (Montevideo)               bye
  
-Round: Round 6
+Round: 6
 ; Nacional            ; 1-0; Racing (Montevideo)
 ; Montevideo Wanderers; 2-1; Peñarol
 ; River Plate (Montevideo)         ; 1-0; Rampla Juniors
@@ -64,7 +64,7 @@ Round: Round 6
 ; Sud América         ; 1-1; Central
 * Bella Vista          bye
 
-Round: Round 7
+Round: 7
 ; Peñarol             ; 2-2; Central
 ; Nacional            ; 4-0; Bella Vista
 ; Montevideo Wanderers; 0-0; Defensor
@@ -72,7 +72,7 @@ Round: Round 7
 ; Sud América         ; 2-1; Liverpool
 * Rampla Juniors       bye
 
-Round: Round 8
+Round: 8
 ; Nacional            ; 4-1; Sud América
 ; Peñarol             ; 4-2; Rampla Juniors
 ; Montevideo Wanderers; 2-0; Central
@@ -80,7 +80,7 @@ Round: Round 8
 ; Defensor            ; 1-1; Racing (Montevideo)
 * Liverpool            bye
 
-Round: Round 9
+Round: 9
 ; River Plate (Montevideo)         ; 5-1; Montevideo Wanderers
 ; Rampla Juniors      ; 1-1; Liverpool
 ; Bella Vista         ; 2-1; Defensor
@@ -88,7 +88,7 @@ Round: Round 9
 ; Peñarol             ; 3-1; Nacional
 * Sud América          bye
 
-Round: Round 10
+Round: 10
 ; Central             ; 2-1; River Plate (Montevideo)
 ; Peñarol             ; 3-1; Racing (Montevideo)
 ; Rampla Juniors      ; 2-1; Montevideo Wanderers
@@ -96,7 +96,7 @@ Round: Round 10
 ; Defensor            ; 3-0; Sud América
 * Nacional             bye
 
-Round: Round 11
+Round: 11
 ; River Plate (Montevideo)         ; 2-0; Sud América
 ; Nacional            ; 4-2; Defensor
 ; Racing (Montevideo)              ; 0-0; Bella Vista
@@ -104,7 +104,7 @@ Round: Round 11
 ; Central             ; 2-1; Rampla Juniors
 * Peñarol              bye
 
-Round: Round 12
+Round: 12
 ; Peñarol             ; 2-1; Liverpool
 ; Nacional           ; 10-0; River Plate (Montevideo)
 ; Racing (Montevideo)              ; 2-1; Montevideo Wanderers
@@ -112,7 +112,7 @@ Round: Round 12
 ; Sud América         ; 3-3; Rampla Juniors
 * Defensor             bye
 
-Round: Round 13
+Round: 13
 ; Nacional            ; 3-0; Montevideo Wanderers
 ; Peñarol             ; 2-0; Defensor
 ; Bella Vista         ; 1-1; Sud América
@@ -120,7 +120,7 @@ Round: Round 13
 ; Rampla Juniors      ; 2-0; Racing (Montevideo)
 * River Plate (Montevideo)          bye
 
-Round: Round 14
+Round: 14
 ; Peñarol             ; 1-0; Bella Vista
 ; Nacional            ; 2-0; Central
 ; Sud América         ; 4-2; Racing (Montevideo)
@@ -128,7 +128,7 @@ Round: Round 14
 ; River Plate (Montevideo)         ; 3-1; Liverpool
 * Montevideo Wanderers bye
 
-Round: Round 15
+Round: 15
 ; Nacional            ; 3-0; Rampla Juniors
 ; Racing (Montevideo)              ; 2-0; Liverpool
 ; Defensor            ; 1-1; River Plate (Montevideo)
@@ -136,7 +136,7 @@ Round: Round 15
 ; Peñarol             ; 6-1; Sud América
 * Central              bye
 
-Round: Round 16
+Round: 16
 ; Peñarol             ; 7-0; River Plate (Montevideo)
 ; Nacional            ; 2-1; Liverpool
 ; Central             ; 3-2; Defensor
@@ -144,7 +144,7 @@ Round: Round 16
 ; Montevideo Wanderers; 3-2; Sud América
 * Racing (Montevideo)               bye
 
-Round: Round 17
+Round: 17
 ; Racing (Montevideo)              ; 2-1; Nacional
 ; Montevideo Wanderers; 2-2; Peñarol
 ; River Plate (Montevideo)         ; 1-1; Rampla Juniors
@@ -152,7 +152,7 @@ Round: Round 17
 ; Central             ; 4-1; Sud América
 * Bella Vista          bye
 
-Round: Round 18
+Round: 18
 ; Peñarol             ; 2-1; Central
 ; Nacional            ; 1-1; Bella Vista
 ; Montevideo Wanderers; 1-1; Defensor
@@ -160,7 +160,7 @@ Round: Round 18
 ; Sud América         ; 2-0; Liverpool
 * Rampla Juniors       bye
 
-Round: Round 19
+Round: 19
 ; Nacional            ; 2-2; Sud América
 ; Peñarol             ; 5-2; Rampla Juniors
 ; Central             ; 1-0; Montevideo Wanderers
@@ -168,7 +168,7 @@ Round: Round 19
 ; Defensor            ; 2-2; Racing (Montevideo)
 * Liverpool            bye
 
-Round: Round 20
+Round: 20
 ; River Plate (Montevideo)         ; 1-1; Montevideo Wanderers
 ; Rampla Juniors      ; 0-0; Liverpool
 ; Defensor            ; 3-2; Bella Vista
@@ -176,7 +176,7 @@ Round: Round 20
 ; Nacional            ; 2-1; Peñarol
 * Sud América          bye
 
-Round: Round 21
+Round: 21
 ; Central             ; 2-0; River Plate (Montevideo)
 ; Peñarol             ; 4-2; Racing (Montevideo)
 ; Montevideo Wanderers; 4-1; Rampla Juniors
@@ -184,7 +184,7 @@ Round: Round 21
 ; Defensor            ; 1-0; Sud América
 * Nacional             bye
 
-Round: Round 22
+Round: 22
 ; River Plate (Montevideo)         ; 4-1; Sud América
 ; Nacional            ; 2-2; Defensor
 ; Bella Vista         ; 1-0; Racing (Montevideo)

@@ -54,6 +54,7 @@ l = [
         'location': 'Evanston, IL',
         },
 
+
     {
         'name': 'Benedictine University Sports Complex Stadium',
         'location': 'Lisle, IL',
@@ -165,7 +166,6 @@ l = [
         'width': 75,
         'measure': 'yards',
         },        
-    
     
     
     {

@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablese/ecua01.html
-Season: 2001 Apertura
+Season: 2001 
 Competition: Ecuadorian Serie A
+
+Stage: Apertura
 
 * 1.El Nacional            18 11  4  3 33-20 37  [3]  Qualified
 * 2.Espoli                 18  9  5  4 34-22 32  [2]  Qualified
@@ -255,7 +257,9 @@ Date: 6/24/2001
 *For the final Liguilla, El Nacional obtain 3 bonus points, Espoli 2, Olmedo 1.
 
 
-Season: 2001 Clausura
+Season: 2001 
+
+Stage: Clausura
 *Second Stage (Torneo Clausura)
 
 * 1.Emelec                 18 11  2  5 25-13 35  [3]  Qualified
@@ -513,7 +517,8 @@ Date: 10/28/2001
 *10.LDU Portoviejo         36  7  6 23 38-74 27  Relegated
 
 
-Season: 2001 Liguilla
+Season: 2001 
+Stage: Liguilla
 
 *Final Table:
 * 1.Emelec                 10  6  1  3 13-11 22  [3]  Champions

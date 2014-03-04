@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru03.html
 Competition: Uruguayan Primera Division
-Season: 2003 Apertura
+Season: 2003 
 home-first
+
+Stage: Apertura
 
 *NB: Clasificatorio was abolished; 2 tournaments (Apertura and
 *    Clausura, both 17 rounds); winners to play off for championship
@@ -630,7 +632,8 @@ Date: 6/29/2003
 *    table will be relegated.
 
 
-Season: 2003 Clausura
+Season: 2003 
+Stage: Clausura
 
 * 1.CA Peñarol                    17 12  3  2  30-13  39  Clausura winners
 * 2.Liverpool FC                  17  9  4  4  23-15  31
@@ -1279,7 +1282,8 @@ Date: 11/30/2003
 *    table will be relegated.
 
 
-Season: 2003 Championship Playoff
+Season: 2003 
+Stage: Campeonato
 
 Round: Semifinal 
 *(Apertura/Clausura Playoff) 

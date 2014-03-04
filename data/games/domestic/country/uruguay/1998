@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesu/uru98.html
 Competition: Uruguayan Primera Division
-Season: 1998 Apertura
+Season: 1998 
+
+Stage: Apertura
 
 * 1.Nacional          11  9  0  2  32-14  27
 * 2.Bella Vista       11  5  5  1  10- 7  20
@@ -152,7 +154,9 @@ Date: 6/6/1998
 *Nacional Apertura champions.
 
 
-Season: 1998 Clausura
+Season: 1998 
+
+Stage: Clausura
 
 * 1.Nacional          11  7  2  2  19- 8  23
 * 2.Rentistas         11  6  4  1   9- 3  22
@@ -353,7 +357,8 @@ Date: 10/18/1998
 * 2.Peñarol                    82     37    119
 * 1.Nacional                   86     50    136
 
-Season: 1998 Promotion/Relegation Playoffs
+Season: 1998 
+Stage: Promotion/Relegation Playoffs
 
 *First Leg 
 11/14/1998; Maldonado  ; 2-3; Rampla Juniors

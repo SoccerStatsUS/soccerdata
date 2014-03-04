@@ -62,6 +62,10 @@ l = [
         'name': 'White Pine Stadium',
         'location': 'Saginaw Township, MI',
         },
+    {
+        'name': 'U-M Soccer Stadium',
+        'location': 'Ann Arbor, MI',
+        },
 
     {
         'name': 'East Grand Rapids Memorial Field',

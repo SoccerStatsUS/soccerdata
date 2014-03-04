@@ -99,6 +99,18 @@ l = [
         },
 
     {
+        'name': 'Webster Municipal Stadium',
+        'location': 'Webster, NY',
+        },
+
+    {
+        'name': 'Berman Field',
+        'location': 'Ithaca, NY',
+        'opened': 2000,
+        'capacity': 1000,
+        },
+
+    {
         'name': 'Feltman\'s Park',
         'location': 'Maspeth, NY',
         },

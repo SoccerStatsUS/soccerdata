@@ -6,6 +6,219 @@ import datetime
 l = [
 
 
+    { 
+        'name': 'Norristown Association',
+        'city': 'Norristown, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Fever',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Independence',
+        'city': 'Philadelphia, PA',
+        'founded': 2009,
+        'dissolved': 2012,
+        },
+
+    { 
+        'name': 'Pittsburgh Spirit',
+        'city': 'Pittsburgh, PA',
+        },
+
+    { 
+        'name': 'Widener Military Academy',
+        'city': 'Chester, PA',
+        },
+
+
+    { 
+        'name': 'Philadelphia Senecas',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Kensington Rovers',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Irish Nationalists',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia South Ends',
+        'city': 'Philadelphia, PA',
+        },
+    { 
+        'name': 'Philadelphia North Ends',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Frankfords',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Manayunks',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Oxfords',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Nicetowns',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Enterprises',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia North End Alexanders',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia North End Astins',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Thistles',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Athletics',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Celtics',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Corinthians',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Nondescripts',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Wanderers',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Orianas',
+        'city': 'Philadelphia, PA',
+        },
+
+    {
+
+        'name': 'Chester Town Team',
+        'city': 'Chester, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Association',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Philadelphia Shamrocks',
+        'city': 'Philadelphia, PA',
+        },
+
+    { 
+        'name': 'Pittsburgh East End Gym',
+        'city': 'Pittsburgh, PA',
+        },
+
+    { 
+        'name': 'Wilkes-Barre Lace Factory',
+        'city': 'Wilkes-Barre, PA',
+        },
+
+    { 
+        'name': 'Wilkes-Barre Oliphants',
+        'city': 'Wilkes-Barre, PA',
+        },
+
+    { 
+        'name': 'Wilkes-Barre Wantibes',
+        'city': 'Wilkes-Barre, PA',
+        },
+
+    { 
+        'name': 'Wilkes-Barre North Ends',
+        'city': 'Wilkes-Barre, PA',
+        },
+
+    { 
+        'name': 'Wilkes-Barre Shamrocks',
+        'city': 'Wilkes-Barre, PA',
+        },
+
+    { 
+        'name': 'Scranton Caledonians',
+        'city': 'Scranton, PA',
+        },
+
+    { 
+        'name': 'Chester Eddystones',
+        'city': 'Chester, PA',
+        },
+
+    { 
+        'name': 'Chester Volunteers',
+        'city': 'Chester, PA',
+        },
+
+    { 
+        'name': 'Lafayette College',
+        'city': 'Easton, PA',
+        },
+
+    { 
+        'name': 'West Chester University',
+        'city': 'West Chester, PA',
+        },
+
+    { 
+        'name': 'Wilkes-Barre Albions',
+        'city': 'Wilkes-Barre, PA',
+        },
+
+    { 
+        'name': 'Indiana Normal School',
+        'city': 'Indiana, PA',
+        },
+
+    { 
+        'name': 'Indiana Town Team',
+        'city': 'Indiana, PA',
+        },
+
+    { 
+        'name': 'Indiana FBC',
+        'city': 'Indiana, PA',
+        },
+
     # division 1
 
     {
@@ -51,6 +264,8 @@ l = [
         'name': 'Philadelphia Union Reserves',
         'city': 'Philadelphia, PA',
         },
+
+
 
 
     # USL

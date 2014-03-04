@@ -1,6 +1,7 @@
 Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1972.htm
 Season: 1972
+home-first
 
 *ABC FC (Natal-RN)                      Grêmio FBPA (Porto Alegre-RS)
 *América FC (Belo Horizonte-MG)         SC Internacional (Porto Alegre-RS)
@@ -40,7 +41,7 @@ Date: 9/10/1972
 
 ; Náutico       ; 0-0;  Santa Cruz
 
-;; Atlético-MG;    0-1  Vasco da Gama
+; Atlético-MG;    0-1;  Vasco da Gama
 ;  Roberto Dinamite
 
 ; Grêmio        ; 2-0;  São Paulo
@@ -83,7 +84,7 @@ Date: 9/13/1972
 ; Sergipe       ; 0-1;  Santos
 ;  Pelé
 
-;; América-MG;     0-0  Corinthians
+; América-MG;     0-0;  Corinthians
 
 ; Nacional      ; 0-0;  Flamengo
 
@@ -116,7 +117,7 @@ Date: 9/17/1972
 ; Vitória       ; 1-0;  Santos
   Almiro;
 
-;; América-MG;     2-2  Portuguesa
+; América-MG;     2-2;  Portuguesa
   Pedro Omar, Hélio; Basílio, Basilio
 
 ; CRB           ; 1-4;  Cruzeiro
@@ -177,7 +178,7 @@ Date: 9/21/1972
 ; São Paulo     ; 1-1;  Portuguesa
   Toninho; Enéas
 
-;; América-MG;     0-0  Fluminense
+; América-MG;     0-0;  Fluminense
 
 ; Flamengo      ; 1-0;  Atlético-MG
   Doval;
@@ -276,7 +277,7 @@ Date: 9/30/1972
 
 Date: 10/1/1972
 
-;; Atlético-MG;    2-0  Coritiba
+; Atlético-MG;    2-0;  Coritiba
   Dario, Dario;
 
 ; Nacional      ; 2-2;  Internacional
@@ -317,7 +318,7 @@ Date: 10/4/1972
 ; CRB           ; 1-3;  Palmeiras
   Rubem Salim; Ademir, Ademir, Nei
 
-;; América-GB;     2-0  Atlético-MG
+; América-GB;     2-0;  Atlético-MG
   Tarciso, Antônio Carlos;
 
 ; Coritiba      ; 2-0;  América-MG
@@ -379,7 +380,7 @@ Date: 10/8/1972
 ; Nacional      ; 2-0;  Portuguesa
   Campos, Campos;
 
-;; Atlético-MG;    5-0  Vitória
+; Atlético-MG;    5-0;  Vitória
   Dario, Dario, Dario, Romeu, Romeu;
 
 ; Vasco da Gama ; 1-2;  Flamengo
@@ -446,7 +447,7 @@ Date: 10/14/1972
 
 Date: 10/15/1972
 
-;; Atlético-MG;    2-0  Fluminense
+; Atlético-MG;    2-0;  Fluminense
   Denílson (own goal), China;
 
 ; Palmeiras     ; 1-0;  Portuguesa
@@ -491,7 +492,7 @@ Date: 10/18/1972
 ; Remo          ; 1-1;  Ceará
   Roberto; Samuel
 
-;; Atlético-MG;    0-3  Palmeiras
+; Atlético-MG;    0-3;  Palmeiras
 ;  Nei, Leivinha, Fedato
 
 ; Santa Cruz    ; 2-1;  Nacional
@@ -505,18 +506,18 @@ Date: 10/18/1972
 
 Date: 10/19/1972
 
-;; América-MG;     0-0  Vasco da Gama
+; América-MG;     0-0;  Vasco da Gama
 
 ; Internacional ; 0-0;  Botafogo
 
-;; América-GB;     0-2  Santos
+; América-GB;     0-2;  Santos
 ;  Alcindo, Nenê
 
 Round: 13
 
 Date: 10/21/1972
 
-;; Atlético-MG;    1-0  Portuguesa
+; Atlético-MG;    1-0;  Portuguesa
   Romeu;
 
 ; São Paulo     ; 0-3;  Fluminense
@@ -655,7 +656,7 @@ Date: 11/1/1972
 ; Internacional ; 0-1;  América-GB
 ;  Tarciso
 
-;; América-MG;     1-1  Santos
+; América-MG;     1-1;  Santos
   Tião; Orlando
 
 ; Santa Cruz    ; 1-1;  CRB
@@ -695,7 +696,7 @@ Date: 11/5/1972
 ; Ceará         ; 1-1;  Cruzeiro
   Erandi; Zé Carlos
 
-;; Atlético-MG;    2-0  Botafogo
+; Atlético-MG;    2-0;  Botafogo
   Vanderlei, Vanderlei;
 
 ; ABC           ; 0-1;  Fluminense
@@ -744,7 +745,7 @@ Date: 11/8/1972
 ; Santa Cruz    ; 3-2;  Botafogo
   Ramón, Ramon, Ramon; Dorinho, Jairzinho
 
-;; América-GB;     3-0  América-MG
+; América-GB;     3-0;  América-MG
   Alex, Alex, Antônio Carlos;
 
 ; CRB           ; 2-6;  São Paulo
@@ -770,7 +771,7 @@ Date: 11/9/1972
 Round: 19
 Date: 11/11/1972
 
-;; América-MG;     2-0  Flamengo
+; América-MG;     2-0;  Flamengo
   Tião, Eli;
 
 ; Botafogo      ; 3-2;  São Paulo
@@ -821,7 +822,7 @@ Date: 11/16/1972
 ; Cruzeiro      ; 2-0;  Portuguesa
   João Ribeiro, Eduardo;
 
-;; Atlético-MG;    0-1  Santos
+; Atlético-MG;    0-1;  Santos
 ;  Nenê
 
 ; Coritiba      ; 1-0;  Vasco da Gama
@@ -870,7 +871,7 @@ Date: 11/19/1972
 ; São Paulo     ; 2-0;  América-GB
   Zé Carlos, Ze Carlos;
 
-;; América-MG;     1-2  Palmeiras
+; América-MG;     1-2;  Palmeiras
   Cândido; Ademir, Leivinha
 
 ; Coritiba      ; 2-3;  Cruzeiro
@@ -909,7 +910,7 @@ Date: 11/22/1972
 
 ; Vasco da Gama ; 0-0;  Bahia
 
-;; Atlético-MG;    4-2  Nacional
+; Atlético-MG;    4-2;  Nacional
   Dario, Dario, Dario, Dario; Pedrilho, Valmir
 
 ; Ceará         ; 0-0;  Botafogo
@@ -1005,7 +1006,7 @@ Date: 11/29/1972
 
 ; CRB           ; 0-0;  Vasco da Gama
 
-;; Atlético-MG;    1-1  América-MG
+; Atlético-MG;    1-1;  América-MG
   Dario; Cândido
 
 ; Sergipe       ; 0-5;  São Paulo
@@ -1027,9 +1028,9 @@ Date: 12/2/1972
 
 Date: 12/3/1972
 
-;; América-GB;     0-0  Corinthians
+; América-GB;     0-0;  Corinthians
 
-;; América-MG;     3-1  Botafogo
+; América-MG;     3-1;  Botafogo
   Hélio, Édson, Generoso; Vânder (own goal)
 
 ; ABC           ; 2-2;  Palmeiras
@@ -1161,7 +1162,7 @@ Date: 12/13/1972
 Round: 3
 Date: 12/16/1972
 
-;; América-GB;     1-0  São Paulo
+; América-GB;     1-0;  São Paulo
   Mauro;
 
 ; Palmeiras     ; 3-0;  Coritiba
@@ -1181,7 +1182,7 @@ Date: 12/9/1972
 
 Date: 12/10/1972
 
-;; Atlético-MG;    0-0  Corinthians
+; Atlético-MG;    0-0;  Corinthians
 
 Round: 2
 Date: 12/13/1972
@@ -1241,7 +1242,7 @@ Date: 12/18/1972
 *------------------------------------------
 * 2.Grêmio            3  1  1  1   2- 2   3
 * 3.Santos            3  1  0  2   3- 3   2
- 4.Santa Cruz        3  1  0  2   3- 7   2
+* 4.Santa Cruz        3  1  0  2   3- 7   2
 
 Round: Semifinals
 Date: 12/20/1972
@@ -1258,8 +1259,10 @@ Date: 12/23/1972
 ; Palmeiras     ; 0-0;  Botafogo; Estadio Morumbi; Agomar Martins; 58287
 *Revenue: Cr$ 649.445,00
 
-Palmeiras: Leão, Eurico, Luís Pereira, Alfredo, Zeca; Dudu (Zé Carlos), Ademir da Guia; Edu (Ronaldo), Leivinha, Madurga, Nei. Coach: Oswaldo Brandão
-Botafogo: Cao, Waltencir, Brito, Osmar, Marinho Chagas; Carlos Roberto, Nei Conceição; Zequinha, Jairzinho, Fischer, Ademir Vicente (Ferretti). Téc.: Sebastião Leônidas
+Palmeiras: Leão, Eurico, Luís Pereira, Alfredo, Zeca; Dudu (Zé Carlos), Ademir da Guia; Edu (Ronaldo), Leivinha, Madurga, Nei. 
+*Coach: Oswaldo Brandão
+Botafogo: Cao, Waltencir, Brito, Osmar, Marinho Chagas; Carlos Roberto, Nei Conceição; Zequinha, Jairzinho, Fischer, Ademir Vicente (Ferretti). 
+*Téc.: Sebastião Leônidas
 
 *SE Palmeiras wins due to better season record
 

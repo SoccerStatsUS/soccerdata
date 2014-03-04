@@ -5,6 +5,143 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'North Grafton Association Foot Ball',
+        'city': 'Grafton, MA',
+        },
+
+    {
+        'name': 'Boston Highlands Team',
+        'city': 'Boston, MA',
+        },
+
+    {
+        'name': 'Boston YMCA',
+        'city': 'Boston, MA',
+        },
+
+    {
+        'name': 'Bostonians Association FBC',
+        'city': 'Boston, MA',
+        },
+
+    {
+        'name': 'Boston Hearts of Oak Cricket FBC',
+        'city': 'Boston, MA',
+        },
+
+    {
+        'name': 'Fall River Volunteers',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Taunton Whittentons',
+        'city': 'Taunton, MA',
+        },
+
+    {
+        'name': 'Phillips Academy Andover',
+        'city': 'Andover, MA',
+        },
+
+    {
+        'name': 'Springfield College (MA)',
+        'city': 'Springfield, MA',
+        },
+
+    {
+        'name': 'Fall River Lindsay Street Rovers',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Athletes',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Dodgers',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Clippers',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Eagles',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Celtics',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Pacifics',
+        'city': 'Fall River, MA',
+        },
+
+
+    {
+        'name': 'Fall River Old Roads',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Mechanics',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Fall River Chelseas',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'Worcester City Crickets',
+        'city': 'Worcester, MA',
+        },
+
+    {
+        'name': 'Manchester Celtic Rovers', # not certain?
+        'city': 'Manchester-by-the-Sea, MA',
+        },
+
+    {
+        'name': 'Holyoke Scotia Athletics',
+        'city': 'Holyoke, MA',
+        },
+
+    {
+        'name': 'Woburn Olympics',
+        'city': 'Woburn, MA',
+        },
+
+    {
+        'name': 'North Adams Blackinton Druids',
+        'city': 'North Adams, MA',
+        },
+
+    {
+        'name': 'Lowell Thistles',
+        'city': 'Lowell, MA',
+        },
+
+    {
+        'name': 'Worcester Crescents',
+        'city': 'Worcester, MA',
+        },
+
+    {
+        'name': 'New Bedford North Ends',
+        'city': 'New Bedford, MA',
+        },
+
     # Division 1
 
 
@@ -14,6 +151,7 @@ l = [
         'dissolved': 1894,
         'city': 'Boston, MA',
         },
+
 
     {
         'name': 'Fall River Marksmen',
@@ -154,7 +292,12 @@ l = [
         },
 
     {
-        'name': 'New Bedford Portuguese SC',
+        'name': 'Fall River SC',
+        'city': 'Fall River, MA',
+        },
+
+    {
+        'name': 'New Bedford Portuguese',
         'city': 'New Bedford, MA',
         },
 
@@ -260,9 +403,6 @@ l = [
         'name': 'Fall River Wamsuttas',
         'city': 'Fall River, MA',
         },
-
-
-
 
     {
         'name': 'Cambridge Faialense',

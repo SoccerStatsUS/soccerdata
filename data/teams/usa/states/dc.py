@@ -5,6 +5,27 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Gallaudet College',
+        'city': 'Washington DC',
+        },
+    {
+        'name': 'Washington Mustangs',
+        'city': 'Washington DC',
+        },
+
+    {
+        'name': 'Capitol Bicycle Club',
+        'city': 'Washington DC',
+        },
+
+    {
+        'name': 'Washington Cosmopolitans',
+        'city': 'Washington DC',
+        },
+
+
+
     # division 1
 
     {

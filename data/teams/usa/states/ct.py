@@ -6,6 +6,32 @@ import datetime
 l = [
 
     {
+        'name': 'Norwich Free Academy',
+        'city': 'Norwich, CT',
+        },
+
+    {
+        'name': 'Bulkeley School',
+        'city': 'New London, CT',
+        },
+
+    {
+        'name': 'Wesleyan University',
+        'city': 'Middletown, CT',
+        },
+
+    {
+        'name': 'Quinnipiac University',
+        'city': 'Hamden, CT',
+        },
+
+
+    {
+        'name': 'Middletown Town Team',
+        'city': 'Middletown, CT',
+        },
+
+    {
         'name': 'Hartford Americans',
         'founded': 1927,
         'dissolved': 1928,

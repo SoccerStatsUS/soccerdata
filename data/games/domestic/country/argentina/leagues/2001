@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg02.html
 Season: 2001-2002 Apertura
 Competition: Liga Argentina de Football
+home-first
  
 * 1.Racing Club             19 12  6  1 34-17 42 [Apertura Champions]
 * 2.River Plate             19 12  5  2 51-16 41
@@ -167,7 +168,7 @@ Date: 9/2/2001
   Rivarola;
 
 ; San Lorenzo        ; 2-1;  Vélez Sarsfield  
-  Romagnoli (2); F. Domínguez (pk)
+  Romagnoli, Romagnoli; F. Domínguez (pk)
 
 ; Colón (SF)         ; 1-0;  Banfield 
   Graf;
@@ -1123,7 +1124,7 @@ Date: 3/31/2002
   Farías, Farias, Maggiolo; Raggio, Ortiz
 
 ; San Lorenzo        ; 3-3;  Gimnasia (LP)        
-  Rodríguez, Acosta, Bevacqua; Sava (2), Messera
+  Rodríguez, Acosta, Bevacqua; Sava, Sava, Messera
 
 ; Belgrano (Cba)     ; 1-0;  Chacarita Juniors    
   Brusco;

@@ -38,465 +38,638 @@ Competition: Nemzeti Bajnokság I
 *17.Szeged LC                   17  3  5  9  13-38 14
 
 Round: 1
-[Aug 6]
-FTC            1-2 Vasas
-Kispest        2-0 Haladas
-[Aug 7]
-DVSC           2-1 Dunaferr
-Tatabanya      1-0 Vac
-Diosgyor       2-2 Nyirseg
-Szeged         1-1 Gyor            [annulled]         
-Siofok         0-1 Gazszer
-[Aug 8]
-Nagykanizsa    0-0 ZTE
-[Nov 30]
-UTE            1-1 MTK
+Date: 8/6/1999
+
+; FTC           ; 1-2; Vasas
+; Kispest       ; 2-0; Haladas
+
+Date: 8/7/1999
+
+; DVSC          ; 2-1; Dunaferr
+; Tatabanya     ; 1-0; Vac
+; Diosgyor      ; 2-2; Nyirseg
+; Szeged        ; 1-1; Gyor            
+*[annulled]         
+; Siofok        ; 0-1; Gazszer
+
+Date: 8/8/1999
+
+; Nagykanizsa   ; 0-0; ZTE
+
+Date: 11/30/1999
+
+; UTE           ; 1-1; MTK
 
 Round: 2
-[Aug 13]
-Vasas          2-0 Kispest
-[Aug 14]
-Nyirseg        2-1 DVSC
-MTK            3-0 Tatabanya
-Vac            3-4 Nagykanizsa
-Gyor           4-0 Diosgyor
-ZTE            4-0 Siofok
-Haladas        2-1 Szeged          [annulled]      
-[Aug 15]
-Gazszer        3-2 FTC
-Dunaferr       4-0 UTE
+Date: 8/13/1999
+
+; Vasas         ; 2-0; Kispest
+
+Date: 8/14/1999
+
+; Nyirseg       ; 2-1; DVSC
+; MTK           ; 3-0; Tatabanya
+; Vac           ; 3-4; Nagykanizsa
+; Gyor          ; 4-0; Diosgyor
+; ZTE           ; 4-0; Siofok
+; Haladas       ; 2-1; Szeged          
+*[annulled]      
+
+Date: 8/15/1999
+
+; Gazszer       ; 3-2; FTC
+; Dunaferr      ; 4-0; UTE
 
 Round: 3 
-[Aug 20]
-Kispest        0-0 Gazszer
-Nagykanizsa    1-1 MTK
-[Aug 21]
-FTC            1-1 ZTE
-Siofok         1-0 Vac
-DVSC           2-0 Diosgyor
-Gyor           4-1 Haladas
-Tatabanya      3-3 Dunaferr
-UTE            4-0 Nyirseg
-Szeged         0-2 Vasas           [annulled]      
+Date: 8/20/1999
+
+; Kispest       ; 0-0; Gazszer
+; Nagykanizsa   ; 1-1; MTK
+
+Date: 8/21/1999
+
+; FTC           ; 1-1; ZTE
+; Siofok        ; 1-0; Vac
+; DVSC          ; 2-0; Diosgyor
+; Gyor          ; 4-1; Haladas
+; Tatabanya     ; 3-3; Dunaferr
+; UTE           ; 4-0; Nyirseg
+; Szeged        ; 0-2; Vasas           
+*[annulled]      
 
 Round: 4 
-[Aug 27]
-ZTE            2-0 Kispest
-[Aug 28]
-Nyirseg        1-1 Tatabanya
-Vasas          2-0 Haladas
-Dunaferr       2-1 Nagykanizsa
-DVSC           1-0 Gyor
-Gazszer        4-1 Szeged          [annulled]    
-MTK            2-1 Siofok
-[Aug 29]
-Vac            0-2 FTC
-Diosgyor       4-1 UTE
+Date: 8/27/1999
+
+; ZTE           ; 2-0; Kispest
+
+Date: 8/28/1999
+
+; Nyirseg       ; 1-1; Tatabanya
+; Vasas         ; 2-0; Haladas
+; Dunaferr      ; 2-1; Nagykanizsa
+; DVSC          ; 1-0; Gyor
+; Gazszer       ; 4-1; Szeged          
+*[annulled]    
+; MTK           ; 2-1; Siofok
+
+Date: 8/29/1999
+
+; Vac           ; 0-2; FTC
+; Diosgyor      ; 4-1; UTE
 
 Round: 5
-[Sep 10]
-Kispest        5-1 Vac
-Gyor           2-0 Vasas
-UTE            2-2 DVSC
-[Sep 11]
-FTC            1-0 MTK
-Tatabanya      2-1 Diosgyor
-Szeged         1-0 ZTE             [annulled]        
-Siofok         1-1 Dunaferr
-Haladas        1-3 Gazszer
-[Sep 12]
-Nagykanizsa    1-0 Nyirseg
+Date: 9/10/1999
+
+; Kispest       ; 5-1; Vac
+; Gyor          ; 2-0; Vasas
+; UTE           ; 2-2; DVSC
+
+Date: 9/11/1999
+
+; FTC           ; 1-0; MTK
+; Tatabanya     ; 2-1; Diosgyor
+; Szeged        ; 1-0; ZTE             
+*[annulled]        
+; Siofok        ; 1-1; Dunaferr
+; Haladas       ; 1-3; Gazszer
+
+Date: 9/12/1999
+
+; Nagykanizsa   ; 1-0; Nyirseg
 
 Round: 6
-[Sep 17]
-UTE            1-1 Gyor
-[Sep 18]
-Gazszer        3-2 Vasas
-Diosgyor       1-1 Nagykanizsa
-ZTE            0-1 Haladas
-Vac            1-1 Szeged          [annulled]     
-Nyirseg        awd Siofok          [awarded 3-0, Siofok dns]
-[Sep 19]
-DVSC           1-3 Tatabanya
-Dunaferr       1-0 FTC
-[Sep 20]
-MTK            4-0 Kispest
+Date: 9/17/1999
+
+; UTE           ; 1-1; Gyor
+
+Date: 9/18/1999
+
+; Gazszer       ; 3-2; Vasas
+; Diosgyor      ; 1-1; Nagykanizsa
+; ZTE           ; 0-1; Haladas
+; Vac           ; 1-1; Szeged          
+*[annulled]     
+*; Nyirseg        awd Siofok          [awarded; 3-0,; Siofok dns]
+
+Date: 9/19/1999
+
+; DVSC          ; 1-3; Tatabanya
+; Dunaferr      ; 1-0; FTC
+
+Date: 9/20/1999
+
+; MTK           ; 4-0; Kispest
 
 Round: 7
-[Sep 24]
-Nagykanizsa    1-1 DVSC
-Kispest        2-2 Dunaferr
-Gyor           0-1 Gazszer
-[Sep 25]
-Tatabanya      0-2 UTE
-Vasas          1-0 ZTE
-Haladas        2-3 Vac
-Szeged         1-2 MTK             [annulled]         
-FTC            4-0 Nyirseg
-Siofok         0-2 Diosgyor
+Date: 9/24/1999
+
+; Nagykanizsa   ; 1-1; DVSC
+; Kispest       ; 2-2; Dunaferr
+; Gyor          ; 0-1; Gazszer
+
+Date: 9/25/1999
+
+; Tatabanya     ; 0-2; UTE
+; Vasas         ; 1-0; ZTE
+; Haladas       ; 2-3; Vac
+; Szeged        ; 1-2; MTK             
+*[annulled]         
+; FTC           ; 4-0; Nyirseg
+; Siofok        ; 0-2; Diosgyor
 
 Round: 8
-[Oct 1]
-UTE            3-1 Nagykanizsa 
-[Oct 2]
-Tatabanya      1-1 Gyor
-Dunaferr       9-0 Szeged          [annulled]  
-Nyirseg        1-0 Kispest
-Vac            1-3 Vasas
-ZTE            5-0 Gazszer
-[Oct 3]
-DVSC           1-0 Siofok
-Diosgyor       0-0 FTC
-MTK            2-2 Haladas
+Date: 10/1/1999
+
+; UTE           ; 3-1; Nagykanizsa 
+
+Date: 10/2/1999
+
+; Tatabanya     ; 1-1; Gyor
+; Dunaferr      ; 9-0; Szeged          
+*[annulled]  
+; Nyirseg       ; 1-0; Kispest
+; Vac           ; 1-3; Vasas
+; ZTE           ; 5-0; Gazszer
+
+Date: 10/3/1999
+
+; DVSC          ; 1-0; Siofok
+; Diosgyor      ; 0-0; FTC
+; MTK           ; 2-2; Haladas
 
 Round: 9
-[Oct 15]
-Kispest        2-0 Diosgyor
-[Oct 16]
-FTC            0-1 DVSC
-Szeged         2-1 Nyirseg         [annulled]      
-Gyor           0-0 ZTE
-Gazszer        0-0 Vac
-Vasas          1-2 MTK
-Haladas        0-1 Dunaferr
-[Oct 17]
-Nagykanizsa    0-0 Tatabanya   
-[Oct 18]
-Siofok         1-0 UTE
+Date: 10/15/1999
+
+; Kispest       ; 2-0; Diosgyor
+
+Date: 10/16/1999
+
+; FTC           ; 0-1; DVSC
+; Szeged        ; 2-1; Nyirseg         
+*[annulled]      
+; Gyor          ; 0-0; ZTE
+; Gazszer       ; 0-0; Vac
+; Vasas         ; 1-2; MTK
+; Haladas       ; 0-1; Dunaferr
+
+Date: 10/17/1999
+
+; Nagykanizsa   ; 0-0; Tatabanya   
+
+Date: 10/18/1999
+
+; Siofok        ; 1-0; UTE
 
 Round: 10
-[Oct 22]
-DVSC           1-1 Kispest
-[Oct 23]
-Tatabanya      2-1 Siofok
-Diosgyor       0-0 Szeged          [annulled]     
-Nyirseg        1-0 Haladas
-Dunaferr       1-0 Vasas
-Vac            1-3 ZTE
-[Oct 24]
-Nagykanizsa    2-0 Gyor
-[Oct 25]
-MTK            1-1 Gazszer
-UTE            2-2 FTC
+Date: 10/22/1999
+
+; DVSC          ; 1-1; Kispest
+
+Date: 10/23/1999
+
+; Tatabanya     ; 2-1; Siofok
+; Diosgyor      ; 0-0; Szeged          
+*[annulled]     
+; Nyirseg       ; 1-0; Haladas
+; Dunaferr      ; 1-0; Vasas
+; Vac           ; 1-3; ZTE
+
+Date: 10/24/1999
+
+; Nagykanizsa   ; 2-0; Gyor
+
+Date: 10/25/1999
+
+; MTK           ; 1-1; Gazszer
+; UTE           ; 2-2; FTC
 
 Round: 11
-[Oct 29]
-ZTE            0-0 MTK
-Kispest        1-1 UTE
-[Oct 30]
-Siofok         2-0 Nagykanizsa   
-Haladas        1-0 Diosgyor
-Szeged         0-4 DVSC            [annulled]            
-FTC            0-1 Tatabanya
-Gyor           1-1 Vac
-Gazszer        1-2 Dunaferr
-[Nov 1]
-Vasas          4-0 Nyirseg    
+Date: 10/29/1999
+
+; ZTE           ; 0-0; MTK
+; Kispest       ; 1-1; UTE
+
+Date: 10/30/1999
+
+; Siofok        ; 2-0; Nagykanizsa   
+; Haladas       ; 1-0; Diosgyor
+; Szeged        ; 0-4; DVSC            
+*[annulled]            
+; FTC           ; 0-1; Tatabanya
+; Gyor          ; 1-1; Vac
+; Gazszer       ; 1-2; Dunaferr
+
+Date: 11/1/1999
+
+; Vasas         ; 4-0; Nyirseg    
 
 Round: 12
-[Nov 5]
-UTE            1-0 Szeged          [annulled]         
-[Nov 6]
-Tatabanya      0-0 Kispest
-DVSC           1-1 Haladas
-Diosgyor       1-1 Vasas
-Nyirseg        1-1 Gazszer
-Dunaferr       4-0 ZTE
-MTK            3-0 Vac
-[Nov 7]
-Nagykanizsa    0-2 FTC
-[Nov 8]
-Siofok         0-1 Gyor
+Date: 11/5/1999
+
+; UTE           ; 1-0; Szeged          
+*[annulled]         
+
+Date: 11/6/1999
+
+; Tatabanya     ; 0-0; Kispest
+; DVSC          ; 1-1; Haladas
+; Diosgyor      ; 1-1; Vasas
+; Nyirseg       ; 1-1; Gazszer
+; Dunaferr      ; 4-0; ZTE
+; MTK           ; 3-0; Vac
+
+Date: 11/7/1999
+
+; Nagykanizsa   ; 0-2; FTC
+
+Date: 11/8/1999
+
+; Siofok        ; 0-1; Gyor
 
 Round: 13
-[Nov 12]
-Kispest        0-0 Nagykanizsa
-Vasas          2-0 DVSC
-[Nov 13]
-Vac            1-1 Dunaferr
-Szeged         1-4 Tatabanya       [annulled]    
-ZTE            1-0 Nyirseg
-Gyor           2-3 MTK
-FTC            1-2 Siofok
-Haladas        awd UTE             [awarded 3-0; originally 0-1]
-[Nov 15]
-Gazszer        2-2 Diosgyor
+Date: 11/12/1999
+
+; Kispest       ; 0-0; Nagykanizsa
+; Vasas         ; 2-0; DVSC
+
+Date: 11/13/1999
+
+; Vac           ; 1-1; Dunaferr
+; Szeged        ; 1-4; Tatabanya       
+*[annulled]    
+; ZTE           ; 1-0; Nyirseg
+; Gyor          ; 2-3; MTK
+; FTC           ; 1-2; Siofok
+*; Haladas        awd UTE             [awarded; 3-0;; originally 0-1]
+
+Date: 11/15/1999
+
+; Gazszer       ; 2-2; Diosgyor
 
 Round: 14
-[Nov 20]
-Nyirseg        2-2 Vac
-Dunaferr       1-1 MTK
-FTC            2-2 Gyor
-[Dec 1]
-Nagykanizsa    1-2 Szeged          [annulled]         
-DVSC           1-1 Gazszer
-[Dec 8]
-Siofok         1-0 Kispest
-Diosgyor       2-1 ZTE
-Tatabanya      1-1 Haladas
-UTE            4-1 Vasas
+Date: 11/20/1999
+
+; Nyirseg       ; 2-2; Vac
+; Dunaferr      ; 1-1; MTK
+; FTC           ; 2-2; Gyor
+
+Date: 12/1/1999
+
+; Nagykanizsa   ; 1-2; Szeged          
+*[annulled]         
+; DVSC          ; 1-1; Gazszer
+
+Date: 12/8/1999
+
+; Siofok        ; 1-0; Kispest
+; Diosgyor      ; 2-1; ZTE
+; Tatabanya     ; 1-1; Haladas
+; UTE           ; 4-1; Vasas
 
 Round: 15
-[Nov 26]
-Vasas          3-0 Tatabanya
-[Nov 27]
-ZTE            2-0 DVSC
-MTK            2-0 Nyirseg
-Szeged         1-1 Siofok          [annulled]      
-Vac            0-2 Diosgyor
-Haladas        2-0 Nagykanizsa
-[Nov 29]
-Gyor           2-4 Dunaferr
-[Dec 17]
-Gazszer        1-4 UTE
-[Dec 18]
-Kispest        2-3 FTC
+Date: 11/26/1999
+
+; Vasas         ; 3-0; Tatabanya
+
+Date: 11/27/1999
+
+; ZTE           ; 2-0; DVSC
+; MTK           ; 2-0; Nyirseg
+; Szeged        ; 1-1; Siofok          
+*[annulled]      
+; Vac           ; 0-2; Diosgyor
+; Haladas       ; 2-0; Nagykanizsa
+
+Date: 11/29/1999
+
+; Gyor          ; 2-4; Dunaferr
+
+Date: 12/17/1999
+
+; Gazszer       ; 1-4; UTE
+
+Date: 12/18/1999
+
+; Kispest       ; 2-3; FTC
 
 Round: 16
-[Dec 3]
-UTE            1-1 ZTE
-[Dec 4]
-Tatabanya      0-0 Gazszer
-DVSC           4-1 Vac
-Diosgyor       0-2 MTK
-Nyirseg        1-1 Dunaferr
-Siofok         2-4 Haladas
-Kispest        0-3 Gyor
-FTC            4-0 Szeged          [annulled]       
-[Dec 5]
-Nagykanizsa    1-2 Vasas    
+Date: 12/3/1999
+
+; UTE           ; 1-1; ZTE
+
+Date: 12/4/1999
+
+; Tatabanya     ; 0-0; Gazszer
+; DVSC          ; 4-1; Vac
+; Diosgyor      ; 0-2; MTK
+; Nyirseg       ; 1-1; Dunaferr
+; Siofok        ; 2-4; Haladas
+; Kispest       ; 0-3; Gyor
+; FTC           ; 4-0; Szeged          
+*[annulled]       
+
+Date: 12/5/1999
+
+; Nagykanizsa   ; 1-2; Vasas    
 
 Round: 17
-[Dec 10]
-MTK            1-2 DVSC
-[Dec 11]
-Dunaferr       6-0 Diosgyor
-Vasas          4-0 Siofok
-Szeged         1-1 Kispest         [annulled]      
-Gyor           4-0 Nyirseg
-Vac            0-4 UTE
-ZTE            1-1 Tatabanya
-Haladas        0-2 FTC
-[Dec 13]
-Gazszer        1-0 Nagykanizsa
+Date: 12/10/1999
+
+; MTK           ; 1-2; DVSC
+
+Date: 12/11/1999
+
+; Dunaferr      ; 6-0; Diosgyor
+; Vasas         ; 4-0; Siofok
+; Szeged        ; 1-1; Kispest         
+*[annulled]      
+
+; Gyor          ; 4-0; Nyirseg
+; Vac           ; 0-4; UTE
+; ZTE           ; 1-1; Tatabanya
+; Haladas       ; 0-2; FTC
+
+Date: 12/13/1999
+
+; Gazszer       ; 1-0; Nagykanizsa
 
 Round: 18
-[Feb 26]
-Haladas        1-2 Kispest
-MTK            1-0 UTE
-ZTE            0-0 Nagykanizsa
-PMFC           1-1 Siofok
-Nyirseg        2-0 Diosgyor
-Dunaferr       3-2 DVSC
-Vac            1-1 Tatabanya
-[Feb 28]
-Vasas          3-3 FTC
-Gyor           awd Szeged          [awd 3-0, Szeged dns] [annulled]
+Date: 2/26/2000
+
+; Haladas       ; 1-2; Kispest
+; MTK           ; 1-0; UTE
+; ZTE           ; 0-0; Nagykanizsa
+; PMFC          ; 1-1; Siofok
+; Nyirseg       ; 2-0; Diosgyor
+; Dunaferr      ; 3-2; DVSC
+; Vac           ; 1-1; Tatabanya
+
+Date: 2/28/2000
+
+; Vasas         ; 3-3; FTC
+*; Gyor           awd Szeged          [awd; 3-0,; Szeged dns] [annulled]
 
 Round: 19
-[Mar 3]
-Kispest        0-4 Vasas
-UTE            awd Dunaferr        [abd at 0-1 in 44' due to crowd trouble, awd 0-3]
-Szeged         awd Haladas         [awd 0-3, Szeged dns] [annulled]
-[Mar 4]
-Tatabanya      0-4 MTK
-Siofok         1-1 ZTE
-Diosgyor       2-0 Gyor
-DVSC           2-0 Nyirseg
-FTC            4-1 PMFC
-[Mar 5]
-Nagykanizsa    3-1 Vac
+Date: 3/3/2000
+
+; Kispest       ; 0-4; Vasas
+*; UTE            awd Dunaferr        [abd at; 0-1; in 44' due to crowd trouble, awd 0-3]
+*; Szeged         awd Haladas         [awd; 0-3,; Szeged dns] [annulled]
+
+Date: 3/4/2000
+
+; Tatabanya     ; 0-4; MTK
+; Siofok        ; 1-1; ZTE
+; Diosgyor      ; 2-0; Gyor
+; DVSC          ; 2-0; Nyirseg
+; FTC           ; 4-1; PMFC
+
+Date: 3/5/2000
+
+; Nagykanizsa   ; 3-1; Vac
 
 Round: 20
-[Mar 7]
-PMFC           1-2 Kispest
-Haladas        0-3 Gyor
-Vasas          ppd Szeged          [Szeged dns]
-[Mar 8]
-Dunaferr       2-0 Tatabanya
-Nyirseg        2-1 UTE
-Diosgyor       0-1 DVSC
-ZTE            0-0 FTC
-MTK            3-1 Nagykanizsa
-Vac            1-0 Siofok
+Date: 3/7/2000
+
+; PMFC          ; 1-2; Kispest
+; Haladas       ; 0-3; Gyor
+*Vasas          ppd Szeged          [Szeged dns]
+
+Date: 3/8/2000
+
+; Dunaferr      ; 2-0; Tatabanya
+; Nyirseg       ; 2-1; UTE
+; Diosgyor      ; 0-1; DVSC
+; ZTE           ; 0-0; FTC
+; MTK           ; 3-1; Nagykanizsa
+; Vac           ; 1-0; Siofok
 
 Round: 21
-[Mar 10]
-Haladas        1-2 Vasas
-[Mar 11]
-Tatabanya      2-1 Nyirseg
-Siofok         2-2 MTK
-FTC            8-0 Vac
-Kispest        1-0 ZTE
-Gyor           1-1 DVSC
-UTE            5-0 Diosgyor
-Szeged         ppd PMFC            [Szeged dns]
-[Mar 12]
-Nagykanizsa    0-1 Dunaferr
+
+Date: 3/10/2000
+
+; Haladas       ; 1-2; Vasas
+
+Date: 3/11/2000
+
+; Tatabanya     ; 2-1; Nyirseg
+; Siofok        ; 2-2; MTK
+; FTC           ; 8-0; Vac
+; Kispest       ; 1-0; ZTE
+; Gyor          ; 1-1; DVSC
+; UTE           ; 5-0; Diosgyor
+*Szeged         ppd PMFC            [Szeged dns]
+
+Date: 3/12/2000
+
+; Nagykanizsa   ; 0-1; Dunaferr
 
 Round: 22
-[Mar 17]
-DVSC           2-3 UTE
-[Mar 18]
-Vac            0-1 Kispest
-Dunaferr       3-0 Siofok
-PMFC           1-2 Haladas
-Nyirseg        2-0 Nagykanizsa
-MTK            2-3 FTC
-Vasas          1-0 Gyor
-Diosgyor       1-2 Tatabanya
-ZTE            bye
+
+Date: 3/17/2000
+
+; DVSC          ; 2-3; UTE
+
+Date: 3/18/2000
+
+; Vac           ; 0-1; Kispest
+; Dunaferr      ; 3-0; Siofok
+; PMFC          ; 1-2; Haladas
+; Nyirseg       ; 2-0; Nagykanizsa
+; MTK           ; 2-3; FTC
+; Vasas         ; 1-0; Gyor
+; Diosgyor      ; 1-2; Tatabanya
+*ZTE            bye
  
-Round: 23 [Mar 24,25]
-Gyor           3-1 UTE  
-Vasas          4-0 PMFC     
-Nagykanizsa    2-1 Diosgyor
-Haladas        0-1 ZTE    
-Nyirseg        3-0 Siofok   
-Tatabanya      1-1 DVSC
-FTC            2-2 Dunaferr
-Kispest        0-2 MTK
-Vac            bye
+Round: 23 
+*Date: 3/24,25/2000
+Date: 3/24/2000
+
+; Gyor          ; 3-1; UTE  
+; Vasas         ; 4-0; PMFC     
+; Nagykanizsa   ; 2-1; Diosgyor
+; Haladas       ; 0-1; ZTE    
+; Nyirseg       ; 3-0; Siofok   
+; Tatabanya     ; 1-1; DVSC
+; FTC           ; 2-2; Dunaferr
+; Kispest       ; 0-2; MTK
+*Vac            bye
 
 Round: 24
-[Mar 31]
-Vac            2-4 Haladas
-ZTE            0-0 Vasas
-[Apr 1]
-Dunaferr       2-0 Kispest
-Nyirseg        3-0 FTC
-Diosgyor       0-0 Siofok
-DVSC           3-0 Nagykanizsa
-PMFC           1-1 Gyor
-UTE            0-1 Tatabanya
-MTK            bye
+Date: 3/31/2000
+
+; Vac           ; 2-4; Haladas
+; ZTE           ; 0-0; Vasas
+
+Date: 4/1/2000
+
+; Dunaferr      ; 2-0; Kispest
+; Nyirseg       ; 3-0; FTC
+; Diosgyor      ; 0-0; Siofok
+; DVSC          ; 3-0; Nagykanizsa
+; PMFC          ; 1-1; Gyor
+; UTE           ; 0-1; Tatabanya
+*MTK            bye
 
 Round: 25
-[Apr 4]
-Kispest        0-1 Nyirseg
-Haladas        0-4 MTK
-Vasas          3-0 Vac
-[Apr 5]
-PMFC           2-2 ZTE
-Nagykanizsa    1-1 UTE
-Siofok         4-1 DVSC
-Gyor           0-1 Tatabanya  
-FTC            2-0 Diosgyor
-Dunaferr       bye
+Date: 4/4/2000
+
+; Kispest       ; 0-1; Nyirseg
+; Haladas       ; 0-4; MTK
+; Vasas         ; 3-0; Vac
+
+Date: 4/5/2000
+
+; PMFC          ; 2-2; ZTE
+; Nagykanizsa   ; 1-1; UTE
+; Siofok        ; 4-1; DVSC
+; Gyor          ; 0-1; Tatabanya  
+; FTC           ; 2-0; Diosgyor
+*Dunaferr       bye
 
 Round: 26
-[Apr 7]
-MTK            0-0 Vasas
-[Apr 8]
-Dunaferr       2-1 Haladas
-Tatabanya      1-0 Nagykanizsa
-Vac            1-2 PMFC
-DVSC           3-0 FTC
-UTE            2-0 Siofok
-ZTE            2-1 Gyor
-[Apr 9]
-Diosgyor       1-3 Kispest
-Nyirseg        bye
+Date: 4/7/2000
+
+; MTK           ; 0-0; Vasas
+
+Date: 4/8/2000
+
+; Dunaferr      ; 2-1; Haladas
+; Tatabanya     ; 1-0; Nagykanizsa
+; Vac           ; 1-2; PMFC
+; DVSC          ; 3-0; FTC
+; UTE           ; 2-0; Siofok
+; ZTE           ; 2-1; Gyor
+
+Date: 4/9/2000
+
+; Diosgyor      ; 1-3; Kispest
+*Nyirseg        bye
 
 Round: 27
-[Apr 14]
-Vasas          0-2 Dunaferr
-Kispest        1-0 DVSC
-[Apr 15]
-Siofok         1-3 Tatabanya
-PMFC           0-1 MTK
-FTC            0-0 UTE
-Haladas        1-1 Nyirseg
-Gyor           4-0 Nagykanizsa
-ZTE            1-2 Vac
-Diosgyor       bye
+Date: 4/14/2000
+
+; Vasas         ; 0-2; Dunaferr
+; Kispest       ; 1-0; DVSC
+
+Date: 4/15/2000
+
+; Siofok        ; 1-3; Tatabanya
+; PMFC          ; 0-1; MTK
+; FTC           ; 0-0; UTE
+; Haladas       ; 1-1; Nyirseg
+; Gyor          ; 4-0; Nagykanizsa
+; ZTE           ; 1-2; Vac
+*Diosgyor       bye
 
 Round: 28
-[Apr 21]
-UTE            0-0 Kispest
-[Apr 22]
-Tatabanya      2-1 FTC
-Diosgyor       1-1 Haladas
-Nyirseg        0-2 Vasas
-Vac            1-4 Gyor
-Dunaferr       3-1 PMFC
-MTK            3-1 ZTE
-[Apr 23]
-Nagykanizsa    1-0 Siofok
-DVSC           bye
+Date: 4/21/2000
+
+; UTE           ; 0-0; Kispest
+
+Date: 4/22/2000
+
+; Tatabanya     ; 2-1; FTC
+; Diosgyor      ; 1-1; Haladas
+; Nyirseg       ; 0-2; Vasas
+; Vac           ; 1-4; Gyor
+; Dunaferr      ; 3-1; PMFC
+; MTK           ; 3-1; ZTE
+
+Date: 4/23/2000
+
+; Nagykanizsa   ; 1-0; Siofok
+*DVSC           bye
 
 Round: 29
-[Apr 28]
-Kispest        0-0 Tatabanya
-[Apr 29]
-Haladas        3-1 DVSC
-FTC            3-0 Nagykanizsa
-PMFC           3-0 Nyirseg
-ZTE            1-4 Dunaferr
-Vasas          2-0 Diosgyor
-Gyor           1-1 Siofok
-Vac            0-5 MTK
-UTE            bye
+Date: 4/28/2000
+
+; Kispest       ; 0-0; Tatabanya
+
+Date: 4/29/2000
+
+; Haladas       ; 3-1; DVSC
+; FTC           ; 3-0; Nagykanizsa
+; PMFC          ; 3-0; Nyirseg
+; ZTE           ; 1-4; Dunaferr
+; Vasas         ; 2-0; Diosgyor
+; Gyor          ; 1-1; Siofok
+; Vac           ; 0-5; MTK
+*UTE            bye
 
 Round: 30
-[May 5]
-UTE            0-0 Haladas
-[May 6]
-Siofok         2-4 FTC
-Dunaferr       7-0 Vac
-Nyirseg        0-0 ZTE
-Diosgyor       1-2 PMFC
-DVSC           4-2 Vasas
-[May 7]
-Nagykanizsa    0-1 Kispest
-MTK            4-0 Gyor
-Tatabanya      bye
+Date: 5/5/2000
+
+; UTE           ; 0-0; Haladas
+
+Date: 5/6/2000
+
+; Siofok        ; 2-4; FTC
+; Dunaferr      ; 7-0; Vac
+; Nyirseg       ; 0-0; ZTE
+; Diosgyor      ; 1-2; PMFC
+; DVSC          ; 4-2; Vasas
+
+Date: 5/7/2000
+
+; Nagykanizsa   ; 0-1; Kispest
+; MTK           ; 4-0; Gyor
+*Tatabanya      bye
 
 Round: 31
-[May 12]
-Vac            0-1 Nyirseg
-Vasas          3-0 UTE
-Gyor           2-1 FTC
-Kispest        1-1 Siofok
-[May 13]
-MTK            1-4 Dunaferr 
-PMFC           2-0 DVSC
-ZTE            0-0 Diosgyor
-Haladas        1-1 Tatabanya 
-Nagykanizsa    bye 
+Date: 5/12/2000
 
-Round: 32 [May 17]
-FTC            1-0 Kispest 
-Dunaferr       1-0 Gyor 
-Nyirseg        0-0 MTK
-Diosgyor       1-1 Vac  
-DVSC           2-2 ZTE
-UTE            1-2 PMFC 
-Tatabanya      2-0 Vasas 
-Nagykanizsa    1-1 Haladas
-Siofok         bye 
+; Vac           ; 0-1; Nyirseg
+; Vasas         ; 3-0; UTE
+; Gyor          ; 2-1; FTC
+; Kispest       ; 1-1; Siofok
 
-Round: 33 [May 20]
-Gyor           4-0 Kispest
-Haladas        0-1 Siofok
-Vasas          1-4 Nagykanizsa
-PMFC           2-2 Tatabanya
-ZTE            1-1 UTE
-Vac            0-5 DVSC
-MTK            3-1 Diosgyor
-Dunaferr       2-0 Nyirseg
-FTC            bye
+Date: 5/13/2000
 
-Round: 34 [May 27]
-Nyirseg        2-1 Gyor 
-DVSC           3-1 MTK 
-UTE            1-0 Vac 
-Tatabanya      2-1 ZTE
-Nagykanizsa    1-1 PMFC
-Siofok         0-1 Vasas 
-FTC            6-2 Haladas
-Diosgyor       awd Dunaferr        [awarded 0-3; abandoned at 1-2 in 23']
-Kispest        bye
+; MTK           ; 1-4; Dunaferr 
+; PMFC          ; 2-0; DVSC
+; ZTE           ; 0-0; Diosgyor
+; Haladas       ; 1-1; Tatabanya 
+*Nagykanizsa    bye 
+
+Round: 32 
+Date: 5/17/2000
+
+; FTC           ; 1-0; Kispest 
+; Dunaferr      ; 1-0; Gyor 
+; Nyirseg       ; 0-0; MTK
+; Diosgyor      ; 1-1; Vac  
+; DVSC          ; 2-2; ZTE
+; UTE           ; 1-2; PMFC 
+; Tatabanya     ; 2-0; Vasas 
+; Nagykanizsa   ; 1-1; Haladas
+*Siofok         bye 
+
+Round: 33 
+Date: 5/20/2000
+
+; Gyor          ; 4-0; Kispest
+; Haladas       ; 0-1; Siofok
+; Vasas         ; 1-4; Nagykanizsa
+; PMFC          ; 2-2; Tatabanya
+; ZTE           ; 1-1; UTE
+; Vac           ; 0-5; DVSC
+; MTK           ; 3-1; Diosgyor
+; Dunaferr      ; 2-0; Nyirseg
+*FTC            bye
+
+Round: 34 
+Date: 5/27/2000
+
+; Nyirseg       ; 2-1; Gyor 
+; DVSC          ; 3-1; MTK 
+; UTE           ; 1-0; Vac 
+; Tatabanya     ; 2-1; ZTE
+; Nagykanizsa   ; 1-1; PMFC
+; Siofok        ; 0-1; Vasas 
+; FTC           ; 6-2; Haladas
+*Diosgyor       awd Dunaferr        [awarded 0-3; abandoned at 1-2 in 23']
+*Kispest        bye
 
 * 1.Dunaferr FC                 32 24  7  1  79-23 79  Champions  [Dunaújváros]
 * 2.MTK Hungária FC             32 18  9  5  64-28 63  [Budapest]

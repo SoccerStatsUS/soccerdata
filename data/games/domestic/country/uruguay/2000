@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesu/uru00.html
 Competition: Uruguayan Primera Division
-Season: 2000 Apertura
+Season: 2000 
+
+Stage: Apertura
 
 
 * 1.Nacional                   17 14  2  1 42-14 44  Apertura winners
@@ -613,7 +615,9 @@ Date: 7/10/2000
 *    Clausura (all matches are awarded walkovers against them) and they are
 *    relegated to the third level (Liga Metropolitana Amateur) for 2001.
 
-Season: 2000 Clausura
+Season: 2000 
+
+Stage: Clausura
 
 * 1.Peñarol                    16 13  3  0 35-11 42  Clausura winners
 * 2.Defensor Sporting          16 12  4  0 44-13 40

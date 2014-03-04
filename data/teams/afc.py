@@ -12,6 +12,24 @@ l = [
         },
 
     {
+        'name': 'Al-Hilal',
+        'founded': 1957,
+        'city': 'Riyadh, Saudi Arabia',
+        },
+
+    {
+        'name': 'Al-Ittihad',
+        'founded': datetime.datetime(1924, 1, 4),
+        'city': 'Jeddah, Saudi Arabia',
+        },
+
+    {
+        'name': 'Thespakusatsu Gunma',
+        'founded': 1995,
+        'city': 'Maebashi, Japan',
+        },
+
+    {
         'name': 'Al-Ahli Dubai',
         'founded': 1970,
         'city': 'Dubai, United Arab Emirates',
@@ -188,6 +206,46 @@ l = [
 
     # South Korea
 
+
+    {
+        'name': 'Incheon United',
+        'founded': 2003,
+        'city': 'Incheon, South Korea',
+        },
+
+    {
+        'name': 'Suwon Samsung Bluewings',
+        'founded': 1995,
+        'city': 'Suwon, South Korea',
+        },
+
+    {
+        'name': 'Gangwon FC',
+        'founded': datetime.datetime(2008, 12, 18),
+        'city': 'Gangneung, South Korea',
+        },
+
+
+    {
+        'name': 'Gyeongnam FC',
+        'founded': 2006,
+        'city': 'Changwon, South Korea',
+        },
+
+    {
+        'name': 'Ulsan Hyundai FC',
+        'founded': 1983,
+        'city': 'Ulsan, South Korea',
+        },
+
+    {
+        'name': 'Hanil Bank',
+        'founded': 1970,
+        'dissolved': 1997,
+        #'city': 'Changwon, South Korea',
+        },
+
+
     {
         'name': 'Suwon Bluewings',
         'founded': 1995,
@@ -295,6 +353,8 @@ l = [
         'city': 'Jeju, South Korea',
         },
 
+    # India
+
     {
         'name': 'Salgaocar SC',
         'founded': 1956,
@@ -302,10 +362,20 @@ l = [
         },
 
     {
+        'name': 'Mohun Bagan',
+        'founded': 1889,
+        'city': 'Kolkata, India',
+        },
+
+    # Thailand
+
+    {
         'name': 'Raj Pracha FC',
         'founded': 1968,
         #'city': 'Thailand',
         },
+
+    # Iran
 
     {
         'name': 'Sepahan Isfahan FC',
@@ -314,41 +384,140 @@ l = [
         },
 
     {
-        'name': 'Incheon United',
-        'founded': 2003,
-        'city': 'Incheon, South Korea',
-        },
-
-    {
-        'name': 'Suwon Samsung Bluewings',
-        'founded': 1995,
-        'city': 'Suwon, South Korea',
-        },
-
-    {
-        'name': 'Gangwon FC',
-        'founded': datetime.datetime(2008, 12, 18),
-        'city': 'Gangneung, South Korea',
-        },
-
-
-    {
-        'name': 'Gyeongnam FC',
+        'name': 'Gahar Zagros',
         'founded': 2006,
-        'city': 'Changwon, South Korea',
+        'city': 'Dorood, Iran',
         },
 
     {
-        'name': 'Ulsan Hyundai FC',
-        'founded': 1983,
-        'city': 'Ulsan, South Korea',
+        'name': 'Mes',
+        'founded': datetime.datetime(1998, 3, 2),
+        'city': 'Kerman, Iran',
         },
 
     {
-        'name': 'Hanil Bank',
+        'name': 'Rah Ahan',
+        'founded': datetime.datetime(1937, 1, 2),
+        'city': 'Tehran, Iran',
+        },
+
+    {
+        'name': 'Foolad',
+        'founded': datetime.datetime(1986, 3, 2),
+        'city': 'Ahvaz, Iran',
+        },
+
+    {
+        'name': 'Zob Ahan',
+        'founded': datetime.datetime(1969, 7, 6),
+        'city': 'Isfahan, Iran',
+        },
+
+    {
+        'name': 'Saipa',
+        'founded': datetime.datetime(1989, 2, 1),
+        'city': 'Karaj, Iran',
+        },
+
+    {
+        'name': 'Shahin Bushehr',
+        'founded': datetime.datetime(1942, 5, 1),
+        'city': 'Bushehr, Iran',
+        },
+
+    {
+        'name': 'Malavan',
+        'founded': 1968,
+        'city': 'Bandar-e Anzali, Iran',
+        },
+
+    {
+        'name': 'Steel Azin',
+        'founded': datetime.datetime(2007, 4, 30),
+        'city': 'Tehran, Iran',
+        },
+
+    {
+        'name': 'Paykan',
+        'founded':1967,
+        'city': 'Tehran, Iran',
+        },
+
+    {
+        'name': 'Tractor Sazi',
+        'founded':1970,
+        'city': 'Tabriz, Iran',
+        },
+
+    {
+        'name': 'Sanat Naft',
+        'founded': datetime.datetime(1972, 10, 2),
+        'city': 'Abadan, Iran',
+        },
+
+    {
+        'name': 'Naft Tehran',
+        'founded': datetime.datetime(1971, 8, 23),
+        'city': 'Tehran, Iran',
+        },
+
+    {
+        'name': 'Damash',
+        'founded': datetime.datetime(2008, 10, 11),
+        'city': 'Rasht, Iran',
+        },
+
+    {
+        'name': 'Fajr Sepasi',
+        'founded': 1988,
+        'city': 'Shiraz, Iran',
+        },
+
+    {
+        'name': 'Moghavemat Tehran',
+        'city': 'Tehran, Iran',
+        },
+
+    {
+        'name': 'PAS Hamedan',
+        'city': 'Hamedan, Iran',
+        'founded': datetime.datetime(2007, 6, 9),
+        },
+
+    {
+        'name': 'Aboumoslem',
+        'city': 'Mashhad, Iran',
         'founded': 1970,
-        'dissolved': 1997,
-        #'city': 'Changwon, South Korea',
+        },
+
+    {
+        'name': 'Saba Qom',
+        'city': 'Qom, Iran',
+        'founded': 1974,
+        },
+
+    {
+        'name': 'Persepolis',
+        'city': 'Tehran, Iran',
+        'founded': 1963,
+        },
+
+    {
+        'name': 'Aluminium Hormozgan',
+        'city': 'Bandar Abbas, Iran',
+        'founded': 2006,
+        },
+
+    {
+        'name': 'Esteghlal Ahvaz',
+        'city': 'Ahvaz, Iran',
+        'founded': 1948,
+        },
+
+    {
+        'name': 'Esteghlal Tehran',
+        'city': 'Tehran, Iran',
+        'founded': 1945,
         },
 
 
@@ -473,6 +642,13 @@ l = [
     {
         'name': 'Yokohama FC',
         'founded': 1999,
+        'city': 'Yokohama, Japan',
+        },
+
+    {
+        'name': 'Yokohama Flügels',
+        'founded': 1964,
+        'dissolved': 1998,
         'city': 'Yokohama, Japan',
         },
 

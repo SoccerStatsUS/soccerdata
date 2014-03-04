@@ -10,6 +10,24 @@ l = [
         'city': 'Choluteca, Honduras',
         },
 
+    {
+        'name': 'Inter Playa del Carmen',
+        'city': 'Playa del Carmen, Mexico',
+        },
+
+    {
+        'name': 'Guerreros de Tabasco',
+        'city': 'Tenosique, Mexico',
+        'founded': 2006,
+        'dissolved': 2007,
+        },
+
+
+    {
+        'name': 'Maunabo Leones',
+        'city': 'Maunabo, Puerto Rico',
+        },
+
     { 'name': 'Omai Gold Seekers' }, # Guyana 
 
 
@@ -797,6 +815,13 @@ l = [
         'city': 'Esteli, Nicaragua',
         },
 
+    {
+        'name': 'Parmalat (Nicaragua)',
+        'city': 'Managua, Nicaragua',
+        'founded': 2000,
+        'dissolved': 2004,
+        },
+
 
     {
         'name': 'Juventus Managua',
@@ -972,6 +997,11 @@ l = [
         },
 
     {
+        'name': 'Don Bosco',
+        'city': 'Petionville, Haiti',
+        },
+
+    {
         'name': 'Racing des Gonaïves',
         'city': 'Gonaïves, Haiti',
         },
@@ -1013,11 +1043,7 @@ l = [
         'city': 'Saint-Marc, Haiti',
         },
 
-    {
-        'name': 'Tempête FC',
-        'founded': 1970,
-        'city': 'Saint-Marc, Haiti',
-        },
+
 
     {
         'name': 'Victory SC',
@@ -1201,8 +1227,6 @@ l = [
 
 
 
-    # Guadeloupe
-
 
     # Guadeloupe
 
@@ -1218,14 +1242,16 @@ l = [
         'city': 'Basse-Terre, Guadelopue',
         },
 
-
-
-
-
     {
         'name': 'CS Moulien',
         'founded': 1931,
         'city': 'Le Moule, Guadeloupe',
+        },
+
+    {
+        'name': 'Arsenal (Petit-Bourg)',
+        'founded': datetime.datetime(1938, 8, 26), # http://arsenal-clubdepetit-bourg.footeo.com/page/historique-de-l-arsenal.html
+        'city': 'Petit-Bourg, Guadeloupe',
         },
 
     {
@@ -1258,6 +1284,41 @@ l = [
         'name': 'Cobras de Ciudad Juárez',
         'founded': 1980,
         'city': 'Ciudad Juarez, Mexico',
+        },
+    {
+        'name': 'Ballenas Galeana',
+        'founded': 1956,
+        'city': 'Xochitepec, Mexico',
+        },
+
+    {
+        'name': 'Alebrijes de Oaxaca',
+        'founded': datetime.datetime(2012, 12, 10),
+        'city': 'Oaxaca, Mexico',
+        },
+
+    {
+        'name': 'Lobos de la BUAP',
+        'founded': 1966,
+        'city': 'Puebla, Mexico',
+        },
+
+    {
+        'name': 'Cruz Azul Hidalgo',
+        'founded': 1993,
+        'city': 'Hidalgo, Mexico',
+        },
+    {
+        'name': 'Pumas Morelos',
+        'founded': 2006,
+        'dissolved': 2012,
+        'city': 'Cuernavaca, Mexico',
+        },
+
+    {
+        'name': 'Altamira',
+        'founded': datetime.datetime(2001, 8, 11),
+        'city': 'Altamira, Mexico',
         },
 
     {
@@ -1769,6 +1830,11 @@ l = [
         'name': 'Pinar del Río',
         'founded': 1978,
         'city': 'Pinar del Río, Cuba',
+        },
+
+    {
+        'name': 'Juventud Asturiana',
+        'city': 'Havana, Cuba',
         },
 
 

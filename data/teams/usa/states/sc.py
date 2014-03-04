@@ -12,6 +12,11 @@ l = [
         },
 
     {
+        'name': 'Coker College',
+        'city': 'Hartsville, SC',
+        },
+
+    {
         'name': 'Myrtle Beach Seadawgs',
         'city': 'Myrtle Beach, SC',
         'founded': 1997,

@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru02.html
 Competition: Uruguayan Primera Division
-Season: 2002 Clasificatorio
+Season: 2002 
 home-first
+
+Stage: Clasificatorio
 
 
 *TORNEO CLASIFICATORIO
@@ -657,7 +659,9 @@ Date: 5/19/2002
 *NB: Peñarol (winners overall table) qualify for Copa Libertadores 2003 (as Uruguay 2)
 
 
-Season: 2002 Apertura
+Season: 2002 
+
+Stage: Apertura
 
 * 1.C Nacional dF               9  8  1  0  20- 6 25  Apertura Winners
 * 2.CA Peñarol                  9  7  0  2  25-12 21
@@ -876,7 +880,9 @@ Date: 9/8/2002
 *10.CSyD Villa Española         9  0  1  8   8-23  1
 
 
-Season: 2002 Clausura
+Season: 2002 
+
+Stage: Clausura
 
 * 1.Danubio FC                  9  6  2  1  16- 8 20  Clausura Winners
 * 2.CA Peñarol                  9  7  1  1  25-16 19  [-3]
@@ -1103,7 +1109,8 @@ Date: 12/1/2002
 *    a match against Danubio during the Clausura 2001
 
 
-Season: 2002 Championship Playoff
+Season: 2002 
+Stage: Campeonato
 
 *First Leg 
 12/4/2002; Danubio        ; 1-2; Nacional  ; Jardines del Hipodromo; Martín Vázquez, Fernando Cresci, Álvaro Sacarello; 10000

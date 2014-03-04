@@ -1,6 +1,7 @@
-http://rsssfbrasil.com/tablesrz/sp1918.htm
-
-Campeonato Paulista 1918
+BlockSource: http://rsssfbrasil.com/tablesrz/sp1918.htm
+Competition: Campeonato Paulista 
+Season: 1918
+Date-style: day first
 
 07/04/1918; Corinthians; 2-2; Santos
 07/04/1918; Palestra Itália; 2-1; SC Internacional
@@ -28,7 +29,8 @@ Campeonato Paulista 1918
 19/06/1918; Paulistano; 7-0; Mackenzie
 19/06/1918; Ypiranga; 4-0; SC Internacional
 19/06/1918; Palestra Itália; 2-3; AA São Bento
-30/06/1918; Paulistano; 3-1; Palestra Itália (Palestra abandoned the competition)
+30/06/1918; Paulistano; 3-1; Palestra Itália 
+*(Palestra abandoned the competition)
 30/06/1918; Minas Gerais; 0-7; Corinthians
 30/06/1918; Santos; 3-0; Ypiranga
 14/07/1918; Minas Gerais; 2-5; Ypiranga

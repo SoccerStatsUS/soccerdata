@@ -5,6 +5,49 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Palo Alto Mayfields',
+        'city': 'Palo Alto, CA',
+        },
+
+    {
+        'name': 'Los Angeles Sol',
+        'city': 'Los Angeles, CA',
+        'founded': 2007,
+        'dissolved': 2010,
+        },
+
+    #{
+    #    'name': 'Golden Bay Buccaneers', # same as Oakland Buccaneers
+    #    'city': 'Berkeley, CA',
+    #    },
+
+    {
+        'name': 'Saint Mary\'s College of California',
+        'city': 'Moraga, CA',
+        },
+
+    {
+        'name': 'San Francisco California Rangers',
+        'city': 'San Francisco, CA',
+        },
+
+    {
+        'name': 'San Francisco Fog',
+        'city': 'San Francisco, CA',
+        },
+
+    {
+        'name': 'Oakland High School',
+        'city': 'Oakland, CA',
+        },
+
+    {
+        'name': 'Oakland Golden Gate Club',
+        'city': 'Oakland, CA',
+        },
+
+
     # division 1
 
     {
@@ -201,19 +244,10 @@ l = [
         },
 
     {
-        'name': 'Cal Poly Pomona',
-        'city': 'Pomona, CA',
+        'name': 'Cal Poly',
+        'city': 'San Luis Obispo, CA',
         },
 
-    {
-        'name': 'Santa Barbara City College',
-        'city': 'Santa Barbara, CA',
-        },
-
-    {
-        'name': 'University of California, Santa Barbara',
-        'city': 'Santa Barbara, CA',
-        },
 
     {
         'name': 'Mexico SC',
@@ -336,7 +370,7 @@ l = [
     {
         'name': 'OC Blues Strikers FC',
         'city': 'Pacific Palisades, CA',
-        'founded': 2011
+        'founded': 2011,
         },
 
     {
@@ -458,7 +492,7 @@ l = [
         },
 
     {
-        'name': 'Pali Blues',
+        'name': 'Pali Blues', # OC Blues Strikers?
         'city': 'Los Angeles, CA',
         'founded': 2008,
         },

@@ -154,8 +154,6 @@ l = [
         'capacity': 22000,
         },
     
-    
-    
     {
         'name': 'Cowboys Stadium',
         'address': '1 Legends Way',
@@ -165,8 +163,6 @@ l = [
         'architect': 'HKS, Inc.',
         'capacity': 80000,
         },
-    
-    
     
     {
         'name': 'Reliant Stadium',

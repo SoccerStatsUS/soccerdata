@@ -1,13 +1,14 @@
 Competition: Campeonato Brasileiro Série A
 BlockSource: http://www.rsssfbrasil.com/tablesae/br1986.htm
 Season: 1986
+home-first
 
-First Phase
-
-According to the original rules of the championship, the top-6 from each group
-of Second Phase would be qualified to 1987 First Level.
-
-Chave 1 - Main Tournament (First Level)
+*First Phase
+*
+*According to the original rules of the championship, the top-6 from each group
+*of Second Phase would be qualified to 1987 First Level.
+*
+*Chave 1 - Main Tournament (First Level)
 
 Group: A
 
@@ -23,7 +24,7 @@ Round: 1
 Date: 8/30/1986
 
 ; Coritiba         ; 0-1;  São Paulo
-  Careca
+;  Careca
 
 Date: 8/31/1986
 
@@ -31,27 +32,27 @@ Date: 8/31/1986
   Dadinho; Rubens Feijão
 
 ; Bangu            ; 0-1;  Fluminense-RJ
-  Valbert
+;  Valbert
 
 ; Sampaio Corrêa   ; 1-2;  Sport
-  Edinho; Luís Carlos (2)
+  Edinho; Luís Carlos, Luis Carlos
 
 ; Sobradinho       ; 0-1;  Internacional-RS
-  Marcelo
+;  Marcelo
 
 Round: 2
 Date: 9/2/1986
 
 ; Coritiba         ; 1-0;  Internacional-RS
-  Anselmo
+  Anselmo;
 
-;; Fluminense-RJ;     1-0  Operário-MS
-  Édson Souza
+; Fluminense-RJ;     1-0;  Operário-MS
+  Édson Souza;
 
 ; Remo             ; 0-0;  Sport
 
 ; Sampaio Corrêa   ; 0-3;  Ceará
-  Biluca (own goal), Petróleo, Rubens Feijão
+;  Biluca (own goal), Petróleo, Rubens Feijão
 
 ; Sobradinho       ; 1-1;  São Paulo
   Tonzé; Zé Teodoro
@@ -60,18 +61,18 @@ Round: 3
 Date: 9/6/1986
 
 ; Sport            ; 1-0;  Coritiba
-  Betão
+  Betão;
 
 Date: 9/7/1986
 
-;; Internacional-RS;  2-0  Fluminense-RJ
-  Pinga, Sabará
+; Internacional-RS;  2-0;  Fluminense-RJ
+  Pinga, Sabará;
 
 ; São Paulo        ; 1-1;  Bangu
   Zé Teodoro; João Cláudio
 
-;; Operário-MS;       0-1  Sampaio Corrêa
-  Marco Antônio
+; Operário-MS;       0-1;  Sampaio Corrêa
+;  Marco Antônio
 
 ; Ceará            ; 1-2;  Sobradinho
   Lira; Filó, Tôni
@@ -80,47 +81,47 @@ Round: 4
 Date: 9/10/1986
 
 ; Sport            ; 1-0;  Sobradinho
-  Betão
+  Betão;
 
 ; Ceará            ; 1-0;  Coritiba
-  Rubens Feijão
+  Rubens Feijão;
 
-;; Fluminense-RJ;     0-0  Sampaio Corrêa
+; Fluminense-RJ;     0-0;  Sampaio Corrêa
 
-;; Internacional-RS;  1-1  Bangu
+; Internacional-RS;  1-1;  Bangu
   Marquinhos; Jacimar
 
 Date: 9/11/1986
 
-;; Operário-MS;       2-1  Remo
+; Operário-MS;       2-1;  Remo
   Guina, Cido; Toninho Silva
 
 Round: 5
 Date: 9/13/1986
 
-;; Fluminense-RJ;     1-0  Coritiba
-  Ricardo Gomes
+; Fluminense-RJ;     1-0;  Coritiba
+  Ricardo Gomes;
 
 Date: 9/14/1986
 
 ; São Paulo        ; 4-0;  Ceará
-  Careca (2), Manu, Bernardo
+  Careca, Careca, Manu, Bernardo;
 
 ; Sport            ; 0-0;  Internacional-RS
 
 ; Sobradinho       ; 1-0;  Remo
-  Tôni
+  Tôni;
 
 ; Bangu            ; 2-0;  Operário-MS
-  Nando, Neto
+  Nando, Neto;
 
 Round: 6
 Date: 9/17/1986
 
 ; Bangu            ; 3-0;  Sobradinho
-  Marinho (2), Ado
+  Marinho, Marinho, Ado;
 
-;; Internacional-RS;  1-1  Ceará
+; Internacional-RS;  1-1;  Ceará
   Balalo; Petróleo
 
 ; Coritiba         ; 0-0;  Sampaio Corrêa
@@ -132,7 +133,7 @@ Date: 9/18/1986
 
 Date: 9/30/1986
 
-;; Operário-MS;       1-2  São Paulo
+; Operário-MS;       1-2;  São Paulo
   Fernando Roberto; Careca, Müller
 
 Round: 7
@@ -141,7 +142,7 @@ Date: 9/21/1986
 ; São Paulo        ; 0-0;  Internacional-RS
 
 ; Sobradinho       ; 0-1;  Fluminense-RJ
-  Alberto
+;  Alberto
 
 ; Coritiba         ; 1-1;  Remo
   Lela; Camargo
@@ -157,58 +158,57 @@ Date: 9/24/1986
 ; Ceará            ; 0-0;  Operário-MS
 
 ; Bangu            ; 1-0;  Coritiba
-  Nando
+  Nando;
 
-;; Internacional-RS;  3-1  Remo
+; Internacional-RS;  3-1;  Remo
   Balalo, Marcelo, Tita; Camargo
 
 ; São Paulo        ; 4-0;  Sampaio Corrêa
-  Darío Pereyra, Careca, Zé Teodoro, Oscar
+  Darío Pereyra, Careca, Zé Teodoro, Oscar;
 
 Date: 9/25/1986
 
-;; Fluminense-RJ;     0-1  Sport
-  Luís Carlos
+; Fluminense-RJ;     0-1;  Sport
+;  Luís Carlos
 
 Round: 9
 Date: 9/28/1986
 
-;; Fluminense-RJ;     2-3  São Paulo
+; Fluminense-RJ;     2-3;  São Paulo
   Washington, Ricardo Gomes; Careca, Pita, Müller
 
 ; Sampaio Corrêa   ; 0-2;  Internacional-RS
-  Carlinhos, Luís Fernando Flores
+;  Carlinhos, Luís Fernando Flores
 
 ; Remo             ; 2-2;  Bangu
-  Dadinho (2); Ricardo (2)
+  Dadinho, Dadinho; Ricardo, Ricardo
 
 ; Ceará            ; 0-0;  Sport
 
 Date: 10/7/1986
 
-;; Operário-MS;       2-1  Sobradinho
-  Guina (2); Filó
+; Operário-MS;       2-1;  Sobradinho
+  Guina, Guina; Filó
 
 Round: 10
 Date: 10/1/1986
 
 ; Sport            ; 0-1;  Bangu
-  Jacimar
+;  Jacimar
 
 ; Ceará            ; 0-2;  Fluminense-RJ
-  Ricardo Gomes, Alberto
+;  Ricardo Gomes, Alberto
 
 ; Sobradinho       ; 2-1;  Sampaio Corrêa
   Tobias, Filó; Santana
 
-
 Date: 10/2/1986
 
 ; Remo             ; 0-2;  São Paulo
-  Careca (2)
+;  Careca, Careca
 
-;; Operário-MS;       2-0  Coritiba
-  Fernando Roberto, Gilsinho
+; Operário-MS;       2-0;  Coritiba
+  Fernando Roberto, Gilsinho;
 
 Round: 11
 Date: 10/5/1986
@@ -217,9 +217,9 @@ Date: 10/5/1986
   Careca, Silas, Müller; Edel, Adílson
 
 ; Bangu            ; 0-1;  Ceará
-  Rubens Feijão
+;  Rubens Feijão
 
-;; Internacional-RS;  3-1  Operário-MS
+; Internacional-RS;  3-1;  Operário-MS
   Tita, Carlinhos, Marcelo; Guina
 
 ; Coritiba         ; 1-1;  Sobradinho
@@ -255,21 +255,21 @@ Round: 1
 Date: 8/31/1986
 
 ; Corinthians      ; 3-0;  Goiás
-  Wílson Mano, Cristóvão, Jacenir
+  Wílson Mano, Cristóvão, Jacenir;
 
 ; Joinville        ; 2-0;  Atlético-PR
-  Alfinete, João Carlos Maringá
+  Alfinete, João Carlos Maringá;
 
-;; Botafogo-PB;       0-1  América-RJ
-  Luisinho
+; Botafogo-PB;       0-1;  América-RJ
+;  Luisinho
 
 ; Sergipe          ; 0-4;  Ponte Preta
-  Chicão (3), Raí
+;  Chicão, Chicao, Chicao, Raí
 
 Date: 9/2/1986
 
 ; Flamengo         ; 4-1;  Paysandu
-  Mozer (2), Júlio César, Aldair; Marcos Nogueira
+  Mozer, Mozer, Júlio César, Aldair; Marcos Nogueira
 
 Round: 2
 Date: 9/2/1986
@@ -277,31 +277,31 @@ Date: 9/2/1986
 ; Grêmio           ; 2-1;  Atlético-PR
   Renato Gaúcho, Osvaldo; Agnaldo
 
-;; Botafogo-PB;       1-4  Ponte Preta
-  Carioca; Chicão (3), Aluísio (own goal)
+; Botafogo-PB;       1-4;  Ponte Preta
+  Carioca; Chicão, Chicao, Chicao, Aluísio (own goal)
 
 ; Sergipe          ; 1-0;  América-RJ
-  Amadeu
+  Amadeu;
 
 Date: 9/4/1986
 
 ; Corinthians      ; 1-0;  Paysandu
-  Cacau
+  Cacau;
 
 ; Flamengo         ; 0-0;  Goiás
 
 Round: 3
 Date: 9/7/1986
 
-;; América-RJ;        0-2  Flamengo
-  Zinho, Bebeto
+; América-RJ;        0-2;  Flamengo
+;  Zinho, Bebeto
 
-;; Atlético-PR;       0-0  Botafogo-PB       
+; Atlético-PR;       0-0;  Botafogo-PB       
 
 ; Goiás            ; 0-0;  Joinville
 
 ; Paysandu         ; 1-0;  Grêmio
-  Miguelzinho
+  Miguelzinho;
 
 ; Ponte Preta      ; 1-1;  Corinthians
   Valdir; Casagrande
@@ -315,80 +315,79 @@ Date: 9/10/1986
 Date: 9/11/1986
 
 ; Ponte Preta      ; 0-1;  Flamengo
-  Vinícius
+;  Vinícius
 
-;; América-RJ;        0-0  Corinthians
+; América-RJ;        0-0;  Corinthians
 
 ; Paysandu         ; 1-1;  Joinville
   Ricardo; Cláudio José
 
-;; Atlético-PR;       1-0  Sergipe
-  Gílson Bonfim
+; Atlético-PR;       1-0;  Sergipe
+  Gílson Bonfim;
 
 Round: 5
 Date: 9/14/1986
 
 ; Corinthians      ; 6-0;  Sergipe
-  Casagrande (3), Biro-Biro, Cristóvão, Cacau
+  Casagrande, Casagrande, Casagrande, Biro-Biro, Cristóvão, Cacau;
 
 ; Grêmio           ; 0-0;  Flamengo
 
 ; Goiás            ; 0-0;  Atlético-PR
 
-;; Botafogo-PB;       3-2  Joinville
-  Carlos Roberto (2), Roberto; Nardela, Cláudio José
+; Botafogo-PB;       3-2;  Joinville
+  Carlos Roberto, Carlos Roberto, Roberto; Nardela, Cláudio José
 
 ; Ponte Preta      ; 1-0;  Paysandu
-  Wladimir
+  Wladimir;
 
 Round: 6
 Date: 9/17/1986
 
 ; Flamengo         ; 1-0;  Sergipe
-  Gilmar
+  Gilmar;
 
 ; Paysandu         ; 0-1;  América-RJ
-  Ramón
+;  Ramón
 
 Date: 9/18/1986
 
 ; Grêmio           ; 5-2;  Botafogo-PB       
-  Lima (3), Valdo, Osvaldo; Carlos Roberto (2)
+  Lima, Lima, Lima, Valdo, Osvaldo; Carlos Roberto, Carlos Roberto
 
-;; Atlético-PR;       4-0  Ponte Preta
-  Mauro Madureira, Agnaldo, Roberto, Joãozinho
+; Atlético-PR;       4-0;  Ponte Preta
+  Mauro Madureira, Agnaldo, Roberto, Joãozinho;
 
 ; Joinville        ; 1-0;  Corinthians
-  Paulo Egídio
+  Paulo Egídio;
 
 Round: 7
 Date: 9/21/1986
 
-;; América-RJ;        3-1  Ponte Preta
-  Luisinho (2), Renato; Mário Luís
+; América-RJ;        3-1;  Ponte Preta
+  Luisinho, Luisinho, Renato; Mário Luís
 
 ; Flamengo         ; 2-3;  Corinthians
-  Kita (2); Cristóvão, Edmar, Biro-Biro
+  Kita, Kita; Cristóvão, Edmar, Biro-Biro
 
 ; Grêmio           ; 5-1;  Joinville
-  Valdo (2), Lima, Renato Gaúcho, Osvaldo; Geraldo Touro
+  Valdo, Valdo, Lima, Renato Gaúcho, Osvaldo; Geraldo Touro
 
 ; Paysandu         ; 1-2;  Goiás
   Patrulheiro; Zezinho, Alex (own goal)
 
-
 Date: 9/22/1986
 
 ; Sergipe          ; 1-0;  Botafogo-PB       
-  Amadeu
+  Amadeu;
 
 Round: 8
 Date: 9/24/1986
 
-;; América-RJ;        0-0  Atlético-PR
+; América-RJ;        0-0;  Atlético-PR
 
-;; Botafogo-PB;       0-1  Corinthians
-  Edmar
+; Botafogo-PB;       0-1;  Corinthians
+;  Edmar
 
 ; Joinville        ; 1-2;  Flamengo
   Mirandinha; Kita, Jorginho
@@ -397,15 +396,15 @@ Date: 9/24/1986
 Date: 9/25/1986
 
 ; Ponte Preta      ; 1-0;  Goiás
-  Zé Carlos
+  Zé Carlos;
 
 ; Sergipe          ; 0-0;  Grêmio
 
 Round: 9
 Date: 9/28/1986
 
-;; Atlético-PR;       4-0  Paysandu
-  Bruno, Barbosa, Roberto, Agnaldo
+; Atlético-PR;       4-0;  Paysandu
+  Bruno, Barbosa, Roberto, Agnaldo;
 
 ; Goiás            ; 3-2;  América-RJ
   Zezinho, Vavá, Jorge Carballo; Luisinho, Ramón
@@ -414,7 +413,7 @@ Date: 9/28/1986
   Edmar; Lima, Osvaldo
 
 ; Flamengo         ; 2-0;  Botafogo-PB       
-  Gilmar, Kita
+  Gilmar, Kita;
 
 
 Date: 9/29/1986
@@ -429,13 +428,13 @@ Date: 10/1/1986
 ; Corinthians      ; 0-0;  Atlético-PR
 
 ; Grêmio           ; 0-2;  Ponte Preta
-  Wladimir, Chicão
+;  Wladimir, Chicão
 
 ; Joinville        ; 4-1;  América-RJ
-  João Carlos Maringá (2), Mirandinha, Paulo Egídio; Luisinho
+  João Carlos Maringá, João Carlos Maringá, Mirandinha, Paulo Egídio; Luisinho
 
-;; Botafogo-PB;       1-0  Goiás
-  Carlos Roberto
+; Botafogo-PB;       1-0;  Goiás
+  Carlos Roberto;
 
 Date: 10/3/1986
 
@@ -445,22 +444,22 @@ Date: 10/3/1986
 Round: 11
 Date: 10/5/1986
 
-;; América-RJ;        2-0  Grêmio
-  Benê, Luisinho
+; América-RJ;        2-0;  Grêmio
+  Benê, Luisinho;
 
-;; Atlético-PR;       2-1  Flamengo
+; Atlético-PR;       2-1;  Flamengo
   Agnaldo, Barbosa; Zinho
 
 ; Goiás            ; 2-0;  Sergipe
-  Joãozinho Paulista (2)
+  Joãozinho Paulista, Joãozinho Paulista;
 
 ; Ponte Preta      ; 4-1;  Joinville
-  Chicão (2), Luís Fernando Paulista (2); João Carlos Maringá
+  Chicão, Chicao, Luís Fernando Paulista, Luís Fernando Paulista; João Carlos Maringá
 
 Date: 10/8/1986
 
-;; Botafogo-PB;       2-0  Paysandu
-  Carlos Roberto (2)
+; Botafogo-PB;       2-0;  Paysandu
+  Carlos Roberto, Carlos Roberto;
 
   
 *Table
@@ -490,31 +489,31 @@ Group: C
 Round: 1
 Date: 8/31/1986
 
-;; Atlético-GO;       2-1  Piauí
+; Atlético-GO;       2-1;  Piauí
   William, Palhinha; Sima
 
 ; Bahia            ; 4-0;  Rio Branco
-  Bobô (2), Cláudio Adão (2)
+  Bobô, Bobo, Cláudio Adão, Cláudio Adão;
 
 ; Guarani          ; 1-0;  Cruzeiro
-  João Paulo
+  João Paulo;
 
 ; Náutico          ; 1-0;  Vasco da Gama
-  Moreno
+  Moreno;
 
-;; Operário-MT;       2-1  Tuna Luso
-  Jota Maria (2); Clóvis
+; Operário-MT;       2-1;  Tuna Luso
+  Jota Maria, Jota Maria; Clóvis
 
 Round: 2
 Date: 9/2/1986
 
-;; Atlético-GO;       1-0  Tuna Luso
-  Olair
+; Atlético-GO;       1-0;  Tuna Luso
+  Olair;
 
 ; Náutico          ; 0-1;  Rio Branco
-  Jones
+;  Jones
 
-;; Operário-MT;       0-0  Piauí
+; Operário-MT;       0-0;  Piauí
 
 ; Cruzeiro         ; 2-3;  Santos
   Édson, Geraldão; Serginho Dourado, Gérson, Ribamar
@@ -522,102 +521,99 @@ Date: 9/2/1986
 Date: 9/4/1986
 
 ; Vasco da Gama    ; 0-1;  Bahia
-  Sandro
+;  Sandro
 
 Round: 3
 Date: 9/6/1986
 
 ; Tuna Luso        ; 3-1;  Náutico
-  Clóvis (3); Rolério
+  Clóvis, Clovis, Clovis; Rolério
 
 
 Date: 9/7/1986
 
 ; Cruzeiro         ; 2-0;  Atlético-GO
-  Geraldão, Hamílton
+  Geraldão, Hamílton;
 
 ; Piauí            ; 1-3;  Bahia
-  Sima; Cláudio Adão (2), Bobô
+  Sima; Cláudio Adão, Claudio Adao, Bobô
 
 ; Rio Branco       ; 0-0;  Santos
 
 ; Vasco da Gama    ; 0-1;  Guarani
-  Tite
+;  Tite
 
 Round: 4
 Date: 9/10/1986
 
 ; Tuna Luso        ; 0-3;  Bahia
-  Cláudio Adão (2), Paulo Martins
+;  Cláudio Adão, Claudio Adao, Paulo Martins
 
 ; Rio Branco       ; 0-0;  Guarani
 
 ; Piauí            ; 1-0;  Náutico
-  Galloti
+  Galloti;
 
 Date: 9/11/1986
 
 ; Santos           ; 0-0;  Vasco da Gama
 
-;; Operário-MT;       0-2  Cruzeiro
-  Édson, Eduardo
+; Operário-MT;       0-2;  Cruzeiro
+;  Édson, Eduardo
 
 Round: 5
 Date: 9/13/1986
 
-;; Atlético-GO;       1-0  Guarani
-  Osmarzinho
+; Atlético-GO;       1-0;  Guarani
+  Osmarzinho;
 
 
 Date: 9/14/1986
 
 ; Bahia            ; 3-0;  Santos
-  Sandro (2), Cláudio Adão
+  Sandro, Sandro, Cláudio Adão;
 
 ; Vasco da Gama    ; 0-0;  Cruzeiro
 
 ; Tuna Luso        ; 0-0;  Rio Branco
 
 ; Náutico          ; 3-1;  Operário-MT
-  Baiano (2), Rolério; Genílson
+  Baiano, Baiano, Rolério; Genílson
 
 Round: 6
 Date: 9/17/1986
 
 ; Bahia            ; 2-1;  Operário-MT
-  Bobô (2); Serginho
+  Bobô, Bobo; Serginho
 
-;; Atlético-GO;       0-1  Santos
-  Ribamar
+; Atlético-GO;       0-1;  Santos
+;  Ribamar
 
 ; Rio Branco       ; 4-0;  Piauí
-  Mazolinha (2), Nenê, Jones
+  Mazolinha, Mazolinha, Nenê, Jones;
 
 ; Guarani          ; 1-0;  Náutico
-  Evair
+  Evair;
 
 ; Cruzeiro         ; 3-1;  Tuna Luso
-  Gerladão (2), Eduardo; Clóvis
-
+  Geraldão, Geraldao, Eduardo; Clóvis
 
 Round: 7
-
 Date: 9/21/1986
 
 ; Bahia            ; 1-0;  Náutico
-  Bobô
+  Bobô;
 
 ; Santos           ; 0-1;  Guarani
-  Gílson Jader
+;  Gílson Jader
 
 ; Rio Branco       ; 1-0;  Vasco da Gama
-  Márcio Fernandes
-
+  Márcio Fernandes;
 
 Date: 9/30/1986
 
-;; Operário-MT;       0-3  Atlético-GO
-  Palhinha (2), Dinei
+; Operário-MT;       0-3;  Atlético-GO
+;  Palhinha, Palhinha, Dinei
 
 
 Date: 10/9/1986
@@ -634,23 +630,20 @@ Date: 9/24/1986
   Barbiéri; Sandro
 
 ; Náutico          ; 1-0;  Atlético-GO
-  Alfredo Santos
+  Alfredo Santos;
 
 ; Piauí            ; 0-3;  Cruzeiro
-  Hamílton (2), Geraldão
+;  Hamílton, Hamilton, Geraldão
 
 ; Tuna Luso        ; 0-3;  Vasco da Gama
-  Gersinho, Mazinho, Geovani
-
+;  Gersinho, Mazinho, Geovani
 
 Date: 9/25/1986
 
 ; Santos           ; 3-0;  Operário-MT
-  Serginho, Jussiê, Dino
-
+  Serginho, Jussiê, Dino;
 
 Round: 9
-
 Date: 9/27/1986
 
 ; Bahia            ; 1-1;  Atlético-GO
@@ -661,32 +654,32 @@ Date: 9/27/1986
 Date: 9/28/1986
 
 ; Guarani          ; 2-0;  Operário-MT
-  Evair, Chiquinho Carioca
+  Evair, Chiquinho Carioca;
 
 ; Santos           ; 5-0;  Náutico
-  Dino (4), Dunga
+  Dino, Dino, Dino, Dino, Dunga;
 
 Date: 10/7/1986
 
 ; Vasco da Gama    ; 2-0;  Piauí
-  Fernando, Gersinho
+  Fernando, Gersinho;
 
 Round: 10
 Date: 10/2/1986
 
-;; Atlético-GO;       0-0  Vasco da Gama
+; Atlético-GO;       0-0;  Vasco da Gama
 
 ; Guarani          ; 8-2;  Piauí
-  Evair (3), Chiquinho Carioca (2), Barbiéri, Gílson Jáder, João Paulo; Chicão, Sima
+  Evair, Evair, Evair, Chiquinho Carioca, Chiquinho Carioca, Barbiéri, Gílson Jáder, João Paulo; Chicão, Sima
 
-;; Operário-MT;       0-2  Rio Branco
-  Jones, Édson Carioca
+; Operário-MT;       0-2;  Rio Branco
+;  Jones, Édson Carioca
 
 ; Santos           ; 2-0;  Tuna Luso
-  Juninho, Dino
+  Juninho, Dino;
 
 ; Náutico          ; 1-0;  Cruzeiro
-  Fernando
+  Fernando;
 
 Round: 11
 Date: 10/5/1986
@@ -694,16 +687,16 @@ Date: 10/5/1986
 ; Cruzeiro         ; 0-0;  Bahia
 
 ; Piauí            ; 0-2;  Santos
-  Dino (2)
+;  Dino, Dino
 
 ; Rio Branco       ; 2-1;  Atlético-GO
   Marçal (own goal), Jones; Marçal
 
 ; Tuna Luso        ; 1-4;  Guarani
-  Queirós; Evair (2), Chiquinho Carioca, Gílson Jáder
+  Queirós; Evair, Evair, Chiquinho Carioca, Gílson Jáder
 
 ; Vasco da Gama    ; 6-0;  Operário-MT
-  Roberto Dinamite (3), Gersinho, Mauricinho, Romário
+  Roberto Dinamite, Roberto Dinamite, Roberto Dinamite, Gersinho, Mauricinho, Romário;
 
 * 1-Bahia             10  7  3  0  19- 4  17  Qualified
 * 2-Guarani           10  7  2  1  19- 5  16  Qualified
@@ -718,7 +711,7 @@ Date: 10/5/1986
 *10-Piauí             10  1  1  8   6-26   3
 *11-Operário-MT       10  1  1  8   4-24   3
 
-Group D
+Group: D
 
 *Participants
 *Alecrim FC (Natal-RN)                  Nacional FC (Manaus-AM)
@@ -731,7 +724,7 @@ Group D
 Round: 1
 Date: 8/31/1986
 
-;; Atlético-MG;       1-1  Santa Cruz
+; Atlético-MG;       1-1;  Santa Cruz
   Nunes; Marlon
 
 ; Comercial        ; 1-1;  Botafogo-RJ
@@ -740,16 +733,16 @@ Date: 8/31/1986
 ; Fortaleza        ; 0-0;  CSA
 
 ; Nacional         ; 1-0;  Alecrim
-  Cláudio Barbosa
+  Cláudio Barbosa;
 
 ; Portuguesa       ; 2-0;  Vitória
-  Hélder, Toninho
+  Hélder, Toninho;
 
 Round: 2
 Date: 9/2/1986
 
 ; Fortaleza        ; 2-0;  Alecrim
-  Assis Paraíba, Luisinho
+  Assis Paraíba, Luisinho;
 
 Date: 9/4/1986
 
@@ -763,41 +756,41 @@ Date: 9/4/1986
 Date: 9/30/1986
 
 ; Palmeiras        ; 2-0;  Botafogo-RJ
-  Mirandinha (2)
+  Mirandinha, Mirandinha;
 
 Round: 3
 Date: 9/6/1986
 
-;; Botafogo-RJ;       2-0  Fortaleza
-  Alemão, Berg
+; Botafogo-RJ;       2-0;  Fortaleza
+  Alemão, Berg;
 
 Date: 9/7/1986
 
 ; Alecrim          ; 2-2;  Portuguesa
-  Sousa, Odilon; Hélder (2)
+  Sousa, Odilon; Hélder, Heider
 
 ; CSA              ; 0-2;  Atlético-MG
-  Éverton, Renato
+;  Éverton, Renato
 
 ; Santa Cruz       ; 2-1;  Palmeiras
   Rômel, Zé do Carmo; Edu Manga
 
 ; Vitória          ; 2-0;  Comercial
-  Alexandre, Adílson
+  Alexandre, Adílson;
 
 Round: 4
 Date: 9/10/1986
 
 ; CSA              ; 4-0;  Portuguesa
-  Nívio, Borges, Carlinhos Paulista, Carlinhos Marechal
+  Nívio, Borges, Carlinhos Paulista, Carlinhos Marechal;
 
 ; Alecrim          ; 1-2;  Atlético-MG
   Chiquinho; Renato, Saraiva (own goal)
 
 ; Palmeiras        ; 2-2;  Vitória
-  Mirandinha (2); Adílson, Ataíde
+  Mirandinha, Mirandinha; Adílson, Ataíde
 
-;; Botafogo-RJ;       0-0  Nacional
+; Botafogo-RJ;       0-0;  Nacional
 
 Date: 9/11/1986
 
@@ -810,32 +803,32 @@ Date: 9/13/1986
 
 Date: 9/14/1986
 
-;; Atlético-MG;       1-0  Palmeiras
-  Nunes
+; Atlético-MG;       1-0;  Palmeiras
+  Nunes;
 
 ; Portuguesa       ; 2-1;  Nacional
-  Hélder (2); Cláudio Barbosa
+  Hélder, Helder; Cláudio Barbosa
 
 ; Fortaleza        ; 0-1;  Comercial
-  Wílson Carrasco
+;  Wílson Carrasco
 
 ; Alecrim          ; 1-0;  Santa Cruz
-  Sousa
+  Sousa;
 
 Round: 6
 Date: 9/17/1986
 
 ; Palmeiras        ; 6-0;  Fortaleza
-  Mirandinha (3), Jorginho (2), Lino
+  Mirandinha, Mirandinha, Mirandinha, Jorginho, Jorginho, Lino;
 
 ; Santa Cruz       ; 2-0;  CSA
-  Lóti, Jacozinho
+  Lóti, Jacozinho;
 
-;; Atlético-MG;       0-0  Nacional
+; Atlético-MG;       0-0;  Nacional
 
 Date: 9/18/1986
 
-;; Botafogo-RJ;       2-1  Alecrim
+; Botafogo-RJ;       2-1;  Alecrim
   Fernando Macaé, Alemão; Saraiva
 
 Date: 9/30/1986
@@ -843,28 +836,25 @@ Date: 9/30/1986
 ; Comercial        ; 1-1;  Portuguesa
   Tim; Hélder
 
-
 Round: 7
-
 Date: 9/20/1986
 
 ; Santa Cruz       ; 1-3;  Vitória
   Jacozinho; Hêider, Ademir, Bira
-
 
 Date: 9/21/1986
 
 ; CSA              ; 2-1;  Alecrim
   Nívio, Mário Tilico; Sousa
 
-;; Atlético-MG;       2-1  Portuguesa
+; Atlético-MG;       2-1;  Portuguesa
   Albéris (own goal), Sérgio Araújo; Toninho
 
 ; Nacional         ; 0-1;  Fortaleza
-  Frank
+;  Frank
 
 ; Palmeiras        ; 4-2;  Comercial
-  Mirandinha (2), Gérson Caçapa, Éder; Carlão, Evandro
+  Mirandinha, Mirandinha, Gérson Caçapa, Éder; Carlão, Evandro
 
 Round: 8
 Date: 9/24/1986
@@ -878,11 +868,10 @@ Date: 9/24/1986
 ; Nacional         ; 2-1;  Palmeiras
   Luisinho, Jorginho; Denys
 
-
 Date: 9/25/1986
 
 ; Fortaleza        ; 0-1;  Portuguesa
-  Hélder
+;  Hélder
 
 ; Comercial        ; 1-2;  Atlético-MG
   Carlão; Éverton, Sérgio Araújo
@@ -890,8 +879,8 @@ Date: 9/25/1986
 Round: 9
 Date: 9/28/1986
 
-;; Atlético-MG;       4-0  Fortaleza
-  Elzo, Éverton, Nunes, Nelinho
+; Atlético-MG;       4-0;  Fortaleza
+  Elzo, Éverton, Nunes, Nelinho;
 
 ; Portuguesa       ; 0-0;  Palmeiras
 
@@ -899,8 +888,8 @@ Date: 9/28/1986
 
 Date: 10/7/1986
 
-;; Botafogo-RJ;       2-0  Santa Cruz
-  Silvinho, Jorge (own goal)
+; Botafogo-RJ;       2-0;  Santa Cruz
+  Silvinho, Jorge (own goal);
 
 ; Comercial        ; 2-1;  Nacional
   Zé Carlos, Toninho; Murica
@@ -909,22 +898,21 @@ Round: 10
 Date: 10/1/1986
 
 ; Fortaleza        ; 2-2;  Vitória
-  Assis Paraíba, Alexandre (own goal); Alexandre (2)
+  Assis Paraíba, Alexandre (own goal); Alexandre, Alexandre
 
 ; Nacional         ; 3-1;  Santa Cruz
   Helinho, Luisinho, Jorginho; Marlon
 
-
 Date: 10/2/1986
 
 ; Palmeiras        ; 3-0;  Alecrim
-  Edu Manga, Lino, Mirandinha
+  Edu Manga, Lino, Mirandinha;
 
 ; Portuguesa       ; 2-1;  Botafogo-RJ
   Machado, Ronaldo; Berg
 
 ; Comercial        ; 1-0;  CSA
-  Negão
+  Negão;
 
 Round: 11
 Date: 10/5/1986
@@ -936,10 +924,10 @@ Date: 10/5/1986
   Marlon, Zé Henrique, Lula; Frank, Luisinho
 
 ; CSA              ; 1-0;  Palmeiras
-  Nívio
+  Nívio;
 
-;; Botafogo-RJ;       2-4  Atlético-MG
-  Berg (2); Éverton, Sérgio Araújo, Jorge Valença, Reinaldo Xavier
+; Botafogo-RJ;       2-4;  Atlético-MG
+  Berg, Berg; Éverton, Sérgio Araújo, Jorge Valença, Reinaldo Xavier
 
 Date: 10/9/1986
 
@@ -974,75 +962,75 @@ Date: 10/9/1986
 *(top-7 from each group of Second Phase).
 
 
-Chave 2 - Parallel Tournament (Second Level)
+*Chave 2 - Parallel Tournament (Second Level)
 
-In July 1986, when CBF announced the dispute of Parallel Tournament, only 24 clubs would take part.
-Twenty-two of these clubs would be selected by FA through 1986 state championship record. The others 
-two would be Goytacaz, runner-up of 1985 Taça de Prata, and Brasil de Pelotas, best record on 1985 
-Copa Brasil Groups C/D. Through August, some FAs started to pressure for more berths. Rio de Janeiro
-FA chose Americano, instead of Campo Grande, claiming that 1985 Rio de Janeiro State Championship 
-rules gave to the first a berth in 1986 and Campo Grande would have the same right in 1987 (what never
-happened). Campo Grande protest, threatening to take the matter to court. This situation led to a extension
-of participants in Parallel Tournament. CBF included others 12 clubs. Ironically, Rio de Janeiro didn't receive
-an additional spot and Campo Grande did not participate.
+*In July 1986, when CBF announced the dispute of Parallel Tournament, only 24 clubs would take part.
+*Twenty-two of these clubs would be selected by FA through 1986 state championship record. The others 
+*two would be Goytacaz, runner-up of 1985 Taça de Prata, and Brasil de Pelotas, best record on 1985 
+*Copa Brasil Groups C/D. Through August, some FAs started to pressure for more berths. Rio de Janeiro
+*FA chose Americano, instead of Campo Grande, claiming that 1985 Rio de Janeiro State Championship 
+*rules gave to the first a berth in 1986 and Campo Grande would have the same right in 1987 (what never
+*happened). Campo Grande protest, threatening to take the matter to court. This situation led to a extension
+*of participants in Parallel Tournament. CBF included others 12 clubs. Ironically, Rio de Janeiro didn't receive
+*an additional spot and Campo Grande did not participate.
 
-Participants:
+*Participants:
 
-Best Club on 1985 Copa Brasil Group C/D (1)
-GE Brasil (Pelotas-RS)
+*Best Club on 1985 Copa Brasil Group C/D (1)
+*GE Brasil (Pelotas-RS)
+*
+*Runner-Up 1985 Taça de Prata (1)
+*Goytacaz FC (Campos-RJ)
+*
+*Original clubs qualified by 1986 State Record (22)
+*Americano FC (Campos-RJ) (*)
+*Atlético Rio Negro C (Manaus-AM)
+*AE Catuense (Catu-BA) 
+*Clube de Regatas Brasil (Maceió-AL)
+*Ferroviário AC (Fortaleza-CE) 
+*A Desportiva FVRD (Cariacica-ES) 
+*Central SC (Caruaru-PE) 
+*AD Confiança (Aracaju-SE) 
+*Taguatinga EC (Brasília-DF)
+*América FC (Natal-RN) 
+*River AC (Teresina-PI)
+*Sport Club Belém (PA)
+*Treze FC (Campina Grande-PB)
+*Ubiratan EC (Dourados-MS)
+*Mixto EC (Cuiabá-MT)
+*EC Juventude (Caxias do Sul-RS)
+*AA Internacional (Limeira-SP)
+*EC Pinheiros (Curitiba-PR)
+*Criciúma EC (SC)
+*Uberlândia EC (MG)
+*Moto Clube (São Luís-MA)
+*Itumbiara EC (GO) (**)
+*
+*Additional teams chosen by 1986 state record(12)
+*Guarany SC (Sobral-CE)
+*Londrina EC (PR)
+*Cascavel EC (PR)
+*CN Marcílio Dias (Itajaí-SC) 
+*Avaí FC (Florianópolis-SC)
+*EC Novo Hamburgo (RS)
+*EC Santo André (SP)
+*CA Juventus (São Paulo-SP)
+*Maranhão AC (São Luís-MA) 
+*Anápolis FC (GO) (**)
+*América FC (Belo Horizonte-MG) (**)
+*Fluminense FC (Feira de Santana-BA) (**) 
+*
+*(*) Based on 1985 State Record
+*(**) Based on unknown reasons 
 
-Runner-Up 1985 Taça de Prata (1)
-Goytacaz FC (Campos-RJ)
+Group: E   
 
-Original clubs qualified by 1986 State Record (22)
-Americano FC (Campos-RJ) (*)
-Atlético Rio Negro C (Manaus-AM)
-AE Catuense (Catu-BA) 
-Clube de Regatas Brasil (Maceió-AL)
-Ferroviário AC (Fortaleza-CE) 
-A Desportiva FVRD (Cariacica-ES) 
-Central SC (Caruaru-PE) 
-AD Confiança (Aracaju-SE) 
-Taguatinga EC (Brasília-DF)
-América FC (Natal-RN) 
-River AC (Teresina-PI)
-Sport Club Belém (PA)
-Treze FC (Campina Grande-PB)
-Ubiratan EC (Dourados-MS)
-Mixto EC (Cuiabá-MT)
-EC Juventude (Caxias do Sul-RS)
-AA Internacional (Limeira-SP)
-EC Pinheiros (Curitiba-PR)
-Criciúma EC (SC)
-Uberlândia EC (MG)
-Moto Clube (São Luís-MA)
-Itumbiara EC (GO) (**)
-
-Additional teams chosen by 1986 state record(12)
-Guarany SC (Sobral-CE)
-Londrina EC (PR)
-Cascavel EC (PR)
-CN Marcílio Dias (Itajaí-SC) 
-Avaí FC (Florianópolis-SC)
-EC Novo Hamburgo (RS)
-EC Santo André (SP)
-CA Juventus (São Paulo-SP)
-Maranhão AC (São Luís-MA) 
-Anápolis FC (GO) (**)
-América FC (Belo Horizonte-MG) (**)
-Fluminense FC (Feira de Santana-BA) (**) 
-
-(*) Based on 1985 State Record
-(**) Based on unknown reasons 
-
-Group E   
-
-Participants
-América FC (Natal-RN)                  Atlético Rio Negro C (Manaus-AM)
-Ferroviário AC (Fortaleza-CE)          River AC (Teresina-PI)
-Guarany SC (Sobral-CE)                 Sport Club Belém (PA)
-Maranhão AC (São Luís-MA)              Treze FC (Campina Grande-PB)
-Moto Clube (São Luís-MA)
+*Participants
+*América FC (Natal-RN)                  Atlético Rio Negro C (Manaus-AM)
+*Ferroviário AC (Fortaleza-CE)          River AC (Teresina-PI)
+*Guarany SC (Sobral-CE)                 Sport Club Belém (PA)
+*Maranhão AC (São Luís-MA)              Treze FC (Campina Grande-PB)
+*Moto Clube (São Luís-MA)
 
 Round: 1
 Date: 9/06/1986
@@ -1074,7 +1062,7 @@ Round: 3
 
 Date: 9/13/1986
 
-;; América-RN;        0-0  Treze
+; América-RN;        0-0;  Treze
 
 Date: 9/14/1986
 
@@ -1099,7 +1087,7 @@ Date: 9/20/1986
 
 Date: 9/21/1986
 
-;; América-RN;        1-0  Sport Belém
+; América-RN;        1-0;  Sport Belém
 ; Treze            ; 2-0;  River
 ; Guarany          ; 2-1;  Maranhão
 
@@ -1119,8 +1107,10 @@ Round: 7
 
 Date: 9/27/1986
 
-; Maranhão         ; 0-0;  Rio Negro (accordingo to CBF's Annual Report: 1-0)
-;; América-RN;        3-0  Guarany
+; Maranhão         ; 0-0;  Rio Negro 
+*(accordingo to CBF's Annual Report: 1-0)
+
+; América-RN;        3-0;  Guarany
 
 Date: 9/28/1986
 
@@ -1140,9 +1130,10 @@ Round: 9
 
 Date: 10/2/1986
 
-;; América-RN;        0-1  Maranhão 
+; América-RN;        0-1;  Maranhão 
 ; Sport Belém      ; 2-2;  River             
-; Guarany          ; 3-1;  Moto Clube   (accordingo to CBF's Annual Report: 3-2)     
+; Guarany          ; 3-1;  Moto Clube   
+*(accordingo to CBF's Annual Report: 3-2)     
 ; Ferroviário      ; 0-1;  Rio Negro         
 
 *Table
@@ -1157,14 +1148,14 @@ Date: 10/2/1986
 * 8-Sport Belém        8  1  2  5   5-11   4
 * 9-River              8  0  4  4   6-15   4 
    
-Group F   
+Group: F   
 
-Participants
-Americano FC (Campos-RJ)               A Desportiva FVRD (Cariacica-ES)
-AE Catuense (Catu-BA)                  Fluminense FC (Feira de Santana-BA)
-Central SC (Caruaru-PE)                Goytacaz FC (Campos-RJ)
-AD Confiança (Aracaju-SE)              Taguatinga EC (Brasília-DF)
-Clube de Regatas Brasil (Maceió-AL)
+*Participants
+*Americano FC (Campos-RJ)               A Desportiva FVRD (Cariacica-ES)
+*AE Catuense (Catu-BA)                  Fluminense FC (Feira de Santana-BA)
+*Central SC (Caruaru-PE)                Goytacaz FC (Campos-RJ)
+*AD Confiança (Aracaju-SE)              Taguatinga EC (Brasília-DF)
+*Clube de Regatas Brasil (Maceió-AL)
 
 
 Round: 1
@@ -1175,10 +1166,10 @@ Date: 9/6/1986
 Date: 9/7/1986
 
 ; Central         ; 2-1;  Desportiva 
-  Jorge Vinícius 19' e Zico 79'; Luís Carlos 90'
+  Jorge Vinícius 19, Zico 79; Luís Carlos 90
 
 ; Goytacaz        ; 0-1;  Americano 
-  Luis Alberto pt
+*  Luis Alberto pt
 
 ; Catuense        ; 0-0;  Fluminense-BA
 
@@ -1199,7 +1190,7 @@ Date: 9/14/1986
 
 ; Desportiva      ; 0-0;  Catuense 
 ; Central         ; 2-0;  CRB
-  Zico 12' e Ronaldo 90+3'
+  Zico 12, Ronaldo 90+3;
 
 ; Confiança       ; 2-1;  Goytacaz 
 ; Taguatinga      ; 3-0;  Fluminense-BA
@@ -1213,7 +1204,7 @@ Date: 9/17/1986
 
 Date: 9/18/1986
 
-;; Fluminense-BA;    1-0  Confiança 
+; Fluminense-BA;    1-0;  Confiança 
 ; Taguatinga      ; 2-1;  Central
 
 Round: 5
@@ -1235,7 +1226,7 @@ Date: 9/24/1986
 
 Date: 9/25/1986
 
-;; Fluminense-BA;    1-1  Desportiva 
+; Fluminense-BA;    1-1;  Desportiva 
 ; Americano       ; 1-0;  Taguatinga 
 ; Central         ; 1-0;  Catuense
 Zico 62;
@@ -1244,11 +1235,11 @@ Round: 7
 Date: 9/28/1986
 
 ; Desportiva      ; 1-0;  Taguatinga 
-;; Fluminense-BA;    2-2  Americano 
+; Fluminense-BA;    2-2;  Americano 
 ; Catuense        ; 2-3;  Goytacaz 
 
 ; Confiança       ; 0-1;  Central
-  Pacheco 64'
+;  Pacheco 64
 
 Round: 8
 Date: 10/1/1986
@@ -1268,7 +1259,7 @@ Date: 10/5/1986
 ; Desportiva      ; 3-0;  Confiança 
 ; Americano       ; 2-0;  CRB 
 ; Taguatinga      ; 2-2;  Goytacaz 
-;; Fluminense-BA;    2-2  Central
+; Fluminense-BA;    2-2;  Central
 
 *Table
 * 1-Central            8  5  1  2  11- 6  11 Qualified
@@ -1283,29 +1274,28 @@ Date: 10/5/1986
 * 9-Confiança          8  1  2  5   5-14   4
 *Central won the tie-breaking draw to determine 1st place
    
-Group G   
+Group: G   
 
-Participants
-América FC (Belo Horizonte-MG)         Mixto EC (Cuiabá-MT)
-Anápolis FC (GO)                       EC Santo André (SP)
-AA Internacional (Limeira-SP)          Uberlândia EC (MG)
-Itumbiara EC (GO)                      Ubiratan EC (Dourados-MS)
-CA Juventus (São Paulo-SP)
+*Participants
+*América FC (Belo Horizonte-MG)         Mixto EC (Cuiabá-MT)
+*Anápolis FC (GO)                       EC Santo André (SP)
+*AA Internacional (Limeira-SP)          Uberlândia EC (MG)
+*Itumbiara EC (GO)                      Ubiratan EC (Dourados-MS)
+*CA Juventus (São Paulo-SP)
 
 Round: 1
 Date: 9/6/1986
 
-;; América-MG;        2-2  Itumbiara
+; América-MG;        2-2;  Itumbiara
 
 Date: 9/7/1986
 
 ; Mixto            ; 2-1;  Anápolis
-  Carlos Alberto 27' e Edson 38'; Paulo Dias 3'
-
+  Carlos Alberto 27, Edson 38; Paulo Dias 3
 
 Date: 9/16/1986
 
-;; Internacional-SP;  2-0  Uberlândia
+; Internacional-SP;  2-0;  Uberlândia
 
 Date: 9/30/1986
 
@@ -1316,7 +1306,7 @@ Round: 2
 Date: 9/10/1986
 
 ; Mixto            ; 0-0;  Uberlândia
-;; América-MG;        1-1  Juventus
+; América-MG;        1-1;  Juventus
 
 Date: 9/11/1986
 
@@ -1327,7 +1317,7 @@ Round: 3
 
 Date: 9/14/1986
 
-;; Internacional-SP;  3-1  Santo André
+; Internacional-SP;  3-1;  Santo André
 ; Uberlândia       ; 0-1;  América-MG 
 *(according to CBF's Annual Report: 3-0)
 ; Ubiratan         ; 4-2;  Mixto
@@ -1339,14 +1329,15 @@ Date: 9/17/1986
 ; Santo André      ; 3-2;  Mixto             
 ; Juventus         ; 1-0;  Internacional-SP  
 ; Anápolis         ; 2-0;  América-MG 
-; Itumbiara        ; 0-0;  Ubiratan (according to CBF's Annual Report: 1-1)
+; Itumbiara        ; 0-0;  Ubiratan 
+*(according to CBF's Annual Report: 1-1)
 
 Round: 5
 
 Date: 9/21/1986
 
 ; Uberlândia       ; 1-1;  Anápolis 
-;; América-MG;        0-1  Santo André 
+; América-MG;        0-1;  Santo André 
 ; Juventus         ; 1-0;  Ubiratan
 
 Date: 9/30/1986
@@ -1357,7 +1348,7 @@ Round: 6
 
 Date: 9/24/1986
 
-;; Internacional-SP;  2-0  América-MG
+; Internacional-SP;  2-0;  América-MG
 
 Date: 9/25/1986
 
@@ -1371,25 +1362,26 @@ Date: 9/28/1986
 
 ; Uberlândia       ; 0-0;  Juventus 
 ; Itumbiara        ; 1-1;  Anápolis 
-;; América-MG;        6-1  Mixto             
+; América-MG;        6-1;  Mixto             
 ; Ubiratan         ; 1-1;  Internacional-SP
 
 Round: 8
 Date: 10/1/1986
 
-;; Internacional-SP;  4-0  Anápolis
+; Internacional-SP;  4-0;  Anápolis
 
 Date: 10/2/1986
 
 ; Santo André      ; 2-1;  Uberlândia
-; Ubiratan         ; 0-0;  América-MG (according to CBF's Annual Report: 0-2)
+; Ubiratan         ; 0-0;  América-MG 
+*(according to CBF's Annual Report: 0-2)
 ; Mixto            ; 2-2;  Itumbiara
 
 Round: 9
 
 Date: 10/5/1986
 
-Uberlândia        n/p  Ubiratan
+*Uberlândia        n/p  Ubiratan
 ; Anápolis         ; 1-0;  Santo André
 ; Juventus         ; 3-0;  Mixto             
 ; Itumbiara        ; 0-2;  Internacional-SP  
@@ -1406,7 +1398,7 @@ Uberlândia        n/p  Ubiratan
 * 8-Mixto              8  1  2  5   9-21   4
 * 9-Uberlândia         7  0  3  4   2- 7   3
   
-Group H   
+Group: H   
 
 *Participants
 *Avaí FC (Florianópolis-SC)             Londrina EC (PR)
@@ -1453,7 +1445,8 @@ Date: 9/17/1986
 Date: 9/18/1986
 
 ; Marcílio Dias    ; 1-1;  Criciúma
-; Juventude        ; 1-1;  Londrina (according to CBF's Annual Report: 1-0)
+; Juventude        ; 1-1;  Londrina 
+*(according to CBF's Annual Report: 1-0)
 ; Cascavel         ; 1-1;  Pinheiros
 
 Round: 5
@@ -1482,7 +1475,8 @@ Date: 9/28/1986
 ; Novo Hamburgo    ; 0-2;  Marcílio Dias 
 ; Cascavel         ; 1-1;  Juventude 
 ; Londrina         ; 1-2;  Brasil
-  [Éder 62'; Zé Roberto 60' e Edival (og) 72']
+  Éder 62; Zé Roberto 60, Edival (og) 72
+
 ; Pinheiros        ; 1-2;  Criciúma
 
 Round: 8
@@ -1517,70 +1511,61 @@ Date: 10/5/1986
 * 8-Brasil (Pelotas)   8  2  1  5   9-13   5
 * 9-Cascavel           8  0  4  4   6-12   4
    
-Second Phase
+*Second Phase
 
 
 Date: 10/12/1986
 
 ; Ponte Preta      ; 0-2;  São Paulo
-  Sídnei, Silas
+;  Sídnei, Silas
 
 ; Santos           ; 0-1;  Treze
-  Bill
+;  Bill
 
-;; América-RJ;        1-0  Bangu
-  Renato
-
-
+; América-RJ;        1-0;  Bangu
+  Renato;
 
 Date: 10/15/1986
 
 ; Bangu            ; 0-0;  Ponte Preta
 
 ; Palmeiras        ; 4-1;  Treze
-  Mirandinha (2), Edu Manga, Gérson Caçapa; Levi
+  Mirandinha, Mirandinha, Edu Manga, Gérson Caçapa; Levi
 
 ; Santos           ; 1-0;  América-RJ
-  Antônio Carlos
-
-  
+  Antônio Carlos;
 
 Date: 10/19/1986
 
 ; São Paulo        ; 2-0;  Santos
-  Silas, Pita
+  Silas, Pita;
 
 ; Ponte Preta      ; 0-0;  Palmeiras
 
 ; Treze            ; 1-0;  Bangu
-  Henrique
-
-  
+  Henrique;
 
 Date: 10/22/1986
 
 ; São Paulo        ; 2-0;  Bangu
-  Müller, Careca
+  Müller, Careca;
 
 ; Treze            ; 1-0;  Ponte Preta
-  Cláudio Mineiro
+  Cláudio Mineiro;
 
-;; Botafogo-RJ;       1-1  Joinville
+; Botafogo-RJ;       1-1;  Joinville
   Alemão; Cláudio José
 
-;; América-RJ;        1-1  Palmeiras
+; América-RJ;        1-1;  Palmeiras
   Ramón; Mirandinha
-
-  
 
 Date: 10/25/1986
 
 ; Santos           ; 1-1;  Ponte Preta
   Antônio Carlos; Chicão
 
-;; Botafogo-RJ;       2-0  Treze
-  Berg, Maurício
-
+; Botafogo-RJ;       2-0;  Treze
+  Berg, Maurício;
 
 
 Date: 10/26/1986
@@ -1589,109 +1574,99 @@ Date: 10/26/1986
   Müller; Luisinho
 
 ; Bangu            ; 0-1;  Palmeiras
-  Mirandinha
-
-
+;  Mirandinha
 
 Date: 10/29/1986
 
 ; Palmeiras        ; 1-0;  Santos
-  Mirandinha
+  Mirandinha;
 
 ; Bangu            ; 1-0;  Botafogo-RJ
-  Marinho
+  Marinho;
 
 ; Ponte Preta      ; 3-1;  América-RJ
-  Chicão (3); Ramón
+  Chicão, Chicao, Chicao; Ramón
 
 ; Treze            ; 0-0;  Joinville
 
 
-Date; 11/1/1986
+Date: 11/1/1986
 
 ; Santos           ; 2-0;  Bangu
-  Dino, Solano
+  Dino, Solano;
 
 
-Date; 11/2/1986
+Date: 11/2/1986
 
 ; São Paulo        ; 0-0;  Palmeiras
 
-;; América-RJ;        1-0  Treze
-  Luisinho
+; América-RJ;        1-0;  Treze
+  Luisinho;
 
 ; Joinville        ; 1-0;  Ponte Preta
-  Mirandinha
+  Mirandinha;
 
-
-
-Date; 11/5/1986
+Date: 11/5/1986
 
 ; Bangu            ; 1-1;  Joinville
   Marinho; Paulo Egídio
 
 
-Date; 11/6/1986
+Date: 11/6/1986
 
 ; Ponte Preta      ; 1-0;  Botafogo-RJ
-  Márcio Luís
+  Márcio Luís;
 
-
-
-Date; 11/9/1986
+Date: 11/9/1986
 
 ; Palmeiras        ; 3-2;  Botafogo-RJ
   Mirandinha, Vágner, Lino; Arthurzinho, Teo
 
 ; Joinville        ; 0-0;  São Paulo
 
-Date; 11/12/1986
+Date: 11/12/1986
 
 ; Treze            ; 1-0;  São Paulo
-  Dão
+  Dão;
 
-;; América-RJ;        2-1  Botafogo-RJ
+; América-RJ;        2-1;  Botafogo-RJ
   Ramón, Luisinho; Arthurzinho
 
-  
-
-Date; 11/13/1986
+Date: 11/13/1986
 
 ; Joinville        ; 0-0;  Santos
 
-Date; 11/16/1986
+Date: 11/16/1986
 
-;; Botafogo-RJ;       2-3  Santos
-  Maurício, Roberto Carlos; Gérson (2), Nildo
+; Botafogo-RJ;       2-3;  Santos
+  Maurício, Roberto Carlos; Gérson, Gerson, Nildo
 
 ; Palmeiras        ; 2-0;  Joinville
-  Mendonça (2)
+  Mendonça, Mendonca;
 
-Date; 11/19/1986
+Date: 11/19/1986
 
 ; Joinville        ; 2-0;  América-RJ
-  Mirandinha, Toninho Cajuru
+  Mirandinha, Toninho Cajuru;
 
-  
-
-Date; 11/20/1986
+  Date: 11/20/1986
 
 ; São Paulo        ; 5-0;  Botafogo-RJ
-  Careca (3), Müller, Silas
+  Careca, Careca, Careca, Müller, Silas;
 
-Date; 11/23/1986
+Date: 11/23/1986
 
 ; Santos           ; 0-0;  São Paulo
 
-;; América-RJ;        2-1  Ponte Preta
+; América-RJ;        2-1;  Ponte Preta
   Renato, Luisinho; Valdir
 
 ; Joinville        ; 0-0;  Palmeiras
 
 ; Treze            ; 0-1;  Botafogo-RJ
-  Josimar
+;  Josimar
 
-Date; 11/26/1986
+Date: 11/26/1986
 
 ; Palmeiras        ; 1-1;  América-RJ
   Mirandinha; Luisinho
@@ -1700,23 +1675,23 @@ Date; 11/26/1986
   Marcelinho; Solano
 
 ; Joinville        ; 3-0;  Treze
-  Mirandinha (2), Toninho Cajuru
+  Mirandinha, Mirandinha, Toninho Cajuru;
 
-;; Botafogo-RJ;       0-0  Ponte Preta
+; Botafogo-RJ;       0-0;  Ponte Preta
 
-Date; 11/29/1986
+Date: 11/29/1986
 
 ; Palmeiras        ; 2-0;  Ponte Preta
-  Vágner, Mirandinha
+  Vágner, Mirandinha;
 
-Date; 11/30/1986
+Date: 11/30/1986
 
 ; Santos           ; 0-0;  Botafogo-RJ
 
-;; América-RJ;        0-0  São Paulo
+; América-RJ;        0-0;  São Paulo
 
 ; Joinville        ; 4-0;  Bangu
-  Mirandinha (2), Paulo Egídio, Toninho Cajuru
+  Mirandinha, Mirandinha, Paulo Egídio, Toninho Cajuru;
 
 Date: 12/3/1986
 
@@ -1724,51 +1699,47 @@ Date: 12/3/1986
   Ditinho, Diogo; João Cláudio, Toby
 
 ; São Paulo        ; 4-1;  Treze
-  Müller (3), Careca; Bill
+  Müller, Muller, Muller, Careca; Bill
 
 ; Ponte Preta      ; 2-0;  Joinville
-  Zé Carlos, Mauro
+  Zé Carlos, Mauro;
 
 Date: 12/4/1986
 
-;; América-RJ;        0-0  Botafogo-RJ
+; América-RJ;        0-0;  Botafogo-RJ
 
 Date: 12/7/1986
 
 ; Santos           ; 1-1;  Palmeiras
   Ribamar; Mirandinha
 
-;; Botafogo-RJ;       0-0  São Paulo
+; Botafogo-RJ;       0-0;  São Paulo
 
-;; América-RJ;        1-1  Joinville
+; América-RJ;        1-1;  Joinville
   Renato; Leandro
 
 ; Bangu            ; 1-0;  Treze
-  Marcelinho
-
-
+  Marcelinho;
 
 Date: 12/10/1986
 
 ; Joinville        ; 1-0;  Botafogo-RJ
-  Gilvã
+  Gilvã;
 
 ; Treze            ; 0-0;  Santos
 
 ; São Paulo        ; 6-1;  Ponte Preta
-  Careca (2), Silas (2), Pita, Bernardo; Mauro
+  Careca, Careca, Silas, Silas, Pita, Bernardo; Mauro
 
 ; Bangu            ; 1-1;  América-RJ
   Ricardo; Renato
 
 Date: 12/13/1986
 
-;; Botafogo-RJ;       0-0  Bangu
+; Botafogo-RJ;       0-0;  Bangu
 
 ; Ponte Preta      ; 1-1;  Treze
   Júnior; Márcio Ribeiro
-
-  
 
 Date: 12/14/1986
 
@@ -1778,23 +1749,25 @@ Date: 12/14/1986
 ; Santos           ; 0-0;  Joinville
 
 1/24/1987; São Paulo        ; 5-0;  Joinville
-  Careca (2), Müller, Silas, Pita
+  Careca, Careca, Müller, Silas, Pita;
 
  
-[Jan 25/87]
-;; América-RJ;        1-0  Santos
-  Denílson
+Date: 1/25/1987
+
+; América-RJ;        1-0;  Santos
+  Denílson;
 
 ; Treze            ; 0-2;  Palmeiras
-  Ditinho, Edu Manga
+;  Ditinho, Edu Manga
 
 ; Ponte Preta      ; 1-2;  Bangu
   Marquinho; Gil, Nando
 
 
-[Jan 28/87]
+Date: 1/28/1987
+
 ; Bangu            ; 1-0;  São Paulo
-  Marcelinho
+  Marcelinho;
 
 ; Ponte Preta      ; 0-0;  Santos
 
@@ -1802,10 +1775,10 @@ Date: 12/14/1986
   Mirandinha; Luisinho
 
  
-[Jan 29/87]
+Date: 1/29/1987
 
-;; Botafogo-RJ;       1-0  Palmeiras
-  Fernando Macaé
+; Botafogo-RJ;       1-0;  Palmeiras
+  Fernando Macaé;
 
   
 *Table
@@ -1823,24 +1796,22 @@ Date: 12/14/1986
 
 Group: J
 
-
 Date: 10/12/1986
 
-;; Atlético-GO;       0-2  Fluminense-RJ
-  Washington, Paulinho
+; Atlético-GO;       0-2;  Fluminense-RJ
+;  Washington, Paulinho
 
 ; Flamengo         ; 1-1;  Grêmio
   Bebeto; Lima
 
 
-
 Date: 10/16/1986
 
 ; Flamengo         ; 2-1;  Atlético-GO
-  Gilmar (2); Palhinha
+  Gilmar, Gilmar; Palhinha
 
-;; Fluminense-RJ;     2-0  Central
-  Tato, João Santos
+; Fluminense-RJ;     2-0;  Central
+  Tato, João Santos;
 
 ; Grêmio           ; 1-1;  Vitória
   Lima; Jésum
@@ -1852,10 +1823,10 @@ Date: 10/19/1986
 ; Flamengo         ; 0-0;  Fluminense-RJ
 
 ; Central; 1-0;  Vitória
-  Brasília (own goal)
+  Brasília (own goal);
 
-;; Atlético-GO;       0-3  Guarani
-  Chiquinho Carioca, Neo (own goal), Evair
+; Atlético-GO;       0-3;  Guarani
+;  Chiquinho Carioca, Neo (own goal), Evair
 
 Date: 10/22/1986
 
@@ -1863,76 +1834,64 @@ Date: 10/22/1986
   João Paulo, Evair; Lima
 
 ; Central          ; 2-1;  Flamengo
-  Ronaldo (2); Vinícius
-
-
+  Ronaldo, Ronaldo; Vinícius
 
 Date: 10/23/1986
 
-;; Fluminense-RJ;     1-0  Vitória
-  Ricardo Gomes
+; Fluminense-RJ;     1-0;  Vitória
+  Ricardo Gomes;
 
 ; Goiás            ; 0-2;  Santa Cruz
-  Jarbas (2)
+;  Jarbas, Jarbas
 
 Date: 10/29/1986
 
-;; Atlético-GO;       0-1  Grêmio
-  Valdo
+; Atlético-GO;       0-1;  Grêmio
+;  Valdo
 
 ; Vitória          ; 2-1;  Goiás
   Gilmar, Adílson; Jorge Caraballo
 
-
-
 Date: 10/30/1986
 
 ; Guarani          ; 3-0;  Central
-  Evair (2), João Paulo
+  Evair, Evair, João Paulo;
 
 ; Santa Cruz       ; 1-1;  Fluminense-RJ
   Evaristo; Washington
 
-
-
 Date: 10/26/1986
 
 ; Grêmio           ; 1-0;  Fluminense-RJ
-  Lima
+  Lima;
 
 ; Flamengo         ; 0-0;  Guarani
 
 ; Central          ; 1-1;  Atlético-GO
   Zico; Palhinha
 
- 
-
 Date: 10/27/1986
 
 ; Vitória          ; 1-1;  Santa Cruz
   Hêider; Rômel
 
-  
+Date: 11/1/1986
 
-Date; 11/1/1986
+; Atlético-GO;       1-0;  Vitória
+  Palhinha;
 
-;; Atlético-GO;       1-0  Vitória
-  Palhinha
-
-
-
-Date; 11/2/1986
+Date: 11/2/1986
 
 ; Goiás            ; 0-4;  Flamengo
-  Kita (3), Sócrates
+;  Kita, Kita, Kita, Sócrates
 
 ; Central          ; 2-2;  Grêmio
-  Zico (2); Lima, Osvaldo
+  Zico, Zico; Lima, Osvaldo
 
-;; Fluminense-RJ;     1-2  Guarani
+; Fluminense-RJ;     1-2;  Guarani
   Washington; Tosin, João Paulo
 
-Date; 11/5/1986
+Date: 11/5/1986
 
 ; Guarani          ; 3-1;  Santa Cruz
   Evair, Barbiéri, Catatau; Jacozinho
@@ -1940,124 +1899,106 @@ Date; 11/5/1986
 ; Goiás            ; 1-1;  Central
   Carlos Magno; Pacheco
 
-
-
-Date; 11/8/1986
+Date: 11/8/1986
 
 ; Santa Cruz       ; 1-1;  Atlético-GO
   Celso Mendes; Marçal
 
-  
-
-Date; 11/9/1986
+Date: 11/9/1986
 
 ; Grêmio           ; 0-3;  Goiás
-  Tarciso, Carlos Magno, Albeneir
+;  Tarciso, Carlos Magno, Albeneir
 
 ; Vitória          ; 0-1;  Flamengo
-  Bebeto
+;  Bebeto
 
-
-
-Date; 11/12/1986
+Date: 11/12/1986
 
 ; Santa Cruz       ; 0-0;  Central
 
 
-Date; 11/13/1986
+Date: 11/13/1986
 
 ; Goiás            ; 1-2;  Fluminense-RJ
-  Zezinho; Assis (2)
+  Zezinho; Assis, Assis
 
-Date; 11/16/1986
+Date: 11/16/1986
 
 ; Grêmio           ; 0-1;  Santa Cruz
-  Jarbas
+;  Jarbas
 
-;; Atlético-GO;       1-1  Goiás
+; Atlético-GO;       1-1;  Goiás
   Ticão; Nogueira (own goal)
 
 ; Vitória          ; 0-2;  Guarani
-  Evair (2)
+;  Evair, Evair
 
-
-
-Date; 11/19/1986
+Date: 11/19/1986
 
 ; Guarani          ; 0-1;  Goiás
-  Albeneir
+;  Albeneir
 
 ; Santa Cruz       ; 0-1;  Flamengo
-  Alcindo
+;  Alcindo
 
-
-
-Date; 11/22/1986
+Date: 11/22/1986
 
 ; Flamengo         ; 1-2;  Goiás
   Bebeto; Tarciso, Albeneir
 
-  
-
-Date; 11/23/1986
+Date: 11/23/1986
 
 ; Central          ; 1-5;  Fluminense-RJ
-  Freitas; Washington (3), Leomir, Eduardo
+  Freitas; Washington, Washington, Washington, Leomir, Eduardo
 
 ; Vitória          ; 1-0;  Grêmio
-  Ataíde
+  Ataíde;
 
-;; Atlético-GO;       3-1  Santa Cruz
-  Ilo (2), Palhinha; Zé do Carmo
+; Atlético-GO;       3-1;  Santa Cruz
+  Ilo, ILo, Palhinha; Zé do Carmo
 
-
-
-Date; 11/26/1986
+Date: 11/26/1986
 
 ; Flamengo         ; 5-0;  Central
-  Vinícius (2), Bebeto, Zinho, Júlio César
+  Vinícius, Vinicius, Bebeto, Zinho, Júlio César;
 
 ; Goiás            ; 0-0;  Guarani
 
 ; Grêmio           ; 4-2;  Atlético-GO
-  Valdo (2), Lima (2); Palhinha, Neo
+  Valdo, Valdo, Lima, Lima; Palhinha, Neo
 
 ; Santa Cruz       ; 2-2;  Vitória
   Celso Mendes, Lula; Duda, Edu Lima
 
-
-
-Date; 11/29/1986
+Date: 11/29/1986
 
 ; Santa Cruz       ; 0-0;  Grêmio
 
 
-Date; 11/30/1986
+Date: 11/30/1986
 
-;; Fluminense-RJ;     1-0  Flamengo
-  Leomir
+; Fluminense-RJ;     1-0;  Flamengo
+  Leomir;
 
 ; Goiás            ; 2-2;  Atlético-GO
-  Zezinho (2); Osmarzinho, William
+  Zezinho, Zezinho; Osmarzinho, William
 
 ; Guarani          ; 4-0;  Vitória
-  João Paulo (2), Evair, Gílson Jáder
-
-
+  João Paulo, Joao Paulo, Evair, Gílson Jáder;
 
 Date: 12/3/1986
 
 ; Vitória          ; 1-0;  Central
-  Dedei
+  Dedei;
 
 ; Santa Cruz       ; 1-1;  Guarani
   Zé do Carmo; Evair
 
-;; Atlético-GO;       0-0  Flamengo
+; Atlético-GO;       0-0;  Flamengo
 
-;; Fluminense-RJ;     2-0  Goiás
-  Washington, Tato
-
+; Fluminense-RJ;     2-0;  Goiás
+  Washington, Tato;
+;
 Date: 12/6/1986
 
 ; Fluminense       ; 0-0;  Atlético-GO
@@ -2071,18 +2012,18 @@ Date: 12/7/1986
   Zico; Catatau, Evair, Chiquinho Carioca
 
 ; Grêmio           ; 2-0;  Flamengo
-  Bonamigo, Valdo
+  Bonamigo, Valdo;
 
 Date: 12/10/1986
 
 ; Santa Cruz       ; 1-1;  Goiás
   Jarbas; Carlos Magno
 
-;; Atlético-GO;       2-0  Central
-  Palhinha, Célio Gaúcho
+; Atlético-GO;       2-0;  Central
+  Palhinha, Célio Gaúcho;
 
-;; Fluminense-RJ;     1-0  Grêmio
-  Leomir
+; Fluminense-RJ;     1-0;  Grêmio
+  Leomir;
 
 Date: 12/11/1986
 
@@ -2100,34 +2041,33 @@ Date: 12/14/1986
 
 Date: 1/24/1987
 
-;; Fluminense-RJ;     2-0  Santa Cruz
-  Washington, Alberto
+; Fluminense-RJ;     2-0;  Santa Cruz
+  Washington, Alberto;
 
 Date: 1/25/1987
 
 ; Flamengo         ; 2-0;  Vitória
-  Sócrates (2)
+  Sócrates, Socrates;
 
 ; Grêmio           ; 0-1;  Guarani
-  Chiquinho Carioca
+;  Chiquinho Carioca
 
 ; Central          ; 2-2;  Goiás
-  Leléu (2); Formiga, Carlos Alberto
-
+  Leléu, Leleu; Formiga, Carlos Alberto
 
 Date: 1/28/1987
 
 ; Guarani          ; 2-0;  Atlético-GO
-  Evair, Chiquinho Carioca
+  Evair, Chiquinho Carioca;
 
 ; Flamengo         ; 0-1;  Santa Cruz
-  Celso Mendes
+;  Celso Mendes
 
 ; Vitória          ; 2-1;  Fluminense-RJ
   Bira, Ataíde; Marcão
 
 ; Grêmio           ; 3-0;  Central
-  Odair, Lima, Caio
+  Odair, Lima, Caio;
 
 
 *Table
@@ -2147,25 +2087,25 @@ Group: K
 Date: 10/12/1986
 
 ; Cruzeiro         ; 5-1;  Internacional-SP
-  Róbson (3), Hamílton, Édson; Lê
+  Róbson, Robson, Robson, Hamílton, Édson; Lê
 
 ; Bahia            ; 0-0;  Atlético-PR
 
 Date: 10/16/1986
 
-;; Atlético-PR;       1-1  Cruzeiro
+; Atlético-PR;       1-1;  Cruzeiro
   Agnaldo; Eduardo
 
 ; Bahia            ; 2-0;  CSA
-  Cláudio Adão (2)
+  Cláudio Adão, Claudio Adao;
 
 Date: 10/19/1986
 
 ; Bahia            ; 1-0;  Sport
-  Marinho
+  Marinho;
 
-;; Internacional-SP;  1-0  Atlético-PR
-  Marcão (own goal)
+; Internacional-SP;  1-0;  Atlético-PR
+  Marcão (own goal);
 
 ; Portuguesa       ; 0-0;  Cruzeiro
 
@@ -2178,28 +2118,25 @@ Date: 10/22/1986
 
 Date: 10/23/1986
 
-;; Internacional-SP;  1-1  Bahia
+; Internacional-SP;  1-1;  Bahia
   Magu; Leandro
 
 ; Cruzeiro         ; 3-1;  Comercial
   Vanderlei, Douglas, Róbson; Toninho
 
 
-
 Date: 10/26/1986
 
 ; Bahia            ; 1-0;  Cruzeiro
-  Cláudio Adão
+  Cláudio Adão;
 
 ; Sport            ; 3-2;  Internacional-SP
-  Heraldo (2), Luís Carlos; Cléber (2)
+  Heraldo, Heraldo, Luís Carlos; Cléber, Cleber
 
 ; Portuguesa       ; 0-0;  CSA
 
-;; Atlético-PR;       2-1  Náutico
+; Atlético-PR;       2-1;  Náutico
   Agnaldo, Beto; Fernando
-
-
 
 Date: 10/29/1986
 
@@ -2207,153 +2144,132 @@ Date: 10/29/1986
   Tim; Marinho, Humberto
 
 ; Portuguesa       ; 4-0;  Náutico
-  Toninho (2), Hélder (2)
+  Toninho, Toninho, Hélder, Helder;
 
 ; Cruzeiro         ; 0-0;  Sport
 
 ; CSA              ; 1-1;  Internacional-SP
   Bolívar (own goal); João Batista
 
-
-
-Date; 11/1/1986
+Date: 11/1/1986
 
 ; Portuguesa       ; 2-0;  Bahia
-  Esquerdinha, Ronaldo
+  Esquerdinha, Ronaldo;
 
 ; Náutico          ; 3-1;  Comercial
   Rolério, Moreno, Torrinha; Márcio
 
-
-
-Date; 11/2/1986
+Date: 11/2/1986
 
 ; Sport            ; 1-1;  Atlético-PR
   Heraldo; Mauro Madureira
 
 ; Cruzeiro         ; 2-0;  CSA
-  Hamílton, Ernâni
+  Hamílton, Ernâni;
 
-
-
-Date; 11/5/1986
+Date: 11/5/1986
 
 ; Náutico          ; 1-1;  CSA
   Moreno; André
 
 ; Comercial        ; 1-0;  Portuguesa
-  Wílson Carrasco
+  Wílson Carrasco;
 
+Date: 11/9/1986
 
-
-Date; 11/9/1986
-
-;; Atlético-PR;       1-1  Portuguesa
+; Atlético-PR;       1-1;  Portuguesa
   Barbosa; Jorginho
 
 ; CSA              ; 1-0;  Sport
-  André
+  André;
 
 ; Náutico          ; 1-1;  Cruzeiro
   Baiano; Róbson
 
 ; Comercial        ; 0-0;  Internacional-SP
 
-Date; 11/12/1986
+Date: 11/12/1986
 
-;; Internacional-SP;  1-2  Náutico
+; Internacional-SP;  1-2;  Náutico
   Cléber; Wílson Gottardo, Moreno
 
 ; Comercial        ; 2-1;  Sport
   Wílson Carrasco, Carlão; Luís Carlos
 
-Date; 11/16/1986
+Date: 11/16/1986
 
 ; Sport            ; 0-2;  Náutico
-  Reginaldo, Moreno
+;  Reginaldo, Moreno
 
-;; Internacional-SP;  1-1  Portuguesa
+; Internacional-SP;  1-1;  Portuguesa
   João Batista; Toninho
 
-;; Atlético-PR;       1-0  Comercial
-  Mauro Madureira
+; Atlético-PR;       1-0;  Comercial
+  Mauro Madureira;
 
-
-
-Date; 11/19/1986
+Date: 11/19/1986
 
 ; CSA              ; 0-0;  Comercial
 
-
-Date; 11/20/1986
+Date: 11/20/1986
 
 ; Náutico          ; 0-1;  Bahia
-  Cláudio Adão
+;  Cláudio Adão
 
-Date; 11/23/1986
+Date: 11/23/1986
 
-;; Atlético-PR;       3-1  Bahia
-  Agnaldo (2), Amauri; Humberto
+; Atlético-PR;       3-1;  Bahia
+  Agnaldo, Agnaldo, Amauri; Humberto
 
 ; Comercial        ; 0-1;  Náutico
-  Luís Sílvio
+;  Luís Sílvio
 
 ; Sport            ; 2-1;  Cruzeiro
-  Adílson (2); Ademir
+  Adílson, Adilson; Ademir
 
 ; CSA              ; 1-1;  Portuguesa
   Carlinhos Paulista; Toninho
 
-
-
-Date; 11/26/1986
+Date: 11/26/1986
 
 ; Cruzeiro         ; 2-0;  Portuguesa
-  Heriberto, Róbson
+  Heriberto, Róbson;
 
-;; Internacional-SP;  2-1  Sport
+; Internacional-SP;  2-1;  Sport
   Gilberto Costa, Gílson; Adílson
 
 ; Comercial        ; 0-3;  CSA
-  Mário Tilico, Veiga, Helinho
+;  Mário Tilico, Veiga, Helinho
 
-
-
-Date; 11/27/1986
+Date: 11/27/1986
 
 ; Náutico          ; 1-0;  Atlético-PR
-  Luís Sílvio
+  Luís Sílvio;
 
-
-
-Date; 11/30/1986
+Date: 11/30/1986
 
 ; Náutico          ; 1-0;  Sport
-  Heraldo (own goal)
+  Heraldo (own goal);
 
 ; Portuguesa       ; 3-2;  Comercial
   Ronaldo, Edu Marangon, Célio; Wílson Carrasco, Carlão
 
 ; Cruzeiro         ; 1-0;  Atlético-PR
-  Geraldão
+  Geraldão;
 
 ; Bahia            ; 2-1;  Internacional-SP
-  Cláudio Adão (2); João Batista
-
-
+  Cláudio Adão, Claudio Adao; João Batista
 
 Date: 12/3/1986
 
-;; Atlético-PR;       2-0  Sport
-  Roberto, Luís Carlos
+; Atlético-PR;       2-0;  Sport
+  Roberto, Luís Carlos;
 
 ; Comercial        ; 3-3;  Cruzeiro
   Soares, Jair, Luís Carlos do Amparo; Heriberto, Eduardo, Édson
 
 ; CSA              ; 1-0;  Bahia
-  Coca
-
-
+  Coca;
 
 Date: 12/4/1986
 
@@ -2362,8 +2278,8 @@ Date: 12/4/1986
 
 Date: 12/7/1986
 
-;; Internacional-SP;  1-0  Cruzeiro
-  Liminha
+; Internacional-SP;  1-0;  Cruzeiro
+  Liminha;
 
 ; Sport            ; 3-1;  CSA
   Adílson, Ditinho, Luís Carlos; Henágio
@@ -2371,43 +2287,37 @@ Date: 12/7/1986
 ; Comercial        ; 0-0;  Atlético-PR
 
 ; Bahia            ; 1-0;  Náutico
-  Cláudio Adão
-
-
+  Cláudio Adão;
 
 Date: 12/10/1986
 
-;; Atlético-PR;       2-2  Internacional-SP
-  Roberto, Luís Carlos; Tato (2)
+; Atlético-PR;       2-2;  Internacional-SP
+  Roberto, Luís Carlos; Tato, Tato
 
 ; CSA              ; 2-1;  Náutico
-  Washington (2); Torrinha
+  Washington, Washington; Torrinha
 
 ; Bahia            ; 0-1;  Portuguesa
-  Albéris
-
+;  Albéris
 
 Date: 12/11/1986
 
 ; Sport            ; 1-1;  Comercial
   Adílson; Toninho
 
-
-
 Date: 12/14/1986
 
-;; Atlético-PR;       2-1  CSA
+; Atlético-PR;       2-1;  CSA
   Mauro Madureira, Haroldo; André
 
 ; Cruzeiro         ; 2-1;  Bahia
   Heriberto, Ernâni; Cláudio Adão
 
-;; Internacional-SP;  2-0  Comercial
-  João Batista, Liminha
+; Internacional-SP;  2-0;  Comercial
+  João Batista, Liminha;
 
 ; Náutico          ; 0-2;  Portuguesa
-  Toninho, Hélder
-
+;  Toninho, Hélder
 
 Date: 1/25/1987
 
@@ -2415,29 +2325,27 @@ Date: 1/25/1987
   Luís Müller; Heraldo
 
 ; Náutico          ; 0-1;  Internacional-SP
-  João Batista
+;  João Batista
 
 ; Bahia            ; 3-1;  Comercial
-  Zé Carlos (2), Cláudio Adão; Pastoril
+  Zé Carlos, Ze Carlos, Cláudio Adão; Pastoril
 
 ; CSA              ; 0-1;  Cruzeiro
-  Róbson
-
+;  Róbson
 
 Date: 1/28/1987
 
 ; Portuguesa       ; 1-0;  Atlético-PR
-  Wânderson
+  Wânderson;
 
 ; Cruzeiro         ; 1-0;  Náutico
-  Geraldão
+  Geraldão;
 
 ; Sport            ; 0-1;  Bahia
-  Cláudio Adão
+;  Cláudio Adão
 
-;; Internacional-SP;  2-0  CSA
-  João Batista, Tato
-
+; Internacional-SP;  2-0;  CSA
+  João Batista, Tato;
 
 *Table
 * 1-Cruzeiro          16  8  5  3  23-12  21  Qualified
@@ -2460,54 +2368,46 @@ Date: 10/12/1986
 ; Corinthians      ; 1-1;  Criciúma
   Casagrande; Edmílson
 
-;; Internacional-RS;  2-0  Ceará
-  Luís Fernando Flores, Sabará
+; Internacional-RS;  2-0;  Ceará
+  Luís Fernando Flores, Sabará;
 
 ; Rio Branco       ; 0-1;  Atlético-MG
-  Éverton
-
-
+;  Éverton
 
 Date: 10/15/1986
 
-;; Atlético-MG;       2-0  Ceará
-  Éverton, Reinaldo Xavier
+; Atlético-MG;       2-0;  Ceará
+  Éverton, Reinaldo Xavier;
 
 ; Nacional         ; 2-1;  Rio Branco
-  Luisinho (2); Mazolinha
+  Luisinho, Luisinho; Mazolinha
 
 Date: 10/16/1986
 
 ; Criciúma         ; 1-1;  Internacional-RS
   Edmílson; Sabará
 
-
-
 Date: 10/19/1986
 
-;; Internacional-RS;  2-2  Corinthians
+; Internacional-RS;  2-2;  Corinthians
   Édson Boaro (own goal), Tita; Cristóvão, Edmar
 
-;; Atlético-MG;       1-0  Nacional
-  Éverton
+; Atlético-MG;       1-0;  Nacional
+  Éverton;
 
 ; Ceará            ; 3-0;  Rio Branco
-  Rubens Feijão, Gérson Sodré, Petróleo
+  Rubens Feijão, Gérson Sodré, Petróleo;
 
 ; Vasco da Gama    ; 2-0;  Criciúma
-  Romário, Roberto Dinamite
-
-
+  Romário, Roberto Dinamite;
 
 Date: 10/22/1986
 
 ; Corinthians      ; 4-0;  Ceará
-  Edmar (2), Argeu (own goal), Cristóvão
+  Edmar, Edmar, Argeu (own goal), Cristóvão;
 
 ; Criciúma         ; 2-1;  Nacional
-  Edmílson (2); Helinho
-
-
+  Edmílson, Edmilson; Helinho
 
 Date: 10/23/1986
 
@@ -2516,25 +2416,23 @@ Date: 10/23/1986
 
 Date: 10/26/1986
 
-;; Atlético-MG;       1-0  Internacional-RS
-  Éverton
+; Atlético-MG;       1-0;  Internacional-RS
+  Éverton;
 
 ; Nacional         ; 1-3;  Corinthians
   Helinho; Casagrande, Cristóvão, Jacenir
 
 ; Criciúma         ; 0-0;  Rio Branco
 
-Date; 11/12/1986
+Date: 11/12/1986
 
 ; Ceará            ; 2-2;  Vasco da Gama
   Petróleo, Lira; Lula (own goal), Romário
 
-
-
 Date: 10/29/1986
 
 ; Sobradinho       ; 0-5;  Corinthians
-  Edmar (3), Cristóvão (2)
+;  Edmar, Edmar, Edmar, Cristóvão, Cristavao
 
 ; Ceará            ; 1-2;  Nacional
   Gérson Sodré; Helinho, Lucivaldo (own goal)
@@ -2542,42 +2440,34 @@ Date: 10/29/1986
 ; Vasco da Gama    ; 1-2;  Rio Branco
   Juninho; Jones, Édson Carioca
 
-
-
 Date: 10/30/1986
 
-;; Atlético-MG;       1-1  Criciúma
+; Atlético-MG;       1-1;  Criciúma
   João Pedro; Sílvio Laguna
 
-
-
-Date; 11/2/1986
+Date: 11/2/1986
 
 ; Corinthians      ; 1-2;  Atlético-MG
   Wílson Mano; Jacenir (own goal), Nunes
 
 ; Nacional         ; 2-1;  Internacional-RS
-  Helinho (2); Amarildo
+  Helinho, Helinho; Amarildo
 
 ; Criciúma         ; 2-0;  Ceará
-  Edmílson, Vanderlei
+  Edmílson, Vanderlei;
 
 ; Rio Branco       ; 2-3;  Sobradinho
-  Jones (2); Filó (2), Tôni
+  Jones, Jones; Filó, Filo, Tôni
 
-
-
-Date; 11/5/1986
+Date: 11/5/1986
 
 ; Vasco da Gama    ; 2-1;  Nacional
-  Romário (2); Jasson
+  Romário, Romario; Jasson
 
-;; Internacional-RS;  3-1  Sobradinho
+; Internacional-RS;  3-1;  Sobradinho
   Sabará, Tita, Robertinho; Jamil
 
-
-
-Date; 11/9/1986
+Date: 11/9/1986
 
 ; Rio Branco       ; 1-2;  Corinthians
   Mazolinha; João Paulo, Edmar
@@ -2585,101 +2475,83 @@ Date; 11/9/1986
 ; Vasco da Gama    ; 0-0;  Atlético-MG
 
 ; Ceará            ; 3-1;  Sobradinho
-  Petróleo (2), Lira; Tôni
+  Petróleo, Petroleo, Lira; Tôni
 
-
-
-Date; 11/12/1986
+Date: 11/12/1986
 
 ; Sobradinho       ; 0-1;  Criciúma
-  Jorge Veras
+;  Jorge Veras
 
-
-
-Date; 11/16/1986
+Date: 11/16/1986
 
 ; Corinthians      ; 0-0;  Vasco da Gama
 
 ; Rio Branco       ; 2-1;  Internacional-RS
-  Mazolinha (2); Balalo
+  Mazolinha, Mazolinha; Balalo
 
 ; Sobradinho       ; 1-1;  Atlético-MG
   Filó; Zenon
 
+Date: 11/19/1986
 
-
-Date; 11/19/1986
-
-;; Internacional-RS;  0-1  Vasco da Gama
-  Geovani
+; Internacional-RS;  0-1;  Vasco da Gama
+;  Geovani
 
 ; Nacional         ; 1-1;  Sobradinho
   Helinho; Murica (own goal)
 
+Date: 11/23/1986
 
-
-Date; 11/23/1986
-
-;; Atlético-MG;       0-1  Corinthians
-  Edmar
+; Atlético-MG;       0-1;  Corinthians
+;  Edmar
 
 ; Nacional         ; 0-0;  Ceará
 
 ; Sobradinho       ; 2-3;  Rio Branco
-  Tôni, Régis; Mazolinha (2), Oliveira
+  Tôni, Régis; Mazolinha, Mazolinha, Oliveira
 
 ; Vasco da Gama    ; 2-3;  Internacional-RS
-  Geovani, Romário; Luís Fernando Flores (2), Tita
+  Geovani, Romário; Luís Fernando Flores, Luis Fernando Flores, Tita
 
-
-
-Date; 11/26/1986
+Date: 11/26/1986
 
 ; Rio Branco       ; 1-1;  Vasco da Gama
   Jorge Mendonça; Romário
 
 ; Sobradinho       ; 0-2;  Ceará
-  Petróleo (2)
+;  Petróleo, Petroleo
 
 ; Criciúma         ; 1-2;  Atlético-MG
   Edmílson; Éverton, Reinaldo Xavier
 
-
-
-Date; 11/27/1986
+Date: 11/27/1986
 
 ; Corinthians      ; 1-0;  Nacional
-  Edmar
+  Edmar;
 
+Date: 11/30/1986
 
-
-Date; 11/30/1986
-
-;; Internacional-RS;  2-0  Criciúma
-  Luís Fernando Flores, Robertinho
+; Internacional-RS;  2-0;  Criciúma
+  Luís Fernando Flores, Robertinho;
 
 ; Ceará            ; 0-0;  Corinthians
 
 ; Vasco da Gama    ; 4-0;  Sobradinho
-  Mazinho, Henrique, Romário, Claudinho
+  Mazinho, Henrique, Romário, Claudinho;
 
 ; Nacional         ; 2-1;  Atlético-MG
   Murica, Cláudio Barbosa; Éverton
 
-
-
 Date: 12/3/1986
 
-;; Atlético-MG;       1-0  Rio Branco
-  Nunes
+; Atlético-MG;       1-0;  Rio Branco
+  Nunes;
 
-;; Internacional-RS;  2-1  Nacional
+; Internacional-RS;  2-1;  Nacional
   Sabará, Carlinhos; Jasson
 
 ; Criciúma         ; 1-0;  Vasco da Gama
-  Ivã
-
-
+  Ivã;
 
 Date: 12/4/1986
 
@@ -2688,30 +2560,28 @@ Date: 12/4/1986
 
 Date: 12/7/1986
 
-Rio Branco        3-0  Nacional
-  Jones, Mazolinha, Édson Carioca
+; Rio Branco       ; 3-0;  Nacional
+  Jones, Mazolinha, Édson Carioca;
 
-;; Atlético-MG;       1-0  Vasco da Gama
-  Éverton
+; Atlético-MG;       1-0;  Vasco da Gama
+  Éverton;
 
 ; Corinthians      ; 1-1;  Internacional-RS
   Edmar; Balalo
 
 ; Ceará            ; 2-0;  Criciúma
-  Petróleo, Rudi (own goal)
-
-
+  Petróleo, Rudi (own goal);
 
 Date: 12/10/1986
 
 ; Criciúma         ; 1-0;  Corinthians
-  Sílvio Laguna
+  Sílvio Laguna;
 
-;; Internacional-RS;  5-1  Rio Branco
-  Luís Fernando Flores (4), Balalo; Jones
+; Internacional-RS;  5-1;  Rio Branco
+  Luís Fernando Flores, Luís Fernando Flores, Luís Fernando Flores, Luís Fernando Flores, Balalo; Jones
 
 ; Ceará            ; 2-0;  Atlético-MG
-  Petróleo (2)
+  Petróleo, Petróleo;
 
 ; Sobradinho       ; 2-1;  Nacional
   Filó, Demétrio; Luís Florêncio
@@ -2723,18 +2593,19 @@ Date: 12/14/1986
 ; Vasco da Gama    ; 1-1;  Corinthians
   Zé Sérgio; Edmar
 
-;; Internacional-RS;  0-2  Atlético-MG
-  Éverton, João Paulo
+; Internacional-RS;  0-2;  Atlético-MG
+;  Éverton, João Paulo
 
 ; Criciúma         ; 1-0;  Sobradinho
-  Carlos Alberto
+  Carlos Alberto;
 
 ; Rio Branco       ; 2-0;  Ceará
-  China (2)
+  China, China;
 
 
-[Jan 25/87]
-;; Atlético-MG;       1-1  Sobradinho
+Date: 1/25/1987
+
+; Atlético-MG;       1-1;  Sobradinho
   Nelinho; Rildo
 
 ; Ceará            ; 1-1;  Internacional-RS
@@ -2747,18 +2618,19 @@ Date: 12/14/1986
   Cacau; Jairo
 
 
-[Jan 28/87]
+Date: 1/28/1987
+
 ; Corinthians      ; 1-0;  Rio Branco
-  Edmar
+  Edmar;
 
 ; Vasco da Gama    ; 3-1;  Ceará
-  Vivinho (2), Romário; Josué
+  Vivinho, Vivinho, Romário; Josué
 
 ; Sobradinho       ; 0-3;  Internacional-RS
-  Tita (2), Luís Fernando Flores
+;  Tita, Tita, Luís Fernando Flores
 
 ; Nacional         ; 0-1;  Criciúma
-  Osmair
+;  Osmair
 
 
 *Table
@@ -2774,68 +2646,68 @@ Date: 12/14/1986
 * 8-Nacional          16  4  2 10  15-24  10  Relegated
 * 9-Sobradinho        16  2  4 10  13-34   8  Relegated
 
-Third Phase
-
-[Jan 31 and Feb 4/87]
-Vasco da Gama     0-3   0-2  Guarani
-  [Barbiéri, Evair, João Paulo]
-  [Evair, Vágner]
-[Feb 1 and 4/87]
-Flamengo          1-1   0-1  Atlético-MG
-  [Gilmar; Batista]
-  [Nelinho]
-Internacional-SP  2-1   0-3  São Paulo
-  [João Batista, Gilberto Costa; Careca]
-  [Silas (2), Careca]
-Criciúma          2-1   0-1  Fluminense-RJ
-  [Solis, Vanderlei; Leomir]
-  [Assis]
-América-RJ        1-0   0-0  Portuguesa
-  [Antônio César]
-[Feb 1 and 5/87]
-Bahia             2-0   0-1  Palmeiras
-  [Bobô, Cláudio Adão]
-  [Mirandinha]
-Joinville         1-1   1-1  Cruzeiro
-  [Alfinete; Hamílton]
-  [Paulo Egídio; Hamílton]
-Grêmio            0-0   1-1  Corinthians
-  [Luís Carlos; Biro-Biro]
-  
-Fluminense, Cruzeiro and Corinthians qualified due to better 2nd phase record
-
-Quarterfinals
-
-[Feb 8 and 11/87]
-Bahia             2-2   0-1  Guarani
-  [Sandro (2); Evair (2)]
-  [Evair]
-Cruzeiro          0-0   1-1  Atlético-MG
-  [Douglas; Renato]
-Fluminense-RJ     1-0   0-2  São Paulo
-  [Washington]
-  [Careca, Müller]
-Corinthians       0-2   2-1  América-RJ
-  [Renato, Luisinho]
-  [Jatobá (2); Ramón]
-  
-Atlético-MG qualified due to better third phase record
-
-Semifinals
-
-[Feb 15 and 18/87]
-Atlético-MG       0-0   1-2  Guarani
-  [Reinaldo Xavier; Marco Antônio Boiadeiro, João Paulo]
-São Paulo         1-0   1-1  América-RJ
-  [Careca]
-  [Careca; Renato]
-
-Final
-
-[Feb 22 and 25/87]
-São Paulo         1-1   1-1  Guarani     [aet 2-2, pen 3-4]
-  [Careca; Evair]
-  [Bernardo, Pita, Careca; Nelsinho (own goal), Marco Antônio Boiadeiro, João Paulo]
+*Third Phase
+*
+*[Jan 31 and Feb 4/87]
+*Vasco da Gama     0-3   0-2  Guarani
+*  [Barbiéri, Evair, João Paulo]
+*  [Evair, Vágner]
+*[Feb 1 and 4/87]
+*Flamengo          1-1   0-1  Atlético-MG
+*  [Gilmar; Batista]
+*  [Nelinho]
+*Internacional-SP  2-1   0-3  São Paulo
+*  [João Batista, Gilberto Costa; Careca]
+*  [Silas (2), Careca]
+*Criciúma          2-1   0-1  Fluminense-RJ
+*  [Solis, Vanderlei; Leomir]
+*  [Assis]
+*América-RJ        1-0   0-0  Portuguesa
+*  [Antônio César]
+*[Feb 1 and 5/87]
+*Bahia             2-0   0-1  Palmeiras
+*  [Bobô, Cláudio Adão]
+*  [Mirandinha]
+*Joinville         1-1   1-1  Cruzeiro
+*  [Alfinete; Hamílton]
+*  [Paulo Egídio; Hamílton]
+*Grêmio            0-0   1-1  Corinthians
+*  [Luís Carlos; Biro-Biro]
+*  
+*Fluminense, Cruzeiro and Corinthians qualified due to better 2nd phase record
+*
+*Quarterfinals
+*
+*[Feb 8 and 11/87]
+*Bahia             2-2   0-1  Guarani
+*  [Sandro (2); Evair (2)]
+*  [Evair]
+*Cruzeiro          0-0   1-1  Atlético-MG
+*  [Douglas; Renato]
+*Fluminense-RJ     1-0   0-2  São Paulo
+*  [Washington]
+*  [Careca, Müller]
+*Corinthians       0-2   2-1  América-RJ
+*  [Renato, Luisinho]
+*  [Jatobá (2); Ramón]
+*  
+*Atlético-MG qualified due to better third phase record
+*
+*Semifinals
+*
+*[Feb 15 and 18/87]
+*Atlético-MG       0-0   1-2  Guarani
+*  [Reinaldo Xavier; Marco Antônio Boiadeiro, João Paulo]
+*São Paulo         1-0   1-1  América-RJ
+*  [Careca]
+*  [Careca; Renato]
+*
+*Final
+*
+*[Feb 22 and 25/87]
+*São Paulo         1-1   1-1  Guarani     [aet 2-2, pen 3-4]
+*  [Careca; Evair]
+*  [Bernardo, Pita, Careca; Nelsinho (own goal), Marco Antônio Boiadeiro, João Paulo]
 
 
 *Final Table

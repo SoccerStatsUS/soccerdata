@@ -5,6 +5,47 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Carleton College',
+        'city': 'Northfield, MN',
+        },
+
+
+    {
+        'name': 'Minneapolis Rangers',
+        'city': 'Minneapolis, MN',
+        },
+
+    {
+        'name': 'Minneapolis Thunder',
+        'city': 'Minneapolis, MN',
+        },
+
+    {
+        'name': 'Minneapolis Tam O\'Shanters',
+        'city': 'Minneapolis, MN',
+        },
+
+    {
+        'name': 'Duluth Red Stockings',
+        'city': 'Duluth, MN',
+        },
+
+    {
+        'name': 'Minneapolis Thistles',
+        'city': 'Minneapolis, MN',
+        },
+
+    {
+        'name': 'Minneapolis North Stars',
+        'city': 'Minneapolis, MN',
+        },
+
+    {
+        'name': 'St. Paul\'s Association',
+        'city': 'St. Paul, MN',
+        },
+
     # division 1
 
     {

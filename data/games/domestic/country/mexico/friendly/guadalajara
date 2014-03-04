@@ -1,8 +1,8 @@
 Competition: Guadalajara International Tournaments
 BlockSource: http://www.rsssf.com/tablesg/guad-clubtourn.html
+Date-style: day first
 
 Season: 1959
-Date-style: day first
 
 22/1/1959;   CD Oro; 1-4; SE Palmeiras     ; Parque Felipe Martínez Sandoval
 25/1/1959;   CD Atlas; 1-2; SE Palmeiras   ; Parque Felipe Martínez Sandoval
@@ -16,11 +16,12 @@ Date-style: day first
 *  3.Atlas                3  1  0  2  3- 4  2
 *  4.Oro                  3  1  0  2  5- 8  2
 
+
 Season: 1960
 
-* Inauguration of Estadio Jalisco
-
 31/1/1960;  CD Atlas; 0-2; CA San Lorenzo           ; Estadio Jalisco
+Notes: Inauguration of Estadio Jalisco
+
  3/2/1960;  CD Atlas; 2-1; CD Oro                   ; Estadio Jalisco
  3/2/1960;  São Paulo FC; 6-0; CD Guadalajara       ; Estadio Jalisco
  7/2/1960;  São Paulo FC; 0-0; CD Atlas             ; Estadio Jalisco
@@ -77,8 +78,8 @@ Season: 1962
 * 4.Universidad de Chile 4  1  2  1  6- 7  4
 * 5.Oro                  4  0  2  2  3- 7  2
 
-Season: 1963
 
+Season: 1963
 * Played in Guadalajara and Monterrey 
 
  6/1/1963; Palmeiras    ; 2-2; Nacional; Estadio Jalisco
@@ -90,9 +91,9 @@ Season: 1963
 20/1/1963; Vasas        ; 1-1; Monterrey; Estadio Tecnológico
 25/1/1963; Nacional     ; 1-0; Atlas; Estadio Jalisco
 25/1/1963; Palmeiras    ; 2-1; Vasas; Estadio Jalisco
-27/1/1963; Monterrey     3-1 Nacional; Estadio Tecnológico
+27/1/1963; Monterrey    ; 3-1; Nacional; Estadio Tecnológico
 
-*  1..Palmeiras            4  3  1  0  8- 3  7
+*  1.Palmeiras            4  3  1  0  8- 3  7
 *  2.Vasas                4  2  1  1  6- 4  5
 *  3.Monterrey            4  1  2  1  5- 4  4
 *  4.Nacional             4  1  1  2  4- 7  3

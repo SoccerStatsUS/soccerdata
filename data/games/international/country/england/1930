@@ -1,3 +1,4 @@
+* REDO to not kill captain info.
 http://www.rsssf.com/tablese/eng-intres30.html
 
 England - International Results 1930-1939 - Details
@@ -8,12 +9,12 @@ Overview File
 Key: (All details provided where known)
 MATCHTYPE
 Date, Location, Stadium, Crowd
-VERSUS SCORE [HALF TIME]
+VERSUS SCORE 
 Scorer(s): Player time (Score after goal)
 
-Player                  [Club] [Caps/Goals]
->Sub Time  Substitute   [Club] [Caps/Goals]
-[COACH]
+Player                  
+>Sub Time  Substitute   
+
 Opponents details provided where known
 Referee (Country)
 
@@ -26,24 +27,24 @@ Note: "first" names listed are those under which the players were commonly known
 
 HOME INTERNATIONAL CHAMPIONSHIP
 05/04/1930, London, Wembley Stadium, 87.375
-ENGLAND 5-2 SCOTLAND [HT 4-0]
+ENGLAND 5-2 SCOTLAND 
 Scorers:
 England: Victor Watson 11', 28', Ellis Rimmer 30', 55', David Jack 33'
 Scotland: James Fleming 49', 62'
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [2/0]
-Roy Goodall                  [Huddersfield Town]        [10/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [11/0]
-Alfred Strange               [Sheffield Wednesday]      [1/0]
-Maurice Webster              [Middlesbrough]            [1/0]
-William Marsden              [Sheffield Wednesday]      [2/0]
-Samuel Crooks                [Derby County]             [1/0]
-David Jack [c]               [Arsenal]                  [5/2]
-Victor Watson                [West Ham United]          [3/4]
-Joe Bradford                 [Birmingham City]          [9/4]
-Ellis Rimmer                 [Sheffield Wednesday]      [1/2]
-[COACH: Thomas Whittaker]
+Henry Hibbs                  
+Roy Goodall                  
+Ernest Blenkinsop            
+Alfred Strange               
+Maurice Webster              
+William Marsden              
+Samuel Crooks                
+David Jack 
+Victor Watson                
+Joe Bradford                 
+Ellis Rimmer                 
+
 SCO: John Harkness, Douglas Gray, Thomas Law, John Buchanan, David Meiklejohn, 
 Thomas Craig, Alexander Jackson, Alexander James, James Fleming, George Stevenson, 
 Alan Morton
@@ -51,7 +52,7 @@ Referee: McLean (Northern Ireland)
 
 FRIENDLY INTERNATIONAL
 10/05/1930, Berlin-Grunewald, Deutsches Stadion, 50.000
-GERMANY 3-3 ENGLAND [HT 1-2]
+GERMANY 3-3 ENGLAND 
 Scorers:
 Germany: Richard Hofmann 21', 49', 60'
 England: Joe Bradford 8', 31', David Jack 83'
@@ -60,64 +61,64 @@ GER: Willibald Kress, Franz Schutz, Hans Stubb, Konrad Heidkamp, Ludwig Leinberg
 Hugo Mantel, Josef Bergmaier, Josef Pottinger, Ernst Kuzorra, Richard Hofmann, 
 Ludwig Hofmann
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [3/0]
-Roy Goodall [c]              [Huddersfield Town]        [11/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [12/0]
-Alfred Strange               [Sheffield Wednesday]      [2/0]
-Maurice Webster              [Middlesbrough]            [2/0]
-William Marsden              [Sheffield Wednesday]      [3/0]
-Samuel Crooks                [Derby County]             [2/0]
-David Jack                   [Arsenal]                  [6/3]
-Victor Watson                [West Ham United]          [4/4]
-Joe Bradford                 [Birmingham City]          [10/6]
-Ellis Rimmer                 [Sheffield Wednesday]      [2/2]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Ernest Blenkinsop            
+Alfred Strange               
+Maurice Webster              
+William Marsden              
+Samuel Crooks                
+David Jack                   
+Victor Watson                
+Joe Bradford                 
+Ellis Rimmer                 
+
 Referee: Mutters (Netherlands)
 Note: At Half Time, William Marsden was forced to retire with spinal injuries.
 
 FRIENDLY INTERNATIONAL
 14/05/1930, Vienna, Praterstadion, 61.000
-AUSTRIA 0-0 ENGLAND [HT 0-0]
+AUSTRIA 0-0 ENGLAND 
 
 AUT: Rudolf Hiden, Karl Rainer, Johann Tandler, Johann Klima, Leopold Hofmann, 
 Johann Luef, Ignaz Siegl, Walter Nausch, Friedrich Gschwiedl, Johann Horvath, 
 Ferdinand Wessely
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [4/0]
-Roy Goodall [c]              [Huddersfield Town]        [12/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [13/0]
-Alfred Strange               [Sheffield Wednesday]      [3/0]
-Samuel Cowan                 [Manchester City]          [2/0]
-Maurice Webster              [Middlesbrough]            [3/0]
-Samuel Crooks                [Derby County]             [3/0]
-David Jack                   [Arsenal]                  [7/3]
-Victor Watson                [West Ham United]          [5/4]
-Joe Bradford                 [Birmingham City]          [11/6]
-Ellis Rimmer                 [Sheffield Wednesday]      [3/2]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Ernest Blenkinsop            
+Alfred Strange               
+Samuel Cowan                 
+Maurice Webster              
+Samuel Crooks                
+David Jack                   
+Victor Watson                
+Joe Bradford                 
+Ellis Rimmer                 
+
 Referee: Mutters (Netherlands)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 20/10/1930, Sheffield, Bramall Lane, 35.000
-ENGLAND 5-1 NORTHERN IRELAND [HT 5-0]
+ENGLAND 5-1 NORTHERN IRELAND 
 Scorers:
 England: Harry Burgess 15', 35', James Hampson 25', Samuel Crooks 30', 
 Eric Houghton 40'
 Northern Ireland: James Dunne
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [5/0]
-Roy Goodall [c]              [Huddersfield Town]        [13/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [14/0]
-Alfred Strange               [Sheffield Wednesday]      [4/0]
-Tony Leach                   [Sheffield Wednesday]      [1/0]
-Austin Campbell              [Huddersfield Town]        [3/0]
-Samuel Crooks                [Derby County]             [4/1]
-Gordon Hodgson               [Liverpool]                [1/0]
-James Hampson                [Blackpool]                [1/1]
-Harry Burgess                [Sheffield Wednesday]      [1/2]
-Eric Houghton                [Aston Villa]              [1/1]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Ernest Blenkinsop            
+Alfred Strange               
+Tony Leach                   
+Austin Campbell              
+Samuel Crooks                
+Gordon Hodgson               
+James Hampson                
+Harry Burgess                
+Eric Houghton                
+
 NIR: Elisha Scott, Andrew McCluggage, Robert Fulton, John Jones, William Reid, 
 William McCleery, Henry Duggan, Robert Irvine, James Dunne, William Gillespie, 
 Harold McCaw
@@ -126,7 +127,7 @@ Note: Alfred Strange missed a penalty in the second half.
 
 HOME INTERNATIONAL CHAMPIONSHIP
 22/11/1930, Wrexham, Racecourse Ground, 11.282
-WALES 0-4 ENGLAND [HT 0-2]
+WALES 0-4 ENGLAND 
 Scorers:
 England: James Hampson 12', 70', Gordon Hodgson 35', Joe Bradford 72'
 
@@ -134,25 +135,25 @@ WAL: Len Evans, Frederick Dewey, Wynn Crompton, William Rogers, Frederick Keenor
 Emrys Ellis, Albert Williams, John Neal, Thomas Bamford, Walter Robbins, William 
 Thomas
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [6/0]
-Roy Goodall [c]              [Huddersfield Town]        [14/0]
-Ellis Blenkinsop             [Sheffield Wednesday]      [15/0]
-Alfred Strange               [Sheffield Wednesday]      [5/0]
-Tony Leach                   [Sheffield Wednesday]      [2/0]
-Austin Campbell              [Huddersfield Town]        [4/0]
-Samuel Crooks                [Derby County]             [5/1]
-Gordon Hodgson               [Liverpool]                [2/1]
-James Hampson                [Blackpool]                [2/3]
-Joe Bradford                 [Birmingham City]          [12/7]
-Eric Houghton                [Aston Villa]              [2/1]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Ellis Blenkinsop             
+Alfred Strange               
+Tony Leach                   
+Austin Campbell              
+Samuel Crooks                
+Gordon Hodgson               
+James Hampson                
+Joe Bradford                 
+Eric Houghton                
+
 Referee: Watson (Scotland)
 
 1931
 
 HOME INTERNATIONAL CHAMPIONSHIP
 28/03/1931, Glasgow, Hampden Park, 129.810
-SCOTLAND 2-0 ENGLAND [HT 0-0]
+SCOTLAND 2-0 ENGLAND 
 Scorers:
 Scotland: George Stevenson 61', James McGrory 64'
 
@@ -160,23 +161,23 @@ SCO: John Thomson, Daniel Blair, Joseph Nibloe, Colin McNab, David Meiklejohn, J
 Miller, Alexander Archibald, George Stevenson, James McGrory, Robert McPhail, Alan 
 Morton
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [7/0]
-Roy Goodall [c]              [Huddersfield Town]        [15/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [16/0]
-Alfred Strange               [Sheffield Wednesday]      [6/0]
-Herbert Roberts              [Arsenal]                  [1/0]
-Austin Campbell              [Huddersfield Town]        [5/0]
-Samuel Crooks                [Derby County]             [6/1]
-Gordon Hodgson               [Liverpool]                [3/1]
-Dixie Dean                   [Everton]                  [14/17]
-Harry Burgess                [Sheffield Wednesday]      [2/2]
-John Crawford                [Chelsea]                  [1/0]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Ernest Blenkinsop            
+Alfred Strange               
+Herbert Roberts              
+Austin Campbell              
+Samuel Crooks                
+Gordon Hodgson               
+Dixie Dean                   
+Harry Burgess                
+John Crawford                
+
 Referee: Atwood (Wales)
 
 FRIENDLY INTERNATIONAL
 14/05/1931, Colombes, Stade Olympique, 35.000
-FRANCE 5-2 ENGLAND [HT 3-1]
+FRANCE 5-2 ENGLAND 
 Scorers:
 France: Lucien Laurent 15', Robert Mercier 18', 76', Marcel Langiller 29', 
 Edmond Delfour 57'
@@ -186,23 +187,23 @@ FRA: Alexis Thépot, Marcel Capelle, Etienne Mattler, Louis Finot, Joseph Kaucsa
 Pierre Hornus, Ernest Liberati, Edmond Delfour, Robert Mercier, Lucien Laurent, 
 Marcel Langiller
 ENGLAND:
-Hugh Turner                  [Huddersfield Town]        [1/0]
-Thomas Cooper                [Derby County]             [8/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [17/0]
-Alfred Strange [c]           [Sheffield Wednesday]      [7/0]
-Thomas Graham                [Nottingham Forest]        [1/0]
-Joseph Tate                  [Aston Villa]              [1/0]
-Samuel Crooks                [Derby County]             [7/2]
-George Stephenson            [Sheffield Wednesday]      [3/2]
-Thomas Waring                [Aston Villa]              [1/1]
-Harry Burgess                [Sheffield Wednesday]      [3/2]
-Eric Houghton                [Aston Villa]              [3/1]
-[COACH: Committee]
+Hugh Turner                  
+Thomas Cooper                
+Ernest Blenkinsop            
+Alfred Strange 
+Thomas Graham                
+Joseph Tate                  
+Samuel Crooks                
+George Stephenson            
+Thomas Waring                
+Harry Burgess                
+Eric Houghton                
+
 Referee: Langenus (Belgium)
 
 FRIENDLY INTERNATIONAL
 16/05/1931, Brussels, Molenbeek (Stade Charles Malis) Stadium, 30.000
-BELGIUM 1-4 ENGLAND [HT 1-1]
+BELGIUM 1-4 ENGLAND 
 Scorers:
 Belgium: Jean Capelle 36'
 England: Eric Houghton 42'pen, Harry Burgess 65', 75', Henry Roberts 80'
@@ -211,23 +212,23 @@ BEL: Arnold Badjou, Theodoor Nouwens, Constant Joacim, Charles Simons, August
 Hellemans, Jacques Moeschal, Louis Versyp, Bernard Voorhoof, Jean Capelle, Joseph 
 van Beeck, Stanley Vanden Eynde
 ENGLAND:
-Hugh Turner                  [Huddersfield Town]        [2/0]
-Roy Goodall                  [Huddersfield Town]        [16/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [18/0]
-Alfred Strange [c]           [Sheffield Wednesday]      [8/0]
-Samuel Cowan                 [Manchester City]          [3/0]
-Joseph Tate                  [Aston Villa]              [2/0]
-Samuel Crooks                [Derby County]             [8/2]
-Henry Roberts                [Millwall]                 [1/1]
-Thomas Waring                [Aston Villa]              [2/1]
-Harry Burgess                [Sheffield Wednesday]      [4/4]
-Eric Houghton                [Aston Villa]              [4/2]
-[COACH: Committee]
+Hugh Turner                  
+Roy Goodall                  
+Ernest Blenkinsop            
+Alfred Strange 
+Samuel Cowan                 
+Joseph Tate                  
+Samuel Crooks                
+Henry Roberts                
+Thomas Waring                
+Harry Burgess                
+Eric Houghton                
+
 Referee: Bauwens (Germany)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 17/10/1931, Belfast, Windsor Park, 40.000
-NORTHERN IRELAND 2-6 ENGLAND [HT 1-3]
+NORTHERN IRELAND 2-6 ENGLAND 
 Scorers:
 Northern Ireland: James Dunne, James Kelly
 England: John Smith 10', Thomas Waring 12', 50', Ernest Hine 30', 
@@ -237,40 +238,40 @@ NIR: Alfred Gardiner, Samuel Russell, Robert Fulton, Robert McDonald, John Jones
 William Mitchell, James Chambers, P McConnell, James Dunne, James McCambridge, 
 James Kelly
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [8/0]
-Roy Goodall [c]              [Huddersfield Town]        [17/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [19/0]
-Alfred Strange               [Sheffield Wednesday]      [9/0]
-Thomas Graham                [Nottingham Forest]        [2/0]
-Austin Campbell              [Huddersfield Town]        [6/0]
-Samuel Crooks                [Derby County]             [9/2]
-John Smith                   [Portsmouth]               [1/1]
-Thomas Waring                [Aston Villa]              [3/3]
-Ernest Hine                  [Leicester City]           [5/3]
-Eric Houghton                [Aston Villa]              [5/4]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Ernest Blenkinsop            
+Alfred Strange               
+Thomas Graham                
+Austin Campbell              
+Samuel Crooks                
+John Smith                   
+Thomas Waring                
+Ernest Hine                  
+Eric Houghton                
+
 Referee: Watson (Scotland)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 18/11/1931, Liverpool, Anfield, 15.000
-ENGLAND 3-1 WALES [HT 1-1]
+ENGLAND 3-1 WALES 
 Scorers:
 England: John Smith 25', Samuel Crooks 50', Ernest Hine 65'
 Wales: Walter Robbins
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [9/0]
-Thomas Cooper                [Derby County]             [9/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [20/0]
-Alfred Strange [c]           [Sheffield Wednesday]      [10/0]
-Charles Gee                  [Everton]                  [1/0]
-Austin Campbell              [Huddersfield Town]        [7/0]
-Samuel Crooks                [Derby County]             [10/3]
-John Smith                   [Portsmouth]               [2/2]
-Thomas Waring                [Aston Villa]              [4/3]
-Ernest Hine                  [Leicester City]           [6/4]
-Cliff Bastin                 [Arsenal]                  [1/0]
-[COACH: Committee]
+Henry Hibbs                  
+Thomas Cooper                
+Ernest Blenkinsop            
+Alfred Strange 
+Charles Gee                  
+Austin Campbell              
+Samuel Crooks                
+John Smith                   
+Thomas Waring                
+Ernest Hine                  
+Cliff Bastin                 
+
 WAL: Albert Gray, Benjamin Williams, Benjamin Ellis, Charlie Jones, Thomas 
 Griffiths, Robert John, Cuthbert Phillips, Eugene O'Callaghan, David Astley, Walter 
 Robbins, Frederick Cook
@@ -278,25 +279,25 @@ Referee: Bunnell (England)
 
 FRIENDLY INTERNATIONAL
 09/12/1931, London, Highbury, 55.000
-ENGLAND 7-1 SPAIN [HT 3-0]
+ENGLAND 7-1 SPAIN 
 Scorers:
 England: John Smith 2', 44', Thomas Johnson 3', 70', Samuel Crooks 50', 85', 
 Dixie Dean 60'
 Spain: Guillermo Gorostiza
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [10/0]
-Thomas Cooper                [Derby County]             [10/0]
-Ernest Blenkinsop [c]        [Sheffield Wednesday]      [21/0]
-Alfred Strange               [Sheffield Wednesday]      [11/0]
-Charles Gee                  [Everton]                  [2/0]
-Austin Campbell              [Huddersfield Town]        [8/0]
-Samuel Crooks                [Derby County]             [11/5]
-John Smith                   [Portsmouth]               [3/4]
-Dixie Dean                   [Everton]                  [15/18]
-Thomas Johnson               [Everton]                  [3/5]
-Ellis Rimmer                 [Sheffield Wednesday]      [4/2]
-[COACH: Committee]
+Henry Hibbs                  
+Thomas Cooper                
+Ernest Blenkinsop 
+Alfred Strange               
+Charles Gee                  
+Austin Campbell              
+Samuel Crooks                
+John Smith                   
+Dixie Dean                   
+Thomas Johnson               
+Ellis Rimmer                 
+
 ESP: Ricardo Zamora, Ramón Zabalo, Jacinto Quincoces, Leonardo Cilaurren, Francisco 
 Gamborena, Roberto, Martín Vantolra, Leon, Samitier, Juan Merrero "Hilario", 
 Guillermo Gorostiza
@@ -306,23 +307,23 @@ Referee: Bauwens (Germany)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 09/04/1932, London, Wembley Stadium, 92.180
-ENGLAND 3-0 SCOTLAND [HT 1-0]
+ENGLAND 3-0 SCOTLAND 
 Scorers:
 England: Thomas Waring 36', Robert Barclay 80', Samuel Crooks 88'
 
 ENGLAND:
-Harold Pearson               [West Bromwich Albion]     [1/0]
-George Shaw                  [West Bromwich Albion]     [1/0]
-Ernest Blenkinsop [c]        [Sheffield Wednesday]      [22/0]
-Alfred Strange               [Sheffield Wednesday]      [12/0]
-James O'Dowd                 [Chelsea]                  [1/0]
-Samuel Weaver                [Newcastle United]         [1/0]
-Samuel Crooks                [Derby County]             [12/6]
-Robert Barclay               [Sheffield Wednesday]      [1/1]
-Thomas Waring                [Aston Villa]              [5/4]
-Thomas Johnson               [Everton]                  [4/5]
-Eric Houghton                [Aston Villa]              [6/4]
-[COACH: Committee]
+Harold Pearson               
+George Shaw                  
+Ernest Blenkinsop 
+Alfred Strange               
+James O'Dowd                 
+Samuel Weaver                
+Samuel Crooks                
+Robert Barclay               
+Thomas Waring                
+Thomas Johnson               
+Eric Houghton                
+
 SCO: Thomas Hamilton, James Crapnell, Joseph Nibloe, Colin McNab, Allan Craig, 
 George Brown, Alexander Archibald, James Marshall, Neil Dewar, Charles Napier, Alan 
 Morton
@@ -330,69 +331,69 @@ Referee: Thompson (Northern Ireland)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 17/10/1932, Blackpool, Bloomfield Road, 23.000
-ENGLAND 1-0 NORTHERN IRELAND [HT 1-0]
+ENGLAND 1-0 NORTHERN IRELAND 
 Scorer:
 England: Robert Barclay 30'
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [11/0]
-Roy Goodall                  [Huddersfield Town]        [18/0]
-Ernest Blenkinsop [c]        [Sheffield Wednesday]      [23/0]
-Alfred Strange               [Sheffield Wednesday]      [13/0]
-James O'Dowd                 [Chelsea]                  [2/0]
-Samuel Weaver                [Newcastle United]         [2/0]
-Samuel Crooks                [Derby County]             [13/6]
-Robert Barclay               [Sheffield Wednesday]      [2/2]
-Dixie Dean                   [Everton]                  [16/18]
-Thomas Johnson               [Everton]                  [5/5]
-Arthur Cunliffe              [Blackburn Rovers]         [1/0]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall                  
+Ernest Blenkinsop 
+Alfred Strange               
+James O'Dowd                 
+Samuel Weaver                
+Samuel Crooks                
+Robert Barclay               
+Dixie Dean                   
+Thomas Johnson               
+Arthur Cunliffe              
+
 NIR: Elisha Scott, William Cook, Robert Fulton, William Mitchell, John Jones, 
 William McCleery, Henry Duggan, P Moore, James Dunne, J Doherty, James Kelly
 Referee: Watson (Scotland)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 16/11/1932, Wrexham, Racecourse Ground, 25.250
-WALES 0-0 ENGLAND [HT 0-0]
+WALES 0-0 ENGLAND 
 
 WAL: William John, Benjamin Williams, Benjamin Ellis, Jimmy Murphy, Thomas 
 Griffiths, David Richards, Frederick Warren, Eugene O'Callaghan, David Astley, 
 Walter Robbins, David Lewis
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [12/0]
-Roy Goodall                  [Huddersfield Town]        [19/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [24/0]
-Lewis Stoker                 [Birmingham City]          [1/0]
-Alfred Young                 [Huddersfield Town]        [1/0]
-Samuel Crooks                [Derby County]             [14/6]
-David Jack [c]               [Arsenal]                  [8/3]
-George Brown                 [Aston Villa]              [9/5]
-Joseph Tate                  [Aston Villa]              [3/0]
-Edward Sandford              [West Bromwich Albion]     [1/0]
-Arthur Cunliffe              [Blackburn Rovers]         [2/0]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall                  
+Ernest Blenkinsop            
+Lewis Stoker                 
+Alfred Young                 
+Samuel Crooks                
+David Jack 
+George Brown                 
+Joseph Tate                  
+Edward Sandford              
+Arthur Cunliffe              
+
 Referee: Thompson (Northern Ireland)
 
 FRIENDLY INTERNATIONAL
 07/12/1932, London, Stamford Bridge, 42.000
-ENGLAND 4-3 AUSTRIA [HT 2-0]
+ENGLAND 4-3 AUSTRIA 
 Scorers:
 England: Samuel Crooks 5', James Hampson 27', 82', Eric Houghton 77'
 Austria: Karl Zischek 51', 87', Matthias Sindelar 80'
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [13/0]
-Roy Goodall                  [Huddersfield Town]        [20/0]
-Ernest Blenkinsop            [Sheffield Wednesday]      [25/0]
-Alfred Strange               [Sheffield Wednesday]      [14/0]
-Ernest Hart                  [Leeds United]             [4/0]
-Errington Keen               [Derby County]             [1/0]
-Samuel Crooks                [Derby County]             [15/7]
-David Jack                   [Arsenal]                  [9/3]
-James Hampson                [Blackpool]                [3/5]
-William Walker [c]           [Aston Villa]              [18/9]
-Eric Houghton                [Aston Villa]              [7/5]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall                  
+Ernest Blenkinsop            
+Alfred Strange               
+Ernest Hart                  
+Errington Keen               
+Samuel Crooks                
+David Jack                   
+James Hampson                
+William Walker 
+Eric Houghton                
+
 AUT: Rudolf Hiden, Karl Rainer, Karl Szestak, Karl Gall, Josef Smistik, Walter 
 Nausch, Karl Zischek, Friedrich Gschweidl, Matthias Sindelar, Anton Schall, Adolf 
 Vogl
@@ -402,7 +403,7 @@ Referee: Langenus (Belgium)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 01/04/1933, Glasgow, Hampden Park, 134.170
-SCOTLAND 2-1 ENGLAND [HT 1-1]
+SCOTLAND 2-1 ENGLAND 
 Scorers:
 Scotland: James McGrory 5', 80'
 England: George Hunt 30'
@@ -411,23 +412,23 @@ SCO: John Jackson, Andrew Anderson, William McGonagle, Peter Wilson, Robert
 Gillespie, George Brown, James Crawford, James Marshall, James McGrory, Robert 
 McPhail, Douglas Duncan
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [14/0]
-Thomas Cooper                [Derby County]             [11/0]
-Ernest Blenkinsop [c]        [Sheffield Wednesday]      [26/0]
-Alfred Strange               [Sheffield Wednesday]      [15/0]
-Ernest Hart                  [Leeds United]             [5/0]
-Samuel Weaver                [Newcastle United]         [3/0]
-Joseph Hulme                 [Arsenal]                  [9/4]
-Ronald Starling              [Sheffield Wednesday]      [1/0]
-George Hunt                  [Tottenham Hotspur]        [1/1]
-John Pickering               [Sheffield United]         [1/0]
-John Arnold                  [Fulham]                   [1/0]
-[COACH: Committee]
+Henry Hibbs                  
+Thomas Cooper                
+Ernest Blenkinsop 
+Alfred Strange               
+Ernest Hart                  
+Samuel Weaver                
+Joseph Hulme                 
+Ronald Starling              
+George Hunt                  
+John Pickering               
+John Arnold                  
+
 Referee: Thompson (Northern Ireland)
 
 FRIENDLY INTERNATIONAL
 13/05/1933, Rome, Stadio Nazionale, 50.000
-ITALY 1-1 ENGLAND [HT 1-1]
+ITALY 1-1 ENGLAND 
 Scorers:
 Italy: Giovanni Ferrari 4'
 England: Cliff Bastin 24'
@@ -436,23 +437,23 @@ ITA: Giampiero Combi, Virginio Rosetta, Umberto Caligaris, Pizziolo, Luisito Mon
 Luigi Bertolini, Costantino, Giuseppe Meazza, Angelo Schiavio, Giovanni Ferrari, 
 Raimondo Orsi
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [15/0]
-Roy Goodall [c]              [Huddersfield Town]        [21/0]
-Edris Hapgood                [Arsenal]                  [1/0]
-Alfred Strange               [Sheffield Wednesday]      [16/0]
-David White                  [Manchester City]          [1/0]
-Wilfred Copping              [Leeds United]             [1/0]
-Albert Geldard               [Everton]                  [1/0]
-James Richardson             [Newcastle United]         [1/0]
-George Hunt                  [Tottenham Hotspur]        [2/1]
-William Furness              [Leeds United]             [1/0]
-Cliff Bastin                 [Arsenal]                  [2/1]
-[COACH: Herbert Chapman]
+Henry Hibbs                  
+Roy Goodall 
+Edris Hapgood                
+Alfred Strange               
+David White                  
+Wilfred Copping              
+Albert Geldard               
+James Richardson             
+George Hunt                  
+William Furness              
+Cliff Bastin                 
+
 Referee: Bauwens (Germany)
 
 FRIENDLY INTERNATIONAL
 25/05/1933, Berne, Neufeld Stadion, 26.000
-SWITZERLAND 0-4 ENGLAND [HT 0-1]
+SWITZERLAND 0-4 ENGLAND 
 Scorers:
 England: Cliff Bastin 15', 75', James Richardson 71', 77'
 
@@ -460,46 +461,46 @@ SUI: Franky Séchehaye, Severino Minelli, Karl Biesler, Gabriele Gilardoni, Otto
 Imhof, Ernst Hufschmid, Willy von Kanel, André Abegglen, Raymond Passello, Max 
 Abegglen, Alfred Jaeck
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [16/0]
-Roy Goodall [c]              [Huddersfield Town]        [22/0]
-Edris Hapgood                [Arsenal]                  [2/0]
-Alfred Strange               [Sheffield Wednesday]      [17/0]
-James O'Dowd                 [Chelsea]                  [3/0]
-Wilfred Copping              [Leeds United]             [2/0]
-Albert Geldard               [Everton]                  [2/0]
-James Richardson             [Newcastle United]         [2/2]
-George Hunt                  [Tottenham Hotspur]        [3/1]
-Eric Brook                   [Manchester City]          [2/0]
-Cliff Bastin                 [Arsenal]                  [3/3]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Edris Hapgood                
+Alfred Strange               
+James O'Dowd                 
+Wilfred Copping              
+Albert Geldard               
+James Richardson             
+George Hunt                  
+Eric Brook                   
+Cliff Bastin                 
+
 Referee: Bauwens (Germany)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 14/10/1933, Belfast, Windsor Park, 40.000
-NORTHERN IRELAND 0-3 ENGLAND [HT 0-1]
+NORTHERN IRELAND 0-3 ENGLAND 
 Scorers:
 England: Eric Brook 30', Tom Grosvenor 51', John Bowers 60'
 
 NIR: Elisha Scott, S Reid, Robert Fulton, Walter McMillen, John Jones, S Jones, 
 Henry Duggan, Alex Stevenson, David Martin, John Coulter, Thomas Priestley
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [17/0]
-Roy Goodall [c]              [Huddersfield Town]        [23/0]
-Edris Hapgood                [Arsenal]                  [3/0]
-Alfred Strange               [Sheffield Wednesday]      [18/0]
-James Allen                  [Portsmouth]               [1/0]
-Wilfred Copping              [Leeds United]             [3/0]
-Samuel Crooks                [Derby County]             [16/7]
-Tom Grosvenor                [Birmingham City]          [1/1]
-John Bowers                  [Derby County]             [1/1]
-Cliff Bastin                 [Arsenal]                  [4/3]
-Eric Brook                   [Manchester City]          [3/1]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Edris Hapgood                
+Alfred Strange               
+James Allen                  
+Wilfred Copping              
+Samuel Crooks                
+Tom Grosvenor                
+John Bowers                  
+Cliff Bastin                 
+Eric Brook                   
+
 Referee: Watson (Scotland)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 15/11/1933, Newcastle, St James Park, 15.000
-ENGLAND 1-2 WALES [HT 0-1]
+ENGLAND 1-2 WALES 
 Scorers:
 England: Eric Brook 59'
 Wales: Thomas Mills, David Astley
@@ -508,24 +509,24 @@ WAL: William John, Sidney Lawrence, David Jones, Jimmy Murphy, Thomas Griffiths,
 David Richards, Cuthbert Phillips, Eugene O'Callaghan, David Astley, Thomas Mills, 
 William Evans
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [18/0]
-Roy Goodall [c]              [Huddersfield Town]        [24/0]
-Edris Hapgood                [Arsenal]                  [4/0]
-Alfred Strange               [Sheffield Wednesday]      [19/0]
-James Allen                  [Portsmouth]               [2/0]
-Wilfred Copping              [Leeds United]             [4/0]
-Samuel Crooks                [Derby County]             [17/7]
-Tom Grosvenor                [Birmingham City]          [2/1]
-John Bowers                  [Derby County]             [2/1]
-Cliff Bastin                 [Arsenal]                  [5/3]
-Eric Brook                   [Manchester City]          [4/2]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+Edris Hapgood                
+Alfred Strange               
+James Allen                  
+Wilfred Copping              
+Samuel Crooks                
+Tom Grosvenor                
+John Bowers                  
+Cliff Bastin                 
+Eric Brook                   
+
 Referee: Thompson (Northern Ireland)
 Note: James Allen retired after 36'.
 
 FRIENDLY INTERNATIONAL
 06/12/1933, London, White Hart Lane, 17.097
-ENGLAND 4-1 FRANCE [HT 3-0]
+ENGLAND 4-1 FRANCE 
 Scorers:
 England: George Camsell 14', 41', Eric Brook 21', Tom Grosvenor 53'
 France: Emile Veinante 78'
@@ -534,18 +535,18 @@ FRA: Robert Défossé, Jules Vandooren, Etienne Mattler, Célestin Delmer, Mauri
 Banide, Edmond Delfour, Roger Courtois, René Gérard, Jean Nicolas, Roger Rio, Emile 
 Veinante
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [19/0]
-Roy Goodall [c]              [Huddersfield Town]        [25/0]
-David Fairhurst              [Newcastle United]         [1/0]
-Alfred Strange               [Sheffield Wednesday]      [20/0]
-Arthur Rowe                  [Tottenham Hotspur]        [1/0]
-Wilfred Copping              [Leeds United]             [5/0]
-Samuel Crooks                [Derby County]             [18/7]
-Tom Grosvenor                [Birmingham City]          [3/2]
-George Camsell               [Middlesbrough]            [5/13]
-Willie Hall                  [Tottenham Hotspur]        [1/0]
-Eric Brook                   [Manchester City]          [5/3]
-[COACH: Committee]
+Henry Hibbs                  
+Roy Goodall 
+David Fairhurst              
+Alfred Strange               
+Arthur Rowe                  
+Wilfred Copping              
+Samuel Crooks                
+Tom Grosvenor                
+George Camsell               
+Willie Hall                  
+Eric Brook                   
+
 Referee: Langenus (Belgium)
 
 1934
@@ -558,37 +559,37 @@ England: Charles Willingham
 The Rest: Horacio Carter 4, Robert Gurney 2, Eric Brook
 
 ENGLAND:
-Harold Morton [Aston Villa], Roy Goodall [Huddersfield Town], Roughton 
-[Huddersfield Town], Charles Willingham [Huddersfield Town], James Allen 
-(Portsmouth], Wilfred Copping [Leeds United], Fred Worrall [Portsmouth], Joseph 
-Beresford [Aston Villa], Jack Milsom [Bolton Wanderers], Ray Westwood [Bolton 
-Wanderers], Cliff Bastin [Arsenal]
-THE REST: Joe Nicholls [Tottenham Hotspur], Thomas Cooper [Derby County], Edris 
-Hapgood [Arsenal], Lewis Stoker [Birmingham City], Ernest Hart [Leeds United], 
-Samuel Weaver [Newcastle United], Stanley Matthews [Stoke City], Horacio Carter 
-[Sunderland], Robert Gurney [Sunderland], William Furness [Leeds United], Eric 
-Brook [Manchester City]
+Harold Morton 
+
+(Portsmouth], Wilfred Copping 
+Beresford 
+Wanderers], Cliff Bastin 
+THE REST: Joe Nicholls 
+Hapgood 
+Samuel Weaver 
+
+Brook 
 Referee: Thompson (England)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 14/04/1934, London, Wembley Stadium, 92.363
-ENGLAND 3-0 SCOTLAND [HT 1-0]
+ENGLAND 3-0 SCOTLAND 
 Scorers:
 England: Cliff Bastin 43', Eric Brook 80', John Bowers 88'
 
 ENGLAND:
-Frank Moss                   [Arsenal]                  [1/0]
-Thomas Cooper [c]            [Derby County]             [12/0]
-Edris Hapgood                [Arsenal]                  [5/0]
-Lewis Stoker                 [Birmingham City]          [2/0]
-Ernest Hart                  [Leeds United]             [6/0]
-Wilfred Copping              [Leeds United]             [6/0]
-Samuel Crooks                [Derby County]             [19/7]
-Horatio Carter               [Sunderland]               [1/0]
-John Bowers                  [Derby County]             [3/2]
-Cliff Bastin                 [Arsenal]                  [6/4]
-Eric Brook                   [Manchester City]          [6/4]
-[COACH: Committee]
+Frank Moss                   
+Thomas Cooper 
+Edris Hapgood                
+Lewis Stoker                 
+Ernest Hart                  
+Wilfred Copping              
+Samuel Crooks                
+Horatio Carter               
+John Bowers                  
+Cliff Bastin                 
+Eric Brook                   
+
 SCO: John Jackson, Andrew Anderson, William McGonagle, Alexander Massie, Thomas 
 Smith, John Miller, William Cook, James Marshall, Hugh Gallacher, George Stevenson, 
 James Connor
@@ -596,7 +597,7 @@ Referee: Thompson (Northern Ireland)
 
 FRIENDLY INTERNATIONAL
 10/05/1934, Budapest, Ulloi Stadium, 35.000
-HUNGARY 2-1 ENGLAND [HT 0-0]
+HUNGARY 2-1 ENGLAND 
 Scorers:
 Hungary: Gyorgy Sarosi, Istvan Avar
 England: Fred Tilson 84'
@@ -604,23 +605,23 @@ England: Fred Tilson 84'
 HUN: Jozsef Hada, Jozsef Vago, Laszlo Sternberg, Antal Szalay, Gyorgy Szuks, Gyula 
 Lazar, Attila Rokk, Istvan Avar, Gyorgy Sarosi, Geza Toldi, Tibor Kemeny
 ENGLAND:
-Frank Moss                   [Arsenal]                  [2/0]
-Thomas Cooper [c]            [Derby County]             [13/0]
-Edris Hapgood                [Arsenal]                  [6/0]
-Lewis Stoker                 [Birmingham City]          [3/0]
-Ernest Hart                  [Leeds United]             [7/0]
-Horace Burrows               [Sheffield Wednesday]      [1/0]
-Samuel Crooks                [Derby County]             [20/7]
-Horatio Carter               [Sunderland]               [2/0]
-Fred Tilson                  [Manchester City]          [1/1]
-Cliff Bastin                 [Arsenal]                  [7/4]
-Eric Brook                   [Manchester City]          [7/4]
-[COACH: Committee]
+Frank Moss                   
+Thomas Cooper 
+Edris Hapgood                
+Lewis Stoker                 
+Ernest Hart                  
+Horace Burrows               
+Samuel Crooks                
+Horatio Carter               
+Fred Tilson                  
+Cliff Bastin                 
+Eric Brook                   
+
 Referee: Barlassina (Italy)
 
 FRIENDLY INTERNATIONAL
 16/05/1934, Prague, Sparta-Letná Stadion, 35.000
-CZECHOSLOVAKIA 2-1 ENGLAND [HT 1-1]
+CZECHOSLOVAKIA 2-1 ENGLAND 
 Scorers:
 Czechoslovakia: Oldrich Nejedly 42', Antonin Puc 62'
 England: Fred Tilson 20'
@@ -629,23 +630,23 @@ TCH: Frantisek Planicka, Ladislav Zenisek, Josef Ctyroky, Josef Kostalek, Stefan
 Cambal, Rudolf Krcil, Frantisek Junek, Josef Silny, Jiri Sobotka, Oldrich Nejedly, 
 Antonin Puc
 ENGLAND:
-Frank Moss                   [Arsenal]                  [3/0]
-Thomas Cooper [c]            [Derby County]             [14/0]
-Edris Hapgood                [Arsenal]                  [7/0]
-Thomas Gardner               [Aston Villa]              [1/0]
-Ernest Hart                  [Leeds United]             [8/0]
-Horace Burrows               [Sheffield Wednesday]      [2/0]
-Samuel Crooks                [Derby County]             [21/7]
-Joseph Beresford             [Aston Villa]              [1/0]
-Fred Tilson                  [Manchester City]          [2/2]
-Cliff Bastin                 [Arsenal]                  [8/4]
-Eric Brook                   [Manchester City]          [8/4]
-[COACH: Committee]
+Frank Moss                   
+Thomas Cooper 
+Edris Hapgood                
+Thomas Gardner               
+Ernest Hart                  
+Horace Burrows               
+Samuel Crooks                
+Joseph Beresford             
+Fred Tilson                  
+Cliff Bastin                 
+Eric Brook                   
+
 Referee: Langenus (Belgium)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 29/09/1934, Cardiff, Ninian Park, 51.000
-WALES 0-4 ENGLAND [HT 0-2]
+WALES 0-4 ENGLAND 
 Scorers:
 England: Fred Tilson 10', 85', Eric Brook 30', Stanley Matthews 84'
 
@@ -653,40 +654,40 @@ WAL: William John, Sidney Lawrence, David Jones, Jimmy Murphy, Thomas Griffiths,
 David Richards, Cuthbert Phillips, Eugene O'Callaghan, Ronald Williams, Thomas 
 Mills, William Evans
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [20/0]
-Thomas Cooper [c]            [Derby County]             [15/0]
-Edris Hapgood                [Arsenal]                  [8/0]
-Cliff Britton                [Everton]                  [1/0]
-John Barker                  [Derby County]             [1/0]
-John Bray                    [Manchester City]          [1/0]
-Stanley Matthews             [Stoke City]               [1/1]
-Ray Bowden                   [Arsenal]                  [1/0]
-Fred Tilson                  [Manchester City]          [3/4]
-Ray Westwood                 [Bolton Wanderers]         [1/0]
-Eric Brook                   [Manchester City]          [9/5]
-[COACH: Committee]
+Henry Hibbs                  
+Thomas Cooper 
+Edris Hapgood                
+Cliff Britton                
+John Barker                  
+John Bray                    
+Stanley Matthews             
+Ray Bowden                   
+Fred Tilson                  
+Ray Westwood                 
+Eric Brook                   
+
 Referee: Thompson (Northern Ireland)
 
 FRIENDLY INTERNATIONAL
 14/11/1934, London, Highbury, 56.044
-ENGLAND 3-2 ITALY [HT 3-0]
+ENGLAND 3-2 ITALY 
 Scorers:
 England: Eric Brook 3', 10', Ted Drake 12'
 Italy: Giuseppe Meazza 58', 62'
 
 ENGLAND:
-Frank Moss                   [Arsenal]                  [4/0]
-George Male                  [Arsenal]                  [1/0]
-Edris Hapgood [c]            [Arsenal]                  [9/0]
-Cliff Britton                [Everton]                  [2/0]
-John Barker                  [Derby County]             [2/0]
-Wilfred Copping              [Arsenal]                  [7/0]
-Stanley Matthews             [Stoke City]               [2/1]
-Ray Bowden                   [Arsenal]                  [2/0]
-Ted Drake                    [Arsenal]                  [1/1]
-Cliff Bastin                 [Arsenal]                  [9/4]
-Eric Brook                   [Manchester City]          [10/7]
-[COACH: Committee]
+Frank Moss                   
+George Male                  
+Edris Hapgood 
+Cliff Britton                
+John Barker                  
+Wilfred Copping              
+Stanley Matthews             
+Ray Bowden                   
+Ted Drake                    
+Cliff Bastin                 
+Eric Brook                   
+
 ITA: Carlo Ceresoli, Eraldo Monzeglio, Luigi Allemandi, Attilio Ferraris, Luisito 
 Monti, Luigi Bertolini, Enrico Guaita, Pietro Serantoni, Giuseppe Meazza, Giovanni 
 Ferrari, Raimondo Orsi
@@ -697,31 +698,31 @@ Note: Eric Brook had a penalty saved after 1'.
 
 HOME INTERNATIONAL CHAMPIONSHIP
 06/02/1935, Liverpool, Goodison Park, 32.000
-ENGLAND 2-1 NORTHERN IRELAND [HT 1-0]
+ENGLAND 2-1 NORTHERN IRELAND 
 Scorers:
 England: Cliff Bastin 18', 70'
 Northern Ireland: Alex Stevenson
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [21/0]
-George Male                  [Arsenal]                  [2/0]
-Edris Hapgood [c]            [Arsenal]                  [10/0]
-Cliff Britton                [Everton]                  [3/0]
-John Barker                  [Derby County]             [3/0]
-Wilfred Copping              [Arsenal]                  [8/0]
-Samuel Crooks                [Derby County]             [22/7]
-John Bestall                 [Grimsby Town]             [1/0]
-Ted Drake                    [Arsenal]                  [2/1]
-Cliff Bastin                 [Arsenal]                  [10/6]
-Eric Brook                   [Manchester City]          [11/7]
-[COACH: Committee]
+Henry Hibbs                  
+George Male                  
+Edris Hapgood 
+Cliff Britton                
+John Barker                  
+Wilfred Copping              
+Samuel Crooks                
+John Bestall                 
+Ted Drake                    
+Cliff Bastin                 
+Eric Brook                   
+
 NIR: Tommy Breen, William Cook, Robert Fulton, William Gowdy, John Jones, William 
 Mitchell, John Brown, Peter Doherty, David Martin, Alex Stevenson, John Coulter
 Referee: Webb (Scotland)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 06/04/1935, Glasgow, Hampden Park, 129.693
-SCOTLAND 2-0 ENGLAND [HT 1-0]
+SCOTLAND 2-0 ENGLAND 
 Scorers:
 Scotland: Douglas Duncan 44', 51'
 
@@ -729,23 +730,23 @@ SCO: John Jackson, Andrew Anderson, George Cummings, Alexander Massie, James
 Simpson, George Brown, Charles Napier, Thomas Walker, Hugh Gallacher, Robert 
 McPhail, Douglas Duncan
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [22/0]
-George Male                  [Arsenal]                  [3/0]
-Edris Hapgood [c]            [Arsenal]                  [11/0]
-Cliff Britton                [Everton]                  [4/0]
-John Barker                  [Derby County]             [4/0]
-Walter Alsford               [Tottenham Hotspur]        [1/0]
-Albert Geldard               [Everton]                  [3/0]
-Cliff Bastin                 [Arsenal]                  [11/6]
-Robert Gurney                [Sunderland]               [1/0]
-Ray Westwood                 [Bolton Wanderers]         [2/0]
-Eric Brook                   [Manchester City]          [12/7]
-[COACH: Committee]
+Henry Hibbs                  
+George Male                  
+Edris Hapgood 
+Cliff Britton                
+John Barker                  
+Walter Alsford               
+Albert Geldard               
+Cliff Bastin                 
+Robert Gurney                
+Ray Westwood                 
+Eric Brook                   
+
 Referee: Thompson (Northern Ireland)
 
 FRIENDLY INTERNATIONAL (KING GEORGE V JUBILEE FUND-UNOFFICIAL)
 08/05/1935, London, Highbury Stadium, 8.944
-ENGLAND XI 0-1 ANGLO-SCOTS [HT 0-0]
+ENGLAND XI 0-1 ANGLO-SCOTS 
 Scorer:
 Anglo-Scots: George Mutch
 
@@ -759,30 +760,30 @@ Referee: Brown (England)
 
 FRIENDLY INTERNATIONAL
 18/05/1935, Amsterdam, Olympisch Stadion, 33.000
-NETHERLANDS 0-1 ENGLAND [HT 0-0]
+NETHERLANDS 0-1 ENGLAND 
 Scorer:
 England: Fred Worrall 51'
 
 NED: Leo Halle, Wim Anderiesen, Bertus Caldenhove, Sjef van Run, Kees Mijnders, Bas 
 Paauwe, Puck van Heel, Daaf Drok, Beb Bakhuys, Frank Wels, Kick Smit
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [23/0]
-George Male                  [Arsenal]                  [4/0]
-Edris Hapgood [c]            [Arsenal]                  [12/0]
-Thomas Gardner               [Aston Villa]              [2/0]
-John Barker                  [Derby County]             [5/0]
-Horace Burrows               [Sheffield Wednesday]      [3/0]
-Fred Worrall                 [Portsmouth]               [1/1]
-George Eastham               [Bolton Wanderers]         [1/0]
-William Richardson           [West Bromwich Albion]     [1/0]
-Ray Westwood                 [Bolton Wanderers]         [3/0]
-Walter Boyes                 [West Bromwich Albion]     [1/0]
-[COACH: Committee]
+Henry Hibbs                  
+George Male                  
+Edris Hapgood 
+Thomas Gardner               
+John Barker                  
+Horace Burrows               
+Fred Worrall                 
+George Eastham               
+William Richardson           
+Ray Westwood                 
+Walter Boyes                 
+
 Referee: Bauwens (Germany)
 
 FRIENDLY INTERNATIONAL (KING GEORGE V JUBILEE FUND-UNOFFICIAL)
 21/08/1935, Glasgow, Hampden Park, 56.316
-SCOTLAND 4-2 ENGLAND [HT 3-0]
+SCOTLAND 4-2 ENGLAND 
 Scorers:
 Scotland: James Delaney, Matthew Armstrong, Thomas Walker 2 (1pen)
 England: Ray Westwood, Robert Gurney
@@ -791,23 +792,23 @@ SCO: John Jackson, Andrew Anderson, George Cummings, Alexander Massie, James
 Simpson, George Brown, James Delaney, Thomas Walker, Matthew Armstrong, William 
 Mills, Douglas Duncan
 ENGLAND:
-Henry Hibbs                  [Birmingham City]
-George Male                  [Arsenal]
-Edris Hapgood [c]            [Arsenal]
-Cliff Britton                [Everton]
-William Millership           [Sheffield Wednesday]
-John Bray                    [Manchester City]
-John Morton                  [West Ham United]
-Horatio Carter               [Sunderland]
-Robert Gurney                [Sunderland]
-Ray Westwood                 [Bolton Wanderers]
-Walter Boyes                 [West Bromwich Albion]
-[COACH: Committee]
+Henry Hibbs                  
+George Male                  
+Edris Hapgood 
+Cliff Britton                
+William Millership           
+John Bray                    
+John Morton                  
+Horatio Carter               
+Robert Gurney                
+Ray Westwood                 
+Walter Boyes                 
+
 Referee: Webb (Scotland)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 19/10/1935, Belfast, Windsor Park, 28.000
-NORTHERN IRELAND 1-3 ENGLAND [HT 1-0]
+NORTHERN IRELAND 1-3 ENGLAND 
 Scorers:
 Northern Ireland: John Brown
 England: Fred Tilson 66', 69', Eric Brook 85'
@@ -815,39 +816,39 @@ England: Fred Tilson 66', 69', Eric Brook 85'
 NIR: Elisha Scott, S Reid, C Allan, William Mitchell, John Jones, Robert Browne, 
 John Brown, Keiller McCullough, Joseph Bambrick, Peter Doherty, James Kelly
 ENGLAND:
-Edward Sagar                 [Everton]                  [1/0]
-George Male                  [Arsenal]                  [5/0]
-Edris Hapgood [c]            [Arsenal]                  [13/0]
-Septimus Smith               [Leicester City]           [1/0]
-John Barker                  [Derby County]             [6/0]
-John Bray                    [Manchester City]          [2/0]
-Ralph Birkett                [Middlesbrough]            [1/0]
-Ray Bowden                   [Arsenal]                  [3/0]
-Fred Tilson                  [Manchester City]          [4/6]
-Ray Westwood                 [Bolton Wanderers]         [4/0]
-Eric Brook                   [Manchester City]          [13/8]
-[COACH: Committee]
+Edward Sagar                 
+George Male                  
+Edris Hapgood 
+Septimus Smith               
+John Barker                  
+John Bray                    
+Ralph Birkett                
+Ray Bowden                   
+Fred Tilson                  
+Ray Westwood                 
+Eric Brook                   
+
 Referee: Webb (Scotland)
 
 FRIENDLY INTERNATIONAL
 04/12/1935, London, White Hart Lane, 54.164
-ENGLAND 3-0 GERMANY [HT 1-0]
+ENGLAND 3-0 GERMANY 
 Scorers:
 England: George Camsell 35', 50', Cliff Bastin 68'
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [24/0]
-George Male                  [Arsenal]                  [6/0]
-Edris Hapgood [c]            [Arsenal]                  [14/0]
-Jack Crayston                [Arsenal]                  [1/0]
-John Barker                  [Derby County]             [7/0]
-John Bray                    [Manchester City]          [3/0]
-Stanley Matthews             [Stoke City]               [3/1]
-Horatio Carter               [Sunderland]               [3/0]
-George Camsell               [Middlesbrough]            [6/15]
-Ray Westwood                 [Bolton Wanderers]         [5/0]
-Cliff Bastin                 [Arsenal]                  [12/7]
-[COACH: Committee]
+Henry Hibbs                  
+George Male                  
+Edris Hapgood 
+Jack Crayston                
+John Barker                  
+John Bray                    
+Stanley Matthews             
+Horatio Carter               
+George Camsell               
+Ray Westwood                 
+Cliff Bastin                 
+
 GER: Hans Jakob, Siegfried Haringer, Reinhold Munzenberg, Paul Janes, Ludwig 
 Goldbrunner, Rudi Gramlich, Ernst Lehner, Fritz Szepan, Karl Hohmann, Josef 
 Rasselberg, Josef Fath
@@ -857,24 +858,24 @@ Referee: Olsson (Sweden)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 05/02/1936, Wolverhampton, Molineaux Stadium, 22.613
-ENGLAND 1-2 WALES [HT 1-0]
+ENGLAND 1-2 WALES 
 Scorers:
 England: Ray Bowden 38'
 Wales: Dai Astley, Bryn Jones
 
 ENGLAND:
-Henry Hibbs                  [Birmingham City]          [25/0]
-George Male                  [Arsenal]                  [7/0]
-Edris Hapgood [c]            [Arsenal]                  [15/0]
-Jack Crayston                [Arsenal]                  [2/0]
-John Barker                  [Derby County]             [8/0]
-John Bray                    [Manchester City]          [4/0]
-Samuel Crooks                [Derby County]             [23/7]
-Ray Bowden                   [Arsenal]                  [4/1]
-Ted Drake                    [Arsenal]                  [3/1]
-Cliff Bastin                 [Arsenal]                  [13/7]
-Eric Brook                   [Manchester City]          [14/8]
-[COACH: Committee]
+Henry Hibbs                  
+George Male                  
+Edris Hapgood 
+Jack Crayston                
+John Barker                  
+John Bray                    
+Samuel Crooks                
+Ray Bowden                   
+Ted Drake                    
+Cliff Bastin                 
+Eric Brook                   
+
 WAL: William John, David Jones, Benjamin Ellis, Jimmy Murphy, Harry Hanford, David 
 Richards, Idris Hopkins, Cuthbert Phillips, Dai Astley, Bryn Jones, William Evans
 Referee: Webb (Scotland)
@@ -882,24 +883,24 @@ Note: Ted Drake retired after 40'.
 
 HOME INTERNATIONAL CHAMPIONSHIP
 04/04/1936, London, Wembley Stadium, 93.267
-ENGLAND 1-1 SCOTLAND [HT 1-0]
+ENGLAND 1-1 SCOTLAND 
 Scorers:
 England: George Camsell 30'
 Scotland: Thomas Walker 77'pen
 
 ENGLAND:
-Edward Sagar                 [Everton]                  [2/0]
-George Male                  [Arsenal]                  [8/0]
-Edris Hapgood [c]            [Arsenal]                  [16/0]
-Jack Crayston                [Arsenal]                  [3/0]
-John Barker                  [Derby County]             [9/0]
-John Bray                    [Manchester City]          [5/0]
-Samuel Crooks                [Derby County]             [24/7]
-Robert Barclay               [Sheffield Wednesday]      [3/2]
-George Camsell               [Middlesbrough]            [7/16]
-Cliff Bastin                 [Arsenal]                  [14/7]
-Eric Brook                   [Manchester City]          [15/8]
-[COACH: Committee]
+Edward Sagar                 
+George Male                  
+Edris Hapgood 
+Jack Crayston                
+John Barker                  
+John Bray                    
+Samuel Crooks                
+Robert Barclay               
+George Camsell               
+Cliff Bastin                 
+Eric Brook                   
+
 SCO: James Dawson, Andrew Anderson, George Cummings, Alexander Massie, James 
 Simpson, George Brown, John Crum, Thomas Walker, David McCulloch, Alexander 
 Venters, Douglas Duncan
@@ -907,7 +908,7 @@ Referee: Hamilton (Northern Ireland)
 
 FRIENDLY INTERNATIONAL
 06/05/1936, Vienna, Praterstadion, 60.000
-AUSTRIA 2-1 ENGLAND [HT 2-0]
+AUSTRIA 2-1 ENGLAND 
 Scorers:
 Austria: Rudolf Viertl 12', Rudolf Geiter 17'
 England: George Camsell 54'
@@ -916,23 +917,23 @@ AUT: Peter Platzer, Karl Szestak, Willibald Schmaus, Johann Urbanek, Johann Mock
 Walter Nausch, Rudolf Geiter, Josef Stroh, Matthias Sindelar, Josef Bican, Rudolf 
 Viertl
 ENGLAND:
-Edward Sagar                 [Everton]                  [3/0]
-George Male                  [Arsenal]                  [9/0]
-Edris Hapgood [c]            [Arsenal]                  [17/0]
-Jack Crayston                [Arsenal]                  [4/0]
-John Barker                  [Derby County]             [10/0]
-William Copping              [Arsenal]                  [9/0]
-Richard Spence               [Chelsea]                  [1/0]
-Ray Bowden                   [Arsenal]                  [5/1]
-George Camsell               [Middlesbrough]            [8/17]
-Cliff Bastin                 [Arsenal]                  [15/7]
-Harold Hobbis                [Charlton Athletic]        [1/0]
-[COACH: Committee]
+Edward Sagar                 
+George Male                  
+Edris Hapgood 
+Jack Crayston                
+John Barker                  
+William Copping              
+Richard Spence               
+Ray Bowden                   
+George Camsell               
+Cliff Bastin                 
+Harold Hobbis                
+
 Referee: Langenus (Belgium)
 
 FRIENDLY INTERNATIONAL
 09/05/1936, Brussels, Stade du Centenaire, 40.000
-BELGIUM 3-2 ENGLAND [HT 0-0]
+BELGIUM 3-2 ENGLAND 
 Scorers:
 Belgium: Hendrik Isemborghs 62', 82', Jean Fievez 84'
 England: George Camsell 56', Harold Hobbis 88'
@@ -941,23 +942,23 @@ BEL: Arnold Badjou, Robert Paverick, Constant Joacim, Pierre Dalem, Emile Stijne
 Alfons de Winter, Jean Fievez, Robert Lamoot, Jean Capelle, Henrik Isemborghs, 
 Antoine Francxx
 ENGLAND:
-Edward Sagar                 [Everton]                  [4/0]
-George Male                  [Arsenal]                  [10/0]
-Edris Hapgood [c]            [Arsenal]                  [18/0]
-Jack Crayston                [Arsenal]                  [5/0]
-Bernard Joy                  [Casuals]                  [1/0]
-William Copping              [Arsenal]                  [10/0]
-Richard Spence               [Chelsea]                  [2/0]
-Samuel Barkas                [Manchester City]          [1/0]
-George Camsell               [Middlesbrough]            [9/18]
-Jimmy Nat Cunliffe           [Everton]                  [1/0]
-Harold Hobbis                [Charlton Athletic]        [2/1]
-[COACH: Committee]
+Edward Sagar                 
+George Male                  
+Edris Hapgood 
+Jack Crayston                
+Bernard Joy                  
+William Copping              
+Richard Spence               
+Samuel Barkas                
+George Camsell               
+Jimmy Nat Cunliffe           
+Harold Hobbis                
+
 Referee: van Moorsel (Netherlands)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 17/10/1936, Cardiff, Ninian Park, 44.729
-WALES 2-1 ENGLAND [HT 0-1]
+WALES 2-1 ENGLAND 
 Scorers:
 Wales: Seymour Morris, Ernest Glover
 England: Cliff Bastin 44'
@@ -965,40 +966,40 @@ England: Cliff Bastin 44'
 WAL: Albert Gray, Herbert Turner, Robert John, John Warner, Tom Griffiths, David 
 Richards, Idris Hopkins, Leslie Jones, Ernest Glover, Bryn Jones, Seymour Morris
 ENGLAND:
-Harry Holdcroft              [Preston North End]        [1/0]
-Bert Sproston                [Leeds United]             [1/0]
-Ted Catlin                   [Sheffield Wednesday]      [1/0]
-Tom Smalley                  [Wolverhampton Wanderers]  [1/0]
-John Barker [c]              [Derby County]             [11/0]
-Errington Keen               [Derby County]             [2/0]
-Samuel Crooks                [Derby County]             [25/7]
-William Scott                [Brentford]                [1/0]
-Frederick Steele             [Stoke City]               [1/0]
-Ray Westwood                 [Bolton Wanderers]         [6/0]
-Cliff Bastin                 [Arsenal]                  [16/8]
-[COACH: Committee]
+Harry Holdcroft              
+Bert Sproston                
+Ted Catlin                   
+Tom Smalley                  
+John Barker 
+Errington Keen               
+Samuel Crooks                
+William Scott                
+Frederick Steele             
+Ray Westwood                 
+Cliff Bastin                 
+
 Referee: McLean (Northern Ireland)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 18/11/1936, Stoke, Victoria Ground, 47.882
-ENGLAND 3-1 NORTHERN IRELAND [HT 1-1]
+ENGLAND 3-1 NORTHERN IRELAND 
 Scorers:
 England: Horatio Carter 30', Cliff Bastin 67', Fred Worrall 75'
 Northern Ireland: Thomas Davis
 
 ENGLAND:
-Harry Holdcroft              [Preston North End]        [2/0]
-George Male [c]              [Arsenal]                  [11/0]
-Ted Catlin                   [Sheffield Wednesday]      [2/0]
-Cliff Britton                [Everton]                  [5/0]
-Charles Gee                  [Everton]                  [3/0]
-Errington Keen               [Derby County]             [3/0]
-Fred Worrall                 [Portsmouth]               [2/2]
-Horatio Carter               [Sunderland]               [4/1]
-Frederick Steele             [Stoke City]               [2/0]
-Cliff Bastin                 [Arsenal]                  [17/9]
-Joseph Johnson               [Stoke City]               [1/0]
-[COACH: Committee]
+Harry Holdcroft              
+George Male 
+Ted Catlin                   
+Cliff Britton                
+Charles Gee                  
+Errington Keen               
+Fred Worrall                 
+Horatio Carter               
+Frederick Steele             
+Cliff Bastin                 
+Joseph Johnson               
+
 NIR: Tommy Breen, William Cook, Robert Fulton, Keiller McCullough, John Jones, 
 William Mitchell, John Brown, Alex Stevenson, Thomas Davis, Peter Doherty, James 
 Kelly
@@ -1006,25 +1007,25 @@ Referee: Webb (Scotland)
 
 FRIENDLY INTERNATIONAL
 02/12/1936, London, Highbury Stadium, 36.000
-ENGLAND 6-2 HUNGARY [HT 3-1]
+ENGLAND 6-2 HUNGARY 
 Scorers:
 England: Eric Brook 25', Ted Drake 32', 43', 80', Cliff Britton 52', 
 Horatio Carter 87'
 Hungary: Jeno Vincze 29', Laszlo Cseh II 48'
 
 ENGLAND:
-George Tweedy                [Grimsby Town]             [1/0]
-George Male [c]              [Arsenal]                  [12/0]
-Ted Catlin                   [Sheffield Wednesday]      [3/0]
-Cliff Britton                [Everton]                  [6/1]
-Alfred Young                 [Huddersfield Town]        [2/0]
-Errington Keen               [Derby County]             [4/0]
-Samuel Crooks                [Derby County]             [26/7]
-Ray Bowden                   [Arsenal]                  [6/1]
-Ted Drake                    [Arsenal]                  [4/4]
-Horatio Carter               [Sunderland]               [5/2]
-Eric Brook                   [Manchester City]          [16/9]
-[COACH: Committee]
+George Tweedy                
+George Male 
+Ted Catlin                   
+Cliff Britton                
+Alfred Young                 
+Errington Keen               
+Samuel Crooks                
+Ray Bowden                   
+Ted Drake                    
+Horatio Carter               
+Eric Brook                   
+
 HUN: Antal Szabo, Jozsef Vago, Sandór Biro, Gyula Lazar, Gyorgy Sarosi, Janos 
 Dudas, Laszlo Sas, Jeno Vincze, Laszlo Cseh II, Gyula Zsengeller, Pal Titkos
 Referee: LeClercq (France)
@@ -1033,7 +1034,7 @@ Referee: LeClercq (France)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 17/04/1937, Glasgow, Hampden Park, 149.547
-SCOTLAND 3-1 ENGLAND [HT 0-1]
+SCOTLAND 3-1 ENGLAND 
 Scorers:
 Scotland: Francis O'Donnell 47', Robert McPhail 80', 89'
 England: Frederick Steele 40'
@@ -1042,24 +1043,24 @@ SCO: James Dawson, Andrew Anderson, Andrew Beattie, Alexander Massie, James
 Simpson, George Brown, James Delaney, Thomas Walker, Francis O'Donnell, Robert 
 McPhail, Douglas Duncan
 ENGLAND:
-Victor Woodley               [Chelsea]                  [1/0]
-George Male [c]              [Arsenal]                  [13/0]
-Samuel Barkas                [Manchester City]          [2/0]
-Cliff Britton                [Everton]                  [7/1]
-Alfred Young                 [Huddersfield Town]        [3/0]
-John Bray                    [Manchester City]          [6/0]
-Stanley Matthews             [Stoke City]               [4/1]
-Horatio Carter               [Sunderland]               [6/2]
-Frederick Steele             [Stoke City]               [3/1]
-Ronald Starling              [Aston Villa]              [2/0]
-Joseph Johnson               [Stoke City]               [2/0]
-[COACH: Committee]
+Victor Woodley               
+George Male 
+Samuel Barkas                
+Cliff Britton                
+Alfred Young                 
+John Bray                    
+Stanley Matthews             
+Horatio Carter               
+Frederick Steele             
+Ronald Starling              
+Joseph Johnson               
+
 Referee: McLean (Northern Ireland)
 Note: First time England wore shirts with numbers on the back.
 
 FRIENDLY INTERNATIONAL
 14/05/1937, Oslo, Ullevaal Stadion, 20.000
-NORWAY 0-6 ENGLAND [HT 0-4]
+NORWAY 0-6 ENGLAND 
 Scorers:
 England: Alfred Kirchen 18', Oyvind Holmsen 26'OG, Thomas Galley 40', 
 Frederick Steele 43', 61', Leonard Goulden 85'
@@ -1068,23 +1069,23 @@ NOR: Henry Johansen, Nils Eriksen, Oyvind Holmsen, Frithjof Ulleberg, Jorgen Juv
 Rolf Holmberg, Reidar Kvammen, Magnar Isaksen, Alf Martinsen, Arne Brustad, Odd 
 Frantzen
 ENGLAND:
-Victor Woodley               [Chelsea]                  [2/0]
-George Male [c]              [Arsenal]                  [14/0]
-Ted Catlin                   [Sheffield Wednesday]      [4/0]
-Cliff Britton                [Everton]                  [8/1]
-Alfred Young                 [Huddersfield Town]        [4/0]
-Wilfred Copping              [Arsenal]                  [11/0]
-Alfred Kirchen               [Arsenal]                  [1/1]
-Thomas Galley                [Wolverhampton Wanderers]  [1/1]
-Frederick Steele             [Stoke City]               [4/3]
-Leonard Goulden              [West Ham United]          [1/1]
-Joseph Johnson               [Stoke City]               [3/0]
-[COACH: Committee]
+Victor Woodley               
+George Male 
+Ted Catlin                   
+Cliff Britton                
+Alfred Young                 
+Wilfred Copping              
+Alfred Kirchen               
+Thomas Galley                
+Frederick Steele             
+Leonard Goulden              
+Joseph Johnson               
+
 Referee: Ullrich (Denmark)
 
 FRIENDLY INTERNATIONAL
 17/05/1937, Stockholm, Rasunda Stadion, 34.119
-SWEDEN 0-4 ENGLAND [HT 0-4]
+SWEDEN 0-4 ENGLAND 
 Scorers:
 England: Frederick Steele 7', 13', 37', Joseph Johnson 34'
 Disclaimer: Scorers also stated as Steele 15', 25', 33' and Johnson 68'
@@ -1093,23 +1094,23 @@ SWE: Gustaf Sjoberg, Nils Axelsson, Walter Skold, Fritz Berg, Sven Andersson, Er
 Andersson, Gustaf Josefsson, Erik Persson, Sven Jonasson, Karl-Erik Grahn, Axel 
 Nilsson
 ENGLAND:
-Victor Woodley               [Chelsea]                  [3/0]
-George Male [c]              [Arsenal]                  [15/0]
-Ted Catlin                   [Sheffield Wednesday]      [5/0]
-Cliff Britton                [Everton]                  [9/1]
-Alfred Young                 [Huddersfield Town]        [5/0]
-Wilfred Copping              [Arsenal]                  [12/0]
-Alfred Kirchen               [Arsenal]                  [2/1]
-Thomas Galley                [Wolverhampton Wanderers]  [2/1]
-Frederick Steele             [Stoke City]               [5/6]
-Leonard Goulden              [West Ham United]          [2/1]
-Joseph Johnson               [Stoke City]               [4/1]
-[COACH: Committee]
+Victor Woodley               
+George Male 
+Ted Catlin                   
+Cliff Britton                
+Alfred Young                 
+Wilfred Copping              
+Alfred Kirchen               
+Thomas Galley                
+Frederick Steele             
+Leonard Goulden              
+Joseph Johnson               
+
 Referee: Langenus (Belgium)
 
 FRIENDLY INTERNATIONAL
 20/05/1937, Helsinki, Pallokentta Stadium, 9.533
-FINLAND 0-8 ENGLAND [HT 0-4]
+FINLAND 0-8 ENGLAND 
 Scorers:
 England: Alfred Kirchen 6', Joseph Payne 27', 56', Frederick Steele 36', 52', 
 Joseph Johnson 44', Ken Willingham 75', John Robinson 87'
@@ -1117,23 +1118,23 @@ Joseph Johnson 44', Ken Willingham 75', John Robinson 87'
 FIN: Paavo Salminen, Frans Karjagin, Kaarlo Oksanen, Eino Lahti, Armas Pyy, Antero 
 Rinne, Paavo Virtanen, Kurt Weckström, Aatos Lehtonen, Pentti Larvo, Yrjö Kylmälä 
 ENGLAND:
-Victor Woodley               [Chelsea]                  [4/0]
-George Male [c]              [Arsenal]                  [16/0]
-Edris Hapgood                [Arsenal]                  [19/0]
-Ken Willingham               [Huddersfield Town]        [1/0]
-Harry Betmead                [Grimsby Town]             [1/0]
-Wilfred Copping              [Arsenal]                  [13/0]
-Alfred Kirchen               [Arsenal]                  [3/2]
-John Robinson                [Sheffield Wednesday]      [1/1]
-Joseph Payne                 [Luton Town]               [1/2]
-Frederick Steele             [Stoke City]               [6/8]
-Joseph Johnson               [Stoke City]               [5/2]
-[COACH: Committee]
+Victor Woodley               
+George Male 
+Edris Hapgood                
+Ken Willingham               
+Harry Betmead                
+Wilfred Copping              
+Alfred Kirchen               
+John Robinson                
+Joseph Payne                 
+Frederick Steele             
+Joseph Johnson               
+
 Referee: Eklow (Sweden)
 
 HOME INTERNATIONAL CHAMPIONSHIP
 23/10/1937, Belfast, Windsor Park, 36.000
-NORTHERN IRELAND 1-5 ENGLAND [HT 0-2]
+NORTHERN IRELAND 1-5 ENGLAND 
 Scorers:
 Northern Ireland: Alex Stevenson
 England: George Mills 10', 20', 55', Willie Hall 58', Eric Brook 75'
@@ -1141,13 +1142,13 @@ England: George Mills 10', 20', 55', Willie Hall 58', Eric Brook 75'
 NIR: Tommy Breen, William Hayes, William Cook, William Mitchell, John Jones, Robert 
 Browne, Noel Kernaghan, Alex Stevenson, David Martin, Peter Doherty, O Madden
 ENGLAND:
-Victor Woodley               [Chelsea]                  [5/0]
-Bert Sproston                [Leeds United]             [2/0]
-Samuel Barkas [c]            [Manchester City]          [3/0]
-Jack Crayston                [Arsenal]                  [6/0]
-Stan Cullis                  [Wolverhampton Wanderers]  [1/0]
-Wilfred Copping              [Arsenal]                  [14/0]
-Albert Geldard               [Everton]                  [4/0]
+Victor Woodley               
+Bert Sproston                
+Samuel Barkas 
+Jack Crayston                
+Stan Cullis                  
+Wilfred Copping              
+Albert Geldard               
 Willie Hall                  [Birmingham City]          [2/1]
 George Mills                 [Chelsea]                  [1/3]
 Leonard Goulden              [West Ham United]          [3/1]

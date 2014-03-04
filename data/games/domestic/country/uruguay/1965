@@ -13,7 +13,7 @@ Season: 1965
 *10.Colón          18  2  3 13 14-40  7
 
 
-Round: Round 1
+Round: 1
 
 ; Nacional      ; 2-1; Cerro          
 ; Fénix         ; 3-0; Danubio       
@@ -21,7 +21,7 @@ Round: Round 1
 ; Colón         ; 1-0; Sud América   
 ; Peñarol       ; 1-0; Rampla Juniors
 
-Round: Round 2
+Round: 2
 
 ; Peñarol       ; 2-1; Danubio       
 ; Fénix         ; 1-1; Nacional      
@@ -29,7 +29,7 @@ Round: Round 2
 ; Rampla Juniors; 3-2; Sud América   
 ; Cerro         ; 4-0; Racing        
 
-Round: Round 3
+Round: 3
 
 ; Nacional      ; 1-0; Wanderers     
 ; Peñarol       ; 4-1; Racing        
@@ -37,7 +37,7 @@ Round: Round 3
 ; Colón         ; 3-0; Danubio       
 ; Cerro         ; 2-2; Rampla Juniors
 
-Round: Round 4
+Round: 4
 
 ; Peñarol       ; 5-1; Colón          
 ; Danubio       ; 0-0; Cerro         
@@ -45,7 +45,7 @@ Round: Round 4
 ; Fénix         ; 3-0; Wanderers     
 ; Sud América   ; 2-0; Nacional      
 
-Round: Round 5
+Round: 5
 
 ; Peñarol       ; 3-0; Wanderers      
 ; Rampla Juniors; 2-0; Fénix         
@@ -53,7 +53,7 @@ Round: Round 5
 ; Danubio       ; 4-1; Sud América   
 ; Nacional      ; 2-1; Racing        
 
-Round: Round 6
+Round: 6
 
 ; Peñarol       ; 4-2; Sud América   
 ; Nacional      ; 1-0; Colón         
@@ -61,7 +61,7 @@ Round: Round 6
 ; Racing        ; 2-1; Fénix         
 ; Danubio       ; 1-1; Rampla Juniors
 
-Round: Round 7
+Round: 7
 
 ; Nacional      ; 4-1; Rampla Juniors
 ; Peñarol       ; 1-0; Cerro         
@@ -69,7 +69,7 @@ Round: Round 7
 ; Colón         ; 0-0; Fénix         
 ; Sud América   ; 2-1; Wanderers      
 
-Round: Round 8
+Round: 8
 
 ; Peñarol       ; 1-1; Nacional      
 ; Racing        ; 2-0; Sud América   
@@ -77,7 +77,7 @@ Round: Round 8
 ; Rampla Juniors; 1-1; Colón         
 ; Cerro         ; 1-0; Fénix         
 
-Round: Round 9
+Round: 9
 
 ; Peñarol       ; 2-1; Fénix         
 ; Nacional      ; 3-0; Danubio       
@@ -85,7 +85,7 @@ Round: Round 9
 ; Racing        ; 2-0; Colón         
 ; Cerro         ; 2-0; Sud América   
 
-Round: Round 10
+Round: 10
 
 ; Nacional      ; 1-1; Cerro         
 ; Fénix         ; 1-0; Danubio       
@@ -93,7 +93,7 @@ Round: Round 10
 ; Sud América   ; 3-0; Colón          
 ; Peñarol       ; 1-0; Rampla Juniors
 
-Round: Round 11
+Round: 11
 
 ; Peñarol       ; 4-2; Danubio       
 ; Nacional      ; 4-1; Fénix          
@@ -101,7 +101,7 @@ Round: Round 11
 ; Rampla Juniors; 1-1; Sud América   
 ; Cerro         ; 2-1; Racing        
 
-Round: Round 12
+Round: 12
 
 ; Nacional      ; 2-1; Wanderers     
 ; Peñarol       ; 1-0; Racing        
@@ -109,7 +109,7 @@ Round: Round 12
 ; Danubio       ; 4-1; Colón         
 ; Cerro         ; 1-0; Rampla Juniors
 
-Round: Round 13
+Round: 13
 
 ; Peñarol       ; 3-1; Colón         
 ; Cerro         ; 2-1; Danubio        
@@ -117,7 +117,7 @@ Round: Round 13
 ; Fénix         ; 2-2; Wanderers     
 ; Nacional      ; 2-0; Sud América   
 
-Round: Round 14
+Round: 14
 
 ; Peñarol       ; 3-1; Wanderers     
 ; Fénix         ; 1-0; Rampla Juniors
@@ -125,7 +125,7 @@ Round: Round 14
 ; Danubio       ; 2-2; Sud América   
 ; Nacional      ; 4-1; Racing        
 
-Round: Round 15
+Round: 15
 
 ; Peñarol       ; 4-2; Sud América   
 ; Nacional      ; 4-0; Colón         
@@ -133,7 +133,7 @@ Round: Round 15
 ; Racing        ; 3-1; Fénix         
 ; Danubio       ; 1-1; Rampla Juniors
 
-Round: Round 16
+Round: 16
 
 ; Rampla Juniors; 1-0; Nacional      
 ; Peñarol       ; 3-2; Cerro         
@@ -141,7 +141,7 @@ Round: Round 16
 ; Fénix         ; 4-0; Colón         
 ; Sud América   ; 1-1; Wanderers      
 
-Round: Round 17
+Round: 17
 
 ; Peñarol       ; 1-1; Nacional      
 ; Racing        ; 3-2; Sud América   
@@ -149,7 +149,7 @@ Round: Round 17
 ; Rampla Juniors; 2-0; Colón         
 ; Cerro         ; 0-0; Fénix         
 
-Round: Round 18
+Round: 18
 
 ; Fénix         ; 1-0; Peñarol       
 ; Danubio       ; 1-0; Nacional      

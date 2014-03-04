@@ -451,6 +451,17 @@ d = {
                 ]),
 
         (2013, [
+                'Donovan Ricketts',
+                'Jose Goncalves',
+                'Matt Besler',
+                'Omar Gonzalez',
+                'Tim Cahill',
+                'Will Johnson',
+                'Diego Valeri',
+                'Graham Zusi',
+                'Marco Di Vaio',
+                'Robbie Keane',
+                'Mike Magee',
                 ]),
          
 
@@ -521,6 +532,7 @@ mlsrl = {
         (2008, 'Houston Dynamo Reserves'),
         (2011, 'Columbus Crew Reserves'),
         (2012, 'Columbus Crew Reserves'),
+        (2013, 'Los Angeles Galaxy Reserves'),
         ],
 
 }

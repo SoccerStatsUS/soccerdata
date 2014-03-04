@@ -4,6 +4,44 @@
 import datetime
 
 l = [
+
+    # Tunisia
+    {
+        'name': 'Espérance',
+        'founded': datetime.datetime(1919, 1, 15),
+        'city': 'Tunis, Tunisia',
+        },
+
+
+    # Cameroon
+
+    {
+        'name': 'Rainbow FC Bamenda',
+        'city': 'Bamenda, Cameroon',
+        },
+
+    {
+        'name': 'Canon Yaoundé',
+        'city': 'Yaoundé, Cameroon',
+        'founded': datetime.datetime(1930, 11, 11),
+        },
+
+    {
+        'name': 'Africa Sports',
+        'city': 'Abidjan, Ivory Coast',
+        'founded': 1948,
+        },
+
+    {
+        'name': 'Tonnelle de Yaoundé',
+        'city': 'Yaoundé, Cameroon',
+        },
+
+    {
+        'name': 'Wits University FC',
+        'city': 'Johannesburg, South Africa',
+        },
+
     # Egypt
 
     {
@@ -11,6 +49,8 @@ l = [
         'founded': datetime.datetime(1907, 11, 4),
         'city': 'Cairo, Egypt',
         },
+
+
 
     {
         'name': 'Zamalek SC',

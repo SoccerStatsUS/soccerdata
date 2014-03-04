@@ -25,7 +25,7 @@ Table:
 11.Grazer AK                 22   6  4 12  26-41   16
 12.Austria Klagenfurt        22   1  6 15  14-56    8 
 
-Round 1 [Jul 22]
+Round: 1 [Jul 22]
 Klagenfurt       0-1 LASK 
 Tirol            5-0 Vienna 
 Rapid            4-4 Admira/Wacker 
@@ -33,7 +33,7 @@ Sturm            1-0 GAK
 VOEST            3-1 Eisenstadt 
 Sportclub        3-5 Austria 
 
-Round 2
+Round: 2
 [Jul 25]
 Admira/Wacker    4-1 Klagenfurt 
 GAK              2-0 VOEST 
@@ -44,7 +44,7 @@ Vienna           1-1 Rapid
 [Jul 27]
 Austria          1-2 Tirol 
 
-Round 3
+Round: 3
 [Aug 1]
 Klagenfurt       1-2 Vienna 
 Austria          6-3 Eisenstadt 
@@ -54,7 +54,7 @@ VOEST            0-1 LASK
 [Aug 2]
 Sportclub        5-0 GAK 
 
-Round 4
+Round: 4
 [Aug 5]
 GAK              2-0 Austria 
 LASK             0-2 Sportclub 
@@ -64,7 +64,7 @@ Vienna           1-0 Sturm
 [Aug 6]
 Admira/Wacker    2-2 VOEST 
 
-Round 5
+Round: 5
 [Aug 8]
 Austria          5-1 LASK 
 Tirol            4-1 Klagenfurt 
@@ -74,7 +74,7 @@ VOEST            4-1 Vienna
 [Aug 10]
 Sportclub        2-1 Admira/Wacker 
 
-Round 6
+Round: 6
 [Aug 14]
 Vienna           3-1 Sportclub 
 [Aug 15]
@@ -84,7 +84,7 @@ GAK              0-2 Tirol
 LASK             3-1 Eisenstadt 
 Rapid            4-1 VOEST 
 
-Round 7
+Round: 7
 [Aug 22]
 Tirol            4-1 Sturm 
 GAK              1-4 LASK 
@@ -94,7 +94,7 @@ Sportclub        0-4 Rapid
 [Aug 24]
 Austria          1-0 Vienna 
 
-Round 8
+Round: 8
 [Aug 29]
 Admira/Wacker    5-0 GAK 
 Klagenfurt       2-2 Sportclub 
@@ -104,7 +104,7 @@ LASK             1-0 Tirol
 Rapid            2-2 Austria 
 Sturm            2-0 VOEST 
 
-Round 9
+Round: 9
 [Sep 2]
 Tirol            1-0 VOEST 
 GAK              0-0 Vienna 
@@ -114,7 +114,7 @@ Sportclub        1-2 Sturm
 [Sep 3]
 Austria          4-1 Klagenfurt 
 
-Round 10
+Round: 10
 [Sep 5]
 Klagenfurt       0-0 Eisenstadt 
 Vienna           0-2 LASK 
@@ -124,7 +124,7 @@ Rapid            2-0 GAK
 Sturm            0-2 Austria 
 VOEST            2-4 Sportclub 
 
-Round 11
+Round: 11
 [Sep 12]
 Admira/Wacker    1-0 Vienna 
 Eisenstadt       0-0 Sturm 
@@ -134,7 +134,7 @@ Austria          3-0 VOEST
 GAK              5-1 Klagenfurt 
 LASK             1-1 Rapid 
 
-Round 12
+Round: 12
 [Sep 19]
 Klagenfurt       1-3 GAK 
 Vienna           1-0 Admira/Wacker 
@@ -144,7 +144,7 @@ Rapid            7-1 LASK
 Sturm            0-0 Eisenstadt 
 VOEST            1-1 Austria 
 
-Round 13
+Round: 13
 [Sep 26]
 Admira/Wacker    0-3 Rapid 
 Eisenstadt       2-1 VOEST 
@@ -155,7 +155,7 @@ Vienna           3-1 Tirol
 [Sep 28]
 Austria          4-1 Sportclub 
 
-Round 14
+Round: 14
 [Oct 3]
 Klagenfurt       1-2 Admira/Wacker 
 VOEST            4-2 GAK 
@@ -165,7 +165,7 @@ Tirol            2-4 Austria
 Rapid            4-1 Vienna 
 Sturm            1-0 LASK 
 
-Round 15
+Round: 15
 [Oct 10]
 Rapid            2-1 Tirol 
 Eisenstadt       1-5 Austria 
@@ -175,7 +175,7 @@ GAK              2-1 Sportclub
 LASK             2-3 VOEST 
 Vienna           3-1 Klagenfurt 
 
-Round 16
+Round: 16
 [Oct 17]
 Sportclub        3-0 LASK 
 [Oct 18]
@@ -185,7 +185,7 @@ Tirol            2-1 Eisenstadt
 Sturm            3-0 Vienna 
 VOEST            2-1 Admira/Wacker 
 
-Round 17
+Round: 17
 [Oct 24]
 Vienna           3-1 VOEST 
 [Oct 25]
@@ -195,7 +195,7 @@ GAK              4-2 Eisenstadt
 LASK             1-2 Austria 
 Rapid            3-1 Sturm 
 
-Round 18
+Round: 18
 [Oct 31]
 Tirol            1-0 GAK 
 Eisenstadt       1-1 LASK 
@@ -206,7 +206,7 @@ VOEST            4-3 Rapid
 Sturm            2-0 Klagenfurt 
 Sportclub        4-1 Vienna 
 
-Round 19 [Nov 8]
+Round: 19 [Nov 8]
 Admira/Wacker    5-1 Eisenstadt 
 Klagenfurt       0-0 VOEST 
 LASK             1-1 GAK 
@@ -214,7 +214,7 @@ Rapid            2-3 Sportclub
 Sturm            2-2 Tirol 
 Vienna           4-2 Austria 
 
-Round 20
+Round: 20
 [Nov 14]
 Sportclub        6-0 Klagenfurt 
 [Nov 15]
@@ -224,7 +224,7 @@ GAK              0-0 Admira/Wacker
 Eisenstadt       2-0 Vienna 
 VOEST            1-0 Sturm 
 
-Round 21 [Nov 22]
+Round: 21 [Nov 22]
 Admira/Wacker    4-1 LASK 
 Klagenfurt       1-1 Austria 
 Rapid            4-2 Eisenstadt 
@@ -232,7 +232,7 @@ Sturm            2-2 Sportclub
 Vienna           1-0 GAK 
 VOEST            2-2 Tirol 
 
-Round 22 [Nov 29]
+Round: 22 [Nov 29]
 Austria          2-0 Sturm 
 Tirol            4-1 Admira/Wacker 
 GAK              0-4 Rapid 
@@ -273,7 +273,7 @@ Table:
  7.SK Sturm Graz             36  11  8 17  45-67   30
  8.VOEST Linz                36  11  7 18  46-73   29
 
-Round 23
+Round: 23
 [Mar 14]
 Tirol            1-0 Admira/Wacker 
 Sturm            1-3 Rapid 
@@ -281,7 +281,7 @@ VOEST            2-2 Sportclub
 [Mar 15]
 Austria          1-1 LASK 
 
-Round 24
+Round: 24
 [Mar 21]
 LASK             3-1 Sturm 
 Rapid            4-0 VOEST 
@@ -289,13 +289,13 @@ Sportclub        4-2 Tirol
 [Mar 22]
 Admira/Wacker    1-1 Austria 
 
-Round 25 [Apr 4]
+Round: 25 [Apr 4]
 Austria          2-1 Sportclub 
 Tirol            0-2 Rapid 
 LASK             2-1 Admira/Wacker 
 Sturm            3-1 VOEST 
 
-Round 26
+Round: 26
 [Apr 11]
 Rapid            1-3 Austria 
 Sturm            1-0 Admira/Wacker 
@@ -303,7 +303,7 @@ VOEST            0-1 Tirol
 [Apr 12]
 Sportclub        2-3 LASK 
 
-Round 27
+Round: 27
 [Apr 24]
 Admira/Wacker    4-1 Sportclub 
 LASK             2-0 Rapid 
@@ -311,13 +311,13 @@ LASK             2-0 Rapid
 Austria          5-1 VOEST 
 Tirol            7-1 Sturm 
 
-Round 28 [May 2]
+Round: 28 [May 2]
 Tirol            1-0 Austria 
 Rapid            2-1 Admira/Wacker 
 Sturm            1-0 Sportclub 
 VOEST            0-3 LASK 
 
-Round 29
+Round: 29
 [May 8]
 Admira/Wacker    2-2 VOEST 
 LASK             1-0 Tirol 
@@ -325,7 +325,7 @@ Sportclub        1-1 Rapid
 [May 9]
 Austria          1-1 Sturm 
 
-Round 30
+Round: 30
 [May 15]
 Admira/Wacker    5-2 Tirol 
 LASK             0-0 Austria 
@@ -333,7 +333,7 @@ Rapid            1-1 Sturm
 [May 16]
 Sportclub        2-0 VOEST 
 
-Round 31
+Round: 31
 [May 22]
 VOEST            1-4 Rapid 
 [May 23]
@@ -341,7 +341,7 @@ Austria          3-1 Admira/Wacker
 Tirol            2-2 Sportclub 
 Sturm            3-4 LASK 
 
-Round 32
+Round: 32
 [May 29]
 Rapid            3-0 Tirol 
 VOEST            1-0 Sturm 
@@ -350,7 +350,7 @@ Admira/Wacker    2-1 LASK
 [May 31]
 Sportclub        0-2 Austria 
 
-Round 33
+Round: 33
 [Jun 5]
 Admira/Wacker    2-1 Sturm 
 LASK             1-0 Sportclub 
@@ -358,7 +358,7 @@ LASK             1-0 Sportclub
 Austria          0-2 Rapid 
 Tirol            5-0 VOEST 
 
-Round 34
+Round: 34
 [Jun 12]
 Rapid            3-1 LASK 
 VOEST            0-4 Austria 
@@ -367,7 +367,7 @@ Sturm            0-2 Tirol
 [Jun 14]
 Sportclub        2-1 Admira/Wacker
 
-Round 35
+Round: 35
 [Jun 19]
 LASK             0-2 VOEST 
 [Jun 20]
@@ -375,7 +375,7 @@ Admira/Wacker    0-1 Rapid
 Austria          5-0 Tirol 
 Sportclub        8-1 Sturm 
 
-Round 36 [Jun 26]
+Round: 36 [Jun 26]
 Tirol            5-3 LASK 
 Rapid            2-1 Sportclub 
 Sturm            2-2 Austria 

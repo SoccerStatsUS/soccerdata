@@ -3,10 +3,10 @@ Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
 
 BlockSource: http://www.rsssf.com/tablese/elsal99.html
 
-Season: 1998 Apertura
+Season: 1998-1999 Apertura
 
 
-Season: 1999 Clausura
+Season: 1998-1999 Clausura
 
  1; CD FAS                ; 18;  9;  6;  3; 28; 16; 33
  2; Arabe Marte           ; 18;  8;  7;  3; 30; 23; 31
@@ -22,7 +22,7 @@ Season: 1999 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal00.html
 
-Season: 1999 Apertura
+Season: 1999-2000 Apertura
 
  1; Municipal Limeño      ; 18; 10;  5;  3; 23; 12; 35
  2; CD Aguila             ; 18;  9;  6;  3; 32; 12; 33
@@ -36,7 +36,7 @@ Season: 1999 Apertura
 10; Juventud Olimpica     ; 18;  2;  3; 13;  8; 47;  9
 
 
-Season: 2000 Clausura
+Season: 1999-2000 Clausura
 
  1; Municipal Limeno      ; 18; 10;  5;  3; 23; 12; 35
  2; CD Aguila             ; 18;  9;  6;  3; 32; 12; 33
@@ -50,11 +50,9 @@ Season: 2000 Clausura
 10; Juventud Olimpica     ; 18;  2;  3; 13;  8; 47;  9
 
 
-
-
 BlockSource: http://www.rsssf.com/tablese/elsal01.html
 
-Season: 2000 Apertura
+Season: 2000-2001 Apertura
 
  1; Municipal Limeno      ; 18; 12;  4;  2; 43; 13; 40
  2; Luis Angel Firpo      ; 18; 10;  6;  2; 42; 19; 36
@@ -68,8 +66,7 @@ Season: 2000 Apertura
 10; Santa Clara           ; 18;  1;  4; 13; 13; 53;  7
 
 
-
-Season: 2001 Clausura
+Season: 2000-2001 Clausura
 
  1; CD FAS                ; 18;  9;  5;  4; 31; 14; 32
  2; CD Aguila             ; 18;  9;  5;  4; 28; 23; 32
@@ -83,10 +80,9 @@ Season: 2001 Clausura
 10; San Luis              ; 18;  4;  5;  9; 13; 26; 17
 
 
-
 BlockSource: http://www.rsssf.com/tablese/elsal02.html
 
-Season: 2001 Apertura
+Season: 2001-2002 Apertura
 
  1; Alianza FC            ; 18; 12;  4;  2; 42; 23; 40
  2; Luis Angel Firpo      ; 18;  9;  6;  3; 36; 21; 33
@@ -100,7 +96,7 @@ Season: 2001 Apertura
 10; Atletico Marte        ; 18;  1;  6; 11; 16; 41;  9  
 
 
-Season: 2002 Clausura
+Season: 2001-2002 Clausura
 
  1; CD Aguila             ; 18; 11;  5;  2; 47; 20; 38
  2; Alianza FC            ; 18;  9;  3;  6; 38; 24; 30
@@ -116,7 +112,7 @@ Season: 2002 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal03.html
 
-Season: 2002 Apertura
+Season: 2002-2003 Apertura
 
  1; CD FAS                ; 18; 10;  5;  3; 24; 20; 35
  2; Municipal Limeno      ; 18;  9;  4;  5; 33; 19; 31
@@ -130,7 +126,7 @@ Season: 2002 Apertura
 10; CD Dragón             ; 18;  3;  7;  8; 20; 31; 16
 
 
-Season: 2003 Clausura
+Season: 2002-2003 Clausura
 
  1; CD FAS                ; 18; 13;  5;  0; 35; 12; 44
  2; San Salvador FC       ; 18;  7;  7;  4; 29; 26; 28
@@ -146,7 +142,7 @@ Season: 2003 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal04.html
 
-Season: 2003 Apertura
+Season: 2003-2004 Apertura
 
  1; CD FAS                 ; 18; 10;  6;  2; 27; 13; 36
  2; CD Aguila              ; 18;  9;  4;  5; 38; 26; 31
@@ -160,7 +156,7 @@ Season: 2003 Apertura
 10; Atlético Balboa        ; 18;  4;  3; 11; 15; 31; 15
 
 
-Season: 2004 Clausura
+Season: 2003-2004 Clausura
 
  1; CD FAS                 ; 18;  9;  8;  1; 34; 16; 35
  2; Luis Angel Firpo       ; 18;  9;  4;  5; 27; 19; 31
@@ -177,7 +173,7 @@ Season: 2004 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal05.html
 
-Season: 2004 Apertura
+Season: 2004-2005 Apertura
 
  1; CD FAS                 ; 18;  9;  5;  4; 26; 19; 32
  2; San Salvador FC        ; 18;  9;  5;  4; 30; 33; 32
@@ -191,7 +187,7 @@ Season: 2004 Apertura
 10; Municipal Limeno       ; 18;  0;  6; 12; 12; 31;  6
 
 
-Season: 2005 Clausura
+Season: 2004-2005 Clausura
 
  1; CD FAS                 ; 18; 10;  5;  3; 30; 19; 35
  2; Municipal Limeno       ; 18;  8;  6;  4; 25; 19; 30
@@ -208,7 +204,7 @@ Season: 2005 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal06.html
 
-Season: 2005 Apertura
+Season: 2005-2006 Apertura
 
  1; CD Isidro-Metapan      ; 18; 10;  6;  2; 25; 13; 36
  2; Vista Hermosa          ; 18; 10;  1;  7; 28; 26; 31
@@ -222,7 +218,7 @@ Season: 2005 Apertura
 10; Atlético Balboa        ; 18;  3;  5; 10; 26; 36; 14
 
 
-Season: 2006 Clausura
+Season: 2005-2006 Clausura
 
  1; CD Aguila              ; 18;  9;  5;  4; 24; 19; 32
  2; CD FAS                 ; 18;  6;  8;  4; 26; 17; 26
@@ -239,7 +235,7 @@ Season: 2006 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal07.html
 
-Season: 2006 Apertura
+Season: 2006-2007 Apertura
 
  1; CD FAS                 ; 18;  8;  7;  3; 32; 24; 31
  2; Once Municipal         ; 18;  7;  8;  3; 17; 12; 28
@@ -253,7 +249,7 @@ Season: 2006 Apertura
 10; Indep. Nacional 1906   ; 18;  4;  3; 11; 13; 32; 15
 
 
-Season: 2007 Clausura
+Season: 2006-2007 Clausura
 
  1; Luis Angel Firpo       ; 18;  9;  6;  3; 27; 19; 33
  2; CD Isidro-Metapan      ; 18;  8;  5;  5; 34; 27; 29
@@ -269,7 +265,7 @@ Season: 2007 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal08.html
 
-Season: 2007 Apertura
+Season: 2007-2008 Apertura
 
  1; CD Chalatenango        ; 18; 10;  4;  4; 29; 16; 34
  2; CD FAS                 ; 18;  9;  3;  6; 27; 21; 30
@@ -283,7 +279,7 @@ Season: 2007 Apertura
 10; Once Municipal         ; 18;  4;  2; 12;  8; 22; 14
 
 
-Season: 2008 Clausura
+Season: 2007-2008 Clausura
 
  1; Luis Angel Firpo       ; 18;  8;  8;  2; 29; 15; 32
  2; CD Isidro Metapán      ; 18;  8;  8;  2; 39; 27; 32
@@ -300,7 +296,7 @@ Season: 2008 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal09.html
 
-Season: 2008 Apertura
+Season: 2008-2009 Apertura
 
  1; CD Aguila              ; 18; 10;  4;  4; 39; 19; 34
  2; CD Isidro Metapán      ; 18;  8;  7;  3; 33; 21; 31
@@ -314,7 +310,7 @@ Season: 2008 Apertura
 10; Nejapa FC              ; 18;  2;  5; 11; 16; 34; 11
 
 
-Season: 2009 Clausura
+Season: 2008-2009 Clausura
 
  1; CD Isidro Metapán      ; 18; 10;  5;  3; 27; 14; 35
  2; Luis Angel Firpo       ; 18;  8;  5;  5; 25; 15; 29
@@ -330,7 +326,7 @@ Season: 2009 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal2010.html#1aper
 
-Season: 2009 Apertura
+Season: 2009-2010 Apertura
 
  1; CD FAS                 ; 18; 12;  2;  4; 31;  9; 38
  2; CD Aguila              ; 18;  9;  7;  2; 22;  9; 34
@@ -346,7 +342,7 @@ Season: 2009 Apertura
 * [*] Municipal Limeno bought the place of CD Chalatenango
 
 
-Season: 2010 Clausura
+Season: 2009-2010 Clausura
 
  1; Luis Angel Firpo       ; 18; 10;  5;  3; 28; 17; 35
  2; CD Aguila              ; 18;  7; 10;  1; 24;  9; 31
@@ -363,8 +359,7 @@ Season: 2010 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal2011.html#1aper
 
-Season: 2010 Apertura
-
+Season: 2010-2011 Apertura
 
  1; CD Isidro Metapán      ; 18;  10;  4;  4;  34; 27;  34
  2; Alianza FC             ; 18;   9;  6;  3;  26; 13;  33
@@ -378,7 +373,7 @@ Season: 2010 Apertura
 10; Once Municipal         ; 18;   3;  5; 10;  16; 27;  14
 
 
-Season: 2011 Clausura
+Season: 2010-2011 Clausura
 
  1; Alianza FC             ; 18;   8;  5;  5;  32; 21;  29
  2; CD FAS                 ; 18;   7;  8;  3;  29; 24;  29
@@ -392,10 +387,9 @@ Season: 2011 Clausura
 10; Atletico Balboa        ; 18;   3;  5; 10;  11; 28;  14
 
 
-
 BlockSource: http://www.rsssf.com/tablese/elsal2012.html#1aper
 
-Season: 2011 Apertura
+Season: 2011-2012 Apertura
 
  1; CD Isidro Metapán      ; 18;  11;  3;  4;  32; 21;  36
  2; CD FAS                 ; 18;   9;  5;  4;  24; 17;  32
@@ -409,8 +403,7 @@ Season: 2011 Apertura
 10; Vista Hermosa          ; 18;   1;  7; 10;  11; 25;  10
 
 
-
-Season: 2012 Clausura
+Season: 2011-2012 Clausura
 
  1; CD Isidro Metapán      ; 18;  10;  8;  0;  34; 15;  38
  2; CD Aguila              ; 18;   9;  2;  7;  28; 18;  29
@@ -426,8 +419,7 @@ Season: 2012 Clausura
 
 BlockSource: http://www.rsssf.com/tablese/elsal2013.html#1aper
 
-Season: 2012 Apertura
-
+Season: 2012-2013 Apertura
 
  1; CD Isidro Metapán      ; 18;  11;  3;  4;  37; 25;  36
  2; Alianza FC             ; 18;  10;  4;  4;  36; 19;  34
@@ -441,8 +433,7 @@ Season: 2012 Apertura
 10; Once Municipal         ; 18;   1;  2; 15;  16; 50;   5
 
 
-
-Season: 2012 Clausura
+Season: 2012-2013 Clausura
 
  1; Alianza FC             ; 13;   8;  3;  2;  31; 12;  27
  2; CD FAS                 ; 13;   8;  2;  3;  20; 11;  26

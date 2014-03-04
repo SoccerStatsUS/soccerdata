@@ -17,8 +17,9 @@ def load():
             continue
         try:
             m.extend(utils.import_path(s).l)
-        except: import pdb; pdb.set_trace()
-        x = 5
+        except: 
+            import pdb; pdb.set_trace()
+            x = 5
 
     return [process_item(e) for e in m]
 

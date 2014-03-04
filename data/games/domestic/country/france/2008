@@ -1,6 +1,7 @@
 BlockSource: http://rsssf.com/tablesf/fran09.html
 Season: 2008-2009
 Competition: Ligue 1
+home-first
 
 * 1.FC Girondins Bordeaux     38 24  8  6  64-34  80  Champions
 * 2.Olympique de Marseille    38 22 11  5  67-35  77  Champions League
@@ -34,43 +35,38 @@ Date: 8/9/2008
   Yoann Gourcuff 54, Fernando Cavenaghi 80; Benjamin Nivet 14
 
 ; Le Havre     ; 1-0; Nice
-  Jean-Michel Lesage 72
+  Jean-Michel Lesage 72;
 
 ; Le Mans      ; 0-1; Lorient
-  Christophe Jallet 58
+;  Christophe Jallet 58
  
 ; Monaco       ; 1-0; Paris-SG
-  Frédéric Nimani N’Galou 78
+  Frédéric Nimani N’Galou 78;
 
 ; Nancy        ; 0-0; Lille
 
 ; Rennes       ; 4-4; Marseille
-  Olivier Thomert 6, 50, Steve Mandanda 89og, Benoît Cheyrou 90+3;
-   Bakari Koné 11, Hatem Ben Arfa 13, Mamadou Niang 27, Elliot Grandin 90+2
+  Olivier Thomert 6, Olivier Thomert 50, Steve Mandanda (og) 89, Benoît Cheyrou 90+3; Bakari Koné 11, Hatem Ben Arfa 13, Mamadou Niang 27, Elliot Grandin 90+2
 
 ; Sochaux      ; 1-2; Grenoble
   Mevlut Erding 77; Nassim Akrour 87, Daniel Moreira 88
 
 ; Valenciennes ; 1-0; Saint-Etienne
-  Gaël Danic (pk) 27
-
+  Gaël Danic (pk) 27;
 
 Date: 8/10/2008
 
 ; Lyon         ; 3-0; Toulouse
-  Jean II Makoun 12, Karim Benzema 58, 66
-
+  Jean II Makoun 12, Karim Benzema 58, Karim Benzema 66;
 
 Round: 2 
-
 Date: 8/16/2008
 
 ; Caen         ; 3-1; Valenciennes
-  Nicolas Florentin 3, Steve Savidan 22, Juan Eduardo Eluchans 27; 
-   Filip Sebo 42
+  Nicolas Florentin 3, Steve Savidan 22, Juan Eduardo Eluchans 27; Filip Sebo 42
 
 ; Lille        ; 1-3; Le Mans
-  Fernandes Michel Bastos 65; Thorstein Helstad 20, Modibo Maiga 32, 83
+  Fernandes Michel Bastos 65; Thorstein Helstad 20, Modibo Maiga 32, Modibo Maiga 83
 
 ; Nantes       ; 1-1; Monaco
   Claudiu Keserü 66; Camel Meriem 4
@@ -78,42 +74,39 @@ Date: 8/16/2008
 ; Nice         ; 2-1; Nancy
   Loïc Rémy 33, Mahamadou Traoré 89; Benjamin Gavanon (pk) 45+1
 
-;; Paris-SG;      1-0 Bordeaux
-  Guillaume Hoarau 53
+; Paris-SG;      1-0; Bordeaux
+  Guillaume Hoarau 53;
 
-;; Saint-Etienne; 2-1 Sochaux
+; Saint-Etienne; 2-1; Sochaux
   Blaise Matuidi 12, Pascal Feindouno (pk) 17; Damien Perquis 75
 
 ; Toulouse     ; 2-1; Le Havre
   Daniel Congré 61, André-Pierre Gignac 88; Amadou Alassane 10
 
-
 Date: 8/17/2008
 
 ; Grenoble     ; 1-0; Rennes
-  Nassim Akrour 20
+  Nassim Akrour 20;
 
 ; Lorient      ; 0-0; Lyon
 
 ; Marseille    ; 4-0; Auxerre
-  Mamadou Niang 17, Stéphane Grichting 63og, Elliot Grandin 76, 
-   Boudewijn Zenden 86
-
+  Mamadou Niang 17, Stéphane Grichting (og) 63, Elliot Grandin 76, Boudewijn Zenden 86;
 
 Round: 3 
 Date: 8/23/2008
 
 ; Le Havre     ; 0-1; Marseille
-  Boudewijn Zenden 55
+;  Boudewijn Zenden 55
 
 ; Le Mans      ; 1-0; Saint-Etienne
-  Thorstein Helstad 37
+  Thorstein Helstad 37;
 
 ; Lyon         ; 2-0; Grenoble
-  Jean II Makoun 4, Karim Benzema 35
+  Jean II Makoun 4, Karim Benzema 35;
 
 ; Monaco       ; 1-1; Caen
-  Frédéric Nimani 51; Jerko Leko 73og
+  Frédéric Nimani 51; Jerko Leko (og) 73
 
 ; Nancy        ; 0-0; Toulouse
 
@@ -123,31 +116,28 @@ Date: 8/23/2008
 ; Valenciennes ; 3-1; Lorient
   Grégory Pujol 2, Johan Audel 31, Luigi Pieroni 89; Kévin Gameiro 50
 
-
 Date: 8/24/2008
 
 ; Auxerre      ; 0-1; Nice
-  Alaeddine Yahia 30
+;  Alaeddine Yahia 30
 
 ; Bordeaux     ; 2-0; Nantes
-  Fernando Cavenaghi (pk) 5, Menegazzo Fernando 86
+  Fernando Cavenaghi (pk) 5, Menegazzo Fernando 86;
  
 ; Rennes       ; 2-1; Lille
   Bruno Cheyrou 90+1, Moussa Sow 90+4; Yohan Cabaye 34
 
-
 Round: 4 
-
 Date: 8/30/2008
 
 ; Caen         ; 0-1; Paris-SG
-  Guillaume Hoarau 5
+;  Guillaume Hoarau 5
 
 ; Grenoble     ; 1-0; Monaco
-  Daniel Moreira 19
+  Daniel Moreira 19;
 
 ; Lorient      ; 0-2; Auxerre
-  Ireneusz Jelen 34, Benoit Pedretti 73
+;  Ireneusz Jelen 34, Benoit Pedretti 73
 
 ; Marseille    ; 2-1; Sochaux
   Karim Ziani 38, Bakari Koné 60; Mevlut Erding 72
@@ -156,20 +146,18 @@ Date: 8/30/2008
   Jonathan Brison 72, André Luiz Silva Do Nascimento 88; Cédric Fauré 22
 
 ; Nantes       ; 1-4; Le Mans
-  G N’Daw 20; Thorstein Helstad 22, Mobido Maiga 47, Mathieu Coutadeur 84, 
-   Gervais Yao Kouassi Gervinho 90+2
+  G N’Daw 20; Thorstein Helstad 22, Mobido Maiga 47, Mathieu Coutadeur 84, Gervais Yao Kouassi Gervinho 90+2
 
 ; Nice         ; 2-0; Valenciennes
-  Habib Bamogo 52, Loïc Rémy 86
-
+  Habib Bamogo 52, Loïc Rémy 86;
 
 Date: 8/31/2008
 
 ; Lille        ; 2-1; Bordeaux
   Fernandes Michel Bastos 31, Ludovic Obraniak 74; Fernando Cavenaghi 28
 
-;; Saint-Etienne; 0-1 Lyon
-  Karim Benzema 56
+; Saint-Etienne; 0-1; Lyon
+;  Karim Benzema 56
 
 ; Toulouse     ; 0-0; Rennes
 
@@ -183,14 +171,13 @@ Date: 9/13/2008
   Marouane Chamakh 25; Bakari Koné 2
 
 ; Le Mans      ; 1-2; Toulouse
-  Anthony Le Tallec 36; Fodé Mansaré 11, Saber Ben Frej 19og
+  Anthony Le Tallec 36; Fodé Mansaré 11, Saber Ben Frej (og) 19
 
 ; Lyon         ; 3-2; Nice
-  Juninho Pernambucano 39, 73, Karim Benzema (pk) 90+5; Habib Bamogo 3, 
-   Loïc Rémy 20
+  Juninho Pernambucano 39, Juninho Pernambucano 73, Karim Benzema (pk) 90+5; Habib Bamogo 3, Loïc Rémy 20
 
 ; Monaco       ; 2-0; Lorient
-  Park Chu-Young 25, Frédéric Nimani N’Galou 71
+  Park Chu-Young 25, Frédéric Nimani N’Galou 71;
 
 ; Rennes       ; 1-1; Le Havre
   Jimmy Briand 27; Jean-Michel Lesage 32
@@ -198,44 +185,40 @@ Date: 9/13/2008
 ; Valenciennes ; 1-1; Grenoble
   Grégory Pujol (pk) 85; Laurent Courtois 90
 
-
 Date: 9/14/2008
 
 ; Caen         ; 2-0; Saint-Etienne
-  Fahid Ben Khalfallah 28, Benjamin Nivet 90
+  Fahid Ben Khalfallah 28, Benjamin Nivet 90;
 
-;; Paris-SG;      1-0 Nantes
-  Mateja Kezman (pk) 7
+; Paris-SG;      1-0; Nantes
+  Mateja Kezman (pk) 7;
 
 ; Sochaux      ; 1-1; Lille
   Sloan Privat 46; Fernandes Michel Bastos 63
 
-
 Round: 6 
-
 Date: 9/20/2008
 
 ; Grenoble     ; 0-1; Bordeaux
-  Jussié Ferreira Viera 80
+;  Jussié Ferreira Viera 80
 
 ; Le Havre     ; 0-1; Lyon
-  Honorato Campos Ederson (pk) 45
+;  Honorato Campos Ederson (pk) 45
 
 ; Lille        ; 3-2; Auxerre
-  Tulio Vinicius De Melo 3, 88, Eden Hazard 88; Julien Quercia 49, 80
+  Tulio Vinicius De Melo 3, Tulio Vinicius De Melo 88, Eden Hazard 88; Julien Quercia 49, Julien Quercia 80
 
 ; Lorient      ; 1-1; Caen
   Rafik Saïfi 35; Anthony Deroin 85
 
 ; Nantes       ; 2-0; Valenciennes
-  Mamadou Bagayoko (pk) 38, 54
+  Mamadou Bagayoko (pk) 38, Mamadou Bagayoko 54;
 
 ; Nice         ; 2-2; Le Mans
-  Emerse Faé 2, Loïc Rémy 28; David Hellebuyck 49og, Roland Lamah 86
+  Emerse Faé 2, Loïc Rémy 28; David Hellebuyck (og) 49, Roland Lamah 86
 
 ; Toulouse     ; 2-1; Sochaux
-  André-Pierre Gignac 5, (pk) 63; Mauro Cetto 67og
-
+  André-Pierre Gignac 5, André-Pierre Gignac (pk) 63; Mauro Cetto (og) 67
 
 Date: 9/21/2008
 
@@ -243,35 +226,32 @@ Date: 9/21/2008
 
 ; Nancy        ; 0-0; Rennes
 
-;; Saint-Etienne; 1-0 Paris-SG
-  Mouhamadou Dabo 13
-
+; Saint-Etienne; 1-0; Paris-SG
+  Mouhamadou Dabo 13;
 
 Round: 7 
 Date: 9/27/2008
 
 ; Auxerre      ; 3-0; Le Havre
-  Adama Coulibaly 25, Ireneusz Jelen 47, Thomas Kahlenberg 83
+  Adama Coulibaly 25, Ireneusz Jelen 47, Thomas Kahlenberg 83;
 
 ; Caen         ; 3-0; Nantes
-  Steve Savidan 1, Fahid Benkhalfallah 10, Benjamin Nivet 30
+  Steve Savidan 1, Fahid Benkhalfallah 10, Benjamin Nivet 30;
 
 ; Le Mans      ; 1-1; Marseille
   Thorstein Helstad 10; Hatem Ben Arfa 9
 
 ; Lyon         ; 2-1; Nancy
-  Karim Benzema 30, Frederico Fred Chaves Guedes 35; 
-   Pascal Berenguer 36
+  Karim Benzema 30, Frederico Fred Chaves Guedes 35; Pascal Berenguer 36
 
-;; Paris-SG;      0-1 Grenoble
-  Nassim Akrour 77
+; Paris-SG;      0-1; Grenoble
+;  Nassim Akrour 77
 
 ; Rennes       ; 1-0; Nice
-  Jimmy Briand 50
+  Jimmy Briand 50;
 
 ; Sochaux      ; 1-1; Lorient
   Mevlut Erding 87; André Ayew 37
-
 
 Date: 9/28/2008
 
@@ -279,27 +259,25 @@ Date: 9/28/2008
   Fernando Cavenaghi 57; Dimitri Payet 27
 
 ; Monaco       ; 0-2; Lille
-  Yohan Cabaye 67, Ludovic Obraniak 86
+;  Yohan Cabaye 67, Ludovic Obraniak 86
 
 ; Valenciennes ; 0-1; Toulouse
-  André-Pierre Gignac 90+3
-
+;  André-Pierre Gignac 90+3
 
 Round: 8 
-
 Date: 10/4/2008
 
 ; Grenoble     ; 0-1; Nantes
-  Christian Bekamenga 77
+;  Christian Bekamenga 77
 
 ; Le Havre     ; 1-2; Le Mans
   Amadou Alassane 14; Mobido Maiga 88, Gervais Yao Kouassi Gervinho 90+1
 
 ; Lille        ; 1-0; Valenciennes
-  Jacques Abardonado 69og
+  Jacques Abardonado (og) 69;
 
 ; Lorient      ; 1-2; Bordeaux
-  Michaël Ciani 59; Fernando Menegazzo 67, 69
+  Michaël Ciani 59; Fernando Menegazzo 67, Fernando Menegazzo 69
 
 ; Marseille    ; 2-1; Caen
   Hatem Ben Arfa 2, Mamadou Niang 60; Steve Savidan 20
@@ -308,8 +286,7 @@ Date: 10/4/2008
   Olivier Echouafni 49; Valter Birsa 72
 
 ; Toulouse     ; 1-0; Auxerre
-  André-Pierre Gignac 54
-
+  André-Pierre Gignac 54;
 
 Date: 10/5/2008
 
@@ -317,95 +294,83 @@ Date: 10/5/2008
   Damian Macaluso 34; Guillaume Hoarau 3
 
 ; Rennes       ; 3-0; Lyon
-  Mickaël Pagis 16, 56, 66
+  Mickaël Pagis 16, Mickaël Pagis 56, Mickaël Pagis 66;
 
-;; Saint-Etienne; 2-0 Monaco
-  Bafétimbi Gomis 11, Geoffrey Dernis 83
-
+; Saint-Etienne; 2-0; Monaco
+  Bafétimbi Gomis 11, Geoffrey Dernis 83;
 
 Round: 9 
-
 Date: 10/18/2008
 
 ; Bordeaux     ; 2-1; Toulouse
   Yoann Gourcuff 29, David Bellion 40; Etienne Capoue 90
 
 ; Caen         ; 2-2; Grenoble
-  Steve Savidan (pk) 24, Nicolas Florentin 58; Nassim Akrour 18, 
-   Daniel Moreira 74
+  Steve Savidan (pk) 24, Nicolas Florentin 58; Nassim Akrour 18, Daniel Moreira 74
 
 ; Lyon         ; 2-2; Lille
-  Aurélien Chedjou Fongang 22og, Fabio Grosso 76; Adil Rami 15, 
-   Fernandes Michel Bastos 62
+  Aurélien Chedjou Fongang (og) 22, Fabio Grosso 76; Adil Rami 15, Fernandes Michel Bastos 62
  
 ; Monaco       ; 1-2; Nice
   Leandro Cufré (pk) 39; Habib Bamogo 9, Emerson Fae 56
 
 ; Nantes       ; 1-0; Saint-Etienne
-  Christian Bekamenga 27
+  Christian Bekamenga 27;
 
-;; Paris-SG;      3-2 Lorient
-  Fabrice Pancrate 22, Guillaume Hoarau 49, Loris Arnaud 87; 
-   Rafik Saïfi 12, Fabrice Abriel 38
+; Paris-SG;      3-2; Lorient
+  Fabrice Pancrate 22, Guillaume Hoarau 49, Loris Arnaud 87; Rafik Saïfi 12, Fabrice Abriel 38
 
 ; Sochaux      ; 1-1; Le Havre
   Valter Birsa 71; Amadou Alassane 44
-
 
 Date: 10/19/2008
 
 ; Auxerre      ; 0-0; Rennes
 
 ; Le Mans      ; 2-0; Nancy
-  Pascal Berenguer 29og, Roland Lamah 65
+  Pascal Berenguer (og) 29, Roland Lamah 65;
 
 ; Valenciennes ; 1-3; Marseille
   Grégory Pujol 81; Bakari Koné 12, Hatem Ben Arfa 71, Charles Kabore 90+4
 
-
 Round: 10 
-
 Date: 10/25/2008
 
 ; Auxerre      ; 0-0; Lyon
 
 ; Le Havre     ; 2-1; Valenciennes
-  Jean-Michel Lesage 25, 49; Luigi Pieroni 2
+  Jean-Michel Lesage 25, Jean-Michel Lesage 49; Luigi Pieroni 2
 
 ; Lille        ; 2-2; Caen
-  Ludovic Obraniak 10, 39; Nicolas Seube 46, Steve Savidan 63
+  Ludovic Obraniak 10, Ludovic Obraniak 39; Nicolas Seube 46, Steve Savidan 63
 
 ; Lorient      ; 3-0; Nantes
-  Fabrice Abriel 31, Jérémy Morel 54, Kévin Gameiro 76
+  Fabrice Abriel 31, Jérémy Morel 54, Kévin Gameiro 76;
 
 ; Nice         ; 2-2; Bordeaux
-  Eric Mouloungui 84, Loïc Rémy (pk) 90+6; Geraldo Mauricio Da Silva Wendel 10,
-   Fernando Cavenaghi (pk) 58
+  Eric Mouloungui 84, Loïc Rémy (pk) 90+6; Geraldo Mauricio Da Silva Wendel 10, Fernando Cavenaghi (pk) 58
 
 ; Rennes       ; 2-2; Le Mans
-  Jimmy Briand 15, Mickaël Pagis 79; Gervais Yao Kouassi Gervinho 11, 
-   Mathieu Coutadeur (pk) 34
+  Jimmy Briand 15, Mickaël Pagis 79; Gervais Yao Kouassi Gervinho 11, Mathieu Coutadeur (pk) 34
 
 ; Toulouse     ; 0-0; Monaco
 
 Date: 10/26/2008
 
 ; Marseille    ; 2-4; Paris-SG
-  Mamadou Niang 21, Mathieu Valbuena 45; Guillaume Hoarau 10, 82, 
-   Peguy Luyindula 53, Jérôme Rothen 76
+  Mamadou Niang 21, Mathieu Valbuena 45; Guillaume Hoarau 10, Guillaume Hoarau 82, Peguy Luyindula 53, Jérôme Rothen 76
 
 ; Nancy        ; 1-1; Sochaux
   Marc-Antoine Fortuné 74; Stéphane Dalmat 19
 
-;; Saint-Etienne; 0-2 Grenoble
-  Daniel Moreira 3, Franck Dja Djedje 82
+; Saint-Etienne; 0-2; Grenoble
+;  Daniel Moreira 3, Franck Dja Djedje 82
 
 Round: 11 
 Date: 10/28/2008
 
 ; Bordeaux     ; 4-0; Le Havre
-  David Bellion 30, 48, Fernando Cavenaghi 71, 
-   Geraldo Mauricio Da Silva Wendel 80
+  David Bellion 30, David Bellion 48, Fernando Cavenaghi 71, Geraldo Mauricio Da Silva Wendel 80;
 
 Date: 10/29/2008
 
@@ -415,24 +380,22 @@ Date: 10/29/2008
 ; Grenoble     ; 0-0; Lille
 
 ; Le Mans      ; 0-2; Auxerre
-  Dennis Oliech 35, 39
+;  Dennis Oliech 35, Dennis Oliech 39
 
 ; Monaco       ; 3-1; Nancy
-  Frédéric Nimani N’Galou 32, Nikola Pokrivac 62, Alexandre Licata 82;
-   Youssouf Hadji 75
+  Frédéric Nimani N’Galou 32, Nikola Pokrivac 62, Alexandre Licata 82; Youssouf Hadji 75
 
 ; Nantes       ; 1-1; Marseille
   Rémi Maréval 45; Bakari Koné 77
 
-;; Paris-SG;      0-1 Toulouse
-  Zoumana Camara 65og
+; Paris-SG;      0-1; Toulouse
+;  Zoumana Camara (og) 65
 
-;; Saint-Etienne; 1-4 Lorient
-  Bafétimbi Gomis 33; Jérémy Morel 20, Bertrand Robert 56, 69, 
-   André Ayew 89
+; Saint-Etienne; 1-4; Lorient
+  Bafétimbi Gomis 33; Jérémy Morel 20, Bertrand Robert 56, Bertrand Robert 69, André Ayew 89
 
 ; Sochaux      ; 0-2; Lyon
-  Karim Benzema 65, Cesar Delgado 90+2
+;  Karim Benzema 65, Cesar Delgado 90+2
 
 ; Valenciennes ; 0-0; Rennes
 
@@ -442,54 +405,51 @@ Date: 11/1/2008
 ; Auxerre      ; 0-0; Valenciennes
 
 ; Lille        ; 2-0; Nantes
-  Adil Rami 40, Nicolas Fauverhue 47
+  Adil Rami 40, Nicolas Fauverhue 47;
 
 ; Lorient      ; 1-1; Grenoble
   Fabrice Abriel (pk) 59; Laurent Courtois 54
 
 ; Marseille    ; 3-1; Saint-Etienne
-  Benoit Cheyrou 22, Hatem Ben Arfa (pk) 38, Taye Ismaila Taiwo 71; 
-   Bafétimbi Gomis 23
+  Benoit Cheyrou 22, Hatem Ben Arfa (pk) 38, Taye Ismaila Taiwo 71; Bafétimbi Gomis 23
 
 ; Nancy        ; 1-0; Bordeaux
-  Youssouf Hadji 69
+  Youssouf Hadji 69;
 
 ; Nice         ; 1-0; Paris-SG
-  Eric Mouloungui 40
+  Eric Mouloungui 40;
 
 ; Toulouse     ; 0-1; Caen
-  Benjamin Nivet 79
-
+;  Benjamin Nivet 79
 
 Date: 11/2/2008
 
 ; Le Havre     ; 2-3; Monaco
-  Loïc Nestor 49, Amadou Alassane 60; Leandro Cufré 21, 
-   Alexandre Licata 40, Chu-Youg Park 51
+  Loïc Nestor 49, Amadou Alassane 60; Leandro Cufré 21, Alexandre Licata 40, Chu-Youg Park 51
 
 ; Lyon         ; 2-0; Le Mans
-  Karim Benzema 22, Juninho Pernambucano 55
+  Karim Benzema 22, Juninho Pernambucano 55;
 
 ; Rennes       ; 1-0; Sochaux
-  Jimmy Briand (pk) 2
+  Jimmy Briand (pk) 2;
 
 Round: 13 
 Date: 11/8/2008
 
 ; Bordeaux     ; 2-0; Auxerre
-  Fernando Cavenaghi 69, Marouane Chamakh 74
+  Fernando Cavenaghi 69, Marouane Chamakh 74;
 
 ; Caen         ; 0-1; Le Havre
-  Nicolas Dieuze 82
+;  Nicolas Dieuze 82
 
 ; Grenoble     ; 0-3; Marseille
-  Hatem Ben Arfa 4, Bakari Koné 31, Bruno Cheyrou 81
+;  Hatem Ben Arfa 4, Bakari Koné 31, Bruno Cheyrou 81
 
 ; Lorient      ; 0-1; Nice
-  Olivier Echouafni 23
+;  Olivier Echouafni 23
 
 ; Monaco       ; 0-1; Lyon
-  Frederico Fred Chaves Guedes 54
+;  Frederico Fred Chaves Guedes 54
 
 ; Nantes       ; 1-1; Toulouse
   Guillaume Moulec 4; André-Pierre Gignac 18
@@ -497,43 +457,40 @@ Date: 11/8/2008
 ; Sochaux      ; 2-1; Le Mans
   Alvaro Santos 30, Ryad Boudebouz 68; Cren Paulo André 44
 
-
 Date: 11/9/2008
 
-;; Paris-SG;      1-0 Lille
-  Ludovic Giuly 40
+; Paris-SG;      1-0; Lille
+  Ludovic Giuly 40;
 
-;; Saint-Etienne; 0-3 Rennes
-  Mickaël Pagis 13, 53, Rod Fanni 51
+; Saint-Etienne; 0-3; Rennes
+;  Mickaël Pagis 13, Mickael Pagis 53, Rod Fanni 51
 
 ; Valenciennes ; 0-1; Nancy
-  Benjamin Gavanon (pk) 14
+;  Benjamin Gavanon (pk) 14
 
 Round: 14 
 Date: 11/15/2008
 
 ; Auxerre      ; 1-0; Sochaux
-  Kévin Lejeune 31
+  Kévin Lejeune 31;
 
 ; Le Havre     ; 1-3; Paris-SG
-  Amadou Alassane 47; Guillaume Hoarau 18, (pk) 90, Ludovic Giuly 34
+  Amadou Alassane 47; Guillaume Hoarau 18, Guillaume Hoarau (pk) 90, Ludovic Giuly 34
 
 ; Le Mans      ; 1-0; Valenciennes
-  Mathieu Coutadeur 21
+  Mathieu Coutadeur 21;
 
 ; Lille        ; 3-0; Saint-Etienne
-  Eden Hazard 25, Ludovic Obraniak 34, Robert Vittek 69
+  Eden Hazard 25, Ludovic Obraniak 34, Robert Vittek 69;
 
 ; Marseille    ; 2-3; Lorient
-  Karim Ziani 10, Mamadou Niang (pk) 60; Morgan Amalfitano 76, 
-   Fabrice Abriel 85, Kévin Gameiro 87
+  Karim Ziani 10, Mamadou Niang (pk) 60; Morgan Amalfitano 76, Fabrice Abriel 85, Kévin Gameiro 87
 
 ; Nancy        ; 1-1; Caen
-  Florian Boucansaud 72og; Steve Savidan 51
+  Florian Boucansaud (og) 72; Steve Savidan 51
 
 ; Toulouse     ; 2-0; Grenoble
-  André-Pierre Gignac 2, 19
-
+  André-Pierre Gignac 2, André-Pierre Gignac 19;
 
 Date: 11/16/2008
 
@@ -546,27 +503,25 @@ Date: 11/16/2008
 ; Rennes       ; 2-1; Monaco
   Moussa Sow 43, Jimmy Briand 53; Leandro Cufré (pk) 72
 
-
 Round: 15 
-
 Date: 11/22/2008
 
 ; Bordeaux     ; 1-1; Rennes
   Yohann Gourcuff 59; Olivier Thomert 19
 
 ; Caen         ; 1-0; Auxerre
-  Reynald Lemaitre 57
+  Reynald Lemaitre 57;
 
 ; Grenoble     ; 0-0; Le Havre
 
 ; Lorient      ; 1-0; Toulouse
-  Kévin Gameiro 74
+  Kévin Gameiro 74;
 
-;; Paris-SG;      1-0 Lyon
-  Ludovic Giuly 25
+; Paris-SG;      1-0; Lyon
+  Ludovic Giuly 25;
 
-;; Saint-Etienne; 0-1 Nice
-  Olivier Echouafni 21
+; Saint-Etienne; 0-1; Nice
+;  Olivier Echouafni 21
 
 ; Valenciennes ; 2-2; Sochaux
   José Saez 62, Johan Audel 68; Mevlut Erding 39, Sloan Privat 86
@@ -574,29 +529,28 @@ Date: 11/22/2008
 Date: 11/23/2008
 
 ; Marseille    ; 2-2; Lille
-  Mamadou Sassama 47, Boudewijn Zenden 90; Adil Rami 11, 
-   Fernandes Michel Bastos 38
+  Mamadou Sassama 47, Boudewijn Zenden 90; Adil Rami 11, Fernandes Michel Bastos 38
  
 ; Monaco       ; 3-0; Le Mans
-  Alejandro César Alonso 48, Cren Paulo André 50og, Alexandre Licata 52
+  Alejandro César Alonso 48, Cren Paulo André (og) 50, Alexandre Licata 52;
 
 ; Nantes       ; 0-1; Nancy
-  Youssouf Hadji 74
+;  Youssouf Hadji 74
 
 Round: 16 
 Date: 11/29/2008
 
 ; Auxerre      ; 0-1; Monaco
-  Nikola Pokrivac 24
+;  Nikola Pokrivac 24
 
 ; Le Havre     ; 0-2; Nantes
-  Filip Djordjevic 67, David De Freitas 85
+;  Filip Djordjevic 67, David De Freitas 85
 
 ; Le Mans      ; 2-0; Caen
-  Mobido Maiga 51, Gervais Yao Kouassi Gervinho 62
+  Mobido Maiga 51, Gervais Yao Kouassi Gervinho 62;
 
 ; Lille        ; 1-1; Lorient
-  Fernandes Michel Bastos 14; Adil Rami 34og
+  Fernandes Michel Bastos 14; Adil Rami (og) 34
 
 ; Lyon         ; 0-0; Valenciennes
 
@@ -608,7 +562,7 @@ Date: 11/30/2008
   Issiar Dia 75; Paulo Machado 8, David Gigliotti 43)
 
 ; Rennes       ; 1-0; Paris-SG
-  Bruno Cheyrou 45
+  Bruno Cheyrou 45;
 
 ; Toulouse     ; 0-0; Marseille
 
@@ -622,7 +576,6 @@ Date: 12/5/2008
 ; Bordeaux     ; 2-1; Valenciennes
   Marouane Chamakh 35, Fernando Cavenaghi 47; Grégory Pujol 42
 
-
 Date: 12/6/2008
 
 ; Caen         ; 1-1; Rennes
@@ -632,47 +585,46 @@ Date: 12/6/2008
   Fernandes Michel Bastos 90+1; Mauro Cetto 64
 
 ; Marseille    ; 2-1; Nice
-  Olivier Echouafni 14og, Mamadou Niang (pk) 45; Habib Bamogo 48
+  Olivier Echouafni (og) 14, Mamadou Niang (pk) 45; Habib Bamogo 48
 
 ; Nantes       ; 2-1; Lyon
-  Ivan Klasnic 60, (pk) 89; Frédéric Piquionne 43
+  Ivan Klasnic 60, Ivan Klasnic (pk) 89; Frédéric Piquionne 43
 
-;; Saint-Etienne; 2-0 Le Havre
-  Dimitri Payet 75, Bafétimbi Gomis 79
+; Saint-Etienne; 2-0; Le Havre
+  Dimitri Payet 75, Bafétimbi Gomis 79;
 
 Date: 12/7/2008
 
 ; Grenoble     ; 0-0; Auxerre
 
 ; Lorient      ; 1-0; Nancy
-  Kévin Gameiro 83
+  Kévin Gameiro 83;
 
 ; Monaco       ; 1-1; Sochaux
   Alejandro César Alonso 20; Francileudo Lima Santos 9
 
-;; Paris-SG;      3-1 Le Mans
-  Guillaume Hoarau 23, 39, Peguy Luyindula 87; Grégory Cerdan 37
+; Paris-SG;      3-1; Le Mans
+  Guillaume Hoarau 23, Guillaume Hoarau 39, Peguy Luyindula 87; Grégory Cerdan 37
  
 Round: 18 
 Date: 12/13/2008
 
 ; Auxerre      ; 1-2; Paris-SG
-  Cédric Hengbart (pk) 87; Stéphane Séssegnon 5, 22
+  Cédric Hengbart (pk) 87; Stéphane Séssegnon 5, Stephane Sessegnon 22
 
 ; Le Mans      ; 1-3; Bordeaux
-  Thorstein Helstad 67; Fernando Cavenaghi 59, Mathieu Chalmé 76, 
-   Ferreira Vieira Jussie 90
+  Thorstein Helstad 67; Fernando Cavenaghi 59, Mathieu Chalmé 76, Ferreira Vieira Jussie 90
 
 ; Nancy        ; 2-0; Grenoble
-  Julien Féret 17, Issiar Dia 66
+  Julien Féret 17, Issiar Dia 66;
 
 ; Rennes       ; 0-0; Nantes
 
 ; Sochaux      ; 2-2; Caen
-  Sloan Privat 76, 88; Rémi Gomis 20, 68
+  Sloan Privat 76, Sloan Privat 88; Rémi Gomis 20, Remi Gomis 68
 
 ; Toulouse     ; 3-1; Saint-Etienne
-  André-Pierre Gignac 4, 53, Etienne Didot 45; Paulo Machado 37
+  André-Pierre Gignac 4, André-Pierre Gignac 53, Etienne Didot 45; Paulo Machado 37
 
 ; Valenciennes ; 3-1; Monaco
   Carlos Sanchez Moreno 31, Djamel Belmadi 41, Grégory Pujol 58; Juan Pablo Pino 26
@@ -680,26 +632,24 @@ Date: 12/13/2008
 Date: 12/14/2008
 
 ; Le Havre     ; 1-3; Lorient
-  Nicolas Dieuze 67; Yazid Mansouri 41, Kévin Gameiro 45, 
-   Marama Vahirua 68
+  Nicolas Dieuze 67; Yazid Mansouri 41, Kévin Gameiro 45, Marama Vahirua 68
 
 ; Lyon         ; 0-0; Marseille
 
 ; Nice         ; 0-1; Lille
-  Fernandes Michel Bastos 7
+;  Fernandes Michel Bastos 7
 
 Round: 19 
 Date: 12/20/2008
 
 ; Caen         ; 0-1; Lyon
-  Karim Benzema 43
+;  Karim Benzema 43
 
 ; Grenoble     ; 2-1; Le Mans
   Albert Baning 34, Sandy Paillot 46; Mobido Maiga 54
 
 ; Lille        ; 3-1; Le Havre
-  Ludovic Obraniak 31, Yohan Cabaye 81, Fernandes Michel Bastos 90+3; 
-   Hassane Alla 60
+  Ludovic Obraniak 31, Yohan Cabaye 81, Fernandes Michel Bastos 90+3; Hassane Alla 60
  
 ; Lorient      ; 1-2; Rennes
   Jérémy Morel 45; Gyan Asamoah 75, Moussa Sow 81
@@ -707,35 +657,31 @@ Date: 12/20/2008
 ; Nantes       ; 1-1; Sochaux
   Aurélien Capoue 86; Mevlut Erding 69
 
-;; Saint-Etienne; 2-0 Auxerre
-  Paulo Machado 12, Bafétimbi Gomis 89
+; Saint-Etienne; 2-0; Auxerre
+  Paulo Machado 12, Bafétimbi Gomis 89;
  
 ; Toulouse     ; 2-2; Nice
-  André-Pierre Gignac 33, 86; Anthony Modeste 8, Vincent Hognon 90+3
-
+  André-Pierre Gignac 33, André-Pierre Gignac 86; Anthony Modeste 8, Vincent Hognon 90+3
 
 Date: 12/21/2008
 
 ; Marseille    ; 0-3; Nancy
-  Youssouf Hadji 33, 38, Issiar Dia 56
+;  Youssouf Hadji 33, Youssouf Hadji 38, Issiar Dia 56
 
 ; Monaco       ; 3-4; Bordeaux
-  Juan Pablo Pino 14, Alexandre Licata 44, 50; Marouane Chamakh 52, 86, 
-   Alou Diarra 66, Fernando Cavenaghi 89
+  Juan Pablo Pino 14, Alexandre Licata 44, Alexandre Licata 50; Marouane Chamakh 52, Marouane Chamakh 86, Alou Diarra 66, Fernando Cavenaghi 89
 
-;; Paris-SG;      2-2 valenciennes
+; Paris-SG;      2-2; Valenciennes
   Guillaume Hoarau 26, Jérôme Rothen 71; Rudy Mater 46, Siaka Tiéné 84
  
-
 Round: 20 
-
 Date: 1/10/2009
 
 ; Auxerre      ; 0-2; Marseille
-  Mamadou Samassa 21, Mathieu Valbuena 77
+;  Mamadou Samassa 21, Mathieu Valbuena 77
 
 ; Le Havre     ; 0-1; Toulouse
-  Etienne Didot 80
+;  Etienne Didot 80
 
 ; Lyon         ; 1-1; Lorient
   Honorato Campos Ederson 9; Fabrice Abriel 44
@@ -744,18 +690,15 @@ Date: 1/10/2009
   Alexandre Licata 86; Mamadou Bagayoko 5, Aurélien Capoue 43
 
 ; Rennes       ; 1-0; Grenoble
-  Moussa Sow 46
+  Moussa Sow 46;
 
 ; Sochaux      ; 1-0; Saint-Etienne
-  Damien Perquis 65
-
+  Damien Perquis 65;
 
 Date: 1/11/2009
 
 ; Bordeaux     ; 4-0; Paris-SG 
-  Souleymane Diawara 10, Fernando Cavenaghi 35, Yoann Gourcuff 70,
-   Fernando Menegazzo 87
-
+  Souleymane Diawara 10, Fernando Cavenaghi 35, Yoann Gourcuff 70, Fernando Menegazzo 87;
 
 Date: 2/17/2009
 
@@ -765,41 +708,40 @@ Date: 2/17/2009
   Pascal Berenguer 57; Mahamane Traoré 49, David Hellebuyck 90
 
 ; Valenciennes ; 2-0; Caen 
-  Jonathan Lacourt 10, Gaël Danic 90
+  Jonathan Lacourt 10, Gaël Danic 90;
 
 Round: 21 
 Date: 1/17/2009
 
 ; Grenoble     ; 0-2; Lyon
-  Honorato Campos Ederson 15, Cesar Delgado 77
+;  Honorato Campos Ederson 15, Cesar Delgado 77
  
 ; Lorient      ; 1-1; Valenciennes
   Michael Ciani 43; Jean-Pierre Darcheville 27
 
 ; Marseille    ; 2-0; Le Havre
-  Mathieu Valbuena 25, Ronald Zubar 60
+  Mathieu Valbuena 25, Ronald Zubar 60;
 
 ; Nantes       ; 1-2; Bordeaux
   Filip Djordjevic 89; Yoann Gourcuff 11, Marouane Chamakh 70
 
 ; Nice         ; 2-0; Auxerre
-  Loïc Rémy 50, Habib Bamogo 90+1
+  Loïc Rémy 50, Habib Bamogo 90+1;
 
-;; Saint-Etienne; 1-1 Le Mans
+; Saint-Etienne; 1-1; Le Mans
 
 ; Toulouse     ; 3-0; Nancy
-  André Luis Silva 45+2og, André-Pierre Gignac 81, Paulo Cesar 88
+  André Luis Silva (og) 45+2, André-Pierre Gignac 81, Paulo Cesar 88;
  
 Date: 1/18/2009
 
 ; Caen         ; 2-2; Monaco
-  Steve Savidan 73, Benjamin Nivet 90+2; Juan Pablo Pino 7, 
-   Alejandro César Alonso 24
+  Steve Savidan 73, Benjamin Nivet 90+2; Juan Pablo Pino 7, Alejandro César Alonso 24
 
 ; Lille        ; 1-0; Rennes
-  Petter Hanson 75og
+  Petter Hanson (og) 75;
 
-;; Paris-SG;      2-1 Sochaux
+; Paris-SG;      2-1; Sochaux
   Guillaume Hoarau (pk) 45+2, Peguy Luyindula 63; Vaclav Sverkos 51
  
 Round: 22 
@@ -808,22 +750,21 @@ Date: 1/31/2009
 ; Auxerre      ; 0-0; Lorient
 
 ; Le Havre     ; 2-3; Nancy
-  Amadou Alassane 12, 90; Julien Feret 16, Jonathan Brison 31,
-   Landry N’Guemo 90+3
+  Amadou Alassane 12, Amadou Alassane 90; Julien Feret 16, Jonathan Brison 31, Landry N’Guemo 90+3
  
 ; Le Mans      ; 0-2; Nantes
-  Yoann Poulard 53, Frédéric Da Rocha 66
+;  Yoann Poulard 53, Frédéric Da Rocha 66
 
 ; Monaco       ; 1-0; Grenoble
-  Alexandre Licata 67
+  Alexandre Licata 67;
 
-;; Paris-SG;      2-0 Caen
-  Guillaume Hoarau 48, Peguy Luyindula 58
+; Paris-SG;      2-0; Caen
+  Guillaume Hoarau 48, Peguy Luyindula 58;
 
 ; Rennes       ; 0-0; Toulouse
 
 ; Valenciennes ; 1-0; Nice
-  Grégory Pujol 77
+  Grégory Pujol 77;
 
 Date: 2/1/2009
 
@@ -834,50 +775,47 @@ Date: 2/1/2009
   Juninho Pernambucano 53; Kévin Mirallas 50
 
 ; Sochaux      ; 1-0; Marseille
-  Mevlut Erding 24
+  Mevlut Erding 24;
 
 Round: 23 
 Date: 2/7/2009
 
 ; Le Havre     ; 1-0; Rennes
-  Amadou Alassane 89
+  Amadou Alassane 89;
 
 ; Lille        ; 3-2; Sochaux
-  Pierre-Alain Frau 60, Robert Vittek 74, Eden Hazard 88; Romain Pitau 33, 
-   Vaclav Sverkos (pk) 41
+  Pierre-Alain Frau 60, Robert Vittek 74, Eden Hazard 88; Romain Pitau 33, Vaclav Sverkos (pk) 41
 
 ; Lorient      ; 1-1; Monaco 
   Fabrice Abriel 60; Yohan Mollo 21
 
 ; Nancy        ; 0-2; Auxerre
-  Cédric Hengbart 36, Ireneusz Jelen 52
+;  Cédric Hengbart 36, Ireneusz Jelen 52
 
 ; Nantes       ; 1-4; Paris-SG
-  Djamel Abdoun (pk) 36; Ludovic Giuly 12, 50, Peguy Luyindula 20, 
-   Stéphane Sessegnon 71
+  Djamel Abdoun (pk) 36; Ludovic Giuly 12, Ludovic Giuly 50, Peguy Luyindula 20, Stéphane Sessegnon 71
 
-;; Saint-Etienne; 3-2 Caen
-  Bafétimbi Gomis 62, Araujo Dall’Igna Ilan 67, 71; Mouhamadou Dabo 3og, 
-   Steve Savidan 89
+; Saint-Etienne; 3-2; Caen
+  Bafétimbi Gomis 62, Araujo Dall’Igna Ilan 67, Araujo Dall’Igna Ilan 71; Mouhamadou Dabo (og) 3, Steve Savidan 89
 
 ; Toulouse     ; 2-0; Le Mans
-  Moussa Sissoko 43, André-Pierre Gignac 80
+  Moussa Sissoko 43, André-Pierre Gignac 80;
 
 Date: 2/8/2009
 
 ; Grenoble     ; 0-0; Valenciennes
 
 ; Marseille    ; 1-0; Bordeaux
-  Marouane Chamakh 57og
+  Marouane Chamakh (og) 57;
 
 ; Nice         ; 1-3; Lyon
-  Onyekachi Apam 45; Jean II Makoun 18, 80, Karim Benzema 27
+  Onyekachi Apam 45; Jean II Makoun 18, Jean II Makoun 80, Karim Benzema 27
 
 Round: 24 
 Date: 2/14/2009
 
 ; Auxerre      ; 2-0; Lille
-  Ireneusz Jelen 30, Kamel Chafni 35
+  Ireneusz Jelen 30, Kamel Chafni 35;
 
 ; Bordeaux     ; 1-1; Grenoble
   Marouane Chamakh 59; Bostjan Cesar 76
@@ -886,9 +824,9 @@ Date: 2/14/2009
   Steve Savidan 34; Rafik Saïfi 46
 
 ; Le Mans      ; 1-2; Nice
-  Thorsteinn Helstad 51; Emerse Faé75, Mahamane Traoré 89
+  Thorsteinn Helstad 51; Emerse Faé 75, Mahamane Traoré 89
 
-;; Paris-SG;      2-1 Saint-Etienne
+; Paris-SG;      2-1; Saint-Etienne
   Mamadou Sakho 26, Jérémy Clément 37; Dimitri Payet 34
 
 ; Rennes       ; 1-1; Nancy
@@ -897,18 +835,16 @@ Date: 2/14/2009
 ; Valenciennes ; 1-1; Nantes
   Rafael Schmitz 14; Ivan Klasnic 60
 
-
 Date: 2/15/2009
 
 ; Lyon         ; 3-1; Le Havre
-  Honorato Campos Ederson 33, Abdul Kader Keita 44, 
-   Juninho Pernambucano 74; Loïc Nestor 8
+  Honorato Campos Ederson 33, Abdul Kader Keita 44, Juninho Pernambucano 74; Loïc Nestor 8
 
 ; Monaco       ; 0-1; Marseille
-  Bakari Koné 76
+;  Bakari Koné 76
 
 ; Sochaux      ; 1-2; Toulouse
-  Rabiu Afolabi 11; Jacques Faty 32og, André-Pierre Gignac 65
+  Rabiu Afolabi 11; Jacques Faty (og) 32, André-Pierre Gignac 65
 
 Round: 25 
 Date: 2/21/2009
@@ -922,13 +858,13 @@ Date: 2/21/2009
   Kévin Gameiro 23; Vaclav Sverkos 66, Mevlut Erding 90+2
 
 ; Nancy        ; 0-2; Lyon
-  Cristiano Marques Cris 19, Karim Benzema 90+2
+;  Cristiano Marques Cris 19, Karim Benzema 90+2
 
 ; Nantes       ; 1-1; Caen
   Christian Bekamenga 43; Anthony Deroin 2
 
 ; Nice         ; 0-1; Rennes
-  Olivier Thomert 68
+;  Olivier Thomert 68
 
 ; Toulouse     ; 0-0; Valenciennes
 
@@ -939,7 +875,7 @@ Date: 2/22/2009
 
 ; Marseille    ; 0-0; Le Mans
 
-;; Saint-Etienne; 1-1 Bordeaux
+; Saint-Etienne; 1-1; Bordeaux
   Blaise Matuidi 53; Fernando Cavenaghi 90
 
 Round: 26 
@@ -949,35 +885,33 @@ Date: 2/28/2009
   Ireneusz Jelen 24; Bryan Bergougnoux 80
 
 ; Le Mans      ; 2-0; Le Havre
-  Modibo Maiga 64, Gervais Yao Kouassi Gervinho 76
+  Modibo Maiga 64, Gervais Yao Kouassi Gervinho 76;
 
 ; Nantes       ; 1-1; Grenoble
   Ivan Klasnic 39; Sandy Paillot 90+5
  
 ; Sochaux      ; 1-0; Nice
-  Vaclav Sverkos 69
+  Vaclav Sverkos 69;
 
 ; Valenciennes ; 2-0; Lille
-  Gaël Danic 30, Jean-Claude Darcheville 34
+  Gaël Danic 30, Jean-Claude Darcheville 34;
 
 Date: 3/1/2009
 
 ; Bordeaux     ; 1-0; Lorient
-  Marouane Chamakh 49
+  Marouane Chamakh 49;
 
 ; Caen         ; 0-1; Marseille
-  Evaerson Lemos Da Silva Brandao 66
+;  Evaerson Lemos Da Silva Brandao 66
 
 ; Lyon         ; 1-1; Rennes
   Kim Källström 66; Jimmy Briand 90+1
 
 ; Monaco       ; 2-2; Saint-Etienne
-  Frédéric Numani 20, Yohan Mollo 90+1; Dimitri Payet 27, 
-   Daisuke Matsui 61
+  Frédéric Numani 20, Yohan Mollo 90+1; Dimitri Payet 27, Daisuke Matsui 61
 
-;; Paris-SG;      4-1 Nancy
-  Guillaume Hoarau 9, 40, Ludovic Giuly 13, Stéphane Sessegnon 63; 
-   Julien Féret 30
+; Paris-SG;      4-1; Nancy
+  Guillaume Hoarau 9, Guillaume Hoarau 40, Ludovic Giuly 13, Stéphane Sessegnon 63; Julien Féret 30
 
 Round: 27 
 Date: 3/7/2009
@@ -986,21 +920,20 @@ Date: 3/7/2009
   Sandy Paillot 30, Larsen Touré 90+4; Anthony Deroin 84
 
 ; Lille        ; 2-0; Lyon
-  Robert Vittek 61, Fernandes Michel Bastos 89
+  Robert Vittek 61, Fernandes Michel Bastos 89;
 
 ; Lorient      ; 0-1; Paris-SG
-  Ludovic Giuly 22
+;  Ludovic Giuly 22
 
 ; Marseille    ; 0-0; Valenciennes
 
 ; Nancy        ; 2-2; Le Mans
-  Youssouf Hadji 2, Silva Do Nascimento André Luiz 54;
-   Mathieu Coutadeur 26, Thorstein Helstad 61
+  Youssouf Hadji 2, Silva Do Nascimento André Luiz 54; Mathieu Coutadeur 26, Thorstein Helstad 61
 
 ; Nice         ; 0-0; Monaco
 
 ; Toulouse     ; 3-0; Bordeaux
-  Pantxi Sirieix 32, André-Pierre Gignac 44, Moussa Sissoko 90+3
+  Pantxi Sirieix 32, André-Pierre Gignac 44, Moussa Sissoko 90+3;
 
 Date: 3/8/2009
 
@@ -1008,10 +941,10 @@ Date: 3/8/2009
   Amadou Alassane 17, Kévin Anin 54; Jacques Faty 12
 
 ; Rennes       ; 2-0; Auxerre
-  Carlos Bocanegra 9, Jimmy Briand 36
+  Carlos Bocanegra 9, Jimmy Briand 36;
 
-;; Saint-Etienne; 2-1 Nantes
-  Araujo Dall’Igna Ilan (pk) 11, 30; Ivan Klasnic 4
+; Saint-Etienne; 2-1; Nantes
+  Araujo Dall’Igna Ilan (pk) 11, Araujo Dall’Igna Ilan 30; Ivan Klasnic 4
 
 Round: 28 
 Date: 3/14/2009
@@ -1020,15 +953,13 @@ Date: 3/14/2009
   Marouane Chamakh 19, Carlos Henrique Souza 48; Habib Bamogo (pk) 23
  
 ; Caen         ; 0-1; Lille
-  Fernandes Michel Bastos 60
+;  Fernandes Michel Bastos 60
 
 ; Le Mans      ; 2-2; Rennes
-  Thorstein Helstad 2, Gervais Yaho Kouassi Gervinho 18; 
-   Jires Kembo-Ekoko 75, Moussa Sow 90+4
+  Thorstein Helstad 2, Gervais Yaho Kouassi Gervinho 18; Jires Kembo-Ekoko 75, Moussa Sow 90+4
 
 ; Monaco       ; 3-2; Toulouse
-  Frédéric Nimani 39, François-Joseph Modesto 75, Igor Lolo 90; 
-   André-Pierre Gignac 26, Mario Cetto 67
+  Frédéric Nimani 39, François-Joseph Modesto 75, Igor Lolo 90; André-Pierre Gignac 26, Mario Cetto 67
 
 ; Nantes       ; 1-1; Lorient
   Guirane N’Daw 25; Jérémy Morel 76
@@ -1037,128 +968,120 @@ Date: 3/14/2009
   Ryad Boudebouz 13, Vaclav Sverkos 78; Youssouf Hadji 42
 
 ; Valenciennes ; 3-2; Le Havre
-  José Saez 41, Jonathan Lacourt 75, Johan Audel 90+2; 
-   Peter Franquart 24, Kévin Anin 81
+  José Saez 41, Jonathan Lacourt 75, Johan Audel 90+2; Peter Franquart 24, Kévin Anin 81
 
 Date: 3/15/2009
 
 ; Grenoble     ; 1-0; Saint-Etienne 
-  Nassim Akrour 90
+  Nassim Akrour 90;
 
 ; Lyon         ; 0-2; Auxerre
-  Ireneusz Jelen 41, Thomas Kalhenberg 90
+;  Ireneusz Jelen 41, Thomas Kalhenberg 90
 
-;; Paris-SG;      1-3 Marseille
+; Paris-SG;      1-3; Marseille
   Ludovic Giuly 43; Boudewijn Zenden 24, Bakari Koné 55, Lorik Cana 61
 
 Round: 29 
 Date: 3/21/2009
 
 ; Auxerre      ; 2-0; Le Mans
-  Ireneusz Jelen 9, Dariusz Dudka 22
+  Ireneusz Jelen 9, Dariusz Dudka 22;
 
 ; Le Havre     ; 0-3; Bordeaux
-  Yoann Gourcuff 10, Souleymane Diawara 58, Geraldo Mauricio Wendel 88
+;  Yoann Gourcuff 10, Souleymane Diawara 58, Geraldo Mauricio Wendel 88
 
 ; Lille        ; 2-1; Grenoble
   Fernandes Michel Bastos 12, Romain Vittek 40; Sandy Paillot 90
 
 ; Marseille    ; 2-0; Nantes
-  Renato Civelli 54, Evaerson Lemos Da Silva Brandao 54
+  Renato Civelli 54, Evaerson Lemos Da Silva Brandao 54;
 
 ; Nancy        ; 0-1; Monaco
-  Chu-Young Park 70
+;  Chu-Young Park 70
 
 ; Nice         ; 2-2; Caen
-  Loïc Rémy 7, Olivier Echouafni 88: Vincent Hognon 64og, 
-   Nicolas Seube 75
+  Loïc Rémy 7, Olivier Echouafni 88; Vincent Hognon (og) 64, Nicolas Seube 75
 
 ; Rennes       ; 0-0; Valenciennes
 
 Date: 3/22/2009
 
 ; Lorient      ; 3-1; Saint-Etienne
-  Morgan Amalfitano 14, Marama Vahirua 15, Rafik Saifi 90+2; 
-   Yohan Benalouane 40
+  Morgan Amalfitano 14, Marama Vahirua 15, Rafik Saifi 90+2; Yohan Benalouane 40
 
 ; Lyon         ; 2-0; Sochaux
-  Honorato Campos Ederson 14, Anthony Mounier 70
+  Honorato Campos Ederson 14, Anthony Mounier 70;
 
 ; Toulouse     ; 4-1; Paris-SG
-  Bryan Bergougnoux 6, André-Pierre Gignac 39, Moussa Sissoko 45,
-   Daniel Braaten 80; Larrys Mabiala 70
+  Bryan Bergougnoux 6, André-Pierre Gignac 39, Moussa Sissoko 45, Daniel Braaten 80; Larrys Mabiala 70
 
 Round: 30 
 Date: 4/4/2009
 
 ; Bordeaux     ; 1-0; Nancy
-  Marouane Chamakh 88
+  Marouane Chamakh 88;
 
 ; Caen         ; 0-0; Toulouse
 
 ; Grenoble     ; 1-3; Lorient
-  Nassim Akrour 70; Kévin Gameiro 29, Gabriel Obertan 51, 
-   Morgan Amalfitano 77
+  Nassim Akrour 70; Kévin Gameiro 29, Gabriel Obertan 51, Morgan Amalfitano 77
 
 ; Le Mans      ; 1-3; Lyon
-  Anthony Le Tallec 78; Jean-Alain Boumsong 18, Karim Benzema 44, 58
+  Anthony Le Tallec 78; Jean-Alain Boumsong 18, Karim Benzema 44, Karim Benzema 58
   
 ; Monaco       ; 0-1; Le Havre
-  Massamba Lô Sambou 77
+;  Massamba Lô Sambou 77
 
 ; Nantes       ; 0-2; Lille
-  Fernandes Michel Bastos (pk) 45, Romain Vittek 57
+;  Fernandes Michel Bastos (pk) 45, Romain Vittek 57
 
 ; Valenciennes ; 2-0; Auxerre
-  Jean-Pierre Darcheville 1, (pk) 70
+  Jean-Pierre Darcheville 1, Jean-Pierre Darcheville (pk) 70;
 
 Date: 4/5/2009
 
-;; Paris-SG;      2-1 Nice
+; Paris-SG;      2-1; Nice
   Guillaume Hoarau 20, Sami Traoré 51; Loïc Rémy 36
 
-;; Saint-Etienne; 0-3 Marseille
-  Mamadou Niang (pk) 60, 75, Evaerson Lemos Da Silva Brandao 73
+; Saint-Etienne; 0-3; Marseille
+;  Mamadou Niang (pk) 60, Mamadou Niang 75, Evaerson Lemos Da Silva Brandao 73
 
 ; Sochaux      ; 3-0; Rennes
-  Ryad Boudebouz (pk) 36, Mevlut Erding 38, Vaclav Sverkos 87
+  Ryad Boudebouz (pk) 36, Mevlut Erding 38, Vaclav Sverkos 87;
 
 Round: 31 
 Date: 4/11/2009
 
 ; Auxerre      ; 0-2; Bordeaux
-  Menegazzo Fernando 34, Geraldo Mauricio Wendel 80
+;  Menegazzo Fernando 34, Geraldo Mauricio Wendel 80
 
 ; Le Havre     ; 1-2; Caen
   Amadou Alassane 41; Steve Savidan 19, Reynald Lemaitre 87
 
 ; Le Mans      ; 2-0; Sochaux
-  Romain Lamah 35, Modibo Maiga 86
+  Romain Lamah 35, Modibo Maiga 86;
 
 ; Nancy        ; 2-0; Valenciennes
-  Damian Macaluso 90+1, Youssouf Hadji (pk) 90+3
+  Damian Macaluso 90+1, Youssouf Hadji (pk) 90+3;
 
 ; Nice         ; 2-0; Lorient
-  Loïc Rémy 58, 60
+  Loïc Rémy 58, Loic Remy 60;
 
 ; Rennes       ; 1-0; Saint-Etienne
-  Romain Danze 50
+  Romain Danze 50;
 
 ; Toulouse     ; 1-0; Nantes
-  André-Pierre Gignac 52
-
+  André-Pierre Gignac 52;
 
 Date: 4/12/2009
 
 ; Lille        ; 0-0; Paris-SG
 
 ; Lyon         ; 2-2; Monaco
-  Cristiano Marques Cris 65, Frédéric Piquionne 81; Jerko Leko 34, 
-   Juan Pablo Pino 66
+  Cristiano Marques Cris 65, Frédéric Piquionne 81; Jerko Leko 34, Juan Pablo Pino 66
 
 ; Marseille    ; 4-1; Grenoble
-  Taye Ismaïlia Taiwo (pk) 52, 66 Vitorino Hilton Da Silva 59,
-   Evaerson Lemos Da Silva Brandao 89; Laurent Courtois 90+4
+  Taye Ismaïlia Taiwo (pk) 52, Taye Ismaïlia Taiwo 66, Vitorino Hilton Da Silva 59, Evaerson Lemos Da Silva Brandao 89; Laurent Courtois 90+4
  
 Round: 32 
 Date: 4/18/2009
@@ -1167,34 +1090,33 @@ Date: 4/18/2009
   Sambou Yatabaré 45; Youssouf Hadji 1, Geoffrey Adjet 85
 
 ; Grenoble     ; 1-0; Toulouse
-  Laurent Courtois (pk) 40
+  Laurent Courtois (pk) 40;
 
 ; Monaco       ; 3-1; Rennes
-  Jerko Leko (pk) 77, Juan Pablo Pino 83, 90+2; Bruno Cheyrou 85
+  Jerko Leko (pk) 77, Juan Pablo Pino 83, Juan Pablo Pino 90+2; Bruno Cheyrou 85
 
 ; Nantes       ; 2-0; Nice
-  Christian Bekamenga 18, Mamadou Bagayoko 89
+  Christian Bekamenga 18, Mamadou Bagayoko 89;
 
-;; Saint-Etienne; 2-1 Lille
+; Saint-Etienne; 2-1; Lille
   Araujo Dall’Igna Ilan 51, Bafétimbi Gomis 66; Nicolas Fauvergue 72
 
 ; Sochaux      ; 0-1; Auxerre
-  Thomas Kahlenberg 85
+;  Thomas Kahlenberg 85
 
 ; Valenciennes ; 0-2; Le Mans
-  Grégory Cerdan 49, Anthony Le Tallec 67
-
+;  Grégory Cerdan 49, Anthony Le Tallec 67
 
 Date: 4/19/2009
 
 ; Bordeaux     ; 1-0; Lyon
-  Alou Diarra 43
+  Alou Diarra 43;
 
 ; Lorient      ; 1-2; Marseille
   Kévin Gameiro 8; Renato Civelli 59, Evaerson Lemos Da Silva Brandao 79
 
-;; Paris-SG;      3-0 Le Havre
-  Ludovic Giuly 41, Jérôme Rothen 55, Guillaume Hoarau 89
+; Paris-SG;      3-0; Le Havre
+  Ludovic Giuly 41, Jérôme Rothen 55, Guillaume Hoarau 89;
 
 Round: 33 
 Date: 4/24/2009
@@ -1204,23 +1126,22 @@ Date: 4/24/2009
 Date: 4/26/2009
 
 ; Auxerre      ; 2-1; Caen
-  Ireneusz Jelen 85, 89; Grégory Proment 62
+  Ireneusz Jelen 85, Ireneusz Jelen 89; Grégory Proment 62
 
 ; Le Havre     ; 0-1; Grenoble
-  Pierre Boya 41
+;  Pierre Boya 41
 
 ; Le Mans      ; 0-1; Monaco
-  Chu-Young Park 88
+;  Chu-Young Park 88
 
 ; Lille        ; 1-2; Marseille
   Eden Hazard 49; Bruno Cheyrou 54, Mamadou Niang 57
 
 ; Nancy        ; 2-0; Nantes
-  Julien Féret 56, Andre Luiz Silva Do Nascimento (pk) 67
+  Julien Féret 56, Andre Luiz Silva Do Nascimento (pk) 67;
 
 ; Nice         ; 3-1; Saint-Etienne
-  Chaouki Ben Saada 23, Vincent Hognon 45, Eric Mouloungui 73; 
-   Araujo Dall’Igna Ilan 90+3
+  Chaouki Ben Saada 23, Vincent Hognon 45, Eric Mouloungui 73; Araujo Dall’Igna Ilan 90+3
 
 ; Sochaux      ; 1-1; Valenciennes
   Vaclav Sverkos 90+4; Amara Karba Bangoura 61
@@ -1228,20 +1149,16 @@ Date: 4/26/2009
 ; Toulouse     ; 1-1; Lorient
   Mario Cetto 89; André Ayew 85
 
-
 Date: 4/29/2009
 
 ; Rennes       ; 2-3; Bordeaux
-  Romain Danzé 1, Moussa Sow 89; Yoan Gouffran 62,
-   Yoann Gourcuff 70, 90+4
-
+  Romain Danzé 1, Moussa Sow 89; Yoan Gouffran 62, Yoann Gourcuff 70, Yoann Gourcuff 90+4
 
 Round: 34 
 Date: 5/2/2009
 
 ; Caen         ; 3-1; Le Mans
-  Pablo Maximiliano Barzola 7, Nicolas Seube 52, Anthony Deroin 55; 
-   Grégory Cerdan 26
+  Pablo Maximiliano Barzola 7, Nicolas Seube 52, Anthony Deroin 55; Grégory Cerdan 26
 
 ; Grenoble     ; 0-0; Nice
 
@@ -1249,72 +1166,69 @@ Date: 5/2/2009
   Michael Ciani 63, Rafik Saïfi 86, Fabrice Abriel 89; Yohan Cabaye 36
 
 ; Marseille    ; 2-2; Toulouse 
-  Mamadou Niang 63, 74; André-Pierre Gignac 48, 72
+  Mamadou Niang 63, Mamadou Niang 74; André-Pierre Gignac 48, André-Pierre Gignac 72
 
 ; Monaco       ; 0-1; Auxerre
-  Thomas Kahlenberg 26
+;  Thomas Kahlenberg 26
 
-;; Saint-Etienne; 0-0 Nancy
+; Saint-Etienne; 0-0; Nancy
 
 ; Valenciennes ; 2-0; Lyon
-  Johan Audel 23, 29
+  Johan Audel 23, Johan Audel 29;
 
 Date: 5/3/2009
 
 ; Bordeaux     ; 3-0; Sochaux
-  Grégory Sertic 7, Yoann Gourcuff 14, Marouane Chamakh 90+4
+  Grégory Sertic 7, Yoann Gourcuff 14, Marouane Chamakh 90+4;
 
 ; Nantes       ; 1-2; Le Havre
   Christian Bekamenga 24; Mamadou Diallo 40, Florian Marange 61
 
-;; Paris-SG;      0-1 Rennes
-  Mamadou Sakho 65og
-
+; Paris-SG;      0-1; Rennes
+;  Mamadou Sakho (og) 65
 
 Round: 35 
 Date: 5/12/2009
 
 ; Lyon         ; 3-0; Nantes
-  Jean II Makoun 7, 34, Anthony Mounier 79
+  Jean II Makoun 7, Jean II Makoun 34, Anthony Mounier 79;
 
 Date: 5/13/2009
 
 ; Auxerre      ; 2-0; Grenoble
-  Ireneusz Jelen 36, 74
+  Ireneusz Jelen 36, Ireneusz Jelen 74;
 
 ; Le Havre     ; 2-4; Saint-Etienne
-  Mamadou Diallo 11, MassambaLô Sambou 18; Araujo Dall’Igna Ilan 4,
-   Mustapha Bayal Sall 47, Kévin Mirallas 69, Emmanuel Rivière 90
+  Mamadou Diallo 11, MassambaLô Sambou 18; Araujo Dall’Igna Ilan 4, Mustapha Bayal Sall 47, Kévin Mirallas 69, Emmanuel Rivière 90
 
 ; Le Mans      ; 0-1; Paris-SG
-  Mateja Kezman 18
+;  Mateja Kezman 18
 
 ; Nancy        ; 2-2; Lorient
-  Rafik Saïfi 27og, André Joël Sami 47; Kévin Gameiro 53, 81
+  Rafik Saïfi (og) 27, André Joël Sami 47; Kévin Gameiro 53, Kevin Gameiro 81
 
 ; Nice         ; 0-2; Marseille
-  Mamadou Niang 26, Evaerson Lemos Da Silva Brandao 61
+;  Mamadou Niang 26, Evaerson Lemos Da Silva Brandao 61
 
 ; Rennes       ; 1-0; Caen
-  Petter Hansson 61
+  Petter Hansson 61;
 
 ; Sochaux      ; 3-0; Monaco
-  Marvin Martin 19, François-Joseph Modesto 46og, Vaclav Svertkos 70
+  Marvin Martin 19, François-Joseph Modesto (og) 46, Vaclav Svertkos 70;
 
 ; Toulouse     ; 0-0; Lille
 
 ; Valenciennes ; 1-2; Bordeaux
-  [Gaël Danic (pk) 22 ; Menegazzo Fernando38, Yoann Gourcuff 82
+  Gaël Danic (pk) 22 ; Menegazzo Fernando38, Yoann Gourcuff 82
 
 Round: 36 
 Date: 5/16/2009
 
 ; Bordeaux     ; 3-2; Le Mans
-  Marouane Chamakh 38, Yoann Gourcuff 45, Marc Planus 76; 
-   Anthony Le Tallec 24, 55
+  Marouane Chamakh 38, Yoann Gourcuff 45, Marc Planus 76; Anthony Le Tallec 24, Anthony Le Tallec 55
 
 ; Caen         ; 2-0; Sochaux
-  Steve Savidan 77, 90
+  Steve Savidan 77, Steve Savidan 90;
 
 ; Grenoble     ; 0-0; Nancy
 
@@ -1324,12 +1238,11 @@ Date: 5/16/2009
 ; Monaco       ; 1-1; Valenciennes
   Chu-Young Park 7; Johan Audel 61
 
-;; Paris-SG;      1-2 Auxerre
-  Stéphane Sessegnon 83; Zoumana Camara 40og, Ireneusz Jelen 45
+; Paris-SG;      1-2; Auxerre
+  Stéphane Sessegnon 83; Zoumana Camara (og) 40, Ireneusz Jelen 45
 
-;; Saint-Etienne; 2-2 Toulouse
-  Mustapha Bayal Sall 34, Araujo Dall’Igna Ilan (pk) 72; Moussa Sissoko 65,
-   André-Pierre Gignac 88
+; Saint-Etienne; 2-2; Toulouse
+  Mustapha Bayal Sall 34, Araujo Dall’Igna Ilan (pk) 72; Moussa Sissoko 65, André-Pierre Gignac 88
 
 Date: 5/17/2009
 
@@ -1337,7 +1250,7 @@ Date: 5/17/2009
   Yohan Cabaye 71; Anthony Modeste 35
 
 ; Marseille    ; 1-3; Lyon
-  Sylvain Wiltord 80; Karim Benzema (pk) 31, 43, Juninho Pernambucano 90+2
+  Sylvain Wiltord 80; Karim Benzema (pk) 31, Karim Benzema 43, Juninho Pernambucano 90+2
 
 ; Nantes       ; 1-1; Rennes
   Mamadou Bagayoko 42; Moussa Sow 84
@@ -1346,67 +1259,62 @@ Round: 37
 Date: 5/23/2009
 
 ; Auxerre      ; 1-0; Saint-Etienne
-  Ireneusz Jelen 60
+  Ireneusz Jelen 60;
 
 ; Bordeaux     ; 1-0; Monaco
-  Marouane Chamakh 35
+  Marouane Chamakh 35;
 
 ; Le Havre     ; 0-1; Lille
-  Fernandes Michel Bastos 67
+;  Fernandes Michel Bastos 67
 
 ; Le Mans      ; 1-1; Grenoble 
   Anthony Le Tallec 81; Nasssim Akrour 68
 
 ; Lyon         ; 3-1; Caen
-  Juninho Pernambucano (pk) 34, Sidney Govou 70, Karim Benzema 89;
-   Sambou Yatabaré 82
+  Juninho Pernambucano (pk) 34, Sidney Govou 70, Karim Benzema 89; Sambou Yatabaré 82
 
 ; Nancy        ; 1-2; Marseille 
-  Landry N’Guemo 87; Laurent Bonnard 32, 
-   Evaerson Lemos Da Silva Brandao 56
+  Landry N’Guemo 87; Laurent Bonnard 32, Evaerson Lemos Da Silva Brandao 56
 
 ; Nice         ; 0-2; Toulouse 
-  André-Pierre Gignac 12, 24
+;  André-Pierre Gignac 12, André-Pierre Gignac 24
 
 ; Rennes       ; 3-1; Lorient
-  Moussa Sow 41, Rod Fanni 46, Jires Kembo-Ekoko 82; 
-   Marama Vahirua 78
+  Moussa Sow 41, Rod Fanni 46, Jires Kembo-Ekoko 82; Marama Vahirua 78
 
 ; Sochaux      ; 2-1; Nantes
-  Mevlut Erding 35, Rabiu Afolabi 45; mamadou Bagayoko (pk) 61
+  Mevlut Erding 35, Rabiu Afolabi 45; Mamadou Bagayoko (pk) 61
 
 ; Valenciennes ; 2-1; Paris-SG
   Johan Audel 61, Grégory Pujol 67; Mateja Kezman 11
-
 
 Round: 38 
 Date: 5/30/2009
 
 ; Caen         ; 0-1; Bordeaux
-  Yoan Gouffran 49
+;  Yoan Gouffran 49
 
 ; Grenoble     ; 0-1; Sochaux
-  Mevlut Erding 42
+;  Mevlut Erding 42
 
 ; Lille        ; 3-2; Nancy
-  Romain Vittek 13, Adil Rami 15, Nicolas Plestan 75; 
-   Abdeslam Ouaddou 41, Youssouf Hadji 65
+  Romain Vittek 13, Adil Rami 15, Nicolas Plestan 75; Abdeslam Ouaddou 41, Youssouf Hadji 65
    
 ; Lorient      ; 1-1; Le Mans
   Michael Ciani 36; Thomas Helstad 18
  
 ; Marseille    ; 4-0; Rennes
-  Bakari Koné 51, Mamadou Niang 56, 70, Nicolas Douchez 58og
+  Bakari Koné 51, Mamadou Niang 56, Mamadou Niang 70, Nicolas Douchez (og) 58;
 
 ; Nantes       ; 2-1; Auxerre
   Ivan Kalsnic 12, Mamadou Bagayoko 53; Jérémy Berthod 47
 
 ; Nice         ; 0-0; Le Havre
 
-;; Paris-SG;      0-0 Monaco
+; Paris-SG;      0-0; Monaco
 
-;; Saint-Etienne; 4-0 Valenciennes
-  Araujo Dall’Igna Ilan 13, Bafétimbi Gomis 52, 56, Kévin Mirallas 66
+; Saint-Etienne; 4-0; Valenciennes
+  Araujo Dall’Igna Ilan 13, Bafétimbi Gomis 52, Bafétimbi Gomis 56, Kévin Mirallas 66;
 
 ; Toulouse     ; 0-0; Lyon
 

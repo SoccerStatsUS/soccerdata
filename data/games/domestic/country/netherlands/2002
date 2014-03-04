@@ -300,8 +300,8 @@ Date: 12/1/2002
 ; Groningen      ; 1-1; Heerenveen
 ; Ajax           ; 2-1; Twente
 ; Vitesse        ; 1-1; Graafschap
-Excelsior       bye
-NEC             bye
+*Excelsior       bye
+*NEC             bye
 
 Round: 15
 
@@ -321,8 +321,8 @@ Date: 12/8/2002
 ; NEC            ; 2-0; Vitesse
 ; Twente         ; 0-0; Groningen
 ; RKC            ; 2-1; Roda
-NAC             bye
-Zwolle          bye
+*NAC             bye
+*Zwolle          bye
 
 Round: 16
 
@@ -342,10 +342,10 @@ Date: 12/15/2002
 ; Ajax           ; 2-4; PSV
 ; Feyenoord      ; 6-1; AZ
 ; Heerenveen     ; 2-2; Utrecht
-RBC             bye
-Vitesse         bye
+*RBC             bye
+*Vitesse         bye
 
-Moved Matches
+*Moved Matches
 
 Date: 12/17/2002
 
@@ -374,8 +374,8 @@ Date: 12/22/2002
 
 ; NAC            ; 1-1; Feyenoord
 ; Excelsior      ; 0-2; Ajax
-AZ              bye
-Heerenveen      bye
+*AZ              bye
+*Heerenveen      bye
 
 Round: 18
 
@@ -443,7 +443,7 @@ Date: 2/16/2003
 ; Twente         ; 1-2; NEC
 ; Graafschap     ; 1-5; Heerenveen
 
-Moved Match 
+*Moved Match 
 Date: 2/19/2003
 
 ; AZ             ; 3-1; NAC
@@ -466,11 +466,10 @@ Date: 2/23/2003
 ; Utrecht        ; 1-0; Ajax
 ; Zwolle         ; 2-1; RKC
 ; Feyenoord      ; 4-1; Groningen
-Willem II       bye
-Heerenveen      bye     
+*Willem II       bye
+*Heerenveen      bye     
 
-Moved Matches
-
+*Moved Matches
 Date: 2/25/2003
 
 ; NEC            ; 1-0; Willem II
@@ -497,8 +496,8 @@ Date: 3/2/2003
 ; Ajax           ; 2-0; Vitesse
 ; Groningen      ; 4-0; Zwolle
 ; Feyenoord      ; 2-1; NAC
-NEC             bye
-Utrecht         bye
+*NEC             bye
+*Utrecht         bye
 
 Round: 23
 
@@ -752,7 +751,7 @@ Date: 5/29/2003
 *[*] on Jan 10, 2003, NAC changed name to NAC Breda.
 
 
-Nacompetitie
+*Nacompetitie
 
 Group: A
 Round: 1 

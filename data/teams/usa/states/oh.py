@@ -5,6 +5,32 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Cleveland Globes',
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Dayton Edelweis', # misspelled?
+        'city': 'Dayton, OH',
+        },
+
+    {
+        'name': 'Toledo Twisters',
+        'city': 'Toledo, OH',
+        },
+
+    {
+        'name': 'Cleveland Donauschwaben',
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Cleveland Wanderers',
+        'city': 'Cleveland, OH',
+        },
+
+
     # division 1
 
 

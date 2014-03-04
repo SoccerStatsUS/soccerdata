@@ -260,7 +260,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9806E3DE123FEE32A25757C0A96
 
 
 Season: 1928
-Round: First Round
+Round: 1
 
 1/21/1928; Bethlehem Steel; 3-1 (aet); New York Nationals; Steel Field; James Walder, John Walder, D. Scott
 Goldie, Goldie, Granger; Croft
@@ -303,7 +303,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F30A11FD3F5C177A93C0AB178AD
 1/22/1928; Newark Skeeters; 1-0; New York Giants; Newark, NJ
 
 2/13/1928; Newark Skeeters; 3-1; New York Giants; Polo Grounds; 3000
-Newark Skeeters: Murdoch; Grosz, Cairns; Daley, Moore, Nicol; Wardrop, Finlayson (McIntosh), Gregetsky, Green, McGowan
+Newark Skeeters: Murdoch; Grosz, Cairns; Daley, Moore, Nicol; Wardrop, Finlayson (McIntosh), Gregretsky, Green, McGowan
 New York Giants: Fabian; Schillinger (Tandler), Moorhouse; Cameron, Guttman (Terris), Herd; Haeusler, Hogg, O'Brien, Gruenwald
 Source: http://query.nytimes.com/mem/archive/pdf?res=FB061FFD3A59127A93C6A81789D85F4C8285F9
 
@@ -318,7 +318,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=FB0A1EFC3B59127A93C1AB178AD
 Source: http://query.nytimes.com/mem/archive/pdf?res=F40814FF3858167A93C7A91789D85F4C8285F9
 
 
-Round: Second Round
+Round: 2
 
 3/3/1928; Boston Wonder Workers; 2-0; Fall River Marksmen; Boston, MA; M. Bloom, J. Johnstone, A. Catto
 Battles, Fleming;
@@ -333,12 +333,12 @@ Fall River Marksmen: Harper; McGill, Macauley; McPherson, Doyle, Coyle; Harvey, 
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30811FE395A11738DDDAC0894DB405B888EF1D3
 
 
-Round: Third Round
+Round: 3
 
 3/3/1928; Bethlehem Steel; 3-1; Newark Skeeters; Bethlehem, PA; Dave Scott, Young, Watson
 Goldie, Stark, Stark; Green
 Bethlehem Steel: Edwards, W. Reid, McMeekin, W. Reid, Carnihan, MacGregor, Gillespie, Granger, Stark, Rollo, Goldie
-Newark Skeeters: Murdock, Grosz, Cairns, Daley, Moore, Nichol, Wardrop, McIntosh, Gregetsky, Green, Purgavie
+Newark Skeeters: Murdock, Grosz, Cairns, Daley, Moore, Nichol, Wardrop, McIntosh, Gregretsky, Green, Purgavie
 Source: http://bethlehemsteelsoccer.org/gl030528.html
 
 3/4/1928; Bethlehem Steel; 4-0; Newark Skeeters; Newark, NJ; Humes, E. McCabe, T. Dempsey; 1000
@@ -783,21 +783,51 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F60B1EFB385F147B93C5A9178ED
 
 Season: 1952
 
+Round: 1
+
 4/6/1952; New York Americans; 2-0; Hakoah FC; Croke Park 
-Jackie Hynes 20, Jackie Hynes 30;
+Jackie Hynes (pk) 65, Jackie Hynes (pk) 75;
 * A. Eglesias called for handling in both instances (penalties)
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10715FA3B5E107A93C5A9178FD85F468585F9
 
 4/6/1952; Brooklyn Hispano; 3-7; Philadelphia Nationals; Croke Park 
 Hugo Mena 9, Carl Erickson, Angel Yturrata ; Nick Kropfelder 10, Tom Oliver, Nick Kropfelder, Jack Duffin, Tom Oliver 70, Tom Oliver, Duffin
+Source: http://query.nytimes.com/mem/archive/pdf?res=F10715FA3B5E107A93C5A9178FD85F468585F9
 
-4/21/1952; Brooklyn Hispanos; 2-0; Hakoah FC; Triborough Stadium
+Round: 2
+
+4/13/1952; Brooklyn Hakoah; 1-0; New York Americans; Triborough Stadium
+Otto Decker 40;
+Source: http://query.nytimes.com/mem/archive/pdf?res=F20B1FFE3C5E177B93C6A8178FD85F468585F9
+
+4/13/1952; Brookhattan-Galicia; 2-0; Brooklyn Hispano; Triborough Stadium
+Paul Kovi (John Sloan) 35, Mario Zelaschi (Paul Kovi);
+Source: http://query.nytimes.com/mem/archive/pdf?res=F20B1FFE3C5E177B93C6A8178FD85F468585F9
+
+Round: 
+
+4/20/1952; Brooklyn Hispanos; 2-0; Hakoah FC; Triborough Stadium
 Randy Potter 15, Hugo Mena; 
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60B13FC3C5E177B93C3AB178FD85F468585F9
 
-4/21/1952; New York Americans; 1-0; Brookhattan-Galicia
+4/20/1952; New York Americans; 1-0; Brookhattan-Galicia; Triborough Stadium
 John O'Connell (Lloyd Monsen); 
+Source: http://query.nytimes.com/mem/archive/pdf?res=F60B13FC3C5E177B93C3AB178FD85F468585F9
 
+* Round 3
 5/4/1952; Philadelphia Nationals; 6-5; Scots-Americans; Philadelphia, PA
 Nick Kropfelder, Nick Kropfelder, Nick Kropfelder, Jack Duffin, Jack Duffin, V. Fremantis; Dick Roberts, Pete McNab, A. Sheppell, T. Kavanaugh, J. Breen
+Source: http://query.nytimes.com/mem/archive/pdf?res=FB0F11FA385F177B93C7A9178ED85F468585F9
+* Final standings listed.
+* playoff june 15 at yankee stadium.
+
+Round: Final
+
+5/17/1953; Philadelphia Nationals; 3-1; Newark Portuguese; Triborough Stadium; Sam Galin
+Duffin, McLaughlin, Kropfelder; Henderson
+Philadelphia Nationals: Vitols; Dick, Reid; Dunn, Calquhoun, Bahr; Cler, Sullivan, Owen, McLaughlin, Duffin
+*Newark Portuguese: illegible
+Source: http://query.nytimes.com/mem/archive/pdf?res=F30712FC3D59177B93CAA8178ED85F478585F9
 
 
 Season: 1953

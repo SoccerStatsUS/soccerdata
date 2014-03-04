@@ -5,6 +5,22 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Milwaukee Cream City Association',
+        'city': 'Milwaukee, WI',
+        },
+
+    {
+        'name': 'Waukesha Town Club',
+        'city': 'Waukesha, WI',
+        },
+
+    {
+        'name': 'Carroll College (WI)',
+        'city': 'Waukesha, WI',
+        },
+
+
 
     {
         'name': 'Milwaukee Wave',

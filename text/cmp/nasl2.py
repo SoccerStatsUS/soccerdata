@@ -15,12 +15,18 @@ def process_stats():
         f = open(p)
         for line in f:
 
+            if not line.strip():
+                continue
+
             fields = line.split("  ") # 2 spaces
             fields = [e.strip() for e in fields if e.strip()]
 
             if fn == '2011':
-                name, team, goals, assists, shots, yc, rc, minutes = fields
                 sog = None
+                try:
+                    name, team, goals, assists, shots, yc, rc, minutes = fields
+                except:
+                    import pdb; pdb.set_trace()
             else:
                 try:
                     name, team, goals, assists, shots, sog, yc, rc, minutes = fields

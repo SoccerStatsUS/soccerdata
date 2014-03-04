@@ -79,6 +79,7 @@ d = {
         ('2001-2002 Winter', 'Pachuca'),
         ('2001-2002 Spring', 'Club America'),
 
+
         ('2002-2003 Apertura', 'Toluca'),
         ('2002-2003 Clausura', 'CF Monterrey'),
         ('2003-2004 Apertura', 'Pachuca'),
@@ -92,6 +93,7 @@ d = {
         ('2007-2008 Apertura', 'Guadalajara'),
         ('2007-2008 Clausura', 'Pachuca'),
         ('2008-2009 Apertura', 'Atlante'),
+
         ('2008-2009 Clausura', 'Santos Laguna'),
         ('2009-2010 Apertura', 'Toluca'),
         ('2009-2010 Clausura', 'UNAM'),
@@ -99,8 +101,12 @@ d = {
         ('2010-2011 Clausura', 'UNAM'),
         ('2011-2012 Apertura', 'UANL Tigres'),
         ('2011-2012 Clausura', 'Santos Laguna'),
+
         ('2012-2013 Apertura', 'Tijuana'),
+        ('2012-2013 Clausura', 'Club America'),
+        ('2013-2014 Apertura', 'Club Leon'),
         ],
+
 
     
     'Golden Boot': [

@@ -5,6 +5,46 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Dallas Association',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Houston Summit Soccer',
+        'city': 'Houston, TX',
+        },
+
+    {
+        'name': 'North Texas Mid-Cities Flyers',
+        'city': 'Euless, TX', # just a guess.
+        },
+
+    {
+        'name': 'Texas Lightning',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Houston Hurricanes',
+        'city': 'Houston, TX',
+        },
+
+    {
+        'name': 'Dallas YMCA',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Oak Cliff Bankers',
+        'city': 'Dallas, TX',
+        },
+
+    {
+        'name': 'Oak Cliff High School',
+        'city': 'Dallas, TX',
+        },
+
     # division 1
 
     {

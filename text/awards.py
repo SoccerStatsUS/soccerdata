@@ -33,8 +33,8 @@ def process_awards(d):
     if 'competition' not in d:
         import pdb; pdb.set_trace()
     
+    # Consider not popping this. Creating problems when awards are accidentally loaded twice.
     competition = d.pop('competition')
-
 
     champion_name = mvp_name = None
 
@@ -145,8 +145,8 @@ def process_brazil_awards():
     return process_awards(brasileirao) + process_awards(mineiro) + process_awards(carioca) + process_awards(paulista) + process_awards(gaucho) + process_awards(baiano)
 
 def process_argentina_awards():
-    from soccerdata.data.lists.awards.argentina import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards.argentina import d, metropolitano
+    return process_awards(d) + process_awards(metropolitano)
 
 
 # Uefa
@@ -154,15 +154,24 @@ def process_argentina_awards():
 
 def process_uefa_awards():
     from soccerdata.data.lists.awards import uefa as u
-    l = ['portugal', 'spain', 'turkey', 'sweden', 'netherlands', 'france', 'germany', 'belgium', 'poland', 'norway', 'russia']
+    l = [
+        'super',
+        'spain', 'france', 'germany', 'italy', # major
+        'portugal', 'scotland',
+        'sweden', 'norway', 'denmark',
+        'netherlands', 'belgium', 
+        'czech', 'austria', 'switzerland', 'hungary', 'serbia', # 'romania',
+        'poland', 'russia',  #'ukraine', 
+        'turkey', 'greece',
+        ]
     a = []
     for name in l:
         a.extend(process_awards(getattr(u, name)))
     return a
         
 def process_england_awards():
-    from soccerdata.data.lists.awards.england import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards.england import premier, fa
+    return process_awards(premier) + process_awards(fa)
 
 
 def process_uncaf_international_awards():
@@ -318,8 +327,8 @@ def process_esl_awards():
 
 
 def process_ncaa_awards():
-    from soccerdata.data.lists.awards.ncaa import d
-    return process_awards(d)
+    from soccerdata.data.lists.awards.ncaa import men, women
+    return process_awards(men) + process_awards(women)
 
 def process_isl_awards():
     from soccerdata.data.lists.awards.isl import d, palmares, parmalat
@@ -351,8 +360,8 @@ def process_world_cup_awards():
 
 
 def process_women_awards():
-    from soccerdata.data.lists.awards.women import wusa, wps
-    return process_awards(wusa) + process_awards(wps)
+    from soccerdata.data.lists.awards.women import wusa, wps, nwsl, wpsl
+    return process_awards(wusa) + process_awards(wps) + process_awards(nwsl) + process_awards(wpsl)
 
 
 def process_world_awards():

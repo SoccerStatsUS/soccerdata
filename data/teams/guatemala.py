@@ -13,6 +13,11 @@ l = [
         },
 
     {
+        'name': 'Azucareros',
+        'city': 'Santa Lucia Cotzumalguapa, Guatemala',
+        },
+
+    {
         'name': 'Deportivo Amatitlán', 
         'founded': 1960,
         'city': 'Amatitlán, Guatemala',
@@ -73,6 +78,7 @@ l = [
         'city': 'San Pedro Carchá, Guatemala',
         },
 
+
     {
         'name': 'Peñarol La Mesilla',
         'city': 'Huehuetenango, Guatemala',
@@ -84,6 +90,11 @@ l = [
         'city': 'Retalhuleu, Guatemala',
         'founded': 1951,
         'dissolved': 2012,
+        },
+
+    {
+        'name': 'Juventud Escuintleca',
+        'city': 'Escuintla, Guatemala',
         },
 
     {

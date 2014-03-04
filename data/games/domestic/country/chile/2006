@@ -756,7 +756,8 @@ Date: 6/4/2006
 * -.Deportes Concepción         withdrew
 
 
-Season: 2006 Apertura Playoffs
+Season: 2006 Apertura 
+Stage: Playoffs
 
 Round: Repechaje 
 Date: 6/7/2006
@@ -1578,7 +1579,8 @@ Date: 11/22/2006
 *NB: Cobreloa qualified for Copa Libertadores 2007 as best team of regular
 *    stage of Clausura
 
-Season: 2006 Clausura Liguilla
+Season: 2006 Clausura 
+Stage: Liguilla
 
 Round: Repechaje 
 Date: 11/22/2006
@@ -1701,7 +1703,8 @@ Colo Colo: Sebastián Cejas; Miguel Riffo, David Henríquez, Andrés González, 
 *19.Santiago Morning           36   6 11 19  37-63  29  Relegated
 * -.Deportes Concepción         withdrew                Relegated
 
-Season: 2006 Promotion/Relegation Playoffs
+*Season: 2006 
+Stage: Promotion/Relegation Playoffs
 
 *First Legs
 Date: 11/25/2006

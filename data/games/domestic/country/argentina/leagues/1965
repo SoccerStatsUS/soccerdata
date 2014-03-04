@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesa/arg65.html
-Argentina - First Division A 1965
-
+Competition: Liga Argentina de Football
+Season: 1965
+home-first
  
 
 *No. Team G W D L W D L W D L Gf Ga P
@@ -63,7 +64,7 @@ Date: 4/25/1965
 Zárate, Zarate, Raffo; Verón, Veron
 
 ; Rosario Central; 2-0; Platense
-Juárez, Borbogno
+Juárez, Borbogno;
 
 ; Independiente; 1-1; Boca Juniors
 M. Rodríguez; A.Rojas
@@ -189,8 +190,9 @@ Flores, Flores, Conigliaro; Luraschi
 ; Rosario Central; 2-0; Ferro Carril Oeste
 Juárez ,Bielli;
 
-; Independiente; 2-2; Racing Club [Suspended at 65']
+; Independiente; 2-2; Racing Club 
 Acevedo, Acevedo; Rulli, Cárdenas
+*[Suspended at 65']
 
 ; Vélez Sarsfield; 1-1; Lanús
 Recúpero; Acosta
@@ -852,7 +854,7 @@ Manfredi, Borgogno, Borgogno; Leeb
 Oliveri;
 
 ; Boca Juniors; 5-0; Lanús
-A.C.Rojas, A.C. Rojas, A.Rojas, A. Rojas, Menéndez
+A.C.Rojas, A.C. Rojas, A.Rojas, A. Rojas, Menéndez;
 
 ; Huracán; 0-2; Racing Club
 ; Pastoriza, Martinoli

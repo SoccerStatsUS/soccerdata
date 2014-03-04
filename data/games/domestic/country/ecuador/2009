@@ -1,8 +1,10 @@
 BlockSource: http://www.rsssf.com/tablese/ecua09.html
-Season: 2009 Apertura
+Season: 2009 
 Competition: Ecuadorian Serie A
 Transform: name-title
 
+Stage: 1
+*Apertura
 *Primera Etapa (First Stage)
 
 *To be played Feb 1-Jul 12 as double round robin (22 matches for all clubs)
@@ -563,7 +565,8 @@ Date: 7/12/2009
 *    top-2 qualify for Copa Sudamericana 2009
 
 
-Round: 2009 Clausura
+*Clausura
+Stage: 2
 
 *Segunda Etapa (Second Stage)
 *Played in 2 groups of 6, distributed by means of the final ranking 

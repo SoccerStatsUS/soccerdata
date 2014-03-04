@@ -1,7 +1,10 @@
 BlockSource: http://www.rsssf.com/tablese/ecua2010.html
-Season: 2010 Apertura
+Season: 2010 
 Competition: Ecuadorian Serie A
 Transform: name-title
+
+Stage: 1
+*Apertura
 
 *Primera Etapa (First Stage)
 * 1.Emelec                            22 14  4  4 37-22  46  Final, Sudamericana
@@ -550,7 +553,10 @@ Date: 7/4/2010
 *11.Universidad Católica              22  4  8 10 21-32  20
 *12.Macará                            22  3  9 10 22-34  18
 
-Season: 2010 Clausura
+Season: 2010 
+Stage: 2
+
+*Clausura
 *Segunda Etapa (Second Stage)
 
 * 1.LDU de Quito                      22 14  5  3 42-17  47  Final

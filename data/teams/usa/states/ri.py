@@ -37,6 +37,123 @@ l = [
         },
 
     {
+        'name': 'Olneyville Thorntons',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'South Providence Villas',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Thornton British Hosieries',
+        'city': 'Thornton, RI',
+        },
+
+
+    {
+        'name': 'River Point Clydes',
+        'city': 'River Point, RI',
+        },
+
+
+    {
+        'name': 'Pawtucket Lorraines',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
+        'name': 'Pawtucket Association',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
+        'name': 'Pawtucket Riversides',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
+        'name': 'Pawtucket Dexter Street Rovers',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
+        'name': 'Pawtucket Pine Street Rovers',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
+        'name': 'Pawtucket Free Wanderers',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
+        'name': 'Providence Conant Thread Company',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Providence Wanderers',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Providence Lorraines',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Thornton Worsted Mills',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Olneyville Olympics',
+        'city': 'Olneyville, RI',
+        },
+
+    {
+        'name': 'Olneyville Association',
+        'city': 'Olneyville, RI',
+        },
+
+    {
+        'name': 'Berkeley Association',
+        'city': 'Cumberland, RI',
+        },
+
+    {
+        'name': 'South Providence Association',
+        'city': 'Providence, RI',
+        },
+
+    {
+        'name': 'Cumberland Rangers',
+        'city': 'Cumberland, RI',
+        },
+
+    {
+        'name': 'Ashton Association',
+        'city': 'Cumberland, RI',
+        },
+
+    {
+        'name': 'Lincoln Rovers',
+        'city': 'Lincoln, RI',
+        },
+
+    {
+        'name': 'Lonsdale Association',
+        'city': 'Lonsdale, RI',
+        },
+
+    {
+        'name': 'Providence Invincibles',
+        'city': 'Providence, RI',
+        },
+
+    {
         'name': 'New England Sharks',
         'city': 'Providence, RI',
         'founded': 1981,

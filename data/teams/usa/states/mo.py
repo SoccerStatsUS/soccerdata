@@ -5,6 +5,106 @@ import datetime
 
 l = [
 
+    {
+        'name': 'St. Louis Thistles',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Athletica',
+        'city': 'St. Louis, MO',
+        'founded': 2008,
+        'dissolved': 2010,
+        },
+    {
+        'name': 'St. Louis West Ends',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'Kansas City YMCA',
+        'city': 'Kansas City, MO',
+        },
+
+    {
+        'name': 'St. Louis Montgomerys',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Clippers',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'Mound City Club',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Amateur AC',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Irish American AC',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Jacksons',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Westerns',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis AC',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Olympics',
+        'city': 'St. Louis, MO',
+        },
+
+
+
+    {
+        'name': 'St. Louis Emeralds',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Cycling Club',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Pastimes',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Kensingtons',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Shamrocks',
+        'city': 'St. Louis, MO',
+        },
+
+    {
+        'name': 'St. Louis Hibernians',
+        'city': 'St. Louis, MO',
+        },
+
+
+
     # division 1
 
     {

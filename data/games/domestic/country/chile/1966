@@ -21,7 +21,7 @@ Competition: Chilean Primera Division
 *17.Santiago Morning                      34  8  8 18  41-69  24    
 *18.Ferrobádminton                        34  8  7 19  45-78  23  Relegated 
 
-Round: Round 1
+Round: 1
 
 ; Magallanes             ; 3-1; Santiago Wanderers 
 ; Palestino                  ; 1-0; San Luis        
@@ -33,7 +33,7 @@ Round: Round 1
 ; Rangers                                        ; 2-2; O'Higgins
 ; Santiago Morning                               ; 1-1; Unión San Felipe 
 
-Round: Round 2
+Round: 2
 
 ; Ferrobádminton         ; 1-1; La Serena
 ; Universidad Catolica   ; 1-1; Audax Italiano                      
@@ -45,7 +45,7 @@ Round: Round 2
 ; O'Higgins         ; 3-2; Unión Calera
 ; Green Cross           ; 0-0; Unión Española
 
-Round: Round 3
+Round: 3
 
 ; Palestino              ; 1-1; Unión San Felipe             
 ; Universidad de Chile   ; 4-2; Magallanes                   
@@ -57,7 +57,7 @@ Round: Round 3
 ; Unión Calera                                ; 1-0; San Luis
 ; Rangers                                             ; 1-1; Santiago Wanderers
 
-Round: Round 4
+Round: 4
 
 ; Audax Italiano         ; 3-0; Magallanes  
 ; Universidad Catolica   ; 3-2; Santiago Morning
@@ -69,7 +69,7 @@ Round: Round 4
 ; Unión San Felipe               ; 1-0; Rangers
 ; O'Higgins                      ; 4-1; La Serena
 
-Round: Round 5
+Round: 5
 
 ; Magallanes             ; 1-0; Santiago Morning
 ; Palestino                  ; 3-2; Audax Italiano
@@ -81,7 +81,7 @@ Round: Round 5
 ; Universidad Catolica                               ; 2-1; Ferrobádminton
 ; Rangers                                                ; 1-1; Universidad de Chile
 
-Round: Round 6
+Round: 6
 
 ; Universidad de Chile   ; 1-1; Unión Calera
 ; Palestino     ; 4-0; Santiago Morning                     
@@ -93,7 +93,7 @@ Round: Round 6
 ; Unión San Felipe          ; 1-2; Everton
 ; O'Higgins                 ; 1-0; Green Cross
 
-Round: Round 7
+Round: 7
 
 ; Ferrobádminton         ; 2-2; O'Higgins
 ; Unión Española             ; 1-3; Santiago Wanderers               
@@ -105,7 +105,7 @@ Round: Round 7
 ; Rangers                                                ; 3-2; Santiago Morning
 ; Green Cross                                                ; 1-1; San Luis
 
-Round: Round 8
+Round: 8
 
 ; Magallanes             ; 2-2; Rangers
 ; Audax Italiano             ; 2-1; Everton
@@ -117,7 +117,7 @@ Round: Round 8
 ; Unión San Felipe           ; 0-2; Unión Española
 ; O'Higgins                  ; 0-0; Colo Colo
 
-Round: Round 9
+Round: 9
 
 ; Ferrobádminton         ; 3-4; Santiago Wanderers           
 ; Unión Española             ; 2-0; Universidad de Chile                    
@@ -129,7 +129,7 @@ Round: Round 9
 ; Rangers                                                ; 3-1; Palestino
 ; Green Cross                                                ; 3-2; Unión San Felipe
 
-Round: Round 10
+Round: 10
 
 ; Palestino              ; 3-2; Unión Calera
 ; Santiago Morning       ; 0-0; La Serena    
@@ -141,7 +141,7 @@ Round: Round 10
 ; San Luis                       ; 1-1; O'Higgins
 ; Rangers                                ; 2-0; Universidad Catolica
 
-Round: Round 11
+Round: 11
 
 ; Universidad de Chile   ; 2-0; Ferrobádminton
 ; Unión Española         ; 3-1; Santiago Morning
@@ -153,7 +153,7 @@ Round: Round 11
 ; O'Higgins                                      ; 0-0; Santiago Wanderers
 ; Green Cross                                        ; 1-1; Audax Italiano
 
-Round: Round 12
+Round: 12
 
 ; Ferrobádminton         ; 2-1; Audax Italiano                              
 ; Magallanes                 ; 2-1; Unión Española                                   
@@ -165,7 +165,7 @@ Round: Round 12
 ; Unión Calera                           ; 0-0; Universidad Catolica
 ; Rangers                                                ; 1-1; Everton
 
-Round: Round 13
+Round: 13
 
 ; Santiago Morning       ; 2-0; Ferrobádminton
 ; Unión Española             ; 3-1; Palestino       
@@ -177,7 +177,7 @@ Round: Round 13
 ; O'Higgins                                      ; 2-1; Universidad de Chile
 ; Green Cross                                        ; 2-0; Magallanes
 
-Round: Round 14
+Round: 14
 
 ; Universidad de Chile   ; 6-0; San Luis
 ; Palestino     ; 1-1; Green Cross
@@ -189,7 +189,7 @@ Round: Round 14
 ; Magallanes                                 ; 1-1; Ferrobádminton
 ; Rangers                                                ; 3-2; Unión Española
 
-Round: Round 15
+Round: 15
 
 ; Ferrobádminton         ; 2-2; Palestino
 ; Universidad Catolica   ; 4-0; Unión San Felipe
@@ -201,7 +201,7 @@ Round: Round 15
 ; O'Higgins                              ; 1-0; Santiago Morning
 ; Green Cross                                ; 3-3; Rangers
 
-Round: Round 16
+Round: 16
 
 ; Universidad de Chile   ; 8-1; Unión San Felipe    
 ; Audax Italiano         ; 0-4; Santiago Wanderers           
@@ -213,7 +213,7 @@ Round: Round 16
 ; Magallanes                                                   ; 2-0; O'Higgins
 ; Colo Colo                                                        ; 1-3; Palestino
 
-Round: Round 17
+Round: 17
 
 ; Ferrobádminton         ; 1-1; Unión Calera
 ; Unión Española             ; 0-1; La Serena       
@@ -225,7 +225,7 @@ Round: Round 17
 ; San Luis                               ; 0-0; Magallanes
 ; Universidad de Chile                   ; 1-1; Universidad Catolica
 
-Round: Round 18
+Round: 18
 
 ; Santiago Wanderers     ; 1-0; Magallanes
 ; San Luis               ; 2-1; Palestino    
@@ -237,7 +237,7 @@ Round: Round 18
 ; O'Higgins                                      ; 2-2; Rangers
 ; Unión San Felipe                               ; 7-0; Santiago Morning
 
-Round: Round 19
+Round: 19
 
 ; La Serena              ; 5-2; Ferrobádminton
 ; Audax Italiano             ; 2-2; Universidad Catolica                    
@@ -249,7 +249,7 @@ Round: Round 19
 ; Unión Calera                                            ; 2-0; O'Higgins
 ; Unión Española                                              ; 0-3; Green Cross
 
-Round: Round 20
+Round: 20
 
 ; Unión San Felipe       ; 2-1; Palestino            
 ; Magallanes                 ; 1-0; Universidad de Chile    
@@ -261,7 +261,7 @@ Round: Round 20
 ; San Luis                                           ; 0-1; Unión Calera
 ; Santiago Wanderers                                 ; 4-1; Rangers
 
-Round: Round 21
+Round: 21
 
 ; Magallanes             ; 2-2; Audax Italiano      
 ; Santiago Morning       ; 0-7; Universidad Catolica
@@ -273,7 +273,7 @@ Round: Round 21
 ; Rangers                                             ; 3-1; Unión San Felipe
 ; La Serena                                               ; 1-0; O'Higgins
 
-Round: Round 22
+Round: 22
 
 ; Santiago Morning       ; 0-3; Magallanes
 ; Audax Italiano             ; 0-0; Palestino
@@ -285,7 +285,7 @@ Round: Round 22
 ; Ferrobádminton                         ; 0-1; Universidad Catolica
 ; Universidad de Chile                   ; 6-2; Rangers
 
-Round: Round 23
+Round: 23
 
 ; Unión Calera           ; 2-3; Universidad de Chile
 ; Santiago Morning       ; 1-0; Palestino           
@@ -297,7 +297,7 @@ Round: Round 23
 ; Everton                                             ; 1-3; Unión San Felipe
 ; Green Cross                                             ; 4-1; O'Higgins
 
-Round: Round 24
+Round: 24
 
 ; O'Higgins              ; 2-1; Ferrobádminton
 ; Santiago Wanderers     ; 0-0; Unión Española               
@@ -309,7 +309,7 @@ Round: Round 24
 ; Santiago Morning               ; 1-2; Rangers
 ; San Luis                       ; 3-2; Green Cross
 
-Round: Round 25
+Round: 25
 
 ; Rangers                ; 0-1; Magallanes
 ; Everton                        ; 2-2; Audax Italiano
@@ -321,7 +321,7 @@ Round: Round 25
 ; Unión Española                                         ; 3-2; Unión San Felipe
 ; Colo Colo                                                  ; 1-2; O'Higgins
 
-Round: Round 26
+Round: 26
 
 ; Santiago Wanderers     ; 0-1; Ferrobádminton               
 ; Universidad de Chile   ; 3-2; Unión Española                              
@@ -333,7 +333,7 @@ Round: Round 26
 ; Palestino                     ; 2-1; Rangers
 ; Unión San Felipe              ; 6-3; Green Cross
 
-Round: Round 27
+Round: 27
 
 ; Unión Calera           ; 1-2; Palestino
 ; La Serena                  ; 0-0; Santiago Morning         
@@ -345,7 +345,7 @@ Round: Round 27
 ; O'Higgins                                                ; 0-0; San Luis
 ; Universidad Catolica                                     ; 4-1; Rangers
 
-Round: Round 28
+Round: 28
 
 ; Ferrobádminton         ; 0-3; Universidad de Chile
 ; Santiago Morning       ; 5-1; Unión Española
@@ -357,7 +357,7 @@ Round: Round 28
 ; Santiago Wanderers                     ; 1-1; O'Higgins
 ; Audax Italiano                             ; 2-3; Green Cross
 
-Round: Round 29
+Round: 29
 
 ; Audax Italiano         ; 0-0; Ferrobádminton                              
 ; Unión Española             ; 0-0; Magallanes                                       
@@ -369,7 +369,7 @@ Round: Round 29
 ; Universidad Catolica  ; 2-0; Unión Calera
 ; Everton                   ; 1-0; Rangers
 
-Round: Round 30
+Round: 30
 
 ; Ferrobádminton         ; 1-3; Santiago Morning
 ; Palestino                  ; 1-0; Unión Española  
@@ -381,7 +381,7 @@ Round: Round 30
 ; Universidad de Chile                   ; 6-1; O'Higgins
 ; Magallanes    ; 2-4; Green Cross
 
-Round: Round 31
+Round: 31
 
 ; San Luis               ; 1-1; Universidad de Chile
 ; Green Cross                ; 2-2; Palestino
@@ -393,7 +393,7 @@ Round: Round 31
 ; Ferrobádminton                     ; 4-1; Magallanes
 ; Unión Española                         ; 0-1; Rangers
 
-Round: Round 32
+Round: 32
 
 ; Palestino              ; 3-0; Ferrobádminton
 ; Unión San Felipe       ; 2-4; Universidad Catolica
@@ -405,7 +405,7 @@ Round: Round 32
 ; Santiago Morning                        ; 1-1; O'Higgins
 ; Rangers                                     ; 1-2; Green Cross
 
-Round: Round 33
+Round: 33
 
 ; Unión San Felipe       ; 1-2; Universidad de Chile        
 ; Santiago Wanderers     ; 1-0; Audax Italiano               
@@ -417,7 +417,7 @@ Round: Round 33
 ; O'Higgins                              ; 1-0; Magallanes
 ; Palestino                                  ; 1-2; Colo Colo
 
-Round: Round 34
+Round: 34
 
 ; Unión Calera           ; 1-1; Ferrobádminton
 ; La Serena                  ; 2-1; Unión Española  

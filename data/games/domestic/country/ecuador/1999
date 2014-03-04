@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablese/ecua99.html
-Season: 1999 Apertura
+Season: 1999 
+Competition: Ecuadorian Serie A
 
+Stage: Apertura
 
 * 1.El Nacional            22 12  8  2 34-13 44
 * 2.Emelec                 22 12  2  8 40-31 38
@@ -16,50 +18,76 @@ Season: 1999 Apertura
 *12.Audaz Octubrino        22  4  2 16 15-38 14
 
 Round: 1 
-[Mar 5]
+
+Date: 3/5/1999
+
 ; Emelec                ; 1-0;  Audaz Octubrino
-[Mar 6]
+
+Date: 3/6/1999
+
 ; Deportivo Cuenca      ; 3-2;  Espoli
-[Mar 7]
+
+Date: 3/7/1999
+
 ; Aucas                 ; 3-1;  Olmedo
 ; Macará                ; 0-0;  El Nacional
 ; Deportivo Quito       ; 1-2;  LDU
-[Mar 8]
+
+Date: 3/8/1999
+
 ; Delfín                ; 1-3;  Barcelona
 
 Round: 2 
-[Mar 14]
+
+Date: 3/14/1999
+
 ; El Nacional           ; 2-1;  Aucas
 ; Espoli                ; 2-0;  Macará
 ; LDU                   ; 4-0;  Delfín
 ; Audaz Octubrino       ; 1-2;  Deportivo Quito
 ; Olmedo                ; 2-0;  Emelec
-[Mar 15]
+
+Date: 3/15/1999
+
 ; Barcelona             ; 1-0;  Deportivo Cuenca
 
 Round: 3 
-[Mar 20]
+
+Date: 3/20/1999
+
 ; Emelec                ; 1-1;  El Nacional
-[Mar 21]
+
+Date: 3/21/1999
+
 ; Aucas                 ; 0-1;  Espoli
 ; Deportivo Cuenca      ; 1-0;  LDU
 ; Delfín                ; 3-1;  Audaz Octubrino
-[Mar 24]
+
+Date: 3/24/1999
+
 ; Deportivo Quito       ; 1-2;  Olmedo   
-[Apr 7]
+
+Date: 4/7/1999
+
 ; Macará                ; 1-0;  Barcelona 
 
 Round: 4 
-[Mar 27]
+
+Date: 3/27/1999
+
 ; El Nacional           ; 1-0;  Deportivo Cuenca
 ; Espoli                ; 1-1;  Deportivo Quito
 ; Audaz Octubrino       ; 2-1;  Macará
 ; Olmedo                ; 0-0;  Delfín
-[Mar 28]
+
+Date: 3/28/1999
+
 ; Barcelona             ; 2-1;  Aucas
 ; LDU                   ; 3-1;  Emelec
 
-Round: 5 [Mar 31]
+Round: 5 
+Date: 3/31/1999
+
 ; Emelec                ; 3-0;  Espoli
 ; Aucas                 ; 4-1;  Audaz Octubrino
 ; Deportivo Quito       ; 2-0;  Barcelona
@@ -68,37 +96,53 @@ Round: 5 [Mar 31]
 ; Macará                ; 1-1;  LDU
 
 Round: 6 
-[Apr 3]
+
+Date: 4/3/1999
+
 ; LDU                   ; 2-1;  Aucas
 ; Audaz Octubrino       ; 0-2;  Deportivo Cuenca
 ; Olmedo                ; 2-1;  Macará
-[Apr 4]
+
+Date: 4/4/1999
+
 ; Deportivo Quito       ; 2-2;  El Nacional
 ; Barcelona             ; 1-1;  Emelec
 ; Espoli                ; 4-1;  Delfín
 
 Round: 7 
-[Apr 9]
+
+Date: 4/9/1999
+
 ; Deportivo Cuenca      ; 1-0;  Aucas
-[Apr 10]
+
+Date: 4/10/1999
+
 ; Barcelona             ; 2-0;  Espoli
 ; El Nacional           ; 0-0;  Olmedo
-[Apr 11]
+
+Date: 4/11/1999
+
 ; LDU                   ; 2-1;  Audaz Octubrino
 ; Delfín                ; 1-0;  Deportivo Quito
 ; Macará                ; 1-0;  Emelec
 
 Round: 8 
-[Apr 17]
+
+Date: 4/17/1999
+
 ; El Nacional           ; 4-0;  LDU
-[Apr 18]
+
+Date: 4/18/1999
+
 ; Emelec                ; 4-2;  Delfín
 ; Deportivo Quito       ; 4-1;  Deportivo Cuenca
 ; Aucas                 ; 0-1;  Macará
 ; Audaz Octubrino       ; 2-1;  Espoli
 ; Olmedo                ; 1-2;  Barcelona
 
-Round: 9 [Apr 25]
+Round: 9 
+Date: 4/25/1999
+
 ; Barcelona             ; 2-1;  Audaz Octubrino
 ; Espoli                ; 1-2;  El Nacional
 ; LDU                   ; 3-0;  Olmedo
@@ -106,7 +150,9 @@ Round: 9 [Apr 25]
 ; Deportivo Cuenca      ; 1-4;  Emelec
 ; Macará                ; 2-2;  Delfín
 
-Round: 10 [Apr 28]
+Round: 10 
+Date: 4/28/1999
+
 ; Emelec                ; 2-1;  Deportivo Quito
 ; LDU                   ; 3-2;  Barcelona
 ; El Nacional           ; 1-1;  Audaz Octubrino
@@ -114,7 +160,9 @@ Round: 10 [Apr 28]
 ; Olmedo                ; 1-1;  Espoli
 ; Delfín                ; 3-0;  Aucas  
   
-Round: 11 [May 2]
+Round: 11 
+Date: 5/2/1999
+
 ; Barcelona             ; 0-1;  El Nacional
 ; Aucas                 ; 2-1;  Emelec 
 ; Espoli                ; 0-1;  LDU 
@@ -123,17 +171,25 @@ Round: 11 [May 2]
 ; Macará                ; 2-0;  Deportivo Quito
 
 Round: 12 
-[May 7]  
+
+Date: 5/7/1999
+
 ; Deportivo Cuenca      ; 4-1;  Delfín
-[May 8]  
+
+Date: 5/8/1999
+
 ; LDU                   ; 0-2;  Espoli 
 ; El Nacional           ; 4-0;  Barcelona 
-[May 9]
+
+Date: 5/9/1999
+
 ; Emelec                ; 3-0;  Aucas
 ; Olmedo                ; 1-0;  Audaz Octubrino  
 ; Deportivo Quito       ; 1-1;  Macará
 
-Round: 13 [May 16]
+Round: 13 
+Date: 5/16/1999
+
 ; Deportivo Quito       ; 4-2;  Emelec
 ; Barcelona             ; 2-2;  LDU 
 ; Audaz Octubrino       ; 1-0;  El Nacional
@@ -142,9 +198,13 @@ Round: 13 [May 16]
 ; Aucas                 ; 0-1;  Delfín
 
 Round: 14
-[May 22]
+
+Date: 5/22/1999
+
 ; El Nacional           ; 2-0;  Espoli
-[May 23]
+
+Date: 5/23/1999
+
 ; Audaz Octubrino       ; 0-1;  Barcelona
 ; Olmedo                ; 2-1;  LDU
 ; Aucas                 ; 2-2;  Deportivo Quito
@@ -152,17 +212,25 @@ Round: 14
 ; Delfín                ; 2-0;  Macará
 
 Round: 15 
-[May 28] 
+
+Date: 5/28/1999
+
 ; Deportivo Cuenca      ; 0-1;  Deportivo Quito
-[May 29] 
+
+Date: 5/29/1999
+
 ; Espoli                ; 4-0;  Audaz Octubrino
-[May 30] 
+
+Date: 5/30/1999
+
 ; Delfín                ; 2-1;  Emelec
 ; Macará                ; 3-2;  Aucas 
 ; LDU                   ; 0-3;  El Nacional
 ; Barcelona             ; 0-0;  Olmedo  
 
-Round: 16 [Jun 6]
+Round: 16 
+Date: 6/6/1999
+
 ; Espoli                ; 1-1;  Barcelona
 ; Olmedo                ; 1-1;  El Nacional
 ; Audaz Octubrino       ; 0-1;  LDU 
@@ -171,19 +239,27 @@ Round: 16 [Jun 6]
 ; Emelec                ; 3-1;  Macará 
  
 Round: 17
-[Jun 12]
+
+Date: 6/12/1999
+
 ; Emelec                ; 1-0;  Barcelona
 ; El Nacional           ; 2-1;  Deportivo Quito
-[Jun 13]
+
+Date: 6/13/1999
+
 ; Delfín                ; 2-0;  Espoli
 ; Aucas                 ; 0-1;  LDU
 ; Deportivo Cuenca      ; 2-0;  Audaz Octubrino
 ; Macará                ; 2-4;  Olmedo
 
 Round: 18 
-[Jul 24] 
+
+Date: 7/24/1999
+
 ; Espoli                ; 3-0;  Emelec 
-[Jul 25] 
+
+Date: 7/25/1999
+
 ; Audaz Octubrino       ; 0-0;  Aucas  
 ; Barcelona             ; 2-0;  Deportivo Quito
 ; Olmedo                ; 1-1;  Deportivo Cuenca
@@ -191,16 +267,22 @@ Round: 18
 ; LDU                   ; 1-2;  Macará
 
 Round: 19 
-[Jul 27] 
+
+Date: 7/27/1999
+
 ; Emelec                ; 2-1;  LDU 
 ; Deportivo Quito       ; 1-2;  Espoli
 ; Macará                ; 2-1;  Audaz Octubrino
-[Jul 28] 
+
+Date: 7/28/1999
+
 ; Aucas                 ; 3-0;  Barcelona
 ; Deportivo Cuenca      ; 0-0;  El Nacional
 ; Delfín                ; 1-1;  Olmedo 
   
-Round: 20 [Aug 1]
+Round: 20 
+Date: 8/1/1999
+
 ; El Nacional           ; 2-0;  Emelec 
 ; Olmedo                ; 2-2;  Deportivo Quito
 ; Espoli                ; 2-3;  Aucas 
@@ -209,17 +291,25 @@ Round: 20 [Aug 1]
 ; Barcelona             ; 2-0;  Macará
   
 Round: 21 
-[Aug 6]
+
+Date: 8/6/1999
+
 ; Deportivo Quito       ; 4-0;  Audaz Octubrino
-[Aug 7]  
+
+Date: 8/7/1999
+
 ; Emelec                ; 3-1;  Olmedo
-[Aug 8]  
+
+Date: 8/8/1999
+
 ; Aucas                 ; 2-1;  El Nacional
 ; Macará                ; 3-2;  Espoli
 ; Delfín                ; 2-1;  LDU 
 ; Deportivo Cuenca      ; 0-0;  Barcelona
   
-Round: 22 [Aug 15]
+Round: 22 
+Date: 8/15/1999
+
 ; Audaz Octubrino       ; 1-2;  Emelec 
 ; Espoli                ; 6-1;  Deportivo Cuenca
 ; Olmedo                ; 2-2;  Aucas  
@@ -248,6 +338,7 @@ Round: 22 [Aug 15]
 *    penalty point went to Deportivo Cuenca.
 
 
+Stage: Clausura
 *Second Stage
 
 *Group 1
@@ -266,7 +357,9 @@ Round: 22 [Aug 15]
 * 5.Aucas                  10  2  3  5 11- 9  9
 * 6.Deportivo (Cuenca)     10  2  3  5  8-12  9
 
-Round: 1 [Aug 22]
+Round: 1 
+Date: 8/22/1999
+
 ; Deportivo Cuenca      ; 0-0;  Aucas
 ; Macará                ; 3-1;  El Nacional
 ; LDU                   ; 1-0;  Olmedo 
@@ -275,38 +368,56 @@ Round: 1 [Aug 22]
 ; Delfín                ; 3-0;  Barcelona
  
 Round: 2
-[Aug 27] 
+
+Date: 8/27/1999
+
 ; LDU                   ; 4-1;  Espoli 
-[Aug 28] 
+
+Date: 8/28/1999
+
 ; Barcelona             ; 3-1;  Deportivo Quito 
 ; El Nacional           ; 4-1;  Delfín 
-[Aug 29] 
+
+Date: 8/29/1999
+
 ; Aucas                 ; 7-0;  Emelec 
 ; Olmedo                ; 2-2;  Deportivo Cuenca
 ; Audaz Octubrino       ; 2-0;  Macará 
  
 Round: 3  
-[Sep 3]  
+
+Date: 9/3/1999
+
 ; Deportivo Cuenca      ; 1-0;  LDU 
-[Sep 4]
+
+Date: 9/4/1999
+
 ; Espoli                ; 2-1;  Aucas  
-[Sep 5]  
+
+Date: 9/5/1999
+
 ; Emelec                ; 1-0;  Olmedo
 ; El Nacional           ; 1-1;  Barcelona
 ; Macará                ; 2-1;  Deportivo Quito
 ; Delfín                ; 2-1;  Audaz Octubrino
  
 Round: 4  
-[Sep 7]
+
+Date: 9/7/1999
+
 ; Audaz Octubrino       ; 1-0;  El Nacional
-[Sep 8]
+
+Date: 9/8/1999
+
 ; Barcelona             ; 3-0;  Macará
 ; Deportivo Quito       ; 3-0;  Delfín 
 ; LDU                   ; 2-1;  Emelec 
 ; Deportivo Cuenca      ; 0-2;  Espoli
 ; Olmedo                ; 1-0;  Aucas
 
-Round: 5 [Sep 12]
+Round: 5 
+Date: 9/12/1999
+
 ; Emelec                ; 4-1;  Deportivo Cuenca 
 ; El Nacional           ; 2-2;  Deportivo Quito
 ; Aucas                 ; 0-0;  LDU 
@@ -315,26 +426,36 @@ Round: 5 [Sep 12]
 ; Delfín                ; 2-1;  Macará
 
 Round: 6  
-[Sep 17] 
+
+Date: 9/17/1999
+
 ; Deportivo Cuenca      ; 3-0;  Emelec  
 ; LDU                   ; 1-0;  Aucas 
-[Sep 19] 
+
+Date: 9/19/1999
+
 ; Deportivo Quito       ; 3-0;  El Nacional
 ; Olmedo                ; 2-0;  Espoli
 ; Barcelona             ; 3-0;  Audaz Octubrino
 ; Macará                ; 2-1;  Delfín 
 
 Round: 7
-[Sep 21] 
+
+Date: 9/21/1999
+
 ; Emelec                ; 3-2;  LDU 
-[Sep 22] 
+
+Date: 9/22/1999
+
 ; Macará                ; 4-1;  Barcelona
 ; Delfín                ; 0-1;  Deportivo Quito
 ; Espoli                ; 1-0;  Deportivo Cuenca
 ; El Nacional           ; 4-0;  Audaz Octubrino
 ; Aucas                 ; 3-1;  Olmedo 
   
-Round: 8 [Sep 26]
+Round: 8 
+Date: 9/26/1999
+
 ; LDU                   ; 1-0;  Deportivo Cuenca
 ; Aucas                 ; 0-1;  Espoli
 ; Olmedo                ; 1-2;  Emelec
@@ -343,16 +464,22 @@ Round: 8 [Sep 26]
 ; Audaz Octubrino       ; 6-1;  Delfín
 
 Round: 9
-[Oct 1]  
+
+Date: 10/1/1999
+
 ; Deportivo Cuenca      ; 1-2;  Olmedo
-[Oct 3]  
+
+Date: 10/3/1999
+
 ; Espoli                ; 1-0;  LDU 
 ; Deportivo Quito       ; 2-0;  Barcelona
 ; Delfín                ; 3-1;  El Nacional
 ; Emelec                ; 3-0;  Aucas 
 ; Macará                ; 3-0;  Audaz Octubrino
 
-Round: 10 [Oct 9]
+Round: 10 
+Date: 10/9/1999
+
 ; Aucas                 ; 0-0;  Deportivo Cuenca
 ; El Nacional           ; 3-0;  Macará
 ; Olmedo                ; 1-1;  LDU
@@ -391,56 +518,80 @@ Round: 10 [Oct 9]
 *[bonus points between square brackets]
 
 Round: 1
-[Oct 17]
+
+Date: 10/17/1999
+
 ; LDU                   ; 0-1;  El Nacional
 ; Deportivo Quito       ; 2-2;  Emelec
 ; Barcelona             ; 2-1;  Espoli
 
-Round: 2 [Oct 24]
+Round: 2 
+Date: 10/24/1999
+
 ; Emelec                ; 0-1;  LDU
 ; El Nacional           ; 4-1;  Barcelona
 ; Deportivo Quito       ; 4-1;  Espoli
 
-Round: 3 [Oct 31]
+Round: 3 
+Date: 10/31/1999
+
 ; Espoli                ; 0-0;  El Nacional
 ; LDU                   ; 3-1;  Deportivo Quito
 ; Barcelona             ; 1-3;  Emelec
 
 Round: 4
-[Nov 3]
+
+Date: 11/3/1999
+
 ; Deportivo Quito       ; 1-0;  Barcelona
 ; LDU                   ; 3-2;  Espoli
-[Nov 5]
+
+Date: 11/5/1999
+
 ; Emelec                ; 1-0;  El Nacional
 
-Round: 5 [Nov 7]
+Round: 5 
+Date: 11/7/1999
+
 ; Espoli                ; 2-1;  Emelec
 ; El Nacional           ; 1-1;  Deportivo Quito
 ; Barcelona             ; 2-2;  LDU
 
-Round: 6 [Nov 14]
+Round: 6 
+Date: 11/14/1999
+
 ; Emelec                ; 2-0;  Espoli
 ; Deportivo Quito       ; 3-3;  El Nacional
 ; LDU                   ; 1-1;  Barcelona
 
 Round: 7
-[Nov 17]
+
+Date: 11/17/1999
+
 ; Espoli                ; 0-0;  LDU
 ; El Nacional           ; 1-0;  Emelec
-[Nov 19]
+
+Date: 11/19/1999
+
 ; Barcelona             ; 4-1;  Deportivo Quito
 
-Round: 8 [Nov 21]
+Round: 8 
+Date: 11/21/1999
+
 ; El Nacional           ; 1-1;  Espoli
 ; Deportivo Quito       ; 2-3;  LDU
 ; Emelec                ; 1-0;  Barcelona
 
-Round: 9 [Nov 28]
+Round: 9 
+Date: 11/28/1999
+
 ; LDU                   ; 2-0;  Emelec
 ; Barcelona             ; 1-1;  El Nacional
 ; Espoli                ; 0-1;  Deportivo Quito 
 
-Round: 10 [Dec 5]
+Round: 10 
+Date: 12/5/1999
+
 ; Espoli                ; 4-1;  Barcelona
 ; El Nacional           ; 2-0;  LDU   
 ; Emelec                ; 3-0;  Deportivo Quito
@@ -455,16 +606,20 @@ Round: 10 [Dec 5]
 *El Nacional and LDU Quito qualified for final.
 
 
-Championship Final
+*Championship Final
 
-First Leg [Dec 12]
-LDU Quito              1-0  El Nacional
-  [Eduardo Hurtado]
+*First Leg 
+Date: 12/12/1999
 
-Second Leg [Dec 19]
-El Nacional            1-3  LDU
+; LDU Quito             ; 1-0;  El Nacional
+Eduardo Hurtado;
 
-LDU Quito champions of Ecuador 1999.
+*Second Leg 
+Date: 12/19/1999
+
+; El Nacional           ; 1-3;  LDU
+
+*LDU Quito champions of Ecuador 1999.
 
 
 *No Descenso:
@@ -478,58 +633,84 @@ LDU Quito champions of Ecuador 1999.
 *[penalty points between square brackets]
 
 Round: 1
-[Oct 16]
+
+Date: 10/16/1999
+
 ; Deportivo Cuenca      ; 0-1;  Olmedo
-[Oct 17]
+
+Date: 10/17/1999
+
 ; Aucas                 ; 3-0;  Delfín
 ; Macará                ; 4-1;  Audaz Octubrino
 
-Round: 2 [Oct 24]
+Round: 2 
+Date: 10/24/1999
+
 ; Audaz Octubrino       ; 1-2;  Aucas
 ; Olmedo                ; 0-0;  Macará
 ; Delfín                ; 3-0;  Deportivo Cuenca
 
-Round: 3 [Oct 31]
+Round: 3 
+Date: 10/31/1999
+
 ; Aucas                 ; 2-1;  Olmedo
 ; Audaz Octubrino       ; 1-1;  Delfín
 ; Macará                ; 4-1;  Deportivo Cuenca
 
-Round: 4 [Nov 3]
+Round: 4 
+Date: 11/3/1999
+
 ; Deportivo Cuenca      ; 0-1;  Aucas
 ; Olmedo                ; 4-0;  Audaz Octubrino
 ; Delfín                ; 5-1;  Macará
 
-Round: 5 [Nov 7]
+Round: 5 
+Date: 11/7/1999
+
 ; Aucas                 ; 4-2;  Macará
 ; Audaz Octubrino       ; 0-1;  Deportivo Cuenca
 ; Olmedo                ; 1-0;  Delfín
 
 Round: 6
-[Nov 13]
+
+Date: 11/13/1999
+
 ; Macará                ; 1-1;  Aucas
-[Nov 14]
+
+Date: 11/14/1999
+
 ; Deportivo Cuenca      ; 1-0;  Audaz Octubrino
 ; Delfín                ; 2-1;  Olmedo
 
-Round: 7 [Nov 17]
+Round: 7 
+Date: 11/17/1999
+
 ; Aucas                 ; 3-3;  Deportivo Cuenca
 ; Audaz Octubrino       ; 0-2;  Olmedo
 ; Macará                ; 2-1;  Delfín
 
-Round: 8 [Nov 21]
+Round: 8 
+Date: 11/21/1999
+
 ; Olmedo                ; 1-1;  Aucas
 ; Delfín                ; 9-0;  Audaz Octubrino
 ; Deportivo Cuenca      ; 1-1;  Macará
 
-Round: 9 [Nov 28]
+Round: 9 
+Date: 11/28/1999
+
 ; Aucas                 ; 2-1;  Audaz Octubrino
 ; Macará                ; 1-1;  Olmedo
 ; Deportivo Cuenca      ; 1-0;  Delfín  
 
 Round: 10 
-[Dec 4]
+
+Date: 12/4/1999
+
 ; Olmedo                ; 1-2;  Deportivo Cuenca
-[Dec 5]
+
+Date: 12/5/1999
+
 ; Delfín                ; 2-1;  Aucas
 ; Audaz Octubrino       ; 0-3;  Macará
 

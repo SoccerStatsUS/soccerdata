@@ -5,6 +5,31 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Colorado City FBC',
+        'city': 'Colorado City, CO',
+        },
+
+    {
+        'name': 'Denver FBC',
+        'city': 'Denver, CO',
+        },
+
+    {
+        'name': 'Denver Association',
+        'city': 'Denver, CO',
+        },
+
+    {
+        'name': 'Denver Swifts',
+        'city': 'Denver, CO',
+        },
+
+    {
+        'name': 'Colorado Springs High School',
+        'city': 'Colorado Springs, CO',
+        },
+
     # women
 
     {

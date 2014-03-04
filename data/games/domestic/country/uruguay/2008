@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru09.html
 Competition: Uruguayan Primera Division
-Season: 2008-2009 Apertura
+Season: 2008-2009 
 home-first
+
+Stage: Apertura
 
 * 1.Danubio FC                    15 10  2  3  27-15  32  Playoff
 *   C Nacional dF                 15 10  2  3  23-13  32  Playoff
@@ -100,7 +102,7 @@ Date: 9/14/2008
   Julián Perujo 51, Julian Perujo 87, Víctor Guadalupe 89; Abel Hernández 77, Maximiliano Arias 80
          
 ; Racing           ; 4-0; Central Español 
-  Líber Quiñones 44, Jonathan Blanes 51pen, Sebastián Balsas 65, Juan Pablo Rodríguez Conde 87;
+  Líber Quiñones 44, Jonathan Blanes (pk) 51, Sebastián Balsas 65, Juan Pablo Rodríguez Conde 87;
 
 ; Defensor Sporting; 0-1; Liverpool    
 ;  Danilo Peinado 64
@@ -473,8 +475,10 @@ Date: 2/15/2009
 
 *NB: Nacional Apertura champions
 
-Season: 2008-2009 Clausura
+Season: 2008-2009 
 *Torneo Clausura 2008/09
+
+Stage: Clausura
 
 *NB: Villa Española excluded and relegated to the Segunda Divisional
 *    B Amateur for financial reasons

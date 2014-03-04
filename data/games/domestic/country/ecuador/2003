@@ -1,7 +1,12 @@
 BlockSource: http://www.rsssf.com/tablese/ecua03.html
-Season: 2003 Apertura
+
 Competition: Ecuadorian Serie A
 Transform: name-title
+
+
+Season: 2003 
+
+Stage: Apertura
 
 * 1.Barcelona              18 12  2  4 41-19 38
 * 2.LDU de Quito           18 10  6  2 37-24 36
@@ -393,7 +398,9 @@ Date: 6/22/2003
 *Top 3 Qualify to Liguilla Final with 3, 2, 1 bonus points
 *Bottom 2 in aggregate table relegated to Serie B
 
-Season: 2003 Finalizacion
+Season: 2003 
+
+Stage: Finalizacion
 
 * 1.LDU de Quito           18 10  4  4 31-15 34
 * 2.Barcelona              18  9  7  2 28-12 34
@@ -761,7 +768,9 @@ Date: 10/12/2003
 *Bottom 2 in aggregate table relegated to Serie B
 
 
-Season: 2003 Liguilla
+Season: 2003 
+
+Stage: Liguilla
 
 * 1.LDU de Quito           10  7  0  3 19-13 26  [5]  Champions
 * 2.Barcelona              10  6  0  4 19- 9 23  [5]  Libertadores 2004

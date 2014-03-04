@@ -20,9 +20,26 @@ l = [
         'capacity': 8000,
         'cost': 1200000,
         },
+
+    {
+        'name': 'Old Dominion Soccer Complex',
+        'location': 'Norfolk, VA',
+        'opened': 1990,
+        'capacity': 4000,
+        },
     {
         'name': 'George Mason Stadium',
         'location': 'Fairfax, VA',
+        },
+
+    {
+        'name': 'JMU Lacrosse/Soccer Complex',
+        'location': 'Harrisonburg, VA',
+        },
+
+    {
+        'name': 'Martin Family Stadium',
+        'location': 'Williamsburg, VA',
         },
 
     {

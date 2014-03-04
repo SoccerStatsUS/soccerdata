@@ -7,6 +7,13 @@ l = [
 
 
     {
+        'name': 'Portland Wonders',
+        'city': 'Portland, OR',
+        },
+
+    #D1
+
+    {
         'name': 'Portland Timbers',
         'founded': 1975,
         'city': 'Portland, OR',

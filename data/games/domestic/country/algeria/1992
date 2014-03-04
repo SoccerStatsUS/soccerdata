@@ -1,426 +1,406 @@
-http://www.rsssf.com/tablesa/alg93.html
+BlockSource: http://www.rsssf.com/tablesa/alg93.html
+Season: 1992-1993
 
-Algeria 1992/93
+* 1.MC Oran           30 15  8  7  43-27  38
+* 2.NA Hussein Dey    30 13 11  6  34-21  37
+* 3.JS Kabylie        30 12 13  5  37-17  37
+* 4.US Chaouia        30 13  9  8  35-27  35
+* 5.WA Mostaganem     30 11 12  7  30-24  34
+* 6.USM El Harrach    30 12  9  9  29-20  33
+* 7.MC Alger          30  7 15  8  25-25  29
+* 8.AS Ain M'lila     29  9 11  9  23-27  29 
+* 9.CR Belouizdad     30  9 10 11  32-25  28 [=CR Belcourt]
+*10.USM Blida         30  9 10 11  27-26  28
+*11.JS Bordj Menaiel  30 12  4 14  31-34  28
+*12.ES Setif          30 11  5 14  27-40  27
+*13.WA Tlemcen        30  9  8 13  34-35  26
+*-------------------------------------------
+*14.USM Annaba        29  6 12 11  11-36  24
+*15.ASM Oran          30  8  7 15  21-32  23
+*16.MO Constantine    30  8  6 16  20-43  22
+*
+*Relegated: USM Annaba, ASM Oran, MO Constantine.
+*Promoted: WA Boufarik, CA Batna, ESM Bel Abbes.
 
-Final Table:
+Round: 1 [Oct 29]
 
- 1.MC Oran           30 15  8  7  43-27  38
- 2.NA Hussein Dey    30 13 11  6  34-21  37
- 3.JS Kabylie        30 12 13  5  37-17  37
- 4.US Chaouia        30 13  9  8  35-27  35
- 5.WA Mostaganem     30 11 12  7  30-24  34
- 6.USM El Harrach    30 12  9  9  29-20  33
- 7.MC Alger          30  7 15  8  25-25  29
- 8.AS Ain M'lila     29  9 11  9  23-27  29 
- 9.CR Belouizdad     30  9 10 11  32-25  28 [=CR Belcourt]
-10.USM Blida         30  9 10 11  27-26  28
-11.JS Bordj Menaiel  30 12  4 14  31-34  28
-12.ES Setif          30 11  5 14  27-40  27
-13.WA Tlemcen        30  9  8 13  34-35  26
--------------------------------------------
-14.USM Annaba        29  6 12 11  11-36  24
-15.ASM Oran          30  8  7 15  21-32  23
-16.MO Constantine    30  8  6 16  20-43  22
+; MO Constantine         ; 2-0; USM Annaba        
+; WA Tlemcen                 ; 1-2; AS Ain M'lila     
+; JS Bordj Menaiel           ; 1-0; CR Belcourt    
+; MC Oran                                       ; 2-0; WA Mostaganem 
+; US Chaouia                                    ; 1-0; ASM Oran       
+; NA; Hussein-Dey;          0-0 JS Kabylie 
+; MC Alger                   ; 1-1; USM Blida
+; ES Setif                       ; 0-0; USM El Harrach 
 
-Relegated: USM Annaba, ASM Oran, MO Constantine.
-Promoted: WA Boufarik, CA Batna, ESM Bel Abbes.
+Round: 2 [Nov 5]
 
-Round 1 [Oct 29]
-=======
-MO Constantine          2-0 USM Annaba        
-WA Tlemcen                  1-2 AS Ain M'lila     
-JS Bordj Menaiel            1-0 CR Belcourt    
-MC Oran                                        2-0 WA Mostaganem 
-US Chaouia                                     1-0 ASM Oran       
-NA Hussein-Dey          0-0 JS Kabylie 
-MC Alger                    1-1 USM Blida
-ES Setif                        0-0 USM El Harrach 
+; MO Constantine         ; 2-2; US Chaouia
+; USM Blida                  ; 1-0; USM El Harrach
+; JS Kabylie                     ; 1-1; MC Alger
+; ASM Oran                           ; 4-1; ES Setif
+; WA Mostaganem                          ; 1-1; NA Hussein-Dey
+; CR Belcourt                                ; 3-0; MC Oran
+; AS Ain M'lila                                  ; 2-0; JS Bordj Menaiel
+; USM Annaba                                         ; 0-0; WA Tlemcen
 
-Round 2 [Nov 5]
-=======
-MO Constantine          2-2 US Chaouia
-USM Blida                   1-0 USM El Harrach
-JS Kabylie                      1-1 MC Alger
-ASM Oran                            4-1 ES Setif
-WA Mostaganem                           1-1 NA Hussein-Dey
-CR Belcourt                                 3-0 MC Oran
-AS Ain M'lila                                   2-0 JS Bordj Menaiel
-USM Annaba                                          0-0 WA Tlemcen
+Round: 3 [Nov 12]
 
-Round 3 [Nov 12]
-=======
-USM El Harrach          1-0 JS Kabylie
-WA Tlemcen                  1-0 MO Constantine
-JS Bordj Menaiel            4-0 USM Annaba
-MC Oran                         4-0 AS Ain M'lila
-US Chaouia                          2-1 WA Mostaganem
-NA Hussein-Dey                          1-0 CR Belcourt
-MC Alger                                    0-1 ASM Oran
-ES Setif                                        2-1 USM Blida
+; USM El Harrach         ; 1-0; JS Kabylie
+; WA Tlemcen                 ; 1-0; MO Constantine
+; JS Bordj Menaiel           ; 4-0; USM Annaba
+; MC Oran                        ; 4-0; AS Ain M'lila
+; US Chaouia                         ; 2-1; WA Mostaganem
+; NA; Hussein-Dey;                          1-0 CR Belcourt
+; MC Alger                                   ; 0-1; ASM Oran
+; ES Setif                                       ; 2-1; USM Blida
 
-Round 4 [Nov 19]
-=======
-MO Constantine          0-3 JS Bordj Menaiel
-WA Tlemcen                  1-0 US Chaouia
-JS Kabylie                      1-0 USM Blida
-ASM Oran                            1-1 USM El Harrach
-WA Mostaganem                           1-1 MC Alger
-CR Belcourt                                 3-1 ES Setif
-AS Ain M'lila                                   1-0 NA Hussein-Dey
-USM Annaba                                          0-0 MC Oran
+Round: 4 [Nov 19]
 
-Round 5 [Nov 30]
-=======
-USM El Harrach          0-1 WA Mostaganem
-USM Blida                   1-1 ASM Oran
-JS Bordj Menaiel            1-0 WA Tlemcen
-MC Oran                         1-1 MO Constantine
-US Chaouia                          2-0 AS Ain M'lila
-NA Hussein-Dey                          0-0 USM Annaba
-MC Alger                                    0-0 CR Belcourt
-ES Setif                                        0-3 JS Kabylie
+; MO Constantine         ; 0-3; JS Bordj Menaiel
+; WA Tlemcen                 ; 1-0; US Chaouia
+; JS Kabylie                     ; 1-0; USM Blida
+; ASM Oran                           ; 1-1; USM El Harrach
+; WA Mostaganem                          ; 1-1; MC Alger
+; CR Belcourt                                ; 3-1; ES Setif
+; AS Ain M'lila                                  ; 1-0; NA Hussein-Dey
+; USM Annaba                                         ; 0-0; MC Oran
 
-Round 6 [Dec 3]
-=======
-MO Constantine          1-1 NA Hussein-Dey
-WA Tlemcen                  0-2 MC Oran
-JS Bordj Menaiel            1-0 MC Alger
-ASM Oran                    1-1 JS Kabylie
-WA Mostaganem                   3-1 USM Blida
-CR Belcourt                         1-1 USM El Harrach
-AS Ain M'lila                           3-1 ES Setif
-USM Annaba                                  0-0 US Chaouia
+Round: 5 [Nov 30]
 
-Round 7 [Dec 11]
-=======
-USM El Harrach          2-0 MO Constantine
-USM Blida                   2-2 WA Tlemcen
-JS Kabylie                      2-2 WA Mostaganem
-MC Oran                                4-1 JS Bordj Menaiel
-US Chaouia                                 1-0 CR Belcourt
-NA Hussein-Dey                                 2-0 ASM Oran
-MC Alger                                           1-1 AS Ain M'lila
-ES Setif                                               0-0 USM Annaba
+; USM El Harrach         ; 0-1; WA Mostaganem
+; USM Blida                  ; 1-1; ASM Oran
+; JS Bordj Menaiel           ; 1-0; WA Tlemcen
+; MC Oran                        ; 1-1; MO Constantine
+; US Chaouia                         ; 2-0; AS Ain M'lila
+; NA; Hussein-Dey;                          0-0 USM Annaba
+; MC Alger                                   ; 0-0; CR Belcourt
+; ES Setif                                       ; 0-3; JS Kabylie
 
-Round 8
-=======
-MO Constantine          1-0 ES Setif
-WA Tlemcen                  1-1 NA Hussein-Dey 
-JS Bordj Menaiel            3-1 US Chaouia
-MC Oran                         0-0 MC Alger
-WA Mostaganem                       1-0 ASM Oran
-CR Belcourt                             2-0 JS Kabylie
-AS Ain M'lila                               0-0 USM Blida
-USM Annaba                                      1-1 USM El Harrach
+Round: 6 [Dec 3]
 
-Round 9
-=======
-USM El Harrach          0-0 AS Ain M'lila
-USM Blida                   0-0 USM Annaba
-JS Kabylie                      2-0 MO Constantine
-ASM Oran                            2-0 CR Belcourt
-US Chaouia                              2-0 MC Oran
-NA Hussein-Dey                              4-0 JS Bordj Menaiel
-MC Alger                                        2-1 WA Tlemcen
-ES Setif                                            0-0 WA Mostaganem
+; MO Constantine         ; 1-1; NA Hussein-Dey
+; WA Tlemcen                 ; 0-2; MC Oran
+; JS Bordj Menaiel           ; 1-0; MC Alger
+; ASM Oran                   ; 1-1; JS Kabylie
+; WA Mostaganem                  ; 3-1; USM Blida
+; CR Belcourt                        ; 1-1; USM El Harrach
+; AS Ain M'lila                          ; 3-1; ES Setif
+; USM Annaba                                 ; 0-0; US Chaouia
 
-Round 10
-========
-MO Constantine          0-0 USM Blida
-WA Tlemcen                  1-0 USM El Harrach 
-JS Bordj Menaiel            0-1 ES Setif
-MC Oran                     1-1 NA Hussein-Dey
-US Chaouia                      1-0 MC Alger
-CR Belcourt                         1-1 WA Mostaganem
-AS Ain M'lila                           4-0 ASM Oran
-USM Annaba                                  0-0 JS Kabylie
+Round: 7 [Dec 11]
 
-Round 11
-========
-USM El Harrach          1-0 JS Bordj Menaiel
-USM Blida                   0-0 CR Belcourt
-JS Kabylie                      2-0 AS Ain M'lila
-ASM Oran                            2-1 MC Oran
-WA Mostaganem                           1-0 MO Constantine
-NA Hussein-Dey                              2-1 US Chaouia
-MC Alger                                        0-0 USM Annaba
-ES Setif                                            1-0 WA Tlemcen
+; USM El Harrach         ; 2-0; MO Constantine
+; USM Blida                  ; 2-2; WA Tlemcen
+; JS Kabylie                     ; 2-2; WA Mostaganem
+; MC Oran                               ; 4-1; JS Bordj Menaiel
+; US Chaouia                                ; 1-0; CR Belcourt
+; NA; Hussein-Dey;                                 2-0 ASM Oran
+; MC Alger                                          ; 1-1; AS Ain M'lila
+; ES Setif                                              ; 0-0; USM Annaba
 
-Round 12
-========
-MO Constantine          1-0 ASM Oran
-WA Tlemcen                  2-1 JS Kabylie 
-JS Bordj Menaiel            0-0 USM Blida
-MC Oran                     2-1 USM El Harrach
-US Chaouia                      1-0 ES Setif
-NA Hussein-Dey                  1-1 MC Alger
-AS Ain M'lila                       1-0 CR Belcourt
-USM Annaba                              2-1 WA Mostaganem
+Round: 8
 
-Round 13
-========
-USM El Harrach          1-0 US Chaouia
-USM Blida                   2-3 MC Oran
-JS Kabylie                      1-0 JS Bordj Menaiel
-ASM Oran                            1-0 WA Tlemcen
-WA Mostaganem                           2-0 AS Ain M'lila
-CR Belcourt                                 3-0 USM Annaba
-MC Alger                                        2-1 MO Constantine
-ES Setif                                            2-1 NA Hussein-Dey
+; MO Constantine         ; 1-0; ES Setif
+; WA Tlemcen                 ; 1-1; NA Hussein-Dey 
+; JS Bordj Menaiel           ; 3-1; US Chaouia
+; MC Oran                        ; 0-0; MC Alger
+; WA Mostaganem                      ; 1-0; ASM Oran
+; CR Belcourt                            ; 2-0; JS Kabylie
+; AS Ain M'lila                              ; 0-0; USM Blida
+; USM Annaba                                     ; 1-1; USM El Harrach
 
-Round 14
-========
-MO Constantine          1-0 CR Belcourt
-WA Tlemcen                  1-3 WA Mostaganem 
-JS Bordj Menaiel            1-0 ASM Oran
-MC Oran                     2-1 JS Kabylie
-US Chaouia                      2-1 USM Blida
-NA Hussein-Dey                  1-4 USM El Harrach
-MC Alger                            2-3 ES Setif
-USM Annaba                              1-1 AS Ain M'lila
+Round: 9
 
-Round 15
-========
-USM El Harrach          2-1 MC Alger
-USM Blida                   2-1 NA Hussein-Dey
-JS Kabylie                      1-1 US Chaouia
-ASM Oran                            0-0 USM Annab
-WA Mostaganem                           0-1 JS Bordj Menaiela
-CR Belcourt                                 2-1 WA Tlemcen
-AS Ain M'lila                                   0-0 MO Constantine
-ES Setif                                            0-0 MC Oran
+; USM El Harrach         ; 0-0; AS Ain M'lila
+; USM Blida                  ; 0-0; USM Annaba
+; JS Kabylie                     ; 2-0; MO Constantine
+; ASM Oran                           ; 2-0; CR Belcourt
+; US Chaouia                             ; 2-0; MC Oran
+; NA; Hussein-Dey;                              4-0 JS Bordj Menaiel
+; MC Alger                                       ; 2-1; WA Tlemcen
+; ES Setif                                           ; 0-0; WA Mostaganem
 
-Round 16
-========
-USM Annaba              1-0 MO Constantine        
-AS Ain M'lila           2-2 WA Tlemcen     
-CR Belcourt                 3-1 JS Bordj Menaiel   
-WA Mostaganem                   2-2 MC Oran
-ASM Oran                        0-0 US Chaouia       
-JS Kabylie                      2-0 NA Hussein-Dey
-USM Blida                           0-0 MC Alger
-USM El Harrach                      2-2 ES Setif
+Round: 10
+
+; MO Constantine         ; 0-0; USM Blida
+; WA Tlemcen                 ; 1-0; USM El Harrach 
+; JS Bordj Menaiel           ; 0-1; ES Setif
+; MC Oran                    ; 1-1; NA Hussein-Dey
+; US Chaouia                     ; 1-0; MC Alger
+; CR Belcourt                        ; 1-1; WA Mostaganem
+; AS Ain M'lila                          ; 4-0; ASM Oran
+; USM Annaba                                 ; 0-0; JS Kabylie
+
+Round: 11
+
+; USM El Harrach         ; 1-0; JS Bordj Menaiel
+; USM Blida                  ; 0-0; CR Belcourt
+; JS Kabylie                     ; 2-0; AS Ain M'lila
+; ASM Oran                           ; 2-1; MC Oran
+; WA Mostaganem                          ; 1-0; MO Constantine
+; NA; Hussein-Dey;                              2-1 US Chaouia
+; MC Alger                                       ; 0-0; USM Annaba
+; ES Setif                                           ; 1-0; WA Tlemcen
+
+Round: 12
+
+; MO Constantine         ; 1-0; ASM Oran
+; WA Tlemcen                 ; 2-1; JS Kabylie 
+; JS Bordj Menaiel           ; 0-0; USM Blida
+; MC Oran                    ; 2-1; USM El Harrach
+; US Chaouia                     ; 1-0; ES Setif
+; NA; Hussein-Dey;                  1-1 MC Alger
+; AS Ain M'lila                      ; 1-0; CR Belcourt
+; USM Annaba                             ; 2-1; WA Mostaganem
+
+Round: 13
+
+; USM El Harrach         ; 1-0; US Chaouia
+; USM Blida                  ; 2-3; MC Oran
+; JS Kabylie                     ; 1-0; JS Bordj Menaiel
+; ASM Oran                           ; 1-0; WA Tlemcen
+; WA Mostaganem                          ; 2-0; AS Ain M'lila
+; CR Belcourt                                ; 3-0; USM Annaba
+; MC Alger                                       ; 2-1; MO Constantine
+; ES Setif                                           ; 2-1; NA Hussein-Dey
+
+Round: 14
+
+; MO Constantine         ; 1-0; CR Belcourt
+; WA Tlemcen                 ; 1-3; WA Mostaganem 
+; JS Bordj Menaiel           ; 1-0; ASM Oran
+; MC Oran                    ; 2-1; JS Kabylie
+; US Chaouia                     ; 2-1; USM Blida
+; NA; Hussein-Dey;                  1-4 USM El Harrach
+; MC Alger                           ; 2-3; ES Setif
+; USM Annaba                             ; 1-1; AS Ain M'lila
+
+Round: 15
+
+; USM El Harrach         ; 2-1; MC Alger
+; USM Blida                  ; 2-1; NA Hussein-Dey
+; JS Kabylie                     ; 1-1; US Chaouia
+; ASM Oran                           ; 0-0; USM Annab
+; WA Mostaganem                          ; 0-1; JS Bordj Menaiela
+; CR Belcourt                                ; 2-1; WA Tlemcen
+; AS Ain M'lila                                  ; 0-0; MO Constantine
+; ES Setif                                           ; 0-0; MC Oran
+
+Round: 16
+
+; USM Annaba             ; 1-0; MO Constantine        
+; AS Ain M'lila          ; 2-2; WA Tlemcen     
+; CR Belcourt                ; 3-1; JS Bordj Menaiel   
+; WA Mostaganem                  ; 2-2; MC Oran
+; ASM Oran                       ; 0-0; US Chaouia       
+; JS Kabylie                     ; 2-0; NA Hussein-Dey
+; USM Blida                          ; 0-0; MC Alger
+; USM El Harrach                     ; 2-2; ES Setif
  
-Round 17
-========
-US Chaouia              4-0 MO Constantine
-USM El Harrach              2-0 USM Blida
-MC Alger                        0-0 JS Kabylie
-ES Setif                            3-1 ASM Oran
-NA Hussein-Dey                          1-0 WA Mostaganem
-MC Oran                                        3-1 CR Belcourt
-JS Bordj Menaiel                               2-1 AS Ain M'lila
-WA Tlemcen                                         5-0 USM Annaba
+Round: 17
 
-Round 18 
-========
-JS Kabylie              1-1 USM El Harrach
-MO Constantine              3-2 WA Tlemcen
-USM Annaba                      1-0 JS Bordj Menaiel
-AS Ain M'lila                       0-0 MC Oran
-WA Mostaganem                           0-0 US Chaouia
-CR Belcourt                                 0-1 NA Hussein-Dey
-ASM Oran                                        0-2 MC Alger
-USM Blida                                           2-0 ES Setif
+; US Chaouia             ; 4-0; MO Constantine
+; USM El Harrach             ; 2-0; USM Blida
+; MC Alger                       ; 0-0; JS Kabylie
+; ES Setif                           ; 3-1; ASM Oran
+; NA; Hussein-Dey;                          1-0 WA Mostaganem
+; MC Oran                                       ; 3-1; CR Belcourt
+; JS Bordj Menaiel                              ; 2-1; AS Ain M'lila
+; WA Tlemcen                                        ; 5-0; USM Annaba
 
-Round 19 
-========
-JS Bordj Menaiel        3-1 MO Constantine
-US Chaouia                  2-1 WA Tlemcen
-USM Blida                       1-0 JS Kabylie
-USM El Harrach                      1-0 ASM Oran
-MC Alger                                2-0 WA Mostaganem
-ES Setif                                    1-0 CR Belcourt
-NA Hussein-Dey                                  0-0 AS Ain M'lila
-MC Oran                                                2-1 USM Annaba
+Round: 18 
 
-Round 20 
-========
-WA Mostaganem           1-0 USM El Harrach
-ASM Oran                    0-2 USM Blida
-WA Tlemcen                      2-1 JS Bordj Menaiel
-MO Constantine                      1-1 MC Oran
-AS Ain M'lila                           2-1 US Chaouia
-USM Annaba                                  0-1 NA Hussein-Dey
-CR Belcourt                                     1-0 MC Alger
-JS Kabylie                                          2-0 ES Setif
+; JS Kabylie             ; 1-1; USM El Harrach
+; MO Constantine             ; 3-2; WA Tlemcen
+; USM Annaba                     ; 1-0; JS Bordj Menaiel
+; AS Ain M'lila                      ; 0-0; MC Oran
+; WA Mostaganem                          ; 0-0; US Chaouia
+; CR Belcourt                                ; 0-1; NA Hussein-Dey
+; ASM Oran                                       ; 0-2; MC Alger
+; USM Blida                                          ; 2-0; ES Setif
 
-Round 21 
-========
-NA Hussein-Dey          3-0 MO Constantine
-MC Oran                        0-0 WA Tlemcen
-MC Alger                           1-0 JS Bordj Menaiel
-JS Kabylie                             1-0 ASM Oran
-USM Blida                                  2-0 WA Mostaganem
-USM El Harrach                                 1-1 CR Belcourt
-ES Setif                                           2-1 AS Ain M'lila
-US Chaouia                                             3-0 USM Annaba
+Round: 19 
 
-Round 22
-========
-MO Constantine          1-0 USM El Harrach
-WA Tlemcen                  1-0 USM Blida
-WA Mostaganem                   0-0 JS Kabylie
-JS Bordj Menaiel                1-0 MC Oran
-CR Belcourt                         1-1 US Chaouia
-ASM Oran                                0-2 NA Hussein-Dey
-AS Ain M'lila                               0-0 MC Alger
-USM Annaba                                      1-0 ES Setif 
+; JS Bordj Menaiel       ; 3-1; MO Constantine
+; US Chaouia                 ; 2-1; WA Tlemcen
+; USM Blida                      ; 1-0; JS Kabylie
+; USM El Harrach                     ; 1-0; ASM Oran
+; MC Alger                               ; 2-0; WA Mostaganem
+; ES Setif                                   ; 1-0; CR Belcourt
+; NA; Hussein-Dey;                                  0-0 AS Ain M'lila
+; MC Oran                                               ; 2-1; USM Annaba
 
-Round 23
-========
-ES Setif                3-0 MO Constantine
-NA Hussein-Dey              1-0  WA Tlemcen
-US Chaouia                       3-1 JS Bordj Menaiel
-MC Alger                             2-1 MC Oran
-ASM Oran                                 0-1 WA Mostaganem
-JS Kabylie                                   1-0 CR Belcourt
-USM Blida                                        0-1 AS Ain M'lila
-USM El Harrach                                       1-0 USM Annaba
+Round: 20 
 
-Round 24
-========
-AS Ain M'lila           1-0 USM El Harrach
-USM Annaba                  1-0 USM Blida
-MO Constantine                  0-0 JS Kabylie
-CR Belcourt                         1-1 ASM Oran
-MC Oran                                     2-1 US Chaouia
-JS Bordj Menaiel                            1-1 NA Hussein-Dey
-WA Tlemcen                                      0-0 MC Alger
-WA Mostaganem                                       2-0 ES Setif
+; WA Mostaganem          ; 1-0; USM El Harrach
+; ASM Oran                   ; 0-2; USM Blida
+; WA Tlemcen                     ; 2-1; JS Bordj Menaiel
+; MO Constantine                     ; 1-1; MC Oran
+; AS Ain M'lila                          ; 2-1; US Chaouia
+; USM Annaba                                 ; 0-1; NA Hussein-Dey
+; CR Belcourt                                    ; 1-0; MC Alger
+; JS Kabylie                                         ; 2-0; ES Setif
 
-Round 25
-========
-USM Blida               1-0 MO Constantine
-USM El Harrach              3-1 WA Tlemcen
-ES Setif                        1-0 JS Bordj Menaiel
-NA Hussein-Dey                      2-3 MC Oran
-MC Alger                                1-1 US Chaouia
-WA Mostaganem                               2-1 CR Belcourt
-ASM Oran                                        1-0 AS Ain M'lila
-JS Kabylie                                          5-0 USM Annaba
+Round: 21 
 
-Round 26
-========
-JS Bordj Menaiel        2-1 USM El Harrach
-CR Belcourt                 1-1 USM Blida
-AS Ain M'lila                   1-1 JS Kabylie
-MC Oran                                1-0 ASM Oran
-MO Constantine                             0-2 WA Mostaganem
-US Chaouia                                     0-0 NA Hussein-Dey
-USM Annaba                                         0-5 MC Alger
-WA Tlemcen                                             4-1 ES Setif
+; NA; Hussein-Dey;          3-0 MO Constantine
+; MC Oran                       ; 0-0; WA Tlemcen
+; MC Alger                          ; 1-0; JS Bordj Menaiel
+; JS Kabylie                            ; 1-0; ASM Oran
+; USM Blida                                 ; 2-0; WA Mostaganem
+; USM El Harrach                                ; 1-1; CR Belcourt
+; ES Setif                                          ; 2-1; AS Ain M'lila
+; US Chaouia                                            ; 3-0; USM Annaba
 
-Round 27
-========
-ASM Oran                2-0 MO Constantine
-JS Kabylie                  4-1 WA Tlemcen
-USM Blida                       2-1 JS Bordj Menaiel
-USM El Harrach                      2-1 MC Oran 
-ES Setif                                4-1 US Chaouia
-MC Alger                                    0-0 NA Hussein-Dey
-CR Belcourt                                     1-1 AS Ain M'lila
-WA Mostaganem                                       0-0 USM Annaba
+Round: 22
 
-Round 28
-========
-US Chaouia              1-0 USM El Harrach
-MC Oran                         2-1 USM Blida
-JS Bordj Menaiel                0-0 JS Kabylie
-WA Tlemcen                          1-1 ASM Oran
-AS Ain M'lila                           0-0 WA Mostaganem
-USM Annaba                                  0-1 CR Belcourt
-MO Constantine                                  3-2 MC Alger
-NA Hussein-Dey                                      1-0 ES Setif
+; MO Constantine         ; 1-0; USM El Harrach
+; WA Tlemcen                 ; 1-0; USM Blida
+; WA Mostaganem                  ; 0-0; JS Kabylie
+; JS Bordj Menaiel               ; 1-0; MC Oran
+; CR Belcourt                        ; 1-1; US Chaouia
+; ASM Oran                               ; 0-2; NA Hussein-Dey
+; AS Ain M'lila                              ; 0-0; MC Alger
+; USM Annaba                                     ; 1-0; ES Setif 
 
-Round 29
-========
-CR Belcourt             4-0 MO Constantine
-WA Mostaganem               0-0 WA Tlemcen
-ASM Oran                        1-0 JS Bordj Menaiel
-JS Kabylie                          3-0 MC Oran
-USM Blida                               2-0 US Chaouia
-USM El Harrach                          0-0 NA Hussein-Dey
-ES Setif                                    0-0 MC Alger
-AS Ain M'lila                                    -  USM Annaba          [not played ?]
+Round: 23
 
-Round 30
-========
-MC Alger                0-0 USM El Harrach
-NA Hussein-Dey              2-1 USM Blida
-US Chaouia                      1-0 JS Kabylie
-USM Annaba                          2-1 ASM Oran        
-JS Bordj Menaiel                    2-2 WA Mostaganem
-WA Tlemcen                              1-1 CR Belcourt
-MO Constantine                              1-0 AS Ain M'lila
-MC Oran                                            3-0 ES Setif
+; ES Setif               ; 3-0; MO Constantine
+; NA; Hussein-Dey;              1-0  WA Tlemcen
+; US Chaouia                      ; 3-1; JS Bordj Menaiel
+; MC Alger                            ; 2-1; MC Oran
+; ASM Oran                                ; 0-1; WA Mostaganem
+; JS Kabylie                                  ; 1-0; CR Belcourt
+; USM Blida                                       ; 0-1; AS Ain M'lila
+; USM El Harrach                                      ; 1-0; USM Annaba
 
-Final Table:
+Round: 24
 
- 1.MC Oran           30 15  8  7  43-27  38
- 2.NA Hussein Dey    30 13 11  6  34-21  37
- 3.JS Kabylie        30 12 13  5  37-17  37
- 4.US Chaouia        30 13  9  8  35-27  35
- 5.WA Mostaganem     30 11 12  7  30-24  34
- 6.USM El Harrach    30 12  9  9  29-20  33
- 7.MC Alger          30  7 15  8  25-25  29
- 8.AS Ain M'lila     29  9 11  9  23-27  29 
- 9.CR Belouizdad     30  9 10 11  32-25  28 [=CR Belcourt]
-10.USM Blida         30  9 10 11  27-26  28
-11.JS Bordj Menaiel  30 12  4 14  31-34  28
-12.ES Setif          30 11  5 14  27-40  27
-13.WA Tlemcen        30  9  8 13  34-35  26
--------------------------------------------
-14.USM Annaba        29  6 12 11  11-36  24
-15.ASM Oran          30  8  7 15  21-32  23
-16.MO Constantine    30  8  6 16  20-43  22
+; AS Ain M'lila          ; 1-0; USM El Harrach
+; USM Annaba                 ; 1-0; USM Blida
+; MO Constantine                 ; 0-0; JS Kabylie
+; CR Belcourt                        ; 1-1; ASM Oran
+; MC Oran                                    ; 2-1; US Chaouia
+; JS Bordj Menaiel                           ; 1-1; NA Hussein-Dey
+; WA Tlemcen                                     ; 0-0; MC Alger
+; WA Mostaganem                                      ; 2-0; ES Setif
 
-Relegated: USM Annaba, ASM Oran, MO Constantine.
-Promoted: WA Boufarik, CA Batna, ESM Bel Abbes.
+Round: 25
+
+; USM Blida              ; 1-0; MO Constantine
+; USM El Harrach             ; 3-1; WA Tlemcen
+; ES Setif                       ; 1-0; JS Bordj Menaiel
+; NA; Hussein-Dey;                      2-3 MC Oran
+; MC Alger                               ; 1-1; US Chaouia
+; WA Mostaganem                              ; 2-1; CR Belcourt
+; ASM Oran                                       ; 1-0; AS Ain M'lila
+; JS Kabylie                                         ; 5-0; USM Annaba
+
+Round: 26
+
+; JS Bordj Menaiel       ; 2-1; USM El Harrach
+; CR Belcourt                ; 1-1; USM Blida
+; AS Ain M'lila                  ; 1-1; JS Kabylie
+; MC Oran                               ; 1-0; ASM Oran
+; MO Constantine                            ; 0-2; WA Mostaganem
+; US Chaouia                                    ; 0-0; NA Hussein-Dey
+; USM Annaba                                        ; 0-5; MC Alger
+; WA Tlemcen                                            ; 4-1; ES Setif
+
+Round: 27
+
+; ASM Oran               ; 2-0; MO Constantine
+; JS Kabylie                 ; 4-1; WA Tlemcen
+; USM Blida                      ; 2-1; JS Bordj Menaiel
+; USM El Harrach                     ; 2-1; MC Oran 
+; ES Setif                               ; 4-1; US Chaouia
+; MC Alger                                   ; 0-0; NA Hussein-Dey
+; CR Belcourt                                    ; 1-1; AS Ain M'lila
+; WA Mostaganem                                      ; 0-0; USM Annaba
+
+Round: 28
+
+; US Chaouia             ; 1-0; USM El Harrach
+; MC Oran                        ; 2-1; USM Blida
+; JS Bordj Menaiel               ; 0-0; JS Kabylie
+; WA Tlemcen                         ; 1-1; ASM Oran
+; AS Ain M'lila                          ; 0-0; WA Mostaganem
+; USM Annaba                                 ; 0-1; CR Belcourt
+; MO Constantine                                 ; 3-2; MC Alger
+; NA; Hussein-Dey;                                      1-0 ES Setif
+
+Round: 29
+
+; CR Belcourt            ; 4-0; MO Constantine
+; WA Mostaganem              ; 0-0; WA Tlemcen
+; ASM Oran                       ; 1-0; JS Bordj Menaiel
+; JS Kabylie                         ; 3-0; MC Oran
+; USM Blida                              ; 2-0; US Chaouia
+; USM El Harrach                         ; 0-0; NA Hussein-Dey
+; ES Setif                                   ; 0-0; MC Alger
+; AS Ain M'lila                                   ; -;  USM Annaba          [not played ?]
+
+Round: 30
+
+; MC Alger               ; 0-0; USM El Harrach
+; NA; Hussein-Dey;              2-1 USM Blida
+; US Chaouia                     ; 1-0; JS Kabylie
+; USM Annaba                         ; 2-1; ASM Oran        
+; JS Bordj Menaiel                   ; 2-2; WA Mostaganem
+; WA Tlemcen                             ; 1-1; CR Belcourt
+; MO Constantine                             ; 1-0; AS Ain M'lila
+; MC Oran                                           ; 3-0; ES Setif
 
 
 
-                  A   A   A   B   B   B   C   C   E   H   K   M   O   O   S   T
-                  I   L   N   E   L   O   H   O   L   U   A   O   A   M   E   I
-                  N   G   N   L   I   R   A   N   H   S   B   S   S   C   T   E
-AS Ain M'lila    XXX 0-0     1-0 0-0 2-0 2-1 0-0 1-0 1-0         4-0 0-0 3-1 2-2
-MC Algiers       1-1 XXX 0-0 0-0 1-1 1-0 1-1 2-1         0-0 2-0 0-1 2-1 2-3 2-1
-USM Annaba       1-1     XXX     1-0 1-0 0-0 1-0 1-1 0-1 0-0 2-1     0-0 2-0 0-0
-CR Belcourt          1-0 3-0 XXX     3-1 1-1     1-1 0-1 2-0 1-1 1-1 3-0 3-0 2-1
-USM Blida        0-1 0-0 0-0 0-0 XXX         1-0 1-0 2-1 1-0 2-0 1-1 2-3 2-0 2-2
-JS Bordj Menaiel 2-1 1-0 4-0 1-0 0-0 XXX 3-0 3-1     1-1         1-0 1-0 0-1 1-0
-US Chaouia       2-0 1-0 3-0 1-0 2-1 3-1 XXX 4-0             2-1 1-0 2-0 1-0 2-1
-MO Constantine           2-0 1-0 0-0 0-3 2-2 XXX 1-0 1-1 0-0     1-0 1-1 1-0 3-2
-USM El Harrach   0-0     3-1 1-1 2-0 1-0 1-0 2-0 XXX     1-0 0-1 1-0     2-0 3-1
-NA Hussein-Dey   0-0 1-0 0-0 1-0     4-0 2-1 3-0 1-4 XXX 0-0 1-0 2-0 2-3     1-0
-JS Kabylie       2-0 1-1 5-0 1-0 1-0 1-0 1-1 2-0 1-1     XXX 2-2 1-0     2-0
-WA Mostaganem    2-0 1-1     2-1 3-1 0-1 0-0 1-0 1-0 1-1 1-1 XXX 1-0 2-2 2-0
-ASM Oran         1-0 0-2 0-0 2-0 0-2     0-0     1-1 0-2 1-1 0-1 XXX 2-1 4-1 1-0
-MC Oran          4-0 0-0 2-1         4-1 2-1 1-0 2-1 1-1 2-1 2-0     XXX     0-0
-ES Setif         2-0     0-0 1-0 2-1 1-0     3-0 0-0 2-1 0-3 0-0 3-1 0-0 XXX 1-0
-WA Tlemcen       1-2 0-0 5-0     1-0 2-1 1-0 1-0 1-0 1-1 2-1 1-3     0-2     XXX
+* 1.MC Oran           30 15  8  7  43-27  38
+* 2.NA Hussein Dey    30 13 11  6  34-21  37
+* 3.JS Kabylie        30 12 13  5  37-17  37
+* 4.US Chaouia        30 13  9  8  35-27  35
+* 5.WA Mostaganem     30 11 12  7  30-24  34
+* 6.USM El Harrach    30 12  9  9  29-20  33
+* 7.MC Alger          30  7 15  8  25-25  29
+* 8.AS Ain M'lila     29  9 11  9  23-27  29 
+* 9.CR Belouizdad     30  9 10 11  32-25  28 [=CR Belcourt]
+*10.USM Blida         30  9 10 11  27-26  28
+*11.JS Bordj Menaiel  30 12  4 14  31-34  28
+*12.ES Setif          30 11  5 14  27-40  27
+*13.WA Tlemcen        30  9  8 13  34-35  26
+*-------------------------------------------
+*14.USM Annaba        29  6 12 11  11-36  24
+*15.ASM Oran          30  8  7 15  21-32  23
+*16.MO Constantine    30  8  6 16  20-43  22
+*
+*Relegated: USM Annaba, ASM Oran, MO Constantine.
+*Promoted: WA Boufarik, CA Batna, ESM Bel Abbes.
 
 
-1991/92.
+
+*                  A   A   A   B   B   B   C   C   E   H   K   M   O   O   S   T
+*                  I   L   N   E   L   O   H   O   L   U   A   O   A   M   E   I
+*                  N   G   N   L   I   R   A   N   H   S   B   S   S   C   T   E
+*AS Ain M'lila    XXX 0-0     1-0 0-0 2-0 2-1 0-0 1-0 1-0         4-0 0-0 3-1 2-2
+*MC Algiers       1-1 XXX 0-0 0-0 1-1 1-0 1-1 2-1         0-0 2-0 0-1 2-1 2-3 2-1
+*USM Annaba       1-1     XXX     1-0 1-0 0-0 1-0 1-1 0-1 0-0 2-1     0-0 2-0 0-0
+*CR Belcourt          1-0 3-0 XXX     3-1 1-1     1-1 0-1 2-0 1-1 1-1 3-0 3-0 2-1
+*USM Blida        0-1 0-0 0-0 0-0 XXX         1-0 1-0 2-1 1-0 2-0 1-1 2-3 2-0 2-2
+*JS Bordj Menaiel 2-1 1-0 4-0 1-0 0-0 XXX 3-0 3-1     1-1         1-0 1-0 0-1 1-0
+*US Chaouia       2-0 1-0 3-0 1-0 2-1 3-1 XXX 4-0             2-1 1-0 2-0 1-0 2-1
+*MO Constantine           2-0 1-0 0-0 0-3 2-2 XXX 1-0 1-1 0-0     1-0 1-1 1-0 3-2
+*USM El Harrach   0-0     3-1 1-1 2-0 1-0 1-0 2-0 XXX     1-0 0-1 1-0     2-0 3-1
+*NA Hussein-Dey   0-0 1-0 0-0 1-0     4-0 2-1 3-0 1-4 XXX 0-0 1-0 2-0 2-3     1-0
+*JS Kabylie       2-0 1-1 5-0 1-0 1-0 1-0 1-1 2-0 1-1     XXX 2-2 1-0     2-0
+*WA Mostaganem    2-0 1-1     2-1 3-1 0-1 0-0 1-0 1-0 1-1 1-1 XXX 1-0 2-2 2-0
+*ASM Oran         1-0 0-2 0-0 2-0 0-2     0-0     1-1 0-2 1-1 0-1 XXX 2-1 4-1 1-0
+*MC Oran          4-0 0-0 2-1         4-1 2-1 1-0 2-1 1-1 2-1 2-0     XXX     0-0
+*ES Setif         2-0     0-0 1-0 2-1 1-0     3-0 0-0 2-1 0-3 0-0 3-1 0-0 XXX 1-0
+*WA Tlemcen       1-2 0-0 5-0     1-0 2-1 1-0 1-0 1-0 1-1 2-1 1-3     0-2     XXX
 
 
-1993/94.
-
-
-list of champions.
-
-
-list of cup winners.
-
-
-About this document
-
-With thanks to Hans van Haren
-
-Prepared and maintained by Djamil Merad for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Djamil Merad 
-Last updated: 26 Jan 2007
-
-(C) Copyright Djamil Merad and RSSSF 1999/2007
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*With thanks to Hans van Haren
+*Prepared and maintained by Djamil Merad for the Rec.Sport.Soccer Statistics Foundation
+*Author: Djamil Merad 
+*Last updated: 26 Jan 2007
+*(C) Copyright Djamil Merad and RSSSF 1999/2007
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

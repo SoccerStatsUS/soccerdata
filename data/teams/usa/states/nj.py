@@ -5,6 +5,152 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Paterson Almas',
+        'city': 'Paterson, NJ',
+        },
+
+    {
+        'name': 'New Brunswick Brigade',
+        'city': 'New Brunswick, NJ',
+        # http://www.soccertimes.com/directory/usisl/premier/brigade.htm
+        },
+
+    {
+        'name': 'Liederkranz Trenton',
+        'city': 'Trenton, NJ',
+        'founded': 1930,
+        # currently German American Kickers SC http://gakickers.webs.com/gakhistory.htm
+        },
+
+    {
+        'name': 'Jersey City Almas',
+        'city': 'Paterson, NJ',
+        },
+
+
+    {
+        'name': 'Jersey City Liberties',
+        'city': 'Jersey City, NJ',
+        },
+
+    {
+        'name': 'Princeton Theological Seminary',
+        'city': 'Princeton, NJ',
+        },
+
+    {
+        'name': 'Princeton Cliosophic Hall',
+        'city': 'Princeton, NJ',
+        },
+
+    {
+        'name': 'Princeton Whig Hall',
+        'city': 'Princeton, NJ',
+        },
+
+    {
+        'name': 'Trenton Butler Street',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Rovers',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Potters',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Cricketeers',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Butler Streets',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Tile Rovers',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Newark Cricket Association',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Pingry School',
+        'city': 'Bernards, NJ',
+        },
+
+    {
+        'name': 'Hoboken Union Club',
+        'city': 'Hoboken, NJ',
+        },
+
+
+    {
+        'name': 'Newark Domestics',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Newark Hamilton Baseball AC',
+        'city': 'Newark, NJ',
+        },
+    {
+        'name': 'Newark Canadian Rovers',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Trenton Eagle Potters', # probably different from other potters?
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Knights of Labor',
+        'city': 'Trenton, NJ',
+        },
+    {
+        'name': 'Trenton Model School',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Independents Team',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton International Team',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Central High School',
+        'city': 'Trenton, NJ',
+        },
+
+
+
+
+    {
+        'name': 'Trenton Swifts',
+        'city': 'Trenton, NJ',
+        },
+
+    {
+        'name': 'Trenton Young Americans',
+        'city': 'Trenton, NJ',
+        },
+
     # indoor
 
     {

@@ -1,19 +1,12 @@
 BlockSource: http://rsssf.com/tablesg/guat2011.html
-Guatemala 2010/11
+Competition: Liga Nacional de Guatemala
 
-* Liga Nacional
-* Liga Nacional
-* 
-* Campeonato Apertura 2010 | Campeonato Clausura 2011 | Tabla Anual 2010/11
-* 
-* Campeonato Apertura 2010
-* 
-* Regular Stage | Playoff Stage 
-* 
+
+Season: 2010 Apertura
+
+
 * Regular Stage
-* 
-* Final Table:
-* 
+
 *  1.Municipal                  22  11  5  6  40-22  38  Semifinals
 *  2.Deportivo Marquense        22   9  6  7  32-27  33  Semifinals
 * - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -29,45 +22,46 @@ Guatemala 2010/11
 * 11.Malacateco                 22   7  6  9  20-28  27
 * 12.Peñarol La Mesilla         22   5  8  9  22-29  23
 
-* Playoff Stage
+Stage: Playoff
 
 Round: Quarterfinals
 
 *First Legs 
-[Dec 1]  
-; Mictlán              ; 1-0; Comunicaciones 
-[Dec 2]  
-; Suchitepéquez        ; 1-0; Heredia-Jaguares  
+
+12/1/2010; Mictlán              ; 1-0; Comunicaciones 
+
+12/2/2010; Suchitepéquez        ; 1-0; Heredia-Jaguares  
 
 *Second Legs [Dec 5]
-; Comunicaciones       ; 3-0; Mictlán  
-;; Heredia-Jaguares;      3-3 Suchitepéquez  
+12/5/2010; Comunicaciones       ; 3-0; Mictlán  
+12/5/2010; Heredia-Jaguares;      3-3; Suchitepéquez  
 
 Round: Semifinals
 
 *First Legs [Dec 9]   
-; Comunicaciones       ; 3-0; Marquense 
-; Suchitepéquez        ; 2-3; Municipal 
+12/9/2010; Comunicaciones       ; 3-0; Marquense 
+12/9/2010; Suchitepéquez        ; 2-3; Municipal 
 
-Second Legs [Dec 12]
-Marquense             2-3 Comunicaciones
-Municipal             2-0 Suchitepéquez 
+*Second Legs [Dec 12]
+12/12/2010; Marquense            ; 2-3; Comunicaciones
+12/12/2010; Municipal            ; 2-0; Suchitepéquez 
 
-Final
+Round: Final
 
-First Leg [Dec 16]
-Comunicaciones        1-1 Municipal
+*First Leg [Dec 16]
+12/16/2010; Comunicaciones       ; 1-1; Municipal
 
-Second Leg [Dec 19]
-Municipal             2-2 Comunicaciones        [3-4 pen]
+*Second Leg [Dec 19]
+12/19/2010; Municipal            ; 2-2; Comunicaciones        
+Penalty kicks: 3-4
 
-NB: Comunicaciones Apertura champions
+*NB: Comunicaciones Apertura champions
 
-Campeonato Clausura 2011
+Season: 2011 Clausura
 
-Regular Stage | Playoff Stage 
-
-Regular Stage
+*Regular Stage | Playoff Stage 
+*
+*Regular Stage
 
 * Final Table:
 * 
@@ -86,39 +80,39 @@ Regular Stage
 * 11.Suchitepéquez              22   6  5 11  21-28  23
 * 12.Xinabajul                  22   4  5 13  11-40  17
 
-Playoff Stage
+Stage: Playoff
 
-Quarterfinals
+Round: Quarterfinals
 
-First Legs [Apr 28]
-Mictlán               2-1 Malacateco  
-Peñarol LM            0-1 Comunicaciones 
+*First Legs
+4/28/2011; Mictlán              ; 2-1; Malacateco  
+4/28/2011; Peñarol LM           ; 0-1; Comunicaciones 
 
-Second Legs
-[Apr 30]
-Comunicaciones        7-0 Peñarol LM 
-[May 1]
-Malacateco            2-0 Mictlán     
+*Second Legs
 
-Semifinals
+4/30/2011; Comunicaciones       ; 7-0; Peñarol LM 
 
-First Legs [May 5]
-Comunicaciones        2-0 Heredia-Jaguares  
-Malacateco            0-0 Municipal  
+5/1/2011; Malacateco           ; 2-0; Mictlán     
 
-Second Legs [May 8]
-Heredia-Jaguares      1-0 Comunicaciones  
-Municipal             1-0 Malacateco  
+Round: Semifinals
 
-Final
+*First Legs
+5/5/2011; Comunicaciones       ; 2-0; Heredia-Jaguares  
+5/5/2011; Malacateco           ; 0-0; Municipal  
 
-First Leg [May 12]
-Comunicaciones        3-0 Municipal    
+*Second Legs
+5/8/2011; Heredia-Jaguares;      1-0; Comunicaciones  
+5/8/2011; Municipal            ; 1-0; Malacateco  
 
-Second Leg [May 15]  
-Municipal             0-3 Comunicaciones  
+Round: Final
 
-NB: Comunicaciones Clausura champions
+*First Leg
+5/12/2011; Comunicaciones       ; 3-0; Municipal    
+
+*Second Leg
+5/15/2011; Municipal            ; 0-3; Comunicaciones  
+
+*NB: Comunicaciones Clausura champions
 
 * Tabla Anual 2010/11
 * 

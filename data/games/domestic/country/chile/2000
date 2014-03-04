@@ -142,7 +142,7 @@ Date: 5/20/2000
   Cornejo 10, Bennett 60;
 
 ; Dep. Concepción; 1-1; Stgo. Morning
-  Pozo 23pen; J. González 45
+  Pozo (pk) 23; J. González 45
 
 ; U. Española    ; 1-0; Huachipato
   Queraltó 13;
@@ -852,7 +852,8 @@ Date: 12/16/2000
 *15.Everton               30  8  9 13 41-53 33  Relegated 
 *16.Provincial Osorno     30  5  8 17 37-64 23  Relegated
 
-Season: 2000 Liguilla Pre-Libertadores
+Season: 2000 
+Stage: Liguilla Pre-Libertadores
 
 Round: 1
 Date: 12/19/2000

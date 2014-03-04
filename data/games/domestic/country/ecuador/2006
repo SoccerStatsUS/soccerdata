@@ -1,7 +1,10 @@
 BlockSource: http://www.rsssf.com/tablese/ecua06.html
 Competition: Ecuadorian Serie A
-Season: 2006 Apertura
+Season: 2006 
 Transform: name-title
+
+Stage: 1
+*Apertura
 
 *NB: in 2006, only 1 champion will be crowned (winners of Liguilla Final involving
 *    the top-3 of Apertura and top-3 of Clausura)
@@ -408,6 +411,7 @@ Date: 5/14/2006
 *    LDU de Quito qualify to Copa Sudaméricana 2006
 
 
+Stage: 2
 *Second Stage (Torneo Clausura)
 
 *NB: Deportivo Azogues promoted as winners First Stage Serie B

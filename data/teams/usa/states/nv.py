@@ -5,6 +5,22 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Reno Town Team',
+        'city': 'Reno, NV',
+        },
+
+    {
+        'name': 'Nevada Zephyrs',
+        'city': 'Reno, NV',
+        # http://www.soccertimes.com/directory/usisl/premier/zephyrs.htm
+        },
+
+    {
+        'name': 'Reno Seminary School',
+        'city': 'Reno, NV',
+        },
+
     # indoor
 
     {

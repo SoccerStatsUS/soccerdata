@@ -1,6 +1,7 @@
 BlockSource: http://rsssf.com/tabless/span00.html
 Competition: La Liga
 Season: 1999-2000
+home-first
 
 * 1.RC Deportivo (La Coruña)      38 21  6 11 66-44  69  Champions
 * 2.FC Barcelona                  38 19  7 12 70-46  64  [2 1 0 1 4-3 3]  Champions' League
@@ -560,7 +561,7 @@ Date: 12/18/1999
 Date: 12/19/1999
 
 ; Athletic     ; 2-2; Zaragoza
-  Santi Ezquerro 13, Jose Maria Lacruz 37; Martin Vellisca 30, Savo Milosevic 34pen
+  Santi Ezquerro 13, Jose Maria Lacruz 37; Martin Vellisca 30, Savo Milosevic (pk) 34
 
 ; Barcelona    ; 2-1; Atletico
   Luis Enrique Martinez 35, Boudewijn Zenden 80; Jimmy Floyd Hasselbaink (pk) 43

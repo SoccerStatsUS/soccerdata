@@ -7,6 +7,18 @@ l = [
 
 
     {
+        'name': 'Tacoma Association',
+        'city': 'Tacoma, WA',
+        },
+
+    {
+        'name': 'Seattle Association',
+        'city': 'Seattle, WA',
+        },
+
+    #d1
+
+    {
         'name': 'Seattle Sounders',
         'founded': datetime.datetime(1974, 1, 23),
         'city': 'Seattle, WA',

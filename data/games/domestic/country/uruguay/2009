@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru2010.html
 Competition: Uruguayan Primera Division
-Season: 2009-2010 Apertura
+Season: 2009-2010 
 home-first
+
+Stage: Apertura
 
 * 1.C Nacional dF                 15 13  0  2  36-11  36  [-3]  Apertura winners
 * 2.Liverpool FC                  15  8  5  2  31-14  29
@@ -50,7 +52,7 @@ Date: 8/23/2009
 Date: 8/26/2009
 
 ; Liverpool         ; 4-3; Cerrito
-  Carlos Macchi 69, Paolo Patritti 71, Mathías Riquero 76, Emiliano Alfaro 77; Nelson Techera 30, Mauren Franco 52pen, Rodrigo Escalante 62
+  Carlos Macchi 69, Paolo Patritti 71, Mathías Riquero 76, Emiliano Alfaro 77; Nelson Techera 30, Mauren Franco (pk) 52, Rodrigo Escalante 62
 
 Round: 2
 Date: 8/29/2009
@@ -174,7 +176,7 @@ Date: 10/3/2009
   Ismael Espiga (pk) 18; Matías Corujo 30
 
 ; Nacional          ; 3-2; Racing
-  Sebastián Balsas 45+1pen, Sebastian Balsas 50, Raúl Ferro 80; Martín Cauteruccio 8, Líber Quiñones 15
+  Sebastián Balsas (pk) 45+1, Sebastian Balsas 50, Raúl Ferro 80; Martín Cauteruccio 8, Líber Quiñones 15
 
 ; Fénix             ; 1-1; Liverpool
   Carlos Aguiar (pk) 53; Andrés Rodales 30
@@ -475,7 +477,8 @@ Date: 12/13/2009
 *16.CA Fénix                      15  1  3 11  10-26   6
 *NB: Nacional 3 points deducted
 
-Season: 2009-2010 Clausura
+Season: 2009-2010 
+Stage: Clausura
 
 * 1.CA Peñarol                    15 14  1  0  40-15  43  Clausura winners
 * 2.CA Cerro                      15  9  2  4  28-18  29

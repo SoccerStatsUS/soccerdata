@@ -1,119 +1,132 @@
 BlockSource: http://www.rsssf.com/tablesa/arg82.html
+Season: 1982
+Competition: Liga Argentina de Football
+ 
+Group: A                         
 
-Argentina 1982
+Round: 1
+Date: 2/12/1982
 
- 
+; Independiente Riv.(Mza.); 0-0;     Newell's Old Boys              ; Malvinas Argentinas
+; Instituto (Cba.)        ; 1-1;     Quilmes                        ; Córdoba
 
-Campeonato Nacional 1982 (Nacional Championship)
+Date: 2/14/1982
 
+; Gimnasia y Esg.(Jujuy)  ; 0-0;     Sarmiento (Junín)
+; Nueva Chicago           ; 2-3;     River Plate                    ; Huracán
  
-Group: Group A                         
+Round: 2
+Date: 2/21/1982
+
+; Instituto (Cba.)        ; 2-1;     Gimnasia y Esgrima (Jujuy)
+; Newell's Old Boys       ; 3-0;     Nueva Chicago  
+; Quilmes                 ; 4-3;     Independiente Rivadavia (Mendoza)
+; River Plate             ; 1-1;     Sarmiento (Junín)
+ 
+Round: 3
+Date: 2/28/1982
+
+; Gimnasia y Esg.(Jujuy)  ; 1-1;     River Plate
+; Independiente Riv.(Mza.); 2-0;     Instituto (Cba.)               ; Malvinas Argentinas
+; Nueva Chicago           ; 0-0;     Quilmes
+; Sarmiento (Junín)       ; 0-0;     Newell's Old Boys
+ 
+Round: 4
+Date: 3/3/1982
+
+; Independiente Riv.(Mza.); 1-1;     Gimnasia y Esgrima (Jujuy)     ; Malvinas Argentinas
+; Newell's Old Boys       ; 0-0;     River Plate
+; Quilmes                 ; 3-3;     Sarmiento (Junín)
+
+Date: 3/4/1982
+
+; Instituto (Cba.)        ; 3-0;     Nueva Chicago                  ; Córdoba
+ 
+Round: 6
+Date: 3/14/1982
+
+; Gimnasia y Esg.(Jujuy)  ; 2-2;     Newell's Old Boys
+; Nueva Chicago           ; 2-3;     Independiente Rivadavia (Mendoza)
+; River Plate             ; 2-3;     Quilmes
+; Sarmiento (Junín)       ; 3-2;     Instituto (Cba.)
+ 
+Round: 7
+Date: 3/21/1982
+
+; Independiente Riv.(Mza.); 3-2;     Sarmiento (Junín)              ; Malvinas Argentinas
+; Instituto (Cba.)        ; 3-0;     River Plate                                 ; Córdoba
+; Nueva Chicago           ; 3-2;     Gimnasia y Esgrima (Jujuy)
+; Quilmes                 ; 3-2;     Newell's Old Boys
+ 
+Round: 8
+Date: 3/28/1982
+
+; Gimnasia y Esg.(Jujuy)  ; 3-0;     Quilmes
+; Newell's Old Boys       ; 1-2;     Instituto (Cba.)
+; River Plate             ; 1-2;     Independiente Rivadavia (Mendoza)
+; Sarmiento (Junín)       ; 1-1;     Nueva Chicago
+ 
+Round: 9
+Date: 4/4/1982
+
+; Newell's Old Boys       ; 8-0;     Independiente Rivadavia (Mendoza)
+; Quilmes                 ; 2-0;     Instituto (Cba.)
+; River Plate             ; 0-0;     Nueva Chicago
+; Sarmiento (Junín)       ; 3-2;     Gimnasia y Esgrima (Jujuy)
+ 
+Round: 10
+Date: 4/7/1982
+
+; Gimnasia y Esg.(Jujuy)  ; 2-0;     Instituto (Cba.)
+; Independiente Riv.(Mza.); 1-2;     Quilmes                ; Malvinas Argentinas
+; Nueva Chicago           ; 1-1;     Newell's Old Boys
+; Sarmiento (Junín)       ; 0-1;     River Plate
+ 
+Round: 11
+Date: 4/11/1982
+
+; Instituto (Cba.)        ; 5-2;     Independiente Rivadavia (Mza.) ; Córdoba
+; Newell's Old Boys       ; 1-1;     Sarmiento (Junín)
+; Quilmes                 ; 4-2;     Nueva Chicago
+; River Plate             ; 2-0;     Gimnasia y Esgrima (Jujuy)
+ 
+Round: 12
+Date: 4/18/1982
+
+; Gimnasia y Esg.(Jujuy)  ; 0-0;     Independiente Rivadavia (Mendoza)
+; Nueva Chicago           ; 2-2;     Instituto (Cba.)
+; River Plate             ; 1-1;     Newell's Old Boys
+; Sarmiento (Junín)       ; 1-4;     Quilmes
+ 
+Round: 14
+Date: 5/2/1982
+
+; Independiente Riv.(Mza.); 2-1;     Nueva Chicago                  ; Malvinas Argentinas
+; Instituto (Cba.)        ; 3-1;     Sarmiento (Junín)                  ; Córdoba
+; Newell's Old Boys       ; 4-3;     Gimnasia y Esgrima (Jujuy)
+; Quilmes                 ; 2-3;     River Plate
+ 
+Round: 15
+Date: 5/9/1982
+
+; Gimnasia y Esg.(Jujuy)  ; 1-0;     Nueva Chicago
+; Newell's Old Boys       ; 2-0;     Quilmes
+; Sarmiento (Junín)       ; 0-1;     Independiente Rivadavia (Mendoza)
+
+Date: 5/10/1982
+
+; River Plate             ; 2-3;     Instituto (Cba.)
+ 
+Round: 16
+Date: 5/16/1982
+
+; Independiente Riv.(Mza.); 4-2;     River Plate                    ; Malvinas Argentinas
+; Instituto (Cba.)        ; 1-1;     Newell's Old Boys                  ; Córdoba
+; Nueva Chicago           ; 3-3;     Sarmiento (Junín)
+; Quilmes                 ; 3-1;     Gimnasia y Esgrima (Jujuy)
  
  
-Round: Round 1
-[Feb 12]
-Independiente Riv.(Mza.) 0-0     Newell's Old Boys              [at Malvinas Argentinas]
-Instituto (Cba.)         1-1     Quilmes                        [at Córdoba]
-[Feb 14]
-Gimnasia y Esg.(Jujuy)   0-0     Sarmiento (Junín)
-Nueva Chicago            2-3     River Plate                    [at Huracán]
- 
-Round: Round 2
-[Feb 21]
-Instituto (Cba.)         2-1     Gimnasia y Esgrima (Jujuy)
-Newell's Old Boys        3-0     Nueva Chicago  
-Quilmes                  4-3     Independiente Rivadavia (Mendoza)
-River Plate              1-1     Sarmiento (Junín)
- 
-Round: Round 3
-[Feb 28]
-Gimnasia y Esg.(Jujuy)   1-1     River Plate
-Independiente Riv.(Mza.) 2-0     Instituto (Cba.)               [at Malvinas Argentinas]
-Nueva Chicago            0-0     Quilmes
-Sarmiento (Junín)        0-0     Newell's Old Boys
- 
-Round: Round 4
-[Mar 3]
-Independiente Riv.(Mza.) 1-1     Gimnasia y Esgrima (Jujuy)     [at Malvinas Argentinas]
-Newell's Old Boys        0-0     River Plate
-Quilmes                  3-3     Sarmiento (Junín)
-[Mar 4] 
-Instituto (Cba.)         3-0     Nueva Chicago                  [at Córdoba]
- 
- 
-Round: Round 6
-[Mar 14]
-Gimnasia y Esg.(Jujuy)   2-2     Newell's Old Boys
-Nueva Chicago            2-3     Independiente Rivadavia (Mendoza)
-River Plate              2-3     Quilmes
-Sarmiento (Junín)        3-2     Instituto (Cba.)
- 
-Round: Round 7
-[Mar 21]
-Independiente Riv.(Mza.) 3-2     Sarmiento (Junín)              [at Malvinas Argentinas]
-Instituto (Cba.)         3-0     River Plate                                 [at Córdoba]
-Nueva Chicago            3-2     Gimnasia y Esgrima (Jujuy)
-Quilmes                  3-2     Newell's Old Boys
- 
-Round: Round 8
-[Mar 28]
-Gimnasia y Esg.(Jujuy)   3-0     Quilmes
-Newell's Old Boys        1-2     Instituto (Cba.)
-River Plate              1-2     Independiente Rivadavia (Mendoza)
-Sarmiento (Junín)        1-1     Nueva Chicago
- 
-Round: Round 9
-[Apr 4]
-Newell's Old Boys        8-0     Independiente Rivadavia (Mendoza)
-Quilmes                  2-0     Instituto (Cba.)
-River Plate              0-0     Nueva Chicago
-Sarmiento (Junín)        3-2     Gimnasia y Esgrima (Jujuy)
- 
-Round: Round 10
-[Apr 7]
-Gimnasia y Esg.(Jujuy)   2-0     Instituto (Cba.)
-Independiente Riv.(Mza.) 1-2     Quilmes                [at Malvinas Argentinas]
-Nueva Chicago            1-1     Newell's Old Boys
-Sarmiento (Junín)        0-1     River Plate
- 
-Round: Round 11
-[Apr 11]
-Instituto (Cba.)         5-2     Independiente Rivadavia (Mza.) [at Córdoba]
-Newell's Old Boys        1-1     Sarmiento (Junín)
-Quilmes                  4-2     Nueva Chicago
-River Plate              2-0     Gimnasia y Esgrima (Jujuy)
- 
-Round: Round 12
-[Apr 18]
-Gimnasia y Esg.(Jujuy)   0-0     Independiente Rivadavia (Mendoza)
-Nueva Chicago            2-2     Instituto (Cba.)
-River Plate              1-1     Newell's Old Boys
-Sarmiento (Junín)        1-4     Quilmes
- 
-Round: Round 14
-[May 2]
-Independiente Riv.(Mza.) 2-1     Nueva Chicago                  [at Malvinas Argentinas]
-Instituto (Cba.)         3-1     Sarmiento (Junín)                  [at Córdoba]
-Newell's Old Boys        4-3     Gimnasia y Esgrima (Jujuy)
-Quilmes                  2-3     River Plate
- 
-Round: Round 15
-[May 9]
-Gimnasia y Esg.(Jujuy)   1-0     Nueva Chicago
-Newell's Old Boys        2-0     Quilmes
-Sarmiento (Junín)        0-1     Independiente Rivadavia (Mendoza)
-[May 10]
-River Plate              2-3     Instituto (Cba.)
- 
-Round: Round 16
-[May 16]
-Independiente Riv.(Mza.) 4-2     River Plate                    [at Malvinas Argentinas]
-Instituto (Cba.)         1-1     Newell's Old Boys                  [at Córdoba]
-Nueva Chicago            3-3     Sarmiento (Junín)
-Quilmes                  3-1     Gimnasia y Esgrima (Jujuy)
- 
- 
-Group: Group A
+Group: A
  
 * 1. Quilmes                          16   8   4   4    5  2  1   3  2  3   32 27   20  [Qualified]
 *2. Independiente Rivadavia (Mza.)   16   8   4   4    5  2  1   3  2  3   28 30   20  [Qualified]
@@ -126,121 +139,153 @@ Group: Group A
 *8. Nueva Chicago                    16   2   7   7    2  4  2   0  3  5   18 28   11 
  
  
+*Note:
+*. First place defined by goal difference:
+*  Quilmes 5, Independiente Rivadavia -2.
  
-Note:
-. First place defined by goal difference:
-  Quilmes 5, Independiente Rivadavia -2.
+Group: B                         
+
+Round: 1
+Date: 2/13/1982
+
+; Unión San Vicente (Cba.); 2-2;     San Lorenzo (Mar del Plata)            ; Córdoba
+
+Date: 2/14/1982
+
+; Argentinos Juniors      ; 1-1;     Atlético Concepción (Tucumán)
+; Estudiantes (Sgo.)      ; 1-4;     Independiente                          ; Central Córdoba
+; Ferrocarril Oeste       ; 1-0;     Unión (Sta.Fe)
  
-Group: Group B                         
+Round: 2
+Date: 2/21/1982
+
+; Atlético Concepción(Tuc); 3-1;     Unión San Vicente (Cba.)
+; Estudiantes (Sgo.)      ; 0-3;     Ferrocarril Oeste
+; San Lorenzo (MdP)       ; 1-2;     Unión (Sta.Fe)
+
+Date: 2/22/1982
+
+; Independiente           ; 2-2;     Argentinos Juniors 
  
+Round: 3
+Date: 2/27/1982
+
+; Unión San Vicente (Cba.); 2-3;     Independiente                          ; Córdoba
+
+Date: 2/28/1982
+
+; Argentinos Juniors      ; 4-2;     Estudiantes (Santiago del Estero)
+; Ferrocarril Oeste       ; 3-2;     San Lorenzo (Mar del Plata)
+; Unión (Sta.Fe)          ; 1-1;     Atlético Concepción (Tucumán) 
  
-Round: Round 1
-[Feb 13]
-Unión San Vicente (Cba.) 2-2     San Lorenzo (Mar del Plata)            [at Córdoba]
-[Feb 14]
-Argentinos Juniors       1-1     Atlético Concepción (Tucumán)
-Estudiantes (Sgo.)       1-4     Independiente                          [at Central Córdoba]
-Ferrocarril Oeste        1-0     Unión (Sta.Fe)
+Round: 4
+Date: 3/3/1982
+
+; Argentinos Juniors      ; 0-1;     Ferrocarril Oeste                      ; Chacarita Juniors
+; Atlético Concepción(Tuc); 3-5;     San Lorenzo (Mar del Plata)                ; Atlético Tucumán
+; Estudiantes (Sgo.)      ; 0-2;     Unión San Vicente (Cba.)                       ; Central Córdoba
+; Independiente           ; 1-1;     Unión (Sta.Fe)
  
-Round: Round 2
-[Feb 21]
-Atlético Concepción(Tuc) 3-1     Unión San Vicente (Cba.)
-Estudiantes (Sgo.)       0-3     Ferrocarril Oeste
-San Lorenzo (MdP)        1-2     Unión (Sta.Fe)
-[Feb 22]
-Independiente            2-2     Argentinos Juniors 
+Round: 6
+Date: 3/13/1982
+
+; Unión San Vicente (Cba.); 2-2;     Argentinos Juniors
+
+Date: 3/14/1982
+
+; Ferrocarril Oeste       ; 2-1;     Atlético Concepción (Tucumán)
+; San Lorenzo (MdP)       ; 1-1;     Independiente                          ; Mar del Plata
+; Unión (Sta.Fe)          ; 1-1;     Estudiantes (Santiago del Estero)
  
-Round: Round 3
-[Feb 27]
-Unión San Vicente (Cba.) 2-3     Independiente                          [at Córdoba]
-[Feb 28]
-Argentinos Juniors       4-2     Estudiantes (Santiago del Estero)
-Ferrocarril Oeste        3-2     San Lorenzo (Mar del Plata)
-Unión (Sta.Fe)           1-1     Atlético Concepción (Tucumán) 
+Round: 7
+Date: 3/19/1982
+
+; Unión San Vicente (Cba.); 1-1;     Ferrocarril Oeste                      ; Córdoba
+
+Date: 3/21/1982
+
+; Argentinos Juniors      ; 0-0;     Unión (Sta.Fe)
+; Estudiantes (Sgo.)      ; 1-1;     San Lorenzo (Mar del Plata)            ; Central Córdoba
+; Independiente           ; 1-0;     Atlético Concepción (Tucumán)
  
-Round: Round 4
-[Mar 3]
-Argentinos Juniors       0-1     Ferrocarril Oeste                      [at Chacarita Juniors]
-Atlético Concepción(Tuc) 3-5     San Lorenzo (Mar del Plata)                [at Atlético Tucumán]
-Estudiantes (Sgo.)       0-2     Unión San Vicente (Cba.)                       [at Central Córdoba]
-Independiente            1-1     Unión (Sta.Fe)
+Round: 8
+Date: 3/28/1982
+
+; Atlético Concepción(Tuc); 2-1;     Estudiantes (Santiago del Estero)      ; Atlético Tucumán
+; Ferrocarril Oeste       ; 2-2;     Independiente         
+; San Lorenzo (MdP)       ; 0-1;     Argentinos Juniors
+; Unión (Sta.Fe)          ; 0-0;     Unión San Vicente (Cba.)
  
-Round: Round 6
-[Mar 13]
-Unión San Vicente (Cba.) 2-2     Argentinos Juniors
-[Mar 14]
-Ferrocarril Oeste        2-1     Atlético Concepción (Tucumán)
-San Lorenzo (MdP)        1-1     Independiente                          [at Mar del Plata]
-Unión (Sta.Fe)           1-1     Estudiantes (Santiago del Estero)
+Round: 9
+Date: 4/3/1982
+
+; San Lorenzo (MdP)       ; 2-2;     Unión San Vicente (Cba.)               ; Mar del Plata
+
+Date: 4/4/1982
+
+; Atlético Concepción(Tuc); 1-2;     Argentinos Juniors                     ; Atlético Tucumán
+; Independiente           ; 3-0;     Estudiantes (Santiago del Estero)
+; Unión (Sta.Fe)          ; 1-1;     Ferrocarril Oeste
  
-Round: Round 7
-[Mar 19]
-Unión San Vicente (Cba.) 1-1     Ferrocarril Oeste                      [at Córdoba]
-[Mar 21]
-Argentinos Juniors       0-0     Unión (Sta.Fe)
-Estudiantes (Sgo.)       1-1     San Lorenzo (Mar del Plata)            [at Central Córdoba]
-Independiente            1-0     Atlético Concepción (Tucumán)
+Round: 10
+Date: 4/7/1982
+
+; Ferrocarril Oeste       ; 3-0;     Estudiantes (Santiago del Estero)
+
+Date: 4/8/1982
+
+; Argentinos Juniors      ; 1-1;     Independiente                          ; Atlanta
+; Unión (Sta.Fe)          ; 5-1;     San Lorenzo (Mar del Plata)
+; Unión San Vicente (Cba.); 2-3;     Atlético Concepción (Tucumán)          ; Córdoba
  
-Round: Round 8
-[Mar 28]
-Atlético Concepción(Tuc) 2-1     Estudiantes (Santiago del Estero)      [at Atlético Tucumán]
-Ferrocarril Oeste        2-2     Independiente         
-San Lorenzo (MdP)        0-1     Argentinos Juniors
-Unión (Sta.Fe)           0-0     Unión San Vicente (Cba.)
+Round: 11
+Date: 4/11/1982
+
+; Atlético Concepción(Tuc); 1-2;     Unión (Sta.Fe)                         ; Atlético Tucumán
+; Estudiantes (Sgo.)      ; 1-3;     Argentinos Juniors                                  ; Central Córdoba
+; Independiente           ; 1-0;     Unión San Vicente (Cba.)
+; San Lorenzo (MdP)       ; 1-3;     Ferrocarril Oeste              ; Mar del Plata
  
-Round: Round 9
-[Apr 3]
-San Lorenzo (MdP)        2-2     Unión San Vicente (Cba.)               [at Mar del Plata]
-[Apr 4]
-Atlético Concepción(Tuc) 1-2     Argentinos Juniors                     [at Atlético Tucumán]
-Independiente            3-0     Estudiantes (Santiago del Estero)
-Unión (Sta.Fe)           1-1     Ferrocarril Oeste
+Round: 12
+Date: 4/17/1982
+
+; Unión San Vicente (Cba.); 3-4;     Estudiantes (Santiago del Estero)      ; Córdoba
+
+Date: 4/18/1982
+
+; Ferrocarril Oeste       ; 2-0;     Argentinos Juniors
+; San Lorenzo (MdP)       ; 1-1;     Atlético Concepción (Tucumán)
+; Unión (Sta.Fe)          ; 3-0;     Independiente
  
-Round: Round 10
-[Apr 7]
-Ferrocarril Oeste        3-0     Estudiantes (Santiago del Estero)
-[Apr 8]
-Argentinos Juniors       1-1     Independiente                          [at Atlanta]
-Unión (Sta.Fe)           5-1     San Lorenzo (Mar del Plata)
-Unión San Vicente (Cba.) 2-3     Atlético Concepción (Tucumán)          [at Córdoba]
+Round: 14
+Date: 4/30/1982
+
+; Independiente           ; 3-0;     San Lorenzo (Mar del Plata)
+
+Date: 5/2/1982
+
+; Argentinos Juniors      ; 1-1;     Unión San Vicente (Cba.)
+; Atlético Concepción(Tuc); 0-3;     Ferrocarril Oeste              ; Atlético Tucumán
+; Estudiantes (Sgo.)      ; 1-3;     Unión (Sta.Fe)
  
-Round: Round 11
-[Apr 11]
-Atlético Concepción(Tuc) 1-2     Unión (Sta.Fe)                         [at Atlético Tucumán]
-Estudiantes (Sgo.)       1-3     Argentinos Juniors                                  [at Central Córdoba]
-Independiente            1-0     Unión San Vicente (Cba.)
-San Lorenzo (MdP)        1-3     Ferrocarril Oeste              [at Mar del Plata]
+Round: 15
+Date: 5/9/1982
+
+; Atlético Concepción(Tuc); 1-2;     Independiente                          ; Atlético Tucumán
+; San Lorenzo (MdP)       ; 3-0;     Estudiantes (Santiago del Estero)      ; Mar del Plata
+; Unión (Sta.Fe)          ; 5-0;     Argentinos Juniors 
+
+Date: 5/10/1982
+
+; Ferrocarril Oeste       ; 4-0;     Unión San Vicente (Cba.)
  
-Round: Round 12
-[Apr 17]
-Unión San Vicente (Cba.) 3-4     Estudiantes (Santiago del Estero)      [at Córdoba]
-[Apr 18]
-Ferrocarril Oeste        2-0     Argentinos Juniors
-San Lorenzo (MdP)        1-1     Atlético Concepción (Tucumán)
-Unión (Sta.Fe)           3-0     Independiente
- 
-Round: Round 14
-[Apr 30]
-Independiente            3-0     San Lorenzo (Mar del Plata)
-[May 2]
-Argentinos Juniors       1-1     Unión San Vicente (Cba.)
-Atlético Concepción(Tuc) 0-3     Ferrocarril Oeste              [at Atlético Tucumán]
-Estudiantes (Sgo.)       1-3     Unión (Sta.Fe)
- 
-Round: Round 15
-[May 9]
-Atlético Concepción(Tuc) 1-2     Independiente                          [at Atlético Tucumán]
-San Lorenzo (MdP)        3-0     Estudiantes (Santiago del Estero)      [at Mar del Plata]
-Unión (Sta.Fe)           5-0     Argentinos Juniors 
-[May 10]
-Ferrocarril Oeste        4-0     Unión San Vicente (Cba.)
- 
-Round: Round 16
-[May 16]
-Argentinos Juniors       2-1     San Lorenzo (Mar del Plata)
-Estudiantes (Sgo.)       0-1     Atlético Concepción (Tucumán)          [at Central Córdoba]
-Independiente            0-4     Ferrocarril Oeste
-Unión San Vicente (Cba.) 0-2     Unión (Sta.Fe)                         [at Córdoba]
+Round: 16
+Date: 5/16/1982
+
+; Argentinos Juniors      ; 2-1;     San Lorenzo (Mar del Plata)
+; Estudiantes (Sgo.)      ; 0-1;     Atlético Concepción (Tucumán)          ; Central Córdoba
+; Independiente           ; 0-4;     Ferrocarril Oeste
+; Unión San Vicente (Cba.); 0-2;     Unión (Sta.Fe)                         ; Córdoba
  
 * 1. Ferro Carril Oeste               16  13   3   0    7  1  0   6  2  0   39  9   29  [Qualified]
 *2. Unión (Santa Fe)                 16   8   7   1    4  4  0   4  3  1   29  9   23  [Qualified]
@@ -253,117 +298,141 @@ Unión San Vicente (Cba.) 0-2     Unión (Sta.Fe)                         [at C�
 *8. Estudiantes (Sgo. del Estero)    16   1   2  13    0  1  7   1  1  6   13 41    4 
  
  
+*Note:
+*. Second place defined by goal difference:
+*  Unión (Sta.Fe) 20, Independiente 8.
  
-Note:
-. Second place defined by goal difference:
-  Unión (Sta.Fe) 20, Independiente 8.
+Group: C                         
+Round: 1
+
+Date: 2/12/1982
+
+; Rosario Central         ; 3-0;     Gimnasia y Esgrima (Mendoza)
+
+Date: 2/14/1982
+
+; Boca Juniors            ; 4-2;     Huracán
+; Estudiantes (LP)        ; 0-0;     Talleres (Cba.)
+; Mariano Moreno (Junín)  ; 0-3;     Central Norte (Salta)          ; Sarmiento
  
-Group: Group C                         
+Round: 2
+Date: 2/19/1982
+
+; Gimnasia y Esgrima (Mza); 2-0;     Estudiantes (LP)               ; Malvinas Argentinas
+
+Date: 2/21/1982
+
+; Central Norte (Salta)   ; 1-3;     Talleres (Cba.)
+; Huracán                 ; 2-1;     Rosario Central 
+; Mariano Moreno (Junín)  ; 1-4;     Boca Juniors                   ; Sarmiento
  
+Round: 3
+Date: 2/26/1982
+
+; Rosario Central         ; 2-0;     Mariano Moreno (Junín) 
+
+Date: 2/28/1982
+
+; Boca Juniors            ; 2-0;     Central Norte (Salta)
+; Estudiantes (LP)        ; 2-0;     Huracán
+; Talleres (Cba.)         ; 2-4;     Gimnasia y Esgrima (Mendoza)   ; Córdoba
  
-Round: Round 1
-[Feb 12]
-Rosario Central          3-0     Gimnasia y Esgrima (Mendoza)
-[Feb 14]
-Boca Juniors             4-2     Huracán
-Estudiantes (LP)         0-0     Talleres (Cba.)
-Mariano Moreno (Junín)   0-3     Central Norte (Salta)          [at Sarmiento]
+Round: 4
+Date: 3/3/1982
+
+; Boca Juniors            ; 1-1;     Rosario Central 
+; Huracán                 ; 0-0;     Talleres (Cba.)
+; Mariano Moreno (Junín)  ; 1-2;     Estudiantes (LP)               ; Sarmiento
+
+Date: 3/4/1982
+
+; Central Norte (Salta)   ; 1-1;     Gimnasia y Esgrima (Mendoza)   ; Gimnasia y Tiro
  
-Round: Round 2
-[Feb 19]
-Gimnasia y Esgrima (Mza) 2-0     Estudiantes (LP)               [at Malvinas Argentinas]
-[Feb 21]
-Central Norte (Salta)    1-3     Talleres (Cba.)
-Huracán                  2-1     Rosario Central 
-Mariano Moreno (Junín)   1-4     Boca Juniors                   [at Sarmiento]
+Round: 6
+Date: 3/14/1982
+
+; Estudiantes (LP)        ; 0-0;     Boca Juniors 
+; Gimnasia y Esgrima (Mza); 1-1;     Huracán                ; Malvinas Argentinas
+; Rosario Central         ; 6-0;     Central Norte (Salta)
+; Talleres (Cba.)         ; 8-2;     Mariano Moreno (Junín)         ; Córdoba
  
-Round: Round 3
-[Feb 26]
-Rosario Central          2-0     Mariano Moreno (Junín) 
-[Feb 28]
-Boca Juniors             2-0     Central Norte (Salta)
-Estudiantes (LP)         2-0     Huracán
-Talleres (Cba.)          2-4     Gimnasia y Esgrima (Mendoza)   [at Córdoba]
+Round: 7
+Date: 3/21/1982
+
+; Boca Juniors            ; 2-2;     Talleres (Cba.)
+; Central Norte (Salta)   ; 1-0;     Huracán
+; Mariano Moreno (Junín)  ; 0-2;     Gimnasia y Esgrima (Mendoza)   ; Sarmiento
+; Rosario Central         ; 1-1;     Estudiantes (LP)
  
-Round: Round 4
-[Mar 3]
-Boca Juniors             1-1     Rosario Central 
-Huracán                  0-0     Talleres (Cba.)
-Mariano Moreno (Junín)   1-2     Estudiantes (LP)               [at Sarmiento]
-[Mar 4]
-Central Norte (Salta)    1-1     Gimnasia y Esgrima (Mendoza)   [at Gimnasia y Tiro]
+Round: 8
+Date: 3/28/1982
+
+; Estudiantes (LP)        ; 4-0;     Central Norte (Salta)
+; Gimnasia y Esgrima (Mza); 1-0;     Boca Juniors           ; Malvinas Argentinas
+; Huracán                 ; 4-1;     Mariano Moreno (Junín)
+; Talleres (Cba.)         ; 4-3;     Rosario Central                ; Córdoba
  
-Round: Round 6
-[Mar 14]
-Estudiantes (LP)         0-0     Boca Juniors 
-Gimnasia y Esgrima (Mza) 1-1     Huracán                [at Malvinas Argentinas]
-Rosario Central          6-0     Central Norte (Salta)
-Talleres (Cba.)          8-2     Mariano Moreno (Junín)         [at Córdoba]
+Round: 9
+Date: 4/2/1982
+
+; Central Norte (Salta)   ; 1-0;     Mariano Moreno (Junín)         ; Gimnasia y Tiro
+
+Date: 4/4/1982
+
+; Gimnasia y Esgrima (Mza); 1-2;     Rosario Central                ; Malvinas Argentinas
+; Huracán                 ; 3-3;     Boca Juniors
+; Talleres (Cba.)         ; 2-2;     Estudiantes (LP)               ; Córdoba
  
-Round: Round 7
-[Mar 21]
-Boca Juniors             2-2     Talleres (Cba.)
-Central Norte (Salta)    1-0     Huracán
-Mariano Moreno (Junín)   0-2     Gimnasia y Esgrima (Mendoza)   [at Sarmiento]
-Rosario Central          1-1     Estudiantes (LP)
+Round: 10
+Date: 4/7/1982
+
+; Talleres (Cba.)         ; 2-1;     Central Norte (Salta)          ; Córdoba
+
+Date: 4/8/1982
+
+; Boca Juniors            ; 2-0;     Mariano Moreno (Junín)
+; Estudiantes (LP)        ; 3-1;     Gimnasia y Esgrima (Mendoza)
+; Rosario Central         ; 2-0;     Huracán
  
-Round: Round 8
-[Mar 28]
-Estudiantes (LP)         4-0     Central Norte (Salta)
-Gimnasia y Esgrima (Mza) 1-0     Boca Juniors           [at Malvinas Argentinas]
-Huracán                  4-1     Mariano Moreno (Junín)
-Talleres (Cba.)          4-3     Rosario Central                [at Córdoba]
+Round: 11
+Date: 4/11/1982
+
+; Central Norte (Salta)   ; 2-1;     Boca Juniors                   ; Gimnasia y Tiro
+; Gimnasia y Esgrima (Mza); 2-2;     Talleres (Cba.)                    ; Malvinas Argentinas
+; Huracán                 ; 0-1;     Estudiantes (LP)                   
+; Mariano Moreno (Junín)  ; 1-9;     Rosario Central                        ; Sarmiento
  
-Round: Round 9
-[Apr 2]
-Central Norte (Salta)    1-0     Mariano Moreno (Junín)         [at Gimnasia y Tiro]
-[Apr 4]
-Gimnasia y Esgrima (Mza) 1-2     Rosario Central                [at Malvinas Argentinas]
-Huracán                  3-3     Boca Juniors
-Talleres (Cba.)          2-2     Estudiantes (LP)               [at Córdoba]
+Round: 12
+Date: 4/18/1982
+
+; Estudiantes (LP)        ; 1-1;     Mariano Moreno (Junín)
+; Gimnasia y Esgrima (Mza); 2-1;     Central Norte (Salta)          ; Malvinas Argentinas
+; Rosario Central         ; 0-0;     Boca Juniors 
+; Talleres (Cba.)         ; 0-2;     Huracán                ; Córdoba
  
-Round: Round 10
-[Apr 7]
-Talleres (Cba.)          2-1     Central Norte (Salta)          [at Córdoba]
-[Apr 8]
-Boca Juniors             2-0     Mariano Moreno (Junín)
-Estudiantes (LP)         3-1     Gimnasia y Esgrima (Mendoza)
-Rosario Central          2-0     Huracán
+Round: 14
+Date: 5/2/1982
+
+; Boca Juniors            ; 1-1;     Estudiantes (LP)
+; Central Norte (Salta)   ; 0-1;     Rosario Central
+; Huracán                 ; 0-3;     Gimnasia y Esgrima (Mendoza)
+; Mariano Moreno (Junín)  ; 1-3;     Talleres (Cba.)        ; Sarmiento
  
-Round: Round 11
-[Apr 11]
-Central Norte (Salta)    2-1     Boca Juniors                   [at Gimnasia y Tiro]
-Gimnasia y Esgrima (Mza) 2-2     Talleres (Cba.)                    [at Malvinas Argentinas]
-Huracán                  0-1     Estudiantes (LP)                   
-Mariano Moreno (Junín)   1-9     Rosario Central                        [at Sarmiento]
+Round: 15
+Date: 5/9/1982
+
+; Estudiantes (LP)        ; 1-0;     Rosario Central
+; Gimnasia y Esgrima (Mza); 3-0;     Mariano Moreno (Junín)         ; Malvinas Argentinas
+; Huracán                 ; 1-1;     Central Norte (Salta)
+; Talleres (Cba.)         ; 4-0;     Boca Juniors           ; Córdoba
  
-Round: Round 12
-[Apr 18]
-Estudiantes (LP)         1-1     Mariano Moreno (Junín)
-Gimnasia y Esgrima (Mza) 2-1     Central Norte (Salta)          [at Malvinas Argentinas]
-Rosario Central          0-0     Boca Juniors 
-Talleres (Cba.)          0-2     Huracán                [at Córdoba]
- 
-Round: Round 14
-[May 2]
-Boca Juniors             1-1     Estudiantes (LP)
-Central Norte (Salta)    0-1     Rosario Central
-Huracán                  0-3     Gimnasia y Esgrima (Mendoza)
-Mariano Moreno (Junín)   1-3     Talleres (Cba.)        [at Sarmiento]
- 
-Round: Round 15
-[May 9]
-Estudiantes (LP)         1-0     Rosario Central
-Gimnasia y Esgrima (Mza) 3-0     Mariano Moreno (Junín)         [at Malvinas Argentinas]
-Huracán                  1-1     Central Norte (Salta)
-Talleres (Cba.)          4-0     Boca Juniors           [at Córdoba]
- 
-Round: Round 16
-[May 16]
-Boca Juniors             1-0     Gimnasia y Esgrima (Mendoza)
-Central Norte (Salta)    0-1     Estudiantes (LP)       [at Gimnasia y Tiro]
-Mariano Moreno (Junín)   1-1     Huracán                    [at Sarmiento]
-Rosario Central          1-2     Talleres (Cba.)
+Round: 16
+Date: 5/16/1982
+
+; Boca Juniors            ; 1-0;     Gimnasia y Esgrima (Mendoza)
+; Central Norte (Salta)   ; 0-1;     Estudiantes (LP)       ; Gimnasia y Tiro
+; Mariano Moreno (Junín)  ; 1-1;     Huracán                    ; Sarmiento
+; Rosario Central         ; 1-2;     Talleres (Cba.)
  
 
 * 1. Estudiantes (La Plata)           16   8   7   1    5  3  0   3  4  1   22 10   23  [Qualified]
@@ -376,114 +445,145 @@ Rosario Central          1-2     Talleres (Cba.)
 *7. Central Norte (Salta)            16   5   2   9    4  1  3   1  1  6   17 27   12
 *8. Mariano Moreno (Junín)           16   0   2  14    0  1  7   0  1  7   11 53    2 
  
-Group: Group D                        
-  
-Round: Round 1
-[Feb 14]
-Deportivo Roca (RN)      1-1     Racing (Cba.)
-Racing Club              1-0     Guaraní A. Franco (Misiones)           [at Vélez Sarsfield]
-Renato Cesarini (Ros.)   1-0     Velez Sarsfield                            [at Newell's Old Boys]
-San Martín (Tucumán)     0-0     Platense
+Group: D                        
+Round: 1
+Date: 2/14/1982
+
+; Deportivo Roca (RN)     ; 1-1;     Racing (Cba.)
+; Racing Club             ; 1-0;     Guaraní A. Franco (Misiones)           ; Vélez Sarsfield
+; Renato Cesarini (Ros.)  ; 1-0;     Velez Sarsfield                            ; Newell's Old Boys
+; San Martín (Tucumán)    ; 0-0;     Platense
  
-Round: Round 2
-[Feb 21]
-Platense                 1-1     Racing Club
-Racing (Cba.)            1-0     San Martín (Tucumán)                   [at Córdoba]
-Renato Cesarini (Ros.)   3-1     Deportivo Roca (Río Negro)                 [at Rosario Central]
-Velez Sarsfield          2-0     Guaraní A. Franco (Misiones)
+Round: 2
+Date: 2/21/1982
+
+; Platense                ; 1-1;     Racing Club
+; Racing (Cba.)           ; 1-0;     San Martín (Tucumán)                   ; Córdoba
+; Renato Cesarini (Ros.)  ; 3-1;     Deportivo Roca (Río Negro)                 ; Rosario Central
+; Velez Sarsfield         ; 2-0;     Guaraní A. Franco (Misiones)
  
-Round: Round 3
-[Feb 28]
-Deportivo Roca (RN)      0-0     Velez Sarsfield
-Guaraní A. Franco (Mis.) 1-3     Platense
-Racing Club              3-3     Racing (Cba.)                          [at Vélez Sarsfield]
-San Martín (Tucumán)     2-0     Renato Cesarini (Rosario)
+Round: 3
+Date: 2/28/1982
+
+; Deportivo Roca (RN)     ; 0-0;     Velez Sarsfield
+; Guaraní A. Franco (Mis.); 1-3;     Platense
+; Racing Club             ; 3-3;     Racing (Cba.)                          ; Vélez Sarsfield
+; San Martín (Tucumán)    ; 2-0;     Renato Cesarini (Rosario)
  
-Round: Round 4
-[Mar 3]
-Deportivo Roca (RN)      2-1     San Martín (Tucumán)
-Racing (Cba.)            2-0     Guaraní A. Franco (Misiones)           [at Córdoba]
-Velez Sarsfield          2-0     Platense
-[Mar 4]
-Renato Cesarini (Ros.)   5-1     Racing Club                            [at Rosario Central]
+Round: 4
+Date: 3/3/1982
+
+; Deportivo Roca (RN)     ; 2-1;     San Martín (Tucumán)
+; Racing (Cba.)           ; 2-0;     Guaraní A. Franco (Misiones)           ; Córdoba
+; Velez Sarsfield         ; 2-0;     Platense
+
+Date: 3/4/1982
+
+; Renato Cesarini (Ros.)  ; 5-1;     Racing Club                            ; Rosario Central
  
-Round: Round 6
-[Mar 14]
-Guaraní A. Franco (Mis.) 0-0     Renato Cesarini (Rosario)
-Platense                 1-3     Racing (Cba.)
-Racing Club              1-3     Deportivo Roca (Río Negro)             [at Vélez Sarsfield]
-San Martín (Tucumán)     1-3     Velez Sarsfield
+Round: 6
+Date: 3/14/1982
+
+; Guaraní A. Franco (Mis.); 0-0;     Renato Cesarini (Rosario)
+; Platense                ; 1-3;     Racing (Cba.)
+; Racing Club             ; 1-3;     Deportivo Roca (Río Negro)             ; Vélez Sarsfield
+; San Martín (Tucumán)    ; 1-3;     Velez Sarsfield
  
-Round: Round 7
-[Mar 19]
-Renato Cesarini (Ros.)   1-1     Platense                               [at Newell's Old Boys]
-[Mar 21]
-Deportivo Roca (RN)      0-2     Guaraní A. Franco (Misiones)
-San Martín (Tucumán)     0-0     Racing Club
-Velez Sarsfield          2-1     Racing (Cba.)
+Round: 7
+Date: 3/19/1982
+
+; Renato Cesarini (Ros.)  ; 1-1;     Platense                               ; Newell's Old Boys
+
+Date: 3/21/1982
+
+; Deportivo Roca (RN)     ; 0-2;     Guaraní A. Franco (Misiones)
+; San Martín (Tucumán)    ; 0-0;     Racing Club
+; Velez Sarsfield         ; 2-1;     Racing (Cba.)
  
-Round: Round 8
-[Mar 26]
-Racing (Cba.)            4-4     Renato Cesarini (Rosario)              [at Córdoba]
-[Mar 28]
-Guaraní A. Franco (Mis.) 3-2     San Martín (Tucumán)
-Platense                 3-0     Deportivo Roca (Río Negro)
-Racing Club              0-0     Velez Sarsfield                [at Vélez Sarsfield]
+Round: 8
+Date: 3/26/1982
+
+; Racing (Cba.)           ; 4-4;     Renato Cesarini (Rosario)              ; Córdoba
+
+Date: 3/28/1982
+
+; Guaraní A. Franco (Mis.); 3-2;     San Martín (Tucumán)
+; Platense                ; 3-0;     Deportivo Roca (Río Negro)
+; Racing Club             ; 0-0;     Velez Sarsfield                ; Vélez Sarsfield
  
-Round: Round 9
-[Apr 3]
-Racing (Cba.)            3-1     Deportivo Roca (Río Negro)             [at Córdoba]
-[Apr 4]
-Guaraní A. Franco (Mis.) 2-2     Racing Club 
-Platense                 0-1     San Martín (Tucumán)
-Velez Sarsfield          2-2     Renato Cesarini (Rosario)
+Round: 9
+Date: 4/3/1982
+
+; Racing (Cba.)           ; 3-1;     Deportivo Roca (Río Negro)             ; Córdoba
+
+Date: 4/4/1982
+
+; Guaraní A. Franco (Mis.); 2-2;     Racing Club 
+; Platense                ; 0-1;     San Martín (Tucumán)
+; Velez Sarsfield         ; 2-2;     Renato Cesarini (Rosario)
  
-Round: Round 10
-[Apr 7]
-Racing Club              4-2     Platense                               [at Vélez Sarsfield]
-[Apr 8]
-Deportivo Roca (RN)      1-1     Renato Cesarini (Rosario)
-Guaraní A. Franco (Mis.) 1-3     Velez Sarsfield 
-San Martín (Tucumán)     1-0     Racing (Cba.)
+Round: 10
+Date: 4/7/1982
+
+; Racing Club             ; 4-2;     Platense                               ; Vélez Sarsfield
+
+Date: 4/8/1982
+
+; Deportivo Roca (RN)     ; 1-1;     Renato Cesarini (Rosario)
+; Guaraní A. Franco (Mis.); 1-3;     Velez Sarsfield 
+; San Martín (Tucumán)    ; 1-0;     Racing (Cba.)
  
-Round: Round 11
-[Apr 10]
-Racing (Cba.)            1-1     Racing Club
-[Apr 11]
-Platense                 0-0     Guaraní A. Franco (Misiones)
-Renato Cesarini (Ros.)   1-2     San Martín (Tucumán)                   [at Rosario Central]
-Velez Sarsfield          6-1     Deportivo Roca (Río Negro)
+Round: 11
+Date: 4/10/1982
+
+; Racing (Cba.)           ; 1-1;     Racing Club
+
+Date: 4/11/1982
+
+; Platense                ; 0-0;     Guaraní A. Franco (Misiones)
+; Renato Cesarini (Ros.)  ; 1-2;     San Martín (Tucumán)                   ; Rosario Central
+; Velez Sarsfield         ; 6-1;     Deportivo Roca (Río Negro)
  
-Round: Round 12
-[Apr 18]
-Guaraní A. Franco (Mis.) 0-1     Racing (Cba.)
-Platense                 0-0     Velez Sarsfield 
-Racing Club              0-1     Renato Cesarini (Rosario)              [at Vélez Sarfield]
-San Martín (Tucumán)     0-0     Deportivo Roca (Río Negro)
+Round: 12
+Date: 4/18/1982
+
+; Guaraní A. Franco (Mis.); 0-1;     Racing (Cba.)
+; Platense                ; 0-0;     Velez Sarsfield 
+; Racing Club             ; 0-1;     Renato Cesarini (Rosario)              ; Vélez Sarfield
+; San Martín (Tucumán)    ; 0-0;     Deportivo Roca (Río Negro)
  
-Round: Round 14
-[May 1]
-Racing (Cba.)            2-1     Platense                               [at Córdoba]
-[May 2]
-Deportivo Roca (RN)      2-0     Racing Club
-Renato Cesarini (Ros.)   1-1     Guaraní A. Franco (Misiones)           [at Rosario Central]
-Velez Sarsfield          0-1     San Martín (Tucumán)
+Round: 14
+Date: 5/1/1982
+
+; Racing (Cba.)           ; 2-1;     Platense                               ; Córdoba
+
+Date: 5/2/1982
+
+; Deportivo Roca (RN)     ; 2-0;     Racing Club
+; Renato Cesarini (Ros.)  ; 1-1;     Guaraní A. Franco (Misiones)           ; Rosario Central
+; Velez Sarsfield         ; 0-1;     San Martín (Tucumán)
  
-Round: Round 15
-[May 8]
-Racing (Cba.)            3-2     Velez Sarsfield                        [at Córdoba]
-[May 9]
-Guaraní A. Franco (Mis.) 1-2     Deportivo Roca (Río Negro)
-Platense                 3-0     Renato Cesarini (Rosario)
-[May 10]
-Racing Club              0-0     San Martín (Tucumán)                   [at Vélez Sarsfield]
+Round: 15
+Date: 5/8/1982
+
+; Racing (Cba.)           ; 3-2;     Velez Sarsfield                        ; Córdoba
+
+Date: 5/9/1982
+
+; Guaraní A. Franco (Mis.); 1-2;     Deportivo Roca (Río Negro)
+; Platense                ; 3-0;     Renato Cesarini (Rosario)
+
+Date: 5/10/1982
+
+; Racing Club             ; 0-0;     San Martín (Tucumán)                   ; Vélez Sarsfield
  
-Round: Round 16
-[May 16]
-Deportivo Roca (RN)      0-1     Platense
-Renato Cesarini (Ros.)   2-1     Racing (Cba.)                          [at Rosario Central]
-San Martín (Tucumán)     5-1     Guaraní A. Franco (Misiones)
-Velez Sarsfield          2-0     Racing Club
+Round: 16
+Date: 5/16/1982
+
+; Deportivo Roca (RN)     ; 0-1;     Platense
+; Renato Cesarini (Ros.)  ; 2-1;     Racing (Cba.)                          ; Rosario Central
+; San Martín (Tucumán)    ; 5-1;     Guaraní A. Franco (Misiones)
+; Velez Sarsfield         ; 2-0;     Racing Club
  
  
 * 1. Racing (Córdoba)                 16   8   5   3    5  3  0   3  2  3   30 20   21  [Qualified]
@@ -498,717 +598,122 @@ Velez Sarsfield          2-0     Racing Club
  
  
 *Group A vs. Group C & Group B vs. Group D
+Group: Mixed 
+ 
+Round: 5
+Date: 3/6/1982
+
+; Central Norte (Salta)   ; 3-1;     Gimnasia y Esgrima (Jujuy)        ; Gimnasia y Tiro
+
+Date: 3/7/1982
+
+; Newell's Old Boys       ; 2-1;     Rosario Central
+; Quilmes                 ; 1-1;     Estudiantes (LP)
+; River Plate             ; 1-5;     Boca Juniors
+; Sarmiento (Junín)       ; 4-1;     Mariano Moreno (Junín)
+; Gimnasia y Esgrima (Mza); 2-2;     Independiente Rivadavia (Mza.)    ; Malvinas Argentinas
+; Huracán                 ; 0-0;     Nueva Chicago
+; Talleres (Cba.)         ; 1-1;     Instituto (Cba.)                  ; Córdoba
+; Atlético Concepción(Tuc); 0-1;     San Martín (Tucumán)                     ; Atlético Tucumán
+; Independiente           ; 1-1;     Racing Club
+; San Lorenzo (MdP)       ; 2-1;     Deportivo Roca (Río Negro)        ; Mar del Plata
+; Unión (Sta.Fe)          ; 3-0;     Renato Cesarini (Rosario)  
+; Guaraní A. Franco (Mis.); 4-1;     Estudiantes (Santiago del Estero)
+; Platense                ; 1-0;     Argentinos Juniors
+; Racing (Cba.)           ; 1-1;     Unión San Vicente (Cba.)          ; Córdoba
+; Velez Sarsfield         ; 0-4;     Ferrocarril Oeste
+ 
+Round: 13
+Date: 4/25/1982
+
+; Rosario Central         ; 2-1;     Newell's Old Boys 
+; Estudiantes (LP)        ; 2-0;      Quilmes
+; Boca Juniors                      ; 0-0;   River Plate 
+; Mariano Moreno (Junín)  ; 1-4;        Sarmiento (Junín)              ; Sarmiento
+; Gimnasia y Esg.(Jujuy)  ; 3-2;         Central Norte (Salta)
+; Independiente Riv.(Mza.); 2-0;          Gimnasia y Esgrima (Mendoza)         ; Malvinas Argentinas
+; Nueva Chicago            ; 1-0;          Huracán
+; Instituto (Cba.)        ; 0-1;            Talleres (Cba.)            ; Córdoba
+; San Martín (Tucumán)    ; 1-0;             Atlético Concepción(Tucumán)
+; Racing Club                              ; 1-2;      Independiente                           ; Vélez Sarsfield
+; Deportivo Roca (RN)     ; 3-2;               San Lorenzo (Mar del Plata)
+; Renato Cesarini (Rosario); 0-0;                Unión (Sta.Fe)
+; Estudiantes (Sgo.)      ; 0-1;                 Guaraní A. Franco (Misiones)          ; Central Córdoba
+; Argentinos Juniors      ; 1-1;                  Platense 
+; Unión San Vicente (Cba.); 0-3;                   Racing (Cba.)                       ; Córdoba
+; Ferrocarril Oeste       ; 2-1;                    Velez Sarsfield 
+ 
+Round: Quarterfinals
+
+* First leg:
+Date: 5/23/1982
+
+; Independiente Riv.(Mza.); 0-1;     Ferrocarril Oeste              ; Malvinas Argentinas
+; Talleres (Cba.)         ; 1-1;     Racing (Cba.)                               ; Córdoba
+; Estudiantes (LP)        ; 3-1;     San Martín (Tucumán) 
+; Unión (Sta.Fe)          ; 1-1;     Quilmes
+ 
+*Second leg
+Date: 5/30/1982
+
+; Ferrocarril Oeste       ; 0-0;     Independiente Rivadavia (Mza.)
+; Racing (Cba.)           ; 1-3;     Talleres (Cba.)                ; Córdoba
+; San Martín (Tucumán)    ; 2-2;     Estudiantes (LP)
+; Quilmes              ; 1-1;  Unión (Sta.Fe)
+Penalty kicks: 5-4
+ 
+Round: Semifinals
+*First leg:
+
+Date: 6/6/1982
+
+; Ferrocarril Oeste       ; 4-0;     Talleres (Cba.)
+; Quilmes                 ; 2-0;     Estudiantes (LP)
+ 
+*Second leg
+Date: 6/13/1982
+
+; Talleres (Cba.)         ; 4-4;     Ferrocarril Oeste              ; Córdoba
+; Estudiantes (LP)        ; 0-1;     Quilmes 
  
  
-Round: Round 5
-[Mar 6]
-Central Norte (Salta)    3-1     Gimnasia y Esgrima (Jujuy)        [at Gimnasia y Tiro]
-[Mar 7]
-Newell's Old Boys        2-1     Rosario Central
-Quilmes                  1-1     Estudiantes (LP)
-River Plate              1-5     Boca Juniors
-Sarmiento (Junín)        4-1     Mariano Moreno (Junín)
-Gimnasia y Esgrima (Mza) 2-2     Independiente Rivadavia (Mza.)    [at Malvinas Argentinas]
-Huracán                  0-0     Nueva Chicago
-Talleres (Cba.)          1-1     Instituto (Cba.)                  [at Córdoba]
-Atlético Concepción(Tuc) 0-1     San Martín (Tucumán)                     [at Atlético Tucumán]
-Independiente            1-1     Racing Club
-San Lorenzo (MdP)        2-1     Deportivo Roca (Río Negro)        [at Mar del Plata]
-Unión (Sta.Fe)           3-0     Renato Cesarini (Rosario)  
-Guaraní A. Franco (Mis.) 4-1     Estudiantes (Santiago del Estero)
-Platense                 1-0     Argentinos Juniors
-Racing (Cba.)            1-1     Unión San Vicente (Cba.)          [at Córdoba]
-Velez Sarsfield          0-4     Ferrocarril Oeste
+Round: Final
  
-Round: Round 13
-[Apr 25]
-Rosario Central          2-1     Newell's Old Boys 
-Estudiantes (LP)         2-0      Quilmes
-Boca Juniors                       0-0   River Plate 
-Mariano Moreno (Junín)   1-4        Sarmiento (Junín)              [at Sarmiento]
-Gimnasia y Esg.(Jujuy)   3-2         Central Norte (Salta)
-Independiente Riv.(Mza.) 2-0          Gimnasia y Esgrima (Mendoza)         [at Malvinas Argentinas]
-Nueva Chicago             1-0          Huracán
-Instituto (Cba.)         0-1            Talleres (Cba.)            [at Córdoba]
-San Martín (Tucumán)     1-0             Atlético Concepción(Tucumán)
-Racing Club                               1-2      Independiente                           [at Vélez Sarsfield]
-Deportivo Roca (RN)      3-2               San Lorenzo (Mar del Plata)
-Renato Cesarini (Rosario)0-0                Unión (Sta.Fe)
-Estudiantes (Sgo.)       0-1                 Guaraní A. Franco (Misiones)          [at Central Córdoba]
-Argentinos Juniors       1-1                  Platense 
-Unión San Vicente (Cba.) 0-3                   Racing (Cba.)                       [at Córdoba]
-Ferrocarril Oeste        2-1                    Velez Sarsfield 
+*First leg:
+
+6/20/1982; Quilmes                 ; 0-0;     Ferrocarril Oeste
+ 
+*Second leg:
+
+6/27/1982; Ferrocarril Oeste       ; 2-0;     Quilmes 
  
  
-QUARTERFINALS
- 
-First leg:
-[May 23]
-Independiente Riv.(Mza.) 0-1     Ferrocarril Oeste              [at Malvinas Argentinas]
-Talleres (Cba.)          1-1     Racing (Cba.)                               [at Córdoba]
-Estudiantes (LP)         3-1     San Martín (Tucumán) 
-Unión (Sta.Fe)           1-1     Quilmes
- 
-Second leg:
-[May 30]
-Ferrocarril Oeste        0-0     Independiente Rivadavia (Mza.)
-Racing (Cba.)            1-3     Talleres (Cba.)                [at Córdoba]
-San Martín (Tucumán)     2-2     Estudiantes (LP)
-Quilmes               [5]1-1[4]  Unión (Sta.Fe)
- 
-SEMIFINALS
- 
-First leg:
-[Jun 6]
-Ferrocarril Oeste        4-0     Talleres (Cba.)
-Quilmes                  2-0     Estudiantes (LP)
- 
-Second leg:
-[Jun 13]
-Talleres (Cba.)          4-4     Ferrocarril Oeste              [at Córdoba]
-Estudiantes (LP)         0-1     Quilmes 
- 
- 
-FINAL
- 
-First leg:
-[Jun 20]
-Quilmes                  0-0     Ferrocarril Oeste
- 
-Second leg:
-[Jun 27]
-Ferrocarril Oeste        2-0     Quilmes 
- 
- 
- 
-Ferro Carril Oeste won the championship with the following line- ups:
- 
-Ferro Carril Oeste:     Bacigalup; R.Gómez; H.Cúper, J.D.Rocchia, Garré; 
-                        C.A.Arregui, G.Saccardi, A.Cañete; Crocco, A.Márcico, M.A.Juárez.
-                                                 Coach: Carlos Timoteo Griguol.
-Quilmes:                                                H.Tocalli; Zárate, Milozzi, H.Díaz, O.Gizzi; 
-                                                                           Frediani (V.Martínez), Gáspari, O.Gissi (R.Ponce); Lorea, Acevedo, Converti.
-                                                                                                  Coach: Roberto Domingo Rogel.
- 
-Goals:                  24' M.A.Juárez; 53' J.D.Rocchia.
-Referee:                    Teodoro Nitti.
-Tickets:                            21.166.-
- 
- 
-Libertadores Cup 1983: Ferrocarril Oeste.
-Promoted: Racing (Cba.).
-Goals: 782.
-    
-Top scorers:
-1. Juárez, Miguel          Ferro Carril Oeste      22
-2. Morete, Carlos          Talleres (Cba.)         17
-3. Bianchi, Carlos         Vélez Sarsfield         13
-4. Gasparini, Roberto      Racing (Cba.)           12
-5. Robles, Sergio          Sarmiento (Junín)       11
+*Ferro Carril Oeste won the championship with the following line- ups:
+* 
+*Ferro Carril Oeste:     Bacigalup; R.Gómez; H.Cúper, J.D.Rocchia, Garré; 
+*                        C.A.Arregui, G.Saccardi, A.Cañete; Crocco, A.Márcico, M.A.Juárez.
+*                                                 Coach: Carlos Timoteo Griguol.
+*Quilmes:                                                H.Tocalli; Zárate, Milozzi, H.Díaz, O.Gizzi; 
+*                                                                           Frediani (V.Martínez), Gáspari, O.Gissi (R.Ponce); Lorea, Acevedo, Converti.
+*                                                                                                  Coach: Roberto Domingo Rogel.
+* 
+*Goals:                  24' M.A.Juárez; 53' J.D.Rocchia.
+*Referee:                    Teodoro Nitti.
+*Tickets:                            21.166.-
+* 
+* 
+*Libertadores Cup 1983: Ferrocarril Oeste.
+*Promoted: Racing (Cba.).
+*Goals: 782.
+*    
+*Top scorers:
+*1. Juárez, Miguel          Ferro Carril Oeste      22
+*2. Morete, Carlos          Talleres (Cba.)         17
+*3. Bianchi, Carlos         Vélez Sarsfield         13
+*4. Gasparini, Roberto      Racing (Cba.)           12
+*5. Robles, Sergio          Sarmiento (Junín)       11
          
------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------
- 
-Campeonato Metropolitano 1982 (Metropolitano Championship)
 
- 
-
-Table:
---------------------------------------------------------------------------------------
-                                                         Home      Away
-No. Team                                                                      G   W   D   L    W  D  L   W  D  L   Gf Ga   P
---------------------------------------------------------------------------------------
- 1. Estudiantes (La Plata)           36  21  12   3   12  5  1   9  7  2   50 18   54  [Champion]
---------------------------------------------------------------------------------------
-2. Independiente                    36  19  14   3   12  6  0   7  8  3   64 30   52
-3. Boca Juniors                     36  17  14   5   11  4  3   6 10  2   60 36   48
-4. Newell's Old Boys                36  15  14   7   11  6  1   4  8  6   60 34   44
-5. Vélez Sarsfield                  36  16  10  10   11  5  2   5  5  8   45 37   42
-6. Huracán                          36  15  11  10   10  6  2   5  5  8   44 37   41
-7. Racing (Córdoba)                 36  13  13  10    9  6  3   4  7  7   62 47   39
-8. Rosario Central                  36  13  11  12    9  4  5   4  7  7   55 49   37
-9. Ferro Carril Oeste               36  11  15  10    8  7  3   3  8  7   36 39   37
-10. River Plate                      36  12  10  14    8  6  4   4  4 10   43 46   34
-11. Talleres (Córdoba)               36  12   9  15    8  4  6   4  5  9   55 59   33
-12. Instituto (Córdoba)              36  11  11  14    9  5  4   2  6 10   39 56   33
-13. Argentinos Juniors               36   7  14  15    4  9  5   3  5 10   49 58   28
-14. Platense                         36   9  10  17    7  5  6   2  5 11   41 55   28
-15. Nueva Chicago                    36   8  12  16    5  7  6   3  5 10   33 50   28
-16. Racing Club                      36  10   8  18    8  3  7   2  5 11   36 58   28 
---------------------------------------------------------------------------------------
-17. Unión (Santa Fe)                 36   7  13  16    7  8  3   0  5 13   36 57   27  [Relegation Playoff]
-18. Quilmes                          36   9   9  18    7  8  3   2  1 15   30 53   27  [Relegation Playoff]
---------------------------------------------------------------------------------------
-19. Sarmiento (Junín)                36   5  14  17    4  8  6   1  6 11   32 51   24  [Relegated]
- 
- 
- 
- 
-Round: Round 1
-[Jul 18]
-River Plate             2-1     Argentinos Juniors
-Racing Club                     0-3        Newell's Old Boys            [at Boca Juniors]
-Quilmes                                             2-1 Nueva Chicago
-Unión (Sta. Fe)                                         2-0   Instituto (Cba.)
-Velez Sarsfield                                               1-0       Sarmiento (Junín)
-Talleres (Cba.)                                                         1-1       Ferrocarril Oeste             [at Córdoba]
-Racing (Cba.)                                                                     0-1         Estudiantes (LP)      [at Instituto]
-Huracán                                                                                                   1-0       Independiente
-Rosario Central                                                                                                     1-1 Boca Juniors
-Platense                                                                                                                bye
- 
-Round: Round 2
-[Jul 25]
-Boca Juniors            4-1     Platense
-Independiente                   2-1     Rosario Central
-Estudiantes (LP)                1-0     Huracán
-Ferrocarril Oeste               3-1     Racing (Cba.)
-Sarmiento (Junín)               1-2     Talleres (Cba.)
-Instituto (Cba.)                1-1     Velez Sarsfield
-Nueva Chicago                           4-2   Unión (Sta. Fe)
-Newell's Old Boys                       2-1   Quilmes
-Argentinos Juniors                      0-0   Racing Club
-River Plate                                   bye
- 
-Round: Round 3
-[Aug 1]
-Racing Club             0-1     River Plate                     [at Boca Juniors]
-Quilmes                               0-3                       Argentinos Juniors
-Unión (Sta. Fe)                                                 1-1        Newell's Old Boys
-Velez Sarsfield                                                            1-0      Nueva Chicago
-Talleres (Cba.)                                                                     2-2   Instituto (Cba.)              [at Córdoba]
-Racing (Cba.)                                                                             1-0       Sarmiento (Junín)       [at Instituto]
-Huracán                                                                                                       0-0           Ferrocarril Oeste
-Rosario Central                                                                                                             0-2         Estudiantes (LP)
-Platense                                                                                                                                0-2         Independiente
-Boca Juniors                                                                                                                                        bye
- 
-Round: Round 4
-[Aug 8]
-Independiente           1-1     Boca Juniors
-Estudiantes (LP)        1-0     Platense
-Ferrocarril Oeste       2-1     Rosario Central
-Sarmiento (Junín)       0-2     Huracán
-Instituto (Cba.)        1-3     Racing (Cba.)
-Nueva Chicago                   2-0    Talleres (Cba.)
-Newell's Old Boys               0-0    Velez Sarsfield
-Argentinos Juniors              4-2    Unión (Sta. Fe)
-River Plate                            1-0   Quilmes
-Racing Club                                  bye
- 
-Round: Round 5
-[Aug 14]
-Quilmes                 2-0     Racing Club
-Unión (Sta. Fe)                 2-0    River Plate
-Velez Sarsfield                        2-0   Argentinos Juniors
-Talleres (Cba.)                              1-1        Newell's Old Boys               [at Córdoba]
-Racing (Cba.)                                           4-1      Nueva Chicago                  [at Instituto]
-Huracán                                                                0-0                      Instituto (Cba.)
-Rosario Central                                                                                 5-1       Sarmiento (Junín)
-Platense                                                                                                  0-2       Ferrocarril Oeste
-Boca Juniors                                                                                                        1-0         Estudiantes (LP)
-Independiente                                                                                                                   bye
- 
-Round: Round 6
-[Aug 17]
-Estudiantes (LP)        0-0     Independiente
-Ferrocarril Oeste       3-0     Boca Juniors
-Sarmiento (Junín)       1-1     Platense
-Instituto (Cba.)        1-1     Rosario Central
-Nueva Chicago                   0-2     Huracán
-Newell's Old Boys               2-1     Racing (Cba.)
-Argentinos Juniors              1-3     Talleres (Cba.)
-River Plate                             2-3      Velez Sarsfield
-Racing Club                                      1-1   Unión (Sta. Fe)                  [at Boca Juniors]
-Quilmes                                                      bye
- 
-Round: Round 7
-[Aug 21]
-Racing (Cba.)           1-1     Argentinos Juniors              [at Instituto]
-[Aug 22]
-Unión (Sta. Fe)         3-1     Quilmes
-Velez Sarsfield                 3-1     Racing Club
-Talleres (Cba.)                         1-0    River Plate                      [at Córdoba]
-Huracán                                        2-0   Newell's Old Boys
-Rosario Central                                      3-0      Nueva Chicago
-Platense                                                      0-1   Instituto (Cba.)
-Boca Juniors                                                        4-1       Sarmiento (Junín)
-Independiente                                                                 5-0       Ferrocarril Oeste
-Estudiantes (LP)                                                              bye
- 
-Round: Round 8
-[Aug 28]
-Instituto (Cba.)        1-3     Boca Juniors
-[Aug 29]
-Ferrocarril Oeste       0-0     Estudiantes (LP)
-Sarmiento (Junín)       2-2     Independiente
-Nueva Chicago                   2-3     Platense
-Newell's Old Boys               1-1     Rosario Central
-Argentinos Juniors              1-1     Huracán
-River Plate                             1-2     Racing (Cba.)
-Racing Club                                     0-4    Talleres (Cba.)                  [at Boca Juniors]
-Quilmes                                                         1-1                     Velez Sarsfield
-Unión (Sta. Fe)                                                                         bye
- 
-Round: Round 9
-[Sep 4]
-Talleres (Cba.)         3-1     Quilmes                         [at Córdoba]
-Racing (Cba.)                   4-0                             Racing Club                     [at Instituto]
-[Sep 5]
-Velez Sarsfield         2-0     Unión (Sta. Fe)
-Huracán                               0-0   River Plate
-Rosario Central                             1-0   Argentinos Juniors
-Platense                                          1-3        Newell's Old Boys
-Boca Juniors                                                 3-1      Nueva Chicago
-Independiente                                                         4-0   Instituto (Cba.)
-Estudiantes (LP)                                                      2-0   Sarmiento (Junín)
-Ferrocarril Oeste                                                     bye
- 
-Round: Round 10
-[Sep 8]
-Sarmiento (Junín)       1-1     Ferrocarril Oeste
-Instituto (Cba.)        1-1     Estudiantes (LP)
-Nueva Chicago                   1-1         Independiente                       [at Vélez Sarsfield]
-Newell's Old Boys               2-2         Boca Juniors
-Argentinos Juniors              1-1         Platense
-River Plate                                 1-2 Rosario Central
-Racing Club                                     0-0     Huracán                         [at Boca Juniors]
-Quilmes                                                                                 1-1 Racing (Cba.)
-Unión (Sta. Fe)                                                                             1-1    Talleres (Cba.)
-Velez Sarsfield                                                                                    bye
- 
-Round: Round 11
-[Sep 11]
-Talleres (Cba.)         0-1     Velez Sarsfield                 [at Córdoba]
-Racing (Cba.)                   1-1   Unión (Sta. Fe)                   [at Instituto]
-[Sep 12]
-Huracán                 2-0     Quilmes
-Rosario Central                 2-0     Racing Club
-Platense                                1-1    River Plate                      [at Vélez Sarsfield]
-Boca Juniors                                   2-2   Argentinos Juniors
-Independiente                                        2-1        Newell's Old Boys
-Estudiantes (LP)                                     3-0        Nueva Chicago
-Ferrocarril Oeste                                    0-0        Instituto (Cba.)
-Sarmiento (Junín)                                    bye
- 
-Round: Round 12
-[Sep 18]
-Instituto (Cba.)        2-1     Sarmiento (Junín)
-[Sep 19]
-Nueva Chicago           0-2     Ferrocarril Oeste
-Newell's Old Boys       3-1     Estudiantes (LP)
-Argentinos Juniors      0-2     Independiente                   [at Atlanta]
-River Plate                     1-1                             Boca Juniors
-Racing Club                                                     2-1  Platense                   [at Boca Juniors]
-Quilmes                                                                                         0-3 Rosario Central
-Unión (Sta. Fe)                                                                                     2-1     Huracán
-Velez Sarsfield                                                                                             1-1 Racing (Cba.)
-Talleres (Cba.)                                                                                                 bye
- 
-Round: Round 13
-[Sep 29]
-Racing (Cba.)           1-1     Talleres (Cba.)                 [at Instituto]
-Huracán                                  3-0                    Velez Sarsfield
-Rosario Central                                                 1-0   Unión (Sta. Fe)
-Platense                                                              3-1   Quilmes
-Boca Juniors                                                                2-1 Racing Club
-Independiente                                                                   1-0    River Plate
-Estudiantes (LP)                                                                2-1    Argentinos Juniors
-Ferrocarril Oeste                                                               1-0    Newell's Old Boys
-Sarmiento (Junín)                                                               0-0    Nueva Chicago
-Instituto (Cba.)                                                                bye
- 
-Round: Round 14
-[Sep 25]
-Talleres (Cba.)         2-1     Huracán                         [at Córdoba]
-[Sep 26]
-Nueva Chicago           1-1     Instituto (Cba.)
-Newell's Old Boys       1-1     Sarmiento (Junín)
-Argentinos Juniors      2-2     Ferrocarril Oeste
-River Plate                     1-1         Estudiantes (LP)
-Racing Club                                 0-2         Independiente                   [at Boca Juniors]
-Quilmes                                                                                 1-1 Boca Juniors
-Unión (Sta. Fe)                                                                             0-1  Platense
-Velez Sarsfield                                                                                  2-2    Rosario Central
-Racing (Cba.)                                                                                           bye
- 
-Round: Round 15
-[Oct 2]
-Instituto (Cba.)        1-0     Newell's Old Boys
-[Oct 3]
-Huracán                 2-2     Racing (Cba.)
-Rosario Central                 2-2    Talleres (Cba.)
-Platense                               0-1      Velez Sarsfield
-Boca Juniors                                    4-0   Unión (Sta. Fe)
-Independiente                                         3-2   Quilmes
-Estudiantes (LP)                                      2-0   Racing Club
-Ferrocarril Oeste                                     0-2   River Plate
-Sarmiento (Junín)                                     0-0   Argentinos Juniors
-Nueva Chicago                                               bye
- 
-Round: Round 16
-[Oct 6]
-Newell's Old Boys       1-2     Nueva Chicago
-Argentinos Juniors      3-3     Instituto (Cba.)
-River Plate                     2-1       Sarmiento (Junín)
-Racing Club                               1-0       Ferrocarril Oeste           [at Boca Juniors]
-Quilmes                                                         0-0             Estudiantes (LP)
-Unión (Sta. Fe)                                                                 0-0         Independiente
-Velez Sarsfield                                                                             0-0 Boca Juniors
-Talleres (Cba.)                                                                                 4-2  Platense            [at Córdoba]
-Racing (Cba.)                                                                                        3-0                 Rosario Central   [at Instituto]
-Huracán                                                                                                                          bye
- 
-Round: Round 17
-[Oct 10]
-Rosario Central         1-2     Huracán
-Platense                        1-1     Racing (Cba.)
-Boca Juniors                            2-1    Talleres (Cba.)
-Independiente                                  1-0      Velez Sarsfield
-Estudiantes (LP)                               4-0      Unión (Sta. Fe)
-Ferrocarril Oeste                              1-2      Quilmes
-Sarmiento (Junín)                              0-0      Racing Club
-Instituto (Cba.)                               1-1      River Plate
-Nueva Chicago                                           1-1   Argentinos Juniors
-Newell's Old Boys                                       bye
- 
-Round: Round 18
-[Oct 16]
-Talleres (Cba.)         3-1     Independiente                   [at Córdoba]
-[Oct 17]
-Argentinos Juniors      0-1     Newell's Old Boys
-River Plate                     3-1      Nueva Chicago
-Racing Club                              4-1   Instituto (Cba.)         [at Boca Juniors]
-Quilmes                                                  1-1            Sarmiento (Junín)
-Unión (Sta. Fe)                                                         1-0       Ferrocarril Oeste
-Velez Sarsfield                                                                   1-2         Estudiantes (LP)
-Racing (Cba.)                                                                                 1-1         Boca Juniors    [at Instituto]
-Huracán                                                                                                        3-1        Platense
-Rosario Central                                                                                                           bye
- 
-Round: Round 19
-[Oct 23]
-Instituto (Cba.)        2-1     Quilmes
-[Oct 24]
-Platense                2-0     Rosario Central
-Boca Juniors                    0-0     Huracán
-Independiente                           2-2     Racing (Cba.)
-Estudiantes (LP)                        0-0     Talleres (Cba.)
-Ferrocarril Oeste                       1-0     Velez Sarsfield
-Sarmiento (Junín)                       1-1     Unión (Sta. Fe)
-Nueva Chicago                                   0-2   Racing Club                       [at Vélez Sarsfield]
-Newell's Old Boys                               2-0   River Plate
-Argentinos Juniors                              bye
- 
-        
-Round: Round 20
-[Oct 30]
-Instituto (Cba.)        2-1     Unión (Sta. Fe)
-[Oct 31]
-Argentinos Juniors      3-1     River Plate
-Newell's Old Boys       5-1     Racing Club
-Nueva Chicago                   0-0    Quilmes
-Sarmiento (Junín)               0-2    Velez Sarsfield
-Ferrocarril Oeste               0-0    Talleres (Cba.)
-Estudiantes (LP)                2-1    Racing (Cba.)
-Independiente                          1-1    Huracán
-Boca Juniors                                  0-1       Rosario Central
-Platense                                                bye
- 
-Round: Round 21
-[Nov 3]
-Platense                2-2     Boca Juniors                    [at River Plate]
-Rosario Central                 2-4  Independiente
-Huracán                              1-3        Estudiantes (LP)
-Racing (Cba.)                                   1-2         Ferrocarril Oeste           [at Instituto]
-Talleres (Cba.)                                             2-2         Sarmiento (Junín)       [at Córdoba]
-Velez Sarsfield                                                         4-3       Instituto (Cba.)
-Unión (Sta. Fe)                                                                   1-1       Nueva Chicago
-Quilmes                                                                                     1-0   Newell's Old Boys
-Racing Club                                                                                       2-1      Argentinos Juniors  [at Boca Juniors]
-River Plate                                                                                                bye
- 
-Round: Round 22
-[Nov 7]
-River Plate             3-0     Racing Club
-Argentinos Juniors      3-0     Quilmes
-Newell's Old Boys       2-0     Unión (Sta. Fe)
-Nueva Chicago                   3-2   Velez Sarsfield
-Instituto (Cba.)                2-0   Talleres (Cba.)
-Sarmiento (Junín)               1-3   Racing (Cba.)
-Ferrocarril Oeste               1-3   Huracán
-Estudiantes (LP)                3-1   Rosario Central
-Independiente                         1-0     Platense
-Boca Juniors                                  bye
- 
-Round: Round 23
-[Nov 10]
-Boca Juniors            1-0     Independiente
-Platense                        0-0     Estudiantes (LP)
-Rosario Central                         0-0         Ferrocarril Oeste
-Huracán                                             2-1         Sarmiento (Junín)
-Racing (Cba.)                                                   4-1       Instituto (Cba.)              [at Instituto]
-Talleres (Cba.)                                                           3-0       Nueva Chicago               [at Córdoba]
-Velez Sarsfield                                                                     2-2   Newell's Old Boys
-Unión (Sta. Fe)                                                                           5-3      Argentinos Juniors
-Quilmes                                                                                            3-2        River Plate
-Racing Club                                                                                                   bye
- 
-Round: Round 24
-[Nov 14]
-Racing Club             4-1     Quilmes                         [at Boca Juniors]
-River Plate                     2-1                             Unión (Sta. Fe)
-Argentinos Juniors              2-0                             Velez Sarsfield
-Newell's Old Boys               5-1                             Talleres (Cba.)
-Nueva Chicago                                                   2-0      Racing (Cba.)
-Instituto (Cba.)                                                2-0      Huracán
-Sarmiento (Junín)                                               1-1      Rosario Central
-Ferrocarril Oeste                                               2-1      Platense
-Estudiantes (LP)                                                1-2      Boca Juniors
-Independiente                                                            bye
- 
-Round: Round 25
-[Nov 19]
-Rosario Central         4-0     Instituto (Cba.)
-[Nov 21]
-Independiente           1-1     Estudiantes (LP)
-Boca Juniors                    3-0         Ferrocarril Oeste
-Platense                                    1-1         Sarmiento (Junín)
-Huracán                                                           1-1   Nueva Chicago
-Racing (Cba.)                                                           3-1   Newell's Old Boys         [at Instituto]
-Talleres (Cba.)                                                               3-5      Argentinos Juniors       [at Córdoba]
-Velez Sarsfield                                                                        3-1        River Plate
-Unión (Sta. Fe)                                                                                   1-1   Racing Club
-Quilmes                                                                                                 bye
- 
-Round: Round 26
-[Nov 28]
-Quilmes                 0-0     Unión (Sta. Fe)
-Racing Club                     2-1   Velez Sarsfield                   [at Boca Juniors]
-River Plate                           2-1   Talleres (Cba.)
-Argentinos Juniors                    2-2   Racing (Cba.)
-Newell's Old Boys                     2-0   Huracán
-Nueva Chicago                               1-2 Rosario Central
-Instituto (Cba.)                            2-0 Platense
-Sarmiento (Junín)                           2-1 Boca Juniors
-Ferrocarril Oeste                           0-0 Independiente
-Estudiantes (LP)                            bye
- 
-Round: Round 27
-[Dec 5]
-Estudiantes (LP)        2-0     Ferrocarril Oeste
-Independiente                   0-0         Sarmiento (Junín)
-Boca Juniors                                0-1       Instituto (Cba.)
-Platense                                              2-1       Nueva Chicago
-Rosario Central                                                 1-1   Newell's Old Boys
-Huracán                                                               1-0      Argentinos Juniors
-Racing (Cba.)                                                                  1-0        River Plate                   [at Instituto]
-Talleres (Cba.)                                                                           0-2   Racing Club                  [at Córdoba]
-Velez Sarsfield                                                                                 1-0    Quilmes
-Unión (Sta. Fe)                                                                                        bye
- 
-Round: Round 28
-[Dec 8]
-Unión (Sta. Fe)         1-1     Velez Sarsfield
-Quilmes                         1-0   Talleres (Cba.)
-Racing Club                           2-0      Racing (Cba.)                    [at Boca Juniors]
-River Plate                                    1-2    Huracán
-Argentinos Juniors                             2-2    Rosario Central
-Newell's Old Boys                              4-0    Platense
-Nueva Chicago                                         2-3       Boca Juniors                    [at Huracán]
-Instituto (Cba.)                                      2-3       Independiente
-Sarmiento (Junín)                                     0-1       Estudiantes (LP)
-Ferrocarril Oeste                                     bye
- 
-Round: Round 29
-[Dec 12]
-Ferrocarril Oeste       2-1     Sarmiento (Junín)
-Estudiantes (LP)        1-1     Instituto (Cba.)
-Independiente                   1-1       Nueva Chicago
-Boca Juniors                              0-0   Newell's Old Boys
-Platense                                        1-2      Argentinos Juniors
-Rosario Central                                          0-1        River Plate
-Huracán                                                             1-0   Racing Club                   [Suspended in 85'; not continued]
-Racing (Cba.)                                                             4-1    Quilmes                                   [at Instituto]
-Talleres (Cba.)                                                                  4-1                                       Unión (Sta. Fe)   [at Córdoba]
-Velez Sarsfield                                                                                                            bye
- 
-Round: Round 30
-[Dec 17]
-Racing Club             1-1     Rosario Central                 [at Boca Juniors]
-[Dec 18]
-Newell's Old Boys       1-1     Independiente
-[Dec 19]
-Velez Sarsfield         2-1     Talleres (Cba.)
-Unión (Sta. Fe)                 1-1      Racing (Cba.)
-Quilmes                                  0-0    Huracán
-River Plate                                     1-1     Platense
-Argentinos Juniors                              0-0     Boca Juniors
-Nueva Chicago                                           0-0  Estudiantes (LP)           [at Huracán]
-Instituto (Cba.)                                        3-2  Ferrocarril Oeste
-Sarmiento (Junín)                                       bye
- 
-Round: Round 31
-[Dec 22]
-Sarmiento (Junín)       1-0     Instituto (Cba.)
-Ferrocarril Oeste       1-0     Nueva Chicago
-Estudiantes (LP)        1-1     Newell's Old Boys
-Independiente                   6-1      Argentinos Juniors
-Boca Juniors                             0-2        River Plate
-Platense                                            2-0   Racing Club
-Rosario Central                                           1-2    Quilmes
-Huracán                                                          1-0    Unión (Sta. Fe)
-Racing (Cba.)                                                           0-1   Velez Sarsfield                   [at Instituto]
-Talleres (Cba.)                                                               bye
- 
-Round: Round 32
-[Dec 30]
-Talleres (Cba.)         1-4     Racing (Cba.)                   [at Córdoba]
-Velez Sarsfield                 2-0    Huracán
-Unión (Sta. Fe)                        3-3      Rosario Central
-Quilmes                                         3-1     Platense
-Racing Club                                             1-3     Boca Juniors                    [at Boca Juniors]
-River Plate                                                     1-1  Independiente
-Argentinos Juniors                                              0-2  Estudiantes (LP)           [at Ferro Carril Oeste]
-Newell's Old Boys                                               1-1  Ferrocarril Oeste
-Nueva Chicago                                                        0-0         Sarmiento (Junín)              [at Argentinos Juniors]
-Instituto (Cba.)                                                     bye
- 
-Round: Round 33
-[Jan 5, 1983]
-Instituto (Cba.)        0-1     Nueva Chicago
-Sarmiento (Junín)       0-1     Newell's Old Boys
-Ferrocarril Oeste       2-2     Argentinos Juniors
-Estudiantes (LP)        1-1     River Plate
-Independiente                   3-1   Racing Club
-Boca Juniors                          1-0    Quilmes
-Platense                                     2-0        Unión (Sta. Fe)
-Rosario Central                                         2-1   Velez Sarsfield
-Huracán                                                       2-3   Talleres (Cba.)
-Racing (Cba.)                                                       bye
- 
-Round: Round 34
-[Jan 8, 1983]
-Racing (Cba.)           3-1     Huracán                         [at Instituto]
-Talleres (Cba.)                 3-1                             Rosario Central                 [at Córdoba]
-Velez Sarsfield                                                 0-0     Platense
-Unión (Sta. Fe)                                                         0-2     Boca Juniors
-Quilmes                                                                         0-1  Independiente
-Racing Club                                                                          1-3        Estudiantes (LP)         [at Boca Juniors]
-River Plate                                                                                     2-2         Ferrocarril Oeste
-Argentinos Juniors                                                                              0-1         Sarmiento (Junín)
-Newell's Old Boys                                                                               5-0         Instituto (Cba.)
-Nueva Chicago                                                                                               bye
- 
-Round: Round 35
-[Jan 14, 1983]
-Rosario Central         3-1     Racing (Cba.)
-[Jan 15, 1983]
-Nueva Chicago           0-0     Newell's Old Boys               [at Chacarita Juniors]
-Instituto (Cba.)        1-0     Argentinos Juniors
-Sarmiento (Junín)       3-1     River Plate
-Ferrocarril Oeste       1-1     Racing Club
-Estudiantes (LP)        1-0     Quilmes
-Independiente                   2-0     Unión (Sta. Fe)
-Boca Juniors                            1-1   Velez Sarsfield
-Platense                                      2-0   Talleres (Cba.)
-Huracán                                                      bye
- 
-Round: Round 36
-[Jan 22, 1983]
-Huracán                 1-0     Rosario Central
-Racing (Cba.)                   1-1     Platense                        [at Instituto]
-Talleres (Cba.)                         1-3                             Boca Juniors                    [at Córdoba]
-Velez Sarsfield                                                         1-3  Independiente
-Unión (Sta. Fe)                                                              0-2        Estudiantes (LP)
-Quilmes                                                                                 0-0         Ferrocarril Oeste
-Racing Club                                                                                         5-3         Sarmiento (Junín)  [at Boca Juniors]
-River Plate                                                                                                     1-0       Instituto (Cba.)
-Argentinos Juniors                                                                                              0-0       Nueva Chicago   [Suspended in 45'; not continued]
-Newell's Old Boys                                                                                               bye
- 
-Round: Round 37
-[Jan 29, 1983]
-Newell's Old Boys       3-2     Argentinos Juniors
-Nueva Chicago                   2-0        River Plate                  [at Chacarita Juniors]
-Instituto (Cba.)                0-0        Racing Club
-Sarmiento (Junín)               3-0        Quilmes
-Ferrocarril Oeste               1-1        Unión (Sta. Fe)
-Estudiantes (LP)                0-0        Velez Sarsfield              [Suspended in 45'; continued Feb 11, 1983]
-Independiente                              3-1   Talleres (Cba.)
-Boca Juniors                                     3-1      Racing (Cba.)
-Platense                                                  4-2    Huracán
-[Feb 11, 1983]
-Estudiantes (LP)        1-0     Velez Sarsfield
-Rosario Central                 bye
- 
-Round: Round 38
-[Feb 4, 1983]
-River Plate             2-2     Newell's Old Boys
-Rosario Central                 3-2      Platense
-[Feb 5, 1983]
-Huracán                 3-3     Boca Juniors
-Unión (Sta. Fe)                 1-0  Sarmiento (Junín)
-Quilmes                              1-0       Instituto (Cba.)
-Racing Club                                    0-1       Nueva Chicago                  [at Boca Juniors]
-[Feb 14, 1983]
-Velez Sarsfield         1-0     Ferrocarril Oeste
-Talleres (Cba.)                 0-2         Estudiantes (LP)            [at Córdoba]
-Racing (Cba.)                               2-2         Independiente           [at Instituto]
-Argentinos Juniors                          bye         
- 
- 
- 
-Estudiantes de La Plata won the championship with the following line- ups:
- 
-Talleres (Córdoba):     Baley (Comizzo); Festa, Galván, M.A.Oviedo, Riquelme; 
-                              Lucco, Bustos, Guerini (Taborda); Ariel, R.Moreno, Reinaldi, Coleoni.
-                                             Coach: Daniel A. Willington.
-Estudiantes (LP):                            Delménico; Camino, Brown, Landucci, A.Herrera (Gugnali); 
-                                                        M.A.Russo, J.Ponce, Trobbiani; Trama, Sabella (Lemme), Gottardi.
-                                                                            Coach: Carlos S. Bilardo.
- 
-Goals:                  8' Brown; 24' Gottardi.
-Expulsions:                52' Lucco.
-Referee:                       Romero.
-Stadium:                        Estadio Córdoba (Home Talleres).
-Tickets:                                15.005.-
- 
- 
- 
- 
- 
-Table:
---------------------------------------------------------------------------------------
-                                                         Home      Away
-No. Team                                                                      G   W   D   L    W  D  L   W  D  L   Gf Ga   P
---------------------------------------------------------------------------------------
- 1. Estudiantes (La Plata)           36  21  12   3   12  5  1   9  7  2   50 18   54  [Champion]
---------------------------------------------------------------------------------------
-2. Independiente                    36  19  14   3   12  6  0   7  8  3   64 30   52
-3. Boca Juniors                     36  17  14   5   11  4  3   6 10  2   60 36   48
-4. Newell's Old Boys                36  15  14   7   11  6  1   4  8  6   60 34   44
-5. Vélez Sarsfield                  36  16  10  10   11  5  2   5  5  8   45 37   42
-6. Huracán                          36  15  11  10   10  6  2   5  5  8   44 37   41
-7. Racing (Córdoba)                 36  13  13  10    9  6  3   4  7  7   62 47   39
-8. Rosario Central                  36  13  11  12    9  4  5   4  7  7   55 49   37
-9. Ferro Carril Oeste               36  11  15  10    8  7  3   3  8  7   36 39   37
-10. River Plate                      36  12  10  14    8  6  4   4  4 10   43 46   34
-11. Talleres (Córdoba)               36  12   9  15    8  4  6   4  5  9   55 59   33
-12. Instituto (Córdoba)              36  11  11  14    9  5  4   2  6 10   39 56   33
-13. Argentinos Juniors               36   7  14  15    4  9  5   3  5 10   49 58   28
-14. Platense                         36   9  10  17    7  5  6   2  5 11   41 55   28
-15. Nueva Chicago                    36   8  12  16    5  7  6   3  5 10   33 50   28
-16. Racing Club                      36  10   8  18    8  3  7   2  5 11   36 58   28 
---------------------------------------------------------------------------------------
-17. Unión (Santa Fe)                 36   7  13  16    7  8  3   0  5 13   36 57   27  [Relegation Playoff]
-18. Quilmes                          36   9   9  18    7  8  3   2  1 15   30 53   27  [Relegation Playoff]
---------------------------------------------------------------------------------------
-19. Sarmiento (Junín)                36   5  14  17    4  8  6   1  6 11   32 51   24  [Relegated]
- 
- 
-RELEGATION PLAYOFF:
-Unión (Santa Fe)         1-0      Quilmes               [at Sarmiento]
                 
 
 *Source: Newspaper: La Nación.

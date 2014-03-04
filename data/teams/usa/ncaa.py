@@ -37,11 +37,6 @@ l = [
         'city': 'Baltimore, MD',
         },
 
-    {
-        'name': 'Judson University',
-        'city': 'Elgin, IL',
-        },
-
 
     {
         'name': 'West Chester University of Pennsylvania',
@@ -1676,6 +1671,29 @@ l = [
 
 
 
+    {
+        'name': 'Santa Barbara City College',
+        'city': 'Santa Barbara, CA',
+        },
+
+
+    {
+        'name': 'University of California, Santa Cruz',
+        'city': 'Santa Cruz, CA',
+        },
+
+
+    {
+        'name': 'Cal Poly Pomona',
+        'city': 'Pomona, CA',
+        },
+
+
+
+    {
+        'name': 'University of California, Riverside',
+        'city': 'Riverside, CA',
+        },
 
 
 

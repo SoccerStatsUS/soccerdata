@@ -5,6 +5,23 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Columbus Jolly Band',
+        'city': 'Columbus, GA',
+        },
+
+    {
+        'name': 'Cobb Soccer Club',
+        'city': 'Marietta, GA',
+        },
+
+    {
+        'name': 'Atlanta Beat',
+        'founded': 2009, 
+        'city': 'Atlanta, GA',
+        },
+
+
     # Division 1
 
     {

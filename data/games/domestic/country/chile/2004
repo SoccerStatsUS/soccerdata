@@ -624,9 +624,10 @@ Date: 5/10/2004
 * 3.Huachipato                17   8  3  6  35-31  27  Qualified
 * 4.Puerto Montt              17   5  5  7  27-36  20  Playoff
 
-Season: 2004 Liguilla
+Season: 2004 Apertura
+Stage: Liguilla
 
-Round; Repechaje
+Round: Repechaje
 *Qualifying Playoff (Repechaje)
 
 5/12/2004; Rangers                  ; 3-1; Puerto Montt; Talca
@@ -1390,7 +1391,8 @@ Date: 11/7/2004
 *NB: Sudden death extra time is abolished, goal difference will determine
 *    the winners of Playoffs. 
 
-Season: 2004 Liguilla
+*Season: 2004 
+Stage: Liguilla
 
 Round: Repechaje
 Date: 11/21/2004

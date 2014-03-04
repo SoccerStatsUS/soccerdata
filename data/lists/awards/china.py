@@ -6,7 +6,6 @@ d = {
     'competition': 'Chinese Super League',
     'team_data': ['Champion'],
 
-
     'Champion': [
         ('2004', 'Shenzhen Jianlibao'),
         ('2005', 'Dalian Shide'),

@@ -23,6 +23,13 @@ l = [
         },
 
     {
+        'name': 'Stone Stadium',
+        'location': 'Columbia, SC',
+        'capacity': 5700,
+        'opened': 1981,
+        },
+
+    {
         'name': 'CCU Soccer Field',
         'location': 'Conway, SC',
         'capacity': 15000,
