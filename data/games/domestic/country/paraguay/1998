@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para98.html
 Competition: Paraguayan Primera División
-Season: 1998 Apertura
+Season: 1998 
+
+Stage: Apertura
 
 * 1.Cerro Porteño          11  8  1  2 24-10 25
 * 2.Sportivo Luqueño       11  6  3  2 17-16 21
@@ -214,7 +216,9 @@ Round: Final
 *Olimpia Apertura winners.
 
 
-Season: 1998 Clausura
+Season: 1998 
+
+Stage: Clausura
 
 * 1.Cerro Porteño          11  8  2  1 28- 9 26
 * 2.Guaraní                11  6  3  2 20-15 21

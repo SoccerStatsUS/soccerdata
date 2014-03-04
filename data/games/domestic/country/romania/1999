@@ -95,13 +95,13 @@ Date: 11/3/1999
 Round: 3
 Date: 8/3/1999
 
-National       2-2 Bacau
+; National      ; 2-2; Bacau
   Carabas 4, R.Niculescu 43 ; Petcu (pk) 25, Petcu (pk) 35
 
 Date: 8/4/1999
 
 ; Resita        ; 0-6; Dinamo      
-;  Vladoiu 20, (pk) 47, Iftodi 27, Iftodi 53, F.Petre 67, Mutu 79
+;  Vladoiu 20, Vladoiu (pk) 47, Iftodi 27, Iftodi 53, F.Petre 67, Mutu 79
 
 ; Extensiv      ; 1-2; Gloria
   Velcea (og) 84 ; Radoi (og) 35, Predatu 88
@@ -365,7 +365,7 @@ Round: 11
 Date: 10/1/1999
 
 ; Craiova       ; 4-0; Otelul
-  S.Cristescu 16, S. Cristescu 31, C.Niculescu 75, C. Niculescu 80
+  S.Cristescu 16, S. Cristescu 31, C.Niculescu 75, C. Niculescu 80;
 
 Date: 10/2/1999
 
@@ -436,7 +436,7 @@ Date: 10/22/1999
 Date: 10/23/1999
 
 ; Craiova       ; 3-0; Extensiv
-  Sava (pk) 44, C.Niculescu 78, C. Niculescu 79
+  Sava (pk) 44, C.Niculescu 78, C. Niculescu 79;
 
 ; National      ; 2-3; Rapid
   Axinciuc 3, Savu 39 ; D.Chirita 5, Falub (og) 14, Bolohan 67
@@ -484,7 +484,7 @@ Date: 10/27/1999
   Oana 41, Mif 88;
 
 ; Rocar         ; 4-0; Resita       
-  Pitu 49, Pitu 89, Calugarita (og) 58, Lica 90
+  Pitu 49, Pitu 89, Calugarita (og) 58, Lica 90;
 
 ; Extensiv      ; 0-1; Astra
 ;  Baston 64
@@ -689,7 +689,7 @@ Date: 12/4/1999
 ;  Bolohan 20, Dascalescu 84, S.Radu 87
 
 ; Astra         ; 5-0; Onesti
-  Baston 4, Masati (og) 47, Ciorea 83, Ciorea (pk) 88, Savu 90
+  Baston 4, Masati (og) 47, Ciorea 83, Ciorea (pk) 88, Savu 90;
 
 Date: 12/5/1999
 
@@ -904,7 +904,7 @@ Date: 4/5/2000
   M.Savu 23, M. Savu 89, R.Niculescu 49, Lita 54 ; Craciun 9
 
 ; Bacau         ; 2-0; Ceahlaul
-  Serea 50, Zlati 65
+  Serea 50, Zlati 65;
 
 ; Brasov        ; 4-3; Dinamo
   M.Ivan 3, M. Ivan 27, Buga 43, Cozma 88 ; Niculae 25, Kirita 44, Hildan 55

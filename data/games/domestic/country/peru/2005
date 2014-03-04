@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesp/peru05.html
 Competition: Peruvian Primera División
-Season: 2005 Apertura
+Season: 2005 
+Stage: Apertura
 
 *NB: Apertura and Clausura champions play off for championship,
 *      provided they finish in the top-6 of both tournaments;
@@ -661,7 +662,8 @@ Date: 7/31/2005
 *12.Unión Huaral (Huaral)                    24  4  9 11  24-32  21
 *13.Alianza Atlético (Sullana)               24  3 10 11  29-47  19
 
-Season: 2005 Clausura
+Season: 2005 
+Stage: Clausura
 
 * 1.Sporting Cristal (Lima)                  24 15  7  2  37-13  52  Clausura Champions
 * 2.Universidad San Martín de Porres (Lima)  24 14  6  4  40-20  48

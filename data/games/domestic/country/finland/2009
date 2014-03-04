@@ -1,34 +1,25 @@
-http://rsssf.com/tablesf/fin09.html
+BlockSource: http://rsssf.com/tablesf/fin09.html
+Season: 2009
+Competition: Veikkausliiga
 
-Finland 2009
+* 1.HJK (Helsinki)                26 14 10  2  45-21  52  Champions
+* 2.FC Honka (Espoo)              26 13 10  3  65-29  49
+* 3.TPS (Turku)                   26 13 10  3  46-20  49
+* 4.IFK Mariehamn                 26 10 13  3  30-21  43
+* 5.FC Inter (Turku)              26 11  7  8  38-30  40
+* 6.FC Haka (Valkeakoski)         26 10  7  9  40-35  37
+* 7.Tampere United                26 11  4 11  31-31  37
+* 8.VPS (Vaasa)                   26 10  5 11  30-36  35
+* 9.MyPa-47 (Anjalankoski)        26  9  7 10  32-30  34
+*10.FF Jaro (Pietarsaari)         26  8  8 10  33-34  32
+*11.FC Lahti                      26  8  7 11  33-40  31
+*12.KuPS (Kuopio)                 26  6  5 15  29-53  23
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*13.JJK Jyväskylä                 26  3  7 16  25-52  16  Relegation Playoff
+*-------------------------------------------------------
+*14.RoPS (Rovaniemi)              26  4  4 18  21-66  16  Relegated
 
-Veikkausliiga
-Suomen Cup
-Ykkönen
-Kakkonen
-Premier Division (Veikkausliiga)
-
-
-Final Table:
-
- 1.HJK (Helsinki)                26 14 10  2  45-21  52  Champions
- 2.FC Honka (Espoo)              26 13 10  3  65-29  49
- 3.TPS (Turku)                   26 13 10  3  46-20  49
- 4.IFK Mariehamn                 26 10 13  3  30-21  43
- 5.FC Inter (Turku)              26 11  7  8  38-30  40
- 6.FC Haka (Valkeakoski)         26 10  7  9  40-35  37
- 7.Tampere United                26 11  4 11  31-31  37
- 8.VPS (Vaasa)                   26 10  5 11  30-36  35
- 9.MyPa-47 (Anjalankoski)        26  9  7 10  32-30  34
-10.FF Jaro (Pietarsaari)         26  8  8 10  33-34  32
-11.FC Lahti                      26  8  7 11  33-40  31
-12.KuPS (Kuopio)                 26  6  5 15  29-53  23
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-13.JJK Jyväskylä                 26  3  7 16  25-52  16  Relegation Playoff
--------------------------------------------------------
-14.RoPS (Rovaniemi)              26  4  4 18  21-66  16  Relegated
-
-Round 1
+Round: 1
 [Apr 18]
 HJK            5-1 KuPS
 TPS            1-2 Haka
@@ -43,7 +34,7 @@ Jaro           2-0 RoPS
 [Sep 4]
 MyPa           4-0 JJK
 
-Round 2
+Round: 2
 [Apr 22]
 VPS            0-1 Haka
 [Apr 23]
@@ -55,7 +46,7 @@ TamU           0-2 Jaro
 [May 14]
 JJK            1-1 RoPS
 
-Round 3
+Round: 3
 [Apr 27]
 TPS            0-0 JJK
 VPS            2-5 Honka
@@ -66,7 +57,7 @@ Lahti          4-1 RoPS
 Mariehamn      3-0 KuPS
 Inter          1-0 Jaro
 
-Round 4
+Round: 4
 [May 6]
 HJK            2-0 Mariehamn
 [May 7]
@@ -78,7 +69,7 @@ Jaro           1-1 KuPS
 [May 8]
 TamU           0-2 TPS
 
-Round 5
+Round: 5
 [May 10]
 KuPS           2-0 JJK
 RoPS           0-0 Mariehamn
@@ -90,7 +81,7 @@ MyPa           2-2 Lahti
 Haka           1-0 TamU
 HJK            1-1 Honka
 
-Round 6
+Round: 6
 [May 17]
 TamU           1-0 Honka
 TPS            2-0 VPS
@@ -101,7 +92,7 @@ JJK            1-1 HJK
 [May 18]
 KuPS           0-2 Inter
 
-Round 7
+Round: 7
 [May 23]
 JJK            2-3 Honka
 Inter          0-2 Haka
@@ -113,7 +104,7 @@ Jaro           3-0 MyPa
 [May 25]
 HJK            1-0 Lahti
 
-Round 8
+Round: 8
 [May 31]
 Lahti          2-4 TPS
 Mariehamn      1-0 TamU
@@ -124,7 +115,7 @@ Haka           3-0 KuPS
 [Jun 1]
 Inter          2-1 Honka
 
-Round 9
+Round: 9
 [May 4]
 TPS            1-1 Jaro
 Haka           1-1 Honka
@@ -139,7 +130,7 @@ VPS            3-4 HJK
 [Jul 18]
 JJK            1-0 Inter
 
-Round 10
+Round: 10
 [May 27]
 Honka          5-1 Jaro
 [May 28]
@@ -152,7 +143,7 @@ JJK            2-1 Lahti
 [Jul 19]
 MyPa           4-0 RoPS
 
-Round 11
+Round: 11
 [May 11]
 MyPa           1-0 HJK
 [Jun 24]
@@ -165,7 +156,7 @@ VPS            3-2 JJK
 [Jul 1]
 TamU           3-2 Inter
 
-Round 12
+Round: 12
 [May 27]
 JJK            0-2 Mariehamn
 [Jun 17]
@@ -178,7 +169,7 @@ HJK            2-0 Inter
 RoPS           1-2 Honka
 Haka           0-0 Jaro
 
-Round 13 
+Round: 13 
 [Jul 4]
 KuPS           3-0 RoPS           [award of 0-3 revoked]
 TamU           1-0 JJK
@@ -190,7 +181,7 @@ Inter          1-1 Lahti
 [Jul 6]
 Honka          0-0 TPS
 
-Round 14
+Round: 14
 [Jul 11]
 Inter          1-1 Mariehamn
 [Jul 12]
@@ -202,7 +193,7 @@ Lahti          1-1 Honka
 JJK            0-1 MyPa
 Haka           0-3 TPS
 
-Round 15 
+Round: 15 
 [May 2]
 MyPa           0-0 Inter
 [Jul 1]
@@ -216,7 +207,7 @@ TPS            1-1 HJK
 [Jul 20]
 Jaro           0-0 TamU
 
-Round 16
+Round: 16
 [Jul 25]
 Jaro           0-1 Inter
 [Jul 26]
@@ -228,7 +219,7 @@ Honka          3-0 VPS
 [Jul 27]
 JJK            1-1 TPS
 
-Round 17
+Round: 17
 [Jul 31]
 TPS            1-0 TamU
 [Aug 1]
@@ -240,7 +231,7 @@ Mariehamn      0-0 HJK
 Haka           2-4 JJK
 KuPS           2-2 Jaro
 
-Round 18
+Round: 18
 [Aug 5]
 JJK            1-2 KuPS
 [Aug 6]
@@ -253,7 +244,7 @@ Honka          1-1 HJK
 Lahti          0-1 MyPa
 Mariehamn      2-1 RoPS
 
-Round 19
+Round: 19
 [Aug 14]
 Inter          2-3 KuPS
 [Aug 15]
@@ -266,7 +257,7 @@ HJK            1-1 JJK
 [Aug 17]
 Jaro           0-1 Lahti
 
-Round 20
+Round: 20
 [Aug 21]
 MyPa           0-0 Jaro
 [Aug 22]
@@ -278,7 +269,7 @@ Lahti          1-2 HJK
 Honka          5-2 JJK
 RoPS           2-3 VPS
 
-Round 21
+Round: 21
 [Sep 11]
 VPS            0-2 MyPa
 [Sep 12]
@@ -290,7 +281,7 @@ TPS            5-2 Lahti
 KuPS           5-1 Haka
 HJK            4-0 RoPS
 
-Round 22 [Sep 20]
+Round: 22 [Sep 20]
 HJK            2-0 VPS
 RoPS           1-5 TamU
 Honka          2-0 Haka
@@ -299,7 +290,7 @@ Mariehamn      2-0 Lahti
 Jaro           1-0 TPS
 MyPa           1-2 KuPS
 
-Round 23 [Sep 23]
+Round: 23 [Sep 23]
 Lahti          3-1 JJK
 TamU           1-2 HJK
 TPS            3-0 KuPS
@@ -308,7 +299,7 @@ Haka           5-1 Mariehamn
 RoPS           1-1 MyPa
 Jaro           3-5 Honka
 
-Round 24
+Round: 24
 [Sep 26]
 JJK            1-2 VPS
 KuPS           0-4 Honka
@@ -319,7 +310,7 @@ Mariehamn      2-1 Jaro
 RoPS           0-4 TPS
 Lahti          2-4 Haka
 
-Round 25 [Oct 4]
+Round: 25 [Oct 4]
 Mariehamn      3-1 JJK
 Inter          1-1 HJK
 MyPa           2-2 TPS
@@ -328,7 +319,7 @@ KuPS           3-3 VPS
 Honka          9-0 RoPS
 TamU           0-2 Lahti
 
-Round 26 [Oct 17]
+Round: 26 [Oct 17]
 HJK            1-1 Jaro
 Haka           2-3 MyPa
 RoPS           1-0 KuPS
@@ -337,24 +328,22 @@ JJK            2-2 TamU
 Lahti          1-3 Inter
 TPS            0-0 Honka
 
-Final Table:
-
- 1.HJK (Helsinki)                26 14 10  2  45-21  52  Champions
- 2.FC Honka (Espoo)              26 13 10  3  65-29  49
- 3.TPS (Turku)                   26 13 10  3  46-20  49
- 4.IFK Mariehamn                 26 10 13  3  30-21  43
- 5.FC Inter (Turku)              26 11  7  8  38-30  40
- 6.FC Haka (Valkeakoski)         26 10  7  9  40-35  37
- 7.Tampere United                26 11  4 11  31-31  37
- 8.VPS (Vaasa)                   26 10  5 11  30-36  35
- 9.MyPa-47 (Anjalankoski)        26  9  7 10  32-30  34
-10.FF Jaro (Pietarsaari)         26  8  8 10  33-34  32
-11.FC Lahti                      26  8  7 11  33-40  31
-12.KuPS (Kuopio)                 26  6  5 15  29-53  23
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-13.JJK Jyväskylä                 26  3  7 16  25-52  16  Relegation Playoff
--------------------------------------------------------
-14.RoPS (Rovaniemi)              26  4  4 18  21-66  16  Relegated
+* 1.HJK (Helsinki)                26 14 10  2  45-21  52  Champions
+* 2.FC Honka (Espoo)              26 13 10  3  65-29  49
+* 3.TPS (Turku)                   26 13 10  3  46-20  49
+* 4.IFK Mariehamn                 26 10 13  3  30-21  43
+* 5.FC Inter (Turku)              26 11  7  8  38-30  40
+* 6.FC Haka (Valkeakoski)         26 10  7  9  40-35  37
+* 7.Tampere United                26 11  4 11  31-31  37
+* 8.VPS (Vaasa)                   26 10  5 11  30-36  35
+* 9.MyPa-47 (Anjalankoski)        26  9  7 10  32-30  34
+*10.FF Jaro (Pietarsaari)         26  8  8 10  33-34  32
+*11.FC Lahti                      26  8  7 11  33-40  31
+*12.KuPS (Kuopio)                 26  6  5 15  29-53  23
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*13.JJK Jyväskylä                 26  3  7 16  25-52  16  Relegation Playoff
+*-------------------------------------------------------
+*14.RoPS (Rovaniemi)              26  4  4 18  21-66  16  Relegated
 
 Promotion/Relegation Playoff
 
@@ -367,7 +356,7 @@ JJK            2-1 KPV
 NB: JJK remain at 1st level
 Suomen Cup
 
-Round 5
+Round: 5
 [Jun 2]
 Pöxyt                4-0 GrIFK
 [Jun 3]
@@ -458,448 +447,8 @@ FC Lahti             3-4 FC Inter
 Final [Oct 31]
 Tampere United       1-2 FC Inter
 
-Ykkönen
-
-
-Final Table:
-
- 1.AC Oulu                       26 16  5  5  57-24  53  Promoted
--------------------------------------------------------
- 2.KPV (Kokkola)                 26 15  6  5  32-25  51  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.FC Viikingit (Helsinki)       26 15  5  6  48-19  50
- 4.PoPa (Pori)                   26 11  8  7  53-39  41
- 5.FC KooTeePee (Kotka)          26 11  6  9  23-21  39
- 6.FC Hämeenlinna                26 10  8  8  36-33  38
- 7.PS Kemi                       26 12  2 12  36-46  38
- 8.Klubi 04 (Helsinki)           26 10  7  9  46-45  37
- 9.PK-35 (Vantaa)                26 10  5 11  31-30  35  [*]
-10.JIPPO (Joensuu)               26  8  5 13  28-39  29
-11.TPV (Tampere)                 26  7  7 12  28-38  28
--------------------------------------------------------
-12.TP-47 (Tornio)                26  7  6 13  29-41  27  Relegated
-13.Atlantis FC (Helsinki)        26  6  3 17  26-50  21  Relegated
-14.FC Kiisto (Vaasa)             26  5  5 16  25-48  20  Relegated
-
-[*] PK-35 were relocated from Helsinki to Vantaa before the season
-
-Round 1
-[Apr 25]
-PoPa           4-0 JIPPO
-Hämeenlinna    1-1 Oulu
-[Apr 26]
-PK-35          3-1 Kemi
-KooTeePee      2-1 TPV
-KPV            1-1 Klubi 04
-Kiisto         2-0 TP-47
-[Jul 15]
-Viikingit      1-0 Atlantis
-
-Round 2
-[May 2]
-Hämeenlinna    1-1 PK-35
-TP-47          0-0 KPV
-[May 3]
-JIPPO          2-1 Kiisto
-Kemi           2-1 Viikingit
-Atlantis       0-1 PoPa
-TPV            1-2 Oulu
-[May 4]
-Klubi 04       0-0 KooTeePee   
-
-Round 3
-[May 8]
-PK-35          3-1 Klubi 04
-[May 9]
-Viikingit      0-0 KooTeePee
-PoPa           0-2 Hämeenlinna
-[May 10]
-Kiisto         0-1 KPV
-JIPPO          1-1 TPV
-Oulu           2-0 TP-47
-Kemi           2-1 Atlantis
-
-Round 4
-[May 16]
-Oulu           1-0 PK-35
-TPV            1-0 Viikingit
-[May 17]
-KPV            2-2 PoPa
-KooTeePee      0-0 Kiisto
-Atlantis       0-2 JIPPO
-Hämeenlinna    3-1 Kemi
-[Aug 27]
-Klubi 04       3-2 TP-47          
-
-Round 5
-[May 20]
-Klubi 04       1-1 TPV
-[May 21]
-TP-47          0-1 Atlantis
-Viikingit      1-1 Oulu
-JIPPO          1-1 Hämeenlinna
-KooTeePee      0-1 KPV
-PoPa           1-1 PK-35
-Kiisto         0-2 Kemi
-
-Round 6
-[May 24]
-TPV            2-0 TP-47
-KPV            1-4 Viikingit
-PK-35          2-0 Kiisto
-Oulu           3-0 PoPa
-Hämeenlinna    1-3 Klubi 04
-Kemi           0-1 JIPPO
-[May 26]
-Atlantis       1-1 KooTeePee
-
-Round 7
-[May 29]
-TPV            1-1 PoPa
-Klubi 04       5-1 Oulu
-[May 31]
-KPV            0-0 JIPPO
-TP-47          0-1 PK-35
-Viikingit      2-1 Hämeenlinna
-Kiisto         1-1 Atlantis
-KooTeePee      2-0 Kemi
-
-Round 8 [Jun 7]
-Oulu           3-0 Atlantis
-Kiisto         0-1 Viikingit
-Hämeenlinna    0-1 KPV
-JIPPO          2-0 TP-47
-Kemi           4-1 Klubi 04
-PoPa           1-0 KooTeePee
-TPV            0-2 PK-35
-
-Round 9
-[Jun 13]
-Klubi 04       4-1 Kiisto
-[Jun 14]
-Kemi           4-0 TPV
-PoPa           5-1 TP-47
-Atlantis       awd Hämeenlinna    [awarded 0-3, originally 1-2]
-[Jun 24]
-PK-35          1-2 Viikingit
-Oulu           2-2 KPV
-JIPPO          0-1 KooTeePee
-
-Round 10
-[Jun 17]
-Hämeenlinna    2-0 TPV
-Atlantis       1-5 Klubi 04
-Kemi           1-1 TP-47
-[Jun 28]
-Viikingit      2-0 JIPPO
-KooTeePee      0-1 Oulu
-KPV            1-0 PK-35
-[Aug 27]
-PoPa           6-2 Kiisto  
-
-Round 11
-[Jul 4]
-PoPa           2-2 Viikingit   
-Klubi 04       1-1 JIPPO
-[Jul 5]
-TP-47          1-2 Hämeenlinna
-KooTeePee      1-0 PK-35
-Kiisto         2-1 Oulu
-KPV            0-2 Kemi
-[Sep 9]
-TPV            1-1 Atlantis
-
-Round 12
-[Jul 11]
-Hämeenlinna    1-1 Kiisto
-Kemi           0-4 PoPa
-JIPPO          0-1 Oulu
-[Jul 12]
-TPV            1-2 KPV
-Klubi 04       1-1 Viikingit
-TP-47          3-2 KooTeePee
-[Jul 29]
-Atlantis       0-1 PK-35          
-
-Round 13
-[Jul 16]
-PK-35          2-0 JIPPO
-[Jul 18]
-PoPa           2-2 Klubi 04
-[Jul 19]
-Kiisto         0-0 TPV
-Viikingit      4-1 TP-47
-Hämeenlinna    0-0 KooTeePee
-Oulu           6-0 Kemi
-KPV            2-0 Atlantis
-
-Round 14
-[Jul 24]
-Klubi 04       0-3 PoPa
-[Jul 25]
-Atlantis       1-2 KPV
-TPV            2-0 Kiisto
-Kemi           3-2 Oulu
-[Jul 26]
-JIPPO          0-3 PK-35
-KooTeePee      1-0 Hämeenlinna
-TP-47          0-0 Viikingit
-
-Round 15
-[Aug 1]
-Oulu           0-1 JIPPO
-KooTeePee      0-1 TP-47
-Kiisto         1-2 Hämeenlinna
-PoPa           1-3 Kemi
-[Aug 2]
-Viikingit      4-0 Klubi 04
-PK-35          1-5 Atlantis
-KPV            1-0 TPV
-
-Round 16
-[Apr 17]
-Klubi 04       4-1 Atlantis
-[Aug 5]
-TP-47          0-1 Kemi
-KooTeePee      2-1 JIPPO
-Viikingit      1-0 PK-35
-KPV            1-0 Oulu
-TPV            4-1 Hämeenlinna
-Kiisto         2-2 PoPa
-
-Round 17 [Aug 9]
-Hämeenlinna    0-0 TP-47
-JIPPO          5-1 Klubi 04
-PK-35          0-0 KooTeePee
-Viikingit      0-1 PoPa
-Oulu           5-1 Kiisto
-Atlantis       1-0 TPV
-Kemi           1-1 KPV
-
-Round 18
-[Aug 15]
-Kiisto         0-1 Klubi 04
-JIPPO          0-5 Viikingit
-[Aug 16]
-PK-35          2-1 KPV
-TP-47          3-3 PoPa
-Oulu           1-0 KooTeePee
-Hämeenlinna    4-1 Atlantis
-TPV            1-0 Kemi
-
-Round 19
-[Aug 21]
-Atlantis       0-4 Oulu
-[Aug 22]
-KPV            0-1 Hämeenlinna
-PK-35          2-2 TPV
-Viikingit      3-0 Kiisto
-KooTeePee      2-1 PoPa
-Klubi 04       1-2 Kemi
-TP-47          2-1 JIPPO
-
-Round 20
-[Sep 3]
-PoPa           2-1 TPV
-[Sep 5]
-JIPPO          0-1 KPV
-Hämeenlinna    2-4 Viikingit
-[Sep 6]
-Kemi           0-2 KooTeePee
-Oulu           4-0 Klubi 04
-Atlantis       3-0 Kiisto
-PK-35          1-3 TP-47
-
-Round 21
-[Sep 12]
-PoPa           2-5 Oulu
-JIPPO          5-1 Kemi
-TP-47          3-1 TPV
-[Sep 13]
-Kiisto         3-1 PK-35
-Viikingit      3-0 KPV
-[Sep 14]
-Klubi 04       0-1 Hämeenlinna
-KooTeePee      1-0 Atlantis
-
-Round 22
-[Sep 19]
-Oulu           3-1 Viikingit
-Hämeenlinna    1-1 JIPPO
-TPV            1-4 Klubi 04
-Kemi           0-2 Kiisto
-PK-35          0-1 PoPa
-[Sep 20]
-KPV            2-0 KooTeePee
-Atlantis       0-2 TP-47
-
-Round 23
-[Sep 26]
-PoPa           0-1 KPV
-Kiisto         2-3 KooTeePee
-JIPPO          3-1 Atlantis
-Kemi           1-3 Hämeenlinna
-[Sep 27]
-TP-47          1-1 Klubi 04
-Viikingit      4-0 TPV
-PK-35          0-0 Oulu
-
-Round 24
-[Oct 3]
-TPV            3-0 JIPPO
-TP-47          2-3 Oulu
-[Oct 4]
-KPV            3-2 Kiisto
-Atlantis       2-3 Kemi
-Hämeenlinna    2-2 PoPa
-[Oct 5]
-KooTeePee      1-0 Viikingit
-Klubi 04       2-1 PK-35
-
-Round 25
-[Oct 10]
-Klubi 04       1-2 KPV
-[Oct 11]
-TPV            2-1 KooTeePee
-TP-47          1-0 Kiisto
-JIPPO          0-3 PoPa
-Oulu           4-0 Hämeenlinna
-Kemi           2-1 PK-35
-[Oct 12]
-Atlantis       1-0 Viikingit
-
-Round 26 [Oct 17]
-Oulu           1-1 TPV
-Kiisto         2-1 JIPPO
-KPV            3-2 TP-47
-KooTeePee      1-3 Klubi 04
-PK-35          2-1 Hämeenlinna
-PoPa           3-4 Atlantis
-Viikingit      2-0 Kemi
-
-Final Table:
-
- 1.AC Oulu                       26 16  5  5  57-24  53  Promoted
--------------------------------------------------------
- 2.KPV (Kokkola)                 26 15  6  5  32-25  51  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.FC Viikingit (Helsinki)       26 15  5  6  48-19  50
- 4.PoPa (Pori)                   26 11  8  7  53-39  41
- 5.FC KooTeePee (Kotka)          26 11  6  9  23-21  39
- 6.FC Hämeenlinna                26 10  8  8  36-33  38
- 7.PS Kemi                       26 12  2 12  36-46  38
- 8.Klubi 04 (Helsinki)           26 10  7  9  46-45  37
- 9.PK-35 (Vantaa)                26 10  5 11  31-30  35  [*]
-10.JIPPO (Joensuu)               26  8  5 13  28-39  29
-11.TPV (Tampere)                 26  7  7 12  28-38  28
--------------------------------------------------------
-12.TP-47 (Tornio)                26  7  6 13  29-41  27  Relegated
-13.Atlantis FC (Helsinki)        26  6  3 17  26-50  21  Relegated
-14.FC Kiisto (Vaasa)             26  5  5 16  25-48  20  Relegated
-
-[*] PK-35 were relocated from Helsinki to Vantaa before the season
-
-Promotion/Relegation Playoff
-
-First Leg [Oct 21]
-KPV            2-3 JJK 
-
-Second Leg [Oct 25]
-JJK            2-1 KPV 
-
-NB: KPV remain at 2nd level
-Kakkonen
-
-Final Tables:
-
-Lohko A
- 1.MP (Mikkeli)                  26 16  5  5  51-25  53  Promoted
--------------------------------------------------------
- 2.Gnistan (Helsinki)            26 13  7  6  41-23  46
- 3.KäPa (Helsinki)               26 13  7  6  49-32  46
- 4.Warkaus JK (Varkaus)          26 14  4  8  49-41  46
- 5.PK Keski-Uusimaa (Kerava)     26 10  8  8  56-36  38
- 6.FC Futura (Porvoo)            26 11  5 10  55-50  38
- 7.HIFK (Helsinki)               26 10  6 10  40-36  36
- 8.FC Kiffen (Helsinki)          26 10  6 10  35-33  36
- 9.GrIFK (Kauniainen)            26  9  8  9  42-39  35
-10.LPS (Helsinki)                26  9  7 10  37-37  34
-11.FC Kuusankoski (Kouvola)      26  9  7 10  35-48  34
--------------------------------------------------------
-12.KTP (Kotka)                   26  8  8 10  40-40  32  Relegated
-13.HyPS (Hyvinkää)               26  8  2 16  38-60  26  Relegated
-14.Kultsu FC (Lappeenranta)      26  1  2 23  20-88   5  Relegated
-
-Lohko B
- 1.FC Espoo                      26 16  7  3  43-19  55  Promoted
--------------------------------------------------------
- 2.LoPa (Lohja)                  26 17  3  6  41-15  54
- 3.Ilves (Tampere)               26 14  3  9  40-30  45
- 4.KaaPo (Kaarina)               26 10  9  7  35-32  39
- 5.P-Iirot (Rauma)               26 10  6 10  37-32  36
- 6.Pallohonka (Espoo)            26 10  6 10  41-37  36
- 7.SalPa (Salo)                  26 10  4 12  37-38  34
- 8.EIF (Raasepori)               26  9  6 11  43-43  33
- 9.ÅIFK (Turku)                  26  9  5 12  43-43  32
-10.FC Jazz-j (Pori)              26  8  8 10  29-42  32
-11.Sinimustat (Turku)            26  7 10  9  30-34  31
--------------------------------------------------------
-12.PP-70 (Tampere)               26  8  4 14  31-49  28  Relegated
-13.Närpes Kraft (Närpiö)         26  8  4 14  28-46  28  Relegated
-14.Pirkkala JK                   26  6  5 15  34-52  23  Relegated
-
-Lohko C
- 1.OPS-jp (Oulu)                 26 21  3  2  68-25  66  Promoted
--------------------------------------------------------
- 2.FC OPA (Oulu)                 26 20  3  3  82-21  63
- 3.FC YPA (Ylivieska)            26 18  1  7  66-34  55
- 4.VIFK (Vaasa)                  26 14  6  6  49-26  48
- 5.Seinäjoen JK (Seinäjoki)      26 14  1 11  56-52  43
- 6.FCV (Jyväskylä)               26 12  2 12  59-51  38
- 7.JBK (Pietarsaari)             26 10  5 11  45-46  35
- 8.GBK (Kokkola)                 26  9  6 11  37-37  33
- 9.FCJ Blackbird (Jyväskylä)     26  8  6 12  42-56  30
-10.FC Santa Claus (Rovaniemi)    26  9  2 15  52-75  29
-11.PK-37 (Iisalmi)               26  7  5 14  33-47  26
--------------------------------------------------------
-12.OLS (Oulu)                    26  6  6 14  41-59  24  Relegated
-13.Norrvalla FF (Vöyri-Maksamaa) 26  5  4 17  41-82  19  Relegated
-14.Virkiä (Lapua)                26  2  4 20  33-93  10  Relegated
-
-2008.
-
-2010.
-
-list of champions.
-
-list of final tables.
-
-all-time table.
-
-divisional movements.
-
-list of top scorers.
-
-list of 2nd level champions.
-
-list of 2nd level final tables.
-
-2nd level all-time table.
-
-list of 2nd level top scorers.
-
-list of 3rd level champions.
-
-list of cup finals.
-
-list of league cup finals.
-
-About this document
-
-Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Karel Stokkermans 
-Last updated: 28 Oct 2010
-
-(C) Copyright Karel Stokkermans and RSSSF 2009/10
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 28 Oct 2010
+*(C) Copyright Karel Stokkermans and RSSSF 2009/10
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

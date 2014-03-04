@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para05.html
 Competition: Paraguayan Primera División
-Season: 2005 Apertura
+Season: 2005 
+
+Stage: Apertura
 
 
 * 1.Cerro Porteño          18 10  6  2  30-15 36
@@ -443,7 +445,9 @@ Date: 7/3/2005
 *NB: Guaraní qualified for Copa Sudamericana 2005
 
 
-Season: 2005 Clausura
+Season: 2005 
+
+Stage: Clausura
 
 * 1.Cerro Porteño          18 11  3  4  34-20 36
 * 2.Libertad               18  9  5  4  30-23 32

@@ -1,8 +1,10 @@
 BlockSource: http://www.rsssf.com/tablese/ecuar08.html
-Season: 2008 Apertura
+Season: 2008 
 Competition: Ecuadorian Serie A
 Transform: name-title
 
+Stage: 1
+*Apertura
 *Primera Etapa (First Stage)
 
 * 1.Deportivo Quito          22 13  6  3 39-18  45  Qualified
@@ -550,7 +552,7 @@ Date: 7/13/2008
 *NB: top-4 qualify for Liguilla Final with 3, 2, 1 and 0 bonification 
 *    points
 
-
+Stage: 2
 *Segunda Etapa (Second Stage)
 
 *Grupo A

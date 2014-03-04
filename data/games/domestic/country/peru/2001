@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesp/peru01.html
 Competition: Peruvian Primera División
-Season: 2001 Apertura
+Season: 2001 
+Stage: Apertura
 
 * 1.Sporting Cristal        22 13  7  2  46-18  46
 * 2.Alianza Lima            22 13  7  2  42-19  46
@@ -554,7 +555,8 @@ Date: 7/1/2001
 *Alianza Lima Apertura winners 2001.
 
 
-Season: 2001 Clausura
+Season: 2001 
+Stage: Clausura
 
 * 1.Cienciano               22 14  3  5  39-30  45
 * 2.Estudiantes de Medicina 22 14  3  5  35-26  45

@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru01.html
 Competition: Uruguayan Primera Division
 
-Season: 2001 Clasificatorio
+Season: 2001 
+
+Stage: Clasificatorio
 
 *TORNEO CLASIFICATORIO
 *NB: first two of each group and 4 best teams overall other than those
@@ -704,7 +706,9 @@ Date: 6/17/2001
 *(as Uruguay No. 2)
 
 
-Season: 2001 Apertura
+Season: 2001 
+
+Stage: Apertura
 
 * 1.Danubio                     9  7  1  1 17- 4 22  Apertura Winners
 * 2.Peñarol                     9  6  3  0 18- 7 21
@@ -792,7 +796,7 @@ Date: 8/16/2001
  
 Date: 8/29/2001
 
-; Peñarol          ; 3-1; Tacaurembó      
+; Peñarol          ; 3-1; Tacuarembó      
   Carlos Bueno 30, José Adao 46, Robert Lima 50; Luis Cor (pk) 79
 
 Round: 5
@@ -910,7 +914,9 @@ Date: 9/9/2001
 *Danubio qualify to championship final
 
 
-Season: 2001 Clausura
+Season: 2001 
+
+Stage: Clausura
 
 * 1.Nacional                    9  6  3  0 19- 7 21  Clausura Winners
 * 2.Danubio                     9  6  0  3 19-13 18

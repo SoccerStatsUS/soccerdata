@@ -1,30 +1,27 @@
-http://www.rsssf.com/tabless/slow00.html
+BlockSource: http://www.rsssf.com/tabless/slow00.html
+Season: 1999-2000
 
-Slovakia 1999/2000
+* 1.ASK Inter Slovnaft Bratislava 30 21  7  2  65-16 70  Champions 
+* 2.1.FC Kosice                   30 19  4  7  57-31 61
+* 3.SK Slovan Bratislava          30 16  9  5  52-18 57
+* 4.FC Spartak Trnava             30 15  8  7  38-21 53
+* 5.Ozeta Dukla Trencín           30 13  8  9  38-29 47
+* 6.FC Tatran Presov              30 14  5 11  38-42 47
+* 7.MSK SCP Ruzomberok            30 13  7 10  29-26 46
+* 8.MSK Zilina                    30 12  5 13  39-37 41
+* 9.Artmedia Petrzalka            30 11  6 13  43-48 39
+*------------------------------------------------------
+*10.FK VTJ KOBA Senec             30  9 10 11  33-36 37  Relegated
+*11.ZTS Kerametal Dubnica         30  9  7 14  25-35 34  Relegated
+*12.HFC Humenné                   30 10  7 13  31-43 34  [*]  Relegated
+*13.FC Nitra                      30  8  4 18  24-44 28  Relegated
+*14.FC DAC Dunajska Streda        30  6  9 15  24-42 27  Relegated
+*15.FC Dukla Banská Bystrica      30  7  2 21  27-53 23  Relegated
+*16.MFK Baník Prievidza           30  6  4 20  29-71 22  Relegated
+*
+*[*] HFC Humenné 3 points deducted
 
-Final Table:
-
- 1.ASK Inter Slovnaft Bratislava 30 21  7  2  65-16 70  Champions 
- 2.1.FC Kosice                   30 19  4  7  57-31 61
- 3.SK Slovan Bratislava          30 16  9  5  52-18 57
- 4.FC Spartak Trnava             30 15  8  7  38-21 53
- 5.Ozeta Dukla Trencín           30 13  8  9  38-29 47
- 6.FC Tatran Presov              30 14  5 11  38-42 47
- 7.MSK SCP Ruzomberok            30 13  7 10  29-26 46
- 8.MSK Zilina                    30 12  5 13  39-37 41
- 9.Artmedia Petrzalka            30 11  6 13  43-48 39
-------------------------------------------------------
-10.FK VTJ KOBA Senec             30  9 10 11  33-36 37  Relegated
-11.ZTS Kerametal Dubnica         30  9  7 14  25-35 34  Relegated
-12.HFC Humenné                   30 10  7 13  31-43 34  [*]  Relegated
-13.FC Nitra                      30  8  4 18  24-44 28  Relegated
-14.FC DAC Dunajska Streda        30  6  9 15  24-42 27  Relegated
-15.FC Dukla Banská Bystrica      30  7  2 21  27-53 23  Relegated
-16.MFK Baník Prievidza           30  6  4 20  29-71 22  Relegated
-
-[*] HFC Humenné 3 points deducted
-
-Round 1 [Jul 24,25]
+Round: 1 [Jul 24,25]
 Dubnica     0-1 Senec    
 Prievidza   0-2 Trencin
 Inter       2-3 Ruzomberok  
@@ -34,7 +31,7 @@ Zilina      1-4 Kosice
 B. Bystrica 1-2 Trnava 
 Nitra       1-0 Humenne    
 
-Round 2 [Jul 31, Aug 1]
+Round: 2 [Jul 31, Aug 1]
 Kosice      3-0 Presov  
 Trencin     2-2 Senec      
 Humenne     0-1 Dubnica       
@@ -44,7 +41,7 @@ Slovan      2-1 B. Bystrica
 Prievidza   1-0 Zilina     
 Petrzalka   0-1 Inter          
 
-Round 3 [Aug 7,8]
+Round: 3 [Aug 7,8]
 Zilina      1-0 Trencin
 B. Bystrica 2-1 Kosice
 D. Streda   0-3 Slovan
@@ -54,7 +51,7 @@ Senec       1-0 Humenne
 Presov      4-2 Prievidza
 Inter       0-0 Trnava
 
-Round 4 [Aug 14,15]
+Round: 4 [Aug 14,15]
 Trencin     4-1 Humenne
 Ruzomberok  1-0 Senec
 Kosice      2-1 D. Streda
@@ -64,7 +61,7 @@ Petrzalka   4-1 Dubnica
 Trnava      1-0 Nitra
 Slovan      1-1 Inter
 
-Round 5 [Aug 20-22]
+Round: 5 [Aug 20-22]
 Senec       3-2 Petrzalka
 Humenne     2-1 Ruzomberok
 B. Bystrica 3-2 Zilina
@@ -74,7 +71,7 @@ Nitra       1-0 Slovan
 Inter       2-1 Kosice
 Presov      2-1 Trencin
 
-Round 6
+Round: 6
 Slovan      1-1 Dubnica
 Zilina      6-0 D. Streda
 Kosice      3-1 Nitra
@@ -84,7 +81,7 @@ Prievidza   1-3 Inter
 Trnava      2-2 Senec
 Trencin     2-0 Ruzomberok
 
-Round 7 [Sep 10-12]
+Round: 7 [Sep 10-12]
 Nitra       2-1 Prievidza
 B. Bystrica 1-0 Trencin
 D. Streda   1-2 Presov  
@@ -94,7 +91,7 @@ Humenne     1-0 Trnava
 Ruzomberok  2-2 Petrzalka
 Inter       2-0 Zilina
 
-Round 8 [Sep 17-19]
+Round: 8 [Sep 17-19]
 Kosice      2-1 Senec
 Trencin     2-0 Petrzalka
 Zilina      1-0 Nitra
@@ -104,7 +101,7 @@ Trnava      1-0 Ruzomberok
 Presov      0-3 Inter
 B. Bystrica 1-2 D. Streda
 
-Round 9 [Sep 24-26]
+Round: 9 [Sep 24-26]
 Dubnica     1-4 Zilina
 D. Streda   0-0 Trencin
 Inter       3-0 B. Bystrica
@@ -114,7 +111,7 @@ Humenne     2-2 Kosice
 Ruzomberok  1-0 Slovan
 Petrzalka   2-1 Trnava
 
-Round 10 [Oct 1-3]
+Round: 10 [Oct 1-3]
 Trencin     1-2 Trnava 
 Slovan      0-1 Petrzalka 
 Kosice      2-1 Ruzomberok 
@@ -124,7 +121,7 @@ Presov      1-0 Dubnica
 B. Bystrica 1-2 Nitra
 D. Streda   0-0 Inter 
 
-Round 11 [Oct 15-17]
+Round: 11 [Oct 15-17]
 Trnava      0-0 Slovan
 Nitra       2-0 D. Streda
 Dubnica     1-0 B. Bystrica
@@ -134,7 +131,7 @@ Ruzomberok  1-1 Prievidza
 Inter       1-1 Trencin
 Petrzalka   0-4 Kosice
 
-Round 12 [Oct 22-24]
+Round: 12 [Oct 22-24]
 Kosice      0-0 Trnava
 Presov      1-0 Humenne
 Trencin     1-0 Slovan
@@ -144,7 +141,7 @@ B. Bystrica 1-0 Senec
 Prievidza   4-3 Petrzalka
 Inter       3-0 Nitra
 
-Round 13 [Oct 29-31]
+Round: 13 [Oct 29-31]
 Nitra       0-1 Trencin
 Dubnica     0-1 Inter
 Senec       0-0 D. Streda
@@ -154,7 +151,7 @@ Petrzalka   2-1 Zilina
 Trnava      2-0 Prievidza
 Slovan      1-2 Kosice
 
-Round 14 [Nov 5-7]
+Round: 14 [Nov 5-7]
 Prievidza   1-1 Slovan
 D. Streda   4-0 Humenne
 Presov      3-0 Petrzalka
@@ -164,7 +161,7 @@ B. Bystrica 0-1 Ruzomberok
 Nitra       1-1 Dubnica
 Inter       2-0 Senec         [2-2?]
 
-Round 15 
+Round: 15 
 [Nov 9]
 Dubnica     0-0 Trencin
 Ruzomberok  1-0 D. Streda
@@ -176,7 +173,7 @@ Senec       2-1 Nitra
 [Nov 20?]
 Humenne     1-1 Inter
 
-Round 16 [Mar 10-12]
+Round: 16 [Mar 10-12]
 Trencin     2-0 Prievidza
 Petrzalka   2-0 D. Streda
 Ruzomberok  1-1 Inter
@@ -186,7 +183,7 @@ Trnava      4-0 B. Bystrica
 Slovan      6-0 Presov
 Kosice      2-0 Zilina
 
-Round 17
+Round: 17
 Presov      2-1 Kosice 
 Senec       1-1 Trencin 
 Dubnica     5-0 Humenne        
@@ -196,7 +193,7 @@ B. Bystrica 0-1 Slovan
 Zilina      4-0 Prievidza 
 Inter       1-0 Petrzalka         
 
-Round 18
+Round: 18
 Kosice      3-1 B. Bystrica
 Prievidza   1-5 Presov
 Trencin     3-0 Zilina
@@ -206,7 +203,7 @@ Humenne     1-0 Senec
 Petrzalka   1-2 Nitra
 Trnava      0-2 Inter
 
-Round 19
+Round: 19
 Humenne     0-1 Trencin
 Senec       2-0 Ruzomberok
 Dubnica     0-0 Petrzalka
@@ -216,7 +213,7 @@ D. Streda   0-2 Kosice
 B. Bystrica 1-0 Prievidza
 Presov      1-1 Zilina
 
-Round 20
+Round: 20
 Trencin     2-0 Presov
 Zilina      1-0 B. Bystrica
 Prievidza   0-2 D. Streda
@@ -226,7 +223,7 @@ Trnava      1-1 Dubnica
 Petrzalka   2-0 Senec
 Ruzomberok  1-1 Humenne
 
-Round 21 
+Round: 21 
 [Apr 1,2]
 Humenne     2-0 Petrzalka
 Senec       0-0 Trnava
@@ -238,7 +235,7 @@ B. Bystrica 1-2 Presov
 [Apr 19?]
 Ruzomberok  3-1 Trencin
 
-Round 22 [Apr 8,9]
+Round: 22 [Apr 8,9]
 Zilina      1-2 Inter
 Trencin     5-2 B. Bystrica
 Presov      1-1 D. Streda
@@ -248,7 +245,7 @@ Slovan      1-1 Senec
 Trnava      1-0 Humenne
 Petrzalka   1-0 Ruzomberok
 
-Round 23 [Apr 11]
+Round: 23 [Apr 11]
 Inter       2-0 Presov
 Senec       3-1 Kosice
 Petrzalka   0-0 Trencin
@@ -258,7 +255,7 @@ Nitra       0-2 Zilina
 Dubnica     0-1 Prievidza
 D. Streda   2-2 B. Bystrica
 
-Round 24 [Apr 15,16]
+Round: 24 [Apr 15,16]
 Trencin     2-0 D. Streda
 B. Bystrica 0-2 Inter
 Presov      2-0 Nitra
@@ -268,7 +265,7 @@ Kosice      1-0 Humenne
 Slovan      2-0 Ruzomberok
 Trnava      4-2 Petrzalka
 
-Round 25 [Apr 22-24]
+Round: 25 [Apr 22-24]
 Humenne     1-1 Prievidza
 Senec       0-0 Zilina
 Dubnica     1-0 Presov
@@ -278,7 +275,7 @@ Trnava      2-0 Trencin
 Petrzalka   1-3 Slovan
 Ruzomberok  0-2 Kosice
 
-Round 26 [Apr 29,30]
+Round: 26 [Apr 29,30]
 Trencin     1-3 Inter
 Zilina      0-2 Humenne
 D. Streda   1-0 Nitra
@@ -288,7 +285,7 @@ Kosice      3-2 Petrzalka
 Presov      1-0 Senec
 Slovan      3-0 Trnava
 
-Round 27
+Round: 27
 Nitra       1-3 Inter
 Trnava      1-0 Kosice
 Slovan      3-0 Trencin
@@ -298,7 +295,7 @@ Dubnica     0-0 D. Streda
 Senec       1-0 B. Bystrica
 Petrzalka   3-1 Prievidza
 
-Round 28 [May 11]
+Round: 28 [May 11]
 Trencin     1-1 Nitra
 Inter       3-0 Dubnica
 D. Streda   2-2 Senec
@@ -308,7 +305,7 @@ Zilina      2-2 Petrzalka
 Prievidza   0-1 Trnava
 Kosice      0-2 Slovan
 
-Round 29 [May 13,14]
+Round: 29 [May 13,14]
 Senec       0-5 Inter
 Kosice      4-0 Trencin
 Slovan      5-1 Prievidza
@@ -318,7 +315,7 @@ Ruzomberok  1-0 B. Bystrica
 Humenne     1-0 D. Streda
 Dubnica     5-0 Nitra
 
-Round 30 [May 17]
+Round: 30 [May 17]
 Trencin     2-0 Dubnica 
 Nitra       2-0 Senec  
 Inter       6-0 Humenne  
@@ -328,136 +325,30 @@ Presov      1-0 Trnava
 Zilina      0-1 Slovan 
 Prievidza   1-3 Kosice  
 
-Final Table:
-
- 1.ASK Inter Slovnaft Bratislava 30 21  7  2  65-16 70  Champions 
- 2.1.FC Kosice                   30 19  4  7  57-31 61
- 3.SK Slovan Bratislava          30 16  9  5  52-18 57
- 4.FC Spartak Trnava             30 15  8  7  38-21 53
- 5.Ozeta Dukla Trencín           30 13  8  9  38-29 47
- 6.FC Tatran Presov              30 14  5 11  38-42 47
- 7.MSK SCP Ruzomberok            30 13  7 10  29-26 46
- 8.MSK Zilina                    30 12  5 13  39-37 41
- 9.Artmedia Petrzalka            30 11  6 13  43-48 39
-------------------------------------------------------
-10.FK VTJ KOBA Senec             30  9 10 11  33-36 37  Relegated
-11.ZTS Kerametal Dubnica         30  9  7 14  25-35 34  Relegated
-12.HFC Humenné                   30 10  7 13  31-43 34  [*]  Relegated
-13.FC Nitra                      30  8  4 18  24-44 28  Relegated
-14.FC DAC Dunajska Streda        30  6  9 15  24-42 27  Relegated
-15.FC Dukla Banská Bystrica      30  7  2 21  27-53 23  Relegated
-16.MFK Baník Prievidza           30  6  4 20  29-71 22  Relegated
-
+* 1.ASK Inter Slovnaft Bratislava 30 21  7  2  65-16 70  Champions 
+* 2.1.FC Kosice                   30 19  4  7  57-31 61
+* 3.SK Slovan Bratislava          30 16  9  5  52-18 57
+* 4.FC Spartak Trnava             30 15  8  7  38-21 53
+* 5.Ozeta Dukla Trencín           30 13  8  9  38-29 47
+* 6.FC Tatran Presov              30 14  5 11  38-42 47
+* 7.MSK SCP Ruzomberok            30 13  7 10  29-26 46
+* 8.MSK Zilina                    30 12  5 13  39-37 41
+* 9.Artmedia Petrzalka            30 11  6 13  43-48 39
+*------------------------------------------------------
+*10.FK VTJ KOBA Senec             30  9 10 11  33-36 37  Relegated
+*11.ZTS Kerametal Dubnica         30  9  7 14  25-35 34  Relegated
+*12.HFC Humenné                   30 10  7 13  31-43 34  [*]  Relegated
+*13.FC Nitra                      30  8  4 18  24-44 28  Relegated
+*14.FC DAC Dunajska Streda        30  6  9 15  24-42 27  Relegated
+*15.FC Dukla Banská Bystrica      30  7  2 21  27-53 23  Relegated
+*16.MFK Baník Prievidza           30  6  4 20  29-71 22  Relegated
+*
 [*] HFC Humenné 3 points deducted
 
 
-Cup 1999/2000
-
-
-Preliminary Round [Jul 25 and Aug 4]
-West
-ASK Inter Bratislava B 1-1 2-1 Slovan Tura Luka
-Slovan Levice          1-0  -  SH Senica
-SFC Kalinkovo          1-2 1-6 Duslo Sala
-East
-Tesla Stropkov         1-0 0-2 Petrochema Dubova
-Lokomotiva Kosice      1-1  -  Ziad nar Hronom
-Spisska Nova Ves       1-1 1-2 Turna nad Bodvou
-
-First Round
-West [Sep 21]
-ASK Inter Bratislava B     1-4 Ozeta Dukla Trencin
-Slovan Levice              1-2 FC Nitra
-SKP Devin                  2-2 Koba Senec                  [5-6 pen]
-Nove Zamky                 1-1 Artmedia Petrzalka          [6-7 pen]
-Matador Puchov             3-2 SK Slovan Bratislava
-NCHZ Novaky                6-0 MSK Zilina
-ST Licartovce              5-1 Banik Prievidza
-Turna nad Bodvou           0-1 HFC Humenne
-East
-[Sep 21]
-Podbrezova                 2-2 Kerametal Dubnica nad Vahom [4-5 pen]
-BSC Bardejov               0-4 1.FC Kosice
-[Sep 22]
-Duslo Sala                 0-2 ASK Inter Bratislava
-SK Slovan Bratislava B     1-2 Spartak Trnava
-PFK Piestany                -  DAC Dunajska Streda
-Tauris Rimavska Sobota     0-1 Dukla Banska Bystrica
-Petrochema Dubova          1-5 SCP Ruzomberok
-Lokomotiva Kosice          1-1 Tatran Presov               [1-3 pen]
-
-Second Round [Oct 12]
-Koba Senec                 2-0 SCP Ruzomberok
-ST Licartovce              0-1 Artmedia Petrzalka
-Tatran Presov              0-2 ASK Inter Bratislava
-DAC Dunajska Streda        4-0 HFC Humenne
-1.FC Kosice                3-1 Ozeta Dukla Trencin
-Kerametal Dubnica n. Vahom 1-2 NCHZ Novaky
-FC Nitra                   1-1 Dukla Banska Bystrica       [6-7 pen]
-Spartak Trnava             2-0 Matador Puchov
-
-Quarterfinals [Oct 26]
-Artmedia Petrzalka         1-2 1.FC Kosice
-NCHZ Novaky                2-4 ASK Inter Bratislava
-Spartak Trnava             3-1 Koba Senec
-DAC Dunajska Streda        1-2 Dukla Banska Bystrica 
-
-Semifinals [Apr 4 and 18]
-Spartak Trnava         0-1 1-2 ASK Inter Bratislava
-Dukla Banska Bystrica  1-1 0-1 1.FC Kosice
-
-Final [May 8]
-ASK Inter Bratislava       1-1 1.FC Kosice                 [4-2 pen]
-  [Szilard Nemeth 38 - Jozef Kozak 50]
-  [att: 3,150] 
-
-
-Second Level 1999/2000
-
-Final Table:
- 
- 1.Matador Puchov                34 25  4  5  71-19 79  Promoted
-------------------------------------------------------
- 2.NCHZ Novaky                   34 24  5  5  67-19 77
- 3.Zeleziarne Podbrezová         34 23  5  6  62-30 74
- 4.ST Licartocve                 34 17 10  7  69-39 60
- 5.FC Tauris Rimavska Sobota     34 18  6 10  65-41 60
- 6.BSK Bardejov                  34 17  6 11  48-32 57 
- 7.SKP Devin                     34 17  5 12  50-31 56
- 8.SH Senica                     34 15  8 11  61-54 53  
-------------------------------------------------------
- 9.ZSNP Ziar nad Hronom          34 14  6 14  47-42 48  Relegated 
-10.SK Slovan Bratislava B        34 15  3 16  38-42 48  Relegated
-11.Slovan Levice                 34 15  3 16  34-43 48  Relegated
-12.ASK Inter Bratislava B        34 10 10 14  39-43 40  Relegated
-13.Tesla Stropkov                34 10  9 15  31-45 39  Relegated
-14.FKM Nové Zámky                34 10  7 17  28-46 37  Relegated
-15.Duslo Sala                    34  9  5 20  30-55 32  Relegated
-16.PFK Piestany                  34  9  4 21  29-62 31  Relegated
-17.FC Lokomotiva Kosice          34  4  6 24  25-76 18  Relegated
-18.AC Spisska Nova Ves           34  1  4 29  11-85  8  Relegated
-
-
-1998/99.
-
-
-2000/01.
-
-
-list of champions.
-
-
-list of cup winners.
-
-
-About this document
-
-Scorer information thanks to Marcos Cabaleiro Pérez (selanne@teleline.es)
-
-Prepared and maintained by Jiri Novotny and Hans Schöggl for the Rec.Sport.Soccer Statistics Foundation
-
-Authors: Jiri Novotny (novotny@ftknw.upol.cz) and Hans Schöggl (hans.schoeggl@sbg.ac.at) 
-Last updated: 5 Oct 2000
-
-(C) Copyright Jiri Novotny, Hans Schöggl and RSSSF 1999/2000
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.
+*Scorer information thanks to Marcos Cabaleiro Pérez (selanne@teleline.es)
+*Prepared and maintained by Jiri Novotny and Hans Schöggl for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Jiri Novotny (novotny@ftknw.upol.cz) and Hans Schöggl (hans.schoeggl@sbg.ac.at) 
+*Last updated: 5 Oct 2000
+*(C) Copyright Jiri Novotny, Hans Schöggl and RSSSF 1999/2000
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

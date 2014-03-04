@@ -1,22 +1,19 @@
-http://www.rsssf.com/tabless/slow01.html
+BlockSource: http://www.rsssf.com/tabless/slow01.html
+Season: 2000-2001
 
-Slovakia 2000/01
+* 1.ASK Inter Slovnaft Bratislava 36 25  5  6  73-28 80  Champions
+* 2.SK Slovan Bratislava          36 21  8  7  84-49 71
+* 3.MSK SCP Ruzomberok            36 15 10 11  51-48 55
+* 4.Artmedia Petrzalka            36 15  9 12  59-55 54
+* 5.MSK Zilina                    36 11 12 13  41-46 45
+* 6.Matador Puchov                36  9 13 14  47-53 40
+* 7.FC Tatran Presov              36 10 10 16  44-54 40 
+* 8.Ozeta Dukla Trencín           36 11  6 19  35-59 39
+* 9.1.FC Kosice                   36 10  7 19  42-61 37
+*------------------------------------------------------
+*10.FC Spartak Trnava             36  8 10 18  39-62 34  Relegated
 
-Final Table:
-
- 1.ASK Inter Slovnaft Bratislava 36 25  5  6  73-28 80  Champions
- 2.SK Slovan Bratislava          36 21  8  7  84-49 71
- 3.MSK SCP Ruzomberok            36 15 10 11  51-48 55
- 4.Artmedia Petrzalka            36 15  9 12  59-55 54
- 5.MSK Zilina                    36 11 12 13  41-46 45
- 6.Matador Puchov                36  9 13 14  47-53 40
- 7.FC Tatran Presov              36 10 10 16  44-54 40 
- 8.Ozeta Dukla Trencín           36 11  6 19  35-59 39
- 9.1.FC Kosice                   36 10  7 19  42-61 37
-------------------------------------------------------
-10.FC Spartak Trnava             36  8 10 18  39-62 34  Relegated
-
-Round 1 [Jul 18]
+Round: 1 [Jul 18]
 Trnava      2-1 Trencin  
   [Hrabal 22pen, 90; Konecny 31]
 Puchov      0-2 Inter
@@ -28,7 +25,7 @@ Slovan      2-0 Ruzomberok
 Petrzalka   2-2 Kosice
   [Kubala 12, Vasik 67; Orave 9, Ljubarskij 77]
 
-Round 2 [Jul 22,23]
+Round: 2 [Jul 22,23]
 Inter       2-1 Ruzomberok  
   [Nemeth S. 19, Gerich 89; Hyravy 22pen]
 Kosice      0-1 Slovan     
@@ -40,7 +37,7 @@ Trencin     2-2 Presov
 Puchov      2-0 Trnava      
   [Kraus 30, Strba 30]
 
-Round 3 [Jul 29,30]
+Round: 3 [Jul 29,30]
 Ruzomberok  1-0 Kosice  
   [Brabec 41]
 Presov      1-0 Puchov 
@@ -52,7 +49,7 @@ Trnava      2-2 Inter
 Slovan      5-1 Zilina  
   [Jancula T. 12, 88, 90, Meszaros 13, 62; Filo 30]
 
-Round 4 
+Round: 4 
 [Aug 5,6]
 Zilina      0-0 Ruzomberok
 Trnava      0-0 Presov
@@ -63,7 +60,7 @@ Trencin     0-3 Slovan
 Inter       2-0 Kosice
   [S. Nemeth 12, 72]
 
-Round 5 [Aug 12,13]
+Round: 5 [Aug 12,13]
 Presov      0-3 Inter
   [Nemeth S. 18, 89, Hornyak 54]
 Petrzalka   2-1 Trnava
@@ -75,7 +72,7 @@ Ruzomberok  1-0 Trencin
 Kosice      2-1 Zilina
   [Libic 29, Urban 31; Mintal 75]
 
-Round 6 [Aug 19,20]
+Round: 6 [Aug 19,20]
 Inter       2-0 Zilina
   [Nemeth S. 25, Kratochvil 40]
 Trnava      1-1 Slovan
@@ -87,7 +84,7 @@ Puchov      3-1 Ruzomberok
 Presov      4-1 Petrzalka 
   [Petrus M. 21pen, 76pen, Bubenko 61, Soltis 85; Seman 74]
 
-Round 7 [Aug 26-28]
+Round: 7 [Aug 26-28]
 Petrzalka   0-2 Inter
   [Pinte 30, Kocurek 52]
 Slovan      3-1 Presov
@@ -98,7 +95,7 @@ Kosice      2-0 Puchov
   [Zavar 45pen, Onofrej 72]
 Zilina      0-0 Trencin
 
-Round 8 
+Round: 8 
 [Sep 8,9]
 Inter       4-0 Trencin
   [Pinte 1, 65, Dzurik 63, Krejci 86]
@@ -113,7 +110,7 @@ Trnava      4-4 Kosice
   [Timko J. 16pen, Ciernik 23, Muzlay 78, Kuna 82; Zvara 33, Urban 45, Zabavnik 47,
    Jambor 64]
 
-Round 9 [Sep 16,17]
+Round: 9 [Sep 16,17]
 Ruzomberok  2-1 Petrzalka
   [Varadin 11, Hyravy 68pen; J. Majoros 60] 
 Kosice      0-3 Presov
@@ -125,7 +122,7 @@ Trencin     1-0 Puchov
 Slovan      1-1 Inter
   [Sobona 62; Babnic 25] 
 
-Round 10 [Sep 23,24]
+Round: 10 [Sep 23,24]
 Inter       2-0 Puchov   
   [Kratochvil 55pen, Suchancok 69]
 Trencin     4-0 Trnava        
@@ -137,7 +134,7 @@ Kosice      2-1 Petrzalka
 Ruzomberok  2-3 Slovan       
   [Orave 28, Helbich 89; Meszaros 6, 39, N. Hrncar 28]
 
-Round 11 [Sep 30, Oct 1]
+Round: 11 [Sep 30, Oct 1]
 Ruzomberok  0-0 Inter  
 Presov      3-1 Trencin  
   [Lelkes 32, M. Seman 86, 89; Porazik 26]
@@ -148,7 +145,7 @@ Petrzalka   2-4 Zilina
 Slovan      5-2 Kosice  
   [Pancik 7, Puchner 10, Jezik 18, 40,Mesyaros 29; Vyskoc 34, Urban 54]
 
-Round 12 [Oct 14,15]
+Round: 12 [Oct 14,15]
 Inter       4-0 Trnava
   [Kratochvil 19pen, Suchancok 20, Krejci 61, 73]
 Puchov      0-0 Presov
@@ -159,7 +156,7 @@ Kosice      1-2 Ruzomberok
 Trencin     3-3 Petrzalka
   [Styvar 24, Mati 31, 86pen; Mydliar 2, Styvar 68og, Maixner 77] 
 
-Round 13 [Oct 21,22]
+Round: 13 [Oct 21,22]
 Kosice      2-0 Inter         
   [Zvara 73, Pirosko 89] 
 Ruzomberok  2-1 Zilina 
@@ -171,7 +168,7 @@ Petrzalka   1-1 Puchov
 Presov      0-2 Trnava
   [Hilek 43, Kostka 83]
 
-Round 14 [Oct 28,29]
+Round: 14 [Oct 28,29]
 Puchov      1-1 Slovan
   [Pernis 70; T. Jancula 56]
 Trencin     0-1 Ruzomberok
@@ -182,7 +179,7 @@ Trnava      2-0 Petrzalka
 Inter       2-0 Presov
   [S. Nemeth 8, Pinte 67]
 
-Round 15 [Nov 4,5]
+Round: 15 [Nov 4,5]
 Zilina      1-2 Inter
   [Reiter 59; Dzurik 40, Babnic 42] 
 Kosice      2-0 Trencin
@@ -194,7 +191,7 @@ Slovan      4-2 Trnava
 Petrzalka   3-2 Presov
   [Kubala 12, 51, Maixner 18; Seman 5, Soltes 59]
 
-Round 16 [Nov 11,12]
+Round: 16 [Nov 11,12]
 Presov      2-1 Slovan
   [Lelkes 28, Drobnak 70; Sedlak 33]
 Trnava      0-0 Ruzomberok
@@ -205,7 +202,7 @@ Trencin     0-3 Zilina
 Inter       4-1 Petrzalka
   [Suchancok 8, Hornyak 41, Sz. Nemeth 60, 62; Hrncar 34]
 
-Round 17 [Nov 18,19]
+Round: 17 [Nov 18,19]
 Trencin     1-3 Inter
   [Smelko 7; Cisovsky 24, 32, Nemeth 41]
 Ruzomberok  1-1 Presov
@@ -216,7 +213,7 @@ Slovan      1-1 Petrzalka
   [Vittek 17; Bencik 61]
 Zilina      0-0 Puchov
 
-Round 18 [Nov 25,26]
+Round: 18 [Nov 25,26]
 Puchov      1-1 Trencin  
   [Vavrik 47pen; Porazik 89]
 Presov      1-0 Kosice  
@@ -228,7 +225,7 @@ Inter       2-0 Slovan
 Petrzalka   3-1 Ruzomberok  
   [Bencik 35, 52, Mydliar 49; Hazucha 67]
 
-Round 19 [Feb 24,25]
+Round: 19 [Feb 24,25]
 Puchov      1-3 Inter
   [Pernis 16; Sz. Nemeth 23, 55, Czinege 84]
 Trnava      0-0 Trencin
@@ -239,7 +236,7 @@ Slovan      4-1 Ruzomberok
 Petrzalka   3-1 Kosice
   [Majoros 40, Sykora 56, Kubala 61; Strba 48]
 
-Round 20 [Mar 3,4]
+Round: 20 [Mar 3,4]
 Trencin     1-0 Presov
   [Klago 4]
 Puchov      3-1 Trnava
@@ -251,7 +248,7 @@ Kosice      2-3 Slovan
 Zilina      2-3 Petrzalka
   [Golian 77, M. Mintal 90; Bencik 3, Soltis 44, Kinder 48pen] 
 
-Round 21 
+Round: 21 
 [Mar 9]
 Trnava      0-1 Inter
   [Suchancok 9]
@@ -265,7 +262,7 @@ Ruzomberok  3-2 Kosice
 Petrzalka   1-0 Trencin
   [Majoros 49]
 
-Round 22 [Mar 17,18]
+Round: 22 [Mar 17,18]
 Trencin     1-2 Slovan
   [Klago 45; Jancula 84, 90]
 Inter       2-1 Kosice
@@ -277,7 +274,7 @@ Puchov      1-1 Petrzalka
 Trnava      1-0 Presov
   [Krejci 33]
 
-Round 23 [Mar 31, Apr 1]
+Round: 23 [Mar 31, Apr 1]
 Kosice      0-0 Zilina
 Presov      2-1 Inter
   [Seman 24, Loj 44; Tomancak 60]
@@ -288,7 +285,7 @@ Ruzomberok  1-3 Trencin
 Petrzalka   3-0 Trnava
   [Kinder 11pen, Desiatnik 41, Maixner 90]
 
-Round 24 [Apr 7,8]
+Round: 24 [Apr 7,8]
 Trnava      1-2 Slovan 
   [Ujlaky 83; Slovak 58, Poljovksy 76og]
 Inter       3-0 Zilina 
@@ -300,7 +297,7 @@ Trencin     2-0 Kosice
 Presov      1-3 Petrzalka 
   [Sestak 55; Kinder 5pen, Bencik 48, 64]
 
-Round 25 [Apr 10]
+Round: 25 [Apr 10]
 Petrzalka   2-1 Inter
   [Er. Hrnca 40, Kinder 51pen; Babnic 37]
 Slovan      2-1 Presov
@@ -312,7 +309,7 @@ Kosice      4-2 Puchov
 Zilina      1-0 Trencin
   [Mintal 5]
 
-Round 26 [Apr 14,15]
+Round: 26 [Apr 14,15]
 Inter       2-1 Trencin  
   [Babnic 36, Kratochvil 72pen; Mati 65pen]
 Petrzalka   3-0 Slovan 
@@ -323,7 +320,7 @@ Puchov      1-1 Zilina
   [Lembakoali 70pen; Friga 90]
 Trnava      0-0 Kosice  
 
-Round 27 [Apr 17]
+Round: 27 [Apr 17]
 Ruzomberok  1-0 Petrzalka 
   [Gomez 45]
 Kosice      awd Presov           [awarded 0-3; originally 2-0] 
@@ -336,7 +333,7 @@ Slovan      5-3 Inter
   [T. Jancula 36, 76, Slovak 39, 73, Meszaros 57; Kratochvil 45pen, 49pen,
    Babnic 61]
 
-Round 28 [Apr 21]
+Round: 28 [Apr 21]
 Ruzomberok  1-1 Slovan
   [Oravec 33; Necas 58]
 Zilina      3-1 Presov
@@ -348,7 +345,7 @@ Kosice      1-2 Petrzalka
 Inter       2-3 Puchov
   [Babnic 27, Suchancok 83; Trifunovic 9, Lembakoali 60pen, Kovac 90]
 
-Round 29 [Apr 28,29]
+Round: 29 [Apr 28,29]
 Ruzomberok  0-0 Inter 
 Presov      0-0 Trencin 
 Trnava      2-3 Puchov
@@ -357,7 +354,7 @@ Slovan      6-0 Kosice
   [Tittel 12, Vittek 27, 47, N. Hrncar 29, Meszaros 51, Bednar 78]
 Petrzalka   0-0 Zilina 
 
-Round 30 [May 5,6]
+Round: 30 [May 5,6]
 Inter       1-0 Trnava  
   [Dzurik 24]
 Kosice      2-1 Ruzomberok  
@@ -369,7 +366,7 @@ Trencin     3-1 Petrzalka
 Puchov      2-2 Presov 
   [Pernis 76, Muzlay 90; Adam 17, M. Petrus 71]
 
-Round 31 [May 12]
+Round: 31 [May 12]
 Presov      2-0 Trnava
   [Lengyel 41, Loj 67]
 Kosice      1-1 Inter
@@ -380,7 +377,7 @@ Slovan      2-3 Trencin
 Petrzalka   1-1 Puchov
   [Mydliar 90; Revak 14]
 
-Round 32 [May 15]
+Round: 32 [May 15]
 Inter       4-0 Presov
   [Babnic 8, Dzurik 15, S. Nemeth 45, 56]
 Trnava      2-1 Petrzalka
@@ -392,7 +389,7 @@ Trencin     1-3 Ruzomberok
 Zilina      0-1 Kosice
   [Sovic 4]
 
-Round 33 [May 18,19]
+Round: 33 [May 18,19]
 Zilina      0-1 Inter
   [Babnic 62]
 Kosice      0-1 Trencin
@@ -404,7 +401,7 @@ Slovan      4-1 Trnava
 Petrzalka   3-1 Presov
   [Kinder 14pen, Bedi 21, Hall 69; Kovalik 57]
 
-Round 34 [May 26,27]
+Round: 34 [May 26,27]
 Inter       0-1 Petrzalka 
   [Bencik 10]
 Presov      1-1 Slovan 
@@ -416,7 +413,7 @@ Trencin     0-2 Zilina
 Puchov      1-2 Kosice 
   [Satka 84; R. Strba 23, Jambor 57]
 
-Round 35 [Jun 9,10]
+Round: 35 [Jun 9,10]
 Trencin     1-4 Inter
   [Horvatovic 62; Sz. Nemeth 20,23, Gerich 67, Drobnak 90]
 Zilina      1-0 Puchov
@@ -428,7 +425,7 @@ Ruzomberok  2-1 Presov
 Slovan      2-1 Petrzalka
   [Jancula 27, 69; Maixner 47]
 
-Round 36 [Jun 13]
+Round: 36 [Jun 13]
 Petrzalka   4-2 Ruzomberok
   [Kubala 9, E. Hrncar 37, Maixner 65, Mydliar 90; Moringl 7, Hellebrand 72] 
 Presov      0-0 Kosice
@@ -439,533 +436,22 @@ Trnava      2-2 Zilina
 Inter       3-0 Slovan
   [Gerich 37, Kratochvil 54pen, Sz. Nemeth 56]
 
-Final Table:
 
- 1.ASK Inter Slovnaft Bratislava 36 25  5  6  73-28 80  Champions
- 2.SK Slovan Bratislava          36 21  8  7  84-49 71
- 3.MSK SCP Ruzomberok            36 15 10 11  51-48 55
- 4.Artmedia Petrzalka            36 15  9 12  59-55 54
- 5.MSK Zilina                    36 11 12 13  41-46 45
- 6.Matador Puchov                36  9 13 14  47-53 40
- 7.FC Tatran Presov              36 10 10 16  44-54 40 
- 8.Ozeta Dukla Trencín           36 11  6 19  35-59 39
- 9.1.FC Kosice                   36 10  7 19  42-61 37
-------------------------------------------------------
-10.FC Spartak Trnava             36  8 10 18  39-62 34  Relegated
-
-
-Slovakia Cup 2000/01
-
-Preliminary Round [Jul 26 and Aug 2]
-West
-ASK Inter Bratislava B     1-1 0-4 VTJ Topolcany          [1st leg Jul 25]
-Druzstevnik Slovensky Grob 1-1 1-1 FKM Nove Zamky         [2-4 pen; 1st leg Jul 25]
-Calex Zlate Moravce        0-0 1-0 Rapid Bratislava
-East
-Tesla Stropkov             2-1 0-1 Slavoj Trebisov
-ZTS VTJ Matin              2-1 0-1 FK Cana
-Petrochema Dubova          1-1 2-1 Slovan Levice
-
-First Round
-West
-[Sep 19]
-SKP Devin                  1-1 ASK Inter Bratislava       [3-5 pen]
-SH Senica                  0-0 Koba Senec                 [6-7 pen]
-FKM Nove Zamky             1-2 SK Slovan Bratislava
-Banik Prievidza            0-0 Artmedia Petrzalka         [2-4 pen]
-[Sep 20]
-SK Slovan Bratislava B     1-1 Spartak Trnava             [3-4 pen]
-NCHZ Novaky                4-0 FC Nitra
-Calex Zlate Moravce        0-0 DAC Dunajska Streda        [5-3 pen]
-VTJ Topolcany              1-2 Ozeta Dukla Trencin
-East
-[Sep 19]
-Slavoj Trebisov            1-3 HFC Humenne
-Zeleziarne Podbrezova      2-0 Matador Puchov
-[Sep 20]
-FK Cana                    2-2 Tatran Presov              [5-4 pen]
-Ziar nad Hronom            0-0 1.FC Kosice                [4-2 pen]
-Bardejov                   0-2 MSK Zilina
-Rimavska Sobota            0-0 Kerametal Dubnica n/Vahom  [3-1 pen]
-ST Licartovce              2-2 Dukla Banska Bystrica      [3-4 pen]
-Petrochema Dubova          0-4 SCP Ruzomberok
-
-Second Round
-[Nov 7]
-Koba Senec                 1-1 SK Slovan Bratislava       [4-2 pen]
-MSK Zilina                 0-2 Dukla Banska Bystrica 
-Ziar nad Hronom            2-1 Rimavska Sobota
-HFC Humenne                5-0 Spartak Trnava
-[Nov 8]
-SCP Ruzomberok             4-1 FK Cana 
-Calex Zlate Moravce        0-0 Artmedia Petrzalka         [3-5 pen]
-Ozeta Dukla Trencin        1-2 Zeleziarne Podbrezova 
-[Nov 21]
-NCHZ Novaky                1-1 ASK Inter Bratislava       [3-4 pen]
-
-Quarterfinals
-[Nov 21]
-Zeleziarne Podbrezova      2-1 Dukla Banska Bystrica 
-Ziar nad Hronom            2-1 HFC Humenne
-[Nov 22]
-Artmedia Petrzalka         2-3 SCP Ruzomberok
-[Nov 29]
-Koba Senec                 0-0 ASK Inter Bratislava       [2-4 pen]
-
-Semifinals
-
-First Legs [Mar 13]
-Zeleziarne Podbrezova      0-2 ASK Inter Bratislava
-Ziar nad Hronom            1-5 SCP Ruzomberok
-
-Second Legs [Apr 3]
-ASK Inter Bratislava       0-0 Zeleziarne Podbrezova  
-SCP Ruzomberok             2-1 Ziar nad Hronom
-  
-Final [Dubnica nad Vahom, May 8]
-ASK Inter Bratislava       1-0 SCP Ruzomberok       
-  [Szilard Nemeth 90]
-
-
-
-Slovakia Second Level 2000/01
-
-Final Table:
-
- 1.  Kerametal Dubnica n/Vahom  34 19  9  6  44-18  66  [2 1 1 0 1-0 4]  Promoted
- 2.  FC Nitra                   34 21  3 10  77-27  66  [2 0 1 1 0-1 1]
- 3.  Zeleziarne Podbrezova      34 16 10  8  43-28  58
- 4.  Koba Senec                 34 17  6 11  48-34  57
- 5.  DAC Dunajska Streda        34 16  7 11  43-41  55
- 6.  Rimavska Sobota            34 15  9 10  47-33  54
- 7.  NCHZ Novaky                34 14 11  9  42-32  53  [2 1 1 0 2-1 4]
- 8.  SKP Devin                  34 13 14  7  58-43  53  [2 0 1 1 1-2 1]
- 9.  ST Licartovce              34 15  5 14  50-36  50
-10.  VTJ Topolcany              34 14  5 15  43-52  47
-11.  Dukla Banska Bystrica      34 13  7 14  39-32  46  [2 1 1 0 2-0 4]
-12.  HFC Humenne                34 12 10 12  33-31  46  [2 0 1 1 0-2 1]
-13.  BSK Bardejov               34 11 10 13  42-50  43
-14.  FK Cana                    34 11  3 20  41-61  35
-15.  ZTS VTJ Martin             34  7 13 14  43-60  34
-16.  Banik Prievidza            34  9  4 21  29-61  31
-17.  SH Senica                  34  7  8 19  31-68  29
-18.  Druzstevnik Slovensky Grob 34  6  7 21  26-72  25
-
-Round 1
-Martin       4-1 Bardejov
-Nitra        3-1 Druzstevnik
-Podbrezova   1-0 Dubnica
-Rimavska S.  1-1 Humenne
-Senica       1-0 Dunajska S.
-Licartovce   1-1 Cana
-Devin        1-2 Novaky
-Dukla BB     2-3 Topolcany
-Prievidza    0-1 Senec
-
-Round 2
-Bardejov     2-0 Licartovce
-Cana         4-0 Prievidza
-Dubnica      3-0 Druzstevnik
-Dunajska S.  1-0 Nitra
-Humenne      1-1 Martin
-Novaky       0-0 Rimavska S.
-Podbrezova   1-0 Dukla BB
-Senec        2-1 Senica
-Topolcany    2-2 Devin
-
-Round 3
-Martin       2-2 Novaky
-Nitra        3-2 Senec
-Druzstevnik  1-1 Dunajska S.
-Rimavska S.  4-1 Topolcany
-Senica       2-1 Cana
-Licartovce   3-2 Humenne
-Devin        0-1 Podbrezova
-Dukla BB     0-1 Dubnica
-Prievidza    3-2 Bardejov
-
-Round 4
-Bardejov     2-2 Senica
-Cana         2-1 Nitra
-Dubnica      2-0 Dunajska S.
-Dukla BB     1-0 Devin
-Humenne      4-0 Prievidza
-Novaky       2-1 Licartovce
-Podbrezova   1-0 Rimavska S.
-Senec        3-1 Druzstevnik
-Topolcany    2-0 Martin
-
-Round 5
-Martin       1-1 Podbrezova
-Nitra        4-0 Bardejov
-Dunajska S.  1-0 Senec
-Rimavska S.  1-2 Dukla BB
-Senica       0-2 Humenne
-Licartovce   0-1 Topolcany
-Devin        1-1 Dubnica
-Druzstevnik  3-2 Cana
-Prievidza    0-0 Novaky
-
-Round 6
-Bardejov     0-0 Druzstevnik
-Cana         1-1 Dunajska S.
-Dubnica      2-0 Senec
-Dukla BB     0-1 Martin
-Humenne      1-0 Nitra
-Novaky       0-1 Senica
-Podbrezova   0-0 Licartovce
-Devin        2-1 Rimavska S.
-Topolcany    2-0 Prievidza
-
-Round 7
-Martin       2-2 Devin
-Nitra        2-0 Novaky
-Dunajska S.  4-3 Bardejov
-Rimavska S.  1-0 Dubnica
-Senica       3-0 Topolcany
-Licartovce   2-1 Dukla BB
-Druzstevnik  1-0 Humenne
-Senec        3-1 Cana
-Prievidza    0-2 Podbrezova
-
-Round 8
-Bardejov     0-3 Senec
-Dukla BB     0-1 Prievidza
-Dubnica      2-0 Cana
-Devin        2-0 Licartovce
-Humenne      1-0 Dunajska S.
-Novaky       2-0 Druzstevnik
-Podbrezova   1-1 Senica
-Rimavska S.  1-2 Martin
-Topolcany    1-2 Nitra
-
-Round 9
-Martin       2-2 Dubnica
-Nitra        1-0 Podbrezova
-Cana         0-1 Bardejov
-Dunajska S.  0-0 Novaky
-Senica       2-2 Dukla BB
-Licartovce   1-3 Rimavska S.
-Senec        0-1 Humenne
-Druzstevnik  0-0 Topolcany
-Prievidza    0-1 Devin
-
-Round 10
-Martin       0-1 Licartovce
-Dukla BB     1-0 Nitra
-Dubnica      1-1 Bardejov
-Devin        2-0 Senica
-Humenne      1-0 Cana
-Novaky       2-1 Senec
-Podbrezova   4-0 Druzstevnik
-Rimavska S.  0-0 Prievidza
-Topolcany    2-1 Dunajska S.
-
-Round 11
-Bardejov     2-1 Humenne
-Nitra        7-1 Devin
-Cana         2-1 Novaky
-Dunajska S.  2-0 Podbrezova
-Senica       0-2 Rimavska S.
-Licartovce   1-0 Dubnica
-Senec        5-2 Topolcany
-Druzstevnik  1-0 Dukla BB
-Prievidza    0-2 Martin
-
-Round 12
-Licartovce   2-0 Prievidza
-Dukla BB     1-0 Dunajska S.
-Dubnica      1-1 Humenne
-Devin        7-1 Druzstevnik
-Martin       1-2 Senica
-Novaky       0-1 Bardejov
-Podbrezova   3-3 Senec
-Rimavska S.  4-0 Nitra
-Topolcany    1-0 Cana
-
-Round 13
-Humenne      0-0 Novaky
-Nitra        5-0 Martin
-Cana         0-1 Podbrezova
-Dunajska S.  3-1 Devin
-Senica       0-4 Licartovce
-Prievidza    0-5 Dubnica
-Senec        1-0 Dukla BB
-Druzstevnik  0-1 Rimavska S.
-Bardejov     1-2 Topolcany
-
-Round 14
-Licartovce   1-0 Nitra
-Dukla BB     6-0 Cana
-Dubnica      1-0 Novaky
-Devin        1-0 Senec
-Martin       1-0 Druzstevnik
-Prievidza    2-0 Senica
-Podbrezova   4-1 Bardejov
-Rimavska S.  1-1 Dunajska S.
-Topolcany    0-0 Humenne
-
-Round 15
-Humenne      1-0 Podbrezova
-Nitra        4-0 Prievidza
-Cana         1-2 Devin
-Dunajska S.  3-2 Martin
-Senica       1-2 Dubnica
-Novaky       2-0 Topolcany
-Senec        1-0 Rimavska S.
-Druzstevnik  1-0 Licartovce
-Bardejov     1-2 Dukla BB
-
-Round 16
-Licartovce   0-1 Dunajska S.
-Dukla BB     0-0 Humenne
-Dubnica      3-1 Topolcany
-Devin        3-2 Bardejov
-Martin       0-0 Senec
-Prievidza    2-1 Druzstevnik
-Podbrezova   3-2 Novaky
-Rimavska S.  4-0 Cana
-Senica       0-1 Nitra
-
-Round 17
-Humenne      2-2 Devin
-Nitra        0-0 Dubnica
-Cana         2-0 Martin
-Dunajska S.  2-1 Prievidza
-Topolcany    4-2 Podbrezova
-Novaky       3-3 Dukla BB
-Senec        2-1 Licartovce
-Druzstevnik  2-1 Senica
-Bardejov     1-1 Rimavska S.
-
-Round 18
-Humenne      0-0 Rimavska S.
-Cana         3-1 Licartovce
-Dubnica      1-0 Podbrezova
-Dunajska S.  3-1 Senica
-Topolcany    1-0 Dukla BB
-Novaky       0-0 Devin
-Senec        2-1 Prievidza
-Druzstevnik  0-6 Nitra
-Bardejov     2-1 Martin
-
-Round 19
-Nitra        3-0 Dunajska S.
-Dukla BB     0-1 Podbrezova
-Devin        5-0 Topolcany
-Licartovce   4-0 Bardejov
-Martin       1-1 Humenne
-Prievidza    3-0 Cana
-Druzstevnik  0-2 Dubnica
-Rimavska S.  3-1 Novaky
-Senica       0-1 Senec
-
-Round 20
-Bardejov     1-0 Prievidza
-Cana         3-1 Senica
-Dubnica      0-1 Dukla BB
-Dunajska S.  2-0 Druzstevnik
-Humenne      2-0 Licartovce
-Novaky       3-1 Martin
-Podbrezova   1-1 Devin
-Topolcany    1-2 Rimavska S.
-Senec        1-0 Nitra
-
-Round 21
-Nitra        3-1 Cana
-Dunajska S.  1-1 Dubnica
-Devin        0-0 Dukla BB
-Licartovce   3-0 Novaky
-Martin       2-4 Topolcany
-Prievidza    2-1 Humenne
-Druzstevnik  1-1 Senec
-Rimavska S.  1-0 Podbrezova
-Senica       0-3 Bardejov
-
-Round 22
-Bardejov     1-1 Nitra
-Cana         3-2 Druzstevnik
-Dubnica      1-1 Devin
-Dukla BB     1-1 Rimavska S.
-Humenne      3-0 Senica
-Novaky       3-1 Prievidza
-Podbrezova   2-2 Martin
-Topolcany    2-1 Licartovce
-Senec        0-2 Dunajska S.
-
-Round 23
-Nitra        4-0 Humenne
-Senec        2-0 Dubnica
-Dunajska S.  3-2 Cana
-Licartovce   1-1 Podbrezova
-Martin       0-1 Dukla BB
-Prievidza    1-0 Topolcany
-Druzstevnik  1-1 Bardejov
-Rimavska S.  1-1 Devin
-Senica       0-2 Novaky
-
-Round 24
-Bardejov     3-0 Dunajska S.
-Cana         1-1 Senec
-Dubnica      2-0 Rimavska S.
-Dukla BB     0-0 Licartovce
-Humenne      3-0 Druzstevnik
-Novaky       1-0 Nitra
-Podbrezova   1-0 Prievidza
-Topolcany    1-1 Senica
-Devin        0-0 Martin
-
-Round 25
-Nitra        2-0 Topolcany
-Dunajska S.  2-0 Humenne
-Senec        0-0 Bardejov
-Senica       1-1 Podbrezova
-Martin       1-1 Rimavska S.
-Prievidza    3-1 Dukla BB
-Druzstevnik  0-0 Novaky
-Licartovce   1-1 Devin
-Cana         1-2 Dubnica
-
-Round 26
-Bardejov     3-0 Cana
-Rimavska S.  2-0 Licartovce
-Dubnica      1-0 Martin
-Dukla BB     2-2 Senica
-Humenne      0-2 Senec
-Novaky       2-0 Dunajska S.
-Podbrezova   1-0 Nitra
-Topolcany    1-0 Druzstevnik
-Devin        1-1 Prievidza
-
-Round 27
-Nitra        1-0 Dukla BB
-Dunajska S.  2-1 Topolcany
-Senec        2-1 Novaky
-Senica       1-3 Devin
-Bardejov     0-0 Dubnica
-Prievidza    1-0 Rimavska S.
-Druzstevnik  1-3 Podbrezova
-Licartovce   4-1 Martin
-Cana         1-0 Humenne
-
-Round 28
-Martin       1-1 Prievidza
-Rimavska S.  3-0 Senica
-Dubnica      1-0 Licartovce
-Dukla BB     3-0 Druzstevnik
-Humenne      1-1 Bardejov
-Novaky       2-0 Cana
-Podbrezova   0-0 Dunajska S.
-Topolcany    2-0 Senec
-Devin        2-2 Nitra
-
-Round 29
-Nitra        4-0 Rimavska S.
-Dunajska S.  0-3 Dukla BB
-Senec        2-1 Podbrezova
-Senica       1-5 Martin
-Bardejov     1-1 Novaky
-Prievidza    1-2 Licartovce
-Druzstevnik  2-4 Devin
-Humenne      0-1 Dubnica
-Cana         2-1 Topolcany
-
-Round 30
-Martin       0-6 Nitra
-Rimavska S.  3-0 Druzstevnik
-Dubnica      3-0 Prievidza
-Dukla BB     1-0 Senec
-Licartovce   6-0 Senica
-Novaky       1-0 Humenne
-Podbrezova   1-0 Cana
-Topolcany    2-0 Bardejov
-Devin        3-0 Dunajska S.
-
-Round 31
-Nitra        2-1 Licartovce
-Dunajska S.  2-0 Rimavska S.
-Senec        1-1 Devin
-Senica       2-1 Prievidza
-Bardejov     1-0 Podbrezova
-Novaky       1-0 Dubnica
-Druzstevnik  2-2 Martin
-Humenne      2-1 Topolcany
-Cana         1-0 Dukla BB
-
-Round 32
-Martin       2-2 Dunajska S.
-Rimavska S.  2-1 Senec
-Dubnica      0-0 Senica
-Dukla BB     2-0 Bardejov
-Licartovce   4-1 Druzstevnik
-Prievidza    2-6 Nitra
-Podbrezova   2-0 Humenne
-Topolcany    1-1 Novaky
-Devin        4-1 Cana
-
-Round 33
-Senec        4-0 Martin
-Topolcany    1-2 Dubnica
-Novaky       1-1 Podbrezova
-Humenne      0-2 Dukla BB
-Nitra        4-1 Senica
-Dunajska S.  0-2 Licartovce
-Bardejov     4-1 Devin
-Druzstevnik  2-1 Prievidza
-Cana         5-1 Rimavska S.
-
-Round 34
-Martin       3-0 Cana
-Rimavska S.  2-0 Bardejov
-Dubnica      1-0 Nitra
-Dukla BB     1-4 Novaky
-Licartovce   2-1 Senec
-Prievidza    1-3 Dunajska S.
-Podbrezova   2-0 Topolcany
-Senica       3-1 Druzstevnik
-Devin        0-1 Humenne
-
-Final Table:
-
- 1.  Kerametal Dubnica n/Vahom  34 19  9  6  44-18  66  [2 1 1 0 1-0 4]  Promoted
- 2.  FC Nitra                   34 21  3 10  77-27  66  [2 0 1 1 0-1 1]
- 3.  Zeleziarne Podbrezova      34 16 10  8  43-28  58
- 4.  Koba Senec                 34 17  6 11  48-34  57
- 5.  DAC Dunajska Streda        34 16  7 11  43-41  55
- 6.  Rimavska Sobota            34 15  9 10  47-33  54
- 7.  NCHZ Novaky                34 14 11  9  42-32  53  [2 1 1 0 2-1 4]
- 8.  SKP Devin                  34 13 14  7  58-43  53  [2 0 1 1 1-2 1]
- 9.  ST Licartovce              34 15  5 14  50-36  50
-10.  VTJ Topolcany              34 14  5 15  43-52  47
-11.  Dukla Banska Bystrica      34 13  7 14  39-32  46  [2 1 1 0 2-0 4]
-12.  HFC Humenne                34 12 10 12  33-31  46  [2 0 1 1 0-2 1]
-13.  BSK Bardejov               34 11 10 13  42-50  43
-14.  FK Cana                    34 11  3 20  41-61  35
-15.  ZTS VTJ Martin             34  7 13 14  43-60  34
-16.  Banik Prievidza            34  9  4 21  29-61  31
-17.  SH Senica                  34  7  8 19  31-68  29
-18.  Druzstevnik Slovensky Grob 34  6  7 21  26-72  25
-
-
-
-1999/00.
-
-
-2001/02.
-
-
-list of champions.
-
-
-list of cup winners.
-
-
-About this document
-
-Prepared and maintained by Jiri Novotny and Jan Schoenmakers for the Rec.Sport.Soccer Statistics Foundation
-
-Authors: Jiri Novotny (novotny@ftknw.upol.cz) and Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com) 
-Last updated: 19 Jul 2001
-
-(C) Copyright Jiri Novotny, Jan Schoenmakers and RSSSF 2000/01
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.
+* 1.ASK Inter Slovnaft Bratislava 36 25  5  6  73-28 80  Champions
+* 2.SK Slovan Bratislava          36 21  8  7  84-49 71
+* 3.MSK SCP Ruzomberok            36 15 10 11  51-48 55
+* 4.Artmedia Petrzalka            36 15  9 12  59-55 54
+* 5.MSK Zilina                    36 11 12 13  41-46 45
+* 6.Matador Puchov                36  9 13 14  47-53 40
+* 7.FC Tatran Presov              36 10 10 16  44-54 40 
+* 8.Ozeta Dukla Trencín           36 11  6 19  35-59 39
+* 9.1.FC Kosice                   36 10  7 19  42-61 37
+*------------------------------------------------------
+*10.FC Spartak Trnava             36  8 10 18  39-62 34  Relegated
+
+
+*Prepared and maintained by Jiri Novotny and Jan Schoenmakers for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Jiri Novotny (novotny@ftknw.upol.cz) and Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com) 
+*Last updated: 19 Jul 2001
+*(C) Copyright Jiri Novotny, Jan Schoenmakers and RSSSF 2000/01
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

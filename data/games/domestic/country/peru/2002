@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesp/peru02.html
 Competition: Peruvian Primera División
-Season: 2002 Apertura
+Season: 2002 
+Stage: Apertura
 
 * 1.Alianza Lima            22 14  5  3  43-23  47  Apertura Playoff
 * 2.Universitario           22 15  2  5  30-17  47  Apertura Playoff
@@ -556,7 +557,8 @@ Date: 7/7/2002
 *Universitario win Apertura and qualify to Copa Libertadores 2003
 
 
-Season: 2002 Clausura
+Season: 2002 
+Stage: Clausura
 
 * 1.Sporting Cristal        22 13  7  2  46-18  46  Clausura Winners
 * 2.Alianza Lima            22 13  6  3  40-18  42  [-3]

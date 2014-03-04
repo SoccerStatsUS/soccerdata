@@ -13,7 +13,7 @@ Stage: Apertura
 * 6.Oriente Petrolero       22 10  4  8 32-33 34 
 * 7.Guabirá                 22  9  6  7 30-34 33  
 * 8.Independiente           22  9  5  8 29-20 32
-* 8.Real Potosiosí             22  8  5  9 34-38 29
+* 8.Real Potosiosí          22  8  5  9 34-38 29
 * 9.Bolívar                 22  8  4 10 30-29 28
 *10.Real Santa Cruz         22  5  6 11 18-30 21
 *11.Destroyers              22  5  4 13 23-38 19
@@ -21,7 +21,7 @@ Stage: Apertura
 
 Date: 2/28/1998
 
-;      Chaco          ; 0-1; Independiente   ; La Paz
+;      Chaco Petrolero          ; 0-1; Independiente   ; La Paz
 ;             O. Gonzales
 
 ;  Oriente        ; 0-0; Real Santa Cruz ; Santa Cruz
@@ -46,7 +46,7 @@ Date: 3/2/1998
 
 Date: 3/7/1998
 
-;  Destroyers     ; 3-1; Chaco           ; Santa Cruz
+;  Destroyers     ; 3-1; Chaco Petrolero           ; Santa Cruz
              F. Flores 2, L. De Luque; L. Vargas
 
 ;  Real Santa Cruz; 3-0; Real Potosi     ; Santa Cruz
@@ -72,7 +72,7 @@ Date: 3/14/1998
 
 Date: 3/15/1998
 
-;      Chaco          ; 4-2; Real Santa Cruz ; La Paz
+;      Chaco Petrolero          ; 4-2; Real Santa Cruz ; La Paz
              R. Calustro, R. Calustro, P. Cuba, P. Colque; C. Ayala, C. Ayala
 
 ;  Oriente        ; 1-2; Wilstermann     ; Santa Cruz
@@ -98,7 +98,7 @@ Date: 3/22/1998
 ;       Independiente  ; 3-1; Blooming        ; Sucre
              F. Calustro, H. Reyes, W. Avila; E. Arandia
 
-;      The Strongest  ; 3-1; Chaco           ; La Paz
+;      The Strongest  ; 3-1; Chaco Petrolero           ; La Paz
              B. Suarez, S. Coelho, M. Ramos; R. Calustro
 
 ;  Wilstermann    ; 3-0; Real Potosi     ; Cochabamba
@@ -121,7 +121,7 @@ Date: 3/28/1998
 
 Date: 3/29/1998
 
-;      Chaco          ; 0-1; Wilstermann     ; La Paz
+;      Chaco Petrolero          ; 0-1; Wilstermann     ; La Paz
 ;             O. Osorio
 
 ;  Guabira        ; 2-1; The Strongest   ; Santa Cruz
@@ -170,7 +170,7 @@ Date: 4/12/1998
 ;      Bolivar        ; 1-0; Destroyers      ; La Paz
              Zoca;
 
-;      Chaco          ; 4-3; Real Potosi     ; La Paz
+;      Chaco Petrolero          ; 4-3; Real Potosi     ; La Paz
              R. Calustro, A. Gutierrez, E. Justiniano, A. Blanco; S. Vargas, J. Peña, E. De Oliveira
 
 ;       Independiente  ; 1-1; Real Santa Cruz ; Sucre
@@ -183,7 +183,7 @@ Date: 4/18/1998
 
 Date: 4/19/1998
 
-;      Chaco          ; 1-4; Bolivar         ; La Paz
+;      Chaco Petrolero          ; 1-4; Bolivar         ; La Paz
              R. Calustro; S. Joao, S. Joao, S. Joao, E. Jiguchi
 
 ;  Oriente        ; 2-1; San Jose        ; Santa Cruz
@@ -204,7 +204,7 @@ Date: 4/22/1998
 ;      Bolivar        ; 1-0; Blooming        ; La Paz
              M. Sandy;
 
-;  Oriente        ; 5-3; Chaco           ; Santa Cruz
+;  Oriente        ; 5-3; Chaco Petrolero           ; Santa Cruz
              R. Suarez 2, A. Peña, A. Pena, C. Mendez; P. Cuba, P. Cuba, M. Sanabria
 
 
@@ -217,7 +217,7 @@ Date: 4/24/1998
 
 Date: 4/25/1998
 
-;  Guabira        ; 2-0; Chaco           ; Santa Cruz
+;  Guabira        ; 2-0; Chaco Petrolero           ; Santa Cruz
              M. Ceballos, M. Ceballos;
 
 ;       Independiente  ; 0-1; Wilstermann     ; Sucre
@@ -237,7 +237,7 @@ Date: 4/26/1998
 
 Date: 5/2/1998
 
-;  Blooming       ; 3-0; Chaco           ; Santa Cruz
+;  Blooming       ; 3-0; Chaco Petrolero           ; Santa Cruz
              R. Paniagua, G. Merlo, L. Gutierrez;
 
 ;      Bolivar        ; 1-1; The Strongest   ; La Paz
@@ -253,7 +253,7 @@ Date: 5/2/1998
 
 Date: 5/6/1998
 
-;      Chaco          ; 0-0; San Jose        ; La Paz
+;      Chaco Petrolero          ; 0-0; San Jose        ; La Paz
 
 ;  Oriente        ; 1-0; Independiente   ; Santa Cruz
              C. Mendez;
@@ -274,7 +274,7 @@ Date: 5/9/1998
 
 Date: 5/10/1998
 
-;       Independiente  ; 1-0; Chaco           ; Sucre
+;       Independiente  ; 1-0; Chaco Petrolero           ; Sucre
              S. Netto;
 
 ;  Real Santa Cruz; 0-1; Oriente         ; Santa Cruz
@@ -303,7 +303,7 @@ Date: 5/15/1998
 
 Date: 5/17/1998
 
-;      Chaco          ; 0-1; Destroyers      ; La Paz
+;      Chaco Petrolero          ; 0-1; Destroyers      ; La Paz
 ;             W. Añez
 
 ;  Oriente        ; 1-0; The Strongest   ; Santa Cruz
@@ -324,7 +324,7 @@ Date: 5/20/1998
 
 Date: 5/23/1998
 
-;  Real Santa Cruz; 2-0; Chaco           ; Santa Cruz
+;  Real Santa Cruz; 2-0; Chaco Petrolero           ; Santa Cruz
              A. Jara, A. Jara;
 
 ;      The Strongest  ; 2-2; Real Potosi     ; La Paz
@@ -352,7 +352,7 @@ Date: 5/30/1998
 ;  Blooming       ; 1-0; Independiente   ; Santa Cruz
              V. Antelo;
 
-;      Chaco          ; 1-2; The Strongest   ; La Paz
+;      Chaco Petrolero          ; 1-2; The Strongest   ; La Paz
              R. Calustro; B. Suarez, B. Suarez
 
 Date: 5/30/1998
@@ -386,7 +386,7 @@ Date: 6/7/1998
 ;      The Strongest  ; 8-1; Guabira         ; La Paz
              B. Suarez, B. Suarez, B. Suarez, J. Ortiz, J. Ortiz, A. Ibañez, A. Ibanez, R. Rojas; R. Cruz
 
-;  Wilstermann    ; 3-0; Chaco           ; Cochabamba
+;  Wilstermann    ; 3-0; Chaco Petrolero           ; Cochabamba
              C. Cardenas, C. Cardenas, C. Cardenas;
 
 
@@ -405,7 +405,7 @@ Date: 7/18/1998
 
 Date: 7/19/1998
 
-;      Chaco          ; 3-3; Oriente         ; La Paz
+;      Chaco Petrolero          ; 3-3; Oriente         ; La Paz
              M. Sanabria, R. Castro, L. Orellana; O. Ozzan, O. Ozzan, F. Apuri
 
 ;  Guabira        ; 0-0; Wilstermann     ; Santa Cruz
@@ -426,7 +426,7 @@ Date: 7/26/1998
 ;  Destroyers     ; 2-1; Bolivar         ; Santa Cruz
              H. Sanchez, H. Sanchez; J. Gottardi
 
-;      Real Potosi    ; 3-0; Chaco           ; Potosi
+;      Real Potosi    ; 3-0; Chaco Petrolero           ; Potosi
              J. Peña, J. Fernandez, T. Gutierrez;
 
 ;      The Strongest  ; 6-1; Blooming        ; La Paz
@@ -452,7 +452,7 @@ Date: 8/2/1998
 ;  Blooming       ; 3-1; Wilstermann     ; Santa Cruz
              G. Merlo, L. Gutierrez, V. Antelo; O. Osorio
 
-;      Bolivar        ; 0-2; Chaco           ; La Paz
+;      Bolivar        ; 0-2; Chaco Petrolero           ; La Paz
 ;             R. Castro, R. Calustro
 
 ;       Independiente  ; 1-0; The Strongest   ; Sucre
@@ -468,7 +468,7 @@ Date: 8/8/1998
 
 Date: 8/9/1998
 
-;      Chaco          ; 0-0; Guabira         ; La Paz
+;      Chaco Petrolero          ; 0-0; Guabira         ; La Paz
 
 ;  Oriente        ; 2-1; Blooming        ; Santa Cruz
              O. Ozzan, G. Romanello; V. Antelo
@@ -484,7 +484,7 @@ Date: 8/9/1998
 
 Date: 8/15/1998
 
-;      Chaco          ; 0-1; Blooming        ; La Paz
+;      Chaco Petrolero          ; 0-1; Blooming        ; La Paz
 ;             V. Antelo
 
 ;  Oriente        ; 2-1; Destroyers      ; Santa Cruz
@@ -526,7 +526,7 @@ Date: 8/23/1998
 ;  Real Santa Cruz; 1-2; The Strongest   ; Santa Cruz
              A. Jara; B. Suarez, S. Coelho
 
-;       San Jose       ; 2-1; Chaco           ; Oruro
+;       San Jose       ; 2-1; Chaco Petrolero           ; Oruro
              M. Soruco, W. Ramallo; S. Navarro
 
 
@@ -537,7 +537,7 @@ Date: 8/23/1998
 * 6.Oriente Petrolero       22 10  4  8 32-33 34 
 * 7.Guabirá                 22  9  6  7 30-34 33  
 * 8.Independiente           22  9  5  8 29-20 32
-* 8.Real Potosiosí             22  8  5  9 34-38 29
+* 8.Real Potosiosí          22  8  5  9 34-38 29
 * 9.Bolívar                 22  8  4 10 30-29 28
 *10.Real Santa Cruz         22  5  6 11 18-30 21
 *11.Destroyers              22  5  4 13 23-38 19
@@ -553,7 +553,7 @@ Stage: Clausura
 
 *Group A
 * 1.Real Santa Cruz         12  5  3  4 20-13 18       
-* 2.Real Potosiosí             12  5  3  4 20-23 18
+* 2.Real Potosiosí          12  5  3  4 20-23 18
 * 3.San José                12  5  2  5 23-20 17
 * 4.Oriente Petrolero       12  4  4  4 19-18 16
 * 5.The Strongest           12  4  2  6 23-24 14
@@ -588,7 +588,7 @@ Date: 8/30/1998
 
 Date: 9/2/1998
 
-;  Real Santa Cruz; 5-0; Chaco           ; Santa Cruz
+;  Real Santa Cruz; 5-0; Chaco Petrolero           ; Santa Cruz
              A. Jara, H. Chiorazzo, H. Chiorazzo, J. Mendez, M. Rocha;
 
 Date: 9/4/1998
@@ -607,7 +607,7 @@ Date: 9/6/1998
 ;  Guabira        ; 1-4; Blooming        ; Santa Cruz
              M. Ligori; V. Antelo, V. Antelo, V. Antelo, V. Antelo
 
-;      Real Potosi    ; 3-0; Chaco           ; Potosi
+;      Real Potosi    ; 3-0; Chaco Petrolero           ; Potosi
              T. Gutierrez, S. Vargas, C. Reynaldo;
 
 ;      The Strongest  ; 4-2; Real Santa Cruz ; La Paz
@@ -624,7 +624,7 @@ Date: 9/9/1998
 ;      Bolivar        ; 4-0; Destroyers      ; La Paz
              A. Saucedo (og), L. Da Silva, D. Peña, J. Gottardi;
 
-;      Chaco          ; 1-1; Oriente         ; La Paz
+;      Chaco Petrolero          ; 1-1; Oriente         ; La Paz
              L. Orellana; O. Ozzan
 
 ;       Independiente  ; 1-0; Guabira         ; Sucre
@@ -656,7 +656,7 @@ Date: 9/15/1998
 ;  Destroyers     ; 1-2; Real Santa Cruz ; Santa Cruz
              J. Leal; M. Rocha, M. Rocha
 
-;  Guabira        ; 2-1; Chaco           ; Santa Cruz
+;  Guabira        ; 2-1; Chaco Petrolero           ; Santa Cruz
              M. Ceballos, R. Cruz; P. Colque
 
 Date: 9/19/1998
@@ -664,7 +664,7 @@ Date: 9/19/1998
 ;  Guabira        ; 3-1; Bolivar         ; Santa Cruz
              L. Paz, L. Paz, P. Añez; L. Da Silva
 
-;      The Strongest  ; 1-2; Chaco           ; La Paz
+;      The Strongest  ; 1-2; Chaco Petrolero           ; La Paz
              B. Suarez; L. Orellana, P. Colque
 
 Date: 9/20/1998
@@ -690,7 +690,7 @@ Date: 9/26/1998
 
 Date: 9/27/1998
 
-;      Chaco          ; 2-1; San Jose        ; La Paz
+;      Chaco Petrolero          ; 2-1; San Jose        ; La Paz
              M. Sanabria, H. Uriona; G. Avallay
 
 ;      Real Potosi    ; 1-1; The Strongest   ; Potosi
@@ -711,7 +711,7 @@ Date: 9/30/1998
 
 Date: 10/3/1998
 
-;      Chaco          ; 0-0; Real Santa Cruz ; La Paz
+;      Chaco Petrolero          ; 0-0; Real Santa Cruz ; La Paz
 
 ;  Destroyers     ; 3-1; Guabira         ; Santa Cruz
              I. Britez, J. Leal, H. Sanchez; R. Cruz
@@ -748,7 +748,7 @@ Date: 10/11/1998
 ;      Bolivar        ; 3-1; Wilstermann     ; La Paz
              Gilmar, E. Jiguchi, V. Soria; N. Kekes
 
-;      Chaco          ; 5-6; Real Potosi     ; La Paz
+;      Chaco Petrolero          ; 5-6; Real Potosi     ; La Paz
              L. Orellana, L. Orellana, L. Orellana, M. Sanabria, P. Colque; C. Reynaldo, C. Reynaldo, L. De Oliveira, S. Lopez, J. Fernandez, J. Fernandez
 
 ;       Independiente  ; 6-1; Destroyers      ; Sucre
@@ -772,7 +772,7 @@ Date: 10/14/1998
 
 Date: 10/18/1998
 
-;      Chaco          ; 4-2; Guabira         ; La Paz
+;      Chaco Petrolero          ; 4-2; Guabira         ; La Paz
              L. Orellana, L. Orellana, H. Uriona, A. Gutierrez; R. Cruz, M. Ceballos
 
 ;       Independiente  ; 1-0; Real Potosi     ; Sucre
@@ -799,7 +799,7 @@ Date: 10/22/1998
 ;  Destroyers     ; 4-2; Bolivar         ; Santa Cruz
              J. Leal, I. Britez, I. Britez, T. Ortiz; J. Gottardi, M. Jimenez
 
-;  Oriente        ; 4-0; Chaco           ; Santa Cruz
+;  Oriente        ; 4-0; Chaco Petrolero           ; Santa Cruz
              O. Ozzan, O. Ozzan, R. Suarez, M. Coimbra;
 
 Date: 10/23/1998
@@ -812,7 +812,7 @@ Date: 10/25/1998
 ;      Bolivar        ; 3-1; Guabira         ; La Paz
              V. Lopes, Gilmar, J. Gottardi; M. Cardona
 
-;      Chaco          ; 1-2; The Strongest   ; La Paz
+;      Chaco Petrolero          ; 1-2; The Strongest   ; La Paz
              L. Orellana; S. Coelho, B. Suarez
 
 ;      Real Potosi    ; 2-1; Oriente         ; Potosi
@@ -840,7 +840,7 @@ Date: 10/28/1998
 ;  Oriente        ; 1-1; Real Santa Cruz; Santa Cruz
              R. Suarez; E. Saavedra
 
-;       San Jose       ; 4-2; Chaco           ; Oruro
+;       San Jose       ; 4-2; Chaco Petrolero           ; Oruro
              G. Avallay, R. Espindola, A. Carvalho, A. Carvalho; H. Uriona, R. Castro
 
 ;      The Strongest  ; 1-3; Real Potosi     ; La Paz
@@ -849,7 +849,7 @@ Date: 10/28/1998
 
 *Group A
 * 1.Real Santa Cruz         12  5  3  4 20-13 18       
-* 2.Real Potosiosí             12  5  3  4 20-23 18
+* 2.Real Potosiosí          12  5  3  4 20-23 18
 * 3.San José                12  5  2  5 23-20 17
 * 4.Oriente Petrolero       12  4  4  4 19-18 16
 * 5.The Strongest           12  4  2  6 23-24 14        

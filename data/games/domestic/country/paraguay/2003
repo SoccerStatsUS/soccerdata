@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para03.html
 Competition: Paraguayan Primera División
-Season: 2003 Apertura
+Season: 2003 
+
+Stage: Apertura
 
 
 * 1.Libertad                9  6  3  0  13- 3 21
@@ -294,7 +296,9 @@ Round: Final
 *Libertad are Apertura winners.
 
 
-Season: 2003 Clausura
+Season: 2003 
+
+Stage: Clausura
 
 *Final Table:
 * 1.Libertad               18  9  6  3  32-20 33  Clausura Playoff

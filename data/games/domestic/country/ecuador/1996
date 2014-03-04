@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablese/ecua96.html
-Season: 1996 Apertura
+Season: 1996
 Competition: Ecuadorian Serie A
+
+Stage: Apertura
 
 *The season consists of a Torneo Apertura and a Torneo Clausura.  Both
 *winners qualify for the Copa Libertadores 1997.  The champion is
@@ -222,7 +224,9 @@ Round: 22
 *11.Aucas                  22  3  6 13  16-29  15   [Quito]
 *12.LDU Portoviejo         22  4  3 15  21-53  15   [Portoviejo]
 
-Season: 1996 Clausura
+Season: 1996 
+
+Stage: Clausura
 
 Round: 1
 

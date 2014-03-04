@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesp/peru06.html
 Competition: Peruvian Primera División
-Season: 2006 Apertura
+Season: 2006 
+Stage: Apertura
 
 *Primera División
 *
@@ -538,7 +539,8 @@ Date: 6/25/2006
 
 
 
-Season: 2006 Clausura
+Season: 2006 
+Stage: Clausura
 
 * 1.Universitario (Lima)                     22 12  5  5  34-24  41
 * 2.Cienciano (Cuzco)                        22 13  2  7  40-31  41

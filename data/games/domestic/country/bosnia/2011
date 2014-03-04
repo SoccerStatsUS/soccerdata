@@ -1,33 +1,27 @@
-http://www.rsssf.com/tablesb/bih2012.html
+BlockSource: http://www.rsssf.com/tablesb/bih2012.html
 
 Bosnia-Hercegovina 2011/12
 
-Premijer Liga
-Kup
-Prva Liga
-Premijer Liga 2011/12
 
-Final Table:
+* 1.NK Željezničar (Sarajevo)        30  22  5  3  68-17  71  Champions
+* 2.NK Široki Brijeg (Široki Brijeg) 30  18  9  3  48-17  63
+* 3.Borac (Banja Luka)               30  17  4  9  46-26  55
+* 4.FK Sarajevo (Sarajevo)           30  16  6  8  48-31  54
+* 5.Olimpik (Sarajevo)               30  15  7  8  44-23  52
+* 6.HSK Zrinjski (Mostar)            30  12  9  9  47-41  45
+* 7.Zvijezda (Gradačac)              30  13  6 11  37-35  45
+* 8.Travnik (Travnik)                30  10  5 15  42-53  35
+* 9.NK Čelik (Zenica)                30   8 10 12  31-39  34
+*10.Rudar (Prijedor)                 30   6  4 16  30-46  34
+*11.FK Velež (Mostar)                30   8  9 13  28-35  33
+*12.FK Leotar (Trebinje)             30   9  6 15  27-40  33
+*13.GOŠK (Gabela)                    30   8  9 13  26-43  33
+*14.FK Slavija (Istočno Sarajevo)    30  10  2 18  36-61  32
+*-----------------------------------------------------------
+*15.FK Sloboda (Tuzla)               30  10  2 18  23-48  32  Relegated
+*16.Kozara (Gradiška)                30   4  7 19  19-45  19  Relegated
 
- 1.NK Željezničar (Sarajevo)        30  22  5  3  68-17  71  Champions
- 2.NK Široki Brijeg (Široki Brijeg) 30  18  9  3  48-17  63
- 3.Borac (Banja Luka)               30  17  4  9  46-26  55
- 4.FK Sarajevo (Sarajevo)           30  16  6  8  48-31  54
- 5.Olimpik (Sarajevo)               30  15  7  8  44-23  52
- 6.HSK Zrinjski (Mostar)            30  12  9  9  47-41  45
- 7.Zvijezda (Gradačac)              30  13  6 11  37-35  45
- 8.Travnik (Travnik)                30  10  5 15  42-53  35
- 9.NK Čelik (Zenica)                30   8 10 12  31-39  34
-10.Rudar (Prijedor)                 30   6  4 16  30-46  34
-11.FK Velež (Mostar)                30   8  9 13  28-35  33
-12.FK Leotar (Trebinje)             30   9  6 15  27-40  33
-13.GOŠK (Gabela)                    30   8  9 13  26-43  33
-14.FK Slavija (Istočno Sarajevo)    30  10  2 18  36-61  32
------------------------------------------------------------
-15.FK Sloboda (Tuzla)               30  10  2 18  23-48  32  Relegated
-16.Kozara (Gradiška)                30   4  7 19  19-45  19  Relegated
-
-Round 1
+Round: 1
 [Aug 6]
 Velež             2-1 Čelik             
 Kozara            0-1 Borac
@@ -39,7 +33,7 @@ Travnik           2-2 Zrinjski
 Slavija           1-0 GOŠK              
 Sarajevo          2-1 Sloboda
 
-Round 2
+Round: 2
 [Aug 13]
 Čelik             1-3 Zrinjski
 Olimpik           1-2 Travnik
@@ -51,7 +45,7 @@ Velež             3-0 Slavija
 [Aug 14]
 GOŠK              1-4 Sarajevo
 
-Round 3
+Round: 3
 [Aug 20]
 Slavija           2-0 Čelik             
 Sarajevo          1-1 Velež             
@@ -63,7 +57,7 @@ Travnik           2-1 Željezničar
 [Aug 21]
 Zrinjski          2-4 Olimpik
 
-Round 4 [Aug 24]
+Round: 4 [Aug 24]
 Čelik             1-0 Olimpik
 Željezničar       3-3 Zrinjski
 Zvijezda          3-2 Travnik
@@ -73,7 +67,7 @@ GOŠK              2-1 Leotar
 Velež             0-0 Kozara
 Slavija           0-4 Sarajevo
 
-Round 5
+Round: 5
 [Aug 27]
 Sarajevo          4-2 Čelik             
 Kozara            6-2 Slavija
@@ -85,7 +79,7 @@ Travnik           0-3 Borac
 Zrinjski          4-1 Zvijezda
 Olimpik           0-1 Željezničar       
 
-Round 6
+Round: 6
 [Sep 10]
 Čelik             1-1 Željezničar       
 Zvijezda          1-0 Olimpik
@@ -97,7 +91,7 @@ Sarajevo          4-0 Kozara
 GOŠK              3-0 Rudar
 Slavija           2-3 Leotar
 
-Round 7
+Round: 7
 [Sep 17]
 Kozara            1-2 Čelik             
 Rudar             1-0 Velež             
@@ -109,7 +103,7 @@ Zrinjski          2-0 Sloboda
 Olimpik           2-1 Borac
 Željezničar       1-0 Zvijezda
 
-Round 8
+Round: 8
 [Sep 24]
 Čelik             2-1 Zvijezda
 Sloboda           1-4 Olimpik
@@ -121,7 +115,7 @@ Slavija           1-1 Rudar
 Kozara            1-0 Leotar
 Borac             awd Željezničar       [awarded 0-3; abandoned at 0-1 in 34']
 
-Round 9
+Round: 9
 [Oct 1]
 Leotar            0-0 Čelik             
 Rudar             1-2 Sarajevo
@@ -133,7 +127,7 @@ Olimpik           0-0 GOŠK
 Željezničar       4-0 Sloboda
 Zvijezda          2-0 Borac
 
-Round 10
+Round: 10
 [Oct 15]
 Čelik             0-0 Borac
 Sloboda           0-0 Zvijezda
@@ -145,7 +139,7 @@ GOŠK              0-1 Željezničar
 Velež             1-3 Olimpik
 Slavija           1-2 Zrinjski
 
-Round 11
+Round: 11
 [Oct 22]
 Rudar             2-0 Leotar
 Travnik           0-0 Kozara
@@ -157,7 +151,7 @@ Olimpik           2-0 Slavija
 Široki Brijeg     1-0 Čelik             
 Željezničar       4-1 Velež             
 
-Round 12
+Round: 12
 [Oct 29]
 Velež             1-1 Zvijezda
 Sarajevo          2-0 Olimpik
@@ -170,7 +164,7 @@ Slavija           1-5 Željezničar
 [Nov 11]
 Čelik             1-0 Sloboda
 
-Round 13 [Nov 5]
+Round: 13 [Nov 5]
 Rudar             0-0 Čelik             
 Travnik           3-5 Široki Brijeg     
 Zrinjski          1-0 Leotar
@@ -180,7 +174,7 @@ Zvijezda          4-2 Slavija
 Borac             3-0 Velež             
 Sloboda           2-1 GOŠK              
 
-Round 14
+Round: 14
 [Nov 19]
 Čelik             2-0 GOŠK              
 Velež             3-0 Sloboda
@@ -192,7 +186,7 @@ Rudar             4-0 Travnik
 [Nov 20]
 Široki Brijeg     1-1 Zrinjski
 
-Round 15
+Round: 15
 [Nov 26]
 Travnik           3-4 Čelik             
 Zrinjski          3-1 Rudar
@@ -204,7 +198,7 @@ Sloboda           1-0 Slavija
 Olimpik           0-0 Široki Brijeg     
 GOŠK              0-0 Velež             
 
-Round 16
+Round: 16
 [Mar 10]
 Borac             1-0 Kozara            
 Čelik             1-1 Velež             
@@ -216,7 +210,7 @@ GOŠK              1-2 Slavija
 Zrinjski          2-0 Travnik           
 Sloboda           0-1 Sarajevo          
 
-Round 17
+Round: 17
 [Mar 17]
 Kozara            1-1 Sloboda           
 Leotar            3-0 Borac             
@@ -228,7 +222,7 @@ Zrinjski          1-1 Čelik
 Slavija           0-1 Velež             
 Travnik           2-1 Olimpik           
 
-Round 18
+Round: 18
 [Mar 24]
 Borac             0-0 Široki Brijeg     
 Čelik             1-2 Slavija           
@@ -240,7 +234,7 @@ Sloboda           2-1 Leotar
 GOŠK              0-0 Kozara            
 Velež             0-0 Sarajevo          
 
-Round 19
+Round: 19
 [Mar 31]
 Kozara            0-0 Velež             
 Leotar            0-0 GOŠK              
@@ -252,7 +246,7 @@ Sarajevo          2-1 Slavija
 Zrinjski          0-0 Željezničar       
 Travnik           2-1 Zvijezda          
 
-Round 20 [Apr 7]
+Round: 20 [Apr 7]
 Borac             1-0 Travnik           
 Čelik             1-1 Sarajevo          
 Zvijezda          1-1 Zrinjski          
@@ -262,7 +256,7 @@ Sloboda           1-2 Rudar
 Velež             1-1 Leotar            
 Željezničar       0-0 Olimpik           
 
-Round 21 [Apr 11]
+Round: 21 [Apr 11]
 Zrinjski          1-0 Borac             
 Kozara            1-3 Sarajevo          
 Leotar            2-0 Slavija           
@@ -272,7 +266,7 @@ Rudar             3-0 GOŠK
 Travnik           3-0 Sloboda           
 Željezničar       5-0 Čelik             
 
-Round 22
+Round: 22
 [Apr 14]
 Borac             1-0 Olimpik           
 Čelik             2-0 Kozara            
@@ -284,7 +278,7 @@ Sloboda           3-2 Zrinjski
 [Apr 18]
 Velež             0-1 Rudar             
 
-Round 23
+Round: 23
 [Apr 21]
 Zvijezda          2-1 Čelik             
 Leotar            1-0 Kozara            
@@ -296,7 +290,7 @@ Travnik           3-2 Velež
 Zrinjski          4-2 GOŠK              
 Rudar             0-1 Slavija           
 
-Round 24
+Round: 24
 [Apr 28]
 Borac             1-2 Zvijezda          
 Čelik             2-3 Leotar            
@@ -308,7 +302,7 @@ GOŠK              3-0 Olimpik
 Slavija           3-0 Travnik           
 Velež             3-1 Zrinjski          
 
-Round 25 [May 2]
+Round: 25 [May 2]
 Borac             2-0 Čelik            
 Zvijezda          1-0 Sloboda           
 Zrinjski          3-1 Slavija           
@@ -318,7 +312,7 @@ Rudar             3-0 Kozara
 Travnik           1-2 Sarajevo          
 Željezničar       5-0 GOŠK              
 
-Round 26
+Round: 26
 [May 5]
 Čelik             0-0 Široki Brijeg     
 GOŠK              2-1 Zvijezda          
@@ -330,7 +324,7 @@ Velež             1-2 Željezničar
 Sarajevo          2-0 Zrinjski          
 Slavija           2-2 Olimpik           
 
-Round 27 [May 9]
+Round: 27 [May 9]
 Borac             6-0 GOŠK              
 Zvijezda          2-0 Velež             
 Zrinjski          2-3 Kozara            
@@ -340,7 +334,7 @@ Sloboda           1-0 Čelik
 Travnik           2-0 Leotar            
 Željezničar       3-1 Slavija           
 
-Round 28 [May 12]
+Round: 28 [May 12]
 Čelik             3-0 Rudar             
 Sarajevo          2-2 Željezničar       
 GOŠK              1-4 Sloboda           
@@ -350,7 +344,7 @@ Leotar            1-2 Zrinjski
 Slavija           3-1 Zvijezda          
 Velež             1-0 Borac             
 
-Round 29 [May 20]
+Round: 29 [May 20]
 Borac             3-2 Slavija           
 Zvijezda          2-0 Sarajevo          
 GOŠK              0-0 Čelik             
@@ -360,7 +354,7 @@ Sloboda           2-0 Velež
 Travnik           3-0 Rudar             
 Željezničar       2-1 Kozara            
 
-Round 30 [May 23]
+Round: 30 [May 23]
 Čelik             2-2 Travnik           
 Sarajevo          2-2 Borac             
 Kozara            1-2 Zvijezda          
@@ -370,889 +364,29 @@ Rudar             3-2 Zrinjski
 Slavija           2-0 Sloboda           
 Velež             1-2 GOŠK              
 
-Final Table:
 
- 1.NK Željezničar (Sarajevo)        30  22  5  3  68-17  71  Champions
- 2.NK Široki Brijeg (Široki Brijeg) 30  18  9  3  48-17  63
- 3.Borac (Banja Luka)               30  17  4  9  46-26  55
- 4.FK Sarajevo (Sarajevo)           30  16  6  8  48-31  54
- 5.Olimpik (Sarajevo)               30  15  7  8  44-23  52
- 6.HSK Zrinjski (Mostar)            30  12  9  9  47-41  45
- 7.Zvijezda (Gradačac)              30  13  6 11  37-35  45
- 8.Travnik (Travnik)                30  10  5 15  42-53  35
- 9.NK Čelik (Zenica)                30   8 10 12  31-39  34
-10.Rudar (Prijedor)                 30   6  4 16  30-46  34
-11.FK Velež (Mostar)                30   8  9 13  28-35  33
-12.FK Leotar (Trebinje)             30   9  6 15  27-40  33
-13.GOŠK (Gabela)                    30   8  9 13  26-43  33
-14.FK Slavija (Istočno Sarajevo)    30  10  2 18  36-61  32
------------------------------------------------------------
-15.FK Sloboda (Tuzla)               30  10  2 18  23-48  32  Relegated
-16.Kozara (Gradiška)                30   4  7 19  19-45  19  Relegated
-Cup Tournaments 2011/12
-
-BiH Kup | Srpska Kup 
-
-BiH Kup
-
-NB: no extra time played.
-
-1/16 Finals 
-[Sep 14]
-Željezničar (Sarajevo, 1)     2-0 Leotar (Trebinje, 1)
-Široki Brijeg (Š. Brijeg, 1)  3-0 Kozara (Gradiška, 1)
-Zvijezda (Gradačac, 1)        2-0 Sloboda (Tuzla, 1)
-Travnik (Travnik, 1)          2-3 Velež (Mostar, 1)
-Čelik (Zenica, 1)             4-0 Podrinje (Janja, 2)
-Slavija (Istočno Sarajevo, 1) 3-0 Modriča Maxima (Modriča, 2)
-Olimpic (Sarajevo, 1)         3-0 Mladost (Gacko, 2)
-Zrinjski (Mostar, 1)          3-0 Sutjeska (Foča, 2)
-Rudar Prijedor (Prijedor, 1)  1-0 UNIS (Vogošća, 2)
-Sloga (Doboj, 2)              0-1 Sarajevo (Sarajevo, 1)
-ECOS Vitez (Vitez, 2)         0-1 GOŠK (Gabela, 1)
-Borac (Banja Luka, 1)         3-1 Brotnjo (Čitluk, 3)
-Iskra (Bugojno, 2)            0-1 Rudar (Kakanj, 2)
-Branitelj (Mostar, 2)         4-1 Dizdaruša (Brčko, 3)
-Krajišnik (Velika Kladuša, 2) 6-0 Mladost (Župča, 3)
-Mramor (Mramor, 3)            1-0 Radnik (Bijeljina, 2)
-
-1/8 Finals
-
-First Legs [Sep 28]
-Zrinjski (Mostar, 1)          awd Velež (Mostar, 1)             [awarded 0-3; abandoned at 0-1 in 90+2']
-Slavija (Istočno Sarajevo, 1) 1-2 Široki Brijeg (Š. Brijeg, 1)
-Borac (Banja Luka, 1)         2-0 Zvijezda (Gradačac, 1)
-GOŠK (Gabela, 1)              0-0 Čelik (Zenica, 1)
-Željezničar (Sarajevo, 1)     3-0 Olimpic (Sarajevo, 1)
-Sarajevo (Sarajevo, 1)        3-0 Rudar Prijedor (Prijedor, 1)
-Rudar (Kakanj, 2)             0-1 Branitelj (Mostar, 2)
-Mramor (Mramor, 3)            1-1 Krajišnik (Velika Kladuša, 2)
-
-Second Legs [Oct 19]
-Velež (Mostar, 1)             2-0 Zrinjski (Mostar, 1)
-Široki Brijeg (Š. Brijeg, 1)  4-2 Slavija (Istočno Sarajevo, 1)
-Zvijezda (Gradačac, 1)        0-0 Borac (Banja Luka, 1)
-Čelik (Zenica, 1)             3-0 GOŠK (Gabela, 1)
-Olimpic (Sarajevo, 1)         1-1 Željezničar (Sarajevo, 1)     
-Rudar Prijedor (Prijedor, 1)  5-4 Sarajevo (Sarajevo, 1)
-Branitelj (Mostar, 2)         2-1 Rudar (Kakanj, 2)
-Krajišnik (Velika Kladuša, 2) 2-1 Mramor (Mramor, 3)
-
-Quarterfinals 
-
-First Legs [Nov 2]
-Sarajevo (Sarajevo, 1)        0-0 Borac (Banja Luka, 1)
-Željezničar (Sarajevo, 1)     2-0 Čelik (Zenica, 1)
-Velež (Mostar, 1)             2-0 Branitelj (Mostar, 2)
-Krajišnik (Velika Kladuša, 2) 1-1 Široki Brijeg (Š. Brijeg, 1)
-
-Second Legs [Nov 23]
-Borac (Banja Luka, 1)         0-0 Sarajevo (Sarajevo, 1)        [6-5 pen]
-Čelik (Zenica, 1)             0-0 Željezničar (Sarajevo, 1)     
-Branitelj (Mostar, 2)         1-1 Velež (Mostar, 1)
-Široki Brijeg (Š. Brijeg, 1)  0-0 Krajišnik (Velika Kladuša, 2)
-
-Semifinals
-
-First Legs [Mar 14]
-Željezničar (Sarajevo, 1)     1-0 Borac (Banja Luka, 1)
-Široki Brijeg (Š. Brijeg, 1)  1-0 Velež (Mostar, 1)
-
-Second Legs [Apr 4]
-Velež (Mostar, 1)             0-1 Široki Brijeg (Š. Brijeg, 1)
-Borac (Banja Luka, 1)         awd Željezničar (Sarajevo, 1)
-  [abandoned at 0-1 in 65' when one of the assistant referees was hit on the head by a solid object;
-   match awarded 0-3]
-
-Final
-
-First Leg [Apr 25]
-Željezničar (Sarajevo, 1)     1-0 Široki Brijeg (Š. Brijeg, 1)
-
-Second Leg [May 16]
-Široki Brijeg (Š. Brijeg, 1)  0-0 Željezničar (Sarajevo, 1)
-
-
-
-Srpska Kup
-
-1/16 Finals 
-[Sep 21]
-Mladost (Gacko, 2)            0-0 Leotar (Trebinje, 1)          [4-1 pen]
-Župa SP (Milosavci, 3)        0-1 Borac (Banja Luka, 1)
-Jedinstvo (Žeravica, 3)       2-2 Rudar Prijedor (Prijedor, 1)  [2-1 pen]
-Krupa (Krupa na Vrbasu, 5)    0-0 Kozara (Gradiška, 1)          [4-5 pen]
-Sloboda (Novi Grad, 2)        2-0 Proleter (Teslić, 2)
-Borac (Šamac, 3)              0-5 Sloga (Doboj, 2)
-Naprijed Hor. (Banja Luka, 3) 1-2 Modriča Maksima (Modriča, 2)
-Famos (Istočna Ilidža, 3)     1-0 Drina HE (Višegrad, 2)
-Mladost (Bogutovo Selo, 3)    2-1 Sutjeska (Foča, 2)
-Velež (Nevesinje, 4)          0-3 Drina (Zvornik, 2)
-Polet (Kravica, 5)            1-3 Podrinje (Janja, 2)
-Kozara (Donji Orlovci, 5)     0-0 Sloboda (Mrkonjić Grad, 2)    [1-4 pen]
-Zadrugar (Tarevci, 6)         2-5 Laktaši (Laktaši, 2)
-BSK (Banja Luka, 3)           4-0 Ravan (Međeđa, 3)
-Glasinac 2011 (Sokolac, 4)    3-0 Mladost (Velika Obarska, 3)
-[Oct 4]
-Radnik (Bijeljina, 2)         1-1 Slavija (Istočno Sarajevo, 1) [4-1 pen]
-
-1/8 finals 
-[Oct 11]
-BSK (Banja Luka, 3)           2-0 Laktaši (Laktaši, 2)
-[Oct 12]
-Sloboda (Novi Grad, 2)        awd Slavija (Istočno Sarajevo, 1) [Slavija dns]
-Famos (Istočna Ilidža, 3)     0-4 Borac (Banja Luka, 1)
-Mladost (Bogutovo Selo, 3)    1-0 Modriča Maksima (Modriča, 2)
-Jedinstvo (Žeravica, 3)       1-1 Podrinje (Janja, 2)           [3-4 pen]
-Glasinac 2011 (Sokolac, 4)    2-4 Sloga (Doboj, 2)
-[Oct 18]
-Sloboda (Mrkonjić Grad, 2)    2-0 Mladost (Gacko, 2)
-[Nov 2]
-Drina (Zvornik, 2)            1-1 Kozara (Gradiška, 1)          [5-4 pen]
-
-Quarterfinals [Nov 9]
-Drina (Zvornik, 2)            1-2 Borac (Banja Luka, 1)
-Sloboda (Mrkonjić Grad, 2)    2-0 Sloga (Doboj, 2)
-Sloboda (Novi Grad, 2)        5-0 Podrinje (Janja, 2)
-BSK (Banja Luka, 3)           1-1 Mladost (Bogutovo Selo, 3)    [7-8 pen]
-
-Semifinals
-
-First Legs [Mar 28]
-Borac (Banja Luka, 1)         3-1 Sloboda (Novi Grad, 2)
-Mladost (Bogutovo Selo, 3)    2-2 Sloboda (Mrkonjić Grad, 2)
-
-Second Legs [Apr 18]
-Sloboda (Novi Grad, 2)        0-1 Borac (Banja Luka, 1)
-Sloboda (Mrkonjić Grad, 2)    0-0 Mladost (Bogutovo Selo, 3)
-
-Final
-
-Prva Liga
-
-Prva Liga FBiH | Prva Liga RS 
-
-Prva Liga FBiH
-
-Final Table:
-
- 1.NK Gradina (Srebrenik)           30  19  4  7  59-30  61  Promoted
------------------------------------------------------------
- 2.FK Budućnost (Banovići)          30  17  3 10  47-32  54
- 3.NK Vitez                         30  15  7  8  55-31  52
- 4.FK Rudar (Kakanj)                30  15  7  8  51-33  52
- 5.FK Krajina (Cazin)               30  14  8  8  39-28  50
- 6.NK Bratstvo (Gračanica)          30  14  7  9  63-30  49
- 7.NK Iskra (Bugojno)               30  14  6 10  42-34  48
- 8.HNK Čapljina                     30  15  3 12  42-34  48
- 9.FK Goražde                       30  13  3 14  38-43  42
-10.Branitelj (Mostar)               30  12  4 14  43-42  40
-11.Jedinstvo (Bihać)                30  11  6 13  48-46  39
-12.NK Krajišnik (Velika Kladuša)    30  12  5 13  41-42  38  [-3]
------------------------------------------------------------
-13.HNK Orašje                       30  12  2 16  41-61  38  Relegated
-14.Famos-SAŠK Napredak              30  10  7 13  34-38  37  Relegated
-15.FK Unis (Vogošća)                30   4  2 24  23-64  14  Relegated
- -.NK Omladinac (Mionica)           30   5  2 23  18-96  17  [*]  Relegated
-
-[*] Omladinac withdrew after playing 20 matches and had their remaining 10 matches
-    awarded 0-3 against them
-
-
-Round 1
-[Aug 13]
-NK Bratstvo       1-0 FK Unis
-FK Rudar Kakanj   2-1 NK Jedinstvo
-FK Krajišnik      0-3 FK Gradina
-Famos SAŠK        2-1 FK Buducnost B.
-FK Krajina Cazin  3-1 FK Goražde
-NK Orašje         1-0 NK Vitez
-[Aug 13]
-HNK Branitelj     1-1 NK Capljina
-NK Omladinac      1-0 NK Iskra
-
-Round 2
-[Aug 20]
-NK Jedinstvo      3-0 FK Goražde
-FK Gradina        4-3 NK Orašje
-NK Vitez          1-1 FK Krajina Cazin
-FK Buducnost B.   1-0 FK Krajišnik
-FK Unis           0-3 HNK Branitelj
-NK Capljina       1-0 Famos SAŠK
-NK Iskra          2-1 NK Bratstvo
-FK Rudar Kakanj   3-2 NK Omladinac
-
-Round 3
-[Aug 27]
-NK Bratstvo       1-1 FK Rudar Kakanj
-FK Krajišnik      3-0 NK Capljina
-NK Orašje         0-1 FK Buducnost B.
-FK Krajina Cazin  1-0 FK Gradina
-FK Goražde        1-0 NK Vitez
-[Aug 28]
-NK Omladinac      1-1 NK Jedinstvo
-HNK Branitelj     1-0 NK Iskra
-Famos SAŠK        2-1 FK Unis
-
-Round 4
-[Sep 3]
-FK Gradina        2-0 FK Goražde
-FK Buducnost B.   2-0 FK Krajina Cazin
-NK Jedinstvo      3-3 NK Vitez
-NK Capljina       3-2 NK Orašje
-FK Unis           2-0 FK Krajišnik
-FK Rudar Kakanj   2-0 HNK Branitelj
-NK Iskra          3-3 Famos SAŠK
-[Sep 4]
-NK Omladinac      2-1 NK Bratstvo
-
-Round 5
-[Sep 10]
-FK Krajišnik      1-1 NK Iskra
-NK Bratstvo       4-1 NK Jedinstvo
-NK Vitez          3-1 FK Gradina
-FK Goražde        2-0 FK Buducnost B.
-FK Krajina Cazin  1-0 NK Capljina
-NK Orašje         1-0 FK Unis
-[Sep 11]
-Famos SAŠK        0-2 FK Rudar Kakanj
-HNK Branitelj     3-0 NK Omladinac
-
-Round 6
-[Sep 17]
-NK Iskra          1-0 NK Orašje
-NK Capljina       6-1 FK Goražde
-FK Unis           0-1 FK Krajina Cazin
-FK Buducnost B.   2-1 NK Vitez
-NK Jedinstvo      3-1 FK Gradina
-NK Bratstvo       5-0 HNK Branitelj
-FK Rudar Kakanj   2-0 FK Krajišnik
-[Sep 18]
-NK Omladinac      2-1 Famos SAŠK
-
-Round 7
-[Sep 24]
-Famos SAŠK        2-0 NK Bratstvo
-FK Krajina Cazin  0-0 NK Iskra
-NK Orašje         2-0 FK Rudar Kakanj
-FK Goražde        4-1 FK Unis
-NK Vitez          0-1 NK Capljina
-FK Gradina        3-2 FK Buducnost B.
-FK Krajišnik      3-0 NK Omladinac
-[Sep 25]
-HNK Branitelj     2-0 NK Jedinstvo
-
-Round 8
-[Oct 1]
-NK Iskra          2-3 FK Goražde
-FK Rudar Kakanj   0-0 FK Krajina Cazin
-FK Unis           0-0 NK Vitez
-NK Jedinstvo      2-0 FK Buducnost B.
-NK Capljina       2-0 FK Gradina
-NK Bratstvo       2-0 FK Krajišnik
-[Oct 2]
-NK Omladinac      2-1 NK Orašje
-HNK Branitelj     0-0 Famos SAŠK
-
-Round 9
-[Oct 8]
-NK Orašje         2-1 NK Bratstvo
-FK Krajišnik      3-0 HNK Branitelj
-Famos SAŠK        3-1 NK Jedinstvo
-FK Gradina        4-2 FK Unis
-FK Krajina Cazin  4-1 NK Omladinac
-FK Goražde        3-0 FK Rudar Kakanj
-NK Vitez          3-1 NK Iskra
-FK Buducnost B.   0-0 NK Capljina
-
-Round 10
-[Oct 15]
-NK Jedinstvo      1-0 NK Capljina
-FK Rudar Kakanj   2-2 NK Vitez
-Famos SAŠK        0-0 FK Krajišnik
-NK Iskra          1-0 FK Gradina
-NK Bratstvo       3-0 FK Krajina Cazin
-[Oct 16]
-HNK Branitelj     1-2 NK Orašje
-NK Omladinac      3-2 FK Goražde
-FK Unis           awd FK Buducnost B.    (awarded 0-3)
-
-Round 11
-[Oct 22]
-NK Capljina       4-1 FK Unis
-FK Buducnost B.   2-0 NK Iskra
-FK Gradina        2-0 FK Rudar Kakanj
-NK Vitez          4-0 NK Omladinac
-NK Orašje         1-1 Famos SAŠK
-FK Goražde        0-0 NK Bratstvo
-FK Krajina Cazin  2-1 HNK Branitelj
-FK Krajišnik      2-1 NK Jedinstvo
-
-Round 12
-[Oct 29]
-NK Iskra          3-1 NK Capljina
-NK Jedinstvo      4-1 FK Unis
-FK Rudar Kakanj   2-0 FK Buducnost
-NK Bratstvo       0-0 NK Vitez
-Famos SAŠK        1-1 FK Krajina Cazin
-FK Krajišnik      4-2 NK Orašje
-HNK Branitelj     3-0 FK Goražde
-[Oct 30]
-NK Omladinac      0-1 FK Gradina
-
-Round 13
-[Nov 5]
-NK Orašje         3-2 NK Jedinstvo
-FK Gradina        4-1 NK Bratstvo
-NK Vitez          2-1 HNK Branitelj
-FK Goražde        1-0 Famos SAŠK
-FK Buducnost B.   4-3 NK Omladinac
-FK Unis           0-1 NK Iskra
-NK Capljina       2-0 FK Rudar Kakanj
-FK Krajina Cazin  awd FK Krajišnik       (awarded 3-0)
-
-Round 14
-[Nov 12]
-NK Jedinstvo      1-1 NK Iskra
-FK Krajišnik      0-0 FK Goražde
-Famos SAŠK        0-1 NK Vitez
-FK Rudar Kakanj   3-1 FK Unis
-NK Bratstvo       3-1 FK Buducnost B.
-NK Orašje         4-1 FK Krajina Cazin
-[Nov 13]
-HNK Branitelj     2-0 FK Gradina
-NK Omladinac      1-1 NK Capljina
-
-Round 15
-[Nov 19]
-FK Krajina Cazin  2-0 NK Jedinstvo
-FK Gradina        4-0 Famos SAŠK
-FK Goražde        0-2 NK Orašje
-NK Vitez          2-0 FK Krajišnik
-FK Unis           5-0 NK Omladinac
-FK Buducnost B.   3-0 HNK Branitelj
-NK Capljina       3-2 NK Bratstvo
-NK Iskra          3-1 FK Rudar Kakanj
-
-Round 16
-[Mar 3]
-NK Jedinstvo      1-1 FK Rudar Kakanj
-FK Gradina        1-1 FK Krajišnik
-FK Buducnost B.   1-0 Famos SAŠK
-FK Goražde        2-1 FK Krajina Cazin
-NK Vitez          5-1 NK Orašje
-NK Capljina       1-0 HNK Branitelj
-NK Iskra          4-0 NK Omladinac
-[Mar 21]
-FK Unis           0-2 NK Bratstvo
-
-Round 17
-[Mar 17]
-FK Goražde        1-0 NK Jedinstvo
-NK Orašje         1-3 FK Gradina
-FK Krajina Cazin  1-1 NK Vitez
-FK Krajišnik      2-1 FK Buducnost B.
-NK Bratstvo       3-0 NK Iskra
-[Mar 18]
-HNK Branitelj     4-0 FK Unis
-Famos SAŠK        2-0 NK Capljina
-NK Omladinac      0-6 FK Rudar Kakanj
-
-Round 18
-[Mar 24]
-FK Rudar Kakanj   1-0 NK Bratstvo
-NK Capljina       4-0 FK Krajišnik
-FK Buducnost B.   1-1 NK Orašje
-FK Gradina        3-0 FK Krajina Cazin
-NK Vitez          1-0 FK Goražde
-NK Jedinstvo      9-0 NK Omladinac
-NK Iskra          2-0 HNK Branitelj
-[Mar 25]
-FK Unis           2-0 Famos SAŠK
-
-Round 19
-[Mar 31]
-FK Goražde        0-0 FK Gradina
-FK Krajina Cazin  2-0 FK Buducnost B.
-NK Vitez          1-2 NK Jedinstvo
-NK Orašje         0-3 NK Capljina
-FK Krajišnik      3-1 FK Unis
-Famos SAŠK        1-1 NK Iskra
-NK Bratstvo      10-0 NK Omladinac
-[Apr 1]
-HNK Branitelj     0-1 FK Rudar Kakanj
-
-Round 20
-[Apr 7]
-NK Iskra          2-0 FK Krajišnik
-NK Jedinstvo      0-3 NK Bratstvo
-FK Gradina        1-0 NK Vitez
-FK Buducnost B.   1-0 FK Goražde
-NK Capljina       1-0 FK Krajina Cazin
-FK Unis           1-2 NK Orašje
-FK Rudar Kakanj   0-0 Famos SAŠK
-NK Omladinac      awd HNK Branitelj      (awarded 0-3)
-
-Round 21
-[Apr 14]
-NK Orašje         2-1 NK Iskra
-FK Goražde        2-0 NK Capljina
-FK Krajina Cazin  3-1 FK Unis
-NK Vitez          4-1 FK Buducnost B.
-FK Gradina        5-2 NK Jedinstvo
-HNK Branitelj     2-2 NK Bratstvo
-FK Krajišnik      3-0 FK Rudar Kakanj
-Famos SAŠK        awd NK Omladinac       (awarded 3-0)
-
-Round 22
-[Apr 21]
-NK Bratstvo       3-1 Famos SAŠK
-NK Iskra          0-0 FK Krajina Cazin
-FK Rudar Kakanj   5-1 NK Orašje
-FK Unis           0-1 FK Goražde
-NK Capljina       0-2 NK Vitez
-FK Buducnost B.   1-1 FK Gradina
-NK Omladinac      awd FK Krajišnik       (awarded 0-3)
-NK Jedinstvo      1-1 HNK Branitelj
-
-Round 23
-[Apr 28]
-FK Goražde        0-1 NK Iskra
-FK Krajina Cazin  1-1 FK Rudar Kakanj
-NK Vitez          4-0 FK Unis
-FK Buducnost B.   2-0 NK Jedinstvo
-FK Gradina        1-0 NK Capljina
-FK Krajišnik      1-1 NK Bratstvo
-NK Orašje         awd NK Omladinac       (awarded 3-0)
-Famos SAŠK        2-1 HNK Branitelj
-
-Round 24
-[May 5]
-NK Bratstvo       5-0 NK Orašje
-NK Jedinstvo      2-1 Famos SAŠK
-FK Unis           0-2 FK Gradina
-NK Omladinac      0-3 FK Krajina Cazin   (awarded 0-3)
-FK Rudar Kakanj   2-0 FK Goražde
-NK Iskra          2-1 NK Vitez
-NK Capljina       0-1 FK Buducnost B.
-[May 6]
-HNK Branitelj     2-1 FK Krajišnik
-
-Round 25
-[May 12]
-NK Capljina       0-2 NK Jedinstvo
-NK Vitez          2-1 FK Rudar Kakanj
-FK Krajišnik      1-0 Famos SAŠK
-FK Gradina        3-1 NK Iskra
-FK Krajina Cazin  1-1 NK Bratstvo
-NK Orašje         1-3 HNK Branitelj
-FK Goražde        awd NK Omladinac       (awarded 3-0)
-FK Buducnost B.   5-1 FK Unis
-
-Round 26
-[May 19]
-FK Unis           0-1 NK Capljina
-NK Iskra          2-0 FK Buducnost B.
-FK Rudar Kakanj   1-1 FK Gradina
-NK Omladinac      awd NK Vitez           (awarded 0-3)
-Famos SAŠK        3-0 NK Orašje
-NK Bratstvo       4-1 FK Goražde
-NK Jedinstvo      2-1 FK Krajišnik
-[May 20]
-HNK Branitelj     2-0 FK Krajina Cazin
-
-Round 27
-[May 23]
-NK Capljina       3-2 NK Iskra
-FK Unis           0-0 NK Jedinstvo
-FK Buducnost      3-0 FK Rudar Kakanj
-NK Vitez          1-1 NK Bratstvo
-FK Krajina Cazin  2-0 Famos SAŠK
-NK Orašje         1-4 FK Krajišnik
-FK Goražde        4-2 HNK Branitelj
-FK Gradina        awd NK Omladinac       (awarded 3-0)
-
-Round 28
-[May 26]
-NK Jedinstvo      3-0 NK Orašje
-NK Bratstvo       1-2 FK Gradina
-HNK Branitelj     4-1 NK Vitez
-Famos SAŠK        4-2 FK Goražde
-NK Omladinac      awd FK Buducnost B.    (awarded 0-3)
-NK Iskra          1-0 FK Unis
-FK Rudar Kakanj   4-1 NK Capljina
-FK Krajišnik      2-1 FK Krajina Cazin
-
-Round 29
-[Jun 2]
-NK Iskra          3-0 NK Jedinstvo
-FK Goražde        3-0 FK Krajišnik
-NK Vitez          3-0 Famos SAŠK
-FK Unis           0-5 FK Rudar Kakanj
-FK Buducnost B.   2-0 NK Bratstvo
-FK Krajina Cazin  2-0 NK Orašje
-FK Gradina        3-0 HNK Branitelj
-NK Capljina       awd NK Omladinac       (awarded 3-0)
-
-Round 30
-NK Jedinstvo      0-2 FK Krajina Cazin
-Famos SAŠK        2-1 FK Gradina
-NK Orašje         2-1 FK Goražde
-FK Krajišnik      3-4 NK Vitez
-NK Omladinac      awd FK Unis            (awarded 0-3)
-HNK Branitelj     1-3 FK Buducnost B.
-NK Bratstvo       2-0 NK Capljina
-FK Rudar Kakanj   3-1 NK Iskra
-
-Final Table:
-
- 1.NK Gradina (Srebrenik)           30  19  4  7  59-30  61  Promoted
------------------------------------------------------------
- 2.FK Budućnost (Banovići)          30  17  3 10  47-32  54
- 3.NK Vitez                         30  15  7  8  55-31  52
- 4.FK Rudar (Kakanj)                30  15  7  8  51-33  52
- 5.FK Krajina (Cazin)               30  14  8  8  39-28  50
- 6.NK Bratstvo (Gračanica)          30  14  7  9  63-30  49
- 7.NK Iskra (Bugojno)               30  14  6 10  42-34  48
- 8.HNK Čapljina                     30  15  3 12  42-34  48
- 9.FK Goražde                       30  13  3 14  38-43  42
-10.Branitelj (Mostar)               30  12  4 14  43-42  40
-11.Jedinstvo (Bihać)                30  11  6 13  48-46  39
-12.NK Krajišnik (Velika Kladuša)    30  12  5 13  41-42  38  [-3]
------------------------------------------------------------
-13.HNK Orašje                       30  12  2 16  41-61  38  Relegated
-14.Famos-SAŠK Napredak              30  10  7 13  34-38  37  Relegated
-15.FK Unis (Vogošća)                30   4  2 24  23-64  14  Relegated
- -.NK Omladinac (Mionica)           30   5  2 23  18-96  17  [*]  Relegated
-
-[*] Omladinac withdrew after playing 20 matches and had their remaining 10 matches
-    awarded 0-3 against them
-
-Prva Liga RS
-
-Final Table:
-
- 1.Radnik (Bijeljina)               26  14  8  4  31-19  50  Promoted
------------------------------------------------------------
- 2.Sloga (Doboj)                    26  14  7  5  48-31  49
- 3.Sloboda (Mrkonjić Grad)          26  14  4  8  40-21  46
- 4.Sutjeska (Foča)                  26  11  5 10  34-36  38
- 5.Crvena Zemlja (Nova Ves)         26  11  4 11  40-35  37
- 6.Modriča Maksima (Modriča)        26  10  6 10  31-22  36
- 7.Drina HE (Višegrad)              26  10  6 10  22-25  36
- 8.Podrinje (Janja)                 26   9  7 10  32-29  34
- 9.Drina (Zvornik)                  26   9  6 11  24-23  33
-10.Mladost (Gacko)                  26   9  6 11  25-33  33
-11.Rudar (Ugljevik)                 26   8  8 10  27-30  32
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-12.Sloboda (Novi Grad)              26   8  8 10  24-32  32  Relegation Playoff
------------------------------------------------------------
-13.Laktaši (Laktaši)                26   8  4 14  34-55  28  Relegated
-14.Proleter (Teslić)                26   5  5 16  34-55  20  Relegated
-
-Round 1
-[Aug 13]
-Proleter          1-0 Drina HE
-Modriča Maxima    0-1 Sloga
-Podrinje          1-3 Sutjeska
-Drina Z.          0-0 Sloboda MG
-Sloboda NG        1-1 Crvena Zemlja
-Mladost           1-3 Laktaši
-Radnik            3-0 Rudar
-
-Round 2
-[Aug 20]
-Drina HE          1-0 Rudar
-Laktaši           2-0 Radnik
-Crvena Zemlja     5-0 Mladost
-Sloboda MG        2-0 Sloboda NG
-Sutjeska          1-0 Drina Z.
-Sloga             0-1 Podrinje
-Proleter          1-1 Modriča Maxima
-
-Round 3
-[Aug 27]
-Modriča Maxima    2-0 Drina HE
-Podrinje          2-1 Proleter
-Drina Z.          2-3 Sloga
-Sloboda NG        2-2 Sutjeska
-Mladost           2-1 Sloboda MG
-Radnik            1-1 Crvena Zemlja
-Rudar             4-0 Laktaši
-
-Round 4
-[Sep 3]
-Drina HE          1-0 Laktaši
-Crvena Zemlja     4-0 Rudar
-Sloboda MG        1-0 Radnik
-Sutjeska          0-0 Mladost
-Sloga D           2-2 Sloboda NG
-Proleter          1-4 Drina Z.
-Modriča Maxima    3-0 Podrinje
-
-Round 5
-[Sep 10]
-Podrinje          1-0 Drina HE
-Drina Z.          2-0 Modriča Maxima
-Sloboda NG        2-2 Proleter
-Mladost           2-0 Sloga D.
-Radnik            1-0 Sutjeska
-Rudar             0-0 Sloboda MG
-Laktaši           3-2 Crvena Zemlja
-
-Round 6
-[Sep 17]
-Drina HE          2-1 Crvena Zemlja
-Sloboda MG        7-2 Laktaši
-Sutjeska          2-0 Rudar
-Sloga D.          0-0 Radnik
-Proleter          1-4 Mladost
-Modriča Maxima    4-0 Sloboda NG
-Podrinje          0-0 Drina Z.
-
-Round 7
-[Sep 24]
-Drina Z.          0-1 Drina HE
-Sloboda NG        3-1 Podrinje
-Mladost           1-0 Modriča Maxima
-Radnik            1-1 Proleter
-Rudar             0-2 Sloga D.
-Laktaši           0-1 Sutjeska
-Crvena Zemlja     2-0 Sloboda MG
-
-Round 8
-[Oct 1]
-Drina HE          1-0 Sloboda MG
-Sutjeska          4-2 Crvena Zemlja
-Sloga D           3-0 Laktaši
-Proleter          2-3 Rudar
-Modriča Maxima    0-1 Radnik
-Podrinje          0-0 Mladost
-Drina Z.          1-0 Sloboda NG
-
-Round 9
-[Oct 8]
-Sloboda NG        0-0 Drina HE
-Mladost           0-0 Drina Z.
-Radnik            1-0 Podrinje
-Rudar             1-1 Modriča Maxima
-Laktaši           2-1 Proleter
-Crvena Zemlja     2-1 Sloga D.
-Sloboda MG        4-0 Sutjeska
-
-Round 10
-[Oct 15]
-Drina HE          2-0 Sutjeska
-Sloga D.          1-0 Sloboda MG
-Proleter          1-2 Crvena Zemlja
-Modriča Maxima    4-0 Laktaši
-Podrinje          0-1 Rudar
-Drina Z.          0-0 Radnik
-Sloboda NG        0-0 Mladost
-
-Round 11
-[Oct 22]
-Mladost           1-0 Drina HE
-Radnik            2-1 Sloboda NG
-Rudar             2-0 Drina Z.
-Laktaši           2-2 Podrinje
-Crvena Zemlja     0-0 Modriča Maxima
-Sutjeska          1-1 Sloga D.
-[Oct 23]
-Sloboda MG        5-1 Proleter
-
-Round 12
-[Oct 29]
-Drina HE          1-3 Sloga D.
-Proleter          3-0 Sutjeska
-Modriča Maxima    2-0 Sloboda MG
-Podrinje          2-0 Crvena Zemlja
-Drina Z.          2-1 Laktaši
-Sloboda NG        2-1 Rudar
-Mladost           1-0 Radnik
-
-Round 13
-[Nov 5]
-Radnik            1-0 Drina HE
-Rudar             3-0 Mladost
-Laktaši           2-0 Sloboda NG
-Crvena Zemlja     0-1 Drina Z.
-Sloboda MG        1-0 Podrinje
-Sutjeska          1-0 Modriča Maxima
-Sloga D.          2-2 Proleter
-
-Round 14
-[Mar 10]
-Drina HE          3-2 Proleter
-Sloga             3-1 Modriča Maxima
-Sutjeska          1-3 Podrinje
-Sloboda MG        2-1 Drina Z.
-Rudar             1-1 Radnik
-[Mar 11]
-Crvena Zemlja     2-0 Sloboda NG
-Laktaši           1-0 Mladost
-
-Round 15
-[Mar 17]
-Rudar             1-1 Drina HE
-Sloboda NG        1-0 Sloboda MG
-Drina Z.          3-0 Sutjeska
-Podrinje          0-0 Sloga
-Modriča Maxima    1-0 Proleter
-[Mar 18]
-Radnik            3-1 Laktaši
-Mladost           2-0 Crvena Zemlja
-
-Round 16
-[Mar 24]
-Drina HE          1-0 Modriča Maxima
-Proleter          2-1 Podrinje
-Sloga             2-0 Drina Z.
-Sutjeska          0-0 Sloboda NG
-Crvena Zemlja     3-0 Radnik
-Laktaši           1-0 Rudar
-[Mar 25]
-Sloboda MG        3-1 Mladost
-
-Round 17
-[Mar 31]
-Laktaši           1-2 Drina HE
-Rudar             2-3 Crvena Zemlja
-Radnik            1-0 Sloboda MG
-Mladost           1-2 Sutjeska
-Sloboda NG        2-1 Sloga D
-Drina Z.          0-2 Proleter
-Podrinje          1-0 Modriča Maxima
-
-Round 18
-[Apr 7]
-Drina HE          1-1 Podrinje
-Modriča Maxima    2-0 Drina Z.
-Proleter          0-1 Sloboda NG
-Sloga D.          4-2 Mladost
-Sutjeska          0-1 Radnik
-[Apr 7]
-Sloboda MG        1-0 Rudar
-Crvena Zemlja     0-0 Laktaši
-
-Round 19
-[Apr 14]
-Crvena Zemlja     1-0 Drina HE
-Laktaši           0-1 Sloboda MG
-Rudar             2-1 Sutjeska
-Radnik            2-2 Sloga D.
-Mladost           3-1 Proleter
-Sloboda NG        0-1 Modriča Maxima
-Drina Z.          1-0 Podrinje
-
-Round 20
-[Apr 21]
-Drina HE          0-0 Drina Z.
-Podrinje          3-0 Sloboda NG
-Modriča Maxima    2-1 Mladost
-Proleter          1-4 Radnik
-Sloga D.          1-0 Rudar
-Sutjeska          3-2 Laktaši
-[Apr 22]
-Sloboda MG        2-0 Crvena Zemlja
-
-Round 21
-[Apr 28]
-Laktaši           2-2 Sloga D
-Rudar             1-1 Proleter
-Radnik            2-1 Modriča Maxima
-Mladost           2-0 Podrinje
-Sloboda NG        1-0 Drina Z.
-[Apr 29]
-Sloboda MG        2-0 Drina HE
-Crvena Zemlja     2-1 Sutjeska
-
-Round 22
-[May 5]
-Drina HE          2-0 Sloboda NG
-Drina Z.          2-0 Mladost
-Podrinje          1-2 Radnik
-Modriča Maxima    0-1 Rudar
-Proleter          4-2 Laktaši
-Sloga D.          3-2 Crvena Zemlja
-Sutjeska          3-0 Sloboda MG
-
-Round 23
-[May 12]
-Sutjeska          2-0 Drina HE
-Laktaši           1-1 Modriča Maxima
-Rudar             2-2 Podrinje
-Radnik            1-0 Drina Z.
-Mladost           0-3 Sloboda NG
-[May 13]
-Sloboda MG        4-1 Sloga D.
-Crvena Zemlja     2-1 Proleter
-
-Round 24
-[May 16]
-Drina HE          0-0 Mladost
-Sloboda NG        0-0 Radnik
-Drina Z.          1-1 Rudar
-Podrinje          7-2 Laktaši
-Modriča Maxima    3-2 Crvena Zemlja
-Sloga D.          3-1 Sutjeska
-Proleter          1-3 Sloboda MG
-
-Round 25
-[May 19]
-Sloga D.          4-2 Drina HE
-Sutjeska          3-1 Proleter
-Sloboda MG        0-0 Modriča Maxima
-Crvena Zemlja     0-2 Podrinje
-Laktaši           2-1 Drina Z.
-Rudar             1-0 Sloboda NG
-Radnik            2-1 Mladost
-
-Round 26
-[May 26]
-Drina HE          1-1 Radnik
-Mladost           0-0 Rudar
-Sloboda NG        3-2 Laktaši
-Drina Z.          3-1 Crvena Zemlja
-Podrinje          1-1 Sloboda MG
-Modriča Maxima    2-2 Sutjeska
-Proleter          0-3 Sloga D.
-
-Final Table:
-
- 1.Radnik (Bijeljina)               26  14  8  4  31-19  50  Promoted
------------------------------------------------------------
- 2.Sloga (Doboj)                    26  14  7  5  48-31  49
- 3.Sloboda (Mrkonjić Grad)          26  14  4  8  40-21  46
- 4.Sutjeska (Foča)                  26  11  5 10  34-36  38
- 5.Crvena Zemlja (Nova Ves)         26  11  4 11  40-35  37
- 6.Modriča Maksima (Modriča)        26  10  6 10  31-22  36
- 7.Drina HE (Višegrad)              26  10  6 10  22-25  36
- 8.Podrinje Janja                   26   9  7 10  32-29  34
- 9.Drina (Zvornik)                  26   9  6 11  24-23  33
-10.Mladost (Gacko)                  26   9  6 11  25-33  33
-11.Rudar Ugljevik                   26   8  8 10  27-30  32
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-12.Sloboda (Novi Grad)              26   8  8 10  24-32  32  Relegation Playoff
------------------------------------------------------------
-13.Laktaši (Laktaši)                26   8  4 14  34-55  28  Relegated
-14.Proleter (Teslić)                26   5  5 16  34-55  20  Relegated
-
-NB: Sloboda won the promotion/relegation playoff against Jedinstvo (Žeravica) 5-0 on aggregate (2-0, 3-0)
-2010/11.
-
-2012/13.
-
-list of champions.
-
-list of cup winners.
-
-About this document
-
-Prepared and maintained by Dragoljub Jovanović and Jan Schoenmakers for the Rec.Sport.Soccer Statistics Foundation
-
-Authors: Dragoljub Jovanović and Jan Schoenmakers 
-Last updated: 9 Aug 2013
-
-(C) Copyright Dragoljub Jovanović, Jan Schoenmakers and RSSSF 2011/13
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.
+* 1.NK Željezničar (Sarajevo)        30  22  5  3  68-17  71  Champions
+* 2.NK Široki Brijeg (Široki Brijeg) 30  18  9  3  48-17  63
+* 3.Borac (Banja Luka)               30  17  4  9  46-26  55
+* 4.FK Sarajevo (Sarajevo)           30  16  6  8  48-31  54
+* 5.Olimpik (Sarajevo)               30  15  7  8  44-23  52
+* 6.HSK Zrinjski (Mostar)            30  12  9  9  47-41  45
+* 7.Zvijezda (Gradačac)              30  13  6 11  37-35  45
+* 8.Travnik (Travnik)                30  10  5 15  42-53  35
+* 9.NK Čelik (Zenica)                30   8 10 12  31-39  34
+*10.Rudar (Prijedor)                 30   6  4 16  30-46  34
+*11.FK Velež (Mostar)                30   8  9 13  28-35  33
+*12.FK Leotar (Trebinje)             30   9  6 15  27-40  33
+*13.GOŠK (Gabela)                    30   8  9 13  26-43  33
+*14.FK Slavija (Istočno Sarajevo)    30  10  2 18  36-61  32
+*-----------------------------------------------------------
+*15.FK Sloboda (Tuzla)               30  10  2 18  23-48  32  Relegated
+*16.Kozara (Gradiška)                30   4  7 19  19-45  19  Relegated
+
+
+
+*Prepared and maintained by Dragoljub Jovanović and Jan Schoenmakers for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Dragoljub Jovanović and Jan Schoenmakers 
+*Last updated: 9 Aug 2013
+*(C) Copyright Dragoljub Jovanović, Jan Schoenmakers and RSSSF 2011/13
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

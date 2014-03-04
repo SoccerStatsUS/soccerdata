@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablese/ecua97.html
-Season: 1997 Apertura
+Season: 1997 
 Competition: Ecuadorian Serie A
+
+Stage: Apertura
 
 
 *Group: A
@@ -169,7 +171,9 @@ Group: B
 *[Barcelona and LDU Quito both obtain 1 bonus point for Championship playoff]
 
 
-Season: 1997 Clausura
+Season: 1997 
+
+Stage: Clausura
 
 * 1.Barcelona              22 14  5  3  45-20  47   [Guayaquil]
 * 2.Deportivo Quito        22 11  9  2  38-15  42   [Quito]

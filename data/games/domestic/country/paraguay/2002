@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para02.html
 Competition: Paraguayan Primera División
-Season: 2002 Apertura
+Season: 2002 
+
+Stage: Apertura
 
 
 * 1.Sportivo Luqueño        9  7  1  1  15- 7 22
@@ -296,7 +298,9 @@ Round: Final
 *Libertad win Apertura
 
 
-Season: 2002 Clausura
+Season: 2002 
+
+Stage: Clausura
 
 * 1.12 de Octubre          18 10  2  6  30-24 32  Clausura Winners
 * 2.Libertad               18  9  4  5  33-22 31

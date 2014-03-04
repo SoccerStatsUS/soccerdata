@@ -1,32 +1,27 @@
-http://www.rsssf.com/tabless/slov05.html
+BlockSource: http://www.rsssf.com/tabless/slov05.html
+Season: 2004-2005
 
-Slovenia 2004/05
+* 1.ND Gorica                    22 14  5  3  39-20 47
+* 2.CMC Publikum Celje           22 11  4  7  33-18 37
+* 3.Primorje Ajdovscina          22 10  5  7  28-20 35  [2 1 0 1 3-2 3]
+* 4.Olimpija Ljubljana           22 10  5  7  28-26 35  [2 1 0 1 2-3 3]
+* 5.Domzale                      22  9  6  7  33-27 33
+* 6.Drava Ptuj                   22  9  5  8  27-27 32  [2 1 0 1 3-2 3]
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 7.NK Maribor piv. Lasko        22  9  5  8  30-27 32  [2 1 0 1 2-3 3]
+* 8.Ljubljana V&V                22  7  8  7  30-32 29
+* 9.Mura Murska Sobota           22  7  7  8  31-28 28
+*10.Bela Krajina Crnomelj        22  5  6 11  20-39 21
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+*11.FC Koper                     22  4  7 11  20-30 19
+*-----------------------------------------------------
+*12.Zagorje                      22  2  7 13  11-36 13
+*
+*NB: Esotech Smartno, Dravograd and Rudar Velenje withdrew;
+*    their places were taken by Drava Ptuj, Bela Krajina and
+*    Zagorje. 
 
-Regular Season
-
-Table:
-
- 1.ND Gorica                    22 14  5  3  39-20 47
- 2.CMC Publikum Celje           22 11  4  7  33-18 37
- 3.Primorje Ajdovscina          22 10  5  7  28-20 35  [2 1 0 1 3-2 3]
- 4.Olimpija Ljubljana           22 10  5  7  28-26 35  [2 1 0 1 2-3 3]
- 5.Domzale                      22  9  6  7  33-27 33
- 6.Drava Ptuj                   22  9  5  8  27-27 32  [2 1 0 1 3-2 3]
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.NK Maribor piv. Lasko        22  9  5  8  30-27 32  [2 1 0 1 2-3 3]
- 8.Ljubljana V&V                22  7  8  7  30-32 29
- 9.Mura Murska Sobota           22  7  7  8  31-28 28
-10.Bela Krajina Crnomelj        22  5  6 11  20-39 21
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
-11.FC Koper                     22  4  7 11  20-30 19
------------------------------------------------------
-12.Zagorje                      22  2  7 13  11-36 13
-
-NB: Esotech Smartno, Dravograd and Rudar Velenje withdrew;
-    their places were taken by Drava Ptuj, Bela Krajina and
-    Zagorje. 
-
-Round 1 
+Round: 1 
 [Jul 30]
 Celje        0-1 Ptuj
   [Sead Zilic 71]
@@ -44,7 +39,7 @@ Maribor      1-1 Mura
 Domzale      0-1 Olimpija 
   [Nedim Jusufbegovic 30]
  
-Round 2
+Round: 2
 [Aug 6]
 Celje        3-0 Koper
   [Dare Vršic 14, Simon Sešlar 25, Matej Šnofl 51]
@@ -62,7 +57,7 @@ Gorica       0-0 Ljubljana
 Olimpija     2-1 Ajdovscina
   [Fausto Budičin 1, Anton Žlogar 28; Goran Jolic 16]
 
-Round 3
+Round: 3
 [Aug 14]
 Koper        0-0 Ptuj 
 Ljubljana    0-2 Celje 
@@ -77,7 +72,7 @@ Mura         3-1 Bela Krajina
 Maribor      0-3 Olimpija 
   [Sebastjan Cimerotic 8, 87, Zoran Pavlovic 56]
 
-Round 4
+Round: 4
 [Aug 20]
 Gorica       0-0 Ajdovscina
 Celje        2-3 Domzale 
@@ -92,7 +87,7 @@ Olimpija     0-2 Mura
 Ptuj         0-1 Bela Krajina 
   [Ljubiša Štrbac 70]
 
-Round 5
+Round: 5
 [Aug 28]
 Ljubljana    1-1 Ptuj
   [Gregor Režonja 16; Aleš Ceh 80pen]
@@ -108,7 +103,7 @@ Mura         2-0 Zagorje
 Bela Krajina 1-0 Olimpija 
   [Mario Lamešic 34]
  
-Round 6
+Round: 6
 [Sep 10]
 Ljubljana    1-1 Domzale 
   [Darko Karapetrovic 42; Željko Mitrakovic 62]
@@ -124,7 +119,7 @@ Zagorje      1-1 Bela Krajina
 Celje        2-2 Maribor 
   [Dragan Cadikovski 45, Dejan Rusic 54; Andrej Kvas 49, Kliton Bozgo 85]
 
-Round 7
+Round: 7
 [Sep 18]
 Olimpija     1-0 Zagorje 
   [Sebastjan Cimerotic 53]
@@ -138,7 +133,7 @@ Domzale      3-2 Ptuj
 Maribor      0-0 Koper 
 Mura         0-0 Celje 
  
-Round 8 [Sep 22]
+Round: 8 [Sep 22]
 Domzale      1-2 Ajdovscina
   [Juninho 40; Matej Mlakar 69, 90pen]
 Ljubljana    1-2 Maribor 
@@ -151,7 +146,7 @@ Celje        2-0 Bela Krajina
 Gorica       2-0 Olimpija 
   [Aleksandar Rodic 11, Valter Birsa 45]
 
-Round 9 [Sep 26]
+Round: 9 [Sep 26]
 Ajdovscina   0-0 Ptuj 
 Bela Krajina 1-4 Koper 
   [Igor Mostarlic 90pen; Oliver Bogatinov 12, Danijel Jumic 16, 60,
@@ -166,7 +161,7 @@ Olimpija     1-4 Celje      [abandoned at 1-4 in 87'; result stood]
   [Sebastjan Cimerotic 16; Sebastjan Gobec 28, Simon Sešlar 35
    Dragan Cadikovski 58, 80]         
  
-Round 10
+Round: 10
 [Oct 2]
 Koper        1-1 Olimpija
   [Danijel Jumic 62; Blaž Puc 23]
@@ -181,7 +176,7 @@ Celje        2-0 Mura
 Ptuj         0-1 Domzale
   [Jhonnes De Souza 75]
 
-Round 19
+Round: 19
 [Mar 12]
 Ajdovscina   3-1 Domzale
   [Goran Jolic 14, Dražen Žeželj 65pen, Alen Džuzdanovic 90+;
@@ -195,7 +190,7 @@ Celje        4-1 Olimpija
   [Matej Šnofl 31, Oskar Drobne 45, Sebastjan Cimirotic 54, 76;
    Viktor Trenevski 56]
 
-Round 21 [Mar 19] 
+Round: 21 [Mar 19] 
 Zagorje      1-1 Celje
   [Dejan Cauševic 32; Sebastjan Cimirotic 39]
 Bela Krajina 1-1 Ljubljana 
@@ -209,7 +204,7 @@ Olimpija     2-0 Koper
 Maribor      1-0 Ajdovscina
   [Kliton Bozgo 78]
 
-Round 22
+Round: 22
 [Apr 2]
 Ajdovscina   3-1 Mura 
   [Dražen Žeželj 5, 52, Mitja Zatkovic 53; Romano Obilinovic 7]
@@ -267,7 +262,7 @@ Final Table:
 
 NB: Olimpija are forcibly relegated due to financial problems
 
-Round 23 
+Round: 23 
 [Apr 9] 
 Gorica       0-0 Ptuj
 [Apr 10] 
@@ -276,7 +271,7 @@ Celje        3-1 Domzale
 [Apr 20]
 Ajdovscina   0-0 Olimpija 
 
-Round 24 
+Round: 24 
 [Apr 13]
 Ptuj         4-1 Olimpija  
   [Sead Zilic 27, Andrej Prejac 42, Gorazd Gorinšek 50,
@@ -287,7 +282,7 @@ Domzale      1-1 Ajdovscina
 Gorica       2-0 Celje  
   [Miran Burgic, Saša Ranic 88]
 
-Round 25 [Apr 17]
+Round: 25 [Apr 17]
 Olimpija     1-3 Domzale 
   [Dušan Kosic 90+pen; Jhonnes Marques De Souza 20, Dejan Djuranovic 65,
    Dalibor Stevanovic 73]
@@ -296,7 +291,7 @@ Ajdovscina   0-2 Gorica
 Celje        1-2 Ptuj 
   [Dominik Beršnjak 27; Andrej Prejac 63, Mitja Emeršic 83]
 
-Round 26
+Round: 26
 [Apr 23]
 Ptuj         0-1 Domzale
   [Darijan Matic 64] 
@@ -306,7 +301,7 @@ Celje        1-0 Ajdovscina
 Gorica       2-0 Olimpija
   [Saša Ranic 30, Valter Birsa 90+]
 
-Round 27 [May 1] 
+Round: 27 [May 1] 
 Domzale      1-1 Gorica  
   [Darijan Matic 71; Valter Birsa 53] 
 Olimpija     0-6 Celje  
@@ -315,7 +310,7 @@ Olimpija     0-6 Celje
 Ajdovscina   1-1 Ptuj
   [Rade Medic 40; Sead Zilic 24]
 
-Round 28
+Round: 28
 [May 7] 
 Domzale      1-0 Celje
   [Borut Arlic 72] 
@@ -325,7 +320,7 @@ Olimpija     2-3 Ajdovscina
   [Viktor Trenevski 37, Mohamed Abd Rabo 74; Rade Medic 8, 67,
    Dražen Žeželj 45pen]
 
-Round 29
+Round: 29
 [May 14]
 Celje        0-1 Gorica
   [Nebojša Kovacevic 42]
@@ -335,7 +330,7 @@ Ajdovscina   0-1 Domzale
 Olimpija     0-2 Ptuj
   [Matej Miljatovic 76, Sead Zilic 83]
 
-Round 30 [May 21]
+Round: 30 [May 21]
 Ptuj         0-1 Celje
   [Oskar Drobne 56]
 Gorica       1-1 Ajdovscina
@@ -343,7 +338,7 @@ Gorica       1-1 Ajdovscina
 Domzale      3-0 Olimpija 
   [Slaviša Dvorancic 19, Zlatan Ljubijankic 45, Dalibor Stevanovic 64]
 
-Round 31 [May 25]
+Round: 31 [May 25]
 Ajdovscina   2-0 Celje
   [Siniša Jankovic 23, Alen Đžuzdanovic 90]
 Domzale      3-3 Ptuj
@@ -352,7 +347,7 @@ Domzale      3-3 Ptuj
 Olimpija     1-1 Gorica
   [Mohamed Abd Rabo 11; Mladen Kovacevic 90]
 
-Round 32 [May 28]
+Round: 32 [May 28]
 Ptuj         1-1 Ajdovscina 
   [Matej Miljatovic 3; Tim Lo Duca 38]
 Gorica       0-0 Domzale 
@@ -384,7 +379,7 @@ Final Table:
 
 NB: Mura and Ljubljana are forcibly relegated due to financial problems
 
-Round 23 
+Round: 23 
 [Apr 9]
 Maribor      3-0 Zagorje  
   [Kliton Bozgo 14, 27, Peter Franci 90+]
@@ -393,7 +388,7 @@ Ljubljana    0-1 Koper
 [Apr 10]
 Mura         0-0 Bela Krajina  
 
-Round 24 [Apr 13]
+Round: 24 [Apr 13]
 Zagorje      1-3 Bela Krajina  
   [Dejan Cauševic 79; Amel Mujakovic 50, Ljubiša Štrbac 38, Pokleka Marko 41]
 Maribor      3-0 Ljubljana  
@@ -401,7 +396,7 @@ Maribor      3-0 Ljubljana
 Koper        0-2 Mura  
   [Romano Obilinovic 4, Amir Karic 22] 
 
-Round 25
+Round: 25
 [Apr 16]
 Ljubljana    2-1 Zagorje 
   [Sunday Chibuke Ibeji 8, Mohammed Ekpoki Abdulrazak 85; Ranko Nišandžic 30]
@@ -411,7 +406,7 @@ Mura         1-3 Maribor
 Bela Krajina 1-0 Koper 
   [Amel Mujakovic 16]
 
-Round 26
+Round: 26
 [Apr 23]
 Ljubljana    0-0 Mura
 Maribor      2-0 Bela Krajina
@@ -421,7 +416,7 @@ Zagorje      2-4 Koper
   [Ranko Nišandžic 66, 80pen; Veselin Kuzmanovic 25, Darko Djukic 30pen, 68,
    Jan Pahor 64]
 
-Round 27 [Apr 30]
+Round: 27 [Apr 30]
 Koper        3-1 Maribor 
   [Veselin Kuzmanovic 28, Darko Kremenovic 35, Darko Djukic 40;
    Leon Panikvar 24]   
@@ -430,7 +425,7 @@ Mura         2-1 Zagorje
 Bela Krajina 3-0 Ljubljana   
   [Blaz Puc 39, 90, Brajkovic 63]
 
-Round 28
+Round: 28
 [May 7] 
 Koper        1-1 Ljubljana 
   [Darko Djukic 45; Sunday Chibuke Ibeji 60pen] 
@@ -440,7 +435,7 @@ Bela Krajina 1-1 Mura
 Zagorje      0-2 Maribor  
   [Leon Panikvar 69, Peter Franci 90+]
 
-Round 29
+Round: 29
 [May 14]
 Ljubljana    1-0 Maribor
   [Bostjan Kreft 6]
@@ -450,7 +445,7 @@ Mura         3-2 Koper
 [May 15]
 Bela Krajina 0-0 Zagorje
 
-Round 30
+Round: 30
 [May 21]
 Koper        1-0 Bela Krajina  
   [Darko Djukic 41]
@@ -461,7 +456,7 @@ Zagorje      1-3 Ljubljana
   [Dejan Cauševic 90; Sunday Chibuke Ibeji 11, Gregor Režonja 26,
    Mohammed Abdulrazak Ekpoki 50]
 
-Round 31 [May 25]
+Round: 31 [May 25]
 Bela Krajina 3-0 Maribor
   [Goran Brajkovic 11, Mario Lamešic 66, Blaž Puc 87]
 Koper        5-0 Zagorje
@@ -469,7 +464,7 @@ Koper        5-0 Zagorje
 Mura         1-1 Ljubljana
   [Aleš Mejac 23; Abdulrazak Ekpoki Mohammed 18]
 
-Round 32 [May 28]
+Round: 32 [May 28]
 Ljubljana    0-0 Bela Krajina
 Maribor      1-1 Koper
   [Edmond Gunjac 84og; Darko Kremenovic 14]
@@ -493,516 +488,8 @@ NB: due to the relegations of Olimpija, Mura and Ljubljana, the league is
     playoff against the second level runners-up (Nafta)
 
 
-Topscorers:
-18     Kliton Bozgo         Maribor
-14     Saša Ranic           Gorica
-13     Darko Djukic         Koper
-13     Sead Zilic           Ptuj
-11     Dalibor Stevanovic   Domžale
-10     Sebastjan Cimirotic  Celje
-10     Slaviša Dvorancic    Domzale
-10     Abdulrazak Ekpoki    Ljubljana
-10     Ermin Rakovic        Mura
-10     Dražen Žeželj        Ajdovscina
-
-
-Cup 2004/05
-
-
-Round 1
-[Aug 4]
-Duplek                 1-8 Rudar Velenje    
-  [Jure Štorgelj 79pen; Enis Mulavdic 28, Alem Mujakovic 35,
-   Almir Rahmanovic 40, Mirnes Ibrahimovic 47, Denis Grbic 49,
-   Alen Nikola Rajkovic 56, Edvard Borštner 60, Edvard Borštner 67]
-Paloma                 2-3 Zavrc    
-  [Robert Petrovic 52, Andrej Ozim 88; Matej Golob 40, Simon Krepek 63,
-   Milan Kokot 77]
-Hotiza                 0-4 Aluminij     
-  [Luka Pekez 15, 64pen, Davorin Fridauer 28, Doris Kelenc 45,
-Veržej                 0-2 Nafta      
-  [Gregor Bunc 22, Jože Benko 72]
-Radio Krka             1-2 Krško  
-  [Denis Perše 55pen; Iztok Kapušin 25, Zoran Omerzu 80]
-Tolmin                 0-3 Factor    
-  [Boštjan Jelecevic 39, Sašo Gregorn 57, Mario Kitic 60]
-Svoboda Ljubljana      0-1 Supernova Triglav  
-  [Ladislav Stanko 55pen]
-Brda                   1-4 Izola Argeta          [aet]
-  [Miloš Djeric 40; Andrej Franetic 33, Midhad Šabic 97, 
-   Jasmin Šabanovic 116, 120]
-[Aug 7]
-Portorož-Piran         3-3 Jesenice              [aet, 4-3 pen]
-  [Dean Peršic 4, 101pen, Dušan Zelincevic 84pen; Milan Boškovic 33,
-   Damir Kostadinovic 43, Edin Rekic 105pen]
-Tišina                 3-3 Železnicar Maribor    [aet, 3-4 pen]
-  [Damir Contala 29, Simon Ulen 49, 73; Danijel Glamocic 12,
-   Rok Kronaveter 22, 72]
- 
-Round 2
-[Sep 15]
-Aluminij               5–1 Krško       
-  [Matej Ozim 24, Luka Pekez 28, Dejan Komljenovic 30, Doris Kelenc 70,
-   Davorin Fridauer 89; Bojan Hodžar 35]
-Zavrc                  2-1 Rudar Velenje    
-  [Simon Krepek 15, Dragan Ljubanic 68; Mirnes Ibrahimovic 42]
-Železnicar Maribor     2-6 Koroška Dravograd     [aet]
-  [Rok Kronaveter 27, Sandi Verdnik 50; Goran Alekšic 25, 96,
-   Nejc Pecnik 89, Matej Rebol 93, 99, Aljaž Cavnik 118]
-Nafta                  1-0 Ptuj Kumho Drava     
-  [Goran Ristic 68]
-Izola Argeta           1-0 Supernova Triglav 
-  [Damjan Božic 63]
-Portorož-Piran         0–3 Factor   
-  [Luka Banic 39, Miroslav Radulovic 40, Velimir Požeg 81]
- 
-1/8 Finals 
-[Sep 29]
-Aluminij               1–2 Nafta 
-  [Davorin Fridauer 35; Vedran Madžar 9, Admir Suljic 54]
-CMC Publikum           2–0 Izola Argeta    
-  [Cadikovski 49, 90+2]
-Domzale                2–1 Ljubljana             [aet]
-  [Zlatan Ljubijankic 16, Slaviša Dvorancic 115; Darko Karapetrovic 66] 
-Dravograd              5-2 Primorje              [aet] 
-  [Mitja Gostenicnik 45pen, Matej Grobovšek 85, Nejc Pecnik 92,
-   Vladimir Ostojic 110og, Matej Rebol 112; Matej Mlakar 14, Tim Lo Duca 20]
-Olimpija               2–0 Factor 
-  [Sebastjan Cimerotic 22, 35]
-Mura                   4–0 Smartno         
-  [Nejc Omladic 1, Ermin Rakovic 14pen, Spasoje Bulajic 35, Lukenda 82og]
-[Oct 10]
-Koper                  1–2 Maribor 
-  [Juan Vitagliano 67; Dejan Komljenovič 20, 80]
-[Oct 12]
-Hit Gorica             6–0 Zavrc  
-  [Sasa Ranic 41, 69, Miran Burgic 54, 60, Aleksandar Rodic 62,
-   Admir Krsic 87]
-
-Quarterfinals [Oct 27]
-Domžale                2-4 HIT Gorica            [aet] 
-  [Slaviša Dvorancic 35, Dalibor Stevanovic 58; Aleš Puš 26, 
-   Lungu Vladislav 74, Andrej Komac 108, 120]
-Nafta                  9-2 Koroška Dravograd
-  [Gregor Bunc 9, Jože Benko 16, 35, 47, 56, 69, 85,
-   Goran Ristic 38, 83; Borut Vrhnjak 19, Borut Pušnik 77]
-CMC Publikum           1-1 KD Olimpija           [aet, 4-2 pen]
-  [Oskar Drobne 100; Anton Žlogar 107]     
-Maribor Pivovarna      2-0 Mura
-  [Milan Rakic 42, Alen Mujanovic 90+]
-
-Semifinals
-
-First Legs [Apr 20]
-HIT Gorica             2-0 Nafta           
-  [Andrej Komac 51, Ales Kokot 84pen]
-Maribor Piv. Laško     2-1 CMC Publikum   
-  [Danijel Brezicc 35, Dalibor Teinovic 90; Simon Sešlar 4pen]
-
-Second Legs 
-[Apr 27]
-Nafta                  0-1 HIT Gorica        
-  [Aleš Kokot 83pen]   
-[Apr 28]
-CMC Publikum           3-1 Maribor Pivovarna Laško   
-  [Marko Križnik 69, Sebastjan Gobec 88, Dejan Robnik 89; Saša Božicic 28]
-
-Final [May 17, Arena Petrol, Celje; att: 4,000; ref: Drago Kos]
-CMC Publikum           1-0 HIT Gorica
-  [Vladislav Lungu 17og]
-  [Celje: Šeliga, Križnik, Sulejmanovič, Pečnik, Vršič (79 Robnik), 
-     Budimir (84 Brumen), Cimirotič, Sešlar, Beršnjak, Stajič,
-     Šnofl (90 Drobne); trainer: Marko Pocrnjič;
-   Gorica: Pirih, Šuler, Kokot, Srebrnič, Puš, N.Kovačevič (46 Ranič),
-     Burgič, Birsa (66 Živec), Komac (77 M.Kovačevič), Lungu, Kršič;
-     trainer: Pavel Pinni;
-   ref: Drago Kos (Ravne na Koroškem); Igor Zupančič (Ljubljana),
-        Ilija Jakara (Kranj);
-   yellow cards: Budimir, Pečnik; Srebrnič, Puš]
-
-
-Second Level 2004/05
-
-
-Final Table:
-
- 1. Rudar Velenje           33 23  3  7  76-40  72  Promoted  (Velenje)  
- 2. Nafta                   33 20 10  3  67-28  70  Promoted  (Lendava)
- -------------------------------------------------
- 3. Svoboda                 33 18  7  8  52-33  61  (Ljubljana)
- 4. Dravinja                33 18  4 11  43-36  58  (Slovenske Konjice)
- 5. Koroška Dravograd       33 15  9  9  55-43  54  (Dravograd)
- 6. Livar                   33 15  4 14  48-38  49  (Ivančna Gorica)
- 7. Aluminij                33 14  5 14  68-51  47  (Kidričevo)
- 8. Supernova Triglav       33 12 10 11  50-39  46  (Kranj)
- 9. Factor                  33 12  2 19  49-58  38  (Ljubljana)
-10. Krško                   33 11  5 17  46-59  38  (Krško)
-11. Izola-Argeta            33  4  7 22  25-71  19  (Izola)
-12. Šmartno ob Paki         33  2  2 29  25-108  5  [-3]  (Šmartno ob Paki)
-
-NB: Šmartno had 3 points deducted
-
-Round 1     (Aug 8)
-Supernova Triglav 2-2 Rudar Velenje
-Izola-Argeta      1-3 Aluminij
-Svoboda           0-3 Livar
-Krško             2-2 Factor
-Nafta             1-1 Koroška Dravograd
-Šmartno ob Paki   0-3 Dravinja
-
-Round 2     (Aug 15)
-Rudar Velenje     2-0 Dravinja
-Koroška Dravograd 4-0 Šmartno ob Paki
-Factor            0-1 Nafta
-Aluminij          4-3 Svoboda
-Livar             0-2 Krško
-Supernova Triglav 1-1 Izola-Argeta
-
-Round 3     (Aug 22)
-Izola-Argeta      1-3 Rudar Velenje
-Svoboda           0-0 Supernova Triglav
-Krško             2-1 Aluminij
-Nafta             2-0 Livar
-Koroška Dravograd 1-1 Dravinja
-Šmartno ob Paki   1-3 Factor
-
-Round 4     (Aug 29)
-Rudar Velenje     1-5 Koroška Dravograd
-Factor            2-0 Dravinja
-Livar             4-0 Šmartno ob Paki
-Aluminij          0-1 Nafta
-Izola-Argeta      0-1 Svoboda
-Supernova Triglav 2-0 Krško
-
-Round 5     (Sep 1)
-Svoboda           2-1 Rudar Velenje
-Krško             0-2 Izola-Argeta
-Dravinja          3-2 Livar
-Šmartno ob Paki   1-1 Aluminij
-Koroška Dravograd 0-2 Factor
-Nafta             1-0 Supernova Triglav   (Sep 22)
-
-Round 6     (Sep 5)
-Livar             4-0 Koroška Dravograd
-Supernova Triglav 7-1 Šmartno ob Paki     (Okt 6)
-Aluminij          0-1 Dravinja
-Izola-Argeta      1-2 Nafta
-Svoboda           2-1 Krško
-Rudar Velenje     2-1 Factor              (Sep 8)
-
-Round 7     (Sep 12)
-Factor            0-1 Livar
-Krško             0-1 Rudar Velenje
-Nafta             2-2 Svoboda
-Dravinja          2-1 Supernova Triglav
-Šmartno ob Paki   0-2 Izola-Argeta
-Koroška Dravograd 1-0 Aluminij
-
-Round 8     (Sep 19)
-Rudar Velenje     1-0 Livar
-Supernova Triglav 2-1 Koroška Dravograd
-Svoboda           4-1 Šmartno ob Paki
-Aluminij          2-1 Factor
-Izola-Argeta      0-2 Dravinja
-Krško             3-2 Nafta
-
-Round 9     (Sep 26)
-Factor            2-3 Supernova Triglav
-Nafta             3-0 Rudar Velenje
-Dravinja          0-3 Svoboda
-Šmartno ob Paki   0-1 Krško
-Koroška Dravograd 3-1 Izola-Argeta
-Livar             0-4 Aluminij
-
-Round 10    (Oct 2-3)
-Rudar Velenje     1-3 Aluminij
-Svoboda           2-1 Koroška Dravograd
-Nafta             4-3 Šmartno ob Paki
-Izola-Argeta      1-5 Factor
-Krško             1-4 Dravinja
-Supernova Triglav 2-0 Livar
-
-Round 11    (Oct 10)
-Factor            0-4 Svoboda
-Aluminij          3-3 Supernova Triglav
-Dravinja          0-2 Nafta
-Šmartno ob Paki   1-3 Rudar Velenje
-Koroška Dravograd 3-1 Krško
-Livar             1-1 Izola-Argeta
-
-Round 12    (Oct 17)
-Rudar Velenje     2-1 Supernova Triglav
-Aluminij          2-1 Izola-Argeta
-Livar             3-0 Svoboda
-Factor            1-0 Krško
-Koroška Dravograd 1-1 Nafta
-Dravinja          1-0 Šmartno ob Paki
-
-Round 13    (Oct 24)
-Dravinja          1-0 Rudar Velenje
-Šmartno ob Paki   3-2 Koroška Dravograd
-Nafta             3-0 Factor
-Svoboda           1-0 Aluminij
-Krško             1-0 Livar
-Izola-Argeta      1-1 Supernova Triglav
-
-Round 14    (Oct 31)
-Rudar Velenje     3-0 Izola-Argeta
-Supernova Triglav 3-1 Svoboda
-Aluminij          2-4 Krško
-Livar             0-1 Nafta
-Dravinja          0-1 Koroška Dravograd
-Factor            5-3 Šmartno ob Paki
-
-Round 15    (Nov 7)
-Koroška Dravograd 0-2 Rudar Velenje
-Dravinja          2-0 Factor
-Šmartno ob Paki   1-0 Livar
-Nafta             1-1 Aluminij
-Svoboda           0-2 Izola-Argeta
-Krško             1-1 Supernova Triglav
-
-Round 16    (Nov 14)
-Rudar Velenje     0-1 Svoboda
-Izola-Argeta      1-1 Krško
-Supernova Triglav 1-0 Nafta
-Livar             0-1 Dravinja
-Aluminij          5-0 Šmartno ob Paki
-Factor            1-4 Koroška Dravograd
-
-Round 17    (Nov 21)
-Factor            1-4 Rudar Velenje
-Koroška Dravograd 2-1 Livar
-Šmartno ob Paki   1-3 Supernova Triglav
-Dravinja          2-1 Aluminij
-Nafta             3-0 Izola-Argeta
-Krško             1-3 Svoboda
-
-Round 18    (Nov 27)
-Livar             1-0 Factor
-Rudar Velenje     3-2 Krško
-Svoboda           1-1 Nafta
-Supernova Triglav 2-3 Dravinja
-Izola-Argeta      3-1 Šmartno ob Paki
-Aluminij          2-2 Koroška Dravograd
-
-Round 19    (Mar 20)
-Livar             2-1 Rudar Velenje
-Koroška Dravograd 2-0 Supernova Triglav
-Šmartno ob Paki   0-1 Svoboda
-Factor            0-4 Aluminij
-Dravinja          4-0 Izola-Argeta
-Nafta             2-1 Krško
-
-Round 20    (Mar 26)
-Supernova Triglav 0-0 Factor
-Rudar Velenje     1-1 Nafta
-Svoboda           0-0 Dravinja
-Krško             7-0 Šmartno ob Paki
-Izola-Argeta      1-1 Koroška Dravograd
-Aluminij          4-1 Livar
-
-Round 21    (Apr 4)
-Aluminij          0-2 Rudar Velenje
-Koroška Dravograd 0-2 Svoboda
-Šmartno ob Paki   0-5 Nafta
-Factor            2-1 Izola-Argeta
-Dravinja          2-0 Krško
-Livar             0-0 Supernova Triglav
-
-Round 22    (Apr 10)
-Svoboda           3-2 Factor
-Supernova Triglav 3-0 Aluminij
-Nafta             3-0 Dravinja
-Rudar Velenje     8-1 Šmartno ob Paki
-Krško             2-3 Koroška Dravograd
-Izola-Argeta      0-3 Livar
-
-Round 23    (Apr 17)
-Nafta             3-1 Aluminij
-Koroška Dravograd 3-0 Izola-Argeta
-Supernova Triglav 1-0 Šmartno ob Paki
-Rudar Velenje     3-1 Factor
-Svoboda           5-0 Krško
-Dravinja          0-1 Livar
-
-Round 24    (Apr 20)
-Supernova Triglav 0-2 Aluminij
-Šmartno ob Paki   2-3 Koroška Dravograd
-Izola-Argeta      0-4 Rudar Velenje
-Factor            2-1 Svoboda
-Krško             1-0 Dravinja
-(May 11)
-Livar             2-2 Nafta
-
-Round 25    (Apr 24)
-Nafta             2-4 Krško
-Koroška Dravograd 1-0 Supernova Triglav
-Rudar Velenje     4-1 Šmartno ob Paki
-Dravinja          2-1 Factor
-Aluminij          1-3 Livar
-Svoboda           2-0 Izola-Argeta
-
-Round 26    (Apr 30)
-Šmartno ob Paki   0-1 Svoboda
-Koroška Dravograd 2-1 Aluminij
-Supernova Triglav 3-4 Rudar Velenje
-Izola-Argeta      0-1 Dravinja
-Factor            0-1 Nafta
-Krško             1-5 Livar
-
-Round 27    (May 4)
-Aluminij          3-0 Krško
-Rudar Velenje     4-2 Koroška Dravograd
-Dravinja          3-1 Šmartno ob Paki
-Livar             4-3 Factor
-Svoboda           2-0 Supernova Triglav
-Nafta             7-0 Izola-Argeta
-
-Round 28    (May 8)
-Šmartno ob Paki   0-2 Nafta
-Koroška Dravograd 1-1 Svoboda
-Supernova Triglav 1-1 Dravinja
-Izola-Argeta      0-1 Livar
-Rudar Velenje     4-0 Aluminij
-Factor            3-0 Krško
-
-Round 29    (May 15)
-Krško             0-0 Izola-Argeta
-Dravinja          1-1 Koroška Dravograd
-Livar             3-0 Šmartno ob Paki
-Aluminij          1-3 Factor
-Svoboda           0-1 Rudar Velenje
-Nafta             3-1 Supernova Triglav
-
-Round 30    (May 22)
-Šmartno ob Paki   1-4 Krško
-Koroška Dravograd 2-2 Nafta
-Supernova Triglav 0-1 Livar
-Izola-Argeta      0-2 Factor
-Rudar Velenje     2-1 Dravinja
-Svoboda           1-1 Aluminij
-
-Round 31    (May 25-26)
-Krško             0-0 Supernova Triglav
-Livar             1-1 Koroška Dravograd
-Factor            4-0 Šmartno ob Paki
-Dravinja          2-1 Svoboda
-Aluminij          5-2 Izola-Argeta
-Nafta             1-1 Rudar Velenje
-
-Round 32    (May 29)
-Šmartno ob Paki   1-1 Izola-Argeta
-Koroška Dravograd 0-1 Krško
-Supernova Triglav 3-0 Factor
-Dravinja          0-5 Aluminij
-Rudar Velenje     3-1 Livar
-Svoboda           1-1 Nafta
-
-Round 33    (June 5)
-Aluminij          6-1 Šmartno ob Paki
-Krško             2-3 Rudar Velenje
-Factor            0-1 Koroška Dravograd
-Izola-Argeta      1-3 Supernova Triglav
-Livar             0-1 Svoboda
-Nafta             1-0 Dravinja
-
-Final Table:
-
- 1. Rudar Velenje           33 23  3  7  76-40  72  Promoted  (Velenje)  
- 2. Nafta                   33 20 10  3  67-28  70  Promoted  (Lendava)
- -------------------------------------------------
- 3. Svoboda                 33 18  7  8  52-33  61  (Ljubljana)
- 4. Dravinja                33 18  4 11  43-36  58  (Slovenske Konjice)
- 5. Koroška Dravograd       33 15  9  9  55-43  54  (Dravograd)
- 6. Livar                   33 15  4 14  48-38  49  (Ivančna Gorica)
- 7. Aluminij                33 14  5 14  68-51  47  (Kidričevo)
- 8. Supernova Triglav       33 12 10 11  50-39  46  (Kranj)
- 9. Factor                  33 12  2 19  49-58  38  (Ljubljana)
-10. Krško                   33 11  5 17  46-59  38  (Krško)
-11. Izola-Argeta            33  4  7 22  25-71  19  (Izola)
-12. Šmartno ob Paki         33  2  2 29  25-108  5  [-3]  (Šmartno ob Paki)
-
-NB: Šmartno had 3 points deducted
-
-NB: due to the forced relegation of Olimpija, Mura and Ljubljana from the
-    first level, Nafta were promoted automatically (otherwise they would
-    have played off against Koper)
-
-
-3. SNL Vzhod (Eastern Group)
-
-Final Table:
-
- 1. Zavrc                   26 16  7  3  72-21  55  Promoted
---------------------------------------------------
- 2. Paloma Sladki vrh       26 17  4  5  54-31  55
- 3. Veržej                  26 14  6  6  57-25  48
- 4. Stojnci                 26 14  4  8  65-41  46
- 5. Pohorje                 26 12  9  5  36-23  45
- 6. Holermous Ormož         26 10  8  8  44-38  38
- 7. Tišina                  26 10  6 10  40-35  36
- 8. Crenšovci               26  9  7 10  42-51  34
- 9. Kovinar Štore           26  8 10  8  37-44  34
-10. Križevci                26  8  6 12  41-49  30
-11. Železnicar              26  8  6 12  35-45  30
-12. Šmarje pri Jelšah       26  6  7 13  29-45  25
---------------------------------------------------
-13. Šoštanj                 26  4  2 20  28-74  14  Relegated
-14. Bistrica                26  3  4 19  30-88  13  Relegated
-
-3. SNL Zahod (Western Group)
-
-Final Table:
-
- 1. ŠD Šencur               26 18  2  6  55-28  56  Promoted
---------------------------------------------------
- 2. NK Radomlje             26 11 11  4  41-34  44
- 3. NK Zarica               26 11  8  7  53-42  41
- 4. NK Jesenice             26  9 13  4  42-30  40
- 5. NK Dob                  26  9 11  6  48-35  38
- 6. NK Brda Dobrovo         26  9 10  7  47-35  37
- 7. NK Krka                 26  9  7 10  40-51  34
- 8. ND Adria                26  7 10  9  40-41  31
- 9. NK Kolpa                26  8  7 11  40-53  31
-10. NK Korte Avtoplus       26  8  7 11  45-59  31
-11. NK Jadran Dekani        26  7  8 11  42-47  29
-12. ND Slovan               26  5 11 10  28-37  26
---------------------------------------------------
-13. ŠD Bilje                26  7  5 14  35-46  26  Relegated
-14. NK Portorož-Piran       26  5  8 13  32-50  23  Relegated
-
-Promoted: Bonifika and Ihan; Bihof did not obtain license,
-                             Alpina declined promotion
-
-
-
-
-2003/04.
-
-
-2005/06.
-
-
-list of final tables.
-
-
-list of champions.
-
-
-list of cup winners.
-
-
-list of super cup finals.
- 
-
-
-About this document
-
-Prepared and maintained by Jan Schoenmakers, Karel Stokkermans and Antonio Zea for the Rec.Sport.Soccer Statistics Foundation
-
-Authors: Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com), Karel Stokkermans (karel@rsssf.com) and Antonio Zea (ZJA70@aol.com) 
-Last updated: 22 Aug 2008
-
-(C) Copyright Jan Schoenmakers, Karel Stokkermans, Anthony Zea and RSSSF 2004/08
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.
+*Prepared and maintained by Jan Schoenmakers, Karel Stokkermans and Antonio Zea for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com), Karel Stokkermans (karel@rsssf.com) and Antonio Zea (ZJA70@aol.com) 
+*Last updated: 22 Aug 2008
+*(C) Copyright Jan Schoenmakers, Karel Stokkermans, Anthony Zea and RSSSF 2004/08
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

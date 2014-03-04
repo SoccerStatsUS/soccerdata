@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablese/ecua00.html
-Season: 2000 Apertura
+Season: 2000 
 Competition: Ecuadorian Serie A
+
+Stage: Apertura
 
 * 1.Olmedo                 18  8  6  4 18-14 30  Qualified
 * 2.Aucas                  18  8  5  5 20-17 29  Qualified
@@ -268,7 +270,9 @@ Date: 6/21/2000
 *Top-3 qualify for Hexagonal Final
 
 
-Season: 2000 Clausura
+Season: 2000 
+
+Stage: Clausura
 
 * 1.Emelec                 18 10  2  6 36-25 32  Qualified
 * 2.El Nacional            18 10  3  5 34-24 30  Qualified  [*]

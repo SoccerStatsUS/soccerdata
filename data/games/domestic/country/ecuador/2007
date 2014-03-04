@@ -2,7 +2,10 @@ BlockSource: http://www.rsssf.com/tablese/ecua07.html
 Competition: Ecuadorian Serie A
 Transform: name-title
 
-Season: 2007 First Stage
+Season: 2007 
+
+Stage: 1
+*First Stage
 
 *NB: in 2007, only 1 champion will be crowned (winners of Liguilla Final involving
 *    the top-3 of Apertura and top-3 of Clausura)
@@ -410,7 +413,9 @@ Date: 6/13/2007
 *    Winner of Primera Etapa qualify to Copa Sudaméricana 2007
 *NB: no mid-season promotion/relegation
 
-Season: 2007 Second Stage
+Season: 2007 
+
+Stage: 2
 *Segunda Etapa (Second Stage)
 
 * 1.LDU de Quito           18 10  3  5 28-11  33  Qualified
@@ -802,7 +807,8 @@ Melinton GUERRERO 27, Carlos Alberto QUIÑONEZ 63;
 *    the bottom team of the top level to be relegated to Serie B 2008.
 
 
-Season: 2007 Liguilla
+Season: 2007 
+Stage: Liguilla
 * Final
 
 * 1.LDU de Quito           10  7  2  1 13- 4  27  [4]  Champions

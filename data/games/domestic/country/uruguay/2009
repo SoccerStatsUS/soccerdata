@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru2010.html
 Competition: Uruguayan Primera Division
-Season: 2009-2010 Apertura
+Season: 2009-2010 
 home-first
+
+Stage: Apertura
 
 * 1.C Nacional dF                 15 13  0  2  36-11  36  [-3]  Apertura winners
 * 2.Liverpool FC                  15  8  5  2  31-14  29
@@ -475,7 +477,8 @@ Date: 12/13/2009
 *16.CA Fénix                      15  1  3 11  10-26   6
 *NB: Nacional 3 points deducted
 
-Season: 2009-2010 Clausura
+Season: 2009-2010 
+Stage: Clausura
 
 * 1.CA Peñarol                    15 14  1  0  40-15  43  Clausura winners
 * 2.CA Cerro                      15  9  2  4  28-18  29

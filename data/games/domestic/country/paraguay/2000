@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para00.html
 Competition: Paraguayan Primera División
-Season: 2000 Apertura
+Season: 2000 
+
+Stage: Apertura
 
 * 1.Olimpia                18 11  5  2 38-20 38  
 * 2.Sol de América         18  9  5  4 27-21 32 
@@ -338,7 +340,9 @@ Date: 7/9/2000
 *NB: Sol won a playoff against Guarani for 2nd place
 
 
-Season: 2000 Clausura
+Season: 2000 
+
+Stage: Clausura
 
 * 1.Olimpia                 9  4  4  1 14- 6 16  
 * 2.12 de Octubre Itaugua   9  3  6  0 14- 8 15

@@ -1,6 +1,9 @@
 BlockSource: http://www.rsssf.com/tablese/ecua02.html
-Season: 2002 Apertura
+Season: 2002 
 Competition: Ecuadorian Serie A
+
+
+Stage: Apertura
 
 * 1.Barcelona              18 10  4  4 22-13 34  Qualified
 * 2.Aucas                  18 10  2  6 25-27 32  Qualified
@@ -258,7 +261,9 @@ Date: 5/19/2002
 *[*] Espoli play their home matches in Ibarra this season
 
 
-Season: 2002 Clausura
+Season: 2002 
+
+Stage: Clausura
 
 * 1.Deportivo Quito        18 10  7  1 34-21 37  Qualified
 * 2.El Nacional            18  9  7  2 29-14 34  Qualified

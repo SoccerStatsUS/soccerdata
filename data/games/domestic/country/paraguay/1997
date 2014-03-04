@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para97.html
 Competition: Paraguayan Primera División
-Season: 1997 Apertura
+Season: 1997 
+
+Stage: Apertura
 
 * 1.Olimpia                12  7  4/0  1  22- 7  29
 * 2.Cerro Porteño          12  7  1/0  4  23-15  23
@@ -289,7 +291,9 @@ Round: Final
 Fernández; Aceval?
 
 
-Season: 1997 Clausura
+Season: 1997 
+
+Stage: Clausura
  
 * 1.Cerro Corá             12  8  1/2  1  22-11  28
 * 2.Guaraní                12  6  1/4  1  22-16  24

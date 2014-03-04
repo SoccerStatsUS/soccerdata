@@ -42,13 +42,13 @@ Metalurh Zaporizhzhja         0-3 Shakhtar Donets'k
 Borysfen Boryspil             0-2 Dnipro Dnipropetrovs'k    
   [Venhlynsky 21, Rykun 66]                             Att: 5,000
 Karpaty L'viv                 4-1 Kryvbas Kryvyj Rih         
-  [Mizin 56, 64, 88pen, Benio 71; Benio 44og]           Att: 8,000
+  [Mizin 56, 64, (pk) 88, Benio 71; Benio 44og]           Att: 8,000
 Zirka Kirovohrad              1-0 Arsenal Kyiv                  
   [Yevmeniev 46]                                        Att: 7,500
 Illichivets' Mariupol'        1-1 Tavrija Simferopol'     
   [Babych 78; Haidash 72]                               Att: 7,600
 Metalurh Donets'k             2-2 Vorskla-Naftohaz Poltava   
-  [Dranov 68, Demetradze 71pen; Omokoh 48, Pavlovic 58] Att: 2,500
+  [Dranov 68, Demetradze (pk) 71; Omokoh 48, Pavlovic 58] Att: 2,500
 Obolon' Kyiv                  1-0 Chornomorets' Odesa              
   [Mischenko 81]                                        Att: 2,000
 
@@ -130,7 +130,7 @@ Obolon' Kyiv                  1-0 Metalurh Zaporizhzhja
 Date: 8/3/2003
 
 Dynamo Kyiv                   2-1 Dnipro Dnipropetrovs'k 
-  [Alessandro '55, Gavrancic '90pen; Rotan '51]         Att: 15,000
+  [Alessandro '55, Gavrancic (pk) '90; Rotan '51]         Att: 15,000
 Karpaty L'viv                 1-2 Shakhtar Donets'k 
   [Kabanov '84; Tymoschuk '13, Brandao '44]             Att: 18,000
 Zirka Kirovohrad              1-1 Borysfen Boryspil 
@@ -141,9 +141,9 @@ Metalurh Donets'k             4-2 Arsenal Kyiv
   [Jamarauli '13, Tkachenko '45+1, Shyschenko '87, Oleksienko '90;
    Riabykh '88, Apkhazava '90+3]                        Att: 2,500
 Vorskla-Naftohaz Poltava      1-1 Chornomorets' Odesa 
-  [Omokoh '37pen; Kosyrin '25pen]                       Att: 8,900
+  [Omokoh (pk) '37; Kosyrin (pk) '25]                       Att: 8,900
 Tavrija Simferopol'           1-0 Volyn' Luts'k 
-  [Edmar '88pen]                                        Att: 5,000
+  [Edmar (pk) '88]                                        Att: 5,000
 
 Round: 6 
 
@@ -179,7 +179,7 @@ Zirka Kirovohrad              0-1 Shakhtar Donets'k
 Illichivets' Mariupol'        1-1 Metalurh Zaporizhzhja
   [Babych '90+; Tselykh '90+1]                          Att: 8,300
 Metalurh Donets'k             3-1 Dnipro Dnipropetrovs'k
-  [Mladenovic '3, Demetradze '38pen, '66; Rusol '40]    Att: 3,000
+  [Mladenovic '3, Demetradze (pk) '38, '66; Rusol '40]    Att: 3,000
 Vorskla-Naftohaz Poltava      1-1 Kryvbas Kryvyj Rih
   [Idahor '34; Selezniov '6]                            Att: 9,000
 Tavrija Simferopol'           1-1 Arsenal Kyiv
@@ -217,7 +217,7 @@ Metalurh Zaporizhzhja         1-4 Metalurh Donets'k
 Borysfen Boryspil             1-1 Illichivets' Mariupol' 
   [Kovalchuk '10; Yesyn '34]                            Att: 1,500
 Zirka Kirovohrad              1-1 Obolon' Kyiv 
-  [Pavlyk '13pen; Kobzar '36]                           Att: 4,000
+  [Pavlyk (pk) '13; Kobzar '36]                           Att: 4,000
 
 Round: 9 
 
@@ -240,7 +240,7 @@ Vorskla-Naftohaz Poltava      1-0 Metalurh Zaporizhzhja
 Volyn' Luts'k                 2-0 Kryvbas Kryvyj Rih 
   [Sachko '65, '76]                                     Att: 6,000
 Chornomorets' Odesa           1-1 Arsenal Kyiv 
-  [Kosyrin '73pen; Ostrovsky '32]                       Att: 12,500
+  [Kosyrin (pk) '73; Ostrovsky '32]                       Att: 12,500
 
 Date: 9/21/2003
 
@@ -250,7 +250,7 @@ Dynamo Kyiv                   2-0 Zirka Kirovohrad
 Round: 10 
 [Sep 26]
 Obolon' Kyiv                  0-4 Dynamo Kyiv
-  [Gavrancic '24pen, Shatskikh '29, '55, Husiev '50]    Att: 2,500 
+  [Gavrancic (pk) '24, Shatskikh '29, '55, Husiev '50]    Att: 2,500 
 [Sep 27]
 Kryvbas Kryvyj Rih            3-3 Chornomorets' Odesa 
   [Kolchyn '11og, Sheveliukhin '28, Rymshyn '64;
@@ -265,10 +265,10 @@ Zirka Kirovohrad              2-2 Illichivets' Mariupol'
 Shakhtar Donets'k             2-1 Arsenal Kyiv 
   [Aghahowa '10, Zubov '38; Okoduwa '16]                Att: 22,000 
 Karpaty L'viv                 0-2 Metalurh Donets'k 
-  [Demetradze '86pen, Oleksienko '90+3]                 Att: 8,000 
+  [Demetradze (pk) '86, Oleksienko '90+3]                 Att: 8,000 
 [Sep 29]
 Dnipro Dnipropetrovs'k        5-1 Volyn' Luts'k 
-  [Rozhon '40og, Venhlynsky '55pen, '73, 
+  [Rozhon '40og, Venhlynsky (pk) '55, '73, 
    Kostyshyn '57, Rykun '74; Radchenko '62og]           Att: 5,500 
 
 Round: 11 
@@ -276,7 +276,7 @@ Round: 11
 Date: 10/4/2003
 
 Illichivets' Mariupol'        1-1 Obolon' Kyiv 
-   [Anikeiev '18pen; Mischenko '32]                     Att: 8,500
+   [Anikeiev (pk) '18; Mischenko '32]                     Att: 8,500
 Metalurh Donets'k             1-0 Zirka Kirovohrad 
    [Shyschenko '85]                                     Att: 3,000 
 Vorskla-Naftohaz Poltava      0-0 Karpaty L'viv         Att: 5,300
@@ -285,7 +285,7 @@ Tavrija Simferopol'           1-2 Borysfen Boryspil
 Volyn' Luts'k                 1-0 Metalurh Zaporizhzhja 
    [Sachko '72]                                         Att: 5,500 
 Chornomorets' Odesa           2-1 Dnipro Dnipropetrovs'k 
-   [Kyrlyk '38, Miterev '82pen; Nazarenko '77]          Att: 13,000 
+   [Kyrlyk '38, Miterev (pk) '82; Nazarenko '77]          Att: 13,000 
 Arsenal Kyiv                  2-0 Kryvbas Kryvyj Rih
    [Kotov '58og, Omelianchuk '79]                       Att: 2,500 
 
@@ -344,7 +344,7 @@ Round: 14
 Date: 11/1/2003
 
 Dynamo Kyiv                   2-1 Vorskla-Naftohaz Poltava 
-   [Rincon '26, Gavrancic '86pen; Idahor '55]           Att: 3,500 
+   [Rincon '26, Gavrancic (pk) '86; Idahor '55]           Att: 3,500 
 
 Date: 11/2/2003
 
@@ -359,7 +359,7 @@ Karpaty L'viv                 1-1 Chornomorets' Odesa
 Zirka Kirovohrad              1-0 Volyn' Luts'k
    [Postolatiev '83]                                    Att: 1,500  
 Illichivets' Mariupol'        2-2 Metalurh Donets'k 
-   [Kryvoshyienko '18, Anikeiev '43pen; 
+   [Kryvoshyienko '18, Anikeiev (pk) '43; 
     Demetradze '80, Oleksienko '88]                     Att: 8,500 
 
 Date: 11/3/2003
@@ -422,7 +422,7 @@ Vorskla-Naftohaz Poltava      1-3  Dynamo Kyiv
 Dnipro Dnipropetrovs'k        1-0  Shakhtar Donets'k          
    [Rykun 88']                                          Att: 24,000
 Kryvbas Kryvyj Rih            1-0  Metalurh-Zap. Zaporizhzhja
-   [Salakhovic '16pen]                                  Att: 10,500 
+   [Salakhovic (pk) '16]                                  Att: 10,500 
 Arsenal Kyiv                  2-0  Borysfen Boryspil
    [Kutarba 50', Nahorniak 82']                         Att: 2,500 
 Chornomorets' Odesa           1-0  Karpaty L'viv 

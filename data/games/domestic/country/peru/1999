@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesp/peru99.html
 Competition: Peruvian Primera División
-Season: 1999 Apertura
+Season: 1999 
+Stage: Apertura
 
 *Primera División
 *
@@ -546,7 +547,8 @@ Date: 6/20/1999
 *Note: IMI F.C. is for [International Marine Inc.].
 
 
-Season: 1999 Clausura
+Season: 1999 
+Stage: Clausura
 
 * 1. Alianza Lima           22 14  5  3  47-18  47  Clausura Champions
 * 2. Universitario          22 12  6  4  44-24  42

@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablese/ecua98.html
 Competition: Ecuadorian Serie A
-Season: 1998 Apertura
+Season: 1998 
+
+Stage: Apertura
 
 * 1.LDU Quito              22 11  5/1  5 40-27  44  [Quito]
 * 2.Emelec                 22 10  4/4  4 40-28  42  [Guayaquil]
@@ -520,7 +522,9 @@ Date: 9/13/1998
 *                Panamá -3, Deportivo (Cuenca) -4.
 
 
-Season: 1998 Clausura
+Season: 1998 
+
+Stage: Clausura
 
 
 *Hexagonal 1

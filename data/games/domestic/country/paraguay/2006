@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para06.html
 Competition: Paraguayan Primera División
-Season: 2006 Apertura
+Season: 2006 
+
+Stage: Apertura
 
 * 1.Libertad               20 13  3  4  42-20 42  Apertura Champions
 * 2.Cerro Porteño          20 12  4  4  36-22 40
@@ -544,7 +546,9 @@ Date: 6/3/2006
 *11.Fernando de la Mora    20  3  3 14  21-47 12
 
 
-Season: 2006 Clausura
+Season: 2006 
+
+Stage: Clausura
 
 * 1.Cerro Porteño          20 16  4  0  35-10 52  Clausura Champions
 * 2.Libertad               20 12  5  3  35-20 41

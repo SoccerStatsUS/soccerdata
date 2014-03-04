@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesp/peru00.html
 Competition: Peruvian Primera División
-Season: 2000 Apertura
+Season: 2000 
+Stage: Apertura
 
 * 1. Universitario          22 13  7  2  39-20  46  Apertura Winners
 * 2. Sport Boys             22 11  6  5  36-25  39
@@ -535,7 +536,8 @@ Date: 7/9/2000
 *Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
 *
 *
-*Season: 2000 Clausura
+*Season: 2000
+Stage: Clausura
 *
 * 1. Universitario          22 17  3  2  55-23  54  Clausura Winners
 * 2. Sporting Cristal       22 15  5  2  48-24  50

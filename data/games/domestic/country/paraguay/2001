@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para01.html
 Competition: Paraguayan Primera División
-Season: 2001 Apertura
+Season: 2001 
+
+Stage: Apertura
 
 * 1.Libertad                9  6  2  1 16- 8 20
 * 2.Sportivo Luqueño        9  6  1  2 26-14 19
@@ -284,7 +286,9 @@ Leonardo (pk) 17, Lidio Benítez (og) 82, Virgilio Ferreira 89;
 
 
 
-Season: 2001 Clausura
+Season: 2001 
+
+Stage: Clausura
 
 * 1.Cerro Porteño           9  5  2  2 14- 7 17
 * 2.Libertad                9  4  4  1 12- 4 16

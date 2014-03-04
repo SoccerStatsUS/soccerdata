@@ -348,7 +348,7 @@ Date: 10/27/2000
 Date: 10/28/2000
 
 ; Petrolul      ; 3-0; Gloria
-  Costescu 36, Todoran (pk) 39, Todoran 79
+  Costescu 36, Todoran (pk) 39, Todoran 79;
 
 ; Bacau         ; 1-1; Foresta
   R.Ciobanu (pk) 11 ; Pacurar 77
@@ -737,7 +737,7 @@ Date: 5/6/2001
   Coman 45, Mitrovic 70 ; Pancu (pk) 16
 
 ; Astra         ; 3-0; Steaua         
-  Mihalache 29, Mihalache (pk) 43, Craciun 58
+  Mihalache 29, Mihalache (pk) 43, Craciun 58;
 
 Round: 25
 Date: 5/12/2001
@@ -823,7 +823,7 @@ Round: 28
 Date: 5/26/2001
 
 ; Steaua        ; 5-0; Otelul
-  Raducanu (pk) 44, Raducanu 75, Raducanu 90, Trica 56, Lita 71
+  Raducanu (pk) 44, Raducanu 75, Raducanu 90, Trica 56, Lita 71;
 
 ; Craiova       ; 2-0; Petrolul
   Domocos 3, I.Savu 27;
@@ -947,7 +947,7 @@ Date: 6/13/2001
 *Medias          1-3 0-2 0-1 0-0 2-2 2-1 1-2 1-0 0-0 0-1 3-0 0-0 1-1 0-0 1-1 xxx
 
 
-Promotion/Relegation Playoffs
+Stage: Promotion/Relegation Playoffs
 
 *First Legs 
 Date: 6/20/2001
@@ -961,9 +961,9 @@ Date: 6/20/2001
 *Second Legs 
 Date: 6/24/2001
 
-; Bacau         ; 2-1; Farul        
-*[aet, 3-4 pen]
+; Bacau         ; 2-1 (aet); Farul        
   Rat 13, Ciobanu (pk) 73 ; Abaluta 80
+Penalty kicks: 3-4
  
 ; Foresta       ; 2-1; Baia Mare    
   Gavrilescu 8, Pacurar 15 ; Ciocan 31

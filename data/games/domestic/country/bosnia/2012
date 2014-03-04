@@ -1,32 +1,27 @@
-http://www.rsssf.com/tablesb/bih2013.html
+BlockSource: http://www.rsssf.com/tablesb/bih2013.html
 
 Bosnia-Hercegovina 2012/13
 
-Premijer Liga
-Prva Liga
-Premijer Liga 2012/13
 
-Final Table:
+* 1.NK Željezničar (Sarajevo)        30  20  6  4  48-20  66  Champions
+* 2.FK Sarajevo (Sarajevo)           30  17  9  4  52-19  60
+* 3.FK Borac (Banja Luka)            30  14  9  7  43-25  51  [2 1 1 0 3-1 4]
+* 4.NK Čelik (Zenica)                30  14  9  7  44-30  51  [2 0 1 1 1-3 1]
+* 5.FK Olimpik (Sarajevo)            30  13 10  7  34-26  49
+* 6.NK Široki Brijeg (Široki Brijeg) 30  13  6 11  48-31  45
+* 7.FK Slavija (Istočno Sarajevo)    30  12  7 11  28-28  43
+* 8.FK Leotar (Trebinje)             30  10  9 11  28-39  39
+* 9.HŠK Zrinjski (Mostar)            30  11  6 13  26-42  39
+*10.FK Rudar (Prijedor)              30  10  6 14  37-42  36
+*11.NK Zvijezda (Gradačac)           30  10  6 14  38-44  36
+*12.FK Radnik (Bijeljina)            30   8 11 11  27-35  35
+*13.FK Velež (Mostar)                30   8 10 12  31-34  34
+*14.NK Travnik (Travnik)             30   9  7 14  29-45  34
+*-----------------------------------------------------------
+*15.NK GOŠK (Gabela)                 30   7  9 14  29-42  30  Relegated
+*16.OFK Gradina (Srebrenik)          30   1  6 23  17-57   9  Relegated
 
- 1.NK Željezničar (Sarajevo)        30  20  6  4  48-20  66  Champions
- 2.FK Sarajevo (Sarajevo)           30  17  9  4  52-19  60
- 3.FK Borac (Banja Luka)            30  14  9  7  43-25  51  [2 1 1 0 3-1 4]
- 4.NK Čelik (Zenica)                30  14  9  7  44-30  51  [2 0 1 1 1-3 1]
- 5.FK Olimpik (Sarajevo)            30  13 10  7  34-26  49
- 6.NK Široki Brijeg (Široki Brijeg) 30  13  6 11  48-31  45
- 7.FK Slavija (Istočno Sarajevo)    30  12  7 11  28-28  43
- 8.FK Leotar (Trebinje)             30  10  9 11  28-39  39
- 9.HŠK Zrinjski (Mostar)            30  11  6 13  26-42  39
-10.FK Rudar (Prijedor)              30  10  6 14  37-42  36
-11.NK Zvijezda (Gradačac)           30  10  6 14  38-44  36
-12.FK Radnik (Bijeljina)            30   8 11 11  27-35  35
-13.FK Velež (Mostar)                30   8 10 12  31-34  34
-14.NK Travnik (Travnik)             30   9  7 14  29-45  34
------------------------------------------------------------
-15.NK GOŠK (Gabela)                 30   7  9 14  29-42  30  Relegated
-16.OFK Gradina (Srebrenik)          30   1  6 23  17-57   9  Relegated
-
-Round 1
+Round: 1
 [Aug 4]
 Borac             3-0 Zvijezda          
 Gradina           1-1 GOŠK              
@@ -38,7 +33,7 @@ Sarajevo          0-0 Čelik
 Olimpik           1-1 Rudar             
 Široki Brijeg     0-0 Slavija           
 
-Round 2
+Round: 2
 [Aug 11]
 Čelik             2-0 Velež             
 Gradina           1-1 Olimpik           
@@ -50,7 +45,7 @@ Rudar             1-3 Sarajevo
 Slavija           1-0 Travnik           
 Željezničar       1-0 Borac             
 
-Round 3 [Aug 18]
+Round: 3 [Aug 18]
 Borac             1-2 Slavija           
 Sarajevo          3-1 Gradina           
 Zvijezda          1-4 Željezničar       
@@ -60,7 +55,7 @@ Olimpik           1-0 GOŠK
 Travnik           0-1 Zrinjski          
 Velež             0-1 Rudar             
 
-Round 4
+Round: 4
 [Aug 25]
 Gradina           1-3 Velež             
 Olimpik           0-1 Sarajevo          
@@ -72,7 +67,7 @@ GOŠK              2-3 Željezničar
 Zrinjski          1-0 Borac             
 Slavija           1-0 Zvijezda          
 
-Round 5
+Round: 5
 [Sep 1]
 Borac             1-0 Radnik            
 Leotar            3-0 Gradina           
@@ -84,7 +79,7 @@ Sarajevo          4-0 GOŠK
 Zvijezda          2-0 Zrinjski          
 Široki Brijeg     2-1 Rudar             
 
-Round 6
+Round: 6
 [Sep 15]
 Čelik             1-1 Borac             
 Sarajevo          4-1 Velež             
@@ -96,7 +91,7 @@ Rudar             1-0 Travnik
 GOŠK              0-0 Slavija           
 Radnik            0-0 Zvijezda          
 
-Round 7
+Round: 7
 [Sep 22]
 Zvijezda          1-0 Čelik             
 Leotar            0-3 Sarajevo          
@@ -108,7 +103,7 @@ Borac             4-0 Rudar
 Slavija           1-1 Zrinjski          
 Željezničar       1-1 Radnik            
 
-Round 8
+Round: 8
 [Sep 29]
 Čelik             1-2 Željezničar       
 Gradina           1-3 Borac             
@@ -120,7 +115,7 @@ Sarajevo          2-1 Široki Brijeg
 GOŠK              0-1 Zrinjski          
 Velež             1-1 Leotar            
 
-Round 9 [Oct 6]
+Round: 9 [Oct 6]
 Borac             2-1 Olimpik           
 Zvijezda          5-1 Gradina           
 Zrinjski          2-1 Radnik            
@@ -130,7 +125,7 @@ Slavija           2-1 Čelik
 Travnik           1-0 Sarajevo          
 Željezničar       1-0 Rudar             
 
-Round 10
+Round: 10
 [Oct 20]
 Čelik             2-0 Zrinjski          
 Sarajevo          2-0 Borac             
@@ -142,7 +137,7 @@ Velež             6-0 Travnik
 [Oct 21]
 GOŠK              0-0 Radnik            
 
-Round 11
+Round: 11
 [Oct 27]
 Zvijezda          2-2 Sarajevo          
 Radnik            2-2 Čelik             
@@ -155,7 +150,7 @@ Slavija           2-1 Gradina
 [Nov 15]
 Zrinjski          0-0 Rudar             
 
-Round 12
+Round: 12
 [Nov 3]
 Sarajevo          1-0 Željezničar       
 Gradina           1-2 Zrinjski          
@@ -167,7 +162,7 @@ Velež             2-1 Zvijezda
 [Nov 4]
 GOŠK              0-0 Čelik             
 
-Round 13
+Round: 13
 [Nov 10]
 Borac             0-0 Široki Brijeg     
 Čelik             2-1 Rudar             
@@ -179,7 +174,7 @@ Zrinjski          1-4 Olimpik
 Slavija           0-0 Sarajevo          
 Željezničar       1-0 Velež             
 
-Round 14
+Round: 14
 [Nov 17]
 Gradina           0-1 Čelik             
 Leotar            0-2 Željezničar       
@@ -191,7 +186,7 @@ Velež             0-3 Slavija
 Sarajevo          1-0 Zrinjski          
 GOŠK              1-1 Rudar             
 
-Round 15
+Round: 15
 [Nov 24]
 Borac             1-0 GOŠK              
 Čelik             1-1 Olimpik           
@@ -203,7 +198,7 @@ Zrinjski          2-1 Velež
 Slavija           0-0 Leotar            
 Željezničar       2-1 Široki Brijeg     
 
-Round 16
+Round: 16
 [Mar 2]
 Čelik             3-2 Sarajevo          
 Zvijezda          1-1 Borac             
@@ -215,7 +210,7 @@ GOŠK              1-0 Gradina
 Zrinjski          2-0 Leotar            
 Slavija           0-1 Široki Brijeg     
 
-Round 17
+Round: 17
 [Mar 9]
 Borac             2-0 Željezničar       
 Sarajevo          3-0 Rudar             
@@ -227,7 +222,7 @@ Velež             2-1 Čelik
 [Mar 10]
 Široki Brijeg     3-0 Zrinjski          
 
-Round 18
+Round: 18
 [Mar 16]
 Čelik             1-1 Leotar            
 Gradina           0-0 Sarajevo          
@@ -239,7 +234,7 @@ Radnik            4-0 Široki Brijeg
 Slavija           1-2 Borac             
 Željezničar       2-1 Zvijezda          
 
-Round 19 [Mar 30]
+Round: 19 [Mar 30]
 Borac             5-1 Zrinjski          
 Sarajevo          3-1 Olimpik           
 Zvijezda          1-1 Slavija           
@@ -249,7 +244,7 @@ Travnik           2-1 Radnik
 Velež             1-1 Gradina           
 Željezničar       2-0 GOŠK              
 
-Round 20
+Round: 20
 [Apr 6]
 Čelik             2-1 Travnik           
 Gradina           0-1 Leotar            
@@ -261,7 +256,7 @@ GOŠK              0-2 Sarajevo
 Zrinjski          1-2 Zvijezda          
 Slavija           1-2 Željezničar       
 
-Round 21 [Apr 10]
+Round: 21 [Apr 10]
 Borac             2-0 Čelik             
 Zvijezda          1-1 Radnik            
 Leotar            1-0 Olimpik           
@@ -271,7 +266,7 @@ Travnik           0-1 Rudar
 Velež             0-0 Sarajevo          
 ZŽeljezničar       0-0 Zrinjski          
 
-Round 22
+Round: 22
 [Apr 13]
 Čelik             4-1 Zvijezda          
 Gradina           0-1 Travnik           
@@ -283,7 +278,7 @@ Sarajevo          0-0 Leotar
 GOŠK              0-1 Velež             
 Zrinjski          2-1 Slavija           
 
-Round 23
+Round: 23
 [Apr 20]
 Borac             1-0 Gradina           
 Zvijezda          4-1 Rudar             
@@ -295,7 +290,7 @@ Leotar            0-0 Velež
 Široki Brijeg     2-1 Sarajevo          
 Slavija           1-0 Radnik            
 
-Round 24 [Apr 24]
+Round: 24 [Apr 24]
 Čelik             4-1 Slavija           
 Sarajevo          1-0 Travnik           
 GOŠK              3-1 Leotar            
@@ -305,7 +300,7 @@ Radnik            2-0 Zrinjski
 Rudar             1-3 Željezničar       
 Velež             0-0 Široki Brijeg     
 
-Round 25
+Round: 25
 [Apr 27]
 Zvijezda          0-2 Olimpik           
 Radnik            1-1 GOŠK              
@@ -317,7 +312,7 @@ Zrinjski          0-2 Čelik
 Slavija           3-1 Rudar             
 Travnik           0-0 Velež             
 
-Round 26 [May 4]
+Round: 26 [May 4]
 Čelik             2-2 Radnik            
 Sarajevo          4-1 Zvijezda          
 GOŠK              3-2 Široki Brijeg     
@@ -327,7 +322,7 @@ Olimpik           1-2 Željezničar
 Rudar             4-1 Zrinjski          
 Velež             1-0 Borac             
 
-Round 27 [May 8]
+Round: 27 [May 8]
 Borac             5-0 Leotar            
 Čelik             2-1 GOŠK              
 Zvijezda          1-0 Velež             
@@ -337,7 +332,7 @@ Slavija           0-1 Olimpik
 Travnik           2-1 Široki Brijeg     
 Željezničar       0-0 Sarajevo          
 
-Round 28 [May 11]
+Round: 28 [May 11]
 Sarajevo          1-0 Slavija           
 GOŠK              3-1 Travnik           
 Gradina           1-0 Radnik            
@@ -347,7 +342,7 @@ Rudar             1-1 Čelik
 Široki Brijeg     4-0 Borac             
 Velež             0-0 Željezničar       
 
-Round 29 [May 18]
+Round: 29 [May 18]
 Borac             2-2 Travnik           
 Čelik             2-1 Gradina           
 Zvijezda          2-1 Široki Brijeg     
@@ -357,7 +352,7 @@ Rudar             1-1 GOŠK
 Slavija           2-0 Velež             
 Željezničar       4-0 Leotar            
 
-Round 30 [May 26]
+Round: 30 [May 26]
 Sarajevo          5-0 Radnik            
 GOŠK              0-2 Borac             
 Gradina           0-2 Rudar             
@@ -367,92 +362,30 @@ Olimpik           0-2 Čelik
 Travnik           2-1 Zvijezda          
 Velež             1-1 Zrinjski          
 
-Final Table:
 
- 1.NK Željezničar (Sarajevo)        30  20  6  4  48-20  66  Champions
- 2.FK Sarajevo (Sarajevo)           30  17  9  4  52-19  60
- 3.FK Borac (Banja Luka)            30  14  9  7  43-25  51  [2 1 1 0 3-1 4]
- 4.NK Čelik (Zenica)                30  14  9  7  44-30  51  [2 0 1 1 1-3 1]
- 5.FK Olimpik (Sarajevo)            30  13 10  7  34-26  49
- 6.NK Široki Brijeg (Široki Brijeg) 30  13  6 11  48-31  45
- 7.FK Slavija (Istočno Sarajevo)    30  12  7 11  28-28  43
- 8.FK Leotar (Trebinje)             30  10  9 11  28-39  39
- 9.HŠK Zrinjski (Mostar)            30  11  6 13  26-42  39
-10.FK Rudar (Prijedor)              30  10  6 14  37-42  36
-11.NK Zvijezda (Gradačac)           30  10  6 14  38-44  36
-12.FK Radnik (Bijeljina)            30   8 11 11  27-35  35
-13.FK Velež (Mostar)                30   8 10 12  31-34  34
-14.NK Travnik (Travnik)             30   9  7 14  29-45  34
------------------------------------------------------------
-15.NK GOŠK (Gabela)                 30   7  9 14  29-42  30  Relegated
-16.OFK Gradina (Srebrenik)          30   1  6 23  17-57   9  Relegated
+* 1.NK Željezničar (Sarajevo)        30  20  6  4  48-20  66  Champions
+* 2.FK Sarajevo (Sarajevo)           30  17  9  4  52-19  60
+* 3.FK Borac (Banja Luka)            30  14  9  7  43-25  51  [2 1 1 0 3-1 4]
+* 4.NK Čelik (Zenica)                30  14  9  7  44-30  51  [2 0 1 1 1-3 1]
+* 5.FK Olimpik (Sarajevo)            30  13 10  7  34-26  49
+* 6.NK Široki Brijeg (Široki Brijeg) 30  13  6 11  48-31  45
+* 7.FK Slavija (Istočno Sarajevo)    30  12  7 11  28-28  43
+* 8.FK Leotar (Trebinje)             30  10  9 11  28-39  39
+* 9.HŠK Zrinjski (Mostar)            30  11  6 13  26-42  39
+*10.FK Rudar (Prijedor)              30  10  6 14  37-42  36
+*11.NK Zvijezda (Gradačac)           30  10  6 14  38-44  36
+*12.FK Radnik (Bijeljina)            30   8 11 11  27-35  35
+*13.FK Velež (Mostar)                30   8 10 12  31-34  34
+*14.NK Travnik (Travnik)             30   9  7 14  29-45  34
+*-----------------------------------------------------------
+*15.NK GOŠK (Gabela)                 30   7  9 14  29-42  30  Relegated
+*16.OFK Gradina (Srebrenik)          30   1  6 23  17-57   9  Relegated
 
 Promoted: Mladost (Velika Obarska) and FK Vitez
-Prva Liga
 
-Prva Liga FBiH | Prva Liga RS 
 
-Prva Liga FBiH
-
-Final Table:
-
- 1.NK Vitez                         28  16  7  5  54-24  55  Promoted
------------------------------------------------------------
- 2.Radnički (Lukavac)               28  12  9  7  40-29  45
- 3.Branitelj (Mostar)               28  13  5 10  43-41  44
- 4.FK Rudar (Kakanj)                28  12  6 10  32-25  42
- 5.NK Bratstvo (Gračanica)          28  12  6 10  34-28  42
- 6.FK Sloboda (Tuzla)               28  13  2 13  40-27  41
- 7.Jedinstvo (Bihać)                28  12  5 11  45-33  41
- 8.HNK Čapljina                     28  12  5 11  36-45  41
- 9.NK Iskra (Bugojno)               28  10  7 11  32-33  37
-10.FK Budućnost (Banovići)          28  10  6 12  36-35  36
-11.Podgrmeč (Sanski Most)           28  10  6 12  29-43  36
-12.Troglav (Livno)                  28   9  7 12  30-37  34
------------------------------------------------------------
-13.Bosna (Visoko)                   28   9  6 13  28-37  33  Relegated
-14.FK Goražde                       28   9  5 14  35-46  32  Relegated
-15.FK Krajina (Cazin)               28   8  4 16  25-56  28  Relegated
- -.NK Krajišnik (Velika Kladuša)    withdrew
-
-Prva Liga RS
-
-Final Table:
-
- 1.FK Mladost (Velika Obarska)      26  15  5  6  51-31  50  Promoted
------------------------------------------------------------
- 2.Sloboda (Mrkonjić Grad)          26  12  7  7  35-22  43
- 3.Kozara (Gradiška)                26  13  4  9  42-39  43
- 4.Sloga (Doboj)                    26  12  6  8  46-29  42
- 5.Podrinje (Janja)                 26  12  5  9  44-26  41
- 6.Drina HE (Višegrad)              26  11  4 11  29-31  37
- 7.Modriča                          26  11  3 12  39-39  36
- 8.Sloboda (Novi Grad)              26  11  3 12  32-35  36
- 9.Mladost (Gacko)                  26  10  6 10  33-41  36
-10.Drina (Zvornik)                  26   9  8  9  39-38  35
-11.Sutjeska (Foča)                  26   8  7 11  26-21  31
-12.Rudar (Ugljevik)                 26   9  3 14  30-45  30
------------------------------------------------------------
-13.Borac (Šamac)                    26   7  7 12  28-45  28  Relegation Playoff
------------------------------------------------------------
-14.Ljubić (Prnjavor)                26   5  6 15  27-59  21  Relegated
-
-NB: Crvena Zemlja (Nova Ves) withdrew and were replaced by Ljubić
-
-2011/12.
-
-2013/14.
-
-list of champions.
-
-list of cup winners.
-
-About this document
-
-Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Karel Stokkermans 
-Last updated: 9 Aug 2013
-
-(C) Copyright Karel Stokkermans and RSSSF 2012/13
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 9 Aug 2013
+*(C) Copyright Karel Stokkermans and RSSSF 2012/13
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

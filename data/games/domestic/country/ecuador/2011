@@ -1,6 +1,9 @@
 BlockSource: http://www.rsssf.com/tablese/ecua2011.html
-Season: 2011 Apertura
 Competition: Ecuadorian Serie A
+
+Season: 2011
+
+Stage: 1
 
 *Primera Etapa (First Stage)
 * 1.Emelec                            22  12  8  2  31-15  44  Final
@@ -16,6 +19,8 @@ Competition: Ecuadorian Serie A
 *10.Imbabura SC                       22   6  5 11  25-33  23
 *11.Independiente José Terán          22   4  7 11  29-44  19
 *12.Espoli                            22   3  6 13  22-38  15
+
+Stage: 2
 
 *Segunda Etapa (Second Stage)
 * 1.Deportivo Quito                   22  13  5  4  34-15  44  Final
@@ -48,6 +53,9 @@ Competition: Ecuadorian Serie A
 *------------------------------------------------------------
 *11.Imbabura SC                       44  13  9 22  51-73  48  Relegated
 *12.Espoli                            44   7 10 27  38-73  31  Relegated
+
+
+Stage: Liguilla
 
 Round: Third Place
 

@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru04.html
 Competition: Uruguayan Primera Division
-Season: 2004 Clasificatorio
+Season: 2004
 home-first
+
+Stage: Clasificatorio
 
 *Primera División Profesional 
 *Clasificatorio 2004
@@ -675,7 +677,9 @@ Date: 9/7/2004
 *    play-off with 2 to 4 teams
 
 
-Season: 2004 Apertura
+Season: 2004 
+
+Stage: Apertura
 
 *single round robin between 10 qualified teams, winners play off for
 *championship.
@@ -879,7 +883,9 @@ Date: 10/31/2004
 * 9.Montevideo Wanderers FC        9  1  4  4   7-13   7
 *10.CA Fénix                       9  0  4  5   7-19   4
 
-Season: 2004 Clausura
+Season: 2004 
+
+Stage: Clausura
 
 * 1.Danubio FC                     9  7  1  1  17- 6  22  Clausura Winners
 * 2.Defensor Sporting Club         9  5  4  0  10- 4  19
@@ -1089,7 +1095,9 @@ Date: 12/8/2004
 *10.CA Plaza (Colonia)            27  2 12 13  28-44  18  Pre-Liguilla Playoff
 
 
-Season: 2004 Campeonato
+Season: 2004 
+
+Stage: Campeonato
 
 Round: Final
 
@@ -1129,7 +1137,8 @@ Nacional: Sebastián Viera; Diego Rariz (Fernando Machado 69), Carlos Valdez, Al
 *    Libertadores 2005
 
 
-Season: 2004 Reclasificatorio
+Season: 2004 
+Stage: Reclasificatorio
 
 *double round robin; three teams relegated: the worst Montevideo team,
 *the worst Interior team, and the worst other team in the final table.

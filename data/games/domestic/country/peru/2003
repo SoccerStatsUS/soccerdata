@@ -1,6 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesp/peru03.html
 Competition: Peruvian Primera División
-Season: 2003 Apertura
+Season: 2003 
+Stage: Apertura
 
 
 * 1.Sporting Cristal        22 15  4  3  50-20  49  Apertura winners
@@ -543,7 +544,8 @@ Date: 7/9/2003
 *Alianza Lima and Cienciano qualified.
 
 
-Season: 2003 Clausura
+Season: 2003 
+Stage: Clausura
 
 *Table (matches rounds 16 and 17 not included):
 * 1.Alianza Lima            15 10  4  1  29- 9  34  [n/p, 7-1]

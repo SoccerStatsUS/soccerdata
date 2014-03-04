@@ -3,7 +3,7 @@ Season: 2008
 Competition: K-League
 
 * 1.Suwon Samsung Bluewings          26 17  3  6  46-24  54
-* 2.FC Seoul                         26 15  9  2  44-25  54
+* 2.FC FC Seoul                         26 15  9  2  44-25  54
 * 3.Seongnam Ilhwa Chunma            26 15  6  5  45-21  51
 * 4.Ulsan Hyundai Horang-i           26 14  7  5  39-26  49
 * 5.Pohang Steelers                  26 13  5  8  43-34  44
@@ -25,7 +25,7 @@ Date: 3/8/2008
 
 Date: 3/9/2008
 
-; Seoul    ; 1-1; Ulsan
+; FC Seoul    ; 1-1; Ulsan
 ; Busan    ; 2-1; Jeonbuk
 ; Suwon    ; 2-0; Daejeon
 ; Gyeongnam; 4-2; Daegu
@@ -36,7 +36,7 @@ Round: 2
 Date: 3/15/2008
 
 ; Daejeon  ; 0-2; Jeju
-; Jeonbuk  ; 1-2; Seoul
+; Jeonbuk  ; 1-2; FC Seoul
 ; Ulsan    ; 3-0; Pohang 
 
 Date: 3/16/2008
@@ -58,7 +58,7 @@ Date: 3/29/2008
 
 Date: 3/30/2008
 
-; Seoul    ; 3-1; Daegu
+; FC Seoul    ; 3-1; Daegu
 
 Round: 4
 Date: 4/5/2008
@@ -72,7 +72,7 @@ Date: 4/6/2008
 ; Seongnam ; 4-0; Chunnam
 ; Jeonbuk  ; 1-1; Pohang
 ; Daejeon  ; 0-0; Incheon
-; Gwangju Sangmu Phoenix  ; 0-1; Seoul
+; Gwangju Sangmu Phoenix  ; 0-1; FC Seoul
 
 Round: 5
 Date: 4/12/2008
@@ -83,7 +83,7 @@ Date: 4/12/2008
 
 Date: 4/13/2008
 
-; Seoul    ; 0-2; Suwon
+; FC Seoul    ; 0-2; Suwon
 ; Incheon  ; 0-2; Seongnam
 ; Pohang   ; 0-0; Daejeon
 ; Chunnam  ; 1-0; Gyeongnam
@@ -98,7 +98,7 @@ Date: 4/19/2008
 
 Date: 4/20/2008
 
-; Seoul    ; 3-1; Jeju      
+; FC Seoul    ; 3-1; Jeju      
 ; Gyeongnam; 2-1; Incheon   
 ; Suwon    ; 2-0; Ulsan     
 
@@ -106,7 +106,7 @@ Round: 7
 Date: 4/26/2008
 
 ; Ulsan    ; 0-0; Seongnam
-; Gyeongnam; 1-1; Seoul     
+; Gyeongnam; 1-1; FC Seoul     
 ; Daejeon  ; 2-0; Jeonbuk   
 ; Busan    ; 1-2; Pohang    
 ; Suwon    ; 2-1; Jeju      
@@ -120,7 +120,7 @@ Round: 8
 Date: 5/3/2008
 
 ; Seongnam ; 2-3; Pohang   
-; Chunnam  ; 3-3; Seoul     
+; Chunnam  ; 3-3; FC Seoul     
 
 Date: 5/4/2008
 
@@ -143,7 +143,7 @@ Date: 5/10/2008
 Date: 5/11/2008
 
 ; Busan    ; 1-2; Daejeon
-; Seoul    ; 2-1; Incheon
+; FC Seoul    ; 2-1; Incheon
 ; Pohang   ; 3-1; Gwangju Sangmu Phoenix
 ; Chunnam  ; 2-2; Ulsan
 
@@ -156,7 +156,7 @@ Date: 5/18/2008
 
 ; Busan    ; 1-3; Seongnam
 ; Daegu    ; 2-4; Jeju
-; Daejeon  ; 1-1; Seoul
+; Daejeon  ; 1-1; FC Seoul
 ; Jeonbuk  ; 2-1; Chunnam
 ; Gwangju Sangmu Phoenix  ; 2-5; Suwon
 ; Ulsan    ; 2-1; Incheon
@@ -173,7 +173,7 @@ Date: 5/24/2008
 Date: 5/25/2008
 
 ; Chunnam  ; 2-3; Daegu
-; Seongnam ; 1-1; Seoul
+; Seongnam ; 1-1; FC Seoul
 
 Round: 12
 Date: 6/28/2008
@@ -182,7 +182,7 @@ Date: 6/28/2008
 ; Chunnam  ; 0-2; Suwon
 ; Incheon  ; 3-0; Gwangju Sangmu Phoenix
 ; Daegu    ; 1-1; Daejeon
-; Seoul    ; 2-1; Busan
+; FC Seoul    ; 2-1; Busan
 
 Date: 6/29/2008
 
@@ -196,7 +196,7 @@ Date: 7/5/2008
 ; Gyeongnam; 1-0; Jeonbuk
 ; Seongnam ; 4-1; Daegu
 ; Suwon    ; 2-0; Incheon
-; Seoul    ; 4-1; Pohang
+; FC Seoul    ; 4-1; Pohang
 
 Date: 7/6/2008
 
@@ -207,7 +207,7 @@ Round: 14
 Date: 7/12/2008
 
 ; Chunnam  ; 2-0; Pohang
-; Ulsan    ; 0-0; Seoul
+; Ulsan    ; 0-0; FC Seoul
 ; Incheon  ; 0-0; Jeju
 ; Daegu    ; 1-4; Gyeongnam
 ; Seongnam ; 3-0; Gwangju Sangmu Phoenix
@@ -223,7 +223,7 @@ Date: 7/19/2008
 ; Pohang   ; 3-1; Ulsan
 ; Busan    ; 0-4; Daegu
 ; Gyeongnam; 1-1; Gwangju Sangmu Phoenix
-; Seoul    ; 2-2; Jeonbuk
+; FC Seoul    ; 2-2; Jeonbuk
 
 Date: 7/20/2008
 
@@ -235,7 +235,7 @@ Round: 16
 Date: 8/23/2008
 
 ; Seongnam ; 0-0; Jeju      
-; Daegu    ; 1-2; Seoul     
+; Daegu    ; 1-2; FC Seoul     
 ; Gyeongnam; 0-1; Suwon     
 ; Incheon  ; 2-1; Pohang    
 ; Daejeon  ; 0-1; Chunnam   
@@ -252,7 +252,7 @@ Date: 8/30/2008
 ; Chunnam  ; 0-1; Seongnam
 ; Ulsan    ; 3-2; Daegu
 ; Incheon  ; 2-1; Daejeon
-; Seoul    ; 3-1; Gwangju Sangmu Phoenix
+; FC Seoul    ; 3-1; Gwangju Sangmu Phoenix
 
 Date: 8/31/2008
 
@@ -265,7 +265,7 @@ Date: 9/13/2008
 ; Busan    ; 2-0; Chunnam 
 ; Daegu    ; 1-4; Pohang
 ; Daejeon  ; 1-2; Seongnam
-; Jeju     ; 0-0; Seoul
+; Jeju     ; 0-0; FC Seoul
 ; Ulsan    ; 2-1; Suwon
 ; Incheon  ; 0-0; Gyeongnam
 ; Jeonbuk  ; 2-1; Gwangju Sangmu Phoenix
@@ -281,7 +281,7 @@ Date: 9/20/2008
 
 Date: 9/21/2008
 
-; Seoul    ; 3-1; Gyeongnam
+; FC Seoul    ; 3-1; Gyeongnam
 ; Jeonbuk  ; 3-1; Daejeon
 
 Round: 21
@@ -294,7 +294,7 @@ Date: 9/27/2008
 
 Date: 9/28/2008
 
-; Seoul    ; 3-0; Chunnam
+; FC Seoul    ; 3-0; Chunnam
 ; Jeju     ; 0-1; Ulsan
 ; Gwangju Sangmu Phoenix  ; 1-4; Daegu
 
@@ -302,7 +302,7 @@ Round: 22
 Date: 10/4/2008
 
 ; Seongnam ; 3-1; Gyeongnam 
-; Incheon  ; 2-2; Seoul
+; Incheon  ; 2-2; FC Seoul
 ; Daejeon  ; 2-2; Busan
 
 Date: 10/5/2008
@@ -323,7 +323,7 @@ Date: 10/18/2008
 Date: 10/19/2008
 
 ; Chunnam  ; 2-1; Jeonbuk
-; Seoul    ; 1-0; Daejeon
+; FC Seoul    ; 1-0; Daejeon
 ; Incheon  ; 0-3; Ulsan
 
 Round: 24
@@ -335,7 +335,7 @@ Date: 10/25/2008
 Date: 10/26/2008
 
 ; Busan    ; 0-1; Gyeongnam
-; Seoul    ; 1-0; Seongnam
+; FC Seoul    ; 1-0; Seongnam
 ; Daegu    ; 1-2; Chunnam
 ; Gwangju Sangmu Phoenix  ; 1-0; Jeju
 ; Pohang   ; 0-0; Suwon
@@ -346,7 +346,7 @@ Date: 10/29/2008
 ; Gyeongnam; 2-1; Chunnam
 ; Daejeon  ; 0-3; Pohang
 ; Daegu    ; 1-3; Jeonbuk
-; Suwon    ; 0-1; Seoul
+; Suwon    ; 0-1; FC Seoul
 ; Busan    ; 3-0; Jeju
 ; Gwangju Sangmu Phoenix  ; 1-2; Ulsan
 ; Seongnam ; 0-0; Incheon
@@ -362,13 +362,13 @@ Date: 11/1/2008
 Date: 11/2/2008
 
 ; Jeju     ; 0-1; Pohang
-; Busan    ; 2-0; Seoul
+; Busan    ; 2-0; FC Seoul
 ; Gwangju Sangmu Phoenix  ; 0-1; Incheon
 
 Round: 26 
 Date: 11/9/2008
 
-; Pohang   ; 1-2; Seoul
+; Pohang   ; 1-2; FC Seoul
 ; Chunnam  ; 0-0; Jeju
 ; Ulsan    ; 1-0; Busan     
 ; Daejeon  ; 0-0; Gwangju Sangmu Phoenix   
@@ -377,7 +377,7 @@ Date: 11/9/2008
 ; Daegu    ; 0-1; Seongnam
 
 * 1.Suwon Samsung Bluewings          26 17  3  6  46-24  54
-* 2.FC Seoul                         26 15  9  2  44-25  54
+* 2.FC FC Seoul                         26 15  9  2  44-25  54
 * 3.Seongnam Ilhwa Chunma            26 15  6  5  45-21  51
 * 4.Ulsan Hyundai Horang-i           26 14  7  5  39-26  49
 * 5.Pohang Steelers                  26 13  5  8  43-34  44
@@ -412,15 +412,15 @@ Date: 11/26/2008
 Round: Semifinal 
 Date: 11/30/2008
 
-; Seoul    ; 4-2 (aet); Ulsan  
+; FC Seoul    ; 4-2 (aet); Ulsan  
 
 Round: Final
 
 *First Leg
-12/3/2008; Seoul    ; 1-1; Suwon
+12/3/2008; FC Seoul    ; 1-1; Suwon
 
 *Second Leg
-12/7/2008; Suwon    ; 2-1; Seoul
+12/7/2008; Suwon    ; 2-1; FC Seoul
 
 
 

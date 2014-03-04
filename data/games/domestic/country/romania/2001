@@ -311,7 +311,7 @@ Date: 10/20/2001
 ; Astra         ; 0-0; Otelul 
 
 ; Farul         ; 5-3; Craiova 
-  I.Barbu 14, L.Mihai 50, L. Mihai 73, (pk) 85, Senin 77; Danciu 55, Manta 83, Dobre 89
+  I.Barbu 14, L.Mihai 50, L. Mihai 73, L. Mihai (pk) 85, Senin 77; Danciu 55, Manta 83, Dobre 89
  
 ; Sportul stud. ; 1-3; Bacau 
   Paduret (pk) 26; Nivaldo 44, F.Petcu 61, Cursaru 70
@@ -341,7 +341,7 @@ Date: 10/27/2001
   Dica 45;
  
 ; Petrolul      ; 3-0; Ceahlaul 
-  Todoran (pk) 33, Todoran 75, Orlando 63
+  Todoran (pk) 33, Todoran 75, Orlando 63;
  
 ; Otelul        ; 3-0; Brasov 
   Tofan (pk) 17, Gurita 38, Bastina 86;
@@ -444,7 +444,7 @@ Date: 11/24/2001
 Date: 11/25/2001
 
 ; Rapid         ; 1-3; Ceahlaul 
-  Pancu 88; Solomon 44, 45, C.Ilie (pk) 83
+  Pancu 88; Solomon 44, Solomon 45, C.Ilie (pk) 83
  
 ; Sportul stud. ; 3-1; Steaua 
   Bucur 62, Chihaia 89, Mazilu 90; Neaga 33
@@ -456,7 +456,7 @@ Date: 12/1/2001
   P.Marin 60; G.Coman (og) 6
  
 ; Arges         ; 5-1; Sportul stud. 
-  Vladoiu 1, Vladoiu 24, (pk) 81, G.Tudor 19, A.Iordache 85; Ciubotariu 67
+  Vladoiu 1, Vladoiu 24, Vladoiu (pk) 81, G.Tudor 19, A.Iordache 85; Ciubotariu 67
  
 ; Petrolul      ; 1-1; Farul 
   Senin (og) 88; Teican 68
@@ -506,7 +506,7 @@ Date: 3/10/2002
 *[awarded of 0-3 loss to both revoked]
     
 ; Rapid         ; 6-0; UMT
-  Pancu 9, Pancu 34, Pancu 67, Pancu 85, Soava 35, D.Serban 42
+  Pancu 9, Pancu 34, Pancu 67, Pancu 85, Soava 35, D.Serban 42;
 
 
 Round: 17
@@ -722,7 +722,7 @@ Date: 5/1/2002
   C.Niculescu 10, F.Petre 90;
 
 ; Rapid         ; 5-0; Gloria         
-  Illyes 29, Illyes 72, Sumudica (pk) 50, Sumudica 89, Bratu 63
+  Illyes 29, Illyes 72, Sumudica (pk) 50, Sumudica 89, Bratu 63;
 
 ; Brasov        ; 2-0; Arges          
   Vacsko 11, Dani 30;
@@ -734,7 +734,7 @@ Date: 5/1/2002
 ;  Neaga 85
 
 ; Farul         ; 2-3; Bacau          
-  I.Barbu 15, Teican 86; Cursaru 59, Badoi 62, 90
+  I.Barbu 15, Teican 86; Cursaru 59, Badoi 62, Badoi 90
 
 ; Sportul stud. ; 1-2; Astra          
   Maxim 52; Movila 10, A.Dumitru 76
@@ -887,7 +887,7 @@ Round: 30
 Date: 6/1/2002
 
 ; Dinamo        ; 4-0; Brasov
-  C.Niculescu 8, C. Niculescu 56, Kirita 73, Danciulescu 83
+  C.Niculescu 8, C. Niculescu 56, Kirita 73, Danciulescu 83;
 
 ; Rapid         ; 2-1; Otelul
   Iencsi (pk) 41, Bratu 80; Ogararu 53
@@ -901,14 +901,14 @@ Date: 6/1/2002
 ; Farul         ; 2-1; Petrolul
   Tanase 21, Lungu 33; Aldea 44
 
-; Sportul xtud. ; 3-3; Arges
+; Sportul stud. ; 3-3; Arges
   Irimia 29, Bucur (pk) 55, Chihaia 88; Dica 5, Dica 74, Balasa 77
 
 ; UMT           ; 0-1; Ceahlaul
 ;  Axinia (pk) 24
 
 ; Bacau         ; 2-0; Gloria
-  Cursaru 62, (pk) 90;
+  Cursaru 62, Cursaru (pk) 90;
 
 
 

@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para04.html
 Competition: Paraguayan Primera División
-Season: 2004 Apertura
+Season: 2004 
+
+Stage: Apertura
 
 * 1.Cerro Porteño          18 12  5  1  31-13 41  Apertura Champions
 * 2.Libertad               18 11  5  2  44-13 38  Copa Sudamericana
@@ -435,7 +437,9 @@ Date: 8/4/2004
 *Cerro Porteño qualify to Copa Sudamericana 2004
 
 
-Season: 2004 Clausura
+Season: 2004 
+
+Stage: Clausura
 
 * 1.Cerro Porteño          18 12  2  4  30-13 38  Clausura Champions
 * 2.Libertad               18  9  4  5  27-22 31

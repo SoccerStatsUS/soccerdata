@@ -84,7 +84,7 @@ Date: 7/27/2008
 ; Karpaty L'viv                ; 1-1; Shakhtar Donets'k           ; 22800
   Zeniov 56; Fernandinho 81                                      
 
-;; Metalurh-Zap.; Zaporizhzhja    0-0 FC Kharkiv                        ; 8150
+; Metalurh-Zap. Zaporizhzhja   ; 0-0; FC Kharkiv                        ; 8150
 
 Date: 7/30/2008
 
@@ -117,7 +117,7 @@ Date: 8/3/2008
 
 ; Tavrija Simferopol'          ; 1-3; Vorskla Poltava; 6000
   Lubenovic 16; S.Kravchenko 20, Curri 31, Kulakov 42
-'          
+
 ; Shakhtar Donets'k            ; 3-0; Illichivets' Mariupol; 18500
   Srna 5, Selezniov 83, Brandao 85;                             
 
@@ -144,7 +144,7 @@ Date: 8/10/2008
 
 ; Metalist Kharkiv             ; 0-0; FC L'viv                          ; 18200                  
 
-;; Metalurh-Zap.; Zaporizhzhja    1-0 Tavrija Simferopol'         ; 5500
+; Metalurh-Zap. Zaporizhzhja   ; 1-0; Tavrija Simferopol'         ; 5500
   Siliuk 81;                                                       
 
 ; Arsenal Kyiv                 ; 1-1; Zorja Luhans'k              ; 1500
@@ -184,7 +184,7 @@ Round: 6
 Date: 8/22/2008
 
 ; Metalist Kharkiv             ; 2-0; Illichivets' Mariupol; 16000
-  Edmar 28, Coelho 58                                            
+  Edmar 28, Coelho 58;
 
 Date: 8/23/2008
 
@@ -195,16 +195,16 @@ Date: 8/23/2008
   Bartulovic 8; Batista 47                           
             
 ; Vorskla Poltava              ; 1-0; Shakhtar Donets'k; 13000
-  S.Kravchenko 5                                              
+  S.Kravchenko 5 ;                                             
     
 ; Karpaty L'viv                ; 0-0; Dnipro Dnipropetrovs'k            ; 9700
 
 ; Arsenal Kyiv                 ; 0-2; Dynamo Kyiv; 4500
-  Bangoura 2, Ghioane 79                              
+;  Bangoura 2, Ghioane 79                              
            
 Date: 8/24/2008
 
-;; Metalurh-Zap.; Zaporizhzhja    2-1 FC L'viv                    ; 5000
+; Metalurh-Zap. Zaporizhzhja   ; 2-1; FC L'viv                    ; 5000
   Arzhanov 11, Siliuk 90+1; Khudzik 36                          
 
 ; Metalurh Donets'k            ; 2-1; Tavrija Simferopol'         ; 3500
@@ -222,7 +222,7 @@ Date: 8/30/2008
   Homeniuk 86; Kosyrin 54, Kosyrin 59, Vitti 68                        
 
 ; Illichivets' Mariupol        ; 1-3; Vorskla Poltava; 7500
-  D.Vorobei (pk) 64, Sachko 34, Markoski 69, Juricic 77   
+  D.Vorobei (pk) 64; Sachko 34, Markoski 69, Juricic 77   
        
 ; FC Kharkiv                   ; 1-1; Karpaty L'viv; 2300
   Batista 66; Furta 83                                  
@@ -246,7 +246,7 @@ Date: 9/1/2008
 Round: 8 
 Date: 9/19/2008
 
-;; Metalurh-Zap.; Zaporizhzhja    2-0 Illichivets' Mariupol; 5500
+; Metalurh-Zap. Zaporizhzhja   ; 2-0; Illichivets' Mariupol; 5500
   Hodin 15, Siliuk (pk) 52;
  
 Date: 9/20/2008
@@ -331,7 +331,7 @@ Date: 10/5/2008
 ; Chornomorets' Odesa          ; 0-3; Shakhtar Donets'k; 9000 
 ;  Hladkiy 28, Luiz Adriano 90+1, Luiz Adriano 90+3                       
     
-;; Metalurh-Zap.; Zaporizhzhja    1-0 Metalist Kharkiv            ; 10200
+; Metalurh-Zap. Zaporizhzhja   ; 1-0; Metalist Kharkiv            ; 10200
   Hodin 55;                                                        
 
 Round: 11 
@@ -368,11 +368,11 @@ Date: 10/19/2008
 Round: 12
 Date: 10/24/2008
 
-; Arsenal Kyiv                 ; 0-0; Vorskla Poltava                    Att: 1100
+; Arsenal Kyiv                 ; 0-0; Vorskla Poltava                    ; 1100
 
 Date: 10/25/2008
 
-Chornomorets' Odesa           1-1 Dnipro Dnipropetrovs'k ; 6000
+; Chornomorets' Odesa          ; 1-1; Dnipro Dnipropetrovs'k ; 6000
   Kosyrin 14; A.Vorobei 7                                     
    
 ; Kryvbas Kryvyj Rih           ; 0-0; Illichivets' Mariupol              ; 1500
@@ -387,7 +387,7 @@ Chornomorets' Odesa           1-1 Dnipro Dnipropetrovs'k ; 6000
 
 Date: 10/26/2008
 
-; FC Kharkiv                   ; 0-0; Shakhtar Donets'k                  Att: 8000
+; FC Kharkiv                   ; 0-0; Shakhtar Donets'k                  ; 8000
 
 ; Metalurh Donets'k            ; 0-2; Metalist Kharkiv            ; 3500
 ;  Trisovic 85, Koniushenko 88                                    
@@ -396,7 +396,7 @@ Round: 13
 Date: 11/1/2008
 
 ; Metalist Kharkiv             ; 2-0; Chornomorets' Odesa         ; 13000
-  Devic 21, Devic 70                                                   
+  Devic 21, Devic 70;                                                   
 
 ; Illichivets' Mariupol        ; 1-1; FC Kharkiv                  ; 7000
   Lima 69; Platon 7                                              
@@ -404,11 +404,11 @@ Date: 11/1/2008
 ; Shakhtar Donets'k            ; 3-1; Zorja Luhans'k              ; 13000
   Moreno 23, Moreno 80, Willian 69; Xhihani 3                         
 
-;; Metalurh-Zap.; Zaporizhzhja    2-1 Arsenal Kyiv                ; 10500
+; Metalurh-Zap. Zaporizhzhja   ; 2-1; Arsenal Kyiv                ; 10500
   Hodin 67, Siliuk 90+2; Oliynyk 4                              
 
 ; Dynamo Kyiv                  ; 4-0; Karpaty L'viv               ; 7000
-  Milevsky 18, Bangoura 25, Bangoura 53, Aliev (pk) 45
+  Milevsky 18, Bangoura 25, Bangoura 53, Aliev (pk) 45;
 
 
 Date: 11/2/2008
@@ -456,12 +456,12 @@ Date: 11/9/2008
 Round: 15 
 Date: 11/14/2008
 
-;; Metalurh-Zap.; Zaporizhzhja    1-3 Chornomorets' Odesa; 9000
+; Metalurh-Zap. Zaporizhzhja   ; 1-3; Chornomorets' Odesa; 9000
   Alozi 90+1; Karytska 55, Kosyrin 68, Kosyrin 78                   
    
 Date: 11/15/2008
 
-; Vorskla Poltava              ; 0-0; Kryvbas Kryvyj Rih                 Att: 6500
+; Vorskla Poltava              ; 0-0; Kryvbas Kryvyj Rih                 ; 6500
 
 ; Illichivets' Mariupol        ; 3-3; Tavrija Simferopol'; 6000
   Yaroshenko (pk) 16, Sytnyk 18, Kryvosheienko (pk) 37; Donets 42, Idahor 60, Markovic 70                                        
@@ -489,7 +489,7 @@ Date: 11/21/2008
 ; Shakhtar Donets'k            ; 2-0; FC L'viv; 10000
   Hai 54, Adriano 60;                                
              
-;; Metalurh-Zap.; Zaporizhzhja    0-0 Kryvbas Kryvyj Rih                 ; 5000
+; Metalurh-Zap. Zaporizhzhja   ; 0-0; Kryvbas Kryvyj Rih                 ; 5000
 
 ; Metalist Kharkiv             ; 2-1; Zorja Luhans'k; 8500
   Gancarzyk 8, Fomin 43; Tsimakuridze (pk) 52
@@ -552,7 +552,7 @@ Date: 2/27/2009
     
 Date: 2/28/2009
 
-;; Metalurh-Zap.; Zaporizhzhja    2-1 Zorja Luhans'k; 8400
+; Metalurh-Zap. Zaporizhzhja   ; 2-1; Zorja Luhans'k; 8400
   Siliuk 45, Nevmyvaka 90+4; Xhihani 29                 
         
 ; Vorskla Poltava              ; 1-0; Tavrija Simferopol'; 5190
@@ -613,7 +613,7 @@ Date: 3/8/2009
 Round: 20
 Date: 3/13/2009
 
-; Vorskla Poltava              ; 0-0; FC L'viv                           Att: 5500
+; Vorskla Poltava              ; 0-0; FC L'viv                           ; 5500
 
 Date: 3/14/2009
 
@@ -626,14 +626,14 @@ Date: 3/14/2009
 ; Chornomorets' Odesa          ; 3-1; FC Kharkiv                  ; 4200
   Levyha 14, Levyha 28, Bondarenko 72; Kozoriz 85                     
 
-; Dnipro Dnipropetrovs'k       ; 0-0; Illichivets' Mariupol              Att: 8200
+; Dnipro Dnipropetrovs'k       ; 0-0; Illichivets' Mariupol              ; 8200
 
 Date: 3/15/2009
 
 ; Metalist Kharkiv             ; 0-3; Shakhtar Donets'k; 21000
 ;  Fernandinho (pk) 17, Luiz Adriano 45, Chyhrynsky 90+2       
     
-;; Metalurh-Zap.; Zaporizhzhja    1-3 Dynamo Kyiv                 ; 12000
+; Metalurh-Zap. Zaporizhzhja   ; 1-3; Dynamo Kyiv                 ; 12000
   Hodin 3; Ninkovic 59, Milevsky 70, Correa 75                 
 
 Date: 4/22/2009
@@ -672,12 +672,12 @@ Date: 3/22/2009
 Date: 4/9/2009
 
 ; Illichivets' Mariupol        ; 0-2; Metalist Kharkiv; 4000
-;  Devic 70; Obradovic 73                                   
+;  Devic 70, Obradovic 73                                   
       
 Round: 22 
 Date: 4/4/2009
 
-; Arsenal Kyiv                 ; 0-0; FC L'viv                           Att: 1200 
+; Arsenal Kyiv                 ; 0-0; FC L'viv                           ; 1200 
 
 ; Chornomorets' Odesa          ; 0-2; Tavrija Simferopol'; 4500
  ; Kovpak (pk) 39, Idahor 79                                 
@@ -693,7 +693,7 @@ Date: 4/4/2009
         
 Date: 4/5/2009
 
-;; Metalurh-Zap.; Zaporizhzhja    1-0 Shakhtar Donets'k; 12800
+; Metalurh-Zap. Zaporizhzhja   ; 1-0; Shakhtar Donets'k; 12800
   Nevmyvaka 5;                                                 
     
 ; Metalist Kharkiv             ; 3-2; Dnipro Dnipropetrovs'k; 19500
@@ -745,7 +745,7 @@ Date: 4/18/2009
 ; Vorskla Poltava              ; 0-1; Metalist Kharkiv; 8000
 ;  Devic 89                                                  
       
-;; Metalurh-Zap.; Zaporizhzhja    0-1 Dnipro Dnipropetrovs'k; 12000
+; Metalurh-Zap. Zaporizhzhja   ; 0-1; Dnipro Dnipropetrovs'k; 12000
 ;  Homeniuk 90                                                     
 
 ; Karpaty L'viv                ; 1-1; Zorja Luhans'k; 5800
@@ -821,7 +821,7 @@ Date: 5/3/2009
 ; Kryvbas Kryvyj Rih           ; 0-1; Shakhtar Donets'k; 10000
 ;  Selezniov 71                                                
     
-;; Metalurh-Zap.; Zaporizhzhja    1-0 Vorskla Poltava; 5500
+; Metalurh-Zap. Zaporizhzhja   ; 1-0; Vorskla Poltava; 5500
   Arzhanov 66;                                              
        
 Round: 27
@@ -846,7 +846,7 @@ Date: 5/9/2009
        
 Date: 5/10/2009
 
-;; Metalurh-Zap.; Zaporizhzhja    0-0 Karpaty L'viv                      Att: 6000
+; Metalurh-Zap. Zaporizhzhja   ; 0-0; Karpaty L'viv                      ; 6000
 
 ; Shakhtar Donets'k            ; 3-0; FC Kharkiv ; 10000
   Selezniov 28, Willian 33, Duljaj 77;             
@@ -889,7 +889,7 @@ Date: 5/23/2009
 ; Dnipro Dnipropetrovs'k       ; 4-1; FC Kharkiv; 11900
   Lysytsky 20, Bielik 39, Kalynychenko 62, Shakhov 73; Kasianov 16                                                   
   
-;; Metalurh-Zap.; Zaporizhzhja    2-1 Metalurh Donets'k ; 4700
+; Metalurh-Zap. Zaporizhzhja   ; 2-1; Metalurh Donets'k ; 4700
   Kaskov 6, Kalonas 65; Fabinho 67                          
     
 ; Illichivets' Mariupol        ; 1-0; Zorja Luhans'k; 5000
@@ -925,7 +925,7 @@ Date: 5/26/2009
 ; Karpaty L'viv                ; 2-1; FC L'viv; 16000
   Kobin 28, Kuznetsov 64; Romaniuk 54              
              
-; Metalurh Donets'k            ; 0-0; Arsenal Kyiv                         Att: 2000
+; Metalurh Donets'k            ; 0-0; Arsenal Kyiv                         ; 2000
 
 ; Dynamo Kyiv                  ; 1-0; Shakhtar Donets'k; 15800
   Milevsky 79;                                                 

@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/para99.html
 Competition: Paraguayan Primera División
-Season: 1999 Apertura
+Season: 1999 
+
+Stage: Apertura
 
  
 * 1.Olimpia                10  8  2  0 26- 8 26
@@ -191,7 +193,9 @@ Round: Final
 *Olimpia wins Apertura 1999.
 
 
-Season: 1999 Clausura
+Season: 1999 
+
+Stage: Clausura
 
 * 1.Cerro Porteño          10  7  1  2 25- 8 22
 * 2.Sportivo Luqueño       10  5  3  2 22-14 18

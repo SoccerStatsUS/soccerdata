@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesu/uru08.html
 Competition: Uruguayan Primera Division
-Season: 2007-2008 Apertura
+Season: 2007-2008 
 home-first
+
+Stage: Apertura
 
 * 1.Defensor Sporting Club        15 11  2  2  26-10  35  Apertura winners
 * 2.Danubio FC                    15  9  4  2  34-14  31
@@ -480,7 +482,9 @@ Date: 12/9/2007
 *NB: Peñarol to have 3 points deducted at Apertura 2008 (start 2008/09 season)
 
 
-Season: 2007-2008 Clausura
+Season: 2007-2008 
+
+Stage: Clausura
 
 * 1.CA River Plate                15 12  1  2  48-17  37  Playoff
 * 2.CA Peñarol                    15 12  1  2  40-15  37  Playoff
@@ -634,7 +638,7 @@ Date: 3/16/2008
 ; Liverpool  ; 1-1; Wanderers
   Carlos Aguiar 9; Manuel Abreu 13
 
-; Tacauarembó; 1-1; Fénix
+; Tacuarembó; 1-1; Fénix
   Franco Sosa (pk) 63; Gabriel Álvez 43
 
 ; Rampla     ; 1-0; Central

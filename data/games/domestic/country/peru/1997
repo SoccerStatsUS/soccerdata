@@ -1,6 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesp/peru97.html
 Competition: Peruvian Primera División
-Season: 1997 Apertura
+Season: 1997 
+
+Stage: Apertura
 
 
 * 1.Alianza Lima           13  9  3  1  27- 9  30
@@ -192,7 +194,8 @@ Date: 5/24/1997
 *14.La Loretana            13  2  5  6   9-18  11
 *Alianza win Apertura 1997.
 
-Season: 1997 Clausura
+Season: 1997 
+Stage: Clausura
 
 * 1.Alianza Lima           13 10  2  1  33- 7  32
 * 2.Universitario          13  8  4  1  19- 7  28 
