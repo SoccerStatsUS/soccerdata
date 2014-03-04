@@ -233,10 +233,83 @@ l = [
         'city': 'Arad, Romania',
         'founded': datetime.datetime(1945, 4, 18),
         },
+
+    {
+        'name': 'CF Brăila',
+        'city': 'Brăila, Romania',
+        'founded': 1922,
+        },
+
+    {
+        'name': 'Concordia Chiajna',
+        'city': 'Chiajna, Romania',
+        'founded': 1957,
+        },
+
+    {
+        'name': 'CS Otopeni',
+        'city': 'Otopeni, Romania',
+        'founded': 2001,
+        'dissolved': 2013,
+        },
+
+    {
+        'name': 'CS Turnu Severin',
+        'city': 'Drobeta-Turnu Severin, Romania',
+        'founded': 2007,
+        'dissolved': 2013,
+        },
+
+    {
+        'name': 'Corvinul Hunedoara',
+        'city': 'Hunedoara, Romania',
+        'founded': 1921,
+        },
+
+    {
+        'name': 'FC Inter Sibiu',
+        'city': 'Sibiu, Romania',
+        'founded': 1982,
+        'dissolved': 2000,
+        },
+
     {
         'name': 'Sportul Studențesc',
         'city': 'Bucharest, Romania',
         'founded': datetime.datetime(1916, 2, 11),
+        },
+
+    {
+        'name': 'Victoria Brăneşti',
+        'city': 'Brăneşti, Romania',
+        'founded': 1968,
+        'dissolved': 2012,
+        },
+
+    {
+        'name': 'Olimpia Satu Mare',
+        'city': 'Satu Mare, Romania',
+        'founded': 1921,
+        },
+
+
+    {
+        'name': 'Gloria Bistriţa',
+        'city': 'Bistrița, Romania',
+        'founded': datetime.datetime(1922, 7, 6),
+        },
+
+    {
+        'name': 'Flacăra Moreni',
+        'city': 'Moreni, Romania',
+        'founded': 1922,
+        },
+
+    {
+        'name': 'Voinţa Sibiu',
+        'city': 'Sibiu, Romania',
+        'founded': 2007,
+        'dissolved': 2012,
         },
 
     {
@@ -277,6 +350,33 @@ l = [
         },
 
     {
+        'name': 'Jiul Petroșani',
+        'city': 'Petroșani, Romania',
+        'founded': 1919,
+        },
+
+    {
+        'name': 'Internaţional Curtea de Argeş',
+        'city': 'Curtea de Argeș, Romania',
+        'founded': 2000,
+        'dissolved': 2011,
+        },
+
+    {
+        'name': 'Foresta Fălticeni',
+        'city': 'Fălticeni, Romania',
+        'founded': 1954,
+        'dissolved': 2003,
+        },
+
+    {
+        'name': 'UM Timișoara',
+        'city': 'Timișoara, Romania',
+        'founded': 1960,
+        'dissolved': 2008,
+        },
+
+    {
         'name': 'Internațional Curtea de Argeș',
         'city': 'Curtea de Argeș, Romania',
         'founded': 2000,
@@ -290,11 +390,25 @@ l = [
         'dissolved': 2010,
         },
 
+
     {
         'name': 'Gloria Bistrița',
         'city': 'Bistrița, Romania',
         'founded': datetime.datetime(1922, 7, 6),
         },
+
+    {
+        'name': 'FCM Bacău',
+        'city': 'Bacău, Romania',
+        'founded': 1950,
+        },
+
+    {
+        'name': 'Astra Giurgiu',
+        'city': 'Giurgiu, Romania',
+        'founded': 1934,
+        },
+
 
     {
         'name': 'Pandurii Târgu Jiu',
@@ -701,6 +815,18 @@ l = [
         'name': 'VfL Bochum',
         'founded': 1848,
         'city': 'Bochum, Germany',
+        },
+
+    {
+        'name': 'Carl Zeiss Jena',
+        'founded': datetime.datetime(1903, 5, 13),
+        'city': 'Jena, Germany',
+        },
+
+    {
+        'name': 'Erzgebirge Aue',
+        'founded': datetime.datetime(1946, 3, 4),
+        'city': 'Aue, Germany',
         },
 
 
@@ -1730,12 +1856,6 @@ l = [
         },
 
 
-    {
-        'name': 'FK Bodø/Glimt',
-        'founded': datetime.datetime(1916, 9, 19),
-        'city': 'Bodo, Norway',
-        },
-
 
     {
         'name': 'Lyn Oslo',
@@ -2342,6 +2462,38 @@ l = [
         'city': 'Bucharest, Romania',
         },
 
+    {
+        'name': 'FC Braşov',
+        'founded': 1936,
+        'city': 'Braşov, Romania',
+        },
+
+    {
+        'name': 'FC Caracal',
+        'founded': 1949,
+        'city': 'Caracal, Romania',
+        },
+
+    {
+        'name': 'Unirea Alba Iulia',
+        'founded': 1924,
+        'dissolved': 2013,
+        'city': 'Alba Iulia, Romania',
+        },
+
+    {
+        'name': 'Viitorul Constanța',
+        'founded': 2009,
+        'city': 'Constanța, Romania',
+        },
+
+    {
+        'name': 'Oțelul Galați',
+        'founded': 1964,
+        'city': 'Galați, Romania',
+        },
+
+
 
 
     # Israel
@@ -2498,6 +2650,12 @@ l = [
         'name': 'Aris Bonnevoie',
         'city': 'Luxembourg City, Luxembourg',
         'founded': 1922,
+        },
+
+    {
+        'name': 'Progrès Niedercorn',
+        'city': 'Niederkorn, Luxembourg',
+        'founded': 1919,
         },
 
 
@@ -3261,6 +3419,12 @@ l = [
         },
 
     {
+        'name': 'Wiener Sport-Club',
+        'founded': 1883,
+        'city': 'Vienna, Austria',
+        },
+
+    {
         'name': 'LASK Linz',
         'founded': datetime.datetime(1908, 8, 7),
         'city': 'Linz, Austria',
@@ -3297,6 +3461,12 @@ l = [
         'name': 'FC Locarno',
         'founded': 1906,
         'city': 'Locarno, Switzerland',
+        },
+
+    {
+        'name': 'FC La Chaux-de-Fonds',
+        'founded': 1894,
+        'city': 'La Chaux-de-Fonds, Switzerland',
         },
 
     {
@@ -3469,6 +3639,12 @@ l = [
         'city': 'Prague, Czech Republic',
         },
 
+    {
+        'name': 'SK Benešov',
+        'founded': 1913,
+        'city': 'Benešov, Czech Republic',
+        },
+
 
 
     {
@@ -3623,6 +3799,12 @@ l = [
         'name': 'MFK Karviná',
         #'founded': 2003,
         'city': 'Karviná, Czech Republic',
+        },
+
+    {
+        'name': 'Blšany',
+        'founded': 1946,
+        'city': 'Blšany, Czech Republic',
         },
 
     # Turkey
@@ -5515,9 +5697,15 @@ l = [
         },
 
     {
-        'name': 'St Patrick\'s Athletic',
+        'name': 'St. Patrick\'s Athletic',
         'founded': 1929,
         'city': 'Dublin, Ireland',
+        },
+
+    {
+        'name': 'Waterford United',
+        'founded': 1930,
+        'city': 'Waterford, Ireland',
         },
 
     {

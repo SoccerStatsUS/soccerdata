@@ -23,6 +23,7 @@ Pan-Pacific Championship; PPC; soccer; domestic; League; 2; World; Earth
 Copa Aldao; CA; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 Copa Tie; CT; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 
+South American Club Championship; SACC; soccer; domestic; Cup; 1; Confederation; CONMEBOL
 Copa Libertadores; CL; soccer; domestic; Cup; 1; Confederation; CONMEBOL
 
 Copa Sudamericana; CS; soccer; domestic; Cup; 2; Confederation; CONMEBOL
@@ -120,19 +121,21 @@ Prva HNL; CRO1; soccer; domestic; League; 1; Country; Croatia
 League of Ireland; IRL1; soccer; domestic; League; 1; Country; Ireland
 
 FA Cup; ENG-FA; soccer; domestic; Cup; 1; Country; England
-Copa del Rey; ESP-Cup; soccer; domestic; Cup; 1; Country; Spain
-DFB-Pokal; GER-Cup; soccer; domestic; Cup; 1; Country; Germany
-Coupe de France; FRA-Cup; soccer; domestic; Cup; 1; Country; France
-Scottish League Cup; SCO-LC; soccer; domestic; Cup; 1; Country; Scotland
-KNVB Cup; NED-Cup; soccer; domestic; Cup; 1; Country; Netherlands
-
-Supercopa de España; SPA-SC; soccer; domestic; Cup; 1; Country; Spain
-
-UEFA Super Cup; USC; soccer; domestic; Cup; 2; Confederation; UEFA
+Copa del Rey; ESP1C; soccer; domestic; Cup; 1; Country; Spain
+DFB-Pokal; GER1C; soccer; domestic; Cup; 1; Country; Germany
+Coupe de France; FRA1C; soccer; domestic; Cup; 1; Country; France
+Scottish League Cup; SCO1C; soccer; domestic; Cup; 1; Country; Scotland
+KNVB Cup; NED1C; soccer; domestic; Cup; 1; Country; Netherlands
 
 Football League Cup; ENG-LC; soccer; domestic; Cup; 1; Country; England
 
+UEFA Super Cup; USC; soccer; domestic; Supercup; 2; Confederation; UEFA
+
 Copa MX; CopaMX; soccer; domestic; Cup; 1; Country; Mexico
+Campeón de Campeones; MEX-CdC; soccer; domestic; Supercup; 1; Country; Mexico
+Supercopa de España; SPA-SC; soccer; domestic; Supercup; 1; Country; Spain
+Community Shield; ENG-CS; soccer; domestic; Supercup; 1; Country; Mexico
+
 
 National Association Foot Ball League; NAFBL; soccer; domestic; League; 2; Country; United States
 Southern New England Soccer League; SNESL; soccer; domestic; League; 2; Country; United States

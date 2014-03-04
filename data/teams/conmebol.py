@@ -22,11 +22,35 @@ l = [
         'city': 'Asuncion, Paraguay',
         },
 
+    {
+        'name': 'Club Universal',
+        'founded': datetime.datetime(1917, 5, 14),
+        'city': 'Encarnacion, Paraguay',
+        },
+
+    {
+        'name': 'Club Silvio Pettirossi',
+        'founded': datetime.datetime(1926, 3, 11),
+        'city': 'Asuncion, Paraguay',
+        },
+
+    {
+        'name': 'Resistencia SC',
+        'founded': datetime.datetime(1917, 12, 27),
+        'city': 'Asuncion, Paraguay',
+        },
+
 
     {
         'name': 'Sport Colombia',
         'founded': datetime.datetime(1924, 11, 1),
         'city': 'Fernando de la Mora, Paraguay',
+        },
+
+    {
+        'name': 'Atlético Colegiales',
+        'founded': 1977,
+        'city': '4 Mojones, Paraguay',
         },
 
     {
@@ -38,6 +62,17 @@ l = [
     {
         'name': 'U América FC',
         'founded': 1980,
+        'city': 'Lima, Peru',
+        },
+
+    {
+        'name': 'Lima CFC',
+        'founded': 1859,
+        'city': 'Lima, Peru',
+        },
+
+    {
+        'name': 'Sport Juan Bielovucic',
         'city': 'Lima, Peru',
         },
 
@@ -63,6 +98,12 @@ l = [
         'name': 'Tembetary',
         'founded': datetime.datetime(1912, 8, 3),
         'city': 'Ypane, Paraguay',
+        },
+
+    {
+        'name': 'Independiente de Campo Grande',
+        'founded': datetime.datetime(1925, 9, 20),
+        'city': 'Campo Grande, Asuncion, Paraguay',
         },
 
     {
@@ -210,6 +251,29 @@ l = [
         },
 
     {
+        'name': 'Fancesa',
+        'city': 'Sucre, Bolivia',
+        },
+
+    {
+        'name': 'Unión Tarija',
+        'founded': datetime.datetime(1980, 4, 8),
+        'city': 'Tarija, Bolivia',
+        },
+
+    {
+        'name': 'Atlético Pompeya',
+        'founded': 1993,
+        'city': 'Trinidad, Bolivia',
+        },
+
+    {
+        'name': 'Stormers',
+        'founded': datetime.datetime(1914, 1, 25),
+        'city': 'Sucre, Bolivia',
+        },
+
+    {
         'name': 'Real América',
         'city': 'Santa Cruz, Bolivia',
         'founded': datetime.datetime(1968, 10, 12),
@@ -349,12 +413,6 @@ l = [
         'name': 'Desportiva',
         'founded': datetime.datetime(1963, 6, 17),
         'city': 'Cariacica, Brazil',
-        },
-
-    {
-        'name': 'CD Santa Fe',
-        'founded': datetime.datetime(1941, 2, 28),
-        'city': 'Bogota, Colombia',
         },
 
     {
@@ -722,11 +780,6 @@ l = [
 
 
 
-    {
-        'name': 'Union San Felipe',
-        'founded': datetime.datetime(1956, 10, 16),
-        'city': 'San Felipe, Chile',
-        },
 
     {
         'name': 'Provincial Osorno',
@@ -755,6 +808,18 @@ l = [
         'name': 'Santiago Wanderers',
         'founded': datetime.datetime(1892, 8, 15),
         'city': 'Santiago, Chile',
+        },
+
+    {
+        'name': 'Barnechea',
+        'founded': datetime.datetime(1929, 12, 23),
+        'city': 'Lo Barnechea, Chile',
+        },
+
+    {
+        'name': 'Unión San Felipe',
+        'founded': datetime.datetime(1956, 10, 16),
+        'city': 'San Felipe, Chile',
         },
 
 
@@ -787,10 +852,23 @@ l = [
         'city': 'Trujillo, Peru',
         },
 
+
+    {
+        'name': 'Deportivo Coopsol',
+        'founded': datetime.datetime(1964, 7, 31),
+        'city': 'Chancay District, Peru',
+        },
+
     {
         'name': 'La Paz FC',
         'founded': datetime.datetime(1989, 5, 30),
         'city': 'La Paz, Bolivia',
+        },
+
+    {
+        'name': 'Ciclón',
+        'founded': datetime.datetime(1951, 9, 21),
+        'city': 'Tarija, Bolivia',
         },
 
     {
@@ -932,9 +1010,45 @@ l = [
         },
 
     {
+        'name': 'Unicosta',
+        'founded': 1995,
+        'dissolved': 1999,
+        'city': 'Barranquilla, Colombia',
+        },
+
+    {
         'name': 'Sport Áncash',
         'founded': datetime.datetime(1967, 4, 22),
         'city': 'Huaraz, Peru',
+        },
+
+    {
+        'name': 'Atlético Universidad',
+        'founded': datetime.datetime(1964, 2, 24),
+        'city': 'Arequipa, Peru',
+        },
+
+    {
+        'name': 'Estudiantes de Medicina',
+        'founded': 1975,
+        'city': 'Ica, Peru',
+        },
+
+    {
+        'name': 'Pacífico FC',
+        'founded': datetime.datetime(1960, 1, 1),
+        'city': 'Lima, Peru',
+        },
+
+    {
+        'name': 'Mariscal Sucre',
+        'founded': 1925,
+        'city': 'Lima, Peru',
+        },
+
+    {
+        'name': 'Sport Inca',
+        'city': 'Lima, Peru',
         },
     {
         'name': 'Club Universitario',
@@ -1110,6 +1224,11 @@ l = [
         'city': 'La Paz, Bolivia',
         },
 
+    {
+        'name': '1 de Mayo',
+        'city': 'Beni, Bolivia',
+        },
+
 
     {
         'name': 'Independiente Petrolero',
@@ -1165,6 +1284,12 @@ l = [
         'name': 'Gimnasia y Esgrima (Entre Ríos)',
         'founded': datetime.datetime(1917, 3, 8),
         'city': 'Concepción del Uruguay, Argentina',
+        },
+
+    {
+        'name': 'Porongos',
+        'founded': datetime.datetime(1910, 6, 5),
+        'city': 'Flores, Uruguay',
         },
 
 
@@ -1223,6 +1348,42 @@ l = [
         'name': 'Boyacá Chicó',
         'founded': datetime.datetime(2002, 3, 26),
         'city': 'Tunja, Colombia',
+        },
+
+    {
+        'name': 'Patriotas FC',
+        'founded': datetime.datetime(2003, 2, 18),
+        'city': 'Tunja, Colombia',
+        },
+
+    {
+        'name': 'Real Santander',
+        'founded': datetime.datetime(2006, 1, 17),
+        'city': 'Bucaramanga, Colombia',
+        },
+
+    {
+        'name': 'Expreso Rojo',
+        'founded': datetime.datetime(2000, 8, 10),
+        'city': 'Facatativa, Colombia',
+        },
+
+    {
+        'name': 'Itagüí',
+        'founded': 1991, # November
+        'city': 'Itagüí, Colombia',
+        },
+
+    {
+        'name': 'Universitario Popayán',
+        'founded': datetime.datetime(2011, 5, 21),
+        'city': 'Popayán, Colombia',
+        },
+
+    {
+        'name': 'Uniautónoma FC',
+        'founded': datetime.datetime(2010, 11, 1),
+        'city': 'Barranquilla, Colombia',
         },
 
     {
@@ -1482,6 +1643,24 @@ l = [
         'founded': datetime.datetime(1945, 2, 6),
         'city': 'Quito, Ecuador',
         },
+
+    {
+        'name': 'Deportivo Quevedo',
+        'founded': datetime.datetime(1952, 6, 15),
+        'city': 'Quevedo, Ecuador',
+        },
+
+    {
+        'name': 'Delfín', # anteriormente conocido como Club Deportivo 9 de Octubre
+        'founded': datetime.datetime(1961, 9, 27),
+        'city': 'Manta, Ecuador',
+        },
+
+    {
+        'name': 'Calvi',
+        'founded': datetime.datetime(1980, 1, 2),
+        'city': 'Guayaquil, Ecuador',
+        },
     {
         'name': 'Blooming',
         'founded': datetime.datetime(1946, 5, 1),
@@ -1519,6 +1698,12 @@ l = [
         'name': 'U.T. Cajamarca',
         'founded': datetime.datetime(1964, 7, 14),
         'city': 'Cajamarca, Peru',
+        },
+
+    {
+        'name': 'Ciclista Lima',
+        'founded': 2006,
+        'city': 'Lima, Peru',
         },
 
     {
@@ -1574,6 +1759,12 @@ l = [
         'name': 'LDU Loja',
         'founded': datetime.datetime(1987, 10, 23),
         'city': 'Loja, Ecuador',
+        },
+
+    {
+        'name': 'Audaz Octubrino',
+        'founded': datetime.datetime(1948, 8, 10),
+        'city': 'Machala, Ecuador',
         },
     {
         'name': 'Real Garcilaso',
@@ -1692,9 +1883,27 @@ l = [
     },
 
     {
+    'name': 'Club General Díaz',
+    'founded': datetime.datetime(1917, 11, 22),
+    'city': 'Luque, Paraguay',
+    },
+
+    {
     'name': 'Cerro Porteño PF',
     'founded': datetime.datetime(1967, 8, 12),
     'city': 'Presidente Franco, Paraguay',
+    },
+
+    {
+    'name': 'Cerro Corá',
+    'founded': datetime.datetime(1925, 3, 1),
+    'city': 'Asuncion, Paraguay',
+    },
+
+    {
+    'name': 'Sportivo San Lorenzo',
+    'founded': datetime.datetime(1930, 4, 17),
+    'city': 'San Lorenzo, Paraguay',
     },
 
 
@@ -1757,6 +1966,18 @@ l = [
         'city': 'Lima, Peru',
         },
 
+    {
+        'name': 'Centro Iqueño',
+        'founded': datetime.datetime(1935, 10, 12),
+        'city': 'Lima, Peru',
+        },
+
+    {
+        'name': 'Sport Progreso',
+        'founded': 1912,
+        'city': 'Lima, Peru',
+        },
+
 
 
 
@@ -1771,9 +1992,39 @@ l = [
         },
 
     {
+        'name': 'Basáñez',
+        'founded': datetime.datetime(1920, 4, 1),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Frontera Rivera',
+        'founded': datetime.datetime(1973, 9, 23),
+        'city': 'Rivera, Uruguay',
+        },
+
+    {
+        'name': 'Juventud de Las Piedras',
+        'founded': datetime.datetime(1935, 12, 24),
+        'city': 'Las Piedras, Uruguay',
+        },
+
+    {
         'name': 'Paysandú Bella Vista',
         'founded': datetime.datetime(1939, 1, 11),
         'city': 'Paysandu, Uruguay',
+        },
+
+    {
+        'name': 'Paysandú FC',
+        'founded': datetime.datetime(2003, 3, 7),
+        'city': 'Paysandu, Uruguay',
+        },
+
+    {
+        'name': 'CS Cerrito',
+        'founded': datetime.datetime(1929, 10, 28),
+        'city': 'Cerrito de la Victoria, Uruguay',
         },
 
     {
@@ -1842,8 +2093,6 @@ l = [
         'founded': datetime.datetime(1906, 3, 26),
         'city': 'Montevideo, Uruguay',
         },
-
-
 
     {
         'name': 'Cerro Largo',
@@ -1944,6 +2193,12 @@ l = [
     {
         'name': 'CA Rentistas',
         'founded': datetime.datetime(1933, 3, 26),
+        'city': 'Montevideo, Uruguay',
+        },
+
+    {
+        'name': 'Atenas',
+        'founded': datetime.datetime(1918, 8, 11),
         'city': 'Montevideo, Uruguay',
         },
 
@@ -2057,7 +2312,7 @@ l = [
         },
 
     {
-        'name': 'San Lorenzo',
+        'name': 'San Lorenzo de Almagro',
         'founded': datetime.datetime(1908, 4, 1),
         'city': 'Buenos Aires, Argentina',
         },
@@ -2116,6 +2371,12 @@ l = [
         'founded': datetime.datetime(1986, 2, 5),
         'city': 'Quito, Ecuador',
         },
+
+    {
+        'name': 'Universidad Católica del Ecuador',
+        'founded': datetime.datetime(1963, 6, 26),
+        'city': 'Quito, Ecuador',
+        },
     {
         'name': 'UA Maracaibo',
         'founded': datetime.datetime(2001, 1, 16),
@@ -2134,9 +2395,40 @@ l = [
         },
 
     {
+        'name': 'Jorge Chávez (Callao)',
+        #'founded': 
+        'city': 'Callao, Peru',
+        },
+
+    {
         'name': 'Envigado',
         'founded': datetime.datetime(1989, 10, 14),
         'city': 'Medellin, Colombia',
+        },
+
+    {
+        'name': 'Atlético San Cristóbal',
+        'founded': 1980,
+        'city': 'San Cristóbal, Colombia',
+        },
+
+    {
+        'name': 'Rionegro',
+        'founded': datetime.datetime(1957, 2, 15),
+        'city': 'Bello, Colombia',
+        },
+
+    {
+        'name': 'Valledupar',
+        'founded': datetime.datetime(2003, 11, 15),
+        'city': 'Valledupar, Colombia',
+        },
+
+    {
+        'name': 'Centauros',
+        'founded': 2002,
+        'dissolved': datetime.datetime(2011, 5, 20),
+        'city': 'Villavicencio, Colombia',
         },
 
 
@@ -2178,6 +2470,12 @@ l = [
         'name': 'Bolognesi FC',
         'founded': 1998,
         'city': 'Tacna, Peru',
+        },
+
+    {
+        'name': 'Guardia Republicana',
+        'founded': datetime.datetime(1981, 8, 7),
+        'city': 'Lima, Peru',
         },
 
 
@@ -2301,9 +2599,21 @@ l = [
         },
 
     {
+        'name': 'Club Petrolero',
+        'founded': 2000,
+        'city': 'Yacuiba, Bolivia',
+        },
+
+    {
         'name': 'Sport Boys',
         'founded': datetime.datetime(1927, 7, 27),
         'city': 'Callao, Peru',
+        },
+
+    {
+        'name': 'Sport Boys Warnes',
+        'founded': datetime.datetime(1954, 8, 17),
+        'city': 'Warnes, Bolivia',
         },
 
     {
@@ -2321,12 +2631,6 @@ l = [
     {
         'name': 'Paysandu SC',
         'founded': datetime.datetime(1914, 2, 2),
-        'city': 'Belem, Brazil',
-        },
-
-    {
-        'name': 'Paysandu',
-        'founded': 1914,
         'city': 'Belem, Brazil',
         },
 
@@ -2425,6 +2729,62 @@ l = [
         'name': 'Deportes Tolima',
         'founded': 1954,
         'city': 'Ibague, Colombia',
+        },
+
+    {
+        'name': 'Deportivo Pereira',
+        'founded': datetime.datetime(1944, 2, 12),
+        'city': 'Pereira, Colombia',
+        },
+
+    {
+        'name': 'Alianza Petrolera',
+        'founded': datetime.datetime(1991, 10, 24),
+        'city': 'Barrancabermeja, Colombia',
+        },
+
+    {
+        'name': 'Barranquilla FC',
+        'founded': datetime.datetime(2004, 7, 1),
+        'city': 'Barranquilla, Colombia',
+        },
+
+    {
+        'name': 'Bogotá FC',
+        'founded': datetime.datetime(2003, 1, 13),
+        'city': 'Bogotá, Colombia',
+        },
+
+    {
+        'name': 'Fortaleza F.C.',
+        'founded': datetime.datetime(2010, 11, 15),
+        'city': 'Zipaquirá, Colombia',
+        },
+
+    {
+        'name': 'Depor Aguablanca',
+        'founded': datetime.datetime(2005, 12, 5),
+        'city': 'Aguablanca, Colombia',
+        },
+
+    {
+        'name': 'Academia FC',
+        'founded': 2005,
+        'dissolved': 2012,
+        'city': 'Bogota, Colombia',
+        },
+
+    {
+        'name': 'Sucre FC',
+        'founded': datetime.datetime(2011, 12, 13),
+        'dissolved': datetime.datetime(2012, 12, 5),
+        'city': 'Bogota, Colombia',
+        },
+
+    {
+        'name': 'Llaneros FC',
+        'founded': datetime.datetime(2012, 4, 20),
+        'city': 'Villavicencio, Colombia',
         },
     {
         'name': 'Deportivo Pasto',
