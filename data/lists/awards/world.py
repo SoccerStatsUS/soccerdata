@@ -78,6 +78,7 @@ club_world_cup = {
         (2010, 'Internazionale'),
         (2011, 'Barcelona'),
         (2012, 'SC Corinthians'),
+        (2013, 'Bayern Munich'),
         ],
 
     'MVP': [
@@ -90,6 +91,7 @@ club_world_cup = {
         (2010, 'Samuel Eto\'o'),
         (2011, 'Lionel Messi'),
         (2012, 'Cassio'),
+        (2013, 'Franck Ribery'),
         ]
 }
 
@@ -220,5 +222,6 @@ suruga = {
         (2010, 'FC Tokyo'),
         (2011, 'Jubilo Iwata'),
         (2012, 'Kashima Antlers'),
+        (2013, 'Kashima Antlers'),
   ]
 }
