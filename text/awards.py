@@ -155,7 +155,7 @@ def process_argentina_awards():
 def process_uefa_awards():
     from soccerdata.data.lists.awards import uefa as u
     l = [
-        'super',
+        'super', 'champions', 'europa', 'fairs',
         'spain', 'france', 'germany', 'italy', # major
         'portugal', 'scotland',
         'sweden', 'norway', 'denmark',

@@ -5,6 +5,161 @@
 #major
 
 
+
+
+champions = {
+
+    'competition': 'UEFA Champions League',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+    'Champion': [
+
+        ('1955-1956', 'Real Madrid'),
+        ('1956-1957', 'Real Madrid'),
+        ('1957-1958', 'Real Madrid'),
+        ('1958-1959', 'Real Madrid'),
+        ('1959-1960', 'Real Madrid'),
+
+        ('1960-1961', 'Benfica'),
+        ('1961-1962', 'Benfica'),
+        ('1962-1963', 'AC Milan'),
+        ('1963-1964', 'Inter Milan'),
+        ('1964-1965', 'Inter Milan'),
+        ('1965-1966', 'Real Madrid'),
+        ('1966-1967', 'Glasgow Celtic'),
+        ('1967-1968', 'Manchester United'),
+        ('1968-1969', 'AC Milan'),
+        ('1969-1970', 'Feyenoord'),
+
+        ('1970-1971', 'Ajax'),
+        ('1971-1972', 'Ajax'),
+        ('1972-1973', 'Ajax'),
+        ('1973-1974', 'Bayern Munich'),
+        ('1974-1975', 'Bayern Munich'),
+        ('1975-1976', 'Bayern Munich'),
+        ('1976-1977', 'Liverpool'),
+        ('1977-1978', 'Liverpool'),
+        ('1978-1979', 'Nottingham Forest'),
+        ('1979-1980', 'Nottingham Forest'),
+
+        ('1980-1981', 'Liverpool'),
+        ('1981-1982', 'Aston Villa'),
+        ('1982-1983', 'Hamburg'),
+        ('1983-1984', 'Liverpool'),
+        ('1984-1985', 'Juventus'),
+        ('1985-1986', 'Steaua Bucharest'),
+        ('1986-1987', 'Porto'),
+        ('1987-1988', 'PSV Eindhoven'),
+        ('1988-1989', 'AC Milan'),
+        ('1989-1990', 'AC Milan'),
+        ('1990-1991', 'Red Star Belgrade'),
+        ('1991-1992', 'FC Barcelona'),
+        ('1992-1993', 'Marseille'),
+        ('1993-1994', 'AC Milan'),
+        ('1994-1995', 'Ajax'),
+        ('1995-1996', 'Juventus'),
+        ('1996-1997', 'Borussia Dortmund'),
+        ('1997-1998', 'Real Madrid'),
+        ('1998-1999', 'Manchester United'),
+        ('1999-2000', 'Real Madrid'),
+        ('2000-2001', 'Bayern Munich'),
+        ('2001-2002', 'Real Madrid'),
+        ('2002-2003', 'AC Milan'),
+        ('2003-2004', 'Porto'),
+        ('2004-2005', 'Liverpool'),
+        ('2005-2006', 'FC Barcelona'),
+        ('2006-2007', 'AC Milan'),
+        ('2007-2008', 'Manchester United'),
+        ('2008-2009', 'FC Barcelona'),
+        ('2009-2010', 'Inter Milan'),
+        ('2010-2011', 'FC Barcelona'),
+        ('2011-2012', 'Chelsea'),
+        ('2012-2013', 'Bayern Munich'),
+        ],
+}
+
+europa = {
+
+    'competition': 'UEFA Europa League',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+    'Champion': [
+
+
+        ('1971-1972', 'Tottenham Hostpur'),
+        ('1972-1973', 'Liverpool'),
+        ('1973-1974', 'Feyenoord'),
+        ('1974-1975', 'Borussia Monchengladbach'),
+        ('1975-1976', 'Liverpool'),
+        ('1976-1977', 'Juventus'),
+        ('1977-1978', 'PSV Eindhoven'),
+        ('1978-1979', 'Borussia Monchengladbach'),
+        ('1979-1980', 'Eintracht Frankfurt'),
+
+        ('1980-1981', 'Ipswich Town'),
+        ('1981-1982', 'IFK Goteborg'),
+        ('1982-1983', 'Anderlecht'),
+        ('1983-1984', 'Tottenham Hotspur'),
+        ('1984-1985', 'Real Madrid'),
+        ('1985-1986', 'Real Madrid'),
+        ('1986-1987', 'IFK Goteborg'),
+        ('1987-1988', 'Bayer Leverkusen'),
+        ('1988-1989', 'Napoli'),
+        ('1989-1990', 'Juventus'),
+        ('1990-1991', 'Inter Milan'),
+        ('1991-1992', 'Ajax'),
+        ('1992-1993', 'Juventus'),
+        ('1993-1994', 'Inter Milan'),
+        ('1994-1995', 'Parma'),
+        ('1995-1996', 'Bayern Munich'),
+        ('1996-1997', 'Schalke 04'),
+        ('1997-1998', 'Inter Milan'),
+        ('1998-1999', 'Parma'),
+        ('1999-2000', 'Galatasaray'),
+        ('2000-2001', 'Liverpool'),
+        ('2001-2002', 'Feyenoord'),
+        ('2002-2003', 'Porto'),
+        ('2003-2004', 'Valencia'),
+        ('2004-2005', 'CSKA Moscow'),
+        ('2005-2006', 'Sevilla'),
+        ('2006-2007', 'Sevilla'),
+        ('2007-2008', 'Zenit Saint Petersburg'),
+        ('2008-2009', 'Shakhtar Donetsk'),
+        ('2009-2010', 'Atletico Madrid'),
+        ('2010-2011', 'Porto'),
+        ('2011-2012', 'Atletico Madrid'),
+        ('2012-2013', 'Chelsea'),
+        ],
+}
+
+
+
+fairs = {
+
+    'competition': 'Inter-Cities Fairs Cup',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+    'Champion': [
+
+        ('1955-1958', 'Barcelona XI'),
+        ('1958-1960', 'FC Barcelona'),
+        ('1960-1961', 'Roma'),
+        ('1961-1962', 'Valencia'),
+        ('1962-1963', 'Valencia'),
+        ('1963-1964', 'Real Zaragoza'),
+        ('1964-1965', 'Ferencvaros'),
+        ('1965-1966', 'FC Barcelona'),
+        ('1966-1967', 'Dinamo Zagreb'),
+        ('1967-1968', 'Leeds United'),
+        ('1968-1969', 'Newcastle United'),
+        ('1969-1970', 'Arsenal'),
+        ('1970-1971', 'Leeds United'),
+        ],
+}
+
+
+
+
 super = {
    'competition': 'UEFA Super Cup',
     'team_data': ['Champion'],
