@@ -191,7 +191,7 @@ d = {
 
         ('2012-2013 Inicial', 'Velez Sarsfield'),
         ('2012-2013 Final', 'Newell\'s Old Boys'),
-        ('2012-2013', 'Velez Sarsfield'),
+        #('2012-2013', 'Velez Sarsfield'),
 
         ('2013-2014 Inicial', 'San Lorenzo de Almagro'),
         
