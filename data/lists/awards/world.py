@@ -29,6 +29,7 @@ confederations = {
         (2003, 'France'),
         (2005, 'Brazil'),
         (2009, 'Brazil'),
+        (2013, 'Brazil'),
          ],
 
     'MVP': [
@@ -38,6 +39,7 @@ confederations = {
         (2003, 'Thierry Henry'),
         (2005, 'Adriano'),
         (2009, 'Kaka'),
+        (2013, 'Neymar'),
         ]
 
 }

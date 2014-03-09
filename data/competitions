@@ -5,6 +5,7 @@
 Club Rio de Janeiro; CRJ; soccer; domestic; Cup; 1; World; Earth
 FIFA Club World Cup; CWC; soccer; domestic; Cup; 1; World; Earth
 Parmalat Cup; PC; soccer; domestic; Cup; 2; World; Earth
+Mundialito; Mito; soccer; domestic; Cup; 2; World; Earth
 
 La Copita del Mundo; CdM; soccer; domestic; Cup; 2; World; Earth
 International Soccer League; ISL; soccer; domestic; League; 2; World; Earth
@@ -186,7 +187,9 @@ Lone Star Soccer Alliance; LSSA; soccer; domestic; League; ; State; Texas
 
 * Domestic Cups
 
-FIFA Confederations Cup; CC; soccer; domestic; Cup; 1; World; Earth
+
+
+
 U.S. Open Cup; USOC; soccer; domestic; Cup; 1; Country; United States
 AFA Cup; AFAC; soccer; domestic; Cup; 1; Country; United States
 AAFA Cup; AAFAC; soccer; domestic; Cup; 2; Country; United States
@@ -220,6 +223,9 @@ Western Soccer League Playoffs; WSLp; soccer; domestic; Cup; 3; League; American
 
 *MLS Reserve League; MLSr; soccer; domestic; League; reserve; Country; United States
 MLS Reserve League; MLSr; soccer; domestic; League; ; Country; United States
+
+
+FIFA Confederations Cup; CC; soccer; international; Cup; 1; World; Earth
 
 Friendly; F; soccer; domestic; ; ; World; Earth
 Unofficial Friendly; UF; soccer; domestic; ; ; World; Earth
