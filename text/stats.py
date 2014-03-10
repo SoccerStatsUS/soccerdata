@@ -51,7 +51,7 @@ def process_ncaa_stats():
 
         'indiana',
 
-        #'kentucky',
+        'kentucky',
         'louisville',
 
         'maryland',
@@ -63,14 +63,14 @@ def process_ncaa_stats():
         'penn_state',
         'rutgers',
 
-        #'san_diego_state',
+        'san_diego_state',
         #'san_franciso',
         #'slu',
         #'smu',
-        #'st_johns',
-        #'stanford',
+        'st_johns',
+        'stanford',
 
-        #'uab',
+        'uab',
         #'ucf',
 
         'ucla',
