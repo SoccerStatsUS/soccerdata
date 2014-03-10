@@ -32,22 +32,55 @@ def process_ncaa_stats():
     for e in [
         'akron', 
         'berkeley',
-        #'boston_college',
-        #'charlotte',
+        'boston_college',
+        'charlotte',
+        'chico',
         'clemson',
         'coastal_carolina',
         'conn',
-        #'furman',
+
+        #'fairleigh_dickinson',
+        #'fiu',
+
+        'furman',
+        'george_mason',
+        'georgetown',
+
+        #'harvard',
+
+
         'indiana',
+
+        #'kentucky',
+        'louisville',
+
         'maryland',
         'nc_state',
         'new_mexico',
         'notre_dame',
         'ohio_state',
         'oregon_state',
+        'penn_state',
         'rutgers',
+
+        #'san_diego_state',
+        #'san_franciso',
+        #'slu',
+        #'smu',
+        #'st_johns',
+        #'stanford',
+
+        #'uab',
+        #'ucf',
+
         'ucla',
+        
+        'ucsb',
+
         'unc',
+        'uva',
+        'uwm',
+
         'wake_forest',
         ]:
         l.extend(process_stats("stats/%s" % e, format_name=True, root=NCAA_DIR, delimiter=';'))
