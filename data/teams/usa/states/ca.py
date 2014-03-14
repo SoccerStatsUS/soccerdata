@@ -11,6 +11,18 @@ l = [
         },
 
     {
+        'name': 'Sacramento Republic',
+        'city': 'Sacramento, CA',
+        'founded': 2012,
+        },
+
+    {
+        'name': 'LA Galaxy II',
+        'city': 'Los Angeles, CA',
+        'founded': 2013,
+        },
+
+    {
         'name': 'Los Angeles Sol',
         'city': 'Los Angeles, CA',
         'founded': 2007,

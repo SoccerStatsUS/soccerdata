@@ -11,6 +11,12 @@ l = [
         },
 
     {
+        'name': 'Houston Dash',
+        'founded': 2013,
+        'city': 'Houston, TX',
+        },
+
+    {
         'name': 'Houston Summit Soccer',
         'city': 'Houston, TX',
         },

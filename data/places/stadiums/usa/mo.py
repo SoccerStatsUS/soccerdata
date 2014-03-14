@@ -13,6 +13,11 @@ l = [
         },
 
     {
+        'name': 'Durwood Stadium',
+        'location': 'Kansas City, MO',
+        },
+
+    {
         'name': 'Cooper Sports Complex',
         'address': '2701 E Pythian St',
         'location': 'Springfield, MO',
