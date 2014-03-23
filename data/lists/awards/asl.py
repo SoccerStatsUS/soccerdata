@@ -40,6 +40,7 @@ d = {
         ('1965-1966', 'Roma SC'),
         ('1966-1967', 'Baltimore St. Gerards'),
         ('1967-1968', 'Ukrainian Nationals'),
+        ('1968', 'Washington Darts'),
         ('1969', 'Washington Darts'),
         ('1970', 'Philadelphia Ukrainian Nationals'),
         ('1971', 'New York Greeks'),
