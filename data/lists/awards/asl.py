@@ -1,7 +1,7 @@
 
 
 d = {
-    'competition': 'American Soccer League (1934-1983)',
+    'competition': 'American Soccer League (1933-1983)',
     'team_data': ['Champion'],
 
     'Champion': [
