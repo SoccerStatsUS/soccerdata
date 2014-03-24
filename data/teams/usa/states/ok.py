@@ -22,6 +22,12 @@ l = [
         },
 
     {
+        'name': 'Oklahoma City Energy',
+        'city': 'Oklahoma City, OK',
+        'founded': 2013,
+        },
+
+    {
         'name': 'Tulsa Pride',
         'city': 'Tulsa, OK',
         'founded': 1992,
