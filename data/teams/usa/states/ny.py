@@ -14,6 +14,12 @@ l = [
         'name': 'Brooklyn Hispano',
         'city': 'Brooklyn, NY',
         },
+
+    {
+        'name': 'Brookhattan',
+        'founded': 1938,
+        'city': 'New York, NY',
+        },
     {
         'name': 'Brooklyn St. Mary\'s Celtic',
         'city': 'Brooklyn, NY',
