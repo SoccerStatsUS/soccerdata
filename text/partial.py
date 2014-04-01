@@ -6,7 +6,7 @@ import re
 from soccerdata.settings import ROOT_DIR
 
 def process_asl2_partial():
-    return process_partial_stats(os.path.join(ROOT_DIR, 'soccerdata/data/stats/partial/stats'))
+    return process_partial_stats(os.path.join(ROOT_DIR, 'asl2-data/stats/asl2'))
 
 def process_apsl_partial():
     return process_partial_stats(os.path.join(ROOT_DIR, 'soccerdata/data/stats/partial/apsl'))
@@ -24,6 +24,9 @@ def process_partial_stats(p):
             name, team, competition, season, games, goals = fields[:6]
         except:
             import pdb; pdb.set_trace()
+
+        if line.startswith("*"):
+            continue
 
         assists = None
         if len(fields) == 7:
