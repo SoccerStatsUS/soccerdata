@@ -5,7 +5,6 @@ import os
 
 from soccerdata.settings import ROOT_DIR
 
-p = os.path.join(ROOT_DIR, 'soccerdata/data/mappings/team_name')
 
 
 def correct_date(s, start=True):
@@ -27,17 +26,18 @@ def correct_date(s, start=True):
     return d
 
     
-
-    
-
 def load():
-    files = os.listdir(p)
+    # Loads all files in the relevant directory.
+
+
+    PATH = os.path.join(ROOT_DIR, 'soccerdata/data/mappings/team_name')
+    files = os.listdir(PATH)
 
     l = []
     
     for e in files:
         if not e.endswith('~'): # avoid duplicate emacs files
-            px = os.path.join(p, e)
+            px = os.path.join(PATH, e)
             l.extend(process_name_map_file(px))
     return l
             
