@@ -169,3 +169,116 @@ nwsl = {
         ],
 
 }
+
+
+sweden = {
+    'competition': 'Damallsvenskan',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        ('2001', 'Umea IK'),
+        ('2002', 'Umea IK'),
+        ('2003', 'Djurgården/Älvsjö'),
+        ('2004', 'Djurgården/Älvsjö'),
+        ('2005', 'Umea IK'),
+        ('2006', 'Umea IK'),
+        ('2007', 'Umea IK'),
+        ('2008', 'Umea IK'),
+        ('2009', 'Linkopings FC'),
+        ('2010', 'Ldb Malmo'),
+        ('2011', 'Ldb Malmo'),
+        ('2012', 'Tyreso FF'),
+        ('2013', 'Ldb Malmo'),
+        ],    
+
+    'Golden Boot': [
+        ('2001', 'Victoria Svensson'),
+        ('2002', 'Hanna Ljungberg'),
+        ('2003', 'Victoria Svensson'),
+        ('2004', 'Marta'),
+        ('2004', 'Laura Kalmari'),
+        ('2005', 'Marta'),
+        ('2005', 'Therese Lundin'),
+        ('2006', 'Lotta Schelin'),
+        ('2007', 'Lotta Schelin'),
+        ('2008', 'Marta'),
+        ('2008', 'Manon Melis'),
+        ('2009', 'Linnea Liljegard'),
+        ('2010', 'Manon Melis'),
+        ('2011', 'Manon Melis'),
+        ('2011', 'Margret Lara Vitharsdottir'),
+        ('2012', 'Anja Mittag'),
+        ('2013', 'Christen Press'),
+    ],
+    }
+
+
+germany = {
+
+    'competition': 'Frauen-Bundesliga',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        ('2000-2001', 'FFC Frankfurt'),
+        ('2001-2002', 'FFC Frankfurt'),
+        ('2002-2003', 'FFC Frankfurt'),
+        ('2003-2004', 'Turbine Potsdam'),
+        ('2004-2005', 'FFC Frankfurt'),
+        ('2005-2006', 'Turbine Potsdam'),
+        ('2006-2007', 'FFC Frankfurt'),
+        ('2007-2008', 'FFC Frankfurt'),
+        ('2008-2009', 'Turbine Potsdam'),
+        ('2009-2010', 'Turbine Potsdam'),
+        ('2010-2011', 'Turbine Potsdam'),
+        ('2011-2012', 'Turbine Potsdam'),
+        ('2012-2013', 'VfL Wolfsburg'),
+        ],    
+
+
+}
+
+
+
+premier = {
+
+    'competition': 'FA Women\'s Premier League',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        ('2000-2001', 'Arsenal'),
+        ('2001-2002', 'Arsenal'),
+        ('2002-2003', 'Fulham'),
+        ('2003-2004', 'Arsenal'),
+        ('2004-2005', 'Arsenal'),
+        ('2005-2006', 'Arsenal'),
+        ('2006-2007', 'Arsenal'),
+        ('2007-2008', 'Arsenal'),
+        ('2008-2009', 'Arsenal'),
+        ('2009-2010', 'Arsenal'),
+        ('2010-2011', 'Sunderland'),
+        ('2011-2012', 'Sunderland'),
+        ('2012-2013', 'Sunderland'),
+        ],    
+
+
+
+}
+
+
+
+fa_wsl = {
+
+    'competition': 'FA WSL',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+
+    'Champion': [
+        ('2011', 'Arsenal'),
+        ('2012', 'Arsenal'),
+        ('2013', 'Liverpool'),
+        ],    
+
+}

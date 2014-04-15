@@ -591,6 +591,12 @@ l = [
         },
 
     {
+        'name': 'Millwall Lionesses',
+        'founded': 1971,
+        'city': 'Millwall, England',
+        },
+
+    {
         'name': 'Oldham Athletic',
         'founded': 1895,
         'city': 'Oldham, England',
@@ -818,6 +824,18 @@ l = [
         },
 
     {
+        'name': 'Turbine Potsdam',
+        'founded': datetime.datetime(1999, 4, 1),
+        'city': 'Potsdam, Germany',
+        },
+
+    {
+        'name': 'FFC Frankfurt',
+        'founded': 1998,
+        'city': 'Frankfurt, Germany',
+        },
+
+    {
         'name': 'Carl Zeiss Jena',
         'founded': datetime.datetime(1903, 5, 13),
         'city': 'Jena, Germany',
@@ -1000,6 +1018,24 @@ l = [
         },
 
     {
+        'name': 'Doncaster Belles',
+        'founded': 1969,
+        'city': 'Doncaster, England',
+        },
+
+    {
+        'name': 'Tranmere Rovers',
+        'founded': 1884,
+        'city': 'Tranmere, England',
+        },
+
+    {
+        'name': 'Bristol Rovers',
+        'founded': 1883,
+        'city': 'Bristol, England',
+        },
+
+    {
         'name': 'Aston Villa F.C.',
         'founded': 1874,
         'city': 'Birminghamn, England',
@@ -1072,6 +1108,12 @@ l = [
         'name': 'Barking F.C.',
         'founded': 1880,
         'city': 'Barking, England',
+        },
+
+    {
+        'name': 'Barry Town',
+        'founded': 1912,
+        'city': 'Barry, Wales',
         },
 
     {
@@ -1525,6 +1567,37 @@ l = [
         'founded': datetime.datetime(1891, 2, 15),
         'city': 'Stockholm, Sweden',
         },
+
+    {
+        'name': 'Umeå IK',
+        'founded': 1917,
+        'city': 'Umeå, Sweden',
+        },
+
+    {
+        'name': 'Bälinge IF',
+        'founded': 1936,
+        'city': 'Uppsala, Sweden',
+        },
+
+    {
+        'name': 'Sunnanå SK',
+        'founded': 1939,
+        'city': 'Skellefteå, Sweden',
+        },
+
+    {
+        'name': 'Holmalunds IF',
+        'founded': 1933,
+        'city': 'Skellefteå, Sweden',
+        },
+
+    {
+        'name': 'Mallbackens IF',
+        'founded': 1942,
+        'city': 'Värmland, Sweden',
+        },
+
     {
         'name': 'Västerås',
         'founded': 1904,
