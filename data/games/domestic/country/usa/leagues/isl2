@@ -20,7 +20,7 @@ Competition: International Soccer League
 * http://query.nytimes.com/mem/archive/pdf?res=F50D17FC395E1A7A93C4A81789D85F448685F9
 
 Season: 1960 
-Group: 1
+Stage: 1
 
 5/25/1960; Kilmarnock; 3-1; Bayern Munich; Polo Grounds; Dennis Howell, Tom Budano, Werner Rothschild; 10444
 Jack McInally (Billy Muir) 76, Tom Bryceland (Jack McInally) 80, Andy Kerr (ua) 89; Frank Beattie (og) 22
@@ -114,7 +114,11 @@ Burnley FC: Adam Blacklaw, Tom Cummings, Alex Elder, Jim Adamson, Bryan Miller, 
 Nice: Georges Lamia, Alphonse Martinez, Juan Auzoberry, Boragno, Cesar Gonzales, Francois Milazzo, Jacques Faivre, Hector De Bourgoing, Omar Keita Barrou, Victor Nurenberg, Jacques Foix
 Source: http://query.nytimes.com/mem/archive/pdf?res=F50611FC3D581A7A93C2AB178DD85F448685F9
 
-Group: 2
+Stage: 2
+
+; Bangu; v; Sampdoria
+
+; Rapid Vienna; v; Sporting Lisbon
 
 7/3/1960; Red Star Belgrade; 5-2; Rapid Vienna; Polo Grounds; Nels Dahlquist, August Schmitt, Aldo Clemente; 12104
 Todor Veselinovic, Todor Veselinovic, Todor Veselinovic, Todor Veselinovic, Dusan Maravic; Walter Skocik, Walter Skocik
@@ -195,7 +199,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F20710F73D5C1A728DDDA80894D
 
 *Competition: International Soccer League Championship
 Round: Final
-Group: 
+Stage: 
 
 8/6/1960; Bangu; 2-0; Kilmarnock; Polo Grounds; James McLean, Harry Nowick, Thomas Callahan; 25440
 Valter Santos, Valter Santos;
@@ -206,7 +210,18 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=F50B13FD3A5A1A7A93C5A91783D
 
 Competition: International Soccer League
 Season: 1961
-Group: 1
+Stage: 1
+
+* Everton - 0
+* Bangu - 0
+* NY Americans - 0
+* Karlsruhe - 0 
+* Kilmarnock - 0
+* Montreal - 1
+* Dinamo Bucharest - 1
+* Besiktas - 0
+
+; Montreal Concordia; v; Dinamo Bucharest
 
 5/17/1961; Besiktas; 3-1; Karlsruhe; Polo Grounds; Peter Rhodes, Tom Callahan, Jim McLean; 9538
 Senol Birol, Senol Birol, Senol Birol; Reinhold Wischnowsky
@@ -345,7 +360,23 @@ Dynamo Bucharest: Utu; Popa, I. Nunweiler; Dumitru, Alexandru, L. Nunweiler; Sel
 Besiktas: Urkmez; Noyan, Hancer; Aki, Koldas, Soydan; Ozatac, Birol, Peker, Ozacar
 Source: http://query.nytimes.com/mem/archive/pdf?res=F60614FA3A5B147A93CBA8178DD85F458685F9
 
-Group: 2
+Stage: 2
+
+* Dukla Prague - 0
+* Montreal Concordia - 1
+* Monaco - 0
+* Red Star Belgrade - 1
+* Espanyol - 0
+* Rapid Vienna - 2
+* Shamrock - 1
+* Petah Tikva - 1
+
+; Rapid Vienna; v; Montreal Concordia
+
+; Rapid Vienna; v; Petah Tikva
+
+; Shamrock Rovers; Red Star Belgrade
+
 
 6/25/1961; Petah Tikva; 2-2; Shamrock Rovers; Polo Grounds; 12244
 Source: http://query.nytimes.com/mem/archive/pdf?res=F1061FFE39591B7A93C4AB178DD85F458685F9
@@ -486,7 +517,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9C0CE1DC1E3FE13ABC4950DFB16
 *Competition: International Soccer League Championship
 *Season: 1961 Championship
 Round: Final
-Group: 
+Stage:
 
 
 8/2/1961; Dukla Prague; 7-2; Everton; Polo Grounds; 12890
@@ -502,7 +533,20 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9407E5DD113DE733A25754C0A96
 Competition: International Soccer League
 
 Season: 1962 
-Group: 1
+Stage: 1
+
+* Reutlingen - 0
+* America - 2
+* Guadalajara - 2
+* Palermo - 1
+* Dundee - 0
+* Hajduk Split - 1
+
+; Guadalajara; v; Hajduk Split
+
+; Guadalajara; v; America (RJ)
+
+; Palermo; v; America (RJ)
 
 5/20/1962; Reutlingen; 2-0; Dundee; Polo Grounds; Raymond Kraft, Mike Dunne, Francis McGowan; 17444
 Biesinger, Sattler;
@@ -576,7 +620,22 @@ America Rio: Ari de Oliveira, J. dos Santos, Dialma Dias, W. dos Santos, Leonida
 Dundee: Liney, Hamilton, Cox, Seith, Ure, Wishart, Penman, Cousin, Waddell, Gilzean, Robertson
 Source: http://query.nytimes.com/mem/archive/pdf?res=9507E1DC1031EF3BBC4F52DFB0668389679EDE
 
-Group: 2
+Stage: 2
+
+* Belenenses - 2
+* Wiener - 2
+* Panathinaikos - 2
+* MTK Budapest - 0
+* Elfsborg - 2
+* Real Oviedo - 0
+
+; Belenenses; v; Panathinaikos
+
+; Belenenses; v; Elfsborg
+
+; Wiener; v; Panathinaikos
+
+; Wiener; v; Elfsborg
 
 7/1/1962; Panathinaikos; 3-3; Elfsborg; Downing Stadium; James McLean, Aldo Clemente, John Di Salvatore; 13658
 Papaemmanouil, Papaemmanouil, Panakis; Pettersson, Raberg, Grahn
@@ -637,7 +696,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9505EED8153DE63BBC4850DFB16
 *Competition: International Soccer League Championship
 *Season: 1962 Championship
 Round: Final
-Group: 
+Stage: 
 
 8/1/1962; America Rio; 2-1; Belenenses; Downing Stadium; James McLean, Vincent D'Albis, Howard Levine; 5713
 Vasconcellos, Coelho; Fernandes
@@ -663,7 +722,17 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9806E3DD1E31EF3BBC4B52DFBE6
 
 Competition: International Soccer League
 Season: 1963 
-Group: 1
+Stage: 1
+
+* West Ham - 1
+* Mantova - 1
+* Kilmarnock - 0
+* Recife - 0
+* Munster - 0
+* Oro - 0
+* Valenciennes
+
+; West Ham; v; Mantova
 
 5/29/1963; CD Oro; 3-3; Recife; Chicago, IL; 14096
 ; Alemão, Alemao, Djalma Freitas
@@ -758,7 +827,16 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9504EFDF1139E43BBC4F51DFB06
 6/27/1963; Mantova; 2-0; Preussen Munster; Downing Stadium; 7716
 Source: http://query.nytimes.com/mem/archive/pdf?res=9504EFDF1139E43BBC4F51DFB0668388679EDE
 
-Group: 2
+Stage: 2
+
+* Gornik Zabrze - 0
+* Dinamo Zagreb - 1
+* Wiener AC - 0
+* Ujpest - 0
+* Real Valladolid - 1
+* Helsingborgs - 0
+
+; Dinamo Zagreb; v; Real Valladolid
 
 7/3/1963; Gornik; 0-1; Ujpest; Chicago, IL; Nowakowski; 15000
 Gornik: Hubert Kostka, Stefan Florenski, Stanisław Oślizło, Edward Olszówka, Karol Kapciński, Jan Kowalski [75 ?], Erwin Wilczek, Włodzimierz Lubański, Jerzy Musiałek, Ernest Pol, Roman Lentner
@@ -879,7 +957,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9E00EED8153AE13BBC4151DFB16
 *Competition: International Soccer League Championship
 *Season: 1963 Championship
 Round: Final
-Group: 
+Stage:
 
 7/31/1963; Gornik; 1-1; West Ham; Downing Stadium; Ray Morgan, Clemente, Nina; 9463
 Pol; Byrne
@@ -914,9 +992,18 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9505E3DC1431E73BBC4A52DFBE6
 
 Competition: International Soccer League
 Season: 1964
-Group: 1
+Stage: 1
 
-5/31/1964; Werder Bremen; 2-2; Bahia; Downing Stadium; Peter Rhodes, Tom Budano, George Apostolis; 10736
+* Werder Bremen - 3
+* Hearts - 1
+* Vicenza - 1
+* Blackburn Rovers - 1
+* EC Bahia - 2
+
+* 5/15/1964; Werder Bremen; 2-1; Guadalajara
+* http://query.nytimes.com/mem/archive/pdf?res=F00A13F63B5415738DDDAF0994DD405B848AF1D3
+
+5/31/1964 1415; Werder Bremen; 2-2; Bahia; Downing Stadium; Peter Rhodes, Tom Budano, George Apostolis; 10736
 Zebrowski, Bordel; Martins, Barreto
 Werder Bremen: Bernard, Piontek, Lorenz, Bordel, Jagielski, Schimeczek, Zebrowski, Ferner, Kloeckner, Soya, Haenel
 Bahia: Cavallero, Costa, Dos Santos, Valenca, Reboulos, Barreto, Calazans, Martins, Lopez, De Aranjo, Sergi
@@ -940,10 +1027,9 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=9A07E5D6143CEE32A2575BC0A96
 
 6/14/1964; Lanerossi Vicenza; 3-1; Blackburn Rovers; Downing Stadium; William Peters, E. Fiebieg, Thomas McCready; 14069
 Vastola (Dell'Angelo) 24, Vinicuius Demenezes 37, Dell'Angelo 78; Alan Bradshaw 63
-* Subs for LA: Luison
 Lanerossi Vicenza: Pin, Tiberl, Savoini, Demarchi, Carantini, Zoppelletto, Vastola, Mentl, Demenezes, Dell'Angelo, Campana
+* Subs for LA: Luison
 Blackburn Rovers: Else, Sims, Newton, Clayton, England, McGrath, Ferguson, McEvoy, Jones, Bradshaw, Harrison
-* 
 Source: http://query.nytimes.com/mem/archive/pdf?res=9D06E5D71130E033A25756C1A9609C946591D6CF
 
 6/14/1964; Hearts; 1-0; Bahia; Downing Stadium; John Di Salvatore, Peter Rhodes, Paul Pose; 14069
@@ -952,12 +1038,30 @@ Hearts: Cruickshank; Shevlane, Holt; Poland, Barry, Higgins; Hamilton, Cumming, 
 Bahia: Ita Da Silva; Clemente, Dos Santos; Barreto, Valenca, Reboucas, Calazans, Martins, Lopez, De Araujo, Chaves
 Source: http://query.nytimes.com/mem/archive/pdf?res=9D06E5D71130E033A25756C1A9609C946591D6CF
 
+* Hearts: 2-1-0; 3; 1
+* Werder: 1-1-0
+* Vicenza: 1-1-0
+* Bahia: 0-1-1
+* Blackburn: 0-0-3
+
+* Blackburn - 1 tie.
+* Bahia - 1 loss, 1 tie
+* Vicenza - 1 tie
+* Hearts - nothing
+* Werder - 1 win, 1 tie
+* goal difference problems.
+
+* standings here.
+
 6/17/1964; Lanerossi Vicenza; 2-0; Bahia; Downing Stadium; Peter Rhodes, Joseph Lacko, T. Zarraga; 8529
 Vinicius De Menezes (Sergio Campana) 5, Raggi 72;
 Lanerossi Vicenza: Luison, Volpato, Savoini, Demarchi, Tiberi, Zoppelletto, Raggi, Menti, De Menezes, Dell'Angelo, Campana
 Bahia: Da Silva, Costa, Dos Santos, Barreto, Valenco, Valenca, Reboucas, Calazans, Martins, Lopez, Sergi, De Santana
 * Substitute: Lanerossi - Colaussi
 Source: http://query.nytimes.com/mem/archive/pdf?res=9E07E4DB103FEE32A2575BC1A9609C946591D6CF
+
+6/19/1964; Werder Bremen; v; Hearts; Chicago, IL
+Source: http://query.nytimes.com/mem/archive/pdf?res=F40B14F73A5415738DDDAE0994DE405B848AF1D3
 
 6/21/1964; Blackburn Rovers; 3-1; Bahia; Downing Stadium; Aldo Clemente, Peter Rhodes, Ottfried Scheer; 1358
 Newton, McEvoy, Harrison; Valenca
@@ -980,12 +1084,20 @@ Traynor, White;
 Hearts: Cruickshank, Shevlane, Holt, Pland, Barry, Higgins, Hamilton, Cumming, White, Wallace, Traynor
 Blackburn Rovers: Else, Sims, Newton, McGrath, England, Joyce, Blore, McEvoy, Jones, Douglas, Ferguson
 Source: http://query.nytimes.com/mem/archive/pdf?res=9D06E5D71130E033A25756C1A9609C946591D6CF
+* last games of first stage.
 
 * Gerd Zebrowski top scorer (8), tied Geoff Hurst from previous season.
 * Jim Cruickshank
 * Lists all scorers here.
 
-Group: 2
+Stage: 2
+
+* Zaglebie - 2
+* Schwechater - 1
+* Red Star Belgrade - 3
+* Vitoria Guimaraes - 3
+* AEK Athens - 1
+
 
 7/5/1964; Zaglebie Sosnowiec; 3-0; AEK Athens; Downing Stadium; Helmut Fritz, Leo Goldstein, William Noble; 7840
 Zaglebie Sosnowiec: Machnik, Skiba, Bazan, Spiewak, Fulczyk, Majewski, Szmidt, Galeczka, Myga, Jarosik, Piecyk
@@ -1051,7 +1163,7 @@ Source: http://query.nytimes.com/mem/archive/pdf?res=FA0A12FF3A5B1B728DDDAE0A94D
 *Season: 1964 Championship
 * Championship.
 Round: Final
-Group: 
+Stage:
 
 7/29/1964; Zaglebie Sosnowiec; np; Werder Bremen; Downing Stadium
 Source: http://query.nytimes.com/mem/archive/pdf?res=F30A17FD395E147A93C3AA178CD85F408685F9
@@ -1087,7 +1199,15 @@ Season: 1965
 *http://query.nytimes.com/mem/archive/pdf?res=F00914FC3D5F147A93CBA8178ED85F418685F9
 * John J. Carey of Nottingham Forest says American football has not improved in 15 years.
 
-Group: 1
+Stage: 1
+
+* New York Americans - 0
+* Portugesa - 0
+* Varese - 1
+* TSV Munich - 1
+* West Ham - 0
+
+; Varese; v; TSV Munich
 
 5/30/1965; Munchen 1860; 2-0; New York Americans; Downing Stadium; Leo Goldstein, Anthony Nina, John Sichman; 8062
 Grosser, Brunnenmeier;
@@ -1193,7 +1313,12 @@ Portuguesa (Brazil): Venerando; Deoliveira, Villela; Vieira, Pereira, W. Dasilva
 West Ham: Standman; Bond, Burkett; Peters, Brown, Moore; Brabrook, Boyce, Byrne
 Source: http://query.nytimes.com/mem/archive/pdf?res=F20B12FB3C5F147A93CBAB178DD85F418685F9
 
-Group: 2
+Stage: 2
+
+* Polonia - 0
+* Ferencvaros - 0
+* West Bromwich - 0
+* Kilmarnock - 0
 
 7/4/1965; Ferencvaros; 2-1; Kilmarnock; Downing Stadium; Leo Goldstein, James Lacko, Paul Pose; 6667
 Mate Fenyvesi 29, Gyula Rakosi; Ronald Hamilton
