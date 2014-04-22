@@ -11,6 +11,11 @@ l = [
         },
 
     {
+        'name': 'New Brunswick Hungarians',
+        'city': 'New Brunswick, NJ',
+        },
+
+    {
         'name': 'New Brunswick Brigade',
         'city': 'New Brunswick, NJ',
         # http://www.soccertimes.com/directory/usisl/premier/brigade.htm

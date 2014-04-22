@@ -10,6 +10,13 @@ l = [
         'city': 'Palo Alto, CA',
         },
 
+
+    {
+        'name': 'Ajax America Women',
+        #'founded': mid-70's,
+        'city': 'Rolling Hills Estates, CA',
+        },
+
     {
         'name': 'Sacramento Republic',
         'city': 'Sacramento, CA',

@@ -9,6 +9,11 @@ l = [
         'name': 'Niagara Falls Rangers',
         'city': 'Niagara Falls, NY',
         },
+    {
+        'name': 'New York Eagles',
+        'city': 'Mount Vernon, NY',
+        },
+
 
     {
         'name': 'Brooklyn Hispano',

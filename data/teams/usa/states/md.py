@@ -71,7 +71,22 @@ l = [
         },
 
     {
+        'name': 'Allied SC',
+        'city': 'Baltimore, MD',
+        },
+
+    {
         'name': 'Baltimore Colts FC',
+        'city': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Baltimore Pompei',
+        'city': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Baltimore Flyers',
         'city': 'Baltimore, MD',
         },
 

@@ -824,6 +824,31 @@ l = [
         },
 
     {
+        'name': '1. FFC 08 Niederkirchen',
+        'founded': datetime.datetime(2008, 4, 25),
+        'city': 'Niederkirchen, Germany',
+        },
+
+    {
+        'name': 'FFC Flaesheim-Hillen',
+        'founded': 1999,
+        'dissolved': 2001,
+        'city': 'Haltern, Germany',
+        },
+
+    {
+        'name': 'FFC Heike Rheine',
+        'founded': datetime.datetime(1998, 3, 10),
+        'city': 'Rheine, Germany',
+        },
+
+    {
+        'name': 'Sportfreunde Siegen',
+        'founded': datetime.datetime(1899, 7, 25),
+        'city': 'Siegen, Germany',
+        },
+
+    {
         'name': 'Turbine Potsdam',
         'founded': datetime.datetime(1999, 4, 1),
         'city': 'Potsdam, Germany',
@@ -1314,6 +1339,18 @@ l = [
         },
 
     {
+        'name': 'FFC Brauweiler',
+        'founded': datetime.datetime(2000, 6, 1),
+        'city': 'Pulheim, Germany',
+        },
+
+    {
+        'name': 'SC 07 Bad Neuenahr',
+        'founded': 1907,
+        'city': 'Bad Neuenahr-Ahrweiler, Germany',
+        },
+
+    {
         'name': '1860 Munich',
         'founded': datetime.datetime(1860, 5, 17),
         'city': 'Munich, Germany',
@@ -1369,6 +1406,36 @@ l = [
         'name': 'MSV Duisburg',
         'founded': 1902,
         'city': 'Duisburg, Germany',
+        },
+
+    {
+        'name': 'FCR 2001 Duisburg',
+        'founded': datetime.datetime(2001, 6, 8),
+        'city': 'Duisburg, Germany',
+        },
+
+    {
+        'name': 'FF USV Jena',
+        'founded': 2004,
+        'city': 'Jena, Germany',
+        },
+
+    {
+        'name': 'VfL Sindelfingen',
+        'founded': 1862,
+        'city': 'Sindelfingen, Germany',
+        },
+
+    {
+        'name': 'SG Wattenscheid 09',
+        'founded': 1909,
+        'city': 'Wattenscheid, Germany',
+        },
+
+    {
+        'name': 'Herforder SV',
+        'founded': 1953,
+        'city': 'Herford, Germany',
         },
 
     {
@@ -1438,6 +1505,18 @@ l = [
         'name': 'Rot-Weiss Essen',
         'founded': datetime.datetime(1907, 2, 1),
         'city': 'Essen, Germany',
+        },
+
+    {
+        'name': 'SGS Essen',
+        'founded': 2000,
+        'city': 'Essen, Germany',
+        },
+
+    {
+        'name': 'TSV Crailsheim',
+        'founded': 1864,
+        'city': 'Crailsheim, Germany',
         },
 
     {
@@ -1566,6 +1645,12 @@ l = [
         'name': 'AIK Fotboll',
         'founded': datetime.datetime(1891, 2, 15),
         'city': 'Stockholm, Sweden',
+        },
+
+    {
+        'name': 'BK Kenty',
+        'founded': 1932,
+        'city': 'Linkoping, Sweden',
         },
 
     {
@@ -1769,6 +1854,31 @@ l = [
         'city': 'Ljungskile, Sweden',
         },
 
+    {
+        'name': 'Kristianstads DFF',
+        'founded': 1998,
+        'city': 'Kristianstad, Sweden',
+        },
+
+    {
+        'name': 'Alviks IK',
+        'city': 'Alvik, Sweden',
+        },
+
+
+    {
+        'name': 'QBIK',
+        'founded': 1978,
+        'city': 'Karlstad, Sweden',
+        },
+
+    {
+        'name': 'IF Trion',
+        'founded': 1936,
+        'city': 'Spjutsbygd, Sweden',
+        },
+
+
     # Norway
 
     {
@@ -1816,7 +1926,7 @@ l = [
     {
         'name': 'IK Start',
         'founded': datetime.datetime(1905, 9, 19),
-        'city': 'Kristiansand, Norway',
+        'city': 'Kristiansandd, Norway',
         },
 
     {
@@ -4860,6 +4970,24 @@ l = [
         'name': 'FC Girondins de Bordeaux',
         'founded': 1881, 
         'city': 'Bordeaux, France',
+        },
+
+    {
+        'name': 'FC Vendenheim',
+        'founded': 1974, 
+        'city': 'Vendenheim, France',
+        },
+
+    {
+        'name': 'ASJ Soyaux',
+        'founded': 1968, 
+        'city': 'Soyaux, France',
+        },
+
+    {
+        'name': 'Yzeure Allier Auvergne',
+        'founded': 1999, 
+        'city': 'Yzeure, France',
         },
 
     {
