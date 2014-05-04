@@ -1,24 +1,26 @@
 Competition: Liga MX Liguilla
 
-Season: 2000 Winter
+Season: 2000-2001 Winter
 BlockSource: http://www.rsssf.com/tablesm/mex01.html
 
-*Qualifying Match for Playoffs
-*  [Irapuato worst runners-up, Morelia third place team with more points]
 
-*First Leg
+Round: Qualifying
+*  [Irapuato worst runners-up, Morelia third place team with more points]
+Leg: 1
+
 11/23/2000; Irapuato   ; 1-0; Morelia
 Francisco Portocarrero 55;
 
-*Second Leg
+Leg: 2
+
 11/26/2000; Morelia    ; 7-2; Irapuato
 Carlos Pavón 23, Carlos Pavón 31, Carlos Pavón 33, Alex Fernándes 29, Alex Fernandes 45, Carlos Morales 52, Carlos Morales (pk) 90; Ramiro Briseño 40, Cristian Morales 52
 
 *Playoffs
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 11/29/2000; Santos     ; 2-1; Necaxa
 Gutto 19, Robson Luiz 76; Agustín Delgado 63
 
@@ -30,7 +32,8 @@ Gutto 19, Robson Luiz 76; Agustín Delgado 63
 
 11/30/2000; Morelia    ; 0-0; Pachuca
 
-*Second Legs
+Leg: 2
+
 12/2/2000; Toluca     ; 2-4; America 
 Andres Silva (og) 7, Jose Cardozo 90; Franki Oviedo 18, Luis Hernandez 37, Jose Luis Calderon 52, Jesus Mendoza 89
     
@@ -44,14 +47,15 @@ Jared Borguetti 27, Robson Luiz 36; Zague 69, Zague 93
 Pedro Pineda 56; Carlos Pavon 2, Heriberto Morales 67
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 12/6/2000; Atlas      ; 3-3; Toluca
 Zepeda 18, Briseño 81, Esqueda 89; Espinoza 47, Cardozo 60, Naelson 87  
 
 12/7/2000; Santos     ; 0-0; Morelia
 
-*Second Legs
+Leg: 2
+
 12/9/2000; Toluca     ; 3-1; Atlas 
   Jose Cardozo 20, Jose Cardozo 23, Jose Cardozo 65; Mario Mendez 6
  
@@ -59,12 +63,13 @@ Zepeda 18, Briseño 81, Esqueda 89; Espinoza 47, Cardozo 60, Naelson 87
   Javier Lozano 7, Jorge Almiron 47, Carlos Morales 57; Johan Rodriguez 65, Johan Rodriguez 72
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/13/2000; Morelia    ; 3-1; Toluca
 Mario Ruiz 23, Alex Fernandez 38, Omar Trujillo 56; Jose Cardozo 69
  
-*Second Leg
+Leg: 2
+
 12/16/2000; Toluca     ; 2-0; Morelia            
 Erick Espinoza 15, Jose Cardozo 26;
 *[4-5 pen]
@@ -74,7 +79,7 @@ Erick Espinoza 15, Jose Cardozo 26;
 *              Adrian Garcia 4-4, Heriberto Morales 4-5]
 
 
-Season: 2001 Summer
+Season: 2000-2001 Spring
 
 *Promotion Playoff
 *(between winter (Aguascalientes) and summer (La Piedad) champions 2nd level)
@@ -90,7 +95,8 @@ Season: 2001 Summer
 *Fist Leg [Jun 6] 
 *Veracruz         0-0 Atlante 
 
-*Second Leg [Jun 9] 
+Leg: 2
+
 *Atlante          4-1 Veracruz 
 *  [Paulo Serafin 16, Manuel Sol 30, Jose Manuel Abundis 57, Jose Manuel Abundis 62; 
 *   Guillermo Hernandez 51] 
@@ -98,16 +104,17 @@ Season: 2001 Summer
 *NB: following the playoff, Irapuato's franchise was moved to Veracruz,
 *    so Veracruz will play instead of Irapuato in 2001/02.
 
-Round: Qualifying Playoffs
+Round: Qualifying
+Leg: 1
 
-*First Legs 
 4/25/2001; Atlas      ; 1-2; Puebla
   Juan Pablo Rodriguez 40; Pablo Caballero 13, Alberto Garcia Aspe 34
  
 4/26/2001; Morelia    ; 3-3; Tecos
   Flavio Davino 13, Flavio Davino 14, Jose A. Noriega 55; Flavio Davino (og) 5,  Reynaldo Navia 41, Adolfo Bautista 66
 
-*Second Legs 
+Leg: 2
+
 4/28/2001; Puebla     ; 3-3; Atlas 
   Alberto Garcia Aspe 33, Gilberto Jimenez 72, Marco Capetillo 78; Pablo Caballero (og) 16, Walter Coyette 64, Miguel Zepeda 86
  
@@ -116,8 +123,8 @@ Round: Qualifying Playoffs
 Notes: Tecos advance on better record.
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 5/2/2001; Leon       ; 1-1; America 
 Francisco Uribe 7; Alfredo Murguia (og) 88
  
@@ -130,7 +137,8 @@ Cesareo Victorino 33, Manuel Vidrio 66, Manuel Vidrio 70, Isaac Morales 90;
 5/3/2001; Tecos      ; 2-3; Santos 
 Zdenko Muff 20, Roberto Palacios 86; Jared Borguetti 36, Jared Borguetti 65, Mariano Trujillo 61
 
-*Second Legs
+Leg: 2
+
 5/5/2001; Monterrey  ; 2-2; Pachuca
 Antonio De Nigris 32, Omar Avilan 61; Cesareo Victorino 52, Cesareo Victorino 68
  
@@ -144,15 +152,16 @@ Jesus Olalde 57, Oscar Mascorro (og) 86; Roberto Ruiz Esparza 48, Marco A. Capet
 Jared Borguetti 38, Jared Borguetti 76, Hector Altamirano 59, Johan Rodriguez 83;
  
 Round: Semifinals
+Leg: 1
 
-*First Legs
 5/9/2001; Pachuca    ; 2-0; America 
   Andres Chitiva 33, Sergio Santana 79;
  
 5/10/2001; Puebla     ; 5-4; Santos 
 Pablo Caballero 2, Claudinho 4, Claudinho 51, Alberto Garcia Aspe 51, Alberto Garcia Aspe 87; Jared Borguetti 21, Jared Borguetti 24, Jared Borguetti 59, Hector Altamirano 37
 
-*Second Legs
+Leg: 2
+
 5/12/2001; America    ; 1-1; Pachuca 
   Braulio Luna 4; Cesareo Victorino 90
  
@@ -160,21 +169,22 @@ Pablo Caballero 2, Claudinho 4, Claudinho 51, Alberto Garcia Aspe 51, Alberto Ga
   Rodrigo Ruiz 13, Johan Rodriguez 45; Claudinho 41
 
 Round: Final
+Leg: 1
 
-*First Leg
 5/17/2001; Pachuca    ; 2-1; Santos 
 Sergio Santana 4, Pedro Pineda 85; Jared Borguetti 5
 
-*Second Leg
+Leg: 2
+
 5/20/2001; Santos     ; 3-1; Pachuca
   Jared Borguetti 25, Mariano Trujillo 64, Robson Luiz 79; Andres Chitiva 38
 
 
-Season: 2001 Winter
+Season: 2001-2002 Winter
 BlockSource: http://www.rsssf.com/tablesm/mex02.html
 Round: Quarterfinals 
+Leg: 1
 
-*First Legs
 12/28/2001; Santos       ; 1-1; Tigres
   Jared Borguetti 58; Carlos Ochoa 76
  
@@ -187,7 +197,8 @@ Round: Quarterfinals
 12/30/2001; Necaxa       ; 2-0; Cruz Azul 
   Luis Perez 38, Carlos Gonzalez 57;
 
-*Second Legs
+Leg: 2
+
 12/1/2001; Toluca       ; 2-0; Guadalajara 
   Vicente Sanchez 13, Carlos Maria Morales 64;
  
@@ -202,15 +213,16 @@ Round: Quarterfinals
 Notes: Pachuca qualified on regular season record
  
 Round: Semifinals 
+Leg: 1
 
-*First Legs
 12/5/2001; Cruz Azul    ; 1-0; Tigres 
   Marinho Ledezma 29;
  
 12/5/2001; Pachuca      ; 1-1; Toluca 
   Gabriel Caballero 74; Jose Saturnino Cardozo 52
 
-*Second Legs
+Leg: 2
+
 12/8/2001; Toluca       ; 2-4; Pachuca
   Vicente Sanchez 25, Jose Cardozo 47; Sergio Santana 6, Gabriel Caballero 58, Hugo Brizuela 66, Walter Silviani 88
  
@@ -219,12 +231,13 @@ Round: Semifinals
 Notes: Tigres qualified on regular season record
  
 Round: Final 
+Leg: 1
 
-*First Leg
 12/12/2001; Pachuca      ; 2-0; Tigres 
   Walter Silvani 23, Sergio Santana 28;
  
-*Second Leg
+Leg: 2
+
 12/15/2001; Tigres       ; 1-1; Pachuca 
   Jesus Olalde 19; Walter Silvani 61
  
@@ -232,17 +245,18 @@ Round: Final
 *NB: during the break, Irapuato were relocated (and renamed) to Veracruz.
 
 
-Season: 2002 Summer
+Season: 2001-2002 Spring
 Round: Qualifying Round
+Leg: 1
 
-*First Legs
 5/2/2002; Cruz Azul    ; 1-2; Morelia
   Sebastian Abreu 56; Alex Fernandez 15, Carlos Morales 45
 
 5/2/2002; Tigres       ; 2-2; Santos
   Eneilton Menezes 45, Maurilio Thomas 90; Eduardo Lillingston 25, Mauricio Gallaga 72
 
-*Second Legs
+Leg: 2
+
 5/5/2002; Santos       ; 1-1; Tigres
   Hector Altamirano 87; Maurilio Thomas 12
 
@@ -250,8 +264,8 @@ Round: Qualifying Round
   Ismael Iñiguez 54, José Antonio Noriega 59, Jose Antonio Noriega 85; Miguel Zepeda 41, Sebastián Abreu 48
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
 5/8/2002; Necaxa       ; 1-0; Toluca
   Angel Sosa 10;
 
@@ -264,7 +278,8 @@ Round: Quarterfinals
 5/9/2002; Atlas        ; 2-1; Santos
   José Luis Calderón 25, Jose Luis Calderon 27;Carlos Augusto Gomes 15
 
-*Second Legs 
+Leg: 2
+
 5/11/2002; Toluca       ; 0-2; Necaxa 
 ;  Zague 81, Carlos Castro 94
 
@@ -279,36 +294,37 @@ Round: Quarterfinals
 Notes: Santos qualified on regular season record
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 5/14/2002; America      ; 0-0; Pumas
 
 5/16/2002; Necaxa       ; 1-0; Santos
   Angel Sosa 20;
  
-*Second Legs
+Leg: 2
+
 5/18/2002; Pumas        ; 1-2; America 
   Victor Muller 43; Miguel España (og) 7, Christian Patiño 68
 
 5/19/2002; Santos       ; 0-0; Necaxa
 
 Round: Final
+Leg: 1
 
-*First Leg
 5/23/2002; America      ; 0-2; Necaxa
 ;  Victor Ruiz 12, Luis Roberto Alves 42
 
-*Second Leg
+Leg: 2
+
 5/26/2002; Necaxa       ; 0-3 (aet); America
 ;  Christian Patiño 58, Ivan Zamorano 62, Hugo Norberto Castillo 99
 
 
-Season: 2002 Apertura
+Season: 2002-2003 Apertura
 BlockSource: http://www.rsssf.com/tablesm/mex03.html
-
 Round: Quarterfinals
- 
-*First Legs
+Leg: 1
+
 12/4/2002; Guadalajara; 2-1; Toluca
   Jair Garcia 85, Emilio Mora 88; Antonio Naelson 56
 
@@ -320,7 +336,8 @@ Round: Quarterfinals
 12/5/2002; Santos     ; 3-3; America
   Rodrigo Ruiz 30, Rodrigo Ruiz 64, Eduardo Lillingston 60; Cuauhtemoc Blanco 33, Hugo Castillo 38, Hugo Castillo 70
  
-*Second Legs
+Leg: 2
+
 12/7/2002; Toluca     ; 3-0; Guadalajara
   Salvador Carmona 74, Jose Cardozo 77, Vicente Sanchez 90;
 
@@ -334,15 +351,16 @@ Round: Quarterfinals
   Cuauhtemoc Blanco 70; Jared Borgetti 40, German Villa 63
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 12/11/2002; Santos     ; 3-5; Toluca
   Jared Borgetti 18, Johan Rodriguez 47, Hector Altamirano 55; Jose Cardozo 22, Jose Cardozo 32, Vicente Sanchez 42, Maximiliano Cuberas 70, Antonio Naelson 71
 
 12/12/2002; Morelia    ; 4-0; Pumas
   Adolfo Bautista 14, Adolfo Bautista 5, Javier Saavedra 29, Alex Fernandez 44;
 
-*Second Legs
+Leg: 2
+
 12/14/2002; Toluca     ; 2-1; Santos
   José Cardozo 32, Jose Cardozo 82; Jared Borgetti 29
 
@@ -350,32 +368,33 @@ Round: Semifinals
   Rodrigo Lemos 31, Alvaro Gonzalez 45; Adolfo Bautista 40
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/18/2002; Morelia    ; 1-0; Toluca
   Javier Saavedra 59;
 
-*Second Leg
+Leg: 2
+
 12/21/2002; Toluca     ; 4-1; Morelia
   Salvador Carmona 33, Israel Lopez 41, Jose Cardozo 50, Rafael Garcia 65; Adolfo Bautista 1
 
 
-Season: 2003 Clausura
+Season: 2002-2003 Clausura
 
-*Qualifying Playoff (Repesca)
 Round: Repesca
+Leg: 1
 
-*First Leg
 5/22/2003; Cruz Azul  ; 4-1; Guadalajara
   Juan Carlos Cacho 8, Juan Carlos Cacho 85, Alejandro Corona 9, Juan Francisco Palencia 37; Omar Bravo 27
 
-*Second Leg
+Leg: 2
+
 5/25/2003; Guadalajara; 4-1; Cruz Azul
   Joel Sánchez 14, Omar Bravo 40, Johnny García 45, Jair García 61; Juan Francisco Palencia 12
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 5/28/2003; Atlas      ; 1-1; Monterrey
   Juan Pablo Rodriguez 54; Ismael Rodriguez 34
 
@@ -388,7 +407,8 @@ Round: Quarterfinals
 5/29/2003; Veracruz   ; 1-1; Atlante
   Jesús Gutierrez 67; Luis Gabriel Rey 33
 
-*Second Legs
+Leg: 2
+
 5/31/2003; Monterrey  ; 3-2; Atlas
   Guillermo Franco 16, Guillermo Franco 35, Elliot Huitron 73; Juan Pablo Garcia 48, Juan Pablo Rodriguez 62
 
@@ -402,15 +422,16 @@ Round: Quarterfinals
 ;  Luis Hernandez 52
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 6/4/2003; Veracruz   ; 1-0; Morelia
   Martin Rodriguez 29;
 
 6/4/2003; Tigres     ; 1-4; Monterrey
   Kleber Pereira 30; Guillermo Franco 40, Guillermo Franco 50, Jesus Arellano 75, Omar Avilan 88
   
-*Second Legs
+Leg: 2
+
 6/7/2003; Morelia    ; 2-0; Veracruz
   Adolfo Bautista 11, Adolfo Bautista 66;
 
@@ -418,29 +439,30 @@ Round: Semifinals
   Alex Fernandes 14; Aldo de Nigris 79, Alex Mineiro 86
 
 Round: Final
+Leg: 1
 
-*First Leg
 6/11/2003; Monterrey  ; 3-1; Morelia
   Walter Erviti 1, Guillermo Franco 47, Hector Castro 58; Adolfo Bautista 93
  
-*Second Leg
+Leg: 2
+
 6/14/2003; Morelia    ; 0-0; Monterrey
 
 
-Season: 2003 Apertura
+Season: 2003-2004 Apertura
 BlockSource: http://www.rsssf.com/tablesm/mex04.html
 
-*Repechaje (Qualifying Playoffs)
 Round: Repechaje
+Leg: 1
 
-*First Legs [Nov 26]
 12/26/2003; Toluca        ; 4-0; Guadalajara 
   José Cardozo 55, Jose Cardozo 66, Salvador Carmona 88, Vicente Sánchez 93;
 
 12/26/2003; Cruz Azul     ; 1-0; Tecos
   Aarón Galindo 65;
 
-*Second Legs [Nov 29]
+Leg: 2
+
 12/29/2003; Tecos         ; 1-3; Cruz Azul
   Flavio Davino 45; Daniel Diaz 20, César Delgado 81, Erick Marin 92
 
@@ -448,8 +470,8 @@ Round: Repechaje
   Ramón Morales 11, Marco Parra 63, Rafael Medina 89, Omar Bravo 92; José Cardozo 43, Vicente Sánchez 61
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 12/3/2003; Cruz Azul     ; 0-1; Tigres
 ;  Walter Gaitán 27
 
@@ -462,7 +484,8 @@ Round: Quarterfinals
 12/4/2003; Necaxa        ; 1-3; Pachuca
   Angel Sosa 51; Manuel Vidrio 48, Sergio Santana 57, Marinho Ledesma 84
 
-*Second Legs
+Leg: 2
+
 12/6/2003; Tigres        ; 1-2; Cruz Azul           
   Andrés Silvera 6; Marcelo Delgado 11, César Delgado 18
 Notes: Tigres qualify on season record
@@ -477,14 +500,15 @@ Notes: Tigres qualify on season record
   Santiago Baños 1, Mario Hernández Lash 76; Matias Vuoso 14, Jared Borgetti 69
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 12/10/2003; Toluca        ; 1-0; Tigres
   José Cardozo 63;
 
 12/11/2003; Atlante       ; 0-0; Pachuca
 
-*Second Legs
+Leg: 2
+
 12/13/2003; Tigres        ; 2-0; Toluca
   Eduardo Rergis 33, Kleber Pereira 55;
 
@@ -492,34 +516,35 @@ Round: Semifinals
   Claudinho 2, Gabriel Caballero 70; Sebastián González 75
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/17/2003; Pachuca       ; 3-1; Tigres
   Hugo Sánchez (og) 23, Adolfo Bautista 77, Francisco Gabriel de Anda 86; Irenio Soares 59
 
-*Second Leg
+Leg: 2
+
 12/20/2003; Tigres        ; 1-0; Pachuca
   Andrés Silvera 90;
 
 *Pachuca champions Apertura 2003/04
 
 
-Season: 2004 Clausura
+Season: 2003-2004 Clausura
 
 Round: Repechaje 
-*(Qualifying Playoff)
+Leg: 1
 
-*First Leg
 5/19/2004; Cruz Azul     ; 2-1; Pachuca
   Luciano Figueroa 64, Luciano Figueroa 76; Claudio da Silva 7
 
-*Second Leg
+Leg: 2
+
 5/22/2004; Pachuca       ; 0-2; Cruz Azul
 ;  Luciano Figueroa 66, César Delgado 90
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 5/26/2004; Cruz Azul     ; 2-1; Jaguares 
   Luciano Figueroa 22, Jesus Gutierrez (og) 43; Omar Rodriguez 55
 
@@ -532,7 +557,8 @@ Round: Quarterfinals
 5/27/2004; Atlas         ; 1-2; Pumas
   Gerardo Espinoza 47; Joaquín Botero 38, Joaquin Botero 46
 
-*Second Legs
+Leg: 2
+
 5/29/2004; Jaguares      ; 2-2; Cruz Azul 
   Gilberto Mora 53, Tiba 70; Luciano Figueroa 19, César Delgado 45
 
@@ -547,14 +573,15 @@ Notes: Guadalajara qualify on season record
 ;  Israel Lopez 80
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 6/2/2004; Toluca        ; 1-0; Guadalajara
   José Manuel Abundis 63;
 
 6/3/2004; Cruz Azul     ; 0-0; Pumas
 
-*Second Legs
+Leg: 2
+
 6/5/2004; Guadalajara   ; 2-0; Toluca
   Ramón Morales 59, Ramón Ramirez 82;
 
@@ -562,14 +589,15 @@ Round: Semifinals
   Bruno Marioni 16, Ismael Iñiguez 57, Jaime Lozano 81; Luciano Figueroa 14, Luciano Figueroa 38
 
 Round: Final
+Leg: 1
 
-*First Leg
 6/10/2004; Guadalajara   ; 1-1; Pumas 
   Ramon Morales 86; Jose Luis Lopez 76
 
-*Second Leg
+Leg: 2
+
 6/13/2004; Pumas         ; 0-0; Guadalajara         
-*[5-4 pen]
+Penalty kicks: 5-4
 *  [penalties: Jaime Lozano      1-0, Adolfo Bautista         1-1;  
 *              Joaquin del Olmo  2-1, Manuel Sol              2-2;  
 *              Joaquin Beltrán   3-2, Juan Francisco Palencia 3-3; 
@@ -580,12 +608,12 @@ Round: Final
 *Champions: Pumas
 
 
-Season: 2004 Apertura
+Season: 2004-2005 Apertura
 BlockSource: http://www.rsssf.com/tablesm/mex05.html
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 12/24/2004; Atlante     ; 4-2; Toluca
   Luis Gabriel Rey 33, Luis Gabriel Rey 90, Sebastián González 39, Sebastian Gonzalez 79; José Cardozo 36, Vicente Sánchez 37
 
@@ -598,7 +626,8 @@ Round: Quarterfinals
 12/25/2004; Guadalajara ; 0-1; Atlas
 ;  Juan Manuel García Zavala 17
 
-*Second Legs 
+Leg: 2
+
 12/27/2004; Veracruz    ; 1-1; Pumas
   Gustavo Biscayzacú 42; Diego Alonso 43
 
@@ -612,15 +641,16 @@ Round: Quarterfinals
   Octavio Valdez 60; Guillermo Franco 49
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 12/1/2004; Atlante     ; 2-4; Monterrey
   Mario Hernandez Lash 60, Osvaldo Lucas 91; Jesus Arellano 56, Luis Ernesto Perez 80, Luis Ernesto Perez 90, Guillermo Franco 88
 
 12/2/2004; Pumas       ; 4-3; Atlas
   Francisco Fonseca 10, Joaquin Botero 12, Joaquin Botero 47, Diego Alonso 83; Juan Pablo Garcia 32, Daniel Osorno 54, Robert de Pinho 62
 
-*Second Legs
+Leg: 2
+
 12/4/2004; Monterrey   ; 3-1; Atlante
   Guillermo Franco 23, Guillermo Franco 59, Sergio Perez 69; Mario Hernandez Lash 85
 
@@ -628,20 +658,21 @@ Round: Semifinals
   Robert de Pinho 85; Francisco Fonseca 44, Jose Luis Lopez 48
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/8/2004; Pumas       ; 2-1; Monterrey
   Joaquín Beltrán 50, David Toledo 81; Guillermo Franco 21
 
-*Second Leg
+Leg: 2
+
 12/11/2004; Monterrey   ; 0-1; Pumas
 ; Francisco Fonseca 46
 
 
-Season: 2005 Clausura
+Season: 2004-2005 Clausura
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 5/11/2005; Tigres      ; 3-2; Morelia
   Walter Gaitán 32, Walter Gaitan 51, Walter Gaitan 63; Rafael Márquez 11, Mariano Trujillo 78
 
@@ -653,7 +684,8 @@ Round: Quarterfinals
 5/12/2005; Necaxa      ; 0-2; Tecos
 ;  Daniel Ludueña 15, Eliomar Marcón 26
 
-*Second Legs
+Leg: 2
+
 5/14/2005; Morelia     ; 2-1; Tigres
   Rafael Marquez 32, Héctor Castro 40; Aldo de Nigris 67
 
@@ -669,15 +701,16 @@ Round: Quarterfinals
 *NB: América, Morelia and Cruz Azul qualified on better season record
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 5/18/2005; Tecos       ; 1-0; Morelia
   Juan Carlos Leaño 31;
 
 5/19/2005; América     ; 3-1; Cruz Azul
   Cuauhtemoc Blanco 3, Cuauhtemoc Blanco 57, Claudio López 82; Francisco Fonseca 72
  
-*Second Legs
+Leg: 2
+
 5/21/2005; Morelia     ; 1-1; Tecos
   Héctor Castro 53; Carlos María Morales 18
 
@@ -685,22 +718,23 @@ Round: Semifinals
 César Delgado 8; Aarón Padilla 14, Francisco Torres 38, Claudio López 43
 
 Round: Final
+Leg: 1
 
-*First Leg
 5/26/2005; Tecos       ; 1-1; América
   Diego Colotto 59; Cuauhtemoc Blanco 87
 
-*Second Leg
+Leg: 2
+
 5/29/2005; América     ; 6-3; Tecos
   Aarón Padilla 2, Aaron Padilla 37, Claudio López 4, Claudio Lopez 67, Claudio Lopez 90, Cuauhtemoc Blanco 62; Eduardo Lillingston 21, Carlos María Morales 60, Flavio Davino 85
 
 
-Season: 2005 Apertura
+Season: 2005-2006 Apertura
 BlockSource: http://www.rsssf.com/tablesm/mex06.html
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 11/30/2005; Tecos       ; 0-3; Monterrey
 ;  Guillermo Franco 5, Guillermo Franco 53, Carlos Casartelli 87
 
@@ -713,7 +747,8 @@ Round: Quarterfinals
 12/1/2005; Tigres      ; 1-3; América
   Julio César Santos 77; Kleber Pereira 40, Pavel Pardo 62, Cuauhtemoc Blanco 70
 
-*Second Legs
+Leg: 2
+
 12/3/2005; Monterrey   ; 4-0; Tecos
   Guillermo Franco 1, Carlos Casartelli 72, Luis Ernesto Pérez 74, Luis Ernesto Perez 80;
 
@@ -726,14 +761,15 @@ Round: Quarterfinals
 12/4/2005; Cruz Azul   ; 0-0; Toluca
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 12/7/2005; Tigres      ; 1-0; Monterrey
   Sixto Peralta 54;
 
 12/8/2005; Pachuca     ; 0-0; Toluca
 
-*Second Legs
+Leg: 2
+
 12/10/2005; Monterrey   ; 2-1; Tigres
   Luis Ernesto Pérez 57, Guillermo Franco 85; Walter Gaitán 73
 Notes: Monterrey qualified on better season record
@@ -742,24 +778,23 @@ Notes: Monterrey qualified on better season record
   Paulo da Silva 10, Carlos Esquivel 43; Sergio Santana 33
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/15/2005; Toluca      ; 3-3; Monterrey
 Vicente Sánchez 32, José Manuel Abundis 45, Rodrigo Díaz 87; Luis Ernesto Pérez 3, Carlos Casartelli 8, Paulo César da Silva (og) 61
 
+Leg: 2
 
-*Second Leg
 12/18/2005; Monterrey   ; 0-3; Toluca
 ;  Vicente Sánchez 50, Vicente Sanchez 90+1, Rodrigo Díaz 90+3
 
 *Toluca champions Apertura 2005
 
 
-Season: 2006 Clausura
-
+Season: 2005-2006 Clausura
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 5/3/2006; Toluca       ; 2-1; Cruz Azul
   Ismael Valadez 10, Vicente Sánchez 47; César Villaluz 82
 
@@ -772,7 +807,8 @@ Round: Quarterfinals
 5/4/2006; Guadalajara  ; 2-3; Jaguares
   Sergio Ávila 33, Alberto Medina 85; Salvador Cabañas 42, Salvador Cabanas 51, Luis Alonso Sandoval 90+2
 
-*Second Legs
+Leg: 2
+
 5/6/2006; Cruz Azul    ; 1-1; Toluca
   Miguel Sabah 90; Ismael Valadez 7
 
@@ -785,15 +821,16 @@ Round: Quarterfinals
 Walter Jimenez 1, Salvador Cabañas 52; Edwin Borboa 23, Diego Martinez 31, Adolfo Bautista 82, Johnny García 90
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 5/10/2006; Toluca       ; 1-2; San Luis
   José Manuel Abundis 76; Leonel Olmedo 42, Ángel Reyna 62
 
 5/11/2006; Guadalajara  ; 1-2; Pachuca
   José Antonio Patlán 50; Richard Núñez 55, Héctor Castro (og) 88
 
-*Second Legs
+Leg: 2
+
 5/13/2006; San Luis     ; 2-1; Toluca
 Ángel Reyna 18, Octavio Valdez 50; Israel López 52
 
@@ -802,16 +839,17 @@ Richard Nuñez 58, Aquivaldo Mosquera 90+3; Omar Esparza 38, Adolfo Bautista 64,
 Notes: Pachuca qualified on better season record
  
 Round: Final
+Leg: 1
 
-*First Leg
 5/18/2006; San Luis     ; 0-0; Pachuca
 
-*Second Leg
+Leg: 2
+
 5/21/2006; Pachuca      ; 1-0; San Luis
   Richard Nuñez 79;
 
 
-Season: 2006 Apertura
+Season: 2006-2007 Apertura
 
 Round: Quarterfinals
 
@@ -862,7 +900,16 @@ Bruno Marioni 18; Francisco Javier Rodríguez 51, Adolfo Bautista 69
 * Guadalajara champions Apertura 2006
 
 
-Season: 2008 Apertura
+***
+***
+GAP
+***
+***
+
+
+
+
+Season: 2008-2009 Apertura
 
 Round: Quarterfinals
 
@@ -891,14 +938,14 @@ Round: Final
 12/14/2008; Toluca; 0-2 (aet); Cruz Azul; Estadio Nemesio Diez; Roberto Garcia; 23000
 
 
-Season: 2009 Clausura
+Season: 2008-2009 Clausura
 
 Round: Quarterfinals
 
-5/13/1999; UAG; 2-0; UNAM; Estadio Tres de Marzo; Jose Alfredo Penaloza Soto
-5/13/1999; Puebla; 3-1; Monterrey; Estadio Cuauhtemoc; Jaime Herrera Garduno
-5/14/1999; Chiapas; 1-3; Pachuca; Estadio Victor Manuel Reyna; Erim Ramirez Ulloa
-5/14/1999; Indios de Ciudad Juarez; 1-0; Toluca; Estadio Olimpico Benito Juarez; Ricardo Arellano Nieves
+5/13/2009; UAG; 2-0; UNAM; Estadio Tres de Marzo; Jose Alfredo Penaloza Soto
+5/13/2009; Puebla; 3-1; Monterrey; Estadio Cuauhtemoc; Jaime Herrera Garduno
+5/14/2009; Chiapas; 1-3; Pachuca; Estadio Victor Manuel Reyna; Erim Ramirez Ulloa
+5/14/2009; Indios de Ciudad Juarez; 1-0; Toluca; Estadio Olimpico Benito Juarez; Ricardo Arellano Nieves
 
 5/16/2009; UNAM; 3-0; UAG; Estadio Olimpico Universitario
 5/16/2009; Monterrey; 2-2; Puebla; Estadio Tecnologico; Roberto Garcia Orozco
