@@ -1,5 +1,4 @@
 Competition: Ecuadorian Serie A
-
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
 
 BlockSource: http://www.rsssf.com/tablese/ecua2013.html
