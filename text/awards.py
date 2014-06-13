@@ -173,7 +173,6 @@ def process_england_awards():
     from soccerdata.data.lists.awards.england import premier, fa
     return process_awards(premier) + process_awards(fa)
 
-
 def process_uncaf_international_awards():
     from soccerdata.data.lists.awards import uncaf
     return process_awards(uncaf.copa_centroamericana) + process_awards(uncaf.interclubes)
@@ -264,7 +263,14 @@ def process_panamerican_awards():
     from soccerdata.data.lists.awards.panamerican import pac, pag
     return process_awards(pag) + process_awards(pac)
 
-
+def process_indoor_awards():
+    from soccerdata.data.lists.awards import indoor as i
+    
+    l = ['nasl', 'misl1', 'misl2', 'misl3', 'npsl', 'cisl', 'wisl', 'xsl', 'eisl', 'aisl']
+    a = []
+    for name in l:        
+        a.extend(process_awards(getattr(i, name)))
+    return a
 
 def process_usa_awards():
     from soccerdata.data.lists.awards.nasl import usa
