@@ -391,11 +391,6 @@ l = [
         },
 
 
-    {
-        'name': 'Gloria Bistrița',
-        'city': 'Bistrița, Romania',
-        'founded': datetime.datetime(1922, 7, 6),
-        },
 
     {
         'name': 'FCM Bacău',
@@ -3964,12 +3959,6 @@ l = [
         'name': 'FK Drnovice',
         'founded': 1932,
         'city': 'Drnovice, Czech Republic',
-        },
-
-    {
-        'name': 'Blšany',
-        'founded': 1946,
-        'city': 'Blšany, Czech Republic',
         },
 
     {

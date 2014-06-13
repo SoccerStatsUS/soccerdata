@@ -878,12 +878,6 @@ l = [
         },
 
     {
-        'name': 'Atletico Pompeya',
-        'founded': 1993,
-        'city': 'Trinidad, Bolivia',
-        },
-
-    {
         'name': 'Atlético Bucaramanga',
         'founded': 1949,
         'city': 'Bucaramanga, Colombia',

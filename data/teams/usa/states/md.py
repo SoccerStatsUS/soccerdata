@@ -70,10 +70,6 @@ l = [
         'city': 'Baltimore, MD',
         },
 
-    {
-        'name': 'Allied SC',
-        'city': 'Baltimore, MD',
-        },
 
     {
         'name': 'Baltimore Colts FC',
