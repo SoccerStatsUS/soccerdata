@@ -4,7 +4,7 @@ import re
 
 from soccerdata.settings import ROOT_DIR
 
-DIR = os.path.join(ROOT_DIR, 'soccerdata/data/')
+DIR = os.path.join(ROOT_DIR, 'us-minor-data')
 
 
 
@@ -158,65 +158,6 @@ class TextProcessor(object):
                 'source': 'The A-League Archives',
                 })
 
-
-    def process_stat_line(self, line):
-        """
-        Process a line that represents a statistic
-        """
-        line = self.preprocess_line(line)
-
-        if self.set_state_flags(line):
-            return {}
-
-        elif not line:
-            return {}
-
-        else:
-            fields = [e.strip() for e in line.split("  ") if e and e.strip()] # Check e and e.strip in case e is None?
-
-            position = None
-            yellow_cards = red_cards = None # Set these in case they are not listed.
-
-            # Terribly inconsistent formatting.
-            if len(fields) == 4:
-                name, gsgp, minutes, goals = fields
-
-            elif len(fields) == 5:
-                if "/" in fields[1]:
-                    name, gsgp, minutes, goals, ycrc = fields
-                else:
-                    name, position, gsgp, minutes, goals = fields
-
-            elif len(fields) == 6:
-                name, position, gsgp, minutes, goals, ycrc = fields
-                yellow_cards, red_cards = [int(e) for e in ycrc.split("/")]
-
-            else:
-                raise
-
-            name = name.replace('-1', '').replace('-*', '').strip()
-
-            if position:
-                position = position.strip()
-            position = self.position_map[position]
-
-            games_started, games_played = [int(e) for e in gsgp.split("/")]
-            
-            self.stats.append({
-                'competition': self.competition,
-                'season': self.season,
-                'team': self.team,
-                'name': name,
-                'position': position,
-                'minutes': int(minutes),
-                'goals': int(goals),
-                'games_started': games_started,
-                'games_played': games_played,
-                'yellow_cards': yellow_cards,
-                'red_cards': red_cards,
-                })
-
-
     def process_score_line(self, line):
         """
         Process a line that represents a game result.
@@ -283,26 +224,8 @@ class TextProcessor(object):
 
 
 
-def process_apsl_stats():
-
-    # Real, although incomplete stats.
-    p = os.path.join(DIR, "stats/d2/apsl")
-    f = open(p)
-    t = TextProcessor()
-    for line in f:
-        t.process_stat_line(line)
-
-    # Just rosters.
-    p = os.path.join(DIR, "rosters/domestic/apsl")
-    f = open(p)
-    for line in f:
-        t.process_roster_line(line)
-
-    return t.stats
-
-
 def process_apsl_scores():
-    p = os.path.join(DIR, 'games/domestic/country/usa/leagues/apsl.txt')
+    p = os.path.join(DIR, 'games/d2/apsl.txt')
     f = open(p)
     t = TextProcessor()
     for line in f:
