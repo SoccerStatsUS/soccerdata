@@ -13,7 +13,31 @@ from soccerdata.settings import ROOT_DIR
 
 DRAFTS_DIR = os.path.join(ROOT_DIR, 'soccerdata/data/transactions/drafts')
 
-MLS_DRAFTS = ['allocation', 'college', 'dispersal', 'expansion', 'inaugural',  'reentry', 'superdraft', 'supplemental', 'supplemental2']
+DRAFTS = [
+
+    # MLS
+    'allocation', 
+    'college', 
+    'dispersal', 
+    'expansion', 
+    'inaugural',  
+    'reentry', 
+    'superdraft', 
+    'supplemental', 
+    'supplemental2' , 
+
+    # minor
+
+    'usl',
+
+    # indoor
+
+    # NASL
+    'nasl', 
+    ]
+
+
+
 USMNT_DRAFTS = ['usmnt/2004', 'usmnt/2005', 'usmnt/2006', 'usmnt/2007', 'usmnt/2008', 'usmnt/2009', 'usmnt/2010', 'usmnt/2011', 'usmnt/2012'] #, 'usmnt/2013']
 
 # This should probably be in utils.
@@ -39,9 +63,7 @@ def remove_pairs(text, start, end):
 def load_draft_data():
 
     draft_filenames = []
-    draft_filenames.extend(MLS_DRAFTS)
-    #draft_filenames.append('usl')
-    #draft_filenames.append('nasl')
+    draft_filenames.extend(DRAFTS)
     #draft_filenames.append(USMNT_DRAFTS)
 
     dp = DraftProcessor()

@@ -78,11 +78,11 @@ def fix_roster_name(name):
         
 
 
-def process_rosters(fn):
+def process_rosters(fn, root='soccerdata/data/rosters'):
 
     l = []
 
-    p = os.path.join(ROOT_DIR, 'soccerdata/data/rosters/', fn)
+    p = os.path.join(ROOT_DIR, root, fn)
     f = open(p)
 
     rp = RosterProcessor()
