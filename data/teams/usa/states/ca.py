@@ -10,6 +10,13 @@ l = [
         'city': 'Palo Alto, CA',
         },
 
+    {
+        'name': 'San Jose CyberRays',
+        'city': 'San Jose, CA',
+        'founded': 2001,
+        'dissolved': datetime.datetime(2013, 9, 15),
+        },
+
 
     {
         'name': 'Ajax America Women',

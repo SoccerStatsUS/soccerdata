@@ -18,6 +18,14 @@ l = [
         'founded': 2000,
         },
 
+
+    {
+        'name': 'Indiana Twisters',
+        'city': 'Indianapolis, IN',
+        'founded': 1996,
+        'dissolved': 1997,
+        },
+
     {
         'name': 'Indianapolis Classical School',
         'city': 'Indianapolis, IN',

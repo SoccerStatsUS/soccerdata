@@ -5,6 +5,26 @@ import datetime
 
 l = [
 
+    # indoor
+    
+    {
+
+        'name': 'Syracuse Silver Knights',
+        'city': 'Syracuse, NY',
+        'founded': 2010,
+        },
+
+    # ESL
+
+    {
+        'name': 'New York Celtics',
+        },
+
+    {
+        'name': 'New York Hungaria',
+        },
+    
+
     {
         'name': 'Niagara Falls Rangers',
         'city': 'Niagara Falls, NY',
@@ -12,6 +32,12 @@ l = [
     {
         'name': 'New York Eagles',
         'city': 'Mount Vernon, NY',
+        },
+
+    {
+        'name': 'FA Euro',
+        'founded': 2013,
+        'city': 'Brooklyn, NY',
         },
 
 

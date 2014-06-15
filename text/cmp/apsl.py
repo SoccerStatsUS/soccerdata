@@ -27,7 +27,7 @@ wsa_team_map  = {
     ('1988', 'Portland'): 'FC Portland',
     ('1989', 'Portland'): 'Portland Timbers',
     'Victoria': 'Victoria Riptide',
-    'Hollywood': 'Hollywod Kickers',
+    'Hollywood': 'Hollywood Kickers',
     }
 
 apsl_team_map =  {

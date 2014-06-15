@@ -5,6 +5,12 @@ import datetime
 
 l = [
 
+
+    {
+        'name': 'CD Broncos',
+        'city': 'Choluteca, Honduras',
+        },
+
     {
         'name': 'Marathon',
         'founded': datetime.datetime(1925, 11, 25),
@@ -80,6 +86,12 @@ l = [
     {
         'name': 'Real Maya',
         'founded': datetime.datetime(1985, 4, 7),
+        'city': 'Danlí, Honduras',
+        },
+
+    {
+        'name': 'Parrillas One',
+        'founded': datetime.datetime(1993, 2, 14),
         'city': 'Danlí, Honduras',
         },
 

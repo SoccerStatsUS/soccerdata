@@ -5,6 +5,15 @@ import datetime
 
 l = [
 
+    # indoor
+
+        {
+        'name': 'Tallahassee Scorpions',
+        'founded': 1997,
+        'dissolved': 1998,
+        'city': 'Tallahassee, FL',
+        },
+
     # division 1 
 
     {
@@ -13,6 +22,8 @@ l = [
         'dissolved': 1984,
         'city': 'Jacksonville, FL',
         },
+
+
 
     {
         'name': 'Miami Fusion',

@@ -11,6 +11,19 @@ l = [
         },
 
     {
+        'name': 'SC Cleveland', 
+        'city': 'Cleveland, OH', # presumably?
+        },
+
+
+    {
+        'name': 'Cincinnati Excite',
+        'city': 'Cincinnati, OH',
+        'founded': 2004,
+        'dissolved': 2008,
+        },
+
+    {
         'name': 'Dayton Edelweis', # misspelled?
         'city': 'Dayton, OH',
         },

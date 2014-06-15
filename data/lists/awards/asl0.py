@@ -15,7 +15,7 @@ d = {
         ('1929 Fall', 'Fall River Marksmen'),
         ('1930 Spring', 'Fall River Marksmen'),
         ('1930 Fall', 'Fall River Marksmen'),
-        ('1931 Spring', 'New York Giants'),
+        ('1931 Spring', 'New York National Giants'),
         ('1931 Fall', 'New Bedford Whalers'),
         ('1932 Spring', 'New Bedford Whalers'),
         ('1932 Fall', 'Fall River F.C.'),

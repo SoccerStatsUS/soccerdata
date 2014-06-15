@@ -69,6 +69,8 @@ W-League (Australia); AUS1W; women; domestic; League; 1; Country; Australia
 FA Women's Premier League; ENG1W; women; domestic; League; 2; Country; England
 
 
+
+
 Liga MX; MEX1; soccer; domestic; League; 1; Country; Mexico
 Primera Fuerza; LM; soccer; domestic; League; 1; Country; Mexico
 
@@ -96,6 +98,7 @@ Ecuadorian Serie A; ECU1; soccer; domestic; League; 1; Country; Ecuador
 Liga de Fútbol Profesional Boliviano; BOL1; soccer; domestic; League; 1; Country; Bolivia
 Peruvian Primera División; PER1; soccer; domestic; League; 1; Country; Peru
 Paraguayan Primera División; PAR1; soccer; domestic; League; 1; Country; Paraguay
+Venezuelan Primera División; VEN1; soccer; domestic; League; 1; Country; Venezuela
 
 Hyundai A-League; AUS1; soccer; domestic; League; 1; Country; Australia
 Chinese Super League; CHN1; soccer; domestic; League; 1; Country; China
@@ -129,6 +132,8 @@ Serbian SuperLiga; SRB1; soccer; domestic; League; 1; Country; Serbia
 Liga I; ROM1; soccer; domestic; League; 1; Country; Romania
 Prva HNL; CRO1; soccer; domestic; League; 1; Country; Croatia
 League of Ireland; IRL1; soccer; domestic; League; 1; Country; Ireland
+
+2. Bundesliga; GER1; soccer; domestic; League; 2; Country; Germany
 
 FA Cup; ENG-FA; soccer; domestic; Cup; 1; Country; England
 Copa del Rey; ESP1C; soccer; domestic; Cup; 1; Country; Spain
@@ -259,6 +264,10 @@ National Professional Soccer League (indoor); NPSLi; indoor; domestic; League; 1
 United States Interregional Soccer League (indoor); USISLi; indoor; domestic; League; 2; Country; United States
 Continental Indoor Soccer League; CISL; indoor; domestic; League; 2; Country; United States
 World Indoor Soccer League; WISL; indoor; domestic; League; 2; Country; United States
+
+Eastern Indoor Soccer League; EISL; indoor; domestic; League; 3; Country; United States
+Xtreme Soccer League; XSL; indoor; domestic; League; 3; Country; United States
+American Indoor Soccer League; AISL; indoor; domestic; League; 3; Country; United States
 
 * International 
 

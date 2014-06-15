@@ -5,6 +5,10 @@ import datetime
 
 l = [
 
+    {
+        'name': 'Coca Cola',
+        'country': 'El Salvador',
+        },
 
 
 
@@ -41,6 +45,12 @@ l = [
     {
         'name': 'Universidad de El Salvador',
         'city': 'San Salvador, El Salvador',
+        },
+
+    {
+        'name': 'Sonsonate',
+        'city': 'Sonsonate, El Salvador',
+        'founded': 1948,
         },
 
     {

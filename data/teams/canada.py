@@ -5,6 +5,28 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Windsor Stars',
+        'founded': 2004,
+        'city': 'Windsor, ON',
+        },
+
+    {
+        'name': 'Toronto Shooting Stars',
+        'founded': 1996,
+        'dissolved': 1997,
+        'city': 'Toronto, ON',
+        },
+
+    {
+        'name': 'Toronto ThunderHawks',
+        'founded': 2000,
+        'dissolved': 2001,
+        'city': 'Toronto, ON',
+        },
+
     # division 1
 
 
@@ -46,6 +68,20 @@ l = [
         'founded': 1967,
         'dissolved': 1968,
         'city': 'Toronto, ON',
+        },
+
+    {
+        'name': 'Toronto City',
+        'founded': 1961,
+        'dissolved': 1967,
+        'city': 'Toronto, ON',
+        },
+
+    {
+        'name': 'Victoria Riptides',
+        'founded': 1984,
+        'dissolved': 1985,
+        'city': 'Victoria, BC',
         },
     {
         'name': 'Toronto Blizzard',

@@ -5,6 +5,15 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Chicago Soul',
+        'founded': 2011,
+        'dissolved': 2013,
+        'city': 'Chicago, IL',
+        },
+
     {
         'name': 'Chicago FBC',
         'city': 'Chicago, IL',

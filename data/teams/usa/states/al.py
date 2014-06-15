@@ -24,6 +24,13 @@ l = [
         },
 
     {
+        'name': 'Huntsville Fire',
+        'city': 'Huntsville, AL',
+        'founded': 1997,
+        'dissolved': 1998,
+        },
+
+    {
         'name': 'Montgomery Capitals',
         'city': 'Montgomery, AL',
         },

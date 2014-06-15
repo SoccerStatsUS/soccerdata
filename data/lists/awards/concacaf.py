@@ -48,7 +48,7 @@ champions_cup = {
         (2003, 'Deportivo Toluca'),
         (2004, 'Alajuelense'),
         (2005, 'Saprissa'),
-        (2006, 'America'),
+        (2006, 'Club America'),
         (2007, 'Pachuca'),
         (2008, 'Pachuca'),
         ]
@@ -62,9 +62,10 @@ champions_league = {
     'Champion': [
             ('2008-2009', 'Atlante'),
             ('2009-2010', 'Pachuca'),
-            ('2010-2011', 'Monterrey'),
-            ('2011-2012', 'Monterrey'),
-            ('2012-2013', 'Monterrey'),
+            ('2010-2011', 'CF Monterrey'),
+            ('2011-2012', 'CF Monterrey'),
+            ('2012-2013', 'CF Monterrey'),
+            ('2013-2014', 'Cruz Azul'),
             ],
 }
 
@@ -98,7 +99,7 @@ ccc = {
 
     'Champion': [
         (1991, 'Atletico Marte'),
-        (1993, 'Monterrey'),
+        (1993, 'CF Monterrey'),
         (1994, 'Necaxa'),
         (1995, 'Tecos'),
         ],

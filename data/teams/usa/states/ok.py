@@ -22,6 +22,19 @@ l = [
         },
 
     {
+        'name': 'Oklahoma City FC',
+        'city': 'Oklahoma City, OK',
+        'founded': 2012,
+        },
+
+    {
+        'name': 'Oklahoma City Alliance',
+        'city': 'Oklahoma City, OK',
+        'founded': 1996,
+        'dissolved': 1998,
+        },
+
+    {
         'name': 'Oklahoma City Energy',
         'city': 'Oklahoma City, OK',
         'founded': 2013,

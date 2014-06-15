@@ -4,6 +4,11 @@
 import datetime
 
 l = [
+    
+    { 
+        'name': 'Atalanta (Panama)',
+        'country': 'Panama',
+        },
 
 
 
@@ -14,9 +19,23 @@ l = [
         },
 
     {
+        'name': 'CAI de La Chorrera',
+        'founded': 1982,
+        'city': 'La Chorrera, Panama',
+        },
+
+
+
+    {
         'name': 'Plaza Amador',
         'founded': datetime.datetime(1955, 4, 25),
         'city': 'Panama City, Panama',
+        },
+
+    {
+        'name': 'Colón C-3',
+        'founded': datetime.datetime(2010, 3, 9),
+        'city': 'Colón, Panama',
         },
 
     {
@@ -73,7 +92,7 @@ l = [
         'name': 'Atlético Nacional (Panama)',
         'founded': 1995,
         'dissolved': 2001,
-        'city': 'Chorrera, Panama',
+        'city': 'La Chorrera, Panama',
         },
 
     {

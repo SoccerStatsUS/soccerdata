@@ -55,7 +55,7 @@ d = {
         ('1984-1985', 'Club America'),
         ('1985 Prode', 'Club America'),
         ('1986-1987', 'Guadalajara'),
-        ('1986 Mexico', 'Monterrey'),
+        ('1986 Mexico', 'CF Monterrey'),
         ('1987-1988', 'Club America'),
         ('1988-1989', 'Club America'),
         ('1989-1990', 'Puebla'),

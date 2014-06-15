@@ -266,7 +266,7 @@ def process_panamerican_awards():
 def process_indoor_awards():
     from soccerdata.data.lists.awards import indoor as i
     
-    l = ['nasl', 'misl1', 'misl2', 'misl3', 'npsl', 'cisl', 'wisl', 'xsl', 'eisl', 'aisl']
+    l = ['nasl', 'misl1', 'misl2', 'misl3', 'npsl', 'cisl', 'wisl', 'xsl', 'eisl', 'aisl', 'sisl']
     a = []
     for name in l:        
         a.extend(process_awards(getattr(i, name)))

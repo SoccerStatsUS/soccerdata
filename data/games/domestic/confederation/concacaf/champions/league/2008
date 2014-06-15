@@ -1,7 +1,7 @@
 Competition: CONCACAF Champions League
 Season: 2008-2009
 
-Round: Preliminary Round
+Round: Preliminary
 
 8/26/2008; Cruz Azul; 6-0; Hankook Verdes; Estadio Azul; Luis Rodriguez; 5000
 
@@ -47,7 +47,7 @@ Source: MLS Lineup Database
 9/4/2008; UNAM; 3-0; Harbour View; Estadio Olimpico Universitario; Ricardo Salazar; 10000
 Notes: tie played as single match; first game cancelled by Hurricane Gustav
 
-Round: Group Stage
+Round: Group
 Group: A
 
 9/16/2008; DC United; 0-2; Saprissa; RFK Stadium; Marco Rodriguez; 6105
@@ -189,7 +189,7 @@ Group: D
 10/30/2008; Municipal; 4-4; Santos Laguna; Estadio Mateo Flores; Walter Quesada; 1764
 
 Round: Quarterfinals
-Group: 
+Leg: 1
 
 2/24/2009; Houston Dynamo; 1-1; Atlante; Robertson Stadium; Neal Brizan; 10203
 Bobby Boswell 34;
@@ -202,6 +202,8 @@ Source: MLS Lineup Database
 
 2/25/2009; Puerto Rico Islanders; 2-1; Marathon; Estadio Juan Ramon Loubriel; Courtney Campbell; 3500
 
+Leg: 2
+
 3/3/2009; Atlante; 3-0; Houston Dynamo; Estadio Andres Quintana Roo; Silviu Petrescu; 10000
 Houston Dynamo: Pat Onstad, Richard Mulrooney, Craig Waibel (Geoff Cameron 46), Julius James, Wade Barrett (Corey Ashe 46), Brian Mullan (Chris Wondolowski 83), Ricardo Clark, Stuart Holden, Brad Davis, Kei Kamara, Brian Ching.
 Source: MLS Lineup Database
@@ -213,18 +215,24 @@ Source: MLS Lineup Database
 3/5/2009; Santos Laguna; 5-2; Montreal Impact; Estadio Corona; Roberto Moreno; 12000
 
 Round: Semifinals
+Leg: 1
 
 3/17/2009; Puerto Rico Islanders; 2-0; Cruz Azul; Estadio Juan Ramon Loubriel; Neal Brizan; 12751
 
 3/18/2009; Santos Laguna; 2-1; Atlante; Estadio Corona; Walter Quesada; 7500
+
+Leg: 2
 
 4/7/2009; Cruz Azul; 3-1 (aet); Puerto Rico Islanders; Estadio Azul; Paul Ward; 6928
 
 4/8/2009; Atlante; 3-1; Santos Laguna; Estadio Andres Quintana Roo; Mark Geiger; 12000
 
 Round: Final
+Leg: 1
 
 4/22/2009; Cruz Azul; 0-2; Atlante; Estadio Azul; Marco Rodriguez; 22718
+
+Leg: 2
 
 5/12/2009; Atlante; 0-0; Cruz Azul; Estadio Andres Quintana Roo; Benito Archundia; 13000
 

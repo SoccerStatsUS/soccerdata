@@ -11,6 +11,13 @@ l = [
         },
 
     {
+        'name': 'Wichita Fallas Fever',
+        'city': 'Wichita Falls, TX',
+        'founded': 1989,
+        'dissolved': 1992,
+        },
+
+    {
         'name': 'Houston Dash',
         'founded': 2013,
         'city': 'Houston, TX',

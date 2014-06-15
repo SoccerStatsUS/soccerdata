@@ -8,11 +8,21 @@ l = [
 
     { 'name': 'Santa Teresita FC',   },
     { 'name': 'AD Belemita', },
+    { 'name': 'Corsarios FC' },
+    { 'name': 'CS México' },
+    { 'name': 'CS La Unión' },
+    { 'name': 'CS Progreso' },
 
 
     {
         'name': 'L.D. Alajuelense',
         'founded': datetime.datetime(1919, 6, 18),
+        'city': 'Alajuela, Costa Rica',
+        },
+    {
+        'name': 'Alajuela Junior',
+        'founded': 1932,
+        'dissolved': 1936,
         'city': 'Alajuela, Costa Rica',
         },
 
@@ -37,6 +47,11 @@ l = [
         'name': 'San Carlos',
         'founded': 1965,
         'city': 'Ciudad Quesada, Costa Rica',
+        },
+
+    {
+        'name': 'Sagrada Familia',
+        'city': 'San Jose, Costa Rica',
         },
 
     {

@@ -11,6 +11,12 @@ l = [
         'city': 'Tacoma, WA',
         },
 
+
+    {
+        'name': 'FC Seattle',
+        'city': 'Seattle, WA',
+        },
+
     {
         'name': 'Seattle Association',
         'city': 'Seattle, WA',

@@ -18,6 +18,13 @@ l = [
         },
 
     {
+        'name': 'Wichita Tornado',
+        'city': 'Wichita, KS',
+        'founded': 1988,
+        'dissolved': 1989,
+        },
+
+    {
         'name': 'FC Kansas City',
         'city': 'Kansas City, KS',
         'founded': 2012,

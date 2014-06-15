@@ -5,6 +5,16 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Utah Freezz',
+        'founded': 1999,
+        'dissolved': 2001,
+        'city': 'Salt Lake City, UT',
+        },
+    
+
     {
         'name': 'Real Salt Lake',
         'founded': 2004,
@@ -12,7 +22,7 @@ l = [
         },
 
 
-{ 
+    { 
         'name': 'Real Salt Lake Reserves',
         'city': 'Salt Lake City, UT',
         },

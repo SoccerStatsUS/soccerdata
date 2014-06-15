@@ -38,6 +38,13 @@ l = [
         },
 
     {
+        'name': 'Phoenix Inferno',
+        'city': 'Phoenix, AZ',
+        'founded': 1980,
+        'dissolved': 1984,
+        },
+
+    {
         'name': 'Arizona Thunder',
         'city': 'Phoenix, AZ',
         'founded': 1998,
@@ -48,14 +55,6 @@ l = [
         'name': 'Phoenix Banat Storm',
         'city': 'Avondale, AZ',
         'founded': 2006,
-        },
-
-
-    {
-        'name': 'Phoenix Inferno',
-        'city': 'Phoenix, AZ',
-        'founded': 1980,
-        'dissolved': 1983,
         },
 
 

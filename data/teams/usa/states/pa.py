@@ -5,6 +5,33 @@ import datetime
 
 l = [
 
+    # indoor
+    
+    { 
+        'name': 'Pennsylvania Roar',
+        'city': 'Reading, PA',
+        'founded': 2013,
+        'dissolved': 2014,
+        },
+
+    # ASL2
+
+    { 
+        'name': 'Philadelphia Nationals',
+        'city': 'Philadelphia, PA',
+        #'founded': 1936,
+        #'dissolved': 1954,
+        },
+
+    # ASL
+
+    { 
+        'name': 'Bridgeport Hungaria',
+        'city': 'Bridgeport, PA',
+        'founded': 1930,
+        'dissolved': 1930,
+        },
+
 
     { 
         'name': 'Norristown Association',

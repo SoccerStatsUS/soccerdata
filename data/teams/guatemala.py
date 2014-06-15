@@ -18,6 +18,11 @@ l = [
         },
 
     {
+        'name': 'Deportivo Iztapa',
+        'city': 'Puerto Iztapa, Guatemala',
+        },
+
+    {
         'name': 'Deportivo Amatitlán', 
         'founded': 1960,
         'city': 'Amatitlán, Guatemala',

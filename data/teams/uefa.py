@@ -1183,6 +1183,12 @@ l = [
         },
 
     {
+        'name': 'SV Darmstadt 98',
+        'founded': datetime.datetime(1898, 5, 22),
+        'city': 'Darmstadt, Germany',
+        },
+
+    {
         'name': 'Alemannia Aachen',
         'founded': datetime.datetime(1900, 12, 16),
         'city': 'Aachen, Germany',
@@ -4276,6 +4282,12 @@ l = [
         },
 
     {
+        'name': 'US Sassuolo',
+        'founded': 1922,
+        'city': 'Palermo, Italy',
+        },
+
+    {
         'name': 'Varese',
         'founded': datetime.datetime(1910, 3, 22),
         'city': 'Varese, Italy',
@@ -5158,8 +5170,8 @@ l = [
 
     {
         'name': 'Evian TG',
-        'founded': 2007,
-        'city': 'Annecy, France',
+        'founded': 2003,
+        'city': 'Gaillard, France',
         },
 
 

@@ -6,9 +6,20 @@ import datetime
 l = [
 
     {
-        'name': 'CD Broncos',
-        'city': 'Choluteca, Honduras',
+        'name': 'PVV' ,
+        'country': 'Suriname',
         },
+
+    {
+        'name': 'SNL' ,
+        'country': 'Suriname',
+        },
+
+    {
+        'name': 'Eagles FC (Belize)',
+        'country': 'Belize',
+        },
+
 
     {
         'name': 'Inter Playa del Carmen',
@@ -903,9 +914,15 @@ l = [
         'city': 'Chinandega, Nicaragua',
         },
 
+
     {
         'name': 'Deportivo Walter Ferretti',
         'founded': 1987,
+        'city': 'Managua, Nicaragua',
+        },
+
+    {
+        'name': 'UNAN Managua',
         'city': 'Managua, Nicaragua',
         },
 
@@ -999,6 +1016,12 @@ l = [
     {
         'name': 'Don Bosco',
         'city': 'Petionville, Haiti',
+        },
+
+    {
+        'name': 'Valencia (Haiti)',
+        'founded': datetime.datetime(1972, 6, 27),
+        'city': 'Leogane, Haiti',
         },
 
     {

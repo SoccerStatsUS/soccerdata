@@ -5,10 +5,21 @@ import datetime
 
 l = [
 
+
+    # ASL
+
+    {
+        'name': 'Jersey City (ASL)',
+        'city': 'Jersey City, NJ',
+        },
+
+
     {
         'name': 'Paterson Almas',
         'city': 'Paterson, NJ',
         },
+
+
 
     {
         'name': 'New Brunswick Hungarians',
@@ -18,6 +29,13 @@ l = [
     {
         'name': 'New Brunswick Brigade',
         'city': 'New Brunswick, NJ',
+        # http://www.soccertimes.com/directory/usisl/premier/brigade.htm
+        },
+
+    {
+        'name': 'NJ-LUSO Parma',
+        'city': 'Denville, NJ',
+        'founded': 2007,
         # http://www.soccertimes.com/directory/usisl/premier/brigade.htm
         },
 

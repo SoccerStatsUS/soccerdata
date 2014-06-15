@@ -11,6 +11,13 @@ l = [
         },
 
     {
+        'name': 'Savannah Rug Ratz',
+        'city': 'Savannah, GA',
+        'founded': 1997,
+        'dissolved': 1998,
+        },
+
+    {
         'name': 'Cobb Soccer Club',
         'city': 'Marietta, GA',
         },

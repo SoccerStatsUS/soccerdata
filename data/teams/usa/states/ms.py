@@ -12,4 +12,11 @@ l = [
         'dissolved': 1999,
         },
 
+    {
+        'name': 'Mississippi Beach Kings',
+        'city': 'Biloxi, MS',
+        'founded': 1997,
+        'dissolved': 1998,
+        },
+
 ]

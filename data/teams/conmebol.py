@@ -330,6 +330,29 @@ l = [
         'founded': 1996,
         'city': 'Tachira, Venezuela',
         },
+    {
+        'name': 'Atlético El Vigía',
+        'founded': datetime.datetime(1987, 10, 31),
+        'city': 'El Vigía,,Venezuela',
+        },
+
+    {
+        'name': 'Deportivo La Guaira',
+        'founded': 2008,
+        'city': 'Caracas,,Venezuela',
+        },
+
+    {
+        'name': 'Yaracuyanos FC',
+        'founded': 2006,
+        'city': 'San Felipe, Venezuela',
+        },
+
+    {
+        'name': 'Zulia FC',
+        'founded': datetime.datetime(2005, 1, 16),
+        'city': 'Maracaibo, Venezuela',
+        },
 
     {
         'name': 'La Salle FC',
@@ -349,6 +372,12 @@ l = [
         },
 
     {
+        'name': 'Hijos de Yurimaguas',
+        'city': 'Callao, Peru',
+        'founded': datetime.datetime(1967, 3, 16),
+        },
+
+    {
         'name': 'Paulista FC',
         'founded': datetime.datetime(1909, 5, 17),
         'city': 'Jundiai, Brazil',
@@ -359,6 +388,14 @@ l = [
         'founded': datetime.datetime(1921, 5, 1),
         'city': 'Luque, Paraguay',
         },
+
+    {
+        'name': 'Deportivo Capiatá',
+        'founded': datetime.datetime(2008, 9, 4),
+        'city': 'Capiata, Paraguay',
+        },
+
+
 
     {
         'name': 'Sportivo Carapeguá',
@@ -433,6 +470,13 @@ l = [
         'city': 'Caracas, Venezuela',
         },
 
+
+    {
+        'name': 'Tucanes de Amazonas',
+        'founded': 2008, 
+        'city': 'Puerto Ayacucho, Venezuela',
+        },
+
     {
         'name': 'Atlético Zulia',
         'founded': 1996,
@@ -504,6 +548,12 @@ l = [
         'city': 'Sao Caetano, Brazil',
         },
 
+    {
+        'name': 'São Raimundo',
+        'founded': datetime.datetime(1918, 11, 18),
+        'city': 'Manaus, Brazil',
+        },
+
 
     {
         'name': 'Universidad César Vallejo',
@@ -521,6 +571,12 @@ l = [
         'name': 'Cucuta Deportivo',
         'founded': datetime.datetime(1924, 9, 10),
         'city': 'Cucuta, Colombia',
+        },
+
+    {
+        'name': 'Patriotas',
+        'founded': datetime.datetime(2003, 2, 18),
+        'city': 'Tunja, Colombia',
         },
 
     {
@@ -957,6 +1013,36 @@ l = [
         'name': 'Atlético Paranaense',
         'founded': datetime.datetime(1924, 5, 26),
         'city': 'Curitiba, Brazil',
+        },
+
+    {
+        'name': 'Botafogo Sport Club',
+        'founded': datetime.datetime(1919, 8, 14),
+        'city': 'Salvador, Brazil',
+        },
+
+    {
+        'name': 'Guarany de Bagé',
+        'founded': datetime.datetime(1907, 4, 19),
+        'city': ' Bagé, Brazil',
+        },
+
+    {
+        'name': 'Internacional (Limeira)',
+        'founded': datetime.datetime(1913, 10, 5),
+        'city': 'Limeira, Brazil',
+        },
+
+    {
+        'name': 'Sport Club Santos Dumont',
+        'founded': datetime.datetime(1904, 5, 3),
+        'city': 'Limeira, Brazil',
+        },
+
+    {
+        'name': 'Fast Clube',
+        'founded': 1930,
+        'city': 'Manaus, Brazil',
         },
 
     {

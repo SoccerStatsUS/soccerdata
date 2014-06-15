@@ -12,6 +12,12 @@ l = [
         },
 
     {
+        'name': 'Real Boston Rams',
+        'city': 'Boston, MA',
+        'founded': 2012,
+        },
+
+    {
         'name': 'Boston Highlands Team',
         'city': 'Boston, MA',
         },

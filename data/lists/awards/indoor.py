@@ -11,6 +11,9 @@ nasl = {
     'team_data': ['Champion'],
 
     'Champion': [
+        ('1975', 'San Jose Earthquakes'),
+        ('1976', 'Tampa Bay Rowdies'),
+        ('1979', 'Dallas Tornado'),
         ('1979-1980', 'Tampa Bay Rowdies'),
         ('1980-1981', 'Edmonton Drillers'),
         ('1981-1982', 'San Diego Sockers'),
@@ -19,6 +22,9 @@ nasl = {
         ],
 
     'MVP': [
+        ('1975', 'Paul Child'),
+        ('1975', 'Gabbo Garvic'),
+        ('1976', 'Clyde Best'),
         ('1981-1982', 'Juli Veee'),
         ('1983', 'Laurie Abrahams'), # offensive
         ('1983', 'Mehdi Cerbah'), # defensive
@@ -42,7 +48,7 @@ nasl = {
 
 
 misl1 = {
-    'competition': 'Major Indoor Soccer League (1978-2002)',
+    'competition': 'Major Indoor Soccer League (1978-1992)',
     'team_data': ['Champion'],
 
     'Champion': [
@@ -130,7 +136,7 @@ misl1 = {
         ('1991-1992', 'Victor Nogueira'),
         ],
 
-    'Scoring Champions': [
+    'Scoring Champion': [
         ('1978-1979', 'Fred Grgurev'),
         ('1979-1980', 'Steve Zungul'),
         ('1980-1981', 'Steve Zungul'),
@@ -321,7 +327,7 @@ misl3 = {
         
 
 npsl = {
-    'competition': 'National Professional Soccer League',
+    'competition': 'National Professional Soccer League (indoor)',
     'team_data': ['Champion'],
     
     # find original 1999-2000, 2000-2001 awards.
@@ -593,6 +599,73 @@ aisl = {
         ('2006-2007', 'Massachusetts Twisters'),
         ('2007-2008', 'Rockford Rampage'),
 
+        ],
+}
+
+sisl = {
+    'competition': 'Southwest Indoor Soccer League',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        ('1986-1987', 'Garland Genesis'),
+        ('1987-1988', 'Oklahoma City Warriors'),
+        ('1988-1989', 'Lubbock Lazers'),
+        ('1989-1990', 'Addison Arrows'),
+        ('1990-1991', 'Colorado Comets'),
+        ('1991-1992', 'Oklahoma City Warriors'),
+        ('1992-1993', 'Atlanta Magic'),
+        ('1993-1994', 'Atlanta Magic'),
+        ('1994-1995', 'Atlanta Magic'),
+        ('1995-1996', 'Baltimore Bays'),
+        ('1996-1997', 'Baltimore Bays'),
+        ('1997-1998', 'Baltimore Bays'),
+        ],
+
+
+    'MVP': [
+        ('1986-1987', 'Greg Nicholas'),
+        ('1987-1988', 'Austin Hudson'),
+        ('1988-1989', 'Brian Monaghan'),
+        ('1989-1990', 'Andy Crawford'),
+        ('1990-1991', 'Chino Melendez'),
+        ('1991-1992', 'Chris Cook'),
+        ('1992-1993', 'Rich Richmond'),
+        ('1993-1994', 'Brian Moore'), #Sizzling Four MVP
+        ('1994-1995', 'Moe Suri'),
+        ],
+
+
+    'Goalkeeper of the Year': [
+        ('1986-1987', 'Steve Myers'),
+        ('1987-1988', 'Todd Brunskill'),
+        ('1988-1989', 'David Swissler'),
+        ],
+
+
+    'Rookie of the Year': [
+        ('1986-1987', 'Ty Kongdara'),
+        ('1987-1988', 'Steve Bailey'),
+        ('1988-1989', 'Todd Hoodenpyle'),
+        ('1989-1990', 'Jose Miranda'),
+        ('1990-1991', 'Albertico Morales'),
+        ('1991-1992', 'Noel Clackum'),
+        ('1991-1992', 'Emillo Romero'),
+        ('1992-1993', 'Omar Felix'),
+        ('1993-1994', 'Billy Ronson'),
+        ('1994-1995', 'Colby Williams'),
+        ],
+
+
+    'Coach of the Year': [
+        ('1986-1987', 'Chico Villar'),
+        ('1987-1988', 'Chico Villar'),
+        ('1988-1989', 'Tony Simoes'),
+        ('1989-1990', 'Peter Baralic'),
+        ('1990-1991', 'Caesar Cervin'),
+        ('1991-1992', 'Carlos Acosta'),
+        ('1992-1993', 'Zelimar Antonievic'),
+        ('1993-1994', 'Charlie Morgan'),
+        ('1994-1995', 'Charlie Morgan'),
         ],
 }
 

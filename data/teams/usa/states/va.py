@@ -5,6 +5,16 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Norfolk SharX', 
+        'city': 'Norfolk, VA',
+        'founded': 2011,
+        'dissolved': datetime.datetime(2012, 6, 25)
+        },
+    
+
     # USL
 
     {
