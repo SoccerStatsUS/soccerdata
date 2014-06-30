@@ -58,6 +58,7 @@ league_team_map = {
     'Western Soccer Alliance Playoffs': wsa_team_map,
     'American Professional Soccer League': apsl_team_map,
     'American Professional Soccer League Playoffs': apsl_team_map,
+    'APSL Professional Cup': apsl_team_map,
     'Professional Cup': apsl_team_map,
     'CONCACAF Champions Cup': apsl_team_map,
     'Friendly': {},
@@ -188,6 +189,7 @@ class TextProcessor(object):
             opponent = opponent.strip()
 
             # Get the opponent's normalized name.
+
             team_name_map = league_team_map[self.competition]
             key = (self.season, opponent) 
             if key in team_name_map:

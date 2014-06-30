@@ -19,8 +19,13 @@ Recopa Sudamericana; RS; soccer; domestic; Cup; 2; World; Earth
 SURUGA Bank Championship; SBC; soccer; domestic; League; 2; World; Earth
 Pan-Pacific Championship; PPC; soccer; domestic; League; 2; World; Earth
 
+Artemio Franchi Trophy; ATC; soccer; domestic; Cup; 2; World; Earth
+
 ** confederation
 
+Wantok Cup; WC; soccer; domestic; Cup; 2; Confederation; OFC
+
+Copa Rio; CR; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 Copa Aldao; CA; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 Copa Tie; CT; soccer; domestic; Cup; 2; Confederation; CONMEBOL
 
@@ -265,6 +270,7 @@ United States Interregional Soccer League (indoor); USISLi; indoor; domestic; Le
 Continental Indoor Soccer League; CISL; indoor; domestic; League; 2; Country; United States
 World Indoor Soccer League; WISL; indoor; domestic; League; 2; Country; United States
 
+Professional Arena Soccer League; PASL; indoor; domestic; League; 3; Country; United States
 Eastern Indoor Soccer League; EISL; indoor; domestic; League; 3; Country; United States
 Xtreme Soccer League; XSL; indoor; domestic; League; 3; Country; United States
 American Indoor Soccer League; AISL; indoor; domestic; League; 3; Country; United States
@@ -303,12 +309,11 @@ UEFA European Championship; EURO; soccer; international; Cup; 1; Confederation; 
 
 * Amateur
 
-
-*NCAA Division I Men's Soccer Championship; NCAA; soccer; domestic; Cup; 0; Country; United States
 NCAA Division I; NCAA; soccer; domestic; Cup; 0; Country; United States
-NCAA Division II; NCAAII; soccer; domestic; Cup; 0; Country; United States
-NCAA Division III; NCAAIII; soccer; domestic; Cup; 0; Country; United States
+NCAA Division II; NCAA2; soccer; domestic; Cup; 0; Country; United States
+NCAA Division III; NCAA3; soccer; domestic; Cup; 0; Country; United States
 
+NCAA Division I Women's Soccer Championship; NCAAw; soccer; domestic; Cup; 0; Country; United States
 
 * Friendlies
 

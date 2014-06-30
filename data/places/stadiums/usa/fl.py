@@ -16,6 +16,14 @@ l = [
         'location': 'Hialeah, FL',
         },    
 
+
+    {
+        'name': 'Plant City Stadium',
+        'location': 'Plant City, FL',
+        'capacity': 6000,
+        'opened': 1988,
+        },    
+
     {
         'name': 'FAU Soccer Stadium',
         'location': 'Boca Raton, FL',
