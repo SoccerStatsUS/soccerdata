@@ -6,6 +6,10 @@ import datetime
 l = [
 
 
+    {
+        'name': 'Universidad Iberoamericana FC',
+        'country': 'Bolivia',
+        },
 
 
 
@@ -1152,6 +1156,12 @@ l = [
         'founded': 1981,
         'city': 'Puerto Ordaz, Venezuela',
         },
+
+    {
+        'name': 'Atlético Venezuela',
+        'founded': datetime.datetime(2009, 7, 23),
+        'city': 'Caracas, Venezuela',
+        },
     {
         'name': 'Olmedo',
         'founded': datetime.datetime(1919, 11, 11),
@@ -1789,6 +1799,12 @@ l = [
     {
         'name': 'Deportivo Táchira',
         'founded': datetime.datetime(1974, 1, 11),
+        'city': 'San Cristobal, Venezuela',
+        },
+
+    {
+        'name': 'Portuguesa (Venezuela)',
+        'founded': datetime.datetime(1972, 3, 2),
         'city': 'San Cristobal, Venezuela',
         },
     {

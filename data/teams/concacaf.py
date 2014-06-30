@@ -11,6 +11,11 @@ l = [
         },
 
     {
+        'name': 'SV Prekash',
+        'country': 'Suriname',
+        },
+
+    {
         'name': 'SNL' ,
         'country': 'Suriname',
         },
@@ -20,6 +25,27 @@ l = [
         'country': 'Belize',
         },
 
+    # indoor
+
+    {
+        'name': 'Saltillo Rancho Seco',
+        'city': 'Saltillo, Mexico',
+        'founded': 2011,
+        },
+
+    {
+        'name': 'Monterrey Flash',
+        'city': 'Monterrey, Mexico',
+        'founded': 2011,
+        },
+
+    {
+        'name': 'Toros Mexico',
+        'city': 'Tijuana, Mexico',
+        'founded': 2009,
+        },
+    
+    # endindoor
 
     {
         'name': 'Inter Playa del Carmen',
@@ -51,6 +77,18 @@ l = [
         },
 
     {
+        'name': 'Naggo Head',
+        'founded': 1979,
+        'city': 'Portmore, Jamaica',
+        },
+
+    {
+        'name': 'Boys\' Town F.C.',
+        'founded': 1940,
+        'city': 'Kingston, Jamaica',
+        },
+
+    {
         'name': 'August Town',
         'city': 'August Town, Jamaica',
         },
@@ -60,10 +98,6 @@ l = [
         'city': 'Drax Hall, Jamaica',
         },
 
-    {
-        'name': 'Boys\' Town',
-        'city': 'Kingston, Jamaica',
-        },
 
     {
         'name': 'Cavalier FC',
@@ -193,6 +227,17 @@ l = [
         },
 
     {
+        'name': 'Malta Caribs',
+        'founded': 1974,
+        'city': 'Couva, Trinidad and Tobago',
+        },
+
+    {
+        'name': 'Mayaro United',
+        'city': 'Mayaro, Trinidad and Tobago',
+        },
+
+    {
         'name': 'FC South End',
         'city': 'Marabella, Trinidad and Tobago',
         },
@@ -283,6 +328,11 @@ l = [
     {
         'name': 'Notre Dame SC',
         'city': 'Bridgetown, Barbados',
+        },
+
+    {
+        'name': 'Lambada FC',
+        'country': 'Barbados',
         },
 
     {
@@ -596,6 +646,17 @@ l = [
         'city': 'St. Thomas, US Virgin Islands',
         },
 
+    {
+        'name': 'Unique FC',
+        'city': 'St. Croix, US Virgin Islands',
+        },
+
+
+    {
+        'name': 'Rockmaster FC',
+        'city': 'Saint Thomas, US Virgin Islands',
+        },
+
 
 
     {
@@ -609,6 +670,21 @@ l = [
         'city': 'Groveplace, US Virgin Islands',
         },
 
+    {
+        'name': 'UWS Upsetters',
+        'city': 'St. Thomas, US Virgin Islands',
+        # http://en.wikipedia.org/wiki/VSADC
+        },
+
+    # British Virgin Islands
+
+    {
+        'name': 'HBA Panthers',
+        'city': 'Road Town, British Virgin Islands',
+        # http://en.wikipedia.org/wiki/VSADC
+        },
+
+
 
     # Curacao
 
@@ -617,6 +693,11 @@ l = [
         'name': 'Centro Barber',
         'founded': 1951,
         'city': 'Willemstad, Curacao',
+        },
+
+    {
+        'name': 'Veendam',
+        'country': 'Curacao',
         },
 
     {
@@ -701,6 +782,11 @@ l = [
         },
 
     {
+        'name': 'Western Tigers FC',
+        'city': 'Georgetown, Guyana',
+        },
+
+    {
         'name': 'Guyana Defence Force',
         'founded': 1965,
         'city': 'Georgetown, Guyana',
@@ -758,6 +844,31 @@ l = [
         'city': 'Roseau, Dominica',
         },
 
+    {
+        'name': 'Saint Joseph',
+        'city': 'Saint Joseph, Dominica',
+        },
+    {
+        'name': 'Harlem United',
+        'city': 'Newtown, Dominica',
+        },
+
+    {
+        'name': 'Cafe Sisserou Strikers',
+        'country': 'Dominica',
+        },
+
+    {
+        'name': 'Sagicor South East United',
+        'city': 'La Plaine, Dominica',
+        },
+
+    {
+        'name': 'RD Grand Bazaar Dublanc',
+        'country': 'Dominica',
+        },
+
+
     # Saint Lucia
 
     {
@@ -765,14 +876,10 @@ l = [
         'city': 'Gros Islet, Saint Lucia',
         },
 
-
-
     {
         'name': 'Roots Alley Ballers',
         'city': 'Vieux Fort, Saint Lucia',
         },
-
-
 
 
     # Saint Kitts and Nevis
@@ -1088,6 +1195,16 @@ l = [
         'city': 'Bolans, Antigua and Barbuda',
         },
 
+    {
+        'name': 'Lion Hill Spliff',
+        'city': 'St. John\'s, Antigua and Barbuda',
+        },
+
+    {
+        'name': 'Villa Lions',
+        'city': 'St. John\'s, Antigua and Barbuda',
+        },
+
 
     {
         'name': 'Bassa',
@@ -1113,6 +1230,11 @@ l = [
         'name': 'Inter Moengotapoe',
         'founded': 1992,
         'city': 'Moengo, Suriname',
+        },
+
+    {
+        'name': 'Royal 95',
+        'country': 'Suriname',
         },
 
     {
@@ -1169,6 +1291,16 @@ l = [
         },
 
     {
+        'name': 'La Victoria',
+        'city': 'Corozal, Belize',
+        },
+
+    {
+        'name': 'Boca FC',
+        'city': 'Independence Village, Belize',
+        },
+
+    {
         'name': 'FC Belize',
         'founded': 2005,
         'city': 'Belize City, Belize',
@@ -1185,7 +1317,6 @@ l = [
         'founded': 1978,
         'city': 'Orange Walk, Belize',
         },
-
 
     {
         'name': 'Revolutionary Conquerors',
@@ -1209,6 +1340,11 @@ l = [
         'name': 'Wagiya',
         'city': 'Dangriga, Belize',
         'founded': 1984,
+        },
+
+    {
+        'name': 'Sagitun',
+        'city': 'Mango Creek, Belize',
         },
 
 
@@ -1256,6 +1392,12 @@ l = [
 
     {
         'name': 'Zénith (Morne-à-l\'Eau)',
+        #'founded': 1958,
+        'city': 'Morne-à-l\'Eau, Guadelopue',
+        },
+
+    {
+        'name': 'L\'Etoile de Morne-à-l\'Eau',
         'founded': 1958,
         'city': 'Morne-à-l\'Eau, Guadelopue',
         },
@@ -1282,6 +1424,11 @@ l = [
         'city': 'Baie-Mahault, Guadeloupe',
         },
 
+    {
+        'name': 'Siroco Les Abymes',
+        'city': 'Les Abymes, Guadeloupe',
+        },
+
 
 
     # French Guiana
@@ -1290,6 +1437,23 @@ l = [
     {
         'name': 'US Sinnamary',
         'city': 'Sinnamary, French Guiana',
+        },
+
+    {
+        'name': 'ASL Sport Guyanais',
+        'city': 'Cayenne, French Guiana',
+        'founded': 1936,
+        },
+
+    {
+        'name': 'AS Javouhey Mana',
+        'city': 'Mana, French Guiana',
+        },
+
+
+    {
+        'name': 'SC Kouroucien',
+        'country': 'French Guiana',
         },
 
 
@@ -1307,6 +1471,25 @@ l = [
         'name': 'Cobras de Ciudad Juárez',
         'founded': 1980,
         'city': 'Ciudad Juarez, Mexico',
+        },
+
+    {
+        'name': 'Delfines',
+        'founded': datetime.datetime(2011, 7, 20),
+        'dissolved': datetime.datetime(2014, 5, 1),
+        'city': 'Ciudad del Carmen, Mexico',
+        },
+
+    {
+        'name': 'Galeana',
+        'founded': 1956,
+        'city': 'Xochitepec, Mexico',
+        },
+
+    {
+        'name': 'Atlético San Luis',
+        'founded': datetime.datetime(2013, 5, 13),
+        'city': 'San Luis Potosi, Mexico',
         },
     {
         'name': 'Ballenas Galeana',
@@ -1782,6 +1965,15 @@ l = [
         'city': 'Castries, Saint Lucia',
         },
 
+    {
+        'name': 'VSADC', 
+        'city': 'Castries, Saint Lucia',
+        # http://en.wikipedia.org/wiki/VSADC
+        },
+
+
+
+
     # Cayman Islands
 
     {
@@ -1794,6 +1986,12 @@ l = [
     {
         'name': 'Bodden Town',
         'city': 'Bodden Town, Cayman Islands',
+        },
+
+
+    {
+        'name': 'Yobbo Rangers',
+        'country': 'Cayman Islands',
         },
 
 
@@ -1839,12 +2037,9 @@ l = [
         'city': 'Bayamon, Puerto Rico',
         },
 
-    # Dominica
 
-    {
-        'name': 'Sagicor South East United',
-        'city': 'La Plaine, Dominica',
-        },
+
+
 
     # Cuba
 

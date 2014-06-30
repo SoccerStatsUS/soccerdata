@@ -13,6 +13,12 @@ l = [
         },
 
     {
+        'name': 'Deportivo Nueva Concepción',
+        'city': 'Nueva Concepción, Guatemala',
+        },
+
+
+    {
         'name': 'Azucareros',
         'city': 'Santa Lucia Cotzumalguapa, Guatemala',
         },

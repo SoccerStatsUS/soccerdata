@@ -5,6 +5,29 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Hidaldo La Fiera',
+        'city': 'Hidalgo, TX',
+        'founded': 2012,
+        },
+
+    {
+        'name': 'Texas Outlaws',
+        'city': 'North Richland Hills, TX',
+        'founded': 2008,
+        'dissolved': 2010,
+        },
+
+    {
+        'name': 'Texas Strikers',
+        'city': 'Beaumont, TX',
+        'founded': 2012,
+        },
+
+    # old
+
     {
         'name': 'Dallas Association',
         'city': 'Dallas, TX',

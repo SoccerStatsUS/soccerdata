@@ -23,6 +23,13 @@ l = [
         #'dissolved': 1954,
         },
 
+    { 
+        'name': 'Philadelphia Ukrainians',
+        'city': 'Philadelphia, PA',
+        'founded': 1950,
+        'dissolved': 1976,
+        },
+
     # ASL
 
     { 
@@ -53,6 +60,11 @@ l = [
     { 
         'name': 'Pittsburgh Spirit',
         'city': 'Pittsburgh, PA',
+        },
+
+    { 
+        'name': 'Disston',
+        'city': 'Philadelphia, PA',
         },
 
     { 

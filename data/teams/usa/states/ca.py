@@ -5,6 +5,43 @@ import datetime
 
 l = [
 
+    # indoor
+
+
+    {
+        'name': 'Turlock Express',
+        'city': 'Turlock, CA',
+        'founded': 2011,
+        },
+
+    {
+        'name': 'Sacramento Surge',
+        'city': 'Sacramento, CA',
+        'founded': 2012,
+        },
+
+    {
+        'name': 'Anaheim Bolts',
+        'city': 'Anaheim, CA',
+        'founded': 2009,
+        },
+
+    {
+        'name': 'Bay Area Rosal',
+        'city': 'Livermore, CA',
+        'founded': 2013,
+        },
+
+
+    {
+        'name': 'Ontario Fury',
+        'founded': 2013,
+        'city': 'Ontario, CA',
+        },
+
+    # ?
+
+
     {
         'name': 'Palo Alto Mayfields',
         'city': 'Palo Alto, CA',

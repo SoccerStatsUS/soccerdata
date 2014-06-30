@@ -51,6 +51,14 @@ l = [
         'founded': 1938,
         'city': 'New York, NY',
         },
+
+    {
+        'name': 'Interborough Rapid Transit FC',
+        'city': 'New York, NY',
+        },
+
+
+
     {
         'name': 'Brooklyn St. Mary\'s Celtic',
         'city': 'Brooklyn, NY',
@@ -66,6 +74,13 @@ l = [
     {
         'name': 'New York Arrows',
         'city': 'Uniondale, NY',
+        },
+
+    {
+        'name': 'Robins Dry Dock',
+        'founded': 1918,
+        'dissolved': 1921,
+        'city': 'Brooklyn, NY',
         },
 
     {

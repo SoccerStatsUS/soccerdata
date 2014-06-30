@@ -12,6 +12,12 @@ l = [
         'city': 'Tunis, Tunisia',
         },
 
+    {
+        'name': 'Étoile du Sahel',
+        'founded': datetime.datetime(1925, 5, 11),
+        'city': 'Sousse, Tunisia',
+        },
+
 
     # Cameroon
 

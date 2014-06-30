@@ -5,6 +5,25 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Kansas Magic',
+        'city': 'Overland Park, KS',
+        'founded': 2011,
+        'dissolved': 2012,
+        },
+
+    {
+        'name': 'Wichita B-52s',
+        'city': 'Wichita, KS',
+        'founded': 2013,
+        },
+
+    # old
+
+
+
     {
         'name': 'Leavenworth Hibernian Society',
         'city': 'Leavenworth, KS',

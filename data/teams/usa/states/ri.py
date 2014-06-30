@@ -42,12 +42,27 @@ l = [
         },
 
     {
+        'name': 'Pawtucket Celtic',
+        'city': 'Pawtucket, RI',
+        },
+
+    {
         'name': 'South Providence Villas',
         'city': 'Providence, RI',
         },
 
     {
+        'name': 'Providence Portuguese',
+        'city': 'Providence, RI',
+        },
+
+    {
         'name': 'Thornton British Hosieries',
+        'city': 'Thornton, RI',
+        },
+
+    {
+        'name': 'Thornton Vics',
         'city': 'Thornton, RI',
         },
 

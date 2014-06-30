@@ -5,6 +5,25 @@ import datetime
 
 l = [
 
+    # Indoor
+
+
+
+    {
+        'name': 'Tacoma Stars',
+        'city': 'Tacoma, WA',
+        'founded': 1983,
+        'dissolved': 1992,
+        },
+
+
+    {
+        'name': 'Wenatchee Fire',
+        'founded': 2008,
+        'city': 'Wenatchee, WA',
+        },
+
+    # old
 
     {
         'name': 'Tacoma Association',
@@ -47,13 +66,6 @@ l = [
         'name': 'Seattle Reign FC',
         'city': 'Seattle, WA',
         'founded': 2012,
-        },
-
-    {
-        'name': 'Tacoma Stars',
-        'city': 'Tacoma, WA',
-        'founded': 1983,
-        'dissolved': 1992,
         },
 
 

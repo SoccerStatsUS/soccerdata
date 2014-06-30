@@ -5,6 +5,16 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Louisville Lightning',
+        'city': 'Louisville, KY',
+        'founded': 2009,
+        },
+
+
+
     {
         'name': 'Lexington Bluegrass Bandits',
         'city': 'Lexington, KY',

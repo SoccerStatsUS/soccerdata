@@ -5,6 +5,14 @@ import datetime
 
 l = [
 
+    # Indoor
+
+    {
+        'name': 'Tulsa Revolution',
+        'founded': 2012,
+        'city': 'Tulsa, OK',
+        },
+
     # division 1
 
     {

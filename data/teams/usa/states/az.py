@@ -14,6 +14,22 @@ l = [
         'dissolved': 1997,
         },
 
+    {
+        'name': 'Arizona Storm',
+        'city': 'Phoenix, AZ',
+        'founded': 2011,
+        'dissolved': 2013,
+        },
+
+    {
+        'name': 'Real Phoenix',
+        'city': 'Phoenix, AZ',
+        'founded': 2012,
+        },
+
+    # ?
+
+
 
     {
         'name': 'Arizona Condors',

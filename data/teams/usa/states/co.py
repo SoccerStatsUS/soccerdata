@@ -5,6 +5,24 @@ import datetime
 
 l = [
 
+    # indoor
+
+
+    {
+        'name': 'Colorado Lightning',
+        'city': 'Loveland, CO',
+        'founded': 2008,
+        },
+
+    {
+        'name': 'Denver Dynamite',
+        'city': 'Denver, CO',
+        'founded': 2008,
+        },
+
+
+    # old
+
     {
         'name': 'Colorado City FBC',
         'city': 'Colorado City, CO',

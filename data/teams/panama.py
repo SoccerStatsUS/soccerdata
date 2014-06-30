@@ -10,11 +10,23 @@ l = [
         'country': 'Panama',
         },
 
+    { 
+        'name': 'Cosmos FC',
+        'country': 'Panama',
+        },
+
 
 
     {
         'name': 'Tauro FC',
         'founded': 1984,
+        'city': 'Panama City, Panama',
+        },
+
+    {
+        'name': 'Bravos del Projusa',
+        'founded': 1993,
+        'dissolved': 1998,
         'city': 'Panama City, Panama',
         },
 
@@ -79,6 +91,11 @@ l = [
         'name': 'Sporting San Miguelito',
         'founded': 1989,
         'city': 'San Miguelito, Panamá',
+        },
+
+    {
+        'name': 'Sporting Colon',
+        'city': 'Colón, Panamá',
         },
 
 

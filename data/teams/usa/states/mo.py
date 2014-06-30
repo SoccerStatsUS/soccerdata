@@ -5,10 +5,25 @@ import datetime
 
 l = [
 
+    # Indoor
+
+    {
+        'name': 'St. Louis Illusion',
+        'founded': 2008,
+        'dissolved': 2010,
+        'city': 'St. Louis, MO',
+        },
+
     {
         'name': 'St. Louis Thistles',
         'city': 'St. Louis, MO',
         },
+
+    {
+        'name': 'Team St. Louis',
+        'city': 'St. Louis, MO',
+        },
+
 
     {
         'name': 'St. Louis Athletica',

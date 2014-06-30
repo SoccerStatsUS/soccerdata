@@ -6,6 +6,12 @@ import datetime
 l = [
 
     {
+        'name': 'Detroit Waza',
+        'city': 'Detroit, MI',
+        'founded': 2008,
+        },
+
+    {
         'name': 'Ann Arbor Town Team',
         'city': 'Ann Arbor, MI',
         },

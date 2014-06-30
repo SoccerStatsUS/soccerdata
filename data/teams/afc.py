@@ -133,6 +133,12 @@ l = [
         'founded': 1954,
         'city': 'Wuhan, China',
         },
+
+    {
+        'name': 'Wuhan Zall',
+        'founded': 2009,
+        'city': 'Wuhan, China',
+        },
     {
         'name': 'Changchun Yatai',
         'founded': 1996,

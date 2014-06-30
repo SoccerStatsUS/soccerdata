@@ -27,6 +27,13 @@ l = [
         'city': 'Toronto, ON',
         },
 
+    {
+        'name': 'Calgary United FC',
+        'founded': 2007,
+        'city': 'Calgary, AB',
+        },
+
+
     # division 1
 
 

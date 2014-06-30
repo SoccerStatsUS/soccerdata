@@ -23,6 +23,11 @@ l = [
         },
 
     {
+        'name': 'Lusitania Recreation',
+        'city': 'Cambridge, MA',
+        },
+
+    {
         'name': 'Boston Aztec',
         'city': 'Boston, MA',
         'founded': 2006,
@@ -116,6 +121,11 @@ l = [
 
     {
         'name': 'Worcester City Crickets',
+        'city': 'Worcester, MA',
+        },
+
+    {
+        'name': 'Worcester Swedish-Americans',
         'city': 'Worcester, MA',
         },
 

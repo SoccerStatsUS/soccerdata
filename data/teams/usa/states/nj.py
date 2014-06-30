@@ -19,6 +19,55 @@ l = [
         'city': 'Paterson, NJ',
         },
 
+    {
+        'name': 'Newarks',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Newark Ironsides',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Newark Hearts',
+        'city': 'Newark, NJ',
+        },
+
+
+    {
+        'name': 'Newark Ukrainians',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Kearny AC',
+        'city': 'Kearny, NJ',
+        },
+
+
+
+    {
+        'name': 'Paterson Rangers',
+        'city': 'Paterson, NJ',
+        },
+
+
+
+    {
+        'name': 'Kearny Federal Ship',
+        'city': 'Kearny, NJ',
+        },
+
+    {
+        'name': 'Kearny Athletics',
+        'city': 'Kearny, NJ',
+        },
+
+    {
+        'name': 'Jersey City FC',
+        'city': 'Jersey City, NJ',
+        },
 
 
     {

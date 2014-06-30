@@ -19,6 +19,12 @@ l = [
         'founded': datetime.datetime(1919, 6, 18),
         'city': 'Alajuela, Costa Rica',
         },
+
+    {
+        'name': 'Barrio Mexico',
+        'founded': 1945,
+        'city': 'San Jose, Costa Rica',
+        },
     {
         'name': 'Alajuela Junior',
         'founded': 1932,

@@ -5,6 +5,45 @@ import datetime
 
 l = [
 
+    # indoor
+
+    {
+        'name': 'Cleveland Freeze',
+        'founded': 2013,
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Cleveland Crunch',
+        'founded': 1989,
+        'dissolved': 2005,
+        'city': 'Cleveland, OH',
+        },
+
+    {
+        'name': 'Cleveland Force',
+        'city': 'Cleveland, OH',
+        'founded': 1978,
+        'dissolved': 1988,
+        },
+
+    {
+        'name': 'Ohio Vortex',
+        'city': 'Medina, OH',
+        'founded': 2009,
+        'dissolved': 2013,
+        },
+
+    {
+        'name': 'Cincinnati Saints',
+        'city': 'Cincinnati, OH',
+        'founded': 2009,
+        },
+
+
+
+    # old.
+
     {
         'name': 'Cleveland Globes',
         'city': 'Cleveland, OH',
@@ -85,12 +124,6 @@ l = [
         'city': 'Canton, OH',
         },
 
-    {
-        'name': 'Cleveland Crunch',
-        'founded': 1989,
-        'dissolved': 2005,
-        'city': 'Cleveland, OH',
-        },
 
 
     {
@@ -101,12 +134,6 @@ l = [
         },
 
 
-    {
-        'name': 'Cleveland Force',
-        'city': 'Cleveland, OH',
-        'founded': 1978,
-        'dissolved': 1988,
-        },
 
 
 
