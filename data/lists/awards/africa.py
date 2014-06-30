@@ -2,7 +2,36 @@
 # -*- coding: utf-8 -*-
 
 
+
+
+
+
+
+ghana = {
+
+    'competition': 'UEFA Champions League',
+    'team_data': ['Champion'],
+    'champion': 'Champion',
+    'Champion': [
+
+        ('1955-1956', 'Real Madrid'),
+        ('1956-1957', 'Real Madrid'),
+        ('1957-1958', 'Real Madrid'),
+        ('1958-1959', 'Real Madrid'),
+        ('1959-1960', 'Real Madrid'),
+        ],
+}
+
+
+
+
+
 #http://en.wikipedia.org/wiki/African_Footballer_of_the_Year
+
+
+
+
+
 
 caf_award = [
     (2010, 'Samuel Eto\'o', 'Asamoah Gyan','Didier Drogba'),

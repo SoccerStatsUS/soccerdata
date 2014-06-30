@@ -47,5 +47,9 @@ d = {
         ('2011-2012 Clausura', 'Tauro'),
         ('2012-2013 Apertura', 'Arabe Unido'),
         ('2012-2013 Clausura', 'Sporting San Miguelito'),
+
+        ('2013-2014 Apertura', 'Tauro FC'),
+        ('2013-2014 Clausura', 'Chorrillo FC'),
+
         ],
 }

@@ -3,18 +3,37 @@
 
 
 
-copa_rio = {
-    'competition': 'Copa Rio de Janeiro',
+
+club_world_cup = {
+    'competition': 'Club World Cup',
     'team_data': ['Champion'],
 
     'Champion': [
-        (1951, 'Palmeiras'),
-        (1952, 'Fluminense'),
-        (1953, 'Vasco da Gama'),
-         ]
+        (2000, 'SC Corinthians'),
+        (2005, 'Sao Paulo FC'),
+        (2006, 'Internacional'),
+        (2007, 'AC Milan'),
+        (2008, 'Manchester United'),
+        (2009, 'FC Barcelona'),
+        (2010, 'Internazionale'),
+        (2011, 'FC Barcelona'),
+        (2012, 'SC Corinthians'),
+        (2013, 'Bayern Munich'),
+        ],
+
+    'MVP': [
+        (2000, 'Edilson'),
+        (2005, 'Rogerio Ceni'),
+        (2006, 'Deco'),
+        (2007, 'Kaka'),
+        (2008, 'Wayne Rooney'),
+        (2009, 'Lionel Messi'),
+        (2010, 'Samuel Eto\'o'),
+        (2011, 'Lionel Messi'),
+        (2012, 'Cassio'),
+        (2013, 'Franck Ribery'),
+        ]
 }
-
-
 
 confederations = {
     'competition': 'FIFA Confederations Cup',
@@ -44,6 +63,23 @@ confederations = {
 
 }
 
+
+
+
+copa_rio = {
+    'competition': 'Copa Rio de Janeiro',
+    'team_data': ['Champion'],
+
+    'Champion': [
+        (1951, 'Palmeiras'),
+        (1952, 'Fluminense'),
+        (1953, 'Vasco da Gama'),
+         ]
+}
+
+
+
+
 copita = {
     'competition': 'La Copita del Mundo', 
     'team_data': ['Champion'],
@@ -66,37 +102,6 @@ copita = {
 }
 
 
-club_world_cup = {
-    'competition': 'Club World Cup',
-    'team_data': ['Champion'],
-
-    'Champion': [
-        (2000, 'SC Corinthians'),
-        (2005, 'Sao Paulo FC'),
-        (2006, 'Internacional'),
-        (2007, 'AC Milan'),
-        (2008, 'Manchester United'),
-        (2009, 'Barcelona'),
-        (2010, 'Internazionale'),
-        (2011, 'Barcelona'),
-        (2012, 'SC Corinthians'),
-        (2013, 'Bayern Munich'),
-        ],
-
-    'MVP': [
-        (2000, 'Edilson'),
-        (2005, 'Rogerio Ceni'),
-        (2006, 'Deco'),
-        (2007, 'Kaka'),
-        (2008, 'Wayne Rooney'),
-        (2009, 'Lionel Messi'),
-        (2010, 'Samuel Eto\'o'),
-        (2011, 'Lionel Messi'),
-        (2012, 'Cassio'),
-        (2013, 'Franck Ribery'),
-        ]
-}
-
 
 intercontinental_cup = {
     'competition': 'Intercontinental Cup',
@@ -105,13 +110,13 @@ intercontinental_cup = {
     'Champion': [
         (1960, 'Real Madrid'),
         (1961, 'Penarol'),
-        (1962, 'Santos'),
-        (1963, 'Santos'),
+        (1962, 'Santos (Brazil)'),
+        (1963, 'Santos (Brazil)'),
         (1964, 'Internazionale'),
         (1965, 'Internazionale'),
         (1966, 'Penarol'),
         (1967, 'Racing Club (Argentina)'),
-        (1968, 'Estudiantes'),
+        (1968, 'Estudiantes (LP)'),
         (1969, 'AC Milan'),
         (1970, 'Feyenoord'),
         (1971, 'Nacional'),
@@ -182,7 +187,7 @@ interamerican_cup = {
     'team_data': ['Champion'],
 
     'Champion': [
-        (1968, 'Estudiantes'),
+        (1968, 'Estudiantes (LP)'),
         (1971, 'Nacional'),
         (1972, 'Independiente'),
         (1974, 'Independiente'),

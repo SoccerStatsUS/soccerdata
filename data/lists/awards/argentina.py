@@ -194,6 +194,7 @@ d = {
         #('2012-2013', 'Velez Sarsfield'),
 
         ('2013-2014 Inicial', 'San Lorenzo de Almagro'),
+        ('2013-2014 Final', 'River Plate'),
         
          ]
 

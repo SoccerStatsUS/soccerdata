@@ -109,8 +109,8 @@ copa_libertadores = {
     'Champion': [
         (1960, 'Penarol'),
         (1961, 'Penarol'),
-        (1962, 'Santos'),
-        (1963, 'Santos'),
+        (1962, 'Santos (Brazil)'),
+        (1963, 'Santos (Brazil)'),
         (1964, 'Independiente'),
         (1965, 'Independiente'),
         (1966, 'Penarol'),
@@ -158,8 +158,9 @@ copa_libertadores = {
         (2008, 'LDU'),
         (2009, 'Estudiantes de La Plata'),
         (2010, 'Internacional'),
-        (2011, 'Santos'),
+        (2011, 'Santos (Brazil)'),
         (2012, 'Corinthians'),
+        (2013, 'Atletico Mineiro'),
         ],
         
 }

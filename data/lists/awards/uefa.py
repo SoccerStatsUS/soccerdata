@@ -75,6 +75,7 @@ champions = {
         ('2010-2011', 'FC Barcelona'),
         ('2011-2012', 'Chelsea'),
         ('2012-2013', 'Bayern Munich'),
+        ('2013-2014', 'Real Madrid'),
         ],
 }
 
@@ -129,6 +130,7 @@ europa = {
         ('2010-2011', 'Porto'),
         ('2011-2012', 'Atletico Madrid'),
         ('2012-2013', 'Chelsea'),
+        ('2013-2014', 'Sevilla'),
         ],
 }
 
@@ -258,6 +260,7 @@ france = {
         ('2010-2011', 'Lille'),
         ('2011-2012', 'Montpellier'),
         ('2012-2013', 'PSG'),
+        ('2013-2014', 'PSG'),
         ],
 
     'Player of the Year': [
@@ -365,6 +368,7 @@ germany = {
         ('2010-2011', 'Borussia Dortmund'),
         ('2011-2012', 'Borussia Dortmund'),
         ('2012-2013', 'Bayern Munich'),
+        ('2013-2014', 'Bayern Munich'),
         ],
 
    'Golden Boot': [
@@ -476,6 +480,7 @@ italy = {
         ('2010-2011', 'Milan'),
         ('2011-2012', 'Juventus'),
         ('2012-2013', 'Juventus'),
+        ('2013-2014', 'Juventus'),
         ],
 
 
@@ -527,6 +532,7 @@ italy = {
         ('2010-2011', 'Antonio Di Natale'),
         ('2011-2012', 'Zlatan Ibrahimović'),
         ('2012-2013', 'Edinson Cavani'),
+        ('2013-2014', 'Ciro Immobile'),
         ],
 
     'MVP': [ 
@@ -638,6 +644,7 @@ spain = {
         ('2010-2011', 'FC Barcelona'),
         ('2011-2012', 'Real Madrid'),
         ('2012-2013', 'FC Barcelona'),
+        ('2013-2014', 'Atletico Madrid'),
         ],
 
     'Golden Boot': [
@@ -687,9 +694,8 @@ spain = {
         ('2010-2011', 'Cristiano Ronaldo'),
         ('2011-2012', 'Lionel Messi'),
         ('2012-2013', 'Lionel Messi'),
+        ('2013-2014', 'Cristiano Ronaldo'),
         ],
-
-    
 
     'Best Player': [
         ('2008-2009', 'Lionel Messi'),
@@ -797,6 +803,7 @@ portugal = {
         ('2010-2011', 'Porto'),
         ('2011-2012', 'Porto'),
         ('2012-2013', 'Porto'),
+        ('2013-2014', 'Benfica'),
         ],
 
     'Golden Boot': [
@@ -814,6 +821,7 @@ portugal = {
         ('2010-2011', 'Hulk'),
         ('2011-2012', 'Oscar Cardozo'),
         ('2012-2013', 'Jackson Martinez'),
+        ('2013-2014', 'Jackson Martinez'),
         ],
 
 
@@ -896,6 +904,7 @@ scotland = {
         ('2010-2011', 'Glasgow Rangers'),
         ('2011-2012', 'Glasgow Celtic'),
         ('2012-2013', 'Glasgow Celtic'),
+        ('2013-2014', 'Glasgow Celtic'),
         ],
 }
 
@@ -927,6 +936,7 @@ denmark = {
         ('2010-2011', 'FC København'),
         ('2011-2012', 'FC Nordsjælland'),
         ('2012-2013', 'FC København'),
+        ('2013-2014', 'AaB'),
         ],
 
 }
@@ -951,6 +961,7 @@ sweden = {
         ('2010', 'Malmo FF'),
         ('2011', 'Helsingborgs IF'),
         ('2012', 'IF Elfsborg'),
+        ('2013', 'Malmo FF'),
         ],
 }
 
@@ -980,6 +991,7 @@ norway = {
         ('2010', 'Rosenborg'),
         ('2011', 'Molde'),
         ('2012', 'Molde'),
+        ('2013', 'Stromgodset'),
         ],
 }
 
@@ -1009,6 +1021,7 @@ russia = {
         ('2010', 'Zenit Saint Petersburg'),
         ('2011-2012', 'Zenit Saint Petersburg'),
         ('2012-2013', 'CSKA Moscow'),
+        ('2013-2014', 'CSKA Moscow'),
         ],
 }
 
@@ -1074,6 +1087,7 @@ turkey = {
         ('2010-2011', 'Fenerbahce'),
         ('2011-2012', 'Galatasary'),
         ('2012-2013', 'Galatasary'),
+        ('2013-2014', 'Fenerbahce'),
         ],
 
     'Golden Boot': [
@@ -1135,6 +1149,7 @@ turkey = {
         ('2010-2011', 'Alexsandro de Souza'),
         ('2011-2012', 'Burak Yilmaz'),
         ('2012-2013', 'Burak Yilmaz'),
+        ('2013-2014', 'Aatif Chahechouhe'),
         ],
   
 }
@@ -1202,6 +1217,7 @@ netherlands = {
         ('2010-2011', 'Ajax'),
         ('2011-2012', 'Ajax'),
         ('2012-2013', 'Ajax'),
+        ('2013-2014', 'Ajax'),
         ],
 
    'Golden Boot': [
@@ -1228,6 +1244,7 @@ netherlands = {
         ('2010-2011', 'Bjorn Vleminckx'),
         ('2011-2012', 'Bas Dost'),
         ('2012-2013', 'Wilfried Bony'),
+        ('2013-2014', 'Alfreð Finnbogason'),
         ],
 
 
@@ -1266,6 +1283,7 @@ belgium = {
         ('2010-2011', 'KRC Genk'),
         ('2011-2012', 'Anderlecht'),
         ('2012-2013', 'Anderlecht'),
+        ('2013-2014', 'Anderlecht'),
         ],
 }
 
@@ -1296,6 +1314,7 @@ czech = {
         ('2010-2011', 'FC Viktoria Plzeň'),
         ('2011-2012', 'FC Slovan Liberec'),
         ('2012-2013', 'FC Viktoria Plzeň'),
+        ('2013-2014',' Sparta Prague'),
         ],
 }
 
@@ -1323,6 +1342,7 @@ poland = {
         ('2010-2011', 'Wisla Krakow'),
         ('2011-2012', 'Slask Wroclaw'),
         ('2012-2013', 'Legia Warsaw'),
+        ('2013-2014', 'Legia Warsaw'),
         ],
 }
 
@@ -1351,6 +1371,7 @@ switzerland = {
         ('2010-2011', 'FC Basel'),
         ('2011-2012', 'FC Basel'),
         ('2012-2013', 'FC Basel'),
+        ('2013-2014', 'FC Basel'),
         ],
 }
 
@@ -1379,6 +1400,7 @@ austria = {
         ('2010-2011', 'Sturm Graz'),
         ('2011-2012', 'Salzburg'),
         ('2012-2013', 'Austria Wien'),
+        ('2013-2014', 'Red Bull Salzburg'),
         ],
 }
 
@@ -1408,6 +1430,7 @@ hungary = {
         ('2010-2011', 'Videoton'),
         ('2011-2012', 'Debreceni VSC'),
         ('2012-2013', 'Gyori ETO'),
+        ('2013-2014', 'Debreceni VSC'),
         ],
 
     'Golden Boot': [
@@ -1455,6 +1478,7 @@ greece = {
         ('2010-2011', 'Olympiakos'),
         ('2011-2012', 'Olympiakos'),
         ('2012-2013', 'Olympiakos'),
+        ('2013-2014', 'Olympiakos'),
         ],
 }
 
@@ -1476,6 +1500,7 @@ serbia = {
         ('2010-2011', 'Partizan Belgrade'),
         ('2011-2012', 'Partizan Belgrade'),
         ('2012-2013', 'Partizan Belgrade'),
+        ('2013-2014', 'Red Star Belgrade'),
         ],
 }
 

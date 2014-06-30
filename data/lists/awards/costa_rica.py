@@ -7,6 +7,11 @@ d = {
     'team_data': ['Champion'],
 
     'Champion': [
+
+        ('2013-2014 Clausura', 'Saprissa'),
+        ('2013-2014 Apertura', 'LD Alajuelense'),
+
+        ('2012-2013 Clausura', 'Herediano'),
         ('2012-2013 Apertura', 'LD Alajuelense'),
 
         ('2011-2012 Clausura', 'CS Herediano'),

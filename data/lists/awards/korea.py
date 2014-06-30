@@ -37,6 +37,7 @@ d = {
         (2010, 'FC Seoul'),
         (2011, 'Jeonbuk Hyundai Motors'),
         (2012, 'FC Seoul'),
+        (2013, 'Pohang Steelers'),
         ],
     
     'MVP': [

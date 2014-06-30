@@ -27,6 +27,7 @@ d = {
         ('2010', 'Nagoya Grampus Eight'),
         ('2011', 'Kashiwa Reysol'),
         ('2012', 'Sanfrecce Hiroshima'),
+        ('2013', 'Sanfrecce Hiroshima'),
     ],
 
     'MVP':  [

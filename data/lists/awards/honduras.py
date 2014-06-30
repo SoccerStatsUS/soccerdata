@@ -8,6 +8,8 @@ d = {
 
 
     'Champion': [
+        ('2013-2014 Clausura', 'CD Olimpia'),
+        ('2013-2014 Apertura', 'Real CD Espana'),
         ('2012-2013 Clausura', 'CD Olimpia'),
         ('2012-2013 Apertura', 'CD Olimpia'),
         ('2011-2012 Clausura', 'CD Olimpia'),

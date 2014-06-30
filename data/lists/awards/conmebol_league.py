@@ -90,7 +90,8 @@ uruguay = {
         ('2009-2010', 'Penarol'),
         ('2010-2011', 'Nacional'),
         ('2011-2012', 'Nacional'),
-
+        ('2012-2013', 'Penarol'),
+        ('2013-2014', 'Danubio'),
         ],
 
     'Golden Boot': [
@@ -295,7 +296,10 @@ chile = {
         ('2012 Apertura', 'Universidad de Chile'),
         ('2012 Clausura', 'Huachipato'),
 
+        ('2013 Transición', 'Union Espanola'),
 
+        ('2013-2014 Apertura', 'O\'Higgins'),
+        ('2013-2014 Clausura', 'Colo Colo'),
 
         ]
 }
@@ -397,6 +401,12 @@ colombia = {
         ('2012 Apertura', 'Santa Fe (Colombia)'),
         ('2012 Finalizacion', 'Millonarios'),
 
+        ('2013 Apertura', 'Atletico Nacional'),
+        ('2013 Finalizacion', 'Atletico Nacional'),
+
+        ('2014 Apertura', 'Atletico Nacional'),
+
+
 
         ]
 }
@@ -467,6 +477,7 @@ ecuador = {
         (2010, 'LDU Quito'),
         (2011, 'Deportivo Quito'),
         (2012, 'Barcelona (Ecuador)'),
+        (2013, 'Emelec'),
         ]
 }
 
@@ -537,6 +548,9 @@ bolivia = {
 
         ('2012-2013 Apertura', 'The Strongest'),
         ('2012-2013 Clausura', 'Bolivar'),
+
+        ('2013-2014 Apertura', 'The Strongest'),
+        ('2013-2014 Clausura', 'Universitario'),
 
         ]
 }
@@ -644,6 +658,7 @@ peru = {
         (2010, 'Universidad San Martin'),
         (2011, 'Juan Aurich'),
         (2012, 'Sporting Cristal'),
+        (2013, 'Universitario (Peru)'),
         ]
 }
 
@@ -744,5 +759,6 @@ paraguay = {
         ('2012 Clausura', 'Libertad (Paraguay)'),
 
         ('2013 Apertura', 'Nacional (Paraguay)'),
+        ('2013 Clausura', 'Libertad'),
         ]
 }

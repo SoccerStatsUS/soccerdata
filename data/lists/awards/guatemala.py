@@ -58,5 +58,10 @@ d = {
         ('2011-2012 Clausura', 'Xelaju MC'),
 
         ('2012-2013 Apertura', 'Comunicaciones'),
+        ('2012-2013 Clausura', 'Comunicaciones'),
+
+        ('2013-2014 Apertura', 'Comunicaciones'),
+        ('2013-2014 Clausura', 'Comunicaciones'),
+
         ],
 }

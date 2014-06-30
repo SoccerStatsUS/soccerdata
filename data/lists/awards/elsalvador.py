@@ -60,5 +60,10 @@ d = {
         ('2011-2012 Clausura', 'CD Aguila'),
 
         ('2012-2013 Apertura', 'Isidro Metapan'),
+        ('2012-2013 Clausura', 'LA Firpo'),
+
+        ('2013-2014 Apertura', 'Isidro Metapan'),
+        ('2013-2014 Clausura', 'Isidro Metapan'),
+
         ],
 }

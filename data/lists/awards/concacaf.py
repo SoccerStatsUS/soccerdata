@@ -18,7 +18,7 @@ champions_cup = {
         (1973, 'Transvaal'),
         (1974, 'Municipal'),
         (1975, 'Atletico Espanol'),
-        (1976, 'Aguila'),
+        (1976, 'CD Aguila'),
         (1978, 'Universidad de Guadalajara'),
         (1978, 'Comunicaciones'),
         (1978, 'Defence Force'),

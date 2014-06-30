@@ -104,7 +104,9 @@ d = {
 
         ('2012-2013 Apertura', 'Tijuana'),
         ('2012-2013 Clausura', 'Club America'),
+
         ('2013-2014 Apertura', 'Club Leon'),
+        ('2013-2014 Clausura', 'Club Leon'),
         ],
 
 
