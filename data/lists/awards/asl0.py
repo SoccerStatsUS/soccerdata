@@ -13,7 +13,7 @@ d = {
         ('1927-1928', 'Boston Wonder Workers'),
         ('1928-1929', 'Fall River Marksmen'),
         ('1929 Fall', 'Fall River Marksmen'),
-        ('1930 Spring', 'Fall River Marksmen'),
+        ('1929-1930', 'Fall River Marksmen'),
         ('1930 Fall', 'Fall River Marksmen'),
         ('1931 Spring', 'New York National Giants'),
         ('1931 Fall', 'New Bedford Whalers'),
