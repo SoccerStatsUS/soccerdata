@@ -257,6 +257,8 @@ misl2 = {
         ('2005-2006', 'Vicente Figueroa'),
         ('2006-2007', 'Stephen Armstrong'),
         ],
+
+    # All-MISL first, second teams, all-rookie
 }
 
 misl3 = {

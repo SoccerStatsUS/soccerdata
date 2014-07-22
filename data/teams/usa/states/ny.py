@@ -303,6 +303,20 @@ l = [
         'city': 'New York, NY',
         },
 
+    {
+        'name': 'New York SC Giants',
+        'founded': 1923,
+        'dissolved': 1930,
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Nationals', # created from Indiana Flooring
+        'founded': 1927,
+        'dissolved': 1932,
+        'city': 'New York, NY',
+        },
+
     # Separate earlier New York, Brooklyn Hakoah teams.
     {
         'name': 'Hakoah All-Stars',
