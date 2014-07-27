@@ -13,9 +13,9 @@ Season; 1987
 * Guadalajara (Mexico)
 * América (Mexico)
 
-Round: Group Phase
+Stage: group
 
-* Round 1
+Round: 1
 
 6/11/1987; América; 0-5; Vasco da Gama
 ; Dunga 2, Dunga 90, Unknown 44, Tita 72, Tita 74
@@ -23,15 +23,15 @@ Round: Group Phase
 6/11/1987; Guadalajara; 0-1; Rosario Central
 ; Omar Palma 83
 
-* Round 2
-[Jun 15]
+Round: 2
+
 6/15/1987; Guadalajara; 2-0; Dundee United
 Paul Moreno 31, Sergio Lugo 76;
 
 6/15/1987; Club América; 1-2; Roma
 Adrián Camacho 35; Boniek 41, Boniek 43
 
-* Round 3
+Round: 3
 
 6/17/1987; Rosario Central; 3-1; Dundee United
 Argota 17, Omar Palma 80, Roberto Candella 86; Ian Ferguson 23
@@ -50,7 +50,7 @@ Dundee United     2  0  0  2  1:5  -4  0
 *Qualified to Semifinals
 
 Round: Semifinals
-[Jun 20]
+
 6/20/1987; Rosario Central; 1-1; Roma
 Penalty kicks:  6-5
 
@@ -64,6 +64,7 @@ Round: Third Place
 Alejandro Guerrero 3, Luis Manuel Díaz 13, Concepción Rodríguez 16, Paul Moreno 73; Own Goal (Demetrio Madero) 22, Boniek (pk) 59
 
 Round: Final
+
 6/21/1987; Vasco da Gama; 2-1; Rosario Central
 Vivinho 15, Geovani 66; Oswaldo Escudero 64
 
