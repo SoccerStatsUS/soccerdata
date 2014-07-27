@@ -14,15 +14,6 @@ l = [
         'founded': 2010,
         },
 
-    # ESL
-
-    {
-        'name': 'New York Celtics',
-        },
-
-    {
-        'name': 'New York Hungaria',
-        },
     
 
     {
@@ -286,7 +277,7 @@ l = [
         },
 
 
-
+    # ASL - American Soccer League
     # Need to separate later Brooklyn Wanderers teams (there are multiple.)
     {
         'name': 'Brooklyn Wanderers',
@@ -295,7 +286,6 @@ l = [
         'city': 'Brooklyn, NY',
         },
 
-    # Add Giants, Nationals alias,de-alias.
     {
         'name': 'Indiana Flooring',
         'founded': 1924,
@@ -314,6 +304,16 @@ l = [
         'name': 'New York Nationals', # created from Indiana Flooring
         'founded': 1927,
         'dissolved': 1932,
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'Brooklyn Hakoah',
+        'city': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'New York Prague',
         'city': 'New York, NY',
         },
 
@@ -337,6 +337,24 @@ l = [
         'founded': 1921,
         'dissolved': 1922,
         'city': 'Brooklyn, NY',
+        },
+
+
+    # ESL
+
+    {
+        'name': 'New York Hakoah',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Celtics',
+        'city': 'New York, NY',
+        },
+
+    {
+        'name': 'New York Hungaria',
+        'city': 'New York, NY',
         },
 
     # USL
