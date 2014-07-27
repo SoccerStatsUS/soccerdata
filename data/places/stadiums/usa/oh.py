@@ -26,6 +26,11 @@ l = [
         },
 
     {
+        'name': 'Dayton Outpatient Center Stadium',
+        'location': 'Dayton, OH',
+        },
+
+    {
         'name': 'Krenzler Field',
         'location': 'Cleveland, OH',
         },

@@ -417,6 +417,21 @@ l = [
         'location': 'Irvine, CA',
         'capacity': 2500,
         },        
+
+    {
+        'name': 'Charles C. Hughes Stadium',
+        'address': '3835 Freeport Blvd',
+        'location': 'Sacramento, CA',
+        'capacity': 20311,
+        },        
+
+    {
+        'name': 'Bonney Field',
+        'address': '1600 Exposition Blvd',
+        'location': 'Sacramento, CA',
+        'opened': datetime.datetime(2014, 6, 20),
+        'capacity': 8000,
+        },        
     
     
     

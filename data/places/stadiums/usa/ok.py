@@ -15,4 +15,10 @@ l = [
         'capacity': 30000,
         },
 
+
+    {
+        'name': 'Pribil Stadium',
+        'location': 'Oklahoma City, OK',
+        },
+
     ]

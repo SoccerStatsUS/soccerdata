@@ -4,6 +4,12 @@
 import datetime
 
 l = [
+
+    {
+        'name': 'Lubetkin Field',
+        'location': 'Newark, NJ',
+        },
+
     {
         'name': 'Newark Schools Stadium',
         'address': '450 Bloomfield Avenue',
@@ -281,4 +287,6 @@ l = [
         'name': 'Shooting Park',
         'location': 'Newark, NJ',
         },
+
+
     ]

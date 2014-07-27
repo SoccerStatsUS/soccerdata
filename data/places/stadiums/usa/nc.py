@@ -55,6 +55,11 @@ l = [
         },
 
     {
+        'name': 'Charlotte Latin Stadium',
+        'location': 'Charlotte, NC',
+        },
+
+    {
         'name': 'Rudd Field',
         'location': 'Elon, NC',
         },
