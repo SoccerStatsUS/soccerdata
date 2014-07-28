@@ -26,6 +26,11 @@ l = [
         },
 
     {
+        'name': 'Newburgh Shipyards',
+        'city': 'Newburgh, NY',
+        },
+
+    {
         'name': 'FA Euro',
         'founded': 2013,
         'city': 'Brooklyn, NY',

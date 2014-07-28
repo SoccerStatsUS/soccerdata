@@ -130,10 +130,20 @@ l = [
         'location': 'New York, NY',
         },
 
+    {
+        'name': 'Lenox Oval',
+        'location': 'New York, NY',
+        },
+
 
     {
         'name': 'Macombs Dam Park',
         'address': '157th Street and Major Deegan Expressway',
+        'location': 'Bronx, NY',
+        },
+
+    {
+        'name': 'Thrift Oval',
         'location': 'Bronx, NY',
         },
 
@@ -167,6 +177,11 @@ l = [
         },
 
     {
+        'name': 'Desmond Park',
+        'location': 'Newburgh, NY',
+        },
+
+    {
         'name': 'Lewisohn Stadium',
         'address': '137th and Amsterdam',
         'location': 'New York, NY',
@@ -176,6 +191,16 @@ l = [
 
     {
         'name': 'Marquette Oval',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Brooklyn Oval',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Bensonhurst Field',
         'location': 'Brooklyn, NY',
         },
 
@@ -361,6 +386,13 @@ l = [
         'capacity': 10840,
         'cost': 35300000,
         },
+
+    {
+        'name': 'Hudson Avenue Field',
+        'location': 'Rochester, NY',
+        },
+
+
     
     {
         'name': 'Metropolitan Oval',
@@ -402,6 +434,16 @@ l = [
 
     {
         'name': 'Staten Island Cricket Grounds',
+        'location': 'Staten Island, NY',
+        },
+
+    {
+        'name': 'Grant City',
+        'location': 'Staten Island, NY',
+        },
+
+    {
+        'name': 'Bruce Hansen Memorial Field',
         'location': 'Staten Island, NY',
         },
 
@@ -459,19 +501,37 @@ l = [
         },        
     
     
-    {
-        'name': 'Lenox Oval',
-        'location': 'New York, NY',
-        },
     
     {
         'name': 'Todd Field',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Hedley Field',
         'location': 'Brooklyn, NY',
         },
     {
         'name': 'Ulmer Park',
         'location': 'Brooklyn, NY',
         },
+
+    {
+        'name': 'East New York Oval',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Dana Park',
+        'location': 'Brooklyn, NY',
+        },
+
+    {
+        'name': 'Erasmus Field',
+        'location': 'Brooklyn, NY',
+        },
+
+
     {
         'name': 'New York Oval',
         'location': 'New York, NY',
@@ -508,10 +568,30 @@ l = [
         'name': 'Kahler\'s Park',
         'location': 'Brooklyn, NY',
         },
+
+    {
+        'name': 'Bay Ridge Oval',
+        'location': 'Brooklyn, NY',
+        },
     
     {
         'name': 'Ridgewood Baseball Grounds',
         'location': 'Queens, NY',
+        },
+
+    {
+        'name': 'Degnon Field',
+        'location': 'Long Island City, NY',
+        },
+
+    {
+        'name': 'Aluminum Park', 
+        'location': 'Niagara Falls, NY',
+        },
+
+    {
+        'name': 'Edison Park',
+        'location': 'Brooklyn, NY',
         },
     
     

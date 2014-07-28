@@ -102,4 +102,9 @@ l = [
         'opened': datetime.datetime(1922, 10, 7),
         'architect': 'Howard Dwight Smith',
         },        
+
+    {
+        'name': 'Jesse Owens Memorial Stadium',
+        'location': 'Columbus, OH',
+        },        
     ]

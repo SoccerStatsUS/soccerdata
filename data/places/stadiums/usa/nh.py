@@ -10,6 +10,11 @@ l = [
         'name': 'Singer Park',
         'location': 'Manchester, NH',
         },
+
+    {
+        'name': 'Dr. George J. Larkin Field',
+        'location': 'Manchester, NH',
+        },
     {
         'name': 'The Green',
         'location': 'Hanover, NH',

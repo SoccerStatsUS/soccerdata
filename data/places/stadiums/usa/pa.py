@@ -10,6 +10,11 @@ l = [
         'city': 'Philadelphia, PA',
         },
 
+    { 
+        'name': 'Treveskyn Field',
+        'city': 'Treveskyn, PA',
+        },
+
     {
         'name': 'Heinz Field',
         'address': '100 Art Rooney Avenue',
@@ -160,7 +165,7 @@ l = [
         },
 
     {
-        'name': 'Disston Ball park',
+        'name': 'Disston Ball Park',
         'location': 'Philadelphia, PA',
         },
     
@@ -237,6 +242,22 @@ l = [
     {
         'name': 'Cambria Field',
         'location': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Passon Field',
+        'location': 'Philadelphia, PA',
+        },
+
+    {
+        'name': 'Houston Field',
+        'location': 'Philadelphia, PA',
+        },
+    {
+        'name': 'Frankford Stadium',
+        'location': 'Philadelphia, PA',
+        'opened': 1923, 
+        'closed': 1931,
         },
     
     {

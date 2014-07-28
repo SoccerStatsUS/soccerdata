@@ -29,7 +29,14 @@ l = [
         },
 
     {
-        'name': 'Cagan Stadium',
+        'name': 'Stagg Memorial Stadium',
+        'location': 'Stockton, CA',
+        'opened': datetime.datetime(1950, 10, 21),
+        'capacity': 28000,
+        },
+
+    {
+        'name': 'Laird Q. Cagan Stadium',
         'location': 'Stanford, CA',
         },
 
@@ -97,6 +104,12 @@ l = [
         'architect': 'HOK Sport',
         'capacity': 12500,
         },
+
+    {
+        'name': 'Steiner Field',
+        'location': 'Fresno, CA',
+        },
+
     {
         'name': 'Norco College',
         'location': 'Norco, CA',
@@ -244,6 +257,11 @@ l = [
         'name': 'Peter Johansen High School Stadium',
         'location': 'Modesto, CA',
         },
+
+    {
+        'name': 'Ernie Nevers Field',
+        'location': 'Santa Rosa, CA',
+        },
     
     
     
@@ -367,7 +385,7 @@ l = [
         },
     
     {
-        'name': 'Douglas Stadium',
+        'name': 'Merrill Douglas Stadium',
         'location': 'San Diego, CA',
         },
     

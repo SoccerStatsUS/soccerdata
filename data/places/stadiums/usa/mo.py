@@ -62,6 +62,11 @@ l = [
         },
 
     {
+        'name': 'O\'Fallon Tech Field',
+        'location': 'St. Louis, MO',
+        },
+
+    {
         'name': 'Tony Glavin Soccer Complex',
         'address': '2 Woodlands Pkwy',
         'location': 'St. Peters, MO',
@@ -127,6 +132,11 @@ l = [
     {
         'name': 'St. Louis Soccer Park',
         'location': 'Fenton, MO',
+        },
+
+    {
+        'name': 'Julian Field',
+        'location': 'Parkville, MO',
         },
     
     {

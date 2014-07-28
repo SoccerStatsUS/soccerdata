@@ -20,6 +20,11 @@ l = [
         },
 
     {
+        'name': 'Paterson Thistles',
+        'city': 'Paterson, NJ',
+        },
+
+    {
         'name': 'Newarks',
         'city': 'Newark, NJ',
         },
@@ -178,6 +183,11 @@ l = [
         },
     {
         'name': 'Newark Canadian Rovers',
+        'city': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Newark Tiffany Rovers',
         'city': 'Newark, NJ',
         },
 

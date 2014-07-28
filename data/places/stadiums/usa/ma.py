@@ -70,11 +70,6 @@ l = [
 
 
     
-    # Athletic field for New Bedford HS
-    {
-        'name': 'Sargent Field',
-        'location': 'New Bedford, MA',
-        },
 
     {
         'name': 'Salem Common',
@@ -149,6 +144,11 @@ l = [
         'name': 'Fall River Athletic Field',
         'location': 'Fall River, MA',
         },
+
+    {
+        'name': 'Fall River Stadium',
+        'location': 'Fall River, MA',
+        },
     
     {
         'name': 'Alan Carson Field',
@@ -162,9 +162,31 @@ l = [
         'opened': datetime.datetime(1957, 9, 21),
         'capacity': 44500,
         },
+
+
+    # Athletic field for New Bedford HS
+    {
+        'name': 'Sargent Field',
+        'location': 'New Bedford, MA',
+        },
     
     {
         'name': 'New Bedford Baseball Park',
+        'location': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Battery Park',
+        'location': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Page Mill Field',
+        'location': 'New Bedford, MA',
+        },
+
+    {
+        'name': 'Atlantic Field',
         'location': 'New Bedford, MA',
         },
 

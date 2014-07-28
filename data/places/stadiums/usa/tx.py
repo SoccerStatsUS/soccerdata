@@ -251,8 +251,11 @@ l = [
         },
     
     {
-        'name': 'Socorro Stadium',
+        'name': 'SISD Student Activities Complex',
         'location': 'El Paso, TX',
+        'opened': 2000,
+        'capacity': 11000,
+        'cost': 9200000,
         },
     
     

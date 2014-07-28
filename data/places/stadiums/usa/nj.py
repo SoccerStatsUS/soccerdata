@@ -178,6 +178,11 @@ l = [
         'name': 'Frelinghuysen Grounds',
         'location': 'Newark, NJ',
         },
+
+    {
+        'name': 'Weidenmayer\'s Park',
+        'location': 'Newark, NJ',
+        },
     {
         'name': 'St. George\'s Cricket Grounds',
         'location': 'Hoboken, NJ',
@@ -190,6 +195,11 @@ l = [
     {
         'name': 'Elysian Fields',
         'location': 'Hoboken, NJ',
+        },
+
+    {
+        'name': 'Americus Park',
+        'location': 'West Hoboken, NJ',
         },
     {
         'name': 'Federal League Baseball Grounds',
@@ -220,6 +230,15 @@ l = [
         'location': 'Jersey City, NJ',
         },
 
+    {
+        'name': 'Washburn Park',
+        'location': 'Jersey City, NJ',
+        },        
+    {
+        'name': 'West End Grounds',
+        'location': 'Jersey City, NJ',
+        },        
+
     
     {
         'name': 'Ruppert Stadium',
@@ -237,14 +256,7 @@ l = [
         'name': 'Carey Stadium',
         'location': 'Ocean City, NJ',
         },
-    {
-        'name': 'Washburn Park',
-        'location': 'Jersey City, NJ',
-        },        
-    {
-        'name': 'West End Grounds',
-        'location': 'Jersey City, NJ',
-        },        
+
     {
         'name': 'Newark Rink',
         'location': 'Newark, NJ',
@@ -275,6 +287,12 @@ l = [
         'name': 'Ironbound Field',
         'location': 'Newark, NJ',
         },
+
+    {
+        'name': 'Turn Verein Field',
+        'location': 'Newark, NJ',
+        },
+
     {
         'name': 'East State Street Grounds',
         'location': 'Trenton, NJ',
@@ -286,6 +304,11 @@ l = [
     {
         'name': 'Shooting Park',
         'location': 'Newark, NJ',
+        },
+
+    {
+        'name': 'Farcher\'s Grove',
+        'location': 'Union, NJ',
         },
 
 

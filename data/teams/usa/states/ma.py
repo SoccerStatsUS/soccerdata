@@ -140,6 +140,11 @@ l = [
         },
 
     {
+        'name': 'Holyoke Rangers',
+        'city': 'Holyoke, MA',
+        },
+
+    {
         'name': 'Woburn Olympics',
         'city': 'Woburn, MA',
         },

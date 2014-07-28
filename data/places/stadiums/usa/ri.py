@@ -19,6 +19,12 @@ l = [
         },
 
     {
+        'name': 'Kinsley Park',
+        'location': 'Providence, RI',
+        'closed': 1931, # no later than.
+        },
+
+    {
         'name': 'Stevenson Field',
         'location': 'Providence, RI',
         'capacity': 3500,

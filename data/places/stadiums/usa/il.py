@@ -130,6 +130,16 @@ l = [
         'name': 'Hanson Stadium',
         'location': 'Chicago, IL',
         },
+
+    {
+        'name': 'Hyde Park Blues Oval',
+        'location': 'Chicago, IL',
+        },
+
+    {
+        'name': 'Winnemac Park', # Jorndt Field now, I think. about 1 block from old apt.
+        'location': 'Chicago, IL',
+        },
     
     {
         'name': 'Soldier Field',
@@ -179,6 +189,11 @@ l = [
     
     {
         'name': 'Comiskey Park',
+        'location': 'Chicago, IL',
+        },
+
+    {
+        'name': 'McCully Field',
         'location': 'Chicago, IL',
         },
     

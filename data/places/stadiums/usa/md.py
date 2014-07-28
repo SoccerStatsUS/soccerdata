@@ -41,6 +41,16 @@ l = [
         },
 
     {
+        'name': 'Kohler Park',
+        'location': 'Baltimore, MD',
+        },
+
+    {
+        'name': 'Kirk Avenue Stadium',
+        'location': 'Baltimore, MD',
+        },
+
+    {
         'name': 'Retriever Soccer Park',
         'location': 'Baltimore, MD',
         },

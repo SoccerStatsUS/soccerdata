@@ -36,6 +36,21 @@ l = [
         'name': 'DeMartin Soccer Complex',
         'location': 'East Lansing, MI',
         },
+
+    {
+        'name': 'Maloney\'s Park',
+        'location': 'Detroit, MI',
+        },
+
+    {
+        'name': 'Packard Park',
+        'location': 'Detroit, MI',
+        },
+
+    {
+        'name': 'West End Park',
+        'location': 'Detroit, MI',
+        },
     
     {
         'name': 'Tigers Stadium',
@@ -65,6 +80,11 @@ l = [
     {
         'name': 'U-M Soccer Stadium',
         'location': 'Ann Arbor, MI',
+        },
+
+    {
+        'name': 'Hurley Field',
+        'location': 'Berkley, MI',
         },
 
     {

@@ -14,6 +14,13 @@ l = [
         'capacity': 4892,
         },
 
+    {
+        'name': 'McCulloch Stadium',
+        'location': 'Salem, OR',
+        'opened': 1950,
+        'capacity': 2500,
+        },
+
 
     {
         'name': 'Jeld-Wen Field',
