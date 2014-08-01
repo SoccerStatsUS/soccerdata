@@ -5,6 +5,21 @@ import datetime
 
 l = [
 
+    # USL
+
+    {
+        'name': 'Phoenix FC', # Wolves
+        'city': 'Phoenix, AZ',
+        'founded': 2012,
+        'dissolved': 2014,
+        },
+
+    {
+        'name': 'Arizona United SC',
+        'city': 'Peoria, AZ',
+        'founded': 2014,
+        },
+
     # indoor
 
     {
@@ -47,11 +62,7 @@ l = [
 
 
 
-    {
-        'name': 'Phoenix FC',
-        'city': 'Phoenix, AZ',
-        'founded': 2012,
-        },
+
 
     {
         'name': 'Phoenix Inferno',

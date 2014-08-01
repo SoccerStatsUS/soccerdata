@@ -192,7 +192,7 @@ l = [
         },
 
     { 
-        'name': 'Chicago Fire Reserves',
+        'name': 'Chicago Fire (PDL)', # 'Chicago Fire Reserves',
         'city': 'Chicago, IL',
         },
 

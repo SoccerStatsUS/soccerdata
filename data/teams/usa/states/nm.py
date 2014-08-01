@@ -12,6 +12,11 @@ l = [
         'dissolved': 1996,
         },
 
+    {
+        'name': 'Albuquerque Sol FC',
+        'city': 'Albuquerque, NM',
+        'founded': 2013,
+        },
 
 
 

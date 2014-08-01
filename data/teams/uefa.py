@@ -383,13 +383,6 @@ l = [
         },
 
     {
-        'name': 'Internațional Curtea de Argeș',
-        'city': 'Curtea de Argeș, Romania',
-        'founded': 2000,
-        'dissolved': 2011,
-        },
-
-    {
         'name': 'Poli Iași',
         'city': 'Iași, Romania',
         'founded': datetime.datetime(1945, 4, 27),

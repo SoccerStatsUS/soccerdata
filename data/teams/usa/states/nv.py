@@ -84,10 +84,19 @@ l = [
         'dissolved': 1985,
         },
 
+
+
     {
         'name': 'Northern Nevada Aces',
         'city': 'Reno, NV',
         'founded': 2001,
         'dissolved': 2004,
+        },
+
+
+    {
+        'name': 'Las Vegas Mobsters',
+        'city': 'Las Vegas, NV',
+        'founded': 2013,
         },
 ]

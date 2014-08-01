@@ -11,6 +11,13 @@ l = [
         'city': 'Portland, OR',
         },
 
+
+    {
+        'name': 'Lane United FC',
+        'city': 'Eugene, OR', # Also Springfield, OR
+        'founded': 2013,
+        },
+
     #D1
 
     {

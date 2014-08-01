@@ -362,6 +362,16 @@ l = [
         'city': 'New York, NY',
         },
 
+
+    # ASL 2
+
+    {
+        'name': 'Brooklyln Wanderers (ASL2)',
+        'city': 'Brooklyn, NY',
+        },
+
+    
+
     # USL
 
     {
