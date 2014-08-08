@@ -5,6 +5,11 @@ import datetime
 
 l = [
 
+    { 
+        'name': 'Donora Steel Works',
+        'city': 'Donora, PA',
+        },
+
     # indoor
     
     { 

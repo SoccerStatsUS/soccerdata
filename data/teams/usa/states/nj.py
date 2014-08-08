@@ -4,6 +4,12 @@
 import datetime
 
 l = [
+
+
+    {
+        'name': 'Hoboken Germans',
+        'city': 'Hoboken, NJ',
+        },
     
 
     # early
@@ -12,6 +18,7 @@ l = [
         'name': 'Americus AA',
         'city': 'West Hoboken, NJ',
         },
+
 
     # ASL
 
@@ -150,11 +157,6 @@ l = [
 
     {
         'name': 'Trenton Cricketeers',
-        'city': 'Trenton, NJ',
-        },
-
-    {
-        'name': 'Trenton Butler Streets',
         'city': 'Trenton, NJ',
         },
 
