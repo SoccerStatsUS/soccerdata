@@ -1,27 +1,12 @@
-# Soccerdata - miscellaneous soccer data.
+### Soccerdata - miscellaneous soccer data.
 
-### data gaps.
+This is the husk of the original data store of the project.
 
-* 2010 World Cup
-* Gold Cup champions; non-us results/goals/lineups
-* Open Cup information is spotty; watch out for release of new Open Cup data.
-* ASL game locations/refs; lineups + goals
-* CCL lineup/goal info is very weak.
-* SuperLiga non-US goals/lineups
-* CCC information is quite weak.
-* USL-1, USL-2 2008-2009 lineups/goals
-* ISL data incomplete.
-* PDL everything.
-* Everything APSL pre-1993; 1994-1995 is spotty.
-* ASL2 entirely terrible.
+Pretty much all easily-categorized data has been migrated to a different section.
 
-* Fix Brooklyn Hakoah name mapping (other ASL name mappings.)
-* Draw graph of seasons.
+Game, statistical, and standing data can be found in indiidual repos, eg uefa-data, usd1_data.
+General team, player, and other metadata can be found in metadata.
 
-0. Fix giant ASL team name bug issue - easy but producing a lot of errors.
-1. Convert bios to yaml.
-
-### Error detection
 
 
 ### Notes
