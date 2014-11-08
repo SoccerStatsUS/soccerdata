@@ -1,1 +1,1 @@
-from metadata import ROOT_DIR
+from metadata.settings import ROOT_DIR
