@@ -926,7 +926,7 @@ Season: 2014
 18; Real Salt Lake; Ryan Neil; D; Cal Berkeley
 19; Colorado Rapids; Grant Van De Casteele; D; Notre Dame
 
-*Round 2
+*Round: 2
 
 20; Chivas USA; Thomas McNamara; M ; Clemson
 21; Seattle Sounders FC; Jimmy Ockford; D ; University of Louisville
@@ -948,7 +948,7 @@ Season: 2014
 37; Montreal Impact; George Malki ; M ; Cal Poly
 38; Sporting Kansas City ; Adnan Gabeljic ; F ; St. Louis University
 
-*Round 3
+*Round: 3
 
 39; Portland Timbers; George Fochive ; M ; University of Connecticut
 40; Chivas USA; Kris Tyrpak ; M ; Houston Baptist University
@@ -970,7 +970,7 @@ Season: 2014
 56; D.C. United; Zach Barnes; M ; Creighton University
 57; Sporting Kansas City; Alex Martinez ; M; NC State
 
-*Round 4
+*Round: 4
 
 58; Vancouver Whitecaps FC; Mackenzie Pridham; F; Cal Poly
 59; Chivas USA; Michael Nwiloh; D; Georgia State University
@@ -998,51 +998,51 @@ Season: 2015
 
 * Round: 1
 
-1 ; Orlando City SC; Cyle Larin Forward Connecticut
-2 ; New York City FC; Khiry Shelton ; Forward; Oregon State
-3 ; Montreal Impact ; Romario Williams ; Forward; UCF
-4 ; San Jose Earthquakes; Fatai Alashe ; Midfielder ; Michigan State
-5 ; Portland Timbers ; Nick Besler ; Midfielder ; Notre Dame
-6 ; Toronto FC ; Alex Bono; Goalkeeper ; Syracuse
-7 ; Chicago Fire; Matt Polster; Defender; SIU-Edwardsville
-8 ; Houston Dynamo; Zach Steinberger; Midfielder; Butler
-9 ; Toronto FC ; Clément Simonin ; Defender; North Carolina State
-10 ; Sporting Kansas City; ; Connor Hallisey; Midfielder California-Berkeley
-11 ; Toronto FC; Skylar Thomas ; Defender ; Syracuse
-12 ; Sporting Kansas City; Saad Abdul-Salaam ; Defender ; Akron
-13 ; Vancouver Whitecaps FC; Tim Parker ; Defender ; St. John's
-14 ; Colorado Rapids; Axel Sjöberg ; Defender ; Marquette
-15 ; FC Dallas ; Otis Earle ; Defender ; California-Riverside
-16 ; Seattle Sounders FC; Cristian Roldan ; Midfielder ; Washington
-17 ; D.C. United; Miguel Aguilar ; Forward ; San Francisco
-18 ; New York Red Bulls; Leo Stolz ; Midfielder; UCLA
-19 ; Columbus Crew SC ; ; Sergio Campbell; Defender ; Connecticut
-20 ; Sporting Kansas City; Amadou Dia ; Defender ; Clemson
-21 ; Los Angeles Galaxy ; Ignacio Maganto ; Forward ; Iona
+1 ; Orlando City SC; Cyle Larin; F; Connecticut
+2 ; New York City FC; Khiry Shelton ; F; Oregon State
+3 ; Montreal Impact ; Romario Williams ; F; UCF
+4 ; San Jose Earthquakes; Fatai Alashe ; M; Michigan State
+5 ; Portland Timbers ; Nick Besler ; M; Notre Dame
+6 ; Toronto FC ; Alex Bono; GK; Syracuse
+7 ; Chicago Fire; Matt Polster; D; SIU-Edwardsville
+8 ; Houston Dynamo; Zach Steinberger; M; Butler
+9 ; Toronto FC ; Clément Simonin ; D; North Carolina State
+10 ; Sporting Kansas City; Connor Hallisey; M; California-Berkeley
+11 ; Toronto FC; Skylar Thomas ; D; Syracuse
+12 ; Sporting Kansas City; Saad Abdul-Salaam ; D; Akron
+13 ; Vancouver Whitecaps FC; Tim Parker ; D; St. John's
+14 ; Colorado Rapids; Axel Sjöberg ; D; Marquette
+15 ; FC Dallas ; Otis Earle ; D; California-Riverside
+16 ; Seattle Sounders FC; Cristian Roldan ; M; Washington
+17 ; D.C. United; Miguel Aguilar ; F; San Francisco
+18 ; New York Red Bulls; Leo Stolz ; M; UCLA
+19 ; Columbus Crew SC ; Sergio Campbell; D; Connecticut
+20 ; Sporting Kansas City; Amadou Dia ; D; Clemson
+21 ; Los Angeles Galaxy ; Ignacio Maganto ; F; Iona
 
 * Round: 2
 
-22 ; Orlando City SC ; Conor Donovan; Defender ; North Carolina State
-23 ; New York City FC ; Connor Brandt; Midfielder; San Diego
-24 ; Portland Timbers ; Andy Thoma ; Defender ; Washington
-25 ; Orlando City SC ; Akeil Barrett ; Forward ; Tulsa
-26 ; Colorado Rapids; Joseph Greenspan; Defender ; US Naval Academy
-27 ; Real Salt Lake; Boyd Okwuonu ; Defender; Tulsa
-28 ; Chicago Fire; Kinglsey Bryce ; Forward ; St. Louis
-29 ; Toronto FC ; Wesley Charpie ; Defender ; South Florida
-30 ; Sporting Kansas City; Oumar Ballo ; Defender; UM-Baltimore County
-31 ; Philadelphia Union; Dzenan Catic; Forward ; Davenport
-32 ; Portland Timbers ; Christian Volesky; Forward; SIU-Edwardsville
-33 ; Seattle Sounders FC; Tyler Miller ; Goalkeeper; Northwestern
-34 ; Portland Timbers; Kharlton Belmar ; Forward ; Virginia Commonwealth
-35 ; Columbus Crew SC; Sagi Lev-Ari ; Forward ; Cal State-Northridge
-36 ; Houston Dynamo; Rob Lovejoy; Forward; North Carolina
-37 ; Toronto FC; Edwin Rivas ; Forward ; Cal State-Northridge
-38 ; Vancouver Whitecaps FC; Kay Banjo ; Forward; UM-Baltimore County
-39 ; New York Red Bulls; Stefano Bonomo ; Forward ; California
-40 ; Seattle Sounders FC; Oniel Fisher ; Midfielder ; New Mexico
-41 ; Philadelphia Union; Eric Bird ; Midfielder ; Virginia
-42 ; D.C. United; Dan Metzger ; Midfielder ; Maryland
+22 ; Orlando City SC ; Conor Donovan; D; North Carolina State
+23 ; New York City FC ; Connor Brandt; M; San Diego
+24 ; Portland Timbers ; Andy Thoma ; D; Washington
+25 ; Orlando City SC ; Akeil Barrett ; F; Tulsa
+26 ; Colorado Rapids; Joseph Greenspan; D; US Naval Academy
+27 ; Real Salt Lake; Boyd Okwuonu ; D; Tulsa
+28 ; Chicago Fire; Kinglsey Bryce ; F; St. Louis
+29 ; Toronto FC ; Wesley Charpie ; D; South Florida
+30 ; Sporting Kansas City; Oumar Ballo ; D; UM-Baltimore County
+31 ; Philadelphia Union; Dzenan Catic; F; Davenport
+32 ; Portland Timbers ; Christian Volesky; F; SIU-Edwardsville
+33 ; Seattle Sounders FC; Tyler Miller ; GK; Northwestern
+34 ; Portland Timbers; Kharlton Belmar ; F; Virginia Commonwealth
+35 ; Columbus Crew SC; Sagi Lev-Ari ; F; Cal State-Northridge
+36 ; Houston Dynamo; Rob Lovejoy; F; North Carolina
+37 ; Toronto FC; Edwin Rivas ; F; Cal State-Northridge
+38 ; Vancouver Whitecaps FC; Kay Banjo ; F; UM-Baltimore County
+39 ; New York Red Bulls; Stefano Bonomo ; F; California
+40 ; Seattle Sounders FC; Oniel Fisher ; M; New Mexico
+41 ; Philadelphia Union; Eric Bird ; M; Virginia
+42 ; D.C. United; Dan Metzger ; M; Maryland
 
 * Round: 3
 
@@ -1055,7 +1055,7 @@ Season: 2015
 49; Houston Dynamo; Taylor Hunter; M; Denver University
 50; Toronto FC; Michael Ramos; F; Whitworth
 51; Philadelphia Union; Aaron Simmons; D; UCLA
-52; Portland Timbers; Anthony Manning; D: SLU
+52; Portland Timbers; Anthony Manning; D; SLU
 53; Sporting KC; James Rogers; M; UNM
 54; Vancouver Whitecaps; Jovan Blagojevic; F; Simon Fraser
 55; Columbus Crew; Robert Kristo; F; SLU

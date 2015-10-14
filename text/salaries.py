@@ -2,13 +2,17 @@ import os
 
 from soccerdata.settings import ROOT_DIR
 
-SALARIES_PATH = os.path.join(ROOT_DIR, 'soccerdata/data/notes/money/salaries/mls.csv')
-MLS_SALARIES_PATH = os.path.join(ROOT_DIR, 'soccerdata/data/notes/money/salaries/%s')
-
+SALARIES_PATH = os.path.join(ROOT_DIR, 'usd1_data/data/salaries/mls.csv')
+MLS_SALARIES_PATH = os.path.join(ROOT_DIR, 'usd1_data/data/salaries/%s')
 
 
 def load_salaries():
+
+    s1 = []
+
+    # What is this doing?
     s1 = load_old_salaries()
+
     for e in range(2011, 2014):
         s1 += load_new_salaries(MLS_SALARIES_PATH % e, e)
     return [e for e in s1 if e]
